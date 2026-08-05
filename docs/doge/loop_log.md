@@ -15491,3 +15491,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +46 (bud_paj_*); commitments +8; leaderboard +10; sources +1; entity city_pajottegem; FOI **gap_paj_invest_underspend_debt_fva_l5** prio9 ready + draft; PDF primary (not committed ~35MB); rq_1126=done; spawn **rq_1127**; ticks=1126
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1127** residual dual L5; deferred **rq_116**; progress@1130 in 4
+
+### Tick 1127 - 2026-08-12T05:00:00Z
+
+- Unit: **rq_1127** (FOI-adjacent residual dual - **Gemeente+OCMW Lanaken Jaarrekening 2025** dual residual after AGB tick1120)
+- Found (strong primary BBC JR2025 GE+OCMW 146p text; gelinkt-notuleren GR 29 jun 2026; NIS **73042**; KBO GE **0207.478.743** / OCMW **0212.190.765**; Jan Rosierlaan 1 3620; AD W. Vancleynenbreugel FD T. Huysmans):
+  - Assets **EUR200.258m JUMP** (was **EUR160.271m**) / equity **EUR146.907m** / debt total **EUR53.351m** / fin debt **EUR27.068m JUMP FOI** (LT **EUR24.670m** / ST due **EUR2.397m**; was **EUR22.432m**)
+  - **New loans EUR7.050m MASSIVE FOI** / repayments **EUR2.414m**
+  - Cash **EUR11.279m FLAT** / pension LT **EUR17.860m FOI** / **FVA IGS EUR67.518m MASSIVE JUMP FOI** (was **EUR32.592m**; herwaard **EUR34.926m**) / leasing MVA ~**EUR3.334m**
+  - Exploitatie: ontvangsten **EUR50.373m** / uitgaven **EUR44.618m** / saldo **+EUR5.755m VERY STRONG**
+  - AFM **+EUR3.594m VERY STRONG FOI** (MJP was **+EUR0.241m**) / gecorr AFM **+EUR4.214m** / BBR **EUR8.524m** / budget **+EUR0.927m** (MJP was **-EUR5.196m**)
+  - Fiscal **EUR25.503m** / PB **EUR9.482m** / OP **EUR9.091m** / **personeel EUR23.257m FOI** (onderwijs other-govt **EUR4.496m**)
+  - Toelagen werking **EUR10.014m FOI** (politie **EUR3.915m** / brandweer **EUR1.199m** / IGS **EUR2.094m** / AGB **EUR0.471m** / andere **EUR2.144m**)
+  - **OCMW cover FULL EUR3.285m FOI** / OCMW P&L **-EUR4.068m DEEP FOI** / OCMW equity **-EUR0.286m**
+  - Invest **EUR10.339m** vs MJP **EUR12.690m UNDERSPEND FOI** / invest-subs eredienst **EUR0.721m JUMP FOI**
+  - Consol BBR+AGB **EUR8.793m** / consol AFM **EUR3.489m** (AGB **-EUR0.105m**)
+- Dual: AGB Lanaken AFM NEG / dividend despite loss (tick1120) already on board - not TE-additive; GE dual residual now closed
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere / Brakel GE+OCMW / Puurs / AGB Galmaarden residual next; progress@1130 in 3
+- Wrote: budgets +45 (bud_lan_*); commitments +8; leaderboard +10; sources +1; entity city_lanaken update; FOI **gap_lan_fva_reval_loans_ocmw_toelagen_l5** prio9 ready + draft; PDF primary (not committed ~8.5MB); rq_1127=done; spawn **rq_1128**; ticks=1127
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1128** residual dual L5; deferred **rq_116**; progress@1130 in 3

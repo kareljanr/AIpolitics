@@ -29697,3 +29697,48 @@ bud_paj_werkingssub_alg_2025,city_pajottegem,2025,10080455,,,bbc_jr_realized,src
 bud_paj_werkingssub_spec_2025,city_pajottegem,2025,15306875,,,bbc_jr_realized,src_pajottegem_jr2025,strong,GE+OCMW specifieke werkingssubsidies in 15.307m; tick1126
 bud_paj_pop_2025,city_pajottegem,2025,25479,,,bbc_jr_realized,src_pajottegem_jr2025,strong,Inwoners YE2025 25479 (was 25287 01/01); tick1126
 bud_paj_vte_2025,city_pajottegem,2025,238,,,bbc_jr_realized,src_pajottegem_jr2025,strong,Effectief VTE ~237.72 YE2025 FOI; tick1126
+bud_lan_assets_2025,city_lanaken,2025,200258034,,,bbc_jr_realized,src_lanaken_jr2025,strong,Consol GE+OCMW total assets YE2025 200.258m JUMP (was 160.271m); tick1127
+bud_lan_equity_2025,city_lanaken,2025,146906983,,,bbc_jr_realized,src_lanaken_jr2025,strong,Nettoactief YE2025 146.907m JUMP; tick1127
+bud_lan_debt_total_2025,city_lanaken,2025,53351051,,,bbc_jr_realized,src_lanaken_jr2025,strong,Total schulden YE2025 53.351m; tick1127
+bud_lan_fin_debt_2025,city_lanaken,2025,27067715,,,bbc_jr_realized,src_lanaken_jr2025,strong,T4 total financiele schulden YE2025 27.068m JUMP (was 22.432m; LT 24.670 + ST due 2.397); tick1127
+bud_lan_fin_debt_lt_2025,city_lanaken,2025,24670476,,,bbc_jr_realized,src_lanaken_jr2025,strong,Financiele schulden LT YE2025 24.670m; tick1127
+bud_lan_fin_debt_st_due_2025,city_lanaken,2025,2397239,,,bbc_jr_realized,src_lanaken_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 2.397m; tick1127
+bud_lan_new_loans_2025,city_lanaken,2025,7049925,,,bbc_jr_realized,src_lanaken_jr2025,strong,Nieuwe leningen 7.050m MASSIVE JUMP FOI; tick1127
+bud_lan_aflossingen_2025,city_lanaken,2025,2414395,,,bbc_jr_realized,src_lanaken_jr2025,strong,Periodieke aflossingen 2.414m; tick1127
+bud_lan_cash_2025,city_lanaken,2025,11278661,,,bbc_jr_realized,src_lanaken_jr2025,strong,Liquide middelen YE2025 11.279m FLAT; tick1127
+bud_lan_pension_lt_2025,city_lanaken,2025,17859708,,,bbc_jr_realized,src_lanaken_jr2025,strong,Pensioenvoorzieningen LT YE2025 17.860m (was 18.282m); tick1127
+bud_lan_fva_total_2025,city_lanaken,2025,71294957,,,bbc_jr_realized,src_lanaken_jr2025,strong,Financiele vaste activa YE2025 71.295m JUMP; tick1127
+bud_lan_fva_igs_2025,city_lanaken,2025,67517597,,,bbc_jr_realized,src_lanaken_jr2025,strong,Fin VA IGS YE2025 67.518m MASSIVE JUMP (was 32.592m; herwaard 34.926m); tick1127
+bud_lan_fva_agb_2025,city_lanaken,2025,500000,,,bbc_jr_realized,src_lanaken_jr2025,strong,Extern verzelfstandigde agentschappen (AGB) 0.500m; tick1127
+bud_lan_herwaard_2025,city_lanaken,2025,34933093,,,bbc_jr_realized,src_lanaken_jr2025,strong,Herwaarderingsreserves YE2025 34.933m MASSIVE (IGS reval); tick1127
+bud_lan_leasing_mva_2025,city_lanaken,2025,3333833,,,bbc_jr_realized,src_lanaken_jr2025,strong,Leasing MVA total ~3.334m (gemeenschap 2.769 + bedrijfsmatig 0.565); tick1127
+bud_lan_mva_2025,city_lanaken,2025,109322784,,,bbc_jr_realized,src_lanaken_jr2025,strong,Materiele vaste activa YE2025 109.323m; tick1127
+bud_lan_cap_subs_2025,city_lanaken,2025,16599239,,,bbc_jr_realized,src_lanaken_jr2025,strong,Kapitaalsubsidies YE2025 16.599m; tick1127
+bud_lan_expl_rec_2025,city_lanaken,2025,50373167,,,bbc_jr_realized,src_lanaken_jr2025,strong,Exploitatieontvangsten 50.373m; tick1127
+bud_lan_expl_exp_2025,city_lanaken,2025,44618098,,,bbc_jr_realized,src_lanaken_jr2025,strong,Exploitatieuitgaven 44.618m; tick1127
+bud_lan_expl_saldo_2025,city_lanaken,2025,5755069,,,bbc_jr_realized,src_lanaken_jr2025,strong,Exploitatiesaldo +5.755m VERY STRONG; tick1127
+bud_lan_invest_exp_2025,city_lanaken,2025,10339166,,,bbc_jr_realized,src_lanaken_jr2025,strong,Investeringsuitgaven J2 10.339m vs MJP 12.690m UNDERSPEND FOI; tick1127
+bud_lan_invest_rec_2025,city_lanaken,2025,621476,,,bbc_jr_realized,src_lanaken_jr2025,strong,Investeringsontvangsten J2 0.621m; tick1127
+bud_lan_invest_saldo_2025,city_lanaken,2025,-9717691,,,bbc_jr_realized,src_lanaken_jr2025,strong,Investeringssaldo -9.718m; tick1127
+bud_lan_fin_rec_2025,city_lanaken,2025,7303658,,,bbc_jr_realized,src_lanaken_jr2025,strong,Financieringsontvangsten 7.304m (incl new loans 7.050); tick1127
+bud_lan_fin_exp_2025,city_lanaken,2025,2414395,,,bbc_jr_realized,src_lanaken_jr2025,strong,Financieringsuitgaven 2.414m; tick1127
+bud_lan_afm_2025,city_lanaken,2025,3594408,,,bbc_jr_realized,src_lanaken_jr2025,strong,AFM +3.594m VERY STRONG FOI (MJP was +0.241m); tick1127
+bud_lan_afm_corr_2025,city_lanaken,2025,4214227,,,bbc_jr_realized,src_lanaken_jr2025,strong,Gecorrigeerde AFM +4.214m; tick1127
+bud_lan_bbr_2025,city_lanaken,2025,8523906,,,bbc_jr_realized,src_lanaken_jr2025,strong,BBR 8.524m after onbeschikbaar 2.872m; tick1127
+bud_lan_onbeschikbaar_2025,city_lanaken,2025,2871717,,,bbc_jr_realized,src_lanaken_jr2025,strong,Onbeschikbare gelden 2.872m (pensioenfonds); tick1127
+bud_lan_budget_result_2025,city_lanaken,2025,926642,,,bbc_jr_realized,src_lanaken_jr2025,strong,Budgettair resultaat boekjaar +0.927m (MJP was -5.196m); tick1127
+bud_lan_cum_br_2025,city_lanaken,2025,11395623,,,bbc_jr_realized,src_lanaken_jr2025,strong,Gecumuleerd budgettair resultaat 11.396m; tick1127
+bud_lan_pnl_result_2025,city_lanaken,2025,1423378,,,bbc_jr_realized,src_lanaken_jr2025,strong,Vennootschapsresultaat J5 +1.423m; tick1127
+bud_lan_personnel_2025,city_lanaken,2025,23257428,,,bbc_jr_realized,src_lanaken_jr2025,strong,J5/T2 bezoldigingen 23.257m (incl onderwijs other-gov 4.496m); tick1127
+bud_lan_toelagen_2025,city_lanaken,2025,10014464,,,bbc_jr_realized,src_lanaken_jr2025,strong,Toegestane werkingssubsidies 10.014m (politie 3.915 fire 1.199 IGS 2.094 AGB 0.471 andere 2.144); tick1127
+bud_lan_ocmw_aid_2025,city_lanaken,2025,1236193,,,bbc_jr_realized,src_lanaken_jr2025,strong,OCMW individuele hulp 1.236m; tick1127
+bud_lan_ocmw_cover_2025,city_lanaken,2025,3285166,,,bbc_jr_realized,src_lanaken_jr2025,strong,OCMW cover FULL tussenkomst 3.285m (OCMW P&L -4.068m equity -0.286m); tick1127
+bud_lan_ocmw_pnl_neg_2025,city_lanaken,2025,4068233,,,bbc_jr_realized,src_lanaken_jr2025,strong,OCMW P&L -4.068m DEEP FOI before cover; tick1127
+bud_lan_fiscal_2025,city_lanaken,2025,25502524,,,bbc_jr_realized,src_lanaken_jr2025,strong,J5 fiscale opbrengsten en boetes 25.503m; tick1127
+bud_lan_pb_2025,city_lanaken,2025,9482417,,,bbc_jr_realized,src_lanaken_jr2025,strong,Aanvullende PB 9.482m; tick1127
+bud_lan_op_2025,city_lanaken,2025,9091200,,,bbc_jr_realized,src_lanaken_jr2025,strong,Opcentiemen OV 9.091m; tick1127
+bud_lan_interest_2025,city_lanaken,2025,667292,,,bbc_jr_realized,src_lanaken_jr2025,strong,Rente op schulden ~0.667m; tick1127
+bud_lan_invest_eredienst_2025,city_lanaken,2025,721215,,,bbc_jr_realized,src_lanaken_jr2025,strong,Invest-subs eredienst 0.721m JUMP FOI; tick1127
+bud_lan_consol_bbr_2025,city_lanaken,2025,8792945,,,bbc_jr_realized,src_lanaken_jr2025,strong,Consol BBR GE+OCMW+AGB 8.793m; tick1127
+bud_lan_consol_afm_2025,city_lanaken,2025,3489113,,,bbc_jr_realized,src_lanaken_jr2025,strong,Consol AFM GE+OCMW+AGB 3.489m (AGB -0.105m); tick1127
+bud_lan_mjp_invest_2025,city_lanaken,2025,12689654,,,bbc_jr_realized,src_lanaken_jr2025,strong,MJP invest credit 12.690m vs realized 10.339m; tick1127
