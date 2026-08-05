@@ -10844,3 +10844,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +36; commitments +4; leaderboard +7; sources +2; entity city_bever; FOI **gap_bever_loans_pension_l5** prio7 ready + draft; raw PDF; rq_875=done; spawn **rq_876**; ticks=875
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_876** residual (Opwijk PDF staged/Roeselare/Lier/Sint-Truiden/Beveren/Mortsel/As/VUB/skeyes); deferred **rq_116**; progress@880 in 5
+
+## Tick 876 - 2026-08-06T11:00:00Z
+
+- Unit: **rq_876** (FOI-adjacent residual dual - **Gemeente+OCMW Opwijk Jaarrekening 2025** + Bever dual)
+- Found (strong primary BBC JR2025 648p):
+  - Assets **EUR94.4m** / equity **EUR72.6m** / debt total **EUR21.8m** / fin debt **EUR11.6m** (LT **EUR9.9m** declining from **EUR11.4m** / ST due **EUR1.7m**)
+  - Pension **EUR6.4m** / cash **EUR7.9m** / cap subs **EUR8.4m** / FVA IGS **EUR7.5m** / onbeschikbaar **EUR4.5m**
+  - Exploitatie: ontvangsten **EUR31.4m** / uitgaven **EUR26.8m** / saldo **+EUR4.6m**
+  - AFM **+EUR2.8m** (gecorr **+EUR3.6m**) / BBR **EUR5.7m** / budget result **-EUR1.5m** / P&L **+EUR1.0m**
+  - Personnel **EUR15.5m** / toelagen **EUR3.5m** (police **EUR1.2m** / fire **EUR1.2m** / IGS **EUR0.8m** / other **EUR0.3m**) / fiscal **EUR15.8m**
+  - Invest **EUR5.2m** / new loans **EUR0.15m** / gemeentefonds **EUR3.6m**
+  - **OPcura AFM -EUR0.42m** consol drag
+- Dual: Bever **EUR21.3m** / new loans **EUR1.25m** / AFM **+EUR1.0m** (tick875) - not TE-additive
+- Wrote: budgets +39; commitments +4; leaderboard +7; sources +2; entity city_opwijk; FOI **gap_opwijk_opcura_toelagen_l5** prio7 ready + draft; raw PDF; rq_876=done; spawn **rq_877**; ticks=876
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_877** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/Mortsel/As/VUB/skeyes); deferred **rq_116**; progress@880 in 4

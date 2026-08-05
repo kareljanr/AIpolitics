@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T10:30:00Z,rq_875,875,no,tick875 Bever JR2025 dual Destelbergen; FOI gap_bever_loans_pension_l5; next rq_876 Opwijk/residual dual L5; progress@880 in 5; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T11:00:00Z,rq_876,876,no,tick876 Opwijk JR2025 dual Bever; FOI gap_opwijk_opcura_toelagen_l5; next rq_877 residual dual L5; progress@880 in 4; rq_116 deferred

@@ -18790,3 +18790,42 @@ bud_bv_faciliteiten_subs_2025,city_bever,2025,372425,,,jaarrekening_realized,src
 bud_bv_invest_subs_granted_2025,city_bever,2025,27794,,,jaarrekening_realized,src_bever_jr2025,strong,Toegestane investeringssubsidies 0.028m 2025; tick875
 bud_bv_new_loans_2025,city_bever,2025,1247999,,,jaarrekening_realized,src_bever_jr2025,strong,Nieuwe leningen 1.248m 2025 (fin debt jump FOI-adjacent); tick875
 bud_bv_gemeente_to_ocmw_2025,city_bever,2025,212473,,,jaarrekening_realized,src_bever_jr2025,strong,Bijdrage gemeente naar OCMW 0.212m 2025; tick875
+bud_op_assets_2025,city_opwijk,2025,94373264,,,jaarrekening_realized,src_opwijk_jr2025,strong,Consol gemeente+OCMW total assets YE2025 94.373m; tick876
+bud_op_equity_2025,city_opwijk,2025,72585201,,,jaarrekening_realized,src_opwijk_jr2025,strong,Nettoactief YE2025 72.585m; tick876
+bud_op_debt_total_2025,city_opwijk,2025,21788062,,,jaarrekening_realized,src_opwijk_jr2025,strong,Schulden total YE2025 21.788m; tick876
+bud_op_fin_debt_2025,city_opwijk,2025,11562051,,,jaarrekening_realized,src_opwijk_jr2025,strong,Financiele schulden total YE2025 11.562m (LT 9.861 + ST due 1.701); tick876
+bud_op_fin_debt_lt_2025,city_opwijk,2025,9861088,,,jaarrekening_realized,src_opwijk_jr2025,strong,Financiele schulden LT YE2025 9.861m (was 11.413m declining); tick876
+bud_op_fin_debt_st_2025,city_opwijk,2025,1700963,,,jaarrekening_realized,src_opwijk_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.701m; tick876
+bud_op_pension_prov_2025,city_opwijk,2025,6402054,,,jaarrekening_realized,src_opwijk_jr2025,strong,Pensioenvoorzieningen YE2025 6.402m (was 6.131m); tick876
+bud_op_cash_2025,city_opwijk,2025,7891047,,,jaarrekening_realized,src_opwijk_jr2025,strong,Liquide middelen+geldbeleggingen YE2025 7.891m; tick876
+bud_op_cap_subs_2025,city_opwijk,2025,8420823,,,jaarrekening_realized,src_opwijk_jr2025,strong,Kapitaalsubsidies YE2025 8.421m; tick876
+bud_op_fva_igs_2025,city_opwijk,2025,7494874,,,jaarrekening_realized,src_opwijk_jr2025,strong,Fin VA IGS YE2025 7.495m; tick876
+bud_op_fva_ocmw_ver_2025,city_opwijk,2025,1573290,,,jaarrekening_realized,src_opwijk_jr2025,strong,Fin VA OCMW-verenigingen YE2025 1.573m; tick876
+bud_op_cumul_budget_2025,city_opwijk,2025,10163202,,,jaarrekening_realized,src_opwijk_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 10.163m; tick876
+bud_op_bbr_2025,city_opwijk,2025,5711341,,,jaarrekening_realized,src_opwijk_jr2025,strong,Beschikbaar budgettair resultaat YE2025 5.711m (onbeschikbaar 4.452m); tick876
+bud_op_onbeschikbaar_2025,city_opwijk,2025,4451861,,,jaarrekening_realized,src_opwijk_jr2025,strong,Onbeschikbare gelden YE2025 4.452m; tick876
+bud_op_expl_rec_2025,city_opwijk,2025,31409682,,,jaarrekening_realized,src_opwijk_jr2025,strong,Exploitatieontvangsten 31.410m 2025; tick876
+bud_op_expl_exp_2025,city_opwijk,2025,26841231,,,jaarrekening_realized,src_opwijk_jr2025,strong,Exploitatieuitgaven 26.841m 2025; tick876
+bud_op_expl_saldo_2025,city_opwijk,2025,4568450,,,jaarrekening_realized,src_opwijk_jr2025,strong,Exploitatiesaldo +4.568m 2025; tick876
+bud_op_invest_exp_2025,city_opwijk,2025,5220403,,,jaarrekening_realized,src_opwijk_jr2025,strong,Investeringsuitgaven 5.220m 2025; tick876
+bud_op_invest_rec_2025,city_opwijk,2025,789177,,,jaarrekening_realized,src_opwijk_jr2025,strong,Investeringsontvangsten 0.789m 2025; tick876
+bud_op_invest_saldo_2025,city_opwijk,2025,-4431226,,,jaarrekening_realized,src_opwijk_jr2025,strong,Investeringssaldo -4.431m 2025; tick876
+bud_op_fin_saldo_2025,city_opwijk,2025,-1631998,,,jaarrekening_realized,src_opwijk_jr2025,strong,Financieringssaldo -1.632m 2025; tick876
+bud_op_budget_result_2025,city_opwijk,2025,-1494773,,,jaarrekening_realized,src_opwijk_jr2025,strong,Budgettair resultaat boekjaar -1.495m 2025; tick876
+bud_op_afm_2025,city_opwijk,2025,2809293,,,jaarrekening_realized,src_opwijk_jr2025,strong,Autofinancieringsmarge +2.809m 2025; tick876
+bud_op_afm_gecorr_2025,city_opwijk,2025,3556048,,,jaarrekening_realized,src_opwijk_jr2025,strong,Gecorrigeerde AFM +3.556m 2025; tick876
+bud_op_pl_2025,city_opwijk,2025,1048248,,,jaarrekening_realized,src_opwijk_jr2025,strong,P&L overschot +1.048m 2025; tick876
+bud_op_personnel_2025,city_opwijk,2025,15464257,,,jaarrekening_realized,src_opwijk_jr2025,strong,Bezoldigingen sociale lasten pensioenen 15.464m 2025; tick876
+bud_op_toelagen_2025,city_opwijk,2025,3535468,,,jaarrekening_realized,src_opwijk_jr2025,strong,Toegestane werkingssubsidies 3.535m 2025; tick876
+bud_op_toelagen_police_2025,city_opwijk,2025,1236287,,,jaarrekening_realized,src_opwijk_jr2025,strong,Toelage politiezone 1.236m 2025; tick876
+bud_op_toelagen_fire_2025,city_opwijk,2025,1188311,,,jaarrekening_realized,src_opwijk_jr2025,strong,Toelage hulpverleningszone 1.188m 2025; tick876
+bud_op_toelagen_igs_2025,city_opwijk,2025,824462,,,jaarrekening_realized,src_opwijk_jr2025,strong,Toelage IGS ~0.824m 2025 (T2); tick876
+bud_op_toelagen_other_2025,city_opwijk,2025,263065,,,jaarrekening_realized,src_opwijk_jr2025,strong,Toelagen andere ~0.263m 2025 (T2 residual); tick876
+bud_op_ocmw_aid_2025,city_opwijk,2025,930255,,,jaarrekening_realized,src_opwijk_jr2025,strong,Individuele hulpverlening OCMW 0.930m 2025; tick876
+bud_op_fiscal_2025,city_opwijk,2025,15841492,,,jaarrekening_realized,src_opwijk_jr2025,strong,Fiscale opbrengsten en boetes 15.841m 2025; tick876
+bud_op_fiscal_ov_2025,city_opwijk,2025,5612196,,,jaarrekening_realized,src_opwijk_jr2025,strong,Opcentiemen OV 5.612m 2025; tick876
+bud_op_fiscal_apb_2025,city_opwijk,2025,8044904,,,jaarrekening_realized,src_opwijk_jr2025,strong,Aanvullende PB 8.045m 2025; tick876
+bud_op_gemeentefonds_2025,city_opwijk,2025,3577507,,,jaarrekening_realized,src_opwijk_jr2025,strong,Gemeentefonds 3.578m 2025; tick876
+bud_op_invest_subs_granted_2025,city_opwijk,2025,157907,,,jaarrekening_realized,src_opwijk_jr2025,strong,Toegestane investeringssubsidies 0.158m 2025; tick876
+bud_op_new_loans_2025,city_opwijk,2025,153560,,,jaarrekening_realized,src_opwijk_jr2025,strong,Nieuwe leningen 0.154m 2025; tick876
+bud_op_opcura_afm_2025,city_opwijk,2025,-421452,,,jaarrekening_realized,src_opwijk_jr2025,strong,OPcura welzijnsvereniging AFM -0.421m 2025 consol drag; tick876
