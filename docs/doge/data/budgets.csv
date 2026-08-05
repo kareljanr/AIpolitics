@@ -26547,3 +26547,56 @@ bud_ess_gemeentefonds_2025,city_essen,2025,5486572,,,bbc_jr_realized,src_essen_j
 bud_ess_interest_2025,city_essen,2025,193957,,,bbc_jr_realized,src_essen_jr2025,strong,Financiele kosten 0.194m DECLINE; tick1054
 bud_ess_invest_subs_rec_2025,city_essen,2025,199926,,,bbc_jr_realized,src_essen_jr2025,strong,Ontvangen invest-subs VL 0.200m; tick1054
 bud_ess_invest_subs_granted_2025,city_essen,2025,1648613,,,bbc_jr_realized,src_essen_jr2025,strong,Toegestane invest-subs 1.65m (police 0.136 fire 0.348); tick1054
+bud_ber_assets_2025,city_berlaar,2025,85040230,,,bbc_jr_realized,src_berlaar_jr2025,strong,Assets YE2025 85.04m JUMP (was 82.56m); tick1055
+bud_ber_equity_2025,city_berlaar,2025,66114528,,,bbc_jr_realized,src_berlaar_jr2025,strong,Nettoactief YE2025 66.11m JUMP (was 62.80m); tick1055
+bud_ber_debt_total_2025,city_berlaar,2025,18925701,,,bbc_jr_realized,src_berlaar_jr2025,strong,Total schulden YE2025 18.93m DECLINE (was 19.77m); tick1055
+bud_ber_fin_debt_2025,city_berlaar,2025,11123507,,,bbc_jr_realized,src_berlaar_jr2025,strong,Fin debt total YE2025 11.12m DECLINE (LT 10.55 + ST due 0.57; was ~11.57m); tick1055
+bud_ber_fin_debt_lt_2025,city_berlaar,2025,10554279,,,bbc_jr_realized,src_berlaar_jr2025,strong,Fin debt LT YE2025 10.55m DECLINE (was 11.03m); tick1055
+bud_ber_fin_debt_st_due_2025,city_berlaar,2025,569228,,,bbc_jr_realized,src_berlaar_jr2025,strong,Fin debt ST due YE2025 0.569m; tick1055
+bud_ber_fin_debt_st_2025,city_berlaar,2025,0,,,bbc_jr_realized,src_berlaar_jr2025,strong,Fin debt ST treasury YE2025 0; tick1055
+bud_ber_new_loans_2025,city_berlaar,2025,101943,,,bbc_jr_realized,src_berlaar_jr2025,strong,Nieuwe leningen/leasings 0.102m LOW; tick1055
+bud_ber_aflossingen_2025,city_berlaar,2025,550612,,,bbc_jr_realized,src_berlaar_jr2025,strong,Periodieke aflossingen 0.551m HIGH vs new loans; tick1055
+bud_ber_cash_2025,city_berlaar,2025,10244270,,,bbc_jr_realized,src_berlaar_jr2025,strong,Liquide middelen YE2025 10.24m DROP (was 11.03m); tick1055
+bud_ber_pension_2025,city_berlaar,2025,4077121,,,bbc_jr_realized,src_berlaar_jr2025,strong,Pensioenvoorzieningen LT YE2025 4.08m DROP FOI (was 4.84m); tick1055
+bud_ber_cap_subs_2025,city_berlaar,2025,11188531,,,bbc_jr_realized,src_berlaar_jr2025,strong,Kapitaalsubsidies YE2025 11.19m; tick1055
+bud_ber_fva_total_2025,city_berlaar,2025,7154915,,,bbc_jr_realized,src_berlaar_jr2025,strong,FVA total YE2025 7.15m; tick1055
+bud_ber_fva_igs_2025,city_berlaar,2025,7068482,,,bbc_jr_realized,src_berlaar_jr2025,strong,FVA IGS YE2025 7.07m; tick1055
+bud_ber_leasing_mva_2025,city_berlaar,2025,4430443,,,bbc_jr_realized,src_berlaar_jr2025,strong,Leasing MVA YE2025 4.43m; tick1055
+bud_ber_expl_rec_2025,city_berlaar,2025,25240908,,,bbc_jr_realized,src_berlaar_jr2025,strong,Exploitatieontvangsten 25.24m; tick1055
+bud_ber_expl_exp_2025,city_berlaar,2025,21350058,,,bbc_jr_realized,src_berlaar_jr2025,strong,Exploitatieuitgaven 21.35m; tick1055
+bud_ber_expl_saldo_2025,city_berlaar,2025,3890851,,,bbc_jr_realized,src_berlaar_jr2025,strong,Exploitatiesaldo +3.89m STRONG; tick1055
+bud_ber_invest_exp_2025,city_berlaar,2025,4185948,,,bbc_jr_realized,src_berlaar_jr2025,strong,Investeringsuitgaven 4.19m vs MJP 13.55m MASSIVE UNDERSPEND FOI; tick1055
+bud_ber_invest_rec_2025,city_berlaar,2025,675266,,,bbc_jr_realized,src_berlaar_jr2025,strong,Investeringsontvangsten 0.675m; tick1055
+bud_ber_invest_saldo_2025,city_berlaar,2025,-3510682,,,bbc_jr_realized,src_berlaar_jr2025,strong,Investeringssaldo -3.51m; tick1055
+bud_ber_mjp_invest_planned_2025,city_berlaar,2025,13553755,,,bbc_jr_realized,src_berlaar_jr2025,strong,MJP invest planned 13.55m vs realized 4.19m underspend FOI; tick1055
+bud_ber_afm_2025,city_berlaar,2025,3460464,,,bbc_jr_realized,src_berlaar_jr2025,strong,AFM +3.46m VERY STRONG; tick1055
+bud_ber_afm_corr_2025,city_berlaar,2025,3085302,,,bbc_jr_realized,src_berlaar_jr2025,strong,Gecorrigeerde AFM +3.09m STRONG; tick1055
+bud_ber_bbr_2025,city_berlaar,2025,10058273,,,bbc_jr_realized,src_berlaar_jr2025,strong,BBR beschikbaar +10.06m VERY HIGH FOI; tick1055
+bud_ber_budget_result_2025,city_berlaar,2025,51686,,,bbc_jr_realized,src_berlaar_jr2025,strong,Budgettair resultaat +0.052m flip vs MJP -9.83m; tick1055
+bud_ber_cum_br_2025,city_berlaar,2025,10058273,,,bbc_jr_realized,src_berlaar_jr2025,strong,Gecumuleerd budgettair resultaat +10.06m; tick1055
+bud_ber_pnl_2025,city_berlaar,2025,3238110,,,bbc_jr_realized,src_berlaar_jr2025,strong,P&L +3.24m STRONG flip (was -0.517m); tick1055
+bud_ber_ge_expl_exp_2025,city_berlaar,2025,19282700,,,bbc_jr_realized,src_berlaar_jr2025,strong,GE exploitatieuitgaven J3 19.28m; tick1055
+bud_ber_ge_expl_rec_2025,city_berlaar,2025,23742848,,,bbc_jr_realized,src_berlaar_jr2025,strong,GE exploitatieontvangsten J3 23.74m; tick1055
+bud_ber_ocmw_expl_exp_2025,city_berlaar,2025,2067358,,,bbc_jr_realized,src_berlaar_jr2025,strong,OCMW exploitatieuitgaven J3 2.07m; tick1055
+bud_ber_ocmw_expl_rec_2025,city_berlaar,2025,1498061,,,bbc_jr_realized,src_berlaar_jr2025,strong,OCMW exploitatieontvangsten J3 1.50m; tick1055
+bud_ber_ocmw_expl_gap_2025,city_berlaar,2025,-569297,,,bbc_jr_realized,src_berlaar_jr2025,strong,OCMW expl gap -0.569m FOI residual; tick1055
+bud_ber_ocmw_structural_gap_2025,city_berlaar,2025,569297,,,bbc_jr_realized,src_berlaar_jr2025,strong,OCMW structural gap 0.569m FOI residual dual; tick1055
+bud_ber_equity_cum_2025,city_berlaar,2025,17748852,,,bbc_jr_realized,src_berlaar_jr2025,strong,Gecumuleerd overschot/tekort consol YE2025 +17.75m JUMP; tick1055
+bud_ber_personnel_2025,city_berlaar,2025,12002634,,,bbc_jr_realized,src_berlaar_jr2025,strong,Bezoldigingen 12.00m JUMP FOI (was 11.15m); tick1055
+bud_ber_edu_pass_through_2025,city_berlaar,2025,3185730,,,bbc_jr_realized,src_berlaar_jr2025,strong,Onderwijzend personeel ten laste andere overheden 3.19m; tick1055
+bud_ber_toelagen_2025,city_berlaar,2025,2321002,,,bbc_jr_realized,src_berlaar_jr2025,strong,Toegestane werkingssubsidies 2.32m FOI residual; tick1055
+bud_ber_toelagen_police_2025,city_berlaar,2025,1381026,,,bbc_jr_realized,src_berlaar_jr2025,strong,Toelage politiezone Berlaar-Nijlen 1.38m JUMP FOI; tick1055
+bud_ber_toelagen_fire_2025,city_berlaar,2025,564824,,,bbc_jr_realized,src_berlaar_jr2025,strong,Toelage hulpverleningszone 0.565m FLAT; tick1055
+bud_ber_toelagen_agb_2025,city_berlaar,2025,93482,,,bbc_jr_realized,src_berlaar_jr2025,strong,Toelage AG2B 0.093m JUMP FOI; tick1055
+bud_ber_toelagen_eredienst_2025,city_berlaar,2025,8665,,,bbc_jr_realized,src_berlaar_jr2025,strong,Toelage erediensten 0.009m; tick1055
+bud_ber_toelagen_other_2025,city_berlaar,2025,267921,,,bbc_jr_realized,src_berlaar_jr2025,strong,Toelage andere begunstigden 0.268m FOI residual; tick1055
+bud_ber_ocmw_aid_2025,city_berlaar,2025,992833,,,bbc_jr_realized,src_berlaar_jr2025,strong,OCMW individuele hulp 0.993m DROP; tick1055
+bud_ber_fiscal_2025,city_berlaar,2025,12340267,,,bbc_jr_realized,src_berlaar_jr2025,strong,Fiscale opbrengsten 12.34m JUMP; tick1055
+bud_ber_fiscal_ov_2025,city_berlaar,2025,4691293,,,bbc_jr_realized,src_berlaar_jr2025,strong,Opcentiemen OV 4.69m; tick1055
+bud_ber_fiscal_pb_2025,city_berlaar,2025,5434556,,,bbc_jr_realized,src_berlaar_jr2025,strong,Aanvullende PB 5.43m JUMP; tick1055
+bud_ber_gemeentefonds_2025,city_berlaar,2025,3624124,,,bbc_jr_realized,src_berlaar_jr2025,strong,Gemeentefonds 3.62m; tick1055
+bud_ber_interest_2025,city_berlaar,2025,432293,,,bbc_jr_realized,src_berlaar_jr2025,strong,Financiele kosten 0.432m slight DROP; tick1055
+bud_ber_invest_subs_rec_2025,city_berlaar,2025,548003,,,bbc_jr_realized,src_berlaar_jr2025,strong,Ontvangen invest-subs 0.548m; tick1055
+bud_ber_invest_subs_granted_2025,city_berlaar,2025,122101,,,bbc_jr_realized,src_berlaar_jr2025,strong,Toegestane invest-subs 0.122m; tick1055
+bud_ber_consol_bbr_2025,city_berlaar,2025,10137991,,,bbc_jr_realized,src_berlaar_jr2025,strong,Consol BBR GE+OCMW+AG2B 10.14m; tick1055
+bud_ber_consol_afm_2025,city_berlaar,2025,3496129,,,bbc_jr_realized,src_berlaar_jr2025,strong,Consol AFM GE+OCMW+AG2B 3.50m; tick1055

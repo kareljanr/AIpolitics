@@ -14046,3 +14046,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1055** residual dual L5; deferred **rq_116**; progress@1060
 
+
+### Tick 1055 - 2026-08-10T16:45:00Z
+
+- Unit: **rq_1055** (FOI-adjacent residual dual - **Lokaal Bestuur Berlaar Jaarrekening 2025** + Essen dual residual)
+- Found (strong primary BBC JR2025 beleidsportaal; pub 25.06.2026; Markt 1 2590 Berlaar; AG2B dual):
+  - Assets **EUR85.04m JUMP** / equity **EUR66.11m JUMP** / debt total **EUR18.93m DECLINE** / fin debt **EUR11.12m DECLINE** (LT **EUR10.55m** / ST due **EUR0.569m**)
+  - New loans **EUR0.102m LOW** / repayments **EUR0.551m HIGH**
+  - Cash **EUR10.24m DROP** / pension **EUR4.08m DROP FOI** (was **EUR4.84m**) / FVA IGS **EUR7.07m** / leasing MVA **EUR4.43m**
+  - Exploitatie: ontvangsten **EUR25.24m** / uitgaven **EUR21.35m** / saldo **+EUR3.89m STRONG**
+  - AFM **+EUR3.46m VERY STRONG** (gecorr **+EUR3.09m**) / BBR **EUR10.06m VERY HIGH FOI** / budget **+EUR0.052m flip** vs MJP **-EUR9.83m** / cum BR **EUR10.06m** / P&L **+EUR3.24m flip**
+  - Personnel **EUR12.00m JUMP** / toelagen **EUR2.32m FOI** (police **EUR1.38m JUMP** / fire **EUR0.565m** / AG2B **EUR0.093m** / other **EUR0.268m**)
+  - Invest **EUR4.19m** vs MJP **EUR13.55m MASSIVE UNDERSPEND FOI**
+  - **OCMW structural gap EUR0.569m FOI** (J3 exp **EUR2.07m** / rec **EUR1.50m**)
+  - Consol BBR **EUR10.14m** / consol AFM **EUR3.50m** (AG2B dual)
+- Dual: Essen assets **EUR125.22m** / FVA IGS **EUR36.61m** / BBR **EUR9.67m** / OCMW cover **EUR1.26m FULL** (tick1054) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen / Vorselaar residual next; progress@1060
+- Wrote: budgets +53 (bud_ber_*); commitments +6; leaderboard +8; sources +1; entity city_berlaar; FOI **gap_ber_bbr_invest_toelagen_ocmw_pension_l5** prio9 ready + draft; portal primary (no bulk PDF in git); rq_1055=done; spawn **rq_1056**; ticks=1055
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1056** residual dual L5; deferred **rq_116**; progress@1060
+
