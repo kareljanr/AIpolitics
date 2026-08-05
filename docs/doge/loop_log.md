@@ -10994,3 +10994,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +39 (bud_knr_*); commitments +4; leaderboard +7; sources +2; entity city_kinrooi; FOI **gap_knr_pension_toelagen_l5** prio7 ready + draft; raw PDF + key; rq_885=done; spawn **rq_886**; ticks=885
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_886** residual dual L5 (Roeselare/Lier portal/Mortsel portal/VUB/skeyes); deferred **rq_116**; progress@890 in 5
+
+## Tick 886 - 2026-08-06T16:00:00Z
+
+- Unit: **rq_886** (FOI-adjacent residual dual - **Gemeente+OCMW Wemmel Jaarrekening 2025** + Kinrooi dual)
+- Found (strong primary BBC JR2025 148p):
+  - Assets **EUR86.7m** / equity **EUR61.2m** / debt total **EUR25.4m** / fin debt **EUR10.4m** declining (LT **EUR9.3m** / ST due **EUR1.2m**)
+  - New loans **EUR0.03m** / **MJP debt ramp EUR4.0m (2026) + EUR2.5m (2027)** FOI / pension **EUR9.2m** (was **EUR7.1m**) / cash **EUR17.6m**
+  - Exploitatie: ontvangsten **EUR43.8m** / uitgaven **EUR38.2m** / saldo **+EUR5.5m**
+  - AFM **+EUR4.4m** / BBR **EUR18.9m** / budget result **+EUR2.2m** / P&L **+EUR0.26m**
+  - Personnel **EUR22.2m** / toelagen **EUR3.5m** (police **EUR2.3m** / fire **EUR1.0m** / other **EUR0.22m**) / fiscal **EUR19.9m**
+  - Invest **EUR2.5m** / invest-subs **EUR0.15m** / gemeentefonds **EUR4.0m**
+- Dual: Kinrooi **EUR83.4m** / AFM **+EUR3.1m** / pension jump (tick885) - not TE-additive
+- Wrote: budgets +38 (bud_wem_*); commitments +4; leaderboard +7; sources +2; entity city_wemmel; FOI **gap_wem_pension_mjp_debt_l5** prio7 ready + draft; raw PDF + key; rq_886=done; spawn **rq_887**; ticks=886
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_887** residual dual L5 (Roeselare/Lier portal/Mortsel portal/Hove/VUB/skeyes); deferred **rq_116**; progress@890 in 4

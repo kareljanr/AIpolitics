@@ -19137,3 +19137,41 @@ bud_knr_fiscal_apb_2025,city_kinrooi,2025,3760641,,,jaarrekening_realized,src_ki
 bud_knr_gemeentefonds_2025,city_kinrooi,2025,4603050,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Gemeentefonds 4.603m 2025; tick885
 bud_knr_invest_subs_granted_2025,city_kinrooi,2025,348510,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Toegestane investeringssubsidies 0.349m 2025; tick885
 bud_knr_new_loans_2025,city_kinrooi,2025,231056,,,jaarrekening_realized,src_kinrooi_jr2025,strong,Nieuwe leningen/leasings 0.231m 2025; tick885
+bud_wem_assets_2025,city_wemmel,2025,86658624,,,jaarrekening_realized,src_wemmel_jr2025,strong,Consol total assets YE2025 86.659m; tick886
+bud_wem_equity_2025,city_wemmel,2025,61226271,,,jaarrekening_realized,src_wemmel_jr2025,strong,Nettoactief YE2025 61.226m; tick886
+bud_wem_debt_total_2025,city_wemmel,2025,25432353,,,jaarrekening_realized,src_wemmel_jr2025,strong,Schulden total YE2025 25.432m; tick886
+bud_wem_fin_debt_2025,city_wemmel,2025,10404642,,,jaarrekening_realized,src_wemmel_jr2025,strong,Fin schulden total YE2025 10.405m (LT 9.251 + ST due 1.153) declining; tick886
+bud_wem_fin_debt_lt_2025,city_wemmel,2025,9251722,,,jaarrekening_realized,src_wemmel_jr2025,strong,Fin schulden LT YE2025 9.252m; tick886
+bud_wem_fin_debt_st_2025,city_wemmel,2025,1153175,,,jaarrekening_realized,src_wemmel_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.153m; tick886
+bud_wem_pension_prov_2025,city_wemmel,2025,9171937,,,jaarrekening_realized,src_wemmel_jr2025,strong,Pensioenvoorzieningen YE2025 9.172m (was 7.125m jump FOI); tick886
+bud_wem_cash_2025,city_wemmel,2025,17559677,,,jaarrekening_realized,src_wemmel_jr2025,strong,Liquide middelen YE2025 17.560m; tick886
+bud_wem_cap_subs_2025,city_wemmel,2025,6178438,,,jaarrekening_realized,src_wemmel_jr2025,strong,Kapitaalsubsidies YE2025 6.178m; tick886
+bud_wem_fva_igs_2025,city_wemmel,2025,7857429,,,jaarrekening_realized,src_wemmel_jr2025,strong,Fin VA IGS YE2025 7.857m; tick886
+bud_wem_fva_total_2025,city_wemmel,2025,7946788,,,jaarrekening_realized,src_wemmel_jr2025,strong,Fin VA total YE2025 7.947m; tick886
+bud_wem_cumul_budget_2025,city_wemmel,2025,18919411,,,jaarrekening_realized,src_wemmel_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 18.919m; tick886
+bud_wem_bbr_2025,city_wemmel,2025,18919411,,,jaarrekening_realized,src_wemmel_jr2025,strong,Beschikbaar budgettair resultaat YE2025 18.919m; tick886
+bud_wem_expl_rec_2025,city_wemmel,2025,43755481,,,jaarrekening_realized,src_wemmel_jr2025,strong,Exploitatieontvangsten 43.755m 2025; tick886
+bud_wem_expl_exp_2025,city_wemmel,2025,38228570,,,jaarrekening_realized,src_wemmel_jr2025,strong,Exploitatieuitgaven 38.229m 2025; tick886
+bud_wem_expl_saldo_2025,city_wemmel,2025,5526911,,,jaarrekening_realized,src_wemmel_jr2025,strong,Exploitatiesaldo +5.527m 2025; tick886
+bud_wem_invest_exp_2025,city_wemmel,2025,2509819,,,jaarrekening_realized,src_wemmel_jr2025,strong,Investeringsuitgaven 2.510m 2025; tick886
+bud_wem_invest_rec_2025,city_wemmel,2025,298407,,,jaarrekening_realized,src_wemmel_jr2025,strong,Investeringsontvangsten 0.298m 2025; tick886
+bud_wem_invest_saldo_2025,city_wemmel,2025,-2211412,,,jaarrekening_realized,src_wemmel_jr2025,strong,Investeringssaldo -2.211m 2025; tick886
+bud_wem_fin_saldo_2025,city_wemmel,2025,-1135473,,,jaarrekening_realized,src_wemmel_jr2025,strong,Financieringssaldo -1.135m 2025; tick886
+bud_wem_budget_result_2025,city_wemmel,2025,2180026,,,jaarrekening_realized,src_wemmel_jr2025,strong,Budgettair resultaat boekjaar +2.180m 2025; tick886
+bud_wem_afm_2025,city_wemmel,2025,4372688,,,jaarrekening_realized,src_wemmel_jr2025,strong,Autofinancieringsmarge +4.373m 2025; tick886
+bud_wem_pl_2025,city_wemmel,2025,256395,,,jaarrekening_realized,src_wemmel_jr2025,strong,P&L overschot +0.256m 2025; tick886
+bud_wem_personnel_2025,city_wemmel,2025,22236049,,,jaarrekening_realized,src_wemmel_jr2025,strong,Bezoldigingen 22.236m 2025 (incl onderwijs other ~7.430m); tick886
+bud_wem_personnel_onderwijs_other_2025,city_wemmel,2025,7430457,,,jaarrekening_realized,src_wemmel_jr2025,strong,Onderwijzend personeel ten laste van andere ~7.430m 2025; tick886
+bud_wem_toelagen_2025,city_wemmel,2025,3504944,,,jaarrekening_realized,src_wemmel_jr2025,strong,Toegestane werkingssubsidies 3.505m 2025; tick886
+bud_wem_toelagen_police_2025,city_wemmel,2025,2267519,,,jaarrekening_realized,src_wemmel_jr2025,strong,Toelage politiezone 2.268m 2025; tick886
+bud_wem_toelagen_fire_2025,city_wemmel,2025,1011784,,,jaarrekening_realized,src_wemmel_jr2025,strong,Toelage hulpverleningszone 1.012m 2025; tick886
+bud_wem_toelagen_other_2025,city_wemmel,2025,216062,,,jaarrekening_realized,src_wemmel_jr2025,strong,Toelagen andere begunstigden 0.216m 2025 FOI; tick886
+bud_wem_ocmw_aid_2025,city_wemmel,2025,2940410,,,jaarrekening_realized,src_wemmel_jr2025,strong,Individuele hulpverlening OCMW 2.940m 2025; tick886
+bud_wem_fiscal_2025,city_wemmel,2025,19875900,,,jaarrekening_realized,src_wemmel_jr2025,strong,Fiscale opbrengsten 19.876m 2025; tick886
+bud_wem_fiscal_ov_2025,city_wemmel,2025,8893095,,,jaarrekening_realized,src_wemmel_jr2025,strong,Opcentiemen OV 8.893m 2025; tick886
+bud_wem_fiscal_apb_2025,city_wemmel,2025,8697217,,,jaarrekening_realized,src_wemmel_jr2025,strong,Aanvullende PB 8.697m 2025; tick886
+bud_wem_gemeentefonds_2025,city_wemmel,2025,4026896,,,jaarrekening_realized,src_wemmel_jr2025,strong,Gemeentefonds 4.027m 2025; tick886
+bud_wem_invest_subs_granted_2025,city_wemmel,2025,154074,,,jaarrekening_realized,src_wemmel_jr2025,strong,Toegestane investeringssubsidies 0.154m 2025; tick886
+bud_wem_new_loans_2025,city_wemmel,2025,27985,,,jaarrekening_realized,src_wemmel_jr2025,strong,Nieuwe leningen/leasings 0.028m 2025; MJP ramp 4.0m 2026 + 2.5m 2027 FOI; tick886
+bud_wem_mjp_new_loans_2026,city_wemmel,2026,4000000,,,meerjarenplan,src_wemmel_jr2025,medium,MJP planned new loans 4.0m 2026 FOI-adjacent; tick886
+bud_wem_mjp_new_loans_2027,city_wemmel,2027,2500000,,,meerjarenplan,src_wemmel_jr2025,medium,MJP planned new loans 2.5m 2027 FOI-adjacent; tick886
