@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T12:45:00Z,rq_928,928,no,tick928 Assenede JR2025 dual Lochristi; FOI gap_asn_ocmw_toelagen_cash_l5 prio8 OCMW cover 1.42m budget -1.14m cash drop debt declining AFM +2.13m; next residual dual L5 rq_929; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T13:15:00Z,rq_929,929,no,tick929 AGB Kapellen JR2025 dual Assenede; FOI gap_kag_debt_subsidy_payout_l5 prio8 debt 17.5m AFM -0.18m prijssubsidie 0.70m profit payout 0.30m; next progress@930 rq_930; rq_116 deferred

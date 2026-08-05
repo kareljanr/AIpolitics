@@ -11688,3 +11688,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +50 (bud_asn_*); commitments +4; leaderboard +7; sources +2; entity city_assenede; FOI **gap_asn_ocmw_toelagen_cash_l5** prio8 ready + draft; raw PDF + key; rq_928=done; spawn **rq_929**; ticks=928
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_929** residual dual L5 (Kruisem full boek / Kapellen AGB+APB / Roeselare / Haacht); deferred **rq_116**; progress@930 in 2
+
+### Tick 929 - 2026-08-07T13:15:00Z
+
+- Unit: **rq_929** (FOI-adjacent residual dual Entity II - **AGB Kapellen Jaarrekening 2025** + Assenede dual)
+- Found (strong primary BBC JR2025 126p AGB):
+  - Assets **EUR20.1m** / equity **EUR1.36m** / debt total **EUR18.8m** / fin debt **EUR17.5m** (LT **EUR17.0m** / ST due **EUR0.52m**; slight decline)
+  - New loans/leasing **EUR0.245m** / repayments **EUR0.694m** / **cash EUR0.46m was EUR0.84m DROP FOI**
+  - MVA **EUR18.2m** (leasing/erfpacht **EUR14.3m** Lux/Bruggeske)
+  - **Prijssubsidie gemeente EUR0.702m FOI** / **profit payout EUR0.300m FOI** (while AFM negative)
+  - Exploitatie: ontvangsten **EUR2.22m** / uitgaven **EUR1.71m** / saldo **+EUR0.51m**
+  - AFM **-EUR0.181m FOI** (gecorr **-EUR0.923m**) / BBR **EUR0.636m** / budget **-EUR0.181m FOI** / P&L **+EUR0.535m**
+  - Personnel **EUR0.087m** / gemeente renteloze loan stock ~**EUR3.15m FOI**
+- Dual: Assenede **EUR84.3m** / OCMW cover **EUR1.42m** / debt declining (tick928) - not TE-additive
+- Wrote: budgets +34 (bud_kag_*); commitments +4; leaderboard +7; sources +2; entity agb_kapellen; FOI **gap_kag_debt_subsidy_payout_l5** prio8 ready + draft; raw PDF + key; rq_929=done; spawn **rq_930 progress@930 prio10**; ticks=929
+- FOI: ready only - **do not send**
+- Next: **progress@930 NEXT** (prio10 rq_930); then residual dual L5; deferred **rq_116**

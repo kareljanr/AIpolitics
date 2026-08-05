@@ -20792,3 +20792,37 @@ bud_asn_invest_mva_2025,city_assenede,2025,3643597,,,jaarrekening_realized,src_a
 bud_asn_agb_bbr_2025,city_assenede,2025,39008,,,jaarrekening_realized,src_assenede_jr2025,strong,AGB BBR YE2025 0.039m consol evenwicht; tick928
 bud_asn_debt_per_cap_2025,city_assenede,2025,375,,,count,src_assenede_jr2025,strong,Openstaande schuld per inwoner 375 EUR (kengetallen); tick928
 bud_asn_bbr_per_cap_2025,city_assenede,2025,701,,,count,src_assenede_jr2025,strong,Gecumuleerd BBR per inwoner 701 EUR (kengetallen); tick928
+bud_kag_assets_2025,agb_kapellen,2025,20119816,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,AGB Kapellen total assets YE2025 20.120m; tick929
+bud_kag_equity_2025,agb_kapellen,2025,1362171,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Nettoactief YE2025 1.362m; tick929
+bud_kag_debt_total_2025,agb_kapellen,2025,18757646,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Total schulden YE2025 18.758m; tick929
+bud_kag_fin_debt_2025,agb_kapellen,2025,17492485,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,T4 total financiele schulden YE2025 17.492m (slight decline from 17.942m); tick929
+bud_kag_fin_debt_lt_2025,agb_kapellen,2025,16972702,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Financiele schulden LT YE2025 16.973m; tick929
+bud_kag_fin_debt_st_due_2025,agb_kapellen,2025,519783,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.520m; tick929
+bud_kag_fin_debt_2024,agb_kapellen,2025,17941723,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,T4 fin debt YE2024 17.942m comparator; tick929
+bud_kag_cash_2025,agb_kapellen,2025,460124,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Liquide middelen YE2025 0.460m (was 0.843m DROP FOI); tick929
+bud_kag_cash_2024,agb_kapellen,2025,842588,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Liquide middelen YE2024 0.843m; tick929
+bud_kag_cap_subs_2025,agb_kapellen,2025,692087,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Kapitaalsubsidies YE2025 0.692m; tick929
+bud_kag_mva_2025,agb_kapellen,2025,18242736,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Materiele vaste activa YE2025 18.243m (leasing/erfpacht 14.276m); tick929
+bud_kag_mva_leasing_2025,agb_kapellen,2025,14275658,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Leasing en soortgelijke rechten YE2025 14.276m (erfpacht Lux/Bruggeske); tick929
+bud_kag_expl_rec_2025,agb_kapellen,2025,2221265,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Exploitatieontvangsten 2.221m; tick929
+bud_kag_expl_exp_2025,agb_kapellen,2025,1708436,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Exploitatieuitgaven 1.708m; tick929
+bud_kag_expl_saldo_2025,agb_kapellen,2025,512830,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Exploitatiesaldo +0.513m; tick929
+bud_kag_invest_exp_2025,agb_kapellen,2025,244985,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Investeringsuitgaven 0.245m; tick929
+bud_kag_invest_saldo_2025,agb_kapellen,2025,-244985,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Investeringssaldo -0.245m; tick929
+bud_kag_fin_rec_2025,agb_kapellen,2025,244985,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Financieringsontvangsten 0.245m (new loans other entities); tick929
+bud_kag_fin_exp_2025,agb_kapellen,2025,694222,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Financieringsuitgaven 0.694m; tick929
+bud_kag_new_loans_2025,agb_kapellen,2025,244985,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Nieuwe leningen/leasing other entities 0.245m (gemeente renteloos residual FOI); tick929
+bud_kag_aflossingen_2025,agb_kapellen,2025,694222,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Periodieke aflossingen 0.694m; tick929
+bud_kag_prijssubsidie_2025,agb_kapellen,2025,702120,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Prijssubsidie gemeente Kapellen 0.702m FOI; tick929
+bud_kag_profit_payout_2025,agb_kapellen,2025,300000,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Uitgekeerde winst aan rechthebbenden (gemeente) 0.300m FOI; tick929
+bud_kag_afm_2025,agb_kapellen,2025,-181392,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,AFM -0.181m (NEGATIVE FOI); tick929
+bud_kag_afm_corr_2025,agb_kapellen,2025,-922508,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Gecorrigeerde AFM -0.923m (NEGATIVE FOI); tick929
+bud_kag_bbr_2025,agb_kapellen,2025,636160,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Beschikbaar budgettair resultaat 0.636m; tick929
+bud_kag_budget_result_2025,agb_kapellen,2025,-181392,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Budgettair resultaat boekjaar -0.181m FOI; tick929
+bud_kag_cum_br_2025,agb_kapellen,2025,636160,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Gecumuleerd budgettair resultaat 0.636m; tick929
+bud_kag_pnl_result_2025,agb_kapellen,2025,535326,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,P&L boekjaar +0.535m (waarvan 0.300m uitgekeerd); tick929
+bud_kag_personnel_2025,agb_kapellen,2025,86540,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Bezoldigingen 0.087m; tick929
+bud_kag_fin_costs_2025,agb_kapellen,2025,20608,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Financiele kosten 0.021m; tick929
+bud_kag_goederen_2025,agb_kapellen,2025,957773,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,Goederen en diensten 0.958m; tick929
+bud_kag_mjp_fin_debt_2026,agb_kapellen,2025,17003718,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,MJP projected fin debt YE2026 17.004m; tick929
+bud_kag_gemeente_loan_stock_nbb_2025,agb_kapellen,2025,3149346,,,jaarrekening_realized,src_kapellen_agb_jr2025,strong,AGB toegestane leningen van de gemeente stock ~3.149m (renteloos residual FOI); tick929

@@ -1,0 +1,39 @@
+AGB KAPELLEN JR2025 KEY EXTRACT — tick929 Entity II residual
+Primary: https://www.kapellen.be/file/download/45289/D4D1C8494A13DA1477D63A155B43A6F8
+Portal: https://www.kapellen.be/jaarrekening-2025-agb-kapellen
+Local: docs/doge/data/raw/kapellen_agb_jr2025.pdf (126p BBC 03/06/2026)
+KBO 0643.817.110 | Bruggeske 1 2950 Kapellen
+Directeur AGB&Mercator: Paula Verhoeven | FD Patsy Lanslots
+Besluit 29.06.2026 | published 16.07.2026
+
+KENGETALLEN:
+Cash 460124 | fin debt loans 17492486 | prijssubsidie gemeente 702120
+Expl exp 1708436 / rec 2221265 | budget -181392 | cum BR 636160
+AFM -181392 | P&L 535326 | payout 300000
+Invest 244985 | new loans 244985 | periodieke 694222 | intrest 20607
+
+BALANCE J4 YE2025 (vs 2024):
+Assets 20119816 (25524647)
+Equity 1362171 (1156935)
+Schulden 18757646 (24367712)
+Fin debt T4 17492485 (17941723)
+  LT 16972702 / ST due 519783
+Cash 460124 (842588 DROP)
+Cap subs 692087
+MVA 18242736 (leasing 14275658 erfpacht Lux/Bruggeske)
+
+J2:
+Expl 2221265 / 1708436 / +512830
+Invest 0 / 244985 / -244985
+Fin 244985 / 694222 / -449237
+Budget -181392
+BBR 636160
+AFM -181392 / gecorr -922508 NEGATIVE
+
+J5:
+Personnel 86540 | goederen 957773 | fin costs 20608
+P&L +535326 | payout to rechthebbenden 300000 | over te dragen 235326
+Opbrengsten werking 2137192
+
+FOI: debt 17.5m schedule; prijssubsidie; payout while AFM negative; gemeente renteloze loans
+Dual: Assenede tick928 assets 84.3m OCMW cover 1.42m
