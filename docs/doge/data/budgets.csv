@@ -24563,3 +24563,57 @@ bud_kat_ge_expl_exp_2025,city_kasterlee,2025,26337010,,,bbc_jr_realized,src_kast
 bud_kat_ocmw_expl_exp_2025,city_kasterlee,2025,4148716,,,bbc_jr_realized,src_kasterlee_jr2025,strong,OCMW exploitatieuitgaven J3 4.15m FOI; tick1017
 bud_kat_ocmw_expl_rec_2025,city_kasterlee,2025,2400045,,,bbc_jr_realized,src_kasterlee_jr2025,strong,OCMW exploitatieontvangsten J3 2.40m; tick1017
 bud_kat_mjp_new_loans_planned_2025,city_kasterlee,2025,6000000,,,bbc_jr_realized,src_kasterlee_jr2025,strong,MJP bank loan planned 6.00m not drawn (3m to 2026 FOI); tick1017
+bud_bug_assets_2025,city_buggenhout,2025,85484133,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Assets YE2025 85.48m (was 81.99m); tick1018
+bud_bug_equity_2025,city_buggenhout,2025,60278048,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Nettoactief YE2025 60.28m (was 58.00m); tick1018
+bud_bug_debt_total_2025,city_buggenhout,2025,25206086,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Total schulden YE2025 25.21m (was 23.99m); tick1018
+bud_bug_fin_debt_2025,city_buggenhout,2025,14718342,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Fin debt total YE2025 14.72m RISING (was 13.58m T4 FOI); tick1018
+bud_bug_fin_debt_lt_2025,city_buggenhout,2025,12640467,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Fin debt LT YE2025 12.64m RISING (was 11.51m); tick1018
+bud_bug_fin_debt_st_due_2025,city_buggenhout,2025,2077875,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Fin debt ST due YE2025 2.08m; tick1018
+bud_bug_new_loans_2025,city_buggenhout,2025,3334102,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Nieuwe leningen 2025 3.33m JUMP FOI (was 0.274m); tick1018
+bud_bug_aflossingen_2025,city_buggenhout,2025,2193197,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Periodieke aflossingen 2025 2.19m; tick1018
+bud_bug_cash_2025,city_buggenhout,2025,9061534,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Liquide middelen YE2025 9.06m JUMP (was 5.24m); tick1018
+bud_bug_pension_2025,city_buggenhout,2025,6201999,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Pensioenvoorzieningen LT YE2025 6.20m (was 6.13m FOI); tick1018
+bud_bug_cap_subs_2025,city_buggenhout,2025,4276550,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Kapitaalsubsidies YE2025 4.28m; tick1018
+bud_bug_fva_total_2025,city_buggenhout,2025,14900535,,,bbc_jr_realized,src_buggenhout_jr2025,strong,FVA total YE2025 14.90m; tick1018
+bud_bug_fva_igs_2025,city_buggenhout,2025,14778421,,,bbc_jr_realized,src_buggenhout_jr2025,strong,FVA IGS YE2025 14.78m; tick1018
+bud_bug_fva_ocmw_assoc_2025,city_buggenhout,2025,6000,,,bbc_jr_realized,src_buggenhout_jr2025,strong,FVA OCMW-verenigingen YE2025 6k; tick1018
+bud_bug_fva_other_2025,city_buggenhout,2025,116114,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Andere FVA YE2025 0.116m; tick1018
+bud_bug_leasing_mva_2025,city_buggenhout,2025,1272511,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Leasing MVA gemeenschapsgoederen YE2025 1.27m; tick1018
+bud_bug_onbeschikbaar_2025,city_buggenhout,2025,186667,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Onbeschikbare gelden YE2025 0.187m; tick1018
+bud_bug_expl_rec_2025,city_buggenhout,2025,37470221,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Exploitatieontvangsten 37.47m; tick1018
+bud_bug_expl_exp_2025,city_buggenhout,2025,32661282,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Exploitatieuitgaven 32.66m; tick1018
+bud_bug_expl_saldo_2025,city_buggenhout,2025,4808940,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Exploitatiesaldo +4.81m STRONG; tick1018
+bud_bug_invest_exp_2025,city_buggenhout,2025,2754170,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Investeringsuitgaven 2.75m vs MJP 6.06m UNDERSPEND FOI; tick1018
+bud_bug_invest_rec_2025,city_buggenhout,2025,506689,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Investeringsontvangsten 0.507m; tick1018
+bud_bug_invest_saldo_2025,city_buggenhout,2025,-2247481,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Investeringssaldo -2.25m; tick1018
+bud_bug_mjp_invest_planned_2025,city_buggenhout,2025,6063667,,,bbc_jr_realized,src_buggenhout_jr2025,strong,MJP invest planned 6.06m vs realized 2.75m underspend FOI; tick1018
+bud_bug_afm_2025,city_buggenhout,2025,2720906,,,bbc_jr_realized,src_buggenhout_jr2025,strong,AFM +2.72m STRONG; tick1018
+bud_bug_afm_corr_2025,city_buggenhout,2025,3827909,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Gecorrigeerde AFM +3.83m STRONG; tick1018
+bud_bug_bbr_2025,city_buggenhout,2025,9347686,,,bbc_jr_realized,src_buggenhout_jr2025,strong,BBR beschikbaar 9.35m HIGH; tick1018
+bud_bug_budget_result_2025,city_buggenhout,2025,3807527,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Budgettair resultaat +3.81m STRONG; tick1018
+bud_bug_cum_br_2025,city_buggenhout,2025,9534353,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Gecumuleerd budgettair resultaat 9.53m; tick1018
+bud_bug_pnl_2025,city_buggenhout,2025,2243363,,,bbc_jr_realized,src_buggenhout_jr2025,strong,P&L +2.24m STRONG; tick1018
+bud_bug_pnl_ge_2025,city_buggenhout,2025,4118603,,,bbc_jr_realized,src_buggenhout_jr2025,strong,GE P&L +4.12m; tick1018
+bud_bug_pnl_ocmw_2025,city_buggenhout,2025,-1875240,,,bbc_jr_realized,src_buggenhout_jr2025,strong,OCMW P&L -1.88m FOI; tick1018
+bud_bug_ocmw_cover_2025,city_buggenhout,2025,2000000,,,bbc_jr_realized,src_buggenhout_jr2025,strong,OCMW cover 2.00m FULL FOI residual vs OCMW -1.88m; tick1018
+bud_bug_ocmw_cum_deficit_2025,city_buggenhout,2025,-497049,,,bbc_jr_realized,src_buggenhout_jr2025,strong,OCMW cum tekort YE2025 -0.497m IMPROVING (was -0.622m after cover); tick1018
+bud_bug_personnel_2025,city_buggenhout,2025,20457153,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Bezoldigingen 20.46m; tick1018
+bud_bug_toelagen_2025,city_buggenhout,2025,3250473,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Toegestane werkingssubsidies 3.25m FOI residual; tick1018
+bud_bug_toelagen_police_2025,city_buggenhout,2025,2501274,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Toelage politiezone 2.50m; tick1018
+bud_bug_toelagen_fire_2025,city_buggenhout,2025,441264,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Toelage hulpverleningszone 0.441m; tick1018
+bud_bug_toelagen_eredienst_2025,city_buggenhout,2025,10470,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Toelage eredienst 0.010m; tick1018
+bud_bug_toelagen_other_2025,city_buggenhout,2025,297465,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Toelage andere begunstigden 0.297m FOI; tick1018
+bud_bug_ocmw_aid_2025,city_buggenhout,2025,1199177,,,bbc_jr_realized,src_buggenhout_jr2025,strong,OCMW individuele hulp 1.20m; tick1018
+bud_bug_fiscal_2025,city_buggenhout,2025,15341498,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Fiscale opbrengsten 15.34m; tick1018
+bud_bug_fiscal_ov_2025,city_buggenhout,2025,5957021,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Opcentiemen OV 5.96m; tick1018
+bud_bug_fiscal_pb_2025,city_buggenhout,2025,7885500,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Aanvullende PB 7.89m JUMP (was 6.76m); tick1018
+bud_bug_gemeentefonds_2025,city_buggenhout,2025,3723798,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Gemeentefonds 3.72m; tick1018
+bud_bug_fin_opbr_2025,city_buggenhout,2025,709984,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Financiele opbrengsten J5 0.710m; tick1018
+bud_bug_fin_costs_2025,city_buggenhout,2025,538487,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Financiele kosten 0.538m; tick1018
+bud_bug_invest_subs_granted_2025,city_buggenhout,2025,325859,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Toegestane investeringssubsidies 0.326m FOI (police invest 0.345m path); tick1018
+bud_bug_cum_equity_surplus_2025,city_buggenhout,2025,17098954,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Gecumuleerd equity surplus YE2025 +17.10m IMPROVING; tick1018
+bud_bug_ge_nettoactief_2025,city_buggenhout,2025,56208516,,,bbc_jr_realized,src_buggenhout_jr2025,strong,GE nettoactief YE2025 56.21m; tick1018
+bud_bug_ocmw_nettoactief_2025,city_buggenhout,2025,4069532,,,bbc_jr_realized,src_buggenhout_jr2025,strong,OCMW nettoactief YE2025 4.07m; tick1018
+bud_bug_periodieke_aflossingen_netto_2025,city_buggenhout,2025,2088033,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Netto periodieke aflossingen AFM 2.09m; tick1018
+bud_bug_fin_ontvangsten_2025,city_buggenhout,2025,3789266,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Financieringsontvangsten 3.79m (incl new loans); tick1018
+bud_bug_fin_uitgaven_2025,city_buggenhout,2025,2543197,,,bbc_jr_realized,src_buggenhout_jr2025,strong,Financieringsuitgaven 2.54m; tick1018

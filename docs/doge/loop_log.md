@@ -13311,3 +13311,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1018** residual dual L5 (Torhout / Balen / Stekene / Buggenhout / other); deferred **rq_116**; progress@1020 in 3
 
+
+### Tick 1018 - 2026-08-09T22:15:00Z
+
+- Unit: **rq_1018** (FOI-adjacent residual dual - **Gemeente+OCMW Buggenhout Jaarrekening 2025** + Kasterlee dual residual)
+- Found (strong primary BBC JR2025 168p; KBO 0207.445.287 / OCMW 0212.244.215; FD Reindert Koekelkoren; AD Wouter Vermeiren; Nieuwstraat 2; NIS 42004):
+  - Assets **EUR85.48m** / equity **EUR60.28m** / debt total **EUR25.21m** / fin debt **EUR14.72m** (**RISING** from **EUR13.58m**; LT **EUR12.64m** / ST due **EUR2.08m**)
+  - New loans **EUR3.33m JUMP FOI** (was **EUR0.274m**) / repayments **EUR2.19m**
+  - Cash **EUR9.06m JUMP** (was **EUR5.24m**) / pension **EUR6.20m** / leasing MVA **EUR1.27m**
+  - FVA IGS **EUR14.78m** / cap subs **EUR4.28m** / onbeschikbaar **EUR0.187m**
+  - Exploitatie: ontvangsten **EUR37.47m** / uitgaven **EUR32.66m** / saldo **+EUR4.81m STRONG**
+  - AFM **+EUR2.72m STRONG** (gecorr **+EUR3.83m**) / BBR **EUR9.35m HIGH** / budget **+EUR3.81m STRONG** / P&L **+EUR2.24m** (GE **+EUR4.12m** / OCMW **-EUR1.88m FOI**)
+  - Personnel **EUR20.46m** / toelagen **EUR3.25m FOI** (police **EUR2.50m** / fire **EUR0.441m** / other **EUR0.297m**)
+  - Invest **EUR2.75m** vs MJP **EUR6.06m UNDERSPEND FOI** / invest-subs **EUR0.326m** / **OCMW cover EUR2.00m FULL FOI** / OCMW cum **-EUR0.497m IMPROVING**
+- Dual: Kasterlee **EUR143.44m** / AFM **+EUR6.33m** / OCMW cover **EUR1.78m** (tick1017) - not TE-additive
+- Note: Balen JR2025 published but image-scanned OCR-blocked this tick; Torhout still news-only; Stekene / Oosterzele / Moerbeke residual next optional
+- Wrote: budgets +54 (bud_bug_*); commitments +6; leaderboard +8; sources +1; entity city_buggenhout; FOI **gap_bug_debt_ocmw_toelagen_l5** prio8 ready + draft; key only (PDF ~13.8MB not stored in git); rq_1018=done; spawn **rq_1019**; ticks=1018
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1019** residual dual L5 (Torhout / Stekene / Balen if OCR / Oosterzele / other); deferred **rq_116**; progress@1020 in 2
+
