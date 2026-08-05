@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **910** (2026-08-07) · **~4198** leaderboard rows  
+**As-of:** tick **920** (2026-08-07) · **~4261** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,9 +27,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap (pi **9.05** stock) · OWV snowball **€27bn** eoy2083 (pi **8.55** stock-as-annual) · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / BKZ **€815m** / Lier **€323m** / Beersel **€174m** / Mortsel **€171m** / Oostkamp **€140m** / Brecht **€165m** / Schilde **€125m**) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt/MJP/loan stocks Lier **new loans €32.7m** / Oostkamp **€6.07m** / Rumst-Stabroek **~€4.7m** / Tremelo AGB **€12.09m** · invest-subs Lier other **€16.8m** / Boortmeerbeek police **€2.9m** · AFM stress Stabroek **−€2.35m** · pension cash Stabroek **€4.31m** · sportpark Ingelmunster **€4.3m**.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / Lier **€323m** / Asse **€253m** / Ninove **€203m** / Landen **€101m** / Zemst **€174m** / Opwijk **€94m** / Kinrooi **€83m** / Wellen **€58m**) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt/MJP/loan stocks Asse **new loans €16.5m** / Zemst **€8.7m** / Ninove **€5.59m** / Bever **€1.25m** / Opwijk MJP **€19.7m 2026** / Landen MJP **€5.43m 2027** · AGB/erfpacht Zemst **€6.08m 99y** / Asse AGB **€1.24m** · OCMW dual Ninove cover **€7.53m** vs Kinrooi **€0** with P&L **−€2.25m** · invest stress Wellen **€6.20m** / Horebeke **€1.70m** · Plopsa Landen **€0.52m** · AFM stress Asse **−€3.18m**.
 
-**Change vs tick 900:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 901–909 (off pure top10 / dual):** Lier **€323m** (**new loans €32.7m**, invest-subs other **€16.8m**, cash drop, P&L **−€16.2m**) / Mortsel **€171m** (**ST €9.97m**, police **€5.73m**, gecorr **−€0.85m**) / Beersel **€174m** (AFM **+€8.3m**, personnel jump **€30.2m**, eredienst **€0.91m**) / Tremelo **€92m** (**AGB loan €12.09m**) / Stabroek **€118m** (**AFM −€2.35m**, pension cash **€4.31m**, loans **€4.66m**) / Oostkamp **€140m** (**loans €6.07m**, cash jump **€2.9→9.6m**, AFM **+€6.3m**) / Rumst **€83m** (loans **€4.65m**, IGS **€1.73m**) / Ingelmunster **€79m** (sportpark **€4.3m**, OCMW **€3.0m**) / Boortmeerbeek **€82m** (invest-subs police **€2.90m**). Gain is **Antwerp–Mechelen corridor + high loan-draw Lier + AFM stress duals** more than FFS reshuffle.
+**Change vs tick 910:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 911–919 (off pure top10 / dual):** Asse **€253m** (**loans €16.5m**, **AFM −€3.18m**, ST **€5.5m**, OCMW **€4.74m**) · Zemst **€174m** (**loans €8.7m**, **AGB erfpacht €6.08m 99y**) · Ninove **€203m** (**loans €5.59m**, **OCMW cover €7.53m**, budget **−€5.61m**, cash drop) · Opwijk **€94m** (debt declining; **MJP loans 2026 €19.7m**; OPcura **€1.24m**) · Horebeke **€13m** (invest **€1.70m**, police spike) · Kinrooi **€83m** (**OCMW −€2.25m cover 0**, AFM **+€3.07m**) · Bever **€21m** (**school €3.69m**, loans **€1.25m**) · Landen **€101m** (**Plopsa €0.52m**, BBR **€15m**, debt declining) · Wellen **€58m** (**invest €6.20m**, budget **−€3.44m**, FVA IGS reval). Gain is **loan-ramp vs loan-decline duals + OCMW opacity + AGB erfpacht + Plopsa absurdity** more than FFS reshuffle.
 
 ### Just outside top 10 (often relevant)
 
@@ -39,12 +39,12 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | — | `lb_owv_sub_snowball_27bn_2083` | **stock-as-ann** | **8.55** | STOCK filtered eoy2083 |
 | — | `lb_vl_gsc_pv_legacy_7_078bn` | **~708 m** class | **8.05** | GSC PV legacy oversubsidy |
 | — | `lb_fed_consultancy_2_5bn_coa` | **~842 m/yr** | **8.00** | CoA 2.525bn/3y |
-| — | `lb_lir_new_loans_32_7m_2025` | **32.7 m** | **~7.0** | **NEW 904** Lier bank draw + invest-subs other €16.8m |
-| — | `lb_lir_invest_subs_other_16_8m` | **16.8 m** | **~6.8** | **NEW 904** invest-subs opacity |
-| — | `lb_trm_agb_loan_12m_2025` | **stock** | **~6.5** | **NEW 902** AGB erfpacht sporthal €12.09m |
-| — | `lb_stb_afm_neg_2_35m_2025` | **stress** | **~6.5** | **NEW 906** AFM −€2.35m + pension cash €4.31m |
-| — | `lb_osk_new_loans_6m_cash_jump` | **6.1 m** | **~6.3** | **NEW 909** loans €6.07m + cash €2.9→9.6m |
-| — | `lb_bee_personnel_jump_30m` | **30.2 m** | **~6.3** | **NEW 905** personnel +€5.9m onderwijs other |
+| — | `lb_asse_new_loans_16_5m_2025` | **16.5 m** | **~6.6** | **NEW 911** second large draw after 30.1m 2024 |
+| — | `lb_nin_ocmw_cover_7_5m_2025` | **7.5 m** | **~6.6** | **NEW 913** structural OCMW transfer |
+| — | `lb_opw_mjp_loans_19_7m_2026` | **19.7 m** planned | **~6.8** | **NEW 914** deferred leverage after debt decline |
+| — | `lb_kin_ocmw_pl_neg_2_25m_2025` | **stress** | **~6.7** | **NEW 916** OCMW −€2.25m cover 0 |
+| — | `lb_lan_plopsa_0_52m_2025` | **0.52 m** | **~6.5** | **NEW 918** high-absurdity private leisure subsidy |
+| — | `lb_wel_invest_6_2m_2025` | **6.2 m** | **~6.4** | **NEW 919** invest-driven budget −€3.44m |
 
 ### High-absurdity shortlist (not pure annual cost rank)
 
@@ -56,10 +56,12 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_police_ipolice_ssg_eval` | **9.0** | i-Police SSG evaluation |
 | `lb_vl_gip_monitor_fail_2_5bn` | **9.0** | GIP without VEK public report |
 | `lb_oaa_consol_reporte_300_6m` | **9.0** | Reporté solde fiction |
-| `lb_lir_new_loans_32_7m_2025` | **7.5** | **NEW 904** largest residual loan draw this decade batch |
-| `lb_stb_afm_neg_2_35m_2025` | **7.5** | **NEW 906** negative AFM + pension cash step |
-| `lb_mor_st_debt_9_97m_2025` | **7.0** | **NEW 903** ST treasury from 0 → €9.97m |
-| `lb_ing_sportpark_4_3m_2025` | **7.0** | **NEW 908** sportpark + OCMW cover €3m |
+| `lb_lan_plopsa_0_52m_2025` | **8.5** | **NEW 918** Plopsa indexed toelage |
+| `lb_kin_ocmw_pl_neg_2_25m_2025` | **8.5** | **NEW 916** OCMW deficit without cover |
+| `lb_zemst_agb_erfpacht_6_1m_2025` | **8.0** | **NEW 912** 99-year AGB repayment |
+| `lb_asse_new_loans_16_5m_2025` | **7.5** | **NEW 911** loans after 30.1m 2024 |
+| `lb_nin_cash_drop_5_3m_2025` | **7.5** | **NEW 913** cash drop despite new loans |
+| `lb_wel_cash_drop_3_1m_2025` | **7.5** | **NEW 919** cash funds invest without large bank draw |
 
 ### Methodology notes
 

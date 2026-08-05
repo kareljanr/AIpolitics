@@ -11539,3 +11539,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +37 (bud_wel_*); commitments +4; leaderboard +7; sources +2; entity city_wellen; FOI **gap_wel_invest_cash_igs_l5** prio8 ready + draft; raw PDF + key; rq_919=done; spawn **rq_920 progress@920 prio10**; ticks=919
 - FOI: ready only - **do not send**
 - Next: **progress@920 NEXT** (prio10 rq_920); then residual dual L5; deferred **rq_116**
+
+### Tick 920 - 2026-08-07T08:45:00Z
+
+- Unit: **rq_920** (mandatory **progress@920** - coverage layers A-E + waste top10)
+- Inventory: budgets **~20401** / commitments **~2633** / leaderboard **~4261** / entities **~648** / sources **~1804** / FOI ready **~611** / answered **~9** / partial **~27** / total FOI **~652**
+- Coverage: A/B **100%** · C **~99%** · D **~71-85%** generous (gain = VL residual hole-fill 911-919, not near-complete of EUR348bn) · E FOI-ready **~611**
+- Gain since tick910 (VL JR2025 residual 911-919, dual not TE-additive):
+  - Asse **EUR253m** / **new loans EUR16.5m** / **AFM -EUR3.18m** / OCMW **EUR4.74m**
+  - Zemst **EUR174m** / **loans EUR8.7m** / **AGB erfpacht EUR6.08m (99y)**
+  - Ninove **EUR203m** / **loans EUR5.59m** / **OCMW cover EUR7.53m** / budget **-EUR5.61m**
+  - Opwijk **EUR94m** / debt declining / **MJP loans 2026 EUR19.7m** / OPcura **EUR1.24m**
+  - Horebeke **EUR13m** / invest **EUR1.70m** / police spike · Kinrooi **EUR83m** / **OCMW -EUR2.25m cover 0** / AFM **+EUR3.07m**
+  - Bever **EUR21m** / school **EUR3.69m** / loans **EUR1.25m** · Landen **EUR101m** / **Plopsa EUR0.52m** / BBR **EUR15m**
+  - Wellen **EUR58m** / invest **EUR6.20m** / budget **-EUR3.44m** / FVA IGS reval
+- Pure annual waste top10: **stable** GIP / fossil / cars / cheque / reporte (local L5 stocks filtered)
+- Wrote: progress_every_10_ticks.md snapshot@920; doge_waste_top10_current.md as-of 920; rq_920=done; spawn **rq_921** hole_fill; ticks=920
+- FOI: no new gap this tick (progress only) - **do not send**
+- Next: prio5 **rq_921** residual dual L5; deferred **rq_116**; progress@930 in 10

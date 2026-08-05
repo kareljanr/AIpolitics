@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 920** (2026-08-07)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** VL residual 911-919: Asse **EUR253m** / Ninove **EUR203m** / Zemst **EUR174m** / Landen **EUR101m** / Opwijk **EUR94m** / Kinrooi **EUR83m** / Wellen **EUR58m** / Bever **EUR21m** / Horebeke **EUR13m** · prior Lier-Oostkamp + residual stack retained |
+| **D. L5 named / measure end-lines** | **~71-85%** of TE (generous) | **Gain 910-920 is VL mid/small residual hole-fill (not near-complete of 348bn):** personnel Ninove **EUR50m** / Asse **EUR48m** / Landen **EUR20m** / Kinrooi **EUR17m** / Opwijk **EUR15m** / Wellen **EUR5m** / Bever **EUR5m** · AFM spectrum Kinrooi **+EUR3.07m** / Landen **+EUR2.77m** / Wellen **+EUR2.60m** / Opwijk **+EUR2.81m** / Bever **+EUR0.97m** / Horebeke **+EUR0.43m** · **Asse AFM −EUR3.18m** · FOI-adjacent: Asse **new loans EUR16.5m** / ST treasury **EUR5.5m** / AGB loans **EUR1.24m** / OCMW cover **EUR4.74m** · Zemst **new loans EUR8.7m** / **AGB erfpacht Turfput EUR6.08m (99y)** · Ninove **new loans EUR5.59m** / **OCMW cover EUR7.53m** / budget **−EUR5.61m** / cash **EUR17to12m** · Opwijk **MJP loans 2026 EUR19.7m** (narrative bank **EUR14m**) / OPcura **EUR1.24m** / planned 2025 loan **EUR6.5m not drawn** · Horebeke **invest EUR1.70m** / budget **−EUR0.99m** / police toelage spike **EUR0.16to0.28m** · Kinrooi **OCMW P&L −EUR2.25m cover 0** / equity **−EUR0.82m** / pension **EUR3.1to4.8m** · Bever **school Akrenbos EUR3.69m** / **new loans EUR1.25m** · Landen **Plopsa EUR0.52m** / BBR **EUR15.0m** / MJP loans 2027 **EUR5.43m** · Wellen **invest EUR6.20m** / budget **−EUR3.44m** / cash drop **EUR12.9to9.7m** / **FVA IGS EUR5.9to10.8m** |
+| **E. FOI-ready gaps** | **~611** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~652** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / Lier **EUR323m** / Asse **EUR253m** / Ninove **EUR203m** / Landen **EUR101m** not full TE) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 920)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~20401 |
+| commitments.csv | ~2633 |
+| leaderboard.csv | ~4261 |
+| entities.csv | ~648 |
+| sources.csv | ~1804 |
+| FOI ready | ~611 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~652 |
+| research_queue open | rq_116 deferred + rq_921 hole-fill after progress |
+
+### What improved since tick 910
+
+- **VL city JR2025 residual (tick911-919):** Asse assets **EUR253m** / **new loans EUR16.5m** / **AFM −EUR3.18m** / ST **EUR5.5m** / OCMW cover **EUR4.74m** · Zemst **EUR174m** / **new loans EUR8.7m** / **AGB erfpacht EUR6.08m (99y)** · Ninove **EUR203m** / **new loans EUR5.59m** / **OCMW cover EUR7.53m** / budget **−EUR5.61m** / cash drop · Opwijk **EUR94m** / **fin debt declining EUR13.2to11.6m** / **MJP loans 2026 EUR19.7m** / OPcura **EUR1.24m** · Horebeke **EUR13m** / **invest EUR1.70m** / budget **−EUR0.99m** / police spike · Kinrooi **EUR83m** / debt declining / **OCMW P&L −EUR2.25m cover 0** / AFM **+EUR3.07m** · Bever **EUR21m** / **school EUR3.69m** / loans **EUR1.25m** · Landen **EUR101m** / debt declining / **Plopsa EUR0.52m** / BBR **EUR15.0m** · Wellen **EUR58m** / **invest EUR6.20m** / budget **−EUR3.44m** / **FVA IGS reval EUR5.9to10.8m**.
+- **Dual map:** debt-ramp duals (Asse **EUR16.5m** / Zemst **EUR8.7m** / Ninove **EUR5.6m** / Bever **EUR1.25m**) vs debt-decline duals (Opwijk / Kinrooi / Landen / Wellen) · OCMW opacity dual (Ninove cover **EUR7.5m** vs Kinrooi cover **0** with **−EUR2.25m** P&L) · AGB/erfpacht dual (Zemst 99y / Asse AGB loans) · invest-cash dual (Wellen **EUR6.2m** / Horebeke **EUR1.7m** / Ninove cash drop) · high-absurdity local (Landen Plopsa **EUR0.52m**) · deferred leverage (Opwijk **EUR19.7m** 2026 / Landen **EUR5.43m** 2027).
+- **No pure-annual top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 910** (2026-08-07)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
