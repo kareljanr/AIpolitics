@@ -21163,3 +21163,47 @@ bud_aff_fin_costs_2025,city_affligem,2025,360107,,,jaarrekening_realized,src_aff
 bud_aff_goederen_2025,city_affligem,2025,4547571,,,jaarrekening_realized,src_affligem_jr2025,strong,Goederen en diensten 4.55m; tick938
 bud_aff_mjp_invest_planned_2025,city_affligem,2025,3236319,,,jaarrekening_realized,src_affligem_jr2025,strong,MJP planned invest 3.24m vs realized 2.42m FOI; tick938
 bud_aff_mjp_bank_planned_2025,city_affligem,2025,10000000,,,jaarrekening_realized,src_affligem_jr2025,strong,MJP planned bank draws multi-year residual FOI (0 drawn 2025); tick938
+bud_dei_assets_2025,city_deinze,2025,321280932,,,jaarrekening_realized,src_deinze_jr2025,strong,Total assets YE2025 321.3m; tick939
+bud_dei_equity_2025,city_deinze,2025,249582874,,,jaarrekening_realized,src_deinze_jr2025,strong,Nettoactief YE2025 249.6m; tick939
+bud_dei_debt_total_2025,city_deinze,2025,71698058,,,jaarrekening_realized,src_deinze_jr2025,strong,Total schulden YE2025 71.7m; tick939
+bud_dei_fin_debt_2025,city_deinze,2025,56627977,,,jaarrekening_realized,src_deinze_jr2025,strong,T4 total financiele schulden YE2025 56.6m RISING (LT 51.9 + ST due 4.70); tick939
+bud_dei_fin_debt_lt_2025,city_deinze,2025,51927002,,,jaarrekening_realized,src_deinze_jr2025,strong,Financiele schulden LT YE2025 51.9m; tick939
+bud_dei_fin_debt_st_due_2025,city_deinze,2025,4700976,,,jaarrekening_realized,src_deinze_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 4.70m; tick939
+bud_dei_fin_debt_2024,city_deinze,2025,49819695,,,jaarrekening_realized,src_deinze_jr2025,strong,T4 fin debt YE2024 49.8m comparator; tick939
+bud_dei_pension_prov_2025,city_deinze,2025,3321663,,,jaarrekening_realized,src_deinze_jr2025,strong,Pensioenvoorzieningen YE2025 3.32m; tick939
+bud_dei_cash_2025,city_deinze,2025,14531042,,,jaarrekening_realized,src_deinze_jr2025,strong,Liquide middelen YE2025 14.5m (was 12.1m JUMP FOI); tick939
+bud_dei_cash_2024,city_deinze,2025,12056197,,,jaarrekening_realized,src_deinze_jr2025,strong,Liquide middelen YE2024 12.1m; tick939
+bud_dei_cap_subs_2025,city_deinze,2025,51888037,,,jaarrekening_realized,src_deinze_jr2025,strong,Kapitaalssubsidies YE2025 51.9m; tick939
+bud_dei_fva_total_2025,city_deinze,2025,55553998,,,jaarrekening_realized,src_deinze_jr2025,strong,Financiele vaste activa YE2025 55.6m; tick939
+bud_dei_fva_igs_2025,city_deinze,2025,53538055,,,jaarrekening_realized,src_deinze_jr2025,strong,FVA IGS YE2025 53.5m; tick939
+bud_dei_fva_agb_2025,city_deinze,2025,25000,,,jaarrekening_realized,src_deinze_jr2025,strong,FVA AGB Deinze participation 0.025m; tick939
+bud_dei_mva_2025,city_deinze,2025,216908354,,,jaarrekening_realized,src_deinze_jr2025,strong,Materiele vaste activa YE2025 216.9m; tick939
+bud_dei_onbeschikbaar_2025,city_deinze,2025,240000,,,jaarrekening_realized,src_deinze_jr2025,strong,Onbeschikbare gelden 0.24m; tick939
+bud_dei_expl_rec_2025,city_deinze,2025,96558471,,,jaarrekening_realized,src_deinze_jr2025,strong,Exploitatieontvangsten 96.6m; tick939
+bud_dei_expl_exp_2025,city_deinze,2025,88309417,,,jaarrekening_realized,src_deinze_jr2025,strong,Exploitatieuitgaven 88.3m; tick939
+bud_dei_expl_saldo_2025,city_deinze,2025,8249053,,,jaarrekening_realized,src_deinze_jr2025,strong,Exploitatiesaldo +8.25m; tick939
+bud_dei_invest_exp_2025,city_deinze,2025,19153139,,,jaarrekening_realized,src_deinze_jr2025,strong,Investeringsuitgaven 19.2m (MJP planned 65.7m underspend FOI); tick939
+bud_dei_invest_rec_2025,city_deinze,2025,3048712,,,jaarrekening_realized,src_deinze_jr2025,strong,Investeringsontvangsten 3.05m; tick939
+bud_dei_invest_saldo_2025,city_deinze,2025,-16104427,,,jaarrekening_realized,src_deinze_jr2025,strong,Investeringssaldo -16.1m; tick939
+bud_dei_fin_rec_2025,city_deinze,2025,12430399,,,jaarrekening_realized,src_deinze_jr2025,strong,Financieringsontvangsten 12.4m; tick939
+bud_dei_fin_exp_2025,city_deinze,2025,4841710,,,jaarrekening_realized,src_deinze_jr2025,strong,Financieringsuitgaven 4.84m; tick939
+bud_dei_new_loans_2025,city_deinze,2025,10824547,,,jaarrekening_realized,src_deinze_jr2025,strong,Nieuwe leningen 10.82m FOI (MTN Belfius 10.0m + other/lease); tick939
+bud_dei_mtn_belfius_2025,city_deinze,2025,10000000,,,jaarrekening_realized,src_deinze_jr2025,strong,Medium Term Note Belfius component ~10.0m within new loans FOI; tick939
+bud_dei_aflossingen_2025,city_deinze,2025,4016265,,,jaarrekening_realized,src_deinze_jr2025,strong,Periodieke aflossingen 4.02m; tick939
+bud_dei_loan_recoveries_2025,city_deinze,2025,2038339,,,jaarrekening_realized,src_deinze_jr2025,strong,Periodieke terugvordering leningen 2.04m; tick939
+bud_dei_afm_2025,city_deinze,2025,6271127,,,jaarrekening_realized,src_deinze_jr2025,strong,AFM +6.27m; tick939
+bud_dei_afm_corr_2025,city_deinze,2025,6301816,,,jaarrekening_realized,src_deinze_jr2025,strong,Gecorrigeerde AFM +6.30m; tick939
+bud_dei_bbr_2025,city_deinze,2025,15677918,,,jaarrekening_realized,src_deinze_jr2025,strong,Beschikbaar budgettair resultaat 15.7m; tick939
+bud_dei_budget_result_2025,city_deinze,2025,-266684,,,jaarrekening_realized,src_deinze_jr2025,strong,Budgettair resultaat boekjaar -0.27m FOI; tick939
+bud_dei_cum_br_2025,city_deinze,2025,15917918,,,jaarrekening_realized,src_deinze_jr2025,strong,Gecumuleerd budgettair resultaat 15.9m; tick939
+bud_dei_pnl_result_2025,city_deinze,2025,-3090861,,,jaarrekening_realized,src_deinze_jr2025,strong,P&L boekjaar -3.09m FOI; tick939
+bud_dei_personnel_2025,city_deinze,2025,49195414,,,jaarrekening_realized,src_deinze_jr2025,strong,Personeelskosten 49.2m; tick939
+bud_dei_toelagen_2025,city_deinze,2025,15260947,,,jaarrekening_realized,src_deinze_jr2025,strong,Toegestane werkingssubsidies 15.3m FOI named breakdown; tick939
+bud_dei_invest_subs_granted_2025,city_deinze,2025,2185892,,,jaarrekening_realized,src_deinze_jr2025,strong,Toegestane investeringssubsidies 2.19m FOI; tick939
+bud_dei_ocmw_aid_2025,city_deinze,2025,4852798,,,jaarrekening_realized,src_deinze_jr2025,strong,Individuele hulpverlening OCMW 4.85m; tick939
+bud_dei_fiscal_2025,city_deinze,2025,38567493,,,jaarrekening_realized,src_deinze_jr2025,strong,Fiscale opbrengsten 38.6m; tick939
+bud_dei_fin_costs_2025,city_deinze,2025,1501816,,,jaarrekening_realized,src_deinze_jr2025,strong,Financiele kosten 1.50m; tick939
+bud_dei_goederen_2025,city_deinze,2025,17216556,,,jaarrekening_realized,src_deinze_jr2025,strong,Goederen en diensten 17.2m; tick939
+bud_dei_mjp_invest_planned_2025,city_deinze,2025,65679415,,,jaarrekening_realized,src_deinze_jr2025,strong,MJP planned invest 65.7m vs realized 19.2m large underspend FOI; tick939
+bud_dei_agb_bbr_2025,city_deinze,2025,1107606,,,jaarrekening_realized,src_deinze_jr2025,strong,Dual AGB Deinze BBR 1.11m (J2 consol Entity II); tick939
+bud_dei_agb_afm_2025,city_deinze,2025,49576,,,jaarrekening_realized,src_deinze_jr2025,strong,Dual AGB Deinze AFM +0.050m; tick939

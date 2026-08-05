@@ -1,0 +1,45 @@
+Stad+OCMW Deinze Jaarrekening 2025 (BBC multi-boek)
+Book1: https://www.deinze.be/file_uploads/86382.pdf?sc=E00E6363320DF7A4922BF18B013D2B70
+Portal: https://www.deinze.be/jaarrekening-stad-en-ocmw-deinze
+KBO stad BE0697.608.162 / OCMW BE0697.663.689; NIS 44083
+Vastgesteld GR/OCMW 23.06.2026 (site: bekendgemaakt 26.06.2026)
+Tick 939
+Note: full book PDFs ~165-174MB each — not stored in git; primary URL only
+
+BALANCE J4 YE2025 / YE2024
+assets              321280932 / 316263639
+equity              249582874 / 251520015
+debt total          71698058 / 64743625
+fin debt total      56627977 / 49819695  RISING (LT 51927002 + ST due 4700976)
+cash                14531042 / 12056197  JUMP FOI
+pension             3321663 / 3410988
+FVA                 55553998 (AGB 25000 + IGS 53538055 + OCMW-ver 1772256)
+MVA                 216908354
+cap subs            51888037
+onbeschikbaar       240000
+
+J2 2025
+expl rec/exp/saldo  96558471 / 88309417 / +8249053
+invest exp/rec/saldo 19153139 / 3048712 / -16104427
+fin rec/exp/saldo   12430399 / 4841710 / +7588689
+budget result       -266684 FOI
+BBR                 15677918
+AFM                 +6271127
+AFM corr            +6301816
+new loans           10824547 FOI (incl MTN Belfius 10.0m + other/lease)
+aflossingen         4016265
+loan recoveries     2038339
+
+J5
+personnel           49195414
+toelagen            15260947 FOI named breakdown
+invest-subs granted 2185892 FOI
+fiscal              38567493
+P&L                 -3090861 FOI
+goederen            17216556
+fin costs           1501816
+werkingssubsidies rec 39530727
+
+Dual AGB Deinze (J2 consol): BBR 1107606 / AFM +49576 / corr AFM +153312
+Debt instruments FOI: Belfius loans + MTN 8.5to9.0m path, Fluvius Light-as-a-Service, Farys Sporthal Oostbroek, BNP, ING OCMW
+Dual residual tick938: Affligem 47.5m pension 9.93m budget -0.87m

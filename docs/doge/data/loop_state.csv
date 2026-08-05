@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T17:45:00Z,rq_938,938,no,tick938 Affligem JR2025 dual AGB Ardooie; FOI gap_aff_pension_cash_deficit_toelagen_l5 prio8 pension 9.93m budget -0.87m onbeschikbaar 2.34m cum deficit 5.4m; next residual dual L5 rq_939; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T18:15:00Z,rq_939,939,no,tick939 Deinze JR2025 dual Affligem; FOI gap_dei_loans_mtn_toelagen_invest_l5 prio8 bank/MTN 10.8m fin debt 56.6m rising toelagen 15.3m; next progress@940 rq_940 prio10; rq_116 deferred

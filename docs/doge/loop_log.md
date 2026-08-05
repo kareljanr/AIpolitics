@@ -11855,3 +11855,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +47 (bud_aff_*); commitments +4; leaderboard +7; sources +2; entity city_affligem; FOI **gap_aff_pension_cash_deficit_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_938=done; spawn **rq_939**; ticks=938
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_939** residual dual L5 (Roeselare / Wingene / Deinze / other unmined VL JR2025); deferred **rq_116**; progress@940 in 2
+
+### Tick 939 - 2026-08-07T18:15:00Z
+
+- Unit: **rq_939** (FOI-adjacent residual dual - **Stad+OCMW Deinze Jaarrekening 2025** + Affligem dual + AGB Entity II residual)
+- Found (strong primary BBC JR2025 boek1 schemas; GR/OCMW 23.06.2026):
+  - Assets **EUR321.3m** / equity **EUR249.6m** / debt total **EUR71.7m** / fin debt **EUR56.6m** (**RISING** from **EUR49.8m**; LT **EUR51.9m** / ST due **EUR4.70m**)
+  - **New loans EUR10.82m FOI** (MTN Belfius ~**EUR10.0m** + lease stack) / repayments **EUR4.02m** / recoveries **EUR2.04m**
+  - **Cash EUR14.5m was EUR12.1m JUMP FOI** / pension **EUR3.32m**
+  - Exploitatie: ontvangsten **EUR96.6m** / uitgaven **EUR88.3m** / saldo **+EUR8.25m**
+  - AFM **+EUR6.27m** (gecorr **+EUR6.30m**) / BBR **EUR15.7m** / budget **-EUR0.27m FOI** / P&L **-EUR3.09m FOI**
+  - Personnel **EUR49.2m** / toelagen **EUR15.3m FOI** / invest-subs **EUR2.19m FOI** / invest **EUR19.2m** (MJP planned **EUR65.7m** underspend FOI)
+  - Dual AGB Deinze: BBR **EUR1.11m** / AFM **+EUR0.050m**
+- Dual: Affligem **EUR47.5m** / pension **EUR9.93m** / budget **-EUR0.87m** (tick938) - not TE-additive
+- Wrote: budgets +44 (bud_dei_*); commitments +4; leaderboard +7; sources +2; entity city_deinze; FOI **gap_dei_loans_mtn_toelagen_invest_l5** prio8 ready + draft; key only (full PDFs ~165MB not stored); rq_939=done; spawn **rq_940 progress@940 prio10**; ticks=939
+- FOI: ready only - **do not send**
+- Next: **progress@940 NEXT** (prio10 rq_940); then residual dual L5; deferred **rq_116**
