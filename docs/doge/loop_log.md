@@ -13757,3 +13757,25 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1041** residual dual L5 (Hulshout / Torhout / Stekene if PDF / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / Beerse / other); deferred **rq_116**; progress@1050 in 10
 
+
+
+### Tick 1041 - 2026-08-10T09:45:00Z
+
+- Unit: **rq_1041** (FOI-adjacent residual dual - **Gemeente+OCMW Lille Jaarrekening 2025** + Grobbendonk dual residual)
+- Found (strong primary BBC JR2025 244p portal; KBO 0207.502.794 / OCMW 0207.713.127; Rechtestraat 44; AD wnd Wim Bosschaerts FD Herwig Hoskens; GR 24.06.2026 pub 25.06.2026):
+  - Assets **EUR126.37m** slight DROP / equity **EUR102.94m DROP** / debt total **EUR23.43m** / fin debt **EUR15.04m DECLINE** (LT **EUR14.28m** / ST due **EUR0.763m**)
+  - New loans **EUR0.117m LOW** lease-only / repayments **EUR0.754m**
+  - Cash **EUR9.02m JUMP** (was **EUR6.59m**) / pension **EUR4.03m** slight JUMP / FVA IGS **EUR29.27m HIGH FOI** / LT receivables DROP **EUR8.77to5.09m**
+  - Exploitatie: ontvangsten **EUR29.23m** / uitgaven **EUR27.15m** / saldo **+EUR2.08m**
+  - AFM **+EUR1.47m** (gecorr **+EUR0.970m**) / BBR **EUR10.55m** / budget **+EUR2.30m STRONG** / cum BR **EUR10.74m** / P&L **EUR-1.70m NEG FOI** (cum equity flip **-EUR0.320m** was **+EUR1.38m**)
+  - Personnel **EUR13.07m JUMP** / toelagen **EUR3.73m FOI** (police **EUR2.38m** / fire **EUR0.970m** / other **EUR0.363m** / AGB **EUR0**)
+  - Invest **EUR4.58m** vs MJP **EUR8.01m UNDERSPEND** / invest-subs **EUR0.579m** (IGS **EUR0.243m**)
+  - **Early recovery toegestane leningen EUR3.67m HIGH FOI** drives fin saldo **+EUR3.06m**
+  - **OCMW cover EUR0 ZERO FOI** vs gap **EUR-1.05m** / OCMW cum **EUR-0.936m** / OCMW budget **EUR-0.131m**
+  - AGB dual: BBR **EUR0.113m** / AFM **EUR-0.039m NEG FOI** / MJP lease 2026 **EUR5.99m HIGH FOI**
+- Dual: Grobbendonk assets **EUR84.12m** / budget **EUR-3.46m** / OCMW cover **EUR2.08m** (tick1040) - not TE-additive
+- Note: Hulshout residual next; Torhout news-only (AFM 3.1m debt 27.2m); Stekene 404; Balen OCR 133MB+; progress@1050 in 9
+- Wrote: budgets +53 (bud_lil_*); commitments +6; leaderboard +8; sources +1; entity city_lille; FOI **gap_lil_ocmw_pnl_loan_recover_toelagen_l5** prio9 ready + draft; key only (PDF ~32MB not stored in git); rq_1041=done; spawn **rq_1042**; ticks=1041
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1042** residual dual L5 (Hulshout / Torhout full BBC / Stekene if PDF / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / Beerse / other); deferred **rq_116**; progress@1050 in 9
+

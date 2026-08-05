@@ -25837,3 +25837,56 @@ bud_grob_bank_loan_stock_2025,city_grobbendonk,2025,7215109,,,bbc_jr_realized,sr
 bud_grob_vte_ge_2025,city_grobbendonk,2025,8467,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,VTE gemeente YE2025 84.67 (x100 scale); tick1040
 bud_grob_vte_ocmw_2025,city_grobbendonk,2025,3046,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,VTE OCMW YE2025 30.46 (x100 scale); tick1040
 bud_grob_vte_total_2025,city_grobbendonk,2025,11513,,,bbc_jr_realized,src_grobbendonk_jr2025,strong,VTE lokaal bestuur YE2025 115.13 (x100 scale); tick1040
+bud_lil_assets_2025,city_lille,2025,126368106,,,bbc_jr_realized,src_lille_jr2025,strong,Assets YE2025 126.37m slight DROP (was 127.87m); tick1041
+bud_lil_equity_2025,city_lille,2025,102935325,,,bbc_jr_realized,src_lille_jr2025,strong,Nettoactief YE2025 102.94m DROP (was 104.55m); tick1041
+bud_lil_debt_total_2025,city_lille,2025,23432780,,,bbc_jr_realized,src_lille_jr2025,strong,Total schulden YE2025 23.43m; tick1041
+bud_lil_fin_debt_2025,city_lille,2025,15038075,,,bbc_jr_realized,src_lille_jr2025,strong,Fin debt total YE2025 ~15.04m DECLINE (kengetallen openstaande leningen); tick1041
+bud_lil_fin_debt_lt_2025,city_lille,2025,14275280,,,bbc_jr_realized,src_lille_jr2025,strong,Fin debt LT YE2025 14.28m DECLINE (was 14.93m); tick1041
+bud_lil_fin_debt_st_due_2025,city_lille,2025,762795,,,bbc_jr_realized,src_lille_jr2025,strong,Fin debt ST due YE2025 0.763m; tick1041
+bud_lil_new_loans_2025,city_lille,2025,117097,,,bbc_jr_realized,src_lille_jr2025,strong,New loans/leases 2025 0.117m LOW lease-only; tick1041
+bud_lil_repayments_2025,city_lille,2025,753754,,,bbc_jr_realized,src_lille_jr2025,strong,Repayments 2025 0.754m; tick1041
+bud_lil_cash_2025,city_lille,2025,9018709,,,bbc_jr_realized,src_lille_jr2025,strong,Liquide middelen YE2025 9.02m JUMP (was 6.59m); tick1041
+bud_lil_pension_prov_2025,city_lille,2025,4025052,,,bbc_jr_realized,src_lille_jr2025,strong,Pensioenvoorzieningen LT YE2025 4.03m slight JUMP (was 3.89m); tick1041
+bud_lil_fva_total_2025,city_lille,2025,29378099,,,bbc_jr_realized,src_lille_jr2025,strong,FVA total YE2025 29.38m; tick1041
+bud_lil_fva_igs_2025,city_lille,2025,29273964,,,bbc_jr_realized,src_lille_jr2025,strong,FVA IGS YE2025 29.27m HIGH FOI; tick1041
+bud_lil_lt_receivables_2025,city_lille,2025,5090704,,,bbc_jr_realized,src_lille_jr2025,strong,Vorderingen LT YE2025 5.09m DROP (was 8.77m; early recover); tick1041
+bud_lil_expl_ontvangsten_2025,city_lille,2025,29231921,,,bbc_jr_realized,src_lille_jr2025,strong,Exploitatie ontvangsten 2025 29.23m; tick1041
+bud_lil_expl_uitgaven_2025,city_lille,2025,27152949,,,bbc_jr_realized,src_lille_jr2025,strong,Exploitatie uitgaven 2025 27.15m; tick1041
+bud_lil_expl_saldo_2025,city_lille,2025,2078972,,,bbc_jr_realized,src_lille_jr2025,strong,Exploitatiesaldo 2025 +2.08m; tick1041
+bud_lil_invest_spend_2025,city_lille,2025,4575179,,,bbc_jr_realized,src_lille_jr2025,strong,Invest uitgaven 2025 4.58m vs MJP 8.01m UNDERSPEND; tick1041
+bud_lil_invest_rec_2025,city_lille,2025,1742144,,,bbc_jr_realized,src_lille_jr2025,strong,Invest ontvangsten 2025 1.74m; tick1041
+bud_lil_invest_saldo_2025,city_lille,2025,-2833035,,,bbc_jr_realized,src_lille_jr2025,strong,Investeringssaldo 2025 -2.83m; tick1041
+bud_lil_fin_saldo_2025,city_lille,2025,3055181,,,bbc_jr_realized,src_lille_jr2025,strong,Financieringssaldo 2025 +3.06m (early loan recover); tick1041
+bud_lil_afm_2025,city_lille,2025,1469855,,,bbc_jr_realized,src_lille_jr2025,strong,AFM 2025 +1.47m; tick1041
+bud_lil_afm_gecorr_2025,city_lille,2025,969631,,,bbc_jr_realized,src_lille_jr2025,strong,Gecorrigeerde AFM 2025 +0.970m; tick1041
+bud_lil_bbr_2025,city_lille,2025,10552433,,,bbc_jr_realized,src_lille_jr2025,strong,BBR YE2025 10.55m (onbeschikbaar 0.187m); tick1041
+bud_lil_budget_result_2025,city_lille,2025,2301118,,,bbc_jr_realized,src_lille_jr2025,strong,Budgettair resultaat boekjaar 2025 +2.30m STRONG; tick1041
+bud_lil_cum_budget_2025,city_lille,2025,10739100,,,bbc_jr_realized,src_lille_jr2025,strong,Gecumuleerd BR YE2025 10.74m; tick1041
+bud_lil_onbeschikbaar_2025,city_lille,2025,186667,,,bbc_jr_realized,src_lille_jr2025,strong,Onbeschikbare gelden YE2025 0.187m; tick1041
+bud_lil_pnl_2025,city_lille,2025,-1699265,,,bbc_jr_realized,src_lille_jr2025,strong,P&L tekort 2025 -1.70m NEG FOI (cum flip); tick1041
+bud_lil_pnl_cum_equity_2025,city_lille,2025,-320008,,,bbc_jr_realized,src_lille_jr2025,strong,Gecumuleerd P&L equity YE2025 -0.320m FLIP (was +1.38m); tick1041
+bud_lil_personnel_2025,city_lille,2025,13072482,,,bbc_jr_realized,src_lille_jr2025,strong,Personnel 2025 13.07m JUMP (was 12.29m); tick1041
+bud_lil_toelagen_2025,city_lille,2025,3731266,,,bbc_jr_realized,src_lille_jr2025,strong,Toegestane werkingssubsidies 2025 3.73m FOI; tick1041
+bud_lil_police_toelage_2025,city_lille,2025,2377668,,,bbc_jr_realized,src_lille_jr2025,strong,Politiezone toelage 2025 2.38m; tick1041
+bud_lil_fire_toelage_2025,city_lille,2025,970101,,,bbc_jr_realized,src_lille_jr2025,strong,HVZ toelage 2025 0.970m; tick1041
+bud_lil_igs_toelage_2025,city_lille,2025,20814,,,bbc_jr_realized,src_lille_jr2025,strong,IGS toelage 2025 0.021m; tick1041
+bud_lil_other_toelage_2025,city_lille,2025,362683,,,bbc_jr_realized,src_lille_jr2025,strong,Andere toelagen 2025 0.363m FOI; tick1041
+bud_lil_invest_subs_granted_2025,city_lille,2025,578843,,,bbc_jr_realized,src_lille_jr2025,strong,Toegestane invest-subs 2025 0.579m (police 0.122 fire 0.204 IGS 0.243); tick1041
+bud_lil_ocmw_cover_2025,city_lille,2025,0,,,bbc_jr_realized,src_lille_jr2025,strong,OCMW cover tussenkomst 2025 0 ZERO FOI vs gap -1.05m; tick1041
+bud_lil_ocmw_expl_gap_2025,city_lille,2025,-1048794,,,bbc_jr_realized,src_lille_jr2025,strong,OCMW expl saldo 2025 -1.05m; tick1041
+bud_lil_ocmw_cum_budget_2025,city_lille,2025,-935603,,,bbc_jr_realized,src_lille_jr2025,strong,OCMW cum BR YE2025 -0.936m; tick1041
+bud_lil_ocmw_budget_result_2025,city_lille,2025,-130982,,,bbc_jr_realized,src_lille_jr2025,strong,OCMW budget result 2025 -0.131m; tick1041
+bud_lil_ocmw_expl_ont_2025,city_lille,2025,2090754,,,bbc_jr_realized,src_lille_jr2025,strong,OCMW expl ontvangsten 2025 2.09m; tick1041
+bud_lil_ocmw_expl_uit_2025,city_lille,2025,3139549,,,bbc_jr_realized,src_lille_jr2025,strong,OCMW expl uitgaven 2025 3.14m; tick1041
+bud_lil_fiscal_2025,city_lille,2025,13616292,,,bbc_jr_realized,src_lille_jr2025,strong,Fiscale opbrengsten en boetes 2025 13.62m; tick1041
+bud_lil_gemeentefonds_2025,city_lille,2025,4970463,,,bbc_jr_realized,src_lille_jr2025,strong,Gemeentefonds 2025 4.97m; tick1041
+bud_lil_goederen_diensten_2025,city_lille,2025,7979507,,,bbc_jr_realized,src_lille_jr2025,strong,Goederen en diensten 2025 7.98m; tick1041
+bud_lil_early_loan_recover_2025,city_lille,2025,3673350,,,bbc_jr_realized,src_lille_jr2025,strong,Vervroegde terugbetaling toegestane leningen 2025 3.67m HIGH FOI; tick1041
+bud_lil_interest_2025,city_lille,2025,453693,,,bbc_jr_realized,src_lille_jr2025,strong,Intresten op leningen 2025 0.454m; tick1041
+bud_lil_mjp_invest_2025,city_lille,2025,8013957,,,bbc_jr_realized,src_lille_jr2025,strong,MJP invest krediet eind 2025 8.01m (realized 4.58m); tick1041
+bud_lil_mjp_lease_2026,city_lille,2025,5988222,,,bbc_jr_realized,src_lille_jr2025,strong,MJP leasing planned 2026 5.99m HIGH FOI path; tick1041
+bud_lil_agb_bbr_2025,city_lille,2025,112807,,,bbc_jr_realized,src_lille_jr2025,strong,AGB Lille BBR 2025 0.113m dual; tick1041
+bud_lil_agb_afm_2025,city_lille,2025,-39157,,,bbc_jr_realized,src_lille_jr2025,strong,AGB Lille AFM 2025 -0.039m NEG dual FOI; tick1041
+bud_lil_consol_bbr_2025,city_lille,2025,10665240,,,bbc_jr_realized,src_lille_jr2025,strong,Geconsolideerd BBR GE+OCMW+AGB 2025 10.67m; tick1041
+bud_lil_consol_afm_2025,city_lille,2025,1430698,,,bbc_jr_realized,src_lille_jr2025,strong,Geconsolideerd AFM 2025 +1.43m; tick1041
+bud_lil_ocmw_aid_2025,city_lille,2025,1593551,,,bbc_jr_realized,src_lille_jr2025,strong,Individuele hulpverlening OCMW 2025 1.59m JUMP; tick1041
