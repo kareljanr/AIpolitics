@@ -11574,3 +11574,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +43 (bud_sch_*); commitments +4; leaderboard +7; sources +2; entity city_schoten; FOI **gap_sch_invest_cash_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_921=done; spawn **rq_922**; ticks=921
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_922** residual dual L5 (Heist PDF cached / Kapellen / Roeselare); deferred **rq_116**; progress@930 in 9
+
+### Tick 922 - 2026-08-07T09:45:00Z
+
+- Unit: **rq_922** (FOI-adjacent residual dual - **Stad+OCMW Diksmuide Jaarrekening 2025** + Schoten dual)
+- Found (strong primary BBC JR2025 243p nota):
+  - Assets **EUR184.2m** / equity **EUR122.5m** / debt total **EUR61.6m** / fin debt **EUR29.8m** (**RISING** from **EUR28.9m**; LT **EUR26.7m** / ST due **EUR3.08m**)
+  - New bank loans **EUR3.125m FOI** / other-leasing **EUR0.77m** / repayments **EUR2.96m** / **cash EUR9.60m was EUR14.41m DROP FOI**
+  - Pension **EUR16.6m**
+  - Exploitatie: ontvangsten **EUR51.3m** / uitgaven **EUR40.6m** / saldo **+EUR10.65m**
+  - AFM **+EUR8.27m** (gecorr **+EUR8.91m**) / BBR **EUR10.3m** / budget result **-EUR3.71m FOI** / P&L **+EUR5.22m**
+  - Personnel **EUR23.5m** / toelagen **EUR4.13m** (police **EUR1.90m** / HVZ **EUR0.80m** / other **EUR0.71m FOI**) / fiscal **EUR18.4m**
+  - **Invest EUR17.28m FOI** (MVA **EUR12.5m** + Publi-T FVA correction **EUR4.42m**) / gemeentefonds **EUR8.04m** / pop **17362**
+- Dual: Schoten **EUR176.6m** / invest **EUR10.4m** / debt declining (tick921) - not TE-additive
+- Wrote: budgets +48 (bud_dik_*); commitments +4; leaderboard +7; sources +2; entity city_diksmuide; FOI **gap_dik_invest_cash_loans_l5** prio8 ready + draft; raw PDF + key; rq_922=done; spawn **rq_923**; ticks=922
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_923** residual dual L5 (Putte PDF / Kapellen AGB+APB / Merelbeke-Melle / Roeselare); deferred **rq_116**; progress@930 in 8

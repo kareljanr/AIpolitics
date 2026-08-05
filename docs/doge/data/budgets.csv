@@ -20443,3 +20443,51 @@ bud_sch_pl_2025,city_schoten,2025,4780517,,,jaarrekening_realized,src_schoten_jr
 bud_sch_mjp_new_loans_2026,city_schoten,2025,2465430,,,jaarrekening_realized,src_schoten_jr2025,strong,MJP new loans 2026 2.465m FOI; tick921
 bud_sch_mjp_fin_debt_2026,city_schoten,2025,21288358,,,jaarrekening_realized,src_schoten_jr2025,strong,MJP projected fin debt YE2026 21.288m; tick921
 bud_sch_agb_bbr_2025,city_schoten,2025,2133070,,,jaarrekening_realized,src_schoten_jr2025,strong,AGB BBR YE2025 2.133m; tick921
+bud_dik_assets_2025,city_diksmuide,2025,184153445,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Consol stad+OCMW total assets YE2025 184.153m; tick922
+bud_dik_equity_2025,city_diksmuide,2025,122523715,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Nettoactief YE2025 122.524m; tick922
+bud_dik_debt_total_2025,city_diksmuide,2025,61629730,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Total schulden YE2025 61.630m; tick922
+bud_dik_fin_debt_2025,city_diksmuide,2025,29821680,,,jaarrekening_realized,src_diksmuide_jr2025,strong,T4 total financiele schulden YE2025 29.822m (RISING from 28.890m); tick922
+bud_dik_fin_debt_lt_2025,city_diksmuide,2025,26744788,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Financiele schulden LT YE2025 26.745m; tick922
+bud_dik_fin_debt_st_due_2025,city_diksmuide,2025,3076892,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 3.077m; tick922
+bud_dik_fin_debt_2024,city_diksmuide,2025,28889552,,,jaarrekening_realized,src_diksmuide_jr2025,strong,T4 fin debt YE2024 28.890m comparator; tick922
+bud_dik_pension_prov_2025,city_diksmuide,2025,16624612,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Pensioenvoorzieningen LT YE2025 16.625m; tick922
+bud_dik_cash_2025,city_diksmuide,2025,9601855,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Liquide middelen YE2025 9.602m (was 14.410m DROP FOI); tick922
+bud_dik_cash_2024,city_diksmuide,2025,14410140,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Liquide middelen YE2024 14.410m; tick922
+bud_dik_cap_subs_2025,city_diksmuide,2025,30551083,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Kapitaalsubsidies YE2025 30.551m; tick922
+bud_dik_fva_total_2025,city_diksmuide,2025,41193551,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Financiele vaste activa YE2025 41.194m; tick922
+bud_dik_fva_igs_2025,city_diksmuide,2025,19132033,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Fin VA IGS YE2025 19.132m; tick922
+bud_dik_fva_other_2025,city_diksmuide,2025,22061518,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Fin VA andere YE2025 22.062m; tick922
+bud_dik_mva_2025,city_diksmuide,2025,118026829,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Materiele vaste activa YE2025 118.027m; tick922
+bud_dik_onbeschikbaar_2025,city_diksmuide,2025,186667,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Onbeschikbare gelden J2 0.187m; tick922
+bud_dik_expl_rec_2025,city_diksmuide,2025,51287486,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Exploitatieontvangsten 51.287m; tick922
+bud_dik_expl_exp_2025,city_diksmuide,2025,40640070,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Exploitatieuitgaven 40.640m; tick922
+bud_dik_expl_saldo_2025,city_diksmuide,2025,10647416,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Exploitatiesaldo +10.647m; tick922
+bud_dik_invest_exp_2025,city_diksmuide,2025,17282759,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Investeringsuitgaven J2 17.283m FOI; tick922
+bud_dik_invest_rec_2025,city_diksmuide,2025,2000124,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Investeringsontvangsten J2 2.000m; tick922
+bud_dik_invest_saldo_2025,city_diksmuide,2025,-15282635,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Investeringssaldo -15.283m; tick922
+bud_dik_fin_rec_2025,city_diksmuide,2025,3933276,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Financieringsontvangsten 3.933m; tick922
+bud_dik_fin_exp_2025,city_diksmuide,2025,3010559,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Financieringsuitgaven 3.011m; tick922
+bud_dik_new_loans_2025,city_diksmuide,2025,3890892,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Aangaan financiele schulden total 3.891m (bank 3.125m + other/leasing 0.766m) FOI; tick922
+bud_dik_new_loans_bank_2025,city_diksmuide,2025,3125000,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Opname leningen bij financiele instellingen 3.125m FOI; tick922
+bud_dik_aflossingen_2025,city_diksmuide,2025,2958764,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Periodieke aflossingen 2.959m; tick922
+bud_dik_afm_2025,city_diksmuide,2025,8265455,,,jaarrekening_realized,src_diksmuide_jr2025,strong,AFM +8.265m (very strong); tick922
+bud_dik_afm_corr_2025,city_diksmuide,2025,8913055,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Gecorrigeerde AFM +8.913m; tick922
+bud_dik_bbr_2025,city_diksmuide,2025,10337723,,,jaarrekening_realized,src_diksmuide_jr2025,strong,BBR 10.338m after onbeschikbaar 0.187m; tick922
+bud_dik_budget_result_2025,city_diksmuide,2025,-3712502,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Budgettair resultaat boekjaar -3.713m FOI; tick922
+bud_dik_cum_br_2025,city_diksmuide,2025,10524389,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Gecumuleerd budgettair resultaat 10.524m; tick922
+bud_dik_pnl_result_2025,city_diksmuide,2025,5219443,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Vennootschapsresultaat J5 +5.219m; tick922
+bud_dik_personnel_2025,city_diksmuide,2025,23544270,,,jaarrekening_realized,src_diksmuide_jr2025,strong,J5 bezoldigingen 23.544m; tick922
+bud_dik_toelagen_2025,city_diksmuide,2025,4133780,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Toegestane werkingssubsidies 4.134m; tick922
+bud_dik_police_toelage_2025,city_diksmuide,2025,1904539,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Toelage politiezone 1.905m; tick922
+bud_dik_hvz_toelage_2025,city_diksmuide,2025,796403,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Toelage HVZ 0.796m; tick922
+bud_dik_igs_toelage_2025,city_diksmuide,2025,433741,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Toelage IGS 0.434m; tick922
+bud_dik_eredienst_toelage_2025,city_diksmuide,2025,292996,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Toelage eredienst 0.293m; tick922
+bud_dik_toelagen_other_2025,city_diksmuide,2025,706101,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Toelagen andere begunstigden 0.706m FOI; tick922
+bud_dik_invest_subs_granted_2025,city_diksmuide,2025,315369,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Toegestane investeringssubsidies 0.315m; tick922
+bud_dik_ocmw_aid_2025,city_diksmuide,2025,1769654,,,jaarrekening_realized,src_diksmuide_jr2025,strong,OCMW individuele hulp 1.770m; tick922
+bud_dik_fiscal_2025,city_diksmuide,2025,18372227,,,jaarrekening_realized,src_diksmuide_jr2025,strong,J5 fiscale opbrengsten en boetes 18.372m; tick922
+bud_dik_gemeentefonds_2025,city_diksmuide,2025,8044927,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Gemeentefonds 8.045m; tick922
+bud_dik_fin_costs_2025,city_diksmuide,2025,612880,,,jaarrekening_realized,src_diksmuide_jr2025,strong,J5 financiele kosten 0.613m; tick922
+bud_dik_invest_mva_2025,city_diksmuide,2025,12509478,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Investeringen MVA 12.509m (buildings 7.062 roads 4.251 leasing 0.766); tick922
+bud_dik_invest_fva_other_2025,city_diksmuide,2025,4419698,,,jaarrekening_realized,src_diksmuide_jr2025,strong,FVA other invest 4.420m Publi-T DNB->VEH correctieboeking FOI; tick922
+bud_dik_pop_2025,city_diksmuide,2025,17362,,,count,src_diksmuide_jr2025,strong,Inwoners 17362 (extract); tick922

@@ -1,0 +1,48 @@
+DIKSMUIDE JR2025 KEY EXTRACT — tick922
+Primary: https://www.diksmuide.be/sites/default/files/2026-06/20260601_JR-2025-nota.pdf
+Portal: https://www.diksmuide.be/stad-bestuur/beleidsdocumenten/jaarrekeningen
+Local: docs/doge/data/raw/diksmuide_jr2025_nota.pdf (243p BBC)
+GR besluit: docs/doge/data/raw/diksmuide_jr2025_gr.pdf
+Contact: Heernisse 6 8600 Diksmuide | financiele.dienst@diksmuide.be | 051 79 32 30
+NIS 32003 | Stad 0207.531.894 | OCMW 0212.247.183
+Pop: 17362 (p. extract inwoners total)
+
+BALANCE J4 YE2025 (vs 2024):
+Assets 184153445 (179134457)
+Equity/nettoactief 122523715 (117842347)
+Schulden total 61629730 (61292110)
+Fin debt total T4 29821680 (28889552 RISING)
+  LT 26744788 (25971534)
+  ST due within year 3076892 (2918019)
+Cash/liquide 9601855 (14410140 DROP)
+Pension provisions LT 16624612 (16375680)
+Cap subsidies 30551083
+FVA total 41193551 (IGS 19132033; other 22061518)
+MVA 118026829
+
+J2 EVENWICHT 2025:
+Expl ontvangsten 51287486 / uitgaven 40640070 / saldo +10647416
+Invest uitgaven 17282759 / ontvangsten 2000124 / saldo -15282635
+Fin ontvangsten 3933276 / uitgaven 3010559 / saldo +922717
+Budget result -3712502
+Cum BR 10524389 / onbeschikbaar 186667 / BBR 10337723
+AFM +8265455 / gecorr +8913055
+Periodieke aflossingen 2958764
+New loans bank (fin inst) 3125000 + other entities/leasing 765892 = 3890892 total Aangaan fin schulden
+
+J5 P&L:
+Personnel 23544270
+Toelagen werking 4133780 (politie 1904539 / HVZ 796403 / IGS 433741 / eredienst 292996 / andere 706101)
+Invest-subs granted 315369
+Fiscal 18372227
+Gemeentefonds 8044927
+OCMW individuele hulp 1769654
+P&L result +5219443
+
+INVEST T2 highlights:
+MVA 12509478 (buildings 7062131 / roads 4251361 / leasing 765892)
+FVA other 4419698 = Publi-T DNB->VEH correction booking 2024 (AR 284100)
+Total invest 17282759
+
+FOI gaps: invest 17.3m project list; cash drop; bank loans 3.125m; Publi-T correction; andere toelagen 0.706m
+Dual residual: Schoten tick921 assets 176.6m invest 10.4m
