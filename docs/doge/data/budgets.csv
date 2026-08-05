@@ -27495,3 +27495,56 @@ bud_ter_gemeentefonds_2025,city_ternat,2025,4358798,,,bbc_jr_realized,src_ternat
 bud_ter_interest_2025,city_ternat,2025,776001,,,bbc_jr_realized,src_ternat_jr2025,strong,Intresten op leningen 0.776m JUMP FOI; tick1073
 bud_ter_agb_afm_2025,city_ternat,2025,-12074,,,bbc_jr_realized,src_ternat_jr2025,strong,AGB AFM -0.012m NEG dual residual FOI; tick1073
 bud_ter_debt_per_inhab_2025,city_ternat,2025,1406,,,bbc_jr_realized,src_ternat_jr2025,strong,Openstaande schuld per inwoner EUR1406; tick1073
+bud_hoe_assets_2025,city_hoeilaart,2025,74013785,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Assets YE2025 74.014m DROP (was 75.872m); tick1074
+bud_hoe_equity_2025,city_hoeilaart,2025,44707156,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Nettoactief YE2025 44.707m DROP (was 45.095m); tick1074
+bud_hoe_debt_total_2025,city_hoeilaart,2025,29306628,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Total schulden YE2025 29.307m DECLINE (was 30.777m); tick1074
+bud_hoe_fin_debt_2025,city_hoeilaart,2025,18524861,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Fin debt total YE2025 18.525m DECLINE (was 20.452m); tick1074
+bud_hoe_fin_debt_lt_2025,city_hoeilaart,2025,16417442,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Fin debt LT YE2025 16.417m DECLINE (was 18.276m); tick1074
+bud_hoe_fin_debt_st_due_2025,city_hoeilaart,2025,2107419,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Fin debt ST due YE2025 2.107m; tick1074
+bud_hoe_new_loans_2025,city_hoeilaart,2025,263121,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Nieuwe leningen 2025 0.263m LOW; tick1074
+bud_hoe_aflossingen_2025,city_hoeilaart,2025,2190245,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Periodieke aflossingen 2025 2.190m; tick1074
+bud_hoe_cash_2025,city_hoeilaart,2025,2240215,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Liquide middelen YE2025 2.240m MASSIVE DROP FOI (was 4.291m); tick1074
+bud_hoe_pension_2025,city_hoeilaart,2025,7612489,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Pensioenvoorzieningen LT YE2025 7.612m JUMP FOI (was 6.044m +1.569m); tick1074
+bud_hoe_cap_subs_2025,city_hoeilaart,2025,13536307,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Kapitaalsubsidies YE2025 13.536m; tick1074
+bud_hoe_fva_total_2025,city_hoeilaart,2025,7846588,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,FVA total YE2025 7.847m; tick1074
+bud_hoe_fva_igs_2025,city_hoeilaart,2025,7807442,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,FVA IGS YE2025 7.807m; tick1074
+bud_hoe_leasing_mva_2025,city_hoeilaart,2025,4010635,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Leasing MVA YE2025 4.011m; tick1074
+bud_hoe_expl_rec_2025,city_hoeilaart,2025,28971438,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Exploitatieontvangsten 28.971m; tick1074
+bud_hoe_expl_exp_2025,city_hoeilaart,2025,25894718,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Exploitatieuitgaven 25.895m; tick1074
+bud_hoe_expl_saldo_2025,city_hoeilaart,2025,3076720,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Exploitatiesaldo +3.077m STRONG; tick1074
+bud_hoe_invest_exp_2025,city_hoeilaart,2025,3214292,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Investeringsuitgaven 3.214m vs MJP 5.981m UNDERSPEND FOI; tick1074
+bud_hoe_invest_rec_2025,city_hoeilaart,2025,1351466,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Investeringsontvangsten 1.351m; tick1074
+bud_hoe_invest_saldo_2025,city_hoeilaart,2025,-1862826,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Investeringssaldo -1.863m; tick1074
+bud_hoe_mjp_invest_planned_2025,city_hoeilaart,2025,5981477,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,MJP invest planned 5.981m vs realized 3.214m underspend FOI; tick1074
+bud_hoe_invest_mva_2025,city_hoeilaart,2025,2779423,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Investeringen MVA 2.779m; tick1074
+bud_hoe_invest_subs_granted_2025,city_hoeilaart,2025,171749,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Toegestane invest-subs 0.172m; tick1074
+bud_hoe_afm_2025,city_hoeilaart,2025,1817860,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,AFM +1.818m STRONG; tick1074
+bud_hoe_afm_corr_2025,city_hoeilaart,2025,2371946,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Gecorrigeerde AFM +2.372m STRONG; tick1074
+bud_hoe_bbr_2025,city_hoeilaart,2025,5506344,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,BBR beschikbaar +5.506m; tick1074
+bud_hoe_budget_result_2025,city_hoeilaart,2025,-15418,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Budgettair resultaat -0.015m THIN/NEG FOI; tick1074
+bud_hoe_cum_br_2025,city_hoeilaart,2025,5506344,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Gecumuleerd budgettair resultaat +5.506m; tick1074
+bud_hoe_pnl_2025,city_hoeilaart,2025,-1152514,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,P&L -1.153m IMPROVING (was -1.547m); tick1074
+bud_hoe_ge_expl_exp_2025,city_hoeilaart,2025,14967541,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,GE exploitatieuitgaven J3 14.968m; tick1074
+bud_hoe_ge_expl_rec_2025,city_hoeilaart,2025,20013566,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,GE exploitatieontvangsten J3 20.014m; tick1074
+bud_hoe_ocmw_expl_exp_2025,city_hoeilaart,2025,10927178,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,OCMW exploitatieuitgaven J3 10.927m; tick1074
+bud_hoe_ocmw_expl_rec_2025,city_hoeilaart,2025,8957873,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,OCMW exploitatieontvangsten J3 8.958m; tick1074
+bud_hoe_ocmw_expl_gap_2025,city_hoeilaart,2025,-1969305,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,OCMW expl gap J3 -1.969m; tick1074
+bud_hoe_ocmw_cover_2025,city_hoeilaart,2025,2903630,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,OCMW cover tussenkomst 2.904m FULL; tick1074
+bud_hoe_equity_cum_2025,city_hoeilaart,2025,3327894,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Gecumuleerd equity overschot YE2025 +3.328m DROP (was +4.480m); tick1074
+bud_hoe_ocmw_equity_cum_2025,city_hoeilaart,2025,1793800,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,OCMW equity cum +1.794m (cover full; P&L -3.403m); tick1074
+bud_hoe_ge_equity_cum_2025,city_hoeilaart,2025,1534093,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,GE equity cum +1.534m DROP after cover 2.904m; tick1074
+bud_hoe_personnel_2025,city_hoeilaart,2025,13752140,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Bezoldigingen 13.752m; tick1074
+bud_hoe_toelagen_2025,city_hoeilaart,2025,3918190,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Toegestane werkingssubsidies 3.918m FOI residual; tick1074
+bud_hoe_toelagen_police_2025,city_hoeilaart,2025,1129389,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Toelage politiezone 1.129m JUMP (was 0.763m); tick1074
+bud_hoe_toelagen_fire_2025,city_hoeilaart,2025,614735,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Toelage hulpverleningszone 0.615m; tick1074
+bud_hoe_toelagen_igs_2025,city_hoeilaart,2025,1165065,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Toelage IGS 1.165m FOI; tick1074
+bud_hoe_toelagen_agb_2025,city_hoeilaart,2025,536143,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Toelage AGB Holar 0.536m dual residual; tick1074
+bud_hoe_toelagen_other_2025,city_hoeilaart,2025,472858,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Toelage other+eredienst residual 0.473m FOI; tick1074
+bud_hoe_ocmw_aid_2025,city_hoeilaart,2025,902324,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,OCMW individuele hulp 0.902m; tick1074
+bud_hoe_fiscal_2025,city_hoeilaart,2025,14144189,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Fiscale opbrengsten 14.144m; tick1074
+bud_hoe_fiscal_ov_2025,city_hoeilaart,2025,5985087,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Opcentiemen OV 5.985m; tick1074
+bud_hoe_fiscal_pb_2025,city_hoeilaart,2025,6874838,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Aanvullende PB 6.875m JUMP; tick1074
+bud_hoe_gemeentefonds_2025,city_hoeilaart,2025,2390262,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Gemeentefonds 2.390m; tick1074
+bud_hoe_interest_2025,city_hoeilaart,2025,541708,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Intresten op leningen 0.542m; tick1074
+bud_hoe_agb_afm_corr_2025,city_hoeilaart,2025,-66042,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,AGB Holar corr AFM -0.066m NEG dual residual FOI; tick1074
+bud_hoe_debt_per_inhab_2025,city_hoeilaart,2025,1461,,,bbc_jr_realized,src_hoeilaart_jr2025,strong,Openstaande schuld per inwoner EUR1461; tick1074

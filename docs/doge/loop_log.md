@@ -14407,3 +14407,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1074** residual dual L5; deferred **rq_116**; progress@1080
 
+
+### Tick 1074 - 2026-08-11T02:30:00Z
+
+- Unit: **rq_1074** (FOI-adjacent residual dual - **Lokaal Bestuur Hoeilaart Jaarrekening 2025** + Ternat dual residual)
+- Found (strong primary BBC JR2025 PDF; GR+RMW 22.06.2026 pub 23.06.2026; KBO GE 0206.562.092 / OCMW 0212.219.469; Jan van Ruusbroecpark 1560; AD wnd Christophe Joly FD Brecht Van den Bogaert; GE+OCMW + AGB Holar dual):
+  - Assets **EUR74.014m DROP** / equity **EUR44.707m DROP** / debt total **EUR29.31m DECLINE** / fin debt **EUR18.525m DECLINE** (LT **EUR16.417m** / ST due **EUR2.107m**; was **EUR20.452m**)
+  - New loans **EUR0.263m LOW** / repayments **EUR2.190m**
+  - Cash **EUR2.240m MASSIVE DROP FOI** (was **EUR4.291m**, -**EUR2.051m**) / pension **EUR7.612m JUMP FOI** (was **EUR6.044m**, +**EUR1.569m**) / FVA IGS **EUR7.807m** / leasing MVA **EUR4.011m**
+  - Exploitatie: ontvangsten **EUR28.971m** / uitgaven **EUR25.895m** / saldo **+EUR3.077m STRONG**
+  - AFM **+EUR1.818m STRONG** (gecorr **+EUR2.372m**) / BBR **EUR5.506m** / budget **EUR-0.015m THIN/NEG FOI** / cum BR **EUR5.506m** / P&L **EUR-1.153m IMPROVING**
+  - Personnel **EUR13.752m** / toelagen **EUR3.918m FOI** (police **EUR1.129m JUMP** / fire **EUR0.615m** / IGS **EUR1.165m** / AGB **EUR0.536m** / other **EUR0.473m**)
+  - Invest **EUR3.214m** vs MJP **EUR5.981m UNDERSPEND FOI**
+  - OCMW cover **EUR2.904m FULL** / OCMW P&L **-EUR3.403m** / OCMW equity cum **+EUR1.794m**
+  - Dual AGB Holar: corr AFM **-EUR0.066m NEG FOI**
+- Dual: Ternat OCMW equity **-EUR1.57m WORSENING** despite FULL cover (tick1073) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Ronse city residual next; progress@1080
+- Wrote: budgets +53 (bud_hoe_*); commitments +7; leaderboard +8; sources +1; entity city_hoeilaart; FOI **gap_hoe_cash_pension_toelagen_budget_l5** prio9 ready + draft; PDF primary (not committed); rq_1074=done; spawn **rq_1075**; ticks=1074
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1075** residual dual L5; deferred **rq_116**; progress@1080
+
