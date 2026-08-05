@@ -1,0 +1,40 @@
+Lier Stad+OCMW Jaarrekening 2025 (BBC) — tick904
+Portal: https://lier.beleidsportaal.be/jaarrekening-2025
+Published: 30/06/2026
+Primary schemas: J2/J4/J5/T2/T4 PDFs under docs/doge/data/raw/lier_jr2025_*.pdf
+
+BALANCE YE2025 / YE2024
+- Assets: 323,074,827 / 315,615,226
+- Equity (nettoactief): 182,530,506 / 198,988,644
+- Debt total: 140,544,320 / 116,626,583
+- Fin debt total (T4): 106,099,579 / 79,862,837
+  - LT: 98,090,467 / 75,254,019
+  - ST due: 8,009,113 / 4,608,817
+  - ST other: 0 / 0
+- Pension: 21,210,986 / 21,172,235
+- Cash: 1,214,503 / 5,919,965 DROP
+- Cap subs: 47,829,903 / 48,236,826
+- FVA IGS: 21,898,099 / 21,810,758
+- FVA total: 35,229,248 / 35,039,536
+
+J2 FLOW 2025
+- Expl rec 115,122,749 / exp 109,410,351 / saldo +5,712,398
+- Invest rec 6,418,274 / exp 39,311,867 / saldo -32,893,594
+- Fin saldo +24,399,507
+- Budget result -2,781,689
+- Cumul budget / BBR 8,504,999
+- AFM +255,544 / gecorr +313,813
+
+J5 / T2
+- Personnel 61,705,547 (onderwijs other 9,819,801)
+- Toelagen 15,788,187 (police 9,571,719 fire 1,746,194 AGB 75,000 IGS 132,799 other 4,226,686)
+- OCMW aid 9,557,503
+- Fiscal 43,308,186 (OV 17,197,777 APB 18,455,740)
+- Gemeentefonds 16,254,686
+- Invest-subs granted 17,345,601 (police 500,000 fire 42,200 other 16,798,936 FOI)
+- New loans 32,684,039 (bank 32,100,000 + other 584,039)
+- Loans granted other 1,500,000 FOI
+- P&L -16,232,137
+
+DUAL: Mortsel assets 170.5m ST debt 9.97m police 5.73m (tick903) — not TE-additive
+FOI: gap_lir_invest_subs_loans_l5 prio8 ready

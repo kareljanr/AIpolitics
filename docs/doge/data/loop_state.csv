@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T00:15:00Z,rq_903,903,no,tick903 Mortsel JR2025 dual Tremelo; FOI gap_mor_st_debt_police_toelagen_l5 prio8 ST debt 9.97m police 5.73m AFM gecorr -0.85m; next rq_904 residual dual L5; progress@910 in 7; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T00:45:00Z,rq_904,904,no,tick904 Lier JR2025 dual Mortsel; FOI gap_lir_invest_subs_loans_l5 prio8 invest-subs other 16.8m new loans 32.7m fin debt 106m; next rq_905 residual dual L5; progress@910 in 6; rq_116 deferred

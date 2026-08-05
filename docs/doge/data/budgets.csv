@@ -19783,3 +19783,45 @@ bud_mor_invest_subs_police_2025,city_mortsel,2025,155895,,,jaarrekening_realized
 bud_mor_invest_subs_fire_2025,city_mortsel,2025,322370,,,jaarrekening_realized,src_mortsel_jr2025,strong,Invest-subs brandweer 0.322m 2025; tick903
 bud_mor_new_loans_2025,city_mortsel,2025,3337970,,,jaarrekening_realized,src_mortsel_jr2025,strong,Nieuwe leningen/leasings 3.338m 2025 (bank 2.35 + other 0.99); tick903
 bud_mor_cumul_pl_deficit_2025,city_mortsel,2025,-26397061,,,jaarrekening_realized,src_mortsel_jr2025,strong,Gecumuleerd P&L tekort in nettoactief -26.397m YE2025; tick903
+bud_lir_assets_2025,city_lier,2025,323074827,,,jaarrekening_realized,src_lier_jr2025,strong,Consol total assets YE2025 323.075m; tick904
+bud_lir_equity_2025,city_lier,2025,182530506,,,jaarrekening_realized,src_lier_jr2025,strong,Nettoactief YE2025 182.531m (was 198.989m); tick904
+bud_lir_debt_total_2025,city_lier,2025,140544320,,,jaarrekening_realized,src_lier_jr2025,strong,Schulden total YE2025 140.544m; tick904
+bud_lir_fin_debt_2025,city_lier,2025,106099579,,,jaarrekening_realized,src_lier_jr2025,strong,Fin schulden total YE2025 106.100m (LT 98.090 + ST due 8.009 was 79.863m); tick904
+bud_lir_fin_debt_lt_2025,city_lier,2025,98090467,,,jaarrekening_realized,src_lier_jr2025,strong,Fin schulden LT YE2025 98.090m; tick904
+bud_lir_fin_debt_st_2025,city_lier,2025,8009113,,,jaarrekening_realized,src_lier_jr2025,strong,Fin schulden LT binnen jaar YE2025 8.009m; tick904
+bud_lir_pension_prov_2025,city_lier,2025,21210986,,,jaarrekening_realized,src_lier_jr2025,strong,Pensioenvoorzieningen YE2025 21.211m; tick904
+bud_lir_cash_2025,city_lier,2025,1214503,,,jaarrekening_realized,src_lier_jr2025,strong,Liquide middelen YE2025 1.215m (was 5.920m DROP FOI); tick904
+bud_lir_cap_subs_2025,city_lier,2025,47829903,,,jaarrekening_realized,src_lier_jr2025,strong,Kapitaalsubsidies YE2025 47.830m; tick904
+bud_lir_fva_igs_2025,city_lier,2025,21898099,,,jaarrekening_realized,src_lier_jr2025,strong,Fin VA IGS YE2025 21.898m; tick904
+bud_lir_fva_total_2025,city_lier,2025,35229248,,,jaarrekening_realized,src_lier_jr2025,strong,Fin VA total YE2025 35.229m; tick904
+bud_lir_cumul_budget_2025,city_lier,2025,8504999,,,jaarrekening_realized,src_lier_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 8.505m; tick904
+bud_lir_bbr_2025,city_lier,2025,8504999,,,jaarrekening_realized,src_lier_jr2025,strong,Beschikbaar budgettair resultaat YE2025 8.505m; tick904
+bud_lir_expl_rec_2025,city_lier,2025,115122749,,,jaarrekening_realized,src_lier_jr2025,strong,Exploitatieontvangsten 115.123m 2025 (J2); tick904
+bud_lir_expl_exp_2025,city_lier,2025,109410351,,,jaarrekening_realized,src_lier_jr2025,strong,Exploitatieuitgaven 109.410m 2025 (J2); tick904
+bud_lir_expl_saldo_2025,city_lier,2025,5712398,,,jaarrekening_realized,src_lier_jr2025,strong,Exploitatiesaldo +5.712m 2025; tick904
+bud_lir_invest_exp_2025,city_lier,2025,39311867,,,jaarrekening_realized,src_lier_jr2025,strong,Investeringsuitgaven 39.312m 2025 (incl invest-subs 17.35m FOI); tick904
+bud_lir_invest_rec_2025,city_lier,2025,6418274,,,jaarrekening_realized,src_lier_jr2025,strong,Investeringsontvangsten 6.418m 2025; tick904
+bud_lir_invest_saldo_2025,city_lier,2025,-32893594,,,jaarrekening_realized,src_lier_jr2025,strong,Investeringssaldo -32.894m 2025; tick904
+bud_lir_fin_saldo_2025,city_lier,2025,24399507,,,jaarrekening_realized,src_lier_jr2025,strong,Financieringssaldo +24.400m 2025; tick904
+bud_lir_budget_result_2025,city_lier,2025,-2781689,,,jaarrekening_realized,src_lier_jr2025,strong,Budgettair resultaat boekjaar -2.782m 2025; tick904
+bud_lir_afm_2025,city_lier,2025,255544,,,jaarrekening_realized,src_lier_jr2025,strong,Autofinancieringsmarge +0.256m 2025; tick904
+bud_lir_afm_gecorr_2025,city_lier,2025,313813,,,jaarrekening_realized,src_lier_jr2025,strong,Gecorrigeerde AFM +0.314m 2025; tick904
+bud_lir_pl_2025,city_lier,2025,-16232137,,,jaarrekening_realized,src_lier_jr2025,strong,P&L tekort -16.232m 2025 FOI; tick904
+bud_lir_personnel_2025,city_lier,2025,61705547,,,jaarrekening_realized,src_lier_jr2025,strong,Bezoldigingen 61.706m 2025 (incl onderwijs other ~9.820m); tick904
+bud_lir_personnel_onderwijs_other_2025,city_lier,2025,9819801,,,jaarrekening_realized,src_lier_jr2025,strong,Onderwijzend personeel ten laste van andere ~9.820m 2025; tick904
+bud_lir_toelagen_2025,city_lier,2025,15788187,,,jaarrekening_realized,src_lier_jr2025,strong,Toegestane werkingssubsidies 15.788m 2025; tick904
+bud_lir_toelagen_police_2025,city_lier,2025,9571719,,,jaarrekening_realized,src_lier_jr2025,strong,Toelage politiezone 9.572m 2025; tick904
+bud_lir_toelagen_fire_2025,city_lier,2025,1746194,,,jaarrekening_realized,src_lier_jr2025,strong,Toelage hulpverleningszone 1.746m 2025; tick904
+bud_lir_toelagen_agb_2025,city_lier,2025,75000,,,jaarrekening_realized,src_lier_jr2025,strong,Toelage AGB 0.075m 2025; tick904
+bud_lir_toelagen_igs_2025,city_lier,2025,132799,,,jaarrekening_realized,src_lier_jr2025,strong,Toelage IGS 0.133m 2025; tick904
+bud_lir_toelagen_other_2025,city_lier,2025,4226686,,,jaarrekening_realized,src_lier_jr2025,strong,Toelagen andere begunstigden 4.227m 2025 FOI; tick904
+bud_lir_ocmw_aid_2025,city_lier,2025,9557503,,,jaarrekening_realized,src_lier_jr2025,strong,Individuele hulpverlening OCMW 9.558m 2025; tick904
+bud_lir_fiscal_2025,city_lier,2025,43308186,,,jaarrekening_realized,src_lier_jr2025,strong,Fiscale opbrengsten en boetes 43.308m 2025; tick904
+bud_lir_fiscal_ov_2025,city_lier,2025,17197777,,,jaarrekening_realized,src_lier_jr2025,strong,Opcentiemen OV 17.198m 2025; tick904
+bud_lir_fiscal_apb_2025,city_lier,2025,18455740,,,jaarrekening_realized,src_lier_jr2025,strong,Aanvullende PB 18.456m 2025; tick904
+bud_lir_gemeentefonds_2025,city_lier,2025,16254686,,,jaarrekening_realized,src_lier_jr2025,strong,Gemeentefonds 16.255m 2025; tick904
+bud_lir_invest_subs_granted_2025,city_lier,2025,17345601,,,jaarrekening_realized,src_lier_jr2025,strong,Toegestane investeringssubsidies 17.346m 2025 FOI (other 16.80m); tick904
+bud_lir_invest_subs_other_2025,city_lier,2025,16798936,,,jaarrekening_realized,src_lier_jr2025,strong,Invest-subs andere begunstigden 16.799m 2025 FOI; tick904
+bud_lir_invest_subs_police_2025,city_lier,2025,500000,,,jaarrekening_realized,src_lier_jr2025,strong,Invest-subs politiezone 0.500m 2025; tick904
+bud_lir_new_loans_2025,city_lier,2025,32684039,,,jaarrekening_realized,src_lier_jr2025,strong,Nieuwe leningen/leasings 32.684m 2025 FOI (bank 32.1m); tick904
+bud_lir_loans_granted_other_2025,city_lier,2025,1500000,,,jaarrekening_realized,src_lier_jr2025,strong,Toegestane leningen andere begunstigden 1.500m 2025 FOI; tick904

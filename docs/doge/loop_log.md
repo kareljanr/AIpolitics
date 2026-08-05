@@ -11271,3 +11271,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +43 (bud_mor_*); commitments +4; leaderboard +7; sources +2; entity city_mortsel; FOI **gap_mor_st_debt_police_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_903=done; spawn **rq_904**; ticks=903
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_904** residual dual L5 (Roeselare/Lier portal/VUB/Beersel); deferred **rq_116**; progress@910 in 7
+
+## Tick 904 - 2026-08-07T00:45:00Z
+
+- Unit: **rq_904** (FOI-adjacent residual dual - **Stad+OCMW Lier Jaarrekening 2025** + Mortsel dual)
+- Found (strong primary BBC portal J2/J4/J5/T2/T4 PDFs):
+  - Assets **EUR323.1m** / equity **EUR182.5m** (was **EUR199.0m**) / debt total **EUR140.5m** / fin debt **EUR106.1m** (was **EUR79.9m**; LT **EUR98.1m** / ST due **EUR8.01m**)
+  - **New loans EUR32.68m FOI** (bank **EUR32.1m**) / pension **EUR21.2m** / **cash EUR1.21m was EUR5.92m DROP FOI**
+  - Exploitatie: ontvangsten **EUR115.1m** / uitgaven **EUR109.4m** / saldo **+EUR5.71m**
+  - AFM **+EUR0.26m** (gecorr **+EUR0.31m**) / BBR **EUR8.50m** / budget result **-EUR2.78m** / **P&L -EUR16.23m FOI**
+  - Personnel **EUR61.7m** / toelagen **EUR15.8m** (police **EUR9.57m** / other **EUR4.23m FOI**) / fiscal **EUR43.3m**
+  - Invest exp **EUR39.3m** / **invest-subs EUR17.35m (other EUR16.80m FOI)** / gemeentefonds **EUR16.3m** / OCMW aid **EUR9.56m**
+  - Loans granted other **EUR1.50m FOI**
+- Dual: Mortsel **EUR170.5m** / ST debt **EUR9.97m** / police **EUR5.73m** (tick903) - not TE-additive
+- Wrote: budgets +42 (bud_lir_*); commitments +4; leaderboard +7; sources +2; entity city_lier; FOI **gap_lir_invest_subs_loans_l5** prio8 ready + draft; raw schema PDFs + key; rq_904=done; spawn **rq_905**; ticks=904
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_905** residual dual L5 (Roeselare/VUB/Beersel/Herzele); deferred **rq_116**; progress@910 in 6
