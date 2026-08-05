@@ -25890,3 +25890,53 @@ bud_lil_agb_afm_2025,city_lille,2025,-39157,,,bbc_jr_realized,src_lille_jr2025,s
 bud_lil_consol_bbr_2025,city_lille,2025,10665240,,,bbc_jr_realized,src_lille_jr2025,strong,Geconsolideerd BBR GE+OCMW+AGB 2025 10.67m; tick1041
 bud_lil_consol_afm_2025,city_lille,2025,1430698,,,bbc_jr_realized,src_lille_jr2025,strong,Geconsolideerd AFM 2025 +1.43m; tick1041
 bud_lil_ocmw_aid_2025,city_lille,2025,1593551,,,bbc_jr_realized,src_lille_jr2025,strong,Individuele hulpverlening OCMW 2025 1.59m JUMP; tick1041
+bud_boom_assets_2025,city_boom,2025,85278600,,,bbc_jr_realized,src_boom_jr2025,strong,Assets YE2025 85.28m DROP (was 87.70m); tick1042
+bud_boom_equity_2025,city_boom,2025,16038754,,,bbc_jr_realized,src_boom_jr2025,strong,Nettoactief YE2025 16.04m JUMP (was 14.77m) still thin vs debt; tick1042
+bud_boom_debt_total_2025,city_boom,2025,69239846,,,bbc_jr_realized,src_boom_jr2025,strong,Total schulden YE2025 69.24m HIGH DECLINE (was 72.93m); tick1042
+bud_boom_fin_debt_2025,city_boom,2025,37232456,,,bbc_jr_realized,src_boom_jr2025,strong,Fin debt total YE2025 37.23m DECLINE (was 38.66m T4); tick1042
+bud_boom_fin_debt_lt_2025,city_boom,2025,34379488,,,bbc_jr_realized,src_boom_jr2025,strong,Fin debt LT YE2025 34.38m DECLINE; tick1042
+bud_boom_fin_debt_st_due_2025,city_boom,2025,2342864,,,bbc_jr_realized,src_boom_jr2025,strong,Fin debt ST due YE2025 2.34m; tick1042
+bud_boom_fin_debt_st_2025,city_boom,2025,510105,,,bbc_jr_realized,src_boom_jr2025,strong,Fin debt ST YE2025 0.510m JUMP; tick1042
+bud_boom_new_loans_2025,city_boom,2025,500667,,,bbc_jr_realized,src_boom_jr2025,strong,New loans/leases 2025 0.501m LOW lease; tick1042
+bud_boom_repayments_2025,city_boom,2025,2334137,,,bbc_jr_realized,src_boom_jr2025,strong,Repayments 2025 2.33m HIGH; tick1042
+bud_boom_cash_2025,city_boom,2025,618558,,,bbc_jr_realized,src_boom_jr2025,strong,Liquide middelen YE2025 0.619m VERY LOW DROP FOI (was 0.796m); tick1042
+bud_boom_pension_prov_2025,city_boom,2025,21407938,,,bbc_jr_realized,src_boom_jr2025,strong,Pensioenvoorzieningen LT YE2025 21.41m VERY HIGH DROP FOI (was 23.72m); tick1042
+bud_boom_fva_total_2025,city_boom,2025,11702130,,,bbc_jr_realized,src_boom_jr2025,strong,FVA total YE2025 11.70m; tick1042
+bud_boom_fva_igs_2025,city_boom,2025,11622058,,,bbc_jr_realized,src_boom_jr2025,strong,FVA IGS YE2025 11.62m FOI; tick1042
+bud_boom_leasing_mva_2025,city_boom,2025,3076257,,,bbc_jr_realized,src_boom_jr2025,strong,Leasing MVA YE2025 ~3.08m (gemeenschap 2.97 + bedrijfs 0.106); tick1042
+bud_boom_expl_ontvangsten_2025,city_boom,2025,54879737,,,bbc_jr_realized,src_boom_jr2025,strong,Exploitatie ontvangsten 2025 54.88m; tick1042
+bud_boom_expl_uitgaven_2025,city_boom,2025,49659721,,,bbc_jr_realized,src_boom_jr2025,strong,Exploitatie uitgaven 2025 49.66m; tick1042
+bud_boom_expl_saldo_2025,city_boom,2025,5220016,,,bbc_jr_realized,src_boom_jr2025,strong,Exploitatiesaldo 2025 +5.22m VERY STRONG; tick1042
+bud_boom_invest_spend_2025,city_boom,2025,3307811,,,bbc_jr_realized,src_boom_jr2025,strong,Invest uitgaven 2025 3.31m vs MJP 8.96m UNDERSPEND; tick1042
+bud_boom_invest_rec_2025,city_boom,2025,140512,,,bbc_jr_realized,src_boom_jr2025,strong,Invest ontvangsten 2025 0.141m LOW; tick1042
+bud_boom_invest_saldo_2025,city_boom,2025,-3167298,,,bbc_jr_realized,src_boom_jr2025,strong,Investeringssaldo 2025 -3.17m; tick1042
+bud_boom_fin_saldo_2025,city_boom,2025,-1691448,,,bbc_jr_realized,src_boom_jr2025,strong,Financieringssaldo 2025 -1.69m; tick1042
+bud_boom_afm_2025,city_boom,2025,3027901,,,bbc_jr_realized,src_boom_jr2025,strong,AFM 2025 +3.03m STRONG; tick1042
+bud_boom_afm_gecorr_2025,city_boom,2025,2269433,,,bbc_jr_realized,src_boom_jr2025,strong,Gecorrigeerde AFM 2025 +2.27m; tick1042
+bud_boom_bbr_2025,city_boom,2025,3524660,,,bbc_jr_realized,src_boom_jr2025,strong,BBR YE2025 3.52m; tick1042
+bud_boom_budget_result_2025,city_boom,2025,361270,,,bbc_jr_realized,src_boom_jr2025,strong,Budgettair resultaat boekjaar 2025 +0.361m; tick1042
+bud_boom_cum_budget_2025,city_boom,2025,3524660,,,bbc_jr_realized,src_boom_jr2025,strong,Gecumuleerd BR YE2025 3.52m; tick1042
+bud_boom_pnl_2025,city_boom,2025,1920839,,,bbc_jr_realized,src_boom_jr2025,strong,P&L overschot 2025 +1.92m flip (was -7.73m); tick1042
+bud_boom_pnl_cum_equity_2025,city_boom,2025,-15126878,,,bbc_jr_realized,src_boom_jr2025,strong,Gecumuleerd P&L equity YE2025 -15.13m deep NEG IMPROVING (was -17.05m); tick1042
+bud_boom_personnel_2025,city_boom,2025,29006148,,,bbc_jr_realized,src_boom_jr2025,strong,Personnel 2025 29.01m HIGH JUMP FOI (T2 29.006m; J5 29.013m); tick1042
+bud_boom_toelagen_2025,city_boom,2025,3873068,,,bbc_jr_realized,src_boom_jr2025,strong,Toegestane werkingssubsidies 2025 3.87m FOI; tick1042
+bud_boom_police_toelage_2025,city_boom,2025,2106246,,,bbc_jr_realized,src_boom_jr2025,strong,Politiezone toelage 2025 2.11m; tick1042
+bud_boom_fire_toelage_2025,city_boom,2025,881373,,,bbc_jr_realized,src_boom_jr2025,strong,HVZ toelage 2025 0.881m; tick1042
+bud_boom_igs_toelage_2025,city_boom,2025,104240,,,bbc_jr_realized,src_boom_jr2025,strong,IGS toelage 2025 0.104m; tick1042
+bud_boom_eredienst_toelage_2025,city_boom,2025,68960,,,bbc_jr_realized,src_boom_jr2025,strong,Eredienst toelage 2025 0.069m; tick1042
+bud_boom_other_toelage_2025,city_boom,2025,705864,,,bbc_jr_realized,src_boom_jr2025,strong,Andere toelagen 2025 0.706m FOI; tick1042
+bud_boom_invest_subs_granted_2025,city_boom,2025,1146907,,,bbc_jr_realized,src_boom_jr2025,strong,Toegestane invest-subs 2025 1.15m HIGH FOI (IGS 0.880); tick1042
+bud_boom_invest_subs_igs_2025,city_boom,2025,880000,,,bbc_jr_realized,src_boom_jr2025,strong,Invest-subs IGS 2025 0.880m HIGH FOI; tick1042
+bud_boom_ocmw_cover_2025,city_boom,2025,4010317,,,bbc_jr_realized,src_boom_jr2025,strong,OCMW cover tussenkomst 2025 4.01m FULL HIGH FOI vs gap -3.00m; tick1042
+bud_boom_ocmw_expl_gap_2025,city_boom,2025,-3004367,,,bbc_jr_realized,src_boom_jr2025,strong,OCMW expl saldo 2025 -3.00m HIGH; tick1042
+bud_boom_ocmw_expl_ont_2025,city_boom,2025,21042182,,,bbc_jr_realized,src_boom_jr2025,strong,OCMW expl ontvangsten 2025 21.04m; tick1042
+bud_boom_ocmw_expl_uit_2025,city_boom,2025,24046565,,,bbc_jr_realized,src_boom_jr2025,strong,OCMW expl uitgaven 2025 24.05m; tick1042
+bud_boom_ocmw_aid_2025,city_boom,2025,3933401,,,bbc_jr_realized,src_boom_jr2025,strong,Individuele hulpverlening OCMW 2025 3.93m JUMP; tick1042
+bud_boom_fiscal_2025,city_boom,2025,17486908,,,bbc_jr_realized,src_boom_jr2025,strong,Fiscale opbrengsten en boetes 2025 17.49m; tick1042
+bud_boom_interest_2025,city_boom,2025,1466684,,,bbc_jr_realized,src_boom_jr2025,strong,Intresten op leningen 2025 1.47m HIGH; tick1042
+bud_boom_mjp_invest_2025,city_boom,2025,8963628,,,bbc_jr_realized,src_boom_jr2025,strong,MJP invest krediet eind 2025 8.96m (realized 3.31m); tick1042
+bud_boom_agb_bbr_2025,city_boom,2025,-4716418,,,bbc_jr_realized,src_boom_jr2025,strong,AGB Boom Plus BBR 2025 -4.72m NEG HIGH dual FOI; tick1042
+bud_boom_agb_afm_2025,city_boom,2025,-5404111,,,bbc_jr_realized,src_boom_jr2025,strong,AGB Boom Plus AFM 2025 -5.40m NEG VERY HIGH dual FOI; tick1042
+bud_boom_consol_bbr_2025,city_boom,2025,-1191759,,,bbc_jr_realized,src_boom_jr2025,strong,Geconsolideerd BBR GE+OCMW+AGB 2025 -1.19m NEG FOI; tick1042
+bud_boom_consol_afm_2025,city_boom,2025,-2376210,,,bbc_jr_realized,src_boom_jr2025,strong,Geconsolideerd AFM 2025 -2.38m NEG FOI; tick1042
+bud_boom_debt_per_capita_2025,city_boom,2025,1864,,,bbc_jr_realized,src_boom_jr2025,strong,Openstaande schuld per inwoner YE2025 EUR1864 (kengetallen); tick1042

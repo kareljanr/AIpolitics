@@ -13779,3 +13779,25 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1042** residual dual L5 (Hulshout / Torhout full BBC / Stekene if PDF / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / Beerse / other); deferred **rq_116**; progress@1050 in 9
 
+
+
+### Tick 1042 - 2026-08-10T10:15:00Z
+
+- Unit: **rq_1042** (FOI-adjacent residual dual - **Lokaal Bestuur Boom Jaarrekening 2025** + Lille dual residual)
+- Found (strong primary BBC JR2025 319p portal; KBO 0207.506.952 / OCMW 0212.242.235; Antwerpsestraat 44; AD Lize Van Dijck FD Dirk Cappaert; pub 29.06.2026):
+  - Assets **EUR85.28m DROP** / equity **EUR16.04m JUMP** (thin) / debt total **EUR69.24m HIGH DECLINE** / fin debt **EUR37.23m DECLINE** (LT **EUR34.38m** / ST due **EUR2.34m** / ST **EUR0.510m**)
+  - New loans **EUR0.501m LOW** lease / repayments **EUR2.33m HIGH** / interest **EUR1.47m HIGH**
+  - Cash **EUR0.619m VERY LOW DROP FOI** (was **EUR0.796m**) / pension **EUR21.41m VERY HIGH DROP FOI** (was **EUR23.72m**) / FVA IGS **EUR11.62m**
+  - Exploitatie: ontvangsten **EUR54.88m** / uitgaven **EUR49.66m** / saldo **+EUR5.22m VERY STRONG**
+  - AFM **+EUR3.03m STRONG** (gecorr **+EUR2.27m**) / BBR **EUR3.52m** / budget **+EUR0.361m** / P&L **+EUR1.92m flip** (was **-EUR7.73m**) / cum equity **EUR-15.13m IMPROVING**
+  - Personnel **EUR29.01m HIGH JUMP** / toelagen **EUR3.87m FOI** (police **EUR2.11m** / fire **EUR0.881m** / other **EUR0.706m**)
+  - Invest **EUR3.31m** vs MJP **EUR8.96m UNDERSPEND** / invest-subs **EUR1.15m** (IGS **EUR0.880m HIGH**)
+  - **OCMW cover EUR4.01m FULL HIGH FOI** vs gap **EUR-3.00m** / OCMW aid **EUR3.93m**
+  - **AGB Boom Plus dual: BBR EUR-4.72m / AFM EUR-5.40m NEG VERY HIGH FOI** / consol BBR **EUR-1.19m** / consol AFM **EUR-2.38m**
+  - Schuld/inwoner **EUR1864**
+- Dual: Lille assets **EUR126.37m** / OCMW cover **0** / P&L **-EUR1.70m** (tick1041) - not TE-additive
+- Note: Hulshout/Torhout/Stekene/Balen OCR residual next; progress@1050 in 8
+- Wrote: budgets +50 (bud_boom_*); commitments +6; leaderboard +8; sources +1; entity city_boom; FOI **gap_boom_ocmw_pension_cash_agb_l5** prio9 ready + draft; key only (PDF ~18.6MB not stored in git); rq_1042=done; spawn **rq_1043**; ticks=1042
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1043** residual dual L5 (Hulshout / Torhout full BBC / Stekene if PDF / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / Beerse / other); deferred **rq_116**; progress@1050 in 8
+
