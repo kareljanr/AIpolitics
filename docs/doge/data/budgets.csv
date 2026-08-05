@@ -23818,3 +23818,50 @@ bud_bee_gemeentefonds_2025,city_beernem,2025,4906474,,,realized,src_beernem_jr20
 bud_bee_fin_opbr_2025,city_beernem,2025,653823,,,realized,src_beernem_jr2025,strong,Financiele opbrengsten 0.654m; tick1003
 bud_bee_fin_costs_2025,city_beernem,2025,536707,,,realized,src_beernem_jr2025,strong,Financiele kosten 0.537m; tick1003
 bud_bee_invest_subs_granted_2025,city_beernem,2025,133495,,,realized,src_beernem_jr2025,strong,Toegestane investeringssubsidies 0.133m; tick1003
+bud_haa_assets_2025,city_haaltert,2025,87948244,,,realized,src_haaltert_jr2025,strong,Assets YE2025 87.95m (was 86.99m); tick1004
+bud_haa_equity_2025,city_haaltert,2025,57130404,,,realized,src_haaltert_jr2025,strong,Nettoactief YE2025 57.13m (was 56.45m); tick1004
+bud_haa_debt_total_2025,city_haaltert,2025,30817840,,,realized,src_haaltert_jr2025,strong,Total schulden YE2025 30.82m (was 30.54m); tick1004
+bud_haa_fin_debt_2025,city_haaltert,2025,18580642,,,realized,src_haaltert_jr2025,strong,Fin debt total YE2025 18.58m DECLINING (was 19.27m); tick1004
+bud_haa_fin_debt_lt_2025,city_haaltert,2025,16912812,,,realized,src_haaltert_jr2025,strong,Fin debt LT YE2025 16.91m; tick1004
+bud_haa_fin_debt_st_due_2025,city_haaltert,2025,1667830,,,realized,src_haaltert_jr2025,strong,Fin debt ST due YE2025 1.67m; tick1004
+bud_haa_new_loans_2025,city_haaltert,2025,875369,,,realized,src_haaltert_jr2025,strong,Nieuwe leningen 2025 0.875m; tick1004
+bud_haa_aflossingen_2025,city_haaltert,2025,1564977,,,realized,src_haaltert_jr2025,strong,Periodieke aflossingen 2025 1.56m; tick1004
+bud_haa_cash_2025,city_haaltert,2025,7156636,,,realized,src_haaltert_jr2025,strong,Liquide middelen YE2025 7.16m DROP (was 10.27m FOI); tick1004
+bud_haa_pension_2025,city_haaltert,2025,7418047,,,realized,src_haaltert_jr2025,strong,Pensioenvoorzieningen LT YE2025 7.42m JUMP (was 5.89m FOI); tick1004
+bud_haa_cap_subs_2025,city_haaltert,2025,5756430,,,realized,src_haaltert_jr2025,strong,Kapitaalsubsidies YE2025 5.76m; tick1004
+bud_haa_fva_total_2025,city_haaltert,2025,12378961,,,realized,src_haaltert_jr2025,strong,FVA total YE2025 12.38m; tick1004
+bud_haa_fva_igs_2025,city_haaltert,2025,9521928,,,realized,src_haaltert_jr2025,strong,FVA IGS YE2025 9.52m; tick1004
+bud_haa_fva_other_2025,city_haaltert,2025,2857034,,,realized,src_haaltert_jr2025,strong,Andere FVA YE2025 2.86m; tick1004
+bud_haa_leasing_mva_2025,city_haaltert,2025,913466,,,realized,src_haaltert_jr2025,strong,Leasing MVA YE2025 0.913m JUMP (was 0.107m); tick1004
+bud_haa_expl_rec_2025,city_haaltert,2025,28910185,,,realized,src_haaltert_jr2025,strong,Exploitatieontvangsten 28.91m; tick1004
+bud_haa_expl_exp_2025,city_haaltert,2025,24010239,,,realized,src_haaltert_jr2025,strong,Exploitatieuitgaven 24.01m; tick1004
+bud_haa_expl_saldo_2025,city_haaltert,2025,4899946,,,realized,src_haaltert_jr2025,strong,Exploitatiesaldo +4.90m STRONG; tick1004
+bud_haa_invest_exp_2025,city_haaltert,2025,7364661,,,realized,src_haaltert_jr2025,strong,Investeringsuitgaven 7.36m vs MJP 7.88m slight underspend; tick1004
+bud_haa_invest_rec_2025,city_haaltert,2025,1861245,,,realized,src_haaltert_jr2025,strong,Investeringsontvangsten 1.86m; tick1004
+bud_haa_invest_saldo_2025,city_haaltert,2025,-5503416,,,realized,src_haaltert_jr2025,strong,Investeringssaldo -5.50m; tick1004
+bud_haa_mjp_invest_exp_2025,city_haaltert,2025,7881977,,,realized,src_haaltert_jr2025,strong,MJP invest uitgaven 7.88m; tick1004
+bud_haa_afm_2025,city_haaltert,2025,3346069,,,realized,src_haaltert_jr2025,strong,AFM +3.35m STRONG (MJP 0.416m); tick1004
+bud_haa_afm_corr_2025,city_haaltert,2025,3369426,,,realized,src_haaltert_jr2025,strong,Gecorrigeerde AFM +3.37m; tick1004
+bud_haa_bbr_2025,city_haaltert,2025,8033308,,,realized,src_haaltert_jr2025,strong,Beschikbaar BBR 8.03m; tick1004
+bud_haa_bbr_cum_2025,city_haaltert,2025,8033308,,,realized,src_haaltert_jr2025,strong,Gecumuleerd budgettair resultaat 8.03m; tick1004
+bud_haa_budget_result_2025,city_haaltert,2025,-1331978,,,realized,src_haaltert_jr2025,strong,Budgettair resultaat boekjaar -1.33m; tick1004
+bud_haa_pnl_result_2025,city_haaltert,2025,60915,,,realized,src_haaltert_jr2025,strong,P&L +0.061m; tick1004
+bud_haa_pnl_ge_2025,city_haaltert,2025,1740871,,,realized,src_haaltert_jr2025,strong,GE P&L +1.74m; tick1004
+bud_haa_pnl_ocmw_2025,city_haaltert,2025,-1679956,,,realized,src_haaltert_jr2025,strong,OCMW P&L -1.68m FOI; tick1004
+bud_haa_ocmw_cover_2025,city_haaltert,2025,3750000,,,realized,src_haaltert_jr2025,strong,OCMW cover 3.75m FULL (exceeds OCMW -1.68m) FOI residual; tick1004
+bud_haa_ocmw_cum_deficit_2025,city_haaltert,2025,-1259735,,,realized,src_haaltert_jr2025,strong,OCMW cum tekort YE2025 -1.26m IMPROVING (was -3.33m after cover); tick1004
+bud_haa_personnel_2025,city_haaltert,2025,11066744,,,realized,src_haaltert_jr2025,strong,Bezoldigingen 11.07m; tick1004
+bud_haa_toelagen_2025,city_haaltert,2025,3942302,,,realized,src_haaltert_jr2025,strong,Toegestane werkingssubsidies 3.94m; tick1004
+bud_haa_toelagen_police_2025,city_haaltert,2025,2494150,,,realized,src_haaltert_jr2025,strong,Toelage politiezone 2.49m; tick1004
+bud_haa_toelagen_fire_2025,city_haaltert,2025,803795,,,realized,src_haaltert_jr2025,strong,Toelage hulpverleningszone 0.804m; tick1004
+bud_haa_toelagen_eredienst_2025,city_haaltert,2025,110056,,,realized,src_haaltert_jr2025,strong,Toelage eredienst 0.110m; tick1004
+bud_haa_toelagen_other_2025,city_haaltert,2025,534301,,,realized,src_haaltert_jr2025,strong,Toelage andere begunstigden 0.534m FOI; tick1004
+bud_haa_ocmw_aid_2025,city_haaltert,2025,1751679,,,realized,src_haaltert_jr2025,strong,OCMW individuele hulp 1.75m; tick1004
+bud_haa_fiscal_2025,city_haaltert,2025,16374415,,,realized,src_haaltert_jr2025,strong,Fiscale opbrengsten 16.37m; tick1004
+bud_haa_fiscal_ov_2025,city_haaltert,2025,5840530,,,realized,src_haaltert_jr2025,strong,Opcentiemen OV 5.84m; tick1004
+bud_haa_fiscal_pb_2025,city_haaltert,2025,8879436,,,realized,src_haaltert_jr2025,strong,Aanvullende PB 8.88m; tick1004
+bud_haa_gemeentefonds_2025,city_haaltert,2025,4968552,,,realized,src_haaltert_jr2025,strong,Gemeentefonds 4.97m; tick1004
+bud_haa_fin_opbr_2025,city_haaltert,2025,806431,,,realized,src_haaltert_jr2025,strong,Financiele opbrengsten 0.806m; tick1004
+bud_haa_fin_costs_2025,city_haaltert,2025,512357,,,realized,src_haaltert_jr2025,strong,Financiele kosten 0.512m; tick1004
+bud_haa_invest_subs_granted_2025,city_haaltert,2025,451575,,,realized,src_haaltert_jr2025,strong,Toegestane investeringssubsidies 0.452m; tick1004
+bud_haa_minwaarden_2025,city_haaltert,2025,335634,,,realized,src_haaltert_jr2025,strong,Minderwaarden realisatie VA 0.336m FOI; tick1004
