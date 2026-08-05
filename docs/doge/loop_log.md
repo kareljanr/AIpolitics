@@ -15252,3 +15252,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +23 (bud_eveagb_*); commitments +7; leaderboard +9; sources +1; entity agb_evergem; FOI **gap_eve_agb_city_toelage_loans_invest_l5** prio9 ready + draft; PDF primary (not committed 6.5MB); rq_1115=done; spawn **rq_1116**; ticks=1115
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1116** residual dual L5; deferred **rq_116**; progress@1120 in 5
+
+### Tick 1116 - 2026-08-11T23:30:00Z
+
+- Unit: **rq_1116** (FOI-adjacent residual dual - **WV RVT Rusthuis Najaarszon Brakel Jaarrekening 2025** Entity II + Evergem AGB dual residual)
+- Found (strong primary BBC JR2025 103p text; brakel.be; KBO 0886.485.770; Kasteelstraat 50 9660; leden **OCMW Brakel + vzw Sint-Jozef**; Voorzitter Bruno Schollaert):
+  - Assets **EUR5.306m JUMP** (was **EUR4.590m**) / equity **EUR0.921m FLAT FOI** (same as 2024) / debt total **EUR4.386m** / fin debt **EUR0.162m LOW**
+  - Cash **EUR0.611m DROP FOI** (was **EUR0.760m**) / pension **EUR1.206m JUMP FOI** (was **EUR0.857m**; +**EUR0.349m**)
+  - KT vorderingen **EUR4.355m HIGH FOI** (niet-ruil **EUR3.560m**)
+  - Exploitatie: ontvangsten **EUR6.959m** / uitgaven **EUR6.521m** / saldo **+EUR0.439m STRONG**
+  - AFM **+EUR0.428m STRONG** (MJP was **+EUR0.054m**) / BBR **EUR2.241m** / budget **+EUR0.329m POS** (MJP was **−EUR0.046m**)
+  - Omzet **EUR5.552m** / personeel **EUR3.990m** / goederen **EUR2.520m**
+  - Werkingssubsidies **EUR1.398m FOI** (was **EUR1.634m**; alg **EUR0.245m** / spec **EUR1.153m**)
+  - Invest **EUR0.099m** near MJP **EUR0.100m**
+  - **OCMW litigation residual HIGH FOI:** JR toelichting ramt netto OCMW-betaling ca. **EUR108.587** (+interest path to 1 jun 2026); OCMW-vertegenwoordigers betwisten cijfers
+- Dual: Evergem AGB city toelage / AFM FLIP (tick1115) - not TE-additive
+- Note: GE+OCMW Brakel JR2025 not public this tick; Oosterzele / Nijlen / Vorselaar / Kalmthout / Bornem / De Panne residual next; progress@1120 in 4
+- Wrote: budgets +21 (bud_brn_*); commitments +7; leaderboard +9; sources +1; entities zorg_brakel_najaarszon + city_brakel; FOI **gap_brn_ocmw_litigation_subs_pension_l5** prio9 ready + draft; PDF primary (not committed 4.6MB); rq_1116=done; spawn **rq_1117**; ticks=1116
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1117** residual dual L5; deferred **rq_116**; progress@1120 in 4

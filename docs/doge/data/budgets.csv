@@ -29371,3 +29371,24 @@ bud_eveagb_goederen_2025,agb_evergem,2025,2619186,,,bbc_jr_realized,src_evergem_
 bud_eveagb_invest_uitgaven_2025,agb_evergem,2025,301500,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,Invest 0.302m vs MJP 0.415m UNDERSPEND FOI; tick1115
 bud_eveagb_invest_mjp_2025,agb_evergem,2025,414904,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,MJP invest uitgaven 0.415m; tick1115
 bud_eveagb_city_toelage_2025,agb_evergem,2025,1438047,,,bbc_jr_realized,src_evergem_agb_jr2025,strong,City AGB toelage from GE 1.438m FOI residual (GE T2); tick1115
+bud_brn_assets_2025,zorg_brakel_najaarszon,2025,5306429,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,Assets YE2025 5.306m JUMP (was 4.590m); tick1116
+bud_brn_equity_2025,zorg_brakel_najaarszon,2025,920573,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,Nettoactief YE2025 0.921m FLAT FOI (same as 2024); tick1116
+bud_brn_debt_total_2025,zorg_brakel_najaarszon,2025,4385856,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,Total schulden YE2025 4.386m JUMP; tick1116
+bud_brn_fin_debt_2025,zorg_brakel_najaarszon,2025,162000,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,Fin debt YE2025 0.162m LOW FOI (huurwaarborg-class); tick1116
+bud_brn_repayments_2025,zorg_brakel_najaarszon,2025,11250,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,Periodieke aflossingen 0.011m; tick1116
+bud_brn_cash_2025,zorg_brakel_najaarszon,2025,611281,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,Cash YE2025 0.611m DROP FOI (was 0.760m); tick1116
+bud_brn_pension_lt_2025,zorg_brakel_najaarszon,2025,1206000,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,Pension LT 1.206m JUMP FOI (was 0.857m); tick1116
+bud_brn_receivables_kt_2025,zorg_brakel_najaarszon,2025,4355449,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,KT vorderingen 4.355m HIGH FOI (niet-ruil 3.560m); tick1116
+bud_brn_expl_ontvangsten_2025,zorg_brakel_najaarszon,2025,6959388,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,Exploitatie ontvangsten 6.959m; tick1116
+bud_brn_expl_uitgaven_2025,zorg_brakel_najaarszon,2025,6520527,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,Exploitatie uitgaven 6.521m; tick1116
+bud_brn_expl_saldo_2025,zorg_brakel_najaarszon,2025,438862,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,Exploitatiesaldo +0.439m STRONG; tick1116
+bud_brn_afm_2025,zorg_brakel_najaarszon,2025,427612,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,AFM +0.428m STRONG (MJP was +0.054m); tick1116
+bud_brn_afm_gecorr_2025,zorg_brakel_najaarszon,2025,425002,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,AFM gecorrigeerd +0.425m; tick1116
+bud_brn_bbr_2025,zorg_brakel_najaarszon,2025,2240605,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,BBR 2.241m HIGH; tick1116
+bud_brn_budget_result_2025,zorg_brakel_najaarszon,2025,328666,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,Budget +0.329m POS (MJP was -0.046m); tick1116
+bud_brn_personnel_2025,zorg_brakel_najaarszon,2025,3990136,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,Personeel 3.990m; tick1116
+bud_brn_goederen_2025,zorg_brakel_najaarszon,2025,2519919,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,Goederen en diensten 2.520m; tick1116
+bud_brn_omzet_2025,zorg_brakel_najaarszon,2025,5551823,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,Omzet/werking 5.552m; tick1116
+bud_brn_werkingssub_2025,zorg_brakel_najaarszon,2025,1397500,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,Werkingssubsidies 1.398m FOI residual; tick1116
+bud_brn_invest_uitgaven_2025,zorg_brakel_najaarszon,2025,98945,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,Invest 0.099m near MJP 0.100m; tick1116
+bud_brn_ocmw_litigation_2025,zorg_brakel_najaarszon,2025,108586,,,bbc_jr_realized,src_brakel_najaarszon_jr2025,strong,OCMW Brakel net claim ~0.109m FOI litigation residual (interest to 1 jun 2026); tick1116
