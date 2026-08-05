@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 880** (2026-08-06)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** VL city JR2025 residual 871-879: Westerlo **EUR176m** / Schoten **EUR177m** / Destelbergen **EUR110m** / Nazareth-De Pinte fusion **EUR166m** / Bever **EUR21m** / Opwijk **EUR94m** / Dilbeek **EUR221m** / Liedekerke **EUR63m** / Lede **EUR100m** · prior Koksijde-Zottegem + mid/large stack retained |
+| **D. L5 named / measure end-lines** | **~67-81%** of TE (generous) | **Gain 870-880 is VL mid-city + fusion + facility residual (not near-complete of 348bn):** personnel Dilbeek **EUR47m** / Schoten **EUR34m** / Westerlo **EUR32m** / Lede **EUR20m** / Nazareth-DePinte **EUR22m** / Opwijk **EUR15m** · AFM spectrum Dilbeek **+EUR9.4m** / Schoten **+EUR7.0m** / Westerlo **+EUR7.6m** / Nazareth-DePinte **+EUR6.2m** / Lede **+EUR3.7m** · FOI-adjacent: Schoten **pension EUR48m** · Dilbeek **pension EUR30m** + **new loans EUR5.2m** + police toelage drop **EUR7.6→5.5m** · Westerlo **pension jump EUR12→19m** · Nazareth-DePinte fusion baseline + **AGB loan EUR4.7m** · Bever **new loans EUR1.25m** (debt nearly doubled) · Opwijk **OPcura AFM −EUR0.42m** · Liedekerke **MVA sales EUR2.3m** · Lede **MJP debt ramp EUR9.6→18.8→35.6m** · Destelbergen **IGS toelagen EUR1.9m** / pension jump **EUR11.5→13.6m** |
+| **E. FOI-ready gaps** | **~575** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~616** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / Dilbeek **EUR221m** / Schoten **EUR177m** / Westerlo **EUR176m** not full TE) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 880)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~18943 |
+| commitments.csv | ~2489 |
+| leaderboard.csv | ~4009 |
+| entities.csv | ~617 |
+| sources.csv | ~1732 |
+| FOI ready | ~575 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~616 |
+| research_queue open | rq_116 deferred + rq_881 hole-fill after progress |
+
+### What improved since tick 870
+
+- **VL city JR2025 residual (tick871-879):** Westerlo assets **EUR176m** / AFM **+EUR7.6m** / BBR **EUR20m** / **pension EUR19m** (was **EUR12m**) · Schoten **EUR177m** / cash **EUR41m** / AFM **+EUR7.0m** / BBR **EUR42m** / **pension EUR48m** / toelagen **EUR10.4m** · Destelbergen **EUR110m** / AFM **+EUR3.2m** / **pension jump EUR11.5→13.6m** / IGS toelagen **EUR1.9m** · Nazareth-De Pinte fusion **EUR166m** / AFM **+EUR6.2m** / personnel **EUR22m** / **AGB loan stock EUR4.7m** · Bever facility **EUR21m** / **new loans EUR1.25m** debt nearly doubled / AFM **+EUR1.0m** · Opwijk **EUR94m** / AFM **+EUR2.8m** / **OPcura AFM −EUR0.42m** · Dilbeek **EUR221m** / AFM **+EUR9.4m** / personnel **EUR47m** / fiscal **EUR48.5m** / **pension EUR30m** / **new loans EUR5.2m** · Liedekerke **EUR63m** / AFM **+EUR2.7m** / **MVA sales EUR2.3m** · Lede **EUR100m** / AFM **+EUR3.7m** / **MJP debt path EUR9.6→35.6m**.
+- **Dual map:** near-identical asset mid-cities Schoten/Westerlo · fusion first-year baseline (Naz-DePinte) · facility municipality debt-doubling (Bever) · OPcura consol drag (Opwijk) · top-tier AFM+loan draw (Dilbeek) · one-off asset sales (Liedekerke) vs planned debt ramp (Lede).
+- **No pure-annual top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 870** (2026-08-06)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

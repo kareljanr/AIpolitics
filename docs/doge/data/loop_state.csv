@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T12:30:00Z,rq_879,879,no,tick879 Lede JR2025 dual Liedekerke; FOI gap_lede_mjp_debt_toelagen_l5; next progress@880 THEN residual dual L5; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T13:00:00Z,rq_880,880,no,tick880 progress@880 coverage % + waste top10 after VL cities 871-879; next rq_881 residual dual L5; progress@890 in 10; rq_116 deferred

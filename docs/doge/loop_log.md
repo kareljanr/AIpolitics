@@ -10905,3 +10905,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +38 (ud_lede_* avoids Landen ud_ld_*); commitments +4; leaderboard +7; sources +2; entity city_lede; FOI **gap_lede_mjp_debt_toelagen_l5** prio7 ready + draft; raw PDF; rq_879=done; spawn **rq_880 progress@880 prio10**; ticks=879
 - FOI: ready only - **do not send**
 - Next: **progress@880 NEXT** (prio10 rq_880); then residual dual L5; deferred **rq_116**
+
+## Tick 880 - 2026-08-06T13:00:00Z
+
+- Unit: **rq_880** (mandatory **progress@880** - coverage % layers A-E + waste top10)
+- Found / assessed (no new primary euros this tick - inventory refresh after ticks 871-879):
+  - **A L0:** **100%** (EUR347.956bn TE anchor)
+  - **B L1:** **100%** unconsol. map
+  - **C L2:** ~**99%** (+ VL residual Westerlo **EUR176m** / Schoten **EUR177m** / Destelbergen **EUR110m** / Nazareth-DePinte fusion **EUR166m** / Bever **EUR21m** / Opwijk **EUR94m** / Dilbeek **EUR221m** / Liedekerke **EUR63m** / Lede **EUR100m**)
+  - **D L5:** ~**67-81%** generous - gain 871-879: city personnel **EUR47/34/32/22/20/15m** · AFM spectrum **+EUR1.0m to +EUR9.4m** · Schoten pension **EUR48m** · Dilbeek pension **EUR30m** + new loans **EUR5.2m** · Westerlo pension jump **EUR12to19m** · Bever debt-doubling loans **EUR1.25m** · Opwijk OPcura **−EUR0.42m** · Liedekerke MVA sales **EUR2.3m** · Lede MJP debt ramp **EUR9.6to35.6m** · Naz-DePinte AGB loan **EUR4.7m**
+  - **E FOI ready:** ~**575** (answered ~9; partial ~27; total ~616)
+  - **Waste top10 pure annual:** **stable** GIP#1 · fossil/cars/cheque/reportAc #2-10; stocks filtered (Metro3, OWV, city/IGS/pension/AGB loan/MJP plan stocks)
+- Wrote: progress_every_10_ticks.md + doge_waste_top10_current.md; rq_880=done; next **rq_881**; loop_state ticks=880
+- FOI: none new this tick
+- Next: prio5 **rq_881** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/Mortsel/As/Gavere staged/VUB/skeyes); deferred **rq_116**; progress@890 in 10
