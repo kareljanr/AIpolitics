@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1070** (2026-08-11)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1061-1070: Leopoldsburg / OVERO Ronse WV / Begijnendijk / Grimbergen / Meise / Sint-Pieters-Leeuw / Sint-Genesius-Rode / Overijse **EUR208.5m** / Aartselaar **EUR74.0m** / **Sint-Martens-Latem EUR64.2m** · prior 1051-1060 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1061-1070 is VL residual dual L5 (not near-complete of 348bn):** personnel Overijse **EUR32.43m** / SGR **EUR23.15m** / SPL **EUR37.86m** / Aartselaar **EUR14.13m** / SML **EUR8.58m** · FOI-adjacent: **Overijse OCMW cover 0 ZERO** / equity cum **−EUR17.98m** / pension JUMP **EUR24.91m** / BBR **EUR29.33m** / MJP loans **9+20m** · **SGR budget −EUR17.65m** / cash DROP **EUR35.26m** / invest **EUR27.74m** · **SPL cash DROP / OCMW cover 0 / equity −EUR25.56m** · **Aartselaar pension JUMP +EUR1.75m** / new loans **EUR2.20m** · **SML corr AFM −EUR0.41m NEG** / equity cum **−EUR6.21m** / budget **−EUR1.37m** / cash DROP **EUR2.49m** / fin debt **EUR18.41m** |
+| **E. FOI-ready gaps** | **~720** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~762** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / **Overijse EUR208m** / SPL **EUR173m** / SGR **EUR144m** / Aartselaar **EUR74m** / SML **EUR64m** / prior dual stack retained not full TE) · **AGB dual AFM near-zero/NEG** · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 1070)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~27331 |
+| commitments.csv | ~3395 |
+| leaderboard.csv | ~5317 |
+| entities.csv | ~790 |
+| sources.csv | ~1983 |
+| FOI ready | ~720 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~762 |
+| research_queue open | rq_116 deferred + rq_1071 hole-fill after progress |
+
+### What improved since tick 1060
+
+- **VL residual dual JR2025 (tick1061-1070):** Leopoldsburg / OVERO Ronse / Begijnendijk / Grimbergen / Meise / Sint-Pieters-Leeuw / Sint-Genesius-Rode / **Overijse EUR208.5m** / **Aartselaar EUR74.0m** / **Sint-Martens-Latem EUR64.2m**.
+- **Dual map:** ZERO OCMW-cover + deep equity residual (Overijse **−EUR17.98m** / SPL **−EUR25.56m**) vs FULL cover (Aartselaar **EUR1.15m** / SML **EUR0.58m**) · HIGH-BBR buffers (Overijse **EUR29.33m** / SGR **EUR29.98m**) vs NEG budget (SGR **−EUR17.65m** / SML **−EUR1.37m**) · pension JUMP cluster (Overijse **+EUR1.85m** / Aartselaar **+EUR1.75m**) · corr AFM NEG (SML **−EUR0.41m**).
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 1060** (2026-08-10)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

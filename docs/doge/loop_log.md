@@ -14330,3 +14330,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1070** residual dual L5 + **progress@1070**; deferred **rq_116**
 
+
+### Tick 1070 - 2026-08-11T00:30:00Z
+
+- Unit: **rq_1070** (FOI-adjacent residual dual - **Lokaal Bestuur Sint-Martens-Latem Jaarrekening 2025** + Aartselaar dual residual) + **progress@1070**
+- Found (strong primary BBC JR2025 PDF; GR 18.05.2026 pub 21.05.2026; KBO GE 0207.542.782 / OCMW 0212.171.563; Dorp 1 / Vennelaan 23 9830; AD Pieter Delbarge FD Wim De Bruyne; GE+OCMW):
+  - Assets **EUR64.154m slight DROP** / equity **EUR39.143m DROP** / debt total **EUR25.01m** / fin debt **EUR18.408m slight DECLINE** (LT **EUR17.555m** / ST due **EUR0.853m**)
+  - New loans/leasing **EUR0.676m** / repayments **EUR0.821m**
+  - Cash **EUR2.488m DROP FOI** (was **EUR3.686m**) / pension **EUR3.687m DROP** (was **EUR4.154m**) / FVA IGS **EUR9.497m** / leasing MVA **EUR1.943m**
+  - Exploitatie: ontvangsten **EUR17.352m** / uitgaven **EUR16.298m** / saldo **+EUR1.054m**
+  - AFM **+EUR0.253m THIN** / **gecorr AFM EUR-0.410m NEG HIGH FOI** / BBR **EUR2.461m** / budget **EUR-1.368m NEG HIGH FOI** / cum BR **EUR2.461m** / P&L **EUR-1.121m IMPROVING** (was **EUR-5.213m**)
+  - Personnel **EUR8.580m** (edu pass-through **EUR2.390m**) / toelagen **EUR1.967m FOI** (police **EUR1.303m** / fire **EUR0.346m** / other **EUR0.318m**)
+  - Invest **EUR2.919m** / invest-subs IGS **EUR0.703m FOI** / OCMW cover **EUR0.578m FULL** / equity cum **EUR-6.213m WORSENING FOI** (GE **EUR-6.150m** / OCMW **EUR-0.063m IMPROVING**)
+- Dual: Aartselaar assets **EUR74.0m** / pension JUMP **EUR7.07m** / new loans **EUR2.20m** (tick1069) - not TE-additive
+- **Progress@1070:** refreshed progress_every_10_ticks.md + doge_waste_top10_current.md; pure annual top10 stable; residual wave 1061-1070 Overijse/SGR/SPL/Aartselaar/SML
+- Note: Torhout full BBC / Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Ronse city residual next; progress@1080
+- Wrote: budgets +50 (bud_sml_*); commitments +7; leaderboard +8; sources +1; entity city_sint_martens_latem; FOI **gap_sml_afm_corr_equity_budget_cash_l5** prio9 ready + draft; progress files; PDF primary (not committed); rq_1070=done; spawn **rq_1071**; ticks=1070
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1071** residual dual L5; deferred **rq_116**; progress@1080
+

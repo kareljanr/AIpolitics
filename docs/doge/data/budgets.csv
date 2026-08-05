@@ -27280,3 +27280,53 @@ bud_aar_fiscal_pb_2025,city_aartselaar,2025,5663202,,,bbc_jr_realized,src_aartse
 bud_aar_gemeentefonds_2025,city_aartselaar,2025,3068126,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Gemeentefonds 3.068m; tick1069
 bud_aar_interest_2025,city_aartselaar,2025,108949,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Intresten op leningen 0.109m; tick1069
 bud_aar_invest_subs_water_2025,city_aartselaar,2025,955213,,,bbc_jr_realized,src_aartselaar_jr2025,strong,Invest-subs regen/afvalwater 0.955m of 1.006m FOI; tick1069
+bud_sml_assets_2025,city_sint_martens_latem,2025,64153542,,,bbc_jr_realized,src_sml_jr2025,strong,Assets YE2025 64.154m DROP (was 64.763m); tick1070
+bud_sml_equity_2025,city_sint_martens_latem,2025,39142979,,,bbc_jr_realized,src_sml_jr2025,strong,Nettoactief YE2025 39.143m DROP (was 39.758m); tick1070
+bud_sml_debt_total_2025,city_sint_martens_latem,2025,25010564,,,bbc_jr_realized,src_sml_jr2025,strong,Total schulden YE2025 25.011m flat (was 25.005m); tick1070
+bud_sml_fin_debt_2025,city_sint_martens_latem,2025,18407850,,,bbc_jr_realized,src_sml_jr2025,strong,Fin debt total YE2025 18.408m slight DECLINE (was 18.553m); tick1070
+bud_sml_fin_debt_lt_2025,city_sint_martens_latem,2025,17554747,,,bbc_jr_realized,src_sml_jr2025,strong,Fin debt LT YE2025 17.555m DECLINE (was 17.750m); tick1070
+bud_sml_fin_debt_st_due_2025,city_sint_martens_latem,2025,853103,,,bbc_jr_realized,src_sml_jr2025,strong,Fin debt ST due YE2025 0.853m; tick1070
+bud_sml_new_loans_2025,city_sint_martens_latem,2025,675668,,,bbc_jr_realized,src_sml_jr2025,strong,Nieuwe leningen 2025 0.676m mostly leasing FOI; tick1070
+bud_sml_aflossingen_2025,city_sint_martens_latem,2025,820993,,,bbc_jr_realized,src_sml_jr2025,strong,Periodieke aflossingen 2025 0.821m; tick1070
+bud_sml_cash_2025,city_sint_martens_latem,2025,2488219,,,bbc_jr_realized,src_sml_jr2025,strong,Liquide middelen YE2025 2.488m DROP FOI (was 3.686m); tick1070
+bud_sml_pension_2025,city_sint_martens_latem,2025,3687296,,,bbc_jr_realized,src_sml_jr2025,strong,Pensioenvoorzieningen LT YE2025 3.687m DROP (was 4.154m); tick1070
+bud_sml_cap_subs_2025,city_sint_martens_latem,2025,3767282,,,bbc_jr_realized,src_sml_jr2025,strong,Kapitaalsubsidies YE2025 3.767m; tick1070
+bud_sml_fva_total_2025,city_sint_martens_latem,2025,9554207,,,bbc_jr_realized,src_sml_jr2025,strong,FVA total YE2025 9.554m; tick1070
+bud_sml_fva_igs_2025,city_sint_martens_latem,2025,9496976,,,bbc_jr_realized,src_sml_jr2025,strong,FVA IGS YE2025 9.497m; tick1070
+bud_sml_leasing_mva_2025,city_sint_martens_latem,2025,1943238,,,bbc_jr_realized,src_sml_jr2025,strong,Leasing MVA YE2025 1.943m JUMP; tick1070
+bud_sml_expl_rec_2025,city_sint_martens_latem,2025,17352319,,,bbc_jr_realized,src_sml_jr2025,strong,Exploitatieontvangsten 17.352m; tick1070
+bud_sml_expl_exp_2025,city_sint_martens_latem,2025,16298222,,,bbc_jr_realized,src_sml_jr2025,strong,Exploitatieuitgaven 16.298m; tick1070
+bud_sml_expl_saldo_2025,city_sint_martens_latem,2025,1054097,,,bbc_jr_realized,src_sml_jr2025,strong,Exploitatiesaldo +1.054m; tick1070
+bud_sml_invest_exp_2025,city_sint_martens_latem,2025,2919205,,,bbc_jr_realized,src_sml_jr2025,strong,Investeringsuitgaven 2.919m (MVA+subs+lease); tick1070
+bud_sml_invest_rec_2025,city_sint_martens_latem,2025,622665,,,bbc_jr_realized,src_sml_jr2025,strong,Investeringsontvangsten 0.623m; tick1070
+bud_sml_invest_saldo_2025,city_sint_martens_latem,2025,-2296541,,,bbc_jr_realized,src_sml_jr2025,strong,Investeringssaldo -2.297m; tick1070
+bud_sml_invest_mva_2025,city_sint_martens_latem,2025,1895492,,,bbc_jr_realized,src_sml_jr2025,strong,Investeringen MVA 1.895m; tick1070
+bud_sml_invest_subs_granted_2025,city_sint_martens_latem,2025,800932,,,bbc_jr_realized,src_sml_jr2025,strong,Toegestane invest-subs 0.801m FOI (IGS 0.703m); tick1070
+bud_sml_invest_subs_igs_2025,city_sint_martens_latem,2025,703458,,,bbc_jr_realized,src_sml_jr2025,strong,Invest-subs IGS 0.703m of 0.801m FOI; tick1070
+bud_sml_afm_2025,city_sint_martens_latem,2025,252840,,,bbc_jr_realized,src_sml_jr2025,strong,AFM +0.253m THIN FOI; tick1070
+bud_sml_afm_corr_2025,city_sint_martens_latem,2025,-410421,,,bbc_jr_realized,src_sml_jr2025,strong,Gecorrigeerde AFM -0.410m NEG HIGH FOI; tick1070
+bud_sml_bbr_2025,city_sint_martens_latem,2025,2460605,,,bbc_jr_realized,src_sml_jr2025,strong,BBR beschikbaar +2.461m; tick1070
+bud_sml_budget_result_2025,city_sint_martens_latem,2025,-1368032,,,bbc_jr_realized,src_sml_jr2025,strong,Budgettair resultaat -1.368m NEG HIGH FOI; tick1070
+bud_sml_cum_br_2025,city_sint_martens_latem,2025,2460605,,,bbc_jr_realized,src_sml_jr2025,strong,Gecumuleerd budgettair resultaat +2.461m; tick1070
+bud_sml_pnl_2025,city_sint_martens_latem,2025,-1120799,,,bbc_jr_realized,src_sml_jr2025,strong,P&L -1.121m IMPROVING (was -5.213m); tick1070
+bud_sml_ge_expl_exp_2025,city_sint_martens_latem,2025,14753174,,,bbc_jr_realized,src_sml_jr2025,strong,GE exploitatieuitgaven J3 14.753m; tick1070
+bud_sml_ge_expl_rec_2025,city_sint_martens_latem,2025,16384835,,,bbc_jr_realized,src_sml_jr2025,strong,GE exploitatieontvangsten J3 16.385m; tick1070
+bud_sml_ocmw_expl_exp_2025,city_sint_martens_latem,2025,1545048,,,bbc_jr_realized,src_sml_jr2025,strong,OCMW exploitatieuitgaven J3 1.545m; tick1070
+bud_sml_ocmw_expl_rec_2025,city_sint_martens_latem,2025,967484,,,bbc_jr_realized,src_sml_jr2025,strong,OCMW exploitatieontvangsten J3 0.967m; tick1070
+bud_sml_ocmw_expl_gap_2025,city_sint_martens_latem,2025,-577564,,,bbc_jr_realized,src_sml_jr2025,strong,OCMW expl gap ~-0.578m; tick1070
+bud_sml_ocmw_cover_2025,city_sint_martens_latem,2025,577565,,,bbc_jr_realized,src_sml_jr2025,strong,OCMW cover tussenkomst 0.578m FULL; tick1070
+bud_sml_equity_cum_2025,city_sint_martens_latem,2025,-6213201,,,bbc_jr_realized,src_sml_jr2025,strong,Gecumuleerd equity YE2025 -6.213m WORSENING FOI (was -5.092m); tick1070
+bud_sml_ocmw_equity_cum_2025,city_sint_martens_latem,2025,-62772,,,bbc_jr_realized,src_sml_jr2025,strong,OCMW equity cum -0.063m IMPROVING (was -0.181m; cover full); tick1070
+bud_sml_ge_equity_cum_2025,city_sint_martens_latem,2025,-6150430,,,bbc_jr_realized,src_sml_jr2025,strong,GE equity cum -6.150m WORSENING FOI; tick1070
+bud_sml_personnel_2025,city_sint_martens_latem,2025,8580236,,,bbc_jr_realized,src_sml_jr2025,strong,Bezoldigingen 8.580m incl education pass-through 2.390m; tick1070
+bud_sml_edu_pass_through_2025,city_sint_martens_latem,2025,2390369,,,bbc_jr_realized,src_sml_jr2025,strong,Onderwijzend personeel ten laste andere overheden 2.390m; tick1070
+bud_sml_toelagen_2025,city_sint_martens_latem,2025,1967187,,,bbc_jr_realized,src_sml_jr2025,strong,Toegestane werkingssubsidies 1.967m FOI residual; tick1070
+bud_sml_toelagen_police_2025,city_sint_martens_latem,2025,1303367,,,bbc_jr_realized,src_sml_jr2025,strong,Toelage politiezone 1.303m DROP (was 1.448m); tick1070
+bud_sml_toelagen_fire_2025,city_sint_martens_latem,2025,345798,,,bbc_jr_realized,src_sml_jr2025,strong,Toelage hulpverleningszone 0.346m; tick1070
+bud_sml_toelagen_other_2025,city_sint_martens_latem,2025,318022,,,bbc_jr_realized,src_sml_jr2025,strong,Toelage other+eredienst+welzijn residual 0.318m FOI; tick1070
+bud_sml_ocmw_aid_2025,city_sint_martens_latem,2025,488493,,,bbc_jr_realized,src_sml_jr2025,strong,OCMW individuele hulp 0.488m; tick1070
+bud_sml_fiscal_2025,city_sint_martens_latem,2025,10187434,,,bbc_jr_realized,src_sml_jr2025,strong,Fiscale opbrengsten 10.187m; tick1070
+bud_sml_fiscal_ov_2025,city_sint_martens_latem,2025,4081296,,,bbc_jr_realized,src_sml_jr2025,strong,Opcentiemen OV 4.081m; tick1070
+bud_sml_fiscal_pb_2025,city_sint_martens_latem,2025,4532170,,,bbc_jr_realized,src_sml_jr2025,strong,Aanvullende PB 4.532m JUMP; tick1070
+bud_sml_gemeentefonds_2025,city_sint_martens_latem,2025,1332014,,,bbc_jr_realized,src_sml_jr2025,strong,Gemeentefonds 1.332m; tick1070
+bud_sml_interest_2025,city_sint_martens_latem,2025,507883,,,bbc_jr_realized,src_sml_jr2025,strong,Intresten op leningen 0.508m JUMP FOI; tick1070

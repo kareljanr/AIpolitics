@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **1060** (2026-08-10) · **~5237** leaderboard rows  
+**As-of:** tick **1070** (2026-08-11) · **~5317** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,9 +27,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / **Maasmechelen €366m** / SKW **€139m** / Eeklo **€138m** / Maldegem **€135m** / dual stack retained) · **AGB dual AFM near-zero/NEG** · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt/MJP/loan/pension/OCMW stocks **Maasmechelen fin debt €54.53m +loans €18.37m +BBR €11.68m +OCMW cover €4.04m +toelagen €15.03m** / **SKW BBR €12.79m +OCMW gap €4.78m +invest underspend €6.65 vs MJP €20.73m** / **Maldegem loans €10.15m +OCMW gap €5.46m** / **Eeklo Farys debt €33.19m +loans €24.13m +AFM −€2.19m**.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / **Overijse €208m** / SPL **€173m** / SGR **€144m** / Aartselaar **€74m** / **SML €64m** / dual stack retained) · **AGB dual AFM near-zero/NEG** · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt/MJP/loan/pension/OCMW stocks **Overijse OCMW cover 0 + equity −€17.98m + pension JUMP €24.91m + BBR €29.33m + MJP loans €29m** / **SGR budget −€17.65m + cash DROP €35.26m** / **SML corr AFM −€0.41m + equity −€6.21m + budget −€1.37m + fin debt €18.41m** / **Aartselaar pension JUMP +€1.75m + new loans €2.20m**.
 
-**Change vs tick 1050:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 1051–1060 (off pure top10 / dual):** Maasmechelen **€366.3m** (fin debt JUMP **€54.53m**, loans **€18.37m MASSIVE**, BBR **€11.68m VERY HIGH**, OCMW cover **€4.04m FULL**, toelagen **€15.03m** police **€5.97m**, invest **€22.37 vs MJP €38.21m**, pension DROP **€26.06m −4.83m**) · SKW BBR **€12.79m** / OCMW gap **€4.78m** · Maldegem loans **€10.15m** / OCMW gap **€5.46m** · Eeklo Farys debt **€33.19m** / AFM **−€2.19m**. Gain is **JUMP loans + FULL OCMW cover + fat police grants + high BBR** more than FFS reshuffle.
+**Change vs tick 1060:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 1061–1070 (off pure top10 / dual):** Overijse **€208.5m** (OCMW cover **0 ZERO**, equity **−€17.98m**, pension JUMP **€24.91m**, BBR **€29.33m**, MJP loans **9+20m**) · SGR budget **−€17.65m** / cash DROP · SPL OCMW **0** / equity **−€25.56m** · Aartselaar pension JUMP **+€1.75m** / loans **€2.20m** · **SML corr AFM −€0.41m NEG** / equity **−€6.21m** / budget **−€1.37m** / cash DROP **€2.49m**. Gain is **ZERO-cover + NEG-budget + NEG-corr-AFM + pension JUMP** more than FFS reshuffle.
 
 ### Just outside top 10 (often relevant)
 
@@ -39,12 +39,12 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | — | `lb_owv_sub_snowball_27bn_2083` | **stock-as-ann** | **8.55** | STOCK filtered eoy2083 |
 | — | `lb_vl_gsc_pv_legacy_7_078bn` | **~708 m** class | **8.05** | GSC PV legacy oversubsidy |
 | — | `lb_fed_consultancy_2_5bn_coa` | **~842 m/yr** | **8.00** | CoA 2.525bn/3y |
-| — | `lb_maa_fin_debt_54_53m_2025` | **18.4 m loans / 54.5 m stock** | **~6.48** | **NEW 1060** Maasmechelen debt JUMP |
-| — | `lb_maa_toelagen_15_03m_2025` | **15.03 m** | **~6.30** | **NEW 1060** toelagen police 5.97m |
-| — | `lb_maa_bbr_11_68m_2025` | **11.68 m** | **~6.30** | **NEW 1060** BBR VERY HIGH |
-| — | `lb_skw_bbr_12_79m_2025` | **12.79 m** | **~6.30** | **1059** SKW BBR VERY HIGH |
-| — | `lb_hul_bbr_8_92m_2025` | **8.92 m** | **~6.48** | **1050** Hulshout BBR VERY HIGH |
-| — | `lb_eek_farys_debt_afm_2025` | **33.2 m stock / AFM −2.19 m** | **~6.5** | **1057** Eeklo Farys path |
+| — | `lb_ovj_ocmw_cover_zero_17_98m_2025` | **18.0 m stock** | **~6.5** | **NEW 1068** Overijse OCMW ZERO |
+| — | `lb_sgr_budget_neg_17_65m_2025` | **17.7 m** | **~6.5** | **NEW 1067** SGR budget MASSIVE NEG |
+| — | `lb_sml_equity_cum_neg_6_21m_2025` | **6.2 m stock** | **~6.4** | **NEW 1070** SML equity WORSENING |
+| — | `lb_sml_afm_corr_neg_0_41m_2025` | **0.41 m** | **~5.8** | **NEW 1070** corr AFM NEG |
+| — | `lb_aar_pension_jump_7_07m_2025` | **7.1 m stock** | **~6.4** | **NEW 1069** Aartselaar pension JUMP |
+| — | `lb_maa_fin_debt_54_53m_2025` | **18.4 m loans / 54.5 m stock** | **~6.48** | **1060** Maasmechelen debt JUMP |
 
 ### High-absurdity shortlist (not pure annual cost rank)
 
@@ -56,8 +56,6 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_police_ipolice_ssg_eval` | **9.0** | i-Police SSG evaluation |
 | `lb_vl_gip_monitor_fail_2_5bn` | **9.0** | GIP without VEK public report |
 | `lb_oaa_consol_reporte_300_6m` | **9.0** | Reporté solde fiction |
-| `lb_maa_fin_debt_54_53m_2025` | **7.5** | **NEW 1060** loans 18.37m JUMP |
-| `lb_maa_invest_underspend_2025` | **7.0** | **NEW 1060** invest 22.37 vs MJP 38.21m |
-| `lb_skw_invest_underspend_2025` | **7.5** | **1059** invest 6.65 vs MJP 20.73m |
-| `lb_hul_invest_underspend_2025` | **7.5** | **1050** invest 2.59 vs MJP 10.74m |
-| `lb_grob_budget_neg_3_46m_2025` | **8.5** | **1040** Grobbendonk budget −3.46m |
+| `lb_sml_afm_corr_neg_0_41m_2025` | **8.5** | **NEW 1070** corr AFM NEG |
+| `lb_ovj_ocmw_cover_zero_17_98m_2025` | **8.5** | **NEW 1068** OCMW cover ZERO |
+| `lb_sgr_budget_neg_17_65m_2025` | **8.0** | **NEW 1067** budget MASSIVE NEG |
