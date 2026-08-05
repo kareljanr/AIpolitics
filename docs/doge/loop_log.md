@@ -11672,3 +11672,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +46 (bud_loc_*); commitments +4; leaderboard +7; sources +2; entity city_lochristi; FOI **gap_loc_subs_toelagen_ocmw_l5** prio8 ready + draft; raw PDF + key; rq_927=done; spawn **rq_928**; ticks=927
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_928** residual dual L5 (Kruisem / Kapellen AGB+APB / Roeselare / other unmined VL JR2025); deferred **rq_116**; progress@930 in 3
+
+### Tick 928 - 2026-08-07T12:45:00Z
+
+- Unit: **rq_928** (FOI-adjacent residual dual - **Gemeente+OCMW Assenede Jaarrekening 2025** + Lochristi dual)
+- Found (strong primary BBC JR2025 181p):
+  - Assets **EUR84.3m** / equity **EUR66.7m** / debt total **EUR17.6m** / fin debt **EUR5.49m** (**DECLINING** from **EUR6.75m**; LT **EUR4.19m** / ST due **EUR1.30m**) · **EUR375**/capita
+  - New loans **EUR0.06m** leasing only / repayments **EUR1.32m** / **cash EUR8.99m was EUR10.58m DROP FOI**
+  - Pension **EUR8.72m**
+  - Exploitatie: ontvangsten **EUR25.5m** / uitgaven **EUR22.2m** / saldo **+EUR3.24m**
+  - AFM **+EUR2.13m** (gecorr **+EUR2.92m**) / BBR **EUR9.45m** / budget result **-EUR1.14m FOI** / P&L **+EUR2.63m**
+  - Personnel **EUR11.2m** / toelagen **EUR4.39m** (police **EUR2.26m** / IGS **EUR0.70m FOI** / other **EUR0.29m FOI** / AGB **EUR0.35m**)
+  - Invest **EUR3.88m** / **OCMW cover EUR1.42m FOI** (OCMW expl **-EUR1.34m**) / AGB loans **EUR0.21m FOI** / fiscal **EUR11.9m**
+- Dual: Lochristi **EUR165.2m** / cash **EUR26.2m** / invest-subs other **EUR2.39m** (tick927) - not TE-additive
+- Wrote: budgets +50 (bud_asn_*); commitments +4; leaderboard +7; sources +2; entity city_assenede; FOI **gap_asn_ocmw_toelagen_cash_l5** prio8 ready + draft; raw PDF + key; rq_928=done; spawn **rq_929**; ticks=928
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_929** residual dual L5 (Kruisem full boek / Kapellen AGB+APB / Roeselare / Haacht); deferred **rq_116**; progress@930 in 2

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T12:15:00Z,rq_927,927,no,tick927 Lochristi JR2025 dual Aalter; FOI gap_loc_subs_toelagen_ocmw_l5 prio8 invest-subs other 2.39m toelagen 11.3m cash 26.2m Fluvius only AFM +4.82m; next residual dual L5 rq_928; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T12:45:00Z,rq_928,928,no,tick928 Assenede JR2025 dual Lochristi; FOI gap_asn_ocmw_toelagen_cash_l5 prio8 OCMW cover 1.42m budget -1.14m cash drop debt declining AFM +2.13m; next residual dual L5 rq_929; rq_116 deferred

@@ -1,0 +1,45 @@
+ASSENEDE JR2025 KEY EXTRACT — tick928
+Primary: https://www.assenede.be/data/content/file/ge-oc-jaarrekening-2025.pdf
+Local: docs/doge/data/raw/assenede_jr2025.pdf (181p BBC 05/05/26)
+Contact: Kasteelstraat 1-3 9960 Assenede
+KBO G 0207.447.861 | OCMW 0212.237.483 | NIS 43002
+AD Frederik Willems | FD Carla Van Dender
+
+KENGETALLEN:
+Cash 8991722 | fin debt loans 5485224 | debt/cap 375 | BBR/cap 701
+OCMW cover 1422908 | AFM 2131138 | budget -1137777 | cum BR 10247127
+
+BALANCE J4 YE2025 (vs 2024):
+Assets 84289316 (84048921)
+Equity 66722844 (62899951)
+Schulden 17566472 (21148971)
+Fin debt T4 5485224 (6747639 DECLINING)
+  LT 4186534 / ST due 1298690
+Cash 8991722 (10583569 DROP)
+Pension 8716773
+Cap subs 7415826
+FVA 16329510 (IGS 13797136)
+MVA 47457269
+
+J2:
+Expl 25477811 / 22242806 / +3235005
+Invest 758135 / 3879292 / -3121157
+Fin 282368 / 1533993 / -1251625
+Budget -1137777
+Cum BR 10247127 / onbeschikbaar 795846 / BBR 9451280
+AFM +2131138 / gecorr +2915651
+Periodieke aflossingen 1324325
+New loans 61910 leasing only
+AGB loans granted 209669
+
+T2/J5:
+Personnel 11181098
+Toelagen 4385174 (police 2261026 / HVZ 724077 / AGB 350173 / IGS 695068 / eredienst 62029 / other 292801)
+Invest-subs 229761
+Fiscal 11895795 / gemeentefonds 5025165
+P&L +2633633
+Invest MVA 3643597
+AGB BBR 39008
+
+FOI: OCMW cover; AGB loans; other toelagen; cash drop; invest list
+Dual: Lochristi tick927 assets 165.2m cash 26.2m

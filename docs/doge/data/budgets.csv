@@ -20742,3 +20742,53 @@ bud_loc_fiscal_2025,city_lochristi,2025,30253241,,,jaarrekening_realized,src_loc
 bud_loc_gemeentefonds_2025,city_lochristi,2025,7949783,,,jaarrekening_realized,src_lochristi_jr2025,strong,Gemeentefonds 7.950m; tick927
 bud_loc_fin_costs_2025,city_lochristi,2025,54281,,,jaarrekening_realized,src_lochristi_jr2025,strong,Financiele kosten 0.054m; tick927
 bud_loc_invest_mva_2025,city_lochristi,2025,3410218,,,jaarrekening_realized,src_lochristi_jr2025,strong,Investeringen MVA 3.410m (buildings 0.778 roads 1.190 leasing 1.078); tick927
+bud_asn_assets_2025,city_assenede,2025,84289316,,,jaarrekening_realized,src_assenede_jr2025,strong,Consol gemeente+OCMW total assets YE2025 84.289m; tick928
+bud_asn_equity_2025,city_assenede,2025,66722844,,,jaarrekening_realized,src_assenede_jr2025,strong,Nettoactief YE2025 66.723m; tick928
+bud_asn_debt_total_2025,city_assenede,2025,17566472,,,jaarrekening_realized,src_assenede_jr2025,strong,Total schulden YE2025 17.566m; tick928
+bud_asn_fin_debt_2025,city_assenede,2025,5485224,,,jaarrekening_realized,src_assenede_jr2025,strong,T4 total financiele schulden YE2025 5.485m (DECLINING from 6.748m); tick928
+bud_asn_fin_debt_lt_2025,city_assenede,2025,4186534,,,jaarrekening_realized,src_assenede_jr2025,strong,Financiele schulden LT YE2025 4.187m; tick928
+bud_asn_fin_debt_st_due_2025,city_assenede,2025,1298690,,,jaarrekening_realized,src_assenede_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 1.299m; tick928
+bud_asn_fin_debt_2024,city_assenede,2025,6747639,,,jaarrekening_realized,src_assenede_jr2025,strong,T4 fin debt YE2024 6.748m comparator; tick928
+bud_asn_pension_prov_2025,city_assenede,2025,8716773,,,jaarrekening_realized,src_assenede_jr2025,strong,Pensioenvoorzieningen LT YE2025 8.717m; tick928
+bud_asn_cash_2025,city_assenede,2025,8991722,,,jaarrekening_realized,src_assenede_jr2025,strong,Liquide middelen YE2025 8.992m (was 10.584m DROP FOI); tick928
+bud_asn_cash_2024,city_assenede,2025,10583569,,,jaarrekening_realized,src_assenede_jr2025,strong,Liquide middelen YE2024 10.584m; tick928
+bud_asn_cap_subs_2025,city_assenede,2025,7415826,,,jaarrekening_realized,src_assenede_jr2025,strong,Kapitaalsubsidies YE2025 7.416m; tick928
+bud_asn_fva_total_2025,city_assenede,2025,16329510,,,jaarrekening_realized,src_assenede_jr2025,strong,Financiele vaste activa YE2025 16.330m; tick928
+bud_asn_fva_igs_2025,city_assenede,2025,13797136,,,jaarrekening_realized,src_assenede_jr2025,strong,Fin VA IGS YE2025 13.797m; tick928
+bud_asn_mva_2025,city_assenede,2025,47457269,,,jaarrekening_realized,src_assenede_jr2025,strong,Materiele vaste activa YE2025 47.457m; tick928
+bud_asn_onbeschikbaar_2025,city_assenede,2025,795846,,,jaarrekening_realized,src_assenede_jr2025,strong,Onbeschikbare gelden J2 0.796m; tick928
+bud_asn_expl_rec_2025,city_assenede,2025,25477811,,,jaarrekening_realized,src_assenede_jr2025,strong,Exploitatieontvangsten 25.478m; tick928
+bud_asn_expl_exp_2025,city_assenede,2025,22242806,,,jaarrekening_realized,src_assenede_jr2025,strong,Exploitatieuitgaven 22.243m; tick928
+bud_asn_expl_saldo_2025,city_assenede,2025,3235005,,,jaarrekening_realized,src_assenede_jr2025,strong,Exploitatiesaldo +3.235m; tick928
+bud_asn_invest_exp_2025,city_assenede,2025,3879292,,,jaarrekening_realized,src_assenede_jr2025,strong,Investeringsuitgaven J2 3.879m FOI; tick928
+bud_asn_invest_rec_2025,city_assenede,2025,758135,,,jaarrekening_realized,src_assenede_jr2025,strong,Investeringsontvangsten J2 0.758m; tick928
+bud_asn_invest_saldo_2025,city_assenede,2025,-3121157,,,jaarrekening_realized,src_assenede_jr2025,strong,Investeringssaldo -3.121m; tick928
+bud_asn_fin_rec_2025,city_assenede,2025,282368,,,jaarrekening_realized,src_assenede_jr2025,strong,Financieringsontvangsten 0.282m; tick928
+bud_asn_fin_exp_2025,city_assenede,2025,1533993,,,jaarrekening_realized,src_assenede_jr2025,strong,Financieringsuitgaven 1.534m; tick928
+bud_asn_new_loans_2025,city_assenede,2025,61910,,,jaarrekening_realized,src_assenede_jr2025,strong,Aangaan fin schulden 0.062m leasing only (no bank draw); tick928
+bud_asn_aflossingen_2025,city_assenede,2025,1324325,,,jaarrekening_realized,src_assenede_jr2025,strong,Periodieke aflossingen 1.324m; tick928
+bud_asn_agb_loans_granted_2025,city_assenede,2025,209669,,,jaarrekening_realized,src_assenede_jr2025,strong,Toegestane leningen AGB 0.210m FOI; tick928
+bud_asn_ocmw_cover_2025,city_assenede,2025,1422908,,,jaarrekening_realized,src_assenede_jr2025,strong,Tussenkomst in tekort OCMW 1.423m FOI; tick928
+bud_asn_afm_2025,city_assenede,2025,2131138,,,jaarrekening_realized,src_assenede_jr2025,strong,AFM +2.131m (strong); tick928
+bud_asn_afm_corr_2025,city_assenede,2025,2915651,,,jaarrekening_realized,src_assenede_jr2025,strong,Gecorrigeerde AFM +2.916m; tick928
+bud_asn_bbr_2025,city_assenede,2025,9451280,,,jaarrekening_realized,src_assenede_jr2025,strong,BBR 9.451m after onbeschikbaar 0.796m; tick928
+bud_asn_budget_result_2025,city_assenede,2025,-1137777,,,jaarrekening_realized,src_assenede_jr2025,strong,Budgettair resultaat boekjaar -1.138m FOI; tick928
+bud_asn_cum_br_2025,city_assenede,2025,10247127,,,jaarrekening_realized,src_assenede_jr2025,strong,Gecumuleerd budgettair resultaat 10.247m; tick928
+bud_asn_pnl_result_2025,city_assenede,2025,2633633,,,jaarrekening_realized,src_assenede_jr2025,strong,Vennootschapsresultaat J5 +2.634m; tick928
+bud_asn_personnel_2025,city_assenede,2025,11181098,,,jaarrekening_realized,src_assenede_jr2025,strong,J5 bezoldigingen 11.181m; tick928
+bud_asn_toelagen_2025,city_assenede,2025,4385174,,,jaarrekening_realized,src_assenede_jr2025,strong,Toegestane werkingssubsidies 4.385m; tick928
+bud_asn_police_toelage_2025,city_assenede,2025,2261026,,,jaarrekening_realized,src_assenede_jr2025,strong,Toelage politiezone 2.261m; tick928
+bud_asn_hvz_toelage_2025,city_assenede,2025,724077,,,jaarrekening_realized,src_assenede_jr2025,strong,Toelage HVZ 0.724m; tick928
+bud_asn_agb_toelage_2025,city_assenede,2025,350173,,,jaarrekening_realized,src_assenede_jr2025,strong,Toelage AGB 0.350m FOI; tick928
+bud_asn_igs_toelage_2025,city_assenede,2025,695068,,,jaarrekening_realized,src_assenede_jr2025,strong,Toelage IGS 0.695m FOI; tick928
+bud_asn_eredienst_toelage_2025,city_assenede,2025,62029,,,jaarrekening_realized,src_assenede_jr2025,strong,Toelage eredienst 0.062m; tick928
+bud_asn_toelagen_other_2025,city_assenede,2025,292801,,,jaarrekening_realized,src_assenede_jr2025,strong,Toelagen andere begunstigden 0.293m FOI; tick928
+bud_asn_invest_subs_granted_2025,city_assenede,2025,229761,,,jaarrekening_realized,src_assenede_jr2025,strong,Toegestane investeringssubsidies 0.230m; tick928
+bud_asn_ocmw_aid_2025,city_assenede,2025,1195805,,,jaarrekening_realized,src_assenede_jr2025,strong,OCMW individuele hulp 1.196m; tick928
+bud_asn_fiscal_2025,city_assenede,2025,11895795,,,jaarrekening_realized,src_assenede_jr2025,strong,Fiscale opbrengsten en boetes 11.896m; tick928
+bud_asn_gemeentefonds_2025,city_assenede,2025,5025165,,,jaarrekening_realized,src_assenede_jr2025,strong,Gemeentefonds 5.025m; tick928
+bud_asn_fin_costs_2025,city_assenede,2025,191892,,,jaarrekening_realized,src_assenede_jr2025,strong,Financiele kosten 0.192m; tick928
+bud_asn_invest_mva_2025,city_assenede,2025,3643597,,,jaarrekening_realized,src_assenede_jr2025,strong,Investeringen MVA 3.644m (buildings 0.439 roads 2.598); tick928
+bud_asn_agb_bbr_2025,city_assenede,2025,39008,,,jaarrekening_realized,src_assenede_jr2025,strong,AGB BBR YE2025 0.039m consol evenwicht; tick928
+bud_asn_debt_per_cap_2025,city_assenede,2025,375,,,count,src_assenede_jr2025,strong,Openstaande schuld per inwoner 375 EUR (kengetallen); tick928
+bud_asn_bbr_per_cap_2025,city_assenede,2025,701,,,count,src_assenede_jr2025,strong,Gecumuleerd BBR per inwoner 701 EUR (kengetallen); tick928
