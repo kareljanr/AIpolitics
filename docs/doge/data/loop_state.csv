@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T02:00:00Z,rq_953,953,no,tick953 Hooglede JR2025 dual residual; FOI gap_hoo_debt_wzc_ocmw_toelagen_l5 prio8 assets 110.0m fin debt 20.8m RISING budget -1.23m WZC 4.36m OCMW cover 2.30m; next residual dual L5 rq_954; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T03:00:00Z,rq_954,954,no,tick954 Lichtervelde JR2025 dual residual; FOI gap_lic_debt_farys_pension_invest_l5 prio8 assets 72.0m fin debt 9.67m declining budget -0.24m Farys 0.27m pension 2.82m; next residual dual L5 rq_955; rq_116 deferred

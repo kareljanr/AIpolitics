@@ -12123,3 +12123,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +55 (bud_hoo_*); commitments +5; leaderboard +7; sources +2; entity city_hooglede; FOI **gap_hoo_debt_wzc_ocmw_toelagen_l5** prio8 ready + draft; raw PDF 4.3MB; rq_953=done; spawn **rq_954**; ticks=953
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_954** residual dual L5 (Torhout full BBC if published / Roeselare / Meulebeke / Lichtervelde / other unmined VL JR2025); deferred **rq_116**; progress@960 in 7
+
+
+### Tick 954 - 2026-08-08T03:00:00Z
+
+- Unit: **rq_954** (FOI-adjacent residual dual - **Gemeente+OCMW Lichtervelde Jaarrekening 2025** + Hooglede dual residual)
+- Found (strong primary BBC JR2025 147p; KBO 0207.435.785 / OCMW 0212.193.042; GR/OCMW 22.06.2026 pub 1.07.2026):
+  - Assets **EUR72.0m** / equity **EUR57.1m** / debt total **EUR14.8m** / fin debt **EUR9.67m** (**DECLINING** from **EUR10.74m**; LT **EUR8.27m** / ST due **EUR1.40m**)
+  - Split gem **EUR6.52m** / OCMW **EUR3.15m** / new loans **EUR0.291m** / repayments **EUR1.36m**
+  - Cash **EUR10.7m** / **pension EUR2.82m RISING** (was EUR2.41m) / FVA IGS **EUR9.89m DROP** (was EUR11.7m FOI)
+  - Exploitatie: ontvangsten **EUR22.8m** / uitgaven **EUR19.3m** / saldo **+EUR3.44m**
+  - AFM **+EUR2.57m** (gecorr **+EUR3.07m**) / BBR **EUR7.88m** / budget **-EUR0.238m FOI** / P&L **-EUR0.739m FOI** (dep jump **EUR4.50m** was EUR1.91m)
+  - Personnel **EUR12.9m** / toelagen **EUR1.52m** (police **EUR0.70m JUMP FOI** / HVZ **EUR0.28m** / IGS **EUR0.29m** / **Farys sport EUR0.267m dual FOI**)
+  - Invest **EUR3.32m** vs MJP **EUR6.58m** / carryover **EUR3.24m FOI** (OCMW zorgsite ~EUR1.79m) / VIPA **EUR0.45m**
+  - Onbeschikbaar **EUR3.29m FOI** / MJP fin debt planned **EUR14.4m (2026) / EUR20.0m (2027) JUMP FOI**
+- Dual: Hooglede **EUR110.0m** / fin debt **EUR20.8m RISING** (tick953) - not TE-additive; Farys dual Pittem (tick952)
+- Note: Torhout still news-only (no full BBC PDF on beleidsdocumenten)
+- Wrote: budgets +55 (bud_lic_*); commitments +5; leaderboard +7; sources +2; entity city_lichtervelde; FOI **gap_lic_debt_farys_pension_invest_l5** prio8 ready + draft; key only (PDF ~14MB not stored); rq_954=done; spawn **rq_955**; ticks=954
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_955** residual dual L5 (Torhout full BBC if published / Roeselare / Meulebeke / Staden / other unmined VL JR2025); deferred **rq_116**; progress@960 in 6

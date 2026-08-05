@@ -21722,3 +21722,59 @@ bud_hoo_dienstencheques_tekort_2025,city_hooglede,2025,293790,,,realized,src_hoo
 bud_hoo_eindeopstal_zevekote,city_hooglede,2025,1437339,,,commitment,src_hooglede_jr2025,strong,Eindeopstal serviceflats Zevekote due 2027 1.44m FOI; tick953
 bud_hoo_eindeopstal_terlinde,city_hooglede,2025,2628799,,,commitment,src_hooglede_jr2025,strong,Eindeopstal serviceflats Ter Linde due 2038 2.63m FOI; tick953
 bud_hoo_financing_saldo_2025,city_hooglede,2025,2728677,,,realized,src_hooglede_jr2025,strong,Financieringssaldo +2.73m; tick953
+bud_lic_assets_2025,city_lichtervelde,2025,71953994,,,realized,src_lichtervelde_jr2025,strong,Total assets YE2025 72.0m; tick954
+bud_lic_equity_2025,city_lichtervelde,2025,57112987,,,realized,src_lichtervelde_jr2025,strong,Nettoactief YE2025 57.1m; tick954
+bud_lic_debt_total_2025,city_lichtervelde,2025,14841007,,,realized,src_lichtervelde_jr2025,strong,Total schulden YE2025 14.8m; tick954
+bud_lic_fin_debt_2025,city_lichtervelde,2025,9669618,,,jaarrekening_realized,src_lichtervelde_jr2025,strong,T4 total financiele schulden YE2025 9.67m DECLINING (was 10.74m) FOI; tick954
+bud_lic_fin_debt_lt_2025,city_lichtervelde,2025,8266644,,,realized,src_lichtervelde_jr2025,strong,Financiele schulden LT YE2025 8.27m; tick954
+bud_lic_fin_debt_st_due_2025,city_lichtervelde,2025,1402973,,,realized,src_lichtervelde_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 1.40m; tick954
+bud_lic_fin_debt_2024,city_lichtervelde,2025,10742802,,,realized,src_lichtervelde_jr2025,strong,T4 fin debt YE2024 10.74m comparator; tick954
+bud_lic_fin_debt_gem_2025,city_lichtervelde,2025,6516344,,,realized,src_lichtervelde_jr2025,strong,Fin debt gemeente split 6.52m FOI; tick954
+bud_lic_fin_debt_ocmw_2025,city_lichtervelde,2025,3153262,,,realized,src_lichtervelde_jr2025,strong,Fin debt OCMW split 3.15m FOI; tick954
+bud_lic_new_loans_2025,city_lichtervelde,2025,291208,,,realized,src_lichtervelde_jr2025,strong,Nieuwe leningen 0.291m FOI; tick954
+bud_lic_aflossingen_2025,city_lichtervelde,2025,1364392,,,realized,src_lichtervelde_jr2025,strong,Periodieke aflossingen 1.36m; tick954
+bud_lic_cash_2025,city_lichtervelde,2025,10727349,,,realized,src_lichtervelde_jr2025,strong,Liquide middelen YE2025 10.7m; tick954
+bud_lic_cash_2024,city_lichtervelde,2025,10686959,,,realized,src_lichtervelde_jr2025,strong,Liquide middelen YE2024 10.7m comparator; tick954
+bud_lic_pension_prov_2025,city_lichtervelde,2025,2817419,,,realized,src_lichtervelde_jr2025,strong,Pensioenvoorzieningen YE2025 2.82m RISING FOI; tick954
+bud_lic_pension_prov_2024,city_lichtervelde,2025,2413442,,,realized,src_lichtervelde_jr2025,strong,Pensioenvoorzieningen YE2024 2.41m; tick954
+bud_lic_prov_st_2025,city_lichtervelde,2025,609347,,,realized,src_lichtervelde_jr2025,strong,Voorzieningen ST YE2025 0.609m; tick954
+bud_lic_fva_total_2025,city_lichtervelde,2025,9924433,,,realized,src_lichtervelde_jr2025,strong,Financiele vaste activa YE2025 9.92m; tick954
+bud_lic_fva_igs_2025,city_lichtervelde,2025,9889696,,,realized,src_lichtervelde_jr2025,strong,FVA IGS YE2025 9.89m DROP from 11.7m FOI; tick954
+bud_lic_mva_2025,city_lichtervelde,2025,47116629,,,realized,src_lichtervelde_jr2025,strong,Materiele vaste activa YE2025 47.1m; tick954
+bud_lic_leasing_mva_2025,city_lichtervelde,2025,4627715,,,realized,src_lichtervelde_jr2025,strong,Leasing MVA gemeenschap 4.63m (sport+verlichting) FOI; tick954
+bud_lic_cap_subs_2025,city_lichtervelde,2025,11690745,,,realized,src_lichtervelde_jr2025,strong,Kapitaalssubsidies YE2025 11.7m; tick954
+bud_lic_expl_rec_2025,city_lichtervelde,2025,22759043,,,realized,src_lichtervelde_jr2025,strong,Exploitatieontvangsten 22.8m; tick954
+bud_lic_expl_exp_2025,city_lichtervelde,2025,19316259,,,realized,src_lichtervelde_jr2025,strong,Exploitatieuitgaven 19.3m; tick954
+bud_lic_expl_saldo_2025,city_lichtervelde,2025,3442784,,,realized,src_lichtervelde_jr2025,strong,Exploitatiesaldo +3.44m; tick954
+bud_lic_invest_exp_2025,city_lichtervelde,2025,3316256,,,realized,src_lichtervelde_jr2025,strong,Investeringsuitgaven 3.32m (MJP 6.58m underspend FOI); tick954
+bud_lic_invest_rec_2025,city_lichtervelde,2025,736800,,,realized,src_lichtervelde_jr2025,strong,Investeringsontvangsten 0.74m; tick954
+bud_lic_invest_saldo_2025,city_lichtervelde,2025,-2579456,,,realized,src_lichtervelde_jr2025,strong,Investeringssaldo -2.58m; tick954
+bud_lic_mjp_invest_planned_2025,city_lichtervelde,2025,6582086,,,realized,src_lichtervelde_jr2025,strong,MJP planned invest 6.58m vs realized 3.32m FOI; tick954
+bud_lic_invest_carryover_2026,city_lichtervelde,2025,3239794,,,realized,src_lichtervelde_jr2025,strong,Invest carryover to 2026 3.24m FOI; tick954
+bud_lic_loods_invest_2025,city_lichtervelde,2025,582643,,,realized,src_lichtervelde_jr2025,strong,Verbouwen gemeentelijke loods 0.583m; tick954
+bud_lic_zorgsite_invest_2025,city_lichtervelde,2025,489934,,,realized,src_lichtervelde_jr2025,strong,Uitbouw zorgsite 0.490m FOI; tick954
+bud_lic_vipa_wzc_2025,city_lichtervelde,2025,452043,,,realized,src_lichtervelde_jr2025,strong,VIPA WZC invest-subsidie 0.452m; tick954
+bud_lic_afm_2025,city_lichtervelde,2025,2567534,,,realized,src_lichtervelde_jr2025,strong,AFM +2.57m; tick954
+bud_lic_afm_corr_2025,city_lichtervelde,2025,3072502,,,realized,src_lichtervelde_jr2025,strong,Gecorrigeerde AFM +3.07m; tick954
+bud_lic_bbr_2025,city_lichtervelde,2025,7877739,,,realized,src_lichtervelde_jr2025,strong,Beschikbaar budgettair resultaat 7.88m; tick954
+bud_lic_budget_result_2025,city_lichtervelde,2025,-238471,,,realized,src_lichtervelde_jr2025,strong,Budgettair resultaat boekjaar -0.238m NEG FOI; tick954
+bud_lic_cum_br_2025,city_lichtervelde,2025,11169746,,,realized,src_lichtervelde_jr2025,strong,Gecumuleerd budgettair resultaat 11.2m; tick954
+bud_lic_onbeschikbaar_2025,city_lichtervelde,2025,3292007,,,realized,src_lichtervelde_jr2025,strong,Onbeschikbare gelden / reserveringen 3.29m FOI; tick954
+bud_lic_pnl_result_2025,city_lichtervelde,2025,-739147,,,realized,src_lichtervelde_jr2025,strong,P&L boekjaar -0.739m NEG FOI (dep jump); tick954
+bud_lic_depreciation_2025,city_lichtervelde,2025,4495748,,,realized,src_lichtervelde_jr2025,strong,Afschrijvingen/voorzieningen 4.50m JUMP vs 1.91m FOI; tick954
+bud_lic_personnel_2025,city_lichtervelde,2025,12853838,,,realized,src_lichtervelde_jr2025,strong,Personeelskosten 12.9m (67pct expl); tick954
+bud_lic_toelagen_2025,city_lichtervelde,2025,1517136,,,realized,src_lichtervelde_jr2025,strong,Toegestane werkingssubsidies 1.52m FOI named; tick954
+bud_lic_toelagen_police_2025,city_lichtervelde,2025,702599,,,realized,src_lichtervelde_jr2025,strong,Toelagen politiezone 0.703m JUMP +0.122m FOI; tick954
+bud_lic_toelagen_hvz_2025,city_lichtervelde,2025,277354,,,realized,src_lichtervelde_jr2025,strong,Toelagen HVZ 0.277m; tick954
+bud_lic_toelagen_igs_2025,city_lichtervelde,2025,285078,,,realized,src_lichtervelde_jr2025,strong,Toelagen IGS 0.285m FOI; tick954
+bud_lic_toelagen_kerk_2025,city_lichtervelde,2025,66355,,,realized,src_lichtervelde_jr2025,strong,Toelagen eredienst 0.066m; tick954
+bud_lic_toelagen_other_2025,city_lichtervelde,2025,185750,,,realized,src_lichtervelde_jr2025,strong,Toelagen andere begunstigden 0.186m FOI; tick954
+bud_lic_farys_sport_2025,city_lichtervelde,2025,267266,,,realized,src_lichtervelde_jr2025,strong,Toelage sport Farys 0.267m FOI dual Entity II-like; tick954
+bud_lic_invest_subs_granted_2025,city_lichtervelde,2025,97293,,,realized,src_lichtervelde_jr2025,strong,Toegestane investeringssubsidies 0.097m; tick954
+bud_lic_ocmw_aid_2025,city_lichtervelde,2025,509528,,,realized,src_lichtervelde_jr2025,strong,Individuele hulpverlening OCMW 0.510m; tick954
+bud_lic_fiscal_2025,city_lichtervelde,2025,7620948,,,realized,src_lichtervelde_jr2025,strong,Fiscale opbrengsten 7.62m; tick954
+bud_lic_fin_costs_2025,city_lichtervelde,2025,301926,,,realized,src_lichtervelde_jr2025,strong,Financiele kosten 0.302m; tick954
+bud_lic_goederen_2025,city_lichtervelde,2025,4061550,,,realized,src_lichtervelde_jr2025,strong,Goederen en diensten 4.06m; tick954
+bud_lic_mjp_fin_debt_2026,city_lichtervelde,2025,14385667,,,budgeted,src_lichtervelde_jr2025,strong,MJP planned fin debt YE2026 14.4m JUMP FOI; tick954
+bud_lic_mjp_fin_debt_2027,city_lichtervelde,2025,19983873,,,budgeted,src_lichtervelde_jr2025,strong,MJP planned fin debt YE2027 20.0m JUMP FOI; tick954
+bud_lic_financing_saldo_2025,city_lichtervelde,2025,-1101798,,,realized,src_lichtervelde_jr2025,strong,Financieringssaldo -1.10m; tick954
