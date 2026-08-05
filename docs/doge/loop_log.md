@@ -10890,3 +10890,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +38 (ud_lk_*); commitments +4; leaderboard +7; sources +2; entity city_liedekerke; FOI **gap_liedekerke_sales_pension_l5** prio7 ready + draft; raw PDF; rq_878=done; spawn **rq_879**; ticks=878
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_879** residual (Roeselare/Lier/Sint-Truiden/Beveren/Mortsel/As/VUB/skeyes); deferred **rq_116**; progress@880 in 2
+
+## Tick 879 - 2026-08-06T12:30:00Z
+
+- Unit: **rq_879** (FOI-adjacent residual dual - **Gemeente+OCMW Lede Jaarrekening 2025** + Liedekerke dual)
+- Found (strong primary BBC JR2025 105p):
+  - Assets **EUR100.1m** / equity **EUR80.6m** / debt total **EUR19.4m** / fin debt **EUR9.6m** (LT **EUR8.5m** / ST due **EUR1.1m**)
+  - Pension **EUR3.4m** / cash **EUR14.2m** / cap subs **EUR12.1m** / FVA IGS **EUR16.7m**
+  - Exploitatie: ontvangsten **EUR39.1m** / uitgaven **EUR34.9m** / saldo **+EUR4.2m**
+  - AFM **+EUR3.7m** (gecorr **+EUR3.9m**) / BBR **EUR13.7m** / budget result **-EUR0.7m** / P&L **+EUR0.7m**
+  - Personnel **EUR20.2m** / toelagen **EUR4.1m** (police **EUR2.8m** / fire **EUR0.8m** / other **EUR0.3m**) / fiscal **EUR17.3m**
+  - Invest **EUR5.3m** / new loans **EUR0.80m** / **MJP debt ramp to ~EUR18.8m (2026) / ~EUR35.6m (2027)** FOI-adjacent
+- Dual: Liedekerke **EUR62.6m** / AFM **+EUR2.7m** / sales **EUR2.3m** (tick878) - not TE-additive
+- Wrote: budgets +38 (ud_lede_* avoids Landen ud_ld_*); commitments +4; leaderboard +7; sources +2; entity city_lede; FOI **gap_lede_mjp_debt_toelagen_l5** prio7 ready + draft; raw PDF; rq_879=done; spawn **rq_880 progress@880 prio10**; ticks=879
+- FOI: ready only - **do not send**
+- Next: **progress@880 NEXT** (prio10 rq_880); then residual dual L5; deferred **rq_116**

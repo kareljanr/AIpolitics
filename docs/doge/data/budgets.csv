@@ -18904,3 +18904,41 @@ bud_lk_gemeentefonds_2025,city_liedekerke,2025,4044986,,,jaarrekening_realized,s
 bud_lk_invest_subs_granted_2025,city_liedekerke,2025,153664,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Toegestane investeringssubsidies 0.154m 2025; tick878
 bud_lk_new_loans_2025,city_liedekerke,2025,478166,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Nieuwe leningen/leasings 0.478m 2025; tick878
 bud_lk_asset_sales_2025,city_liedekerke,2025,2302224,,,jaarrekening_realized,src_liedekerke_jr2025,strong,Verkoop MVA andere 2.302m 2025 FOI-adjacent; tick878
+bud_lede_assets_2025,city_lede,2025,100063069,,,jaarrekening_realized,src_lede_jr2025,strong,Consol total assets YE2025 100.063m; tick879
+bud_lede_equity_2025,city_lede,2025,80639969,,,jaarrekening_realized,src_lede_jr2025,strong,Nettoactief YE2025 80.640m; tick879
+bud_lede_debt_total_2025,city_lede,2025,19423100,,,jaarrekening_realized,src_lede_jr2025,strong,Schulden total YE2025 19.423m; tick879
+bud_lede_fin_debt_2025,city_lede,2025,9636595,,,jaarrekening_realized,src_lede_jr2025,strong,Fin schulden total YE2025 9.637m (LT 8.524 + ST due 1.113); tick879
+bud_lede_fin_debt_lt_2025,city_lede,2025,8523821,,,jaarrekening_realized,src_lede_jr2025,strong,Fin schulden LT YE2025 8.524m; tick879
+bud_lede_fin_debt_st_2025,city_lede,2025,1112774,,,jaarrekening_realized,src_lede_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.113m; tick879
+bud_lede_pension_prov_2025,city_lede,2025,3379000,,,jaarrekening_realized,src_lede_jr2025,strong,Pensioenvoorzieningen YE2025 3.379m; tick879
+bud_lede_cash_2025,city_lede,2025,14210074,,,jaarrekening_realized,src_lede_jr2025,strong,Liquide middelen YE2025 14.210m; tick879
+bud_lede_cap_subs_2025,city_lede,2025,12072760,,,jaarrekening_realized,src_lede_jr2025,strong,Kapitaalsubsidies YE2025 12.073m; tick879
+bud_lede_fva_igs_2025,city_lede,2025,16712722,,,jaarrekening_realized,src_lede_jr2025,strong,Fin VA IGS YE2025 16.713m; tick879
+bud_lede_cumul_budget_2025,city_lede,2025,13723734,,,jaarrekening_realized,src_lede_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 13.724m; tick879
+bud_lede_bbr_2025,city_lede,2025,13719234,,,jaarrekening_realized,src_lede_jr2025,strong,Beschikbaar budgettair resultaat YE2025 13.719m; tick879
+bud_lede_expl_rec_2025,city_lede,2025,39076390,,,jaarrekening_realized,src_lede_jr2025,strong,Exploitatieontvangsten 39.076m 2025; tick879
+bud_lede_expl_exp_2025,city_lede,2025,34896762,,,jaarrekening_realized,src_lede_jr2025,strong,Exploitatieuitgaven 34.897m 2025; tick879
+bud_lede_expl_saldo_2025,city_lede,2025,4179629,,,jaarrekening_realized,src_lede_jr2025,strong,Exploitatiesaldo +4.180m 2025; tick879
+bud_lede_invest_exp_2025,city_lede,2025,5280882,,,jaarrekening_realized,src_lede_jr2025,strong,Investeringsuitgaven 5.281m 2025; tick879
+bud_lede_invest_rec_2025,city_lede,2025,599401,,,jaarrekening_realized,src_lede_jr2025,strong,Investeringsontvangsten 0.599m 2025; tick879
+bud_lede_invest_saldo_2025,city_lede,2025,-4681480,,,jaarrekening_realized,src_lede_jr2025,strong,Investeringssaldo -4.681m 2025; tick879
+bud_lede_fin_saldo_2025,city_lede,2025,-159231,,,jaarrekening_realized,src_lede_jr2025,strong,Financieringssaldo -0.159m 2025; tick879
+bud_lede_budget_result_2025,city_lede,2025,-661083,,,jaarrekening_realized,src_lede_jr2025,strong,Budgettair resultaat boekjaar -0.661m 2025; tick879
+bud_lede_afm_2025,city_lede,2025,3674177,,,jaarrekening_realized,src_lede_jr2025,strong,Autofinancieringsmarge +3.674m 2025; tick879
+bud_lede_afm_gecorr_2025,city_lede,2025,3949933,,,jaarrekening_realized,src_lede_jr2025,strong,Gecorrigeerde AFM +3.950m 2025; tick879
+bud_lede_pl_2025,city_lede,2025,693574,,,jaarrekening_realized,src_lede_jr2025,strong,P&L overschot +0.694m 2025; tick879
+bud_lede_personnel_2025,city_lede,2025,20161368,,,jaarrekening_realized,src_lede_jr2025,strong,Bezoldigingen 20.161m 2025 (incl onderwijs other 1.895m); tick879
+bud_lede_personnel_onderwijs_other_2025,city_lede,2025,1895260,,,jaarrekening_realized,src_lede_jr2025,strong,Onderwijzend personeel ten laste van andere 1.895m 2025; tick879
+bud_lede_toelagen_2025,city_lede,2025,4138046,,,jaarrekening_realized,src_lede_jr2025,strong,Toegestane werkingssubsidies 4.138m 2025; tick879
+bud_lede_toelagen_police_2025,city_lede,2025,2842235,,,jaarrekening_realized,src_lede_jr2025,strong,Toelage politiezone 2.842m 2025; tick879
+bud_lede_toelagen_fire_2025,city_lede,2025,807777,,,jaarrekening_realized,src_lede_jr2025,strong,Toelage hulpverleningszone 0.808m 2025; tick879
+bud_lede_toelagen_other_2025,city_lede,2025,321059,,,jaarrekening_realized,src_lede_jr2025,strong,Toelagen andere 0.321m 2025; tick879
+bud_lede_ocmw_aid_2025,city_lede,2025,1929325,,,jaarrekening_realized,src_lede_jr2025,strong,Individuele hulpverlening OCMW 1.929m 2025; tick879
+bud_lede_fiscal_2025,city_lede,2025,17288260,,,jaarrekening_realized,src_lede_jr2025,strong,Fiscale opbrengsten 17.288m 2025; tick879
+bud_lede_fiscal_ov_2025,city_lede,2025,6419245,,,jaarrekening_realized,src_lede_jr2025,strong,Opcentiemen OV 6.419m 2025; tick879
+bud_lede_fiscal_apb_2025,city_lede,2025,9900096,,,jaarrekening_realized,src_lede_jr2025,strong,Aanvullende PB 9.900m 2025; tick879
+bud_lede_gemeentefonds_2025,city_lede,2025,5103833,,,jaarrekening_realized,src_lede_jr2025,strong,Gemeentefonds 5.104m 2025; tick879
+bud_lede_invest_subs_granted_2025,city_lede,2025,525690,,,jaarrekening_realized,src_lede_jr2025,strong,Toegestane investeringssubsidies 0.526m 2025; tick879
+bud_lede_new_loans_2025,city_lede,2025,801772,,,jaarrekening_realized,src_lede_jr2025,strong,Nieuwe leningen/leasings 0.802m 2025; tick879
+bud_lede_mjp2026_fin_debt_plan,city_lede,2025,18841298,,,jaarrekening_realized,src_lede_jr2025,strong,MJP 2026 planned fin debt ~18.841m FOI-adjacent ramp; tick879
+bud_lede_mjp2027_fin_debt_plan,city_lede,2025,35636896,,,jaarrekening_realized,src_lede_jr2025,strong,MJP 2027 planned fin debt ~35.637m FOI-adjacent ramp; tick879

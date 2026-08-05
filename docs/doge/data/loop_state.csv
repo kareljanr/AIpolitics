@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T12:00:00Z,rq_878,878,no,tick878 Liedekerke JR2025 dual Dilbeek; FOI gap_liedekerke_sales_pension_l5; next rq_879 residual dual L5; progress@880 in 2; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T12:30:00Z,rq_879,879,no,tick879 Lede JR2025 dual Liedekerke; FOI gap_lede_mjp_debt_toelagen_l5; next progress@880 THEN residual dual L5; rq_116 deferred

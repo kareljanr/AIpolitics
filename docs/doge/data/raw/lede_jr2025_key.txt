@@ -1,0 +1,22 @@
+Lede JR2025 BBC consol
+Source: https://www.lede.be/sites/default/files/2026-06/Vaststelling-jaarrekening-2025-gemeente-Lede-1-JRRK-2025-verslag-282688_0.pdf
+105p; Markt 1 9340 Lede
+tick879
+
+Assets 100063069 / Equity 80639969 / Debt total 19423100
+Cash 14210074 / Cap subs 12072760
+Fin debt 9636595 (LT 8523821 + ST due 1112774)
+New loans 801772
+Pension 3379000
+FVA IGS 16712722
+Expl rec 39076390 / exp 34896762 / saldo 4179629
+AFM 3674177 / gecorr 3949933
+BBR 13719234 / cumul 13723734
+Budget result -661083 / P&L 693574
+Personnel 20161368 (onderwijs other 1895260)
+Toelagen 4138046 (police 2842235 fire 807777 other 321059)
+OCMW aid 1929325
+Fiscal 17288260 (OV 6419245 APB 9900096)
+Gemeentefonds 5103833
+Invest exp 5280882 / invest-subs 525690
+MJP fin debt plan 2026 18841298 / 2027 35636896
