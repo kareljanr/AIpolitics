@@ -12352,3 +12352,21 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_966** residual dual L5 (Ledegem / Meulebeke / Torhout / AGL Lendelede / WZBW); deferred **rq_116**; progress@970 in 5
 
+
+### Tick 966 - 2026-08-08T15:00:00Z
+
+- Unit: **rq_966** (FOI-adjacent residual dual Entity II - **AGL Lendelede Jaarrekening 2025** + Lendelede GE dual residual)
+- Found (strong primary BBC JR2025 56p; KBO 0841.352.165; intern rapport 22.04.2026; RvB 11.05.2026; PDF media/28596):
+  - Assets **EUR4.64m** / equity **EUR2.79m** / debt total **EUR1.85m** / fin debt **EUR1.83m** (**DECLINING** from **EUR1.86m**; LT **EUR1.81m** / ST due **EUR0.027m**)
+  - New loans **EUR0** / repayments **EUR0.027m LOW** (aangewezen **EUR0.149m** >> periodiek FOI)
+  - Cash **EUR0.025m DROP** (was **EUR0.041m**) / leasing MVA **EUR1.77m LARGE FOI** (~38pct assets)
+  - Exploitatie: ontvangsten **EUR0.208m** / uitgaven **EUR0.188m** / saldo **+EUR0.021m**
+  - AFM **-EUR0.006m NEG** / **gecorr AFM -EUR0.128m NEG FOI** / BBR **EUR0.052m** / budget **-EUR0.006m FOI** / P&L **-EUR0.002m**
+  - Invest **EUR0.122m** matched by rec **EUR0.122m** / no J5 personnel line FOI
+  - MJP fin debt planned **EUR1.81m (2026) / EUR1.78m (2027)** declining path
+- Dual: Lendelede GE **EUR43.1m** / fin debt **EUR8.95m RISING** / OCMW cover **EUR1.0m** / AGL dual confirmed (tick965) - not TE-additive
+- Note: Ledegem JR2025 portal listed but PDF extract deferred; Torhout policy page only to JR2024 (no full BBC 2025 PDF this tick)
+- Wrote: budgets +38 (bud_agl_*); commitments +5; leaderboard +7; sources +1; entity agb_agl_lendelede; FOI **gap_agl_afm_lease_cash_subsidy_l5** prio8 ready + draft; key only (PDF ~29MB not stored); rq_966=done; spawn **rq_967**; ticks=966
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_967** residual dual L5 (Ledegem / Meulebeke / Torhout / WZBW); deferred **rq_116**; progress@970 in 4
+

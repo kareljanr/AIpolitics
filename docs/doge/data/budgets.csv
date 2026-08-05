@@ -22289,3 +22289,41 @@ bud_len_mjp_fin_debt_2026,city_lendelede,2025,8265933,,,realized,src_lendelede_j
 bud_len_mjp_fin_debt_2027,city_lendelede,2025,7624989,,,realized,src_lendelede_jr2025,strong,MJP fin debt YE2027 7.62m; tick965
 bud_len_costs_j5_2025,city_lendelede,2025,11143355,,,realized,src_lendelede_jr2025,strong,J5 total kosten 11.14m; tick965
 bud_len_revenue_j5_2025,city_lendelede,2025,11905944,,,realized,src_lendelede_jr2025,strong,J5 total opbrengsten 11.91m; tick965
+bud_agl_assets_2025,agb_agl_lendelede,2025,4636111,,,realized,src_agl_lendelede_jr2025,strong,Total assets YE2025 4.64m; tick966
+bud_agl_equity_2025,agb_agl_lendelede,2025,2785660,,,realized,src_agl_lendelede_jr2025,strong,Nettoactief YE2025 2.79m; tick966
+bud_agl_debt_total_2025,agb_agl_lendelede,2025,1850451,,,realized,src_agl_lendelede_jr2025,strong,Total schulden YE2025 1.85m; tick966
+bud_agl_fin_debt_2025,agb_agl_lendelede,2025,1834953,,,realized,src_agl_lendelede_jr2025,strong,Fin debt YE2025 1.83m DECLINING from 1.86m; tick966
+bud_agl_fin_debt_lt_2025,agb_agl_lendelede,2025,1808149,,,realized,src_agl_lendelede_jr2025,strong,Fin debt LT 1.81m; tick966
+bud_agl_fin_debt_st_due_2025,agb_agl_lendelede,2025,26804,,,realized,src_agl_lendelede_jr2025,strong,Fin debt ST due 0.027m; tick966
+bud_agl_fin_debt_2024,agb_agl_lendelede,2025,1861663,,,realized,src_agl_lendelede_jr2025,strong,Fin debt YE2024 1.86m; tick966
+bud_agl_new_loans_2025,agb_agl_lendelede,2025,0,,,realized,src_agl_lendelede_jr2025,strong,New loans 0; tick966
+bud_agl_aflossingen_2025,agb_agl_lendelede,2025,26710,,,realized,src_agl_lendelede_jr2025,strong,Periodieke aflossingen 0.027m LOW vs aangewezen 0.149m FOI; tick966
+bud_agl_aangewezen_afl_2025,agb_agl_lendelede,2025,148933,,,realized,src_agl_lendelede_jr2025,strong,Gecorrigeerde aflossingen 0.149m FOI AFM driver; tick966
+bud_agl_cash_2025,agb_agl_lendelede,2025,25167,,,realized,src_agl_lendelede_jr2025,strong,Liquide middelen 0.025m DROP from 0.041m FOI; tick966
+bud_agl_cash_2024,agb_agl_lendelede,2025,40744,,,realized,src_agl_lendelede_jr2025,strong,Liquide middelen YE2024 0.041m; tick966
+bud_agl_leasing_mva_2025,agb_agl_lendelede,2025,1765278,,,realized,src_agl_lendelede_jr2025,strong,Leasing MVA gemeenschap 1.77m LARGE FOI (~38pct assets); tick966
+bud_agl_mva_2025,agb_agl_lendelede,2025,4567385,,,realized,src_agl_lendelede_jr2025,strong,MVA total 4.57m; tick966
+bud_agl_cap_subs_2025,agb_agl_lendelede,2025,2735221,,,realized,src_agl_lendelede_jr2025,strong,Kapitaalsubsidies 2.74m; tick966
+bud_agl_cum_pnl_2025,agb_agl_lendelede,2025,23782,,,realized,src_agl_lendelede_jr2025,strong,Gecumuleerd overschot 0.024m; tick966
+bud_agl_expl_rec_2025,agb_agl_lendelede,2025,208265,,,realized,src_agl_lendelede_jr2025,strong,Exploitatieontvangsten 0.208m; tick966
+bud_agl_expl_exp_2025,agb_agl_lendelede,2025,187738,,,realized,src_agl_lendelede_jr2025,strong,Exploitatieuitgaven 0.188m; tick966
+bud_agl_expl_saldo_2025,agb_agl_lendelede,2025,20526,,,realized,src_agl_lendelede_jr2025,strong,Exploitatiesaldo +0.021m; tick966
+bud_agl_invest_exp_2025,agb_agl_lendelede,2025,122169,,,realized,src_agl_lendelede_jr2025,strong,Investeringsuitgaven 0.122m; tick966
+bud_agl_invest_rec_2025,agb_agl_lendelede,2025,122169,,,realized,src_agl_lendelede_jr2025,strong,Investeringsontvangsten 0.122m; tick966
+bud_agl_invest_saldo_2025,agb_agl_lendelede,2025,0,,,realized,src_agl_lendelede_jr2025,strong,Investeringssaldo 0; tick966
+bud_agl_afm_2025,agb_agl_lendelede,2025,6184,,,realized,src_agl_lendelede_jr2025,strong,AFM -0.006m NEG abs FOI; tick966
+bud_agl_afm_corr_2025,agb_agl_lendelede,2025,128407,,,realized,src_agl_lendelede_jr2025,strong,Gecorr AFM -0.128m NEG FOI abs; tick966
+bud_agl_bbr_2025,agb_agl_lendelede,2025,51625,,,realized,src_agl_lendelede_jr2025,strong,BBR 0.052m; tick966
+bud_agl_budget_result_2025,agb_agl_lendelede,2025,6184,,,realized,src_agl_lendelede_jr2025,strong,Budgettair resultaat -0.006m abs; tick966
+bud_agl_pnl_result_2025,agb_agl_lendelede,2025,1884,,,realized,src_agl_lendelede_jr2025,strong,P&L tekort -0.002m abs; tick966
+bud_agl_costs_j5_2025,agb_agl_lendelede,2025,303241,,,realized,src_agl_lendelede_jr2025,strong,J5 total kosten 0.303m; tick966
+bud_agl_revenue_j5_2025,agb_agl_lendelede,2025,301357,,,realized,src_agl_lendelede_jr2025,strong,J5 total opbrengsten 0.301m; tick966
+bud_agl_goederen_2025,agb_agl_lendelede,2025,185969,,,realized,src_agl_lendelede_jr2025,strong,Goederen en diensten 0.186m; tick966
+bud_agl_depreciation_2025,agb_agl_lendelede,2025,114056,,,realized,src_agl_lendelede_jr2025,strong,Afschrijvingen 0.114m; tick966
+bud_agl_fin_costs_2025,agb_agl_lendelede,2025,1315,,,realized,src_agl_lendelede_jr2025,strong,Financiele kosten 0.001m; tick966
+bud_agl_fin_revenue_2025,agb_agl_lendelede,2025,93093,,,realized,src_agl_lendelede_jr2025,strong,Financiele opbrengsten 0.093m; tick966
+bud_agl_werking_rec_2025,agb_agl_lendelede,2025,204646,,,realized,src_agl_lendelede_jr2025,strong,Opbrengsten uit de werking 0.205m; tick966
+bud_agl_financing_saldo_2025,agb_agl_lendelede,2025,26710,,,realized,src_agl_lendelede_jr2025,strong,Financieringssaldo -0.027m abs (aflossingen only); tick966
+bud_agl_mjp_fin_debt_2026,agb_agl_lendelede,2025,1808148,,,realized,src_agl_lendelede_jr2025,strong,MJP fin debt YE2026 1.81m declining; tick966
+bud_agl_mjp_fin_debt_2027,agb_agl_lendelede,2025,1781248,,,realized,src_agl_lendelede_jr2025,strong,MJP fin debt YE2027 1.78m; tick966
+bud_agl_fva_2025,agb_agl_lendelede,2025,200,,,realized,src_agl_lendelede_jr2025,strong,FVA 0.0002m nominal; tick966
