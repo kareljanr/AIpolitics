@@ -18712,3 +18712,45 @@ bud_de_gemeentefonds_2025,city_destelbergen,2025,3820617,,,jaarrekening_realized
 bud_de_invest_subs_granted_2025,city_destelbergen,2025,295449,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Toegestane investeringssubsidies 0.295m 2025; tick873
 bud_de_new_loans_2025,city_destelbergen,2025,126176,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Nieuwe leningen/leasings 0.126m 2025 (no new bank loans); tick873
 bud_de_pop_2025,city_destelbergen,2025,19091,,,jaarrekening_realized,src_destelbergen_jr2025,strong,Inwoners 19091 op 1 jan 2025; tick873
+bud_nd_assets_2025,city_nazareth_depinte,2025,166242075,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Consol gemeente+OCMW total assets YE2025 166.242m; tick874
+bud_nd_equity_2025,city_nazareth_depinte,2025,125924924,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Nettoactief YE2025 125.925m; tick874
+bud_nd_debt_total_2025,city_nazareth_depinte,2025,40317151,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Schulden total YE2025 40.317m; tick874
+bud_nd_fin_debt_2025,city_nazareth_depinte,2025,11104389,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Financiele schulden total YE2025 11.104m (LT 9.810 + ST due 1.295); tick874
+bud_nd_fin_debt_lt_2025,city_nazareth_depinte,2025,9809781,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Financiele schulden LT YE2025 9.810m; tick874
+bud_nd_fin_debt_st_2025,city_nazareth_depinte,2025,1294608,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.295m; tick874
+bud_nd_pension_prov_2025,city_nazareth_depinte,2025,20308299,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Pensioenvoorzieningen YE2025 20.308m FOI-adjacent stock; tick874
+bud_nd_cash_2025,city_nazareth_depinte,2025,14654780,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Liquide middelen+geldbeleggingen YE2025 14.655m; tick874
+bud_nd_cap_subs_2025,city_nazareth_depinte,2025,14149624,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Kapitaalsubsidies YE2025 14.150m; tick874
+bud_nd_fva_igs_2025,city_nazareth_depinte,2025,24913378,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Fin VA IGS YE2025 24.913m; tick874
+bud_nd_fva_welzijn_2025,city_nazareth_depinte,2025,1244329,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Fin VA welzijnsverenigingen YE2025 1.244m; tick874
+bud_nd_cumul_budget_2025,city_nazareth_depinte,2025,15894955,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 15.895m; tick874
+bud_nd_bbr_2025,city_nazareth_depinte,2025,14161934,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Beschikbaar budgettair resultaat YE2025 14.162m; tick874
+bud_nd_expl_rec_2025,city_nazareth_depinte,2025,48323186,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Exploitatieontvangsten 48.323m 2025; tick874
+bud_nd_expl_exp_2025,city_nazareth_depinte,2025,41393491,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Exploitatieuitgaven 41.393m 2025; tick874
+bud_nd_expl_saldo_2025,city_nazareth_depinte,2025,6929694,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Exploitatiesaldo +6.930m 2025; tick874
+bud_nd_invest_exp_2025,city_nazareth_depinte,2025,8132560,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Investeringsuitgaven 8.133m 2025; tick874
+bud_nd_invest_rec_2025,city_nazareth_depinte,2025,1046930,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Investeringsontvangsten 1.047m 2025; tick874
+bud_nd_invest_saldo_2025,city_nazareth_depinte,2025,-7085630,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Investeringssaldo -7.086m 2025; tick874
+bud_nd_fin_saldo_2025,city_nazareth_depinte,2025,-250812,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Financieringssaldo -0.251m 2025; tick874
+bud_nd_budget_result_2025,city_nazareth_depinte,2025,-406748,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Budgettair resultaat boekjaar -0.407m 2025; tick874
+bud_nd_afm_2025,city_nazareth_depinte,2025,6220372,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Autofinancieringsmarge +6.220m 2025 (G+O); tick874
+bud_nd_afm_gecorr_2025,city_nazareth_depinte,2025,6531494,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Gecorrigeerde AFM +6.531m 2025; tick874
+bud_nd_pl_2025,city_nazareth_depinte,2025,602533,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,P&L overschot +0.603m 2025; tick874
+bud_nd_personnel_2025,city_nazareth_depinte,2025,21826882,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Bezoldigingen sociale lasten pensioenen 21.827m 2025 (incl onderwijs other-gov 4.537m); tick874
+bud_nd_personnel_onderwijs_other_2025,city_nazareth_depinte,2025,4537415,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Onderwijzend personeel ten laste van andere 4.537m 2025; tick874
+bud_nd_toelagen_2025,city_nazareth_depinte,2025,9001655,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Toegestane werkingssubsidies 9.002m 2025; tick874
+bud_nd_toelagen_police_2025,city_nazareth_depinte,2025,2939842,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Toelage politiezone 2.940m 2025; tick874
+bud_nd_toelagen_fire_2025,city_nazareth_depinte,2025,865617,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Toelage hulpverleningszone 0.866m 2025; tick874
+bud_nd_toelagen_ags_2025,city_nazareth_depinte,2025,658994,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Toelage AGB 0.659m 2025; tick874
+bud_nd_toelagen_igs_2025,city_nazareth_depinte,2025,1917487,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Toelage IGS 1.917m 2025; tick874
+bud_nd_toelagen_welzijn_2025,city_nazareth_depinte,2025,1836340,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Toelage welzijnsverenigingen 1.836m 2025; tick874
+bud_nd_toelagen_other_2025,city_nazareth_depinte,2025,738251,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Toelagen andere begunstigden 0.738m 2025; tick874
+bud_nd_ocmw_aid_2025,city_nazareth_depinte,2025,1755444,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Individuele hulpverlening OCMW 1.755m 2025; tick874
+bud_nd_fiscal_2025,city_nazareth_depinte,2025,26363520,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Fiscale opbrengsten en boetes 26.364m 2025; tick874
+bud_nd_fiscal_ov_2025,city_nazareth_depinte,2025,11047518,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Opcentiemen OV 11.048m 2025; tick874
+bud_nd_fiscal_apb_2025,city_nazareth_depinte,2025,13569151,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Aanvullende PB 13.569m 2025; tick874
+bud_nd_gemeentefonds_2025,city_nazareth_depinte,2025,5339540,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Gemeentefonds 5.340m 2025; tick874
+bud_nd_invest_subs_granted_2025,city_nazareth_depinte,2025,509201,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Toegestane investeringssubsidies 0.509m 2025; tick874
+bud_nd_new_loans_2025,city_nazareth_depinte,2025,981651,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Nieuwe leningen/leasings 0.982m 2025 (other entities; no bank stated); tick874
+bud_nd_agb_loan_to_2025,city_nazareth_depinte,2025,4740458,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Toegestane lening gemeente aan AGB stock ~4.740m YE2025; tick874
+bud_nd_pop_2025,city_nazareth_depinte,2025,23560,,,jaarrekening_realized,src_nazareth_depinte_jr2025,strong,Inwoners 23560 op 1 jan 2025; tick874

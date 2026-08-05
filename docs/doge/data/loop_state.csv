@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T09:30:00Z,rq_873,873,no,tick873 Destelbergen JR2025 dual Schoten; FOI gap_destelbergen_pension_igs_l5; next rq_874 residual dual L5; progress@880 in 7; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T10:00:00Z,rq_874,874,no,tick874 Nazareth-DePinte JR2025 dual Destelbergen; FOI gap_naz_depinte_pension_toelagen_l5; next rq_875 residual dual L5; progress@880 in 6; rq_116 deferred

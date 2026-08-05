@@ -10814,3 +10814,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +40; commitments +4; leaderboard +7; sources +2; entity city_destelbergen; FOI **gap_destelbergen_pension_igs_l5** prio7 ready + draft; raw PDF; rq_873=done; spawn **rq_874**; ticks=873
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_874** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/Mortsel portal/VUB/skeyes); deferred **rq_116**; progress@880 in 7
+
+## Tick 874 - 2026-08-06T10:00:00Z
+
+- Unit: **rq_874** (FOI-adjacent residual dual - **Gemeente+OCMW Nazareth-De Pinte Jaarrekening 2025** fusion + Destelbergen dual)
+- Found (strong primary BBC JR2025 245p first fusion year):
+  - Assets **EUR166.2m** / equity **EUR125.9m** / debt total **EUR40.3m** / fin debt **EUR11.1m** (LT **EUR9.8m** / ST due **EUR1.3m**)
+  - Pension **EUR20.3m** / cash **EUR14.7m** / cap subs **EUR14.1m** / FVA IGS **EUR24.9m**
+  - Exploitatie: ontvangsten **EUR48.3m** / uitgaven **EUR41.4m** / saldo **+EUR6.9m**
+  - AFM **+EUR6.2m** (gecorr **+EUR6.5m**) / BBR **EUR14.2m** / budget result **-EUR0.4m** / P&L **+EUR0.6m**
+  - Personnel **EUR21.8m** (onderwijs other-gov **EUR4.5m**) / toelagen **EUR9.0m** (police **EUR2.9m** / fire **EUR0.9m** / IGS **EUR1.9m** / welzijn **EUR1.8m** / AGB **EUR0.7m** / other **EUR0.7m**) / OCMW aid **EUR1.8m** / fiscal **EUR26.4m**
+  - Invest **EUR8.1m** / invest-subs granted **EUR0.51m** / new loans **EUR0.98m** / AGB loan stock **EUR4.7m** / gemeentefonds **EUR5.3m** / pop **23560**
+- Dual: Destelbergen **EUR110.0m** / pension **EUR13.6m** / AFM **+EUR3.2m** (tick873) - not TE-additive
+- Wrote: budgets +42; commitments +4; leaderboard +7; sources +2; entity city_nazareth_depinte; FOI **gap_naz_depinte_pension_toelagen_l5** prio7 ready + draft; raw PDF; rq_874=done; spawn **rq_875**; ticks=874
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_875** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/Mortsel/Opwijk/Bever/As/VUB/skeyes); deferred **rq_116**; progress@880 in 6
