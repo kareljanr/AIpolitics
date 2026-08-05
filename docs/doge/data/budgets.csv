@@ -21549,3 +21549,30 @@ bud_win_fin_costs_2025,city_wingene,2025,213556,,,jaarrekening_realized,src_wing
 bud_win_goederen_2025,city_wingene,2025,9700906,,,jaarrekening_realized,src_wingene_jr2025,strong,Goederen en diensten 9.70m; tick948
 bud_win_agb_bbr_2025,city_wingene,2025,2218437,,,jaarrekening_realized,src_wingene_jr2025,strong,Dual AGB Wingene BBR 2.22m (J2 consol Entity II); tick948
 bud_win_agb_afm_2025,city_wingene,2025,421470,,,jaarrekening_realized,src_wingene_jr2025,strong,Dual AGB Wingene AFM +0.42m; tick948
+bud_agw2_assets_2025,agb_wingene,2025,8158877,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Total assets YE2025 8.16m; tick949
+bud_agw2_equity_2025,agb_wingene,2025,8014533,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Nettoactief YE2025 8.01m; tick949
+bud_agw2_debt_total_2025,agb_wingene,2025,144344,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Total schulden YE2025 0.144m (operating only); tick949
+bud_agw2_fin_debt_2025,agb_wingene,2025,0,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Financiele schulden YE2025 0 (zero leverage Entity II); tick949
+bud_agw2_cash_2025,agb_wingene,2025,2046208,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Liquide middelen YE2025 2.05m; tick949
+bud_agw2_mva_2025,agb_wingene,2025,5813986,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Materiele vaste activa YE2025 5.81m (sport/zwembad); tick949
+bud_agw2_cap_subs_2025,agb_wingene,2025,325265,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Kapitaalssubsidies YE2025 0.325m; tick949
+bud_agw2_overig_netto_2025,agb_wingene,2025,7689268,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Overig nettoactief 7.69m; tick949
+bud_agw2_expl_rec_2025,agb_wingene,2025,1849350,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Exploitatieontvangsten 1.85m; tick949
+bud_agw2_expl_exp_2025,agb_wingene,2025,1427881,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Exploitatieuitgaven 1.43m; tick949
+bud_agw2_expl_saldo_2025,agb_wingene,2025,421470,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Exploitatiesaldo +0.421m; tick949
+bud_agw2_invest_exp_2025,agb_wingene,2025,145230,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Investeringsuitgaven 0.145m (MJP 1.00m underspend FOI); tick949
+bud_agw2_mjp_invest_planned_2025,agb_wingene,2025,1000000,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,MJP planned invest 1.00m vs realized 0.145m FOI; tick949
+bud_agw2_invest_carryover_2026,agb_wingene,2025,684221,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Invest carryover 0.684m to 2026 FOI; tick949
+bud_agw2_new_loans_2025,agb_wingene,2025,0,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Nieuwe leningen 0; tick949
+bud_agw2_afm_2025,agb_wingene,2025,421470,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,AFM +0.421m; tick949
+bud_agw2_afm_corr_2025,agb_wingene,2025,421470,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Gecorrigeerde AFM +0.421m (no debt correction); tick949
+bud_agw2_bbr_2025,agb_wingene,2025,2218437,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Beschikbaar budgettair resultaat 2.22m; tick949
+bud_agw2_budget_result_2025,agb_wingene,2025,276239,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Budgettair resultaat boekjaar +0.276m; tick949
+bud_agw2_cum_br_2025,agb_wingene,2025,2218437,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Gecumuleerd budgettair resultaat 2.22m; tick949
+bud_agw2_pnl_result_2025,agb_wingene,2025,14739,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,P&L boekjaar +0.015m; tick949
+bud_agw2_payout_2025,agb_wingene,2025,14739,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Uitkering rechthebbenden 0.015m FOI; tick949
+bud_agw2_prijssubsidie_2025,agb_wingene,2025,1335522,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Prijssubsidies/andere werking 1.34m FOI (vs city toelagen AGB 0.92m recon); tick949
+bud_agw2_werking_rec_2025,agb_wingene,2025,1788517,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Ontvangsten uit de werking 1.79m (retributies 0.45m + andere 1.34m); tick949
+bud_agw2_goederen_2025,agb_wingene,2025,1387927,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Goederen en diensten 1.39m; tick949
+bud_agw2_personnel_2025,agb_wingene,2025,0,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Personeelskosten 0 (no AGB staff); tick949
+bud_agw2_fin_costs_2025,agb_wingene,2025,0,,,jaarrekening_realized,src_wingene_agb_jr2025,strong,Financiele kosten 0; tick949

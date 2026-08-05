@@ -12030,3 +12030,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +49 (bud_win_*); commitments +4; leaderboard +7; sources +2; entity city_wingene; FOI **gap_win_pension_budget_agb_invest_l5** prio8 ready + draft; key only; rq_948=done; spawn **rq_949**; ticks=948
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_949** residual dual L5 (AGB Wingene full BBC / Torhout / Roeselare / other unmined VL JR2025); deferred **rq_116**; progress@950 in 2
+
+
+### Tick 949 - 2026-08-07T23:15:00Z
+
+- Unit: **rq_949** (FOI-adjacent residual dual Entity II - **AGB Wingene Jaarrekening 2025** + city Wingene dual)
+- Found (strong primary BBC JR2025 74p; KBO 0821.136.375; sport/zwembad De Alk):
+  - Assets **EUR8.16m** / equity **EUR8.01m** / debt total **EUR0.144m** / **fin debt EUR0** (zero leverage)
+  - Cash **EUR2.05m** / MVA sport **EUR5.81m**
+  - Exploitatie: ontvangsten **EUR1.85m** / uitgaven **EUR1.43m** / saldo **+EUR0.421m**
+  - AFM **+EUR0.421m** / BBR **EUR2.22m** / budget **+EUR0.276m** / P&L **+EUR0.015m** / payout **EUR0.015m FOI**
+  - **Prijssubsidies EUR1.34m FOI** (vs city toelagen AGB **EUR0.92m** recon) / goederen **EUR1.39m** / personnel **EUR0**
+  - Invest **EUR0.145m** vs MJP **EUR1.00m** + carryover **EUR0.68m FOI** (De Alk betonherstel)
+- Dual: city Wingene **EUR134.9m** / pension **EUR11.5m** / budget **-EUR3.62m** / toelagen AGB **EUR0.92m** (tick948) - Entity II dual map
+- Wrote: budgets +27 (bud_agw2_*); commitments +4; leaderboard +7; sources +1; entity agb_wingene; FOI **gap_agw2_prijssubsidie_invest_payout_l5** prio8 ready + draft; key only; rq_949=done; spawn **rq_950 progress@950 prio10**; ticks=949
+- FOI: ready only - **do not send**
+- Next: **progress@950 NEXT** (prio10 rq_950); then residual dual L5; deferred **rq_116**
