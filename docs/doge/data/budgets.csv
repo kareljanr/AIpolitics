@@ -19330,3 +19330,43 @@ bud_oln_gemeentefonds_2025,city_olen,2025,3210236,,,jaarrekening_realized,src_ol
 bud_oln_invest_subs_granted_2025,city_olen,2025,347583,,,jaarrekening_realized,src_olen_jr2025,strong,Toegestane investeringssubsidies 0.348m 2025; tick891
 bud_oln_new_loans_2025,city_olen,2025,10236501,,,jaarrekening_realized,src_olen_jr2025,strong,Nieuwe leningen/leasings 10.237m 2025 (other entities) FOI-adjacent; debt 4.9to14.8m; tick891
 bud_oln_mjp_bank_loans_plan_2026,city_olen,2026,15000000,,,meerjarenplan,src_olen_jr2025,medium,MJP planned bank loans 15.0m path FOI-adjacent; tick891
+bud_hove_assets_2025,city_hove,2025,44318562,,,jaarrekening_realized,src_hove_jr2025,strong,Consol total assets YE2025 44.319m; tick892
+bud_hove_equity_2025,city_hove,2025,31389368,,,jaarrekening_realized,src_hove_jr2025,strong,Nettoactief YE2025 31.389m; tick892
+bud_hove_debt_total_2025,city_hove,2025,12929195,,,jaarrekening_realized,src_hove_jr2025,strong,Schulden total YE2025 12.929m; tick892
+bud_hove_fin_debt_2025,city_hove,2025,1466097,,,jaarrekening_realized,src_hove_jr2025,strong,Fin schulden total YE2025 1.466m (LT 1.245 + ST due 0.221) was 1.568m; tick892
+bud_hove_fin_debt_lt_2025,city_hove,2025,1244849,,,jaarrekening_realized,src_hove_jr2025,strong,Fin schulden LT YE2025 1.245m; tick892
+bud_hove_fin_debt_st_2025,city_hove,2025,221248,,,jaarrekening_realized,src_hove_jr2025,strong,Fin schulden LT binnen jaar YE2025 0.221m; tick892
+bud_hove_pension_prov_2025,city_hove,2025,7700000,,,jaarrekening_realized,src_hove_jr2025,strong,Pensioenvoorzieningen YE2025 7.700m (was 7.608m); tick892
+bud_hove_cash_2025,city_hove,2025,8962588,,,jaarrekening_realized,src_hove_jr2025,strong,Liquide middelen YE2025 8.963m (was 9.357m); tick892
+bud_hove_cap_subs_2025,city_hove,2025,1123910,,,jaarrekening_realized,src_hove_jr2025,strong,Kapitaalsubsidies YE2025 1.124m; tick892
+bud_hove_fva_igs_2025,city_hove,2025,4458826,,,jaarrekening_realized,src_hove_jr2025,strong,Fin VA IGS YE2025 4.459m; tick892
+bud_hove_fva_total_2025,city_hove,2025,8132094,,,jaarrekening_realized,src_hove_jr2025,strong,Fin VA total YE2025 8.132m; tick892
+bud_hove_cumul_budget_2025,city_hove,2025,8664471,,,jaarrekening_realized,src_hove_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 8.664m; tick892
+bud_hove_bbr_2025,city_hove,2025,8664471,,,jaarrekening_realized,src_hove_jr2025,strong,Beschikbaar budgettair resultaat YE2025 8.664m; tick892
+bud_hove_expl_rec_2025,city_hove,2025,21731704,,,jaarrekening_realized,src_hove_jr2025,strong,Exploitatieontvangsten 21.732m 2025 (J2); tick892
+bud_hove_expl_exp_2025,city_hove,2025,19500154,,,jaarrekening_realized,src_hove_jr2025,strong,Exploitatieuitgaven 19.500m 2025 (J2); tick892
+bud_hove_expl_saldo_2025,city_hove,2025,2231550,,,jaarrekening_realized,src_hove_jr2025,strong,Exploitatiesaldo +2.232m 2025; tick892
+bud_hove_invest_exp_2025,city_hove,2025,1666076,,,jaarrekening_realized,src_hove_jr2025,strong,Investeringsuitgaven 1.666m 2025; tick892
+bud_hove_invest_rec_2025,city_hove,2025,153965,,,jaarrekening_realized,src_hove_jr2025,strong,Investeringsontvangsten 0.154m 2025; tick892
+bud_hove_invest_saldo_2025,city_hove,2025,-1512112,,,jaarrekening_realized,src_hove_jr2025,strong,Investeringssaldo -1.512m 2025; tick892
+bud_hove_fin_saldo_2025,city_hove,2025,-682962,,,jaarrekening_realized,src_hove_jr2025,strong,Financieringssaldo -0.683m 2025; tick892
+bud_hove_budget_result_2025,city_hove,2025,36476,,,jaarrekening_realized,src_hove_jr2025,strong,Budgettair resultaat boekjaar +0.036m 2025; tick892
+bud_hove_afm_2025,city_hove,2025,2154798,,,jaarrekening_realized,src_hove_jr2025,strong,Autofinancieringsmarge +2.155m 2025; tick892
+bud_hove_afm_gecorr_2025,city_hove,2025,2239899,,,jaarrekening_realized,src_hove_jr2025,strong,Gecorrigeerde AFM +2.240m 2025; tick892
+bud_hove_pl_2025,city_hove,2025,793436,,,jaarrekening_realized,src_hove_jr2025,strong,P&L overschot +0.793m 2025; tick892
+bud_hove_personnel_2025,city_hove,2025,10699957,,,jaarrekening_realized,src_hove_jr2025,strong,Bezoldigingen 10.700m 2025 (incl onderwijs other ~2.579m); tick892
+bud_hove_personnel_onderwijs_other_2025,city_hove,2025,2578908,,,jaarrekening_realized,src_hove_jr2025,strong,Onderwijzend personeel ten laste van andere ~2.579m 2025; tick892
+bud_hove_toelagen_2025,city_hove,2025,2635127,,,jaarrekening_realized,src_hove_jr2025,strong,Toegestane werkingssubsidies 2.635m 2025; tick892
+bud_hove_toelagen_police_2025,city_hove,2025,1449907,,,jaarrekening_realized,src_hove_jr2025,strong,Toelage politiezone 1.450m 2025; tick892
+bud_hove_toelagen_fire_2025,city_hove,2025,340606,,,jaarrekening_realized,src_hove_jr2025,strong,Toelage hulpverleningszone 0.341m 2025; tick892
+bud_hove_toelagen_agb_2025,city_hove,2025,465944,,,jaarrekening_realized,src_hove_jr2025,strong,Toelage AGB 0.466m 2025; tick892
+bud_hove_toelagen_igs_2025,city_hove,2025,16959,,,jaarrekening_realized,src_hove_jr2025,strong,Toelage IGS 0.017m 2025; tick892
+bud_hove_toelagen_other_2025,city_hove,2025,354850,,,jaarrekening_realized,src_hove_jr2025,strong,Toelagen andere begunstigden 0.355m 2025 FOI; tick892
+bud_hove_ocmw_aid_2025,city_hove,2025,911112,,,jaarrekening_realized,src_hove_jr2025,strong,Individuele hulpverlening OCMW 0.911m 2025; tick892
+bud_hove_fiscal_2025,city_hove,2025,12041229,,,jaarrekening_realized,src_hove_jr2025,strong,Fiscale opbrengsten en boetes 12.041m 2025; tick892
+bud_hove_fiscal_ov_2025,city_hove,2025,4022602,,,jaarrekening_realized,src_hove_jr2025,strong,Opcentiemen OV 4.023m 2025; tick892
+bud_hove_fiscal_apb_2025,city_hove,2025,5969046,,,jaarrekening_realized,src_hove_jr2025,strong,Aanvullende PB 5.969m 2025; tick892
+bud_hove_gemeentefonds_2025,city_hove,2025,1662794,,,jaarrekening_realized,src_hove_jr2025,strong,Gemeentefonds 1.663m 2025; tick892
+bud_hove_invest_subs_granted_2025,city_hove,2025,335055,,,jaarrekening_realized,src_hove_jr2025,strong,Toegestane investeringssubsidies 0.335m 2025; tick892
+bud_hove_new_loans_2025,city_hove,2025,108990,,,jaarrekening_realized,src_hove_jr2025,strong,Nieuwe leningen/leasings 0.109m 2025; tick892
+bud_hove_loans_granted_2025,city_hove,2025,715200,,,jaarrekening_realized,src_hove_jr2025,strong,Toegestane leningen 0.715m 2025 FOI L5; tick892

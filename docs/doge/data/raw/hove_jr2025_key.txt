@@ -1,0 +1,22 @@
+Hove JR2025 BBC consol
+Source: https://www.hove.be/file/download/35010/1A47123046C6E99468EEE124CB3A6A2E
+83p; Geelhandlaan 1 2540 Hove; BE 0207.535.557 / 0212.220.855
+tick892
+
+Assets 44318562 / Equity 31389368 / Debt total 12929195
+Cash 8962588 was 9357022 / Cap subs 1123910
+Fin debt 1466097 (LT 1244849 + ST due 221248) was 1567617
+New loans/leasings 108990
+Pension 7700000 was 7608265
+FVA IGS 4458826 / FVA total 8132094
+Expl rec 21731704 / exp 19500154 / saldo 2231550
+AFM 2154798 / gecorr 2239899
+BBR 8664471 / cumul 8664471
+Budget result 36476 / P&L +793436
+Personnel 10699957 (onderwijs other ~2578908)
+Toelagen 2635127 (police 1449907 fire 340606 AGB 465944 IGS 16959 other 354850)
+OCMW aid 911112
+Fiscal 12041229 (OV 4022602 APB 5969046)
+Gemeentefonds 1662794
+Invest exp 1666076 (material 1323601 invest-subs 335055) / invest-subs granted 335055
+Toegestane leningen 715200 FOI

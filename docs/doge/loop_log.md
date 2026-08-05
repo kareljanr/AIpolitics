@@ -11084,3 +11084,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +39 (bud_oln_*); commitments +4; leaderboard +7; sources +2; entity city_olen; FOI **gap_oln_loans_invest_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_891=done; spawn **rq_892**; ticks=891
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_892** residual dual L5 (Roeselare/Lier portal/Mortsel portal/Hove/VUB/skeyes); deferred **rq_116**; progress@900 in 9
+
+## Tick 892 - 2026-08-06T19:00:00Z
+
+- Unit: **rq_892** (FOI-adjacent residual dual - **Gemeente+OCMW Hove Jaarrekening 2025** + Olen dual)
+- Found (strong primary BBC JR2025 83p):
+  - Assets **EUR44.3m** / equity **EUR31.4m** / debt total **EUR12.9m** / fin debt **EUR1.47m** declining (LT **EUR1.24m** / ST due **EUR0.22m**)
+  - New loans **EUR0.11m** / **toegestane leningen EUR0.72m FOI** / pension **EUR7.7m** / cash **EUR9.0m** (was **EUR9.4m**)
+  - Exploitatie: ontvangsten **EUR21.7m** / uitgaven **EUR19.5m** / saldo **+EUR2.2m**
+  - AFM **+EUR2.15m** (gecorr **+EUR2.24m**) / BBR **EUR8.7m** / budget result **+EUR0.04m** / P&L **+EUR0.79m**
+  - Personnel **EUR10.7m** / toelagen **EUR2.6m** (police **EUR1.45m** / other **EUR0.35m** / AGB **EUR0.47m**) / fiscal **EUR12.0m**
+  - Invest **EUR1.7m** / invest-subs **EUR0.34m** / gemeentefonds **EUR1.7m**
+- Dual: Olen **EUR70.4m** / new loans **EUR10.2m** / fin debt ramp (tick891) - not TE-additive
+- Wrote: budgets +40 (bud_hove_*); commitments +4; leaderboard +7; sources +2; entity city_hove; FOI **gap_hove_loans_granted_toelagen_l5** prio7 ready + draft; raw PDF + key; rq_892=done; spawn **rq_893**; ticks=892
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_893** residual dual L5 (Roeselare/Lier portal/Mortsel portal/VUB/skeyes); deferred **rq_116**; progress@900 in 8

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T18:30:00Z,rq_891,891,no,tick891 Olen JR2025 dual Herzele; FOI gap_oln_loans_invest_toelagen_l5 prio8 new loans 10.2m; next rq_892 residual dual L5; progress@900 in 9; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T19:00:00Z,rq_892,892,no,tick892 Hove JR2025 dual Olen; FOI gap_hove_loans_granted_toelagen_l5 prio7 loans granted 0.715m; next rq_893 residual dual L5; progress@900 in 8; rq_116 deferred
