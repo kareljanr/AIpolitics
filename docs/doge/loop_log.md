@@ -14066,3 +14066,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1056** residual dual L5; deferred **rq_116**; progress@1060
 
+
+### Tick 1056 - 2026-08-10T17:15:00Z
+
+- Unit: **rq_1056** (FOI-adjacent residual dual - **Lokaal Bestuur Denderleeuw Jaarrekening 2025** + Berlaar dual residual; Mortsel skipped already tick903)
+- Found (strong primary BBC JR2025 beleidsportaal; pub 14.04.2026; A. De Cockstraat 1 9470 Denderleeuw; KBO 0207.439.745; AD Jimmy Geeraerts FD Jo Waterloos; GE+OCMW):
+  - Assets **EUR96.54m slight DROP** / equity **EUR66.74m JUMP** / debt total **EUR29.80m DECLINE** / fin debt **EUR19.86m DECLINE** (LT **EUR18.67m** / ST due **EUR1.19m** / ST **0**)
+  - New loans **EUR0.181m LOW** / repayments **EUR1.17m HIGH**
+  - Cash **EUR4.21m MASSIVE DROP FOI** (was **EUR10.25m**, -**EUR6.03m**) / pension **EUR5.66m DROP FOI** (was **EUR6.02m**) / FVA IGS **EUR10.81m** / leasing MVA **EUR1.96m**
+  - Exploitatie: ontvangsten **EUR37.99m** / uitgaven **EUR33.12m** / saldo **+EUR4.87m STRONG**
+  - AFM **+EUR3.77m VERY STRONG** (gecorr **+EUR3.27m**) / BBR **EUR7.36m VERY HIGH FOI** / budget **EUR-4.19m NEG HIGH FOI** (vs MJP **-EUR11.36m**) / cum BR **EUR7.55m** / equity-cum delta **+EUR1.08m**
+  - Personnel **EUR18.52m JUMP** / toelagen **EUR4.17m FOI** (police **EUR3.05m** / fire **EUR0.827m** / eredienst **EUR0.095m** / other **EUR0.202m**)
+  - Invest **EUR8.92m** vs MJP **EUR16.17m UNDERSPEND FOI**
+  - **OCMW structural gap EUR2.84m HIGH FOI** (J3 exp **EUR5.54m** / rec **EUR2.70m**)
+- Dual: Berlaar assets **EUR85.04m** / BBR **EUR10.06m** / invest underspend / OCMW gap **EUR0.569m** (tick1055) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen (login-walled portal) / Vorselaar annexes / Beerse / Kalmthout residual next; progress@1060
+- Wrote: budgets +52 (bud_den_*); commitments +7; leaderboard +8; sources +1; entity city_denderleeuw; FOI **gap_den_cash_budget_ocmw_toelagen_bbr_l5** prio9 ready + draft; portal primary (no bulk PDF in git); rq_1056=done; spawn **rq_1057**; ticks=1056
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1057** residual dual L5; deferred **rq_116**; progress@1060
+

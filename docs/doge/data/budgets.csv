@@ -26600,3 +26600,55 @@ bud_ber_invest_subs_rec_2025,city_berlaar,2025,548003,,,bbc_jr_realized,src_berl
 bud_ber_invest_subs_granted_2025,city_berlaar,2025,122101,,,bbc_jr_realized,src_berlaar_jr2025,strong,Toegestane invest-subs 0.122m; tick1055
 bud_ber_consol_bbr_2025,city_berlaar,2025,10137991,,,bbc_jr_realized,src_berlaar_jr2025,strong,Consol BBR GE+OCMW+AG2B 10.14m; tick1055
 bud_ber_consol_afm_2025,city_berlaar,2025,3496129,,,bbc_jr_realized,src_berlaar_jr2025,strong,Consol AFM GE+OCMW+AG2B 3.50m; tick1055
+bud_den_assets_2025,city_denderleeuw,2025,96543555,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Assets YE2025 96.54m slight DROP (was 97.12m); tick1056
+bud_den_equity_2025,city_denderleeuw,2025,66744635,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Nettoactief YE2025 66.74m JUMP (was 65.40m); tick1056
+bud_den_debt_total_2025,city_denderleeuw,2025,29798919,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Total schulden YE2025 29.80m DECLINE (was 31.72m); tick1056
+bud_den_fin_debt_2025,city_denderleeuw,2025,19856795,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Fin debt total YE2025 19.86m DECLINE (was 20.85m T4); tick1056
+bud_den_fin_debt_lt_2025,city_denderleeuw,2025,18666331,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Fin debt LT YE2025 18.67m DECLINE (was 19.68m); tick1056
+bud_den_fin_debt_st_due_2025,city_denderleeuw,2025,1190465,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Fin debt ST due YE2025 1.19m; tick1056
+bud_den_fin_debt_st_2025,city_denderleeuw,2025,0,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Fin debt ST treasury YE2025 0; tick1056
+bud_den_new_loans_2025,city_denderleeuw,2025,181114,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Nieuwe leningen/leasings 0.181m LOW (other entities; bank 0); tick1056
+bud_den_aflossingen_2025,city_denderleeuw,2025,1171679,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Periodieke aflossingen 1.17m HIGH; tick1056
+bud_den_cash_2025,city_denderleeuw,2025,4213830,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Liquide middelen YE2025 4.21m MASSIVE DROP FOI (was 10.25m); tick1056
+bud_den_pension_2025,city_denderleeuw,2025,5657951,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Pensioenvoorzieningen LT YE2025 5.66m DROP FOI (was 6.02m); tick1056
+bud_den_cap_subs_2025,city_denderleeuw,2025,6218650,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Kapitaalsubsidies YE2025 6.22m; tick1056
+bud_den_fva_total_2025,city_denderleeuw,2025,13548098,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,FVA total YE2025 13.55m; tick1056
+bud_den_fva_igs_2025,city_denderleeuw,2025,10811135,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,FVA IGS YE2025 10.81m; tick1056
+bud_den_leasing_mva_2025,city_denderleeuw,2025,1960444,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Leasing MVA YE2025 1.96m; tick1056
+bud_den_expl_rec_2025,city_denderleeuw,2025,37988583,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Exploitatieontvangsten 37.99m; tick1056
+bud_den_expl_exp_2025,city_denderleeuw,2025,33115808,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Exploitatieuitgaven 33.12m; tick1056
+bud_den_expl_saldo_2025,city_denderleeuw,2025,4872775,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Exploitatiesaldo +4.87m STRONG; tick1056
+bud_den_invest_exp_2025,city_denderleeuw,2025,8917841,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Investeringsuitgaven 8.92m vs MJP 16.17m UNDERSPEND FOI; tick1056
+bud_den_invest_rec_2025,city_denderleeuw,2025,778178,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Investeringsontvangsten 0.778m; tick1056
+bud_den_invest_saldo_2025,city_denderleeuw,2025,-8139663,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Investeringssaldo -8.14m; tick1056
+bud_den_mjp_invest_planned_2025,city_denderleeuw,2025,16173992,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,MJP invest planned 16.17m vs realized 8.92m underspend FOI; tick1056
+bud_den_afm_2025,city_denderleeuw,2025,3770116,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,AFM +3.77m VERY STRONG; tick1056
+bud_den_afm_corr_2025,city_denderleeuw,2025,3274007,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Gecorrigeerde AFM +3.27m STRONG; tick1056
+bud_den_bbr_2025,city_denderleeuw,2025,7362040,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,BBR beschikbaar +7.36m VERY HIGH FOI residual; tick1056
+bud_den_budget_result_2025,city_denderleeuw,2025,-4188433,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Budgettair resultaat -4.19m NEG HIGH FOI (vs MJP -11.36m); tick1056
+bud_den_cum_br_2025,city_denderleeuw,2025,7548707,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Gecumuleerd budgettair resultaat +7.55m; tick1056
+bud_den_pnl_2025,city_denderleeuw,2025,1077221,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Equity cum delta +1.08m (cum 3.63 vs 2.55m) proxy P&L STRONG; tick1056
+bud_den_ge_expl_exp_2025,city_denderleeuw,2025,27574075,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,GE exploitatieuitgaven J3 27.57m; tick1056
+bud_den_ge_expl_rec_2025,city_denderleeuw,2025,35290026,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,GE exploitatieontvangsten J3 35.29m; tick1056
+bud_den_ocmw_expl_exp_2025,city_denderleeuw,2025,5541733,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,OCMW exploitatieuitgaven J3 5.54m; tick1056
+bud_den_ocmw_expl_rec_2025,city_denderleeuw,2025,2698557,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,OCMW exploitatieontvangsten J3 2.70m; tick1056
+bud_den_ocmw_expl_gap_2025,city_denderleeuw,2025,-2843176,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,OCMW expl gap -2.84m HIGH FOI residual; tick1056
+bud_den_ocmw_structural_gap_2025,city_denderleeuw,2025,2843176,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,OCMW structural gap 2.84m HIGH FOI residual dual; tick1056
+bud_den_equity_cum_2025,city_denderleeuw,2025,3631212,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Gecumuleerd overschot YE2025 +3.63m IMPROVING (was 2.55m); tick1056
+bud_den_personnel_2025,city_denderleeuw,2025,18519016,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Bezoldigingen 18.52m JUMP FOI; tick1056
+bud_den_edu_pass_through_2025,city_denderleeuw,2025,3080356,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Onderwijzend personeel ten laste andere overheden 3.08m; tick1056
+bud_den_toelagen_2025,city_denderleeuw,2025,4172368,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Toegestane werkingssubsidies 4.17m FOI residual; tick1056
+bud_den_toelagen_police_2025,city_denderleeuw,2025,3048406,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Toelage politiezone 3.05m HIGH FOI; tick1056
+bud_den_toelagen_fire_2025,city_denderleeuw,2025,826902,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Toelage hulpverleningszone 0.827m; tick1056
+bud_den_toelagen_eredienst_2025,city_denderleeuw,2025,94570,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Toelage erediensten 0.095m; tick1056
+bud_den_toelagen_other_2025,city_denderleeuw,2025,202490,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Toelage andere begunstigden 0.202m FOI residual; tick1056
+bud_den_ocmw_aid_2025,city_denderleeuw,2025,2261176,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,OCMW individuele hulp 2.26m; tick1056
+bud_den_fiscal_2025,city_denderleeuw,2025,16515045,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Fiscale opbrengsten 16.52m JUMP; tick1056
+bud_den_fiscal_ov_2025,city_denderleeuw,2025,6200730,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Opcentiemen OV 6.20m; tick1056
+bud_den_fiscal_pb_2025,city_denderleeuw,2025,8356426,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Aanvullende PB 8.36m JUMP; tick1056
+bud_den_gemeentefonds_2025,city_denderleeuw,2025,6044342,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Gemeentefonds 6.04m; tick1056
+bud_den_interest_2025,city_denderleeuw,2025,419478,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Rente banken 0.419m JUMP FOI; tick1056
+bud_den_invest_subs_rec_2025,city_denderleeuw,2025,698605,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Ontvangen invest-subs 0.699m; tick1056
+bud_den_invest_subs_granted_2025,city_denderleeuw,2025,646134,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Toegestane invest-subs 0.646m (police 0.384 fire 0.161); tick1056
+bud_den_vorderingen_kt_2025,city_denderleeuw,2025,6572058,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Vorderingen KT YE2025 6.57m JUMP (was 5.45m); tick1056
+bud_den_cash_drop_2025,city_denderleeuw,2025,6032699,,,bbc_jr_realized,src_denderleeuw_jr2025,strong,Cash DROP magnitude 6.03m (10.25to4.21) HIGH FOI residual; tick1056
