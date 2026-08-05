@@ -21456,3 +21456,47 @@ bud_zhar_werkingsubsidies_total_2025,zorg_harelbeke,2025,8707523,,,jaarrekening_
 bud_zhar_goederen_2025,zorg_harelbeke,2025,4612799,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Goederen en diensten 4.61m; tick946
 bud_zhar_fin_costs_2025,zorg_harelbeke,2025,384883,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Financiele kosten 0.38m; tick946
 bud_zhar_werking_rec_2025,zorg_harelbeke,2025,16375139,,,jaarrekening_realized,src_harelbeke_zorg_jr2025,strong,Ontvangsten uit de werking 16.4m (care tariffs); tick946
+bud_anz_assets_2025,city_anzegem,2025,108040542,,,jaarrekening_realized,src_anzegem_jr2025,strong,Total assets YE2025 108.0m; tick947
+bud_anz_equity_2025,city_anzegem,2025,84871908,,,jaarrekening_realized,src_anzegem_jr2025,strong,Nettoactief YE2025 84.9m; tick947
+bud_anz_debt_total_2025,city_anzegem,2025,23168634,,,jaarrekening_realized,src_anzegem_jr2025,strong,Total schulden YE2025 23.2m DECLINING (was 25.2m); tick947
+bud_anz_fin_debt_2025,city_anzegem,2025,11780759,,,jaarrekening_realized,src_anzegem_jr2025,strong,T4 total financiele schulden YE2025 11.8m DECLINING (LT 10.5 + ST due 1.30); tick947
+bud_anz_fin_debt_lt_2025,city_anzegem,2025,10481456,,,jaarrekening_realized,src_anzegem_jr2025,strong,Financiele schulden LT YE2025 10.5m; tick947
+bud_anz_fin_debt_st_due_2025,city_anzegem,2025,1299303,,,jaarrekening_realized,src_anzegem_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 1.30m; tick947
+bud_anz_fin_debt_2024,city_anzegem,2025,13456716,,,jaarrekening_realized,src_anzegem_jr2025,strong,T4 fin debt YE2024 13.5m comparator; tick947
+bud_anz_pension_prov_2025,city_anzegem,2025,2719858,,,jaarrekening_realized,src_anzegem_jr2025,strong,Pensioenvoorzieningen YE2025 2.72m; tick947
+bud_anz_cash_2025,city_anzegem,2025,19601424,,,jaarrekening_realized,src_anzegem_jr2025,strong,Liquide middelen YE2025 19.6m (was 19.4m); tick947
+bud_anz_cash_2024,city_anzegem,2025,19357015,,,jaarrekening_realized,src_anzegem_jr2025,strong,Liquide middelen YE2024 19.4m; tick947
+bud_anz_cap_subs_2025,city_anzegem,2025,5644326,,,jaarrekening_realized,src_anzegem_jr2025,strong,Kapitaalssubsidies YE2025 5.64m; tick947
+bud_anz_fva_total_2025,city_anzegem,2025,16267461,,,jaarrekening_realized,src_anzegem_jr2025,strong,Financiele vaste activa YE2025 16.3m; tick947
+bud_anz_fva_igs_2025,city_anzegem,2025,13618238,,,jaarrekening_realized,src_anzegem_jr2025,strong,FVA IGS YE2025 13.6m; tick947
+bud_anz_mva_2025,city_anzegem,2025,61765773,,,jaarrekening_realized,src_anzegem_jr2025,strong,Materiele vaste activa YE2025 61.8m; tick947
+bud_anz_leasing_mva_2025,city_anzegem,2025,4058677,,,jaarrekening_realized,src_anzegem_jr2025,strong,Leasing MVA 4.06m; tick947
+bud_anz_expl_rec_2025,city_anzegem,2025,28151909,,,jaarrekening_realized,src_anzegem_jr2025,strong,Exploitatieontvangsten 28.2m; tick947
+bud_anz_expl_exp_2025,city_anzegem,2025,23427269,,,jaarrekening_realized,src_anzegem_jr2025,strong,Exploitatieuitgaven 23.4m; tick947
+bud_anz_expl_saldo_2025,city_anzegem,2025,4724640,,,jaarrekening_realized,src_anzegem_jr2025,strong,Exploitatiesaldo +4.72m; tick947
+bud_anz_invest_exp_2025,city_anzegem,2025,2923158,,,jaarrekening_realized,src_anzegem_jr2025,strong,Investeringsuitgaven 2.92m (MJP 12.37m 24pct FOI); tick947
+bud_anz_invest_rec_2025,city_anzegem,2025,388318,,,jaarrekening_realized,src_anzegem_jr2025,strong,Investeringsontvangsten 0.39m; tick947
+bud_anz_invest_saldo_2025,city_anzegem,2025,-2534840,,,jaarrekening_realized,src_anzegem_jr2025,strong,Investeringssaldo -2.53m; tick947
+bud_anz_mjp_invest_planned_2025,city_anzegem,2025,12370312,,,jaarrekening_realized,src_anzegem_jr2025,strong,MJP planned invest 12.37m vs realized 2.92m large underspend FOI; tick947
+bud_anz_fin_rec_2025,city_anzegem,2025,424946,,,jaarrekening_realized,src_anzegem_jr2025,strong,Financieringsontvangsten 0.42m; tick947
+bud_anz_fin_exp_2025,city_anzegem,2025,1714986,,,jaarrekening_realized,src_anzegem_jr2025,strong,Financieringsuitgaven 1.71m; tick947
+bud_anz_new_loans_2025,city_anzegem,2025,28402,,,jaarrekening_realized,src_anzegem_jr2025,strong,Nieuwe leningen 0.028m lease only; tick947
+bud_anz_aflossingen_2025,city_anzegem,2025,1704359,,,jaarrekening_realized,src_anzegem_jr2025,strong,Periodieke aflossingen 1.70m; tick947
+bud_anz_loan_recoveries_2025,city_anzegem,2025,136419,,,jaarrekening_realized,src_anzegem_jr2025,strong,Periodieke terugvordering ~0.136m; tick947
+bud_anz_afm_2025,city_anzegem,2025,3156699,,,jaarrekening_realized,src_anzegem_jr2025,strong,AFM +3.16m; tick947
+bud_anz_bbr_2025,city_anzegem,2025,19776732,,,jaarrekening_realized,src_anzegem_jr2025,strong,Beschikbaar budgettair resultaat 19.8m; tick947
+bud_anz_budget_result_2025,city_anzegem,2025,899759,,,jaarrekening_realized,src_anzegem_jr2025,strong,Budgettair resultaat boekjaar +0.90m; tick947
+bud_anz_cum_br_2025,city_anzegem,2025,19776732,,,jaarrekening_realized,src_anzegem_jr2025,strong,Gecumuleerd budgettair resultaat 19.8m; tick947
+bud_anz_pnl_result_2025,city_anzegem,2025,1884593,,,jaarrekening_realized,src_anzegem_jr2025,strong,P&L boekjaar +1.88m; tick947
+bud_anz_personnel_2025,city_anzegem,2025,13002416,,,jaarrekening_realized,src_anzegem_jr2025,strong,Personeelskosten 13.0m; tick947
+bud_anz_toelagen_2025,city_anzegem,2025,3795717,,,jaarrekening_realized,src_anzegem_jr2025,strong,Toegestane werkingssubsidies 3.80m FOI named; tick947
+bud_anz_toelagen_police_2025,city_anzegem,2025,1378163,,,jaarrekening_realized,src_anzegem_jr2025,strong,Toelagen politiezone 1.38m; tick947
+bud_anz_toelagen_hvz_2025,city_anzegem,2025,373964,,,jaarrekening_realized,src_anzegem_jr2025,strong,Toelagen HVZ 0.37m; tick947
+bud_anz_toelagen_igs_2025,city_anzegem,2025,1280872,,,jaarrekening_realized,src_anzegem_jr2025,strong,Toelagen IGS 1.28m FOI; tick947
+bud_anz_toelagen_other_2025,city_anzegem,2025,652375,,,jaarrekening_realized,src_anzegem_jr2025,strong,Toelagen andere 0.65m FOI; tick947
+bud_anz_invest_subs_granted_2025,city_anzegem,2025,115041,,,jaarrekening_realized,src_anzegem_jr2025,strong,Toegestane investeringssubsidies 0.115m FOI; tick947
+bud_anz_ocmw_aid_2025,city_anzegem,2025,1287937,,,jaarrekening_realized,src_anzegem_jr2025,strong,Individuele hulpverlening OCMW 1.29m rising FOI; tick947
+bud_anz_fiscal_2025,city_anzegem,2025,15365651,,,jaarrekening_realized,src_anzegem_jr2025,strong,Fiscale opbrengsten 15.4m; tick947
+bud_anz_fin_costs_2025,city_anzegem,2025,179014,,,jaarrekening_realized,src_anzegem_jr2025,strong,Financiele kosten 0.18m; tick947
+bud_anz_goederen_2025,city_anzegem,2025,4923271,,,jaarrekening_realized,src_anzegem_jr2025,strong,Goederen en diensten 4.92m; tick947
+bud_anz_minderwaarden_2025,city_anzegem,2025,332465,,,jaarrekening_realized,src_anzegem_jr2025,strong,J5 minderwaarden realisatie VA 0.33m FOI; tick947

@@ -11995,3 +11995,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +37 (bud_zhar_*); commitments +4; leaderboard +7; sources +1; entity zorg_harelbeke; FOI **gap_zhar_debt_ocmw_subsidy_werkkapitaal_l5** prio8 ready + draft; key only; rq_946=done; spawn **rq_947**; ticks=946
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_947** residual dual L5 (Torhout / Anzegem / Roeselare / Wingene / other unmined VL JR2025); deferred **rq_116**; progress@950 in 4
+
+
+### Tick 947 - 2026-08-07T22:15:00Z
+
+- Unit: **rq_947** (FOI-adjacent residual dual - **Gemeente+OCMW Anzegem Jaarrekening 2025** + Zorgbedrijf Harelbeke dual residual)
+- Found (strong primary BBC JR2025 157p; KBO 0207.484.780 / OCMW 0212.235.703; GR/OCMW 9.06.2026):
+  - Assets **EUR108.0m** / equity **EUR84.9m** / debt total **EUR23.2m** / fin debt **EUR11.8m** (**DECLINING** from **EUR13.5m**; LT **EUR10.5m** / ST due **EUR1.30m**)
+  - New loans **EUR0.028m** lease only / repayments **EUR1.70m**
+  - Cash **EUR19.6m** / pension **EUR2.72m**
+  - Exploitatie: ontvangsten **EUR28.2m** / uitgaven **EUR23.4m** / saldo **+EUR4.72m**
+  - AFM **+EUR3.16m** / BBR **EUR19.8m** / budget **+EUR0.90m** / P&L **+EUR1.88m**
+  - Personnel **EUR13.0m** / toelagen **EUR3.80m** (police **EUR1.38m** / HVZ **EUR0.37m** / IGS **EUR1.28m FOI** / other **EUR0.65m**)
+  - Invest **EUR2.92m** vs MJP **EUR12.37m only 24pct FOI** / OCMW aid **EUR1.29m rising FOI** / minderwaarden **EUR0.33m FOI** / fiscal **EUR15.4m**
+- Dual: Zorgbedrijf Harelbeke **EUR44.2m** / fin debt **EUR16.0m** / OCMW subsidies **EUR4.58m** (tick946) - not TE-additive
+- Wrote: budgets +44 (bud_anz_*); commitments +4; leaderboard +7; sources +2; entity city_anzegem; FOI **gap_anz_invest_toelagen_debt_l5** prio8 ready + draft; key only (PDF ~16MB not stored); rq_947=done; spawn **rq_948**; ticks=947
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_948** residual dual L5 (Torhout / Roeselare / Wingene / other unmined VL JR2025); deferred **rq_116**; progress@950 in 3
