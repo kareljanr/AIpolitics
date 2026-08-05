@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T07:15:00Z,rq_917,917,no,tick917 Bever JR2025 dual Kinrooi; FOI gap_bev_school_loans_pipeline_l5 prio8 school 3.69m loans 1.25m debt 2.50m AFM +0.97m; next residual dual L5 rq_918; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T07:45:00Z,rq_918,918,no,tick918 Landen JR2025 dual Bever; FOI gap_lan_plopsa_toelagen_mjp_l5 prio8 Plopsa 0.52m debt declining 27m AFM +2.77m BBR 15m; next residual dual L5 rq_919; rq_116 deferred

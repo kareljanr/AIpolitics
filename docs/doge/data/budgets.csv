@@ -20321,3 +20321,45 @@ bud_bev_ocmw_cover_2025,city_bever,2025,212473,,,jaarrekening_realized,src_bever
 bud_bev_pl_2025,city_bever,2025,667495,,,jaarrekening_realized,src_bever_jr2025,strong,P&L boekjaar 2025 +0.667m; tick917
 bud_bev_mjp_fin_debt_2026,city_bever,2025,2220477,,,jaarrekening_realized,src_bever_jr2025,strong,MJP projected fin debt YE2026 2.220m; tick917
 bud_bev_pension_insurance_budget_2025,city_bever,2025,250000,,,jaarrekening_realized,src_bever_jr2025,strong,Pension insurance dossier not closed ~0.250m budget underrun FOI; tick917
+bud_lan_assets_2025,city_landen,2025,101347443,,,jaarrekening_realized,src_landen_jr2025,strong,Consol total assets YE2025 101.347m; tick918
+bud_lan_equity_2025,city_landen,2025,65035061,,,jaarrekening_realized,src_landen_jr2025,strong,Nettoactief YE2025 65.035m; tick918
+bud_lan_debt_total_2025,city_landen,2025,36312382,,,jaarrekening_realized,src_landen_jr2025,strong,Total schulden YE2025 36.312m; tick918
+bud_lan_fin_debt_2025,city_landen,2025,27046050,,,jaarrekening_realized,src_landen_jr2025,strong,Fin debt total YE2025 27.046m (was 29.409m DECLINING); tick918
+bud_lan_fin_debt_lt_2025,city_landen,2025,24784088,,,jaarrekening_realized,src_landen_jr2025,strong,Fin debt LT YE2025 24.784m; tick918
+bud_lan_fin_debt_st_due_2025,city_landen,2025,2261962,,,jaarrekening_realized,src_landen_jr2025,strong,Fin debt ST due YE2025 2.262m; tick918
+bud_lan_new_loans_2025,city_landen,2025,95820,,,jaarrekening_realized,src_landen_jr2025,strong,New loans/leasings 2025 0.096m (no bank draw); tick918
+bud_lan_repayments_2025,city_landen,2025,2458846,,,jaarrekening_realized,src_landen_jr2025,strong,Periodieke aflossingen 2025 2.459m; tick918
+bud_lan_loan_recoveries_2025,city_landen,2025,535562,,,jaarrekening_realized,src_landen_jr2025,strong,Periodieke terugvordering leningen 2025 0.536m; tick918
+bud_lan_cash_2025,city_landen,2025,13504702,,,jaarrekening_realized,src_landen_jr2025,strong,Liquide middelen YE2025 13.505m (was 15.043m DROP); tick918
+bud_lan_pension_2025,city_landen,2025,2664447,,,jaarrekening_realized,src_landen_jr2025,strong,Pension provisions YE2025 2.664m; tick918
+bud_lan_fva_igs_2025,city_landen,2025,8399643,,,jaarrekening_realized,src_landen_jr2025,strong,FVA IGS YE2025 8.400m; tick918
+bud_lan_expl_receipts_2025,city_landen,2025,40341787,,,jaarrekening_realized,src_landen_jr2025,strong,Exploitatie ontvangsten 2025 40.342m; tick918
+bud_lan_expl_expenses_2025,city_landen,2025,35649256,,,jaarrekening_realized,src_landen_jr2025,strong,Exploitatie uitgaven 2025 35.649m; tick918
+bud_lan_expl_saldo_2025,city_landen,2025,4692531,,,jaarrekening_realized,src_landen_jr2025,strong,Exploitatiesaldo 2025 +4.693m; tick918
+bud_lan_invest_exp_2025,city_landen,2025,4100474,,,jaarrekening_realized,src_landen_jr2025,strong,Invest uitgaven 2025 4.100m; tick918
+bud_lan_invest_rec_2025,city_landen,2025,1573928,,,jaarrekening_realized,src_landen_jr2025,strong,Invest ontvangsten 2025 1.574m; tick918
+bud_lan_invest_saldo_2025,city_landen,2025,-2526547,,,jaarrekening_realized,src_landen_jr2025,strong,Invest saldo 2025 -2.527m; tick918
+bud_lan_fin_receipts_2025,city_landen,2025,293725,,,jaarrekening_realized,src_landen_jr2025,strong,Financiering ontvangsten 2025 0.294m; tick918
+bud_lan_fin_expenses_2025,city_landen,2025,2458846,,,jaarrekening_realized,src_landen_jr2025,strong,Financiering uitgaven 2025 2.459m; tick918
+bud_lan_budget_result_2025,city_landen,2025,864,,,jaarrekening_realized,src_landen_jr2025,strong,Budgettair resultaat 2025 +0.001m (near zero); tick918
+bud_lan_bbr_2025,city_landen,2025,15045123,,,jaarrekening_realized,src_landen_jr2025,strong,Beschikbaar budgettair resultaat YE2025 15.045m; tick918
+bud_lan_unavailable_2025,city_landen,2025,981393,,,jaarrekening_realized,src_landen_jr2025,strong,Onbeschikbare gelden YE2025 0.981m; tick918
+bud_lan_afm_2025,city_landen,2025,2769248,,,jaarrekening_realized,src_landen_jr2025,strong,AFM 2025 +2.769m; tick918
+bud_lan_afm_gecorr_2025,city_landen,2025,2875367,,,jaarrekening_realized,src_landen_jr2025,strong,Gecorrigeerde AFM 2025 +2.875m; tick918
+bud_lan_personnel_2025,city_landen,2025,19613100,,,jaarrekening_realized,src_landen_jr2025,strong,Bezoldigingen/sociale/pensioenen 2025 19.613m; tick918
+bud_lan_toelagen_2025,city_landen,2025,5011739,,,jaarrekening_realized,src_landen_jr2025,strong,Toegestane werkingssubsidies 2025 5.012m; tick918
+bud_lan_toelagen_police_2025,city_landen,2025,2284400,,,jaarrekening_realized,src_landen_jr2025,strong,Toelage politiezone 2025 2.284m; tick918
+bud_lan_toelagen_other_2025,city_landen,2025,1128991,,,jaarrekening_realized,src_landen_jr2025,strong,Toelage andere begunstigden 2025 1.129m FOI; tick918
+bud_lan_toelagen_plopsa_2025,city_landen,2025,520303,,,jaarrekening_realized,src_landen_jr2025,strong,Toelage Plopsa 2025 0.520m FOI (indexed); tick918
+bud_lan_toelagen_hvz_2025,city_landen,2025,957576,,,jaarrekening_realized,src_landen_jr2025,strong,Toelage hulpverleningszone 2025 0.958m; tick918
+bud_lan_toelagen_eredienst_2025,city_landen,2025,315305,,,jaarrekening_realized,src_landen_jr2025,strong,Toelage eredienst 2025 0.315m; tick918
+bud_lan_toelagen_agb_2025,city_landen,2025,243070,,,jaarrekening_realized,src_landen_jr2025,strong,Toelage AGB 2025 0.243m; tick918
+bud_lan_toelagen_igs_2025,city_landen,2025,82398,,,jaarrekening_realized,src_landen_jr2025,strong,Toelage IGS 2025 0.082m; tick918
+bud_lan_fiscal_2025,city_landen,2025,16577712,,,jaarrekening_realized,src_landen_jr2025,strong,Fiscale ontvangsten en boetes 2025 16.578m; tick918
+bud_lan_gemeentefonds_2025,city_landen,2025,5091386,,,jaarrekening_realized,src_landen_jr2025,strong,Gemeentefonds 2025 5.091m; tick918
+bud_lan_invest_subs_2025,city_landen,2025,315922,,,jaarrekening_realized,src_landen_jr2025,strong,Toegestane investeringssubsidies 2025 0.316m; tick918
+bud_lan_pl_2025,city_landen,2025,1835844,,,jaarrekening_realized,src_landen_jr2025,strong,P&L boekjaar 2025 +1.836m; tick918
+bud_lan_mjp_new_loans_2027,city_landen,2025,5433568,,,jaarrekening_realized,src_landen_jr2025,strong,MJP new loans 2027 5.434m FOI; tick918
+bud_lan_mjp_fin_debt_2027,city_landen,2025,28162445,,,jaarrekening_realized,src_landen_jr2025,strong,MJP projected fin debt YE2027 28.162m; tick918
+bud_lan_agb_bbr_2025,city_landen,2025,138951,,,jaarrekening_realized,src_landen_jr2025,strong,AGB BBR YE2025 0.139m; tick918
+bud_lan_individual_aid_2025,city_landen,2025,2244031,,,jaarrekening_realized,src_landen_jr2025,strong,Individuele hulpverlening OCMW 2025 2.244m; tick918

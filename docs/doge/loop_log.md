@@ -11505,3 +11505,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +38 (bud_bev_*); commitments +4; leaderboard +7; sources +2; entity city_bever; FOI **gap_bev_school_loans_pipeline_l5** prio8 ready + draft; raw PDF + key; rq_917=done; spawn **rq_918**; ticks=917
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_918** residual dual L5 (Landen/Kapellen/Roeselare/Wellen); deferred **rq_116**; progress@920 in 3
+
+### Tick 918 - 2026-08-07T07:45:00Z
+
+- Unit: **rq_918** (FOI-adjacent residual dual - **Stad+OCMW Landen Jaarrekening 2025** + Bever dual)
+- Found (strong primary BBC JR2025 107p):
+  - Assets **EUR101.3m** / equity **EUR65.0m** / debt total **EUR36.3m** / fin debt **EUR27.0m** (**DECLINING** from **EUR29.4m**; LT **EUR24.8m** / ST due **EUR2.26m**)
+  - New loans **EUR0.10m** (no bank draw) / repayments **EUR2.46m** / cash **EUR13.5m** (was **EUR15.0m DROP**)
+  - Pension **EUR2.66m**
+  - Exploitatie: ontvangsten **EUR40.3m** / uitgaven **EUR35.6m** / saldo **+EUR4.69m**
+  - AFM **+EUR2.77m** (gecorr **+EUR2.88m**) / BBR **EUR15.0m** / onbeschikbaar **EUR0.98m** / budget result **+EUR0.001m** / P&L **+EUR1.84m**
+  - Personnel **EUR19.6m** / toelagen **EUR5.01m** (police **EUR2.28m** / HVZ **EUR0.96m** / other **EUR1.13m** incl **Plopsa EUR0.52m FOI**) / fiscal **EUR16.6m**
+  - Invest **EUR4.10m** / gemeentefonds **EUR5.09m**
+  - **MJP new loans 2027 EUR5.43m FOI** (re-leverage risk)
+- Dual: Bever **EUR21.3m** / school **EUR3.69m** / loans **EUR1.25m** (tick917) - not TE-additive
+- Wrote: budgets +42 (bud_lan_*); commitments +4; leaderboard +7; sources +2; entity city_landen; FOI **gap_lan_plopsa_toelagen_mjp_l5** prio8 ready + draft; raw PDF + key; rq_918=done; spawn **rq_919**; ticks=918
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_919** residual dual L5 (Wellen PDF cached / Kapellen / Roeselare); deferred **rq_116**; progress@920 in 2
