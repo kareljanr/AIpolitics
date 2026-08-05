@@ -10933,3 +10933,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +36 (ud_gv_*); commitments +4; leaderboard +7; sources +2; entity city_gavere; FOI **gap_gavere_loans_pension_l5** prio7 ready + draft; key extract (no 66MB PDF in git); rq_881=done; spawn **rq_882**; ticks=881
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_882** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/Mortsel/As/VUB/skeyes); deferred **rq_116**; progress@890 in 9
+
+## Tick 882 - 2026-08-06T14:00:00Z
+
+- Unit: **rq_882** (FOI-adjacent residual dual - **Gemeente+OCMW As Jaarrekening 2025** + Gavere dual)
+- Found (strong primary BBC JR2025 66p):
+  - Assets **EUR65.6m** / equity **EUR62.4m** / debt total **EUR3.2m** / fin debt **EUR0.84m** (LT **EUR0.76m** / ST due **EUR0.07m**)
+  - **New loans/leasings EUR0.28m** / pension **EUR1.1m** / cash **EUR9.4m** / FVA IGS **EUR13.8m** (was **EUR8.2m**) / herwaard **EUR5.6m**
+  - Exploitatie: ontvangsten **EUR16.0m** / uitgaven **EUR14.0m** / saldo **+EUR2.1m**
+  - AFM **+EUR2.0m** (gecorr **+EUR2.0m**) / BBR **EUR9.0m** / budget result **+EUR0.21m** / P&L **+EUR0.59m**
+  - Personnel **EUR7.9m** / toelagen **EUR2.2m** (police **EUR0.99m** / fire **EUR0.31m** / IGS **EUR0.61m** / other **EUR0.23m**) / fiscal **EUR6.4m**
+  - Invest **EUR2.8m** / **invest-subs EUR0.55m** (Riopact FOI) / gemeentefonds **EUR2.6m**
+- Dual: Gavere **EUR84.3m** / AFM **+EUR2.9m** / new loans **EUR2.43m** (tick881) - not TE-additive
+- Wrote: budgets +39 (bud_as_*); commitments +4; leaderboard +7; sources +2; entity city_as; FOI **gap_as_riopact_fva_toelagen_l5** prio7 ready + draft; raw PDF + key; rq_882=done; spawn **rq_883**; ticks=882
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_883** residual dual L5 (Roeselare/Lier portal/Sint-Truiden/Beveren-BKZ/Mortsel/VUB/skeyes); deferred **rq_116**; progress@890 in 8

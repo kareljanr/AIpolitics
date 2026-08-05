@@ -18978,3 +18978,42 @@ bud_gv_fiscal_apb_2025,city_gavere,2025,6834940,,,jaarrekening_realized,src_gave
 bud_gv_gemeentefonds_2025,city_gavere,2025,3393013,,,jaarrekening_realized,src_gavere_jr2025,strong,Gemeentefonds 3.393m 2025; tick881
 bud_gv_invest_subs_granted_2025,city_gavere,2025,529409,,,jaarrekening_realized,src_gavere_jr2025,strong,Toegestane investeringssubsidies 0.529m 2025; tick881
 bud_gv_new_loans_2025,city_gavere,2025,2430227,,,jaarrekening_realized,src_gavere_jr2025,strong,Nieuwe leningen 2.430m 2025 FOI-adjacent; tick881
+bud_as_assets_2025,city_as,2025,65598359,,,jaarrekening_realized,src_as_jr2025,strong,Consol total assets YE2025 65.598m; tick882
+bud_as_equity_2025,city_as,2025,62356908,,,jaarrekening_realized,src_as_jr2025,strong,Nettoactief YE2025 62.357m; tick882
+bud_as_debt_total_2025,city_as,2025,3241451,,,jaarrekening_realized,src_as_jr2025,strong,Schulden total YE2025 3.241m; tick882
+bud_as_fin_debt_2025,city_as,2025,838113,,,jaarrekening_realized,src_as_jr2025,strong,Fin schulden total YE2025 0.838m (LT 0.765 + ST due 0.073); tick882
+bud_as_fin_debt_lt_2025,city_as,2025,764810,,,jaarrekening_realized,src_as_jr2025,strong,Fin schulden LT YE2025 0.765m (was 0.569m); tick882
+bud_as_fin_debt_st_2025,city_as,2025,73303,,,jaarrekening_realized,src_as_jr2025,strong,Fin schulden LT binnen jaar YE2025 0.073m; tick882
+bud_as_pension_prov_2025,city_as,2025,1111580,,,jaarrekening_realized,src_as_jr2025,strong,Pensioenvoorzieningen YE2025 1.112m (was 1.077m); tick882
+bud_as_cash_2025,city_as,2025,9408864,,,jaarrekening_realized,src_as_jr2025,strong,Liquide middelen YE2025 9.409m; tick882
+bud_as_cap_subs_2025,city_as,2025,8318018,,,jaarrekening_realized,src_as_jr2025,strong,Kapitaalsubsidies YE2025 8.318m; tick882
+bud_as_fva_igs_2025,city_as,2025,13822222,,,jaarrekening_realized,src_as_jr2025,strong,Fin VA IGS YE2025 13.822m (was 8.189m reval FOI); tick882
+bud_as_fva_total_2025,city_as,2025,14848781,,,jaarrekening_realized,src_as_jr2025,strong,Fin VA total YE2025 14.849m; tick882
+bud_as_herwaard_2025,city_as,2025,5636456,,,jaarrekening_realized,src_as_jr2025,strong,Herwaarderingsreserves YE2025 5.636m (was 5.811); tick882
+bud_as_cumul_budget_2025,city_as,2025,9843319,,,jaarrekening_realized,src_as_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 9.843m; tick882
+bud_as_bbr_2025,city_as,2025,9021331,,,jaarrekening_realized,src_as_jr2025,strong,Beschikbaar budgettair resultaat YE2025 9.021m; tick882
+bud_as_expl_rec_2025,city_as,2025,16024396,,,jaarrekening_realized,src_as_jr2025,strong,Exploitatieontvangsten 16.024m 2025; tick882
+bud_as_expl_exp_2025,city_as,2025,13965275,,,jaarrekening_realized,src_as_jr2025,strong,Exploitatieuitgaven 13.965m 2025; tick882
+bud_as_expl_saldo_2025,city_as,2025,2059120,,,jaarrekening_realized,src_as_jr2025,strong,Exploitatiesaldo +2.059m 2025; tick882
+bud_as_invest_exp_2025,city_as,2025,2834979,,,jaarrekening_realized,src_as_jr2025,strong,Investeringsuitgaven 2.835m 2025; tick882
+bud_as_invest_rec_2025,city_as,2025,736902,,,jaarrekening_realized,src_as_jr2025,strong,Investeringsontvangsten 0.737m 2025; tick882
+bud_as_invest_saldo_2025,city_as,2025,-2098077,,,jaarrekening_realized,src_as_jr2025,strong,Investeringssaldo -2.098m 2025; tick882
+bud_as_fin_saldo_2025,city_as,2025,244263,,,jaarrekening_realized,src_as_jr2025,strong,Financieringssaldo +0.244m 2025; tick882
+bud_as_budget_result_2025,city_as,2025,205306,,,jaarrekening_realized,src_as_jr2025,strong,Budgettair resultaat boekjaar +0.205m 2025; tick882
+bud_as_afm_2025,city_as,2025,2022237,,,jaarrekening_realized,src_as_jr2025,strong,Autofinancieringsmarge +2.022m 2025; tick882
+bud_as_afm_gecorr_2025,city_as,2025,2038292,,,jaarrekening_realized,src_as_jr2025,strong,Gecorrigeerde AFM +2.038m 2025; tick882
+bud_as_pl_2025,city_as,2025,594669,,,jaarrekening_realized,src_as_jr2025,strong,P&L overschot +0.595m 2025; tick882
+bud_as_personnel_2025,city_as,2025,7886253,,,jaarrekening_realized,src_as_jr2025,strong,Bezoldigingen 7.886m 2025 (incl onderwijs other ~2.454m); tick882
+bud_as_personnel_onderwijs_other_2025,city_as,2025,2454285,,,jaarrekening_realized,src_as_jr2025,strong,Onderwijzend personeel ten laste van andere ~2.454m 2025; tick882
+bud_as_toelagen_2025,city_as,2025,2214831,,,jaarrekening_realized,src_as_jr2025,strong,Toegestane werkingssubsidies 2.215m 2025; tick882
+bud_as_toelagen_police_2025,city_as,2025,985801,,,jaarrekening_realized,src_as_jr2025,strong,Toelage politiezone 0.986m 2025; tick882
+bud_as_toelagen_fire_2025,city_as,2025,312791,,,jaarrekening_realized,src_as_jr2025,strong,Toelage hulpverleningszone 0.313m 2025; tick882
+bud_as_toelagen_igs_2025,city_as,2025,611561,,,jaarrekening_realized,src_as_jr2025,strong,Toelage IGS 0.612m 2025; tick882
+bud_as_toelagen_other_2025,city_as,2025,233666,,,jaarrekening_realized,src_as_jr2025,strong,Toelagen andere begunstigden 0.234m 2025; tick882
+bud_as_ocmw_aid_2025,city_as,2025,588434,,,jaarrekening_realized,src_as_jr2025,strong,Individuele hulpverlening OCMW 0.588m 2025; tick882
+bud_as_fiscal_2025,city_as,2025,6443539,,,jaarrekening_realized,src_as_jr2025,strong,Fiscale opbrengsten 6.444m 2025; tick882
+bud_as_fiscal_ov_2025,city_as,2025,1748493,,,jaarrekening_realized,src_as_jr2025,strong,Opcentiemen OV 1.748m 2025; tick882
+bud_as_fiscal_apb_2025,city_as,2025,3507728,,,jaarrekening_realized,src_as_jr2025,strong,Aanvullende PB 3.508m 2025; tick882
+bud_as_gemeentefonds_2025,city_as,2025,2565434,,,jaarrekening_realized,src_as_jr2025,strong,Gemeentefonds 2.565m 2025; tick882
+bud_as_invest_subs_granted_2025,city_as,2025,550000,,,jaarrekening_realized,src_as_jr2025,strong,Toegestane investeringssubsidies 0.550m 2025 (Riopact FOI-adjacent); tick882
+bud_as_new_loans_2025,city_as,2025,281146,,,jaarrekening_realized,src_as_jr2025,strong,Nieuwe leningen/leasings 0.281m 2025; tick882
