@@ -10724,3 +10724,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +42; commitments +4; leaderboard +7; sources +2; entity city_halle; FOI **gap_halle_debt_loans_l5** prio8 ready + draft; raw PDF+extract; rq_867=done; spawn **rq_868**; ticks=867
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_868** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/Zottegem/VUB/skeyes); deferred **rq_116**; progress@870 in 3
+
+## Tick 868 - 2026-08-06T07:00:00Z
+
+- Unit: **rq_868** (FOI-adjacent residual dual - **Gemeente+OCMW Bocholt Jaarrekening 2025** + Halle dual)
+- Found (strong primary BBC JR2025 142p, pub 2026-06 class):
+  - Assets **EUR131.4m** / equity **EUR99.5m** / debt total **EUR31.9m** / fin debt **EUR17.9m** (LT **EUR16.2m** / ST due **EUR1.7m**; was **EUR15.7m**)
+  - Pension **EUR9.9m** / cash **EUR8.9m** / cap subs **EUR13.4m** / FVA IGS **EUR39.9m** (was **EUR19.3m**) / herwaard **EUR20.6m** / onbeschikbaar **EUR2.1m**
+  - Exploitatie: ontvangsten **EUR26.4m** / uitgaven **EUR22.6m** / saldo **+EUR3.9m**
+  - AFM **+EUR3.1m** (gecorr **+EUR3.4m**) / BBR **EUR7.6m** / budget result **+EUR3.4m** / P&L **+EUR0.4m**
+  - Personnel **EUR11.0m** / toelagen **EUR6.1m** (police **EUR1.8m** / AGB **EUR1.2m** / other **EUR1.1m** / IGS **EUR0.9m** / fire **EUR0.6m**) / OCMW aid **EUR1.3m** / fiscal **EUR14.4m**
+  - Invest **EUR4.5m** / new loans **EUR3.8m** (bank **EUR3.0m**) / gemeentefonds **EUR4.9m** / AGB consol BBR **EUR-2.4m**
+- Dual: Halle **EUR289m** / fin debt **EUR30m** / AFM **+EUR11.0m** (tick867) - not TE-additive
+- Wrote: budgets +44; commitments +4; leaderboard +7; sources +2; entity city_bocholt; FOI **gap_bocholt_igs_agb_l5** prio7 ready + draft; raw PDF+extract; rq_868=done; spawn **rq_869**; ticks=868
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_869** residual dual L5 (Roeselare/Lier/Sint-Truiden/Beveren/Zottegem/VUB/skeyes); deferred **rq_116**; progress@870 in 2

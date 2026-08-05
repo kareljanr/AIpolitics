@@ -18505,3 +18505,47 @@ bud_ha_mjp2027_new_loans_plan,city_halle,2025,22985383,,,plan,src_halle_jr2025,s
 bud_ha_pl_costs_2025,city_halle,2025,93004691,,,outturn,src_halle_jr2025,strong,Staat kosten total 93.005m 2025; tick867
 bud_ha_pl_opbrengsten_2025,city_halle,2025,97308155,,,outturn,src_halle_jr2025,strong,Staat opbrengsten total 97.308m 2025; tick867
 bud_ha_pl_result_2025,city_halle,2025,4303464,,,outturn,src_halle_jr2025,strong,Boekhoudkundig overschot +4.303m 2025; tick867
+bud_bo_assets_2025,city_bocholt,2025,131374135,,,stock,src_bocholt_jr2025,strong,Consol gemeente+OCMW total assets YE2025 131.374m; tick868
+bud_bo_equity_2025,city_bocholt,2025,99456179,,,stock,src_bocholt_jr2025,strong,Nettoactief YE2025 99.456m; tick868
+bud_bo_debt_total_2025,city_bocholt,2025,31917956,,,stock,src_bocholt_jr2025,strong,Schulden total YE2025 31.918m; tick868
+bud_bo_fin_debt_2025,city_bocholt,2025,17910509,,,stock,src_bocholt_jr2025,strong,Financiele schulden total YE2025 17.911m (LT 16.247 + ST due 1.664); tick868
+bud_bo_fin_debt_lt_2025,city_bocholt,2025,16246975,,,stock,src_bocholt_jr2025,strong,Financiele schulden LT YE2025 16.247m; tick868
+bud_bo_fin_debt_st_2025,city_bocholt,2025,1663534,,,stock,src_bocholt_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.664m; tick868
+bud_bo_pension_prov_2025,city_bocholt,2025,9853030,,,stock,src_bocholt_jr2025,strong,Pensioenvoorzieningen YE2025 9.853m; tick868
+bud_bo_cash_2025,city_bocholt,2025,8854735,,,stock,src_bocholt_jr2025,strong,Liquide middelen YE2025 8.855m; tick868
+bud_bo_cap_subs_2025,city_bocholt,2025,13431587,,,stock,src_bocholt_jr2025,strong,Kapitaalsubsidies YE2025 13.432m; tick868
+bud_bo_fva_igs_2025,city_bocholt,2025,39881787,,,stock,src_bocholt_jr2025,strong,Fin VA IGS YE2025 39.882m (was 19.270m; reval FOI-adjacent); tick868
+bud_bo_reval_reserves_2025,city_bocholt,2025,20623305,,,stock,src_bocholt_jr2025,strong,Herwaarderingsreserves YE2025 20.623m (was 0.011m); tick868
+bud_bo_onbeschikbaar_2025,city_bocholt,2025,2114562,,,stock,src_bocholt_jr2025,strong,Onbeschikbare gelden YE2025 2.115m; tick868
+bud_bo_cumul_surplus_2025,city_bocholt,2025,13232114,,,stock,src_bocholt_jr2025,strong,Gecumuleerd overschot YE2025 13.232m; tick868
+bud_bo_expl_rec_2025,city_bocholt,2025,26427842,,,outturn,src_bocholt_jr2025,strong,Exploitatieontvangsten 26.428m 2025; tick868
+bud_bo_expl_exp_2025,city_bocholt,2025,22562381,,,outturn,src_bocholt_jr2025,strong,Exploitatieuitgaven 22.562m 2025; tick868
+bud_bo_expl_saldo_2025,city_bocholt,2025,3865461,,,outturn,src_bocholt_jr2025,strong,Exploitatiesaldo +3.865m 2025; tick868
+bud_bo_invest_exp_2025,city_bocholt,2025,4501857,,,outturn,src_bocholt_jr2025,strong,Investeringsuitgaven 4.502m 2025; tick868
+bud_bo_invest_rec_2025,city_bocholt,2025,1620510,,,outturn,src_bocholt_jr2025,strong,Investeringsontvangsten 1.621m 2025; tick868
+bud_bo_invest_saldo_2025,city_bocholt,2025,-2881347,,,outturn,src_bocholt_jr2025,strong,Investeringssaldo -2.881m 2025; tick868
+bud_bo_fin_rec_2025,city_bocholt,2025,4558122,,,outturn,src_bocholt_jr2025,strong,Financieringsontvangsten 4.558m 2025; tick868
+bud_bo_fin_exp_2025,city_bocholt,2025,2155027,,,outturn,src_bocholt_jr2025,strong,Financieringsuitgaven 2.155m 2025; tick868
+bud_bo_fin_saldo_2025,city_bocholt,2025,2403094,,,outturn,src_bocholt_jr2025,strong,Financieringssaldo +2.403m 2025; tick868
+bud_bo_budget_result_2025,city_bocholt,2025,3387208,,,outturn,src_bocholt_jr2025,strong,Budgettair resultaat boekjaar +3.387m 2025; tick868
+bud_bo_bbr_2025,city_bocholt,2025,7609183,,,outturn,src_bocholt_jr2025,strong,Beschikbaar budgettair resultaat 7.609m YE2025; tick868
+bud_bo_afm_2025,city_bocholt,2025,3060074,,,outturn,src_bocholt_jr2025,strong,Autofinancieringsmarge AFM +3.060m 2025; tick868
+bud_bo_afm_corr_2025,city_bocholt,2025,3385939,,,outturn,src_bocholt_jr2025,strong,Gecorrigeerde AFM +3.386m 2025; tick868
+bud_bo_personnel_2025,city_bocholt,2025,10978861,,,outturn,src_bocholt_jr2025,strong,Personeelsuitgaven/bezold 10.979m 2025; tick868
+bud_bo_goederen_diensten_2025,city_bocholt,2025,3552520,,,outturn,src_bocholt_jr2025,strong,Goederen en diensten 3.553m 2025; tick868
+bud_bo_toelagen_2025,city_bocholt,2025,6147149,,,outturn,src_bocholt_jr2025,strong,Toegestane werkingssubsidies 6.147m 2025; tick868
+bud_bo_toelagen_police_2025,city_bocholt,2025,1820219,,,outturn,src_bocholt_jr2025,strong,Toelage politiezone 1.820m 2025; tick868
+bud_bo_toelagen_fire_2025,city_bocholt,2025,634112,,,outturn,src_bocholt_jr2025,strong,Toelage hulpverleningszone 0.634m 2025; tick868
+bud_bo_toelagen_agb_2025,city_bocholt,2025,1171170,,,outturn,src_bocholt_jr2025,strong,Toelage eigen AGB 1.171m 2025; tick868
+bud_bo_toelagen_igs_2025,city_bocholt,2025,884043,,,outturn,src_bocholt_jr2025,strong,Toelage IGS 0.884m 2025; tick868
+bud_bo_toelagen_other_2025,city_bocholt,2025,1143767,,,outturn,src_bocholt_jr2025,strong,Toelagen andere begunstigden 1.144m 2025 FOI-adjacent; tick868
+bud_bo_ocmw_aid_2025,city_bocholt,2025,1268111,,,outturn,src_bocholt_jr2025,strong,OCMW individuele hulpverlening 1.268m 2025; tick868
+bud_bo_fiscal_2025,city_bocholt,2025,14412608,,,outturn,src_bocholt_jr2025,strong,Fiscale ontvangsten en boetes 14.413m 2025; tick868
+bud_bo_gemeentefonds_2025,city_bocholt,2025,4890276,,,outturn,src_bocholt_jr2025,strong,Gemeentefonds 4.890m 2025; tick868
+bud_bo_new_loans_2025,city_bocholt,2025,3780622,,,outturn,src_bocholt_jr2025,strong,Nieuwe financiele schulden 3.781m 2025 (bank 3.0m + leasing 0.78m); tick868
+bud_bo_new_loans_bank_2025,city_bocholt,2025,3000000,,,outturn,src_bocholt_jr2025,strong,Opname leningen bij financiele instellingen 3.000m 2025; tick868
+bud_bo_loans_to_agb_2025,city_bocholt,2025,322360,,,outturn,src_bocholt_jr2025,strong,Toegestane leningen aan AGB 0.322m 2025; tick868
+bud_bo_agb_bbr_2025,city_bocholt,2025,-2396673,,,outturn,src_bocholt_jr2025,strong,AGB Bocholt BBR -2.397m consol (J2); tick868 FOI-adjacent
+bud_bo_pl_costs_2025,city_bocholt,2025,26461047,,,outturn,src_bocholt_jr2025,strong,Staat kosten total 26.461m 2025; tick868
+bud_bo_pl_opbrengsten_2025,city_bocholt,2025,26890985,,,outturn,src_bocholt_jr2025,strong,Staat opbrengsten total 26.891m 2025; tick868
+bud_bo_pl_result_2025,city_bocholt,2025,429938,,,outturn,src_bocholt_jr2025,strong,Boekhoudkundig overschot +0.430m 2025; tick868

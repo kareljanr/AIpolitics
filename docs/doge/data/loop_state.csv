@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T06:30:00Z,rq_867,867,no,tick867 Halle JR2025 dual Diest; FOI gap_halle_debt_loans_l5; next rq_868 residual dual L5; progress@870 in 3; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T07:00:00Z,rq_868,868,no,tick868 Bocholt JR2025 dual Halle; FOI gap_bocholt_igs_agb_l5; next rq_869 residual dual L5; progress@870 in 2; rq_116 deferred
