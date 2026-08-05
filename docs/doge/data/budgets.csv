@@ -27759,3 +27759,55 @@ bud_bon_gemeentefonds_2025,city_bonheiden,2025,3399994,,,bbc_jr_realized,src_bon
 bud_bon_interest_2025,city_bonheiden,2025,141717,,,bbc_jr_realized,src_bonheiden_jr2025,strong,Intresten op leningen 0.142m; tick1078
 bud_bon_agb_afm_corr_2025,city_bonheiden,2025,-10410,,,bbc_jr_realized,src_bonheiden_jr2025,strong,AGB Bonheiden corr AFM -0.010m NEG FOI; tick1078
 bud_bon_agb_bbr_2025,city_bonheiden,2025,-5420,,,bbc_jr_realized,src_bonheiden_jr2025,strong,AGB BBR -0.005m NEG FOI; tick1078
+bud_lub_assets_2025,city_lubbeek,2025,103719586,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Assets YE2025 103.720m (was 99.036m); tick1079
+bud_lub_equity_2025,city_lubbeek,2025,72383595,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Nettoactief YE2025 72.384m (was 68.316m); tick1079
+bud_lub_debt_total_2025,city_lubbeek,2025,31335991,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Total schulden YE2025 31.336m slight up (was 30.720m); tick1079
+bud_lub_fin_debt_2025,city_lubbeek,2025,13640663,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Fin debt total YE2025 13.641m DECLINE (was 14.607m); tick1079
+bud_lub_fin_debt_lt_2025,city_lubbeek,2025,12279130,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Fin debt LT YE2025 12.279m DECLINE (was 13.292m); tick1079
+bud_lub_fin_debt_st_due_2025,city_lubbeek,2025,1361532,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Fin debt ST due YE2025 1.362m; tick1079
+bud_lub_new_loans_2025,city_lubbeek,2025,355497,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Nieuwe leningen 2025 0.355m LOW (leasing-heavy); tick1079
+bud_lub_aflossingen_2025,city_lubbeek,2025,1321361,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Periodieke aflossingen 2025 1.321m; tick1079
+bud_lub_cash_2025,city_lubbeek,2025,11313763,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Liquide middelen YE2025 11.314m MASSIVE DROP FOI (was 17.355m); tick1079
+bud_lub_pension_2025,city_lubbeek,2025,9632611,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Pensioenvoorzieningen LT YE2025 9.633m JUMP FOI (was 9.020m); tick1079
+bud_lub_cap_subs_2025,city_lubbeek,2025,9367735,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Kapitaalsubsidies YE2025 9.368m; tick1079
+bud_lub_fva_total_2025,city_lubbeek,2025,11567705,,,bbc_jr_realized,src_lubbeek_jr2025,strong,FVA total YE2025 11.568m; tick1079
+bud_lub_fva_igs_2025,city_lubbeek,2025,5306125,,,bbc_jr_realized,src_lubbeek_jr2025,strong,FVA IGS YE2025 5.306m (Riobra/Fluvius stack); tick1079
+bud_lub_leasing_mva_2025,city_lubbeek,2025,2500722,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Leasing MVA YE2025 2.501m; tick1079
+bud_lub_expl_rec_2025,city_lubbeek,2025,32478639,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Exploitatieontvangsten 32.479m; tick1079
+bud_lub_expl_exp_2025,city_lubbeek,2025,27669519,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Exploitatieuitgaven 27.670m; tick1079
+bud_lub_expl_saldo_2025,city_lubbeek,2025,4809120,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Exploitatiesaldo +4.809m STRONG; tick1079
+bud_lub_invest_exp_2025,city_lubbeek,2025,10508897,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Investeringsuitgaven 10.509m vs T2 MJP MVA ~18.048m UNDERSPEND FOI; tick1079
+bud_lub_invest_rec_2025,city_lubbeek,2025,2408807,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Investeringsontvangsten 2.409m; tick1079
+bud_lub_invest_saldo_2025,city_lubbeek,2025,-8100091,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Investeringssaldo -8.100m; tick1079
+bud_lub_mjp_invest_planned_2025,city_lubbeek,2025,18048292,,,bbc_jr_realized,src_lubbeek_jr2025,strong,T2 MJP MVA planned 18.048m vs realized MVA 10.311m UNDERSPEND FOI; tick1079
+bud_lub_invest_mva_2025,city_lubbeek,2025,10310957,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Investeringen MVA 10.311m; tick1079
+bud_lub_invest_subs_granted_2025,city_lubbeek,2025,182704,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Toegestane invest-subs 0.183m; tick1079
+bud_lub_afm_2025,city_lubbeek,2025,3487760,,,bbc_jr_realized,src_lubbeek_jr2025,strong,AFM +3.488m STRONG; tick1079
+bud_lub_afm_corr_2025,city_lubbeek,2025,3640598,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Gecorrigeerde AFM +3.641m STRONG; tick1079
+bud_lub_bbr_2025,city_lubbeek,2025,14321160,,,bbc_jr_realized,src_lubbeek_jr2025,strong,BBR beschikbaar +14.321m VERY HIGH; tick1079
+bud_lub_budget_result_2025,city_lubbeek,2025,-4156894,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Budgettair resultaat -4.157m NEG HIGH FOI; tick1079
+bud_lub_cum_br_2025,city_lubbeek,2025,15410159,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Gecumuleerd budgettair resultaat +15.410m; tick1079
+bud_lub_onbeschikbaar_2025,city_lubbeek,2025,1088999,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Onbeschikbare gelden 1.089m; tick1079
+bud_lub_pnl_2025,city_lubbeek,2025,1999822,,,bbc_jr_realized,src_lubbeek_jr2025,strong,P&L +2.000m IMPROVING (was -0.497m); tick1079
+bud_lub_ge_expl_exp_2025,city_lubbeek,2025,22837585,,,bbc_jr_realized,src_lubbeek_jr2025,strong,GE exploitatieuitgaven J3 22.838m; tick1079
+bud_lub_ge_expl_rec_2025,city_lubbeek,2025,29536929,,,bbc_jr_realized,src_lubbeek_jr2025,strong,GE exploitatieontvangsten J3 29.537m; tick1079
+bud_lub_ocmw_expl_exp_2025,city_lubbeek,2025,4831934,,,bbc_jr_realized,src_lubbeek_jr2025,strong,OCMW exploitatieuitgaven J3 4.832m; tick1079
+bud_lub_ocmw_expl_rec_2025,city_lubbeek,2025,2941710,,,bbc_jr_realized,src_lubbeek_jr2025,strong,OCMW exploitatieontvangsten J3 2.942m; tick1079
+bud_lub_ocmw_expl_gap_2025,city_lubbeek,2025,-1890224,,,bbc_jr_realized,src_lubbeek_jr2025,strong,OCMW expl gap J3 -1.890m; tick1079
+bud_lub_ocmw_cover_2025,city_lubbeek,2025,0,,,bbc_jr_realized,src_lubbeek_jr2025,strong,OCMW cover tussenkomst 0.000 ZERO FOI (explicit stop vs prior years); tick1079
+bud_lub_equity_cum_2025,city_lubbeek,2025,15457869,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Gecumuleerd equity overschot YE2025 +15.458m; tick1079
+bud_lub_personnel_2025,city_lubbeek,2025,15127161,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Bezoldigingen T2 15.127m incl education pass-through 4.320m; tick1079
+bud_lub_edu_pass_through_2025,city_lubbeek,2025,4319561,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Onderwijzend personeel ten laste andere overheden 4.320m; tick1079
+bud_lub_toelagen_2025,city_lubbeek,2025,3079523,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Toegestane werkingssubsidies 3.080m FOI residual; tick1079
+bud_lub_toelagen_police_2025,city_lubbeek,2025,1612543,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Toelage politiezone 1.613m; tick1079
+bud_lub_toelagen_fire_2025,city_lubbeek,2025,743561,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Toelage hulpverleningszone 0.744m; tick1079
+bud_lub_toelagen_igs_2025,city_lubbeek,2025,155390,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Toelage IGS 0.155m; tick1079
+bud_lub_toelagen_other_2025,city_lubbeek,2025,568029,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Toelage other+eredienst residual 0.568m FOI; tick1079
+bud_lub_ocmw_aid_2025,city_lubbeek,2025,868960,,,bbc_jr_realized,src_lubbeek_jr2025,strong,OCMW individuele hulp 0.869m; tick1079
+bud_lub_fiscal_2025,city_lubbeek,2025,16870228,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Fiscale opbrengsten 16.870m; tick1079
+bud_lub_fiscal_ov_2025,city_lubbeek,2025,4950712,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Opcentiemen OV 4.951m; tick1079
+bud_lub_fiscal_pb_2025,city_lubbeek,2025,10114886,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Aanvullende PB 10.115m JUMP; tick1079
+bud_lub_gemeentefonds_2025,city_lubbeek,2025,3274561,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Gemeentefonds 3.275m; tick1079
+bud_lub_interest_2025,city_lubbeek,2025,419173,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Intresten op leningen 0.419m; tick1079
+bud_lub_mjp_debt_2027_2025,city_lubbeek,2025,15242674,,,bbc_jr_realized,src_lubbeek_jr2025,strong,MJP fin debt YE2027 path 15.243m with new loans 4.148m FOI; tick1079
+bud_lub_goederen_2025,city_lubbeek,2025,8033405,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Goederen en diensten 8.033m; tick1079

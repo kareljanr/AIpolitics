@@ -14506,3 +14506,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1079** residual dual L5; deferred **rq_116**; progress@1080 in 1
 
+
+### Tick 1079 - 2026-08-11T05:00:00Z
+
+- Unit: **rq_1079** (FOI-adjacent residual dual - **Lokaal Bestuur Lubbeek Jaarrekening 2025** + Bonheiden dual residual)
+- Found (strong primary BBC JR2025 PDF; GR+RMW 23.06.2026; KBO GE 0207.521.996 / OCMW 0212.194.923; Gellenberg 16 3210; AD Klaas Gutschoven FD wnd Lidie Vansingel; GE+OCMW):
+  - Assets **EUR103.720m** / equity **EUR72.384m** / debt total **EUR31.34m** / fin debt **EUR13.641m DECLINE** (LT **EUR12.279m** / ST due **EUR1.362m**; was **EUR14.607m**)
+  - New loans **EUR0.355m LOW** / repayments **EUR1.321m**
+  - Cash **EUR11.314m MASSIVE DROP FOI** (was **EUR17.355m**, -**EUR6.041m**) / pension **EUR9.633m JUMP FOI** (was **EUR9.020m**) / FVA IGS **EUR5.306m** / leasing MVA **EUR2.501m**
+  - Exploitatie: ontvangsten **EUR32.479m** / uitgaven **EUR27.670m** / saldo **+EUR4.809m STRONG**
+  - AFM **+EUR3.488m STRONG** (gecorr **+EUR3.641m**) / BBR **EUR14.321m VERY HIGH** / budget **EUR-4.157m NEG HIGH FOI** / cum BR **EUR15.410m** / P&L **+EUR2.000m IMPROVING**
+  - Personnel **EUR15.127m** (edu pass-through **EUR4.320m**) / toelagen **EUR3.080m FOI** (police **EUR1.613m** / fire **EUR0.744m** / IGS **EUR0.155m** / other **EUR0.568m**)
+  - Invest **EUR10.509m** vs T2 MJP MVA **EUR18.048m UNDERSPEND FOI**
+  - OCMW cover **EUR0 ZERO FOI** (explicit stop vs prior years) / OCMW expl gap **-EUR1.890m**
+  - MJP fin debt YE2027 path **EUR15.243m** with new loans **EUR4.148m FOI**
+- Dual: Bonheiden invest MASSIVE underspend / OCMW cover ZERO (tick1078) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Ronse city residual next; **progress@1080 NEXT**
+- Wrote: budgets +52 (bud_lub_*); commitments +7; leaderboard +8; sources +1; entity city_lubbeek; FOI **gap_lub_cash_budget_ocmw_zero_l5** prio9 ready + draft; PDF primary (not committed); rq_1079=done; spawn **rq_1080**; ticks=1079
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1080** residual dual L5 + **PROGRESS@1080**; deferred **rq_116**
+
