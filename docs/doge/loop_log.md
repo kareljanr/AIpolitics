@@ -13349,3 +13349,25 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1020** residual dual L5 + **progress decade refresh**; deferred **rq_116**; progress@1020 in 1
 
+
+### Tick 1020 - 2026-08-09T23:15:00Z
+
+- Unit: **rq_1020** (PROGRESS decade + FOI-adjacent residual dual - **Gemeente+OCMW Willebroek Jaarrekening 2025** + Meerhout dual residual)
+- Found (strong primary BBC JR2025 180p; KBO 0207.501.113 / OCMW 0212.184.035; AD Dirk Blommaert; FD Guy De Maeseneer; Pastorijstraat 1; GR 23 jun 2026):
+  - Assets **EUR191.33m JUMP** (was **EUR179.96m**) / equity **EUR90.75m** / debt total **EUR100.58m JUMP** / fin debt **EUR62.08m** (**JUMP** from **EUR54.33m**; LT **EUR41.26m DECLINING** / ST due **EUR2.68m** / **ST EUR18.14m JUMP FOI** was 8.00m)
+  - New loans **EUR0.223m** lease only / repayments **EUR2.62m** / **toegestane leningen EUR9.18m JUMP HIGH FOI** / LT vorderingen **EUR26.71m JUMP** (was 18.23m)
+  - Cash **EUR12.06m DROP** (was **EUR16.59m FOI**) / pension **EUR25.50m DECLINING** / leasing MVA **EUR1.89m**
+  - FVA IGS **EUR21.04m** / cap subs **EUR13.01m**
+  - Exploitatie: ontvangsten **EUR70.26m** / uitgaven **EUR65.41m** / saldo **+EUR4.86m STRONG**
+  - AFM **+EUR2.85m STRONG** (gecorr **+EUR1.12m**) / BBR **-EUR1.21m NEG FOI** / budget **-EUR13.40m NEG HIGH FOI** / cum BR **-EUR0.86m** (was +12.54m) / P&L **+EUR3.01m** (flip from -4.48m)
+  - Personnel **EUR36.75m** / toelagen **EUR8.78m FOI** (police **EUR5.12m** / fire **EUR1.29m** / AGB **EUR1.54m dual** / other **EUR0.829m**)
+  - Invest **EUR9.01m** vs MJP **EUR21.19m UNDERSPEND FOI** / **OCMW cover EUR6.90m FULL-ish FOI** / OCMW expl gap **-EUR7.30m** / equity cum **-EUR12.73m WORSENING**
+  - AGB dual: BBR **EUR0.435m** / AFM **-EUR0.026m NEG** / gecorr AFM **-EUR0.477m NEG FOI**
+  - Leningen op rekening vaste termijn **EUR9.00m FOI**
+- Dual: Meerhout **EUR71.67m** / budget **-EUR1.45m** / equity cum **-EUR3.76m** (tick1019) - not TE-additive
+- **Progress@1020:** refreshed progress_every_10_ticks.md + doge_waste_top10_current.md; pure annual top10 stable; residual 1011-1020 dual stack closed in snapshot
+- Note: Torhout still news-only; Stekene 404 prior; Balen OCR-blocked; Oosterzele / Moerbeke residual next optional
+- Wrote: budgets +58 (bud_wil_*); commitments +6; leaderboard +8; sources +1; entity city_willebroek; FOI **gap_wil_budget_debt_ocmw_toelagen_l5** prio9 ready + draft; progress decade files; key only (PDF ~5.8MB not stored in git); rq_1020=done; spawn **rq_1021**; ticks=1020
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1021** residual dual L5 (Torhout / Stekene / Balen if OCR / Oosterzele / Moerbeke / other); deferred **rq_116**; progress@1030 in 9
+

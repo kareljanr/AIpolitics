@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **1010** (2026-08-09) · **~4836** leaderboard rows  
+**As-of:** tick **1020** (2026-08-09) · **~4916** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,9 +27,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / Hamme **€167.4m** / De Haan **€150.7m** / Sint-Gillis-Waas **€109.7m** / Beernem **€99m** / coastal stack retained) · **AGB HIM dual** · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt/MJP/loan/pension/OCMW stocks Hamme **debt €39.8m JUMP +bank €9.0m** / SGW **debt €32.5m +loans €14.8m** / Berlare **debt €31.2m RISING** / Beernem **OCMW cum −€7.69m cover 0** / Lierde **cover 0 Farys early €1.22m**.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / Oudsbergen **€255m** / Willebroek **€191m** / Temse **€173m** / Hamme **€167m** / Kasterlee **€143m** / Wetteren **€143m** / dual stack retained) · **AGB Willebroek dual AFM NEG** · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market · city debt/MJP/loan/pension/OCMW stocks **Willebroek fin debt €62.08m JUMP ST €18.14m** / budget **−€13.40m** / toegestane leningen **€9.18m** / OCMW equity cum **−€12.73m** / Temse OCMW cum **−€27.88m** / Hamme **debt €39.8m +bank €9.0m** / SGW **debt €32.5m +loans €14.8m**.
 
-**Change vs tick 1000:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 1001–1010 (off pure top10 / dual):** De Haan **€150.7m** (cash **€34.5m**) · Beernem **€99.0m** (**OCMW cover 0**, cum **−€7.69m**) · Haaltert **€88.0m** (OCMW FULL **€3.75m**) · Zuienkerke **€30.7m** (debt **€0.94m DECLINING**) · Berlare **€81.3m** (debt **€31.2m +loan €6.55m**) · Waasmunster **€87.9m** (budget **−€1.85m**) · Sint-Gillis-Waas **€109.7m** (debt **€32.5m JUMP +loans €14.8m**, OCMW invest **€11.7m**) · Lierde **€32.7m** (**cover 0**, Farys **€1.22m**) · **Hamme €167.4m** (debt **€39.8m JUMP +bank €9.0m**, OCMW cover **€3.80m**, toelagen **€9.62m**, personnel **€30.4m**, AGB HIM dual). Gain is **inland/OV debt JUMP + OCMW cover spectrum + Entity II AGB dual** more than FFS reshuffle.
+**Change vs tick 1010:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 1011–1020 (off pure top10 / dual):** Willebroek **€191.3m** (fin debt **€62.08m JUMP ST €18.14m**, budget **−€13.40m**, BBR **−€1.21m**, OCMW cover **€6.90m**, equity cum **−€12.73m**, toegestane leningen **€9.18m**, toelagen **€8.78m**, personnel **€36.75m**) · Temse **€172.6m** (budget **−€9.44m**, OCMW cover **€9.87m**, cum **−€27.88m**) · Oudsbergen **€255.2m** (OCMW cover **0**, FVA IGS JUMP) · Kasterlee **€143.4m** (AFM **+€6.33m**) · Wetteren **€142.8m** · Buggenhout **€85.5m** (new loans JUMP **€3.33m**) · Meerhout **€71.7m** (budget **−€1.45m**, equity cum **−€3.76m**) · Laarne / SLH / Wichelen. Gain is **budget NEG HIGH + ST debt/treasury path + loans-out JUMP + large OCMW equity cum** more than FFS reshuffle.
 
 ### Just outside top 10 (often relevant)
 
@@ -39,12 +39,12 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | — | `lb_owv_sub_snowball_27bn_2083` | **stock-as-ann** | **8.55** | STOCK filtered eoy2083 |
 | — | `lb_vl_gsc_pv_legacy_7_078bn` | **~708 m** class | **8.05** | GSC PV legacy oversubsidy |
 | — | `lb_fed_consultancy_2_5bn_coa` | **~842 m/yr** | **8.00** | CoA 2.525bn/3y |
-| — | `lb_hmm_fin_debt_39_78m_2025` | **39.8 m stock** | **~6.4** | **NEW 1010** Hamme debt JUMP |
-| — | `lb_hmm_new_loans_9_76m_2025` | **9.76 m** | **~6.5** | **NEW 1010** Hamme bank loan 9m |
-| — | `lb_hmm_toelagen_9_62m_2025` | **9.62 m** | **~6.2** | **NEW 1010** Hamme toelagen |
-| — | `lb_sgw` debt JUMP stack | **32.5 m stock** | **~6.3** | **NEW 1008** SGW +loans 14.8m |
-| — | `lb_bee_ocmw` cover 0 stack | **7.69 m stock** | **~6.4** | **NEW 1003** Beernem OCMW cum |
-| — | `lb_lrd_ocmw_cover_zero` | **1.09 m stock** | **~6.0** | **NEW 1009** Lierde cover 0 |
+| — | `lb_wil_budget_neg_13_40m_2025` | **13.4 m** | **~6.65** | **NEW 1020** Willebroek budget NEG HIGH |
+| — | `lb_wil_fin_debt_62_08m_2025` | **62.1 m stock** | **~6.48** | **NEW 1020** Willebroek ST JUMP |
+| — | `lb_wil_toegestane_leningen_9_18m_2025` | **9.18 m** | **~6.65** | **NEW 1020** loans-out JUMP |
+| — | `lb_tem` budget/OCMW stack | **9.44 m / 27.88 m** | **~6.3** | **NEW 1013** Temse dual |
+| — | `lb_hmm_fin_debt_39_78m_2025` | **39.8 m stock** | **~6.4** | **1010** Hamme debt JUMP |
+| — | `lb_bee_ocmw` cover 0 stack | **7.69 m stock** | **~6.4** | **1003** Beernem OCMW cum |
 
 ### High-absurdity shortlist (not pure annual cost rank)
 
@@ -56,6 +56,7 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_police_ipolice_ssg_eval` | **9.0** | i-Police SSG evaluation |
 | `lb_vl_gip_monitor_fail_2_5bn` | **9.0** | GIP without VEK public report |
 | `lb_oaa_consol_reporte_300_6m` | **9.0** | Reporté solde fiction |
-| `lb_hmm_new_loans_9_76m_2025` | **8.0** | **NEW 1010** Hamme bank loan JUMP |
-| `lb_bee_ocmw_cover_zero` | **8.5** | **NEW 1003** Beernem OCMW cum cover 0 |
-| `lb_lrd_ocmw_cover_zero_2025` | **8.0** | **NEW 1009** Lierde OCMW cover 0 |
+| `lb_wil_budget_neg_13_40m_2025` | **8.5** | **NEW 1020** Willebroek budget −13.4m |
+| `lb_wil_toegestane_leningen_9_18m_2025` | **8.5** | **NEW 1020** loans-out JUMP |
+| `lb_bee_ocmw_cover_zero` | **8.5** | Beernem OCMW cum cover 0 |
+| `lb_hmm_new_loans_9_76m_2025` | **8.0** | Hamme bank loan JUMP |

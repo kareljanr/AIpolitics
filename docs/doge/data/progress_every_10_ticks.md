@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1020** (2026-08-09)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1011-1020: Willebroek **EUR191.3m** / Oudsbergen **EUR255.2m** / Temse **EUR172.6m** / Kasterlee **EUR143.4m** / Wetteren **EUR142.8m** / Buggenhout **EUR85.5m** / Laarne **EUR76.4m** / Meerhout **EUR71.7m** / Wichelen **EUR61.9m** / Sint-Lievens-Houtem **EUR47.6m** · prior 1001-1010 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1011-1020 is VL residual dual L5 (not near-complete of 348bn):** personnel Willebroek **EUR36.75m** / Temse **EUR24.08m** / Buggenhout **EUR20.46m** / Meerhout **EUR18.18m** / Wetteren **EUR18.72m** · FOI-adjacent: **Willebroek fin debt EUR62.08m JUMP ST EUR18.14m** / budget **-EUR13.40m NEG HIGH** / BBR **-EUR1.21m NEG** / OCMW cover **EUR6.90m FULL** equity cum **-EUR12.73m** / toegestane leningen **EUR9.18m JUMP** / toelagen **EUR8.78m** · **Temse budget -EUR9.44m** / OCMW cover **EUR9.87m** / cum **-EUR27.88m** · **Oudsbergen assets EUR255m** / OCMW cover **0** / FVA IGS JUMP **EUR71.88m** · **Meerhout budget -EUR1.45m** / equity cum **-EUR3.76m** · **Sint-Lievens-Houtem fin debt JUMP +bank EUR3.50m** |
+| **E. FOI-ready gaps** | **~670** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~712** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / Oudsbergen **EUR255m** / Willebroek **EUR191m** / Temse **EUR173m** / Kasterlee **EUR143m** / Wetteren **EUR143m** / Hamme **EUR167m** / prior dual stack retained not full TE) · **AGB Willebroek dual AFM NEG** · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 1020)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~24730 |
+| commitments.csv | ~3076 |
+| leaderboard.csv | ~4916 |
+| entities.csv | ~739 |
+| sources.csv | ~1933 |
+| FOI ready | ~670 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~712 |
+| research_queue open | rq_116 deferred + rq_1021 hole-fill after progress |
+
+### What improved since tick 1010
+
+- **VL residual dual JR2025 (tick1011-1020):** Wetteren **EUR142.8m** / OCMW cover **EUR6.86m** / budget **-EUR2.44m** · Wichelen **EUR61.9m** / pension JUMP / equity deficit **-EUR2.08m** · Temse **EUR172.6m** / fin debt **EUR75.4m DECLINING** / budget **-EUR9.44m** / OCMW cover **EUR9.87m** / cum **-EUR27.88m** · Laarne **EUR76.4m** / AFM **+EUR2.27m** / invest underspend · Sint-Lievens-Houtem **EUR47.6m** / fin debt JUMP **+bank EUR3.50m** · Oudsbergen **EUR255.2m** / OCMW cover **0** / FVA IGS JUMP · Kasterlee **EUR143.4m** / AFM **+EUR6.33m** / cash **EUR23.2m HIGH** · Buggenhout **EUR85.5m** / new loans JUMP **EUR3.33m** / OCMW cover **EUR2.00m FULL** · Meerhout **EUR71.7m** / budget **-EUR1.45m** / equity cum **-EUR3.76m** · **Willebroek EUR191.3m** / fin debt **EUR62.08m JUMP ST EUR18.14m** / budget **-EUR13.40m NEG HIGH** / BBR **-EUR1.21m** / OCMW cover **EUR6.90m** / equity cum **-EUR12.73m** / toegestane leningen **EUR9.18m JUMP** / toelagen **EUR8.78m** / personnel **EUR36.75m**.
+- **Dual map:** budget NEG HIGH cluster (Willebroek **-EUR13.4m** / Temse **-EUR9.44m** / Wetteren **-EUR2.44m** / Meerhout **-EUR1.45m**) · debt JUMP (Willebroek **EUR62.1m ST path** / Temse still large **EUR75.4m** though DECLINING / SLH +bank) · OCMW cover FULL-ish with large equity cum deficit (Willebroek **-EUR12.73m** / Temse **-EUR27.88m**) vs cover ZERO (Oudsbergen) · loans-out JUMP (Willebroek **EUR9.18m**) · AGB dual AFM NEG (Willebroek).
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 1010** (2026-08-09)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

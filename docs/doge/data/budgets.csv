@@ -24671,3 +24671,61 @@ bud_mht_invest_subs_granted_2025,city_meerhout,2025,1227061,,,bbc_jr_realized,sr
 bud_mht_lt_receivables_2025,city_meerhout,2025,6008911,,,bbc_jr_realized,src_meerhout_jr2025,strong,Vorderingen LT YE2025 6.01m (incl non-ruil 3.70m FOI); tick1019
 bud_mht_fin_saldo_2025,city_meerhout,2025,-758918,,,bbc_jr_realized,src_meerhout_jr2025,strong,Financieringssaldo -0.759m; tick1019
 bud_mht_provisions_st_2025,city_meerhout,2025,1373187,,,bbc_jr_realized,src_meerhout_jr2025,strong,Voorzieningen ST YE2025 1.37m; tick1019
+bud_wil_assets_2025,city_willebroek,2025,191332717,,,bbc_jr_realized,src_willebroek_jr2025,strong,Assets YE2025 191.33m (was 179.96m JUMP); tick1020
+bud_wil_equity_2025,city_willebroek,2025,90752782,,,bbc_jr_realized,src_willebroek_jr2025,strong,Nettoactief YE2025 90.75m (was 86.02m JUMP); tick1020
+bud_wil_debt_total_2025,city_willebroek,2025,100579935,,,bbc_jr_realized,src_willebroek_jr2025,strong,Total schulden YE2025 100.58m (was 93.93m JUMP); tick1020
+bud_wil_fin_debt_2025,city_willebroek,2025,62076012,,,bbc_jr_realized,src_willebroek_jr2025,strong,Fin debt total YE2025 62.08m JUMP (was 54.33m T4); tick1020
+bud_wil_fin_debt_lt_2025,city_willebroek,2025,41257536,,,bbc_jr_realized,src_willebroek_jr2025,strong,Fin debt LT YE2025 41.26m DECLINING (was 43.72m); tick1020
+bud_wil_fin_debt_st_due_2025,city_willebroek,2025,2679011,,,bbc_jr_realized,src_willebroek_jr2025,strong,Fin debt ST due YE2025 2.68m; tick1020
+bud_wil_fin_debt_st_2025,city_willebroek,2025,18139465,,,bbc_jr_realized,src_willebroek_jr2025,strong,Fin debt ST YE2025 18.14m JUMP FOI (was 8.00m; treasury certs); tick1020
+bud_wil_new_loans_2025,city_willebroek,2025,223411,,,bbc_jr_realized,src_willebroek_jr2025,strong,Nieuwe leningen 2025 0.223m lease only; tick1020
+bud_wil_aflossingen_2025,city_willebroek,2025,2616830,,,bbc_jr_realized,src_willebroek_jr2025,strong,Periodieke aflossingen 2025 2.62m; tick1020
+bud_wil_cash_2025,city_willebroek,2025,12059797,,,bbc_jr_realized,src_willebroek_jr2025,strong,Liquide middelen YE2025 12.06m DROP (was 16.59m FOI); tick1020
+bud_wil_pension_2025,city_willebroek,2025,25499544,,,bbc_jr_realized,src_willebroek_jr2025,strong,Pensioenvoorzieningen LT YE2025 25.50m DECLINING (was 27.14m); tick1020
+bud_wil_cap_subs_2025,city_willebroek,2025,13007216,,,bbc_jr_realized,src_willebroek_jr2025,strong,Kapitaalsubsidies YE2025 13.01m; tick1020
+bud_wil_fva_total_2025,city_willebroek,2025,21229511,,,bbc_jr_realized,src_willebroek_jr2025,strong,FVA total YE2025 21.23m; tick1020
+bud_wil_fva_igs_2025,city_willebroek,2025,21042465,,,bbc_jr_realized,src_willebroek_jr2025,strong,FVA IGS YE2025 21.04m JUMP (was 19.43m); tick1020
+bud_wil_leasing_mva_2025,city_willebroek,2025,1889059,,,bbc_jr_realized,src_willebroek_jr2025,strong,Leasing MVA YE2025 1.89m; tick1020
+bud_wil_expl_rec_2025,city_willebroek,2025,70262801,,,bbc_jr_realized,src_willebroek_jr2025,strong,Exploitatieontvangsten 70.26m; tick1020
+bud_wil_expl_exp_2025,city_willebroek,2025,65406276,,,bbc_jr_realized,src_willebroek_jr2025,strong,Exploitatieuitgaven 65.41m; tick1020
+bud_wil_expl_saldo_2025,city_willebroek,2025,4856525,,,bbc_jr_realized,src_willebroek_jr2025,strong,Exploitatiesaldo +4.86m STRONG; tick1020
+bud_wil_invest_exp_2025,city_willebroek,2025,9009762,,,bbc_jr_realized,src_willebroek_jr2025,strong,Investeringsuitgaven 9.01m vs MJP ~21.19m UNDERSPEND FOI; tick1020
+bud_wil_invest_rec_2025,city_willebroek,2025,1952910,,,bbc_jr_realized,src_willebroek_jr2025,strong,Investeringsontvangsten J2 1.95m; tick1020
+bud_wil_invest_saldo_2025,city_willebroek,2025,-7297352,,,bbc_jr_realized,src_willebroek_jr2025,strong,Investeringssaldo -7.30m; tick1020
+bud_wil_mjp_invest_planned_2025,city_willebroek,2025,21189434,,,bbc_jr_realized,src_willebroek_jr2025,strong,MJP invest planned 21.19m vs realized 9.25m (J2) underspend FOI; tick1020
+bud_wil_afm_2025,city_willebroek,2025,2851060,,,bbc_jr_realized,src_willebroek_jr2025,strong,AFM +2.85m STRONG; tick1020
+bud_wil_afm_corr_2025,city_willebroek,2025,1121492,,,bbc_jr_realized,src_willebroek_jr2025,strong,Gecorrigeerde AFM +1.12m; tick1020
+bud_wil_bbr_2025,city_willebroek,2025,-1206723,,,bbc_jr_realized,src_willebroek_jr2025,strong,BBR beschikbaar -1.21m NEG FOI; tick1020
+bud_wil_budget_result_2025,city_willebroek,2025,-13399064,,,bbc_jr_realized,src_willebroek_jr2025,strong,Budgettair resultaat -13.40m NEG HIGH FOI; tick1020
+bud_wil_cum_br_2025,city_willebroek,2025,-860056,,,bbc_jr_realized,src_willebroek_jr2025,strong,Gecumuleerd budgettair resultaat -0.86m (from +12.54m FOI); tick1020
+bud_wil_onbeschikbaar_2025,city_willebroek,2025,346667,,,bbc_jr_realized,src_willebroek_jr2025,strong,Onbeschikbare gelden 0.347m; tick1020
+bud_wil_pnl_2025,city_willebroek,2025,3009620,,,bbc_jr_realized,src_willebroek_jr2025,strong,P&L +3.01m (was -4.48m flip FOI); tick1020
+bud_wil_ge_expl_exp_2025,city_willebroek,2025,36845678,,,bbc_jr_realized,src_willebroek_jr2025,strong,GE exploitatieuitgaven J3 36.85m; tick1020
+bud_wil_ge_expl_rec_2025,city_willebroek,2025,49025288,,,bbc_jr_realized,src_willebroek_jr2025,strong,GE exploitatieontvangsten J3 49.03m; tick1020
+bud_wil_ocmw_expl_exp_2025,city_willebroek,2025,28560598,,,bbc_jr_realized,src_willebroek_jr2025,strong,OCMW exploitatieuitgaven J3 28.56m FOI; tick1020
+bud_wil_ocmw_expl_rec_2025,city_willebroek,2025,21237513,,,bbc_jr_realized,src_willebroek_jr2025,strong,OCMW exploitatieontvangsten J3 21.24m; tick1020
+bud_wil_ocmw_expl_gap_2025,city_willebroek,2025,-7296865,,,bbc_jr_realized,src_willebroek_jr2025,strong,OCMW expl gap -7.30m FOI residual; tick1020
+bud_wil_ocmw_cover_2025,city_willebroek,2025,6902798,,,bbc_jr_realized,src_willebroek_jr2025,strong,OCMW cover tussenkomst 6.90m FULL-ish FOI; tick1020
+bud_wil_ocmw_equity_cum_2025,city_willebroek,2025,-12725906,,,bbc_jr_realized,src_willebroek_jr2025,strong,OCMW equity cum -12.73m WORSENING (was -11.23m FOI); tick1020
+bud_wil_personnel_2025,city_willebroek,2025,36752385,,,bbc_jr_realized,src_willebroek_jr2025,strong,Bezoldigingen 36.75m; tick1020
+bud_wil_toelagen_2025,city_willebroek,2025,8778208,,,bbc_jr_realized,src_willebroek_jr2025,strong,Toegestane werkingssubsidies 8.78m FOI residual; tick1020
+bud_wil_toelagen_police_2025,city_willebroek,2025,5116562,,,bbc_jr_realized,src_willebroek_jr2025,strong,Toelage politiezone Rivierenland 5.12m; tick1020
+bud_wil_toelagen_fire_2025,city_willebroek,2025,1293094,,,bbc_jr_realized,src_willebroek_jr2025,strong,Toelage HVZ Rivierenland 1.29m; tick1020
+bud_wil_toelagen_agb_2025,city_willebroek,2025,1539743,,,bbc_jr_realized,src_willebroek_jr2025,strong,Toelage AGB Willebroek 1.54m dual; tick1020
+bud_wil_toelagen_other_2025,city_willebroek,2025,828808,,,bbc_jr_realized,src_willebroek_jr2025,strong,Toelage andere begunstigden 0.829m FOI; tick1020
+bud_wil_ocmw_aid_2025,city_willebroek,2025,5690173,,,bbc_jr_realized,src_willebroek_jr2025,strong,OCMW individuele hulp 5.69m; tick1020
+bud_wil_fiscal_2025,city_willebroek,2025,32092941,,,bbc_jr_realized,src_willebroek_jr2025,strong,Fiscale opbrengsten 32.09m; tick1020
+bud_wil_fiscal_ov_2025,city_willebroek,2025,13063418,,,bbc_jr_realized,src_willebroek_jr2025,strong,Opcentiemen OV 13.06m; tick1020
+bud_wil_fiscal_pb_2025,city_willebroek,2025,11238156,,,bbc_jr_realized,src_willebroek_jr2025,strong,Aanvullende PB 11.24m JUMP (was 10.11m); tick1020
+bud_wil_gemeentefonds_2025,city_willebroek,2025,9177721,,,bbc_jr_realized,src_willebroek_jr2025,strong,Gemeentefonds 9.18m; tick1020
+bud_wil_fin_opbr_2025,city_willebroek,2025,1616554,,,bbc_jr_realized,src_willebroek_jr2025,strong,Financiele opbrengsten J5 1.62m; tick1020
+bud_wil_invest_subs_granted_2025,city_willebroek,2025,240500,,,bbc_jr_realized,src_willebroek_jr2025,strong,Toegestane invest-subs 0.241m; tick1020
+bud_wil_toegestane_leningen_2025,city_willebroek,2025,9176183,,,bbc_jr_realized,src_willebroek_jr2025,strong,Toegestane leningen 9.18m JUMP HIGH FOI; tick1020
+bud_wil_terugvordering_leningen_2025,city_willebroek,2025,611365,,,bbc_jr_realized,src_willebroek_jr2025,strong,Terugvordering toegestane leningen 0.611m; tick1020
+bud_wil_st_term_deposit_loan_2025,city_willebroek,2025,9000000,,,bbc_jr_realized,src_willebroek_jr2025,strong,Leningen op rekening met vaste termijn 9.00m FOI; tick1020
+bud_wil_interest_2025,city_willebroek,2025,1523868,,,bbc_jr_realized,src_willebroek_jr2025,strong,Intresten op leningen 1.52m; tick1020
+bud_wil_agb_bbr_2025,city_willebroek,2025,434836,,,bbc_jr_realized,src_willebroek_jr2025,strong,AGB BBR 0.435m dual; tick1020
+bud_wil_agb_afm_2025,city_willebroek,2025,-26463,,,bbc_jr_realized,src_willebroek_jr2025,strong,AGB AFM -0.026m NEG dual; tick1020
+bud_wil_agb_afm_corr_2025,city_willebroek,2025,-477341,,,bbc_jr_realized,src_willebroek_jr2025,strong,AGB gecorr AFM -0.477m NEG dual FOI; tick1020
+bud_wil_vorderingen_lt_2025,city_willebroek,2025,26709142,,,bbc_jr_realized,src_willebroek_jr2025,strong,Vorderingen LT YE2025 26.71m JUMP (was 18.23m FOI path toegelaten leningen); tick1020
+bud_wil_desinvest_2025,city_willebroek,2025,1485683,,,bbc_jr_realized,src_willebroek_jr2025,strong,Desinvesteringen 1.49m; tick1020
