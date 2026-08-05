@@ -12162,3 +12162,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +50 (bud_sta_*); commitments +5; leaderboard +7; sources +2; entity city_staden; FOI **gap_sta_pension_cash_ocmw_toelagen_l5** prio8 ready + draft; key only (PDF ~14MB not stored); rq_955=done; spawn **rq_956**; ticks=955
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_956** residual dual L5 (Torhout full BBC if published / Roeselare / Meulebeke / Ledegem / other unmined VL JR2025); deferred **rq_116**; progress@960 in 5
+
+
+### Tick 956 - 2026-08-08T05:00:00Z
+
+- Unit: **rq_956** (FOI-adjacent residual dual - **Gemeente+OCMW Wevelgem Jaarrekening 2025** + Staden dual residual)
+- Found (strong primary BBC JR2025 197p; KBO 0207.488.641 / OCMW 0212.182.748; pub 1.06.2026):
+  - Assets **EUR305.1m** / equity **EUR236.5m** / debt total **EUR68.6m** / fin debt **EUR48.1m** (**DECLINING** from **EUR48.7m**; LT **EUR42.7m** / ST due **EUR5.32m**)
+  - New loans/lease **EUR4.54m** (Fluvius path FOI) / repayments **EUR5.13m**
+  - Cash **EUR19.3m DECLINING** (was EUR22.4m) / pension **EUR10.46m** / FVA IGS **EUR45.0m JUMP** (herwaard **+EUR23.5m FOI**) / FVA other **EUR39.9m FOI**
+  - Exploitatie: ontvangsten **EUR72.7m** / uitgaven **EUR63.4m** / saldo **+EUR9.27m**
+  - AFM **+EUR4.92m** (gecorr **+EUR6.17m**) / BBR **EUR27.0m** / budget **-EUR0.795m FOI** / P&L **+EUR1.68m**
+  - Personnel **EUR37.1m** / toelagen **EUR8.77m** (police **EUR4.46m** / HVZ **EUR0.94m** / IGS **EUR1.20m** / other **EUR1.81m FOI**)
+  - Invest **EUR12.1m** vs MJP **EUR18.3m underspend FOI** / **OCMW cover EUR6.93m LARGE FOI**
+  - Debt per inwoner **EUR1505** (VIPA/Fluvius adj **EUR1275**)
+- Dual: Staden **EUR113.3m** / cash **EUR30.2m** / fin debt **EUR7.86m** / OCMW cover **EUR1.0m** (tick955) - not TE-additive
+- Wrote: budgets +53 (bud_wev_*); commitments +5; leaderboard +7; sources +2; entity city_wevelgem; FOI **gap_wev_ocmw_toelagen_fva_debt_l5** prio8 ready + draft; key only (PDF ~8MB not stored); rq_956=done; spawn **rq_957**; ticks=956
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_957** residual dual L5 (Lendelede / Ledegem / Torhout full BBC if published / Meulebeke / Roeselare); deferred **rq_116**; progress@960 in 4

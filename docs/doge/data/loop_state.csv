@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T04:00:00Z,rq_955,955,no,tick955 Staden JR2025 dual residual; FOI gap_sta_pension_cash_ocmw_toelagen_l5 prio8 assets 113.3m cash 30.2m fin debt 7.86m declining pension 5.32m rising OCMW 1.0m; next residual dual L5 rq_956; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T05:00:00Z,rq_956,956,no,tick956 Wevelgem JR2025 dual residual; FOI gap_wev_ocmw_toelagen_fva_debt_l5 prio8 assets 305.1m fin debt 48.1m declining OCMW cover 6.93m toelagen 8.77m FVA IGS herwaard; next residual dual L5 rq_957; rq_116 deferred

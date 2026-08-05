@@ -21829,3 +21829,57 @@ bud_sta_fin_income_2025,city_staden,2025,3293107,,,realized,src_staden_jr2025,st
 bud_sta_loan_granted_2025,city_staden,2025,50000,,,realized,src_staden_jr2025,strong,Toegestane lening andere 0.050m FOI; tick955
 bud_sta_financing_saldo_2025,city_staden,2025,-968455,,,realized,src_staden_jr2025,strong,Financieringssaldo -0.968m; tick955
 bud_sta_herwaardering_fva_2025,city_staden,2025,3627719,,,realized,src_staden_jr2025,strong,Herwaardering FVA IGS +3.63m FOI; tick955
+bud_wev_assets_2025,city_wevelgem,2025,305124584,,,realized,src_wevelgem_jr2025,strong,Total assets YE2025 305.1m; tick956
+bud_wev_equity_2025,city_wevelgem,2025,236492857,,,realized,src_wevelgem_jr2025,strong,Nettoactief YE2025 236.5m; tick956
+bud_wev_debt_total_2025,city_wevelgem,2025,68631727,,,realized,src_wevelgem_jr2025,strong,Total schulden YE2025 68.6m; tick956
+bud_wev_fin_debt_2025,city_wevelgem,2025,48060992,,,jaarrekening_realized,src_wevelgem_jr2025,strong,T4 total financiele schulden YE2025 48.1m DECLINING (was 48.7m) FOI; tick956
+bud_wev_fin_debt_lt_2025,city_wevelgem,2025,42739353,,,realized,src_wevelgem_jr2025,strong,Financiele schulden LT YE2025 42.7m; tick956
+bud_wev_fin_debt_st_due_2025,city_wevelgem,2025,5321638,,,realized,src_wevelgem_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 5.32m; tick956
+bud_wev_fin_debt_2024,city_wevelgem,2025,48650528,,,realized,src_wevelgem_jr2025,strong,T4 fin debt YE2024 48.7m comparator; tick956
+bud_wev_new_loans_2025,city_wevelgem,2025,4544244,,,realized,src_wevelgem_jr2025,strong,Nieuwe leningen/lease 4.54m (incl Fluvius verlichting) FOI; tick956
+bud_wev_aflossingen_2025,city_wevelgem,2025,5133781,,,realized,src_wevelgem_jr2025,strong,Periodieke aflossingen 5.13m; tick956
+bud_wev_cash_2025,city_wevelgem,2025,19266584,,,realized,src_wevelgem_jr2025,strong,Liquide middelen YE2025 19.3m DECLINING (was 22.4m) FOI; tick956
+bud_wev_cash_2024,city_wevelgem,2025,22388077,,,realized,src_wevelgem_jr2025,strong,Liquide middelen YE2024 22.4m comparator; tick956
+bud_wev_pension_prov_2025,city_wevelgem,2025,10462585,,,realized,src_wevelgem_jr2025,strong,Pensioenvoorzieningen YE2025 10.46m (slight drop); tick956
+bud_wev_pension_prov_2024,city_wevelgem,2025,10629324,,,realized,src_wevelgem_jr2025,strong,Pensioenvoorzieningen YE2024 10.63m; tick956
+bud_wev_prov_st_2025,city_wevelgem,2025,3778151,,,realized,src_wevelgem_jr2025,strong,Voorzieningen ST YE2025 3.78m; tick956
+bud_wev_fva_total_2025,city_wevelgem,2025,84847862,,,realized,src_wevelgem_jr2025,strong,Financiele vaste activa YE2025 84.8m; tick956
+bud_wev_fva_igs_2025,city_wevelgem,2025,44970520,,,realized,src_wevelgem_jr2025,strong,FVA IGS YE2025 45.0m JUMP (herwaard +23.5m) FOI; tick956
+bud_wev_fva_other_2025,city_wevelgem,2025,39877342,,,realized,src_wevelgem_jr2025,strong,FVA andere YE2025 39.9m FOI; tick956
+bud_wev_mva_2025,city_wevelgem,2025,184248466,,,realized,src_wevelgem_jr2025,strong,Materiele vaste activa YE2025 184.2m; tick956
+bud_wev_leasing_mva_2025,city_wevelgem,2025,5156770,,,realized,src_wevelgem_jr2025,strong,Leasing MVA gemeenschap+bedrijf ~5.16m FOI; tick956
+bud_wev_cap_subs_2025,city_wevelgem,2025,51603863,,,realized,src_wevelgem_jr2025,strong,Kapitaalssubsidies YE2025 51.6m; tick956
+bud_wev_expl_rec_2025,city_wevelgem,2025,72720147,,,realized,src_wevelgem_jr2025,strong,Exploitatieontvangsten 72.7m; tick956
+bud_wev_expl_exp_2025,city_wevelgem,2025,63446642,,,realized,src_wevelgem_jr2025,strong,Exploitatieuitgaven 63.4m; tick956
+bud_wev_expl_saldo_2025,city_wevelgem,2025,9273505,,,realized,src_wevelgem_jr2025,strong,Exploitatiesaldo +9.27m; tick956
+bud_wev_expl_rec_ocmw_2025,city_wevelgem,2025,19055474,,,realized,src_wevelgem_jr2025,strong,OCMW expl ontvangsten 19.1m; tick956
+bud_wev_expl_exp_ocmw_2025,city_wevelgem,2025,24426072,,,realized,src_wevelgem_jr2025,strong,OCMW expl uitgaven 24.4m FOI deficit; tick956
+bud_wev_invest_exp_2025,city_wevelgem,2025,12141373,,,realized,src_wevelgem_jr2025,strong,Investeringsuitgaven 12.1m (MJP 18.3m underspend FOI); tick956
+bud_wev_invest_rec_2025,city_wevelgem,2025,2678320,,,realized,src_wevelgem_jr2025,strong,Investeringsontvangsten 2.68m; tick956
+bud_wev_invest_saldo_2025,city_wevelgem,2025,-9463052,,,realized,src_wevelgem_jr2025,strong,Investeringssaldo -9.46m; tick956
+bud_wev_mjp_invest_planned_2025,city_wevelgem,2025,18340946,,,realized,src_wevelgem_jr2025,strong,MJP planned invest 18.3m vs realized 12.1m FOI; tick956
+bud_wev_afm_2025,city_wevelgem,2025,4924266,,,realized,src_wevelgem_jr2025,strong,AFM +4.92m; tick956
+bud_wev_afm_corr_2025,city_wevelgem,2025,6166004,,,realized,src_wevelgem_jr2025,strong,Gecorrigeerde AFM +6.17m; tick956
+bud_wev_bbr_2025,city_wevelgem,2025,27046421,,,realized,src_wevelgem_jr2025,strong,Beschikbaar budgettair resultaat 27.0m; tick956
+bud_wev_budget_result_2025,city_wevelgem,2025,-794916,,,realized,src_wevelgem_jr2025,strong,Budgettair resultaat boekjaar -0.795m NEG FOI; tick956
+bud_wev_cum_br_2025,city_wevelgem,2025,27233088,,,realized,src_wevelgem_jr2025,strong,Gecumuleerd budgettair resultaat 27.2m; tick956
+bud_wev_onbeschikbaar_2025,city_wevelgem,2025,186667,,,realized,src_wevelgem_jr2025,strong,Onbeschikbare gelden 0.187m; tick956
+bud_wev_pnl_result_2025,city_wevelgem,2025,1679038,,,realized,src_wevelgem_jr2025,strong,P&L boekjaar +1.68m; tick956
+bud_wev_personnel_2025,city_wevelgem,2025,37091546,,,realized,src_wevelgem_jr2025,strong,Personeelskosten 37.1m; tick956
+bud_wev_toelagen_2025,city_wevelgem,2025,8771436,,,realized,src_wevelgem_jr2025,strong,Toegestane werkingssubsidies 8.77m FOI named; tick956
+bud_wev_toelagen_police_2025,city_wevelgem,2025,4460346,,,realized,src_wevelgem_jr2025,strong,Toelagen politiezone 4.46m (down from 4.84m); tick956
+bud_wev_toelagen_hvz_2025,city_wevelgem,2025,939710,,,realized,src_wevelgem_jr2025,strong,Toelagen HVZ 0.940m; tick956
+bud_wev_toelagen_igs_2025,city_wevelgem,2025,1195862,,,realized,src_wevelgem_jr2025,strong,Toelagen IGS 1.20m FOI; tick956
+bud_wev_toelagen_kerk_2025,city_wevelgem,2025,293214,,,realized,src_wevelgem_jr2025,strong,Toelagen eredienst 0.293m; tick956
+bud_wev_toelagen_other_2025,city_wevelgem,2025,1809496,,,realized,src_wevelgem_jr2025,strong,Toelagen andere begunstigden 1.81m FOI; tick956
+bud_wev_toelagen_welzijn_2025,city_wevelgem,2025,72808,,,realized,src_wevelgem_jr2025,strong,Toelagen welzijnsverenigingen 0.073m; tick956
+bud_wev_invest_subs_granted_2025,city_wevelgem,2025,765802,,,realized,src_wevelgem_jr2025,strong,Toegestane investeringssubsidies 0.766m; tick956
+bud_wev_ocmw_aid_2025,city_wevelgem,2025,3770970,,,realized,src_wevelgem_jr2025,strong,Individuele hulpverlening OCMW 3.77m; tick956
+bud_wev_ocmw_cover_2025,city_wevelgem,2025,6932511,,,realized,src_wevelgem_jr2025,strong,Tussenkomst gemeente aan OCMW 6.93m LARGE FOI (T5); tick956
+bud_wev_fiscal_2025,city_wevelgem,2025,29790484,,,realized,src_wevelgem_jr2025,strong,Fiscale opbrengsten 29.8m; tick956
+bud_wev_fin_costs_2025,city_wevelgem,2025,1157351,,,realized,src_wevelgem_jr2025,strong,Financiele kosten 1.16m; tick956
+bud_wev_goederen_2025,city_wevelgem,2025,12383339,,,realized,src_wevelgem_jr2025,strong,Goederen en diensten 12.4m; tick956
+bud_wev_fin_income_2025,city_wevelgem,2025,5829917,,,realized,src_wevelgem_jr2025,strong,Financiele opbrengsten 5.83m (was 12.65m drop FOI); tick956
+bud_wev_herwaardering_fva_2025,city_wevelgem,2025,23486097,,,realized,src_wevelgem_jr2025,strong,Herwaardering FVA IGS +23.5m FOI; tick956
+bud_wev_financing_saldo_2025,city_wevelgem,2025,-605369,,,realized,src_wevelgem_jr2025,strong,Financieringssaldo -0.605m; tick956
+bud_wev_debt_per_capita_2025,city_wevelgem,2025,1505,,,derived,src_wevelgem_jr2025,strong,Schuld per inwoner 1505 EUR (risk note; VIPA/Fluvius adj 1275); tick956
