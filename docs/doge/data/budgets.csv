@@ -22367,3 +22367,55 @@ bud_wri_mjp_fin_debt_2026,wri_izegem,2025,113352,,,realized,src_woondienst_izege
 bud_wri_mjp_fin_debt_2027,wri_izegem,2025,105019,,,realized,src_woondienst_izegem_jr2025,strong,MJP fin debt YE2027 0.105m; tick967
 bud_wri_receivables_2025,wri_izegem,2025,634065,,,realized,src_woondienst_izegem_jr2025,strong,Vorderingen KT 0.634m FOI; tick967
 bud_wri_cum_pnl_2025,wri_izegem,2025,843424,,,realized,src_woondienst_izegem_jr2025,strong,Gecumuleerd overschot 0.843m; tick967
+bud_men_assets_2025,city_menen,2025,263157921,,,realized,src_menen_jr2025,strong,Total assets YE2025 263.2m; tick968
+bud_men_equity_2025,city_menen,2025,174529445,,,realized,src_menen_jr2025,strong,Nettoactief YE2025 174.5m; tick968
+bud_men_debt_total_2025,city_menen,2025,88628476,,,realized,src_menen_jr2025,strong,Total schulden YE2025 88.6m; tick968
+bud_men_fin_debt_2025,city_menen,2025,42544648,,,realized,src_menen_jr2025,strong,Fin debt YE2025 42.5m DECLINING from 44.2m; tick968
+bud_men_fin_debt_lt_2025,city_menen,2025,37680646,,,realized,src_menen_jr2025,strong,Fin debt LT 37.7m; tick968
+bud_men_fin_debt_st_due_2025,city_menen,2025,4863529,,,realized,src_menen_jr2025,strong,Fin debt ST due 4.86m; tick968
+bud_men_fin_debt_2024,city_menen,2025,44218124,,,realized,src_menen_jr2025,strong,Fin debt YE2024 44.2m; tick968
+bud_men_new_loans_2025,city_menen,2025,3253951,,,realized,src_menen_jr2025,strong,New loans 3.25m FOI project list; tick968
+bud_men_aflossingen_2025,city_menen,2025,4927451,,,realized,src_menen_jr2025,strong,Periodieke aflossingen 4.93m; tick968
+bud_men_cash_2025,city_menen,2025,9741184,,,realized,src_menen_jr2025,strong,Liquide middelen 9.74m DROP from 12.1m FOI; tick968
+bud_men_cash_2024,city_menen,2025,12128980,,,realized,src_menen_jr2025,strong,Liquide middelen YE2024 12.1m; tick968
+bud_men_pension_prov_2025,city_menen,2025,27095226,,,realized,src_menen_jr2025,strong,Pensioenvoorzieningen 27.1m RISING FOI; tick968
+bud_men_pension_prov_2024,city_menen,2025,22890945,,,realized,src_menen_jr2025,strong,Pensioenvoorzieningen YE2024 22.9m; tick968
+bud_men_prov_st_2025,city_menen,2025,5935912,,,realized,src_menen_jr2025,strong,Voorzieningen ST 5.94m; tick968
+bud_men_fva_total_2025,city_menen,2025,40088857,,,realized,src_menen_jr2025,strong,FVA total 40.1m; tick968
+bud_men_fva_igs_2025,city_menen,2025,31602527,,,realized,src_menen_jr2025,strong,FVA IGS 31.6m; tick968
+bud_men_fva_eva_2025,city_menen,2025,2049449,,,realized,src_menen_jr2025,strong,FVA EVA/AGB 2.05m dual FOI; tick968
+bud_men_mva_2025,city_menen,2025,152668708,,,realized,src_menen_jr2025,strong,MVA total 152.7m; tick968
+bud_men_leasing_mva_2025,city_menen,2025,2890313,,,realized,src_menen_jr2025,strong,Leasing MVA gemeenschap 2.89m FOI; tick968
+bud_men_cap_subs_2025,city_menen,2025,46873075,,,realized,src_menen_jr2025,strong,Kapitaalsubsidies 46.9m; tick968
+bud_men_cum_pnl_2025,city_menen,2025,28502653,,,realized,src_menen_jr2025,strong,Gecumuleerd overschot 28.5m; tick968
+bud_men_expl_rec_2025,city_menen,2025,88802724,,,realized,src_menen_jr2025,strong,Exploitatieontvangsten 88.8m; tick968
+bud_men_expl_exp_2025,city_menen,2025,81570885,,,realized,src_menen_jr2025,strong,Exploitatieuitgaven 81.6m; tick968
+bud_men_expl_saldo_2025,city_menen,2025,7231839,,,realized,src_menen_jr2025,strong,Exploitatiesaldo +7.23m; tick968
+bud_men_invest_exp_2025,city_menen,2025,10577980,,,realized,src_menen_jr2025,strong,Investeringsuitgaven 10.6m underspend vs MJP 22.6m FOI; tick968
+bud_men_invest_rec_2025,city_menen,2025,4846755,,,realized,src_menen_jr2025,strong,Investeringsontvangsten 4.85m; tick968
+bud_men_invest_saldo_2025,city_menen,2025,5731225,,,realized,src_menen_jr2025,strong,Investeringssaldo -5.73m abs; tick968
+bud_men_invest_mjp_2025,city_menen,2025,22613974,,,realized,src_menen_jr2025,strong,MJP invest exp 22.6m (underspend residual); tick968
+bud_men_afm_2025,city_menen,2025,3971598,,,realized,src_menen_jr2025,strong,AFM +3.97m STRONG; tick968
+bud_men_afm_corr_2025,city_menen,2025,5361599,,,realized,src_menen_jr2025,strong,Gecorr AFM +5.36m; tick968
+bud_men_bbr_2025,city_menen,2025,22913610,,,realized,src_menen_jr2025,strong,BBR 22.9m; tick968
+bud_men_budget_result_2025,city_menen,2025,279968,,,realized,src_menen_jr2025,strong,Budgettair resultaat -0.280m abs FOI; tick968
+bud_men_pnl_result_2025,city_menen,2025,3111982,,,realized,src_menen_jr2025,strong,P&L tekort -3.11m abs FOI; tick968
+bud_men_personnel_2025,city_menen,2025,48472806,,,realized,src_menen_jr2025,strong,Bezoldigingen 48.5m; tick968
+bud_men_toelagen_2025,city_menen,2025,14459569,,,realized,src_menen_jr2025,strong,Toegestane werkingssubsidies 14.5m FOI named; tick968
+bud_men_invest_subs_granted_2025,city_menen,2025,272406,,,realized,src_menen_jr2025,strong,Toegestane invest-subs 0.272m; tick968
+bud_men_ocmw_aid_2025,city_menen,2025,4143487,,,realized,src_menen_jr2025,strong,Individuele hulpverlening OCMW 4.14m; tick968
+bud_men_ocmw_cover_2025,city_menen,2025,8257035,,,realized,src_menen_jr2025,strong,OCMW tussenkomst 8.26m LARGE FOI; tick968
+bud_men_ocmw_expl_neg_2025,city_menen,2025,5346640,,,realized,src_menen_jr2025,strong,OCMW expl saldo -5.35m abs FOI; tick968
+bud_men_fiscal_2025,city_menen,2025,28759072,,,realized,src_menen_jr2025,strong,Fiscale opbrengsten 28.8m; tick968
+bud_men_fin_costs_2025,city_menen,2025,1131432,,,realized,src_menen_jr2025,strong,Financiele kosten J5 1.13m; tick968
+bud_men_goederen_2025,city_menen,2025,12659860,,,realized,src_menen_jr2025,strong,Goederen en diensten 12.7m; tick968
+bud_men_financing_saldo_2025,city_menen,2025,1780582,,,realized,src_menen_jr2025,strong,Financieringssaldo -1.78m abs; tick968
+bud_men_agb_bbr_neg_2025,city_menen,2025,3105725,,,realized,src_menen_jr2025,strong,AGB dual BBR -3.11m abs FOI; tick968
+bud_men_agb_afm_neg_2025,city_menen,2025,52789,,,realized,src_menen_jr2025,strong,AGB dual AFM -0.053m abs FOI; tick968
+bud_men_agb_afm_corr_neg_2025,city_menen,2025,1336875,,,realized,src_menen_jr2025,strong,AGB dual gecorr AFM -1.34m NEG FOI abs; tick968
+bud_men_mjp_fin_debt_2026,city_menen,2025,45397279,,,realized,src_menen_jr2025,strong,MJP fin debt YE2026 45.4m JUMP FOI; tick968
+bud_men_mjp_fin_debt_2027,city_menen,2025,51453964,,,realized,src_menen_jr2025,strong,MJP fin debt YE2027 51.5m JUMP FOI; tick968
+bud_men_costs_j5_2025,city_menen,2025,94589817,,,realized,src_menen_jr2025,strong,J5 total kosten 94.6m; tick968
+bud_men_revenue_j5_2025,city_menen,2025,91477835,,,realized,src_menen_jr2025,strong,J5 total opbrengsten 91.5m; tick968
+bud_men_debt_per_capita_2025,city_menen,2025,1241,,,realized,src_menen_jr2025,strong,Openstaande schuld per inwoner EUR1241; tick968
+bud_men_loans_to_agb_2025,city_menen,2025,1267923,,,realized,src_menen_jr2025,strong,Toegestane renteloze leningen AGB 1.27m FOI; tick968

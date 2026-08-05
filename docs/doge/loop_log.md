@@ -12390,3 +12390,24 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_968** residual dual L5 (Ledegem / Meulebeke / Torhout / WZBW / Oostrozebeke); deferred **rq_116**; progress@970 in 3
 
+
+### Tick 968 - 2026-08-08T17:00:00Z
+
+- Unit: **rq_968** (FOI-adjacent residual dual - **Stad+OCMW Menen Jaarrekening 2025** + Woondienst Izegem dual residual + AGB Menen Entity II)
+- Found (strong primary BBC FinNota 185p; NIS 34027; GR 01.07.2026; echo FinNota + AGB PDF public):
+  - Assets **EUR263.2m** / equity **EUR174.5m** / debt total **EUR88.6m** / fin debt **EUR42.5m** (**DECLINING** from **EUR44.2m**; LT **EUR37.7m** / ST due **EUR4.86m**)
+  - New loans **EUR3.25m** / repayments **EUR4.93m**
+  - Cash **EUR9.74m DROP** (was **EUR12.1m**) / pension **EUR27.1m RISING** / leasing MVA **EUR2.89m FOI** / FVA IGS **EUR31.6m** / FVA EVA **EUR2.05m**
+  - Exploitatie: ontvangsten **EUR88.8m** / uitgaven **EUR81.6m** / saldo **+EUR7.23m**
+  - AFM **+EUR3.97m STRONG** (gecorr **+EUR5.36m**) / BBR **EUR22.9m** / budget **-EUR0.280m FOI** / P&L **-EUR3.11m FOI**
+  - **AGB dual**: BBR **-EUR3.11m** / AFM **-EUR0.053m** / **gecorr AFM -EUR1.34m NEG FOI**
+  - Personnel **EUR48.5m** / toelagen **EUR14.5m FOI** / invest-subs **EUR0.272m**
+  - Invest **EUR10.6m** vs MJP **EUR22.6m underspend FOI** (~47pct) / **OCMW cover EUR8.26m LARGE FOI** (OCMW expl **-EUR5.35m**)
+  - Renteloze leningen AGB **EUR1.27m FOI** / MJP fin debt planned **EUR45.4m (2026) / EUR51.5m (2027) JUMP FOI**
+  - Debt per capita **EUR1241**
+- Dual: Woondienst Regio Izegem **EUR1.37m** / AFM **-EUR0.210m** / cash DROP (tick967) - not TE-additive
+- Note: Ledegem/Torhout/Meulebeke still no extractable JR2025 PDF this tick; AGB Menen full Entity II PDF available next residual
+- Wrote: budgets +52 (bud_men_*); commitments +5; leaderboard +7; sources +1; entity city_menen; FOI **gap_men_ocmw_agb_debt_mjp_l5** prio8 ready + draft; key only (PDFs not stored in git); rq_968=done; spawn **rq_969**; ticks=968
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_969** residual dual L5 (AGB Menen Entity II preferred / Ledegem / Torhout / WZBW / Oostrozebeke); deferred **rq_116**; progress@970 in 2
+

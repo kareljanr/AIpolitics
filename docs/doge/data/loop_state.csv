@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T16:00:00Z,rq_967,967,no,tick967 Woondienst Regio Izegem JR2025 Entity II dual residual; FOI gap_wri_afm_neg_cash_subsidy_l5 prio8 assets 1.37m cash 0.329m DROP AFM -0.210m NEG personnel 1.85m werkingsubs 1.66m; next residual dual L5 rq_968; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T17:00:00Z,rq_968,968,no,tick968 Menen GE+OCMW JR2025 dual residual; FOI gap_men_ocmw_agb_debt_mjp_l5 prio8 assets 263m fin debt 42.5m declining OCMW cover 8.26m AGB gecorr AFM -1.34m MJP debt JUMP 51.5m; next residual dual L5 rq_969 AGB Menen preferred; rq_116 deferred
