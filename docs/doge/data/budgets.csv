@@ -24945,3 +24945,49 @@ bud_boc_agb_bbr_2025,city_boechout,2025,288676,,,bbc_jr_realized,src_boechout_jr
 bud_boc_agb_afm_2025,city_boechout,2025,3941,,,bbc_jr_realized,src_boechout_jr2025,strong,AGB AFM +0.004m THIN dual; tick1024
 bud_boc_agb_afm_corr_2025,city_boechout,2025,-90541,,,bbc_jr_realized,src_boechout_jr2025,strong,AGB gecorr AFM -0.091m NEG dual FOI; tick1024
 bud_boc_vorderingen_lt_2025,city_boechout,2025,10304295,,,bbc_jr_realized,src_boechout_jr2025,strong,Vorderingen LT YE2025 10.30m; tick1024
+bud_hog_assets_2025,city_hoogstraten,2025,186426881,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Assets YE2025 186.43m (was 186.97m); tick1025
+bud_hog_equity_2025,city_hoogstraten,2025,132563072,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Nettoactief YE2025 132.56m (was 131.77m JUMP); tick1025
+bud_hog_debt_total_2025,city_hoogstraten,2025,53863809,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Total schulden YE2025 53.86m; tick1025
+bud_hog_fin_debt_2025,city_hoogstraten,2025,27956481,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Fin debt total YE2025 27.96m DECLINING (was 30.62m T4); tick1025
+bud_hog_fin_debt_lt_2025,city_hoogstraten,2025,25568445,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Fin debt LT YE2025 25.57m DECLINING (was 28.11m); tick1025
+bud_hog_fin_debt_st_due_2025,city_hoogstraten,2025,2388037,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Fin debt ST due YE2025 2.39m; tick1025
+bud_hog_new_loans_2025,city_hoogstraten,2025,35141,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Nieuwe leningen 2025 0.035m lease only; tick1025
+bud_hog_aflossingen_2025,city_hoogstraten,2025,2512861,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Periodieke aflossingen 2025 2.51m; tick1025
+bud_hog_cash_2025,city_hoogstraten,2025,40562731,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Liquide middelen YE2025 40.56m VERY HIGH (was 39.56m); tick1025
+bud_hog_pension_2025,city_hoogstraten,2025,15192000,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Pensioenvoorzieningen LT YE2025 15.19m JUMP FOI (was 13.98m); tick1025
+bud_hog_cap_subs_2025,city_hoogstraten,2025,36863764,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Kapitaalsubsidies YE2025 36.86m; tick1025
+bud_hog_fva_total_2025,city_hoogstraten,2025,18142482,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,FVA total YE2025 18.14m; tick1025
+bud_hog_fva_igs_2025,city_hoogstraten,2025,18037480,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,FVA IGS YE2025 18.04m; tick1025
+bud_hog_leasing_mva_2025,city_hoogstraten,2025,2048715,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Leasing MVA gemeenschapsgoederen YE2025 2.05m; tick1025
+bud_hog_leasing_business_2025,city_hoogstraten,2025,17330735,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Leasing MVA bedrijfsmatig YE2025 17.33m FOI dual residual; tick1025
+bud_hog_expl_rec_2025,city_hoogstraten,2025,63371340,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Exploitatieontvangsten 63.37m; tick1025
+bud_hog_expl_exp_2025,city_hoogstraten,2025,54179318,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Exploitatieuitgaven 54.18m; tick1025
+bud_hog_expl_saldo_2025,city_hoogstraten,2025,9192022,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Exploitatiesaldo +9.19m VERY STRONG; tick1025
+bud_hog_invest_exp_2025,city_hoogstraten,2025,7812127,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Investeringsuitgaven 7.81m vs MJP 11.79m UNDERSPEND FOI; tick1025
+bud_hog_invest_rec_2025,city_hoogstraten,2025,2715896,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Investeringsontvangsten 2.72m; tick1025
+bud_hog_invest_saldo_2025,city_hoogstraten,2025,-5096232,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Investeringssaldo -5.10m; tick1025
+bud_hog_mjp_invest_planned_2025,city_hoogstraten,2025,11791884,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,MJP invest planned 11.79m vs realized 7.81m underspend FOI; tick1025
+bud_hog_afm_2025,city_hoogstraten,2025,7670310,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,AFM +7.67m VERY STRONG; tick1025
+bud_hog_afm_corr_2025,city_hoogstraten,2025,7733435,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Gecorrigeerde AFM +7.73m VERY STRONG; tick1025
+bud_hog_bbr_2025,city_hoogstraten,2025,37524097,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,BBR beschikbaar 37.52m VERY HIGH FOI residual; tick1025
+bud_hog_budget_result_2025,city_hoogstraten,2025,1557458,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Budgettair resultaat +1.56m STRONG; tick1025
+bud_hog_cum_br_2025,city_hoogstraten,2025,38930429,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Gecumuleerd budgettair resultaat 38.93m VERY HIGH; tick1025
+bud_hog_onbeschikbaar_2025,city_hoogstraten,2025,1406332,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Onbeschikbare gelden 1.41m; tick1025
+bud_hog_pnl_2025,city_hoogstraten,2025,1367347,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,P&L +1.37m (flip from -1.93m); tick1025
+bud_hog_ge_expl_exp_2025,city_hoogstraten,2025,37783258,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,GE exploitatieuitgaven J3 37.78m; tick1025
+bud_hog_ge_expl_rec_2025,city_hoogstraten,2025,47359091,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,GE exploitatieontvangsten J3 47.36m; tick1025
+bud_hog_ocmw_expl_exp_2025,city_hoogstraten,2025,16396060,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,OCMW exploitatieuitgaven J3 16.40m FOI; tick1025
+bud_hog_ocmw_expl_rec_2025,city_hoogstraten,2025,16012250,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,OCMW exploitatieontvangsten J3 16.01m; tick1025
+bud_hog_ocmw_expl_gap_2025,city_hoogstraten,2025,-383810,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,OCMW expl gap J3 -0.384m FOI residual; tick1025
+bud_hog_ocmw_cover_2025,city_hoogstraten,2025,1651232,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,OCMW cover tussenkomst 1.65m FULL FOI; tick1025
+bud_hog_equity_cum_2025,city_hoogstraten,2025,20721631,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Gecumuleerd equity overschot YE2025 +20.72m POSITIVE; tick1025
+bud_hog_personnel_2025,city_hoogstraten,2025,30571037,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Bezoldigingen 30.57m; tick1025
+bud_hog_toelagen_2025,city_hoogstraten,2025,7660581,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Toegestane werkingssubsidies 7.66m FOI residual matrix; tick1025
+bud_hog_invest_subs_granted_2025,city_hoogstraten,2025,2504739,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Toegestane invest-subs 2.50m JUMP HIGH FOI (was 1.01m); tick1025
+bud_hog_ocmw_aid_2025,city_hoogstraten,2025,1009891,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,OCMW individuele hulp 1.01m; tick1025
+bud_hog_fiscal_2025,city_hoogstraten,2025,23196976,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Fiscale opbrengsten 23.20m; tick1025
+bud_hog_fiscal_ov_2025,city_hoogstraten,2025,13303705,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Opcentiemen OV 13.30m; tick1025
+bud_hog_fiscal_pb_2025,city_hoogstraten,2025,7149544,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Aanvullende PB 7.15m JUMP FOI; tick1025
+bud_hog_gemeentefonds_2025,city_hoogstraten,2025,7910754,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Gemeentefonds 7.91m; tick1025
+bud_hog_fin_opbr_2025,city_hoogstraten,2025,3713732,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Financiele opbrengsten J5 3.71m; tick1025
+bud_hog_interest_2025,city_hoogstraten,2025,708837,,,bbc_jr_realized,src_hoogstraten_jr2025,strong,Financiele kosten 0.709m; tick1025

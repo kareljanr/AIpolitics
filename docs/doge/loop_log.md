@@ -13447,3 +13447,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1025** residual dual L5 (Torhout / Stekene / Balen if OCR / Oosterzele / other); deferred **rq_116**; progress@1030 in 5
 
+
+### Tick 1025 - 2026-08-10T01:45:00Z
+
+- Unit: **rq_1025** (FOI-adjacent residual dual - **Stad+OCMW Hoogstraten Jaarrekening 2025** + Boechout dual residual)
+- Found (strong primary BBC JR2025 117p; KBO 0207.502.202 / OCMW 0207.888.816; AD wnd Peter Crols; FD Patrick Verheyden; Vrijheid 149):
+  - Assets **EUR186.43m** / equity **EUR132.56m JUMP** / debt total **EUR53.86m** / fin debt **EUR27.96m** (**DECLINING** from **EUR30.62m**; LT **EUR25.57m** / ST due **EUR2.39m**)
+  - New loans **EUR0.035m** lease only / repayments **EUR2.51m**
+  - Cash **EUR40.56m VERY HIGH** (was **EUR39.56m**) / pension **EUR15.19m JUMP FOI** (was **EUR13.98m**) / leasing MVA gemeenschaps **EUR2.05m** / bedrijfsmatig **EUR17.33m FOI**
+  - FVA IGS **EUR18.04m** / cap subs **EUR36.86m**
+  - Exploitatie: ontvangsten **EUR63.37m** / uitgaven **EUR54.18m** / saldo **+EUR9.19m VERY STRONG**
+  - AFM **+EUR7.67m VERY STRONG** (gecorr **+EUR7.73m**) / BBR **EUR37.52m VERY HIGH FOI** / budget **+EUR1.56m STRONG** / cum BR **EUR38.93m** / P&L **+EUR1.37m**
+  - Personnel **EUR30.57m** / toelagen **EUR7.66m FOI matrix** / invest-subs **EUR2.50m JUMP HIGH FOI** (was **EUR1.01m**)
+  - Invest **EUR7.81m** vs MJP **EUR11.79m UNDERSPEND FOI** / **OCMW cover EUR1.65m FULL FOI** / OCMW expl gap **-EUR0.384m** / equity cum **+EUR20.72m POSITIVE**
+- Dual: Boechout **EUR84.07m** / OCMW cover **0** / pension JUMP **EUR5.61m** (tick1024) - not TE-additive
+- Note: Torhout still news-only; Lint JR2025 PDF available reserved next; Stekene 404 prior; Balen OCR-blocked; Oosterzele residual
+- Wrote: budgets +46 (bud_hog_*); commitments +6; leaderboard +8; sources +1; entity city_hoogstraten; FOI **gap_hog_invest_subs_pension_toelagen_l5** prio9 ready + draft; key only (PDF ~3.5MB not stored in git); rq_1025=done; spawn **rq_1026**; ticks=1025
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1026** residual dual L5 (Torhout / Lint / Stekene / Balen if OCR / Oosterzele / other); deferred **rq_116**; progress@1030 in 4
+
