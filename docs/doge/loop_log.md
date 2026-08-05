@@ -12484,3 +12484,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_973** residual dual L5 (AGB Zwevegem preferred / Ledegem / Torhout / WZBW); deferred **rq_116**; progress@980 in 8
 
+
+### Tick 973 - 2026-08-08T22:00:00Z
+
+- Unit: **rq_973** (FOI-adjacent residual dual Entity II - **AGB Zwevegem Jaarrekening 2025 Transfo** + Zwevegem GE dual residual)
+- Found (strong primary BBC JR2025 82p image PDF; KBO 0832.665.321; NIS 34042; FD Sander De Bo; Blokkestraat 29):
+  - Assets **EUR3.24m** / equity **-EUR0.021m NEG** (was +EUR0.002m) / debt total **EUR3.26m** / fin debt **EUR3.08m** (**DECLINING** from **EUR3.11m**; LT **EUR3.04m** / ST due **EUR0.037m**)
+  - Lease debt **EUR2.32m** / gemeente on-lend **EUR0.720m** (90y erfpacht/ING) / new loans **EUR0** / repayments **EUR0.037m LOW** (aangewezen **EUR0.249m** >> periodiek FOI)
+  - Cash **EUR0.031m LOW** / leasing-erfpacht MVA **EUR3.19m LARGE FOI** (~99pct assets Transfo polyvalente+machinezaal)
+  - Exploitatie: ontvangsten **EUR0.075m** / uitgaven **EUR0.059m** / saldo **+EUR0.016m**
+  - AFM **-EUR0.021m NEG** / **gecorr AFM -EUR0.233m NEG FOI** (99y erfpacht driver) / BBR **-EUR0.125m NEG FOI** / budget **-EUR0.021m** / P&L **-EUR0.023m**
+  - Goederen **EUR0.056m** / dep **EUR0.038m** / no personnel / no winstuitkering 2025
+  - MJP fin debt planned **EUR3.04m (2026) / EUR3.00m (2027)** declining
+- Dual: Zwevegem GE **EUR198.9m** / fin debt **EUR37.9m RISING** / OCMW cover **EUR1.75m** / AGB dual confirmed (tick972) - not TE-additive
+- Wrote: budgets +34 (bud_agbz_*); commitments +5; leaderboard +7; sources +1; entity agb_zwevegem; FOI **gap_agb_zwe_afm_lease_equity_neg_l5** prio8 ready + draft; key only (PDF ~19MB not stored in git); rq_973=done; spawn **rq_974**; ticks=973
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_974** residual dual L5 (Ledegem / Meulebeke / Torhout / WZBW); deferred **rq_116**; progress@980 in 7
+

@@ -22560,3 +22560,37 @@ bud_zwe_lago_loan_2025,city_zwevegem,2025,1537203,,,realized,src_zwevegem_jr2025
 bud_zwe_costs_j5_2025,city_zwevegem,2025,65845044,,,realized,src_zwevegem_jr2025,strong,J5 total kosten 65.8m; tick972
 bud_zwe_revenue_j5_2025,city_zwevegem,2025,72243041,,,realized,src_zwevegem_jr2025,strong,J5 total opbrengsten 72.2m; tick972
 bud_zwe_onbeschikbaar_2025,city_zwevegem,2025,239618,,,realized,src_zwevegem_jr2025,strong,Onbeschikbare gelden 0.240m; tick972
+bud_agbz_assets_2025,agb_zwevegem,2025,3238122,,,realized,src_agb_zwevegem_jr2025,strong,Total assets YE2025 3.24m; tick973
+bud_agbz_equity_2025,agb_zwevegem,2025,20945,,,realized,src_agb_zwevegem_jr2025,strong,Nettoactief YE2025 -0.021m NEG abs FOI; tick973
+bud_agbz_debt_total_2025,agb_zwevegem,2025,3259067,,,realized,src_agb_zwevegem_jr2025,strong,Total schulden YE2025 3.26m; tick973
+bud_agbz_fin_debt_2025,agb_zwevegem,2025,3076056,,,realized,src_agb_zwevegem_jr2025,strong,Fin debt YE2025 3.08m DECLINING from 3.11m; tick973
+bud_agbz_fin_debt_lt_2025,agb_zwevegem,2025,3039437,,,realized,src_agb_zwevegem_jr2025,strong,Fin debt LT 3.04m; tick973
+bud_agbz_fin_debt_st_due_2025,agb_zwevegem,2025,36620,,,realized,src_agb_zwevegem_jr2025,strong,Fin debt ST due 0.037m; tick973
+bud_agbz_fin_debt_2024,agb_zwevegem,2025,3112676,,,realized,src_agb_zwevegem_jr2025,strong,Fin debt YE2024 3.11m; tick973
+bud_agbz_lease_debt_2025,agb_zwevegem,2025,2318951,,,realized,src_agb_zwevegem_jr2025,strong,Lease debt 2.32m LARGE FOI (~76pct fin debt); tick973
+bud_agbz_gemeente_loan_2025,agb_zwevegem,2025,720486,,,realized,src_agb_zwevegem_jr2025,strong,Gemeente on-lend loan 0.720m FOI 90y erfpacht path; tick973
+bud_agbz_new_loans_2025,agb_zwevegem,2025,0,,,realized,src_agb_zwevegem_jr2025,strong,New loans 0; tick973
+bud_agbz_aflossingen_2025,agb_zwevegem,2025,36620,,,realized,src_agb_zwevegem_jr2025,strong,Periodieke aflossingen 0.037m LOW vs aangewezen 0.249m FOI; tick973
+bud_agbz_aangewezen_afl_2025,agb_zwevegem,2025,249014,,,realized,src_agb_zwevegem_jr2025,strong,Aangewezen aflossingen 0.249m FOI AFM driver; tick973
+bud_agbz_cash_2025,agb_zwevegem,2025,31301,,,realized,src_agb_zwevegem_jr2025,strong,Liquide middelen 0.031m LOW FOI; tick973
+bud_agbz_cash_2024,agb_zwevegem,2025,19060,,,realized,src_agb_zwevegem_jr2025,strong,Liquide middelen YE2024 0.019m; tick973
+bud_agbz_leasing_mva_2025,agb_zwevegem,2025,3192836,,,realized,src_agb_zwevegem_jr2025,strong,Leasing/erfpacht MVA 3.19m LARGE FOI (~99pct assets Transfo); tick973
+bud_agbz_mva_2025,agb_zwevegem,2025,3192836,,,realized,src_agb_zwevegem_jr2025,strong,MVA total 3.19m; tick973
+bud_agbz_cum_pnl_2025,agb_zwevegem,2025,20945,,,realized,src_agb_zwevegem_jr2025,strong,Gecumuleerd tekort -0.021m abs FOI (was +0.002m); tick973
+bud_agbz_expl_rec_2025,agb_zwevegem,2025,74622,,,realized,src_agb_zwevegem_jr2025,strong,Exploitatieontvangsten 0.075m; tick973
+bud_agbz_expl_exp_2025,agb_zwevegem,2025,58519,,,realized,src_agb_zwevegem_jr2025,strong,Exploitatieuitgaven 0.059m; tick973
+bud_agbz_expl_saldo_2025,agb_zwevegem,2025,16103,,,realized,src_agb_zwevegem_jr2025,strong,Exploitatiesaldo +0.016m; tick973
+bud_agbz_invest_exp_2025,agb_zwevegem,2025,0,,,realized,src_agb_zwevegem_jr2025,strong,Investeringsuitgaven 0; tick973
+bud_agbz_afm_2025,agb_zwevegem,2025,20517,,,realized,src_agb_zwevegem_jr2025,strong,AFM -0.021m NEG FOI abs; tick973
+bud_agbz_afm_corr_2025,agb_zwevegem,2025,232911,,,realized,src_agb_zwevegem_jr2025,strong,Gecorr AFM -0.233m NEG FOI abs (99y erfpacht driver); tick973
+bud_agbz_bbr_2025,agb_zwevegem,2025,124625,,,realized,src_agb_zwevegem_jr2025,strong,BBR -0.125m NEG FOI abs; tick973
+bud_agbz_budget_result_2025,agb_zwevegem,2025,20517,,,realized,src_agb_zwevegem_jr2025,strong,Budgettair resultaat -0.021m abs FOI; tick973
+bud_agbz_pnl_result_2025,agb_zwevegem,2025,22596,,,realized,src_agb_zwevegem_jr2025,strong,P&L tekort -0.023m abs FOI; tick973
+bud_agbz_goederen_2025,agb_zwevegem,2025,55609,,,realized,src_agb_zwevegem_jr2025,strong,Goederen en diensten 0.056m; tick973
+bud_agbz_depreciation_2025,agb_zwevegem,2025,38010,,,realized,src_agb_zwevegem_jr2025,strong,Afschrijvingen 0.038m; tick973
+bud_agbz_werking_rec_2025,agb_zwevegem,2025,74175,,,realized,src_agb_zwevegem_jr2025,strong,Opbrengsten uit de werking 0.074m; tick973
+bud_agbz_financing_saldo_2025,agb_zwevegem,2025,36620,,,realized,src_agb_zwevegem_jr2025,strong,Financieringssaldo -0.037m abs; tick973
+bud_agbz_costs_j5_2025,agb_zwevegem,2025,97388,,,realized,src_agb_zwevegem_jr2025,strong,J5 total kosten 0.097m; tick973
+bud_agbz_revenue_j5_2025,agb_zwevegem,2025,74792,,,realized,src_agb_zwevegem_jr2025,strong,J5 total opbrengsten 0.075m; tick973
+bud_agbz_mjp_fin_debt_2026,agb_zwevegem,2025,3039437,,,realized,src_agb_zwevegem_jr2025,strong,MJP fin debt YE2026 3.04m declining; tick973
+bud_agbz_mjp_fin_debt_2027,agb_zwevegem,2025,3002817,,,realized,src_agb_zwevegem_jr2025,strong,MJP fin debt YE2027 3.00m; tick973

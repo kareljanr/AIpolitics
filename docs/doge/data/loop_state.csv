@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T21:00:00Z,rq_972,972,no,tick972 Zwevegem GE+OCMW JR2025 dual residual; FOI gap_zwe_debt_ocmw_agb_invest_l5 prio8 assets 198.9m fin debt 37.9m RISING +loan 8.31m cash 9.52m JUMP OCMW cover 1.75m AGB AFM corr neg MJP debt JUMP 43.7m; next residual dual L5 rq_973 AGB Zwevegem preferred; rq_116 deferred
+main,continuous,hole_fill,2026-08-08T22:00:00Z,rq_973,973,no,tick973 AGB Zwevegem JR2025 Entity II dual residual Transfo; FOI gap_agb_zwe_afm_lease_equity_neg_l5 prio8 assets 3.24m lease MVA 3.19m fin debt 3.08m equity NEG BBR -0.125m AFM -0.021m gecorr -0.233m; next residual dual L5 rq_974; rq_116 deferred
