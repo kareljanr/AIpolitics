@@ -23771,3 +23771,50 @@ bud_dha_gemeentefonds_2025,city_de_haan,2025,4535841,,,realized,src_dehaan_jr202
 bud_dha_fin_opbr_2025,city_de_haan,2025,1614727,,,realized,src_dehaan_jr2025,strong,Financiele opbrengsten 1.61m; tick1002
 bud_dha_fin_costs_2025,city_de_haan,2025,323128,,,realized,src_dehaan_jr2025,strong,Financiele kosten 0.323m; tick1002
 bud_dha_invest_subs_granted_2025,city_de_haan,2025,706432,,,realized,src_dehaan_jr2025,strong,Toegestane investeringssubsidies 0.706m; tick1002
+bud_bee_assets_2025,city_beernem,2025,98991978,,,realized,src_beernem_jr2025,strong,Assets YE2025 98.99m (was 95.42m); tick1003
+bud_bee_equity_2025,city_beernem,2025,68620433,,,realized,src_beernem_jr2025,strong,Nettoactief YE2025 68.62m (was 68.87m); tick1003
+bud_bee_debt_total_2025,city_beernem,2025,30371545,,,realized,src_beernem_jr2025,strong,Total schulden YE2025 30.37m (was 26.55m); tick1003
+bud_bee_fin_debt_2025,city_beernem,2025,21549682,,,realized,src_beernem_jr2025,strong,Fin debt total YE2025 21.55m RISING (was 19.91m); tick1003
+bud_bee_fin_debt_lt_2025,city_beernem,2025,19920528,,,realized,src_beernem_jr2025,strong,Fin debt LT YE2025 19.92m; tick1003
+bud_bee_fin_debt_st_due_2025,city_beernem,2025,1629154,,,realized,src_beernem_jr2025,strong,Fin debt ST due YE2025 1.63m; tick1003
+bud_bee_new_loans_2025,city_beernem,2025,3350532,,,realized,src_beernem_jr2025,strong,Nieuwe leningen 2025 3.35m FOI; tick1003
+bud_bee_aflossingen_2025,city_beernem,2025,1707121,,,realized,src_beernem_jr2025,strong,Periodieke aflossingen 2025 1.71m; tick1003
+bud_bee_cash_2025,city_beernem,2025,5924382,,,realized,src_beernem_jr2025,strong,Liquide middelen YE2025 5.92m DROP (was 7.15m); tick1003
+bud_bee_pension_2025,city_beernem,2025,6189663,,,realized,src_beernem_jr2025,strong,Pensioenvoorzieningen LT YE2025 6.19m JUMP (was 3.34m FOI); tick1003
+bud_bee_cap_subs_2025,city_beernem,2025,7824593,,,realized,src_beernem_jr2025,strong,Kapitaalsubsidies YE2025 7.82m; tick1003
+bud_bee_fva_total_2025,city_beernem,2025,9944473,,,realized,src_beernem_jr2025,strong,FVA total YE2025 9.94m; tick1003
+bud_bee_fva_igs_2025,city_beernem,2025,9871276,,,realized,src_beernem_jr2025,strong,FVA IGS YE2025 9.87m; tick1003
+bud_bee_leasing_mva_gem_2025,city_beernem,2025,2223920,,,realized,src_beernem_jr2025,strong,Leasing MVA gemeenschapsgoederen YE2025 2.22m; tick1003
+bud_bee_leasing_mva_bedrijf_2025,city_beernem,2025,15987956,,,realized,src_beernem_jr2025,strong,Leasing MVA bedrijfsmatig YE2025 15.99m HIGH FOI; tick1003
+bud_bee_expl_rec_2025,city_beernem,2025,29891261,,,realized,src_beernem_jr2025,strong,Exploitatieontvangsten 29.89m; tick1003
+bud_bee_expl_exp_2025,city_beernem,2025,24946711,,,realized,src_beernem_jr2025,strong,Exploitatieuitgaven 24.95m; tick1003
+bud_bee_expl_saldo_2025,city_beernem,2025,4944551,,,realized,src_beernem_jr2025,strong,Exploitatiesaldo +4.94m STRONG; tick1003
+bud_bee_invest_exp_2025,city_beernem,2025,7750998,,,realized,src_beernem_jr2025,strong,Investeringsuitgaven 7.75m vs MJP 4.88m OVERSPEND FOI; tick1003
+bud_bee_invest_rec_2025,city_beernem,2025,730343,,,realized,src_beernem_jr2025,strong,Investeringsontvangsten 0.730m; tick1003
+bud_bee_invest_saldo_2025,city_beernem,2025,-7020655,,,realized,src_beernem_jr2025,strong,Investeringssaldo -7.02m; tick1003
+bud_bee_mjp_invest_exp_2025,city_beernem,2025,4879479,,,realized,src_beernem_jr2025,strong,MJP invest uitgaven 4.88m; tick1003
+bud_bee_afm_2025,city_beernem,2025,3417372,,,realized,src_beernem_jr2025,strong,AFM +3.42m STRONG (MJP 0.528m); tick1003
+bud_bee_afm_corr_2025,city_beernem,2025,3532017,,,realized,src_beernem_jr2025,strong,Gecorrigeerde AFM +3.53m; tick1003
+bud_bee_bbr_2025,city_beernem,2025,6715429,,,realized,src_beernem_jr2025,strong,Beschikbaar BBR 6.72m; tick1003
+bud_bee_bbr_cum_2025,city_beernem,2025,6719929,,,realized,src_beernem_jr2025,strong,Gecumuleerd budgettair resultaat 6.72m; tick1003
+bud_bee_budget_result_2025,city_beernem,2025,-1285965,,,realized,src_beernem_jr2025,strong,Budgettair resultaat boekjaar -1.29m; tick1003
+bud_bee_pnl_result_2025,city_beernem,2025,-749808,,,realized,src_beernem_jr2025,strong,P&L -0.750m; tick1003
+bud_bee_pnl_ge_2025,city_beernem,2025,1099669,,,realized,src_beernem_jr2025,strong,GE P&L +1.10m; tick1003
+bud_bee_pnl_ocmw_2025,city_beernem,2025,-1849477,,,realized,src_beernem_jr2025,strong,OCMW P&L -1.85m FOI; tick1003
+bud_bee_ocmw_cover_2025,city_beernem,2025,0,,,realized,src_beernem_jr2025,strong,OCMW cover ZERO while OCMW P&L -1.85m FOI; tick1003
+bud_bee_ocmw_cum_deficit_2025,city_beernem,2025,-7685273,,,realized,src_beernem_jr2025,strong,OCMW cum tekort YE2025 -7.69m WORSENING (was -5.84m FOI); tick1003
+bud_bee_personnel_2025,city_beernem,2025,13016602,,,realized,src_beernem_jr2025,strong,Bezoldigingen 13.02m (incl onderwijs other-gov 1.18m); tick1003
+bud_bee_toelagen_2025,city_beernem,2025,4642662,,,realized,src_beernem_jr2025,strong,Toegestane werkingssubsidies 4.64m JUMP; tick1003
+bud_bee_toelagen_police_2025,city_beernem,2025,1603880,,,realized,src_beernem_jr2025,strong,Toelage politiezone 1.60m; tick1003
+bud_bee_toelagen_fire_2025,city_beernem,2025,683281,,,realized,src_beernem_jr2025,strong,Toelage hulpverleningszone 0.683m; tick1003
+bud_bee_toelagen_igs_2025,city_beernem,2025,1056347,,,realized,src_beernem_jr2025,strong,Toelage IGS 1.06m JUMP FOI (was 0.281m); tick1003
+bud_bee_toelagen_eredienst_2025,city_beernem,2025,132239,,,realized,src_beernem_jr2025,strong,Toelage eredienst 0.132m; tick1003
+bud_bee_toelagen_other_2025,city_beernem,2025,1162895,,,realized,src_beernem_jr2025,strong,Toelage andere begunstigden 1.16m FOI; tick1003
+bud_bee_ocmw_aid_2025,city_beernem,2025,1037703,,,realized,src_beernem_jr2025,strong,OCMW individuele hulp 1.04m; tick1003
+bud_bee_fiscal_2025,city_beernem,2025,15610995,,,realized,src_beernem_jr2025,strong,Fiscale opbrengsten 15.61m; tick1003
+bud_bee_fiscal_ov_2025,city_beernem,2025,7129814,,,realized,src_beernem_jr2025,strong,Opcentiemen OV 7.13m; tick1003
+bud_bee_fiscal_pb_2025,city_beernem,2025,7399321,,,realized,src_beernem_jr2025,strong,Aanvullende PB 7.40m; tick1003
+bud_bee_gemeentefonds_2025,city_beernem,2025,4906474,,,realized,src_beernem_jr2025,strong,Gemeentefonds 4.91m; tick1003
+bud_bee_fin_opbr_2025,city_beernem,2025,653823,,,realized,src_beernem_jr2025,strong,Financiele opbrengsten 0.654m; tick1003
+bud_bee_fin_costs_2025,city_beernem,2025,536707,,,realized,src_beernem_jr2025,strong,Financiele kosten 0.537m; tick1003
+bud_bee_invest_subs_granted_2025,city_beernem,2025,133495,,,realized,src_beernem_jr2025,strong,Toegestane investeringssubsidies 0.133m; tick1003

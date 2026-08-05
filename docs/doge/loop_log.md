@@ -13025,3 +13025,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +47 (bud_dha_*); commitments +5; leaderboard +7; sources +1; entity city_de_haan; FOI **gap_dha_ocmw_toelagen_fiscal_debt_l5** prio8 ready + draft; key only (PDF ~4.5MB not stored in git); rq_1002=done; spawn **rq_1003**; ticks=1002
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1003** residual dual L5 (Torhout / Meulebeke / Zuienkerke / AGB De Panne / other); deferred **rq_116**; progress@1010 in 8
+
+### Tick 1003 - 2026-08-09T14:45:00Z
+
+- Unit: **rq_1003** (FOI-adjacent residual dual - **Gemeente+OCMW Beernem Jaarrekening 2025** + De Haan dual residual)
+- Found (strong primary BBC JR2025 190p fin bundel; KBO 0207.527.936 / OCMW 0212.344.183; FD Tom Gevaert; AD Els Declerck; Bloemendalestraat 112):
+  - Assets **EUR98.99m** / equity **EUR68.62m** / debt total **EUR30.37m** / fin debt **EUR21.55m** (**RISING** from **EUR19.91m**; LT **EUR19.92m** / ST due **EUR1.63m**)
+  - New loans **EUR3.35m FOI** / repayments **EUR1.71m**
+  - Cash **EUR5.92m DROP** (was **EUR7.15m**) / pension **EUR6.19m JUMP** (was **EUR3.34m FOI**) / leasing bedrijfs **EUR15.99m HIGH**
+  - FVA IGS **EUR9.87m** / cap subs **EUR7.82m**
+  - Exploitatie: ontvangsten **EUR29.89m** / uitgaven **EUR24.95m** / saldo **+EUR4.94m STRONG**
+  - AFM **+EUR3.42m STRONG** (gecorr **+EUR3.53m**) / BBR **EUR6.72m** / budget **-EUR1.29m** / P&L **-EUR0.750m** (GE **+EUR1.10m** / OCMW **-EUR1.85m FOI**)
+  - Personnel **EUR13.02m** / toelagen **EUR4.64m JUMP FOI** (police **EUR1.60m** / fire **EUR0.683m** / **IGS EUR1.06m JUMP** was 0.281m / other **EUR1.16m** / eredienst **EUR0.132m**)
+  - Invest **EUR7.75m** vs MJP **EUR4.88m OVERSPEND FOI** / **OCMW cover EUR0 ZERO FOI** / **OCMW cum -EUR7.69m WORSENING** (was -5.84m)
+- Dual: De Haan **EUR150.72m** / OCMW cover **EUR1.71m** / cash **EUR34.54m** (tick1002) - not TE-additive
+- Note: Torhout still news-only; Meulebeke no full JR2025 PDF this tick; AGB De Panne / Zuienkerke candidates next
+- Wrote: budgets +47 (bud_bee_*); commitments +5; leaderboard +7; sources +1; entity city_beernem; FOI **gap_bee_ocmw_deficit_toelagen_debt_l5** prio8 ready + draft; key only (PDF ~8.9MB not stored in git); rq_1003=done; spawn **rq_1004**; ticks=1003
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1004** residual dual L5 (Torhout / Meulebeke / Zuienkerke / AGB De Panne / other); deferred **rq_116**; progress@1010 in 7
