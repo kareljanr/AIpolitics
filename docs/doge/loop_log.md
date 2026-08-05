@@ -13541,3 +13541,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1030** residual dual L5 + **decade progress refresh**; deferred **rq_116**; progress@1030 next tick
 
+
+### Tick 1030 - 2026-08-10T04:15:00Z
+
+- Unit: **rq_1030** (FOI-adjacent residual dual - **Gemeente+OCMW Vosselaar Jaarrekening 2025** + Zandhoven dual residual) + **decade progress refresh**
+- Found (strong primary BBC JR2025 132p; KBO 0207.534.765 / OCMW 0212.178.788; AD Bert Joppen; FD Nick Lavrijssen; Cingel 7 NIS 13046; GR 04.06.2026):
+  - Assets **EUR82.53m JUMP** (was **EUR66.73m**) / equity **EUR72.62m JUMP** / debt total **EUR9.91m DECLINE** / fin debt **EUR3.27m DECLINE** (was **EUR3.69m**; LT **EUR2.75m** / ST due **EUR0.514m**)
+  - New loans **EUR0.080m LOW** lease-only / MJP bank planned **EUR9.50m NOT taken FOI** / repayments **EUR0.506m**
+  - Cash **EUR14.20m HIGH** (was **EUR12.26m**) / pension **EUR3.90m** / cap subs **EUR5.66m DROP** / FVA IGS **EUR31.53m JUMP HIGH FOI** reval **+EUR14.60m** (was **EUR16.98m**) / leasing MVA **EUR1.01m**
+  - Exploitatie: ontvangsten **EUR24.99m** / uitgaven **EUR19.16m** / saldo **+EUR5.84m STRONG**
+  - AFM **+EUR5.42m STRONG** (gecorr **+EUR5.63m**) / BBR **EUR13.53m VERY HIGH** / budget **+EUR1.96m STRONG** / cum BR **EUR14.70m** / P&L **+EUR3.52m STRONG flip**
+  - Personnel **EUR11.17m** (edu pass-through **EUR3.29m**) / toelagen **EUR2.63m FOI** (police **EUR1.54m** / fire **EUR0.604m** / AGB **EUR0.192m** / IGS **EUR0.121m** / other **EUR0.173m**)
+  - Invest **EUR3.13m** vs MJP **EUR12.07m UNDERSPEND HIGH FOI** / invest-subs **EUR0.545m** (Het Hof Kempisch **EUR0.407m**) / **OCMW cover EUR0 ZERO FOI** / OCMW expl gap **-EUR1.08m** / OCMW equity cum **-EUR4.85m WORSENING** / OCMW P&L **-EUR1.12m** / OCMW nettoactief **-EUR3.50m**
+  - AGB dual: BBR **EUR0.218m** / AFM near zero / gecorr AFM **+EUR0.018m**
+- Dual: Zandhoven assets **EUR78.23m** / new loans **EUR7.88m** / OCMW cover 0 (tick1029) - not TE-additive
+- Progress@1030: refreshed progress_every_10_ticks.md + doge_waste_top10_current.md; pure annual top10 stable; inventory budgets ~25271 / LB ~4996 / FOI ready ~685
+- Note: Torhout still news-only; Stekene 404 prior; Balen OCR-blocked; Vorselaar docs-only (no full BBC JR yet); Oosterzele / Berlaar / Nijlen / Essen residual next optional
+- Wrote: budgets +61 (bud_vos_*); commitments +6; leaderboard +8; sources +1; entity city_vosselaar; FOI **gap_vos_fva_ocmw_mjp_toelagen_l5** prio9 ready + draft; key only (PDF ~8.1MB not stored in git); rq_1030=done; spawn **rq_1031**; ticks=1030
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1031** residual dual L5 (Torhout / Stekene / Balen if OCR / Oosterzele / Berlaar / Nijlen / Vorselaar / Essen if PDF / other); deferred **rq_116**; progress@1040 in 9
+

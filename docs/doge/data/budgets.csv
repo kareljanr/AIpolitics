@@ -25209,3 +25209,64 @@ bud_zan_invest_subs_granted_2025,city_zandhoven,2025,1032313,,,bbc_jr_realized,s
 bud_zan_agb_bbr_2025,city_zandhoven,2025,28946,,,bbc_jr_realized,src_zandhoven_jr2025,strong,AGB BBR 0.029m dual; tick1029
 bud_zan_agb_afm_2025,city_zandhoven,2025,-2491,,,bbc_jr_realized,src_zandhoven_jr2025,strong,AGB AFM -0.002m dual; tick1029
 bud_zan_agb_afm_corr_2025,city_zandhoven,2025,-4311,,,bbc_jr_realized,src_zandhoven_jr2025,strong,AGB gecorr AFM -0.004m dual; tick1029
+bud_vos_assets_2025,city_vosselaar,2025,82530982,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Assets YE2025 82.53m JUMP (was 66.73m); tick1030
+bud_vos_equity_2025,city_vosselaar,2025,72616640,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Nettoactief YE2025 72.62m JUMP (was 56.57m); herwaardering FVA drives; tick1030
+bud_vos_debt_total_2025,city_vosselaar,2025,9914342,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Total schulden YE2025 9.91m DECLINE (was 10.16m); tick1030
+bud_vos_fin_debt_2025,city_vosselaar,2025,3266969,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Fin debt total YE2025 3.27m DECLINE (was 3.69m T4); tick1030
+bud_vos_fin_debt_lt_2025,city_vosselaar,2025,2752653,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Fin debt LT YE2025 2.75m DECLINE; tick1030
+bud_vos_fin_debt_st_due_2025,city_vosselaar,2025,514316,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Fin debt ST due YE2025 0.514m; tick1030
+bud_vos_new_loans_2025,city_vosselaar,2025,80192,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Nieuwe leningen 2025 0.080m LOW lease-only (MJP bank 9.50m NOT taken FOI); tick1030
+bud_vos_aflossingen_2025,city_vosselaar,2025,506385,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Periodieke aflossingen 2025 0.506m; tick1030
+bud_vos_cash_2025,city_vosselaar,2025,14203604,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Liquide middelen YE2025 14.20m HIGH JUMP (was 12.26m); tick1030
+bud_vos_pension_2025,city_vosselaar,2025,3902911,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Pensioenvoorzieningen LT YE2025 3.90m slight up (was 3.82m); tick1030
+bud_vos_cap_subs_2025,city_vosselaar,2025,5659262,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Kapitaalsubsidies YE2025 5.66m DROP (was 7.73m); tick1030
+bud_vos_fva_total_2025,city_vosselaar,2025,31649001,,,bbc_jr_realized,src_vosselaar_jr2025,strong,FVA total YE2025 31.65m JUMP HIGH FOI (was 17.10m); tick1030
+bud_vos_fva_igs_2025,city_vosselaar,2025,31531890,,,bbc_jr_realized,src_vosselaar_jr2025,strong,FVA IGS YE2025 31.53m JUMP HIGH FOI reval +14.60m (was 16.98m); tick1030
+bud_vos_herwaardering_2025,city_vosselaar,2025,14598241,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Herwaarderingsreserves YE2025 14.60m JUMP (was 21); Fluvius-class FOI; tick1030
+bud_vos_leasing_mva_2025,city_vosselaar,2025,1014873,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Leasing MVA YE2025 1.01m; tick1030
+bud_vos_expl_rec_2025,city_vosselaar,2025,24990515,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Exploitatieontvangsten 24.99m; tick1030
+bud_vos_expl_exp_2025,city_vosselaar,2025,19155347,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Exploitatieuitgaven 19.16m; tick1030
+bud_vos_expl_saldo_2025,city_vosselaar,2025,5835168,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Exploitatiesaldo +5.84m STRONG; tick1030
+bud_vos_invest_exp_2025,city_vosselaar,2025,3132218,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Investeringsuitgaven 3.13m vs MJP 12.07m UNDERSPEND HIGH FOI; tick1030
+bud_vos_invest_rec_2025,city_vosselaar,2025,-372039,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Investeringsontvangsten -0.372m (reclass/refunds); tick1030
+bud_vos_invest_saldo_2025,city_vosselaar,2025,-3504257,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Investeringssaldo -3.50m; tick1030
+bud_vos_mjp_invest_planned_2025,city_vosselaar,2025,12072467,,,bbc_jr_realized,src_vosselaar_jr2025,strong,MJP invest planned 12.07m vs realized 3.13m underspend HIGH FOI; tick1030
+bud_vos_mjp_bank_loans_planned_2025,city_vosselaar,2025,9500000,,,bbc_jr_realized,src_vosselaar_jr2025,strong,MJP bank loans planned 9.50m 2025 NOT taken (realized new loans only 0.080m lease) FOI; tick1030
+bud_vos_afm_2025,city_vosselaar,2025,5417244,,,bbc_jr_realized,src_vosselaar_jr2025,strong,AFM +5.42m STRONG; tick1030
+bud_vos_afm_corr_2025,city_vosselaar,2025,5628177,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Gecorrigeerde AFM +5.63m STRONG; tick1030
+bud_vos_bbr_2025,city_vosselaar,2025,13528566,,,bbc_jr_realized,src_vosselaar_jr2025,strong,BBR beschikbaar +13.53m VERY HIGH; tick1030
+bud_vos_budget_result_2025,city_vosselaar,2025,1962468,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Budgettair resultaat +1.96m STRONG; tick1030
+bud_vos_cum_br_2025,city_vosselaar,2025,14702205,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Gecumuleerd budgettair resultaat +14.70m; tick1030
+bud_vos_onbeschikbaar_2025,city_vosselaar,2025,1173639,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Onbeschikbare gelden 1.17m; tick1030
+bud_vos_pnl_2025,city_vosselaar,2025,3516674,,,bbc_jr_realized,src_vosselaar_jr2025,strong,P&L +3.52m STRONG flip (was -0.032m); tick1030
+bud_vos_ge_expl_exp_2025,city_vosselaar,2025,16183304,,,bbc_jr_realized,src_vosselaar_jr2025,strong,GE exploitatieuitgaven 16.18m; tick1030
+bud_vos_ge_expl_rec_2025,city_vosselaar,2025,23094052,,,bbc_jr_realized,src_vosselaar_jr2025,strong,GE exploitatieontvangsten 23.09m; tick1030
+bud_vos_ocmw_expl_exp_2025,city_vosselaar,2025,2972043,,,bbc_jr_realized,src_vosselaar_jr2025,strong,OCMW exploitatieuitgaven 2.97m FOI; tick1030
+bud_vos_ocmw_expl_rec_2025,city_vosselaar,2025,1896463,,,bbc_jr_realized,src_vosselaar_jr2025,strong,OCMW exploitatieontvangsten 1.90m; tick1030
+bud_vos_ocmw_expl_gap_2025,city_vosselaar,2025,-1075580,,,bbc_jr_realized,src_vosselaar_jr2025,strong,OCMW expl gap -1.08m HIGH FOI residual; tick1030
+bud_vos_ocmw_cover_2025,city_vosselaar,2025,0,,,bbc_jr_realized,src_vosselaar_jr2025,strong,OCMW cover tussenkomst 0 ZERO FOI; tick1030
+bud_vos_ocmw_equity_cum_2025,city_vosselaar,2025,-4846333,,,bbc_jr_realized,src_vosselaar_jr2025,strong,OCMW equity cum -4.85m WORSENING (was -3.73m) FOI; tick1030
+bud_vos_ocmw_pnl_2025,city_vosselaar,2025,-1118524,,,bbc_jr_realized,src_vosselaar_jr2025,strong,OCMW P&L -1.12m FOI; tick1030
+bud_vos_ocmw_nettoactief_2025,city_vosselaar,2025,-3503671,,,bbc_jr_realized,src_vosselaar_jr2025,strong,OCMW nettoactief YE2025 -3.50m WORSENING FOI; tick1030
+bud_vos_ge_equity_cum_2025,city_vosselaar,2025,21314624,,,bbc_jr_realized,src_vosselaar_jr2025,strong,GE equity cum overschot YE2025 +21.31m; tick1030
+bud_vos_ge_pnl_2025,city_vosselaar,2025,4635198,,,bbc_jr_realized,src_vosselaar_jr2025,strong,GE P&L +4.64m; tick1030
+bud_vos_equity_cum_2025,city_vosselaar,2025,16468291,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Consol equity cum overschot YE2025 +16.47m; tick1030
+bud_vos_personnel_2025,city_vosselaar,2025,11167776,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Bezoldigingen 11.17m incl education pass-through 3.29m; tick1030
+bud_vos_edu_pass_through_2025,city_vosselaar,2025,3292569,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Onderwijzend personeel ten laste andere overheden 3.29m; tick1030
+bud_vos_toelagen_2025,city_vosselaar,2025,2631201,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Toegestane werkingssubsidies 2.63m FOI residual; tick1030
+bud_vos_toelagen_police_2025,city_vosselaar,2025,1541090,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Toelage politiezone 1.54m; tick1030
+bud_vos_toelagen_fire_2025,city_vosselaar,2025,604197,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Toelage hulpverleningszone 0.604m; tick1030
+bud_vos_toelagen_agb_2025,city_vosselaar,2025,192254,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Toelage AGB prijssubsidie 0.192m dual FOI; tick1030
+bud_vos_toelagen_igs_2025,city_vosselaar,2025,121134,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Toelage IGS 0.121m FOI; tick1030
+bud_vos_toelagen_other_2025,city_vosselaar,2025,172526,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Toelage andere begunstigden 0.173m FOI; tick1030
+bud_vos_ocmw_aid_2025,city_vosselaar,2025,569514,,,bbc_jr_realized,src_vosselaar_jr2025,strong,OCMW individuele hulp 0.570m; tick1030
+bud_vos_fiscal_2025,city_vosselaar,2025,10440430,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Fiscale opbrengsten 10.44m; tick1030
+bud_vos_fiscal_ov_2025,city_vosselaar,2025,3598250,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Opcentiemen OV 3.60m; tick1030
+bud_vos_fiscal_pb_2025,city_vosselaar,2025,6071258,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Aanvullende PB 6.07m; tick1030
+bud_vos_gemeentefonds_2025,city_vosselaar,2025,2496984,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Gemeentefonds 2.50m; tick1030
+bud_vos_interest_2025,city_vosselaar,2025,123873,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Intresten op schulden 0.124m; tick1030
+bud_vos_invest_subs_granted_2025,city_vosselaar,2025,545222,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Toegestane invest-subs 0.545m (HVZ 0.127m Het Hof/Kempisch 0.407m other) FOI; tick1030
+bud_vos_invest_subs_hof_2025,city_vosselaar,2025,406698,,,bbc_jr_realized,src_vosselaar_jr2025,strong,Invest-subs Het Hof Kempisch Landschap 0.407m (was 1.36m 2024) FOI; tick1030
+bud_vos_agb_bbr_2025,city_vosselaar,2025,217948,,,bbc_jr_realized,src_vosselaar_jr2025,strong,AGB BBR 0.218m dual; tick1030
+bud_vos_agb_afm_2025,city_vosselaar,2025,-428,,,bbc_jr_realized,src_vosselaar_jr2025,strong,AGB AFM -0.0004m dual near zero; tick1030
+bud_vos_agb_afm_corr_2025,city_vosselaar,2025,18428,,,bbc_jr_realized,src_vosselaar_jr2025,strong,AGB gecorr AFM +0.018m dual; tick1030

@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1030** (2026-08-10)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1021-1030: Hoogstraten **EUR186.4m** / Kontich **EUR138.8m** / Arendonk **EUR142.1m** / Mol **EUR~** retained / Wijnegem / Dessel / Boechout / Lint **EUR54.7m** / Zandhoven **EUR78.2m** / **Vosselaar EUR82.5m** · prior 1011-1020 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1021-1030 is VL residual dual L5 (not near-complete of 348bn):** personnel Hoogstraten / Kontich **EUR21.11m** / Arendonk **EUR19.77m** / Vosselaar **EUR11.17m** / Lint **EUR12.78m** / Zandhoven **EUR10.86m** · FOI-adjacent: **Kontich BBR −EUR1.78m NEG** / budget **−EUR1.28m** / new loans **EUR5.00m** / OCMW cover **0** / equity cum **−EUR18.05m** · **Zandhoven new loans EUR7.88m JUMP** fin debt **EUR11.89m** / OCMW cover **0** cum BR **−EUR5.16m** · **Vosselaar FVA IGS EUR31.53m JUMP reval +EUR14.60m** / cash **EUR14.20m HIGH** / BBR **EUR13.53m VERY HIGH** / AFM **+EUR5.42m** / OCMW cover **0** equity cum **−EUR4.85m** / invest **EUR3.13 vs MJP EUR12.07m** / MJP bank **EUR9.50m not taken** · **Hoogstraten cash EUR40.56m** / BBR **EUR37.52m** · **Arendonk OCMW cover 0** equity **−EUR17.24m** · **Lint pension JUMP EUR5.98m** / budget **−EUR0.448m** |
+| **E. FOI-ready gaps** | **~685** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~722** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / Hoogstraten **EUR186m** / Kontich **EUR139m** / Arendonk **EUR142m** / Vosselaar **EUR82.5m** / Zandhoven **EUR78m** / Lint **EUR55m** / prior dual stack retained not full TE) · **AGB dual AFM near-zero/NEG** · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 1030)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~25271 |
+| commitments.csv | ~3136 |
+| leaderboard.csv | ~4996 |
+| entities.csv | ~749 |
+| sources.csv | ~1943 |
+| FOI ready | ~685 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~722 |
+| research_queue open | rq_116 deferred + rq_1031 hole-fill after progress |
+
+### What improved since tick 1020
+
+- **VL residual dual JR2025 (tick1021-1030):** Mol / Wijnegem / Dessel / Boechout · **Hoogstraten EUR186.4m** / cash **EUR40.56m** / BBR **EUR37.52m** · **Lint EUR54.7m** / pension JUMP **EUR5.98m** / budget **−EUR0.448m** / OCMW cover **0** · **Kontich EUR138.8m** / fin debt **EUR19.36m JUMP +loans EUR5.00m** / BBR **−EUR1.78m NEG** / budget **−EUR1.28m** / OCMW cover **0** equity cum **−EUR18.05m** · **Arendonk EUR142.1m** / fin debt **EUR23.49m DECLINE** / AFM **+EUR3.92m** / OCMW cover **0** equity **−EUR17.24m** · **Zandhoven EUR78.2m** / new loans **EUR7.88m JUMP** fin debt **EUR11.89m** / OCMW cover **0** cum BR **−EUR5.16m** · **Vosselaar EUR82.5m** / FVA IGS **EUR31.53m reval +EUR14.60m** / cash **EUR14.20m** / BBR **EUR13.53m** / AFM **+EUR5.42m** / OCMW cover **0** equity cum **−EUR4.85m** / MJP bank **EUR9.5m not taken**.
+- **Dual map:** OCMW cover ZERO cluster (Kontich / Arendonk / Lint / Zandhoven / Vosselaar) with deep equity residuals · debt JUMP (Zandhoven **EUR7.88m** / Kontich **EUR5.00m**) vs low-debt high-cash (Vosselaar fin debt **EUR3.27m** / cash **EUR14.2m**) · FVA reval path (Vosselaar **+EUR14.6m**) · budget NEG (Kontich / Lint) vs STRONG (Vosselaar / Arendonk / Zandhoven loan-driven).
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 1020** (2026-08-09)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
