@@ -11804,3 +11804,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +49 (bud_ich_*); commitments +4; leaderboard +7; sources +2; entity city_ichtegem; FOI **gap_ich_bank_debt_invest_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_935=done; spawn **rq_936**; ticks=935
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_936** residual dual L5 (Ardooie / Roeselare / other unmined VL JR2025); deferred **rq_116**; progress@940 in 5
+
+### Tick 936 - 2026-08-07T16:45:00Z
+
+- Unit: **rq_936** (FOI-adjacent residual dual - **Gemeente+OCMW Ardooie Jaarrekening 2025** + Ichtegem dual + AGB Entity II residual)
+- Found (strong primary BBC JR2025 271p full boek):
+  - Assets **EUR77.0m** / equity **EUR73.0m** / debt total **EUR4.00m** / fin debt **EUR0.052m** (**near-zero DECLINING** from **EUR0.253m**; LT **EUR0** / ST due **EUR0.052m**)
+  - **No new loans 2025** / repayments **EUR0.20m**
+  - **Cash EUR4.27m was EUR8.84m DROP FOI** / pension **EUR1.97m**
+  - Exploitatie: ontvangsten **EUR16.8m** / uitgaven **EUR13.6m** / saldo **+EUR3.20m**
+  - AFM **+EUR3.03m** (gecorr **+EUR3.21m**) / BBR **EUR3.96m** / budget result **-EUR3.22m FOI** / P&L **+EUR1.79m**
+  - Personnel **EUR6.81m** / toelagen **EUR2.37m** (**other EUR1.02m FOI** / police **EUR0.78m** / **AGB EUR0.19m FOI** / HVZ **EUR0.31m**)
+  - Invest **EUR8.08m** cash-funded (**roads EUR5.36m FOI** / buildings **EUR2.37m**) / VL invest-subs **EUR1.34m FOI**
+  - Dual AGB Ardooie: BBR **EUR0.120m** / AFM **+EUR0.070m** / **corr AFM -EUR0.068m FOI**
+- Dual: Ichtegem **EUR93.8m** / bank **EUR11.0m** / fin debt rising **EUR24.3m** (tick935) - contrast residual not TE-additive
+- Wrote: budgets +52 (bud_ard_*); commitments +4; leaderboard +7; sources +2; entity city_ardooie; FOI **gap_ard_toelagen_cash_invest_agb_l5** prio8 ready + draft; raw PDF + key; rq_936=done; spawn **rq_937**; ticks=936
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_937** residual dual L5 (Roeselare / AGB Ardooie full BBC / Wingene / other unmined VL JR2025); deferred **rq_116**; progress@940 in 4

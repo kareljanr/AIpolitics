@@ -21039,3 +21039,55 @@ bud_ich_fin_costs_2025,city_ichtegem,2025,663080,,,jaarrekening_realized,src_ich
 bud_ich_goederen_2025,city_ichtegem,2025,5039216,,,jaarrekening_realized,src_ichtegem_jr2025,strong,Goederen en diensten 5.04m; tick935
 bud_ich_mjp_invest_planned_2025,city_ichtegem,2025,13683895,,,jaarrekening_realized,src_ichtegem_jr2025,strong,MJP planned invest 13.7m vs realized 11.6m FOI; tick935
 bud_ich_invest_mva_2025,city_ichtegem,2025,11461852,,,jaarrekening_realized,src_ichtegem_jr2025,strong,Investeringen MVA 11.46m (buildings 9.42m FOI); tick935
+bud_ard_assets_2025,city_ardooie,2025,76981266,,,jaarrekening_realized,src_ardooie_jr2025,strong,Total assets YE2025 77.0m; tick936
+bud_ard_equity_2025,city_ardooie,2025,72976703,,,jaarrekening_realized,src_ardooie_jr2025,strong,Nettoactief YE2025 73.0m; tick936
+bud_ard_debt_total_2025,city_ardooie,2025,4004563,,,jaarrekening_realized,src_ardooie_jr2025,strong,Total schulden YE2025 4.00m; tick936
+bud_ard_fin_debt_2025,city_ardooie,2025,52408,,,jaarrekening_realized,src_ardooie_jr2025,strong,T4 total financiele schulden YE2025 0.052m near-zero DECLINING (LT 0 + ST due 0.052); tick936
+bud_ard_fin_debt_lt_2025,city_ardooie,2025,0,,,jaarrekening_realized,src_ardooie_jr2025,strong,Financiele schulden LT YE2025 0; tick936
+bud_ard_fin_debt_st_due_2025,city_ardooie,2025,52408,,,jaarrekening_realized,src_ardooie_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.052m; tick936
+bud_ard_fin_debt_2024,city_ardooie,2025,253327,,,jaarrekening_realized,src_ardooie_jr2025,strong,T4 fin debt YE2024 0.253m comparator; tick936
+bud_ard_pension_prov_2025,city_ardooie,2025,1974000,,,jaarrekening_realized,src_ardooie_jr2025,strong,Pensioenvoorzieningen YE2025 1.97m; tick936
+bud_ard_cash_2025,city_ardooie,2025,4270236,,,jaarrekening_realized,src_ardooie_jr2025,strong,Liquide middelen YE2025 4.27m (was 8.84m DROP FOI); tick936
+bud_ard_cash_2024,city_ardooie,2025,8841665,,,jaarrekening_realized,src_ardooie_jr2025,strong,Liquide middelen YE2024 8.84m; tick936
+bud_ard_cap_subs_2025,city_ardooie,2025,6987357,,,jaarrekening_realized,src_ardooie_jr2025,strong,Kapitaalssubsidies YE2025 6.99m; tick936
+bud_ard_fva_total_2025,city_ardooie,2025,16962024,,,jaarrekening_realized,src_ardooie_jr2025,strong,Financiele vaste activa YE2025 17.0m; tick936
+bud_ard_fva_agb_2025,city_ardooie,2025,803557,,,jaarrekening_realized,src_ardooie_jr2025,strong,FVA AGB Ardooie 0.80m; tick936
+bud_ard_fva_igs_2025,city_ardooie,2025,16065272,,,jaarrekening_realized,src_ardooie_jr2025,strong,FVA IGS YE2025 16.1m; tick936
+bud_ard_mva_2025,city_ardooie,2025,52426130,,,jaarrekening_realized,src_ardooie_jr2025,strong,Materiele vaste activa YE2025 52.4m; tick936
+bud_ard_expl_rec_2025,city_ardooie,2025,16800834,,,jaarrekening_realized,src_ardooie_jr2025,strong,Exploitatieontvangsten 16.8m; tick936
+bud_ard_expl_exp_2025,city_ardooie,2025,13596708,,,jaarrekening_realized,src_ardooie_jr2025,strong,Exploitatieuitgaven 13.6m; tick936
+bud_ard_expl_saldo_2025,city_ardooie,2025,3204126,,,jaarrekening_realized,src_ardooie_jr2025,strong,Exploitatiesaldo +3.20m; tick936
+bud_ard_invest_exp_2025,city_ardooie,2025,8082985,,,jaarrekening_realized,src_ardooie_jr2025,strong,Investeringsuitgaven 8.08m (MJP planned 10.9m FOI); tick936
+bud_ard_invest_rec_2025,city_ardooie,2025,1831346,,,jaarrekening_realized,src_ardooie_jr2025,strong,Investeringsontvangsten 1.83m; tick936
+bud_ard_invest_saldo_2025,city_ardooie,2025,-6251640,,,jaarrekening_realized,src_ardooie_jr2025,strong,Investeringssaldo -6.25m; tick936
+bud_ard_fin_rec_2025,city_ardooie,2025,25569,,,jaarrekening_realized,src_ardooie_jr2025,strong,Financieringsontvangsten 0.026m (loan recoveries); tick936
+bud_ard_fin_exp_2025,city_ardooie,2025,200919,,,jaarrekening_realized,src_ardooie_jr2025,strong,Financieringsuitgaven / aflossingen 0.20m; tick936
+bud_ard_new_loans_2025,city_ardooie,2025,0,,,jaarrekening_realized,src_ardooie_jr2025,strong,No new loans 2025 (cash-funded invest FOI); tick936
+bud_ard_aflossingen_2025,city_ardooie,2025,200919,,,jaarrekening_realized,src_ardooie_jr2025,strong,Periodieke aflossingen 0.20m; tick936
+bud_ard_afm_2025,city_ardooie,2025,3028776,,,jaarrekening_realized,src_ardooie_jr2025,strong,AFM +3.03m; tick936
+bud_ard_afm_corr_2025,city_ardooie,2025,3209429,,,jaarrekening_realized,src_ardooie_jr2025,strong,Gecorrigeerde AFM +3.21m; tick936
+bud_ard_bbr_2025,city_ardooie,2025,3956915,,,jaarrekening_realized,src_ardooie_jr2025,strong,Beschikbaar budgettair resultaat 3.96m; tick936
+bud_ard_budget_result_2025,city_ardooie,2025,-3222864,,,jaarrekening_realized,src_ardooie_jr2025,strong,Budgettair resultaat boekjaar -3.22m FOI; tick936
+bud_ard_cum_br_2025,city_ardooie,2025,3956915,,,jaarrekening_realized,src_ardooie_jr2025,strong,Gecumuleerd budgettair resultaat 3.96m; tick936
+bud_ard_pnl_result_2025,city_ardooie,2025,1794836,,,jaarrekening_realized,src_ardooie_jr2025,strong,P&L boekjaar +1.79m; tick936
+bud_ard_personnel_2025,city_ardooie,2025,6809506,,,jaarrekening_realized,src_ardooie_jr2025,strong,Personeelskosten 6.81m; tick936
+bud_ard_toelagen_2025,city_ardooie,2025,2371322,,,jaarrekening_realized,src_ardooie_jr2025,strong,Toegestane werkingssubsidies 2.37m; tick936
+bud_ard_agb_toelage_2025,city_ardooie,2025,190689,,,jaarrekening_realized,src_ardooie_jr2025,strong,Toelage AGB Ardooie 0.19m FOI; tick936
+bud_ard_police_toelage_2025,city_ardooie,2025,779972,,,jaarrekening_realized,src_ardooie_jr2025,strong,Toelage politiezone 0.78m; tick936
+bud_ard_hvz_toelage_2025,city_ardooie,2025,310248,,,jaarrekening_realized,src_ardooie_jr2025,strong,Toelage hulpverleningszone 0.31m; tick936
+bud_ard_igs_toelage_2025,city_ardooie,2025,8317,,,jaarrekening_realized,src_ardooie_jr2025,strong,Toelage IGS 0.008m; tick936
+bud_ard_eredienst_toelage_2025,city_ardooie,2025,56394,,,jaarrekening_realized,src_ardooie_jr2025,strong,Toelage eredienst 0.056m; tick936
+bud_ard_toelagen_other_2025,city_ardooie,2025,1019896,,,jaarrekening_realized,src_ardooie_jr2025,strong,Toelagen andere begunstigden 1.02m FOI >=50k; tick936
+bud_ard_invest_subs_granted_2025,city_ardooie,2025,143048,,,jaarrekening_realized,src_ardooie_jr2025,strong,Toegestane investeringssubsidies 0.14m; tick936
+bud_ard_invest_subs_rec_vl_2025,city_ardooie,2025,1340855,,,jaarrekening_realized,src_ardooie_jr2025,strong,Investeringssubsidies ontvangen VL 1.34m FOI projects; tick936
+bud_ard_ocmw_aid_2025,city_ardooie,2025,486967,,,jaarrekening_realized,src_ardooie_jr2025,strong,Individuele hulpverlening OCMW 0.49m; tick936
+bud_ard_fiscal_2025,city_ardooie,2025,6751324,,,jaarrekening_realized,src_ardooie_jr2025,strong,Fiscale opbrengsten 6.75m; tick936
+bud_ard_gemeentefonds_2025,city_ardooie,2025,2791928,,,jaarrekening_realized,src_ardooie_jr2025,strong,Gemeentefonds 2.79m; tick936
+bud_ard_fin_costs_2025,city_ardooie,2025,7560,,,jaarrekening_realized,src_ardooie_jr2025,strong,Financiele kosten 0.008m; tick936
+bud_ard_goederen_2025,city_ardooie,2025,3858394,,,jaarrekening_realized,src_ardooie_jr2025,strong,Goederen en diensten 3.86m; tick936
+bud_ard_invest_roads_2025,city_ardooie,2025,5363823,,,jaarrekening_realized,src_ardooie_jr2025,strong,Invest wegen/infrastructuur 5.36m FOI; tick936
+bud_ard_invest_buildings_2025,city_ardooie,2025,2368522,,,jaarrekening_realized,src_ardooie_jr2025,strong,Invest terreinen/gebouwen 2.37m FOI; tick936
+bud_ard_mjp_invest_planned_2025,city_ardooie,2025,10932548,,,jaarrekening_realized,src_ardooie_jr2025,strong,MJP planned invest 10.9m vs realized 8.08m FOI; tick936
+bud_ard_agb_bbr_2025,city_ardooie,2025,120272,,,jaarrekening_realized,src_ardooie_jr2025,strong,Dual AGB Ardooie BBR 0.120m (J2 consol Entity II); tick936
+bud_ard_agb_afm_2025,city_ardooie,2025,70448,,,jaarrekening_realized,src_ardooie_jr2025,strong,Dual AGB Ardooie AFM +0.070m; tick936
+bud_ard_agb_afm_corr_2025,city_ardooie,2025,-67623,,,jaarrekening_realized,src_ardooie_jr2025,strong,Dual AGB Ardooie gecorr AFM -0.068m FOI; tick936

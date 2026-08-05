@@ -1,0 +1,42 @@
+Ardooie Gemeente+OCMW Jaarrekening 2025 (BBC 271p full boek)
+PDF: https://ardooie.be/systems/file_download.ashx?pg=6503&ver=1
+Portal: https://ardooie.be/over-ardooie/publicaties-bekendmakingen/gemeente/jaarrekening-gemeente/jaarrekening-2025-gemeente-en-ocmw
+KBO gemeente 0216.771.046 / OCMW 0216.771.145
+Tick 936
+
+BALANCE J4 YE2025 / YE2024
+assets              76981266 / 75136410
+equity              72976703 / 69662112
+debt total          4004563 / 5474298
+fin debt total      52408 / 253327  DECLINING near-zero (LT 0 + ST due 52408)
+cash                4270236 / 8841665  DROP FOI large
+pension             1974000 / 2193778
+FVA                 16962024 (AGB 803557 + IGS 16065272)
+MVA                 52426130
+cap subs            6987357
+
+J2 2025
+expl rec/exp/saldo  16800834 / 13596708 / +3204126
+invest exp/rec/saldo 8082985 / 1831346 / -6251640
+fin rec/exp/saldo   25569 / 200919 / -175350
+budget result       -3222864 FOI
+BBR                 3956915
+AFM                 +3028776
+AFM corr            +3209429
+new loans           0
+aflossingen         200919
+
+J5/T2
+personnel           6809506
+toelagen            2371322 (AGB 190689 / police 779972 / HVZ 310248 / IGS 8317 / ered 56394 / other 1019896 FOI)
+invest-subs granted 143048 (police 79650 / HVZ 63398)
+fiscal              6751324
+gemeentefonds       2791928
+P&L                 +1794836
+invest MVA          7939938 (roads 5363823 / buildings 2368522 FOI)
+VL invest-subs rec  1340855 FOI
+goederen            3858394
+fin costs           7560
+
+Dual AGB Ardooie (J2 consol): BBR 120272 / AFM +70448 / corr AFM -67623 FOI
+Dual residual tick935: Ichtegem 93.8m bank 11m fin debt 24.3m rising
