@@ -22776,3 +22776,39 @@ bud_zt_mjp_fin_debt_2026,zorg_tielt,2025,4254078,,,realized,src_zorg_tielt_jr202
 bud_zt_costs_j5_2025,zorg_tielt,2025,16137435,,,realized,src_zorg_tielt_jr2025,strong,J5 total kosten 16.1m; tick977
 bud_zt_revenue_j5_2025,zorg_tielt,2025,15740635,,,realized,src_zorg_tielt_jr2025,strong,J5 total opbrengsten 15.7m; tick977
 bud_zt_fin_costs_2025,zorg_tielt,2025,120705,,,realized,src_zorg_tielt_jr2025,strong,Financiele kosten 0.121m; tick977
+bud_agbt_assets_2025,agb_tielt,2025,19953810,,,realized,src_agb_tielt_jr2025,strong,Assets YE2025 20.0m (was 19.6m); tick978
+bud_agbt_equity_2025,agb_tielt,2025,8054775,,,realized,src_agb_tielt_jr2025,strong,Nettoactief YE2025 8.05m; tick978
+bud_agbt_debt_total_2025,agb_tielt,2025,11899035,,,realized,src_agb_tielt_jr2025,strong,Total schulden YE2025 11.9m; tick978
+bud_agbt_fin_debt_2025,agb_tielt,2025,11442628,,,realized,src_agb_tielt_jr2025,strong,Fin debt total YE2025 11.4m slight RISING (was 11.3m); tick978
+bud_agbt_fin_debt_lt_2025,agb_tielt,2025,11192307,,,realized,src_agb_tielt_jr2025,strong,Fin debt LT YE2025 11.2m (city loans + erfpacht); tick978
+bud_agbt_fin_debt_st_due_2025,agb_tielt,2025,250320,,,realized,src_agb_tielt_jr2025,strong,Fin debt ST due YE2025 0.250m; tick978
+bud_agbt_new_loans_2025,agb_tielt,2025,365340,,,realized,src_agb_tielt_jr2025,strong,Nieuwe renteloze leningen stad 0.365m FOI; tick978
+bud_agbt_repayments_2025,agb_tielt,2025,215923,,,realized,src_agb_tielt_jr2025,strong,Periodieke aflossingen 0.216m; tick978
+bud_agbt_cash_2025,agb_tielt,2025,1132461,,,realized,src_agb_tielt_jr2025,strong,Liquide middelen YE2025 1.13m JUMP; tick978
+bud_agbt_leasing_mva_2025,agb_tielt,2025,9303045,,,realized,src_agb_tielt_jr2025,strong,Leasing/erfpacht MVA YE2025 9.30m LARGE FOI ~47pct assets; tick978
+bud_agbt_mva_buildings_2025,agb_tielt,2025,9066999,,,realized,src_agb_tielt_jr2025,strong,Bedrijfsmatige gebouwen YE2025 9.07m; tick978
+bud_agbt_cap_subs_2025,agb_tielt,2025,7409407,,,realized,src_agb_tielt_jr2025,strong,Kapitaalsubsidies YE2025 7.41m; tick978
+bud_agbt_expl_rec_2025,agb_tielt,2025,1185004,,,realized,src_agb_tielt_jr2025,strong,Exploitatieontvangsten 1.19m; tick978
+bud_agbt_expl_exp_2025,agb_tielt,2025,797547,,,realized,src_agb_tielt_jr2025,strong,Exploitatieuitgaven 0.798m; tick978
+bud_agbt_expl_saldo_2025,agb_tielt,2025,387457,,,realized,src_agb_tielt_jr2025,strong,Exploitatiesaldo +0.387m; tick978
+bud_agbt_invest_exp_2025,agb_tielt,2025,388010,,,realized,src_agb_tielt_jr2025,strong,Investeringsuitgaven 0.388m vs MJP 0.726m underspend FOI; tick978
+bud_agbt_invest_rec_2025,agb_tielt,2025,1961,,,realized,src_agb_tielt_jr2025,strong,Investeringsontvangsten 0.002m; tick978
+bud_agbt_invest_saldo_2025,agb_tielt,2025,-386049,,,realized,src_agb_tielt_jr2025,strong,Investeringssaldo -0.386m; tick978
+bud_agbt_fin_rec_2025,agb_tielt,2025,365340,,,realized,src_agb_tielt_jr2025,strong,Financieringsontvangsten 0.365m city loan; tick978
+bud_agbt_fin_exp_2025,agb_tielt,2025,215923,,,realized,src_agb_tielt_jr2025,strong,Financieringsuitgaven 0.216m; tick978
+bud_agbt_budget_result_2025,agb_tielt,2025,150825,,,realized,src_agb_tielt_jr2025,strong,Budgettair resultaat +0.151m; tick978
+bud_agbt_cum_budget_2025,agb_tielt,2025,820778,,,realized,src_agb_tielt_jr2025,strong,Gecumuleerd budgettair resultaat 0.821m; tick978
+bud_agbt_bbr_2025,agb_tielt,2025,820778,,,realized,src_agb_tielt_jr2025,strong,Beschikbaar BBR 0.821m; tick978
+bud_agbt_afm_2025,agb_tielt,2025,171534,,,realized,src_agb_tielt_jr2025,strong,AFM +0.172m; tick978
+bud_agbt_afm_corr_2025,agb_tielt,2025,-516000,,,realized,src_agb_tielt_jr2025,strong,Gecorrigeerde AFM -0.516m NEG FOI (99y erfpacht); tick978
+bud_agbt_pnl_2025,agb_tielt,2025,321320,,,realized,src_agb_tielt_jr2025,strong,P&L +0.321m; tick978
+bud_agbt_dividend_city_2025,agb_tielt,2025,160660,,,realized,src_agb_tielt_jr2025,strong,Dividend/uitkering stad Tielt 0.161m FOI residual; tick978
+bud_agbt_prijssubsidies_2025,agb_tielt,2025,503641,,,realized,src_agb_tielt_jr2025,strong,Prijssubsidies stad Tielt 0.504m FOI residual; tick978
+bud_agbt_insurance_sintpaulus_2025,agb_tielt,2025,357567,,,realized,src_agb_tielt_jr2025,strong,Schadevergoeding brand Sint-Paulus 0.358m FOI; tick978
+bud_agbt_energy_2025,agb_tielt,2025,249123,,,realized,src_agb_tielt_jr2025,strong,Energiekosten 0.249m FOI residual; tick978
+bud_agbt_goederen_2025,agb_tielt,2025,499094,,,realized,src_agb_tielt_jr2025,strong,Goederen en diensten J5 0.499m; tick978
+bud_agbt_tax_est_2025,agb_tielt,2025,138116,,,realized,src_agb_tielt_jr2025,strong,Geraamde vennootschapsbelasting 0.138m FOI; tick978
+bud_agbt_access_fees_2025,agb_tielt,2025,150147,,,realized,src_agb_tielt_jr2025,strong,Toegangsgelden 0.150m; tick978
+bud_agbt_costs_j5_2025,agb_tielt,2025,961521,,,realized,src_agb_tielt_jr2025,strong,J5 total kosten 0.962m; tick978
+bud_agbt_revenue_j5_2025,agb_tielt,2025,1282841,,,realized,src_agb_tielt_jr2025,strong,J5 total opbrengsten 1.28m; tick978
+bud_agbt_dep_2025,agb_tielt,2025,324311,,,realized,src_agb_tielt_jr2025,strong,Afschrijvingen 0.324m; tick978

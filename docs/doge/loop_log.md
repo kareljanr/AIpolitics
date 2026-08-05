@@ -12576,3 +12576,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +42 (bud_zt_*); commitments +5; leaderboard +7; sources +1; entity zorg_tielt; FOI **gap_zt_debt_ocmw_detach_sloop_l5** prio8 ready + draft; key only (PDF ~2.4MB not stored in git); rq_977=done; spawn **rq_978**; ticks=977
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_978** residual dual L5 (Ledegem / Torhout / WZBW / AGB Tielt / Zorg Izegem); deferred **rq_116**; progress@980 in 3
+
+### Tick 978 - 2026-08-09T01:45:00Z
+
+- Unit: **rq_978** (FOI-adjacent residual dual Entity II - **AGB Tielt Jaarrekening 2025** sport/toerisme + Zorg Tielt dual residual)
+- Found (strong primary BBC JR2025 76p; KBO 0841.231.312; FD Maarten Compernolle; AD Hendrik Vandenbruwane; Markt 13):
+  - Assets **EUR20.0m** / equity **EUR8.05m** / debt total **EUR11.9m** / fin debt **EUR11.4m** (slight **RISING** from **EUR11.3m**; LT **EUR11.2m** / ST due **EUR0.250m** — all to city)
+  - New city interest-free loans **EUR0.365m** / repayments **EUR0.216m**
+  - Cash **EUR1.13m JUMP** / leasing-erfpacht MVA **EUR9.30m LARGE FOI** (~47pct assets) / cap subs **EUR7.41m**
+  - Exploitatie: ontvangsten **EUR1.19m** / uitgaven **EUR0.798m** / saldo **+EUR0.387m**
+  - AFM **+EUR0.172m** / **gecorr AFM -EUR0.516m NEG FOI** (99y erfpacht; aangewezen 0.903m vs periodiek 0.216m) / BBR **EUR0.821m** / budget **+EUR0.151m** / P&L **+EUR0.321m**
+  - **Prijssubsidies stad EUR0.504m FOI** / **dividend stad EUR0.161m FOI** (50pct) / insurance Sint-Paulus **EUR0.358m FOI**
+  - Energy **EUR0.249m** / no own staff since 2021 / invest **EUR0.388m** vs MJP **EUR0.726m underspend FOI**
+- Dual: Zorg Tielt **EUR15.4m** / fin debt **EUR4.49m RISING** / OCMW subs **EUR2.43m** (tick977); city_tielt **EUR193m** (tick835) - not TE-additive
+- Note: Ledegem/Torhout full BBC / WZBW / Zorg Izegem still preferred next residual if extractable
+- Wrote: budgets +36 (bud_agbt_*); commitments +5; leaderboard +7; sources +1; entity agb_tielt; FOI **gap_agbt_debt_erfpacht_prijssubsidie_l5** prio8 ready + draft; key only (PDF ~2.7MB not stored in git); rq_978=done; spawn **rq_979**; ticks=978
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_979** residual dual L5 (Ledegem / Torhout / WZBW / Zorg Izegem); deferred **rq_116**; progress@980 in 2
