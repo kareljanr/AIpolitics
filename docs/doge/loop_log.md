@@ -15148,3 +15148,24 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +27 (bud_schagb_*); commitments +7; leaderboard +9; sources +1; entities agb_schelle_fluctus + city_schelle; FOI **gap_sch_agb_debt_ramp_prijssub_geocmw_l5** prio9 ready + draft; progress@1110 + waste top10; PDF primary (not committed 4.4MB); rq_1110=done; spawn **rq_1111**; ticks=1110
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1111** residual dual L5; deferred **rq_116**; progress@1120 in 10
+
+### Tick 1111 - 2026-08-11T21:00:00Z
+
+- Unit: **rq_1111** (FOI-adjacent residual dual - **Gemeente+OCMW De Haan Jaarrekening 2025** + Schelle AGB dual residual)
+- Found (strong primary BBC JR2025 209p text; dehaan.be; KBO GE 0216.770.848 / OCMW 0216.770.947; NIS 35029; Leopoldlaan 24 8420; AD Kimberley Carton FD Bart Dewulf; GE+OCMW):
+  - Assets **EUR150.724m** (was **EUR147.496m**) / equity **EUR116.904m** / debt total **EUR33.820m** / fin debt **EUR12.528m DECLINE FOI** (LT **EUR11.007m** / ST due **EUR1.521m**; was **EUR12.902m**)
+  - New loans/leasing **EUR1.228m FOI** / repayments **EUR1.584m**
+  - Cash **EUR34.541m VERY HIGH FOI** (was **EUR33.653m**) / pension **EUR14.673m JUMP FOI** (was **EUR13.751m**; +**EUR0.922m**)
+  - FVA IGS **EUR29.999m HIGH FOI** / herwaard **EUR6.736m** / leasing MVA **EUR9.152m**
+  - Exploitatie: ontvangsten **EUR40.162m** / uitgaven **EUR33.418m** / saldo **+EUR6.745m VERY STRONG**
+  - AFM **+EUR5.396m VERY STRONG** (gecorr **+EUR5.949m**) / BBR **EUR32.730m VERY HIGH** / budget **+EUR1.629m POS** (MJP was **−EUR1.718m**) / P&L **+EUR1.937m FLIP FOI** (was **−EUR2.175m**)
+  - Fiscal **EUR27.015m** / PB **EUR3.992m** / OP **EUR12.406m** / personnel **EUR16.408m**
+  - Toelagen **EUR7.818m FOI** (police **EUR6.039m** / fire **EUR1.025m** / IGS **EUR0.399m** / eredienst **EUR0.052m** / andere **EUR0.304m**)
+  - Invest **EUR5.958m** vs MJP **EUR7.820m UNDERSPEND FOI** / invest-subs **EUR0.706m JUMP** (was **EUR0.348m**; HVZ **EUR0.205m** / eredienst **EUR0.296m** / andere **EUR0.206m**)
+  - OCMW cover **EUR1.713m FULL FOI** / OCMW P&L **−EUR1.577m** / OCMW cum equity **−EUR3.312m DEEP** / OCMW hulp **EUR1.797m**
+  - Toegestane leningen IGS **EUR0.238m FOI**
+- Dual: Schelle AGB MJP debt ramp YE2027 EUR5.84m / cash CRITICAL (tick1110) - not TE-additive
+- Note: Oosterzele / Nijlen login-blocked / Vorselaar docs-only / Kalmthout / Bornem JR2024-only / De Panne OCR-blocked / Schelle GE+OCMW residual next; progress@1120 in 9
+- Wrote: budgets +40 (bud_dha_*); commitments +8; leaderboard +10; sources +1; entity city_dehaan; FOI **gap_dha_toelagen_pension_ocmw_invest_l5** prio9 ready + draft; PDF primary (not committed 4.5MB); rq_1111=done; spawn **rq_1112**; ticks=1111
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1112** residual dual L5; deferred **rq_116**; progress@1120 in 9
