@@ -11177,3 +11177,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +40 (bud_mal_*); commitments +4; leaderboard +7; sources +2; entity city_malle; FOI **gap_mal_cash_pension_budget_l5** prio8 ready + draft; raw PDF + key; rq_897=done; spawn **rq_898**; ticks=897
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_898** residual dual L5 (Roeselare/Lier portal/Mortsel portal/VUB); deferred **rq_116**; progress@900 in 3
+
+## Tick 898 - 2026-08-06T22:00:00Z
+
+- Unit: **rq_898** (FOI-adjacent residual dual - **Gemeente+OCMW Wellen Jaarrekening 2025** + Malle dual)
+- Found (strong primary BBC JR2025 178p):
+  - Assets **EUR58.2m** / equity **EUR45.9m** / debt total **EUR12.3m** / fin debt **EUR5.4m** declining (LT **EUR5.0m** / ST due **EUR0.43m**)
+  - New loans **EUR0.14m** / pension **EUR4.3m** (was **EUR5.6m**) / cash **EUR9.7m** (was **EUR12.9m**)
+  - **FVA IGS EUR10.8m was EUR5.9m REVAL** / **herwaard reserves EUR4.9m (was 0) FOI**
+  - Exploitatie: ontvangsten **EUR12.6m** / uitgaven **EUR9.6m** / saldo **+EUR3.0m**
+  - AFM **+EUR2.60m** (gecorr **+EUR2.58m**) / BBR **EUR9.6m** / budget result **-EUR3.44m** / P&L **+EUR2.76m**
+  - Personnel **EUR4.8m** / toelagen **EUR1.7m** (police **EUR0.59m** / IGS **EUR0.40m** / other **EUR0.27m FOI**) / fiscal **EUR6.4m**
+  - **Invest EUR6.2m** (buildings **EUR3.1m** roads **EUR2.3m FOI**)
+- Dual: Malle **EUR68.5m** / cash drop / budget -2.57m (tick897) - not TE-additive
+- Wrote: budgets +39 (bud_wel_*); commitments +4; leaderboard +7; sources +2; entity city_wellen; FOI **gap_wel_invest_fva_toelagen_l5** prio8 ready + draft; raw PDF + key; rq_898=done; spawn **rq_899**; ticks=898
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_899** residual dual L5 (Rotselaar/Roeselare/Lier portal/Mortsel portal/VUB); deferred **rq_116**; progress@900 in 2
