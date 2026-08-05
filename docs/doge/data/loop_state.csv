@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T22:15:00Z,rq_947,947,no,tick947 Anzegem JR2025 dual residual; FOI gap_anz_invest_toelagen_debt_l5 prio8 assets 108.0m fin debt 11.8m invest 24pct; next residual dual L5 rq_948; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T22:45:00Z,rq_948,948,no,tick948 Wingene JR2025 fusion dual AGB; FOI gap_win_pension_budget_agb_invest_l5 prio8 assets 134.9m pension 11.5m budget -3.62m; next residual dual L5 rq_949; rq_116 deferred

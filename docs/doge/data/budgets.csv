@@ -21500,3 +21500,52 @@ bud_anz_fiscal_2025,city_anzegem,2025,15365651,,,jaarrekening_realized,src_anzeg
 bud_anz_fin_costs_2025,city_anzegem,2025,179014,,,jaarrekening_realized,src_anzegem_jr2025,strong,Financiele kosten 0.18m; tick947
 bud_anz_goederen_2025,city_anzegem,2025,4923271,,,jaarrekening_realized,src_anzegem_jr2025,strong,Goederen en diensten 4.92m; tick947
 bud_anz_minderwaarden_2025,city_anzegem,2025,332465,,,jaarrekening_realized,src_anzegem_jr2025,strong,J5 minderwaarden realisatie VA 0.33m FOI; tick947
+bud_win_assets_2025,city_wingene,2025,134855679,,,jaarrekening_realized,src_wingene_jr2025,strong,Total assets YE2025 134.9m (fusion first year); tick948
+bud_win_equity_2025,city_wingene,2025,109928285,,,jaarrekening_realized,src_wingene_jr2025,strong,Nettoactief YE2025 109.9m; tick948
+bud_win_debt_total_2025,city_wingene,2025,24927393,,,jaarrekening_realized,src_wingene_jr2025,strong,Total schulden YE2025 24.9m; tick948
+bud_win_fin_debt_2025,city_wingene,2025,7085329,,,jaarrekening_realized,src_wingene_jr2025,strong,T3 total financiele schulden YE2025 7.09m DECLINING (was 7.76m start; LT 6.02 + ST due 1.06); tick948
+bud_win_fin_debt_lt_2025,city_wingene,2025,6021691,,,jaarrekening_realized,src_wingene_jr2025,strong,Financiele schulden LT YE2025 6.02m; tick948
+bud_win_fin_debt_st_due_2025,city_wingene,2025,1063637,,,jaarrekening_realized,src_wingene_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 1.06m; tick948
+bud_win_fin_debt_start_2025,city_wingene,2025,7760382,,,jaarrekening_realized,src_wingene_jr2025,strong,Fin debt 01/01/2025 fusion start 7.76m; tick948
+bud_win_pension_prov_2025,city_wingene,2025,11528107,,,jaarrekening_realized,src_wingene_jr2025,strong,Pensioenvoorzieningen YE2025 11.5m FOI large fusion stock; tick948
+bud_win_cash_2025,city_wingene,2025,19426612,,,jaarrekening_realized,src_wingene_jr2025,strong,Liquide middelen YE2025 19.4m; tick948
+bud_win_cap_subs_2025,city_wingene,2025,16845203,,,jaarrekening_realized,src_wingene_jr2025,strong,Kapitaalssubsidies YE2025 16.8m; tick948
+bud_win_fva_total_2025,city_wingene,2025,23201531,,,jaarrekening_realized,src_wingene_jr2025,strong,Financiele vaste activa YE2025 23.2m; tick948
+bud_win_fva_igs_2025,city_wingene,2025,21413953,,,jaarrekening_realized,src_wingene_jr2025,strong,FVA IGS YE2025 21.4m FOI; tick948
+bud_win_mva_2025,city_wingene,2025,86965867,,,jaarrekening_realized,src_wingene_jr2025,strong,Materiele vaste activa YE2025 87.0m; tick948
+bud_win_leasing_mva_2025,city_wingene,2025,2185699,,,jaarrekening_realized,src_wingene_jr2025,strong,Leasing MVA 2.19m; tick948
+bud_win_expl_rec_2025,city_wingene,2025,33611819,,,jaarrekening_realized,src_wingene_jr2025,strong,Exploitatieontvangsten 33.6m; tick948
+bud_win_expl_exp_2025,city_wingene,2025,27791871,,,jaarrekening_realized,src_wingene_jr2025,strong,Exploitatieuitgaven 27.8m; tick948
+bud_win_expl_saldo_2025,city_wingene,2025,5819948,,,jaarrekening_realized,src_wingene_jr2025,strong,Exploitatiesaldo +5.82m; tick948
+bud_win_invest_exp_2025,city_wingene,2025,9170256,,,jaarrekening_realized,src_wingene_jr2025,strong,Investeringsuitgaven 9.17m (MJP 14.08m; ~5m carryover FOI); tick948
+bud_win_invest_rec_2025,city_wingene,2025,328860,,,jaarrekening_realized,src_wingene_jr2025,strong,Investeringsontvangsten 0.33m; tick948
+bud_win_invest_saldo_2025,city_wingene,2025,-8841396,,,jaarrekening_realized,src_wingene_jr2025,strong,Investeringssaldo -8.84m; tick948
+bud_win_mjp_invest_planned_2025,city_wingene,2025,14078579,,,jaarrekening_realized,src_wingene_jr2025,strong,MJP planned invest 14.08m vs realized 9.17m FOI; tick948
+bud_win_invest_carryover_2026,city_wingene,2025,5000000,,,jaarrekening_realized,src_wingene_jr2025,strong,Invest carryover ~5.0m to 2026 FOI (policy note); tick948
+bud_win_fin_rec_2025,city_wingene,2025,488645,,,jaarrekening_realized,src_wingene_jr2025,strong,Financieringsontvangsten 0.49m; tick948
+bud_win_fin_exp_2025,city_wingene,2025,1089260,,,jaarrekening_realized,src_wingene_jr2025,strong,Financieringsuitgaven 1.09m (periodieke afl only); tick948
+bud_win_new_bank_loans_2025,city_wingene,2025,0,,,jaarrekening_realized,src_wingene_jr2025,strong,Nieuwe bankleningen 0; tick948
+bud_win_new_lease_2025,city_wingene,2025,414206,,,jaarrekening_realized,src_wingene_jr2025,strong,Nieuwe leasings 0.414m FOI; tick948
+bud_win_aflossingen_2025,city_wingene,2025,1089260,,,jaarrekening_realized,src_wingene_jr2025,strong,Periodieke aflossingen 1.09m; tick948
+bud_win_nonperiod_lease_afl_2025,city_wingene,2025,414206,,,jaarrekening_realized,src_wingene_jr2025,strong,Niet-periodieke lease aflossingen 0.414m FOI; tick948
+bud_win_loan_recoveries_2025,city_wingene,2025,24196,,,jaarrekening_realized,src_wingene_jr2025,strong,Periodieke terugvordering leningen 0.024m; tick948
+bud_win_afm_2025,city_wingene,2025,4754884,,,jaarrekening_realized,src_wingene_jr2025,strong,AFM +4.75m; tick948
+bud_win_afm_corr_2025,city_wingene,2025,5844144,,,jaarrekening_realized,src_wingene_jr2025,strong,Gecorrigeerde AFM +5.84m; tick948
+bud_win_bbr_2025,city_wingene,2025,19310480,,,jaarrekening_realized,src_wingene_jr2025,strong,Beschikbaar budgettair resultaat 19.3m; tick948
+bud_win_budget_result_2025,city_wingene,2025,-3622063,,,jaarrekening_realized,src_wingene_jr2025,strong,Budgettair resultaat boekjaar -3.62m FOI (invest heavy); tick948
+bud_win_cum_br_2025,city_wingene,2025,19310480,,,jaarrekening_realized,src_wingene_jr2025,strong,Gecumuleerd budgettair resultaat 19.3m; tick948
+bud_win_pnl_result_2025,city_wingene,2025,-105797,,,jaarrekening_realized,src_wingene_jr2025,strong,P&L boekjaar -0.106m FOI; tick948
+bud_win_personnel_2025,city_wingene,2025,12217159,,,jaarrekening_realized,src_wingene_jr2025,strong,Personeelskosten 12.2m; tick948
+bud_win_toelagen_2025,city_wingene,2025,3787136,,,jaarrekening_realized,src_wingene_jr2025,strong,Toegestane werkingssubsidies 3.79m FOI named; tick948
+bud_win_toelagen_agb_2025,city_wingene,2025,916527,,,jaarrekening_realized,src_wingene_jr2025,strong,Toelagen AGB Wingene 0.917m dual FOI; tick948
+bud_win_toelagen_police_2025,city_wingene,2025,1342767,,,jaarrekening_realized,src_wingene_jr2025,strong,Toelagen politiezone 1.34m; tick948
+bud_win_toelagen_hvz_2025,city_wingene,2025,569553,,,jaarrekening_realized,src_wingene_jr2025,strong,Toelagen HVZ 0.57m; tick948
+bud_win_toelagen_igs_2025,city_wingene,2025,149494,,,jaarrekening_realized,src_wingene_jr2025,strong,Toelagen IGS 0.15m FOI; tick948
+bud_win_toelagen_other_2025,city_wingene,2025,633428,,,jaarrekening_realized,src_wingene_jr2025,strong,Toelagen andere 0.63m FOI; tick948
+bud_win_invest_subs_granted_2025,city_wingene,2025,1873825,,,jaarrekening_realized,src_wingene_jr2025,strong,Toegestane investeringssubsidies 1.87m FOI (IGS 0.84m eredienst 0.37m); tick948
+bud_win_ocmw_aid_2025,city_wingene,2025,987891,,,jaarrekening_realized,src_wingene_jr2025,strong,Individuele hulpverlening OCMW 0.99m; tick948
+bud_win_fiscal_2025,city_wingene,2025,18889583,,,jaarrekening_realized,src_wingene_jr2025,strong,Fiscale opbrengsten 18.9m; tick948
+bud_win_fin_costs_2025,city_wingene,2025,213556,,,jaarrekening_realized,src_wingene_jr2025,strong,Financiele kosten 0.21m; tick948
+bud_win_goederen_2025,city_wingene,2025,9700906,,,jaarrekening_realized,src_wingene_jr2025,strong,Goederen en diensten 9.70m; tick948
+bud_win_agb_bbr_2025,city_wingene,2025,2218437,,,jaarrekening_realized,src_wingene_jr2025,strong,Dual AGB Wingene BBR 2.22m (J2 consol Entity II); tick948
+bud_win_agb_afm_2025,city_wingene,2025,421470,,,jaarrekening_realized,src_wingene_jr2025,strong,Dual AGB Wingene AFM +0.42m; tick948

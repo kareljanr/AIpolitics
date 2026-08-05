@@ -12012,3 +12012,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +44 (bud_anz_*); commitments +4; leaderboard +7; sources +2; entity city_anzegem; FOI **gap_anz_invest_toelagen_debt_l5** prio8 ready + draft; key only (PDF ~16MB not stored); rq_947=done; spawn **rq_948**; ticks=947
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_948** residual dual L5 (Torhout / Roeselare / Wingene / other unmined VL JR2025); deferred **rq_116**; progress@950 in 3
+
+
+### Tick 948 - 2026-08-07T22:45:00Z
+
+- Unit: **rq_948** (FOI-adjacent residual dual - **Gemeente+OCMW Wingene Jaarrekening 2025 fusion** + AGB dual residual)
+- Found (strong primary BBC JR2025 103p; KBO 0207.495.470 / OCMW 0212.184.728; first year **Wingene+Ruiselede fusion**):
+  - Assets **EUR134.9m** / equity **EUR109.9m** / debt total **EUR24.9m** / fin debt **EUR7.09m** (**DECLINING** from **EUR7.76m** start; LT **EUR6.02m** / ST due **EUR1.06m**)
+  - New bank loans **EUR0** / new lease **EUR0.414m FOI** / repayments **EUR1.09m**
+  - Cash **EUR19.4m** / **pension EUR11.5m FOI large** / FVA IGS **EUR21.4m FOI**
+  - Exploitatie: ontvangsten **EUR33.6m** / uitgaven **EUR27.8m** / saldo **+EUR5.82m**
+  - AFM **+EUR4.75m** (gecorr **+EUR5.84m**) / BBR **EUR19.3m** / budget **-EUR3.62m FOI** / P&L **-EUR0.11m FOI**
+  - Personnel **EUR12.2m** / toelagen **EUR3.79m** (AGB **EUR0.92m dual FOI** / police **EUR1.34m** / HVZ **EUR0.57m**)
+  - Invest **EUR9.17m** vs MJP **EUR14.08m** + **~EUR5m carryover FOI** / invest-subs **EUR1.87m FOI**
+  - Dual AGB: BBR **EUR2.22m** / AFM **+EUR0.42m**
+- Dual: Anzegem **EUR108.0m** / invest 24pct (tick947) - not TE-additive
+- Wrote: budgets +49 (bud_win_*); commitments +4; leaderboard +7; sources +2; entity city_wingene; FOI **gap_win_pension_budget_agb_invest_l5** prio8 ready + draft; key only; rq_948=done; spawn **rq_949**; ticks=948
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_949** residual dual L5 (AGB Wingene full BBC / Torhout / Roeselare / other unmined VL JR2025); deferred **rq_116**; progress@950 in 2
