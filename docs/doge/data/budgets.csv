@@ -28168,3 +28168,47 @@ bud_hoe_ocmw_hulp_2025,city_hoegaarden,2025,747861,,,bbc_jr_realized,src_hoegaar
 bud_hoe_fin_exp_2025,city_hoegaarden,2025,245612,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Financiële uitgaven 0.246m; tick1087
 bud_hoe_herwaard_2025,city_hoegaarden,2025,1829685,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Herwaarderingsreserves YE2025 1.830m; tick1087
 bud_hoe_financieringssaldo_2025,city_hoegaarden,2025,-846105,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Financieringssaldo -0.846m (aflossingen>new loans); tick1087
+bud_gee_assets_2025,city_geetbets,2025,46106159,,,bbc_jr_realized,src_geetbets_jr2025,strong,Assets YE2025 46.106m JUMP (was 40.521m; FVA herwaard); tick1088
+bud_gee_equity_2025,city_geetbets,2025,32394742,,,bbc_jr_realized,src_geetbets_jr2025,strong,Nettoactief YE2025 32.395m JUMP (was 25.202m); tick1088
+bud_gee_debt_total_2025,city_geetbets,2025,13711417,,,bbc_jr_realized,src_geetbets_jr2025,strong,Total schulden YE2025 13.711m DROP (was 15.319m); tick1088
+bud_gee_fin_debt_2025,city_geetbets,2025,8675988,,,bbc_jr_realized,src_geetbets_jr2025,strong,Fin debt total YE2025 8.676m DECLINE (was 9.427m); tick1088
+bud_gee_fin_debt_lt_2025,city_geetbets,2025,7896842,,,bbc_jr_realized,src_geetbets_jr2025,strong,Fin debt LT YE2025 7.897m DECLINE (was 8.617m); tick1088
+bud_gee_fin_debt_st_due_2025,city_geetbets,2025,779146,,,bbc_jr_realized,src_geetbets_jr2025,strong,Fin debt ST due YE2025 0.779m; tick1088
+bud_gee_new_loans_2025,city_geetbets,2025,60991,,,bbc_jr_realized,src_geetbets_jr2025,strong,Nieuwe leningen 2025 0.061m LOW; tick1088
+bud_gee_aflossingen_2025,city_geetbets,2025,812069,,,bbc_jr_realized,src_geetbets_jr2025,strong,Periodieke aflossingen 2025 0.812m; tick1088
+bud_gee_cash_2025,city_geetbets,2025,2462377,,,bbc_jr_realized,src_geetbets_jr2025,strong,Liquide middelen YE2025 2.462m DROP FOI (was 2.879m); tick1088
+bud_gee_pension_2025,city_geetbets,2025,3192250,,,bbc_jr_realized,src_geetbets_jr2025,strong,Pensioenvoorzieningen LT YE2025 3.192m DROP (was 3.882m); tick1088
+bud_gee_cap_subs_2025,city_geetbets,2025,5363303,,,bbc_jr_realized,src_geetbets_jr2025,strong,Kapitaalsubsidies YE2025 5.363m; tick1088
+bud_gee_fva_total_2025,city_geetbets,2025,10496737,,,bbc_jr_realized,src_geetbets_jr2025,strong,FVA total YE2025 10.497m MASSIVE JUMP FOI (was 4.705m); tick1088
+bud_gee_fva_igs_2025,city_geetbets,2025,10477258,,,bbc_jr_realized,src_geetbets_jr2025,strong,FVA IGS YE2025 10.477m MASSIVE JUMP FOI (was 4.686m); tick1088
+bud_gee_herwaard_2025,city_geetbets,2025,7077148,,,bbc_jr_realized,src_geetbets_jr2025,strong,Herwaarderingsreserves YE2025 7.077m MASSIVE JUMP FOI (was 1.292m); tick1088
+bud_gee_leasing_mva_2025,city_geetbets,2025,1093472,,,bbc_jr_realized,src_geetbets_jr2025,strong,Leasing MVA YE2025 1.093m; tick1088
+bud_gee_expl_rec_2025,city_geetbets,2025,12407728,,,bbc_jr_realized,src_geetbets_jr2025,strong,Exploitatieontvangsten 12.408m; tick1088
+bud_gee_expl_exp_2025,city_geetbets,2025,10515163,,,bbc_jr_realized,src_geetbets_jr2025,strong,Exploitatieuitgaven 10.515m; tick1088
+bud_gee_expl_saldo_2025,city_geetbets,2025,1892565,,,bbc_jr_realized,src_geetbets_jr2025,strong,Exploitatiesaldo +1.893m STRONG; tick1088
+bud_gee_invest_exp_2025,city_geetbets,2025,1083653,,,bbc_jr_realized,src_geetbets_jr2025,strong,Investeringsuitgaven 1.084m vs MJP 5.282m UNDERSPEND FOI; tick1088
+bud_gee_invest_rec_2025,city_geetbets,2025,244947,,,bbc_jr_realized,src_geetbets_jr2025,strong,Investeringsontvangsten 0.245m; tick1088
+bud_gee_invest_saldo_2025,city_geetbets,2025,-838706,,,bbc_jr_realized,src_geetbets_jr2025,strong,Investeringssaldo -0.839m FOI; tick1088
+bud_gee_mjp_invest_planned_2025,city_geetbets,2025,5281614,,,bbc_jr_realized,src_geetbets_jr2025,strong,MJP invest planned 5.282m vs realized 1.084m UNDERSPEND FOI; tick1088
+bud_gee_afm_2025,city_geetbets,2025,1105944,,,bbc_jr_realized,src_geetbets_jr2025,strong,AFM +1.106m STRONG; tick1088
+bud_gee_afm_corrected_2025,city_geetbets,2025,1163848,,,bbc_jr_realized,src_geetbets_jr2025,strong,Gecorrigeerde AFM +1.164m STRONG; tick1088
+bud_gee_bbr_2025,city_geetbets,2025,2917330,,,bbc_jr_realized,src_geetbets_jr2025,strong,Beschikbaar budgettair resultaat 2.917m (onbeschikbaar 0.757m); tick1088
+bud_gee_budget_result_2025,city_geetbets,2025,281003,,,bbc_jr_realized,src_geetbets_jr2025,strong,Budgettair resultaat boekjaar +0.281m POSITIVE (MJP -2.447); tick1088
+bud_gee_cum_budget_2025,city_geetbets,2025,3674488,,,bbc_jr_realized,src_geetbets_jr2025,strong,Gecumuleerd budgettair resultaat 3.674m; tick1088
+bud_gee_pnl_2025,city_geetbets,2025,1378339,,,bbc_jr_realized,src_geetbets_jr2025,strong,P&L overschot +1.378m IMPROVING (was +0.301m); tick1088
+bud_gee_personnel_2025,city_geetbets,2025,5003121,,,bbc_jr_realized,src_geetbets_jr2025,strong,Bezoldigingen 5.003m JUMP; tick1088
+bud_gee_goods_services_2025,city_geetbets,2025,2902626,,,bbc_jr_realized,src_geetbets_jr2025,strong,Goederen en diensten 2.903m; tick1088
+bud_gee_toelagen_2025,city_geetbets,2025,1086820,,,bbc_jr_realized,src_geetbets_jr2025,strong,Toegestane werkingssubsidies 1.087m FOI; tick1088
+bud_gee_police_toelage_2025,city_geetbets,2025,592202,,,bbc_jr_realized,src_geetbets_jr2025,strong,Politiezone toelage 0.592m JUMP FOI; tick1088
+bud_gee_fire_toelage_2025,city_geetbets,2025,312381,,,bbc_jr_realized,src_geetbets_jr2025,strong,HVZ toelage 0.312m JUMP; tick1088
+bud_gee_other_toelagen_2025,city_geetbets,2025,90979,,,bbc_jr_realized,src_geetbets_jr2025,strong,Andere toelagen 0.091m; tick1088
+bud_gee_igs_toelage_2025,city_geetbets,2025,50284,,,bbc_jr_realized,src_geetbets_jr2025,strong,IGS toelage 0.050m; tick1088
+bud_gee_fiscal_rec_2025,city_geetbets,2025,7227684,,,bbc_jr_realized,src_geetbets_jr2025,strong,Fiscale ontvangsten 7.228m JUMP FOI; tick1088
+bud_gee_other_tax_2025,city_geetbets,2025,1912527,,,bbc_jr_realized,src_geetbets_jr2025,strong,Andere belastingen/boetes 1.913m JUMP FOI (was 1.048m); tick1088
+bud_gee_werkingssubsidies_rec_2025,city_geetbets,2025,4260513,,,bbc_jr_realized,src_geetbets_jr2025,strong,Werkingssubsidies ontvangsten 4.261m; tick1088
+bud_gee_ocmw_cover_2025,city_geetbets,2025,201361,,,bbc_jr_realized,src_geetbets_jr2025,strong,OCMW tussenkomst 0.201m principle P&L-based FOI; tick1088
+bud_gee_ocmw_hulp_2025,city_geetbets,2025,530343,,,bbc_jr_realized,src_geetbets_jr2025,strong,OCMW individuele hulpverlening 0.530m DROP; tick1088
+bud_gee_other_op_exp_2025,city_geetbets,2025,677614,,,bbc_jr_realized,src_geetbets_jr2025,strong,Andere operationele uitgaven 0.678m JUMP FOI (was 0.336m); tick1088
+bud_gee_fin_exp_2025,city_geetbets,2025,306112,,,bbc_jr_realized,src_geetbets_jr2025,strong,Financiële uitgaven 0.306m; tick1088
+bud_gee_onbeschikbaar_2025,city_geetbets,2025,757159,,,bbc_jr_realized,src_geetbets_jr2025,strong,Onbeschikbare gelden 0.757m; tick1088
+bud_gee_financieringssaldo_2025,city_geetbets,2025,-772856,,,bbc_jr_realized,src_geetbets_jr2025,strong,Financieringssaldo -0.773m; tick1088

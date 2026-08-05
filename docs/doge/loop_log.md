@@ -14685,3 +14685,23 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +46 (bud_hoe_*); commitments +7; leaderboard +8; sources +1; entity city_hoegaarden; FOI **gap_hoe_balance_clear_other_opbr_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1087=done; spawn **rq_1088**; ticks=1087
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1088** residual dual L5; deferred **rq_116**; progress@1090 in 2
+
+
+### Tick 1088 - 2026-08-11T09:30:00Z
+
+- Unit: **rq_1088** (FOI-adjacent residual dual - **Lokaal Bestuur Geetbets Jaarrekening 2025** + Hoegaarden dual residual)
+- Found (strong primary BBC JR2025 PDF; 129p; GR+OR 29.06.2026; cipal geetbets-echo; KBO GE 0207.518.137 / OCMW 0212.212.937; Dorpsstraat 7 3450; AD Herman Stiers FD Wim Compernolle; GE+OCMW):
+  - Assets **EUR46.106m JUMP** / equity **EUR32.395m JUMP** / debt total **EUR13.71m DROP** / fin debt **EUR8.676m DECLINE** (LT **EUR7.897m** / ST due **EUR0.779m**)
+  - New loans **EUR0.061m LOW** / repayments **EUR0.812m**
+  - Cash **EUR2.462m DROP FOI** (was **EUR2.879m**) / pension **EUR3.192m DROP** (was **EUR3.882m**) / FVA IGS **EUR10.477m MASSIVE JUMP FOI** (was **EUR4.686m**) / herwaard **EUR7.077m MASSIVE JUMP FOI** (was **EUR1.292m**) / leasing MVA **EUR1.093m**
+  - Exploitatie: ontvangsten **EUR12.408m** / uitgaven **EUR10.515m** / saldo **+EUR1.893m STRONG**
+  - AFM **+EUR1.106m STRONG** (gecorr **+EUR1.164m**) / BBR **EUR2.917m** / budget **+EUR0.281m POSITIVE** (MJP **-EUR2.447m**) / cum BR **EUR3.674m** / P&L **+EUR1.378m IMPROVING**
+  - Fiscal **EUR7.228m JUMP** / andere tax-boetes **EUR1.913m JUMP FOI** (was **EUR1.048m**)
+  - Personnel **EUR5.003m JUMP** / toelagen **EUR1.087m FOI** (police **EUR0.592m JUMP** / fire **EUR0.312m JUMP** / other **EUR0.091m**)
+  - Invest **EUR1.084m** vs MJP **EUR5.282m UNDERSPEND FOI** / saldo **-EUR0.839m**
+  - OCMW cover **EUR0.201m** principle (P&L-based) FOI
+- Dual: Hoegaarden balance CLEAR / andere opbr JUMP / P&L flip (tick1087) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Ronse residual next; progress@1090 in 1
+- Wrote: budgets +44 (bud_gee_*); commitments +7; leaderboard +8; sources +1; entity city_geetbets; FOI **gap_gee_fva_herwaard_invest_tax_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1088=done; spawn **rq_1089**; ticks=1088
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1089** residual dual L5; deferred **rq_116**; progress@1090 in 1
