@@ -27811,3 +27811,57 @@ bud_lub_gemeentefonds_2025,city_lubbeek,2025,3274561,,,bbc_jr_realized,src_lubbe
 bud_lub_interest_2025,city_lubbeek,2025,419173,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Intresten op leningen 0.419m; tick1079
 bud_lub_mjp_debt_2027_2025,city_lubbeek,2025,15242674,,,bbc_jr_realized,src_lubbeek_jr2025,strong,MJP fin debt YE2027 path 15.243m with new loans 4.148m FOI; tick1079
 bud_lub_goederen_2025,city_lubbeek,2025,8033405,,,bbc_jr_realized,src_lubbeek_jr2025,strong,Goederen en diensten 8.033m; tick1079
+bud_her_assets_2025,city_herent,2025,161794769,,,bbc_jr_realized,src_herent_jr2025,strong,Assets YE2025 161.795m (was 153.558m) VERY HIGH cash-heavy; tick1081
+bud_her_equity_2025,city_herent,2025,130714052,,,bbc_jr_realized,src_herent_jr2025,strong,Nettoactief YE2025 130.714m (was 124.359m); tick1081
+bud_her_debt_total_2025,city_herent,2025,31080717,,,bbc_jr_realized,src_herent_jr2025,strong,Total schulden YE2025 31.081m slight up (was 29.199m); tick1081
+bud_her_fin_debt_2025,city_herent,2025,10868389,,,bbc_jr_realized,src_herent_jr2025,strong,Fin debt total YE2025 10.868m DECLINE (was 12.666m); tick1081
+bud_her_fin_debt_lt_2025,city_herent,2025,8838290,,,bbc_jr_realized,src_herent_jr2025,strong,Fin debt LT YE2025 8.838m DECLINE (was 10.606m); tick1081
+bud_her_fin_debt_st_due_2025,city_herent,2025,2030099,,,bbc_jr_realized,src_herent_jr2025,strong,Fin debt ST due YE2025 2.030m; tick1081
+bud_her_new_loans_2025,city_herent,2025,278036,,,bbc_jr_realized,src_herent_jr2025,strong,Nieuwe leningen 2025 0.278m LOW (leasing-heavy); tick1081
+bud_her_aflossingen_2025,city_herent,2025,2075982,,,bbc_jr_realized,src_herent_jr2025,strong,Periodieke aflossingen 2025 2.076m; tick1081
+bud_her_cash_2025,city_herent,2025,70051282,,,bbc_jr_realized,src_herent_jr2025,strong,Liquide middelen YE2025 70.051m VERY HIGH JUMP (was 65.202m); tick1081
+bud_her_pension_2025,city_herent,2025,11268046,,,bbc_jr_realized,src_herent_jr2025,strong,Pensioenvoorzieningen LT YE2025 11.268m MASSIVE JUMP FOI (was 9.317m); tick1081
+bud_her_cap_subs_2025,city_herent,2025,9049176,,,bbc_jr_realized,src_herent_jr2025,strong,Kapitaalsubsidies YE2025 9.049m; tick1081
+bud_her_fva_total_2025,city_herent,2025,22560797,,,bbc_jr_realized,src_herent_jr2025,strong,FVA total YE2025 22.561m; tick1081
+bud_her_fva_igs_2025,city_herent,2025,10768521,,,bbc_jr_realized,src_herent_jr2025,strong,FVA IGS YE2025 10.769m; tick1081
+bud_her_fva_agb_2025,city_herent,2025,9201765,,,bbc_jr_realized,src_herent_jr2025,strong,FVA AGB De Kouter YE2025 9.202m (was 9.851m capital reduction); tick1081
+bud_her_leasing_mva_2025,city_herent,2025,1750699,,,bbc_jr_realized,src_herent_jr2025,strong,Leasing MVA YE2025 1.751m; tick1081
+bud_her_expl_rec_2025,city_herent,2025,46253307,,,bbc_jr_realized,src_herent_jr2025,strong,Exploitatieontvangsten 46.253m; tick1081
+bud_her_expl_exp_2025,city_herent,2025,33840833,,,bbc_jr_realized,src_herent_jr2025,strong,Exploitatieuitgaven 33.841m; tick1081
+bud_her_expl_saldo_2025,city_herent,2025,12412474,,,bbc_jr_realized,src_herent_jr2025,strong,Exploitatiesaldo +12.412m VERY STRONG; tick1081
+bud_her_invest_exp_2025,city_herent,2025,6847020,,,bbc_jr_realized,src_herent_jr2025,strong,Investeringsuitgaven 6.847m vs MJP 36.450m MASSIVE UNDERSPEND FOI 18.8pct; tick1081
+bud_her_invest_rec_2025,city_herent,2025,971762,,,bbc_jr_realized,src_herent_jr2025,strong,Investeringsontvangsten 0.972m; tick1081
+bud_her_invest_saldo_2025,city_herent,2025,-5875258,,,bbc_jr_realized,src_herent_jr2025,strong,Investeringssaldo -5.875m; tick1081
+bud_her_mjp_invest_planned_2025,city_herent,2025,36450496,,,bbc_jr_realized,src_herent_jr2025,strong,MJP invest planned 36.450m vs realized 6.847m MASSIVE underspend FOI; tick1081
+bud_her_invest_mva_2025,city_herent,2025,6413590,,,bbc_jr_realized,src_herent_jr2025,strong,Investeringen MVA gemeenschaps+bedrijfs 6.414m; tick1081
+bud_her_invest_subs_granted_2025,city_herent,2025,381316,,,bbc_jr_realized,src_herent_jr2025,strong,Toegestane invest-subs 0.381m; tick1081
+bud_her_afm_2025,city_herent,2025,10336492,,,bbc_jr_realized,src_herent_jr2025,strong,AFM +10.336m VERY STRONG; tick1081
+bud_her_afm_corr_2025,city_herent,2025,11399167,,,bbc_jr_realized,src_herent_jr2025,strong,Gecorrigeerde AFM +11.399m VERY STRONG; tick1081
+bud_her_bbr_2025,city_herent,2025,69596628,,,bbc_jr_realized,src_herent_jr2025,strong,BBR beschikbaar +69.597m EXTREME HIGH cash-buffer; tick1081
+bud_her_budget_result_2025,city_herent,2025,4739270,,,bbc_jr_realized,src_herent_jr2025,strong,Budgettair resultaat +4.739m STRONG; tick1081
+bud_her_cum_br_2025,city_herent,2025,69790861,,,bbc_jr_realized,src_herent_jr2025,strong,Gecumuleerd budgettair resultaat +69.791m; tick1081
+bud_her_onbeschikbaar_2025,city_herent,2025,194233,,,bbc_jr_realized,src_herent_jr2025,strong,Onbeschikbare gelden 0.194m; tick1081
+bud_her_pnl_2025,city_herent,2025,6343477,,,bbc_jr_realized,src_herent_jr2025,strong,P&L +6.343m STRONG; tick1081
+bud_her_ge_expl_exp_2025,city_herent,2025,27229303,,,bbc_jr_realized,src_herent_jr2025,strong,GE exploitatieuitgaven J3 27.229m; tick1081
+bud_her_ge_expl_rec_2025,city_herent,2025,42221444,,,bbc_jr_realized,src_herent_jr2025,strong,GE exploitatieontvangsten J3 42.221m; tick1081
+bud_her_ocmw_expl_exp_2025,city_herent,2025,6611529,,,bbc_jr_realized,src_herent_jr2025,strong,OCMW exploitatieuitgaven J3 6.612m; tick1081
+bud_her_ocmw_expl_rec_2025,city_herent,2025,4031863,,,bbc_jr_realized,src_herent_jr2025,strong,OCMW exploitatieontvangsten J3 4.032m; tick1081
+bud_her_ocmw_expl_gap_2025,city_herent,2025,-2579666,,,bbc_jr_realized,src_herent_jr2025,strong,OCMW expl gap J3 -2.580m; tick1081
+bud_her_ocmw_cover_2025,city_herent,2025,0,,,bbc_jr_realized,src_herent_jr2025,strong,OCMW cover tussenkomst not in public T2/J3 as named line ZERO FOI residual; tick1081
+bud_her_equity_cum_2025,city_herent,2025,71805824,,,bbc_jr_realized,src_herent_jr2025,strong,Gecumuleerd equity overschot YE2025 +71.806m; tick1081
+bud_her_personnel_2025,city_herent,2025,14731412,,,bbc_jr_realized,src_herent_jr2025,strong,Bezoldigingen T2 14.731m incl education pass-through 1.782m; tick1081
+bud_her_edu_pass_through_2025,city_herent,2025,1781835,,,bbc_jr_realized,src_herent_jr2025,strong,Onderwijzend personeel ten laste andere overheden 1.782m; tick1081
+bud_her_toelagen_2025,city_herent,2025,5484236,,,bbc_jr_realized,src_herent_jr2025,strong,Toegestane werkingssubsidies T2 5.484m FOI residual; tick1081
+bud_her_toelagen_police_2025,city_herent,2025,2756352,,,bbc_jr_realized,src_herent_jr2025,strong,Toelage politiezone Herko 2.756m JUMP; tick1081
+bud_her_toelagen_fire_2025,city_herent,2025,1167543,,,bbc_jr_realized,src_herent_jr2025,strong,Toelage hulpverleningszone 1.168m; tick1081
+bud_her_toelagen_igs_2025,city_herent,2025,709707,,,bbc_jr_realized,src_herent_jr2025,strong,Toelage IGS 0.710m JUMP; tick1081
+bud_her_toelagen_other_2025,city_herent,2025,850634,,,bbc_jr_realized,src_herent_jr2025,strong,Toelage other+eredienst residual 0.851m FOI; tick1081
+bud_her_ocmw_aid_2025,city_herent,2025,2498237,,,bbc_jr_realized,src_herent_jr2025,strong,OCMW individuele hulp 2.498m; tick1081
+bud_her_fiscal_2025,city_herent,2025,30149487,,,bbc_jr_realized,src_herent_jr2025,strong,Fiscale opbrengsten 30.149m; tick1081
+bud_her_fiscal_ov_2025,city_herent,2025,10629069,,,bbc_jr_realized,src_herent_jr2025,strong,Opcentiemen OV 10.629m; tick1081
+bud_her_fiscal_pb_2025,city_herent,2025,16194051,,,bbc_jr_realized,src_herent_jr2025,strong,Aanvullende PB 16.194m JUMP; tick1081
+bud_her_gemeentefonds_2025,city_herent,2025,4790565,,,bbc_jr_realized,src_herent_jr2025,strong,Gemeentefonds 4.791m; tick1081
+bud_her_interest_2025,city_herent,2025,429672,,,bbc_jr_realized,src_herent_jr2025,strong,Intresten op leningen 0.430m; tick1081
+bud_her_agb_afm_2025,city_herent,2025,742733,,,bbc_jr_realized,src_herent_jr2025,strong,AGB De Kouter AFM +0.743m dual; tick1081
+bud_her_agb_bbr_2025,city_herent,2025,21116,,,bbc_jr_realized,src_herent_jr2025,strong,AGB De Kouter BBR +0.021m dual; tick1081
+bud_her_goederen_2025,city_herent,2025,10508249,,,bbc_jr_realized,src_herent_jr2025,strong,Goederen en diensten 10.508m; tick1081

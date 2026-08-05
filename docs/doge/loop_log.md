@@ -14545,3 +14545,23 @@ Append-only. Each tick adds a short entry.
 - FOI: none new this tick (decade inventory only) — **do not send** backlog without human OK
 - Next: prio5 **rq_1081** residual dual L5; deferred **rq_116**; progress@1090 in 9
 
+
+### Tick 1081 - 2026-08-11T06:00:00Z
+
+- Unit: **rq_1081** (FOI-adjacent residual dual - **Lokaal Bestuur Herent Jaarrekening 2025** + Lubbeek dual residual)
+- Found (strong primary BBC JR2025 PDF; pub 11.05.2026; KBO GE 0207.519.127 / OCMW 0212.217.786; Spoorwegstraat 6 3020; AD Katrien Putzeys FD Britt Ackermans; GE+OCMW + AGB De Kouter dual):
+  - Assets **EUR161.795m** / equity **EUR130.714m** / debt total **EUR31.08m** / fin debt **EUR10.868m DECLINE** (LT **EUR8.838m** / ST due **EUR2.030m**; was **EUR12.666m**)
+  - New loans **EUR0.278m LOW** / repayments **EUR2.076m**
+  - Cash **EUR70.051m VERY HIGH JUMP** (was **EUR65.202m**) / pension **EUR11.268m MASSIVE JUMP FOI** (was **EUR9.317m**, +**EUR1.951m**) / FVA IGS **EUR10.769m** / FVA AGB **EUR9.202m** / leasing MVA **EUR1.751m**
+  - Exploitatie: ontvangsten **EUR46.253m** / uitgaven **EUR33.841m** / saldo **+EUR12.412m VERY STRONG**
+  - AFM **+EUR10.336m VERY STRONG** (gecorr **+EUR11.399m**) / BBR **EUR69.597m EXTREME** / budget **+EUR4.739m STRONG** / cum BR **EUR69.791m** / P&L **+EUR6.343m STRONG**
+  - Personnel **EUR14.731m** (edu pass-through **EUR1.782m**) / toelagen **EUR5.484m FOI** (police Herko **EUR2.756m JUMP** / fire **EUR1.168m** / IGS **EUR0.710m JUMP** / other **EUR0.851m**)
+  - Invest **EUR6.847m** vs MJP **EUR36.450m MASSIVE UNDERSPEND FOI** (18.8%; overdracht ca. **EUR24.26m** 2026)
+  - OCMW expl gap **-EUR2.580m** / cover residual FOI (not named tussenkomst line)
+  - Dual AGB De Kouter: consol AFM **+EUR0.743m** / BBR **+EUR0.021m** / capital reduction ca. **EUR0.649m**
+- Dual: Lubbeek cash DROP / budget NEG / OCMW zero (tick1079) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Ronse / Zoutleeuw residual next; progress@1090 in 8
+- Wrote: budgets +54 (bud_her_*); commitments +7; leaderboard +8; sources +1; entity city_herent; FOI **gap_her_invest_pension_cash_toelagen_l5** prio9 ready + draft; PDF primary (not committed); rq_1081=done; spawn **rq_1082**; ticks=1081
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1082** residual dual L5; deferred **rq_116**; progress@1090 in 8
+
