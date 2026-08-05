@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 990** (2026-08-09)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 981-989: Kortemark **EUR98.7m** / Koekelare **EUR72.4m** / Ledegem **EUR71.8m** / Heuvelland **EUR65.4m** / Deerlijk **EUR64.4m** / WZBW Wervik **EUR41.6m** / Lo-Reninge **EUR38.5m** / Westtoer APB **EUR14.2m** / Spiere-Helkijn **EUR13.4m** · prior 971-979 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 980-990 is VL residual dual L5 + provincial tourism APB (not near-complete of 348bn):** personnel Deerlijk **EUR16.9m** / WZBW **EUR13.9m** / Heuvelland **EUR10.2m** / Kortemark **EUR9.15m** / Westtoer **EUR7.79m** / Koekelare **EUR6.40m** / Ledegem **EUR6.25m** · FOI-adjacent: Deerlijk **OCMW cover EUR1.75m** / fin debt **EUR5.08m RISING** / toelagen **EUR3.49m** / leasing **EUR5.09m** · Heuvelland **OCMW cum deficit -EUR2.38m cover 0** / cash DROP **EUR9.19m** / budget **-EUR2.31m** / toelagen **EUR1.98m** · Lo-Reninge **fin debt EUR3.48m RISING** (+loan **EUR1.80m**) / cash DROP **EUR1.27m** / OCMW cover **EUR0.090m** · Kortemark **FVA IGS EUR30.56m JUMP** (herclass+invest) / OCMW cover **EUR0.969m FULL** / pension **EUR5.47m RISING** / toelagen **EUR2.17m** · WZBW **AFM -EUR0.082m NEG** / **cum deficit -EUR6.28m WORSENING** / OCMW dual **EUR1.35m** / new loan **EUR1.25m** · Ledegem **FVA IGS EUR17.03m JUMP herwaard EUR12.61m** / OCMW cover **EUR0.401m** / toelagen **EUR1.90m** · Westtoer **province dotatie EUR9.93m** / mun pool **EUR1.34m DROP** (was 2.76m) / personnel **EUR7.79m** · Koekelare **fin debt EUR4.55m RISING** (+loan **EUR1.50m**) / OCMW cover **EUR1.21m FULL** / cash JUMP **EUR7.65m** / budget **+EUR3.28m** / MVA sale **EUR1.25m** · Spiere-Helkijn **OCMW cover EUR0.313m** / toelagen **EUR0.548m** named MIRA/IMOG |
+| **E. FOI-ready gaps** | **~673** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~715** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / Wevelgem **EUR305m** / Menen **EUR263m** / Zwevegem **EUR198.9m** / Kortemark **EUR98.7m** / Koekelare **EUR72.4m** / Ledegem **EUR71.8m** / Heuvelland **EUR65.4m** / Deerlijk **EUR64.4m** not full TE) · **WZBW EUR41.6m** · **Westtoer APB EUR14.2m** · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 990)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~23263 |
+| commitments.csv | ~2920 |
+| leaderboard.csv | ~4702 |
+| entities.csv | ~710 |
+| sources.csv | ~1904 |
+| FOI ready | ~673 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~715 |
+| research_queue open | rq_116 deferred + rq_991 hole-fill after progress |
+
+### What improved since tick 980
+
+- **VL city/Entity II JR2025 residual (tick981-989):** Deerlijk **EUR64.4m** / fin debt **EUR5.08m RISING** (+loan **EUR1.27m**) / OCMW cover **EUR1.75m** / toelagen **EUR3.49m** / leasing **EUR5.09m** · Spiere-Helkijn **EUR13.4m** / OCMW cover **EUR0.313m** / toelagen **EUR0.548m** named · Heuvelland **EUR65.4m** / **OCMW cum deficit -EUR2.38m cover 0** / cash DROP **EUR9.19m** / budget **-EUR2.31m** · Lo-Reninge **EUR38.5m** / fin debt **EUR3.48m RISING** (+loan **EUR1.80m**) / cash DROP **EUR1.27m** / OCMW cover **EUR0.090m** · Kortemark **EUR98.7m** / fin debt **EUR9.76m DECLINING** / **FVA IGS EUR30.56m JUMP** / OCMW cover **EUR0.969m FULL** / pension **EUR5.47m RISING** · WZBW Wervik **EUR41.6m** / **AFM -EUR0.082m NEG** / **cum deficit -EUR6.28m WORSENING** / OCMW dual **EUR1.35m** / loan **EUR1.25m** · Ledegem **EUR71.8m JUMP** / **FVA IGS EUR17.03m herwaard EUR12.61m** / OCMW cover **EUR0.401m** / toelagen **EUR1.90m** · Westtoer APB **EUR14.2m** / **province alg EUR9.93m** / mun pool **EUR1.34m DROP** / cash **EUR11.42m** · Koekelare **EUR72.4m** / fin debt **EUR4.55m RISING** (+loan **EUR1.50m**) / OCMW cover **EUR1.21m FULL** / cash JUMP **EUR7.65m** / budget **+EUR3.28m** / MVA sale **EUR1.25m**.
+- **Dual map:** debt-rising duals (Deerlijk / Lo-Reninge / Koekelare / WZBW slight stock still high) vs debt-declining duals (Spiere-Helkijn / Heuvelland / Kortemark / Ledegem / Westtoer) · large OCMW cover duals (Deerlijk **EUR1.75m** / Koekelare **EUR1.21m** / Kortemark **EUR0.969m** / Ledegem **EUR0.401m** / Spiere-Helkijn **EUR0.313m**) vs **Heuvelland cover 0 + cum deficit -EUR2.38m** · Entity II AFM-neg care (WZBW **-EUR0.082m** + cum **-EUR6.28m**) · FVA IGS JUMP duals (Kortemark **EUR30.56m** / Ledegem **EUR17.03m herwaard**) · provincial tourism dual (Westtoer **EUR9.93m** province + mun pool DROP) · cash JUMP (Kortemark / Koekelare / Westtoer / WZBW) vs cash DROP (Heuvelland / Lo-Reninge / Ledegem).
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 980** (2026-08-09)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

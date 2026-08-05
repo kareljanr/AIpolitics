@@ -12791,3 +12791,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio9 **rq_990** mandatory progress@990; deferred **rq_116**; progress@990 in 1
 
+
+### Tick 990 - 2026-08-09T08:15:00Z
+
+- Unit: **rq_990** (mandatory **progress@990** coverage % layers A-E + waste top10 after VL residual dual 981-989)
+- Found / assessed (no new primary PDF this tick — decade inventory + ranking refresh):
+  - **A L0:** 100% TE EUR 347.956bn
+  - **B L1:** 100% unconsol. map
+  - **C L2:** ~99% — **+** Kortemark **EUR98.7m** / Koekelare **EUR72.4m** / Ledegem **EUR71.8m** / Heuvelland **EUR65.4m** / Deerlijk **EUR64.4m** / WZBW **EUR41.6m** / Lo-Reninge **EUR38.5m** / Westtoer **EUR14.2m** / Spiere-Helkijn **EUR13.4m**
+  - **D L5:** ~74-88% TE generous (still not near-complete of 348bn) — OCMW cover stack Deerlijk **EUR1.75m** / Koekelare **EUR1.21m** / Kortemark **EUR0.969m** / Ledegem **EUR0.401m** · Heuvelland **cover 0 + cum -EUR2.38m** · WZBW **AFM -EUR0.082m** / **cum deficit -EUR6.28m** / OCMW dual **EUR1.35m** · FVA IGS JUMP Kortemark **EUR30.56m** / Ledegem **EUR17.03m herwaard EUR12.61m** · Westtoer **province EUR9.93m** / mun pool DROP **EUR1.34m** · debt RISING Deerlijk/Lo-Reninge/Koekelare · cash JUMP Koekelare/Kortemark/Westtoer vs DROP Heuvelland/Lo-Reninge
+  - **E FOI:** ready **~673** / answered **~9** / partial **~27** / total rows **~715**
+  - Inventory: budgets **~23263** / commitments **~2920** / leaderboard **~4702** / entities **~710** / sources **~1904**
+  - Pure annual waste top10: **stable** GIP / fossil / cars / cheque / reporte (local L5 stocks filtered)
+- Wrote: progress_every_10_ticks.md snapshot@990; doge_waste_top10_current.md as-of 990; rq_990=done; spawn **rq_991** hole_fill; ticks=990
+- FOI: no new gap this tick (progress only) - **do not send**
+- Next: prio5 **rq_991** residual dual L5 (Torhout / Meulebeke / Nieuwpoort / AGB De Panne); deferred **rq_116**; progress@1000 in 10
+
