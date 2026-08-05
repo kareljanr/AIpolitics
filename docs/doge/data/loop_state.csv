@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T09:45:00Z,rq_922,922,no,tick922 Diksmuide JR2025 dual Schoten; FOI gap_dik_invest_cash_loans_l5 prio8 invest 17.3m bank loans 3.125m cash drop debt rising AFM +8.27m; next residual dual L5 rq_923; rq_116 deferred
+main,continuous,hole_fill,2026-08-07T10:15:00Z,rq_923,923,no,tick923 Putte JR2025 dual Diksmuide; FOI gap_put_loans_agb_igs_l5 prio8 bank loans 3.5m AGB flows invest-subs IGS cash recover AFM +2.64m; next residual dual L5 rq_924; rq_116 deferred

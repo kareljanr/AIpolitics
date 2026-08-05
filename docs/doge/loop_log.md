@@ -11590,3 +11590,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +48 (bud_dik_*); commitments +4; leaderboard +7; sources +2; entity city_diksmuide; FOI **gap_dik_invest_cash_loans_l5** prio8 ready + draft; raw PDF + key; rq_922=done; spawn **rq_923**; ticks=922
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_923** residual dual L5 (Putte PDF / Kapellen AGB+APB / Merelbeke-Melle / Roeselare); deferred **rq_116**; progress@930 in 8
+
+### Tick 923 - 2026-08-07T10:15:00Z
+
+- Unit: **rq_923** (FOI-adjacent residual dual - **Gemeente+OCMW Putte Jaarrekening 2025** + Diksmuide dual)
+- Found (strong primary BBC JR2025 655p dossier):
+  - Assets **EUR80.0m** / equity **EUR48.4m** / debt total **EUR31.6m** / fin debt **EUR20.2m** (**DECLINING** from **EUR20.7m**; LT **EUR17.8m** / ST due **EUR2.42m**)
+  - New bank loans **EUR3.500m FOI** / other **EUR0.11m** / periodieke **EUR2.76m** / early repay **EUR0.65m**
+  - **Cash EUR2.67m was EUR0.43m JUMP recover FOI** / pension **EUR6.90m**
+  - Exploitatie: ontvangsten **EUR30.8m** / uitgaven **EUR25.8m** / saldo **+EUR4.97m**
+  - AFM **+EUR2.64m** (gecorr **+EUR3.74m**) / BBR **EUR3.53m** / budget result **+EUR2.32m** / P&L **+EUR1.20m**
+  - Personnel **EUR13.0m** / toelagen **EUR3.65m** (police **EUR1.92m** / HVZ **EUR0.86m** / **AGB EUR0.58m FOI** / other **EUR0.23m FOI**)
+  - **Invest EUR5.67m FOI** / invest-subs **EUR0.51m** (**IGS EUR0.41m FOI**) / AGB loan recover NP **EUR1.68m FOI**
+  - Fiscal **EUR18.2m** / gemeentefonds **EUR4.68m** / MJP bank 2026 **EUR1.30m FOI**
+- Dual: Diksmuide **EUR184.2m** / invest **EUR17.3m** / bank **EUR3.125m** (tick922) - not TE-additive
+- Wrote: budgets +52 (bud_put_*); commitments +4; leaderboard +7; sources +2; entity city_putte; FOI **gap_put_loans_agb_igs_l5** prio8 ready + draft; raw PDF + key; rq_923=done; spawn **rq_924**; ticks=923
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_924** residual dual L5 (Merelbeke-Melle / Kapellen AGB+APB / Roeselare / Destelbergen); deferred **rq_116**; progress@930 in 7

@@ -20491,3 +20491,55 @@ bud_dik_fin_costs_2025,city_diksmuide,2025,612880,,,jaarrekening_realized,src_di
 bud_dik_invest_mva_2025,city_diksmuide,2025,12509478,,,jaarrekening_realized,src_diksmuide_jr2025,strong,Investeringen MVA 12.509m (buildings 7.062 roads 4.251 leasing 0.766); tick922
 bud_dik_invest_fva_other_2025,city_diksmuide,2025,4419698,,,jaarrekening_realized,src_diksmuide_jr2025,strong,FVA other invest 4.420m Publi-T DNB->VEH correctieboeking FOI; tick922
 bud_dik_pop_2025,city_diksmuide,2025,17362,,,count,src_diksmuide_jr2025,strong,Inwoners 17362 (extract); tick922
+bud_put_assets_2025,city_putte,2025,80041369,,,jaarrekening_realized,src_putte_jr2025,strong,Consol gemeente+OCMW total assets YE2025 80.041m; tick923
+bud_put_equity_2025,city_putte,2025,48438745,,,jaarrekening_realized,src_putte_jr2025,strong,Nettoactief YE2025 48.439m; tick923
+bud_put_debt_total_2025,city_putte,2025,31602623,,,jaarrekening_realized,src_putte_jr2025,strong,Total schulden YE2025 31.603m; tick923
+bud_put_fin_debt_2025,city_putte,2025,20188526,,,jaarrekening_realized,src_putte_jr2025,strong,T4 total financiele schulden YE2025 20.189m (DECLINING from 20.739m); tick923
+bud_put_fin_debt_lt_2025,city_putte,2025,17769275,,,jaarrekening_realized,src_putte_jr2025,strong,Financiele schulden LT YE2025 17.769m; tick923
+bud_put_fin_debt_st_due_2025,city_putte,2025,2419251,,,jaarrekening_realized,src_putte_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 2.419m; tick923
+bud_put_fin_debt_2024,city_putte,2025,20738756,,,jaarrekening_realized,src_putte_jr2025,strong,T4 fin debt YE2024 20.739m comparator; tick923
+bud_put_pension_prov_2025,city_putte,2025,6903679,,,jaarrekening_realized,src_putte_jr2025,strong,Pensioenvoorzieningen LT YE2025 6.904m; tick923
+bud_put_cash_2025,city_putte,2025,2671770,,,jaarrekening_realized,src_putte_jr2025,strong,Liquide middelen YE2025 2.672m (was 0.429m JUMP recover FOI); tick923
+bud_put_cash_2024,city_putte,2025,428633,,,jaarrekening_realized,src_putte_jr2025,strong,Liquide middelen YE2024 0.429m; tick923
+bud_put_cap_subs_2025,city_putte,2025,8053196,,,jaarrekening_realized,src_putte_jr2025,strong,Kapitaalsubsidies YE2025 8.053m; tick923
+bud_put_fva_total_2025,city_putte,2025,8596371,,,jaarrekening_realized,src_putte_jr2025,strong,Financiele vaste activa YE2025 8.596m; tick923
+bud_put_fva_igs_2025,city_putte,2025,8517162,,,jaarrekening_realized,src_putte_jr2025,strong,Fin VA IGS YE2025 8.517m; tick923
+bud_put_mva_2025,city_putte,2025,56895504,,,jaarrekening_realized,src_putte_jr2025,strong,Materiele vaste activa YE2025 56.896m; tick923
+bud_put_onbeschikbaar_2025,city_putte,2025,2358,,,jaarrekening_realized,src_putte_jr2025,strong,Onbeschikbare gelden J2 0.002m; tick923
+bud_put_expl_rec_2025,city_putte,2025,30787563,,,jaarrekening_realized,src_putte_jr2025,strong,Exploitatieontvangsten 30.788m; tick923
+bud_put_expl_exp_2025,city_putte,2025,25816429,,,jaarrekening_realized,src_putte_jr2025,strong,Exploitatieuitgaven 25.816m; tick923
+bud_put_expl_saldo_2025,city_putte,2025,4971135,,,jaarrekening_realized,src_putte_jr2025,strong,Exploitatiesaldo +4.971m; tick923
+bud_put_invest_exp_2025,city_putte,2025,5668135,,,jaarrekening_realized,src_putte_jr2025,strong,Investeringsuitgaven J2 5.668m FOI; tick923
+bud_put_invest_rec_2025,city_putte,2025,966120,,,jaarrekening_realized,src_putte_jr2025,strong,Investeringsontvangsten J2 0.966m; tick923
+bud_put_invest_saldo_2025,city_putte,2025,-4702015,,,jaarrekening_realized,src_putte_jr2025,strong,Investeringssaldo -4.702m; tick923
+bud_put_fin_rec_2025,city_putte,2025,5694564,,,jaarrekening_realized,src_putte_jr2025,strong,Financieringsontvangsten 5.695m; tick923
+bud_put_fin_exp_2025,city_putte,2025,3643977,,,jaarrekening_realized,src_putte_jr2025,strong,Financieringsuitgaven 3.644m; tick923
+bud_put_new_loans_2025,city_putte,2025,3611717,,,jaarrekening_realized,src_putte_jr2025,strong,Aangaan financiele schulden total 3.612m (bank 3.500m + other 0.112m) FOI; tick923
+bud_put_new_loans_bank_2025,city_putte,2025,3500000,,,jaarrekening_realized,src_putte_jr2025,strong,Opname leningen bij financiele instellingen 3.500m FOI; tick923
+bud_put_aflossingen_2025,city_putte,2025,2761002,,,jaarrekening_realized,src_putte_jr2025,strong,Periodieke aflossingen 2.761m; tick923
+bud_put_early_repay_2025,city_putte,2025,650946,,,jaarrekening_realized,src_putte_jr2025,strong,Niet-periodieke aflossingen 0.651m; tick923
+bud_put_agb_loans_granted_2025,city_putte,2025,232029,,,jaarrekening_realized,src_putte_jr2025,strong,Toegestane leningen AGB 0.232m FOI; tick923
+bud_put_agb_loans_recover_np_2025,city_putte,2025,1681909,,,jaarrekening_realized,src_putte_jr2025,strong,Niet-periodieke terugvordering AGB leningen 1.682m FOI; tick923
+bud_put_afm_2025,city_putte,2025,2635184,,,jaarrekening_realized,src_putte_jr2025,strong,AFM +2.635m (strong); tick923
+bud_put_afm_corr_2025,city_putte,2025,3737085,,,jaarrekening_realized,src_putte_jr2025,strong,Gecorrigeerde AFM +3.737m; tick923
+bud_put_bbr_2025,city_putte,2025,3529783,,,jaarrekening_realized,src_putte_jr2025,strong,BBR 3.530m after onbeschikbaar 0.002m; tick923
+bud_put_budget_result_2025,city_putte,2025,2319707,,,jaarrekening_realized,src_putte_jr2025,strong,Budgettair resultaat boekjaar +2.320m; tick923
+bud_put_cum_br_2025,city_putte,2025,3532140,,,jaarrekening_realized,src_putte_jr2025,strong,Gecumuleerd budgettair resultaat 3.532m; tick923
+bud_put_pnl_result_2025,city_putte,2025,1198362,,,jaarrekening_realized,src_putte_jr2025,strong,Vennootschapsresultaat J5 +1.198m; tick923
+bud_put_personnel_2025,city_putte,2025,12989665,,,jaarrekening_realized,src_putte_jr2025,strong,J5 bezoldigingen 12.990m; tick923
+bud_put_toelagen_2025,city_putte,2025,3651056,,,jaarrekening_realized,src_putte_jr2025,strong,Toegestane werkingssubsidies 3.651m; tick923
+bud_put_police_toelage_2025,city_putte,2025,1923499,,,jaarrekening_realized,src_putte_jr2025,strong,Toelage politiezone 1.923m; tick923
+bud_put_hvz_toelage_2025,city_putte,2025,862753,,,jaarrekening_realized,src_putte_jr2025,strong,Toelage HVZ 0.863m; tick923
+bud_put_agb_toelage_2025,city_putte,2025,582011,,,jaarrekening_realized,src_putte_jr2025,strong,Toelage AGB 0.582m FOI; tick923
+bud_put_eredienst_toelage_2025,city_putte,2025,56242,,,jaarrekening_realized,src_putte_jr2025,strong,Toelage eredienst 0.056m; tick923
+bud_put_toelagen_other_2025,city_putte,2025,226551,,,jaarrekening_realized,src_putte_jr2025,strong,Toelagen andere begunstigden 0.227m FOI; tick923
+bud_put_invest_subs_granted_2025,city_putte,2025,509948,,,jaarrekening_realized,src_putte_jr2025,strong,Toegestane investeringssubsidies 0.510m (IGS 0.407m FOI); tick923
+bud_put_invest_subs_igs_2025,city_putte,2025,407093,,,jaarrekening_realized,src_putte_jr2025,strong,Invest-subs IGS 0.407m FOI; tick923
+bud_put_ocmw_aid_2025,city_putte,2025,1087341,,,jaarrekening_realized,src_putte_jr2025,strong,OCMW individuele hulp 1.087m; tick923
+bud_put_fiscal_2025,city_putte,2025,18163344,,,jaarrekening_realized,src_putte_jr2025,strong,J5 fiscale opbrengsten en boetes 18.163m; tick923
+bud_put_gemeentefonds_2025,city_putte,2025,4677366,,,jaarrekening_realized,src_putte_jr2025,strong,Gemeentefonds 4.677m; tick923
+bud_put_fin_costs_2025,city_putte,2025,793301,,,jaarrekening_realized,src_putte_jr2025,strong,J5 financiele kosten 0.793m; tick923
+bud_put_invest_mva_2025,city_putte,2025,4919469,,,jaarrekening_realized,src_putte_jr2025,strong,Investeringen MVA 4.919m (buildings 2.698 roads 1.288); tick923
+bud_put_mjp_new_loans_bank_2026,city_putte,2025,1300000,,,jaarrekening_realized,src_putte_jr2025,strong,MJP new bank loans 2026 1.300m FOI; tick923
+bud_put_mjp_fin_debt_2026,city_putte,2025,18884547,,,jaarrekening_realized,src_putte_jr2025,strong,MJP projected fin debt YE2026 18.885m; tick923
+bud_put_agb_prive_bbr_2025,city_putte,2025,49841,,,jaarrekening_realized,src_putte_jr2025,strong,AGB Prive Domein BBR YE2025 0.050m (consol evenwicht); tick923

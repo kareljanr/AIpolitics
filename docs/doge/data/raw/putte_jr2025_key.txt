@@ -1,0 +1,43 @@
+PUTTE JR2025 KEY EXTRACT — tick923
+Primary: https://www.putte.be/sites/default/files/2026-06/Dossier_rekening_2025_gemeente-OCMW.pdf
+Portal: https://www.putte.be/bekendmakingen-gemeenteraad
+Local: docs/doge/data/raw/putte_jr2025.pdf (655p BBC dossier)
+Contact: Gemeenteplein 1 2580 Putte | info@putte.be
+KBO Gemeente 0207.499.727 | OCMW 0212.209.868
+FD Peter Ledegen | AD Ernie Kasprzak
+GR vaststelling 18.06.2026
+
+BALANCE J4 YE2025 (vs 2024):
+Assets 80041369 (80099240)
+Equity 48438745 (47667013)
+Schulden total 31602623 (32432227)
+Fin debt T4 20188526 (20738756 DECLINING)
+  LT 17769275 / ST due 2419251 / ST 0 (was 750000)
+Cash 2671770 (428633 JUMP recover)
+Pension 6903679
+Cap subs 8053196
+FVA 8596371 (IGS 8517162)
+MVA 56895504
+
+J2:
+Expl 30787563 / 25816429 / +4971135
+Invest 966120 / 5668135 / -4702015
+Fin 5694564 / 3643977 / +2050587
+Budget result +2319707
+Cum BR 3532140 / onbeschikbaar 2358 / BBR 3529783
+AFM +2635184 / gecorr +3737085
+Periodieke aflossingen 2761002 / early repay 650946
+New loans bank 3500000 + other 111717 = 3611717
+AGB loans granted 232029 / AGB recover NP 1681909
+
+J5/T2:
+Personnel 12989665
+Toelagen 3651056 (police 1923499 / HVZ 862753 / AGB 582011 / eredienst 56242 / other 226551)
+Invest-subs 509948 (IGS 407093 FOI)
+Fiscal 18163344 / gemeentefonds 4677366
+P&L +1198362
+Invest MVA 4919469
+MJP bank loans 2026 1300000 / fin debt YE2026 18884547 YE2027 16321835
+
+FOI: bank 3.5m; AGB flows; IGS invest-subs; invest list; other toelagen
+Dual: Diksmuide tick922 assets 184.2m invest 17.3m
