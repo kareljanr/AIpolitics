@@ -14526,3 +14526,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1080** residual dual L5 + **PROGRESS@1080**; deferred **rq_116**
 
+
+### Tick 1080 - 2026-08-11T05:30:00Z — **PROGRESS@1080**
+
+- Unit: **rq_1080** (mandatory decade progress + residual dual inventory 1071-1079)
+- Found / coverage (layers A–E of EUR347.956bn TE):
+  - **A L0** 100% strong · **B L1** 100% unconsol map · **C L2** ~99% o.o.m. (+ VL dual 1071-1079 stack)
+  - **D L5** ~74-88% generous (not near-complete of 348bn) — gain is residual dual L5 not TE-filling
+  - **E FOI** ~729 ready / ~9 answered / ~27 partial / ~771 total rows
+- Residual dual closed 1071-1079 (highlights):
+  - **Duffel** loans **EUR9.33m MASSIVE** / pension JUMP **EUR16.70m** / fin debt **EUR39.47m** / assets **EUR143.1m**
+  - **Lubbeek** cash MASSIVE DROP **EUR11.31m** / budget **−EUR4.16m NEG HIGH** / BBR **EUR14.32m** / OCMW cover **0 ZERO** explicit / assets **EUR103.7m**
+  - **Kampenhout** cash DROP / budget **−EUR3.04m** / OCMW **0** · **Bonheiden** invest **EUR3.81 vs MJP EUR18.07 MASSIVE** / OCMW **0**
+  - **Roosdaal** OCMW **0** / loans JUMP · **Hoeilaart** cash DROP / pension JUMP · Lebbeke / Ternat / Lennik FULL-cover path retained
+- Waste top10: pure annual **stable** (GIP #1; fossil/cars/cheque/reporté #2–10); stock/dual filtered off pure top10
+- Inventory: budgets ~27812 · commitments ~3457 · leaderboard ~5389 · entities ~799 · sources ~1992
+- Wrote: `progress_every_10_ticks.md` + `doge_waste_top10_current.md` refreshed; rq_1080=done; spawn **rq_1081**; ticks=1080
+- FOI: none new this tick (decade inventory only) — **do not send** backlog without human OK
+- Next: prio5 **rq_1081** residual dual L5; deferred **rq_116**; progress@1090 in 9
+
