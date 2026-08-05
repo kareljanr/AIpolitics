@@ -12902,3 +12902,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +40 (bud_mid_*); commitments +5; leaderboard +7; sources +1; entity city_middelkerke; FOI **gap_mid_bbc_full_toelagen_debt_ocmw_l5** prio8 ready + draft; key only (PDF ~4.8MB not stored in git); rq_995=done; spawn **rq_996**; ticks=995
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_996** residual dual L5 (Torhout / Meulebeke / AGB De Panne / other); deferred **rq_116**; progress@1000 in 5
+
+### Tick 996 - 2026-08-09T11:15:00Z
+
+- Unit: **rq_996** (FOI-adjacent residual dual - **Gemeente+OCMW Alveringem Jaarrekening 2025** + Middelkerke dual residual)
+- Found (strong primary BBC JR2025 183p; KBO 0207.495.074 / OCMW 0212.235.505; FD Kjell Declercq; AD Wouter Accou; Sint-Rijkersstraat 19):
+  - Assets **EUR61.42m** / equity **EUR54.09m** / debt total **EUR7.33m** / fin debt **EUR4.42m** (**DECLINING** from **EUR5.06m**; LT **EUR3.82m** / ST due **EUR0.594m**)
+  - New loans **EUR0.007m** / repayments **EUR0.646m**
+  - Cash **EUR10.74m JUMP** (was **EUR9.75m**) / pension **EUR1.41m** slight drop / leasing MVA **EUR0.619m**
+  - FVA IGS **EUR3.50m** / cap subs **EUR12.57m**
+  - Exploitatie: ontvangsten **EUR17.00m** / uitgaven **EUR14.40m** / saldo **+EUR2.61m STRONG**
+  - AFM **+EUR2.33m STRONG** (gecorr **+EUR2.57m**; MJP was 0.383m) / BBR **EUR11.03m HIGH** / budget **+EUR1.38m** / P&L **+EUR1.92m STRONG** (GE **+EUR2.11m** / OCMW **-EUR0.188m**)
+  - Personnel **EUR8.98m** / toelagen **EUR1.05m FOI** (police **EUR0.471m** / fire **EUR0.187m** / IGS **EUR0.099m** / eredienst **EUR0.109m** / other **EUR0.185m** / AGB **EUR0**)
+  - Invest **EUR2.30m** vs MJP **EUR3.05m underspend FOI** / **OCMW cover EUR0 FOI** (self-absorbed) / meerwaarden **EUR0.522m FOI** / **WZC interim EUR0.144m JUMP FOI** / MJP2026 debt **EUR6.72m** +loans **EUR3.01m FOI**
+- Dual: Middelkerke fin debt **EUR84.01m HIGH** / OCMW cover **EUR2.77m** (tick995) - not TE-additive
+- Note: Torhout still news-only; Meulebeke no full JR2025 PDF this tick; AGB De Panne image-only skip; Oudenburg/Blankenberge candidates next
+- Wrote: budgets +46 (bud_alv_*); commitments +5; leaderboard +7; sources +1; entity city_alveringem; FOI **gap_alv_ocmw_toelagen_wzc_mjp_debt_l5** prio8 ready + draft; key only (PDF ~5.5MB not stored in git); rq_996=done; spawn **rq_997**; ticks=996
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_997** residual dual L5 (Torhout / Meulebeke / Oudenburg / Blankenberge / AGB De Panne / other); deferred **rq_116**; progress@1000 in 4

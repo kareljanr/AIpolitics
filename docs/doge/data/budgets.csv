@@ -23491,3 +23491,49 @@ bud_mid_belfius_repay_ge_2025,city_middelkerke,2025,2120162,,,realized,src_midde
 bud_mid_ocmw_lease_open_2025,city_middelkerke,2025,3811721,,,realized,src_middelkerke_jr2025,strong,OCMW Belfius lease residual 3.81m (Stille Meers etc); tick995
 bud_mid_golazo_ekcx_2025,city_middelkerke,2025,250000,,,realized,src_middelkerke_jr2025,strong,Golazo Sports NV EK Cyclocross 2025 toelage 0.25m; tick995
 bud_mid_boic_winter_2025,city_middelkerke,2025,150000,,,realized,src_middelkerke_jr2025,strong,BOIC Olympisch Winterfestival 2026 schijven 0.15m; tick995
+bud_alv_assets_2025,city_alveringem,2025,61420057,,,realized,src_alveringem_jr2025,strong,Assets YE2025 61.42m (was 61.75m); tick996
+bud_alv_equity_2025,city_alveringem,2025,54086977,,,realized,src_alveringem_jr2025,strong,Nettoactief YE2025 54.09m (was 52.62m); tick996
+bud_alv_debt_total_2025,city_alveringem,2025,7333081,,,realized,src_alveringem_jr2025,strong,Total schulden YE2025 7.33m (was 9.13m); tick996
+bud_alv_fin_debt_2025,city_alveringem,2025,4417322,,,realized,src_alveringem_jr2025,strong,Fin debt total YE2025 4.42m DECLINING (was 5.06m); tick996
+bud_alv_fin_debt_lt_2025,city_alveringem,2025,3823537,,,realized,src_alveringem_jr2025,strong,Fin debt LT YE2025 3.82m; tick996
+bud_alv_fin_debt_st_due_2025,city_alveringem,2025,593784,,,realized,src_alveringem_jr2025,strong,Fin debt ST due YE2025 0.594m; tick996
+bud_alv_new_loans_2025,city_alveringem,2025,6984,,,realized,src_alveringem_jr2025,strong,Nieuwe leningen 2025 6.984k nominal; tick996
+bud_alv_aflossingen_2025,city_alveringem,2025,645611,,,realized,src_alveringem_jr2025,strong,Periodieke aflossingen 2025 0.646m; tick996
+bud_alv_cash_2025,city_alveringem,2025,10738814,,,realized,src_alveringem_jr2025,strong,Liquide middelen YE2025 10.74m JUMP (was 9.75m); tick996
+bud_alv_pension_2025,city_alveringem,2025,1410000,,,realized,src_alveringem_jr2025,strong,Pensioenvoorzieningen LT YE2025 1.41m slight drop (was 1.48m); tick996
+bud_alv_cap_subs_2025,city_alveringem,2025,12569583,,,realized,src_alveringem_jr2025,strong,Kapitaalsubsidies YE2025 12.57m; tick996
+bud_alv_fva_total_2025,city_alveringem,2025,3874842,,,realized,src_alveringem_jr2025,strong,FVA total YE2025 3.87m; tick996
+bud_alv_fva_igs_2025,city_alveringem,2025,3502106,,,realized,src_alveringem_jr2025,strong,FVA IGS YE2025 3.50m (was 3.42m); tick996
+bud_alv_leasing_mva_2025,city_alveringem,2025,619219,,,realized,src_alveringem_jr2025,strong,Leasing MVA gemeenschapsgoederen YE2025 0.619m; tick996
+bud_alv_expl_rec_2025,city_alveringem,2025,17001865,,,realized,src_alveringem_jr2025,strong,Exploitatieontvangsten 17.00m; tick996
+bud_alv_expl_exp_2025,city_alveringem,2025,14395921,,,realized,src_alveringem_jr2025,strong,Exploitatieuitgaven 14.40m; tick996
+bud_alv_expl_saldo_2025,city_alveringem,2025,2605944,,,realized,src_alveringem_jr2025,strong,Exploitatiesaldo +2.61m STRONG; tick996
+bud_alv_invest_exp_2025,city_alveringem,2025,2304517,,,realized,src_alveringem_jr2025,strong,Investeringsuitgaven 2.30m vs MJP 3.05m underspend; tick996
+bud_alv_invest_rec_2025,city_alveringem,2025,1712863,,,realized,src_alveringem_jr2025,strong,Investeringsontvangsten 1.71m; tick996
+bud_alv_invest_saldo_2025,city_alveringem,2025,-591654,,,realized,src_alveringem_jr2025,strong,Investeringssaldo -0.592m; tick996
+bud_alv_mjp_invest_exp_2025,city_alveringem,2025,3049507,,,realized,src_alveringem_jr2025,strong,MJP invest uitgaven 3.05m; tick996
+bud_alv_afm_2025,city_alveringem,2025,2326331,,,realized,src_alveringem_jr2025,strong,AFM +2.33m STRONG (MJP 0.383m); tick996
+bud_alv_afm_corr_2025,city_alveringem,2025,2567466,,,realized,src_alveringem_jr2025,strong,Gecorrigeerde AFM +2.57m; tick996
+bud_alv_bbr_2025,city_alveringem,2025,11028811,,,realized,src_alveringem_jr2025,strong,Beschikbaar BBR 11.03m HIGH; tick996
+bud_alv_bbr_cum_2025,city_alveringem,2025,11029910,,,realized,src_alveringem_jr2025,strong,Gecumuleerd budgettair resultaat 11.03m; tick996
+bud_alv_budget_result_2025,city_alveringem,2025,1375662,,,realized,src_alveringem_jr2025,strong,Budgettair resultaat boekjaar +1.38m; tick996
+bud_alv_pnl_result_2025,city_alveringem,2025,1922691,,,realized,src_alveringem_jr2025,strong,P&L +1.92m STRONG (was -0.62m); tick996
+bud_alv_pnl_ge_2025,city_alveringem,2025,2110791,,,realized,src_alveringem_jr2025,strong,GE P&L +2.11m; tick996
+bud_alv_pnl_ocmw_2025,city_alveringem,2025,-188101,,,realized,src_alveringem_jr2025,strong,OCMW P&L -0.188m self-absorbed cover 0; tick996
+bud_alv_ocmw_cover_2025,city_alveringem,2025,0,,,realized,src_alveringem_jr2025,strong,OCMW cover tussenkomst 0 (T5); OCMW cum equity still positive 0.792m; tick996
+bud_alv_personnel_2025,city_alveringem,2025,8978345,,,realized,src_alveringem_jr2025,strong,Bezoldigingen 8.98m (incl onderwijs other-gov 0.869m); tick996
+bud_alv_toelagen_2025,city_alveringem,2025,1050446,,,realized,src_alveringem_jr2025,strong,Toegestane werkingssubsidies 1.05m; tick996
+bud_alv_toelagen_police_2025,city_alveringem,2025,471089,,,realized,src_alveringem_jr2025,strong,Toelage politiezone 0.471m; tick996
+bud_alv_toelagen_fire_2025,city_alveringem,2025,186994,,,realized,src_alveringem_jr2025,strong,Toelage hulpverleningszone 0.187m; tick996
+bud_alv_toelagen_igs_2025,city_alveringem,2025,98524,,,realized,src_alveringem_jr2025,strong,Toelage IGS 0.099m; tick996
+bud_alv_toelagen_eredienst_2025,city_alveringem,2025,108750,,,realized,src_alveringem_jr2025,strong,Toelage eredienst 0.109m; tick996
+bud_alv_toelagen_other_2025,city_alveringem,2025,185089,,,realized,src_alveringem_jr2025,strong,Toelage andere begunstigden 0.185m; tick996
+bud_alv_ocmw_aid_2025,city_alveringem,2025,330656,,,realized,src_alveringem_jr2025,strong,OCMW individuele hulp 0.331m; tick996
+bud_alv_fiscal_2025,city_alveringem,2025,5124724,,,realized,src_alveringem_jr2025,strong,Fiscale opbrengsten 5.12m; tick996
+bud_alv_gemeentefonds_2025,city_alveringem,2025,2938636,,,realized,src_alveringem_jr2025,strong,Gemeentefonds 2.94m; tick996
+bud_alv_fin_opbr_2025,city_alveringem,2025,935367,,,realized,src_alveringem_jr2025,strong,Financiele opbrengsten 0.935m; tick996
+bud_alv_meerwaarden_2025,city_alveringem,2025,521580,,,realized,src_alveringem_jr2025,strong,Meerwaarden realisatie VA 0.522m (sociale woningen sales FOI); tick996
+bud_alv_wzc_interim_2025,city_alveringem,2025,143783,,,realized,src_alveringem_jr2025,strong,WZC t Hoge interimarbeid 0.144m JUMP FOI; tick996
+bud_alv_mjp_debt_2026,city_alveringem,2025,6717750,,,realized,src_alveringem_jr2025,strong,MJP planned fin debt YE2026 6.72m JUMP new loans 3.01m FOI; tick996
+bud_alv_mjp_new_loans_2026,city_alveringem,2025,3006052,,,realized,src_alveringem_jr2025,strong,MJP planned new loans 2026 3.01m FOI; tick996
+bud_alv_invest_carryover_2025,city_alveringem,2025,1061775,,,realized,src_alveringem_jr2025,strong,Netto overdracht invest kredieten 1.06m; tick996
