@@ -24226,3 +24226,60 @@ bud_wet_ge_expl_exp_2025,city_wetteren,2025,36824384,,,bbc_jr_realized,src_wette
 bud_wet_ocmw_expl_exp_2025,city_wetteren,2025,26573351,,,bbc_jr_realized,src_wetteren_jr2025,strong,OCMW exploitatieuitgaven J3 26.57m FOI; tick1011
 bud_wet_ocmw_expl_rec_2025,city_wetteren,2025,20504520,,,bbc_jr_realized,src_wetteren_jr2025,strong,OCMW exploitatieontvangsten J3 20.50m; tick1011
 bud_wet_ocmw_expl_saldo_2025,city_wetteren,2025,-6148885,,,bbc_jr_realized,src_wetteren_jr2025,strong,OCMW exploitatiesaldo -6.15m FOI residual; tick1011
+bud_wic_assets_2025,city_wichelen,2025,61857782,,,bbc_jr_realized,src_wichelen_jr2025,strong,Assets YE2025 61.86m (was 60.55m); tick1012
+bud_wic_equity_2025,city_wichelen,2025,37014473,,,bbc_jr_realized,src_wichelen_jr2025,strong,Nettoactief YE2025 37.01m DROP (was 39.39m); tick1012
+bud_wic_debt_total_2025,city_wichelen,2025,24843309,,,bbc_jr_realized,src_wichelen_jr2025,strong,Total schulden YE2025 24.84m JUMP (was 21.16m); tick1012
+bud_wic_fin_debt_2025,city_wichelen,2025,15416524,,,bbc_jr_realized,src_wichelen_jr2025,strong,Fin debt total YE2025 15.42m RISING (was 14.14m T4 FOI); tick1012
+bud_wic_fin_debt_lt_2025,city_wichelen,2025,14121072,,,bbc_jr_realized,src_wichelen_jr2025,strong,Fin debt LT YE2025 14.12m RISING; tick1012
+bud_wic_fin_debt_st_due_2025,city_wichelen,2025,1295452,,,bbc_jr_realized,src_wichelen_jr2025,strong,Fin debt ST due YE2025 1.30m; tick1012
+bud_wic_new_loans_2025,city_wichelen,2025,2462486,,,bbc_jr_realized,src_wichelen_jr2025,strong,Nieuwe leningen 2025 2.46m JUMP FOI (Belfius bank 2.00m + Fluvius lease 0.462m); tick1012
+bud_wic_new_loans_bank_2025,city_wichelen,2025,2000000,,,bbc_jr_realized,src_wichelen_jr2025,strong,Belfius banklening 2.00m 2025 FOI residual; tick1012
+bud_wic_new_loans_fluvius_2025,city_wichelen,2025,462486,,,bbc_jr_realized,src_wichelen_jr2025,strong,Fluvius lease Licht als dienst 0.462m 2025 FOI; tick1012
+bud_wic_aflossingen_2025,city_wichelen,2025,1188573,,,bbc_jr_realized,src_wichelen_jr2025,strong,Periodieke aflossingen 2025 1.19m; tick1012
+bud_wic_cash_2025,city_wichelen,2025,2583013,,,bbc_jr_realized,src_wichelen_jr2025,strong,Liquide middelen YE2025 2.58m JUMP (was 1.55m); tick1012
+bud_wic_pension_2025,city_wichelen,2025,5653035,,,bbc_jr_realized,src_wichelen_jr2025,strong,Pensioenvoorzieningen LT YE2025 5.65m JUMP (was 3.41m FOI); tick1012
+bud_wic_cap_subs_2025,city_wichelen,2025,7547337,,,bbc_jr_realized,src_wichelen_jr2025,strong,Kapitaalsubsidies YE2025 7.55m; tick1012
+bud_wic_fva_total_2025,city_wichelen,2025,9759726,,,bbc_jr_realized,src_wichelen_jr2025,strong,FVA total YE2025 9.76m; tick1012
+bud_wic_fva_igs_2025,city_wichelen,2025,9597919,,,bbc_jr_realized,src_wichelen_jr2025,strong,FVA IGS YE2025 9.60m; tick1012
+bud_wic_fva_ocmw_assoc_2025,city_wichelen,2025,6000,,,bbc_jr_realized,src_wichelen_jr2025,strong,FVA OCMW-verenigingen YE2025 0.006m; tick1012
+bud_wic_fva_other_2025,city_wichelen,2025,155807,,,bbc_jr_realized,src_wichelen_jr2025,strong,Andere FVA YE2025 0.156m; tick1012
+bud_wic_leasing_mva_2025,city_wichelen,2025,5094588,,,bbc_jr_realized,src_wichelen_jr2025,strong,Leasing MVA total YE2025 5.09m (gemeenschap 4.46 + bedrijfs 0.63 WZC FOI); tick1012
+bud_wic_expl_rec_2025,city_wichelen,2025,30622909,,,bbc_jr_realized,src_wichelen_jr2025,strong,Exploitatieontvangsten 30.62m; tick1012
+bud_wic_expl_exp_2025,city_wichelen,2025,29134824,,,bbc_jr_realized,src_wichelen_jr2025,strong,Exploitatieuitgaven 29.13m; tick1012
+bud_wic_expl_saldo_2025,city_wichelen,2025,1488085,,,bbc_jr_realized,src_wichelen_jr2025,strong,Exploitatiesaldo +1.49m; tick1012
+bud_wic_invest_exp_2025,city_wichelen,2025,3043101,,,bbc_jr_realized,src_wichelen_jr2025,strong,Investeringsuitgaven 3.04m vs MJP 3.40m; tick1012
+bud_wic_invest_rec_2025,city_wichelen,2025,1451833,,,bbc_jr_realized,src_wichelen_jr2025,strong,Investeringsontvangsten 1.45m (MVA sale 1.12m FOI); tick1012
+bud_wic_invest_saldo_2025,city_wichelen,2025,-1591268,,,bbc_jr_realized,src_wichelen_jr2025,strong,Investeringssaldo -1.59m; tick1012
+bud_wic_mjp_invest_planned_2025,city_wichelen,2025,3395243,,,bbc_jr_realized,src_wichelen_jr2025,strong,MJP invest planned 3.40m vs realized 3.04m; tick1012
+bud_wic_afm_2025,city_wichelen,2025,351179,,,bbc_jr_realized,src_wichelen_jr2025,strong,AFM +0.351m THIN FOI residual; tick1012
+bud_wic_afm_corr_2025,city_wichelen,2025,408343,,,bbc_jr_realized,src_wichelen_jr2025,strong,Gecorrigeerde AFM +0.408m; tick1012
+bud_wic_bbr_2025,city_wichelen,2025,3215664,,,bbc_jr_realized,src_wichelen_jr2025,strong,BBR beschikbaar 3.22m; tick1012
+bud_wic_budget_result_2025,city_wichelen,2025,1222397,,,bbc_jr_realized,src_wichelen_jr2025,strong,Budgettair resultaat +1.22m STRONG; tick1012
+bud_wic_cum_br_2025,city_wichelen,2025,3402331,,,bbc_jr_realized,src_wichelen_jr2025,strong,Gecumuleerd budgettair resultaat 3.40m; tick1012
+bud_wic_pnl_2025,city_wichelen,2025,-2121457,,,bbc_jr_realized,src_wichelen_jr2025,strong,P&L -2.12m FOI residual; tick1012
+bud_wic_pnl_ge_2025,city_wichelen,2025,1133183,,,bbc_jr_realized,src_wichelen_jr2025,strong,GE P&L +1.13m; tick1012
+bud_wic_pnl_ocmw_2025,city_wichelen,2025,-3254640,,,bbc_jr_realized,src_wichelen_jr2025,strong,OCMW P&L -3.25m FOI; tick1012
+bud_wic_ocmw_cover_2025,city_wichelen,2025,2619734,,,bbc_jr_realized,src_wichelen_jr2025,strong,OCMW cover 2.62m FULL-ish FOI residual vs OCMW -3.25m; tick1012
+bud_wic_ocmw_cum_deficit_2025,city_wichelen,2025,-1085759,,,bbc_jr_realized,src_wichelen_jr2025,strong,OCMW cum tekort YE2025 -1.09m WORSENING (was -0.451m after cover); tick1012
+bud_wic_personnel_2025,city_wichelen,2025,18716909,,,bbc_jr_realized,src_wichelen_jr2025,strong,Bezoldigingen 18.72m; tick1012
+bud_wic_toelagen_2025,city_wichelen,2025,1987502,,,bbc_jr_realized,src_wichelen_jr2025,strong,Toegestane werkingssubsidies 1.99m DROP (was 2.28m FOI); tick1012
+bud_wic_toelagen_police_2025,city_wichelen,2025,1345058,,,bbc_jr_realized,src_wichelen_jr2025,strong,Toelage politiezone 1.35m; tick1012
+bud_wic_toelagen_fire_2025,city_wichelen,2025,269153,,,bbc_jr_realized,src_wichelen_jr2025,strong,Toelage hulpverleningszone 0.269m DROP (was 0.522m FOI); tick1012
+bud_wic_toelagen_igs_2025,city_wichelen,2025,12441,,,bbc_jr_realized,src_wichelen_jr2025,strong,Toelage IGS 0.012m; tick1012
+bud_wic_toelagen_eredienst_2025,city_wichelen,2025,40200,,,bbc_jr_realized,src_wichelen_jr2025,strong,Toelage eredienst 0.040m DROP; tick1012
+bud_wic_toelagen_welzijn_2025,city_wichelen,2025,26500,,,bbc_jr_realized,src_wichelen_jr2025,strong,Toelage welzijnsverenigingen 0.027m; tick1012
+bud_wic_toelagen_other_2025,city_wichelen,2025,294150,,,bbc_jr_realized,src_wichelen_jr2025,strong,Toelage andere begunstigden 0.294m FOI; tick1012
+bud_wic_ocmw_aid_2025,city_wichelen,2025,928253,,,bbc_jr_realized,src_wichelen_jr2025,strong,OCMW individuele hulp 0.928m; tick1012
+bud_wic_fiscal_2025,city_wichelen,2025,10921327,,,bbc_jr_realized,src_wichelen_jr2025,strong,Fiscale opbrengsten 10.92m; tick1012
+bud_wic_fiscal_ov_2025,city_wichelen,2025,3814894,,,bbc_jr_realized,src_wichelen_jr2025,strong,Opcentiemen OV 3.81m; tick1012
+bud_wic_fiscal_pb_2025,city_wichelen,2025,5712707,,,bbc_jr_realized,src_wichelen_jr2025,strong,Aanvullende PB 5.71m JUMP (was 4.92m); tick1012
+bud_wic_gemeentefonds_2025,city_wichelen,2025,3216578,,,bbc_jr_realized,src_wichelen_jr2025,strong,Gemeentefonds 3.22m; tick1012
+bud_wic_fin_opbr_2025,city_wichelen,2025,791043,,,bbc_jr_realized,src_wichelen_jr2025,strong,Financiele opbrengsten J5 0.791m; tick1012
+bud_wic_fin_costs_2025,city_wichelen,2025,448250,,,bbc_jr_realized,src_wichelen_jr2025,strong,Financiele kosten 0.448m; tick1012
+bud_wic_invest_subs_granted_2025,city_wichelen,2025,658870,,,bbc_jr_realized,src_wichelen_jr2025,strong,Toegestane investeringssubsidies 0.659m (HVZ 0.571 FOI); tick1012
+bud_wic_cum_equity_deficit_2025,city_wichelen,2025,-2081731,,,bbc_jr_realized,src_wichelen_jr2025,strong,Gecumuleerd equity deficit YE2025 -2.08m JUMP (was +0.040m FOI pension path); tick1012
+bud_wic_mva_sale_2025,city_wichelen,2025,1116091,,,bbc_jr_realized,src_wichelen_jr2025,strong,Verkoop MVA terreinen/gebouwen 1.12m 2025 FOI residual; tick1012
+bud_wic_ge_expl_exp_2025,city_wichelen,2025,16586460,,,bbc_jr_realized,src_wichelen_jr2025,strong,GE exploitatieuitgaven J3 16.59m; tick1012
+bud_wic_ocmw_expl_exp_2025,city_wichelen,2025,12548364,,,bbc_jr_realized,src_wichelen_jr2025,strong,OCMW exploitatieuitgaven J3 12.55m FOI; tick1012
+bud_wic_ocmw_expl_rec_2025,city_wichelen,2025,10320650,,,bbc_jr_realized,src_wichelen_jr2025,strong,OCMW exploitatieontvangsten J3 10.32m; tick1012
+bud_wic_ocmw_expl_saldo_2025,city_wichelen,2025,-2227714,,,bbc_jr_realized,src_wichelen_jr2025,strong,OCMW exploitatiesaldo -2.23m FOI residual; tick1012
