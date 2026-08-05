@@ -19413,3 +19413,43 @@ bud_sch_new_loans_2025,city_schilde,2025,585255,,,jaarrekening_realized,src_schi
 bud_sch_mjp_fin_debt_2026,city_schilde,2025,24600552,,,jaarrekening_realized,src_schilde_jr2025,strong,MJP fin debt path YE2026 24.601m FOI; tick893
 bud_sch_mjp_fin_debt_2028,city_schilde,2025,44843381,,,jaarrekening_realized,src_schilde_jr2025,strong,MJP fin debt path YE2028 44.843m FOI; tick893
 bud_sch_mjp_new_loans_2026,city_schilde,2025,14269045,,,jaarrekening_realized,src_schilde_jr2025,strong,MJP new loans 2026 14.269m FOI; tick893
+bud_wwz_assets_2025,city_wuustwezel,2025,116626319,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Consol total assets YE2025 116.626m; tick894
+bud_wwz_equity_2025,city_wuustwezel,2025,86038391,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Nettoactief YE2025 86.038m; tick894
+bud_wwz_debt_total_2025,city_wuustwezel,2025,30587928,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Schulden total YE2025 30.588m; tick894
+bud_wwz_fin_debt_2025,city_wuustwezel,2025,9597884,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Fin schulden total YE2025 9.598m (LT 8.723 + ST due 0.875) was 10.146m; tick894
+bud_wwz_fin_debt_lt_2025,city_wuustwezel,2025,8723318,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Fin schulden LT YE2025 8.723m; tick894
+bud_wwz_fin_debt_st_2025,city_wuustwezel,2025,874566,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Fin schulden LT binnen jaar YE2025 0.875m; tick894
+bud_wwz_pension_prov_2025,city_wuustwezel,2025,14652000,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Pensioenvoorzieningen YE2025 14.652m (was 10.999m JUMP FOI); tick894
+bud_wwz_cash_2025,city_wuustwezel,2025,10704118,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Liquide middelen YE2025 10.704m (was 11.420m); tick894
+bud_wwz_cap_subs_2025,city_wuustwezel,2025,13467309,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Kapitaalsubsidies YE2025 13.467m; tick894
+bud_wwz_fva_igs_2025,city_wuustwezel,2025,14209892,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Fin VA IGS YE2025 14.210m; tick894
+bud_wwz_fva_total_2025,city_wuustwezel,2025,14341614,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Fin VA total YE2025 14.342m; tick894
+bud_wwz_cumul_budget_2025,city_wuustwezel,2025,10722054,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Gecumuleerd budgettair resultaat YE2025 10.722m; tick894
+bud_wwz_bbr_2025,city_wuustwezel,2025,10722054,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Beschikbaar budgettair resultaat YE2025 10.722m; tick894
+bud_wwz_expl_rec_2025,city_wuustwezel,2025,41969712,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Exploitatieontvangsten 41.970m 2025 (J2); tick894
+bud_wwz_expl_exp_2025,city_wuustwezel,2025,36280325,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Exploitatieuitgaven 36.280m 2025 (J2); tick894
+bud_wwz_expl_saldo_2025,city_wuustwezel,2025,5689387,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Exploitatiesaldo +5.689m 2025; tick894
+bud_wwz_invest_exp_2025,city_wuustwezel,2025,4846897,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Investeringsuitgaven 4.847m 2025; tick894
+bud_wwz_invest_rec_2025,city_wuustwezel,2025,1341745,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Investeringsontvangsten 1.342m 2025; tick894
+bud_wwz_invest_saldo_2025,city_wuustwezel,2025,-3505152,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Investeringssaldo -3.505m 2025; tick894
+bud_wwz_fin_saldo_2025,city_wuustwezel,2025,-1720066,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Financieringssaldo -1.720m 2025; tick894
+bud_wwz_budget_result_2025,city_wuustwezel,2025,464169,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Budgettair resultaat boekjaar +0.464m 2025; tick894
+bud_wwz_afm_2025,city_wuustwezel,2025,4723316,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Autofinancieringsmarge +4.723m 2025; tick894
+bud_wwz_afm_gecorr_2025,city_wuustwezel,2025,4960570,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Gecorrigeerde AFM +4.961m 2025; tick894
+bud_wwz_pl_2025,city_wuustwezel,2025,-2666516,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,P&L tekort -2.667m 2025 (pension reval path); tick894
+bud_wwz_personnel_2025,city_wuustwezel,2025,19374786,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Bezoldigingen 19.375m 2025 (incl onderwijs other ~4.396m); tick894
+bud_wwz_personnel_onderwijs_other_2025,city_wuustwezel,2025,4395787,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Onderwijzend personeel ten laste van andere ~4.396m 2025; tick894
+bud_wwz_toelagen_2025,city_wuustwezel,2025,6871236,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Toegestane werkingssubsidies 6.871m 2025; tick894
+bud_wwz_toelagen_police_2025,city_wuustwezel,2025,3086241,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Toelage politiezone 3.086m 2025; tick894
+bud_wwz_toelagen_fire_2025,city_wuustwezel,2025,775731,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Toelage hulpverleningszone 0.776m 2025; tick894
+bud_wwz_toelagen_other_2025,city_wuustwezel,2025,3006189,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Toelagen andere begunstigden 3.006m 2025 FOI; tick894
+bud_wwz_ocmw_aid_2025,city_wuustwezel,2025,2618096,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Individuele hulpverlening OCMW 2.618m 2025; tick894
+bud_wwz_fiscal_2025,city_wuustwezel,2025,17259906,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Fiscale opbrengsten en boetes 17.260m 2025; tick894
+bud_wwz_fiscal_ov_2025,city_wuustwezel,2025,7435259,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Opcentiemen OV 7.435m 2025; tick894
+bud_wwz_fiscal_apb_2025,city_wuustwezel,2025,8718544,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Aanvullende PB 8.719m 2025; tick894
+bud_wwz_gemeentefonds_2025,city_wuustwezel,2025,6682818,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Gemeentefonds 6.683m 2025; tick894
+bud_wwz_invest_subs_granted_2025,city_wuustwezel,2025,987994,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Toegestane investeringssubsidies 0.988m 2025; tick894
+bud_wwz_invest_subs_eredienst_2025,city_wuustwezel,2025,456778,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Invest-subs eredienst 0.457m 2025; tick894
+bud_wwz_invest_subs_other_2025,city_wuustwezel,2025,209758,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Invest-subs andere 0.210m 2025 FOI; tick894
+bud_wwz_new_loans_2025,city_wuustwezel,2025,500796,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Nieuwe leningen/leasings 0.501m 2025; tick894
+bud_wwz_pension_jump_2025,city_wuustwezel,2025,3653253,,,jaarrekening_realized,src_wuustwezel_jr2025,strong,Pension provision jump +3.653m (10.999 to 14.652) FOI; tick894

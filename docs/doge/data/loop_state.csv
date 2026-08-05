@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-06T19:30:00Z,rq_893,893,no,tick893 Schilde JR2025 dual Hove; FOI gap_sch_mjp_debt_invest_toelagen_l5 prio8 MJP debt ramp 44.8m; next rq_894 residual dual L5; progress@900 in 7; rq_116 deferred
+main,continuous,hole_fill,2026-08-06T20:00:00Z,rq_894,894,no,tick894 Wuustwezel JR2025 dual Schilde; FOI gap_wwz_pension_toelagen_l5 prio8 pension jump +3.65m other toelagen 3.0m; next rq_895 residual dual L5; progress@900 in 6; rq_116 deferred
