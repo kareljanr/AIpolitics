@@ -28122,3 +28122,49 @@ bud_gla_fin_exp_2025,city_glabbeek,2025,395348,,,bbc_jr_realized,src_glabbeek_jr
 bud_gla_vorderingen_st_2025,city_glabbeek,2025,2731955,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Vorderingen KT 2.732m; tick1086
 bud_gla_onbeschikbaar_2025,city_glabbeek,2025,751192,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Onbeschikbare gelden 0.751m; tick1086
 bud_gla_financieringssaldo_2025,city_glabbeek,2025,1388195,,,bbc_jr_realized,src_glabbeek_jr2025,strong,Financieringssaldo +1.388m (new loans heavy); tick1086
+bud_hoe_assets_2025,city_hoegaarden,2025,60744195,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Assets YE2025 60.744m MASSIVE DROP FOI (was 79.185m); tick1087
+bud_hoe_equity_2025,city_hoegaarden,2025,40987357,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Nettoactief YE2025 40.987m JUMP (was 35.813m); tick1087
+bud_hoe_debt_total_2025,city_hoegaarden,2025,19756839,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Total schulden YE2025 19.757m MASSIVE DROP FOI (was 43.371m); tick1087
+bud_hoe_fin_debt_2025,city_hoegaarden,2025,11187453,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Fin debt total YE2025 11.187m DECLINE (was 12.047m); tick1087
+bud_hoe_fin_debt_lt_2025,city_hoegaarden,2025,10242030,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Fin debt LT YE2025 10.242m DECLINE (was 11.081m); tick1087
+bud_hoe_fin_debt_st_due_2025,city_hoegaarden,2025,945423,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Fin debt ST due YE2025 0.945m; tick1087
+bud_hoe_new_loans_2025,city_hoegaarden,2025,109449,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Nieuwe leningen 2025 0.109m LOW leasing; tick1087
+bud_hoe_aflossingen_2025,city_hoegaarden,2025,969305,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Periodieke aflossingen 2025 0.969m; tick1087
+bud_hoe_cash_2025,city_hoegaarden,2025,5147461,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Liquide middelen YE2025 5.147m JUMP (was 3.373m); tick1087
+bud_hoe_pension_2025,city_hoegaarden,2025,6102787,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Pensioenvoorzieningen LT YE2025 6.103m DROP FOI (was 7.155m); tick1087
+bud_hoe_cap_subs_2025,city_hoegaarden,2025,8865757,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Kapitaalsubsidies YE2025 8.866m; tick1087
+bud_hoe_fva_total_2025,city_hoegaarden,2025,9043424,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,FVA total YE2025 9.043m; tick1087
+bud_hoe_fva_igs_2025,city_hoegaarden,2025,7948084,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,FVA IGS YE2025 7.948m; tick1087
+bud_hoe_leasing_mva_2025,city_hoegaarden,2025,6826269,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Leasing MVA gemeenschap+bedrijf YE2025 6.826m; tick1087
+bud_hoe_vord_kt_2025,city_hoegaarden,2025,3443299,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Vorderingen KT YE2025 3.443m MASSIVE DROP FOI (was 24.071m); tick1087
+bud_hoe_st_nonruil_debt_2025,city_hoegaarden,2025,122998,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,ST non-ruil schulden YE2025 0.123m MASSIVE DROP FOI (was 21.313m); tick1087
+bud_hoe_expl_rec_2025,city_hoegaarden,2025,21560058,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Exploitatieontvangsten 21.560m; tick1087
+bud_hoe_expl_exp_2025,city_hoegaarden,2025,16234683,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Exploitatieuitgaven 16.235m; tick1087
+bud_hoe_expl_saldo_2025,city_hoegaarden,2025,5325376,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Exploitatiesaldo +5.325m VERY STRONG; tick1087
+bud_hoe_invest_exp_2025,city_hoegaarden,2025,2155980,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Investeringsuitgaven 2.156m vs MJP 6.379m UNDERSPEND FOI; tick1087
+bud_hoe_invest_rec_2025,city_hoegaarden,2025,561186,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Investeringsontvangsten 0.561m; tick1087
+bud_hoe_invest_saldo_2025,city_hoegaarden,2025,-1594794,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Investeringssaldo -1.595m FOI; tick1087
+bud_hoe_mjp_invest_planned_2025,city_hoegaarden,2025,6378690,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,MJP invest planned 6.379m vs realized 2.156m UNDERSPEND FOI; tick1087
+bud_hoe_afm_2025,city_hoegaarden,2025,4369821,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,AFM +4.370m VERY STRONG; tick1087
+bud_hoe_afm_corrected_2025,city_hoegaarden,2025,4375341,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Gecorrigeerde AFM +4.375m VERY STRONG; tick1087
+bud_hoe_bbr_2025,city_hoegaarden,2025,6926526,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Beschikbaar budgettair resultaat 6.927m HIGH; tick1087
+bud_hoe_budget_result_2025,city_hoegaarden,2025,2884476,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Budgettair resultaat boekjaar +2.884m VERY STRONG (MJP -1.169); tick1087
+bud_hoe_cum_budget_2025,city_hoegaarden,2025,6932642,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Gecumuleerd budgettair resultaat 6.933m; tick1087
+bud_hoe_pnl_2025,city_hoegaarden,2025,5268618,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,P&L overschot +5.269m MASSIVE FLIP FOI (was -3.096m); tick1087
+bud_hoe_personnel_2025,city_hoegaarden,2025,10112555,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Bezoldigingen 10.113m; tick1087
+bud_hoe_goods_services_2025,city_hoegaarden,2025,3539529,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Goederen en diensten 3.540m; tick1087
+bud_hoe_toelagen_2025,city_hoegaarden,2025,1440418,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Toegestane werkingssubsidies 1.440m FOI; tick1087
+bud_hoe_police_toelage_2025,city_hoegaarden,2025,750005,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Politiezone toelage 0.750m JUMP FOI; tick1087
+bud_hoe_fire_toelage_2025,city_hoegaarden,2025,426704,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,HVZ toelage 0.427m JUMP; tick1087
+bud_hoe_other_toelagen_2025,city_hoegaarden,2025,214497,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Andere toelagen 0.214m; tick1087
+bud_hoe_other_opbr_2025,city_hoegaarden,2025,2702986,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Andere operationele opbrengsten 2.703m MASSIVE JUMP FOI (was 0.134m); tick1087
+bud_hoe_fiscal_rec_2025,city_hoegaarden,2025,7224358,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Fiscale ontvangsten 7.224m; tick1087
+bud_hoe_werkingssubsidies_rec_2025,city_hoegaarden,2025,7552008,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Werkingssubsidies ontvangsten 7.552m; tick1087
+bud_hoe_ocmw_cover_2025,city_hoegaarden,2025,0,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,OCMW tussenkomst residual 0 ZERO FOI; tick1087
+bud_hoe_ocmw_expl_exp_2025,city_hoegaarden,2025,6800007,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,OCMW expl uitgaven 6.800m J3; tick1087
+bud_hoe_ocmw_expl_rec_2025,city_hoegaarden,2025,5558378,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,OCMW expl ontvangsten 5.558m J3; tick1087
+bud_hoe_ocmw_expl_gap_2025,city_hoegaarden,2025,-1241629,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,OCMW expl gap -1.242m cover 0 FOI; tick1087
+bud_hoe_ocmw_hulp_2025,city_hoegaarden,2025,747861,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,OCMW individuele hulpverlening 0.748m JUMP; tick1087
+bud_hoe_fin_exp_2025,city_hoegaarden,2025,245612,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Financiële uitgaven 0.246m; tick1087
+bud_hoe_herwaard_2025,city_hoegaarden,2025,1829685,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Herwaarderingsreserves YE2025 1.830m; tick1087
+bud_hoe_financieringssaldo_2025,city_hoegaarden,2025,-846105,,,bbc_jr_realized,src_hoegaarden_jr2025,strong,Financieringssaldo -0.846m (aflossingen>new loans); tick1087

@@ -14664,3 +14664,24 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +48 (bud_gla_*); commitments +7; leaderboard +8; sources +1; entity city_glabbeek; FOI **gap_gla_st_debt_fva_agb_loans_l5** prio9 ready + draft; PDF primary (not committed); rq_1086=done; spawn **rq_1087**; ticks=1086
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1087** residual dual L5; deferred **rq_116**; progress@1090 in 3
+
+
+### Tick 1087 - 2026-08-11T09:00:00Z
+
+- Unit: **rq_1087** (FOI-adjacent residual dual - **Lokaal Bestuur Hoegaarden Jaarrekening 2025** + Glabbeek dual residual)
+- Found (strong primary BBC JR2025 PDF; 253p; GR+RMW 29.06.2026; cipal + lokaalbestuurhoegaarden.be; KBO GE 0207.519.424 / OCMW 0212.219.370; Gemeenteplein 1 3320; AD Bart Hendrix FD Pieter Hendrix; GE+OCMW):
+  - Assets **EUR60.744m MASSIVE DROP FOI** (was **EUR79.185m**) / equity **EUR40.987m JUMP** / debt total **EUR19.76m MASSIVE DROP FOI** (was **EUR43.37m**) / fin debt **EUR11.187m DECLINE** (LT **EUR10.242m** / ST due **EUR0.945m**)
+  - New loans **EUR0.109m LOW** leasing / repayments **EUR0.969m**
+  - Cash **EUR5.147m JUMP** / pension **EUR6.103m DROP FOI** (was **EUR7.155m**) / FVA IGS **EUR7.948m** / leasing MVA **EUR6.826m**
+  - Vorderingen KT **EUR3.443m MASSIVE CLEAR FOI** (was **EUR24.071m**) / ST non-ruil schulden **EUR0.123m MASSIVE CLEAR FOI** (was **EUR21.313m**)
+  - Exploitatie: ontvangsten **EUR21.560m** / uitgaven **EUR16.235m** / saldo **+EUR5.325m VERY STRONG**
+  - AFM **+EUR4.370m VERY STRONG** (gecorr **+EUR4.375m**) / BBR **EUR6.927m HIGH** / budget **+EUR2.884m VERY STRONG** / cum BR **EUR6.933m** / P&L **+EUR5.269m MASSIVE FLIP FOI** (was **-EUR3.096m**)
+  - Andere opbrengsten **EUR2.703m MASSIVE JUMP FOI** (was **EUR0.134m**)
+  - Personnel **EUR10.113m** / toelagen **EUR1.440m FOI** (police **EUR0.750m JUMP** / fire **EUR0.427m JUMP** / other **EUR0.214m**)
+  - Invest **EUR2.156m** vs MJP **EUR6.379m UNDERSPEND FOI** / saldo **-EUR1.595m**
+  - OCMW cover **EUR0 ZERO FOI** / OCMW expl gap **-EUR1.242m FOI**
+- Dual: Glabbeek ST debt balloon / Fluvius herwaard (tick1086) - not TE-additive
+- Note: Torhout full BBC / Oosterzele / Nijlen / Vorselaar / Kalmthout / Schelle / Ronse / Geetbets residual next; progress@1090 in 2
+- Wrote: budgets +46 (bud_hoe_*); commitments +7; leaderboard +8; sources +1; entity city_hoegaarden; FOI **gap_hoe_balance_clear_other_opbr_ocmw_l5** prio9 ready + draft; PDF primary (not committed); rq_1087=done; spawn **rq_1088**; ticks=1087
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1088** residual dual L5; deferred **rq_116**; progress@1090 in 2
