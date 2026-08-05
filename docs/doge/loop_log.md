@@ -12538,3 +12538,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +40 (bud_w13_*); commitments +5; leaderboard +7; sources +1; entity w13_zwvl; FOI **gap_w13_afm_subsidy_bijdrage_l5** prio8 ready + draft; key only (PDF ~1.7MB not stored in git); rq_975=done; spawn **rq_976**; ticks=975
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_976** residual dual L5 (Ledegem / Meulebeke / Torhout / WZBW); deferred **rq_116**; progress@980 in 5
+
+### Tick 976 - 2026-08-09T00:15:00Z
+
+- Unit: **rq_976** (FOI-adjacent residual dual - **Gemeente+OCMW Ingelmunster Jaarrekening 2025** + W13 dual residual)
+- Found (strong primary BBC JR2025 40p fin+beleid + 80p toelichting; KBO 0207.485.473 / OCMW 0212.221.845; FD Tine Dhont; AD Dominik Ronse; Oostrozebekestraat 4/6):
+  - Assets **EUR78.8m** / equity **EUR64.0m** / debt total **EUR14.8m** / fin debt **EUR7.10m** (**DECLINING** from **EUR7.69m**; LT **EUR6.26m** bank **EUR5.26m** + lease **EUR1.01m** / ST due **EUR0.839m**)
+  - New loans/lease **EUR0.283m** Fluvius verledding / repayments **EUR0.867m**
+  - Cash **EUR13.7m DROP** (was **EUR15.3m**) / pension **EUR5.06m declining** / leasing MVA **EUR1.12m FOI** / FVA IGS **EUR16.0m**
+  - Exploitatie: ontvangsten **EUR24.5m** / uitgaven **EUR20.0m** / saldo **+EUR4.48m**
+  - AFM **+EUR3.61m STRONG** (gecorr **+EUR3.86m**) / BBR **EUR15.0m HIGH** / budget **-EUR1.25m FOI** / P&L **+EUR2.06m** (GE **+EUR5.02m** / OCMW **-EUR2.96m FOI**)
+  - Personnel **EUR11.4m** / toelagen **EUR3.36m FOI** (MIDOW **EUR1.18m** / IVIO **EUR0.959m** net **EUR0.649m** / CV DEMAX **EUR0.456m** / fire **EUR0.288m**)
+  - Invest **EUR6.49m** vs MJP **EUR7.99m underspend FOI** / sportpark **EUR4.30m** / cultuurhuis **EUR0.189m** / Sport VL **EUR0.625m**
+  - **OCMW cover EUR3.0m FOI** (OCMW BBR **-EUR2.97m**) / OCMW aid **EUR1.27m +16pct FOI** / BOOST carry **EUR0.121m**
+  - MJP fin debt planned **EUR6.49m (2026)** declining
+- Dual: W13 **EUR2.80m** / AFM **-EUR0.203m NEG** / werkingsubs **EUR3.97m** (tick975) - not TE-additive
+- Note: Ledegem/Torhout/Meulebeke/WZBW still no extractable full JR2025 this tick (Torhout press only: AFM 3.1m debt 27.2m)
+- Wrote: budgets +53 (bud_ing_*); commitments +5; leaderboard +7; sources +1; entity city_ingelmunster; FOI **gap_ing_ocmw_cover_toelagen_invest_l5** prio8 ready + draft; key only (PDFs not stored in git); rq_976=done; spawn **rq_977**; ticks=976
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_977** residual dual L5 (Ledegem / Meulebeke / Torhout / WZBW); deferred **rq_116**; progress@980 in 4
