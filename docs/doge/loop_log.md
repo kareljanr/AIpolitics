@@ -13906,3 +13906,24 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1048** residual dual L5; deferred **rq_116**; progress@1050 in 3
 
+
+
+### Tick 1048 - 2026-08-10T13:15:00Z
+
+- Unit: **rq_1048** (FOI-adjacent residual dual - **Lokaal Bestuur Zelzate Jaarrekening 2025** + Sint-Gillis-Waas dual residual)
+- Found (strong primary BBC JR2025 188p portal; KBO 0207.449.346 / OCMW 0212.185.817; Grote Markt 1 NIS 43018; AD Christine Coone FD Katrien Debaecke BM Brent Meuleman):
+  - Assets **EUR59.51m** slight DROP / equity **EUR37.55m JUMP** / debt total **EUR21.96m DECLINE** / fin debt **EUR5.57m DECLINE** (was **EUR6.51m**; LT **EUR4.56m** / ST due **EUR1.01m**)
+  - New loans **EUR0.046m LOW** Fluvius OV lease / repayments **EUR0.993m HIGH**
+  - Cash **EUR6.67m JUMP** / pension **EUR11.73m DROP HIGH FOI** (was **EUR12.56m**) / FVA IGS **EUR13.24m** / leasing MVA **EUR2.75m**
+  - Exploitatie: ontvangsten **EUR27.61m** / uitgaven **EUR24.95m** / saldo **+EUR2.66m STRONG**
+  - AFM **+EUR1.72m STRONG** (gecorr **+EUR2.19m**) / BBR **EUR7.96m VERY HIGH FOI** / budget **+EUR0.901m STRONG flip** / cum BR **EUR8.14m** / P&L **+EUR1.37m**
+  - Personnel **EUR12.76m** / toelagen **EUR5.64m FOI** (police **EUR2.36m JUMP** / fire **EUR0.620m** / **IGS EUR1.69m** / WV **EUR0.108m** / other **EUR0.842m**)
+  - Invest **EUR1.17m** vs MJP **EUR3.33m UNDERSPEND FOI** / invest-subs rec **EUR0.274m**
+  - **OCMW cover EUR1.64m FULL-ish FOI** vs gap ca. **EUR-1.73m** / OCMW P&L **EUR-1.92m** / OCMW cum equity **EUR-5.83m IMPROVING** (was **EUR-11.62m** after **EUR7.72m** MJP result-processing transfer; no classic bijdrage in BBC flows)
+  - Treasury GE->OCMW **EUR1.55m** (toelichting)
+- Dual: Sint-Gillis-Waas assets **EUR109.68m** / fin debt **EUR32.51m JUMP** / new loans **EUR14.81m** / OCMW cover **EUR2.39m** (tick1047) - not TE-additive
+- Note: Hulshout/Torhout/Stekene/Balen OCR/Kluisbergen 64MB residual next; progress@1050 in 2
+- Wrote: budgets +57 (bud_zel_*); commitments +6; leaderboard +8; sources +1; entity city_zelzate; FOI **gap_zel_ocmw_pension_toelagen_bbr_l5** prio9 ready + draft; key only (PDF ~3.7MB not stored in git); rq_1048=done; spawn **rq_1049**; ticks=1048
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1049** residual dual L5; deferred **rq_116**; progress@1050 in 2
+

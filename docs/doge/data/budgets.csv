@@ -26172,3 +26172,60 @@ bud_sgw_fiscal_2025,city_sint_gillis_waas,2025,20111930,,,bbc_jr_realized,src_sg
 bud_sgw_interest_2025,city_sint_gillis_waas,2025,871597,,,bbc_jr_realized,src_sgw_jr2025,strong,Intresten op leningen 2025 0.872m JUMP; tick1047
 bud_sgw_ocmw_aid_2025,city_sint_gillis_waas,2025,2002257,,,bbc_jr_realized,src_sgw_jr2025,strong,Individuele hulpverlening OCMW 2025 2.00m; tick1047
 bud_sgw_debt_per_capita_2025,city_sint_gillis_waas,2025,1631,,,bbc_jr_realized,src_sgw_jr2025,strong,Openstaande schuld per inwoner YE2025 EUR1631 (kengetallen); tick1047
+bud_zel_assets_2025,city_zelzate,2025,59508630,,,bbc_jr_realized,src_zelzate_jr2025,strong,Assets YE2025 59.51m slight DROP (was 60.04m); tick1048
+bud_zel_equity_2025,city_zelzate,2025,37546779,,,bbc_jr_realized,src_zelzate_jr2025,strong,Nettoactief YE2025 37.55m JUMP (was 36.27m); tick1048
+bud_zel_debt_total_2025,city_zelzate,2025,21961851,,,bbc_jr_realized,src_zelzate_jr2025,strong,Total schulden YE2025 21.96m DECLINE (was 23.77m); tick1048
+bud_zel_fin_debt_2025,city_zelzate,2025,5566145,,,bbc_jr_realized,src_zelzate_jr2025,strong,Fin debt total YE2025 5.57m DECLINE (was 6.51m T4); tick1048
+bud_zel_fin_debt_lt_2025,city_zelzate,2025,4561046,,,bbc_jr_realized,src_zelzate_jr2025,strong,Fin debt LT YE2025 4.56m DECLINE (was 5.43m); tick1048
+bud_zel_fin_debt_st_due_2025,city_zelzate,2025,1005099,,,bbc_jr_realized,src_zelzate_jr2025,strong,Fin debt ST due YE2025 1.01m; tick1048
+bud_zel_fin_debt_st_2025,city_zelzate,2025,0,,,bbc_jr_realized,src_zelzate_jr2025,strong,Fin debt ST treasury YE2025 0; tick1048
+bud_zel_new_loans_2025,city_zelzate,2025,45986,,,bbc_jr_realized,src_zelzate_jr2025,strong,Nieuwe leningen/leasings 2025 0.046m LOW Fluvius OV lease; tick1048
+bud_zel_aflossingen_2025,city_zelzate,2025,993484,,,bbc_jr_realized,src_zelzate_jr2025,strong,Periodieke aflossingen 2025 0.993m HIGH vs new loans; tick1048
+bud_zel_cash_2025,city_zelzate,2025,6666513,,,bbc_jr_realized,src_zelzate_jr2025,strong,Liquide middelen YE2025 6.67m JUMP (was 6.11m); tick1048
+bud_zel_pension_2025,city_zelzate,2025,11727438,,,bbc_jr_realized,src_zelzate_jr2025,strong,Pensioenvoorzieningen LT YE2025 11.73m DROP HIGH FOI (was 12.56m); tick1048
+bud_zel_cap_subs_2025,city_zelzate,2025,1857269,,,bbc_jr_realized,src_zelzate_jr2025,strong,Kapitaalsubsidies YE2025 1.86m; tick1048
+bud_zel_fva_total_2025,city_zelzate,2025,13456467,,,bbc_jr_realized,src_zelzate_jr2025,strong,FVA total YE2025 13.46m; tick1048
+bud_zel_fva_igs_2025,city_zelzate,2025,13244343,,,bbc_jr_realized,src_zelzate_jr2025,strong,FVA IGS YE2025 13.24m; tick1048
+bud_zel_leasing_mva_2025,city_zelzate,2025,2748769,,,bbc_jr_realized,src_zelzate_jr2025,strong,Leasing MVA YE2025 2.75m Fluvius OV; tick1048
+bud_zel_expl_rec_2025,city_zelzate,2025,27609812,,,bbc_jr_realized,src_zelzate_jr2025,strong,Exploitatieontvangsten 27.61m; tick1048
+bud_zel_expl_exp_2025,city_zelzate,2025,24947413,,,bbc_jr_realized,src_zelzate_jr2025,strong,Exploitatieuitgaven 24.95m; tick1048
+bud_zel_expl_saldo_2025,city_zelzate,2025,2662400,,,bbc_jr_realized,src_zelzate_jr2025,strong,Exploitatiesaldo +2.66m STRONG; tick1048
+bud_zel_invest_exp_2025,city_zelzate,2025,1169438,,,bbc_jr_realized,src_zelzate_jr2025,strong,Investeringsuitgaven 1.17m vs MJP 3.33m UNDERSPEND FOI; tick1048
+bud_zel_invest_rec_2025,city_zelzate,2025,333763,,,bbc_jr_realized,src_zelzate_jr2025,strong,Investeringsontvangsten 0.334m; tick1048
+bud_zel_invest_saldo_2025,city_zelzate,2025,-835675,,,bbc_jr_realized,src_zelzate_jr2025,strong,Investeringssaldo -0.836m; tick1048
+bud_zel_mjp_invest_planned_2025,city_zelzate,2025,3333152,,,bbc_jr_realized,src_zelzate_jr2025,strong,MJP invest planned 3.33m vs realized 1.17m underspend FOI; tick1048
+bud_zel_afm_2025,city_zelzate,2025,1715768,,,bbc_jr_realized,src_zelzate_jr2025,strong,AFM +1.72m STRONG; tick1048
+bud_zel_afm_corr_2025,city_zelzate,2025,2188161,,,bbc_jr_realized,src_zelzate_jr2025,strong,Gecorrigeerde AFM +2.19m STRONG; tick1048
+bud_zel_bbr_2025,city_zelzate,2025,7957719,,,bbc_jr_realized,src_zelzate_jr2025,strong,BBR beschikbaar +7.96m VERY HIGH FOI; tick1048
+bud_zel_budget_result_2025,city_zelzate,2025,901252,,,bbc_jr_realized,src_zelzate_jr2025,strong,Budgettair resultaat +0.901m STRONG flip vs MJP -0.624m; tick1048
+bud_zel_cum_br_2025,city_zelzate,2025,8144386,,,bbc_jr_realized,src_zelzate_jr2025,strong,Gecumuleerd budgettair resultaat +8.14m; tick1048
+bud_zel_onbeschikbaar_2025,city_zelzate,2025,186667,,,bbc_jr_realized,src_zelzate_jr2025,strong,Onbeschikbare gelden 0.187m; tick1048
+bud_zel_pnl_2025,city_zelzate,2025,1368522,,,bbc_jr_realized,src_zelzate_jr2025,strong,P&L +1.37m STRONG; tick1048
+bud_zel_ge_pnl_2025,city_zelzate,2025,3289241,,,bbc_jr_realized,src_zelzate_jr2025,strong,GE P&L +3.29m; tick1048
+bud_zel_ocmw_pnl_2025,city_zelzate,2025,-1920719,,,bbc_jr_realized,src_zelzate_jr2025,strong,OCMW P&L -1.92m HIGH FOI; tick1048
+bud_zel_ge_expl_exp_2025,city_zelzate,2025,16588432,,,bbc_jr_realized,src_zelzate_jr2025,strong,GE exploitatieuitgaven J3 16.59m; tick1048
+bud_zel_ge_expl_rec_2025,city_zelzate,2025,20983958,,,bbc_jr_realized,src_zelzate_jr2025,strong,GE exploitatieontvangsten J3 20.98m; tick1048
+bud_zel_ocmw_expl_exp_2025,city_zelzate,2025,8358981,,,bbc_jr_realized,src_zelzate_jr2025,strong,OCMW exploitatieuitgaven J3 8.36m FOI; tick1048
+bud_zel_ocmw_expl_rec_2025,city_zelzate,2025,6625854,,,bbc_jr_realized,src_zelzate_jr2025,strong,OCMW exploitatieontvangsten J3 6.63m; tick1048
+bud_zel_ocmw_expl_gap_2025,city_zelzate,2025,-1733127,,,bbc_jr_realized,src_zelzate_jr2025,strong,OCMW expl gap -1.73m HIGH FOI residual; tick1048
+bud_zel_ocmw_cover_2025,city_zelzate,2025,1638369,,,bbc_jr_realized,src_zelzate_jr2025,strong,OCMW cover tussenkomst 2025 1.64m FULL-ish FOI (also 7.72m MJP result-processing transfer T5); tick1048
+bud_zel_ocmw_cum_equity_2025,city_zelzate,2025,-5826011,,,bbc_jr_realized,src_zelzate_jr2025,strong,OCMW cum equity -5.83m IMPROVING FOI (was -11.62m after 7.72m transfer); tick1048
+bud_zel_ge_cum_equity_2025,city_zelzate,2025,8504433,,,bbc_jr_realized,src_zelzate_jr2025,strong,GE cum equity overschot YE2025 +8.50m after OCMW transfer; tick1048
+bud_zel_equity_cum_2025,city_zelzate,2025,2678422,,,bbc_jr_realized,src_zelzate_jr2025,strong,Gecumuleerd equity overschot consol YE2025 +2.68m; tick1048
+bud_zel_personnel_2025,city_zelzate,2025,12763341,,,bbc_jr_realized,src_zelzate_jr2025,strong,Bezoldigingen 12.76m incl education pass-through 2.18m; tick1048
+bud_zel_edu_pass_through_2025,city_zelzate,2025,2175062,,,bbc_jr_realized,src_zelzate_jr2025,strong,Onderwijzend personeel ten laste andere overheden 2.18m; tick1048
+bud_zel_toelagen_2025,city_zelzate,2025,5642760,,,bbc_jr_realized,src_zelzate_jr2025,strong,Toegestane werkingssubsidies 5.64m FOI residual; tick1048
+bud_zel_toelagen_police_2025,city_zelzate,2025,2357993,,,bbc_jr_realized,src_zelzate_jr2025,strong,Toelage politiezone 2.36m JUMP; tick1048
+bud_zel_toelagen_fire_2025,city_zelzate,2025,619528,,,bbc_jr_realized,src_zelzate_jr2025,strong,Toelage hulpverleningszone 0.620m; tick1048
+bud_zel_toelagen_igs_2025,city_zelzate,2025,1688998,,,bbc_jr_realized,src_zelzate_jr2025,strong,Toelage IGS 1.69m FOI; tick1048
+bud_zel_toelagen_wv_2025,city_zelzate,2025,107941,,,bbc_jr_realized,src_zelzate_jr2025,strong,Toelage welzijnsverenigingen 0.108m JUMP; tick1048
+bud_zel_toelagen_eredienst_2025,city_zelzate,2025,25919,,,bbc_jr_realized,src_zelzate_jr2025,strong,Toelage eredienst 0.026m; tick1048
+bud_zel_toelagen_other_2025,city_zelzate,2025,842382,,,bbc_jr_realized,src_zelzate_jr2025,strong,Toelage andere begunstigden 0.842m FOI; tick1048
+bud_zel_ocmw_aid_2025,city_zelzate,2025,2415552,,,bbc_jr_realized,src_zelzate_jr2025,strong,OCMW individuele hulp 2.42m; tick1048
+bud_zel_fiscal_2025,city_zelzate,2025,11805887,,,bbc_jr_realized,src_zelzate_jr2025,strong,Fiscale opbrengsten 11.81m JUMP; tick1048
+bud_zel_fiscal_ov_2025,city_zelzate,2025,3833261,,,bbc_jr_realized,src_zelzate_jr2025,strong,Opcentiemen OV 3.83m; tick1048
+bud_zel_gemeentefonds_2025,city_zelzate,2025,5049398,,,bbc_jr_realized,src_zelzate_jr2025,strong,Gemeentefonds 5.05m; tick1048
+bud_zel_interest_2025,city_zelzate,2025,125453,,,bbc_jr_realized,src_zelzate_jr2025,strong,Intresten op schulden 0.125m; tick1048
+bud_zel_invest_subs_rec_2025,city_zelzate,2025,273788,,,bbc_jr_realized,src_zelzate_jr2025,strong,Investeringssubsidies ontvangen 0.274m (VL 0.220 + prov 0.054); tick1048
+bud_zel_ocmw_invest_exp_2025,city_zelzate,2025,19530,,,bbc_jr_realized,src_zelzate_jr2025,strong,OCMW invest uitgaven 0.020m LOW; tick1048
+bud_zel_treasury_ocmw_2025,city_zelzate,2025,1550000,,,bbc_jr_realized,src_zelzate_jr2025,strong,Thesaurie storting GE->OCMW 1.55m 2025 (toelichting; not BBC flow); tick1048
