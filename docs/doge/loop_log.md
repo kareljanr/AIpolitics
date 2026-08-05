@@ -13233,3 +13233,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1014** residual dual L5 (Torhout / Stekene / Laarne / Buggenhout / other); deferred **rq_116**; progress@1020 in 7
 
+
+### Tick 1014 - 2026-08-09T20:15:00Z
+
+- Unit: **rq_1014** (FOI-adjacent residual dual - **Gemeente+OCMW Laarne Jaarrekening 2025** + Temse dual residual)
+- Found (strong primary BBC JR2025 145p; KBO 0207.445.881 / OCMW 0212.190.666; FD Carine Raes; AD Ellen Leroy; Dorpsstraat 2; NIS 42010):
+  - Assets **EUR76.37m** / equity **EUR54.98m** / debt total **EUR21.40m** / fin debt **EUR10.28m** (**DECLINING** from **EUR10.94m**; LT **EUR9.47m** / ST due **EUR0.811m**)
+  - New loans **EUR0.130m** lease only (MJP bank **EUR2.24m deferred FOI**) / repayments **EUR0.785m**
+  - Cash **EUR4.25m** (was **EUR4.01m**) / pension **EUR7.20m DECLINING** (was **EUR7.98m**) / leasing MVA **EUR1.62m**
+  - FVA IGS **EUR9.72m** / FVA OCMW-ver **EUR7.88m HIGH FOI** / cap subs **EUR10.93m**
+  - Exploitatie: ontvangsten **EUR25.19m** / uitgaven **EUR22.15m** / saldo **+EUR3.04m STRONG**
+  - AFM **+EUR2.27m STRONG** (gecorr **+EUR2.18m**) / BBR **EUR4.18m** / budget **-EUR0.165m** / P&L **+EUR1.72m** (GE **+EUR2.97m** / OCMW **-EUR1.24m FOI**)
+  - Personnel **EUR12.09m** / toelagen **EUR4.29m DROP FOI** (police **EUR1.36m** / fire **EUR0.397m DROP** was 0.602 / IGS **EUR1.43m JUMP** / welzijn **EUR0.790m** / other **EUR0.290m**)
+  - Invest **EUR3.14m** vs MJP **EUR9.02m UNDERSPEND FOI** / **OCMW cover EUR1.82m FULL-ish FOI** / OCMW cum **-EUR3.22m IMPROVING** (was -3.80m)
+- Dual: Temse **EUR172.60m** / OCMW cover **EUR9.87m** / cum **-EUR27.88m** / budget **-EUR9.44m** (tick1013) - not TE-additive
+- Note: Torhout still news-only; Stekene 404 prior; Buggenhout / Oosterzele / Moerbeke residual next optional
+- Wrote: budgets +55 (bud_laa_*); commitments +6; leaderboard +8; sources +1; entity city_laarne; FOI **gap_laa_invest_ocmw_toelagen_l5** prio8 ready + draft; key only (PDF ~1.9MB not stored in git); rq_1014=done; spawn **rq_1015**; ticks=1014
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1015** residual dual L5 (Torhout / Stekene / Buggenhout / Oosterzele / other); deferred **rq_116**; progress@1020 in 6
+

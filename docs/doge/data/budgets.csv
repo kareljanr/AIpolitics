@@ -24342,3 +24342,58 @@ bud_tem_ge_expl_exp_2025,city_temse,2025,36054122,,,bbc_jr_realized,src_temse_jr
 bud_tem_ocmw_expl_exp_2025,city_temse,2025,17020155,,,bbc_jr_realized,src_temse_jr2025,strong,OCMW exploitatieuitgaven J3 17.02m FOI; tick1013
 bud_tem_ocmw_expl_rec_2025,city_temse,2025,8672411,,,bbc_jr_realized,src_temse_jr2025,strong,OCMW exploitatieontvangsten J3 8.67m; tick1013
 bud_tem_ocmw_expl_saldo_2025,city_temse,2025,-8354699,,,bbc_jr_realized,src_temse_jr2025,strong,OCMW exploitatiesaldo -8.35m FOI residual; tick1013
+bud_laa_assets_2025,city_laarne,2025,76372508,,,bbc_jr_realized,src_laarne_jr2025,strong,Assets YE2025 76.37m (was 75.12m); tick1014
+bud_laa_equity_2025,city_laarne,2025,54975894,,,bbc_jr_realized,src_laarne_jr2025,strong,Nettoactief YE2025 54.98m (was 53.33m); tick1014
+bud_laa_debt_total_2025,city_laarne,2025,21396615,,,bbc_jr_realized,src_laarne_jr2025,strong,Total schulden YE2025 21.40m DROP (was 21.80m); tick1014
+bud_laa_fin_debt_2025,city_laarne,2025,10281609,,,bbc_jr_realized,src_laarne_jr2025,strong,Fin debt total YE2025 10.28m DECLINING (was 10.94m T4); tick1014
+bud_laa_fin_debt_lt_2025,city_laarne,2025,9470888,,,bbc_jr_realized,src_laarne_jr2025,strong,Fin debt LT YE2025 9.47m DECLINING; tick1014
+bud_laa_fin_debt_st_due_2025,city_laarne,2025,810721,,,bbc_jr_realized,src_laarne_jr2025,strong,Fin debt ST due YE2025 0.811m; tick1014
+bud_laa_new_loans_2025,city_laarne,2025,129651,,,bbc_jr_realized,src_laarne_jr2025,strong,Nieuwe leningen 2025 0.130m lease only (MJP bank 2.24m deferred FOI); tick1014
+bud_laa_aflossingen_2025,city_laarne,2025,785083,,,bbc_jr_realized,src_laarne_jr2025,strong,Periodieke aflossingen 2025 0.785m; tick1014
+bud_laa_cash_2025,city_laarne,2025,4254912,,,bbc_jr_realized,src_laarne_jr2025,strong,Liquide middelen YE2025 4.25m (was 4.01m); tick1014
+bud_laa_pension_2025,city_laarne,2025,7202943,,,bbc_jr_realized,src_laarne_jr2025,strong,Pensioenvoorzieningen LT YE2025 7.20m DECLINING (was 7.98m); tick1014
+bud_laa_cap_subs_2025,city_laarne,2025,10925528,,,bbc_jr_realized,src_laarne_jr2025,strong,Kapitaalsubsidies YE2025 10.93m; tick1014
+bud_laa_fva_total_2025,city_laarne,2025,19254774,,,bbc_jr_realized,src_laarne_jr2025,strong,FVA total YE2025 19.25m; tick1014
+bud_laa_fva_igs_2025,city_laarne,2025,9721479,,,bbc_jr_realized,src_laarne_jr2025,strong,FVA IGS YE2025 9.72m; tick1014
+bud_laa_fva_ocmw_assoc_2025,city_laarne,2025,7881654,,,bbc_jr_realized,src_laarne_jr2025,strong,FVA OCMW-verenigingen YE2025 7.88m HIGH FOI dual; tick1014
+bud_laa_fva_other_2025,city_laarne,2025,1651641,,,bbc_jr_realized,src_laarne_jr2025,strong,Andere FVA YE2025 1.65m; tick1014
+bud_laa_leasing_mva_2025,city_laarne,2025,1621231,,,bbc_jr_realized,src_laarne_jr2025,strong,Leasing MVA YE2025 1.62m; tick1014
+bud_laa_expl_rec_2025,city_laarne,2025,25191707,,,bbc_jr_realized,src_laarne_jr2025,strong,Exploitatieontvangsten 25.19m; tick1014
+bud_laa_expl_exp_2025,city_laarne,2025,22146923,,,bbc_jr_realized,src_laarne_jr2025,strong,Exploitatieuitgaven 22.15m; tick1014
+bud_laa_expl_saldo_2025,city_laarne,2025,3044783,,,bbc_jr_realized,src_laarne_jr2025,strong,Exploitatiesaldo +3.04m STRONG; tick1014
+bud_laa_invest_exp_2025,city_laarne,2025,3138695,,,bbc_jr_realized,src_laarne_jr2025,strong,Investeringsuitgaven 3.14m vs MJP 9.02m UNDERSPEND FOI; tick1014
+bud_laa_invest_rec_2025,city_laarne,2025,575461,,,bbc_jr_realized,src_laarne_jr2025,strong,Investeringsontvangsten 0.575m; tick1014
+bud_laa_invest_saldo_2025,city_laarne,2025,-2563234,,,bbc_jr_realized,src_laarne_jr2025,strong,Investeringssaldo -2.56m; tick1014
+bud_laa_mjp_invest_planned_2025,city_laarne,2025,9021263,,,bbc_jr_realized,src_laarne_jr2025,strong,MJP invest planned 9.02m vs realized 3.14m underspend FOI residual; tick1014
+bud_laa_afm_2025,city_laarne,2025,2269701,,,bbc_jr_realized,src_laarne_jr2025,strong,AFM +2.27m STRONG; tick1014
+bud_laa_afm_corr_2025,city_laarne,2025,2179820,,,bbc_jr_realized,src_laarne_jr2025,strong,Gecorrigeerde AFM +2.18m; tick1014
+bud_laa_bbr_2025,city_laarne,2025,4178391,,,bbc_jr_realized,src_laarne_jr2025,strong,BBR beschikbaar 4.18m; tick1014
+bud_laa_budget_result_2025,city_laarne,2025,-164682,,,bbc_jr_realized,src_laarne_jr2025,strong,Budgettair resultaat -0.165m slight NEG FOI residual; tick1014
+bud_laa_cum_br_2025,city_laarne,2025,4194025,,,bbc_jr_realized,src_laarne_jr2025,strong,Gecumuleerd budgettair resultaat 4.19m; tick1014
+bud_laa_pnl_2025,city_laarne,2025,1721257,,,bbc_jr_realized,src_laarne_jr2025,strong,P&L +1.72m STRONG; tick1014
+bud_laa_pnl_ge_2025,city_laarne,2025,2966041,,,bbc_jr_realized,src_laarne_jr2025,strong,GE P&L +2.97m; tick1014
+bud_laa_pnl_ocmw_2025,city_laarne,2025,-1244784,,,bbc_jr_realized,src_laarne_jr2025,strong,OCMW P&L -1.24m FOI; tick1014
+bud_laa_ocmw_cover_2025,city_laarne,2025,1815560,,,bbc_jr_realized,src_laarne_jr2025,strong,OCMW cover 1.82m FULL-ish FOI residual vs OCMW -1.24m; tick1014
+bud_laa_ocmw_cum_deficit_2025,city_laarne,2025,-3224877,,,bbc_jr_realized,src_laarne_jr2025,strong,OCMW cum tekort YE2025 -3.22m IMPROVING (was -3.80m after cover); tick1014
+bud_laa_personnel_2025,city_laarne,2025,12087003,,,bbc_jr_realized,src_laarne_jr2025,strong,Bezoldigingen 12.09m; tick1014
+bud_laa_toelagen_2025,city_laarne,2025,4294255,,,bbc_jr_realized,src_laarne_jr2025,strong,Toegestane werkingssubsidies 4.29m DROP FOI residual; tick1014
+bud_laa_toelagen_police_2025,city_laarne,2025,1361038,,,bbc_jr_realized,src_laarne_jr2025,strong,Toelage politiezone 1.36m DROP (was 1.46m); tick1014
+bud_laa_toelagen_fire_2025,city_laarne,2025,397097,,,bbc_jr_realized,src_laarne_jr2025,strong,Toelage hulpverleningszone 0.397m DROP (was 0.602m FOI); tick1014
+bud_laa_toelagen_igs_2025,city_laarne,2025,1429914,,,bbc_jr_realized,src_laarne_jr2025,strong,Toelage IGS 1.43m JUMP (was 1.23m FOI); tick1014
+bud_laa_toelagen_welzijn_2025,city_laarne,2025,789630,,,bbc_jr_realized,src_laarne_jr2025,strong,Toelage welzijnsverenigingen 0.790m FOI dual; tick1014
+bud_laa_toelagen_eredienst_2025,city_laarne,2025,26518,,,bbc_jr_realized,src_laarne_jr2025,strong,Toelage eredienst 0.027m; tick1014
+bud_laa_toelagen_other_2025,city_laarne,2025,290057,,,bbc_jr_realized,src_laarne_jr2025,strong,Toelage andere begunstigden 0.290m FOI; tick1014
+bud_laa_ocmw_aid_2025,city_laarne,2025,864528,,,bbc_jr_realized,src_laarne_jr2025,strong,OCMW individuele hulp 0.865m JUMP; tick1014
+bud_laa_fiscal_2025,city_laarne,2025,12365483,,,bbc_jr_realized,src_laarne_jr2025,strong,Fiscale opbrengsten 12.37m; tick1014
+bud_laa_fiscal_ov_2025,city_laarne,2025,4166696,,,bbc_jr_realized,src_laarne_jr2025,strong,Opcentiemen OV 4.17m; tick1014
+bud_laa_fiscal_pb_2025,city_laarne,2025,7050670,,,bbc_jr_realized,src_laarne_jr2025,strong,Aanvullende PB 7.05m JUMP (was 6.16m); tick1014
+bud_laa_gemeentefonds_2025,city_laarne,2025,3033063,,,bbc_jr_realized,src_laarne_jr2025,strong,Gemeentefonds 3.03m; tick1014
+bud_laa_fin_opbr_2025,city_laarne,2025,934460,,,bbc_jr_realized,src_laarne_jr2025,strong,Financiele opbrengsten J5 0.934m; tick1014
+bud_laa_fin_costs_2025,city_laarne,2025,326440,,,bbc_jr_realized,src_laarne_jr2025,strong,Financiele kosten 0.326m; tick1014
+bud_laa_invest_subs_granted_2025,city_laarne,2025,227570,,,bbc_jr_realized,src_laarne_jr2025,strong,Toegestane investeringssubsidies 0.228m; tick1014
+bud_laa_cum_equity_surplus_2025,city_laarne,2025,7376805,,,bbc_jr_realized,src_laarne_jr2025,strong,Gecumuleerd equity surplus YE2025 +7.38m IMPROVING; tick1014
+bud_laa_ge_expl_exp_2025,city_laarne,2025,15712904,,,bbc_jr_realized,src_laarne_jr2025,strong,GE exploitatieuitgaven J3 15.71m; tick1014
+bud_laa_ocmw_expl_exp_2025,city_laarne,2025,6434020,,,bbc_jr_realized,src_laarne_jr2025,strong,OCMW exploitatieuitgaven J3 6.43m FOI; tick1014
+bud_laa_ocmw_expl_rec_2025,city_laarne,2025,4506235,,,bbc_jr_realized,src_laarne_jr2025,strong,OCMW exploitatieontvangsten J3 4.51m; tick1014
+bud_laa_ocmw_expl_saldo_2025,city_laarne,2025,-1927785,,,bbc_jr_realized,src_laarne_jr2025,strong,OCMW exploitatiesaldo -1.93m FOI residual; tick1014
+bud_laa_mjp_new_loans_planned_2025,city_laarne,2025,2240622,,,bbc_jr_realized,src_laarne_jr2025,strong,MJP new loans planned 2.24m not drawn FOI residual; tick1014
