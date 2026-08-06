@@ -29742,3 +29742,27 @@ bud_lan_invest_eredienst_2025,city_lanaken,2025,721215,,,bbc_jr_realized,src_lan
 bud_lan_consol_bbr_2025,city_lanaken,2025,8792945,,,bbc_jr_realized,src_lanaken_jr2025,strong,Consol BBR GE+OCMW+AGB 8.793m; tick1127
 bud_lan_consol_afm_2025,city_lanaken,2025,3489113,,,bbc_jr_realized,src_lanaken_jr2025,strong,Consol AFM GE+OCMW+AGB 3.489m (AGB -0.105m); tick1127
 bud_lan_mjp_invest_2025,city_lanaken,2025,12689654,,,bbc_jr_realized,src_lanaken_jr2025,strong,MJP invest credit 12.690m vs realized 10.339m; tick1127
+bud_ldagb_assets_2025,agb_landen,2025,4665888,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen total assets YE2025 4.666m DROP (was 4.815m); tick1128
+bud_ldagb_equity_2025,agb_landen,2025,4558602,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen nettoactief YE2025 4.559m; tick1128
+bud_ldagb_debt_total_2025,agb_landen,2025,107287,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen total schulden YE2025 0.107m ST only; tick1128
+bud_ldagb_fin_debt_2025,agb_landen,2025,0,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen financiele schulden YE2025 0 (no loans); tick1128
+bud_ldagb_cash_2025,agb_landen,2025,75270,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen liquide middelen YE2025 0.075m JUMP (was 0.056m); tick1128
+bud_ldagb_cap_subs_2025,agb_landen,2025,4438061,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen kapitaalsubsidies YE2025 4.438m; tick1128
+bud_ldagb_cum_surplus_2025,agb_landen,2025,95541,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen gecumuleerd overschot YE2025 0.096m; tick1128
+bud_ldagb_mva_2025,agb_landen,2025,4436590,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen MVA YE2025 4.437m; tick1128
+bud_ldagb_expl_rec_2025,agb_landen,2025,612399,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen exploitatieontvangsten 0.612m; tick1128
+bud_ldagb_expl_exp_2025,agb_landen,2025,601496,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen exploitatieuitgaven 0.601m; tick1128
+bud_ldagb_expl_saldo_2025,agb_landen,2025,10903,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen exploitatiesaldo +0.011m; tick1128
+bud_ldagb_invest_exp_2025,agb_landen,2025,107445,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen invest uitgaven 0.107m vs MJP 0.939m MASSIVE UNDERSPEND FOI; tick1128
+bud_ldagb_invest_rec_2025,agb_landen,2025,107445,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen invest ontvangsten city 0.107m (=exp); tick1128
+bud_ldagb_invest_mjp_2025,agb_landen,2025,939000,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen MJP invest credit 0.939m; tick1128
+bud_ldagb_afm_2025,agb_landen,2025,10903,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen AFM +0.011m POS FOI; tick1128
+bud_ldagb_bbr_2025,agb_landen,2025,138951,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen BBR 0.139m; tick1128
+bud_ldagb_budget_result_2025,agb_landen,2025,10903,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen budgettair resultaat +0.011m; tick1128
+bud_ldagb_pnl_result_2025,agb_landen,2025,8422,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen P&L overschot +0.008m after tax; tick1128
+bud_ldagb_city_werkingssub_2025,agb_landen,2025,243070,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen city werkingssubsidie 0.243m JUMP FOI (was 0.157m; mark-up 5pct mechanism); tick1128
+bud_ldagb_city_investsub_2025,agb_landen,2025,107445,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen city invest-subsidie 0.107m; tick1128
+bud_ldagb_goederen_2025,agb_landen,2025,561807,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen goederen en diensten 0.562m (incl huur 0.204m); tick1128
+bud_ldagb_huur_2025,agb_landen,2025,204312,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen huurlasten 0.204m FOI; tick1128
+bud_ldagb_vordering_city_2025,agb_landen,2025,130193,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen KT vordering niet-ruil (city subs) 0.130m FOI; tick1128
+bud_ldagb_mjp_werkingssub_2025,agb_landen,2025,323923,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen MJP city werkingssub was 0.324m vs realized 0.243m; tick1128

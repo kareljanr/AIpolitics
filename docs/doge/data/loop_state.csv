@@ -1,2 +1,2 @@
-state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-12T05:00:00Z,rq_1127,1127,no,tick1127 Lanaken GE+OCMW JR2025 dual residual after AGB; FOI gap_lan_fva_reval_loans_ocmw_toelagen_l5 prio9 ready; assets 200.258m fin debt 27.068m JUMP new loans 7.050m FVA IGS 67.518m MASSIVE reval AFM +3.594m BBR 8.524m budget +0.927m toelagen 10.014m OCMW cover FULL 3.285m; next residual dual L5 rq_1128; progress@1130 in 3; rq_116 deferred
+﻿"state_id","mode","current_sprint","last_tick_utc","last_unit_id","ticks_completed","paused","notes"
+"main","continuous","hole_fill","2026-08-12T05:30:00Z","rq_1128","1128","yes","human paused=yes; last tick1128 AGB Landen Entity II; resume with paused=no recreates watcher fire_immediately; next rq_1129 residual dual L5; progress@1130 in 2; rq_116 deferred"

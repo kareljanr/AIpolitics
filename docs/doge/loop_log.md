@@ -15511,3 +15511,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +45 (bud_lan_*); commitments +8; leaderboard +10; sources +1; entity city_lanaken update; FOI **gap_lan_fva_reval_loans_ocmw_toelagen_l5** prio9 ready + draft; PDF primary (not committed ~8.5MB); rq_1127=done; spawn **rq_1128**; ticks=1127
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1128** residual dual L5; deferred **rq_116**; progress@1130 in 3
+
+### Tick 1128 - 2026-08-12T05:30:00Z
+
+- Unit: **rq_1128** (FOI-adjacent residual dual - **AGB Landen Jaarrekening 2025** Entity II)
+- Found (strong primary BBC JR2025; FOI gap_ldagb_invest_underspend_markup_vat_l5):
+  - Assets **EUR4.666m** / fin debt **EUR0** / cash **EUR0.075m**
+  - AFM **+EUR0.011m** / BBR **EUR0.139m** / city werkingssub **EUR0.243m JUMP**
+  - Invest **EUR0.107m** vs MJP **EUR0.939m MASSIVE UNDERSPEND** / VAT ruling risk FOI
+- Wrote: budgets + commitments + leaderboard + entity; FOI **gap_ldagb_invest_underspend_markup_vat_l5** prio9 ready + draft; rq_1128=done; spawn **rq_1129**; ticks=1128
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1129** residual dual L5; deferred **rq_116**; progress@1130 in 2
+
+### Pause - human
+
+- **paused=yes** (human). Scheduler cancelled.
+- Resume: set **paused=no** + recreate 1m watcher with fire_immediately.
