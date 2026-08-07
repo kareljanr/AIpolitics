@@ -31064,3 +31064,32 @@ bud_agbpelt_pnl_2025,agb_pelt,2025,222483,,,BBC JR2025 primary,src_agb_pelt_jr20
 bud_agbpelt_interest_2025,agb_pelt,2025,27301,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Rente aan andere entiteiten 0.027m (city loans); tick1174
 bud_agbpelt_depr_2025,agb_pelt,2025,768286,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Afschrijvingen 0.768m; tick1174
 bud_agbpelt_mjp_debt_2026,agb_pelt,2025,2991882,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,MJP fin debt YE2026 path 2.992m (ST due wall 0.600m); tick1174
+bud_agbgeels_assets_2025,agb_geel_sport,2025,18638158,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Assets balanstotaal YE2025 18.638m DROP from 20.015m; tick1175
+bud_agbgeels_equity_2025,agb_geel_sport,2025,1629339,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Nettoactief YE2025 1.629m; tick1175
+bud_agbgeels_cum_pnl_2025,agb_geel_sport,2025,504346,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Gecumuleerd overschot YE2025 0.504m; tick1175
+bud_agbgeels_cap_subs_2025,agb_geel_sport,2025,1124992,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Kapitaalssubsidies YE2025 1.125m; tick1175
+bud_agbgeels_debt_total_2025,agb_geel_sport,2025,17008819,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Schulden total YE2025 17.009m; tick1175
+bud_agbgeels_fin_debt_2025,agb_geel_sport,2025,16405918,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Fin schulden total YE2025 16.406m (LT+ST due); tick1175
+bud_agbgeels_fin_debt_lt_2025,agb_geel_sport,2025,15411941,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Fin schulden LT YE2025 15.412m; tick1175
+bud_agbgeels_fin_debt_st_due_2025,agb_geel_sport,2025,993977,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Fin schulden LT vervallend YE2025 0.994m; tick1175
+bud_agbgeels_cash_2025,agb_geel_sport,2025,588176,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Liquide middelen YE2025 0.588m DROP CRITICAL from 1.686m; tick1175
+bud_agbgeels_mva_2025,agb_geel_sport,2025,17730462,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,MVA YE2025 17.730m; tick1175
+bud_agbgeels_mva_buildings_2025,agb_geel_sport,2025,17442746,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,MVA terreinen/gebouwen YE2025 17.443m; tick1175
+bud_agbgeels_st_recv_2025,agb_geel_sport,2025,259964,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,ST vorderingen YE2025 0.260m; tick1175
+bud_agbgeels_expl_rec_2025,agb_geel_sport,2025,2552909,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Exploitatieontvangsten 2.553m; tick1175
+bud_agbgeels_expl_exp_2025,agb_geel_sport,2025,1664090,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Exploitatieuitgaven 1.664m; tick1175
+bud_agbgeels_expl_saldo_2025,agb_geel_sport,2025,888819,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Exploitatiesaldo +0.889m; tick1175
+bud_agbgeels_omzet_werking_2025,agb_geel_sport,2025,2684616,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Opbrengsten uit de werking J5 2.685m; tick1175
+bud_agbgeels_invest_exp_2025,agb_geel_sport,2025,652838,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Investeringsuitgaven 0.653m; tick1175
+bud_agbgeels_new_loans_2025,agb_geel_sport,2025,652838,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Nieuwe leningen/leasings 0.653m (= invest); tick1175
+bud_agbgeels_repay_2025,agb_geel_sport,2025,978623,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Periodieke aflossingen 0.979m; tick1175
+bud_agbgeels_fin_saldo_2025,agb_geel_sport,2025,-325785,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Financieringssaldo -0.326m; tick1175
+bud_agbgeels_budget_result_2025,agb_geel_sport,2025,-89804,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Budgettair resultaat boekjaar -0.090m NEG; tick1175
+bud_agbgeels_bbr_2025,agb_geel_sport,2025,322481,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Beschikbaar BBR YE2025 0.322m; tick1175
+bud_agbgeels_afm_2025,agb_geel_sport,2025,-89804,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,AFM -0.090m NEG equals budget result; tick1175
+bud_agbgeels_afm_gecorr_2025,agb_geel_sport,2025,-449717,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Gecorr AFM -0.450m NEG DEEP (aangewezen 1.339m); tick1175
+bud_agbgeels_aangewezen_amort_2025,agb_geel_sport,2025,1338536,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Gecorrigeerde aflossingen o.b.v. fin schulden 1.339m; tick1175
+bud_agbgeels_pnl_2025,agb_geel_sport,2025,167515,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,P&L +0.168m; tick1175
+bud_agbgeels_dividend_2025,agb_geel_sport,2025,100000,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Dividend to city 0.100m while AFM NEG; tick1175
+bud_agbgeels_interest_2025,agb_geel_sport,2025,181,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Financiele kosten 0.0002m thin; tick1175
+bud_agbgeels_depr_2025,agb_geel_sport,2025,1015902,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Afschrijvingen 1.016m; tick1175

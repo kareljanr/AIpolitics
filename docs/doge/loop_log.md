@@ -16363,3 +16363,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1175** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1175 - 2026-08-08T05:00:00Z
+
+- Unit: **rq_1175** (FOI-adjacent residual dual - **AGB Sport Geel Jaarrekening 2025** Entity II sport after city GE)
+- Found (strong primary BBC financiele nota 10p pub 30.06.2026; KBO **0876.030.556**; Werft 20; Secr Francois Mylle FD Steven Lambrecht):
+  - Assets **EUR18.638m** / equity **EUR1.629m** / cash **EUR0.588m DROP CRITICAL** from 1.686
+  - Fin debt **EUR16.406m** (LT 15.412 / ST due **0.994m**); new **0.653m** (= invest); repay **0.979m**
+  - MVA **EUR17.730m** (gebouwen 17.443)
+  - BBR **EUR0.322m** / **AFM EUR-0.090m NEG** / **gecorr AFM EUR-0.450m NEG DEEP** (aangewezen 1.339m)
+  - Expl **EUR2.553m / 1.664m** saldo **+EUR0.889m** / werking **2.685m**
+  - PnL **+EUR0.168m** / **dividend EUR0.100m while AFM NEG**
+- Dual: city Geel GE already mined tick848 - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen / Bornem JR2024 / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Middelkerke / AGB Brasschaat / AGB Hamont-Achel residual next
+- Wrote: budgets +29 (bud_agbgeels_*); commitments +6; leaderboard +8; sources +1; entity agb_geel_sport; FOI **gap_agb_geel_afm_neg_gecorr_deep_cash_drop_debt_16m_l5** prio9 ready + draft; PDF primary (not committed ~1.0MB fin note); rq_1175=done; spawn **rq_1176**; ticks=1175
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1176** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local

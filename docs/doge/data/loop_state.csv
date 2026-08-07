@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T04:30:00Z,rq_1174,1174,no,tick1174 AGB Pelt dual residual ST due JUMP 0.6m AFM +0.79m PnL +0.22m BBR 2.50m; next rq_1175 residual dual L5; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T05:00:00Z,rq_1175,1175,no,tick1175 AGB Sport Geel dual residual AFM NEG gecorr -0.45m cash DROP debt 16.4m div while AFM NEG; next rq_1176 residual dual L5; rq_116 deferred; continuous hole_fill
