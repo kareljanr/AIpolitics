@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T04:00:00Z,rq_1173,1173,no,tick1173 AGB SAM Mechelen dual residual city loan 18.1m gecorr AFM NEG div 0.40m>PnL 0.33m personnel 1.60m; next rq_1174 residual dual L5; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T04:30:00Z,rq_1174,1174,no,tick1174 AGB Pelt dual residual ST due JUMP 0.6m AFM +0.79m PnL +0.22m BBR 2.50m; next rq_1175 residual dual L5; rq_116 deferred; continuous hole_fill

@@ -31034,3 +31034,33 @@ bud_agbsam_dividend_2025,agb_sam_mechelen,2025,400000,,,BBC JR2025 primary,src_a
 bud_agbsam_interest_2025,agb_sam_mechelen,2025,6667,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Financiele kosten 0.007m thin (city loans); tick1173
 bud_agbsam_depr_2025,agb_sam_mechelen,2025,1556349,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Afschrijvingen 1.556m; tick1173
 bud_agbsam_mjp_debt_2026,agb_sam_mechelen,2025,15823565,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,MJP fin debt YE2026 path 15.824m; tick1173
+bud_agbpelt_assets_2025,agb_pelt,2025,10309605,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Assets balanstotaal YE2025 10.310m; tick1174
+bud_agbpelt_equity_2025,agb_pelt,2025,6341888,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Nettoactief YE2025 6.342m; tick1174
+bud_agbpelt_cum_pnl_2025,agb_pelt,2025,908647,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Gecumuleerd overschot YE2025 0.909m JUMP from 0.686m; tick1174
+bud_agbpelt_cap_subs_2025,agb_pelt,2025,1823241,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Kapitaalssubsidies YE2025 1.823m; tick1174
+bud_agbpelt_other_netto_2025,agb_pelt,2025,3610000,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Overig nettoactief YE2025 3.610m; tick1174
+bud_agbpelt_debt_total_2025,agb_pelt,2025,3967717,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Schulden total YE2025 3.968m; tick1174
+bud_agbpelt_fin_debt_2025,agb_pelt,2025,3591882,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Fin schulden T4 total YE2025 3.592m DECLINING; tick1174
+bud_agbpelt_fin_debt_lt_2025,agb_pelt,2025,2991882,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Fin schulden LT YE2025 2.992m; tick1174
+bud_agbpelt_fin_debt_st_due_2025,agb_pelt,2025,600000,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Fin schulden LT vervallend YE2025 0.600m JUMP from 0.200m; tick1174
+bud_agbpelt_cash_2025,agb_pelt,2025,725472,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Liquide middelen YE2025 0.725m JUMP from 0.586m; tick1174
+bud_agbpelt_mva_2025,agb_pelt,2025,7422261,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,MVA YE2025 7.422m; tick1174
+bud_agbpelt_mva_buildings_2025,agb_pelt,2025,5910208,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,MVA terreinen/gebouwen bedrijfsmatig YE2025 5.910m; tick1174
+bud_agbpelt_leasing_mva_2025,agb_pelt,2025,50795,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Leasing MVA YE2025 0.051m; tick1174
+bud_agbpelt_st_nonruil_recv_2025,agb_pelt,2025,2100281,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,ST vorderingen niet-ruil YE2025 2.100m; tick1174
+bud_agbpelt_expl_rec_2025,agb_pelt,2025,2841475,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Exploitatieontvangsten 2.841m; tick1174
+bud_agbpelt_expl_exp_2025,agb_pelt,2025,1849311,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Exploitatieuitgaven 1.849m; tick1174
+bud_agbpelt_expl_saldo_2025,agb_pelt,2025,992164,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Exploitatiesaldo +0.992m; tick1174
+bud_agbpelt_omzet_werking_2025,agb_pelt,2025,2775808,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Ontvangsten uit de werking 2.776m (prijssub embedded); tick1174
+bud_agbpelt_invest_exp_2025,agb_pelt,2025,864840,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Investeringsuitgaven 0.865m UNDER vs MJP 1.535m; tick1174
+bud_agbpelt_invest_saldo_2025,agb_pelt,2025,-864840,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Investeringssaldo -0.865m; tick1174
+bud_agbpelt_repay_2025,agb_pelt,2025,200000,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Periodieke aflossingen 0.200m; tick1174
+bud_agbpelt_fin_saldo_2025,agb_pelt,2025,-200000,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Financieringssaldo -0.200m; tick1174
+bud_agbpelt_budget_result_2025,agb_pelt,2025,-72677,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Budgettair resultaat boekjaar -0.073m; tick1174
+bud_agbpelt_bbr_2025,agb_pelt,2025,2500625,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Beschikbaar BBR YE2025 2.501m; tick1174
+bud_agbpelt_afm_2025,agb_pelt,2025,792164,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,AFM +0.792m; tick1174
+bud_agbpelt_afm_gecorr_2025,agb_pelt,2025,688813,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Gecorr AFM +0.689m POS (aangewezen 0.303m); tick1174
+bud_agbpelt_pnl_2025,agb_pelt,2025,222483,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,P&L +0.222m (no dividend); tick1174
+bud_agbpelt_interest_2025,agb_pelt,2025,27301,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Rente aan andere entiteiten 0.027m (city loans); tick1174
+bud_agbpelt_depr_2025,agb_pelt,2025,768286,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,Afschrijvingen 0.768m; tick1174
+bud_agbpelt_mjp_debt_2026,agb_pelt,2025,2991882,,,BBC JR2025 primary,src_agb_pelt_jr2025,strong,MJP fin debt YE2026 path 2.992m (ST due wall 0.600m); tick1174

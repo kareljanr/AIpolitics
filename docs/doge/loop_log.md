@@ -16346,3 +16346,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1174** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1174 - 2026-08-08T04:30:00Z
+
+- Unit: **rq_1174** (FOI-adjacent residual dual - **AGB Pelt Jaarrekening 2025** Entity II fusion after city GE)
+- Found (strong primary BBC 115p RVB 28.05.2026 pub 02.06.2026; KBO **0876.186.449** NIS **72043**; Oude Markt 2; AD Peter Spooren FD Ineke Vos Voorzitter Dennis Fransen):
+  - Assets **EUR10.310m** / equity **EUR6.342m** / cash **EUR0.725m JUMP**
+  - Fin debt T4 **EUR3.592m** (LT 2.992 / **ST due EUR0.600m JUMP** from 0.200); repay **0.200m**; no new loans
+  - MVA **EUR7.422m** (gebouwen 5.910 / leasing 0.051); ST non-ruil recv **2.100m**
+  - BBR **EUR2.501m** / AFM **+EUR0.792m** / gecorr AFM **+EUR0.689m POS**
+  - Expl **EUR2.841m / 1.849m** saldo **+EUR0.992m** / werking **2.776m** (prijssub on omzet)
+  - Invest **EUR0.865m UNDER** vs MJP 1.535m; PnL **+EUR0.222m** no dividend; zero staff
+- Dual: city Pelt GE already mined tick1094 - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen / Bornem JR2024 / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Middelkerke / AGB Brasschaat / AGB Geel residual next
+- Wrote: budgets +30 (bud_agbpelt_*); commitments +6; leaderboard +8; sources +1; entity agb_pelt; FOI **gap_agb_pelt_st_due_jump_0_6m_prijssub_st_recv_l5** prio8 ready + draft; PDF primary (not committed ~2.7MB); rq_1174=done; spawn **rq_1175**; ticks=1174
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1175** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local
