@@ -31588,3 +31588,37 @@ bud_agbbrd_staff_2025,agb_bredene,2025,665400,,,BBC JR2025 primary,src_agb_brede
 bud_agbbrd_goods_2025,agb_bredene,2025,1165029,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Goederen en diensten 1.165m; tick1193
 bud_agbbrd_fin_cost_2025,agb_bredene,2025,16867,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Financiele kosten 0.017m; tick1193
 bud_agbbrd_fin_income_2025,agb_bredene,2025,38515,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Financiele opbrengsten 0.039m; tick1193
+bud_agbsob_assets_2025,agb_sob_ronse,2025,7741518,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Assets balanstotaal YE2025 7.742m DROP from 8.132m; tick1194
+bud_agbsob_equity_2025,agb_sob_ronse,2025,369636,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Nettoactief YE2025 0.370m; tick1194
+bud_agbsob_cum_pnl_2025,agb_sob_ronse,2025,-350103,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Gecumuleerd tekort YE2025 -0.350m; tick1194
+bud_agbsob_cap_subs_2025,agb_sob_ronse,2025,683409,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Kapitaalssubsidies YE2025 0.683m JUMP; tick1194
+bud_agbsob_reval_2025,agb_sob_ronse,2025,36331,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Herwaarderingsreserves YE2025 0.036m; tick1194
+bud_agbsob_debt_total_2025,agb_sob_ronse,2025,7371882,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Schulden total YE2025 7.372m; tick1194
+bud_agbsob_fin_debt_2025,agb_sob_ronse,2025,6961254,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Fin schulden YE2025 6.961m OCMW erfpacht; tick1194
+bud_agbsob_fin_debt_lt_2025,agb_sob_ronse,2025,6464022,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Fin schulden LT YE2025 6.464m DROP; tick1194
+bud_agbsob_fin_debt_st_due_2025,agb_sob_ronse,2025,497232,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Fin schulden LT vervallend YE2025 0.497m; tick1194
+bud_agbsob_cash_2025,agb_sob_ronse,2025,239292,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Liquide middelen YE2025 0.239m JUMP from 0.106m; tick1194
+bud_agbsob_st_recv_2025,agb_sob_ronse,2025,217024,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,ST vorderingen YE2025 0.217m; tick1194
+bud_agbsob_mva_2025,agb_sob_ronse,2025,7226074,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,MVA bedrijfsmatig YE2025 7.226m; tick1194
+bud_agbsob_mva_buildings_2025,agb_sob_ronse,2025,7191084,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,MVA terreinen/gebouwen YE2025 7.191m; tick1194
+bud_agbsob_expl_rec_2025,agb_sob_ronse,2025,1483678,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Exploitatieontvangsten 1.484m; tick1194
+bud_agbsob_expl_exp_2025,agb_sob_ronse,2025,1012955,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Exploitatieuitgaven 1.013m; tick1194
+bud_agbsob_expl_saldo_2025,agb_sob_ronse,2025,470722,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Exploitatiesaldo +0.471m; tick1194
+bud_agbsob_invest_exp_2025,agb_sob_ronse,2025,128289,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Investeringsuitgaven 0.128m; tick1194
+bud_agbsob_invest_rec_2025,agb_sob_ronse,2025,128289,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Investeringsontvangsten 0.128m balanced; tick1194
+bud_agbsob_invest_saldo_2025,agb_sob_ronse,2025,0,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Investeringssaldo 0; tick1194
+bud_agbsob_repay_2025,agb_sob_ronse,2025,497232,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Periodieke aflossingen erfpacht 0.497m fixed; tick1194
+bud_agbsob_new_loans_2025,agb_sob_ronse,2025,0,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Nieuwe leningen 0; tick1194
+bud_agbsob_fin_saldo_2025,agb_sob_ronse,2025,-497232,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Financieringssaldo -0.497m; tick1194
+bud_agbsob_budget_result_2025,agb_sob_ronse,2025,-26510,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Budgettair resultaat boekjaar -0.027m; tick1194
+bud_agbsob_bbr_2025,agb_sob_ronse,2025,63594,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Beschikbaar BBR YE2025 0.064m; tick1194
+bud_agbsob_afm_2025,agb_sob_ronse,2025,-26510,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,AFM -0.027m NEG; tick1194
+bud_agbsob_afm_gecorr_2025,agb_sob_ronse,2025,-125957,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Gecorr AFM -0.126m NEG DEEP; tick1194
+bud_agbsob_aangewezen_amort_2025,agb_sob_ronse,2025,596679,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Aangewezen aflossingen 0.597m (8pct); tick1194
+bud_agbsob_pnl_2025,agb_sob_ronse,2025,-514333,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,P&L -0.514m before tussenkomst; tick1194
+bud_agbsob_tussenkomst_2025,agb_sob_ronse,2025,485721,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Tussenkomst derden in tekort 0.486m; tick1194
+bud_agbsob_pnl_carry_2025,agb_sob_ronse,2025,-28611,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Over te dragen tekort -0.029m; tick1194
+bud_agbsob_staff_2025,agb_sob_ronse,2025,359890,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Personeel 0.360m; tick1194
+bud_agbsob_goods_2025,agb_sob_ronse,2025,651062,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Goederen en diensten 0.651m; tick1194
+bud_agbsob_city_werksub_2025,agb_sob_ronse,2025,0,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Werkingssubsidies ZERO; tick1194
+bud_agbsob_bc_omzet_2025,agb_sob_ronse,2025,608917,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,medium,Business Center omzet excl BTW ~0.609m (policy text); tick1194

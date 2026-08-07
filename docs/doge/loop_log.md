@@ -16683,3 +16683,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1194** residual dual L5 VL; deferred **rq_116**
 - Git: pull may be blocked by unstaged local noise - continue on local if needed
+
+### Tick 1194 - 2026-08-08T14:30:00Z
+
+- Unit: **rq_1194** (FOI-adjacent residual dual - **AGB SOB Ronse / TIO3 Jaarrekening 2025** Entity II after city GE)
+- Found (strong primary BBC 61p; KBO **0842.354.433** NIS **45041**; Grote Markt 12; Voorzitter Ignace Michaux AD Dominique Opsomer FD Jurgen Soetens):
+  - Assets **EUR7.742m DROP** / equity **EUR0.370m** / cash **EUR0.239m JUMP**
+  - Fin debt **EUR6.961m** (LT 6.464 + ST due 0.497) — **OCMW erfpacht** fixed repay **0.497m**/yr
+  - BBR **EUR0.064m** / **AFM EUR-0.027m NEG** / **gecorr AFM EUR-0.126m NEG DEEP**
+  - Expl **EUR1.484m / 1.013m** saldo **+0.471m** / invest balanced **0.128m** / **zero city werksub**
+  - PnL **EUR-0.514m** / **tussenkomst derden EUR0.486m** / over te dragen **-0.029m** / staff **0.360m** / goederen **0.651m**
+  - Business Center omzet ~**EUR0.609m** excl BTW (92% occupancy / 25 companies)
+- Dual: city Ronse GE already mined - AGB SOB dual residual closed for full BBC layer (not TE-additive)
+- Wrote: budgets +32 (bud_agbsob_*); commitments +6; leaderboard +8; sources +1; entity agb_sob_ronse; FOI **gap_agb_sob_ronse_erfpacht_debt_6_96m_afm_neg_tussenkomst_l5** prio9 ready + draft; PDF primary (not committed ~4.4MB); rq_1194=done; spawn **rq_1195**; ticks=1194
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1195** residual dual L5 VL; deferred **rq_116**
+- Git: pull may be blocked by unstaged local noise - continue on local if needed
