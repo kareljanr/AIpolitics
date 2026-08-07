@@ -16967,3 +16967,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +33; commitments +6; leaderboard +7; sources +1; entity agb_boortmeerbeek; FOI **gap_agb_bb_afm_neg_0_05m_prijssub_0_09m_city_debt_0_35m_pnl_neg_l5** prio8 ready + draft; rq_1211=done; spawn **rq_1212**; ticks=1211
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1212** residual dual L5 VL (Putte Prive full BBC still partial); deferred **rq_116**
+
+
+### Tick 1212 - 2026-08-08T23:30:00Z
+
+- Unit: **rq_1212** (FOI-adjacent residual dual - **AGB Aalter JR2025** Entity II sport/patrimonium after city GE)
+- Found (strong primary full BBC 99p GR 15.06.2026; KBO **0891.176.315**; Europalaan 22; Secr Luc Jolie FD Vicky Bonte):
+  - Assets **EUR1.346m** / equity **EUR0.600m FLAT** / cash **EUR0.531m** / MVA **EUR0.572m** (no leasing)
+  - Fin debt **EUR0.555m** (LT 0.473 + ST due 0.083) declining; new **0.089m** / repay **0.112m**
+  - Expl **EUR1.090 / 0.971m** saldo **+0.118m** / BBR **0.581m** / AFM **+0.006m THIN** / budget **EUR-0.004m**
+  - PnL **EUR+0.029m** = full div city / staff **0** / omzet **1.064m** werksub line **0**
+  - Energy nuts **EUR0.317m MASSIVE** (~35pct goods) / erfpacht **EUR0.092m flat** / building maint **0.254m**
+- Dual: city Aalter GE already mined - AGB dual residual closed for full BBC layer
+- Wrote: budgets +31; commitments +6; leaderboard +7; sources +1; entity agb_aalter; FOI **gap_agb_aalter_energy_0_32m_erfpacht_0_09m_fin_debt_0_56m_full_div_l5** prio8 ready + draft; rq_1212=done; spawn **rq_1213**; ticks=1212
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1213** residual dual L5 VL; deferred **rq_116**

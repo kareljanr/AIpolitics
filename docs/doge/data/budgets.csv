@@ -32154,3 +32154,34 @@ bud_agbb_energy_water_2025,agb_boortmeerbeek,2025,6852,,,bbc_jr_realized,src_agb
 bud_agbb_energy_total_2025,agb_boortmeerbeek,2025,41364,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Energy gas+elec+water 0.041m (~30pct goederen); tick1211
 bud_agbb_milieu_tax_2025,agb_boortmeerbeek,2025,10450,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Milieubelasting JUMP 0.010m; tick1211
 bud_agbb_st_debt_total_2025,agb_boortmeerbeek,2025,137977,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,ST schulden total 0.138m (kengetallen openstaande ST 0.142m); tick1211
+bud_agba_assets_2025,agb_aalter,2025,1345673,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Total assets YE2025 1.346m; tick1212
+bud_agba_equity_2025,agb_aalter,2025,600220,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Nettoactief/cum P&L YE2025 0.600m FLAT; tick1212
+bud_agba_debt_total_2025,agb_aalter,2025,745453,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Total schulden YE2025 0.745m; tick1212
+bud_agba_fin_debt_2025,agb_aalter,2025,555392,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Fin debt total YE2025 0.555m (kerncijfers); tick1212
+bud_agba_fin_debt_lt_2025,agb_aalter,2025,472680,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Fin schulden LT YE2025 0.473m; tick1212
+bud_agba_fin_debt_st_due_2025,agb_aalter,2025,82712,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,LT due within year YE2025 0.083m; tick1212
+bud_agba_cash_2025,agb_aalter,2025,530921,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Liquide middelen YE2025 0.531m JUMP; tick1212
+bud_agba_st_recv_2025,agb_aalter,2025,239956,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,ST vorderingen YE2025 0.240m DROP; tick1212
+bud_agba_mva_2025,agb_aalter,2025,572052,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Materiele vaste activa YE2025 0.572m; tick1212
+bud_agba_buildings_2025,agb_aalter,2025,509681,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Terreinen en gebouwen bedrijfsmatig 0.510m; tick1212
+bud_agba_expl_rec_2025,agb_aalter,2025,1089518,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Exploitatieontvangsten 1.090m; tick1212
+bud_agba_expl_exp_2025,agb_aalter,2025,971375,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Exploitatieuitgaven 0.971m; tick1212
+bud_agba_expl_saldo_2025,agb_aalter,2025,118144,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Exploitatiesaldo +0.118m; tick1212
+bud_agba_invest_exp_2025,agb_aalter,2025,99043,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Investeringsuitgaven 0.099m (vs MJP 0.427m underspend); tick1212
+bud_agba_fin_exp_repay_2025,agb_aalter,2025,111909,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Periodieke aflossingen 0.112m; tick1212
+bud_agba_fin_rec_new_loans_2025,agb_aalter,2025,89075,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Nieuwe leningen 0.089m; tick1212
+bud_agba_budget_result_2025,agb_aalter,2025,-3734,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Budgettair resultaat boekjaar -0.004m THIN NEG; tick1212
+bud_agba_bbr_2025,agb_aalter,2025,580816,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Beschikbaar budgettair resultaat BBR 0.581m; tick1212
+bud_agba_afm_2025,agb_aalter,2025,6234,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,AFM +0.006m THIN POS; tick1212
+bud_agba_gecorr_afm_2025,agb_aalter,2025,71886,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Gecorrigeerde AFM +0.072m POS (contractual > indicated); tick1212
+bud_agba_omzet_2025,agb_aalter,2025,1064195,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Opbrengsten uit de werking 1.064m; tick1212
+bud_agba_werksub_2025,agb_aalter,2025,0,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Werkingssubsidies 0 (prijssub may be in omzet FOI); tick1212
+bud_agba_goods_services_2025,agb_aalter,2025,905082,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Goederen en diensten 0.905m; tick1212
+bud_agba_energy_nuts_2025,agb_aalter,2025,317186,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Nutsvoorzieningen 0.317m MASSIVE (~35pct goods); tick1212
+bud_agba_erfpacht_2025,agb_aalter,2025,92019,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Erfpacht cost 0.092m flat multi-year; tick1212
+bud_agba_maint_buildings_2025,agb_aalter,2025,254242,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Onderhoud gebouwen 0.254m; tick1212
+bud_agba_depr_2025,agb_aalter,2025,118170,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Afschrijvingen 0.118m; tick1212
+bud_agba_pnl_2025,agb_aalter,2025,28871,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,PnL boekjaar +0.029m; tick1212
+bud_agba_div_2025,agb_aalter,2025,28871,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Full dividend = full PnL 0.029m equity flat; tick1212
+bud_agba_staff_2025,agb_aalter,2025,0,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Staff 0 (seconded/city FOI); tick1212
+bud_agba_invest_underspend_2025,agb_aalter,2025,327713,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Invest underspend ~0.328m vs MJP 0.427m; tick1212
