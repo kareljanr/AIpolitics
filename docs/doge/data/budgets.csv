@@ -29805,3 +29805,32 @@ bud_kxagb_vpb_2025,agb_koksijde,2025,194452,,,jaarrekening_realized,src_koksijde
 bud_kxagb_city_loan_st_2025,agb_koksijde,2025,200000,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Deelbalans city loan ST 0.200m imbalance FOI; tick1129
 bud_kxagb_energy_water_2025,agb_koksijde,2025,414591,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Energie+water total 0.415m; tick1129
 bud_kxagb_werkingssub_2025,agb_koksijde,2025,50,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,City werkingssubsidie only 50 EUR near-zero; tick1129
+bud_holar_assets_2025,agb_holar,2025,9033997,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Total assets YE2025 9.034m; tick1130
+bud_holar_equity_2025,agb_holar,2025,1040768,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Nettoactief YE2025 1.041m; tick1130
+bud_holar_debt_total_2025,agb_holar,2025,7993229,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Total schulden YE2025 7.993m; tick1130
+bud_holar_fin_debt_2025,agb_holar,2025,7402804,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Financiele schulden total YE2025 7.403m (LT 6.805 + ST due 0.598); tick1130
+bud_holar_fin_debt_lt_2025,agb_holar,2025,6804671,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Fin schulden LT YE2025 6.805m; tick1130
+bud_holar_fin_debt_st_due_2025,agb_holar,2025,598133,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.598m; tick1130
+bud_holar_cash_2025,agb_holar,2025,519425,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Liquide middelen YE2025 0.519m DROP (was 0.784m); tick1130
+bud_holar_cap_subs_2025,agb_holar,2025,908478,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Kapitaalsubsidies YE2025 0.908m; tick1130
+bud_holar_mva_2025,agb_holar,2025,7054141,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Materiele vaste activa YE2025 7.054m; tick1130
+bud_holar_lt_recv_city_2025,agb_holar,2025,1150000,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,LT vorderingen ruil 1.150m (city loan receivable class FOI); tick1130
+bud_holar_st_recv_loans_2025,agb_holar,2025,230000,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,LT vorderingen binnen jaar 0.230m loan recoveries class; tick1130
+bud_holar_expl_rec_2025,agb_holar,2025,779499,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Exploitatieontvangsten 0.779m; tick1130
+bud_holar_expl_exp_2025,agb_holar,2025,442882,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Exploitatieuitgaven 0.443m; tick1130
+bud_holar_expl_saldo_2025,agb_holar,2025,336618,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Exploitatiesaldo +0.337m; tick1130
+bud_holar_invest_2025,agb_holar,2025,61205,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Investeringsuitgaven 0.061m; tick1130
+bud_holar_invest_mjp_2025,agb_holar,2025,152439,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,MJP invest krediet 0.152m; tick1130
+bud_holar_invest_underspend_2025,agb_holar,2025,91234,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Invest underspend ~0.091m FOI; tick1130
+bud_holar_afm_2025,agb_holar,2025,0,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,AFM 0 EXACT engineered FOI; tick1130
+bud_holar_afm_gecorr_2025,agb_holar,2025,-66042,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Gecorrigeerde AFM -0.066m NEG FOI; tick1130
+bud_holar_bbr_2025,agb_holar,2025,0,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,BBR 0 EXACT engineered FOI; tick1130
+bud_holar_budget_result_2025,agb_holar,2025,-27,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Budgettair resultaat -27 EUR ~zero; tick1130
+bud_holar_pl_2025,agb_holar,2025,70717,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,P&L overschot +0.071m; tick1130
+bud_holar_dividend_2025,agb_holar,2025,70745,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Rechthebbenden/dividend ~full profit 0.071m FOI; tick1130
+bud_holar_omzet_2025,agb_holar,2025,731770,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Ontvangsten uit werking 0.732m; tick1130
+bud_holar_goederen_2025,agb_holar,2025,200109,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Goederen en diensten 0.200m; tick1130
+bud_holar_interest_city_2025,agb_holar,2025,92901,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Rente aan andere entiteiten (city) 0.093m FOI; tick1130
+bud_holar_new_loans_city_2025,agb_holar,2025,61177,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Nieuwe lening van gemeente 0.061m FOI; tick1130
+bud_holar_repay_city_2025,agb_holar,2025,566618,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Aflossingen aan gemeente 0.567m FOI; tick1130
+bud_holar_loan_recoveries_2025,agb_holar,2025,230000,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Terugvordering toegestane leningen 0.230m FOI; tick1130

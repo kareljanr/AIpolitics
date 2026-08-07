@@ -15550,3 +15550,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1130** residual dual L5 + **progress@1130 decade**; deferred **rq_116**
 
+
+### Tick 1130 - 2026-08-12T06:30:00Z — **PROGRESS@1130 decade**
+
+- Unit: **rq_1130** (**mandatory progress@1130** coverage A-E + waste top10; FOI-adjacent residual dual - **AGB Holar Hoeilaart Jaarrekening 2025** Entity II after city tick1074)
+- **Progress decade:** refreshed `progress_every_10_ticks.md` snapshot tick1130 + `doge_waste_top10_current.md` (pure top10 stable GIP/fossil/cars/cheque/reporté; residual 1121-1130 off pure top10)
+- Found (strong primary BBC JR2025 AGB Holar 67p text; hoeilaart.be AGB JR 2025.pdf; KBO **0816.874.414**; Jan van Ruusbroecpark 1560; AD wnd Christophe Joly FD Brecht Van den Bogaert; RvB 27 apr 2026):
+  - Assets **EUR9.034m** (was **EUR9.896m**) / equity **EUR1.041m** / debt total **EUR7.993m** / fin debt **EUR7.403m DECLINE** (LT **EUR6.805m** / ST due **EUR0.598m**; was **EUR7.908m**)
+  - New loans **EUR0.061m** (from city FOI) / repayments **EUR0.567m** to city / loan recoveries **EUR0.230m**
+  - Cash **EUR0.519m DROP FOI** (was **EUR0.784m**) / LT recv city class **EUR1.150m** + ST **EUR0.230m**
+  - Exploitatie: ontvangsten **EUR0.779m** / uitgaven **EUR0.443m** / saldo **+EUR0.337m**
+  - **AFM EUR0 EXACT FOI** / **BBR EUR0 EXACT FOI** / **gecorr AFM -EUR0.066m NEG FOI** / budget **-EUR27 ~zero**
+  - P&L **+EUR0.071m** / **dividend = ~full profit EUR0.071m FOI** (retained -EUR28)
+  - Omzet **EUR0.732m** / goederen **EUR0.200m** / **personeel EUR0** / **interest to andere entiteiten EUR0.093m** (not banks)
+  - Invest **EUR0.061m** vs MJP **EUR0.152m UNDERSPEND FOI**
+- Dual: city Hoeilaart already mined tick1074 - not TE-additive; AGB dual residual now closed
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere full JR / Brakel GE+OCMW / Puurs / AGB Galmaarden residual next; progress@1140 in 9
+- Wrote: progress@1130 + waste top10; budgets +29 (bud_holar_*); commitments +6; leaderboard +10; sources +1; entity agb_holar; FOI **gap_holar_afm_zero_debt_city_loans_dividend_l5** prio9 ready + draft; PDF primary (not committed ~1.6MB); rq_1130=done; spawn **rq_1131**; ticks=1130
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1131** residual dual L5; deferred **rq_116**; progress@1140 in 9
+

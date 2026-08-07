@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 1130** (2026-08-12)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1121-1129 + Entity II 1130: AGB Gooik / Herne / AGA Asse / Ternat / Roosdaal · **Pajottegem first fusion EUR174.3m** · **Lanaken GE+OCMW EUR200.3m** · AGB Landen · **AGB Koksijde EUR20.6m** · **AGB Holar EUR9.0m** Entity II · prior 1111-1120 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1121-1130 is VL residual dual L5 (not near-complete of 348bn):** **AGB AFM NEG / zero cluster expands** (Gooik cash CRITICAL / Herne equity ZERO BBR NEG / AGA Asse BBR NEG / Ternat equity ZERO / Roosdaal leasing debt 4.3m / **Holar AFM 0 BBR 0 gecorr −0.066m**) · **invest MASSIVE UNDERSPEND** Pajottegem **9.3 vs MJP 23.0** / AGB Landen **0.11 vs 0.94** / AGB Koksijde **0.35 vs 2.80** · **FVA reval** Lanaken IGS **EUR67.5m** · **new loans** Lanaken **EUR7.05m** · **OCMW cover FULL** Lanaken **EUR3.29m** · **parking private concession** AGB Koksijde **EUR2.26m** · **city–AGB debt shells** Holar fin debt **EUR7.40m** + circular loans · **dividend~full / >profit** pattern continues (Ternat / Roosdaal / Holar / Lanaken AGB) |
+| **E. FOI-ready gaps** | **~777** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~819** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / **Lanaken EUR200m** / **Pajottegem EUR174m** / **Koksijde city EUR330m** / prior dual stack retained not full TE) · **AGB dual debt/AFM zero-NEG** (Holar **EUR7.40m** / Koksijde AGB **EUR7.38m** / Roosdaal **EUR4.30m** / Zaventem AGB **EUR23.8m**) · **LUWA PPP EUR590m** · **Peer VitaS borg ~EUR43m contingent** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 1130)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~29835 |
+| commitments.csv | ~3804 |
+| leaderboard.csv | ~5823 |
+| entities.csv | ~852 |
+| sources.csv | ~2040 |
+| FOI ready | ~777 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~819 |
+| research_queue open | rq_116 deferred + rq_1131 hole-fill after progress |
+
+### What improved since tick 1120
+
+- **VL residual dual JR2025 (tick1121-1129):** AGB Gooik / Herne / AGA Asse / Ternat / Roosdaal · **Pajottegem first fusion GE+OCMW** · **Lanaken GE+OCMW** (after AGB 1120) · **AGB Landen** · **AGB Koksijde**.
+- **Entity II (tick1130):** **AGB Holar (Hoeilaart)** — AFM **0** / BBR **0** engineered, gecorr AFM **−EUR0.066m NEG**, fin debt **EUR7.40m** city-heavy, dividend **~full P&L EUR0.071m**, circular city loans (repay 0.57 / recover 0.23 / new 0.06), cash DROP to **EUR0.52m**.
+- **Dual map themes:** **AGB AFM zero/NEG + equity-zero + full-dividend** cluster (Holar / Ternat / Roosdaal / Lanaken AGB / Gooik) · **invest UNDERSPEND systemic** (Pajottegem massive; Koksijde AGB 9m undrawn loans; Landen) · **FVA/herwaard MASSIVE** Lanaken IGS 67.5m · **OCMW cover FULL** continues · **private parking concession** coastal AGB Koksijde · city–AGB financing cycles (Holar / Asse renteloze lening / Kalmthout).
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 1120** (2026-08-12)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
