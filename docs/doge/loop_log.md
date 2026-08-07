@@ -16699,3 +16699,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1195** residual dual L5 VL; deferred **rq_116**
 - Git: pull may be blocked by unstaged local noise - continue on local if needed
+
+### Tick 1195 - 2026-08-08T15:00:00Z
+
+- Unit: **rq_1195** (FOI-adjacent residual dual - **AGB Dendermonde Jaarrekening 2025** Entity II sport after city GE)
+- Found (strong primary BBC 72p + NBB GR uittreksel 01.07.2026; KBO **0882.924.979** NIS **42006**; Franz Courtensstraat 11; Voorzitter Nele Cleemput Secr Lien Verwaeren):
+  - Assets **EUR4.367m DROP** / equity **EUR0.220m THIN** / cash **EUR0.741m JUMP**
+  - Fin debt **EUR3.000m** (LT 2.629 + ST due 0.371); new city loans **0.343m**; repay **0.355m**
+  - BBR **EUR0.549m** / AFM **+EUR0.040m POS** / gecorr AFM **+EUR0.154m POS**
+  - Expl **EUR2.303m / 1.908m** saldo **+0.395m** / invest **0.343m** / **zero city werksub**
+  - PnL **+EUR0.152m FULL div to city** (NBB confirm balanstotaal 5.393m / winst 0.152m full extract)
+  - Staff **0.245m** / goederen **1.414m**; sport halls + zwembad Olympos
+- Dual: city Dendermonde GE already mined - AGB sport dual residual closed for full BBC layer (not TE-additive)
+- Wrote: budgets +32 (bud_agbden_*); commitments +6; leaderboard +8; sources +1; entity agb_dendermonde; FOI **gap_agb_dendermonde_debt_3_00m_full_div_0_15m_city_loans_l5** prio8 ready + draft; PDF primary (not committed ~4.9MB); rq_1195=done; spawn **rq_1196**; ticks=1195
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1196** residual dual L5 VL; deferred **rq_116**
+- Git: pull may be blocked by unstaged local noise - continue on local if needed

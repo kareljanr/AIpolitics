@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T14:30:00Z,rq_1194,1194,no,tick1194 AGB SOB Ronse dual residual OCMW erfpacht debt 7.0m AFM NEG tussenkomst FOI; next rq_1195 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T15:00:00Z,rq_1195,1195,no,tick1195 AGB Dendermonde dual residual debt 3.0m full div 0.15m city loans FOI; next rq_1196 residual dual L5 VL; rq_116 deferred; continuous hole_fill

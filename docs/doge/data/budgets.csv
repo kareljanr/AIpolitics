@@ -31622,3 +31622,34 @@ bud_agbsob_staff_2025,agb_sob_ronse,2025,359890,,,BBC JR2025 primary,src_agb_sob
 bud_agbsob_goods_2025,agb_sob_ronse,2025,651062,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Goederen en diensten 0.651m; tick1194
 bud_agbsob_city_werksub_2025,agb_sob_ronse,2025,0,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,strong,Werkingssubsidies ZERO; tick1194
 bud_agbsob_bc_omzet_2025,agb_sob_ronse,2025,608917,,,BBC JR2025 primary,src_agb_sob_ronse_jr2025,medium,Business Center omzet excl BTW ~0.609m (policy text); tick1194
+bud_agbden_assets_2025,agb_dendermonde,2025,4367142,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Assets balanstotaal YE2025 4.367m DROP from 4.496m; tick1195
+bud_agbden_equity_2025,agb_dendermonde,2025,219616,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Nettoactief YE2025 0.220m THIN DROP from 0.241m; tick1195
+bud_agbden_cum_pnl_2025,agb_dendermonde,2025,34525,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Gecumuleerd overschot YE2025 0.035m; tick1195
+bud_agbden_cap_subs_2025,agb_dendermonde,2025,150160,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Kapitaalssubsidies YE2025 0.150m; tick1195
+bud_agbden_debt_total_2025,agb_dendermonde,2025,4147526,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Schulden total YE2025 4.148m; tick1195
+bud_agbden_fin_debt_2025,agb_dendermonde,2025,3000299,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Fin schulden YE2025 3.000m; tick1195
+bud_agbden_fin_debt_lt_2025,agb_dendermonde,2025,2629029,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Fin schulden LT YE2025 2.629m; tick1195
+bud_agbden_fin_debt_st_due_2025,agb_dendermonde,2025,371270,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Fin schulden LT vervallend YE2025 0.371m; tick1195
+bud_agbden_cash_2025,agb_dendermonde,2025,740505,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Liquide middelen YE2025 0.741m JUMP from 0.517m; tick1195
+bud_agbden_st_recv_2025,agb_dendermonde,2025,898056,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,ST vorderingen YE2025 0.898m; tick1195
+bud_agbden_mva_2025,agb_dendermonde,2025,2724741,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,MVA bedrijfsmatig YE2025 2.725m; tick1195
+bud_agbden_mva_buildings_2025,agb_dendermonde,2025,1934218,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,MVA gebouwen YE2025 1.934m; tick1195
+bud_agbden_expl_rec_2025,agb_dendermonde,2025,2303044,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Exploitatieontvangsten 2.303m; tick1195
+bud_agbden_expl_exp_2025,agb_dendermonde,2025,1908385,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Exploitatieuitgaven 1.908m; tick1195
+bud_agbden_expl_saldo_2025,agb_dendermonde,2025,394659,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Exploitatiesaldo +0.395m; tick1195
+bud_agbden_invest_exp_2025,agb_dendermonde,2025,343460,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Investeringsuitgaven 0.343m; tick1195
+bud_agbden_invest_saldo_2025,agb_dendermonde,2025,-343460,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Investeringssaldo -0.343m; tick1195
+bud_agbden_new_loans_2025,agb_dendermonde,2025,343460,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Nieuwe leningen stad/andere 0.343m; tick1195
+bud_agbden_repay_2025,agb_dendermonde,2025,354785,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Periodieke aflossingen 0.355m; tick1195
+bud_agbden_fin_saldo_2025,agb_dendermonde,2025,-11325,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Financieringssaldo -0.011m; tick1195
+bud_agbden_budget_result_2025,agb_dendermonde,2025,39874,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Budgettair resultaat boekjaar +0.040m; tick1195
+bud_agbden_bbr_2025,agb_dendermonde,2025,549119,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Beschikbaar BBR YE2025 0.549m; tick1195
+bud_agbden_afm_2025,agb_dendermonde,2025,39874,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,AFM +0.040m POS; tick1195
+bud_agbden_afm_gecorr_2025,agb_dendermonde,2025,153729,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Gecorr AFM +0.154m POS; tick1195
+bud_agbden_pnl_2025,agb_dendermonde,2025,151750,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,P&L +0.152m; tick1195
+bud_agbden_dividend_2025,agb_dendermonde,2025,151750,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,FULL dividend/rechthebbenden to city 0.152m; tick1195
+bud_agbden_staff_2025,agb_dendermonde,2025,244984,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Personeel 0.245m; tick1195
+bud_agbden_goods_2025,agb_dendermonde,2025,1414051,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Goederen en diensten 1.414m; tick1195
+bud_agbden_fin_cost_2025,agb_dendermonde,2025,17274,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Financiele kosten 0.017m; tick1195
+bud_agbden_city_werksub_2025,agb_dendermonde,2025,0,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Werkingssubsidies ZERO; tick1195
+bud_agbden_nbb_assets_2025,agb_dendermonde,2025,5393392,,,NBB GR uittreksel 2025,src_agb_dendermonde_jr2025,strong,NBB balanstotaal YE2025 5.393m (GR uittreksel); tick1195
