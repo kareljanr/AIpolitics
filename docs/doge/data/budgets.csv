@@ -31840,3 +31840,31 @@ bud_agbgri_staff_2025,agb_grimbergen,2025,0,,,NBB JR2025 primary jv,src_agb_grim
 bud_agbgri_capital_2025,agb_grimbergen,2025,35000,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv maatschappelijk kapitaal 0.035m; tick1201
 bud_agbgri_provisions_2025,agb_grimbergen,2025,9018,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv voorzieningen uitgestelde belastingen 0.009m; tick1201
 bud_agbgri_city_recv_total_2025,agb_grimbergen,2025,1048728,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,Dual city receivable residual FOI; tick1201
+bud_agbtem_assets_2025,agb_patrim_temse,2025,649022,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J4 balanstotaal 0.649m; tick1202
+bud_agbtem_equity_2025,agb_patrim_temse,2025,-2746887,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J4 nettoactief NEG DEEP -2.747m; tick1202
+bud_agbtem_cum_pnl_neg_2025,agb_patrim_temse,2025,-2895437,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J4 gecumuleerd tekort -2.895m; tick1202
+bud_agbtem_debt_total_2025,agb_patrim_temse,2025,3395909,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J4 schulden total 3.396m (all ST); tick1202
+bud_agbtem_fin_debt_2025,agb_patrim_temse,2025,0,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,T4/J4 fin debt 0 (zero loans YE2025); tick1202
+bud_agbtem_st_nonfin_debt_2025,agb_patrim_temse,2025,3373509,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J4 ST non-fin ruil schulden 3.374m city-path residual FOI; tick1202
+bud_agbtem_cash_2025,agb_patrim_temse,2025,168630,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J4 cash 0.169m DROP from 0.224m; tick1202
+bud_agbtem_st_recv_2025,agb_patrim_temse,2025,215381,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J4 ST vorderingen 0.215m; tick1202
+bud_agbtem_mva_2025,agb_patrim_temse,2025,240473,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J4 MVA 0.240m JUMP (buildings other 0.228m); tick1202
+bud_agbtem_cap_subs_2025,agb_patrim_temse,2025,148550,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J4 kapitaalsubsidies 0.149m (new 2025); tick1202
+bud_agbtem_expl_rec_2025,agb_patrim_temse,2025,418932,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J2 expl ontvangsten 0.419m; tick1202
+bud_agbtem_expl_exp_2025,agb_patrim_temse,2025,375691,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J2 expl uitgaven 0.376m; tick1202
+bud_agbtem_expl_saldo_2025,agb_patrim_temse,2025,43241,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J2 exploitatiesaldo +0.043m; tick1202
+bud_agbtem_invest_exp_2025,agb_patrim_temse,2025,203149,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J2 invest 0.203m; tick1202
+bud_agbtem_invest_rec_2025,agb_patrim_temse,2025,148550,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J2 invest ontvangsten 0.149m; tick1202
+bud_agbtem_invest_saldo_2025,agb_patrim_temse,2025,-54599,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J2 invest saldo -0.055m; tick1202
+bud_agbtem_budget_result_2025,agb_patrim_temse,2025,-11358,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J2 budget year -0.011m; tick1202
+bud_agbtem_bbr_2025,agb_patrim_temse,2025,-3009679,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J2 BBR DEEP NEG -3.010m; tick1202
+bud_agbtem_afm_2025,agb_patrim_temse,2025,43241,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J2 AFM +0.043m thin POS (zero debt service); tick1202
+bud_agbtem_afm_gecorr_2025,agb_patrim_temse,2025,43241,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J2 gecorr AFM +0.043m; tick1202
+bud_agbtem_pnl_2025,agb_patrim_temse,2025,41145,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J5 overschot +0.041m retained; tick1202
+bud_agbtem_city_werksub_2025,agb_patrim_temse,2025,300000,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J5 algemene werkingssubsidies city 0.300m annual; tick1202
+bud_agbtem_omzet_2025,agb_patrim_temse,2025,125223,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J5 opbrengsten werking 0.125m; tick1202
+bud_agbtem_goederen_2025,agb_patrim_temse,2025,367458,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J5 goederen en diensten 0.367m; tick1202
+bud_agbtem_staff_2025,agb_patrim_temse,2025,0,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J5 bezoldigingen 0 zero staff; tick1202
+bud_agbtem_depr_2025,agb_patrim_temse,2025,10019,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J5 afschrijvingen 0.010m; tick1202
+bud_agbtem_new_loans_2025,agb_patrim_temse,2025,0,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,T4 nieuwe leningen 0; tick1202
+bud_agbtem_cvo_cost_note_2025,agb_patrim_temse,2025,73821,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,Toelichting CVO extract costs booked 2025 residual FOI; tick1202

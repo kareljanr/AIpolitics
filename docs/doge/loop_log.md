@@ -16816,3 +16816,18 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1202** residual dual L5 VL; deferred **rq_116**
 
+
+### Tick 1202 - 2026-08-08T18:30:00Z
+
+- Unit: **rq_1202** (FOI-adjacent residual dual - **AGB Patrimonium Temse Jaarrekening 2025** Entity II after city GE)
+- Found (strong primary BBC 100p; KBO **0881.334.773** NIS **46025**; Frans Boelplein 1; Voorzitter Bart Van Geyt):
+  - Assets **EUR0.649m** / equity **EUR-2.747m NEG DEEP** / cash **EUR0.169m DROP**
+  - Schulden **EUR3.396m** all ST (non-fin **3.374m**); **fin debt EUR0**
+  - BBR **EUR-3.010m DEEP NEG** / AFM **+EUR0.043m thin POS** (zero debt service)
+  - Expl **EUR0.419m / 0.376m** saldo **+0.043m** / city werksub **EUR0.300m** / invest **0.203m**
+  - PnL **+EUR0.041m** / staff **EUR0** / goederen **0.367m** / omzet **0.125m**
+  - Dual residual: AFM POS masks BBR/equity DEEP NEG insolvent shell
+- Wrote: budgets +28; commitments +6; leaderboard +7; sources +1; entity agb_patrim_temse; FOI **gap_agb_patrim_temse_bbr_neg_3_01m_equity_neg_city_sub_0_30m_st_debt_l5** prio9 ready + draft; rq_1202=done; spawn **rq_1203**; ticks=1202
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1203** residual dual L5 VL; deferred **rq_116**
+
