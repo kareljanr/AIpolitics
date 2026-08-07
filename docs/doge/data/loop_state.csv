@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T23:30:00Z,rq_1164,1164,no,tick1164 AGB Zele dual residual fin debt 11.24m gecorr AFM NEG leasing 3.70m prijssub 0.99m; next rq_1165 residual dual L5; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T00:00:00Z,rq_1165,1165,no,tick1165 AGB Begijnendijk dual residual AFM NEG prijssub 0.057m plant off-BS; next rq_1166 residual dual L5; rq_116 deferred; continuous hole_fill

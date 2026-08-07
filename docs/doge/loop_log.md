@@ -16194,3 +16194,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1165** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1165 - 2026-08-08T00:00:00Z
+
+- Unit: **rq_1165** (FOI-adjacent residual dual - **AGB Begijnendijk Jaarrekening 2025** Entity II sport after city GE)
+- Found (strong primary BBC 85p RVB 18.06.2026; KBO **0692.794.883**; Kerkplein 5; AD Peggy Baeten FD Didier Dascotte Voorzitter Bob Michiels):
+  - Assets **EUR0.073m** / equity **EUR0.007m** / cash **EUR0.052m** / MVA **only EUR0.004m** (plant off BS)
+  - Fin debt T4 **EUR0.052m** (LT 0.049 / ST due **0.004m**); new **0.004m**; repay **0.004m**
+  - BBR **EUR0.049m** / **AFM EUR-0.0003m NEG** / **gecorr AFM EUR-0.001m NEG** / budget **+EUR0.003m**
+  - Expl **EUR0.140m / 0.136m** saldo **+EUR0.003m** / **prijssubsidie EUR0.057m (~41pct)**
+  - PnL **+EUR0.003m** / dividend **EUR0.001m** partial; invest **0** vs MJP 0.012m; zero staff; vzw Vossekot
+- Dual: city Begijnendijk GE already mined tick1063 - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen / Bornem JR2024 / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Genk / AGB Bree residual next
+- Wrote: budgets +25 (bud_agbbeg_*); commitments +4; leaderboard +6; sources +1; entity agb_begijnendijk; FOI **gap_agb_begijnendijk_afm_neg_prijssub_thin_equity_l5** prio7 ready + draft; PDF primary (not committed ~4.9MB); rq_1165=done; spawn **rq_1166**; ticks=1165
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1166** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local

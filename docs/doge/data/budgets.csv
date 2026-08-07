@@ -30743,3 +30743,28 @@ bud_agbzele_dividend_2025,agb_zele,2025,166440,,,BBC JR2025 primary,src_agb_zele
 bud_agbzele_interest_2025,agb_zele,2025,6563,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Financiele kosten 0.007m; tick1164
 bud_agbzele_depr_2025,agb_zele,2025,523156,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Afschrijvingen 0.523m; tick1164
 bud_agbzele_vpb_2025,agb_zele,2025,33856,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Vennootschapsbelasting first-time 0.034m; tick1164
+bud_agbbeg_assets_2025,agb_begijnendijk,2025,73474,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Assets balanstotaal YE2025 0.073m; tick1165
+bud_agbbeg_equity_2025,agb_begijnendijk,2025,6559,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Nettoactief YE2025 0.007m thin (cum P&L only); tick1165
+bud_agbbeg_debt_total_2025,agb_begijnendijk,2025,66915,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Schulden total YE2025 0.067m; tick1165
+bud_agbbeg_fin_debt_2025,agb_begijnendijk,2025,52241,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Fin schulden T4 total YE2025 0.052m (LT 0.049 + ST due 0.004); tick1165
+bud_agbbeg_fin_debt_lt_2025,agb_begijnendijk,2025,48717,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Fin schulden LT YE2025 0.049m; tick1165
+bud_agbbeg_fin_debt_st_due_2025,agb_begijnendijk,2025,3524,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Fin schulden LT vervallend YE2025 0.004m; tick1165
+bud_agbbeg_cash_2025,agb_begijnendijk,2025,51917,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Liquide middelen YE2025 0.052m; tick1165
+bud_agbbeg_mva_2025,agb_begijnendijk,2025,3741,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,MVA bedrijfsmatig YE2025 0.004m only (equipment; plant not on AGB BS); tick1165
+bud_agbbeg_expl_rec_2025,agb_begijnendijk,2025,139562,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Exploitatieontvangsten 0.140m; tick1165
+bud_agbbeg_expl_exp_2025,agb_begijnendijk,2025,136351,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Exploitatieuitgaven 0.136m; tick1165
+bud_agbbeg_expl_saldo_2025,agb_begijnendijk,2025,3211,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Exploitatiesaldo +0.003m; tick1165
+bud_agbbeg_prijssub_2025,agb_begijnendijk,2025,56637,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Prijssubsidie gemeente 0.057m (~41pct of expl rec); tick1165
+bud_agbbeg_invest_exp_2025,agb_begijnendijk,2025,0,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Investeringsuitgaven 0 (MJP 0.012m underspend); tick1165
+bud_agbbeg_fin_rec_2025,agb_begijnendijk,2025,3500,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Financieringsontvangsten/new loans 0.004m; tick1165
+bud_agbbeg_fin_exp_2025,agb_begijnendijk,2025,3524,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Periodieke aflossingen 0.004m; tick1165
+bud_agbbeg_fin_saldo_2025,agb_begijnendijk,2025,-24,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Financieringssaldo -0.000m; tick1165
+bud_agbbeg_new_loans_2025,agb_begijnendijk,2025,3500,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Nieuwe leningen T4 0.004m; tick1165
+bud_agbbeg_aflossingen_2025,agb_begijnendijk,2025,3524,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Aflossingen T4 0.004m; tick1165
+bud_agbbeg_budget_result_2025,agb_begijnendijk,2025,3187,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Budgettair resultaat boekjaar +0.003m; tick1165
+bud_agbbeg_bbr_2025,agb_begijnendijk,2025,49348,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,BBR 0.049m; tick1165
+bud_agbbeg_afm_2025,agb_begijnendijk,2025,-313,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,AFM -0.0003m NEG; tick1165
+bud_agbbeg_afm_gecorr_2025,agb_begijnendijk,2025,-970,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Gecorr AFM -0.001m NEG (aangewezen 0.004m); tick1165
+bud_agbbeg_pnl_2025,agb_begijnendijk,2025,3399,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,P&L +0.003m; tick1165
+bud_agbbeg_dividend_2025,agb_begijnendijk,2025,850,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Dividend to city 0.001m (partial of PnL); tick1165
+bud_agbbeg_interest_2025,agb_begijnendijk,2025,124,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Financiele kosten 0.0001m; tick1165
