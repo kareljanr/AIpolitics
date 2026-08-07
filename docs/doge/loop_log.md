@@ -17089,3 +17089,14 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_1222** residual dual L5 VL; deferred **rq_116**
 
+
+## Tick 1222 — 2026-08-09T04:30:00Z — rq_1222 AGB Zandhoven dual residual JR2025
+
+- Unit: **rq_1222** (residual dual L5 VL — **AGB Zandhoven full BBC JR2025** after city GE tick1029)
+- Primary: https://zandhoven-echo.cipalschaubroeck.be/raadpleegomgeving/document/1b68cd3e-c860-4246-a56b-194154a0da68 (58p); KBO **0847.208.490**; AD Annick Smeets FD wnd Paul Lenaerts
+- Key € (strong): **equity ZERO** · **full div=PnL 0.023m** · **AFM −0.002m NEG** · **gecorr AFM −0.004m NEG** · budget **−0.002m** · BBR **0.029m** · **fin debt 0.915m** city renteloos · cash **0.189m JUMP** · assets **1.118m** · **prijssub ~0.270m** · staff **0**
+- Dual: city Zandhoven GE already mined — AGB dual residual closed for full BBC layer
+- Wrote: budgets +22; commitments +7; leaderboard +7; sources +1; entity **agb_zandhoven**; FOI **gap_agb_zan_equity_zero_full_div_0_02m_afm_neg_city_renteloos_prijssub_0_27m_l5** prio9 ready + draft; rq_1222=done; spawn **rq_1223**; ticks=1222
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_1223** residual dual L5 VL; deferred **rq_116**
+

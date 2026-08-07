@@ -1,2 +1,2 @@
-state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T04:00:00Z,rq_1221,1221,no,tick1221 AGB Putte Prive dual city J2 AFM -0.01m BBR 0.05m renteloos 0.17m borg 0.55m full BBC FOI; next rq_1222 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
+main,continuous,hole_fill,2026-08-09T04:30:00Z,rq_1222,1222,no,tick1222 AGB Zandhoven full BBC equity ZERO full div 0.023m AFM NEG debt 0.915m prijssub 0.27m FOI; next rq_1223 residual dual L5 VL; rq_116 deferred; continuous hole_fill
