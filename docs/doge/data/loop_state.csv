@@ -1,2 +1,2 @@
-state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T21:00:00Z,rq_1159,1159,no,tick1159 AGB Veurne dual residual BTW sporthal 1.15m+ gecorr AFM NEG prefin 4.49m; next rq_1160 residual dual L5; rq_116 deferred; continuous hole_fill
+﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
+main,continuous,hole_fill,2026-08-07T21:30:00Z,rq_1160,1160,no,tick1160 AGB Zottegem dual residual prijssub 1.48m gecorr AFM NEG leasing 6.07m debt 11.45m; next rq_1161 residual dual L5; rq_116 deferred; continuous hole_fill

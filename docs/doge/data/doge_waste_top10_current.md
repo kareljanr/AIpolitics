@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **1150** (2026-08-07) · **~6006** leaderboard rows  
+**As-of:** tick **1160** (2026-08-07) · **~6083** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,9 +27,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / **Bilzen-Hoeselt €330m** / dual stack retained) · **AGB dual AFM NEG + debt + city-loan shells** (Arendonk **€11.1m** gecorr NEG · ETIZ **€13.0m** + ST due **€4.97m** · Boom Plus **€24.6m** equity NEG · Bocholt **€14.1m** BBR deep NEG · Zaventem AGB **€23.8m** · Holar **€7.40m** · **AGIZ leasing €4.63m** liquidatie provisie **€0.44m** equity NEG) · **LUWA PPP €590m** · **Peer VitaS borg ~€43m contingent** · private gambling stakes **€31.5bn** market · city debt/MJP/loan/pension/OCMW stocks retained.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** (KUL **€3.4bn** / Brugge **€1.46bn** / **Bilzen-Hoeselt €330m** / dual stack retained) · **AGB dual AFM NEG + debt + leasing/city-loan shells** (Zottegem **€11.45m** debt / **€6.07m** leasing · Veurne prefin **€4.49m** + BTW **€1.15m** · Arendonk **€11.1m** · ETIZ **€13.0m** · Boom Plus **€24.6m** · Bocholt **€14.1m** · Zaventem AGB **€23.8m**) · **LUWA PPP €590m** · **Peer VitaS borg ~€43m contingent** · private gambling stakes **€31.5bn** market · city debt/MJP/loan/pension/OCMW stocks retained.
 
-**Change vs tick 1140:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 1141–1150 (off pure top10 / dual):** **Bilzen-Hoeselt** first fusion **€330m** budget −14.5m invest underspend · **Brakel** OCMW AFM NEG · **Puurs/ZKKB** P&L deep NEG recon · **AGB Arendonk** renteloze city loan shell **€11.1m** gecorr AFM **−0.46m NEG** equity thin · Herentals AGB pat cash CRITICAL · docs-only FOI stack Erpe-Mere/Vorselaar. Gain is **fusion shells + OCMW NEG + city–AGB loan shells** more than FFS reshuffle.
+**Change vs tick 1150:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 1151–1160 (off pure top10 / dual):** **AGB Veurne** BTW sporthal **€1.15m+** + prefin **€4.49m** gecorr AFM **−0.29m** · **AGB Zottegem** prijssub **€1.48m** + leasing **€6.07m** + debt **€11.45m** gecorr AFM **−0.41m** full dividend while AFM NEG · Lommel Pat equity NEG FVA · AGOST BBR/AFM DEEP NEG · Zoersel cash CRITICAL · Schilde leasing dividend JUMP. Gain is **BTW litigation + prijssub/leasing shells** more than FFS reshuffle.
 
 ### Just outside top 10 (often relevant)
 
@@ -39,14 +39,13 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | — | `lb_owv_sub_snowball_27bn_2083` | **stock-as-ann** | **8.55** | STOCK filtered eoy2083 |
 | — | `lb_vl_gsc_pv_legacy_7_078bn` | **~708 m** class | **8.05** | GSC PV legacy oversubsidy |
 | — | `lb_fed_consultancy_2_5bn_coa` | **~842 m/yr** | **8.00** | CoA 2.525bn/3y |
-| — | `lb_agbare_gecorr_afm_neg_0_46m_2025` | **0.46 m** | **~6.2** | **NEW 1150** AGB Arendonk gecorr AFM NEG |
-| — | `lb_agbare_fin_debt_11_1m_2025` | **11.1 m stock** | **~5.6** | **NEW 1150** renteloze city loan shell |
-| — | `lb_blz_budget_neg_14_5m_2025` / `lb_bh_budget_neg_14_5m_2025` | **~14.5 m** | **~6.5** | **1149** Bilzen-Hoeselt budget NEG |
+| — | `lb_agbzot_fin_debt_11_45m_2025` | **11.45 m stock** | **~6.3** | **NEW 1160** AGB Zottegem debt |
+| — | `lb_agbzot_leasing_mva_6_07m_2025` | **6.07 m stock** | **~6.2** | **NEW 1160** leasing shell |
+| — | `lb_agbzot_prijssub_1_48m_2025` | **1.48 m** | **~6.0** | **NEW 1160** city prijs subsidy |
+| — | `lb_agbveurne_btw_sporthal_1_15m_2025` | **1.15 m** | **~6.8** | **NEW 1159** BTW sporthal dispute |
+| — | `lb_agbare_gecorr_afm_neg_0_46m_2025` | **0.46 m** | **~6.2** | **1150** AGB Arendonk gecorr AFM NEG |
 | — | `lb_etiz_st_due_4_97m_2025` | **~5.0 m** | **~7.1** | **1139** ETIZ ST refinance wall |
-| — | `lb_etiz_fin_debt_13_0m_2025` | **13.0 m stock** | **~6.9** | **1139** municipal DSO debt |
 | — | `lb_abp_afm_deep_neg_equity_neg` | **stock** | **~7.0** | **1132** Boom Plus equity NEG |
-| — | `lb_agb_bbr_deep_neg` | **stock** | **~6.5** | **1135** Bocholt BBR deep NEG |
-| — | `lb_agiz_liquidatie_provisie_0_44m_2025` | **0.44 m** | **~6.4** | **1140** VAT wind-up |
 | — | `lb_paj_invest_underspend_13_7m_2025` | **~13.7 m** | **~6.5** | **1126** fusion invest UNDERSPEND |
 
 ### High-absurdity shortlist (not pure annual cost rank)
@@ -57,5 +56,7 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_vl_wassalon_podcast` | **9.5** | VL gelijke kansen vodcast |
 | `lb_agiz_liquidatie_provisie_0_44m_2025` | **9.5** | free museum VAT clawback |
 | `lb_etiz_st_due_4_97m_2025` | **9.5** | 1y debt wall |
-| `lb_agbare_gecorr_afm_neg_0_46m_2025` | **8.5** | **NEW 1150** thin AFM hides NEG gecorr |
+| `lb_agbveurne_btw_sporthal_1_15m_2025` | **9.0** | **NEW 1159** open BTW litigation |
+| `lb_agbzot_gecorr_afm_neg_0_41m_2025` | **8.5** | **NEW 1160** thin AFM hides NEG gecorr |
+| `lb_agblommelp_equity_neg_0_34m_2025` | **9.0** | **1158** NEG equity FVA shell |
 | `lb_isi_bank_inquiry_1_57pct_recovery` | **9.0** | Bank-inquiry recovery 1.57% |

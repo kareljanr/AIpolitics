@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 1160** (2026-08-07)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual Entity II 1151-1160: Merksplas Hofeind · Kontich · Essen · Schilde · Zoersel · AGOST Sint-Truiden · Schoten · Lommel Pat · **Veurne AGB EUR14.0m** BTW sporthal · **Zottegem AGB EUR13.1m** prijssub/leasing · prior 1141-1150 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1151-1160 is VL residual dual L5 (not near-complete of 348bn):** **BTW litigation** Veurne sporthal **EUR1.15m+** · **prijssub+leasing shells** Zottegem **EUR1.48m** sub + **EUR6.07m** leasing / **EUR11.45m** debt gecorr AFM **−0.41m** · Lommel Pat equity **NEG** FVA shell · AGOST BBR/AFM **DEEP NEG** · Zoersel equity thin/cash CRITICAL · Schilde leasing dividend JUMP · Schoten ST non-ruil **EUR2.06m** · prior Arendonk/fusion/Brakel stack retained |
+| **E. FOI-ready gaps** | **~803** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~850+** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / **Bilzen-Hoeselt EUR330m** / dual stack retained not full TE) · **AGB dual debt/AFM NEG + city-loan/leasing shells** (Zottegem **EUR11.45m** debt / **EUR6.07m** leasing · Veurne prefin **EUR4.49m** + BTW **EUR1.15m** · Arendonk **EUR11.1m** · ETIZ **EUR13.0m** / Boom Plus **EUR24.6m** / Bocholt **EUR14.1m** / Zaventem AGB **EUR23.8m**) · **LUWA PPP EUR590m** · **Peer VitaS borg ~EUR43m contingent** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 1160)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~30617 |
+| commitments.csv | ~3983 |
+| leaderboard.csv | ~6083 |
+| entities.csv | ~884 |
+| sources.csv | ~2072 |
+| FOI ready | ~803 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~850+ |
+| research_queue open | rq_116 deferred + rq_1161 hole-fill after progress |
+
+### What improved since tick 1150
+
+- **VL residual dual JR2025 Entity II (tick1151-1159):** Merksplas Hofeind BBR NEG · Kontich city-loan shell · Essen AFM NEG · Schilde leasing/dividend JUMP · Zoersel equity thin cash CRITICAL · **AGOST Sint-Truiden** BBR/AFM DEEP NEG · Schoten ST non-ruil 2.06m · Lommel Pat equity NEG FVA shell · **AGB Veurne** BTW sporthal **1.15m+** prefin **4.49m** gecorr AFM **−0.29m**.
+- **Entity II (tick1160):** **AGB Zottegem** — city **prijssubsidie EUR1.48m** (+BTW uplift) · fin debt **EUR11.45m** · leasing MVA **EUR6.07m** · gecorr AFM **−EUR0.41m NEG** · full dividend = PnL while AFM NEG · cash DROP **0.56→0.11m**.
+- **Dual map themes:** **BTW litigation on AGB plant** (Veurne sporthal) · **prijssubsidie + leasing shells** (Zottegem) · **NEG equity / FVA shells** (Lommel Pat) · **gecorr AFM hides thin BBR** · **full dividend while AFM NEG**.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 1150** (2026-08-07)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

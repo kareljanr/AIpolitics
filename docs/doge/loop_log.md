@@ -16101,3 +16101,28 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1160** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise (AGENTS.md/README/raw deletes) - continued on local
+
+### Tick 1160 - 2026-08-07T21:30:00Z
+
+- Unit: **rq_1160** (FOI-adjacent residual dual - **AGB Zottegem Jaarrekening 2025** Entity II sport/culture after city GE)
+- Found (strong primary BBC 216p kengetallen+J2/J4/J5/T4; KBO **0807.465.117** NIS **41081**; Markt 1; AD wnd Sandra De Roeck FD Marnic Fort Voorzitter Brecht Cassiman; afdruk 12.03.2026):
+  - Assets **EUR13.051m** / equity **EUR0.981m** / cash **EUR0.107m DROP** (was 0.558m)
+  - Fin debt T4 **EUR11.450m** (LT 10.920 / ST due **0.530m**); new **0.140m**; repay **0.555m**; interest **0.073m**
+  - **Leasing MVA EUR6.065m** shell of MVA 12.258m; buildings 5.892m
+  - BBR **EUR0.303m** / AFM **-EUR0.014m NEG** / **gecorr AFM EUR-0.408m NEG CRITICAL** / budget **-EUR0.014m**
+  - Expl **EUR2.344m / 1.803m** saldo **+EUR0.541m** / **prijssubsidie city EUR1.480m** (+0.135m vs budget; +6pct BTW city)
+  - PnL **+EUR0.044m** / **full dividend EUR0.044m** to city while AFM NEG; personnel 0.587m
+- Dual: city Zottegem GE already mined tick869 - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen login / Bornem JR2024 only / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Genk residual next
+- Wrote: budgets +34 (bud_agbzot_*); commitments +6; leaderboard +7; sources +1; entity agb_zottegem; FOI **gap_agb_zottegem_prijssub_gecorr_afm_neg_leasing_debt_l5** prio9 ready + draft; PDF primary (not committed ~4.3MB); rq_1160=done; spawn **rq_1161**; ticks=1160
+- FOI: ready only - **do not send**
+- Progress: ticks=1160 multiple of 10 - will refresh progress + waste top10
+- Next: prio5 **rq_1161** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local
+
+### Progress @ tick 1160
+
+- Refreshed progress_every_10_ticks.md (snapshot 1160) + doge_waste_top10_current.md
+- Pure annual waste top10 stable (GIP/fossil/cars/cheque/reporté)
+- Inventory: budgets ~30617 · lb ~6083 · FOI ready ~803 · entities ~884
+- Residual dual gain 1151-1160: Veurne BTW/prefin · Zottegem prijssub/leasing · Lommel Pat · AGOST · Zoersel cluster

@@ -30582,3 +30582,37 @@ bud_agbveurne_interest_2025,agb_veurne,2025,16736,,,BBC JR2025 primary,src_agb_v
 bud_agbveurne_depr_2025,agb_veurne,2025,557732,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Afschrijvingen/voorzieningen 0.558m; tick1159
 bud_agbveurne_btw_sporthal_claim_2025,agb_veurne,2025,1150092,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,BTW sporthal dispute principal 1.150m FOI (excl 0.115m boeten + 0.184m intresten); tick1159
 bud_agbveurne_btw_new_claim_2025,agb_veurne,2025,43870,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,BTW navordering PV 03.11.2025 0.044m + 10pct boete FOI; tick1159
+bud_agbzot_assets_2025,agb_zottegem,2025,13051447,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Assets balanstotaal YE2025 13.051m; tick1160
+bud_agbzot_equity_2025,agb_zottegem,2025,981412,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Nettoactief YE2025 0.981m; tick1160
+bud_agbzot_cum_pnl_2025,agb_zottegem,2025,141738,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Gecumuleerd overschot YE2025 0.142m flat (full dividend); tick1160
+bud_agbzot_debt_total_2025,agb_zottegem,2025,12070035,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Schulden total YE2025 12.070m; tick1160
+bud_agbzot_fin_debt_2025,agb_zottegem,2025,11450232,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Fin schulden T4 total YE2025 11.450m (LT 10.920 + ST due 0.530); tick1160
+bud_agbzot_fin_debt_lt_2025,agb_zottegem,2025,10920407,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Fin schulden LT YE2025 10.920m; tick1160
+bud_agbzot_fin_debt_st_due_2025,agb_zottegem,2025,529825,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Fin schulden LT vervallend YE2025 0.530m; tick1160
+bud_agbzot_cash_2025,agb_zottegem,2025,106796,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Liquide middelen YE2025 0.107m DROP from 0.558m YE2024; tick1160
+bud_agbzot_mva_2025,agb_zottegem,2025,12257532,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,MVA bedrijfsmatig YE2025 12.258m; tick1160
+bud_agbzot_leasing_mva_2025,agb_zottegem,2025,6065375,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Leasing MVA YE2025 6.065m shell-heavy; tick1160
+bud_agbzot_mva_buildings_2025,agb_zottegem,2025,5892071,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,MVA terreinen/gebouwen YE2025 5.892m; tick1160
+bud_agbzot_st_nonruil_recv_2025,agb_zottegem,2025,503879,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,ST vorderingen niet-ruil YE2025 0.504m; tick1160
+bud_agbzot_st_recv_total_2025,agb_zottegem,2025,646558,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,ST vorderingen total YE2025 0.647m; tick1160
+bud_agbzot_cap_subs_2025,agb_zottegem,2025,822369,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Kapitaalssubsidies YE2025 0.822m; tick1160
+bud_agbzot_expl_rec_2025,agb_zottegem,2025,2344121,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Exploitatieontvangsten 2.344m; tick1160
+bud_agbzot_expl_exp_2025,agb_zottegem,2025,1802979,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Exploitatieuitgaven 1.803m; tick1160
+bud_agbzot_expl_saldo_2025,agb_zottegem,2025,541142,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Exploitatiesaldo +0.541m; tick1160
+bud_agbzot_prijssub_2025,agb_zottegem,2025,1480460,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Prijssubsidie gemeente 1.480m (+0.135m vs budget; +6pct BTW city); tick1160
+bud_agbzot_personnel_2025,agb_zottegem,2025,586990,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Personeelskosten P&L 0.587m; tick1160
+bud_agbzot_invest_exp_2025,agb_zottegem,2025,139900,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Investeringsuitgaven 0.140m (underspend vs MJP 1.395m); tick1160
+bud_agbzot_invest_saldo_2025,agb_zottegem,2025,-139900,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Investeringssaldo -0.140m; tick1160
+bud_agbzot_fin_rec_2025,agb_zottegem,2025,139900,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Financieringsontvangsten/new loans 0.140m; tick1160
+bud_agbzot_fin_exp_2025,agb_zottegem,2025,555084,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Periodieke aflossingen 0.555m; tick1160
+bud_agbzot_fin_saldo_2025,agb_zottegem,2025,-415184,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Financieringssaldo -0.415m; tick1160
+bud_agbzot_new_loans_2025,agb_zottegem,2025,139900,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Nieuwe leningen T4 0.140m; tick1160
+bud_agbzot_aflossingen_2025,agb_zottegem,2025,555084,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Aflossingen T4 0.555m; tick1160
+bud_agbzot_budget_result_2025,agb_zottegem,2025,-13942,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Budgettair resultaat boekjaar -0.014m; tick1160
+bud_agbzot_bbr_2025,agb_zottegem,2025,303462,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,BBR 0.303m; tick1160
+bud_agbzot_afm_2025,agb_zottegem,2025,-13942,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,AFM -0.014m NEG; tick1160
+bud_agbzot_afm_gecorr_2025,agb_zottegem,2025,-408091,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Gecorr AFM -0.408m NEG CRITICAL (aangewezen 0.949m); tick1160
+bud_agbzot_pnl_2025,agb_zottegem,2025,44155,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,P&L winst 0.044m; tick1160
+bud_agbzot_dividend_2025,agb_zottegem,2025,44155,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Uitgekeerd dividend = full profit 0.044m to city; tick1160
+bud_agbzot_interest_2025,agb_zottegem,2025,72981,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Intresten leningen+leasing 0.073m; tick1160
+bud_agbzot_depr_2025,agb_zottegem,2025,553712,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Afschrijvingen/voorzieningen 0.554m; tick1160
