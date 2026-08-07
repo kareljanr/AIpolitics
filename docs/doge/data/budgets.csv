@@ -31722,3 +31722,33 @@ bud_agsa_dividend_2025,agsa_aalst,2025,0,,,BBC JR2025 primary,src_agsa_aalst_jr2
 bud_agsa_staff_2025,agsa_aalst,2025,828377,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Personeel 0.828m JUMP from 0.688m; tick1197
 bud_agsa_goods_2025,agsa_aalst,2025,248045,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Goederen en diensten 0.248m; tick1197
 bud_agsa_asset_sale_loss_2025,agsa_aalst,2025,125287,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Minderwaarden vaste activa 0.125m; tick1197
+bud_agbgb_assets_2025,agb_geraardsbergen,2025,5830828,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Assets balanstotaal YE2025 5.831m; tick1198
+bud_agbgb_equity_2025,agb_geraardsbergen,2025,404449,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Nettoactief YE2025 0.404m thin; tick1198
+bud_agbgb_cum_pnl_2025,agb_geraardsbergen,2025,359666,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Gecumuleerd overschot YE2025 0.360m; tick1198
+bud_agbgb_debt_total_2025,agb_geraardsbergen,2025,5426378,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Schulden total YE2025 5.426m; tick1198
+bud_agbgb_fin_debt_2025,agb_geraardsbergen,2025,4249194,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Fin schulden YE2025 4.249m; tick1198
+bud_agbgb_fin_debt_lt_2025,agb_geraardsbergen,2025,4048191,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Fin schulden LT YE2025 4.048m; tick1198
+bud_agbgb_fin_debt_st_due_2025,agb_geraardsbergen,2025,201003,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Fin schulden LT vervallend YE2025 0.201m; tick1198
+bud_agbgb_cash_2025,agb_geraardsbergen,2025,937377,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Liquide middelen YE2025 0.937m; tick1198
+bud_agbgb_st_recv_2025,agb_geraardsbergen,2025,416494,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,ST vorderingen YE2025 0.416m; tick1198
+bud_agbgb_st_debt_2025,agb_geraardsbergen,2025,1378187,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,ST schulden YE2025 1.378m; tick1198
+bud_agbgb_mva_2025,agb_geraardsbergen,2025,4452005,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Materiele vaste activa YE2025 4.452m; tick1198
+bud_agbgb_mva_leasing_2025,agb_geraardsbergen,2025,4004935,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,MVA leasing YE2025 4.005m ~90pct of MVA; tick1198
+bud_agbgb_erfpacht_offbal_2025,agb_geraardsbergen,2025,5565621,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Off-balance erfpacht Sporthal De Veldmuis 5.566m; tick1198
+bud_agbgb_expl_rec_2025,agb_geraardsbergen,2025,1471928,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Exploitatieontvangsten 1.472m; tick1198
+bud_agbgb_expl_exp_2025,agb_geraardsbergen,2025,1214177,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Exploitatieuitgaven 1.214m; tick1198
+bud_agbgb_expl_saldo_2025,agb_geraardsbergen,2025,257751,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Exploitatiesaldo +0.258m; tick1198
+bud_agbgb_city_prijssub_2025,agb_geraardsbergen,2025,760484,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Prijssubsidie stad 0.760m; tick1198
+bud_agbgb_invest_exp_2025,agb_geraardsbergen,2025,175469,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Investeringsuitgaven 0.175m; tick1198
+bud_agbgb_invest_saldo_2025,agb_geraardsbergen,2025,-175469,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Investeringssaldo -0.175m; tick1198
+bud_agbgb_new_loans_2025,agb_geraardsbergen,2025,175469,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Nieuwe leningen 0.175m (other entities/city path); tick1198
+bud_agbgb_repay_2025,agb_geraardsbergen,2025,206157,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Periodieke aflossingen 0.206m; tick1198
+bud_agbgb_fin_saldo_2025,agb_geraardsbergen,2025,-30688,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Financieringssaldo -0.031m; tick1198
+bud_agbgb_budget_result_2025,agb_geraardsbergen,2025,51594,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Budgettair resultaat boekjaar +0.052m; tick1198
+bud_agbgb_bbr_2025,agb_geraardsbergen,2025,671613,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Beschikbaar BBR YE2025 0.672m; tick1198
+bud_agbgb_afm_2025,agb_geraardsbergen,2025,51594,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,AFM +0.052m POS; tick1198
+bud_agbgb_afm_gecorr_2025,agb_geraardsbergen,2025,-84639,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Gecorr AFM -0.085m NEG; tick1198
+bud_agbgb_pnl_2025,agb_geraardsbergen,2025,363732,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,P&L winst 0.364m; tick1198
+bud_agbgb_dividend_2025,agb_geraardsbergen,2025,290986,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Dividend to city 0.291m ~80pct of profit; tick1198
+bud_agbgb_staff_2025,agb_geraardsbergen,2025,0,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Bezoldigingen 0 zero staff on AGB books; tick1198
+bud_agbgb_goods_2025,agb_geraardsbergen,2025,913687,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Goederen en diensten J5 0.914m; tick1198

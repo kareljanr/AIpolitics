@@ -16748,3 +16748,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1198** residual dual L5 VL; deferred **rq_116**
 - Git: pull may be blocked by unstaged local noise - continue on local if needed
+
+### Tick 1198 - 2026-08-08T16:30:00Z
+
+- Unit: **rq_1198** (FOI-adjacent residual dual - **AGB Geraardsbergen Jaarrekening 2025** Entity II after city GE tick858)
+- Found (strong primary BBC 79p; KBO **0879.188.796** NIS **41018**; Weverijstraat 20; Voorzitter Fernand Van Trimpont FD Julie Somers):
+  - Assets **EUR5.831m** / equity thin **EUR0.404m** / cash **EUR0.937m** / schulden total **EUR5.426m**
+  - Fin debt **EUR4.249m** (LT 4.048 + ST due 0.201); new loans **0.175m** (other entities / city path); repay **0.206m**; **0 interest** on loans
+  - Leasing MVA **EUR4.005m** (~90pct of MVA); off-balance erfpacht Sporthal De Veldmuis **EUR5.566m**
+  - BBR **EUR0.672m** / AFM **+EUR0.052m** / **gecorr AFM EUR-0.085m NEG**
+  - Expl **EUR1.472m / 1.214m** saldo **+0.258m** / city **prijssubsidie EUR0.760m** / budget year **+0.052m**
+  - PnL **EUR0.364m** / **dividend to city EUR0.291m** (~80pct) / **staff EUR0** / goederen **0.914m**
+  - Ops: CC De Abdij, Sporthal De Veldmuis/Grimminge, Jeugdcentrum De Spiraal, Parking Den Bleek, bib, wieler-events
+- Dual: city Geraardsbergen GE tick858 - AGB dual residual closed for full BBC layer (not TE-additive)
+- Wrote: budgets +30 (bud_agbgb_*); commitments +6; leaderboard +7; sources +1; entity agb_geraardsbergen; FOI **gap_agb_geraardsbergen_prijssub_0_76m_leasing_4m_gecorr_afm_neg_div_0_29m_l5** prio8 ready + draft; PDF primary (not committed ~2.4MB); rq_1198=done; spawn **rq_1199**; ticks=1198
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1199** residual dual L5 VL; deferred **rq_116**
+- Git: pull may be blocked by unstaged local noise - continue on local if needed
