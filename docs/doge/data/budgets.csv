@@ -31987,3 +31987,35 @@ bud_agboud_reserve_add_2025,agb_oudsbergen,2025,8231,,,NBB JR2025 primary,src_ag
 bud_agboud_energy_2025,agb_oudsbergen,2025,239340,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB electricity+gas+stookolie ~0.239m (153+66+21); tick1206
 bud_agboud_staff_2025,agb_oudsbergen,2025,0,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB no bezoldigingen VTE; uitzend 0; zero staff residual; tick1206
 bud_agboud_interest_2025,agb_oudsbergen,2025,317,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB financiele kosten ~0 (city 0% interest class residual FOI); tick1206
+bud_agbhal_assets_2025,agb_halen,2025,678873,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,J4 balanstotaal 0.679m DROP from 0.792m; tick1207
+bud_agbhal_equity_2025,agb_halen,2025,-216836,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,J4 nettoactief NEG -0.217m; tick1207
+bud_agbhal_cum_pnl_neg_2025,agb_halen,2025,-218236,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,J4 gecumuleerd tekort -0.218m; tick1207
+bud_agbhal_cap_subs_2025,agb_halen,2025,1400,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,J4 kapitaalsubsidies thin 0.001m; tick1207
+bud_agbhal_cash_2025,agb_halen,2025,47265,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,J4/kengetallen cash 0.047m THIN; tick1207
+bud_agbhal_st_recv_2025,agb_halen,2025,98616,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,J4 ST vorderingen 0.099m; tick1207
+bud_agbhal_mva_2025,agb_halen,2025,531424,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,J4 MVA bedrijfsmatig 0.531m; tick1207
+bud_agbhal_mva_buildings_2025,agb_halen,2025,405281,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,J4 buildings 0.405m; tick1207
+bud_agbhal_debt_total_2025,agb_halen,2025,895710,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,J4 schulden ~0.896m (ST 0.284 + LT 0.611); tick1207
+bud_agbhal_fin_debt_2025,agb_halen,2025,678707,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,T4/kengetallen fin debt 0.679m city-path; tick1207
+bud_agbhal_fin_debt_lt_2025,agb_halen,2025,611275,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,J4/T4 fin debt LT 0.611m; tick1207
+bud_agbhal_fin_debt_st_due_2025,agb_halen,2025,67432,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,J4/T4 ST due 0.067m; tick1207
+bud_agbhal_new_loans_2025,agb_halen,2025,51541,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,Toelichting city toegestane lening = invest 0.052m; tick1207
+bud_agbhal_repay_2025,agb_halen,2025,70692,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,Toelichting/kengetallen periodieke aflossingen 0.071m; tick1207
+bud_agbhal_expl_rec_2025,agb_halen,2025,509613,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,Toelichting/J2 expl ontvangsten 0.510m; tick1207
+bud_agbhal_expl_exp_2025,agb_halen,2025,453142,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,Toelichting expl uitgaven budget 0.453m; tick1207
+bud_agbhal_expl_saldo_2025,agb_halen,2025,56471,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,Toelichting exploitatiesaldo +0.056m; tick1207
+bud_agbhal_invest_exp_2025,agb_halen,2025,51541,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,Toelichting invest 0.052m; tick1207
+bud_agbhal_budget_result_2025,agb_halen,2025,-14221,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,Toelichting/J2 budget year -0.014m; tick1207
+bud_agbhal_bbr_2025,agb_halen,2025,-66166,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,Toelichting/kengetallen BBR -0.066m DEEP NEG; tick1207
+bud_agbhal_afm_2025,agb_halen,2025,-14221,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,Toelichting AFM -0.014m NEG; tick1207
+bud_agbhal_afm_gecorr_2025,agb_halen,2025,642,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,Toelichting gecorr AFM +0.001m thin POS; tick1207
+bud_agbhal_pnl_2025,agb_halen,2025,-28259,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,J5 overschot/tekort -0.028m; tick1207
+bud_agbhal_prijssub_2025,agb_halen,2025,313325,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,Toelichting city prijssubsidie 0.313m (~61pct expl rec); tick1207
+bud_agbhal_interest_2025,agb_halen,2025,8463,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,Kengetallen/T2 rente 0.008m; tick1207
+bud_agbhal_energy_2025,agb_halen,2025,145311,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,Toelichting gas+elec+water 0.145m (~27pct costs); tick1207
+bud_agbhal_erfpacht_2025,agb_halen,2025,29284,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,Toelichting erfpacht canon gemeente 0.029m; tick1207
+bud_agbhal_goederen_2025,agb_halen,2025,427954,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,J5 goederen en diensten 0.428m; tick1207
+bud_agbhal_depr_2025,agb_halen,2025,86021,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,J5 afschrijvingen 0.086m; tick1207
+bud_agbhal_staff_2025,agb_halen,2025,0,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,Seconded personnel city line residual; no own VTE residual; tick1207
+bud_agbhal_omzet_werking_2025,agb_halen,2025,506196,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,J5 opbrengsten werking 0.506m; tick1207
+bud_agbhal_st_nonfin_debt_2025,agb_halen,2025,131380,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,J4 ST non-fin ruil 0.131m; tick1207

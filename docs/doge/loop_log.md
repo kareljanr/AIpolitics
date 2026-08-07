@@ -16891,3 +16891,18 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1207** residual dual L5 VL; deferred **rq_116**
 
+
+### Tick 1207 - 2026-08-08T21:00:00Z
+
+- Unit: **rq_1207** (FOI-adjacent residual dual - **AGB Halen Jaarrekening 2025** Entity II sport/culture/bib after city GE)
+- Found (strong primary BBC + toelichting evenwicht; KBO **0842.479.642**; Markt 14; AD Ingrid Vrancken FD Kristof Van Pottelbergh):
+  - Assets **EUR0.679m** / equity **EUR-0.217m NEG** / cash **EUR0.047m THIN**
+  - Fin debt **EUR0.679m** city-path (LT 0.611 + ST due 0.067); new loan **0.052m** = invest; repay **0.071m**
+  - Expl **EUR0.510m / 0.453m** saldo **+0.056m** / city prijssub **EUR0.313m** (~61pct rec)
+  - BBR **EUR-0.066m** / AFM **EUR-0.014m NEG** / gecorr AFM **+EUR0.001m** / PnL **EUR-0.028m**
+  - Energy gas+elec+water **EUR0.145m** (~27pct opex) / erfpacht **EUR0.029m** / staff seconded city
+- Dual: city Halen GE already mined - AGB dual residual closed for full BBC layer
+- Wrote: budgets +32; commitments +6; leaderboard +7; sources +1; entity agb_halen; FOI **gap_agb_halen_prijssub_0_31m_fin_debt_0_68m_afm_neg_equity_neg_energy_l5** prio8 ready + draft; rq_1207=done; spawn **rq_1208**; ticks=1207
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1208** residual dual L5 VL; deferred **rq_116**
+
