@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T22:30:00Z,rq_1210,1210,no,tick1210 agb@zemst dual residual Turfput erfpacht 5.0m debt 12.2m JUMP gecorr AFM -0.41m equity 0.078m FOI; next rq_1211 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T23:00:00Z,rq_1211,1211,no,tick1211 AGB Boortmeerbeek dual residual AFM -0.05m city debt 0.35m prijssub 0.09m PnL -0.04m FOI; next rq_1212 residual dual L5 VL; rq_116 deferred; continuous hole_fill

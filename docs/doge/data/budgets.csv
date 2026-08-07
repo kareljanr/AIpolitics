@@ -32121,3 +32121,36 @@ bud_agbz_erfpacht_melkerij_canon_2025,agb_zemst,2025,66341,,,bbc_jr_realized,src
 bud_agbz_energy_elec_2025,agb_zemst,2025,41313,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Elektriciteit 0.041m vs budget 0.014m OVER; tick1210
 bud_agbz_new_loans_small_2025,agb_zemst,2025,30047,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Kleine invest leningen 0.030m; tick1210
 bud_agbz_btw_recover_residual_2025,agb_zemst,2025,983271,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,BTW Melkerij recover residual net ~0.983m after yr9; tick1210
+bud_agbb_assets_2025,agb_boortmeerbeek,2025,473272,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Total assets YE2025 0.473m DROP from 0.688m; tick1211
+bud_agbb_equity_2025,agb_boortmeerbeek,2025,42747,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Overgedragen resultaat/equity YE2025 0.043m DROP; tick1211
+bud_agbb_debt_total_2025,agb_boortmeerbeek,2025,430525,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Total schulden YE2025 0.431m; tick1211
+bud_agbb_fin_debt_2025,agb_boortmeerbeek,2025,349364,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Fin debt total YE2025 0.349m city-path (kengetallen); tick1211
+bud_agbb_fin_debt_lt_2025,agb_boortmeerbeek,2025,288298,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Andere leningen gemeente LT YE2025 0.288m; tick1211
+bud_agbb_fin_debt_st_due_2025,agb_boortmeerbeek,2025,61067,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Aflossingen gemeente ST due YE2025 0.061m; tick1211
+bud_agbb_cash_2025,agb_boortmeerbeek,2025,58428,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Liquide middelen YE2025 0.058m DROP from 0.106m; tick1211
+bud_agbb_st_recv_2025,agb_boortmeerbeek,2025,60311,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,ST vorderingen YE2025 0.060m; tick1211
+bud_agbb_mva_2025,agb_boortmeerbeek,2025,351402,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Materiele vaste activa YE2025 0.351m; tick1211
+bud_agbb_buildings_2025,agb_boortmeerbeek,2025,330054,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Terreinen en gebouwen net 0.330m; tick1211
+bud_agbb_expl_rec_2025,agb_boortmeerbeek,2025,151991,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Exploitatieontvangsten 0.152m; tick1211
+bud_agbb_expl_exp_2025,agb_boortmeerbeek,2025,138991,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Exploitatieuitgaven 0.139m; tick1211
+bud_agbb_expl_saldo_2025,agb_boortmeerbeek,2025,13000,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Exploitatiesaldo +0.013m; tick1211
+bud_agbb_invest_exp_2025,agb_boortmeerbeek,2025,2719,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Investeringsuitgaven 0.003m; tick1211
+bud_agbb_fin_exp_repay_2025,agb_boortmeerbeek,2025,62686,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Periodieke aflossingen 0.063m; tick1211
+bud_agbb_new_loans_2025,agb_boortmeerbeek,2025,2719,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Nieuwe leningen 0.003m = invest lock; tick1211
+bud_agbb_budget_result_2025,agb_boortmeerbeek,2025,-54786,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Budgettair resultaat boekjaar -0.055m NEG; tick1211
+bud_agbb_bbr_2025,agb_boortmeerbeek,2025,53077,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Beschikbaar budgettair resultaat BBR 0.053m DROP; tick1211
+bud_agbb_afm_2025,agb_boortmeerbeek,2025,-49686,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,AFM -0.050m NEG; tick1211
+bud_agbb_gecorr_afm_2025,agb_boortmeerbeek,2025,-19747,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Gecorrigeerde AFM -0.020m NEG; tick1211
+bud_agbb_omzet_2025,agb_boortmeerbeek,2025,151893,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Omzet 0.152m; tick1211
+bud_agbb_prijssub_2025,agb_boortmeerbeek,2025,93470,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,City prijssubsidie 0.093m (~62pct omzet); tick1211
+bud_agbb_pnl_2025,agb_boortmeerbeek,2025,-40203,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,PnL boekjaar -0.040m DEEP NEG; tick1211
+bud_agbb_div_2025,agb_boortmeerbeek,2025,500,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Dividend/rechthebbenden 0.0005m despite PnL NEG; tick1211
+bud_agbb_ops_result_2025,agb_boortmeerbeek,2025,-39393,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Bedrijfsresultaat -0.039m; tick1211
+bud_agbb_goods_services_2025,agb_boortmeerbeek,2025,111976,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Diensten en diverse goederen 0.112m; tick1211
+bud_agbb_depr_2025,agb_boortmeerbeek,2025,62403,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Afschrijvingen 0.062m; tick1211
+bud_agbb_energy_elec_2025,agb_boortmeerbeek,2025,19036,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Elektriciteit 0.019m; tick1211
+bud_agbb_energy_gas_2025,agb_boortmeerbeek,2025,15476,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Gas 0.015m; tick1211
+bud_agbb_energy_water_2025,agb_boortmeerbeek,2025,6852,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Water 0.007m; tick1211
+bud_agbb_energy_total_2025,agb_boortmeerbeek,2025,41364,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Energy gas+elec+water 0.041m (~30pct goederen); tick1211
+bud_agbb_milieu_tax_2025,agb_boortmeerbeek,2025,10450,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,Milieubelasting JUMP 0.010m; tick1211
+bud_agbb_st_debt_total_2025,agb_boortmeerbeek,2025,137977,,,bbc_jr_realized,src_agb_boortmeerbeek_jr2025,strong,ST schulden total 0.138m (kengetallen openstaande ST 0.142m); tick1211

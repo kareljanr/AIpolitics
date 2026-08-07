@@ -16952,3 +16952,18 @@ Append-only. Each tick adds a short entry.
 - Next: prio5 **rq_1211** residual dual L5 VL (Putte Prive full BBC); deferred **rq_116**
 
 - Progress@1210: refreshed progress_every_10_ticks.md + doge_waste_top10_current.md (pure annual top10 stable; dual residual Heist 21.4m + Zemst Turfput 5.0m/debt 12.2m highlighted off-top10)
+
+
+### Tick 1211 - 2026-08-08T23:00:00Z
+
+- Unit: **rq_1211** (FOI-adjacent residual dual - **AGB Boortmeerbeek JR2025** Entity II sport/accommodation after city GE)
+- Found (strong primary full BBC 100p + NBB; KBO **0864.141.227**; Pastorijstraat 2; AD Kris Lamberts FD Hilde De Boeck; Voorzitter Ellen Leaerts):
+  - Assets **EUR0.473m DROP** / equity **EUR0.043m DROP** / cash **EUR0.058m DROP** / MVA **EUR0.351m**
+  - Fin debt **EUR0.349m** ALL city-path (LT 0.288 + ST due 0.061); new **0.003m** = invest; repay **0.063m**
+  - Expl **EUR0.152 / 0.139m** saldo **+0.013m** / BBR **0.053m** / AFM **EUR-0.050m NEG** / gecorr AFM **EUR-0.020m NEG**
+  - PnL **EUR-0.040m** / div still **EUR500** / prijssub **EUR0.093m** (~62pct omzet) DROP from 0.141m
+  - Energy gas+elec+water **EUR0.041m** / milieubelasting JUMP **EUR0.010m** / budget year **EUR-0.055m**
+- Dual: city Boortmeerbeek GE already mined - AGB dual residual closed for full BBC+NBB layer
+- Wrote: budgets +33; commitments +6; leaderboard +7; sources +1; entity agb_boortmeerbeek; FOI **gap_agb_bb_afm_neg_0_05m_prijssub_0_09m_city_debt_0_35m_pnl_neg_l5** prio8 ready + draft; rq_1211=done; spawn **rq_1212**; ticks=1211
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1212** residual dual L5 VL (Putte Prive full BBC still partial); deferred **rq_116**
