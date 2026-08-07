@@ -1,2 +1,2 @@
-﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T04:30:00Z,rq_1222,1222,no,tick1222 AGB Zandhoven full BBC equity ZERO full div 0.023m AFM NEG debt 0.915m prijssub 0.27m FOI; next rq_1223 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
+main,continuous,hole_fill,2026-08-09T05:00:00Z,rq_1223,1223,no,tick1223 AGB Beersel full BBC gecorr AFM -0.37m debt 8.36m prijssub 0.71m leasing 4.01m cash thin FOI; next rq_1224 residual dual L5 VL; rq_116 deferred; continuous hole_fill

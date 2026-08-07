@@ -17100,3 +17100,14 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_1223** residual dual L5 VL; deferred **rq_116**
 
+
+## Tick 1223 — 2026-08-09T05:00:00Z — rq_1223 AGB Beersel dual residual JR2025
+
+- Unit: **rq_1223** (residual dual L5 VL — **AGB Beersel full BBC JR2025** after city GE)
+- Primary: https://www.beersel.be/bekendmakingen/detail/331/jaarrekening-agb-2025 (64p); KBO **0878.129.617** NIS 23003; Voorzitter Eddy Deknopper Secr Christine Descornez
+- Key € (strong): **gecorr AFM −0.365m DEEP NEG** · AFM **+0.057m** · budget **+0.056m** · BBR **3.086m** · **fin debt 8.360m** · cash **0.024m THIN DROP** · equity **0.214m thin** · assets **8.730m** · **prijssub 0.711m** · leasing MVA **4.011m** · city R/C **3.142m** · PnL **−0.010m** · div **0**
+- Dual: city Beersel GE already mined — AGB dual residual closed for full BBC layer
+- Wrote: budgets +24; commitments +7; leaderboard +7; sources +1; entity **agb_beersel**; FOI **gap_agb_bee_gecorr_afm_neg_0_37m_debt_8_36m_prijssub_0_71m_leasing_4_01m_cash_thin_l5** prio9 ready + draft; rq_1223=done; spawn **rq_1224**; ticks=1223
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_1224** residual dual L5 VL; deferred **rq_116**
+
