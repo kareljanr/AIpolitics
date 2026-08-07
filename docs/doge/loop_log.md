@@ -16160,3 +16160,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1163** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1163 - 2026-08-07T23:00:00Z
+
+- Unit: **rq_1163** (FOI-adjacent residual dual - **AGB Herzele Jaarrekening 2025** Entity II culture/sport Steenoven after city GE)
+- Found (strong primary BBC 70p; KBO **0875.059.665** NIS **41027**; Markt 20; AD Daniel Adriaens FD Jan Hermans Voorzitter Benjamin Rogiers; afdruk 04.06.2026; RVB 17.06.2026):
+  - Assets **EUR2.224m DROP** (was 3.021) / equity **EUR0.028m THIN flat** / cash **EUR0.208m JUMP**
+  - Fin debt T4 **EUR1.817m DECLINING** (LT 1.647 / ST due **0.170m**); new **0.084m**; repay **0.171m**; **interest 0 on P&L**
+  - **Leasing MVA EUR1.667m** shell of MVA 1.839m
+  - BBR **EUR0.214m** / AFM **+EUR0.006m thin** / gecorr **+EUR0.025m** / budget **+EUR0.006m**
+  - Expl **EUR0.757m / 0.580m** saldo **+EUR0.177m** / **prijssubsidie city EUR0.243m**
+  - PnL **+EUR0.052m** / **full dividend EUR0.052m** to city; ST recv DROP 1.030 to 0.177m; zero staff
+- Dual: city Herzele GE already mined tick889 - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen login / Bornem JR2024 / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Genk / AGB Begijnendijk / AGB Zele residual next
+- Wrote: budgets +31 (bud_agbher_*); commitments +5; leaderboard +7; sources +1; entity agb_herzele; FOI **gap_agb_herzele_equity_thin_full_div_leasing_prijssub_l5** prio8 ready + draft; PDF primary (not committed ~3.9MB); rq_1163=done; spawn **rq_1164**; ticks=1163
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1164** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local

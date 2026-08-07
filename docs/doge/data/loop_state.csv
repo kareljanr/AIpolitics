@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T22:30:00Z,rq_1162,1162,no,tick1162 AGB Energiepunt Mechelen dual residual loanbook 9.34m fin debt 9.42m on-lend 3.16m; next rq_1163 residual dual L5; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-07T23:00:00Z,rq_1163,1163,no,tick1163 AGB Herzele dual residual equity thin 0.028m full div 0.052m leasing 1.67m prijssub 0.24m; next rq_1164 residual dual L5; rq_116 deferred; continuous hole_fill
