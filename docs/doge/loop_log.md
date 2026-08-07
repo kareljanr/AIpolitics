@@ -15994,3 +15994,18 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1153** residual dual L5; deferred **rq_116**
 
+### Tick 1153 - 2026-08-07T18:00:00Z
+
+- Unit: **rq_1153** (FOI-adjacent residual dual - **AGB Essen Jaarrekening 2025** Entity II sport shell after city GE)
+- Found (strong primary BBC 98p; KBO **0890.708.339** NIS **11016**; Heuvelplein 23 2910; AD Ivan Kockx FD Bieke Van Schoors RvB Joris Brosens; Hemelrijk/WIGO):
+  - Assets **EUR3.471m** / equity **EUR1.939m** / cash **EUR0.014m THIN**
+  - Fin debt T4 **EUR1.494m DECLINING** (LT 1.290 / ST due **0.204m**); repay **EUR0.199m**; interest **EUR0.051m**; new loans **EUR0.015m**
+  - **AFM EUR-0.044m NEG** / budget **-EUR0.044m** / gecorr AFM **+EUR0.020m** / BBR **EUR0.426m** (cum prior 0.470m)
+  - Expl **EUR0.370m / 0.215m** saldo **+EUR0.155m** / invest **-EUR0.015m** / fin saldo **-EUR0.184m**
+  - PnL **+EUR0.005m** / dividend almost full **EUR0.005m**
+- Dual: city Essen GE already mined - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen login / Bornem JR2024 / Schelle GE+OCMW / Lievegem / Roeselare / Wommelgem residual next
+- Wrote: budgets +24 (bud_agbe_*); commitments +5; leaderboard +8; sources +1; entity agb_essen; FOI **gap_agb_essen_afm_neg_budget_neg_cash_thin_l5** prio9 ready + draft; PDF primary (not committed ~2.8MB); rq_1153=done; spawn **rq_1154**; ticks=1153
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1154** residual dual L5; deferred **rq_116**
+

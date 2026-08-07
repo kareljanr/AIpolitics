@@ -30398,3 +30398,27 @@ bud_agbk_new_loans_2025,agb_kontich,2025,128811,,,BBC JR2025 primary,src_agb_kon
 bud_agbk_loan_repay_2025,agb_kontich,2025,640993,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Periodieke aflossingen city loan 0.641m 2025; tick1152
 bud_agbk_interest_2025,agb_kontich,2025,21,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Rente ~0 2025 (renteloze city financing); tick1152
 bud_agbk_cash_drop_2025,agb_kontich,2025,20316,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Cash DROP 0.068m to 0.020m CRITICAL FOI residual; tick1152
+bud_agbe_assets_2025,agb_essen,2025,3471462,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Assets balanstotaal YE2025 3.471m; tick1153
+bud_agbe_equity_2025,agb_essen,2025,1938800,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Nettoactief YE2025 1.939m; tick1153
+bud_agbe_debt_total_2025,agb_essen,2025,1532663,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Schulden total YE2025 1.533m; tick1153
+bud_agbe_fin_debt_2025,agb_essen,2025,1493818,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Fin schulden total YE2025 1.494m T4 DECLINING; tick1153
+bud_agbe_fin_debt_lt_2025,agb_essen,2025,1289596,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Fin schulden LT YE2025 1.290m; tick1153
+bud_agbe_fin_debt_st_due_2025,agb_essen,2025,204222,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Fin schulden LT binnen jaar YE2025 0.204m; tick1153
+bud_agbe_cash_2025,agb_essen,2025,13545,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Liquide middelen YE2025 0.014m THIN; tick1153
+bud_agbe_mva_2025,agb_essen,2025,3059411,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,MVA YE2025 3.059m (sport Hemelrijk/WIGO); tick1153
+bud_agbe_expl_ont_2025,agb_essen,2025,370064,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Exploitatieontvangsten 0.370m 2025; tick1153
+bud_agbe_expl_uit_2025,agb_essen,2025,215406,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Exploitatieuitgaven 0.215m 2025; tick1153
+bud_agbe_expl_saldo_2025,agb_essen,2025,154658,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Exploitatiesaldo +0.155m 2025; tick1153
+bud_agbe_invest_uit_2025,agb_essen,2025,14616,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Investeringsuitgaven 0.015m 2025; tick1153
+bud_agbe_invest_saldo_2025,agb_essen,2025,-14616,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Investeringssaldo -0.015m 2025; tick1153
+bud_agbe_fin_saldo_2025,agb_essen,2025,-184004,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Financieringssaldo -0.184m 2025; tick1153
+bud_agbe_budget_2025,agb_essen,2025,-43962,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Budgettair resultaat -0.044m 2025 NEG; tick1153
+bud_agbe_cum_prior_2025,agb_essen,2025,470335,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Gecumuleerd budgettair prior YE 0.470m; tick1153
+bud_agbe_bbr_2025,agb_essen,2025,426372,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Beschikbaar budgettair resultaat 0.426m 2025; tick1153
+bud_agbe_afm_2025,agb_essen,2025,-43962,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Autofinancieringsmarge -0.044m NEG 2025; tick1153
+bud_agbe_afm_gecorr_2025,agb_essen,2025,20432,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Gecorrigeerde AFM +0.020m 2025; tick1153
+bud_agbe_pnl_2025,agb_essen,2025,5491,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,PnL overschot +0.005m 2025; tick1153
+bud_agbe_dividend_2025,agb_essen,2025,5000,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Uitgekeerde winst/dividend 0.005m almost full PnL; tick1153
+bud_agbe_interest_2025,agb_essen,2025,51024,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Rente 0.051m 2025; tick1153
+bud_agbe_loan_repay_2025,agb_essen,2025,198620,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Periodieke aflossingen 0.199m 2025; tick1153
+bud_agbe_new_loans_2025,agb_essen,2025,14616,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Nieuwe leningen 0.015m 2025 (= invest); tick1153
