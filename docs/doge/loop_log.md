@@ -16530,3 +16530,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1185** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1185 - 2026-08-08T10:00:00Z
+
+- Unit: **rq_1185** (FOI-adjacent residual dual - **AGB Sport en Recreatie Lommel Jaarrekening 2025** Entity II after city GE)
+- Found (strong primary BBC 84p 11.05.2025; KBO **0871.485.513**; Hertog Janplein 1; Secr Iris Mulkens Voorzitter Dirk Vanderhoydonks):
+  - Assets **EUR17.739m** DROP / equity **EUR0.399m THIN** / cash **EUR1.218m**
+  - Fin debt T4 **EUR15.701m** DROP (LT 14.666 / ST due 1.035); new loans **0.423m**; repay period **1.093m** + **non-period 1.549m**
+  - BBR **EUR2.286m** / **AFM EUR-0.119m NEG** / **gecorr AFM EUR-0.460m NEG DEEP**
+  - Expl **EUR3.326m / 2.352m** saldo **+0.974m** / city werkingsub **1.452m** (passthrough out 1.452m)
+  - Asset sale **EUR1.560m** / invest **0.597m** / PnL **+0.234m** / **div EUR0.150m while AFM NEG**
+- Dual: city Lommel GE already mined; AGB Patrimonium tick1158 - Sport dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen / Bornem residual next
+- Wrote: budgets +36 (bud_agbloms_*); commitments +6; leaderboard +8; sources +1; entity agb_lommel_sport; FOI **gap_agb_lommel_sr_afm_neg_debt_15_7m_div_0_15m_sale_1_56m_l5** prio9 ready + draft; PDF primary (not committed ~3.1MB); rq_1185=done; spawn **rq_1186**; ticks=1185
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1186** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local

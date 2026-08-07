@@ -31338,3 +31338,39 @@ bud_agbhove_fin_cost_2025,agb_hove,2025,28385,,,NBB JR2025 primary,src_agb_hove_
 bud_agbhove_gross_margin_2025,agb_hove,2025,423850,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Brutomarge 0.424m; tick1184
 bud_agbhove_staff_2025,agb_hove,2025,0,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Bezoldigingen line empty / zero own staff NBB; tick1184
 bud_agbhove_gov_guaranteed_debt_2025,agb_hove,2025,1316013,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Door BE overheidsinstellingen gewaarborgde schulden 1.316m; tick1184
+bud_agbloms_assets_2025,agb_lommel_sport,2025,17738939,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Assets balanstotaal YE2025 17.739m DROP from 19.514m; tick1185
+bud_agbloms_equity_2025,agb_lommel_sport,2025,398507,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Nettoactief YE2025 0.399m THIN vs debt 15.7m; tick1185
+bud_agbloms_cum_pnl_2025,agb_lommel_sport,2025,398507,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Gecumuleerd overschot YE2025 0.399m; tick1185
+bud_agbloms_debt_total_2025,agb_lommel_sport,2025,17340432,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Schulden total YE2025 17.340m; tick1185
+bud_agbloms_fin_debt_2025,agb_lommel_sport,2025,15701074,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Fin schulden T4 total YE2025 15.701m DROP from 17.920m; tick1185
+bud_agbloms_fin_debt_lt_2025,agb_lommel_sport,2025,14666001,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Fin schulden LT YE2025 14.666m; tick1185
+bud_agbloms_fin_debt_st_due_2025,agb_lommel_sport,2025,1035073,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Fin schulden LT vervallend YE2025 1.035m; tick1185
+bud_agbloms_cash_2025,agb_lommel_sport,2025,1217913,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Liquide middelen YE2025 1.218m DROP from 1.374m; tick1185
+bud_agbloms_mva_2025,agb_lommel_sport,2025,13811930,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,MVA YE2025 13.812m DROP from 15.667m; tick1185
+bud_agbloms_mva_buildings_2025,agb_lommel_sport,2025,13111872,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,MVA bedrijfsmatige gebouwen YE2025 13.112m DROP (sale); tick1185
+bud_agbloms_mva_leasing_2025,agb_lommel_sport,2025,231765,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,MVA leasing YE2025 0.232m; tick1185
+bud_agbloms_st_nonruil_recv_2025,agb_lommel_sport,2025,2449686,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,ST vorderingen niet-ruil YE2025 2.450m; tick1185
+bud_agbloms_st_nonfin_debt_2025,agb_lommel_sport,2025,1566996,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,ST niet-fin schulden ruil YE2025 1.567m; tick1185
+bud_agbloms_expl_rec_2025,agb_lommel_sport,2025,3326122,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Exploitatieontvangsten 3.326m; tick1185
+bud_agbloms_expl_exp_2025,agb_lommel_sport,2025,2352350,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Exploitatieuitgaven 2.352m; tick1185
+bud_agbloms_expl_saldo_2025,agb_lommel_sport,2025,973772,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Exploitatiesaldo +0.974m; tick1185
+bud_agbloms_city_werkingsub_2025,agb_lommel_sport,2025,1452096,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Werkingssubsidies van gemeente 1.452m; tick1185
+bud_agbloms_granted_werkingsub_2025,agb_lommel_sport,2025,1452096,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Toegestane werkingssubsidies aan derden 1.452m passthrough; tick1185
+bud_agbloms_werking_rec_2025,agb_lommel_sport,2025,1848248,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Ontvangsten uit de werking 1.848m; tick1185
+bud_agbloms_invest_exp_2025,agb_lommel_sport,2025,596851,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Investeringsuitgaven 0.597m JUMP vs MJP 0.174m; tick1185
+bud_agbloms_asset_sale_2025,agb_lommel_sport,2025,1560474,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Verkoop MVA 1.560m (buildings 1.549m); tick1185
+bud_agbloms_invest_saldo_2025,agb_lommel_sport,2025,963623,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Investeringssaldo +0.964m (sale-driven); tick1185
+bud_agbloms_repay_periodic_2025,agb_lommel_sport,2025,1093220,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Periodieke aflossingen 1.093m; tick1185
+bud_agbloms_repay_nonperiod_2025,agb_lommel_sport,2025,1548724,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Niet-periodieke aflossingen 1.549m (sale paydown); tick1185
+bud_agbloms_new_loans_2025,agb_lommel_sport,2025,422984,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Nieuwe leningen andere entiteiten 0.423m; tick1185
+bud_agbloms_fin_saldo_2025,agb_lommel_sport,2025,-2218960,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Financieringssaldo -2.219m; tick1185
+bud_agbloms_budget_result_2025,agb_lommel_sport,2025,-281565,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Budgettair resultaat boekjaar -0.282m; tick1185
+bud_agbloms_bbr_2025,agb_lommel_sport,2025,2285593,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Beschikbaar BBR YE2025 2.286m; tick1185
+bud_agbloms_afm_2025,agb_lommel_sport,2025,-119447,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,AFM -0.119m NEG; tick1185
+bud_agbloms_afm_gecorr_2025,agb_lommel_sport,2025,-459831,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Gecorr AFM -0.460m NEG DEEP; tick1185
+bud_agbloms_aangewezen_amort_2025,agb_lommel_sport,2025,1433603,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Gecorrigeerde aflossingen 1.434m; tick1185
+bud_agbloms_pnl_2025,agb_lommel_sport,2025,234130,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,P&L +0.234m; tick1185
+bud_agbloms_dividend_2025,agb_lommel_sport,2025,150000,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Dividend/rechthebbenden 0.150m while AFM NEG; tick1185
+bud_agbloms_meerwaarde_sale_2025,agb_lommel_sport,2025,568579,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Meerwaarden realisatie VA 0.569m; tick1185
+bud_agbloms_minderwaarde_sale_2025,agb_lommel_sport,2025,316239,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Minderwaarden realisatie VA 0.316m; tick1185
+bud_agbloms_depr_2025,agb_lommel_sport,2025,1143809,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Afschrijvingen 1.144m; tick1185
