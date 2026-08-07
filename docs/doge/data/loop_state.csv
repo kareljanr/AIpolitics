@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T06:30:00Z,rq_1226,1226,no,tick1226 Tervuren GE dual residual early repay 15.1m desinvest 18.2m AFM +6.27m Bexit dual FOI; next rq_1227 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-07T20:09:19Z,rq_1227,1227,no,tick1227 AGB Boechout Sneppenbos dual residual gecorr AFM -0.09m debt 5.93m prijssub 0.63m div 0.01m cash thin FOI ready; next rq_1228 residual dual L5 VL; continuous hole_fill

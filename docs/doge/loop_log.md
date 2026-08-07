@@ -17144,3 +17144,9 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_1227** residual dual L5 VL; deferred **rq_116**
 
+
+### Tick 1227 — 2026-08-09 — rq_1227 AGB Boechout (Sneppenbos) dual residual
+- Unit: AGB Boechout JR2025 Entity II after city GE tick1024 (KBO 0547.988.929; meetingburger 43p primary).
+- € strong: gecorr AFM **−0.091m** NEG; fin debt **5.932m**; prijssub **0.628m** (~78% expl); AFM **+0.004m** thin; cash **0.039m** thin; div **0.010m** / PnL **0.014m**; amort **0.413m**.
+- CSVs: sources/entities/budgets/commitments/leaderboard + FOI ready `gap_agb_boe_gecorr_afm_neg_0_09m_debt_5_93m_prijssub_0_63m_div_0_01m_cash_thin_l5` (not sent).
+- Next: rq_1228 residual dual L5 VL JR2025 hole_fill.

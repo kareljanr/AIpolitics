@@ -32549,3 +32549,25 @@ bud_terv_ocmw_cover_2025,city_tervuren,2025,2606056,,,bbc_jr_realized,src_tervur
 bud_terv_lt_recv_2025,city_tervuren,2025,23433941,,,bbc_jr_realized,src_tervuren_jr2025,strong,LT vorderingen 23.434m (incl AGB Bexit loans); tick1226
 bud_terv_agb_loan_new_2025,city_tervuren,2025,546436,,,bbc_jr_realized,src_tervuren_jr2025,strong,Toegestane lening AGB Bexit new 0.546m; tick1226
 bud_terv_agb_loan_repay_2025,city_tervuren,2025,1406737,,,bbc_jr_realized,src_tervuren_jr2025,strong,Terugbetaling leningen AGB Bexit 1.407m; tick1226
+bud_agbboe_expl_ont_2025,agb_boechout,2025,809420,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Exploitatieontvangsten 0.809m; tick1227
+bud_agbboe_expl_uit_2025,agb_boechout,2025,392875,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Exploitatieuitgaven 0.393m; tick1227
+bud_agbboe_expl_saldo_2025,agb_boechout,2025,416545,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Exploitatiesaldo +0.417m; tick1227
+bud_agbboe_invest_uit_2025,agb_boechout,2025,6378,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Investeringsuitgaven 0.006m LOW; tick1227
+bud_agbboe_fin_ont_2025,agb_boechout,2025,6378,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Fin ont 0.006m new loans; tick1227
+bud_agbboe_fin_uit_2025,agb_boechout,2025,412604,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Periodieke aflossingen 0.413m; tick1227
+bud_agbboe_budget_2025,agb_boechout,2025,3941,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Budgettair resultaat +0.004m thin; tick1227
+bud_agbboe_bbr_2025,agb_boechout,2025,288676,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,BBR beschikbaar +0.289m; tick1227
+bud_agbboe_afm_2025,agb_boechout,2025,3941,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,AFM +0.004m THIN; tick1227
+bud_agbboe_afm_gecorr_2025,agb_boechout,2025,-90541,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Gecorr AFM -0.091m NEG CRITICAL; tick1227
+bud_agbboe_assets_2025,agb_boechout,2025,6602905,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Assets YE2025 6.603m; tick1227
+bud_agbboe_cash_2025,agb_boechout,2025,38786,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Cash YE2025 0.039m thin; tick1227
+bud_agbboe_mva_2025,agb_boechout,2025,6110455,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,MVA 6.110m; tick1227
+bud_agbboe_equity_2025,agb_boechout,2025,449699,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Nettoactief YE2025 0.450m; tick1227
+bud_agbboe_fin_debt_2025,agb_boechout,2025,5932347,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Fin schulden total 5.932m; tick1227
+bud_agbboe_fin_debt_lt_2025,agb_boechout,2025,5539945,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Fin schulden LT 5.540m; tick1227
+bud_agbboe_fin_debt_st_due_2025,agb_boechout,2025,392402,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Fin schulden LT binnen jaar 0.392m; tick1227
+bud_agbboe_prijssub_2025,agb_boechout,2025,628187,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Prijssubsidie gemeente 0.628m; tick1227
+bud_agbboe_pnl_2025,agb_boechout,2025,14466,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,PnL +0.014m; tick1227
+bud_agbboe_div_2025,agb_boechout,2025,10000,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Dividend city 0.010m partial strip; tick1227
+bud_agbboe_goods_2025,agb_boechout,2025,379165,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Goederen en diensten 0.379m (staff 0); tick1227
+bud_agbboe_nonruil_recv_2025,agb_boechout,2025,423628,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,ST non-ruil recv 0.424m; tick1227
