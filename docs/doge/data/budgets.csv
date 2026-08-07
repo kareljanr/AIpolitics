@@ -30803,3 +30803,33 @@ bud_agbbree_pnl_2025,agb_bree,2025,209190,,,BBC JR2025 primary,src_agb_bree_jr20
 bud_agbbree_dividend_2025,agb_bree,2025,41838,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Dividend to city 0.042m (partial of PnL); tick1166
 bud_agbbree_interest_2025,agb_bree,2025,118231,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Financiele kosten 0.118m (bank 0.064 + other entities 0.054); tick1166
 bud_agbbree_depr_2025,agb_bree,2025,353384,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Afschrijvingen 0.353m; tick1166
+bud_agbstk_assets_2025,agb_steenokkerzeel,2025,3734002,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Assets balanstotaal YE2025 3.734m; tick1167
+bud_agbstk_equity_2025,agb_steenokkerzeel,2025,73667,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Nettoactief YE2025 0.074m (cap subs only; cum P&L 0); tick1167
+bud_agbstk_cap_subs_2025,agb_steenokkerzeel,2025,73667,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Kapitaalssubsidies YE2025 0.074m = full equity; tick1167
+bud_agbstk_debt_total_2025,agb_steenokkerzeel,2025,3660335,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Schulden total YE2025 3.660m; tick1167
+bud_agbstk_fin_debt_2025,agb_steenokkerzeel,2025,3567197,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Fin schulden T4 total YE2025 3.567m (LT 3.417 + ST due 0.150); tick1167
+bud_agbstk_fin_debt_lt_2025,agb_steenokkerzeel,2025,3417499,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Fin schulden LT YE2025 3.417m; tick1167
+bud_agbstk_fin_debt_st_due_2025,agb_steenokkerzeel,2025,149698,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Fin schulden LT vervallend YE2025 0.150m; tick1167
+bud_agbstk_cash_2025,agb_steenokkerzeel,2025,44425,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Liquide middelen YE2025 0.044m DROP from 0.076m; tick1167
+bud_agbstk_mva_2025,agb_steenokkerzeel,2025,3571092,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,MVA YE2025 3.571m; tick1167
+bud_agbstk_leasing_mva_2025,agb_steenokkerzeel,2025,1535582,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Leasing MVA gemeenschapsgoederen YE2025 1.536m; tick1167
+bud_agbstk_mva_buildings_2025,agb_steenokkerzeel,2025,1943499,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,MVA bedrijfsmatig gebouwen YE2025 1.943m; tick1167
+bud_agbstk_expl_rec_2025,agb_steenokkerzeel,2025,557828,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Exploitatieontvangsten 0.558m; tick1167
+bud_agbstk_expl_exp_2025,agb_steenokkerzeel,2025,433215,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Exploitatieuitgaven 0.433m; tick1167
+bud_agbstk_expl_saldo_2025,agb_steenokkerzeel,2025,124613,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Exploitatiesaldo +0.125m; tick1167
+bud_agbstk_prijssub_2025,agb_steenokkerzeel,2025,244340,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Prijssubsidie gemeente 0.244m; tick1167
+bud_agbstk_invest_exp_2025,agb_steenokkerzeel,2025,520071,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Investeringsuitgaven 0.520m OVER vs MJP 0.128m; tick1167
+bud_agbstk_invest_saldo_2025,agb_steenokkerzeel,2025,-520071,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Investeringssaldo -0.520m; tick1167
+bud_agbstk_fin_rec_2025,agb_steenokkerzeel,2025,520071,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Financieringsontvangsten/new loans 0.520m; tick1167
+bud_agbstk_fin_exp_2025,agb_steenokkerzeel,2025,129876,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Periodieke aflossingen 0.130m; tick1167
+bud_agbstk_fin_saldo_2025,agb_steenokkerzeel,2025,390194,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Financieringssaldo +0.390m; tick1167
+bud_agbstk_new_loans_2025,agb_steenokkerzeel,2025,520071,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Nieuwe leningen T4 0.520m; tick1167
+bud_agbstk_aflossingen_2025,agb_steenokkerzeel,2025,129876,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Aflossingen T4 0.130m; tick1167
+bud_agbstk_budget_result_2025,agb_steenokkerzeel,2025,-5264,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Budgettair resultaat boekjaar -0.005m; tick1167
+bud_agbstk_bbr_2025,agb_steenokkerzeel,2025,69772,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,BBR 0.070m; tick1167
+bud_agbstk_afm_2025,agb_steenokkerzeel,2025,-5264,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,AFM -0.005m NEG; tick1167
+bud_agbstk_afm_gecorr_2025,agb_steenokkerzeel,2025,-129547,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Gecorr AFM -0.130m NEG CRITICAL (aangewezen 0.254m); tick1167
+bud_agbstk_pnl_2025,agb_steenokkerzeel,2025,52113,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,P&L +0.052m; tick1167
+bud_agbstk_dividend_2025,agb_steenokkerzeel,2025,52113,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Full dividend = PnL 0.052m to city; tick1167
+bud_agbstk_interest_2025,agb_steenokkerzeel,2025,0,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Financiele kosten 0 FOI (interest blank); tick1167
+bud_agbstk_depr_2025,agb_steenokkerzeel,2025,128946,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Afschrijvingen 0.129m; tick1167

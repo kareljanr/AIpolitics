@@ -16227,3 +16227,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1167** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1167 - 2026-08-08T01:00:00Z
+
+- Unit: **rq_1167** (FOI-adjacent residual dual - **AGB Steenokkerzeel Jaarrekening 2025** Entity II after residual hole-fill)
+- Found (strong primary BBC 106p RVB 30.04.2026; KBO **0863.139.949**; Orchideeenlaan 17; Secr Heidi Abeloos FD Luk Vandeuren):
+  - Assets **EUR3.734m** / equity **EUR0.074m** (cap sub only; **cum P&L 0**) / cash **EUR0.044m DROP**
+  - Fin debt T4 **EUR3.567m** (LT 3.417 / ST due **0.150m**); new **0.520m**; repay **0.130m**; **interest 0 on P&L**
+  - **Leasing MVA EUR1.536m** + bedrijfsmatig gebouwen 1.943m
+  - BBR **EUR0.070m** / **AFM EUR-0.005m NEG** / **gecorr AFM EUR-0.130m NEG CRITICAL** / budget **-EUR0.005m**
+  - Expl **EUR0.558m / 0.433m** saldo **+EUR0.125m** / **prijssubsidie EUR0.244m**
+  - PnL **+EUR0.052m** / **full dividend EUR0.052m**; invest **0.520m OVER** vs MJP 0.128m
+- Dual: city GE+OCMW Steenokkerzeel JR2025 not yet full BBC - Entity II AGB residual closed for full BBC layer; city dual FOI open
+- Note: Oosterzele / Nijlen / Bornem JR2024 / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Genk / AGB Middelkerke residual next
+- Wrote: budgets +30 (bud_agbstk_*); commitments +6; leaderboard +7; sources +1; entities city_steenokkerzeel + agb_steenokkerzeel; FOI **gap_agb_steenokkerzeel_afm_neg_full_div_leasing_debt_l5** prio8 ready + draft; PDF primary (not committed ~24MB); rq_1167=done; spawn **rq_1168**; ticks=1167
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1168** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local
