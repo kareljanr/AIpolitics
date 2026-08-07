@@ -1,6 +1,6 @@
-﻿# DOGE waste ranking — current top 10
+# DOGE waste ranking — current top 10
 
-**As-of:** tick **1200** (2026-08-08) · **~6376** leaderboard rows  
+**As-of:** tick **1210** (2026-08-08) · **~6446** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,9 +27,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** · **AGB dual AFM NEG + debt + leasing/erfpacht/city-loan shells** (**NEW Lokeren city loan €16.72m 0% + leasing €17.24m cash 0** · SportAG Aalst **€51.4m** leasing **€20.2m** · Middelkerke **€23.4m** · Willebroek **€20.9m** · WAGSO early repay path · Geraardsbergen **€4.25m** · Ronse **€6.96m** · Poperinge **€14.5m** · prior stack retained) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** · **AGB dual AFM NEG + debt + leasing/erfpacht/city-loan shells** (**NEW Heist city renteloos €21.4m** · **Zemst erfpacht Turfput €5.0m debt JUMP €12.2m** · Oudsbergen city loans **€17.34m** · HIM Hamme **€10.5m** · Tongeren-Borgloon **~€10.3m** · Lokeren **€16.72m** 0% + leasing **€17.24m** · SportAG Aalst **€51.4m** · Middelkerke **€23.4m** · Willebroek **€20.9m** · prior stack retained) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market.
 
-**Change vs tick 1190:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 1191–1200 (off pure top10 / dual):** **AGB Lokeren** first-year **€16.72m 0-interest city loan** + leasing **€17.24m** cash **0** zero staff · **SportAG Aalst** debt **€51.4m** leasing **€20.2m** gecorr AFM **−€1.41m** · **WAGSO Waregem** early repay **€0.76m** · Geraardsbergen prijssub **€0.76m** · Ronse erfpacht debt AFM NEG · Dendermonde full div. Gain is **new zero-interest city-loan shells + sport mega-debt** more than FFS reshuffle.
+**Change vs tick 1200:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 1201–1210 (off pure top10 / dual):** **AGB Heist** city renteloos **€21.4m** leasing **€4.8m** gecorr AFM **−€0.49m** div **€0.25m>PnL** · **agb@zemst** Turfput erfpacht **€5.02m** debt JUMP **€12.2m** equity **€0.078m** gecorr AFM **−€0.41m** full div · Oudsbergen city loans **€17.34m** · HIM Hamme **€10.5m** · Tongeren-Borgloon **~€10.3m** · Lille liquidation early repay **€3.67m**. Gain is **erfpacht mega-transfers + city 0% shells + gecorr AFM NEG** more than FFS reshuffle.
 
 ### Just outside top 10 (often relevant)
 

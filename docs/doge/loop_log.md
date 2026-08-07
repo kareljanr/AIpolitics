@@ -16950,3 +16950,5 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +35; commitments +7; leaderboard +7; sources +1; entity agb_zemst; FOI **gap_agb_zemst_erfpacht_turfput_5_0m_debt_12_2m_gecorr_afm_neg_0_41m_l5** prio9 ready + draft; rq_1210=done; spawn **rq_1211**; ticks=1210
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1211** residual dual L5 VL (Putte Prive full BBC); deferred **rq_116**
+
+- Progress@1210: refreshed progress_every_10_ticks.md + doge_waste_top10_current.md (pure annual top10 stable; dual residual Heist 21.4m + Zemst Turfput 5.0m/debt 12.2m highlighted off-top10)

@@ -1,4 +1,4 @@
-﻿# DOGE progress — every 10 ticks
+# DOGE progress — every 10 ticks
 
 **Protocol:** At ticks **10, 20, 30, …** (and anytime human asks), refresh this file **and** append a short block to `loop_log.md`.  
 **Anchor:** ESA S.13 total expenditure **€347.956 bn (2025)** = 100% of the “public spend pie” for flow coverage.  
@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1210** (2026-08-08)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1201-1210: Grimbergen · Temse · SPL · Lille liquidation · HIM Hamme · Oudsbergen · Halen · Tongeren-Borgloon · **Heist AGB EUR21.4m** · **agb@zemst EUR12.2m JUMP** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1201-1210 is VL residual dual L5 (not near-complete of 348bn):** **agb@zemst** NEW Turfput erfpacht **EUR5.02m** debt JUMP **EUR12.24m** equity **0.078m** gecorr AFM **−0.41m** full div · **AGB Heist** city renteloos **EUR21.42m** leasing **4.80m** gecorr AFM **−0.49m** div **0.25m>PnL** · Oudsbergen city loans **17.34m** · HIM Hamme **10.51m** · Tongeren-Borgloon **~10.3m** · Lille early repay **3.67m** liquidation · prior Lokeren/SportAG stack retained |
+| **E. FOI-ready gaps** | **~853** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~901** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB dual debt/AFM NEG + leasing/erfpacht/city-loan shells** (**NEW Heist EUR21.4m** renteloos · **Zemst EUR12.2m** Turfput · Oudsbergen **EUR17.34m** · HIM **EUR10.5m** · Tongeren-Borgloon **~EUR10.3m** · Lokeren **EUR16.72m** 0% + leasing **EUR17.24m** · SportAG Aalst **EUR51.4m** · Middelkerke **EUR23.4m** · Willebroek **EUR20.9m** · prior stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1210)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~32122 |
+| commitments.csv | ~4270 |
+| leaderboard.csv | ~6446 |
+| entities.csv | ~939 |
+| sources.csv | ~2126 |
+| FOI ready | ~853 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~901 |
+| research_queue open | rq_116 deferred + rq_1211 hole-fill after progress |
+
+### What improved since tick 1200
+
+- **VL residual dual JR2025 Entity II (tick1201-1209):** Grimbergen · Temse Patrimonium BBR NEG · SPL · Lille liquidation early repay **3.67m** · HIM Hamme debt **10.5m** · Oudsbergen city loans **17.34m** · Halen prijssub AFM NEG · Tongeren-Borgloon **~10.3m** musea shell · **AGB Heist** renteloos **21.4m** gecorr AFM **−0.49m** div **0.25m>PnL**.
+- **NEW erfpacht mega-transfer (tick1210):** **agb@zemst** Sporthal Den Turfput erfpacht **EUR5.022m** city renteloos + ST BTW credit **EUR1.055m** → fin debt JUMP **6.2→12.2m** · leasing MVA **11.0m** · equity **0.078m flat** · gecorr AFM **−0.41m** · full div=PnL **0.060m** · prijssub **0.333m**.
+- **Dual map themes:** **city 0% / erfpacht plant shells** (Heist 21.4m · Zemst 12.2m · Oudsbergen 17.3m) · **gecorr AFM NEG + full dividend** · **liquidation early repay** (Lille) · **prijssub factor cuts**.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
 ## Snapshot at **tick 1200** (2026-08-08)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
