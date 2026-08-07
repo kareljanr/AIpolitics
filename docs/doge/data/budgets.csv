@@ -32847,3 +32847,38 @@ bud_ag2b_goods_2025,agb_ag2b_berlaar,2025,53968,,,bbc_jr_realized,src_agb_ag2b_b
 bud_ag2b_depr_2025,agb_ag2b_berlaar,2025,467,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Afschrijvingen 0.000m; tick1238
 bud_ag2b_city_prijssub_2025,agb_ag2b_berlaar,2025,93482,,,bbc_jr_realized,src_berlaar_jr2025,strong,City dual toelage/prijssub AG2B 0.093m (tick1055 dual); tick1238
 bud_ag2b_costs_2025,agb_ag2b_berlaar,2025,65963,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,J5 totale kosten 0.066m; tick1238
+bud_agbede_assets_2025,agb_edegem,2025,4170986,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Assets balanstotaal YE2025 4.171m; tick1239
+bud_agbede_equity_2025,agb_edegem,2025,339963,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Nettoactief YE2025 0.340m; tick1239
+bud_agbede_debt_total_2025,agb_edegem,2025,3831023,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Schulden total YE2025 3.831m; tick1239
+bud_agbede_fin_debt_2025,agb_edegem,2025,3736678,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Fin schulden total YE2025 3.737m (LT 3.542 + ST due 0.195); tick1239
+bud_agbede_fin_debt_lt_2025,agb_edegem,2025,3541891,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Fin schulden LT YE2025 3.542m; tick1239
+bud_agbede_fin_debt_st_due_2025,agb_edegem,2025,194787,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Fin schulden LT vervallend YE2025 0.195m; tick1239
+bud_agbede_cash_2025,agb_edegem,2025,1240,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Liquide middelen YE2025 1.24k THIN; tick1239
+bud_agbede_st_recv_2025,agb_edegem,2025,487951,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Vorderingen KT total YE2025 0.488m; tick1239
+bud_agbede_st_nonruil_recv_2025,agb_edegem,2025,320418,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Vorderingen niet-ruil KT YE2025 0.320m; tick1239
+bud_agbede_st_ruil_recv_2025,agb_edegem,2025,167533,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Vorderingen ruil KT YE2025 0.168m; tick1239
+bud_agbede_mva_2025,agb_edegem,2025,3678302,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Materiele VA YE2025 3.678m; tick1239
+bud_agbede_leasing_mva_2025,agb_edegem,2025,2325106,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Leasing/erfpacht MVA YE2025 2.325m (VTC); tick1239
+bud_agbede_capital_2025,agb_edegem,2025,100000,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Overig nettoactief/capital YE2025 0.100m; tick1239
+bud_agbede_expl_rec_2025,agb_edegem,2025,1039378,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Exploitatieontvangsten 1.039m; tick1239
+bud_agbede_expl_exp_2025,agb_edegem,2025,760426,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Exploitatieuitgaven 0.760m; tick1239
+bud_agbede_expl_saldo_2025,agb_edegem,2025,278952,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Exploitatiesaldo +0.279m; tick1239
+bud_agbede_invest_exp_2025,agb_edegem,2025,112443,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Investeringsuitgaven 0.112m; tick1239
+bud_agbede_invest_saldo_2025,agb_edegem,2025,-112443,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Investeringssaldo -0.112m; tick1239
+bud_agbede_fin_saldo_2025,agb_edegem,2025,-152218,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Financieringssaldo -0.152m; tick1239
+bud_agbede_budget_result_2025,agb_edegem,2025,14291,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Budgettair resultaat boekjaar +0.014m; tick1239
+bud_agbede_cumul_budget_2025,agb_edegem,2025,439508,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Gecumuleerd budgettair resultaat 0.440m; tick1239
+bud_agbede_bbr_2025,agb_edegem,2025,439508,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Beschikbaar budgettair resultaat BBR +0.440m; tick1239
+bud_agbede_afm_2025,agb_edegem,2025,14291,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Autofinancieringsmarge +0.014m thin; tick1239
+bud_agbede_gecorr_afm_2025,agb_edegem,2025,-32160,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Gecorrigeerde AFM -0.032m NEG; tick1239
+bud_agbede_pnl_2025,agb_edegem,2025,4729,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,PnL overschot +0.005m; tick1239
+bud_agbede_div_2025,agb_edegem,2025,473,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Partial div/rechthebbenden 0.0005m (~10pct PnL); tick1239
+bud_agbede_prijssub_2025,agb_edegem,2025,243990,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Prijssubsidie gemeente total 0.244m (kengetallen); tick1239
+bud_agbede_prijssub_sport_2025,agb_edegem,2025,33132,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Prijssubsidie sporthal 0.033m; tick1239
+bud_agbede_prijssub_vtc_2025,agb_edegem,2025,210858,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Prijssubsidie VTC 0.211m; tick1239
+bud_agbede_dbc_fees_2025,agb_edegem,2025,592301,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,D&BC dienstenvergoeding Gem+OCMW 0.592m (werking ontvangsten); tick1239
+bud_agbede_new_loans_2025,agb_edegem,2025,112443,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Nieuwe leningen 0.112m; tick1239
+bud_agbede_repayments_2025,agb_edegem,2025,264661,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Periodieke aflossingen 0.265m; tick1239
+bud_agbede_amort_gecorr_2025,agb_edegem,2025,311112,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Gecorrigeerde aflossingen o.b.v. fin debt 0.311m; tick1239
+bud_agbede_costs_2025,agb_edegem,2025,1035116,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,J5 costs total 1.035m; tick1239
+bud_agbede_goederen_2025,agb_edegem,2025,752598,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Goederen en diensten 0.753m; tick1239

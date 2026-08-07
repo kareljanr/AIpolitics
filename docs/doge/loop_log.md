@@ -17220,3 +17220,9 @@ Append-only. Each tick adds a short entry.
 - EUR strong: assets **0.129m**; city prijssub dual **0.093m**; ST non-ruil recv **0.093m**; partial div **0.004m**; fin debt **0.002m**; BBR **+0.080m**; AFM **+0.036m**; PnL flip **+0.039m**; capital **0.050m**.
 - CSVs: sources/entities/budgets+33/commitments+6/leaderboard+6 + FOI ready `gap_agb_ag2b_ber_prijssub_0_09m_st_nonruil_recv_0_09m_partial_div_debt_2k_l5` (not sent); rq_1238=done; spawn rq_1239.
 - Next: rq_1239 residual dual L5 VL JR2025 hole_fill.
+
+### Tick 1239 - 2026-08-08 - rq_1239 AGB Edegem BPGE dual residual
+- Unit: AGB Beheer Patrimonium Gemeente Edegem JR2025 Entity II (city GE not yet dual-mined; KBO 0505.867.272; 179p text primary).
+- EUR strong: assets **4.171m**; fin debt **3.737m** (erfpacht/leasing VTC MVA **2.325m**); gecorr AFM **-0.032m** NEG; AFM **+0.014m** thin; BBR **+0.440m**; prijssub city **0.244m** (sport **0.033** + VTC **0.211**); D&BC Gem/OCMW fees **0.592m**; cash **1.24k** THIN; partial div **473**; PnL **+0.005m**; ST non-ruil recv **0.320m**.
+- CSVs: sources/entities(+city_edegem)/budgets+35/commitments+7/leaderboard+7 + FOI ready `gap_agb_ede_gecorr_afm_neg_0_03m_prijssub_0_24m_debt_3_74m_cash_thin_div_partial_l5` (not sent); rq_1239=done; spawn rq_1240.
+- Next: rq_1240 residual dual L5 VL JR2025 hole_fill (city Edegem GE dual or other unmined AGB).

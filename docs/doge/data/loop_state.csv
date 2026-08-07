@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T00:20:00Z,rq_1238,1238,no,tick1238 AG2B Berlaar dual residual city prijssub 0.093m ST non-ruil recv 0.093m partial div 0.004m fin debt 0.002m BBR +0.080m FOI ready; next rq_1239 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T00:35:00Z,rq_1239,1239,no,tick1239 AGB Edegem BPGE dual residual gecorr AFM -0.032m prijssub 0.244m debt 3.737m D&BC 0.592m cash thin FOI ready; next rq_1240 residual dual L5 VL; continuous hole_fill
