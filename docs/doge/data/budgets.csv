@@ -30616,3 +30616,37 @@ bud_agbzot_pnl_2025,agb_zottegem,2025,44155,,,BBC JR2025 primary,src_agb_zottege
 bud_agbzot_dividend_2025,agb_zottegem,2025,44155,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Uitgekeerd dividend = full profit 0.044m to city; tick1160
 bud_agbzot_interest_2025,agb_zottegem,2025,72981,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Intresten leningen+leasing 0.073m; tick1160
 bud_agbzot_depr_2025,agb_zottegem,2025,553712,,,BBC JR2025 primary,src_agb_zottegem_jr2025,strong,Afschrijvingen/voorzieningen 0.554m; tick1160
+bud_agbrumst_assets_2025,agb_rumst,2025,7807526,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Assets balanstotaal YE2025 7.808m; tick1161
+bud_agbrumst_equity_2025,agb_rumst,2025,153234,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Nettoactief YE2025 0.153m THIN; tick1161
+bud_agbrumst_cum_pnl_neg_2025,agb_rumst,2025,-334266,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Gecumuleerd tekort YE2025 -0.334m; tick1161
+bud_agbrumst_debt_total_2025,agb_rumst,2025,7654292,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Schulden total YE2025 7.654m; tick1161
+bud_agbrumst_fin_debt_2025,agb_rumst,2025,7140895,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Fin schulden T4 total YE2025 7.141m (LT 6.610 + ST due 0.531); tick1161
+bud_agbrumst_fin_debt_lt_2025,agb_rumst,2025,6609904,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Fin schulden LT YE2025 6.610m; tick1161
+bud_agbrumst_fin_debt_st_due_2025,agb_rumst,2025,530991,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Fin schulden LT vervallend YE2025 0.531m; tick1161
+bud_agbrumst_cash_2025,agb_rumst,2025,23842,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Liquide middelen YE2025 0.024m THIN CRITICAL; tick1161
+bud_agbrumst_mva_2025,agb_rumst,2025,5621637,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,MVA total YE2025 5.622m; tick1161
+bud_agbrumst_lt_ruil_recv_2025,agb_rumst,2025,1626763,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,LT vorderingen ruil YE2025 1.627m (senior flats lease path); tick1161
+bud_agbrumst_st_lt_recv_due_2025,agb_rumst,2025,322164,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,LT vorderingen binnen jaar YE2025 0.322m; tick1161
+bud_agbrumst_cap_subs_2025,agb_rumst,2025,174367,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Kapitaalssubsidies YE2025 0.174m; tick1161
+bud_agbrumst_overig_netto_2025,agb_rumst,2025,313132,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Overig nettoactief YE2025 0.313m; tick1161
+bud_agbrumst_expl_rec_2025,agb_rumst,2025,726945,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Exploitatieontvangsten 0.727m; tick1161
+bud_agbrumst_expl_exp_2025,agb_rumst,2025,374593,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Exploitatieuitgaven 0.375m; tick1161
+bud_agbrumst_expl_saldo_2025,agb_rumst,2025,352352,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Exploitatiesaldo +0.352m; tick1161
+bud_agbrumst_prijssub_2025,agb_rumst,2025,557790,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Prijssubsidie gemeente 0.558m (factor 11.47 HIGH); tick1161
+bud_agbrumst_invest_exp_2025,agb_rumst,2025,899529,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Investeringsuitgaven 0.900m (museum 0.592 + GAM 0.257 + sport 0.044); tick1161
+bud_agbrumst_invest_saldo_2025,agb_rumst,2025,-899529,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Investeringssaldo -0.900m; tick1161
+bud_agbrumst_fin_rec_2025,agb_rumst,2025,1215375,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Financieringsontvangsten 1.215m (city loans 0.900 + lease recovery 0.316); tick1161
+bud_agbrumst_fin_exp_2025,agb_rumst,2025,530308,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Financieringsuitgaven 0.530m; tick1161
+bud_agbrumst_fin_saldo_2025,agb_rumst,2025,685068,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Financieringssaldo +0.685m; tick1161
+bud_agbrumst_new_loans_2025,agb_rumst,2025,899529,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Nieuwe leningen T4 0.900m (city for invest); tick1161
+bud_agbrumst_aflossingen_2025,agb_rumst,2025,530158,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Aflossingen T4 0.530m (city 0.308 + Belfius 0.222); tick1161
+bud_agbrumst_lease_recovery_2025,agb_rumst,2025,315847,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Terugvordering leasing seniorenflats Hoogvelden 0.316m; tick1161
+bud_agbrumst_budget_result_2025,agb_rumst,2025,137891,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Budgettair resultaat boekjaar +0.138m; tick1161
+bud_agbrumst_bbr_2025,agb_rumst,2025,-222171,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,BBR -0.222m NEG CRITICAL (capital increase 0.415m deferred to 2026); tick1161
+bud_agbrumst_capital_lag_2025,agb_rumst,2025,415000,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Kapitaalsverhoging krediet overgedragen naar 2026 0.415m; tick1161
+bud_agbrumst_afm_2025,agb_rumst,2025,138041,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,AFM +0.138m; tick1161
+bud_agbrumst_afm_gecorr_2025,agb_rumst,2025,126477,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Gecorr AFM +0.126m; tick1161
+bud_agbrumst_pnl_2025,agb_rumst,2025,19417,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,P&L +0.019m; tick1161
+bud_agbrumst_interest_2025,agb_rumst,2025,85586,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Financiele kosten 0.086m; tick1161
+bud_agbrumst_depr_2025,agb_rumst,2025,339990,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Afschrijvingen/voorzieningen 0.340m; tick1161
+bud_agbrumst_mjp_debt_2026,agb_rumst,2025,9073370,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,MJP fin debt YE2026 path 9.073m (new loans planned 2.550m); tick1161

@@ -16126,3 +16126,20 @@ Append-only. Each tick adds a short entry.
 - Pure annual waste top10 stable (GIP/fossil/cars/cheque/reporté)
 - Inventory: budgets ~30617 · lb ~6083 · FOI ready ~803 · entities ~884
 - Residual dual gain 1151-1160: Veurne BTW/prefin · Zottegem prijssub/leasing · Lommel Pat · AGOST · Zoersel cluster
+
+### Tick 1161 - 2026-08-07T22:00:00Z
+
+- Unit: **rq_1161** (FOI-adjacent residual dual - **AGB Rumst Jaarrekening 2025** Entity II leisure/infra after city GE)
+- Found (strong primary BBC 101p RVB 18.06.2026; KBO **0876.530.008**; Koningin Astridplein 12; AD Wouter De Smedt FD Michael Kerremans Voorzitter Jurgen Callaerts):
+  - Assets **EUR7.808m** / equity **EUR0.153m THIN** (cum P&L **NEG -0.334m**) / cash **EUR0.024m THIN**
+  - Fin debt T4 **EUR7.141m** (LT 6.610 / ST due **0.531m**); new city loans **0.900m**; amort **0.530m** (city 0.308 + Belfius 0.222)
+  - **BBR EUR-0.222m NEG CRITICAL** (capital increase **0.415m deferred to 2026**) / AFM **+EUR0.138m** / gecorr **+EUR0.126m** / budget **+EUR0.138m**
+  - Expl **EUR0.727m / 0.375m** saldo **+EUR0.352m** / **prijssubsidie EUR0.558m factor 11.47 HIGH**
+  - Invest **EUR0.900m** (museum 0.592 / GAM 0.257 / sport 0.044) / LT ruil recv **1.627m** / MJP debt YE2026 **9.073m** (+2.550m new)
+  - PnL **+EUR0.019m** / interest **0.086m**
+- Dual: city Rumst GE already mined tick907 - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen login / Bornem JR2024 only / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Genk / AGB Energiepunt Mechelen residual next
+- Wrote: budgets +34 (bud_agbrumst_*); commitments +6; leaderboard +8; sources +1; entity agb_rumst; FOI **gap_agb_rumst_bbr_neg_prijssub_capital_lag_debt_l5** prio9 ready + draft; PDF primary (not committed ~2.4MB); rq_1161=done; spawn **rq_1162**; ticks=1161
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1162** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local
