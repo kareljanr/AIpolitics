@@ -30066,3 +30066,31 @@ bud_agh_interest_2025,agb_herk_de_stad,2025,3617,,,jaarrekening_realized,src_her
 bud_agh_omzet_2025,agb_herk_de_stad,2025,78920,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Opbrengsten uit werking 0.079m; tick1138
 bud_agh_goederen_2025,agb_herk_de_stad,2025,63991,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Goederen en diensten 0.064m; tick1138
 bud_agh_andere_opbr_2025,agb_herk_de_stad,2025,26768,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Andere ops opbrengsten 0.027m; tick1138
+bud_etiz_assets_2025,ag_etiz_izegem,2025,37579374,,,jaarrekening_realized,src_etiz_jr2025,strong,Total assets YE2025 37.579m (was 35.731m); tick1139
+bud_etiz_equity_2025,ag_etiz_izegem,2025,20393997,,,jaarrekening_realized,src_etiz_jr2025,strong,Nettoactief YE2025 20.394m (was 20.801m); tick1139
+bud_etiz_debt_total_2025,ag_etiz_izegem,2025,17185377,,,jaarrekening_realized,src_etiz_jr2025,strong,Schulden total YE2025 17.185m (was 14.930m); tick1139
+bud_etiz_fin_debt_2025,ag_etiz_izegem,2025,13007243,,,jaarrekening_realized,src_etiz_jr2025,strong,Financiele schulden total YE2025 13.007m (LT 8.034 + ST due 4.973); tick1139
+bud_etiz_fin_debt_lt_2025,ag_etiz_izegem,2025,8034126,,,jaarrekening_realized,src_etiz_jr2025,strong,Fin schulden LT YE2025 8.034m; tick1139
+bud_etiz_fin_debt_st_due_2025,ag_etiz_izegem,2025,4973117,,,jaarrekening_realized,src_etiz_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 4.973m JUMP (was 0.467m); tick1139
+bud_etiz_new_loans_2025,ag_etiz_izegem,2025,4500000,,,jaarrekening_realized,src_etiz_jr2025,strong,Nieuwe leningen 4.500m ING 1y @2.539pct; tick1139
+bud_etiz_repayments_2025,ag_etiz_izegem,2025,466729,,,jaarrekening_realized,src_etiz_jr2025,strong,Periodieke aflossingen 0.467m; tick1139
+bud_etiz_cash_2025,ag_etiz_izegem,2025,378980,,,jaarrekening_realized,src_etiz_jr2025,strong,Liquide middelen 0.379m DROP (was 0.466m); tick1139
+bud_etiz_mva_2025,ag_etiz_izegem,2025,36737652,,,jaarrekening_realized,src_etiz_jr2025,strong,Materiele vaste activa 36.738m (installaties 36.267); tick1139
+bud_etiz_expl_ontv_2025,ag_etiz_izegem,2025,2433043,,,jaarrekening_realized,src_etiz_jr2025,strong,Exploitatieontvangsten 2.433m; tick1139
+bud_etiz_expl_uitg_2025,ag_etiz_izegem,2025,639200,,,jaarrekening_realized,src_etiz_jr2025,strong,Exploitatieuitgaven 0.639m; tick1139
+bud_etiz_expl_saldo_2025,ag_etiz_izegem,2025,1793843,,,jaarrekening_realized,src_etiz_jr2025,strong,Exploitatiesaldo +1.794m; tick1139
+bud_etiz_invest_2025,ag_etiz_izegem,2025,4053390,,,jaarrekening_realized,src_etiz_jr2025,strong,Investeringsuitgaven 4.053m (net); tick1139
+bud_etiz_fin_ontv_2025,ag_etiz_izegem,2025,4500000,,,jaarrekening_realized,src_etiz_jr2025,strong,Financieringsontvangsten 4.500m; tick1139
+bud_etiz_fin_uitg_2025,ag_etiz_izegem,2025,466729,,,jaarrekening_realized,src_etiz_jr2025,strong,Financieringsuitgaven 0.467m; tick1139
+bud_etiz_afm_2025,ag_etiz_izegem,2025,1327115,,,jaarrekening_realized,src_etiz_jr2025,strong,AFM +1.327m STRONG; tick1139
+bud_etiz_gecorr_afm_2025,ag_etiz_izegem,2025,1075926,,,jaarrekening_realized,src_etiz_jr2025,strong,Gecorrigeerde AFM +1.076m; tick1139
+bud_etiz_bbr_2025,ag_etiz_izegem,2025,-2750847,,,jaarrekening_realized,src_etiz_jr2025,strong,Beschikbaar budgettair resultaat -2.751m NEG (was -4.525m lag); tick1139
+bud_etiz_budget_result_2025,ag_etiz_izegem,2025,1773724,,,jaarrekening_realized,src_etiz_jr2025,strong,Budgettair resultaat boekjaar +1.774m; tick1139
+bud_etiz_pl_2025,ag_etiz_izegem,2025,-402731,,,jaarrekening_realized,src_etiz_jr2025,strong,P&L tekort -0.403m (was +0.054m); tick1139
+bud_etiz_omzet_2025,ag_etiz_izegem,2025,2430535,,,jaarrekening_realized,src_etiz_jr2025,strong,Opbrengsten uit werking/concessie toegelaten inkomen 2.431m; tick1139
+bud_etiz_interest_2025,ag_etiz_izegem,2025,396368,,,jaarrekening_realized,src_etiz_jr2025,strong,Financiele kosten intrest 0.396m; tick1139
+bud_etiz_afschr_2025,ag_etiz_izegem,2025,2200574,,,jaarrekening_realized,src_etiz_jr2025,strong,Afschrijvingen 2.201m; tick1139
+bud_etiz_goederen_2025,ag_etiz_izegem,2025,83148,,,jaarrekening_realized,src_etiz_jr2025,strong,Goederen en diensten 0.083m; tick1139
+bud_etiz_st_ruil_schuld_2025,ag_etiz_izegem,2025,3469628,,,jaarrekening_realized,src_etiz_jr2025,strong,ST niet-fin ruil schulden 3.470m; tick1139
+bud_etiz_cum_tekort_2025,ag_etiz_izegem,2025,288629,,,jaarrekening_realized,src_etiz_jr2025,strong,Gecumuleerd overschot 0.289m (was 0.691m); tick1139
+bud_etiz_overig_netto_2025,ag_etiz_izegem,2025,20048049,,,jaarrekening_realized,src_etiz_jr2025,strong,Overig nettoactief 20.048m; tick1139

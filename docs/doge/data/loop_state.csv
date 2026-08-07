@@ -1,2 +1,2 @@
-﻿"state_id","mode","current_sprint","last_tick_utc","last_unit_id","ticks_completed","paused","notes"
-"main","continuous","hole_fill","2026-08-12T10:30:00Z","rq_1138","1138","no","last tick1138 AGB Herk-de-Stad Entity II LT recv/loans JUMP; next rq_1139 residual dual L5; progress@1140 NEXT; rq_116 deferred; continuous hole_fill"
+state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
+main,continuous,hole_fill,2026-08-12T11:00:00Z,rq_1139,1139,no,last tick1139 AG ETIZ Izegem JR2025 FOI-adjacent fill; next rq_1140 progress@1140 MANDATORY + residual dual L5; rq_116 deferred; continuous hole_fill

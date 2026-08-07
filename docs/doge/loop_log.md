@@ -15721,3 +15721,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1139** residual dual L5; deferred **rq_116**; **progress@1140 NEXT**
 
+
+### Tick 1139 - 2026-08-12T11:00:00Z
+
+- Unit: **rq_1139** (FOI-adjacent residual dual - **AG ETIZ Izegem Jaarrekening 2025** Entity II; fills prior gap_izegem_etiz lag)
+- Found (strong primary BBC JR2025 AG ETIZ 51p text; izegem.be/etiz; KBO **0207.559.115**; NIS **36008**; Korenmarkt 10 8870; Voorzitter Filip Buyse AD Anton Jacobus FD Dieter Cardoen; RvB 15 jun 2026):
+  - Assets **EUR37.579m** (was 35.731m) / equity **EUR20.394m** / debt total **EUR17.185m**
+  - Fin debt total **EUR13.007m JUMP** (LT **EUR8.034m** / **ST due EUR4.973m JUMP** was 0.467m)
+  - **New loans EUR4.500m** ING 1y @**2.539%** / repayments **EUR0.467m** / interest **EUR0.396m**
+  - Cash **EUR0.379m DROP** (was 0.466m) / MVA **EUR36.738m** (installaties 36.267)
+  - Exploitatie: ontvangsten **EUR2.433m** (toegelaten inkomen/concessie **EUR2.431m**) / uitgaven **EUR0.639m** / saldo **+EUR1.794m**
+  - Invest **EUR4.053m** grid / fin saldo **+EUR4.033m**
+  - AFM **+EUR1.327m STRONG** / gecorr **+EUR1.076m** / **BBR -EUR2.751m NEG** (was lag -4.525m) / budget **+EUR1.774m**
+  - P&L **-EUR0.403m** (was +0.054m) / dividend 0 / afschr **EUR2.201m**
+  - Risk: BTW-controle kerstverlichting provisie; Fluvius integration residual; ST refinance wall FOI
+- Dual: city Izegem already mined (tick853) - **not TE-additive**; prior FOI gap_izegem_etiz_loans_l5 major public fill (ETIZ JR2025)
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere / Brakel GE+OCMW / Puurs / AGB Galmaarden / AGIZ residual next; **progress@1140 NEXT**
+- Wrote: budgets +28 (bud_etiz_*); commitments +7; leaderboard +10; sources +1; entity ag_etiz_izegem; FOI **gap_etiz_st_refinance_btw_fluvius_l5** prio9 ready + draft; old FOI notes updated; PDF primary (not committed ~1.2MB); rq_1139=done; spawn **rq_1140**; ticks=1139
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1140** **progress@1140 MANDATORY** + residual dual L5; deferred **rq_116**
+
