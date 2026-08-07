@@ -15645,3 +15645,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1135** residual dual L5; deferred **rq_116**; progress@1140 in 5
 
+
+### Tick 1135 - 2026-08-12T09:00:00Z
+
+- Unit: **rq_1135** (FOI-adjacent residual dual - **AGB Bocholt Jaarrekening 2025** Entity II after city)
+- Found (strong primary BBC JR2025 AGB 119p text; bocholt.be; KBO **0807.465.513**; NIS **72003**; Dorpsstraat 16 3950; AD Marina Rijken FD Filip Lafosse):
+  - Assets **EUR15.673m** / equity **EUR0.696m JUMP** / debt total **EUR14.977m**
+  - Fin debt total **EUR14.077m** (LT **EUR10.545m** / ST due **EUR0.533m** / **ST EUR3.000m** straight loans KMO FOI)
+  - New loans **EUR0.322m** / repayments **EUR0.513m** / interest **EUR0.146m** (bank 0.109 / andere 0.037)
+  - Cash **EUR0.580m JUMP** / **inventory EUR3.082m KMO-Kanaal FOI** / MVA **EUR11.442m**
+  - Exploitatie: ontvangsten **EUR2.279m** / uitgaven **EUR1.011m** / saldo **+EUR1.268m VERY STRONG**
+  - AFM **+EUR0.754m STRONG** / gecorr AFM **+EUR0.110m** / **BBR -EUR2.397m DEEP NEG FOI** / budget **+EUR0.754m**
+  - P&L **+EUR0.594m** / dividend **EUR0.150m** / omzet **EUR2.119m JUMP**
+  - Invest **EUR0.322m vs MJP EUR0.047m OVERSPEND FOI**
+  - Risk note: city invest loans **renteloos**; KMO-Kanaal **euribor 3m straight loans** wind-down FOI
+- Dual: city Bocholt consol AGB BBR -2.397m already flagged earlier - dual residual now primary-sourced
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere full JR / Brakel GE+OCMW / Puurs / AGB Galmaarden residual next; progress@1140 in 4
+- Wrote: budgets +31 (bud_agb_*); commitments +7; leaderboard +10; sources +1; entity agb_bocholt; FOI **gap_agb_bbr_deep_neg_st_debt_inventory_kmo_l5** prio9 ready + draft; PDF primary (not committed ~10MB); rq_1135=done; spawn **rq_1136**; ticks=1135
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1136** residual dual L5; deferred **rq_116**; progress@1140 in 4
+

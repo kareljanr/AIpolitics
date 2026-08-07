@@ -29954,3 +29954,34 @@ bud_agr_omzet_2025,agb_rotselaar,2025,1826194,,,jaarrekening_realized,src_rotsel
 bud_agr_goederen_2025,agb_rotselaar,2025,986065,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Goederen en diensten T2 0.986m; tick1134
 bud_agr_prijssub_2025,agb_rotselaar,2025,27496,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Prijssubsidie gemeente kengetallen 0.027m FOI; tick1134
 bud_agr_personeel_2025,agb_rotselaar,2025,0,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Bezoldigingen 0 (shell AGB); tick1134
+bud_agb_assets_2025,agb_bocholt,2025,15672633,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Total assets YE2025 15.673m; tick1135
+bud_agb_equity_2025,agb_bocholt,2025,695723,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Nettoactief YE2025 0.696m JUMP; tick1135
+bud_agb_debt_total_2025,agb_bocholt,2025,14976910,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Total schulden YE2025 14.977m; tick1135
+bud_agb_fin_debt_total_2025,agb_bocholt,2025,14077266,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Fin schulden total YE2025 14.077m (LT+ST due+ST); tick1135
+bud_agb_fin_debt_lt_2025,agb_bocholt,2025,10544572,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Fin schulden LT YE2025 10.545m; tick1135
+bud_agb_fin_debt_st_due_2025,agb_bocholt,2025,532694,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.533m; tick1135
+bud_agb_fin_debt_st_2025,agb_bocholt,2025,3000000,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Fin schulden KT YE2025 3.000m straight loans KMO FOI; tick1135
+bud_agb_cash_2025,agb_bocholt,2025,580083,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Liquide middelen YE2025 0.580m JUMP; tick1135
+bud_agb_inventory_2025,agb_bocholt,2025,3081680,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Voorraden/WIP 3.082m KMO-Kanaal FOI; tick1135
+bud_agb_mva_2025,agb_bocholt,2025,11441920,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Materiele vaste activa YE2025 11.442m; tick1135
+bud_agb_expl_rec_2025,agb_bocholt,2025,2278956,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Exploitatieontvangsten 2.279m; tick1135
+bud_agb_expl_exp_2025,agb_bocholt,2025,1011401,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Exploitatieuitgaven 1.011m; tick1135
+bud_agb_expl_saldo_2025,agb_bocholt,2025,1267556,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Exploitatiesaldo +1.268m VERY STRONG; tick1135
+bud_agb_invest_2025,agb_bocholt,2025,322360,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Investeringsuitgaven 0.322m vs MJP 0.047m OVER FOI; tick1135
+bud_agb_invest_mjp_2025,agb_bocholt,2025,47000,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,MJP invest krediet 0.047m; tick1135
+bud_agb_invest_overspend_2025,agb_bocholt,2025,275360,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Invest overspend ~0.275m FOI; tick1135
+bud_agb_afm_2025,agb_bocholt,2025,754495,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,AFM +0.754m STRONG; tick1135
+bud_agb_afm_gecorr_2025,agb_bocholt,2025,110118,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Gecorr AFM +0.110m (MJP was -0.176m); tick1135
+bud_agb_bbr_2025,agb_bocholt,2025,-2396673,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,BBR -2.397m DEEP NEG FOI (cum budget hole); tick1135
+bud_agb_budget_result_2025,agb_bocholt,2025,754495,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Budgettair resultaat +0.754m; tick1135
+bud_agb_pl_2025,agb_bocholt,2025,594351,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,P&L overschot +0.594m; tick1135
+bud_agb_dividend_2025,agb_bocholt,2025,150000,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Rechthebbenden/dividend 0.150m FOI; tick1135
+bud_agb_new_loans_2025,agb_bocholt,2025,322360,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Nieuwe leningen 0.322m; tick1135
+bud_agb_repay_2025,agb_bocholt,2025,513061,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Periodieke aflossingen 0.513m; tick1135
+bud_agb_interest_2025,agb_bocholt,2025,146089,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Rente total 0.146m; tick1135
+bud_agb_interest_bank_2025,agb_bocholt,2025,108908,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Rente banken 0.109m (euribor ST FOI); tick1135
+bud_agb_interest_city_2025,agb_bocholt,2025,37182,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Rente andere entiteiten 0.037m FOI; tick1135
+bud_agb_omzet_2025,agb_bocholt,2025,2119172,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Ontvangsten uit werking T2 2.119m JUMP; tick1135
+bud_agb_goederen_2025,agb_bocholt,2025,645711,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Goederen en diensten T2 0.646m; tick1135
+bud_agb_prov_2025,agb_bocholt,2025,337191,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Voorzieningen LT 0.337m; tick1135
+bud_agb_cum_pl_2025,agb_bocholt,2025,670723,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Gecumuleerd overschot 0.671m; tick1135
