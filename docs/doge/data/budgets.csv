@@ -32571,3 +32571,24 @@ bud_agbboe_pnl_2025,agb_boechout,2025,14466,,,bbc_jr_realized,src_agb_boechout_j
 bud_agbboe_div_2025,agb_boechout,2025,10000,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Dividend city 0.010m partial strip; tick1227
 bud_agbboe_goods_2025,agb_boechout,2025,379165,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,Goederen en diensten 0.379m (staff 0); tick1227
 bud_agbboe_nonruil_recv_2025,agb_boechout,2025,423628,,,bbc_jr_realized,src_agb_boechout_jr2025,strong,ST non-ruil recv 0.424m; tick1227
+bud_agbhas_expl_ont_2025_mjp,agb_hasselt_stadsontwikkeling,2025,9183642,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Exploitatieontvangsten MJP 9.184m; MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_expl_uit_2025_mjp,agb_hasselt_stadsontwikkeling,2025,4543900,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Exploitatieuitgaven MJP 4.544m; MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_expl_saldo_2025_mjp,agb_hasselt_stadsontwikkeling,2025,4639742,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Exploitatiesaldo MJP +4.640m; MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_invest_ont_2025_mjp,agb_hasselt_stadsontwikkeling,2025,4150000,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Investeringsontvangsten MJP 4.150m (kazerne sale); MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_invest_uit_2025_mjp,agb_hasselt_stadsontwikkeling,2025,487000,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Investeringsuitgaven MJP 0.487m; MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_invest_saldo_2025_mjp,agb_hasselt_stadsontwikkeling,2025,3663000,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Investeringssaldo MJP +3.663m; MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_fin_ont_2025_mjp,agb_hasselt_stadsontwikkeling,2025,1202385,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Fin ont MJP 1.202m loan recoveries; MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_fin_uit_2025_mjp,agb_hasselt_stadsontwikkeling,2025,8052259,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Fin uit MJP 8.052m (amort 5.500m + early 2.552m); MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_amort_2025_mjp,agb_hasselt_stadsontwikkeling,2025,5499886,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Periodieke aflossingen MJP 5.500m; MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_early_repay_2025_mjp,agb_hasselt_stadsontwikkeling,2025,2552374,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Niet-periodieke aflossingen MJP 2.552m; MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_budget_2025_mjp,agb_hasselt_stadsontwikkeling,2025,1452868,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Budgettair resultaat MJP +1.453m; MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_bbr_2025_mjp,agb_hasselt_stadsontwikkeling,2025,2879885,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,BBR beschikbaar MJP 2.880m; MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_afm_2025_mjp,agb_hasselt_stadsontwikkeling,2025,342242,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,AFM MJP +0.342m; MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_afm_gecorr_2025_mjp,agb_hasselt_stadsontwikkeling,2025,-2404634,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Gecorr AFM MJP -2.405m NEG CRITICAL; MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_fin_debt_2025_mjp,agb_hasselt_stadsontwikkeling,2025,95032253,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Fin schulden YE2025 plan 95.032m; MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_fin_debt_lt_2025_mjp,agb_hasselt_stadsontwikkeling,2025,89819402,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Fin schulden LT YE2025 plan 89.819m; MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_fin_debt_st_due_2025_mjp,agb_hasselt_stadsontwikkeling,2025,5212851,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Fin schulden ST due YE2025 plan 5.213m; MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_zwembad_expl_saldo_2025_mjp,agb_hasselt_stadsontwikkeling,2025,-583856,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Zwembad Kapermolen expl saldo MJP -0.584m; MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_goods_2025_mjp,agb_hasselt_stadsontwikkeling,2025,3053810,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Goederen en diensten MJP 3.054m; MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_interest_2025_mjp,agb_hasselt_stadsontwikkeling,2025,1265941,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Rente op schulden MJP 1.266m; MJP planned NOT JR realized; FOI outturn; tick1228
+bud_agbhas_fin_debt_2024_ye,agb_hasselt_stadsontwikkeling,2024,103084513,,,bbc_mjp_risk_note,src_agb_hasselt_mjp2025,strong,Openstaande schuld 31/12/2024 103.085m (5 vast 90.7m @0.94pct + 3 var 12.4m @2.30pct avg 1.32pct); tick1228

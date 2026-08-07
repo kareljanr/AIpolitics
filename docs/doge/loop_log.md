@@ -17150,3 +17150,11 @@ Append-only. Each tick adds a short entry.
 - € strong: gecorr AFM **−0.091m** NEG; fin debt **5.932m**; prijssub **0.628m** (~78% expl); AFM **+0.004m** thin; cash **0.039m** thin; div **0.010m** / PnL **0.014m**; amort **0.413m**.
 - CSVs: sources/entities/budgets/commitments/leaderboard + FOI ready `gap_agb_boe_gecorr_afm_neg_0_09m_debt_5_93m_prijssub_0_63m_div_0_01m_cash_thin_l5` (not sent).
 - Next: rq_1228 residual dual L5 VL JR2025 hole_fill.
+
+### Tick 1228 — 2026-08-07 — rq_1228 AGB Hasselt Stadsontwikkeling dual residual
+- Unit: AG Stadsontwikkeling Hasselt (KBO 0864.952.958) after city GE tick835; JR2025 RVB public **scan-only** 62MB (0 text) → FOI.
+- EUR medium (MJP2025 plan): gecorr AFM **-2.405m** NEG; fin debt YE2025 plan **95.032m**; AFM **+0.342m**; BBR **2.880m**; expl **+4.640m**; zwembad **-0.584m**.
+- EUR strong YE2024: fin debt **103.085m** (risk note portfolio).
+- CSVs: sources×2/entities/budgets/commitments/leaderboard + FOI ready gap_agb_hasselt_stadsontw_jr2025_scan_gecorr_afm_neg_2_40m_debt_95m_l5 (not sent).
+- Next: rq_1229 residual dual L5 VL JR2025 hole_fill.
+
