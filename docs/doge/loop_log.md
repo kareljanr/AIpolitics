@@ -15900,3 +15900,9 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1148** residual dual L5; deferred **rq_116**; progress@1150 in 3
 
+
+## 2026-08-07T14:29:09Z — STOP
+- User: stop / paused=yes
+- Watcher cancelled (019fdc8fbbca)
+- ticks_completed=1147; next rq_1148; progress@1150 in 3
+
