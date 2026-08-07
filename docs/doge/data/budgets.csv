@@ -32019,3 +32019,32 @@ bud_agbhal_depr_2025,agb_halen,2025,86021,,,BBC JR2025 primary + toelichting,src
 bud_agbhal_staff_2025,agb_halen,2025,0,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,Seconded personnel city line residual; no own VTE residual; tick1207
 bud_agbhal_omzet_werking_2025,agb_halen,2025,506196,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,J5 opbrengsten werking 0.506m; tick1207
 bud_agbhal_st_nonfin_debt_2025,agb_halen,2025,131380,,,BBC JR2025 primary + toelichting,src_agb_halen_jr2025,strong,J4 ST non-fin ruil 0.131m; tick1207
+bud_agbtb_expl_rec_2025,agb_tongeren_borgloon,2025,765351,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,Doc charts expl ontvangsten 0.765m (musea 94pct); tick1208
+bud_agbtb_expl_exp_2025,agb_tongeren_borgloon,2025,457196,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,Doc charts expl uitgaven 0.457m; tick1208
+bud_agbtb_expl_saldo_2025,agb_tongeren_borgloon,2025,308155,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,REG/doc expl saldo +0.308m; tick1208
+bud_agbtb_invest_exp_2025,agb_tongeren_borgloon,2025,23904,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,Doc charts invest 0.024m underspend vs 0.109m plan; tick1208
+bud_agbtb_fin_exp_repay_2025,agb_tongeren_borgloon,2025,263283,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,Doc charts fin uitgaven/repay 0.263m; tick1208
+bud_agbtb_new_loans_2025,agb_tongeren_borgloon,2025,23904,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,Doc charts fin ontvangsten new loans 0.024m = invest; tick1208
+bud_agbtb_budget_result_2025,agb_tongeren_borgloon,2025,44872,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,Computed expl+invest+fin = +0.045m strong flow arithmetic; tick1208
+bud_agbtb_div_city_2025,agb_tongeren_borgloon,2025,12646,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,Doc charts rechthebbenden 0.013m + TB 44900000; tick1208
+bud_agbtb_goederen_2025,agb_tongeren_borgloon,2025,420443,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,Doc charts goederen en diensten 0.420m (92pct opex); tick1208
+bud_agbtb_energy_2025,agb_tongeren_borgloon,2025,61310,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,Doc charts energie 0.061m (15pct goederen); tick1208
+bud_agbtb_fin_costs_2025,agb_tongeren_borgloon,2025,7187,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,Doc charts financiele uitgaven 0.007m; tick1208
+bud_agbtb_staff_uitzend_2025,agb_tongeren_borgloon,2025,15918,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,TB uitzendkrachten 0.016m; tick1208
+bud_agbtb_zitpenningen_2025,agb_tongeren_borgloon,2025,17717,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,Doc/TB politieke organen/zitpenningen 0.018m; tick1208
+bud_agbtb_cash_2025,agb_tongeren_borgloon,2025,218653,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,TB cash R/C+kassa ~0.219m (193.8+21.1+2.3+1.2); tick1208
+bud_agbtb_fin_debt_city_lt_2025,agb_tongeren_borgloon,2025,4627305,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,TB 17400002 city loans 4.627m; tick1208
+bud_agbtb_fin_debt_other_city_2025,agb_tongeren_borgloon,2025,4866689,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,TB 17490002 overige city loans 4.867m; tick1208
+bud_agbtb_fin_debt_leasing_city_2025,agb_tongeren_borgloon,2025,291191,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,TB 17220002 leasing city 0.291m; tick1208
+bud_agbtb_fin_debt_st_due_2025,agb_tongeren_borgloon,2025,520844,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,TB 42400002+44540000 ST due path ~0.521m (260.9+259.9); tick1208
+bud_agbtb_fin_debt_2025,agb_tongeren_borgloon,2025,10308029,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,TB city+leasing+ST due fin debt ~10.308m; tick1208
+bud_agbtb_mva_buildings_gross_2025,agb_tongeren_borgloon,2025,10934065,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,TB buildings gross 10.934m; tick1208
+bud_agbtb_mva_buildings_net_2025,agb_tongeren_borgloon,2025,8355035,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,TB buildings net 10.934-2.579=8.355m; tick1208
+bud_agbtb_inventory_2025,agb_tongeren_borgloon,2025,68174,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,TB handelsgoederen 0.068m (streekproducten); tick1208
+bud_agbtb_prijssub_recv_2025,agb_tongeren_borgloon,2025,112157,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,TB te ontvangen prijssubsidies 0.112m residual; tick1208
+bud_agbtb_capital_2025,agb_tongeren_borgloon,2025,25000,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,TB kapitaal 0.025m; tick1208
+bud_agbtb_retained_2025,agb_tongeren_borgloon,2025,89250,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,TB overgedragen overschot 0.089m; tick1208
+bud_agbtb_pnl_retained_2025,agb_tongeren_borgloon,2025,50585,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,TB over te dragen overschot boekjaar 0.051m; tick1208
+bud_agbtb_musea_rec_2025,agb_tongeren_borgloon,2025,719946,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,Doc charts musea ontvangsten 0.720m (94pct); tick1208
+bud_agbtb_musea_exp_2025,agb_tongeren_borgloon,2025,376206,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,Doc charts musea uitgaven 0.376m (82pct opex); tick1208
+bud_agbtb_erfpacht_offbal_2025,agb_tongeren_borgloon,2025,136000,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,TB off-balance erfpacht residual 0.136m; tick1208

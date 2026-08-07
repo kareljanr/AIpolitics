@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T21:00:00Z,rq_1207,1207,no,tick1207 AGB Halen dual residual equity NEG AFM NEG prijssub 0.31m debt 0.68m energy 0.15m FOI; next rq_1208 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T21:30:00Z,rq_1208,1208,no,tick1208 AGB Tongeren-Borgloon dual residual city debt ~10.3m musea shell expl 0.77m FOI full BBC; next rq_1209 residual dual L5 VL; rq_116 deferred; continuous hole_fill

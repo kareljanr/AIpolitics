@@ -16906,3 +16906,17 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1208** residual dual L5 VL; deferred **rq_116**
 
+
+### Tick 1208 - 2026-08-08T21:30:00Z
+
+- Unit: **rq_1208** (FOI-adjacent residual dual - **AGB Tongeren-Borgloon JR2025** Entity II heritage/tourism after city GE)
+- Found (strong primary documentation ODAA+proefbalans+grafieken; KBO **0820.533.292**; Maastrichterstraat 10; Voorzitter Jo Dardenne Secr Jan Carmans):
+  - Expl **EUR765.351 / 457.196** saldo **+0.308m** / invest **EUR23.904** / fin repay **EUR263.283** / new loans **EUR23.904** / budget year **~+EUR44.872**
+  - City-path fin debt **~EUR10.308m** (city loans 4.627 + overige 4.867 + leasing 0.291 + ST due ~0.521)
+  - Musea **94pct** expl rec / **82pct** opex; div **EUR12.646**; energy **EUR61.310**; cash **~EUR0.219m**
+  - Buildings gross **EUR10.934m** / net **~EUR8.355m**; erfpacht off-balance residual **EUR0.136m**
+  - Full BBC Beleidsrapport (J2/J4/J5) **not** public — documentation only
+- Dual: city Tongeren-Borgloon GE already mined — AGB dual residual closed for documentation layer
+- Wrote: budgets +28; commitments +6; leaderboard +7; sources +1; entity agb_tongeren_borgloon; FOI **gap_agb_tb_city_debt_10_3m_musea_shell_div_0_01m_full_bbc_l5** prio8 ready + draft; rq_1208=done; spawn **rq_1209**; ticks=1208
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_1209** residual dual L5 VL; deferred **rq_116**
