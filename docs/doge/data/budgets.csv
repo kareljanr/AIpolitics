@@ -31159,3 +31159,36 @@ bud_agbsz_prijssub_city_2025,agb_scherpenheuvel_zichem,2025,485866,,,BBC JR2025 
 bud_agbsz_city_loan_new_2025,agb_scherpenheuvel_zichem,2025,153364,,,BBC JR2025 dual primary,src_agb_sz_patrimonium_jr2025,strong,City toegestane lening to AGB 0.153m UNDER vs MJP 1.440m; tick1178
 bud_agbsz_city_loan_recover_2025,agb_scherpenheuvel_zichem,2025,292643,,,BBC JR2025 dual primary,src_agb_sz_patrimonium_jr2025,strong,City periodieke terugvordering van AGB 0.293m; tick1178
 bud_agbsz_leasing_fee_shell_2025,agb_scherpenheuvel_zichem,2025,859070,,,BBC JR2025 dual primary,src_agb_sz_patrimonium_jr2025,strong,Leasingvergoedingen via AGB 0.859m (nuloperatie city dual BTW); tick1178
+bud_agbbrass_assets_2025,agb_brasschaat,2025,9970970,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Assets balanstotaal YE2025 9.971m; tick1179
+bud_agbbrass_equity_2025,agb_brasschaat,2025,434294,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Nettoactief YE2025 0.434m THIN vs debt 9.34m; tick1179
+bud_agbbrass_cum_pnl_2025,agb_brasschaat,2025,338294,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Gecumuleerd overschot YE2025 0.338m; tick1179
+bud_agbbrass_other_netto_2025,agb_brasschaat,2025,96000,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Overig nettoactief YE2025 0.096m; tick1179
+bud_agbbrass_debt_total_2025,agb_brasschaat,2025,9536676,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Schulden total YE2025 9.537m; tick1179
+bud_agbbrass_fin_debt_2025,agb_brasschaat,2025,9338207,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Fin schulden T4 total YE2025 9.338m; tick1179
+bud_agbbrass_fin_debt_lt_2025,agb_brasschaat,2025,9188606,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Fin schulden LT YE2025 9.189m; tick1179
+bud_agbbrass_fin_debt_st_due_2025,agb_brasschaat,2025,149601,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Fin schulden LT vervallend YE2025 0.150m; tick1179
+bud_agbbrass_cash_2025,agb_brasschaat,2025,355733,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Liquide middelen YE2025 0.356m DROP from 0.418m; tick1179
+bud_agbbrass_mva_2025,agb_brasschaat,2025,9412272,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,MVA YE2025 9.412m; tick1179
+bud_agbbrass_mva_leasing_2025,agb_brasschaat,2025,9188207,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,MVA leasing/soortgelijke rechten YE2025 9.188m shell gemeentehuis; tick1179
+bud_agbbrass_provision_gevel_2025,agb_brasschaat,2025,94581,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Voorziening risico gevel Verhoevenlei 11 YE2025 0.095m; tick1179
+bud_agbbrass_st_nonfin_debt_2025,agb_brasschaat,2025,56272,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,ST niet-fin schulden ruil YE2025 0.056m; tick1179
+bud_agbbrass_st_recv_ruil_2025,agb_brasschaat,2025,170782,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,ST vorderingen ruil YE2025 0.171m; tick1179
+bud_agbbrass_expl_rec_2025,agb_brasschaat,2025,548546,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Exploitatieontvangsten 0.549m; tick1179
+bud_agbbrass_expl_exp_2025,agb_brasschaat,2025,331928,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Exploitatieuitgaven 0.332m; tick1179
+bud_agbbrass_expl_saldo_2025,agb_brasschaat,2025,216618,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Exploitatiesaldo +0.217m; tick1179
+bud_agbbrass_werking_rec_2025,agb_brasschaat,2025,523051,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Ontvangsten uit de werking 0.523m (gemeentehuis hosting); tick1179
+bud_agbbrass_invest_exp_2025,agb_brasschaat,2025,105619,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Investeringsuitgaven 0.106m UNDER vs MJP 0.125m; tick1179
+bud_agbbrass_invest_saldo_2025,agb_brasschaat,2025,-105619,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Investeringssaldo -0.106m; tick1179
+bud_agbbrass_repay_2025,agb_brasschaat,2025,149601,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Periodieke aflossingen leasing/lening 0.150m; tick1179
+bud_agbbrass_fin_saldo_2025,agb_brasschaat,2025,-149601,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Financieringssaldo -0.150m; tick1179
+bud_agbbrass_budget_result_2025,agb_brasschaat,2025,-38603,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Budgettair resultaat boekjaar -0.039m; tick1179
+bud_agbbrass_bbr_2025,agb_brasschaat,2025,440938,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Beschikbaar BBR YE2025 0.441m; tick1179
+bud_agbbrass_afm_2025,agb_brasschaat,2025,67016,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,AFM +0.067m thin POS; tick1179
+bud_agbbrass_afm_gecorr_2025,agb_brasschaat,2025,-542407,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Gecorr AFM -0.542m NEG DEEP; tick1179
+bud_agbbrass_aangewezen_amort_2025,agb_brasschaat,2025,759025,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Gecorrigeerde aflossingen o.b.v. fin schulden 0.759m; tick1179
+bud_agbbrass_pnl_2025,agb_brasschaat,2025,24122,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,P&L +0.024m (not distributed); tick1179
+bud_agbbrass_dividend_2025,agb_brasschaat,2025,0,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Dividend 0 — RVB Art.2 resultaat niet uitkeren; tick1179
+bud_agbbrass_depr_prov_2025,agb_brasschaat,2025,199088,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Afschrijvingen+voorzieningen J5 0.199m (incl gevel); tick1179
+bud_agbbrass_goods_services_2025,agb_brasschaat,2025,323888,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Goederen en diensten expl 0.324m; tick1179
+bud_agbbrass_mjp_debt_2026,agb_brasschaat,2025,9188606,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,MJP fin debt YE2026 path 9.189m; tick1179
+bud_agbbrass_staff_2025,agb_brasschaat,2025,0,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Personeelsinzet ZERO — geen personeel in dienst; tick1179

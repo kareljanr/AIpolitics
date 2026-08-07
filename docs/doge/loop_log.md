@@ -16428,3 +16428,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**; full BBC PDF gap
 - Next: prio5 **rq_1179** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1179 - 2026-08-08T07:00:00Z
+
+- Unit: **rq_1179** (FOI-adjacent residual dual - **AGB Brasschaat Jaarrekening 2025** Entity II gemeentehuis leasing shell)
+- Found (strong primary BBC 46p RVB 17.06.2026; KBO **0878.670.837** NIS **11008**; Bredabaan 182; AD Ward Schevernels FD Geert De Blende Voorzitter Bart Brughmans):
+  - Assets **EUR9.971m** / equity **EUR0.434m THIN** / cash **EUR0.356m DROP** from 0.418
+  - Fin debt T4 **EUR9.338m** (LT 9.189 / ST due 0.150); repay **0.150m**; no new loans
+  - MVA leasing **EUR9.188m** (gemeentehuis/dienstencentrum shell); gevel provision Verhoevenlei 11 **0.095m**
+  - BBR **EUR0.441m** / AFM **+EUR0.067m thin POS** / **gecorr AFM EUR-0.542m NEG DEEP** (aangewezen 0.759m)
+  - Expl **EUR0.549m / 0.332m** saldo **+EUR0.217m** / werking **0.523m** / invest **0.106m UNDER**
+  - PnL **+EUR0.024m** **no dividend** (Art.2); **zero staff**; heractivering open
+- Dual: city Brasschaat GE not fully mined this tick - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: AGB Middelkerke JR2025 PDF public / AGB Stabroek / Oosterzele / Nijlen / Bornem JR2024 / Schelle residual next
+- Wrote: budgets +33 (bud_agbbrass_*); commitments +6; leaderboard +8; sources +1; entities city+agb_brasschaat; FOI **gap_agb_brass_leasing_shell_9_19m_gecorr_afm_neg_0_54m_gevel_l5** prio9 ready + draft; PDF primary (not committed ~3.5MB); rq_1179=done; spawn **rq_1180**; ticks=1179
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1180** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local
