@@ -30710,3 +30710,36 @@ bud_agbher_pnl_2025,agb_herzele,2025,51607,,,BBC JR2025 primary,src_agb_herzele_
 bud_agbher_dividend_2025,agb_herzele,2025,51607,,,BBC JR2025 primary,src_agb_herzele_jr2025,strong,Uitgekeerd dividend = full profit 0.052m to city; tick1163
 bud_agbher_depr_2025,agb_herzele,2025,175737,,,BBC JR2025 primary,src_agb_herzele_jr2025,strong,Afschrijvingen/voorzieningen 0.176m; tick1163
 bud_agbher_interest_2025,agb_herzele,2025,0,,,BBC JR2025 primary,src_agb_herzele_jr2025,strong,Financiele kosten 0 FOI (interest blank on kengetallen); tick1163
+bud_agbzele_assets_2025,agb_zele,2025,12959488,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Assets balanstotaal YE2025 12.959m; tick1164
+bud_agbzele_equity_2025,agb_zele,2025,970468,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Nettoactief YE2025 0.970m; tick1164
+bud_agbzele_cum_pnl_2025,agb_zele,2025,170855,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Gecumuleerd overschot YE2025 0.171m flat (full dividend); tick1164
+bud_agbzele_cap_subs_2025,agb_zele,2025,799613,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Kapitaalssubsidies YE2025 0.800m; tick1164
+bud_agbzele_debt_total_2025,agb_zele,2025,11989020,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Schulden total YE2025 11.989m; tick1164
+bud_agbzele_fin_debt_2025,agb_zele,2025,11241602,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Fin schulden T4 total YE2025 11.242m DECLINING; tick1164
+bud_agbzele_fin_debt_lt_2025,agb_zele,2025,10734613,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Fin schulden LT YE2025 10.735m; tick1164
+bud_agbzele_fin_debt_st_due_2025,agb_zele,2025,506989,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Fin schulden LT vervallend YE2025 0.507m; tick1164
+bud_agbzele_cash_2025,agb_zele,2025,754015,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Liquide middelen YE2025 0.754m; tick1164
+bud_agbzele_mva_2025,agb_zele,2025,11929048,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,MVA YE2025 11.929m; tick1164
+bud_agbzele_mva_buildings_2025,agb_zele,2025,7594775,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,MVA terreinen/gebouwen YE2025 7.595m; tick1164
+bud_agbzele_leasing_mva_2025,agb_zele,2025,3703078,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Leasing MVA YE2025 3.703m shell; tick1164
+bud_agbzele_st_nonruil_recv_2025,agb_zele,2025,221764,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,ST vorderingen niet-ruil YE2025 0.222m; tick1164
+bud_agbzele_expl_rec_2025,agb_zele,2025,1569517,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Exploitatieontvangsten 1.570m; tick1164
+bud_agbzele_expl_exp_2025,agb_zele,2025,771119,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Exploitatieuitgaven 0.771m; tick1164
+bud_agbzele_expl_saldo_2025,agb_zele,2025,798398,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Exploitatiesaldo +0.798m; tick1164
+bud_agbzele_prijssub_2025,agb_zele,2025,986133,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Prijssubsidie gemeente 0.986m (P&S 7070000); tick1164
+bud_agbzele_invest_exp_2025,agb_zele,2025,208193,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Investeringsuitgaven 0.208m OVER vs MJP 0.047m; tick1164
+bud_agbzele_invest_saldo_2025,agb_zele,2025,-208193,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Investeringssaldo -0.208m; tick1164
+bud_agbzele_fin_rec_2025,agb_zele,2025,208193,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Financieringsontvangsten/new loans 0.208m; tick1164
+bud_agbzele_fin_exp_2025,agb_zele,2025,492123,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Periodieke aflossingen 0.492m; tick1164
+bud_agbzele_fin_saldo_2025,agb_zele,2025,-283931,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Financieringssaldo -0.284m; tick1164
+bud_agbzele_new_loans_2025,agb_zele,2025,208193,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Nieuwe leningen T4 0.208m; tick1164
+bud_agbzele_aflossingen_2025,agb_zele,2025,492123,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Aflossingen T4 0.492m; tick1164
+bud_agbzele_budget_result_2025,agb_zele,2025,306275,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Budgettair resultaat boekjaar +0.306m; tick1164
+bud_agbzele_bbr_2025,agb_zele,2025,728359,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,BBR 0.728m; tick1164
+bud_agbzele_afm_2025,agb_zele,2025,306275,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,AFM +0.306m; tick1164
+bud_agbzele_afm_gecorr_2025,agb_zele,2025,-123644,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Gecorr AFM -0.124m NEG CRITICAL (aangewezen 0.922m); tick1164
+bud_agbzele_pnl_2025,agb_zele,2025,166440,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,P&L winst 0.166m; tick1164
+bud_agbzele_dividend_2025,agb_zele,2025,166440,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Uitgekeerd dividend = full profit 0.166m to city; tick1164
+bud_agbzele_interest_2025,agb_zele,2025,6563,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Financiele kosten 0.007m; tick1164
+bud_agbzele_depr_2025,agb_zele,2025,523156,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Afschrijvingen 0.523m; tick1164
+bud_agbzele_vpb_2025,agb_zele,2025,33856,,,BBC JR2025 primary,src_agb_zele_jr2025,strong,Vennootschapsbelasting first-time 0.034m; tick1164

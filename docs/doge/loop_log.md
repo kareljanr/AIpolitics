@@ -16177,3 +16177,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1164** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1164 - 2026-08-07T23:30:00Z
+
+- Unit: **rq_1164** (FOI-adjacent residual dual - **AGB Zele Jaarrekening 2025** Entity II De Wiek/sport after city GE)
+- Found (strong primary BBC 84p; KBO **0535.637.166** NIS **42028**; Markt 50; Voorzitter Thomas Bauwens; RVB 27.04.2026 pub 29.04.2026):
+  - Assets **EUR12.959m** / equity **EUR0.970m** / cash **EUR0.754m**
+  - Fin debt T4 **EUR11.242m DECLINING** (LT 10.735 / ST due **0.507m**); new **0.208m**; repay **0.492m**
+  - MVA **EUR11.929m** (gebouwen 7.595 / **leasing 3.703m** / plant 0.593)
+  - BBR **EUR0.728m** / AFM **+EUR0.306m** / **gecorr AFM EUR-0.124m NEG CRITICAL** (aangewezen 0.922m) / budget **+EUR0.306m**
+  - Expl **EUR1.570m / 0.771m** saldo **+EUR0.798m** / **prijssubsidie EUR0.986m** / PnL **+EUR0.166m full dividend**
+  - Invest **EUR0.208m OVER** vs MJP 0.047m; first VPB **0.034m**; zero staff
+- Dual: city Zele GE already mined tick1109 - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen login / Bornem JR2024 / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Genk / AGB Begijnendijk / AGB Bree residual next
+- Wrote: budgets +33 (bud_agbzele_*); commitments +6; leaderboard +7; sources +1; entity agb_zele; FOI **gap_agb_zele_gecorr_afm_neg_debt_11m_leasing_prijssub_l5** prio9 ready + draft; PDF primary (not committed ~7.0MB); rq_1164=done; spawn **rq_1165**; ticks=1164
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1165** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local
