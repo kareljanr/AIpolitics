@@ -32456,3 +32456,27 @@ bud_agbzan_div_2025,agb_zandhoven,2025,22667,,,bbc_jr_realized,src_agb_zandhoven
 bud_agbzan_prijssub_2025,agb_zandhoven,2025,269982,,,bbc_jr_realized,src_agb_zandhoven_jr2025,strong,Prijssubsidie city ~0.270m (0742 0.219 + 0709 0.051); tick1222
 bud_agbzan_goods_2025,agb_zandhoven,2025,376741,,,bbc_jr_realized,src_agb_zandhoven_jr2025,strong,Goederen en diensten 0.377m (staff 0); tick1222
 bud_agbzan_new_loans_2025,agb_zandhoven,2025,5030,,,bbc_jr_realized,src_agb_zandhoven_jr2025,strong,Nieuwe leningen andere entiteiten 0.005m city path; tick1222
+bud_agbbee_expl_ont_2025,agb_beersel,2025,883644,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Exploitatieontvangsten 0.884m; tick1223
+bud_agbbee_expl_uit_2025,agb_beersel,2025,560716,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Exploitatieuitgaven 0.561m; tick1223
+bud_agbbee_expl_saldo_2025,agb_beersel,2025,322929,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Exploitatiesaldo +0.323m; tick1223
+bud_agbbee_invest_uit_2025,agb_beersel,2025,27035,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Investeringsuitgaven 0.027m LOW underspend; tick1223
+bud_agbbee_invest_ont_2025,agb_beersel,2025,2118,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Invest-sub Sport VL 0.002m; tick1223
+bud_agbbee_fin_ont_2025,agb_beersel,2025,23667,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Fin ont 0.024m city renteloos new; tick1223
+bud_agbbee_fin_uit_2025,agb_beersel,2025,266086,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Periodieke aflossingen 0.266m; tick1223
+bud_agbbee_budget_2025,agb_beersel,2025,55593,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Budgettair resultaat +0.056m; tick1223
+bud_agbbee_bbr_2025,agb_beersel,2025,3085733,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,BBR beschikbaar +3.086m; tick1223
+bud_agbbee_afm_2025,agb_beersel,2025,56843,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,AFM +0.057m thin; tick1223
+bud_agbbee_afm_gecorr_2025,agb_beersel,2025,-365291,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Gecorr AFM -0.365m DEEP NEG CRITICAL; tick1223
+bud_agbbee_assets_2025,agb_beersel,2025,8729691,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Assets YE2025 8.730m; tick1223
+bud_agbbee_cash_2025,agb_beersel,2025,23657,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Cash YE2025 0.024m THIN DROP from 0.063m; tick1223
+bud_agbbee_mva_2025,agb_beersel,2025,5486155,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,MVA 5.486m; tick1223
+bud_agbbee_leasing_mva_2025,agb_beersel,2025,4011378,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Leasing MVA 4.011m; tick1223
+bud_agbbee_equity_2025,agb_beersel,2025,213755,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Nettoactief YE2025 0.214m thin; tick1223
+bud_agbbee_fin_debt_2025,agb_beersel,2025,8360321,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Fin schulden total 8.360m (LT 8.115 + ST due 0.245); tick1223
+bud_agbbee_fin_debt_lt_2025,agb_beersel,2025,8115197,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Fin schulden LT 8.115m; tick1223
+bud_agbbee_fin_debt_st_due_2025,agb_beersel,2025,245124,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Fin schulden LT binnen jaar 0.245m; tick1223
+bud_agbbee_nonruil_recv_2025,agb_beersel,2025,3142488,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,ST non-ruil recv R/C city 3.142m; tick1223
+bud_agbbee_pnl_2025,agb_beersel,2025,-9684,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,PnL -0.010m (was +0.251 full div 2024); tick1223
+bud_agbbee_prijssub_2025,agb_beersel,2025,711134,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Prijssubsidie city 0.711m (city dual 0.754m incl BTW); tick1223
+bud_agbbee_erfpacht_doc_2025,agb_beersel,2025,50000,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Erfpacht DOC city 0.050m; tick1223
+bud_agbbee_goods_2025,agb_beersel,2025,478044,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Goederen en diensten 0.478m (staff 0); tick1223
