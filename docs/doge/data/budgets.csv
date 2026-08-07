@@ -32722,3 +32722,29 @@ bud_agbher_staff_2025,agb_herselt,2025,102506,,,bbc_jr_realized,src_agb_herselt_
 bud_agbher_goederen_2025,agb_herselt,2025,1172758,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Goederen en diensten 1.173m; tick1233
 bud_agbher_depr_2025,agb_herselt,2025,232512,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Afschrijvingen 0.233m; tick1233
 bud_agbher_cum_surplus_2025,agb_herselt,2025,928846,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Gecumuleerd overschot 0.929m; tick1233
+bud_agbasn_assets_2025,agb_assenede,2025,8470183,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,J4 balanstotaal 8.470m; tick1234
+bud_agbasn_equity_2025,agb_assenede,2025,7201,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,J4 nettoactief THIN 0.007m (=kapitaalsub only; cum surplus ZERO); tick1234
+bud_agbasn_cash_2025,agb_assenede,2025,43661,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Liquide middelen 0.044m THIN DROP; tick1234
+bud_agbasn_st_recv_2025,agb_assenede,2025,244754,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,ST vorderingen 0.245m; tick1234
+bud_agbasn_mva_2025,agb_assenede,2025,8146775,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,MVA 8.147m; tick1234
+bud_agbasn_leasing_mva_2025,agb_assenede,2025,5217415,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Leasing/erfpacht MVA 5.217m (~62pct assets); tick1234
+bud_agbasn_fin_debt_lt_2025,agb_assenede,2025,7990743,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Fin debt LT 7.991m; tick1234
+bud_agbasn_fin_debt_st_due_2025,agb_assenede,2025,222753,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Fin debt ST due 0.223m; tick1234
+bud_agbasn_fin_debt_2025,agb_assenede,2025,8213496,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Fin debt total 8.213m (~97pct assets); tick1234
+bud_agbasn_expl_ont_2025,agb_assenede,2025,529045,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Exploitatieontvangsten 0.529m; tick1234
+bud_agbasn_expl_uit_2025,agb_assenede,2025,327005,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Exploitatieuitgaven 0.327m; tick1234
+bud_agbasn_expl_saldo_2025,agb_assenede,2025,202040,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Exploitatiesaldo +0.202m; tick1234
+bud_agbasn_invest_uit_2025,agb_assenede,2025,210919,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Investeringsuitgaven 0.211m; tick1234
+bud_agbasn_new_loans_2025,agb_assenede,2025,209669,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Nieuwe leningen 0.210m (=city dual bud_asn_agb_loans exact); tick1234
+bud_agbasn_amort_2025,agb_assenede,2025,215458,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Periodieke aflossingen 0.215m; tick1234
+bud_agbasn_budget_result_2025,agb_assenede,2025,-14668,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Budgettair resultaat -0.015m NEG; tick1234
+bud_agbasn_bbr_2025,agb_assenede,2025,39008,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,BBR 0.039m THIN; tick1234
+bud_agbasn_afm_2025,agb_assenede,2025,-13418,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,AFM -0.013m NEG; tick1234
+bud_agbasn_afm_gecorr_2025,agb_assenede,2025,-455503,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Gecorr AFM -0.456m DEEP NEG (leasing debt drag); tick1234
+bud_agbasn_pnl_2025,agb_assenede,2025,17846,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,PnL +0.018m; tick1234
+bud_agbasn_div_2025,agb_assenede,2025,17846,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,FULL dividend strip 0.018m (=100pct PnL; cum surplus kept 0); tick1234
+bud_agbasn_prijssub_2025,agb_assenede,2025,327521,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Prijssubsidie gemeente 0.328m (~62pct expl); tick1234
+bud_agbasn_staff_2025,agb_assenede,2025,0,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Bezoldigingen 0 zero staff; tick1234
+bud_agbasn_goederen_2025,agb_assenede,2025,292522,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Goederen en diensten 0.293m; tick1234
+bud_agbasn_depr_2025,agb_assenede,2025,215314,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Afschrijvingen 0.215m; tick1234
+bud_agbasn_debt_ratio_2025,agb_assenede,2025,97,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Debt ~97pct of assets (8.21/8.47m) shell; tick1234

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T22:40:00Z,rq_1233,1233,no,tick1233 AGB Herselt dual residual prijssub 0.87m first div 0.005m BBR JUMP 0.66m debt 1.58m FOI ready; next rq_1234 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-07T23:00:00Z,rq_1234,1234,no,tick1234 AGB Assenede dual residual debt 8.21m equity thin full div AFM NEG gecorr -0.46m prijssub 0.33m FOI ready; next rq_1235 residual dual L5 VL; continuous hole_fill

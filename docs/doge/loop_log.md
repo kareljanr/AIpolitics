@@ -17189,3 +17189,9 @@ Append-only. Each tick adds a short entry.
 - EUR strong: assets **4.788m**; fin debt **1.582m**; BBR **+0.657m JUMP**; AFM **+0.148m**; prijssub **0.874m**; first div **0.005m**; PnL **+0.239m**; desinvest Steenakkers **0.334m** + VL invest-sub **0.489m**.
 - CSVs: sources/entities/budgets+27/commitments+6/leaderboard+6 + FOI ready `gap_agb_her_prijssub_0_87m_first_div_0_005m_bbr_jump_land_sale_debt_1_58m_l5` (not sent); rq_1233=done; spawn rq_1234.
 - Next: rq_1234 residual dual L5 VL JR2025 hole_fill.
+
+### Tick 1234 — 2026-08-07 — rq_1234 AGB Assenede dual residual
+- Unit: AGB Assenede JR2025 Entity II after city GE tick1046 (KBO 0812.330.062 NIS 43002; 89p text primary).
+- EUR strong: assets **8.470m**; fin debt **8.213m** (~97% assets); leasing MVA **5.217m**; equity **0.007m THIN**; full div **0.018m**; AFM **−0.013m** NEG; gecorr AFM **−0.456m** DEEP NEG; prijssub **0.328m**; cash thin **0.044m**; city new loans dual exact **0.210m**.
+- CSVs: sources/entities/budgets+26/commitments+7/leaderboard+7 + FOI ready `gap_agb_asn_afm_neg_0_01m_gecorr_0_46m_debt_8_21m_equity_thin_full_div_prijssub_0_33m_l5` (not sent); rq_1234=done; spawn rq_1235.
+- Next: rq_1235 residual dual L5 VL JR2025 hole_fill.
