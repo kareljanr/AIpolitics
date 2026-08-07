@@ -30525,3 +30525,27 @@ bud_agbschoten_afm_gecorr_2025,agb_schoten,2025,199857,,,BBC JR2025 primary,src_
 bud_agbschoten_pnl_2025,agb_schoten,2025,70548,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,PnL overschot +0.071m 2025; tick1157
 bud_agbschoten_dividend_city_2025,agb_schoten,2025,65000,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Rechthebbenden/dividend to city 0.065m 2025; tick1157
 bud_agbschoten_interest_2025,agb_schoten,2025,0,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Financiele kosten 0 2025 (city loan no bank interest); tick1157
+bud_agblommelp_assets_2025,agb_lommel_patrimonium,2025,6054824,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Assets balanstotaal YE2025 6.055m; tick1158
+bud_agblommelp_equity_2025,agb_lommel_patrimonium,2025,-341926,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Nettoactief YE2025 NEG -0.342m CRITICAL; tick1158
+bud_agblommelp_cum_pnl_neg_2025,agb_lommel_patrimonium,2025,-341926,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Gecumuleerd tekort equity path YE2025 -0.342m; tick1158
+bud_agblommelp_debt_total_2025,agb_lommel_patrimonium,2025,6396749,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Schulden total YE2025 6.397m; tick1158
+bud_agblommelp_fin_debt_2025,agb_lommel_patrimonium,2025,5879864,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Fin schulden T4 total YE2025 5.880m (LT 5.874 + ST due 0.006); tick1158
+bud_agblommelp_fin_debt_lt_2025,agb_lommel_patrimonium,2025,5873864,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Fin schulden LT YE2025 5.874m; tick1158
+bud_agblommelp_fin_debt_st_due_2025,agb_lommel_patrimonium,2025,6000,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Fin schulden LT binnen jaar YE2025 0.006m; tick1158
+bud_agblommelp_lt_nonfin_ruil_2025,agb_lommel_patrimonium,2025,500928,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,LT niet-fin ruil schulden YE2025 0.501m FOI residual; tick1158
+bud_agblommelp_cash_2025,agb_lommel_patrimonium,2025,64034,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Liquide middelen YE2025 0.064m; tick1158
+bud_agblommelp_fva_other_2025,agb_lommel_patrimonium,2025,5990000,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Andere FVA YE2025 5.990m FOI residual CRITICAL shell; tick1158
+bud_agblommelp_expl_ont_2025,agb_lommel_patrimonium,2025,20000,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Exploitatieontvangsten 0.020m city subsidy 2025; tick1158
+bud_agblommelp_expl_uit_2025,agb_lommel_patrimonium,2025,9073,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Exploitatieuitgaven 0.009m 2025; tick1158
+bud_agblommelp_expl_saldo_2025,agb_lommel_patrimonium,2025,10927,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Exploitatiesaldo +0.011m 2025; tick1158
+bud_agblommelp_invest_saldo_2025,agb_lommel_patrimonium,2025,0,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Investeringssaldo 0 2025; tick1158
+bud_agblommelp_fin_saldo_2025,agb_lommel_patrimonium,2025,-6000,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Financieringssaldo -0.006m 2025; tick1158
+bud_agblommelp_loan_repay_2025,agb_lommel_patrimonium,2025,6000,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Periodieke aflossingen 0.006m 2025; tick1158
+bud_agblommelp_budget_2025,agb_lommel_patrimonium,2025,4927,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Budgettair resultaat +0.005m 2025; tick1158
+bud_agblommelp_cum_budget_2025,agb_lommel_patrimonium,2025,48867,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Gecumuleerd budgettair YE2025 0.049m; tick1158
+bud_agblommelp_bbr_2025,agb_lommel_patrimonium,2025,48867,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Beschikbaar budgettair resultaat 0.049m thin; tick1158
+bud_agblommelp_afm_2025,agb_lommel_patrimonium,2025,4927,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Autofinancieringsmarge +0.005m 2025; tick1158
+bud_agblommelp_afm_gecorr_2025,agb_lommel_patrimonium,2025,-459942,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Gecorrigeerde AFM -0.460m DEEP NEG CRITICAL; tick1158
+bud_agblommelp_pnl_2025,agb_lommel_patrimonium,2025,10927,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,PnL overschot +0.011m 2025; tick1158
+bud_agblommelp_interest_2025,agb_lommel_patrimonium,2025,1470,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Financiele kosten/rente 0.001m 2025; tick1158
+bud_agblommelp_city_subsidy_2025,agb_lommel_patrimonium,2025,20000,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Algemene werkingssubsidie stad 0.020m 2025; tick1158

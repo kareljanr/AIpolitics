@@ -16070,3 +16070,17 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1158** residual dual L5; deferred **rq_116**
 
+### Tick 1158 - 2026-08-07T20:30:00Z
+
+- Unit: **rq_1158** (FOI-adjacent residual dual - **AGB Patrimonium Lommel Jaarrekening 2025** Entity II FVA shell after city GE)
+- Found (strong primary BBC 42p; KBO **0882.833.820**; Hertog Janplein 1 3920; AD Ronny Vanhoof FD Carine Joos; Voorzitter Bob Nijs Secretaris Iris Mulkens; bekendmaking 20.05.2026):
+  - Assets **EUR6.055m** / equity **NEG EUR-0.342m CRITICAL** / cash **EUR0.064m**
+  - FVA other **EUR5.990m FOI shell** / fin debt T4 **EUR5.880m** (LT 5.874 / ST due **0.006m**) / total schulden **EUR6.397m** / LT non-fin **EUR0.501m** / repay **EUR0.006m**/yr / interest **EUR0.001m**
+  - BBR **EUR0.049m thin** / AFM **+EUR0.005m** / **gecorr AFM EUR-0.460m DEEP NEG CRITICAL** / budget **+EUR0.005m**
+  - Expl **EUR0.020m city subsidy / 0.009m** saldo **+EUR0.011m** / invest **0** / fin saldo **-EUR0.006m** / PnL **+EUR0.011m**
+- Dual: city Lommel GE already partially mined - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen login / Bornem JR2024 / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Genk / AGB Veurne residual next
+- Wrote: budgets +24 (bud_agblommelp_*); commitments +6; leaderboard +7; sources +1; entity agb_lommel_patrimonium; FOI **gap_agb_lommel_pat_equity_neg_gecorr_afm_deep_neg_fva_l5** prio9 ready + draft; PDF primary (not committed ~2.5MB); rq_1158=done; spawn **rq_1159**; ticks=1158
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1159** residual dual L5; deferred **rq_116**
+
