@@ -30422,3 +30422,28 @@ bud_agbe_dividend_2025,agb_essen,2025,5000,,,BBC JR2025 primary,src_agb_essen_jr
 bud_agbe_interest_2025,agb_essen,2025,51024,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Rente 0.051m 2025; tick1153
 bud_agbe_loan_repay_2025,agb_essen,2025,198620,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Periodieke aflossingen 0.199m 2025; tick1153
 bud_agbe_new_loans_2025,agb_essen,2025,14616,,,BBC JR2025 primary,src_agb_essen_jr2025,strong,Nieuwe leningen 0.015m 2025 (= invest); tick1153
+bud_agbsc_assets_2025,agb_schilde,2025,7676544,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Assets balanstotaal YE2025 7.677m; tick1154
+bud_agbsc_equity_2025,agb_schilde,2025,885958,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Nettoactief YE2025 0.886m; tick1154
+bud_agbsc_debt_total_2025,agb_schilde,2025,6790585,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Schulden total YE2025 6.791m; tick1154
+bud_agbsc_fin_debt_2025,agb_schilde,2025,6587930,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Fin schulden total YE2025 6.588m T4 DECLINING; tick1154
+bud_agbsc_fin_debt_lt_2025,agb_schilde,2025,6290047,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Fin schulden LT YE2025 6.290m; tick1154
+bud_agbsc_fin_debt_st_due_2025,agb_schilde,2025,297883,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Fin schulden LT binnen jaar YE2025 0.298m; tick1154
+bud_agbsc_cash_2025,agb_schilde,2025,1095169,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Liquide middelen YE2025 1.095m; tick1154
+bud_agbsc_mva_2025,agb_schilde,2025,5692448,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,MVA YE2025 5.692m; tick1154
+bud_agbsc_leasing_mva_2025,agb_schilde,2025,5485211,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Leasing MVA YE2025 5.485m shell-heavy; tick1154
+bud_agbsc_expl_ont_2025,agb_schilde,2025,1195195,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Exploitatieontvangsten 1.195m 2025 (tickets/zaal/drank); tick1154
+bud_agbsc_expl_uit_2025,agb_schilde,2025,575179,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Exploitatieuitgaven 0.575m 2025; tick1154
+bud_agbsc_expl_saldo_2025,agb_schilde,2025,620015,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Exploitatiesaldo +0.620m 2025; tick1154
+bud_agbsc_invest_uit_2025,agb_schilde,2025,1250,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Investeringsuitgaven 0.001m 2025 minimal; tick1154
+bud_agbsc_invest_saldo_2025,agb_schilde,2025,-1250,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Investeringssaldo -0.001m 2025; tick1154
+bud_agbsc_fin_saldo_2025,agb_schilde,2025,-330158,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Financieringssaldo -0.330m 2025; tick1154
+bud_agbsc_budget_2025,agb_schilde,2025,288607,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Budgettair resultaat +0.289m 2025; tick1154
+bud_agbsc_cum_budget_2025,agb_schilde,2025,917633,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Gecumuleerd/BBR YE2025 0.918m; tick1154
+bud_agbsc_bbr_2025,agb_schilde,2025,917633,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Beschikbaar budgettair resultaat 0.918m 2025; tick1154
+bud_agbsc_afm_2025,agb_schilde,2025,289857,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Autofinancieringsmarge +0.290m 2025; tick1154
+bud_agbsc_afm_gecorr_2025,agb_schilde,2025,66568,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Gecorrigeerde AFM +0.067m 2025 (vs AFM 0.290); tick1154
+bud_agbsc_pnl_2025,agb_schilde,2025,389243,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,PnL overschot +0.389m 2025 JUMP; tick1154
+bud_agbsc_dividend_2025,agb_schilde,2025,130000,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Dividend JUMP 0.130m 2025 (was 0.015m); tick1154
+bud_agbsc_interest_2025,agb_schilde,2025,65633,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Rente 0.066m 2025; tick1154
+bud_agbsc_loan_repay_2025,agb_schilde,2025,330158,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Periodieke aflossingen 0.330m 2025; tick1154
+bud_agbsc_new_loans_2025,agb_schilde,2025,0,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Nieuwe leningen 0 2025; tick1154

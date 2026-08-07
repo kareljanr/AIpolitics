@@ -16009,3 +16009,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1154** residual dual L5; deferred **rq_116**
 
+### Tick 1154 - 2026-08-07T18:30:00Z
+
+- Unit: **rq_1154** (FOI-adjacent residual dual - **AGB Schilde Jaarrekening 2025** Entity II culture/events after city GE)
+- Found (strong primary BBC 93p; KBO **0693.894.844** NIS **11039**; Brasschaatsebaan 30 2970; AD Tine Vervisch FD Hilde Teirlinck):
+  - Assets **EUR7.677m** / equity **EUR0.886m** / cash **EUR1.095m**
+  - Fin debt T4 **EUR6.588m DECLINING** (LT 6.290 / ST due **0.298m**); repay **EUR0.330m**; interest **EUR0.066m**; new loans **EUR0**
+  - **Leasing MVA EUR5.485m** shell-heavy of total MVA 5.692m
+  - AFM **+EUR0.290m** / gecorr **+EUR0.067m** gap / BBR **EUR0.918m** / budget **+EUR0.289m**
+  - Expl **EUR1.195m / 0.575m** saldo **+EUR0.620m** / invest minimal **EUR0.001m**
+  - PnL **+EUR0.389m JUMP** / **dividend JUMP EUR0.130m** (was 0.015m)
+- Dual: city Schilde GE already mined - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen login / Bornem JR2024 / Schelle GE+OCMW / Lievegem / Roeselare / Wommelgem / AGB Stabroek residual next
+- Wrote: budgets +25 (bud_agbsc_*); commitments +5; leaderboard +8; sources +1; entity agb_schilde; FOI **gap_agb_schilde_leasing_shell_dividend_jump_l5** prio8 ready + draft; PDF primary (not committed ~8.1MB); rq_1154=done; spawn **rq_1155**; ticks=1154
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1155** residual dual L5; deferred **rq_116**
+
