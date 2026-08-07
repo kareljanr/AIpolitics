@@ -32755,3 +32755,29 @@ bud_agbkap_prijssub_recv_open_2025,agb_kaprijke,2025,88453,,,bbc_jr_risk_note,sr
 bud_agbkap_lembeke_erfpacht_lease_yr,agb_kaprijke,2025,13528,,,bbc_jr_risk_note,src_agb_kaprijke_jr2025_scan,medium,Sportaccommodatie Lembeke operational lease ~0.014m/yr (stated vs 0.038m depr path); tick1235
 bud_agbkap_staff_2025,agb_kaprijke,2025,0,,,bbc_jr_risk_note,src_agb_kaprijke_jr2025_scan,strong,Zero own staff (city personnel); tick1235
 bud_agbkap_city_prijssub_dual_2025,agb_kaprijke,2025,181017,,,city_bbc_jr_realized,src_agb_kaprijke_jr2025_scan,strong,City dual toelage/prijssub AGB 0.181m (city GE tick1106); full AGB year FOI; tick1235
+bud_agbout_assets_2025,agb_oud_turnhout,2025,4833989,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,J4 balanstotaal 4.834m; tick1236
+bud_agbout_equity_2025,agb_oud_turnhout,2025,4560042,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,J4 nettoactief 4.560m; tick1236
+bud_agbout_capital_2025,agb_oud_turnhout,2025,4000000,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Overig nettoactief/maatschappelijk kapitaal 4.000m (=city FVA dual); tick1236
+bud_agbout_city_capital_inject_2025,agb_oud_turnhout,2025,600000,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Kapitaalsverhoging gemeente 0.600m (fix BBR after 2024 invest spike); tick1236
+bud_agbout_cash_2025,agb_oud_turnhout,2025,143159,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Liquide middelen 0.143m JUMP; tick1236
+bud_agbout_st_recv_2025,agb_oud_turnhout,2025,59026,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,ST vorderingen 0.059m; tick1236
+bud_agbout_mva_2025,agb_oud_turnhout,2025,4626036,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,MVA 4.626m; tick1236
+bud_agbout_fin_debt_2025,agb_oud_turnhout,2025,0,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Financiele schulden 0 (no loans); tick1236
+bud_agbout_provisions_2025,agb_oud_turnhout,2025,156220,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Voorzieningen LT 0.156m; tick1236
+bud_agbout_expl_ont_2025,agb_oud_turnhout,2025,458125,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Exploitatieontvangsten 0.458m; tick1236
+bud_agbout_expl_uit_2025,agb_oud_turnhout,2025,246108,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Exploitatieuitgaven 0.246m; tick1236
+bud_agbout_expl_saldo_2025,agb_oud_turnhout,2025,212017,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Exploitatiesaldo +0.212m; tick1236
+bud_agbout_invest_uit_2025,agb_oud_turnhout,2025,313391,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Investeringsuitgaven 0.313m; tick1236
+bud_agbout_invest_sub_vl_2025,agb_oud_turnhout,2025,116578,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,VL investeringssubsidies 0.117m; tick1236
+bud_agbout_budget_result_2025,agb_oud_turnhout,2025,615204,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Budgettair resultaat +0.615m (driven by capital inject 0.60m); tick1236
+bud_agbout_bbr_2025,agb_oud_turnhout,2025,84459,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,BBR +0.084m (was -0.531m YE2024 cum); tick1236
+bud_agbout_bbr_prior_cum_2024,agb_oud_turnhout,2025,-530746,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Cum budgettair resultaat vorig -0.531m NEG (invest without loan); tick1236
+bud_agbout_afm_2025,agb_oud_turnhout,2025,212017,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,AFM +0.212m (no debt amort); tick1236
+bud_agbout_afm_gecorr_2025,agb_oud_turnhout,2025,212017,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Gecorr AFM +0.212m (=AFM; zero fin debt); tick1236
+bud_agbout_pnl_2025,agb_oud_turnhout,2025,82457,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,PnL +0.082m; tick1236
+bud_agbout_div_2025,agb_oud_turnhout,2025,82457,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,FULL capital remuneration/dividend strip 0.082m (=100pct PnL); tick1236
+bud_agbout_prijssub_2025,agb_oud_turnhout,2025,365021,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Prijssubsidies gemeente 0.365m (~80pct expl; coeff 5.33); tick1236
+bud_agbout_tickets_2025,agb_oud_turnhout,2025,78402,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Toegangsgelden 0.078m; tick1236
+bud_agbout_staff_2025,agb_oud_turnhout,2025,0,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Zero staff; tick1236
+bud_agbout_goederen_2025,agb_oud_turnhout,2025,147889,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Goederen en diensten 0.148m; tick1236
+bud_agbout_depr_2025,agb_oud_turnhout,2025,242589,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Afschrijvingen 0.243m; tick1236

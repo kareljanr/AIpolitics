@@ -17202,3 +17202,9 @@ Append-only. Each tick adds a short entry.
 - Mechanism notes: 99y city loan vs 35y amort; BTW construct risk SOCK/Lembeke.
 - CSVs: sources/entities/budgets+7/commitments+5/leaderboard+4 + FOI ready `gap_agb_kap_jr2025_scan_prijssub_0_18m_sock_99y_loan_lembeke_erfpacht_l5` (not sent); rq_1235=done; spawn rq_1236.
 - Next: rq_1236 residual dual L5 VL JR2025 hole_fill.
+
+### Tick 1236 — 2026-08-07 — rq_1236 AGB Oud-Turnhout dual residual
+- Unit: AGB Oud-Turnhout JR2025 Entity II after city GE tick1033 (KBO 0653.943.415; 70p text primary).
+- EUR strong: assets **4.834m**; city capital **4.000m** (+inject **0.600m**); prijssub **0.365m** (coeff **5.33**, ~80% expl); full div/capital-remuneration **0.082m**; BBR **+0.084m** (prior cum **−0.531m**); AFM **+0.212m**; fin debt **0**; tickets **0.078m**.
+- CSVs: sources/entities/budgets+26/commitments+5/leaderboard+5 + FOI ready `gap_agb_out_prijssub_0_37m_full_div_0_08m_city_capital_0_60m_coeff_5_33_l5` (not sent); rq_1236=done; spawn rq_1237.
+- Next: rq_1237 residual dual L5 VL JR2025 hole_fill.
