@@ -30094,3 +30094,29 @@ bud_etiz_goederen_2025,ag_etiz_izegem,2025,83148,,,jaarrekening_realized,src_eti
 bud_etiz_st_ruil_schuld_2025,ag_etiz_izegem,2025,3469628,,,jaarrekening_realized,src_etiz_jr2025,strong,ST niet-fin ruil schulden 3.470m; tick1139
 bud_etiz_cum_tekort_2025,ag_etiz_izegem,2025,288629,,,jaarrekening_realized,src_etiz_jr2025,strong,Gecumuleerd overschot 0.289m (was 0.691m); tick1139
 bud_etiz_overig_netto_2025,ag_etiz_izegem,2025,20048049,,,jaarrekening_realized,src_etiz_jr2025,strong,Overig nettoactief 20.048m; tick1139
+bud_agiz_assets_2025,agb_agiz_izegem,2025,4939446,,,jaarrekening_realized,src_agiz_jr2025,strong,Total assets YE2025 4.939m (was 5.192m); tick1140
+bud_agiz_equity_2025,agb_agiz_izegem,2025,-166327,,,jaarrekening_realized,src_agiz_jr2025,strong,Nettoactief YE2025 -0.166m NEG (was +0.172m); tick1140
+bud_agiz_debt_total_2025,agb_agiz_izegem,2025,5105773,,,jaarrekening_realized,src_agiz_jr2025,strong,Schulden total YE2025 5.106m; tick1140
+bud_agiz_fin_debt_2025,agb_agiz_izegem,2025,4602136,,,jaarrekening_realized,src_agiz_jr2025,strong,Financiele schulden total 4.602m (LT 4.418 + ST due 0.184); tick1140
+bud_agiz_fin_debt_lt_2025,agb_agiz_izegem,2025,4418051,,,jaarrekening_realized,src_agiz_jr2025,strong,Fin schulden LT 4.418m; tick1140
+bud_agiz_fin_debt_st_due_2025,agb_agiz_izegem,2025,184085,,,jaarrekening_realized,src_agiz_jr2025,strong,Schulden LT vervallend 0.184m; tick1140
+bud_agiz_leasing_mva_2025,agb_agiz_izegem,2025,4625629,,,jaarrekening_realized,src_agiz_jr2025,strong,Leasing/erfpacht MVA 4.626m MASSIVE; tick1140
+bud_agiz_cash_2025,agb_agiz_izegem,2025,178873,,,jaarrekening_realized,src_agiz_jr2025,strong,Liquide middelen 0.179m DROP (was 0.198m); tick1140
+bud_agiz_provisie_liquidatie_2025,agb_agiz_izegem,2025,435000,,,jaarrekening_realized,src_agiz_jr2025,strong,Voorziening liquidatie/BTW-herziening 0.435m NEW; tick1140
+bud_agiz_expl_ontv_2025,agb_agiz_izegem,2025,411180,,,jaarrekening_realized,src_agiz_jr2025,strong,Exploitatieontvangsten 0.411m; tick1140
+bud_agiz_expl_uitg_2025,agb_agiz_izegem,2025,124558,,,jaarrekening_realized,src_agiz_jr2025,strong,Exploitatieuitgaven 0.125m; tick1140
+bud_agiz_expl_saldo_2025,agb_agiz_izegem,2025,286622,,,jaarrekening_realized,src_agiz_jr2025,strong,Exploitatiesaldo +0.287m; tick1140
+bud_agiz_invest_2025,agb_agiz_izegem,2025,7017,,,jaarrekening_realized,src_agiz_jr2025,strong,Investeringsuitgaven 0.007m (MJP 0.017); tick1140
+bud_agiz_repayments_2025,agb_agiz_izegem,2025,184085,,,jaarrekening_realized,src_agiz_jr2025,strong,Periodieke aflossingen 0.184m; tick1140
+bud_agiz_afm_2025,agb_agiz_izegem,2025,102537,,,jaarrekening_realized,src_agiz_jr2025,strong,AFM +0.103m; tick1140
+bud_agiz_gecorr_afm_2025,agb_agiz_izegem,2025,-96276,,,jaarrekening_realized,src_agiz_jr2025,strong,Gecorrigeerde AFM -0.096m NEG; tick1140
+bud_agiz_bbr_2025,agb_agiz_izegem,2025,222359,,,jaarrekening_realized,src_agiz_jr2025,strong,Beschikbaar budgettair resultaat 0.222m; tick1140
+bud_agiz_budget_result_2025,agb_agiz_izegem,2025,95520,,,jaarrekening_realized,src_agiz_jr2025,strong,Budgettair resultaat boekjaar +0.096m; tick1140
+bud_agiz_pl_2025,agb_agiz_izegem,2025,-337860,,,jaarrekening_realized,src_agiz_jr2025,strong,P&L tekort -0.338m (was +0.016m); tick1140
+bud_agiz_omzet_2025,agb_agiz_izegem,2025,407668,,,jaarrekening_realized,src_agiz_jr2025,strong,Opbrengsten uit werking 0.408m; tick1140
+bud_agiz_prijssub_2025,agb_agiz_izegem,2025,321927,,,jaarrekening_realized,src_agiz_jr2025,strong,Prijssubsidie stad 0.322m; tick1140
+bud_agiz_toegang_2025,agb_agiz_izegem,2025,66399,,,jaarrekening_realized,src_agiz_jr2025,strong,Toegangsgelden Eperon d Or 0.066m; tick1140
+bud_agiz_werkingssub_2025,agb_agiz_izegem,2025,3307,,,jaarrekening_realized,src_agiz_jr2025,strong,Specifieke werkingssubsidies 0.003m; tick1140
+bud_agiz_goederen_2025,agb_agiz_izegem,2025,79156,,,jaarrekening_realized,src_agiz_jr2025,strong,Goederen en diensten 0.079m; tick1140
+bud_agiz_afschr_voorz_2025,agb_agiz_izegem,2025,624482,,,jaarrekening_realized,src_agiz_jr2025,strong,Afschrijvingen+voorzieningen 0.624m JUMP (incl 0.435m liquidatie); tick1140
+bud_agiz_cum_tekort_2025,agb_agiz_izegem,2025,-166327,,,jaarrekening_realized,src_agiz_jr2025,strong,Gecumuleerd tekort -0.166m; tick1140

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-12T11:00:00Z,rq_1139,1139,no,last tick1139 AG ETIZ Izegem JR2025 FOI-adjacent fill; next rq_1140 progress@1140 MANDATORY + residual dual L5; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-12T11:30:00Z,rq_1140,1140,no,last tick1140 progress@1140 + AGIZ Izegem wind-up equity NEG; next rq_1141 residual dual L5; progress@1150 in 10; rq_116 deferred; continuous hole_fill

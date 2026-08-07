@@ -20,6 +20,78 @@
 
 ---
 
+## Snapshot at **tick 1140** (2026-08-12)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1131-1139 + Entity II 1140: AGB Oostkamp / Boom Plus / Turnhout / Rotselaar / Bocholt · SOLag Lier · AGB Westerlo / Herk-de-Stad · **AG ETIZ Izegem EUR37.6m** FOI lag fill · **AGIZ Izegem EUR4.9m wind-up** · prior 1121-1130 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1131-1140 is VL residual dual L5 (not near-complete of 348bn):** **AGB equity NEG / deep BBR** Boom Plus **−EUR2.34m** / Bocholt BBR **−EUR2.40m** · **AGB AFM NEG cluster** Oostkamp / Turnhout / Rotselaar / Westerlo / Herk / SOLag · **ETIZ DSO FOI fill** fin debt **EUR13.0m** ST due wall **EUR4.97m** BBR still **−EUR2.75m** · **AGIZ liquidatie** equity FLIP **−EUR0.17m** + BTW provisie **EUR0.44m** + leasing shell **EUR4.63m** free-museum wind-up · **city–AGB loan / LT recv** Herk **EUR0.87m** / SOLag **EUR7.12m** / Turnhout FVA **EUR9.82m** · **dividend > profit** Oostkamp continues · **ST debt / inventory** Bocholt KMO FOI |
+| **E. FOI-ready gaps** | **~781** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~829** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / dual stack retained not full TE) · **AGB dual debt/AFM NEG + wind-up** (ETIZ **EUR13.0m** / Boom Plus **EUR24.6m** / Bocholt **EUR14.1m** / Zaventem AGB **EUR23.8m** / Holar **EUR7.40m** / AGIZ leasing **EUR4.63m**) · **LUWA PPP EUR590m** · **Peer VitaS borg ~EUR43m contingent** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 1140)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~30121 |
+| commitments.csv | ~3867 |
+| leaderboard.csv | ~5923 |
+| entities.csv | ~862 |
+| sources.csv | ~2050 |
+| FOI ready | ~781 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~829 |
+| research_queue open | rq_116 deferred + rq_1141 hole-fill after progress |
+
+### What improved since tick 1130
+
+- **VL residual dual JR2025 Entity II (tick1131-1139):** AGB Oostkamp · **AGB Boom Plus** equity NEG deep · AGB Turnhout · AGB Rotselaar · **AGB Bocholt** BBR deep NEG · **SOLag Lier** LT recv · AGB Westerlo · AGB Herk-de-Stad · **AG ETIZ Izegem** public fill of prior FOI lag (BBR −2.75m vs lag −4.52m; ST due wall 4.97m).
+- **Entity II (tick1140):** **AGB AGIZ Izegem (Eperon d'Or)** — wind-up/vereffening after free-museum policy; liquidatie/BTW provisie **EUR0.435m**; equity FLIP **−EUR0.166m**; leasing/erfpacht MVA **EUR4.626m**; city prijssub **EUR0.322m**; gecorr AFM **−EUR0.096m NEG**.
+- **Dual map themes:** **AGB equity NEG / deep BBR** (Boom Plus / Bocholt / AGIZ) · **AFM NEG** continues across small sport/culture AGBs · **municipal DSO residual** ETIZ ST refinance + Fluvius path · **VAT-engineered AGB wind-up** AGIZ free museum · **city–AGB LT recv / FVA** (SOLag / Turnhout / Herk) · **dividend>profit** residual · invest over/underspend dual.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
+## Snapshot at **tick 1140** (2026-08-12)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1131–1139 + Entity II 1140: AGB Oostkamp / Boom Plus / Turnhout / Rotselaar / Bocholt / SOLag Lier / Westerlo / Herk-de-Stad · **AG ETIZ Izegem EUR37.6m** · **AGIZ Izegem wind-up equity NEG** Entity II · prior 1121–1130 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1131–1140 is VL residual dual L5 (not near-complete of 348bn):** **AGB AFM NEG cluster deepens** (Boom Plus **−EUR5.40m DEEP** / equity **−EUR2.34m** / inventory **EUR15.4m** · Oostkamp dividend>profit · Turnhout city loans · Rotselaar leasing · Bocholt BBR DEEP · SOLag LT recv · Westerlo · Herk LT recv/loans JUMP) · **ETIZ ST refinance wall** fin debt **EUR13.0m** / ST due **EUR4.97m** · **AGIZ wind-up** equity NEG **−EUR0.17m** / liquidatie provisie **EUR0.44m** · invest UNDERSPEND continues · dividend/full-profit AGB pattern stable |
+| **E. FOI-ready gaps** | **~792** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~834** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / prior dual stack retained not full TE) · **AGB dual debt/AFM NEG** (Boom Plus **EUR24.6m** · ETIZ **EUR13.0m** · Holar **EUR7.40m** · Zaventem AGB **EUR23.8m**) · **LUWA PPP EUR590m** · **Peer VitaS borg ~EUR43m contingent** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 1140)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~30122 |
+| commitments.csv | ~3868 |
+| leaderboard.csv | ~5924 |
+| entities.csv | ~863 |
+| sources.csv | ~2051 |
+| FOI ready | ~792 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~834 |
+| research_queue open | rq_116 deferred + rq_1141 hole-fill after progress |
+
+### What improved since tick 1130
+
+- **VL residual dual JR2025 (tick1131–1139):** AGB Oostkamp / Boom Plus / Turnhout / Rotselaar / Bocholt / SOLag Lier / Westerlo / Herk-de-Stad · **AG ETIZ Izegem** (ST refinance wall).
+- **Entity II (tick1140):** **AGIZ Izegem (Eperon d'Or)** — equity **NEG −EUR0.17m**, leasing MVA **EUR4.63m**, liquidatie provisie **EUR0.44m**, P&L **−EUR0.34m**, wind-up free museum FOI.
+- **Dual map themes:** **AGB AFM NEG + equity-neg + inventory/debt shells** (Boom Plus high-signal) · **ST debt walls** (ETIZ / Bocholt) · **city–AGB loans** · **dividend>profit / full-dividend** · wind-up/liquidatie residual · invest UNDERSPEND systemic.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1–10.
+
+---
+
 ## Snapshot at **tick 1130** (2026-08-12)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

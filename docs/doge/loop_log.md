@@ -15741,3 +15741,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1140** **progress@1140 MANDATORY** + residual dual L5; deferred **rq_116**
 
+
+### Tick 1140 - 2026-08-12T11:30:00Z
+
+- Unit: **rq_1140** (**PROGRESS@1140 decade MANDATORY** + FOI-adjacent residual dual - **AGB AGIZ Izegem / Eperon d Or Jaarrekening 2025** Entity II after ETIZ)
+- **Progress decade:** refreshed `progress_every_10_ticks.md` (tick 1140 snapshot layers A-E) + `doge_waste_top10_current.md` (top10 stable GIP/fossil/cars/cheque; residual note 1131-1140 dual)
+- Inventory ~: budgets **30121** / commitments **3867** / leaderboard **5923** / entities **862** / sources **2050** / FOI ready **~781** answered **9** partial **27** total **~829**
+- Found (strong primary BBC JR2025 AGB 50p text; izegem.be/agiz; KBO **0692.535.557**; NIS **36008**; Korenmarkt 10 8870; Voorzitter Sam Weyts AD Anton Jacobus FD Bart Van Den Bossche):
+  - Assets **EUR4.939m** / **equity NEG -EUR0.166m FLIP** (was +0.172m) / debt total **EUR5.106m**
+  - Fin debt **EUR4.602m** (LT **EUR4.418m** / ST due **EUR0.184m**) / **leasing MVA EUR4.626m MASSIVE** (erfpacht)
+  - Cash **EUR0.179m DROP** / **liquidatie provisie EUR0.435m NEW** (BTW-herziening ~0.425 + 10k)
+  - Exploitatie: ontvangsten **EUR0.411m** (prijssub **EUR0.322m** / toegang **EUR0.066m**) / uitgaven **EUR0.125m** / saldo **+EUR0.287m**
+  - AFM **+EUR0.103m** / **gecorr AFM -EUR0.096m NEG** / BBR **EUR0.222m** / budget **+EUR0.096m**
+  - P&L **-EUR0.338m** / invest **EUR0.007m** underspend vs MJP 0.017
+  - **Wind-up:** RvB 15.12.2025 stop BTW-plicht + vereffenen (free museum loses VAT shell / erfpacht recover 1.261m historical)
+- Dual: city Izegem + ETIZ already mined - **not TE-additive**; AGIZ dual residual closed
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere / Brakel GE+OCMW / Puurs / AGB Galmaarden residual next; progress@1150 in 10
+- Wrote: progress@1140 files; budgets +26 (bud_agiz_*); commitments +6; leaderboard +10; sources +1; entity agb_agiz_izegem; FOI **gap_agiz_equity_neg_liquidatie_btw_prijssub_l5** prio9 ready + draft; PDF primary (not committed ~0.8MB); rq_1140=done; spawn **rq_1141**; ticks=1140
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1141** residual dual L5; deferred **rq_116**; progress@1150 in 10
+
