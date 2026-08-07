@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T01:30:00Z,rq_1216,1216,no,tick1216 AGB Bilzen-Hoeselt full BBC upgrade prijssub 3.0m ST non-ruil 17.6m debt 10.0m full div FOI; next rq_1217 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-09T02:00:00Z,rq_1217,1217,no,tick1217 AGSO Knokke-Heist full BBC BBR -1.09m fin debt 78.1m AFM +1.83m city renteloos/werksub FOI; next rq_1218 residual dual L5 VL; rq_116 deferred; continuous hole_fill

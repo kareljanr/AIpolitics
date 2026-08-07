@@ -32314,3 +32314,34 @@ bud_agbbh_div_2025,agb_bilzen_hoeselt,2025,515542,,,bbc_jr_realized,src_agb_bilz
 bud_agbbh_staff_2025,agb_bilzen_hoeselt,2025,0,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Staff 0; tick1216
 bud_agbbh_invest_zonhoeve_2025,agb_bilzen_hoeselt,2025,873183,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Sporthal Zonhoeve invest 0.873m; tick1216
 bud_agbbh_fin_costs_2025,agb_bilzen_hoeselt,2025,88911,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Financiele kosten 0.089m; tick1216
+bud_agsokh_expl_ont_2025,agso_knokke_heist,2025,36449260,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Exploitatieontvangsten 36.449m; tick1217
+bud_agsokh_expl_uit_2025,agso_knokke_heist,2025,29503352,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Exploitatieuitgaven 29.503m; tick1217
+bud_agsokh_expl_saldo_2025,agso_knokke_heist,2025,6945908,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Exploitatiesaldo +6.946m STRONG; tick1217
+bud_agsokh_invest_ont_2025,agso_knokke_heist,2025,3832082,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Investeringsontvangsten/caps 3.832m; tick1217
+bud_agsokh_invest_uit_2025,agso_knokke_heist,2025,11225994,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Investeringsuitgaven 11.226m; tick1217
+bud_agsokh_invest_saldo_2025,agso_knokke_heist,2025,-7393911,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Investeringssaldo -7.394m; tick1217
+bud_agsokh_fin_ont_2025,agso_knokke_heist,2025,5381582,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Financieringsontvangsten 5.382m; tick1217
+bud_agsokh_fin_uit_2025,agso_knokke_heist,2025,5474743,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Financieringsuitgaven/periodieke aflossingen 5.475m; tick1217
+bud_agsokh_fin_saldo_2025,agso_knokke_heist,2025,-93161,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Financieringssaldo -0.093m; tick1217
+bud_agsokh_budget_2025,agso_knokke_heist,2025,-541164,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Budgettair resultaat -0.541m NEG; tick1217
+bud_agsokh_bbr_2025,agso_knokke_heist,2025,-1086540,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Beschikbaar budgettair resultaat -1.087m DEEP NEG CRITICAL; tick1217
+bud_agsokh_afm_2025,agso_knokke_heist,2025,1825103,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Autofinancieringsmarge +1.825m STRONG; tick1217
+bud_agsokh_afm_gecorr_2025,agso_knokke_heist,2025,857612,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Gecorrigeerde AFM +0.858m; tick1217
+bud_agsokh_fin_debt_2025,agso_knokke_heist,2025,78071703,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Fin schulden total YE2025 78.072m; tick1217
+bud_agsokh_fin_debt_lt_2025,agso_knokke_heist,2025,74528556,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Fin schulden LT YE2025 74.529m; tick1217
+bud_agsokh_fin_debt_st_due_2025,agso_knokke_heist,2025,3543147,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Fin schulden LT binnen jaar YE2025 3.543m; tick1217
+bud_agsokh_new_loans_2025,agso_knokke_heist,2025,5027644,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Nieuwe leningen net 5.028m (banks 7.0m + city renteloos net); tick1217
+bud_agsokh_mva_2025,agso_knokke_heist,2025,94203178,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,MVA YE2025 94.203m; tick1217
+bud_agsokh_fva_2025,agso_knokke_heist,2025,146739,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,FVA YE2025 0.147m; tick1217
+bud_agsokh_equity_2025,agso_knokke_heist,2025,51763587,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Nettoactief/equity YE2025 51.764m; tick1217
+bud_agsokh_cum_pnl_2025,agso_knokke_heist,2025,15071785,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Gecumuleerd overschot equity path YE2025 15.072m; tick1217
+bud_agsokh_pnl_2025,agso_knokke_heist,2025,4015670,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Accounting PnL +4.016m consolidatie (statutorisch); tick1217
+bud_agsokh_cap_sub_2025,agso_knokke_heist,2025,9427456,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Kapitaalsubsidies YE2025 9.427m; tick1217
+bud_agsokh_personnel_2025,agso_knokke_heist,2025,3690099,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Bezoldigingen sociale lasten pensioenen 3.690m; tick1217
+bud_agsokh_city_werksub_2025,agso_knokke_heist,2025,487412,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,City werkingsubsidie ~0.487m (base 0.270 + top-up 0.217 from 2023); tick1217
+bud_agsokh_renteloos_draw_2025,agso_knokke_heist,2025,1230000,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Renteloze city loan draw Maes-Boereboomplein 1.23m; tick1217
+bud_agsokh_renteloos_repay_2025,agso_knokke_heist,2025,590000,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Renteloze city loan repay 0.590m (GLLP/Albertplein/Ravelingen); tick1217
+bud_agsokh_heulebrug_sale_2025,agso_knokke_heist,2025,3209250,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Verkoop Heulebrug grond aan gemeente 3.209m (net vs renteloos); tick1217
+bud_agsokh_afval_city_2025,agso_knokke_heist,2025,4015699,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Afval city charge/facturatie 4.016m dual; tick1217
+bud_agsokh_dierenasiel_sub_2025,agso_knokke_heist,2025,3806183,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Investeringssubsidie dierenasiel 3.806m; tick1217
+bud_agsokh_vpb_2025,agso_knokke_heist,2025,365347,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Vennootschapsbelasting 0.365m; tick1217

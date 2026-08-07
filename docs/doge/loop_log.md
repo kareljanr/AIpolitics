@@ -17039,3 +17039,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +40; commitments +7; leaderboard +7; sources +1; entity agb_bilzen_hoeselt notes upgrade; FOI **gap_agb_bh_prijssub_3_00m_st_nonruil_17_6m_leasing_5_82m_full_div_0_52m_l5** prio9 ready + draft; rq_1216=done; spawn **rq_1217**; ticks=1216
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1217** residual dual L5 VL; deferred **rq_116**
+
+## Tick 1217 — 2026-08-09T02:00:00Z — rq_1217 AGSO Knokke-Heist dual residual JR2025
+
+- Unit: **rq_1217** (residual dual L5 VL — **AGSO Knokke-Heist full BBC JR2025** after city GE tick1112)
+- Primary: AGSO jaarverslag/jaarrekening 2025 (198p text) https://www.agsoknokke-heist.be/resources/site1/General/Jaarverslag%202025.pdf
+- Key € (strong): **BBR −1.087m DEEP NEG** · **AFM +1.825m** · budget **−0.541m** · expl **+6.946m** · invest **−7.394m** · **fin debt 78.072m** (LT 74.5 + ST due 3.54) · new loans **5.028m** · MVA **94.2m** · equity **51.8m** · PnL **+4.016m** · personnel **3.690m** · city werksub **~0.487m** · renteloos draw **1.23m** · afval city charge **4.016m**
+- Wrote: budgets +30; commitments +8; leaderboard +8; sources +1; entity **agso_knokke_heist**; FOI **gap_agso_kh_bbr_neg_1_09m_fin_debt_78_1m_city_renteloos_werksub_l5** prio9 ready + draft; rq_1217=done; spawn **rq_1218**; ticks=1217
+- Note: AGOST already complete tick1156 (skipped re-mine); PDF primary not committed (~7.7MB)
+- Next: prio5 **rq_1218** residual dual L5 VL; deferred **rq_116**
