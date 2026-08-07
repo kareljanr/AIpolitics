@@ -16463,3 +16463,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1181** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1181 - 2026-08-08T08:00:00Z
+
+- Unit: **rq_1181** (FOI-adjacent residual dual - **AGB De Kouter Herent Jaarrekening 2025** Entity II dienstencentrum after city GE tick1081)
+- Found (strong primary BBC 53p pub 08.06.2026; KBO **0845.210.389** NIS **24038**; Spoorwegstraat 6; Voorzitter Katelijne Suetens FD Pascal De Geyter):
+  - Assets **EUR9.968m** / equity **EUR9.214m** (overig netto 9.202m) / cash **EUR0.631m DROP** from 0.958
+  - **Fin debt ZERO**; ST non-ruil **0.659m**; total debts 0.754m
+  - BBR **EUR0.021m THIN** from 0.230m / AFM **+EUR0.743m** (=gecorr) / budget result **-EUR0.209m NEG**
+  - **Kapitaalsverminderingen EUR0.649m** (multi-year ~0.64m/y) = financing outflows
+  - Expl **EUR1.674m / 0.931m** saldo **+EUR0.743m** / werking **1.672m** (dienstvergoeding ~1.526m)
+  - Invest **EUR0.302m JUMP** vs MJP 0.057m; PnL **-EUR0.023m NEG** / rechthebbenden **0.002m while loss**
+- Dual: city Herent GE tick1081 - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen / Wielsbeke / Bornem residual next
+- Wrote: budgets +29 (bud_agbherk_*); commitments +6; leaderboard +8; sources +1; entity agb_herent_de_kouter; FOI **gap_agb_herent_kapitaal_0_65m_bbr_thin_invest_jump_dual_l5** prio9 ready + draft; PDF primary (not committed ~3.2MB); rq_1181=done; spawn **rq_1182**; ticks=1181
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1182** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local

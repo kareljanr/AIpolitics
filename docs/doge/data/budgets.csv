@@ -31227,3 +31227,32 @@ bud_agbmid_depr_2025,agb_middelkerke,2025,337838,,,BBC JR2025 primary,src_agb_mi
 bud_agbmid_goods_services_2025,agb_middelkerke,2025,506053,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Goederen en diensten 0.506m; tick1180
 bud_agbmid_staff_2025,agb_middelkerke,2025,0,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Personeel ZERO — gemeente seconded; AGB has no own staff; tick1180
 bud_agbmid_erfpacht_maatstaf_2025,agb_middelkerke,2025,22984433,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Erfpacht maatstaf sum 8 sites ~22.984m excl BTW table; tick1180
+bud_agbherk_assets_2025,agb_herent_de_kouter,2025,9968420,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Assets balanstotaal YE2025 9.968m DROP from 10.712m; tick1181
+bud_agbherk_equity_2025,agb_herent_de_kouter,2025,9214181,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Nettoactief YE2025 9.214m (overig netto 9.202m capital shell); tick1181
+bud_agbherk_cum_pnl_2025,agb_herent_de_kouter,2025,12417,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Gecumuleerd overschot YE2025 0.012m THIN; tick1181
+bud_agbherk_other_netto_2025,agb_herent_de_kouter,2025,9201765,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Overig nettoactief YE2025 9.202m; tick1181
+bud_agbherk_debt_total_2025,agb_herent_de_kouter,2025,754238,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Schulden total YE2025 0.754m (ST only); tick1181
+bud_agbherk_fin_debt_2025,agb_herent_de_kouter,2025,0,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Fin schulden ZERO YE2025; tick1181
+bud_agbherk_cash_2025,agb_herent_de_kouter,2025,630609,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Liquide middelen YE2025 0.631m DROP from 0.958m; tick1181
+bud_agbherk_mva_2025,agb_herent_de_kouter,2025,9181801,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,MVA YE2025 9.182m; tick1181
+bud_agbherk_mva_buildings_2025,agb_herent_de_kouter,2025,8547890,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,MVA terreinen/gebouwen YE2025 8.548m; tick1181
+bud_agbherk_st_nonruil_debt_2025,agb_herent_de_kouter,2025,659031,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,ST schulden niet-ruil YE2025 0.659m; tick1181
+bud_agbherk_st_nonfin_debt_2025,agb_herent_de_kouter,2025,95207,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,ST niet-fin schulden ruil YE2025 0.095m; tick1181
+bud_agbherk_expl_rec_2025,agb_herent_de_kouter,2025,1673865,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Exploitatieontvangsten 1.674m; tick1181
+bud_agbherk_expl_exp_2025,agb_herent_de_kouter,2025,931132,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Exploitatieuitgaven 0.931m; tick1181
+bud_agbherk_expl_saldo_2025,agb_herent_de_kouter,2025,742733,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Exploitatiesaldo +0.743m; tick1181
+bud_agbherk_werking_rec_2025,agb_herent_de_kouter,2025,1672382,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Ontvangsten uit de werking 1.672m (dienstvergoeding dual); tick1181
+bud_agbherk_dienstvergoeding_2025,agb_herent_de_kouter,2025,1525512,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Dienstvergoeding dienstencentrum ~1.526m (material diffs); tick1181
+bud_agbherk_invest_exp_2025,agb_herent_de_kouter,2025,302273,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Investeringsuitgaven 0.302m JUMP vs MJP 0.057m; tick1181
+bud_agbherk_invest_saldo_2025,agb_herent_de_kouter,2025,-302273,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Investeringssaldo -0.302m; tick1181
+bud_agbherk_kapitaalsverm_2025,agb_herent_de_kouter,2025,649141,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Kapitaalsverminderingen 0.649m (multi-year ~0.64m/y); tick1181
+bud_agbherk_fin_saldo_2025,agb_herent_de_kouter,2025,-649141,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Financieringssaldo -0.649m (=kapitaalsverm); tick1181
+bud_agbherk_budget_result_2025,agb_herent_de_kouter,2025,-208682,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Budgettair resultaat boekjaar -0.209m NEG; tick1181
+bud_agbherk_bbr_2025,agb_herent_de_kouter,2025,21116,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Beschikbaar BBR YE2025 0.021m THIN from 0.230m; tick1181
+bud_agbherk_afm_2025,agb_herent_de_kouter,2025,742733,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,AFM +0.743m POS (zero debt); tick1181
+bud_agbherk_afm_gecorr_2025,agb_herent_de_kouter,2025,742733,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Gecorr AFM +0.743m POS; tick1181
+bud_agbherk_pnl_2025,agb_herent_de_kouter,2025,-23200,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,P&L -0.023m NEG; tick1181
+bud_agbherk_dividend_2025,agb_herent_de_kouter,2025,1563,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Rechthebbenden/winstuitkering 0.002m while PnL NEG; tick1181
+bud_agbherk_depr_2025,agb_herent_de_kouter,2025,771736,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Afschrijvingen J5 0.772m; tick1181
+bud_agbherk_goods_services_2025,agb_herent_de_kouter,2025,925139,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Goederen en diensten 0.925m; tick1181
+bud_agbherk_bbr_prior_2025,agb_herent_de_kouter,2025,229798,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Gecumuleerd BBR vorig boekjaar 0.230m (drop source); tick1181

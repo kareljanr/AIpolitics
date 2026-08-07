@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T07:30:00Z,rq_1180,1180,no,tick1180 AGB Middelkerke dual residual erfpacht shell 23.4m debt MVA 19.3m gecorr AFM -1.25m NEG DEEP BBR 3.98m zero staff FOI; next rq_1181 residual dual L5 Stabroek/Oosterzele; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T08:00:00Z,rq_1181,1181,no,tick1181 AGB De Kouter Herent dual residual kapitaalsverm 0.65m BBR thin 0.02m invest JUMP 0.30m werking 1.67m zero debt FOI; next rq_1182 residual dual L5 Oosterzele/Nijlen; rq_116 deferred; continuous hole_fill
