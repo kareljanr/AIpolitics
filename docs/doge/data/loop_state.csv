@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T19:00:00Z,rq_1203,1203,no,tick1203 AGB Sint-Pieters-Leeuw dual residual assets 5.86m cash thin 0.024m city loan 0.19m full div 0.14m ops NEG FOI; next rq_1204 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T19:30:00Z,rq_1204,1204,no,tick1204 AGB Lille liquidation dual residual early repay 3.67m desinvest 3.26m AFM NEG ST debt 0.42m FOI; next rq_1205 residual dual L5 VL; rq_116 deferred; continuous hole_fill

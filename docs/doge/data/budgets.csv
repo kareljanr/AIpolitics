@@ -31902,3 +31902,26 @@ bud_agbspl_depr_2025,agb_sint_pieters_leeuw,2025,227784,,,BBC JR2025 primary,src
 bud_agbspl_interest_2025,agb_sint_pieters_leeuw,2025,1345,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J5 rente 0.001m; tick1203
 bud_agbspl_erfpacht_exp_2025,agb_sint_pieters_leeuw,2025,30641,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,Trial balance periodieke erfpachtvergoeding 0.031m; tick1203
 bud_agbspl_energy_2025,agb_sint_pieters_leeuw,2025,138548,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,Trial balance electricity+gas ~0.139m (81k+57k); tick1203
+bud_agblil_cash_2025,agb_lille,2025,487073,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,BBC kengetallen kastoestand 0.487m YE liquidation; tick1204
+bud_agblil_st_recv_2025,agb_lille,2025,49986,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,BBC kengetallen openstaande vorderingen KT 0.050m; tick1204
+bud_agblil_st_debt_2025,agb_lille,2025,424253,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,BBC kengetallen + NBB ST schulden 0.424m; tick1204
+bud_agblil_equity_2025,agb_lille,2025,112807,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,NBB sluit + kengetallen BBR/equity class 0.113m; tick1204
+bud_agblil_capital_2025,agb_lille,2025,200000,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,NBB inbreng onbeschikbaar 0.200m; tick1204
+bud_agblil_cum_loss_2025,agb_lille,2025,-94431,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,NBB overgedragen verlies -0.094m; tick1204
+bud_agblil_assets_current_2025,agb_lille,2025,537059,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,NBB sluit vlottende activa 0.537m (no MVA YE); tick1204
+bud_agblil_fin_debt_ye_2025,agb_lille,2025,0,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,Kengetallen openstaande leningen YE blank=0 after early repay; tick1204
+bud_agblil_early_repay_2025,agb_lille,2025,3673350,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,Kengetallen vervroegde terugbetaling leningen 3.673m city-path; tick1204
+bud_agblil_desinvest_2025,agb_lille,2025,3262339,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,Kengetallen desinvesteringen 3.262m (sport buildings to city dual); tick1204
+bud_agblil_expl_exp_2025,agb_lille,2025,39184,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,Kengetallen exploitatieuitgaven 0.039m residual wind-down; tick1204
+bud_agblil_expl_rec_2025,agb_lille,2025,27,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,Kengetallen exploitatieontvangsten ~0 residual; tick1204
+bud_agblil_budget_result_2025,agb_lille,2025,-450168,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,Kengetallen budgettair resultaat -0.450m; tick1204
+bud_agblil_bbr_2025,agb_lille,2025,112807,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,Kengetallen gecumuleerd BBR 0.113m; tick1204
+bud_agblil_afm_2025,agb_lille,2025,-39157,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,Kengetallen AFM -0.039m NEG; tick1204
+bud_agblil_pnl_2025,agb_lille,2025,-39157,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,Kengetallen verlies boekjaar -0.039m; tick1204
+bud_agblil_nbb_year_loss_2025,agb_lille,2025,-15803,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,NBB te bestemmen verlies boekjaar -0.016m (vereff period); tick1204
+bud_agblil_trade_payables_2025,agb_lille,2025,13242,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,NBB handelsschulden leveranciers 0.013m; tick1204
+bud_agblil_st_nonruil_debt_2025,agb_lille,2025,411011,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,Trial balance overige schulden non-ruil 0.411m dual residual FOI; tick1204
+bud_agblil_mva_prior_2025,agb_lille,2025,3262339,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,NBB open vereff prior MVA 3.262m transferred out; tick1204
+bud_agblil_city_loan_prior_2025,agb_lille,2025,3528291,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,Trial balance city loans prior YE2024 ~3.528m LT path before early repay; tick1204
+bud_agblil_prijssub_2025,agb_lille,2025,0,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,Kengetallen prijssubsidie blank=0 wind-down year; tick1204
+bud_agblil_staff_2025,agb_lille,2025,0,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,NBB no personnel VTE; zero staff residual; tick1204

@@ -16847,3 +16847,17 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1204** residual dual L5 VL; deferred **rq_116**
 
+
+### Tick 1204 - 2026-08-08T19:30:00Z
+
+- Unit: **rq_1204** (FOI-adjacent residual dual - **AGB Lille Jaarrekening 2025 LIQUIDATION** Entity II sport after city GE)
+- Found (strong primary BBC kengetallen + NBB open 16.06.2025 / sluit 31.10.2025; KBO **0879.926.689**; vereffenaar Vincent Goossens):
+  - Cash **EUR0.487m** / ST recv **0.050m** / ST debt **0.424m** / equity **0.113m** / capital **0.200m**
+  - **Early repay city loans EUR3.673m** / **desinvest sport MVA EUR3.262m** / fin debt YE **0**
+  - Budget year **EUR-0.450m** / BBR cum **EUR0.113m** / AFM **EUR-0.039m NEG** / PnL **EUR-0.039m**
+  - Expl residual wind-down **EUR0.039m / ~0** / staff **0** / current assets only **EUR0.537m** NBB
+  - Dual: city Lille GE already mined - AGB liquidated into city dual residual (not TE-additive shell going forward)
+- Wrote: budgets +23; commitments +6; leaderboard +7; sources +1; entity agb_lille; FOI **gap_agb_lille_liquidation_early_repay_3_67m_desinvest_3_26m_afm_neg_l5** prio9 ready + draft; rq_1204=done; spawn **rq_1205**; ticks=1204
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1205** residual dual L5 VL; deferred **rq_116**
+
