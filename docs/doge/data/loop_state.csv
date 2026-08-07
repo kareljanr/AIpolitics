@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T03:30:00Z,rq_1220,1220,no,tick1220 AGB Mortsel full BBC AFM -0.44m debt 9.57m cum loss -1.12m cash DROP FOI; next rq_1221 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-09T04:00:00Z,rq_1221,1221,no,tick1221 AGB Putte Prive dual city J2 AFM -0.01m BBR 0.05m renteloos 0.17m borg 0.55m full BBC FOI; next rq_1222 residual dual L5 VL; rq_116 deferred; continuous hole_fill

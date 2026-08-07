@@ -32420,3 +32420,17 @@ bud_agbmor_interest_2025,agb_mortsel,2025,155283,,,bbc_jr_realized,src_agb_morts
 bud_agbmor_vl_invest_sub_2025,agb_mortsel,2025,591598,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,VL investeringssubsidie sportlandschap 0.592m; tick1220
 bud_agbmor_fort4_liq_2025,agb_mortsel,2025,332566,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Fort4 BV liquidation receipt 0.333m; tick1220
 bud_agbmor_fort4_minwaarde_2025,agb_mortsel,2025,59354,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Fort4 participatie minwaarde 0.059m; tick1220
+bud_agbputp_bbr_2025,agb_putte_prive,2025,49841,,,bbc_jr_realized,src_agb_putte_prive_jr2025_dual,strong,BBR beschikbaar +0.050m (city consol dual J2); tick1221
+bud_agbputp_afm_2025,agb_putte_prive,2025,-9718,,,bbc_jr_realized,src_agb_putte_prive_jr2025_dual,strong,AFM -0.010m NEG (city consol dual J2); tick1221
+bud_agbputp_afm_gecorr_2025,agb_putte_prive,2025,36406,,,bbc_jr_realized,src_agb_putte_prive_jr2025_dual,strong,Gecorr AFM +0.036m (city consol dual J2); tick1221
+bud_agbputp_expl_saldo_2025,agb_putte_prive,2025,207010,,,odaa_derived,src_agb_putte_prive_jr2025_dual,medium,Expl saldo ~0.207m (ODAA-derived; AFM=expl-amort); tick1221
+bud_agbputp_amort_2025,agb_putte_prive,2025,216728,,,odaa_derived,src_agb_putte_prive_jr2025_dual,medium,Periodieke aflossingen ~0.217m (ODAA financing uit); tick1221
+bud_agbputp_invest_uit_2025,agb_putte_prive,2025,173400,,,odaa_derived,src_agb_putte_prive_jr2025_dual,medium,Invest uit ~0.173m (ODAA sum OBH+OMG+DAG); tick1221
+bud_agbputp_fin_ont_2025,agb_putte_prive,2025,173400,,,odaa_derived,src_agb_putte_prive_jr2025_dual,medium,Fin ont ~0.173m new loans path (=city renteloos); tick1221
+bud_agbputp_fin_uit_2025,agb_putte_prive,2025,216728,,,odaa_derived,src_agb_putte_prive_jr2025_dual,medium,Fin uit ~0.217m amort (ODAA); tick1221
+bud_agbputp_city_renteloos_2025,agb_putte_prive,2025,173400,,,odaa_derived,src_agb_putte_prive_jr2025_dual,medium,City renteloze lening 2025 invest path (GR+ODAA); tick1221
+bud_agbputp_city_borg_loan_2025,agb_putte_prive,2025,550000,,,bbc_jr_realized,src_agb_putte_prive_jr2025_dual,strong,City borgstelling AGB Privé loan 0.550m (city risk note); tick1221
+bud_agbputp_expl_ont_odaa_2025,agb_putte_prive,2025,1122504,,,odaa_derived,src_agb_putte_prive_jr2025_dual,medium,Expl ont ~1.123m ODAA sum DAG+OMG; tick1221
+bud_agbputp_expl_uit_odaa_2025,agb_putte_prive,2025,915494,,,odaa_derived,src_agb_putte_prive_jr2025_dual,medium,Expl uit ~0.915m ODAA sum OBH+VT+DAG; tick1221
+bud_agbputp_dag_sport_saldo_2025,agb_putte_prive,2025,191241,,,odaa_derived,src_agb_putte_prive_jr2025_dual,medium,Sport ops saldo +0.191m (ODAA AC000192); tick1221
+bud_agbputp_dag_zaal_saldo_2025,agb_putte_prive,2025,85905,,,odaa_derived,src_agb_putte_prive_jr2025_dual,medium,Zaalverhuur saldo +0.086m (ODAA AC000193); tick1221

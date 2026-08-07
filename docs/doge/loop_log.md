@@ -17078,3 +17078,14 @@ Append-only. Each tick adds a short entry.
 - Progress@1220: refresh progress_every_10_ticks + waste top10
 - Next: prio5 **rq_1221** residual dual L5 VL; deferred **rq_116**
 
+
+## Tick 1221 — 2026-08-09T04:00:00Z — rq_1221 AGB Putte Privé dual residual JR2025
+
+- Unit: **rq_1221** (residual dual L5 VL — **AGB Privé Domein Putte** after city GE tick923; full BBC dossier still 404)
+- Primary dual: city consol J2 in [Putte GE+OCMW JR2025](https://www.putte.be/sites/default/files/2026-06/Dossier_rekening_2025_gemeente-OCMW.pdf) + ODAA + GR 18.06.2026; KBO **0871.000.414**
+- Key €: **AFM −0.010m NEG (strong)** · **gecorr AFM +0.036m (strong)** · **BBR 0.050m (strong)** · renteloos **~0.173m (medium)** · amort **~0.217m** · city borg **0.550m (strong)** · expl saldo **~0.207m**
+- Dual: city GE already mined — AGB residual partial closed via dual J2+ODAA; full J2/J4/J5 FOI
+- Wrote: budgets +14; commitments +6; leaderboard +6; sources +1; entity **agb_putte_prive**; FOI **gap_agb_put_prive_afm_neg_0_01m_full_bbc_j2j4_debt_city_loan_0_17m_prijssub_l5** prio9 ready + draft; rq_1221=done; spawn **rq_1222**; ticks=1221
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_1222** residual dual L5 VL; deferred **rq_116**
+
