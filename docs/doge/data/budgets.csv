@@ -30970,3 +30970,34 @@ bud_agbmm_pnl_2025,agb_merelbeke_melle,2025,-187359,,,BBC JR2025 primary,src_agb
 bud_agbmm_dividend_2025,agb_merelbeke_melle,2025,5000,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Dividend to city 0.005m WHILE LOSS (BTW winstoogmerk); tick1171
 bud_agbmm_interest_2025,agb_merelbeke_melle,2025,387,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Financiele kosten 0.0004m thin (renteloze city loans); tick1171
 bud_agbmm_depr_2025,agb_merelbeke_melle,2025,1090401,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Afschrijvingen 1.090m; tick1171
+bud_agbmaas_assets_2025,agb_maasmechelen,2025,3908158,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Assets balanstotaal YE2025 3.908m DROP from 5.997m; tick1172
+bud_agbmaas_equity_2025,agb_maasmechelen,2025,891805,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Nettoactief YE2025 0.892m FLIP from NEG -0.870m; tick1172
+bud_agbmaas_cum_pnl_2025,agb_maasmechelen,2025,-2058195,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Gecumuleerd tekort YE2025 -2.058m (improved from -2.996m); tick1172
+bud_agbmaas_other_netto_2025,agb_maasmechelen,2025,2950000,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Overig nettoactief YE2025 2.950m JUMP from 2.090m; tick1172
+bud_agbmaas_debt_total_2025,agb_maasmechelen,2025,3016353,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Schulden total YE2025 3.016m DROP from 6.866m; tick1172
+bud_agbmaas_fin_debt_2025,agb_maasmechelen,2025,2971930,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Fin schulden T4 total YE2025 2.972m DECLINING; tick1172
+bud_agbmaas_fin_debt_lt_2025,agb_maasmechelen,2025,2544668,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Fin schulden LT YE2025 2.545m; tick1172
+bud_agbmaas_fin_debt_st_due_2025,agb_maasmechelen,2025,427262,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Fin schulden LT vervallend YE2025 0.427m; tick1172
+bud_agbmaas_cash_2025,agb_maasmechelen,2025,1415027,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Liquide middelen YE2025 1.415m DROP from 3.976m; tick1172
+bud_agbmaas_st_recv_2025,agb_maasmechelen,2025,2493131,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,ST vorderingen YE2025 2.493m JUMP (sale/city); tick1172
+bud_agbmaas_mva_2025,agb_maasmechelen,2025,0,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,MVA YE2025 ZERO after Oud Klooster sale to city; tick1172
+bud_agbmaas_expl_rec_2025,agb_maasmechelen,2025,271076,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Exploitatieontvangsten 0.271m; tick1172
+bud_agbmaas_expl_exp_2025,agb_maasmechelen,2025,397646,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Exploitatieuitgaven 0.398m; tick1172
+bud_agbmaas_expl_saldo_2025,agb_maasmechelen,2025,-126571,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Exploitatiesaldo -0.127m NEG; tick1172
+bud_agbmaas_desinvest_2025,agb_maasmechelen,2025,1624500,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Desinvestering/sale Oud Klooster to city 1.625m; tick1172
+bud_agbmaas_invest_exp_2025,agb_maasmechelen,2025,6376,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Investeringsuitgaven 0.006m residual; tick1172
+bud_agbmaas_invest_saldo_2025,agb_maasmechelen,2025,1618124,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Investeringssaldo +1.618m (sale driven); tick1172
+bud_agbmaas_fin_exp_2025,agb_maasmechelen,2025,2681155,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Financieringsuitgaven 2.681m (amort 0.652 + early 2.029); tick1172
+bud_agbmaas_early_repay_2025,agb_maasmechelen,2025,2029093,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Vervroegde terugbetaling leningen 2.029m; tick1172
+bud_agbmaas_repay_2025,agb_maasmechelen,2025,652062,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Periodieke aflossingen 0.652m; tick1172
+bud_agbmaas_capital_inject_2025,agb_maasmechelen,2025,860000,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Kapitaalsvermeerdering 0.860m; tick1172
+bud_agbmaas_fin_saldo_2025,agb_maasmechelen,2025,-1821155,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Financieringssaldo -1.821m; tick1172
+bud_agbmaas_budget_result_2025,agb_maasmechelen,2025,-329602,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Budgettair resultaat boekjaar -0.330m; tick1172
+bud_agbmaas_bbr_2025,agb_maasmechelen,2025,3867432,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Beschikbaar BBR YE2025 3.867m; tick1172
+bud_agbmaas_afm_2025,agb_maasmechelen,2025,-778633,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,AFM -0.779m NEG DEEP; tick1172
+bud_agbmaas_afm_gecorr_2025,agb_maasmechelen,2025,-578817,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Gecorr AFM -0.579m NEG (aangewezen 0.452m); tick1172
+bud_agbmaas_pnl_2025,agb_maasmechelen,2025,937861,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,P&L +0.938m (sale path; minderwaarde 0.101m); tick1172
+bud_agbmaas_minderwaarde_2025,agb_maasmechelen,2025,101220,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Minderwaarde realisatie vaste activa 0.101m; tick1172
+bud_agbmaas_interest_2025,agb_maasmechelen,2025,173742,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Intresten op leningen kengetal 0.174m; tick1172
+bud_agbmaas_fin_costs_2025,agb_maasmechelen,2025,362786,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Financiele kosten J5 0.363m; tick1172
+bud_agbmaas_other_op_rec_2025,agb_maasmechelen,2025,1436728,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Andere operationele opbrengsten J5 1.437m; tick1172

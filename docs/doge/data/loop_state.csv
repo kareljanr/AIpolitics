@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T03:00:00Z,rq_1171,1171,no,tick1171 AGB Merelbeke-Melle dual residual city loan 18.5m AFM NEG prijssub 1.51m dividend while loss; next rq_1172 residual dual L5; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T03:30:00Z,rq_1172,1172,no,tick1172 AGB Maasmechelen dual residual liquidation Oud Klooster sale 1.62m AFM NEG early repay 2.03m debt 2.97m; next rq_1173 residual dual L5; rq_116 deferred; continuous hole_fill

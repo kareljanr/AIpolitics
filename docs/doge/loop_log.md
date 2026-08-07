@@ -16313,3 +16313,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1172** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1172 - 2026-08-08T03:30:00Z
+
+- Unit: **rq_1172** (FOI-adjacent residual dual - **AGB Maasmechelen Jaarrekening 2025** Entity II patrimonium liquidation after city GE)
+- Found (strong primary BBC 86p afdruk 09.04.2026; KBO **0882.009.815** NIS **73107**; Heirstraat 239; **Vereffenaars** Tanja Imbornone & Daan Deckers):
+  - Assets **EUR3.908m** all current (cash **1.415m DROP** from 3.976 / ST recv **2.493m JUMP**) / **MVA ZERO** after sale
+  - **Oud Klooster sold to city YE2025 EUR1.625m** (minderwaarde 0.101m); equity **FLIP +0.892m** (was NEG -0.870m)
+  - Fin debt T4 **EUR2.972m DECLINING** (was 5.653); early repay **2.029m** + periodieke **0.652m**; capital inject **0.860m**
+  - BBR **EUR3.867m** / **AFM EUR-0.779m NEG DEEP** / **gecorr AFM EUR-0.579m NEG**
+  - Expl **EUR0.271m / 0.398m** saldo **-0.127m** / PnL **+0.938m** sale-driven / no dividend
+- Dual: city Maasmechelen GE already mined tick1060 - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen / Bornem JR2024 / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Middelkerke / AGB Brasschaat / AGB SAM Mechelen residual next
+- Wrote: budgets +31 (bud_agbmaas_*); commitments +6; leaderboard +8; sources +1; entity agb_maasmechelen; FOI **gap_agb_maas_afm_neg_liquidation_sale_debt_l5** prio9 ready + draft; PDF primary (not committed ~4.1MB); rq_1172=done; spawn **rq_1173**; ticks=1172
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1173** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local
