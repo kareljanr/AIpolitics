@@ -15589,3 +15589,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1132** residual dual L5; deferred **rq_116**; progress@1140 in 8
 
+
+### Tick 1132 - 2026-08-12T07:30:00Z
+
+- Unit: **rq_1132** (FOI-adjacent residual dual - **AGB Boom Plus Jaarrekening 2025** Entity II after city tick1042)
+- Found (strong primary BBC JR2025 AGB 214p text; boom.be download 17969; KBO **0862.976.336**; Antwerpsestraat 44 2850 Boom):
+  - Assets **EUR23.297m JUMP** (was **EUR18.480m**) / **equity -EUR2.340m NEG FOI** / debt total **EUR25.636m**
+  - Fin debt total **EUR24.585m MASSIVE** (LT **EUR18.565m** / ST due **EUR0.634m** / ST **EUR5.386m**; loans **EUR19.199m**)
+  - New loans **EUR5.500m MASSIVE FOI** / repayments **EUR0.454m** / interest **EUR0.638m**
+  - Cash **EUR1.472m** / **inventory/WIP EUR15.360m MASSIVE FOI** (was **EUR10.840m**) / MVA **EUR6.290m**
+  - Exploitatie: ontvangsten **EUR0.607m** / uitgaven **EUR5.557m** / saldo **-EUR4.950m DEEP NEG**
+  - **AFM -EUR5.404m DEEP NEG FOI** / gecorr AFM **-EUR6.389m** / **BBR -EUR4.716m DEEP NEG** / budget **+EUR0.089m** (loan-financed)
+  - P&L **-EUR0.774m** / cum tekort **-EUR2.997m** / goederen T2 **EUR4.749m** / omzet **EUR0.651m** / VL subsidy clawback **-EUR0.051m**
+  - Projects FOI: **Kaaiplateau PPP** ROCADE · Blauwstraat · De Schomme · Braxhall · **Tomorrowland** WEAREONE/TL International
+- Dual: city Boom fin debt/cash stress (tick1042) already on board - not TE-additive; AGB dual residual now closed
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere full JR / Brakel GE+OCMW / Puurs / AGB Galmaarden residual next; progress@1140 in 7
+- Wrote: budgets +29 (bud_abp_*); commitments +7; leaderboard +10; sources +1; entity agb_boom_plus; FOI **gap_abp_afm_deep_neg_equity_neg_inventory_debt_l5** prio9 ready + draft; PDF primary (not committed ~10MB); rq_1132=done; spawn **rq_1133**; ticks=1132
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1133** residual dual L5; deferred **rq_116**; progress@1140 in 7
+

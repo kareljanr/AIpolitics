@@ -29863,3 +29863,32 @@ bud_ago_interest_2025,agb_oostkamp,2025,0,,,jaarrekening_realized,src_oostkamp_a
 bud_ago_new_loans_2025,agb_oostkamp,2025,473240,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Nieuwe leningen 0.473m (=invest) FOI; tick1131
 bud_ago_repay_2025,agb_oostkamp,2025,667389,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Periodieke aflossingen 0.667m; tick1131
 bud_ago_fin_opbrengsten_2025,agb_oostkamp,2025,77394,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Financiele opbrengsten J5 0.077m; tick1131
+bud_abp_assets_2025,agb_boom_plus,2025,23296681,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Total assets YE2025 23.297m JUMP; tick1132
+bud_abp_equity_2025,agb_boom_plus,2025,-2339791,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Nettoactief YE2025 -2.340m NEG FOI; tick1132
+bud_abp_debt_total_2025,agb_boom_plus,2025,25636472,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Total schulden YE2025 25.636m; tick1132
+bud_abp_fin_debt_total_2025,agb_boom_plus,2025,24584552,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Fin schulden total YE2025 24.585m (LT+ST due+ST); tick1132
+bud_abp_fin_debt_loans_2025,agb_boom_plus,2025,19198541,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Openstaande leningen YE2025 19.199m (LT+ST due); tick1132
+bud_abp_fin_debt_lt_2025,agb_boom_plus,2025,18564544,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Fin schulden LT YE2025 18.565m; tick1132
+bud_abp_fin_debt_st_due_2025,agb_boom_plus,2025,633997,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,LT vervallend binnen jaar YE2025 0.634m; tick1132
+bud_abp_fin_debt_st_2025,agb_boom_plus,2025,5386011,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Fin schulden KT YE2025 5.386m MASSIVE FOI; tick1132
+bud_abp_cash_2025,agb_boom_plus,2025,1471723,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Liquide middelen YE2025 1.472m; tick1132
+bud_abp_inventory_2025,agb_boom_plus,2025,15359599,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Voorraden/bestellingen in uitvoering 15.360m MASSIVE FOI; tick1132
+bud_abp_cap_subs_2025,agb_boom_plus,2025,656873,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Kapitaalsubsidies YE2025 0.657m; tick1132
+bud_abp_mva_2025,agb_boom_plus,2025,6290193,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Materiele vaste activa YE2025 6.290m; tick1132
+bud_abp_expl_rec_2025,agb_boom_plus,2025,606580,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Exploitatieontvangsten 0.607m; tick1132
+bud_abp_expl_exp_2025,agb_boom_plus,2025,5556777,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Exploitatieuitgaven 5.557m; tick1132
+bud_abp_expl_saldo_2025,agb_boom_plus,2025,-4950198,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Exploitatiesaldo -4.950m DEEP NEG FOI; tick1132
+bud_abp_invest_2025,agb_boom_plus,2025,6774,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Investeringsuitgaven 0.007m; tick1132
+bud_abp_afm_2025,agb_boom_plus,2025,-5404111,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,AFM -5.404m DEEP NEG FOI; tick1132
+bud_abp_afm_gecorr_2025,agb_boom_plus,2025,-6389275,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Gecorr AFM -6.389m DEEP NEG FOI; tick1132
+bud_abp_bbr_2025,agb_boom_plus,2025,-4716418,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,BBR -4.716m DEEP NEG FOI; tick1132
+bud_abp_budget_result_2025,agb_boom_plus,2025,89114,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Budgettair resultaat +0.089m (loan-financed); tick1132
+bud_abp_pl_2025,agb_boom_plus,2025,-773665,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,P&L verlies -0.774m FOI; tick1132
+bud_abp_cum_pl_2025,agb_boom_plus,2025,-2996665,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Gecumuleerd tekort -2.997m FOI; tick1132
+bud_abp_new_loans_2025,agb_boom_plus,2025,5500000,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Nieuwe leningen 5.500m MASSIVE FOI; tick1132
+bud_abp_repay_2025,agb_boom_plus,2025,453913,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Periodieke aflossingen 0.454m; tick1132
+bud_abp_interest_2025,agb_boom_plus,2025,637773,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Intresten banken 0.638m FOI; tick1132
+bud_abp_goederen_2025,agb_boom_plus,2025,4748876,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Goederen en diensten T2 4.749m (project COGS FOI); tick1132
+bud_abp_personeel_2025,agb_boom_plus,2025,98677,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Bezoldigingen T2 0.099m; tick1132
+bud_abp_omzet_2025,agb_boom_plus,2025,651125,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Ontvangsten uit werking T2 0.651m; tick1132
+bud_abp_vl_subsidy_clawback_2025,agb_boom_plus,2025,-51076,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,VL werkingssubsidie clawback -0.051m FOI; tick1132
