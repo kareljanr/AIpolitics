@@ -15913,3 +15913,19 @@ Append-only. Each tick adds a short entry.
 - paused=no; durable 60s watcher recreated fire_immediately
 - ticks=1147; next rq_1148; progress@1150 in 3
 
+### Tick 1148 - 2026-08-07T15:00:00Z
+
+- Unit: **rq_1148** (FOI-adjacent residual dual - **Gemeente+OCMW De Panne + AGB JR2025** saldi after image-only full bundels)
+- Found (strong primary GR/RvB uittreksels 22.06.2026 scan OCR; AD Wim Jonckheere BM Wim Janssens; Zeelaan 21 8660):
+  - **GE+OCMW:** expl ont **EUR39.847m** / uit **EUR36.872m** / expl saldo **+EUR2.975m**
+  - Invest ont **EUR1.291m** / uit **EUR8.409m** / saldo **-EUR7.118m MASSIVE**
+  - Andere **+EUR0.340m** / budget year **-EUR3.803m** / cum prior **EUR18.849m** / cum **EUR15.046m**
+  - Bestemde **EUR0.187m** / kasbasis **EUR14.859m** / **AFM +EUR1.770m**
+  - **AGB:** assets **EUR7.323m** / profit **EUR0.315m** / cum profit **EUR0.255m** / debt **EUR6.720m (~92pct assets)** / ST due **EUR1.898m** / leningen **EUR0.591m**
+  - **Missing public (text):** full BBC J4/T4 GE+OCMW + AGB financial notes (243p / 62MB image-only) FOI
+- Dual: De Panne GE+OCMW+AGB saldi layer closed; full note OCR residual FOI
+- Note: Oosterzele / Nijlen login / Bornem JR2024 only / Schelle GE+OCMW / AGB Galmaarden residual next; progress@1150 in 2
+- Wrote: budgets +19 (bud_dp_* + bud_dpagb_*); commitments +6; leaderboard +8; sources +2; entities city_de_panne + agb_de_panne; FOI **gap_dp_full_bbc_afm_debt_l5** prio9 + **gap_dpagb_full_bbc_debt_l5** prio8 ready + drafts; rq_1148=done; spawn **rq_1149**; ticks=1148
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1149** residual dual L5; deferred **rq_116**; progress@1150 in 2
+
