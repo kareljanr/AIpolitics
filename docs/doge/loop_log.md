@@ -17245,3 +17245,9 @@ Append-only. Each tick adds a short entry.
 - EUR strong: assets **46.4m**; fin debt **29.7m**; AFM **-0.242m** NEG; gecorr AFM **-1.177m** DEEP NEG; cum loss **-7.057m** DEEPENING; overig nettoactief **-8.12m**; PnL **-0.625m**; OCMW dual sub **1.755m**; personnel **21.3m**; BBR thin **0.033m**; VIPA invest-sub **1.428m**.
 - CSVs: sources/entities/budgets+40/commitments+7/leaderboard+7 + FOI ready `gap_zog_afm_neg_0_24m_gecorr_1_18m_cum_loss_7_06m_fin_debt_29_7m_ocmw_sub_1_76m_l5` (not sent); rq_1242=done; spawn rq_1243.
 - Next: rq_1243 residual dual L5 VL JR2025 hole_fill.
+
+### Tick 1243 - 2026-08-08 - rq_1243 Zorg Stekene dual residual
+- Unit: Zorg Stekene WV JR2025 city dual care Entity II (KBO 0689.674.948; 117p text primary; WZC Zoetenaard).
+- EUR strong: assets **30.0m**; fin debt **14.5m**; city toelage dual **2.109m**; cum loss **-3.434m**; AFM **+1.359m**; gecorr AFM **+0.480m**; BBR **+3.095m**; PnL flip **+0.389m** (was -3.09m); personnel **10.7m**; meal-cheque corr **0.946m** (2025 credit **0.536m**); VL invest-sub **0.669m**.
+- CSVs: sources/entities/budgets+42/commitments+7/leaderboard+7 + FOI ready `gap_zs_city_toelage_2_11m_cum_loss_3_43m_fin_debt_14_5m_meal_cheque_corr_0_95m_l5` (not sent); rq_1243=done; spawn rq_1244.
+- Next: rq_1244 residual dual L5 VL JR2025 hole_fill.

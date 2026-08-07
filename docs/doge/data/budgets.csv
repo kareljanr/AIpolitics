@@ -32997,3 +32997,45 @@ bud_zog_loan_recv_back_2025,zorg_zog_genk,2025,1427935,,,bbc_jr_realized,src_zog
 bud_zog_interest_2025,zorg_zog_genk,2025,1029252,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Financiele kosten/rente 1.029m; tick1242
 bud_zog_costs_2025,zorg_zog_genk,2025,31800155,,,bbc_jr_realized,src_zog_genk_jr2025,strong,J5 costs total 31.800m; tick1242
 bud_zog_new_loans_2025,zorg_zog_genk,2025,60470,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Nieuwe leningen/leasings 0.060m; tick1242
+bud_zs_assets_2025,zorg_stekene,2025,30040688,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Assets balanstotaal YE2025 30.041m; tick1243
+bud_zs_equity_2025,zorg_stekene,2025,8928924,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Nettoactief YE2025 8.929m; tick1243
+bud_zs_cum_loss_2025,zorg_stekene,2025,-3433938,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Gecumuleerd tekort YE2025 -3.434m (was -3.823m); tick1243
+bud_zs_debt_total_2025,zorg_stekene,2025,21111764,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Schulden total YE2025 21.112m; tick1243
+bud_zs_fin_debt_2025,zorg_stekene,2025,14543715,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Fin schulden total YE2025 14.544m (LT 13.902 + ST due 0.641); tick1243
+bud_zs_fin_debt_lt_2025,zorg_stekene,2025,13902331,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Fin schulden LT YE2025 13.902m; tick1243
+bud_zs_fin_debt_st_due_2025,zorg_stekene,2025,641384,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Fin schulden LT vervallend YE2025 0.641m; tick1243
+bud_zs_cash_2025,zorg_stekene,2025,2746801,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Liquide middelen YE2025 2.747m (was 2.277m); tick1243
+bud_zs_st_recv_2025,zorg_stekene,2025,1790499,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Vorderingen KT total YE2025 1.790m; tick1243
+bud_zs_st_nonruil_recv_2025,zorg_stekene,2025,242043,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Vorderingen niet-ruil KT YE2025 0.242m; tick1243
+bud_zs_lt_nonruil_recv_2025,zorg_stekene,2025,4013993,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Vorderingen niet-ruil LT YE2025 4.014m; tick1243
+bud_zs_mva_2025,zorg_stekene,2025,20773216,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Materiele VA YE2025 20.773m; tick1243
+bud_zs_pension_lt_2025,zorg_stekene,2025,2619000,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Pensioenvoorzieningen LT YE2025 2.619m; tick1243
+bud_zs_cap_subs_2025,zorg_stekene,2025,10945182,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Kapitaalssubsidies YE2025 10.945m; tick1243
+bud_zs_expl_rec_2025,zorg_stekene,2025,14185787,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Exploitatieontvangsten 14.186m; tick1243
+bud_zs_expl_exp_2025,zorg_stekene,2025,13186978,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Exploitatieuitgaven 13.187m; tick1243
+bud_zs_expl_saldo_2025,zorg_stekene,2025,998808,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Exploitatiesaldo +0.999m; tick1243
+bud_zs_invest_exp_2025,zorg_stekene,2025,115215,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Investeringsuitgaven 0.115m; tick1243
+bud_zs_invest_rec_2025,zorg_stekene,2025,820248,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Investeringsontvangsten 0.820m; tick1243
+bud_zs_invest_saldo_2025,zorg_stekene,2025,705033,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Investeringssaldo +0.705m; tick1243
+bud_zs_fin_saldo_2025,zorg_stekene,2025,-308541,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Financieringssaldo -0.309m; tick1243
+bud_zs_budget_result_2025,zorg_stekene,2025,1395300,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Budgettair resultaat boekjaar +1.395m; tick1243
+bud_zs_cumul_budget_2025,zorg_stekene,2025,3095463,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Gecumuleerd budgettair resultaat 3.095m; tick1243
+bud_zs_bbr_2025,zorg_stekene,2025,3095463,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,BBR +3.095m; tick1243
+bud_zs_afm_2025,zorg_stekene,2025,1359266,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,AFM +1.359m; tick1243
+bud_zs_gecorr_afm_2025,zorg_stekene,2025,479627,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Gecorrigeerde AFM +0.480m; tick1243
+bud_zs_pnl_2025,zorg_stekene,2025,389195,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,PnL overschot +0.389m (was -3.086m); tick1243
+bud_zs_personnel_2025,zorg_stekene,2025,10666185,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Bezoldigingen 10.666m; tick1243
+bud_zs_city_toelage_2025,zorg_stekene,2025,2109439,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,City dual alg werkingssub 2.109m; tick1243
+bud_zs_sub_total_2025,zorg_stekene,2025,4557963,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Werkingssubsidies total 4.558m; tick1243
+bud_zs_sub_alg_2025,zorg_stekene,2025,2238619,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Algemene werkingssubsidies 2.239m; tick1243
+bud_zs_sub_spec_2025,zorg_stekene,2025,2319345,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Specifieke werkingssubsidies 2.319m; tick1243
+bud_zs_werking_ontv_2025,zorg_stekene,2025,9335661,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Opbrengsten uit de werking 9.336m; tick1243
+bud_zs_vl_invest_sub_2025,zorg_stekene,2025,668999,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,VL invest-sub recurring 0.669m; tick1243
+bud_zs_city_invest_sub_2025,zorg_stekene,2025,151249,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,City invest-sub dual 0.151m; tick1243
+bud_zs_repayments_2025,zorg_stekene,2025,308541,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Periodieke aflossingen 0.309m; tick1243
+bud_zs_loan_recv_back_2025,zorg_stekene,2025,668999,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Periodieke terugvordering leningen 0.669m; tick1243
+bud_zs_interest_2025,zorg_stekene,2025,452832,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Intresten op leningen 0.453m; tick1243
+bud_zs_interest_other_entities_2025,zorg_stekene,2025,131767,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Intresten aan andere entiteiten 0.132m; tick1243
+bud_zs_meal_cheque_corr_2025,zorg_stekene,2025,946023,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Maaltijdcheque boekhoudcorrectie 2021-25 total 0.946m; tick1243
+bud_zs_meal_cheque_credit_2025,zorg_stekene,2025,535671,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,MC correctie credit impact 2025 0.536m; tick1243
+bud_zs_costs_2025,zorg_stekene,2025,14314671,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,J5 costs total 14.315m; tick1243

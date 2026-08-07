@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T01:25:00Z,rq_1242,1242,no,tick1242 ZOG Genk dual residual fin debt 29.7m AFM -0.24m gecorr -1.18m cum loss -7.06m OCMW sub 1.76m FOI ready; next rq_1243 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T01:40:00Z,rq_1243,1243,no,tick1243 Zorg Stekene dual residual city toelage 2.11m fin debt 14.5m cum loss -3.43m meal-cheque corr 0.95m FOI ready; next rq_1244 residual dual L5 VL; continuous hole_fill
