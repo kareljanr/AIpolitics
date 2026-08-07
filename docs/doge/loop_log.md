@@ -15782,3 +15782,21 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1142** residual dual L5; deferred **rq_116**; progress@1150 in 9
 
+
+### Tick 1142 - 2026-08-12T12:30:00Z
+
+- Unit: **rq_1142** (FOI-adjacent residual dual - **AGB Herentals patrimonium Jaarrekening 2025** Entity II after S&R tick1141)
+- Found (strong primary BBC JR2025 AGB 69p text; herentals.be; KBO **0872.383.257**; NIS **13011**; Augustijnenlaan 30 2200; AD Tanja Mattheus FD Muriel Poortmans; RvB 2 jun 2026):
+  - Assets **EUR1.978m** (was 2.302m) / equity **EUR1.813m** / debt total **EUR0.165m**
+  - Bank fin debt **EUR0** (T4) / **kapitaalsvermindering EUR0.156m** ST due / capital repay path multi-year
+  - **Cash EUR0.060m CRITICAL DROP** (was 0.243m) / **MVA buildings EUR1.765m flat no depr**
+  - **Bibliotheek lease recv ST EUR0.152m** / recoveries **EUR0.142m**
+  - Exploitatie: ontvangsten **EUR0.021m declining** (was 0.064m 2020) / uitgaven **EUR0.009m** / saldo **+EUR0.012m**
+  - AFM **+EUR0.154m** (loan recoveries) / BBR **EUR0.052m** / **budget -EUR0.002m THIN** multi-year
+  - P&L **EUR0.012m** / overig nettoactief DROP **1.465 to 1.309m**
+- Dual: city Herentals + AGB S&R already mined - **not TE-additive**; Herentals AGB dual residual closed
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere / Brakel GE+OCMW / Puurs / AGB Galmaarden residual next; progress@1150 in 8
+- Wrote: budgets +21 (bud_aghp_*); commitments +6; leaderboard +10; sources +1; entity agb_herentals_pat; FOI **gap_aghp_cash_drop_capital_reduce_lease_recv_l5** prio9 ready + draft; PDF primary (not committed ~3MB); rq_1142=done; spawn **rq_1143**; ticks=1142
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1143** residual dual L5; deferred **rq_116**; progress@1150 in 8
+

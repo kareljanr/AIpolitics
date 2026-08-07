@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-12T12:00:00Z,rq_1141,1141,no,last tick1141 AGB S&R Herentals fin debt 7.77m gecorr AFM NEG prijssub to 0pct; next rq_1142 residual dual L5; progress@1150 in 9; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-12T12:30:00Z,rq_1142,1142,no,last tick1142 AGB Herentals patrimonium cash DROP capital reduce; next rq_1143 residual dual L5; progress@1150 in 8; rq_116 deferred; continuous hole_fill
