@@ -15882,3 +15882,21 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1147** residual dual L5; deferred **rq_116**; progress@1150 in 4
 
+
+### Tick 1147 - 2026-08-12T15:30:00Z
+
+- Unit: **rq_1147** (FOI-adjacent residual dual - **Gemeente+OCMW Brakel Jaarrekening 2025 full BBC bundel** after Najaarszon Entity II)
+- Found (strong primary BBC 137p bundel echo portal GR/OR 29.06.2026; KBO GE **0207.690.262** / OCMW **0212.330.822**; Marktplein 1/26 9660; AD Jürgen De Mets FD Ludo De Smet):
+  - Assets **EUR85.310m** / equity **EUR53.574m** / cash **EUR3.550m DROP** (was 4.708m)
+  - Fin debt T4 **EUR18.668m** (LT 16.697 / ST due 1.971); real net after pool loans **EUR14.246m** (~942/inw)
+  - AFM **+EUR2.328m** / gecorr **+EUR2.807m** / BBR **EUR6.151m** / budget **-EUR0.108m** / cum **EUR6.337m**
+  - P&L **-EUR0.892m** (was +0.836m) / expl **EUR23.101m / 18.993m** / fiscal **EUR12.004m** / personnel **EUR9.884m JUMP**
+  - Werkingssub granted **EUR3.414m JUMP** (was 2.349) FOI L5 / pension provisie **EUR9.334m JUMP** (was 7.601)
+  - New loans **EUR0.382m** / repayments **EUR2.111m** / interest **EUR0.431m** / leasing MVA **EUR9.186m** (zwembad/sporthal)
+  - **OCMW AFM -EUR0.606m NEG** / budget -0.608m / equity NEG -1.591m dual residual + Najaarszon litigation FOI
+- Dual: WV Najaarszon already mined (tick1116) - not TE-additive; GE+OCMW dual residual now closed for full BBC layer
+- Note: Oosterzele / Nijlen login / Bornem JR2024 only / De Panne OCR / Schelle GE+OCMW / AGB Galmaarden residual next; progress@1150 in 3
+- Wrote: budgets +23 (bud_brakel_*); commitments +7; leaderboard +8; sources +1; city_brakel notes; FOI **gap_brakel_ocmw_neg_najaarszon_l5** prio9 ready + draft; PDF primary (not committed ~34MB); rq_1147=done; spawn **rq_1148**; ticks=1147
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1148** residual dual L5; deferred **rq_116**; progress@1150 in 3
+

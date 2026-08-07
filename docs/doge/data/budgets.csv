@@ -30231,3 +30231,26 @@ bud_puurs_agb_budget_result_2025,agb_puurs_sint_amands,2025,68663,,,bbc_jr_reali
 bud_puurs_agb_bbr_2025,agb_puurs_sint_amands,2025,145763,,,bbc_jr_realized,src_puurs_agb_jr2025_av,strong,AGB BBR 0.146m; tick1146
 bud_puurs_agb_cum_budget_prior_2025,agb_puurs_sint_amands,2025,77100,,,bbc_jr_realized,src_puurs_agb_jr2025_av,strong,AGB cum budget prior 0.077m; tick1146
 bud_puurs_agb_pl_2025,agb_puurs_sint_amands,2025,514720,,,bbc_jr_realized,src_puurs_agb_jr2025_av,strong,AGB overschot P&L +0.515m; tick1146
+bud_brakel_assets_2025,city_brakel,2025,85310160,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,Balanstotaal YE2025 85.310m (was 86.159m); tick1147
+bud_brakel_equity_2025,city_brakel,2025,53574114,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,Nettoactief 53.574m (was 54.394m); tick1147
+bud_brakel_cash_2025,city_brakel,2025,3550303,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,Cash 3.550m DROP (was 4.708m); tick1147
+bud_brakel_fin_debt_2025,city_brakel,2025,18667809,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,Fin debt total T4 18.668m (LT 16.697 + ST due 1.971); DECLINE from 20.397m; tick1147
+bud_brakel_fin_debt_real_net_2025,city_brakel,2025,14246212,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,Real debt net of pool loans receivable 14.246m (~942 EUR/inw); tick1147
+bud_brakel_afm_2025,city_brakel,2025,2327724,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,AFM +2.328m (GE +2.934 OCMW -0.606); tick1147
+bud_brakel_gecorr_afm_2025,city_brakel,2025,2807056,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,Gecorr AFM +2.807m; tick1147
+bud_brakel_budget_result_2025,city_brakel,2025,-107800,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,Budget -0.108m (GE +0.501 OCMW -0.608); tick1147
+bud_brakel_bbr_2025,city_brakel,2025,6150786,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,BBR 6.151m after unavailable 0.187m; tick1147
+bud_brakel_cum_budget_2025,city_brakel,2025,6337452,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,Cum budget result 6.337m; tick1147
+bud_brakel_pl_2025,city_brakel,2025,-891752,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,P&L tekort -0.892m (was +0.836m); tick1147
+bud_brakel_expl_ont_2025,city_brakel,2025,23100872,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,Exploitatie ontvangsten 23.101m; tick1147
+bud_brakel_expl_uit_2025,city_brakel,2025,18993053,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,Exploitatie uitgaven 18.993m; tick1147
+bud_brakel_fiscal_2025,city_brakel,2025,12004011,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,Fiscale opbrengsten en boetes 12.004m (was 10.989m); tick1147
+bud_brakel_personnel_2025,city_brakel,2025,9884092,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,Bezoldigingen sociale lasten pensioenen 9.884m JUMP (was 8.847m); tick1147
+bud_brakel_werkingssub_granted_2025,city_brakel,2025,3413786,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,Toegestane werkingssubsidies 3.414m JUMP (was 2.349m) FOI residual L5; tick1147
+bud_brakel_invest_2025,city_brakel,2025,2545449,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,Investeringen 2.545m; tick1147
+bud_brakel_interest_2025,city_brakel,2025,430692,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,Intresten op leningen 0.431m; tick1147
+bud_brakel_pension_prov_2025,city_brakel,2025,9334341,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,Pensioenvoorzieningen 9.334m JUMP (was 7.601m) FOI residual; tick1147
+bud_brakel_leasing_mva_2025,city_brakel,2025,9186494,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,Leasing MVA 9.186m (zwembad/sporthal path); tick1147
+bud_brakel_ocmw_afm_neg_2025,city_brakel,2025,-605819,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,OCMW AFM -0.606m NEG dual residual; tick1147
+bud_brakel_ocmw_equity_neg_2025,city_brakel,2025,-1591090,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,OCMW nettoactief NEG -1.591m FOI residual; tick1147
+bud_brakel_new_loans_2025,city_brakel,2025,381838,,,bbc_jr_realized,src_brakel_jr2025_bbc,strong,Nieuwe leningen 0.382m 2025; tick1147
