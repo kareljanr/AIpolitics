@@ -15627,3 +15627,21 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1134** residual dual L5; deferred **rq_116**; progress@1140 in 6
 
+
+### Tick 1134 - 2026-08-12T08:30:00Z
+
+- Unit: **rq_1134** (FOI-adjacent residual dual - **AGB Rotselaar Jaarrekening 2025** Entity II after city)
+- Found (strong primary BBC JR2025 AGB 74p text; rotselaar.be; KBO **0865.782.903**; NIS **24094**; Provinciebaan 20 3110; AD An Craninckx FD Hendrik Natens Voorzitter Patrick Vervoort):
+  - Assets **EUR13.851m** / equity **EUR0.674m** / debt total **EUR13.177m** / fin debt **EUR12.479m DECLINE** (LT **EUR11.811m** / ST due **EUR0.668m**)
+  - **Leasing MVA EUR5.398m MASSIVE FOI** / cash **EUR0.243m JUMP** (was **EUR0.136m**)
+  - New loans **andere entiteiten/city EUR0.179m** (=invest FOI) / repayments **EUR0.667m** / **bank interest EUR0 FOI**
+  - Exploitatie: ontvangsten **EUR1.832m** / uitgaven **EUR1.176m** / saldo **+EUR0.656m STRONG**
+  - **AFM -EUR0.011m NEG FOI** / **gecorr AFM -EUR0.382m DEEP NEG FOI** / BBR **EUR0.008m thin** / budget **-EUR0.011m**
+  - P&L **+EUR0.190m** / **dividend EUR0.150m FOI** / goederen **EUR0.986m** / personeel **EUR0** / prijssub **EUR0.027m**
+  - Invest **EUR0.179m** vs MJP **EUR0.216m** mild underspend
+- Dual: city Rotselaar already mined - not TE-additive; AGB dual residual now closed
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere full JR / Brakel GE+OCMW / Puurs / AGB Galmaarden / AGB Bocholt residual next; progress@1140 in 5
+- Wrote: budgets +30 (bud_agr_*); commitments +6; leaderboard +10; sources +1; entity agb_rotselaar; FOI **gap_agr_afm_neg_leasing_dividend_city_loans_l5** prio9 ready + draft; PDF primary (not committed ~7MB); rq_1134=done; spawn **rq_1135**; ticks=1134
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1135** residual dual L5; deferred **rq_116**; progress@1140 in 5
+

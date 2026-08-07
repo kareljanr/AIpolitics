@@ -29924,3 +29924,33 @@ bud_agt_andere_opbr_2025,agb_turnhout,2025,354351,,,jaarrekening_realized,src_tu
 bud_agt_goederen_2025,agb_turnhout,2025,116137,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Goederen en diensten 0.116m; tick1133
 bud_agt_personeel_2025,agb_turnhout,2025,82642,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Bezoldigingen 0.083m; tick1133
 bud_agt_interest_2025,agb_turnhout,2025,26679,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Financiele kosten 0.027m; tick1133
+bud_agr_assets_2025,agb_rotselaar,2025,13851327,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Total assets YE2025 13.851m; tick1134
+bud_agr_equity_2025,agb_rotselaar,2025,674362,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Nettoactief YE2025 0.674m; tick1134
+bud_agr_debt_total_2025,agb_rotselaar,2025,13176965,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Total schulden YE2025 13.177m; tick1134
+bud_agr_fin_debt_2025,agb_rotselaar,2025,12479072,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Financiele schulden total YE2025 12.479m (LT 11.811 + ST due 0.668); tick1134
+bud_agr_fin_debt_lt_2025,agb_rotselaar,2025,11811379,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Fin schulden LT YE2025 11.811m; tick1134
+bud_agr_fin_debt_st_due_2025,agb_rotselaar,2025,667693,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.668m; tick1134
+bud_agr_cash_2025,agb_rotselaar,2025,243267,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Liquide middelen YE2025 0.243m JUMP (was 0.136m); tick1134
+bud_agr_cap_subs_2025,agb_rotselaar,2025,92218,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Kapitaalsubsidies YE2025 0.092m; tick1134
+bud_agr_mva_2025,agb_rotselaar,2025,13180541,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Materiele vaste activa YE2025 13.181m; tick1134
+bud_agr_leasing_mva_2025,agb_rotselaar,2025,5397971,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Leasing MVA gemeenschapsgoederen 5.398m MASSIVE FOI; tick1134
+bud_agr_expl_rec_2025,agb_rotselaar,2025,1831720,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Exploitatieontvangsten 1.832m; tick1134
+bud_agr_expl_exp_2025,agb_rotselaar,2025,1176100,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Exploitatieuitgaven 1.176m; tick1134
+bud_agr_expl_saldo_2025,agb_rotselaar,2025,655620,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Exploitatiesaldo +0.656m STRONG; tick1134
+bud_agr_invest_2025,agb_rotselaar,2025,178898,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Investeringsuitgaven 0.179m; tick1134
+bud_agr_invest_mjp_2025,agb_rotselaar,2025,215742,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,MJP invest 0.216m; tick1134
+bud_agr_invest_underspend_2025,agb_rotselaar,2025,36844,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Invest underspend ~0.037m; tick1134
+bud_agr_afm_2025,agb_rotselaar,2025,-11033,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,AFM -0.011m NEG FOI; tick1134
+bud_agr_afm_gecorr_2025,agb_rotselaar,2025,-381726,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Gecorr AFM -0.382m DEEP NEG FOI; tick1134
+bud_agr_bbr_2025,agb_rotselaar,2025,7583,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,BBR 0.008m thin FOI; tick1134
+bud_agr_budget_result_2025,agb_rotselaar,2025,-11033,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Budgettair resultaat -0.011m NEG; tick1134
+bud_agr_pl_2025,agb_rotselaar,2025,189603,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,P&L overschot +0.190m; tick1134
+bud_agr_dividend_2025,agb_rotselaar,2025,150000,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Rechthebbenden/dividend 0.150m of P&L 0.190m FOI; tick1134
+bud_agr_new_loans_city_2025,agb_rotselaar,2025,178898,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Nieuwe leningen andere entiteiten (city) 0.179m =invest FOI; tick1134
+bud_agr_repay_2025,agb_rotselaar,2025,666653,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Periodieke aflossingen 0.667m; tick1134
+bud_agr_interest_bank_2025,agb_rotselaar,2025,0,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Rente aan financiele instellingen 0 FOI; tick1134
+bud_agr_fin_costs_2025,agb_rotselaar,2025,20109,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Financiele uitgaven 0.020m; tick1134
+bud_agr_omzet_2025,agb_rotselaar,2025,1826194,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Ontvangsten uit werking T2 ~1.827m; tick1134
+bud_agr_goederen_2025,agb_rotselaar,2025,986065,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Goederen en diensten T2 0.986m; tick1134
+bud_agr_prijssub_2025,agb_rotselaar,2025,27496,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Prijssubsidie gemeente kengetallen 0.027m FOI; tick1134
+bud_agr_personeel_2025,agb_rotselaar,2025,0,,,jaarrekening_realized,src_rotselaar_agb_jr2025,strong,Bezoldigingen 0 (shell AGB); tick1134
