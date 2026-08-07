@@ -16210,3 +16210,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1166** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1166 - 2026-08-08T00:30:00Z
+
+- Unit: **rq_1166** (FOI-adjacent residual dual - **AGB Bree Jaarrekening 2025** Entity II sport/culture De Weeg after city GE)
+- Found (strong primary BBC 37p; KBO **0871.439.585**; Witte Torenwal 23; Voorzitter Sietse Wils Secr Stefan Goclon FD Sven Meermans; RVB 18.06.2026):
+  - Assets **EUR18.304m JUMP** / equity **EUR5.216m** / cash **EUR1.075m DROP** (was 1.921)
+  - Fin debt T4 **EUR10.776m JUMP** (LT 10.190 / ST due **0.586m**); **city renteloos new EUR2.000m**; repay **0.599m** (bank 0.343 + city 0.256)
+  - MVA buildings **EUR13.127m JUMP** / invest **EUR4.076m** (De Weeg bouw **3.660m**; oplevering ~2027)
+  - BBR **EUR0.666m** / **AFM EUR-0.009m NEG** / **gecorr AFM EUR-0.160m NEG** / budget **-EUR2.085m NEG**
+  - Expl **EUR1.778m / 1.188m** saldo **+EUR0.590m** / **prijssub sporthal EUR0.732m** / PnL **+EUR0.209m** dividend **0.042m**
+  - ST non-ruil recv **EUR1.805m JUMP**; Cordeel force-majeure letter noted; Sport VL/AGION dossiers
+- Dual: city Bree GE already mined tick1093 (AGB AFM NEG flagged) - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen / Bornem JR2024 / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Genk / AGB Steenokkerzeel residual next
+- Wrote: budgets +35 (bud_agbbree_*); commitments +6; leaderboard +8; sources +1; entity agb_bree; FOI **gap_agb_bree_afm_neg_city_loan_2m_de_weeg_invest_l5** prio9 ready + draft; PDF primary (not committed ~7.8MB); rq_1166=done; spawn **rq_1167**; ticks=1166
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1167** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T00:00:00Z,rq_1165,1165,no,tick1165 AGB Begijnendijk dual residual AFM NEG prijssub 0.057m plant off-BS; next rq_1166 residual dual L5; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T00:30:00Z,rq_1166,1166,no,tick1166 AGB Bree dual residual AFM NEG city renteloos 2.0m De Weeg invest 4.08m debt 10.78m; next rq_1167 residual dual L5; rq_116 deferred; continuous hole_fill

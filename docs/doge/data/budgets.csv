@@ -30768,3 +30768,38 @@ bud_agbbeg_afm_gecorr_2025,agb_begijnendijk,2025,-970,,,BBC JR2025 primary,src_a
 bud_agbbeg_pnl_2025,agb_begijnendijk,2025,3399,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,P&L +0.003m; tick1165
 bud_agbbeg_dividend_2025,agb_begijnendijk,2025,850,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Dividend to city 0.001m (partial of PnL); tick1165
 bud_agbbeg_interest_2025,agb_begijnendijk,2025,124,,,BBC JR2025 primary,src_agb_begijnendijk_jr2025,strong,Financiele kosten 0.0001m; tick1165
+bud_agbbree_assets_2025,agb_bree,2025,18304188,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Assets balanstotaal YE2025 18.304m JUMP from 14.948m; tick1166
+bud_agbbree_equity_2025,agb_bree,2025,5216490,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Nettoactief YE2025 5.216m; tick1166
+bud_agbbree_cum_pnl_2025,agb_bree,2025,2282595,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Gecumuleerd overschot YE2025 2.283m; tick1166
+bud_agbbree_cap_subs_2025,agb_bree,2025,109223,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Kapitaalssubsidies YE2025 0.109m; tick1166
+bud_agbbree_overig_netto_2025,agb_bree,2025,2824672,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Overig nettoactief YE2025 2.825m; tick1166
+bud_agbbree_debt_total_2025,agb_bree,2025,13087698,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Schulden total YE2025 13.088m; tick1166
+bud_agbbree_fin_debt_2025,agb_bree,2025,10776460,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Fin schulden T4 total YE2025 10.776m (LT 10.190 + ST due 0.586); tick1166
+bud_agbbree_fin_debt_lt_2025,agb_bree,2025,10190237,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Fin schulden LT YE2025 10.190m; tick1166
+bud_agbbree_fin_debt_st_due_2025,agb_bree,2025,586223,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Fin schulden LT vervallend YE2025 0.586m; tick1166
+bud_agbbree_cash_2025,agb_bree,2025,1075030,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Liquide middelen YE2025 1.075m DROP from 1.921m; tick1166
+bud_agbbree_mva_2025,agb_bree,2025,13314044,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,MVA bedrijfsmatig YE2025 13.314m; tick1166
+bud_agbbree_mva_buildings_2025,agb_bree,2025,13126734,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,MVA terreinen/gebouwen YE2025 13.127m JUMP De Weeg; tick1166
+bud_agbbree_immva_2025,agb_bree,2025,1803602,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Immateriele VA YE2025 1.804m (plans/studies); tick1166
+bud_agbbree_st_nonruil_recv_2025,agb_bree,2025,1804996,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,ST vorderingen niet-ruil YE2025 1.805m JUMP FOI; tick1166
+bud_agbbree_inventory_2025,agb_bree,2025,214338,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Voorraden YE2025 0.214m; tick1166
+bud_agbbree_expl_rec_2025,agb_bree,2025,1777872,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Exploitatieontvangsten 1.778m; tick1166
+bud_agbbree_expl_exp_2025,agb_bree,2025,1188146,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Exploitatieuitgaven 1.188m; tick1166
+bud_agbbree_expl_saldo_2025,agb_bree,2025,589726,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Exploitatiesaldo +0.590m; tick1166
+bud_agbbree_prijssub_sporthal_2025,agb_bree,2025,731585,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Prijssubsidie sporthal toegangsgelden 0.732m; tick1166
+bud_agbbree_invest_exp_2025,agb_bree,2025,4076379,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Investeringsuitgaven 4.076m (De Weeg 3.660m); tick1166
+bud_agbbree_invest_de_weeg_2025,agb_bree,2025,3660091,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,De Weeg bouw sporthal/zwembad 3.660m; tick1166
+bud_agbbree_invest_saldo_2025,agb_bree,2025,-4076379,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Investeringssaldo -4.076m; tick1166
+bud_agbbree_fin_rec_2025,agb_bree,2025,2000000,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Financieringsontvangsten city renteloze lening 2.000m; tick1166
+bud_agbbree_fin_exp_2025,agb_bree,2025,598524,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Aflossingen 0.599m (bank 0.343 + city 0.256); tick1166
+bud_agbbree_fin_saldo_2025,agb_bree,2025,1401476,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Financieringssaldo +1.401m; tick1166
+bud_agbbree_new_loans_city_2025,agb_bree,2025,2000000,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Nieuwe renteloze lening stad 2.000m; tick1166
+bud_agbbree_aflossingen_2025,agb_bree,2025,598524,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Aflossingen T4 0.599m; tick1166
+bud_agbbree_budget_result_2025,agb_bree,2025,-2085178,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Budgettair resultaat boekjaar -2.085m NEG; tick1166
+bud_agbbree_bbr_2025,agb_bree,2025,665974,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,BBR 0.666m; tick1166
+bud_agbbree_afm_2025,agb_bree,2025,-8798,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,AFM -0.009m NEG; tick1166
+bud_agbbree_afm_gecorr_2025,agb_bree,2025,-160273,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Gecorr AFM -0.160m NEG CRITICAL (aangewezen 0.750m); tick1166
+bud_agbbree_pnl_2025,agb_bree,2025,209190,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,P&L +0.209m; tick1166
+bud_agbbree_dividend_2025,agb_bree,2025,41838,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Dividend to city 0.042m (partial of PnL); tick1166
+bud_agbbree_interest_2025,agb_bree,2025,118231,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Financiele kosten 0.118m (bank 0.064 + other entities 0.054); tick1166
+bud_agbbree_depr_2025,agb_bree,2025,353384,,,BBC JR2025 primary,src_agb_bree_jr2025,strong,Afschrijvingen 0.353m; tick1166
