@@ -30447,3 +30447,27 @@ bud_agbsc_dividend_2025,agb_schilde,2025,130000,,,BBC JR2025 primary,src_agb_sch
 bud_agbsc_interest_2025,agb_schilde,2025,65633,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Rente 0.066m 2025; tick1154
 bud_agbsc_loan_repay_2025,agb_schilde,2025,330158,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Periodieke aflossingen 0.330m 2025; tick1154
 bud_agbsc_new_loans_2025,agb_schilde,2025,0,,,BBC JR2025 primary,src_agb_schilde_jr2025,strong,Nieuwe leningen 0 2025; tick1154
+bud_agbz_expl_ont_2025,agb_zoersel,2025,229254,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Exploitatieontvangsten 0.229m 2025; tick1155
+bud_agbz_expl_uit_2025,agb_zoersel,2025,205713,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Exploitatieuitgaven 0.206m 2025; tick1155
+bud_agbz_invest_uit_2025,agb_zoersel,2025,82299,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Investeringsuitgaven 0.082m 2025 (bib Sint-Antonius); tick1155
+bud_agbz_invest_saldo_2025,agb_zoersel,2025,-82299,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Investeringssaldo -0.082m 2025; tick1155
+bud_agbz_fin_saldo_2025,agb_zoersel,2025,57358,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Financieringssaldo +0.057m 2025; tick1155
+bud_agbz_budget_2025,agb_zoersel,2025,-1401,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Budgettair resultaat -0.001m 2025 NEG thin; tick1155
+bud_agbz_cum_budget_2025,agb_zoersel,2025,21884,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Gecumuleerd/BBR YE2025 0.022m THIN; tick1155
+bud_agbz_afm_gecorr_2025,agb_zoersel,2025,-140898,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Gecorrigeerde AFM -0.141m NEG CRITICAL; tick1155
+bud_agbz_pnl_2025,agb_zoersel,2025,7806,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,PnL overschot +0.008m 2025; tick1155
+bud_agbz_dividend_2025,agb_zoersel,2025,7806,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Full dividend/winstuitkering to city 0.008m 2025; tick1155
+bud_agbz_loan_repay_2025,agb_zoersel,2025,24941,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Periodieke aflossingen 0.025m 2025; tick1155
+bud_agbzoersel_assets_2025,agb_zoersel,2025,2266777,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Assets balanstotaal YE2025 2.267m; tick1155
+bud_agbzoersel_equity_2025,agb_zoersel,2025,30000,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Nettoactief YE2025 0.030m THIN CRITICAL; tick1155
+bud_agbzoersel_debt_total_2025,agb_zoersel,2025,2236777,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Schulden total YE2025 2.237m; tick1155
+bud_agbzoersel_fin_debt_2025,agb_zoersel,2025,2112841,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Fin schulden total YE2025 2.113m T4; tick1155
+bud_agbzoersel_fin_debt_lt_2025,agb_zoersel,2025,2087900,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Fin schulden LT YE2025 2.088m; tick1155
+bud_agbzoersel_fin_debt_st_due_2025,agb_zoersel,2025,24941,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Fin schulden LT binnen jaar YE2025 0.025m; tick1155
+bud_agbzoersel_cash_2025,agb_zoersel,2025,5296,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Liquide middelen YE2025 0.005m CRITICAL; tick1155
+bud_agbzoersel_mva_2025,agb_zoersel,2025,2109385,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,MVA YE2025 2.109m; tick1155
+bud_agbzoersel_leasing_mva_2025,agb_zoersel,2025,2016676,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Leasing MVA YE2025 2.017m shell-heavy; tick1155
+bud_agbzoersel_expl_saldo_2025,agb_zoersel,2025,23540,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Exploitatiesaldo +0.024m 2025; tick1155
+bud_agbzoersel_bbr_2025,agb_zoersel,2025,21884,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,BBR YE2025 0.022m THIN; tick1155
+bud_agbzoersel_afm_2025,agb_zoersel,2025,-1401,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,AFM -0.001m NEG 2025; tick1155
+bud_agbzoersel_new_loans_2025,agb_zoersel,2025,82299,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Nieuwe city loan 0.082m 2025 bib Sint-Antonius; tick1155

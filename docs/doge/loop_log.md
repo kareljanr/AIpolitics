@@ -16025,3 +16025,18 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1155** residual dual L5; deferred **rq_116**
 
+### Tick 1155 - 2026-08-07T19:00:00Z
+
+- Unit: **rq_1155** (FOI-adjacent residual dual - **AGB Zoersel Jaarrekening 2025** Entity II library/culture after city GE)
+- Found (strong primary BBC 66p; KBO **0687.958.543**; Handelslei 167 2980; AD Kristof Janssens FD Liesbet Okkerse):
+  - Assets **EUR2.267m** / equity **EUR0.030m THIN CRITICAL** (~1.3pct) / cash **EUR0.005m CRITICAL DROP**
+  - Fin debt T4 **EUR2.113m** (LT 2.088 / ST due **0.025m**); leasing MVA **EUR2.017m** shell; new city loan **EUR0.082m** (= bib Sint-Antonius invest); repay **EUR0.025m**
+  - AFM **-EUR0.001m NEG** / **gecorr AFM -EUR0.141m NEG CRITICAL** / BBR **EUR0.022m THIN** / budget **-EUR0.001m**
+  - Expl **EUR0.229m / 0.206m** saldo **+EUR0.024m** / invest **-EUR0.082m** / fin saldo **+EUR0.057m**
+  - PnL **+EUR0.008m** / **full dividend EUR0.008m** to city
+- Dual: city Zoersel GE already mined - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen login / Bornem JR2024 / Schelle GE+OCMW / Lievegem / Roeselare / Wommelgem / AGB Stabroek residual next
+- Wrote: budgets +24 (bud_agbz_*); commitments +5; leaderboard +8; sources +1; entity agb_zoersel; FOI **gap_agb_zoersel_equity_thin_cash_critical_gecorr_afm_neg_l5** prio9 ready + draft; PDF primary (not committed ~0.95MB); rq_1155=done; spawn **rq_1156**; ticks=1155
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1156** residual dual L5; deferred **rq_116**
+
