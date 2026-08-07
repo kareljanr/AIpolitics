@@ -16414,3 +16414,17 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1178** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1178 - 2026-08-08T06:30:00Z
+
+- Unit: **rq_1178** (FOI-adjacent residual dual - **AGB Patrimonium Scherpenheuvel-Zichem JR2025** Entity II after city GE)
+- Found (strong dual primary; full AGB BBC PDF **not public** beyond RVB extract):
+  - **RVB 30.03.2026** (Voorzitter Kris Peetermans Secr Bruno Claes): BBR **EUR1.144m**; NBB winst **EUR0.851m**; dividend **EUR0.200m**; wording claimed AFM +47.592
+  - **City consol J2 AGB lines (prefer sign):** BBR **1.144m** / **AFM EUR-0.048m NEG** / **gecorr AFM EUR-0.005m NEG**
+  - **City dual flows:** prijssubsidie **EUR0.486m** (+BTW lek); city loan to AGB **EUR0.153m UNDER** vs MJP 1.440m; recovery **EUR0.293m**; leasing shell **EUR0.859m** nuloperatie
+- Dual: city SZ GE mined tick1038 (AGB AFM NEG already flagged) - dual residual partial fill; full balance/debt FOI
+- Note: Brasschaat 403 / Middelkerke JR2024 only / Oosterzele / Nijlen / Bornem JR2024 / Schelle GE / AGB Stabroek residual next
+- Wrote: budgets +9 (bud_agbsz_* sourced only); commitments +6; leaderboard +8; sources +1; entity agb_scherpenheuvel_zichem; FOI **gap_agb_sz_afm_neg_full_bbc_debt_prijssub_leasing_l5** prio9 ready + draft; rq_1178=done; spawn **rq_1179**; ticks=1178
+- FOI: ready only - **do not send**; full BBC PDF gap
+- Next: prio5 **rq_1179** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local

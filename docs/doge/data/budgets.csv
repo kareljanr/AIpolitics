@@ -31150,3 +31150,12 @@ bud_agbwil_dividend_2025,agb_willebroek,2025,1000,,,BBC JR2025 primary,src_agb_w
 bud_agbwil_interest_2025,agb_willebroek,2025,55,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Financiele kosten J5 0.0001m thin; tick1177
 bud_agbwil_depr_2025,agb_willebroek,2025,526448,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Afschrijvingen 0.526m; tick1177
 bud_agbwil_mjp_debt_2026,agb_willebroek,2025,19954170,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,MJP fin debt YE2026 path 19.954m; tick1177
+bud_agbsz_bbr_2025,agb_scherpenheuvel_zichem,2025,1143679,,,BBC JR2025 dual primary,src_agb_sz_patrimonium_jr2025,strong,Beschikbaar BBR YE2025 1.144m (RVB extract + city consol J2); tick1178
+bud_agbsz_afm_2025,agb_scherpenheuvel_zichem,2025,-47592,,,BBC JR2025 dual primary,src_agb_sz_patrimonium_jr2025,strong,AFM -0.048m NEG (city consol J2 AGB line; RVB extract wording said positive 47.592); tick1178
+bud_agbsz_afm_gecorr_2025,agb_scherpenheuvel_zichem,2025,-5255,,,BBC JR2025 dual primary,src_agb_sz_patrimonium_jr2025,strong,Gecorr AFM -0.005m NEG (city consol J2 AGB line); tick1178
+bud_agbsz_pnl_nbb_2025,agb_scherpenheuvel_zichem,2025,851259,,,BBC JR2025 dual primary,src_agb_sz_patrimonium_jr2025,strong,NBB te bestemmen winst 0.851m (RVB extract); tick1178
+bud_agbsz_dividend_2025,agb_scherpenheuvel_zichem,2025,200000,,,BBC JR2025 dual primary,src_agb_sz_patrimonium_jr2025,strong,Dividend to city 0.200m (RVB extract + city fin receipt); tick1178
+bud_agbsz_prijssub_city_2025,agb_scherpenheuvel_zichem,2025,485866,,,BBC JR2025 dual primary,src_agb_sz_patrimonium_jr2025,strong,Prijssubsidie van stad 0.486m (city T2 dual); tick1178
+bud_agbsz_city_loan_new_2025,agb_scherpenheuvel_zichem,2025,153364,,,BBC JR2025 dual primary,src_agb_sz_patrimonium_jr2025,strong,City toegestane lening to AGB 0.153m UNDER vs MJP 1.440m; tick1178
+bud_agbsz_city_loan_recover_2025,agb_scherpenheuvel_zichem,2025,292643,,,BBC JR2025 dual primary,src_agb_sz_patrimonium_jr2025,strong,City periodieke terugvordering van AGB 0.293m; tick1178
+bud_agbsz_leasing_fee_shell_2025,agb_scherpenheuvel_zichem,2025,859070,,,BBC JR2025 dual primary,src_agb_sz_patrimonium_jr2025,strong,Leasingvergoedingen via AGB 0.859m (nuloperatie city dual BTW); tick1178
