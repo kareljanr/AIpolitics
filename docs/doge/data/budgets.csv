@@ -32642,3 +32642,29 @@ bud_agbknr_prijssub_stegel_2025,agb_kinrooi,2025,72780,,,bbc_jr_realized,src_agb
 bud_agbknr_prijssub_sport_2025,agb_kinrooi,2025,162322,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Prijssubsidies sporthallen actual 0.162m (AR707); tick1230
 bud_agbknr_prijssub_2025,agb_kinrooi,2025,235102,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Prijssubsidies total actual ~0.235m (Stegel+sport); city toelage dual 0.260m; tick1230
 bud_agbknr_omzet_werking_2025,agb_kinrooi,2025,560969,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Opbrengsten uit de werking 0.561m; tick1230
+bud_agbwet_assets_2025,agb_wetteren,2025,13532144,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,J4 balanstotaal 13.532m DROP vs 14.708m; tick1231
+bud_agbwet_equity_2025,agb_wetteren,2025,3069801,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,J4 nettoactief 3.070m DROP; tick1231
+bud_agbwet_cash_2025,agb_wetteren,2025,352450,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Liquide middelen 0.352m JUMP thin; tick1231
+bud_agbwet_st_recv_2025,agb_wetteren,2025,1177964,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,ST vorderingen 1.178m (non-ruil 0.997m); tick1231
+bud_agbwet_mva_2025,agb_wetteren,2025,11923820,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,MVA 11.924m; tick1231
+bud_agbwet_fin_debt_lt_2025,agb_wetteren,2025,9119577,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Fin debt LT 9.120m; tick1231
+bud_agbwet_fin_debt_st_due_2025,agb_wetteren,2025,850068,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Fin debt ST due 0.850m; tick1231
+bud_agbwet_fin_debt_2025,agb_wetteren,2025,9969645,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Fin debt total 9.970m (LT+ST due); tick1231
+bud_agbwet_expl_ont_2025,agb_wetteren,2025,2234432,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Exploitatieontvangsten 2.234m; tick1231
+bud_agbwet_expl_uit_2025,agb_wetteren,2025,1596095,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Exploitatieuitgaven 1.596m; tick1231
+bud_agbwet_expl_saldo_2025,agb_wetteren,2025,638337,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Exploitatiesaldo +0.638m; tick1231
+bud_agbwet_invest_uit_2025,agb_wetteren,2025,157806,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Investeringsuitgaven 0.158m (=new city renteloos); tick1231
+bud_agbwet_fin_uit_amort_2025,agb_wetteren,2025,840243,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Periodieke aflossingen 0.840m HEAVY; tick1231
+bud_agbwet_fin_ont_new_loan_2025,agb_wetteren,2025,157806,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Nieuwe renteloze city loan 0.158m; tick1231
+bud_agbwet_budget_result_2025,agb_wetteren,2025,-201906,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Budgettair resultaat -0.202m NEG; tick1231
+bud_agbwet_bbr_2025,agb_wetteren,2025,1152196,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,BBR 1.152m; tick1231
+bud_agbwet_afm_2025,agb_wetteren,2025,-201906,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,AFM -0.202m NEG (amort > expl surplus); tick1231
+bud_agbwet_afm_gecorr_2025,agb_wetteren,2025,-213830,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Gecorr AFM -0.214m DEEP NEG; tick1231
+bud_agbwet_pnl_2025,agb_wetteren,2025,-153958,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,PnL -0.154m NEG carried forward (no div); tick1231
+bud_agbwet_prijssub_2025,agb_wetteren,2025,1418154,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Prijssubsidie gemeente 1.418m (~63pct expl receipts); tick1231
+bud_agbwet_interest_2025,agb_wetteren,2025,114064,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Intresten leningen 0.114m; tick1231
+bud_agbwet_depr_2025,agb_wetteren,2025,749440,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Afschrijvingen 0.749m; tick1231
+bud_agbwet_goederen_2025,agb_wetteren,2025,1405435,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Goederen en diensten 1.405m; tick1231
+bud_agbwet_cum_surplus_2025,agb_wetteren,2025,126150,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Gecumuleerd overschot 0.126m DROP from 0.280m; tick1231
+bud_agbwet_overig_netto_2025,agb_wetteren,2025,2801086,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Overig nettoactief 2.801m (= city FVA dual bud_wet_fva_eva); tick1231
+bud_agbwet_st_due_next_2025,agb_wetteren,2025,850738,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Aflossingen te betalen volgend jaar 0.851m; tick1231

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T21:40:00Z,rq_1230,1230,no,tick1230 AGB Kinrooi dual residual cum loss -2.00m PnL -0.07m prijssub 0.24m fin debt 0 city-takeover FOI ready; next rq_1231 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-07T22:00:00Z,rq_1231,1231,no,tick1231 AGB Wetteren dual residual AFM -0.20m debt 9.97m prijssub 1.42m PnL -0.15m FOI ready; next rq_1232 residual dual L5 VL; continuous hole_fill
