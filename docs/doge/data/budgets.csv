@@ -32048,3 +32048,41 @@ bud_agbtb_pnl_retained_2025,agb_tongeren_borgloon,2025,50585,,,BBC documentation
 bud_agbtb_musea_rec_2025,agb_tongeren_borgloon,2025,719946,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,Doc charts musea ontvangsten 0.720m (94pct); tick1208
 bud_agbtb_musea_exp_2025,agb_tongeren_borgloon,2025,376206,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,Doc charts musea uitgaven 0.376m (82pct opex); tick1208
 bud_agbtb_erfpacht_offbal_2025,agb_tongeren_borgloon,2025,136000,,,BBC documentation primary,src_agb_tongeren_borgloon_jr2025,strong,TB off-balance erfpacht residual 0.136m; tick1208
+bud_agbh_assets_2025,agb_heist_op_den_berg,2025,33531048,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Total assets YE2025 33.531m; tick1209
+bud_agbh_equity_2025,agb_heist_op_den_berg,2025,8805935,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Nettoactief YE2025 8.806m; tick1209
+bud_agbh_debt_total_2025,agb_heist_op_den_berg,2025,24725113,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Total schulden YE2025 24.725m; tick1209
+bud_agbh_fin_debt_2025,agb_heist_op_den_berg,2025,21416469,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Fin debt total YE2025 21.416m (LT 20.111 + ST due 1.306); tick1209
+bud_agbh_fin_debt_lt_2025,agb_heist_op_den_berg,2025,20110944,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Fin schulden LT YE2025 20.111m city-path renteloos; tick1209
+bud_agbh_fin_debt_st_due_2025,agb_heist_op_den_berg,2025,1305525,,,bbc_jr_realized,src_agb_heist_jr2025,strong,LT due within year YE2025 1.306m; tick1209
+bud_agbh_cash_2025,agb_heist_op_den_berg,2025,2108794,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Liquide middelen YE2025 2.109m; tick1209
+bud_agbh_st_recv_2025,agb_heist_op_den_berg,2025,7424484,,,bbc_jr_realized,src_agb_heist_jr2025,strong,ST vorderingen YE2025 7.424m (non-ruil 7.203m MASSIVE FOI); tick1209
+bud_agbh_st_recv_nonruil_2025,agb_heist_op_den_berg,2025,7202512,,,bbc_jr_realized,src_agb_heist_jr2025,strong,ST non-ruil recv 7.203m FOI composition; tick1209
+bud_agbh_lt_recv_2025,agb_heist_op_den_berg,2025,2791035,,,bbc_jr_realized,src_agb_heist_jr2025,strong,LT non-ruil vorderingen 2.791m; tick1209
+bud_agbh_mva_2025,agb_heist_op_den_berg,2025,20956043,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Materiele vaste activa YE2025 20.956m; tick1209
+bud_agbh_leasing_mva_2025,agb_heist_op_den_berg,2025,4801452,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Leasing/soortgelijke MVA 4.801m (DBFM Sporthal class); tick1209
+bud_agbh_buildings_2025,agb_heist_op_den_berg,2025,15485330,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Terreinen en gebouwen gemeenschapsgoederen 15.485m; tick1209
+bud_agbh_cap_subs_2025,agb_heist_op_den_berg,2025,1566453,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Kapitaalsubsidies YE2025 1.566m; tick1209
+bud_agbh_cum_pl_2025,agb_heist_op_den_berg,2025,2954440,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Gecumuleerd overschot 2.954m; tick1209
+bud_agbh_expl_rec_2025,agb_heist_op_den_berg,2025,4602079,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Exploitatieontvangsten 4.602m; tick1209
+bud_agbh_expl_exp_2025,agb_heist_op_den_berg,2025,3314065,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Exploitatieuitgaven 3.314m; tick1209
+bud_agbh_expl_saldo_2025,agb_heist_op_den_berg,2025,1288014,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Exploitatiesaldo +1.288m; tick1209
+bud_agbh_invest_exp_2025,agb_heist_op_den_berg,2025,430621,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Investeringsuitgaven 0.431m (vs MJP 4.722m underspend MASSIVE); tick1209
+bud_agbh_invest_rec_2025,agb_heist_op_den_berg,2025,171756,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Investeringsontvangsten 0.172m (VL subsidies); tick1209
+bud_agbh_invest_saldo_2025,agb_heist_op_den_berg,2025,-258865,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Investeringssaldo -0.259m; tick1209
+bud_agbh_fin_exp_repay_2025,agb_heist_op_den_berg,2025,1291798,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Financieringsuitgaven/aflossingen 1.292m; tick1209
+bud_agbh_fin_rec_new_loans_2025,agb_heist_op_den_berg,2025,430621,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Nieuwe leningen/leasings 0.431m = invest lock city renteloos; tick1209
+bud_agbh_budget_result_2025,agb_heist_op_den_berg,2025,167972,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Budgettair resultaat boekjaar +0.168m; tick1209
+bud_agbh_bbr_2025,agb_heist_op_den_berg,2025,8065579,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Beschikbaar budgettair resultaat BBR 8.066m; tick1209
+bud_agbh_afm_2025,agb_heist_op_den_berg,2025,-3784,,,bbc_jr_realized,src_agb_heist_jr2025,strong,AFM -0.004m NEG thin; tick1209
+bud_agbh_gecorr_afm_2025,agb_heist_op_den_berg,2025,-494198,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Gecorrigeerde AFM -0.494m NEG DEEP FOI; tick1209
+bud_agbh_omzet_2025,agb_heist_op_den_berg,2025,4213761,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Opbrengsten uit de werking 4.214m; tick1209
+bud_agbh_werksub_2025,agb_heist_op_den_berg,2025,106706,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Specifieke werkingssubsidies 0.107m; tick1209
+bud_agbh_goods_services_2025,agb_heist_op_den_berg,2025,2617904,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Goederen en diensten 2.618m; tick1209
+bud_agbh_depr_2025,agb_heist_op_den_berg,2025,1491427,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Afschrijvingen 1.491m; tick1209
+bud_agbh_fin_costs_2025,agb_heist_op_den_berg,2025,353944,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Financiele kosten 0.354m despite renteloze city loans FOI; tick1209
+bud_agbh_pnl_2025,agb_heist_op_den_berg,2025,19599,,,bbc_jr_realized,src_agb_heist_jr2025,strong,PnL boekjaar +0.020m; tick1209
+bud_agbh_div_2025,agb_heist_op_den_berg,2025,250000,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Rechthebbenden/dividend city 0.250m > PnL FOI; tick1209
+bud_agbh_retained_2025,agb_heist_op_den_berg,2025,-230401,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Over te dragen overschot -0.230m after full div; tick1209
+bud_agbh_ops_result_2025,agb_heist_op_den_berg,2025,170097,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Operationeel resultaat +0.170m; tick1209
+bud_agbh_fin_result_2025,agb_heist_op_den_berg,2025,-150498,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Financieel resultaat -0.150m; tick1209
+bud_agbh_invest_underspend_2025,agb_heist_op_den_berg,2025,4291714,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Invest underspend ~4.292m vs MJP 4.722m (De Lichten + CC); tick1209

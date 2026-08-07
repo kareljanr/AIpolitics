@@ -16920,3 +16920,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +28; commitments +6; leaderboard +7; sources +1; entity agb_tongeren_borgloon; FOI **gap_agb_tb_city_debt_10_3m_musea_shell_div_0_01m_full_bbc_l5** prio8 ready + draft; rq_1208=done; spawn **rq_1209**; ticks=1208
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_1209** residual dual L5 VL; deferred **rq_116**
+
+
+### Tick 1209 - 2026-08-08T22:00:00Z
+
+- Unit: **rq_1209** (FOI-adjacent residual dual - **AGB Heist-op-den-Berg JR2025** Entity II sport/culture/cursus after city GE tick857)
+- Found (strong primary full BBC Beleidsrapport 167p; KBO **0888.322.238**; Kerkplein 17; AD Hans Welters FD Kim Ceulemans):
+  - Assets **EUR33.531m** / equity **EUR8.806m** / cash **EUR2.109m** / MVA **EUR20.956m** (leasing **4.801m**)
+  - Fin debt **EUR21.416m** ALL city renteloos path (LT 20.111 + ST due 1.306); new **0.431m** = invest; repay **1.292m**
+  - Expl **EUR4.602m / 3.314m** saldo **+1.288m** / BBR **8.066m** / AFM **EUR-0.004m NEG** / gecorr AFM **EUR-0.494m NEG DEEP**
+  - PnL **EUR+0.020m** / div city **EUR0.250m** > profit / retained **EUR-0.230m** / fin costs **EUR0.354m** despite 0% claim
+  - ST non-ruil recv **EUR7.203m** / invest underspend **~4.3m** (De Lichten + CC) vs MJP 4.722m
+- Dual: city Heist GE already mined - AGB dual residual closed for full BBC layer
+- Wrote: budgets +38; commitments +7; leaderboard +7; sources +1; entity agb_heist_op_den_berg; FOI **gap_agb_heist_city_loan_21_4m_gecorr_afm_neg_0_49m_div_0_25m_l5** prio9 ready + draft; rq_1209=done; spawn **rq_1210**; ticks=1209
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1210** residual dual L5 VL; deferred **rq_116**
