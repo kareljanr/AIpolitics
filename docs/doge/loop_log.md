@@ -15812,3 +15812,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets bud_aghp_*; entity agb_herentals_pat; FOI **gap_aghp_cash_drop_capital_reduce_lease_recv_l5** prio9 ready + draft; rq_1142=done; spawn **rq_1143**; ticks=1142
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1143** residual dual L5; deferred **rq_116**; progress@1150 in 8
+
+### Tick 1143 - 2026-08-12T13:00:00Z
+
+- Unit: **rq_1143** (FOI-adjacent residual dual - **Zorgbedrijf Klein-Brabant Jaarrekening 2025** Entity II Puurs-Sint-Amands)
+- Found (strong primary AV vaststelling 29.06.2026 uittreksel 3p; echo portal; OCMW vereniging Titel VIII ch1 akte 13.10.2016; Voorzitter Sophie Van Praet Directeur Tatiana Geerinck):
+  - Assets **EUR2.658m** (balanstotaal)
+  - AFM **-EUR0.014m NEG** / budget result year **-EUR0.014m** / BBR **EUR0.003m THIN**
+  - Cum budget prior **EUR0.017m**
+  - **P&L -EUR0.612m MASSIVE** (~23pct of assets) vs AFM -14k FOI recon
+- Dual: Puurs-Sint-Amands GE+OCMW full JR residual optional; full BBC PDF not public this tick
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere full JR (docatie only) / Brakel GE+OCMW / AGB Galmaarden residual next; progress@1150 in 7
+- Wrote: budgets +6 (bud_zkkb_*); commitments +5; leaderboard +6; sources +1; entities city_puurs_sint_amands + zorg_klein_brabant; FOI **gap_zkkb_pl_neg_afm_neg_bbr_thin_l5** prio9 ready + draft; PDF extract primary (not committed); rq_1143=done; spawn **rq_1144**; ticks=1143
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1144** residual dual L5; deferred **rq_116**; progress@1150 in 7
+

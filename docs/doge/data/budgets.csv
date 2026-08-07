@@ -30169,3 +30169,9 @@ bud_aghp_goederen_2025,agb_herentals_pat,2025,4928,,,jaarrekening_realized,src_h
 bud_aghp_overig_netto_2025,agb_herentals_pat,2025,1309284,,,jaarrekening_realized,src_herentals_agb_pat_jr2025,strong,Overig nettoactief 1.309m (was 1.465m capital reduce); tick1142
 bud_aghp_cum_surplus_2025,agb_herentals_pat,2025,503555,,,jaarrekening_realized,src_herentals_agb_pat_jr2025,strong,Gecumuleerd overschot 0.504m; tick1142
 bud_aghp_fin_saldo_2025,agb_herentals_pat,2025,-14155,,,jaarrekening_realized,src_herentals_agb_pat_jr2025,strong,Financieringssaldo -0.014m (cap reduce 0.156 - recover 0.142); tick1142
+bud_zkkb_assets_2025,zorg_klein_brabant,2025,2657693,,,bbc_jr_realized,src_zkkb_jr2025_av,strong,Balanstotaal YE2025 2.658m AV vaststelling; tick1143
+bud_zkkb_afm_2025,zorg_klein_brabant,2025,-14297,,,bbc_jr_realized,src_zkkb_jr2025_av,strong,AFM -0.014m NEG FOI (equals budget result year); tick1143
+bud_zkkb_budget_result_2025,zorg_klein_brabant,2025,-14297,,,bbc_jr_realized,src_zkkb_jr2025_av,strong,Budgettair resultaat boekjaar -0.014m; tick1143
+bud_zkkb_bbr_2025,zorg_klein_brabant,2025,2847,,,bbc_jr_realized,src_zkkb_jr2025_av,strong,Beschikbaar budgettair resultaat 0.003m THIN FOI; tick1143
+bud_zkkb_cum_budget_prior_2025,zorg_klein_brabant,2025,17145,,,bbc_jr_realized,src_zkkb_jr2025_av,strong,Gecumuleerd budgettair resultaat vorig BJ 0.017m; tick1143
+bud_zkkb_pl_2025,zorg_klein_brabant,2025,-612022,,,bbc_jr_realized,src_zkkb_jr2025_av,strong,Tekort boekjaar P&L -0.612m MASSIVE FOI (~23pct of assets); tick1143 HIGH
