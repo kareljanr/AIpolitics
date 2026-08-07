@@ -32748,3 +32748,10 @@ bud_agbasn_staff_2025,agb_assenede,2025,0,,,bbc_jr_realized,src_agb_assenede_jr2
 bud_agbasn_goederen_2025,agb_assenede,2025,292522,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Goederen en diensten 0.293m; tick1234
 bud_agbasn_depr_2025,agb_assenede,2025,215314,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Afschrijvingen 0.215m; tick1234
 bud_agbasn_debt_ratio_2025,agb_assenede,2025,97,,,bbc_jr_realized,src_agb_assenede_jr2025,strong,Debt ~97pct of assets (8.21/8.47m) shell; tick1234
+bud_agbkap_sock_verhuur_2025,agb_kaprijke,2025,27265,,,bbc_jr_risk_note,src_agb_kaprijke_jr2025_scan,strong,SOCK zaalverhuur ontvangsten 0.027m (risk note); tick1235
+bud_agbkap_sock_drank_2025,agb_kaprijke,2025,34072,,,bbc_jr_risk_note,src_agb_kaprijke_jr2025_scan,strong,SOCK drankverkoop 0.034m (risk note); tick1235
+bud_agbkap_st_recv_2025,agb_kaprijke,2025,126017,,,bbc_jr_risk_note,src_agb_kaprijke_jr2025_scan,strong,ST operationele vorderingen YE2025 0.126m (debiteuren note); tick1235
+bud_agbkap_prijssub_recv_open_2025,agb_kaprijke,2025,88453,,,bbc_jr_risk_note,src_agb_kaprijke_jr2025_scan,strong,Open prijssubsidie vordering op gemeente YE2025 0.088m (part of ST recv); tick1235
+bud_agbkap_lembeke_erfpacht_lease_yr,agb_kaprijke,2025,13528,,,bbc_jr_risk_note,src_agb_kaprijke_jr2025_scan,medium,Sportaccommodatie Lembeke operational lease ~0.014m/yr (stated vs 0.038m depr path); tick1235
+bud_agbkap_staff_2025,agb_kaprijke,2025,0,,,bbc_jr_risk_note,src_agb_kaprijke_jr2025_scan,strong,Zero own staff (city personnel); tick1235
+bud_agbkap_city_prijssub_dual_2025,agb_kaprijke,2025,181017,,,city_bbc_jr_realized,src_agb_kaprijke_jr2025_scan,strong,City dual toelage/prijssub AGB 0.181m (city GE tick1106); full AGB year FOI; tick1235

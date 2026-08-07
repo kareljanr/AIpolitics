@@ -17195,3 +17195,10 @@ Append-only. Each tick adds a short entry.
 - EUR strong: assets **8.470m**; fin debt **8.213m** (~97% assets); leasing MVA **5.217m**; equity **0.007m THIN**; full div **0.018m**; AFM **−0.013m** NEG; gecorr AFM **−0.456m** DEEP NEG; prijssub **0.328m**; cash thin **0.044m**; city new loans dual exact **0.210m**.
 - CSVs: sources/entities/budgets+26/commitments+7/leaderboard+7 + FOI ready `gap_agb_asn_afm_neg_0_01m_gecorr_0_46m_debt_8_21m_equity_thin_full_div_prijssub_0_33m_l5` (not sent); rq_1234=done; spawn rq_1235.
 - Next: rq_1235 residual dual L5 VL JR2025 hole_fill.
+
+### Tick 1235 — 2026-08-07 — rq_1235 AGB Kaprijke dual residual (scan FOI)
+- Unit: AGB Kaprijke JR2025 Entity II after city GE tick1106; public PDF **42MB scan** (J-tables 0 text) → FOI.
+- EUR strong partial: city dual prijssub **0.181m**; SOCK verhuur **0.027m** · drank **0.034m**; ST recv **0.126m** (open prijssub city **0.088m**); staff **0**; Lembeke lease ~**0.014m/yr** medium.
+- Mechanism notes: 99y city loan vs 35y amort; BTW construct risk SOCK/Lembeke.
+- CSVs: sources/entities/budgets+7/commitments+5/leaderboard+4 + FOI ready `gap_agb_kap_jr2025_scan_prijssub_0_18m_sock_99y_loan_lembeke_erfpacht_l5` (not sent); rq_1235=done; spawn rq_1236.
+- Next: rq_1236 residual dual L5 VL JR2025 hole_fill.
