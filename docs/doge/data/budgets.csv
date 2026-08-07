@@ -31925,3 +31925,37 @@ bud_agblil_mva_prior_2025,agb_lille,2025,3262339,,,BBC kengetallen+NBB vereffeni
 bud_agblil_city_loan_prior_2025,agb_lille,2025,3528291,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,Trial balance city loans prior YE2024 ~3.528m LT path before early repay; tick1204
 bud_agblil_prijssub_2025,agb_lille,2025,0,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,Kengetallen prijssubsidie blank=0 wind-down year; tick1204
 bud_agblil_staff_2025,agb_lille,2025,0,,,BBC kengetallen+NBB vereffening primary,src_agb_lille_jr2025,strong,NBB no personnel VTE; zero staff residual; tick1204
+bud_agbhim_assets_2025,agb_him_hamme,2025,14264380,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB balanstotaal 14.264m DROP from 15.474m; tick1205
+bud_agbhim_equity_2025,agb_him_hamme,2025,2934357,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB eigen vermogen 2.934m; tick1205
+bud_agbhim_capital_2025,agb_him_hamme,2025,495787,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB inbreng onbeschikbaar 0.496m; tick1205
+bud_agbhim_reserves_2025,agb_him_hamme,2025,244586,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB statutaire reserves 0.245m; tick1205
+bud_agbhim_retained_2025,agb_him_hamme,2025,2014992,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB overgedragen winst stock 2.015m; tick1205
+bud_agbhim_cap_subs_2025,agb_him_hamme,2025,178992,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB kapitaalsubsidies 0.179m; tick1205
+bud_agbhim_mva_2025,agb_him_hamme,2025,11746931,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB MVA 11.747m (buildings 11.736m); tick1205
+bud_agbhim_fva_2025,agb_him_hamme,2025,6650,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB FVA 0.007m; tick1205
+bud_agbhim_cash_2025,agb_him_hamme,2025,659679,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB liquide middelen 0.660m DROP from 2.558m; tick1205
+bud_agbhim_investments_2025,agb_him_hamme,2025,950000,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB geldbeleggingen 0.950m JUMP from 0; tick1205
+bud_agbhim_st_recv_2025,agb_him_hamme,2025,888723,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB ST vorderingen 0.889m; tick1205
+bud_agbhim_debt_total_2025,agb_him_hamme,2025,11270359,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB schulden total 11.270m; tick1205
+bud_agbhim_fin_debt_lt_2025,agb_him_hamme,2025,10013543,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB fin debt LT 10.014m (bank/leasing 1.353 + other/city 8.661); tick1205
+bud_agbhim_fin_debt_bank_leasing_2025,agb_him_hamme,2025,1352732,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB kredietinstellingen/leasing LT 1.353m; tick1205
+bud_agbhim_fin_debt_other_city_2025,agb_him_hamme,2025,8660811,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB overige leningen LT 8.661m (city-path residual FOI); tick1205
+bud_agbhim_fin_debt_st_due_2025,agb_him_hamme,2025,489304,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB ST due within year 0.489m; tick1205
+bud_agbhim_fin_debt_st_other_2025,agb_him_hamme,2025,7556,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB ST other loans 0.008m; tick1205
+bud_agbhim_fin_debt_2025,agb_him_hamme,2025,10510403,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB fin debt total LT+ST due+ST other ~10.510m; tick1205
+bud_agbhim_trade_payables_2025,agb_him_hamme,2025,678206,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB leveranciers 0.678m; tick1205
+bud_agbhim_new_loans_2025,agb_him_hamme,2025,0,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB jaarverslag geen nieuwe leningen 2025; tick1205
+bud_agbhim_invest_2025,agb_him_hamme,2025,33726,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB invest aanschaffingen 0.034m low; tick1205
+bud_agbhim_omzet_2025,agb_him_hamme,2025,845881,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB omzet 0.846m DROP -25pct from 1.127m; tick1205
+bud_agbhim_other_ops_rev_2025,agb_him_hamme,2025,130050,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB andere bedrijfsopbrengsten 0.130m; tick1205
+bud_agbhim_goederen_2025,agb_him_hamme,2025,491131,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB handelsgoederen/diensten 0.491m; tick1205
+bud_agbhim_depr_2025,agb_him_hamme,2025,411465,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB afschrijvingen 0.411m; tick1205
+bud_agbhim_ops_result_2025,agb_him_hamme,2025,55741,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB bedrijfsresultaat 0.056m (vs 2.409m prior with non-recurrent 2.077m); tick1205
+bud_agbhim_interest_2025,agb_him_hamme,2025,19927,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB financiele kosten 0.020m DROP from 0.074m; tick1205
+bud_agbhim_fin_income_2025,agb_him_hamme,2025,21710,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB financiele opbrengsten 0.022m; tick1205
+bud_agbhim_pnl_2025,agb_him_hamme,2025,63814,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB winst na belastingen 0.064m; tick1205
+bud_agbhim_div_city_2025,agb_him_hamme,2025,57432,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB vergoeding inbreng/dividend city 0.057m; tick1205
+bud_agbhim_reserve_10pct_2025,agb_him_hamme,2025,6381,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB toevoeging overige reserves 10pct 0.006m; tick1205
+bud_agbhim_staff_2025,agb_him_hamme,2025,0,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB no personnel VTE line zero staff on AGB books; tick1205
+bud_agbhim_gov_guaranteed_debt_2025,agb_him_hamme,2025,1210000,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB door BE overheden gewaarborgde bank debt 1.210m; tick1205
+bud_agbhim_nonrecurrent_prior_2024,agb_him_hamme,2025,2076916,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB 2024 non-recurrent ops income 2.077m (base effect; not 2025); tick1205

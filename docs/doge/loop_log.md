@@ -16861,3 +16861,18 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1205** residual dual L5 VL; deferred **rq_116**
 
+
+### Tick 1205 - 2026-08-08T20:00:00Z
+
+- Unit: **rq_1205** (FOI-adjacent residual dual - **AGB HIM Hamme / Hamse investeringsmaatschappij JR2025** Entity II after city GE)
+- Found (strong primary NBB jaarverslag+JR; KBO **0265.753.274**; Gemeenteplein 1; Voorzitter Guy Bogaert; RVB 21.05.2026):
+  - Assets **EUR14.264m DROP** / equity **EUR2.934m** / MVA **EUR11.747m**
+  - Fin debt **~EUR10.510m** (LT **10.014** = bank/leasing **1.353** + other/city **8.661**; ST due **0.489**); **no new loans 2025**
+  - Cash **EUR0.660m DROP** from 2.558 / beleggingen **EUR0.950m JUMP** / gov guarantee bank **EUR1.210m**
+  - Omzet **EUR0.846m** (−25%) / ops **EUR0.056m** / PnL **EUR0.064m** / div capital remun city **EUR0.057m**
+  - Staff **0** / invest only **EUR0.034m** / prior 2024 non-recurrent **EUR2.077m** base effect
+- Dual: city Hamme GE already mined - AGB investment dual residual (NBB strong; BBC AFM FOI)
+- Wrote: budgets +34; commitments +6; leaderboard +7; sources +1; entity agb_him_hamme; FOI **gap_agb_him_fin_debt_10_5m_city_loan_8_66m_div_0_06m_cash_drop_bbc_l5** prio8 ready + draft; rq_1205=done; spawn **rq_1206**; ticks=1205
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1206** residual dual L5 VL; deferred **rq_116**
+
