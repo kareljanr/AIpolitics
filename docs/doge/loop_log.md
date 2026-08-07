@@ -16084,3 +16084,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1159** residual dual L5; deferred **rq_116**
 
+
+### Tick 1159 - 2026-08-07T21:00:00Z
+
+- Unit: **rq_1159** (FOI-adjacent residual dual - **AGB Veurne Jaarrekening 2025** Entity II stadsontwikkeling/sport after city GE)
+- Found (strong primary BBC 60p + RVB 18.05.2026; KBO **0883.140.953**; Sint-Denisplaats 16 8630; AD Joke Jonckheere FD Kris Degraeve; Voorzitter Ben Peperstraete):
+  - Assets **EUR14.034m** / equity **EUR9.525m** (cum P&L **NEG -9.285m DEEP**) / cash **EUR0.035m THIN**
+  - MVA **EUR11.444m** (gebouwen 11.072m) / fin debt T4 **EUR4.489m** (new 0.360 / amort **0.487m JUMP**)
+  - BBR **EUR1.279m** / AFM **+EUR0.080m** / **gecorr AFM EUR-0.289m NEG CRITICAL** / budget **+EUR0.021m**
+  - Expl **EUR0.488m / 0.408m** saldo **+EUR0.080m** (retributies JUMP; no werkingssub) / invest **EUR0.001m vs MJP 0.679m underspend**
+  - PnL **-EUR0.468m** / **BTW sporthal dispute 1.150m + 0.115m boeten + 0.184m intresten** appeal / new BTW PV **0.044m+10pct**
+  - Prefin city loan capitalised residual ~4.489m (hist city loans 19.4m@2018 risk note)
+- Dual: city Veurne GE already mined tick846 - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen login / Bornem JR2024 / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Genk residual next
+- Wrote: budgets +33 (bud_agbveurne_*); commitments +7; leaderboard +8; sources +1; entity agb_veurne; FOI **gap_agb_veurne_btw_sporthal_gecorr_afm_neg_prefin_l5** prio9 ready + draft; PDF primary (not committed ~7.1MB); rq_1159=done; spawn **rq_1160**; ticks=1159
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1160** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise (AGENTS.md/README/raw deletes) - continued on local

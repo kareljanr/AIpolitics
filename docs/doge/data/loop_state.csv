@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T20:30:00Z,rq_1158,1158,no,tick1158 AGB Lommel Pat equity NEG / gecorr AFM DEEP NEG dual residual; next rq_1159 residual dual L5; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-07T21:00:00Z,rq_1159,1159,no,tick1159 AGB Veurne dual residual BTW sporthal 1.15m+ gecorr AFM NEG prefin 4.49m; next rq_1160 residual dual L5; rq_116 deferred; continuous hole_fill

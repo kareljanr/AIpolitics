@@ -30549,3 +30549,36 @@ bud_agblommelp_afm_gecorr_2025,agb_lommel_patrimonium,2025,-459942,,,BBC JR2025 
 bud_agblommelp_pnl_2025,agb_lommel_patrimonium,2025,10927,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,PnL overschot +0.011m 2025; tick1158
 bud_agblommelp_interest_2025,agb_lommel_patrimonium,2025,1470,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Financiele kosten/rente 0.001m 2025; tick1158
 bud_agblommelp_city_subsidy_2025,agb_lommel_patrimonium,2025,20000,,,BBC JR2025 primary,src_agb_lommel_patrimonium_jr2025,strong,Algemene werkingssubsidie stad 0.020m 2025; tick1158
+bud_agbveurne_assets_2025,agb_veurne,2025,14033664,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Assets balanstotaal YE2025 14.034m; tick1159
+bud_agbveurne_equity_2025,agb_veurne,2025,9524636,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Nettoactief YE2025 9.525m (overig 18.704m + capsub 0.105m + cum P&L NEG -9.285m); tick1159
+bud_agbveurne_cum_pnl_neg_2025,agb_veurne,2025,-9284891,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Gecumuleerd tekort YE2025 -9.285m DEEP (P&L -0.468m); tick1159
+bud_agbveurne_debt_total_2025,agb_veurne,2025,4509028,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Schulden total YE2025 4.509m; tick1159
+bud_agbveurne_fin_debt_2025,agb_veurne,2025,4488526,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Fin schulden T4 YE2025 4.489m LT only (declining); tick1159
+bud_agbveurne_fin_debt_lt_2025,agb_veurne,2025,4488526,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Fin schulden LT YE2025 4.489m (city prefin capitalised); tick1159
+bud_agbveurne_cash_2025,agb_veurne,2025,35489,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Liquide middelen YE2025 0.035m THIN; tick1159
+bud_agbveurne_mva_2025,agb_veurne,2025,11444409,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,MVA gemeenschapsgoederen YE2025 11.444m (gebouwen 11.072m); tick1159
+bud_agbveurne_mva_buildings_2025,agb_veurne,2025,11071968,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,MVA terreinen en gebouwen YE2025 11.072m (sporthal shell); tick1159
+bud_agbveurne_st_nonruil_recv_2025,agb_veurne,2025,1254751,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,ST vorderingen niet-ruil YE2025 1.255m FOI; tick1159
+bud_agbveurne_lt_ruil_recv_2025,agb_veurne,2025,1228041,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,LT vorderingen ruil YE2025 1.228m FOI; tick1159
+bud_agbveurne_cap_subs_2025,agb_veurne,2025,105211,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Kapitaalssubsidies YE2025 0.105m; tick1159
+bud_agbveurne_overig_netto_2025,agb_veurne,2025,18704316,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Overig nettoactief YE2025 18.704m (inbreng/capital shell); tick1159
+bud_agbveurne_expl_rec_2025,agb_veurne,2025,488164,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Exploitatieontvangsten 0.488m (retributies JUMP 0.488m); tick1159
+bud_agbveurne_expl_exp_2025,agb_veurne,2025,408290,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Exploitatieuitgaven 0.408m; tick1159
+bud_agbveurne_expl_saldo_2025,agb_veurne,2025,79875,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Exploitatiesaldo +0.080m; tick1159
+bud_agbveurne_invest_exp_2025,agb_veurne,2025,1119,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Investeringsuitgaven 0.001m MASSIVE underspend vs MJP 0.679m; tick1159
+bud_agbveurne_invest_rec_2025,agb_veurne,2025,9179,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Investeringsontvangsten 0.009m; tick1159
+bud_agbveurne_invest_saldo_2025,agb_veurne,2025,8060,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Investeringssaldo +0.008m; tick1159
+bud_agbveurne_fin_rec_2025,agb_veurne,2025,420395,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Financieringsontvangsten 0.420m (new loans 0.360m); tick1159
+bud_agbveurne_fin_exp_2025,agb_veurne,2025,487210,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Financieringsuitgaven/aflossingen 0.487m; tick1159
+bud_agbveurne_fin_saldo_2025,agb_veurne,2025,-66815,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Financieringssaldo -0.067m; tick1159
+bud_agbveurne_new_loans_2025,agb_veurne,2025,360000,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Nieuwe leningen T4 0.360m; tick1159
+bud_agbveurne_aflossingen_2025,agb_veurne,2025,487210,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Aflossingen T4 0.487m (vs prior 0.060m/yr jump); tick1159
+bud_agbveurne_budget_result_2025,agb_veurne,2025,21119,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Budgettair resultaat boekjaar +0.021m; tick1159
+bud_agbveurne_bbr_2025,agb_veurne,2025,1279186,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,BBR 1.279m; tick1159
+bud_agbveurne_afm_2025,agb_veurne,2025,79875,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,AFM +0.080m; tick1159
+bud_agbveurne_afm_gecorr_2025,agb_veurne,2025,-289384,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Gecorr AFM -0.289m NEG CRITICAL (aangewezen afl 0.369m); tick1159
+bud_agbveurne_pnl_2025,agb_veurne,2025,-468292,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,P&L boekjaar -0.468m; tick1159
+bud_agbveurne_interest_2025,agb_veurne,2025,16736,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Financiele kosten 0.017m; tick1159
+bud_agbveurne_depr_2025,agb_veurne,2025,557732,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,Afschrijvingen/voorzieningen 0.558m; tick1159
+bud_agbveurne_btw_sporthal_claim_2025,agb_veurne,2025,1150092,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,BTW sporthal dispute principal 1.150m FOI (excl 0.115m boeten + 0.184m intresten); tick1159
+bud_agbveurne_btw_new_claim_2025,agb_veurne,2025,43870,,,BBC JR2025 primary,src_agb_veurne_jr2025,strong,BTW navordering PV 03.11.2025 0.044m + 10pct boete FOI; tick1159
