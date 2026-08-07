@@ -29834,3 +29834,32 @@ bud_holar_interest_city_2025,agb_holar,2025,92901,,,jaarrekening_realized,src_ho
 bud_holar_new_loans_city_2025,agb_holar,2025,61177,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Nieuwe lening van gemeente 0.061m FOI; tick1130
 bud_holar_repay_city_2025,agb_holar,2025,566618,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Aflossingen aan gemeente 0.567m FOI; tick1130
 bud_holar_loan_recoveries_2025,agb_holar,2025,230000,,,jaarrekening_realized,src_hoeilaart_agb_holar_jr2025,strong,Terugvordering toegestane leningen 0.230m FOI; tick1130
+bud_ago_assets_2025,agb_oostkamp,2025,11874814,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Total assets YE2025 11.875m; tick1131
+bud_ago_equity_2025,agb_oostkamp,2025,4880677,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Nettoactief YE2025 4.881m; tick1131
+bud_ago_debt_total_2025,agb_oostkamp,2025,6994137,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Total schulden YE2025 6.994m; tick1131
+bud_ago_fin_debt_2025,agb_oostkamp,2025,6660082,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Financiele schulden total YE2025 6.660m (LT 5.985 + ST due 0.675); tick1131
+bud_ago_fin_debt_lt_2025,agb_oostkamp,2025,5984678,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Fin schulden LT YE2025 5.985m; tick1131
+bud_ago_fin_debt_st_due_2025,agb_oostkamp,2025,675405,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.675m; tick1131
+bud_ago_cash_2025,agb_oostkamp,2025,872835,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Liquide middelen YE2025 0.873m (was 0.795m); tick1131
+bud_ago_cap_subs_2025,agb_oostkamp,2025,1772727,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Kapitaalsubsidies YE2025 1.773m; tick1131
+bud_ago_mva_2025,agb_oostkamp,2025,10562218,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Materiele vaste activa YE2025 10.562m; tick1131
+bud_ago_expl_rec_2025,agb_oostkamp,2025,1649017,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Exploitatieontvangsten 1.649m; tick1131
+bud_ago_expl_exp_2025,agb_oostkamp,2025,989563,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Exploitatieuitgaven 0.990m; tick1131
+bud_ago_expl_saldo_2025,agb_oostkamp,2025,659454,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Exploitatiesaldo +0.659m; tick1131
+bud_ago_invest_2025,agb_oostkamp,2025,473240,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Investeringsuitgaven 0.473m; tick1131
+bud_ago_invest_mjp_2025,agb_oostkamp,2025,519380,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,MJP invest krediet 0.519m; tick1131
+bud_ago_invest_underspend_2025,agb_oostkamp,2025,46140,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Invest underspend ~0.046m; tick1131
+bud_ago_afm_2025,agb_oostkamp,2025,-7935,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,AFM -0.008m NEG FOI (MJP was +0.134m); tick1131
+bud_ago_afm_gecorr_2025,agb_oostkamp,2025,111115,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Gecorrigeerde AFM +0.111m; tick1131
+bud_ago_bbr_2025,agb_oostkamp,2025,985004,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,BBR 0.985m; tick1131
+bud_ago_budget_result_2025,agb_oostkamp,2025,-7935,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Budgettair resultaat -0.008m NEG; tick1131
+bud_ago_pl_2025,agb_oostkamp,2025,12078,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,P&L overschot +0.012m; tick1131
+bud_ago_pl_ops_neg_2025,agb_oostkamp,2025,-65316,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Operationeel P&L -0.065m NEG covered by fin income; tick1131
+bud_ago_dividend_2025,agb_oostkamp,2025,25000,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Rechthebbenden/dividend 0.025m > P&L 0.012m FOI; tick1131
+bud_ago_omzet_2025,agb_oostkamp,2025,1632899,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Ontvangsten uit werking 1.633m; tick1131
+bud_ago_goederen_2025,agb_oostkamp,2025,717108,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Goederen en diensten 0.717m; tick1131
+bud_ago_personeel_2025,agb_oostkamp,2025,243895,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Bezoldigingen 0.244m; tick1131
+bud_ago_interest_2025,agb_oostkamp,2025,0,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Financiele kosten/interest 0 on 6.66m debt FOI; tick1131
+bud_ago_new_loans_2025,agb_oostkamp,2025,473240,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Nieuwe leningen 0.473m (=invest) FOI; tick1131
+bud_ago_repay_2025,agb_oostkamp,2025,667389,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Periodieke aflossingen 0.667m; tick1131
+bud_ago_fin_opbrengsten_2025,agb_oostkamp,2025,77394,,,jaarrekening_realized,src_oostkamp_agb_jr2025,strong,Financiele opbrengsten J5 0.077m; tick1131

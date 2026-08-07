@@ -15570,3 +15570,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1131** residual dual L5; deferred **rq_116**; progress@1140 in 9
 
+
+### Tick 1131 - 2026-08-12T07:00:00Z
+
+- Unit: **rq_1131** (FOI-adjacent residual dual - **AGB Oostkamp / AGB-O Jaarrekening 2025** Entity II after city)
+- Found (strong primary BBC JR2025 AGB 161p text; oostkamp.be detail/4031; KBO **0894.294.369**; Siemenslaan 1 8020; Secr Jan Compernol Voorzitter Nel Thieren; RvB 21 mei 2026):
+  - Assets **EUR11.875m** (was **EUR12.098m**) / equity **EUR4.881m** / debt total **EUR6.994m** / fin debt **EUR6.660m DECLINE** (LT **EUR5.985m** / ST due **EUR0.675m**; was **EUR6.854m**)
+  - New loans **EUR0.473m** (=invest FOI) / repayments **EUR0.667m**
+  - Cash **EUR0.873m** / cap-subs **EUR1.773m** / MVA **EUR10.562m**
+  - Exploitatie: ontvangsten **EUR1.649m** (MJP **EUR1.901m** under) / uitgaven **EUR0.990m** / saldo **+EUR0.659m**
+  - **AFM -EUR0.008m NEG FOI** (MJP was **+EUR0.134m**) / gecorr AFM **+EUR0.111m** / BBR **EUR0.985m** / budget **-EUR0.008m NEG**
+  - P&L **+EUR0.012m** / ops P&L **-EUR0.065m** / fin income **EUR0.077m** / **dividend EUR0.025m > P&L FOI**
+  - Omzet **EUR1.633m** / goederen **EUR0.717m** / personeel **EUR0.244m** / **interest EUR0 on 6.66m debt FOI**
+  - Invest **EUR0.473m** near MJP **EUR0.519m**
+- Dual: city Oostkamp already mined - not TE-additive; AGB dual residual now closed
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere full JR / Brakel GE+OCMW / Puurs / AGB Galmaarden / AGB Boom Plus residual next; progress@1140 in 8
+- Wrote: budgets +29 (bud_ago_*); commitments +6; leaderboard +10; sources +1; entity agb_oostkamp; FOI **gap_ago_afm_neg_dividend_gt_profit_zero_interest_l5** prio9 ready + draft; PDF primary (not committed ~7MB); rq_1131=done; spawn **rq_1132**; ticks=1131
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1132** residual dual L5; deferred **rq_116**; progress@1140 in 8
+
