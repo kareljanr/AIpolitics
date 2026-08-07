@@ -11,6 +11,18 @@ Recurring agent protocol. Goal: **each tick leaves the dataset richer** until **
 - **Tick time budget:** still stop after **one primary unit** (don’t thrash 15 fronts in one fire).  
 - Manual `/doge-loop` anytime is fine and does not wait for the timer.
 
+## Anti-stuck (mandatory)
+
+Agents and sessions hang. Treat that as normal; recover, do not idle.
+
+- **No keep-alive / empty shell loops.** Never `sleep`, poll-wait, or run no-op shell just to “stay alive”.
+- **One unit, then exit.** After CSV+log+commit+push (or honest FOI-block), **stop**. Do not open a second municipality “while you’re here”.
+- **Hard wall ~12–15 min.** If PDF/OCR stalls: FOI-ready the gap, log, commit, exit. Partial primary fill beats a hung agent.
+- **Git thrash:** if `git pull`/`push` conflicts with a concurrent tick, rebase/retry once or leave commit local + log — do not spin.
+- **Huge CSVs:** do **not** load all of `research_queue.csv` into memory. Prefer `loop_state` next id, `rg`/line tools, or Python with raised `csv.field_size_limit` and early stop.
+- **Scheduler drop:** if user says `paused=no` or “continue/retry” and no watcher exists → recreate durable 60s task with `fire_immediately`. Never assume the old task id still lives.
+- **Try again:** a failed tick is not pause. Next fire (or manual `/doge-loop`) picks the same open unit or the next highest open. Only human `paused=yes` / `stop` cancels the watcher.
+
 ## Pause rule (strict)
 
 - **Do not auto-pause** while open `research_queue` public work remains **or** new public fills can still reduce FOI opacity.  
@@ -113,7 +125,8 @@ Do not open 15 fronts in one tick.
 | Write draft letter from template | Publishing unverified fraud claims |
 | Mark `ready` when draft complete | Marking `sent` unless human confirms |
 
-When drafting FOI: use [`foi-template-nl.md`](foi-template-nl.md); save as `foi/drafts/{gap_id}.md`.
+When drafting FOI: use [`foi-template-nl.md`](foi-template-nl.md); save as `foi/drafts/{gap_id}.md`.  
+**Sending, follow-ups, and response intake** are a separate human-gated pipeline: [`foi/SYSTEM.md`](foi/SYSTEM.md) + `scripts/foi_ops.py` + skill `/foi-ops`. Loop ticks still never send.
 
 ## Modes (`loop_state.csv` → `mode`)
 

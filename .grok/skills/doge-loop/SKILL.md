@@ -36,10 +36,12 @@ Work in the AIpolitics repo. Follow `docs/doge/LOOP.md` exactly.
 - **No invented euros.**  
 - **Do not send** FOI emails/letters unless the user explicitly orders send for a `ready` gap.  
 - Do not mark `sent` without human confirmation.  
-- One primary unit per tick; time-box.  
+- Full send/follow-up/response pipeline: `docs/doge/foi/SYSTEM.md` and skill **foi-ops** (not this tick skill).  
+- One primary unit per tick; time-box **~12–15 min hard wall**.  
 - Prefer understatement; tag confidence.  
 - Truth-policy: mechanisms over scapegoats.  
 - Do **not** force-push or rewrite history.  
+- **Anti-stuck:** no empty shell/`sleep` keep-alives; no full-file load of huge `research_queue.csv`; on stall → FOI-ready + commit + exit; failed tick ≠ pause — next fire retries.  
 
 ## Done criteria for this tick
 

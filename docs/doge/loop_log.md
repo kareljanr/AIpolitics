@@ -15906,3 +15906,10 @@ Append-only. Each tick adds a short entry.
 - Watcher cancelled (019fdc8fbbca)
 - ticks_completed=1147; next rq_1148; progress@1150 in 3
 
+
+## 2026-08-07T14:30:12Z — RESUME + anti-stuck compact
+- User: things keep stuck; compact and try again
+- LOOP.md Anti-stuck section + skill hard rules
+- paused=no; durable 60s watcher recreated fire_immediately
+- ticks=1147; next rq_1148; progress@1150 in 3
+

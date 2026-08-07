@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-12T15:30:00Z,rq_1147,1147,yes,STOPPED by user; last tick1147 Brakel GE+OCMW; next rq_1148 residual dual L5; progress@1150 in 3; rq_116 deferred; resume with paused=no
+main,continuous,hole_fill,2026-08-12T15:30:00Z,rq_1147,1147,no,RESUME after stop: anti-stuck compact; next rq_1148 residual dual L5; progress@1150 in 3; rq_116 deferred; continuous hole_fill; try-again on hang
