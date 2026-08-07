@@ -16546,3 +16546,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1186** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1186 - 2026-08-08T10:30:00Z
+
+- Unit: **rq_1186** (FOI-adjacent residual dual - **AGB Vauban Ieper Jaarrekening 2025** Entity II zwembad after city GE)
+- Found (strong primary BBC 77p 29.06.2026; KBO **0877.643.330**; Grote Markt 34; Voorzitter Peter De Groote FD Stefan Deboutte):
+  - Assets **EUR15.253m JUMP** from 11.497 / equity **EUR0.547m THIN** / cash **EUR0.270m DROP** from 0.592
+  - Fin debt T4 **EUR12.461m JUMP** from 8.839 (LT 11.771 / ST due 0.690); **new loans EUR4.316m**; repay **0.695m**
+  - Invest **EUR4.316m** zwembad (DB Artes-VenhoevenCS-B2Ai; UNDER vs MJP 6.844m); ST payables **2.209m JUMP**
+  - BBR **EUR0.189m** / **AFM EUR-0.079m NEG** / gecorr AFM **-0.091m NEG**
+  - Expl **EUR2.940m / 2.324m** saldo **+0.616m** / prijssub **~2.216m** / staff **1.191m** (transfer city 2026)
+  - PnL **+EUR0.093m** / **div EUR0.084m while AFM NEG**; MJP debt path **18.2m** YE2026
+- Dual: city Ieper GE already mined - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: AGB Musea Ieper JR2025 public / Oosterzele / Nijlen residual next
+- Wrote: budgets +33 (bud_agbvaub_*); commitments +6; leaderboard +8; sources +1; entity agb_vauban_ieper; FOI **gap_agb_vauban_debt_jump_12_5m_zwembad_invest_4_3m_afm_neg_div_l5** prio9 ready + draft; PDF primary (not committed ~7.6MB); rq_1186=done; spawn **rq_1187**; ticks=1186
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1187** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local

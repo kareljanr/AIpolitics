@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T10:00:00Z,rq_1185,1185,no,tick1185 AGB Lommel Sport dual residual debt 15.7m AFM NEG div 0.15m asset sale 1.56m FOI; next rq_1186 residual dual L5 Oosterzele/Nijlen; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T10:30:00Z,rq_1186,1186,no,tick1186 AGB Vauban Ieper dual residual debt JUMP 12.5m zwembad invest 4.3m AFM NEG div 0.08m FOI; next rq_1187 residual dual L5 Musea Ieper/Oosterzele; rq_116 deferred; continuous hole_fill

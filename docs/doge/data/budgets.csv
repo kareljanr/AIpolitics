@@ -31374,3 +31374,36 @@ bud_agbloms_dividend_2025,agb_lommel_sport,2025,150000,,,BBC JR2025 primary,src_
 bud_agbloms_meerwaarde_sale_2025,agb_lommel_sport,2025,568579,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Meerwaarden realisatie VA 0.569m; tick1185
 bud_agbloms_minderwaarde_sale_2025,agb_lommel_sport,2025,316239,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Minderwaarden realisatie VA 0.316m; tick1185
 bud_agbloms_depr_2025,agb_lommel_sport,2025,1143809,,,BBC JR2025 primary,src_agb_lommel_sport_jr2025,strong,Afschrijvingen 1.144m; tick1185
+bud_agbvaub_assets_2025,agb_vauban_ieper,2025,15252832,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Assets balanstotaal YE2025 15.253m JUMP from 11.497m; tick1186
+bud_agbvaub_equity_2025,agb_vauban_ieper,2025,546603,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Nettoactief YE2025 0.547m THIN vs debt 12.5m; tick1186
+bud_agbvaub_cum_pnl_2025,agb_vauban_ieper,2025,31820,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Gecumuleerd overschot YE2025 0.032m; tick1186
+bud_agbvaub_other_netto_2025,agb_vauban_ieper,2025,500000,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Overig nettoactief YE2025 0.500m; tick1186
+bud_agbvaub_debt_total_2025,agb_vauban_ieper,2025,14706229,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Schulden total YE2025 14.706m; tick1186
+bud_agbvaub_fin_debt_2025,agb_vauban_ieper,2025,12460823,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Fin schulden T4 total YE2025 12.461m JUMP from 8.839m; tick1186
+bud_agbvaub_fin_debt_lt_2025,agb_vauban_ieper,2025,11771023,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Fin schulden LT YE2025 11.771m; tick1186
+bud_agbvaub_fin_debt_st_due_2025,agb_vauban_ieper,2025,689800,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Fin schulden LT vervallend YE2025 0.690m; tick1186
+bud_agbvaub_cash_2025,agb_vauban_ieper,2025,269536,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Liquide middelen YE2025 0.270m DROP from 0.592m; tick1186
+bud_agbvaub_mva_2025,agb_vauban_ieper,2025,12810006,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,MVA YE2025 12.810m JUMP; tick1186
+bud_agbvaub_mva_buildings_2025,agb_vauban_ieper,2025,12213508,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,MVA terreinen/gebouwen YE2025 12.214m JUMP (zwembad); tick1186
+bud_agbvaub_st_nonruil_recv_2025,agb_vauban_ieper,2025,2096335,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,ST vorderingen niet-ruil YE2025 2.096m; tick1186
+bud_agbvaub_st_nonfin_debt_2025,agb_vauban_ieper,2025,2209405,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,ST niet-fin schulden ruil YE2025 2.209m JUMP (construction); tick1186
+bud_agbvaub_expl_rec_2025,agb_vauban_ieper,2025,2940382,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Exploitatieontvangsten 2.940m; tick1186
+bud_agbvaub_expl_exp_2025,agb_vauban_ieper,2025,2324489,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Exploitatieuitgaven 2.324m; tick1186
+bud_agbvaub_expl_saldo_2025,agb_vauban_ieper,2025,615893,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Exploitatiesaldo +0.616m; tick1186
+bud_agbvaub_prijssub_2025,agb_vauban_ieper,2025,2215757,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Prijssubsidies ~2.216m (toelichting); tick1186
+bud_agbvaub_werking_rec_2025,agb_vauban_ieper,2025,2832718,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Ontvangsten uit de werking J5 2.833m; tick1186
+bud_agbvaub_staff_cost_2025,agb_vauban_ieper,2025,1191283,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Personeelskosten 1.191m (transfer to city sport team 2026); tick1186
+bud_agbvaub_invest_exp_2025,agb_vauban_ieper,2025,4316394,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Investeringsuitgaven 4.316m (zwembad; UNDER vs MJP 6.844m); tick1186
+bud_agbvaub_invest_saldo_2025,agb_vauban_ieper,2025,-4316394,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Investeringssaldo -4.316m; tick1186
+bud_agbvaub_new_loans_2025,agb_vauban_ieper,2025,4316394,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Nieuwe leningen andere entiteiten 4.316m (=invest); tick1186
+bud_agbvaub_repay_2025,agb_vauban_ieper,2025,694940,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Periodieke aflossingen 0.695m; tick1186
+bud_agbvaub_fin_saldo_2025,agb_vauban_ieper,2025,3621454,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Financieringssaldo +3.621m; tick1186
+bud_agbvaub_budget_result_2025,agb_vauban_ieper,2025,-79047,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Budgettair resultaat boekjaar -0.079m; tick1186
+bud_agbvaub_bbr_2025,agb_vauban_ieper,2025,189225,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Beschikbaar BBR YE2025 0.189m; tick1186
+bud_agbvaub_afm_2025,agb_vauban_ieper,2025,-79047,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,AFM -0.079m NEG; tick1186
+bud_agbvaub_afm_gecorr_2025,agb_vauban_ieper,2025,-91257,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Gecorr AFM -0.091m NEG; tick1186
+bud_agbvaub_aangewezen_amort_2025,agb_vauban_ieper,2025,707150,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Gecorrigeerde aflossingen 0.707m; tick1186
+bud_agbvaub_pnl_2025,agb_vauban_ieper,2025,92910,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,P&L +0.093m; tick1186
+bud_agbvaub_dividend_2025,agb_vauban_ieper,2025,83619,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Rechthebbenden 0.084m while AFM NEG; tick1186
+bud_agbvaub_mjp_debt_2026,agb_vauban_ieper,2025,18183111,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,MJP fin debt YE2026 path 18.183m (more zwembad loans); tick1186
+bud_agbvaub_depr_2025,agb_vauban_ieper,2025,580043,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Afschrijvingen/voorzieningen 0.580m; tick1186
