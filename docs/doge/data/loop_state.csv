@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T19:00:00Z,rq_1155,1155,no,tick1155 AGB Zoersel equity thin dual residual; next rq_1156 residual dual L5; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-07T19:30:00Z,rq_1156,1156,no,tick1156 AGB AGOST BBR/AFM DEEP NEG dual residual; next rq_1157 residual dual L5; rq_116 deferred; continuous hole_fill

@@ -30471,3 +30471,28 @@ bud_agbzoersel_expl_saldo_2025,agb_zoersel,2025,23540,,,BBC JR2025 primary,src_a
 bud_agbzoersel_bbr_2025,agb_zoersel,2025,21884,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,BBR YE2025 0.022m THIN; tick1155
 bud_agbzoersel_afm_2025,agb_zoersel,2025,-1401,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,AFM -0.001m NEG 2025; tick1155
 bud_agbzoersel_new_loans_2025,agb_zoersel,2025,82299,,,BBC JR2025 primary,src_agb_zoersel_jr2025,strong,Nieuwe city loan 0.082m 2025 bib Sint-Antonius; tick1155
+bud_agost_assets_2025,agb_agost_sint_truiden,2025,13901752,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Assets balanstotaal YE2025 13.902m; tick1156
+bud_agost_equity_2025,agb_agost_sint_truiden,2025,1601815,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Nettoactief YE2025 1.602m (cum P&L NEG -1.715m); tick1156
+bud_agost_cum_pnl_neg_2025,agb_agost_sint_truiden,2025,-1715325,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Gecumuleerd tekort equity path YE2025 -1.715m; tick1156
+bud_agost_debt_total_2025,agb_agost_sint_truiden,2025,12299937,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Schulden total YE2025 12.300m; tick1156
+bud_agost_fin_debt_2025,agb_agost_sint_truiden,2025,9927500,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Fin schulden total YE2025 9.928m (LT 8.768 + ST due 1.160); tick1156
+bud_agost_fin_debt_lt_2025,agb_agost_sint_truiden,2025,8767500,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Fin schulden LT YE2025 8.768m; tick1156
+bud_agost_fin_debt_st_due_2025,agb_agost_sint_truiden,2025,1160000,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.160m; tick1156
+bud_agost_cash_2025,agb_agost_sint_truiden,2025,110474,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Liquide middelen YE2025 0.110m; tick1156
+bud_agost_fva_2025,agb_agost_sint_truiden,2025,4136124,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Fin VA other YE2025 4.136m FOI residual; tick1156
+bud_agost_mva_2025,agb_agost_sint_truiden,2025,9474419,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,MVA YE2025 9.474m; tick1156
+bud_agost_expl_ont_2025,agb_agost_sint_truiden,2025,115313,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Exploitatieontvangsten 0.115m 2025; tick1156
+bud_agost_expl_uit_2025,agb_agost_sint_truiden,2025,199472,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Exploitatieuitgaven 0.199m 2025; tick1156
+bud_agost_expl_saldo_2025,agb_agost_sint_truiden,2025,-84159,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Exploitatiesaldo -0.084m NEG 2025; tick1156
+bud_agost_invest_ont_2025,agb_agost_sint_truiden,2025,130000,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Investeringsontvangsten/desinvest 0.130m 2025; tick1156
+bud_agost_invest_saldo_2025,agb_agost_sint_truiden,2025,130000,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Investeringssaldo +0.130m 2025; tick1156
+bud_agost_fin_saldo_2025,agb_agost_sint_truiden,2025,-1157500,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Financieringssaldo -1.158m 2025; tick1156
+bud_agost_budget_2025,agb_agost_sint_truiden,2025,-1111659,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Budgettair resultaat -1.112m MASSIVE NEG 2025; tick1156
+bud_agost_cum_budget_2025,agb_agost_sint_truiden,2025,-2180204,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Gecumuleerd budgettair YE2025 -2.180m DEEP NEG; tick1156
+bud_agost_bbr_2025,agb_agost_sint_truiden,2025,-2180204,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Beschikbaar budgettair resultaat -2.180m DEEP NEG CRITICAL; tick1156
+bud_agost_afm_2025,agb_agost_sint_truiden,2025,-1240159,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Autofinancieringsmarge -1.240m DEEP NEG CRITICAL; tick1156
+bud_agost_afm_gecorr_2025,agb_agost_sint_truiden,2025,-967159,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Gecorrigeerde AFM -0.967m DEEP NEG; tick1156
+bud_agost_pnl_2025,agb_agost_sint_truiden,2025,-326640,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,PnL verlies -0.327m 2025; tick1156
+bud_agost_interest_2025,agb_agost_sint_truiden,2025,132839,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Rente 0.133m 2025; tick1156
+bud_agost_loan_repay_2025,agb_agost_sint_truiden,2025,1160000,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Periodieke aflossingen 1.160m 2025; tick1156
+bud_agost_nonruil_st_2025,agb_agost_sint_truiden,2025,1967732,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,ST niet-ruiltransacties schulden 1.968m FOI residual; tick1156

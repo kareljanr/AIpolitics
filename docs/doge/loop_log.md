@@ -16040,3 +16040,18 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1156** residual dual L5; deferred **rq_116**
 
+### Tick 1156 - 2026-08-07T19:30:00Z
+
+- Unit: **rq_1156** (FOI-adjacent residual dual - **AGB AGOST Sint-Truiden Jaarrekening 2025** Entity II gebiedsontwikkeling after city GE)
+- Found (strong primary BBC 70p; KBO **0810.744.410**; Kazernestraat 13 3800; AD Kathleen Bergoets FD Paul Vanstraelen; GR 22.06.2026):
+  - Assets **EUR13.902m** / equity **EUR1.602m** (cum P&L **NEG -1.715m**) / cash **EUR0.110m**
+  - Fin debt **EUR9.928m** (LT 8.768 / ST due **1.160m**); repay **EUR1.160m**/yr; interest **EUR0.133m**
+  - **BBR EUR-2.180m DEEP NEG CRITICAL** / **AFM EUR-1.240m DEEP NEG** / gecorr **-EUR0.967m** / budget **-EUR1.112m**
+  - Expl **EUR0.115m / 0.199m** saldo **-EUR0.084m NEG** / invest desinvest **+EUR0.130m** / fin saldo **-EUR1.158m**
+  - PnL **-EUR0.327m** / ST non-ruil **EUR1.968m FOI** / FVA other **EUR4.136m FOI**
+- Dual: city Sint-Truiden GE already mined - AGOST dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen login / Bornem JR2024 / Schelle GE+OCMW / Lievegem / Roeselare / Wommelgem residual next
+- Wrote: budgets +25 (bud_agost_*); commitments +6; leaderboard +8; sources +1; entity agb_agost_sint_truiden; FOI **gap_agb_agost_bbr_deep_neg_afm_deep_neg_debt_l5** prio9 ready + draft; PDF primary (not committed ~2.9MB); rq_1156=done; spawn **rq_1157**; ticks=1156
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1157** residual dual L5; deferred **rq_116**
+
