@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T17:00:00Z,rq_1199,1199,no,tick1199 WAGSO Waregem dual residual assets 12.36m fin debt 2.34m early repay 0.76m cash JUMP inventory DROP AFM POS PnL 0.59m FOI; next rq_1200 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T17:30:00Z,rq_1200,1200,no,tick1200 AGB Lokeren dual residual city loan 16.72m leasing 17.24m cash 0 equity thin zero staff FOI; next rq_1201 residual dual L5 VL; rq_116 deferred; continuous hole_fill

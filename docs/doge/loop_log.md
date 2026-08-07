@@ -16783,3 +16783,20 @@ Append-only. Each tick adds a short entry.
 - Next: prio5 **rq_1200** residual dual L5 VL; deferred **rq_116**
 - Git: stash/pull may thrash with local noise - continue on local if needed
 
+
+### Tick 1200 - 2026-08-08T17:30:00Z
+
+- Unit: **rq_1200** (FOI-adjacent residual dual - **AGB Lokeren Jaarrekening 2025** Entity II first-year sport/zwembad shell after city GE tick865)
+- Found (strong primary BBC 184p; KBO **1031.996.262** NIS **46029**; Groentemarkt 1; AD S. Verbeke Burg F. Anthuenis; founded GR **15.12.2025**):
+  - Assets **EUR20.994m** / equity thin **EUR0.113m** / **cash EUR0 CRITICAL** / schulden **EUR20.880m** (~99pct)
+  - Fin debt **EUR17.244m** (LT **16.722** + ST due **0.523**); **renteloze city loan EUR16.722m** = exact dual match city loans_to_agb
+  - Leasing MVA (gemeenschapsgoederen) **EUR17.243m** / invest/inbreng **EUR17.244m**
+  - BBR **EUR0.114m** / AFM **+EUR0.637m** / gecorr AFM **+EUR0.115m**
+  - Expl **EUR0.128m / 0.014m** saldo **+0.115m** / **staff EUR0** / goederen **0.014m** / PnL **+0.113m**
+  - ST non-ruil recv **EUR3.614m** / ST non-fin debt **EUR3.636m**
+- Dual: city Lokeren GE tick865 loans_to_agb 16.722m - AGB dual residual closed for full BBC layer (not TE-additive)
+- Wrote: budgets +29 (bud_agblok_*); commitments +6; leaderboard +7; sources +1; entity agb_lokeren; FOI **gap_agb_lokeren_city_loan_16_72m_leasing_17_24m_cash_zero_shell_l5** prio9 ready + draft; progress_every_10 + waste top10 refresh; PDF primary (not committed ~7MB); rq_1200=done; spawn **rq_1201**; ticks=1200
+- FOI: ready only - **do not send**
+- Progress @1200: A/B 100%; C ~99%; D ~74-88% generous; FOI ready ~843; pure waste top10 stable
+- Next: prio5 **rq_1201** residual dual L5 VL; deferred **rq_116**
+

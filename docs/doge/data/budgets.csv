@@ -31786,3 +31786,32 @@ bud_wagso_werkingsub_2025,wagso_waregem,2025,2432,,,BBC JR2025 primary,src_wagso
 bud_wagso_interest_2025,wagso_waregem,2025,46276,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J5 financiele kosten 0.046m; tick1199
 bud_wagso_depr_2025,wagso_waregem,2025,440996,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J5 afschrijvingen 0.441m; tick1199
 bud_wagso_other_nettoactief_2025,wagso_waregem,2025,9632673,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J4 overig nettoactief 9.633m (cap/reserves class); tick1199
+bud_agblok_assets_2025,agb_lokeren,2025,20993572,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J4 balanstotaal 20.994m first year; tick1200
+bud_agblok_equity_2025,agb_lokeren,2025,113094,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J4 nettoactief thin 0.113m; tick1200
+bud_agblok_debt_total_2025,agb_lokeren,2025,20880478,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J4 schulden 20.880m (~99pct assets); tick1200
+bud_agblok_fin_debt_2025,agb_lokeren,2025,17244385,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,T4/J4 fin debt total 17.244m (LT 16.722 + ST due 0.523); tick1200
+bud_agblok_fin_debt_lt_2025,agb_lokeren,2025,16721826,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J4 fin debt LT 16.722m = city zero-interest loan exact match city bud_lo_loans_to_agb; tick1200
+bud_agblok_fin_debt_st_due_2025,agb_lokeren,2025,522559,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J4 ST due within year 0.523m reclass path; tick1200
+bud_agblok_cash_2025,agb_lokeren,2025,0,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J4 liquide middelen 0 CRITICAL; tick1200
+bud_agblok_st_recv_2025,agb_lokeren,2025,3750585,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J4 ST vorderingen 3.751m (non-ruil 3.614m + ruil 0.136m); tick1200
+bud_agblok_st_recv_nonruil_2025,agb_lokeren,2025,3614426,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J4 ST niet-ruil vorderingen 3.614m city/prijssub path FOI; tick1200
+bud_agblok_st_nonfin_debt_2025,agb_lokeren,2025,3636093,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J4 ST non-fin ruil schulden 3.636m; tick1200
+bud_agblok_leasing_mva_2025,agb_lokeren,2025,17242986,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J4 gemeenschapsgoederen leasing 17.243m sport/pool erfpacht shell; tick1200
+bud_agblok_mva_2025,agb_lokeren,2025,17242986,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J4 MVA total = leasing only 17.243m; tick1200
+bud_agblok_expl_rec_2025,agb_lokeren,2025,128430,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J2 expl ontvangsten 0.128m partial year; tick1200
+bud_agblok_expl_exp_2025,agb_lokeren,2025,13905,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J2 expl uitgaven 0.014m; tick1200
+bud_agblok_expl_saldo_2025,agb_lokeren,2025,114525,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J2 exploitatiesaldo +0.115m; tick1200
+bud_agblok_invest_exp_2025,agb_lokeren,2025,17244418,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J2 invest 17.244m asset recognition/leasing inbreng; tick1200
+bud_agblok_new_loans_2025,agb_lokeren,2025,16721826,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J2/T4 fin ontvangsten nieuwe city loan 16.722m zero interest; tick1200
+bud_agblok_fin_exp_sign_2025,agb_lokeren,2025,522559,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J2 fin uitgaven signed -0.523m accounting reclass ST due (absolute 0.523m); tick1200
+bud_agblok_budget_result_2025,agb_lokeren,2025,114492,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J2 budgettair resultaat +0.114m; tick1200
+bud_agblok_bbr_2025,agb_lokeren,2025,114492,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J2 BBR 0.114m; tick1200
+bud_agblok_afm_2025,agb_lokeren,2025,637085,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J2 AFM +0.637m (inflated by negative periodieke aflossingen accounting); tick1200
+bud_agblok_afm_gecorr_2025,agb_lokeren,2025,114525,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J2 gecorr AFM +0.115m; tick1200
+bud_agblok_pnl_2025,agb_lokeren,2025,113094,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J5/J4 overschot 0.113m = equity; tick1200
+bud_agblok_staff_2025,agb_lokeren,2025,0,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J5 bezoldigingen 0 zero staff (stays city); tick1200
+bud_agblok_goederen_2025,agb_lokeren,2025,13905,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J5 goederen 0.014m; tick1200
+bud_agblok_omzet_2025,agb_lokeren,2025,128430,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J5 opbrengsten werking 0.128m; tick1200
+bud_agblok_depr_2025,agb_lokeren,2025,1432,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J5 afschrijvingen 0.001m thin first days; tick1200
+bud_agblok_interest_2025,agb_lokeren,2025,0,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J5 fin kosten 0 (renteloze city loan stated); tick1200
+bud_agblok_city_loan_match_2025,agb_lokeren,2025,16721826,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,Dual: exact match city_lokeren bud_lo_loans_to_agb_2025 16.722m; tick1200
