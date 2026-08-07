@@ -31441,3 +31441,38 @@ bud_agbmuse_pnl_2025,agb_musea_ieper,2025,73615,,,BBC JR2025 primary,src_agb_mus
 bud_agbmuse_dividend_2025,agb_musea_ieper,2025,73615,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,FULL dividend to city 0.074m (statutair); tick1187
 bud_agbmuse_goods_services_2025,agb_musea_ieper,2025,3416649,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Goederen en diensten 3.417m; tick1187
 bud_agbmuse_depr_2025,agb_musea_ieper,2025,668744,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Afschrijvingen 0.669m; tick1187
+bud_agbpop_assets_2025,agb_de_kouter_poperinge,2025,25048606,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Assets balanstotaal YE2025 25.049m DROP from 32.099m; tick1188
+bud_agbpop_equity_2025,agb_de_kouter_poperinge,2025,10017650,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Nettoactief YE2025 10.018m; tick1188
+bud_agbpop_cum_pnl_2025,agb_de_kouter_poperinge,2025,321645,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Gecumuleerd overschot YE2025 0.322m JUMP from 0.069m; tick1188
+bud_agbpop_cap_subs_2025,agb_de_kouter_poperinge,2025,4338197,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Kapitaalssubsidies YE2025 4.338m; tick1188
+bud_agbpop_other_netto_2025,agb_de_kouter_poperinge,2025,5357808,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Overig nettoactief YE2025 5.358m; tick1188
+bud_agbpop_debt_total_2025,agb_de_kouter_poperinge,2025,15030956,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Schulden total YE2025 15.031m DROP from 22.564m; tick1188
+bud_agbpop_fin_debt_2025,agb_de_kouter_poperinge,2025,14535669,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Fin schulden YE2025 14.536m; tick1188
+bud_agbpop_fin_debt_lt_2025,agb_de_kouter_poperinge,2025,14017074,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Fin schulden LT YE2025 14.017m; tick1188
+bud_agbpop_fin_debt_st_due_2025,agb_de_kouter_poperinge,2025,518595,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Fin schulden LT vervallend YE2025 0.519m; tick1188
+bud_agbpop_cash_2025,agb_de_kouter_poperinge,2025,38530,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Liquide middelen YE2025 0.039m CRITICAL DROP from 0.113m; tick1188
+bud_agbpop_mva_2025,agb_de_kouter_poperinge,2025,24362308,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,MVA YE2025 24.362m; tick1188
+bud_agbpop_mva_buildings_2025,agb_de_kouter_poperinge,2025,17767828,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,MVA bedrijfsmatige gebouwen YE2025 17.768m; tick1188
+bud_agbpop_mva_leasing_2025,agb_de_kouter_poperinge,2025,5956670,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,MVA leasing YE2025 5.957m (2024 lease 5.801m); tick1188
+bud_agbpop_st_recv_2025,agb_de_kouter_poperinge,2025,569297,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,ST vorderingen YE2025 0.569m DROP from 7.464m; tick1188
+bud_agbpop_st_nonfin_debt_2025,agb_de_kouter_poperinge,2025,463835,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,ST niet-fin schulden YE2025 0.464m DROP from 7.413m; tick1188
+bud_agbpop_expl_rec_2025,agb_de_kouter_poperinge,2025,1838039,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Exploitatieontvangsten 1.838m; tick1188
+bud_agbpop_expl_exp_2025,agb_de_kouter_poperinge,2025,1273135,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Exploitatieuitgaven 1.273m; tick1188
+bud_agbpop_expl_saldo_2025,agb_de_kouter_poperinge,2025,564904,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Exploitatiesaldo +0.565m; tick1188
+bud_agbpop_werking_rec_2025,agb_de_kouter_poperinge,2025,1768526,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Ontvangsten uit de werking 1.769m; tick1188
+bud_agbpop_invest_exp_2025,agb_de_kouter_poperinge,2025,697515,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Investeringsuitgaven 0.698m; tick1188
+bud_agbpop_city_investsub_2025,agb_de_kouter_poperinge,2025,571476,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Investeringssubsidies van gemeente 0.571m; tick1188
+bud_agbpop_invest_saldo_2025,agb_de_kouter_poperinge,2025,0,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Investeringssaldo 0 (balanced with subsidies); tick1188
+bud_agbpop_repay_2025,agb_de_kouter_poperinge,2025,518595,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Periodieke aflossingen 0.519m; tick1188
+bud_agbpop_fin_saldo_2025,agb_de_kouter_poperinge,2025,-518595,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Financieringssaldo -0.519m; tick1188
+bud_agbpop_budget_result_2025,agb_de_kouter_poperinge,2025,46309,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Budgettair resultaat boekjaar +0.046m; tick1188
+bud_agbpop_bbr_2025,agb_de_kouter_poperinge,2025,112540,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Beschikbaar BBR YE2025 0.113m; tick1188
+bud_agbpop_afm_2025,agb_de_kouter_poperinge,2025,46309,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,AFM +0.046m thin POS; tick1188
+bud_agbpop_afm_gecorr_2025,agb_de_kouter_poperinge,2025,-639437,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Gecorr AFM -0.639m NEG DEEP; tick1188
+bud_agbpop_aangewezen_amort_2025,agb_de_kouter_poperinge,2025,1204341,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Aangewezen aflossingen 1.204m; tick1188
+bud_agbpop_pnl_2025,agb_de_kouter_poperinge,2025,252403,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,P&L +0.252m; tick1188
+bud_agbpop_dividend_2025,agb_de_kouter_poperinge,2025,0,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Dividend/rechthebbenden 0; tick1188
+bud_agbpop_fin_cost_2025,agb_de_kouter_poperinge,2025,238408,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Financiele kosten 0.238m; tick1188
+bud_agbpop_fin_income_2025,agb_de_kouter_poperinge,2025,466631,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Financiele opbrengsten 0.467m; tick1188
+bud_agbpop_depr_2025,agb_de_kouter_poperinge,2025,778914,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Afschrijvingen 0.779m; tick1188
+bud_agbpop_staff_2025,agb_de_kouter_poperinge,2025,0,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Personeel ZERO (zero since 2023); tick1188

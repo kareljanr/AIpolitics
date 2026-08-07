@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T11:00:00Z,rq_1187,1187,no,tick1187 AGB Musea Ieper dual residual debt JUMP 9.2m invest 4.5m full div city loans FOI; next rq_1188 residual dual L5 Oosterzele/Nijlen; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T11:30:00Z,rq_1188,1188,no,tick1188 AGB De Kouter Poperinge dual residual debt 14.5m leasing 6m cash CRITICAL 0.04m gecorr AFM -0.64m FOI; next rq_1189 residual dual L5 Oosterzele/Nijlen; rq_116 deferred; continuous hole_fill

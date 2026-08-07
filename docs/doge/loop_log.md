@@ -16580,3 +16580,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1188** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1188 - 2026-08-08T11:30:00Z
+
+- Unit: **rq_1188** (FOI-adjacent residual dual - **AGB De Kouter Poperinge Jaarrekening 2025** Entity II sport after city GE)
+- Found (strong primary BBC 80p GR/RVB 01.06.2026; KBO **0835.121.894** NIS **33021**; Grote Markt 1; Voorzitter Christof Dejaegher Secr Klaas Verbeke):
+  - Assets **EUR25.049m DROP** from 32.099 / equity **EUR10.018m** / cash **EUR0.039m CRITICAL**
+  - Fin debt **EUR14.536m** (LT 14.017 / ST due 0.519); repay **0.519m**; no new loans 2025
+  - MVA leasing **EUR5.957m** (2024 lease intake 5.801m); buildings **17.768m**
+  - BBR **EUR0.113m** / AFM **+EUR0.046m thin** / **gecorr AFM EUR-0.639m NEG DEEP**
+  - Expl **EUR1.838m / 1.273m** saldo **+0.565m** / city investsub **0.571m** / zero staff
+  - PnL **+EUR0.252m** retained (no div); ST recv DROP 7.46->0.57m construction settle
+- Dual: city Poperinge GE already mined - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen / Bornem residual next
+- Wrote: budgets +35 (bud_agbpop_*); commitments +6; leaderboard +8; sources +1; entity agb_de_kouter_poperinge; FOI **gap_agb_pop_kouter_gecorr_afm_neg_0_64m_cash_critical_leasing_6m_l5** prio9 ready + draft; PDF primary (not committed ~3.2MB); rq_1188=done; spawn **rq_1189**; ticks=1188
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1189** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local
