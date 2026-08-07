@@ -16244,3 +16244,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1168** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1168 - 2026-08-08T01:30:00Z
+
+- Unit: **rq_1168** (FOI-adjacent residual dual - **AGB Aarschot Jaarrekening 2025** Entity II multi-purpose after city GE)
+- Found (strong primary BBC 87p; KBO **0881.848.972**; Ten Drossaarde 1; AD Christi Van Calster FD Geert Wijns; GR zitting 23.04.2026 pub 12.05.2026):
+  - Assets **EUR12.708m** / equity **EUR0.425m** / cash **EUR0.805m JUMP**
+  - Fin debt T4 **EUR11.453m DECLINING** (LT 10.892 / ST due **0.562m**); new **0.542m**; periodieke **0.556m**; **early repay 0.724m**
+  - MVA **EUR11.369m** (gebouwen 8.045 / **leasing 1.911m** / plant 0.874)
+  - BBR **EUR0.744m** / AFM **+EUR0.187m** / **gecorr AFM EUR-0.233m NEG CRITICAL** / budget **+EUR0.212m**
+  - Expl **EUR3.307m / 2.564m** saldo **+EUR0.743m** / **prijssubsidie EUR1.320m**
+  - PnL **+EUR0.103m** / dividend **0.025m** partial; invest saldo **+0.207m** (desinvest 0.897); ST non-ruil JUMP **0.170m**; MJP debt YE2026 **12.976m**
+- Dual: city Aarschot GE already mined tick859 - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen / Bornem JR2024 / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Genk / AGB Middelkerke residual next
+- Wrote: budgets +35 (bud_agbaar_*); commitments +6; leaderboard +7; sources +1; entity agb_aarschot; FOI **gap_agb_aarschot_gecorr_afm_neg_debt_11m_prijssub_leasing_l5** prio9 ready + draft; PDF primary (not committed ~2.6MB); rq_1168=done; spawn **rq_1169**; ticks=1168
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1169** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local

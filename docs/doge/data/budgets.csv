@@ -30833,3 +30833,38 @@ bud_agbstk_pnl_2025,agb_steenokkerzeel,2025,52113,,,BBC JR2025 primary,src_agb_s
 bud_agbstk_dividend_2025,agb_steenokkerzeel,2025,52113,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Full dividend = PnL 0.052m to city; tick1167
 bud_agbstk_interest_2025,agb_steenokkerzeel,2025,0,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Financiele kosten 0 FOI (interest blank); tick1167
 bud_agbstk_depr_2025,agb_steenokkerzeel,2025,128946,,,BBC JR2025 primary,src_agb_steenokkerzeel_jr2025,strong,Afschrijvingen 0.129m; tick1167
+bud_agbaar_assets_2025,agb_aarschot,2025,12707689,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Assets balanstotaal YE2025 12.708m; tick1168
+bud_agbaar_equity_2025,agb_aarschot,2025,424790,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Nettoactief YE2025 0.425m; tick1168
+bud_agbaar_cum_pnl_2025,agb_aarschot,2025,346221,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Gecumuleerd overschot YE2025 0.346m; tick1168
+bud_agbaar_cap_subs_2025,agb_aarschot,2025,72726,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Kapitaalssubsidies YE2025 0.073m; tick1168
+bud_agbaar_debt_total_2025,agb_aarschot,2025,12282899,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Schulden total YE2025 12.283m; tick1168
+bud_agbaar_fin_debt_2025,agb_aarschot,2025,11453196,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Fin schulden T4 total YE2025 11.453m DECLINING; tick1168
+bud_agbaar_fin_debt_lt_2025,agb_aarschot,2025,10891504,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Fin schulden LT YE2025 10.892m; tick1168
+bud_agbaar_fin_debt_st_due_2025,agb_aarschot,2025,561692,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Fin schulden LT vervallend YE2025 0.562m; tick1168
+bud_agbaar_cash_2025,agb_aarschot,2025,804616,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Liquide middelen YE2025 0.805m JUMP from 0.489m; tick1168
+bud_agbaar_mva_2025,agb_aarschot,2025,11368950,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,MVA YE2025 11.369m; tick1168
+bud_agbaar_mva_buildings_2025,agb_aarschot,2025,8044582,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,MVA terreinen/gebouwen YE2025 8.045m; tick1168
+bud_agbaar_leasing_mva_2025,agb_aarschot,2025,1910503,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Leasing MVA YE2025 1.911m; tick1168
+bud_agbaar_st_nonruil_recv_2025,agb_aarschot,2025,169645,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,ST vorderingen niet-ruil YE2025 0.170m JUMP from 0.005m; tick1168
+bud_agbaar_expl_rec_2025,agb_aarschot,2025,3306799,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Exploitatieontvangsten 3.307m; tick1168
+bud_agbaar_expl_exp_2025,agb_aarschot,2025,2564133,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Exploitatieuitgaven 2.564m; tick1168
+bud_agbaar_expl_saldo_2025,agb_aarschot,2025,742666,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Exploitatiesaldo +0.743m; tick1168
+bud_agbaar_prijssub_2025,agb_aarschot,2025,1319624,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Prijssubsidie gemeente 1.320m; tick1168
+bud_agbaar_invest_exp_2025,agb_aarschot,2025,689214,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Investeringsuitgaven 0.689m; tick1168
+bud_agbaar_invest_rec_2025,agb_aarschot,2025,896689,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Investeringsontvangsten/desinvest 0.897m; tick1168
+bud_agbaar_invest_saldo_2025,agb_aarschot,2025,207474,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Investeringssaldo +0.207m; tick1168
+bud_agbaar_fin_rec_2025,agb_aarschot,2025,541605,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Financieringsontvangsten/new loans 0.542m; tick1168
+bud_agbaar_fin_exp_2025,agb_aarschot,2025,1279564,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Financieringsuitgaven 1.280m (amort 0.556 + early 0.724); tick1168
+bud_agbaar_fin_saldo_2025,agb_aarschot,2025,-737959,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Financieringssaldo -0.738m; tick1168
+bud_agbaar_new_loans_2025,agb_aarschot,2025,541605,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Nieuwe leningen T4 0.542m; tick1168
+bud_agbaar_early_repay_2025,agb_aarschot,2025,723997,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Vervroegde terugbetaling leningen 0.724m; tick1168
+bud_agbaar_aflossingen_2025,agb_aarschot,2025,555567,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Periodieke aflossingen 0.556m; tick1168
+bud_agbaar_budget_result_2025,agb_aarschot,2025,212182,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Budgettair resultaat boekjaar +0.212m; tick1168
+bud_agbaar_bbr_2025,agb_aarschot,2025,743742,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,BBR 0.744m; tick1168
+bud_agbaar_afm_2025,agb_aarschot,2025,187099,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,AFM +0.187m; tick1168
+bud_agbaar_afm_gecorr_2025,agb_aarschot,2025,-232626,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Gecorr AFM -0.233m NEG CRITICAL (aangewezen 0.975m); tick1168
+bud_agbaar_pnl_2025,agb_aarschot,2025,103345,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,P&L +0.103m; tick1168
+bud_agbaar_dividend_2025,agb_aarschot,2025,25000,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Dividend to city 0.025m (partial of PnL); tick1168
+bud_agbaar_interest_2025,agb_aarschot,2025,2341,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Financiele kosten 0.002m thin; tick1168
+bud_agbaar_depr_2025,agb_aarschot,2025,643761,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Afschrijvingen 0.644m; tick1168
+bud_agbaar_mjp_debt_2026,agb_aarschot,2025,12976413,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,MJP fin debt YE2026 path 12.976m (new 2.106m); tick1168
