@@ -16563,3 +16563,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1187** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1187 - 2026-08-08T11:00:00Z
+
+- Unit: **rq_1187** (FOI-adjacent residual dual - **AGB Musea Ieper Jaarrekening 2025** Entity II IFFM/Yper after Vauban)
+- Found (strong primary BBC 82p 25.06.2026; KBO **0759.387.858**; Grote Markt 34; Voorzitter Emmily Talpe FD Stefan Deboutte):
+  - Assets **EUR19.123m JUMP** from 14.310 / equity **EUR7.411m** (=capsubs only) / cash **EUR0.741m**
+  - Fin debt ~**EUR9.227m JUMP** (LT 8.755 / ST due 0.472); **city loans only**; new **4.340m**; repay **0.438m**
+  - Invest **EUR4.534m** buildings JUMP; ST payables **2.312m JUMP**
+  - BBR **EUR0.254m** / AFM **+EUR0.111m POS** / gecorr AFM **+0.123m**
+  - Expl **EUR4.081m / 3.533m** saldo **+0.549m** / VL werkingsub **~1.614m** / visits+prijs **~2.316m**
+  - PnL **+EUR0.074m** / **FULL div to city EUR0.074m** (statutair); no bank loans
+- Dual: city Ieper + AGB Vauban tick1186 - Musea dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen / Bornem residual next
+- Wrote: budgets +34 (bud_agbmuse_*); commitments +6; leaderboard +8; sources +1; entity agb_musea_ieper; FOI **gap_agb_musea_ieper_debt_jump_9_2m_invest_4_5m_full_div_city_loans_l5** prio8 ready + draft; PDF primary (not committed ~9.6MB); rq_1187=done; spawn **rq_1188**; ticks=1187
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1188** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local

@@ -31407,3 +31407,37 @@ bud_agbvaub_pnl_2025,agb_vauban_ieper,2025,92910,,,BBC JR2025 primary,src_agb_va
 bud_agbvaub_dividend_2025,agb_vauban_ieper,2025,83619,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Rechthebbenden 0.084m while AFM NEG; tick1186
 bud_agbvaub_mjp_debt_2026,agb_vauban_ieper,2025,18183111,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,MJP fin debt YE2026 path 18.183m (more zwembad loans); tick1186
 bud_agbvaub_depr_2025,agb_vauban_ieper,2025,580043,,,BBC JR2025 primary,src_agb_vauban_ieper_jr2025,strong,Afschrijvingen/voorzieningen 0.580m; tick1186
+bud_agbmuse_assets_2025,agb_musea_ieper,2025,19122955,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Assets balanstotaal YE2025 19.123m JUMP from 14.310m; tick1187
+bud_agbmuse_equity_2025,agb_musea_ieper,2025,7411092,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Nettoactief YE2025 7.411m (=kapitaalsubsidies only); tick1187
+bud_agbmuse_cap_subs_2025,agb_musea_ieper,2025,7411092,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Kapitaalssubsidies YE2025 7.411m; tick1187
+bud_agbmuse_debt_total_2025,agb_musea_ieper,2025,11711863,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Schulden total YE2025 11.712m; tick1187
+bud_agbmuse_fin_debt_2025,agb_musea_ieper,2025,9226870,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Fin schulden YE2025 ~9.227m JUMP (city loans only); tick1187
+bud_agbmuse_fin_debt_lt_2025,agb_musea_ieper,2025,8755349,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Fin schulden LT YE2025 8.755m JUMP from 4.943m; tick1187
+bud_agbmuse_fin_debt_st_due_2025,agb_musea_ieper,2025,471521,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Fin schulden LT vervallend YE2025 0.472m; tick1187
+bud_agbmuse_cash_2025,agb_musea_ieper,2025,740501,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Liquide middelen YE2025 0.741m; tick1187
+bud_agbmuse_mva_2025,agb_musea_ieper,2025,16412682,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,MVA YE2025 16.413m JUMP; tick1187
+bud_agbmuse_mva_buildings_2025,agb_musea_ieper,2025,15791035,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,MVA terreinen/gebouwen YE2025 15.791m JUMP; tick1187
+bud_agbmuse_erfgoed_2025,agb_musea_ieper,2025,344723,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,MVA erfgoed YE2025 0.345m; tick1187
+bud_agbmuse_st_nonruil_recv_2025,agb_musea_ieper,2025,1744881,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,ST vorderingen niet-ruil YE2025 1.745m JUMP; tick1187
+bud_agbmuse_st_nonfin_debt_2025,agb_musea_ieper,2025,2312223,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,ST niet-fin schulden ruil YE2025 2.312m JUMP; tick1187
+bud_agbmuse_inventory_2025,agb_musea_ieper,2025,143957,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Voorraden YE2025 0.144m; tick1187
+bud_agbmuse_expl_rec_2025,agb_musea_ieper,2025,4081401,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Exploitatieontvangsten 4.081m; tick1187
+bud_agbmuse_expl_exp_2025,agb_musea_ieper,2025,3532664,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Exploitatieuitgaven 3.533m; tick1187
+bud_agbmuse_expl_saldo_2025,agb_musea_ieper,2025,548738,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Exploitatiesaldo +0.549m; tick1187
+bud_agbmuse_werking_rec_2025,agb_musea_ieper,2025,2326623,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Ontvangsten uit de werking 2.327m; tick1187
+bud_agbmuse_vl_werkingsub_2025,agb_musea_ieper,2025,1614384,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,VL specifieke werkingssubsidies ~1.614m; tick1187
+bud_agbmuse_visits_prijs_2025,agb_musea_ieper,2025,2316439,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Bezoeken+shop+prijssub ~2.316m (toelichting 56pct); tick1187
+bud_agbmuse_invest_exp_2025,agb_musea_ieper,2025,4534149,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Investeringsuitgaven 4.534m JUMP (buildings); tick1187
+bud_agbmuse_invest_saldo_2025,agb_musea_ieper,2025,-4340366,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Investeringssaldo -4.340m; tick1187
+bud_agbmuse_new_loans_2025,agb_musea_ieper,2025,4340366,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Nieuwe leningen andere entiteiten/city 4.340m; tick1187
+bud_agbmuse_repay_2025,agb_musea_ieper,2025,437708,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Periodieke aflossingen 0.438m; tick1187
+bud_agbmuse_fin_saldo_2025,agb_musea_ieper,2025,3902658,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Financieringssaldo +3.903m; tick1187
+bud_agbmuse_budget_result_2025,agb_musea_ieper,2025,111030,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Budgettair resultaat boekjaar +0.111m; tick1187
+bud_agbmuse_bbr_2025,agb_musea_ieper,2025,254090,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Beschikbaar BBR YE2025 0.254m; tick1187
+bud_agbmuse_afm_2025,agb_musea_ieper,2025,111030,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,AFM +0.111m POS; tick1187
+bud_agbmuse_afm_gecorr_2025,agb_musea_ieper,2025,122801,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Gecorr AFM +0.123m POS; tick1187
+bud_agbmuse_aangewezen_amort_2025,agb_musea_ieper,2025,425937,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Gecorrigeerde aflossingen 0.426m; tick1187
+bud_agbmuse_pnl_2025,agb_musea_ieper,2025,73615,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,P&L +0.074m; tick1187
+bud_agbmuse_dividend_2025,agb_musea_ieper,2025,73615,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,FULL dividend to city 0.074m (statutair); tick1187
+bud_agbmuse_goods_services_2025,agb_musea_ieper,2025,3416649,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Goederen en diensten 3.417m; tick1187
+bud_agbmuse_depr_2025,agb_musea_ieper,2025,668744,,,BBC JR2025 primary,src_agb_musea_ieper_jr2025,strong,Afschrijvingen 0.669m; tick1187
