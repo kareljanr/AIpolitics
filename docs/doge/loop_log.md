@@ -17177,3 +17177,9 @@ Append-only. Each tick adds a short entry.
 - EUR strong: assets **13.532m**; fin debt **9.970m**; AFM **−0.202m** NEG; gecorr AFM **−0.214m** NEG; prijssub **1.418m**; PnL **−0.154m**; BBR **+1.152m**; amort **0.840m**; city renteloos new **0.158m**.
 - CSVs: sources/entities/budgets+26/commitments+7/leaderboard+7 + FOI ready `gap_agb_wet_afm_neg_0_20m_gecorr_0_21m_debt_9_97m_prijssub_1_42m_pnl_neg_0_15m_l5` (not sent); rq_1231=done; spawn rq_1232.
 - Next: rq_1232 residual dual L5 VL JR2025 hole_fill.
+
+### Tick 1232 — 2026-08-07 — rq_1232 AGB Tessenderlo dual residual
+- Unit: AGB Tessenderlo JR2025 Entity II after city GE fusion tick1096 (KBO 0828.339.319; 137p text primary).
+- EUR strong: assets **5.569m**; fin debt **4.812m** (erfpacht **3.398m** + city renteloos **1.414m**); gecorr AFM **−0.241m** DEEP NEG; AFM **+0.030m** thin; prijssub **0.332m**; PnL **+0.055m**; partial div **0.005m**; BBR **+0.504m**.
+- CSVs: sources/entities/budgets+27/commitments+6/leaderboard+6 + FOI ready `gap_agb_tsh_gecorr_afm_neg_0_24m_debt_4_81m_erfpacht_prijssub_0_33m_renteloos_l5` (not sent); rq_1232=done; spawn rq_1233.
+- Next: rq_1233 residual dual L5 VL JR2025 hole_fill.

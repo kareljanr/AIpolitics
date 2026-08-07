@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T22:00:00Z,rq_1231,1231,no,tick1231 AGB Wetteren dual residual AFM -0.20m debt 9.97m prijssub 1.42m PnL -0.15m FOI ready; next rq_1232 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-07T22:20:00Z,rq_1232,1232,no,tick1232 AGB Tessenderlo dual residual gecorr AFM -0.24m debt 4.81m erfpacht 3.40m prijssub 0.33m FOI ready; next rq_1233 residual dual L5 VL; continuous hole_fill

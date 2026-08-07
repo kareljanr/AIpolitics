@@ -32668,3 +32668,30 @@ bud_agbwet_goederen_2025,agb_wetteren,2025,1405435,,,bbc_jr_realized,src_agb_wet
 bud_agbwet_cum_surplus_2025,agb_wetteren,2025,126150,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Gecumuleerd overschot 0.126m DROP from 0.280m; tick1231
 bud_agbwet_overig_netto_2025,agb_wetteren,2025,2801086,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Overig nettoactief 2.801m (= city FVA dual bud_wet_fva_eva); tick1231
 bud_agbwet_st_due_next_2025,agb_wetteren,2025,850738,,,bbc_jr_realized,src_agb_wetteren_jr2025,strong,Aflossingen te betalen volgend jaar 0.851m; tick1231
+bud_agbtsh_assets_2025,agb_tessenderlo,2025,5569371,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,J4 balanstotaal 5.569m (matches GR); tick1232
+bud_agbtsh_equity_2025,agb_tessenderlo,2025,506875,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,J4 nettoactief 0.507m; tick1232
+bud_agbtsh_cash_2025,agb_tessenderlo,2025,451737,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Liquide middelen 0.452m JUMP; tick1232
+bud_agbtsh_st_recv_2025,agb_tessenderlo,2025,300057,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,ST vorderingen 0.300m (non-ruil 0.257m incl prijssub Q4 0.065m + city loan draw 0.174m); tick1232
+bud_agbtsh_mva_2025,agb_tessenderlo,2025,4807650,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,MVA 4.808m (pool/sport shell); tick1232
+bud_agbtsh_fin_debt_lt_2025,agb_tessenderlo,2025,4705203,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Fin debt LT 4.705m; tick1232
+bud_agbtsh_fin_debt_st_due_2025,agb_tessenderlo,2025,106786,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Fin debt ST due 0.107m; tick1232
+bud_agbtsh_fin_debt_2025,agb_tessenderlo,2025,4811989,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Fin debt total 4.812m; tick1232
+bud_agbtsh_leasing_erfpacht_2025,agb_tessenderlo,2025,3397565,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Leasing/erfpacht shell 3.398m (LT 3.357 + ST 0.040) 99y zwembad path; tick1232
+bud_agbtsh_city_renteloos_stock_2025,agb_tessenderlo,2025,1414424,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Andere leningen city renteloos path 1.414m (LT 1.348 + ST 0.066); tick1232
+bud_agbtsh_expl_ont_2025,agb_tessenderlo,2025,583567,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Exploitatieontvangsten 0.584m; tick1232
+bud_agbtsh_expl_uit_2025,agb_tessenderlo,2025,445262,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Exploitatieuitgaven 0.445m; tick1232
+bud_agbtsh_expl_saldo_2025,agb_tessenderlo,2025,138305,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Exploitatiesaldo +0.138m; tick1232
+bud_agbtsh_invest_uit_2025,agb_tessenderlo,2025,174335,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Investeringsuitgaven 0.174m (=new city renteloos); tick1232
+bud_agbtsh_new_loans_2025,agb_tessenderlo,2025,174335,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Nieuwe city renteloos loans 0.174m full invest finance; tick1232
+bud_agbtsh_amort_2025,agb_tessenderlo,2025,108793,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Periodieke aflossingen 0.109m; tick1232
+bud_agbtsh_budget_result_2025,agb_tessenderlo,2025,31762,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Budgettair resultaat +0.032m; tick1232
+bud_agbtsh_bbr_2025,agb_tessenderlo,2025,503688,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,BBR 0.504m; tick1232
+bud_agbtsh_afm_2025,agb_tessenderlo,2025,29512,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,AFM +0.030m THIN; tick1232
+bud_agbtsh_afm_gecorr_2025,agb_tessenderlo,2025,-241411,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Gecorr AFM -0.241m DEEP NEG (99y erfpacht + 33y renteloos); tick1232
+bud_agbtsh_pnl_2025,agb_tessenderlo,2025,54836,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,PnL +0.055m (GR 54.836); tick1232
+bud_agbtsh_div_2025,agb_tessenderlo,2025,5484,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Partial dividend strip 0.005m (rechthebbenden); carry 0.049m; tick1232
+bud_agbtsh_prijssub_2025,agb_tessenderlo,2025,331535,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Prijssubsidies 0.332m (~57pct expl; factor zwemmers); tick1232
+bud_agbtsh_inkom_verhuur_2025,agb_tessenderlo,2025,230106,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Inkomgelden en verhuur 0.230m; tick1232
+bud_agbtsh_interest_erfpacht_2025,agb_tessenderlo,2025,18472,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Fin kosten erfpacht indexatie 0.018m; tick1232
+bud_agbtsh_depr_2025,agb_tessenderlo,2025,88272,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Afschrijvingen 0.088m; tick1232
+bud_agbtsh_cum_surplus_2025,agb_tessenderlo,2025,481875,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Gecumuleerd overschot 0.482m; tick1232
