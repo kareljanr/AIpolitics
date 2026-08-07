@@ -30322,3 +30322,30 @@ bud_blz_toelagen_fire_2025,city_bilzen_hoeselt,2025,1688746,,,BBC JR2025 primary
 bud_blz_toelagen_other_2025,city_bilzen_hoeselt,2025,1429508,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Toelagen andere begunstigden 1.430m FOI L5; tick1149
 bud_blz_ocmw_aid_2025,city_bilzen_hoeselt,2025,2489449,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Individuele hulpverlening OCMW 2.489m 2025; tick1149
 bud_blz_new_loans_2025,city_bilzen_hoeselt,2025,0,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Nieuwe bankleningen 0 2025 (MJP 15.070m undrawn); tick1149
+bud_agbare_assets_2025,agb_arendonk,2025,11898005,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Assets balanstotaal YE2025 11.898m; tick1150
+bud_agbare_equity_2025,agb_arendonk,2025,420465,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Nettoactief YE2025 0.420m THIN (~3.5pct assets); tick1150
+bud_agbare_debt_total_2025,agb_arendonk,2025,11477540,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Schulden total YE2025 11.478m; tick1150
+bud_agbare_fin_debt_2025,agb_arendonk,2025,11094891,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Fin schulden total YE2025 11.095m renteloze city loan; tick1150
+bud_agbare_fin_debt_lt_2025,agb_arendonk,2025,9732009,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Fin schulden LT YE2025 9.732m; tick1150
+bud_agbare_fin_debt_st_due_2025,agb_arendonk,2025,1362882,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Fin schulden LT binnen jaar YE2025 1.363m; tick1150
+bud_agbare_cash_2025,agb_arendonk,2025,492092,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Liquide middelen YE2025 0.492m THIN; tick1150
+bud_agbare_mva_2025,agb_arendonk,2025,11224842,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,MVA bedrijfsmatig YE2025 11.225m (sport/zwembad shell); tick1150
+bud_agbare_cap_subs_2025,agb_arendonk,2025,178235,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Kapitaalsubsidies YE2025 0.178m; tick1150
+bud_agbare_expl_ont_2025,agb_arendonk,2025,841802,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Exploitatieontvangsten 0.842m 2025; tick1150
+bud_agbare_expl_uit_2025,agb_arendonk,2025,417422,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Exploitatieuitgaven 0.417m 2025; tick1150
+bud_agbare_expl_saldo_2025,agb_arendonk,2025,424380,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Exploitatiesaldo +0.424m 2025; tick1150
+bud_agbare_invest_uit_2025,agb_arendonk,2025,409930,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Investeringsuitgaven 0.410m 2025 (city-financed); tick1150
+bud_agbare_invest_saldo_2025,agb_arendonk,2025,-409930,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Investeringssaldo -0.410m 2025; tick1150
+bud_agbare_fin_saldo_2025,agb_arendonk,2025,29952,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Financieringssaldo +0.030m 2025; tick1150
+bud_agbare_budget_2025,agb_arendonk,2025,44402,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Budgettair resultaat +0.044m 2025; tick1150
+bud_agbare_cum_budget_2025,agb_arendonk,2025,332238,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Gecumuleerd budgettair YE2025 0.332m; tick1150
+bud_agbare_bbr_2025,agb_arendonk,2025,332238,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Beschikbaar budgettair resultaat 0.332m 2025; tick1150
+bud_agbare_afm_2025,agb_arendonk,2025,44402,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Autofinancieringsmarge +0.044m 2025 (thin); tick1150
+bud_agbare_afm_gecorr_2025,agb_arendonk,2025,-460815,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Gecorrigeerde AFM -0.461m NEG CRITICAL (amort path); tick1150
+bud_agbare_pnl_2025,agb_arendonk,2025,35709,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,P&L overschot +0.036m 2025; tick1150
+bud_agbare_dividend_2025,agb_arendonk,2025,35000,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Uitgekeerde winst/dividend to city 0.035m almost full P&L; tick1150
+bud_agbare_new_loans_2025,agb_arendonk,2025,409930,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Nieuwe renteloze city loan 0.410m 2025 (= invest); tick1150
+bud_agbare_loan_repay_2025,agb_arendonk,2025,379978,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Periodieke aflossingen city loan 0.380m 2025; tick1150
+bud_agbare_prijssub_2025,agb_arendonk,2025,568251,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Prijssubsidie gemeente ~0.568m 2025 (AR/kengetallen); tick1150
+bud_agbare_settlement_2025,agb_arendonk,2025,30000,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Kunstgrasveld dading Scheerlinck 0.030m 2025 closed; tick1150
+bud_agbare_depr_2025,agb_arendonk,2025,415534,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Afschrijvingen 0.416m JUMP (was 0.173m); tick1150

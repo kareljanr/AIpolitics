@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 1150** (2026-08-07)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1141-1149 + Entity II 1150: AGB S&R/pat Herentals · ZKKB · Erpe-Mere docs · Vorselaar ODAA · Puurs saldi · **Brakel GE EUR85.3m** · **De Panne saldi** · **Bilzen-Hoeselt first fusion EUR330.1m** · **AGB Arendonk EUR11.9m** city-loan shell · prior 1131-1140 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1141-1150 is VL residual dual L5 (not near-complete of 348bn):** **fusion/first-year shells** Bilzen-Hoeselt assets **EUR330.1m** fin debt **EUR39.8m** budget **−EUR14.5m** invest underspend · Brakel OCMW AFM **NEG** + Najaarszon path · Puurs GE P&L **−EUR4.88m** · ZKKB P&L **−EUR0.61m** · **AGB city-loan shells** Arendonk fin debt **EUR11.1m** renteloos gecorr AFM **−EUR0.46m NEG** · Herentals AGB pat cash CRITICAL DROP · Erpe-Mere/Vorselaar docs-only FOI full BBC residual |
+| **E. FOI-ready gaps** | **~793** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~841** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / **Bilzen-Hoeselt EUR330m** / **Brakel EUR85m** / dual stack retained not full TE) · **AGB dual debt/AFM NEG + city-loan shells** (Arendonk **EUR11.1m** gecorr NEG · ETIZ **EUR13.0m** / Boom Plus **EUR24.6m** / Bocholt **EUR14.1m** / Zaventem AGB **EUR23.8m** / Holar **EUR7.40m** / AGIZ leasing **EUR4.63m**) · **LUWA PPP EUR590m** · **Peer VitaS borg ~EUR43m contingent** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 1150)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~30350 |
+| commitments.csv | ~3928 |
+| leaderboard.csv | ~6006 |
+| entities.csv | ~874 |
+| sources.csv | ~2062 |
+| FOI ready | ~793 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~841 |
+| research_queue open | rq_116 deferred + rq_1151 hole-fill after progress |
+
+### What improved since tick 1140
+
+- **VL residual dual JR2025 GE+Entity II (tick1141-1149):** AGB S&R / patrimonium Herentals · **ZKKB** Puurs Entity II · Erpe-Mere documentatie · Vorselaar ODAA · Puurs GE+AGB saldi · **Brakel full BBC** assets 85.3m OCMW NEG · **De Panne** GR saldi+AGB · **Bilzen-Hoeselt first fusion** assets 330.1m AFM +7.25m budget −14.5m invest underspend.
+- **Entity II (tick1150):** **AGB Arendonk** — city **renteloze loan shell EUR11.1m** vs equity **EUR0.42m THIN**; gecorr AFM **−EUR0.46m NEG** vs AFM +0.044m; cash **EUR0.49m**; dividend almost full **EUR0.035m**; prijssub ~**EUR0.57m**; kunstgrasveld dading **EUR0.03m** closed.
+- **Dual map themes:** **city–AGB interest-free loan shells** (Arendonk) · **gecorr AFM NEG hides thin AFM** · **fusion first-year budget NEG + invest UNDERSPEND** (Bilzen-Hoeselt) · **OCMW structural NEG** (Brakel) · **docs-only FOI** residual (Erpe-Mere/Vorselaar) · **P&L vs AFM recon** (Puurs/ZKKB).
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 1140** (2026-08-12)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

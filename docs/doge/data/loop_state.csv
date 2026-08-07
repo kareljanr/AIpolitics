@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T16:00:00Z,rq_1149,1149,no,tick1149 Bilzen-Hoeselt JR2025 dual residual; next rq_1150 residual dual L5 + progress@1150; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-07T16:30:00Z,rq_1150,1150,no,tick1150 progress@1150 + AGB Arendonk dual residual; next rq_1151 residual dual L5; rq_116 deferred; continuous hole_fill

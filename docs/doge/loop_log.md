@@ -15947,3 +15947,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1150** residual dual L5 + **progress@1150**; deferred **rq_116**
 
+### Tick 1150 - 2026-08-07T16:30:00Z
+
+- Unit: **rq_1150** (**progress@1150** + FOI-adjacent residual dual - **AGB Arendonk Jaarrekening 2025** Entity II after city GE)
+- Found (strong primary BBC 76p; KBO **0505.848.961**; Vrijheid 29 2370; AD Kris Wouters FD Hilde Van Nuffel):
+  - Assets **EUR11.898m** / equity **EUR0.420m THIN** (~3.5pct) / cash **EUR0.492m THIN**
+  - Fin debt **EUR11.095m** renteloze **city loan shell** (LT 9.732 / ST due **1.363m**); new loan **EUR0.410m** = invest; repay **EUR0.380m**
+  - AFM **+EUR0.044m** / **gecorr AFM -EUR0.461m NEG CRITICAL** / BBR **EUR0.332m** / budget **+EUR0.044m**
+  - Expl **EUR0.842m / 0.417m** saldo **+EUR0.424m** / invest **-EUR0.410m** (MJP invest receipt 0.974m undrawn)
+  - P&L **+EUR0.036m** / dividend almost full **EUR0.035m** / prijssub ~**EUR0.568m** / depr JUMP **EUR0.416m**
+  - Kunstgrasveld dading Scheerlinck **EUR0.030m** closed 17.09.2025
+- Dual: city Arendonk GE already mined - AGB dual residual closed for full BBC layer (not TE-additive)
+- Progress@1150: refreshed progress_every_10_ticks.md + doge_waste_top10_current.md (pure top10 stable; dual gain fusion/OCMW NEG/city-loan shells)
+- Note: Oosterzele / Nijlen login / Bornem JR2024 / Schelle GE+OCMW / Lievegem / Roeselare residual next
+- Wrote: budgets +27 (bud_agbare_*); commitments +6; leaderboard +9; sources +1; entity agb_arendonk; FOI **gap_agb_are_gecorr_afm_neg_city_loan_shell_l5** prio9 ready + draft; progress + waste top10; PDF primary (not committed ~7.9MB); rq_1150=done; spawn **rq_1151**; ticks=1150
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1151** residual dual L5; deferred **rq_116**
+
