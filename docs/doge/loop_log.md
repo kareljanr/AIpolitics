@@ -16597,3 +16597,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1189** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1189 - 2026-08-08T12:00:00Z
+
+- Unit: **rq_1189** (FOI-adjacent residual dual - **Oosterzele GE/OCMW + AGB De Kluize JR2025**)
+- Search (honest, primary-only):
+  - Lokaal Beslist snippets: GR **18/06/2026** Oosterzele treated JR2025 (OCMW portion + dual agenda cluster)
+  - **oosterzele.be** Angular SPA (Nomatron): documentendatabank / AGB / GR pages **no SSR PDF**
+  - API `api.oosterzele.nomatron.be` → **403**; NBB Consult API → **403**
+  - AGB De Kluize **KBO 0844.272.162** (Sportstraat 3); commercial scrapers undated — **not used as €**
+  - Nijlen: AGB page only statutes + beheersovereenkomst 2025-2030; **no JR2025 PDF**
+  - Bornem: public pack still **JR2024 only** (GR 14.10.2025 page text)
+- Found euros: **none inventable** (no primary BBC/J2–J5 this tick)
+- Dual: Oosterzele residual → **FOI full package**; Nijlen/Bornem remain next
+- Wrote: entities city_oosterzele + agb_de_kluize_oosterzele; sources +3; FOI **gap_oosterzele_dual_jr2025_ge_ocmw_agb_kluize_l5** prio8 ready + draft; rq_1189=done; spawn **rq_1190**; ticks=1189
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1190** residual dual L5 Nijlen/Bornem; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local

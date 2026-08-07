@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T11:30:00Z,rq_1188,1188,no,tick1188 AGB De Kouter Poperinge dual residual debt 14.5m leasing 6m cash CRITICAL 0.04m gecorr AFM -0.64m FOI; next rq_1189 residual dual L5 Oosterzele/Nijlen; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T12:00:00Z,rq_1189,1189,no,tick1189 Oosterzele dual JR2025 FOI-block (no public BBC euros); gap_oosterzele_dual_jr2025_ge_ocmw_agb_kluize_l5 ready; next rq_1190 Nijlen/Bornem residual dual L5; rq_116 deferred; continuous hole_fill
