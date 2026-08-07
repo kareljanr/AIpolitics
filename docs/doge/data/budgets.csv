@@ -30937,3 +30937,36 @@ bud_agbnazdp_pnl_2025,agb_nazareth_depinte,2025,7702,,,BBC JR2025 primary,src_ag
 bud_agbnazdp_dividend_2025,agb_nazareth_depinte,2025,5000,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Dividend to city 0.005m partial of PnL; tick1170
 bud_agbnazdp_interest_2025,agb_nazareth_depinte,2025,3082,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Financiele kosten 0.003m thin (renteloze city loans); tick1170
 bud_agbnazdp_depr_2025,agb_nazareth_depinte,2025,395913,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Afschrijvingen 0.396m; tick1170
+bud_agbmm_assets_2025,agb_merelbeke_melle,2025,20905658,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Assets balanstotaal YE2025 20.906m; tick1171
+bud_agbmm_equity_2025,agb_merelbeke_melle,2025,1517532,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Nettoactief YE2025 1.518m; tick1171
+bud_agbmm_cum_pnl_2025,agb_merelbeke_melle,2025,27638,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Gecumuleerd overschot YE2025 0.028m DROP from 0.220m; tick1171
+bud_agbmm_cap_subs_2025,agb_merelbeke_melle,2025,1464893,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Kapitaalssubsidies YE2025 1.465m; tick1171
+bud_agbmm_other_netto_2025,agb_merelbeke_melle,2025,25000,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Overig nettoactief/kapitaal YE2025 0.025m; tick1171
+bud_agbmm_debt_total_2025,agb_merelbeke_melle,2025,19388126,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Schulden total YE2025 19.388m; tick1171
+bud_agbmm_fin_debt_2025,agb_merelbeke_melle,2025,18524695,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Fin schulden T3 total YE2025 18.525m city renteloos; tick1171
+bud_agbmm_fin_debt_lt_2025,agb_merelbeke_melle,2025,17532782,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Fin schulden LT YE2025 17.533m andere leningen; tick1171
+bud_agbmm_fin_debt_st_due_2025,agb_merelbeke_melle,2025,991913,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Fin schulden LT vervallend YE2025 0.992m; tick1171
+bud_agbmm_cash_2025,agb_merelbeke_melle,2025,685223,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Liquide middelen YE2025 0.685m; tick1171
+bud_agbmm_mva_2025,agb_merelbeke_melle,2025,19960508,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,MVA YE2025 19.961m; tick1171
+bud_agbmm_mva_buildings_2025,agb_merelbeke_melle,2025,19253766,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,MVA terreinen/gebouwen YE2025 19.254m; tick1171
+bud_agbmm_st_recv_2025,agb_merelbeke_melle,2025,243038,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,ST vorderingen YE2025 0.243m; tick1171
+bud_agbmm_expl_rec_2025,agb_merelbeke_melle,2025,2815693,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Exploitatieontvangsten 2.816m; tick1171
+bud_agbmm_expl_exp_2025,agb_merelbeke_melle,2025,2036772,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Exploitatieuitgaven 2.037m (incl dividend 5k); tick1171
+bud_agbmm_expl_saldo_2025,agb_merelbeke_melle,2025,778921,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Exploitatiesaldo +0.779m; tick1171
+bud_agbmm_prijssub_2025,agb_merelbeke_melle,2025,1508732,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Prijssubsidie gemeente 1.509m (factor cut 4.76->0.22); tick1171
+bud_agbmm_retributies_2025,agb_merelbeke_melle,2025,1275111,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Ontvangsten retributies T2 1.275m; tick1171
+bud_agbmm_invest_exp_2025,agb_merelbeke_melle,2025,1227960,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Investeringsuitgaven 1.228m UNDER vs MJP 3.344m; tick1171
+bud_agbmm_invest_saldo_2025,agb_merelbeke_melle,2025,-1227960,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Investeringssaldo -1.228m (no invest receipts); tick1171
+bud_agbmm_molenkouter_invest_2025,agb_merelbeke_melle,2025,987383,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Molenkouter-Zuid fase 1 invest 0.987m; tick1171
+bud_agbmm_new_loans_2025,agb_merelbeke_melle,2025,1227960,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Nieuwe city doorgeeflening 1.228m (= invest); tick1171
+bud_agbmm_repay_2025,agb_merelbeke_melle,2025,963546,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Periodieke aflossingen city loans 0.964m; tick1171
+bud_agbmm_fin_saldo_2025,agb_merelbeke_melle,2025,264414,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Financieringssaldo +0.264m; tick1171
+bud_agbmm_budget_result_2025,agb_merelbeke_melle,2025,-184625,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Budgettair resultaat boekjaar -0.185m NEG; tick1171
+bud_agbmm_bbr_2025,agb_merelbeke_melle,2025,501337,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Beschikbaar BBR YE2025 0.501m; tick1171
+bud_agbmm_afm_2025,agb_merelbeke_melle,2025,-184625,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,AFM -0.185m NEG CRITICAL equals budget result; tick1171
+bud_agbmm_afm_gecorr_2025,agb_merelbeke_melle,2025,778921,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Gecorr AFM +0.779m POS (aangewezen 1.511m); tick1171
+bud_agbmm_aangewezen_amort_2025,agb_merelbeke_melle,2025,1510548,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Gecorrigeerde aflossingen o.b.v. fin schulden 1.511m; tick1171
+bud_agbmm_pnl_2025,agb_merelbeke_melle,2025,-187359,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,P&L -0.187m NEG; tick1171
+bud_agbmm_dividend_2025,agb_merelbeke_melle,2025,5000,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Dividend to city 0.005m WHILE LOSS (BTW winstoogmerk); tick1171
+bud_agbmm_interest_2025,agb_merelbeke_melle,2025,387,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Financiele kosten 0.0004m thin (renteloze city loans); tick1171
+bud_agbmm_depr_2025,agb_merelbeke_melle,2025,1090401,,,BBC JR2025 primary,src_agb_merelbeke_melle_jr2025,strong,Afschrijvingen 1.090m; tick1171

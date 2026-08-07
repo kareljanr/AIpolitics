@@ -16296,3 +16296,20 @@ Append-only. Each tick adds a short entry.
 - Next: prio5 **rq_1171** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
 - Progress: ticks=1170 multiple of 10 - refresh progress + waste top10
+
+### Tick 1171 - 2026-08-08T03:00:00Z
+
+- Unit: **rq_1171** (FOI-adjacent residual dual - **AGB Merelbeke-Melle Jaarrekening 2025** Entity II fusion sport/culture city-loan shell after city GE)
+- Found (strong primary BBC 59p RVB 17.06.2026 pub 22.06.2026; KBO **0661.984.022**; Hundelgemsesteenweg 353; Secr Michaël Pector FD Frank Vanhove Voorzitter Tim De Keukelaere):
+  - Assets **EUR20.906m** / equity **EUR1.518m** / cash **EUR0.685m**
+  - Fin debt T3 **EUR18.525m** 100pct city renteloos (LT 17.533 / ST due **0.992m**); new **1.228m** (= invest UNDER vs MJP 3.344); repay **0.964m**
+  - MVA **EUR19.961m** (gebouwen 19.254); Molenkouter invest **0.987m**
+  - BBR **EUR0.501m** / **AFM EUR-0.185m NEG** / gecorr AFM **+EUR0.779m** (aangewezen 1.511m)
+  - Expl **EUR2.816m / 2.037m** saldo **+EUR0.779m** / **prijssubsidie EUR1.509m** (factor cut 4.76->0.22)
+  - PnL **EUR-0.187m NEG** / **dividend EUR0.005m WHILE LOSS** (BTW winstoogmerk); zero staff; 40y erfpacht
+- Dual: city Merelbeke-Melle GE already mined tick924 - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen / Bornem JR2024 / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Middelkerke / AGB Brasschaat residual next
+- Wrote: budgets +33 (bud_agbmm_*); commitments +6; leaderboard +8; sources +1; entity agb_merelbeke_melle; FOI **gap_agb_mm_afm_neg_city_loan_18_5m_prijssub_factor_l5** prio9 ready + draft; PDF primary (not committed ~2.8MB); rq_1171=done; spawn **rq_1172**; ticks=1171
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1172** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local
