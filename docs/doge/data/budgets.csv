@@ -30015,3 +30015,29 @@ bud_solag_loan_recoveries_2025,agb_solag_lier,2025,472527,,,jaarrekening_realize
 bud_solag_omzet_2025,agb_solag_lier,2025,820470,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Opbrengsten uit werking J5 0.820m DROP FOI; tick1136
 bud_solag_goederen_2025,agb_solag_lier,2025,644021,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Goederen en diensten 0.644m; tick1136
 bud_solag_personeel_2025,agb_solag_lier,2025,709573,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Bezoldigingen 0.710m JUMP (was 0.282m) FOI; tick1136
+bud_agw_assets_2025,agb_westerlo,2025,1618411,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Total assets YE2025 1.618m; tick1137
+bud_agw_equity_2025,agb_westerlo,2025,202816,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Nettoactief YE2025 0.203m; tick1137
+bud_agw_debt_total_2025,agb_westerlo,2025,1415595,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Total schulden YE2025 1.416m; tick1137
+bud_agw_fin_debt_2025,agb_westerlo,2025,990445,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Financiele schulden total YE2025 0.990m (LT 0.880 + ST due 0.110); tick1137
+bud_agw_fin_debt_lt_2025,agb_westerlo,2025,880381,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Fin schulden LT YE2025 0.880m; tick1137
+bud_agw_fin_debt_st_due_2025,agb_westerlo,2025,110064,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.110m; tick1137
+bud_agw_cash_2025,agb_westerlo,2025,357284,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Liquide middelen YE2025 0.357m DROP (was 0.456m); tick1137
+bud_agw_cap_subs_2025,agb_westerlo,2025,1144,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Kapitaalsubsidies YE2025 0.001m; tick1137
+bud_agw_mva_2025,agb_westerlo,2025,991296,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Materiele vaste activa YE2025 0.991m; tick1137
+bud_agw_expl_rec_2025,agb_westerlo,2025,876860,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Exploitatieontvangsten 0.877m; tick1137
+bud_agw_expl_exp_2025,agb_westerlo,2025,801532,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Exploitatieuitgaven 0.802m; tick1137
+bud_agw_expl_saldo_2025,agb_westerlo,2025,75327,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Exploitatiesaldo +0.075m; tick1137
+bud_agw_invest_2025,agb_westerlo,2025,176875,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Investeringsuitgaven 0.177m vs MJP 0.062m OVER FOI; tick1137
+bud_agw_invest_mjp_2025,agb_westerlo,2025,62000,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,MJP invest krediet 0.062m; tick1137
+bud_agw_invest_overspend_2025,agb_westerlo,2025,114875,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Invest overspend ~0.115m FOI; tick1137
+bud_agw_afm_2025,agb_westerlo,2025,-28536,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,AFM -0.029m NEG FOI; tick1137
+bud_agw_afm_gecorr_2025,agb_westerlo,2025,1933,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Gecorr AFM +0.002m thin FOI; tick1137
+bud_agw_bbr_2025,agb_westerlo,2025,257879,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,BBR 0.258m; tick1137
+bud_agw_budget_result_2025,agb_westerlo,2025,-28536,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Budgettair resultaat -0.029m NEG; tick1137
+bud_agw_pl_2025,agb_westerlo,2025,-23793,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,P&L -0.024m; tick1137
+bud_agw_dividend_2025,agb_westerlo,2025,0,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Dividend 0 (was 0.055m 2024); tick1137
+bud_agw_new_loans_city_2025,agb_westerlo,2025,176875,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Nieuwe leningen andere entiteiten (city) 0.177m =invest FOI; tick1137
+bud_agw_repay_2025,agb_westerlo,2025,103864,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Periodieke aflossingen 0.104m; tick1137
+bud_agw_interest_2025,agb_westerlo,2025,0,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Rente banken 0 FOI on 0.99m debt; tick1137
+bud_agw_omzet_2025,agb_westerlo,2025,871140,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Ontvangsten uit werking T2 0.871m; tick1137
+bud_agw_goederen_2025,agb_westerlo,2025,792276,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Goederen en diensten T2 0.792m; tick1137

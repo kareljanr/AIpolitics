@@ -1,2 +1,2 @@
 ﻿"state_id","mode","current_sprint","last_tick_utc","last_unit_id","ticks_completed","paused","notes"
-"main","continuous","hole_fill","2026-08-12T09:30:00Z","rq_1136","1136","no","last tick1136 SOLag Lier Entity II LT recv/AFM NEG; next rq_1137 residual dual L5; progress@1140 in 3; rq_116 deferred; continuous hole_fill"
+"main","continuous","hole_fill","2026-08-12T10:00:00Z","rq_1137","1137","no","last tick1137 AGB Westerlo Entity II AFM NEG city loans; next rq_1138 residual dual L5; progress@1140 in 2; rq_116 deferred; continuous hole_fill"

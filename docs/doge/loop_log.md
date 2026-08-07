@@ -15684,3 +15684,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1137** residual dual L5; deferred **rq_116**; progress@1140 in 3
 
+
+### Tick 1137 - 2026-08-12T10:00:00Z
+
+- Unit: **rq_1137** (FOI-adjacent residual dual - **AGB Westerlo Jaarrekening 2025** Entity II after city)
+- Found (strong primary BBC JR2025 AGB 46p text; westerlo.be; KBO **0559.822.731**; Kasteelpark 6 2260; AD Jo Vankrunkelsven FD Erika Vriens):
+  - Assets **EUR1.618m** / equity **EUR0.203m** / debt total **EUR1.416m** / fin debt **EUR0.990m** (LT **EUR0.880m** / ST due **EUR0.110m**)
+  - New loans **andere entiteiten/city EUR0.177m** (=invest FOI) / repayments **EUR0.104m** / **bank interest EUR0 FOI**
+  - Cash **EUR0.357m DROP** (was **EUR0.456m**) / MVA **EUR0.991m**
+  - Exploitatie: ontvangsten **EUR0.877m** / uitgaven **EUR0.802m** / saldo **+EUR0.075m**
+  - **AFM -EUR0.029m NEG FOI** (MJP was **+EUR0.017m**) / gecorr AFM **+EUR0.002m** / BBR **EUR0.258m** / budget **-EUR0.029m**
+  - P&L **-EUR0.024m** / dividend **EUR0** (was **EUR0.055m**) / omzet **EUR0.871m** / goederen **EUR0.792m**
+  - Invest **EUR0.177m vs MJP EUR0.062m OVERSPEND FOI**
+  - Dual gap FOI: city-side AGB toelage ~**EUR0.611m** vs AGB T2 city werkingssub **EUR0**
+- Dual: city Westerlo already mined - not TE-additive; AGB dual residual now closed
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere full JR / Brakel GE+OCMW / Puurs / AGB Galmaarden residual next; progress@1140 in 2
+- Wrote: budgets +26 (bud_agw_*); commitments +6; leaderboard +10; sources +1; entity agb_westerlo; FOI **gap_agw_afm_neg_city_loans_invest_over_toelage_l5** prio9 ready + draft; PDF primary (not committed ~11MB); rq_1137=done; spawn **rq_1138**; ticks=1137
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1138** residual dual L5; deferred **rq_116**; progress@1140 in 2
+
