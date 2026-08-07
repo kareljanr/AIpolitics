@@ -15527,3 +15527,26 @@ Append-only. Each tick adds a short entry.
 
 - **paused=yes** (human). Scheduler cancelled.
 - Resume: set **paused=no** + recreate 1m watcher with fire_immediately.
+
+### Tick 1129 - 2026-08-12T06:00:00Z
+
+- Unit: **rq_1129** (FOI-adjacent residual dual - **AGB Koksijde Jaarrekening 2025** Entity II after city tick861)
+- Found (strong primary BBC JR2025 AGB 233p text; koksijde.be JR_BBC_Rvb20260615.pdf; KBO **0267.390.495**; NIS **38014**; Zeelaan 303 8670; Secr/Penningmeester Frederick Vens; RvB 15 jun 2026):
+  - Assets **EUR20.634m** (was **EUR20.844m**) / equity **EUR6.972m** / debt total **EUR13.662m** / fin debt **EUR7.375m DECLINE** (LT **EUR6.927m** / ST due **EUR0.448m**; was **EUR7.814m**)
+  - New loans **EUR0** vs MJP **EUR9.000m UNDRAWN FOI** / repayments **EUR0.440m**
+  - Cash **EUR2.225m JUMP** (was **EUR1.901m**) / cap-subs **EUR2.103m** / MVA **EUR13.674m** / FVA **EUR0**
+  - Exploitatie: ontvangsten **EUR7.577m** / uitgaven **EUR6.191m** / saldo **+EUR1.386m STRONG**
+  - AFM **+EUR0.946m STRONG FOI** / gecorr AFM **+EUR0.761m** / BBR **EUR0.572m** / budget **+EUR0.600m**
+  - P&L **+EUR0.535m** / dividend/rechthebbenden **EUR0.027m** (was **EUR0.205m**)
+  - Omzet werking **EUR7.503m** / city werkingssub **EUR50 near-zero** / goederen **EUR4.679m** / personeel **EUR1.047m** / interest **EUR0.199m**
+  - **Invest EUR0.347m vs MJP EUR2.802m MASSIVE UNDERSPEND FOI** (~**EUR2.455m** gap)
+  - Parking: rec **EUR3.990m** / private concession cost **EUR2.261m FOI** (2020-2029) / saldo **+EUR1.702m**
+  - Golf toegang **EUR2.799m** / pool rec **EUR0.398m** / energy+water **EUR0.415m**
+  - Presentiegelden **EUR0.039m** vs bud **EUR0.025m FOI** / VPB est **EUR0.194m FOI**
+  - Deelbalans city loan ST **EUR0.200m** — «balans NIET in evenwicht» FOI
+- Dual: city Koksijde fin debt 78m / AFM +10.3m (tick861) already on board - not TE-additive; AGB dual residual now closed
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere full JR / Brakel GE+OCMW / Puurs / AGB Galmaarden residual next; **progress@1130 NEXT**
+- Wrote: budgets +39 (bud_kxagb_*); commitments +7; leaderboard +10; sources +1; entity agb_koksijde; FOI **gap_kxagb_invest_underspend_loan_plan_concession_l5** prio9 ready + draft; PDF primary (not committed ~19MB); rq_1129=done; spawn **rq_1130**; ticks=1129
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1130** residual dual L5 + **progress@1130 decade**; deferred **rq_116**
+

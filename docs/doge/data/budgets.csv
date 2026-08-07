@@ -29766,3 +29766,42 @@ bud_ldagb_goederen_2025,agb_landen,2025,561807,,,bbc_jr_realized,src_landen_agb_
 bud_ldagb_huur_2025,agb_landen,2025,204312,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen huurlasten 0.204m FOI; tick1128
 bud_ldagb_vordering_city_2025,agb_landen,2025,130193,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen KT vordering niet-ruil (city subs) 0.130m FOI; tick1128
 bud_ldagb_mjp_werkingssub_2025,agb_landen,2025,323923,,,bbc_jr_realized,src_landen_agb_jr2025,strong,AGB Landen MJP city werkingssub was 0.324m vs realized 0.243m; tick1128
+bud_kxagb_assets_2025,agb_koksijde,2025,20634339,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Total assets YE2025 20.634m; tick1129
+bud_kxagb_equity_2025,agb_koksijde,2025,6972191,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Nettoactief YE2025 6.972m; tick1129
+bud_kxagb_debt_total_2025,agb_koksijde,2025,13662148,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Total schulden YE2025 13.662m; tick1129
+bud_kxagb_fin_debt_2025,agb_koksijde,2025,7374915,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Financiele schulden total YE2025 7.375m (LT 6.927 + ST due 0.448); tick1129
+bud_kxagb_fin_debt_lt_2025,agb_koksijde,2025,6927388,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Fin schulden LT YE2025 6.927m; tick1129
+bud_kxagb_fin_debt_st_due_2025,agb_koksijde,2025,447528,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.448m; tick1129
+bud_kxagb_cash_2025,agb_koksijde,2025,2225058,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Liquide middelen YE2025 2.225m (was 1.901m); tick1129
+bud_kxagb_cap_subs_2025,agb_koksijde,2025,2103440,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Kapitaalsubsidies YE2025 2.103m; tick1129
+bud_kxagb_mva_2025,agb_koksijde,2025,13674205,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Materiele vaste activa YE2025 13.674m; tick1129
+bud_kxagb_expl_rec_2025,agb_koksijde,2025,7577114,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Exploitatieontvangsten 7.577m; tick1129
+bud_kxagb_expl_exp_2025,agb_koksijde,2025,6191351,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Exploitatieuitgaven 6.191m; tick1129
+bud_kxagb_expl_saldo_2025,agb_koksijde,2025,1385763,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Exploitatiesaldo +1.386m STRONG; tick1129
+bud_kxagb_invest_2025,agb_koksijde,2025,346624,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Investeringsuitgaven 0.347m; tick1129
+bud_kxagb_invest_mjp_2025,agb_koksijde,2025,2801865,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,MJP invest krediet 2.802m; tick1129
+bud_kxagb_invest_underspend_2025,agb_koksijde,2025,2455241,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Invest underspend ~2.455m MASSIVE FOI; tick1129
+bud_kxagb_afm_2025,agb_koksijde,2025,946250,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,AFM +0.946m STRONG; tick1129
+bud_kxagb_afm_gecorr_2025,agb_koksijde,2025,760609,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Gecorrigeerde AFM +0.761m; tick1129
+bud_kxagb_bbr_2025,agb_koksijde,2025,572160,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Beschikbaar budgettair resultaat BBR 0.572m; tick1129
+bud_kxagb_budget_result_2025,agb_koksijde,2025,599627,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Budgettair resultaat boekjaar +0.600m; tick1129
+bud_kxagb_pl_2025,agb_koksijde,2025,534962,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,P&L overschot +0.535m; tick1129
+bud_kxagb_dividend_2025,agb_koksijde,2025,26749,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Rechthebbenden/dividend city 0.027m (was 0.205m); tick1129
+bud_kxagb_omzet_werking_2025,agb_koksijde,2025,7503262,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Ontvangsten uit werking T2 7.503m; tick1129
+bud_kxagb_goederen_2025,agb_koksijde,2025,4679381,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Goederen en diensten T2 4.679m; tick1129
+bud_kxagb_personeel_2025,agb_koksijde,2025,1047043,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Bezoldigingen T2 1.047m; tick1129
+bud_kxagb_interest_2025,agb_koksijde,2025,199394,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Rente financiele instellingen 0.199m; tick1129
+bud_kxagb_new_loans_2025,agb_koksijde,2025,0,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Nieuwe leningen 0 vs MJP 9.000m FOI; tick1129
+bud_kxagb_new_loans_mjp_2025,agb_koksijde,2025,9000000,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,MJP planned new loans 9.000m not drawn FOI; tick1129
+bud_kxagb_repay_2025,agb_koksijde,2025,439513,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Periodieke aflossingen 0.440m; tick1129
+bud_kxagb_parking_rec_2025,agb_koksijde,2025,3989741,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Parking ontvangsten ACT-7 3.990m; tick1129
+bud_kxagb_parking_conc_cost_2025,agb_koksijde,2025,2260843,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Parking concessiekosten prive-firma 2.261m FOI; tick1129
+bud_kxagb_parking_saldo_2025,agb_koksijde,2025,1702149,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Parking exploit saldo +1.702m; tick1129
+bud_kxagb_golf_toegang_2025,agb_koksijde,2025,2799303,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Golf toegangsgelden 2.799m; tick1129
+bud_kxagb_golf_rec_2025,agb_koksijde,2025,3179760,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Golf total receipts ~3.180m; tick1129
+bud_kxagb_pool_rec_2025,agb_koksijde,2025,397825,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Zwembad receipts 0.398m; tick1129
+bud_kxagb_presentiegeld_2025,agb_koksijde,2025,38550,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Presentiegelden bestuurders 0.039m vs bud 0.025m FOI; tick1129
+bud_kxagb_vpb_2025,agb_koksijde,2025,194452,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Geraamde vennootschapsbelasting 0.194m FOI; tick1129
+bud_kxagb_city_loan_st_2025,agb_koksijde,2025,200000,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Deelbalans city loan ST 0.200m imbalance FOI; tick1129
+bud_kxagb_energy_water_2025,agb_koksijde,2025,414591,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,Energie+water total 0.415m; tick1129
+bud_kxagb_werkingssub_2025,agb_koksijde,2025,50,,,jaarrekening_realized,src_koksijde_agb_jr2025,strong,City werkingssubsidie only 50 EUR near-zero; tick1129
