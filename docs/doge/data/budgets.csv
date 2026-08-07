@@ -30175,3 +30175,25 @@ bud_zkkb_budget_result_2025,zorg_klein_brabant,2025,-14297,,,bbc_jr_realized,src
 bud_zkkb_bbr_2025,zorg_klein_brabant,2025,2847,,,bbc_jr_realized,src_zkkb_jr2025_av,strong,Beschikbaar budgettair resultaat 0.003m THIN FOI; tick1143
 bud_zkkb_cum_budget_prior_2025,zorg_klein_brabant,2025,17145,,,bbc_jr_realized,src_zkkb_jr2025_av,strong,Gecumuleerd budgettair resultaat vorig BJ 0.017m; tick1143
 bud_zkkb_pl_2025,zorg_klein_brabant,2025,-612022,,,bbc_jr_realized,src_zkkb_jr2025_av,strong,Tekort boekjaar P&L -0.612m MASSIVE FOI (~23pct of assets); tick1143 HIGH
+bud_em_fiscal_total_2025,city_erpe_mere,2025,17129378,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,Fiscale ontvangsten+boeten total 17.129m 2025 (was 15.512m 2024); tick1144
+bud_em_fiscal_apb_2025,city_erpe_mere,2025,9839570,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,Aanvullende personenbelasting 9.840m 2025; tick1144
+bud_em_fiscal_ov_2025,city_erpe_mere,2025,6290661,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,Opcentiemen onroerende voorheffing 6.291m 2025; tick1144
+bud_em_fiscal_other_taxes_2025,city_erpe_mere,2025,638915,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,Andere belastingen en boeten 0.639m 2025; tick1144
+bud_em_gbb_expl_uit_2025,city_erpe_mere,2025,18996927,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,GBB verrichtingen zonder beleidsdoelstelling exploitatie uitgaven 18.997m (dominates budget); tick1144
+bud_em_gbb_expl_ont_2025,city_erpe_mere,2025,29279739,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,GBB exploitatie ontvangsten 29.280m; tick1144
+bud_em_gbb_expl_saldo_2025,city_erpe_mere,2025,10282812,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,GBB exploitatie saldo +10.283m; tick1144
+bud_em_gbb_invest_uit_2025,city_erpe_mere,2025,2607031,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,GBB investeringen uitgaven 2.607m vs MJP eindkrediet 4.110m UNDERSPEND FOI; tick1144
+bud_em_gbb_fin_uit_2025,city_erpe_mere,2025,786924,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,GBB financiering uitgaven 0.787m; tick1144
+bud_em_gbb_fin_ont_2025,city_erpe_mere,2025,-2175255,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,GBB financiering ontvangsten -2.175m (debt amortisation path FOI); tick1144
+bud_em_ld1_expl_uit_2025,city_erpe_mere,2025,6652512,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,LD-1 groene/veilige gemeente expl uitgaven 6.653m (incl police/HVZ path); tick1144
+bud_em_police_hvz_path_2025,city_erpe_mere,2025,4332563,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,ACT-7 PZ/HVZ ondersteuning + zonaal veiligheidsplan path 4.333m under LD-1; dual residual; tick1144
+bud_em_ld1_invest_uit_2025,city_erpe_mere,2025,879852,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,LD-1 investeringen uitgaven 0.880m; tick1144
+bud_em_ld2_expl_uit_2025,city_erpe_mere,2025,1098399,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,LD-2 actieve gemeente / vrijetijd expl uitgaven 1.098m; tick1144
+bud_em_ld3_expl_uit_2025,city_erpe_mere,2025,262314,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,LD-3 warme zorgzame gemeente expl uitgaven 0.262m; tick1144
+bud_em_ld4_expl_uit_2025,city_erpe_mere,2025,94388,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,LD-4 modern bestuur expl uitgaven 0.094m; tick1144
+bud_em_ld4_invest_uit_2025,city_erpe_mere,2025,223532,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,LD-4 investeringen 0.224m (incl admin centrum 0.156m); tick1144
+bud_em_cultuurhuis_cum_mva_2025,city_erpe_mere,2025,7089516,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,PRIO IP-1 Cultuurhuis MVA cum totaal 7.090m (YE2025 realized path 2020-25); 2025 alone 0.072m; tick1144
+bud_em_admin_centrum_cum_2025,city_erpe_mere,2025,873546,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,PRIO IP-4 Gebouwen administratief centrum cum 0.874m (2025 0.156m); tick1144
+bud_em_vacant_housing_tax_2025,city_erpe_mere,2025,184500,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,Leegstandsheffing 0.185m 2025 (was 0.126m); tick1144
+bud_em_writeoffs_ge_2025,city_erpe_mere,2025,6405,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,Oninbare vorderingen GE write-off proposal total 6405 EUR multi-year stock; tick1144
+bud_em_writeoffs_ocmw_2025,city_erpe_mere,2025,2617,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,Oninbare vorderingen OCMW write-off proposal total 2617 EUR; tick1144

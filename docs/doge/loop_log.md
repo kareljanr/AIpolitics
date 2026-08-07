@@ -15827,3 +15827,23 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1144** residual dual L5; deferred **rq_116**; progress@1150 in 7
 
+
+### Tick 1144 - 2026-08-12T14:00:00Z
+
+- Unit: **rq_1144** (FOI-adjacent residual dual - **Gemeente+OCMW Erpe-Mere Jaarrekening 2025 documentatie** primary; full BBC financial note missing)
+- Found (strong primary JR2025 documentatie 112p text; erpe-mere.be toelichting; KBO GE **0216.771.244** / OCMW **0216.771.343**; NIS **41082**; Oudenaardsesteenweg 458 9420; AD Bruno Van Maldegem FD Geert Thienpont; journal Budg **723271**):
+  - **Fiscal total EUR17.129m** (APB **EUR9.840m** / OV **EUR6.291m** / other tax+fines **EUR0.639m**; was 15.512m 2024)
+  - **GBB bulk:** expl uit **EUR18.997m** / ont **EUR29.280m** / saldo **+EUR10.283m**
+  - GBB invest uit **EUR2.607m vs MJP 4.110m UNDERSPEND FOI** / fin uit **EUR0.787m** / **fin ont -EUR2.175m debt path FOI**
+  - LD-1 expl **EUR6.653m** (police/HVZ ACT-7 path **EUR4.333m**) / invest **EUR0.880m**
+  - LD-2 expl **EUR1.098m** / LD-3 **EUR0.262m** / LD-4 **EUR0.094m** + invest **EUR0.224m**
+  - **Cultuurhuis MVA cum EUR7.090m** (2025 alone 0.072m) / admin centrum cum **EUR0.874m**
+  - Write-offs GE **EUR6.4k** / OCMW **EUR2.6k**
+  - **Missing public:** AFM / gecorr AFM / BBR / balanstotaal / equity / cash / fin debt T4 (full BBC financial note FOI)
+- Dual: Erpe-Mere first residual fill; full JR2024 on portal but 2025 only documentatie
+- Side: AGB De Panne JR2025 PDF **64MB image-only** (89p no text layer; decisions also scan) — OCR residual deferred
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Brakel GE+OCMW / Puurs GE+OCMW / AGB Galmaarden residual next; progress@1150 in 6
+- Wrote: budgets +22 (bud_em_*); commitments +6; leaderboard +7; sources +1; entity city_erpe_mere; FOI **gap_em_full_bbc_afm_debt_l5** prio9 ready + draft; PDF primary (not committed ~5.6MB); rq_1144=done; spawn **rq_1145**; ticks=1144
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1145** residual dual L5; deferred **rq_116**; progress@1150 in 6
+
