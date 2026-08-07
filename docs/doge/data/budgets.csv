@@ -30120,3 +30120,31 @@ bud_agiz_werkingssub_2025,agb_agiz_izegem,2025,3307,,,jaarrekening_realized,src_
 bud_agiz_goederen_2025,agb_agiz_izegem,2025,79156,,,jaarrekening_realized,src_agiz_jr2025,strong,Goederen en diensten 0.079m; tick1140
 bud_agiz_afschr_voorz_2025,agb_agiz_izegem,2025,624482,,,jaarrekening_realized,src_agiz_jr2025,strong,Afschrijvingen+voorzieningen 0.624m JUMP (incl 0.435m liquidatie); tick1140
 bud_agiz_cum_tekort_2025,agb_agiz_izegem,2025,-166327,,,jaarrekening_realized,src_agiz_jr2025,strong,Gecumuleerd tekort -0.166m; tick1140
+bud_agsr_assets_2025,agb_herentals_sr,2025,10494637,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Total assets YE2025 10.495m (was 11.554m); tick1141
+bud_agsr_equity_2025,agb_herentals_sr,2025,2575495,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Nettoactief YE2025 2.575m; tick1141
+bud_agsr_debt_total_2025,agb_herentals_sr,2025,7919142,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Schulden total YE2025 7.919m; tick1141
+bud_agsr_fin_debt_2025,agb_herentals_sr,2025,7771351,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Financiele schulden total 7.771m (LT 7.390 + ST due 0.381); tick1141
+bud_agsr_fin_debt_lt_2025,agb_herentals_sr,2025,7390405,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Fin schulden LT 7.390m; tick1141
+bud_agsr_fin_debt_st_due_2025,agb_herentals_sr,2025,380945,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Schulden LT vervallend 0.381m; tick1141
+bud_agsr_new_loans_2025,agb_herentals_sr,2025,136559,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Nieuwe leningen 0.137m (=invest); tick1141
+bud_agsr_repayments_2025,agb_herentals_sr,2025,385370,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Periodieke aflossingen 0.385m; tick1141
+bud_agsr_interest_2025,agb_herentals_sr,2025,6914,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Intresten op leningen 0.007m LOW FOI; tick1141
+bud_agsr_cash_2025,agb_herentals_sr,2025,625691,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Liquide middelen 0.626m JUMP (was 0.435m); tick1141
+bud_agsr_recv_st_2025,agb_herentals_sr,2025,1224686,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,KT vorderingen 1.225m HIGH (niet-ruil 1.149m); tick1141
+bud_agsr_mva_2025,agb_herentals_sr,2025,8624836,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Materiele vaste activa 8.625m; tick1141
+bud_agsr_leasing_mva_2025,agb_herentals_sr,2025,800970,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Leasing MVA 0.801m; tick1141
+bud_agsr_expl_ontv_2025,agb_herentals_sr,2025,1522254,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Exploitatieontvangsten 1.522m; tick1141
+bud_agsr_expl_uitg_2025,agb_herentals_sr,2025,1031068,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Exploitatieuitgaven 1.031m; tick1141
+bud_agsr_expl_saldo_2025,agb_herentals_sr,2025,491186,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Exploitatiesaldo +0.491m; tick1141
+bud_agsr_invest_2025,agb_herentals_sr,2025,136559,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Investeringsuitgaven 0.137m vs MJP 0.303 UNDERSPEND; tick1141
+bud_agsr_afm_2025,agb_herentals_sr,2025,105816,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,AFM +0.106m; tick1141
+bud_agsr_gecorr_afm_2025,agb_herentals_sr,2025,-150427,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Gecorrigeerde AFM -0.150m NEG FOI; tick1141
+bud_agsr_bbr_2025,agb_herentals_sr,2025,1709637,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Beschikbaar budgettair resultaat 1.710m; tick1141
+bud_agsr_budget_result_2025,agb_herentals_sr,2025,105816,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Budgettair resultaat boekjaar +0.106m; tick1141
+bud_agsr_pl_2025,agb_herentals_sr,2025,21274,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,P&L winst 0.021m (was 0.393m DROP); tick1141
+bud_agsr_dividend_2025,agb_herentals_sr,2025,4255,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Uitgekeerde winst/dividend 0.004m; tick1141
+bud_agsr_omzet_2025,agb_herentals_sr,2025,1513270,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Opbrengsten uit werking 1.513m; tick1141
+bud_agsr_prijssub_2025,agb_herentals_sr,2025,519456,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Prijssubsidie gemeente 0.519m (path to 0pct Nov2025); tick1141
+bud_agsr_goederen_2025,agb_herentals_sr,2025,995614,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Goederen en diensten 0.996m; tick1141
+bud_agsr_pool_rev_2025,agb_herentals_sr,2025,759974,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Zwembad/Netepark 6pct ontvangsten 0.760m JUMP; tick1141
+bud_agsr_gas_netepark_2025,agb_herentals_sr,2025,90653,,,jaarrekening_realized,src_herentals_agb_sr_jr2025,strong,Netepark gas 0.091m; tick1141

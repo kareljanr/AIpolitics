@@ -15761,3 +15761,24 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1141** residual dual L5; deferred **rq_116**; progress@1150 in 10
 
+
+### Tick 1141 - 2026-08-12T12:00:00Z
+
+- Unit: **rq_1141** (FOI-adjacent residual dual - **AGB Sport en Recreatie Herentals Jaarrekening 2025** Entity II after city tick845)
+- Found (strong primary BBC JR2025 AGB S&R 83p text; herentals.be; KBO **0872.086.121**; NIS **13011**; Augustijnenlaan 30 2200; AD Tanja Mattheus FD Muriel Poortmans; RvB 2 jun 2026):
+  - Assets **EUR10.495m** / equity **EUR2.575m** / debt total **EUR7.919m**
+  - Fin debt **EUR7.771m** (LT **EUR7.390m** / ST due **EUR0.381m**)
+  - New loans **EUR0.137m** / repayments **EUR0.385m** / **interest EUR0.007m LOW FOI** (~0.09% on stock)
+  - Cash **EUR0.626m JUMP** (was 0.435m) / **KT recv EUR1.225m HIGH** (niet-ruil 1.149m)
+  - Exploitatie: ontvangsten **EUR1.522m** / uitgaven **EUR1.031m** / saldo **+EUR0.491m**
+  - **Prijssub EUR0.519m** path cut to **0% from 1 Nov 2025** FOI
+  - AFM **+EUR0.106m** / **gecorr AFM -EUR0.150m NEG FOI** / BBR **EUR1.710m** / budget **+EUR0.106m**
+  - P&L **EUR0.021m DROP** (was 0.393m) / dividend **EUR0.004m**
+  - Invest **EUR0.137m vs MJP EUR0.303m UNDERSPEND** / leasing MVA **EUR0.801m**
+  - Pool/Netepark rev JUMP **EUR0.760m** vs MJP 0.584m; energy gas 0.091 / elec 0.107
+- Dual: city Herentals already mined (tick845) - **not TE-additive**; S&R dual residual closed (patrimonium AGB optional next)
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere / Brakel GE+OCMW / Puurs / AGB Galmaarden / AGB Herentals patrimonium residual next; progress@1150 in 9
+- Wrote: budgets +28 (bud_agsr_*); commitments +6; leaderboard +10; sources +1; entity agb_herentals_sr; FOI **gap_agsr_gecorr_afm_neg_debt_prijssub_zero_l5** prio9 ready + draft; PDF primary (not committed ~3MB); rq_1141=done; spawn **rq_1142**; ticks=1141
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1142** residual dual L5; deferred **rq_116**; progress@1150 in 9
+
