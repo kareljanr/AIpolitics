@@ -30219,3 +30219,15 @@ bud_vors_sd5_fin_uit_2025,city_vorselaar,2025,195180,,,bbc_jr_realized,src_vorse
 bud_vors_sd5_fin_ont_2025,city_vorselaar,2025,86087,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,SD5 financiering ontvangsten 0.086m (vs MJP 3.098m planned loans not drawn FOI); tick1145
 bud_vors_staff_vte_2025,city_vorselaar,2025,78,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,Personeelsinzet 78.2 VTE YE2025 (OMGEVING 34.7 WELZIJN 20.1); tick1145 note amount is VTE not EUR
 bud_vors_property_acq_cum_2025,city_vorselaar,2025,1859140,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,PRIO property verwerving MVA cum 1.859m (2025 spend 0; sales 0.590m in 2024); tick1145
+bud_puurs_ge_assets_2025,city_puurs_sint_amands,2025,210237220,,,bbc_jr_realized,src_puurs_ge_jr2025_av,strong,Balanstotaal YE2025 210.237m GR vaststelling; tick1146
+bud_puurs_ge_afm_2025,city_puurs_sint_amands,2025,1643990,,,bbc_jr_realized,src_puurs_ge_jr2025_av,strong,AFM +1.644m positive while budget -1.582m and P&L -4.881m FOI recon; tick1146
+bud_puurs_ge_budget_result_2025,city_puurs_sint_amands,2025,-1581961,,,bbc_jr_realized,src_puurs_ge_jr2025_av,strong,Budgettair resultaat boekjaar -1.582m; tick1146
+bud_puurs_ge_bbr_2025,city_puurs_sint_amands,2025,3768013,,,bbc_jr_realized,src_puurs_ge_jr2025_av,strong,Beschikbaar budgettair resultaat 3.768m; tick1146
+bud_puurs_ge_cum_budget_prior_2025,city_puurs_sint_amands,2025,5349974,,,bbc_jr_realized,src_puurs_ge_jr2025_av,strong,Gecumuleerd budgettair resultaat vorig BJ 5.350m; tick1146
+bud_puurs_ge_pl_2025,city_puurs_sint_amands,2025,-4880516,,,bbc_jr_realized,src_puurs_ge_jr2025_av,strong,Tekort boekjaar P&L -4.881m MASSIVE FOI (~2.3pct of 210m assets); tick1146 HIGH
+bud_puurs_agb_assets_2025,agb_puurs_sint_amands,2025,22815652,,,bbc_jr_realized,src_puurs_agb_jr2025_av,strong,AGB balanstotaal YE2025 22.816m RvB vaststelling; tick1146
+bud_puurs_agb_afm_2025,agb_puurs_sint_amands,2025,421125,,,bbc_jr_realized,src_puurs_agb_jr2025_av,strong,AGB AFM +0.421m; tick1146
+bud_puurs_agb_budget_result_2025,agb_puurs_sint_amands,2025,68663,,,bbc_jr_realized,src_puurs_agb_jr2025_av,strong,AGB budget +0.069m; tick1146
+bud_puurs_agb_bbr_2025,agb_puurs_sint_amands,2025,145763,,,bbc_jr_realized,src_puurs_agb_jr2025_av,strong,AGB BBR 0.146m; tick1146
+bud_puurs_agb_cum_budget_prior_2025,agb_puurs_sint_amands,2025,77100,,,bbc_jr_realized,src_puurs_agb_jr2025_av,strong,AGB cum budget prior 0.077m; tick1146
+bud_puurs_agb_pl_2025,agb_puurs_sint_amands,2025,514720,,,bbc_jr_realized,src_puurs_agb_jr2025_av,strong,AGB overschot P&L +0.515m; tick1146

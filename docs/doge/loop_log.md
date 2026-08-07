@@ -15868,3 +15868,17 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1146** residual dual L5; deferred **rq_116**; progress@1150 in 5
 
+
+### Tick 1146 - 2026-08-12T15:00:00Z
+
+- Unit: **rq_1146** (FOI-adjacent residual dual - **Gemeente+OCMW Puurs-Sint-Amands + AGB JR2025** AV saldi after ZKKB Entity II)
+- Found (strong primary GR/RvB uittreksels 29.06.2026 echo portal; AD Ellen De Vos):
+  - **GE+OCMW:** assets **EUR210.237m** / AFM **+EUR1.644m** / budget **-EUR1.582m** / BBR **EUR3.768m** / cum prior **EUR5.350m** / **P&L -EUR4.881m MASSIVE** (~2.3pct assets) FOI recon
+  - **AGB:** assets **EUR22.816m** / AFM **+EUR0.421m** / budget **+EUR0.069m** / BBR **EUR0.146m** / cum prior **EUR0.077m** / **P&L +EUR0.515m** (revisor Callens Vandelanotte; Voorzitter Koen Van den Heuvel)
+  - Dual: ZKKB already mined (tick1143) - not TE-additive; AGB dual residual closed for saldi layer
+  - **Missing public:** full BBC financial notes GE+AGB (T1/T4/expl) - FOI
+- Note: Oosterzele / Nijlen login-wall / Bornem JR2024 only / De Panne OCR / Schelle GE+OCMW / Brakel GE+OCMW echo / AGB Galmaarden residual next; progress@1150 in 4
+- Wrote: budgets +12 (bud_puurs_*); commitments +6; leaderboard +8; sources +2; entity agb_puurs_sint_amands + city notes; FOI **gap_puurs_ge_full_bbc_pl_neg_l5** prio9 + **gap_puurs_agb_full_bbc_l5** prio8 ready + drafts; PDF extracts primary (not committed); rq_1146=done; spawn **rq_1147**; ticks=1146
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1147** residual dual L5; deferred **rq_116**; progress@1150 in 4
+

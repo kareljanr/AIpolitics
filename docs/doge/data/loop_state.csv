@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-12T14:30:00Z,rq_1145,1145,no,last tick1145 Vorselaar JR2025 ODAA fiscal 6.31m SD expl 13.3/15.1m police 0.74m Agion 2.5m FOI full BBC; next rq_1146 residual dual L5; progress@1150 in 5; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-12T15:00:00Z,rq_1146,1146,no,last tick1146 Puurs GE+OCMW assets 210m AFM +1.64m P&L -4.88m MASSIVE + AGB 22.8m P&L +0.51m FOI full BBC; next rq_1147 residual dual L5; progress@1150 in 4; rq_116 deferred; continuous hole_fill
