@@ -16636,3 +16636,18 @@ Append-only. Each tick adds a short entry.
 - Refreshed `progress_every_10_ticks.md` (layers A-E) + `doge_waste_top10_current.md`.
 - Inventory: budgets ~31520 · commitments ~4154 · leaderboard ~6307 · entities ~918 · sources ~2105 · FOI ready ~833 / answered ~9 / partial ~27 / total ~881.
 - Pure annual waste top10 unchanged (GIP/fossil/cars/cheque/reporte). Dual residual 1181-1190: Poperinge leasing+CRITICAL cash · Ieper Vauban/Musea debt JUMP · Lommel Sport AFM NEG · Nijlen zero-sub AGB · Oosterzele SPA FOI.
+
+### Tick 1191 - 2026-08-08T13:00:00Z
+
+- Unit: **rq_1191** (FOI-adjacent residual dual - **Bornem GE/OCMW + AGB Bornem JR2025**)
+- Search (honest, primary-only):
+  - Official [jaarrekening page](https://www.bornem.be/jaarrekening-gemeente-ocmw-en-agb): **only JR2024** BBC G&O + AGB (+ vaststellingsbesluiten GR 14.10.2025 / web 16.10.2025)
+  - Older JR on request via **financien@bornem.be** — **JR2025 not listed**
+  - `bornem-echo.cipalschaubroeck.be` raadpleegomgeving: JS kalender/lijst — **no open SSR JR2025 attachment**
+  - AGB Bornem **KBO 0877.556.624** (Hingenesteenweg 13); GR livestream 9.06.2026 noted, no euro extract
+- Found euros 2025: **none inventable**
+- Dual: Bornem residual → **FOI full package**; continue residual dual VL
+- Wrote: entities city_bornem + agb_bornem; sources +2; FOI **gap_bornem_dual_jr2025_ge_ocmw_agb_l5** prio8 ready + draft; rq_1191=done; spawn **rq_1192**; ticks=1191
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1192** residual dual L5 VL; deferred **rq_116**
+- Git: pull may be blocked by unstaged local noise - continue on local if needed
