@@ -31256,3 +31256,34 @@ bud_agbherk_dividend_2025,agb_herent_de_kouter,2025,1563,,,BBC JR2025 primary,sr
 bud_agbherk_depr_2025,agb_herent_de_kouter,2025,771736,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Afschrijvingen J5 0.772m; tick1181
 bud_agbherk_goods_services_2025,agb_herent_de_kouter,2025,925139,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Goederen en diensten 0.925m; tick1181
 bud_agbherk_bbr_prior_2025,agb_herent_de_kouter,2025,229798,,,BBC JR2025 primary,src_agb_herent_de_kouter_jr2025,strong,Gecumuleerd BBR vorig boekjaar 0.230m (drop source); tick1181
+bud_agbvoss_assets_2025,agb_vosselaar,2025,946259,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Assets balanstotaal YE2025 0.946m; tick1182
+bud_agbvoss_equity_2025,agb_vosselaar,2025,219456,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Nettoactief YE2025 0.219m; tick1182
+bud_agbvoss_cum_pnl_2025,agb_vosselaar,2025,194456,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Gecumuleerd overschot YE2025 0.194m; tick1182
+bud_agbvoss_other_netto_2025,agb_vosselaar,2025,25000,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Overig nettoactief YE2025 0.025m; tick1182
+bud_agbvoss_debt_total_2025,agb_vosselaar,2025,726802,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Schulden total YE2025 0.727m; tick1182
+bud_agbvoss_fin_debt_2025,agb_vosselaar,2025,708363,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Fin schulden T4 total YE2025 0.708m (city loans); tick1182
+bud_agbvoss_fin_debt_lt_2025,agb_vosselaar,2025,628333,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Fin schulden LT YE2025 0.628m; tick1182
+bud_agbvoss_fin_debt_st_due_2025,agb_vosselaar,2025,80030,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Fin schulden LT vervallend YE2025 0.080m; tick1182
+bud_agbvoss_cash_2025,agb_vosselaar,2025,22783,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Liquide middelen YE2025 0.023m CRITICAL thin; tick1182
+bud_agbvoss_mva_2025,agb_vosselaar,2025,712469,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,MVA YE2025 0.712m; tick1182
+bud_agbvoss_mva_buildings_2025,agb_vosselaar,2025,545682,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,MVA terreinen/gebouwen YE2025 0.546m; tick1182
+bud_agbvoss_st_nonruil_recv_2025,agb_vosselaar,2025,179641,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,ST vorderingen niet-ruil YE2025 0.180m; tick1182
+bud_agbvoss_st_recv_total_2025,agb_vosselaar,2025,209647,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,ST vorderingen total YE2025 0.210m; tick1182
+bud_agbvoss_expl_rec_2025,agb_vosselaar,2025,295903,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Exploitatieontvangsten 0.296m; tick1182
+bud_agbvoss_expl_exp_2025,agb_vosselaar,2025,216909,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Exploitatieuitgaven 0.217m; tick1182
+bud_agbvoss_expl_saldo_2025,agb_vosselaar,2025,78994,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Exploitatiesaldo +0.079m; tick1182
+bud_agbvoss_werking_rec_2025,agb_vosselaar,2025,295903,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Ontvangsten uit de werking 0.296m (no prijs/werkingsub 2025); tick1182
+bud_agbvoss_invest_exp_2025,agb_vosselaar,2025,30711,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Investeringsuitgaven 0.031m UNDER vs MJP 0.113m; tick1182
+bud_agbvoss_new_loans_2025,agb_vosselaar,2025,30711,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Nieuwe leningen bij andere entiteiten 0.031m (=invest); tick1182
+bud_agbvoss_repay_2025,agb_vosselaar,2025,79422,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Periodieke aflossingen 0.079m; tick1182
+bud_agbvoss_fin_saldo_2025,agb_vosselaar,2025,-48711,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Financieringssaldo -0.049m; tick1182
+bud_agbvoss_budget_result_2025,agb_vosselaar,2025,-428,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Budgettair resultaat boekjaar -0.0004m; tick1182
+bud_agbvoss_bbr_2025,agb_vosselaar,2025,217948,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Beschikbaar BBR YE2025 0.218m; tick1182
+bud_agbvoss_afm_2025,agb_vosselaar,2025,-428,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,AFM -0.0004m NEG thin; tick1182
+bud_agbvoss_afm_gecorr_2025,agb_vosselaar,2025,18428,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Gecorr AFM +0.018m POS thin; tick1182
+bud_agbvoss_aangewezen_amort_2025,agb_vosselaar,2025,60566,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Gecorrigeerde aflossingen 0.061m; tick1182
+bud_agbvoss_pnl_2025,agb_vosselaar,2025,457,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,P&L +0.0005m; tick1182
+bud_agbvoss_dividend_2025,agb_vosselaar,2025,91,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Rechthebbenden/dividend 0.0001m while AFM NEG; tick1182
+bud_agbvoss_depr_2025,agb_vosselaar,2025,78550,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Afschrijvingen 0.079m; tick1182
+bud_agbvoss_goods_services_2025,agb_vosselaar,2025,214021,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Goederen en diensten 0.214m; tick1182
+bud_agbvoss_staff_2025,agb_vosselaar,2025,0,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Personeelsinzet ZERO; tick1182

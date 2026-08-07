@@ -16480,3 +16480,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1182** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1182 - 2026-08-08T08:30:00Z
+
+- Unit: **rq_1182** (FOI-adjacent residual dual - **AGB Vosselaar Jaarrekening 2025** Entity II vrijetijd after city GE tick1030)
+- Found (strong primary BBC 121p Jun 2026; KBO **0664.728.726**; Cingel 7; AD Bert Joppen FD Nick Lavrijssen):
+  - Assets **EUR0.946m** / equity **EUR0.219m** / cash **EUR0.023m CRITICAL**
+  - Fin debt T4 **EUR0.708m** (LT 0.628 / ST due 0.080); new city loans **0.031m**; repay **0.079m**
+  - BBR **EUR0.218m** / **AFM EUR-0.0004m NEG thin** / gecorr AFM **+0.018m**
+  - Expl **EUR0.296m / 0.217m** saldo **+0.079m** / werking only (no prijs/werkingsub 2025)
+  - Invest **EUR0.031m UNDER** vs MJP 0.113m; PnL **+EUR0.0005m** / div **0.0001m while AFM NEG**; **zero staff**
+  - ST non-ruil recv **0.180m**; loans from **andere entiteiten** (city-lender pattern)
+- Dual: city Vosselaar GE tick1030 - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: AGB Hoeilaart Holar PDF public / Oosterzele / Nijlen residual next
+- Wrote: budgets +31 (bud_agbvoss_*); commitments +6; leaderboard +8; sources +1; entity agb_vosselaar; FOI **gap_agb_voss_afm_neg_cash_critical_city_loans_0_71m_l5** prio8 ready + draft; PDF primary (not committed ~8.9MB); rq_1182=done; spawn **rq_1183**; ticks=1182
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1183** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local

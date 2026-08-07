@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T08:00:00Z,rq_1181,1181,no,tick1181 AGB De Kouter Herent dual residual kapitaalsverm 0.65m BBR thin 0.02m invest JUMP 0.30m werking 1.67m zero debt FOI; next rq_1182 residual dual L5 Oosterzele/Nijlen; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T08:30:00Z,rq_1182,1182,no,tick1182 AGB Vosselaar dual residual cash CRITICAL 0.02m fin debt 0.71m city loans AFM NEG thin FOI; next rq_1183 residual dual L5 Hoeilaart Holar/Oosterzele; rq_116 deferred; continuous hole_fill
