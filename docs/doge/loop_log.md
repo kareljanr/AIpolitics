@@ -17122,3 +17122,14 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_1225** residual dual L5 VL; deferred **rq_116**
 
+
+## Tick 1225 — 2026-08-09T06:00:00Z — rq_1225 AGB Bexit Tervuren dual residual JR2025
+
+- Unit: **rq_1225** (residual dual L5 VL — **AGB Bexit Tervuren full BBC JR2025**)
+- Primary: https://tervuren-echo.cipalschaubroeck.be/raadpleegomgeving/document/680c415f-20cc-4e40-82a1-01ba1a37702d (141p); KBO **0866.790.614**; Secr Dirk Stoffelen FD Michèle Roelandt
+- Key € (strong): **fin debt 19.172m** · **AFM −0.036m NEG** · **gecorr AFM −0.264m DEEP NEG** · budget **−0.029m** · BBR **0.429m** · expl **+1.370m** · invest **−0.539m** · cash **0.436m DROP** · equity **1.108m** · assets **21.681m** · PnL **−0.155m** · new loans city-path **0.546m** · ST due **1.324m** · interest city **0.099m**
+- Dual: city Tervuren stub created — AGB dual residual closed for full BBC layer
+- Wrote: budgets +23; commitments +8; leaderboard +8; sources +1; entities city_tervuren + **agb_bexit**; FOI **gap_agb_bex_afm_neg_0_04m_gecorr_0_26m_fin_debt_19_2m_city_loan_path_pnl_neg_0_15m_l5** prio9 ready + draft; rq_1225=done; spawn **rq_1226**; ticks=1225
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_1226** residual dual L5 VL; deferred **rq_116**
+

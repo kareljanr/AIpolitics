@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T05:30:00Z,rq_1224,1224,no,tick1224 AGB Glabbeek full BBC AFM -0.08m ST due 1.31m wall PnL -0.23m debt 3.08m FOI; next rq_1225 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-09T06:00:00Z,rq_1225,1225,no,tick1225 AGB Bexit Tervuren full BBC debt 19.2m AFM -0.04m gecorr -0.26m PnL -0.15m FOI; next rq_1226 residual dual L5 VL; rq_116 deferred; continuous hole_fill

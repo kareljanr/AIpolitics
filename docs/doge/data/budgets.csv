@@ -32502,3 +32502,26 @@ bud_agbgla_new_loans_2025,agb_glabbeek,2025,200000,,,bbc_jr_realized,src_agb_gla
 bud_agbgla_pnl_2025,agb_glabbeek,2025,-229079,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,PnL -0.229m DEEP NEG; tick1224
 bud_agbgla_goods_2025,agb_glabbeek,2025,266555,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Goederen en diensten 0.267m (staff 0); tick1224
 bud_agbgla_interest_2025,agb_glabbeek,2025,8566,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Rente bank 0.009m (ING fixed; city renteloos); tick1224
+bud_agbbex_expl_ont_2025,agb_bexit,2025,3266142,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Exploitatieontvangsten 3.266m; tick1225
+bud_agbbex_expl_uit_2025,agb_bexit,2025,1895838,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Exploitatieuitgaven 1.896m; tick1225
+bud_agbbex_expl_saldo_2025,agb_bexit,2025,1370304,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Exploitatiesaldo +1.370m; tick1225
+bud_agbbex_invest_uit_2025,agb_bexit,2025,538903,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Investeringsuitgaven 0.539m; tick1225
+bud_agbbex_fin_ont_2025,agb_bexit,2025,546436,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Fin ont 0.546m new loans andere entiteiten; tick1225
+bud_agbbex_fin_uit_2025,agb_bexit,2025,1406737,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Periodieke aflossingen 1.407m; tick1225
+bud_agbbex_budget_2025,agb_bexit,2025,-28900,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Budgettair resultaat -0.029m NEG; tick1225
+bud_agbbex_bbr_2025,agb_bexit,2025,429409,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,BBR beschikbaar +0.429m; tick1225
+bud_agbbex_afm_2025,agb_bexit,2025,-36433,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,AFM -0.036m NEG; tick1225
+bud_agbbex_afm_gecorr_2025,agb_bexit,2025,-264309,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Gecorr AFM -0.264m DEEP NEG CRITICAL; tick1225
+bud_agbbex_assets_2025,agb_bexit,2025,21681284,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Assets YE2025 21.681m; tick1225
+bud_agbbex_cash_2025,agb_bexit,2025,435565,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Cash YE2025 0.436m DROP from 0.750m; tick1225
+bud_agbbex_mva_2025,agb_bexit,2025,20241814,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,MVA 20.242m; tick1225
+bud_agbbex_equity_2025,agb_bexit,2025,1107833,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Nettoactief YE2025 1.108m thin vs debt; tick1225
+bud_agbbex_cum_pnl_2025,agb_bexit,2025,1060110,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Gecumuleerd overschot 1.060m DROP from 1.215m; tick1225
+bud_agbbex_fin_debt_2025,agb_bexit,2025,19172366,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Fin schulden total 19.172m; tick1225
+bud_agbbex_fin_debt_lt_2025,agb_bexit,2025,17848341,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Fin schulden LT 17.848m; tick1225
+bud_agbbex_fin_debt_st_due_2025,agb_bexit,2025,1324025,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Fin schulden LT binnen jaar 1.324m; tick1225
+bud_agbbex_new_loans_2025,agb_bexit,2025,546436,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Nieuwe leningen city-path 0.546m; tick1225
+bud_agbbex_pnl_2025,agb_bexit,2025,-154527,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,PnL -0.155m NEG; tick1225
+bud_agbbex_goods_2025,agb_bexit,2025,1762763,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Goederen en diensten 1.763m (staff 0); tick1225
+bud_agbbex_interest_2025,agb_bexit,2025,99178,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Rente aan andere entiteiten (city) 0.099m; tick1225
+bud_agbbex_nonruil_recv_2025,agb_bexit,2025,632291,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,ST non-ruil recv 0.632m; tick1225
