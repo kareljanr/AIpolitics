@@ -17257,3 +17257,9 @@ Append-only. Each tick adds a short entry.
 - EUR strong: assets **77.3m**; fin debt **15.7m**; leasing MVA **11.4m**; AFM **-0.640m** NEG; gecorr AFM **+0.827m**; cum loss **-4.435m**; budget **-1.560m**; BBR **+8.058m**; OCMW dual sub **1.730m**; city dual **0.365m**; personnel **13.0m** (+17%); cash DROP **7.0m**.
 - CSVs: sources/entities/budgets+41/commitments+7/leaderboard+7 + FOI ready `gap_orion_afm_neg_0_64m_fin_debt_15_7m_cum_loss_4_43m_ocmw_sub_1_73m_city_0_37m_l5` (not sent); rq_1244=done; spawn rq_1245.
 - Next: rq_1245 residual dual L5 VL JR2025 hole_fill.
+
+### Tick 1245 - 2026-08-08 - rq_1245 WV Dodoens Mechelen dual residual
+- Unit: Welzijnsvereniging Dodoens JR2025 city dual pension shell Entity II (KBO 0267.313.291; 68p text primary).
+- EUR strong: assets **4.35m**; equity **-18.875m** DEEP NEG; cum loss **-20.270m** DEEP; pension LT **17.311m**; AFM **-0.904m** NEG; gecorr **-0.614m**; BBR **-0.198m** NEG; budget **-0.904m**; city toelage collapse **0.065m** (budget 0.500m); cash **39k** THIN; personnel **3.05m**; respo cash **1.98m**; PnL **-1.832m**.
+- CSVs: sources/entities/budgets+35/commitments+7/leaderboard+7 + FOI ready `gap_dodoens_equity_neg_18_9m_cum_loss_20_3m_pension_17_3m_afm_neg_0_90m_city_sub_0_07m_l5` (not sent); rq_1245=done; spawn rq_1246.
+- Next: rq_1246 residual dual L5 VL JR2025 hole_fill.

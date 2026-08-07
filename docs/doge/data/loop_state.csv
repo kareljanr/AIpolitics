@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T01:55:00Z,rq_1244,1244,no,tick1244 Zorggroep Orion dual residual fin debt 15.7m AFM -0.64m cum loss -4.43m OCMW sub 1.73m FOI ready; next rq_1245 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T02:10:00Z,rq_1245,1245,no,tick1245 WV Dodoens dual residual equity -18.9m cum loss -20.3m pension 17.3m AFM -0.90m city sub collapse FOI ready; next rq_1246 residual dual L5 VL; continuous hole_fill

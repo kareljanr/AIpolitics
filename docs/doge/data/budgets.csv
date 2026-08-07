@@ -33080,3 +33080,38 @@ bud_orion_interest_2025,zorggroep_orion,2025,358862,,,bbc_jr_realized,src_zorggr
 bud_orion_interest_other_2025,zorggroep_orion,2025,109291,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Intresten aan andere entiteiten 0.109m; tick1244
 bud_orion_costs_2025,zorggroep_orion,2025,21512963,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,J5 costs total 21.513m; tick1244
 bud_orion_fin_ontv_2025,zorggroep_orion,2025,122580,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Financieringsontvangsten 0.123m; tick1244
+bud_dod_assets_2025,zorg_wv_dodoens,2025,4348788,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Assets balanstotaal YE2025 4.349m; tick1245
+bud_dod_equity_2025,zorg_wv_dodoens,2025,-18875263,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Nettoactief YE2025 -18.875m DEEP NEG; tick1245
+bud_dod_cum_loss_2025,zorg_wv_dodoens,2025,-20269840,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Gecumuleerd tekort YE2025 -20.270m DEEP; tick1245
+bud_dod_debt_total_2025,zorg_wv_dodoens,2025,23224050,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Schulden total YE2025 23.224m; tick1245
+bud_dod_fin_debt_2025,zorg_wv_dodoens,2025,601000,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Fin schulden total YE2025 0.601m (LT 0.233 + ST due 0.368); tick1245
+bud_dod_fin_debt_lt_2025,zorg_wv_dodoens,2025,233000,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Fin schulden LT YE2025 0.233m; tick1245
+bud_dod_fin_debt_st_due_2025,zorg_wv_dodoens,2025,368000,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Fin schulden LT vervallend YE2025 0.368m; tick1245
+bud_dod_cash_2025,zorg_wv_dodoens,2025,38954,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Liquide middelen YE2025 0.039m THIN DROP (was 0.547m); tick1245
+bud_dod_st_recv_2025,zorg_wv_dodoens,2025,2664925,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Vorderingen KT total YE2025 2.665m; tick1245
+bud_dod_st_nonruil_recv_2025,zorg_wv_dodoens,2025,2581097,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Vorderingen niet-ruil KT YE2025 2.581m; tick1245
+bud_dod_pension_lt_2025,zorg_wv_dodoens,2025,17310510,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Pensioenvoorzieningen LT YE2025 17.311m; tick1245
+bud_dod_pension_st_prov_2025,zorg_wv_dodoens,2025,2410950,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Voorzieningen risico ST YE2025 2.411m (incl pension slice); tick1245
+bud_dod_mva_2025,zorg_wv_dodoens,2025,1627703,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Materiele VA YE2025 1.628m; tick1245
+bud_dod_cap_subs_2025,zorg_wv_dodoens,2025,624067,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Kapitaalssubsidies YE2025 0.624m; tick1245
+bud_dod_expl_rec_2025,zorg_wv_dodoens,2025,2614301,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Exploitatieontvangsten 2.614m; tick1245
+bud_dod_expl_exp_2025,zorg_wv_dodoens,2025,3150538,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Exploitatieuitgaven 3.151m; tick1245
+bud_dod_expl_saldo_2025,zorg_wv_dodoens,2025,-536237,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Exploitatiesaldo -0.536m NEG; tick1245
+bud_dod_fin_saldo_2025,zorg_wv_dodoens,2025,-368000,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Financieringssaldo -0.368m; tick1245
+bud_dod_budget_result_2025,zorg_wv_dodoens,2025,-904237,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Budgettair resultaat boekjaar -0.904m NEG; tick1245
+bud_dod_cumul_budget_2025,zorg_wv_dodoens,2025,-197711,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Gecumuleerd budgettair resultaat -0.198m NEG; tick1245
+bud_dod_bbr_2025,zorg_wv_dodoens,2025,-197711,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,BBR -0.198m NEG; tick1245
+bud_dod_afm_2025,zorg_wv_dodoens,2025,-904237,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,AFM -0.904m NEG; tick1245
+bud_dod_gecorr_afm_2025,zorg_wv_dodoens,2025,-613757,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Gecorrigeerde AFM -0.614m NEG; tick1245
+bud_dod_pnl_2025,zorg_wv_dodoens,2025,-1832381,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,PnL tekort -1.832m; tick1245
+bud_dod_personnel_2025,zorg_wv_dodoens,2025,3052675,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Bezoldigingen 3.053m (J5); tick1245
+bud_dod_respo_cash_2025,zorg_wv_dodoens,2025,1982064,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Responsabiliseringsbijdrage cash 1.982m; tick1245
+bud_dod_city_sub_2025,zorg_wv_dodoens,2025,65485,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,City dual toelage only 0.065m (budget 0.500m); tick1245
+bud_dod_sub_total_2025,zorg_wv_dodoens,2025,1777773,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Werkingssubsidies total 1.778m; tick1245
+bud_dod_sub_alg_2025,zorg_wv_dodoens,2025,1161432,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Algemene werkingssubsidies 1.161m; tick1245
+bud_dod_sub_spec_2025,zorg_wv_dodoens,2025,616341,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Specifieke werkingssubsidies 0.616m (Emmaus/AZ); tick1245
+bud_dod_hospital_recup_2025,zorg_wv_dodoens,2025,813592,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Recuperatie loonkost ziekenhuizen 0.814m; tick1245
+bud_dod_respo_ontv_2025,zorg_wv_dodoens,2025,1095946,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Subsidie respo ontvangst 1.096m; tick1245
+bud_dod_repayments_2025,zorg_wv_dodoens,2025,368000,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Periodieke aflossingen 0.368m; tick1245
+bud_dod_costs_2025,zorg_wv_dodoens,2025,4485410,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,J5 costs total 4.485m; tick1245
+bud_dod_oud_gasthuis_sale_plan_2026,zorg_wv_dodoens,2025,1650000,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Planned sale Oud Gasthuis 1.650m deferred to 2026; tick1245
