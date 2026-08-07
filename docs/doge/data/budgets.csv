@@ -31001,3 +31001,36 @@ bud_agbmaas_minderwaarde_2025,agb_maasmechelen,2025,101220,,,BBC JR2025 primary,
 bud_agbmaas_interest_2025,agb_maasmechelen,2025,173742,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Intresten op leningen kengetal 0.174m; tick1172
 bud_agbmaas_fin_costs_2025,agb_maasmechelen,2025,362786,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Financiele kosten J5 0.363m; tick1172
 bud_agbmaas_other_op_rec_2025,agb_maasmechelen,2025,1436728,,,BBC JR2025 primary,src_agb_maasmechelen_jr2025,strong,Andere operationele opbrengsten J5 1.437m; tick1172
+bud_agbsam_assets_2025,agb_sam_mechelen,2025,20433985,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Assets balanstotaal YE2025 20.434m DROP from 22.071m; tick1173
+bud_agbsam_equity_2025,agb_sam_mechelen,2025,668253,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Nettoactief YE2025 0.668m DROP from 0.758m; tick1173
+bud_agbsam_cum_pnl_2025,agb_sam_mechelen,2025,71278,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Gecumuleerd overschot YE2025 0.071m DROP from 0.140m; tick1173
+bud_agbsam_cap_subs_2025,agb_sam_mechelen,2025,446975,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Kapitaalssubsidies YE2025 0.447m; tick1173
+bud_agbsam_other_netto_2025,agb_sam_mechelen,2025,150000,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Overig nettoactief YE2025 0.150m; tick1173
+bud_agbsam_debt_total_2025,agb_sam_mechelen,2025,19765732,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Schulden total YE2025 19.766m; tick1173
+bud_agbsam_fin_debt_2025,agb_sam_mechelen,2025,18053998,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Fin schulden T4 total YE2025 18.054m city loans DECLINING; tick1173
+bud_agbsam_fin_debt_lt_2025,agb_sam_mechelen,2025,16670060,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Fin schulden LT YE2025 16.670m; tick1173
+bud_agbsam_fin_debt_st_due_2025,agb_sam_mechelen,2025,1383938,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Fin schulden LT vervallend YE2025 1.384m; tick1173
+bud_agbsam_cash_2025,agb_sam_mechelen,2025,299313,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Liquide middelen YE2025 0.299m JUMP from 0.076m; tick1173
+bud_agbsam_mva_2025,agb_sam_mechelen,2025,19054431,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,MVA YE2025 19.054m; tick1173
+bud_agbsam_mva_buildings_2025,agb_sam_mechelen,2025,18886996,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,MVA terreinen/gebouwen YE2025 18.887m; tick1173
+bud_agbsam_st_nonruil_recv_2025,agb_sam_mechelen,2025,767249,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,ST vorderingen niet-ruil YE2025 0.767m; tick1173
+bud_agbsam_pension_prov_2025,agb_sam_mechelen,2025,250528,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Pension provisie LT YE2025 0.251m JUMP from 0.132m; tick1173
+bud_agbsam_expl_rec_2025,agb_sam_mechelen,2025,5578813,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Exploitatieontvangsten 5.579m; tick1173
+bud_agbsam_expl_exp_2025,agb_sam_mechelen,2025,4087968,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Exploitatieuitgaven 4.088m (excl dividend in T2 C); tick1173
+bud_agbsam_expl_saldo_2025,agb_sam_mechelen,2025,1490845,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Exploitatiesaldo +1.491m; tick1173
+bud_agbsam_omzet_werking_2025,agb_sam_mechelen,2025,5421131,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Ontvangsten uit de werking T2 5.421m (incl prijs dual); tick1173
+bud_agbsam_personnel_2025,agb_sam_mechelen,2025,1597961,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Personeelsuitgaven 1.598m; tick1173
+bud_agbsam_invest_exp_2025,agb_sam_mechelen,2025,199904,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Investeringsuitgaven 0.200m OVER vs MJP 0.038m; tick1173
+bud_agbsam_invest_saldo_2025,agb_sam_mechelen,2025,-199904,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Investeringssaldo -0.200m; tick1173
+bud_agbsam_repay_2025,agb_sam_mechelen,2025,1365593,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Periodieke aflossingen city loans 1.366m; tick1173
+bud_agbsam_fin_saldo_2025,agb_sam_mechelen,2025,-1362593,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Financieringssaldo -1.363m; tick1173
+bud_agbsam_budget_result_2025,agb_sam_mechelen,2025,-71651,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Budgettair resultaat boekjaar -0.072m; tick1173
+bud_agbsam_bbr_2025,agb_sam_mechelen,2025,343430,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Beschikbaar BBR YE2025 0.343m; tick1173
+bud_agbsam_afm_2025,agb_sam_mechelen,2025,125252,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,AFM +0.125m; tick1173
+bud_agbsam_afm_gecorr_2025,agb_sam_mechelen,2025,-62722,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Gecorr AFM -0.063m NEG (aangewezen 1.554m); tick1173
+bud_agbsam_aangewezen_amort_2025,agb_sam_mechelen,2025,1553567,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Gecorrigeerde aflossingen o.b.v. fin schulden 1.554m; tick1173
+bud_agbsam_pnl_2025,agb_sam_mechelen,2025,331084,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,P&L +0.331m; tick1173
+bud_agbsam_dividend_2025,agb_sam_mechelen,2025,400000,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Dividend to city 0.400m > PnL 0.331m CRITICAL; tick1173
+bud_agbsam_interest_2025,agb_sam_mechelen,2025,6667,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Financiele kosten 0.007m thin (city loans); tick1173
+bud_agbsam_depr_2025,agb_sam_mechelen,2025,1556349,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,Afschrijvingen 1.556m; tick1173
+bud_agbsam_mjp_debt_2026,agb_sam_mechelen,2025,15823565,,,BBC JR2025 primary,src_agb_sam_mechelen_jr2025,strong,MJP fin debt YE2026 path 15.824m; tick1173

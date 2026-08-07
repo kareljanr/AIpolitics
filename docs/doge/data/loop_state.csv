@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T03:30:00Z,rq_1172,1172,no,tick1172 AGB Maasmechelen dual residual liquidation Oud Klooster sale 1.62m AFM NEG early repay 2.03m debt 2.97m; next rq_1173 residual dual L5; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T04:00:00Z,rq_1173,1173,no,tick1173 AGB SAM Mechelen dual residual city loan 18.1m gecorr AFM NEG div 0.40m>PnL 0.33m personnel 1.60m; next rq_1174 residual dual L5; rq_116 deferred; continuous hole_fill

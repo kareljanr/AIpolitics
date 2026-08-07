@@ -16329,3 +16329,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1173** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1173 - 2026-08-08T04:00:00Z
+
+- Unit: **rq_1173** (FOI-adjacent residual dual - **AGB Sport Actief Mechelen (SAM) Jaarrekening 2025** Entity II sport after city GE + Energiepunt dual)
+- Found (strong primary BBC 80p; KBO **0871.106.718**; Grote Markt 21):
+  - Assets **EUR20.434m** / equity **EUR0.668m** / cash **EUR0.299m JUMP** from 0.076
+  - Fin debt T4 **EUR18.054m** city loans DECLINING (LT 16.670 / ST due **1.384m**); repay **1.366m**
+  - MVA **EUR19.054m** (gebouwen 18.887); pension LT prov **JUMP 0.132->0.251m**
+  - BBR **EUR0.343m** / AFM **+EUR0.125m** / **gecorr AFM EUR-0.063m NEG** (aangewezen 1.554m)
+  - Expl **EUR5.579m / 4.088m** saldo **+EUR1.491m** / werking **5.421m** / personnel **1.598m**
+  - PnL **+EUR0.331m** / **dividend EUR0.400m > PnL** CRITICAL; Ragheno/Vrijbroek deferred next legislature
+- Dual: city Mechelen GE tick829 + Energiepunt tick1162 - SAM dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen / Bornem JR2024 / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Middelkerke / AGB Brasschaat residual next
+- Wrote: budgets +33 (bud_agbsam_*); commitments +6; leaderboard +8; sources +1; entity agb_sam_mechelen; FOI **gap_agb_sam_gecorr_afm_neg_div_gt_pnl_debt_18m_l5** prio9 ready + draft; PDF primary (not committed ~5.3MB); rq_1173=done; spawn **rq_1174**; ticks=1173
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1174** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local
