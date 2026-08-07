@@ -16380,3 +16380,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1176** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1176 - 2026-08-08T05:30:00Z
+
+- Unit: **rq_1176** (FOI-adjacent residual dual - **AGB Stadsontwikkeling Hamont-Achel Jaarrekening 2025** Entity II culture/bib after city GE)
+- Found (strong primary BBC 56p RVB 28.05.2026 pub 03.06.2026; KBO **0827.418.710** NIS **72037**; Stad 40; Secr Marnix Goethals Voorzitter Tom Cox FD n.v.t.):
+  - Assets **EUR4.683m** / equity **EUR4.044m** / cash **EUR1.355m DROP** from 2.474
+  - **Fin debt ZERO** (T4 empty); non-fin ST debt 0.640m
+  - MVA **EUR3.218m JUMP** (gebouwen 3.152); invest **EUR1.250m** cash-financed (no loans)
+  - BBR **EUR1.026m DROP** from 2.220 / AFM **+EUR0.056m THIN** (= gecorr)
+  - Expl **EUR0.977m / 0.921m** saldo **+EUR0.056m** / budget result **-EUR1.194m** (invest burn)
+  - PnL **+EUR0.107m** / dividend **EUR0.015m** (was 0.160m); sport infra transfer ~2028 BTW ruling OK
+- Dual: city Hamont-Achel GE already mined tick1091 - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen / Bornem JR2024 / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Middelkerke / AGB Brasschaat residual next
+- Wrote: budgets +24 (bud_agbha_*); commitments +6; leaderboard +8; sources +1; entity agb_hamont_achel; FOI **gap_agb_ha_invest_1_25m_cash_drop_sport_transfer_l5** prio8 ready + draft; PDF primary (not committed ~3.2MB); rq_1176=done; spawn **rq_1177**; ticks=1176
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1177** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local

@@ -31093,3 +31093,27 @@ bud_agbgeels_pnl_2025,agb_geel_sport,2025,167515,,,BBC JR2025 primary,src_agb_ge
 bud_agbgeels_dividend_2025,agb_geel_sport,2025,100000,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Dividend to city 0.100m while AFM NEG; tick1175
 bud_agbgeels_interest_2025,agb_geel_sport,2025,181,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Financiele kosten 0.0002m thin; tick1175
 bud_agbgeels_depr_2025,agb_geel_sport,2025,1015902,,,BBC JR2025 primary,src_agb_geel_sport_jr2025,strong,Afschrijvingen 1.016m; tick1175
+bud_agbha_assets_2025,agb_hamont_achel,2025,4683065,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Assets balanstotaal YE2025 4.683m; tick1176
+bud_agbha_equity_2025,agb_hamont_achel,2025,4043502,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Nettoactief YE2025 4.044m; tick1176
+bud_agbha_cum_pnl_2025,agb_hamont_achel,2025,243502,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Gecumuleerd overschot YE2025 0.244m JUMP from 0.151m; tick1176
+bud_agbha_other_netto_2025,agb_hamont_achel,2025,3800000,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Overig nettoactief YE2025 3.800m; tick1176
+bud_agbha_debt_total_2025,agb_hamont_achel,2025,639563,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Schulden total YE2025 0.640m (no fin debt); tick1176
+bud_agbha_fin_debt_2025,agb_hamont_achel,2025,0,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Fin schulden T4 YE2025 ZERO; tick1176
+bud_agbha_cash_2025,agb_hamont_achel,2025,1355237,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Liquide middelen YE2025 1.355m DROP from 2.474m; tick1176
+bud_agbha_mva_2025,agb_hamont_achel,2025,3217752,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,MVA YE2025 3.218m JUMP from 2.111m; tick1176
+bud_agbha_mva_buildings_2025,agb_hamont_achel,2025,3152345,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,MVA terreinen/gebouwen YE2025 3.152m JUMP; tick1176
+bud_agbha_st_recv_2025,agb_hamont_achel,2025,110002,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,ST vorderingen YE2025 0.110m; tick1176
+bud_agbha_expl_rec_2025,agb_hamont_achel,2025,976841,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Exploitatieontvangsten 0.977m; tick1176
+bud_agbha_expl_exp_2025,agb_hamont_achel,2025,921291,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Exploitatieuitgaven 0.921m (incl dividend 15k); tick1176
+bud_agbha_expl_saldo_2025,agb_hamont_achel,2025,55551,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Exploitatiesaldo +0.056m THIN; tick1176
+bud_agbha_omzet_werking_2025,agb_hamont_achel,2025,927639,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Ontvangsten uit de werking T2 0.928m; tick1176
+bud_agbha_invest_exp_2025,agb_hamont_achel,2025,1249979,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Investeringsuitgaven 1.250m JUMP (buildings 1.246m); tick1176
+bud_agbha_invest_saldo_2025,agb_hamont_achel,2025,-1249979,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Investeringssaldo -1.250m (cash-financed); tick1176
+bud_agbha_budget_result_2025,agb_hamont_achel,2025,-1194429,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Budgettair resultaat boekjaar -1.194m NEG (invest burn); tick1176
+bud_agbha_bbr_2025,agb_hamont_achel,2025,1026009,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Beschikbaar BBR YE2025 1.026m DROP from 2.220m; tick1176
+bud_agbha_afm_2025,agb_hamont_achel,2025,55551,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,AFM +0.056m THIN equals expl saldo (zero debt); tick1176
+bud_agbha_afm_gecorr_2025,agb_hamont_achel,2025,55551,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Gecorr AFM +0.056m (=AFM; zero fin debt); tick1176
+bud_agbha_pnl_2025,agb_hamont_achel,2025,107144,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,P&L +0.107m; tick1176
+bud_agbha_dividend_2025,agb_hamont_achel,2025,15000,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Dividend to city 0.015m DROP from 0.160m; tick1176
+bud_agbha_interest_2025,agb_hamont_achel,2025,2756,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Financiele kosten 0.003m; tick1176
+bud_agbha_depr_2025,agb_hamont_achel,2025,142817,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Afschrijvingen 0.143m; tick1176
