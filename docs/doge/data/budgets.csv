@@ -31314,3 +31314,27 @@ bud_agbnin_pnl_2025,agb_ninove,2025,127845,,,BBC JR2025 primary,src_agb_ninove_j
 bud_agbnin_dividend_2025,agb_ninove,2025,127845,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,FULL dividend/rechthebbenden 0.128m while AFM NEG; tick1183
 bud_agbnin_goods_services_2025,agb_ninove,2025,21093,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Goederen en diensten 0.021m DROP from 0.129m; tick1183
 bud_agbnin_invest_exp_2025,agb_ninove,2025,0,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Investeringsuitgaven ZERO 2025; tick1183
+bud_agbhove_assets_2025,agb_hove,2025,6916627,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Assets balanstotaal YE2025 6.917m JUMP from 6.104m; tick1184
+bud_agbhove_equity_2025,agb_hove,2025,4153432,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Eigen vermogen YE2025 4.153m; tick1184
+bud_agbhove_capital_2025,agb_hove,2025,3638448,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Inbreng/kapitaal YE2025 3.638m; tick1184
+bud_agbhove_reserves_2025,agb_hove,2025,293191,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Beschikbare reserves YE2025 0.293m JUMP from 0.020m; tick1184
+bud_agbhove_cap_subs_2025,agb_hove,2025,221793,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Kapitaalsubsidies YE2025 0.222m JUMP from 0; tick1184
+bud_agbhove_debt_total_2025,agb_hove,2025,2763195,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Schulden total YE2025 2.763m; tick1184
+bud_agbhove_fin_debt_2025,agb_hove,2025,2639490,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Fin schulden YE2025 ~2.640m (LT+ST due); tick1184
+bud_agbhove_fin_debt_lt_2025,agb_hove,2025,2356046,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Fin schulden LT YE2025 2.356m; tick1184
+bud_agbhove_fin_debt_banks_2025,agb_hove,2025,1144498,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Kredietinstellingen/leasing LT YE2025 1.144m; tick1184
+bud_agbhove_other_loans_2025,agb_hove,2025,1211548,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Overige leningen LT YE2025 1.212m JUMP from 0.607m; tick1184
+bud_agbhove_fin_debt_st_due_2025,agb_hove,2025,283444,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Schulden LT vervallend YE2025 0.283m; tick1184
+bud_agbhove_cash_2025,agb_hove,2025,105761,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Liquide middelen YE2025 0.106m DROP from 0.143m; tick1184
+bud_agbhove_mva_2025,agb_hove,2025,6134055,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,MVA YE2025 6.134m; tick1184
+bud_agbhove_mva_buildings_2025,agb_hove,2025,6107422,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,MVA terreinen/gebouwen YE2025 6.107m; tick1184
+bud_agbhove_st_other_recv_2025,agb_hove,2025,582660,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,ST overige vorderingen YE2025 0.583m; tick1184
+bud_agbhove_st_trade_recv_2025,agb_hove,2025,87320,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,ST handelsvorderingen YE2025 0.087m; tick1184
+bud_agbhove_invest_mva_2025,agb_hove,2025,936993,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Aanschaffingen MVA 2025 0.937m; tick1184
+bud_agbhove_pnl_2025,agb_hove,2025,144200,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Winst boekjaar 0.144m JUMP from 0.058m; tick1184
+bud_agbhove_dividend_2025,agb_hove,2025,14420,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Uit te keren winst/vergoeding inbreng 0.014m; tick1184
+bud_agbhove_depr_2025,agb_hove,2025,239946,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Afschrijvingen 0.240m; tick1184
+bud_agbhove_fin_cost_2025,agb_hove,2025,28385,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Financiele kosten 0.028m; tick1184
+bud_agbhove_gross_margin_2025,agb_hove,2025,423850,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Brutomarge 0.424m; tick1184
+bud_agbhove_staff_2025,agb_hove,2025,0,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Bezoldigingen line empty / zero own staff NBB; tick1184
+bud_agbhove_gov_guaranteed_debt_2025,agb_hove,2025,1316013,,,NBB JR2025 primary,src_agb_hove_jr2025,strong,Door BE overheidsinstellingen gewaarborgde schulden 1.316m; tick1184

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T09:00:00Z,rq_1183,1183,no,tick1183 AGB Ninove dual residual full div 0.13m while AFM NEG shrink shell FOI; next rq_1184 residual dual L5 Oosterzele/Nijlen; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T09:30:00Z,rq_1184,1184,no,tick1184 AGB Hove dual residual debt 2.64m other loans JUMP 1.21m invest 0.94m NBB primary FOI full BBC; next rq_1185 residual dual L5 Oosterzele/Nijlen; rq_116 deferred; continuous hole_fill

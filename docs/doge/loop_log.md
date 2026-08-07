@@ -16514,3 +16514,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1184** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1184 - 2026-08-08T09:30:00Z
+
+- Unit: **rq_1184** (FOI-adjacent residual dual - **AGB Sport en Ontspanning Hove NBB Jaarrekening 2025** Entity II after city GE)
+- Found (strong primary NBB/WVV 15p AV 23.06.2026; KBO **0834.868.508**; Geelhandlaan 1; Voorzitter Thierry Lens):
+  - Assets **EUR6.917m** JUMP / equity **EUR4.153m** / cash **EUR0.106m DROP**
+  - Fin debt ~**EUR2.640m** (LT banks 1.144 + **other loans 1.212m JUMP** from 0.607 + ST due 0.283)
+  - MVA **EUR6.134m** (buildings 6.107); invest **EUR0.937m**; ST other recv **0.583m**
+  - Cap subs **EUR0.222m JUMP** from 0; gov-guaranteed debt **1.316m**
+  - PnL **+EUR0.144m** / div **0.014m**; zero staff NBB line; **full BBC J2/AFM not in NBB pack**
+- Dual: city Hove GE already mined - AGB dual residual partial (NBB primary; BBC FOI)
+- Note: Oosterzele / Nijlen / Bornem residual next
+- Wrote: budgets +24 (bud_agbhove_*); commitments +6; leaderboard +8; sources +1; entity agb_hove; FOI **gap_agb_hove_debt_2_64m_other_loans_jump_full_bbc_l5** prio8 ready + draft; PDF primary (not committed ~0.7MB); rq_1184=done; spawn **rq_1185**; ticks=1184
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1185** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local
