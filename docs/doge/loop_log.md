@@ -15608,3 +15608,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1133** residual dual L5; deferred **rq_116**; progress@1140 in 7
 
+
+### Tick 1133 - 2026-08-12T08:00:00Z
+
+- Unit: **rq_1133** (FOI-adjacent residual dual - **AGB Turnhout Jaarrekening 2025** Entity II after city)
+- Found (strong primary BBC JR2025 AGB 76p text; turnhout.be/nl/media/9962; KBO **0892.962.204**; NIS **13040**; Campus Blairon 200 2300; Voorzitter Paul Van Miert Secr Bie De Busser):
+  - Assets **EUR16.463m** / equity **EUR11.489m** / debt total **EUR4.974m**
+  - Fin debt T4 **EUR4.040m** (LT **EUR3.015m** / ST due **EUR1.025m**; J4 LT+ST **EUR4.239m** FOI delta)
+  - **New loans andere entiteiten/city EUR1.955m FOI** / repayments **EUR0.993m**
+  - Cash **EUR2.613m JUMP** (was **EUR1.267m**) / **FVA andere EUR9.823m MASSIVE FOI** / LT recv **EUR1.500m** / inventory **EUR1.294m** / leasing MVA **EUR0.742m**
+  - Exploitatie: ontvangsten **EUR0.568m** / uitgaven **EUR0.239m** / saldo **+EUR0.329m STRONG**
+  - **AFM -EUR0.664m NEG FOI** / gecorr AFM **+EUR0.067m** / BBR **EUR2.028m JUMP** / budget **+EUR1.291m** (loan-financed FOI)
+  - P&L **-EUR0.041m** / cum tekort **-EUR0.674m** / city werkingssub **EUR0.090m** / andere opbr **EUR0.354m JUMP FOI**
+  - Invest **EUR0.011m** (= city invest-sub)
+- Dual: city Turnhout assets 333m already on board - not TE-additive; AGB dual residual now closed
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere full JR / Brakel GE+OCMW / Puurs / AGB Galmaarden residual next; progress@1140 in 6
+- Wrote: budgets +32 (bud_agt_*); commitments +6; leaderboard +10; sources +1; entity agb_turnhout; FOI **gap_agt_afm_neg_city_loan_fva_inventory_l5** prio9 ready + draft; PDF primary (not committed ~1.5MB); rq_1133=done; spawn **rq_1134**; ticks=1133
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1134** residual dual L5; deferred **rq_116**; progress@1140 in 6
+

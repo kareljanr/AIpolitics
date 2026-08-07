@@ -29892,3 +29892,35 @@ bud_abp_goederen_2025,agb_boom_plus,2025,4748876,,,jaarrekening_realized,src_boo
 bud_abp_personeel_2025,agb_boom_plus,2025,98677,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Bezoldigingen T2 0.099m; tick1132
 bud_abp_omzet_2025,agb_boom_plus,2025,651125,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,Ontvangsten uit werking T2 0.651m; tick1132
 bud_abp_vl_subsidy_clawback_2025,agb_boom_plus,2025,-51076,,,jaarrekening_realized,src_boom_agb_plus_jr2025,strong,VL werkingssubsidie clawback -0.051m FOI; tick1132
+bud_agt_assets_2025,agb_turnhout,2025,16463215,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Total assets YE2025 16.463m; tick1133
+bud_agt_equity_2025,agb_turnhout,2025,11489296,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Nettoactief YE2025 11.489m; tick1133
+bud_agt_debt_total_2025,agb_turnhout,2025,4973920,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Total schulden YE2025 4.974m; tick1133
+bud_agt_fin_debt_t4_2025,agb_turnhout,2025,4039901,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Fin schulden T4 total YE2025 4.040m (LT 3.015 + ST due 1.025); tick1133
+bud_agt_fin_debt_j4_2025,agb_turnhout,2025,4239468,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Fin schulden J4 LT+ST due YE2025 4.239m FOI vs T4; tick1133
+bud_agt_fin_debt_lt_2025,agb_turnhout,2025,3014538,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Fin schulden LT T4 YE2025 3.015m; tick1133
+bud_agt_fin_debt_st_due_2025,agb_turnhout,2025,1025363,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 1.025m; tick1133
+bud_agt_cash_2025,agb_turnhout,2025,2613034,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Liquide middelen YE2025 2.613m JUMP (was 1.267m); tick1133
+bud_agt_inventory_2025,agb_turnhout,2025,1293940,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Voorraden/bestellingen 1.294m FOI; tick1133
+bud_agt_fva_2025,agb_turnhout,2025,9823223,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Fin VA andere 9.823m MASSIVE FOI; tick1133
+bud_agt_lt_recv_2025,agb_turnhout,2025,1500000,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Vorderingen LT ruil 1.500m FOI; tick1133
+bud_agt_cap_subs_2025,agb_turnhout,2025,584878,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Kapitaalsubsidies YE2025 0.585m; tick1133
+bud_agt_mva_2025,agb_turnhout,2025,1088973,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Materiele vaste activa YE2025 1.089m; tick1133
+bud_agt_leasing_mva_2025,agb_turnhout,2025,742324,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Leasing MVA 0.742m; tick1133
+bud_agt_expl_rec_2025,agb_turnhout,2025,567649,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Exploitatieontvangsten 0.568m; tick1133
+bud_agt_expl_exp_2025,agb_turnhout,2025,238529,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Exploitatieuitgaven 0.239m; tick1133
+bud_agt_expl_saldo_2025,agb_turnhout,2025,329120,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Exploitatiesaldo +0.329m STRONG; tick1133
+bud_agt_invest_2025,agb_turnhout,2025,11058,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Investeringsuitgaven 0.011m (=city invest-sub); tick1133
+bud_agt_afm_2025,agb_turnhout,2025,-664002,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,AFM -0.664m NEG FOI; tick1133
+bud_agt_afm_gecorr_2025,agb_turnhout,2025,66948,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Gecorr AFM +0.067m (was MJP -0.467m); tick1133
+bud_agt_bbr_2025,agb_turnhout,2025,2027882,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,BBR 2.028m JUMP; tick1133
+bud_agt_budget_result_2025,agb_turnhout,2025,1291436,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Budgettair resultaat +1.291m (city-loan financed FOI); tick1133
+bud_agt_pl_2025,agb_turnhout,2025,-40976,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,P&L -0.041m; tick1133
+bud_agt_cum_pl_2025,agb_turnhout,2025,-673596,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Gecumuleerd tekort -0.674m; tick1133
+bud_agt_new_loans_city_2025,agb_turnhout,2025,1955438,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Nieuwe leningen van andere entiteiten (city) 1.955m FOI; tick1133
+bud_agt_repay_2025,agb_turnhout,2025,993123,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Periodieke aflossingen 0.993m; tick1133
+bud_agt_city_werkingssub_2025,agb_turnhout,2025,90412,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,City algemene werkingssub 0.090m; tick1133
+bud_agt_omzet_2025,agb_turnhout,2025,124176,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Opbrengsten uit werking J5 0.124m; tick1133
+bud_agt_andere_opbr_2025,agb_turnhout,2025,354351,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Andere ops opbrengsten 0.354m JUMP FOI; tick1133
+bud_agt_goederen_2025,agb_turnhout,2025,116137,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Goederen en diensten 0.116m; tick1133
+bud_agt_personeel_2025,agb_turnhout,2025,82642,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Bezoldigingen 0.083m; tick1133
+bud_agt_interest_2025,agb_turnhout,2025,26679,,,jaarrekening_realized,src_turnhout_agb_jr2025,strong,Financiele kosten 0.027m; tick1133
