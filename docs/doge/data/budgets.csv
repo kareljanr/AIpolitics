@@ -31653,3 +31653,39 @@ bud_agbden_goods_2025,agb_dendermonde,2025,1414051,,,BBC JR2025 primary,src_agb_
 bud_agbden_fin_cost_2025,agb_dendermonde,2025,17274,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Financiele kosten 0.017m; tick1195
 bud_agbden_city_werksub_2025,agb_dendermonde,2025,0,,,BBC JR2025 primary,src_agb_dendermonde_jr2025,strong,Werkingssubsidies ZERO; tick1195
 bud_agbden_nbb_assets_2025,agb_dendermonde,2025,5393392,,,NBB GR uittreksel 2025,src_agb_dendermonde_jr2025,strong,NBB balanstotaal YE2025 5.393m (GR uittreksel); tick1195
+bud_agsport_assets_2025,agb_sportag_aalst,2025,58314011,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Assets balanstotaal YE2025 58.314m DROP from 61.415m; tick1196
+bud_agsport_equity_2025,agb_sportag_aalst,2025,4819667,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Nettoactief YE2025 4.820m; tick1196
+bud_agsport_cum_pnl_2025,agb_sportag_aalst,2025,-101832,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Gecumuleerd tekort YE2025 -0.102m; tick1196
+bud_agsport_cap_subs_2025,agb_sportag_aalst,2025,4921499,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Kapitaalssubsidies YE2025 4.921m; tick1196
+bud_agsport_debt_total_2025,agb_sportag_aalst,2025,53494344,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Schulden total YE2025 53.494m; tick1196
+bud_agsport_fin_debt_2025,agb_sportag_aalst,2025,51389606,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Fin schulden YE2025 51.390m DROP; tick1196
+bud_agsport_fin_debt_lt_2025,agb_sportag_aalst,2025,48883307,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Fin schulden LT YE2025 48.883m; tick1196
+bud_agsport_fin_debt_st_due_2025,agb_sportag_aalst,2025,2506299,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Fin schulden LT vervallend YE2025 2.506m; tick1196
+bud_agsport_cash_2025,agb_sportag_aalst,2025,485217,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Liquide middelen YE2025 0.485m JUMP from 0.066m; tick1196
+bud_agsport_st_recv_2025,agb_sportag_aalst,2025,5583962,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,ST vorderingen YE2025 5.584m; tick1196
+bud_agsport_st_recv_nonruil_2025,agb_sportag_aalst,2025,5250240,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,ST vorderingen niet-ruil YE2025 5.250m; tick1196
+bud_agsport_mva_2025,agb_sportag_aalst,2025,52199730,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,MVA YE2025 52.200m; tick1196
+bud_agsport_mva_buildings_2025,agb_sportag_aalst,2025,31425257,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,MVA gemeenschap gebouwen YE2025 31.425m; tick1196
+bud_agsport_mva_leasing_2025,agb_sportag_aalst,2025,20176298,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,MVA leasing YE2025 20.176m; tick1196
+bud_agsport_expl_rec_2025,agb_sportag_aalst,2025,10047335,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Exploitatieontvangsten 10.047m; tick1196
+bud_agsport_expl_exp_2025,agb_sportag_aalst,2025,7149143,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Exploitatieuitgaven 7.149m; tick1196
+bud_agsport_expl_saldo_2025,agb_sportag_aalst,2025,2898192,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Exploitatiesaldo +2.898m; tick1196
+bud_agsport_werking_rec_2025,agb_sportag_aalst,2025,9734573,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Ontvangsten uit de werking 9.735m; tick1196
+bud_agsport_invest_exp_2025,agb_sportag_aalst,2025,282210,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Investeringsuitgaven 0.282m; tick1196
+bud_agsport_invest_rec_2025,agb_sportag_aalst,2025,738761,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Investeringsontvangsten 0.739m; tick1196
+bud_agsport_invest_saldo_2025,agb_sportag_aalst,2025,456551,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Investeringssaldo +0.457m; tick1196
+bud_agsport_repay_2025,agb_sportag_aalst,2025,2497170,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Periodieke aflossingen 2.497m; tick1196
+bud_agsport_new_loans_2025,agb_sportag_aalst,2025,0,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Nieuwe leningen 0 (MJP 1.040m not drawn); tick1196
+bud_agsport_fin_saldo_2025,agb_sportag_aalst,2025,-2497170,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Financieringssaldo -2.497m; tick1196
+bud_agsport_budget_result_2025,agb_sportag_aalst,2025,857573,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Budgettair resultaat boekjaar +0.858m; tick1196
+bud_agsport_bbr_2025,agb_sportag_aalst,2025,4829906,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Beschikbaar BBR YE2025 4.830m; tick1196
+bud_agsport_afm_2025,agb_sportag_aalst,2025,401022,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,AFM +0.401m POS; tick1196
+bud_agsport_afm_gecorr_2025,agb_sportag_aalst,2025,-1412751,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Gecorr AFM -1.413m NEG DEEP; tick1196
+bud_agsport_aangewezen_amort_2025,agb_sportag_aalst,2025,4310942,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Gecorrigeerde aflossingen 4.311m (8pct); tick1196
+bud_agsport_pnl_2025,agb_sportag_aalst,2025,-101832,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,P&L -0.102m; tick1196
+bud_agsport_dividend_2025,agb_sportag_aalst,2025,0,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Dividend 0 (was 0.432m 2024); tick1196
+bud_agsport_staff_2025,agb_sportag_aalst,2025,2821557,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Personeel 2.822m; tick1196
+bud_agsport_goods_2025,agb_sportag_aalst,2025,3233825,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Goederen en diensten 3.234m; tick1196
+bud_agsport_fin_cost_2025,agb_sportag_aalst,2025,834552,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Financiele kosten 0.835m; tick1196
+bud_agsport_city_werksub_2025,agb_sportag_aalst,2025,0,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Werkingssubsidies stad ZERO (VL 0.100m only); tick1196
+bud_agsport_zwembad_repay_2025,agb_sportag_aalst,2025,1623072,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Zwembad financing aflossing actie 1.623m; tick1196

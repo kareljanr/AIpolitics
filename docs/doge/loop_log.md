@@ -16715,3 +16715,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1196** residual dual L5 VL; deferred **rq_116**
 - Git: pull may be blocked by unstaged local noise - continue on local if needed
+
+### Tick 1196 - 2026-08-08T15:30:00Z
+
+- Unit: **rq_1196** (FOI-adjacent residual dual - **SportAG Aalst Jaarrekening 2025** Entity II after city GE)
+- Found (strong primary BBC 51p; KBO **0543.527.226**; Werf 9; Voorzitter Matthias De Ridder Manager Sven Van Keymeulen):
+  - Assets **EUR58.314m DROP** from 61.415 / equity **EUR4.820m** / cash **EUR0.485m JUMP** from 0.066
+  - Fin debt **EUR51.390m DROP** (LT 48.883 + ST due 2.506); repay **2.497m**; no new loans 2025
+  - Leasing MVA **EUR20.176m** / buildings gemeenschap **EUR31.425m**
+  - BBR **EUR4.830m** / AFM **+EUR0.401m POS** / **gecorr AFM EUR-1.413m NEG DEEP**
+  - Expl **EUR10.047m / 7.149m** saldo **+2.898m** / invest **0.282m** / investsub **0.739m**
+  - PnL **EUR-0.102m** no div / staff **2.822m** / goederen **3.234m** / city werksub ~**0** (VL 0.100m only)
+  - ST non-ruil recv **EUR5.250m**; zwembad financing line **1.623m** repay path
+- Dual: city Aalst GE already mapped - SportAG dual residual closed for full BBC layer (not TE-additive)
+- Wrote: budgets +34 (bud_agsport_*); commitments +6; leaderboard +8; sources +1; entity agb_sportag_aalst; FOI **gap_agb_sportag_aalst_debt_51_4m_leasing_20m_gecorr_afm_neg_1_41m_l5** prio9 ready + draft; PDF primary (not committed ~2.3MB); rq_1196=done; spawn **rq_1197**; ticks=1196
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1197** residual dual L5 VL (AGSA Aalst JR2025 public); deferred **rq_116**
+- Git: pull may be blocked by unstaged local noise - continue on local if needed

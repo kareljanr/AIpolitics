@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T15:00:00Z,rq_1195,1195,no,tick1195 AGB Dendermonde dual residual debt 3.0m full div 0.15m city loans FOI; next rq_1196 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T15:30:00Z,rq_1196,1196,no,tick1196 SportAG Aalst dual residual debt 51.4m leasing 20m gecorr AFM -1.41m FOI; next rq_1197 residual dual L5 VL (AGSA Aalst); rq_116 deferred; continuous hole_fill
