@@ -17233,3 +17233,9 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources/entities/budgets+37/commitments+7/leaderboard+7 + FOI ready `gap_zpw_afm_neg_3_57m_cum_loss_12_3m_pnl_neg_5_14m_personnel_105m_sub_44m_l5` (not sent); rq_1240=done; spawn rq_1241; ticks=1240.
 - Progress@1240: refreshed progress_every_10_ticks.md + doge_waste_top10_current.md (pure annual top10 stable; dual gain Zorgpunt/AGSL/Edegem stack).
 - Next: rq_1241 residual dual L5 VL JR2025 hole_fill.
+
+### Tick 1241 - 2026-08-08 - rq_1241 Zorg Leuven dual residual
+- Unit: Zorg Leuven JR2025 city dual care Entity II after AGSL tick1237 (NIS 24062; 123p text primary).
+- EUR strong: assets **77.3m**; fin debt **10.5m**; city toelage dual **20.301m**; AFM **-0.094m** NEG (designed clawback); gecorr AFM **-0.130m**; BBR **+6.171m**; cum loss **-30.617m** DEEP; PnL **-3.427m** flip; personnel **57.9m**; cash DROP **2.46m**; pension LT **16.5m**.
+- CSVs: sources/entities/budgets+38/commitments+7/leaderboard+7 + FOI ready `gap_zl_city_toelage_20_3m_afm_neg_0_09m_cum_loss_30_6m_pnl_neg_3_43m_personnel_57_9m_l5` (not sent); rq_1241=done; spawn rq_1242.
+- Next: rq_1242 residual dual L5 VL JR2025 hole_fill.

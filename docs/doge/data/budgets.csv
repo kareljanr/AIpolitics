@@ -32919,3 +32919,41 @@ bud_zpw_sub_spec_2025,zorgpunt_waasland,2025,26139989,,,bbc_jr_realized,src_zorg
 bud_zpw_repayments_2025,zorgpunt_waasland,2025,2765458,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Periodieke aflossingen 2.765m; tick1240
 bud_zpw_loan_recv_back_2025,zorgpunt_waasland,2025,2670756,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Periodieke terugvordering leningen 2.671m; tick1240
 bud_zpw_costs_2025,zorgpunt_waasland,2025,131485495,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,J5 costs total 131.485m; tick1240
+bud_zl_assets_2025,zorg_leuven,2025,77306203,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Assets balanstotaal YE2025 77.306m; tick1241
+bud_zl_equity_2025,zorg_leuven,2025,38041169,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Nettoactief YE2025 38.041m; tick1241
+bud_zl_cum_loss_2025,zorg_leuven,2025,-30617298,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Gecumuleerd tekort YE2025 -30.617m DEEP; tick1241
+bud_zl_debt_total_2025,zorg_leuven,2025,39265034,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Schulden total YE2025 39.265m; tick1241
+bud_zl_fin_debt_2025,zorg_leuven,2025,10532094,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Fin schulden total YE2025 10.532m (LT 9.785 + ST due 0.747); tick1241
+bud_zl_fin_debt_lt_2025,zorg_leuven,2025,9785066,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Fin schulden LT YE2025 9.785m; tick1241
+bud_zl_fin_debt_st_due_2025,zorg_leuven,2025,747028,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Fin schulden LT vervallend YE2025 0.747m; tick1241
+bud_zl_cash_2025,zorg_leuven,2025,2458253,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Liquide middelen YE2025 2.458m DROP (was 3.283m); tick1241
+bud_zl_st_recv_2025,zorg_leuven,2025,10466674,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Vorderingen KT total YE2025 10.467m; tick1241
+bud_zl_st_nonruil_recv_2025,zorg_leuven,2025,6187817,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Vorderingen niet-ruil KT YE2025 6.188m; tick1241
+bud_zl_lt_nonruil_recv_2025,zorg_leuven,2025,3923837,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Vorderingen niet-ruil LT YE2025 3.924m; tick1241
+bud_zl_mva_2025,zorg_leuven,2025,58093197,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Materiele VA YE2025 58.093m; tick1241
+bud_zl_leasing_mva_2025,zorg_leuven,2025,4869435,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Leasing MVA YE2025 4.869m; tick1241
+bud_zl_pension_lt_2025,zorg_leuven,2025,16487469,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Pensioenvoorzieningen LT YE2025 16.487m; tick1241
+bud_zl_cap_subs_2025,zorg_leuven,2025,37171019,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Kapitaalssubsidies YE2025 37.171m; tick1241
+bud_zl_expl_rec_2025,zorg_leuven,2025,72909977,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Exploitatieontvangsten 72.910m; tick1241
+bud_zl_expl_exp_2025,zorg_leuven,2025,72126841,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Exploitatieuitgaven 72.127m; tick1241
+bud_zl_expl_saldo_2025,zorg_leuven,2025,783135,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Exploitatiesaldo +0.783m; tick1241
+bud_zl_invest_exp_2025,zorg_leuven,2025,2314622,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Investeringsuitgaven 2.315m; tick1241
+bud_zl_invest_rec_2025,zorg_leuven,2025,2184622,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Investeringsontvangsten 2.185m; tick1241
+bud_zl_invest_saldo_2025,zorg_leuven,2025,-130000,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Investeringssaldo -0.130m; tick1241
+bud_zl_fin_saldo_2025,zorg_leuven,2025,-877112,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Financieringssaldo -0.877m; tick1241
+bud_zl_budget_result_2025,zorg_leuven,2025,-223977,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Budgettair resultaat boekjaar -0.224m NEG (designed); tick1241
+bud_zl_cumul_budget_2025,zorg_leuven,2025,6170944,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Gecumuleerd budgettair resultaat 6.171m; tick1241
+bud_zl_bbr_2025,zorg_leuven,2025,6170944,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,BBR +6.171m (to be clawed to city); tick1241
+bud_zl_afm_2025,zorg_leuven,2025,-93977,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,AFM -0.094m NEG; tick1241
+bud_zl_gecorr_afm_2025,zorg_leuven,2025,-129601,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Gecorrigeerde AFM -0.130m NEG; tick1241
+bud_zl_pnl_2025,zorg_leuven,2025,-3427354,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,PnL tekort -3.427m (was +9.869m); tick1241
+bud_zl_personnel_2025,zorg_leuven,2025,57887720,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Bezoldigingen 57.888m; tick1241
+bud_zl_city_toelage_2025,zorg_leuven,2025,20300733,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Exploitatietoelage Stad Leuven dual 20.301m; tick1241
+bud_zl_ocmw_toelage_2025,zorg_leuven,2025,1039563,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Algemene werkingssubsidie OCMW 1.040m; tick1241
+bud_zl_sub_total_2025,zorg_leuven,2025,40472389,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Werkingssubsidies total 40.472m; tick1241
+bud_zl_sub_alg_2025,zorg_leuven,2025,22675901,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Algemene werkingssubsidies 22.676m; tick1241
+bud_zl_sub_spec_2025,zorg_leuven,2025,17796488,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Specifieke werkingssubsidies 17.796m; tick1241
+bud_zl_werking_ontv_2025,zorg_leuven,2025,31032935,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Opbrengsten uit de werking 31.033m; tick1241
+bud_zl_repayments_2025,zorg_leuven,2025,877112,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Periodieke aflossingen 0.877m; tick1241
+bud_zl_costs_2025,zorg_leuven,2025,80133044,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,J5 costs total 80.133m; tick1241
+bud_zl_vte_2025,zorg_leuven,2025,672,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,VTE bezetting 672 (budget 681); tick1241
