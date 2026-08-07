@@ -31689,3 +31689,36 @@ bud_agsport_goods_2025,agb_sportag_aalst,2025,3233825,,,BBC JR2025 primary,src_a
 bud_agsport_fin_cost_2025,agb_sportag_aalst,2025,834552,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Financiele kosten 0.835m; tick1196
 bud_agsport_city_werksub_2025,agb_sportag_aalst,2025,0,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Werkingssubsidies stad ZERO (VL 0.100m only); tick1196
 bud_agsport_zwembad_repay_2025,agb_sportag_aalst,2025,1623072,,,BBC JR2025 primary,src_agb_sportag_aalst_jr2025,strong,Zwembad financing aflossing actie 1.623m; tick1196
+bud_agsa_assets_2025,agsa_aalst,2025,18457300,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Assets balanstotaal YE2025 18.457m DROP from 20.213m; tick1197
+bud_agsa_equity_2025,agsa_aalst,2025,16849629,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Nettoactief YE2025 16.850m; tick1197
+bud_agsa_cum_pnl_2025,agsa_aalst,2025,553046,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Gecumuleerd overschot YE2025 0.553m DROP from 0.623m; tick1197
+bud_agsa_cap_subs_2025,agsa_aalst,2025,16291583,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Kapitaalssubsidies YE2025 16.292m; tick1197
+bud_agsa_debt_total_2025,agsa_aalst,2025,1607671,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Schulden total YE2025 1.608m DROP from 3.247m; tick1197
+bud_agsa_fin_debt_2025,agsa_aalst,2025,1344269,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Fin schulden YE2025 1.344m; tick1197
+bud_agsa_fin_debt_lt_2025,agsa_aalst,2025,1286294,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Fin schulden LT YE2025 1.286m; tick1197
+bud_agsa_fin_debt_st_due_2025,agsa_aalst,2025,57975,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Fin schulden LT vervallend YE2025 0.058m; tick1197
+bud_agsa_cash_2025,agsa_aalst,2025,806577,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Liquide middelen YE2025 0.807m JUMP from 0.281m; tick1197
+bud_agsa_st_recv_2025,agsa_aalst,2025,66750,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,ST vorderingen YE2025 0.067m DROP from 2.245m; tick1197
+bud_agsa_lt_recv_2025,agsa_aalst,2025,316600,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,LT vorderingen YE2025 0.317m; tick1197
+bud_agsa_fva_2025,agsa_aalst,2025,1089991,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Financiele vaste activa YE2025 1.090m; tick1197
+bud_agsa_mva_buildings_2025,agsa_aalst,2025,15226001,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,MVA andere terreinen/gebouwen YE2025 15.226m; tick1197
+bud_agsa_mva_leasing_2025,agsa_aalst,2025,927602,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,MVA leasing YE2025 0.928m; tick1197
+bud_agsa_expl_rec_2025,agsa_aalst,2025,1299380,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Exploitatieontvangsten 1.299m; tick1197
+bud_agsa_expl_exp_2025,agsa_aalst,2025,1184865,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Exploitatieuitgaven 1.185m; tick1197
+bud_agsa_expl_saldo_2025,agsa_aalst,2025,114515,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Exploitatiesaldo +0.115m; tick1197
+bud_agsa_city_werksub_2025,agsa_aalst,2025,1076192,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Algemene werkingssubsidie stad 1.076m JUMP from 0.906m; tick1197
+bud_agsa_invest_exp_2025,agsa_aalst,2025,1048615,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Investeringsuitgaven 1.049m; tick1197
+bud_agsa_invest_rec_2025,agsa_aalst,2025,922078,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Investeringsontvangsten 0.922m; tick1197
+bud_agsa_invest_saldo_2025,agsa_aalst,2025,-126537,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Investeringssaldo -0.127m; tick1197
+bud_agsa_repay_2025,agsa_aalst,2025,57975,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Periodieke aflossingen 0.058m fixed; tick1197
+bud_agsa_new_loans_2025,agsa_aalst,2025,0,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Nieuwe leningen 0; tick1197
+bud_agsa_fin_saldo_2025,agsa_aalst,2025,-57975,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Financieringssaldo -0.058m; tick1197
+bud_agsa_budget_result_2025,agsa_aalst,2025,-69997,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Budgettair resultaat boekjaar -0.070m; tick1197
+bud_agsa_bbr_2025,agsa_aalst,2025,683095,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Beschikbaar BBR YE2025 0.683m; tick1197
+bud_agsa_afm_2025,agsa_aalst,2025,56540,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,AFM +0.057m POS; tick1197
+bud_agsa_afm_gecorr_2025,agsa_aalst,2025,2335,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Gecorr AFM +0.002m thin POS; tick1197
+bud_agsa_pnl_2025,agsa_aalst,2025,-69542,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,P&L -0.070m retained; tick1197
+bud_agsa_dividend_2025,agsa_aalst,2025,0,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Dividend 0; tick1197
+bud_agsa_staff_2025,agsa_aalst,2025,828377,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Personeel 0.828m JUMP from 0.688m; tick1197
+bud_agsa_goods_2025,agsa_aalst,2025,248045,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Goederen en diensten 0.248m; tick1197
+bud_agsa_asset_sale_loss_2025,agsa_aalst,2025,125287,,,BBC JR2025 primary,src_agsa_aalst_jr2025,strong,Minderwaarden vaste activa 0.125m; tick1197

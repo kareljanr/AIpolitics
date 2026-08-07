@@ -16732,3 +16732,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1197** residual dual L5 VL (AGSA Aalst JR2025 public); deferred **rq_116**
 - Git: pull may be blocked by unstaged local noise - continue on local if needed
+
+### Tick 1197 - 2026-08-08T16:00:00Z
+
+- Unit: **rq_1197** (FOI-adjacent residual dual - **AGSA Aalst / Stadsontwikkeling Jaarrekening 2025** Entity II after SportAG)
+- Found (strong primary BBC 101p; KBO **0829.241.320**; Werf 9; Voorzitter Maarten Blommaert Directeur Pieter De Witte):
+  - Assets **EUR18.457m DROP** from 20.213 / equity **EUR16.850m** (= mostly capsubs 16.292) / cash **EUR0.807m JUMP**
+  - Fin debt **EUR1.344m** (LT 1.286 + ST due 0.058); repay **0.058m** fixed; no new loans 2025
+  - Leasing MVA **EUR0.928m** / other buildings MVA **EUR15.226m** / FVA **EUR1.090m** / LT recv **0.317m**
+  - BBR **EUR0.683m** / AFM **+EUR0.057m** / gecorr AFM **+EUR0.002m thin POS**
+  - Expl **EUR1.299m / 1.185m** saldo **+0.115m** / invest **-0.127m** / city werksub **EUR1.076m JUMP**
+  - PnL **EUR-0.070m** retained / staff **0.828m** / goederen **0.248m** / ST recv DROP 2.24→0.07m
+- Dual: city Aalst + SportAG tick1196 - AGSA dual residual closed for full BBC layer (not TE-additive)
+- Wrote: budgets +32 (bud_agsa_*); commitments +6; leaderboard +8; sources +1; entity agsa_aalst; FOI **gap_agsa_aalst_city_sub_1_08m_budget_neg_fva_1_09m_l5** prio8 ready + draft; PDF primary (not committed ~15MB); rq_1197=done; spawn **rq_1198**; ticks=1197
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1198** residual dual L5 VL; deferred **rq_116**
+- Git: pull may be blocked by unstaged local noise - continue on local if needed
