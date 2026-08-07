@@ -30273,25 +30273,52 @@ bud_dpagb_cum_profit_2025,agb_de_panne,2025,255414,,,bbc_jr_realized,src_depanne
 bud_dpagb_debt_total_2025,agb_de_panne,2025,6719962,,,bbc_jr_realized,src_depanne_agb_jr2025_rvb_gr,strong,AGB totale schuld 6.720m (~92pct assets) FOI residual; tick1148
 bud_dpagb_debt_st_2025,agb_de_panne,2025,1898169,,,bbc_jr_realized,src_depanne_agb_jr2025_rvb_gr,strong,AGB schuld op ten hoogste 1 jaar 1.898m ST wall; tick1148
 bud_dpagb_leningen_2025,agb_de_panne,2025,591058,,,bbc_jr_realized,src_depanne_agb_jr2025_rvb_gr,strong,AGB leningentabel 2025 591057.92; tick1148
-bud_bh_fin_debt_st_due_2025,city_bilzen_hoeselt,2025,4080081,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Fin schulden LT binnen jaar YE2025 4.080m; tick1148
-bud_bh_leasing_lt_2025,city_bilzen_hoeselt,2025,3174015,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Leasing LT YE2025 3.174m; tick1148
-bud_bh_bank_debt_lt_2025,city_bilzen_hoeselt,2025,32536732,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Bank debt LT YE2025 32.537m; tick1148
-bud_bh_fva_eva_2025,city_bilzen_hoeselt,2025,8292435,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Fin VA EVA/AGB path YE2025 8.292m; tick1148
-bud_bh_mva_2025,city_bilzen_hoeselt,2025,216442191,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,MVA YE2025 216.442m; tick1148
-bud_bh_leasing_mva_2025,city_bilzen_hoeselt,2025,7497017,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Leasing MVA gemeenschap+bedrijf YE2025 ~7.497m; tick1148
-bud_bh_expl_ont_2025,city_bilzen_hoeselt,2025,92962552,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Exploitatieontvangsten 92.963m 2025; tick1148
-bud_bh_expl_uit_2025,city_bilzen_hoeselt,2025,82154029,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Exploitatieuitgaven 82.154m 2025; tick1148
-bud_bh_invest_uit_2025,city_bilzen_hoeselt,2025,25394012,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Investeringsuitgaven 25.394m vs MJP 39.321 UNDERSPEND; tick1148
-bud_bh_invest_ont_2025,city_bilzen_hoeselt,2025,3583979,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Investeringsontvangsten 3.584m 2025; tick1148
-bud_bh_budget_2025,city_bilzen_hoeselt,2025,-14523778,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Budgettair resultaat boekjaar -14.524m 2025; tick1148
-bud_bh_cum_prior_2025,city_bilzen_hoeselt,2025,30467125,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Gecumuleerd budgettair prior YE 30.467m fusion carry; tick1148
-bud_bh_cum_budget_2025,city_bilzen_hoeselt,2025,15943347,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Gecumuleerd budgettair YE2025 15.943m; tick1148
-bud_bh_pnl_2025,city_bilzen_hoeselt,2025,167775,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,P&L overschot +0.168m 2025 (ops -4.223m + fin +4.391m); tick1148
-bud_bh_personnel_onderwijs_other_2025,city_bilzen_hoeselt,2025,5006349,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Onderwijs ten laste andere overheden 5.006m 2025; tick1148
-bud_bh_toelagen_agb_2025,city_bilzen_hoeselt,2025,3200967,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Toelage eigen AGB 3.201m 2025 dual residual; tick1148
-bud_bh_toelagen_igs_2025,city_bilzen_hoeselt,2025,3282896,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Toelage IGS 3.283m 2025; tick1148
-bud_bh_interest_2025,city_bilzen_hoeselt,2025,1168926,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Rente 1.169m 2025; tick1148
-bud_bh_new_leasings_2025,city_bilzen_hoeselt,2025,675455,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Nieuwe leasings 0.675m 2025; tick1148
-bud_bh_loan_repay_2025,city_bilzen_hoeselt,2025,4511300,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Periodieke aflossingen 4.511m 2025; tick1148
-bud_bh_agb_bbr_consol_2025,agb_bilzen_hoeselt,2025,119538,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,AGB consol BBR 0.120m (Entity II FOI full BBC); tick1148
-bud_bh_agb_afm_consol_2025,agb_bilzen_hoeselt,2025,885472,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,AGB consol AFM +0.885m (Entity II FOI full BBC); tick1148
+bud_bh_fin_debt_st_due_2025,city_bilzen_hoeselt,2025,4080081,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Fin schulden LT binnen jaar YE2025 4.080m; tick1149
+bud_bh_leasing_lt_2025,city_bilzen_hoeselt,2025,3174015,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Leasing LT YE2025 3.174m; tick1149
+bud_bh_bank_debt_lt_2025,city_bilzen_hoeselt,2025,32536732,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Bank debt LT YE2025 32.537m; tick1149
+bud_bh_fva_eva_2025,city_bilzen_hoeselt,2025,8292435,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Fin VA EVA/AGB path YE2025 8.292m; tick1149
+bud_bh_mva_2025,city_bilzen_hoeselt,2025,216442191,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,MVA YE2025 216.442m; tick1149
+bud_bh_leasing_mva_2025,city_bilzen_hoeselt,2025,7497017,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Leasing MVA gemeenschap+bedrijf YE2025 ~7.497m; tick1149
+bud_bh_expl_ont_2025,city_bilzen_hoeselt,2025,92962552,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Exploitatieontvangsten 92.963m 2025; tick1149
+bud_bh_expl_uit_2025,city_bilzen_hoeselt,2025,82154029,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Exploitatieuitgaven 82.154m 2025; tick1149
+bud_bh_invest_uit_2025,city_bilzen_hoeselt,2025,25394012,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Investeringsuitgaven 25.394m vs MJP 39.321 UNDERSPEND; tick1149
+bud_bh_invest_ont_2025,city_bilzen_hoeselt,2025,3583979,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Investeringsontvangsten 3.584m 2025; tick1149
+bud_bh_budget_2025,city_bilzen_hoeselt,2025,-14523778,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Budgettair resultaat boekjaar -14.524m 2025; tick1149
+bud_bh_cum_prior_2025,city_bilzen_hoeselt,2025,30467125,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Gecumuleerd budgettair prior YE 30.467m fusion carry; tick1149
+bud_bh_cum_budget_2025,city_bilzen_hoeselt,2025,15943347,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Gecumuleerd budgettair YE2025 15.943m; tick1149
+bud_bh_pnl_2025,city_bilzen_hoeselt,2025,167775,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,P&L overschot +0.168m 2025 (ops -4.223m + fin +4.391m); tick1149
+bud_bh_personnel_onderwijs_other_2025,city_bilzen_hoeselt,2025,5006349,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Onderwijs ten laste andere overheden 5.006m 2025; tick1149
+bud_bh_toelagen_agb_2025,city_bilzen_hoeselt,2025,3200967,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Toelage eigen AGB 3.201m 2025 dual residual; tick1149
+bud_bh_toelagen_igs_2025,city_bilzen_hoeselt,2025,3282896,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Toelage IGS 3.283m 2025; tick1149
+bud_bh_interest_2025,city_bilzen_hoeselt,2025,1168926,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Rente 1.169m 2025; tick1149
+bud_bh_new_leasings_2025,city_bilzen_hoeselt,2025,675455,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Nieuwe leasings 0.675m 2025; tick1149
+bud_bh_loan_repay_2025,city_bilzen_hoeselt,2025,4511300,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Periodieke aflossingen 4.511m 2025; tick1149
+bud_bh_agb_bbr_consol_2025,agb_bilzen_hoeselt,2025,119538,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,AGB consol BBR 0.120m (Entity II FOI full BBC); tick1149
+bud_bh_agb_afm_consol_2025,agb_bilzen_hoeselt,2025,885472,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,AGB consol AFM +0.885m (Entity II FOI full BBC); tick1149
+bud_blz_assets_2025,city_bilzen_hoeselt,2025,330114570,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Assets balanstotaal YE2025 330.115m first fusion; tick1149
+bud_blz_equity_2025,city_bilzen_hoeselt,2025,243098379,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Nettoactief YE2025 243.098m (~73.6pct assets); tick1149
+bud_blz_debt_total_2025,city_bilzen_hoeselt,2025,87016191,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Schulden total YE2025 87.016m; tick1149
+bud_blz_fin_debt_2025,city_bilzen_hoeselt,2025,39790827,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Fin schulden total YE2025 39.791m DECLINING; tick1149
+bud_blz_fin_debt_lt_2025,city_bilzen_hoeselt,2025,35710746,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Fin schulden LT YE2025 35.711m; tick1149
+bud_blz_cash_2025,city_bilzen_hoeselt,2025,14509713,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Liquide middelen YE2025 14.510m; tick1149
+bud_blz_pension_prov_2025,city_bilzen_hoeselt,2025,29717371,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Pensioenvoorzieningen YE2025 29.717m FOI residual; tick1149
+bud_blz_fva_total_2025,city_bilzen_hoeselt,2025,71769275,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Fin VA total YE2025 71.769m; tick1149
+bud_blz_fva_igs_2025,city_bilzen_hoeselt,2025,58041220,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Fin VA IGS YE2025 58.041m; tick1149
+bud_blz_cap_subs_2025,city_bilzen_hoeselt,2025,69201955,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Kapitaalsubsidies YE2025 69.202m; tick1149
+bud_blz_expl_saldo_2025,city_bilzen_hoeselt,2025,10808523,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Exploitatiesaldo +10.809m 2025; tick1149
+bud_blz_invest_saldo_2025,city_bilzen_hoeselt,2025,-21810034,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Investeringssaldo -21.810m 2025; tick1149
+bud_blz_fin_saldo_2025,city_bilzen_hoeselt,2025,-3522268,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Financieringssaldo -3.522m 2025; tick1149
+bud_blz_bbr_2025,city_bilzen_hoeselt,2025,11686734,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Beschikbaar budgettair resultaat 11.687m 2025; tick1149
+bud_blz_afm_2025,city_bilzen_hoeselt,2025,7245899,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Autofinancieringsmarge +7.246m 2025; tick1149
+bud_blz_afm_gecorr_2025,city_bilzen_hoeselt,2025,8267065,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Gecorrigeerde AFM +8.267m 2025; tick1149
+bud_blz_personnel_2025,city_bilzen_hoeselt,2025,45670281,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Bezoldigingen 45.670m 2025; tick1149
+bud_blz_fiscal_2025,city_bilzen_hoeselt,2025,42642111,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Fiscale opbrengsten+boetes 42.642m 2025; tick1149
+bud_blz_fiscal_ov_2025,city_bilzen_hoeselt,2025,15804447,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Opcentiemen OV 15.804m 2025; tick1149
+bud_blz_fiscal_apb_2025,city_bilzen_hoeselt,2025,18895638,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Aanvullende PB 18.896m 2025; tick1149
+bud_blz_gemeentefonds_2025,city_bilzen_hoeselt,2025,13439734,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Gemeentefonds 13.440m 2025; tick1149
+bud_blz_toelagen_2025,city_bilzen_hoeselt,2025,14911590,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Toegestane werkingssubsidies 14.912m 2025; tick1149
+bud_blz_toelagen_police_2025,city_bilzen_hoeselt,2025,4641276,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Toelage politiezone 4.641m 2025; tick1149
+bud_blz_toelagen_fire_2025,city_bilzen_hoeselt,2025,1688746,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Toelage hulpverleningszone 1.689m 2025; tick1149
+bud_blz_toelagen_other_2025,city_bilzen_hoeselt,2025,1429508,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Toelagen andere begunstigden 1.430m FOI L5; tick1149
+bud_blz_ocmw_aid_2025,city_bilzen_hoeselt,2025,2489449,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Individuele hulpverlening OCMW 2.489m 2025; tick1149
+bud_blz_new_loans_2025,city_bilzen_hoeselt,2025,0,,,BBC JR2025 primary,src_bilzen_hoeselt_jr2025,strong,Nieuwe bankleningen 0 2025 (MJP 15.070m undrawn); tick1149

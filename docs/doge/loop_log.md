@@ -15929,3 +15929,21 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1149** residual dual L5; deferred **rq_116**; progress@1150 in 2
 
+### Tick 1149 - 2026-08-07T16:00:00Z
+
+- Unit: **rq_1149** (FOI-adjacent residual dual - **Stad+OCMW Bilzen-Hoeselt Jaarrekening 2025 full BBC bundel** first fusion YE)
+- Found (strong primary BBC 182p; KBO GE **0207.475.377** / OCMW **0212.241.047**; Deken Paquayplein 1 3740; AD Claudia Swennen FD Luc Moors Burg Bruno Steegen; GR/OCMW 23.06.2026):
+  - Assets **EUR330.115m** / equity **EUR243.098m** / cash **EUR14.510m**
+  - Fin debt T3 **EUR39.791m DECLINING** (LT 35.711 / ST due 4.080; VL loan takeover end-2024); leasing LT **EUR3.174m**; new bank loans **EUR0** vs MJP **15.070m undrawn**
+  - Pension provisie **EUR29.717m** / FVA **EUR71.769m** (IGS 58.041)
+  - AFM **+EUR7.246m** / gecorr **+EUR8.267m** / BBR **EUR11.687m** / budget **-EUR14.524m** / cum prior **EUR30.467m**
+  - Expl **EUR92.963m / 82.154m** saldo **+EUR10.809m** / invest **-EUR21.810m** (uit 25.394 vs MJP 39.321 UNDERSPEND) / fin saldo **-EUR3.522m**
+  - P&L **+EUR0.168m** (ops -4.223 + fin +4.391) / fiscal **EUR42.642m** / personnel **EUR45.670m**
+  - Werkingsub **EUR14.912m** (AGB 3.201 / police 4.641 / fire 1.689 / IGS 3.283 / other 1.430 FOI)
+  - AGB consol only: BBR **EUR0.120m** / AFM **+EUR0.885m** / gecorr **+EUR1.237m** - full BBC FOI
+- Dual: first fusion residual fill (Bilzen+Hoeselt); former Hoeselt vzw culture/sport path into city/AGB
+- Note: concurrent tick1148 was De Panne (git thrash OK); Oosterzele / Nijlen login / Bornem JR2024 / Schelle GE+OCMW / Lievegem / Roeselare residual next; **progress@1150 NEXT**
+- Wrote: budgets +49 (bud_blz_* + bud_bh_* non-colliding); commitments +7; leaderboard +10; sources +1; entities city_bilzen_hoeselt + agb_bilzen_hoeselt; FOI **gap_bilzen_hoeselt_agb_full_bbc_invest_l5** prio9 ready + draft; PDF primary (not committed ~7.9MB); rq_1149=done; spawn **rq_1150**; ticks=1149
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1150** residual dual L5 + **progress@1150**; deferred **rq_116**
+
