@@ -32393,3 +32393,30 @@ bud_agbduf_div_2025,agb_duffel,2025,13663,,,bbc_jr_realized,src_agb_duffel_jr202
 bud_agbduf_pnl_2025,agb_duffel,2025,68316,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,PnL overschot boekjaar +0.068m; tick1219
 bud_agbduf_goods_services_2025,agb_duffel,2025,562785,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Goederen en diensten 0.563m (staff 0); tick1219
 bud_agbduf_omzet_2025,agb_duffel,2025,946008,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Omzet/werking 0.946m (incl prijssubsidie FOI residual); tick1219
+bud_agbmor_expl_ont_2025,agb_mortsel,2025,1949153,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Exploitatieontvangsten 1.949m; tick1220
+bud_agbmor_expl_uit_2025,agb_mortsel,2025,1264032,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Exploitatieuitgaven 1.264m; tick1220
+bud_agbmor_expl_saldo_2025,agb_mortsel,2025,685121,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Exploitatiesaldo +0.685m; tick1220
+bud_agbmor_invest_uit_2025,agb_mortsel,2025,23433,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Investeringsuitgaven 0.023m LOW; tick1220
+bud_agbmor_invest_ont_2025,agb_mortsel,2025,924164,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Investeringsontvangsten 0.924m (VL sub 0.592 + Fort4 0.333); tick1220
+bud_agbmor_invest_saldo_2025,agb_mortsel,2025,900731,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Investeringssaldo +0.901m; tick1220
+bud_agbmor_fin_uit_2025,agb_mortsel,2025,1126341,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Periodieke aflossingen 1.126m (incl city final 0.677m); tick1220
+bud_agbmor_fin_saldo_2025,agb_mortsel,2025,-1126341,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Financieringssaldo -1.126m; tick1220
+bud_agbmor_budget_2025,agb_mortsel,2025,459511,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Budgettair resultaat +0.460m; tick1220
+bud_agbmor_bbr_2025,agb_mortsel,2025,554795,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,BBR beschikbaar +0.555m; tick1220
+bud_agbmor_afm_2025,agb_mortsel,2025,-441220,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,AFM -0.441m NEG CRITICAL (city loan final repay); tick1220
+bud_agbmor_afm_gecorr_2025,agb_mortsel,2025,-170506,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Gecorr AFM -0.171m NEG; tick1220
+bud_agbmor_assets_2025,agb_mortsel,2025,10977586,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Assets balanstotaal YE2025 10.978m; tick1220
+bud_agbmor_cash_2025,agb_mortsel,2025,178615,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Liquide middelen YE2025 0.179m DROP from 0.371m; tick1220
+bud_agbmor_mva_2025,agb_mortsel,2025,10003567,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,MVA gemeenschapsgoederen 10.004m; tick1220
+bud_agbmor_equity_2025,agb_mortsel,2025,958773,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Nettoactief YE2025 0.959m (thin vs debt); tick1220
+bud_agbmor_cum_loss_2025,agb_mortsel,2025,-1122739,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Gecumuleerd tekort -1.123m WORSENING; tick1220
+bud_agbmor_fin_debt_2025,agb_mortsel,2025,9569002,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Fin schulden total 9.569m (LT 9.117 + ST due 0.452); tick1220
+bud_agbmor_fin_debt_lt_2025,agb_mortsel,2025,9116724,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Fin schulden LT 9.117m; tick1220
+bud_agbmor_fin_debt_st_due_2025,agb_mortsel,2025,452279,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Fin schulden LT binnen jaar 0.452m; tick1220
+bud_agbmor_pnl_2025,agb_mortsel,2025,-49587,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,PnL tekort -0.050m (Fort4 minwaarde 0.059m); tick1220
+bud_agbmor_staff_2025,agb_mortsel,2025,493452,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Personeel 0.493m; tick1220
+bud_agbmor_goods_services_2025,agb_mortsel,2025,608073,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Goederen en diensten 0.608m; tick1220
+bud_agbmor_interest_2025,agb_mortsel,2025,155283,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Rente schulden 0.155m (bank 0.072 + andere 0.083); tick1220
+bud_agbmor_vl_invest_sub_2025,agb_mortsel,2025,591598,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,VL investeringssubsidie sportlandschap 0.592m; tick1220
+bud_agbmor_fort4_liq_2025,agb_mortsel,2025,332566,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Fort4 BV liquidation receipt 0.333m; tick1220
+bud_agbmor_fort4_minwaarde_2025,agb_mortsel,2025,59354,,,bbc_jr_realized,src_agb_mortsel_jr2025,strong,Fort4 participatie minwaarde 0.059m; tick1220

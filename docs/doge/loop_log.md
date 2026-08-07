@@ -17067,3 +17067,14 @@ Append-only. Each tick adds a short entry.
 - Note: Putte Prive full dossier still 404 public (ODAA-only); FOI ready only — **do not send**
 - Next: prio5 **rq_1220** residual dual L5 VL; deferred **rq_116**
 
+
+## Tick 1220 — 2026-08-09T03:30:00Z — rq_1220 AGB Mortsel dual residual JR2025
+
+- Unit: **rq_1220** (residual dual L5 VL — **AGB Mortsel Patrimonium en Vrije Tijd full BBC JR2025** after city GE)
+- Primary: https://www.mortsel.be/producten/detail/3695/jaarrekening-agb (54p); KBO **0885.082.438** NIS 11029; Voorzitter Michiel Hubeau Secr Tom De Wit
+- Key € (strong): **AFM −0.441m NEG** · **gecorr AFM −0.171m NEG** · budget **+0.460m** · BBR **0.555m** · expl **+0.685m** · invest **+0.901m** · **fin debt 9.569m** · cash **0.179m DROP** · equity **0.959m** (cum loss **−1.123m**) · assets **10.978m** · PnL **−0.050m** · staff **0.493m** · city final repay **0.677m** · VL invest-sub **0.592m** · Fort4 liq **0.333m**
+- Dual: city Mortsel GE already mined — AGB dual residual closed for full BBC layer
+- Wrote: budgets +27; commitments +8; leaderboard +8; sources +1; entity **agb_mortsel**; FOI **gap_agb_mor_afm_neg_0_44m_gecorr_0_17m_debt_9_57m_cum_loss_1_12m_cash_drop_l5** prio9 ready + draft; rq_1220=done; spawn **rq_1221**; ticks=1220
+- Progress@1220: refresh progress_every_10_ticks + waste top10
+- Next: prio5 **rq_1221** residual dual L5 VL; deferred **rq_116**
+

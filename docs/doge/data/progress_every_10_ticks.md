@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1220** (2026-08-09)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1211-1220: Putte dual path · Aalter · Tremelo · Keerbergen · Beleko Bertem · Bilzen-Hoeselt full BBC · AGSO Knokke-Heist · Maldegem · **AGB Duffel EUR9.0m** · **AGB Mortsel EUR9.57m** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1211-1220 is VL residual dual L5 (not near-complete of 348bn):** **AGB Mortsel** AFM **−0.44m** debt **9.57m** cum loss **−1.12m** cash DROP · **AGB Duffel** gecorr AFM **−0.37m** debt **9.00m** leasing **3.13m** · Maldegem AFM **−0.13m** debt **6.19m** full div · AGSO Knokke-Heist debt **78.1m** BBR **−1.09m** · Bilzen-Hoeselt prijssub **3.00m** · Keerbergen city loan **6.65m** · Beleko debt **4.54m** |
+| **E. FOI-ready gaps** | **~863** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~911** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB dual debt/AFM NEG + leasing/city-loan shells** (**NEW Mortsel EUR9.57m** · **Duffel EUR9.00m** · Maldegem **EUR6.19m** · AGSO KH **EUR78.1m** · Keerbergen **EUR6.65m** · Beleko **EUR4.54m** · Bilzen-Hoeselt **EUR10.0m** · prior Heist/Zemst/Lokeren/SportAG stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1220)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~32421 |
+| commitments.csv | ~4337 |
+| leaderboard.csv | ~6518 |
+| entities.csv | ~948 |
+| sources.csv | ~2136 |
+| FOI ready | ~863 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~911 |
+| research_queue open | rq_116 deferred + rq_1221 hole-fill after progress |
+
+### What improved since tick 1210
+
+- **VL residual dual JR2025 Entity II (tick1211-1219):** Aalter energy · Tremelo debt JUMP · Keerbergen city 0% **6.65m** · Beleko Bertem debt **4.54m** · Bilzen-Hoeselt full BBC prijssub **3.0m** · AGSO Knokke-Heist fin debt **78.1m** BBR deep NEG · Maldegem AFM NEG full div · **AGB Duffel** gecorr AFM **−0.37m** debt **9.0m**.
+- **NEW (tick1220):** **AGB Mortsel** AFM **−0.441m** (city final repay **0.677m**) · fin debt **9.569m** · cum loss **−1.123m** · cash DROP **0.179m** · Fort4 minwaarde **0.059m** · staff **0.493m** · VL invest-sub **0.592m**.
+- **Dual map themes:** **gecorr AFM / AFM NEG + large dual debt shells** (Mortsel 9.57 · Duffel 9.0 · Maldegem 6.19) · **city loan final amort spikes** · **staffed leisure AGBs vs zero-staff shells** · **mega AGSO utility debt** (Knokke-Heist 78m).
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
 ## Snapshot at **tick 1210** (2026-08-08)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
