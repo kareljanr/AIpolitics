@@ -16397,3 +16397,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1177** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1177 - 2026-08-08T06:00:00Z
+
+- Unit: **rq_1177** (FOI-adjacent residual dual - **AGB Willebroek Jaarrekening 2025** Entity II sport/culture after city GE)
+- Found (strong primary BBC 136p RVB/GR 23.06.2026 pub 24.06.2026; KBO **0679.456.888**; Pastorijstraat 1; Secr Dirk Blommaert Rekenplichtige Katja Mampaey):
+  - Assets **EUR24.779m JUMP** from 14.141 / equity **EUR1.153m THIN** / cash **EUR1.505m JUMP** from 0.106
+  - Fin debt T4 **EUR20.892m JUMP** from 12.245 (LT 20.277 / ST due 0.615); **new loans EUR9.176m**; repay 0.529m
+  - Invest **EUR9.287m** (MVA buildings JUMP 12.274->21.151 Huis vrije tijd/sport)
+  - BBR **EUR0.435m** / **AFM EUR-0.026m NEG** / **gecorr AFM EUR-0.477m NEG DEEP** (aangewezen 0.980m)
+  - Expl **EUR2.032m / 1.530m** saldo **+EUR0.502m** / **prijssubsidie EUR1.453m**
+  - PnL **EUR-0.035m NEG** / dividend **EUR0.001m**; ST payables JUMP 0.662->2.701m
+- Dual: city Willebroek GE tick1020 already flagged toegestane leningen 9.18m JUMP - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen / Bornem JR2024 / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Middelkerke / AGB Brasschaat residual next
+- Wrote: budgets +33 (bud_agbwil_*); commitments +6; leaderboard +8; sources +1; entity agb_willebroek; FOI **gap_agb_wil_debt_jump_20_9m_invest_9_3m_afm_neg_prijssub_l5** prio9 ready + draft; PDF primary (not committed ~9.0MB); rq_1177=done; spawn **rq_1178**; ticks=1177
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1178** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local

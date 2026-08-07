@@ -31117,3 +31117,36 @@ bud_agbha_pnl_2025,agb_hamont_achel,2025,107144,,,BBC JR2025 primary,src_agb_ham
 bud_agbha_dividend_2025,agb_hamont_achel,2025,15000,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Dividend to city 0.015m DROP from 0.160m; tick1176
 bud_agbha_interest_2025,agb_hamont_achel,2025,2756,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Financiele kosten 0.003m; tick1176
 bud_agbha_depr_2025,agb_hamont_achel,2025,142817,,,BBC JR2025 primary,src_agb_hamont_achel_jr2025,strong,Afschrijvingen 0.143m; tick1176
+bud_agbwil_assets_2025,agb_willebroek,2025,24779052,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Assets balanstotaal YE2025 24.779m JUMP from 14.141m; tick1177
+bud_agbwil_equity_2025,agb_willebroek,2025,1152535,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Nettoactief YE2025 1.153m THIN vs debt 20.9m; tick1177
+bud_agbwil_cum_pnl_2025,agb_willebroek,2025,538590,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Gecumuleerd overschot YE2025 0.539m DROP from 0.574m; tick1177
+bud_agbwil_cap_subs_2025,agb_willebroek,2025,588946,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Kapitaalssubsidies YE2025 0.589m; tick1177
+bud_agbwil_other_netto_2025,agb_willebroek,2025,25000,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Overig nettoactief YE2025 0.025m; tick1177
+bud_agbwil_debt_total_2025,agb_willebroek,2025,23626517,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Schulden total YE2025 23.627m JUMP; tick1177
+bud_agbwil_fin_debt_2025,agb_willebroek,2025,20892330,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Fin schulden T4 total YE2025 20.892m JUMP from 12.245m; tick1177
+bud_agbwil_fin_debt_lt_2025,agb_willebroek,2025,20277237,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Fin schulden LT YE2025 20.277m; tick1177
+bud_agbwil_fin_debt_st_due_2025,agb_willebroek,2025,615093,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Fin schulden LT vervallend YE2025 0.615m; tick1177
+bud_agbwil_cash_2025,agb_willebroek,2025,1505487,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Liquide middelen YE2025 1.505m JUMP from 0.106m; tick1177
+bud_agbwil_mva_2025,agb_willebroek,2025,21513777,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,MVA YE2025 21.514m JUMP from 12.741m; tick1177
+bud_agbwil_mva_buildings_2025,agb_willebroek,2025,21150813,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,MVA terreinen/gebouwen YE2025 21.151m JUMP; tick1177
+bud_agbwil_st_nonruil_recv_2025,agb_willebroek,2025,1535645,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,ST vorderingen niet-ruil YE2025 1.536m; tick1177
+bud_agbwil_st_nonfin_debt_2025,agb_willebroek,2025,2700639,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,ST niet-fin schulden ruil YE2025 2.701m JUMP (construction); tick1177
+bud_agbwil_expl_rec_2025,agb_willebroek,2025,2032160,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Exploitatieontvangsten 2.032m; tick1177
+bud_agbwil_expl_exp_2025,agb_willebroek,2025,1529912,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Exploitatieuitgaven 1.530m; tick1177
+bud_agbwil_expl_saldo_2025,agb_willebroek,2025,502248,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Exploitatiesaldo +0.502m; tick1177
+bud_agbwil_prijssub_2025,agb_willebroek,2025,1452586,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Prijssubsidie gemeente 1.453m; tick1177
+bud_agbwil_invest_exp_2025,agb_willebroek,2025,9287132,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Investeringsuitgaven 9.287m MASSIVE (Huis vrije tijd/sport); tick1177
+bud_agbwil_invest_saldo_2025,agb_willebroek,2025,-9287132,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Investeringssaldo -9.287m; tick1177
+bud_agbwil_new_loans_2025,agb_willebroek,2025,9176183,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Nieuwe leningen 9.176m JUMP (city dual tick1020); tick1177
+bud_agbwil_repay_2025,agb_willebroek,2025,528710,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Periodieke aflossingen 0.529m; tick1177
+bud_agbwil_fin_saldo_2025,agb_willebroek,2025,8647473,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Financieringssaldo +8.647m; tick1177
+bud_agbwil_budget_result_2025,agb_willebroek,2025,-137412,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Budgettair resultaat boekjaar -0.137m; tick1177
+bud_agbwil_bbr_2025,agb_willebroek,2025,434836,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Beschikbaar BBR YE2025 0.435m; tick1177
+bud_agbwil_afm_2025,agb_willebroek,2025,-26463,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,AFM -0.026m NEG; tick1177
+bud_agbwil_afm_gecorr_2025,agb_willebroek,2025,-477341,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Gecorr AFM -0.477m NEG DEEP (aangewezen 0.980m); tick1177
+bud_agbwil_aangewezen_amort_2025,agb_willebroek,2025,979589,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Gecorrigeerde aflossingen o.b.v. fin schulden 0.980m; tick1177
+bud_agbwil_pnl_2025,agb_willebroek,2025,-34606,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,P&L -0.035m NEG; tick1177
+bud_agbwil_dividend_2025,agb_willebroek,2025,1000,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Dividend to city 0.001m while PnL NEG; tick1177
+bud_agbwil_interest_2025,agb_willebroek,2025,55,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Financiele kosten J5 0.0001m thin; tick1177
+bud_agbwil_depr_2025,agb_willebroek,2025,526448,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,Afschrijvingen 0.526m; tick1177
+bud_agbwil_mjp_debt_2026,agb_willebroek,2025,19954170,,,BBC JR2025 primary,src_agb_willebroek_jr2025,strong,MJP fin debt YE2026 path 19.954m; tick1177

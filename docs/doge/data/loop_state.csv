@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T05:30:00Z,rq_1176,1176,no,tick1176 AGB Hamont-Achel dual residual zero debt invest 1.25m cash DROP BBR 1.03m sport transfer 2028; next rq_1177 residual dual L5; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T06:00:00Z,rq_1177,1177,no,tick1177 AGB Willebroek dual residual debt JUMP 20.9m invest 9.3m new loans 9.18m AFM NEG prijssub 1.45m; next rq_1178 residual dual L5; rq_116 deferred; continuous hole_fill
