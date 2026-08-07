@@ -1,2 +1,2 @@
 ﻿"state_id","mode","current_sprint","last_tick_utc","last_unit_id","ticks_completed","paused","notes"
-"main","continuous","hole_fill","2026-08-12T05:30:00Z","rq_1128","1128","yes","human paused=yes; last tick1128 AGB Landen Entity II; resume with paused=no recreates watcher fire_immediately; next rq_1129 residual dual L5; progress@1130 in 2; rq_116 deferred"
+"main","continuous","hole_fill","2026-08-12T05:30:00Z","rq_1128","1128","no","human resume paused=no; last tick1128 AGB Landen Entity II; next rq_1129 residual dual L5; progress@1130 in 2; rq_116 deferred; watcher recreated fire_immediately"
