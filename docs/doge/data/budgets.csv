@@ -31959,3 +31959,31 @@ bud_agbhim_reserve_10pct_2025,agb_him_hamme,2025,6381,,,NBB JR2025 primary,src_a
 bud_agbhim_staff_2025,agb_him_hamme,2025,0,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB no personnel VTE line zero staff on AGB books; tick1205
 bud_agbhim_gov_guaranteed_debt_2025,agb_him_hamme,2025,1210000,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB door BE overheden gewaarborgde bank debt 1.210m; tick1205
 bud_agbhim_nonrecurrent_prior_2024,agb_him_hamme,2025,2076916,,,NBB JR2025 primary,src_agb_him_hamme_jr2025,strong,NBB 2024 non-recurrent ops income 2.077m (base effect; not 2025); tick1205
+bud_agboud_assets_2025,agb_oudsbergen,2025,19734123,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB balanstotaal 19.734m DROP from 20.487m; tick1206
+bud_agboud_equity_2025,agb_oudsbergen,2025,1859473,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB eigen vermogen thin 1.859m vs debt; tick1206
+bud_agboud_capital_2025,agb_oudsbergen,2025,436250,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB onbeschikbare inbreng 0.436m; tick1206
+bud_agboud_reserves_2025,agb_oudsbergen,2025,193205,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB reserves 0.193m; tick1206
+bud_agboud_retained_2025,agb_oudsbergen,2025,1229831,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB overgedragen resultaat 1.230m; tick1206
+bud_agboud_mva_2025,agb_oudsbergen,2025,17990634,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB MVA 17.991m; tick1206
+bud_agboud_mva_buildings_2025,agb_oudsbergen,2025,17535263,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB terreinen/gebouwen 17.535m JUMP (WIP transfer class); tick1206
+bud_agboud_cash_2025,agb_oudsbergen,2025,1240168,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB liquide middelen 1.240m JUMP from 0.944m; tick1206
+bud_agboud_st_recv_2025,agb_oudsbergen,2025,490017,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB ST vorderingen 0.490m DROP from 1.488m; tick1206
+bud_agboud_debt_total_2025,agb_oudsbergen,2025,17874636,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB schulden 17.875m; tick1206
+bud_agboud_fin_debt_lt_2025,agb_oudsbergen,2025,16423755,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB fin debt LT 16.424m ALL city loans (1740002); tick1206
+bud_agboud_fin_debt_st_due_2025,agb_oudsbergen,2025,920476,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB ST due city loans 0.920m; tick1206
+bud_agboud_fin_debt_2025,agb_oudsbergen,2025,17344231,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB city loan fin debt total 17.344m; tick1206
+bud_agboud_trade_payables_2025,agb_oudsbergen,2025,165161,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB leveranciers 0.165m DROP from 0.766m; tick1206
+bud_agboud_div_payable_2025,agb_oudsbergen,2025,8231,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB rechthebbenden resultaat 0.008m; tick1206
+bud_agboud_omzet_2025,agb_oudsbergen,2025,1892781,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB omzet 1.893m (incl prijssub 1.277m); tick1206
+bud_agboud_prijssub_2025,agb_oudsbergen,2025,1277153,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB prijssubsidies 1.277m city residual; tick1206
+bud_agboud_ops_rev_2025,agb_oudsbergen,2025,1916124,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB bedrijfsopbrengsten 1.916m; tick1206
+bud_agboud_ops_cost_2025,agb_oudsbergen,2025,1839247,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB bedrijfskosten 1.839m JUMP from 1.347m; tick1206
+bud_agboud_goederen_diensten_2025,agb_oudsbergen,2025,922793,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB handelsgoederen+diensten ~0.923m (0.285+0.638); tick1206
+bud_agboud_depr_2025,agb_oudsbergen,2025,868819,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB afschrijvingen 0.869m JUMP from 0.424m (building recognition); tick1206
+bud_agboud_ops_result_2025,agb_oudsbergen,2025,76877,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB bedrijfswinst 0.077m DROP from 0.602m; tick1206
+bud_agboud_pnl_2025,agb_oudsbergen,2025,82315,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB winst boekjaar 0.082m; tick1206
+bud_agboud_div_city_2025,agb_oudsbergen,2025,8231,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB vergoeding inbreng/div city 0.008m; tick1206
+bud_agboud_reserve_add_2025,agb_oudsbergen,2025,8231,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB toevoeging beschikbare reserves 0.008m; tick1206
+bud_agboud_energy_2025,agb_oudsbergen,2025,239340,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB electricity+gas+stookolie ~0.239m (153+66+21); tick1206
+bud_agboud_staff_2025,agb_oudsbergen,2025,0,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB no bezoldigingen VTE; uitzend 0; zero staff residual; tick1206
+bud_agboud_interest_2025,agb_oudsbergen,2025,317,,,NBB JR2025 primary,src_agb_oudsbergen_jr2025,strong,NBB financiele kosten ~0 (city 0% interest class residual FOI); tick1206

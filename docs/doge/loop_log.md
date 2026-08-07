@@ -16876,3 +16876,18 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1206** residual dual L5 VL; deferred **rq_116**
 
+
+### Tick 1206 - 2026-08-08T20:30:00Z
+
+- Unit: **rq_1206** (FOI-adjacent residual dual - **AGB Oudsbergen Jaarrekening 2025** Entity II sport/culture after city GE)
+- Found (strong primary NBB interne+externe; KBO **0828.680.502**; Dorpsstraat 44; AV 03.06.2026):
+  - Assets **EUR19.734m** / equity thin **EUR1.859m** / MVA **EUR17.991m** (buildings JUMP WIP transfer)
+  - Fin debt **EUR17.344m ALL city loans** (LT 16.424 + ST due 0.920); interest ~**EUR0** class
+  - Cash **EUR1.240m JUMP** / prijssub **EUR1.277m** / omzet **EUR1.893m** / PnL **EUR0.082m** / div city **EUR0.008m**
+  - Ops result **EUR0.077m** / depr **EUR0.869m JUMP** / energy ~**EUR0.239m** / staff **0**
+  - Erfpacht sport/culture sites **canon EUR0,01/yr** (35y from 2014)
+- Dual: city Oudsbergen GE already mined - AGB dual residual (NBB strong; BBC AFM FOI)
+- Wrote: budgets +28; commitments +6; leaderboard +7; sources +1; entity agb_oudsbergen; FOI **gap_agb_ouds_city_loan_17_34m_prijssub_1_28m_equity_thin_bbc_l5** prio9 ready + draft; rq_1206=done; spawn **rq_1207**; ticks=1206
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1207** residual dual L5 VL; deferred **rq_116**
+

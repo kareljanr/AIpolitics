@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T20:00:00Z,rq_1205,1205,no,tick1205 AGB HIM Hamme dual residual assets 14.26m fin debt 10.51m city loans 8.66m cash DROP div 0.06m FOI BBC AFM; next rq_1206 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T20:30:00Z,rq_1206,1206,no,tick1206 AGB Oudsbergen dual residual city loans 17.34m prijssub 1.28m equity thin 1.86m FOI BBC AFM; next rq_1207 residual dual L5 VL; rq_116 deferred; continuous hole_fill
