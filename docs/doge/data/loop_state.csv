@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T23:40:00Z,rq_1236,1236,no,tick1236 AGB Oud-Turnhout dual residual prijssub 0.37m coeff 5.33 full div 0.08m capital inject 0.60m FOI ready; next rq_1237 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T00:00:00Z,rq_1237,1237,no,tick1237 AGSL Leuven dual residual BBR -10.88m ST non-ruil 16.2m city tussen 1.77m FOI ready; next rq_1238 residual dual L5 VL; continuous hole_fill

@@ -17208,3 +17208,9 @@ Append-only. Each tick adds a short entry.
 - EUR strong: assets **4.834m**; city capital **4.000m** (+inject **0.600m**); prijssub **0.365m** (coeff **5.33**, ~80% expl); full div/capital-remuneration **0.082m**; BBR **+0.084m** (prior cum **−0.531m**); AFM **+0.212m**; fin debt **0**; tickets **0.078m**.
 - CSVs: sources/entities/budgets+26/commitments+5/leaderboard+5 + FOI ready `gap_agb_out_prijssub_0_37m_full_div_0_08m_city_capital_0_60m_coeff_5_33_l5` (not sent); rq_1236=done; spawn rq_1237.
 - Next: rq_1237 residual dual L5 VL JR2025 hole_fill.
+
+### Tick 1237 — 2026-08-08 — rq_1237 AGSL Leuven dual residual
+- Unit: AG Stadsontwikkeling Leuven JR2025 Entity II after city GE tick841 (KBO 0870.310.526; 147p text primary).
+- EUR strong: assets **87.0m**; BBR **−10.883m** DEEP NEG; cum loss **−2.980m**; ST non-ruil debt **16.198m**; fin debt **11.042m**; inventory **16.799m**; city tussenkomst **1.772m**; PnL **−0.402m**; desinvest **10.626m**; new loans **2.000m**; AFM **+1.711m**.
+- CSVs: sources/entities/budgets+33/commitments+7/leaderboard+7 + FOI ready `gap_agsl_leuven_bbr_neg_10_88m_cum_loss_2_98m_st_nonruil_16_2m_city_tussen_1_77m_l5` (not sent); rq_1237=done; spawn rq_1238.
+- Next: rq_1238 residual dual L5 VL JR2025 hole_fill.

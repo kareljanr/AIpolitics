@@ -32781,3 +32781,36 @@ bud_agbout_tickets_2025,agb_oud_turnhout,2025,78402,,,bbc_jr_realized,src_agb_ou
 bud_agbout_staff_2025,agb_oud_turnhout,2025,0,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Zero staff; tick1236
 bud_agbout_goederen_2025,agb_oud_turnhout,2025,147889,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Goederen en diensten 0.148m; tick1236
 bud_agbout_depr_2025,agb_oud_turnhout,2025,242589,,,bbc_jr_realized,src_agb_oud_turnhout_jr2025,strong,Afschrijvingen 0.243m; tick1236
+bud_agsl_assets_2025,agb_agsl_leuven,2025,87022139,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,J4 balanstotaal 87.022m DROP vs 92.212m; tick1237
+bud_agsl_equity_2025,agb_agsl_leuven,2025,58515387,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,J4 nettoactief 58.515m DROP; tick1237
+bud_agsl_cum_loss_2025,agb_agsl_leuven,2025,-2979992,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Gecumuleerd tekort -2.980m DEEPENING; tick1237
+bud_agsl_overig_netto_2025,agb_agsl_leuven,2025,60600046,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Overig nettoactief 60.600m; tick1237
+bud_agsl_cash_2025,agb_agsl_leuven,2025,3006020,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Liquide middelen 3.006m JUMP; tick1237
+bud_agsl_st_recv_2025,agb_agsl_leuven,2025,3334816,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,ST vorderingen 3.335m; tick1237
+bud_agsl_inventory_2025,agb_agsl_leuven,2025,16798844,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Voorraden/bestellingen in uitvoering 16.799m real-estate stock; tick1237
+bud_agsl_mva_2025,agb_agsl_leuven,2025,62514592,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,MVA 62.515m; tick1237
+bud_agsl_fin_debt_lt_2025,agb_agsl_leuven,2025,10735760,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Fin debt LT 10.736m; tick1237
+bud_agsl_fin_debt_st_due_2025,agb_agsl_leuven,2025,305801,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Fin debt ST due 0.306m; tick1237
+bud_agsl_fin_debt_2025,agb_agsl_leuven,2025,11041561,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Fin debt total loans 11.042m (kengetallen); tick1237
+bud_agsl_st_nonruil_debt_2025,agb_agsl_leuven,2025,16198345,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,ST niet-ruil schulden 16.198m MASSIVE; tick1237
+bud_agsl_st_debt_total_2025,agb_agsl_leuven,2025,17654338,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,ST schulden total 17.654m; tick1237
+bud_agsl_expl_ont_2025,agb_agsl_leuven,2025,13275254,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Exploitatieontvangsten 13.275m; tick1237
+bud_agsl_expl_uit_2025,agb_agsl_leuven,2025,11445296,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Exploitatieuitgaven 11.445m; tick1237
+bud_agsl_expl_saldo_2025,agb_agsl_leuven,2025,1829958,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Exploitatiesaldo +1.830m; tick1237
+bud_agsl_invest_uit_2025,agb_agsl_leuven,2025,7136789,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Investeringsuitgaven 7.137m; tick1237
+bud_agsl_desinvest_2025,agb_agsl_leuven,2025,10626288,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Desinvesteringen 10.626m (kengetallen); tick1237
+bud_agsl_invest_ont_2025,agb_agsl_leuven,2025,10686288,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Investeringsontvangsten 10.686m; tick1237
+bud_agsl_new_loans_2025,agb_agsl_leuven,2025,2000000,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Nieuwe leningen 2.000m; tick1237
+bud_agsl_amort_2025,agb_agsl_leuven,2025,252981,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Periodieke aflossingen 0.253m; tick1237
+bud_agsl_interest_2025,agb_agsl_leuven,2025,325267,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Intresten leningen 0.325m; tick1237
+bud_agsl_budget_result_2025,agb_agsl_leuven,2025,5401231,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Budgettair resultaat +5.401m (desinvest-driven); tick1237
+bud_agsl_bbr_2025,agb_agsl_leuven,2025,-10883367,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,BBR -10.883m DEEP NEG; tick1237
+bud_agsl_afm_2025,agb_agsl_leuven,2025,1710788,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,AFM +1.711m; tick1237
+bud_agsl_afm_gecorr_2025,agb_agsl_leuven,2025,1220205,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Gecorr AFM +1.220m; tick1237
+bud_agsl_pnl_2025,agb_agsl_leuven,2025,-402356,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,PnL -0.402m NEG carried forward; tick1237
+bud_agsl_staff_2025,agb_agsl_leuven,2025,2553121,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Bezoldigingen 2.553m; tick1237
+bud_agsl_goederen_2025,agb_agsl_leuven,2025,11409051,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Goederen en diensten 11.409m; tick1237
+bud_agsl_depr_2025,agb_agsl_leuven,2025,2130015,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Afschrijvingen 2.130m; tick1237
+bud_agsl_city_tussenkomst_2025,agb_agsl_leuven,2025,1771678,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Stad Leuven tussenkomst total 1.772m (result 1.636m + vastgoed prefin 0.135m GR); tick1237
+bud_agsl_werksub_algemeen_2025,agb_agsl_leuven,2025,1745074,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,J5 algemene werkingssubsidies 1.745m (city path); tick1237
+bud_agsl_toelagen_granted_2025,agb_agsl_leuven,2025,225000,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Toegestane werkingssubsidies uit 0.225m; tick1237
