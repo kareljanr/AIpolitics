@@ -16614,3 +16614,25 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1190** residual dual L5 Nijlen/Bornem; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1190 - 2026-08-08T12:30:00Z
+
+- Unit: **rq_1190** (FOI-adjacent residual dual - **AGB Nijlen Jaarrekening 2025** Entity II after/with city GE)
+- Found (strong primary BBC raadpleeg GR 16.06.2026; KBO **0863.925.550**; Kerkstraat 4; FD Pieter Marien AD wnd Eve Heremans; Voorzitter AGB Victor De Groof):
+  - Assets **EUR6.819m DROP** from 7.230 / equity **EUR1.345m** / cash **EUR0.185m**
+  - Fin debt **EUR5.360m DROP** (LT 4.927 + ST due 0.433); repay **0.433m**; no new loans
+  - BBR **EUR0.410m** / AFM **+EUR0.064m POS** / **gecorr AFM +EUR0.033m POS**
+  - Expl **EUR1.473m / 0.977m** saldo **+0.497m** / invest **0.081m** / **zero city werkingsub** / **zero staff**
+  - PnL **+EUR0.057m** retained (no div); goederen/diensten **0.960m**
+- City GE+OCMW integrated besluit (same zitting): assets **EUR128.859m** / equity **EUR88.867m** / debt **EUR39.992m** / BBR **EUR5.843m** / AFM **EUR2.738m** / budget year **-EUR2.083m** / PnL **+EUR0.710m**
+- Dual: AGB full BBC closed; city besluit core filled; Bornem still JR2024-only residual
+- Wrote: budgets +40 (bud_agbnij_* + bud_nij_* city); commitments +6; leaderboard +8; sources +2; entities city_nijlen+agb_nijlen; FOI **gap_agb_nijlen_debt_5_36m_zero_city_sub_cash_thin_l5** prio8 ready + draft; PDF primary (not committed large); rq_1190=done; spawn **rq_1191**; ticks=1190
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1191** residual dual L5 Bornem; deferred **rq_116**
+- Git: pull may be blocked by unstaged local noise - continue on local if needed
+
+### Progress @ tick 1190
+
+- Refreshed `progress_every_10_ticks.md` (layers A-E) + `doge_waste_top10_current.md`.
+- Inventory: budgets ~31520 · commitments ~4154 · leaderboard ~6307 · entities ~918 · sources ~2105 · FOI ready ~833 / answered ~9 / partial ~27 / total ~881.
+- Pure annual waste top10 unchanged (GIP/fossil/cars/cheque/reporte). Dual residual 1181-1190: Poperinge leasing+CRITICAL cash · Ieper Vauban/Musea debt JUMP · Lommel Sport AFM NEG · Nijlen zero-sub AGB · Oosterzele SPA FOI.

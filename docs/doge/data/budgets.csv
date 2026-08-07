@@ -31476,3 +31476,46 @@ bud_agbpop_fin_cost_2025,agb_de_kouter_poperinge,2025,238408,,,BBC JR2025 primar
 bud_agbpop_fin_income_2025,agb_de_kouter_poperinge,2025,466631,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Financiele opbrengsten 0.467m; tick1188
 bud_agbpop_depr_2025,agb_de_kouter_poperinge,2025,778914,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Afschrijvingen 0.779m; tick1188
 bud_agbpop_staff_2025,agb_de_kouter_poperinge,2025,0,,,BBC JR2025 primary,src_agb_de_kouter_poperinge_jr2025,strong,Personeel ZERO (zero since 2023); tick1188
+bud_agbnij_assets_2025,agb_nijlen,2025,6818535,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Assets balanstotaal YE2025 6.819m DROP from 7.230m; tick1190
+bud_agbnij_equity_2025,agb_nijlen,2025,1344956,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Nettoactief YE2025 1.345m; tick1190
+bud_agbnij_cum_pnl_2025,agb_nijlen,2025,271823,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Gecumuleerd overschot YE2025 0.272m; tick1190
+bud_agbnij_other_netto_2025,agb_nijlen,2025,1073134,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Overig nettoactief YE2025 1.073m; tick1190
+bud_agbnij_debt_total_2025,agb_nijlen,2025,5473579,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Schulden total YE2025 5.474m DROP from 5.942m; tick1190
+bud_agbnij_fin_debt_2025,agb_nijlen,2025,5360189,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Fin schulden YE2025 5.360m DROP -7pct; tick1190
+bud_agbnij_fin_debt_lt_2025,agb_nijlen,2025,4927141,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Fin schulden LT YE2025 4.927m; tick1190
+bud_agbnij_fin_debt_st_due_2025,agb_nijlen,2025,433047,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Fin schulden LT vervallend YE2025 0.433m; tick1190
+bud_agbnij_cash_2025,agb_nijlen,2025,184645,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Liquide middelen YE2025 0.185m DROP from 0.240m; tick1190
+bud_agbnij_st_recv_2025,agb_nijlen,2025,316496,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,ST vorderingen YE2025 0.316m; tick1190
+bud_agbnij_mva_2025,agb_nijlen,2025,6265887,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,MVA YE2025 6.266m; tick1190
+bud_agbnij_mva_buildings_2025,agb_nijlen,2025,6077816,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,MVA terreinen/gebouwen YE2025 6.078m; tick1190
+bud_agbnij_expl_rec_2025,agb_nijlen,2025,1473478,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Exploitatieontvangsten 1.473m; tick1190
+bud_agbnij_expl_exp_2025,agb_nijlen,2025,976714,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Exploitatieuitgaven 0.977m; tick1190
+bud_agbnij_expl_saldo_2025,agb_nijlen,2025,496764,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Exploitatiesaldo +0.497m; tick1190
+bud_agbnij_werking_rec_2025,agb_nijlen,2025,1472912,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Ontvangsten uit de werking 1.473m; tick1190
+bud_agbnij_invest_exp_2025,agb_nijlen,2025,80677,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Investeringsuitgaven 0.081m; tick1190
+bud_agbnij_invest_saldo_2025,agb_nijlen,2025,-80677,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Investeringssaldo -0.081m; tick1190
+bud_agbnij_repay_2025,agb_nijlen,2025,432842,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Periodieke aflossingen 0.433m; tick1190
+bud_agbnij_fin_saldo_2025,agb_nijlen,2025,-432842,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Financieringssaldo -0.433m (no new loans); tick1190
+bud_agbnij_budget_result_2025,agb_nijlen,2025,-16755,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Budgettair resultaat boekjaar -0.017m; tick1190
+bud_agbnij_bbr_2025,agb_nijlen,2025,409968,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Beschikbaar BBR YE2025 0.410m; tick1190
+bud_agbnij_afm_2025,agb_nijlen,2025,63922,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,AFM +0.064m POS; tick1190
+bud_agbnij_afm_gecorr_2025,agb_nijlen,2025,33322,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Gecorr AFM +0.033m POS; tick1190
+bud_agbnij_aangewezen_amort_2025,agb_nijlen,2025,463442,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Gecorrigeerde aflossingen 0.463m (8pct norm); tick1190
+bud_agbnij_pnl_2025,agb_nijlen,2025,57140,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,P&L +0.057m retained; tick1190
+bud_agbnij_dividend_2025,agb_nijlen,2025,0,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Dividend/rechthebbenden 0 (over te dragen); tick1190
+bud_agbnij_fin_cost_2025,agb_nijlen,2025,8661,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Financiele kosten 0.009m; tick1190
+bud_agbnij_fin_income_2025,agb_nijlen,2025,15,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Financiele opbrengsten ~0; tick1190
+bud_agbnij_goods_services_2025,agb_nijlen,2025,959982,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Goederen en diensten 0.960m; tick1190
+bud_agbnij_depr_2025,agb_nijlen,2025,439624,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Afschrijvingen 0.440m; tick1190
+bud_agbnij_staff_2025,agb_nijlen,2025,0,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Personeel ZERO; tick1190
+bud_agbnij_city_werksub_2025,agb_nijlen,2025,0,,,BBC JR2025 primary,src_agb_nijlen_jr2025,strong,Werkingssubsidies stad/gemeente ZERO; tick1190
+bud_nij_assets_2025,city_nijlen,2025,128858904,,,BBC JR2025 GR besluit,src_nijlen_ge_jr2025_besluit,strong,Assets balanstotaal YE2025 128.859m (GR besluit); tick1190
+bud_nij_equity_2025,city_nijlen,2025,88867098,,,BBC JR2025 GR besluit,src_nijlen_ge_jr2025_besluit,strong,Netto-actief YE2025 88.867m; tick1190
+bud_nij_debt_total_2025,city_nijlen,2025,39991806,,,BBC JR2025 GR besluit,src_nijlen_ge_jr2025_besluit,strong,Schulden total YE2025 39.992m; tick1190
+bud_nij_cash_proxy_2025,city_nijlen,2025,7877922,,,BBC JR2025 GR besluit,src_nijlen_ge_jr2025_besluit,strong,Liquide middelen dashboard ~7.878m (GE pack); tick1190
+bud_nij_bbr_2025,city_nijlen,2025,5842867,,,BBC JR2025 GR besluit,src_nijlen_ge_jr2025_besluit,strong,BBR YE2025 5.843m; tick1190
+bud_nij_afm_2025,city_nijlen,2025,2737594,,,BBC JR2025 GR besluit,src_nijlen_ge_jr2025_besluit,strong,AFM +2.738m POS; tick1190
+bud_nij_budget_result_2025,city_nijlen,2025,-2083015,,,BBC JR2025 GR besluit,src_nijlen_ge_jr2025_besluit,strong,Budgettair resultaat boekjaar -2.083m; tick1190
+bud_nij_pnl_2025,city_nijlen,2025,709630,,,BBC JR2025 GR besluit,src_nijlen_ge_jr2025_besluit,strong,P&L +0.710m; tick1190
+bud_nij_costs_2025,city_nijlen,2025,48342560,,,BBC JR2025 GR besluit,src_nijlen_ge_jr2025_besluit,strong,Kosten 48.343m; tick1190
+bud_nij_revenue_2025,city_nijlen,2025,49052189,,,BBC JR2025 GR besluit,src_nijlen_ge_jr2025_besluit,strong,Opbrengsten 49.052m; tick1190

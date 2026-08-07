@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 1190** (2026-08-08)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1181-1190: Herent De Kouter · Vosselaar · Ninove · Hove · Lommel Sport · Vauban Ieper · Musea Ieper · De Kouter Poperinge · Oosterzele FOI-block · **Nijlen AGB EUR6.82m** / city **EUR128.9m** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1181-1190 is VL residual dual L5 (not near-complete of 348bn):** **Poperinge AGB De Kouter** assets **EUR25.0m** debt **EUR14.5m** leasing **EUR6.0m** cash **CRITICAL 0.04m** gecorr AFM **−0.64m NEG DEEP** · **Ieper Vauban** debt JUMP **EUR12.5m** zwembad invest **EUR4.3m** AFM NEG · **Ieper Musea** debt JUMP **EUR9.2m** invest **EUR4.5m** city loans · **Lommel Sport** debt **EUR15.7m** AFM NEG div · **Nijlen AGB** debt **EUR5.36m** zero city sub zero staff AFM/gecorr POS · **Oosterzele** JR2025 FOI-block (SPA) · prior Middelkerke/Brasschaat stack retained |
+| **E. FOI-ready gaps** | **~833** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~881** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / **Bilzen-Hoeselt EUR330m** / dual stack retained not full TE) · **AGB dual debt/AFM NEG + leasing/erfpacht/city-loan shells** (Poperinge **EUR14.5m** + leasing **EUR6.0m** · Vauban **EUR12.5m** · Musea **EUR9.2m** · Lommel Sport **EUR15.7m** · Nijlen **EUR5.36m** · Middelkerke **EUR23.4m** erfpacht · Brasschaat **EUR9.34m** · Willebroek **EUR20.9m** · Genk **EUR12.9m** / leasing **EUR11.2m**) · **LUWA PPP EUR590m** · **Peer VitaS borg ~EUR43m contingent** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 1190)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~31520 |
+| commitments.csv | ~4154 |
+| leaderboard.csv | ~6307 |
+| entities.csv | ~918 |
+| sources.csv | ~2105 |
+| FOI ready | ~833 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~881 |
+| research_queue open | rq_116 deferred + rq_1191 hole-fill after progress |
+
+### What improved since tick 1180
+
+- **VL residual dual JR2025 Entity II (tick1181-1188):** Herent De Kouter · Vosselaar · Ninove · Hove (NBB) · Lommel Sport debt **15.7m** AFM NEG · **Vauban Ieper** debt JUMP **12.5m** zwembad · **Musea Ieper** debt JUMP **9.2m** city loans · **De Kouter Poperinge** debt **14.5m** leasing **6.0m** cash CRITICAL gecorr AFM **−0.64m**.
+- **Entity II / dual FOI (tick1189-1190):** **Oosterzele** GR 18/06/2026 signal but SPA/API FOI-block (no public BBC euros). **AGB Nijlen** full BBC — assets **EUR6.82m** debt **EUR5.36m** AFM/gecorr POS · zero city werksub · zero staff · city GE besluit assets **EUR128.9m** AFM **EUR2.74m** budget year **−EUR2.08m**.
+- **Dual map themes:** **zwembad invest+loan JUMP** (Vauban) · **museum city-loan shells** (Musea Ieper) · **leasing+CRITICAL cash** (Poperinge) · **zero-subsidy zero-staff AGB** (Nijlen) · **SPA opacity FOI** (Oosterzele).
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 1180** (2026-08-08)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
