@@ -16497,3 +16497,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1183** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1183 - 2026-08-08T09:00:00Z
+
+- Unit: **rq_1183** (FOI-adjacent residual dual - **AGB Ninove Jaarrekening 2025** Entity II after city GE)
+- Found (strong primary BBC 97p RVB 30.04.2026 GR 22.06.2026; KBO **0877.586.912** NIS **41048**; Parklaan 15; Voorzitter Rudy Corijn Secr Kelly De Brabanter):
+  - Assets **EUR0.263m** DROP / equity **EUR0.103m flat** / cash **EUR0.227m**
+  - Fin debt ~**EUR0.011m** tiny / ST nonfin **0.136m** / MVA residual **0.001m** only
+  - BBR **EUR0.122m** / **AFM EUR-0.004m NEG** / gecorr AFM **-0.001m NEG**
+  - Expl **EUR0.188m / 0.188m** saldo **+0.0005m** — **SHRINK from ~1.0m+** (2020-22)
+  - Staff costs **0.038m** DROP from 0.196m; invest **ZERO**
+  - PnL **+EUR0.128m** / **FULL dividend EUR0.128m while AFM NEG** (0 over te dragen)
+- Dual: city Ninove GE already mined - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen / Bornem residual next
+- Wrote: budgets +27 (bud_agbnin_*); commitments +6; leaderboard +8; sources +1; entity agb_ninove; FOI **gap_agb_ninove_full_div_0_13m_afm_neg_shrink_shell_l5** prio9 ready + draft; PDF primary (not committed ~3.8MB); rq_1183=done; spawn **rq_1184**; ticks=1183
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1184** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local

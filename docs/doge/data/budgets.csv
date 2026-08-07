@@ -31287,3 +31287,30 @@ bud_agbvoss_dividend_2025,agb_vosselaar,2025,91,,,BBC JR2025 primary,src_agb_vos
 bud_agbvoss_depr_2025,agb_vosselaar,2025,78550,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Afschrijvingen 0.079m; tick1182
 bud_agbvoss_goods_services_2025,agb_vosselaar,2025,214021,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Goederen en diensten 0.214m; tick1182
 bud_agbvoss_staff_2025,agb_vosselaar,2025,0,,,BBC JR2025 primary,src_agb_vosselaar_jr2025,strong,Personeelsinzet ZERO; tick1182
+bud_agbnin_assets_2025,agb_ninove,2025,262747,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Assets balanstotaal YE2025 0.263m DROP from 0.369m; tick1183
+bud_agbnin_equity_2025,agb_ninove,2025,102738,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Nettoactief YE2025 0.103m flat; tick1183
+bud_agbnin_cum_pnl_2025,agb_ninove,2025,75687,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Gecumuleerd overschot YE2025 0.076m flat (full div); tick1183
+bud_agbnin_other_netto_2025,agb_ninove,2025,27052,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Overig nettoactief YE2025 0.027m; tick1183
+bud_agbnin_debt_total_2025,agb_ninove,2025,160008,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Schulden total YE2025 0.160m; tick1183
+bud_agbnin_fin_debt_2025,agb_ninove,2025,10763,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Fin schulden YE2025 0.011m (LT 0.007 + ST due 0.004); tick1183
+bud_agbnin_fin_debt_lt_2025,agb_ninove,2025,7086,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Fin schulden LT YE2025 0.007m; tick1183
+bud_agbnin_fin_debt_st_due_2025,agb_ninove,2025,3677,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Fin schulden LT vervallend YE2025 0.004m; tick1183
+bud_agbnin_cash_2025,agb_ninove,2025,227224,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Liquide middelen YE2025 0.227m DROP from 0.262m; tick1183
+bud_agbnin_mva_2025,agb_ninove,2025,1304,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,MVA YE2025 0.001m residual machines only; tick1183
+bud_agbnin_st_nonfin_debt_2025,agb_ninove,2025,135550,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,ST niet-fin schulden ruil YE2025 0.136m; tick1183
+bud_agbnin_expl_rec_2025,agb_ninove,2025,188091,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Exploitatieontvangsten 0.188m SHRINK from 1.0m+ prior years; tick1183
+bud_agbnin_expl_exp_2025,agb_ninove,2025,187584,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Exploitatieuitgaven 0.188m; tick1183
+bud_agbnin_expl_saldo_2025,agb_ninove,2025,507,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Exploitatiesaldo +0.0005m thin; tick1183
+bud_agbnin_werking_rec_2025,agb_ninove,2025,187375,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Ontvangsten uit de werking 0.187m; tick1183
+bud_agbnin_staff_cost_2025,agb_ninove,2025,37758,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Personeelskosten J5 0.038m DROP from 0.196m; tick1183
+bud_agbnin_repay_2025,agb_ninove,2025,4281,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Periodieke aflossingen 0.004m; tick1183
+bud_agbnin_fin_saldo_2025,agb_ninove,2025,-4281,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Financieringssaldo -0.004m; tick1183
+bud_agbnin_budget_result_2025,agb_ninove,2025,-3775,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Budgettair resultaat boekjaar -0.004m; tick1183
+bud_agbnin_bbr_2025,agb_ninove,2025,121530,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Beschikbaar BBR YE2025 0.122m; tick1183
+bud_agbnin_afm_2025,agb_ninove,2025,-3775,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,AFM -0.004m NEG; tick1183
+bud_agbnin_afm_gecorr_2025,agb_ninove,2025,-697,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Gecorr AFM -0.001m NEG; tick1183
+bud_agbnin_aangewezen_amort_2025,agb_ninove,2025,1204,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Aangewezen aflossingen 0.001m; tick1183
+bud_agbnin_pnl_2025,agb_ninove,2025,127845,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,P&L +0.128m; tick1183
+bud_agbnin_dividend_2025,agb_ninove,2025,127845,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,FULL dividend/rechthebbenden 0.128m while AFM NEG; tick1183
+bud_agbnin_goods_services_2025,agb_ninove,2025,21093,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Goederen en diensten 0.021m DROP from 0.129m; tick1183
+bud_agbnin_invest_exp_2025,agb_ninove,2025,0,,,BBC JR2025 primary,src_agb_ninove_jr2025,strong,Investeringsuitgaven ZERO 2025; tick1183
