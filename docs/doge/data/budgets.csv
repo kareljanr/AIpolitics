@@ -30650,3 +30650,32 @@ bud_agbrumst_pnl_2025,agb_rumst,2025,19417,,,BBC JR2025 primary,src_agb_rumst_jr
 bud_agbrumst_interest_2025,agb_rumst,2025,85586,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Financiele kosten 0.086m; tick1161
 bud_agbrumst_depr_2025,agb_rumst,2025,339990,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,Afschrijvingen/voorzieningen 0.340m; tick1161
 bud_agbrumst_mjp_debt_2026,agb_rumst,2025,9073370,,,BBC JR2025 primary,src_agb_rumst_jr2025,strong,MJP fin debt YE2026 path 9.073m (new loans planned 2.550m); tick1161
+bud_agbepm_assets_2025,agb_energiepunt_mechelen,2025,9776573,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Assets balanstotaal YE2025 9.777m; tick1162
+bud_agbepm_equity_2025,agb_energiepunt_mechelen,2025,348642,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Nettoactief YE2025 0.349m (cum P&L only); tick1162
+bud_agbepm_debt_total_2025,agb_energiepunt_mechelen,2025,9427931,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Schulden total YE2025 9.428m; tick1162
+bud_agbepm_fin_debt_2025,agb_energiepunt_mechelen,2025,9424935,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Fin schulden T4 total YE2025 9.425m (LT 8.576 + ST due 0.849); tick1162
+bud_agbepm_fin_debt_lt_2025,agb_energiepunt_mechelen,2025,8576357,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Fin schulden LT YE2025 8.576m; tick1162
+bud_agbepm_fin_debt_st_due_2025,agb_energiepunt_mechelen,2025,848578,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Fin schulden LT vervallend YE2025 0.849m; tick1162
+bud_agbepm_cash_2025,agb_energiepunt_mechelen,2025,405671,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Liquide middelen YE2025 0.406m; tick1162
+bud_agbepm_lt_loanbook_2025,agb_energiepunt_mechelen,2025,8496320,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,LT vorderingen ruil YE2025 8.496m citizen energy loans; tick1162
+bud_agbepm_st_loanbook_due_2025,agb_energiepunt_mechelen,2025,842976,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,LT vorderingen binnen jaar YE2025 0.843m; tick1162
+bud_agbepm_loanbook_total_2025,agb_energiepunt_mechelen,2025,9339296,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Total citizen loan book LT+ST due ~9.339m; tick1162
+bud_agbepm_expl_rec_2025,agb_energiepunt_mechelen,2025,233048,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Exploitatieontvangsten 0.233m; tick1162
+bud_agbepm_expl_exp_2025,agb_energiepunt_mechelen,2025,218961,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Exploitatieuitgaven 0.219m; tick1162
+bud_agbepm_expl_saldo_2025,agb_energiepunt_mechelen,2025,14087,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Exploitatiesaldo +0.014m; tick1162
+bud_agbepm_vl_sub_2025,agb_energiepunt_mechelen,2025,220901,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Specifieke werkingssubsidies VL 0.221m; tick1162
+bud_agbepm_city_sub_2025,agb_energiepunt_mechelen,2025,2498,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Algemene werkingssubsidie stad 0.0025m; tick1162
+bud_agbepm_subs_out_2025,agb_energiepunt_mechelen,2025,189989,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Toegestane werkingssubsidies out 0.190m (incl 50k doorstorting stad); tick1162
+bud_agbepm_fin_rec_2025,agb_energiepunt_mechelen,2025,4524949,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Financieringsontvangsten 4.525m (new debt 3.159 + recoveries 1.366); tick1162
+bud_agbepm_fin_exp_2025,agb_energiepunt_mechelen,2025,4523738,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Financieringsuitgaven 4.524m (amort 1.365 + on-lend 3.159); tick1162
+bud_agbepm_fin_saldo_2025,agb_energiepunt_mechelen,2025,1211,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Financieringssaldo +0.001m matched shell; tick1162
+bud_agbepm_new_loans_2025,agb_energiepunt_mechelen,2025,3159109,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Nieuwe leningen opgenomen T4 3.159m; tick1162
+bud_agbepm_onlend_2025,agb_energiepunt_mechelen,2025,3159109,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Toegestane leningen aan burgers 3.159m; tick1162
+bud_agbepm_aflossingen_2025,agb_energiepunt_mechelen,2025,1364629,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Periodieke aflossingen 1.365m (incl MijnVerbouwlening +0.732m); tick1162
+bud_agbepm_recoveries_2025,agb_energiepunt_mechelen,2025,1365840,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Terugvordering toegestane leningen 1.366m; tick1162
+bud_agbepm_budget_result_2025,agb_energiepunt_mechelen,2025,15297,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Budgettair resultaat boekjaar +0.015m; tick1162
+bud_agbepm_bbr_2025,agb_energiepunt_mechelen,2025,419761,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,BBR 0.420m; tick1162
+bud_agbepm_afm_2025,agb_energiepunt_mechelen,2025,15297,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,AFM +0.015m; tick1162
+bud_agbepm_afm_gecorr_2025,agb_energiepunt_mechelen,2025,759769,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,Gecorr AFM +0.760m (recoveries > indicated amort); tick1162
+bud_agbepm_pnl_2025,agb_energiepunt_mechelen,2025,14087,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,P&L +0.014m; tick1162
+bud_agbepm_mjp_debt_2026,agb_energiepunt_mechelen,2025,11660306,,,BBC JR2025 primary,src_agb_energiepunt_mechelen_jr2025,strong,MJP fin debt YE2026 path 11.660m (new 3.600m); tick1162

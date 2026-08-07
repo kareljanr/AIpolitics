@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T22:00:00Z,rq_1161,1161,no,tick1161 AGB Rumst dual residual BBR NEG capital lag 0.415m prijssub 0.558m factor 11.47 debt 7.14m; next rq_1162 residual dual L5; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-07T22:30:00Z,rq_1162,1162,no,tick1162 AGB Energiepunt Mechelen dual residual loanbook 9.34m fin debt 9.42m on-lend 3.16m; next rq_1163 residual dual L5; rq_116 deferred; continuous hole_fill

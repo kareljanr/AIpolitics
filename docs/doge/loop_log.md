@@ -16143,3 +16143,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1162** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1162 - 2026-08-07T22:30:00Z
+
+- Unit: **rq_1162** (FOI-adjacent residual dual - **AGB Energiepunt Mechelen Jaarrekening 2025** Entity II Energiehuis after city GE)
+- Found (strong primary BBC 105p RVB 5.05.2026; KBO **0843.922.170**; Grote Markt 21 2800):
+  - Assets **EUR9.777m** / equity **EUR0.349m** / cash **EUR0.406m** / **no MVA pure financial shell**
+  - **Citizen loan book LT EUR8.496m + ST due 0.843m ~9.339m** / fin debt T4 **EUR9.425m** (LT 8.576 / ST due 0.849)
+  - New funding **EUR3.159m** = on-lend **EUR3.159m** matched / recover **1.366m** ~ amort **1.365m** (MijnVerbouwlening +0.732m)
+  - BBR **EUR0.420m** / AFM **+EUR0.015m** / gecorr **+EUR0.760m** / budget **+EUR0.015m**
+  - VL werkingssub **EUR0.221m** / city **0.0025m** / subsidies out **0.190m** (50k doorstorting) / PnL **+0.014m**
+  - MJP debt YE2026 **EUR11.660m** (+3.600m new funding/on-lend)
+- Dual: city Mechelen GE already mined tick829 - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen login / Bornem JR2024 only / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Genk residual next
+- Wrote: budgets +29 (bud_agbepm_*); commitments +6; leaderboard +7; sources +1; entity agb_energiepunt_mechelen; FOI **gap_agb_energiepunt_loanbook_9m_debt_onlend_vl_sub_l5** prio8 ready + draft; PDF primary (not committed ~5.4MB); rq_1162=done; spawn **rq_1163**; ticks=1162
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1163** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local
