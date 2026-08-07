@@ -30197,3 +30197,25 @@ bud_em_admin_centrum_cum_2025,city_erpe_mere,2025,873546,,,bbc_jr_realized,src_e
 bud_em_vacant_housing_tax_2025,city_erpe_mere,2025,184500,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,Leegstandsheffing 0.185m 2025 (was 0.126m); tick1144
 bud_em_writeoffs_ge_2025,city_erpe_mere,2025,6405,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,Oninbare vorderingen GE write-off proposal total 6405 EUR multi-year stock; tick1144
 bud_em_writeoffs_ocmw_2025,city_erpe_mere,2025,2617,,,bbc_jr_realized,src_erpe_mere_jr2025_doc,strong,Oninbare vorderingen OCMW write-off proposal total 2617 EUR; tick1144
+bud_vors_fiscal_total_2025,city_vorselaar,2025,6313789,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,Tax table sum 6.313789m JR2025 documentatie (OV+APB+motor+diftar+other); tick1145
+bud_vors_fiscal_apb_2025,city_vorselaar,2025,3485309,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,APB 7.5pct 3.485m 2025; tick1145
+bud_vors_fiscal_ov_2025,city_vorselaar,2025,2112926,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,OV 756 opcentiemen 2.113m 2025; tick1145
+bud_vors_fiscal_diftar_2025,city_vorselaar,2025,364062,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,Diftar 0.364m 2025; tick1145
+bud_vors_fiscal_second_homes_2025,city_vorselaar,2025,128450,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,Tweede verblijven 0.128m 2025; tick1145
+bud_vors_sd1_expl_uit_2025,city_vorselaar,2025,1547009,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,SD1 ruimte/omgeving expl uitgaven 1.547m; tick1145
+bud_vors_sd2_expl_uit_2025,city_vorselaar,2025,1033623,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,SD2 vrije tijd expl uitgaven 1.034m; tick1145
+bud_vors_sd3_expl_uit_2025,city_vorselaar,2025,4619469,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,SD3 samenleving/sociaal expl uitgaven 4.619m; tick1145
+bud_vors_sd4_expl_uit_2025,city_vorselaar,2025,5947646,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,SD4 algemeen bestuur expl uitgaven 5.948m (incl police/fire dual); tick1145
+bud_vors_sd5_expl_ont_2025,city_vorselaar,2025,10223320,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,SD5 algemene financiering expl ontvangsten 10.223m (taxes+fonds bulk); tick1145
+bud_vors_sd_expl_uit_sum_2025,city_vorselaar,2025,13305265,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,Sum SD1-5 expl uitgaven 13.305m ODAA (not full consol FOI); tick1145
+bud_vors_sd_expl_ont_sum_2025,city_vorselaar,2025,15099460,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,Sum SD1-5 expl ontvangsten 15.099m ODAA; tick1145
+bud_vors_sd_invest_uit_sum_2025,city_vorselaar,2025,1885495,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,Sum SD1-5 invest uitgaven 1.885m ODAA; tick1145
+bud_vors_police_neteland_2025,city_vorselaar,2025,743118,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,AP4 Politiezone Neteland path expl 0.743m + invest 0.040m separate; dual residual; tick1145
+bud_vors_police_invest_2025,city_vorselaar,2025,40355,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,Police zone invest path 0.040m 2025; tick1145
+bud_vors_fire_kempen_2025,city_vorselaar,2025,139879,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,Brandweerzone Kempen path expl 0.140m 2025; tick1145
+bud_vors_fire_invest_2025,city_vorselaar,2025,54978,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,Fire zone invest path 0.055m 2025; tick1145
+bud_vors_agion_school_invest_ont_2025,city_vorselaar,2025,2500000,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,Agion school campus invest ontvangsten 2.500m 2025 (Kampus/subsidy path); tick1145 HIGH receipt
+bud_vors_sd5_fin_uit_2025,city_vorselaar,2025,195180,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,SD5 financiering uitgaven 0.195m 2025; tick1145
+bud_vors_sd5_fin_ont_2025,city_vorselaar,2025,86087,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,SD5 financiering ontvangsten 0.086m (vs MJP 3.098m planned loans not drawn FOI); tick1145
+bud_vors_staff_vte_2025,city_vorselaar,2025,78,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,Personeelsinzet 78.2 VTE YE2025 (OMGEVING 34.7 WELZIJN 20.1); tick1145 note amount is VTE not EUR
+bud_vors_property_acq_cum_2025,city_vorselaar,2025,1859140,,,bbc_jr_realized,src_vorselaar_jr2025_doc,strong,PRIO property verwerving MVA cum 1.859m (2025 spend 0; sales 0.590m in 2024); tick1145

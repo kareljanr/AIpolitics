@@ -1,2 +1,2 @@
 ﻿state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-12T14:00:00Z,rq_1144,1144,no,last tick1144 Erpe-Mere JR2025 docatie fiscal 17.1m GBB 19/29m police 4.33m Cultuurhuis 7.09m FOI full BBC; next rq_1145 residual dual L5; progress@1150 in 6; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-12T14:30:00Z,rq_1145,1145,no,last tick1145 Vorselaar JR2025 ODAA fiscal 6.31m SD expl 13.3/15.1m police 0.74m Agion 2.5m FOI full BBC; next rq_1146 residual dual L5; progress@1150 in 5; rq_116 deferred; continuous hole_fill

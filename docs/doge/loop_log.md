@@ -15847,3 +15847,24 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1145** residual dual L5; deferred **rq_116**; progress@1150 in 6
 
+
+### Tick 1145 - 2026-08-12T14:30:00Z
+
+- Unit: **rq_1145** (FOI-adjacent residual dual - **Gemeente+OCMW Vorselaar Jaarrekening 2025 documentatie** ODAA+tax+staff+invest; full BBC financial note missing)
+- Found (strong primary ODAA 139p text + annexes; vorselaar.be; KBO GE **0207.215.160** / OCMW **0212.178.590**; NIS **13044**; Markt 14 2290; AD Elly Beirinckx FD Cindy Martens; journal Budg **137426**):
+  - **Fiscal total EUR6.314m** (APB **EUR3.485m** 7.5pct / OV **EUR2.113m** 756 opcentiemen / Diftar **EUR0.364m** / tweede verblijven **EUR0.128m**)
+  - **SD expl sum:** uit **EUR13.305m** / ont **EUR15.099m** (SD1 1.547 / SD2 1.034 / SD3 4.619 / SD4 5.948 / SD5 ont 10.223)
+  - **SD invest sum uit EUR1.885m** (SD2 0.938 incl sport path)
+  - **Police Neteland path EUR0.743m** expl + **EUR0.040m** invest (underfinancing narrative FOI)
+  - **Fire Kempen path EUR0.140m** expl + **EUR0.055m** invest (new allocation key 2025)
+  - **Agion school invest receipt EUR2.500m** Kampus path 2025
+  - Staff **78.2 VTE** (OMGEVING 34.7 / WELZIJN 20.1)
+  - SD5 fin uit **EUR0.195m** / fin ont **EUR0.086m vs MJP 3.098m** loans undrawn FOI; debt-free narrative in ODAA text
+  - Property verwerving cum **EUR1.859m** (2025 spend 0)
+  - **Missing public:** AFM / gecorr AFM / BBR / balanstotaal / equity / cash / fin debt T4 (full BBC financial note FOI)
+- Dual: Vorselaar first residual fill (docs-only stack closed for ODAA+tax)
+- Note: Oosterzele / Nijlen / Bornem / De Panne OCR / Schelle GE+OCMW / Brakel GE+OCMW / Puurs GE+OCMW / AGB Galmaarden residual next; progress@1150 in 5
+- Wrote: budgets +22 (bud_vors_*); commitments +6; leaderboard +7; sources +1; entity city_vorselaar; FOI **gap_vors_full_bbc_afm_debt_l5** prio9 ready + draft; PDF primary (not committed); rq_1145=done; spawn **rq_1146**; ticks=1145
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1146** residual dual L5; deferred **rq_116**; progress@1150 in 5
+
