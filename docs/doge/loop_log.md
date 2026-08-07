@@ -17183,3 +17183,9 @@ Append-only. Each tick adds a short entry.
 - EUR strong: assets **5.569m**; fin debt **4.812m** (erfpacht **3.398m** + city renteloos **1.414m**); gecorr AFM **−0.241m** DEEP NEG; AFM **+0.030m** thin; prijssub **0.332m**; PnL **+0.055m**; partial div **0.005m**; BBR **+0.504m**.
 - CSVs: sources/entities/budgets+27/commitments+6/leaderboard+6 + FOI ready `gap_agb_tsh_gecorr_afm_neg_0_24m_debt_4_81m_erfpacht_prijssub_0_33m_renteloos_l5` (not sent); rq_1232=done; spawn rq_1233.
 - Next: rq_1233 residual dual L5 VL JR2025 hole_fill.
+
+### Tick 1233 — 2026-08-07 — rq_1233 AGB Herselt dual residual
+- Unit: AGB Herselt JR2025 Entity II VTC de Mixx after city GE (KBO 0881.917.070; 130p text primary).
+- EUR strong: assets **4.788m**; fin debt **1.582m**; BBR **+0.657m JUMP**; AFM **+0.148m**; prijssub **0.874m**; first div **0.005m**; PnL **+0.239m**; desinvest Steenakkers **0.334m** + VL invest-sub **0.489m**.
+- CSVs: sources/entities/budgets+27/commitments+6/leaderboard+6 + FOI ready `gap_agb_her_prijssub_0_87m_first_div_0_005m_bbr_jump_land_sale_debt_1_58m_l5` (not sent); rq_1233=done; spawn rq_1234.
+- Next: rq_1234 residual dual L5 VL JR2025 hole_fill.

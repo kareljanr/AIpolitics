@@ -32695,3 +32695,30 @@ bud_agbtsh_inkom_verhuur_2025,agb_tessenderlo,2025,230106,,,bbc_jr_realized,src_
 bud_agbtsh_interest_erfpacht_2025,agb_tessenderlo,2025,18472,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Fin kosten erfpacht indexatie 0.018m; tick1232
 bud_agbtsh_depr_2025,agb_tessenderlo,2025,88272,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Afschrijvingen 0.088m; tick1232
 bud_agbtsh_cum_surplus_2025,agb_tessenderlo,2025,481875,,,bbc_jr_realized,src_agb_tessenderlo_jr2025,strong,Gecumuleerd overschot 0.482m; tick1232
+bud_agbher_assets_2025,agb_herselt,2025,4787538,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,J4 balanstotaal 4.788m JUMP; tick1233
+bud_agbher_equity_2025,agb_herselt,2025,3134904,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,J4 nettoactief 3.135m JUMP; tick1233
+bud_agbher_cash_2025,agb_herselt,2025,436476,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Liquide middelen 0.436m JUMP from 0.158m; tick1233
+bud_agbher_st_recv_2025,agb_herselt,2025,286207,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,ST vorderingen 0.286m; tick1233
+bud_agbher_mva_2025,agb_herselt,2025,4037543,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,MVA 4.038m Mixx shell; tick1233
+bud_agbher_fin_debt_lt_2025,agb_herselt,2025,1472222,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Fin debt LT 1.472m; tick1233
+bud_agbher_fin_debt_st_due_2025,agb_herselt,2025,110000,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Fin debt ST due 0.110m; tick1233
+bud_agbher_fin_debt_2025,agb_herselt,2025,1582222,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Fin debt total 1.582m DECLINE; tick1233
+bud_agbher_expl_ont_2025,agb_herselt,2025,1540438,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Exploitatieontvangsten 1.540m; tick1233
+bud_agbher_expl_uit_2025,agb_herselt,2025,1282001,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Exploitatieuitgaven 1.282m; tick1233
+bud_agbher_expl_saldo_2025,agb_herselt,2025,258436,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Exploitatiesaldo +0.258m; tick1233
+bud_agbher_invest_uit_2025,agb_herselt,2025,360187,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Investeringsuitgaven 0.360m; tick1233
+bud_agbher_invest_ont_2025,agb_herselt,2025,822657,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Investeringsontvangsten 0.823m (sale Steenakkers 0.334m + VL invest-sub tennis/padel 0.489m); tick1233
+bud_agbher_desinvest_sale_2025,agb_herselt,2025,333600,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Verkoop onroerend Steenakkers loten 0.334m; tick1233
+bud_agbher_invest_sub_vl_2025,agb_herselt,2025,489057,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,VL investeringssubsidies tennishal/padel 0.489m; tick1233
+bud_agbher_amort_2025,agb_herselt,2025,110000,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Periodieke aflossingen 0.110m; tick1233
+bud_agbher_budget_result_2025,agb_herselt,2025,610906,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Budgettair resultaat +0.611m JUMP; tick1233
+bud_agbher_bbr_2025,agb_herselt,2025,657498,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,BBR +0.657m JUMP from +0.047m (one-off desinvest+subs); tick1233
+bud_agbher_afm_2025,agb_herselt,2025,148436,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,AFM +0.148m; tick1233
+bud_agbher_afm_gecorr_2025,agb_herselt,2025,123059,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Gecorr AFM +0.123m; tick1233
+bud_agbher_pnl_2025,agb_herselt,2025,239271,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,J5 PnL +0.239m (NBB GR says 0.201m — BBC used); tick1233
+bud_agbher_div_2025,agb_herselt,2025,5000,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,FIRST dividend strip to city 0.005m; tick1233
+bud_agbher_prijssub_2025,agb_herselt,2025,873949,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Prijssubsidies gemeente 0.874m (~57pct expl; usage-hour factor); tick1233
+bud_agbher_staff_2025,agb_herselt,2025,102506,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Bezoldigingen 0.103m (staffed shell); tick1233
+bud_agbher_goederen_2025,agb_herselt,2025,1172758,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Goederen en diensten 1.173m; tick1233
+bud_agbher_depr_2025,agb_herselt,2025,232512,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Afschrijvingen 0.233m; tick1233
+bud_agbher_cum_surplus_2025,agb_herselt,2025,928846,,,bbc_jr_realized,src_agb_herselt_jr2025,strong,Gecumuleerd overschot 0.929m; tick1233
