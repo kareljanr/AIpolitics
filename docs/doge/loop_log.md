@@ -15979,3 +15979,18 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1152** residual dual L5; deferred **rq_116**
 
+### Tick 1152 - 2026-08-07T17:30:00Z
+
+- Unit: **rq_1152** (FOI-adjacent residual dual - **AGB Kontich Jaarrekening 2025** Entity II after city GE)
+- Found (strong primary BBC 34p echo portal; KBO **0871.968.335** NIS **11024**; Gemeenteplein 1 2550; RvB Luc Abrams Dircom Bart Seldeslachts FD Kris Versteven):
+  - Assets **EUR13.489m** / equity **EUR1.025m** / cash **EUR0.020m CRITICAL DROP** (was 0.068m)
+  - Fin debt T4 **EUR12.119m** renteloze **city loan shell** (LT 11.488 / ST due **0.631m**); new loan **EUR0.129m**; repay **EUR0.641m**; interest ~**EUR0**
+  - AFM **+EUR0.023m THIN** / **gecorr AFM -EUR0.346m NEG CRITICAL** / BBR **EUR0.187m** / budget **+EUR0.023m**
+  - Expl **EUR1.490m / 0.826m** saldo **+EUR0.664m** / invest **-EUR0.129m** / fin saldo **-EUR0.512m**
+  - PnL **+EUR0.021m** / MVA **EUR12.921m** sport-vrije tijd shell / city R/C + guarantee residual
+- Dual: city Kontich GE already mined - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen login / Bornem JR2024 / Schelle GE+OCMW / Lievegem / Roeselare / Wommelgem / AGB Essen residual next
+- Wrote: budgets +25 (bud_agbk_*); commitments +5; leaderboard +8; sources +1; entity agb_kontich; FOI **gap_agb_kontich_gecorr_afm_neg_cash_critical_city_loan_l5** prio9 ready + draft; PDF primary (not committed ~1.9MB); rq_1152=done; spawn **rq_1153**; ticks=1152
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1153** residual dual L5; deferred **rq_116**
+

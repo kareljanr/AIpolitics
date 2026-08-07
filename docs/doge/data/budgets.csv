@@ -30373,3 +30373,28 @@ bud_agbmks_interest_2025,agb_merksplas_hofeind,2025,22411,,,BBC JR2025 primary,s
 bud_agbmks_loan_repay_2025,agb_merksplas_hofeind,2025,150000,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Periodieke aflossingen 0.150m 2025; tick1151
 bud_agbmks_new_loans_2025,agb_merksplas_hofeind,2025,0,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Nieuwe leningen 0 2025 (MJP planned 0.315m undrawn); tick1151
 bud_agbmks_nonruil_st_2025,agb_merksplas_hofeind,2025,448236,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,ST niet-ruiltransacties schulden 0.448m FOI residual; tick1151
+bud_agbk_assets_2025,agb_kontich,2025,13488842,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Assets balanstotaal YE2025 13.489m; tick1152
+bud_agbk_equity_2025,agb_kontich,2025,1024922,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Nettoactief YE2025 1.025m thin vs debt; tick1152
+bud_agbk_debt_total_2025,agb_kontich,2025,12463921,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Schulden total YE2025 12.464m; tick1152
+bud_agbk_fin_debt_2025,agb_kontich,2025,12118585,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Fin schulden total YE2025 12.119m renteloze city loan shell; tick1152
+bud_agbk_fin_debt_lt_2025,agb_kontich,2025,11487991,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Fin schulden LT YE2025 11.488m; tick1152
+bud_agbk_fin_debt_st_due_2025,agb_kontich,2025,630593,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Fin schulden LT binnen jaar YE2025 0.631m; tick1152
+bud_agbk_cash_2025,agb_kontich,2025,20316,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Liquide middelen YE2025 0.020m CRITICAL DROP (was 0.068m); tick1152
+bud_agbk_mva_2025,agb_kontich,2025,12921108,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,MVA bedrijfsmatig YE2025 12.921m sport/vrije tijd shell; tick1152
+bud_agbk_cap_subs_2025,agb_kontich,2025,801365,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Kapitaalsubsidies YE2025 0.801m; tick1152
+bud_agbk_expl_ont_2025,agb_kontich,2025,1489900,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Exploitatieontvangsten 1.490m 2025 (incl city prijssub path); tick1152
+bud_agbk_expl_uit_2025,agb_kontich,2025,825639,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Exploitatieuitgaven 0.826m 2025; tick1152
+bud_agbk_expl_saldo_2025,agb_kontich,2025,664261,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Exploitatiesaldo +0.664m 2025; tick1152
+bud_agbk_invest_uit_2025,agb_kontich,2025,128811,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Investeringsuitgaven 0.129m 2025; tick1152
+bud_agbk_invest_saldo_2025,agb_kontich,2025,-128811,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Investeringssaldo -0.129m 2025; tick1152
+bud_agbk_fin_saldo_2025,agb_kontich,2025,-512183,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Financieringssaldo -0.512m 2025; tick1152
+bud_agbk_budget_2025,agb_kontich,2025,23267,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Budgettair resultaat +0.023m 2025 THIN; tick1152
+bud_agbk_cum_prior_2025,agb_kontich,2025,164109,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Gecumuleerd budgettair prior YE 0.164m; tick1152
+bud_agbk_bbr_2025,agb_kontich,2025,187376,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Beschikbaar budgettair resultaat 0.187m 2025; tick1152
+bud_agbk_afm_2025,agb_kontich,2025,23267,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Autofinancieringsmarge +0.023m 2025 THIN; tick1152
+bud_agbk_afm_gecorr_2025,agb_kontich,2025,-346201,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Gecorrigeerde AFM -0.346m NEG CRITICAL; tick1152
+bud_agbk_pnl_2025,agb_kontich,2025,21467,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,PnL overschot +0.021m 2025; tick1152
+bud_agbk_new_loans_2025,agb_kontich,2025,128811,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Nieuwe renteloze city loan 0.129m 2025 (= invest); tick1152
+bud_agbk_loan_repay_2025,agb_kontich,2025,640993,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Periodieke aflossingen city loan 0.641m 2025; tick1152
+bud_agbk_interest_2025,agb_kontich,2025,21,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Rente ~0 2025 (renteloze city financing); tick1152
+bud_agbk_cash_drop_2025,agb_kontich,2025,20316,,,BBC JR2025 primary,src_agb_kontich_jr2025,strong,Cash DROP 0.068m to 0.020m CRITICAL FOI residual; tick1152
