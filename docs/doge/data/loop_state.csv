@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-07T20:16:14Z,rq_1228,1228,no,tick1228 AGB Hasselt Stadsontwikkeling dual residual MJP2025 debt plan 95m YE2024 103m gecorr AFM -2.40m FOI JR scan; next rq_1229 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-07T21:20:00Z,rq_1229,1229,no,tick1229 AG Vilvoorde dual residual BBR -0.45m debt 8.06m prijssub 1.91m full div 0.055m FOI ready; next rq_1230 residual dual L5 VL; continuous hole_fill

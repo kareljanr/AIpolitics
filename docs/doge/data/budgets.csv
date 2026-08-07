@@ -32592,3 +32592,28 @@ bud_agbhas_zwembad_expl_saldo_2025_mjp,agb_hasselt_stadsontwikkeling,2025,-58385
 bud_agbhas_goods_2025_mjp,agb_hasselt_stadsontwikkeling,2025,3053810,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Goederen en diensten MJP 3.054m; MJP planned NOT JR realized; FOI outturn; tick1228
 bud_agbhas_interest_2025_mjp,agb_hasselt_stadsontwikkeling,2025,1265941,,,bbc_mjp_budget,src_agb_hasselt_mjp2025,medium,Rente op schulden MJP 1.266m; MJP planned NOT JR realized; FOI outturn; tick1228
 bud_agbhas_fin_debt_2024_ye,agb_hasselt_stadsontwikkeling,2024,103084513,,,bbc_mjp_risk_note,src_agb_hasselt_mjp2025,strong,Openstaande schuld 31/12/2024 103.085m (5 vast 90.7m @0.94pct + 3 var 12.4m @2.30pct avg 1.32pct); tick1228
+bud_agbvv_expl_ont_2025,agb_vilvoorde,2025,2860498,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Exploitatieontvangsten 2.860m; tick1229
+bud_agbvv_expl_uit_2025,agb_vilvoorde,2025,1999894,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Exploitatieuitgaven 2.000m; tick1229
+bud_agbvv_expl_saldo_2025,agb_vilvoorde,2025,860604,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Exploitatiesaldo +0.861m; tick1229
+bud_agbvv_invest_uit_2025,agb_vilvoorde,2025,1673447,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Investeringsuitgaven 1.673m (Bolwerk PV/dak + Hazeweide + Zeepaardje); tick1229
+bud_agbvv_invest_saldo_2025,agb_vilvoorde,2025,-1673447,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Investeringssaldo -1.673m; tick1229
+bud_agbvv_fin_ont_2025,agb_vilvoorde,2025,110269,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Financieringsontvangsten 0.110m erfpacht recoveries; tick1229
+bud_agbvv_fin_uit_2025,agb_vilvoorde,2025,313026,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Financieringsuitgaven/periodieke aflossingen 0.313m; tick1229
+bud_agbvv_budget_result_2025,agb_vilvoorde,2025,-1015600,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Budgettair resultaat boekjaar -1.016m NEG; tick1229
+bud_agbvv_bbr_2025,agb_vilvoorde,2025,-453533,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Beschikbaar budgettair resultaat -0.454m NEG (invest wall); tick1229
+bud_agbvv_afm_2025,agb_vilvoorde,2025,657847,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,AFM +0.658m; tick1229
+bud_agbvv_afm_gecorr_2025,agb_vilvoorde,2025,300766,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Gecorrigeerde AFM +0.301m (erfpacht long-term drag); tick1229
+bud_agbvv_fin_debt_lt_2025,agb_vilvoorde,2025,7738860,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Fin debt LT 7.739m erfpacht Bolwerk+kleedkamers+Tuchthuis+Zeepaardje; tick1229
+bud_agbvv_fin_debt_st_due_2025,agb_vilvoorde,2025,324446,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Fin debt ST due 0.324m; tick1229
+bud_agbvv_fin_debt_2025,agb_vilvoorde,2025,8063306,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Fin debt total 8.063m (LT+ST due); tick1229
+bud_agbvv_cash_2025,agb_vilvoorde,2025,117790,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Liquide middelen 0.118m thin; tick1229
+bud_agbvv_equity_2025,agb_vilvoorde,2025,73499,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Nettoactief/equity 0.073m = kapitaalsubsidies only (cum surplus 0 after full div); tick1229
+bud_agbvv_lt_recv_2025,agb_vilvoorde,2025,917011,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,LT erfpachtvorderingen 0.917m; tick1229
+bud_agbvv_st_recv_2025,agb_vilvoorde,2025,624116,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,ST vorderingen 0.624m (incl neg prijssub wachtrekeningen Bolwerk 0.252m); tick1229
+bud_agbvv_pnl_2025,agb_vilvoorde,2025,55191,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,PnL/overschot 0.055m (tax-driven profit); tick1229
+bud_agbvv_div_2025,agb_vilvoorde,2025,55191,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Full dividend strip to city 0.055m (=100pct PnL art.105 statuten); tick1229
+bud_agbvv_prijssub_2025,agb_vilvoorde,2025,1914045,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Prijssubsidies stad 1.914m (~67pct expl receipts); loss without sub -1.859m; tick1229
+bud_agbvv_loss_without_prijssub_2025,agb_vilvoorde,2025,1858853,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Structural loss without prijssubsidies 1.859m (stated risk note); tick1229
+bud_agbvv_depr_2025,agb_vilvoorde,2025,873905,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Afschrijvingen 0.874m; tick1229
+bud_agbvv_interest_debt_cost_2025,agb_vilvoorde,2025,191247,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,T1 0040 openbare schuld expl 0.191m (interest path); tick1229
+bud_agbvv_gecorr_afloss_base_2025,agb_vilvoorde,2025,670107,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Gecorrigeerde aflossingen o.b.v. fin debt 0.670m (=8pct prior YE debt); tick1229

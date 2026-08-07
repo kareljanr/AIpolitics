@@ -17158,3 +17158,9 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources×2/entities/budgets/commitments/leaderboard + FOI ready gap_agb_hasselt_stadsontw_jr2025_scan_gecorr_afm_neg_2_40m_debt_95m_l5 (not sent).
 - Next: rq_1229 residual dual L5 VL JR2025 hole_fill.
 
+
+### Tick 1229 — 2026-08-07 — rq_1229 AG Vilvoorde dual residual
+- Unit: AG Vilvoorde JR2025 Entity II after city GE tick863 (KBO 0883.729.881; 53p text primary).
+- EUR strong: BBR **-0.454m** NEG; AFM **+0.658m**; gecorr AFM **+0.301m**; fin debt **8.063m** erfpacht; prijssub **1.914m** (~67% expl); loss without sub **1.859m**; full div **0.055m**; cash thin **0.118m**; equity **0.073m**.
+- CSVs: sources/entities/budgets+25/commitments+7/leaderboard+7 + FOI ready `gap_agb_vv_bbr_neg_0_45m_prijssub_1_91m_full_div_debt_8_06m_l5` (not sent); rq_1229=done; spawn rq_1230.
+- Next: rq_1230 residual dual L5 VL JR2025 hole_fill.
