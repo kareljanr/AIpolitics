@@ -32086,3 +32086,38 @@ bud_agbh_retained_2025,agb_heist_op_den_berg,2025,-230401,,,bbc_jr_realized,src_
 bud_agbh_ops_result_2025,agb_heist_op_den_berg,2025,170097,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Operationeel resultaat +0.170m; tick1209
 bud_agbh_fin_result_2025,agb_heist_op_den_berg,2025,-150498,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Financieel resultaat -0.150m; tick1209
 bud_agbh_invest_underspend_2025,agb_heist_op_den_berg,2025,4291714,,,bbc_jr_realized,src_agb_heist_jr2025,strong,Invest underspend ~4.292m vs MJP 4.722m (De Lichten + CC); tick1209
+bud_agbz_assets_2025,agb_zemst,2025,12551025,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Total assets YE2025 12.551m JUMP from 6.568m; tick1210
+bud_agbz_equity_2025,agb_zemst,2025,77560,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Nettoactief YE2025 0.078m THIN flat; tick1210
+bud_agbz_debt_total_2025,agb_zemst,2025,12473465,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Total schulden YE2025 12.473m; tick1210
+bud_agbz_fin_debt_2025,agb_zemst,2025,12239235,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Fin debt total YE2025 12.239m JUMP from 6.215m; tick1210
+bud_agbz_fin_debt_lt_2025,agb_zemst,2025,11049519,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Fin schulden LT YE2025 11.050m; tick1210
+bud_agbz_fin_debt_st_due_2025,agb_zemst,2025,1189716,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,LT due within year YE2025 1.190m JUMP (ST city BTW credit class); tick1210
+bud_agbz_cash_2025,agb_zemst,2025,257529,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Liquide middelen YE2025 0.258m; tick1210
+bud_agbz_st_recv_2025,agb_zemst,2025,1147068,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,ST vorderingen 1.147m (BTW erfpacht 1.058m); tick1210
+bud_agbz_st_recv_btw_2025,agb_zemst,2025,1058352,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Terug te vorderen BTW erfpacht Turfput 1.058m; tick1210
+bud_agbz_mva_2025,agb_zemst,2025,11143365,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Materiele vaste activa YE2025 11.143m; tick1210
+bud_agbz_leasing_mva_2025,agb_zemst,2025,11026569,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Leasing/soortgelijke MVA 11.027m JUMP (Melkerij+Turfput erfpacht); tick1210
+bud_agbz_expl_rec_2025,agb_zemst,2025,590626,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Exploitatieontvangsten 0.591m; tick1210
+bud_agbz_expl_exp_2025,agb_zemst,2025,502951,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Exploitatieuitgaven 0.503m; tick1210
+bud_agbz_expl_saldo_2025,agb_zemst,2025,87675,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Exploitatiesaldo +0.088m; tick1210
+bud_agbz_invest_exp_2025,agb_zemst,2025,5052080,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Investeringsuitgaven 5.052m (Turfput erfpacht 5.022m + equip); tick1210
+bud_agbz_invest_saldo_2025,agb_zemst,2025,-5052080,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Investeringssaldo -5.052m; tick1210
+bud_agbz_fin_exp_repay_2025,agb_zemst,2025,82692,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Periodieke aflossingen 0.083m; tick1210
+bud_agbz_fin_rec_2025,agb_zemst,2025,6106707,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Financieringsontvangsten 6.107m (new loans+erfpacht+ST); tick1210
+bud_agbz_fin_saldo_2025,agb_zemst,2025,6024015,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Financieringssaldo +6.024m; tick1210
+bud_agbz_budget_result_2025,agb_zemst,2025,1059610,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Budgettair resultaat boekjaar +1.060m; tick1210
+bud_agbz_bbr_2025,agb_zemst,2025,1170095,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Beschikbaar budgettair resultaat BBR 1.170m; tick1210
+bud_agbz_afm_2025,agb_zemst,2025,4983,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,AFM +0.005m thin POS; tick1210
+bud_agbz_gecorr_afm_2025,agb_zemst,2025,-409521,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Gecorrigeerde AFM -0.410m NEG DEEP FOI; tick1210
+bud_agbz_omzet_2025,agb_zemst,2025,590006,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Opbrengsten uit de werking 0.590m (incl prijssub path); tick1210
+bud_agbz_prijssub_2025,agb_zemst,2025,333275,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,City prijssubsidie 0.333m (factor 2.24 then 1.15); tick1210
+bud_agbz_goods_services_2025,agb_zemst,2025,432800,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Goederen en diensten 0.433m; tick1210
+bud_agbz_depr_2025,agb_zemst,2025,87064,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Afschrijvingen 0.087m; tick1210
+bud_agbz_pnl_2025,agb_zemst,2025,59632,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,PnL boekjaar +0.060m; tick1210
+bud_agbz_div_2025,agb_zemst,2025,59632,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Full dividend = full PnL 0.060m to city; tick1210
+bud_agbz_erfpacht_turfput_2025,agb_zemst,2025,5022033,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Sporthal Den Turfput erfpacht transfer 5.022m city renteloos; tick1210
+bud_agbz_st_credit_btw_2025,agb_zemst,2025,1054627,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Kortlopend krediet city BTW erfpacht voorfinanciering 1.055m; tick1210
+bud_agbz_erfpacht_melkerij_canon_2025,agb_zemst,2025,66341,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Jaarlijkse erfpacht GC De Melkerij 0.066m; tick1210
+bud_agbz_energy_elec_2025,agb_zemst,2025,41313,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Elektriciteit 0.041m vs budget 0.014m OVER; tick1210
+bud_agbz_new_loans_small_2025,agb_zemst,2025,30047,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,Kleine invest leningen 0.030m; tick1210
+bud_agbz_btw_recover_residual_2025,agb_zemst,2025,983271,,,bbc_jr_realized,src_agb_zemst_jr2025,strong,BTW Melkerij recover residual net ~0.983m after yr9; tick1210

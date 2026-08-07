@@ -16935,3 +16935,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +38; commitments +7; leaderboard +7; sources +1; entity agb_heist_op_den_berg; FOI **gap_agb_heist_city_loan_21_4m_gecorr_afm_neg_0_49m_div_0_25m_l5** prio9 ready + draft; rq_1209=done; spawn **rq_1210**; ticks=1209
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1210** residual dual L5 VL; deferred **rq_116**
+
+
+### Tick 1210 - 2026-08-08T22:30:00Z
+
+- Unit: **rq_1210** (FOI-adjacent residual dual - **agb@zemst JR2025** Entity II culture/sport after city GE tick912)
+- Found (strong primary full BBC 62p + RvB 25.06.2026; KBO **0653.868.981** NIS 23096; De Griet 1; Voorzitter Koen Vandermeiren):
+  - Assets **EUR12.551m JUMP** / equity **EUR0.078m THIN flat** / cash **EUR0.258m** / leasing MVA **EUR11.027m JUMP**
+  - Fin debt **EUR12.239m JUMP** from 6.215 (LT 11.050 + ST due 1.190); new path **6.107m** incl Turfput erfpacht **5.022m** city renteloos + ST BTW credit **1.055m**
+  - Expl **EUR0.591 / 0.503m** saldo **+0.088m** / BBR **1.170m** / AFM **+0.005m** / gecorr AFM **EUR-0.410m NEG DEEP**
+  - PnL **EUR+0.060m** = full div city / prijssub **EUR0.333m** (factor 2.24->1.15) / elec **0.041m** vs budget 0.014m
+  - Melkerij erfpacht canon **EUR0.066m** / BTW Melkerij residual net ~**0.983m**
+- Dual: city Zemst GE already mined - AGB dual residual closed for full BBC layer
+- Wrote: budgets +35; commitments +7; leaderboard +7; sources +1; entity agb_zemst; FOI **gap_agb_zemst_erfpacht_turfput_5_0m_debt_12_2m_gecorr_afm_neg_0_41m_l5** prio9 ready + draft; rq_1210=done; spawn **rq_1211**; ticks=1210
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1211** residual dual L5 VL (Putte Prive full BBC); deferred **rq_116**
