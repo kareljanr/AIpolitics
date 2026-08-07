@@ -32247,3 +32247,30 @@ bud_agbk_retained_2025,agb_keerbergen,2025,50563,,,bbc_jr_realized,src_agb_keerb
 bud_agbk_staff_2025,agb_keerbergen,2025,0,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Staff 0 (seconded city FOI); tick1214
 bud_agbk_fin_costs_2025,agb_keerbergen,2025,1332,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Financiele kosten 0.001m (renteloos path); tick1214
 bud_agbk_st_debt_2025,agb_keerbergen,2025,1357324,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,ST schulden total 1.357m; tick1214
+bud_agbbl_cash_2025,agb_beleko_bertem,2025,8081,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Kastoestand YE2025 0.008m THIN CRITICAL; tick1215
+bud_agbbl_st_recv_2025,agb_beleko_bertem,2025,49867,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Openstaande vorderingen KT 0.050m; tick1215
+bud_agbbl_st_debt_2025,agb_beleko_bertem,2025,120184,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Openstaande schulden KT 0.120m; tick1215
+bud_agbbl_prijssub_2025,agb_beleko_bertem,2025,103091,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,City prijssubsidie 0.103m (~59pct expl rec); tick1215
+bud_agbbl_expl_exp_2025,agb_beleko_bertem,2025,129677,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Exploitatieuitgaven 0.130m; tick1215
+bud_agbbl_expl_rec_2025,agb_beleko_bertem,2025,173407,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Exploitatieontvangsten 0.173m; tick1215
+bud_agbbl_expl_saldo_2025,agb_beleko_bertem,2025,43730,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Exploitatiesaldo +0.044m (rec-exp); tick1215
+bud_agbbl_budget_result_2025,agb_beleko_bertem,2025,-2944,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Budgettair resultaat -0.003m NEG; tick1215
+bud_agbbl_bbr_2025,agb_beleko_bertem,2025,-13179,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,BBR -0.013m NEG DEEP; tick1215
+bud_agbbl_afm_2025,agb_beleko_bertem,2025,-2944,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,AFM -0.003m NEG (=budget year); tick1215
+bud_agbbl_pnl_2025,agb_beleko_bertem,2025,-4151,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,PnL/verlies -0.004m NEG; tick1215
+bud_agbbl_invest_exp_2025,agb_beleko_bertem,2025,19322,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Investeringen 0.019m; tick1215
+bud_agbbl_new_loans_2025,agb_beleko_bertem,2025,19322,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Nieuwe leningen 0.019m = invest lock; tick1215
+bud_agbbl_fin_debt_2025,agb_beleko_bertem,2025,4542102,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Openstaande schulden uit leningen YE2025 4.542m; tick1215
+bud_agbbl_fin_exp_repay_2025,agb_beleko_bertem,2025,46674,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Periodieke aflossingen 0.047m; tick1215
+bud_agbbl_interest_2025,agb_beleko_bertem,2025,4623,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Intresten 0.005m (erfpacht as rente class); tick1215
+bud_agbbl_st_due_next_2025,agb_beleko_bertem,2025,49058,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Aflossingen volgend jaar 0.049m; tick1215
+bud_agbbl_omzet_2025,agb_beleko_bertem,2025,173407,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Opbrengsten uit de werking 0.173m; tick1215
+bud_agbbl_goods_services_2025,agb_beleko_bertem,2025,111742,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Goederen en diensten 0.112m; tick1215
+bud_agbbl_depr_2025,agb_beleko_bertem,2025,48444,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Afschrijvingen 0.048m; tick1215
+bud_agbbl_energy_elec_2025,agb_beleko_bertem,2025,36069,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Elektriciteit 0.036m (+55pct FOI); tick1215
+bud_agbbl_cum_pl_2025,agb_beleko_bertem,2025,39865,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Gecumuleerd overschot YE2025 0.040m DROP from 0.044m; tick1215
+bud_agbbl_ops_result_2025,agb_beleko_bertem,2025,472,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Operationeel resultaat +0.0005m thin; tick1215
+bud_agbbl_fin_result_2025,agb_beleko_bertem,2025,-4623,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Financieel resultaat -0.005m; tick1215
+bud_agbbl_div_2025,agb_beleko_bertem,2025,0,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Dividend 0 (no uitkering); tick1215
+bud_agbbl_fin_rec_2025,agb_beleko_bertem,2025,19322,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Financieringsontvangsten 0.019m; tick1215
+bud_agbbl_fin_exp_2025,agb_beleko_bertem,2025,46674,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Financieringsuitgaven 0.047m; tick1215

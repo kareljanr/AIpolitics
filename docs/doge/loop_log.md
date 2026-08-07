@@ -17010,3 +17010,18 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +34; commitments +6; leaderboard +7; sources +1; entity agb_keerbergen; FOI **gap_agb_keer_city_loan_6_65m_prijssub_0_86m_afm_thin_div_l5** prio9 ready + draft; rq_1214=done; spawn **rq_1215**; ticks=1214
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1215** residual dual L5 VL; deferred **rq_116**
+
+
+### Tick 1215 - 2026-08-09T01:00:00Z
+
+- Unit: **rq_1215** (FOI-adjacent residual dual - **AGB Beleko Bertem JR2025** Entity II sporthal Verona after city GE tick1084)
+- Found (strong primary kengetallen+J3+J5 via OCR of scan PDF; KBO **0771.621.241**; Tervuursesteenweg 178; AD Bart Devisch FD Kris Philips):
+  - Fin debt **EUR4.542m** / cash **EUR0.008m THIN** / ST debt **0.120m** / equity cum **EUR0.040m DROP**
+  - Expl **EUR0.173 / 0.130m** saldo **+0.044m** / BBR **EUR-0.013m NEG** / AFM **EUR-0.003m NEG** / budget **EUR-0.003m**
+  - PnL **EUR-0.004m** / div **0** / prijssub city **EUR0.103m** (~59pct rec) / invest=new loans **0.019m**
+  - Electricity **EUR0.036m (+55pct)** / interest/erfpacht class **EUR0.005m** / repay **0.047m**
+  - Full J4 machine-readable FOI (PDF scan-only 20MB)
+- Dual: city Bertem GE already mined - AGB dual residual closed for kengetallen layer
+- Wrote: budgets +27; commitments +6; leaderboard +7; sources +1; entity agb_beleko_bertem; FOI **gap_agb_beleko_debt_4_54m_prijssub_0_10m_afm_bbr_neg_pnl_neg_l5** prio9 ready + draft; rq_1215=done; spawn **rq_1216**; ticks=1215
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1216** residual dual L5 VL; deferred **rq_116**
