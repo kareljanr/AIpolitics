@@ -30349,3 +30349,27 @@ bud_agbare_loan_repay_2025,agb_arendonk,2025,379978,,,BBC JR2025 primary,src_agb
 bud_agbare_prijssub_2025,agb_arendonk,2025,568251,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Prijssubsidie gemeente ~0.568m 2025 (AR/kengetallen); tick1150
 bud_agbare_settlement_2025,agb_arendonk,2025,30000,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Kunstgrasveld dading Scheerlinck 0.030m 2025 closed; tick1150
 bud_agbare_depr_2025,agb_arendonk,2025,415534,,,BBC JR2025 primary,src_agb_arendonk_jr2025,strong,Afschrijvingen 0.416m JUMP (was 0.173m); tick1150
+bud_agbmks_assets_2025,agb_merksplas_hofeind,2025,4525828,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Assets balanstotaal YE2025 4.526m; tick1151
+bud_agbmks_equity_2025,agb_merksplas_hofeind,2025,3621377,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Nettoactief YE2025 3.621m; tick1151
+bud_agbmks_debt_total_2025,agb_merksplas_hofeind,2025,1070393,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Schulden total YE2025 1.070m; tick1151
+bud_agbmks_fin_debt_2025,agb_merksplas_hofeind,2025,462500,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Fin schulden total YE2025 0.463m T4 DECLINING Fortis sporthal; tick1151
+bud_agbmks_fin_debt_lt_2025,agb_merksplas_hofeind,2025,312500,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Fin schulden LT YE2025 0.313m T4; tick1151
+bud_agbmks_fin_debt_st_due_2025,agb_merksplas_hofeind,2025,150000,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Fin schulden LT binnen jaar YE2025 0.150m; tick1151
+bud_agbmks_cash_2025,agb_merksplas_hofeind,2025,116196,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Liquide middelen YE2025 0.116m THIN; tick1151
+bud_agbmks_mva_2025,agb_merksplas_hofeind,2025,4383887,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,MVA YE2025 4.384m sport shell; tick1151
+bud_agbmks_expl_ont_2025,agb_merksplas_hofeind,2025,316958,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Exploitatieontvangsten 0.317m 2025; tick1151
+bud_agbmks_expl_uit_2025,agb_merksplas_hofeind,2025,130930,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Exploitatieuitgaven 0.131m 2025; tick1151
+bud_agbmks_expl_saldo_2025,agb_merksplas_hofeind,2025,186028,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Exploitatiesaldo +0.186m 2025; tick1151
+bud_agbmks_invest_uit_2025,agb_merksplas_hofeind,2025,27615,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Investeringsuitgaven 0.028m 2025; tick1151
+bud_agbmks_invest_saldo_2025,agb_merksplas_hofeind,2025,-27615,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Investeringssaldo -0.028m 2025; tick1151
+bud_agbmks_fin_saldo_2025,agb_merksplas_hofeind,2025,-150000,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Financieringssaldo -0.150m 2025 (repay only); tick1151
+bud_agbmks_budget_2025,agb_merksplas_hofeind,2025,8413,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Budgettair resultaat +0.008m 2025 THIN; tick1151
+bud_agbmks_cum_prior_2025,agb_merksplas_hofeind,2025,-310432,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Gecumuleerd budgettair prior YE -0.310m; tick1151
+bud_agbmks_bbr_2025,agb_merksplas_hofeind,2025,-302019,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Beschikbaar budgettair resultaat -0.302m NEG CRITICAL; tick1151
+bud_agbmks_afm_2025,agb_merksplas_hofeind,2025,36028,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Autofinancieringsmarge +0.036m 2025; tick1151
+bud_agbmks_afm_gecorr_2025,agb_merksplas_hofeind,2025,137028,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Gecorrigeerde AFM +0.137m 2025; tick1151
+bud_agbmks_pnl_2025,agb_merksplas_hofeind,2025,66894,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,PnL overschot +0.067m 2025; tick1151
+bud_agbmks_interest_2025,agb_merksplas_hofeind,2025,22411,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Rente 0.022m 2025 (declining); tick1151
+bud_agbmks_loan_repay_2025,agb_merksplas_hofeind,2025,150000,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Periodieke aflossingen 0.150m 2025; tick1151
+bud_agbmks_new_loans_2025,agb_merksplas_hofeind,2025,0,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,Nieuwe leningen 0 2025 (MJP planned 0.315m undrawn); tick1151
+bud_agbmks_nonruil_st_2025,agb_merksplas_hofeind,2025,448236,,,BBC JR2025 primary,src_agb_merksplas_hofeind_jr2025,strong,ST niet-ruiltransacties schulden 0.448m FOI residual; tick1151

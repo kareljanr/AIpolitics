@@ -15964,3 +15964,18 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1151** residual dual L5; deferred **rq_116**
 
+### Tick 1151 - 2026-08-07T17:00:00Z
+
+- Unit: **rq_1151** (FOI-adjacent residual dual - **AGB Sportcentrum t Hofeind Merksplas Jaarrekening 2025** Entity II after city GE)
+- Found (strong primary BBC 52p; KBO **0832.586.335**; Markt 1 / Hofeinde 9 2330; AD Dries Couckhuyt FD Alex Herseele; GR 22.06.2026):
+  - Assets **EUR4.526m** / equity **EUR3.621m** / cash **EUR0.116m THIN**
+  - Fin debt T4 **EUR0.463m DECLINING** (LT 0.313 / ST due **0.150m**; Fortis sporthal); repay **EUR0.150m**/yr; interest **EUR0.022m**
+  - **BBR EUR-0.302m NEG CRITICAL** (cum prior **-0.310m**) / budget **+EUR0.008m THIN** / AFM **+EUR0.036m** / gecorr **+EUR0.137m**
+  - Expl **EUR0.317m / 0.131m** saldo **+EUR0.186m** / invest **-EUR0.028m** / fin saldo **-EUR0.150m**
+  - PnL **+EUR0.067m** / ST non-ruil debt **EUR0.448m FOI** / new loans **EUR0** (MJP 0.315m undrawn)
+- Dual: city Merksplas GE already mined - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen login / Bornem JR2024 / Schelle GE+OCMW / Lievegem / Roeselare / Wommelgem residual next
+- Wrote: budgets +24 (bud_agbmks_*); commitments +5; leaderboard +8; sources +1; entity agb_merksplas_hofeind; FOI **gap_agb_mks_hofeind_bbr_neg_debt_l5** prio9 ready + draft; PDF primary (not committed ~5.3MB); rq_1151=done; spawn **rq_1152**; ticks=1151
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1152** residual dual L5; deferred **rq_116**
+
