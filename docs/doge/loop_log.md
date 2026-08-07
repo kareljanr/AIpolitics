@@ -16831,3 +16831,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1203** residual dual L5 VL; deferred **rq_116**
 
+
+### Tick 1203 - 2026-08-08T19:00:00Z
+
+- Unit: **rq_1203** (FOI-adjacent residual dual - **AGB Sint-Pieters-Leeuw Jaarrekening 2025** Entity II leisure after city GE)
+- Found (strong primary BBC 45p; KBO **0566.942.927**; Pastorijstraat 21; AD Bruno Claessens FD Cindy Van Driessche):
+  - Assets **EUR5.858m** / equity **EUR5.407m** (caps **4.914m**) / cash **EUR0.024m THIN DROP**
+  - Fin debt **EUR0.194m** city loans (LT 0.165 + ST due 0.029); repay **0.028m**; new loans **0** (plan 0.180m undrawn)
+  - BBR **EUR0.048m** / AFM **+EUR0.033m** / gecorr AFM **+EUR0.043m** / budget year **-0.023m**
+  - Expl **EUR1.129m / 1.068m** saldo **+0.061m** / invest **0.056m**
+  - PnL **EUR0.138m FULL strip to city** / ops **EUR-0.027m NEG** masked by fin income **0.167m**
+  - Staff **0** / goederen **0.906m** / omzet **1.094m** / ST non-ruil debt JUMP **0.168m**
+- Dual: city Sint-Pieters-Leeuw GE already mined - AGB dual residual closed for full BBC layer
+- Wrote: budgets +34; commitments +6; leaderboard +7; sources +1; entity agb_sint_pieters_leeuw; FOI **gap_agb_spl_full_div_0_14m_cash_thin_city_loan_0_19m_ops_neg_l5** prio8 ready + draft; rq_1203=done; spawn **rq_1204**; ticks=1203
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1204** residual dual L5 VL; deferred **rq_116**
+

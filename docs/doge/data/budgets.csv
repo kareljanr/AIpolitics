@@ -31868,3 +31868,37 @@ bud_agbtem_staff_2025,agb_patrim_temse,2025,0,,,BBC JR2025 primary,src_agb_patri
 bud_agbtem_depr_2025,agb_patrim_temse,2025,10019,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,J5 afschrijvingen 0.010m; tick1202
 bud_agbtem_new_loans_2025,agb_patrim_temse,2025,0,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,T4 nieuwe leningen 0; tick1202
 bud_agbtem_cvo_cost_note_2025,agb_patrim_temse,2025,73821,,,BBC JR2025 primary,src_agb_patrim_temse_jr2025,strong,Toelichting CVO extract costs booked 2025 residual FOI; tick1202
+bud_agbspl_assets_2025,agb_sint_pieters_leeuw,2025,5858024,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J4 balanstotaal 5.858m; tick1203
+bud_agbspl_equity_2025,agb_sint_pieters_leeuw,2025,5407277,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J4 nettoactief 5.407m; tick1203
+bud_agbspl_cap_subs_2025,agb_sint_pieters_leeuw,2025,4914106,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J4 kapitaalsubsidies 4.914m dominant equity; tick1203
+bud_agbspl_cum_pnl_2025,agb_sint_pieters_leeuw,2025,493171,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J4 gecumuleerd overschot stock 0.493m (unchanged YE); tick1203
+bud_agbspl_debt_total_2025,agb_sint_pieters_leeuw,2025,450747,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J4 schulden 0.451m; tick1203
+bud_agbspl_fin_debt_2025,agb_sint_pieters_leeuw,2025,193844,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,T4 fin debt total 0.194m (LT 0.165 + ST due 0.029) city loans; tick1203
+bud_agbspl_fin_debt_lt_2025,agb_sint_pieters_leeuw,2025,165274,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J4/T4 fin debt LT 0.165m DROP; tick1203
+bud_agbspl_fin_debt_st_due_2025,agb_sint_pieters_leeuw,2025,28570,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J4 ST due 0.029m; tick1203
+bud_agbspl_cash_2025,agb_sint_pieters_leeuw,2025,24488,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J4 cash 0.024m THIN DROP from 0.044m; tick1203
+bud_agbspl_st_recv_2025,agb_sint_pieters_leeuw,2025,280763,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J4 ST vorderingen 0.281m JUMP; tick1203
+bud_agbspl_mva_2025,agb_sint_pieters_leeuw,2025,5552772,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J4 MVA gemeenschapsgoederen 5.553m; tick1203
+bud_agbspl_mva_buildings_2025,agb_sint_pieters_leeuw,2025,5358780,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J4 terreinen/gebouwen 5.359m; tick1203
+bud_agbspl_st_nonruil_debt_2025,agb_sint_pieters_leeuw,2025,167717,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J4 ST non-ruil schulden 0.168m JUMP from 0.011m; tick1203
+bud_agbspl_expl_rec_2025,agb_sint_pieters_leeuw,2025,1128988,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J2 expl ontvangsten 1.129m; tick1203
+bud_agbspl_expl_exp_2025,agb_sint_pieters_leeuw,2025,1067807,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J2 expl uitgaven 1.068m; tick1203
+bud_agbspl_expl_saldo_2025,agb_sint_pieters_leeuw,2025,61181,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J2 exploitatiesaldo +0.061m; tick1203
+bud_agbspl_invest_exp_2025,agb_sint_pieters_leeuw,2025,55672,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J2 invest 0.056m underspend vs 0.130m plan; tick1203
+bud_agbspl_repay_2025,agb_sint_pieters_leeuw,2025,28410,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J2/T4 periodieke aflossingen 0.028m city loan; tick1203
+bud_agbspl_new_loans_2025,agb_sint_pieters_leeuw,2025,0,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,T4 nieuwe leningen 0 (plan 0.180m undrawn); tick1203
+bud_agbspl_budget_result_2025,agb_sint_pieters_leeuw,2025,-22901,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J2 budget year -0.023m; tick1203
+bud_agbspl_bbr_2025,agb_sint_pieters_leeuw,2025,48348,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J2 BBR 0.048m DROP from 0.071m prior; tick1203
+bud_agbspl_afm_2025,agb_sint_pieters_leeuw,2025,32771,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J2 AFM +0.033m; tick1203
+bud_agbspl_afm_gecorr_2025,agb_sint_pieters_leeuw,2025,43401,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J2 gecorr AFM +0.043m; tick1203
+bud_agbspl_pnl_2025,agb_sint_pieters_leeuw,2025,137974,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J5 overschot 0.138m FULL to rechthebbenden (city); tick1203
+bud_agbspl_div_city_2025,agb_sint_pieters_leeuw,2025,137974,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J5 rechthebbenden full profit strip 0.138m; tick1203
+bud_agbspl_ops_result_neg_2025,agb_sint_pieters_leeuw,2025,-27284,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J5 operationeel tekort -0.027m NEG (masked by fin income); tick1203
+bud_agbspl_fin_income_2025,agb_sint_pieters_leeuw,2025,166603,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J5 financiele opbrengsten 0.167m (cap-sub amort class); tick1203
+bud_agbspl_omzet_2025,agb_sint_pieters_leeuw,2025,1093753,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J5 opbrengsten werking 1.094m; tick1203
+bud_agbspl_goederen_2025,agb_sint_pieters_leeuw,2025,905516,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J5 goederen 0.906m; tick1203
+bud_agbspl_staff_2025,agb_sint_pieters_leeuw,2025,0,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J5 no bezoldigingen line zero staff on AGB books; tick1203
+bud_agbspl_depr_2025,agb_sint_pieters_leeuw,2025,227784,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J5 afschrijvingen 0.228m; tick1203
+bud_agbspl_interest_2025,agb_sint_pieters_leeuw,2025,1345,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,J5 rente 0.001m; tick1203
+bud_agbspl_erfpacht_exp_2025,agb_sint_pieters_leeuw,2025,30641,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,Trial balance periodieke erfpachtvergoeding 0.031m; tick1203
+bud_agbspl_energy_2025,agb_sint_pieters_leeuw,2025,138548,,,BBC JR2025 primary,src_agb_spl_jr2025,strong,Trial balance electricity+gas ~0.139m (81k+57k); tick1203
