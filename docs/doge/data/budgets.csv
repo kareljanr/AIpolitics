@@ -32367,3 +32367,29 @@ bud_agbmal_fin_debt_lt_2025,agb_maldegem,2025,5707541,,,BBC JR2025 primary porta
 bud_agbmal_fin_debt_st_due_2025,agb_maldegem,2025,482562,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Fin schulden LT binnen jaar 0.483m; tick1218
 bud_agbmal_div_2025,agb_maldegem,2025,108266,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Dividend city 0.108m full profit strip; tick1218
 bud_agbmal_overlopend_2025,agb_maldegem,2025,1619568,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Overlopend actief 1.620m FOI residual; tick1218
+bud_agbduf_expl_ont_2025,agb_duffel,2025,948695,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Exploitatieontvangsten 0.949m; tick1219
+bud_agbduf_expl_uit_2025,agb_duffel,2025,584886,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Exploitatieuitgaven 0.585m; tick1219
+bud_agbduf_expl_saldo_2025,agb_duffel,2025,363809,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Exploitatiesaldo +0.364m; tick1219
+bud_agbduf_invest_uit_2025,agb_duffel,2025,151488,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Investeringsuitgaven 0.151m; tick1219
+bud_agbduf_invest_saldo_2025,agb_duffel,2025,-151488,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Investeringssaldo -0.151m; tick1219
+bud_agbduf_fin_ont_2025,agb_duffel,2025,151488,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Financieringsontvangsten 0.151m new loans andere entiteiten; tick1219
+bud_agbduf_fin_uit_2025,agb_duffel,2025,296166,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Periodieke aflossingen 0.296m; tick1219
+bud_agbduf_fin_saldo_2025,agb_duffel,2025,-144678,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Financieringssaldo -0.145m; tick1219
+bud_agbduf_budget_2025,agb_duffel,2025,67643,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Budgettair resultaat +0.068m; tick1219
+bud_agbduf_bbr_2025,agb_duffel,2025,441111,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,BBR beschikbaar +0.441m; tick1219
+bud_agbduf_afm_2025,agb_duffel,2025,67643,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,AFM +0.068m thin positive; tick1219
+bud_agbduf_afm_gecorr_2025,agb_duffel,2025,-367780,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Gecorr AFM -0.368m DEEP NEG CRITICAL; tick1219
+bud_agbduf_assets_2025,agb_duffel,2025,10307849,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Assets balanstotaal YE2025 10.308m; tick1219
+bud_agbduf_cash_2025,agb_duffel,2025,270669,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Liquide middelen YE2025 0.271m DROP from 0.546m; tick1219
+bud_agbduf_mva_2025,agb_duffel,2025,9678352,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,MVA 9.678m (buildings 6.458 + leasing 3.128); tick1219
+bud_agbduf_leasing_mva_2025,agb_duffel,2025,3128452,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Leasing en soortgelijke rechten MVA 3.128m; tick1219
+bud_agbduf_equity_2025,agb_duffel,2025,1106837,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Nettoactief YE2025 1.107m; tick1219
+bud_agbduf_cum_pnl_2025,agb_duffel,2025,395610,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Gecumuleerd overschot 0.396m; tick1219
+bud_agbduf_fin_debt_2025,agb_duffel,2025,9000182,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Fin schulden total 9.000m (LT 8.702 + ST due 0.298); tick1219
+bud_agbduf_fin_debt_lt_2025,agb_duffel,2025,8702001,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Fin schulden LT 8.702m; tick1219
+bud_agbduf_fin_debt_st_due_2025,agb_duffel,2025,298181,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Fin schulden LT binnen jaar 0.298m; tick1219
+bud_agbduf_new_loans_2025,agb_duffel,2025,151488,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Nieuwe leningen 0.151m bij andere entiteiten (city path); tick1219
+bud_agbduf_div_2025,agb_duffel,2025,13663,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Dividend city (rechthebbenden) 0.014m; tick1219
+bud_agbduf_pnl_2025,agb_duffel,2025,68316,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,PnL overschot boekjaar +0.068m; tick1219
+bud_agbduf_goods_services_2025,agb_duffel,2025,562785,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Goederen en diensten 0.563m (staff 0); tick1219
+bud_agbduf_omzet_2025,agb_duffel,2025,946008,,,bbc_jr_realized,src_agb_duffel_jr2025,strong,Omzet/werking 0.946m (incl prijssubsidie FOI residual); tick1219

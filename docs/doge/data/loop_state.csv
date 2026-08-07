@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T02:30:00Z,rq_1218,1218,no,tick1218 AGB Maldegem portal BBC AFM -0.13m gecorr -0.18m debt 6.19m equity thin div 0.11m FOI; next rq_1219 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-09T03:00:00Z,rq_1219,1219,no,tick1219 AGB Duffel full BBC gecorr AFM -0.37m debt 9.00m cash DROP div FOI; next rq_1220 residual dual L5 VL (Putte Prive full BBC if published); rq_116 deferred; continuous hole_fill

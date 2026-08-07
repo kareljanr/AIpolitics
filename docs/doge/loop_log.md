@@ -17056,3 +17056,14 @@ Append-only. Each tick adds a short entry.
 - Key € (strong): **AFM −0.126m NEG** · **gecorr AFM −0.176m DEEP NEG** · budget **−0.366m** · BBR **+0.130m** · **fin debt 6.190m** · equity **thin 0.184m** · cash **0.239m DROP** · assets **6.611m** · **div 0.108m full strip** · expl **+0.350m**
 - Wrote: budgets +22; commitments +7; leaderboard +7; sources +1; entity **agb_maldegem**; FOI **gap_agb_mal_afm_neg_0_13m_gecorr_0_18m_debt_6_19m_div_0_11m_equity_thin_l5** prio9 ready + draft; rq_1218=done; spawn **rq_1219**; ticks=1218
 - Next: prio5 **rq_1219** residual dual L5 VL (Duffel AGB / Putte Privé / next PDF); deferred **rq_116**
+
+## Tick 1219 — 2026-08-09T03:00:00Z — rq_1219 AGB Duffel dual residual JR2025
+
+- Unit: **rq_1219** (residual dual L5 VL — **AGB Duffel full BBC JR2025** after city GE tick1077)
+- Primary: https://raadpleeg-duffel.onlinesmartcities.be/document/6a2bd6ff7d3f1d033be79886 (93p BBC+NBB); KBO **0544.582.447** NIS 12009; AD Tim Op de Beeck FD Jessica Goris
+- Key € (strong): **gecorr AFM −0.368m DEEP NEG** · **AFM +0.068m** · budget **+0.068m** · BBR **0.441m** · expl **+0.364m** · invest **−0.151m** · **fin debt 9.000m** (LT 8.702 + ST due 0.298) · new loans city-path **0.151m** · cash **0.271m DROP** · equity **1.107m** · assets **10.308m** · **div 0.014m** · leasing MVA **3.128m** · omzet **0.946m**
+- Dual: city Duffel GE already mined (AGB corr AFM −0.368 flag confirmed) — AGB dual residual closed for full BBC layer
+- Wrote: budgets +26; commitments +7; leaderboard +7; sources +1; entity **agb_duffel**; FOI **gap_agb_duf_gecorr_afm_neg_0_37m_fin_debt_9_00m_div_cash_drop_l5** prio9 ready + draft; rq_1219=done; spawn **rq_1220**; ticks=1219
+- Note: Putte Prive full dossier still 404 public (ODAA-only); FOI ready only — **do not send**
+- Next: prio5 **rq_1220** residual dual L5 VL; deferred **rq_116**
+
