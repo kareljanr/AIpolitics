@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T23:30:00Z,rq_1212,1212,no,tick1212 AGB Aalter dual residual energy 0.32m erfpacht 0.09m fin debt 0.56m full div AFM thin FOI; next rq_1213 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-09T00:00:00Z,rq_1213,1213,no,tick1213 AGB Tremelo dual residual debt 2.04m JUMP AFM/BBR NEG cash thin invest 0.85m FOI; next rq_1214 residual dual L5 VL; rq_116 deferred; continuous hole_fill

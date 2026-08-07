@@ -32185,3 +32185,31 @@ bud_agba_pnl_2025,agb_aalter,2025,28871,,,bbc_jr_realized,src_agb_aalter_jr2025,
 bud_agba_div_2025,agb_aalter,2025,28871,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Full dividend = full PnL 0.029m equity flat; tick1212
 bud_agba_staff_2025,agb_aalter,2025,0,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Staff 0 (seconded/city FOI); tick1212
 bud_agba_invest_underspend_2025,agb_aalter,2025,327713,,,bbc_jr_realized,src_agb_aalter_jr2025,strong,Invest underspend ~0.328m vs MJP 0.427m; tick1212
+bud_agbt_assets_2025,agb_tremelo,2025,2295746,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Total assets YE2025 2.296m JUMP from 1.601m; tick1213
+bud_agbt_equity_2025,agb_tremelo,2025,154819,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Nettoactief YE2025 0.155m FLAT; tick1213
+bud_agbt_debt_total_2025,agb_tremelo,2025,2140927,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Total schulden YE2025 2.141m; tick1213
+bud_agbt_fin_debt_2025,agb_tremelo,2025,2040809,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Fin debt total YE2025 2.041m (LT 1.862 + ST due 0.178) JUMP; tick1213
+bud_agbt_fin_debt_lt_2025,agb_tremelo,2025,1862480,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Fin schulden LT YE2025 1.862m JUMP from 1.205m; tick1213
+bud_agbt_fin_debt_st_due_2025,agb_tremelo,2025,178329,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,LT due within year YE2025 0.178m; tick1213
+bud_agbt_cash_2025,agb_tremelo,2025,30575,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Liquide middelen YE2025 0.031m THIN DROP from 0.093m; tick1213
+bud_agbt_st_recv_2025,agb_tremelo,2025,53081,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,ST vorderingen YE2025 0.053m; tick1213
+bud_agbt_mva_2025,agb_tremelo,2025,2186375,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Materiele vaste activa YE2025 2.186m JUMP; tick1213
+bud_agbt_buildings_2025,agb_tremelo,2025,1859956,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Terreinen en gebouwen 1.860m JUMP; tick1213
+bud_agbt_expl_rec_2025,agb_tremelo,2025,630583,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Exploitatieontvangsten 0.631m; tick1213
+bud_agbt_expl_exp_2025,agb_tremelo,2025,503116,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Exploitatieuitgaven 0.503m; tick1213
+bud_agbt_expl_saldo_2025,agb_tremelo,2025,127467,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Exploitatiesaldo +0.127m; tick1213
+bud_agbt_invest_exp_2025,agb_tremelo,2025,851330,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Investeringsuitgaven 0.851m JUMP (vs MJP 0.508m OVER); tick1213
+bud_agbt_fin_exp_repay_2025,agb_tremelo,2025,143265,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Periodieke aflossingen 0.143m; tick1213
+bud_agbt_fin_rec_new_loans_2025,agb_tremelo,2025,851145,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Nieuwe leningen 0.851m = invest lock; tick1213
+bud_agbt_budget_result_2025,agb_tremelo,2025,-15983,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Budgettair resultaat boekjaar -0.016m NEG; tick1213
+bud_agbt_bbr_2025,agb_tremelo,2025,-11680,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,BBR -0.012m NEG (from +0.004m prior); tick1213
+bud_agbt_afm_2025,agb_tremelo,2025,-15798,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,AFM -0.016m NEG; tick1213
+bud_agbt_gecorr_afm_2025,agb_tremelo,2025,20833,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Gecorrigeerde AFM +0.021m POS; tick1213
+bud_agbt_omzet_2025,agb_tremelo,2025,630435,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Opbrengsten uit de werking 0.630m; tick1213
+bud_agbt_goods_services_2025,agb_tremelo,2025,473739,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Goederen en diensten 0.474m JUMP; tick1213
+bud_agbt_depr_2025,agb_tremelo,2025,143029,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Afschrijvingen 0.143m; tick1213
+bud_agbt_pnl_2025,agb_tremelo,2025,2137,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,PnL boekjaar +0.002m thin; tick1213
+bud_agbt_div_2025,agb_tremelo,2025,2137,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Full dividend = full PnL 0.002m; tick1213
+bud_agbt_debt_ratio_2025,agb_tremelo,2025,93,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Schuldgraad 93pct (vreemdvermogen/totaal); tick1213
+bud_agbt_nwc_2025,agb_tremelo,2025,-190008,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Netto-werkkapitaal -0.190m NEG DEEP; tick1213
+bud_agbt_cum_pl_2025,agb_tremelo,2025,110742,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Gecumuleerd overschot 0.111m flat; tick1213

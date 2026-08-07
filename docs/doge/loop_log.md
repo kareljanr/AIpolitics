@@ -16982,3 +16982,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +31; commitments +6; leaderboard +7; sources +1; entity agb_aalter; FOI **gap_agb_aalter_energy_0_32m_erfpacht_0_09m_fin_debt_0_56m_full_div_l5** prio8 ready + draft; rq_1212=done; spawn **rq_1213**; ticks=1212
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1213** residual dual L5 VL; deferred **rq_116**
+
+
+### Tick 1213 - 2026-08-09T00:00:00Z
+
+- Unit: **rq_1213** (FOI-adjacent residual dual - **AGB Tremelo JR2025** Entity II zwembad/sport/Damiaanmuseum after city GE)
+- Found (strong primary full BBC 78p + NBB; KBO **0898.230.886**; Veldonkstraat 1; Secr Wim Vandenbroeck; Afgev. bestuurder Bertrand Eraly):
+  - Assets **EUR2.296m JUMP** / equity **EUR0.155m FLAT** / cash **EUR0.031m THIN DROP** / MVA **EUR2.186m JUMP**
+  - Fin debt **EUR2.041m JUMP** (LT 1.862 + ST due 0.178); new **0.851m** = invest; repay **0.143m**; debt ratio **93pct**
+  - Expl **EUR0.631 / 0.503m** saldo **+0.127m** / BBR **EUR-0.012m NEG** / AFM **EUR-0.016m NEG** / gecorr AFM **+0.021m**
+  - PnL **EUR+0.002m** = full div / goods JUMP **0.474m** / invest **0.851m** over MJP 0.508m / NWC **EUR-0.190m NEG**
+- Dual: city Tremelo GE already mined - AGB dual residual closed for full BBC+NBB layer
+- Wrote: budgets +28; commitments +6; leaderboard +7; sources +1; entity agb_tremelo; FOI **gap_agb_tremelo_debt_2_04m_jump_afm_neg_bbr_neg_cash_thin_l5** prio9 ready + draft; rq_1213=done; spawn **rq_1214**; ticks=1213
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1214** residual dual L5 VL; deferred **rq_116**
