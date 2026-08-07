@@ -31192,3 +31192,38 @@ bud_agbbrass_depr_prov_2025,agb_brasschaat,2025,199088,,,BBC JR2025 primary,src_
 bud_agbbrass_goods_services_2025,agb_brasschaat,2025,323888,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Goederen en diensten expl 0.324m; tick1179
 bud_agbbrass_mjp_debt_2026,agb_brasschaat,2025,9188606,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,MJP fin debt YE2026 path 9.189m; tick1179
 bud_agbbrass_staff_2025,agb_brasschaat,2025,0,,,BBC JR2025 primary,src_agb_brasschaat_jr2025,strong,Personeelsinzet ZERO — geen personeel in dienst; tick1179
+bud_agbmid_assets_2025,agb_middelkerke,2025,24332479,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Assets balanstotaal YE2025 24.332m; tick1180
+bud_agbmid_equity_2025,agb_middelkerke,2025,687056,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Nettoactief YE2025 0.687m THIN vs debt 23.4m; tick1180
+bud_agbmid_cum_pnl_2025,agb_middelkerke,2025,618815,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Gecumuleerd overschot YE2025 0.619m JUMP from 0.309m; tick1180
+bud_agbmid_cap_subs_2025,agb_middelkerke,2025,68241,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Kapitaalssubsidies YE2025 0.068m; tick1180
+bud_agbmid_debt_total_2025,agb_middelkerke,2025,23645423,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Schulden total YE2025 23.645m; tick1180
+bud_agbmid_fin_debt_2025,agb_middelkerke,2025,23392194,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Fin schulden T4 total YE2025 23.392m (erfpacht); tick1180
+bud_agbmid_fin_debt_lt_2025,agb_middelkerke,2025,23080422,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Fin schulden LT YE2025 23.080m; tick1180
+bud_agbmid_fin_debt_st_due_2025,agb_middelkerke,2025,311772,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Fin schulden LT vervallend YE2025 0.312m; tick1180
+bud_agbmid_cash_2025,agb_middelkerke,2025,4176535,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Liquide middelen YE2025 4.177m JUMP from 3.958m; tick1180
+bud_agbmid_mva_2025,agb_middelkerke,2025,19900998,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,MVA YE2025 19.901m; tick1180
+bud_agbmid_mva_leasing_2025,agb_middelkerke,2025,19333626,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,MVA leasing/erfpacht YE2025 19.334m shell; tick1180
+bud_agbmid_mva_other_buildings_2025,agb_middelkerke,2025,503132,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Andere MVA terreinen/gebouwen YE2025 0.503m; tick1180
+bud_agbmid_inventory_2025,agb_middelkerke,2025,196846,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Voorraden/bestellingen YE2025 0.197m sticky; tick1180
+bud_agbmid_st_nonfin_debt_2025,agb_middelkerke,2025,209565,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,ST niet-fin schulden ruil YE2025 0.210m; tick1180
+bud_agbmid_expl_rec_2025,agb_middelkerke,2025,1439152,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Exploitatieontvangsten 1.439m; tick1180
+bud_agbmid_expl_exp_2025,agb_middelkerke,2025,797467,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Exploitatieuitgaven 0.797m; tick1180
+bud_agbmid_expl_saldo_2025,agb_middelkerke,2025,641685,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Exploitatiesaldo +0.642m; tick1180
+bud_agbmid_werking_rec_2025,agb_middelkerke,2025,999973,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Ontvangsten uit de werking 1.000m; tick1180
+bud_agbmid_fin_rec_2025,agb_middelkerke,2025,327641,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Financiele ontvangsten T2 0.328m; tick1180
+bud_agbmid_fin_cost_2025,agb_middelkerke,2025,267477,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Financiele kosten J5 0.267m (erfpacht canons); tick1180
+bud_agbmid_invest_exp_2025,agb_middelkerke,2025,150580,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Investeringsuitgaven 0.151m UNDER vs MJP 0.246m; tick1180
+bud_agbmid_invest_saldo_2025,agb_middelkerke,2025,-150580,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Investeringssaldo -0.151m; tick1180
+bud_agbmid_repay_2025,agb_middelkerke,2025,311772,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Periodieke aflossingen erfpacht 0.312m (=sum canons); tick1180
+bud_agbmid_fin_saldo_2025,agb_middelkerke,2025,-311772,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Financieringssaldo -0.312m; tick1180
+bud_agbmid_budget_result_2025,agb_middelkerke,2025,179333,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Budgettair resultaat boekjaar +0.179m; tick1180
+bud_agbmid_bbr_2025,agb_middelkerke,2025,3981246,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Beschikbaar BBR YE2025 3.981m; tick1180
+bud_agbmid_afm_2025,agb_middelkerke,2025,329914,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,AFM +0.330m POS; tick1180
+bud_agbmid_afm_gecorr_2025,agb_middelkerke,2025,-1254632,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Gecorr AFM -1.255m NEG DEEP (99y erfpacht); tick1180
+bud_agbmid_aangewezen_amort_2025,agb_middelkerke,2025,1896317,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Aangewezen aflossingen o.b.v. fin schulden 1.896m; tick1180
+bud_agbmid_pnl_2025,agb_middelkerke,2025,309398,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,P&L +0.309m (over te dragen; no dividend); tick1180
+bud_agbmid_dividend_2025,agb_middelkerke,2025,0,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Dividend/rechthebbenden 0; tick1180
+bud_agbmid_depr_2025,agb_middelkerke,2025,337838,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Afschrijvingen J5 0.338m; tick1180
+bud_agbmid_goods_services_2025,agb_middelkerke,2025,506053,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Goederen en diensten 0.506m; tick1180
+bud_agbmid_staff_2025,agb_middelkerke,2025,0,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Personeel ZERO — gemeente seconded; AGB has no own staff; tick1180
+bud_agbmid_erfpacht_maatstaf_2025,agb_middelkerke,2025,22984433,,,BBC JR2025 primary,src_agb_middelkerke_jr2025,strong,Erfpacht maatstaf sum 8 sites ~22.984m excl BTW table; tick1180

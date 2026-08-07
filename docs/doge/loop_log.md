@@ -16445,3 +16445,21 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1180** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1180 - 2026-08-08T07:30:00Z
+
+- Unit: **rq_1180** (FOI-adjacent residual dual - **AGB Middelkerke Jaarrekening 2025** Entity II 99y erfpacht shell)
+- Found (strong primary BBC 73p; KBO **0890.434.957**; Spermaliestraat 1; AD Jurgen Vergauwe FD Roseline Keereman):
+  - Assets **EUR24.332m** / equity **EUR0.687m THIN** / cash **EUR4.177m JUMP**
+  - Fin debt T4 **EUR23.392m** (LT 23.080 / ST due 0.312); repay **0.312m** (=sum canons); no new loans
+  - MVA erfpacht/leasing **EUR19.334m** (8 sites: Branding/Zéphyrs/Oude Post/Marktplein/… mostly 99y)
+  - BBR **EUR3.981m** / AFM **+EUR0.330m** / **gecorr AFM EUR-1.255m NEG DEEP** (aangewezen 1.896m)
+  - Expl **EUR1.439m / 0.797m** saldo **+EUR0.642m** / werking **1.000m** / invest **0.151m UNDER**
+  - PnL **+EUR0.309m** no dividend; fin costs **0.267m**; **zero staff** (city seconded)
+- Dual: city Middelkerke GE not fully mined this tick - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: AGB Stabroek / Oosterzele / Nijlen / Bornem JR2024 / Schelle residual next
+- Wrote: budgets +35 (bud_agbmid_*); commitments +6; leaderboard +8; sources +1; entity agb_middelkerke; FOI **gap_agb_mid_erfpacht_shell_23_4m_gecorr_afm_neg_1_25m_l5** prio9 ready + draft; PDF primary (not committed ~3.1MB); rq_1180=done; spawn **rq_1181**; ticks=1180
+- **Progress@1180:** refreshed progress_every_10_ticks.md + doge_waste_top10_current.md (pure annual top10 stable; dual erfpacht/leasing shells off-TE)
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1181** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local

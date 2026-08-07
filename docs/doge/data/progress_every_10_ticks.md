@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 1180** (2026-08-08)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual Entity II 1171-1180: Maasmechelen · SAM Mechelen · Pelt · Geel Sport · Hamont-Achel · Willebroek · SZ Patrimonium · **Brasschaat AGB EUR10.0m** leasing shell · **Middelkerke AGB EUR24.3m** 99y erfpacht · prior 1161-1170 Genk/Naz-DP stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1171-1180 is VL residual dual L5 (not near-complete of 348bn):** **Middelkerke AGB** assets **EUR24.3m** erfpacht debt **EUR23.4m** MVA **EUR19.3m** BBR **EUR3.98m** gecorr AFM **−1.25m NEG DEEP** · **Brasschaat AGB** leasing **EUR9.19m** debt **EUR9.34m** gecorr AFM **−0.54m** · **Willebroek AGB** debt JUMP **EUR20.9m** invest **EUR9.3m** prijssub **EUR1.45m** · Geel Sport AFM NEG deep cash drop · SZ AFM NEG dividend · prior Genk **EUR89m** / Naz-DP city-loan stack retained |
+| **E. FOI-ready gaps** | **~823** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~871** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / **Bilzen-Hoeselt EUR330m** / dual stack retained not full TE) · **AGB dual debt/AFM NEG + city-loan/leasing/erfpacht shells** (Middelkerke **EUR23.4m** erfpacht · Brasschaat **EUR9.34m** · Willebroek **EUR20.9m** · Genk **EUR12.9m** / leasing **EUR11.2m** / FVA **EUR15.1m** · Naz-DP city loan **EUR4.64m** · Zottegem **EUR11.45m** · Zaventem **EUR23.8m** · Boom Plus **EUR24.6m**) · **LUWA PPP EUR590m** · **Peer VitaS borg ~EUR43m contingent** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 1180)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~31228 |
+| commitments.csv | ~4100 |
+| leaderboard.csv | ~6235 |
+| entities.csv | ~906 |
+| sources.csv | ~2092 |
+| FOI ready | ~823 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~871 |
+| research_queue open | rq_116 deferred + rq_1181 hole-fill after progress |
+
+### What improved since tick 1170
+
+- **VL residual dual JR2025 Entity II (tick1171-1178):** Maasmechelen · SAM Mechelen · Pelt ST due JUMP · Geel Sport AFM NEG cash CRITICAL · Hamont-Achel invest cash-financed · **Willebroek** debt JUMP **20.9m** invest **9.3m** prijssub **1.45m** · SZ Patrimonium AFM NEG dividend dual city flows.
+- **Entity II (tick1179-1180):** **AGB Brasschaat** — assets **EUR9.97m** · leasing MVA **EUR9.19m** · fin debt **EUR9.34m** · equity thin **0.43m** · AFM thin **+0.067m** / gecorr AFM **−0.54m NEG DEEP** · gevel provision **0.095m** · zero staff. **AGB Middelkerke** — assets **EUR24.3m** · **99y erfpacht** debt **EUR23.4m** / MVA **EUR19.3m** · BBR **EUR3.98m** · AFM **+0.33m** / gecorr AFM **−1.25m NEG DEEP** · werking **EUR1.0m** · zero staff · 8-site canon table.
+- **Dual map themes:** **99-year erfpacht shells** (Middelkerke) · **gemeentehuis leasing shells** (Brasschaat) · **sport/culture invest+loan JUMP** (Willebroek) · **gecorr AFM hides thin AFM** · **zero-staff patrimonium AGB**.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 1170** (2026-08-08)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
