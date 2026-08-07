@@ -32525,3 +32525,27 @@ bud_agbbex_pnl_2025,agb_bexit,2025,-154527,,,bbc_jr_realized,src_agb_bexit_jr202
 bud_agbbex_goods_2025,agb_bexit,2025,1762763,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Goederen en diensten 1.763m (staff 0); tick1225
 bud_agbbex_interest_2025,agb_bexit,2025,99178,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,Rente aan andere entiteiten (city) 0.099m; tick1225
 bud_agbbex_nonruil_recv_2025,agb_bexit,2025,632291,,,bbc_jr_realized,src_agb_bexit_jr2025,strong,ST non-ruil recv 0.632m; tick1225
+bud_terv_assets_2025,city_tervuren,2025,160568464,,,bbc_jr_realized,src_tervuren_jr2025,strong,Assets consol YE2025 160.6m DROP from 182.3m; tick1226
+bud_terv_equity_2025,city_tervuren,2025,119554645,,,bbc_jr_realized,src_tervuren_jr2025,strong,Nettoactief YE2025 119.6m; tick1226
+bud_terv_cash_2025,city_tervuren,2025,20828386,,,bbc_jr_realized,src_tervuren_jr2025,strong,Cash YE2025 20.828m; tick1226
+bud_terv_fin_debt_loans_2025,city_tervuren,2025,24380164,,,bbc_jr_realized,src_tervuren_jr2025,strong,Openstaande schulden uit leningen 24.380m; tick1226
+bud_terv_fin_debt_lt_2025,city_tervuren,2025,20537448,,,bbc_jr_realized,src_tervuren_jr2025,strong,Fin schulden LT 20.537m; tick1226
+bud_terv_fin_debt_st_due_2025,city_tervuren,2025,2584433,,,bbc_jr_realized,src_tervuren_jr2025,strong,Fin schulden LT binnen jaar 2.584m; tick1226
+bud_terv_expl_ont_2025,city_tervuren,2025,63221097,,,bbc_jr_realized,src_tervuren_jr2025,strong,Exploitatieontvangsten 63.221m; tick1226
+bud_terv_expl_uit_2025,city_tervuren,2025,55761058,,,bbc_jr_realized,src_tervuren_jr2025,strong,Exploitatieuitgaven 55.761m; tick1226
+bud_terv_expl_saldo_2025,city_tervuren,2025,7460039,,,bbc_jr_realized,src_tervuren_jr2025,strong,Exploitatiesaldo +7.460m; tick1226
+bud_terv_invest_uit_2025,city_tervuren,2025,4297109,,,bbc_jr_realized,src_tervuren_jr2025,strong,Investeringen 4.297m; tick1226
+bud_terv_desinvest_2025,city_tervuren,2025,18219193,,,bbc_jr_realized,src_tervuren_jr2025,strong,Desinvesteringen 18.219m MASSIVE; tick1226
+bud_terv_early_repay_2025,city_tervuren,2025,15100178,,,bbc_jr_realized,src_tervuren_jr2025,strong,Vervroegde aflossing leningen 15.100m MASSIVE; tick1226
+bud_terv_amort_2025,city_tervuren,2025,2908203,,,bbc_jr_realized,src_tervuren_jr2025,strong,Periodieke aflossingen 2.908m; tick1226
+bud_terv_budget_2025,city_tervuren,2025,1842286,,,bbc_jr_realized,src_tervuren_jr2025,strong,Budgettair resultaat +1.842m; tick1226
+bud_terv_bbr_2025,city_tervuren,2025,20918906,,,bbc_jr_realized,src_tervuren_jr2025,strong,BBR beschikbaar +20.919m; tick1226
+bud_terv_afm_2025,city_tervuren,2025,6271984,,,bbc_jr_realized,src_tervuren_jr2025,strong,AFM +6.272m strong; tick1226
+bud_terv_afm_gecorr_2025,city_tervuren,2025,5889766,,,bbc_jr_realized,src_tervuren_jr2025,strong,Gecorr AFM +5.890m strong; tick1226
+bud_terv_personnel_2025,city_tervuren,2025,32699122,,,bbc_jr_realized,src_tervuren_jr2025,strong,Personeel 32.699m; tick1226
+bud_terv_toelagen_2025,city_tervuren,2025,8521701,,,bbc_jr_realized,src_tervuren_jr2025,strong,Toegestane werkingssubsidies 8.522m; tick1226
+bud_terv_pension_2025,city_tervuren,2025,9077839,,,bbc_jr_realized,src_tervuren_jr2025,strong,Pension provision 9.078m JUMP from 7.301m; tick1226
+bud_terv_ocmw_cover_2025,city_tervuren,2025,2606056,,,bbc_jr_realized,src_tervuren_jr2025,strong,OCMW cover 2.606m FULL; tick1226
+bud_terv_lt_recv_2025,city_tervuren,2025,23433941,,,bbc_jr_realized,src_tervuren_jr2025,strong,LT vorderingen 23.434m (incl AGB Bexit loans); tick1226
+bud_terv_agb_loan_new_2025,city_tervuren,2025,546436,,,bbc_jr_realized,src_tervuren_jr2025,strong,Toegestane lening AGB Bexit new 0.546m; tick1226
+bud_terv_agb_loan_repay_2025,city_tervuren,2025,1406737,,,bbc_jr_realized,src_tervuren_jr2025,strong,Terugbetaling leningen AGB Bexit 1.407m; tick1226

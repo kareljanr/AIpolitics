@@ -17133,3 +17133,14 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_1226** residual dual L5 VL; deferred **rq_116**
 
+
+## Tick 1226 — 2026-08-09T06:30:00Z — rq_1226 City Tervuren GE+OCMW dual residual JR2025
+
+- Unit: **rq_1226** (residual dual L5 VL — **Gemeente+OCMW Tervuren full BBC JR2025** completing AGB Bexit tick1225)
+- Primary: https://tervuren-echo.cipalschaubroeck.be/raadpleegomgeving/document/1eb18bda-84cf-46e9-bf5b-5c7844605f62 (163p); KBO **0207.525.461 / 0212.174.830** NIS 24104
+- Key € (strong): assets **160.6m DROP** · equity **119.6m** · cash **20.8m** · loans **24.4m** · **early repay 15.1m MASSIVE** · **desinvest 18.2m MASSIVE** · **AFM +6.27m** · gecorr **+5.89m** · budget **+1.84m** · BBR **20.9m** · personnel **32.7m** · toelagen **8.52m** · pension **9.08m JUMP** · OCMW cover **2.61m** · Bexit loans new **0.55m** / recover **1.41m**
+- Dual: AGB Bexit already mined tick1225 — city dual residual closed for full BBC layer
+- Wrote: budgets +24; commitments +7; leaderboard +7; sources +1; entity city_tervuren upgrade; FOI **gap_terv_early_repay_15_1m_desinvest_18_2m_pension_jump_9_1m_agb_bexit_loan_matrix_l5** prio9 ready + draft; rq_1226=done; spawn **rq_1227**; ticks=1226
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_1227** residual dual L5 VL; deferred **rq_116**
+

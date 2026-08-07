@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T06:00:00Z,rq_1225,1225,no,tick1225 AGB Bexit Tervuren full BBC debt 19.2m AFM -0.04m gecorr -0.26m PnL -0.15m FOI; next rq_1226 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-09T06:30:00Z,rq_1226,1226,no,tick1226 Tervuren GE dual residual early repay 15.1m desinvest 18.2m AFM +6.27m Bexit dual FOI; next rq_1227 residual dual L5 VL; rq_116 deferred; continuous hole_fill
