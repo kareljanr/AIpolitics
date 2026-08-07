@@ -32213,3 +32213,37 @@ bud_agbt_div_2025,agb_tremelo,2025,2137,,,bbc_jr_realized,src_agb_tremelo_jr2025
 bud_agbt_debt_ratio_2025,agb_tremelo,2025,93,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Schuldgraad 93pct (vreemdvermogen/totaal); tick1213
 bud_agbt_nwc_2025,agb_tremelo,2025,-190008,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Netto-werkkapitaal -0.190m NEG DEEP; tick1213
 bud_agbt_cum_pl_2025,agb_tremelo,2025,110742,,,bbc_jr_realized,src_agb_tremelo_jr2025,strong,Gecumuleerd overschot 0.111m flat; tick1213
+bud_agbk_assets_2025,agb_keerbergen,2025,8566556,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Total assets YE2025 8.567m; tick1214
+bud_agbk_equity_2025,agb_keerbergen,2025,1060085,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Nettoactief YE2025 1.060m; tick1214
+bud_agbk_debt_total_2025,agb_keerbergen,2025,7506471,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Total schulden YE2025 7.506m; tick1214
+bud_agbk_fin_debt_2025,agb_keerbergen,2025,6648191,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Fin debt total YE2025 6.648m ALL city renteloos; tick1214
+bud_agbk_fin_debt_lt_2025,agb_keerbergen,2025,6149147,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Fin schulden LT YE2025 6.149m declining; tick1214
+bud_agbk_fin_debt_st_due_2025,agb_keerbergen,2025,499043,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,LT due within year YE2025 0.499m; tick1214
+bud_agbk_cash_2025,agb_keerbergen,2025,1021870,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Liquide middelen YE2025 1.022m JUMP from 0.514m; tick1214
+bud_agbk_st_recv_2025,agb_keerbergen,2025,453720,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,ST vorderingen YE2025 0.454m DROP; tick1214
+bud_agbk_mva_2025,agb_keerbergen,2025,6784074,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Materiele vaste activa YE2025 6.784m; tick1214
+bud_agbk_buildings_2025,agb_keerbergen,2025,6071250,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Terreinen en gebouwen 6.071m; tick1214
+bud_agbk_cap_subs_2025,agb_keerbergen,2025,443814,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Kapitaalsubsidies YE2025 0.444m; tick1214
+bud_agbk_cum_pl_2025,agb_keerbergen,2025,572249,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Gecumuleerd overschot 0.572m; tick1214
+bud_agbk_expl_rec_2025,agb_keerbergen,2025,1392987,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Exploitatieontvangsten 1.393m; tick1214
+bud_agbk_expl_exp_2025,agb_keerbergen,2025,816261,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Exploitatieuitgaven 0.816m; tick1214
+bud_agbk_expl_saldo_2025,agb_keerbergen,2025,576726,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Exploitatiesaldo +0.577m; tick1214
+bud_agbk_invest_exp_2025,agb_keerbergen,2025,163131,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Investeringsuitgaven 0.163m; tick1214
+bud_agbk_invest_rec_2025,agb_keerbergen,2025,23523,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Investeringsontvangsten 0.024m; tick1214
+bud_agbk_fin_exp_repay_2025,agb_keerbergen,2025,546678,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Periodieke aflossingen 0.547m; tick1214
+bud_agbk_fin_rec_new_loans_2025,agb_keerbergen,2025,163131,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Nieuwe leningen 0.163m = invest lock city; tick1214
+bud_agbk_budget_result_2025,agb_keerbergen,2025,53572,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Budgettair resultaat boekjaar +0.054m; tick1214
+bud_agbk_bbr_2025,agb_keerbergen,2025,691885,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,BBR 0.692m; tick1214
+bud_agbk_afm_2025,agb_keerbergen,2025,30048,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,AFM +0.030m THIN POS; tick1214
+bud_agbk_gecorr_afm_2025,agb_keerbergen,2025,14187,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Gecorrigeerde AFM +0.014m THIN; tick1214
+bud_agbk_omzet_2025,agb_keerbergen,2025,1302274,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Opbrengsten uit de werking 1.302m; tick1214
+bud_agbk_prijssub_2025,agb_keerbergen,2025,864486,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,City prijssubsidie 0.864m MASSIVE (~62pct expl rec); tick1214
+bud_agbk_werksub_2025,agb_keerbergen,2025,66066,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Algemene werkingssubsidies 0.066m; tick1214
+bud_agbk_goods_services_2025,agb_keerbergen,2025,784437,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Goederen en diensten 0.784m; tick1214
+bud_agbk_depr_2025,agb_keerbergen,2025,577437,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Afschrijvingen 0.577m; tick1214
+bud_agbk_pnl_2025,agb_keerbergen,2025,60563,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,PnL boekjaar +0.061m; tick1214
+bud_agbk_div_2025,agb_keerbergen,2025,10000,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Dividend 0.010m of PnL 0.061m; tick1214
+bud_agbk_retained_2025,agb_keerbergen,2025,50563,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Over te dragen overschot 0.051m; tick1214
+bud_agbk_staff_2025,agb_keerbergen,2025,0,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Staff 0 (seconded city FOI); tick1214
+bud_agbk_fin_costs_2025,agb_keerbergen,2025,1332,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,Financiele kosten 0.001m (renteloos path); tick1214
+bud_agbk_st_debt_2025,agb_keerbergen,2025,1357324,,,bbc_jr_realized,src_agb_keerbergen_jr2025,strong,ST schulden total 1.357m; tick1214

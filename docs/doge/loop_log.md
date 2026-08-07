@@ -16996,3 +16996,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +28; commitments +6; leaderboard +7; sources +1; entity agb_tremelo; FOI **gap_agb_tremelo_debt_2_04m_jump_afm_neg_bbr_neg_cash_thin_l5** prio9 ready + draft; rq_1213=done; spawn **rq_1214**; ticks=1213
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1214** residual dual L5 VL; deferred **rq_116**
+
+
+### Tick 1214 - 2026-08-09T00:30:00Z
+
+- Unit: **rq_1214** (FOI-adjacent residual dual - **AGB Keerbergen JR2025** Entity II sport/culture after city GE tick1107)
+- Found (strong primary full BBC 89p + NBB; KBO **0877.654.713** NIS 24048; Gemeenteplein 10; AD Luc De boeck FD Kristel Panis; Voorzitter Jens Eggers):
+  - Assets **EUR8.567m** / equity **EUR1.060m** / cash **EUR1.022m JUMP** / MVA **EUR6.784m** (buildings 6.071)
+  - Fin debt **EUR6.648m** ALL city renteloos (LT 6.149 + ST due 0.499); new **0.163m** = invest; repay **0.547m** (=depr path)
+  - Expl **EUR1.393 / 0.816m** saldo **+0.577m** / BBR **0.692m** / AFM **+0.030m THIN** / gecorr AFM **+0.014m**
+  - PnL **EUR+0.061m** / div **EUR0.010m** / prijssub city **EUR0.864m MASSIVE** (~62pct expl rec) / staff **0**
+- Dual: city Keerbergen GE already mined - AGB dual residual closed for full BBC+NBB layer
+- Wrote: budgets +34; commitments +6; leaderboard +7; sources +1; entity agb_keerbergen; FOI **gap_agb_keer_city_loan_6_65m_prijssub_0_86m_afm_thin_div_l5** prio9 ready + draft; rq_1214=done; spawn **rq_1215**; ticks=1214
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1215** residual dual L5 VL; deferred **rq_116**
