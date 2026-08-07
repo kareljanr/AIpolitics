@@ -16800,3 +16800,19 @@ Append-only. Each tick adds a short entry.
 - Progress @1200: A/B 100%; C ~99%; D ~74-88% generous; FOI ready ~843; pure waste top10 stable
 - Next: prio5 **rq_1201** residual dual L5 VL; deferred **rq_116**
 
+
+### Tick 1201 - 2026-08-08T18:00:00Z
+
+- Unit: **rq_1201** (FOI-adjacent residual dual - **AGB Grimbergen Jaarrekening 2025** Entity II sport/erfpacht after city GE)
+- Found (strong primary **NBB jaarverslag** text + LT schulden bijlage; BBC 71p **image-only** no extractable AFM):
+  - KBO **0831.016.024**; Prinsenstraat 3; Voorzitter Jelle De Wilde
+  - Assets **EUR5.698m** / equity **EUR0.429m** / cash **EUR0.019m THIN** / MVA **EUR4.592m**
+  - Fin debt **~EUR4.697m** (LT **4.526** city loans + ST due **0.171**); new city loan **EUR1.499m** (35y = Humbeek invest)
+  - Prijssub **EUR0.348m** (factor cut 4.27->3.89 Oct) / omzet **EUR0.126m** / PnL **EUR0.215m** / div city 10% **EUR0.021m**
+  - ST city recv **EUR1.049m** / trade payables **EUR0.539m** / invest Humbeek clubhuis+kunstgras **EUR1.466m**
+  - Erfpacht: Sporthal Verbrande Brug, Humbeek, Schietstand (debt annex)
+- Dual: city Grimbergen GE already mined - AGB dual residual partial (NBB strong; BBC AFM FOI)
+- Wrote: budgets +25; commitments +6; leaderboard +7; sources +1; entity agb_grimbergen; FOI **gap_agb_grimbergen_city_loan_4_70m_prijssub_0_35m_cash_thin_bbc_l5** prio8 ready + draft; rq_1201=done; spawn **rq_1202**; ticks=1201
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1202** residual dual L5 VL; deferred **rq_116**
+

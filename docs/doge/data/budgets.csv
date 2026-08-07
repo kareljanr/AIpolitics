@@ -31815,3 +31815,28 @@ bud_agblok_omzet_2025,agb_lokeren,2025,128430,,,BBC JR2025 primary,src_agb_loker
 bud_agblok_depr_2025,agb_lokeren,2025,1432,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J5 afschrijvingen 0.001m thin first days; tick1200
 bud_agblok_interest_2025,agb_lokeren,2025,0,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,J5 fin kosten 0 (renteloze city loan stated); tick1200
 bud_agblok_city_loan_match_2025,agb_lokeren,2025,16721826,,,BBC JR2025 primary,src_agb_lokeren_jr2025,strong,Dual: exact match city_lokeren bud_lo_loans_to_agb_2025 16.722m; tick1200
+bud_agbgri_assets_2025,agb_grimbergen,2025,5697860,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv balanstotaal 5.698m; tick1201
+bud_agbgri_equity_2025,agb_grimbergen,2025,429111,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv eigen vermogen 0.429m; tick1201
+bud_agbgri_cash_2025,agb_grimbergen,2025,18879,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv liquide middelen 0.019m THIN; tick1201
+bud_agbgri_mva_2025,agb_grimbergen,2025,4592400,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv vaste activa netto 4.592m (erfpacht sport+roerend); tick1201
+bud_agbgri_st_recv_city_2025,agb_grimbergen,2025,1048728,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv ST vorderingen gemeente 1.049m; tick1201
+bud_agbgri_st_recv_trade_2025,agb_grimbergen,2025,10994,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv handelsvorderingen 0.011m; tick1201
+bud_agbgri_fin_debt_lt_2025,agb_grimbergen,2025,4526017,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv schulden LT 4.526m city loans erfpacht+invest; tick1201
+bud_agbgri_fin_debt_st_due_2025,agb_grimbergen,2025,170556,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv ST due within year 0.171m; tick1201
+bud_agbgri_fin_debt_2025,agb_grimbergen,2025,4696573,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv fin debt total LT+ST due 4.697m; tick1201
+bud_agbgri_new_loans_2025,agb_grimbergen,2025,1499418,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv new city loan 1.499m (35y pro rata depr; Humbeek invest); tick1201
+bud_agbgri_invest_2025,agb_grimbergen,2025,1499418,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv invest 1.499m (Humbeek clubhuis+kunstgras 1.466m); tick1201
+bud_agbgri_trade_payables_2025,agb_grimbergen,2025,539477,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv handelsschulden 0.539m; tick1201
+bud_agbgri_pnl_2025,agb_grimbergen,2025,214992,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv winst boekjaar 0.215m; tick1201
+bud_agbgri_dividend_city_2025,agb_grimbergen,2025,21499,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv 10pct div to city 0.021m art.40 statuten; tick1201
+bud_agbgri_reserve_10pct_2025,agb_grimbergen,2025,21499,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv 10pct beschikbare reserve 0.021m; tick1201
+bud_agbgri_prijssub_2025,agb_grimbergen,2025,348454,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv gemeentelijke prijssubsidie 0.348m (factor cut 4.27->3.89 Oct); tick1201
+bud_agbgri_omzet_2025,agb_grimbergen,2025,126232,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv omzet 0.126m (schietstand 0.060m dominant); tick1201
+bud_agbgri_op_rev_2025,agb_grimbergen,2025,476454,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv bedrijfsopbrengsten 0.476m; tick1201
+bud_agbgri_op_cost_2025,agb_grimbergen,2025,261348,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv bedrijfskosten 0.261m; tick1201
+bud_agbgri_goederen_2025,agb_grimbergen,2025,146968,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv aankopen/goederen diensten 0.147m; tick1201
+bud_agbgri_depr_2025,agb_grimbergen,2025,112411,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv afschrijvingen 0.112m; tick1201
+bud_agbgri_staff_2025,agb_grimbergen,2025,0,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv no personnel line stated (ops shell class); tick1201
+bud_agbgri_capital_2025,agb_grimbergen,2025,35000,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv maatschappelijk kapitaal 0.035m; tick1201
+bud_agbgri_provisions_2025,agb_grimbergen,2025,9018,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,NBB jv voorzieningen uitgestelde belastingen 0.009m; tick1201
+bud_agbgri_city_recv_total_2025,agb_grimbergen,2025,1048728,,,NBB JR2025 primary jv,src_agb_grimbergen_jr2025,strong,Dual city receivable residual FOI; tick1201
