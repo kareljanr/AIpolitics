@@ -30496,3 +30496,32 @@ bud_agost_pnl_2025,agb_agost_sint_truiden,2025,-326640,,,BBC JR2025 primary,src_
 bud_agost_interest_2025,agb_agost_sint_truiden,2025,132839,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Rente 0.133m 2025; tick1156
 bud_agost_loan_repay_2025,agb_agost_sint_truiden,2025,1160000,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,Periodieke aflossingen 1.160m 2025; tick1156
 bud_agost_nonruil_st_2025,agb_agost_sint_truiden,2025,1967732,,,BBC JR2025 primary,src_agb_agost_jr2025,strong,ST niet-ruiltransacties schulden 1.968m FOI residual; tick1156
+bud_agbschoten_assets_2025,agb_schoten,2025,4438056,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Assets balanstotaal YE2025 4.438m; tick1157
+bud_agbschoten_equity_2025,agb_schoten,2025,3710411,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Nettoactief YE2025 3.710m; tick1157
+bud_agbschoten_cum_pnl_2025,agb_schoten,2025,480425,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Gecumuleerd overschot equity path YE2025 0.480m; tick1157
+bud_agbschoten_cap_subs_2025,agb_schoten,2025,13869,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Kapitaalsubsidies YE2025 0.014m; tick1157
+bud_agbschoten_debt_total_2025,agb_schoten,2025,727645,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Schulden total YE2025 0.728m; tick1157
+bud_agbschoten_fin_debt_2025,agb_schoten,2025,573119,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Fin schulden T4 total YE2025 0.573m (LT 0.475 + ST due 0.098); tick1157
+bud_agbschoten_fin_debt_lt_2025,agb_schoten,2025,475047,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Fin schulden LT YE2025 0.475m city loan; tick1157
+bud_agbschoten_fin_debt_st_due_2025,agb_schoten,2025,98072,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Fin schulden LT binnen jaar YE2025 0.098m; tick1157
+bud_agbschoten_cash_2025,agb_schoten,2025,89463,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Liquide middelen YE2025 0.089m; tick1157
+bud_agbschoten_fva_2025,agb_schoten,2025,1250,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Fin VA IGS YE2025 1.250; tick1157
+bud_agbschoten_mva_2025,agb_schoten,2025,2192069,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,MVA bedrijfsmatig YE2025 2.192m (kerncijfers mislabeled as invest uitg); tick1157
+bud_agbschoten_st_nonruil_recv_2025,agb_schoten,2025,2060662,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,ST vorderingen niet-ruil YE2025 2.061m FOI residual; tick1157
+bud_agbschoten_st_nonruil_debt_2025,agb_schoten,2025,12792,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,ST schulden niet-ruil YE2025 0.013m; tick1157
+bud_agbschoten_expl_ont_2025,agb_schoten,2025,518230,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Exploitatieontvangsten 0.518m 2025; tick1157
+bud_agbschoten_expl_uit_2025,agb_schoten,2025,266628,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Exploitatieuitgaven 0.267m 2025; tick1157
+bud_agbschoten_expl_saldo_2025,agb_schoten,2025,251602,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Exploitatiesaldo +0.252m 2025; tick1157
+bud_agbschoten_invest_uit_2025,agb_schoten,2025,58307,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Investeringsuitgaven 0.058m 2025 (J2 not kerncijfers MVA stock); tick1157
+bud_agbschoten_invest_saldo_2025,agb_schoten,2025,-58307,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Investeringssaldo -0.058m 2025; tick1157
+bud_agbschoten_fin_saldo_2025,agb_schoten,2025,-73694,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Financieringssaldo -0.074m 2025; tick1157
+bud_agbschoten_new_loans_2025,agb_schoten,2025,58307,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Nieuwe leningen city investment financing 0.058m 2025; tick1157
+bud_agbschoten_loan_repay_2025,agb_schoten,2025,132001,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Periodieke aflossingen 0.132m 2025; tick1157
+bud_agbschoten_budget_2025,agb_schoten,2025,119601,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Budgettair resultaat +0.120m 2025; tick1157
+bud_agbschoten_cum_budget_2025,agb_schoten,2025,2133070,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Gecumuleerd budgettair YE2025 2.133m; tick1157
+bud_agbschoten_bbr_2025,agb_schoten,2025,2133070,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Beschikbaar budgettair resultaat 2.133m healthy; tick1157
+bud_agbschoten_afm_2025,agb_schoten,2025,119601,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Autofinancieringsmarge +0.120m 2025; tick1157
+bud_agbschoten_afm_gecorr_2025,agb_schoten,2025,199857,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Gecorrigeerde AFM +0.200m 2025; tick1157
+bud_agbschoten_pnl_2025,agb_schoten,2025,70548,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,PnL overschot +0.071m 2025; tick1157
+bud_agbschoten_dividend_city_2025,agb_schoten,2025,65000,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Rechthebbenden/dividend to city 0.065m 2025; tick1157
+bud_agbschoten_interest_2025,agb_schoten,2025,0,,,BBC JR2025 primary,src_agb_schoten_jr2025,strong,Financiele kosten 0 2025 (city loan no bank interest); tick1157

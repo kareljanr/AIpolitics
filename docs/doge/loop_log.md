@@ -16055,3 +16055,18 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1157** residual dual L5; deferred **rq_116**
 
+### Tick 1157 - 2026-08-07T20:00:00Z
+
+- Unit: **rq_1157** (FOI-adjacent residual dual - **AGB Schoten Jaarrekening 2025** Entity II sport after city GE)
+- Found (strong primary BBC 77p; KBO **0819.981.481**; Verbertstraat 3 2900; Voorzitter Paul De Swaef Secretaris An Adriaenssens; afdruk 13.03.2026):
+  - Assets **EUR4.438m** / equity **EUR3.710m** / cash **EUR0.089m**
+  - Fin debt T4 **EUR0.573m** (LT 0.475 / ST due **0.098m**); total schulden **EUR0.728m**; city-only loan no bank; repay **EUR0.132m**; new city financing **EUR0.058m**
+  - BBR **EUR2.133m healthy** / AFM **+EUR0.120m** / gecorr **+EUR0.200m** / budget **+EUR0.120m**
+  - Expl **EUR0.518m / 0.267m** saldo **+EUR0.252m** / invest **-EUR0.058m** / fin saldo **-EUR0.074m**
+  - PnL **+EUR0.071m** / dividend city **EUR0.065m** / ST non-ruil recv **EUR2.061m FOI** / MVA **EUR2.192m** (kerncijfers mislabeled as invest uitg)
+- Dual: city Schoten GE already mined (tick872/921) - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen login / Bornem JR2024 / Schelle GE+OCMW / Lievegem / Roeselare / Wommelgem residual next
+- Wrote: budgets +29 (bud_agbschoten_*); commitments +5; leaderboard +7; sources +1; entity agb_schoten; FOI **gap_agb_schoten_nonruil_recv_2m_city_loan_debt_l5** prio7 ready + draft; PDF primary (not committed ~1.0MB); rq_1157=done; spawn **rq_1158**; ticks=1157
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1158** residual dual L5; deferred **rq_116**
+
