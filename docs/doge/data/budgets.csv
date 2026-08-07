@@ -30041,3 +30041,28 @@ bud_agw_repay_2025,agb_westerlo,2025,103864,,,jaarrekening_realized,src_westerlo
 bud_agw_interest_2025,agb_westerlo,2025,0,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Rente banken 0 FOI on 0.99m debt; tick1137
 bud_agw_omzet_2025,agb_westerlo,2025,871140,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Ontvangsten uit werking T2 0.871m; tick1137
 bud_agw_goederen_2025,agb_westerlo,2025,792276,,,jaarrekening_realized,src_westerlo_agb_jr2025,strong,Goederen en diensten T2 0.792m; tick1137
+bud_agh_assets_2025,agb_herk_de_stad,2025,1807875,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Total assets YE2025 1.808m JUMP (was 1.053m); tick1138
+bud_agh_equity_2025,agb_herk_de_stad,2025,660033,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Nettoactief YE2025 0.660m; tick1138
+bud_agh_debt_total_2025,agb_herk_de_stad,2025,1147842,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Total schulden YE2025 1.148m JUMP; tick1138
+bud_agh_fin_debt_2025,agb_herk_de_stad,2025,1140000,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Financiele schulden total YE2025 1.140m (LT 1.080 + ST due 0.060); tick1138
+bud_agh_fin_debt_lt_2025,agb_herk_de_stad,2025,1080000,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Fin schulden LT YE2025 1.080m JUMP (was 0.240m); tick1138
+bud_agh_fin_debt_st_due_2025,agb_herk_de_stad,2025,60000,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Schulden LT vervallend binnen jaar YE2025 0.060m; tick1138
+bud_agh_cash_2025,agb_herk_de_stad,2025,155640,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Liquide middelen YE2025 0.156m DROP (was 0.261m); tick1138
+bud_agh_lt_recv_2025,agb_herk_de_stad,2025,866464,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Vorderingen LT ruil 0.866m JUMP FOI (was 0); tick1138
+bud_agh_mva_2025,agb_herk_de_stad,2025,724587,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Materiele vaste activa YE2025 0.725m; tick1138
+bud_agh_expl_rec_2025,agb_herk_de_stad,2025,105687,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Exploitatieontvangsten 0.106m; tick1138
+bud_agh_expl_exp_2025,agb_herk_de_stad,2025,67796,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Exploitatieuitgaven 0.068m; tick1138
+bud_agh_expl_saldo_2025,agb_herk_de_stad,2025,37891,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Exploitatiesaldo +0.038m; tick1138
+bud_agh_invest_2025,agb_herk_de_stad,2025,17697,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Investeringsuitgaven 0.018m; tick1138
+bud_agh_afm_2025,agb_herk_de_stad,2025,-22109,,,jaarrekening_realized,src_herk_agb_jr2025,strong,AFM -0.022m NEG FOI; tick1138
+bud_agh_afm_gecorr_2025,agb_herk_de_stad,2025,13891,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Gecorr AFM +0.014m; tick1138
+bud_agh_bbr_2025,agb_herk_de_stad,2025,209311,,,jaarrekening_realized,src_herk_agb_jr2025,strong,BBR 0.209m; tick1138
+bud_agh_budget_result_2025,agb_herk_de_stad,2025,-6270,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Budgettair resultaat -0.006m NEG; tick1138
+bud_agh_pl_2025,agb_herk_de_stad,2025,1598,,,jaarrekening_realized,src_herk_agb_jr2025,strong,P&L +0.002m; tick1138
+bud_agh_cum_pl_2025,agb_herk_de_stad,2025,-339967,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Gecumuleerd tekort -0.340m; tick1138
+bud_agh_new_loans_2025,agb_herk_de_stad,2025,900000,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Financieringsontvangsten/nieuwe leningen 0.900m MASSIVE FOI; tick1138
+bud_agh_repay_2025,agb_herk_de_stad,2025,60000,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Periodieke aflossingen 0.060m; tick1138
+bud_agh_interest_2025,agb_herk_de_stad,2025,3617,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Financiele kosten 0.004m; tick1138
+bud_agh_omzet_2025,agb_herk_de_stad,2025,78920,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Opbrengsten uit werking 0.079m; tick1138
+bud_agh_goederen_2025,agb_herk_de_stad,2025,63991,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Goederen en diensten 0.064m; tick1138
+bud_agh_andere_opbr_2025,agb_herk_de_stad,2025,26768,,,jaarrekening_realized,src_herk_agb_jr2025,strong,Andere ops opbrengsten 0.027m; tick1138

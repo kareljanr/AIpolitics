@@ -15703,3 +15703,21 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1138** residual dual L5; deferred **rq_116**; progress@1140 in 2
 
+
+### Tick 1138 - 2026-08-12T10:30:00Z
+
+- Unit: **rq_1138** (FOI-adjacent residual dual - **AGB Herk-de-Stad Jaarrekening 2025** Entity II after city)
+- Found (strong primary BBC JR2025 AGB 41p table-image OCR; herk-de-stad.be; KBO **0537.728.111**; Pikkeleerstraat 14 3540; AD Nathalie Creten FD Ive Vanderlee):
+  - Assets **EUR1.808m JUMP** (was 1.053m) / equity **EUR0.660m** / debt total **EUR1.148m JUMP** / fin debt **EUR1.140m** (LT **EUR1.080m JUMP** was 0.240m / ST due **EUR0.060m**)
+  - **New financing receipts EUR0.900m MASSIVE FOI** / periodieke aflossingen **EUR0.060m** / fin uitgaven **EUR0.926m** / interest **EUR0.004m**
+  - Cash **EUR0.156m DROP** (was **EUR0.261m**) / **LT recv EUR0.866m NEW FOI** (was 0) / MVA **EUR0.725m**
+  - Exploitatie: ontvangsten **EUR0.106m** / uitgaven **EUR0.068m** / saldo **+EUR0.038m**
+  - **AFM -EUR0.022m NEG FOI** / gecorr AFM **+EUR0.014m** / BBR **EUR0.209m** / budget **-EUR0.006m**
+  - P&L **+EUR0.002m** / cum tekort **-EUR0.340m** / omzet **EUR0.079m** / goederen **EUR0.064m**
+  - Invest **EUR0.018m** / overig nettoactief **EUR1.000m**
+- Dual: city Herk-de-Stad already mined (tick1103) - not TE-additive; AGB dual residual now closed
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere full JR / Brakel GE+OCMW / Puurs / AGB Galmaarden residual next; **progress@1140 NEXT**
+- Wrote: budgets +25 (bud_agh_*); commitments +5; leaderboard +10; sources +1; entity agb_herk_de_stad; FOI **gap_agh_afm_neg_lt_recv_loans_jump_cash_drop_l5** prio9 ready + draft; PDF primary table-OCR (not committed); rq_1138=done; spawn **rq_1139**; ticks=1138
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1139** residual dual L5; deferred **rq_116**; **progress@1140 NEXT**
+
