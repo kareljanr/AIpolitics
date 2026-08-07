@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T01:30:00Z,rq_1168,1168,no,tick1168 AGB Aarschot dual residual gecorr AFM NEG debt 11.45m prijssub 1.32m leasing 1.91m; next rq_1169 residual dual L5; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T02:00:00Z,rq_1169,1169,no,tick1169 AGB Genk dual residual gecorr AFM NEG BBR NEG leasing 11.2m treasury 1.75m city investsub 4.63m; next rq_1170 residual dual L5; rq_116 deferred; continuous hole_fill

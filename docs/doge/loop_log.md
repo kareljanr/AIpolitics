@@ -16261,3 +16261,20 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1169** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1169 - 2026-08-08T02:00:00Z
+
+- Unit: **rq_1169** (FOI-adjacent residual dual - **AGB Genk Jaarrekening 2025** Entity II sport/park/lease after city GE)
+- Found (strong primary BBC 276p RVB 21.04.2026 pub 28.04.2026; KBO **0872.093.742**; Stadsplein 1; Wnd AD Stijn Ooms FD Rudi Van Gurp):
+  - Assets **EUR88.974m** / netto **EUR73.740m** (cum P&L **-2.705m**) / cash **EUR0.235m**
+  - Fin debt T4 **EUR12.897m** (LT 10.903 / ST due 0.244 / **treasury 1.750m JUMP**)
+  - MVA **EUR71.215m** (gebouwen 56.227 / **leasing 11.191m MASSIVE**) / FVA **15.075m** (Thor Park 13.955 + T2 1.120)
+  - BBR **EUR-1.452m NEG** / AFM **+EUR0.335m** / **gecorr AFM EUR-0.419m NEG CRITICAL** (aangewezen 0.991m vs 0.237m)
+  - Expl **EUR5.778m / 5.206m** saldo **+EUR0.572m** / city werkingssub **0.861m DROP** / invest **6.060m** (SportinGenk 5.254) city investsub **4.626m**
+  - PnL **+EUR0.256m** carryforward; interest 0.425m; budget result -0.324m
+- Dual: city Genk GE already mined tick832 - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen / Bornem JR2024 / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Middelkerke residual next
+- Wrote: budgets +38 (bud_agbgenk_*); commitments +6; leaderboard +8; sources +1; entity agb_genk; FOI **gap_agb_genk_gecorr_afm_neg_bbr_neg_leasing_11m_treasury_l5** prio9 ready + draft; PDF primary (not committed ~3.9MB); rq_1169=done; spawn **rq_1170**; ticks=1169
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1170** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local

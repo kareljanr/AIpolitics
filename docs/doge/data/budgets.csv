@@ -30868,3 +30868,41 @@ bud_agbaar_dividend_2025,agb_aarschot,2025,25000,,,BBC JR2025 primary,src_agb_aa
 bud_agbaar_interest_2025,agb_aarschot,2025,2341,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Financiele kosten 0.002m thin; tick1168
 bud_agbaar_depr_2025,agb_aarschot,2025,643761,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,Afschrijvingen 0.644m; tick1168
 bud_agbaar_mjp_debt_2026,agb_aarschot,2025,12976413,,,BBC JR2025 primary,src_agb_aarschot_jr2025,strong,MJP fin debt YE2026 path 12.976m (new 2.106m); tick1168
+bud_agbgenk_assets_2025,agb_genk,2025,88973961,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Assets balanstotaal YE2025 88.974m; tick1169
+bud_agbgenk_equity_2025,agb_genk,2025,73740132,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Nettoactief YE2025 73.740m; tick1169
+bud_agbgenk_cum_pnl_2025,agb_genk,2025,-2704627,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Gecumuleerd tekort YE2025 -2.705m; tick1169
+bud_agbgenk_cap_subs_2025,agb_genk,2025,40362725,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Kapitaalssubsidies YE2025 40.363m; tick1169
+bud_agbgenk_other_netto_2025,agb_genk,2025,36082034,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Overig nettoactief YE2025 36.082m; tick1169
+bud_agbgenk_debt_total_2025,agb_genk,2025,15233829,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Schulden total YE2025 15.234m; tick1169
+bud_agbgenk_fin_debt_2025,agb_genk,2025,12896770,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Fin schulden T4 total YE2025 12.897m; tick1169
+bud_agbgenk_fin_debt_lt_2025,agb_genk,2025,10902645,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Fin schulden LT YE2025 10.903m; tick1169
+bud_agbgenk_fin_debt_st_due_2025,agb_genk,2025,244125,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Fin schulden LT vervallend YE2025 0.244m; tick1169
+bud_agbgenk_treasury_st_2025,agb_genk,2025,1750000,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Thesauriebewijzen ST YE2025 1.750m JUMP from 1.0m; tick1169
+bud_agbgenk_cash_2025,agb_genk,2025,235276,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Liquide middelen YE2025 0.235m; tick1169
+bud_agbgenk_mva_2025,agb_genk,2025,71214982,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,MVA YE2025 71.215m; tick1169
+bud_agbgenk_mva_buildings_2025,agb_genk,2025,56226841,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,MVA terreinen/gebouwen bedrijfsmatig YE2025 56.227m; tick1169
+bud_agbgenk_leasing_mva_2025,agb_genk,2025,11191175,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Leasing MVA YE2025 11.191m MASSIVE; tick1169
+bud_agbgenk_fva_2025,agb_genk,2025,15074814,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,FVA YE2025 15.075m (Thor Park 13.955 + T2 CV 1.120); tick1169
+bud_agbgenk_st_recv_2025,agb_genk,2025,2269538,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,ST vorderingen YE2025 2.270m; tick1169
+bud_agbgenk_expl_rec_2025,agb_genk,2025,5778030,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Exploitatieontvangsten 5.778m; tick1169
+bud_agbgenk_expl_exp_2025,agb_genk,2025,5206274,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Exploitatieuitgaven 5.206m; tick1169
+bud_agbgenk_expl_saldo_2025,agb_genk,2025,571755,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Exploitatiesaldo +0.572m; tick1169
+bud_agbgenk_werkingssub_city_2025,agb_genk,2025,860952,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Algemene werkingssubsidie gemeente 0.861m DROP from 1.150m; tick1169
+bud_agbgenk_werkingssub_total_2025,agb_genk,2025,891532,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Werkingssubsidies total T2 0.892m; tick1169
+bud_agbgenk_invest_exp_2025,agb_genk,2025,6059606,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Investeringsuitgaven 6.060m (SportinGenk 5.254m); tick1169
+bud_agbgenk_invest_rec_2025,agb_genk,2025,5401220,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Investeringsontvangsten 5.401m; tick1169
+bud_agbgenk_invest_sub_city_2025,agb_genk,2025,4626169,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Investeringssubsidies van gemeente 4.626m; tick1169
+bud_agbgenk_invest_saldo_2025,agb_genk,2025,-658386,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Investeringssaldo -0.658m; tick1169
+bud_agbgenk_fin_exp_2025,agb_genk,2025,237055,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Financieringsuitgaven/aflossingen 0.237m; tick1169
+bud_agbgenk_fin_rec_2025,agb_genk,2025,0,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Financieringsontvangsten/new loans 0; tick1169
+bud_agbgenk_fin_saldo_2025,agb_genk,2025,-237055,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Financieringssaldo -0.237m; tick1169
+bud_agbgenk_budget_result_2025,agb_genk,2025,-323685,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Budgettair resultaat boekjaar -0.324m; tick1169
+bud_agbgenk_bbr_2025,agb_genk,2025,-1451970,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Beschikbaar BBR YE2025 -1.452m NEG (treasury booking); tick1169
+bud_agbgenk_afm_2025,agb_genk,2025,334701,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,AFM +0.335m; tick1169
+bud_agbgenk_afm_gecorr_2025,agb_genk,2025,-418951,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Gecorr AFM -0.419m NEG CRITICAL (aangewezen 0.991m); tick1169
+bud_agbgenk_aangewezen_amort_2025,agb_genk,2025,990706,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Gecorrigeerde aflossingen o.b.v. fin schulden 0.991m; tick1169
+bud_agbgenk_pnl_2025,agb_genk,2025,256175,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,P&L +0.256m (carryforward; no dividend); tick1169
+bud_agbgenk_interest_2025,agb_genk,2025,424852,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Financiele kosten 0.425m; tick1169
+bud_agbgenk_depr_2025,agb_genk,2025,2167969,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Afschrijvingen 2.168m; tick1169
+bud_agbgenk_sportingenk_invest_2025,agb_genk,2025,5254381,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,SportinGenk investeringswerken 5.254m; tick1169
+bud_agbgenk_thor_invest_2025,agb_genk,2025,470377,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Thor Park werkzaamheden 0.470m; tick1169
