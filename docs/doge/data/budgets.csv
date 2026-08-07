@@ -32480,3 +32480,25 @@ bud_agbbee_pnl_2025,agb_beersel,2025,-9684,,,bbc_jr_realized,src_agb_beersel_jr2
 bud_agbbee_prijssub_2025,agb_beersel,2025,711134,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Prijssubsidie city 0.711m (city dual 0.754m incl BTW); tick1223
 bud_agbbee_erfpacht_doc_2025,agb_beersel,2025,50000,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Erfpacht DOC city 0.050m; tick1223
 bud_agbbee_goods_2025,agb_beersel,2025,478044,,,bbc_jr_realized,src_agb_beersel_jr2025,strong,Goederen en diensten 0.478m (staff 0); tick1223
+bud_agbgla_expl_ont_2025,agb_glabbeek,2025,343136,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Exploitatieontvangsten 0.343m; tick1224
+bud_agbgla_expl_uit_2025,agb_glabbeek,2025,319822,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Exploitatieuitgaven 0.320m; tick1224
+bud_agbgla_expl_saldo_2025,agb_glabbeek,2025,23314,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Exploitatiesaldo +0.023m thin; tick1224
+bud_agbgla_invest_uit_2025,agb_glabbeek,2025,27645,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Investeringsuitgaven 0.028m; tick1224
+bud_agbgla_fin_ont_2025,agb_glabbeek,2025,200000,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Fin ont 0.200m new loans andere entiteiten; tick1224
+bud_agbgla_fin_uit_2025,agb_glabbeek,2025,100790,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Periodieke aflossingen 0.101m; tick1224
+bud_agbgla_budget_2025,agb_glabbeek,2025,94880,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Budgettair resultaat +0.095m; tick1224
+bud_agbgla_bbr_2025,agb_glabbeek,2025,496289,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,BBR beschikbaar +0.496m; tick1224
+bud_agbgla_afm_2025,agb_glabbeek,2025,-77475,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,AFM -0.077m NEG CRITICAL; tick1224
+bud_agbgla_afm_gecorr_2025,agb_glabbeek,2025,-215092,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Gecorr AFM -0.215m DEEP NEG CRITICAL; tick1224
+bud_agbgla_assets_2025,agb_glabbeek,2025,7124690,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Assets YE2025 7.125m; tick1224
+bud_agbgla_cash_2025,agb_glabbeek,2025,135746,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Cash YE2025 0.136m JUMP from 0.029m; tick1224
+bud_agbgla_mva_2025,agb_glabbeek,2025,6589051,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,MVA 6.589m; tick1224
+bud_agbgla_equity_2025,agb_glabbeek,2025,3907388,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Nettoactief YE2025 3.907m (cap sub 3.875m); tick1224
+bud_agbgla_cum_pnl_2025,agb_glabbeek,2025,-14112,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Gecumuleerd tekort -0.014m WORSENING from +0.215m; tick1224
+bud_agbgla_fin_debt_2025,agb_glabbeek,2025,3079289,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Fin schulden total 3.079m; tick1224
+bud_agbgla_fin_debt_lt_2025,agb_glabbeek,2025,1767863,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Fin schulden LT 1.768m; tick1224
+bud_agbgla_fin_debt_st_due_2025,agb_glabbeek,2025,1311429,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Fin schulden LT binnen jaar 1.311m MASSIVE WALL; tick1224
+bud_agbgla_new_loans_2025,agb_glabbeek,2025,200000,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Nieuwe leningen 0.200m andere entiteiten city path; tick1224
+bud_agbgla_pnl_2025,agb_glabbeek,2025,-229079,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,PnL -0.229m DEEP NEG; tick1224
+bud_agbgla_goods_2025,agb_glabbeek,2025,266555,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Goederen en diensten 0.267m (staff 0); tick1224
+bud_agbgla_interest_2025,agb_glabbeek,2025,8566,,,bbc_jr_realized,src_agb_glabbeek_jr2025,strong,Rente bank 0.009m (ING fixed; city renteloos); tick1224

@@ -17111,3 +17111,14 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only — **do not send**
 - Next: prio5 **rq_1224** residual dual L5 VL; deferred **rq_116**
 
+
+## Tick 1224 — 2026-08-09T05:30:00Z — rq_1224 AGB Glabbeek dual residual JR2025
+
+- Unit: **rq_1224** (residual dual L5 VL — **AGB Glabbeek full BBC JR2025** after city GE tick1086)
+- Primary: https://www.glabbeek.be/financien (75p); KBO **0537.864.307**; AD Kristine Wauters FD Nancy Wuestenberghs
+- Key € (strong): **AFM −0.077m NEG** · **gecorr AFM −0.215m DEEP NEG** · budget **+0.095m** · BBR **0.496m** · **fin debt 3.079m** · **ST due 1.311m MASSIVE WALL** · cash **0.136m JUMP** · equity **3.907m** (cum P&L **−0.014m**) · assets **7.125m** · PnL **−0.229m DEEP NEG** · new loans city-path **0.200m**
+- Dual: city Glabbeek GE already mined (high ST due) — AGB dual residual closed for full BBC layer
+- Wrote: budgets +22; commitments +7; leaderboard +7; sources +1; entity **agb_glabbeek**; FOI **gap_agb_gla_afm_neg_0_08m_gecorr_0_22m_st_due_1_31m_pnl_neg_0_23m_new_loan_0_20m_l5** prio9 ready + draft; rq_1224=done; spawn **rq_1225**; ticks=1224
+- FOI: ready only — **do not send**
+- Next: prio5 **rq_1225** residual dual L5 VL; deferred **rq_116**
+
