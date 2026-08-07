@@ -32814,3 +32814,36 @@ bud_agsl_depr_2025,agb_agsl_leuven,2025,2130015,,,bbc_jr_realized,src_agsl_leuve
 bud_agsl_city_tussenkomst_2025,agb_agsl_leuven,2025,1771678,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Stad Leuven tussenkomst total 1.772m (result 1.636m + vastgoed prefin 0.135m GR); tick1237
 bud_agsl_werksub_algemeen_2025,agb_agsl_leuven,2025,1745074,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,J5 algemene werkingssubsidies 1.745m (city path); tick1237
 bud_agsl_toelagen_granted_2025,agb_agsl_leuven,2025,225000,,,bbc_jr_realized,src_agsl_leuven_jr2025,strong,Toegestane werkingssubsidies uit 0.225m; tick1237
+bud_ag2b_expl_ont_2025,agb_ag2b_berlaar,2025,105219,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Exploitatieontvangsten 0.105m; tick1238
+bud_ag2b_expl_uit_2025,agb_ag2b_berlaar,2025,69422,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Exploitatieuitgaven 0.069m; tick1238
+bud_ag2b_expl_saldo_2025,agb_ag2b_berlaar,2025,35798,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Exploitatiesaldo +0.036m; tick1238
+bud_ag2b_invest_uit_2025,agb_ag2b_berlaar,2025,2224,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Investeringsuitgaven 0.002m; tick1238
+bud_ag2b_invest_saldo_2025,agb_ag2b_berlaar,2025,-2224,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Investeringssaldo -0.002m; tick1238
+bud_ag2b_fin_ont_2025,agb_ag2b_berlaar,2025,2224,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Financieringsontvangsten/new loans 0.002m; tick1238
+bud_ag2b_fin_uit_2025,agb_ag2b_berlaar,2025,132,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Financieringsuitgaven/periodieke aflossingen 0.000m; tick1238
+bud_ag2b_budget_result_2025,agb_ag2b_berlaar,2025,35665,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Budgettair resultaat boekjaar +0.036m; tick1238
+bud_ag2b_cum_br_2025,agb_ag2b_berlaar,2025,79718,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Gecumuleerd budgettair resultaat +0.080m; tick1238
+bud_ag2b_bbr_2025,agb_ag2b_berlaar,2025,79718,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Beschikbaar budgettair resultaat +0.080m; tick1238
+bud_ag2b_afm_2025,agb_ag2b_berlaar,2025,35665,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,AFM +0.036m; tick1238
+bud_ag2b_afm_gecorr_2025,agb_ag2b_berlaar,2025,35798,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Gecorrigeerde AFM +0.036m (gecorr afloss 0); tick1238
+bud_ag2b_assets_2025,agb_ag2b_berlaar,2025,128774,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,J4 balanstotaal 0.129m JUMP (was 0.047m); tick1238
+bud_ag2b_equity_2025,agb_ag2b_berlaar,2025,79874,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,J4 nettoactief 0.080m; tick1238
+bud_ag2b_capital_2025,agb_ag2b_berlaar,2025,50000,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Overig nettoactief/kapitaal 0.050m (2023 inject); tick1238
+bud_ag2b_cum_surplus_2025,agb_ag2b_berlaar,2025,29874,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Gecumuleerd overschot +0.030m (was -0.005m); tick1238
+bud_ag2b_cash_2025,agb_ag2b_berlaar,2025,28726,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Liquide middelen 0.029m DROP (was 0.045m); tick1238
+bud_ag2b_st_recv_2025,agb_ag2b_berlaar,2025,97800,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,ST vorderingen 0.098m JUMP; tick1238
+bud_ag2b_st_recv_nonruil_2025,agb_ag2b_berlaar,2025,93380,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,ST non-ruil vorderingen 0.093m (~city prijssub dual); tick1238
+bud_ag2b_st_recv_ruil_2025,agb_ag2b_berlaar,2025,4420,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,ST ruil vorderingen 0.004m; tick1238
+bud_ag2b_mva_2025,agb_ag2b_berlaar,2025,1529,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,MVA 0.002m (installaties); tick1238
+bud_ag2b_fin_debt_lt_2025,agb_ag2b_berlaar,2025,1558,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Fin debt LT 0.002m; tick1238
+bud_ag2b_fin_debt_st_due_2025,agb_ag2b_berlaar,2025,534,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Fin debt ST due 0.001m; tick1238
+bud_ag2b_fin_debt_2025,agb_ag2b_berlaar,2025,2092,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Fin debt total 0.002m (new loans 2.224 - afl 0.132); tick1238
+bud_ag2b_new_loans_2025,agb_ag2b_berlaar,2025,2224,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Nieuwe leningen 0.002m; tick1238
+bud_ag2b_st_debt_nonruil_2025,agb_ag2b_berlaar,2025,10565,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,ST non-ruil schulden 0.011m; tick1238
+bud_ag2b_pnl_2025,agb_ag2b_berlaar,2025,39256,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,PnL/overschot +0.039m flip (was -0.004m); tick1238
+bud_ag2b_div_2025,agb_ag2b_berlaar,2025,3926,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Partial dividend to city 0.004m (~10% PnL rechthebbenden); tick1238
+bud_ag2b_carry_2025,agb_ag2b_berlaar,2025,35331,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Over te dragen overschot 0.035m; tick1238
+bud_ag2b_goods_2025,agb_ag2b_berlaar,2025,53968,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Goederen en diensten 0.054m; tick1238
+bud_ag2b_depr_2025,agb_ag2b_berlaar,2025,467,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,Afschrijvingen 0.000m; tick1238
+bud_ag2b_city_prijssub_2025,agb_ag2b_berlaar,2025,93482,,,bbc_jr_realized,src_berlaar_jr2025,strong,City dual toelage/prijssub AG2B 0.093m (tick1055 dual); tick1238
+bud_ag2b_costs_2025,agb_ag2b_berlaar,2025,65963,,,bbc_jr_realized,src_agb_ag2b_berlaar_jr2025,strong,J5 totale kosten 0.066m; tick1238

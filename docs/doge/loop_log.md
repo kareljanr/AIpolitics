@@ -17214,3 +17214,9 @@ Append-only. Each tick adds a short entry.
 - EUR strong: assets **87.0m**; BBR **−10.883m** DEEP NEG; cum loss **−2.980m**; ST non-ruil debt **16.198m**; fin debt **11.042m**; inventory **16.799m**; city tussenkomst **1.772m**; PnL **−0.402m**; desinvest **10.626m**; new loans **2.000m**; AFM **+1.711m**.
 - CSVs: sources/entities/budgets+33/commitments+7/leaderboard+7 + FOI ready `gap_agsl_leuven_bbr_neg_10_88m_cum_loss_2_98m_st_nonruil_16_2m_city_tussen_1_77m_l5` (not sent); rq_1237=done; spawn rq_1238.
 - Next: rq_1238 residual dual L5 VL JR2025 hole_fill.
+
+### Tick 1238 - 2026-08-08 - rq_1238 AG2B Berlaar dual residual
+- Unit: AG2B Berlaar JR2025 Entity II after city GE tick1055 (KBO 0801.578.801; 43p text primary).
+- EUR strong: assets **0.129m**; city prijssub dual **0.093m**; ST non-ruil recv **0.093m**; partial div **0.004m**; fin debt **0.002m**; BBR **+0.080m**; AFM **+0.036m**; PnL flip **+0.039m**; capital **0.050m**.
+- CSVs: sources/entities/budgets+33/commitments+6/leaderboard+6 + FOI ready `gap_agb_ag2b_ber_prijssub_0_09m_st_nonruil_recv_0_09m_partial_div_debt_2k_l5` (not sent); rq_1238=done; spawn rq_1239.
+- Next: rq_1239 residual dual L5 VL JR2025 hole_fill.
