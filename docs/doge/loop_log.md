@@ -17164,3 +17164,10 @@ Append-only. Each tick adds a short entry.
 - EUR strong: BBR **-0.454m** NEG; AFM **+0.658m**; gecorr AFM **+0.301m**; fin debt **8.063m** erfpacht; prijssub **1.914m** (~67% expl); loss without sub **1.859m**; full div **0.055m**; cash thin **0.118m**; equity **0.073m**.
 - CSVs: sources/entities/budgets+25/commitments+7/leaderboard+7 + FOI ready `gap_agb_vv_bbr_neg_0_45m_prijssub_1_91m_full_div_debt_8_06m_l5` (not sent); rq_1229=done; spawn rq_1230.
 - Next: rq_1230 residual dual L5 VL JR2025 hole_fill.
+
+### Tick 1230 — 2026-08-07 — rq_1230 AGB Kinrooi dual residual + progress@1230
+- Unit: AGB Kinrooi JR2025 Entity II after city GE tick916 (KBO 0878.368.058 NIS 72018; 35p text primary).
+- EUR strong: assets **5.743m**; equity **5.690m**; **cum loss −1.999m** DEEPENING; PnL **−0.069m**; BBR **+0.500m**; AFM/gecorr **+0.172m**; fin debt **0** (city took over loans); prijssub **~0.235m**; city toelage dual **0.260m**.
+- CSVs: sources/entities/budgets+25/commitments+6/leaderboard+6 + FOI ready `gap_agb_knr_cum_loss_2_00m_prijssub_0_24m_pnl_neg_0_07m_city_debt_takeover_l5` (not sent); rq_1230=done; spawn rq_1231; ticks=1230.
+- Progress@1230: refreshed progress_every_10_ticks.md + doge_waste_top10_current.md (pure annual top10 stable; dual gain Hasselt/Vilvoorde/Kinrooi/Bexit stack).
+- Next: rq_1231 residual dual L5 VL JR2025 hole_fill.

@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **1220** (2026-08-09) · **~6518** leaderboard rows  
+**As-of:** tick **1230** (2026-08-07) · **~6586** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,7 +27,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** · **AGB dual AFM NEG + debt + leasing/city-loan shells** (**NEW Mortsel €9.57m** AFM −0.44m · **Duffel €9.00m** gecorr −0.37m · Maldegem €6.19m · AGSO KH €78.1m · Keerbergen €6.65m · Beleko €4.54m · Heist €21.4m · Zemst €12.2m · prior Lokeren/SportAG stack) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** · **AGB dual AFM NEG + debt + leasing/city-loan shells** (**NEW Hasselt ~€95–103m** · **Vilvoorde €8.06m** · **Kinrooi cum −€2.00m** · Mortsel €9.57m AFM −0.44m · **Duffel €9.00m** gecorr −0.37m · Maldegem €6.19m · AGSO KH €78.1m · Keerbergen €6.65m · Beleko €4.54m · Heist €21.4m · Zemst €12.2m · prior Lokeren/SportAG stack) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market.
+
+**Change vs tick 1220:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reportAc #2–10). **Major NEW residual 1221–1230 (off pure top10 / dual):** **AGB Hasselt Stadsontwikkeling** debt plan **~EUR95–103m** gecorr AFM plan **−EUR2.40m** (JR scan FOI) · **AGB Bexit** debt **EUR19.2m** · city Tervuren early repay **EUR15.1m** · **AG Vilvoorde** BBR **−EUR0.45m** prijssub **EUR1.91m** full div · **AGB Kinrooi** cum loss **−EUR2.00m** fin debt **0** city take-over · Beersel **EUR8.36m** · Glabbeek ST due wall. Gain is **mega patrim AGB debt + erfpacht shells + city debt parking + tax-driven profit strip**.
 
 **Change vs tick 1210:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 1211–1220 (off pure top10 / dual):** **AGB Mortsel** AFM **−€0.44m** debt **€9.57m** cum loss **−€1.12m** city final repay **€0.68m** · **AGB Duffel** gecorr AFM **−€0.37m** debt **€9.00m** leasing **€3.13m** · Maldegem AFM **−€0.13m** debt **€6.19m** full div · AGSO Knokke-Heist debt **€78.1m** BBR **−€1.09m** · Bilzen-Hoeselt prijssub **€3.00m** · Keerbergen city 0% **€6.65m**. Gain is **AFM NEG + dual debt shells + mega utility AGSO** more than FFS reshuffle.
 
@@ -39,8 +41,11 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | — | `lb_owv_sub_snowball_27bn_2083` | **stock-as-ann** | **8.55** | STOCK filtered eoy2083 |
 | — | `lb_vl_gsc_pv_legacy_7_078bn` | **~708 m** class | **8.05** | GSC PV legacy oversubsidy |
 | — | `lb_fed_consultancy_2_5bn_coa` | **~842 m/yr** | **8.00** | CoA 2.525bn/3y |
-| — | `lb_agbmor_afm_neg_0_44m_2025` | **0.44 m** | **~5.9** | **NEW 1220** AGB Mortsel AFM NEG |
-| — | `lb_agbmor_fin_debt_9_57m_2025` | **9.57 m stock** | **~5.9** | **NEW 1220** Mortsel dual debt |
+| — | `lb_agbvv_prijssub_1_91m_2025` | **1.91 m** | **~6.5** | **NEW 1229** AG Vilvoorde prijssub tax shell |
+| — | `lb_agbknr_cum_loss_2_00m_2025` | **2.00 m** | **~6.2** | **NEW 1230** Kinrooi cum loss deepening |
+| — | Hasselt AGB debt class | **~95–103 m stock** | **~high dual** | **1228** MJP+YE2024 risk |
+| — | `lb_agbmor_afm_neg_0_44m_2025` | **0.44 m** | **~5.9** | **1220** AGB Mortsel AFM NEG |
+| — | `lb_agbmor_fin_debt_9_57m_2025` | **9.57 m stock** | **~5.9** | **1220** Mortsel dual debt |
 | — | `lb_agbduf_gecorr_afm_neg_0_37m_2025` | **0.37 m** | **~5.7** | **1219** Duffel gecorr AFM NEG |
 | — | `lb_agbduf_fin_debt_9_00m_2025` | **9.00 m stock** | **~5.9** | **1219** Duffel fin debt |
 | — | AGSO Knokke-Heist class | **78.1 m stock** | **~high dual** | **1217** AGSO debt mega |
@@ -52,7 +57,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 |----|----:|------|
 | `lb_metro3_overrun_477pct` | **9.5** | Metro3 cost +477pct |
 | `lb_vl_wassalon_podcast` | **9.5** | VL gelijke kansen vodcast |
-| `lb_agbmor_afm_neg_0_44m_2025` | **9** | **NEW** Mortsel AFM −0.44m city amort spike |
+| `lb_agbvv_bbr_neg_0_45m_2025` | **8** | **NEW** Vilvoorde BBR NEG + full div strip |
+| `lb_agbknr_cum_loss_2_00m_2025` | **8** | **NEW** Kinrooi cum loss −2.00m + city debt take-over |
+| `lb_agbmor_afm_neg_0_44m_2025` | **9** | Mortsel AFM −0.44m city amort spike |
 | `lb_agbduf_gecorr_afm_neg_0_37m_2025` | **9** | Duffel gecorr AFM DEEP NEG |
 | `lb_agbmal_afm_neg_0_13m_2025` | **9** | Maldegem AFM NEG full div |
 | `lb_agblok_city_loan_16_72m_2025` | **9** | zero-interest 16.72m first-year shell |

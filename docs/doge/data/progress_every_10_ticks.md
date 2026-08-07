@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1230** (2026-08-07)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1221-1230: Putte Privé · Zandhoven · Beersel · Glabbeek · Bexit/Tervuren dual · Boechout · Hasselt Stadsontw (MJP+scan FOI) · **AG Vilvoorde** · **AGB Kinrooi** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1221-1230 is VL residual dual L5 (not near-complete of 348bn):** **AGB Hasselt** debt plan **~95–103m** gecorr AFM plan **−2.40m** · **AGB Bexit** debt **19.2m** · **AG Vilvoorde** debt **8.06m** prijssub **1.91m** BBR **−0.45m** full div · **AGB Kinrooi** cum loss **−2.00m** fin debt **0** city-takeover · Beersel debt **8.36m** · Glabbeek ST due wall · Boechout/Mortsel/Duffel stack retained |
+| **E. FOI-ready gaps** | **~873** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~921** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB dual debt/AFM NEG + leasing/city-loan/erfpacht shells** (**NEW Hasselt ~EUR95–103m** · **Bexit EUR19.2m** · **Vilvoorde EUR8.06m** · **Kinrooi cum loss −EUR2.00m** zero AGB debt via city take-over · Beersel **EUR8.36m** · prior Mortsel/Duffel/AGSO KH/Heist/Zemst/Lokeren/SportAG stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1230)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~32643 |
+| commitments.csv | ~4405 |
+| leaderboard.csv | ~6586 |
+| entities.csv | ~958 |
+| sources.csv | ~2147 |
+| FOI ready | ~873 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~921 |
+| research_queue open | rq_116 deferred + rq_1231 hole-fill after progress |
+
+### What improved since tick 1220
+
+- **VL residual dual JR2025 Entity II (tick1221-1229):** Putte Privé dual path · Zandhoven equity ZERO full div · Beersel gecorr AFM NEG debt **8.36m** · Glabbeek ST due **1.31m** · Bexit/Tervuren dual (AGB debt **19.2m** + city early repay **15.1m**) · Boechout debt **5.93m** · **Hasselt Stadsontwikkeling** MJP debt plan **95m** / YE2024 **103m** (JR scan FOI) · **AG Vilvoorde** BBR **−0.45m** prijssub **1.91m** full div **0.055m** debt **8.06m**.
+- **NEW (tick1230):** **AGB Kinrooi** assets **5.74m** · **cum loss −1.999m DEEPENING** · PnL **−0.069m** · prijssub **~0.235m** (factor shell) · **fin debt 0** (loans overgenomen door gemeente) · BBR **+0.500m** · city toelage dual **0.260m**.
+- **Dual map themes:** **mega patrimonium AGB debt** (Hasselt 95–103m) · **erfpacht shells to 2105** (Vilvoorde Bolwerk) · **cum loss deepening + city debt parking** (Kinrooi) · **tax-driven full profit strip while BBR NEG** (Vilvoorde) · **prijs-factor shells** that still lose.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reportAc stack remains #1-10.
+
+---
 ## Snapshot at **tick 1220** (2026-08-09)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

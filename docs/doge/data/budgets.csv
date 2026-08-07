@@ -32617,3 +32617,28 @@ bud_agbvv_loss_without_prijssub_2025,agb_vilvoorde,2025,1858853,,,bbc_jr_realize
 bud_agbvv_depr_2025,agb_vilvoorde,2025,873905,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Afschrijvingen 0.874m; tick1229
 bud_agbvv_interest_debt_cost_2025,agb_vilvoorde,2025,191247,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,T1 0040 openbare schuld expl 0.191m (interest path); tick1229
 bud_agbvv_gecorr_afloss_base_2025,agb_vilvoorde,2025,670107,,,bbc_jr_realized,src_agb_vilvoorde_jr2025,strong,Gecorrigeerde aflossingen o.b.v. fin debt 0.670m (=8pct prior YE debt); tick1229
+bud_agbknr_assets_2025,agb_kinrooi,2025,5743291,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,J4 balanstotaal 5.743m; tick1230
+bud_agbknr_equity_2025,agb_kinrooi,2025,5690194,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,J4 nettoactief 5.690m; tick1230
+bud_agbknr_cum_loss_2025,agb_kinrooi,2025,-1998640,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,J4/T5 gecumuleerd tekort -1.999m DEEPENING; tick1230
+bud_agbknr_kapitaalsub_2025,agb_kinrooi,2025,337790,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Kapitaalssubsidies 0.338m; tick1230
+bud_agbknr_overig_netto_2025,agb_kinrooi,2025,7351043,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Overig nettoactief 7.351m (= city FVA dual bud_kin_fva_ags); tick1230
+bud_agbknr_cash_2025,agb_kinrooi,2025,143703,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Liquide middelen 0.144m; tick1230
+bud_agbknr_st_recv_2025,agb_kinrooi,2025,408775,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,ST vorderingen 0.409m (non-ruil 0.384m); tick1230
+bud_agbknr_mva_2025,agb_kinrooi,2025,5189562,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,MVA 5.190m (terreinen/gebouwen Stegel+sporthallen); tick1230
+bud_agbknr_debt_total_2025,agb_kinrooi,2025,53097,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Total schulden 0.053m (non-fin ST 0.052m); tick1230
+bud_agbknr_fin_debt_2025,agb_kinrooi,2025,0,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Financiele schulden 0 — loans overgenomen door gemeente (risk note); tick1230
+bud_agbknr_expl_ont_2025,agb_kinrooi,2025,562885,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Exploitatieontvangsten 0.563m; tick1230
+bud_agbknr_expl_uit_2025,agb_kinrooi,2025,391323,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Exploitatieuitgaven 0.391m; tick1230
+bud_agbknr_expl_saldo_2025,agb_kinrooi,2025,171561,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Exploitatiesaldo +0.172m; tick1230
+bud_agbknr_invest_uit_2025,agb_kinrooi,2025,92532,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Investeringsuitgaven 0.093m (sporthallen dak Geistingen etc); tick1230
+bud_agbknr_budget_result_2025,agb_kinrooi,2025,79029,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Budgettair resultaat +0.079m; tick1230
+bud_agbknr_bbr_2025,agb_kinrooi,2025,500465,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,BBR 0.500m (matches city consol bud_kin_agb_bbr); tick1230
+bud_agbknr_afm_2025,agb_kinrooi,2025,171561,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,AFM +0.172m (=expl saldo; no debt amort); tick1230
+bud_agbknr_afm_gecorr_2025,agb_kinrooi,2025,171561,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Gecorr AFM +0.172m (=AFM; zero fin debt); tick1230
+bud_agbknr_pnl_2025,agb_kinrooi,2025,-69073,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,PnL -0.069m NEG carried forward (no div); tick1230
+bud_agbknr_depr_2025,agb_kinrooi,2025,265242,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Afschrijvingen 0.265m; tick1230
+bud_agbknr_goederen_2025,agb_kinrooi,2025,383881,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Goederen en diensten 0.384m; tick1230
+bud_agbknr_prijssub_stegel_2025,agb_kinrooi,2025,72780,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Prijssubsidies Stegel/cultuur actual 0.073m (AR707); tick1230
+bud_agbknr_prijssub_sport_2025,agb_kinrooi,2025,162322,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Prijssubsidies sporthallen actual 0.162m (AR707); tick1230
+bud_agbknr_prijssub_2025,agb_kinrooi,2025,235102,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Prijssubsidies total actual ~0.235m (Stegel+sport); city toelage dual 0.260m; tick1230
+bud_agbknr_omzet_werking_2025,agb_kinrooi,2025,560969,,,bbc_jr_realized,src_agb_kinrooi_jr2025,strong,Opbrengsten uit de werking 0.561m; tick1230
