@@ -32957,3 +32957,43 @@ bud_zl_werking_ontv_2025,zorg_leuven,2025,31032935,,,bbc_jr_realized,src_zorg_le
 bud_zl_repayments_2025,zorg_leuven,2025,877112,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,Periodieke aflossingen 0.877m; tick1241
 bud_zl_costs_2025,zorg_leuven,2025,80133044,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,J5 costs total 80.133m; tick1241
 bud_zl_vte_2025,zorg_leuven,2025,672,,,bbc_jr_realized,src_zorg_leuven_jr2025,strong,VTE bezetting 672 (budget 681); tick1241
+bud_zog_assets_2025,zorg_zog_genk,2025,46357907,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Assets balanstotaal YE2025 46.358m; tick1242
+bud_zog_equity_2025,zorg_zog_genk,2025,12075225,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Nettoactief YE2025 12.075m; tick1242
+bud_zog_cum_loss_2025,zorg_zog_genk,2025,-7056982,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Gecumuleerd tekort YE2025 -7.057m DEEPENING; tick1242
+bud_zog_overig_neg_2025,zorg_zog_genk,2025,-8119804,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Overig nettoactief YE2025 -8.120m NEG; tick1242
+bud_zog_debt_total_2025,zorg_zog_genk,2025,34282682,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Schulden total YE2025 34.283m; tick1242
+bud_zog_fin_debt_2025,zorg_zog_genk,2025,29669361,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Fin schulden total YE2025 29.669m (LT 28.146 + ST due 1.524); tick1242
+bud_zog_fin_debt_lt_2025,zorg_zog_genk,2025,28145694,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Fin schulden LT YE2025 28.146m; tick1242
+bud_zog_fin_debt_st_due_2025,zorg_zog_genk,2025,1523667,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Fin schulden LT vervallend YE2025 1.524m; tick1242
+bud_zog_cash_2025,zorg_zog_genk,2025,1023371,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Liquide middelen YE2025 1.023m DROP (was 1.278m); tick1242
+bud_zog_st_recv_2025,zorg_zog_genk,2025,3608654,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Vorderingen KT total YE2025 3.609m; tick1242
+bud_zog_st_nonruil_recv_2025,zorg_zog_genk,2025,212708,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Vorderingen niet-ruil KT YE2025 0.213m; tick1242
+bud_zog_lt_nonruil_recv_2025,zorg_zog_genk,2025,4283804,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Vorderingen niet-ruil LT YE2025 4.284m; tick1242
+bud_zog_mva_2025,zorg_zog_genk,2025,35538963,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Materiele VA YE2025 35.539m; tick1242
+bud_zog_cap_subs_2025,zorg_zog_genk,2025,27252011,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Kapitaalssubsidies YE2025 27.252m; tick1242
+bud_zog_expl_rec_2025,zorg_zog_genk,2025,29769955,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Exploitatieontvangsten 29.770m; tick1242
+bud_zog_expl_exp_2025,zorg_zog_genk,2025,29882096,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Exploitatieuitgaven 29.882m; tick1242
+bud_zog_expl_saldo_2025,zorg_zog_genk,2025,-112140,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Exploitatiesaldo -0.112m NEG; tick1242
+bud_zog_invest_exp_2025,zorg_zog_genk,2025,517960,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Investeringsuitgaven 0.518m; tick1242
+bud_zog_invest_rec_2025,zorg_zog_genk,2025,1448435,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Investeringsontvangsten 1.448m; tick1242
+bud_zog_invest_saldo_2025,zorg_zog_genk,2025,930474,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Investeringssaldo +0.930m; tick1242
+bud_zog_fin_saldo_2025,zorg_zog_genk,2025,-1496886,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Financieringssaldo -1.497m; tick1242
+bud_zog_budget_result_2025,zorg_zog_genk,2025,-678552,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Budgettair resultaat boekjaar -0.679m NEG; tick1242
+bud_zog_cumul_budget_2025,zorg_zog_genk,2025,33392,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Gecumuleerd budgettair resultaat 0.033m THIN; tick1242
+bud_zog_bbr_2025,zorg_zog_genk,2025,33392,,,bbc_jr_realized,src_zog_genk_jr2025,strong,BBR +0.033m thin; tick1242
+bud_zog_afm_2025,zorg_zog_genk,2025,-241562,,,bbc_jr_realized,src_zog_genk_jr2025,strong,AFM -0.242m NEG; tick1242
+bud_zog_gecorr_afm_2025,zorg_zog_genk,2025,-1177029,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Gecorrigeerde AFM -1.177m DEEP NEG; tick1242
+bud_zog_pnl_2025,zorg_zog_genk,2025,-625301,,,bbc_jr_realized,src_zog_genk_jr2025,strong,PnL tekort -0.625m; tick1242
+bud_zog_personnel_2025,zorg_zog_genk,2025,21347913,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Bezoldigingen 21.348m (J5); tick1242
+bud_zog_goederen_2025,zorg_zog_genk,2025,7339347,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Goederen en diensten 7.339m; tick1242
+bud_zog_sub_total_2025,zorg_zog_genk,2025,5819467,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Werkingssubsidies total 5.819m; tick1242
+bud_zog_sub_alg_2025,zorg_zog_genk,2025,1978435,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Algemene werkingssubsidies 1.978m; tick1242
+bud_zog_ocmw_sub_2025,zorg_zog_genk,2025,1755045,,,bbc_jr_realized,src_zog_genk_jr2025,strong,OCMW dual alg werkingssub 1.755m; tick1242
+bud_zog_sub_spec_2025,zorg_zog_genk,2025,3841031,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Specifieke werkingssubsidies 3.841m; tick1242
+bud_zog_werking_ontv_2025,zorg_zog_genk,2025,22812796,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Opbrengsten uit de werking 22.813m; tick1242
+bud_zog_vipa_invest_sub_2025,zorg_zog_genk,2025,1427935,,,bbc_jr_realized,src_zog_genk_jr2025,strong,VL invest-sub VIPA recurring 1.428m; tick1242
+bud_zog_repayments_2025,zorg_zog_genk,2025,1557356,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Periodieke aflossingen 1.557m; tick1242
+bud_zog_loan_recv_back_2025,zorg_zog_genk,2025,1427935,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Periodieke terugvordering leningen 1.428m; tick1242
+bud_zog_interest_2025,zorg_zog_genk,2025,1029252,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Financiele kosten/rente 1.029m; tick1242
+bud_zog_costs_2025,zorg_zog_genk,2025,31800155,,,bbc_jr_realized,src_zog_genk_jr2025,strong,J5 costs total 31.800m; tick1242
+bud_zog_new_loans_2025,zorg_zog_genk,2025,60470,,,bbc_jr_realized,src_zog_genk_jr2025,strong,Nieuwe leningen/leasings 0.060m; tick1242

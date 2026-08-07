@@ -17239,3 +17239,9 @@ Append-only. Each tick adds a short entry.
 - EUR strong: assets **77.3m**; fin debt **10.5m**; city toelage dual **20.301m**; AFM **-0.094m** NEG (designed clawback); gecorr AFM **-0.130m**; BBR **+6.171m**; cum loss **-30.617m** DEEP; PnL **-3.427m** flip; personnel **57.9m**; cash DROP **2.46m**; pension LT **16.5m**.
 - CSVs: sources/entities/budgets+38/commitments+7/leaderboard+7 + FOI ready `gap_zl_city_toelage_20_3m_afm_neg_0_09m_cum_loss_30_6m_pnl_neg_3_43m_personnel_57_9m_l5` (not sent); rq_1241=done; spawn rq_1242.
 - Next: rq_1242 residual dual L5 VL JR2025 hole_fill.
+
+### Tick 1242 - 2026-08-08 - rq_1242 ZOG Genk dual residual
+- Unit: Zorgbedrijf Ouderenzorg Genk WV JR2025 city dual care Entity II (KBO 0505.849.852; 87p text primary; WZC Toermalien/Mandana).
+- EUR strong: assets **46.4m**; fin debt **29.7m**; AFM **-0.242m** NEG; gecorr AFM **-1.177m** DEEP NEG; cum loss **-7.057m** DEEPENING; overig nettoactief **-8.12m**; PnL **-0.625m**; OCMW dual sub **1.755m**; personnel **21.3m**; BBR thin **0.033m**; VIPA invest-sub **1.428m**.
+- CSVs: sources/entities/budgets+40/commitments+7/leaderboard+7 + FOI ready `gap_zog_afm_neg_0_24m_gecorr_1_18m_cum_loss_7_06m_fin_debt_29_7m_ocmw_sub_1_76m_l5` (not sent); rq_1242=done; spawn rq_1243.
+- Next: rq_1243 residual dual L5 VL JR2025 hole_fill.

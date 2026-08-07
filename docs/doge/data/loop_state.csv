@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T01:10:00Z,rq_1241,1241,no,tick1241 Zorg Leuven dual residual city toelage 20.3m AFM -0.094m cum loss -30.6m PnL -3.43m personnel 57.9m FOI ready; next rq_1242 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T01:25:00Z,rq_1242,1242,no,tick1242 ZOG Genk dual residual fin debt 29.7m AFM -0.24m gecorr -1.18m cum loss -7.06m OCMW sub 1.76m FOI ready; next rq_1243 residual dual L5 VL; continuous hole_fill
