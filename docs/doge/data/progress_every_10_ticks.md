@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 1170** (2026-08-08)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual Entity II 1161-1170: Rumst · Herzele · Zele · Begijnendijk · Bree De Weeg · Steenokkerzeel · Aarschot · **Genk AGB EUR89.0m** leasing/FVA/treasury · **Nazareth-De Pinte AGB EUR5.9m** city-loan shell · prior 1151-1160 stack retained |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1161-1170 is VL residual dual L5 (not near-complete of 348bn):** **Genk AGB** assets **EUR89m** leasing **EUR11.2m** FVA Thor/T2 **EUR15.1m** treasury **EUR1.75m** BBR **−1.45m** gecorr AFM **−0.42m** · **Naz-DP** city loan **EUR4.64m** prijssub **EUR0.62m** cash **EUR0.033m CRITICAL** · Aarschot/Zele debt ~**EUR11m** + gecorr AFM NEG · Bree city renteloos **EUR2m** De Weeg invest · Rumst BBR NEG capital lag · prior Veurne BTW / Zottegem stack retained |
+| **E. FOI-ready gaps** | **~813** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~861** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** (KUL **EUR3.4bn** / Brugge **EUR1.46bn** / **Bilzen-Hoeselt EUR330m** / dual stack retained not full TE) · **AGB dual debt/AFM NEG + city-loan/leasing shells** (Genk **EUR12.9m** debt / **EUR11.2m** leasing / FVA **EUR15.1m** · Naz-DP city loan **EUR4.64m** · Zottegem **EUR11.45m** · Aarschot **EUR11.45m** · Zele **EUR11.2m** · Arendonk **EUR11.1m** · ETIZ **EUR13.0m** / Boom Plus **EUR24.6m** / Bocholt **EUR14.1m** / Zaventem AGB **EUR23.8m**) · **LUWA PPP EUR590m** · **Peer VitaS borg ~EUR43m contingent** · private gambling **EUR31.5bn** market · Moody/S&P ratings (not euros).
+
+### Inventory (tick 1170)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~30938 |
+| commitments.csv | ~4040 |
+| leaderboard.csv | ~6155 |
+| entities.csv | ~895 |
+| sources.csv | ~2082 |
+| FOI ready | ~813 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~861 |
+| research_queue open | rq_116 deferred + rq_1171 hole-fill after progress |
+
+### What improved since tick 1160
+
+- **VL residual dual JR2025 Entity II (tick1161-1168):** Rumst BBR NEG · Herzele equity thin full div · Zele gecorr AFM NEG debt 11.2m · Begijnendijk thin AFM NEG · **Bree** city renteloos **2m** De Weeg invest · Steenokkerzeel full div leasing · Aarschot gecorr AFM NEG debt 11.5m prijssub 1.32m.
+- **Entity II (tick1169-1170):** **AGB Genk** — assets **EUR89m** · leasing MVA **EUR11.2m** · FVA Thor/T2 **EUR15.1m** · treasury **EUR1.75m JUMP** · BBR **−EUR1.45m NEG** · gecorr AFM **−EUR0.42m NEG** · city investsub **EUR4.63m** SportinGenk **EUR5.25m**. **AGB Nazareth-De Pinte** — fusion city-loan shell fin debt **EUR4.64m** renteloos · prijssub **EUR0.62m** · cash **EUR0.033m CRITICAL** · equity thin **0.31m**.
+- **Dual map themes:** **large AGB FVA/leasing shells** (Genk) · **treasury-certificate BBR NEG** · **fusion city-loan + thin cash shells** (Naz-DP) · **gecorr AFM hides thin AFM** · **prijssubsidie + renteloze city debt**.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
+
 ## Snapshot at **tick 1160** (2026-08-07)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

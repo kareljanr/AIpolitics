@@ -30906,3 +30906,34 @@ bud_agbgenk_interest_2025,agb_genk,2025,424852,,,BBC JR2025 primary,src_agb_genk
 bud_agbgenk_depr_2025,agb_genk,2025,2167969,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Afschrijvingen 2.168m; tick1169
 bud_agbgenk_sportingenk_invest_2025,agb_genk,2025,5254381,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,SportinGenk investeringswerken 5.254m; tick1169
 bud_agbgenk_thor_invest_2025,agb_genk,2025,470377,,,BBC JR2025 primary,src_agb_genk_jr2025,strong,Thor Park werkzaamheden 0.470m; tick1169
+bud_agbnazdp_assets_2025,agb_nazareth_depinte,2025,5901884,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Assets balanstotaal YE2025 5.902m; tick1170
+bud_agbnazdp_equity_2025,agb_nazareth_depinte,2025,306763,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Nettoactief YE2025 0.307m THIN vs debt; tick1170
+bud_agbnazdp_cum_pnl_2025,agb_nazareth_depinte,2025,43467,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Gecumuleerd overschot YE2025 0.043m; tick1170
+bud_agbnazdp_cap_subs_2025,agb_nazareth_depinte,2025,238296,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Kapitaalssubsidies YE2025 0.238m; tick1170
+bud_agbnazdp_other_netto_2025,agb_nazareth_depinte,2025,25000,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Overig nettoactief YE2025 0.025m; tick1170
+bud_agbnazdp_debt_total_2025,agb_nazareth_depinte,2025,5595120,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Schulden total YE2025 5.595m; tick1170
+bud_agbnazdp_fin_debt_2025,agb_nazareth_depinte,2025,4642536,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Fin schulden T3 total YE2025 4.643m city renteloos; tick1170
+bud_agbnazdp_fin_debt_lt_2025,agb_nazareth_depinte,2025,4281756,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Fin schulden LT YE2025 4.282m andere leningen; tick1170
+bud_agbnazdp_fin_debt_st_due_2025,agb_nazareth_depinte,2025,360780,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Fin schulden LT vervallend YE2025 0.361m; tick1170
+bud_agbnazdp_cash_2025,agb_nazareth_depinte,2025,32919,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Liquide middelen YE2025 0.033m THIN CRITICAL vs ST due; tick1170
+bud_agbnazdp_mva_2025,agb_nazareth_depinte,2025,4818761,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,MVA YE2025 4.819m; tick1170
+bud_agbnazdp_mva_buildings_2025,agb_nazareth_depinte,2025,4506851,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,MVA terreinen/gebouwen bedrijfsmatig YE2025 4.507m; tick1170
+bud_agbnazdp_st_nonruil_recv_2025,agb_nazareth_depinte,2025,789192,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,ST vorderingen niet-ruil YE2025 0.789m; tick1170
+bud_agbnazdp_expl_rec_2025,agb_nazareth_depinte,2025,1008943,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Exploitatieontvangsten 1.009m; tick1170
+bud_agbnazdp_expl_exp_2025,agb_nazareth_depinte,2025,622241,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Exploitatieuitgaven 0.622m; tick1170
+bud_agbnazdp_expl_saldo_2025,agb_nazareth_depinte,2025,386702,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Exploitatiesaldo +0.387m; tick1170
+bud_agbnazdp_prijssub_2025,agb_nazareth_depinte,2025,622152,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Prijssubsidie gemeente excl BTW 0.622m (incl 0.659m); tick1170
+bud_agbnazdp_retributies_2025,agb_nazareth_depinte,2025,255504,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Ontvangsten retributies 0.256m; tick1170
+bud_agbnazdp_invest_exp_2025,agb_nazareth_depinte,2025,458638,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Investeringsuitgaven 0.459m; tick1170
+bud_agbnazdp_invest_saldo_2025,agb_nazareth_depinte,2025,-458638,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Investeringssaldo -0.459m (no invest receipts); tick1170
+bud_agbnazdp_new_loans_2025,agb_nazareth_depinte,2025,458638,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Nieuwe city leningen 0.459m (= invest); tick1170
+bud_agbnazdp_repay_2025,agb_nazareth_depinte,2025,370107,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Periodieke aflossingen 0.370m; tick1170
+bud_agbnazdp_fin_saldo_2025,agb_nazareth_depinte,2025,88532,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Financieringssaldo +0.089m; tick1170
+bud_agbnazdp_budget_result_2025,agb_nazareth_depinte,2025,16596,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Budgettair resultaat boekjaar +0.017m; tick1170
+bud_agbnazdp_bbr_2025,agb_nazareth_depinte,2025,54707,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Beschikbaar BBR YE2025 0.055m; tick1170
+bud_agbnazdp_afm_2025,agb_nazareth_depinte,2025,16596,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,AFM +0.017m thin equals budget result; tick1170
+bud_agbnazdp_afm_gecorr_2025,agb_nazareth_depinte,2025,22382,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Gecorr AFM +0.022m POS (aangewezen 0.364m); tick1170
+bud_agbnazdp_pnl_2025,agb_nazareth_depinte,2025,7702,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,P&L +0.008m; tick1170
+bud_agbnazdp_dividend_2025,agb_nazareth_depinte,2025,5000,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Dividend to city 0.005m partial of PnL; tick1170
+bud_agbnazdp_interest_2025,agb_nazareth_depinte,2025,3082,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Financiele kosten 0.003m thin (renteloze city loans); tick1170
+bud_agbnazdp_depr_2025,agb_nazareth_depinte,2025,395913,,,BBC JR2025 primary,src_agb_nazareth_depinte_jr2025,strong,Afschrijvingen 0.396m; tick1170

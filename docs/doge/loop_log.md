@@ -16278,3 +16278,21 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1170** residual dual L5; deferred **rq_116**
 - Git: pull blocked by unstaged local noise - continued on local
+
+### Tick 1170 - 2026-08-08T02:30:00Z
+
+- Unit: **rq_1170** (FOI-adjacent residual dual - **AGB Nazareth-De Pinte Jaarrekening 2025** Entity II fusion city-loan shell after city GE)
+- Found (strong primary BBC 172p RVB 22.06.2026; KBO **0643.819.583**; Gemeenteplein 1; AD Steven Van de Velde FD Virginie Meurisse):
+  - Assets **EUR5.902m** / equity **EUR0.307m THIN** / cash **EUR0.033m THIN CRITICAL**
+  - Fin debt T3 **EUR4.643m** 100pct city renteloos (LT 4.282 / ST due **0.361m**); new **0.459m** (= invest); repay **0.370m**
+  - MVA **EUR4.819m** (gebouwen 4.507); ST non-ruil recv **0.789m**
+  - BBR **EUR0.055m** / AFM **+EUR0.017m thin** / gecorr AFM **+EUR0.022m POS**
+  - Expl **EUR1.009m / 0.622m** saldo **+EUR0.387m** / **prijssubsidie EUR0.622m excl BTW**
+  - PnL **+EUR0.008m** / dividend **EUR0.005m**; interest **0.003m** (renteloos)
+- Dual: city Nazareth-De Pinte GE already mined tick874 - AGB dual residual closed for full BBC layer (not TE-additive)
+- Note: Oosterzele / Nijlen / Bornem JR2024 / Schelle GE / Lievegem / Roeselare / Wommelgem / AGB Stabroek / AGB Middelkerke / AGB Brasschaat residual next
+- Wrote: budgets +31 (bud_agbnazdp_*); commitments +6; leaderboard +7; sources +1; entity agb_nazareth_depinte; FOI **gap_agb_nazdp_city_loan_4_6m_prijssub_cash_thin_l5** prio8 ready + draft; PDF primary (not committed ~9.4MB); rq_1170=done; spawn **rq_1171**; ticks=1170
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1171** residual dual L5; deferred **rq_116**
+- Git: pull blocked by unstaged local noise - continued on local
+- Progress: ticks=1170 multiple of 10 - refresh progress + waste top10
