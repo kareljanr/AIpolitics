@@ -15800,3 +15800,15 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1143** residual dual L5; deferred **rq_116**; progress@1150 in 8
 
+
+### Tick 1142 - 2026-08-12T12:30:00Z
+
+- Unit: **rq_1142** (FOI-adjacent residual dual - **AGB Herentals patrimonium Jaarrekening 2025** Entity II after S&R)
+- Found (strong primary BBC JR2025; KBO **0872.383.257**):
+  - Assets **EUR1.978m** / equity **EUR1.813m** / debt total **EUR0.165m** / fin bank debt **EUR0**
+  - Cash **EUR0.060m CRITICAL DROP** (was 0.243m) / capital repay due **EUR0.156m** / lease recv ST **EUR0.152m**
+  - MVA buildings **EUR1.765m** flat / budget **-EUR0.002m** thin
+- Dual: AGB S&R Herentals already mined (tick1141) - not TE-additive
+- Wrote: budgets bud_aghp_*; entity agb_herentals_pat; FOI **gap_aghp_cash_drop_capital_reduce_lease_recv_l5** prio9 ready + draft; rq_1142=done; spawn **rq_1143**; ticks=1142
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1143** residual dual L5; deferred **rq_116**; progress@1150 in 8
