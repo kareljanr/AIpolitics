@@ -33115,3 +33115,43 @@ bud_dod_respo_ontv_2025,zorg_wv_dodoens,2025,1095946,,,bbc_jr_realized,src_wv_do
 bud_dod_repayments_2025,zorg_wv_dodoens,2025,368000,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Periodieke aflossingen 0.368m; tick1245
 bud_dod_costs_2025,zorg_wv_dodoens,2025,4485410,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,J5 costs total 4.485m; tick1245
 bud_dod_oud_gasthuis_sale_plan_2026,zorg_wv_dodoens,2025,1650000,,,bbc_jr_realized,src_wv_dodoens_jr2025,strong,Planned sale Oud Gasthuis 1.650m deferred to 2026; tick1245
+bud_zba_assets_2025,zorgbedrijf_antwerpen,2025,740322468,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Assets balanstotaal YE2025 740.322m; tick1246
+bud_zba_equity_2025,zorgbedrijf_antwerpen,2025,399250961,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Nettoactief YE2025 399.251m; tick1246
+bud_zba_debt_total_2025,zorgbedrijf_antwerpen,2025,341071506,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Schulden total YE2025 341.072m; tick1246
+bud_zba_fin_debt_2025,zorgbedrijf_antwerpen,2025,219931712,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Fin schulden total YE2025 219.932m (LT 206.687 + ST due 13.245); tick1246
+bud_zba_fin_debt_lt_2025,zorgbedrijf_antwerpen,2025,206686798,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Fin schulden LT YE2025 206.687m; tick1246
+bud_zba_fin_debt_st_due_2025,zorgbedrijf_antwerpen,2025,13244914,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Fin schulden LT vervallend YE2025 13.245m; tick1246
+bud_zba_doorgeef_debt_2025,zorgbedrijf_antwerpen,2025,63683934,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Doorgeefleningen residual YE2025 63.684m (city pass-through); tick1246
+bud_zba_wrc_debt_2025,zorgbedrijf_antwerpen,2025,89570296,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,WRC woonrechtcertificaten residual YE2025 89.570m; tick1246
+bud_zba_cash_2025,zorgbedrijf_antwerpen,2025,30530885,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Liquide middelen YE2025 30.531m DROP (was 33.939m); tick1246
+bud_zba_st_recv_2025,zorgbedrijf_antwerpen,2025,30685544,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Vorderingen KT total YE2025 30.686m; tick1246
+bud_zba_st_nonruil_recv_2025,zorgbedrijf_antwerpen,2025,1650859,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Vorderingen niet-ruil KT YE2025 1.651m; tick1246
+bud_zba_mva_2025,zorgbedrijf_antwerpen,2025,656366870,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Materiele VA YE2025 656.367m; tick1246
+bud_zba_cap_subs_2025,zorgbedrijf_antwerpen,2025,221086733,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Kapitaalssubsidies YE2025 221.087m; tick1246
+bud_zba_cum_pnl_2025,zorgbedrijf_antwerpen,2025,13998426,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Gecumuleerd overschot YE2025 14.0m DROP (was 29.7m); tick1246
+bud_zba_expl_rec_2025,zorgbedrijf_antwerpen,2025,331259977,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Exploitatieontvangsten 331.260m; tick1246
+bud_zba_expl_exp_2025,zorgbedrijf_antwerpen,2025,336636270,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Exploitatieuitgaven 336.636m; tick1246
+bud_zba_expl_saldo_2025,zorgbedrijf_antwerpen,2025,-5376292,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Exploitatiesaldo -5.376m NEG; tick1246
+bud_zba_invest_exp_2025,zorgbedrijf_antwerpen,2025,28541516,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Investeringsuitgaven 28.542m; tick1246
+bud_zba_invest_rec_2025,zorgbedrijf_antwerpen,2025,11468687,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Investeringsontvangsten 11.469m; tick1246
+bud_zba_invest_saldo_2025,zorgbedrijf_antwerpen,2025,-17072829,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Investeringssaldo -17.073m; tick1246
+bud_zba_fin_saldo_2025,zorgbedrijf_antwerpen,2025,10153554,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Financieringssaldo +10.154m; tick1246
+bud_zba_budget_result_2025,zorgbedrijf_antwerpen,2025,-12295567,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Budgettair resultaat boekjaar -12.296m NEG; tick1246
+bud_zba_cumul_budget_2025,zorgbedrijf_antwerpen,2025,-5024048,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Gecumuleerd budgettair resultaat -5.024m NEG; tick1246
+bud_zba_bbr_2025,zorgbedrijf_antwerpen,2025,-13262064,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,BBR -13.262m NEG (after onbeschikbaar 8.238m); tick1246
+bud_zba_afm_2025,zorgbedrijf_antwerpen,2025,-18874194,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,AFM -18.874m NEG; tick1246
+bud_zba_gecorr_afm_2025,zorgbedrijf_antwerpen,2025,-22088661,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Gecorrigeerde AFM -22.089m DEEP NEG; tick1246
+bud_zba_pnl_2025,zorgbedrijf_antwerpen,2025,-15692675,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,PnL tekort -15.693m; tick1246
+bud_zba_personnel_2025,zorgbedrijf_antwerpen,2025,243777558,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Bezoldigingen 243.778m; tick1246
+bud_zba_goederen_2025,zorgbedrijf_antwerpen,2025,87011650,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Goederen en diensten 87.012m; tick1246
+bud_zba_sub_total_2025,zorgbedrijf_antwerpen,2025,101940311,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Werkingssubsidies total J5 101.940m; tick1246
+bud_zba_sub_alg_vl_2025,zorgbedrijf_antwerpen,2025,5019391,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Algemene VL werkingssub 5.019m; tick1246
+bud_zba_city_sub_spec_2025,zorgbedrijf_antwerpen,2025,51372119,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,City dual specific werkingssub 51.372m; tick1246
+bud_zba_vl_sub_spec_2025,zorgbedrijf_antwerpen,2025,62879110,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,VL specific werkingssub 62.879m; tick1246
+bud_zba_city_invest_sub_2025,zorgbedrijf_antwerpen,2025,10803642,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,City dual invest-sub 10.804m; tick1246
+bud_zba_werking_ontv_2025,zorgbedrijf_antwerpen,2025,204546438,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Opbrengsten uit de werking 204.546m; tick1246
+bud_zba_new_loans_other_2025,zorgbedrijf_antwerpen,2025,34306003,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Nieuwe leningen other entities 34.306m (city dual); tick1246
+bud_zba_repayments_2025,zorgbedrijf_antwerpen,2025,13584668,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Periodieke aflossingen 13.585m; tick1246
+bud_zba_interest_2025,zorgbedrijf_antwerpen,2025,1660637,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Financiele kosten 1.661m; tick1246
+bud_zba_costs_2025,zorgbedrijf_antwerpen,2025,341912602,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,J5 costs total 341.913m; tick1246
+bud_zba_provisions_other_lt_2025,zorgbedrijf_antwerpen,2025,22194515,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Andere voorzieningen LT YE2025 22.195m; tick1246

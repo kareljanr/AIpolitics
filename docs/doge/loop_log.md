@@ -17263,3 +17263,9 @@ Append-only. Each tick adds a short entry.
 - EUR strong: assets **4.35m**; equity **-18.875m** DEEP NEG; cum loss **-20.270m** DEEP; pension LT **17.311m**; AFM **-0.904m** NEG; gecorr **-0.614m**; BBR **-0.198m** NEG; budget **-0.904m**; city toelage collapse **0.065m** (budget 0.500m); cash **39k** THIN; personnel **3.05m**; respo cash **1.98m**; PnL **-1.832m**.
 - CSVs: sources/entities/budgets+35/commitments+7/leaderboard+7 + FOI ready `gap_dodoens_equity_neg_18_9m_cum_loss_20_3m_pension_17_3m_afm_neg_0_90m_city_sub_0_07m_l5` (not sent); rq_1245=done; spawn rq_1246.
 - Next: rq_1246 residual dual L5 VL JR2025 hole_fill.
+
+### Tick 1246 - 2026-08-08 - rq_1246 Zorgbedrijf Antwerpen dual residual
+- Unit: Zorgbedrijf Antwerpen WV JR2025 mega city dual care Entity II (KBO 0809.699.184; 40p text primary; members OCMW Antwerpen + Ziekenhuis aan de Stroom).
+- EUR strong: assets **740.3m**; fin debt **219.9m** (doorgeef ~63.7 + WRC ~89.6 + bank/overige); AFM **-18.874m** NEG; gecorr AFM **-22.089m** DEEP NEG; BBR **-13.262m** NEG; budget **-12.296m**; city dual sub **51.372m**; city invest-sub **10.804m**; new loans other **34.306m**; personnel **243.8m**; PnL **-15.693m**; cash **30.5m**.
+- CSVs: sources/entities upgrade/budgets+40/commitments+7/leaderboard+7 + FOI ready `gap_zba_afm_neg_18_9m_gecorr_22_1m_bbr_neg_13_3m_fin_debt_220m_city_sub_51m_pnl_neg_15_7m_l5` (not sent); rq_1246=done; spawn rq_1247.
+- Next: rq_1247 residual dual L5 VL JR2025 hole_fill.

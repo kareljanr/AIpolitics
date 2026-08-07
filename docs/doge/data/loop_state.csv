@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T02:10:00Z,rq_1245,1245,no,tick1245 WV Dodoens dual residual equity -18.9m cum loss -20.3m pension 17.3m AFM -0.90m city sub collapse FOI ready; next rq_1246 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T02:25:00Z,rq_1246,1246,no,tick1246 Zorgbedrijf Antwerpen dual residual AFM -18.9m fin debt 220m city sub 51m BBR -13.3m FOI ready; next rq_1247 residual dual L5 VL; continuous hole_fill
