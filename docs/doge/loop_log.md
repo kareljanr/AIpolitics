@@ -16667,3 +16667,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1193** residual dual L5 VL; deferred **rq_116**
 - Git: pull may be blocked by unstaged local noise - continue on local if needed
+
+### Tick 1193 - 2026-08-08T14:00:00Z
+
+- Unit: **rq_1193** (FOI-adjacent residual dual - **AGB Bredene / Staf Versluys Jaarrekening 2025** Entity II after city GE)
+- Found (strong primary BBC 71p RVB 21.05.2026; KBO **0874.963.754**; Kapelstraat 76; FD Alain Lynneel Coördinator Anja Van Eylen):
+  - Assets **EUR4.366m DROP** / equity **EUR0.108m THIN** / cash **EUR0.795m**
+  - Fin debt **EUR3.094m** (LT 2.799 + ST due 0.295); repay **0.299m**; no new loans 2025
+  - **Cum PnL EUR-1.836m DEEP NEG** / overig netto **EUR1.832m** / cap subs **0.112m** / LT provisions **0.224m**
+  - BBR **EUR0.236m** / AFM **+EUR0.104m POS** / gecorr AFM **+EUR0.132m POS**
+  - Expl **EUR2.265m / 1.862m** saldo **+0.403m** / city werksub **EUR0.900m** / staff **0.665m** / goederen **1.165m**
+  - PnL **+EUR0.103m** retained; invest **0.066m**; city investsub **0.030m**
+- Dual: city Bredene GE already mined - AGB event/tourism dual residual closed for full BBC layer (not TE-additive)
+- Wrote: budgets +34 (bud_agbbrd_*); commitments +6; leaderboard +8; sources +1; entity agb_bredene; FOI **gap_agb_bredene_cum_deficit_1_84m_city_sub_0_9m_debt_3_09m_l5** prio9 ready + draft; PDF primary (not committed ~2.8MB); rq_1193=done; spawn **rq_1194**; ticks=1193
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1194** residual dual L5 VL; deferred **rq_116**
+- Git: pull may be blocked by unstaged local noise - continue on local if needed

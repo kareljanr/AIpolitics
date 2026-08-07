@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T13:30:00Z,rq_1192,1192,no,tick1192 AGB CC Diest dual residual assets 1.7m fin debt 0.32m PnL NEG city renteloos+prijs factor FOI; next rq_1193 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T14:00:00Z,rq_1193,1193,no,tick1193 AGB Bredene dual residual assets 4.4m debt 3.1m cum deficit -1.84m city werksub 0.9m FOI; next rq_1194 residual dual L5 VL; rq_116 deferred; continuous hole_fill

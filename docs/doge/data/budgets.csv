@@ -31553,3 +31553,38 @@ bud_agbccdi_dividend_2025,agb_cc_diest,2025,0,,,BBC JR2025 primary,src_agb_cc_di
 bud_agbccdi_goods_2025,agb_cc_diest,2025,896369,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Goederen en diensten 0.896m; tick1192
 bud_agbccdi_staff_2025,agb_cc_diest,2025,0,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Personeel ZERO (via stad); tick1192
 bud_agbccdi_city_werksub_2025,agb_cc_diest,2025,0,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Werkingssubsidies stad ZERO 2025; tick1192
+bud_agbbrd_assets_2025,agb_bredene,2025,4365872,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Assets balanstotaal YE2025 4.366m DROP from 4.507m; tick1193
+bud_agbbrd_equity_2025,agb_bredene,2025,108269,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Nettoactief YE2025 0.108m THIN JUMP from 0.014m; tick1193
+bud_agbbrd_cum_pnl_2025,agb_bredene,2025,-1835696,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Gecumuleerd tekort YE2025 -1.836m DEEP NEG; tick1193
+bud_agbbrd_other_netto_2025,agb_bredene,2025,1831715,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Overig nettoactief YE2025 1.832m; tick1193
+bud_agbbrd_cap_subs_2025,agb_bredene,2025,112251,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Kapitaalssubsidies YE2025 0.112m; tick1193
+bud_agbbrd_debt_total_2025,agb_bredene,2025,4257603,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Schulden total YE2025 4.258m; tick1193
+bud_agbbrd_fin_debt_2025,agb_bredene,2025,3094387,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Fin schulden YE2025 3.094m (LT+ST due); tick1193
+bud_agbbrd_fin_debt_lt_2025,agb_bredene,2025,2798964,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Fin schulden LT YE2025 2.799m DROP; tick1193
+bud_agbbrd_fin_debt_st_due_2025,agb_bredene,2025,295423,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Fin schulden LT vervallend YE2025 0.295m; tick1193
+bud_agbbrd_provisions_lt_2025,agb_bredene,2025,223785,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Voorzieningen LT YE2025 0.224m; tick1193
+bud_agbbrd_cash_2025,agb_bredene,2025,795353,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Liquide middelen YE2025 0.795m; tick1193
+bud_agbbrd_st_recv_2025,agb_bredene,2025,350360,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,ST vorderingen YE2025 0.350m; tick1193
+bud_agbbrd_mva_2025,agb_bredene,2025,3186811,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,MVA gemeenschapsgoederen YE2025 3.187m; tick1193
+bud_agbbrd_mva_buildings_2025,agb_bredene,2025,3049854,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,MVA terreinen/gebouwen YE2025 3.050m; tick1193
+bud_agbbrd_expl_rec_2025,agb_bredene,2025,2265282,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Exploitatieontvangsten 2.265m; tick1193
+bud_agbbrd_expl_exp_2025,agb_bredene,2025,1862154,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Exploitatieuitgaven 1.862m; tick1193
+bud_agbbrd_expl_saldo_2025,agb_bredene,2025,403128,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Exploitatiesaldo +0.403m; tick1193
+bud_agbbrd_werking_rec_2025,agb_bredene,2025,1323143,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Ontvangsten uit de werking 1.323m; tick1193
+bud_agbbrd_city_werksub_2025,agb_bredene,2025,900000,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Algemene werkingssubsidie stad 0.900m JUMP; tick1193
+bud_agbbrd_city_investsub_2025,agb_bredene,2025,30000,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Investeringssubsidies stad 0.030m; tick1193
+bud_agbbrd_invest_exp_2025,agb_bredene,2025,66316,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Investeringsuitgaven 0.066m; tick1193
+bud_agbbrd_invest_saldo_2025,agb_bredene,2025,-36316,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Investeringssaldo -0.036m; tick1193
+bud_agbbrd_repay_2025,agb_bredene,2025,299147,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Periodieke aflossingen 0.299m; tick1193
+bud_agbbrd_new_loans_2025,agb_bredene,2025,0,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Nieuwe leningen 0; tick1193
+bud_agbbrd_fin_saldo_2025,agb_bredene,2025,-299147,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Financieringssaldo -0.299m; tick1193
+bud_agbbrd_budget_result_2025,agb_bredene,2025,67664,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Budgettair resultaat boekjaar +0.068m; tick1193
+bud_agbbrd_bbr_2025,agb_bredene,2025,235506,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Beschikbaar BBR YE2025 0.236m; tick1193
+bud_agbbrd_afm_2025,agb_bredene,2025,103981,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,AFM +0.104m POS; tick1193
+bud_agbbrd_afm_gecorr_2025,agb_bredene,2025,131645,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Gecorr AFM +0.132m POS; tick1193
+bud_agbbrd_pnl_2025,agb_bredene,2025,103038,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,P&L +0.103m retained; tick1193
+bud_agbbrd_dividend_2025,agb_bredene,2025,0,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Dividend/rechthebbenden 0; tick1193
+bud_agbbrd_staff_2025,agb_bredene,2025,665400,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Personeel 0.665m JUMP; tick1193
+bud_agbbrd_goods_2025,agb_bredene,2025,1165029,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Goederen en diensten 1.165m; tick1193
+bud_agbbrd_fin_cost_2025,agb_bredene,2025,16867,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Financiele kosten 0.017m; tick1193
+bud_agbbrd_fin_income_2025,agb_bredene,2025,38515,,,BBC JR2025 primary,src_agb_bredene_jr2025,strong,Financiele opbrengsten 0.039m; tick1193
