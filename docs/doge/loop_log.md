@@ -16765,3 +16765,21 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1199** residual dual L5 VL; deferred **rq_116**
 - Git: pull may be blocked by unstaged local noise - continue on local if needed
+
+### Tick 1199 - 2026-08-08T17:00:00Z
+
+- Unit: **rq_1199** (FOI-adjacent residual dual - **WAGSO Waregem Jaarrekening 2025** Entity II stadsontwikkeling after city GE)
+- Found (strong primary BBC 115p; KBO **0809.449.360**; Gemeenteplein 2; Voorzitter Kim Deplancke Ondervoorzitter Rik Soens; RVB 26.05.2026 GR 02.06.2026):
+  - Assets **EUR12.363m DROP** / equity **EUR8.828m** / cash **EUR1.326m JUMP** (from 0.329)
+  - Fin debt **EUR2.344m DROP** (LT 2.119 + ST due 0.225); early repay **0.760m** + periodic **0.290m**; **no new loans**
+  - Inventory **EUR0.804m DROP** (from 1.324); MVA buildings **EUR9.500m** (Het Pand class)
+  - BBR **EUR0.399m** / AFM **+EUR1.262m POS** / gecorr AFM **+EUR1.280m POS**
+  - Expl **EUR2.922m / 1.371m** saldo **+1.552m** / invest only **0.055m** / city werksub **~EUR0.002m**
+  - PnL **+EUR0.587m retained** / staff **0.163m** / goederen **1.494m** / omzet **2.912m**
+  - Note: Spoorweglaan straight loan fully repaid 2025; inkanteling reorg planned into city
+- Dual: city Waregem GE already mined - WAGSO dual residual closed for full BBC layer (not TE-additive)
+- Wrote: budgets +34 (bud_wagso_*); commitments +6; leaderboard +7; sources +1; entity wagso_waregem; FOI **gap_wagso_waregem_early_repay_0_76m_inventory_drop_inkanteling_l5** prio8 ready + draft; PDF primary (not committed ~3.6MB); rq_1199=done; spawn **rq_1200**; ticks=1199
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1200** residual dual L5 VL; deferred **rq_116**
+- Git: stash/pull may thrash with local noise - continue on local if needed
+

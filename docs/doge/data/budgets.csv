@@ -31752,3 +31752,37 @@ bud_agbgb_pnl_2025,agb_geraardsbergen,2025,363732,,,BBC JR2025 primary,src_agb_g
 bud_agbgb_dividend_2025,agb_geraardsbergen,2025,290986,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Dividend to city 0.291m ~80pct of profit; tick1198
 bud_agbgb_staff_2025,agb_geraardsbergen,2025,0,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Bezoldigingen 0 zero staff on AGB books; tick1198
 bud_agbgb_goods_2025,agb_geraardsbergen,2025,913687,,,BBC JR2025 primary,src_agb_geraardsbergen_jr2025,strong,Goederen en diensten J5 0.914m; tick1198
+bud_wagso_assets_2025,wagso_waregem,2025,12363302,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J4 balanstotaal assets YE2025 12.363m DROP from 12.609m; tick1199
+bud_wagso_equity_2025,wagso_waregem,2025,8828185,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J4 nettoactief / equity 8.828m; tick1199
+bud_wagso_debt_total_2025,wagso_waregem,2025,3535117,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J4 schulden total 3.535m; tick1199
+bud_wagso_fin_debt_2025,wagso_waregem,2025,2343750,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,T4 total fin debt 2.344m (LT 2.119 + ST due 0.225); tick1199
+bud_wagso_fin_debt_lt_2025,wagso_waregem,2025,2118750,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J4/T4 fin debt LT 2.119m DROP from 3.104m; tick1199
+bud_wagso_fin_debt_st_due_2025,wagso_waregem,2025,225000,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J4/T4 ST due within year 0.225m; tick1199
+bud_wagso_cash_2025,wagso_waregem,2025,1325527,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J4 liquide middelen 1.326m JUMP from 0.329m; tick1199
+bud_wagso_inventory_2025,wagso_waregem,2025,804065,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J4 voorraden 0.804m DROP from 1.324m; tick1199
+bud_wagso_mva_2025,wagso_waregem,2025,9958602,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J4 MVA 9.959m; tick1199
+bud_wagso_mva_buildings_2025,wagso_waregem,2025,9500398,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J4 terreinen en gebouwen 9.500m; tick1199
+bud_wagso_st_recv_2025,wagso_waregem,2025,262699,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J4 ST vorderingen 0.263m; tick1199
+bud_wagso_cum_pnl_neg_2025,wagso_waregem,2025,804488,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J4 gecumuleerd tekort 0.804m (improving from 1.391m); tick1199
+bud_wagso_expl_rec_2025,wagso_waregem,2025,2922314,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J2 expl ontvangsten 2.922m; tick1199
+bud_wagso_expl_exp_2025,wagso_waregem,2025,1370609,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J2 expl uitgaven 1.371m; tick1199
+bud_wagso_expl_saldo_2025,wagso_waregem,2025,1551705,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J2 exploitatiesaldo +1.552m; tick1199
+bud_wagso_invest_exp_2025,wagso_waregem,2025,55370,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J2 invest uitgaven 0.055m low; tick1199
+bud_wagso_invest_saldo_2025,wagso_waregem,2025,55370,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J2 invest saldo -0.055m (absolute); tick1199
+bud_wagso_fin_exp_2025,wagso_waregem,2025,1050000,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J2 financiering uitgaven 1.050m (early 0.76 + periodic 0.29); tick1199
+bud_wagso_fin_rec_2025,wagso_waregem,2025,0,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J2 fin ontvangsten 0 no new loans; tick1199
+bud_wagso_new_loans_2025,wagso_waregem,2025,0,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,T4 nieuwe leningen 0; tick1199
+bud_wagso_early_repay_2025,wagso_waregem,2025,760000,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,T4 extra aflossingen LT 0.760m (Spoorweglaan straight loan full repay path); tick1199
+bud_wagso_periodic_repay_2025,wagso_waregem,2025,290000,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,T4/J2 periodieke aflossingen 0.290m; tick1199
+bud_wagso_budget_result_2025,wagso_waregem,2025,446335,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J2 budgettair resultaat +0.446m; tick1199
+bud_wagso_bbr_2025,wagso_waregem,2025,399199,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J2 BBR 0.399m; tick1199
+bud_wagso_afm_2025,wagso_waregem,2025,1261705,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J2 AFM +1.262m POS; tick1199
+bud_wagso_afm_gecorr_2025,wagso_waregem,2025,1280205,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J2 gecorr AFM +1.280m POS; tick1199
+bud_wagso_pnl_2025,wagso_waregem,2025,586506,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J5 overschot 0.587m retained (no div stated); tick1199
+bud_wagso_staff_2025,wagso_waregem,2025,163226,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J5 bezoldigingen 0.163m; tick1199
+bud_wagso_goederen_2025,wagso_waregem,2025,1493758,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J5 goederen en diensten 1.494m; tick1199
+bud_wagso_omzet_werking_2025,wagso_waregem,2025,2912249,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J5 opbrengsten uit de werking 2.912m; tick1199
+bud_wagso_werkingsub_2025,wagso_waregem,2025,2432,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J5 werkingssubsidies only 0.002m near zero city ops sub; tick1199
+bud_wagso_interest_2025,wagso_waregem,2025,46276,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J5 financiele kosten 0.046m; tick1199
+bud_wagso_depr_2025,wagso_waregem,2025,440996,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J5 afschrijvingen 0.441m; tick1199
+bud_wagso_other_nettoactief_2025,wagso_waregem,2025,9632673,,,BBC JR2025 primary,src_wagso_waregem_jr2025,strong,J4 overig nettoactief 9.633m (cap/reserves class); tick1199
