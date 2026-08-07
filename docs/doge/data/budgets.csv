@@ -33039,3 +33039,44 @@ bud_zs_interest_other_entities_2025,zorg_stekene,2025,131767,,,bbc_jr_realized,s
 bud_zs_meal_cheque_corr_2025,zorg_stekene,2025,946023,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,Maaltijdcheque boekhoudcorrectie 2021-25 total 0.946m; tick1243
 bud_zs_meal_cheque_credit_2025,zorg_stekene,2025,535671,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,MC correctie credit impact 2025 0.536m; tick1243
 bud_zs_costs_2025,zorg_stekene,2025,14314671,,,bbc_jr_realized,src_zorg_stekene_jr2025,strong,J5 costs total 14.315m; tick1243
+bud_orion_assets_2025,zorggroep_orion,2025,77308701,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Assets balanstotaal YE2025 77.309m; tick1244
+bud_orion_equity_2025,zorggroep_orion,2025,58739033,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Nettoactief YE2025 58.739m; tick1244
+bud_orion_cum_loss_2025,zorggroep_orion,2025,-4434604,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Gecumuleerd tekort YE2025 -4.435m; tick1244
+bud_orion_debt_total_2025,zorggroep_orion,2025,18569668,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Schulden total YE2025 18.570m; tick1244
+bud_orion_fin_debt_2025,zorggroep_orion,2025,15657123,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Fin schulden total YE2025 15.657m (LT 14.337 + ST due 1.321); tick1244
+bud_orion_fin_debt_lt_2025,zorggroep_orion,2025,14336588,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Fin schulden LT YE2025 14.337m; tick1244
+bud_orion_fin_debt_st_due_2025,zorggroep_orion,2025,1320535,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Fin schulden LT vervallend YE2025 1.321m; tick1244
+bud_orion_cash_2025,zorggroep_orion,2025,7009109,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Liquide middelen YE2025 7.009m DROP (was 9.043m); tick1244
+bud_orion_st_recv_2025,zorggroep_orion,2025,2572991,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Vorderingen KT total YE2025 2.573m; tick1244
+bud_orion_st_nonruil_recv_2025,zorggroep_orion,2025,378243,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Vorderingen niet-ruil KT YE2025 0.378m; tick1244
+bud_orion_lt_nonruil_recv_2025,zorggroep_orion,2025,2579434,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Vorderingen niet-ruil LT YE2025 2.579m; tick1244
+bud_orion_mva_2025,zorggroep_orion,2025,63119665,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Materiele VA YE2025 63.120m; tick1244
+bud_orion_leasing_mva_2025,zorggroep_orion,2025,11409322,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Leasing MVA gemeenschapsgoederen YE2025 11.409m; tick1244
+bud_orion_cap_subs_2025,zorggroep_orion,2025,15874417,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Kapitaalssubsidies YE2025 15.874m; tick1244
+bud_orion_expl_rec_2025,zorggroep_orion,2025,20872141,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Exploitatieontvangsten 20.872m; tick1244
+bud_orion_expl_exp_2025,zorggroep_orion,2025,19321230,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Exploitatieuitgaven 19.321m; tick1244
+bud_orion_expl_saldo_2025,zorggroep_orion,2025,1550910,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Exploitatiesaldo +1.551m; tick1244
+bud_orion_invest_exp_2025,zorggroep_orion,2025,989567,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Investeringsuitgaven 0.990m; tick1244
+bud_orion_invest_rec_2025,zorggroep_orion,2025,1130702,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Investeringsontvangsten 1.131m; tick1244
+bud_orion_invest_saldo_2025,zorggroep_orion,2025,141135,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Investeringssaldo +0.141m; tick1244
+bud_orion_fin_saldo_2025,zorggroep_orion,2025,-3251861,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Financieringssaldo -3.252m; tick1244
+bud_orion_budget_result_2025,zorggroep_orion,2025,-1559816,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Budgettair resultaat boekjaar -1.560m NEG; tick1244
+bud_orion_cumul_budget_2025,zorggroep_orion,2025,8058349,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Gecumuleerd budgettair resultaat 8.058m; tick1244
+bud_orion_bbr_2025,zorggroep_orion,2025,8058349,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,BBR +8.058m; tick1244
+bud_orion_afm_2025,zorggroep_orion,2025,-640112,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,AFM -0.640m NEG; tick1244
+bud_orion_gecorr_afm_2025,zorggroep_orion,2025,826729,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Gecorrigeerde AFM +0.827m; tick1244
+bud_orion_pnl_2025,zorggroep_orion,2025,95312,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,PnL overschot +0.095m (was -0.021m); tick1244
+bud_orion_personnel_2025,zorggroep_orion,2025,12997116,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Bezoldigingen 12.997m (+17pct YoY); tick1244
+bud_orion_goederen_2025,zorggroep_orion,2025,5890060,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Goederen en diensten 5.890m; tick1244
+bud_orion_sub_total_2025,zorggroep_orion,2025,5207685,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Werkingssubsidies total 5.208m; tick1244
+bud_orion_sub_alg_2025,zorggroep_orion,2025,2094493,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Algemene werkingssubsidies 2.094m; tick1244
+bud_orion_ocmw_sub_2025,zorggroep_orion,2025,1729518,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,OCMW dual alg werkingssub 1.730m; tick1244
+bud_orion_city_sub_2025,zorggroep_orion,2025,364975,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,City dual alg werkingssub 0.365m; tick1244
+bud_orion_sub_spec_2025,zorggroep_orion,2025,3113193,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Specifieke werkingssubsidies 3.113m; tick1244
+bud_orion_werking_ontv_2025,zorggroep_orion,2025,15476005,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Opbrengsten uit de werking 15.476m; tick1244
+bud_orion_repayments_2025,zorggroep_orion,2025,2955881,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Periodieke aflossingen 2.956m; tick1244
+bud_orion_loan_recv_back_2025,zorggroep_orion,2025,764859,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Periodieke terugvordering leningen 0.765m; tick1244
+bud_orion_interest_2025,zorggroep_orion,2025,358862,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Intresten op leningen 0.359m; tick1244
+bud_orion_interest_other_2025,zorggroep_orion,2025,109291,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Intresten aan andere entiteiten 0.109m; tick1244
+bud_orion_costs_2025,zorggroep_orion,2025,21512963,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,J5 costs total 21.513m; tick1244
+bud_orion_fin_ontv_2025,zorggroep_orion,2025,122580,,,bbc_jr_realized,src_zorggroep_orion_jr2025,strong,Financieringsontvangsten 0.123m; tick1244

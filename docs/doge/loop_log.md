@@ -17251,3 +17251,9 @@ Append-only. Each tick adds a short entry.
 - EUR strong: assets **30.0m**; fin debt **14.5m**; city toelage dual **2.109m**; cum loss **-3.434m**; AFM **+1.359m**; gecorr AFM **+0.480m**; BBR **+3.095m**; PnL flip **+0.389m** (was -3.09m); personnel **10.7m**; meal-cheque corr **0.946m** (2025 credit **0.536m**); VL invest-sub **0.669m**.
 - CSVs: sources/entities/budgets+42/commitments+7/leaderboard+7 + FOI ready `gap_zs_city_toelage_2_11m_cum_loss_3_43m_fin_debt_14_5m_meal_cheque_corr_0_95m_l5` (not sent); rq_1243=done; spawn rq_1244.
 - Next: rq_1244 residual dual L5 VL JR2025 hole_fill.
+
+### Tick 1244 - 2026-08-08 - rq_1244 Zorggroep Orion dual residual
+- Unit: Zorggroep Orion WV JR2025 multi-muni zorg Entity II (KBO 0665.553.622; 138p text primary; Turnhout seat).
+- EUR strong: assets **77.3m**; fin debt **15.7m**; leasing MVA **11.4m**; AFM **-0.640m** NEG; gecorr AFM **+0.827m**; cum loss **-4.435m**; budget **-1.560m**; BBR **+8.058m**; OCMW dual sub **1.730m**; city dual **0.365m**; personnel **13.0m** (+17%); cash DROP **7.0m**.
+- CSVs: sources/entities/budgets+41/commitments+7/leaderboard+7 + FOI ready `gap_orion_afm_neg_0_64m_fin_debt_15_7m_cum_loss_4_43m_ocmw_sub_1_73m_city_0_37m_l5` (not sent); rq_1244=done; spawn rq_1245.
+- Next: rq_1245 residual dual L5 VL JR2025 hole_fill.

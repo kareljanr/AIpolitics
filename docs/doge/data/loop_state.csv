@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T01:40:00Z,rq_1243,1243,no,tick1243 Zorg Stekene dual residual city toelage 2.11m fin debt 14.5m cum loss -3.43m meal-cheque corr 0.95m FOI ready; next rq_1244 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T01:55:00Z,rq_1244,1244,no,tick1244 Zorggroep Orion dual residual fin debt 15.7m AFM -0.64m cum loss -4.43m OCMW sub 1.73m FOI ready; next rq_1245 residual dual L5 VL; continuous hole_fill
