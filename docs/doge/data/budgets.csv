@@ -32345,3 +32345,25 @@ bud_agsokh_heulebrug_sale_2025,agso_knokke_heist,2025,3209250,,,BBC JR2025 prima
 bud_agsokh_afval_city_2025,agso_knokke_heist,2025,4015699,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Afval city charge/facturatie 4.016m dual; tick1217
 bud_agsokh_dierenasiel_sub_2025,agso_knokke_heist,2025,3806183,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Investeringssubsidie dierenasiel 3.806m; tick1217
 bud_agsokh_vpb_2025,agso_knokke_heist,2025,365347,,,BBC JR2025 primary,src_agso_knokke_heist_jr2025,strong,Vennootschapsbelasting 0.365m; tick1217
+bud_agbmal_expl_ont_2025,agb_maldegem,2025,1247270,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Exploitatieontvangsten 1.247m; tick1218
+bud_agbmal_expl_uit_2025,agb_maldegem,2025,897748,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Exploitatieuitgaven 0.898m; tick1218
+bud_agbmal_expl_saldo_2025,agb_maldegem,2025,349523,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Exploitatiesaldo +0.350m; tick1218
+bud_agbmal_invest_uit_2025,agb_maldegem,2025,339988,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Investeringsuitgaven 0.340m; tick1218
+bud_agbmal_invest_saldo_2025,agb_maldegem,2025,-339988,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Investeringssaldo -0.340m; tick1218
+bud_agbmal_fin_ont_2025,agb_maldegem,2025,100000,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Financieringsontvangsten 0.100m new loan path; tick1218
+bud_agbmal_fin_uit_2025,agb_maldegem,2025,475895,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Periodieke aflossingen 0.476m; tick1218
+bud_agbmal_fin_saldo_2025,agb_maldegem,2025,-375895,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Financieringssaldo -0.376m; tick1218
+bud_agbmal_budget_2025,agb_maldegem,2025,-366361,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Budgettair resultaat -0.366m NEG; tick1218
+bud_agbmal_bbr_2025,agb_maldegem,2025,129989,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,BBR +0.130m (POS but thin vs debt); tick1218
+bud_agbmal_afm_2025,agb_maldegem,2025,-126372,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,AFM -0.126m NEG CRITICAL; tick1218
+bud_agbmal_afm_gecorr_2025,agb_maldegem,2025,-175757,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Gecorr AFM -0.176m DEEP NEG CRITICAL; tick1218
+bud_agbmal_assets_2025,agb_maldegem,2025,6610898,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Assets balanstotaal YE2025 6.611m; tick1218
+bud_agbmal_cash_2025,agb_maldegem,2025,238703,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Liquide middelen YE2025 0.239m DROP from 0.408m; tick1218
+bud_agbmal_mva_2025,agb_maldegem,2025,4567565,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,MVA gemeenschapsgoederen 4.568m; tick1218
+bud_agbmal_equity_2025,agb_maldegem,2025,184410,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Nettoactief YE2025 0.184m THIN; tick1218
+bud_agbmal_cum_pnl_2025,agb_maldegem,2025,36586,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Gecumuleerd overschot 0.037m flat YoY; tick1218
+bud_agbmal_fin_debt_2025,agb_maldegem,2025,6190103,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Fin schulden total 6.190m (LT 5.708 + ST due 0.483); tick1218
+bud_agbmal_fin_debt_lt_2025,agb_maldegem,2025,5707541,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Fin schulden LT 5.708m; tick1218
+bud_agbmal_fin_debt_st_due_2025,agb_maldegem,2025,482562,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Fin schulden LT binnen jaar 0.483m; tick1218
+bud_agbmal_div_2025,agb_maldegem,2025,108266,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Dividend city 0.108m full profit strip; tick1218
+bud_agbmal_overlopend_2025,agb_maldegem,2025,1619568,,,BBC JR2025 primary portal,src_agb_maldegem_jr2025,strong,Overlopend actief 1.620m FOI residual; tick1218

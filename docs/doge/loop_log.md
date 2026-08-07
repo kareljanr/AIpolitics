@@ -17048,3 +17048,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +30; commitments +8; leaderboard +8; sources +1; entity **agso_knokke_heist**; FOI **gap_agso_kh_bbr_neg_1_09m_fin_debt_78_1m_city_renteloos_werksub_l5** prio9 ready + draft; rq_1217=done; spawn **rq_1218**; ticks=1217
 - Note: AGOST already complete tick1156 (skipped re-mine); PDF primary not committed (~7.7MB)
 - Next: prio5 **rq_1218** residual dual L5 VL; deferred **rq_116**
+
+## Tick 1218 — 2026-08-09T02:30:00Z — rq_1218 AGB Maldegem dual residual JR2025
+
+- Unit: **rq_1218** (residual dual L5 VL — **AGB Maldegem portal BBC JR2025** after city GE tick1058)
+- Primary: https://maldegem.beleidsportaal.be/jaarrekening-2025-agb (J2/J4 image tables OCR strong)
+- Key € (strong): **AFM −0.126m NEG** · **gecorr AFM −0.176m DEEP NEG** · budget **−0.366m** · BBR **+0.130m** · **fin debt 6.190m** · equity **thin 0.184m** · cash **0.239m DROP** · assets **6.611m** · **div 0.108m full strip** · expl **+0.350m**
+- Wrote: budgets +22; commitments +7; leaderboard +7; sources +1; entity **agb_maldegem**; FOI **gap_agb_mal_afm_neg_0_13m_gecorr_0_18m_debt_6_19m_div_0_11m_equity_thin_l5** prio9 ready + draft; rq_1218=done; spawn **rq_1219**; ticks=1218
+- Next: prio5 **rq_1219** residual dual L5 VL (Duffel AGB / Putte Privé / next PDF); deferred **rq_116**
