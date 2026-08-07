@@ -17025,3 +17025,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: budgets +27; commitments +6; leaderboard +7; sources +1; entity agb_beleko_bertem; FOI **gap_agb_beleko_debt_4_54m_prijssub_0_10m_afm_bbr_neg_pnl_neg_l5** prio9 ready + draft; rq_1215=done; spawn **rq_1216**; ticks=1215
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1216** residual dual L5 VL; deferred **rq_116**
+
+
+### Tick 1216 - 2026-08-09T01:30:00Z
+
+- Unit: **rq_1216** (FOI-adjacent residual dual - **AGB Stadsontwikkeling Bilzen-Hoeselt full BBC JR2025** upgrade from FOI-only tick1149)
+- Found (strong primary full BBC 114p; KBO **0888.873.653**; Deken Paquayplein 1; Voorzitter Guy Sillen Secr Sibel Yildiz FD Luc Moors):
+  - Assets **EUR40.631m** / equity **EUR11.284m** (cum P&L only **0.006m**; overig netto **8.292m**) / cash **EUR0.652m**
+  - Fin debt **EUR10.014m** (leasing **5.818m** + bank **3.889m** + other); ST non-ruil recv **EUR17.648m** / ST non-ruil debt **EUR17.110m**
+  - Expl **EUR4.926 / 3.689m** saldo **+1.237m** / BBR **0.120m** / AFM **+0.885m** / gecorr AFM **+0.408m**
+  - PnL **EUR+0.516m** = full div / prijssub **EUR3.005m MASSIVE** / invest **1.172m** (Zonhoeve **0.873m**) / pool provisie **0.230m** / new loans **0**
+- Dual: city fusion GE already mined - AGB full BBC layer closed
+- Wrote: budgets +40; commitments +7; leaderboard +7; sources +1; entity agb_bilzen_hoeselt notes upgrade; FOI **gap_agb_bh_prijssub_3_00m_st_nonruil_17_6m_leasing_5_82m_full_div_0_52m_l5** prio9 ready + draft; rq_1216=done; spawn **rq_1217**; ticks=1216
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1217** residual dual L5 VL; deferred **rq_116**

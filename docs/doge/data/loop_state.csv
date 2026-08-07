@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-09T01:00:00Z,rq_1215,1215,no,tick1215 AGB Beleko Bertem dual residual debt 4.54m prijssub 0.10m AFM/BBR/PnL NEG cash 8k FOI; next rq_1216 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-09T01:30:00Z,rq_1216,1216,no,tick1216 AGB Bilzen-Hoeselt full BBC upgrade prijssub 3.0m ST non-ruil 17.6m debt 10.0m full div FOI; next rq_1217 residual dual L5 VL; rq_116 deferred; continuous hole_fill

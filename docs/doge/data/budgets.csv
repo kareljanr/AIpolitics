@@ -32274,3 +32274,43 @@ bud_agbbl_fin_result_2025,agb_beleko_bertem,2025,-4623,,,bbc_jr_realized,src_agb
 bud_agbbl_div_2025,agb_beleko_bertem,2025,0,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Dividend 0 (no uitkering); tick1215
 bud_agbbl_fin_rec_2025,agb_beleko_bertem,2025,19322,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Financieringsontvangsten 0.019m; tick1215
 bud_agbbl_fin_exp_2025,agb_beleko_bertem,2025,46674,,,bbc_jr_realized,src_agb_beleko_bertem_jr2025,strong,Financieringsuitgaven 0.047m; tick1215
+bud_agbbh_assets_2025,agb_bilzen_hoeselt,2025,40630870,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Total assets YE2025 40.631m first full fusion year; tick1216
+bud_agbbh_equity_2025,agb_bilzen_hoeselt,2025,11284325,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Nettoactief YE2025 11.284m (cum P&L only 0.006m; overig 8.292m); tick1216
+bud_agbbh_debt_total_2025,agb_bilzen_hoeselt,2025,29346545,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Total schulden YE2025 29.347m; tick1216
+bud_agbbh_fin_debt_2025,agb_bilzen_hoeselt,2025,10014172,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Fin debt total YE2025 10.014m (T3); tick1216
+bud_agbbh_fin_debt_lt_2025,agb_bilzen_hoeselt,2025,9654853,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Fin schulden LT YE2025 9.655m; tick1216
+bud_agbbh_fin_debt_st_due_2025,agb_bilzen_hoeselt,2025,359319,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,LT due within year YE2025 0.359m; tick1216
+bud_agbbh_leasing_fin_2025,agb_bilzen_hoeselt,2025,5818071,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Leasing debt YE2025 ~5.818m (LT 5.751 + ST due 0.067); tick1216
+bud_agbbh_bank_debt_2025,agb_bilzen_hoeselt,2025,3888555,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Bank debt YE2025 ~3.889m (LT 3.626 + ST due 0.263); tick1216
+bud_agbbh_cash_2025,agb_bilzen_hoeselt,2025,651943,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Liquide middelen YE2025 0.652m; tick1216
+bud_agbbh_st_recv_2025,agb_bilzen_hoeselt,2025,17894868,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,ST vorderingen YE2025 17.895m; tick1216
+bud_agbbh_st_recv_nonruil_2025,agb_bilzen_hoeselt,2025,17647746,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,ST non-ruil recv 17.648m MASSIVE FOI dual city; tick1216
+bud_agbbh_st_debt_nonruil_2025,agb_bilzen_hoeselt,2025,17110083,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,ST non-ruil debt 17.110m MASSIVE FOI dual city; tick1216
+bud_agbbh_mva_2025,agb_bilzen_hoeselt,2025,21030707,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Materiele vaste activa YE2025 21.031m; tick1216
+bud_agbbh_leasing_mva_2025,agb_bilzen_hoeselt,2025,5876168,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Leasing MVA YE2025 5.876m; tick1216
+bud_agbbh_buildings_2025,agb_bilzen_hoeselt,2025,13801220,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Terreinen en gebouwen 13.801m; tick1216
+bud_agbbh_fva_2025,agb_bilzen_hoeselt,2025,1027150,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Financiele vaste activa 1.027m; tick1216
+bud_agbbh_cap_subs_2025,agb_bilzen_hoeselt,2025,2985956,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Kapitaalsubsidies 2.986m; tick1216
+bud_agbbh_cum_pl_2025,agb_bilzen_hoeselt,2025,5899,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Gecumuleerd overschot only 0.006m thin; tick1216
+bud_agbbh_overig_netto_2025,agb_bilzen_hoeselt,2025,8292435,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Overig nettoactief 8.292m MASSIVE FOI composition; tick1216
+bud_agbbh_expl_rec_2025,agb_bilzen_hoeselt,2025,4926453,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Exploitatieontvangsten 4.926m; tick1216
+bud_agbbh_expl_exp_2025,agb_bilzen_hoeselt,2025,3689301,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Exploitatieuitgaven 3.689m; tick1216
+bud_agbbh_expl_saldo_2025,agb_bilzen_hoeselt,2025,1237152,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Exploitatiesaldo +1.237m; tick1216
+bud_agbbh_invest_exp_2025,agb_bilzen_hoeselt,2025,1172188,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Investeringsuitgaven 1.172m (Zonhoeve 0.873m); tick1216
+bud_agbbh_invest_rec_2025,agb_bilzen_hoeselt,2025,239500,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Investeringsontvangsten 0.240m (toegankelijkheid); tick1216
+bud_agbbh_fin_exp_repay_2025,agb_bilzen_hoeselt,2025,351680,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Periodieke aflossingen 0.352m; tick1216
+bud_agbbh_fin_rec_new_loans_2025,agb_bilzen_hoeselt,2025,0,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Nieuwe leningen 0 (no new 2025); tick1216
+bud_agbbh_budget_result_2025,agb_bilzen_hoeselt,2025,-47217,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Budgettair resultaat -0.047m NEG; tick1216
+bud_agbbh_bbr_2025,agb_bilzen_hoeselt,2025,119538,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,BBR 0.120m; tick1216
+bud_agbbh_afm_2025,agb_bilzen_hoeselt,2025,885472,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,AFM +0.885m POS strong; tick1216
+bud_agbbh_gecorr_afm_2025,agb_bilzen_hoeselt,2025,407884,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Gecorrigeerde AFM +0.408m POS; tick1216
+bud_agbbh_omzet_2025,agb_bilzen_hoeselt,2025,4686237,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Opbrengsten uit de werking 4.686m; tick1216
+bud_agbbh_prijssub_2025,agb_bilzen_hoeselt,2025,3004827,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,City prijssubsidie 3.005m MASSIVE (text 2025); tick1216
+bud_agbbh_goods_services_2025,agb_bilzen_hoeselt,2025,2921789,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Goederen en diensten 2.922m; tick1216
+bud_agbbh_depr_2025,agb_bilzen_hoeselt,2025,1156088,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Afschrijvingen/voorzieningen 1.156m; tick1216
+bud_agbbh_pool_provisie_2025,agb_bilzen_hoeselt,2025,230000,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Zwembad onderhoud provisie 0.230m; tick1216
+bud_agbbh_pnl_2025,agb_bilzen_hoeselt,2025,515542,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,PnL boekjaar +0.516m; tick1216
+bud_agbbh_div_2025,agb_bilzen_hoeselt,2025,515542,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Full dividend = full PnL 0.516m; tick1216
+bud_agbbh_staff_2025,agb_bilzen_hoeselt,2025,0,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Staff 0; tick1216
+bud_agbbh_invest_zonhoeve_2025,agb_bilzen_hoeselt,2025,873183,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Sporthal Zonhoeve invest 0.873m; tick1216
+bud_agbbh_fin_costs_2025,agb_bilzen_hoeselt,2025,88911,,,bbc_jr_realized,src_agb_bilzen_hoeselt_jr2025_full,strong,Financiele kosten 0.089m; tick1216
