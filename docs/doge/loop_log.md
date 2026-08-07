@@ -16651,3 +16651,19 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1192** residual dual L5 VL; deferred **rq_116**
 - Git: pull may be blocked by unstaged local noise - continue on local if needed
+
+### Tick 1192 - 2026-08-08T13:30:00Z
+
+- Unit: **rq_1192** (FOI-adjacent residual dual - **AGB CC Cultuurcentrum Diest Jaarrekening 2025** Entity II after city GE)
+- Found (strong primary BBC 78p; KBO **0845.332.432**; Nijverheidslaan 24; AD Dave Van den Broeck FD Jo Haenraets):
+  - Assets **EUR1.697m DROP** / equity **EUR0.679m DROP** / cash **EUR0.156m JUMP** from 0.030
+  - Fin debt **EUR0.317m DROP** (LT 0.243 + ST due 0.074); new city loans **0.039m**; repay period **0.068m** + non-period **0.100m**
+  - BBR **EUR1.002m** / AFM **+EUR0.189m POS** / **gecorr AFM +EUR0.222m POS** (gecorr > AFM)
+  - Expl **EUR1.176m / 0.919m** saldo **+0.257m** / VL investsub **0.100m** / **zero city werksub** / **zero staff**
+  - PnL **EUR-0.110m NEG** no div; goederen **0.896m**; ST recv non-ruil **0.964m**; overlopend passief **0.474m JUMP**
+  - Risk note: city **prijs factor 1.53** + **renteloze stadsleningen**; Lakenhalle ops back to city
+- Dual: city Diest GE already mined - AGB culture dual residual closed for full BBC layer (not TE-additive)
+- Wrote: budgets +32 (bud_agbccdi_*); commitments +6; leaderboard +8; sources +1; entity agb_cc_diest; FOI **gap_agb_cc_diest_pnl_neg_city_loans_prijs_factor_recv_l5** prio8 ready + draft; PDF primary (not committed ~4MB); rq_1192=done; spawn **rq_1193**; ticks=1192
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1193** residual dual L5 VL; deferred **rq_116**
+- Git: pull may be blocked by unstaged local noise - continue on local if needed

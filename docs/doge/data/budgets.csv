@@ -31519,3 +31519,37 @@ bud_nij_budget_result_2025,city_nijlen,2025,-2083015,,,BBC JR2025 GR besluit,src
 bud_nij_pnl_2025,city_nijlen,2025,709630,,,BBC JR2025 GR besluit,src_nijlen_ge_jr2025_besluit,strong,P&L +0.710m; tick1190
 bud_nij_costs_2025,city_nijlen,2025,48342560,,,BBC JR2025 GR besluit,src_nijlen_ge_jr2025_besluit,strong,Kosten 48.343m; tick1190
 bud_nij_revenue_2025,city_nijlen,2025,49052189,,,BBC JR2025 GR besluit,src_nijlen_ge_jr2025_besluit,strong,Opbrengsten 49.052m; tick1190
+bud_agbccdi_assets_2025,agb_cc_diest,2025,1697018,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Assets balanstotaal YE2025 1.697m DROP from 1.733m; tick1192
+bud_agbccdi_equity_2025,agb_cc_diest,2025,678810,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Nettoactief YE2025 0.679m DROP from 0.704m; tick1192
+bud_agbccdi_cum_pnl_2025,agb_cc_diest,2025,538560,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Gecumuleerd overschot YE2025 0.539m DROP from 0.649m; tick1192
+bud_agbccdi_cap_subs_2025,agb_cc_diest,2025,115250,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Kapitaalssubsidies YE2025 0.115m JUMP from 0.031m; tick1192
+bud_agbccdi_debt_total_2025,agb_cc_diest,2025,1018208,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Schulden total YE2025 1.018m; tick1192
+bud_agbccdi_fin_debt_2025,agb_cc_diest,2025,316794,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Fin schulden YE2025 0.317m DROP from 0.447m; tick1192
+bud_agbccdi_fin_debt_lt_2025,agb_cc_diest,2025,243135,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Fin schulden LT YE2025 0.243m; tick1192
+bud_agbccdi_fin_debt_st_due_2025,agb_cc_diest,2025,73660,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Fin schulden LT vervallend YE2025 0.074m; tick1192
+bud_agbccdi_cash_2025,agb_cc_diest,2025,155963,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Liquide middelen YE2025 0.156m JUMP from 0.030m; tick1192
+bud_agbccdi_st_recv_2025,agb_cc_diest,2025,1062468,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,ST vorderingen YE2025 1.062m; tick1192
+bud_agbccdi_st_recv_nonruil_2025,agb_cc_diest,2025,964292,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,ST vorderingen niet-ruil YE2025 0.964m; tick1192
+bud_agbccdi_st_pass_accrual_2025,agb_cc_diest,2025,473532,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Overlopend passief YE2025 0.474m JUMP from 0.168m; tick1192
+bud_agbccdi_mva_2025,agb_cc_diest,2025,394819,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,MVA YE2025 0.395m; tick1192
+bud_agbccdi_mva_buildings_2025,agb_cc_diest,2025,315065,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,MVA bedrijfsmatige gebouwen YE2025 0.315m; tick1192
+bud_agbccdi_expl_rec_2025,agb_cc_diest,2025,1175973,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Exploitatieontvangsten 1.176m; tick1192
+bud_agbccdi_expl_exp_2025,agb_cc_diest,2025,918727,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Exploitatieuitgaven 0.919m; tick1192
+bud_agbccdi_expl_saldo_2025,agb_cc_diest,2025,257246,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Exploitatiesaldo +0.257m; tick1192
+bud_agbccdi_werking_rec_2025,agb_cc_diest,2025,1164859,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Ontvangsten uit de werking budget 1.165m; tick1192
+bud_agbccdi_invest_exp_2025,agb_cc_diest,2025,38795,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Investeringsuitgaven 0.039m; tick1192
+bud_agbccdi_vl_investsub_2025,agb_cc_diest,2025,100462,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Investeringssubsidies VL 0.100m; tick1192
+bud_agbccdi_invest_saldo_2025,agb_cc_diest,2025,61667,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Investeringssaldo +0.062m; tick1192
+bud_agbccdi_new_loans_2025,agb_cc_diest,2025,38795,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Nieuwe leningen stad renteloos 0.039m; tick1192
+bud_agbccdi_repay_period_2025,agb_cc_diest,2025,68232,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Periodieke aflossingen 0.068m; tick1192
+bud_agbccdi_repay_nonperiod_2025,agb_cc_diest,2025,100462,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Niet-periodieke aflossingen 0.100m; tick1192
+bud_agbccdi_fin_saldo_2025,agb_cc_diest,2025,-129898,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Financieringssaldo -0.130m; tick1192
+bud_agbccdi_budget_result_2025,agb_cc_diest,2025,189014,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Budgettair resultaat boekjaar +0.189m; tick1192
+bud_agbccdi_bbr_2025,agb_cc_diest,2025,1002437,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Beschikbaar BBR YE2025 1.002m; tick1192
+bud_agbccdi_afm_2025,agb_cc_diest,2025,189014,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,AFM +0.189m POS; tick1192
+bud_agbccdi_afm_gecorr_2025,agb_cc_diest,2025,221510,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Gecorr AFM +0.222m POS (gecorr > AFM); tick1192
+bud_agbccdi_pnl_2025,agb_cc_diest,2025,-110009,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,P&L -0.110m NEG; tick1192
+bud_agbccdi_dividend_2025,agb_cc_diest,2025,0,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Dividend/rechthebbenden 0 (was 0.097m 2024); tick1192
+bud_agbccdi_goods_2025,agb_cc_diest,2025,896369,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Goederen en diensten 0.896m; tick1192
+bud_agbccdi_staff_2025,agb_cc_diest,2025,0,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Personeel ZERO (via stad); tick1192
+bud_agbccdi_city_werksub_2025,agb_cc_diest,2025,0,,,BBC JR2025 primary,src_agb_cc_diest_jr2025,strong,Werkingssubsidies stad ZERO 2025; tick1192

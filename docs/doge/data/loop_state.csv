@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T13:00:00Z,rq_1191,1191,no,tick1191 Bornem dual JR2025 FOI-block (page only JR2024); gap_bornem_dual_jr2025_ge_ocmw_agb_l5 ready; next rq_1192 residual dual L5 VL; rq_116 deferred; continuous hole_fill
+main,continuous,hole_fill,2026-08-08T13:30:00Z,rq_1192,1192,no,tick1192 AGB CC Diest dual residual assets 1.7m fin debt 0.32m PnL NEG city renteloos+prijs factor FOI; next rq_1193 residual dual L5 VL; rq_116 deferred; continuous hole_fill
