@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1240** (2026-08-08)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1231-1240: Wetteren · Tessenderlo · Herselt · Assenede · Kaprijke scan · Oud-Turnhout · AGSL Leuven · AG2B Berlaar · AGB Edegem · **Zorgpunt Waasland** multi-muni zorg |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1231-1240 is VL residual dual L5 (not near-complete of 348bn):** **Zorgpunt Waasland** AFM **−3.57m** cum loss **−12.3m** PnL **−5.14m** personnel **105.4m** werkingssub **44.5m** · **AGSL Leuven** BBR **−10.88m** ST non-ruil **16.2m** · **AGB Edegem** gecorr AFM **−0.032m** debt **3.74m** · Wetteren debt **9.97m** AFM NEG · Assenede equity thin full div · prior Hasselt/Vilvoorde/Bexit stack retained |
+| **E. FOI-ready gaps** | **~883** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~931** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB dual debt/AFM NEG + leasing/city-loan/erfpacht shells** (**NEW Zorgpunt Waasland** AFM **−EUR3.57m** cum loss **−EUR12.3m** personnel **EUR105m** · **AGSL Leuven** BBR **−EUR10.88m** · **AGB Edegem** debt **EUR3.74m** · Wetteren **EUR9.97m** · prior Hasselt ~EUR95–103m · Bexit EUR19.2m · Vilvoorde EUR8.06m stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1240)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~32920 |
+| commitments.csv | ~4468 |
+| leaderboard.csv | ~6648 |
+| entities.csv | ~969 |
+| sources.csv | ~2157 |
+| FOI ready | ~883 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~931 |
+| research_queue open | rq_116 deferred + rq_1241 hole-fill after progress |
+
+### What improved since tick 1230
+
+- **VL residual dual JR2025 Entity II (tick1231-1239):** Wetteren AFM NEG debt **9.97m** · Tessenderlo erfpacht · Herselt BBR JUMP · Assenede equity thin full div · Kaprijke scan FOI · Oud-Turnhout capital inject · **AGSL Leuven** BBR **−10.88m** ST non-ruil **16.2m** · AG2B Berlaar micro shell · **AGB Edegem** gecorr AFM **−0.032m** prijssub **0.244m** D&BC **0.592m**.
+- **NEW (tick1240):** **Zorgpunt Waasland** multi-muni WZC/zorg (KBO 0696.715.960) assets **40.9m** · **AFM −3.567m NEG** · **gecorr AFM −2.194m** · **cum loss −12.314m DEEP** · **PnL −5.141m** flip · personnel **105.4m** (+15%) · werkingssub **44.5m** · cash DROP **7.0→2.2m** · fin debt **12.1m** · FOI mother toelage matrix ready.
+- **Dual map themes:** **multi-muni zorg shells** (Waasland) · **urban development BBR DEEP NEG** (Leuven AGSL) · **patrimonium erfpacht + thin cash** (Edegem) · **prijs-factor AGB shells** retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reportAc stack remains #1-10.
+
+---
 ## Snapshot at **tick 1230** (2026-08-07)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

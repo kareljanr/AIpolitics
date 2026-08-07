@@ -32882,3 +32882,40 @@ bud_agbede_repayments_2025,agb_edegem,2025,264661,,,bbc_jr_realized,src_agb_edeg
 bud_agbede_amort_gecorr_2025,agb_edegem,2025,311112,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Gecorrigeerde aflossingen o.b.v. fin debt 0.311m; tick1239
 bud_agbede_costs_2025,agb_edegem,2025,1035116,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,J5 costs total 1.035m; tick1239
 bud_agbede_goederen_2025,agb_edegem,2025,752598,,,bbc_jr_realized,src_agb_edegem_jr2025,strong,Goederen en diensten 0.753m; tick1239
+bud_zpw_assets_2025,zorgpunt_waasland,2025,40939283,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Assets balanstotaal YE2025 40.939m; tick1240
+bud_zpw_equity_2025,zorgpunt_waasland,2025,1686908,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Nettoactief YE2025 1.687m thin; tick1240
+bud_zpw_cum_loss_2025,zorgpunt_waasland,2025,-12313689,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Gecumuleerd tekort YE2025 -12.314m DEEP; tick1240
+bud_zpw_debt_total_2025,zorgpunt_waasland,2025,39252375,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Schulden total YE2025 39.252m; tick1240
+bud_zpw_fin_debt_2025,zorgpunt_waasland,2025,12132741,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Fin schulden total YE2025 12.133m (LT 9.367 + ST due 2.766); tick1240
+bud_zpw_fin_debt_lt_2025,zorgpunt_waasland,2025,9366827,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Fin schulden LT YE2025 9.367m; tick1240
+bud_zpw_fin_debt_st_due_2025,zorgpunt_waasland,2025,2765915,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Fin schulden LT vervallend YE2025 2.766m; tick1240
+bud_zpw_cash_2025,zorgpunt_waasland,2025,2241310,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Liquide middelen YE2025 2.241m DROP (was 7.028m); tick1240
+bud_zpw_st_recv_2025,zorgpunt_waasland,2025,16921726,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Vorderingen KT total YE2025 16.922m; tick1240
+bud_zpw_st_nonruil_recv_2025,zorgpunt_waasland,2025,7589048,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Vorderingen niet-ruil KT YE2025 7.589m; tick1240
+bud_zpw_lt_nonruil_recv_2025,zorgpunt_waasland,2025,9239535,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Vorderingen niet-ruil LT YE2025 9.240m; tick1240
+bud_zpw_mva_2025,zorgpunt_waasland,2025,9755592,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Materiele VA YE2025 9.756m; tick1240
+bud_zpw_pension_lt_2025,zorgpunt_waasland,2025,9572938,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Pensioenvoorzieningen LT YE2025 9.573m; tick1240
+bud_zpw_pension_st_2025,zorgpunt_waasland,2025,1939487,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Pensioenvoorzieningen ST YE2025 1.939m; tick1240
+bud_zpw_cap_subs_2025,zorgpunt_waasland,2025,7909954,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Kapitaalssubsidies YE2025 7.910m; tick1240
+bud_zpw_expl_rec_2025,zorgpunt_waasland,2025,125318176,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Exploitatieontvangsten 125.318m; tick1240
+bud_zpw_expl_exp_2025,zorgpunt_waasland,2025,128790911,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Exploitatieuitgaven 128.791m; tick1240
+bud_zpw_expl_saldo_2025,zorgpunt_waasland,2025,-3472735,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Exploitatiesaldo -3.473m NEG; tick1240
+bud_zpw_invest_exp_2025,zorgpunt_waasland,2025,2503137,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Investeringsuitgaven 2.503m; tick1240
+bud_zpw_invest_rec_2025,zorgpunt_waasland,2025,5225984,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Investeringsontvangsten 5.226m; tick1240
+bud_zpw_invest_saldo_2025,zorgpunt_waasland,2025,2722847,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Investeringssaldo +2.723m; tick1240
+bud_zpw_fin_saldo_2025,zorgpunt_waasland,2025,-2871940,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Financieringssaldo -2.872m; tick1240
+bud_zpw_budget_result_2025,zorgpunt_waasland,2025,-3621828,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Budgettair resultaat boekjaar -3.622m NEG; tick1240
+bud_zpw_cumul_budget_2025,zorgpunt_waasland,2025,6796694,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Gecumuleerd budgettair resultaat 6.797m; tick1240
+bud_zpw_bbr_2025,zorgpunt_waasland,2025,6796694,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,BBR +6.797m; tick1240
+bud_zpw_afm_2025,zorgpunt_waasland,2025,-3567438,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,AFM -3.567m NEG (J2 primary); tick1240
+bud_zpw_gecorr_afm_2025,zorgpunt_waasland,2025,-2193836,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Gecorrigeerde AFM -2.194m NEG; tick1240
+bud_zpw_pnl_2025,zorgpunt_waasland,2025,-5141464,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,PnL tekort -5.141m (was +1.437m); tick1240
+bud_zpw_personnel_2025,zorgpunt_waasland,2025,105355515,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Bezoldigingen 105.356m (+15pct); tick1240
+bud_zpw_goederen_2025,zorgpunt_waasland,2025,23279187,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Goederen en diensten 23.279m (+20pct); tick1240
+bud_zpw_werking_ontv_2025,zorgpunt_waasland,2025,79557364,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Opbrengsten uit de werking 79.557m; tick1240
+bud_zpw_sub_total_2025,zorgpunt_waasland,2025,44496389,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Werkingssubsidies total 44.496m; tick1240
+bud_zpw_sub_alg_2025,zorgpunt_waasland,2025,18356400,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Algemene werkingssubsidies 18.356m; tick1240
+bud_zpw_sub_spec_2025,zorgpunt_waasland,2025,26139989,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Specifieke werkingssubsidies 26.140m; tick1240
+bud_zpw_repayments_2025,zorgpunt_waasland,2025,2765458,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Periodieke aflossingen 2.765m; tick1240
+bud_zpw_loan_recv_back_2025,zorgpunt_waasland,2025,2670756,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,Periodieke terugvordering leningen 2.671m; tick1240
+bud_zpw_costs_2025,zorgpunt_waasland,2025,131485495,,,bbc_jr_realized,src_zorgpunt_waasland_jr2025,strong,J5 costs total 131.485m; tick1240

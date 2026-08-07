@@ -17226,3 +17226,10 @@ Append-only. Each tick adds a short entry.
 - EUR strong: assets **4.171m**; fin debt **3.737m** (erfpacht/leasing VTC MVA **2.325m**); gecorr AFM **-0.032m** NEG; AFM **+0.014m** thin; BBR **+0.440m**; prijssub city **0.244m** (sport **0.033** + VTC **0.211**); D&BC Gem/OCMW fees **0.592m**; cash **1.24k** THIN; partial div **473**; PnL **+0.005m**; ST non-ruil recv **0.320m**.
 - CSVs: sources/entities(+city_edegem)/budgets+35/commitments+7/leaderboard+7 + FOI ready `gap_agb_ede_gecorr_afm_neg_0_03m_prijssub_0_24m_debt_3_74m_cash_thin_div_partial_l5` (not sent); rq_1239=done; spawn rq_1240.
 - Next: rq_1240 residual dual L5 VL JR2025 hole_fill (city Edegem GE dual or other unmined AGB).
+
+### Tick 1240 - 2026-08-08 - rq_1240 Zorgpunt Waasland dual residual + progress@1240
+- Unit: Zorgpunt Waasland JR2025 multi-muni WZC/zorg Entity II (KBO 0696.715.960; 116p text primary; Beveren/Zwijndrecht/Kruibeke/Sint-Niklaas/Sint-Gillis-Waas).
+- EUR strong: assets **40.9m**; fin debt **12.1m**; AFM **-3.567m** NEG; gecorr AFM **-2.194m** NEG; cum loss **-12.314m** DEEP; PnL **-5.141m** flip; personnel **105.4m** (+15%); werkingssub **44.5m** (alg 18.4 + spec 26.1); cash DROP **7.0 to 2.2m**; BBR **+6.80m**; expl saldo **-3.47m**.
+- CSVs: sources/entities/budgets+37/commitments+7/leaderboard+7 + FOI ready `gap_zpw_afm_neg_3_57m_cum_loss_12_3m_pnl_neg_5_14m_personnel_105m_sub_44m_l5` (not sent); rq_1240=done; spawn rq_1241; ticks=1240.
+- Progress@1240: refreshed progress_every_10_ticks.md + doge_waste_top10_current.md (pure annual top10 stable; dual gain Zorgpunt/AGSL/Edegem stack).
+- Next: rq_1241 residual dual L5 VL JR2025 hole_fill.
