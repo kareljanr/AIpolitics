@@ -15665,3 +15665,22 @@ Append-only. Each tick adds a short entry.
 - FOI: ready only - **do not send**
 - Next: prio5 **rq_1136** residual dual L5; deferred **rq_116**; progress@1140 in 4
 
+
+### Tick 1136 - 2026-08-12T09:30:00Z
+
+- Unit: **rq_1136** (FOI-adjacent residual dual - **SOLag Lier / Stedelijk Ontwikkelingsbedrijf Jaarrekening 2025** Entity II after city Lier)
+- Found (strong primary BBC JR2025 AGB 30p text; lier.be; KBO **0866.000.162**; Paradeplein 2 bus 7 2500; Voorzitter Bert Wollants AD Luc Verheyen; RvB 6 mei 2026):
+  - Assets **EUR27.368m** / equity **EUR19.512m** / debt total **EUR7.856m** / fin debt **EUR1.500m NEW**
+  - **LT recv EUR7.120m MASSIVE FOI** (developer loans) + ST due recv **EUR0.338m** / recoveries **EUR0.473m**
+  - Cash **EUR2.820m** / inventory **EUR1.707m** / MVA **EUR14.973m** / **overlopend passief EUR5.938m MASSIVE FOI**
+  - Exploitatie: ontvangsten **EUR0.756m** / uitgaven **EUR1.399m** / saldo **-EUR0.642m DEEP NEG**
+  - **AFM -EUR0.170m NEG FOI** / BBR **EUR2.827m** / budget **-EUR0.593m**
+  - P&L **-EUR0.904m** / cum tekort **-EUR3.448m DEEP FOI**
+  - Invest **EUR2.136m vs MJP EUR3.549m UNDERSPEND ~EUR1.413m FOI** (Rerum Novarum-C&A / Normaalschool)
+  - New loans **EUR1.500m** / **personeel EUR0.710m JUMP** (was **EUR0.282m**) / omzet DROP
+- Dual: city Lier already mined - not TE-additive; SOLag dual residual now closed
+- Note: Oosterzele / Nijlen / Vorselaar / Bornem / De Panne OCR / Schelle GE+OCMW / Erpe-Mere full JR / Brakel GE+OCMW / Puurs / AGB Galmaarden / AGB Westerlo residual next; progress@1140 in 3
+- Wrote: budgets +30 (bud_solag_*); commitments +7; leaderboard +10; sources +1; entity agb_solag_lier; FOI **gap_solag_afm_neg_lt_recv_invest_personnel_l5** prio9 ready + draft; PDF primary (not committed ~1.4MB); rq_1136=done; spawn **rq_1137**; ticks=1136
+- FOI: ready only - **do not send**
+- Next: prio5 **rq_1137** residual dual L5; deferred **rq_116**; progress@1140 in 3
+

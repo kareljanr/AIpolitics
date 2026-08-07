@@ -29985,3 +29985,33 @@ bud_agb_omzet_2025,agb_bocholt,2025,2119172,,,jaarrekening_realized,src_bocholt_
 bud_agb_goederen_2025,agb_bocholt,2025,645711,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Goederen en diensten T2 0.646m; tick1135
 bud_agb_prov_2025,agb_bocholt,2025,337191,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Voorzieningen LT 0.337m; tick1135
 bud_agb_cum_pl_2025,agb_bocholt,2025,670723,,,jaarrekening_realized,src_bocholt_agb_jr2025,strong,Gecumuleerd overschot 0.671m; tick1135
+bud_solag_assets_2025,agb_solag_lier,2025,27368250,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Total assets YE2025 27.368m; tick1136
+bud_solag_equity_2025,agb_solag_lier,2025,19511884,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Nettoactief YE2025 19.512m; tick1136
+bud_solag_debt_total_2025,agb_solag_lier,2025,7856366,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Total schulden YE2025 7.856m; tick1136
+bud_solag_fin_debt_2025,agb_solag_lier,2025,1500000,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Financiele schulden YE2025 1.500m (new); tick1136
+bud_solag_fin_debt_lt_2025,agb_solag_lier,2025,1500000,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Fin schulden LT YE2025 1.500m; tick1136
+bud_solag_cash_2025,agb_solag_lier,2025,2820073,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Liquide middelen YE2025 2.820m; tick1136
+bud_solag_inventory_2025,agb_solag_lier,2025,1707178,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Voorraden/bestellingen 1.707m FOI; tick1136
+bud_solag_lt_recv_2025,agb_solag_lier,2025,7120024,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Vorderingen LT ruil 7.120m MASSIVE FOI (developer loans); tick1136
+bud_solag_st_recv_loans_2025,agb_solag_lier,2025,338183,,,jaarrekening_realized,src_lier_solag_jr2025,strong,LT vorderingen binnen jaar 0.338m; tick1136
+bud_solag_overlopend_passief_2025,agb_solag_lier,2025,5938207,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Overlopende rekeningen passief 5.938m MASSIVE FOI; tick1136
+bud_solag_cap_subs_2025,agb_solag_lier,2025,884134,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Kapitaalsubsidies YE2025 0.884m; tick1136
+bud_solag_mva_2025,agb_solag_lier,2025,14973090,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Materiele vaste activa YE2025 14.973m; tick1136
+bud_solag_expl_rec_2025,agb_solag_lier,2025,756324,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Exploitatieontvangsten 0.756m; tick1136
+bud_solag_expl_exp_2025,agb_solag_lier,2025,1398670,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Exploitatieuitgaven 1.399m; tick1136
+bud_solag_expl_saldo_2025,agb_solag_lier,2025,-642346,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Exploitatiesaldo -0.642m DEEP NEG FOI; tick1136
+bud_solag_invest_2025,agb_solag_lier,2025,2136046,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Investeringsuitgaven 2.136m; tick1136
+bud_solag_invest_mjp_2025,agb_solag_lier,2025,3548824,,,jaarrekening_realized,src_lier_solag_jr2025,strong,MJP invest 3.549m; tick1136
+bud_solag_invest_underspend_2025,agb_solag_lier,2025,1412778,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Invest underspend ~1.413m MASSIVE FOI; tick1136
+bud_solag_invest_rec_2025,agb_solag_lier,2025,212900,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Investeringsontvangsten/cap-subs 0.213m; tick1136
+bud_solag_afm_2025,agb_solag_lier,2025,-169819,,,jaarrekening_realized,src_lier_solag_jr2025,strong,AFM -0.170m NEG FOI; tick1136
+bud_solag_afm_gecorr_2025,agb_solag_lier,2025,-169819,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Gecorr AFM -0.170m NEG FOI; tick1136
+bud_solag_bbr_2025,agb_solag_lier,2025,2827403,,,jaarrekening_realized,src_lier_solag_jr2025,strong,BBR 2.827m; tick1136
+bud_solag_budget_result_2025,agb_solag_lier,2025,-592965,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Budgettair resultaat -0.593m NEG; tick1136
+bud_solag_pl_2025,agb_solag_lier,2025,-904310,,,jaarrekening_realized,src_lier_solag_jr2025,strong,P&L -0.904m DEEP FOI; tick1136
+bud_solag_cum_pl_2025,agb_solag_lier,2025,-3448189,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Gecumuleerd tekort -3.448m DEEP FOI; tick1136
+bud_solag_new_loans_2025,agb_solag_lier,2025,1500000,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Nieuwe leningen 1.500m FOI; tick1136
+bud_solag_loan_recoveries_2025,agb_solag_lier,2025,472527,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Terugvordering toegestane leningen 0.473m FOI; tick1136
+bud_solag_omzet_2025,agb_solag_lier,2025,820470,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Opbrengsten uit werking J5 0.820m DROP FOI; tick1136
+bud_solag_goederen_2025,agb_solag_lier,2025,644021,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Goederen en diensten 0.644m; tick1136
+bud_solag_personeel_2025,agb_solag_lier,2025,709573,,,jaarrekening_realized,src_lier_solag_jr2025,strong,Bezoldigingen 0.710m JUMP (was 0.282m) FOI; tick1136
