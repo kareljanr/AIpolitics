@@ -34218,3 +34218,27 @@ bud_agbmp_pnl_2025,agb_houthalen_masterplan,2025,295578.26,,,executed,src_agbmp_
 bud_agbmp_capex_2025,agb_houthalen_masterplan,2025,681909.91,,,executed,src_agbmp_jr2025_nbb,strong,NBB 8169 aanschaffingen 0.681910m; tick1282; NBB not BBC J2
 bud_agbmp_mva_gross_2025,agb_houthalen_masterplan,2025,42313506.5,,,executed,src_agbmp_jr2025_nbb,strong,NBB 8199 MVA gross 42.313507m / accum dep 20.014m; tick1282; NBB not BBC J2
 bud_agbmp_lt_gt5_2025,agb_houthalen_masterplan,2025,19119678.41,,,executed,src_agbmp_jr2025_nbb,strong,NBB 8913 remaining >5y 19.119678m; tick1282; NBB not BBC J2
+bud_agbsp_assets_2025,agb_houthalen_sport,2025,10964190.41,,,executed,src_agbsp_jr2025_nbb,strong,NBB 20/58 assets 10.964190m vs 12.223607m; tick1283; NBB not BBC J2
+bud_agbsp_assets_2024,agb_houthalen_sport,2024,12223606.55,,,executed,src_agbsp_jr2025_nbb,strong,NBB YE2024 assets 12.223607m; tick1283; NBB not BBC J2
+bud_agbsp_mva_2025,agb_houthalen_sport,2025,10808604.03,,,executed,src_agbsp_jr2025_nbb,strong,NBB 22/27 MVA 10.808604m; leasing 10.185m; buildings 0.541m; tick1283; NBB not BBC J2
+bud_agbsp_leasing_2025,agb_houthalen_sport,2025,10185118.73,,,executed,src_agbsp_jr2025_nbb,strong,NBB 25 leasingrechten 10.185119m vs 10.301661m; tick1283; NBB not BBC J2
+bud_agbsp_buildings_2025,agb_houthalen_sport,2025,541084.87,,,executed,src_agbsp_jr2025_nbb,strong,NBB 22 terreinen en gebouwen 0.541085m; tick1283; NBB not BBC J2
+bud_agbsp_cash_2025,agb_houthalen_sport,2025,112538.98,,,executed,src_agbsp_jr2025_nbb,strong,NBB 54/58 cash 0.112539m DROP vs 0.229400m; tick1283; NBB not BBC J2
+bud_agbsp_other_rec_2025,agb_houthalen_sport,2025,5021.12,,,executed,src_agbsp_jr2025_nbb,strong,NBB 41 overige vorderingen 0.005021m DROP vs 0.911905m; tick1283; NBB not BBC J2
+bud_agbsp_trade_rec_2025,agb_houthalen_sport,2025,36776.28,,,executed,src_agbsp_jr2025_nbb,strong,NBB 40 handelsvorderingen 0.036776m vs 0.102857m; tick1283; NBB not BBC J2
+bud_agbsp_equity_2025,agb_houthalen_sport,2025,114298.57,,,executed,src_agbsp_jr2025_nbb,strong,NBB 10/15 EV 0.114299m vs 0.200532m after dividend; tick1283; NBB not BBC J2
+bud_agbsp_capital_2025,agb_houthalen_sport,2025,80000.0,,,executed,src_agbsp_jr2025_nbb,strong,NBB 10 kapitaal 0.080000m; tick1283; NBB not BBC J2
+bud_agbsp_subsidy_2025,agb_houthalen_sport,2025,34298.57,,,executed,src_agbsp_jr2025_nbb,strong,NBB 15 kapitaalsubsidies 0.034299m vs 0.039091m; tick1283; NBB not BBC J2
+bud_agbsp_fin_debt_2025,agb_houthalen_sport,2025,10720972.28,,,executed,src_agbsp_jr2025_nbb,strong,NBB 17+42 fin debt 10.720972m vs 10.915737m; tick1283; NBB not BBC J2
+bud_agbsp_fin_debt_lt_2025,agb_houthalen_sport,2025,10525001.78,,,executed,src_agbsp_jr2025_nbb,strong,NBB 172/3 LT bank/leasing 10.525002m; tick1283; NBB not BBC J2
+bud_agbsp_st_due_2025,agb_houthalen_sport,2025,195970.5,,,executed,src_agbsp_jr2025_nbb,strong,NBB 42 ST due of LT 0.195971m; tick1283; NBB not BBC J2
+bud_agbsp_trade_pay_2025,agb_houthalen_sport,2025,125711.46,,,executed,src_agbsp_jr2025_nbb,strong,NBB 44 handelsschulden 0.125711m DROP vs 1.100505m; tick1283; NBB not BBC J2
+bud_agbsp_debt_total_2025,agb_houthalen_sport,2025,10849891.84,,,executed,src_agbsp_jr2025_nbb,strong,NBB 17/49 schulden 10.849892m vs 12.023075m; tick1283; NBB not BBC J2
+bud_agbsp_gross_2025,agb_houthalen_sport,2025,240971.52,,,executed,src_agbsp_jr2025_nbb,strong,NBB 9900 brutomarge 0.240972m vs 0.256483m; tick1283; NBB not BBC J2
+bud_agbsp_ebit_2025,agb_houthalen_sport,2025,35861.96,,,executed,src_agbsp_jr2025_nbb,strong,NBB 9901 EBIT 0.035862m vs 0.093203m; tick1283; NBB not BBC J2
+bud_agbsp_depr_2025,agb_houthalen_sport,2025,203202.5,,,executed,src_agbsp_jr2025_nbb,strong,NBB 630 afschrijvingen 0.203203m vs 0.161448m; tick1283; NBB not BBC J2
+bud_agbsp_fin_cost_2025,agb_houthalen_sport,2025,13908.32,,,executed,src_agbsp_jr2025_nbb,strong,NBB 65 fin kost 0.013908m vs 0.014490m; tick1283; NBB not BBC J2
+bud_agbsp_pnl_2025,agb_houthalen_sport,2025,26745.96,,,executed,src_agbsp_jr2025_nbb,strong,NBB 9904/9905 PnL +0.026746m vs +0.081747m; tick1283; NBB not BBC J2
+bud_agbsp_dividend_2025,agb_houthalen_sport,2025,108187.11,,,executed,src_agbsp_jr2025_nbb,strong,NBB 694 vergoeding van de inbreng 0.108187m empties retained+PnL; tick1283; NBB not BBC J2
+bud_agbsp_capex_2025,agb_houthalen_sport,2025,33612.74,,,executed,src_agbsp_jr2025_nbb,strong,NBB 8169 aanschaffingen 0.033613m; tick1283; NBB not BBC J2
+bud_agbsp_mva_gross_2025,agb_houthalen_sport,2025,12777091.18,,,executed,src_agbsp_jr2025_nbb,strong,NBB 8199 MVA gross 12.777091m / accum dep 1.968487m; tick1283; NBB not BBC J2
