@@ -17403,3 +17403,10 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources+3/entities(patch+city note)/budgets+8/commitments+7/leaderboard+6 + FOI ready `gap_digipolis_jr2025_pdf_opaque_assets_73_61m_surplus_0_11m_l5` (not sent); rq_1265=done; spawn rq_1266; ticks=1265. No every-10 (1265 not a *0 tick).
 - Next: rq_1266 residual dual L5 VL JR2025 hole_fill (prefer vzw Integratie & Inburgering Antwerpen / Atlas JR2025 GR 2026_GR_00622 KBO 0421.722.346 or other unmined AGB/zorg with direct PDF).
 
+
+### Tick 1266 - 2026-08-17 - rq_1266 Atlas / Integratie & Inburgering Antwerpen dual residual
+- Unit: vzw Integratie & Inburgering Antwerpen (Atlas) JR2025 Entity II after Digipolis tick1265 (KBO 0421.722.346; EVA-vzw; seat Carnotstraat 110, 2060 Antwerpen). Distinct from AGB District09 Gent and from Flanders AgII. AV 30.06.2026 / GR 29.06.2026 `2026_GR_00622`. NBB volledig model vereniging filed 07.07.2026 ref **2026-00275703**. Tick218 already had 2026 city package 25.826m. WAGSO already mined tick1199.
+- EUR strong (city HTML primary; NBB/JR PDF internals unknown): city 2025 lock **21.846m** (expl **21.642m** + invest **0.205m**) vs MJP A8 **21.920m** (index withhold **32.207**; invest A9 cut **41.957**); lines **15.132m + 0.165m + 0.103m + 6.241m + 0.205m**; rise 2025→2026 package **+3.980m** to **25.826m**; 2026 extras SE **0.577m** + Welkomst **0.027m** + KAAP **0.077m** = **0.681m**; known 2026 city **26.506m**. IBAN BE69 4126 1791 9178. BBC/NBB PDFs not retrieved (ebesluit TLS + NBB 403 + org site jaarverslag 2024 only). VL pass-through and 2025 other-PC lock unknown.
+- CSVs: sources+6/entities(patch+city note)/budgets+14/commitments+7/leaderboard+6 + FOI ready `gap_atlas_jr2025_pdf_opaque_city_dual_21_85m_l5` (not sent); rq_1266=done; spawn rq_1267; ticks=1266. No every-10 (1266 not a *0 tick).
+- Next: rq_1267 residual dual L5 VL JR2025 hole_fill (prefer Amal / Integratie en Inburgering Gent JR2025 KBO 0507.873.093 NBB 2026-00211946 or other unmined AGB/zorg with direct PDF).
+

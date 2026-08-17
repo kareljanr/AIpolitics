@@ -33833,3 +33833,17 @@ bud_digipolis_assets_drop_2024_25,digipolis_antwerpen,2025,2251070,,,executed,sr
 bud_digipolis_surplus_swing_2024_25,digipolis_antwerpen,2025,802585,,,executed,src_digipolis_jr2025_gr00616,strong,PnL -0.692714m (2024) to +0.109871m (2025) = swing +0.802585m; tick1265
 bud_digipolis_bs_vs_member_omzet_2025,digipolis_antwerpen,2025,148294484.67,,,executed,src_digipolis_jr2025_gr00616,strong,Member omzet 221.899609m minus BS 73.605124m = 148.294485m pass-through residual (not a cash gap); tick1265
 bud_digipolis_revisor_fee_2025,digipolis_antwerpen,2025,12505,,,budgeted,src_digipolis_jr2025_gr00616,strong,Callens/Vandelanotte/Theunissen 12.505/year 2024-2026 (2024_GR_00536 path; already in HTML); tick1265
+bud_atlas_city_lock_2025,integratie_inburgering_antwerpen,2025,21846020.78,,,budgeted,src_atlas_dotatie_2025_cbs03151,strong,City dual lock 21.846m 2025 (expl 21.642 + invest 0.205); tick1266
+bud_atlas_city_expl_2025,integratie_inburgering_antwerpen,2025,21641518.53,,,budgeted,src_atlas_dotatie_2025_cbs03151,strong,City exploitatietoelage lock 21.642m 2025; tick1266
+bud_atlas_city_invest_2025,integratie_inburgering_antwerpen,2025,204502.25,,,budgeted,src_atlas_dotatie_2025_cbs03151,strong,City investeringstoelage lock 0.205m 2025; tick1266
+bud_atlas_mjp_a8_2025,integratie_inburgering_antwerpen,2025,21920184.82,,,budgeted,src_atlas_dotatie_2025_cbs03151,strong,MJP A8 21.920m before withholds; tick1266
+bud_atlas_index_withheld_2025,integratie_inburgering_antwerpen,2025,32206.60,,,budgeted,src_atlas_dotatie_2025_cbs03151,strong,Index withheld 32.207 not locked 2025; tick1266
+bud_atlas_invest_a9_cut_2025,integratie_inburgering_antwerpen,2025,41957.44,,,budgeted,src_atlas_dotatie_2025_cbs03151,strong,Invest A9 cut 41.957 not locked 2025; tick1266
+bud_atlas_city_line_15132k_2025,integratie_inburgering_antwerpen,2025,15131927.00,,,budgeted,src_atlas_dotatie_2025_cbs03151,strong,CBS line SBT11035 15.132m of 21.846m lock; tick1266
+bud_atlas_city_line_6241k_2025,integratie_inburgering_antwerpen,2025,6241211.53,,,budgeted,src_atlas_dotatie_2025_cbs03151,strong,CBS line SUB_NR expl 6.241m of 21.846m lock; tick1266
+bud_atlas_city_rise_2025_26,integratie_inburgering_antwerpen,2026,3979620.56,,,budgeted,src_atlas_dotatie_2025_cbs03151,strong,Package rise 21.846m to 25.826m = +3.980m; tick1266
+bud_atlas_se_voortraject_2026,integratie_inburgering_antwerpen,2026,577142.33,,,budgeted,src_atlas_se_voortraject_2026_cbs02110,strong,SE voortrajecten extra 0.577m outside 25.826m package; tick1266
+bud_atlas_welkomst_2026,integratie_inburgering_antwerpen,2026,27000,,,budgeted,src_atlas_onderwijs_extra_2026_gr,strong,Welkomstpunt onderwijs 27k 2026 of 243k 2026-2029; tick1266
+bud_atlas_kaap_2026,integratie_inburgering_antwerpen,2026,76700,,,budgeted,src_atlas_onderwijs_extra_2026_gr,strong,KAAP 76.7k 2026 of 230k 2026-2027; tick1266
+bud_atlas_city_known_extra_2026,integratie_inburgering_antwerpen,2026,680842.33,,,budgeted,src_atlas_se_voortraject_2026_cbs02110,strong,Known extras 0.577+0.027+0.077=0.681m; tick1266
+bud_atlas_city_known_total_2026,integratie_inburgering_antwerpen,2026,26506483.67,,,budgeted,src_atlas_se_voortraject_2026_cbs02110,strong,25.82564134 package + 0.68084233 extras = 26.506m; tick1266
