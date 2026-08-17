@@ -35413,3 +35413,43 @@ bud_kmpc_ops_rev_2025,apb_kmpc,2025,440205,,,executed,src_kmpc_jr2025_pdf,strong
 bud_kmpc_costs_2025,apb_kmpc,2025,2383489,,,executed,src_kmpc_jr2025_pdf,strong,2025 J5 costs 2383489.18; tick1320; primary BBC J5
 bud_kmpc_rev_2025,apb_kmpc,2025,3595837,,,executed,src_kmpc_jr2025_pdf,strong,2025 J5 opbrengsten 3595836.57; tick1320; primary BBC J5
 bud_kmpc_deprec_2025,apb_kmpc,2025,53769,,,executed,src_kmpc_jr2025_pdf,strong,2025 J5 afschrijvingen 53768.82; tick1320; primary BBC J5/T5
+bud_hbh_assets_2025,apb_hbh,2025,5927071,,,executed,src_hbh_jr2025_pdf,strong,YE2025 assets 5927071.31 was 4780837.64; tick1321; primary BBC J4
+bud_hbh_assets_2024,apb_hbh,2024,4780838,,,executed,src_hbh_jr2025_pdf,strong,YE2024 assets 4780837.64; tick1321; primary BBC J4
+bud_hbh_cash_2025,apb_hbh,2025,2645838,,,executed,src_hbh_jr2025_pdf,strong,YE2025 cash 2645838.46 was 2327970.37; tick1321; primary BBC J4
+bud_hbh_cash_2024,apb_hbh,2024,2327970,,,executed,src_hbh_jr2025_pdf,strong,YE2024 cash 2327970.37; tick1321; primary BBC J4
+bud_hbh_current_2025,apb_hbh,2025,5630302,,,executed,src_hbh_jr2025_pdf,strong,YE2025 vlottende activa 5630301.74; tick1321; primary BBC J4
+bud_hbh_recv_st_2025,apb_hbh,2025,2815550,,,executed,src_hbh_jr2025_pdf,strong,YE2025 ST recv 2815550.26 (ruil 78922.20 + niet-ruil 2736628.06) was 1968619.19 JUMP; tick1321; primary BBC J4
+bud_hbh_recv_nietruil_2025,apb_hbh,2025,2736628,,,executed,src_hbh_jr2025_pdf,strong,YE2025 ST niet-ruil recv 2736628.06; tick1321; primary BBC J4
+bud_hbh_recv_ruil_2025,apb_hbh,2025,78922,,,executed,src_hbh_jr2025_pdf,strong,YE2025 ST ruil recv 78922.20; tick1321; primary BBC J4
+bud_hbh_inventories_2025,apb_hbh,2025,159911,,,executed,src_hbh_jr2025_pdf,strong,YE2025 voorraden 159910.75; tick1321; primary BBC J4
+bud_hbh_accruals_act_2025,apb_hbh,2025,9002,,,executed,src_hbh_jr2025_pdf,strong,YE2025 overlopend actief 9002.27; tick1321; primary BBC J4
+bud_hbh_fixed_2025,apb_hbh,2025,296770,,,executed,src_hbh_jr2025_pdf,strong,YE2025 vaste activa 296769.57 was 322956.62; tick1321; primary BBC J4/T5
+bud_hbh_fva_2025,apb_hbh,2025,60610,,,executed,src_hbh_jr2025_pdf,strong,YE2025 FVA 60610.00 andere (EVA 0 IGS 0) was 40607.50; tick1321; primary BBC J4/T5
+bud_hbh_mva_2025,apb_hbh,2025,236160,,,executed,src_hbh_jr2025_pdf,strong,YE2025 MVA 236159.57 leasing 0; tick1321; primary BBC J4
+bud_hbh_machines_2025,apb_hbh,2025,210299,,,executed,src_hbh_jr2025_pdf,strong,YE2025 machines/uitrusting 210298.71; tick1321; primary BBC J4/T5
+bud_hbh_schulden_2025,apb_hbh,2025,2636461,,,executed,src_hbh_jr2025_pdf,strong,YE2025 schulden 2636460.61 (ST 2486460.61 + LT voorziening 150000) was 1605082.62; tick1321; primary BBC J4
+bud_hbh_pay_ruil_2025,apb_hbh,2025,346696,,,executed,src_hbh_jr2025_pdf,strong,YE2025 non-fin ST ruil pay 346696.27 was 486369.28; tick1321; primary BBC J4
+bud_hbh_accruals_2025,apb_hbh,2025,2139764,,,executed,src_hbh_jr2025_pdf,strong,YE2025 overlopend passief 2139764.34 was 1118713.34 JUMP; tick1321; primary BBC J4
+bud_hbh_provision_lt_2025,apb_hbh,2025,150000,,,executed,src_hbh_jr2025_pdf,strong,YE2025 LT voorziening andere risico's 150000.00 (niet pensioen / niet fin debt); tick1321; primary BBC J4
+bud_hbh_fin_debt_2025,apb_hbh,2025,0,,,executed,src_hbh_jr2025_pdf,strong,YE2025 T4 fin debt 0 all years; J4 empty financiële schulden; T2 financing empty; tick1321; primary BBC T4/J4/T2
+bud_hbh_equity_2025,apb_hbh,2025,3290611,,,executed,src_hbh_jr2025_pdf,strong,YE2025 nettoactief 3290610.70 was 3175755.02; tick1321; primary BBC J4/T5
+bud_hbh_cum_pnl_2025,apb_hbh,2025,3129269,,,executed,src_hbh_jr2025_pdf,strong,YE2025 gecumuleerd overschot 3129268.95 was 3014413.27; tick1321; primary BBC J4/T5
+bud_hbh_pnl_2025,apb_hbh,2025,114856,,,executed,src_hbh_jr2025_pdf,strong,2025 J5 PnL +114855.68 (ops +100396.81 / fin +14458.87); tick1321; primary BBC J5
+bud_hbh_expl_saldo_2025,apb_hbh,2025,1338745,,,executed,src_hbh_jr2025_pdf,strong,2025 expl saldo +1338745.36 (ontv 4147084.84 / uitg 2808339.48); tick1321; primary BBC J2
+bud_hbh_expl_ontv_2025,apb_hbh,2025,4147085,,,executed,src_hbh_jr2025_pdf,strong,2025 expl ontv 4147084.84; tick1321; primary BBC J2
+bud_hbh_expl_uitg_2025,apb_hbh,2025,2808339,,,executed,src_hbh_jr2025_pdf,strong,2025 expl uitg 2808339.48; tick1321; primary BBC J2
+bud_hbh_invest_2025,apb_hbh,2025,34273,,,executed,src_hbh_jr2025_pdf,strong,2025 invest saldo -34273.19 (uitg 14270.69 / ontv -20002.50 FVA); tick1321; primary BBC J2/T2
+bud_hbh_bbr_2025,apb_hbh,2025,1304472,,,executed,src_hbh_jr2025_pdf,strong,2025 BBR year +1304472.17; tick1321; primary BBC J2
+bud_hbh_cum_bbr_2025,apb_hbh,2025,5114692,,,executed,src_hbh_jr2025_pdf,strong,YE2025 cum BBR 5114692.45 was 3810220.28; tick1321; primary BBC J2
+bud_hbh_afm_2025,apb_hbh,2025,1338745,,,executed,src_hbh_jr2025_pdf,strong,2025 AFM +1338745.36 = gecorr AFM; no afl; tick1321; primary BBC J2
+bud_hbh_pers_2025,apb_hbh,2025,1718049,,,executed,src_hbh_jr2025_pdf,strong,2025 J5/T2 pers 1718049.32; VTE unpublished FOI; tick1321; primary BBC
+bud_hbh_goods_2025,apb_hbh,2025,1080616,,,executed,src_hbh_jr2025_pdf,strong,2025 J5 goederen/diensten 1080615.69 / T2 1090141.37; tick1321; primary BBC
+bud_hbh_werksub_in_2025,apb_hbh,2025,2291212,,,executed,src_hbh_jr2025_pdf,strong,2025 J5 werksub ontv 2291211.99 (alg 1000524.00 + spec 1290687.99); tick1321; primary BBC J5
+bud_hbh_werksub_t2_2025,apb_hbh,2025,3312704,,,executed,src_hbh_jr2025_pdf,strong,2025 T2 werksub kas 3312703.55 (alg provincie 1000524.00 + spec VL 2312179.55); J5/T2 gap 1021491.56 FOI; tick1321; primary BBC T2
+bud_hbh_werksub_prov_2025,apb_hbh,2025,1000524,,,executed,src_hbh_jr2025_pdf,strong,2025 T2/J5 alg werksub van de provincie 1000524.00; tick1321; primary BBC T2/J5
+bud_hbh_werksub_spec_vl_2025,apb_hbh,2025,2312180,,,executed,src_hbh_jr2025_pdf,strong,2025 T2 spec werksub Vlaamse overheid 2312179.55 vs J5 spec 1290687.99; tick1321; primary BBC T2/J5
+bud_hbh_other_ops_2025,apb_hbh,2025,216794,,,executed,src_hbh_jr2025_pdf,strong,2025 J5 andere operationele opbrengsten 216793.58; tick1321; primary BBC J5
+bud_hbh_ops_rev_2025,apb_hbh,2025,638864,,,executed,src_hbh_jr2025_pdf,strong,2025 J5 opbrengsten uit de werking 638864.49; tick1321; primary BBC J5
+bud_hbh_costs_2025,apb_hbh,2025,3046617,,,executed,src_hbh_jr2025_pdf,strong,2025 J5 costs 3046616.70; tick1321; primary BBC J5
+bud_hbh_rev_2025,apb_hbh,2025,3161472,,,executed,src_hbh_jr2025_pdf,strong,2025 J5 opbrengsten 3161472.38; tick1321; primary BBC J5
+bud_hbh_deprec_2025,apb_hbh,2025,247808,,,executed,src_hbh_jr2025_pdf,strong,2025 J5 afschrijvingen/waardeverminderingen/voorzieningen 247808.24; tick1321; primary BBC J5/T5
