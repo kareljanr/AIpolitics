@@ -17389,3 +17389,10 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources+5/entities(new+city note)/budgets+14/commitments+7/leaderboard+7 + FOI ready `gap_cia_k_jr2025_pdf_opaque_city_dual_0_19m_bbr_2_76m_l5` (not sent); rq_1263=done; spawn rq_1264; ticks=1263. No every-10 (1263 not a *0 tick).
 - Next: rq_1264 residual dual L5 VL JR2025 hole_fill (prefer AG Energiebesparingsfonds Antwerpen JR2025 or other unmined AGB/zorg with direct PDF).
 
+
+### Tick 1264 - 2026-08-17 - rq_1264 AG Energiebesparingsfonds dual residual
+- Unit: AG Energiebesparingsfonds Antwerpen JR2025 Entity II after CIA Kunsten tick1263 (KBO 0834.660.452; BBC; RVB 29.05.2026 jr 4 / GR 29.06.2026 `2026_GR_00656`). Distinct from CIA Kunsten/Erfgoed / Vespa / AGSO. Seat Turnhoutsebaan 139, 2140 Borgerhout. Energiehuis / renovatiegolf. Tick217 already had 2026 city lock 0.592m. WAGSO already mined tick1199.
+- EUR strong (GR HTML BBC totals + city dual HTML; PDF internals unknown): BBR year **0.047m**; BBR cum **1.022m**; AFM **0.082m** (vs 2024 BBR **-0.151m** / AFM **-0.131m**, swing **+0.213m**); restmiddelen 2025 **0** after Mijn Verbouwlening (vs 2024 rest **0.0086m** / city 50% **0.0043m**); city 2026 lock **0.592m** of MJP **0.607m**; city 2023 lock **0.265m** of MJP **0.281m**; rise 2023→2026 **0.327m**. City dual 2025 lock HTML not found. BBC/NBB PDFs not retrieved (ebesluit TLS + NBB empty).
+- CSVs: sources+6/entities(patch+city note)/budgets+14/commitments+7/leaderboard+6 + FOI ready `gap_ebf_jr2025_pdf_opaque_city_dual_2025_unknown_bbr_1_02m_l5` (not sent); rq_1264=done; spawn rq_1265; ticks=1264. No every-10 (1264 not a *0 tick).
+- Next: rq_1265 residual dual L5 VL JR2025 hole_fill (prefer AG Digipolis Antwerpen JR2025 GR 2026_GR_00616 assets 73.605m surplus 0.110m or other unmined AGB/zorg with direct PDF).
+

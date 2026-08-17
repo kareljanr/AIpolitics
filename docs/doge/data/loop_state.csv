@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T07:55:00Z,rq_1263,1263,no,tick1263 AG CIA Kunsten JR2025 dual residual; KBO 0738.734.281 BBC+NBB; assets 6.090m BBR=avail 2.757m AFM=gecorr 0.418m PnL 0.257m; city dual werk 0.188m invest 0 drop vs 2023 0.716m; PDFs opaque; FOI ready; next rq_1264 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T08:15:00Z,rq_1264,1264,no,tick1264 AG Energiebesparingsfonds JR2025 dual residual; KBO 0834.660.452 BBC; BBR year 0.047m BBR cum 1.022m AFM 0.082m; city dual 2026 0.592m vs 2023 0.265m; 2025 lock unknown; PDFs opaque; FOI ready; next rq_1265 residual dual L5 VL (prefer Digipolis JR2025); continuous hole_fill

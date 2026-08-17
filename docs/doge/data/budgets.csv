@@ -33811,3 +33811,17 @@ bud_cia_k_pnl_2025,ag_cia_kunsten_antwerpen,2025,256686,,,executed,src_cia_k_jr2
 bud_cia_k_werk_2023,ag_cia_kunsten_antwerpen,2023,715984,,,cbs_vastlegging,src_cia_k_jr2023_cbs03505,strong,CBS 03505 2023 werk 0.715984m (podium 0.616 + events 0.100); tick1263
 bud_cia_k_dual_drop_2023_25,ag_cia_kunsten_antwerpen,2023,528460,,,cbs_vastlegging,src_cia_k_jr2023_cbs03505,strong,City werk drop 0.715984-0.187524=0.528460m (~74%); tick1263
 bud_cia_k_mjp10_expl_2025,ag_cia_kunsten_antwerpen,2025,187524,,,cbs_vastlegging,src_cia_k_jr2025_cbs07873,strong,CBS 06545 MJP aanpassing 10 expl dotatie 0.187524m (matches CBS 07873); tick1263
+bud_ebf_bbr_year_2025,ag_energiebesparingsfonds_antwerpen,2025,46788,,,executed,src_ebf_jr2025_gr00656,strong,GR 00656 BBR boekjaar 0.046788m; tick1264
+bud_ebf_bbr_cum_2025,ag_energiebesparingsfonds_antwerpen,2025,1022437,,,executed,src_ebf_jr2025_gr00656,strong,GR 00656 gecumuleerd BBR 1.022437m; tick1264
+bud_ebf_afm_2025,ag_energiebesparingsfonds_antwerpen,2025,82161,,,executed,src_ebf_jr2025_gr00656,strong,GR 00656 AFM 0.082161m; tick1264
+bud_ebf_rest_city_2025,ag_energiebesparingsfonds_antwerpen,2025,0,,,executed,src_ebf_jr2025_gr00656,strong,GR 00656 geen restmiddelen teruggave na Mijn Verbouwlening; tick1264
+bud_ebf_bbr_year_2024,ag_energiebesparingsfonds_antwerpen,2024,-150943,,,executed,src_ebf_jr2024_rvb00003,strong,RVB 00003 BBR boekjaar -0.150943m; tick1264
+bud_ebf_bbr_cum_2024,ag_energiebesparingsfonds_antwerpen,2024,975650,,,executed,src_ebf_jr2024_rvb00003,strong,RVB 00003 gecumuleerd BBR 0.975650m (CBS 03357 0.975850m +200); tick1264
+bud_ebf_afm_2024,ag_energiebesparingsfonds_antwerpen,2024,-130931,,,executed,src_ebf_jr2024_rvb00003,strong,RVB 00003 AFM -0.130931m; tick1264
+bud_ebf_rest_2024,ag_energiebesparingsfonds_antwerpen,2024,8641.88,,,executed,src_ebf_rest_2024_cbs04706,strong,CBS 04706 restmiddelen 0.00864188m; tick1264
+bud_ebf_rest_city_50_2024,ag_energiebesparingsfonds_antwerpen,2024,4320.94,,,executed,src_ebf_rest_2024_cbs04706,strong,CBS 04706 50% stad 0.00432094m; tick1264
+bud_ebf_afm_swing_2024_25,ag_energiebesparingsfonds_antwerpen,2025,213092,,,executed,src_ebf_jr2025_gr00656,strong,AFM -0.130931m (2024) to +0.082161m (2025) = +0.213092m; tick1264
+bud_ebf_werk_2023,ag_energiebesparingsfonds_antwerpen,2023,264555,,,cbs_vastlegging,src_ebf_werk_2023_cbs00753,strong,CBS 00753 werk locked 0.264555m; tick1264
+bud_ebf_werk_mjp_2023,ag_energiebesparingsfonds_antwerpen,2023,281253.13,,,budgeted,src_ebf_werk_2023_cbs00753,strong,CBS 00753 MJP werk 0.281253m; tick1264
+bud_ebf_werk_index_2024,ag_energiebesparingsfonds_antwerpen,2024,12398.07,,,cbs_vastlegging,src_ebf_werk_2024_cbs09422,strong,CBS 09422 index add-on 0.012398m; main 2024 lock unknown; tick1264
+bud_ebf_city_rise_2023_26,ag_energiebesparingsfonds_antwerpen,2026,326965.4,,,cbs_vastlegging,src_ebesluit_energie_2026,strong,City lock 0.264555m (2023) to 0.591520m (2026) = +0.326965m; tick1264
