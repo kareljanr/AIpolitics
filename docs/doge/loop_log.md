@@ -17311,3 +17311,11 @@ Append-only. Each tick adds a short entry.
 - EUR strong: assets **7.94m**; fin debt **5.97m** (city loans only); AFM **+0.561m** (MJP **+5k**); gecorr AFM **+0.376m** (MJP **-0.184m**); BBR **+2.101m**; PnL **+0.442m**; dividend **0.100m** (budget 0.420m); city prijssub **1.473m** (ticket-factor); tickets **0.464m**; cash JUMP **2.370m**; personnel line absent (goods 1.217m + depr 0.282m).
 - CSVs: sources/entities/budgets+40/commitments+7/leaderboard+7 + FOI ready `gap_agb_geel_cultuur_prijssub_1_47m_city_loans_5_97m_pnl_0_44m_div_0_10m_l5` (not sent); rq_1252=done; spawn rq_1253.
 - Next: rq_1253 residual dual L5 VL JR2025 hole_fill.
+
+
+### Tick 1253 - 2026-08-17 - rq_1253 EVA Gezinswelzijn Lokeren dual residual
+- Unit: EVA Gezinswelzijn JR2025 city dual childcare Entity II after AGB Lokeren tick1200 + Sakura tick1249 (KBO 0416.388.237; 55p NBB verkort OCR + GR 2026_GR_00191 text primary). Distinct from AGB Lokeren and Zorgbedrijf Sakura.
+- EUR strong: assets **0.761m**; equity **0.280m** FROZEN; fin debt **0**; city toelage **0.334m** = budgettair verlies (BKO **61k** + KO **0.274m**); expected **0.744m** (save **0.410m**); PnL **0** designed-to-zero; other recv **0.472m** HIGH; personnel **3.104m** / 54.2 VTE; subsidies **4.033m**; VZW Junior city line **0.193m** JUMP vs kasboek 50k/58k; cash JUMP **0.120m**.
+- CSVs: sources/entities/budgets+40/commitments+7/leaderboard+7 + FOI ready `gap_eva_gw_toelage_0_33m_designed_zero_recv_0_47m_junior_0_19m_l5` (not sent); rq_1253=done; spawn rq_1254.
+- Next: rq_1254 residual dual L5 VL JR2025 hole_fill.
+

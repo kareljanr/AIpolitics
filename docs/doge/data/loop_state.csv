@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T06:35:00Z,rq_1252,1252,no,tick1252 AGB Cultuur Geel dual residual after city GE + AGB Sport; assets 7.94m fin debt 5.97m city loans AFM +0.56m gecorr +0.38m BBR 2.10m PnL +0.44m div 0.10m prijssub 1.47m cash 2.37m JUMP FOI ready; next rq_1253 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T06:42:00Z,rq_1253,1253,no,tick1253 EVA Gezinswelzijn Lokeren dual residual after city GE + AGB + Sakura; assets 0.76m equity frozen 0.28m city toelage 0.33m = budget loss designed-zero other recv 0.47m personnel 3.10m subsidies 4.03m Junior 0.19m cash 0.12m JUMP; FOI ready; next rq_1254 residual dual L5 VL; continuous hole_fill

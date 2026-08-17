@@ -33389,3 +33389,43 @@ bud_agbgc_uitkoop_2025,agb_geel_cultuur,2025,392777,,,bbc_jr_realized,src_agb_ge
 bud_agbgc_goods_2025,agb_geel_cultuur,2025,1217212,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Goederen en diensten 1.217m; tick1252
 bud_agbgc_depr_2025,agb_geel_cultuur,2025,281610,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Afschrijvingen 0.282m; tick1252
 bud_agbgc_omzet_werking_2025,agb_geel_cultuur,2025,2097379,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Opbrengsten uit de werking J5 2.097m; tick1252
+bud_evagw_assets_2025,eva_gezinswelzijn_lokeren,2025,761240,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Assets balanstotaal YE2025 0.761m (vlottend 0.710 + vast 0.052); tick1253
+bud_evagw_current_assets_2025,eva_gezinswelzijn_lokeren,2025,709731,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Vlottende activa YE2025 0.710m (was 0.722m); tick1253
+bud_evagw_cash_2025,eva_gezinswelzijn_lokeren,2025,119628,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Liquide middelen YE2025 0.120m JUMP (was 0.077m); tick1253
+bud_evagw_st_recv_2025,eva_gezinswelzijn_lokeren,2025,590102,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,ST vorderingen YE2025 0.590m; tick1253
+bud_evagw_trade_recv_2025,eva_gezinswelzijn_lokeren,2025,118566,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Handelsvorderingen YE2025 0.119m; tick1253
+bud_evagw_other_recv_2025,eva_gezinswelzijn_lokeren,2025,471536,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Overige vorderingen YE2025 0.472m HIGH; tick1253
+bud_evagw_fixed_assets_2025,eva_gezinswelzijn_lokeren,2025,51510,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Vaste activa YE2025 0.052m (was 0.072m); tick1253
+bud_evagw_mva_2025,eva_gezinswelzijn_lokeren,2025,51510,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,MVA YE2025 0.052m (install 22k + meubilair 19k + overige 11k); tick1253
+bud_evagw_ia_2025,eva_gezinswelzijn_lokeren,2025,0,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Immateriële VA YE2025 0 (was 2.717); tick1253
+bud_evagw_equity_2025,eva_gezinswelzijn_lokeren,2025,279791,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Eigen vermogen YE2025 0.280m FROZEN (was 0.280m); tick1253
+bud_evagw_fondsen_2025,eva_gezinswelzijn_lokeren,2025,174143,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Fondsen vereniging YE2025 0.174m; tick1253
+bud_evagw_retained_2025,eva_gezinswelzijn_lokeren,2025,105648,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Overgedragen winst YE2025 0.106m FROZEN; tick1253
+bud_evagw_st_debt_2025,eva_gezinswelzijn_lokeren,2025,481449,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,ST schulden YE2025 0.481m (was 0.514m); tick1253
+bud_evagw_trade_pay_2025,eva_gezinswelzijn_lokeren,2025,120367,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Handelsschulden YE2025 0.120m; tick1253
+bud_evagw_payroll_pay_2025,eva_gezinswelzijn_lokeren,2025,300910,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Bezoldigingen/sociale lasten schuld YE2025 0.301m; tick1253
+bud_evagw_other_pay_2025,eva_gezinswelzijn_lokeren,2025,60173,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Overige ST schulden YE2025 0.060m; tick1253
+bud_evagw_fin_debt_2025,eva_gezinswelzijn_lokeren,2025,0,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Financiële schulden YE2025 0; tick1253
+bud_evagw_omzet_2025,eva_gezinswelzijn_lokeren,2025,883584,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Omzet 0.884m (was 0.878m); tick1253
+bud_evagw_subsidies_2025,eva_gezinswelzijn_lokeren,2025,4032860,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Lidgeld/schenkingen/subsidies 4.033m (was 4.026m); tick1253
+bud_evagw_brutomarge_2025,eva_gezinswelzijn_lokeren,2025,3128559,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Brutomarge 3.129m (was 3.075m); tick1253
+bud_evagw_goods_2025,eva_gezinswelzijn_lokeren,2025,1787885,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Goederen/diensten 1.788m; tick1253
+bud_evagw_personnel_2025,eva_gezinswelzijn_lokeren,2025,3103689,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Bezoldigingen 3.104m (was 3.044m); tick1253
+bud_evagw_depr_2025,eva_gezinswelzijn_lokeren,2025,23016,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Afschrijvingen 23.016; tick1253
+bud_evagw_other_opex_2025,eva_gezinswelzijn_lokeren,2025,1377,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Andere bedrijfskosten 1.377; tick1253
+bud_evagw_ebit_2025,eva_gezinswelzijn_lokeren,2025,477,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Bedrijfswinst 477 (was 300); tick1253
+bud_evagw_fin_income_2025,eva_gezinswelzijn_lokeren,2025,4,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Financiële opbrengsten 4; tick1253
+bud_evagw_fin_cost_2025,eva_gezinswelzijn_lokeren,2025,481,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Financiële kosten 481; tick1253
+bud_evagw_pnl_2025,eva_gezinswelzijn_lokeren,2025,0,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,PnL 0 designed-to-zero (equity frozen); tick1253
+bud_evagw_city_toelage_2025,eva_gezinswelzijn_lokeren,2025,334441,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,City toelage art.9 = budgettair verlies 0.334m; tick1253
+bud_evagw_bko_toelage_2025,eva_gezinswelzijn_lokeren,2025,60685,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,BKO toelage BI 094502 60.685; tick1253
+bud_evagw_ko_toelage_2025,eva_gezinswelzijn_lokeren,2025,273756,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,KO toelage BI 094500 0.274m; tick1253
+bud_evagw_expected_toelage_2025,eva_gezinswelzijn_lokeren,2025,744153,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Oorspronkelijk gevraagde toelage 0.744m; tick1253
+bud_evagw_toelage_save_2025,eva_gezinswelzijn_lokeren,2025,409711,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Toelage vs expected city save 0.410m; tick1253
+bud_evagw_junior_toelage_2025,eva_gezinswelzijn_lokeren,2025,193111,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,VZW Junior stadstoelage-lijn 0.193m JUMP (was 0.087m); tick1253
+bud_evagw_thuisopvang_2025,eva_gezinswelzijn_lokeren,2025,177568,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Thuisopvang zieke kinderen toelage 0.178m; tick1253
+bud_evagw_mjp2026_nom_2025,eva_gezinswelzijn_lokeren,2025,699521,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,MJP 2026-2031 nominative 0.700m (BKO 0.124 + KO 0.576); tick1253
+bud_evagw_vte_avg_2025,eva_gezinswelzijn_lokeren,2025,54,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,Gemiddeld 54.2 VTE (14.9 FT + 73.8 PT); tick1253
+bud_evagw_vte_ye_2025,eva_gezinswelzijn_lokeren,2025,52,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,YE 51.7 VTE (15 FT + 69 PT); tick1253
+bud_evagw_junior_rsz_2025,eva_gezinswelzijn_lokeren,2025,64481,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,VZW Junior RSZ 64.481 (paid 58.242 + due 6.239); tick1253
+bud_evagw_junior_cash_2025,eva_gezinswelzijn_lokeren,2025,7497,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,VZW Junior YE cash 7.497 (start 13.288); tick1253
