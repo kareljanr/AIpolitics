@@ -34904,3 +34904,42 @@ bud_znhv_gemfonds_2025,city_zonhoven,2025,5531416,,,executed,src_znhv_jr2025_bbc
 bud_znhv_politie_2025,city_zonhoven,2025,3177093,,,executed,src_znhv_jr2025_bbc,strong,T2 PZ Limburg Regio Hoofdstad 3.177093m; tick1301; primary BBC
 bud_znhv_hvz_2025,city_zonhoven,2025,1103029,,,executed,src_znhv_jr2025_bbc,strong,T2 HVZ Zuid-West Limburg 1.103029m; tick1301; primary BBC
 bud_znhv_ocmw_equity_2025,city_zonhoven,2025,7168024,,,executed,src_znhv_jr2025_bbc,strong,T5 OCMW equity +7.168024m; tick1301; primary BBC
+bud_wmmg_assets_2025,city_wommelgem,2025,76002865,,,executed,src_wmmg_jr2025_bbc,strong,J4 assets 76.002865m vs 73.228125m; tick1302; primary BBC
+bud_wmmg_assets_2024,city_wommelgem,2024,73228125,,,executed,src_wmmg_jr2025_bbc,strong,J4 YE2024 assets 73.228125m; tick1302; primary BBC
+bud_wmmg_cash_2025,city_wommelgem,2025,10386815,,,executed,src_wmmg_jr2025_bbc,strong,J4 cash+beleg 10.386815m vs 10.932304m DROP; tick1302; primary BBC
+bud_wmmg_cash_2024,city_wommelgem,2024,10932304,,,executed,src_wmmg_jr2025_bbc,strong,J4 YE2024 cash+beleg 10.932304m; tick1302; primary BBC
+bud_wmmg_fva_2025,city_wommelgem,2025,8128993,,,executed,src_wmmg_jr2025_bbc,strong,T5 FVA 8.128993m; EVA 0 + IGS 8.075m + OCMW-ver 124 + other 0.054m; tick1302; primary BBC
+bud_wmmg_eva_2025,city_wommelgem,2025,0,,,executed,src_wmmg_jr2025_bbc,strong,T5 EVA AGB kapitaal 0 — no AGB Wommelgem; tick1302; primary BBC
+bud_wmmg_igs_2025,city_wommelgem,2025,8075072,,,executed,src_wmmg_jr2025_bbc,strong,T5 IGS FVA 8.075072m; Fluvius reval +0.117403m; tick1302; primary BBC
+bud_wmmg_mva_2025,city_wommelgem,2025,53887175,,,executed,src_wmmg_jr2025_bbc,strong,J4/T5 MVA 53.887175m; leasing 0.773566m; tick1302; primary BBC
+bud_wmmg_leasing_2025,city_wommelgem,2025,773566,,,executed,src_wmmg_jr2025_bbc,strong,T5 leasing MVA 0.773566m Fluvius OV (aankoop 0.435m); tick1302; primary BBC
+bud_wmmg_iva_2025,city_wommelgem,2025,246635,,,executed,src_wmmg_jr2025_bbc,strong,J4/T5 IVA 0.246635m; tick1302; primary BBC
+bud_wmmg_equity_2025,city_wommelgem,2025,60215779,,,executed,src_wmmg_jr2025_bbc,strong,J4 nettoactief 60.215779m vs 57.861524m; tick1302; primary BBC
+bud_wmmg_cum_pnl_2025,city_wommelgem,2025,10992760,,,executed,src_wmmg_jr2025_bbc,strong,J4/T5 cum PnL 10.992760m (city 13.628 / OCMW -2.635); tick1302; primary BBC
+bud_wmmg_reval_2025,city_wommelgem,2025,2489298,,,executed,src_wmmg_jr2025_bbc,strong,J4 herwaarderingsreserves 2.489298m (Fluvius +0.117m); tick1302; primary BBC
+bud_wmmg_fin_debt_2025,city_wommelgem,2025,773566,,,executed,src_wmmg_jr2025_bbc,strong,T4 fin debt 0.773566m (LT 0.711 + ST due 0.062) JUMP vs 0.380m; tick1302; primary BBC
+bud_wmmg_fin_debt_2024,city_wommelgem,2024,379656,,,executed,src_wmmg_jr2025_bbc,strong,T4 YE2024 fin debt 0.379656m; tick1302; primary BBC
+bud_wmmg_fin_debt_lt_2025,city_wommelgem,2025,711435,,,executed,src_wmmg_jr2025_bbc,strong,T4/J4 LT fin debt 0.711435m; tick1302; primary BBC
+bud_wmmg_fin_debt_st_2025,city_wommelgem,2025,62130,,,executed,src_wmmg_jr2025_bbc,strong,T4/J4 ST due 0.062130m; tick1302; primary BBC
+bud_wmmg_new_loans_2025,city_wommelgem,2025,435206,,,executed,src_wmmg_jr2025_bbc,strong,T4 new loans 0.435206m Fluvius leasing; no new bank; tick1302; primary BBC
+bud_wmmg_pension_2025,city_wommelgem,2025,10479156,,,executed,src_wmmg_jr2025_bbc,strong,J4 pension LT 10.479156m vs 10.640897m; tick1302; primary BBC
+bud_wmmg_expl_2025,city_wommelgem,2025,4707647,,,executed,src_wmmg_jr2025_bbc,strong,J2 exploitatiesaldo +4.707647m; tick1302; primary BBC
+bud_wmmg_expl_ontv_2025,city_wommelgem,2025,24605560,,,executed,src_wmmg_jr2025_bbc,strong,J2 expl ontv 24.605560m; tick1302; primary BBC
+bud_wmmg_expl_uitg_2025,city_wommelgem,2025,19897914,,,executed,src_wmmg_jr2025_bbc,strong,J2 expl uitg 19.897914m; tick1302; primary BBC
+bud_wmmg_city_expl_2025,city_wommelgem,2025,6173472,,,executed,src_wmmg_jr2025_bbc,strong,J3 city expl +6.173472m (ontv 21.350 / uitg 15.177); tick1302; primary BBC
+bud_wmmg_ocmw_expl_2025,city_wommelgem,2025,-1465825,,,executed,src_wmmg_jr2025_bbc,strong,J3 OCMW expl -1.465825m (ontv 3.255 / uitg 4.721); tick1302; primary BBC
+bud_wmmg_invest_2025,city_wommelgem,2025,-5171223,,,executed,src_wmmg_jr2025_bbc,strong,J2 invest -5.171223m vs MJP -6.002m; tick1302; primary BBC
+bud_wmmg_bbr_2025,city_wommelgem,2025,-69666,,,executed,src_wmmg_jr2025_bbc,strong,J2 budgettair resultaat boekjaar -0.069666m (GR omitted minus); tick1302; primary BBC
+bud_wmmg_avail_2025,city_wommelgem,2025,10527644,,,executed,src_wmmg_jr2025_bbc,strong,J2 beschikbaar BBR 10.527644m; tick1302; primary BBC
+bud_wmmg_afm_2025,city_wommelgem,2025,4666351,,,executed,src_wmmg_jr2025_bbc,strong,J2 AFM +4.666351m; tick1302; primary BBC
+bud_wmmg_gecorr_2025,city_wommelgem,2025,4677274,,,executed,src_wmmg_jr2025_bbc,strong,J2 gecorr AFM +4.677274m; tick1302; primary BBC
+bud_wmmg_pnl_2025,city_wommelgem,2025,2436851,,,executed,src_wmmg_jr2025_bbc,strong,J5 PnL +2.436851m; city +3.728 / OCMW -1.291; tussen 1.536m; tick1302; primary BBC
+bud_wmmg_tussen_2025,city_wommelgem,2025,1536147,,,executed,src_wmmg_jr2025_bbc,strong,T5 tussenkomst gemeente-OCMW 1.536147m; tick1302; primary BBC
+bud_wmmg_pers_2025,city_wommelgem,2025,8862622,,,executed,src_wmmg_jr2025_bbc,strong,J5/T2 bezoldigingen 8.862622m; VTE unpublished; tick1302; primary BBC
+bud_wmmg_fiscal_2025,city_wommelgem,2025,13389553,,,executed,src_wmmg_jr2025_bbc,strong,J5/T2 fiscale 13.389553m (OV 5.649 + APB 4.206); tick1302; primary BBC
+bud_wmmg_ov_2025,city_wommelgem,2025,5648542,,,executed,src_wmmg_jr2025_bbc,strong,T2 OV 5.648542m; tick1302; primary BBC
+bud_wmmg_apb_2025,city_wommelgem,2025,4206222,,,executed,src_wmmg_jr2025_bbc,strong,T2 APB 4.206222m JUMP vs 3.583m; tick1302; primary BBC
+bud_wmmg_gemfonds_2025,city_wommelgem,2025,3225990,,,executed,src_wmmg_jr2025_bbc,strong,T2 gemeentefonds 3.225990m; tick1302; primary BBC
+bud_wmmg_politie_2025,city_wommelgem,2025,2150852,,,executed,src_wmmg_jr2025_bbc,strong,T2 PZ MINOS 2.150852m JUMP vs 1.925m; tick1302; primary BBC
+bud_wmmg_hvz_2025,city_wommelgem,2025,497157,,,executed,src_wmmg_jr2025_bbc,strong,T2 HVZ Rand werk 0.497157m (+ invest 0.128325m); tick1302; primary BBC
+bud_wmmg_ocmw_equity_2025,city_wommelgem,2025,-1094158,,,executed,src_wmmg_jr2025_bbc,strong,T5 OCMW equity -1.094158m NEG; tick1302; primary BBC
