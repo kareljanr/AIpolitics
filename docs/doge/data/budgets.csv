@@ -34356,3 +34356,44 @@ bud_agbsco_depr_2025,agb_sco_ronse,2025,525026,,,executed,src_agbsco_jr2025_bbc,
 bud_agbsco_omzet_2025,agb_sco_ronse,2025,2581875,,,executed,src_agbsco_jr2025_bbc,strong,J5 opbrengsten uit de werking 2.581875m; tick1286; primary BBC
 bud_agbsco_prijssub_2025,agb_sco_ronse,2025,1704966.12,,,executed,src_agbsco_jr2025_bbc,strong,Doc prijssub city 1.704966m excl / 1.815144m incl BTW; tick1286; primary BBC
 bud_agbsco_city_staff_2025,agb_sco_ronse,2025,778881.17,,,executed,src_agbsco_jr2025_bbc,strong,TB 617 vergoeding personen ter beschikking stad 0.778881m; tick1286; primary BBC
+bud_ronse_assets_2025,city_ronse,2025,172786692,,,executed,src_ronse_jr2025_bbc,strong,J4 assets 172.786692m vs 171.302780m; tick1287; primary BBC
+bud_ronse_assets_2024,city_ronse,2024,171302780,,,executed,src_ronse_jr2025_bbc,strong,J4 YE2024 assets 171.302780m; tick1287; primary BBC
+bud_ronse_cash_2025,city_ronse,2025,4131356,,,executed,src_ronse_jr2025_bbc,strong,J4 cash 4.131356m JUMP vs 2.774122m; tick1287; primary BBC
+bud_ronse_cash_2024,city_ronse,2024,2774122,,,executed,src_ronse_jr2025_bbc,strong,J4 YE2024 cash 2.774122m; tick1287; primary BBC
+bud_ronse_fva_2025,city_ronse,2025,44267784,,,executed,src_ronse_jr2025_bbc,strong,J4 FVA 44.267784m; EVA 3.055m + IGS 41.155m; tick1287; primary BBC
+bud_ronse_eva_2025,city_ronse,2025,3054638,,,executed,src_ronse_jr2025_bbc,strong,J4 EVA FVA 3.054638m (SCO+SOB); tick1287; primary BBC
+bud_ronse_igs_2025,city_ronse,2025,41155449,,,executed,src_ronse_jr2025_bbc,strong,J4 IGS FVA 41.155449m; tick1287; primary BBC
+bud_ronse_mva_2025,city_ronse,2025,75342535,,,executed,src_ronse_jr2025_bbc,strong,J4 MVA 75.342535m; leasing 2.973m; tick1287; primary BBC
+bud_ronse_leasing_2025,city_ronse,2025,2973067,,,executed,src_ronse_jr2025_bbc,strong,J4 leasing MVA 2.973067m; tick1287; primary BBC
+bud_ronse_equity_2025,city_ronse,2025,118774410,,,executed,src_ronse_jr2025_bbc,strong,J4 nettoactief 118.774410m vs 116.491086m; tick1287; primary BBC
+bud_ronse_reval_2025,city_ronse,2025,15247136,,,executed,src_ronse_jr2025_bbc,strong,J4 herwaard 15.247136m vs 14.541052m; tick1287; primary BBC
+bud_ronse_schulden_2025,city_ronse,2025,54012282,,,executed,src_ronse_jr2025_bbc,strong,J4 schulden 54.012282m vs 54.811695m; tick1287; primary BBC
+bud_ronse_fin_debt_2025,city_ronse,2025,25018179,,,executed,src_ronse_jr2025_bbc,strong,T4 fin debt 25.018179m vs 25.022320m; tick1287; primary BBC
+bud_ronse_fin_debt_2024,city_ronse,2024,25022320,,,executed,src_ronse_jr2025_bbc,strong,T4 YE2024 fin debt 25.022320m; tick1287; primary BBC
+bud_ronse_fin_debt_lt_2025,city_ronse,2025,19906219,,,executed,src_ronse_jr2025_bbc,strong,T4/J4 LT fin 19.906219m; tick1287; primary BBC
+bud_ronse_st_due_2025,city_ronse,2025,2611961,,,executed,src_ronse_jr2025_bbc,strong,T4/J4 ST due 2.611961m; tick1287; primary BBC
+bud_ronse_cp_2025,city_ronse,2025,2500000,,,executed,src_ronse_jr2025_bbc,strong,T4/J4 commercial paper 2.500m DROP vs 6.500m; tick1287; primary BBC
+bud_ronse_new_loans_2025,city_ronse,2025,6587668,,,executed,src_ronse_jr2025_bbc,strong,T4/T2 new loans 6.587668m (bank 6.000 + lease 0.588); tick1287; primary BBC
+bud_ronse_afl_2025,city_ronse,2025,2591809,,,executed,src_ronse_jr2025_bbc,strong,T4/J2 periodieke aflossingen 2.591809m; tick1287; primary BBC
+bud_ronse_pension_2025,city_ronse,2025,19501000,,,executed,src_ronse_jr2025_bbc,strong,J4 pension LT 19.501000m DROP vs 21.005065m; tick1287; primary BBC
+bud_ronse_pension_2024,city_ronse,2024,21005065,,,executed,src_ronse_jr2025_bbc,strong,J4 YE2024 pension 21.005065m; tick1287; primary BBC
+bud_ronse_expl_2025,city_ronse,2025,4790479,,,executed,src_ronse_jr2025_bbc,strong,J2 exploitatiesaldo +4.790479m; tick1287; primary BBC
+bud_ronse_expl_ontv_2025,city_ronse,2025,57851995,,,executed,src_ronse_jr2025_bbc,strong,J2 expl ontv 57.851995m; tick1287; primary BBC
+bud_ronse_expl_uitg_2025,city_ronse,2025,53061516,,,executed,src_ronse_jr2025_bbc,strong,J2 expl uitg 53.061516m; tick1287; primary BBC
+bud_ronse_city_expl_2025,city_ronse,2025,10138736,,,executed,src_ronse_jr2025_bbc,strong,J3 city expl +10.138736m (ontv 49.280 / uitg 39.142); tick1287; primary BBC
+bud_ronse_ocmw_expl_2025,city_ronse,2025,-5348258,,,executed,src_ronse_jr2025_bbc,strong,J3 OCMW expl -5.348258m (ontv 8.572 / uitg 13.920); tick1287; primary BBC
+bud_ronse_invest_2025,city_ronse,2025,-3556074,,,executed,src_ronse_jr2025_bbc,strong,J2 invest saldo -3.556074m; tick1287; primary BBC
+bud_ronse_bbr_2025,city_ronse,2025,7361499,,,executed,src_ronse_jr2025_bbc,strong,J2 budgettair resultaat boekjaar +7.361499m; tick1287; primary BBC
+bud_ronse_avail_2025,city_ronse,2025,12475617,,,executed,src_ronse_jr2025_bbc,strong,J2 beschikbaar BBR 12.475617m (onbeschikbaar 0.187m); tick1287; primary BBC
+bud_ronse_afm_2025,city_ronse,2025,4467292,,,executed,src_ronse_jr2025_bbc,strong,J2 AFM +4.467292m; tick1287; primary BBC
+bud_ronse_gecorr_2025,city_ronse,2025,5057315,,,executed,src_ronse_jr2025_bbc,strong,J2 gecorr AFM +5.057315m (aangewezen 2.002m); tick1287; primary BBC
+bud_ronse_pnl_2025,city_ronse,2025,653618,,,executed,src_ronse_jr2025_bbc,strong,J5 PnL +0.653618m vs -6.379435m; tick1287; primary BBC
+bud_ronse_pers_2025,city_ronse,2025,28558510,,,executed,src_ronse_jr2025_bbc,strong,T2 bezoldigingen 28.558510m (J5 28.513750m); tick1287; primary BBC
+bud_ronse_fiscal_2025,city_ronse,2025,24722707,,,executed,src_ronse_jr2025_bbc,strong,T2 fiscale 24.722707m (OV 10.929 + APB 8.183); tick1287; primary BBC
+bud_ronse_gemfonds_2025,city_ronse,2025,12823289,,,executed,src_ronse_jr2025_bbc,strong,T2 gemeentefonds 12.823289m; tick1287; primary BBC
+bud_ronse_police_2025,city_ronse,2025,5141868,,,executed,src_ronse_jr2025_bbc,strong,T2 politiezone 5.141868m; tick1287; primary BBC
+bud_ronse_hvz_2025,city_ronse,2025,833236,,,executed,src_ronse_jr2025_bbc,strong,T2 HVZ Vlaamse Ardennen 0.833236m; tick1287; primary BBC
+bud_ronse_agb_sub_2025,city_ronse,2025,2300865,,,executed,src_ronse_jr2025_bbc,strong,T2 AGB werksub 2.300865m (SCO 1.578+0.237 + SOB 0.486); tick1287; primary BBC
+bud_ronse_agb_loans_2025,city_ronse,2025,28528777,,,executed,src_ronse_jr2025_bbc,strong,TB 2903004 toegestane AGB-leningen 28.528777m; tick1287; primary BBC
+bud_ronse_ocmw_tussen_2025,city_ronse,2025,5102638,,,executed,src_ronse_jr2025_bbc,strong,Kengetallen/AR tussenkomst OCMW 5.102638m; tick1287; primary BBC
+bud_ronse_leefloon_2025,city_ronse,2025,3645308,,,executed,src_ronse_jr2025_bbc,strong,T2/J5 individuele hulp 3.645308m vs 3.060259m; tick1287; primary BBC
