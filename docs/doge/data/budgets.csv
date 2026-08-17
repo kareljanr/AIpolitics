@@ -33797,3 +33797,17 @@ bud_cia_e_dual_plus_it_2025,ag_cia_erfgoed_antwerpen,2025,11625913,,,cbs_vastleg
 bud_cia_e_mjp10_expl_2025,ag_cia_erfgoed_antwerpen,2025,5384841,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,CBS 06545 MJP aanpassing 10 expl dotatie 5.38484066m (matches CBS 07873); tick1262
 bud_cia_e_mjp10_invest_planned_2025,ag_cia_erfgoed_antwerpen,2025,7374960,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,CBS 06545 MJP aanpassing 10 invest dotatie 7.37495985m; tick1262
 bud_cia_e_mjp10_invest_gap_2025,ag_cia_erfgoed_antwerpen,2025,1415888,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,MJP invest 7.375m minus CBS nom 5.959m = 1.41588797m unrealized/uncommitted; tick1262
+bud_cia_k_werk_2025,ag_cia_kunsten_antwerpen,2025,187524,,,cbs_vastlegging,src_cia_k_jr2025_cbs07873,strong,CBS 07873 werkingssubsidie 0.187524m (podium+events); tick1263
+bud_cia_k_podium_werk_2025,ag_cia_kunsten_antwerpen,2025,87524,,,cbs_vastlegging,src_cia_k_jr2025_cbs07873,strong,CBS 07873 2BRS010109 podiumkunsten 0.087524m; tick1263
+bud_cia_k_events_werk_2025,ag_cia_kunsten_antwerpen,2025,100000,,,cbs_vastlegging,src_cia_k_jr2025_cbs07873,strong,CBS 07873 2BRS010303 cultuurevenementen 0.100m; tick1263
+bud_cia_k_invest_2025,ag_cia_kunsten_antwerpen,2025,0,,,cbs_vastlegging,src_cia_k_jr2025_cbs07873,strong,CBS 07873 + MJP10: geen investeringsdotatie Kunsten; tick1263
+bud_cia_k_dual_2025,ag_cia_kunsten_antwerpen,2025,187524,,,cbs_vastlegging,src_cia_k_jr2025_cbs07873,strong,CBS 07873 city dual werk only 0.187524m; tick1263
+bud_cia_k_assets_2025,ag_cia_kunsten_antwerpen,2025,6089636,,,executed,src_cia_k_jr2025_rvb00010,strong,RVB 00010 balanstotaal 6.089636m 31.12.2025; tick1263
+bud_cia_k_bbr_2025,ag_cia_kunsten_antwerpen,2025,2756636,,,executed,src_cia_k_jr2025_rvb00010,strong,RVB 00010 gecumuleerd BBR 2.756636m; tick1263
+bud_cia_k_avail_bbr_2025,ag_cia_kunsten_antwerpen,2025,2756636,,,executed,src_cia_k_jr2025_rvb00010,strong,RVB 00010 beschikbaar BBR 2.756636m (= gecumuleerd); tick1263
+bud_cia_k_afm_2025,ag_cia_kunsten_antwerpen,2025,418177,,,executed,src_cia_k_jr2025_rvb00010,strong,RVB 00010 AFM 0.418177m; tick1263
+bud_cia_k_gecorr_afm_2025,ag_cia_kunsten_antwerpen,2025,418177,,,executed,src_cia_k_jr2025_rvb00010,strong,RVB 00010 gecorr AFM 0.418177m (= AFM); tick1263
+bud_cia_k_pnl_2025,ag_cia_kunsten_antwerpen,2025,256686,,,executed,src_cia_k_jr2025_rvb00010,strong,RVB 00010 boekhoudkundig resultaat 0.256686m; tick1263
+bud_cia_k_werk_2023,ag_cia_kunsten_antwerpen,2023,715984,,,cbs_vastlegging,src_cia_k_jr2023_cbs03505,strong,CBS 03505 2023 werk 0.715984m (podium 0.616 + events 0.100); tick1263
+bud_cia_k_dual_drop_2023_25,ag_cia_kunsten_antwerpen,2023,528460,,,cbs_vastlegging,src_cia_k_jr2023_cbs03505,strong,City werk drop 0.715984-0.187524=0.528460m (~74%); tick1263
+bud_cia_k_mjp10_expl_2025,ag_cia_kunsten_antwerpen,2025,187524,,,cbs_vastlegging,src_cia_k_jr2025_cbs07873,strong,CBS 06545 MJP aanpassing 10 expl dotatie 0.187524m (matches CBS 07873); tick1263

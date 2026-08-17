@@ -17382,3 +17382,10 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources+4/entities(upgrade+city note)/budgets+18/commitments+7/leaderboard+7 + FOI ready `gap_cia_e_bbc_jr2025_opaque_city_dual_11_34m_l5` (not sent); rq_1262=done; spawn rq_1263; ticks=1262. No every-10 (1262 not a *0 tick).
 - Next: rq_1263 residual dual L5 VL JR2025 hole_fill (prefer AG CIA Kunsten Antwerpen JR2025 PDF 2026_GR_00637 NBB+BBC).
 
+
+### Tick 1263 - 2026-08-17 - rq_1263 AG CIA Kunsten dual residual
+- Unit: AG Culturele Instellingen Antwerpen/Kunsten JR2025 Entity II after city package + sibling AG CIA Erfgoed tick1262 (KBO 0738.734.281; BBC+NBB; RVB 22.06.2026 `2026_RVBKUNSTEN_00010` / GR 29.06.2026 `2026_GR_00637`). Distinct from Gent AGB cluster 1255–1259 and from sibling AG CIA Erfgoed (0738.733.786). Seat Grote Markt 1; venues Arenbergstraat 28 + Turnhoutsebaan 246. WAGSO already mined tick1199.
+- EUR strong (RVB HTML BBC totals + city dual HTML; PDF internals unknown): assets **6.090m**; BBR = avail **2.757m**; AFM = gecorr **0.418m**; PnL **0.257m**; city werk **0.188m** (podium **0.088m** + events **0.100m**) + invest **0** = dual **0.188m**; city werk drop vs 2023 **0.716m** = **0.528m** (~74%). Motiv typo 0.705m ignored (table+art1=0.188m). Restmiddelen provisioned, exact TBD. BBC+NBB PDFs named (`AG CIA K_JR25_final BBC.pdf` + `venn B.pdf`) but ebesluit TLS + NBB 403.
+- CSVs: sources+5/entities(new+city note)/budgets+14/commitments+7/leaderboard+7 + FOI ready `gap_cia_k_jr2025_pdf_opaque_city_dual_0_19m_bbr_2_76m_l5` (not sent); rq_1263=done; spawn rq_1264; ticks=1263. No every-10 (1263 not a *0 tick).
+- Next: rq_1264 residual dual L5 VL JR2025 hole_fill (prefer AG Energiebesparingsfonds Antwerpen JR2025 or other unmined AGB/zorg with direct PDF).
+
