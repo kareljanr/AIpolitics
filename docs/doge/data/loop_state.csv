@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T08:15:00Z,rq_1264,1264,no,tick1264 AG Energiebesparingsfonds JR2025 dual residual; KBO 0834.660.452 BBC; BBR year 0.047m BBR cum 1.022m AFM 0.082m; city dual 2026 0.592m vs 2023 0.265m; 2025 lock unknown; PDFs opaque; FOI ready; next rq_1265 residual dual L5 VL (prefer Digipolis JR2025); continuous hole_fill
+main,continuous,hole_fill,2026-08-17T08:20:00Z,rq_1265,1265,no,tick1265 AG Digipolis Antwerpen JR2025 dual residual; KBO 0751.541.350 BBC; assets 73.605m surplus 0.110m vs 2024 75.856m / -0.693m; member omzet 221.900m; PDFs opaque; FOI ready; next rq_1266 residual dual L5 VL (prefer Atlas/Integratie JR2025); continuous hole_fill

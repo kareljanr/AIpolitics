@@ -17396,3 +17396,10 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources+6/entities(patch+city note)/budgets+14/commitments+7/leaderboard+6 + FOI ready `gap_ebf_jr2025_pdf_opaque_city_dual_2025_unknown_bbr_1_02m_l5` (not sent); rq_1264=done; spawn rq_1265; ticks=1264. No every-10 (1264 not a *0 tick).
 - Next: rq_1265 residual dual L5 VL JR2025 hole_fill (prefer AG Digipolis Antwerpen JR2025 GR 2026_GR_00616 assets 73.605m surplus 0.110m or other unmined AGB/zorg with direct PDF).
 
+
+### Tick 1265 - 2026-08-17 - rq_1265 AG Digipolis Antwerpen dual residual
+- Unit: AG Digipolis Antwerpen JR2025 Entity II ICT cost-sharing AGB after EBF tick1264 (KBO 0751.541.350; BBC; RVB 29.04.2026 / GR 29.06.2026 `2026_GR_00616`). **Distinct from AGB District09 Gent** (KBO 0749.998.654, tick1258). Seat Grote Markt 1, 2000 Antwerpen; vestiging Francis Wellesplein 1, 2018 Antwerpen (VE 2.309.779.836). Ticks 213/225/226 already had MJP 245.610m / member omzet / city+PZA locks. WAGSO already mined tick1199.
+- EUR strong (GR HTML BBC headlines + prior MJP/city dual; PDF internals unknown): assets **73.605m** (was **75.856m**, drop **2.251m**); surplus **0.110m** (vs 2024 deficit **0.693m**, swing **+0.803m**); member omzet 2025 **221.900m** / MJP 2026 **245.610m**; city 2025 package **75.201m** + PZA **53.528m** = dual **128.729m**; city 2026 lock **38.814m** vs stad recharge **138.021m**. BBC/NBB PDFs not retrieved (ebesluit TLS + NBB 403 + org site empty). CBS 2026 college analog not found.
+- CSVs: sources+3/entities(patch+city note)/budgets+8/commitments+7/leaderboard+6 + FOI ready `gap_digipolis_jr2025_pdf_opaque_assets_73_61m_surplus_0_11m_l5` (not sent); rq_1265=done; spawn rq_1266; ticks=1265. No every-10 (1265 not a *0 tick).
+- Next: rq_1266 residual dual L5 VL JR2025 hole_fill (prefer vzw Integratie & Inburgering Antwerpen / Atlas JR2025 GR 2026_GR_00622 KBO 0421.722.346 or other unmined AGB/zorg with direct PDF).
+

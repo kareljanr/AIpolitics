@@ -33825,3 +33825,11 @@ bud_ebf_werk_2023,ag_energiebesparingsfonds_antwerpen,2023,264555,,,cbs_vastlegg
 bud_ebf_werk_mjp_2023,ag_energiebesparingsfonds_antwerpen,2023,281253.13,,,budgeted,src_ebf_werk_2023_cbs00753,strong,CBS 00753 MJP werk 0.281253m; tick1264
 bud_ebf_werk_index_2024,ag_energiebesparingsfonds_antwerpen,2024,12398.07,,,cbs_vastlegging,src_ebf_werk_2024_cbs09422,strong,CBS 09422 index add-on 0.012398m; main 2024 lock unknown; tick1264
 bud_ebf_city_rise_2023_26,ag_energiebesparingsfonds_antwerpen,2026,326965.4,,,cbs_vastlegging,src_ebesluit_energie_2026,strong,City lock 0.264555m (2023) to 0.591520m (2026) = +0.326965m; tick1264
+bud_digipolis_assets_2025,digipolis_antwerpen,2025,73605124,,,executed,src_digipolis_jr2025_gr00616,strong,GR 00616 balanstotaal 73.605124m; tick1265
+bud_digipolis_surplus_2025,digipolis_antwerpen,2025,109871,,,executed,src_digipolis_jr2025_gr00616,strong,GR 00616 overschot boekjaar 0.109871m overgedragen; tick1265
+bud_digipolis_assets_2024,digipolis_antwerpen,2024,75856194,,,executed,src_digipolis_jr2024_gr00424,strong,GR 00424 balanstotaal 75.856194m; tick1265
+bud_digipolis_deficit_2024,digipolis_antwerpen,2024,-692714,,,executed,src_digipolis_jr2024_gr00424,strong,GR 00424 tekort boekjaar -0.692714m overgedragen; tick1265
+bud_digipolis_assets_drop_2024_25,digipolis_antwerpen,2025,2251070,,,executed,src_digipolis_jr2025_gr00616,strong,Assets 75.856194m (2024) to 73.605124m (2025) = drop 2.251070m; tick1265
+bud_digipolis_surplus_swing_2024_25,digipolis_antwerpen,2025,802585,,,executed,src_digipolis_jr2025_gr00616,strong,PnL -0.692714m (2024) to +0.109871m (2025) = swing +0.802585m; tick1265
+bud_digipolis_bs_vs_member_omzet_2025,digipolis_antwerpen,2025,148294484.67,,,executed,src_digipolis_jr2025_gr00616,strong,Member omzet 221.899609m minus BS 73.605124m = 148.294485m pass-through residual (not a cash gap); tick1265
+bud_digipolis_revisor_fee_2025,digipolis_antwerpen,2025,12505,,,budgeted,src_digipolis_jr2025_gr00616,strong,Callens/Vandelanotte/Theunissen 12.505/year 2024-2026 (2024_GR_00536 path; already in HTML); tick1265
