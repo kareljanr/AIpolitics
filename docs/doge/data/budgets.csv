@@ -33576,3 +33576,60 @@ bud_iva_hhg_od10062_t3_erfgoed_2025,iva_historische_huizen_gent,2025,381454,,,bb
 bud_iva_hhg_od10062_t3_rec_2025,iva_historische_huizen_gent,2025,42000,,,bbc_jr_realized,src_iva_hhg_jr2025_city,strong,OD10062 T3 investeringssubsidies 42.000; tick1257
 bud_iva_hhg_meeting_spa_2025,iva_historische_huizen_gent,2025,51128,,,bbc_jr_realized,src_iva_hhg_jr2025_city,strong,OD10062 2025 aangerekend meeting-infra Sint-Pietersabdij 51.128; tick1257
 bud_iva_hhg_dept_csvt_2025,city_gent,2025,-101447860,,,bbc_jr_realized,src_iva_hhg_jr2025_city,strong,Departement Cultuur Sport Vrije Tijd organogram net -101.45m (context; not IVA-only); tick1257
+bud_d09_assets_2025,agb_district09_gent,2025,16569803,,,bbc_jr_realized,src_d09_jr2025,strong,Assets balanstotaal YE2025 16.570m (was 19.478m) DROP; tick1258
+bud_d09_current_2025,agb_district09_gent,2025,15645668,,,bbc_jr_realized,src_d09_jr2025,strong,Vlottende activa YE2025 15.646m (94% of assets); tick1258
+bud_d09_cash_2025,agb_district09_gent,2025,1745525,,,bbc_jr_realized,src_d09_jr2025,strong,Liquide middelen YE2025 1.746m DROP (was 3.065m); tick1258
+bud_d09_cash_2024,agb_district09_gent,2024,3064656,,,bbc_jr_realized,src_d09_jr2025,strong,Liquide middelen YE2024 3.065m (prior-year comparator); tick1258
+bud_d09_st_recv_2025,agb_district09_gent,2025,9778988,,,bbc_jr_realized,src_d09_jr2025,strong,ST vorderingen YE2025 9.779m; tick1258
+bud_d09_ruil_recv_2025,agb_district09_gent,2025,9431194,,,bbc_jr_realized,src_d09_jr2025,strong,ST ruil-vorderingen YE2025 9.431m; tick1258
+bud_d09_nietruil_recv_2025,agb_district09_gent,2025,347794,,,bbc_jr_realized,src_d09_jr2025,strong,ST niet-ruil vorderingen YE2025 0.348m DROP (was 1.283m); tick1258
+bud_d09_inventory_2025,agb_district09_gent,2025,154841,,,bbc_jr_realized,src_d09_jr2025,strong,Voorraad YE2025 0.155m (was 0.225m) BBR-driver; tick1258
+bud_d09_accruals_act_2025,agb_district09_gent,2025,3966315,,,bbc_jr_realized,src_d09_jr2025,strong,Overlopende rekeningen actief YE2025 3.966m; tick1258
+bud_d09_fixed_2025,agb_district09_gent,2025,924135,,,bbc_jr_realized,src_d09_jr2025,strong,Vaste activa YE2025 0.924m (6% of assets); tick1258
+bud_d09_iva_2025,agb_district09_gent,2025,847371,,,bbc_jr_realized,src_d09_jr2025,strong,Immateriele VA (software/licenties) YE2025 0.847m; tick1258
+bud_d09_mva_2025,agb_district09_gent,2025,70368,,,bbc_jr_realized,src_d09_jr2025,strong,Materiele VA kantooruitrusting YE2025 70.368; tick1258
+bud_d09_fva_2025,agb_district09_gent,2025,6396,,,bbc_jr_realized,src_d09_jr2025,strong,Fin VA waarborgen+Poolstok YE2025 6.396; tick1258
+bud_d09_debt_2025,agb_district09_gent,2025,15915153,,,bbc_jr_realized,src_d09_jr2025,strong,Schulden totaal YE2025 15.915m (96% of passiva); tick1258
+bud_d09_st_debt_2025,agb_district09_gent,2025,15888636,,,bbc_jr_realized,src_d09_jr2025,strong,ST schulden YE2025 15.889m (ruil 11.728 + niet-ruil 0.199 + overlopend 3.962); tick1258
+bud_d09_st_ruil_debt_2025,agb_district09_gent,2025,11727886,,,bbc_jr_realized,src_d09_jr2025,strong,ST ruil-schulden YE2025 11.728m (voorzieningen 1.061 + niet-fin 10.667); tick1258
+bud_d09_lt_prov_2025,agb_district09_gent,2025,26517,,,bbc_jr_realized,src_d09_jr2025,strong,LT voorziening BTW-geschil pre-oprichting YE2025 26.517; tick1258
+bud_d09_equity_2025,agb_district09_gent,2025,654650,,,bbc_jr_realized,src_d09_jr2025,strong,Nettoactief YE2025 0.655m; tick1258
+bud_d09_capsub_2025,agb_district09_gent,2025,917739,,,bbc_jr_realized,src_d09_jr2025,strong,Kapitaalsubsidies en schenkingen YE2025 0.918m; tick1258
+bud_d09_cum_deficit_2025,agb_district09_gent,2025,-263089,,,bbc_jr_realized,src_d09_jr2025,strong,Gecumuleerd tekort YE2025 -0.263m (year -35.067); tick1258
+bud_d09_fin_debt_2025,agb_district09_gent,2025,0,,,bbc_jr_realized,src_d09_jr2025,strong,Financiele schulden YE2025 0 (T4; geen kredietlijn Belfius); tick1258
+bud_d09_expl_rec_2025,agb_district09_gent,2025,63408968,,,bbc_jr_realized,src_d09_jr2025,strong,J2 exploitatieontvangsten 63.409m (92% van budget 68.825m); tick1258
+bud_d09_expl_exp_2025,agb_district09_gent,2025,63325720,,,bbc_jr_realized,src_d09_jr2025,strong,J2 exploitatieuitgaven 63.326m (92% van budget 68.825m); tick1258
+bud_d09_expl_saldo_2025,agb_district09_gent,2025,83249,,,bbc_jr_realized,src_d09_jr2025,strong,J2 exploitatiesaldo +83.249 (voorraadafbouw); tick1258
+bud_d09_bbr_2025,agb_district09_gent,2025,83249,,,bbc_jr_realized,src_d09_jr2025,strong,Budgettair resultaat boekjaar +83.249; tick1258
+bud_d09_cum_bbr_2025,agb_district09_gent,2025,658674,,,bbc_jr_realized,src_d09_jr2025,strong,Gecumuleerd BBR YE2025 +0.659m (was +0.575m); tick1258
+bud_d09_afm_2025,agb_district09_gent,2025,83249,,,bbc_jr_realized,src_d09_jr2025,strong,AFM +83.249 = expl saldo (geen aflossingen); tick1258
+bud_d09_gecorr_afm_2025,agb_district09_gent,2025,83249,,,bbc_jr_realized,src_d09_jr2025,strong,Gecorrigeerde AFM +83.249; tick1258
+bud_d09_invest_2025,agb_district09_gent,2025,0,,,bbc_jr_realized,src_d09_jr2025,strong,Investeringssaldo 0 (software/hardware via expl goederen); tick1258
+bud_d09_fin_2025,agb_district09_gent,2025,0,,,bbc_jr_realized,src_d09_jr2025,strong,Financieringssaldo 0; tick1258
+bud_d09_costs_2025,agb_district09_gent,2025,64693165,,,bbc_jr_realized,src_d09_jr2025,strong,J5 kosten 64.693m; tick1258
+bud_d09_goods_2025,agb_district09_gent,2025,43690227,,,bbc_jr_realized,src_d09_jr2025,strong,J5 goederen en diensten 43.690m (67% of op costs); tick1258
+bud_d09_personnel_2025,agb_district09_gent,2025,20473315,,,bbc_jr_realized,src_d09_jr2025,strong,J5 personeel 20.473m / 197.76 VTE; tick1258
+bud_d09_personnel_t2_2025,agb_district09_gent,2025,20409202,,,bbc_jr_realized,src_d09_jr2025,strong,T2 personeel cash 20.409m (91.81% of budget 22.230m); tick1258
+bud_d09_depr_2025,agb_district09_gent,2025,523050,,,bbc_jr_realized,src_d09_jr2025,strong,J5 afschrijvingen/waardeverm/voorz 0.523m; tick1258
+bud_d09_revenue_2025,agb_district09_gent,2025,64658098,,,bbc_jr_realized,src_d09_jr2025,strong,J5 opbrengsten 64.658m; tick1258
+bud_d09_werking_2025,agb_district09_gent,2025,63141900,,,bbc_jr_realized,src_d09_jr2025,strong,J5 opbrengsten uit de werking 63.142m; tick1258
+bud_d09_werking_t2_2025,agb_district09_gent,2025,62367324,,,bbc_jr_realized,src_d09_jr2025,strong,T2 ontvangsten uit de werking 62.367m; tick1258
+bud_d09_it_lid_2025,agb_district09_gent,2025,56325940,,,bbc_jr_realized,src_d09_jr2025,strong,T2 7016000 Vk informaticadiensten leden 56.326m; tick1258
+bud_d09_goods_sales_2025,agb_district09_gent,2025,5706490,,,bbc_jr_realized,src_d09_jr2025,strong,T2 7000000 verkoop goederen 5.706m; tick1258
+bud_d09_it_nlid_2025,agb_district09_gent,2025,348192,,,bbc_jr_realized,src_d09_jr2025,strong,T2 7016001 Vk informaticadiensten niet-leden 0.348m; tick1258
+bud_d09_externals_2025,agb_district09_gent,2025,13553037,,,bbc_jr_realized,src_d09_jr2025,strong,T2 6022010 inhuren externen 13.553m (104% budget); tick1258
+bud_d09_hwsw_2025,agb_district09_gent,2025,15652736,,,bbc_jr_realized,src_d09_jr2025,strong,T2 6022200 OH-contracten HW/SW 15.653m; tick1258
+bud_d09_it_buy_2025,agb_district09_gent,2025,2820717,,,bbc_jr_realized,src_d09_jr2025,strong,T2 6022000 aankoop informaticadiensten 2.821m; tick1258
+bud_d09_spec_sub_2025,agb_district09_gent,2025,733516,,,bbc_jr_realized,src_d09_jr2025,strong,Specifieke werkingssubsidies 0.734m (fed 0.328 + VL 0.311 + and 0.094); tick1258
+bud_d09_vl_sub_2025,agb_district09_gent,2025,311313,,,bbc_jr_realized,src_d09_jr2025,strong,VL spec werkingssub 0.311m (EFRO cyber 0.171 + Digibanken 0.140); tick1258
+bud_d09_efro_2025,agb_district09_gent,2025,171466,,,bbc_jr_realized,src_d09_jr2025,strong,EFRO cybersecurity 0.171m; tick1258
+bud_d09_digibanken_2025,agb_district09_gent,2025,139846,,,bbc_jr_realized,src_d09_jr2025,strong,Digibanken 0.140m; tick1258
+bud_d09_fed_bv_2025,agb_district09_gent,2025,328195,,,bbc_jr_realized,src_d09_jr2025,strong,Fed vrijstelling BV O&O 0.328m (2024 diplomas; budget 0.225m); tick1258
+bud_d09_other_spec_2025,agb_district09_gent,2025,94008,,,bbc_jr_realized,src_d09_jr2025,strong,Andere spec werkingssub 94.008 (Space4Cities 64.094 + Digicoach@work 29.914); tick1258
+bud_d09_space4cities_2025,agb_district09_gent,2025,64094,,,bbc_jr_realized,src_d09_jr2025,strong,Space4Cities Horizon Europe 64.094; tick1258
+bud_d09_digicoach_2025,agb_district09_gent,2025,29914,,,bbc_jr_realized,src_d09_jr2025,strong,Digicoach@work 29.914; tick1258
+bud_d09_other_ops_2025,agb_district09_gent,2025,289567,,,bbc_jr_realized,src_d09_jr2025,strong,J5 andere operationele opbrengsten 0.290m; tick1258
+bud_d09_fin_inc_2025,agb_district09_gent,2025,493115,,,bbc_jr_realized,src_d09_jr2025,strong,J5 financiele opbrengsten 0.493m (kapitaalsub 0.474 + intrest 0.019); tick1258
+bud_d09_pnl_2025,agb_district09_gent,2025,-35067,,,bbc_jr_realized,src_d09_jr2025,strong,J5 tekort boekjaar -35.067; tick1258
+bud_d09_op_pnl_2025,agb_district09_gent,2025,-528044,,,bbc_jr_realized,src_d09_jr2025,strong,J5 operationeel tekort -0.528m; tick1258
+bud_d09_vacation_cont_2025,agb_district09_gent,2025,1478265,,,bbc_jr_realized,src_d09_jr2025,strong,Contingente kost 4071 overgedragen vakantiedagen 1.478m; tick1258

@@ -17346,3 +17346,10 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources+2/entities(+city note)/budgets+14/commitments+7/leaderboard+7 + FOI ready `gap_iva_hhg_expl_7_05m_net_0_61m_extra_comptabel_inkanteling_l5` (not sent); rq_1257=done; spawn rq_1258.
 - Next: rq_1258 residual dual L5 VL JR2025 hole_fill (prefer AGB District09 Gent or sogent JR2025 if separate PDF).
 
+
+### Tick 1258 - 2026-08-17 - rq_1258 AGB District09 Gent dual residual
+- Unit: AGB District09 Gent JR2025 Entity II after city Gent stub tick101 + culture AGBs ticks 1255–1257 (KBO 0749.998.654; 133p BBC text primary; RVB 18.05.2026 / GR 2026_GR_00563 23.06.2026). Distinct from AGB Kunsten en Design / Erfgoed / IVA Historische Huizen. Groep Gent digital/IT cost-recovery AGB (Digipolis successor). sogent still unmined.
+- EUR strong: assets **16.570m** DROP (was 19.478m); cash **1.746m** DROP (was 3.065m); ST recv **9.779m** (ruil **9.431m**); ST debt **15.889m**; fin debt **0**; expl rec **63.409m** / exp **63.326m**; BBR/AFM/gecorr **+83.249**; cum BBR **+0.659m**; member IT recharge **56.326m**; goods **43.690m** (externals **13.553m** + HW/SW **15.653m** + IT buy **2.821m**); personnel **20.473m** / **197.76 VTE** (+6.63); spec sub **0.734m** (fed BV O&O **0.328m** + VL EFRO/Digibanken **0.311m**); PnL **−35.067**; city werkingssub **0**.
+- CSVs: sources+1/entities(+city note)/budgets+57/commitments+7/leaderboard+7 + FOI ready `gap_d09_member_it_56_33m_externals_13_55m_dual_l5` (not sent); rq_1258=done; spawn rq_1259.
+- Next: rq_1259 residual dual L5 VL JR2025 hole_fill (prefer sogent JR2025 if separate PDF exists).
+
