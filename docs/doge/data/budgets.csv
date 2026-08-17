@@ -35239,3 +35239,42 @@ bud_agbmsk_rev_2025,agb_maaseik,2025,209479,,,executed,src_agbmsk_jr2025_pdf,str
 bud_agbmsk_interest_2025,agb_maaseik,2025,97801,,,executed,src_agbmsk_jr2025_pdf,strong,2025 J5 financiele kosten 97801; toelichting cash 97752 FOI; tick1311; primary BBC
 bud_agbmsk_kapsub_2025,agb_maaseik,2025,57581,,,executed,src_agbmsk_jr2025_pdf,strong,YE2025 kapitaalssubsidies 57581; tick1311; primary BBC
 bud_agbmsk_total_debt_2025,agb_maaseik,2025,1679260,,,executed,src_agbmsk_jr2025_pdf,strong,YE2025 total schulden 1679260 incl non-fin; tick1311; primary BBC
+bud_agbim_assets_2025,agb_infrastructuur_maaseik,2025,20412570,,,executed,src_agbim_jr2025_pdf,strong,J4 assets 20412569.50 vs 19603265.77; tick1312; primary BBC
+bud_agbim_assets_2024,agb_infrastructuur_maaseik,2024,19603266,,,executed,src_agbim_jr2025_pdf,strong,J4 YE2024 assets 19603265.77; tick1312; primary BBC
+bud_agbim_cash_2025,agb_infrastructuur_maaseik,2025,1948363,,,executed,src_agbim_jr2025_pdf,strong,J4 cash 1948362.77 vs 1079756.89 JUMP; tick1312; primary BBC
+bud_agbim_cash_2024,agb_infrastructuur_maaseik,2024,1079757,,,executed,src_agbim_jr2025_pdf,strong,J4 YE2024 cash 1079756.89; tick1312; primary BBC
+bud_agbim_fva_2025,agb_infrastructuur_maaseik,2025,155,,,executed,src_agbim_jr2025_pdf,strong,J4/T5 FVA 155; EVA 0 IGS 0; tick1312; primary BBC
+bud_agbim_mva_2025,agb_infrastructuur_maaseik,2025,16462954,,,executed,src_agbim_jr2025_pdf,strong,J4 MVA 16462953.58; leasing 0; tick1312; primary BBC
+bud_agbim_buildings_2025,agb_infrastructuur_maaseik,2025,16069960,,,executed,src_agbim_jr2025_pdf,strong,J4 terreinen/gebouwen 16069960.19; tick1312; primary BBC
+bud_agbim_iva_2025,agb_infrastructuur_maaseik,2025,77425,,,executed,src_agbim_jr2025_pdf,strong,J4 IVA 77425.37; tick1312; primary BBC
+bud_agbim_recv_2025,agb_infrastructuur_maaseik,2025,1784794,,,executed,src_agbim_jr2025_pdf,strong,J4 ST vorderingen 1784793.74; tick1312; primary BBC
+bud_agbim_schulden_2025,agb_infrastructuur_maaseik,2025,2036216,,,executed,src_agbim_jr2025_pdf,strong,J4 schulden 2036216.47 all ST; no LT/fin debt; tick1312; primary BBC
+bud_agbim_equity_2025,agb_infrastructuur_maaseik,2025,18376353,,,executed,src_agbim_jr2025_pdf,strong,J4 nettoactief 18376353.03; tick1312; primary BBC
+bud_agbim_cap_subs_2025,agb_infrastructuur_maaseik,2025,726328,,,executed,src_agbim_jr2025_pdf,strong,J4 kapitaalssubsidies 726327.76; tick1312; primary BBC
+bud_agbim_cum_pnl_2025,agb_infrastructuur_maaseik,2025,855894,,,executed,src_agbim_jr2025_pdf,strong,J4 cum overschot 855893.57; tick1312; primary BBC
+bud_agbim_other_eq_2025,agb_infrastructuur_maaseik,2025,16794132,,,executed,src_agbim_jr2025_pdf,strong,J4 overig nettoactief 16794131.70; city inject 2025 0; tick1312; primary BBC
+bud_agbim_fin_debt_2025,agb_infrastructuur_maaseik,2025,0,,,executed,src_agbim_jr2025_pdf,strong,T4 empty; toelichting geen leningen; fin saldo 0; tick1312; primary BBC
+bud_agbim_new_loans_2025,agb_infrastructuur_maaseik,2025,0,,,executed,src_agbim_jr2025_pdf,strong,T2/J2 new loans 0; tick1312; primary BBC
+bud_agbim_city_inject_2025,agb_infrastructuur_maaseik,2025,0,,,executed,src_agbim_jr2025_pdf,strong,T2 kapitaalsvermeerderingen 0 (was 4m 2024 / 1m 2023); tick1312; primary BBC
+bud_agbim_city_inject_2024,agb_infrastructuur_maaseik,2024,4000000,,,executed,src_agbim_jr2025_pdf,strong,T2 kapitaalsvermeerderingen 4000000; tick1312; primary BBC
+bud_agbim_expl_2025,agb_infrastructuur_maaseik,2025,1463736,,,executed,src_agbim_jr2025_pdf,strong,J2 exploitatiesaldo +1463735.52; tick1312; primary BBC
+bud_agbim_expl_ontv_2025,agb_infrastructuur_maaseik,2025,2994248,,,executed,src_agbim_jr2025_pdf,strong,J2 expl ontv 2994248.25; tick1312; primary BBC
+bud_agbim_expl_uitg_2025,agb_infrastructuur_maaseik,2025,1530513,,,executed,src_agbim_jr2025_pdf,strong,J2 expl uitg 1530512.73; tick1312; primary BBC
+bud_agbim_invest_2025,agb_infrastructuur_maaseik,2025,186673,,,executed,src_agbim_jr2025_pdf,strong,J2 invest +186672.73 vs MJP -1605280.87; tick1312; primary BBC
+bud_agbim_invest_ontv_2025,agb_infrastructuur_maaseik,2025,582531,,,executed,src_agbim_jr2025_pdf,strong,J2 invest ontv 582530.80 (VL CCAO 500000); tick1312; primary BBC
+bud_agbim_invest_uitg_2025,agb_infrastructuur_maaseik,2025,395858,,,executed,src_agbim_jr2025_pdf,strong,J2 invest uitg 395858.07; tick1312; primary BBC
+bud_agbim_bbr_2025,agb_infrastructuur_maaseik,2025,1650408,,,executed,src_agbim_jr2025_pdf,strong,J2 BBR boekjaar +1650408.25; tick1312; primary BBC
+bud_agbim_cum_bbr_2025,agb_infrastructuur_maaseik,2025,2416136,,,executed,src_agbim_jr2025_pdf,strong,J2 gecumuleerd BBR 2416135.50 (prev 765727.25); tick1312; primary BBC
+bud_agbim_afm_2025,agb_infrastructuur_maaseik,2025,1463736,,,executed,src_agbim_jr2025_pdf,strong,J2 AFM +1463735.52 = expl (no loans); tick1312; primary BBC
+bud_agbim_afm_corr_2025,agb_infrastructuur_maaseik,2025,1463736,,,executed,src_agbim_jr2025_pdf,strong,J2 gecorr AFM +1463735.52; tick1312; primary BBC
+bud_agbim_pnl_2025,agb_infrastructuur_maaseik,2025,367651,,,executed,src_agbim_jr2025_pdf,strong,J5 PnL +367651.47; dividend 10pct 36765.15; tick1312; primary BBC
+bud_agbim_dividend_2025,agb_infrastructuur_maaseik,2025,36765,,,executed,src_agbim_jr2025_pdf,strong,J5/statuten art.39 10pct winstuitkering stad 36765.15; tick1312; primary BBC
+bud_agbim_pers_2025,agb_infrastructuur_maaseik,2025,0,,,executed,src_agbim_jr2025_pdf,strong,T2 bezoldigingen 0; documentatie geen personeel; tick1312; primary BBC
+bud_agbim_werksub_2025,agb_infrastructuur_maaseik,2025,12958,,,executed,src_agbim_jr2025_pdf,strong,J5/T2 specifieke VL werksub 12957.80 (casula/velamen); tick1312; primary BBC
+bud_agbim_prijssub_cult_eff_2025,agb_infrastructuur_maaseik,2025,692456,,,executed,src_agbim_jr2025_pdf,strong,toelichting effectieve cultuur prijssub 692456 (2024 329895); tick1312; primary BBC
+bud_agbim_prijssub_cult_book_2025,agb_infrastructuur_maaseik,2025,880397,,,executed,src_agbim_jr2025_pdf,strong,T1/toelichting cultuur ARK 707 geboekt 880397; tick1312; primary BBC
+bud_agbim_prijssub_sport_book_2025,agb_infrastructuur_maaseik,2025,930770,,,executed,src_agbim_jr2025_pdf,strong,toelichting sport ARK 707 geboekt 930770; tick1312; primary BBC
+bud_agbim_prijssub_cs_book_2025,agb_infrastructuur_maaseik,2025,1811167,,,executed,src_agbim_jr2025_pdf,strong,cultuur+sport ARK 707 booked 1811167; tick1312; primary BBC
+bud_agbim_ccao_t3_2025,agb_infrastructuur_maaseik,2025,8908328,,,executed,src_agbim_jr2025_pdf,strong,T3 CCAO+BIB IP-AC000182 8908327.96; tick1312; primary BBC
+bud_agbim_costs_2025,agb_infrastructuur_maaseik,2025,2444748,,,executed,src_agbim_jr2025_pdf,strong,J5 kosten 2444747.73; depr 940679.62; tick1312; primary BBC
+bud_agbim_rev_2025,agb_infrastructuur_maaseik,2025,2812399,,,executed,src_agbim_jr2025_pdf,strong,J5 opbrengsten 2812399.20; tick1312; primary BBC

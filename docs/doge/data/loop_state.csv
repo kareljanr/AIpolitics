@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T18:20:00Z,rq_1311,1311,no,tick1311 AGB Maaseik JR2025 residual; KBO 0887.694.015; fin debt 1.595m AFM -0.672m NEG city inject 1.433m PnL -0.535m; FOI ready; next rq_1312 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T18:45:00Z,rq_1312,1312,no,tick1312 AGBIM Maaseik JR2025 residual; KBO 0828.259.640; fin debt 0 prijssub cult+sport 1.811m CCAO 8.908m AFM +1.464m; FOI ready; next rq_1313 residual dual L5 VL; continuous hole_fill
