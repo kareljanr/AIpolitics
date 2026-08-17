@@ -34037,3 +34037,28 @@ bud_tienen_city_gemeentefonds_2025,city_tienen,2025,15061089,,,executed,src_tien
 bud_tienen_city_werksub_in_2025,city_tienen,2025,31644226,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J5 werkingssub ontv 31.644226m (alg 21.123817 + spec 10.520410); tick1274
 bud_tienen_consol_afm_2025,city_tienen,2025,5917659,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J2 consol AFM 5.917659m (city 5.844281 + AGB 0.073379); tick1274
 bud_tienen_city_mjp_fin_debt_2026,city_tienen,2026,63851687,,,budgeted,src_tienen_city_jr2025_bbc,strong,JR2025 T4 MJP YE2026 fin debt 63.851687m / 2027 66.135689m; tick1274
+bud_ibogem_assets_2025,agb_ibogem,2025,11773383.3,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 20/58 assets 11.773383m vs IGS YE2024 13.368870m drop 1.595m; tick1275
+bud_ibogem_assets_igs_2024,agb_ibogem,2024,13368869.61,,,executed,src_ibogem_jr2025_jaarverslag,strong,IGS predecessor YE2024 assets 13.368870m cited in AGB jaarverslag; tick1275
+bud_ibogem_cash_2025,agb_ibogem,2025,488587.16,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 54/58 cash 0.488587m + beleggingen 3.907268m = liquid-ish 4.396m; tick1275
+bud_ibogem_invest_2025,agb_ibogem,2025,3907267.73,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 50/53 overige beleggingen 3.907268m; tick1275
+bud_ibogem_equity_2025,agb_ibogem,2025,3577976.59,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 10/15 EV 3.577977m vs IGS 3.384303m; inbreng 1.914 + kapsub 0.955 + retained 0.182; tick1275
+bud_ibogem_pension_2025,agb_ibogem,2025,4950069.22,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 160 pension provision 4.950069m = 42pct assets; actuarial basis FOI; tick1275
+bud_ibogem_schulden_2025,agb_ibogem,2025,3245337.49,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 17/49 debts 3.245337m; LT fin 170/4 = 0; ST 3.142213m; tick1275
+bud_ibogem_fin_debt_2025,agb_ibogem,2025,0,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 170/4 and 43 empty; Verrebroek 2015 loan prepaid; fin cost drop 0.029 to 0.014m; tick1275
+bud_ibogem_st_debt_2025,agb_ibogem,2025,3142212.84,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 42/48 ST 3.142213m (trade 1.446 + prepay 1.400 + tax/soc 0.296); tick1275
+bud_ibogem_trade_2025,agb_ibogem,2025,1445582.0,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 44 trade 1.445582m; tick1275
+bud_ibogem_prepay_2025,agb_ibogem,2025,1400324.88,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 46 vooruitbetalingen 1.400325m; tick1275
+bud_ibogem_mva_2025,agb_ibogem,2025,6737126.66,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 22/27 MVA 6.737127m; buildings 4.340273; machines 1.540581; leasing 0; tick1275
+bud_ibogem_buildings_2025,agb_ibogem,2025,4340272.71,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 22 terreinen en gebouwen 4.340273m; tick1275
+bud_ibogem_omzet_2025,agb_ibogem,2025,5148030.22,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 70 omzet 5.148030m; andere bedrijfsopbr 6.969334m; tick1275
+bud_ibogem_opbr_2025,agb_ibogem,2025,12129796.53,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 70/76A bedrijfsopbrengsten 12.129797m vs IGS 12.034664m; tick1275
+bud_ibogem_kost_2025,agb_ibogem,2025,12230866.83,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 60/66A bedrijfskosten 12.230867m vs IGS 12.180426m; tick1275
+bud_ibogem_ebit_2025,agb_ibogem,2025,-101070.3,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 9901 EBIT -0.101070m; tick1275
+bud_ibogem_fin_result_2025,agb_ibogem,2025,225747.78,,,executed,src_ibogem_jr2025_jaarverslag,strong,fin opbr 0.239899 - fin kost 0.014151 = +0.225748m; tick1275
+bud_ibogem_pnl_2025,agb_ibogem,2025,93700.94,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 9904/9905 surplus 0.093701m vs IGS 0.062327m; full retain; tick1275
+bud_ibogem_city_dual_2025,agb_ibogem,2025,6197950.61,,,executed,src_ibogem_jr2025_jaarverslag,strong,management table omzet vennoten-oprichters 6.197951m; BBC/nominative split FOI; tick1275
+bud_ibogem_kw_omzet_2025,agb_ibogem,2025,595432.62,,,executed,src_ibogem_jr2025_jaarverslag,strong,Kringwinkel omzet 0.595433m vs 0.578993m; resultaat -0.352008m; tick1275
+bud_ibogem_rp_omzet_2025,agb_ibogem,2025,493225.89,,,executed,src_ibogem_jr2025_jaarverslag,strong,recyclageparken 0.493226m vs 0.498731m; resultaat -0.797022m; tick1275
+bud_ibogem_pers_2025,agb_ibogem,2025,2804574.06,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 62 personeel 2.804574m / 39.7 VTE; narrative 32.44 intern + 9.98 extern; tick1275
+bud_ibogem_kapsub_2025,agb_ibogem,2025,955165.47,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 15 kapitaalsubsidies stock 0.955165m; 2025 income 0.158256m; tick1275
+bud_ibogem_retained_2025,agb_ibogem,2025,182262.42,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 14 over te dragen winst 0.182262m (prior 0.088561 + year 0.093701); tick1275
