@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T22:45:00Z,rq_1334,1334,no,tick1334 WV OPcura leftover zorg residual; KBO 0684.493.762; live JR2025 BBC PDF; sourced euros assets 2.504m cash 0.493m AFM -0.382m; FOI ready; next rq_1335 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T23:10:00Z,rq_1335,1335,no,tick1335 WV BVK leftover zorg residual; KBO 0865.506.155; live JR2025 BBC PDF; sourced euros assets 0.372m cash 0.023m ST recv 0.346m; FOI ready; next rq_1336 residual dual L5 VL; continuous hole_fill

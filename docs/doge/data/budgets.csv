@@ -35579,3 +35579,34 @@ bud_opcura_ops_rev_2025,zorg_opcura,2025,6412492,,,executed,src_opcura_jr2025_pd
 bud_opcura_other_ops_2025,zorg_opcura,2025,43902,,,executed,src_opcura_jr2025_pdf,strong,2025 J5 andere operationele opbrengsten 43902; tick1334; primary BBC J5
 bud_opcura_st_prov_2025,zorg_opcura,2025,330584,,,executed,src_opcura_jr2025_pdf,strong,2025 ST voorzieningen 330584; tick1334; primary BBC J4
 bud_opcura_cash_drop_2025,zorg_opcura,2025,911132,,,executed,src_opcura_jr2025_pdf,strong,2025 cash drop 1404044-492912=911132; FOI destination; tick1334; primary BBC J4
+bud_bvk_assets_2025,zorg_bvk,2025,371940,,,executed,src_bvk_jr2025_pdf,strong,2025 assets 371940 was 272775; tick1335; primary BBC J4
+bud_bvk_cash_2025,zorg_bvk,2025,22726,,,executed,src_bvk_jr2025_pdf,strong,2025 cash 22726 DROP vs 125237; tick1335; primary BBC J4
+bud_bvk_st_recv_2025,zorg_bvk,2025,346124,,,executed,src_bvk_jr2025_pdf,strong,2025 ST recv 346124 all ruil (niet-ruil 0) JUMP vs 145188; tick1335; primary BBC J4
+bud_bvk_fixed_2025,zorg_bvk,2025,3090,,,executed,src_bvk_jr2025_pdf,strong,2025 fixed 3090 (FVA 3090 + MVA 0 + IVA 0); tick1335; primary BBC J4/T5
+bud_bvk_fva_2025,zorg_bvk,2025,3090,,,executed,src_bvk_jr2025_pdf,strong,2025 FVA 3090 (IGS 1250 new + other 1840); tick1335; primary BBC J4/T5
+bud_bvk_fva_igs_2025,zorg_bvk,2025,1250,,,executed,src_bvk_jr2025_pdf,strong,2025 FVA IGS 1250 EVA 0 (new vs 0 in 2024); tick1335; primary BBC J4/T2/T5
+bud_bvk_mva_2025,zorg_bvk,2025,0,,,executed,src_bvk_jr2025_pdf,strong,2025 MVA 0 was 510 (fully depreciated furniture/office); tick1335; primary BBC J4/T5
+bud_bvk_debt_2025,zorg_bvk,2025,46571,,,executed,src_bvk_jr2025_pdf,strong,2025 schulden 46571 all ST (voorzieningen 22572 + non-fin ruil 23999); tick1335; primary BBC J4
+bud_bvk_fin_debt_2025,zorg_bvk,2025,0,,,executed,src_bvk_jr2025_pdf,strong,2025 fin debt T4 0 (LT 0 + ST 0; no loans); tick1335; primary BBC T4
+bud_bvk_equity_2025,zorg_bvk,2025,325369,,,executed,src_bvk_jr2025_pdf,strong,2025 nettoactief 325369 was 237337; tick1335; primary BBC J4
+bud_bvk_cum_surplus_2025,zorg_bvk,2025,278004,,,executed,src_bvk_jr2025_pdf,strong,2025 cum surplus 278004 was 189972; tick1335; primary BBC J4/T5
+bud_bvk_other_equity_2025,zorg_bvk,2025,47365,,,executed,src_bvk_jr2025_pdf,strong,2025 overig nettoactief 47365 unchanged; tick1335; primary BBC J4
+bud_bvk_expl_in_2025,zorg_bvk,2025,896089,,,executed,src_bvk_jr2025_pdf,strong,2025 expl ontv 896089; tick1335; primary BBC J2
+bud_bvk_expl_out_2025,zorg_bvk,2025,806329,,,executed,src_bvk_jr2025_pdf,strong,2025 expl uitg 806329; tick1335; primary BBC J2
+bud_bvk_expl_2025,zorg_bvk,2025,89760,,,executed,src_bvk_jr2025_pdf,strong,2025 expl saldo +89760; tick1335; primary BBC J2
+bud_bvk_invest_2025,zorg_bvk,2025,-1250,,,executed,src_bvk_jr2025_pdf,strong,2025 invest saldo -1250 (IGS FVA aankoop 1250 / ontv 0); tick1335; primary BBC J2/T2
+bud_bvk_bbr_2025,zorg_bvk,2025,88510,,,executed,src_bvk_jr2025_pdf,strong,2025 BBR year +88510; tick1335; primary BBC J2
+bud_bvk_cum_bbr_2025,zorg_bvk,2025,344851,,,executed,src_bvk_jr2025_pdf,strong,YE2025 cum BBR 344851 was 256341; tick1335; primary BBC J2
+bud_bvk_afm_2025,zorg_bvk,2025,89760,,,executed,src_bvk_jr2025_pdf,strong,2025 AFM +89760; tick1335; primary BBC J2
+bud_bvk_gecorr_afm_2025,zorg_bvk,2025,89760,,,executed,src_bvk_jr2025_pdf,strong,2025 gecorr AFM +89760; tick1335; primary BBC J2
+bud_bvk_pnl_2025,zorg_bvk,2025,88032,,,executed,src_bvk_jr2025_pdf,strong,2025 PnL +88032 (ops +88044 / fin -12); tick1335; primary BBC J5
+bud_bvk_pers_2025,zorg_bvk,2025,397252,,,executed,src_bvk_jr2025_pdf,strong,2025 J5/T2 pers 397252 (niet-vast 386658 + andere 10594); VTE unpublished; tick1335; primary BBC
+bud_bvk_goods_2025,zorg_bvk,2025,390747,,,executed,src_bvk_jr2025_pdf,strong,2025 J5=T2 goederen/diensten 390747; tick1335; primary BBC J5/T2
+bud_bvk_werksub_in_2025,zorg_bvk,2025,273451,,,executed,src_bvk_jr2025_pdf,strong,2025 J5=T2 werksub ontv 273451 all spec van de gemeente (alg 0); tick1335; primary BBC J5/T2
+bud_bvk_werksub_city_2025,zorg_bvk,2025,273451,,,executed,src_bvk_jr2025_pdf,strong,2025 T2 spec werksub van de gemeente 273451 was 173451; dual city line FOI; tick1335; primary BBC T2
+bud_bvk_ops_rev_2025,zorg_bvk,2025,288474,,,executed,src_bvk_jr2025_pdf,strong,2025 J5 opbrengsten uit de werking 288474; tick1335; primary BBC J5
+bud_bvk_other_ops_2025,zorg_bvk,2025,334164,,,executed,src_bvk_jr2025_pdf,strong,2025 J5 andere operationele opbrengsten 334164 was 214619; dual FOI; tick1335; primary BBC J5
+bud_bvk_st_prov_2025,zorg_bvk,2025,22572,,,executed,src_bvk_jr2025_pdf,strong,2025 ST voorzieningen 22572; tick1335; primary BBC J4
+bud_bvk_cash_drop_2025,zorg_bvk,2025,102511,,,executed,src_bvk_jr2025_pdf,strong,2025 cash drop 125237-22726=102511; FOI destination; tick1335; primary BBC J4
+bud_bvk_st_recv_jump_2025,zorg_bvk,2025,200936,,,executed,src_bvk_jr2025_pdf,strong,2025 ST recv jump 346124-145188=200936; FOI counterparties; tick1335; primary BBC J4
+bud_bvk_panden_2025,zorg_bvk,2025,29,,,executed,src_bvk_jr2025_pdf,strong,2025 YE panden 29 (BBC beleidsevaluatie); tick1335; primary BBC narrative
