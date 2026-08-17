@@ -17492,3 +17492,11 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources+6/entities(new AGBPB + city note)/budgets+31/commitments+6/leaderboard+7 + FOI ready `gap_agbpb_fin_debt_3_00m_gecorr_afm_neg_0_01m_city_huur_0_29m_l5` (not sent); rq_1277=done; spawn rq_1278; ticks=1277. Not a *0 tick — no progress refresh.
 - Next: rq_1278 residual dual L5 VL JR2025 hole_fill (prefer other unmined AGB/zorg/EVA with direct PDF; skip Motena unless a fetchable JR appears; AGB Maaseik / Diepenbeek / Bau-huis SN JR2025 still unpublished).
 
+
+
+### Tick 1278 - 2026-08-17 - rq_1278 AGB Trupark Sint-Truiden dual residual
+- Unit: AGB Trupark (parkeer/mobiliteit Sint-Truiden) JR2025 Entity II after AGOST tick1156 + city Sint-Truiden GE (KBO **0761.818.697**; AGB since 29.06.2020 / GR 20.06.2020; statuten GR 25.03.2024). **Distinct from** AGB AGOST (0810.744.410), AGB PATRI (0635.564.190; still unmined), Zorgbedrijf Sint-Truiden (unpublished — skipped). Seat Gazometerstraat 13 3800. 1 VE. Bestuurder / RvB-voorzitter Ludwig Vandenhove since 27.01.2025; secretaris AD Kathleen Bergoets. College = directiecomité. NACE 52.210. Motena PDF still Cloudflare/NBB opaque — not redone. AGB Maaseik / Diepenbeek / Bau-huis SN JR2025 still unpublished — not redone.
+- EUR: **none invented**. City bekendmakingen publish **JR2024** only (RvB 26.05.2025: BBC + NBB + documentatie + jaarverslag PDFs). AGB Trupark portal lists that 2024 vaststelling and no 2025 counterpart. NBB consult/API **403/SPA** this box. Do not use Belscope/Companyweb.
+- CSVs: sources+5/entities(new Trupark + city note)/commitments+1 (envelope Unknown) + FOI ready `gap_trupark_jr2025_pdf_opaque_city_dual_unknown_l5` (not sent); no budgets/leaderboard without primary euros; rq_1278=done; spawn rq_1279; ticks=1278. Not a *0 tick — no progress refresh.
+- Next: rq_1279 residual dual L5 VL JR2025 hole_fill (prefer other unmined AGB/zorg/EVA with direct PDF; AGB PATRI Sint-Truiden only if JR2025 downloadable; skip Motena unless a fetchable JR appears; skip Maaseik / Diepenbeek / Bau-huis / Zorgbedrijf ST).
+
