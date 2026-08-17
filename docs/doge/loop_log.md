@@ -17304,3 +17304,10 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources/entities/budgets+39/commitments+7/leaderboard+7 + FOI ready `gap_wzk_pnl_neg_0_25m_cum_flip_0_10m_ocmw_sub_1_69m_fee_hike_2026_l5` (not sent); rq_1251=done; spawn rq_1252.
 - Next: rq_1252 residual dual L5 VL JR2025 hole_fill.
 
+
+
+### Tick 1252 - 2026-08-17 - rq_1252 AGB Cultuur Geel dual residual
+- Unit: AGB Cultuur Geel JR2025 Entity II after city GE tick848 + AGB Sport tick1175 (KBO 0537.631.705; 10p financial note OCR + toelichting text primary). Distinct from AGB Sport Geel.
+- EUR strong: assets **7.94m**; fin debt **5.97m** (city loans only); AFM **+0.561m** (MJP **+5k**); gecorr AFM **+0.376m** (MJP **-0.184m**); BBR **+2.101m**; PnL **+0.442m**; dividend **0.100m** (budget 0.420m); city prijssub **1.473m** (ticket-factor); tickets **0.464m**; cash JUMP **2.370m**; personnel line absent (goods 1.217m + depr 0.282m).
+- CSVs: sources/entities/budgets+40/commitments+7/leaderboard+7 + FOI ready `gap_agb_geel_cultuur_prijssub_1_47m_city_loans_5_97m_pnl_0_44m_div_0_10m_l5` (not sent); rq_1252=done; spawn rq_1253.
+- Next: rq_1253 residual dual L5 VL JR2025 hole_fill.

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T06:30:00Z,rq_1251,1251,no,tick1251 Welzijnszorg Kempen dual residual 27-muni PnL -0.25m cum flip -0.10m OCMW 1.69m AFM +82k vs MJP -443k fee hike 2026 1.09 to 2.08/inh personnel 12.92m cash 3.98m BBR 2.46m FOI ready; next rq_1252 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T06:35:00Z,rq_1252,1252,no,tick1252 AGB Cultuur Geel dual residual after city GE + AGB Sport; assets 7.94m fin debt 5.97m city loans AFM +0.56m gecorr +0.38m BBR 2.10m PnL +0.44m div 0.10m prijssub 1.47m cash 2.37m JUMP FOI ready; next rq_1253 residual dual L5 VL; continuous hole_fill

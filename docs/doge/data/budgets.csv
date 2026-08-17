@@ -33349,3 +33349,43 @@ bud_wzk_t2_sub_total_2025,welzijnszorg_kempen,2025,13470238,,,bbc_jr_realized,sr
 bud_wzk_new_loans_2025,welzijnszorg_kempen,2025,0,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Nieuwe leningen 2025 EUR0; tick1251
 bud_wzk_loans_granted_open_2025,welzijnszorg_kempen,2025,23248,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Toegestane leningen open YE2025 23.248; tick1251
 bud_wzk_overig_netto_2025,welzijnszorg_kempen,2025,990567,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Overig nettoactief YE2025 0.991m; tick1251
+bud_agbgc_assets_2025,agb_geel_cultuur,2025,7943303,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Assets balanstotaal YE2025 7.943m (vlottend 2.541 + vast 5.402); tick1252
+bud_agbgc_current_assets_2025,agb_geel_cultuur,2025,2540831,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Vlottende activa YE2025 2.541m (was 2.135m); tick1252
+bud_agbgc_cash_2025,agb_geel_cultuur,2025,2369796,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Liquide middelen YE2025 2.370m JUMP (was 1.902m); tick1252
+bud_agbgc_st_recv_2025,agb_geel_cultuur,2025,147515,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,ST vorderingen YE2025 0.148m; tick1252
+bud_agbgc_st_recv_ruil_2025,agb_geel_cultuur,2025,119944,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,ST vorderingen ruil YE2025 0.120m; tick1252
+bud_agbgc_st_recv_nonruil_2025,agb_geel_cultuur,2025,27571,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,ST vorderingen niet-ruil YE2025 28k; tick1252
+bud_agbgc_fixed_assets_2025,agb_geel_cultuur,2025,5402472,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Vaste activa YE2025 5.402m; tick1252
+bud_agbgc_mva_2025,agb_geel_cultuur,2025,5368678,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,MVA YE2025 5.369m (was 5.261m); tick1252
+bud_agbgc_mva_buildings_2025,agb_geel_cultuur,2025,4896415,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,MVA terreinen/gebouwen YE2025 4.896m; tick1252
+bud_agbgc_mva_install_2025,agb_geel_cultuur,2025,450695,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,MVA installaties YE2025 0.451m JUMP (was 0.217m); tick1252
+bud_agbgc_iva_2025,agb_geel_cultuur,2025,33794,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Immateriele VA YE2025 34k; tick1252
+bud_agbgc_debt_total_2025,agb_geel_cultuur,2025,7276761,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Schulden total YE2025 7.277m; tick1252
+bud_agbgc_st_debt_2025,agb_geel_cultuur,2025,1605016,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,ST schulden YE2025 1.605m; tick1252
+bud_agbgc_fin_debt_2025,agb_geel_cultuur,2025,5971248,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Fin schulden total YE2025 5.971m (LT+ST due; city loans only); tick1252
+bud_agbgc_fin_debt_lt_2025,agb_geel_cultuur,2025,5671745,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Fin schulden LT YE2025 5.672m; tick1252
+bud_agbgc_fin_debt_st_due_2025,agb_geel_cultuur,2025,299503,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Fin schulden LT vervallend YE2025 0.300m; tick1252
+bud_agbgc_equity_2025,agb_geel_cultuur,2025,666542,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Nettoactief YE2025 0.667m JUMP (was 0.325m); tick1252
+bud_agbgc_cap_subs_2025,agb_geel_cultuur,2025,12182,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Kapitaalssubsidies YE2025 12k; tick1252
+bud_agbgc_cum_pnl_2025,agb_geel_cultuur,2025,654360,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Gecumuleerd overschot YE2025 0.654m (was 0.312m); tick1252
+bud_agbgc_expl_rec_2025,agb_geel_cultuur,2025,2319934,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Exploitatieontvangsten 2.320m; tick1252
+bud_agbgc_expl_exp_2025,agb_geel_cultuur,2025,1473254,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Exploitatieuitgaven 1.473m; tick1252
+bud_agbgc_expl_saldo_2025,agb_geel_cultuur,2025,846680,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Exploitatiesaldo +0.847m; tick1252
+bud_agbgc_invest_exp_2025,agb_geel_cultuur,2025,378492,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Investeringsuitgaven 0.378m; tick1252
+bud_agbgc_new_loans_2025,agb_geel_cultuur,2025,378492,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Nieuwe leningen/leasings 0.378m (= invest; city); tick1252
+bud_agbgc_repay_2025,agb_geel_cultuur,2025,286176,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Periodieke aflossingen 0.286m; tick1252
+bud_agbgc_fin_saldo_2025,agb_geel_cultuur,2025,92316,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Financieringssaldo +0.092m; tick1252
+bud_agbgc_budget_result_2025,agb_geel_cultuur,2025,560504,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Budgettair resultaat boekjaar +0.561m (= AFM); tick1252
+bud_agbgc_bbr_2025,agb_geel_cultuur,2025,2100648,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Beschikbaar BBR YE2025 2.101m; tick1252
+bud_agbgc_afm_2025,agb_geel_cultuur,2025,560504,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,AFM +0.561m (MJP +5k); tick1252
+bud_agbgc_afm_gecorr_2025,agb_geel_cultuur,2025,376365,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Gecorr AFM +0.376m (MJP -0.184m); tick1252
+bud_agbgc_aangewezen_amort_2025,agb_geel_cultuur,2025,470315,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Gecorrigeerde aflossingen o.b.v. fin schulden 0.470m; tick1252
+bud_agbgc_pnl_2025,agb_geel_cultuur,2025,442021,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,P&L +0.442m (was +0.280m); tick1252
+bud_agbgc_op_pnl_2025,agb_geel_cultuur,2025,441084,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Operationeel P&L +0.441m; tick1252
+bud_agbgc_dividend_2025,agb_geel_cultuur,2025,100000,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Dividend/rechthebbenden 0.100m (budget 0.420m); tick1252
+bud_agbgc_prijssub_2025,agb_geel_cultuur,2025,1473177,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,City prijssubsidie ticket-factor 1.473m (budget 1.494m); tick1252
+bud_agbgc_tickets_2025,agb_geel_cultuur,2025,463955,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Ticketinkomsten 0.464m (budget 0.358m); tick1252
+bud_agbgc_uitkoop_2025,agb_geel_cultuur,2025,392777,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Uitkoopsommen artiesten 0.393m; tick1252
+bud_agbgc_goods_2025,agb_geel_cultuur,2025,1217212,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Goederen en diensten 1.217m; tick1252
+bud_agbgc_depr_2025,agb_geel_cultuur,2025,281610,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Afschrijvingen 0.282m; tick1252
+bud_agbgc_omzet_werking_2025,agb_geel_cultuur,2025,2097379,,,bbc_jr_realized,src_agb_geel_cultuur_jr2025,strong,Opbrengsten uit de werking J5 2.097m; tick1252
