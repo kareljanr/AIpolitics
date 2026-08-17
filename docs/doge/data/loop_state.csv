@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T08:45:00Z,rq_1267,1267,no,tick1267 Amal/Integratie Gent JR2025 dual residual; KBO 0507.873.093; city 2026 lock 7.375m own 0.910 + VL 6.464; MY 18.645m; NBB/JR PDF opaque; FOI ready; next rq_1268 residual dual L5 VL (prefer Fietsambassade Gent JR2025); continuous hole_fill
+main,continuous,hole_fill,2026-08-17T09:25:00Z,rq_1268,1268,no,tick1268 Fietsambassade Gent JR2025 dual residual; KBO 0665.587.076; city 2026 lock 2.650m SWO 2.477 + LDE 0.173; MY SWO 16.147m; NBB/JR PDF opaque; FOI ready; next rq_1269 residual dual L5 VL (prefer unmined AGB/zorg/EVA JR2025); continuous hole_fill

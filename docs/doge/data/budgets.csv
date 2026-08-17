@@ -33863,3 +33863,23 @@ bud_amal_gelijke_jump_2026_27,integratie_inburgering_gent,2027,1079461.13,,,budg
 bud_amal_swo_my_2026_2031,integratie_inburgering_gent,2026,18644791.11,,,budgeted,src_amal_swo_2026_gr00594,strong,GR 00594 voorgestelde uitgaven 18.64479111m 2026-2031; tick1267
 bud_amal_vl_income_my_2026_27,integratie_inburgering_gent,2026,7375372.0,,,budgeted,src_amal_swo_2026_gr00594,strong,GR 00594 verwachte VL ontvangsten 7.375372m 2026-2027; tick1267
 bud_amal_city_own_my_2026_2031,integratie_inburgering_gent,2026,11269419.11,,,budgeted,src_amal_swo_2026_gr00594,strong,MY uitgaven 18.64479111 minus VL income 7.375372 = city-own 11.26941911m; tick1267
+bud_fiets_city_dual_2026,fietsambassade_gent,2026,2650055.16,,,budgeted,src_fiets_swo_2026_gr00304,strong,SWO 2.47723316 + LDE 0.172822 = 2.65005516; tick1268
+bud_fiets_swo_2026,fietsambassade_gent,2026,2477233.16,,,budgeted,src_fiets_swo_2026_gr00304,strong,SWO EXP 2.33959316 + INV 0.13764; GR 00304 art.8; tick1268
+bud_fiets_swo_exp_2026,fietsambassade_gent,2026,2339593.16,,,budgeted,src_fiets_swo_2026_gr00304,strong,SWO art.8 werkingstoelage 2026 due 1 Apr; tick1268
+bud_fiets_swo_inv_2026,fietsambassade_gent,2026,137640,,,budgeted,src_fiets_swo_2026_gr00304,strong,SWO art.8 investeringstoelage 2026; tick1268
+bud_fiets_swo_exp_356420000_2026,fietsambassade_gent,2026,1791626.16,,,budgeted,src_fiets_swo_2026_gr00304,strong,GR 00304 table IVA Mobiliteit 356420000 EXP; tick1268
+bud_fiets_swo_exp_356470100_2026,fietsambassade_gent,2026,174662,,,budgeted,src_fiets_swo_2026_gr00304,strong,GR 00304 table 356470100 EXP; tick1268
+bud_fiets_swo_exp_356470200_2026,fietsambassade_gent,2026,373305,,,budgeted,src_fiets_swo_2026_gr00304,strong,GR 00304 table 356470200 EXP; tick1268
+bud_fiets_lde_2026,fietsambassade_gent,2026,172822,,,budgeted,src_fiets_lde_2026_gr00363,strong,LDE city 107701 + ALD 65121; 12 VTE; tick1268
+bud_fiets_lde_city_2026,fietsambassade_gent,2026,107701,,,budgeted,src_fiets_lde_2026_gr00363,strong,Stedelijke middelen indexed 2026; tick1268
+bud_fiets_lde_ald_2026,fietsambassade_gent,2026,65121,,,budgeted,src_fiets_lde_2026_gr00363,strong,VL ALD not indexed 2026 pass-through; tick1268
+bud_fiets_city_own_2026,fietsambassade_gent,2026,2584934.16,,,budgeted,src_fiets_swo_2026_gr00304,strong,dual 2.65005516 minus VL ALD 65121; tick1268
+bud_fiets_swo_my_2026_2031,fietsambassade_gent,2026,16147380.40,,,budgeted,src_fiets_swo_2026_gr00304,strong,GR 00304 voorgestelde uitgaven 16.14738040; tick1268
+bud_fiets_swo_exp_my_2026_2031,fietsambassade_gent,2026,15065783.78,,,budgeted,src_fiets_swo_2026_gr00304,strong,EXP cols 11.30179378+1.199037+2.564953; tick1268
+bud_fiets_swo_inv_my_2026_2031,fietsambassade_gent,2026,1081596.62,,,budgeted,src_fiets_swo_2026_gr00304,strong,INV cols 855626+24000+201970.62; tick1268
+bud_fiets_lde_my_2026_2028,fietsambassade_gent,2026,524971,,,budgeted,src_fiets_lde_2026_gr00363,strong,LDE envelope 2026-2028/29 cash 0.524971m; tick1268
+bud_fiets_swo_exp_2027,fietsambassade_gent,2027,2383993.40,,,budgeted,src_fiets_swo_2026_gr00304,strong,SWO art.8 EXP 2027; tick1268
+bud_fiets_swo_inv_2027,fietsambassade_gent,2027,204820,,,budgeted,src_fiets_swo_2026_gr00304,strong,SWO art.8 INV 2027; tick1268
+bud_fiets_lde_2025,fietsambassade_gent,2025,170709.84,,,budgeted,src_fiets_ald_2025_gr00604,strong,LDE base 86369.64 + ALD 72505.61 + CSD 11834.59; not full 2025 lock; tick1268
+bud_fiets_swo5_extras_2025,fietsambassade_gent,2025,274654.90,,,budgeted,src_fiets_swo5_2024_gr00546,strong,Feesten 141190 + taxi 38365.60 + 2dehands 95099.30; tick1268
+bud_fiets_2025_known_partial,fietsambassade_gent,2025,445364.74,,,budgeted,src_fiets_ald_2025_gr00604,medium,LDE 170709.84 + SWO5 extras 274654.90; core SWO 2025 unknown; tick1268

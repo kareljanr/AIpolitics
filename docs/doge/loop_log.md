@@ -17417,3 +17417,11 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources+5/entities(new+city/atlas_amal notes)/budgets+16/commitments+7/leaderboard+6 + FOI ready `gap_amal_jr2025_pdf_opaque_city_dual_7_37m_l5` (not sent); rq_1267=done; spawn rq_1268; ticks=1267. No every-10 (1267 not a *0 tick).
 - Next: rq_1268 residual dual L5 VL JR2025 hole_fill (prefer EVA De Fietsambassade Gent JR2025 KBO 0665.587.076 GR 2026_GR_00655 or other unmined AGB/zorg/EVA with direct PDF).
 
+
+
+### Tick 1268 - 2026-08-17 - rq_1268 EVA De Fietsambassade Gent dual residual
+- Unit: EVA vzw De Fietsambassade Gent JR2025 Entity II after Gent AGB cluster 1255–1259 + Amal tick1267 (KBO 0665.587.076; EVA-vzw; seat Botermarkt 1). **Distinct from Amal** (KBO 0507.873.093) and **Atlas Antwerpen** (KBO 0421.722.346). AV 30.06.2026 / GR 23.06.2026 `2026_GR_00655` + SWO 2026–2031 `2026_GR_00304` (28.04.2026) + LDE/ALD `2026_GR_00363` (27.04.2026). NBB consult exists; crawler lists filing **2026-00280899** (08.07.2026, verkort, year-end 30.12.2025); API 403 this box. WAGSO already mined tick1199.
+- EUR strong (city HTML + SWO PDF primary; NBB/JR PDF internals unknown): 2026 dual **2.650m** = SWO **2.477m** (EXP **2.340m** + INV **0.138m**) + LDE **0.173m** (city **0.108m** + VL ALD **0.065m**); city-own **2.585m**; MY SWO 2026–2031 **16.147m** (EXP **15.066m** + INV **1.082m**); LDE MY **0.525m**; 2025 known partial **0.445m** (LDE **0.171m** + SWO5 extras **0.275m**); core 2025 SWO lock unknown; presentiegelden **0**; 12 VTE doelgroep; IBAN BE78 0910 1994 8986. BBC/NBB PDFs not retrieved (NBB 403 + GR 00655 bijlage besluit-only).
+- CSVs: sources+8/entities(new+city note)/budgets+20/commitments+7/leaderboard+7 + FOI ready `gap_fiets_jr2025_pdf_opaque_city_dual_2_65m_l5` (not sent); rq_1268=done; spawn rq_1269; ticks=1268. No every-10 (1268 not a *0 tick).
+- Next: rq_1269 residual dual L5 VL JR2025 hole_fill (prefer other unmined AGB/zorg/EVA with direct PDF).
+
