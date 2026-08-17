@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T18:00:00Z,rq_1310,1310,no,tick1310 APB VERA JR2025 residual + progress@1310; KBO 0267.390.891; fin debt 1.722m equity -1.639m NEG straight loan 1.100m PnL -0.488m; FOI ready; next rq_1311 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T18:20:00Z,rq_1311,1311,no,tick1311 AGB Maaseik JR2025 residual; KBO 0887.694.015; fin debt 1.595m AFM -0.672m NEG city inject 1.433m PnL -0.535m; FOI ready; next rq_1312 residual dual L5 VL; continuous hole_fill

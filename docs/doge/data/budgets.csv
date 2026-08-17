@@ -35206,3 +35206,36 @@ bud_apbvera_recv_2025,apb_vera,2025,1193736,,,executed,src_apbvera_jr2025_pdf,st
 bud_apbvera_trade_pay_2025,apb_vera,2025,1453154,,,executed,src_apbvera_jr2025_pdf,strong,YE2025 handelsschulden 1453154 AUSY+it-punt; tick1310; primary BBC toelichting
 bud_apbvera_total_debt_2025,apb_vera,2025,4001605,,,executed,src_apbvera_jr2025_pdf,strong,YE2025 total schulden 4001605 incl non-fin; tick1310; primary BBC
 bud_apbvera_interest_2025,apb_vera,2025,40316,,,executed,src_apbvera_jr2025_pdf,strong,2025 financiele kosten 40316 straight loan+lening; tick1310; primary BBC
+bud_agbmsk_assets_2025,agb_maaseik,2025,8449038,,,executed,src_agbmsk_jr2025_pdf,strong,YE2025 assets 8449038 was 8739373; tick1311; primary BBC
+bud_agbmsk_cash_2025,agb_maaseik,2025,243548,,,executed,src_agbmsk_jr2025_pdf,strong,YE2025 cash 243548 was 236530; tick1311; primary BBC
+bud_agbmsk_cash_2024,agb_maaseik,2024,236530,,,executed,src_agbmsk_jr2025_pdf,strong,YE2024 cash 236530; tick1311; primary BBC
+bud_agbmsk_mva_2025,agb_maaseik,2025,8111445,,,executed,src_agbmsk_jr2025_pdf,strong,YE2025 MVA 8111445 buildings 8053046; tick1311; primary BBC
+bud_agbmsk_buildings_2025,agb_maaseik,2025,8053046,,,executed,src_agbmsk_jr2025_pdf,strong,YE2025 terreinen/gebouwen 8053046; tick1311; primary BBC
+bud_agbmsk_fin_debt_2025,agb_maaseik,2025,1595365,,,executed,src_agbmsk_jr2025_pdf,strong,YE2025 T4 fin debt 1595365 DOWN vs 2081740; tick1311; primary BBC
+bud_agbmsk_fin_debt_2024,agb_maaseik,2024,2081740,,,executed,src_agbmsk_jr2025_pdf,strong,YE2024 T4 fin debt 2081740; tick1311; primary BBC
+bud_agbmsk_fin_debt_lt_2025,agb_maaseik,2025,1084930,,,executed,src_agbmsk_jr2025_pdf,strong,YE2025 T4 LT fin debt 1084930; tick1311; primary BBC
+bud_agbmsk_fin_debt_st_due_2025,agb_maaseik,2025,510434,,,executed,src_agbmsk_jr2025_pdf,strong,YE2025 T4 ST due 510434; tick1311; primary BBC
+bud_agbmsk_belfius_var_2025,agb_maaseik,2025,650000,,,executed,src_agbmsk_jr2025_pdf,strong,YE2025 Belfius variabel 0.65m @ 4.435pct tot 2028; tick1311; primary BBC risico
+bud_agbmsk_belfius_fixed_2025,agb_maaseik,2025,930000,,,executed,src_agbmsk_jr2025_pdf,strong,YE2025 Belfius vast 0.93m @ 5.023pct tot 2028; tick1311; primary BBC risico
+bud_agbmsk_new_loans_2025,agb_maaseik,2025,0,,,executed,src_agbmsk_jr2025_pdf,strong,2025 new loans 0; J3 leningen ontvangsten 0; tick1311; primary BBC
+bud_agbmsk_afl_2025,agb_maaseik,2025,486376,,,executed,src_agbmsk_jr2025_pdf,strong,2025 periodieke aflossingen 486376; tick1311; primary BBC
+bud_agbmsk_city_inject_2025,agb_maaseik,2025,1432755,,,executed,src_agbmsk_jr2025_pdf,strong,2025 Stad Maaseik kapitaalsinjectie 1432755 on 24.11.2025; tick1311; primary BBC
+bud_agbmsk_equity_2025,agb_maaseik,2025,6769778,,,executed,src_agbmsk_jr2025_pdf,strong,YE2025 nettoactief 6769778 was 5876524; tick1311; primary BBC
+bud_agbmsk_cum_pnl_2025,agb_maaseik,2025,-12520310,,,executed,src_agbmsk_jr2025_pdf,strong,YE2025 gecumuleerd tekort -12520310 NEG; tick1311; primary BBC
+bud_agbmsk_pnl_2025,agb_maaseik,2025,-535389,,,executed,src_agbmsk_jr2025_pdf,strong,2025 J5 PnL -535389 was -615082; tick1311; primary BBC
+bud_agbmsk_pers_2025,agb_maaseik,2025,0,,,executed,src_agbmsk_jr2025_pdf,strong,2025 pers 0 VTE 0; documentatie geen personeel; tick1311; primary BBC+doc
+bud_agbmsk_werksub_2025,agb_maaseik,2025,0,,,executed,src_agbmsk_jr2025_pdf,strong,2025 werksub 0; documentatie geen werkings- of investeringssubsidies 2020-2025; tick1311; primary BBC+doc
+bud_agbmsk_expl_out_2025,agb_maaseik,2025,390985,,,executed,src_agbmsk_jr2025_pdf,strong,2025 J3 expl uitg 390985; tick1311; primary BBC
+bud_agbmsk_expl_in_2025,agb_maaseik,2025,204996,,,executed,src_agbmsk_jr2025_pdf,strong,2025 J3 expl ontv 204996; tick1311; primary BBC
+bud_agbmsk_expl_saldo_2025,agb_maaseik,2025,-185989,,,executed,src_agbmsk_jr2025_pdf,strong,2025 expl saldo -185989; tick1311; primary BBC
+bud_agbmsk_invest_saldo_2025,agb_maaseik,2025,-8010,,,executed,src_agbmsk_jr2025_pdf,strong,2025 invest saldo -8010; tick1311; primary BBC
+bud_agbmsk_fin_saldo_2025,agb_maaseik,2025,946379,,,executed,src_agbmsk_jr2025_pdf,strong,2025 fin saldo +946379 (inject 1432755 - afl 486376); tick1311; primary BBC
+bud_agbmsk_year_br_2025,agb_maaseik,2025,752380,,,executed,src_agbmsk_jr2025_pdf,strong,2025 J2 budgettair resultaat boekjaar 752380; tick1311; primary BBC
+bud_agbmsk_bbr_2025,agb_maaseik,2025,261704,,,executed,src_agbmsk_jr2025_pdf,strong,2025 BBR +261704 was 105628 MJP; tick1311; primary BBC
+bud_agbmsk_afm_2025,agb_maaseik,2025,-672365,,,executed,src_agbmsk_jr2025_pdf,strong,2025 AFM -672365 NEG; tick1311; primary BBC
+bud_agbmsk_afm_corr_2025,agb_maaseik,2025,-352528,,,executed,src_agbmsk_jr2025_pdf,strong,2025 gecorr AFM -352528 NEG; tick1311; primary BBC
+bud_agbmsk_costs_2025,agb_maaseik,2025,744868,,,executed,src_agbmsk_jr2025_pdf,strong,2025 J5 costs 744868; tick1311; primary BBC
+bud_agbmsk_rev_2025,agb_maaseik,2025,209479,,,executed,src_agbmsk_jr2025_pdf,strong,2025 J5 opbrengsten 209479; tick1311; primary BBC
+bud_agbmsk_interest_2025,agb_maaseik,2025,97801,,,executed,src_agbmsk_jr2025_pdf,strong,2025 J5 financiele kosten 97801; toelichting cash 97752 FOI; tick1311; primary BBC
+bud_agbmsk_kapsub_2025,agb_maaseik,2025,57581,,,executed,src_agbmsk_jr2025_pdf,strong,YE2025 kapitaalssubsidies 57581; tick1311; primary BBC
+bud_agbmsk_total_debt_2025,agb_maaseik,2025,1679260,,,executed,src_agbmsk_jr2025_pdf,strong,YE2025 total schulden 1679260 incl non-fin; tick1311; primary BBC
