@@ -35341,3 +35341,36 @@ bud_gkc_other_ops_2025,apb_gkc,2025,298979,,,executed,src_gkc_jr2025_pdf,strong,
 bud_gkc_fin_inc_2025,apb_gkc,2025,18967,,,executed,src_gkc_jr2025_pdf,strong,2025 J5 financiele opbrengsten 18967.22; tick1318; primary BBC J5
 bud_gkc_costs_2025,apb_gkc,2025,1374130,,,executed,src_gkc_jr2025_pdf,strong,2025 J5 costs 1374129.89; tick1318; primary BBC J5
 bud_gkc_rev_2025,apb_gkc,2025,1522340,,,executed,src_gkc_jr2025_pdf,strong,2025 J5 opbrengsten 1522340.01; tick1318; primary BBC J5
+bud_hc_assets_2025,apb_hc,2025,973939,,,executed,src_hc_jr2025_pdf,strong,YE2025 assets 973939.17 was 969517.26; tick1319; primary BBC J4
+bud_hc_assets_2024,apb_hc,2024,969517,,,executed,src_hc_jr2025_pdf,strong,YE2024 assets 969517.26; tick1319; primary BBC J4
+bud_hc_cash_2025,apb_hc,2025,364169,,,executed,src_hc_jr2025_pdf,strong,YE2025 cash 364168.68 was 610559.33 DROP; tick1319; primary BBC J4
+bud_hc_cash_2024,apb_hc,2024,610559,,,executed,src_hc_jr2025_pdf,strong,YE2024 cash 610559.33; tick1319; primary BBC J4
+bud_hc_current_2025,apb_hc,2025,973790,,,executed,src_hc_jr2025_pdf,strong,YE2025 vlottende activa 973790.43; tick1319; primary BBC J4
+bud_hc_recv_st_2025,apb_hc,2025,609360,,,executed,src_hc_jr2025_pdf,strong,YE2025 ST recv 609360.19 (ruil 400926.48 + niet-ruil 208433.71) was 237919.59; tick1319; primary BBC J4
+bud_hc_recv_nietruil_2025,apb_hc,2025,208434,,,executed,src_hc_jr2025_pdf,strong,YE2025 ST niet-ruil recv 208433.71; tick1319; primary BBC J4
+bud_hc_recv_ruil_2025,apb_hc,2025,400926,,,executed,src_hc_jr2025_pdf,strong,YE2025 ST ruil recv 400926.48 was 101919.58; tick1319; primary BBC J4
+bud_hc_fixed_2025,apb_hc,2025,149,,,executed,src_hc_jr2025_pdf,strong,YE2025 vaste activa 148.74 was 136635.09; tick1319; primary BBC J4/T5
+bud_hc_fva_2025,apb_hc,2025,149,,,executed,src_hc_jr2025_pdf,strong,YE2025 FVA 148.74 andere; MVA/IVA 0; tick1319; primary BBC J4/T5
+bud_hc_schulden_2025,apb_hc,2025,230034,,,executed,src_hc_jr2025_pdf,strong,YE2025 schulden 230034.17 ALL ST was 295838.33; tick1319; primary BBC J4
+bud_hc_pay_ruil_2025,apb_hc,2025,228615,,,executed,src_hc_jr2025_pdf,strong,YE2025 non-fin ST ruil pay 228614.60 was 256293.62; tick1319; primary BBC J4
+bud_hc_accruals_2025,apb_hc,2025,1420,,,executed,src_hc_jr2025_pdf,strong,YE2025 overlopend passief 1419.57; tick1319; primary BBC J4
+bud_hc_fin_debt_2025,apb_hc,2025,0,,,executed,src_hc_jr2025_pdf,strong,YE2025 T4 fin debt 0; no new loans no afl; tick1319; primary BBC T4
+bud_hc_equity_2025,apb_hc,2025,743905,,,executed,src_hc_jr2025_pdf,strong,YE2025 nettoactief 743905.00 was 673678.93; tick1319; primary BBC J4/T5
+bud_hc_cum_pnl_2025,apb_hc,2025,743905,,,executed,src_hc_jr2025_pdf,strong,YE2025 gecumuleerd overschot 743905.00 was 673678.93; tick1319; primary BBC J4/T5
+bud_hc_pnl_2025,apb_hc,2025,70226,,,executed,src_hc_jr2025_pdf,strong,2025 J5 PnL +70226.07 (ops +67169.95 / fin +3056.12); tick1319; primary BBC J5
+bud_hc_expl_saldo_2025,apb_hc,2025,178173,,,executed,src_hc_jr2025_pdf,strong,2025 expl saldo +178173.31 (ontv 1367830.77 / uitg 1189657.46); tick1319; primary BBC J2
+bud_hc_expl_ontv_2025,apb_hc,2025,1367831,,,executed,src_hc_jr2025_pdf,strong,2025 expl ontv 1367830.77; tick1319; primary BBC J2
+bud_hc_expl_uitg_2025,apb_hc,2025,1189657,,,executed,src_hc_jr2025_pdf,strong,2025 expl uitg 1189657.46; tick1319; primary BBC J2
+bud_hc_bbr_2025,apb_hc,2025,178173,,,executed,src_hc_jr2025_pdf,strong,2025 BBR year +178173.31; tick1319; primary BBC J2
+bud_hc_cum_bbr_2025,apb_hc,2025,744914,,,executed,src_hc_jr2025_pdf,strong,YE2025 cum BBR 744914.27 was 566740.96; tick1319; primary BBC J2
+bud_hc_afm_2025,apb_hc,2025,178173,,,executed,src_hc_jr2025_pdf,strong,2025 AFM +178173.31 = gecorr AFM; no afl; tick1319; primary BBC J2
+bud_hc_pers_2025,apb_hc,2025,402734,,,executed,src_hc_jr2025_pdf,strong,2025 J5/T2 pers 402733.90 was 708929.38 DROP; VTE unpublished FOI; tick1319; primary BBC
+bud_hc_goods_2025,apb_hc,2025,397180,,,executed,src_hc_jr2025_pdf,strong,2025 J5 goederen/diensten 397179.96 / T2 391479.55; tick1319; primary BBC
+bud_hc_werksub_out_2025,apb_hc,2025,395000,,,executed,src_hc_jr2025_pdf,strong,2025 toegestane werksub 395000.00 to Havenwereld vzw (cash 750000 R/C corr 355000); tick1319; primary BBC J5/T2/bijlage
+bud_hc_werksub_in_2025,apb_hc,2025,1269593,,,executed,src_hc_jr2025_pdf,strong,2025 J5 werksub ontv 1269593.00 (alg 1233926.00 + spec 35667.00); tick1319; primary BBC J5
+bud_hc_werksub_prov_2025,apb_hc,2025,1233926,,,executed,src_hc_jr2025_pdf,strong,2025 T2 alg werksub van de provincie 1233926.00 = J5 alg; T2 spec 0 vs J5 spec 35667; tick1319; primary BBC T2
+bud_hc_other_ops_2025,apb_hc,2025,46224,,,executed,src_hc_jr2025_pdf,strong,2025 J5 andere operationele opbrengsten 46223.66; tick1319; primary BBC J5
+bud_hc_fin_inc_2025,apb_hc,2025,3200,,,executed,src_hc_jr2025_pdf,strong,2025 J5 financiele opbrengsten 3200.13; tick1319; primary BBC J5
+bud_hc_costs_2025,apb_hc,2025,1331844,,,executed,src_hc_jr2025_pdf,strong,2025 J5 costs 1331844.22; tick1319; primary BBC J5
+bud_hc_rev_2025,apb_hc,2025,1402070,,,executed,src_hc_jr2025_pdf,strong,2025 J5 opbrengsten 1402070.29; tick1319; primary BBC J5
+bud_hc_deprec_2025,apb_hc,2025,136486,,,executed,src_hc_jr2025_pdf,strong,2025 J5 afschrijvingen 136486.35; T5 write-off/transfer 90868.21+45618.14; tick1319; primary BBC
