@@ -35453,3 +35453,40 @@ bud_hbh_ops_rev_2025,apb_hbh,2025,638864,,,executed,src_hbh_jr2025_pdf,strong,20
 bud_hbh_costs_2025,apb_hbh,2025,3046617,,,executed,src_hbh_jr2025_pdf,strong,2025 J5 costs 3046616.70; tick1321; primary BBC J5
 bud_hbh_rev_2025,apb_hbh,2025,3161472,,,executed,src_hbh_jr2025_pdf,strong,2025 J5 opbrengsten 3161472.38; tick1321; primary BBC J5
 bud_hbh_deprec_2025,apb_hbh,2025,247808,,,executed,src_hbh_jr2025_pdf,strong,2025 J5 afschrijvingen/waardeverminderingen/voorzieningen 247808.24; tick1321; primary BBC J5/T5
+bud_evapv_assets_2025,eva_pv,2025,8632319,,,executed,src_evapv_jr2025_pdf,strong,YE2025 assets 8632319.20 was 7848965.54; tick1322; primary BBC J4
+bud_evapv_assets_2024,eva_pv,2024,7848966,,,executed,src_evapv_jr2025_pdf,strong,YE2024 assets 7848965.54; tick1322; primary BBC J4
+bud_evapv_cash_2025,eva_pv,2025,4080815,,,executed,src_evapv_jr2025_pdf,strong,YE2025 cash 4080815.16 was 2883307.11 JUMP; tick1322; primary BBC J4
+bud_evapv_cash_2024,eva_pv,2024,2883307,,,executed,src_evapv_jr2025_pdf,strong,YE2024 cash 2883307.11; tick1322; primary BBC J4
+bud_evapv_current_2025,eva_pv,2025,8587753,,,executed,src_evapv_jr2025_pdf,strong,YE2025 vlottende activa 8587753.31; tick1322; primary BBC J4
+bud_evapv_recv_st_2025,eva_pv,2025,4459399,,,executed,src_evapv_jr2025_pdf,strong,YE2025 ST recv 4459398.65 (ruil 417633.02 + niet-ruil 4041765.63) was 4788369.09; tick1322; primary BBC J4
+bud_evapv_recv_nietruil_2025,eva_pv,2025,4041766,,,executed,src_evapv_jr2025_pdf,strong,YE2025 ST niet-ruil recv 4041765.63; tick1322; primary BBC J4
+bud_evapv_recv_ruil_2025,eva_pv,2025,417633,,,executed,src_evapv_jr2025_pdf,strong,YE2025 ST ruil recv 417633.02 JUMP vs 157981.63; tick1322; primary BBC J4
+bud_evapv_inventories_2025,eva_pv,2025,35590,,,executed,src_evapv_jr2025_pdf,strong,YE2025 voorraden 35589.93; tick1322; primary BBC J4
+bud_evapv_accruals_act_2025,eva_pv,2025,11950,,,executed,src_evapv_jr2025_pdf,strong,YE2025 overlopend actief 11949.57; tick1322; primary BBC J4
+bud_evapv_fixed_2025,eva_pv,2025,44566,,,executed,src_evapv_jr2025_pdf,strong,YE2025 vaste activa 44565.89 was 68609.89; tick1322; primary BBC J4
+bud_evapv_fva_2025,eva_pv,2025,149,,,executed,src_evapv_jr2025_pdf,strong,YE2025 FVA 148.74 andere (EVA 0 IGS 0); tick1322; primary BBC J4
+bud_evapv_mva_2025,eva_pv,2025,44417,,,executed,src_evapv_jr2025_pdf,strong,YE2025 MVA 44417.15 leasing 0; tick1322; primary BBC J4
+bud_evapv_machines_2025,eva_pv,2025,44417,,,executed,src_evapv_jr2025_pdf,strong,YE2025 machines/uitrusting 44417.15; tick1322; primary BBC J4
+bud_evapv_schulden_2025,eva_pv,2025,4694828,,,executed,src_evapv_jr2025_pdf,strong,YE2025 schulden 4694828.13 (ST 4665561.28 + LT voorziening 29266.85) was 4963629.13; tick1322; primary BBC J4
+bud_evapv_pay_ruil_2025,eva_pv,2025,2332871,,,executed,src_evapv_jr2025_pdf,strong,YE2025 non-fin ST ruil pay 2332871.21 was 3082693.74; tick1322; primary BBC J4
+bud_evapv_accruals_2025,eva_pv,2025,2315346,,,executed,src_evapv_jr2025_pdf,strong,YE2025 overlopend passief 2315346.46 was 1875117.48 JUMP; tick1322; primary BBC J4
+bud_evapv_provision_lt_2025,eva_pv,2025,29267,,,executed,src_evapv_jr2025_pdf,strong,YE2025 LT voorziening andere risico's 29266.85 (niet pensioen / J4 fin debt empty); tick1322; primary BBC J4
+bud_evapv_fin_debt_2025,eva_pv,2025,0,,,executed,src_evapv_jr2025_pdf,strong,YE2025 J4 financiële schulden empty ST+LT; T4 unpublished; tick1322; primary BBC J4
+bud_evapv_equity_2025,eva_pv,2025,3937491,,,executed,src_evapv_jr2025_pdf,strong,YE2025 nettoactief 3937491.07 was 2885336.41; tick1322; primary BBC J4
+bud_evapv_cum_pnl_2025,eva_pv,2025,3812491,,,executed,src_evapv_jr2025_pdf,strong,YE2025 gecumuleerd overschot 3812491.07 was 2760336.41; tick1322; primary BBC J4
+bud_evapv_pnl_2025,eva_pv,2025,1052155,,,executed,src_evapv_jr2025_pdf,strong,2025 J5 PnL +1052154.66 (ops +1026139.04 / fin +26015.62); tick1322; primary BBC J5
+bud_evapv_expl_saldo_2025,eva_pv,2025,1183000,,,executed,src_evapv_jr2025_pdf,strong,2025 expl saldo +1183000.15 (ontv 5270494.68 / uitg 4087494.53); tick1322; primary BBC J2
+bud_evapv_expl_ontv_2025,eva_pv,2025,5270495,,,executed,src_evapv_jr2025_pdf,strong,2025 expl ontv 5270494.68; tick1322; primary BBC J2
+bud_evapv_expl_uitg_2025,eva_pv,2025,4087495,,,executed,src_evapv_jr2025_pdf,strong,2025 expl uitg 4087494.53; tick1322; primary BBC J2
+bud_evapv_invest_2025,eva_pv,2025,12196,,,executed,src_evapv_jr2025_pdf,strong,2025 invest saldo -12196.15 (uitg 12196.15); tick1322; primary BBC J2
+bud_evapv_bbr_2025,eva_pv,2025,1170804,,,executed,src_evapv_jr2025_pdf,strong,2025 BBR year +1170804.00; tick1322; primary BBC J2
+bud_evapv_cum_bbr_2025,eva_pv,2025,4350240,,,executed,src_evapv_jr2025_pdf,strong,YE2025 cum BBR 4350239.94 was 3179435.94; tick1322; primary BBC J2
+bud_evapv_afm_2025,eva_pv,2025,1183000,,,executed,src_evapv_jr2025_pdf,strong,2025 AFM +1183000.15 = gecorr AFM; no afl; tick1322; primary BBC J2
+bud_evapv_pers_2025,eva_pv,2025,1807841,,,executed,src_evapv_jr2025_pdf,strong,2025 J5 pers 1807841.37; VTE unpublished FOI; tick1322; primary BBC J5
+bud_evapv_goods_2025,eva_pv,2025,2344430,,,executed,src_evapv_jr2025_pdf,strong,2025 J5 goederen/diensten 2344429.56; tick1322; primary BBC J5
+bud_evapv_werksub_in_2025,eva_pv,2025,2776247,,,executed,src_evapv_jr2025_pdf,strong,2025 J5 werksub ontv 2776246.71 (all algemene; spec empty); T2 unpublished FOI; tick1322; primary BBC J5
+bud_evapv_other_ops_2025,eva_pv,2025,154854,,,executed,src_evapv_jr2025_pdf,strong,2025 J5 andere operationele opbrengsten 154854.46; tick1322; primary BBC J5
+bud_evapv_ops_rev_2025,eva_pv,2025,2313019,,,executed,src_evapv_jr2025_pdf,strong,2025 J5 opbrengsten uit de werking 2313019.35; tick1322; primary BBC J5
+bud_evapv_costs_2025,eva_pv,2025,4218340,,,executed,src_evapv_jr2025_pdf,strong,2025 J5 costs 4218340.02; tick1322; primary BBC J5
+bud_evapv_rev_2025,eva_pv,2025,5270495,,,executed,src_evapv_jr2025_pdf,strong,2025 J5 opbrengsten 5270494.68; tick1322; primary BBC J5
+bud_evapv_deprec_2025,eva_pv,2025,65507,,,executed,src_evapv_jr2025_pdf,strong,2025 J5 afschrijvingen/waardeverminderingen/voorzieningen 65507.00; tick1322; primary BBC J5
