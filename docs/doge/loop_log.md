@@ -17432,3 +17432,14 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources+5/entities(new+city note)/budgets+10/commitments+7/leaderboard+6 + FOI ready `gap_mintus_jr2025_pdf_opaque_city_dual_26_36m_l5` (not sent); rq_1269=done; spawn rq_1270; ticks=1269. No every-10 (1269 not a *0 tick).
 - Next: rq_1270 residual dual L5 VL JR2025 hole_fill + **every-10 progress refresh** (tick 1270 is a *0 tick). Prefer other unmined AGB/zorg/EVA with direct PDF.
 
+
+### Tick 1270 - 2026-08-17 - rq_1270 AGB MAC Mechelen dual residual + progress@1270
+- Unit: AGB Mechelen Actief in Cultuur (MAC) JR2025 Entity II after city Mechelen GE tick829 + Energiepunt tick1162 + SAM tick1173 + Rivierenland tick1247 (KBO 0546.688.337; AGB since 01.01.2014; 56p BBC text PDF published 15.06.2026; RvB 08.06.2026). **Distinct from** SAM (0871.106.718) and Energiepunt (0843.922.170). Seat Grote Markt 21. Venues CCM / Hof van Busleyden / Predikheren / De Garage / Extern. WAGSO already mined tick1199. Brugge siblings SAS/Blauwe Lelie/SPOOR/WOK skipped (no separate JR).
+- EUR strong (primary BBC text PDF): assets **45.595m** (was 49.255m); cash **1.282m** JUMP; MVA **43.443m** of which leasing **40.783m**; fin debt **40.335m** (LT **38.266m** + ST due **2.069m**) declining vs **42.385m**; new loans **0**; expl **+2.714m** (ontv **6.893m** / uitg **4.180m**); invest **−0.281m**; BBR **+0.382m** / avail **+0.608m**; AFM **+0.663m** / **gecorr −0.677m NEG**; city prijssub **4.519m** exe (budget 4.046m) + BTW **0.305m** = **4.824m**; PnL **+0.655m**; dividend to city **0.400m**; cum P&L flip **−0.225 → +0.030m**. Personeel N/A (city payroll). VenB 2025 not on portal; NBB SPA this box.
+- CSVs: sources+5/entities(new+city note)/budgets+24/commitments+7/leaderboard+7 + FOI ready `gap_mac_gecorr_afm_neg_0_68m_fin_debt_40_33m_venb_l5` (not sent); rq_1270=done; spawn rq_1271; ticks=1270.
+- Progress@1270: refreshed progress_every_10_ticks.md + doge_waste_top10_current.md. Layers A 100 / B 100 / C ~99 / D ~74-88 (not near-complete of 348bn) / E ~913 ready. Pure annual waste top10 **stable** vs 1260 (GIP/fossil/cars/cheque/reporté). Dual off-top10 adds MAC fin debt 40.33m / leasing 40.78m / gecorr AFM −0.68m + Mintus 26.36m / Digipolis 73.61m.
+- Coverage: 1261–1270 is residual dual L5 (AGSO · CIA E/K · EBF · Digipolis · Atlas · Amal · Fietsambassade · Mintus · **MAC**). Does **not** move L5 near-complete of €347.956 bn TE. Taxex/FFS remain off-TE.
+- Inventory@1270: budgets ~33918 · commitments ~4663 · leaderboard ~6817 · entities ~992 · sources ~2229 · FOI ready ~913 / answered ~9 / partial ~27 / total ~961.
+- Dual theme this decade: culture leasing/erfpacht shell + NEG gecorr AFM while paying city dividend; prior mega real-estate/care/ICT stack retained.
+- Next: rq_1271 residual dual L5 VL JR2025 hole_fill (prefer other unmined AGB/zorg/EVA with direct PDF; Brugge SAS/Lelie/SPOOR/WOK only if own JR).
+

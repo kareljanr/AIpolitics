@@ -33893,3 +33893,27 @@ bud_mintus_thes_lt_repay_2025,mintus_brugge,2025,1530000.0,,,executed,src_brugge
 bud_mintus_creditor_vs_2024_delta,mintus_brugge,2025,169999.9699999988,,,executed,src_brugge_jr2025_bd3_mintus,strong,2025 creditor 26.356642m minus 2024 register 26.18664203m = +0.170000m; tick1269
 bud_mintus_klimaat_exe_2025,mintus_brugge,2025,-672.51,,,executed,src_brugge_jr2025_bd3_mintus,strong,JR2025 bd3 BV0350 Mintus-only klimaat aangerekend -672.51 (budget 12675); tick1269
 bud_mintus_klimaat_bud_2025,mintus_brugge,2025,12675.0,,,budgeted,src_brugge_jr2025_bd3_mintus,strong,JR2025 bd3 BV0350 Mintus-only klimaat budget 12675; tick1269
+bud_mac_assets_2025,agb_mac_mechelen,2025,45594748.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J4 assets 45.594748m (was 49.255025m); tick1270
+bud_mac_cash_2025,agb_mac_mechelen,2025,1282480.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J4 cash 1.282480m JUMP vs 0.671205m; tick1270
+bud_mac_fin_debt_2025,agb_mac_mechelen,2025,40334859.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 T4 fin debt 40.334859m (LT 38.266166 + ST due 2.068693) declining vs 42.385225m; tick1270
+bud_mac_lt_debt_2025,agb_mac_mechelen,2025,38266166.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 T4/J4 LT fin debt 38.266166m; tick1270
+bud_mac_st_due_2025,agb_mac_mechelen,2025,2068693.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 T4 ST due within year 2.068693m; tick1270
+bud_mac_netto_2025,agb_mac_mechelen,2025,3434806.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J4 nettoactief 3.434806m (kapsub 3.405152 + cum 0.029653); tick1270
+bud_mac_cum_pnl_2025,agb_mac_mechelen,2025,29653.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J4 cum P&L +0.029653m FLIP vs -0.225069m; tick1270
+bud_mac_afm_2025,agb_mac_mechelen,2025,663363.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J2 AFM +0.663363m; tick1270
+bud_mac_gecorr_afm_2025,agb_mac_mechelen,2025,-677089.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J2 gecorr AFM -0.677089m NEG (aangewezen 3.390818 vs periodiek 2.050366); tick1270
+bud_mac_bbr_2025,agb_mac_mechelen,2025,382400.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J2 BBR year +0.382400m; tick1270
+bud_mac_bbr_avail_2025,agb_mac_mechelen,2025,607569.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J2 beschikbaar BBR 0.607569m; tick1270
+bud_mac_expl_uit_2025,agb_mac_mechelen,2025,4179659.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J2/J3 expl uitgaven 4.179659m; tick1270
+bud_mac_expl_ont_2025,agb_mac_mechelen,2025,6893388.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J2/J3 expl ontvangsten 6.893388m; tick1270
+bud_mac_expl_saldo_2025,agb_mac_mechelen,2025,2713729.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J2 expl saldo +2.713729m; tick1270
+bud_mac_inv_uit_2025,agb_mac_mechelen,2025,283175.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J2 invest uitgaven 0.283175m (credit 1.870811); tick1270
+bud_mac_inv_saldo_2025,agb_mac_mechelen,2025,-280963.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J2 invest saldo -0.280963m; tick1270
+bud_mac_fin_afl_2025,agb_mac_mechelen,2025,2050366.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J2/T4 periodieke aflossingen 2.050366m; new loans 0; tick1270
+bud_mac_pnl_2025,agb_mac_mechelen,2025,654722.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J5 surplus 0.654722m (opbr 7.557339 / kost 6.902617); tick1270
+bud_mac_dividend_2025,agb_mac_mechelen,2025,400000.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J5 rechthebbenden/dividend to city 0.400000m; tick1270
+bud_mac_prijssub_2025,agb_mac_mechelen,2025,4519358.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 annex city prijssubsidie 4.519358m exe (budget 4.046001); tick1270
+bud_mac_city_sub_tot_2025,agb_mac_mechelen,2025,4824439.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 annex city prijssub+BTW 4.824439m (BTW 0.305081); invest-toelage 0; tick1270
+bud_mac_leasing_mva_2025,agb_mac_mechelen,2025,40783387.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J4 leasing/soortgelijke rechten MVA 40.783387m (was 42.508402); tick1270
+bud_mac_werksub_t2_2025,agb_mac_mechelen,2025,167635.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 T2 specifieke werkingssubsidies cash 0.167635m (VL 0.156008 + city 0.011627); tick1270
+bud_mac_mva_2025,agb_mac_mechelen,2025,43442671.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J4 MVA 43.442671m; tick1270

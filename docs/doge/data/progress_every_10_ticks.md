@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1270** (2026-08-17)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1261-1270: AGSO · CIA Erfgoed · CIA Kunsten · EBF · Digipolis · Atlas · Amal · Fietsambassade · Mintus · **AGB MAC Mechelen** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1261-1270 is VL residual dual L5 (not near-complete of 348bn):** **AGB MAC** assets **45.6m** fin debt **40.3m** leasing **40.8m** gecorr AFM **−0.68m** city prijssub **4.52m** PnL **0.65m** dividend **0.40m** · **Mintus** city dual **26.36m** deelneming **56.96m** · Digipolis assets **73.61m** member omzet **221.9m** · Atlas city dual **21.85m** · AGSO / CIA / Amal / Fietsambassade stack retained |
+| **E. FOI-ready gaps** | **~913** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~961** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM shells** (**NEW AGB MAC** fin debt **EUR40.3m** leasing **EUR40.8m** gecorr AFM **−EUR0.68m** city prijssub **EUR4.52m** · **Mintus** dual **EUR26.36m** deelneming **EUR56.96m** · Digipolis assets **EUR73.61m** · prior **AG Vespa** fin debt **EUR179.6m** DBFM **EUR109.4m** · **sogent** AFM **−EUR3.90m** debt **EUR96.3m** · AG-O cum loss **−EUR29.2m** · Zorgbedrijf Antwerpen AFM **−EUR18.87m** debt **EUR220m** / Dodoens equity **−EUR18.88m** / Hasselt ~EUR95–103m stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1270)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~33918 |
+| commitments.csv | ~4663 |
+| leaderboard.csv | ~6817 |
+| entities.csv | ~992 |
+| sources.csv | ~2229 |
+| FOI ready | ~913 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~961 |
+| research_queue open | rq_116 deferred + rq_1271 hole-fill after progress |
+
+### What improved since tick 1260
+
+- **VL residual dual JR2025 Entity II (tick1261-1269):** AGSO Antwerpen assets **725.2m** fin debt **82.7m** · CIA Erfgoed city dual **11.34m** · CIA Kunsten BBR **2.76m** city dual **0.19m** · EBF BBR cum **1.02m** · Digipolis assets **73.61m** member omzet **221.9m** · Atlas city dual **21.85m** · Amal city dual **7.37m** · Fietsambassade city dual **2.65m** · **Mintus Brugge** creditor **26.36m** deelneming **56.96m**.
+- **NEW (tick1270):** **AGB MAC Mechelen** culture AGB (KBO 0546.688.337) assets **45.595m** · cash **1.282m** JUMP · **fin debt 40.335m** (leasing MVA **40.783m**) · AFM **+0.663m** / **gecorr AFM −0.677m NEG** · BBR **+0.382m** / avail **+0.608m** · city prijssub **4.519m** (+BTW **0.305m** = **4.824m**) · PnL **+0.655m** · dividend to city **0.400m** · cum P&L flip to **+0.030m** · VenB 2025 unpublished · FOI T4 split + 2026 lock ready.
+- **Dual map themes:** **culture leasing/erfpacht shell + NEG gecorr AFM + city dividend** (MAC) · **zorg-EVA city dual + deelneming stock** (Mintus) · **ICT cost-recovery AGB** (Digipolis) · prior mega real-estate / care stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
 ## Snapshot at **tick 1260** (2026-08-17)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
