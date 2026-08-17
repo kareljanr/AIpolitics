@@ -34317,3 +34317,42 @@ bud_hh_dividend_2025,city_houthalen_helchteren,2025,2311043,,,executed,src_hh_jr
 bud_hh_school_inv_2025,city_houthalen_helchteren,2025,4808669,,,executed,src_hh_jr2025_bbc,strong,T3 school t Centrum 2025 uitg 4.808669m / AGION 3.283656m; tick1285
 bud_hh_waarborg_2025,city_houthalen_helchteren,2025,19824181.05,,,executed,src_hh_jr2025_bbc,strong,BBC waarborgen 19.824181m (AGB MP 17.403m); tick1285
 bud_hh_consol_avail_2025,city_houthalen_helchteren,2025,7241144,,,executed,src_hh_jr2025_bbc,strong,J2 consol avail +AGB 7.241144m; tick1285
+bud_agbsco_assets_2025,agb_sco_ronse,2025,23809497,,,executed,src_agbsco_jr2025_bbc,strong,J4 assets 23.809497m vs 24.279343m; tick1286; primary BBC
+bud_agbsco_assets_2024,agb_sco_ronse,2024,24279343,,,executed,src_agbsco_jr2025_bbc,strong,J4 YE2024 assets 24.279343m; tick1286; primary BBC
+bud_agbsco_cash_2025,agb_sco_ronse,2025,299158,,,executed,src_agbsco_jr2025_bbc,strong,J4 cash 0.299158m JUMP vs 0.239693m; tick1286; primary BBC
+bud_agbsco_cash_2024,agb_sco_ronse,2024,239693,,,executed,src_agbsco_jr2025_bbc,strong,J4 YE2024 cash 0.239693m; tick1286; primary BBC
+bud_agbsco_mva_2025,agb_sco_ronse,2025,22246226,,,executed,src_agbsco_jr2025_bbc,strong,J4 MVA 22.246226m; leasing 21.585m; buildings 0.492m; tick1286; primary BBC
+bud_agbsco_leasing_2025,agb_sco_ronse,2025,21585336,,,executed,src_agbsco_jr2025_bbc,strong,J4 bedrijfsmatig leasing/erfpacht 21.585336m vs 22.033564m; tick1286; primary BBC
+bud_agbsco_buildings_2025,agb_sco_ronse,2025,492239,,,executed,src_agbsco_jr2025_bbc,strong,J4 terreinen en gebouwen 0.492239m; tick1286; primary BBC
+bud_agbsco_iva_2025,agb_sco_ronse,2025,33872,,,executed,src_agbsco_jr2025_bbc,strong,J4 IVA 0.033872m vs 0.014421m; tick1286; primary BBC
+bud_agbsco_equity_2025,agb_sco_ronse,2025,442810,,,executed,src_agbsco_jr2025_bbc,strong,J4 nettoactief 0.442810m JUMP vs 0.235774m; tick1286; primary BBC
+bud_agbsco_equity_2024,agb_sco_ronse,2024,235774,,,executed,src_agbsco_jr2025_bbc,strong,J4 YE2024 nettoactief 0.235774m; tick1286; primary BBC
+bud_agbsco_cum_pnl_2025,agb_sco_ronse,2025,211671,,,executed,src_agbsco_jr2025_bbc,strong,T5 gecumuleerd overschot 0.211671m (was 0.004122 + PnL 0.208m); tick1286; primary BBC
+bud_agbsco_other_equity_2025,agb_sco_ronse,2025,215000,,,executed,src_agbsco_jr2025_bbc,strong,T5 overig nettoactief/kapitaal 0.215000m; tick1286; primary BBC
+bud_agbsco_schulden_2025,agb_sco_ronse,2025,23366687,,,executed,src_agbsco_jr2025_bbc,strong,J4 schulden 23.366687m vs 24.043569m; tick1286; primary BBC
+bud_agbsco_fin_debt_2025,agb_sco_ronse,2025,22650566,,,executed,src_agbsco_jr2025_bbc,strong,T4 fin debt 22.650566m vs 23.096573m; tick1286; primary BBC
+bud_agbsco_fin_debt_2024,agb_sco_ronse,2024,23096573,,,executed,src_agbsco_jr2025_bbc,strong,T4 YE2024 fin debt 23.096573m; tick1286; primary BBC
+bud_agbsco_fin_debt_lt_2025,agb_sco_ronse,2025,22064754,,,executed,src_agbsco_jr2025_bbc,strong,T4/J4 LT fin 22.064754m; tick1286; primary BBC
+bud_agbsco_st_due_2025,agb_sco_ronse,2025,585811,,,executed,src_agbsco_jr2025_bbc,strong,T4/J4 ST due 0.585811m; tick1286; primary BBC
+bud_agbsco_new_loans_2025,agb_sco_ronse,2025,137387,,,executed,src_agbsco_jr2025_bbc,strong,T4/T2 new loans 0.137387m (T2 fin inst; doc 1740002 city); tick1286; primary BBC
+bud_agbsco_afl_2025,agb_sco_ronse,2025,583395,,,executed,src_agbsco_jr2025_bbc,strong,T4/J2 periodieke aflossingen 0.583395m; tick1286; primary BBC
+bud_agbsco_erfpacht_ververij_2025,agb_sco_ronse,2025,9466160.83,,,executed,src_agbsco_jr2025_bbc,strong,TB 1721100 erfpacht Ververij 9.466161m; tick1286; primary BBC
+bud_agbsco_erfpacht_zwembad_2025,agb_sco_ronse,2025,7803092.14,,,executed,src_agbsco_jr2025_bbc,strong,TB 1721200 erfpacht zwembad 7.803092m; tick1286; primary BBC
+bud_agbsco_erfpacht_sporthal_2025,agb_sco_ronse,2025,3982979.42,,,executed,src_agbsco_jr2025_bbc,strong,TB 1721000 erfpacht sporthal 3.982979m; tick1286; primary BBC
+bud_agbsco_city_loan_2025,agb_sco_ronse,2025,812522.04,,,executed,src_agbsco_jr2025_bbc,strong,TB 1740002 schulden aan de gemeente 0.812522m; tick1286; primary BBC
+bud_agbsco_expl_2025,agb_sco_ronse,2025,732062,,,executed,src_agbsco_jr2025_bbc,strong,J2 exploitatiesaldo +0.732062m; tick1286; primary BBC
+bud_agbsco_expl_ontv_2025,agb_sco_ronse,2025,2588511,,,executed,src_agbsco_jr2025_bbc,strong,J2 expl ontv 2.588511m; tick1286; primary BBC
+bud_agbsco_expl_uitg_2025,agb_sco_ronse,2025,1856449,,,executed,src_agbsco_jr2025_bbc,strong,J2 expl uitg 1.856449m; tick1286; primary BBC
+bud_agbsco_invest_2025,agb_sco_ronse,2025,-137387,,,executed,src_agbsco_jr2025_bbc,strong,J2 invest saldo -0.137387m (uitg 0.137m / ontv 0); tick1286; primary BBC
+bud_agbsco_bbr_2025,agb_sco_ronse,2025,148667,,,executed,src_agbsco_jr2025_bbc,strong,J2 budgettair resultaat boekjaar +0.148667m; tick1286; primary BBC
+bud_agbsco_avail_2025,agb_sco_ronse,2025,813277,,,executed,src_agbsco_jr2025_bbc,strong,J2 beschikbaar BBR 0.813277m (onbeschikbaar 0); tick1286; primary BBC
+bud_agbsco_afm_2025,agb_sco_ronse,2025,148667,,,executed,src_agbsco_jr2025_bbc,strong,J2 AFM +0.148667m; tick1286; primary BBC
+bud_agbsco_gecorr_2025,agb_sco_ronse,2025,-1115664,,,executed,src_agbsco_jr2025_bbc,strong,J2 gecorr AFM -1.115664m NEG (aangewezen 1.847726m); tick1286; primary BBC
+bud_agbsco_aangewezen_2025,agb_sco_ronse,2025,1847726,,,executed,src_agbsco_jr2025_bbc,strong,J2 aangewezen aflossingen 1.847726m; tick1286; primary BBC
+bud_agbsco_pnl_2025,agb_sco_ronse,2025,207548,,,executed,src_agbsco_jr2025_bbc,strong,J5 PnL +0.207548m vs +0.233209m retained; tick1286; primary BBC
+bud_agbsco_pers_2025,agb_sco_ronse,2025,19260,,,executed,src_agbsco_jr2025_bbc,strong,J5 bezoldigingen 0.019260m (conciërge+jobstudenten; VTE FOI); tick1286; primary BBC
+bud_agbsco_goederen_2025,agb_sco_ronse,2025,1766099,,,executed,src_agbsco_jr2025_bbc,strong,J5 goederen en diensten 1.766099m; tick1286; primary BBC
+bud_agbsco_depr_2025,agb_sco_ronse,2025,525026,,,executed,src_agbsco_jr2025_bbc,strong,J5 afschrijvingen 0.525026m; tick1286; primary BBC
+bud_agbsco_omzet_2025,agb_sco_ronse,2025,2581875,,,executed,src_agbsco_jr2025_bbc,strong,J5 opbrengsten uit de werking 2.581875m; tick1286; primary BBC
+bud_agbsco_prijssub_2025,agb_sco_ronse,2025,1704966.12,,,executed,src_agbsco_jr2025_bbc,strong,Doc prijssub city 1.704966m excl / 1.815144m incl BTW; tick1286; primary BBC
+bud_agbsco_city_staff_2025,agb_sco_ronse,2025,778881.17,,,executed,src_agbsco_jr2025_bbc,strong,TB 617 vergoeding personen ter beschikking stad 0.778881m; tick1286; primary BBC

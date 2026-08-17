@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T12:25:00Z,rq_1285,1285,no,tick1285 Stad+OCMW HH JR2025 GE residual; KBO 0216.773.026/0216.773.125; assets 181.572m fin debt 17.366m pension 3.688m OCMW equity -12.892m AGB sub 0.579m; FOI ready; next rq_1286 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T13:05:00Z,rq_1286,1286,no,tick1286 AGB SCO Ronse JR2025 dual residual; KBO 0882.840.154; assets 23.809m fin debt 22.651m leasing 21.585m prijssub 1.705m gecorr AFM -1.116m; FOI ready; next rq_1287 residual dual L5 VL; continuous hole_fill
