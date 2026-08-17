@@ -34194,3 +34194,27 @@ bud_wezembeek_police_2025,city_wezembeek_oppem,2025,3085408,,,executed,src_wezem
 bud_wezembeek_hvz_2025,city_wezembeek_oppem,2025,812171,,,executed,src_wezembeek_jr2025_bbc,strong,T2 HVZ Vlaams-Brabant West 0.812171m; tick1281
 bud_wezembeek_ocmw_int_2025,city_wezembeek_oppem,2025,1764562,,,executed,src_wezembeek_jr2025_bbc,strong,T5 city tussenkomst OCMW tekort 1.764562m; tick1281
 bud_wezembeek_agb_sub_2025,city_wezembeek_oppem,2025,0,,,executed,src_wezembeek_jr2025_bbc,strong,J4 EVA FVA 0; T2 AGB werksub 0; consol = GE+OCMW; tick1281
+bud_agbmp_assets_2025,agb_houthalen_masterplan,2025,27292775.3,,,executed,src_agbmp_jr2025_nbb,strong,NBB 20/58 assets 27.292775m vs 28.375023m; tick1282; NBB not BBC J2
+bud_agbmp_assets_2024,agb_houthalen_masterplan,2024,28375023.47,,,executed,src_agbmp_jr2025_nbb,strong,NBB YE2024 assets 28.375023m; tick1282; NBB not BBC J2
+bud_agbmp_mva_2025,agb_houthalen_masterplan,2025,22299788.34,,,executed,src_agbmp_jr2025_nbb,strong,NBB 22/27 MVA 22.299788m; buildings 21.538m; leasing 0; tick1282; NBB not BBC J2
+bud_agbmp_buildings_2025,agb_houthalen_masterplan,2025,21538371.24,,,executed,src_agbmp_jr2025_nbb,strong,NBB 22 terreinen en gebouwen 21.538371m; tick1282; NBB not BBC J2
+bud_agbmp_cash_2025,agb_houthalen_masterplan,2025,1888247.9,,,executed,src_agbmp_jr2025_nbb,strong,NBB 54/58 cash 1.888248m DROP vs 2.952425m; tick1282; NBB not BBC J2
+bud_agbmp_trade_rec_2025,agb_houthalen_masterplan,2025,3090714.64,,,executed,src_agbmp_jr2025_nbb,strong,NBB 40 handelsvorderingen 3.090715m vs 2.530873m; tick1282; NBB not BBC J2
+bud_agbmp_equity_2025,agb_houthalen_masterplan,2025,-657807.49,,,executed,src_agbmp_jr2025_nbb,strong,NBB 10/15 EV NEG -0.657807m vs -0.953386m; tick1282; NBB not BBC J2
+bud_agbmp_capital_2025,agb_houthalen_masterplan,2025,900000.0,,,executed,src_agbmp_jr2025_nbb,strong,NBB 10 kapitaal 0.900000m; tick1282; NBB not BBC J2
+bud_agbmp_retained_2025,agb_houthalen_masterplan,2025,-1557807.49,,,executed,src_agbmp_jr2025_nbb,strong,NBB 14 overgedragen verlies -1.557807m vs -1.853386m; tick1282; NBB not BBC J2
+bud_agbmp_fin_debt_2025,agb_houthalen_masterplan,2025,27808059.9,,,executed,src_agbmp_jr2025_nbb,strong,NBB 17+42+43 fin debt 27.808060m vs 29.173858m; tick1282; NBB not BBC J2
+bud_agbmp_fin_debt_lt_2025,agb_houthalen_masterplan,2025,24905786.65,,,executed,src_agbmp_jr2025_nbb,strong,NBB 170/4 LT fin 24.905787m (bank/leasing 16.410 + other 8.496); tick1282; NBB not BBC J2
+bud_agbmp_lt_bank_2025,agb_houthalen_masterplan,2025,16410048.79,,,executed,src_agbmp_jr2025_nbb,strong,NBB 172/3 kredietinstellingen/leasing 16.410049m; tick1282; NBB not BBC J2
+bud_agbmp_lt_other_2025,agb_houthalen_masterplan,2025,8495737.86,,,executed,src_agbmp_jr2025_nbb,strong,NBB 174/0 overige leningen 8.495738m (city-like; confirm FOI); tick1282; NBB not BBC J2
+bud_agbmp_st_due_2025,agb_houthalen_masterplan,2025,1397728.76,,,executed,src_agbmp_jr2025_nbb,strong,NBB 42 ST due of LT 1.397729m; tick1282; NBB not BBC J2
+bud_agbmp_st_bank_2025,agb_houthalen_masterplan,2025,1504544.49,,,executed,src_agbmp_jr2025_nbb,strong,NBB 430/8 ST bank 1.504544m; tick1282; NBB not BBC J2
+bud_agbmp_debt_total_2025,agb_houthalen_masterplan,2025,27950582.79,,,executed,src_agbmp_jr2025_nbb,strong,NBB 17/49 schulden 27.950583m vs 29.328409m; tick1282; NBB not BBC J2
+bud_agbmp_gross_2025,agb_houthalen_masterplan,2025,2499759.83,,,executed,src_agbmp_jr2025_nbb,strong,NBB 9900 brutomarge 2.499760m vs 3.045415m; tick1282; NBB not BBC J2
+bud_agbmp_ebit_2025,agb_houthalen_masterplan,2025,1006850.29,,,executed,src_agbmp_jr2025_nbb,strong,NBB 9901 EBIT 1.006850m vs 1.565791m; tick1282; NBB not BBC J2
+bud_agbmp_depr_2025,agb_houthalen_masterplan,2025,1266071.65,,,executed,src_agbmp_jr2025_nbb,strong,NBB 630 afschrijvingen 1.266072m; tick1282; NBB not BBC J2
+bud_agbmp_fin_cost_2025,agb_houthalen_masterplan,2025,725051.06,,,executed,src_agbmp_jr2025_nbb,strong,NBB 65 fin kost 0.725051m vs 0.762636m; tick1282; NBB not BBC J2
+bud_agbmp_pnl_2025,agb_houthalen_masterplan,2025,295578.26,,,executed,src_agbmp_jr2025_nbb,strong,NBB 9904/9905 PnL +0.295578m vs +0.882215m; no dividend; tick1282; NBB not BBC J2
+bud_agbmp_capex_2025,agb_houthalen_masterplan,2025,681909.91,,,executed,src_agbmp_jr2025_nbb,strong,NBB 8169 aanschaffingen 0.681910m; tick1282; NBB not BBC J2
+bud_agbmp_mva_gross_2025,agb_houthalen_masterplan,2025,42313506.5,,,executed,src_agbmp_jr2025_nbb,strong,NBB 8199 MVA gross 42.313507m / accum dep 20.014m; tick1282; NBB not BBC J2
+bud_agbmp_lt_gt5_2025,agb_houthalen_masterplan,2025,19119678.41,,,executed,src_agbmp_jr2025_nbb,strong,NBB 8913 remaining >5y 19.119678m; tick1282; NBB not BBC J2
