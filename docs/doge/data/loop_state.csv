@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T23:40:00Z,rq_1336,1336,no,tick1336 WV Weldenderend leftover zorg residual; KBO 0677.764.437; live JR2025 BBC PDF; sourced euros assets 0.142m cash 0.055m OCMW werksub 0.186m; FOI ready; next rq_1337 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-18T00:10:00Z,rq_1337,1337,no,tick1337 WV Sleutelzorg leftover zorg residual; KBO 0736.364.909; no fetchable JR2025 BBC/NBB PDF; no sourced euros; FOI ready; next rq_1338 residual dual L5 VL; continuous hole_fill
