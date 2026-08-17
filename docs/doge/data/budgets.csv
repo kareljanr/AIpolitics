@@ -33917,3 +33917,27 @@ bud_mac_city_sub_tot_2025,agb_mac_mechelen,2025,4824439.0,,,executed,src_mac_jr2
 bud_mac_leasing_mva_2025,agb_mac_mechelen,2025,40783387.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J4 leasing/soortgelijke rechten MVA 40.783387m (was 42.508402); tick1270
 bud_mac_werksub_t2_2025,agb_mac_mechelen,2025,167635.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 T2 specifieke werkingssubsidies cash 0.167635m (VL 0.156008 + city 0.011627); tick1270
 bud_mac_mva_2025,agb_mac_mechelen,2025,43442671.0,,,executed,src_mac_jr2025_bbc,strong,JR2025 J4 MVA 43.442671m; tick1270
+bud_kruibeke_agb_assets_2025,agb_kruibeke_sport,2025,1883844.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 J4 assets 1.883844m; tick1271
+bud_kruibeke_agb_cash_2025,agb_kruibeke_sport,2025,76768.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 J4 cash 0.076768m DROP vs 0.179924m; tick1271
+bud_kruibeke_agb_fin_debt_2025,agb_kruibeke_sport,2025,1709928.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 T3 fin debt 1.709928m (LT 1.417651 + ST due 0.292277) vs 1.910678m; all city renteloos; 0 bank 0 leasing; tick1271
+bud_kruibeke_agb_lt_debt_2025,agb_kruibeke_sport,2025,1417651.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 T3/J4 LT fin debt 1.417651m andere leningen; tick1271
+bud_kruibeke_agb_st_due_2025,agb_kruibeke_sport,2025,292277.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 T3 ST due within year 0.292277m; tick1271
+bud_kruibeke_agb_netto_2025,agb_kruibeke_sport,2025,11244.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 J4 nettoactief thin 0.011244m (kapsub 615 + cum 10629); tick1271
+bud_kruibeke_agb_cum_pnl_2025,agb_kruibeke_sport,2025,10629.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 J4 cum P&L +0.010629m; tick1271
+bud_kruibeke_agb_afm_2025,agb_kruibeke_sport,2025,11972.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 J2 AFM +0.011972m (AMJP 900); tick1271
+bud_kruibeke_agb_gecorr_afm_2025,agb_kruibeke_sport,2025,163355.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 J2 gecorr AFM +0.163355m (aangewezen 0.152854 vs periodiek 0.304237); tick1271
+bud_kruibeke_agb_bbr_2025,agb_kruibeke_sport,2025,12859.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 J2 BBR year +0.012859m (AMJP 900); tick1271
+bud_kruibeke_agb_bbr_avail_2025,agb_kruibeke_sport,2025,233774.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 J2 beschikbaar BBR 0.233774m (cum prev 0.220915); tick1271
+bud_kruibeke_agb_expl_uit_2025,agb_kruibeke_sport,2025,229013.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 J2 expl uitgaven 0.229013m (AMJP 0.222939); tick1271
+bud_kruibeke_agb_expl_ont_2025,agb_kruibeke_sport,2025,545222.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 J2 expl ontvangsten 0.545222m (AMJP 0.522808); tick1271
+bud_kruibeke_agb_expl_saldo_2025,agb_kruibeke_sport,2025,316209.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 J2 expl saldo +0.316209m; tick1271
+bud_kruibeke_agb_inv_uit_2025,agb_kruibeke_sport,2025,102600.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 J2 invest uitgaven 0.102600m (AMJP 0.158000); tick1271
+bud_kruibeke_agb_inv_saldo_2025,agb_kruibeke_sport,2025,-102600.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 J2 invest saldo -0.102600m; tick1271
+bud_kruibeke_agb_fin_afl_2025,agb_kruibeke_sport,2025,304237.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 J2/T3 periodieke aflossingen 0.304237m; tick1271
+bud_kruibeke_agb_new_loan_2025,agb_kruibeke_sport,2025,103487.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 T3 new city renteloos 0.103487m (invest 0.102600 + 887 prior-loan correction); tick1271
+bud_kruibeke_agb_pnl_2025,agb_kruibeke_sport,2025,35215.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 J5 surplus 0.035215m (opbr 0.545435 / kost 0.510220) full to rechthebbenden; tick1271
+bud_kruibeke_agb_prijssub_2025,agb_kruibeke_sport,2025,423059.4,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 city prijssubsidie 423059.40 excl BTW exe (AMJP 416000); tick1271
+bud_kruibeke_agb_mva_2025,agb_kruibeke_sport,2025,1482889.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 J4 MVA 1.482889m (gebouwen 1.380363 + install 0.099292 + meubilair 0.003233); tick1271
+bud_kruibeke_agb_st_recv_2025,agb_kruibeke_sport,2025,319677.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 J4 ST recv 0.319677m (ruil 0.151483 + niet-ruil 0.168194); tick1271
+bud_kruibeke_agb_mjp_expl_2026,agb_kruibeke_sport,2026,328988.0,,,budget,src_agb_kruibeke_mjp2026,strong,MJP 2026-2031 expl saldo 0.328988m; BBR 10000 AFM 10000; tick1271
+bud_kruibeke_agb_mjp_inv_2026,agb_kruibeke_sport,2026,345000.0,,,budget,src_agb_kruibeke_mjp2026,strong,MJP 2026 invest uitgaven 0.345000m city-loan financed; tick1271

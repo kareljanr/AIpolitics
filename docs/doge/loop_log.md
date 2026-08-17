@@ -17443,3 +17443,10 @@ Append-only. Each tick adds a short entry.
 - Dual theme this decade: culture leasing/erfpacht shell + NEG gecorr AFM while paying city dividend; prior mega real-estate/care/ICT stack retained.
 - Next: rq_1271 residual dual L5 VL JR2025 hole_fill (prefer other unmined AGB/zorg/EVA with direct PDF; Brugge SAS/Lelie/SPOOR/WOK only if own JR).
 
+
+### Tick 1271 - 2026-08-17 - rq_1271 AGB Kruibeke/BKZ sport dual residual
+- Unit: AGB Sport, Cultuur & Recreatie Kruibeke JR2025 Entity II after city BKZ GE tick883 + Zorgpunt Waasland tick1240 (KBO 0878.836.925; AGB since 25.07.2005; renamed AGB Beveren-Kruibeke-Zwijndrecht 30.06.2026; BBC text PDF; RvB 30.06.2026). **Distinct from** IBOGEM (waste AGB, JR2025 unpublished) and Zorgpunt Waasland. Seat JR Onze-Lieve-Vrouwplein 18 9150; KBO seat Gravenplein 8 9120. Venues De Dulpop + Rupelmonde loods. AGSO Knokke already mined 1217 — not redone.
+- EUR strong (primary BBC text PDF): assets **1.884m**; cash **0.077m** DROP vs **0.180m**; MVA **1.483m**; fin debt **1.710m** (LT **1.418m** + ST due **0.292m**) all city renteloos, 0 bank/0 leasing, declining vs **1.911m**; new loans **0.103m** (+887 correction); expl **+0.316m** (ontv **0.545m** / uitg **0.229m**); invest **−0.103m**; BBR **+0.013m** / avail **+0.234m**; AFM **+0.012m** / gecorr **+0.163m**; city prijssub **0.423m** exe (AMJP 0.416m); PnL **+0.035m** full to rechthebbenden; **nettoactief thin 0.011m**. Personeel 0 (city payroll). VenB 2025 not retrieved; NBB SPA this box.
+- CSVs: sources+5/entities(new+city_bkz note)/budgets+24/commitments+6/leaderboard+6 + FOI ready `gap_kruibeke_agb_thin_equity_0_01m_fin_debt_1_71m_prijssub_0_42m_l5` (not sent); rq_1271=done; spawn rq_1272; ticks=1271. Not a *0 tick — no progress refresh.
+- Next: rq_1272 residual dual L5 VL JR2025 hole_fill (prefer other unmined AGB/zorg/EVA with direct PDF; IBOGEM only if JR2025 downloadable).
+
