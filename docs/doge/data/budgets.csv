@@ -34943,3 +34943,42 @@ bud_wmmg_gemfonds_2025,city_wommelgem,2025,3225990,,,executed,src_wmmg_jr2025_bb
 bud_wmmg_politie_2025,city_wommelgem,2025,2150852,,,executed,src_wmmg_jr2025_bbc,strong,T2 PZ MINOS 2.150852m JUMP vs 1.925m; tick1302; primary BBC
 bud_wmmg_hvz_2025,city_wommelgem,2025,497157,,,executed,src_wmmg_jr2025_bbc,strong,T2 HVZ Rand werk 0.497157m (+ invest 0.128325m); tick1302; primary BBC
 bud_wmmg_ocmw_equity_2025,city_wommelgem,2025,-1094158,,,executed,src_wmmg_jr2025_bbc,strong,T5 OCMW equity -1.094158m NEG; tick1302; primary BBC
+bud_edgm_assets_2025,city_edegem,2025,104029251,,,executed,src_edgm_jr2025_bbc,strong,J4 assets 104.029251m vs 100.463991m; tick1303; primary BBC
+bud_edgm_assets_2024,city_edegem,2024,100463991,,,executed,src_edgm_jr2025_bbc,strong,J4 YE2024 assets 100.463991m; tick1303; primary BBC
+bud_edgm_cash_2025,city_edegem,2025,7853245,,,executed,src_edgm_jr2025_bbc,strong,J4 cash+beleg 7.853245m vs 6.670618m JUMP; tick1303; primary BBC
+bud_edgm_cash_2024,city_edegem,2024,6670618,,,executed,src_edgm_jr2025_bbc,strong,J4 YE2024 cash+beleg 6.670618m; tick1303; primary BBC
+bud_edgm_fva_2025,city_edegem,2025,17847217,,,executed,src_edgm_jr2025_bbc,strong,T5 FVA 17.847217m; EVA 0.100m + IGS 10.977m + OCMW-ver 6.664m + other 0.106m; tick1303; primary BBC
+bud_edgm_eva_2025,city_edegem,2025,100000,,,executed,src_edgm_jr2025_bbc,strong,T5 EVA AGB BPGE kapitaal 0.100m — AGB already mined 1239; tick1303; primary BBC
+bud_edgm_igs_2025,city_edegem,2025,10977131,,,executed,src_edgm_jr2025_bbc,strong,T5 IGS FVA 10.977131m; reval +0.154907m; tick1303; primary BBC
+bud_edgm_mva_2025,city_edegem,2025,61422802,,,executed,src_edgm_jr2025_bbc,strong,J4/T5 MVA 61.422802m; leasing 4.832513m; tick1303; primary BBC
+bud_edgm_leasing_2025,city_edegem,2025,4832513,,,executed,src_edgm_jr2025_bbc,strong,T5 leasing MVA 4.832513m (aankoop 0.484m); tick1303; primary BBC
+bud_edgm_iva_2025,city_edegem,2025,1258534,,,executed,src_edgm_jr2025_bbc,strong,J4/T5 IVA 1.258534m; tick1303; primary BBC
+bud_edgm_equity_2025,city_edegem,2025,58055336,,,executed,src_edgm_jr2025_bbc,strong,J4 nettoactief 58.055336m vs 62.088984m DROP; tick1303; primary BBC
+bud_edgm_cum_pnl_2025,city_edegem,2025,-204256,,,executed,src_edgm_jr2025_bbc,strong,J4/T5 cum PnL -0.204256m NEG (city 6.888 / OCMW -7.092); tick1303; primary BBC
+bud_edgm_reval_2025,city_edegem,2025,3235025,,,executed,src_edgm_jr2025_bbc,strong,J4 herwaarderingsreserves 3.235025m (IGS +0.155m); tick1303; primary BBC
+bud_edgm_fin_debt_2025,city_edegem,2025,14053312,,,executed,src_edgm_jr2025_bbc,strong,T4 fin debt 14.053312m (LT 12.063 + ST due 1.991) vs 15.595m; tick1303; primary BBC
+bud_edgm_fin_debt_2024,city_edegem,2024,15595484,,,executed,src_edgm_jr2025_bbc,strong,T4 YE2024 fin debt 15.595484m; tick1303; primary BBC
+bud_edgm_fin_debt_lt_2025,city_edegem,2025,12062566,,,executed,src_edgm_jr2025_bbc,strong,T4/J4 LT fin debt 12.062566m; tick1303; primary BBC
+bud_edgm_fin_debt_st_2025,city_edegem,2025,1990746,,,executed,src_edgm_jr2025_bbc,strong,T4/J4 ST due 1.990746m; tick1303; primary BBC
+bud_edgm_new_loans_2025,city_edegem,2025,483598,,,executed,src_edgm_jr2025_bbc,strong,T4 new loans 0.483598m leasing; no new bank; tick1303; primary BBC
+bud_edgm_pension_2025,city_edegem,2025,23404909,,,executed,src_edgm_jr2025_bbc,strong,J4 pension LT 23.404909m JUMP vs 15.626316m; tick1303; primary BBC
+bud_edgm_expl_2025,city_edegem,2025,6649330,,,executed,src_edgm_jr2025_bbc,strong,J2 exploitatiesaldo +6.649330m; tick1303; primary BBC
+bud_edgm_expl_ontv_2025,city_edegem,2025,42249550,,,executed,src_edgm_jr2025_bbc,strong,J2 expl ontv 42.249550m; tick1303; primary BBC
+bud_edgm_expl_uitg_2025,city_edegem,2025,35600220,,,executed,src_edgm_jr2025_bbc,strong,J2 expl uitg 35.600220m; tick1303; primary BBC
+bud_edgm_city_expl_2025,city_edegem,2025,9121073,,,executed,src_edgm_jr2025_bbc,strong,J3 city expl +9.121073m (ontv 36.971 / uitg 27.850); tick1303; primary BBC
+bud_edgm_ocmw_expl_2025,city_edegem,2025,-2471743,,,executed,src_edgm_jr2025_bbc,strong,J3 OCMW expl -2.471743m (ontv 5.278 / uitg 7.750); tick1303; primary BBC
+bud_edgm_invest_2025,city_edegem,2025,-3184571,,,executed,src_edgm_jr2025_bbc,strong,J2 invest -3.184571m vs MJP -3.953m; tick1303; primary BBC
+bud_edgm_bbr_2025,city_edegem,2025,1558287,,,executed,src_edgm_jr2025_bbc,strong,J2 budgettair resultaat boekjaar +1.558287m; tick1303; primary BBC
+bud_edgm_avail_2025,city_edegem,2025,10255956,,,executed,src_edgm_jr2025_bbc,strong,J2 beschikbaar BBR 10.255957m; tick1303; primary BBC
+bud_edgm_afm_2025,city_edegem,2025,5021666,,,executed,src_edgm_jr2025_bbc,strong,J2 AFM +5.021666m; tick1303; primary BBC
+bud_edgm_gecorr_2025,city_edegem,2025,5799798,,,executed,src_edgm_jr2025_bbc,strong,J2 gecorr AFM +5.799798m; tick1303; primary BBC
+bud_edgm_pnl_2025,city_edegem,2025,-3855597,,,executed,src_edgm_jr2025_bbc,strong,J5 PnL -3.855597m; city +1.628 / OCMW -5.483; tussen 2.140m; tick1303; primary BBC
+bud_edgm_tussen_2025,city_edegem,2025,2140328,,,executed,src_edgm_jr2025_bbc,strong,T5 tussenkomst gemeente-OCMW 2.140328m; tick1303; primary BBC
+bud_edgm_pers_2025,city_edegem,2025,14306146,,,executed,src_edgm_jr2025_bbc,strong,J5/T2 bezoldigingen 14.306146m; VTE unpublished; tick1303; primary BBC
+bud_edgm_fiscal_2025,city_edegem,2025,22906928,,,executed,src_edgm_jr2025_bbc,strong,J5/T2 fiscale 22.906928m (OV 7.338 + APB 11.768); tick1303; primary BBC
+bud_edgm_ov_2025,city_edegem,2025,7338303,,,executed,src_edgm_jr2025_bbc,strong,T2 OV 7.338303m; tick1303; primary BBC
+bud_edgm_apb_2025,city_edegem,2025,11767746,,,executed,src_edgm_jr2025_bbc,strong,T2 APB 11.767746m JUMP vs 9.888m; tick1303; primary BBC
+bud_edgm_gemfonds_2025,city_edegem,2025,5404569,,,executed,src_edgm_jr2025_bbc,strong,T2 gemeentefonds 5.404569m; tick1303; primary BBC
+bud_edgm_politie_2025,city_edegem,2025,4327462,,,executed,src_edgm_jr2025_bbc,strong,T2 PZ Hekla 4.327462m JUMP vs 4.024m; tick1303; primary BBC
+bud_edgm_hvz_2025,city_edegem,2025,873010,,,executed,src_edgm_jr2025_bbc,strong,T2 HVZ Rand werk 0.873010m; tick1303; primary BBC
+bud_edgm_ocmw_equity_2025,city_edegem,2025,64789,,,executed,src_edgm_jr2025_bbc,strong,T5 OCMW equity 0.064789m thin (was 3.928m); tick1303; primary BBC

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T13:25:00Z,rq_1302,1302,no,tick1302 Stad+OCMW Wommelgem JR2025 GE residual; KBO 0207.535.161/0212.185.025; assets 76.003m pension 10.479m politie MINOS 2.151m OCMW equity -1.094m; FOI ready; next rq_1303 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T13:50:00Z,rq_1303,1303,no,tick1303 Stad+OCMW Edegem JR2025 GE residual; KBO 0207.537.933/0212.248.074; assets 104.029m pension 23.405m politie Hekla 4.327m PnL -3.856m; FOI ready; next rq_1304 residual dual L5 VL; continuous hole_fill
