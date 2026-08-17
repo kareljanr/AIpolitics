@@ -34000,3 +34000,40 @@ bud_agm_goods_2025,ag_museum_leuven,2025,3927240.39,,,executed,src_agm_leuven_jr
 bud_agm_mjp_afm_2026,ag_museum_leuven,2026,-39250.88,,,budgeted,src_agm_leuven_mjp2026,strong,MJP 2026 AFM -0.039251m / gecorr -0.133961m / BBR -0.039251m; tick1273
 bud_agm_mjp_werk_2026,ag_museum_leuven,2026,2467120.0,,,budgeted,src_agm_leuven_mjp2026,strong,MJP 2026 werkingssub 2.467120m (alg 2.317120 + spec 0.150000); tick1273
 bud_agm_mjp_loan_2026,ag_museum_leuven,2026,330000.0,,,budgeted,src_agm_leuven_mjp2026,strong,MJP 2026-2031 new loans 0.330m/yr; repay ~1.10m/yr; tick1273
+bud_tienen_city_assets_2025,city_tienen,2025,226413573,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J4 assets 226.413573m (was 210.068087m); tick1274
+bud_tienen_city_cash_2025,city_tienen,2025,12331263,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J4 cash 12.331263m JUMP vs 10.462113m; tick1274
+bud_tienen_city_st_recv_2025,city_tienen,2025,28570590,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J4 ST recv 28.570590m (ruil 3.410m + niet-ruil 25.161m); tick1274
+bud_tienen_city_fva_2025,city_tienen,2025,51546338,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J4 FVA 51.546338m (EVA 3.016065 + IGS 44.022567 + other 4.507706); tick1274
+bud_tienen_city_fva_eva_2025,city_tienen,2025,3016065,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J4 FVA EVA/AGB 3.016065m unchanged vs 2024; vs AGB equity FOI; tick1274
+bud_tienen_city_fva_igs_2025,city_tienen,2025,44022567,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J4 FVA IGS 44.022567m (was 43.950016m); tick1274
+bud_tienen_city_mva_2025,city_tienen,2025,121611216,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J4 MVA 121.611216m; leasing 3.806201m; tick1274
+bud_tienen_city_leasing_2025,city_tienen,2025,3806201,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J4 leasing MVA 3.806201m (was 3.531156m); tick1274
+bud_tienen_city_fin_debt_2025,city_tienen,2025,59733714,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 T4 fin debt 59.733714m (LT 55.409717 + ST due 4.323684 + ST 313) vs 54.852086m; tick1274
+bud_tienen_city_pension_2025,city_tienen,2025,51294633,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J4 LT pension provision 51.294633m (was 54.647963m); internals FOI; tick1274
+bud_tienen_city_net_assets_2025,city_tienen,2025,87687419,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J4 nettoactief 87.687419m; tick1274
+bud_tienen_city_cum_pnl_2025,city_tienen,2025,-26127469,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J4 cum P&L -26.127469m (was -32.104645m); tick1274
+bud_tienen_city_afm_2025,city_tienen,2025,5844281,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J2 AFM +5.844281m vs MJP 0.247785m / 2024 2.251457m; riobrafonds ~2.5m; tick1274
+bud_tienen_city_gecorr_afm_2025,city_tienen,2025,5536029,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J2 gecorr AFM +5.536029m vs MJP -0.134142m; tick1274
+bud_tienen_city_bbr_2025,city_tienen,2025,2554980,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J2 BBR year +2.554980m vs MJP -14.378806m; tick1274
+bud_tienen_city_bbr_avail_2025,city_tienen,2025,20697950,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J2 beschikbaar BBR 20.697950m (cum 21.922415; unavail 1.224466); tick1274
+bud_tienen_city_expl_ont_2025,city_tienen,2025,87574344,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J2 expl ontvangsten 87.574344m; tick1274
+bud_tienen_city_expl_uit_2025,city_tienen,2025,78004085,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J2 expl uitgaven 78.004085m; tick1274
+bud_tienen_city_expl_saldo_2025,city_tienen,2025,9570258,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J2 expl saldo +9.570258m; tick1274
+bud_tienen_city_inv_uit_2025,city_tienen,2025,12302967,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J2 invest uitgaven 12.302967m vs MJP 27.175006m underspend 14.872039m; tick1274
+bud_tienen_city_inv_saldo_2025,city_tienen,2025,-10320051,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J2 invest saldo -10.320051m (ontv 1.982916m); tick1274
+bud_tienen_city_new_loan_2025,city_tienen,2025,8961231,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 T4 new loans 8.961231m = bank 8.000000 + other 0.961231; tick1274
+bud_tienen_city_new_bank_loan_2025,city_tienen,2025,8000000,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 T2 opname bank/leasing 8.000000m; tick1274
+bud_tienen_city_afl_2025,city_tienen,2025,4079916,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 T4 periodieke aflossingen 4.079916m; tick1274
+bud_tienen_city_pnl_2025,city_tienen,2025,5977176,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J5 surplus +5.977176m (was -10.929902m); tick1274
+bud_tienen_city_pers_2025,city_tienen,2025,40670876,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J5/T2 personeel 40.670876m; VTE FOI; tick1274
+bud_tienen_city_agb_werksub_2025,city_tienen,2025,2177924,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 T2 werksub eigen AGB 2.177924m vs AGB prijssub 1.993499m diff 0.184425 FOI; tick1274
+bud_tienen_city_agb_loan_2025,city_tienen,2025,2052657,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 T2 toegestane leningen AGB 2.052657m matches AGB new city loans tick1272; tick1274
+bud_tienen_city_police_2025,city_tienen,2025,5602474,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 T2 werksub politiezone 5.602474m; tick1274
+bud_tienen_city_fire_2025,city_tienen,2025,2356070,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 T2 werksub HVZ 2.356070m; tick1274
+bud_tienen_city_fiscal_2025,city_tienen,2025,40179277,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J5 fiscale opbrengsten 40.179277m; tick1274
+bud_tienen_city_ov_2025,city_tienen,2025,17828527,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 T2 opcentiemen OV 17.828527m; tick1274
+bud_tienen_city_apb_2025,city_tienen,2025,15604482,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 T2 APB 15.604482m; tick1274
+bud_tienen_city_gemeentefonds_2025,city_tienen,2025,15061089,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 T2 gemeentefonds 15.061089m; tick1274
+bud_tienen_city_werksub_in_2025,city_tienen,2025,31644226,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J5 werkingssub ontv 31.644226m (alg 21.123817 + spec 10.520410); tick1274
+bud_tienen_consol_afm_2025,city_tienen,2025,5917659,,,executed,src_tienen_city_jr2025_bbc,strong,JR2025 J2 consol AFM 5.917659m (city 5.844281 + AGB 0.073379); tick1274
+bud_tienen_city_mjp_fin_debt_2026,city_tienen,2026,63851687,,,budgeted,src_tienen_city_jr2025_bbc,strong,JR2025 T4 MJP YE2026 fin debt 63.851687m / 2027 66.135689m; tick1274
