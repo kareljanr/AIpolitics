@@ -17353,3 +17353,10 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources+1/entities(+city note)/budgets+57/commitments+7/leaderboard+7 + FOI ready `gap_d09_member_it_56_33m_externals_13_55m_dual_l5` (not sent); rq_1258=done; spawn rq_1259.
 - Next: rq_1259 residual dual L5 VL JR2025 hole_fill (prefer sogent JR2025 if separate PDF exists).
 
+
+### Tick 1259 - 2026-08-17 - rq_1259 AGB sogent dual residual
+- Unit: AGB sogent (Stadsontwikkelingsbedrijf Gent) JR2025 Entity II after city Gent stub tick101 + culture/IT AGBs ticks 1255–1258 (KBO 0367.300.594; 160p BBC text + VOL-kap; RVB 28.05.2026 / GR 2026_GR_00692 23.06.2026). Distinct from AGB Kunsten en Design / Erfgoed / IVA Historische Huizen / District09. Urban development / real estate vehicle; seat Voldersstraat 1.
+- EUR strong: assets **329.980m** JUMP (was 289.619m); EV **204.821m** (inbreng **191.817m** +35m ICC); cash **9.744m** JUMP; voorraad te koop **73.561m**; fin debt **96.310m** (LT **86.666m** achtergesteld **58.393m** + bank **28.273m**; ST **8.152m**); expl rec **34.456m** / exp **36.922m** / saldo **−2.465m**; invest **−37.526m** (uitg **38.337m**); BBR **+10.455m** / avail **+0.372m**; AFM **−3.901m** / gecorr **−10.107m**; city werkingssub **5.359m** (alg **3.501m** + spec **1.858m**) + VL spec **1.282m**; ICC kapitaal **35.000m** off-MJP; new loans andere entiteiten **18.771m**; PnL **+0.127m**; personnel **7.173m** / **61 personen** (geen FTE); city borg **16.884m**; sogent borg Modest **18.720m** + The Loop **5.000m**.
+- CSVs: sources+2/entities(+city note)/budgets+45/commitments+7/leaderboard+7 + FOI ready `gap_sogent_afm_neg_3_90m_icc_35m_fin_debt_96_31m_l5` (not sent); rq_1259=done; spawn rq_1260.
+- Next: rq_1260 residual dual L5 VL JR2025 hole_fill + **every-10 progress refresh** (tick 1260 is a *0 tick). Gent dual AGB cluster 1255–1259 mapped.
+

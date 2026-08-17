@@ -33633,3 +33633,48 @@ bud_d09_fin_inc_2025,agb_district09_gent,2025,493115,,,bbc_jr_realized,src_d09_j
 bud_d09_pnl_2025,agb_district09_gent,2025,-35067,,,bbc_jr_realized,src_d09_jr2025,strong,J5 tekort boekjaar -35.067; tick1258
 bud_d09_op_pnl_2025,agb_district09_gent,2025,-528044,,,bbc_jr_realized,src_d09_jr2025,strong,J5 operationeel tekort -0.528m; tick1258
 bud_d09_vacation_cont_2025,agb_district09_gent,2025,1478265,,,bbc_jr_realized,src_d09_jr2025,strong,Contingente kost 4071 overgedragen vakantiedagen 1.478m; tick1258
+bud_sogent_assets_2025,agb_sogent,2025,329979626,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,VOL-kap assets YE2025 329.980m JUMP (was 289.619m); tick1259
+bud_sogent_equity_2025,agb_sogent,2025,204820634,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,VOL-kap EV YE2025 204.821m (inbreng 191.817m + kapitaalsub 14.507m); tick1259
+bud_sogent_inbreng_2025,agb_sogent,2025,191816905,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,VOL-kap geplaatst kapitaal 191.817m after ICC +35m; tick1259
+bud_sogent_cum_loss_2025,agb_sogent,2025,-1503964,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,VOL-kap overgedragen verlies -1.504m (was -1.631m); tick1259
+bud_sogent_cash_2025,agb_sogent,2025,9744030,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,VOL-kap liquide middelen 9.744m JUMP (was 6.126m); tick1259
+bud_sogent_inventory_re_2025,agb_sogent,2025,73561335,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,VOL-kap voorraad onroerend te koop 73.561m; tick1259
+bud_sogent_fva_2025,agb_sogent,2025,64031380,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,VOL-kap financiële vaste activa 64.031m (deelnemingen verbonden 49.285m); tick1259
+bud_sogent_mva_buildings_2025,agb_sogent,2025,73160892,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,VOL-kap terreinen/gebouwen 73.161m JUMP (was 38.745m; ICC); tick1259
+bud_sogent_fin_debt_2025,agb_sogent,2025,96309993,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T4 totale financiële schuld YE2025 96.310m; tick1259
+bud_sogent_fin_debt_lt_2025,agb_sogent,2025,86665771,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC/VOL LT financiële schuld 86.666m (achtergesteld 58.393m + bank 28.273m); tick1259
+bud_sogent_fin_debt_st_2025,agb_sogent,2025,8151500,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,VOL ST financiële schuld bank 8.152m (was 16.226m); tick1259
+bud_sogent_subord_debt_2025,agb_sogent,2025,58392889,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,VOL achtergestelde leningen LT 58.393m (was 48.094m); tick1259
+bud_sogent_expl_rec_2025,agb_sogent,2025,34456155,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC J2 exploitatieontvangsten 34.456m; tick1259
+bud_sogent_expl_exp_2025,agb_sogent,2025,36921568,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC J2 exploitatieuitgaven 36.922m; tick1259
+bud_sogent_expl_saldo_2025,agb_sogent,2025,-2465413,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC J2 exploitatiesaldo -2.465m (MJP -9.788m); tick1259
+bud_sogent_invest_exp_2025,agb_sogent,2025,38336555,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC J2 investeringsuitgaven 38.337m JUMP (MJP 9.262m); tick1259
+bud_sogent_invest_saldo_2025,agb_sogent,2025,-37526131,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC J2 investeringssaldo -37.526m (MJP -8.218m); tick1259
+bud_sogent_fin_rec_2025,agb_sogent,2025,60438747,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC J2 financieringsontvangsten 60.439m (kapitaal 35m + leningen 18.771m); tick1259
+bud_sogent_fin_saldo_2025,agb_sogent,2025,50446955,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC J2 financieringssaldo +50.447m; tick1259
+bud_sogent_bbr_2025,agb_sogent,2025,10455411,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC J2 budgettair resultaat +10.455m (MJP -7.509m); tick1259
+bud_sogent_bbr_avail_2025,agb_sogent,2025,371698,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC J2 beschikbaar BBR +0.372m (cum 0.388m - blocked 16.645); tick1259
+bud_sogent_afm_2025,agb_sogent,2025,-3900806,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC J2 AFM -3.901m (MJP -11.163m); tick1259
+bud_sogent_afm_gecorr_2025,agb_sogent,2025,-10107159,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC J2 gecorrigeerde AFM -10.107m (MJP -17.197m); tick1259
+bud_sogent_city_alg_sub_2025,agb_sogent,2025,3501378,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T2 algemene werkingssubsidie gemeente 3.501m; tick1259
+bud_sogent_city_spec_sub_2025,agb_sogent,2025,1857546,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T2 specifieke werkingssubsidie gemeente 1.858m; tick1259
+bud_sogent_vl_spec_sub_2025,agb_sogent,2025,1281752,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T2 specifieke werkingssubsidie Vlaanderen 1.282m; tick1259
+bud_sogent_werkingssub_2025,agb_sogent,2025,6640675,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T2 werkingssubsidies totaal 6.641m; tick1259
+bud_sogent_other_ops_rec_2025,agb_sogent,2025,14413128,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T2 andere operationele ontvangsten 14.413m JUMP (was 7.388m); tick1259
+bud_sogent_goods_2025,agb_sogent,2025,28264947,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T2 goederen en diensten 28.265m; tick1259
+bud_sogent_personnel_2025,agb_sogent,2025,7172804,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T2 personeel 7.173m / 61 personen (geen FTE); tick1259
+bud_sogent_new_loans_2025,agb_sogent,2025,18771333,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T2/T4 nieuwe leningen andere entiteiten 18.771m (niet banken); tick1259
+bud_sogent_icc_capital_2025,agb_sogent,2025,35000000,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T2/toelichting kapitaalsverhoging ICC-overdracht Stad 35.000m; tick1259
+bud_sogent_city_guarantee_2025,agb_sogent,2025,16884323,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T off-balance city borg bankleningen sogent 16.884m; tick1259
+bud_sogent_modest_guarantee_2025,agb_sogent,2025,18719760,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T off-balance sogent borg Modest 18.720m; tick1259
+bud_sogent_theloop_guarantee_2025,agb_sogent,2025,5000000,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T off-balance sogent borg Grondbank The Loop 5.000m; tick1259
+bud_sogent_pnl_2025,agb_sogent,2025,127350,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,VOL-kap PnL +0.127m (geen dividend); BBC T5 overschot +0.127m; tick1259
+bud_sogent_omzet_2025,agb_sogent,2025,13063301,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,VOL-kap omzet 13.063m (was 21.396m); tick1259
+bud_sogent_op_profit_2025,agb_sogent,2025,745526,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,VOL-kap bedrijfswinst 0.746m (was 1.431m); tick1259
+bud_sogent_interest_2025,agb_sogent,2025,1274747,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T2 rente aan financiële instellingen 1.275m; tick1259
+bud_sogent_invest_buildings_2025,agb_sogent,2025,35697364,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T2 invest terreinen/gebouwen 35.697m (ICC); tick1259
+bud_sogent_nonperiod_repay_2025,agb_sogent,2025,8472856,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T2/T4 niet-periodieke aflossingen 8.473m; tick1259
+bud_sogent_period_repay_2025,agb_sogent,2025,1435393,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T2/T4 periodieke aflossingen 1.435m; tick1259
+bud_sogent_provisions_2025,agb_sogent,2025,8643470,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,VOL-kap voorzieningen 8.643m (was 9.187m); tick1259
+bud_sogent_debts_2025,agb_sogent,2025,116515523,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,VOL-kap schulden totaal 116.516m; tick1259
+bud_sogent_city_invest_sub_2025,agb_sogent,2025,293949,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T2 investeringssubsidie gemeente 0.294m; tick1259
