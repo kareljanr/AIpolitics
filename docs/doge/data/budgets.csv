@@ -35516,3 +35516,34 @@ bud_vonk_ops_rev_2025,apb_vonk,2025,929161,,,executed,src_vonk_jr2025_pdf,strong
 bud_vonk_other_ops_2025,apb_vonk,2025,3420,,,executed,src_vonk_jr2025_pdf,strong,2025 J5 andere operationele opbrengsten 3420.23; tick1325; primary BBC J5
 bud_vonk_costs_2025,apb_vonk,2025,1041114,,,executed,src_vonk_jr2025_pdf,strong,2025 J5 costs 1041114.20; tick1325; primary BBC J5
 bud_vonk_rev_2025,apb_vonk,2025,1233755,,,executed,src_vonk_jr2025_pdf,strong,2025 J5 opbrengsten 1233754.61; tick1325; primary BBC J5
+bud_hetdak_assets_2025,zorg_het_dak,2025,52802561,,,executed,src_hetdak_jr2025_pdf,strong,2025 assets 52802561.13 was 53162485.81; tick1333; primary BBC J4
+bud_hetdak_cash_2025,zorg_het_dak,2025,14436967,,,executed,src_hetdak_jr2025_pdf,strong,2025 cash 14436966.55 vs 14019335.11; tick1333; primary BBC J4
+bud_hetdak_st_recv_2025,zorg_het_dak,2025,2145912,,,executed,src_hetdak_jr2025_pdf,strong,2025 ST recv 2145911.72 (ruil 2085399.32 + niet-ruil 60512.40); tick1333; primary BBC J4
+bud_hetdak_fixed_2025,zorg_het_dak,2025,35668905,,,executed,src_hetdak_jr2025_pdf,strong,2025 fixed 35668904.63 (FVA 61470 IGS + MVA 33955100.63 + IVA 0); tick1333; primary BBC J4/T5
+bud_hetdak_mva_lease_2025,zorg_het_dak,2025,32291209,,,executed,src_hetdak_jr2025_pdf,strong,2025 MVA leasing 32291208.86 of MVA 33955100.63; tick1333; primary BBC J4/T5
+bud_hetdak_fva_igs_2025,zorg_het_dak,2025,61470,,,executed,src_hetdak_jr2025_pdf,strong,2025 FVA IGS 61470 EVA 0; tick1333; primary BBC J4/T5
+bud_hetdak_debt_2025,zorg_het_dak,2025,29738409,,,executed,src_hetdak_jr2025_pdf,strong,2025 schulden 29738408.59 (ST 5297410.00 + LT 24440998.59); tick1333; primary BBC J4
+bud_hetdak_fin_debt_2025,zorg_het_dak,2025,26367082,,,executed,src_hetdak_jr2025_pdf,strong,2025 fin debt T4 26367081.82 (LT 24440998.80 + ST due 1926083.02); tick1333; primary BBC T4
+bud_hetdak_equity_2025,zorg_het_dak,2025,23064153,,,executed,src_hetdak_jr2025_pdf,strong,2025 nettoactief 23064152.54 was 21542118.73; tick1333; primary BBC J4
+bud_hetdak_cum_surplus_2025,zorg_het_dak,2025,9844156,,,executed,src_hetdak_jr2025_pdf,strong,2025 cum surplus 9844155.69 was 7966335.13; tick1333; primary BBC J4
+bud_hetdak_cap_subs_2025,zorg_het_dak,2025,6104051,,,executed,src_hetdak_jr2025_pdf,strong,2025 kapitaalsubsidies 6104050.85 was 6459837.60; tick1333; primary BBC J4/T5
+bud_hetdak_expl_in_2025,zorg_het_dak,2025,25474555,,,executed,src_hetdak_jr2025_pdf,strong,2025 expl ontv 25474554.60; tick1333; primary BBC J2
+bud_hetdak_expl_out_2025,zorg_het_dak,2025,21447174,,,executed,src_hetdak_jr2025_pdf,strong,2025 expl uitg 21447173.91; tick1333; primary BBC J2
+bud_hetdak_expl_2025,zorg_het_dak,2025,4027381,,,executed,src_hetdak_jr2025_pdf,strong,2025 expl saldo +4027380.69; tick1333; primary BBC J2
+bud_hetdak_invest_2025,zorg_het_dak,2025,1686080,,,executed,src_hetdak_jr2025_pdf,strong,2025 invest saldo -1686079.90 (uitg 2246834.75 / ontv 560754.85); tick1333; primary BBC J2
+bud_hetdak_bbr_2025,zorg_het_dak,2025,169307,,,executed,src_hetdak_jr2025_pdf,strong,2025 BBR year +169306.85; tick1333; primary BBC J2
+bud_hetdak_cum_bbr_2025,zorg_het_dak,2025,14334947,,,executed,src_hetdak_jr2025_pdf,strong,YE2025 cum BBR 14334946.59 was 14165639.74; tick1333; primary BBC J2
+bud_hetdak_afm_2025,zorg_het_dak,2025,2406165,,,executed,src_hetdak_jr2025_pdf,strong,2025 AFM +2406164.86; tick1333; primary BBC J2
+bud_hetdak_gecorr_afm_2025,zorg_het_dak,2025,2295033,,,executed,src_hetdak_jr2025_pdf,strong,2025 gecorr AFM +2295032.64; tick1333; primary BBC J2
+bud_hetdak_pnl_2025,zorg_het_dak,2025,1877821,,,executed,src_hetdak_jr2025_pdf,strong,2025 PnL +1877820.56 (ops 1765864.13 / fin 111956.43); tick1333; primary BBC J5
+bud_hetdak_pers_2025,zorg_het_dak,2025,16242301,,,executed,src_hetdak_jr2025_pdf,strong,2025 J5/T2 pers 16242301.41 (niet-vast 14763360.07 + vast 970838.11 + andere 508103.23); VTE unpublished FOI; tick1333; primary BBC
+bud_hetdak_goods_2025,zorg_het_dak,2025,4489342,,,executed,src_hetdak_jr2025_pdf,strong,2025 J5/T2 goederen/diensten 4489342.31; tick1333; primary BBC J5/T2
+bud_hetdak_werksub_in_2025,zorg_het_dak,2025,3908787,,,executed,src_hetdak_jr2025_pdf,strong,2025 J5=T2 werksub ontv 3908787.07 (alg 745093.00 + spec 3163694.07); tick1333; primary BBC J5/T2
+bud_hetdak_werksub_city_2025,zorg_het_dak,2025,469189,,,executed,src_hetdak_jr2025_pdf,strong,2025 T2 alg werksub van de gemeente 469189.00; dual city line FOI; tick1333; primary BBC T2
+bud_hetdak_werksub_vl_2025,zorg_het_dak,2025,2615787,,,executed,src_hetdak_jr2025_pdf,strong,2025 T2 VL werksub alg 275904.00 + spec 2339883.00 = 2615787.00; tick1333; primary BBC T2
+bud_hetdak_werksub_fed_2025,zorg_het_dak,2025,823811,,,executed,src_hetdak_jr2025_pdf,strong,2025 T2 spec werksub federale overheid 823811.00; tick1333; primary BBC T2
+bud_hetdak_ops_rev_2025,zorg_het_dak,2025,21165739,,,executed,src_hetdak_jr2025_pdf,strong,2025 J5 opbrengsten uit de werking 21165739.22; tick1333; primary BBC J5
+bud_hetdak_other_ops_2025,zorg_het_dak,2025,121828,,,executed,src_hetdak_jr2025_pdf,strong,2025 J5 andere operationele opbrengsten 121827.71; tick1333; primary BBC J5
+bud_hetdak_fin_cost_2025,zorg_het_dak,2025,532008,,,executed,src_hetdak_jr2025_pdf,strong,2025 J5/T2 fin costs 532008.18; tick1333; primary BBC J5/T2
+bud_hetdak_st_prov_2025,zorg_het_dak,2025,1123395,,,executed,src_hetdak_jr2025_pdf,strong,2025 ST voorzieningen 1123395.00; tick1333; primary BBC J4
+bud_hetdak_westkapelle_inv_2025,zorg_het_dak,2025,1458128,,,executed,src_hetdak_jr2025_pdf,strong,2025 invest nieuwbouw WZC Westkapelle/Polderparel 1458128.00 (actieplan 2020001); tick1333; primary BBC J1

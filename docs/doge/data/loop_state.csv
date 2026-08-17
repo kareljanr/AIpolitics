@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T22:10:00Z,rq_1332,1332,no,tick1332 EVA Inagro leftover EVA residual; KBO 0417.474.241; no fetchable JR2025 BBC/NBB PDF; no sourced euros; FOI ready; next rq_1333 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T22:25:00Z,rq_1333,1333,no,tick1333 WV Het Dak leftover zorg residual; KBO 0863.329.989; live JR2025 BBC PDF; sourced euros assets 52.803m leasing 32.291m fin debt 26.367m; FOI ready; next rq_1334 residual dual L5 VL; continuous hole_fill
