@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T17:20:00Z,rq_1309,1309,no,tick1309 EVA Hoeve Holleken Linkebeek JR2025 residual; KBO 0420.175.591; GR result -1065.28 scan -1154.69 assets 167389.51 pers 62265.80; FOI ready; next rq_1310 residual dual L5 VL + every-10; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T18:00:00Z,rq_1310,1310,no,tick1310 APB VERA JR2025 residual + progress@1310; KBO 0267.390.891; fin debt 1.722m equity -1.639m NEG straight loan 1.100m PnL -0.488m; FOI ready; next rq_1311 residual dual L5 VL; continuous hole_fill

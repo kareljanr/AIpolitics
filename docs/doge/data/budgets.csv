@@ -35174,3 +35174,35 @@ bud_hhlnk_diverse_2025,eva_hoeve_holleken,2025,12049.18,,,executed,src_hhlnk_jr2
 bud_hhlnk_soc_red_2025,eva_hoeve_holleken,2025,1230.85,,,executed,src_hhlnk_jr2025_pdf,medium,scan vermindering sociale lasten 1230.85; tick1309; primary scan medium
 bud_hhlnk_interest_2025,eva_hoeve_holleken,2025,620.68,,,executed,src_hhlnk_jr2025_pdf,medium,scan bank interesten 620.68; tick1309; primary scan medium
 bud_hhlnk_other_inc_2025,eva_hoeve_holleken,2025,465.00,,,executed,src_hhlnk_jr2025_pdf,medium,scan overige baten 465.00; tick1309; primary scan medium
+bud_apbvera_assets_2025,apb_vera,2025,2362699,,,executed,src_apbvera_jr2025_pdf,strong,YE2025 assets 2362699 was 2353659; tick1310; primary BBC
+bud_apbvera_cash_2025,apb_vera,2025,503286,,,executed,src_apbvera_jr2025_pdf,strong,YE2025 cash 503286 JUMP vs 82772; tick1310; primary BBC
+bud_apbvera_cash_2024,apb_vera,2024,82772,,,executed,src_apbvera_jr2025_pdf,strong,YE2024 cash 82772; tick1310; primary BBC
+bud_apbvera_fva_2025,apb_vera,2025,17673,,,executed,src_apbvera_jr2025_pdf,strong,YE2025 FVA 17673 Edenred borg +12600; tick1310; primary BBC
+bud_apbvera_mva_2025,apb_vera,2025,575527,,,executed,src_apbvera_jr2025_pdf,strong,YE2025 MVA 575527 buildings 448981 leasing 0; tick1310; primary BBC
+bud_apbvera_buildings_2025,apb_vera,2025,448981,,,executed,src_apbvera_jr2025_pdf,strong,YE2025 terreinen/gebouwen 448981; tick1310; primary BBC
+bud_apbvera_iva_2025,apb_vera,2025,42239,,,executed,src_apbvera_jr2025_pdf,strong,YE2025 IVA 42239 was 165967; tick1310; primary BBC
+bud_apbvera_fin_debt_2025,apb_vera,2025,1722149,,,executed,src_apbvera_jr2025_pdf,strong,YE2025 T4 fin debt 1722149 JUMP vs 1331166; tick1310; primary BBC
+bud_apbvera_fin_debt_lt_2025,apb_vera,2025,597983,,,executed,src_apbvera_jr2025_pdf,strong,YE2025 T4 LT fin debt 597983 incl provincie 300000; tick1310; primary BBC
+bud_apbvera_fin_debt_st_due_2025,apb_vera,2025,24166,,,executed,src_apbvera_jr2025_pdf,strong,YE2025 T4 ST due 24166; tick1310; primary BBC
+bud_apbvera_straight_loan_2025,apb_vera,2025,1100000,,,executed,src_apbvera_jr2025_pdf,strong,YE2025 Belfius straight loan 1100000 +150k vs YE2024; tick1310; primary BBC
+bud_apbvera_new_loans_2025,apb_vera,2025,300000,,,executed,src_apbvera_jr2025_pdf,strong,2025 new loans 300000 renteloze provincie andere entiteiten; tick1310; primary BBC
+bud_apbvera_afl_2025,apb_vera,2025,59017,,,executed,src_apbvera_jr2025_pdf,strong,2025 periodieke aflossingen 59017; tick1310; primary BBC
+bud_apbvera_equity_2025,apb_vera,2025,-1638906,,,executed,src_apbvera_jr2025_pdf,strong,YE2025 nettoactief -1638906 NEG was -1151178; tick1310; primary BBC
+bud_apbvera_cum_pnl_2025,apb_vera,2025,-2087887,,,executed,src_apbvera_jr2025_pdf,strong,YE2025 gecumuleerd tekort -2087887; tick1310; primary BBC
+bud_apbvera_pnl_2025,apb_vera,2025,-487831,,,executed,src_apbvera_jr2025_pdf,strong,2025 J5 PnL -487831 was -815763; T5 year -406986 FOI; tick1310; primary BBC
+bud_apbvera_pers_2025,apb_vera,2025,3134589,,,executed,src_apbvera_jr2025_pdf,strong,2025 pers 3134589 was 3345575; VTE 33.3 was 34.6; tick1310; primary BBC
+bud_apbvera_werksub_2025,apb_vera,2025,1550310,,,executed,src_apbvera_jr2025_pdf,strong,2025 J5 werksub 1550310 was 1628193; provincie dual; tick1310; primary BBC
+bud_apbvera_werksub_deferred_2025,apb_vera,2025,377533,,,executed,src_apbvera_jr2025_pdf,strong,2025 over te dragen werksub 377533; tick1310; primary BBC
+bud_apbvera_expl_out_2025,apb_vera,2025,4960690,,,executed,src_apbvera_jr2025_pdf,strong,2025 J3 expl uitg 4960690; tick1310; primary BBC
+bud_apbvera_expl_in_2025,apb_vera,2025,5085824,,,executed,src_apbvera_jr2025_pdf,strong,2025 J3 expl ontv 5085824; tick1310; primary BBC
+bud_apbvera_expl_saldo_2025,apb_vera,2025,125134,,,executed,src_apbvera_jr2025_pdf,strong,2025 expl saldo 5085824-4960690=125134; tick1310; primary BBC
+bud_apbvera_invest_saldo_2025,apb_vera,2025,-76980,,,executed,src_apbvera_jr2025_pdf,strong,2025 invest saldo -76980; tick1310; primary BBC
+bud_apbvera_fin_saldo_2025,apb_vera,2025,240983,,,executed,src_apbvera_jr2025_pdf,strong,2025 fin saldo +240983 (new 300000 - afl 59017); tick1310; primary BBC
+bud_apbvera_bbr_2025,apb_vera,2025,289137,,,executed,src_apbvera_jr2025_pdf,strong,2025 BBR +289137 was -555818; J2 AFM unpublished FOI; tick1310; primary BBC
+bud_apbvera_costs_2025,apb_vera,2025,5196122,,,executed,src_apbvera_jr2025_pdf,strong,2025 J5 costs 5196122; tick1310; primary BBC
+bud_apbvera_rev_2025,apb_vera,2025,4708291,,,executed,src_apbvera_jr2025_pdf,strong,2025 J5 opbrengsten 4708291; tick1310; primary BBC
+bud_apbvera_ops_rev_2025,apb_vera,2025,3088138,,,executed,src_apbvera_jr2025_pdf,strong,2025 opbrengsten uit de werking 3088138; tick1310; primary BBC
+bud_apbvera_recv_2025,apb_vera,2025,1193736,,,executed,src_apbvera_jr2025_pdf,strong,YE2025 KT vorderingen 1193736; it-punt dual FOI; tick1310; primary BBC
+bud_apbvera_trade_pay_2025,apb_vera,2025,1453154,,,executed,src_apbvera_jr2025_pdf,strong,YE2025 handelsschulden 1453154 AUSY+it-punt; tick1310; primary BBC toelichting
+bud_apbvera_total_debt_2025,apb_vera,2025,4001605,,,executed,src_apbvera_jr2025_pdf,strong,YE2025 total schulden 4001605 incl non-fin; tick1310; primary BBC
+bud_apbvera_interest_2025,apb_vera,2025,40316,,,executed,src_apbvera_jr2025_pdf,strong,2025 financiele kosten 40316 straight loan+lening; tick1310; primary BBC
