@@ -33971,3 +33971,32 @@ bud_tienen_agb_mjp_expl_2026,agb_tienen,2026,1384799.00,,,budgeted,src_agb_tiene
 bud_tienen_agb_mjp_afm_2026,agb_tienen,2026,-189291.00,,,budgeted,src_agb_tienen_mjp2026,strong,MJP 2026 AFM -0.189291m / gecorr -0.059535m / BBR avail 0.467397m; tick1272
 bud_tienen_agb_mjp_inv_2026,agb_tienen,2026,3975688.00,,,budgeted,src_agb_tienen_mjp2026,strong,MJP 2026 invest saldo -3.975688m city-loan financed 3.975688m; tick1272
 bud_tienen_agb_mjp_prijs_my,agb_tienen,2026,14400000.00,,,budgeted,src_agb_tienen_mjp2026,strong,MJP 2026-2031 city prijssub 14.4m + city loan 12.1m + zakelijke rechten 1.6m; tick1272
+bud_agm_assets_2025,ag_museum_leuven,2025,16900565.84,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J4/NBB assets 16.900566m vs 17.571930m; tick1273
+bud_agm_cash_2025,ag_museum_leuven,2025,689414.78,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J4 cash 0.689415m JUMP vs 0.589130m; tick1273
+bud_agm_fin_debt_2025,ag_museum_leuven,2025,14505996.98,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 T4 fin debt 14.505997m (LT 13.413792 + ST due 1.092205) vs 15.431978m; ALL city overige leningen; NBB 172/3 bank+leasing 0; tick1273
+bud_agm_lt_debt_2025,ag_museum_leuven,2025,13413791.55,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J4/NBB 174 LT city loans 13.413792m; tick1273
+bud_agm_st_due_2025,ag_museum_leuven,2025,1092205.43,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J4/T4 ST due within year 1.092205m (4240000002 city); tick1273
+bud_agm_netto_2025,ag_museum_leuven,2025,989648.15,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J4/NBB EV 0.989648m (inbreng 0.100 + reserve 0.010 + retained 0.831 + kapsub 0.048); tick1273
+bud_agm_cum_pnl_2025,ag_museum_leuven,2025,841159.15,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J4 cum P&L +0.841159m (NBB overgedragen 0.831159 after 0.018 inbreng); tick1273
+bud_agm_afm_2025,ag_museum_leuven,2025,6964.58,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J2 AFM +0.006965m vs MJP -0.114886m; tick1273
+bud_agm_gecorr_afm_2025,ag_museum_leuven,2025,-126051.67,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J2 gecorr AFM -0.126052m NEG (aangewezen 1.234558 vs periodiek 1.101542); tick1273
+bud_agm_bbr_2025,ag_museum_leuven,2025,6964.58,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J2 BBR year +0.006965m vs MJP -0.114886m; tick1273
+bud_agm_bbr_avail_2025,ag_museum_leuven,2025,687438.49,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J2 beschikbaar BBR 0.687438m (cum prev 0.680474); tick1273
+bud_agm_expl_uit_2025,ag_museum_leuven,2025,8156039.15,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J2 expl uitgaven 8.156039m; tick1273
+bud_agm_expl_ont_2025,ag_museum_leuven,2025,9264545.73,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J2 expl ontvangsten 9.264546m; tick1273
+bud_agm_expl_saldo_2025,ag_museum_leuven,2025,1108506.58,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J2 expl saldo +1.108507m; tick1273
+bud_agm_inv_uit_2025,ag_museum_leuven,2025,175560.87,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J2 invest uitgaven 0.175561m vs MJP 0.709050m underspend 0.533489m; tick1273
+bud_agm_inv_saldo_2025,ag_museum_leuven,2025,-175560.87,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J2 invest saldo -0.175561m (ontv 0); tick1273
+bud_agm_fin_afl_2025,ag_museum_leuven,2025,1101542.0,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J2/T4 periodieke aflossingen 1.101542m all city; tick1273
+bud_agm_new_loan_2025,ag_museum_leuven,2025,175560.87,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 T4 new city loans 0.175561m (= invest); tick1273
+bud_agm_pnl_2025,ag_museum_leuven,2025,336062.29,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J5/NBB surplus 0.336062m (opbr 9.551 / kost 9.215); tick1273
+bud_agm_div_2025,ag_museum_leuven,2025,17826.65,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J5/NBB vergoeding inbreng 0.017827m; retained 0.318236m; tick1273
+bud_agm_prijssub_2025,ag_museum_leuven,2025,5880345.12,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 city prijssubsidie 5.880345m exe (~63pct expl ontv; omzet 707); factor FOI; tick1273
+bud_agm_werksub_2025,ag_museum_leuven,2025,2645062.31,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 werkingssub 2.645062m (alg 2.498200 + spec 0.146862); city vs VL split FOI; tick1273
+bud_agm_mva_2025,ag_museum_leuven,2025,14603680.55,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J4 MVA 14.603681m; leasing 0; buildings 13.666286m; erfgoed 0.049394m; tick1273
+bud_agm_st_recv_2025,ag_museum_leuven,2025,1015873.09,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J4 ST recv 1.015873m (ruil 0.215400 + niet-ruil 0.800473); tick1273
+bud_agm_pers_2025,ag_museum_leuven,2025,4112312.47,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J5 personeel 4.112312m / NBB 52.7 VTE (own payroll; RSZ since 2022); tick1273
+bud_agm_goods_2025,ag_museum_leuven,2025,3927240.39,,,executed,src_agm_leuven_jr2025_bbc,strong,JR2025 J5 goederen 3.927240m; tick1273
+bud_agm_mjp_afm_2026,ag_museum_leuven,2026,-39250.88,,,budgeted,src_agm_leuven_mjp2026,strong,MJP 2026 AFM -0.039251m / gecorr -0.133961m / BBR -0.039251m; tick1273
+bud_agm_mjp_werk_2026,ag_museum_leuven,2026,2467120.0,,,budgeted,src_agm_leuven_mjp2026,strong,MJP 2026 werkingssub 2.467120m (alg 2.317120 + spec 0.150000); tick1273
+bud_agm_mjp_loan_2026,ag_museum_leuven,2026,330000.0,,,budgeted,src_agm_leuven_mjp2026,strong,MJP 2026-2031 new loans 0.330m/yr; repay ~1.10m/yr; tick1273
