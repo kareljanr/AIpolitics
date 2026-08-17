@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T12:45:00Z,rq_1296,1296,no,tick1296 AGB Diepenbeek JR2025 Entity II residual; KBO 0885.640.088; assets 12.013m fin debt 3.026m city werksub 0.385m cum PnL -0.913m NEG; FOI ready; next rq_1297 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T12:50:00Z,rq_1297,1297,no,tick1297 Stad+OCMW Diepenbeek JR2025 GE residual; KBO 0207.465.974/0212.246.787; assets 190.496m fin debt 13.592m IGS reval 19.425m OCMW equity -0.708m NEG; FOI ready; next rq_1298 residual dual L5 VL; continuous hole_fill
