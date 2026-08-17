@@ -34534,3 +34534,39 @@ bud_kodb_bbr_2025,city_kapelle_op_den_bos,2025,-537625,,,executed,src_kapelle_jr
 bud_kodb_afm_2025,city_kapelle_op_den_bos,2025,2115685,,,executed,src_kapelle_jr2025_bbc,strong,J2 AFM +2.115685m; tick1291; primary BBC
 bud_kodb_pnl_2025,city_kapelle_op_den_bos,2025,1047426,,,executed,src_kapelle_jr2025_bbc,strong,J5 PnL +1.047426m; tick1291; primary BBC
 bud_kodb_fiscal_2025,city_kapelle_op_den_bos,2025,10646141,,,executed,src_kapelle_jr2025_bbc,strong,J5 fiscal 10.646141m; tick1291; primary BBC
+bud_huldb_assets_2025,city_huldenberg,2025,68709998.63,,,executed,src_huldb_jr2025_bbc,strong,J4 assets 68.709999m vs 67.271945m; tick1292; primary BBC
+bud_huldb_assets_2024,city_huldenberg,2024,67271944.95,,,executed,src_huldb_jr2025_bbc,strong,J4 YE2024 assets 67.271945m; tick1292; primary BBC
+bud_huldb_cash_2025,city_huldenberg,2025,5921524.18,,,executed,src_huldb_jr2025_bbc,strong,J4 cash 5.921524m vs 5.637576m; tick1292; primary BBC
+bud_huldb_cash_2024,city_huldenberg,2024,5637576.16,,,executed,src_huldb_jr2025_bbc,strong,J4 YE2024 cash 5.637576m; tick1292; primary BBC
+bud_huldb_fva_2025,city_huldenberg,2025,10904349.79,,,executed,src_huldb_jr2025_bbc,strong,J4/T5 FVA 10.904350m; EVA 0 + IGS 9.540232; tick1292; primary BBC
+bud_huldb_igs_2025,city_huldenberg,2025,9540231.54,,,executed,src_huldb_jr2025_bbc,strong,J4/T5 IGS FVA 9.540232m; tick1292; primary BBC
+bud_huldb_mva_2025,city_huldenberg,2025,47316826.5,,,executed,src_huldb_jr2025_bbc,strong,J4 MVA 47.316827m; leasing 0.318400m; tick1292; primary BBC
+bud_huldb_leasing_2025,city_huldenberg,2025,318399.82,,,executed,src_huldb_jr2025_bbc,strong,T5 leasing MVA 0.318400m vs 0.424533m; tick1292; primary BBC
+bud_huldb_equity_2025,city_huldenberg,2025,52158294.72,,,executed,src_huldb_jr2025_bbc,strong,J4 nettoactief 52.158295m vs 48.187919m; tick1292; primary BBC
+bud_huldb_fin_debt_2025,city_huldenberg,2025,9556788.86,,,executed,src_huldb_jr2025_bbc,strong,T4/J4 fin debt 9.556789m (LT 8.741 + ST due 0.816); tick1292; primary BBC
+bud_huldb_fin_debt_2024,city_huldenberg,2024,10321927.87,,,executed,src_huldb_jr2025_bbc,strong,T4 YE2024 fin debt 10.321928m; tick1292; primary BBC
+bud_huldb_new_loans_2025,city_huldenberg,2025,0,,,executed,src_huldb_jr2025_bbc,strong,T4 new loans 0; tick1292; primary BBC
+bud_huldb_pension_2025,city_huldenberg,2025,4370175.13,,,executed,src_huldb_jr2025_bbc,strong,J4 LT pension 4.370175m vs 5.251815m; tick1292; primary BBC
+bud_huldb_pension_respo_2025,city_huldenberg,2025,1939000,,,executed,src_huldb_jr2025_bbc,strong,proefbalans responsabilisering 1.939m; tick1292; primary BBC
+bud_huldb_st_prov_2025,city_huldenberg,2025,639645.04,,,executed,src_huldb_jr2025_bbc,strong,J4 ST voorzieningen 0.639645m; tick1292; primary BBC
+bud_huldb_expl_2025,city_huldenberg,2025,3719976.86,,,executed,src_huldb_jr2025_bbc,strong,J2 exploitatiesaldo +3.719977m; tick1292; primary BBC
+bud_huldb_expl_ontv_2025,city_huldenberg,2025,24901756.14,,,executed,src_huldb_jr2025_bbc,strong,J2 expl ontv 24.901756m; tick1292; primary BBC
+bud_huldb_expl_uitg_2025,city_huldenberg,2025,21181779.28,,,executed,src_huldb_jr2025_bbc,strong,J2 expl uitg 21.181779m; tick1292; primary BBC
+bud_huldb_city_expl_2025,city_huldenberg,2025,4974264.25,,,executed,src_huldb_jr2025_bbc,strong,J3/kengetallen city expl +4.974264m (23.799/18.825); tick1292; primary BBC
+bud_huldb_ocmw_expl_2025,city_huldenberg,2025,-1254287.39,,,executed,src_huldb_jr2025_bbc,strong,J3/kengetallen OCMW expl -1.254287m (1.103/2.357); tick1292; primary BBC
+bud_huldb_invest_2025,city_huldenberg,2025,-909840.43,,,executed,src_huldb_jr2025_bbc,strong,J2 invest -0.909840m vs initieel 12.223m; tick1292; primary BBC
+bud_huldb_bbr_2025,city_huldenberg,2025,2044997.42,,,executed,src_huldb_jr2025_bbc,strong,J2 budgettair resultaat boekjaar +2.044997m; tick1292; primary BBC
+bud_huldb_avail_2025,city_huldenberg,2025,8251667.19,,,executed,src_huldb_jr2025_bbc,strong,J2 beschikbaar BBR 8.251667m; tick1292; primary BBC
+bud_huldb_afm_2025,city_huldenberg,2025,2954837.85,,,executed,src_huldb_jr2025_bbc,strong,J2 AFM +2.954838m; tick1292; primary BBC
+bud_huldb_gecorr_2025,city_huldenberg,2025,2894222.63,,,executed,src_huldb_jr2025_bbc,strong,J2 gecorr AFM +2.894223m; tick1292; primary BBC
+bud_huldb_pnl_2025,city_huldenberg,2025,2968333.75,,,executed,src_huldb_jr2025_bbc,strong,J5 PnL +2.968334m (city +4.122 / OCMW -1.154); tick1292; primary BBC
+bud_huldb_tussen_2025,city_huldenberg,2025,1254287.39,,,executed,src_huldb_jr2025_bbc,strong,GR uittreksel city->OCMW tussenkomst 1.25428739m; tick1292; primary BBC
+bud_huldb_pers_2025,city_huldenberg,2025,13182150.71,,,executed,src_huldb_jr2025_bbc,strong,T2/J5 bezoldigingen 13.182151m; onderwijs andere ov 6.639m JUMP; tick1292; primary BBC
+bud_huldb_fiscal_2025,city_huldenberg,2025,11398674.53,,,executed,src_huldb_jr2025_bbc,strong,J5/T2 fiscal 11.398675m; tick1292; primary BBC
+bud_huldb_gemfonds_2025,city_huldenberg,2025,2412218.55,,,executed,src_huldb_jr2025_bbc,strong,T2 gemeentefonds 2.412219m; tick1292; primary BBC
+bud_huldb_politie_2025,city_huldenberg,2025,1080869.0,,,executed,src_huldb_jr2025_bbc,strong,T2 politiezone Voer en Dijle 1.080869m; tick1292; primary BBC
+bud_huldb_hvz_2025,city_huldenberg,2025,533731.86,,,executed,src_huldb_jr2025_bbc,strong,T2 HVZ Oost-VB 0.533732m; tick1292; primary BBC
+bud_huldb_hvz_inv_2025,city_huldenberg,2025,105684.74,,,executed,src_huldb_jr2025_bbc,strong,T2 HVZ invest 0.105685m; tick1292; primary BBC
+bud_huldb_igs_sub_2025,city_huldenberg,2025,583634.01,,,executed,src_huldb_jr2025_bbc,strong,T2 IGS werksub 0.583634m; tick1292; primary BBC
+bud_huldb_afl_2025,city_huldenberg,2025,765139.01,,,executed,src_huldb_jr2025_bbc,strong,T4 periodieke aflossingen 0.765139m; tick1292; primary BBC
+bud_huldb_ocmw_equity_2025,city_huldenberg,2025,-952609,,,executed,src_huldb_jr2025_bbc,strong,T5 OCMW equity -0.952609m NEG; tick1292; primary BBC
