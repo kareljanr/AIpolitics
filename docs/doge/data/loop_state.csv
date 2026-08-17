@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T10:20:00Z,rq_1280,1280,no,tick1280 Stad+OCMW Gingelom JR2025 GE residual + every-10; KBO 0207.466.469/0212.213.630; assets 57.639m fin debt 3.858m pension 3.561m Fluvius reval 9.735m AGB 0; FOI ready; next rq_1281 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T10:45:00Z,rq_1281,1281,no,tick1281 Stad+OCMW Wezembeek-Oppem JR2025 GE residual; KBO 0207.506.061/0212.182.946; assets 98.189m fin debt 1.253m pension 3.034m WOKRA 3.085m AGB 0; FOI ready; next rq_1282 residual dual L5 VL; continuous hole_fill

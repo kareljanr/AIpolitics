@@ -34160,3 +34160,37 @@ bud_gingelom_hvz_2025,city_gingelom,2025,334030,,,executed,src_gingelom_jr2025_b
 bud_gingelom_igs_sub_2025,city_gingelom,2025,619356,,,executed,src_gingelom_jr2025_bbc,strong,T2 IGS werksub 0.619356m; tick1280
 bud_gingelom_fluvius_reval_2025,city_gingelom,2025,9735233,,,executed,src_gingelom_jr2025_bbc,strong,verslag Fluvius EV-herwaardering 9.735233m (AE+AG+niet-gereguleerd); tick1280
 bud_gingelom_agb_sub_2025,city_gingelom,2025,0,,,executed,src_gingelom_jr2025_bbc,strong,J4 EVA FVA 0; no AGB; consol = GE+OCMW; tick1280
+bud_wezembeek_assets_2025,city_wezembeek_oppem,2025,98189430,,,executed,src_wezembeek_jr2025_bbc,strong,J4 assets 98.189430m vs 95.796211m; tick1281
+bud_wezembeek_assets_2024,city_wezembeek_oppem,2024,95796211,,,executed,src_wezembeek_jr2025_bbc,strong,J4 YE2024 assets 95.796211m; tick1281
+bud_wezembeek_cash_2025,city_wezembeek_oppem,2025,24899125,,,executed,src_wezembeek_jr2025_bbc,strong,J4 cash 24.899125m vs 25.514305m; tick1281
+bud_wezembeek_fva_2025,city_wezembeek_oppem,2025,17398098,,,executed,src_wezembeek_jr2025_bbc,strong,J4 FVA 17.398098m (EVA 0 + IGS 10.034949m + other 7.363148m); tick1281
+bud_wezembeek_igs_2025,city_wezembeek_oppem,2025,10034949,,,executed,src_wezembeek_jr2025_bbc,strong,J4 IGS FVA 10.034949m vs 9.844577m; Iverlek/Fluvius 9.892m; tick1281
+bud_wezembeek_iverlek_2025,city_wezembeek_oppem,2025,9892496,,,executed,src_wezembeek_jr2025_bbc,strong,J4 Iverlek/Fluvius FVA 9.892496m (sum Iverlek lines); tick1281
+bud_wezembeek_watergroep_2025,city_wezembeek_oppem,2025,7311186,,,executed,src_wezembeek_jr2025_bbc,strong,J4 De Watergroep other FVA 7.311186m (riool 6.163 + drink 1.148); tick1281
+bud_wezembeek_mva_2025,city_wezembeek_oppem,2025,53522790,,,executed,src_wezembeek_jr2025_bbc,strong,J4 MVA 53.522790m; gemeenschapsgoederen 50.780m; tick1281
+bud_wezembeek_leasing_2025,city_wezembeek_oppem,2025,1794046,,,executed,src_wezembeek_jr2025_bbc,strong,J4 leasing 1.794046m vs 1.743862m; Fluvius LED aankoop 0.361m; tick1281
+bud_wezembeek_fin_debt_2025,city_wezembeek_oppem,2025,1252506,,,executed,src_wezembeek_jr2025_bbc,strong,T4 fin debt 1.252506m (LT 1.133 + ST due 0.119) vs 1.024m; tick1281
+bud_wezembeek_fin_debt_lt_2025,city_wezembeek_oppem,2025,1133042,,,executed,src_wezembeek_jr2025_bbc,strong,J4/T4 LT fin debt 1.133042m; tick1281
+bud_wezembeek_pension_2025,city_wezembeek_oppem,2025,3034084,,,executed,src_wezembeek_jr2025_bbc,strong,J4 pension LT 3.034084m vs 3.023785m; tick1281
+bud_wezembeek_equity_2025,city_wezembeek_oppem,2025,89868797,,,executed,src_wezembeek_jr2025_bbc,strong,J4/T5 nettoactief 89.868797m (city 86.166 / OCMW 3.703); tick1281
+bud_wezembeek_cum_pnl_2025,city_wezembeek_oppem,2025,35048395,,,executed,src_wezembeek_jr2025_bbc,strong,J4 cum P&L 35.048395m (city 34.753 / OCMW 0.296); tick1281
+bud_wezembeek_reval_2025,city_wezembeek_oppem,2025,5154157,,,executed,src_wezembeek_jr2025_bbc,strong,J4/T5 herwaarderingsreserve 5.154157m (add 0.219474 IGS/Iverlek); tick1281
+bud_wezembeek_expl_2025,city_wezembeek_oppem,2025,3376721,,,executed,src_wezembeek_jr2025_bbc,strong,J2 expl +3.376721m (ontv 28.277 / uitg 24.900); tick1281
+bud_wezembeek_expl_ontv_2025,city_wezembeek_oppem,2025,28277109,,,executed,src_wezembeek_jr2025_bbc,strong,J2 expl ontv 28.277109m; tick1281
+bud_wezembeek_expl_uitg_2025,city_wezembeek_oppem,2025,24900388,,,executed,src_wezembeek_jr2025_bbc,strong,J2 expl uitg 24.900388m; tick1281
+bud_wezembeek_invest_2025,city_wezembeek_oppem,2025,-5003120,,,executed,src_wezembeek_jr2025_bbc,strong,J2 invest -5.003120m (ontv 0.082 / uitg 5.085) vs MJP -8.707m; tick1281
+bud_wezembeek_invest_uitg_2025,city_wezembeek_oppem,2025,5085464,,,executed,src_wezembeek_jr2025_bbc,strong,J2 invest uitg 5.085464m; realisatie 58pct vs MJP 8.760m; tick1281
+bud_wezembeek_bbr_2025,city_wezembeek_oppem,2025,-1389906,,,executed,src_wezembeek_jr2025_bbc,strong,J2 BBR year -1.389906m vs MJP -7.587m; tick1281
+bud_wezembeek_avail_2025,city_wezembeek_oppem,2025,23176456,,,executed,src_wezembeek_jr2025_bbc,strong,J2 avail BBR 23.176456m; onbeschikbaar 0.187m; tick1281
+bud_wezembeek_afm_2025,city_wezembeek_oppem,2025,3252449,,,executed,src_wezembeek_jr2025_bbc,strong,J2 AFM +3.252449m vs MJP +0.864m; tick1281
+bud_wezembeek_gecorr_2025,city_wezembeek_oppem,2025,3302851,,,executed,src_wezembeek_jr2025_bbc,strong,J2 gecorr AFM +3.302851m vs MJP +0.906m; tick1281
+bud_wezembeek_new_loans_2025,city_wezembeek_oppem,2025,360766,,,executed,src_wezembeek_jr2025_bbc,strong,T4 new loans 0.360766m Fluvius OV LED leasing; tick1281
+bud_wezembeek_pnl_2025,city_wezembeek_oppem,2025,538217,,,executed,src_wezembeek_jr2025_bbc,strong,J5 PnL +0.538217m (city +2.183 / OCMW -1.645); tick1281
+bud_wezembeek_pers_2025,city_wezembeek_oppem,2025,13589286,,,executed,src_wezembeek_jr2025_bbc,strong,J5/T2 personeel 13.589286m; onderwijs andere ov 3.773m; VTE unpublished; tick1281
+bud_wezembeek_fiscal_2025,city_wezembeek_oppem,2025,17057651,,,executed,src_wezembeek_jr2025_bbc,strong,J5/T2 fiscal 17.057651m (OV 6.739 + APB 9.502); tick1281
+bud_wezembeek_apb_2025,city_wezembeek_oppem,2025,9501819,,,executed,src_wezembeek_jr2025_bbc,strong,T2 APB 9.501819m vs 7.940m 2024; tick1281
+bud_wezembeek_gemfonds_2025,city_wezembeek_oppem,2025,2490300,,,executed,src_wezembeek_jr2025_bbc,strong,T2 gemeentefonds 2.490300m; tick1281
+bud_wezembeek_police_2025,city_wezembeek_oppem,2025,3085408,,,executed,src_wezembeek_jr2025_bbc,strong,T2 politiezone WOKRA 3.085408m (KUL-norm 47.73pct); tick1281
+bud_wezembeek_hvz_2025,city_wezembeek_oppem,2025,812171,,,executed,src_wezembeek_jr2025_bbc,strong,T2 HVZ Vlaams-Brabant West 0.812171m; tick1281
+bud_wezembeek_ocmw_int_2025,city_wezembeek_oppem,2025,1764562,,,executed,src_wezembeek_jr2025_bbc,strong,T5 city tussenkomst OCMW tekort 1.764562m; tick1281
+bud_wezembeek_agb_sub_2025,city_wezembeek_oppem,2025,0,,,executed,src_wezembeek_jr2025_bbc,strong,J4 EVA FVA 0; T2 AGB werksub 0; consol = GE+OCMW; tick1281
