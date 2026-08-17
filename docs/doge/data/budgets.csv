@@ -34750,3 +34750,43 @@ bud_diepbk_hvz_2025,city_diepenbeek,2025,952387,,,executed,src_diepbk_jr2025_bbc
 bud_diepbk_agb_werksub_2025,city_diepenbeek,2025,698706,,,executed,src_diepbk_jr2025_bbc,strong,T2 city werksub aan AGB 0.698706m vs AGBD 0.385m; tick1297; primary BBC
 bud_diepbk_ocmw_equity_2025,ocmw_diepenbeek,2025,-708459,,,executed,src_diepbk_jr2025_bbc,strong,T5 OCMW equity -0.708459m NEG; tick1297; primary BBC
 bud_diepbk_afl_2025,city_diepenbeek,2025,1930509,,,executed,src_diepbk_jr2025_bbc,strong,T4/J2 periodieke aflossingen 1.930509m; tick1297; primary BBC
+bud_stnok_assets_2025,city_steenokkerzeel,2025,95073091,,,executed,src_stnok_jr2025_bbc,strong,J4 assets 95.073091m vs 88.550669m; tick1298; primary BBC
+bud_stnok_assets_2024,city_steenokkerzeel,2024,88550669,,,executed,src_stnok_jr2025_bbc,strong,J4 YE2024 assets 88.550669m; tick1298; primary BBC
+bud_stnok_cash_2025,city_steenokkerzeel,2025,8646848,,,executed,src_stnok_jr2025_bbc,strong,J4 cash+beleg 8.646848m vs 12.885050m DROP; tick1298; primary BBC
+bud_stnok_cash_2024,city_steenokkerzeel,2024,12885050,,,executed,src_stnok_jr2025_bbc,strong,J4 YE2024 cash+beleg 12.885050m; tick1298; primary BBC
+bud_stnok_fva_2025,city_steenokkerzeel,2025,23925192,,,executed,src_stnok_jr2025_bbc,strong,J4/T5 FVA 23.925192m (EVA 0 + IGS 18.370 + other 5.549); tick1298; primary BBC
+bud_stnok_eva_2025,city_steenokkerzeel,2025,0,,,executed,src_stnok_jr2025_bbc,strong,T5 EVA 0 on city books; AGB exists (already 1167); tick1298; primary BBC
+bud_stnok_igs_2025,city_steenokkerzeel,2025,18370187,,,executed,src_stnok_jr2025_bbc,strong,T5 IGS 18.370187m vs 8.860016m; tick1298; primary BBC
+bud_stnok_igs_reval_2025,city_steenokkerzeel,2025,9510058,,,executed,src_stnok_jr2025_bbc,strong,T5 IGS herwaardering +9.510058m no cash; tick1298; primary BBC
+bud_stnok_mva_2025,city_steenokkerzeel,2025,54147646,,,executed,src_stnok_jr2025_bbc,strong,J4/T5 MVA 54.147646m; leasing 0.797829m; tick1298; primary BBC
+bud_stnok_leasing_2025,city_steenokkerzeel,2025,797829,,,executed,src_stnok_jr2025_bbc,strong,T5 leasing MVA 0.797829m; aankoop 0.173963m; tick1298; primary BBC
+bud_stnok_equity_2025,city_steenokkerzeel,2025,87059542,,,executed,src_stnok_jr2025_bbc,strong,J4 nettoactief 87.059542m vs 75.679116m; tick1298; primary BBC
+bud_stnok_cap_subs_2025,city_steenokkerzeel,2025,5873569,,,executed,src_stnok_jr2025_bbc,strong,J4/T5 cap subs 5.873569m; tick1298; primary BBC
+bud_stnok_cum_pnl_2025,city_steenokkerzeel,2025,13778227,,,executed,src_stnok_jr2025_bbc,strong,J4/T5 cum PnL 13.778227m; tick1298; primary BBC
+bud_stnok_reval_2025,city_steenokkerzeel,2025,10814961,,,executed,src_stnok_jr2025_bbc,strong,J4/T5 herwaardering 10.814961m vs 1.304903m; tick1298; primary BBC
+bud_stnok_fin_debt_2025,city_steenokkerzeel,2025,2491751,,,executed,src_stnok_jr2025_bbc,strong,T4 fin debt 2.491751m (LT 1.648686 + ST due 0.843065); tick1298; primary BBC
+bud_stnok_fin_debt_2024,city_steenokkerzeel,2024,3529609,,,executed,src_stnok_jr2025_bbc,strong,T4 YE2024 fin debt 3.529609m; tick1298; primary BBC
+bud_stnok_fin_debt_lt_2025,city_steenokkerzeel,2025,1648686,,,executed,src_stnok_jr2025_bbc,strong,T4 LT fin debt 1.648686m; tick1298; primary BBC
+bud_stnok_fin_debt_st_2025,city_steenokkerzeel,2025,843065,,,executed,src_stnok_jr2025_bbc,strong,T4 ST due 0.843065m; ST fin 0; tick1298; primary BBC
+bud_stnok_new_loans_2025,city_steenokkerzeel,2025,173963,,,executed,src_stnok_jr2025_bbc,strong,T4 new loans 0.173963m leasing; no new bank loans; tick1298; primary BBC
+bud_stnok_pension_2025,city_steenokkerzeel,2025,2587398,,,executed,src_stnok_jr2025_bbc,strong,J4 LT pension 2.587398m vs 6.094951m (respo takeback); tick1298; primary BBC
+bud_stnok_expl_2025,city_steenokkerzeel,2025,1023731,,,executed,src_stnok_jr2025_bbc,strong,J2 exploitatiesaldo +1.023731m; tick1298; primary BBC
+bud_stnok_expl_ontv_2025,city_steenokkerzeel,2025,25533422,,,executed,src_stnok_jr2025_bbc,strong,J2 expl ontv 25.533422m; tick1298; primary BBC
+bud_stnok_expl_uitg_2025,city_steenokkerzeel,2025,24509691,,,executed,src_stnok_jr2025_bbc,strong,J2 expl uitg 24.509691m; tick1298; primary BBC
+bud_stnok_city_expl_2025,city_steenokkerzeel,2025,2192186,,,executed,src_stnok_jr2025_bbc,strong,Kengetallen city expl +2.192186m; tick1298; primary BBC
+bud_stnok_ocmw_expl_2025,ocmw_steenokkerzeel,2025,-1168455,,,executed,src_stnok_jr2025_bbc,strong,Kengetallen OCMW expl -1.168455m; tick1298; primary BBC
+bud_stnok_invest_2025,city_steenokkerzeel,2025,-4391444,,,executed,src_stnok_jr2025_bbc,strong,J2 invest -4.391444m vs MJP -6.593m; tick1298; primary BBC
+bud_stnok_bbr_2025,city_steenokkerzeel,2025,-4688211,,,executed,src_stnok_jr2025_bbc,strong,J2 budgettair resultaat boekjaar -4.688211m; tick1298; primary BBC
+bud_stnok_avail_2025,city_steenokkerzeel,2025,9976574,,,executed,src_stnok_jr2025_bbc,strong,J2 beschikbaar BBR 9.976574m; tick1298; primary BBC
+bud_stnok_afm_2025,city_steenokkerzeel,2025,-51434,,,executed,src_stnok_jr2025_bbc,strong,J2 AFM -0.051434m (TAK26 herbelegging 1.027m); tick1298; primary BBC
+bud_stnok_gecorr_2025,city_steenokkerzeel,2025,878017,,,executed,src_stnok_jr2025_bbc,strong,J2 gecorr AFM +0.878017m; tick1298; primary BBC
+bud_stnok_pnl_2025,city_steenokkerzeel,2025,2032304,,,executed,src_stnok_jr2025_bbc,strong,J5 PnL +2.032304m (city +3.460 / OCMW -1.428); tick1298; primary BBC
+bud_stnok_pers_2025,city_steenokkerzeel,2025,13322470,,,executed,src_stnok_jr2025_bbc,strong,J5/T2 bezoldigingen 13.322470m; VTE unpublished; tick1298; primary BBC
+bud_stnok_fiscal_2025,city_steenokkerzeel,2025,14480183,,,executed,src_stnok_jr2025_bbc,strong,T2 fiscale 14.480183m (OV 5.929 + APB 6.220); tick1298; primary BBC
+bud_stnok_gemfonds_2025,city_steenokkerzeel,2025,2586756,,,executed,src_stnok_jr2025_bbc,strong,T2 gemeentefonds 2.586756m; tick1298; primary BBC
+bud_stnok_politie_2025,city_steenokkerzeel,2025,2108011,,,executed,src_stnok_jr2025_bbc,strong,T2 politiezone 2.108011m; zone-naam unpublished; tick1298; primary BBC
+bud_stnok_hvz_2025,city_steenokkerzeel,2025,1090130,,,executed,src_stnok_jr2025_bbc,strong,T2 HVZ/brandweer 1.090130m; tick1298; primary BBC
+bud_stnok_agb_werksub_2025,city_steenokkerzeel,2025,259001,,,executed,src_stnok_jr2025_bbc,strong,T2 city werksub aan AGB 0.259001m vs AGB 1167 prijssub 0.244m; tick1298; primary BBC
+bud_stnok_ocmw_equity_2025,ocmw_steenokkerzeel,2025,38505,,,executed,src_stnok_jr2025_bbc,strong,T5 OCMW equity 0.038505m / cum PnL -1.428375m NEG; tick1298; primary BBC
+bud_stnok_afl_2025,city_steenokkerzeel,2025,1211820,,,executed,src_stnok_jr2025_bbc,strong,T4/J2 periodieke aflossingen 1.211820m; tick1298; primary BBC
+bud_stnok_tussen_2025,city_steenokkerzeel,2025,1194900,,,executed,src_stnok_jr2025_bbc,strong,GR/T5 tussenkomst OCMW 1.194900m; tick1298; primary BBC
