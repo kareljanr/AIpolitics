@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T13:50:00Z,rq_1303,1303,no,tick1303 Stad+OCMW Edegem JR2025 GE residual; KBO 0207.537.933/0212.248.074; assets 104.029m pension 23.405m politie Hekla 4.327m PnL -3.856m; FOI ready; next rq_1304 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T14:25:00Z,rq_1304,1304,no,tick1304 AGB Pepingen JR2025 Entity II residual; KBO 0839.927.156; assets 180707 AFM -3219 PnL -3685 cash 1492 DROP; FOI ready; next rq_1305 residual dual L5 VL; continuous hole_fill

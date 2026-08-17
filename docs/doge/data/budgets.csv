@@ -34982,3 +34982,27 @@ bud_edgm_gemfonds_2025,city_edegem,2025,5404569,,,executed,src_edgm_jr2025_bbc,s
 bud_edgm_politie_2025,city_edegem,2025,4327462,,,executed,src_edgm_jr2025_bbc,strong,T2 PZ Hekla 4.327462m JUMP vs 4.024m; tick1303; primary BBC
 bud_edgm_hvz_2025,city_edegem,2025,873010,,,executed,src_edgm_jr2025_bbc,strong,T2 HVZ Rand werk 0.873010m; tick1303; primary BBC
 bud_edgm_ocmw_equity_2025,city_edegem,2025,64789,,,executed,src_edgm_jr2025_bbc,strong,T5 OCMW equity 0.064789m thin (was 3.928m); tick1303; primary BBC
+bud_agbpep_assets_2025,agb_pepingen,2025,180707,,,executed,src_agbpep_jr2025_bbc,strong,J4 assets 180706.60 vs 210677.34 DROP; tick1304; primary BBC
+bud_agbpep_assets_2024,agb_pepingen,2024,210677,,,executed,src_agbpep_jr2025_bbc,strong,J4 YE2024 assets 210677.34; tick1304; primary BBC
+bud_agbpep_cash_2025,agb_pepingen,2025,1492,,,executed,src_agbpep_jr2025_bbc,strong,J4 cash 1492.05 vs 3835.74 DROP; tick1304; primary BBC
+bud_agbpep_cash_2024,agb_pepingen,2024,3836,,,executed,src_agbpep_jr2025_bbc,strong,J4 YE2024 cash 3835.74; tick1304; primary BBC
+bud_agbpep_fva_2025,agb_pepingen,2025,25,,,executed,src_agbpep_jr2025_bbc,strong,J4 FVA IGS 25.00; tick1304; primary BBC
+bud_agbpep_mva_2025,agb_pepingen,2025,171413,,,executed,src_agbpep_jr2025_bbc,strong,J4 MVA 171412.98 terreinen/gebouwen; leasing 0; tick1304; primary BBC
+bud_agbpep_equity_2025,agb_pepingen,2025,172313,,,executed,src_agbpep_jr2025_bbc,strong,J4 nettoactief 172313.05 vs 204079.73 DROP; tick1304; primary BBC
+bud_agbpep_cap_subs_2025,agb_pepingen,2025,168615,,,executed,src_agbpep_jr2025_bbc,strong,J4 kapitaalsubsidies 168615.41 vs 196697.11; tick1304; primary BBC
+bud_agbpep_cum_pnl_2025,agb_pepingen,2025,1198,,,executed,src_agbpep_jr2025_bbc,strong,J4 cum PnL 1197.64 vs 4882.62; tick1304; primary BBC
+bud_agbpep_schulden_2025,agb_pepingen,2025,8394,,,executed,src_agbpep_jr2025_bbc,strong,J4 ST schulden 8393.55; LT 0; fin debt 0; tick1304; primary BBC
+bud_agbpep_fin_debt_2025,agb_pepingen,2025,0,,,executed,src_agbpep_jr2025_bbc,strong,J4/T4 fin debt 0; new loans 0; tick1304; primary BBC
+bud_agbpep_expl_2025,agb_pepingen,2025,-3219,,,executed,src_agbpep_jr2025_bbc,strong,J2 exploitatiesaldo -3219; tick1304; primary BBC
+bud_agbpep_expl_ontv_2025,agb_pepingen,2025,11961,,,executed,src_agbpep_jr2025_bbc,strong,J2 expl ontv 11961 vs MJP 14672; tick1304; primary BBC
+bud_agbpep_expl_uitg_2025,agb_pepingen,2025,15180,,,executed,src_agbpep_jr2025_bbc,strong,J2 expl uitg 15180 vs MJP 14672; tick1304; primary BBC
+bud_agbpep_invest_2025,agb_pepingen,2025,0,,,executed,src_agbpep_jr2025_bbc,strong,J2 invest 0; tick1304; primary BBC
+bud_agbpep_bbr_2025,agb_pepingen,2025,-3219,,,executed,src_agbpep_jr2025_bbc,strong,J2 BBR boekjaar -3219; tick1304; primary BBC
+bud_agbpep_cum_bbr_2025,agb_pepingen,2025,747,,,executed,src_agbpep_jr2025_bbc,strong,J2 gecumuleerd BBR 747 (prev 3966); tick1304; primary BBC
+bud_agbpep_afm_2025,agb_pepingen,2025,-3219,,,executed,src_agbpep_jr2025_bbc,strong,J2 AFM -3219 NEG; tick1304; primary BBC
+bud_agbpep_gecorr_2025,agb_pepingen,2025,-3219,,,executed,src_agbpep_jr2025_bbc,strong,J2 gecorr AFM -3219 NEG; tick1304; primary BBC
+bud_agbpep_pnl_2025,agb_pepingen,2025,-3685,,,executed,src_agbpep_jr2025_bbc,strong,J5 PnL -3685 vs +296; tick1304; primary BBC
+bud_agbpep_costs_2025,agb_pepingen,2025,43728,,,executed,src_agbpep_jr2025_bbc,strong,J5 kosten 43728 (goods 14431 + depr 28549); tick1304; primary BBC
+bud_agbpep_revenue_2025,agb_pepingen,2025,40043,,,executed,src_agbpep_jr2025_bbc,strong,J5 opbrengsten 40043 (ops 11961 + fin 28082); tick1304; primary BBC
+bud_agbpep_depr_2025,agb_pepingen,2025,28549,,,executed,src_agbpep_jr2025_bbc,strong,J5 afschrijvingen 28549 vs cap-sub amort 28082; tick1304; primary BBC
+bud_agbpep_fin_rev_2025,agb_pepingen,2025,28082,,,executed,src_agbpep_jr2025_bbc,strong,J5 financiele opbrengsten 28082; tick1304; primary BBC
