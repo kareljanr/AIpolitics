@@ -35547,3 +35547,35 @@ bud_hetdak_other_ops_2025,zorg_het_dak,2025,121828,,,executed,src_hetdak_jr2025_
 bud_hetdak_fin_cost_2025,zorg_het_dak,2025,532008,,,executed,src_hetdak_jr2025_pdf,strong,2025 J5/T2 fin costs 532008.18; tick1333; primary BBC J5/T2
 bud_hetdak_st_prov_2025,zorg_het_dak,2025,1123395,,,executed,src_hetdak_jr2025_pdf,strong,2025 ST voorzieningen 1123395.00; tick1333; primary BBC J4
 bud_hetdak_westkapelle_inv_2025,zorg_het_dak,2025,1458128,,,executed,src_hetdak_jr2025_pdf,strong,2025 invest nieuwbouw WZC Westkapelle/Polderparel 1458128.00 (actieplan 2020001); tick1333; primary BBC J1
+bud_opcura_assets_2025,zorg_opcura,2025,2504005,,,executed,src_opcura_jr2025_pdf,strong,2025 assets 2504005 was 3212361; tick1334; primary BBC J4
+bud_opcura_cash_2025,zorg_opcura,2025,492912,,,executed,src_opcura_jr2025_pdf,strong,2025 cash 492912 DROP vs 1404044; tick1334; primary BBC J4
+bud_opcura_st_recv_2025,zorg_opcura,2025,693339,,,executed,src_opcura_jr2025_pdf,strong,2025 ST recv 693339 (ruil 516162 + niet-ruil 177177); tick1334; primary BBC J4
+bud_opcura_fixed_2025,zorg_opcura,2025,1285457,,,executed,src_opcura_jr2025_pdf,strong,2025 fixed 1285457 (FVA 1250 IGS + MVA 1181795 + IVA 102413); tick1334; primary BBC J4/T5
+bud_opcura_mva_2025,zorg_opcura,2025,1181795,,,executed,src_opcura_jr2025_pdf,strong,2025 MVA 1181795 leasing 0 of MVA bedrijfsmatig 1175767; tick1334; primary BBC J4
+bud_opcura_fva_igs_2025,zorg_opcura,2025,1250,,,executed,src_opcura_jr2025_pdf,strong,2025 FVA IGS 1250 EVA 0 (new vs 0 in 2024); tick1334; primary BBC J4/T2
+bud_opcura_iva_2025,zorg_opcura,2025,102413,,,executed,src_opcura_jr2025_pdf,strong,2025 IVA 102413 was 104854; tick1334; primary BBC J4
+bud_opcura_debt_2025,zorg_opcura,2025,1285424,,,executed,src_opcura_jr2025_pdf,strong,2025 schulden 1285424 all ST (voorzieningen 330584 + non-fin ruil 948936); tick1334; primary BBC J4
+bud_opcura_fin_debt_2025,zorg_opcura,2025,0,,,executed,src_opcura_jr2025_pdf,strong,2025 fin debt T4 0 (LT 0 + ST 0; no new loans 2020-2025); tick1334; primary BBC T4
+bud_opcura_equity_2025,zorg_opcura,2025,1218581,,,executed,src_opcura_jr2025_pdf,strong,2025 nettoactief 1218581 was 1873702; tick1334; primary BBC J4
+bud_opcura_cum_surplus_2025,zorg_opcura,2025,-432918,,,executed,src_opcura_jr2025_pdf,strong,2025 cum surplus -432918 was +214423; tick1334; primary BBC J4
+bud_opcura_cap_subs_2025,zorg_opcura,2025,85580,,,executed,src_opcura_jr2025_pdf,strong,2025 kapitaalsubsidies 85580 was 93360; tick1334; primary BBC J4
+bud_opcura_expl_in_2025,zorg_opcura,2025,8888479,,,executed,src_opcura_jr2025_pdf,strong,2025 expl ontv 8888479; tick1334; primary BBC J2
+bud_opcura_expl_out_2025,zorg_opcura,2025,9270285,,,executed,src_opcura_jr2025_pdf,strong,2025 expl uitg 9270285; tick1334; primary BBC J2
+bud_opcura_expl_2025,zorg_opcura,2025,-381806,,,executed,src_opcura_jr2025_pdf,strong,2025 expl saldo -381806; tick1334; primary BBC J2
+bud_opcura_invest_2025,zorg_opcura,2025,-500681,,,executed,src_opcura_jr2025_pdf,strong,2025 invest saldo -500681 (uitg 500681 / ontv 0); tick1334; primary BBC J2
+bud_opcura_bbr_2025,zorg_opcura,2025,-882487,,,executed,src_opcura_jr2025_pdf,strong,2025 BBR year -882487; tick1334; primary BBC J2
+bud_opcura_cum_bbr_2025,zorg_opcura,2025,237315,,,executed,src_opcura_jr2025_pdf,strong,YE2025 cum BBR 237315 was 1119802; tick1334; primary BBC J2
+bud_opcura_afm_2025,zorg_opcura,2025,-381806,,,executed,src_opcura_jr2025_pdf,strong,2025 AFM -381806; tick1334; primary BBC J2
+bud_opcura_gecorr_afm_2025,zorg_opcura,2025,-381806,,,executed,src_opcura_jr2025_pdf,strong,2025 gecorr AFM -381806; tick1334; primary BBC J2
+bud_opcura_pnl_2025,zorg_opcura,2025,-647340,,,executed,src_opcura_jr2025_pdf,strong,2025 PnL -647340 (ops -658170 / fin +10830); tick1334; primary BBC J5
+bud_opcura_pers_2025,zorg_opcura,2025,6353535,,,executed,src_opcura_jr2025_pdf,strong,2025 J5/T2 pers 6353535 (niet-vast 6145393 + andere 208142); VTE 93.00 / 120 koppen; tick1334; primary BBC
+bud_opcura_vte_2025,zorg_opcura,2025,93,,,executed,src_opcura_jr2025_pdf,strong,2025 VTE 93.00 (120 koppen; statutair 4.00 / contractueel 89.00); tick1334; primary BBC personeelsinzet
+bud_opcura_goods_2025,zorg_opcura,2025,2919930,,,executed,src_opcura_jr2025_pdf,strong,2025 J5 goederen/diensten 2919930 (T2 2913190); tick1334; primary BBC J5
+bud_opcura_werksub_in_2025,zorg_opcura,2025,2428751,,,executed,src_opcura_jr2025_pdf,strong,2025 J5=T2 werksub ontv 2428751 (alg 1236287 + spec 1192464); tick1334; primary BBC J5/T2
+bud_opcura_werksub_city_2025,zorg_opcura,2025,1236287,,,executed,src_opcura_jr2025_pdf,strong,2025 T2 alg werksub van de gemeente 1236287; MJP 2026 drops to 700000; dual city line FOI; tick1334; primary BBC T2
+bud_opcura_werksub_vl_2025,zorg_opcura,2025,806190,,,executed,src_opcura_jr2025_pdf,strong,2025 T2 spec werksub VL 806190 (alg VL 0); tick1334; primary BBC T2
+bud_opcura_werksub_fed_2025,zorg_opcura,2025,386274,,,executed,src_opcura_jr2025_pdf,strong,2025 T2 spec werksub federale overheid 386274; tick1334; primary BBC T2
+bud_opcura_ops_rev_2025,zorg_opcura,2025,6412492,,,executed,src_opcura_jr2025_pdf,strong,2025 J5 opbrengsten uit de werking 6412492; tick1334; primary BBC J5
+bud_opcura_other_ops_2025,zorg_opcura,2025,43902,,,executed,src_opcura_jr2025_pdf,strong,2025 J5 andere operationele opbrengsten 43902; tick1334; primary BBC J5
+bud_opcura_st_prov_2025,zorg_opcura,2025,330584,,,executed,src_opcura_jr2025_pdf,strong,2025 ST voorzieningen 330584; tick1334; primary BBC J4
+bud_opcura_cash_drop_2025,zorg_opcura,2025,911132,,,executed,src_opcura_jr2025_pdf,strong,2025 cash drop 1404044-492912=911132; FOI destination; tick1334; primary BBC J4
