@@ -17339,3 +17339,10 @@ Append-only. Each tick adds a short entry.
 - EUR strong: assets **7.850m** JUMP; BBR **+2.903m** vs MJP **1.375m**; AFM **+31.898** thin vs MJP **−528.857**; gecorr AFM **+31.884**; city werkingssub **5.152m** (alg **5.086m** + spec **0.066m** DROP was 0.410m); VL spec **3.577m**; T2 F gift **0.366m** (BBR-tilt; no loans); personnel **5.945m** / **70.74 VTE**; PnL **−0.191m**; cash **0.131m** THIN vs niet-ruil recv **5.990m**; ST debt **3.698m** JUMP (fin 170); city payable note **1.409m** dated 31/12/24.
 - CSVs: sources/entities(+city note)/budgets+48/commitments+7/leaderboard+7 + FOI ready `gap_ager_recv_5_99m_city_sub_5_15m_gift_0_37m_l5` (not sent); rq_1256=done; spawn rq_1257.
 - Next: rq_1257 residual dual L5 VL JR2025 hole_fill (prefer IVA Historische Huizen Gent last JR2025 if separate PDF).
+
+### Tick 1257 - 2026-08-17 - rq_1257 IVA Historische Huizen Gent last JR2025
+- Unit: IVA Historische Huizen Gent last JR2025 city organogram residual after city Gent stub tick101 + AGB Kunsten en Design tick1255 + AGB Erfgoed tick1256. **No separate Entity II BBC / KBO / NBB** (intern agentschap Stad Gent). Primary: Stad Gent JR2025 Toelichting 294p text (GR 2026_GR_00503 22.06.2026) + inkanteling 2025_GR_00968. Houses: Gravensteen / Belfort / SPA / SBA / stadspaleizen / Stadhuis. Inkanteling 1.1.2026 into AGB Kunsten en Erfgoed Gent (0537.520.055).
+- EUR strong: expl ontvangsten **7.046m**; expl uitgaven **6.326m**; expl saldo **+0.720m**; invest **0.114m** (ontvangsten **0**); organogram net **+0.606m** (only surplus line in Departement CSVT **−101.45m**); OD10062 T3 envelope **0.585m**; 2025 meeting-infra SPA **51.128**. Extra-comptabel ticket accounts stay city until 2026 afpunting; activa om niet; shop-voorraad + compenserende subsidie (amounts FOI).
+- CSVs: sources+2/entities(+city note)/budgets+14/commitments+7/leaderboard+7 + FOI ready `gap_iva_hhg_expl_7_05m_net_0_61m_extra_comptabel_inkanteling_l5` (not sent); rq_1257=done; spawn rq_1258.
+- Next: rq_1258 residual dual L5 VL JR2025 hole_fill (prefer AGB District09 Gent or sogent JR2025 if separate PDF).
+

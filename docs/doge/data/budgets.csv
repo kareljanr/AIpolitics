@@ -33562,3 +33562,17 @@ bud_ager_other_ops_2025,agb_erfgoed_gent,2025,63601,,,bbc_jr_realized,src_ager_j
 bud_ager_pnl_2025,agb_erfgoed_gent,2025,-191440,,,bbc_jr_realized,src_ager_jr2025,strong,J5 tekort 2025 -0.191m (was -0.159m); tick1256
 bud_ager_vte_2025,agb_erfgoed_gent,2025,70.74,,,bbc_jr_realized,src_ager_jr2025,strong,VTE 2025 70.74 vs plan 73.80 vs 2024 67.82; tick1256
 bud_ager_city_payable_note_2024,agb_erfgoed_gent,2025,1408661,,,bbc_jr_realized,src_ager_jr2025,strong,Risiconota city payable 1.409m dated 31/12/24 in JR2025 bundel; YE2025 split FOI; tick1256
+bud_iva_hhg_net_2025,iva_historische_huizen_gent,2025,605959,,,bbc_jr_realized,src_iva_hhg_jr2025_city,strong,Organogram net IVA HH 2025 +0.606m (only surplus line in CSVT); tick1257
+bud_iva_hhg_expl_saldo_2025,iva_historische_huizen_gent,2025,720315,,,bbc_jr_realized,src_iva_hhg_jr2025_city,strong,Exploitatiesaldo IVA HH 2025 +0.720m; tick1257
+bud_iva_hhg_expl_exp_2025,iva_historische_huizen_gent,2025,6325610,,,bbc_jr_realized,src_iva_hhg_jr2025_city,strong,Exploitatieuitgaven IVA HH 2025 6.326m; tick1257
+bud_iva_hhg_expl_rec_2025,iva_historische_huizen_gent,2025,7045925,,,bbc_jr_realized,src_iva_hhg_jr2025_city,strong,Exploitatieontvangsten IVA HH 2025 7.046m; tick1257
+bud_iva_hhg_invest_saldo_2025,iva_historische_huizen_gent,2025,-114357,,,bbc_jr_realized,src_iva_hhg_jr2025_city,strong,Investeringssaldo IVA HH 2025 -0.114m; tick1257
+bud_iva_hhg_invest_exp_2025,iva_historische_huizen_gent,2025,114357,,,bbc_jr_realized,src_iva_hhg_jr2025_city,strong,Investeringsuitgaven IVA HH 2025 0.114m; tick1257
+bud_iva_hhg_invest_rec_2025,iva_historische_huizen_gent,2025,0,,,bbc_jr_realized,src_iva_hhg_jr2025_city,strong,Investeringsontvangsten IVA HH 2025 EUR0; tick1257
+bud_iva_hhg_fin_saldo_2025,iva_historische_huizen_gent,2025,0,,,bbc_jr_realized,src_iva_hhg_jr2025_city,strong,Financieringssaldo IVA HH 2025 EUR0; tick1257
+bud_iva_hhg_od10062_t3_exp_2025,iva_historische_huizen_gent,2025,585437,,,bbc_jr_realized,src_iva_hhg_jr2025_city,strong,OD10062 T3 invest uitgaven envelope 0.585m (pre-MJP 0.175 + in-MJP 0.410); tick1257
+bud_iva_hhg_od10062_t3_roer_2025,iva_historische_huizen_gent,2025,203983,,,bbc_jr_realized,src_iva_hhg_jr2025_city,strong,OD10062 T3 roerende goederen 0.204m; tick1257
+bud_iva_hhg_od10062_t3_erfgoed_2025,iva_historische_huizen_gent,2025,381454,,,bbc_jr_realized,src_iva_hhg_jr2025_city,strong,OD10062 T3 erfgoed 0.381m; tick1257
+bud_iva_hhg_od10062_t3_rec_2025,iva_historische_huizen_gent,2025,42000,,,bbc_jr_realized,src_iva_hhg_jr2025_city,strong,OD10062 T3 investeringssubsidies 42.000; tick1257
+bud_iva_hhg_meeting_spa_2025,iva_historische_huizen_gent,2025,51128,,,bbc_jr_realized,src_iva_hhg_jr2025_city,strong,OD10062 2025 aangerekend meeting-infra Sint-Pietersabdij 51.128; tick1257
+bud_iva_hhg_dept_csvt_2025,city_gent,2025,-101447860,,,bbc_jr_realized,src_iva_hhg_jr2025_city,strong,Departement Cultuur Sport Vrije Tijd organogram net -101.45m (context; not IVA-only); tick1257
