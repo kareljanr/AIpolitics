@@ -35109,3 +35109,43 @@ bud_agbbrs_prijssub_2025,agb_beerse,2025,281243,,,executed,src_agbbrs_jr2025_bbc
 bud_agbbrs_pers_2025,agb_beerse,2025,0,,,executed,src_agbbrs_jr2025_bbc,strong,J5 bezoldigingen 0; VTE unpublished; tick1307; primary BBC
 bud_agbbrs_intrest_2025,agb_beerse,2025,74911,,,executed,src_agbbrs_jr2025_bbc,strong,Kengetallen intresten 74911; J5 fin kosten 74913; tick1307; primary BBC
 bud_agbbrs_st_schuld_2025,agb_beerse,2025,845219,,,executed,src_agbbrs_jr2025_bbc,strong,J4 ST schulden 845219 vs 642474; tick1307; primary BBC
+bud_brsge_assets_2025,city_beerse,2025,103960480,,,executed,src_brsge_jr2025_bbc,strong,J4 assets 103960480 vs 103736399; tick1308; primary BBC
+bud_brsge_assets_2024,city_beerse,2024,103736399,,,executed,src_brsge_jr2025_bbc,strong,J4 YE2024 assets 103736399; tick1308; primary BBC
+bud_brsge_cash_2025,city_beerse,2025,9445482,,,executed,src_brsge_jr2025_bbc,strong,J4 cash 9445482 vs 11625987 DROP; tick1308; primary BBC
+bud_brsge_fva_2025,city_beerse,2025,25816911,,,executed,src_brsge_jr2025_bbc,strong,J4 FVA 25816911 (EVA 0 IGS 25580005 OCMW-ver 3450 other 233455); tick1308; primary BBC
+bud_brsge_fva_igs_2025,city_beerse,2025,25580005,,,executed,src_brsge_jr2025_bbc,strong,J4/T5 IGS 25580005 reval 0; tick1308; primary BBC
+bud_brsge_mva_2025,city_beerse,2025,59697273,,,executed,src_brsge_jr2025_bbc,strong,J4 MVA 59697273 leasing 1268200; tick1308; primary BBC
+bud_brsge_leasing_2025,city_beerse,2025,1268200,,,executed,src_brsge_jr2025_bbc,strong,J4 leasing gemeenschapsgoederen 1268200; tick1308; primary BBC
+bud_brsge_equity_2025,city_beerse,2025,77970176,,,executed,src_brsge_jr2025_bbc,strong,J4 nettoactief 77970176 (city 71654319 / OCMW 6315857); tick1308; primary BBC
+bud_brsge_schulden_2025,city_beerse,2025,25990304,,,executed,src_brsge_jr2025_bbc,strong,J4 schulden 25990304; tick1308; primary BBC
+bud_brsge_fin_debt_2025,city_beerse,2025,13817644,,,executed,src_brsge_jr2025_bbc,strong,J4/T4 fin debt 13817644 (LT 12068017 + ST due 1749628) vs 15179344; tick1308; primary BBC
+bud_brsge_new_loans_2025,city_beerse,2025,331504,,,executed,src_brsge_jr2025_bbc,strong,T4/J3 new loans 331504 leasing; bank 0; tick1308; primary BBC
+bud_brsge_afl_2025,city_beerse,2025,1693204,,,executed,src_brsge_jr2025_bbc,strong,J2/T4 periodieke afl 1693204; tick1308; primary BBC
+bud_brsge_expl_2025,city_beerse,2025,4141175,,,executed,src_brsge_jr2025_bbc,strong,J2 exploitatiesaldo +4141175; tick1308; primary BBC
+bud_brsge_expl_ontv_2025,city_beerse,2025,50252678,,,executed,src_brsge_jr2025_bbc,strong,J2 expl ontv 50252678 vs MJP 44473781; tick1308; primary BBC
+bud_brsge_expl_uitg_2025,city_beerse,2025,46111502,,,executed,src_brsge_jr2025_bbc,strong,J2 expl uitg 46111502 vs MJP 42661049; tick1308; primary BBC
+bud_brsge_expl_city_2025,city_beerse,2025,7713468,,,executed,src_brsge_jr2025_bbc,strong,Kengetallen/J3 city expl +7713468; tick1308; primary BBC
+bud_brsge_expl_ocmw_2025,ocmw_beerse,2025,-3572293,,,executed,src_brsge_jr2025_bbc,strong,Kengetallen/J3 OCMW expl -3572293; tick1308; primary BBC
+bud_brsge_invest_2025,city_beerse,2025,-3088909,,,executed,src_brsge_jr2025_bbc,strong,J2 invest -3088909 vs MJP -2968158; tick1308; primary BBC
+bud_brsge_bbr_2025,city_beerse,2025,-982836,,,executed,src_brsge_jr2025_bbc,strong,J2/GR BBR boekjaar -982836 vs MJP -3286406; tick1308; primary BBC
+bud_brsge_cum_bbr_2025,city_beerse,2025,9264208,,,executed,src_brsge_jr2025_bbc,strong,J2 gecumuleerd BBR 9264208 (prev 10247045); tick1308; primary BBC
+bud_brsge_avail_bbr_2025,city_beerse,2025,6601822,,,executed,src_brsge_jr2025_bbc,strong,J2 beschikbaar BBR 6601822; tick1308; primary BBC
+bud_brsge_afm_2025,city_beerse,2025,2573644,,,executed,src_brsge_jr2025_bbc,strong,J2/GR AFM +2573644 vs MJP 265514; tick1308; primary BBC
+bud_brsge_gecorr_2025,city_beerse,2025,3052500,,,executed,src_brsge_jr2025_bbc,strong,J2 gecorr AFM +3052500; tick1308; primary BBC
+bud_brsge_pnl_2025,city_beerse,2025,278410,,,executed,src_brsge_jr2025_bbc,strong,J5 PnL +278410 (ops -754573 / fin +1032982); tick1308; primary BBC
+bud_brsge_pnl_city_2025,city_beerse,2025,4433849,,,executed,src_brsge_jr2025_bbc,strong,T5 city PnL +4433849; tick1308; primary BBC
+bud_brsge_pnl_ocmw_2025,ocmw_beerse,2025,-4155439,,,executed,src_brsge_jr2025_bbc,strong,T5 OCMW PnL -4155439; tick1308; primary BBC
+bud_brsge_tussen_2025,city_beerse,2025,4186158,,,executed,src_brsge_jr2025_bbc,strong,Kengetallen/T5 tussenkomst OCMW 4186158; tick1308; primary BBC
+bud_brsge_pers_2025,city_beerse,2025,30670713,,,executed,src_brsge_jr2025_bbc,strong,J5/T2 bezoldigingen 30670713 JUMP vs 23520867; onderwijs other 10356195; tick1308; primary BBC
+bud_brsge_pension_2025,city_beerse,2025,5963840,,,executed,src_brsge_jr2025_bbc,strong,J4 pension LT 5963840 vs 5258847; tick1308; primary BBC
+bud_brsge_fiscal_2025,city_beerse,2025,20774849,,,executed,src_brsge_jr2025_bbc,strong,T2 fiscale ontvangsten 20774849; tick1308; primary BBC
+bud_brsge_fiscal_ov_2025,city_beerse,2025,10515734,,,executed,src_brsge_jr2025_bbc,strong,T2 opcentiemen OV 10515734; tick1308; primary BBC
+bud_brsge_fiscal_apb_2025,city_beerse,2025,8256453,,,executed,src_brsge_jr2025_bbc,strong,T2 APB 8256453; tick1308; primary BBC
+bud_brsge_gemeentefonds_2025,city_beerse,2025,4736800,,,executed,src_brsge_jr2025_bbc,strong,T2 gemeentefonds 4736800; tick1308; primary BBC
+bud_brsge_politie_2025,city_beerse,2025,3016457,,,executed,src_brsge_jr2025_bbc,strong,T2 politiezone werksub 3016457 + invest 155046; tick1308; primary BBC
+bud_brsge_hvz_2025,city_beerse,2025,1252668,,,executed,src_brsge_jr2025_bbc,strong,T2 HVZ werksub 1252668 + invest 263587; tick1308; primary BBC
+bud_brsge_agb_werksub_2025,city_beerse,2025,300067,,,executed,src_brsge_jr2025_bbc,strong,T2 AGB werksub 300067; AGB already 1307; tick1308; primary BBC
+bud_brsge_toegestane_agb_2025,city_beerse,2025,799075,,,executed,src_brsge_jr2025_bbc,strong,Kengetallen/J3 toegestane leningen AGB 799075; tick1308; primary BBC
+bud_brsge_intrest_2025,city_beerse,2025,441305,,,executed,src_brsge_jr2025_bbc,strong,Kengetallen intresten 441305; tick1308; primary BBC
+bud_brsge_iva_2025,city_beerse,2025,1145965,,,executed,src_brsge_jr2025_bbc,strong,J4 IVA 1145965; tick1308; primary BBC
+bud_brsge_st_schuld_2025,city_beerse,2025,7958447,,,executed,src_brsge_jr2025_bbc,strong,J4 ST schulden 7958447 vs 7315869; tick1308; primary BBC
