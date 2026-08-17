@@ -17478,3 +17478,10 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources+5/entities(new AGB + city_bkz note)/budgets+25/commitments+6/leaderboard+7 + FOI ready `gap_ibogem_pension_4_95m_bbc_opaque_city_dual_6_20m_l5` (not sent); rq_1275=done; spawn rq_1276; ticks=1275. Not a *0 tick — no progress refresh.
 - Next: rq_1276 residual dual L5 VL JR2025 hole_fill (prefer other unmined AGB/zorg/EVA with direct PDF).
 
+
+### Tick 1276 - 2026-08-17 - rq_1276 Motena Roeselare dual residual
+- Unit: Motena (Welzijnsvereniging / ex-Zorgbedrijf Roeselare) JR2025 Entity II after Mintus Brugge tick1269 + Zorg/WV cluster 1246–1251 (KBO **0537.951.706**; Vereniging van OCMW's since 25.06.2013; renamed Motena 25.09.2019; AV 2.06.2026 vaststelling JR2025). **Distinct from** Mintus (0682.844.465). Seat Rolariusplein 8.201 8800. AD Steven Verdoolaege / voorzitter Bart Wenes. 27 VE (KBO). WZC De Waterdam / De Zilverberg / Ter Berken / Sint-Henricus + Kotee + KIDZ (org narrative). City Roeselare GE not mined this tick.
+- EUR: **none invented**. Primary AV PDF confirms JR2025 is on the 2.06.2026 agenda (punt 2 vaststelling + waarderingsregels). City page names downloads (Jaarrekening Motena + commissaris + AV besluit) but **roeselare.be Cloudflare 403** this box. Org site publishes AV dagordes only — no JR PDF. NBB consult/API **403/SPA**. Raadpleeg-roeselare is a SPA without a fetchable attachment. Do not use Belscope/Companyweb.
+- CSVs: sources+5/entities(new Motena + city_roeselare stub)/commitments+1 (envelope Unknown) + FOI ready `gap_motena_jr2025_pdf_opaque_city_dual_unknown_l5` (not sent); no budgets/leaderboard without primary euros; rq_1276=done; spawn rq_1277; ticks=1276. Not a *0 tick — no progress refresh.
+- Next: rq_1277 residual dual L5 VL JR2025 hole_fill (prefer other unmined AGB/zorg/EVA with direct PDF; skip Motena unless a fetchable JR appears).
+
