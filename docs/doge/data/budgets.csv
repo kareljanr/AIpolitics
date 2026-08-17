@@ -35715,3 +35715,32 @@ bud_zbb_ocmw_beleid_2025,zorg_zbb,2025,1104752,,,executed,src_zbb_jr2025_pdf,str
 bud_zbb_ops_rev_2025,zorg_zbb,2025,9176475,,,executed,src_zbb_jr2025_pdf,strong,2025 J5 opbrengsten uit de werking 9176475; tick1339; primary BBC J5
 bud_zbb_other_ops_2025,zorg_zbb,2025,67113,,,executed,src_zbb_jr2025_pdf,strong,2025 J5 andere operationele opbrengsten 67113; tick1339; primary BBC J5
 bud_zbb_early_repay_2025,zorg_zbb,2025,28310,,,executed,src_zbb_jr2025_pdf,strong,2025 T2/T4 niet-periodieke aflossing 28310; tick1339; primary BBC T2/T4
+bud_lsm_assets_2025,eva_lsm,2025,85847015,,,executed,src_lsm_jr2025_pdf,strong,2025 assets 85847015.22 was 90377642.92; tick1340; primary WVV in official PDF
+bud_lsm_cash_2025,eva_lsm,2025,3394910,,,executed,src_lsm_jr2025_pdf,strong,2025 cash 3394910.17 DROP vs 14134668.85 (drop 10739758.68); tick1340; primary WVV
+bud_lsm_invest_2025,eva_lsm,2025,58310533,,,executed,src_lsm_jr2025_pdf,strong,2025 geldbeleggingen 58310532.81 JUMP vs 47512384.01; tick1340; primary WVV
+bud_lsm_puilaetco_2025,eva_lsm,2025,51394863,,,executed,src_lsm_jr2025_pdf,strong,2025 Puilaetco portefeuille 51394862.91 minus waardeverm 1084330.10; tick1340; primary WVV
+bud_lsm_term_dep_2025,eva_lsm,2025,8000000,,,executed,src_lsm_jr2025_pdf,strong,2025 termijndeposito's Puilaetco 8000000 was 3750000; tick1340; primary WVV
+bud_lsm_st_recv_2025,eva_lsm,2025,0,,,executed,src_lsm_jr2025_pdf,strong,2025 ST recv empty/0 (2024 was 34012 Kind & Taal N-376.5); tick1340; primary WVV
+bud_lsm_accruals_2025,eva_lsm,2025,24141572,,,executed,src_lsm_jr2025_pdf,strong,2025 overlopend 24141572.24 (projectcontracten 24140733.35); tick1340; primary WVV
+bud_lsm_equity_2025,eva_lsm,2025,55261928,,,executed,src_lsm_jr2025_pdf,strong,2025 equity/overgedragen winst 55261928.08 was 55260390.36; tick1340; primary WVV
+bud_lsm_debt_2025,eva_lsm,2025,30585087,,,executed,src_lsm_jr2025_pdf,strong,2025 schulden 30585087.14 was 35117252.56; tick1340; primary WVV
+bud_lsm_lt_debt_2025,eva_lsm,2025,3175000,,,executed,src_lsm_jr2025_pdf,strong,2025 LT overige schulden 3175000 NET after contra reclass; tick1340; primary WVV
+bud_lsm_st_debt_2025,eva_lsm,2025,27361281,,,executed,src_lsm_jr2025_pdf,strong,2025 ST schulden 27361281.16 (project-pay 27315934.94 + leveranciers 45346.22); tick1340; primary WVV
+bud_lsm_st_project_pay_2025,eva_lsm,2025,27315935,,,executed,src_lsm_jr2025_pdf,strong,2025 ST project-pay 27315934.94 (protocol 6350201.25 + nieuwe 20965733.69); tick1340; primary WVV
+bud_lsm_suppliers_2025,eva_lsm,2025,45346,,,executed,src_lsm_jr2025_pdf,strong,2025 leveranciers 45346.22; tick1340; primary WVV
+bud_lsm_pnl_2025,eva_lsm,2025,1538,,,executed,src_lsm_jr2025_pdf,strong,2025 PnL +1537.72 was +618474.46; tick1340; primary WVV 9904
+bud_lsm_ops_2025,eva_lsm,2025,-3548237,,,executed,src_lsm_jr2025_pdf,strong,2025 bedrijfswinst -3548237.03 (opbr 999999.60 / kosten 4548236.63); tick1340; primary WVV
+bud_lsm_ops_rev_2025,eva_lsm,2025,1000000,,,executed,src_lsm_jr2025_pdf,strong,2025 bedrijfsopbrengsten 999999.60 all VL Gemeenschap; tick1340; primary WVV
+bud_lsm_ops_cost_2025,eva_lsm,2025,4548237,,,executed,src_lsm_jr2025_pdf,strong,2025 bedrijfskosten 4548236.63; tick1340; primary WVV
+bud_lsm_project_cost_2025,eva_lsm,2025,4227820,,,executed,src_lsm_jr2025_pdf,strong,2025 project aankopen 4227819.79; tick1340; primary WVV
+bud_lsm_services_2025,eva_lsm,2025,114212,,,executed,src_lsm_jr2025_pdf,strong,2025 diensten 114211.82; tick1340; primary WVV
+bud_lsm_rv_2025,eva_lsm,2025,206205,,,executed,src_lsm_jr2025_pdf,strong,2025 roerende voorheffing 206205.02; tick1340; primary WVV
+bud_lsm_pers_2025,eva_lsm,2025,0,,,executed,src_lsm_jr2025_pdf,strong,2025 bezoldigingen code 62 empty/0; KBO 0 VE; secretariat narrative 2.8 VTE FOI; tick1340; primary WVV
+bud_lsm_fin_inc_2025,eva_lsm,2025,3775615,,,executed,src_lsm_jr2025_pdf,strong,2025 fin opbr 3775615.04 (div 404005 + vlottende 283345.04 + meerw 3088265); tick1340; primary WVV
+bud_lsm_fin_cost_2025,eva_lsm,2025,225840,,,executed,src_lsm_jr2025_pdf,strong,2025 fin kosten 225840.29; tick1340; primary WVV
+bud_lsm_div_wvv_2025,eva_lsm,2025,404005,,,executed,src_lsm_jr2025_pdf,strong,2025 ontvangen dividenden WVV 404005; tick1340; primary WVV
+bud_lsm_lrm_div_narr_2025,eva_lsm,2025,999996,,,executed,src_lsm_jr2025_pdf,strong,narrative same official PDF: LRM dividend 2024 999996 received 09.09.2025 vs WVV VL-opbr 999999.60; tick1340
+bud_lsm_new_eng_2025,eva_lsm,2025,19600000,,,executed,src_lsm_jr2025_pdf,strong,narrative same official PDF: 19.6m new 2025 engagements of 27.8m; tick1340
+bud_lsm_eng_prov_2025,eva_lsm,2025,27895000,,,executed,src_lsm_jr2025_pdf,strong,narrative same official PDF: engagement in provisie 27895000; tick1340
+bud_lsm_cum_proj_2025,eva_lsm,2025,341400000,,,executed,src_lsm_jr2025_pdf,strong,narrative same official PDF: 2008-2025 projects 341.4m (protocol 171.7m + thema 169.7m); tick1340
+bud_lsm_cum_lrm_div_2025,eva_lsm,2025,133800000,,,executed,src_lsm_jr2025_pdf,strong,narrative same official PDF: cum LRM dividends 133.8m through 2025-12-31; tick1340

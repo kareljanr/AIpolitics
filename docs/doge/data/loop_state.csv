@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-18T01:20:00Z,rq_1339,1339,no,tick1339 WV Zorgbedrijf Brasschaat leftover zorg residual; KBO 0647.949.706; live JR2025 BBC PDF; sourced euros assets 28.938m cash 2.655m BBR -5.388m LT-recv 17.900m; FOI ready; next rq_1340 every-10 + residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-18T02:10:00Z,rq_1340,1340,no,tick1340 EVA LSM leftover EVA residual + progress@1340; KBO 0806.608.349; live JR2025 PDF; sourced euros assets 85.847m cash 3.395m DROP portfolio 58.311m PnL +1.538; FOI ready; next rq_1341 residual dual L5 VL; continuous hole_fill
