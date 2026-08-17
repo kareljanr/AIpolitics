@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T17:35:00Z,rq_1316,1316,no,tick1316 Stad+OCMW Ranst JR2025 leftover residual; KBO 0207.501.311/0212.210.462; official page still JR2024-only; no PDF; no sourced euros; FOI ready; next rq_1317 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T17:50:00Z,rq_1317,1317,no,tick1317 APB PSES JR2025 leftover APB residual; KBO 0541.413.220; assets 186.52m ST recv 165.31m ST pay 184.10m BBR -1.29m AFM -1.35m PnL +0.85m; FOI ready; next rq_1318 residual dual L5 VL; continuous hole_fill
