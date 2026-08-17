@@ -33195,3 +33195,48 @@ bud_zbr_repayments_2025,zorgbedrijf_rivierenland,2025,3807456,,,bbc_jr_realized,
 bud_zbr_interest_2025,zorgbedrijf_rivierenland,2025,691670,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Financiele kosten J5 0.692m; tick1247
 bud_zbr_costs_2025,zorgbedrijf_rivierenland,2025,57323145,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,J5 costs total 57.323m; tick1247
 bud_zbr_provisions_vg_2025,zorgbedrijf_rivierenland,2025,3722003,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Voorziening vakantiegeld YE2025 3.722m; tick1247
+bud_zbm_assets_2025,zorgbedrijf_meetjesland,2025,42477419,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Assets balanstotaal YE2025 42.477m; tick1248
+bud_zbm_equity_2025,zorgbedrijf_meetjesland,2025,25063405,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Nettoactief YE2025 25.063m; tick1248
+bud_zbm_debt_total_2025,zorgbedrijf_meetjesland,2025,17414014,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Schulden total YE2025 17.414m; tick1248
+bud_zbm_fin_debt_2025,zorgbedrijf_meetjesland,2025,9318968,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Fin schulden total YE2025 9.319m (LT 7.159 + ST due 2.160); tick1248
+bud_zbm_fin_debt_lt_2025,zorgbedrijf_meetjesland,2025,7159457,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Fin schulden LT YE2025 7.159m; tick1248
+bud_zbm_fin_debt_st_due_2025,zorgbedrijf_meetjesland,2025,2159511,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Fin schulden LT vervallend YE2025 2.160m; tick1248
+bud_zbm_cash_2025,zorgbedrijf_meetjesland,2025,925331,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Liquide middelen YE2025 0.925m DROP (was 1.505m); tick1248
+bud_zbm_st_recv_2025,zorgbedrijf_meetjesland,2025,5675228,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Vorderingen KT total YE2025 5.675m; tick1248
+bud_zbm_st_recv_nonruil_2025,zorgbedrijf_meetjesland,2025,3084665,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Vorderingen KT niet-ruil YE2025 3.085m; tick1248
+bud_zbm_mva_2025,zorgbedrijf_meetjesland,2025,33851534,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Materiele VA YE2025 33.852m; tick1248
+bud_zbm_leasing_mva_2025,zorgbedrijf_meetjesland,2025,28729799,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Leasing MVA YE2025 28.730m; tick1248
+bud_zbm_cap_subs_2025,zorgbedrijf_meetjesland,2025,12442513,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Kapitaalssubsidies YE2025 12.443m; tick1248
+bud_zbm_cum_pnl_2025,zorgbedrijf_meetjesland,2025,458723,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Gecumuleerd overschot YE2025 0.459m (was 971); tick1248
+bud_zbm_expl_rec_2025,zorgbedrijf_meetjesland,2025,48781952,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Exploitatieontvangsten 48.782m; tick1248
+bud_zbm_expl_exp_2025,zorgbedrijf_meetjesland,2025,47344160,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Exploitatieuitgaven 47.344m; tick1248
+bud_zbm_expl_saldo_2025,zorgbedrijf_meetjesland,2025,1437792,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Exploitatiesaldo +1.438m; tick1248
+bud_zbm_invest_exp_2025,zorgbedrijf_meetjesland,2025,745128,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Investeringsuitgaven 0.745m; tick1248
+bud_zbm_invest_rec_2025,zorgbedrijf_meetjesland,2025,1329758,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Investeringsontvangsten 1.330m; tick1248
+bud_zbm_invest_saldo_2025,zorgbedrijf_meetjesland,2025,584629,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Investeringssaldo +0.585m; tick1248
+bud_zbm_fin_saldo_2025,zorgbedrijf_meetjesland,2025,-2022421,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Financieringssaldo -2.022m; tick1248
+bud_zbm_budget_result_2025,zorgbedrijf_meetjesland,2025,0,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Budgettair resultaat boekjaar EUR0 designed-to-zero; tick1248
+bud_zbm_bbr_2025,zorgbedrijf_meetjesland,2025,0,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,BBR EUR0 designed-to-zero; tick1248
+bud_zbm_afm_2025,zorgbedrijf_meetjesland,2025,-4370,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,AFM -4.370 thin NEG designed-to-zero; tick1248
+bud_zbm_gecorr_afm_2025,zorgbedrijf_meetjesland,2025,1176740,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Gecorrigeerde AFM +1.177m; tick1248
+bud_zbm_pnl_2025,zorgbedrijf_meetjesland,2025,457752,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,PnL overschot +0.458m; tick1248
+bud_zbm_op_pnl_2025,zorgbedrijf_meetjesland,2025,-337769,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Operationeel PnL -0.338m NEG; tick1248
+bud_zbm_personnel_2025,zorgbedrijf_meetjesland,2025,33208276,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Bezoldigingen J5 33.208m; tick1248
+bud_zbm_goederen_2025,zorgbedrijf_meetjesland,2025,13726221,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Goederen en diensten 13.726m; tick1248
+bud_zbm_sub_total_2025,zorgbedrijf_meetjesland,2025,15565579,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Werkingssubsidies total J5 15.566m all specific; tick1248
+bud_zbm_ocmw_sub_spec_2025,zorgbedrijf_meetjesland,2025,4805443,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,OCMW dual specifieke werkingssub 4.805m JUMP (was 2.308m); tick1248
+bud_zbm_vl_sub_spec_2025,zorgbedrijf_meetjesland,2025,6432865,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,VL specifieke werkingssub 6.433m; tick1248
+bud_zbm_fed_sub_spec_2025,zorgbedrijf_meetjesland,2025,3504681,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,FED specifieke werkingssub 3.505m; tick1248
+bud_zbm_ocmw_dots_indep_2025,zorgbedrijf_meetjesland,2025,1386265,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Resultaatsonafhankelijke OCMW exploitatiedotaties 1.386m; tick1248
+bud_zbm_ocmw_evergem_dot_2025,zorgbedrijf_meetjesland,2025,700528,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,OCMW Evergem result-indep dot 0.701m; tick1248
+bud_zbm_ocmw_maldegem_dot_2025,zorgbedrijf_meetjesland,2025,447196,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,OCMW Maldegem result-indep dot 0.447m; tick1248
+bud_zbm_ocmw_deinze_dot_2025,zorgbedrijf_meetjesland,2025,219015,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,OCMW Deinze result-indep dot 0.219m; tick1248
+bud_zbm_ocmw_lievegem_dot_2025,zorgbedrijf_meetjesland,2025,19526,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,OCMW Lievegem result-indep dot 0.020m; tick1248
+bud_zbm_ocmw_invest_sub_2025,zorgbedrijf_meetjesland,2025,652517,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Invest-sub OCMW 0.653m; tick1248
+bud_zbm_vl_invest_sub_2025,zorgbedrijf_meetjesland,2025,677240,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Invest-sub VL 0.677m; tick1248
+bud_zbm_werking_ontv_2025,zorgbedrijf_meetjesland,2025,32824627,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Opbrengsten uit de werking 32.825m; tick1248
+bud_zbm_new_loans_2025,zorgbedrijf_meetjesland,2025,66000,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Nieuwe leningen 2025 EUR66k; tick1248
+bud_zbm_repayments_2025,zorgbedrijf_meetjesland,2025,2088421,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Periodieke aflossingen 2.088m; tick1248
+bud_zbm_interest_2025,zorgbedrijf_meetjesland,2025,369522,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Financiele kosten J5 0.370m; tick1248
+bud_zbm_costs_2025,zorgbedrijf_meetjesland,2025,49484748,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,J5 costs total 49.485m; tick1248
+bud_zbm_provisions_2025,zorgbedrijf_meetjesland,2025,1489572,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Voorzieningen KT YE2025 1.490m; tick1248

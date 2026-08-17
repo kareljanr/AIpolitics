@@ -17276,3 +17276,10 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources/entities/budgets+40/commitments+7/leaderboard+7 + FOI ready `gap_zbr_afm_neg_1_50m_gecorr_3_52m_fin_debt_69_1m_ocmw_cut_4m_pnl_neg_1_20m_l5` (not sent); rq_1247=done; spawn rq_1248.
 - Next: rq_1248 residual dual L5 VL JR2025 hole_fill.
 
+
+### Tick 1248 - 2026-08-17 - rq_1248 Zorgbedrijf Meetjesland dual residual
+- Unit: Zorgbedrijf Meetjesland WV JR2025 multi-muni dual care Entity II (KBO 0666.615.870; 298p text primary; members OCMW Evergem + Maldegem + Deinze + Lievegem).
+- EUR strong: assets **42.5m**; fin debt **9.32m**; AFM **-4.370** thin NEG designed-to-zero; gecorr AFM **+1.177m**; budget/BBR **0**; OCMW specific werkingssub **4.805m** JUMP (was 2.308m); result-indep OCMW dots **1.386m**; cash DROP **0.925m**; liquidity **0.706**; op PnL **-0.338m**; personnel **33.208m**; new loans **66k**.
+- CSVs: sources/entities/budgets+45/commitments+7/leaderboard+7 + FOI ready `gap_zbm_afm_thin_neg_4k_ocmw_sub_jump_4_81m_fin_debt_9_32m_liq_0_71_l5` (not sent); rq_1248=done; spawn rq_1249.
+- Next: rq_1249 residual dual L5 VL JR2025 hole_fill.
+
