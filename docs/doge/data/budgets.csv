@@ -35310,3 +35310,34 @@ bud_pses_other_ops_2025,apb_pses,2025,2290814,,,executed,src_pses_jr2025_pdf,str
 bud_pses_fin_inc_2025,apb_pses,2025,217742,,,executed,src_pses_jr2025_pdf,strong,2025 J5 financiele opbrengsten 217742.46; tick1317; primary BBC J5
 bud_pses_costs_2025,apb_pses,2025,3440126,,,executed,src_pses_jr2025_pdf,strong,2025 J5 costs 3440126.47; tick1317; primary BBC J5
 bud_pses_rev_2025,apb_pses,2025,4286485,,,executed,src_pses_jr2025_pdf,strong,2025 J5 opbrengsten 4286485.31; tick1317; primary BBC J5
+bud_gkc_assets_2025,apb_gkc,2025,2666888,,,executed,src_gkc_jr2025_pdf,strong,YE2025 assets 2666888.01 was 2949095.80 DROP; tick1318; primary BBC J4
+bud_gkc_assets_2024,apb_gkc,2024,2949096,,,executed,src_gkc_jr2025_pdf,strong,YE2024 assets 2949095.80; tick1318; primary BBC J4
+bud_gkc_cash_2025,apb_gkc,2025,2105180,,,executed,src_gkc_jr2025_pdf,strong,YE2025 cash 2105179.73 was 2327580.27 DROP; tick1318; primary BBC J4
+bud_gkc_cash_2024,apb_gkc,2024,2327580,,,executed,src_gkc_jr2025_pdf,strong,YE2024 cash 2327580.27; tick1318; primary BBC J4
+bud_gkc_current_2025,apb_gkc,2025,2666888,,,executed,src_gkc_jr2025_pdf,strong,YE2025 vlottende activa 2666888.01 ALL current; tick1318; primary BBC J4
+bud_gkc_recv_st_2025,apb_gkc,2025,526230,,,executed,src_gkc_jr2025_pdf,strong,YE2025 ST recv 526229.54 (ruil 20799.70 + niet-ruil 505429.84); tick1318; primary BBC J4
+bud_gkc_recv_nietruil_2025,apb_gkc,2025,505430,,,executed,src_gkc_jr2025_pdf,strong,YE2025 ST niet-ruil recv 505429.84; tick1318; primary BBC J4
+bud_gkc_recv_ruil_2025,apb_gkc,2025,20800,,,executed,src_gkc_jr2025_pdf,strong,YE2025 ST ruil recv 20799.70; tick1318; primary BBC J4
+bud_gkc_fixed_2025,apb_gkc,2025,0,,,executed,src_gkc_jr2025_pdf,strong,YE2025 vaste activa 0 (FVA/MVA/IVA/leasing 0); tick1318; primary BBC J4/T5
+bud_gkc_schulden_2025,apb_gkc,2025,574019,,,executed,src_gkc_jr2025_pdf,strong,YE2025 schulden 574019.21 ALL ST was 1004437.12; tick1318; primary BBC J4
+bud_gkc_pay_ruil_2025,apb_gkc,2025,132065,,,executed,src_gkc_jr2025_pdf,strong,YE2025 non-fin ST ruil pay 132065.03 was 441441.31; tick1318; primary BBC J4
+bud_gkc_accruals_2025,apb_gkc,2025,441954,,,executed,src_gkc_jr2025_pdf,strong,YE2025 overlopend passief 441954.18; tick1318; primary BBC J4
+bud_gkc_fin_debt_2025,apb_gkc,2025,0,,,executed,src_gkc_jr2025_pdf,strong,YE2025 T4 fin debt 0; no new loans no afl; tick1318; primary BBC T4
+bud_gkc_equity_2025,apb_gkc,2025,2092869,,,executed,src_gkc_jr2025_pdf,strong,YE2025 nettoactief 2092868.80 was 1944658.68; tick1318; primary BBC J4/T5
+bud_gkc_cum_pnl_2025,apb_gkc,2025,2092869,,,executed,src_gkc_jr2025_pdf,strong,YE2025 gecumuleerd overschot 2092868.80 was 1944658.68; tick1318; primary BBC J4/T5
+bud_gkc_pnl_2025,apb_gkc,2025,148210,,,executed,src_gkc_jr2025_pdf,strong,2025 J5 PnL +148210.12 (ops +129507.40 / fin +18702.72); tick1318; primary BBC J5
+bud_gkc_expl_saldo_2025,apb_gkc,2025,88734,,,executed,src_gkc_jr2025_pdf,strong,2025 expl saldo +88733.74 (ontv 1400129.82 / uitg 1311396.08); tick1318; primary BBC J2
+bud_gkc_expl_ontv_2025,apb_gkc,2025,1400130,,,executed,src_gkc_jr2025_pdf,strong,2025 expl ontv 1400129.82; tick1318; primary BBC J2
+bud_gkc_expl_uitg_2025,apb_gkc,2025,1311396,,,executed,src_gkc_jr2025_pdf,strong,2025 expl uitg 1311396.08; tick1318; primary BBC J2
+bud_gkc_bbr_2025,apb_gkc,2025,88734,,,executed,src_gkc_jr2025_pdf,strong,2025 BBR year +88733.74; tick1318; primary BBC J2
+bud_gkc_cum_bbr_2025,apb_gkc,2025,2499344,,,executed,src_gkc_jr2025_pdf,strong,YE2025 cum BBR 2499344.24 was 2410610.50; tick1318; primary BBC J2
+bud_gkc_afm_2025,apb_gkc,2025,88734,,,executed,src_gkc_jr2025_pdf,strong,2025 AFM +88733.74 = gecorr AFM; no afl; tick1318; primary BBC J2
+bud_gkc_pers_2025,apb_gkc,2025,886607,,,executed,src_gkc_jr2025_pdf,strong,2025 J5 pers 886606.91 / T2 cash 884785.31; VTE unpublished FOI; tick1318; primary BBC
+bud_gkc_goods_2025,apb_gkc,2025,487258,,,executed,src_gkc_jr2025_pdf,strong,2025 J5 goederen/diensten 487258.48 / T2 426253.57; tick1318; primary BBC
+bud_gkc_werksub_out_2025,apb_gkc,2025,0,,,executed,src_gkc_jr2025_pdf,strong,2025 toegestane werksub 0 was 372000.00 DROP; tick1318; primary BBC J5/T2
+bud_gkc_werksub_in_2025,apb_gkc,2025,1185753,,,executed,src_gkc_jr2025_pdf,strong,2025 J5 werksub ontv 1185752.50 (alg 776006.00 + spec 409746.50); tick1318; primary BBC J5
+bud_gkc_werksub_prov_2025,apb_gkc,2025,726006,,,executed,src_gkc_jr2025_pdf,strong,2025 T2 alg werksub van de provincie 726006.00 vs J5 alg 776006.00; tick1318; primary BBC T2
+bud_gkc_other_ops_2025,apb_gkc,2025,298979,,,executed,src_gkc_jr2025_pdf,strong,2025 J5 andere operationele opbrengsten 298979.23; tick1318; primary BBC J5
+bud_gkc_fin_inc_2025,apb_gkc,2025,18967,,,executed,src_gkc_jr2025_pdf,strong,2025 J5 financiele opbrengsten 18967.22; tick1318; primary BBC J5
+bud_gkc_costs_2025,apb_gkc,2025,1374130,,,executed,src_gkc_jr2025_pdf,strong,2025 J5 costs 1374129.89; tick1318; primary BBC J5
+bud_gkc_rev_2025,apb_gkc,2025,1522340,,,executed,src_gkc_jr2025_pdf,strong,2025 J5 opbrengsten 1522340.01; tick1318; primary BBC J5
