@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T14:45:00Z,rq_1305,1305,no,tick1305 Stad+OCMW Pepingen JR2025 GE residual; KBO 0207.512.197/0212.208.086; assets 26871731 fin debt 3467023 pension 2689464 JUMP PnL -471624; FOI ready; next rq_1306 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T15:10:00Z,rq_1306,1306,no,tick1306 Stad+OCMW Vleteren JR2025 GE residual; KBO 0216.770.452/0216.770.551; assets 25154213 fin debt 3323559 pension 825138 JUMP PnL -621430; FOI ready; next rq_1307 residual dual L5 VL; continuous hole_fill

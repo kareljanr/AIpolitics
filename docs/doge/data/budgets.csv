@@ -35045,3 +35045,43 @@ bud_pepge_pers_2025,city_pepingen,2025,3670991,,,executed,src_pepge_jr2025_bbc,s
 bud_pepge_fiscal_2025,city_pepingen,2025,5193620,,,executed,src_pepge_jr2025_bbc,strong,J5 fiscale 5193620; tick1305; primary BBC
 bud_pepge_agb_bbr_2025,city_pepingen,2025,747,,,executed,src_pepge_jr2025_bbc,strong,J2 consol extra AGB BBR 747 — AGB already 1304; tick1305; primary BBC
 bud_pepge_agb_afm_2025,city_pepingen,2025,-3219,,,executed,src_pepge_jr2025_bbc,strong,J2 consol extra AGB AFM -3219 — AGB already 1304; tick1305; primary BBC
+bud_vlet_assets_2025,city_vleteren,2025,25154213,,,executed,src_vlet_jr2025_bbc,strong,J4 assets 25154213 vs 25411712; tick1306; primary BBC
+bud_vlet_assets_2024,city_vleteren,2024,25411712,,,executed,src_vlet_jr2025_bbc,strong,J4 YE2024 assets 25411712; tick1306; primary BBC
+bud_vlet_cash_2025,city_vleteren,2025,1679443,,,executed,src_vlet_jr2025_bbc,strong,J4 cash 1679443 vs 1731235 DROP; tick1306; primary BBC
+bud_vlet_cash_2024,city_vleteren,2024,1731235,,,executed,src_vlet_jr2025_bbc,strong,J4 YE2024 cash 1731235; tick1306; primary BBC
+bud_vlet_fva_2025,city_vleteren,2025,3638582,,,executed,src_vlet_jr2025_bbc,strong,J4 FVA 3638582; EVA 0 + IGS 1983012 + other 1655569; tick1306; primary BBC
+bud_vlet_eva_2025,city_vleteren,2025,0,,,executed,src_vlet_jr2025_bbc,strong,T5 EVA 0 — no AGB; tick1306; primary BBC
+bud_vlet_igs_2025,city_vleteren,2025,1983012,,,executed,src_vlet_jr2025_bbc,strong,J4/T5 IGS FVA 1983012; reval +39852; tick1306; primary BBC
+bud_vlet_mva_2025,city_vleteren,2025,19278543,,,executed,src_vlet_jr2025_bbc,strong,J4 MVA 19278543; leasing 278528; tick1306; primary BBC
+bud_vlet_leasing_2025,city_vleteren,2025,278528,,,executed,src_vlet_jr2025_bbc,strong,J4 leasing MVA 278528 vs 248532; tick1306; primary BBC
+bud_vlet_iva_2025,city_vleteren,2025,0,,,executed,src_vlet_jr2025_bbc,strong,T5 IVA 0; tick1306; primary BBC
+bud_vlet_equity_2025,city_vleteren,2025,20248190,,,executed,src_vlet_jr2025_bbc,strong,J4 nettoactief 20248190; tick1306; primary BBC
+bud_vlet_cap_subs_2025,city_vleteren,2025,3077678,,,executed,src_vlet_jr2025_bbc,strong,J4 kapitaalsubsidies 3077678; tick1306; primary BBC
+bud_vlet_cum_pnl_2025,city_vleteren,2025,3115125,,,executed,src_vlet_jr2025_bbc,strong,J4 cum PnL 3115125; tick1306; primary BBC
+bud_vlet_schulden_2025,city_vleteren,2025,4906022,,,executed,src_vlet_jr2025_bbc,strong,J4 schulden 4906022; tick1306; primary BBC
+bud_vlet_fin_debt_2025,city_vleteren,2025,3323559,,,executed,src_vlet_jr2025_bbc,strong,J4/T4 fin debt 3323559 (LT 2606571 + ST due 716988) vs 3986228; tick1306; primary BBC
+bud_vlet_fin_debt_2024,city_vleteren,2024,3986228,,,executed,src_vlet_jr2025_bbc,strong,T4 YE2024 fin debt 3986228; tick1306; primary BBC
+bud_vlet_fin_debt_lt_2025,city_vleteren,2025,2606571,,,executed,src_vlet_jr2025_bbc,strong,J4 LT fin debt 2606571; tick1306; primary BBC
+bud_vlet_fin_debt_st_2025,city_vleteren,2025,716988,,,executed,src_vlet_jr2025_bbc,strong,J4 ST due 716988; tick1306; primary BBC
+bud_vlet_new_loans_2025,city_vleteren,2025,59007,,,executed,src_vlet_jr2025_bbc,strong,T2/T4 new loans 59007 leasing only; bank 0; tick1306; primary BBC
+bud_vlet_pension_2025,city_vleteren,2025,825138,,,executed,src_vlet_jr2025_bbc,strong,J4 pension LT 825138 JUMP vs 0; tick1306; primary BBC
+bud_vlet_pension_2024,city_vleteren,2024,0,,,executed,src_vlet_jr2025_bbc,strong,J4 YE2024 pension LT 0; tick1306; primary BBC
+bud_vlet_expl_2025,city_vleteren,2025,1669971,,,executed,src_vlet_jr2025_bbc,strong,J2 exploitatiesaldo +1669971; tick1306; primary BBC
+bud_vlet_expl_ontv_2025,city_vleteren,2025,6273917,,,executed,src_vlet_jr2025_bbc,strong,J2 expl ontv 6273917; tick1306; primary BBC
+bud_vlet_expl_uitg_2025,city_vleteren,2025,4603946,,,executed,src_vlet_jr2025_bbc,strong,J2 expl uitg 4603946; tick1306; primary BBC
+bud_vlet_city_expl_2025,city_vleteren,2025,1721346,,,executed,src_vlet_jr2025_bbc,strong,J3 city expl +1721346 (ontv 5572150 / uitg 3850804); tick1306; primary BBC
+bud_vlet_ocmw_expl_2025,city_vleteren,2025,-51374,,,executed,src_vlet_jr2025_bbc,strong,J3 OCMW expl -51374 (ontv 701767 / uitg 753141); tick1306; primary BBC
+bud_vlet_invest_2025,city_vleteren,2025,-668624,,,executed,src_vlet_jr2025_bbc,strong,J2 invest -668624 vs MJP -1203785; tick1306; primary BBC
+bud_vlet_invest_ontv_2025,city_vleteren,2025,634708,,,executed,src_vlet_jr2025_bbc,strong,J2 invest ontv 634708; tick1306; primary BBC
+bud_vlet_invest_uitg_2025,city_vleteren,2025,1303331,,,executed,src_vlet_jr2025_bbc,strong,J2 invest uitg 1303331; tick1306; primary BBC
+bud_vlet_bbr_2025,city_vleteren,2025,91990,,,executed,src_vlet_jr2025_bbc,strong,J2 budgettair resultaat boekjaar +91990; tick1306; primary BBC
+bud_vlet_cum_bbr_2025,city_vleteren,2025,1490732,,,executed,src_vlet_jr2025_bbc,strong,J2 gecumuleerd BBR 1490732 (prev 1398742); tick1306; primary BBC
+bud_vlet_afm_2025,city_vleteren,2025,949439,,,executed,src_vlet_jr2025_bbc,strong,J2 AFM +949439; tick1306; primary BBC
+bud_vlet_gecorr_2025,city_vleteren,2025,1352218,,,executed,src_vlet_jr2025_bbc,strong,J2 gecorr AFM +1352218 (correctie 402779); tick1306; primary BBC
+bud_vlet_pnl_2025,city_vleteren,2025,-621430,,,executed,src_vlet_jr2025_bbc,strong,J5 PnL -621430 (city -219889 / OCMW -401541); tick1306; primary BBC
+bud_vlet_tussen_2025,city_vleteren,2025,0,,,executed,src_vlet_jr2025_bbc,strong,T5 tussenkomst gemeente-OCMW 0; tick1306; primary BBC
+bud_vlet_pers_2025,city_vleteren,2025,2320878,,,executed,src_vlet_jr2025_bbc,strong,J5/T2 bezoldigingen 2320878; VTE unpublished; tick1306; primary BBC
+bud_vlet_fiscal_2025,city_vleteren,2025,3220418,,,executed,src_vlet_jr2025_bbc,strong,T2 fiscale 3220418 (OV 1631870 + APB 1131034); tick1306; primary BBC
+bud_vlet_politie_2025,city_vleteren,2025,263004,,,executed,src_vlet_jr2025_bbc,strong,T2 politiezone 263004 + invest 31122; name unpublished; tick1306; primary BBC
+bud_vlet_hvz_2025,city_vleteren,2025,136924,,,executed,src_vlet_jr2025_bbc,strong,T2 HVZ Westhoek 136924 + invest 29494; tick1306; primary BBC
+bud_vlet_ocmw_pnl_2025,city_vleteren,2025,-401541,,,executed,src_vlet_jr2025_bbc,strong,T5 OCMW PnL -401541 / cum -262503 NEG / equity 4045091; tick1306; primary BBC
