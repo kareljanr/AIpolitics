@@ -17375,3 +17375,10 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources+2/entities(upgrade+city note)/budgets+55/commitments+7/leaderboard+7 + FOI ready `gap_agso_bbr_neg_8_26m_fin_debt_82_73m_city_dual_100_6m_l5` (not sent); rq_1261=done; spawn rq_1262; ticks=1261. No every-10 (1261 not a *0 tick).
 - Next: rq_1262 residual dual L5 VL JR2025 hole_fill (prefer AG CIA Erfgoed Antwerpen JR2025 PDF 2026_GR_00637).
 
+
+### Tick 1262 - 2026-08-17 - rq_1262 AG CIA Erfgoed dual residual
+- Unit: AG Culturele Instellingen Antwerpen/Erfgoed JR2025 Entity II after city package tick217 + Zorgbedrijf Antwerpen tick1246 + AG Vespa tick1260 + AGSO tick1261 (KBO 0738.733.786; BBC-only; RVB 22.06.2026 / GR 2026_GR_00637 29.06.2026). Distinct from Gent AGB cluster 1255–1259 and from sibling AG CIA Kunsten (0738.734.281, next). Seat Grote Markt 1. Staff on city payroll; buildings city-owned. WAGSO already mined tick1199.
+- EUR strong (city dual primary HTML; BBC internals unknown): werk **5.385m** (musea **3.332m** + 9 other lines) + invest nom **5.959m** (prior **3.729m** + dit **2.230m**) = dual **11.344m**; Digipolis IT top-up **0.282m** (werk 0.192 + invest 0.090) because AGB billed for city staff/buildings → dual+IT **11.626m**; MJP10 invest planned **7.375m** vs CBS nom **5.959m** gap **1.416m**; 2026 lock **7.935m**. BBC PDF named (`AG CIA E_JR25_final BBC.pdf`) but ebesluit TLS fail + no org-site + NBB empty.
+- CSVs: sources+4/entities(upgrade+city note)/budgets+18/commitments+7/leaderboard+7 + FOI ready `gap_cia_e_bbc_jr2025_opaque_city_dual_11_34m_l5` (not sent); rq_1262=done; spawn rq_1263; ticks=1262. No every-10 (1262 not a *0 tick).
+- Next: rq_1263 residual dual L5 VL JR2025 hole_fill (prefer AG CIA Kunsten Antwerpen JR2025 PDF 2026_GR_00637 NBB+BBC).
+

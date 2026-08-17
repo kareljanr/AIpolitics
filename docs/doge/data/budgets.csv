@@ -33779,3 +33779,21 @@ bud_agso_periodic_repay_2025,ag_stedelijk_onderwijs_antwerpen,2025,2692833,,,bbc
 bud_agso_nuts_prov_2025,ag_stedelijk_onderwijs_antwerpen,2025,564639,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,Voorziening nuts-overschot terug naar stad 0.565m; tick1261
 bud_agso_loopbaan_prov_2025,ag_stedelijk_onderwijs_antwerpen,2025,3500000,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,First-year loopbaansparen voorziening ~3.5m (yoy 271k); tick1261
 bud_agso_granted_subs_2025,ag_stedelijk_onderwijs_antwerpen,2025,762982,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,T2/J5 toegestane werkingssubsidies 0.763m; tick1261
+bud_cia_e_werk_2025,ag_cia_erfgoed_antwerpen,2025,5384841,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,CBS 07873 werkingssubsidie 5.38484066m (10 doelstellingen); tick1262
+bud_cia_e_musea_werk_2025,ag_cia_erfgoed_antwerpen,2025,3331906,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,CBS 07873 2BRS010104 musea collectie/werking/publiek 3.33190596m; tick1262
+bud_cia_e_geletterde_werk_2025,ag_cia_erfgoed_antwerpen,2025,515000,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,CBS 07873 2BRS010113 lees- en boekenstad 0.515m; tick1262
+bud_cia_e_maritiem_werk_2025,ag_cia_erfgoed_antwerpen,2025,280000,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,CBS 07873 2BRS010112 maritiem erfgoed 0.280m; tick1262
+bud_cia_e_kunststad_werk_2025,ag_cia_erfgoed_antwerpen,2025,275000,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,CBS 07873 2BRS010304 kunst in de stad 0.275m; tick1262
+bud_cia_e_museale_werk_2025,ag_cia_erfgoed_antwerpen,2025,294000,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,CBS 07873 2BRS010105 museale beleving 0.294m; tick1262
+bud_cia_e_lokaal_erfgoed_werk_2025,ag_cia_erfgoed_antwerpen,2025,260000,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,CBS 07873 2BRS010301 lokaal erfgoedbeleid 0.260m; tick1262
+bud_cia_e_invest_nom_2025,ag_cia_erfgoed_antwerpen,2025,5959072,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,CBS 07873 investering nominatief 5.95907188m; tick1262
+bud_cia_e_invest_prior_2025,ag_cia_erfgoed_antwerpen,2025,3728758,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,CBS 07873 invest reeds vastgelegd 3.72875752m; tick1262
+bud_cia_e_invest_this_2025,ag_cia_erfgoed_antwerpen,2025,2230314,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,CBS 07873 invest dit besluit 2.23031436m; tick1262
+bud_cia_e_dual_core_2025,ag_cia_erfgoed_antwerpen,2025,11343913,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,CBS 07873 city dual werk+invest 11.34391254m; tick1262
+bud_cia_e_it_werk_2025,ag_cia_erfgoed_antwerpen,2025,192000,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,CBS 06536 Digipolis IT werkingstoelage 0.192m; tick1262
+bud_cia_e_it_invest_2025,ag_cia_erfgoed_antwerpen,2025,90000,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,CBS 06536 Digipolis IT investeringstoelage 0.090m; tick1262
+bud_cia_e_it_total_2025,ag_cia_erfgoed_antwerpen,2025,282000,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,CBS 06536 Digipolis IT top-up 0.282m (city staff/buildings charged to AGB); tick1262
+bud_cia_e_dual_plus_it_2025,ag_cia_erfgoed_antwerpen,2025,11625913,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,City dual 11.344m + Digipolis IT 0.282m = 11.62591254m; tick1262
+bud_cia_e_mjp10_expl_2025,ag_cia_erfgoed_antwerpen,2025,5384841,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,CBS 06545 MJP aanpassing 10 expl dotatie 5.38484066m (matches CBS 07873); tick1262
+bud_cia_e_mjp10_invest_planned_2025,ag_cia_erfgoed_antwerpen,2025,7374960,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,CBS 06545 MJP aanpassing 10 invest dotatie 7.37495985m; tick1262
+bud_cia_e_mjp10_invest_gap_2025,ag_cia_erfgoed_antwerpen,2025,1415888,,,cbs_vastlegging,src_cia_e_jr2025_cbs07873,strong,MJP invest 7.375m minus CBS nom 5.959m = 1.41588797m unrealized/uncommitted; tick1262
