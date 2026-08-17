@@ -33883,3 +33883,13 @@ bud_fiets_swo_inv_2027,fietsambassade_gent,2027,204820,,,budgeted,src_fiets_swo_
 bud_fiets_lde_2025,fietsambassade_gent,2025,170709.84,,,budgeted,src_fiets_ald_2025_gr00604,strong,LDE base 86369.64 + ALD 72505.61 + CSD 11834.59; not full 2025 lock; tick1268
 bud_fiets_swo5_extras_2025,fietsambassade_gent,2025,274654.90,,,budgeted,src_fiets_swo5_2024_gr00546,strong,Feesten 141190 + taxi 38365.60 + 2dehands 95099.30; tick1268
 bud_fiets_2025_known_partial,fietsambassade_gent,2025,445364.74,,,budgeted,src_fiets_ald_2025_gr00604,medium,LDE 170709.84 + SWO5 extras 274654.90; core SWO 2025 unknown; tick1268
+bud_mintus_city_creditor_2025,mintus_brugge,2025,26356642.0,,,executed,src_brugge_jr2025_bd3_mintus,strong,JR2025 bd3 creditor overview Mintus 26.356642m named; tick1269
+bud_mintus_werking_sas_combined_2025,mintus_brugge,2025,25674330.0,,,executed,src_brugge_jr2025_bd3_mintus,strong,JR2025 bd3 nominative werkingstoelage Mintus/'t SAS 25.674330m combined label — split FOI; tick1269
+bud_mintus_ocmw_vergoeding_exe_2025,mintus_brugge,2025,643236.0,,,executed,src_brugge_jr2025_bd3_mintus,strong,JR2025 bd3 OCMW 6493140 Vergoeding Mintus aangerekend 0.643236m; tick1269
+bud_mintus_ocmw_vergoeding_bud_2025,mintus_brugge,2025,715390.0,,,budgeted,src_brugge_jr2025_bd3_mintus,strong,JR2025 bd3 OCMW 6493140 Vergoeding Mintus budget 0.715390m; tick1269
+bud_mintus_invest_sub_2025,mintus_brugge,2025,101670.0,,,executed,src_brugge_jr2025_bd3_mintus,strong,JR2025 bd3 BV0900 invest subsidy Mintus 0.101670m; tick1269
+bud_mintus_ocmw_deelneming_2025,mintus_brugge,2025,56956114.51,,,executed,src_brugge_jr2025_bd3_mintus,strong,JR2025 bd3 OCMW deelnemingen B4 Mintus 56.95611451m stock 31.12.2024=31.12.2025 not annual spend; tick1269
+bud_mintus_thes_lt_repay_2025,mintus_brugge,2025,1530000.0,,,executed,src_brugge_jr2025_bd3_mintus,strong,"JR2025 bd3 OCMW LT thesauriebewijzen 1.53m fully repaid by Mintus (source rounded 1,53 mio); tick1269"
+bud_mintus_creditor_vs_2024_delta,mintus_brugge,2025,169999.9699999988,,,executed,src_brugge_jr2025_bd3_mintus,strong,2025 creditor 26.356642m minus 2024 register 26.18664203m = +0.170000m; tick1269
+bud_mintus_klimaat_exe_2025,mintus_brugge,2025,-672.51,,,executed,src_brugge_jr2025_bd3_mintus,strong,JR2025 bd3 BV0350 Mintus-only klimaat aangerekend -672.51 (budget 12675); tick1269
+bud_mintus_klimaat_bud_2025,mintus_brugge,2025,12675.0,,,budgeted,src_brugge_jr2025_bd3_mintus,strong,JR2025 bd3 BV0350 Mintus-only klimaat budget 12675; tick1269

@@ -17425,3 +17425,10 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources+8/entities(new+city note)/budgets+20/commitments+7/leaderboard+7 + FOI ready `gap_fiets_jr2025_pdf_opaque_city_dual_2_65m_l5` (not sent); rq_1268=done; spawn rq_1269; ticks=1268. No every-10 (1268 not a *0 tick).
 - Next: rq_1269 residual dual L5 VL JR2025 hole_fill (prefer other unmined AGB/zorg/EVA with direct PDF).
 
+
+### Tick 1269 - 2026-08-17 - rq_1269 Mintus / Zorgvereniging Brugge dual residual
+- Unit: Mintus (Zorgvereniging Brugge) JR2025 Entity II after city Brugge GE tick834 + Zorg/WV cluster 1246–1251 + Gent/Antwerp dual 1255–1268 (KBO 0682.844.465; Vereniging van OCMW's; seat Ruddershove 4). **Distinct from** Zorgbedrijf Antwerpen / Rivierenland / Meetjesland / Sakura / Zorg Leuven / ZOG Genk and from sibling SAS / Blauwe Lelie / SPOOR / WOK lines. Primary: Stad/OCMW Brugge JR2025 boekdeel 3 text PDF (published 02.07.2026, 7.19MB). NBB consult timeout this box; org site has no JR2025 financial statement. WAGSO already mined tick1199.
+- EUR strong (city JR2025 PDF primary; own BBC/NBB internals unknown): creditor Mintus **26.357m**; nominative werkingstoelage Mintus/'t SAS **25.674m** (combined label — split FOI); OCMW vergoeding Mintus **0.643m** exe / **0.715m** bud; invest-sub **0.102m**; OCMW deelneming B4 **56.956m** stock unchanged vs 31.12.2024; LT thesauriebewijzen **1.53m** fully repaid by Mintus (OCMW thes **20m** / KT **18.46m**; AFM distortion); 2025 creditor vs 2024 register **+0.170m**. Mixed BV0350/BV0119 not attributed. 2026 lock not extractable from MJP annex.
+- CSVs: sources+5/entities(new+city note)/budgets+10/commitments+7/leaderboard+6 + FOI ready `gap_mintus_jr2025_pdf_opaque_city_dual_26_36m_l5` (not sent); rq_1269=done; spawn rq_1270; ticks=1269. No every-10 (1269 not a *0 tick).
+- Next: rq_1270 residual dual L5 VL JR2025 hole_fill + **every-10 progress refresh** (tick 1270 is a *0 tick). Prefer other unmined AGB/zorg/EVA with direct PDF.
+

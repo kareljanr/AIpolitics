@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T09:25:00Z,rq_1268,1268,no,tick1268 Fietsambassade Gent JR2025 dual residual; KBO 0665.587.076; city 2026 lock 2.650m SWO 2.477 + LDE 0.173; MY SWO 16.147m; NBB/JR PDF opaque; FOI ready; next rq_1269 residual dual L5 VL (prefer unmined AGB/zorg/EVA JR2025); continuous hole_fill
+main,continuous,hole_fill,2026-08-17T08:40:00Z,rq_1269,1269,no,tick1269 Mintus Brugge JR2025 dual residual; KBO 0682.844.465; city/OCMW 2025 creditor 26.357m; werking 25.674m combined; deelneming 56.956m; LT thes 1.53m Mintus-repaid; own PDF opaque; FOI ready; next rq_1270 residual dual L5 VL + every-10 progress (prefer unmined AGB/zorg/EVA JR2025); continuous hole_fill
