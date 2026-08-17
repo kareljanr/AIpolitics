@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T18:15:00Z,rq_1322,1322,no,tick1322 EVA Proefbedrijf Pluimveehouderij JR2025 leftover sister EVA residual; KBO 0841.556.855; assets 8.63m cash 4.08m ST recv 4.46m ST pay 4.67m BBR +1.17m AFM +1.18m PnL +1.05m; FOI ready; next rq_1323 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T18:25:00Z,rq_1323,1323,no,tick1323 AGB Blankenberge leftover AGB residual; KBO 0877.301.751 liquidated 21.03.2023; official AGB JR2019-only; no JR2025 PDF; no sourced euros; next rq_1324 residual dual L5 VL; continuous hole_fill

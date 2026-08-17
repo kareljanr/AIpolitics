@@ -17809,3 +17809,10 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources+4/entities+1/budgets+37/commitments+1/leaderboard+1 + FOI ready `gap_evapv_st_recv_4_46m_cash_4_08m_werksub_2_78m_l5` (not sent); rq_1322=done; spawn rq_1323; ticks=1322. Not a *0 tick — no progress refresh.
 - Coverage: residual dual L5 (EVA Proefbedrijf Pluimveehouderij leftover sister EVA). Does **not** move L5 near-complete of €347.956 bn TE. Taxex/FFS remain off-TE. No progress refresh (not every-10).
 - Next: rq_1323 residual dual L5 VL JR2025 hole_fill (provincie Antwerpen leftover sister APBs PSES/GKC/HC/KampC/Hooibeekhoeve and leftover EVA Pluimveehouderij now mined; APB POA listed but no Foleon/direct PDF — take only if a PDF downloads; leftover AGB Blankenberge only if a PDF now downloads; leftover Londerzeel/Holsbeek/Zwalm/Wortegem-Petegem/Maarkedal/Linkebeek/Kapellen/Drogenbos/Boutersem/Stad+OCMW Maaseik GE only if a PDF fetches; skip Motena / Trupark / PATRI / Zorgbedrijf ST / already-mined EVA Pluimveehouderij 1322 / Hooibeekhoeve 1321 / KampC 1320 / Havencentrum 1319 / GKC 1318 / PSES 1317 / Ranst 1316 / Lievegem 1315 / AGB Sport Hulshout 1314 / AGB Merchtem 1313 unless a fetchable JR appears).
+
+### Tick 1323 - 2026-08-17 - rq_1323 AGB Blankenberge dual residual liquidated
+- Unit: Autonoom Gemeentebedrijf Blankenberge leftover AGB of already-mined Stad+OCMW Blankenberge (KBO 0877.301.751; official financien + KBO; no JR2025 BBC/NBB PDF). Named leftover unmined AGB after live-PDF hunt failed. KBO Stopgezet since 21.03.2023. Official last AGB JR 2019; city JR2025 already mined tick 998. APB POA/TPA listed but provincieantwerpen.be 403 no PDF. Campus Vesta jaarrapport 234.8MB glossy not BBC. Not every-10.
+- EUR: none sourced. Do not invent euros. Gap ready after honest hunt.
+- CSVs: sources+3/entities+1/commitments+1/leaderboard+1 + gap_agbblb_liquidated_jr2019only_l5 ready not sent; rq_1323=done; spawn rq_1324; ticks=1323.
+- Coverage: residual dual L5. Does not move L5 near-complete of TE. No progress refresh.
+- Next: rq_1324 residual dual L5 VL (prefer leftover APB Campus Vesta if BBC/NBB now yields euros; APB POA/TPA only if a real PDF downloads).
