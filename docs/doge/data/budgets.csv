@@ -35845,3 +35845,45 @@ bud_ivm_pnl_2025,igs_ivm,2025,-519529,,,executed,src_ivm_jr2025_pdf,strong,2025 
 bud_ivm_irs_notional_2025,igs_ivm,2025,27125000,,,executed,src_ivm_jr2025_pdf,strong,2025 off-balance IRS notioneel 27125000 marktwaarde 1390494.79 was 1262885.48; tick1343; primary WVV 6.17
 bud_ivm_ovam_garant_2025,igs_ivm,2025,1293027,,,executed,src_ivm_jr2025_pdf,strong,2025 off-balance OVAM waarborgen Burkel 1253027 + bodemassen 40000; tick1343; primary WVV 6.14
 bud_ivm_comm_fee_2025,igs_ivm,2025,16206,,,executed,src_ivm_jr2025_pdf,strong,2025 commissaris VGD 16205.68 + andere 682.00; tick1343; primary WVV 6.16
+bud_ilva_assets_2025,igs_ilva,2025,47881079,,,executed,src_ilva_jr2025_pdf,strong,2025 assets 47881078.62 was 49112733.16; tick1344; primary WVV in official PDF
+bud_ilva_fixed_2025,igs_ilva,2025,30284912,,,executed,src_ilva_jr2025_pdf,strong,2025 vaste activa 30284912.34 was 30477086.18; tick1344; primary WVV
+bud_ilva_iva_2025,igs_ilva,2025,99377,,,executed,src_ilva_jr2025_pdf,strong,2025 IVA 99376.68 was 165684.13; tick1344; primary WVV
+bud_ilva_mva_2025,igs_ilva,2025,30169626,,,executed,src_ilva_jr2025_pdf,strong,2025 MVA 30169625.89 (gebouwen 13986341.55 + installaties 6065266.05 + rollend 7492948.83 + overige 2094446.52 + CIP 530622.94); tick1344; primary WVV
+bud_ilva_fva_2025,igs_ilva,2025,15910,,,executed,src_ilva_jr2025_pdf,strong,2025 FVA 15909.77 (aandelen 2635.15 + borg 13274.62); tick1344; primary WVV
+bud_ilva_current_2025,igs_ilva,2025,17596166,,,executed,src_ilva_jr2025_pdf,strong,2025 vlottende activa 17596166.28 was 18635646.98; tick1344; primary WVV
+bud_ilva_lt_recv_2025,igs_ilva,2025,5058919,,,executed,src_ilva_jr2025_pdf,strong,2025 LT other recv 5058918.61 WIPS GFT-installatie was 5166724.93; tick1344; primary WVV
+bud_ilva_stock_2025,igs_ilva,2025,73466,,,executed,src_ilva_jr2025_pdf,strong,2025 voorraden 73466.19 was 107344.52; tick1344; primary WVV
+bud_ilva_st_recv_2025,igs_ilva,2025,3528208,,,executed,src_ilva_jr2025_pdf,strong,2025 ST recv 3528208.29 JUMP vs 1879314.05 (trade 3128971.33); tick1344; primary WVV
+bud_ilva_invest_2025,igs_ilva,2025,6700000,,,executed,src_ilva_jr2025_pdf,strong,2025 geldbeleggingen 6700000.00 DROP vs 9000000.00; tick1344; primary WVV
+bud_ilva_cash_2025,igs_ilva,2025,1960567,,,executed,src_ilva_jr2025_pdf,strong,2025 cash 1960566.90 DROP vs 2071419.35; tick1344; primary WVV
+bud_ilva_accr_asset_2025,igs_ilva,2025,275006,,,executed,src_ilva_jr2025_pdf,strong,2025 overlopende activa 275006.29 was 410844.13; tick1344; primary WVV
+bud_ilva_equity_2025,igs_ilva,2025,16416740,,,executed,src_ilva_jr2025_pdf,strong,2025 equity 16416739.67 was 16503719.66; tick1344; primary WVV
+bud_ilva_inbreng_2025,igs_ilva,2025,1088227,,,executed,src_ilva_jr2025_pdf,strong,2025 inbreng 1088227.37 was 1083727.37 (+4500 / 180 aandelen); tick1344; primary WVV
+bud_ilva_reserves_2025,igs_ilva,2025,12912314,,,executed,src_ilva_jr2025_pdf,strong,2025 reserves 12912313.62 all onbeschikbaar; tick1344; primary WVV
+bud_ilva_capsu_2025,igs_ilva,2025,2042076,,,executed,src_ilva_jr2025_pdf,strong,2025 kapitaalsubsidies 2042075.57 was 2133555.56; tick1344; primary WVV
+bud_ilva_prov_2025,igs_ilva,2025,6561296,,,executed,src_ilva_jr2025_pdf,strong,2025 voorzieningen 6561295.74 other risks (deponie nazorg) was 6840846.09; tick1344; primary WVV
+bud_ilva_debt_2025,igs_ilva,2025,24903043,,,executed,src_ilva_jr2025_pdf,strong,2025 schulden 24903043.21 was 25768167.41; tick1344; primary WVV 17/49
+bud_ilva_lt_fin_2025,igs_ilva,2025,11881946,,,executed,src_ilva_jr2025_pdf,strong,2025 LT financial banken 11881945.65 was 9989419.68; tick1344; primary WVV
+bud_ilva_st_debt_2025,igs_ilva,2025,12683707,,,executed,src_ilva_jr2025_pdf,strong,2025 ST schulden 12683706.61 was 15416883.63; tick1344; primary WVV
+bud_ilva_st_ltcurr_2025,igs_ilva,2025,2923627,,,executed,src_ilva_jr2025_pdf,strong,2025 LT-within-year 2923626.92; tick1344; primary WVV
+bud_ilva_trade_pay_2025,igs_ilva,2025,1512227,,,executed,src_ilva_jr2025_pdf,strong,2025 leveranciers 1512226.56 DROP vs 3946432.52; tick1344; primary WVV
+bud_ilva_taxsoc_2025,igs_ilva,2025,2835919,,,executed,src_ilva_jr2025_pdf,strong,2025 tax/soc 2835918.79 (tax 537502.63 + wages 2298416.16); tick1344; primary WVV
+bud_ilva_other_st_2025,igs_ilva,2025,5411934,,,executed,src_ilva_jr2025_pdf,strong,2025 overige ST schulden 5411934.34 (diftar + provincie project); tick1344; primary WVV
+bud_ilva_ops_rev_2025,igs_ilva,2025,42428356,,,executed,src_ilva_jr2025_pdf,strong,2025 bedrijfsopbrengsten 42428356.05 was 39975379.22; tick1344; primary WVV
+bud_ilva_turnover_2025,igs_ilva,2025,40616039,,,executed,src_ilva_jr2025_pdf,strong,2025 omzet 40616039.33 was 38498386.62; tick1344; primary WVV; no 6.10 split
+bud_ilva_cityfee_2025,igs_ilva,2025,31812747,,,executed,src_ilva_jr2025_pdf,strong,2025 narrative city voorschotten 31095000 + afrekening 717747 so result zero; tick1344; primary WVV commentary not 6.10
+bud_ilva_otherops_2025,igs_ilva,2025,1338607,,,executed,src_ilva_jr2025_pdf,strong,2025 andere bedrijfsopbrengsten 1338606.99 was 1476992.60; tick1344; primary WVV code 74
+bud_ilva_subsidy_2025,igs_ilva,2025,252806,,,executed,src_ilva_jr2025_pdf,strong,2025 exploitatiesubsidies code 740 252806.10 was 184778.00; tick1344; primary WVV 6.10
+bud_ilva_nonrec_2025,igs_ilva,2025,473710,,,executed,src_ilva_jr2025_pdf,strong,2025 niet-recurrente bedrijfsopbrengsten 473709.73 Ninove recyclagepark sale; tick1344; primary WVV 76A
+bud_ilva_ops_cost_2025,igs_ilva,2025,42605395,,,executed,src_ilva_jr2025_pdf,strong,2025 bedrijfskosten 42605395.11 was 40555563.34; tick1344; primary WVV
+bud_ilva_goods_2025,igs_ilva,2025,536126,,,executed,src_ilva_jr2025_pdf,strong,2025 handelsgoederen 536125.76; tick1344; primary WVV
+bud_ilva_services_2025,igs_ilva,2025,17478059,,,executed,src_ilva_jr2025_pdf,strong,2025 diensten 17478059.14 was 16455244.84; tick1344; primary WVV
+bud_ilva_pers_2025,igs_ilva,2025,19652919,,,executed,src_ilva_jr2025_pdf,strong,2025 bezoldigingen 19652918.77 was 17710979.25; tick1344; primary WVV; VTE 290.2 / 298 koppen
+bud_ilva_uitzend_2025,igs_ilva,2025,425952,,,executed,src_ilva_jr2025_pdf,strong,2025 uitzend 425952.39 VTE 7.5; tick1344; primary WVV 6.10
+bud_ilva_ops_2025,igs_ilva,2025,-177039,,,executed,src_ilva_jr2025_pdf,strong,2025 bedrijfsverlies -177039.06 was -580184.12; tick1344; primary WVV 9901
+bud_ilva_fin_inc_2025,igs_ilva,2025,499336,,,executed,src_ilva_jr2025_pdf,strong,2025 fin opbr 499336.37 (vlottend 214120.09 + andere 278988.61 capsu); tick1344; primary WVV
+bud_ilva_fin_cost_2025,igs_ilva,2025,240438,,,executed,src_ilva_jr2025_pdf,strong,2025 fin kosten 240437.60 (schulden 217204.14); tick1344; primary WVV
+bud_ilva_pnl_pretax_2025,igs_ilva,2025,81860,,,executed,src_ilva_jr2025_pdf,strong,2025 PnL before tax 81859.71; tick1344; primary WVV 9903
+bud_ilva_tax_2025,igs_ilva,2025,81860,,,executed,src_ilva_jr2025_pdf,strong,2025 belasting 81859.71; tick1344; primary WVV 67/77
+bud_ilva_pnl_2025,igs_ilva,2025,0,,,executed,src_ilva_jr2025_pdf,strong,2025 PnL 0.00 nulresultaat after tax + municipal settlement; tick1344; primary WVV 9904 blank
+bud_ilva_comm_fee_2025,igs_ilva,2025,17877,,,executed,src_ilva_jr2025_pdf,strong,2025 commissaris KPMG 17877.00; tick1344; primary WVV 6.16

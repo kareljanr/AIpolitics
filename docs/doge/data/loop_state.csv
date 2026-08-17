@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-18T05:20:00Z,rq_1343,1343,no,tick1343 IVM leftover IGS residual; KBO 0220.574.436; live JR2025 WVV PDF; sourced euros assets 53.701m other-ops 12.269m pers 9.478m PnL -519.529; FOI ready; next rq_1344 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-18T06:15:00Z,rq_1344,1344,no,tick1344 ILvA leftover IGS residual; KBO 0862.014.551; live JR2025 WVV PDF; sourced euros assets 47.881m city-fee 31.813m pers 19.653m expl -177.039 PnL 0; FOI ready; next rq_1345 residual dual L5 VL; continuous hole_fill
