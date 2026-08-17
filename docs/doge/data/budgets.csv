@@ -34242,3 +34242,38 @@ bud_agbsp_pnl_2025,agb_houthalen_sport,2025,26745.96,,,executed,src_agbsp_jr2025
 bud_agbsp_dividend_2025,agb_houthalen_sport,2025,108187.11,,,executed,src_agbsp_jr2025_nbb,strong,NBB 694 vergoeding van de inbreng 0.108187m empties retained+PnL; tick1283; NBB not BBC J2
 bud_agbsp_capex_2025,agb_houthalen_sport,2025,33612.74,,,executed,src_agbsp_jr2025_nbb,strong,NBB 8169 aanschaffingen 0.033613m; tick1283; NBB not BBC J2
 bud_agbsp_mva_gross_2025,agb_houthalen_sport,2025,12777091.18,,,executed,src_agbsp_jr2025_nbb,strong,NBB 8199 MVA gross 12.777091m / accum dep 1.968487m; tick1283; NBB not BBC J2
+bud_kraainem_assets_2025,city_kraainem,2025,70465814.07,,,executed,src_kraainem_jr2025_bbc,strong,J4 consol assets 70.465814m vs 67.941257m; tick1284
+bud_kraainem_assets_2024,city_kraainem,2024,67941257.12,,,executed,src_kraainem_jr2025_bbc,strong,J4 YE2024 assets 67.941257m; tick1284
+bud_kraainem_city_assets_2025,city_kraainem,2025,67883743.13,,,executed,src_kraainem_jr2025_bbc,strong,J4 city assets 67.883743m; tick1284
+bud_kraainem_ocmw_assets_2025,city_kraainem,2025,3841217.26,,,executed,src_kraainem_jr2025_bbc,strong,J4 OCMW assets 3.841217m; tick1284
+bud_kraainem_cash_2025,city_kraainem,2025,10217763.24,,,executed,src_kraainem_jr2025_bbc,strong,J4 cash 10.217763m JUMP vs 7.792624m; tick1284
+bud_kraainem_fva_2025,city_kraainem,2025,16224935.27,,,executed,src_kraainem_jr2025_bbc,strong,J4 FVA 16.224935m EVA 0 IGS 8.648m other 7.570m; tick1284
+bud_kraainem_igs_2025,city_kraainem,2025,8648327.97,,,executed,src_kraainem_jr2025_bbc,strong,J4 IGS FVA 8.648328m reval -0.034185m; tick1284
+bud_kraainem_mva_2025,city_kraainem,2025,40645702.73,,,executed,src_kraainem_jr2025_bbc,strong,J4 MVA 40.645703m leasing 0; tick1284
+bud_kraainem_fin_debt_2025,city_kraainem,2025,6404601.3,,,executed,src_kraainem_jr2025_bbc,strong,T4 fin debt 6.404601m (LT 5.224 + ST due 1.181) vs 5.061m; tick1284
+bud_kraainem_fin_debt_lt_2025,city_kraainem,2025,5223897.99,,,executed,src_kraainem_jr2025_bbc,strong,J4/T4 LT fin debt 5.223898m; tick1284
+bud_kraainem_pension_2025,city_kraainem,2025,3151151.53,,,executed,src_kraainem_jr2025_bbc,strong,J4 pension LT 3.151152m vs 3.463713m (city 2.340 / OCMW 0.811); tick1284
+bud_kraainem_equity_2025,city_kraainem,2025,57095403.17,,,executed,src_kraainem_jr2025_bbc,strong,J4/T5 nettoactief 57.095403m (city 55.042 / OCMW 2.053); tick1284
+bud_kraainem_cum_pnl_2025,city_kraainem,2025,31392378.07,,,executed,src_kraainem_jr2025_bbc,strong,J4 cum P&L 31.392378m; tick1284
+bud_kraainem_reval_2025,city_kraainem,2025,3945385.18,,,executed,src_kraainem_jr2025_bbc,strong,J4 herwaarderingsreserve 3.945385m (IGS chg -0.034185); tick1284
+bud_kraainem_expl_2025,city_kraainem,2025,3466350.49,,,executed,src_kraainem_jr2025_bbc,strong,J2/T2 expl +3.466350m (city +3.405 / OCMW +0.061); tick1284
+bud_kraainem_expl_ontv_2025,city_kraainem,2025,29919598.44,,,executed,src_kraainem_jr2025_bbc,strong,T2 consol expl ontv 29.919598m after 1.403m tussenkomst elim; tick1284
+bud_kraainem_expl_uitg_2025,city_kraainem,2025,26453247.95,,,executed,src_kraainem_jr2025_bbc,strong,T2 consol expl uitg 26.453248m; tick1284
+bud_kraainem_invest_2025,city_kraainem,2025,-1923613.22,,,executed,src_kraainem_jr2025_bbc,strong,J2/T2 invest -1.923613m (ontv 0.362 / uitg 2.285); tick1284
+bud_kraainem_invest_uitg_2025,city_kraainem,2025,2285425.76,,,executed,src_kraainem_jr2025_bbc,strong,T2 invest uitg 2.285426m ~ MJP 2.279m; narrative realisatie 47.42pct vs old envelope; tick1284
+bud_kraainem_bbr_2025,city_kraainem,2025,2894593.66,,,executed,src_kraainem_jr2025_bbc,strong,J2 BBR year +2.894594m vs MJP city -0.025m; tick1284
+bud_kraainem_avail_2025,city_kraainem,2025,10267457.57,,,executed,src_kraainem_jr2025_bbc,strong,J2 avail BBR 10.267458m (city 8.612 / OCMW 1.655); tick1284
+bud_kraainem_afm_2025,city_kraainem,2025,2318206.88,,,executed,src_kraainem_jr2025_bbc,strong,J2 AFM +2.318207m (city 2.257 / OCMW 0.061); tick1284
+bud_kraainem_gecorr_2025,city_kraainem,2025,3069406.55,,,executed,src_kraainem_jr2025_bbc,strong,J2 gecorr AFM +3.069407m (city 3.008 / OCMW 0.061); tick1284
+bud_kraainem_new_loans_2025,city_kraainem,2025,2500000.0,,,executed,src_kraainem_jr2025_bbc,strong,T4 new loans 2.500000m bank; tick1284
+bud_kraainem_afl_2025,city_kraainem,2025,1156051.93,,,executed,src_kraainem_jr2025_bbc,strong,T2/T4 periodieke aflossingen 1.156052m; tick1284
+bud_kraainem_pnl_2025,city_kraainem,2025,969579.41,,,executed,src_kraainem_jr2025_bbc,strong,J5 PnL +0.969579m (city +1.906 / OCMW -0.936); tick1284
+bud_kraainem_pers_2025,city_kraainem,2025,13090451.0,,,executed,src_kraainem_jr2025_bbc,strong,J5/T2 personeel 13.090451m JUMP vs 8.971m; onderwijs andere ov 4.558m; VTE unpublished; tick1284
+bud_kraainem_fiscal_2025,city_kraainem,2025,18045981.76,,,executed,src_kraainem_jr2025_bbc,strong,J5/T2 fiscal 18.045982m (OV 7.846 + APB 9.247); tick1284
+bud_kraainem_apb_2025,city_kraainem,2025,9246754.11,,,executed,src_kraainem_jr2025_bbc,strong,T2 APB 9.246754m vs 8.042m 2024; tick1284
+bud_kraainem_gemfonds_2025,city_kraainem,2025,2222325.66,,,executed,src_kraainem_jr2025_bbc,strong,T2 gemeentefonds 2.222326m; tick1284
+bud_kraainem_police_2025,city_kraainem,2025,3378886.92,,,executed,src_kraainem_jr2025_bbc,strong,T2 politiezone WOKRA 3.378887m + invest 0.224m; tick1284
+bud_kraainem_hvz_2025,city_kraainem,2025,894686.94,,,executed,src_kraainem_jr2025_bbc,strong,T2 HVZ Vlaams-Brabant West 0.894687m + invest 0.063m; tick1284
+bud_kraainem_igs_sub_2025,city_kraainem,2025,798689.52,,,executed,src_kraainem_jr2025_bbc,strong,T2 IGS Interza werksub 0.798690m; tick1284
+bud_kraainem_ocmw_int_2025,city_kraainem,2025,1403307.63,,,executed,src_kraainem_jr2025_bbc,strong,T5 city tussenkomst OCMW tekort 1.403308m; tick1284
+bud_kraainem_agb_sub_2025,city_kraainem,2025,0,,,executed,src_kraainem_jr2025_bbc,strong,J4 EVA FVA 0; T2 AGB werksub 0; consol = GE+OCMW; tick1284

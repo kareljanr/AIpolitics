@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T11:25:00Z,rq_1283,1283,no,tick1283 AGB Sport HH JR2025 dual residual; KBO 0898.822.982; assets 10.964m equity 0.114m fin debt 10.721m leasing 10.185m dividend 0.108m; FOI ready; next rq_1284 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T11:50:00Z,rq_1284,1284,no,tick1284 Stad+OCMW Kraainem JR2025 GE residual; KBO 0207.484.285/0212.189.973; assets 70.466m fin debt 6.405m pension 3.151m WOKRA 3.379m AGB 0; FOI ready; next rq_1285 residual dual L5 VL; continuous hole_fill
