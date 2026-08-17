@@ -34606,3 +34606,38 @@ bud_oudhev_hvz_2025,city_oud_heverlee,2025,572528,,,executed,src_oudhev_jr2025_b
 bud_oudhev_afl_2025,city_oud_heverlee,2025,1441902,,,executed,src_oudhev_jr2025_bbc,strong,T4 periodieke aflossingen 1.441902m; tick1293; primary BBC
 bud_oudhev_ocmw_equity_2025,city_oud_heverlee,2025,1603731,,,executed,src_oudhev_jr2025_bbc,strong,T5 OCMW equity 1.603731m; tick1293; primary BBC
 bud_oudhev_ocmw_cum_2025,city_oud_heverlee,2025,-2040424,,,executed,src_oudhev_jr2025_bbc,strong,T5 OCMW cum PnL -2.040424m NEG; tick1293; primary BBC
+bud_hzolder_assets_2025,city_heusden_zolder,2025,248035653,,,executed,src_hzolder_jr2025_bbc,strong,J4 assets 248.035653m vs 205.630978m; tick1294; primary BBC
+bud_hzolder_assets_2024,city_heusden_zolder,2024,205630978,,,executed,src_hzolder_jr2025_bbc,strong,J4 YE2024 assets 205.630978m; tick1294; primary BBC
+bud_hzolder_cash_2025,city_heusden_zolder,2025,15384515,,,executed,src_hzolder_jr2025_bbc,strong,J4 cash 15.384515m vs 14.233604m; tick1294; primary BBC
+bud_hzolder_cash_2024,city_heusden_zolder,2024,14233604,,,executed,src_hzolder_jr2025_bbc,strong,J4 YE2024 cash 14.233604m; tick1294; primary BBC
+bud_hzolder_fva_2025,city_heusden_zolder,2025,54551888,,,executed,src_hzolder_jr2025_bbc,strong,J4/T5 FVA 54.551888m; EVA 0 + IGS 52.513588 + OCMW-ver 0.003277; tick1294; primary BBC
+bud_hzolder_igs_2025,city_heusden_zolder,2025,52513588,,,executed,src_hzolder_jr2025_bbc,strong,J4/T5 IGS FVA 52.513588m; tick1294; primary BBC
+bud_hzolder_fluvius_reval_2025,city_heusden_zolder,2025,31120890,,,executed,src_hzolder_jr2025_bbc,strong,T5 Fluvius Limburg IGS reval +31.120890m; tick1294; primary BBC
+bud_hzolder_mva_2025,city_heusden_zolder,2025,168777087,,,executed,src_hzolder_jr2025_bbc,strong,J4 MVA 168.777087m; leasing 9.177660m; tick1294; primary BBC
+bud_hzolder_leasing_2025,city_heusden_zolder,2025,9177660,,,executed,src_hzolder_jr2025_bbc,strong,T5 leasing MVA 9.177660m vs 8.482211m; tick1294; primary BBC
+bud_hzolder_equity_2025,city_heusden_zolder,2025,198971216,,,executed,src_hzolder_jr2025_bbc,strong,J4 nettoactief 198.971216m vs 162.831660m; tick1294; primary BBC
+bud_hzolder_fin_debt_2025,city_heusden_zolder,2025,37846697,,,executed,src_hzolder_jr2025_bbc,strong,T4 fin debt 37.846697m (LT 34.231 + ST due 3.616); tick1294; primary BBC
+bud_hzolder_fin_debt_2024,city_heusden_zolder,2024,32324971,,,executed,src_hzolder_jr2025_bbc,strong,T4 YE2024 fin debt 32.324971m; tick1294; primary BBC
+bud_hzolder_new_loans_2025,city_heusden_zolder,2025,9385810,,,executed,src_hzolder_jr2025_bbc,strong,T4 new loans 9.385810m (bank 8.000 + other/leasing 1.386); tick1294; primary BBC
+bud_hzolder_pension_2025,city_heusden_zolder,2025,0,,,executed,src_hzolder_jr2025_bbc,strong,J4 LT pension 0 (was 0.447823m; zeroed); tick1294; primary BBC
+bud_hzolder_st_prov_2025,city_heusden_zolder,2025,1208349,,,executed,src_hzolder_jr2025_bbc,strong,J4 ST voorzieningen 1.208349m; tick1294; primary BBC
+bud_hzolder_expl_2025,city_heusden_zolder,2025,11664363,,,executed,src_hzolder_jr2025_bbc,strong,J2 exploitatiesaldo +11.664363m; tick1294; primary BBC
+bud_hzolder_expl_ontv_2025,city_heusden_zolder,2025,78054321,,,executed,src_hzolder_jr2025_bbc,strong,J2 expl ontv 78.054321m; tick1294; primary BBC
+bud_hzolder_expl_uitg_2025,city_heusden_zolder,2025,66389958,,,executed,src_hzolder_jr2025_bbc,strong,J2 expl uitg 66.389958m; tick1294; primary BBC
+bud_hzolder_city_expl_2025,city_heusden_zolder,2025,15453048,,,executed,src_hzolder_jr2025_bbc,strong,J3 city expl +15.453048m (68.014/52.561); tick1294; primary BBC
+bud_hzolder_ocmw_expl_2025,city_heusden_zolder,2025,-3788685,,,executed,src_hzolder_jr2025_bbc,strong,J3 OCMW expl -3.788685m (10.040/13.829); tick1294; primary BBC
+bud_hzolder_invest_2025,city_heusden_zolder,2025,-17582200,,,executed,src_hzolder_jr2025_bbc,strong,J2 invest -17.582200m vs MJP -17.102m; tick1294; primary BBC
+bud_hzolder_bbr_2025,city_heusden_zolder,2025,-261949,,,executed,src_hzolder_jr2025_bbc,strong,J2 budgettair resultaat boekjaar -0.261949m; tick1294; primary BBC
+bud_hzolder_avail_2025,city_heusden_zolder,2025,12016523,,,executed,src_hzolder_jr2025_bbc,strong,J2 beschikbaar BBR 12.016523m; tick1294; primary BBC
+bud_hzolder_afm_2025,city_heusden_zolder,2025,8075812,,,executed,src_hzolder_jr2025_bbc,strong,J2 AFM +8.075812m; tick1294; primary BBC
+bud_hzolder_gecorr_2025,city_heusden_zolder,2025,9159030,,,executed,src_hzolder_jr2025_bbc,strong,J2 gecorr AFM +9.159030m; tick1294; primary BBC
+bud_hzolder_pnl_2025,city_heusden_zolder,2025,2434949,,,executed,src_hzolder_jr2025_bbc,strong,J5 PnL +2.434949m (city +5.169 / OCMW -2.734); tick1294; primary BBC
+bud_hzolder_tussen_2025,city_heusden_zolder,2025,0,,,executed,src_hzolder_jr2025_bbc,strong,T5 city->OCMW tussenkomst 0; tick1294; primary BBC
+bud_hzolder_pers_2025,city_heusden_zolder,2025,38766812,,,executed,src_hzolder_jr2025_bbc,strong,J5 bezoldigingen 38.766812m / 321.33 VTE; tick1294; primary BBC
+bud_hzolder_fiscal_2025,city_heusden_zolder,2025,30750925,,,executed,src_hzolder_jr2025_bbc,strong,J5/T2 fiscal 30.750925m; tick1294; primary BBC
+bud_hzolder_gemfonds_2025,city_heusden_zolder,2025,11767088,,,executed,src_hzolder_jr2025_bbc,strong,T2 gemeentefonds 11.767088m; tick1294; primary BBC
+bud_hzolder_politie_2025,city_heusden_zolder,2025,3530000,,,executed,src_hzolder_jr2025_bbc,strong,T2 politiezone Heusden-Zolder 3.530000m; tick1294; primary BBC
+bud_hzolder_hvz_2025,city_heusden_zolder,2025,1626555,,,executed,src_hzolder_jr2025_bbc,strong,T2 HVZ Zuid-West-Limburg 1.626555m; tick1294; primary BBC
+bud_hzolder_afl_2025,city_heusden_zolder,2025,3669215,,,executed,src_hzolder_jr2025_bbc,strong,T4 periodieke aflossingen 3.669215m; tick1294; primary BBC
+bud_hzolder_ocmw_equity_2025,city_heusden_zolder,2025,-10981739,,,executed,src_hzolder_jr2025_bbc,strong,T5 OCMW equity -10.981739m NEG; tick1294; primary BBC
+bud_hzolder_ocmw_cum_2025,city_heusden_zolder,2025,-14943405,,,executed,src_hzolder_jr2025_bbc,strong,T5 OCMW cum PnL -14.943405m NEG; tick1294; primary BBC

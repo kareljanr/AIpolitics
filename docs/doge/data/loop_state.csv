@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T11:50:00Z,rq_1293,1293,no,tick1293 Stad+OCMW Oud-Heverlee JR2025 GE residual; KBO 0207.523.679/0212.207.096; assets 81.661m fin debt 15.183m pension 5.486m OCMW tussen 0.936m; FOI ready; next rq_1294 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T12:10:00Z,rq_1294,1294,no,tick1294 Stad+OCMW Heusden-Zolder JR2025 GE residual; KBO 0216.772.432/0216.772.531; assets 248.036m fin debt 37.847m IGS reval 31.121m OCMW equity -10.982m NEG; FOI ready; next rq_1295 residual dual L5 VL; continuous hole_fill
