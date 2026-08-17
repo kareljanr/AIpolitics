@@ -34825,3 +34825,43 @@ bud_agbktn_dividend_2025,agb_kortenaken,2025,10000,,,executed,src_agbktn_jr2025_
 bud_agbktn_maint_2025,agb_kortenaken,2025,67229,,,executed,src_agbktn_jr2025_bbc,strong,D2 Sport Vlaanderen onderhoud 0.067229m; tick1299; primary BBC
 bud_agbktn_schulden_2025,agb_kortenaken,2025,3376072,,,executed,src_agbktn_jr2025_bbc,strong,J4 schulden total 3.376072m; tick1299; primary BBC
 bud_agbktn_aangewezen_2025,agb_kortenaken,2025,264871,,,executed,src_agbktn_jr2025_bbc,strong,J2 aangewezen aflossingen 0.264871m vs actual 0.046621m; tick1299; primary BBC
+bud_ktnk_assets_2025,city_kortenaken,2025,62278271,,,executed,src_ktnk_jr2025_bbc,strong,J4 assets 62.278271m vs 52.966330m jump 9.312m; tick1300; primary BBC
+bud_ktnk_assets_2024,city_kortenaken,2024,52966330,,,executed,src_ktnk_jr2025_bbc,strong,J4 YE2024 assets 52.966330m; tick1300; primary BBC
+bud_ktnk_cash_2025,city_kortenaken,2025,11104602,,,executed,src_ktnk_jr2025_bbc,strong,J4 cash+beleg 11.104602m JUMP vs 9.915599m; tick1300; primary BBC
+bud_ktnk_cash_2024,city_kortenaken,2024,9915599,,,executed,src_ktnk_jr2025_bbc,strong,J4 YE2024 cash+beleg 9.915599m; tick1300; primary BBC
+bud_ktnk_fva_2025,city_kortenaken,2025,15034032,,,executed,src_ktnk_jr2025_bbc,strong,T5 FVA 15.034032m; EVA 0.025m + IGS 14.973m; tick1300; primary BBC
+bud_ktnk_eva_2025,city_kortenaken,2025,25000,,,executed,src_ktnk_jr2025_bbc,strong,T5 EVA AGB kapitaal 0.025000m frozen; tick1300; primary BBC
+bud_ktnk_igs_2025,city_kortenaken,2025,14973101,,,executed,src_ktnk_jr2025_bbc,strong,T5 IGS FVA 14.973101m vs 6.067991m; tick1300; primary BBC
+bud_ktnk_igs_reval_2025,city_kortenaken,2025,8897132,,,executed,src_ktnk_jr2025_bbc,strong,T5 Fluvius Zenne-Dijle reval +8.897132m no cash; tick1300; primary BBC
+bud_ktnk_mva_2025,city_kortenaken,2025,28053996,,,executed,src_ktnk_jr2025_bbc,strong,J4/T5 MVA 28.053996m; leasing 0.960766m; tick1300; primary BBC
+bud_ktnk_leasing_2025,city_kortenaken,2025,960766,,,executed,src_ktnk_jr2025_bbc,strong,T5 leasing MVA 0.960766m (Fluvius licht); tick1300; primary BBC
+bud_ktnk_iva_2025,city_kortenaken,2025,579293,,,executed,src_ktnk_jr2025_bbc,strong,J4/T5 IVA 0.579293m; tick1300; primary BBC
+bud_ktnk_equity_2025,city_kortenaken,2025,44861510,,,executed,src_ktnk_jr2025_bbc,strong,J4 nettoactief 44.861510m vs 34.729906m; tick1300; primary BBC
+bud_ktnk_cum_pnl_2025,city_kortenaken,2025,-1871840,,,executed,src_ktnk_jr2025_bbc,strong,J4/T5 cum PnL -1.871840m (city +4.190 / OCMW -6.062); tick1300; primary BBC
+bud_ktnk_reval_2025,city_kortenaken,2025,8903034,,,executed,src_ktnk_jr2025_bbc,strong,J4 herwaarderingsreserves 8.903034m (was 5.902); tick1300; primary BBC
+bud_ktnk_fin_debt_2025,city_kortenaken,2025,10567781,,,executed,src_ktnk_jr2025_bbc,strong,T4 fin debt 10.567781m (LT 9.730 + ST due 0.837); tick1300; primary BBC
+bud_ktnk_fin_debt_2024,city_kortenaken,2024,11402363,,,executed,src_ktnk_jr2025_bbc,strong,T4 YE2024 fin debt 11.402363m; tick1300; primary BBC
+bud_ktnk_fin_debt_lt_2025,city_kortenaken,2025,9730409,,,executed,src_ktnk_jr2025_bbc,strong,T4/J4 LT fin debt 9.730409m; tick1300; primary BBC
+bud_ktnk_fin_debt_st_2025,city_kortenaken,2025,837371,,,executed,src_ktnk_jr2025_bbc,strong,T4/J4 ST due 0.837371m; ST fin 0; tick1300; primary BBC
+bud_ktnk_new_loans_2025,city_kortenaken,2025,11389,,,executed,src_ktnk_jr2025_bbc,strong,T4 new loans 0.011389m leasing; no new bank; tick1300; primary BBC
+bud_ktnk_pension_2025,city_kortenaken,2025,4982275,,,executed,src_ktnk_jr2025_bbc,strong,J4 pension LT 4.982275m vs 4.988429m; tick1300; primary BBC
+bud_ktnk_expl_2025,city_kortenaken,2025,2327713,,,executed,src_ktnk_jr2025_bbc,strong,J2 exploitatiesaldo +2.327713m; tick1300; primary BBC
+bud_ktnk_expl_ontv_2025,city_kortenaken,2025,14975310,,,executed,src_ktnk_jr2025_bbc,strong,J2 expl ontv 14.975310m; tick1300; primary BBC
+bud_ktnk_expl_uitg_2025,city_kortenaken,2025,12647597,,,executed,src_ktnk_jr2025_bbc,strong,J2 expl uitg 12.647597m; tick1300; primary BBC
+bud_ktnk_city_expl_2025,city_kortenaken,2025,3377688,,,executed,src_ktnk_jr2025_bbc,strong,J3 city expl +3.377688m (ontv 13.379 / uitg 10.001); tick1300; primary BBC
+bud_ktnk_ocmw_expl_2025,city_kortenaken,2025,-1049974,,,executed,src_ktnk_jr2025_bbc,strong,J3 OCMW expl -1.049974m (ontv 1.597 / uitg 2.647); tick1300; primary BBC
+bud_ktnk_invest_2025,city_kortenaken,2025,-217688,,,executed,src_ktnk_jr2025_bbc,strong,J2 invest -0.217688m vs MJP -3.101m; tick1300; primary BBC
+bud_ktnk_bbr_2025,city_kortenaken,2025,1405505,,,executed,src_ktnk_jr2025_bbc,strong,J2 budgettair resultaat boekjaar +1.405505m; tick1300; primary BBC
+bud_ktnk_avail_2025,city_kortenaken,2025,10480008,,,executed,src_ktnk_jr2025_bbc,strong,J2 beschikbaar BBR 10.480008m; tick1300; primary BBC
+bud_ktnk_afm_2025,city_kortenaken,2025,1559190,,,executed,src_ktnk_jr2025_bbc,strong,J2 AFM +1.559190m; tick1300; primary BBC
+bud_ktnk_gecorr_2025,city_kortenaken,2025,1465145,,,executed,src_ktnk_jr2025_bbc,strong,J2 gecorr AFM +1.465145m (aangewezen 0.912m); tick1300; primary BBC
+bud_ktnk_pnl_2025,city_kortenaken,2025,658102,,,executed,src_ktnk_jr2025_bbc,strong,J5 PnL +0.658102m; city +1.815 / OCMW -1.157; tussen 0; tick1300; primary BBC
+bud_ktnk_pers_2025,city_kortenaken,2025,6761879,,,executed,src_ktnk_jr2025_bbc,strong,J5/T2 bezoldigingen 6.761879m; VTE unpublished; tick1300; primary BBC
+bud_ktnk_fiscal_2025,city_kortenaken,2025,7709004,,,executed,src_ktnk_jr2025_bbc,strong,J5/T2 fiscale 7.709004m (OV 2.928 + APB 3.851); tick1300; primary BBC
+bud_ktnk_ov_2025,city_kortenaken,2025,2927688,,,executed,src_ktnk_jr2025_bbc,strong,T2 OV 2.927688m; tick1300; primary BBC
+bud_ktnk_apb_2025,city_kortenaken,2025,3850628,,,executed,src_ktnk_jr2025_bbc,strong,T2 APB 3.850628m JUMP vs 3.268m; tick1300; primary BBC
+bud_ktnk_gemfonds_2025,city_kortenaken,2025,2577124,,,executed,src_ktnk_jr2025_bbc,strong,T2 gemeentefonds 2.577124m; tick1300; primary BBC
+bud_ktnk_politie_2025,city_kortenaken,2025,747132,,,executed,src_ktnk_jr2025_bbc,strong,T2 PZ Hageland 0.747132m JUMP vs 0.592521m; tick1300; primary BBC
+bud_ktnk_hvz_2025,city_kortenaken,2025,393440,,,executed,src_ktnk_jr2025_bbc,strong,T2 HVZ 0.393440m; tick1300; primary BBC
+bud_ktnk_agb_werksub_2025,city_kortenaken,2025,166116,,,executed,src_ktnk_jr2025_bbc,strong,T2 AGB werksub 0.166116m vs AGB prijssub 0.157m tick1299; tick1300; primary BBC
+bud_ktnk_ocmw_equity_2025,city_kortenaken,2025,-5407194,,,executed,src_ktnk_jr2025_bbc,strong,T5 OCMW equity -5.407194m NEG; tick1300; primary BBC

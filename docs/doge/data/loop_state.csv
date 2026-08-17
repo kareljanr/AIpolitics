@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T13:50:00Z,rq_1299,1299,no,tick1299 AGB Kortenaken JR2025 Entity II residual; KBO 0535.811.469; assets 3.479m fin debt 3.281m leasing 3.216m city prijssub 0.157m gecorr AFM -0.209m; FOI ready; next rq_1300 residual dual L5 VL + every-10; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T14:15:00Z,rq_1300,1300,no,tick1300 Stad+OCMW Kortenaken JR2025 GE residual + every-10; KBO 0207.520.711/0212.189.379; assets 62.278m fin debt 10.568m IGS reval 8.897m OCMW equity -5.407m NEG; FOI ready; next rq_1301 residual dual L5 VL; continuous hole_fill
