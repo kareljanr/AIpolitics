@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T18:20:00Z,rq_1319,1319,no,tick1319 APB Havencentrum JR2025 leftover sister APB residual; KBO 0443.423.820; assets 0.97m cash 364k ST recv 609k ST pay 230k BBR +178.2k AFM +178.2k PnL +70.2k; FOI ready; next rq_1320 every-10 + residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T18:35:00Z,rq_1320,1320,no,tick1320 APB KampC JR2025 leftover sister APB residual + progress@1320; KBO 0541.415.101; assets 5.93m cash 2.65m ST recv 3.06m ST pay 3.53m BBR +2.39m AFM +2.52m PnL +1.21m; FOI ready; next rq_1321 residual dual L5 VL; continuous hole_fill

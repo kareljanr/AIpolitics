@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1320** (2026-08-17)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1311-1320: AGB Maaseik · AGBIM · AGB Merchtem FOI · AGB Sport Hulshout FOI · Lievegem FOI-TLS · Ranst FOI · APB PSES · APB GKC · APB Havencentrum · **APB KampC** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1311-1320 is VL residual dual L5 (not near-complete of 348bn):** **APB PSES** assets **186.52m** ST recv **165.31m** BBR **−1.29m** · **APB KampC** assets **5.93m** cash **2.65m** ST recv **3.06m** BBR **+2.39m** · **AGBIM** CCAO **8.91m** · **AGB Maaseik** fin debt **1.60m** AFM **−0.67m** · **APB GKC** assets **2.67m** · **APB Havencentrum** assets **0.97m** · prior Edegem / Beerse / VERA / Kortenaken stack retained |
+| **E. FOI-ready gaps** | **~963** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1011** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM shells** (**NEW APB KampC** assets **EUR5.93m** cash **EUR2.65m** ST recv **EUR3.06m** BBR **+EUR2.39m** J5/T2 werksub gap **EUR1.25m** · **APB PSES** assets **EUR186.52m** ST recv **EUR165.31m** BBR **−EUR1.29m** · **APB GKC** assets **EUR2.67m** cash **EUR2.11m** · **APB Havencentrum** assets **EUR0.97m** Havenwereld **EUR0.40m** · **AGBIM** CCAO **EUR8.91m** · **AGB Maaseik** fin debt **EUR1.60m** AFM **−EUR0.67m** · prior **APB VERA** fin debt **EUR1.72m** equity **−EUR1.64m** straight loan **EUR1.10m** · **Edegem** fin debt **EUR14.05m** pension **EUR23.40m** · **Beerse city** fin debt **EUR13.82m** · **AGB Beerse** fin debt **EUR5.02m** · **Pepingen city** fin debt **EUR3.47m** · **Vleteren** fin debt **EUR3.32m** · prior **Stad+OCMW Kortenaken** fin debt **EUR10.57m** IGS EV-reval **EUR8.90m** OCMW equity **−EUR5.41m** · **Heusden-Zolder** fin debt **EUR37.85m** IGS reval **EUR31.12m** · **Kapelle-op-den-Bos** fin debt **EUR18.87m** · **Oud-Heverlee** fin debt **EUR15.18m** · **Diepenbeek city** fin debt **EUR13.59m** IGS reval **EUR19.43m** · **Huldenberg** fin debt **EUR9.56m** · **AGB Kortenaken** fin debt **EUR3.28m** leasing **EUR3.22m** · **Voeren** fin debt **EUR3.37m** · **AGB Diepenbeek** fin debt **EUR3.03m** · **Steenokkerzeel** fin debt **EUR2.49m** · prior **Stad+OCMW Bekkevoort** fin debt **EUR9.77m** IGS EV-reval **EUR5.90m** · **HH city** fin debt **EUR17.37m** · **AGB Masterplan HH** fin debt **EUR27.81m** · **AGB Sport HH** fin debt **EUR10.72m** · **AGB SCO Ronse** fin debt **EUR22.65m** · **Ronse city** fin debt **EUR25.02m** pension **EUR19.50m** · **Kraainem** fin debt **EUR6.40m** · **Tielt-Winge** fin debt **EUR8.52m** · prior **Stad+OCMW Tienen** fin debt **EUR59.73m** pension **EUR51.29m** · **Machelen** fin debt **EUR26.37m** Farys lease **EUR16.90m** · **AGB Tienen** fin debt **EUR16.93m** · **AG Museum Leuven** fin debt **EUR14.51m** · **Gingelom** Fluvius reval **EUR9.75m** fin debt **EUR3.86m** · prior **AGB MAC** fin debt **EUR40.3m** leasing **EUR40.8m** · **Mintus** dual **EUR26.36m** · Digipolis assets **EUR73.61m** · **AG Vespa** fin debt **EUR179.6m** DBFM **EUR109.4m** · **sogent** AFM **−EUR3.90m** debt **EUR96.3m** · AG-O cum loss **−EUR29.2m** · Zorgbedrijf Antwerpen AFM **−EUR18.87m** debt **EUR220m** / Dodoens equity **−EUR18.88m** / Hasselt ~EUR95–103m stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1320)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 35414 |
+| commitments.csv | 4921 |
+| leaderboard.csv | 7124 |
+| entities.csv | 1066 |
+| sources.csv | 2415 |
+| FOI ready | 963 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1011 |
+| research_queue open | rq_116 deferred + rq_1321 hole-fill after progress |
+
+### What improved since tick 1310
+
+- **VL residual dual JR2025 Entity II / leftover APB (tick1311-1319):** **AGB Maaseik** fin debt **1.60m** AFM **−0.67m** city inject **1.43m** · **AGBIM** assets **20.41m** CCAO **8.91m** fin debt **0** · **AGB Merchtem / AGB Sport Hulshout / Lievegem / Ranst** JR2025 unpublished or TLS — FOI-ready no invented euros · **APB PSES** assets **186.52m** ST recv **165.31m** BBR **−1.29m** fin debt **0** · **APB GKC** assets **2.67m** cash **2.11m** · **APB Havencentrum** assets **0.97m** cash **364k** ST recv **609k** Havenwereld **395k**.
+- **NEW (tick1320):** **APB Kamp C** (KBO 0541.415.101) assets **5.929m** JUMP vs **2.853m** · cash **2.651m** JUMP vs **1.335m** · ST recv **3.062m** JUMP (niet-ruil **2.975m**) · schulden **3.527m** ALL ST · fin debt T4 **0** · equity **2.403m** · PnL **+1.212m** · expl **+2.522m** · BBR **+2.395m** / cum **4.806m** · AFM **+2.522m** · pers **1.654m** · J5 werksub **3.035m** vs T2 **4.288m** (gap **1.253m**; andere entiteiten **1.863m** BE.HOT!/Eco-build) · FOI ST recv + J5/T2 recon ready.
+- **Dual map themes:** **leftover APB pass-through / cash+ST-recv shells** (PSES 186.52m / KampC 5.93m / GKC 2.67m / Havencentrum 0.97m) · **AGB city-loan / AFM NEG** (AGB Maaseik 1.60m) · **AGB prijssub / CCAO** (AGBIM 8.91m) · prior APB equity NEG + city GE debt/pension + Fluvius/IGS EV-reval stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
 ## Snapshot at **tick 1310** (2026-08-17)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

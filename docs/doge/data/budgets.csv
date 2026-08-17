@@ -35374,3 +35374,42 @@ bud_hc_fin_inc_2025,apb_hc,2025,3200,,,executed,src_hc_jr2025_pdf,strong,2025 J5
 bud_hc_costs_2025,apb_hc,2025,1331844,,,executed,src_hc_jr2025_pdf,strong,2025 J5 costs 1331844.22; tick1319; primary BBC J5
 bud_hc_rev_2025,apb_hc,2025,1402070,,,executed,src_hc_jr2025_pdf,strong,2025 J5 opbrengsten 1402070.29; tick1319; primary BBC J5
 bud_hc_deprec_2025,apb_hc,2025,136486,,,executed,src_hc_jr2025_pdf,strong,2025 J5 afschrijvingen 136486.35; T5 write-off/transfer 90868.21+45618.14; tick1319; primary BBC
+bud_kmpc_assets_2025,apb_kmpc,2025,5929335,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 assets 5929335.44 was 2853348.37 JUMP; tick1320; primary BBC J4
+bud_kmpc_assets_2024,apb_kmpc,2024,2853348,,,executed,src_kmpc_jr2025_pdf,strong,YE2024 assets 2853348.37; tick1320; primary BBC J4
+bud_kmpc_cash_2025,apb_kmpc,2025,2650989,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 cash 2650988.98 was 1334815.88 JUMP; tick1320; primary BBC J4
+bud_kmpc_cash_2024,apb_kmpc,2024,1334816,,,executed,src_kmpc_jr2025_pdf,strong,YE2024 cash 1334815.88; tick1320; primary BBC J4
+bud_kmpc_current_2025,apb_kmpc,2025,5739045,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 vlottende activa 5739044.54; tick1320; primary BBC J4
+bud_kmpc_recv_st_2025,apb_kmpc,2025,3062038,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 ST recv 3062038.29 (ruil 87457.68 + niet-ruil 2974580.61) was 1374886.58 JUMP; tick1320; primary BBC J4
+bud_kmpc_recv_nietruil_2025,apb_kmpc,2025,2974581,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 ST niet-ruil recv 2974580.61; tick1320; primary BBC J4
+bud_kmpc_recv_ruil_2025,apb_kmpc,2025,87458,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 ST ruil recv 87457.68; tick1320; primary BBC J4
+bud_kmpc_inventories_2025,apb_kmpc,2025,826,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 voorraden 825.62; tick1320; primary BBC J4
+bud_kmpc_accruals_act_2025,apb_kmpc,2025,25192,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 overlopend actief 25191.65; tick1320; primary BBC J4
+bud_kmpc_fixed_2025,apb_kmpc,2025,190291,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 vaste activa 190290.90 was 116767.72; tick1320; primary BBC J4/T5
+bud_kmpc_fva_2025,apb_kmpc,2025,223,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 FVA 223.11 andere; tick1320; primary BBC J4/T5
+bud_kmpc_mva_2025,apb_kmpc,2025,128358,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 MVA 128357.79 leasing 0; tick1320; primary BBC J4
+bud_kmpc_iva_2025,apb_kmpc,2025,61710,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 IVA 61710.00 new 2025; tick1320; primary BBC J4/T2
+bud_kmpc_schulden_2025,apb_kmpc,2025,3526655,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 schulden 3526655.00 ALL ST was 1663015.32; tick1320; primary BBC J4
+bud_kmpc_pay_ruil_2025,apb_kmpc,2025,907425,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 non-fin ST ruil pay 907425.09 was 298868.49; tick1320; primary BBC J4
+bud_kmpc_accruals_2025,apb_kmpc,2025,2619230,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 overlopend passief 2619229.91 was 1364146.83 JUMP; tick1320; primary BBC J4
+bud_kmpc_fin_debt_2025,apb_kmpc,2025,0,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 T4 fin debt 0 (J4 empty financiële schulden; T2 financing empty; T4 schema unpublished); tick1320; primary BBC J4/T2
+bud_kmpc_equity_2025,apb_kmpc,2025,2402680,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 nettoactief 2402680.44 was 1190333.05; tick1320; primary BBC J4/T5
+bud_kmpc_cum_pnl_2025,apb_kmpc,2025,2208115,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 gecumuleerd overschot 2208114.93 was 995767.54; tick1320; primary BBC J4/T5
+bud_kmpc_pnl_2025,apb_kmpc,2025,1212347,,,executed,src_kmpc_jr2025_pdf,strong,2025 J5 PnL +1212347.39 (ops +1205096.63 / fin +7250.76); tick1320; primary BBC J5
+bud_kmpc_expl_saldo_2025,apb_kmpc,2025,2522060,,,executed,src_kmpc_jr2025_pdf,strong,2025 expl saldo +2522060.21 (ontv 4844962.43 / uitg 2322902.22); tick1320; primary BBC J2
+bud_kmpc_expl_ontv_2025,apb_kmpc,2025,4844962,,,executed,src_kmpc_jr2025_pdf,strong,2025 expl ontv 4844962.43; tick1320; primary BBC J2
+bud_kmpc_expl_uitg_2025,apb_kmpc,2025,2322902,,,executed,src_kmpc_jr2025_pdf,strong,2025 expl uitg 2322902.22; tick1320; primary BBC J2
+bud_kmpc_invest_2025,apb_kmpc,2025,127292,,,executed,src_kmpc_jr2025_pdf,strong,2025 invest uitg 127292.00 (MVA 65582 + IVA 61710); tick1320; primary BBC J2/T2
+bud_kmpc_bbr_2025,apb_kmpc,2025,2394768,,,executed,src_kmpc_jr2025_pdf,strong,2025 BBR year +2394768.21; tick1320; primary BBC J2
+bud_kmpc_cum_bbr_2025,apb_kmpc,2025,4805602,,,executed,src_kmpc_jr2025_pdf,strong,YE2025 cum BBR 4805602.18 was 2410833.97; tick1320; primary BBC J2
+bud_kmpc_afm_2025,apb_kmpc,2025,2522060,,,executed,src_kmpc_jr2025_pdf,strong,2025 AFM +2522060.21 = gecorr AFM; no afl; tick1320; primary BBC J2
+bud_kmpc_pers_2025,apb_kmpc,2025,1654303,,,executed,src_kmpc_jr2025_pdf,strong,2025 J5 pers 1654303.44 / T2 1650129.04; VTE unpublished FOI; tick1320; primary BBC
+bud_kmpc_goods_2025,apb_kmpc,2025,673147,,,executed,src_kmpc_jr2025_pdf,strong,2025 J5 goederen/diensten 673147.19 / T2 670503.45; tick1320; primary BBC
+bud_kmpc_werksub_in_2025,apb_kmpc,2025,3034955,,,executed,src_kmpc_jr2025_pdf,strong,2025 J5 werksub ontv 3034954.63 (alg 2096863.23 + spec 938091.40); tick1320; primary BBC J5
+bud_kmpc_werksub_t2_2025,apb_kmpc,2025,4287819,,,executed,src_kmpc_jr2025_pdf,strong,2025 T2 werksub kas 4287819.08 (alg provincie 1966516.00 + spec 2321303.08); J5/T2 gap 1252864.45 FOI; tick1320; primary BBC T2
+bud_kmpc_werksub_prov_2025,apb_kmpc,2025,1966516,,,executed,src_kmpc_jr2025_pdf,strong,2025 T2 alg werksub van de provincie 1966516.00 vs J5 alg 2096863.23; tick1320; primary BBC T2/J5
+bud_kmpc_werksub_spec_andere_2025,apb_kmpc,2025,1863164,,,executed,src_kmpc_jr2025_pdf,strong,2025 T2 spec werksub andere entiteiten 1863164.20 (BE.HOT! / Eco-build Kempen class); tick1320; primary BBC T2
+bud_kmpc_other_ops_2025,apb_kmpc,2025,111156,,,executed,src_kmpc_jr2025_pdf,strong,2025 J5 andere operationele opbrengsten 111156.13; tick1320; primary BBC J5
+bud_kmpc_ops_rev_2025,apb_kmpc,2025,440205,,,executed,src_kmpc_jr2025_pdf,strong,2025 J5 opbrengsten uit de werking 440205.32; tick1320; primary BBC J5
+bud_kmpc_costs_2025,apb_kmpc,2025,2383489,,,executed,src_kmpc_jr2025_pdf,strong,2025 J5 costs 2383489.18; tick1320; primary BBC J5
+bud_kmpc_rev_2025,apb_kmpc,2025,3595837,,,executed,src_kmpc_jr2025_pdf,strong,2025 J5 opbrengsten 3595836.57; tick1320; primary BBC J5
+bud_kmpc_deprec_2025,apb_kmpc,2025,53769,,,executed,src_kmpc_jr2025_pdf,strong,2025 J5 afschrijvingen 53768.82; tick1320; primary BBC J5/T5
