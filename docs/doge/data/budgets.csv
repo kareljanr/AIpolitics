@@ -34790,3 +34790,38 @@ bud_stnok_agb_werksub_2025,city_steenokkerzeel,2025,259001,,,executed,src_stnok_
 bud_stnok_ocmw_equity_2025,ocmw_steenokkerzeel,2025,38505,,,executed,src_stnok_jr2025_bbc,strong,T5 OCMW equity 0.038505m / cum PnL -1.428375m NEG; tick1298; primary BBC
 bud_stnok_afl_2025,city_steenokkerzeel,2025,1211820,,,executed,src_stnok_jr2025_bbc,strong,T4/J2 periodieke aflossingen 1.211820m; tick1298; primary BBC
 bud_stnok_tussen_2025,city_steenokkerzeel,2025,1194900,,,executed,src_stnok_jr2025_bbc,strong,GR/T5 tussenkomst OCMW 1.194900m; tick1298; primary BBC
+bud_agbktn_assets_2025,agb_kortenaken,2025,3479256,,,executed,src_agbktn_jr2025_bbc,strong,J4 assets 3.479256m vs 3.503923m; tick1299; primary BBC
+bud_agbktn_assets_2024,agb_kortenaken,2024,3503923,,,executed,src_agbktn_jr2025_bbc,strong,J4 YE2024 assets 3.503923m; tick1299; primary BBC
+bud_agbktn_cash_2025,agb_kortenaken,2025,103630,,,executed,src_agbktn_jr2025_bbc,strong,J4 cash+beleg 0.103630m JUMP vs 0.069293m; tick1299; primary BBC
+bud_agbktn_cash_2024,agb_kortenaken,2024,69293,,,executed,src_agbktn_jr2025_bbc,strong,J4 YE2024 cash+beleg 0.069293m; tick1299; primary BBC
+bud_agbktn_fva_2025,agb_kortenaken,2025,0,,,executed,src_agbktn_jr2025_bbc,strong,T5 FVA 0; EVA 0 + IGS 0; tick1299; primary BBC
+bud_agbktn_mva_2025,agb_kortenaken,2025,3287804,,,executed,src_agbktn_jr2025_bbc,strong,J4/T5 MVA 3.287804m; leasing 3.216363m; tick1299; primary BBC
+bud_agbktn_leasing_2025,agb_kortenaken,2025,3216363,,,executed,src_agbktn_jr2025_bbc,strong,T5 leasing MVA 3.216363m (sporthal De Vruen); tick1299; primary BBC
+bud_agbktn_iva_2025,agb_kortenaken,2025,1163,,,executed,src_agbktn_jr2025_bbc,strong,J4/T5 IVA 0.001163m; tick1299; primary BBC
+bud_agbktn_equity_2025,agb_kortenaken,2025,103184,,,executed,src_agbktn_jr2025_bbc,strong,J4 nettoactief 0.103184m vs 0.097754m; tick1299; primary BBC
+bud_agbktn_cum_pnl_2025,agb_kortenaken,2025,78184,,,executed,src_agbktn_jr2025_bbc,strong,J4/T5 cum PnL 0.078184m (year retained 0.005431m); tick1299; primary BBC
+bud_agbktn_other_eq_2025,agb_kortenaken,2025,25000,,,executed,src_agbktn_jr2025_bbc,strong,J4 overig nettoactief 0.025000m; tick1299; primary BBC
+bud_agbktn_fin_debt_2025,agb_kortenaken,2025,3280771,,,executed,src_agbktn_jr2025_bbc,strong,T4 fin debt 3.280771m (LT 3.233 + ST due 0.047); tick1299; primary BBC
+bud_agbktn_fin_debt_2024,agb_kortenaken,2024,3310891,,,executed,src_agbktn_jr2025_bbc,strong,T4 YE2024 fin debt 3.310891m; tick1299; primary BBC
+bud_agbktn_fin_debt_lt_2025,agb_kortenaken,2025,3233422,,,executed,src_agbktn_jr2025_bbc,strong,T4/J4 LT fin debt 3.233422m; tick1299; primary BBC
+bud_agbktn_fin_debt_st_2025,agb_kortenaken,2025,47348,,,executed,src_agbktn_jr2025_bbc,strong,T4/J4 ST due 0.047348m; ST fin 0; tick1299; primary BBC
+bud_agbktn_new_loans_2025,agb_kortenaken,2025,16500,,,executed,src_agbktn_jr2025_bbc,strong,T4 new loans 0.016500m renteloze stadslening; no bank; tick1299; primary BBC
+bud_agbktn_pension_2025,agb_kortenaken,2025,0,,,executed,src_agbktn_jr2025_bbc,strong,J4 no pension voorziening; 0; tick1299; primary BBC
+bud_agbktn_expl_2025,agb_kortenaken,2025,55792,,,executed,src_agbktn_jr2025_bbc,strong,J2 exploitatiesaldo +0.055792m; tick1299; primary BBC
+bud_agbktn_expl_ontv_2025,agb_kortenaken,2025,193795,,,executed,src_agbktn_jr2025_bbc,strong,J2 expl ontv 0.193795m; tick1299; primary BBC
+bud_agbktn_expl_uitg_2025,agb_kortenaken,2025,138003,,,executed,src_agbktn_jr2025_bbc,strong,J2 expl uitg 0.138003m; tick1299; primary BBC
+bud_agbktn_invest_2025,agb_kortenaken,2025,-16500,,,executed,src_agbktn_jr2025_bbc,strong,J2 invest -0.016500m (spinningfietsen); tick1299; primary BBC
+bud_agbktn_bbr_2025,agb_kortenaken,2025,9171,,,executed,src_agbktn_jr2025_bbc,strong,J2 budgettair resultaat boekjaar +0.009171m; tick1299; primary BBC
+bud_agbktn_avail_2025,agb_kortenaken,2025,94988,,,executed,src_agbktn_jr2025_bbc,strong,J2 beschikbaar BBR 0.094988m; tick1299; primary BBC
+bud_agbktn_afm_2025,agb_kortenaken,2025,9171,,,executed,src_agbktn_jr2025_bbc,strong,J2 AFM +0.009171m; tick1299; primary BBC
+bud_agbktn_gecorr_2025,agb_kortenaken,2025,-209080,,,executed,src_agbktn_jr2025_bbc,strong,J2 gecorr AFM -0.209080m (aangewezen 0.264871m); tick1299; primary BBC
+bud_agbktn_pnl_2025,agb_kortenaken,2025,15431,,,executed,src_agbktn_jr2025_bbc,strong,J5 PnL +0.015431m; dividend 0.010m / retained 0.005431m; tick1299; primary BBC
+bud_agbktn_pers_2025,agb_kortenaken,2025,0,,,executed,src_agbktn_jr2025_bbc,strong,J5 no bezoldigingen; pers 0 on AGB books; tick1299; primary BBC
+bud_agbktn_prijssub_2025,agb_kortenaken,2025,157062,,,executed,src_agbktn_jr2025_bbc,strong,T2/D2 prijssub 0.157062m (city 0.156547 + Bekkevoort 0.000515); tick1299; primary BBC
+bud_agbktn_werking_2025,agb_kortenaken,2025,190398,,,executed,src_agbktn_jr2025_bbc,strong,J5/T2 ontvangsten uit de werking 0.190398m; tick1299; primary BBC
+bud_agbktn_client_2025,agb_kortenaken,2025,22410,,,executed,src_agbktn_jr2025_bbc,strong,D2 klantentarieven 0.022410m excl btw; tick1299; primary BBC
+bud_agbktn_afl_2025,agb_kortenaken,2025,46621,,,executed,src_agbktn_jr2025_bbc,strong,T4/J2 periodieke aflossingen 0.046621m (canon 0.036550 + city 0.010071); tick1299; primary BBC
+bud_agbktn_dividend_2025,agb_kortenaken,2025,10000,,,executed,src_agbktn_jr2025_bbc,strong,J5/RVB winstuitkering gemeente 0.010000m; tick1299; primary BBC
+bud_agbktn_maint_2025,agb_kortenaken,2025,67229,,,executed,src_agbktn_jr2025_bbc,strong,D2 Sport Vlaanderen onderhoud 0.067229m; tick1299; primary BBC
+bud_agbktn_schulden_2025,agb_kortenaken,2025,3376072,,,executed,src_agbktn_jr2025_bbc,strong,J4 schulden total 3.376072m; tick1299; primary BBC
+bud_agbktn_aangewezen_2025,agb_kortenaken,2025,264871,,,executed,src_agbktn_jr2025_bbc,strong,J2 aangewezen aflossingen 0.264871m vs actual 0.046621m; tick1299; primary BBC
