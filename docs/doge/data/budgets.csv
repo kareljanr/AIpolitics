@@ -35808,3 +35808,40 @@ bud_idm_fin_cost_2025,igs_idm,2025,36578,,,executed,src_idm_jr2025_pdf,strong,20
 bud_idm_pnl_2025,igs_idm,2025,428893,,,executed,src_idm_jr2025_pdf,strong,2025 PnL +428893.35 was +87960.97; tick1342; primary WVV 9904
 bud_idm_contrib2026_2025,igs_idm,2026,11479071,,,budgeted,src_idm_jr2025_pdf,strong,2026 werkingsbijdrage 11479071 = 2025 +414810 (implied 2025 11064261); tick1342; primary WVV narrative waarderingsregels
 bud_idm_pensionfund_2025,igs_idm,2025,2598719,,,executed,src_idm_jr2025_pdf,strong,2025 off-balance collectief pensioenfonds 2598718.59 was 2655544.88; tick1342; primary WVV narrative
+bud_ivm_assets_2025,igs_ivm,2025,53700580,,,executed,src_ivm_jr2025_pdf,strong,2025 assets 53700580.28 was 55251239.49; tick1343; primary WVV in official PDF
+bud_ivm_fixed_2025,igs_ivm,2025,41381097,,,executed,src_ivm_jr2025_pdf,strong,2025 vaste activa 41381097.09 was 43133979.61; tick1343; primary WVV
+bud_ivm_iva_2025,igs_ivm,2025,35016,,,executed,src_ivm_jr2025_pdf,strong,2025 IVA 35015.50; tick1343; primary WVV
+bud_ivm_mva_2025,igs_ivm,2025,41344000,,,executed,src_ivm_jr2025_pdf,strong,2025 MVA 41343999.80 (gebouwen 3100198.03 + installaties 36027858.43 + rollend 546384.20 + CIP 1669559.14); tick1343; primary WVV
+bud_ivm_fva_2025,igs_ivm,2025,2082,,,executed,src_ivm_jr2025_pdf,strong,2025 FVA 2081.79 (aandelen 995.79 + borg 1086.00); tick1343; primary WVV
+bud_ivm_current_2025,igs_ivm,2025,12319483,,,executed,src_ivm_jr2025_pdf,strong,2025 vlottende activa 12319483.19 was 12117259.88; tick1343; primary WVV
+bud_ivm_stock_2025,igs_ivm,2025,3031386,,,executed,src_ivm_jr2025_pdf,strong,2025 voorraden 3031386.43 was 2927031.26; tick1343; primary WVV
+bud_ivm_st_recv_2025,igs_ivm,2025,5762491,,,executed,src_ivm_jr2025_pdf,strong,2025 ST recv trade 5762490.94 DROP vs 6287152.32; tick1343; primary WVV
+bud_ivm_invest_2025,igs_ivm,2025,2875370,,,executed,src_ivm_jr2025_pdf,strong,2025 geldbeleggingen 2875370.43 was 2525791.44; tick1343; primary WVV
+bud_ivm_cash_2025,igs_ivm,2025,245218,,,executed,src_ivm_jr2025_pdf,strong,2025 cash 245218.19 DROP vs 314661.93; tick1343; primary WVV
+bud_ivm_accr_asset_2025,igs_ivm,2025,405017,,,executed,src_ivm_jr2025_pdf,strong,2025 overlopende activa 405017.20 JUMP vs 62622.93; tick1343; primary WVV
+bud_ivm_equity_2025,igs_ivm,2025,27104096,,,executed,src_ivm_jr2025_pdf,strong,2025 equity 27104095.68 was 27558624.20; tick1343; primary WVV
+bud_ivm_inbreng_2025,igs_ivm,2025,20107775,,,executed,src_ivm_jr2025_pdf,strong,2025 inbreng 20107775.00 was 20042775.00 (+304250 / 12170 aandelen); tick1343; primary WVV
+bud_ivm_reserves_2025,igs_ivm,2025,6919870,,,executed,src_ivm_jr2025_pdf,strong,2025 reserves 6919870.33 (onbeschikbaar 1379461.71 + beschikbaar 5540408.62); tick1343; primary WVV
+bud_ivm_capsu_2025,igs_ivm,2025,76450,,,executed,src_ivm_jr2025_pdf,strong,2025 kapitaalsubsidies 76450.35; tick1343; primary WVV
+bud_ivm_prov_2025,igs_ivm,2025,873063,,,executed,src_ivm_jr2025_pdf,strong,2025 voorzieningen 873063.27 (pensioen 347113.27 + herstellingen 525950.00); tick1343; primary WVV
+bud_ivm_debt_2025,igs_ivm,2025,25723421,,,executed,src_ivm_jr2025_pdf,strong,2025 schulden 25723421.33 was 26508294.90; tick1343; primary WVV
+bud_ivm_lt_fin_2025,igs_ivm,2025,16625000,,,executed,src_ivm_jr2025_pdf,strong,2025 LT financial banken 16625000.00 was 18375000.00; tick1343; primary WVV
+bud_ivm_st_debt_2025,igs_ivm,2025,8854431,,,executed,src_ivm_jr2025_pdf,strong,2025 ST schulden 8854430.65 was 7986021.38; tick1343; primary WVV
+bud_ivm_st_ltcurr_2025,igs_ivm,2025,1750000,,,executed,src_ivm_jr2025_pdf,strong,2025 LT-within-year 1750000.00; tick1343; primary WVV
+bud_ivm_trade_pay_2025,igs_ivm,2025,4713585,,,executed,src_ivm_jr2025_pdf,strong,2025 leveranciers 4713585.31 JUMP vs 3795907.01; tick1343; primary WVV
+bud_ivm_taxsoc_2025,igs_ivm,2025,2360348,,,executed,src_ivm_jr2025_pdf,strong,2025 tax/soc 2360347.90 (tax 417386.93 + wages 1942960.97); tick1343; primary WVV
+bud_ivm_ops_rev_2025,igs_ivm,2025,37251663,,,executed,src_ivm_jr2025_pdf,strong,2025 bedrijfsopbrengsten 37251662.99 was 36438878.50; tick1343; primary WVV
+bud_ivm_turnover_2025,igs_ivm,2025,24964838,,,executed,src_ivm_jr2025_pdf,strong,2025 omzet 24964837.80 DROP vs 27476804.67; tick1343; primary WVV; no 6.10 split
+bud_ivm_otherops_2025,igs_ivm,2025,12268825,,,executed,src_ivm_jr2025_pdf,strong,2025 andere bedrijfsopbrengsten 12268825.19 JUMP vs 8947941.60; tick1343; primary WVV code 74; subsidies 740 only 442307.19
+bud_ivm_subsidy_2025,igs_ivm,2025,442307,,,executed,src_ivm_jr2025_pdf,strong,2025 exploitatiesubsidies code 740 442307.19 was 469497.68; tick1343; primary WVV 6.10
+bud_ivm_ops_cost_2025,igs_ivm,2025,37484036,,,executed,src_ivm_jr2025_pdf,strong,2025 bedrijfskosten 37484035.59 was 35766581.79; tick1343; primary WVV
+bud_ivm_goods_2025,igs_ivm,2025,2497517,,,executed,src_ivm_jr2025_pdf,strong,2025 handelsgoederen 2497516.70 was 1115947.15; tick1343; primary WVV
+bud_ivm_services_2025,igs_ivm,2025,21039362,,,executed,src_ivm_jr2025_pdf,strong,2025 diensten 21039362.14 was 20340972.22; tick1343; primary WVV
+bud_ivm_pers_2025,igs_ivm,2025,9477984,,,executed,src_ivm_jr2025_pdf,strong,2025 bezoldigingen 9477984.47 was 9411362.11; tick1343; primary WVV; VTE 105.1 / 109 koppen
+bud_ivm_uitzend_2025,igs_ivm,2025,401918,,,executed,src_ivm_jr2025_pdf,strong,2025 uitzend 401917.99 VTE 5.4; tick1343; primary WVV 6.10
+bud_ivm_ops_2025,igs_ivm,2025,-232373,,,executed,src_ivm_jr2025_pdf,strong,2025 bedrijfsverlies -232372.60 was +672296.71; tick1343; primary WVV 9901
+bud_ivm_fin_cost_2025,igs_ivm,2025,306628,,,executed,src_ivm_jr2025_pdf,strong,2025 fin kosten 306628.19 (schulden 305146.99); tick1343; primary WVV
+bud_ivm_pnl_2025,igs_ivm,2025,-519529,,,executed,src_ivm_jr2025_pdf,strong,2025 PnL -519528.52 was +376544.11; tick1343; primary WVV 9904
+bud_ivm_irs_notional_2025,igs_ivm,2025,27125000,,,executed,src_ivm_jr2025_pdf,strong,2025 off-balance IRS notioneel 27125000 marktwaarde 1390494.79 was 1262885.48; tick1343; primary WVV 6.17
+bud_ivm_ovam_garant_2025,igs_ivm,2025,1293027,,,executed,src_ivm_jr2025_pdf,strong,2025 off-balance OVAM waarborgen Burkel 1253027 + bodemassen 40000; tick1343; primary WVV 6.14
+bud_ivm_comm_fee_2025,igs_ivm,2025,16206,,,executed,src_ivm_jr2025_pdf,strong,2025 commissaris VGD 16205.68 + andere 682.00; tick1343; primary WVV 6.16
