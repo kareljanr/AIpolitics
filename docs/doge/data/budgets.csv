@@ -33724,3 +33724,58 @@ bud_vespa_provisions_2025,ag_vespa_antwerpen,2025,29009903,,,bbc_jr_realized,src
 bud_vespa_kuub_toelage_2025,ag_vespa_antwerpen,2025,5951403,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC §7 toelage project Kuub 5.951m; tick1260
 bud_vespa_offbal_area_2025,ag_vespa_antwerpen,2025,16895342,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC §5 off-balance gebiedsontwikkeling 16.895m; tick1260
 bud_vespa_politie_shell_2025,ag_vespa_antwerpen,2025,-6205484,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,Toelichting analytisch politiepatrimonium saldo -6.205m; tick1260
+bud_agso_assets_2025,ag_stedelijk_onderwijs_antwerpen,2025,725247300,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J4 balanstotaal assets YE2025 725.247m (was 693.230m); tick1261
+bud_agso_equity_2025,ag_stedelijk_onderwijs_antwerpen,2025,599707399,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J4 nettoactief 599.707m (kapitaalsub 512.642 + cum 81.900 + overig 5.166); tick1261
+bud_agso_cap_sub_2025,ag_stedelijk_onderwijs_antwerpen,2025,512641548,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J4 kapitaalssubsidies en schenkingen 512.642m; tick1261
+bud_agso_cum_surplus_2025,ag_stedelijk_onderwijs_antwerpen,2025,81900319,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J4 gecumuleerd overschot 81.900m (was 86.717m); tick1261
+bud_agso_debt_total_2025,ag_stedelijk_onderwijs_antwerpen,2025,125539901,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J4 schulden total 125.540m; tick1261
+bud_agso_fin_debt_2025,ag_stedelijk_onderwijs_antwerpen,2025,82725204,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,T3 total fin debt 82.725m (LT 79.963 + ST due 2.762); tick1261
+bud_agso_fin_debt_lt_2025,ag_stedelijk_onderwijs_antwerpen,2025,79962747,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,T3/J4 fin debt LT 79.963m; tick1261
+bud_agso_fin_debt_st_due_2025,ag_stedelijk_onderwijs_antwerpen,2025,2762457,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,T3 ST due within year 2.762m; tick1261
+bud_agso_cash_2025,ag_stedelijk_onderwijs_antwerpen,2025,15052744,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J4 liquide middelen 15.053m DROP from 36.297m (city cash-pool); tick1261
+bud_agso_st_recv_2025,ag_stedelijk_onderwijs_antwerpen,2025,55730745,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J4 ST vorderingen 55.731m JUMP (niet-ruil 50.557m); tick1261
+bud_agso_st_recv_nietruil_2025,ag_stedelijk_onderwijs_antwerpen,2025,50557390,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J4 ST niet-ruil vorderingen 50.557m; tick1261
+bud_agso_mva_2025,ag_stedelijk_onderwijs_antwerpen,2025,590903276,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J4 MVA 590.903m; tick1261
+bud_agso_mva_buildings_2025,ag_stedelijk_onderwijs_antwerpen,2025,490860398,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J4 terreinen en gebouwen 490.860m; tick1261
+bud_agso_leasing_mva_2025,ag_stedelijk_onderwijs_antwerpen,2025,76345732,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J4 leasing en soortgelijke rechten 76.346m; tick1261
+bud_agso_lt_recv_2025,ag_stedelijk_onderwijs_antwerpen,2025,59721391,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J4 LT vorderingen 59.721m; tick1261
+bud_agso_expl_rec_2025,ag_stedelijk_onderwijs_antwerpen,2025,492231393,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J2 expl ontvangsten 492.231m; tick1261
+bud_agso_expl_exp_2025,ag_stedelijk_onderwijs_antwerpen,2025,483077024,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J2 expl uitgaven 483.077m; tick1261
+bud_agso_expl_saldo_2025,ag_stedelijk_onderwijs_antwerpen,2025,9154369,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J2 exploitatiesaldo +9.154m; tick1261
+bud_agso_invest_rec_2025,ag_stedelijk_onderwijs_antwerpen,2025,47539465,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J2 invest ontvangsten 47.539m; tick1261
+bud_agso_invest_exp_2025,ag_stedelijk_onderwijs_antwerpen,2025,56833884,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J2 invest uitgaven 56.834m (realisatie 63.6%); tick1261
+bud_agso_invest_saldo_2025,ag_stedelijk_onderwijs_antwerpen,2025,-9294419,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J2 invest saldo -9.294m; tick1261
+bud_agso_fin_exp_2025,ag_stedelijk_onderwijs_antwerpen,2025,8122103,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J2 fin uitgaven 8.122m (aflossing 2.693 + BBI 5.429); tick1261
+bud_agso_fin_rec_2025,ag_stedelijk_onderwijs_antwerpen,2025,0,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J2 fin ontvangsten 0 (BBI 5.4m not received); tick1261
+bud_agso_fin_saldo_2025,ag_stedelijk_onderwijs_antwerpen,2025,-8122103,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J2 financieringssaldo -8.122m; tick1261
+bud_agso_budget_result_2025,ag_stedelijk_onderwijs_antwerpen,2025,-8262153,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J2 budgettair resultaat -8.262m NEG; tick1261
+bud_agso_bbr_2025,ag_stedelijk_onderwijs_antwerpen,2025,34627109,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J2 cum/avail BBR +34.627m; tick1261
+bud_agso_afm_2025,ag_stedelijk_onderwijs_antwerpen,2025,7707935,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J2 AFM +7.708m POS; tick1261
+bud_agso_afm_gecorr_2025,ag_stedelijk_onderwijs_antwerpen,2025,3567326,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J2 gecorr AFM +3.567m (corr -4.141m); tick1261
+bud_agso_pnl_2025,ag_stedelijk_onderwijs_antwerpen,2025,-4816547,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J5 tekort -4.817m; tick1261
+bud_agso_op_pnl_2025,ag_stedelijk_onderwijs_antwerpen,2025,-22898142,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J5 operationeel tekort -22.898m; tick1261
+bud_agso_fin_pnl_2025,ag_stedelijk_onderwijs_antwerpen,2025,18081595,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J5 financieel overschot +18.082m; tick1261
+bud_agso_costs_2025,ag_stedelijk_onderwijs_antwerpen,2025,515563686,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J5 totale kosten 515.564m; tick1261
+bud_agso_revenue_2025,ag_stedelijk_onderwijs_antwerpen,2025,510747139,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J5 totale opbrengsten 510.747m; tick1261
+bud_agso_personnel_2025,ag_stedelijk_onderwijs_antwerpen,2025,400566758,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J5/T2 bezoldigingen 400.567m (gesub 352.765 + niet-gesub 47.802); tick1261
+bud_agso_personnel_gesub_2025,ag_stedelijk_onderwijs_antwerpen,2025,352764817,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,T2 onderwijzend ten laste andere overheden 352.765m / 8144 heads; tick1261
+bud_agso_personnel_nietgesub_2025,ag_stedelijk_onderwijs_antwerpen,2025,47801942,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,Toelichting niet-gesubsidieerd 47.802m / 556.62 VTE; tick1261
+bud_agso_respons_2025,ag_stedelijk_onderwijs_antwerpen,2025,6572319,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,Toelichting responsabiliseringsbijdrage 6.572m; tick1261
+bud_agso_vl_tussenkomst_respo_2025,ag_stedelijk_onderwijs_antwerpen,2025,3208771,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,Variantietabel VL tussenkomst respo 3.209m; tick1261
+bud_agso_goods_2025,ag_stedelijk_onderwijs_antwerpen,2025,72933850,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J5 goederen en diensten 72.934m (T2 72.928m); tick1261
+bud_agso_interest_2025,ag_stedelijk_onderwijs_antwerpen,2025,3233714,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J5/T2 financiële kosten 3.234m (andere entiteiten 3.192m); tick1261
+bud_agso_depr_2025,ag_stedelijk_onderwijs_antwerpen,2025,32075503,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J5 afschrijvingen/waardeverminderingen/voorzieningen 32.076m; tick1261
+bud_agso_werkingssub_2025,ag_stedelijk_onderwijs_antwerpen,2025,476990167,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,T2 werkingssubsidies totaal 476.990m; tick1261
+bud_agso_city_alg_werk_2025,ag_stedelijk_onderwijs_antwerpen,2025,57140575,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,T2 algemene werkingssubsidie gemeente 57.141m; tick1261
+bud_agso_city_spec_werk_2025,ag_stedelijk_onderwijs_antwerpen,2025,5075000,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,T2 specifieke werkingssubsidie gemeente 5.075m; tick1261
+bud_agso_city_werk_2025,ag_stedelijk_onderwijs_antwerpen,2025,62215575,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,T2 city werkingssubsidies 62.216m (alg 57.141 + spec 5.075); tick1261
+bud_agso_vl_alg_werk_2025,ag_stedelijk_onderwijs_antwerpen,2025,53171257,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,T2 algemene werkingssubsidie Vlaanderen 53.171m; tick1261
+bud_agso_vl_spec_werk_2025,ag_stedelijk_onderwijs_antwerpen,2025,360325481,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,T2 specifieke werkingssubsidie Vlaanderen 360.325m (incl teacher pass-through); tick1261
+bud_agso_city_invest_sub_2025,ag_stedelijk_onderwijs_antwerpen,2025,38396680,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,T2 investeringssubsidies van de gemeente 38.397m; tick1261
+bud_agso_vl_invest_sub_2025,ag_stedelijk_onderwijs_antwerpen,2025,8139901,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,T2 investeringssubsidies Vlaanderen 8.140m; tick1261
+bud_agso_city_dual_2025,ag_stedelijk_onderwijs_antwerpen,2025,100612255,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,City dual werk+invest 100.612m vs 2026 lock 88.152m; tick1261
+bud_agso_bbi_digipolis_2025,ag_stedelijk_onderwijs_antwerpen,2025,5429271,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,T2/toelichting BBI/Digipolis toegestane lening 5.429m (expected 2027); tick1261
+bud_agso_periodic_repay_2025,ag_stedelijk_onderwijs_antwerpen,2025,2692833,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,J2/T3 periodieke aflossingen 2.693m; tick1261
+bud_agso_nuts_prov_2025,ag_stedelijk_onderwijs_antwerpen,2025,564639,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,Voorziening nuts-overschot terug naar stad 0.565m; tick1261
+bud_agso_loopbaan_prov_2025,ag_stedelijk_onderwijs_antwerpen,2025,3500000,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,First-year loopbaansparen voorziening ~3.5m (yoy 271k); tick1261
+bud_agso_granted_subs_2025,ag_stedelijk_onderwijs_antwerpen,2025,762982,,,bbc_jr_realized,src_agso_jr2025_bbc,strong,T2/J5 toegestane werkingssubsidies 0.763m; tick1261
