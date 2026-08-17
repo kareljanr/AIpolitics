@@ -17319,3 +17319,9 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources/entities/budgets+40/commitments+7/leaderboard+7 + FOI ready `gap_eva_gw_toelage_0_33m_designed_zero_recv_0_47m_junior_0_19m_l5` (not sent); rq_1253=done; spawn rq_1254.
 - Next: rq_1254 residual dual L5 VL JR2025 hole_fill.
 
+
+### Tick 1254 - 2026-08-17 - rq_1254 AG Oostende dual residual
+- Unit: Autonoom Gemeentebedrijf Oostende (AG-O) JR2025 Entity II after city GE tick842 (KBO 0267.389.606; 21p NBB verkort text primary; AV 27.04.2026 / NBB 17.06.2026). Distinct from city Oostende GE and from not-yet-merged AG Mobil-O / AG EOS. Successor AGSO + Renov'O (GR 26.06.2023).
+- EUR strong: assets **22.663m** DROP; equity **12.659m** vs inbreng frozen **41.560m**; cum loss **-29.159m** DEEP; doorgeef other loans = LT recv **3.123m**; fin debt **8.170m** (bank/lease 5.047 + other 3.123); gov-guarantee **5.725m**; omzet **9.983m** grantor hole; goods **7.219m** JUMP; personnel **2.664m** / **31.9 VTE** JUMP (was 22.2); PnL **+0.961m** no div; cash **5.323m**; BBC AFM/BBR not public.
+- CSVs: sources/entities(+city note)/budgets+40/commitments+7/leaderboard+7 + FOI ready `gap_ago_cum_loss_29_16m_inbreng_41_56m_doorgeef_3_12m_omzet_9_98m_l5` (not sent); rq_1254=done; spawn rq_1255.
+- Next: rq_1255 residual dual L5 VL JR2025 hole_fill.

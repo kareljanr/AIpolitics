@@ -33429,3 +33429,43 @@ bud_evagw_vte_avg_2025,eva_gezinswelzijn_lokeren,2025,54,,,nbb_jr_realized,src_e
 bud_evagw_vte_ye_2025,eva_gezinswelzijn_lokeren,2025,52,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,YE 51.7 VTE (15 FT + 69 PT); tick1253
 bud_evagw_junior_rsz_2025,eva_gezinswelzijn_lokeren,2025,64481,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,VZW Junior RSZ 64.481 (paid 58.242 + due 6.239); tick1253
 bud_evagw_junior_cash_2025,eva_gezinswelzijn_lokeren,2025,7497,,,nbb_jr_realized,src_eva_gezinswelzijn_jr2025,strong,VZW Junior YE cash 7.497 (start 13.288); tick1253
+bud_ago_assets_2025,ag_oostende,2025,22663211,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Assets balanstotaal YE2025 22.663m (was 23.782m); tick1254
+bud_ago_fixed_2025,ag_oostende,2025,6602048,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Vaste activa YE2025 6.602m (MVA 6.600m FVA 2.191); tick1254
+bud_ago_mva_2025,ag_oostende,2025,6599858,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Materiele vaste activa YE2025 6.600m; tick1254
+bud_ago_buildings_2025,ag_oostende,2025,4590745,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Terreinen en gebouwen YE2025 4.591m; tick1254
+bud_ago_current_2025,ag_oostende,2025,16061162,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Vlottende activa YE2025 16.061m; tick1254
+bud_ago_lt_recv_2025,ag_oostende,2025,3122744,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,LT handelsvorderingen YE2025 3.123m = other loans doorgeef (was 6.998m); tick1254
+bud_ago_st_trade_recv_2025,ag_oostende,2025,5459788,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,ST handelsvorderingen YE2025 5.460m JUMP (was 2.176m); tick1254
+bud_ago_other_recv_2025,ag_oostende,2025,2099441,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Overige ST vorderingen YE2025 2.099m; tick1254
+bud_ago_cash_2025,ag_oostende,2025,5323400,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Liquide middelen YE2025 5.323m (was 5.352m); tick1254
+bud_ago_inventory_2025,ag_oostende,2025,55789,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Voorraden YE2025 55.789 flat; tick1254
+bud_ago_equity_2025,ag_oostende,2025,12658885,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Eigen vermogen YE2025 12.659m (was 11.753m); tick1254
+bud_ago_inbreng_2025,ag_oostende,2025,41560224,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Inbreng onbeschikbaar YE2025 41.560m FROZEN; tick1254
+bud_ago_cum_loss_2025,ag_oostende,2025,-29159013,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Overgedragen verlies YE2025 -29.159m DEEP (was -30.120m); tick1254
+bud_ago_cap_sub_2025,ag_oostende,2025,244234,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Kapitaalsubsidies YE2025 0.244m; tick1254
+bud_ago_def_tax_2025,ag_oostende,2025,81455,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Uitgestelde belastingen YE2025 81.455; tick1254
+bud_ago_total_debt_2025,ag_oostende,2025,9922871,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Totale schulden YE2025 9.923m (was 11.929m); tick1254
+bud_ago_lt_fin_debt_2025,ag_oostende,2025,8169630,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,LT financiele schulden YE2025 8.170m; tick1254
+bud_ago_bank_lease_2025,ag_oostende,2025,5046886,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,LT bank/lease YE2025 5.047m (was 5.725m); tick1254
+bud_ago_other_loans_2025,ag_oostende,2025,3122744,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,LT overige leningen YE2025 3.123m = LT recv doorgeef; tick1254
+bud_ago_st_debt_2025,ag_oostende,2025,1753240,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,ST schulden YE2025 1.753m; tick1254
+bud_ago_current_lt_2025,ag_oostende,2025,979418,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,LT binnen jaar vervallend YE2025 0.979m; tick1254
+bud_ago_bank_st_2025,ag_oostende,2025,213340,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,ST kredietinstellingen YE2025 0.213m (was 0); tick1254
+bud_ago_gov_guarantee_2025,ag_oostende,2025,5725370,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,BE-overheidswaarborg schulden YE2025 5.725m; tick1254
+bud_ago_debt_1_5y_2025,ag_oostende,2025,2742346,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Schulden restlooptijd 1-5j 2.742m; tick1254
+bud_ago_debt_gt5y_2025,ag_oostende,2025,5427284,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Schulden restlooptijd >5j 5.427m; tick1254
+bud_ago_turnover_2025,ag_oostende,2025,9983024,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Omzet 2025 9.983m (was 9.798m); grantor-split FOI; tick1254
+bud_ago_gross_margin_2025,ag_oostende,2025,4389979,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Brutomarge 2025 4.390m DROP (was 5.535m); tick1254
+bud_ago_goods_2025,ag_oostende,2025,7218743,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Goederen/diensten 2025 7.219m JUMP (was 5.728m); tick1254
+bud_ago_personnel_2025,ag_oostende,2025,2663674,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Personeel 2025 2.664m / 31.9 VTE JUMP (was 22.2); tick1254
+bud_ago_depr_2025,ag_oostende,2025,741673,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Afschrijvingen 2025 0.742m; tick1254
+bud_ago_op_profit_2025,ag_oostende,2025,974302,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Bedrijfswinst 2025 0.974m (was 1.522m); tick1254
+bud_ago_fin_income_2025,ag_oostende,2025,120003,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Financiele opbrengsten 2025 0.120m (kap/int-sub 54.830); tick1254
+bud_ago_fin_cost_2025,ag_oostende,2025,219015,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Financiele kosten 2025 0.219m; tick1254
+bud_ago_pnl_2025,ag_oostende,2025,960654,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Winst 2025 0.961m no dividend (was 1.332m); tick1254
+bud_ago_vte_avg_2025,ag_oostende,2025,31.9,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Gemiddeld VTE 2025 31.9 (was 22.2); tick1254
+bud_ago_vte_ye_2025,ag_oostende,2025,32.8,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,YE VTE 2025 32.8 (30 FT + 5 PT bedienden); tick1254
+bud_ago_capex_2025,ag_oostende,2025,690133,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,MVA aanschaffingen 2025 0.690m; tick1254
+bud_ago_board_remun_2025,ag_oostende,2025,7607,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Bestuursvergoedingen 2025 som 7.607 (9 namen); tick1254
+bud_ago_impairment_2024,ag_oostende,2025,1000000,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Waardevermindering vorderingen 2024 1.000m vs 2025 0; tick1254
+bud_ago_cap_int_sub_2025,ag_oostende,2025,54830,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Kapitaal- en interestsubsidies 2025 54.830; tick1254
