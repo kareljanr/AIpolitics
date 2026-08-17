@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1250** (2026-08-17)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1241-1250: Zorg Leuven · ZOG Genk · Zorg Stekene · Orion · Dodoens · **Zorgbedrijf Antwerpen** · Rivierenland · Meetjesland zorg · Sakura · **Welzijnsband Meetjesland** 10-muni welfare |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1241-1250 is VL residual dual L5 (not near-complete of 348bn):** **Zorgbedrijf Antwerpen** AFM **−18.87m** gecorr **−22.09m** BBR **−13.26m** fin debt **219.9m** city sub **51.4m** personnel **243.8m** · **Dodoens** equity **−18.88m** cum **−20.27m** pension **17.3m** · Rivierenland debt **69.1m** OCMW cut **4.0m** · Zorg Leuven city toelage **20.3m** cum **−30.6m** · **Welzijnsband Meetjesland** member fee **1.08m** equity **−8.8k** AFM **0** · prior Waasland/AGSL/Edegem stack retained |
+| **E. FOI-ready gaps** | **~893** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~941** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg dual debt/AFM NEG + leasing/city-loan/erfpacht shells** (**NEW Zorgbedrijf Antwerpen** AFM **−EUR18.87m** debt **EUR220m** city sub **EUR51.4m** · **Dodoens** equity **−EUR18.88m** · Rivierenland **EUR69.1m** · Zorg Leuven toelage **EUR20.3m** · **Welzijnsband** fee **EUR1.08m** AFM **0** · prior Waasland AFM **−EUR3.57m** / AGSL BBR **−EUR10.88m** / Hasselt ~EUR95–103m stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1250)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~33311 |
+| commitments.csv | ~4538 |
+| leaderboard.csv | ~6718 |
+| entities.csv | ~978 |
+| sources.csv | ~2167 |
+| FOI ready | ~893 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~941 |
+| research_queue open | rq_116 deferred + rq_1251 hole-fill after progress |
+
+### What improved since tick 1240
+
+- **VL residual dual JR2025 zorg/welfare Entity II (tick1241-1249):** Zorg Leuven city toelage **20.3m** cum **−30.6m** · ZOG Genk debt **29.7m** gecorr **−1.18m** · Zorg Stekene toelage **2.11m** · Orion AFM **−0.64m** · **Dodoens** equity **−18.88m** pension **17.3m** · **Zorgbedrijf Antwerpen** mega AFM **−18.87m** debt **220m** city sub **51.4m** · Rivierenland OCMW cut **4.0m** debt **69.1m** · Meetjesland zorg OCMW sub JUMP **4.81m** · Sakura OCMW toelage JUMP **1.43m**.
+- **NEW (tick1250):** **Welzijnsband Meetjesland** 10-muni OCMW-vereniging (KBO 0871.009.916) assets **0.698m** · **equity −8.810 NEG** · **cum loss −55.139** · **AFM 0 / gecorr 0** designed-to-zero · BBR **30.576** · ledenbijdrage **1.083m** (+12%) · specifieke werkingssub **0.773m** · personnel **1.274m** · PnL **+12.645** flip · cash **0.446m** · fin debt **0** · wijk-werk 4th year not covering · FOI member-fee matrix ready.
+- **Dual map themes:** **mega city dual care** (Antwerpen 220m debt / 51m sub) · **pension-shell NEG equity** (Dodoens) · **OCMW toelage JUMP / cut** (Sakura / Rivierenland / Meetjesland zorg) · **designed-to-zero AFM welfare association** (Welzijnsband) · prior multi-muni zorg stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
 ## Snapshot at **tick 1240** (2026-08-08)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **1240** (2026-08-08) · **~6648** leaderboard rows  
+**As-of:** tick **1250** (2026-08-17) · **~6718** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,9 +27,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** · **AGB dual AFM NEG + debt + leasing/city-loan shells** (**NEW Zorgpunt Waasland** AFM **−€3.57m** cum loss **−€12.3m** personnel **€105m** · **AGSL Leuven** BBR **−€10.88m** · **AGB Edegem** debt **€3.74m** · Hasselt ~€95–103m · Vilvoorde €8.06m · Kinrooi cum −€2.00m · Mortsel €9.57m · Duffel €9.00m · AGSO KH €78.1m stack) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** · **AGB/zorg dual AFM NEG + debt + leasing/city-loan shells** (**NEW Zorgbedrijf Antwerpen** AFM **−€18.87m** debt **€220m** city sub **€51.4m** personnel **€244m** · **Dodoens** equity **−€18.88m** cum **−€20.3m** · Rivierenland **€69.1m** · Zorg Leuven toelage **€20.3m** · **Welzijnsband Meetjesland** fee **€1.08m** AFM **0** equity **−€8.8k** · prior Waasland AFM **−€3.57m** / AGSL BBR **−€10.88m** / Hasselt ~€95–103m stack) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market.
 
-**Change vs tick 1230:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reportAc #2–10). **Major NEW residual 1231–1240 (off pure top10 / dual):** **Zorgpunt Waasland** multi-muni zorg AFM **−EUR3.57m** cum loss **−EUR12.3m** PnL **−EUR5.14m** personnel **EUR105.4m** werkingssub **EUR44.5m** cash DROP · **AGSL Leuven** BBR **−EUR10.88m** ST non-ruil **EUR16.2m** · **AGB Edegem** gecorr AFM **−EUR0.032m** debt **EUR3.74m** prijssub **EUR0.244m** · Wetteren debt **EUR9.97m** AFM NEG · Assenede equity thin full div. Gain is **multi-muni zorg dual + urban AGB BBR DEEP NEG + patrim erfpacht shells**.
+**Change vs tick 1240:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 1241–1250 (off pure top10 / dual):** **Zorgbedrijf Antwerpen** mega care AFM **−EUR18.87m** gecorr **−EUR22.09m** BBR **−EUR13.26m** fin debt **EUR219.9m** city sub **EUR51.4m** personnel **EUR243.8m** · **Dodoens** equity **−EUR18.88m** cum **−EUR20.27m** pension **EUR17.3m** · Rivierenland debt **EUR69.1m** OCMW cut **EUR4.0m** · Zorg Leuven city toelage **EUR20.3m** cum **−EUR30.6m** · **Welzijnsband Meetjesland** 10-muni fee **EUR1.08m** AFM **0** equity **−EUR8.8k**. Gain is **mega city dual care + pension-shell NEG equity + designed-zero AFM welfare association**.
 
 ### Just outside top 10 (often relevant)
 
@@ -39,12 +39,12 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | — | `lb_owv_sub_snowball_27bn_2083` | **stock-as-ann** | **8.55** | STOCK filtered eoy2083 |
 | — | `lb_vl_gsc_pv_legacy_7_078bn` | **~708 m** class | **8.05** | GSC PV legacy oversubsidy |
 | — | `lb_fed_consultancy_2_5bn_coa` | **~842 m/yr** | **8.00** | CoA 2.525bn/3y |
-| — | `lb_zpw_cum_loss_12_3m_2025` | **12.3 m stock** | **~high dual** | **NEW 1240** Zorgpunt cum loss DEEP |
-| — | `lb_zpw_afm_neg_3_57m_2025` | **3.57 m** | **~high dual** | **NEW 1240** Zorgpunt AFM NEG |
-| — | `lb_zpw_personnel_105m_2025` | **105.4 m** | **~high dual** | **NEW 1240** multi-muni zorg payroll |
-| — | AGSL Leuven BBR class | **10.88 m stock** | **~high dual** | **1237** BBR DEEP NEG |
-| — | `lb_agbvv_prijssub_1_91m_2025` | **1.91 m** | **~6.5** | AG Vilvoorde prijssub tax shell |
-| — | Hasselt AGB debt class | **~95–103 m stock** | **~high dual** | MJP+YE2024 risk |
+| — | `lb_zba_afm_neg_18_9m_2025` | **18.9 m** | **~high dual** | **NEW 1246** Zorgbedrijf Antwerpen AFM NEG |
+| — | `lb_zba_fin_debt_220m_2025` | **220 m stock** | **~high dual** | **NEW 1246** mega care debt |
+| — | `lb_dodoens_equity_neg_18_9m_2025` | **18.9 m stock** | **~high dual** | **NEW 1245** pension-shell NEG equity |
+| — | `lb_zpw_cum_loss_12_3m_2025` | **12.3 m stock** | **~high dual** | 1240 Zorgpunt cum loss DEEP |
+| — | AGSL Leuven BBR class | **10.88 m stock** | **~high dual** | 1237 BBR DEEP NEG |
+| — | `lb_wzb_member_fee_1_08m_2025` | **1.08 m** | **~5.1** | **NEW 1250** 10-muni welfare fee |
 
 ### High-absurdity shortlist (not pure annual cost rank)
 
@@ -52,6 +52,8 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 |----|----:|------|
 | `lb_metro3_overrun_477pct` | **9.5** | Metro3 cost +477pct |
 | `lb_vl_wassalon_podcast` | **9.5** | VL gelijke kansen vodcast |
-| `lb_zpw_cum_loss_12_3m_2025` | **8.5** | **NEW** multi-muni zorg cum loss DEEP |
-| `lb_zpw_pnl_neg_5_14m_2025` | **8.2** | **NEW** PnL flip under mother dual |
+| `lb_dodoens_equity_neg_18_9m_2025` | **8.5** | **NEW** pension-shell equity DEEP NEG |
+| `lb_zba_afm_neg_18_9m_2025` | **8.5** | **NEW** mega city dual care AFM NEG |
+| `lb_wzb_afm_zero_2025` | **7.0** | **NEW** designed-to-zero AFM 10-muni welfare |
+| `lb_zpw_cum_loss_12_3m_2025` | **8.5** | multi-muni zorg cum loss DEEP |
 | `lb_agbvv_bbr_neg_0_45m_2025` | **8** | Vilvoorde BBR NEG + full div strip |

@@ -33285,3 +33285,28 @@ bud_sak_interest_2025,zorgbedrijf_sakura,2025,154063,,,bbc_jr_realized,src_zorgb
 bud_sak_costs_2025,zorgbedrijf_sakura,2025,25383003,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,J5 costs total 25.383m; tick1249
 bud_sak_provisions_2025,zorgbedrijf_sakura,2025,1323866,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Voorzieningen KT YE2025 1.324m; tick1249
 bud_sak_pnl_ex_toelage_2025,zorgbedrijf_sakura,2025,-1638128,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,PnL zonder OCMW toelage -1.638m (entity note p.92); tick1249
+bud_wzb_assets_2025,welzijnsband_meetjesland,2025,698345,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J4 assets 0.698m DROP (was 0.767m); tick1250
+bud_wzb_cash_2025,welzijnsband_meetjesland,2025,446036,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J4 liquide middelen 0.446m; tick1250
+bud_wzb_equity_2025,welzijnsband_meetjesland,2025,-8810,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J4 nettoactief -8.810 NEG (was -22.155); tick1250
+bud_wzb_cum_loss_2025,welzijnsband_meetjesland,2025,-55139,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J4 gecumuleerd tekort -55.139 (was -67.784); tick1250
+bud_wzb_fin_debt_2025,welzijnsband_meetjesland,2025,0,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J4 financiele schulden 0; tick1250
+bud_wzb_st_debt_2025,welzijnsband_meetjesland,2025,704406,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J4 ST debt 0.704m (ruil+niet-ruil); tick1250
+bud_wzb_st_nonruil_2025,welzijnsband_meetjesland,2025,305048,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J4 ST niet-ruil 0.305m; tick1250
+bud_wzb_st_recv_2025,welzijnsband_meetjesland,2025,233807,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J4 ST vorderingen 0.234m; tick1250
+bud_wzb_fva_2025,welzijnsband_meetjesland,2025,18503,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J4 FVA IGS 18.503; tick1250
+bud_wzb_afm_2025,welzijnsband_meetjesland,2025,0,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J2 AFM 0 designed-to-zero; tick1250
+bud_wzb_gecorr_afm_2025,welzijnsband_meetjesland,2025,0,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J2 gecorr AFM 0; tick1250
+bud_wzb_bbr_2025,welzijnsband_meetjesland,2025,30576,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J2 beschikbaar BBR 30.576; tick1250
+bud_wzb_budget_2025,welzijnsband_meetjesland,2025,700,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J2 budgettair resultaat +700; tick1250
+bud_wzb_expl_2025,welzijnsband_meetjesland,2025,0,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J2 exploitatierekening 0 (ont=uit 2.123m); tick1250
+bud_wzb_pnl_2025,welzijnsband_meetjesland,2025,12645,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J5 PnL +12.645 FLIP (was -13.822); tick1250
+bud_wzb_op_pnl_2025,welzijnsband_meetjesland,2025,10112,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J5 operationeel +10.112; tick1250
+bud_wzb_personnel_2025,welzijnsband_meetjesland,2025,1274187,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J5 bezoldigingen 1.274m; tick1250
+bud_wzb_werkingssub_2025,welzijnsband_meetjesland,2025,773082,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J5 specifieke werkingssub 0.773m; tick1250
+bud_wzb_member_fee_2025,welzijnsband_meetjesland,2025,1083308,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,Note: ledenbijdrage afnemers 1.083m (+12.04%); tick1250
+bud_wzb_costs_2025,welzijnsband_meetjesland,2025,2110035,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J5 costs 2.110m; tick1250
+bud_wzb_revenue_2025,welzijnsband_meetjesland,2025,2122680,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J5 opbrengsten 2.123m; tick1250
+bud_wzb_werking_rev_2025,welzijnsband_meetjesland,2025,1275854,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J5 opbrengsten uit werking 1.276m; tick1250
+bud_wzb_goods_2025,welzijnsband_meetjesland,2025,840736,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J5 goederen en diensten 0.841m; tick1250
+bud_wzb_overig_netto_2025,welzijnsband_meetjesland,2025,46329,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J4 overig nettoactief 46.329 JUMP; tick1250
+bud_wzb_expl_uit_2025,welzijnsband_meetjesland,2025,2122680,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J3 exploitatie uitgaven 2.123m vs budget 2.622m; tick1250

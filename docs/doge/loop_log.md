@@ -17290,3 +17290,10 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources/entities/budgets+45/commitments+7/leaderboard+7 + FOI ready `gap_sakura_ocmw_toelage_1_43m_pnl_neg_0_21m_fin_debt_5_66m_l5` (not sent); rq_1249=done; spawn rq_1250.
 - Next: rq_1250 residual dual L5 VL JR2025 hole_fill.
 
+
+### Tick 1250 - 2026-08-17 - rq_1250 Welzijnsband Meetjesland dual residual + progress@1250
+- Unit: Welzijnsband Meetjesland WV JR2025 10-muni OCMW-vereniging Entity II (KBO 0871.009.916; 93p text primary; members Aalter/Assenede/Eeklo/Evergem/Kaprijke/Lievegem/Lochristi/Maldegem/Sint-Laureins/Zelzate). Distinct from Zorgbedrijf Meetjesland (tick 1248).
+- EUR strong: assets **0.698m**; equity **-8.810k** NEG; cum loss **-55.139k**; AFM **0** / gecorr **0** designed-to-zero; BBR **+30.576k**; ledenbijdrage **1.083m** (+12.04%); specifieke werkingssub **0.773m**; personnel **1.274m**; PnL flip **+12.645k**; cash **0.446m**; fin debt **0**; wijk-werk 4th year not covering (RSE shift **11.618k**).
+- CSVs: sources/entities/budgets+25/commitments+7/leaderboard+7 + FOI ready `gap_wzb_equity_neg_8_8k_cum_loss_55k_member_fee_1_08m_sub_0_77m_afm_zero_l5` (not sent); rq_1250=done; spawn rq_1251; ticks=1250.
+- Progress@1250: refreshed progress_every_10_ticks.md + doge_waste_top10_current.md. Layers A 100 / B 100 / C ~99 / D ~74-88 (not near-complete of 348bn) / E ~893 ready. Pure annual waste top10 **stable** vs 1240 (GIP/fossil/cars/cheque/reporté). Dual off-top10 adds Antwerpen AFM -18.87m / Dodoens equity -18.88m / Welzijnsband fee 1.08m AFM 0.
+- Next: rq_1251 residual dual L5 VL JR2025 hole_fill.
