@@ -34277,3 +34277,43 @@ bud_kraainem_hvz_2025,city_kraainem,2025,894686.94,,,executed,src_kraainem_jr202
 bud_kraainem_igs_sub_2025,city_kraainem,2025,798689.52,,,executed,src_kraainem_jr2025_bbc,strong,T2 IGS Interza werksub 0.798690m; tick1284
 bud_kraainem_ocmw_int_2025,city_kraainem,2025,1403307.63,,,executed,src_kraainem_jr2025_bbc,strong,T5 city tussenkomst OCMW tekort 1.403308m; tick1284
 bud_kraainem_agb_sub_2025,city_kraainem,2025,0,,,executed,src_kraainem_jr2025_bbc,strong,J4 EVA FVA 0; T2 AGB werksub 0; consol = GE+OCMW; tick1284
+bud_hh_assets_2025,city_houthalen_helchteren,2025,181571902,,,executed,src_hh_jr2025_bbc,strong,J4 consol assets 181.571902m vs 174.406210m; tick1285
+bud_hh_assets_2024,city_houthalen_helchteren,2024,174406210,,,executed,src_hh_jr2025_bbc,strong,J4 YE2024 assets 174.406210m; tick1285
+bud_hh_cash_2025,city_houthalen_helchteren,2025,4828159,,,executed,src_hh_jr2025_bbc,strong,J4 cash 4.828159m DROP vs 6.041237m; tick1285
+bud_hh_fva_2025,city_houthalen_helchteren,2025,45613559.22,,,executed,src_hh_jr2025_bbc,strong,J4 FVA 45.613559m EVA 0.980 IGS 40.120 OCMW-ver 0.670 other 3.843; tick1285
+bud_hh_eva_2025,city_houthalen_helchteren,2025,980000.0,,,executed,src_hh_jr2025_bbc,strong,J4 EVA FVA 0.980000m = AGB MP 0.900 + AGB Sport 0.080; tick1285
+bud_hh_igs_2025,city_houthalen_helchteren,2025,40120429.26,,,executed,src_hh_jr2025_bbc,strong,J4 IGS FVA 40.120429m reval +0.020544m; tick1285
+bud_hh_mva_2025,city_houthalen_helchteren,2025,101146928.37,,,executed,src_hh_jr2025_bbc,strong,J4 MVA 101.146928m leasing 12.303m; tick1285
+bud_hh_leasing_2025,city_houthalen_helchteren,2025,12302838.13,,,executed,src_hh_jr2025_bbc,strong,J4 leasing 2.528+9.775=12.303m; tick1285
+bud_hh_fin_debt_2025,city_houthalen_helchteren,2025,17365513,,,executed,src_hh_jr2025_bbc,strong,T4 fin debt 17.365513m (LT 15.041 + ST due 1.774 + ST 0.550) vs 18.008m; tick1285
+bud_hh_fin_debt_lt_2025,city_houthalen_helchteren,2025,15041134,,,executed,src_hh_jr2025_bbc,strong,J4/T4 LT fin debt 15.041134m; tick1285
+bud_hh_fin_debt_st_2025,city_houthalen_helchteren,2025,550000,,,executed,src_hh_jr2025_bbc,strong,J4/T4 ST fin 0.550000m (was 0; thesaurie FOI); tick1285
+bud_hh_pension_2025,city_houthalen_helchteren,2025,3687588,,,executed,src_hh_jr2025_bbc,strong,J4 pension LT 3.687588m JUMP vs 2.496896m; tick1285
+bud_hh_equity_2025,city_houthalen_helchteren,2025,148675726.23,,,executed,src_hh_jr2025_bbc,strong,J4/T5 nettoactief 148.675726m (city 161.568 / OCMW -12.892); tick1285
+bud_hh_ocmw_equity_2025,city_houthalen_helchteren,2025,-12892243.59,,,executed,src_hh_jr2025_bbc,strong,T5 OCMW nettoactief -12.892244m NEG; tick1285
+bud_hh_cum_pnl_2025,city_houthalen_helchteren,2025,19528444.74,,,executed,src_hh_jr2025_bbc,strong,T5 cum P&L 19.528445m; tick1285
+bud_hh_reval_2025,city_houthalen_helchteren,2025,28824.33,,,executed,src_hh_jr2025_bbc,strong,T5 herwaarderingsreserve 0.028824m (IGS chg +0.020544); tick1285
+bud_hh_expl_2025,city_houthalen_helchteren,2025,4380653,,,executed,src_hh_jr2025_bbc,strong,J2/T2 expl +4.380653m (J3 city +7.341 / OCMW -2.960); tick1285
+bud_hh_expl_ontv_2025,city_houthalen_helchteren,2025,59872254,,,executed,src_hh_jr2025_bbc,strong,J2 expl ontv 59.872254m; tick1285
+bud_hh_expl_uitg_2025,city_houthalen_helchteren,2025,55491601,,,executed,src_hh_jr2025_bbc,strong,J2 expl uitg 55.491601m; tick1285
+bud_hh_invest_2025,city_houthalen_helchteren,2025,-5440832,,,executed,src_hh_jr2025_bbc,strong,J2/T2 invest -5.440832m (ontv 6.716 / uitg 12.157 vs MJP 28.195); tick1285
+bud_hh_invest_uitg_2025,city_houthalen_helchteren,2025,12157266,,,executed,src_hh_jr2025_bbc,strong,J2 invest uitg 12.157266m vs MJP 28.195m; tick1285
+bud_hh_bbr_2025,city_houthalen_helchteren,2025,-1731800,,,executed,src_hh_jr2025_bbc,strong,J2 BBR year -1.731800m vs MJP +5.673m; tick1285
+bud_hh_avail_2025,city_houthalen_helchteren,2025,3867091,,,executed,src_hh_jr2025_bbc,strong,J2 avail BBR 3.867091m (onbeschikbaar 0.320m); tick1285
+bud_hh_afm_2025,city_houthalen_helchteren,2025,3194894,,,executed,src_hh_jr2025_bbc,strong,J2 AFM +3.194894m; tick1285
+bud_hh_gecorr_2025,city_houthalen_helchteren,2025,3461096,,,executed,src_hh_jr2025_bbc,strong,J2 gecorr AFM +3.461096m; consol +AGB +2.048m; tick1285
+bud_hh_new_loans_2025,city_houthalen_helchteren,2025,514138,,,executed,src_hh_jr2025_bbc,strong,T4 new loans 0.514138m leasing; MJP 21.474m not drawn; tick1285
+bud_hh_afl_2025,city_houthalen_helchteren,2025,1706861,,,executed,src_hh_jr2025_bbc,strong,T2/T4 periodieke aflossingen 1.706861m; tick1285
+bud_hh_pnl_2025,city_houthalen_helchteren,2025,-277212.6,,,executed,src_hh_jr2025_bbc,strong,J5/T5 PnL -0.277213m (city +3.183 / OCMW -3.460); tick1285
+bud_hh_pers_2025,city_houthalen_helchteren,2025,28694821,,,executed,src_hh_jr2025_bbc,strong,J5/T2 personeel 28.694821m vs 27.499m; VTE paid 261.70; tick1285
+bud_hh_fiscal_2025,city_houthalen_helchteren,2025,28036671,,,executed,src_hh_jr2025_bbc,strong,J5/T2 fiscal 28.036671m (OV 11.670 + APB 10.553 + GAS5 2.110); tick1285
+bud_hh_apb_2025,city_houthalen_helchteren,2025,10552956,,,executed,src_hh_jr2025_bbc,strong,T2 APB 10.552956m; tick1285
+bud_hh_gemfonds_2025,city_houthalen_helchteren,2025,10886347,,,executed,src_hh_jr2025_bbc,strong,T2 gemeentefonds 10.886347m; tick1285
+bud_hh_police_2025,city_houthalen_helchteren,2025,5654923,,,executed,src_hh_jr2025_bbc,strong,T2 politiezone Carma 5.654923m (werking 3.608 + GAS5 1.966 + NAC 0.081); tick1285
+bud_hh_hvz_2025,city_houthalen_helchteren,2025,1280724,,,executed,src_hh_jr2025_bbc,strong,T2 HVZ Oost-Limburg 1.280724m; tick1285
+bud_hh_igs_sub_2025,city_houthalen_helchteren,2025,1513883,,,executed,src_hh_jr2025_bbc,strong,T2 IGS werksub 1.513883m (Limburg.net 1.423m); tick1285
+bud_hh_agb_sub_2025,city_houthalen_helchteren,2025,578868,,,executed,src_hh_jr2025_bbc,strong,T2 AGB prijssub 0.578868m (Sport 0.373 / MP 0.206) vs 1.287m; tick1285
+bud_hh_dividend_2025,city_houthalen_helchteren,2025,2311043,,,executed,src_hh_jr2025_bbc,strong,doc/BBC dividends 2.311043m Fluvius+NUHMA; tick1285
+bud_hh_school_inv_2025,city_houthalen_helchteren,2025,4808669,,,executed,src_hh_jr2025_bbc,strong,T3 school t Centrum 2025 uitg 4.808669m / AGION 3.283656m; tick1285
+bud_hh_waarborg_2025,city_houthalen_helchteren,2025,19824181.05,,,executed,src_hh_jr2025_bbc,strong,BBC waarborgen 19.824181m (AGB MP 17.403m); tick1285
+bud_hh_consol_avail_2025,city_houthalen_helchteren,2025,7241144,,,executed,src_hh_jr2025_bbc,strong,J2 consol avail +AGB 7.241144m; tick1285
