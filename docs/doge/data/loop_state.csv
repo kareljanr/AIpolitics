@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-18T00:10:00Z,rq_1337,1337,no,tick1337 WV Sleutelzorg leftover zorg residual; KBO 0736.364.909; no fetchable JR2025 BBC/NBB PDF; no sourced euros; FOI ready; next rq_1338 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-18T00:45:00Z,rq_1338,1338,no,tick1338 WV Zorgband leftover zorg residual; KBO 0698.817.989; live JR2025 BBC PDF; sourced euros assets 61.865m cash 1.690m PnL -5.829m AFM -0.356m; FOI ready; next rq_1339 residual dual L5 VL; continuous hole_fill

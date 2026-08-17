@@ -35642,3 +35642,40 @@ bud_weld_werksub_spec_2025,zorg_weldenderend,2025,26054,,,executed,src_weld_jr20
 bud_weld_ops_rev_2025,zorg_weldenderend,2025,49678,,,executed,src_weld_jr2025_pdf,strong,2025 J5 opbrengsten uit de werking 49678; tick1336; primary BBC J5
 bud_weld_other_ops_2025,zorg_weldenderend,2025,985,,,executed,src_weld_jr2025_pdf,strong,2025 J5 andere operationele opbrengsten 985; tick1336; primary BBC J5
 bud_weld_members_2025,zorg_weldenderend,2025,7,,,executed,src_weld_jr2025_pdf,strong,2025 deelgenoten 7 (Berlare Buggenhout Laarne Waasmunster Wichelen Lebbeke SG-Waas); tick1336; primary BBC narrative
+bud_zbls_assets_2025,zorg_zbls,2025,61864567,,,executed,src_zbls_jr2025_pdf,strong,2025 assets 61864567 was 63217370; tick1338; primary BBC J4
+bud_zbls_cash_2025,zorg_zbls,2025,1689510,,,executed,src_zbls_jr2025_pdf,strong,2025 cash 1689510 DROP vs 2615177; tick1338; primary BBC J4
+bud_zbls_st_recv_2025,zorg_zbls,2025,7884494,,,executed,src_zbls_jr2025_pdf,strong,2025 ST recv 7884494 (ruil 6193417 + niet-ruil 1691077); tick1338; primary BBC J4
+bud_zbls_st_recv_ruil_2025,zorg_zbls,2025,6193417,,,executed,src_zbls_jr2025_pdf,strong,2025 ST recv ruil 6193417 JUMP vs 4489710; FOI counterparties; tick1338; primary BBC J4
+bud_zbls_fixed_2025,zorg_zbls,2025,52290564,,,executed,src_zbls_jr2025_pdf,strong,2025 fixed 52290564 (FVA 8750 + MVA 52193238 + IVA 88576); tick1338; primary BBC J4
+bud_zbls_fva_2025,zorg_zbls,2025,8750,,,executed,src_zbls_jr2025_pdf,strong,2025 FVA 8750 all IGS (EVA 0); tick1338; primary BBC J4
+bud_zbls_mva_2025,zorg_zbls,2025,52193238,,,executed,src_zbls_jr2025_pdf,strong,2025 MVA 52193238 was 53420583; tick1338; primary BBC J4
+bud_zbls_lease_2025,zorg_zbls,2025,43751520,,,executed,src_zbls_jr2025_pdf,strong,2025 MVA leasing 43751520 vs T4 fin debt 2879677; FOI qualify; tick1338; primary BBC J4
+bud_zbls_iva_2025,zorg_zbls,2025,88576,,,executed,src_zbls_jr2025_pdf,strong,2025 IVA 88576 was 78239; tick1338; primary BBC J4
+bud_zbls_debt_2025,zorg_zbls,2025,16098339,,,executed,src_zbls_jr2025_pdf,strong,2025 schulden 16098339 (ST 11729645 + LT 4368694); tick1338; primary BBC J4
+bud_zbls_st_debt_2025,zorg_zbls,2025,11729645,,,executed,src_zbls_jr2025_pdf,strong,2025 ST 11729645 (voorz 3276040 + non-fin ruil 7137310 + niet-ruil 853183 + ST due 463113); tick1338; primary BBC J4
+bud_zbls_fin_debt_2025,zorg_zbls,2025,2879677,,,executed,src_zbls_jr2025_pdf,strong,2025 fin debt T4 2879677 (LT 2416565 + ST due 463113); new loans 187735; tick1338; primary BBC T4
+bud_zbls_equity_2025,zorg_zbls,2025,45766228,,,executed,src_zbls_jr2025_pdf,strong,2025 nettoactief 45766228 was 48373463; tick1338; primary BBC J4
+bud_zbls_cum_surplus_2025,zorg_zbls,2025,-18054961,,,executed,src_zbls_jr2025_pdf,strong,2025 cum surplus -18054961 was -14697672; tick1338; primary BBC J4
+bud_zbls_capsub_2025,zorg_zbls,2025,5335657,,,executed,src_zbls_jr2025_pdf,strong,2025 kapitaalssubsidies 5335657 was 5317094; tick1338; primary BBC J4
+bud_zbls_other_equity_2025,zorg_zbls,2025,58485531,,,executed,src_zbls_jr2025_pdf,strong,2025 overig nettoactief 58485531 was 57754041; tick1338; primary BBC J4
+bud_zbls_expl_in_2025,zorg_zbls,2025,75908057,,,executed,src_zbls_jr2025_pdf,strong,2025 expl ontv 75908057; tick1338; primary BBC J2
+bud_zbls_expl_out_2025,zorg_zbls,2025,75813812,,,executed,src_zbls_jr2025_pdf,strong,2025 expl uitg 75813812; tick1338; primary BBC J2
+bud_zbls_expl_2025,zorg_zbls,2025,94244,,,executed,src_zbls_jr2025_pdf,strong,2025 expl saldo +94244; tick1338; primary BBC J2
+bud_zbls_invest_2025,zorg_zbls,2025,-776427,,,executed,src_zbls_jr2025_pdf,strong,2025 invest saldo -776427 (uitg 1563790 / ontv 787363); tick1338; primary BBC J2
+bud_zbls_fin_2025,zorg_zbls,2025,-310027,,,executed,src_zbls_jr2025_pdf,strong,2025 fin saldo -310027 (uitg 449892 / ontv 139865); tick1338; primary BBC J2
+bud_zbls_bbr_2025,zorg_zbls,2025,-992210,,,executed,src_zbls_jr2025_pdf,strong,2025 BBR year -992210; tick1338; primary BBC J2
+bud_zbls_cum_bbr_2025,zorg_zbls,2025,1583511,,,executed,src_zbls_jr2025_pdf,strong,YE2025 cum/beschikbaar BBR 1583511 was 2575721; tick1338; primary BBC J2
+bud_zbls_afm_2025,zorg_zbls,2025,-355648,,,executed,src_zbls_jr2025_pdf,strong,2025 AFM -355648; tick1338; primary BBC J2
+bud_zbls_gecorr_afm_2025,zorg_zbls,2025,-157102,,,executed,src_zbls_jr2025_pdf,strong,2025 gecorr AFM -157102; tick1338; primary BBC J2
+bud_zbls_pnl_2025,zorg_zbls,2025,-5829218,,,executed,src_zbls_jr2025_pdf,strong,2025 PnL -5829218 (ops -6570844 / fin +741627); tick1338; primary BBC J5
+bud_zbls_pers_2025,zorg_zbls,2025,53163724,,,executed,src_zbls_jr2025_pdf,strong,2025 J5/T2 pers 53163724 (niet-vast 50973879 + andere 2189844); VTE 770.30; tick1338; primary BBC
+bud_zbls_vte_2025,zorg_zbls,2025,770.30,,,executed,src_zbls_jr2025_pdf,strong,2025 VTE 770.30 / 1265 koppen (was 641.42 / 1070); Lochristi instap; tick1338; primary BBC narrative
+bud_zbls_goods_2025,zorg_zbls,2025,20765510,,,executed,src_zbls_jr2025_pdf,strong,2025 J5=T2 goederen/diensten 20765510; tick1338; primary BBC J5/T2
+bud_zbls_werksub_in_2025,zorg_zbls,2025,17336409,,,executed,src_zbls_jr2025_pdf,strong,2025 J5=T2 werksub ontv 17336409 all spec; granted 0; tick1338; primary BBC J5/T2
+bud_zbls_werksub_vl_2025,zorg_zbls,2025,13584576,,,executed,src_zbls_jr2025_pdf,strong,2025 T2 spec werksub VL 13584576; tick1338; primary BBC T2
+bud_zbls_werksub_fed_2025,zorg_zbls,2025,3636645,,,executed,src_zbls_jr2025_pdf,strong,2025 T2 spec werksub fed 3636645; tick1338; primary BBC T2
+bud_zbls_tussenkomst_2025,zorg_zbls,2025,4271257,,,executed,src_zbls_jr2025_pdf,strong,2025 J5/T2 tussenkomst derden 4271257 vs narrative 4053126; dual OCMW FOI; tick1338; primary BBC J5/T2
+bud_zbls_ops_rev_2025,zorg_zbls,2025,53164768,,,executed,src_zbls_jr2025_pdf,strong,2025 J5 opbrengsten uit de werking 53164768; tick1338; primary BBC J5
+bud_zbls_other_ops_2025,zorg_zbls,2025,1107037,,,executed,src_zbls_jr2025_pdf,strong,2025 J5 andere operationele opbrengsten 1107037; tick1338; primary BBC J5
+bud_zbls_new_loans_2025,zorg_zbls,2025,187735,,,executed,src_zbls_jr2025_pdf,strong,2025 T4 nieuwe leningen 187735; tick1338; primary BBC T4
+bud_zbls_members_2025,zorg_zbls,2025,6,,,executed,src_zbls_jr2025_pdf,strong,2025 deelgenoten 6 (Merelbeke-Melle Destelbergen Laarne Nazareth-De Pinte Lochristi Oosterzele); tick1338; primary BBC/bestuur
