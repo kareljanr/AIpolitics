@@ -35610,3 +35610,35 @@ bud_bvk_st_prov_2025,zorg_bvk,2025,22572,,,executed,src_bvk_jr2025_pdf,strong,20
 bud_bvk_cash_drop_2025,zorg_bvk,2025,102511,,,executed,src_bvk_jr2025_pdf,strong,2025 cash drop 125237-22726=102511; FOI destination; tick1335; primary BBC J4
 bud_bvk_st_recv_jump_2025,zorg_bvk,2025,200936,,,executed,src_bvk_jr2025_pdf,strong,2025 ST recv jump 346124-145188=200936; FOI counterparties; tick1335; primary BBC J4
 bud_bvk_panden_2025,zorg_bvk,2025,29,,,executed,src_bvk_jr2025_pdf,strong,2025 YE panden 29 (BBC beleidsevaluatie); tick1335; primary BBC narrative
+bud_weld_assets_2025,zorg_weldenderend,2025,142356,,,executed,src_weld_jr2025_pdf,strong,2025 assets 142356 was 151482; tick1336; primary BBC J4
+bud_weld_cash_2025,zorg_weldenderend,2025,55272,,,executed,src_weld_jr2025_pdf,strong,2025 cash 55272 was 54596; tick1336; primary BBC J4
+bud_weld_st_recv_2025,zorg_weldenderend,2025,10657,,,executed,src_weld_jr2025_pdf,strong,2025 ST recv 10657 (ruil 2640 + niet-ruil 8017); tick1336; primary BBC J4
+bud_weld_st_recv_nietruil_2025,zorg_weldenderend,2025,8017,,,executed,src_weld_jr2025_pdf,strong,2025 ST recv niet-ruil 8017 unchanged vs 2024; FOI counterparties; tick1336; primary BBC J4
+bud_weld_stock_2025,zorg_weldenderend,2025,3000,,,executed,src_weld_jr2025_pdf,strong,2025 voorraden 3000 unchanged; tick1336; primary BBC J4
+bud_weld_fixed_2025,zorg_weldenderend,2025,73426,,,executed,src_weld_jr2025_pdf,strong,2025 fixed 73426 (FVA 1250 + MVA 72176 + IVA 0); tick1336; primary BBC J4
+bud_weld_fva_2025,zorg_weldenderend,2025,1250,,,executed,src_weld_jr2025_pdf,strong,2025 FVA 1250 all IGS (EVA 0); 5 aandelen Creat-TMVS 25pct; tick1336; primary BBC J4/T5
+bud_weld_mva_2025,zorg_weldenderend,2025,72176,,,executed,src_weld_jr2025_pdf,strong,2025 MVA 72176 was 81923 (install 2578 + rollend 69599); tick1336; primary BBC J4
+bud_weld_debt_2025,zorg_weldenderend,2025,20370,,,executed,src_weld_jr2025_pdf,strong,2025 schulden 20370 all ST non-fin ruil was 32096; tick1336; primary BBC J4
+bud_weld_fin_debt_2025,zorg_weldenderend,2025,0,,,executed,src_weld_jr2025_pdf,strong,2025 fin debt T4 0 (LT 0 + ST 0; no loans); tick1336; primary BBC T4
+bud_weld_equity_2025,zorg_weldenderend,2025,121986,,,executed,src_weld_jr2025_pdf,strong,2025 nettoactief 121986 was 119386; tick1336; primary BBC J4
+bud_weld_cum_surplus_2025,zorg_weldenderend,2025,69256,,,executed,src_weld_jr2025_pdf,strong,2025 cum surplus 69256 was 66656; tick1336; primary BBC J4
+bud_weld_other_equity_2025,zorg_weldenderend,2025,52729,,,executed,src_weld_jr2025_pdf,strong,2025 overig nettoactief 52729 unchanged (kapitaal+inbreng); tick1336; primary BBC J4
+bud_weld_capital_2025,zorg_weldenderend,2025,42000,,,executed,src_weld_jr2025_pdf,strong,2025 maatschappelijk kapitaal 42000 (7x6000); tick1336; primary BBC narrative
+bud_weld_expl_in_2025,zorg_weldenderend,2025,262217,,,executed,src_weld_jr2025_pdf,strong,2025 expl ontv 262217; tick1336; primary BBC J2
+bud_weld_expl_out_2025,zorg_weldenderend,2025,249871,,,executed,src_weld_jr2025_pdf,strong,2025 expl uitg 249871; tick1336; primary BBC J2
+bud_weld_expl_2025,zorg_weldenderend,2025,12346,,,executed,src_weld_jr2025_pdf,strong,2025 expl saldo +12346; tick1336; primary BBC J2
+bud_weld_invest_2025,zorg_weldenderend,2025,0,,,executed,src_weld_jr2025_pdf,strong,2025 invest saldo 0 (no capex); tick1336; primary BBC J2/T3
+bud_weld_bbr_2025,zorg_weldenderend,2025,12346,,,executed,src_weld_jr2025_pdf,strong,2025 BBR year +12346; tick1336; primary BBC J2
+bud_weld_cum_bbr_2025,zorg_weldenderend,2025,45559,,,executed,src_weld_jr2025_pdf,strong,YE2025 cum BBR 45559 was 33213; tick1336; primary BBC J2
+bud_weld_afm_2025,zorg_weldenderend,2025,12346,,,executed,src_weld_jr2025_pdf,strong,2025 AFM +12346; tick1336; primary BBC J2
+bud_weld_gecorr_afm_2025,zorg_weldenderend,2025,12346,,,executed,src_weld_jr2025_pdf,strong,2025 gecorr AFM +12346; tick1336; primary BBC J2
+bud_weld_pnl_2025,zorg_weldenderend,2025,2600,,,executed,src_weld_jr2025_pdf,strong,2025 PnL +2600 (ops +2600 / fin 0); tick1336; primary BBC J5
+bud_weld_pers_2025,zorg_weldenderend,2025,166936,,,executed,src_weld_jr2025_pdf,strong,2025 J5/T2 pers 166936 (niet-vast 162126 + andere 4810); VTE 2.6; tick1336; primary BBC
+bud_weld_vte_2025,zorg_weldenderend,2025,2.6,,,executed,src_weld_jr2025_pdf,strong,2025 VTE 2.6 all contractueel (B 1.1 + C 0.5 + D 1.0); art.60 extra FOI; tick1336; primary BBC personnel table
+bud_weld_goods_2025,zorg_weldenderend,2025,82643,,,executed,src_weld_jr2025_pdf,strong,2025 J5=T2 goederen/diensten 82643; tick1336; primary BBC J5/T2
+bud_weld_werksub_in_2025,zorg_weldenderend,2025,211554,,,executed,src_weld_jr2025_pdf,strong,2025 J5=T2 werksub ontv 211554 (alg 185500 + spec 26054); tick1336; primary BBC J5/T2
+bud_weld_werksub_ocmw_2025,zorg_weldenderend,2025,185500,,,executed,src_weld_jr2025_pdf,strong,2025 T2 alg werksub van het OCMW 185500; dual 7-OCMW FOI; tick1336; primary BBC T2
+bud_weld_werksub_spec_2025,zorg_weldenderend,2025,26054,,,executed,src_weld_jr2025_pdf,strong,2025 T2 spec werksub 26054 (fed 17879 + VL 8174); tick1336; primary BBC T2
+bud_weld_ops_rev_2025,zorg_weldenderend,2025,49678,,,executed,src_weld_jr2025_pdf,strong,2025 J5 opbrengsten uit de werking 49678; tick1336; primary BBC J5
+bud_weld_other_ops_2025,zorg_weldenderend,2025,985,,,executed,src_weld_jr2025_pdf,strong,2025 J5 andere operationele opbrengsten 985; tick1336; primary BBC J5
+bud_weld_members_2025,zorg_weldenderend,2025,7,,,executed,src_weld_jr2025_pdf,strong,2025 deelgenoten 7 (Berlare Buggenhout Laarne Waasmunster Wichelen Lebbeke SG-Waas); tick1336; primary BBC narrative
