@@ -35679,3 +35679,39 @@ bud_zbls_ops_rev_2025,zorg_zbls,2025,53164768,,,executed,src_zbls_jr2025_pdf,str
 bud_zbls_other_ops_2025,zorg_zbls,2025,1107037,,,executed,src_zbls_jr2025_pdf,strong,2025 J5 andere operationele opbrengsten 1107037; tick1338; primary BBC J5
 bud_zbls_new_loans_2025,zorg_zbls,2025,187735,,,executed,src_zbls_jr2025_pdf,strong,2025 T4 nieuwe leningen 187735; tick1338; primary BBC T4
 bud_zbls_members_2025,zorg_zbls,2025,6,,,executed,src_zbls_jr2025_pdf,strong,2025 deelgenoten 6 (Merelbeke-Melle Destelbergen Laarne Nazareth-De Pinte Lochristi Oosterzele); tick1338; primary BBC/bestuur
+bud_zbb_assets_2025,zorg_zbb,2025,28937874,,,executed,src_zbb_jr2025_pdf,strong,2025 assets 28937874 was 29738266; tick1339; primary BBC J4
+bud_zbb_cash_2025,zorg_zbb,2025,2654671,,,executed,src_zbb_jr2025_pdf,strong,2025 cash 2654671 DROP vs 8332781; tick1339; primary BBC J4
+bud_zbb_st_recv_2025,zorg_zbb,2025,1865034,,,executed,src_zbb_jr2025_pdf,strong,2025 ST recv 1865034 (ruil 1547667 + niet-ruil 317367); tick1339; primary BBC J4
+bud_zbb_st_recv_ruil_2025,zorg_zbb,2025,1547667,,,executed,src_zbb_jr2025_pdf,strong,2025 ST recv ruil 1547667 vs 1631395; FOI counterparties; tick1339; primary BBC J4
+bud_zbb_lt_recv_due_2025,zorg_zbb,2025,17900000,,,executed,src_zbb_jr2025_pdf,strong,2025 LT recv due within year 17900000 JUMP vs 5012000; Vesalius/AZ Klina FOI; tick1339; primary BBC J4
+bud_zbb_fixed_2025,zorg_zbb,2025,6517864,,,executed,src_zbb_jr2025_pdf,strong,2025 fixed 6517864 (FVA 17206 + MVA 6500658 + IVA 0); tick1339; primary BBC J4
+bud_zbb_fva_2025,zorg_zbb,2025,17206,,,executed,src_zbb_jr2025_pdf,strong,2025 FVA 17206 other (EVA 0 + IGS 0); tick1339; primary BBC J4
+bud_zbb_mva_2025,zorg_zbb,2025,6500658,,,executed,src_zbb_jr2025_pdf,strong,2025 MVA 6500658 JUMP vs 750276; buildings 6274384; tick1339; primary BBC J4
+bud_zbb_lease_2025,zorg_zbb,2025,0,,,executed,src_zbb_jr2025_pdf,strong,2025 MVA leasing 0; tick1339; primary BBC J4
+bud_zbb_debt_2025,zorg_zbb,2025,3274749,,,executed,src_zbb_jr2025_pdf,strong,2025 schulden 3274749 (ST 3271599 + LT 3150); tick1339; primary BBC J4
+bud_zbb_st_debt_2025,zorg_zbb,2025,3271599,,,executed,src_zbb_jr2025_pdf,strong,2025 ST 3271599 (voorz 803319 + non-fin ruil 2400108 + niet-ruil 68173); tick1339; primary BBC J4
+bud_zbb_fin_debt_2025,zorg_zbb,2025,0,,,executed,src_zbb_jr2025_pdf,strong,2025 fin debt T4 0 (early repay 28310 + periodic 4055); tick1339; primary BBC T4
+bud_zbb_equity_2025,zorg_zbb,2025,25663125,,,executed,src_zbb_jr2025_pdf,strong,2025 nettoactief 25663125 was 25179000; tick1339; primary BBC J4
+bud_zbb_cum_surplus_2025,zorg_zbb,2025,16351401,,,executed,src_zbb_jr2025_pdf,strong,2025 cum surplus 16351401 was 15867276; tick1339; primary BBC J4
+bud_zbb_other_equity_2025,zorg_zbb,2025,9311724,,,executed,src_zbb_jr2025_pdf,strong,2025 overig nettoactief 9311724 unchanged; tick1339; primary BBC J4
+bud_zbb_expl_in_2025,zorg_zbb,2025,12152635,,,executed,src_zbb_jr2025_pdf,strong,2025 expl ontv 12152635; tick1339; primary BBC J2
+bud_zbb_expl_out_2025,zorg_zbb,2025,11698454,,,executed,src_zbb_jr2025_pdf,strong,2025 expl uitg 11698454; tick1339; primary BBC J2
+bud_zbb_expl_2025,zorg_zbb,2025,454181,,,executed,src_zbb_jr2025_pdf,strong,2025 expl saldo +454181; tick1339; primary BBC J2
+bud_zbb_invest_2025,zorg_zbb,2025,-5809618,,,executed,src_zbb_jr2025_pdf,strong,2025 invest saldo -5809618 (uitg 5809618 / ontv 0; Sint-Jozef); tick1339; primary BBC J2
+bud_zbb_fin_2025,zorg_zbb,2025,-32160,,,executed,src_zbb_jr2025_pdf,strong,2025 fin saldo -32160 (uitg 32365 / ontv 205); tick1339; primary BBC J2
+bud_zbb_bbr_2025,zorg_zbb,2025,-5387598,,,executed,src_zbb_jr2025_pdf,strong,2025 BBR year -5387598; tick1339; primary BBC J2
+bud_zbb_cum_bbr_2025,zorg_zbb,2025,2121453,,,executed,src_zbb_jr2025_pdf,strong,YE2025 cum/beschikbaar BBR 2121453 was 7509051; tick1339; primary BBC J2
+bud_zbb_afm_2025,zorg_zbb,2025,450126,,,executed,src_zbb_jr2025_pdf,strong,2025 AFM +450126; tick1339; primary BBC J2
+bud_zbb_gecorr_afm_2025,zorg_zbb,2025,451592,,,executed,src_zbb_jr2025_pdf,strong,2025 gecorr AFM +451592; tick1339; primary BBC J2
+bud_zbb_pnl_2025,zorg_zbb,2025,484125,,,executed,src_zbb_jr2025_pdf,strong,2025 PnL +484125 (ops +346625 / fin +137500); tick1339; primary BBC J5
+bud_zbb_pers_2025,zorg_zbb,2025,8913182,,,executed,src_zbb_jr2025_pdf,strong,2025 J5 pers 8913182 (T2 8837949); VTE 102.04; tick1339; primary BBC
+bud_zbb_vte_2025,zorg_zbb,2025,102.04,,,executed,src_zbb_jr2025_pdf,strong,2025 VTE 102.04 (contr 79.99 + stat 22.05; was 98.23); tick1339; primary BBC T personnel
+bud_zbb_goods_2025,zorg_zbb,2025,2793814,,,executed,src_zbb_jr2025_pdf,strong,2025 J5 goederen/diensten 2793814 (T2 2792944); tick1339; primary BBC J5/T2
+bud_zbb_werksub_j5_2025,zorg_zbb,2025,1840352,,,executed,src_zbb_jr2025_pdf,strong,2025 J5 werksub ontv 1840352 all spec; granted 0; tick1339; primary BBC J5
+bud_zbb_werksub_t2_2025,zorg_zbb,2025,2778380,,,executed,src_zbb_jr2025_pdf,strong,2025 T2 spec werksub 2778380 (VL 2041385 + OCMW 736995); J5-T2 gap 938028 FOI; tick1339; primary BBC T2
+bud_zbb_werksub_vl_2025,zorg_zbb,2025,2041385,,,executed,src_zbb_jr2025_pdf,strong,2025 T2 spec werksub VL 2041385; tick1339; primary BBC T2
+bud_zbb_werksub_ocmw_2025,zorg_zbb,2025,736995,,,executed,src_zbb_jr2025_pdf,strong,2025 T2 spec werksub OCMW 736995 (meerkost 315393 + resp 421602); tick1339; primary BBC T2/narrative
+bud_zbb_ocmw_beleid_2025,zorg_zbb,2025,1104752,,,executed,src_zbb_jr2025_pdf,strong,2025 OCMW beleidskosten 1104752 (meerkost 315393 + resp 421602 + korting 367757 ten laste ZBB); tick1339; primary BBC narrative
+bud_zbb_ops_rev_2025,zorg_zbb,2025,9176475,,,executed,src_zbb_jr2025_pdf,strong,2025 J5 opbrengsten uit de werking 9176475; tick1339; primary BBC J5
+bud_zbb_other_ops_2025,zorg_zbb,2025,67113,,,executed,src_zbb_jr2025_pdf,strong,2025 J5 andere operationele opbrengsten 67113; tick1339; primary BBC J5
+bud_zbb_early_repay_2025,zorg_zbb,2025,28310,,,executed,src_zbb_jr2025_pdf,strong,2025 T2/T4 niet-periodieke aflossing 28310; tick1339; primary BBC T2/T4
