@@ -33847,3 +33847,19 @@ bud_atlas_welkomst_2026,integratie_inburgering_antwerpen,2026,27000,,,budgeted,s
 bud_atlas_kaap_2026,integratie_inburgering_antwerpen,2026,76700,,,budgeted,src_atlas_onderwijs_extra_2026_gr,strong,KAAP 76.7k 2026 of 230k 2026-2027; tick1266
 bud_atlas_city_known_extra_2026,integratie_inburgering_antwerpen,2026,680842.33,,,budgeted,src_atlas_se_voortraject_2026_cbs02110,strong,Known extras 0.577+0.027+0.077=0.681m; tick1266
 bud_atlas_city_known_total_2026,integratie_inburgering_antwerpen,2026,26506483.67,,,budgeted,src_atlas_se_voortraject_2026_cbs02110,strong,25.82564134 package + 0.68084233 extras = 26.506m; tick1266
+bud_amal_city_dual_2026,integratie_inburgering_gent,2026,7374955.91,,,budgeted,src_amal_swo_2026_gr00594,strong,GR 00594 2026 city+VL lock 7.37495591m; tick1267
+bud_amal_city_own_2026,integratie_inburgering_gent,2026,910458.31,,,budgeted,src_amal_swo_2026_gr00594,strong,GR 00594 2026 city-own 0.91045831m excl VL pass-through; tick1267
+bud_amal_vl_pass_2026,integratie_inburgering_gent,2026,6464497.6,,,budgeted,src_amal_swo_2026_gr00594,strong,GR 00594 2026 VL ABB.EVI 5.0778m + ABB.TUR 1.3866976m; tick1267
+bud_amal_vl_evi_2026,integratie_inburgering_gent,2026,5077800.0,,,budgeted,src_amal_swo_2026_gr00594,strong,GR 00594 2026 algemene werkingssubsidies ABB.EVI 5.0778m; tick1267
+bud_amal_vl_tur_2026,integratie_inburgering_gent,2026,1386697.6,,,budgeted,src_amal_swo_2026_gr00594,strong,GR 00594 2026 duurzame VL activering ABB.TUR 1.3866976m; tick1267
+bud_amal_gelijke_2026,integratie_inburgering_gent,2026,193439.28,,,budgeted,src_amal_swo_2026_gr00594,strong,GR 00594 2026 Gelijke kansen 0.19343928m; tick1267
+bud_amal_stv_2026,integratie_inburgering_gent,2026,522989.83,,,budgeted,src_amal_swo_2026_gr00594,strong,GR 00594 2026 STV 0.52298983m; tick1267
+bud_amal_stv_eenmalig_2026,integratie_inburgering_gent,2026,50000.0,,,budgeted,src_amal_swo_2026_gr00594,strong,GR 00594 2026 eenmalige verhoging STV 0.050m; tick1267
+bud_amal_uct_2026,integratie_inburgering_gent,2026,51184.08,,,budgeted,src_amal_swo_2026_gr00594,strong,GR 00594 2026 UCT 0.05118408m; tick1267
+bud_amal_instroom_2026,integratie_inburgering_gent,2026,60300.0,,,budgeted,src_amal_swo_2026_gr00594,strong,GR 00594 2026 ondersteuning verhoogde instroom 0.0603m; tick1267
+bud_amal_city_own_2027,integratie_inburgering_gent,2027,2059884.31,,,budgeted,src_amal_swo_2026_gr00594,strong,GR 00594 2027 city-own 2.05988431m (Gelijke kansen jump); tick1267
+bud_amal_vl_pass_2027,integratie_inburgering_gent,2027,910874.4,,,budgeted,src_amal_swo_2026_gr00594,strong,GR 00594 2027 VL 0.9108744m (EVI 0.5642 + TUR 0.3466744); tick1267
+bud_amal_gelijke_jump_2026_27,integratie_inburgering_gent,2027,1079461.13,,,budgeted,src_amal_swo_2026_gr00594,strong,Gelijke kansen 0.19343928m (2026) to 1.27290041m (2027) = +1.07946113m; tick1267
+bud_amal_swo_my_2026_2031,integratie_inburgering_gent,2026,18644791.11,,,budgeted,src_amal_swo_2026_gr00594,strong,GR 00594 voorgestelde uitgaven 18.64479111m 2026-2031; tick1267
+bud_amal_vl_income_my_2026_27,integratie_inburgering_gent,2026,7375372.0,,,budgeted,src_amal_swo_2026_gr00594,strong,GR 00594 verwachte VL ontvangsten 7.375372m 2026-2027; tick1267
+bud_amal_city_own_my_2026_2031,integratie_inburgering_gent,2026,11269419.11,,,budgeted,src_amal_swo_2026_gr00594,strong,MY uitgaven 18.64479111 minus VL income 7.375372 = city-own 11.26941911m; tick1267

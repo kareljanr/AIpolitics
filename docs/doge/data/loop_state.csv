@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T08:30:00Z,rq_1266,1266,no,tick1266 Atlas/Integratie Antwerpen JR2025 dual residual; KBO 0421.722.346; city 2025 lock 21.846m rise +3.980m to 2026 25.826m extras 0.681m known 26.506m; NBB 2026-00275703 filed PDF opaque; FOI ready; next rq_1267 residual dual L5 VL (prefer Amal Gent JR2025); continuous hole_fill
+main,continuous,hole_fill,2026-08-17T08:45:00Z,rq_1267,1267,no,tick1267 Amal/Integratie Gent JR2025 dual residual; KBO 0507.873.093; city 2026 lock 7.375m own 0.910 + VL 6.464; MY 18.645m; NBB/JR PDF opaque; FOI ready; next rq_1268 residual dual L5 VL (prefer Fietsambassade Gent JR2025); continuous hole_fill

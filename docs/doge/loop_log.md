@@ -17410,3 +17410,10 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources+6/entities(patch+city note)/budgets+14/commitments+7/leaderboard+6 + FOI ready `gap_atlas_jr2025_pdf_opaque_city_dual_21_85m_l5` (not sent); rq_1266=done; spawn rq_1267; ticks=1266. No every-10 (1266 not a *0 tick).
 - Next: rq_1267 residual dual L5 VL JR2025 hole_fill (prefer Amal / Integratie en Inburgering Gent JR2025 KBO 0507.873.093 NBB 2026-00211946 or other unmined AGB/zorg with direct PDF).
 
+
+### Tick 1267 - 2026-08-17 - rq_1267 Amal / Integratie & Inburgering Gent dual residual
+- Unit: EVA vzw Integratie en Inburgering Gent (Amal) JR2025 Entity II after Gent AGB cluster 1255–1259 + Atlas Antwerpen tick1266 (KBO 0507.873.093; EVA-vzw; seat Botermarkt 1 / ops Kongostraat 42). **Distinct from Atlas Antwerpen** (KBO 0421.722.346). AV 25.06.2026 / GR 23.06.2026 `2026_GR_00587` + SWO 2026–2031 `2026_GR_00594`. NBB consult exists; API 403; loop-brief filing 2026-00211946 not independently confirmed. WAGSO already mined tick1199.
+- EUR strong (city HTML primary; NBB/JR PDF internals unknown): 2026 dual **7.375m** (city-own **0.910m** + VL **6.464m** = ABB.EVI **5.078m** + ABB.TUR **1.387m**); lines Gelijke kansen **0.193m** + STV **0.523m** + eenmalig STV **0.050m** + UCT **0.051m** + instroom **0.060m** + soc/OCG **0.033m**; MY 2026–2031 uitgaven **18.645m** / VL income **7.375m** / city-own **11.269m**; 2027 city-own **2.060m** (Gelijke kansen jump **+1.079m** to **1.273m**) while VL drops to **0.911m**. 2025 city lock unknown (SWO 2020–2025 extended 24.11.2025 through June 2026). BBC/NBB PDFs not retrieved (NBB 403 + GR bijlagen invitation-only + org PDFs stop 2022).
+- CSVs: sources+5/entities(new+city/atlas_amal notes)/budgets+16/commitments+7/leaderboard+6 + FOI ready `gap_amal_jr2025_pdf_opaque_city_dual_7_37m_l5` (not sent); rq_1267=done; spawn rq_1268; ticks=1267. No every-10 (1267 not a *0 tick).
+- Next: rq_1268 residual dual L5 VL JR2025 hole_fill (prefer EVA De Fietsambassade Gent JR2025 KBO 0665.587.076 GR 2026_GR_00655 or other unmined AGB/zorg/EVA with direct PDF).
+
