@@ -34641,3 +34641,38 @@ bud_hzolder_hvz_2025,city_heusden_zolder,2025,1626555,,,executed,src_hzolder_jr2
 bud_hzolder_afl_2025,city_heusden_zolder,2025,3669215,,,executed,src_hzolder_jr2025_bbc,strong,T4 periodieke aflossingen 3.669215m; tick1294; primary BBC
 bud_hzolder_ocmw_equity_2025,city_heusden_zolder,2025,-10981739,,,executed,src_hzolder_jr2025_bbc,strong,T5 OCMW equity -10.981739m NEG; tick1294; primary BBC
 bud_hzolder_ocmw_cum_2025,city_heusden_zolder,2025,-14943405,,,executed,src_hzolder_jr2025_bbc,strong,T5 OCMW cum PnL -14.943405m NEG; tick1294; primary BBC
+bud_voeren_assets_2025,city_voeren,2025,28310999,,,executed,src_voeren_jr2025_bbc,strong,J4 assets 28.310999m vs 26.577419m; tick1295; primary BBC
+bud_voeren_assets_2024,city_voeren,2024,26577419,,,executed,src_voeren_jr2025_bbc,strong,J4 YE2024 assets 26.577419m; tick1295; primary BBC
+bud_voeren_cash_2025,city_voeren,2025,7701187,,,executed,src_voeren_jr2025_bbc,strong,J4 cash 7.701187m vs 6.731669m; tick1295; primary BBC
+bud_voeren_cash_2024,city_voeren,2024,6731669,,,executed,src_voeren_jr2025_bbc,strong,J4 YE2024 cash 6.731669m; tick1295; primary BBC
+bud_voeren_fva_2025,city_voeren,2025,4814179,,,executed,src_voeren_jr2025_bbc,strong,J4/T5 FVA 4.814179m; EVA 0 + IGS 4.788371; tick1295; primary BBC
+bud_voeren_igs_2025,city_voeren,2025,4788371,,,executed,src_voeren_jr2025_bbc,strong,J4/T5 IGS FVA 4.788371m; tick1295; primary BBC
+bud_voeren_mva_2025,city_voeren,2025,14532925,,,executed,src_voeren_jr2025_bbc,strong,J4 MVA 14.532925m; leasing 0.490217m; tick1295; primary BBC
+bud_voeren_leasing_2025,city_voeren,2025,490217,,,executed,src_voeren_jr2025_bbc,strong,T5 leasing MVA 0.490217m vs 0.381631m; tick1295; primary BBC
+bud_voeren_equity_2025,city_voeren,2025,20231377,,,executed,src_voeren_jr2025_bbc,strong,J4 nettoactief 20.231377m vs 18.299509m; tick1295; primary BBC
+bud_voeren_fin_debt_2025,city_voeren,2025,3366939,,,executed,src_voeren_jr2025_bbc,strong,T4 fin debt 3.366939m (LT 3.047 + ST due 0.320); tick1295; primary BBC
+bud_voeren_fin_debt_2024,city_voeren,2024,3533150,,,executed,src_voeren_jr2025_bbc,strong,T4 YE2024 fin debt 3.533150m; tick1295; primary BBC
+bud_voeren_new_loans_2025,city_voeren,2025,145710,,,executed,src_voeren_jr2025_bbc,strong,T4 new loans 0.145710m (Fluvius leasing; bank 0); tick1295; primary BBC
+bud_voeren_bank_remain_2025,city_voeren,2025,2876721,,,executed,src_voeren_jr2025_bbc,strong,risico 6 bank credits remaining 2.876721m; tick1295; primary BBC
+bud_voeren_pension_2025,city_voeren,2025,2779274,,,executed,src_voeren_jr2025_bbc,strong,J4 LT pension 2.779274m vs 2.694949m; tick1295; primary BBC
+bud_voeren_expl_2025,city_voeren,2025,2160011,,,executed,src_voeren_jr2025_bbc,strong,J2 exploitatiesaldo +2.160011m; tick1295; primary BBC
+bud_voeren_expl_ontv_2025,city_voeren,2025,8454846,,,executed,src_voeren_jr2025_bbc,strong,J2 expl ontv 8.454846m; tick1295; primary BBC
+bud_voeren_expl_uitg_2025,city_voeren,2025,6294835,,,executed,src_voeren_jr2025_bbc,strong,J2 expl uitg 6.294835m; tick1295; primary BBC
+bud_voeren_city_expl_2025,city_voeren,2025,2620537,,,executed,src_voeren_jr2025_bbc,strong,J3 city expl +2.620537m (7.914/5.293); tick1295; primary BBC
+bud_voeren_ocmw_expl_2025,city_voeren,2025,-460526,,,executed,src_voeren_jr2025_bbc,strong,J3 OCMW expl -0.460526m (0.541/1.002); tick1295; primary BBC
+bud_voeren_invest_2025,city_voeren,2025,-803636,,,executed,src_voeren_jr2025_bbc,strong,J2 invest -0.803636m vs MJP -2.678m; tick1295; primary BBC
+bud_voeren_bbr_2025,city_voeren,2025,1190163,,,executed,src_voeren_jr2025_bbc,strong,J2 budgettair resultaat boekjaar +1.190163m; tick1295; primary BBC
+bud_voeren_avail_2025,city_voeren,2025,6772228,,,executed,src_voeren_jr2025_bbc,strong,J2 beschikbaar BBR 6.772228m; tick1295; primary BBC
+bud_voeren_afm_2025,city_voeren,2025,1848089,,,executed,src_voeren_jr2025_bbc,strong,J2 AFM +1.848089m; tick1295; primary BBC
+bud_voeren_gecorr_2025,city_voeren,2025,1877359,,,executed,src_voeren_jr2025_bbc,strong,J2 gecorr AFM +1.877359m; tick1295; primary BBC
+bud_voeren_pnl_2025,city_voeren,2025,2044019,,,executed,src_voeren_jr2025_bbc,strong,J5 PnL +2.044019m (city +2.529 / OCMW -0.485); tick1295; primary BBC
+bud_voeren_tussen_2025,city_voeren,2025,0,,,executed,src_voeren_jr2025_bbc,strong,T5 city->OCMW tussenkomst 0; tick1295; primary BBC
+bud_voeren_pers_2025,city_voeren,2025,3365389,,,executed,src_voeren_jr2025_bbc,strong,J5 bezoldigingen 3.365389m / formatie 42.04; tick1295; primary BBC
+bud_voeren_fiscal_2025,city_voeren,2025,4342276,,,executed,src_voeren_jr2025_bbc,strong,J5/T2 fiscal 4.342276m; tick1295; primary BBC
+bud_voeren_gemfonds_2025,city_voeren,2025,2253918,,,executed,src_voeren_jr2025_bbc,strong,T2 gemeentefonds 2.253918m; tick1295; primary BBC
+bud_voeren_politie_2025,city_voeren,2025,303826,,,executed,src_voeren_jr2025_bbc,strong,T2 politiezone Voeren 0.303826m JUMP vs 0.172m; tick1295; primary BBC
+bud_voeren_hvz_2025,city_voeren,2025,178894,,,executed,src_voeren_jr2025_bbc,strong,T2 HVZ Oost-Limburg 0.178894m; tick1295; primary BBC
+bud_voeren_afl_2025,city_voeren,2025,311922,,,executed,src_voeren_jr2025_bbc,strong,T4 periodieke aflossingen 0.311922m; tick1295; primary BBC
+bud_voeren_ocmw_equity_2025,city_voeren,2025,-2049170,,,executed,src_voeren_jr2025_bbc,strong,T5 OCMW equity -2.049170m NEG; tick1295; primary BBC
+bud_voeren_ocmw_cum_2025,city_voeren,2025,-2320423,,,executed,src_voeren_jr2025_bbc,strong,T5 OCMW cum PnL -2.320423m NEG; tick1295; primary BBC
+bud_voeren_fluvius_div_2025,city_voeren,2025,53409,,,executed,src_voeren_jr2025_bbc,strong,T2/toelichting Fluvius dividend 0.053409m; tick1295; primary BBC
