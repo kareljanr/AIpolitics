@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T09:32:00Z,rq_1276,1276,no,tick1276 Motena Roeselare JR2025 dual residual; KBO 0537.951.706; AV 2.6.2026 vaststelling; BBC/NBB PDF + city dual unknown (Cloudflare/NBB 403); FOI ready; next rq_1277 residual dual L5 VL (prefer unmined AGB/zorg/EVA JR2025); continuous hole_fill
+main,continuous,hole_fill,2026-08-17T09:38:31Z,rq_1277,1277,no,tick1277 AGBPB Bonheiden JR2025 dual residual; KBO 0881.524.122; assets 4.822m fin debt 2.996m city huur 0.294m AFM +4 gecorr -10.410 avail BBR -5.420; FOI ready; next rq_1278 residual dual L5 VL (prefer unmined AGB/zorg/EVA JR2025); continuous hole_fill

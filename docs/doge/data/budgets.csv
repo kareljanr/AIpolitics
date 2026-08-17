@@ -34062,3 +34062,34 @@ bud_ibogem_rp_omzet_2025,agb_ibogem,2025,493225.89,,,executed,src_ibogem_jr2025_
 bud_ibogem_pers_2025,agb_ibogem,2025,2804574.06,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 62 personeel 2.804574m / 39.7 VTE; narrative 32.44 intern + 9.98 extern; tick1275
 bud_ibogem_kapsub_2025,agb_ibogem,2025,955165.47,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 15 kapitaalsubsidies stock 0.955165m; 2025 income 0.158256m; tick1275
 bud_ibogem_retained_2025,agb_ibogem,2025,182262.42,,,executed,src_ibogem_jr2025_jaarverslag,strong,NBB 14 over te dragen winst 0.182262m (prior 0.088561 + year 0.093701); tick1275
+bud_agbpb_assets_2025,agb_bonheiden_agbpb,2025,4822032,,,executed,src_agbpb_jr2025_bbc,strong,J4 ACTIVA 4.822032m vs 5.113942m drop 0.292m; tick1277
+bud_agbpb_assets_2024,agb_bonheiden_agbpb,2024,5113942,,,executed,src_agbpb_jr2025_bbc,strong,J4 YE2024 assets 5.113942m cited in JR2025; tick1277
+bud_agbpb_cash_2025,agb_bonheiden_agbpb,2025,30076,,,executed,src_agbpb_jr2025_bbc,strong,J4 liquide middelen 0.030076m DROP vs 0.036071m; tick1277
+bud_agbpb_current_2025,agb_bonheiden_agbpb,2025,39887,,,executed,src_agbpb_jr2025_bbc,strong,J4 vlottende activa 0.039887m (cash 0.030 + ST recv 0.010); tick1277
+bud_agbpb_mva_2025,agb_bonheiden_agbpb,2025,4782145,,,executed,src_agbpb_jr2025_bbc,strong,J4 MVA/gemeenschapsgoederen 4.782145m vs 5.075387m; tick1277
+bud_agbpb_buildings_2025,agb_bonheiden_agbpb,2025,1716847,,,executed,src_agbpb_jr2025_bbc,strong,J4 terreinen en gebouwen 1.716847m vs 1.768145m; tick1277
+bud_agbpb_leasing_mva_2025,agb_bonheiden_agbpb,2025,3065298,,,executed,src_agbpb_jr2025_bbc,strong,J4 leasing en soortgelijke rechten 3.065298m vs 3.307242m; tick1277
+bud_agbpb_fin_debt_2025,agb_bonheiden_agbpb,2025,2995931,,,executed,src_agbpb_jr2025_bbc,strong,T4 totaal fin debt YE2025 2.995931m (LT 2.746734 + ST due 0.249197); tick1277
+bud_agbpb_fin_debt_lt_2025,agb_bonheiden_agbpb,2025,2746734,,,executed,src_agbpb_jr2025_bbc,strong,J4/T4 LT fin debt 2.746734m vs 2.995930m; tick1277
+bud_agbpb_fin_debt_st_2025,agb_bonheiden_agbpb,2025,249197,,,executed,src_agbpb_jr2025_bbc,strong,J4 ST due LT 0.249197m (= annual lease/loan repay); tick1277
+bud_agbpb_schulden_2025,agb_bonheiden_agbpb,2025,3041237,,,executed,src_agbpb_jr2025_bbc,strong,J4 schulden 3.041237m vs 3.289105m (incl trade 0.045306); tick1277
+bud_agbpb_equity_2025,agb_bonheiden_agbpb,2025,1780795,,,executed,src_agbpb_jr2025_bbc,strong,J4 nettoactief 1.780795m vs 1.824837m; tick1277
+bud_agbpb_kapsub_2025,agb_bonheiden_agbpb,2025,1792497,,,executed,src_agbpb_jr2025_bbc,strong,J4 kapitaalssubsidies en schenkingen 1.792497m vs 1.836738m; tick1277
+bud_agbpb_cum_pnl_2025,agb_bonheiden_agbpb,2025,-274701,,,executed,src_agbpb_jr2025_bbc,strong,J4 gecumuleerd overschot/tekort -0.274701m (was -0.274901); tick1277
+bud_agbpb_expl_ontv_2025,agb_bonheiden_agbpb,2025,293975,,,executed,src_agbpb_jr2025_bbc,strong,J2 expl ontv 0.293975m (J5 werking 0.293775 + werksub 0.000200); tick1277
+bud_agbpb_expl_uitg_2025,agb_bonheiden_agbpb,2025,44775,,,executed,src_agbpb_jr2025_bbc,strong,J2 expl uitg 0.044775m (T2 goods 0.042824 + other 0.001951; pers 0); tick1277
+bud_agbpb_expl_saldo_2025,agb_bonheiden_agbpb,2025,249200,,,executed,src_agbpb_jr2025_bbc,strong,J2 exploitatiesaldo +0.249200m vs MJP 0.251085m; tick1277
+bud_agbpb_invest_2025,agb_bonheiden_agbpb,2025,11964,,,executed,src_agbpb_jr2025_bbc,strong,J2 invest ontv=uitg 0.011964m saldo 0; tick1277
+bud_agbpb_fin_uitg_2025,agb_bonheiden_agbpb,2025,249197,,,executed,src_agbpb_jr2025_bbc,strong,J2 fin uitg 0.249197m periodieke aflossingen lease/lening; tick1277
+bud_agbpb_bbr_2025,agb_bonheiden_agbpb,2025,4,,,executed,src_agbpb_jr2025_bbc,strong,J2 BBR boekjaar +4 vs MJP +1887; tick1277
+bud_agbpb_avail_bbr_2025,agb_bonheiden_agbpb,2025,-5420,,,executed,src_agbpb_jr2025_bbc,strong,J2 beschikbaar BBR -5420 NEG (cum -5420; prior -5423); tick1277
+bud_agbpb_afm_2025,agb_bonheiden_agbpb,2025,4,,,executed,src_agbpb_jr2025_bbc,strong,J2 AFM +4 vs MJP +1887; tick1277
+bud_agbpb_gecorr_afm_2025,agb_bonheiden_agbpb,2025,-10410,,,executed,src_agbpb_jr2025_bbc,strong,J2 gecorr AFM -10410 NEG (corr aflossingen 259610 vs 249197); tick1277
+bud_agbpb_city_huur_2025,agb_bonheiden_agbpb,2025,293775,,,executed,src_agbpb_jr2025_bbc,strong,J5 opbrengsten uit de werking 0.293775m = city huur NAC 0.160210 + bib 0.103072 + BODUKAP 0.030493; tick1277
+bud_agbpb_werksub_2025,agb_bonheiden_agbpb,2025,200,,,executed,src_agbpb_jr2025_bbc,strong,J5 algemene werkingssubsidies 200 vs 2483; tick1277
+bud_agbpb_pnl_2025,agb_bonheiden_agbpb,2025,200,,,executed,src_agbpb_jr2025_bbc,strong,J5 overschot +200 (ops -56006 + fin +56206); full retain; tick1277
+bud_agbpb_pers_2025,agb_bonheiden_agbpb,2025,0,,,executed,src_agbpb_jr2025_bbc,strong,T2 bezoldigingen 0 (0 VTE; documentatie personeelsinzet NVT); tick1277
+bud_agbpb_costs_2025,agb_bonheiden_agbpb,2025,349981,,,executed,src_agbpb_jr2025_bbc,strong,J5 kosten 0.349981m vs 0.297322m; tick1277
+bud_agbpb_depr_2025,agb_bonheiden_agbpb,2025,305206,,,executed,src_agbpb_jr2025_bbc,strong,J5 afschrijvingen 0.305206m vs 0.251264m; tick1277
+bud_agbpb_fin_opbr_2025,agb_bonheiden_agbpb,2025,56206,,,executed,src_agbpb_jr2025_bbc,strong,J5 financiële opbrengsten 0.056206m JUMP vs 0.002067m; composition FOI; tick1277
+bud_agbpb_goods_2025,agb_bonheiden_agbpb,2025,42824,,,executed,src_agbpb_jr2025_bbc,strong,J5/T2 goederen en diensten 0.042824m vs 0.045025m; tick1277
