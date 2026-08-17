@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-08T02:25:00Z,rq_1246,1246,no,tick1246 Zorgbedrijf Antwerpen dual residual AFM -18.9m fin debt 220m city sub 51m BBR -13.3m FOI ready; next rq_1247 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T05:56:00Z,rq_1247,1247,no,tick1247 Zorgbedrijf Rivierenland dual residual AFM -1.50m gecorr -3.52m fin debt 69.1m OCMW toelage 5.51m Mechelen cut 4m PnL -1.20m FOI ready; next rq_1248 residual dual L5 VL; continuous hole_fill

@@ -17269,3 +17269,10 @@ Append-only. Each tick adds a short entry.
 - EUR strong: assets **740.3m**; fin debt **219.9m** (doorgeef ~63.7 + WRC ~89.6 + bank/overige); AFM **-18.874m** NEG; gecorr AFM **-22.089m** DEEP NEG; BBR **-13.262m** NEG; budget **-12.296m**; city dual sub **51.372m**; city invest-sub **10.804m**; new loans other **34.306m**; personnel **243.8m**; PnL **-15.693m**; cash **30.5m**.
 - CSVs: sources/entities upgrade/budgets+40/commitments+7/leaderboard+7 + FOI ready `gap_zba_afm_neg_18_9m_gecorr_22_1m_bbr_neg_13_3m_fin_debt_220m_city_sub_51m_pnl_neg_15_7m_l5` (not sent); rq_1246=done; spawn rq_1247.
 - Next: rq_1247 residual dual L5 VL JR2025 hole_fill.
+
+### Tick 1247 - 2026-08-17 - rq_1247 Zorgbedrijf Rivierenland dual residual
+- Unit: Zorgbedrijf Rivierenland WV JR2025 multi-muni dual care Entity II (KBO 0680.439.360; 71p text primary; members OCMW Mechelen + OCMW Sint-Katelijne-Waver).
+- EUR strong: assets **96.2m**; fin debt **69.1m**; AFM **-1.500m** NEG; gecorr AFM **-3.521m** DEEP NEG; budget **-1.477m**; BBR **+3.402m**; OCMW dual toelage **5.513m** (Mechelen **3.131m** after **4.000m** cut + SKW **2.382m**); PnL **-1.200m** flip; personnel **36.072m**; cash JUMP **6.44m**; new loans **0**.
+- CSVs: sources/entities/budgets+40/commitments+7/leaderboard+7 + FOI ready `gap_zbr_afm_neg_1_50m_gecorr_3_52m_fin_debt_69_1m_ocmw_cut_4m_pnl_neg_1_20m_l5` (not sent); rq_1247=done; spawn rq_1248.
+- Next: rq_1248 residual dual L5 VL JR2025 hole_fill.
+

@@ -33155,3 +33155,43 @@ bud_zba_repayments_2025,zorgbedrijf_antwerpen,2025,13584668,,,bbc_jr_realized,sr
 bud_zba_interest_2025,zorgbedrijf_antwerpen,2025,1660637,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Financiele kosten 1.661m; tick1246
 bud_zba_costs_2025,zorgbedrijf_antwerpen,2025,341912602,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,J5 costs total 341.913m; tick1246
 bud_zba_provisions_other_lt_2025,zorgbedrijf_antwerpen,2025,22194515,,,bbc_jr_realized,src_zorgbedrijf_antwerpen_jr2025,strong,Andere voorzieningen LT YE2025 22.195m; tick1246
+bud_zbr_assets_2025,zorgbedrijf_rivierenland,2025,96211788,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Assets balanstotaal YE2025 96.212m; tick1247
+bud_zbr_equity_2025,zorgbedrijf_rivierenland,2025,14123740,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Nettoactief YE2025 14.124m; tick1247
+bud_zbr_debt_total_2025,zorgbedrijf_rivierenland,2025,82088048,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Schulden total YE2025 82.088m; tick1247
+bud_zbr_fin_debt_2025,zorgbedrijf_rivierenland,2025,69050596,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Fin schulden total YE2025 69.051m (LT 65.381 + ST due 3.670); tick1247
+bud_zbr_fin_debt_lt_2025,zorgbedrijf_rivierenland,2025,65381084,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Fin schulden LT YE2025 65.381m; tick1247
+bud_zbr_fin_debt_st_due_2025,zorgbedrijf_rivierenland,2025,3669512,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Fin schulden LT vervallend YE2025 3.670m; tick1247
+bud_zbr_cash_2025,zorgbedrijf_rivierenland,2025,6438461,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Liquide middelen YE2025 6.438m JUMP (was 4.562m); tick1247
+bud_zbr_st_recv_2025,zorgbedrijf_rivierenland,2025,6066700,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Vorderingen KT total YE2025 6.067m; tick1247
+bud_zbr_mva_2025,zorgbedrijf_rivierenland,2025,80622134,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Materiele VA YE2025 80.622m; tick1247
+bud_zbr_cap_subs_2025,zorgbedrijf_rivierenland,2025,11027362,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Kapitaalssubsidies YE2025 11.027m; tick1247
+bud_zbr_cum_pnl_2025,zorgbedrijf_rivierenland,2025,1536507,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Gecumuleerd overschot YE2025 1.537m DROP (was 2.737m); tick1247
+bud_zbr_expl_rec_2025,zorgbedrijf_rivierenland,2025,55531602,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Exploitatieontvangsten 55.532m; tick1247
+bud_zbr_expl_exp_2025,zorgbedrijf_rivierenland,2025,53828620,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Exploitatieuitgaven 53.829m; tick1247
+bud_zbr_expl_saldo_2025,zorgbedrijf_rivierenland,2025,1702982,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Exploitatiesaldo +1.703m; tick1247
+bud_zbr_invest_exp_2025,zorgbedrijf_rivierenland,2025,1653494,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Investeringsuitgaven 1.653m; tick1247
+bud_zbr_invest_rec_2025,zorgbedrijf_rivierenland,2025,2280968,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Investeringsontvangsten 2.281m; tick1247
+bud_zbr_invest_saldo_2025,zorgbedrijf_rivierenland,2025,627474,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Investeringssaldo +0.627m; tick1247
+bud_zbr_fin_saldo_2025,zorgbedrijf_rivierenland,2025,-3807456,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Financieringssaldo -3.807m; tick1247
+bud_zbr_budget_result_2025,zorgbedrijf_rivierenland,2025,-1477000,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Budgettair resultaat boekjaar -1.477m NEG; tick1247
+bud_zbr_cumul_budget_2025,zorgbedrijf_rivierenland,2025,3402003,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Gecumuleerd budgettair resultaat +3.402m; tick1247
+bud_zbr_bbr_2025,zorgbedrijf_rivierenland,2025,3402003,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,BBR +3.402m; tick1247
+bud_zbr_afm_2025,zorgbedrijf_rivierenland,2025,-1500007,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,AFM -1.500m NEG; tick1247
+bud_zbr_gecorr_afm_2025,zorgbedrijf_rivierenland,2025,-3521195,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Gecorrigeerde AFM -3.521m DEEP NEG; tick1247
+bud_zbr_pnl_2025,zorgbedrijf_rivierenland,2025,-1200281,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,PnL tekort -1.200m flip (was +2.297m); tick1247
+bud_zbr_personnel_2025,zorgbedrijf_rivierenland,2025,36071832,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Bezoldigingen J5 36.072m; tick1247
+bud_zbr_personnel_incl_interim_2025,zorgbedrijf_rivierenland,2025,43800999,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Personeel incl interim toelichting 43.801m; tick1247
+bud_zbr_goederen_2025,zorgbedrijf_rivierenland,2025,17053323,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Goederen en diensten 17.053m; tick1247
+bud_zbr_sub_total_2025,zorgbedrijf_rivierenland,2025,17063095,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Werkingssubsidies total J5 17.063m; tick1247
+bud_zbr_ocmw_sub_alg_2025,zorgbedrijf_rivierenland,2025,5513025,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,OCMW dual algemene werkingssub 5.513m; tick1247
+bud_zbr_ocmw_mechelen_sub_2025,zorgbedrijf_rivierenland,2025,3131494,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,OCMW Mechelen toelage 3.131m (cut 4.000m vs budget 7.131m); tick1247
+bud_zbr_ocmw_skw_sub_2025,zorgbedrijf_rivierenland,2025,2381531,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,OCMW SKW toelage 2.382m; tick1247
+bud_zbr_sub_spec_2025,zorgbedrijf_rivierenland,2025,11550070,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Specifieke werkingssubsidies 11.550m; tick1247
+bud_zbr_mechelen_invest_sub_2025,zorgbedrijf_rivierenland,2025,1676501,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Invest-sub Mechelen Hof van Egmont 1.677m; tick1247
+bud_zbr_vipa_lisdodde_2025,zorgbedrijf_rivierenland,2025,604467,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,VIPA invest-sub wzc De Lisdodde 0.604m; tick1247
+bud_zbr_werking_ontv_2025,zorgbedrijf_rivierenland,2025,37644920,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Opbrengsten uit de werking 37.645m; tick1247
+bud_zbr_new_loans_2025,zorgbedrijf_rivierenland,2025,0,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Nieuwe leningen 2025 EUR0; tick1247
+bud_zbr_repayments_2025,zorgbedrijf_rivierenland,2025,3807456,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Periodieke aflossingen 3.807m; tick1247
+bud_zbr_interest_2025,zorgbedrijf_rivierenland,2025,691670,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Financiele kosten J5 0.692m; tick1247
+bud_zbr_costs_2025,zorgbedrijf_rivierenland,2025,57323145,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,J5 costs total 57.323m; tick1247
+bud_zbr_provisions_vg_2025,zorgbedrijf_rivierenland,2025,3722003,,,bbc_jr_realized,src_zorgbedrijf_rivierenland_jr2025,strong,Voorziening vakantiegeld YE2025 3.722m; tick1247
