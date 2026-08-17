@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1260** (2026-08-17)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1251-1260: Welzijnszorg Kempen · Cultuur Geel · EVA Lokeren · AG-O · Gent K&D/Erfgoed/IVA HH/District09/sogent · **AG Vespa Antwerpen** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1251-1260 is VL residual dual L5 (not near-complete of 348bn):** **AG Vespa** assets **618.6m** fin debt **179.6m** DBFM **109.4m** gecorr AFM **−1.86m** city dual **16.3m** PnL **−2.36m** · **sogent** assets **330.0m** fin debt **96.3m** AFM **−3.90m** ICC **35m** · District09 member IT **56.3m** · AG-O cum loss **−29.2m** · prior Antwerpen zorg AFM **−18.87m** / Dodoens equity **−18.88m** / Welzijnsband fee **1.08m** stack retained |
+| **E. FOI-ready gaps** | **~903** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~951** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM shells** (**NEW AG Vespa** fin debt **EUR179.6m** DBFM **EUR109.4m** gecorr AFM **−EUR1.86m** city dual **EUR16.3m** · **sogent** AFM **−EUR3.90m** debt **EUR96.3m** ICC **EUR35m** · AG-O cum loss **−EUR29.2m** · prior Zorgbedrijf Antwerpen AFM **−EUR18.87m** debt **EUR220m** / Dodoens equity **−EUR18.88m** / Hasselt ~EUR95–103m stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1260)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | ~33725 |
+| commitments.csv | ~4608 |
+| leaderboard.csv | ~6788 |
+| entities.csv | ~987 |
+| sources.csv | ~2180 |
+| FOI ready | ~903 |
+| FOI answered | ~9 |
+| FOI partial | ~27 |
+| FOI total rows | ~951 |
+| research_queue open | rq_116 deferred + rq_1261 hole-fill after progress |
+
+### What improved since tick 1250
+
+- **VL residual dual JR2025 Entity II (tick1251-1259):** Welzijnszorg Kempen 27-muni fee hike · AGB Cultuur Geel prijssub **1.47m** city loans **5.97m** · EVA Gezinswelzijn designed-zero toelage **0.33m** · **AG-O** cum loss **−29.16m** inbreng **41.56m** · Gent cluster: K&D city sub **7.63m** / Erfgoed **5.15m** / IVA HH expl **7.05m** / District09 member IT **56.33m** / **sogent** AFM **−3.90m** debt **96.31m** ICC **35m**.
+- **NEW (tick1260):** **AG Vespa Antwerpen** urban-development / real-estate AGB (KBO 0267.402.076) assets **618.620m** · cash **53.164m** JUMP · voorraden **76.275m** · **fin debt 179.628m** (DBFM PZA **109.40m** + city 0% **34.85m** + achtergesteld **29.60m**) · AFM **+7.296m** / **gecorr AFM −1.863m NEG** · BBR **+14.912m** / avail **+63.189m** · city werk **3.672m** + invest-sub **12.760m** · PnL **−2.362m** · personnel **16.946m** / **168,9 VTE** · Kuub toelage **5.951m** · FOI DBFM + 459-vs-178 FTE ready.
+- **Dual map themes:** **mega city real-estate AGB + DBFM police HQ** (Vespa 180m / 109m) · **Gent urban-development ICC/debt** (sogent) · **IT cost-recovery AGB** (District09) · **deep cum-loss patrimonium** (AG-O) · prior mega care / pension-shell stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
 ## Snapshot at **tick 1250** (2026-08-17)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

@@ -33678,3 +33678,49 @@ bud_sogent_period_repay_2025,agb_sogent,2025,1435393,,,bbc_jr_realized,src_sogen
 bud_sogent_provisions_2025,agb_sogent,2025,8643470,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,VOL-kap voorzieningen 8.643m (was 9.187m); tick1259
 bud_sogent_debts_2025,agb_sogent,2025,116515523,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,VOL-kap schulden totaal 116.516m; tick1259
 bud_sogent_city_invest_sub_2025,agb_sogent,2025,293949,,,bbc_jr_realized,src_sogent_jr2025_bbc,strong,BBC T2 investeringssubsidie gemeente 0.294m; tick1259
+bud_vespa_assets_2025,ag_vespa_antwerpen,2025,618620036,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC J4 / NBB assets YE2025 618.620m (was 609.796m); tick1260
+bud_vespa_equity_nbb_2025,ag_vespa_antwerpen,2025,310837047,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,NBB EV YE2025 310.837m (kapitaal 213.675 + reserves 19.806 + kapitaalsub 77.356); tick1260
+bud_vespa_nettoactief_bbc_2025,ag_vespa_antwerpen,2025,313813418,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC J4 nettoactief 313.813m; tick1260
+bud_vespa_capital_2025,ag_vespa_antwerpen,2025,213674608,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,NBB kapitaal 213.675m after city inbreng +2.273m; tick1260
+bud_vespa_capital_sub_2025,ag_vespa_antwerpen,2025,77356216,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC/NBB kapitaalsubsidies 77.356m (was 68.398m); tick1260
+bud_vespa_cum_surplus_2025,ag_vespa_antwerpen,2025,14148564,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC J4/T5 gecumuleerd overschot 14.149m (was 17.083m); tick1260
+bud_vespa_cash_2025,ag_vespa_antwerpen,2025,53164169,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC J4 / NBB thesaurie 53.164m JUMP (was 40.518m); tick1260
+bud_vespa_inventory_2025,ag_vespa_antwerpen,2025,76274605,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC/NBB voorraden 76.275m (comm 31.00 + wonen 4.22 + ontw 46.34); tick1260
+bud_vespa_mva_2025,ag_vespa_antwerpen,2025,435680216,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC J4 MVA 435.680m (leasing 22.384m); tick1260
+bud_vespa_fva_2025,ag_vespa_antwerpen,2025,8068220,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC J4 FVA 8.068m (toelichting 9.408m incl. achtergesteld); tick1260
+bud_vespa_fin_debt_2025,ag_vespa_antwerpen,2025,179628090,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC T4 totale financiële schuld YE2025 179.628m; tick1260
+bud_vespa_fin_debt_lt_2025,ag_vespa_antwerpen,2025,173838865,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC T4/J4 LT financiële schuld 173.839m; tick1260
+bud_vespa_fin_debt_st_due_2025,ag_vespa_antwerpen,2025,5789224,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC T4 LT-binnen-jaar 5.789m (city 2.05 + DBFM 3.74); tick1260
+bud_vespa_dbfm_lt_2025,ag_vespa_antwerpen,2025,109400000,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,Toelichting B12 DBFM mastergebouw PZA LT 109.40m; tick1260
+bud_vespa_city_subord_2025,ag_vespa_antwerpen,2025,29600000,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,Toelichting B12 city achtergesteld 29.60m; tick1260
+bud_vespa_city_invest_loan_2025,ag_vespa_antwerpen,2025,34850000,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,Toelichting B12 city investeringskrediet 20j 0% 34.85m; tick1260
+bud_vespa_expl_rec_2025,ag_vespa_antwerpen,2025,137969376,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC J2 exploitatieontvangsten 137.969m; tick1260
+bud_vespa_expl_exp_2025,ag_vespa_antwerpen,2025,124991787,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC J2 exploitatieuitgaven 124.992m; tick1260
+bud_vespa_expl_saldo_2025,ag_vespa_antwerpen,2025,12977588,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC J2 exploitatiesaldo +12.978m (MJP +10.313m); tick1260
+bud_vespa_invest_exp_2025,ag_vespa_antwerpen,2025,11285004,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC J2 investeringsuitgaven 11.285m (MJP 32.759m; 34% realisatie); tick1260
+bud_vespa_invest_saldo_2025,ag_vespa_antwerpen,2025,5806965,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC J2 investeringssaldo +5.807m (MJP -23.325m); tick1260
+bud_vespa_fin_saldo_2025,ag_vespa_antwerpen,2025,-3872863,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC J2 financieringssaldo -3.873m; tick1260
+bud_vespa_bbr_2025,ag_vespa_antwerpen,2025,14911690,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC J2 budgettair resultaat +14.912m (MJP -19.025m); tick1260
+bud_vespa_bbr_cum_2025,ag_vespa_antwerpen,2025,63498689,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC J2 gecumuleerd BBR 63.499m; tick1260
+bud_vespa_bbr_avail_2025,ag_vespa_antwerpen,2025,63188686,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC J2 beschikbaar BBR +63.189m (blocked huurwaarborg 0.310m); tick1260
+bud_vespa_afm_2025,ag_vespa_antwerpen,2025,7295849,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC J2 AFM +7.296m (MJP +4.632m); tick1260
+bud_vespa_afm_gecorr_2025,ag_vespa_antwerpen,2025,-1863367,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC J2 gecorrigeerde AFM -1.863m (aangewezen 14.841m); tick1260
+bud_vespa_city_alg_sub_2025,ag_vespa_antwerpen,2025,2542620,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC T2 algemene werkingssubsidie gemeente 2.543m; tick1260
+bud_vespa_city_spec_sub_2025,ag_vespa_antwerpen,2025,994368,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC T2 specifieke werkingssubsidie gemeente 0.994m; tick1260
+bud_vespa_vl_spec_sub_2025,ag_vespa_antwerpen,2025,134996,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC T2 specifieke werkingssubsidie Vlaanderen 0.135m; tick1260
+bud_vespa_werkingssub_2025,ag_vespa_antwerpen,2025,3671983,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC T2 werkingssubsidies totaal 3.672m; tick1260
+bud_vespa_city_invest_sub_2025,ag_vespa_antwerpen,2025,12759635,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC T2 investeringssubsidies van de gemeente 12.760m; tick1260
+bud_vespa_goods_2025,ag_vespa_antwerpen,2025,102740689,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC T2 goederen en diensten 102.741m; tick1260
+bud_vespa_personnel_2025,ag_vespa_antwerpen,2025,16946225,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC T2 personeel 16.946m / 178 pers / 168.9 VTE (NBB 17.317m); tick1260
+bud_vespa_interest_2025,ag_vespa_antwerpen,2025,3378312,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC T2 rente aan financiële instellingen 3.378m (DBFM); tick1260
+bud_vespa_period_repay_2025,ag_vespa_antwerpen,2025,5681740,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC T2/T4 periodieke aflossingen 5.682m; tick1260
+bud_vespa_capital_increase_2025,ag_vespa_antwerpen,2025,2272609,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC §7 / T5 kapitaalsinbreng Stad 2.273m (T2 vermeerdering 2.448m); tick1260
+bud_vespa_pnl_nbb_2025,ag_vespa_antwerpen,2025,-2361662,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,NBB/toelichting netto resultaat -2.362m (BBC J5 -2.934m); tick1260
+bud_vespa_omzet_bouw_2025,ag_vespa_antwerpen,2025,95768378,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,NBB R02 omzet bouw- en stadsprojecten 95.768m; tick1260
+bud_vespa_rental_sales_2025,ag_vespa_antwerpen,2025,24339134,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,NBB R01 verhuur en verkoop 24.339m; tick1260
+bud_vespa_subsidies_r03_2025,ag_vespa_antwerpen,2025,7594699,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,NBB R03 subsidies 7.595m (woon 4.03 + city 2.88 + cap 0.12); tick1260
+bud_vespa_onderaanneming_2025,ag_vespa_antwerpen,2025,90853038,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,NBB R06 onderaannemingen 90.853m; tick1260
+bud_vespa_provisions_2025,ag_vespa_antwerpen,2025,29009903,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,NBB voorzieningen 29.010m (Cadix 6.78 + Slachthuis 9.83 + NZ 8.50); tick1260
+bud_vespa_kuub_toelage_2025,ag_vespa_antwerpen,2025,5951403,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC §7 toelage project Kuub 5.951m; tick1260
+bud_vespa_offbal_area_2025,ag_vespa_antwerpen,2025,16895342,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,BBC §5 off-balance gebiedsontwikkeling 16.895m; tick1260
+bud_vespa_politie_shell_2025,ag_vespa_antwerpen,2025,-6205484,,,bbc_jr_realized,src_vespa_jr2025_bbc,strong,Toelichting analytisch politiepatrimonium saldo -6.205m; tick1260

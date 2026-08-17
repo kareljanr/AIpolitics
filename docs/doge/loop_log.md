@@ -17360,3 +17360,12 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources+2/entities(+city note)/budgets+45/commitments+7/leaderboard+7 + FOI ready `gap_sogent_afm_neg_3_90m_icc_35m_fin_debt_96_31m_l5` (not sent); rq_1259=done; spawn rq_1260.
 - Next: rq_1260 residual dual L5 VL JR2025 hole_fill + **every-10 progress refresh** (tick 1260 is a *0 tick). Gent dual AGB cluster 1255–1259 mapped.
 
+
+### Tick 1260 - 2026-08-17 - rq_1260 AG Vespa dual residual + progress@1260
+- Unit: AG Vespa (Autonoom Gemeentebedrijf Vastgoedbeheer en Stadsprojecten) JR2025 Entity II after city Antwerpen stub + Zorgbedrijf Antwerpen tick1246 (KBO 0267.402.076; 43p BBC text + 10p toelichting; GR 2026_GR_00589 29.06.2026). Distinct from Gent AGB cluster 1255–1259. Urban development / real estate vehicle; seat Paradeplein 25.
+- EUR strong: assets **618.620m** (was 609.796m); cash **53.164m** JUMP; voorraden **76.275m**; fin debt **179.628m** (LT **173.839m** = DBFM PZA **109.40m** + city 0% **34.85m** + achtergesteld **29.60m**; binnen-jaar **5.789m**); expl rec **137.969m** / exp **124.992m** / saldo **+12.978m**; invest **+5.807m**; BBR **+14.912m** / avail **+63.189m**; AFM **+7.296m** / **gecorr −1.863m**; city werkingssub **3.672m** (alg **2.543m** + spec **0.994m**) + VL spec **0.135m** + city invest-sub **12.760m**; PnL NBB **−2.362m** / BBC J5 **−2.934m**; personnel **16.946m** / **178** / **168,9 VTE**; Kuub toelage **5.951m**; off-balance gebied **16.895m**.
+- CSVs: sources+2/entities(upgrade+city note)/budgets+45/commitments+7/leaderboard+7 + FOI ready `gap_vespa_gecorr_afm_neg_1_86m_fin_debt_179_63m_dbfm_109_4m_l5` (not sent); rq_1260=done; spawn rq_1261; ticks=1260.
+- Progress@1260: refreshed progress_every_10_ticks.md + doge_waste_top10_current.md. Layers A 100 / B 100 / C ~99 / D ~74-88 (not near-complete of 348bn) / E ~903 ready. Pure annual waste top10 **stable** vs 1250 (GIP/fossil/cars/cheque/reporté). Dual off-top10 adds Vespa fin debt 179.63m / DBFM 109.4m / gecorr AFM −1.86m + Gent AGB cluster 1255–1259.
+- Coverage: 1251–1260 is residual dual L5 (Welzijnszorg Kempen · Cultuur Geel · EVA Lokeren · AG-O · Gent K&D/Erfgoed/IVA HH/District09/sogent · **Vespa**). Does **not** move L5 near-complete of €347.956 bn TE. Taxex/FFS remain off-TE.
+- Next: rq_1261 residual dual L5 VL JR2025 hole_fill (prefer AG Stedelijk Onderwijs / CIA Erfgoed / WAGSO Waregem).
+
