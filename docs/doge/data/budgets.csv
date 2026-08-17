@@ -34397,3 +34397,34 @@ bud_ronse_agb_sub_2025,city_ronse,2025,2300865,,,executed,src_ronse_jr2025_bbc,s
 bud_ronse_agb_loans_2025,city_ronse,2025,28528777,,,executed,src_ronse_jr2025_bbc,strong,TB 2903004 toegestane AGB-leningen 28.528777m; tick1287; primary BBC
 bud_ronse_ocmw_tussen_2025,city_ronse,2025,5102638,,,executed,src_ronse_jr2025_bbc,strong,Kengetallen/AR tussenkomst OCMW 5.102638m; tick1287; primary BBC
 bud_ronse_leefloon_2025,city_ronse,2025,3645308,,,executed,src_ronse_jr2025_bbc,strong,T2/J5 individuele hulp 3.645308m vs 3.060259m; tick1287; primary BBC
+bud_zwaan_assets_2025,zorg_zilveren_zwaan,2025,2539583,,,executed,src_zwaan_jr2025_bbc,strong,J4 assets 2.539583m vs 2.352152m; tick1288; primary BBC
+bud_zwaan_assets_2024,zorg_zilveren_zwaan,2024,2352152,,,executed,src_zwaan_jr2025_bbc,strong,J4 YE2024 assets 2.352152m; tick1288; primary BBC
+bud_zwaan_cash_2025,zorg_zilveren_zwaan,2025,737515,,,executed,src_zwaan_jr2025_bbc,strong,J4 cash 0.737515m JUMP vs 0.533593m; tick1288; primary BBC
+bud_zwaan_cash_2024,zorg_zilveren_zwaan,2024,533593,,,executed,src_zwaan_jr2025_bbc,strong,J4 YE2024 cash 0.533593m; tick1288; primary BBC
+bud_zwaan_fva_2025,zorg_zilveren_zwaan,2025,27142,,,executed,src_zwaan_jr2025_bbc,strong,J4 FVA 0.027142m; IGS 0.001250 + other 0.025892; tick1288; primary BBC
+bud_zwaan_mva_2025,zorg_zilveren_zwaan,2025,391069,,,executed,src_zwaan_jr2025_bbc,strong,J4 MVA 0.391069m; leasing 0; WZC buildings mostly off-book; tick1288; primary BBC
+bud_zwaan_equity_2025,zorg_zilveren_zwaan,2025,38951,,,executed,src_zwaan_jr2025_bbc,strong,J4 nettoactief 0.038951m THIN vs 0.048646m; tick1288; primary BBC
+bud_zwaan_cap_subs_2025,zorg_zilveren_zwaan,2025,287629,,,executed,src_zwaan_jr2025_bbc,strong,J4 kapitaalssubsidies 0.287629m vs 0.184790m; tick1288; primary BBC
+bud_zwaan_cum_pnl_2025,zorg_zilveren_zwaan,2025,-636847,,,executed,src_zwaan_jr2025_bbc,strong,J4 gecumuleerd tekort -0.636847m vs -0.524312m; tick1288; primary BBC
+bud_zwaan_other_eq_2025,zorg_zilveren_zwaan,2025,388169,,,executed,src_zwaan_jr2025_bbc,strong,J4 overig nettoactief 0.388169m (inbreng); tick1288; primary BBC
+bud_zwaan_schulden_2025,zorg_zilveren_zwaan,2025,2500632,,,executed,src_zwaan_jr2025_bbc,strong,J4 schulden 2.500632m all ST vs 2.303506m; tick1288; primary BBC
+bud_zwaan_st_prov_2025,zorg_zilveren_zwaan,2025,391124,,,executed,src_zwaan_jr2025_bbc,strong,J4 ST voorzieningen 0.391124m vs 0.364183m; tick1288; primary BBC
+bud_zwaan_fin_debt_2025,zorg_zilveren_zwaan,2025,0,,,executed,src_zwaan_jr2025_bbc,strong,T4 fin debt 0 (no bank/lease loans); tick1288; primary BBC
+bud_zwaan_expl_2025,zorg_zilveren_zwaan,2025,6207,,,executed,src_zwaan_jr2025_bbc,strong,J2 exploitatiesaldo +6.207; tick1288; primary BBC
+bud_zwaan_expl_ontv_2025,zorg_zilveren_zwaan,2025,11111973,,,executed,src_zwaan_jr2025_bbc,strong,J2 expl ontv 11.111973m; tick1288; primary BBC
+bud_zwaan_expl_uitg_2025,zorg_zilveren_zwaan,2025,11105766,,,executed,src_zwaan_jr2025_bbc,strong,J2 expl uitg 11.105766m; tick1288; primary BBC
+bud_zwaan_invest_2025,zorg_zilveren_zwaan,2025,0,,,executed,src_zwaan_jr2025_bbc,strong,J2 invest saldo 0 (ontv=uitg 0.148574m OCMW-funded); tick1288; primary BBC
+bud_zwaan_bbr_2025,zorg_zilveren_zwaan,2025,6207,,,executed,src_zwaan_jr2025_bbc,strong,J2 budgettair resultaat boekjaar +6.207; tick1288; primary BBC
+bud_zwaan_avail_2025,zorg_zilveren_zwaan,2025,11863,,,executed,src_zwaan_jr2025_bbc,strong,J2 beschikbaar BBR 0.011863m; tick1288; primary BBC
+bud_zwaan_afm_2025,zorg_zilveren_zwaan,2025,6207,,,executed,src_zwaan_jr2025_bbc,strong,J2 AFM +6.207 (no aflossingen); tick1288; primary BBC
+bud_zwaan_gecorr_2025,zorg_zilveren_zwaan,2025,6207,,,executed,src_zwaan_jr2025_bbc,strong,J2 gecorr AFM +6.207; tick1288; primary BBC
+bud_zwaan_pnl_2025,zorg_zilveren_zwaan,2025,-112534,,,executed,src_zwaan_jr2025_bbc,strong,J5 PnL -0.112534m vs -0.111204m; tick1288; primary BBC
+bud_zwaan_pers_2025,zorg_zilveren_zwaan,2025,7767330,,,executed,src_zwaan_jr2025_bbc,strong,T2/J5 bezoldigingen 7.767330m (niet-vast 7.491m); tick1288; primary BBC
+bud_zwaan_goederen_2025,zorg_zilveren_zwaan,2025,3337305,,,executed,src_zwaan_jr2025_bbc,strong,T2/J5 goederen en diensten 3.337305m; tick1288; primary BBC
+bud_zwaan_werking_2025,zorg_zilveren_zwaan,2025,7321353,,,executed,src_zwaan_jr2025_bbc,strong,T2 ontvangsten uit de werking 7.321353m; tick1288; primary BBC
+bud_zwaan_werksub_2025,zorg_zilveren_zwaan,2025,3759267,,,executed,src_zwaan_jr2025_bbc,strong,T2 werkingssubsidies 3.759267m; tick1288; primary BBC
+bud_zwaan_ocmw_sub_2025,zorg_zilveren_zwaan,2025,1809678,,,executed,src_zwaan_jr2025_bbc,strong,T2 OCMW algemene werksub 1.809678m DROP vs 2.060797m; tick1288; primary BBC
+bud_zwaan_ocmw_sub_2024,zorg_zilveren_zwaan,2024,2060797,,,executed,src_zwaan_jr2025_bbc,strong,T2 YE2024 OCMW werksub 2.060797m; tick1288; primary BBC
+bud_zwaan_ocmw_inv_2025,zorg_zilveren_zwaan,2025,148574,,,executed,src_zwaan_jr2025_bbc,strong,T2 OCMW investeringssubsidies 0.148574m; tick1288; primary BBC
+bud_zwaan_vl_spec_2025,zorg_zilveren_zwaan,2025,1715176,,,executed,src_zwaan_jr2025_bbc,strong,T2 VL specifieke werksub 1.715176m; tick1288; primary BBC
+bud_zwaan_fed_spec_2025,zorg_zilveren_zwaan,2025,233338,,,executed,src_zwaan_jr2025_bbc,strong,T2 federale specifieke werksub 0.233338m; tick1288; primary BBC
