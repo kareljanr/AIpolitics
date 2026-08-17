@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T16:45:00Z,rq_1308,1308,no,tick1308 Stad+OCMW Beerse JR2025 GE residual; KBO 0207.505.764/0212.238.374; assets 103960480 fin debt 13817644 tussen 4186158 pers 30670713 JUMP; FOI ready; next rq_1309 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T17:20:00Z,rq_1309,1309,no,tick1309 EVA Hoeve Holleken Linkebeek JR2025 residual; KBO 0420.175.591; GR result -1065.28 scan -1154.69 assets 167389.51 pers 62265.80; FOI ready; next rq_1310 residual dual L5 VL + every-10; continuous hole_fill

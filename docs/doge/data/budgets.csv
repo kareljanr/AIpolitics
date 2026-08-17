@@ -35149,3 +35149,28 @@ bud_brsge_toegestane_agb_2025,city_beerse,2025,799075,,,executed,src_brsge_jr202
 bud_brsge_intrest_2025,city_beerse,2025,441305,,,executed,src_brsge_jr2025_bbc,strong,Kengetallen intresten 441305; tick1308; primary BBC
 bud_brsge_iva_2025,city_beerse,2025,1145965,,,executed,src_brsge_jr2025_bbc,strong,J4 IVA 1145965; tick1308; primary BBC
 bud_brsge_st_schuld_2025,city_beerse,2025,7958447,,,executed,src_brsge_jr2025_bbc,strong,J4 ST schulden 7958447 vs 7315869; tick1308; primary BBC
+bud_hhlnk_result_gr_2025,eva_hoeve_holleken,2025,-1065.28,,,executed,src_hhlnk_jr2025_gr,strong,GR 23.02.2026 result -1065.28; tick1309; primary GR text
+bud_hhlnk_carry_prev_2025,eva_hoeve_holleken,2024,74156.17,,,executed,src_hhlnk_jr2025_gr,strong,GR prior overdracht 74156.17; tick1309; primary GR text
+bud_hhlnk_carry_2025,eva_hoeve_holleken,2025,73090.89,,,executed,src_hhlnk_jr2025_gr,strong,GR new overdracht 73090.89; tick1309; primary GR text
+bud_hhlnk_result_scan_2025,eva_hoeve_holleken,2025,-1154.69,,,executed,src_hhlnk_jr2025_pdf,medium,scan expenses 93286.06 - income 92131.37 = -1154.69 vs GR -1065.28; tick1309; primary scan medium
+bud_hhlnk_exp_2025,eva_hoeve_holleken,2025,93286.06,,,executed,src_hhlnk_jr2025_pdf,medium,scan uitgaven 93286.06; tick1309; primary scan medium
+bud_hhlnk_inc_2025,eva_hoeve_holleken,2025,92131.37,,,executed,src_hhlnk_jr2025_pdf,medium,scan inkomsten 92131.37; tick1309; primary scan medium
+bud_hhlnk_pers_2025,eva_hoeve_holleken,2025,62265.80,,,executed,src_hhlnk_jr2025_pdf,medium,scan salarissen+sociale lasten 62265.80; tick1309; primary scan medium
+bud_hhlnk_rental_2025,eva_hoeve_holleken,2025,74353.33,,,executed,src_hhlnk_jr2025_pdf,medium,scan verhuur lokalen 74353.33; city dual unpublished; tick1309; primary scan medium
+bud_hhlnk_cult_exp_2025,eva_hoeve_holleken,2025,16115.87,,,executed,src_hhlnk_jr2025_pdf,medium,scan culturele activiteiten uitg 16115.87; tick1309; primary scan medium
+bud_hhlnk_cult_inc_2025,eva_hoeve_holleken,2025,15461.51,,,executed,src_hhlnk_jr2025_pdf,medium,scan culturele activiteiten ontv 15461.51; tick1309; primary scan medium
+bud_hhlnk_assets_2025,eva_hoeve_holleken,2025,167389.51,,,executed,src_hhlnk_jr2025_pdf,medium,scan activa 167389.51; tick1309; primary scan medium
+bud_hhlnk_equity_2025,eva_hoeve_holleken,2025,135207.15,,,executed,src_hhlnk_jr2025_pdf,medium,scan patrimonium 135207.15; tick1309; primary scan medium
+bud_hhlnk_art_2025,eva_hoeve_holleken,2025,60290.00,,,executed,src_hhlnk_jr2025_pdf,medium,scan kunstwerken 60290 at 50pct artist declaration; tick1309; primary scan medium
+bud_hhlnk_placement_2025,eva_hoeve_holleken,2025,71979.17,,,executed,src_hhlnk_jr2025_pdf,medium,scan belegging 71979.17; tick1309; primary scan medium
+bud_hhlnk_bank_2025,eva_hoeve_holleken,2025,30085.33,,,executed,src_hhlnk_jr2025_pdf,medium,scan bank 30085.33; tick1309; primary scan medium
+bud_hhlnk_kassa_2025,eva_hoeve_holleken,2025,3208.75,,,executed,src_hhlnk_jr2025_pdf,medium,scan kassa 3208.75; tick1309; primary scan medium
+bud_hhlnk_cash_2025,eva_hoeve_holleken,2025,33294.08,,,executed,src_hhlnk_jr2025_pdf,medium,scan bank+kassa 30085.33+3208.75=33294.08; tick1309; primary scan medium
+bud_hhlnk_material_2025,eva_hoeve_holleken,2025,1826.26,,,executed,src_hhlnk_jr2025_pdf,medium,scan materiaal 1826.26; tick1309; primary scan medium
+bud_hhlnk_deferred_rent_2025,eva_hoeve_holleken,2025,27335.00,,,executed,src_hhlnk_jr2025_pdf,medium,scan financiele schuld 27335 labelled huur 2026 deferred not bank debt; tick1309; primary scan medium
+bud_hhlnk_suppliers_2025,eva_hoeve_holleken,2025,4847.36,,,executed,src_hhlnk_jr2025_pdf,medium,scan leveranciers 4847.36; tick1309; primary scan medium
+bud_hhlnk_equip_exp_2025,eva_hoeve_holleken,2025,2855.21,,,executed,src_hhlnk_jr2025_pdf,medium,scan uitrusting uitg 2855.21; tick1309; primary scan medium
+bud_hhlnk_diverse_2025,eva_hoeve_holleken,2025,12049.18,,,executed,src_hhlnk_jr2025_pdf,medium,scan diverse uitgaven 12049.18; tick1309; primary scan medium
+bud_hhlnk_soc_red_2025,eva_hoeve_holleken,2025,1230.85,,,executed,src_hhlnk_jr2025_pdf,medium,scan vermindering sociale lasten 1230.85; tick1309; primary scan medium
+bud_hhlnk_interest_2025,eva_hoeve_holleken,2025,620.68,,,executed,src_hhlnk_jr2025_pdf,medium,scan bank interesten 620.68; tick1309; primary scan medium
+bud_hhlnk_other_inc_2025,eva_hoeve_holleken,2025,465.00,,,executed,src_hhlnk_jr2025_pdf,medium,scan overige baten 465.00; tick1309; primary scan medium
