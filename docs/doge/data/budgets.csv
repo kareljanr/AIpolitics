@@ -35744,3 +35744,36 @@ bud_lsm_new_eng_2025,eva_lsm,2025,19600000,,,executed,src_lsm_jr2025_pdf,strong,
 bud_lsm_eng_prov_2025,eva_lsm,2025,27895000,,,executed,src_lsm_jr2025_pdf,strong,narrative same official PDF: engagement in provisie 27895000; tick1340
 bud_lsm_cum_proj_2025,eva_lsm,2025,341400000,,,executed,src_lsm_jr2025_pdf,strong,narrative same official PDF: 2008-2025 projects 341.4m (protocol 171.7m + thema 169.7m); tick1340
 bud_lsm_cum_lrm_div_2025,eva_lsm,2025,133800000,,,executed,src_lsm_jr2025_pdf,strong,narrative same official PDF: cum LRM dividends 133.8m through 2025-12-31; tick1340
+bud_igeandv_assets_2025,igean_dv,2025,103920441,,,executed,src_igean_jv2025_pdf,strong,2025 assets 103920441.47 was 108957794.47; tick1341; primary WVV in official PDF
+bud_igeandv_fixed_2025,igean_dv,2025,369182,,,executed,src_igean_jv2025_pdf,strong,2025 vaste activa 369182.44 was 421996.46; tick1341; primary WVV
+bud_igeandv_current_2025,igean_dv,2025,103551259,,,executed,src_igean_jv2025_pdf,strong,2025 vlottende activa 103551259.03 was 108535798.01; tick1341; primary WVV
+bud_igeandv_inv_re_2025,igean_dv,2025,68186223,,,executed,src_igean_jv2025_pdf,strong,2025 onroerende goederen bestemd voor verkoop 68186223.11 was 67022776.97; tick1341; primary WVV code 35
+bud_igeandv_lt_recv_2025,igean_dv,2025,23487789,,,executed,src_igean_jv2025_pdf,strong,2025 LT overige vorderingen 23487789.09 DROP vs 31494163.53; tick1341; primary WVV
+bud_igeandv_st_recv_2025,igean_dv,2025,10125477,,,executed,src_igean_jv2025_pdf,strong,2025 ST recv 10125477.41 (trade 3399977.29 + other 6725500.12); tick1341; primary WVV
+bud_igeandv_cash_2025,igean_dv,2025,1645795,,,executed,src_igean_jv2025_pdf,strong,2025 cash 1645794.74 DROP vs 1930570.05; tick1341; primary WVV
+bud_igeandv_equity_2025,igean_dv,2025,4832798,,,executed,src_igean_jv2025_pdf,strong,2025 equity 4832798.30 was 4808612.44 thin vs 103.92m assets; tick1341; primary WVV
+bud_igeandv_prov_2025,igean_dv,2025,13693936,,,executed,src_igean_jv2025_pdf,strong,2025 voorzieningen overige risico's 13693936.03 was 13208745.97; tick1341; primary WVV
+bud_igeandv_debt_2025,igean_dv,2025,85393707,,,executed,src_igean_jv2025_pdf,strong,2025 schulden 85393707.14 was 90940436.06; tick1341; primary WVV
+bud_igeandv_lt_fin_2025,igean_dv,2025,17406207,,,executed,src_igean_jv2025_pdf,strong,2025 LT financial 17406206.96 (krediet 17185906.96 + achtergesteld 220300); tick1341; primary WVV
+bud_igeandv_st_debt_2025,igean_dv,2025,65591635,,,executed,src_igean_jv2025_pdf,strong,2025 ST schulden 65591635.22 was 69334281.16; tick1341; primary WVV
+bud_igeandv_st_ltcurr_2025,igean_dv,2025,42998519,,,executed,src_igean_jv2025_pdf,strong,2025 LT-within-year 42998519.00 was 43250276.87; tick1341; primary WVV
+bud_igeandv_st_fin_2025,igean_dv,2025,10338139,,,executed,src_igean_jv2025_pdf,strong,2025 ST financial kredietinstellingen 10338138.95 was 18327510.22; tick1341; primary WVV
+bud_igeandv_prepay_2025,igean_dv,2025,11153539,,,executed,src_igean_jv2025_pdf,strong,2025 ST vooruitbetalingen 11153538.90 was 6596659.72; tick1341; primary WVV
+bud_igeandv_turnover_2025,igean_dv,2025,5134809,,,executed,src_igean_jv2025_pdf,strong,2025 omzet 5134808.64 was 4156543.81; tick1341; primary WVV
+bud_igeandv_ops_rev_2025,igean_dv,2025,9193942,,,executed,src_igean_jv2025_pdf,strong,2025 bedrijfsopbrengsten 9193942.17 was 11471572.20; tick1341; primary WVV
+bud_igeandv_ops_cost_2025,igean_dv,2025,6743333,,,executed,src_igean_jv2025_pdf,strong,2025 bedrijfskosten 6743332.64 was 7876195.03; tick1341; primary WVV
+bud_igeandv_ops_2025,igean_dv,2025,2450610,,,executed,src_igean_jv2025_pdf,strong,2025 bedrijfswinst 2450609.53 was 3595377.17; tick1341; primary WVV 9901
+bud_igeandv_pers_2025,igean_dv,2025,4129543,,,executed,src_igean_jv2025_pdf,strong,2025 bezoldigingen 4129542.51 was 3908613.25; tick1341; primary WVV
+bud_igeandv_fin_cost_2025,igean_dv,2025,2362953,,,executed,src_igean_jv2025_pdf,strong,2025 fin kosten 2362952.85 (schulden 2359176.45); tick1341; primary WVV
+bud_igeandv_pnl_2025,igean_dv,2025,54898,,,executed,src_igean_jv2025_pdf,strong,2025 PnL +54898.36 was +53259.29; tick1341; primary WVV 9904
+bud_igeanmv_assets_2025,igean_mv,2025,38167808,,,executed,src_igean_jv2025_pdf,strong,2025 assets 38167808.17 JUMP vs 33564769.31; tick1341; primary WVV sister
+bud_igeanmv_fixed_2025,igean_mv,2025,26642129,,,executed,src_igean_jv2025_pdf,strong,2025 vaste activa 26642129.03 JUMP vs 19340126.18; tick1341; primary WVV sister
+bud_igeanmv_mva_2025,igean_mv,2025,21124431,,,executed,src_igean_jv2025_pdf,strong,2025 MVA 21124430.79 (CIP 6631529.82); tick1341; primary WVV sister
+bud_igeanmv_cash_2025,igean_mv,2025,2706083,,,executed,src_igean_jv2025_pdf,strong,2025 cash 2706083.31 DROP vs 3261011.76; tick1341; primary WVV sister
+bud_igeanmv_equity_2025,igean_mv,2025,4075700,,,executed,src_igean_jv2025_pdf,strong,2025 equity 4075700.02 DROP vs 4239710.35; tick1341; primary WVV sister
+bud_igeanmv_debt_2025,igean_mv,2025,28807341,,,executed,src_igean_jv2025_pdf,strong,2025 schulden 28807340.80 JUMP vs 21895927.54; tick1341; primary WVV sister
+bud_igeanmv_lt_fin_2025,igean_mv,2025,5225411,,,executed,src_igean_jv2025_pdf,strong,2025 LT financial 5225410.65 (krediet 4437146.72 + overige 788263.93); tick1341; primary WVV sister
+bud_igeanmv_turnover_2025,igean_mv,2025,57621266,,,executed,src_igean_jv2025_pdf,strong,2025 omzet 57621265.80 was 57051316.19; tick1341; primary WVV sister
+bud_igeanmv_pers_2025,igean_mv,2025,19663281,,,executed,src_igean_jv2025_pdf,strong,2025 bezoldigingen 19663281.17 was 18783025.67; tick1341; primary WVV sister
+bud_igeanmv_ops_2025,igean_mv,2025,261007,,,executed,src_igean_jv2025_pdf,strong,2025 bedrijfswinst 261006.99 was 248563.15; tick1341; primary WVV sister 9901
+bud_igeanmv_pnl_2025,igean_mv,2025,0,,,executed,src_igean_jv2025_pdf,strong,2025 PnL 0 (9904 empty; auditor winst 0; tax 52660.04 = pretax 52660.04); tick1341; primary WVV sister

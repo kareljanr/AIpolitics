@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-18T02:10:00Z,rq_1340,1340,no,tick1340 EVA LSM leftover EVA residual + progress@1340; KBO 0806.608.349; live JR2025 PDF; sourced euros assets 85.847m cash 3.395m DROP portfolio 58.311m PnL +1.538; FOI ready; next rq_1341 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-18T03:15:00Z,rq_1341,1341,no,tick1341 IGEAN leftover IGS residual; KBO 0206.767.574; live JR2025 PDF; sourced euros assets 103.920m inv 68.186m debt 85.394m equity 4.833m PnL +54.898; FOI ready; next rq_1342 residual dual L5 VL; continuous hole_fill
