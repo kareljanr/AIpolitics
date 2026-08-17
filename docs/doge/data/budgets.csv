@@ -34499,3 +34499,38 @@ bud_bek_other_tax_2025,city_bekkevoort,2025,2811520,,,executed,src_bekkevoort_jr
 bud_bek_gemfonds_2025,city_bekkevoort,2025,2153511,,,executed,src_bekkevoort_jr2025_bbc,strong,T2 gemeentefonds 2.153511m; tick1290; primary BBC
 bud_bek_politie_2025,city_bekkevoort,2025,617968,,,executed,src_bekkevoort_jr2025_bbc,strong,T2 politiezone Hageland 0.617968m JUMP vs 0.520299m; tick1290; primary BBC
 bud_bek_hvz_2025,city_bekkevoort,2025,402145,,,executed,src_bekkevoort_jr2025_bbc,strong,T2 HVZ 0.402145m vs 0.351440m; tick1290; primary BBC
+bud_kap_assets_2024,city_kapelle_op_den_bos,2024,70027023,,,executed,src_kapelle_jr2025_bbc,strong,J4 YE2024 assets 70.027023m; tick1291; primary BBC
+bud_kap_cash_2024,city_kapelle_op_den_bos,2024,3955811,,,executed,src_kapelle_jr2025_bbc,strong,J4 YE2024 cash 3.955811m; tick1291; primary BBC
+bud_kap_fva_2025,city_kapelle_op_den_bos,2025,6021945,,,executed,src_kapelle_jr2025_bbc,strong,J4/T5 FVA 6.021945m; EVA 0 + IGS 4.743244 + OCMW-ver 0.004452; tick1291; primary BBC
+bud_kap_igs_2025,city_kapelle_op_den_bos,2025,4743244,,,executed,src_kapelle_jr2025_bbc,strong,J4/T5 IGS FVA 4.743244m; tick1291; primary BBC
+bud_kap_mva_2025,city_kapelle_op_den_bos,2025,54955614,,,executed,src_kapelle_jr2025_bbc,strong,J4 MVA 54.955614m; leasing 3.821441m; tick1291; primary BBC
+bud_kap_leasing_2025,city_kapelle_op_den_bos,2025,3821441,,,executed,src_kapelle_jr2025_bbc,strong,T5 leasing MVA 3.821441m vs 3.689575m; tick1291; primary BBC
+bud_kap_fin_debt_2024,city_kapelle_op_den_bos,2024,17860690,,,executed,src_kapelle_jr2025_bbc,strong,T4 YE2024 fin debt 17.860690m; tick1291; primary BBC
+bud_kap_pension_2025,city_kapelle_op_den_bos,2025,5478264,,,executed,src_kapelle_jr2025_bbc,strong,J4 LT pension 5.478264m vs 5.879556m; tick1291; primary BBC
+bud_kap_st_prov_2025,city_kapelle_op_den_bos,2025,619198,,,executed,src_kapelle_jr2025_bbc,strong,J4 ST voorzieningen 0.619198m; tick1291; primary BBC
+bud_kap_expl_2025,city_kapelle_op_den_bos,2025,3133935,,,executed,src_kapelle_jr2025_bbc,strong,J2 exploitatiesaldo +3.133935m; tick1291; primary BBC
+bud_kap_expl_ontv_2025,city_kapelle_op_den_bos,2025,19454923,,,executed,src_kapelle_jr2025_bbc,strong,J2 expl ontv 19.454923m; tick1291; primary BBC
+bud_kap_expl_uitg_2025,city_kapelle_op_den_bos,2025,16320988,,,executed,src_kapelle_jr2025_bbc,strong,J2 expl uitg 16.320988m; tick1291; primary BBC
+bud_kap_city_expl_2025,city_kapelle_op_den_bos,2025,4083744,,,executed,src_kapelle_jr2025_bbc,strong,J3/kengetallen city expl +4.083744m (18.391/14.307); tick1291; primary BBC
+bud_kap_ocmw_expl_2025,city_kapelle_op_den_bos,2025,-949809,,,executed,src_kapelle_jr2025_bbc,strong,J3/kengetallen OCMW expl -0.949809m (1.064/2.014); tick1291; primary BBC
+bud_kap_invest_2025,city_kapelle_op_den_bos,2025,-4683725,,,executed,src_kapelle_jr2025_bbc,strong,J2 invest -4.683725m; tick1291; primary BBC
+bud_kap_avail_2025,city_kapelle_op_den_bos,2025,4539484,,,executed,src_kapelle_jr2025_bbc,strong,J2 beschikbaar BBR 4.539484m; tick1291; primary BBC
+bud_kap_gecorr_2025,city_kapelle_op_den_bos,2025,1766261,,,executed,src_kapelle_jr2025_bbc,strong,J2 gecorr AFM +1.766261m; tick1291; primary BBC
+bud_kap_tussen_2025,city_kapelle_op_den_bos,2025,1134205,,,executed,src_kapelle_jr2025_bbc,strong,GR uittreksel city->OCMW tussenkomst 1.13420467m; tick1291; primary BBC
+bud_kap_pers_2025,city_kapelle_op_den_bos,2025,8400713,,,executed,src_kapelle_jr2025_bbc,strong,T2/J5 bezoldigingen 8.400713m; VTE unpublished; tick1291; primary BBC
+bud_kap_gemfonds_2025,city_kapelle_op_den_bos,2025,2486419,,,executed,src_kapelle_jr2025_bbc,strong,T2 gemeentefonds 2.486419m; tick1291; primary BBC
+bud_kap_politie_2025,city_kapelle_op_den_bos,2025,1469318,,,executed,src_kapelle_jr2025_bbc,strong,T2 politiezone 1.469318m; tick1291; primary BBC
+bud_kap_hvz_2025,city_kapelle_op_den_bos,2025,600153,,,executed,src_kapelle_jr2025_bbc,strong,T2 HVZ 0.600153m; tick1291; primary BBC
+bud_kap_igs_sub_2025,city_kapelle_op_den_bos,2025,62079,,,executed,src_kapelle_jr2025_bbc,strong,T2 IGS werksub 0.062079m; tick1291; primary BBC
+bud_kap_afl_2025,city_kapelle_op_den_bos,2025,1079431,,,executed,src_kapelle_jr2025_bbc,strong,T4 periodieke aflossingen 1.079431m; tick1291; primary BBC
+bud_kap_iva_2025,city_kapelle_op_den_bos,2025,3020475,,,executed,src_kapelle_jr2025_bbc,strong,J4 IVA 3.020475m; tick1291; primary BBC
+bud_kap_reval_2025,city_kapelle_op_den_bos,2025,1961869,,,executed,src_kapelle_jr2025_bbc,strong,J4 herwaarderingsreserves 1.961869m; tick1291; primary BBC
+bud_kodb_assets_2025,city_kapelle_op_den_bos,2025,72780708,,,executed,src_kapelle_jr2025_bbc,strong,J4 assets 72.780708m vs 70.027023m; tick1291; primary BBC; unique id vs Kaprijke bud_kap_assets_2025
+bud_kodb_cash_2025,city_kapelle_op_den_bos,2025,4310931,,,executed,src_kapelle_jr2025_bbc,strong,J4 cash 4.310931m vs 3.955811m; tick1291; primary BBC; unique id vs Kaprijke
+bud_kodb_equity_2025,city_kapelle_op_den_bos,2025,45730324,,,executed,src_kapelle_jr2025_bbc,strong,J4 nettoactief 45.730324m vs 44.737319m; tick1291; primary BBC
+bud_kodb_fin_debt_2025,city_kapelle_op_den_bos,2025,18872856,,,executed,src_kapelle_jr2025_bbc,strong,T4/J4 fin debt 18.872856m (LT 17.823 + ST due 1.050); tick1291; primary BBC
+bud_kodb_new_loans_2025,city_kapelle_op_den_bos,2025,2091597,,,executed,src_kapelle_jr2025_bbc,strong,T4 new loans 2.091597m; tick1291; primary BBC
+bud_kodb_bbr_2025,city_kapelle_op_den_bos,2025,-537625,,,executed,src_kapelle_jr2025_bbc,strong,J2 budgettair resultaat boekjaar -0.537625m; tick1291; primary BBC
+bud_kodb_afm_2025,city_kapelle_op_den_bos,2025,2115685,,,executed,src_kapelle_jr2025_bbc,strong,J2 AFM +2.115685m; tick1291; primary BBC
+bud_kodb_pnl_2025,city_kapelle_op_den_bos,2025,1047426,,,executed,src_kapelle_jr2025_bbc,strong,J5 PnL +1.047426m; tick1291; primary BBC
+bud_kodb_fiscal_2025,city_kapelle_op_den_bos,2025,10646141,,,executed,src_kapelle_jr2025_bbc,strong,J5 fiscal 10.646141m; tick1291; primary BBC

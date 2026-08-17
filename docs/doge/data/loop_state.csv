@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T11:40:00Z,rq_1290,1290,no,tick1290 Stad+OCMW Bekkevoort JR2025 GE residual + every-10; KBO 0207.516.157/0212.239.166; assets 40.650m fin debt 9.766m pension 2.909m IGS reval 5.902m OCMW tussen 0.800m; FOI ready; next rq_1291 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T11:35:00Z,rq_1291,1291,no,tick1291 Stad+OCMW Kapelle-op-den-Bos JR2025 GE residual; KBO 0207.534.468/0212.223.330; assets 72.781m fin debt 18.873m pension 5.478m OCMW tussen 1.134m; FOI ready; next rq_1292 residual dual L5 VL; continuous hole_fill
