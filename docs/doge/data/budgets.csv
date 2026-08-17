@@ -34464,3 +34464,38 @@ bud_tw_hvz_2025,city_tielt_winge,2025,550456,,,executed,src_tw_jr2025_bbc,strong
 bud_tw_hvz_inv_2025,city_tielt_winge,2025,108438,,,executed,src_tw_jr2025_bbc,strong,T2 HVZ investsub 0.108438m; tick1289; primary BBC
 bud_tw_werksub_2025,city_tielt_winge,2025,9475034,,,executed,src_tw_jr2025_bbc,strong,T2 werkingssubsidies 9.475034m; tick1289; primary BBC
 bud_tw_toelagen_2025,city_tielt_winge,2025,1725192,,,executed,src_tw_jr2025_bbc,strong,T2 toegestane werksub 1.725192m; tick1289; primary BBC
+bud_bek_assets_2025,city_bekkevoort,2025,40650234,,,executed,src_bekkevoort_jr2025_bbc,strong,J4 assets 40.650234m vs 32.382933m jump 8.267m; tick1290; primary BBC
+bud_bek_assets_2024,city_bekkevoort,2024,32382933,,,executed,src_bekkevoort_jr2025_bbc,strong,J4 YE2024 assets 32.382933m; tick1290; primary BBC
+bud_bek_cash_2025,city_bekkevoort,2025,7665643,,,executed,src_bekkevoort_jr2025_bbc,strong,J4 cash 7.665643m vs 7.553061m; tick1290; primary BBC
+bud_bek_cash_2024,city_bekkevoort,2024,7553061,,,executed,src_bekkevoort_jr2025_bbc,strong,J4 YE2024 cash 7.553061m; tick1290; primary BBC
+bud_bek_fva_2025,city_bekkevoort,2025,10682602,,,executed,src_bekkevoort_jr2025_bbc,strong,J4/T5 FVA 10.682602m; EVA 0 + IGS 8.276798; tick1290; primary BBC
+bud_bek_igs_2025,city_bekkevoort,2025,8276798,,,executed,src_bekkevoort_jr2025_bbc,strong,J4/T5 IGS FVA 8.276798m; tick1290; primary BBC
+bud_bek_igs_reval_2025,city_bekkevoort,2025,5902111,,,executed,src_bekkevoort_jr2025_bbc,strong,T5 IGS EV-reval 5.902111m (no cash); tick1290; primary BBC
+bud_bek_mva_2025,city_bekkevoort,2025,16720072,,,executed,src_bekkevoort_jr2025_bbc,strong,J4 MVA 16.720072m; leasing 0.840085m; tick1290; primary BBC
+bud_bek_leasing_2025,city_bekkevoort,2025,840085,,,executed,src_bekkevoort_jr2025_bbc,strong,T5 leasing MVA 0.840085m vs 0.806914m; tick1290; primary BBC
+bud_bek_equity_2025,city_bekkevoort,2025,23867036,,,executed,src_bekkevoort_jr2025_bbc,strong,T5 nettoactief 23.867036m vs 16.818594m; tick1290; primary BBC
+bud_bek_fin_debt_2025,city_bekkevoort,2025,9765763,,,executed,src_bekkevoort_jr2025_bbc,strong,T4 fin debt 9.765763m (LT 9.272 + ST due 0.494); tick1290; primary BBC
+bud_bek_fin_debt_2024,city_bekkevoort,2024,10204103,,,executed,src_bekkevoort_jr2025_bbc,strong,T4 YE2024 fin debt 10.204103m; tick1290; primary BBC
+bud_bek_new_loans_2025,city_bekkevoort,2025,98496,,,executed,src_bekkevoort_jr2025_bbc,strong,T4 new loans 0.098496m leasing; tick1290; primary BBC
+bud_bek_pension_2025,city_bekkevoort,2025,2908967,,,executed,src_bekkevoort_jr2025_bbc,strong,J4 LT pension 2.908967m vs 2.785118m; tick1290; primary BBC
+bud_bek_st_prov_2025,city_bekkevoort,2025,422997,,,executed,src_bekkevoort_jr2025_bbc,strong,J4 ST voorzieningen 0.422997m; tick1290; primary BBC
+bud_bek_expl_2025,city_bekkevoort,2025,2641303,,,executed,src_bekkevoort_jr2025_bbc,strong,J2 exploitatiesaldo +2.641303m; tick1290; primary BBC
+bud_bek_expl_ontv_2025,city_bekkevoort,2025,16043199,,,executed,src_bekkevoort_jr2025_bbc,strong,J2 expl ontv 16.043199m; tick1290; primary BBC
+bud_bek_expl_uitg_2025,city_bekkevoort,2025,13401896,,,executed,src_bekkevoort_jr2025_bbc,strong,J2 expl uitg 13.401896m; tick1290; primary BBC
+bud_bek_city_expl_2025,city_bekkevoort,2025,3270945,,,executed,src_bekkevoort_jr2025_bbc,strong,J3 city expl +3.270945m (14.401/11.130); tick1290; primary BBC
+bud_bek_ocmw_expl_2025,city_bekkevoort,2025,-629642,,,executed,src_bekkevoort_jr2025_bbc,strong,J3 OCMW expl -0.629642m (1.642/2.272); tick1290; primary BBC
+bud_bek_invest_2025,city_bekkevoort,2025,-1625594,,,executed,src_bekkevoort_jr2025_bbc,strong,J2 invest -1.625594m; tick1290; primary BBC
+bud_bek_bbr_2025,city_bekkevoort,2025,691708,,,executed,src_bekkevoort_jr2025_bbc,strong,J2 budgettair resultaat boekjaar +0.691708m; tick1290; primary BBC
+bud_bek_avail_2025,city_bekkevoort,2025,8140556,,,executed,src_bekkevoort_jr2025_bbc,strong,J2 beschikbaar BBR 8.140556m; tick1290; primary BBC
+bud_bek_afm_2025,city_bekkevoort,2025,2146106,,,executed,src_bekkevoort_jr2025_bbc,strong,J2 AFM +2.146106m; tick1290; primary BBC
+bud_bek_gecorr_2025,city_bekkevoort,2025,1824975,,,executed,src_bekkevoort_jr2025_bbc,strong,J2 gecorr AFM +1.824975m; tick1290; primary BBC
+bud_bek_pnl_2025,city_bekkevoort,2025,1146157,,,executed,src_bekkevoort_jr2025_bbc,strong,J5 PnL +1.146157m (city +2.018 / OCMW -0.871); tick1290; primary BBC
+bud_bek_tussen_2025,city_bekkevoort,2025,800000,,,executed,src_bekkevoort_jr2025_bbc,strong,mutatiestaat city->OCMW tussenkomst 0.800000m; tick1290; primary BBC
+bud_bek_pers_2025,city_bekkevoort,2025,6655804,,,executed,src_bekkevoort_jr2025_bbc,strong,T2/J5 bezoldigingen 6.655804m; VTE 60.96; tick1290; primary BBC
+bud_bek_fiscal_2025,city_bekkevoort,2025,8694647,,,executed,src_bekkevoort_jr2025_bbc,strong,J5 fiscal 8.694647m (OV 2.442 + APB 3.313 + other 2.812); tick1290; primary BBC
+bud_bek_ov_2025,city_bekkevoort,2025,2441600,,,executed,src_bekkevoort_jr2025_bbc,strong,T2 opcentiemen OV 2.441600m; tick1290; primary BBC
+bud_bek_apb_2025,city_bekkevoort,2025,3312807,,,executed,src_bekkevoort_jr2025_bbc,strong,T2 aanvullende PB 3.312807m; tick1290; primary BBC
+bud_bek_other_tax_2025,city_bekkevoort,2025,2811520,,,executed,src_bekkevoort_jr2025_bbc,strong,T2 andere belastingen/boetes 2.811520m (GAS5 2.237m); tick1290; primary BBC
+bud_bek_gemfonds_2025,city_bekkevoort,2025,2153511,,,executed,src_bekkevoort_jr2025_bbc,strong,T2 gemeentefonds 2.153511m; tick1290; primary BBC
+bud_bek_politie_2025,city_bekkevoort,2025,617968,,,executed,src_bekkevoort_jr2025_bbc,strong,T2 politiezone Hageland 0.617968m JUMP vs 0.520299m; tick1290; primary BBC
+bud_bek_hvz_2025,city_bekkevoort,2025,402145,,,executed,src_bekkevoort_jr2025_bbc,strong,T2 HVZ 0.402145m vs 0.351440m; tick1290; primary BBC

@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1290** (2026-08-17)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1281-1290: Wezembeek-Oppem · AGB Masterplan HH · AGB Sport HH · Kraainem · HH city · AGB SCO Ronse · Ronse city · Zwaan · Tielt-Winge · **Stad+OCMW Bekkevoort** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1281-1290 is VL residual dual L5 (not near-complete of 348bn):** **AGB Masterplan HH** fin debt **27.81m** equity NEG **0.66m** · **AGB SCO Ronse** fin debt **22.65m** leasing **21.59m** · **Ronse city** fin debt **25.02m** pension **19.50m** · **HH city** fin debt **17.37m** OCMW equity **−12.89m** · **AGB Sport HH** fin debt **10.72m** leasing **10.19m** · **Stad+OCMW Bekkevoort** assets **40.65m** fin debt **9.77m** IGS EV-reval **5.90m** · **Tielt-Winge** fin debt **8.52m** · **Kraainem** fin debt **6.40m** · prior Tienen / Machelen / AGB Tienen / Museum Leuven / Gingelom stack retained |
+| **E. FOI-ready gaps** | **~933** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~981** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM shells** (**NEW Stad+OCMW Bekkevoort** fin debt **EUR9.77m** IGS EV-reval **EUR5.90m** pension **EUR2.91m** · **HH city** fin debt **EUR17.37m** · **AGB Masterplan HH** fin debt **EUR27.81m** · **AGB Sport HH** fin debt **EUR10.72m** · **AGB SCO Ronse** fin debt **EUR22.65m** · **Ronse city** fin debt **EUR25.02m** pension **EUR19.50m** · **Kraainem** fin debt **EUR6.40m** · **Tielt-Winge** fin debt **EUR8.52m** · prior **Stad+OCMW Tienen** fin debt **EUR59.73m** pension **EUR51.29m** · **Machelen** fin debt **EUR26.37m** Farys lease **EUR16.90m** · **AGB Tienen** fin debt **EUR16.93m** · **AG Museum Leuven** fin debt **EUR14.51m** · **Gingelom** Fluvius reval **EUR9.75m** fin debt **EUR3.86m** · prior **AGB MAC** fin debt **EUR40.3m** leasing **EUR40.8m** · **Mintus** dual **EUR26.36m** · Digipolis assets **EUR73.61m** · **AG Vespa** fin debt **EUR179.6m** DBFM **EUR109.4m** · **sogent** AFM **−EUR3.90m** debt **EUR96.3m** · AG-O cum loss **−EUR29.2m** · Zorgbedrijf Antwerpen AFM **−EUR18.87m** debt **EUR220m** / Dodoens equity **−EUR18.88m** / Hasselt ~EUR95–103m stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1290)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 34500 |
+| commitments.csv | 4788 |
+| leaderboard.csv | 6975 |
+| entities.csv | 1021 |
+| sources.csv | 2318 |
+| FOI ready | 933 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 981 |
+| research_queue open | rq_116 deferred + rq_1291 hole-fill after progress |
+
+### What improved since tick 1280
+
+- **VL residual dual JR2025 Entity II / city GE (tick1281-1289):** Wezembeek-Oppem assets **98.19m** fin debt **1.25m** WOKRA **3.09m** · **AGB Masterplan HH** assets **27.29m** equity NEG **0.66m** fin debt **27.81m** · **AGB Sport HH** assets **10.96m** fin debt **10.72m** leasing **10.19m** · **Kraainem** assets **70.47m** fin debt **6.40m** WOKRA **3.38m** · **HH city** assets **181.57m** fin debt **17.37m** OCMW equity **−12.89m** · **AGB SCO Ronse** assets **23.81m** fin debt **22.65m** leasing **21.59m** · **Ronse city** assets **172.79m** fin debt **25.02m** pension **19.50m** OCMW tussen **5.10m** · **Zwaan** OCMW sub **1.81m** pers **7.77m** equity thin **0.04m** · **Tielt-Winge** assets **57.78m** fin debt **8.52m** OCMW tussen **1.50m**.
+- **NEW (tick1290):** **Stad+OCMW Bekkevoort** (KBO 0207.516.157 / 0212.239.166) assets **40.650m** · cash **7.666m** · **fin debt 9.766m** declining vs **10.204m** (new lease **0.098m**) · pension **2.909m** · AFM **+2.146m** / gecorr **+1.825m** · BBR **+0.692m** / avail **8.141m** · PnL **+1.146m** (city **+2.018m** / OCMW **−0.871m**) · **IGS EV-reval 5.902m** (IGS FVA 2.37→8.28m; no cash) · OCMW tussen **0.800m** / OCMW equity **−0.051m NEG** · VTE **60.96** · AGB **0** · FOI T4 split + IGS inventory ready.
+- **Dual map themes:** **city GE IGS EV-reval jump without cash** (Bekkevoort 5.90m; prior Gingelom 9.75m) · **city fin-debt / pension stocks** (Ronse 25.02m / HH 17.37m / Bekkevoort 9.77m) · **AGB city-loan / leasing shells** (Masterplan 27.81m / SCO Ronse 22.65m / Sport HH 10.72m) · prior mega real-estate / care stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
 ## Snapshot at **tick 1280** (2026-08-17)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
