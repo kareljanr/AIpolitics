@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T18:25:00Z,rq_1323,1323,no,tick1323 AGB Blankenberge leftover AGB residual; KBO 0877.301.751 liquidated 21.03.2023; official AGB JR2019-only; no JR2025 PDF; no sourced euros; next rq_1324 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T18:40:00Z,rq_1324,1324,no,tick1324 APB Campus Vesta leftover APB residual; KBO 0822.442.511; official jaarrapport-2025 223.94 MB glossy not BBC; no JR2025 BBC/NBB PDF; no sourced euros; FOI ready; next rq_1325 residual dual L5 VL; continuous hole_fill
