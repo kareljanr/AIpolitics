@@ -34865,3 +34865,42 @@ bud_ktnk_politie_2025,city_kortenaken,2025,747132,,,executed,src_ktnk_jr2025_bbc
 bud_ktnk_hvz_2025,city_kortenaken,2025,393440,,,executed,src_ktnk_jr2025_bbc,strong,T2 HVZ 0.393440m; tick1300; primary BBC
 bud_ktnk_agb_werksub_2025,city_kortenaken,2025,166116,,,executed,src_ktnk_jr2025_bbc,strong,T2 AGB werksub 0.166116m vs AGB prijssub 0.157m tick1299; tick1300; primary BBC
 bud_ktnk_ocmw_equity_2025,city_kortenaken,2025,-5407194,,,executed,src_ktnk_jr2025_bbc,strong,T5 OCMW equity -5.407194m NEG; tick1300; primary BBC
+bud_znhv_assets_2025,city_zonhoven,2025,131804307,,,executed,src_znhv_jr2025_bbc,strong,J4 assets 131.804307m vs 125.991416m; tick1301; primary BBC
+bud_znhv_assets_2024,city_zonhoven,2024,125991416,,,executed,src_znhv_jr2025_bbc,strong,J4 YE2024 assets 125.991416m; tick1301; primary BBC
+bud_znhv_cash_2025,city_zonhoven,2025,17571861,,,executed,src_znhv_jr2025_bbc,strong,J4 cash+beleg 17.571861m vs 17.180201m; tick1301; primary BBC
+bud_znhv_cash_2024,city_zonhoven,2024,17180201,,,executed,src_znhv_jr2025_bbc,strong,J4 YE2024 cash+beleg 17.180201m; tick1301; primary BBC
+bud_znhv_fva_2025,city_zonhoven,2025,31278074,,,executed,src_znhv_jr2025_bbc,strong,T5 FVA 31.278074m; EVA 0 + IGS 28.664m + other 2.614m; tick1301; primary BBC
+bud_znhv_eva_2025,city_zonhoven,2025,0,,,executed,src_znhv_jr2025_bbc,strong,T5 EVA AGB kapitaal 0 — no AGB Zonhoven; tick1301; primary BBC
+bud_znhv_igs_2025,city_zonhoven,2025,28664104,,,executed,src_znhv_jr2025_bbc,strong,T5 IGS FVA 28.664104m vs 28.644971m (+19.134 overboeking); tick1301; primary BBC
+bud_znhv_mva_2025,city_zonhoven,2025,70733787,,,executed,src_znhv_jr2025_bbc,strong,J4/T5 MVA 70.733787m; leasing 2.050910m; tick1301; primary BBC
+bud_znhv_leasing_2025,city_zonhoven,2025,2050910,,,executed,src_znhv_jr2025_bbc,strong,T5 leasing MVA 2.050910m (aankoop 0.559m); tick1301; primary BBC
+bud_znhv_iva_2025,city_zonhoven,2025,562356,,,executed,src_znhv_jr2025_bbc,strong,J4/T5 IVA 0.562356m; tick1301; primary BBC
+bud_znhv_equity_2025,city_zonhoven,2025,117861502,,,executed,src_znhv_jr2025_bbc,strong,J4 nettoactief 117.861502m vs 111.920210m; tick1301; primary BBC
+bud_znhv_cum_pnl_2025,city_zonhoven,2025,66263769,,,executed,src_znhv_jr2025_bbc,strong,J4/T5 cum PnL 66.263769m (city 63.764 / OCMW 2.500); tick1301; primary BBC
+bud_znhv_reval_2025,city_zonhoven,2025,10930,,,executed,src_znhv_jr2025_bbc,strong,J4 herwaarderingsreserves 0.010930m frozen; tick1301; primary BBC
+bud_znhv_fin_debt_2025,city_zonhoven,2025,2107093,,,executed,src_znhv_jr2025_bbc,strong,T4 fin debt 2.107093m (LT 1.717 + ST due 0.390); tick1301; primary BBC
+bud_znhv_fin_debt_2024,city_zonhoven,2024,1981574,,,executed,src_znhv_jr2025_bbc,strong,T4 YE2024 fin debt 1.981574m; tick1301; primary BBC
+bud_znhv_fin_debt_lt_2025,city_zonhoven,2025,1716668,,,executed,src_znhv_jr2025_bbc,strong,T4/J4 LT fin debt 1.716668m; tick1301; primary BBC
+bud_znhv_fin_debt_st_2025,city_zonhoven,2025,390425,,,executed,src_znhv_jr2025_bbc,strong,T4/J4 ST due 0.390425m; tick1301; primary BBC
+bud_znhv_new_loans_2025,city_zonhoven,2025,559448,,,executed,src_znhv_jr2025_bbc,strong,T4 new loans 0.559448m leasing; no new bank; tick1301; primary BBC
+bud_znhv_pension_2025,city_zonhoven,2025,1638259,,,executed,src_znhv_jr2025_bbc,strong,J4 pension LT 1.638259m vs 1.589966m; tick1301; primary BBC
+bud_znhv_expl_2025,city_zonhoven,2025,6493674,,,executed,src_znhv_jr2025_bbc,strong,J2 exploitatiesaldo +6.493674m; tick1301; primary BBC
+bud_znhv_expl_ontv_2025,city_zonhoven,2025,36830487,,,executed,src_znhv_jr2025_bbc,strong,J2 expl ontv 36.830487m; tick1301; primary BBC
+bud_znhv_expl_uitg_2025,city_zonhoven,2025,30336813,,,executed,src_znhv_jr2025_bbc,strong,J2 expl uitg 30.336813m; tick1301; primary BBC
+bud_znhv_city_expl_2025,city_zonhoven,2025,8158361,,,executed,src_znhv_jr2025_bbc,strong,J3 city expl +8.158361m (ontv 31.062 / uitg 22.904); tick1301; primary BBC
+bud_znhv_ocmw_expl_2025,city_zonhoven,2025,-1664688,,,executed,src_znhv_jr2025_bbc,strong,J3 OCMW expl -1.664688m (ontv 5.769 / uitg 7.433); tick1301; primary BBC
+bud_znhv_invest_2025,city_zonhoven,2025,-6605687,,,executed,src_znhv_jr2025_bbc,strong,J2 invest -6.605687m vs MJP -9.027m; tick1301; primary BBC
+bud_znhv_bbr_2025,city_zonhoven,2025,13506,,,executed,src_znhv_jr2025_bbc,strong,J2 budgettair resultaat boekjaar +0.013506m; tick1301; primary BBC
+bud_znhv_avail_2025,city_zonhoven,2025,16638411,,,executed,src_znhv_jr2025_bbc,strong,J2 beschikbaar BBR 16.638411m; tick1301; primary BBC
+bud_znhv_afm_2025,city_zonhoven,2025,6059745,,,executed,src_znhv_jr2025_bbc,strong,J2 AFM +6.059745m; tick1301; primary BBC
+bud_znhv_gecorr_2025,city_zonhoven,2025,6335148,,,executed,src_znhv_jr2025_bbc,strong,J2 gecorr AFM +6.335148m; tick1301; primary BBC
+bud_znhv_pnl_2025,city_zonhoven,2025,4482626,,,executed,src_znhv_jr2025_bbc,strong,J5 PnL +4.482626m; city +6.132 / OCMW -1.649; tussen 3.700m; tick1301; primary BBC
+bud_znhv_tussen_2025,city_zonhoven,2025,3700000,,,executed,src_znhv_jr2025_bbc,strong,T5/3.13 tussenkomst gemeente-OCMW 3.700000m; tick1301; primary BBC
+bud_znhv_pers_2025,city_zonhoven,2025,16730063,,,executed,src_znhv_jr2025_bbc,strong,J5/T2 bezoldigingen 16.730063m; VTE unpublished; tick1301; primary BBC
+bud_znhv_fiscal_2025,city_zonhoven,2025,19812547,,,executed,src_znhv_jr2025_bbc,strong,J5/T2 fiscale 19.812547m (OV 8.234 + APB 10.348); tick1301; primary BBC
+bud_znhv_ov_2025,city_zonhoven,2025,8234199,,,executed,src_znhv_jr2025_bbc,strong,T2 OV 8.234199m; tick1301; primary BBC
+bud_znhv_apb_2025,city_zonhoven,2025,10347910,,,executed,src_znhv_jr2025_bbc,strong,T2 APB 10.347910m JUMP vs 8.940m; tick1301; primary BBC
+bud_znhv_gemfonds_2025,city_zonhoven,2025,5531416,,,executed,src_znhv_jr2025_bbc,strong,T2 gemeentefonds 5.531416m; tick1301; primary BBC
+bud_znhv_politie_2025,city_zonhoven,2025,3177093,,,executed,src_znhv_jr2025_bbc,strong,T2 PZ Limburg Regio Hoofdstad 3.177093m; tick1301; primary BBC
+bud_znhv_hvz_2025,city_zonhoven,2025,1103029,,,executed,src_znhv_jr2025_bbc,strong,T2 HVZ Zuid-West Limburg 1.103029m; tick1301; primary BBC
+bud_znhv_ocmw_equity_2025,city_zonhoven,2025,7168024,,,executed,src_znhv_jr2025_bbc,strong,T5 OCMW equity +7.168024m; tick1301; primary BBC
