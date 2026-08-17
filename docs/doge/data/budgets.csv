@@ -35490,3 +35490,29 @@ bud_evapv_ops_rev_2025,eva_pv,2025,2313019,,,executed,src_evapv_jr2025_pdf,stron
 bud_evapv_costs_2025,eva_pv,2025,4218340,,,executed,src_evapv_jr2025_pdf,strong,2025 J5 costs 4218340.02; tick1322; primary BBC J5
 bud_evapv_rev_2025,eva_pv,2025,5270495,,,executed,src_evapv_jr2025_pdf,strong,2025 J5 opbrengsten 5270494.68; tick1322; primary BBC J5
 bud_evapv_deprec_2025,eva_pv,2025,65507,,,executed,src_evapv_jr2025_pdf,strong,2025 J5 afschrijvingen/waardeverminderingen/voorzieningen 65507.00; tick1322; primary BBC J5
+bud_vonk_assets_2025,apb_vonk,2025,1023918,,,executed,src_vonk_jr2025_pdf,strong,2025 assets 1023917.92 was 898278.66; tick1325; primary BBC J4
+bud_vonk_cash_2025,apb_vonk,2025,962753,,,executed,src_vonk_jr2025_pdf,strong,2025 cash 962752.89 JUMP vs 675448.32; tick1325; primary BBC J4
+bud_vonk_st_recv_2025,apb_vonk,2025,60440,,,executed,src_vonk_jr2025_pdf,strong,2025 ST recv 60439.57 all ruil; niet-ruil 0; tick1325; primary BBC J4
+bud_vonk_fixed_2025,apb_vonk,2025,725,,,executed,src_vonk_jr2025_pdf,strong,2025 fixed 725.46 MVA gemeenschapsgoederen; FVA 0 IVA 0 leasing 0; tick1325; primary BBC J4/T5
+bud_vonk_debt_2025,apb_vonk,2025,49240,,,executed,src_vonk_jr2025_pdf,strong,2025 schulden 49240.10 all ST (ruil 45146.54 + niet-ruil 4093.56); tick1325; primary BBC J4
+bud_vonk_fin_debt_2025,apb_vonk,2025,0,,,executed,src_vonk_jr2025_pdf,strong,2025 fin debt T4 empty schema = 0; tick1325; primary BBC T4
+bud_vonk_equity_2025,apb_vonk,2025,974678,,,executed,src_vonk_jr2025_pdf,strong,2025 nettoactief 974677.82 was 782037.41; tick1325; primary BBC J4
+bud_vonk_cum_surplus_2025,apb_vonk,2025,-969618,,,executed,src_vonk_jr2025_pdf,strong,2025 cum surplus -969618.13 was -1162258.54; tick1325; primary BBC J4
+bud_vonk_expl_in_2025,apb_vonk,2025,1234943,,,executed,src_vonk_jr2025_pdf,strong,2025 expl ontv 1234943.07; tick1325; primary BBC J2
+bud_vonk_expl_out_2025,apb_vonk,2025,1071432,,,executed,src_vonk_jr2025_pdf,strong,2025 expl uitg 1071431.55; tick1325; primary BBC J2
+bud_vonk_expl_2025,apb_vonk,2025,163512,,,executed,src_vonk_jr2025_pdf,strong,2025 expl saldo +163511.52; tick1325; primary BBC J2
+bud_vonk_invest_2025,apb_vonk,2025,0,,,executed,src_vonk_jr2025_pdf,strong,2025 invest saldo 0 (uitg 0 / ontv 0); tick1325; primary BBC J2/T2
+bud_vonk_bbr_2025,apb_vonk,2025,163512,,,executed,src_vonk_jr2025_pdf,strong,2025 BBR year +163511.52; tick1325; primary BBC J2
+bud_vonk_cum_bbr_2025,apb_vonk,2025,973952,,,executed,src_vonk_jr2025_pdf,strong,YE2025 cum BBR 973951.90 was 810440.38; tick1325; primary BBC J2
+bud_vonk_afm_2025,apb_vonk,2025,163512,,,executed,src_vonk_jr2025_pdf,strong,2025 AFM +163511.52 = gecorr AFM; no afl; tick1325; primary BBC J2
+bud_vonk_pnl_2025,apb_vonk,2025,192640,,,executed,src_vonk_jr2025_pdf,strong,2025 PnL +192640.41 (ops 189684.71 / fin 2955.70); tick1325; primary BBC J5
+bud_vonk_pers_2025,apb_vonk,2025,546230,,,executed,src_vonk_jr2025_pdf,strong,2025 J5/T2 pers 546230.37 (niet-vast 526248.06 + andere 19982.31); VTE unpublished FOI; tick1325; primary BBC
+bud_vonk_goods_t2_2025,apb_vonk,2025,522402,,,executed,src_vonk_jr2025_pdf,strong,2025 T2 goederen/diensten 522401.90; tick1325; primary BBC T2
+bud_vonk_goods_j5_2025,apb_vonk,2025,512837,,,executed,src_vonk_jr2025_pdf,strong,2025 J5 goederen/diensten 512837.26; tick1325; primary BBC J5
+bud_vonk_werksub_in_2025,apb_vonk,2025,297908,,,executed,src_vonk_jr2025_pdf,strong,2025 J5=T2 werksub ontv 297907.79 (alg provincie 270533.98 + spec fed 27373.81); tick1325; primary BBC J5/T2
+bud_vonk_werksub_prov_2025,apb_vonk,2025,270534,,,executed,src_vonk_jr2025_pdf,strong,2025 T2/J5 alg werksub van de provincie 270533.98; tick1325; primary BBC T2/J5
+bud_vonk_werksub_fed_2025,apb_vonk,2025,27374,,,executed,src_vonk_jr2025_pdf,strong,2025 T2/J5 spec werksub federale overheid 27373.81; tick1325; primary BBC T2/J5
+bud_vonk_ops_rev_2025,apb_vonk,2025,929161,,,executed,src_vonk_jr2025_pdf,strong,2025 J5 opbrengsten uit de werking 929161.41; tick1325; primary BBC J5
+bud_vonk_other_ops_2025,apb_vonk,2025,3420,,,executed,src_vonk_jr2025_pdf,strong,2025 J5 andere operationele opbrengsten 3420.23; tick1325; primary BBC J5
+bud_vonk_costs_2025,apb_vonk,2025,1041114,,,executed,src_vonk_jr2025_pdf,strong,2025 J5 costs 1041114.20; tick1325; primary BBC J5
+bud_vonk_rev_2025,apb_vonk,2025,1233755,,,executed,src_vonk_jr2025_pdf,strong,2025 J5 opbrengsten 1233754.61; tick1325; primary BBC J5
