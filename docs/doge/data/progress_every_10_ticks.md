@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1330** (2026-08-17)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1321-1330: APB Hooibeekhoeve · EVA Pluimveehouderij · AGB Blankenberge FOI · Campus Vesta FOI · **APB Vonk** · Monumentenwacht WVL FOI · Vlabinvest FOI · Zilvermeer FOI · Zorg Houthalen FOI · **EVA Kinderopvang Dilbeek FOI** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1321-1330 is VL residual dual L5 (not near-complete of 348bn):** **APB Hooibeekhoeve** assets **5.93m** cash **2.65m** ST recv **2.82m** BBR **+1.30m** · **EVA Pluimveehouderij** assets **8.63m** cash **4.08m** ST recv **4.46m** BBR **+1.17m** · **APB Vonk** assets **1.02m** cash **0.96m** BBR **+0.16m** · leftover FOI stack (Blankenberge / Campus Vesta / Monumentenwacht / Vlabinvest / Zilvermeer / Zorg HH / **EVA Kinderopvang Dilbeek**) no invented euros · prior PSES / KampC / AGBIM / AGB Maaseik / GKC / Havencentrum / Edegem / Beerse / VERA stack retained |
+| **E. FOI-ready gaps** | **~973** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1021** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM shells** (**NEW APB Hooibeekhoeve** assets **EUR5.93m** cash **EUR2.65m** ST recv **EUR2.82m** BBR **+EUR1.30m** · **EVA Pluimveehouderij** assets **EUR8.63m** cash **EUR4.08m** ST recv **EUR4.46m** BBR **+EUR1.17m** · **APB Vonk** assets **EUR1.02m** cash **EUR0.96m** BBR **+EUR0.16m** · leftover FOI (Blankenberge / Campus Vesta / Monumentenwacht / Vlabinvest / Zilvermeer / Zorg HH / **EVA Kinderopvang Dilbeek**) · prior **APB KampC** assets **EUR5.93m** cash **EUR2.65m** ST recv **EUR3.06m** BBR **+EUR2.39m** J5/T2 werksub gap **EUR1.25m** · **APB PSES** assets **EUR186.52m** ST recv **EUR165.31m** BBR **−EUR1.29m** · **APB GKC** assets **EUR2.67m** cash **EUR2.11m** · **APB Havencentrum** assets **EUR0.97m** Havenwereld **EUR0.40m** · **AGBIM** CCAO **EUR8.91m** · **AGB Maaseik** fin debt **EUR1.60m** AFM **−EUR0.67m** · prior **APB VERA** fin debt **EUR1.72m** equity **−EUR1.64m** straight loan **EUR1.10m** · **Edegem** fin debt **EUR14.05m** pension **EUR23.40m** · **Beerse city** fin debt **EUR13.82m** · **AGB Beerse** fin debt **EUR5.02m** · **Pepingen city** fin debt **EUR3.47m** · **Vleteren** fin debt **EUR3.32m** · prior **Stad+OCMW Kortenaken** fin debt **EUR10.57m** IGS EV-reval **EUR8.90m** OCMW equity **−EUR5.41m** · **Heusden-Zolder** fin debt **EUR37.85m** IGS reval **EUR31.12m** · **Kapelle-op-den-Bos** fin debt **EUR18.87m** · **Oud-Heverlee** fin debt **EUR15.18m** · **Diepenbeek city** fin debt **EUR13.59m** IGS reval **EUR19.43m** · **Huldenberg** fin debt **EUR9.56m** · **AGB Kortenaken** fin debt **EUR3.28m** leasing **EUR3.22m** · **Voeren** fin debt **EUR3.37m** · **AGB Diepenbeek** fin debt **EUR3.03m** · **Steenokkerzeel** fin debt **EUR2.49m** · prior **Stad+OCMW Bekkevoort** fin debt **EUR9.77m** IGS EV-reval **EUR5.90m** · **HH city** fin debt **EUR17.37m** · **AGB Masterplan HH** fin debt **EUR27.81m** · **AGB Sport HH** fin debt **EUR10.72m** · **AGB SCO Ronse** fin debt **EUR22.65m** · **Ronse city** fin debt **EUR25.02m** pension **EUR19.50m** · **Kraainem** fin debt **EUR6.40m** · **Tielt-Winge** fin debt **EUR8.52m** · prior **Stad+OCMW Tienen** fin debt **EUR59.73m** pension **EUR51.29m** · **Machelen** fin debt **EUR26.37m** Farys lease **EUR16.90m** · **AGB Tienen** fin debt **EUR16.93m** · **AG Museum Leuven** fin debt **EUR14.51m** · **Gingelom** Fluvius reval **EUR9.75m** fin debt **EUR3.86m** · prior **AGB MAC** fin debt **EUR40.3m** leasing **EUR40.8m** · **Mintus** dual **EUR26.36m** · Digipolis assets **EUR73.61m** · **AG Vespa** fin debt **EUR179.6m** DBFM **EUR109.4m** · **sogent** AFM **−EUR3.90m** debt **EUR96.3m** · AG-O cum loss **−EUR29.2m** · Zorgbedrijf Antwerpen AFM **−EUR18.87m** debt **EUR220m** / Dodoens equity **−EUR18.88m** / Hasselt ~EUR95–103m stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1330)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 35517 |
+| commitments.csv | 4931 |
+| leaderboard.csv | 7134 |
+| entities.csv | 1076 |
+| sources.csv | 2454 |
+| FOI ready | 973 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1021 |
+| research_queue open | rq_116 deferred + rq_1331 hole-fill after progress |
+
+### What improved since tick 1320
+
+- **VL residual dual JR2025 leftover APB/EVA/zorg (tick1321-1329):** **APB Hooibeekhoeve** assets **5.93m** cash **2.65m** ST recv **2.82m** BBR **+1.30m** · **EVA Pluimveehouderij** assets **8.63m** cash **4.08m** ST recv **4.46m** BBR **+1.17m** · **APB Vonk** assets **1.02m** cash **0.96m** BBR **+0.16m** · AGB Blankenberge / Campus Vesta / Monumentenwacht WVL / Vlabinvest / Zilvermeer / Zorg Houthalen JR2025 unpublished or glossy-only — FOI-ready no invented euros.
+- **NEW (tick1330):** **EVA-vzw Gemeentelijke Kinderopvang Dilbeek** (KBO 0477.276.325) leftover EVA of already-mined Dilbeek city GE. Official EVA page still **JR2024-only**. NBB consult 403/SPA (index lists 2025 filing 2026-00242617 / 01.07.2026 — no PDF bytes). No sourced euros. FOI ready. Every-10 progress refresh from on-disk CSVs.
+- **Dual map themes:** **leftover APB/EVA cash+ST-recv shells** (Hooibeekhoeve 5.93m / EVA PV 8.63m / Vonk 1.02m) · **leftover EVA/zorg unpublished FOI** (Kinderopvang Dilbeek / Zorg HH / Campus Vesta glossy) · prior leftover APB pass-through / AGB city-loan AFM NEG stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
 ## Snapshot at **tick 1320** (2026-08-17)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T20:20:00Z,rq_1329,1329,no,tick1329 Zorg Houthalen leftover zorg residual; KBO 0688.812.935; no fetchable JR2025 BBC/NBB PDF; no sourced euros; FOI ready; next rq_1330 residual dual L5 VL + every-10; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T21:30:00Z,rq_1330,1330,no,tick1330 EVA Kinderopvang Dilbeek leftover EVA residual + progress@1330; KBO 0477.276.325; no fetchable JR2025 BBC/NBB PDF; no sourced euros; FOI ready; next rq_1331 residual dual L5 VL; continuous hole_fill
