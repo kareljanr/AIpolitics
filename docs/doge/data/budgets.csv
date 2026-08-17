@@ -33514,3 +33514,51 @@ bud_agkd_other_ops_2025,agb_kunsten_design_gent,2025,4915788,,,bbc_jr_realized,s
 bud_agkd_pnl_2025,agb_kunsten_design_gent,2025,3088460,,,bbc_jr_realized,src_agkd_jr2025,strong,J5 overschot 2025 3.088m no dividend (was 1.050m); tick1255
 bud_agkd_vte_2025,agb_kunsten_design_gent,2025,88.32,,,bbc_jr_realized,src_agkd_jr2025,strong,VTE 2025 88.32 vs plan 121.31 vs 2024 79.63; tick1255
 bud_agkd_d09_it_2025,agb_kunsten_design_gent,2025,478635,,,bbc_jr_realized,src_agkd_jr2025,strong,District09 IT na-afrekening 2025 expl 415.088 + inv 63.546; tick1255
+bud_ager_assets_2025,agb_erfgoed_gent,2025,7849749,,,bbc_jr_realized,src_ager_jr2025,strong,Assets balanstotaal YE2025 7.850m (was 6.115m) JUMP; tick1256
+bud_ager_current_2025,agb_erfgoed_gent,2025,6344793,,,bbc_jr_realized,src_ager_jr2025,strong,Vlottende activa YE2025 6.345m; tick1256
+bud_ager_cash_2025,agb_erfgoed_gent,2025,131210,,,bbc_jr_realized,src_ager_jr2025,strong,Liquide middelen YE2025 0.131m THIN (was 0.120m); tick1256
+bud_ager_st_recv_2025,agb_erfgoed_gent,2025,6161196,,,bbc_jr_realized,src_ager_jr2025,strong,ST vorderingen YE2025 6.161m; tick1256
+bud_ager_st_recv_ruil_2025,agb_erfgoed_gent,2025,170765,,,bbc_jr_realized,src_ager_jr2025,strong,ST vord. ruiltransacties YE2025 0.171m; tick1256
+bud_ager_st_recv_nonruil_2025,agb_erfgoed_gent,2025,5990431,,,bbc_jr_realized,src_ager_jr2025,strong,ST vord. niet-ruil YE2025 5.990m (was 4.073m); city/VL recv FOI; tick1256
+bud_ager_inventory_2025,agb_erfgoed_gent,2025,52388,,,bbc_jr_realized,src_ager_jr2025,strong,Voorraden YE2025 0.052m; tick1256
+bud_ager_fixed_2025,agb_erfgoed_gent,2025,1504955,,,bbc_jr_realized,src_ager_jr2025,strong,Vaste activa YE2025 1.505m (was 1.807m); tick1256
+bud_ager_mva_2025,agb_erfgoed_gent,2025,1256509,,,bbc_jr_realized,src_ager_jr2025,strong,Materiele vaste activa YE2025 1.257m; tick1256
+bud_ager_buildings_2025,agb_erfgoed_gent,2025,1157008,,,bbc_jr_realized,src_ager_jr2025,strong,Terreinen en gebouwen YE2025 1.157m (city provides buildings free); tick1256
+bud_ager_iva_2025,agb_erfgoed_gent,2025,248071,,,bbc_jr_realized,src_ager_jr2025,strong,Immateriele vaste activa YE2025 0.248m; tick1256
+bud_ager_fva_2025,agb_erfgoed_gent,2025,375,,,bbc_jr_realized,src_ager_jr2025,strong,Financiele vaste activa YE2025 375; tick1256
+bud_ager_debt_2025,agb_erfgoed_gent,2025,3697693,,,bbc_jr_realized,src_ager_jr2025,strong,Totale schulden YE2025 3.698m allen ST JUMP (was 1.972m); tick1256
+bud_ager_st_ruil_2025,agb_erfgoed_gent,2025,3117220,,,bbc_jr_realized,src_ager_jr2025,strong,ST schulden ruil YE2025 3.117m (voorz 0.300m + fin 170 + niet-fin 2.817m); tick1256
+bud_ager_st_nonruil_2025,agb_erfgoed_gent,2025,580473,,,bbc_jr_realized,src_ager_jr2025,strong,ST schulden niet-ruil YE2025 0.580m; tick1256
+bud_ager_fin_debt_2025,agb_erfgoed_gent,2025,170,,,bbc_jr_realized,src_ager_jr2025,strong,ST financiele schulden YE2025 170; no loans; tick1256
+bud_ager_lt_fin_debt_2025,agb_erfgoed_gent,2025,0,,,bbc_jr_realized,src_ager_jr2025,strong,LT financiele schulden YE2025 0; tick1256
+bud_ager_netto_2025,agb_erfgoed_gent,2025,4152056,,,bbc_jr_realized,src_ager_jr2025,strong,Nettoactief YE2025 4.152m (was 4.143m); tick1256
+bud_ager_cum_surplus_2025,agb_erfgoed_gent,2025,1446509,,,bbc_jr_realized,src_ager_jr2025,strong,Gecumuleerd overschot YE2025 1.447m DROP (was 1.638m); tick1256
+bud_ager_cap_sub_2025,agb_erfgoed_gent,2025,1331974,,,bbc_jr_realized,src_ager_jr2025,strong,Kapitaalsubsidies YE2025 1.332m (was 1.131m); tick1256
+bud_ager_overig_netto_2025,agb_erfgoed_gent,2025,1373572,,,bbc_jr_realized,src_ager_jr2025,strong,Overig nettoactief YE2025 1.374m frozen; tick1256
+bud_ager_expl_in_2025,agb_erfgoed_gent,2025,10167851,,,bbc_jr_realized,src_ager_jr2025,strong,J2 exploitatieontvangsten 2025 10.168m (MJP 9.906m); tick1256
+bud_ager_expl_out_2025,agb_erfgoed_gent,2025,10135953,,,bbc_jr_realized,src_ager_jr2025,strong,J2 exploitatieuitgaven 2025 10.136m (MJP 10.434m); tick1256
+bud_ager_expl_saldo_2025,agb_erfgoed_gent,2025,31898,,,bbc_jr_realized,src_ager_jr2025,strong,J2 exploitatiesaldo 2025 +31.898 vs MJP -528.857; tick1256
+bud_ager_invest_saldo_2025,agb_erfgoed_gent,2025,-28496,,,bbc_jr_realized,src_ager_jr2025,strong,J2 investeringssaldo 2025 -28.496; tick1256
+bud_ager_fin_saldo_2025,agb_erfgoed_gent,2025,366246,,,bbc_jr_realized,src_ager_jr2025,strong,J2 financieringssaldo 2025 +0.366m T2 F gift (geen lening); tick1256
+bud_ager_bbr_year_2025,agb_erfgoed_gent,2025,369647,,,bbc_jr_realized,src_ager_jr2025,strong,J2 budgettair resultaat boekjaar 2025 +0.370m vs MJP -0.529m; tick1256
+bud_ager_bbr_2025,agb_erfgoed_gent,2025,2903285,,,bbc_jr_realized,src_ager_jr2025,strong,J2 BBR YE2025 +2.903m vs MJP 1.375m; tick1256
+bud_ager_cum_bbr_prev_2025,agb_erfgoed_gent,2025,2533638,,,bbc_jr_realized,src_ager_jr2025,strong,J2 gecumuleerd BBR vorig boekjaar 2.534m; tick1256
+bud_ager_afm_2025,agb_erfgoed_gent,2025,31898,,,bbc_jr_realized,src_ager_jr2025,strong,J2 AFM 2025 +31.898 (MJP -528.857) thin; tick1256
+bud_ager_gecorr_afm_2025,agb_erfgoed_gent,2025,31884,,,bbc_jr_realized,src_ager_jr2025,strong,J2 gecorrigeerde AFM 2025 +31.884 (MJP -528.871); tick1256
+bud_ager_new_loan_2025,agb_erfgoed_gent,2025,0,,,bbc_jr_realized,src_ager_jr2025,strong,Nieuwe leningen 2025 0; tick1256
+bud_ager_repay_2025,agb_erfgoed_gent,2025,0,,,bbc_jr_realized,src_ager_jr2025,strong,Periodieke aflossingen 2025 0; tick1256
+bud_ager_gift_2025,agb_erfgoed_gent,2025,366246,,,bbc_jr_realized,src_ager_jr2025,strong,T2 F bijdragen/schenkingen niet-ops 2025 0.366m BBR-tilt; tick1256
+bud_ager_costs_2025,agb_erfgoed_gent,2025,10668591,,,bbc_jr_realized,src_ager_jr2025,strong,J5 kosten 2025 10.669m; tick1256
+bud_ager_goods_2025,agb_erfgoed_gent,2025,4154814,,,bbc_jr_realized,src_ager_jr2025,strong,J5 goederen/diensten 2025 4.155m; tick1256
+bud_ager_personnel_2025,agb_erfgoed_gent,2025,5944692,,,bbc_jr_realized,src_ager_jr2025,strong,J5 personeel 2025 5.945m / 70.74 VTE (plan 73.80; 2024 67.82); tick1256
+bud_ager_depr_2025,agb_erfgoed_gent,2025,531199,,,bbc_jr_realized,src_ager_jr2025,strong,J5 afschrijvingen 2025 0.531m; tick1256
+bud_ager_revenue_2025,agb_erfgoed_gent,2025,10477151,,,bbc_jr_realized,src_ager_jr2025,strong,J5 opbrengsten 2025 10.477m; tick1256
+bud_ager_own_ops_2025,agb_erfgoed_gent,2025,1323910,,,bbc_jr_realized,src_ager_jr2025,strong,J5 ontvangsten uit de werking 2025 1.324m; tick1256
+bud_ager_subsidies_2025,agb_erfgoed_gent,2025,8780340,,,bbc_jr_realized,src_ager_jr2025,strong,J5/T2 werkingssubsidies 2025 8.780m; tick1256
+bud_ager_city_alg_sub_2025,agb_erfgoed_gent,2025,5085936,,,bbc_jr_realized,src_ager_jr2025,strong,T2 algemene werkingssub gemeente 2025 5.086m (was 4.536m); tick1256
+bud_ager_city_spec_sub_2025,agb_erfgoed_gent,2025,66489,,,bbc_jr_realized,src_ager_jr2025,strong,T2 specifieke werkingssub gemeente 2025 0.066m DROP (was 0.410m); tick1256
+bud_ager_vl_spec_sub_2025,agb_erfgoed_gent,2025,3577175,,,bbc_jr_realized,src_ager_jr2025,strong,T2 specifieke werkingssub VL 2025 3.577m (Erfgoeddecreet); tick1256
+bud_ager_other_ops_2025,agb_erfgoed_gent,2025,63601,,,bbc_jr_realized,src_ager_jr2025,strong,J5 andere operationele opbrengsten 2025 0.064m; tick1256
+bud_ager_pnl_2025,agb_erfgoed_gent,2025,-191440,,,bbc_jr_realized,src_ager_jr2025,strong,J5 tekort 2025 -0.191m (was -0.159m); tick1256
+bud_ager_vte_2025,agb_erfgoed_gent,2025,70.74,,,bbc_jr_realized,src_ager_jr2025,strong,VTE 2025 70.74 vs plan 73.80 vs 2024 67.82; tick1256
+bud_ager_city_payable_note_2024,agb_erfgoed_gent,2025,1408661,,,bbc_jr_realized,src_ager_jr2025,strong,Risiconota city payable 1.409m dated 31/12/24 in JR2025 bundel; YE2025 split FOI; tick1256

@@ -17332,3 +17332,10 @@ Append-only. Each tick adds a short entry.
 - EUR strong: assets **18.032m** JUMP; BBR **+3.191m** vs MJP **−1.035m**; AFM **+1.911m**; gecorr AFM **+3.386m**; city werkingssub **7.631m** (alg **7.296m** + spec **0.335m**); VL spec **4.992m**; other ops **4.916m** JUMP (was 0.230m); personnel **7.530m** / **88.32 VTE**; PnL **+3.088m** no div; cash **0.649m** vs niet-ruil recv **15.151m**; new other-entity loan **1.800m** / repay **1.475m** / ST rest **0.325m**.
 - CSVs: sources/entities(+city note)/budgets+45/commitments+7/leaderboard+7 + FOI ready `gap_agkd_other_ops_4_92m_recv_15_15m_city_sub_7_63m_l5` (not sent); rq_1255=done; spawn rq_1256.
 - Next: rq_1256 residual dual L5 VL JR2025 hole_fill (prefer AGB Erfgoed Gent JR2025 PDF).
+
+
+### Tick 1256 - 2026-08-17 - rq_1256 AGB Erfgoed Gent dual residual
+- Unit: AGB Erfgoed Gent JR2025 Entity II after city Gent stub tick101 + sibling AGB Kunsten en Design tick1255 (KBO 0537.522.332; 133p BBC text primary; GR 2026_GR_00567 23.06.2026). Distinct from AGB Kunsten en Design (0537.520.055) and from IVA Historische Huizen (2026 inkanteling). Dissolved 31.12.2025; overdracht algemeenheid naar AGB Kunsten en Erfgoed Gent.
+- EUR strong: assets **7.850m** JUMP; BBR **+2.903m** vs MJP **1.375m**; AFM **+31.898** thin vs MJP **−528.857**; gecorr AFM **+31.884**; city werkingssub **5.152m** (alg **5.086m** + spec **0.066m** DROP was 0.410m); VL spec **3.577m**; T2 F gift **0.366m** (BBR-tilt; no loans); personnel **5.945m** / **70.74 VTE**; PnL **−0.191m**; cash **0.131m** THIN vs niet-ruil recv **5.990m**; ST debt **3.698m** JUMP (fin 170); city payable note **1.409m** dated 31/12/24.
+- CSVs: sources/entities(+city note)/budgets+48/commitments+7/leaderboard+7 + FOI ready `gap_ager_recv_5_99m_city_sub_5_15m_gift_0_37m_l5` (not sent); rq_1256=done; spawn rq_1257.
+- Next: rq_1257 residual dual L5 VL JR2025 hole_fill (prefer IVA Historische Huizen Gent last JR2025 if separate PDF).
