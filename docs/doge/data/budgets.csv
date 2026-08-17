@@ -35006,3 +35006,42 @@ bud_agbpep_costs_2025,agb_pepingen,2025,43728,,,executed,src_agbpep_jr2025_bbc,s
 bud_agbpep_revenue_2025,agb_pepingen,2025,40043,,,executed,src_agbpep_jr2025_bbc,strong,J5 opbrengsten 40043 (ops 11961 + fin 28082); tick1304; primary BBC
 bud_agbpep_depr_2025,agb_pepingen,2025,28549,,,executed,src_agbpep_jr2025_bbc,strong,J5 afschrijvingen 28549 vs cap-sub amort 28082; tick1304; primary BBC
 bud_agbpep_fin_rev_2025,agb_pepingen,2025,28082,,,executed,src_agbpep_jr2025_bbc,strong,J5 financiele opbrengsten 28082; tick1304; primary BBC
+bud_pepge_assets_2025,city_pepingen,2025,26871731,,,executed,src_pepge_jr2025_bbc,strong,J4 assets 26871730.96 vs 26966446.46; tick1305; primary BBC
+bud_pepge_assets_2024,city_pepingen,2024,26966446,,,executed,src_pepge_jr2025_bbc,strong,J4 YE2024 assets 26966446.46; tick1305; primary BBC
+bud_pepge_cash_2025,city_pepingen,2025,3097407,,,executed,src_pepge_jr2025_bbc,strong,J4/kengetallen cash 3097407.38 vs 3093410.06; tick1305; primary BBC
+bud_pepge_cash_2024,city_pepingen,2024,3093410,,,executed,src_pepge_jr2025_bbc,strong,J4 YE2024 cash 3093410.06; tick1305; primary BBC
+bud_pepge_fva_2025,city_pepingen,2025,3917668,,,executed,src_pepge_jr2025_bbc,strong,J4 FVA 3917667.61; EVA 2500 + IGS 2692364 + OCMW-ver 3758 + other 1219046; tick1305; primary BBC
+bud_pepge_eva_2025,city_pepingen,2025,2500,,,executed,src_pepge_jr2025_bbc,strong,T5 EVA AGB Pepingen kapitaal 2500 — AGB already mined 1304; tick1305; primary BBC
+bud_pepge_igs_2025,city_pepingen,2025,2692364,,,executed,src_pepge_jr2025_bbc,strong,J4 IGS FVA 2692363.82; tick1305; primary BBC
+bud_pepge_mva_2025,city_pepingen,2025,17696965,,,executed,src_pepge_jr2025_bbc,strong,J4 MVA 17696965.28; leasing 691229.16; tick1305; primary BBC
+bud_pepge_leasing_2025,city_pepingen,2025,691229,,,executed,src_pepge_jr2025_bbc,strong,J4 leasing MVA 691229.16 vs 467135.16; tick1305; primary BBC
+bud_pepge_iva_2025,city_pepingen,2025,336585,,,executed,src_pepge_jr2025_bbc,strong,J4 IVA 336585.29; tick1305; primary BBC
+bud_pepge_equity_2025,city_pepingen,2025,19420060,,,executed,src_pepge_jr2025_bbc,strong,J4 nettoactief 19420060.36; tick1305; primary BBC
+bud_pepge_cap_subs_2025,city_pepingen,2025,3933605,,,executed,src_pepge_jr2025_bbc,strong,J4 kapitaalsubsidies 3933605.15; tick1305; primary BBC
+bud_pepge_cum_pnl_2025,city_pepingen,2025,2666262,,,executed,src_pepge_jr2025_bbc,strong,J4 cum PnL 2666261.73; tick1305; primary BBC
+bud_pepge_schulden_2025,city_pepingen,2025,7451671,,,executed,src_pepge_jr2025_bbc,strong,J4 schulden 7451670.60; tick1305; primary BBC
+bud_pepge_fin_debt_2025,city_pepingen,2025,3467023,,,executed,src_pepge_jr2025_bbc,strong,J4 fin debt 3467022.95 (LT 3127590 + ST due 339433) vs 3768536; tick1305; primary BBC
+bud_pepge_fin_debt_2024,city_pepingen,2024,3768536,,,executed,src_pepge_jr2025_bbc,strong,J4 YE2024 fin debt 3768535.67; tick1305; primary BBC
+bud_pepge_fin_debt_lt_2025,city_pepingen,2025,3127590,,,executed,src_pepge_jr2025_bbc,strong,J4 LT fin debt 3127590.11; tick1305; primary BBC
+bud_pepge_fin_debt_st_2025,city_pepingen,2025,339433,,,executed,src_pepge_jr2025_bbc,strong,J4 ST due 339432.84; tick1305; primary BBC
+bud_pepge_new_loans_2025,city_pepingen,2025,247078,,,executed,src_pepge_jr2025_bbc,strong,J2/kengetallen new loans 247078 city; tick1305; primary BBC
+bud_pepge_pension_2025,city_pepingen,2025,2689464,,,executed,src_pepge_jr2025_bbc,strong,J4 pension LT 2689464.03 JUMP vs 2067101.13; tick1305; primary BBC
+bud_pepge_pension_2024,city_pepingen,2024,2067101,,,executed,src_pepge_jr2025_bbc,strong,J4 YE2024 pension LT 2067101.13; tick1305; primary BBC
+bud_pepge_expl_2025,city_pepingen,2025,1071093,,,executed,src_pepge_jr2025_bbc,strong,J2 exploitatiesaldo +1071093; tick1305; primary BBC
+bud_pepge_expl_ontv_2025,city_pepingen,2025,8974852,,,executed,src_pepge_jr2025_bbc,strong,J2 expl ontv 8974852; tick1305; primary BBC
+bud_pepge_expl_uitg_2025,city_pepingen,2025,7903759,,,executed,src_pepge_jr2025_bbc,strong,J2 expl uitg 7903758; tick1305; primary BBC
+bud_pepge_city_expl_2025,city_pepingen,2025,1560932,,,executed,src_pepge_jr2025_bbc,strong,J3 city expl +1560932 (ontv 7836953 / uitg 6276020); tick1305; primary BBC
+bud_pepge_ocmw_expl_2025,city_pepingen,2025,-489839,,,executed,src_pepge_jr2025_bbc,strong,J3 OCMW expl -489839 (ontv 1137899 / uitg 1627738); tick1305; primary BBC
+bud_pepge_invest_2025,city_pepingen,2025,-941530,,,executed,src_pepge_jr2025_bbc,strong,J2 invest -941530 vs MJP -2394650; tick1305; primary BBC
+bud_pepge_invest_ontv_2025,city_pepingen,2025,394243,,,executed,src_pepge_jr2025_bbc,strong,J2 invest ontv 394243; tick1305; primary BBC
+bud_pepge_invest_uitg_2025,city_pepingen,2025,1335773,,,executed,src_pepge_jr2025_bbc,strong,J2 invest uitg 1335773; tick1305; primary BBC
+bud_pepge_bbr_2025,city_pepingen,2025,-98241,,,executed,src_pepge_jr2025_bbc,strong,J2 budgettair resultaat boekjaar -98241; tick1305; primary BBC
+bud_pepge_cum_bbr_2025,city_pepingen,2025,3338441,,,executed,src_pepge_jr2025_bbc,strong,J2 gecumuleerd BBR 3338441 (prev 3436682); tick1305; primary BBC
+bud_pepge_afm_2025,city_pepingen,2025,750871,,,executed,src_pepge_jr2025_bbc,strong,J2 AFM +750871 (city 539923 / OCMW 210948); tick1305; primary BBC
+bud_pepge_gecorr_2025,city_pepingen,2025,772856,,,executed,src_pepge_jr2025_bbc,strong,J2 gecorr AFM +772856 (correctie 21985); tick1305; primary BBC
+bud_pepge_pnl_2025,city_pepingen,2025,-471624,,,executed,src_pepge_jr2025_bbc,strong,J5 PnL -471624 (ops -902458 / fin +430834); tick1305; primary BBC
+bud_pepge_tussen_2025,city_pepingen,2025,738928,,,executed,src_pepge_jr2025_bbc,strong,kengetallen tussenkomst gemeente-OCMW 738928; tick1305; primary BBC
+bud_pepge_pers_2025,city_pepingen,2025,3670991,,,executed,src_pepge_jr2025_bbc,strong,J5 bezoldigingen 3670991; VTE unpublished; tick1305; primary BBC
+bud_pepge_fiscal_2025,city_pepingen,2025,5193620,,,executed,src_pepge_jr2025_bbc,strong,J5 fiscale 5193620; tick1305; primary BBC
+bud_pepge_agb_bbr_2025,city_pepingen,2025,747,,,executed,src_pepge_jr2025_bbc,strong,J2 consol extra AGB BBR 747 — AGB already 1304; tick1305; primary BBC
+bud_pepge_agb_afm_2025,city_pepingen,2025,-3219,,,executed,src_pepge_jr2025_bbc,strong,J2 consol extra AGB AFM -3219 — AGB already 1304; tick1305; primary BBC
