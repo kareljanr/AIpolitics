@@ -17297,3 +17297,10 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources/entities/budgets+25/commitments+7/leaderboard+7 + FOI ready `gap_wzb_equity_neg_8_8k_cum_loss_55k_member_fee_1_08m_sub_0_77m_afm_zero_l5` (not sent); rq_1250=done; spawn rq_1251; ticks=1250.
 - Progress@1250: refreshed progress_every_10_ticks.md + doge_waste_top10_current.md. Layers A 100 / B 100 / C ~99 / D ~74-88 (not near-complete of 348bn) / E ~893 ready. Pure annual waste top10 **stable** vs 1240 (GIP/fossil/cars/cheque/reporté). Dual off-top10 adds Antwerpen AFM -18.87m / Dodoens equity -18.88m / Welzijnsband fee 1.08m AFM 0.
 - Next: rq_1251 residual dual L5 VL JR2025 hole_fill.
+
+### Tick 1251 - 2026-08-17 - rq_1251 Welzijnszorg Kempen dual residual
+- Unit: Welzijnszorg Kempen WV JR2025 27-muni OCMW-vereniging Entity II (KBO 0222.947.570; 99p text primary; members 27 OCMW arr. Turnhout + IOK). Distinct from Zorggroep Orion (tick 1244, Turnhout seat care).
+- EUR strong: assets **6.35m**; fin debt **0**; AFM **+82.031** (MJP **-442.539**); gecorr AFM **+82.031**; BBR **+2.460m**; OCMW dual **1.693m** (alg **1.020m** DROP + spec **0.673m** JUMP); PnL flip **-0.251m**; op PnL **-0.315m**; cum P&L flip **-0.103m**; cash JUMP **3.984m**; personnel **12.922m** / 184.02 VTE; 2026 fee hike **1.09 → 2.08/inh**.
+- CSVs: sources/entities/budgets+39/commitments+7/leaderboard+7 + FOI ready `gap_wzk_pnl_neg_0_25m_cum_flip_0_10m_ocmw_sub_1_69m_fee_hike_2026_l5` (not sent); rq_1251=done; spawn rq_1252.
+- Next: rq_1252 residual dual L5 VL JR2025 hole_fill.
+

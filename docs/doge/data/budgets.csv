@@ -33310,3 +33310,42 @@ bud_wzb_werking_rev_2025,welzijnsband_meetjesland,2025,1275854,,,bbc_jr_realized
 bud_wzb_goods_2025,welzijnsband_meetjesland,2025,840736,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J5 goederen en diensten 0.841m; tick1250
 bud_wzb_overig_netto_2025,welzijnsband_meetjesland,2025,46329,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J4 overig nettoactief 46.329 JUMP; tick1250
 bud_wzb_expl_uit_2025,welzijnsband_meetjesland,2025,2122680,,,bbc_jr_realized,src_welzijnsband_meetjesland_jr2025,strong,J3 exploitatie uitgaven 2.123m vs budget 2.622m; tick1250
+bud_wzk_assets_2025,welzijnszorg_kempen,2025,6345745,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Assets balanstotaal YE2025 6.346m (was 6.304m); tick1251
+bud_wzk_equity_2025,welzijnszorg_kempen,2025,887680,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Nettoactief YE2025 0.888m DROP (was 1.139m); tick1251
+bud_wzk_debt_total_2025,welzijnszorg_kempen,2025,5458066,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Schulden total YE2025 5.458m all ST; tick1251
+bud_wzk_fin_debt_2025,welzijnszorg_kempen,2025,0,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Fin schulden YE2025 EUR0 (T4 empty); tick1251
+bud_wzk_cash_2025,welzijnszorg_kempen,2025,3983550,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Liquide middelen YE2025 3.984m JUMP (was 3.425m); tick1251
+bud_wzk_st_recv_2025,welzijnszorg_kempen,2025,2040104,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Vorderingen KT total YE2025 2.040m; tick1251
+bud_wzk_st_recv_nonruil_2025,welzijnszorg_kempen,2025,1074708,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Vorderingen KT niet-ruil YE2025 1.075m; tick1251
+bud_wzk_mva_2025,welzijnszorg_kempen,2025,200469,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Materiele VA YE2025 0.200m; tick1251
+bud_wzk_provisions_2025,welzijnszorg_kempen,2025,1454823,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Voorzieningen risico/kosten YE2025 1.455m; tick1251
+bud_wzk_cum_pnl_2025,welzijnszorg_kempen,2025,-102888,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Gecumuleerd tekort YE2025 -0.103m FLIP (was +0.148m); tick1251
+bud_wzk_expl_rec_2025,welzijnszorg_kempen,2025,17764859,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Exploitatieontvangsten 17.765m; tick1251
+bud_wzk_expl_exp_2025,welzijnszorg_kempen,2025,17687827,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Exploitatieuitgaven 17.688m; tick1251
+bud_wzk_expl_saldo_2025,welzijnszorg_kempen,2025,77031,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Exploitatiesaldo +77.031; tick1251
+bud_wzk_invest_exp_2025,welzijnszorg_kempen,2025,18898,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Investeringsuitgaven 18.898; tick1251
+bud_wzk_invest_saldo_2025,welzijnszorg_kempen,2025,-18898,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Investeringssaldo -18.898; tick1251
+bud_wzk_fin_saldo_2025,welzijnszorg_kempen,2025,5000,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Financieringssaldo +5.000 (terugvordering toegestane leningen); tick1251
+bud_wzk_budget_result_2025,welzijnszorg_kempen,2025,63133,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Budgettair resultaat boekjaar +63.133; tick1251
+bud_wzk_bbr_2025,welzijnszorg_kempen,2025,2460251,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,BBR +2.460m; tick1251
+bud_wzk_afm_2025,welzijnszorg_kempen,2025,82031,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,AFM +82.031 (MJP was -442.539); tick1251
+bud_wzk_gecorr_afm_2025,welzijnszorg_kempen,2025,82031,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Gecorrigeerde AFM +82.031; tick1251
+bud_wzk_pnl_2025,welzijnszorg_kempen,2025,-250946,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,PnL tekort -0.251m FLIP (was +0.126m); tick1251
+bud_wzk_op_pnl_2025,welzijnszorg_kempen,2025,-314638,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Operationeel PnL -0.315m NEG; tick1251
+bud_wzk_personnel_2025,welzijnszorg_kempen,2025,12921782,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Bezoldigingen J5 12.922m / 184.02 VTE; tick1251
+bud_wzk_goederen_2025,welzijnszorg_kempen,2025,4755502,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Goederen en diensten 4.756m; tick1251
+bud_wzk_sub_total_2025,welzijnszorg_kempen,2025,13437112,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Werkingssubsidies total J5 13.437m; tick1251
+bud_wzk_ocmw_sub_alg_2025,welzijnszorg_kempen,2025,1019640,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,OCMW dual algemene werkingssub 1.020m DROP (was 1.232m); tick1251
+bud_wzk_ocmw_sub_spec_2025,welzijnszorg_kempen,2025,673305,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,OCMW dual specifieke werkingssub 0.673m JUMP (was 0.205m); tick1251
+bud_wzk_ocmw_sub_total_2025,welzijnszorg_kempen,2025,1692945,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,OCMW dual total alg+spec 1.693m; tick1251
+bud_wzk_vl_sub_spec_2025,welzijnszorg_kempen,2025,11301623,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,VL specifieke werkingssub T2 11.302m; tick1251
+bud_wzk_fed_sub_spec_2025,welzijnszorg_kempen,2025,397017,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,FED specifieke werkingssub T2 0.397m (12 VTE sociale maribel); tick1251
+bud_wzk_city_sub_spec_2025,welzijnszorg_kempen,2025,50006,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Gemeente specifieke werkingssub T2 50.006; tick1251
+bud_wzk_other_sub_spec_2025,welzijnszorg_kempen,2025,28646,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Andere entiteiten specifieke werkingssub T2 28.646; tick1251
+bud_wzk_werking_ontv_2025,welzijnszorg_kempen,2025,3360174,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Opbrengsten uit de werking 3.360m; tick1251
+bud_wzk_costs_2025,welzijnszorg_kempen,2025,17914647,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,J5 costs total 17.915m; tick1251
+bud_wzk_fin_income_2025,welzijnszorg_kempen,2025,64345,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Financiele opbrengsten J5 64.345; tick1251
+bud_wzk_t2_sub_total_2025,welzijnszorg_kempen,2025,13470238,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,T2 werkingssubsidies cash 13.470m; tick1251
+bud_wzk_new_loans_2025,welzijnszorg_kempen,2025,0,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Nieuwe leningen 2025 EUR0; tick1251
+bud_wzk_loans_granted_open_2025,welzijnszorg_kempen,2025,23248,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Toegestane leningen open YE2025 23.248; tick1251
+bud_wzk_overig_netto_2025,welzijnszorg_kempen,2025,990567,,,bbc_jr_realized,src_welzijnszorg_kempen_jr2025,strong,Overig nettoactief YE2025 0.991m; tick1251

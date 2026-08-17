@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T06:20:22Z,rq_1250,1250,no,tick1250 Welzijnsband Meetjesland dual residual 10-muni fee 1.08m sub 0.77m equity -8.8k cum -55k AFM 0 BBR 31k personnel 1.27m PnL +12.6k cash 0.45m FOI ready + progress@1250; next rq_1251 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T06:30:00Z,rq_1251,1251,no,tick1251 Welzijnszorg Kempen dual residual 27-muni PnL -0.25m cum flip -0.10m OCMW 1.69m AFM +82k vs MJP -443k fee hike 2026 1.09 to 2.08/inh personnel 12.92m cash 3.98m BBR 2.46m FOI ready; next rq_1252 residual dual L5 VL; continuous hole_fill
