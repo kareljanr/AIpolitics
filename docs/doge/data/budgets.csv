@@ -33941,3 +33941,33 @@ bud_kruibeke_agb_mva_2025,agb_kruibeke_sport,2025,1482889.0,,,executed,src_agb_k
 bud_kruibeke_agb_st_recv_2025,agb_kruibeke_sport,2025,319677.0,,,executed,src_agb_kruibeke_jr2025_bbc,strong,JR2025 J4 ST recv 0.319677m (ruil 0.151483 + niet-ruil 0.168194); tick1271
 bud_kruibeke_agb_mjp_expl_2026,agb_kruibeke_sport,2026,328988.0,,,budget,src_agb_kruibeke_mjp2026,strong,MJP 2026-2031 expl saldo 0.328988m; BBR 10000 AFM 10000; tick1271
 bud_kruibeke_agb_mjp_inv_2026,agb_kruibeke_sport,2026,345000.0,,,budget,src_agb_kruibeke_mjp2026,strong,MJP 2026 invest uitgaven 0.345000m city-loan financed; tick1271
+bud_tienen_agb_assets_2025,agb_tienen,2025,24283259.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J4 assets 24.283259m vs 23.088024m; tick1272
+bud_tienen_agb_cash_2025,agb_tienen,2025,344130.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J4 cash 0.344130m DROP vs 0.763759m; tick1272
+bud_tienen_agb_fin_debt_2025,agb_tienen,2025,16925793.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 T4 fin debt 16.925793m (LT 15.463778 + ST due 1.462014) vs 16.262406m; city renteloos ~10.5m + bank; 0 leasing; tick1272
+bud_tienen_agb_lt_debt_2025,agb_tienen,2025,15463778.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J4/T4 LT fin debt 15.463778m; tick1272
+bud_tienen_agb_st_due_2025,agb_tienen,2025,1462014.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J4/T4 ST due within year 1.462014m; tick1272
+bud_tienen_agb_city_loan_2025,agb_tienen,2025,10500000.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 verslag city renteloos stock ~10.5m of 16.926m; exact T4 creditor split FOI; tick1272
+bud_tienen_agb_netto_2025,agb_tienen,2025,5353696.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J4 nettoactief 5.353696m (kapsub 1.117 + cum 0.276 + herw 0.945 + overig 3.016); tick1272
+bud_tienen_agb_cum_pnl_2025,agb_tienen,2025,275634.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J4 cum P&L +0.275634m; tick1272
+bud_tienen_agb_afm_2025,agb_tienen,2025,73379.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J2 AFM +0.073379m vs MJP -0.230417m; tick1272
+bud_tienen_agb_gecorr_afm_2025,agb_tienen,2025,161656.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J2 gecorr AFM +0.161656m (aangewezen 1.300992 vs periodiek 1.389270); tick1272
+bud_tienen_agb_bbr_2025,agb_tienen,2025,-448190.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J2 BBR year -0.448190m vs MJP -0.230417m; tick1272
+bud_tienen_agb_bbr_avail_2025,agb_tienen,2025,438914.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J2 beschikbaar BBR 0.438914m (cum prev 0.887105); tick1272
+bud_tienen_agb_expl_uit_2025,agb_tienen,2025,2459953.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J2 expl uitgaven 2.459953m; tick1272
+bud_tienen_agb_expl_ont_2025,agb_tienen,2025,3922601.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J2 expl ontvangsten 3.922601m; tick1272
+bud_tienen_agb_expl_saldo_2025,agb_tienen,2025,1462649.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J2 expl saldo +1.462649m; tick1272
+bud_tienen_agb_inv_uit_2025,agb_tienen,2025,2583701.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J2 invest uitgaven 2.583701m (Houtemveld/zwembad/CC); tick1272
+bud_tienen_agb_inv_saldo_2025,agb_tienen,2025,-2574226.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J2 invest saldo -2.574226m (ontv 9475 VL/Cultuurconnect); tick1272
+bud_tienen_agb_fin_afl_2025,agb_tienen,2025,1389270.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J2/T4 periodieke aflossingen 1.389270m (bank 0.864917 + city 0.324352); tick1272
+bud_tienen_agb_new_loan_2025,agb_tienen,2025,2052657.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 T4 new city renteloos 2.052657m (vs MJP 3.240914m underspend); tick1272
+bud_tienen_agb_pnl_2025,agb_tienen,2025,94813.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J5 surplus 0.094813m (opbr 3.762 / kost 3.667); tick1272
+bud_tienen_agb_div_2025,agb_tienen,2025,25000.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J5 rechthebbenden 0.025000m; retained 0.069813m; MJP profit objective 0.035m; tick1272
+bud_tienen_agb_prijssub_2025,agb_tienen,2025,1993499.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 city prijssubsidie 1.993499m exe (~51pct of werking; vs 2024 1.600841m); tick1272
+bud_tienen_agb_mva_2025,agb_tienen,2025,22693627.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J4 MVA 22.693627m; leasing 0; tick1272
+bud_tienen_agb_st_recv_2025,agb_tienen,2025,1122601.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J4 ST recv 1.122601m (ruil 0.434 + niet-ruil 0.689); tick1272
+bud_tienen_agb_pers_2025,agb_tienen,2025,37591.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 J5 personeel 0.037591m DROP vs 0.085775m; city-payroll FTE FOI; tick1272
+bud_tienen_agb_int_2025,agb_tienen,2025,298099.00,,,executed,src_agb_tienen_jr2025_bbc,strong,JR2025 T2 intrestlasten 0.298099m declining; tick1272
+bud_tienen_agb_mjp_expl_2026,agb_tienen,2026,1384799.00,,,budgeted,src_agb_tienen_mjp2026,strong,MJP 2026-2031 expl saldo 1.384799m; AFM -0.189291m; tick1272
+bud_tienen_agb_mjp_afm_2026,agb_tienen,2026,-189291.00,,,budgeted,src_agb_tienen_mjp2026,strong,MJP 2026 AFM -0.189291m / gecorr -0.059535m / BBR avail 0.467397m; tick1272
+bud_tienen_agb_mjp_inv_2026,agb_tienen,2026,3975688.00,,,budgeted,src_agb_tienen_mjp2026,strong,MJP 2026 invest saldo -3.975688m city-loan financed 3.975688m; tick1272
+bud_tienen_agb_mjp_prijs_my,agb_tienen,2026,14400000.00,,,budgeted,src_agb_tienen_mjp2026,strong,MJP 2026-2031 city prijssub 14.4m + city loan 12.1m + zakelijke rechten 1.6m; tick1272

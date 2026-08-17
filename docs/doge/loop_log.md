@@ -17450,3 +17450,10 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources+5/entities(new+city_bkz note)/budgets+24/commitments+6/leaderboard+6 + FOI ready `gap_kruibeke_agb_thin_equity_0_01m_fin_debt_1_71m_prijssub_0_42m_l5` (not sent); rq_1271=done; spawn rq_1272; ticks=1271. Not a *0 tick — no progress refresh.
 - Next: rq_1272 residual dual L5 VL JR2025 hole_fill (prefer other unmined AGB/zorg/EVA with direct PDF; IBOGEM only if JR2025 downloadable).
 
+
+### Tick 1272 - 2026-08-17 - rq_1272 AGB Tienen dual residual
+- Unit: Autonoom Gemeentebedrijf Tienen JR2025 Entity II after AGB Kruibeke/BKZ sport tick1271 (KBO 0872.382.861; AGB since 17.09.2004; BBC text PDF; RvB 01.06.2026). **Distinct from** IBOGEM (waste AGB, JR2025 unpublished) and AGB Kruibeke/BKZ. Seat Grote Markt 27 3300. Venues CC De Kruisboog + stedelijk zwembad + Houtemveld. AD Patricia Willems / FD Ans Aerts. City Tienen GE+OCMW JR2025 published but not mined this tick. AGSO Knokke already mined 1217 — not redone.
+- EUR strong (primary BBC text PDF): assets **24.283m** (was 23.088m); cash **0.344m** DROP vs **0.764m**; MVA **22.694m** leasing **0**; fin debt **16.926m** (LT **15.464m** + ST due **1.462m**) city renteloos **~10.5m** + bank, rising vs **16.262m**; new city loans **2.053m** (vs MJP 3.241m); expl **+1.463m** (ontv **3.923m** / uitg **2.460m**); invest **−2.574m** (uitg **2.584m**); BBR **−0.448m** / avail **+0.439m**; AFM **+0.073m** / gecorr **+0.162m**; city prijssub **1.993m** exe (was 1.601m); PnL **+0.095m** of which dividend **0.025m**; personeel **0.038m**. MJP 2026–2031: AFM **−0.189m** / gecorr **−0.060m** / BBR **0.467m**; MY prijssub **14.4m** + city loan **12.1m**. VenB 2025 not retrieved; NBB SPA this box.
+- CSVs: sources+5/entities(new city stub + AGB)/budgets+30/commitments+6/leaderboard+7 + FOI ready `gap_tienen_agb_fin_debt_16_93m_city_loan_10_5m_prijssub_1_99m_l5` (not sent); rq_1272=done; spawn rq_1273; ticks=1272. Not a *0 tick — no progress refresh.
+- Next: rq_1273 residual dual L5 VL JR2025 hole_fill (prefer other unmined AGB/zorg/EVA with direct PDF; IBOGEM only if JR2025 downloadable).
+
