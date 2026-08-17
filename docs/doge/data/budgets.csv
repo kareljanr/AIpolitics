@@ -33469,3 +33469,48 @@ bud_ago_capex_2025,ag_oostende,2025,690133,,,nbb_jr_realized,src_ag_oostende_jr2
 bud_ago_board_remun_2025,ag_oostende,2025,7607,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Bestuursvergoedingen 2025 som 7.607 (9 namen); tick1254
 bud_ago_impairment_2024,ag_oostende,2025,1000000,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Waardevermindering vorderingen 2024 1.000m vs 2025 0; tick1254
 bud_ago_cap_int_sub_2025,ag_oostende,2025,54830,,,nbb_jr_realized,src_ag_oostende_jr2025,strong,Kapitaal- en interestsubsidies 2025 54.830; tick1254
+bud_agkd_assets_2025,agb_kunsten_design_gent,2025,18032371,,,bbc_jr_realized,src_agkd_jr2025,strong,Assets balanstotaal YE2025 18.032m (was 13.640m) JUMP; tick1255
+bud_agkd_current_2025,agb_kunsten_design_gent,2025,16752774,,,bbc_jr_realized,src_agkd_jr2025,strong,Vlottende activa YE2025 16.753m; tick1255
+bud_agkd_cash_2025,agb_kunsten_design_gent,2025,648761,,,bbc_jr_realized,src_agkd_jr2025,strong,Liquide middelen YE2025 0.649m JUMP (was 0.210m); tick1255
+bud_agkd_st_recv_2025,agb_kunsten_design_gent,2025,15974619,,,bbc_jr_realized,src_agkd_jr2025,strong,ST vorderingen YE2025 15.975m; tick1255
+bud_agkd_st_recv_ruil_2025,agb_kunsten_design_gent,2025,823352,,,bbc_jr_realized,src_agkd_jr2025,strong,ST vord. ruiltransacties YE2025 0.823m; tick1255
+bud_agkd_st_recv_nonruil_2025,agb_kunsten_design_gent,2025,15151267,,,bbc_jr_realized,src_agkd_jr2025,strong,ST vord. niet-ruil YE2025 15.151m (was 12.072m); city/VL recv FOI; tick1255
+bud_agkd_inventory_2025,agb_kunsten_design_gent,2025,129394,,,bbc_jr_realized,src_agkd_jr2025,strong,Voorraden YE2025 0.129m; tick1255
+bud_agkd_fixed_2025,agb_kunsten_design_gent,2025,1279597,,,bbc_jr_realized,src_agkd_jr2025,strong,Vaste activa YE2025 1.280m; tick1255
+bud_agkd_mva_2025,agb_kunsten_design_gent,2025,884320,,,bbc_jr_realized,src_agkd_jr2025,strong,Materiele vaste activa YE2025 0.884m; tick1255
+bud_agkd_buildings_2025,agb_kunsten_design_gent,2025,752022,,,bbc_jr_realized,src_agkd_jr2025,strong,Terreinen en gebouwen YE2025 0.752m (city provides buildings free); tick1255
+bud_agkd_iva_2025,agb_kunsten_design_gent,2025,394902,,,bbc_jr_realized,src_agkd_jr2025,strong,Immateriele vaste activa YE2025 0.395m; tick1255
+bud_agkd_fva_2025,agb_kunsten_design_gent,2025,375,,,bbc_jr_realized,src_agkd_jr2025,strong,Financiele vaste activa YE2025 375; tick1255
+bud_agkd_debt_2025,agb_kunsten_design_gent,2025,9157730,,,bbc_jr_realized,src_agkd_jr2025,strong,Totale schulden YE2025 9.158m allen ST; tick1255
+bud_agkd_st_ruil_2025,agb_kunsten_design_gent,2025,5972974,,,bbc_jr_realized,src_agkd_jr2025,strong,ST schulden ruil YE2025 5.973m (voorz 0.425m + niet-fin 5.548m); tick1255
+bud_agkd_st_nonruil_2025,agb_kunsten_design_gent,2025,2859756,,,bbc_jr_realized,src_agkd_jr2025,strong,ST schulden niet-ruil YE2025 2.860m; tick1255
+bud_agkd_st_lt_due_2025,agb_kunsten_design_gent,2025,325000,,,bbc_jr_realized,src_agkd_jr2025,strong,LT binnen jaar vervallend YE2025 0.325m = 1.800m new - 1.475m repay; tick1255
+bud_agkd_lt_fin_debt_2025,agb_kunsten_design_gent,2025,0,,,bbc_jr_realized,src_agkd_jr2025,strong,LT financiele schulden YE2025 0; tick1255
+bud_agkd_netto_2025,agb_kunsten_design_gent,2025,8874641,,,bbc_jr_realized,src_agkd_jr2025,strong,Nettoactief YE2025 8.875m (was 5.550m); tick1255
+bud_agkd_cum_surplus_2025,agb_kunsten_design_gent,2025,7988089,,,bbc_jr_realized,src_agkd_jr2025,strong,Gecumuleerd overschot YE2025 7.988m (was 4.900m); tick1255
+bud_agkd_cap_sub_2025,agb_kunsten_design_gent,2025,576948,,,bbc_jr_realized,src_agkd_jr2025,strong,Kapitaalsubsidies YE2025 0.577m; tick1255
+bud_agkd_expl_in_2025,agb_kunsten_design_gent,2025,21328459,,,bbc_jr_realized,src_agkd_jr2025,strong,J2 exploitatieontvangsten 2025 21.328m (MJP 20.088m); tick1255
+bud_agkd_expl_out_2025,agb_kunsten_design_gent,2025,17942141,,,bbc_jr_realized,src_agkd_jr2025,strong,J2 exploitatieuitgaven 2025 17.942m (MJP 21.122m); tick1255
+bud_agkd_expl_saldo_2025,agb_kunsten_design_gent,2025,3386317,,,bbc_jr_realized,src_agkd_jr2025,strong,J2 exploitatiesaldo 2025 +3.386m vs MJP -1.035m; tick1255
+bud_agkd_invest_saldo_2025,agb_kunsten_design_gent,2025,-520788,,,bbc_jr_realized,src_agkd_jr2025,strong,J2 investeringssaldo 2025 -0.521m; tick1255
+bud_agkd_fin_saldo_2025,agb_kunsten_design_gent,2025,325000,,,bbc_jr_realized,src_agkd_jr2025,strong,J2 financieringssaldo 2025 +0.325m (in 1.835m / out 1.510m); tick1255
+bud_agkd_bbr_2025,agb_kunsten_design_gent,2025,3190529,,,bbc_jr_realized,src_agkd_jr2025,strong,J2 BBR boekjaar 2025 +3.191m vs MJP -1.035m; tick1255
+bud_agkd_cum_bbr_2025,agb_kunsten_design_gent,2025,8223426,,,bbc_jr_realized,src_agkd_jr2025,strong,J2 gecumuleerd BBR YE2025 8.223m; tick1255
+bud_agkd_afm_2025,agb_kunsten_design_gent,2025,1911317,,,bbc_jr_realized,src_agkd_jr2025,strong,J2 AFM 2025 +1.911m (MJP -1.035m); tick1255
+bud_agkd_gecorr_afm_2025,agb_kunsten_design_gent,2025,3386317,,,bbc_jr_realized,src_agkd_jr2025,strong,J2 gecorrigeerde AFM 2025 +3.386m (gecorr aflossingen 0); tick1255
+bud_agkd_repay_2025,agb_kunsten_design_gent,2025,1475000,,,bbc_jr_realized,src_agkd_jr2025,strong,Periodieke aflossingen 2025 1.475m; tick1255
+bud_agkd_new_loan_2025,agb_kunsten_design_gent,2025,1800000,,,bbc_jr_realized,src_agkd_jr2025,strong,Nieuwe leningen andere entiteiten 2025 1.800m (niet bank); tick1255
+bud_agkd_costs_2025,agb_kunsten_design_gent,2025,18429345,,,bbc_jr_realized,src_agkd_jr2025,strong,J5 kosten 2025 18.429m; tick1255
+bud_agkd_goods_2025,agb_kunsten_design_gent,2025,10306440,,,bbc_jr_realized,src_agkd_jr2025,strong,J5 goederen/diensten 2025 10.306m JUMP (was 7.649m); tick1255
+bud_agkd_personnel_2025,agb_kunsten_design_gent,2025,7529764,,,bbc_jr_realized,src_agkd_jr2025,strong,J5 personeel 2025 7.530m / 88.32 VTE (plan 121.31; 2024 79.63); tick1255
+bud_agkd_depr_2025,agb_kunsten_design_gent,2025,519298,,,bbc_jr_realized,src_agkd_jr2025,strong,J5 afschrijvingen 2025 0.519m; tick1255
+bud_agkd_revenue_2025,agb_kunsten_design_gent,2025,21517806,,,bbc_jr_realized,src_agkd_jr2025,strong,J5 opbrengsten 2025 21.518m; tick1255
+bud_agkd_own_ops_2025,agb_kunsten_design_gent,2025,3560386,,,bbc_jr_realized,src_agkd_jr2025,strong,J5 ontvangsten uit de werking 2025 3.560m JUMP (was 1.716m); tick1255
+bud_agkd_subsidies_2025,agb_kunsten_design_gent,2025,12852262,,,bbc_jr_realized,src_agkd_jr2025,strong,J5/T2 werkingssubsidies 2025 12.852m; tick1255
+bud_agkd_city_alg_sub_2025,agb_kunsten_design_gent,2025,7295869,,,bbc_jr_realized,src_agkd_jr2025,strong,T2 algemene werkingssub gemeente 2025 7.296m (was 7.914m); tick1255
+bud_agkd_city_spec_sub_2025,agb_kunsten_design_gent,2025,334867,,,bbc_jr_realized,src_agkd_jr2025,strong,T2 specifieke werkingssub gemeente 2025 0.335m; tick1255
+bud_agkd_vl_spec_sub_2025,agb_kunsten_design_gent,2025,4992387,,,bbc_jr_realized,src_agkd_jr2025,strong,T2 specifieke werkingssub VL 2025 4.992m (Erfgoeddecreet); tick1255
+bud_agkd_other_ops_2025,agb_kunsten_design_gent,2025,4915788,,,bbc_jr_realized,src_agkd_jr2025,strong,J5 andere operationele opbrengsten 2025 4.916m JUMP (was 0.230m); FOI; tick1255
+bud_agkd_pnl_2025,agb_kunsten_design_gent,2025,3088460,,,bbc_jr_realized,src_agkd_jr2025,strong,J5 overschot 2025 3.088m no dividend (was 1.050m); tick1255
+bud_agkd_vte_2025,agb_kunsten_design_gent,2025,88.32,,,bbc_jr_realized,src_agkd_jr2025,strong,VTE 2025 88.32 vs plan 121.31 vs 2024 79.63; tick1255
+bud_agkd_d09_it_2025,agb_kunsten_design_gent,2025,478635,,,bbc_jr_realized,src_agkd_jr2025,strong,District09 IT na-afrekening 2025 expl 415.088 + inv 63.546; tick1255
