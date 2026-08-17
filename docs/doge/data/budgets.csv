@@ -34093,3 +34093,37 @@ bud_agbpb_costs_2025,agb_bonheiden_agbpb,2025,349981,,,executed,src_agbpb_jr2025
 bud_agbpb_depr_2025,agb_bonheiden_agbpb,2025,305206,,,executed,src_agbpb_jr2025_bbc,strong,J5 afschrijvingen 0.305206m vs 0.251264m; tick1277
 bud_agbpb_fin_opbr_2025,agb_bonheiden_agbpb,2025,56206,,,executed,src_agbpb_jr2025_bbc,strong,J5 financiële opbrengsten 0.056206m JUMP vs 0.002067m; composition FOI; tick1277
 bud_agbpb_goods_2025,agb_bonheiden_agbpb,2025,42824,,,executed,src_agbpb_jr2025_bbc,strong,J5/T2 goederen en diensten 0.042824m vs 0.045025m; tick1277
+bud_machelen_assets_2025,city_machelen,2025,106034826,,,executed,src_machelen_jr2025_bbc,strong,J4 assets 106.034826m vs 125.475946m drop 19.441m; tick1279
+bud_machelen_assets_2024,city_machelen,2024,125475946,,,executed,src_machelen_jr2025_bbc,strong,J4 YE2024 assets 125.475946m; tick1279
+bud_machelen_cash_2025,city_machelen,2025,10388824,,,executed,src_machelen_jr2025_bbc,strong,J4 cash 10.388824m DROP vs 12.281688m; tick1279
+bud_machelen_fva_2025,city_machelen,2025,11831632,,,executed,src_machelen_jr2025_bbc,strong,J4 FVA 11.831632m (EVA 0 + IGS 11.754130m); tick1279
+bud_machelen_igs_2025,city_machelen,2025,11754130,,,executed,src_machelen_jr2025_bbc,strong,J4 IGS FVA 11.754130m; AGB/EVA 0; tick1279
+bud_machelen_mva_2025,city_machelen,2025,75928969,,,executed,src_machelen_jr2025_bbc,strong,J4 MVA 75.928969m; gemeenschapsgoederen 60.288m; tick1279
+bud_machelen_leasing_2025,city_machelen,2025,16899954,,,executed,src_machelen_jr2025_bbc,strong,J4 leasing 16.899954m vs 26.665066m; Farys sale 9.662578m; tick1279
+bud_machelen_fin_debt_2025,city_machelen,2025,26368730,,,executed,src_machelen_jr2025_bbc,strong,T4 fin debt 26.368730m (LT 23.451 + ST due 2.918) vs 37.887m; tick1279
+bud_machelen_fin_debt_lt_2025,city_machelen,2025,23450805,,,executed,src_machelen_jr2025_bbc,strong,J4/T4 LT fin debt 23.450805m; tick1279
+bud_machelen_pension_2025,city_machelen,2025,15054233,,,executed,src_machelen_jr2025_bbc,strong,J4 pension LT 15.054233m vs 13.394944m; tick1279
+bud_machelen_equity_2025,city_machelen,2025,55487380,,,executed,src_machelen_jr2025_bbc,strong,J4 nettoactief 55.487380m (city 48.017 + OCMW 7.470); tick1279
+bud_machelen_cum_pnl_2025,city_machelen,2025,-6254233,,,executed,src_machelen_jr2025_bbc,strong,J4 cum P&L -6.254233m (city -1.274 + OCMW -4.980); tick1279
+bud_machelen_expl_2025,city_machelen,2025,3929106,,,executed,src_machelen_jr2025_bbc,strong,J2 expl +3.929106m (ontv 46.129 / uitg 42.200); tick1279
+bud_machelen_expl_ontv_2025,city_machelen,2025,46128626,,,executed,src_machelen_jr2025_bbc,strong,J2 expl ontv 46.128626m; tick1279
+bud_machelen_expl_uitg_2025,city_machelen,2025,42199520,,,executed,src_machelen_jr2025_bbc,strong,J2 expl uitg 42.199520m; tick1279
+bud_machelen_invest_2025,city_machelen,2025,7401106,,,executed,src_machelen_jr2025_bbc,strong,J2 invest +7.401106m (ontv 9.958 / uitg 2.557) sale-driven; tick1279
+bud_machelen_invest_ontv_2025,city_machelen,2025,9958099,,,executed,src_machelen_jr2025_bbc,strong,J2 invest ontv 9.958099m (Farys/lease sale); tick1279
+bud_machelen_bbr_2025,city_machelen,2025,-776652,,,executed,src_machelen_jr2025_bbc,strong,J2 BBR year -0.776652m vs MJP +0.673m; tick1279
+bud_machelen_avail_2025,city_machelen,2025,9181789,,,executed,src_machelen_jr2025_bbc,strong,J2 avail BBR 9.181789m (gecum 9.368 - onbeschikbaar 0.187); tick1279
+bud_machelen_afm_2025,city_machelen,2025,1269876,,,executed,src_machelen_jr2025_bbc,strong,J2 AFM +1.269876m vs MJP +3.149m; tick1279
+bud_machelen_gecorr_2025,city_machelen,2025,1468188,,,executed,src_machelen_jr2025_bbc,strong,J2 gecorr AFM +1.468188m; tick1279
+bud_machelen_early_repay_2025,city_machelen,2025,8687720,,,executed,src_machelen_jr2025_bbc,strong,T4 LT extra aflossingen 8.687720m (fin uitg 12.998m); tick1279
+bud_machelen_new_loans_2025,city_machelen,2025,398777,,,executed,src_machelen_jr2025_bbc,strong,T4 new loans 0.398777m = Farys lease 1721000; tick1279
+bud_machelen_pnl_2025,city_machelen,2025,-2371903,,,executed,src_machelen_jr2025_bbc,strong,J5 PnL -2.371903m (city +4.092 / OCMW -6.464); tick1279
+bud_machelen_pers_2025,city_machelen,2025,21806089,,,executed,src_machelen_jr2025_bbc,strong,J5/T2 personeel 21.806089m; VTE unpublished; tick1279
+bud_machelen_fiscal_2025,city_machelen,2025,22541264,,,executed,src_machelen_jr2025_bbc,strong,J5/T2 fiscal 22.541264m (OV 11.918 + APB 3.652 + verblijf 2.790); tick1279
+bud_machelen_gemfonds_2025,city_machelen,2025,5938438,,,executed,src_machelen_jr2025_bbc,strong,T2 gemeentefonds 5.938438m; tick1279
+bud_machelen_police_2025,city_machelen,2025,3396374,,,executed,src_machelen_jr2025_bbc,strong,T2 politiezone 3.396374m; tick1279
+bud_machelen_hvz_2025,city_machelen,2025,2398725,,,executed,src_machelen_jr2025_bbc,strong,T2 HVZ 2.398725m; tick1279
+bud_machelen_igs_sub_2025,city_machelen,2025,1342806,,,executed,src_machelen_jr2025_bbc,strong,T2 IGS werksub 1.342806m; tick1279
+bud_machelen_farys_prijs_2025,city_machelen,2025,402665.15,,,executed,src_machelen_jr2025_bbc,strong,verslag prijssub Farys clubs 0.402665m; tick1279
+bud_machelen_wzc_total_2025,city_machelen,2025,-819351,,,executed,src_machelen_jr2025_bbc,strong,WZC Parkhof eindtotaal -0.819351m (expl -0.750; 103 bewoners); tick1279
+bud_machelen_wzc_ext_2025,city_machelen,2025,1408756.38,,,executed,src_machelen_jr2025_bbc,strong,externe tewerkstelling WZC 1.408756m vs AMJP 0.250m; tick1279
+bud_machelen_agb_sub_2025,city_machelen,2025,0,,,executed,src_machelen_jr2025_bbc,strong,T2 werksub eigen AGB 0; J4 EVA FVA 0 — no AGB; tick1279
