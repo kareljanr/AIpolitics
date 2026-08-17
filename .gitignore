@@ -3,6 +3,7 @@ Thumbs.db
 *.tmp
 .env
 .env.*
+**/telegram.env
 node_modules/
 
 # Editor

@@ -2,9 +2,42 @@
 
 ## Live schedule
 
-- **Daily Grok durable task:** `019fa3e112ab` (interval `1d`) — RSS harvest + one Proposal Radar tick (score/seed/weekly), then commit/push.
+### A) Grok durable (deep scores)
+
+- **Daily Grok durable task:** `019fa3e112ab` (interval `1d`) — RSS + one analyse unit + commit/push.
 - Pause: set `data/loop_state.csv` → `paused=yes`.
-- Manual anytime: `/proposal-radar` or pipeline below.
+
+### B) Windows Task Scheduler (RSS + Telegram digest)
+
+Keeps finance Telegram **separate** — uses portfolio bot **token** only; politics needs its **own chat/topic**.
+
+```powershell
+cd C:\Users\karel\dev\AIpolitics
+
+# 1) Telegram setup help
+python docs\proposal-radar\scripts\telegram_notify.py --setup-help
+
+# 2) Create NEW group "AIpolitics Radar" (recommended) OR new forum topic in an existing supergroup
+#    Add the same BotFather bot; post once; resolve ids:
+python docs\proposal-radar\scripts\telegram_notify.py --resolve-chats
+
+# 3) Config (gitignored)
+copy docs\proposal-radar\config\telegram.env.example docs\proposal-radar\config\telegram.env
+# edit TELEGRAM_CHAT_ID=...  (token can stay empty → loads from portfolio signals\.env)
+
+# 4) Dry-run digest
+powershell -ExecutionPolicy Bypass -File docs\proposal-radar\scripts\run_daily_windows.ps1 -DryRunTelegram
+
+# 5) Register daily 08:00 local
+powershell -ExecutionPolicy Bypass -File docs\proposal-radar\scripts\register-radar-task.ps1 -At 8:00AM
+
+# Optional: also run grok agent on Windows (usually leave OFF — durable scheduler already scores)
+# powershell -File docs\proposal-radar\scripts\register-radar-task.ps1 -At 8:00AM -WithAgent
+```
+
+Task name: **`AIpoliticsProposalRadarDaily`**. Unregister: `register-radar-task.ps1 -Unregister`.
+
+Manual anytime: `/proposal-radar` or pipeline below.
 
 ## Full auto path (ingest + export)
 

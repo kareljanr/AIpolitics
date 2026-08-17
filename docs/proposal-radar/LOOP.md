@@ -11,6 +11,10 @@ Sister of [`docs/doge/LOOP.md`](../doge/LOOP.md). Design: [`docs/09-proposal-rad
   - Each fire: RSS `run_pipeline.py` when possible → **one** LOOP unit → commit/push if dirty.  
   - Cancel/pause: set `loop_state.csv` `paused=yes` **and/or** delete scheduler id.  
   - Recreate: same interval `1d` + prompt in skill/LOOP if id lost.  
+- **Windows Task Scheduler (optional companion):** `AIpoliticsProposalRadarDaily`  
+  - Script: `scripts/run_daily_windows.ps1` — git pull + RSS + **Telegram digest** (politics chat only).  
+  - Register: `scripts/register-radar-task.ps1`. Agent tick via `-WithAgent` is optional (default off to avoid double-scoring with Grok durable).  
+  - Telegram: reuse portfolio bot **token**; **separate** `TELEGRAM_CHAT_ID` (new group or forum topic). Never the bare finance chat.  
 - **Not 60s:** analysis is heavier than one DOGE budget line.  
 - **Tick budget:** one primary unit; stop after ~20–25 min.
 
