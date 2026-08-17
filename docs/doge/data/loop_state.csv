@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T11:45:00Z,rq_1292,1292,no,tick1292 Stad+OCMW Huldenberg JR2025 GE residual; KBO 0207.519.820/0212.221.152; assets 68.710m fin debt 9.557m pension 4.370m OCMW tussen 1.254m; FOI ready; next rq_1293 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T11:50:00Z,rq_1293,1293,no,tick1293 Stad+OCMW Oud-Heverlee JR2025 GE residual; KBO 0207.523.679/0212.207.096; assets 81.661m fin debt 15.183m pension 5.486m OCMW tussen 0.936m; FOI ready; next rq_1294 residual dual L5 VL; continuous hole_fill

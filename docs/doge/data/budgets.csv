@@ -34570,3 +34570,39 @@ bud_huldb_hvz_inv_2025,city_huldenberg,2025,105684.74,,,executed,src_huldb_jr202
 bud_huldb_igs_sub_2025,city_huldenberg,2025,583634.01,,,executed,src_huldb_jr2025_bbc,strong,T2 IGS werksub 0.583634m; tick1292; primary BBC
 bud_huldb_afl_2025,city_huldenberg,2025,765139.01,,,executed,src_huldb_jr2025_bbc,strong,T4 periodieke aflossingen 0.765139m; tick1292; primary BBC
 bud_huldb_ocmw_equity_2025,city_huldenberg,2025,-952609,,,executed,src_huldb_jr2025_bbc,strong,T5 OCMW equity -0.952609m NEG; tick1292; primary BBC
+bud_oudhev_assets_2025,city_oud_heverlee,2025,81660928,,,executed,src_oudhev_jr2025_bbc,strong,J4 assets 81.660928m vs 69.467174m; tick1293; primary BBC
+bud_oudhev_assets_2024,city_oud_heverlee,2024,69467174,,,executed,src_oudhev_jr2025_bbc,strong,J4 YE2024 assets 69.467174m; tick1293; primary BBC
+bud_oudhev_cash_2025,city_oud_heverlee,2025,12445617,,,executed,src_oudhev_jr2025_bbc,strong,J4 cash 12.445617m vs 11.649621m; tick1293; primary BBC
+bud_oudhev_cash_2024,city_oud_heverlee,2024,11649621,,,executed,src_oudhev_jr2025_bbc,strong,J4 YE2024 cash 11.649621m; tick1293; primary BBC
+bud_oudhev_fva_2025,city_oud_heverlee,2025,17705280,,,executed,src_oudhev_jr2025_bbc,strong,J4/T5 FVA 17.705280m; EVA 0 + IGS 16.173268; tick1293; primary BBC
+bud_oudhev_igs_2025,city_oud_heverlee,2025,16173268,,,executed,src_oudhev_jr2025_bbc,strong,J4/T5 IGS FVA 16.173268m; tick1293; primary BBC
+bud_oudhev_fluvius_reval_2025,city_oud_heverlee,2025,8912221,,,executed,src_oudhev_jr2025_bbc,strong,T5 Fluvius Zenne-Dijle IGS reval +8.912221m; tick1293; primary BBC
+bud_oudhev_mva_2025,city_oud_heverlee,2025,48051598,,,executed,src_oudhev_jr2025_bbc,strong,J4 MVA 48.051598m; leasing 2.265923m; tick1293; primary BBC
+bud_oudhev_leasing_2025,city_oud_heverlee,2025,2265923,,,executed,src_oudhev_jr2025_bbc,strong,T5 leasing MVA 2.265923m vs 2.043074m; tick1293; primary BBC
+bud_oudhev_equity_2025,city_oud_heverlee,2025,58579815,,,executed,src_oudhev_jr2025_bbc,strong,J4 nettoactief 58.579815m vs 46.379138m; tick1293; primary BBC
+bud_oudhev_fin_debt_2025,city_oud_heverlee,2025,15183264,,,executed,src_oudhev_jr2025_bbc,strong,T4 fin debt 15.183264m (LT 13.869 + ST due 1.314); tick1293; primary BBC
+bud_oudhev_fin_debt_2024,city_oud_heverlee,2024,15288421,,,executed,src_oudhev_jr2025_bbc,strong,T4 YE2024 fin debt 15.288421m; tick1293; primary BBC
+bud_oudhev_new_loans_2025,city_oud_heverlee,2025,1336745,,,executed,src_oudhev_jr2025_bbc,strong,T4 new loans 1.336745m; tick1293; primary BBC
+bud_oudhev_pension_2025,city_oud_heverlee,2025,5485793,,,executed,src_oudhev_jr2025_bbc,strong,J4 LT pension 5.485793m vs 5.266726m; tick1293; primary BBC
+bud_oudhev_pension_respo_2025,city_oud_heverlee,2025,1370000,,,executed,src_oudhev_jr2025_bbc,strong,proefbalans responsabilisering 1.370m; tick1293; primary BBC
+bud_oudhev_st_prov_2025,city_oud_heverlee,2025,670186,,,executed,src_oudhev_jr2025_bbc,strong,J4 ST voorzieningen 0.670186m; tick1293; primary BBC
+bud_oudhev_expl_2025,city_oud_heverlee,2025,4809493,,,executed,src_oudhev_jr2025_bbc,strong,J2 exploitatiesaldo +4.809493m; tick1293; primary BBC
+bud_oudhev_expl_ontv_2025,city_oud_heverlee,2025,26408127,,,executed,src_oudhev_jr2025_bbc,strong,J2 expl ontv 26.408127m; tick1293; primary BBC
+bud_oudhev_expl_uitg_2025,city_oud_heverlee,2025,21598634,,,executed,src_oudhev_jr2025_bbc,strong,J2 expl uitg 21.598634m; tick1293; primary BBC
+bud_oudhev_city_expl_2025,city_oud_heverlee,2025,5763180,,,executed,src_oudhev_jr2025_bbc,strong,kengetallen city expl +5.763180m (25.029/19.265); tick1293; primary BBC
+bud_oudhev_ocmw_expl_2025,city_oud_heverlee,2025,-953687,,,executed,src_oudhev_jr2025_bbc,strong,kengetallen OCMW expl -0.953687m (1.380/2.334); tick1293; primary BBC
+bud_oudhev_invest_2025,city_oud_heverlee,2025,-3386076,,,executed,src_oudhev_jr2025_bbc,strong,J2 invest -3.386076m vs eindkrediet 6.615m; tick1293; primary BBC
+bud_oudhev_bbr_2025,city_oud_heverlee,2025,1600520,,,executed,src_oudhev_jr2025_bbc,strong,J2 budgettair resultaat boekjaar +1.600520m; tick1293; primary BBC
+bud_oudhev_avail_2025,city_oud_heverlee,2025,13767785,,,executed,src_oudhev_jr2025_bbc,strong,J2 beschikbaar BBR 13.767785m; tick1293; primary BBC
+bud_oudhev_afm_2025,city_oud_heverlee,2025,3449851,,,executed,src_oudhev_jr2025_bbc,strong,J2 AFM +3.449851m; tick1293; primary BBC
+bud_oudhev_gecorr_2025,city_oud_heverlee,2025,3668679,,,executed,src_oudhev_jr2025_bbc,strong,J2 gecorr AFM +3.668679m; tick1293; primary BBC
+bud_oudhev_pnl_2025,city_oud_heverlee,2025,2482528,,,executed,src_oudhev_jr2025_bbc,strong,J5 PnL +2.482528m (city +3.354 / OCMW -0.872); tick1293; primary BBC
+bud_oudhev_tussen_2025,city_oud_heverlee,2025,936177,,,executed,src_oudhev_jr2025_bbc,strong,kengetallen/T5 city->OCMW tussenkomst 0.936177m; tick1293; primary BBC
+bud_oudhev_pers_2025,city_oud_heverlee,2025,13418914,,,executed,src_oudhev_jr2025_bbc,strong,J5 bezoldigingen 13.418914m; tick1293; primary BBC
+bud_oudhev_fiscal_2025,city_oud_heverlee,2025,13341897,,,executed,src_oudhev_jr2025_bbc,strong,J5/T2 fiscal 13.341897m; tick1293; primary BBC
+bud_oudhev_gemfonds_2025,city_oud_heverlee,2025,2278934,,,executed,src_oudhev_jr2025_bbc,strong,T2 gemeentefonds 2.278934m; tick1293; primary BBC
+bud_oudhev_politie_2025,city_oud_heverlee,2025,1134229,,,executed,src_oudhev_jr2025_bbc,strong,T2 politiediensten 1.134229m; tick1293; primary BBC
+bud_oudhev_hvz_2025,city_oud_heverlee,2025,572528,,,executed,src_oudhev_jr2025_bbc,strong,T2 brandweer/HVZ 0.572528m; tick1293; primary BBC
+bud_oudhev_afl_2025,city_oud_heverlee,2025,1441902,,,executed,src_oudhev_jr2025_bbc,strong,T4 periodieke aflossingen 1.441902m; tick1293; primary BBC
+bud_oudhev_ocmw_equity_2025,city_oud_heverlee,2025,1603731,,,executed,src_oudhev_jr2025_bbc,strong,T5 OCMW equity 1.603731m; tick1293; primary BBC
+bud_oudhev_ocmw_cum_2025,city_oud_heverlee,2025,-2040424,,,executed,src_oudhev_jr2025_bbc,strong,T5 OCMW cum PnL -2.040424m NEG; tick1293; primary BBC
