@@ -35777,3 +35777,34 @@ bud_igeanmv_turnover_2025,igean_mv,2025,57621266,,,executed,src_igean_jv2025_pdf
 bud_igeanmv_pers_2025,igean_mv,2025,19663281,,,executed,src_igean_jv2025_pdf,strong,2025 bezoldigingen 19663281.17 was 18783025.67; tick1341; primary WVV sister
 bud_igeanmv_ops_2025,igean_mv,2025,261007,,,executed,src_igean_jv2025_pdf,strong,2025 bedrijfswinst 261006.99 was 248563.15; tick1341; primary WVV sister 9901
 bud_igeanmv_pnl_2025,igean_mv,2025,0,,,executed,src_igean_jv2025_pdf,strong,2025 PnL 0 (9904 empty; auditor winst 0; tax 52660.04 = pretax 52660.04); tick1341; primary WVV sister
+bud_idm_assets_2025,igs_idm,2025,9527457,,,executed,src_idm_jr2025_pdf,strong,2025 assets 9527457.23 was 9608727.08; tick1342; primary WVV in official PDF
+bud_idm_fixed_2025,igs_idm,2025,5579480,,,executed,src_idm_jr2025_pdf,strong,2025 vaste activa 5579479.82 was 5881544.86; tick1342; primary WVV
+bud_idm_mva_2025,igs_idm,2025,5535203,,,executed,src_idm_jr2025_pdf,strong,2025 MVA 5535202.86 (gebouwen 2368978.59 + rollend 2881438.46 + lease 36694.61 + CIP 69864.87); tick1342; primary WVV
+bud_idm_fva_2025,igs_idm,2025,44277,,,executed,src_idm_jr2025_pdf,strong,2025 FVA aandelen 44276.96 unchanged; tick1342; primary WVV
+bud_idm_current_2025,igs_idm,2025,3947977,,,executed,src_idm_jr2025_pdf,strong,2025 vlottende activa 3947977.41 was 3727182.22; tick1342; primary WVV
+bud_idm_lt_recv_2025,igs_idm,2025,26240,,,executed,src_idm_jr2025_pdf,strong,2025 LT overige vorderingen 26239.68 was 34986.24; tick1342; primary WVV
+bud_idm_st_recv_2025,igs_idm,2025,1614322,,,executed,src_idm_jr2025_pdf,strong,2025 ST recv 1614322.49 (trade 1195985.40 + other 418337.09 JUMP vs 106986.07); tick1342; primary WVV
+bud_idm_cash_2025,igs_idm,2025,2307415,,,executed,src_idm_jr2025_pdf,strong,2025 cash 2307415.24 DROP vs 2489298.18; tick1342; primary WVV
+bud_idm_equity_2025,igs_idm,2025,6328791,,,executed,src_idm_jr2025_pdf,strong,2025 equity 6328791.08 was 5899897.73; tick1342; primary WVV
+bud_idm_capital_2025,igs_idm,2025,538350,,,executed,src_idm_jr2025_pdf,strong,2025 geplaatst kapitaal 538350.00; tick1342; primary WVV
+bud_idm_reserves_2025,igs_idm,2025,3815352,,,executed,src_idm_jr2025_pdf,strong,2025 onbeschikbare reserves 3815351.64; tick1342; primary WVV
+bud_idm_retained_2025,igs_idm,2025,1975089,,,executed,src_idm_jr2025_pdf,strong,2025 overgedragen winst 1975089.44 was 1546196.09; tick1342; primary WVV
+bud_idm_prov_2025,igs_idm,2025,101005,,,executed,src_idm_jr2025_pdf,strong,2025 voorzieningen grote herstellingen 101004.67 JUMP vs 13712.64; tick1342; primary WVV
+bud_idm_debt_2025,igs_idm,2025,3097661,,,executed,src_idm_jr2025_pdf,strong,2025 schulden 3097661.48 was 3695116.71; tick1342; primary WVV
+bud_idm_lt_fin_2025,igs_idm,2025,468576,,,executed,src_idm_jr2025_pdf,strong,2025 LT financial 468576.17 (banken 461437.04 + lease 7139.13); tick1342; primary WVV
+bud_idm_st_debt_2025,igs_idm,2025,2628096,,,executed,src_idm_jr2025_pdf,strong,2025 ST schulden 2628096.25 was 2837069.75; tick1342; primary WVV
+bud_idm_st_ltcurr_2025,igs_idm,2025,386779,,,executed,src_idm_jr2025_pdf,strong,2025 LT-within-year 386778.88 was 383718.55; tick1342; primary WVV
+bud_idm_trade_pay_2025,igs_idm,2025,1025336,,,executed,src_idm_jr2025_pdf,strong,2025 leveranciers 1025336.27 was 849482.12; tick1342; primary WVV
+bud_idm_taxsoc_2025,igs_idm,2025,1146400,,,executed,src_idm_jr2025_pdf,strong,2025 tax/soc 1146399.80 (tax 306284.14 + wages 840115.66); tick1342; primary WVV
+bud_idm_ops_rev_2025,igs_idm,2025,16937420,,,executed,src_idm_jr2025_pdf,strong,2025 bedrijfsopbrengsten 16937419.64 was 16618000.04; tick1342; primary WVV
+bud_idm_turnover_2025,igs_idm,2025,4922177,,,executed,src_idm_jr2025_pdf,strong,2025 omzet 4922177.47 was 5021428.99; tick1342; primary WVV
+bud_idm_otherops_2025,igs_idm,2025,11978748,,,executed,src_idm_jr2025_pdf,strong,2025 andere bedrijfsopbrengsten 11978748.13 was 11580654.06; tick1342; primary WVV code 74
+bud_idm_ops_cost_2025,igs_idm,2025,16487364,,,executed,src_idm_jr2025_pdf,strong,2025 bedrijfskosten 16487364.17 was 16523171.28; tick1342; primary WVV
+bud_idm_goods_2025,igs_idm,2025,4432837,,,executed,src_idm_jr2025_pdf,strong,2025 handelsgoederen 4432836.92 was 4176602.35; tick1342; primary WVV
+bud_idm_services_2025,igs_idm,2025,2348583,,,executed,src_idm_jr2025_pdf,strong,2025 diensten 2348582.65 was 2028952.47; tick1342; primary WVV
+bud_idm_pers_2025,igs_idm,2025,8360345,,,executed,src_idm_jr2025_pdf,strong,2025 bezoldigingen 8360345.02 was 9147190.41; tick1342; primary WVV; VTE 112.8 / 118 koppen
+bud_idm_ops_2025,igs_idm,2025,450055,,,executed,src_idm_jr2025_pdf,strong,2025 bedrijfswinst 450055.47 was 94828.76; tick1342; primary WVV 9901
+bud_idm_fin_cost_2025,igs_idm,2025,36578,,,executed,src_idm_jr2025_pdf,strong,2025 fin kosten 36577.61 (schulden 26722.79); tick1342; primary WVV
+bud_idm_pnl_2025,igs_idm,2025,428893,,,executed,src_idm_jr2025_pdf,strong,2025 PnL +428893.35 was +87960.97; tick1342; primary WVV 9904
+bud_idm_contrib2026_2025,igs_idm,2026,11479071,,,budgeted,src_idm_jr2025_pdf,strong,2026 werkingsbijdrage 11479071 = 2025 +414810 (implied 2025 11064261); tick1342; primary WVV narrative waarderingsregels
+bud_idm_pensionfund_2025,igs_idm,2025,2598719,,,executed,src_idm_jr2025_pdf,strong,2025 off-balance collectief pensioenfonds 2598718.59 was 2655544.88; tick1342; primary WVV narrative
