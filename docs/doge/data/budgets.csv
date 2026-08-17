@@ -34676,3 +34676,38 @@ bud_voeren_afl_2025,city_voeren,2025,311922,,,executed,src_voeren_jr2025_bbc,str
 bud_voeren_ocmw_equity_2025,city_voeren,2025,-2049170,,,executed,src_voeren_jr2025_bbc,strong,T5 OCMW equity -2.049170m NEG; tick1295; primary BBC
 bud_voeren_ocmw_cum_2025,city_voeren,2025,-2320423,,,executed,src_voeren_jr2025_bbc,strong,T5 OCMW cum PnL -2.320423m NEG; tick1295; primary BBC
 bud_voeren_fluvius_div_2025,city_voeren,2025,53409,,,executed,src_voeren_jr2025_bbc,strong,T2/toelichting Fluvius dividend 0.053409m; tick1295; primary BBC
+bud_agbd_assets_2025,agb_diepenbeek,2025,12012548,,,executed,src_agbd_jr2025_bbc,strong,J4 assets 12.012548m vs 12.264288m; tick1296; primary BBC
+bud_agbd_assets_2024,agb_diepenbeek,2024,12264288,,,executed,src_agbd_jr2025_bbc,strong,J4 YE2024 assets 12.264288m; tick1296; primary BBC
+bud_agbd_cash_2025,agb_diepenbeek,2025,920957,,,executed,src_agbd_jr2025_bbc,strong,J4 cash+beleg 0.920957m JUMP vs 0.744009m; tick1296; primary BBC
+bud_agbd_cash_2024,agb_diepenbeek,2024,744009,,,executed,src_agbd_jr2025_bbc,strong,J4 YE2024 cash+beleg 0.744009m; tick1296; primary BBC
+bud_agbd_fva_2025,agb_diepenbeek,2025,0,,,executed,src_agbd_jr2025_bbc,strong,T5 FVA 0; EVA 0 + IGS 0; tick1296; primary BBC
+bud_agbd_mva_2025,agb_diepenbeek,2025,10244055,,,executed,src_agbd_jr2025_bbc,strong,J4/T5 MVA 10.244055m; leasing 0; tick1296; primary BBC
+bud_agbd_leasing_2025,agb_diepenbeek,2025,0,,,executed,src_agbd_jr2025_bbc,strong,T5 leasing MVA 0; tick1296; primary BBC
+bud_agbd_equity_2025,agb_diepenbeek,2025,8568979,,,executed,src_agbd_jr2025_bbc,strong,J4 nettoactief 8.568979m vs 8.543473m; tick1296; primary BBC
+bud_agbd_cap_subs_2025,agb_diepenbeek,2025,2471720,,,executed,src_agbd_jr2025_bbc,strong,J4/T5 cap subs 2.471720m vs 2.543274m; tick1296; primary BBC
+bud_agbd_cum_pnl_2025,agb_diepenbeek,2025,-912741,,,executed,src_agbd_jr2025_bbc,strong,J4/T5 cum PnL -0.912741m NEG vs -1.009801m; tick1296; primary BBC
+bud_agbd_other_eq_2025,agb_diepenbeek,2025,7010000,,,executed,src_agbd_jr2025_bbc,strong,J4 overig nettoactief/kapitaal 7.010000m; tick1296; primary BBC
+bud_agbd_fin_debt_2025,agb_diepenbeek,2025,3026093,,,executed,src_agbd_jr2025_bbc,strong,T4 fin debt 3.026093m (LT 2.668 + ST due 0.358); tick1296; primary BBC
+bud_agbd_fin_debt_2024,agb_diepenbeek,2024,3373396,,,executed,src_agbd_jr2025_bbc,strong,T4 YE2024 fin debt 3.373396m; tick1296; primary BBC
+bud_agbd_fin_debt_lt_2025,agb_diepenbeek,2025,2667854,,,executed,src_agbd_jr2025_bbc,strong,T4/J4 LT fin debt 2.667854m; tick1296; primary BBC
+bud_agbd_fin_debt_st_2025,agb_diepenbeek,2025,358239,,,executed,src_agbd_jr2025_bbc,strong,T4/J4 ST due 0.358239m; tick1296; primary BBC
+bud_agbd_new_loans_2025,agb_diepenbeek,2025,0,,,executed,src_agbd_jr2025_bbc,strong,T4 new loans 0; tick1296; primary BBC
+bud_agbd_pension_2025,agb_diepenbeek,2025,0,,,executed,src_agbd_jr2025_bbc,strong,J4 no pension voorziening; 0; tick1296; primary BBC
+bud_agbd_expl_2025,agb_diepenbeek,2025,523967,,,executed,src_agbd_jr2025_bbc,strong,J2 exploitatiesaldo +0.523967m; tick1296; primary BBC
+bud_agbd_expl_ontv_2025,agb_diepenbeek,2025,971689,,,executed,src_agbd_jr2025_bbc,strong,J2 expl ontv 0.971689m; tick1296; primary BBC
+bud_agbd_expl_uitg_2025,agb_diepenbeek,2025,447722,,,executed,src_agbd_jr2025_bbc,strong,J2 expl uitg 0.447722m; tick1296; primary BBC
+bud_agbd_invest_2025,agb_diepenbeek,2025,-88384,,,executed,src_agbd_jr2025_bbc,strong,J2 invest -0.088384m vs MJP -0.481m; tick1296; primary BBC
+bud_agbd_bbr_2025,agb_diepenbeek,2025,88281,,,executed,src_agbd_jr2025_bbc,strong,J2 budgettair resultaat boekjaar +0.088281m; tick1296; primary BBC
+bud_agbd_avail_2025,agb_diepenbeek,2025,1354531,,,executed,src_agbd_jr2025_bbc,strong,J2 beschikbaar BBR 1.354531m; tick1296; primary BBC
+bud_agbd_afm_2025,agb_diepenbeek,2025,176665,,,executed,src_agbd_jr2025_bbc,strong,J2 AFM +0.176665m; tick1296; primary BBC
+bud_agbd_gecorr_2025,agb_diepenbeek,2025,254095,,,executed,src_agbd_jr2025_bbc,strong,J2 gecorr AFM +0.254095m; tick1296; primary BBC
+bud_agbd_pnl_2025,agb_diepenbeek,2025,97060,,,executed,src_agbd_jr2025_bbc,strong,J5 PnL +0.097060m (was +0.086414m); tick1296; primary BBC
+bud_agbd_pers_2025,agb_diepenbeek,2025,0,,,executed,src_agbd_jr2025_bbc,strong,J5 no bezoldigingen; pers 0 on AGB books; tick1296; primary BBC
+bud_agbd_werksub_2025,agb_diepenbeek,2025,384720,,,executed,src_agbd_jr2025_bbc,strong,T2/J5 city algemene werksub 0.384720m; tick1296; primary BBC
+bud_agbd_werking_2025,agb_diepenbeek,2025,572349,,,executed,src_agbd_jr2025_bbc,strong,J5/T2 ontvangsten uit de werking 0.572349m; tick1296; primary BBC
+bud_agbd_rente_2025,agb_diepenbeek,2025,93208,,,executed,src_agbd_jr2025_bbc,strong,T2/J5 rente aan andere entiteiten 0.093208m; tick1296; primary BBC
+bud_agbd_afl_2025,agb_diepenbeek,2025,347302,,,executed,src_agbd_jr2025_bbc,strong,T4/J2 periodieke aflossingen 0.347302m; tick1296; primary BBC
+bud_agbd_beleg_2025,agb_diepenbeek,2025,400000,,,executed,src_agbd_jr2025_bbc,strong,risico tak-26 Federale Verzekering 0.400000m inside cash+beleg; tick1296; primary BBC
+bud_agbd_beleg_yld_2025,agb_diepenbeek,2025,8036,,,executed,src_agbd_jr2025_bbc,strong,risico tak-26 yield 8036.24; tick1296; primary BBC
+bud_agbd_invest_uitg_2025,agb_diepenbeek,2025,96384,,,executed,src_agbd_jr2025_bbc,strong,J2/T2 invest uitg 0.096384m; tick1296; primary BBC
+bud_agbd_schulden_2025,agb_diepenbeek,2025,3443569,,,executed,src_agbd_jr2025_bbc,strong,J4 schulden total 3.443569m; tick1296; primary BBC
