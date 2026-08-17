@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T17:10:00Z,rq_1314,1314,no,tick1314 AGB Sport Hulshout JR2025 unpublished residual; KBO 0809.823.801; JR2024 + MJP 2026-2031 live; no JR2025 PDF; no sourced euros; FOI ready; next rq_1315 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T17:25:00Z,rq_1315,1315,no,tick1315 Stad+OCMW Lievegem JR2025 leftover residual; KBO 0697.609.152/0697.663.986; official page lists JR2025 GR 25.06.2026; TLS unexpected EOF no PDF; no sourced euros; FOI ready; next rq_1316 residual dual L5 VL; continuous hole_fill
