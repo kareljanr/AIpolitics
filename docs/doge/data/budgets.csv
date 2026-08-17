@@ -34428,3 +34428,39 @@ bud_zwaan_ocmw_sub_2024,zorg_zilveren_zwaan,2024,2060797,,,executed,src_zwaan_jr
 bud_zwaan_ocmw_inv_2025,zorg_zilveren_zwaan,2025,148574,,,executed,src_zwaan_jr2025_bbc,strong,T2 OCMW investeringssubsidies 0.148574m; tick1288; primary BBC
 bud_zwaan_vl_spec_2025,zorg_zilveren_zwaan,2025,1715176,,,executed,src_zwaan_jr2025_bbc,strong,T2 VL specifieke werksub 1.715176m; tick1288; primary BBC
 bud_zwaan_fed_spec_2025,zorg_zilveren_zwaan,2025,233338,,,executed,src_zwaan_jr2025_bbc,strong,T2 federale specifieke werksub 0.233338m; tick1288; primary BBC
+bud_tw_assets_2025,city_tielt_winge,2025,57781052,,,executed,src_tw_jr2025_bbc,strong,J4 assets 57.781052m vs 55.451421m; tick1289; primary BBC
+bud_tw_assets_2024,city_tielt_winge,2024,55451421,,,executed,src_tw_jr2025_bbc,strong,J4 YE2024 assets 55.451421m; tick1289; primary BBC
+bud_tw_cash_2025,city_tielt_winge,2025,11653082,,,executed,src_tw_jr2025_bbc,strong,J4 cash 11.653082m DROP vs 12.659178m; tick1289; primary BBC
+bud_tw_cash_2024,city_tielt_winge,2024,12659178,,,executed,src_tw_jr2025_bbc,strong,J4 YE2024 cash 12.659178m; tick1289; primary BBC
+bud_tw_fva_2025,city_tielt_winge,2025,6395359,,,executed,src_tw_jr2025_bbc,strong,J4 FVA 6.395359m; EVA 0 + IGS 6.328482; tick1289; primary BBC
+bud_tw_igs_2025,city_tielt_winge,2025,6328482,,,executed,src_tw_jr2025_bbc,strong,J4 IGS FVA 6.328482m; tick1289; primary BBC
+bud_tw_mva_2025,city_tielt_winge,2025,34691285,,,executed,src_tw_jr2025_bbc,strong,J4 MVA 34.691285m; leasing 1.334830m Fluvius; tick1289; primary BBC
+bud_tw_leasing_2025,city_tielt_winge,2025,1334830,,,executed,src_tw_jr2025_bbc,strong,J4 leasing MVA 1.334830m vs 1.394872m; tick1289; primary BBC
+bud_tw_equity_2025,city_tielt_winge,2025,43175617,,,executed,src_tw_jr2025_bbc,strong,J4 nettoactief 43.175617m vs 39.782133m; tick1289; primary BBC
+bud_tw_fin_debt_2025,city_tielt_winge,2025,8522986,,,executed,src_tw_jr2025_bbc,strong,T4 fin debt 8.522986m (LT 7.382 + ST due 1.141); tick1289; primary BBC
+bud_tw_fin_debt_2024,city_tielt_winge,2024,9611910,,,executed,src_tw_jr2025_bbc,strong,T4 YE2024 fin debt 9.611910m; tick1289; primary BBC
+bud_tw_new_loans_2025,city_tielt_winge,2025,38546,,,executed,src_tw_jr2025_bbc,strong,T4 new loans 0.038546m Fluvius leasing; tick1289; primary BBC
+bud_tw_pension_2025,city_tielt_winge,2025,2818873,,,executed,src_tw_jr2025_bbc,strong,J4 LT pension 2.818873m vs 2.694293m; tick1289; primary BBC
+bud_tw_st_prov_2025,city_tielt_winge,2025,1147037,,,executed,src_tw_jr2025_bbc,strong,J4 ST voorzieningen 1.147037m; tick1289; primary BBC
+bud_tw_expl_2025,city_tielt_winge,2025,4738194,,,executed,src_tw_jr2025_bbc,strong,J2 exploitatiesaldo +4.738194m; tick1289; primary BBC
+bud_tw_expl_ontv_2025,city_tielt_winge,2025,23764587,,,executed,src_tw_jr2025_bbc,strong,J2 expl ontv 23.764587m; tick1289; primary BBC
+bud_tw_expl_uitg_2025,city_tielt_winge,2025,19026393,,,executed,src_tw_jr2025_bbc,strong,J2 expl uitg 19.026393m; tick1289; primary BBC
+bud_tw_city_expl_2025,city_tielt_winge,2025,5933003,,,executed,src_tw_jr2025_bbc,strong,J3 city expl +5.933003m (17.846/11.913); tick1289; primary BBC
+bud_tw_ocmw_expl_2025,city_tielt_winge,2025,-1194809,,,executed,src_tw_jr2025_bbc,strong,J3 OCMW expl -1.194809m (5.918/7.113); tick1289; primary BBC
+bud_tw_invest_2025,city_tielt_winge,2025,-4293771,,,executed,src_tw_jr2025_bbc,strong,J2 invest -4.293771m (68pct vs MJP 7.054m); tick1289; primary BBC
+bud_tw_bbr_2025,city_tielt_winge,2025,-635996,,,executed,src_tw_jr2025_bbc,strong,J2 budgettair resultaat boekjaar -0.635996m; tick1289; primary BBC
+bud_tw_avail_2025,city_tielt_winge,2025,13439122,,,executed,src_tw_jr2025_bbc,strong,J2 beschikbaar BBR 13.439122m; tick1289; primary BBC
+bud_tw_afm_2025,city_tielt_winge,2025,3662037,,,executed,src_tw_jr2025_bbc,strong,J2 AFM +3.662037m; tick1289; primary BBC
+bud_tw_gecorr_2025,city_tielt_winge,2025,4020554,,,executed,src_tw_jr2025_bbc,strong,J2 gecorr AFM +4.020554m; tick1289; primary BBC
+bud_tw_pnl_2025,city_tielt_winge,2025,3183633,,,executed,src_tw_jr2025_bbc,strong,J5 PnL +3.183633m (city +4.683 / OCMW -1.500); tick1289; primary BBC
+bud_tw_tussen_2025,city_tielt_winge,2025,1499830,,,executed,src_tw_jr2025_bbc,strong,mutatiestaat city->OCMW tussenkomst 1.499830m FULL; tick1289; primary BBC
+bud_tw_pers_2025,city_tielt_winge,2025,10721110,,,executed,src_tw_jr2025_bbc,strong,T2/J5 bezoldigingen 10.721110m; tick1289; primary BBC
+bud_tw_fiscal_2025,city_tielt_winge,2025,10571827,,,executed,src_tw_jr2025_bbc,strong,T2 fiscal 10.571827m (OV 3.528 + APB 6.155); tick1289; primary BBC
+bud_tw_ov_2025,city_tielt_winge,2025,3527704,,,executed,src_tw_jr2025_bbc,strong,T2 opcentiemen OV 3.527704m; tick1289; primary BBC
+bud_tw_apb_2025,city_tielt_winge,2025,6154767,,,executed,src_tw_jr2025_bbc,strong,T2 aanvullende PB 6.154767m; tick1289; primary BBC
+bud_tw_gemfonds_2025,city_tielt_winge,2025,3327869,,,executed,src_tw_jr2025_bbc,strong,T2 gemeentefonds 3.327869m; tick1289; primary BBC
+bud_tw_politie_2025,city_tielt_winge,2025,967949,,,executed,src_tw_jr2025_bbc,strong,T2 politiezone 0.967949m JUMP vs 0.814958m; tick1289; primary BBC
+bud_tw_hvz_2025,city_tielt_winge,2025,550456,,,executed,src_tw_jr2025_bbc,strong,T2 HVZ 0.550456m; tick1289; primary BBC
+bud_tw_hvz_inv_2025,city_tielt_winge,2025,108438,,,executed,src_tw_jr2025_bbc,strong,T2 HVZ investsub 0.108438m; tick1289; primary BBC
+bud_tw_werksub_2025,city_tielt_winge,2025,9475034,,,executed,src_tw_jr2025_bbc,strong,T2 werkingssubsidies 9.475034m; tick1289; primary BBC
+bud_tw_toelagen_2025,city_tielt_winge,2025,1725192,,,executed,src_tw_jr2025_bbc,strong,T2 toegestane werksub 1.725192m; tick1289; primary BBC

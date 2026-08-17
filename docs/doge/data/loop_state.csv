@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T14:10:00Z,rq_1288,1288,no,tick1288 WV De Zilveren Zwaan JR2025 dual residual; KBO 0781.430.812; assets 2.540m OCMW sub 1.810m pers 7.767m equity 0.039m thin; FOI ready; next rq_1289 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T11:20:00Z,rq_1289,1289,no,tick1289 Stad+OCMW Tielt-Winge JR2025 GE residual; KBO 0216.769.660/0216.769.759; assets 57.781m fin debt 8.523m pension 2.819m OCMW tussen 1.500m; FOI ready; next rq_1290 residual dual L5 VL + every-10; continuous hole_fill
