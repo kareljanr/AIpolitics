@@ -34127,3 +34127,36 @@ bud_machelen_farys_prijs_2025,city_machelen,2025,402665.15,,,executed,src_machel
 bud_machelen_wzc_total_2025,city_machelen,2025,-819351,,,executed,src_machelen_jr2025_bbc,strong,WZC Parkhof eindtotaal -0.819351m (expl -0.750; 103 bewoners); tick1279
 bud_machelen_wzc_ext_2025,city_machelen,2025,1408756.38,,,executed,src_machelen_jr2025_bbc,strong,externe tewerkstelling WZC 1.408756m vs AMJP 0.250m; tick1279
 bud_machelen_agb_sub_2025,city_machelen,2025,0,,,executed,src_machelen_jr2025_bbc,strong,T2 werksub eigen AGB 0; J4 EVA FVA 0 — no AGB; tick1279
+bud_gingelom_assets_2025,city_gingelom,2025,57638905,,,executed,src_gingelom_jr2025_bbc,strong,J4 assets 57.638905m vs 45.826398m jump 11.813m (Fluvius reval); tick1280
+bud_gingelom_assets_2024,city_gingelom,2024,45826398,,,executed,src_gingelom_jr2025_bbc,strong,J4 YE2024 assets 45.826398m; tick1280
+bud_gingelom_cash_2025,city_gingelom,2025,10084079,,,executed,src_gingelom_jr2025_bbc,strong,J4 cash 10.084079m JUMP vs 7.852020m; tick1280
+bud_gingelom_fva_2025,city_gingelom,2025,19438543,,,executed,src_gingelom_jr2025_bbc,strong,J4 FVA 19.438543m (EVA 0 + IGS 18.047617m + other 1.390926m); tick1280
+bud_gingelom_igs_2025,city_gingelom,2025,18047617,,,executed,src_gingelom_jr2025_bbc,strong,J4 IGS FVA 18.047617m vs 8.300714m; Fluvius EV-reval; tick1280
+bud_gingelom_mva_2025,city_gingelom,2025,26195586,,,executed,src_gingelom_jr2025_bbc,strong,J4 MVA 26.195586m; gemeenschapsgoederen 21.881m; tick1280
+bud_gingelom_leasing_2025,city_gingelom,2025,851304,,,executed,src_gingelom_jr2025_bbc,strong,J4 leasing 0.851304m vs 0.779012m; new 0.143367m; tick1280
+bud_gingelom_fin_debt_2025,city_gingelom,2025,3857607,,,executed,src_gingelom_jr2025_bbc,strong,T4 fin debt 3.857607m (LT 3.219 + ST due 0.639) vs 4.382m; tick1280
+bud_gingelom_fin_debt_lt_2025,city_gingelom,2025,3218526,,,executed,src_gingelom_jr2025_bbc,strong,J4/T4 LT fin debt 3.218526m; tick1280
+bud_gingelom_pension_2025,city_gingelom,2025,3560536,,,executed,src_gingelom_jr2025_bbc,strong,J4 pension LT 3.560536m vs 4.857297m drop 1.297m; tick1280
+bud_gingelom_equity_2025,city_gingelom,2025,48459631,,,executed,src_gingelom_jr2025_bbc,strong,J4 nettoactief 48.459631m (city 51.169 / OCMW -2.710); tick1280
+bud_gingelom_cum_pnl_2025,city_gingelom,2025,15074868,,,executed,src_gingelom_jr2025_bbc,strong,J4 cum P&L 15.074868m (city 18.988 / OCMW -3.913); tick1280
+bud_gingelom_reval_2025,city_gingelom,2025,9746903,,,executed,src_gingelom_jr2025_bbc,strong,J4/T5 herwaarderingsreserve 9.746903m (Fluvius 9.735 + Limburg.net 0.012); tick1280
+bud_gingelom_expl_2025,city_gingelom,2025,3627439,,,executed,src_gingelom_jr2025_bbc,strong,J2 expl +3.627439m (ontv 15.935 / uitg 12.308); tick1280
+bud_gingelom_expl_ontv_2025,city_gingelom,2025,15934982,,,executed,src_gingelom_jr2025_bbc,strong,J2 expl ontv 15.934982m; tick1280
+bud_gingelom_expl_uitg_2025,city_gingelom,2025,12307543,,,executed,src_gingelom_jr2025_bbc,strong,J2 expl uitg 12.307543m; tick1280
+bud_gingelom_invest_2025,city_gingelom,2025,-909244,,,executed,src_gingelom_jr2025_bbc,strong,J2 invest -0.909244m (ontv 0.518 / uitg 1.427) vs MJP -2.716m; tick1280
+bud_gingelom_invest_uitg_2025,city_gingelom,2025,1427436,,,executed,src_gingelom_jr2025_bbc,strong,J2 invest uitg 1.427436m; realisatie 28pct vs eindkrediet; tick1280
+bud_gingelom_bbr_2025,city_gingelom,2025,2233359,,,executed,src_gingelom_jr2025_bbc,strong,J2 BBR year +2.233359m vs MJP -0.627m; tick1280
+bud_gingelom_avail_2025,city_gingelom,2025,10621212,,,executed,src_gingelom_jr2025_bbc,strong,J2 avail BBR 10.621212m; onbeschikbaar 0; tick1280
+bud_gingelom_afm_2025,city_gingelom,2025,2999236,,,executed,src_gingelom_jr2025_bbc,strong,J2 AFM +2.999236m vs MJP +1.455m; tick1280
+bud_gingelom_gecorr_2025,city_gingelom,2025,3316202,,,executed,src_gingelom_jr2025_bbc,strong,J2 gecorr AFM +3.316202m vs MJP +1.774m; tick1280
+bud_gingelom_new_loans_2025,city_gingelom,2025,143367,,,executed,src_gingelom_jr2025_bbc,strong,T4 new loans 0.143367m leasing only; planned bank 0.500m not drawn; tick1280
+bud_gingelom_pnl_2025,city_gingelom,2025,3737352,,,executed,src_gingelom_jr2025_bbc,strong,J5 PnL +3.737352m (city +4.524 / OCMW -0.787); tick1280
+bud_gingelom_pers_2025,city_gingelom,2025,7340424,,,executed,src_gingelom_jr2025_bbc,strong,J5/T2 personeel 7.340424m; VTE unpublished; tick1280
+bud_gingelom_fiscal_2025,city_gingelom,2025,7690496,,,executed,src_gingelom_jr2025_bbc,strong,J5/T2 fiscal 7.690496m (OV 2.117 + APB 4.533); tick1280
+bud_gingelom_apb_2025,city_gingelom,2025,4532742,,,executed,src_gingelom_jr2025_bbc,strong,T2 APB 4.532742m vs FOD init 4.140m / +20pct vs 2024; tick1280
+bud_gingelom_gemfonds_2025,city_gingelom,2025,3254319,,,executed,src_gingelom_jr2025_bbc,strong,T2 gemeentefonds 3.254319m; tick1280
+bud_gingelom_police_2025,city_gingelom,2025,872955,,,executed,src_gingelom_jr2025_bbc,strong,T2 politiezone Zuid-West Limburg 0.872955m; tick1280
+bud_gingelom_hvz_2025,city_gingelom,2025,334030,,,executed,src_gingelom_jr2025_bbc,strong,T2 HVZ 0.334030m; tick1280
+bud_gingelom_igs_sub_2025,city_gingelom,2025,619356,,,executed,src_gingelom_jr2025_bbc,strong,T2 IGS werksub 0.619356m; tick1280
+bud_gingelom_fluvius_reval_2025,city_gingelom,2025,9735233,,,executed,src_gingelom_jr2025_bbc,strong,verslag Fluvius EV-herwaardering 9.735233m (AE+AG+niet-gereguleerd); tick1280
+bud_gingelom_agb_sub_2025,city_gingelom,2025,0,,,executed,src_gingelom_jr2025_bbc,strong,J4 EVA FVA 0; no AGB; consol = GE+OCMW; tick1280

@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1280** (2026-08-17)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1271-1280: AGB Kruibeke/BKZ sport · AGB Tienen · AG Museum Leuven · Stad+OCMW Tienen · Ibogem · Motena · AGBPB Bonheiden · Trupark · Stad+OCMW Machelen · **Stad+OCMW Gingelom** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1271-1280 is VL residual dual L5 (not near-complete of 348bn):** **Stad+OCMW Tienen** assets **226.4m** fin debt **59.73m** pension **51.29m** · **Stad+OCMW Machelen** assets **106.0m** fin debt **26.37m** Farys lease **16.90m** · **AGB Tienen** fin debt **16.93m** · **AG Museum Leuven** fin debt **14.51m** city prijssub **5.88m** · **Ibogem** pension **4.95m** city dual **6.20m** · **Stad+OCMW Gingelom** assets **57.64m** fin debt **3.86m** Fluvius reval **9.75m** AGB **0** · prior MAC / Mintus / Digipolis / Vespa / sogent stack retained |
+| **E. FOI-ready gaps** | **~923** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~971** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM shells** (**NEW Stad+OCMW Tienen** fin debt **EUR59.73m** pension **EUR51.29m** · **Machelen** fin debt **EUR26.37m** Farys lease **EUR16.90m** · **AGB Tienen** fin debt **EUR16.93m** · **AG Museum Leuven** fin debt **EUR14.51m** · **Gingelom** Fluvius reval **EUR9.75m** fin debt **EUR3.86m** · prior **AGB MAC** fin debt **EUR40.3m** leasing **EUR40.8m** · **Mintus** dual **EUR26.36m** · Digipolis assets **EUR73.61m** · **AG Vespa** fin debt **EUR179.6m** DBFM **EUR109.4m** · **sogent** AFM **−EUR3.90m** debt **EUR96.3m** · AG-O cum loss **−EUR29.2m** · Zorgbedrijf Antwerpen AFM **−EUR18.87m** debt **EUR220m** / Dodoens equity **−EUR18.88m** / Hasselt ~EUR95–103m stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1280)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 34161 |
+| commitments.csv | 4728 |
+| leaderboard.csv | 6908 |
+| entities.csv | 1006 |
+| sources.csv | 2280 |
+| FOI ready | 923 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 971 |
+| research_queue open | rq_116 deferred + rq_1281 hole-fill after progress |
+
+### What improved since tick 1270
+
+- **VL residual dual JR2025 Entity II / city GE (tick1271-1279):** AGB Kruibeke/BKZ sport assets **1.88m** fin debt **1.71m** · **AGB Tienen** assets **24.28m** fin debt **16.93m** city loan **~10.5m** · **AG Museum Leuven** assets **16.90m** fin debt **14.51m** ALL city · **Stad+OCMW Tienen** assets **226.4m** fin debt **59.73m** pension **51.29m** · **Ibogem** assets **11.77m** pension **4.95m** city dual **6.20m** · Motena / Trupark JR2025 PDF opaque · **AGBPB Bonheiden** assets **4.82m** fin debt **3.00m** gecorr AFM NEG · **Stad+OCMW Machelen** assets **106.0m** fin debt **26.37m** Farys lease **16.90m** WZC **−0.82m** AGB **0**.
+- **NEW (tick1280):** **Stad+OCMW Gingelom** (KBO 0207.466.469 / 0212.213.630) assets **57.639m** · cash **10.084m** JUMP · **fin debt 3.858m** declining (planned bank **0.500m** not drawn) · pension **3.561m** DROP vs **4.857m** · AFM **+2.999m** / gecorr **+3.316m** · BBR **+2.233m** / avail **10.621m** · PnL **+3.737m** (city **+4.524m** / OCMW **−0.787m**) · **Fluvius EV-reval 9.735m** (IGS FVA 8.30→18.05m) · AGB **0** · FOI T4 split + Fluvius note ready.
+- **Dual map themes:** **city GE Fluvius EV-reval jump without cash** (Gingelom) · **city fin-debt / pension stocks** (Tienen 59.73m / Machelen 26.37m) · **AGB city-loan / leasing shells** (Tienen / Museum Leuven / MAC) · prior mega real-estate / care stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
 ## Snapshot at **tick 1270** (2026-08-17)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

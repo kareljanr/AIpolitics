@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **1270** (2026-08-17) · **~6817** leaderboard rows  
+**As-of:** tick **1280** (2026-08-17) · **6908** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,9 +27,9 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** · **AGB/zorg dual AFM NEG + debt + leasing/city-loan/DBFM shells** (**NEW AGB MAC** fin debt **€40.3m** leasing **€40.8m** gecorr AFM **−€0.68m** city prijssub **€4.52m** · **Mintus** dual **€26.36m** deelneming **€56.96m** · Digipolis assets **€73.61m** · **AG Vespa** fin debt **€179.6m** DBFM **€109.4m** gecorr AFM **−€1.86m** · **sogent** AFM **−€3.90m** debt **€96.3m** ICC **€35m** · AG-O cum loss **−€29.2m** · **Zorgbedrijf Antwerpen** AFM **−€18.87m** debt **€220m** city sub **€51.4m** · **Dodoens** equity **−€18.88m** · prior Waasland / AGSL / Hasselt ~€95–103m stack) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **WE consol €6.38bn** · **SOFICO €3.02bn** · **university/city balance sheets** · **AGB/zorg dual AFM NEG + debt + leasing/city-loan/DBFM shells** (**NEW Stad+OCMW Tienen** fin debt **€59.73m** pension **€51.29m** · **Machelen** fin debt **€26.37m** Farys lease **€16.90m** · **AGB Tienen** fin debt **€16.93m** · **AG Museum Leuven** fin debt **€14.51m** · **Gingelom** Fluvius reval **€9.75m** fin debt **€3.86m** · prior **AGB MAC** fin debt **€40.3m** leasing **€40.8m** gecorr AFM **−€0.68m** city prijssub **€4.52m** · **Mintus** dual **€26.36m** deelneming **€56.96m** · Digipolis assets **€73.61m** · **AG Vespa** fin debt **€179.6m** DBFM **€109.4m** gecorr AFM **−€1.86m** · **sogent** AFM **−€3.90m** debt **€96.3m** ICC **€35m** · AG-O cum loss **−€29.2m** · **Zorgbedrijf Antwerpen** AFM **−€18.87m** debt **€220m** city sub **€51.4m** · **Dodoens** equity **−€18.88m** · prior Waasland / AGSL / Hasselt ~€95–103m stack) · **LUWA PPP €590m** · private gambling stakes **€31.5bn** market.
 
-**Change vs tick 1260:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 1261–1270 (off pure top10 / dual):** **AGB MAC** assets **EUR45.6m** fin debt **EUR40.3m** leasing **EUR40.8m** gecorr AFM **−EUR0.68m** city prijssub **EUR4.52m** dividend **EUR0.40m** · **Mintus** city dual **EUR26.36m** deelneming **EUR56.96m** · Digipolis assets **EUR73.61m** member omzet **EUR221.9m** · Atlas city dual **EUR21.85m**. Gain is **culture leasing/erfpacht shell + NEG gecorr AFM + city dividend + zorg-EVA dual**.
+**Change vs tick 1270:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10). **Major NEW residual 1271–1280 (off pure top10 / dual):** **Stad+OCMW Tienen** fin debt **EUR59.73m** pension **EUR51.29m** · **Machelen** fin debt **EUR26.37m** Farys lease **EUR16.90m** · **AGB Tienen** fin debt **EUR16.93m** · **AG Museum Leuven** fin debt **EUR14.51m** · **Gingelom** Fluvius EV-reval **EUR9.75m** fin debt **EUR3.86m** AGB **0**. Gain is **city GE debt/pension stocks + Fluvius EV-reval jump + AGB city-loan shells**.
 
 ### Just outside top 10 (often relevant)
 
@@ -39,8 +39,10 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | — | `lb_owv_sub_snowball_27bn_2083` | **stock-as-ann** | **8.55** | STOCK filtered eoy2083 |
 | — | `lb_vl_gsc_pv_legacy_7_078bn` | **~708 m** class | **8.05** | GSC PV legacy oversubsidy |
 | — | `lb_fed_consultancy_2_5bn_coa` | **~842 m/yr** | **8.00** | CoA 2.525bn/3y |
-| — | `lb_mac_fin_debt_40_33m_2025` | **40.3 m stock** | **~7.5 dual** | **NEW 1270** AGB MAC fin debt / leasing |
-| — | `lb_mac_gecorr_afm_neg_0_68m_2025` | **0.68 m** | **~high dual** | **NEW 1270** gecorr AFM NEG vs dividend |
+| — | `lb_tienen_city_fin_debt_59_73m_2025` | **59.73 m stock** | **~7.5 dual** | **NEW 1274** Stad+OCMW Tienen fin debt / pension |
+| — | `lb_machelen_fin_debt_26_37m_2025` | **26.37 m stock** | **~7.5 dual** | **NEW 1279** Machelen fin debt / Farys lease |
+| — | `lb_mac_fin_debt_40_33m_2025` | **40.3 m stock** | **~7.5 dual** | 1270 AGB MAC fin debt / leasing |
+| — | `lb_mac_gecorr_afm_neg_0_68m_2025` | **0.68 m** | **~high dual** | 1270 gecorr AFM NEG vs dividend |
 | — | `lb_vespa_fin_debt_179_63m_2025` | **179.6 m stock** | **~7.5 dual** | 1260 AG Vespa fin debt / DBFM |
 | — | `lb_sogent_fin_debt_96_31m_2025` | **96.3 m stock** | **~7.5 dual** | 1259 sogent urban-dev debt |
 | — | `lb_zba_fin_debt_220m_2025` | **220 m stock** | **~high dual** | 1246 mega care debt |
@@ -54,7 +56,8 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | `lb_vl_wassalon_podcast` | **9.5** | VL gelijke kansen vodcast |
 | `lb_dodoens_equity_neg_18_9m_2025` | **8.5** | pension-shell equity DEEP NEG |
 | `lb_zba_afm_neg_18_9m_2025` | **8.5** | mega city dual care AFM NEG |
-| `lb_mac_gecorr_afm_neg_0_68m_2025` | **8.0** | **NEW** headline AFM +0.66m / gecorr −0.68m + city dividend 0.40m |
+| `lb_gingelom_fluvius_reval_9_75m_2025` | **7.0** | **NEW 1280** Fluvius EV-reval +9.75m assets jump / no cash |
+| `lb_mac_gecorr_afm_neg_0_68m_2025` | **8.0** | 1270 headline AFM +0.66m / gecorr −0.68m + city dividend 0.40m |
 | `lb_vespa_gecorr_afm_neg_1_86m_2025` | **8.0** | headline AFM +7.3m / gecorr −1.86m |
 | `lb_sogent_icc_capital_35m_2025` | **8.5** | 1259 ICC city capital off-MJP |
 | `lb_zpw_cum_loss_12_3m_2025` | **8.5** | multi-muni zorg cum loss DEEP |

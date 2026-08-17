@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T09:58:00Z,rq_1279,1279,no,tick1279 Stad+OCMW Machelen JR2025 GE residual; KBO 0207.539.121/0212.195.319; assets 106.035m fin debt 26.369m pension 15.054m Farys lease 16.900m WZC -0.819m AGB 0; FOI ready; next rq_1280 residual dual L5 VL + every-10; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T10:20:00Z,rq_1280,1280,no,tick1280 Stad+OCMW Gingelom JR2025 GE residual + every-10; KBO 0207.466.469/0212.213.630; assets 57.639m fin debt 3.858m pension 3.561m Fluvius reval 9.735m AGB 0; FOI ready; next rq_1281 residual dual L5 VL; continuous hole_fill
