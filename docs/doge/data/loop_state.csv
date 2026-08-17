@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T15:10:00Z,rq_1306,1306,no,tick1306 Stad+OCMW Vleteren JR2025 GE residual; KBO 0216.770.452/0216.770.551; assets 25154213 fin debt 3323559 pension 825138 JUMP PnL -621430; FOI ready; next rq_1307 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T16:00:00Z,rq_1307,1307,no,tick1307 AGB Beerse JR2025 Entity II residual; KBO 0842.894.861; assets 5662449 fin debt 5018361 new loans 799075 JUMP prijssub 281243 PnL -35838; FOI ready; next rq_1308 residual dual L5 VL; continuous hole_fill

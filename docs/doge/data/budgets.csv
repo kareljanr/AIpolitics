@@ -35085,3 +35085,27 @@ bud_vlet_fiscal_2025,city_vleteren,2025,3220418,,,executed,src_vlet_jr2025_bbc,s
 bud_vlet_politie_2025,city_vleteren,2025,263004,,,executed,src_vlet_jr2025_bbc,strong,T2 politiezone 263004 + invest 31122; name unpublished; tick1306; primary BBC
 bud_vlet_hvz_2025,city_vleteren,2025,136924,,,executed,src_vlet_jr2025_bbc,strong,T2 HVZ Westhoek 136924 + invest 29494; tick1306; primary BBC
 bud_vlet_ocmw_pnl_2025,city_vleteren,2025,-401541,,,executed,src_vlet_jr2025_bbc,strong,T5 OCMW PnL -401541 / cum -262503 NEG / equity 4045091; tick1306; primary BBC
+bud_agbbrs_assets_2025,agb_beerse,2025,5662449,,,executed,src_agbbrs_jr2025_bbc,strong,J4 assets 5662449 vs 5203965; tick1307; primary BBC
+bud_agbbrs_assets_2024,agb_beerse,2024,5203965,,,executed,src_agbbrs_jr2025_bbc,strong,J4 YE2024 assets 5203965; tick1307; primary BBC
+bud_agbbrs_cash_2025,agb_beerse,2025,214900,,,executed,src_agbbrs_jr2025_bbc,strong,J4 cash 214900 vs 208835; tick1307; primary BBC
+bud_agbbrs_fva_2025,agb_beerse,2025,72314,,,executed,src_agbbrs_jr2025_bbc,strong,J4 FVA other 72314 (EVA 0 IGS 0); T5 mut +35990 + aankoop 1250; tick1307; primary BBC
+bud_agbbrs_mva_2025,agb_beerse,2025,5156359,,,executed,src_agbbrs_jr2025_bbc,strong,J4 MVA 5156359 terreinen/gebouwen 5032437; leasing 0; tick1307; primary BBC
+bud_agbbrs_equity_2025,agb_beerse,2025,302375,,,executed,src_agbbrs_jr2025_bbc,strong,J4 nettoactief 302375 vs 338213; cum PnL 302375; tick1307; primary BBC
+bud_agbbrs_schulden_2025,agb_beerse,2025,5360074,,,executed,src_agbbrs_jr2025_bbc,strong,J4 schulden 5360074; ST 845219; tick1307; primary BBC
+bud_agbbrs_fin_debt_2025,agb_beerse,2025,5018361,,,executed,src_agbbrs_jr2025_bbc,strong,J4/T4 fin debt 5018361 (LT 4514855 + ST due 503506) vs 4694802; tick1307; primary BBC
+bud_agbbrs_new_loans_2025,agb_beerse,2025,799075,,,executed,src_agbbrs_jr2025_bbc,strong,T4 new loans 799075 JUMP vs 472824; T5 MVA aankopen 799075; tick1307; primary BBC
+bud_agbbrs_afl_2025,agb_beerse,2025,475517,,,executed,src_agbbrs_jr2025_bbc,strong,J2/T4 periodieke afl 475517; intrest 74911; tick1307; primary BBC
+bud_agbbrs_expl_2025,agb_beerse,2025,519129,,,executed,src_agbbrs_jr2025_bbc,strong,J2 exploitatiesaldo +519129; tick1307; primary BBC
+bud_agbbrs_expl_ontv_2025,agb_beerse,2025,1681912,,,executed,src_agbbrs_jr2025_bbc,strong,J2 expl ontv 1681912 vs MJP 1773187; tick1307; primary BBC
+bud_agbbrs_expl_uitg_2025,agb_beerse,2025,1162784,,,executed,src_agbbrs_jr2025_bbc,strong,J2 expl uitg 1162784 vs MJP 1292723; tick1307; primary BBC
+bud_agbbrs_invest_2025,agb_beerse,2025,-836316,,,executed,src_agbbrs_jr2025_bbc,strong,J2 invest -836316 vs MJP -842117; tick1307; primary BBC
+bud_agbbrs_invest_uitg_2025,agb_beerse,2025,836316,,,executed,src_agbbrs_jr2025_bbc,strong,J2 invest uitg 836316; tick1307; primary BBC
+bud_agbbrs_bbr_2025,agb_beerse,2025,6371,,,executed,src_agbbrs_jr2025_bbc,strong,J2 BBR boekjaar +6371 vs MJP -54568; tick1307; primary BBC
+bud_agbbrs_cum_bbr_2025,agb_beerse,2025,176130,,,executed,src_agbbrs_jr2025_bbc,strong,J2 gecumuleerd BBR 176130 (prev 169759); tick1307; primary BBC
+bud_agbbrs_afm_2025,agb_beerse,2025,43612,,,executed,src_agbbrs_jr2025_bbc,strong,J2 AFM +43612 vs MJP -5816; tick1307; primary BBC
+bud_agbbrs_gecorr_2025,agb_beerse,2025,143544,,,executed,src_agbbrs_jr2025_bbc,strong,J2 gecorr AFM +143544; tick1307; primary BBC
+bud_agbbrs_pnl_2025,agb_beerse,2025,-35838,,,executed,src_agbbrs_jr2025_bbc,strong,J5 PnL -35838 (ops +39074 / fin -74912); tick1307; primary BBC
+bud_agbbrs_prijssub_2025,agb_beerse,2025,281243,,,executed,src_agbbrs_jr2025_bbc,strong,Kengetallen/T2 prijssubsidie gemeente 281243 (70700000); tick1307; primary BBC
+bud_agbbrs_pers_2025,agb_beerse,2025,0,,,executed,src_agbbrs_jr2025_bbc,strong,J5 bezoldigingen 0; VTE unpublished; tick1307; primary BBC
+bud_agbbrs_intrest_2025,agb_beerse,2025,74911,,,executed,src_agbbrs_jr2025_bbc,strong,Kengetallen intresten 74911; J5 fin kosten 74913; tick1307; primary BBC
+bud_agbbrs_st_schuld_2025,agb_beerse,2025,845219,,,executed,src_agbbrs_jr2025_bbc,strong,J4 ST schulden 845219 vs 642474; tick1307; primary BBC
