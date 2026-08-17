@@ -17283,3 +17283,10 @@ Append-only. Each tick adds a short entry.
 - CSVs: sources/entities/budgets+45/commitments+7/leaderboard+7 + FOI ready `gap_zbm_afm_thin_neg_4k_ocmw_sub_jump_4_81m_fin_debt_9_32m_liq_0_71_l5` (not sent); rq_1248=done; spawn rq_1249.
 - Next: rq_1249 residual dual L5 VL JR2025 hole_fill.
 
+
+### Tick 1249 - 2026-08-17 - rq_1249 Zorgbedrijf Sakura dual residual
+- Unit: Zorgbedrijf Sakura WV JR2025 multi-muni dual care Entity II (KBO 0684.613.726; 251p text primary; members OCMW Lokeren + OCMW Moerbeke-Waas).
+- EUR strong: assets **25.1m** DROP; fin debt **5.66m** declining; AFM **+0.427m** declining (2018 +0.919m); gecorr AFM **+0.638m**; BBR **+4.242m**; OCMW algemene werkingssub **1.432m** JUMP (Lokeren **1.108m** +270.8k + Moerbeke **0.324m**); PnL **-0.206m**; op PnL **-0.479m**; without toelage PnL **-1.638m**; cash JUMP **3.397m**; personnel **18.694m** / 226.48 VTE; new loans **0**.
+- CSVs: sources/entities/budgets+45/commitments+7/leaderboard+7 + FOI ready `gap_sakura_ocmw_toelage_1_43m_pnl_neg_0_21m_fin_debt_5_66m_l5` (not sent); rq_1249=done; spawn rq_1250.
+- Next: rq_1250 residual dual L5 VL JR2025 hole_fill.
+

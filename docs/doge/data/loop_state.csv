@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-17T06:02:00Z,rq_1248,1248,no,tick1248 Zorgbedrijf Meetjesland dual residual AFM -4.4k gecorr +1.18m fin debt 9.32m OCMW sub JUMP 4.81m cash 0.93m liq 0.71 op PnL -0.34m FOI ready; next rq_1249 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-17T06:08:00Z,rq_1249,1249,no,tick1249 Zorgbedrijf Sakura dual residual OCMW toelage JUMP 1.43m PnL -0.21m fin debt 5.66m AFM +0.43m declining BBR 4.24m cash 3.40m FOI ready; next rq_1250 residual dual L5 VL; continuous hole_fill

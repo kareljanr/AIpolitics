@@ -33240,3 +33240,48 @@ bud_zbm_repayments_2025,zorgbedrijf_meetjesland,2025,2088421,,,bbc_jr_realized,s
 bud_zbm_interest_2025,zorgbedrijf_meetjesland,2025,369522,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Financiele kosten J5 0.370m; tick1248
 bud_zbm_costs_2025,zorgbedrijf_meetjesland,2025,49484748,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,J5 costs total 49.485m; tick1248
 bud_zbm_provisions_2025,zorgbedrijf_meetjesland,2025,1489572,,,bbc_jr_realized,src_zorgbedrijf_meetjesland_jr2025,strong,Voorzieningen KT YE2025 1.490m; tick1248
+bud_sak_assets_2025,zorgbedrijf_sakura,2025,25121424,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Assets balanstotaal YE2025 25.121m DROP (was 26.129m); tick1249
+bud_sak_equity_2025,zorgbedrijf_sakura,2025,16044758,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Nettoactief YE2025 16.045m; tick1249
+bud_sak_debt_total_2025,zorgbedrijf_sakura,2025,9076666,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Schulden total YE2025 9.077m; tick1249
+bud_sak_fin_debt_2025,zorgbedrijf_sakura,2025,5655658,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Fin schulden total YE2025 5.656m (LT 4.975 + ST due 0.681); tick1249
+bud_sak_fin_debt_lt_2025,zorgbedrijf_sakura,2025,4974876,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Fin schulden LT YE2025 4.975m; tick1249
+bud_sak_fin_debt_st_due_2025,zorgbedrijf_sakura,2025,680781,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Fin schulden LT vervallend YE2025 0.681m; tick1249
+bud_sak_cash_2025,zorgbedrijf_sakura,2025,3396586,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Liquide middelen YE2025 3.397m JUMP (was 3.107m); tick1249
+bud_sak_st_recv_2025,zorgbedrijf_sakura,2025,2931974,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Vorderingen KT total YE2025 2.932m; tick1249
+bud_sak_st_recv_nonruil_2025,zorgbedrijf_sakura,2025,641899,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Vorderingen KT niet-ruil YE2025 0.642m; tick1249
+bud_sak_mva_2025,zorgbedrijf_sakura,2025,18606812,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Materiele VA YE2025 18.607m; tick1249
+bud_sak_leasing_mva_2025,zorgbedrijf_sakura,2025,0,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Leasing MVA YE2025 EUR0; tick1249
+bud_sak_cap_subs_2025,zorgbedrijf_sakura,2025,5223121,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Kapitaalssubsidies YE2025 5.223m; tick1249
+bud_sak_cum_pnl_2025,zorgbedrijf_sakura,2025,1729412,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Gecumuleerd overschot YE2025 1.729m (was 1.935m); tick1249
+bud_sak_expl_rec_2025,zorgbedrijf_sakura,2025,24766709,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Exploitatieontvangsten 24.767m; tick1249
+bud_sak_expl_exp_2025,zorgbedrijf_sakura,2025,23618332,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Exploitatieuitgaven 23.618m; tick1249
+bud_sak_expl_saldo_2025,zorgbedrijf_sakura,2025,1148377,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Exploitatiesaldo +1.148m; tick1249
+bud_sak_invest_exp_2025,zorgbedrijf_sakura,2025,462985,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Investeringsuitgaven 0.463m; tick1249
+bud_sak_invest_rec_2025,zorgbedrijf_sakura,2025,44573,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Investeringsontvangsten 0.045m; tick1249
+bud_sak_invest_saldo_2025,zorgbedrijf_sakura,2025,-418412,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Investeringssaldo -0.418m; tick1249
+bud_sak_fin_saldo_2025,zorgbedrijf_sakura,2025,-721802,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Financieringssaldo -0.722m; tick1249
+bud_sak_budget_result_2025,zorgbedrijf_sakura,2025,8163,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Budgettair resultaat boekjaar +8.163; tick1249
+bud_sak_bbr_2025,zorgbedrijf_sakura,2025,4241640,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,BBR +4.242m; tick1249
+bud_sak_afm_2025,zorgbedrijf_sakura,2025,426575,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,AFM +0.427m declining (2018 +0.919m; 2023 was -25k); tick1249
+bud_sak_gecorr_afm_2025,zorgbedrijf_sakura,2025,638180,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Gecorrigeerde AFM +0.638m; tick1249
+bud_sak_pnl_2025,zorgbedrijf_sakura,2025,-206028,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,PnL tekort -0.206m; tick1249
+bud_sak_op_pnl_2025,zorgbedrijf_sakura,2025,-478911,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Operationeel PnL -0.479m NEG; tick1249
+bud_sak_personnel_2025,zorgbedrijf_sakura,2025,18694306,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Bezoldigingen J5 18.694m / 226.48 VTE; tick1249
+bud_sak_goederen_2025,zorgbedrijf_sakura,2025,4704543,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Goederen en diensten 4.705m; tick1249
+bud_sak_sub_total_2025,zorgbedrijf_sakura,2025,4875123,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Werkingssubsidies total J5 4.875m; tick1249
+bud_sak_ocmw_sub_alg_2025,zorgbedrijf_sakura,2025,1432100,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,OCMW dual algemene werkingssub 1.432m JUMP (was 1.172m); tick1249
+bud_sak_ocmw_lokeren_alg_2025,zorgbedrijf_sakura,2025,1108300,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,OCMW Lokeren algemene werkingssub 1.108m JUMP +270.8k; tick1249
+bud_sak_ocmw_moerbeke_alg_2025,zorgbedrijf_sakura,2025,323800,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,OCMW Moerbeke algemene werkingssub 0.324m flat; tick1249
+bud_sak_vl_sub_alg_2025,zorgbedrijf_sakura,2025,183132,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,VL algemene werkingssub 0.183m; tick1249
+bud_sak_sub_spec_2025,zorgbedrijf_sakura,2025,3259891,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Specifieke werkingssub 3.260m; tick1249
+bud_sak_vl_sub_spec_2025,zorgbedrijf_sakura,2025,2010181,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,VL specifieke werkingssub 2.010m; tick1249
+bud_sak_fed_sub_spec_2025,zorgbedrijf_sakura,2025,-28333,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,FED specifieke werkingssub -28k (clawback/reclass); tick1249
+bud_sak_other_sub_spec_2025,zorgbedrijf_sakura,2025,1278044,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Andere entiteiten specifieke werkingssub 1.278m; tick1249
+bud_sak_vl_invest_sub_2025,zorgbedrijf_sakura,2025,44573,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Invest-sub VL 0.045m; tick1249
+bud_sak_werking_ontv_2025,zorgbedrijf_sakura,2025,19447744,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Opbrengsten uit de werking 19.448m; tick1249
+bud_sak_new_loans_2025,zorgbedrijf_sakura,2025,0,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Nieuwe leningen 2025 EUR0 (2024 3.000m); tick1249
+bud_sak_repayments_2025,zorgbedrijf_sakura,2025,721802,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Periodieke aflossingen 0.722m; tick1249
+bud_sak_interest_2025,zorgbedrijf_sakura,2025,154063,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Financiele kosten J5 0.154m; tick1249
+bud_sak_costs_2025,zorgbedrijf_sakura,2025,25383003,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,J5 costs total 25.383m; tick1249
+bud_sak_provisions_2025,zorgbedrijf_sakura,2025,1323866,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,Voorzieningen KT YE2025 1.324m; tick1249
+bud_sak_pnl_ex_toelage_2025,zorgbedrijf_sakura,2025,-1638128,,,bbc_jr_realized,src_zorgbedrijf_sakura_jr2025,strong,PnL zonder OCMW toelage -1.638m (entity note p.92); tick1249
