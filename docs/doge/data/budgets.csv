@@ -35887,3 +35887,46 @@ bud_ilva_pnl_pretax_2025,igs_ilva,2025,81860,,,executed,src_ilva_jr2025_pdf,stro
 bud_ilva_tax_2025,igs_ilva,2025,81860,,,executed,src_ilva_jr2025_pdf,strong,2025 belasting 81859.71; tick1344; primary WVV 67/77
 bud_ilva_pnl_2025,igs_ilva,2025,0,,,executed,src_ilva_jr2025_pdf,strong,2025 PnL 0.00 nulresultaat after tax + municipal settlement; tick1344; primary WVV 9904 blank
 bud_ilva_comm_fee_2025,igs_ilva,2025,17877,,,executed,src_ilva_jr2025_pdf,strong,2025 commissaris KPMG 17877.00; tick1344; primary WVV 6.16
+bud_ivvo_assets_2025,igs_ivvo,2025,24421533,,,executed,src_ivvo_jr2025_pdf,strong,2025 assets 24421533.34 was 22459716.18; tick1345; primary WVV in official PDF; commissaris confirms
+bud_ivvo_fixed_2025,igs_ivvo,2025,14897732,,,executed,src_ivvo_jr2025_pdf,strong,2025 vaste activa 14897731.86 was 12204362.43; tick1345; primary WVV
+bud_ivvo_mva_2025,igs_ivvo,2025,14874384,,,executed,src_ivvo_jr2025_pdf,strong,2025 MVA 14874384.44 (gebouwen 12195474.55 + installaties 1976006.03 + rollend 701170.79 + CIP 1733.07); tick1345; primary WVV
+bud_ivvo_buildings_2025,igs_ivvo,2025,12195475,,,executed,src_ivvo_jr2025_pdf,strong,2025 terreinen/gebouwen 12195474.55 after CIP transfer 4822869.57; tick1345; primary WVV 6.3
+bud_ivvo_plant_2025,igs_ivvo,2025,1976006,,,executed,src_ivvo_jr2025_pdf,strong,2025 installaties 1976006.03; tick1345; primary WVV
+bud_ivvo_rolling_2025,igs_ivvo,2025,701171,,,executed,src_ivvo_jr2025_pdf,strong,2025 meubilair/rollend 701170.79; tick1345; primary WVV
+bud_ivvo_cip_2025,igs_ivvo,2025,1733,,,executed,src_ivvo_jr2025_pdf,strong,2025 CIP 1733.07 was 1696916 after 4822869.57 transfer to buildings; tick1345; primary WVV
+bud_ivvo_fva_2025,igs_ivvo,2025,23347,,,executed,src_ivvo_jr2025_pdf,strong,2025 FVA 23347.42 (aandelen 20255.13 + borg 3092.29); tick1345; primary WVV
+bud_ivvo_current_2025,igs_ivvo,2025,9523801,,,executed,src_ivvo_jr2025_pdf,strong,2025 vlottende activa 9523801.48 was 10255353.75; tick1345; primary WVV
+bud_ivvo_lt_recv_2025,igs_ivvo,2025,1500000,,,executed,src_ivvo_jr2025_pdf,strong,2025 LT other recv 1500000.00 OVAM GFT kapitaalsubsidie booked 09.12.2024; tick1345; primary WVV + RVB
+bud_ivvo_stock_2025,igs_ivvo,2025,37518,,,executed,src_ivvo_jr2025_pdf,strong,2025 voorraden 37518.37 was 54385.30; tick1345; primary WVV
+bud_ivvo_st_recv_2025,igs_ivvo,2025,3764224,,,executed,src_ivvo_jr2025_pdf,strong,2025 ST recv 3764223.59 (trade 3489990.80 + other 274232.79); tick1345; primary WVV
+bud_ivvo_invest_2025,igs_ivvo,2025,1600000,,,executed,src_ivvo_jr2025_pdf,strong,2025 termijnrekeningen 1600000.00 DROP vs 2700000.00 (looptijd hoogstens 1 maand); tick1345; primary WVV 6.6
+bud_ivvo_cash_2025,igs_ivvo,2025,2397548,,,executed,src_ivvo_jr2025_pdf,strong,2025 cash 2397547.87 was 2133543.34; tick1345; primary WVV
+bud_ivvo_accr_asset_2025,igs_ivvo,2025,224512,,,executed,src_ivvo_jr2025_pdf,strong,2025 overlopende activa 224511.65 (Fost Plus 96308.67 + asbest opleg 51645.22 + OVAM asbest 67370); tick1345; primary WVV 6.6
+bud_ivvo_equity_2025,igs_ivvo,2025,15633767,,,executed,src_ivvo_jr2025_pdf,strong,2025 equity 15633766.54 was 14934536.69; tick1345; primary WVV
+bud_ivvo_inbreng_2025,igs_ivvo,2025,7280075,,,executed,src_ivvo_jr2025_pdf,strong,2025 inbreng 7280075.00 (291203 aandelen x 25; beschikbaar 7031375 + onbeschikbaar 248700); tick1345; primary WVV
+bud_ivvo_reserves_2025,igs_ivvo,2025,5964598,,,executed,src_ivvo_jr2025_pdf,strong,2025 reserves 5964597.96 (onbeschikbaar 359593 + beschikbaar 5605004.96); tick1345; primary WVV
+bud_ivvo_capsu_2025,igs_ivvo,2025,2389094,,,executed,src_ivvo_jr2025_pdf,strong,2025 kapitaalsubsidies 2389093.58 was 2592498.35; tick1345; primary WVV
+bud_ivvo_prov_2025,igs_ivvo,2025,1864532,,,executed,src_ivvo_jr2025_pdf,strong,2025 voorzieningen 1864531.68 (pensioen 777651 + herstel 1086880.68); tick1345; primary WVV
+bud_ivvo_debt_2025,igs_ivvo,2025,6923235,,,executed,src_ivvo_jr2025_pdf,strong,2025 schulden 6923235.12 was 5867057.81; tick1345; primary WVV 17/49
+bud_ivvo_lt_fin_2025,igs_ivvo,2025,3750000,,,executed,src_ivvo_jr2025_pdf,strong,2025 LT financial banken 3750000 (1-5j 1200000 + >5j 2550000); tick1345; primary WVV 6.9
+bud_ivvo_st_debt_2025,igs_ivvo,2025,3092066,,,executed,src_ivvo_jr2025_pdf,strong,2025 ST schulden 3092066.22 was 3165704.82; tick1345; primary WVV
+bud_ivvo_st_ltcurr_2025,igs_ivvo,2025,300000,,,executed,src_ivvo_jr2025_pdf,strong,2025 LT-within-year 300000; tick1345; primary WVV
+bud_ivvo_trade_pay_2025,igs_ivvo,2025,1690639,,,executed,src_ivvo_jr2025_pdf,strong,2025 leveranciers 1690639.19 DROP vs 1844205.61; tick1345; primary WVV
+bud_ivvo_taxsoc_2025,igs_ivvo,2025,372573,,,executed,src_ivvo_jr2025_pdf,strong,2025 tax/soc 372572.63 (tax 131670.60 + wages 240902.03); tick1345; primary WVV
+bud_ivvo_ops_rev_2025,igs_ivvo,2025,18152051,,,executed,src_ivvo_jr2025_pdf,strong,2025 bedrijfsopbrengsten 18152050.70 was 20037322.39; tick1345; primary WVV
+bud_ivvo_turnover_2025,igs_ivvo,2025,17566199,,,executed,src_ivvo_jr2025_pdf,strong,2025 omzet 17566198.64 was 17730009.71; tick1345; primary WVV 6.10 BT1 13114711.89 + BT2 4451486.75
+bud_ivvo_bt1_2025,igs_ivvo,2025,13114712,,,executed,src_ivvo_jr2025_pdf,strong,2025 omzet bedrijfstak 1 afvalinzameling 13114711.89 was 12600174.68; tick1345; primary WVV 6.10
+bud_ivvo_bt2_2025,igs_ivvo,2025,4451487,,,executed,src_ivvo_jr2025_pdf,strong,2025 omzet bedrijfstak 2 GFT 4451486.75 was 5277584.34; tick1345; primary WVV 6.10
+bud_ivvo_cityfee_cut_2025,igs_ivvo,2025,396130,,,executed,src_ivvo_jr2025_pdf,strong,2025 narrative bijdragevermindering vennoten 396130 (was 431656) on tonnages+beheersvergoeding; tick1345; primary RVB not 6.10
+bud_ivvo_otherops_2025,igs_ivvo,2025,572062,,,executed,src_ivvo_jr2025_pdf,strong,2025 andere bedrijfsopbrengsten 572061.56 was 2298664.18; tick1345; primary WVV code 74
+bud_ivvo_subsidy_2025,igs_ivvo,2025,275736,,,executed,src_ivvo_jr2025_pdf,strong,2025 exploitatiesubsidies code 740 275735.76 was 232587.94; tick1345; primary WVV 6.10
+bud_ivvo_ops_cost_2025,igs_ivvo,2025,17362996,,,executed,src_ivvo_jr2025_pdf,strong,2025 bedrijfskosten 17362996.37 was 19115455.20; tick1345; primary WVV
+bud_ivvo_goods_2025,igs_ivvo,2025,8516945,,,executed,src_ivvo_jr2025_pdf,strong,2025 handelsgoederen 8516945.37; tick1345; primary WVV
+bud_ivvo_services_2025,igs_ivvo,2025,3243346,,,executed,src_ivvo_jr2025_pdf,strong,2025 diensten 3243346.24 JUMP vs 2980826.28; tick1345; primary WVV
+bud_ivvo_pers_2025,igs_ivvo,2025,3265078,,,executed,src_ivvo_jr2025_pdf,strong,2025 bezoldigingen 3265078.47 was 3179664.58; tick1345; primary WVV; 47 koppen / avg VTE 45 / year-end 44.69 VTE
+bud_ivvo_uitzend_2025,igs_ivvo,2025,34566,,,executed,src_ivvo_jr2025_pdf,strong,2025 uitzend 34566.21 VTE 0.3; tick1345; primary WVV 6.10
+bud_ivvo_ops_2025,igs_ivvo,2025,789054,,,executed,src_ivvo_jr2025_pdf,strong,2025 bedrijfswinst 789054.33 was 921867.19; tick1345; primary WVV 9901
+bud_ivvo_fin_inc_2025,igs_ivvo,2025,247119,,,executed,src_ivvo_jr2025_pdf,strong,2025 fin opbr 247118.52 (vlottend 30933.44 + andere 215749.14 wv kapsu 215724.77); tick1345; primary WVV
+bud_ivvo_fin_cost_2025,igs_ivvo,2025,133538,,,executed,src_ivvo_jr2025_pdf,strong,2025 fin kosten 133538.23 (schulden 129368.05); tick1345; primary WVV
+bud_ivvo_pnl_2025,igs_ivvo,2025,902635,,,executed,src_ivvo_jr2025_pdf,strong,2025 PnL 902634.62 was 1039128.80; added to beschikbare reserves; tick1345; primary WVV 9904 + commissaris
+bud_ivvo_comm_fee_2025,igs_ivvo,2025,10263,,,executed,src_ivvo_jr2025_pdf,strong,2025 commissaris Auditas Sven Vansteelant 10262.78; tick1345; primary WVV 6.16
