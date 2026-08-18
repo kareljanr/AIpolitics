@@ -36244,3 +36244,45 @@ bud_nuhma_tax_2025,nv_nuhma,2025,238108,,,executed,src_nuhma_jr2025_nbb,strong,2
 bud_nuhma_comm_2025,nv_nuhma,2025,4650,,,executed,src_nuhma_jr2025_nbb,strong,2025 commissaris ereloon Moore 4650; tick1355; primary official NBB WVV 9505
 bud_nuhma_cons_assets_2025,nv_nuhma,2025,1091188656,,,executed,src_nuhma_jr2025_nbb,strong,2025 geconsolideerde activa 1091188656.35 deposit 2026-00124161; tick1355; primary official NBB CONSO; not TE-additive
 bud_nuhma_cons_pnl_2025,nv_nuhma,2025,15387829,,,executed,src_nuhma_jr2025_nbb,strong,2025 geconsolideerde PnL 15387829.22; tick1355; primary official NBB CONSO
+bud_nuhc_assets_2025,cv_nuhc,2025,693832591,,,executed,src_nuhc_jr2025_nbb,strong,2025 assets 693832591 VOL-inb 20/58; tick1356; primary official NBB WVV
+bud_nuhc_assets_2024,cv_nuhc,2024,755820904,,,executed,src_nuhc_jr2025_nbb,strong,2024 assets 755820904 comparative; tick1356; primary official NBB WVV 20/58
+bud_nuhc_pnl_2025,cv_nuhc,2025,26272333,,,executed,src_nuhc_jr2025_nbb,strong,2025 PnL 9904 26272333; tick1356; primary official NBB WVV + commissaris Moore
+bud_nuhc_pnl_2024,cv_nuhc,2024,10315591,,,executed,src_nuhc_jr2025_nbb,strong,2024 PnL 9904 10315591 comparative; tick1356; primary official NBB WVV
+bud_nuhc_fixed_2025,cv_nuhc,2025,688809513,,,executed,src_nuhc_jr2025_nbb,strong,2025 vaste activa 688809513; tick1356; primary official NBB WVV 21/28
+bud_nuhc_current_2025,cv_nuhc,2025,5006364,,,executed,src_nuhc_jr2025_nbb,strong,2025 vlottende activa 5006364 DROP vs 9237260; tick1356; primary official NBB WVV 29/58
+bud_nuhc_equity_2025,cv_nuhc,2025,662794232,,,executed,src_nuhc_jr2025_nbb,strong,2025 eigen vermogen 662794232 DROP vs 730495885; tick1356; primary official NBB WVV 10/15; matches website 662.8m
+bud_nuhc_equity_2024,cv_nuhc,2024,730495885,,,executed,src_nuhc_jr2025_nbb,strong,2024 eigen vermogen 730495885 comparative; tick1356; primary official NBB WVV 10/15
+bud_nuhc_inbreng_2025,cv_nuhc,2025,303515270,,,executed,src_nuhc_jr2025_nbb,strong,2025 inbreng 303515270 (beschikbaar 26597620 + onbeschikbaar 276917650); tick1356; primary official NBB WVV 10/11
+bud_nuhc_herw_2025,cv_nuhc,2025,148643187,,,executed,src_nuhc_jr2025_nbb,strong,2025 herwaardering 148643187 DROP vs 209116567; tick1356; primary official NBB WVV 12
+bud_nuhc_herw_2024,cv_nuhc,2024,209116567,,,executed,src_nuhc_jr2025_nbb,strong,2024 herwaardering 209116567 comparative; tick1356; primary official NBB WVV 12
+bud_nuhc_reserves_2025,cv_nuhc,2025,210635775,,,executed,src_nuhc_jr2025_nbb,strong,2025 reserves 210635775 (statutair 124948075 + beschikbaar 85687700); tick1356; primary official NBB WVV 13
+bud_nuhc_setup_2025,cv_nuhc,2025,16714,,,executed,src_nuhc_jr2025_nbb,strong,2025 oprichtingskosten 16714; tick1356; primary official NBB WVV 20
+bud_nuhc_fva_2025,cv_nuhc,2025,686781779,,,executed,src_nuhc_jr2025_nbb,strong,2025 FVA 686781779 DROP vs 745315000; tick1356; primary official NBB WVV 28
+bud_nuhc_fva_2024,cv_nuhc,2024,745315000,,,executed,src_nuhc_jr2025_nbb,strong,2024 FVA 745315000 comparative; tick1356; primary official NBB WVV 28
+bud_nuhc_fva_verb_2025,cv_nuhc,2025,686144385,,,executed,src_nuhc_jr2025_nbb,strong,2025 FVA verbonden 686144385 (deeln 650466151 + vord 35678233); tick1356; primary official NBB WVV 280/1
+bud_nuhc_fva_deel_2025,cv_nuhc,2025,637394,,,executed,src_nuhc_jr2025_nbb,strong,2025 FVA deelnemingsverhouding 637394 (deeln 319388 + vord 318006); tick1356; primary official NBB WVV 282/3
+bud_nuhc_mva_2025,cv_nuhc,2025,2027735,,,executed,src_nuhc_jr2025_nbb,strong,2025 MVA 2027735 (machines 60707 + rollend 924876 + overige 1042152); tick1356; primary official NBB WVV 22/27
+bud_nuhc_strecv_2025,cv_nuhc,2025,660311,,,executed,src_nuhc_jr2025_nbb,strong,2025 ST vorderingen 660311 (trade 486283 + other 174028); tick1356; primary official NBB WVV 40/41
+bud_nuhc_invest_2025,cv_nuhc,2025,0,,,executed,src_nuhc_jr2025_nbb,strong,2025 geldbeleggingen 0 DROP vs 7000000; tick1356; primary official NBB WVV 50/53
+bud_nuhc_invest_2024,cv_nuhc,2024,7000000,,,executed,src_nuhc_jr2025_nbb,strong,2024 geldbeleggingen 7000000 comparative; tick1356; primary official NBB WVV 50/53
+bud_nuhc_cash_2025,cv_nuhc,2025,3949440,,,executed,src_nuhc_jr2025_nbb,strong,2025 liquide middelen 3949440 JUMP vs 945349; tick1356; primary official NBB WVV 54/58
+bud_nuhc_cash_2024,cv_nuhc,2024,945349,,,executed,src_nuhc_jr2025_nbb,strong,2024 liquide middelen 945349 comparative; tick1356; primary official NBB WVV 54/58
+bud_nuhc_debt_2025,cv_nuhc,2025,31038359,,,executed,src_nuhc_jr2025_nbb,strong,2025 schulden 31038359; tick1356; primary official NBB WVV 17/49
+bud_nuhc_st_2025,cv_nuhc,2025,27046058,,,executed,src_nuhc_jr2025_nbb,strong,2025 ST schulden 27046058 (trade 278544 + tax/soc 1265131 + other 25502384); tick1356; primary official NBB WVV 42/48
+bud_nuhc_div_2025,cv_nuhc,2025,33500606,,,executed,src_nuhc_jr2025_nbb,strong,2025 uit te keren winst/dividend 33500606 JUMP vs 17000000; tick1356; primary official NBB WVV 694
+bud_nuhc_div_2024,cv_nuhc,2024,17000000,,,executed,src_nuhc_jr2025_nbb,strong,2024 dividend 17000000 comparative; tick1356; primary official NBB WVV 694
+bud_nuhc_omzet_2025,cv_nuhc,2025,2098031,,,executed,src_nuhc_jr2025_nbb,strong,2025 omzet 2098031 (no 6.10 split); tick1356; primary official NBB WVV 70
+bud_nuhc_opsrev_2025,cv_nuhc,2025,2882711,,,executed,src_nuhc_jr2025_nbb,strong,2025 bedrijfsopbrengsten 2882711 (omzet 2098031 + andere 305330 + nr 479350); tick1356; primary official NBB WVV 70/76A
+bud_nuhc_opscost_2025,cv_nuhc,2025,5646427,,,executed,src_nuhc_jr2025_nbb,strong,2025 bedrijfskosten 5646427; tick1356; primary official NBB WVV 60/66A
+bud_nuhc_diensten_2025,cv_nuhc,2025,4038618,,,executed,src_nuhc_jr2025_nbb,strong,2025 diensten 4038618; tick1356; primary official NBB WVV 61
+bud_nuhc_pers_2025,cv_nuhc,2025,1266380,,,executed,src_nuhc_jr2025_nbb,strong,2025 personeelskosten 1266380 / avg VTE 9 / YE 11 koppen 10.3 VTE; tick1356; primary official NBB WVV 62 / 1023
+bud_nuhc_expl_2025,cv_nuhc,2025,-2763716,,,executed,src_nuhc_jr2025_nbb,strong,2025 bedrijfsverlies -2763716; tick1356; primary official NBB WVV 9901
+bud_nuhc_fininc_2025,cv_nuhc,2025,29061372,,,executed,src_nuhc_jr2025_nbb,strong,2025 financiele opbrengsten 29061372 (rec 23825735 FVA 21814747 + vlottend 2010988; nr 5235638); tick1356; primary official NBB WVV 75/76B
+bud_nuhc_fincost_2025,cv_nuhc,2025,23852,,,executed,src_nuhc_jr2025_nbb,strong,2025 financiele kosten 23852 (rec 23852; nr 66B empty vs 1319912 prior); tick1356; primary official NBB WVV 65/66B
+bud_nuhc_nrfininc_2025,cv_nuhc,2025,5235638,,,executed,src_nuhc_jr2025_nbb,strong,2025 niet-recurrente fin opbrengsten 5235638 WVV 76B (terugname WV FVA); tick1356; primary official NBB WVV
+bud_nuhc_tax_2025,cv_nuhc,2025,1471,,,executed,src_nuhc_jr2025_nbb,strong,2025 belastingen 1471; tick1356; primary official NBB WVV 67/77
+bud_nuhc_comm_2025,cv_nuhc,2025,17739,,,executed,src_nuhc_jr2025_nbb,strong,2025 commissaris ereloon Moore 17739 + andere controle 9028; tick1356; primary official NBB WVV 9505/95061
+bud_nuhc_bestuur_2025,cv_nuhc,2025,120149,,,executed,src_nuhc_jr2025_nbb,strong,2025 bestuurdersbezoldiging 120149; tick1356; primary official NBB WVV 9503
+bud_nuhc_cons_assets_2025,cv_nuhc,2025,1180633427,,,executed,src_nuhc_jr2025_nbb,strong,2025 geconsolideerde activa 1180633427.42 deposit 2026-00153822; tick1356; primary official NBB CONSO; not TE-additive
+bud_nuhc_cons_omzet_2025,cv_nuhc,2025,171643806,,,executed,src_nuhc_jr2025_nbb,strong,2025 geconsolideerde omzet 171643805.98; tick1356; primary official NBB CONSO
+bud_nuhc_cons_pnl_2025,cv_nuhc,2025,17638162,,,executed,src_nuhc_jr2025_nbb,strong,2025 geconsolideerde PnL 17638162.11 (cons winst 14925129.42); tick1356; primary official NBB CONSO

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-19T01:25:00Z,rq_1355,1355,no,tick1355 NUHMA AC leftover NV residual; KBO 0697.972.507; live JR2025 NBB WVV PDF; sourced euros assets 630.631m equity 607.097m pnl 8.773m div 8.325m fva drop 37.121m; FOI ready per-shareholder/impairment/cv-recon; next rq_1356 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-19T01:50:00Z,rq_1356,1356,no,tick1356 Nuhma cv leftover CV residual; KBO 0472.325.068; live JR2025 NBB WVV PDF; sourced euros assets 693.833m equity 662.794m pnl 26.272m div 33.501m fva drop 58.533m; FOI ready per-vennoot/impairment/AC-recon; next rq_1357 residual dual L5 VL; continuous hole_fill
