@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-18T23:20:00Z,rq_1352,1352,no,tick1352 IVBO leftover IGS residual; KBO 0214.015.751; live JR2025 WVV PDF; sourced euros omzet 55.564m assets 79.788m pers 19.848m PnL 0.566m; FOI ready per-vennoot/debt/NBB; next rq_1353 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-19T00:05:00Z,rq_1353,1353,no,tick1353 Limburg.net leftover IGS residual; KBO 0214.533.712; live JR2025 glossy PDF no statutory euros; FOI ready statutory/NBB; next rq_1354 residual dual L5 VL; continuous hole_fill
