@@ -36137,3 +36137,37 @@ bud_solva_omzet_regio_2025,igs_solva,2025,130009,,,executed,src_solva_jr2025_pdf
 bud_solva_omzet_klimaat_2025,igs_solva,2025,104641,,,executed,src_solva_jr2025_pdf,strong,2025 bijdrage klimaatwerking 104640.61; tick1351; primary official JR 700450
 bud_solva_omzet_energ_2025,igs_solva,2025,171527,,,executed,src_solva_jr2025_pdf,strong,2025 energieleningen 171526.77; tick1351; primary official JR 709100
 bud_solva_omzet_vme_2025,igs_solva,2025,69047,,,executed,src_solva_jr2025_pdf,strong,2025 beheersvergoeding VME 69047.35; tick1351; primary official JR 709105
+bud_ivbo_assets_2025,igs_ivbo,2025,79787842,,,executed,src_ivbo_jr2025_pdf,strong,2025 assets 79787842.04 commissaris; tick1352; primary official JR WVV
+bud_ivbo_assets_2024,igs_ivbo,2024,72373546,,,executed,src_ivbo_jr2025_pdf,strong,2024 assets 72373545.78 comparative; tick1352; primary official JR WVV
+bud_ivbo_pnl_2025,igs_ivbo,2025,565857,,,executed,src_ivbo_jr2025_pdf,strong,2025 PnL 565857.29; tick1352; primary official JR + commissaris
+bud_ivbo_pnl_2024,igs_ivbo,2024,4157073,,,executed,src_ivbo_jr2025_pdf,strong,2024 PnL 4157072.91 comparative; tick1352; primary official JR WVV
+bud_ivbo_fixed_2025,igs_ivbo,2025,59870560,,,executed,src_ivbo_jr2025_pdf,strong,2025 vaste activa 59870559.55; tick1352; primary official JR WVV 21/28
+bud_ivbo_current_2025,igs_ivbo,2025,19917282,,,executed,src_ivbo_jr2025_pdf,strong,2025 vlottende activa 19917282.49; tick1352; primary official JR WVV 29/58
+bud_ivbo_equity_2025,igs_ivbo,2025,47041659,,,executed,src_ivbo_jr2025_pdf,strong,2025 eigen vermogen 47041659.36; tick1352; primary official JR WVV 10/15
+bud_ivbo_omzet_2025,igs_ivbo,2025,55563611,,,executed,src_ivbo_jr2025_pdf,strong,2025 omzet 55563611.27; tick1352; primary official JR WVV 70
+bud_ivbo_omzet_2024,igs_ivbo,2024,55986935,,,executed,src_ivbo_jr2025_pdf,strong,2024 omzet 55986934.74 comparative; tick1352; primary official JR WVV 70
+bud_ivbo_opsrev_2025,igs_ivbo,2025,56727155,,,executed,src_ivbo_jr2025_pdf,strong,2025 bedrijfsopbrengsten 56727155.06; tick1352; primary official JR WVV 70/76A
+bud_ivbo_pers_2025,igs_ivbo,2025,19848202,,,executed,src_ivbo_jr2025_pdf,strong,2025 bezoldigingen 19848201.64; tick1352; primary official JR WVV 62
+bud_ivbo_diensten_2025,igs_ivbo,2025,20927494,,,executed,src_ivbo_jr2025_pdf,strong,2025 diensten 20927494.49; tick1352; primary official JR WVV 61
+bud_ivbo_goods_2025,igs_ivbo,2025,6242211,,,executed,src_ivbo_jr2025_pdf,strong,2025 handelsgoederen 6242211.35; tick1352; primary official JR WVV 60
+bud_ivbo_afschr_2025,igs_ivbo,2025,6082679,,,executed,src_ivbo_jr2025_pdf,strong,2025 afschrijvingen 6082679.37; tick1352; primary official JR WVV 630
+bud_ivbo_expl_2025,igs_ivbo,2025,1016371,,,executed,src_ivbo_jr2025_pdf,strong,2025 bedrijfswinst 1016370.66; tick1352; primary official JR WVV 9901
+bud_ivbo_cash_2025,igs_ivbo,2025,4224002,,,executed,src_ivbo_jr2025_pdf,strong,2025 liquide middelen 4224002.30; tick1352; primary official JR WVV 54/58
+bud_ivbo_invest_2025,igs_ivbo,2025,3400000,,,executed,src_ivbo_jr2025_pdf,strong,2025 geldbeleggingen 3400000 DROP vs 5200000; tick1352; primary official JR WVV 50/53
+bud_ivbo_invest_2024,igs_ivbo,2024,5200000,,,executed,src_ivbo_jr2025_pdf,strong,2024 geldbeleggingen 5200000 comparative; tick1352; primary official JR WVV 50/53
+bud_ivbo_strecv_2025,igs_ivbo,2025,8014686,,,executed,src_ivbo_jr2025_pdf,strong,2025 ST vorderingen 8014685.83; tick1352; primary official JR WVV 40/41
+bud_ivbo_stock_2025,igs_ivbo,2025,3228807,,,executed,src_ivbo_jr2025_pdf,strong,2025 voorraden 3228807.14; tick1352; primary official JR WVV 30/36
+bud_ivbo_buildings_2025,igs_ivbo,2025,25248946,,,executed,src_ivbo_jr2025_pdf,strong,2025 terreinen/gebouwen 25248946.35 JUMP vs 11970908.07; tick1352; primary official JR WVV 22
+bud_ivbo_buildings_2024,igs_ivbo,2024,11970908,,,executed,src_ivbo_jr2025_pdf,strong,2024 terreinen/gebouwen 11970908.07 comparative; tick1352; primary official JR WVV 22
+bud_ivbo_prov_2025,igs_ivbo,2025,3994400,,,executed,src_ivbo_jr2025_pdf,strong,2025 voorzieningen 3994400; tick1352; primary official JR WVV 16
+bud_ivbo_kapsu_2025,igs_ivbo,2025,874009,,,executed,src_ivbo_jr2025_pdf,strong,2025 kapitaalsubsidies 874008.77 DROP vs 2930135.90; tick1352; primary official JR WVV 15
+bud_ivbo_cityinc_2025,igs_ivbo,2025,3105551,,,executed,src_ivbo_jr2025_pdf,strong,2025 inkomsten verwerkte hoeveelheden gemeente-vennoten 3105551; tick1352; primary official JR table
+bud_ivbo_thirdinc_2025,igs_ivbo,2025,14839827,,,executed,src_ivbo_jr2025_pdf,strong,2025 inkomsten derden+vennoten C 14839827; tick1352; primary official JR table
+bud_ivbo_cityinc_brugge_2025,igs_ivbo,2025,1487736,,,executed,src_ivbo_jr2025_pdf,strong,2025 Brugge incineration income 1487736; tick1352; primary official JR table
+bud_ivbo_cityinc_blankenberge_2025,igs_ivbo,2025,384867,,,executed,src_ivbo_jr2025_pdf,strong,2025 Blankenberge incineration income 384867; tick1352; primary official JR table
+bud_ivbo_fincost_2025,igs_ivbo,2025,556846,,,executed,src_ivbo_jr2025_pdf,strong,2025 financiele kosten 556845.67; tick1352; primary official JR WVV 65
+bud_ivbo_fininc_2025,igs_ivbo,2025,129828,,,executed,src_ivbo_jr2025_pdf,strong,2025 financiele opbrengsten 129828.19; tick1352; primary official JR WVV 75
+bud_ivbo_inbreng_2025,igs_ivbo,2025,5924200,,,executed,src_ivbo_jr2025_pdf,strong,2025 inbreng 5924200; tick1352; primary official JR WVV 10/11
+bud_ivbo_mva_2025,igs_ivbo,2025,57763519,,,executed,src_ivbo_jr2025_pdf,strong,2025 materiele VA 57763519.40; tick1352; primary official JR WVV 22/27
+bud_ivbo_iva_2025,igs_ivbo,2025,1990720,,,executed,src_ivbo_jr2025_pdf,strong,2025 immateriele VA 1990720.38; tick1352; primary official JR WVV 21
+bud_ivbo_otherops_2025,igs_ivbo,2025,1019170,,,executed,src_ivbo_jr2025_pdf,strong,2025 andere bedrijfsopbrengsten 1019170.36; tick1352; primary official JR WVV 74
