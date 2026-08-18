@@ -36286,3 +36286,44 @@ bud_nuhc_bestuur_2025,cv_nuhc,2025,120149,,,executed,src_nuhc_jr2025_nbb,strong,
 bud_nuhc_cons_assets_2025,cv_nuhc,2025,1180633427,,,executed,src_nuhc_jr2025_nbb,strong,2025 geconsolideerde activa 1180633427.42 deposit 2026-00153822; tick1356; primary official NBB CONSO; not TE-additive
 bud_nuhc_cons_omzet_2025,cv_nuhc,2025,171643806,,,executed,src_nuhc_jr2025_nbb,strong,2025 geconsolideerde omzet 171643805.98; tick1356; primary official NBB CONSO
 bud_nuhc_cons_pnl_2025,cv_nuhc,2025,17638162,,,executed,src_nuhc_jr2025_nbb,strong,2025 geconsolideerde PnL 17638162.11 (cons winst 14925129.42); tick1356; primary official NBB CONSO
+bud_ecow_assets_2025,igs_ecow,2025,46228354,,,executed,src_ecow_jr2025_nbb,strong,2025 assets 46228354 VOL-inb 20/58; tick1357; primary official NBB WVV
+bud_ecow_assets_2024,igs_ecow,2024,45283091,,,executed,src_ecow_jr2025_nbb,strong,2024 assets 45283091 comparative; tick1357; primary official NBB WVV 20/58
+bud_ecow_pnl_2025,igs_ecow,2025,-30175,,,executed,src_ecow_jr2025_nbb,strong,2025 PnL 9904 -30175; tick1357; primary official NBB WVV + commissaris RSM
+bud_ecow_pnl_2024,igs_ecow,2024,485129,,,executed,src_ecow_jr2025_nbb,strong,2024 PnL 9904 485129 comparative; tick1357; primary official NBB WVV
+bud_ecow_fixed_2025,igs_ecow,2025,33407479,,,executed,src_ecow_jr2025_nbb,strong,2025 vaste activa 33407479; tick1357; primary official NBB WVV 21/28
+bud_ecow_current_2025,igs_ecow,2025,12820875,,,executed,src_ecow_jr2025_nbb,strong,2025 vlottende activa 12820875 DROP vs 13179837; tick1357; primary official NBB WVV 29/58
+bud_ecow_equity_2025,igs_ecow,2025,13831009,,,executed,src_ecow_jr2025_nbb,strong,2025 eigen vermogen 13831009; tick1357; primary official NBB WVV 10/15
+bud_ecow_equity_2024,igs_ecow,2024,13642361,,,executed,src_ecow_jr2025_nbb,strong,2024 eigen vermogen 13642361 comparative; tick1357; primary official NBB WVV 10/15
+bud_ecow_inbreng_2025,igs_ecow,2025,4197034,,,executed,src_ecow_jr2025_nbb,strong,2025 inbreng 4197034 JUMP vs 3714644 (kapitaalsverhoging 482390 = 1 EUR/inwoner); tick1357; primary official NBB WVV 10/11
+bud_ecow_reserves_2025,igs_ecow,2025,6112794,,,executed,src_ecow_jr2025_nbb,strong,2025 reserves 6112794; tick1357; primary official NBB WVV 13
+bud_ecow_subsidy_2025,igs_ecow,2025,2577404,,,executed,src_ecow_jr2025_nbb,strong,2025 kapitaalsubsidies 2577404; tick1357; primary official NBB WVV 15
+bud_ecow_mva_2025,igs_ecow,2025,32901026,,,executed,src_ecow_jr2025_nbb,strong,2025 MVA 32901026 (gebouwen 14821277 + machines 7700746 + rollend 7925097 + CIP 2453908); tick1357; primary official NBB WVV 22/27
+bud_ecow_cip_2025,igs_ecow,2025,2453908,,,executed,src_ecow_jr2025_nbb,strong,2025 activa in aanbouw 2453908 JUMP vs 619420; tick1357; primary official NBB WVV 27
+bud_ecow_fva_2025,igs_ecow,2025,506453,,,executed,src_ecow_jr2025_nbb,strong,2025 FVA 506453 (verbonden EcoWerf Energie 500000); tick1357; primary official NBB WVV 28
+bud_ecow_stock_2025,igs_ecow,2025,1074627,,,executed,src_ecow_jr2025_nbb,strong,2025 voorraden 1074627; tick1357; primary official NBB WVV 30/36
+bud_ecow_strecv_2025,igs_ecow,2025,7061111,,,executed,src_ecow_jr2025_nbb,strong,2025 ST vorderingen 7061111 (trade 4817780 + other 2243331); tick1357; primary official NBB WVV 40/41
+bud_ecow_cash_2025,igs_ecow,2025,3473097,,,executed,src_ecow_jr2025_nbb,strong,2025 liquide middelen 3473097 JUMP vs 2774496; tick1357; primary official NBB WVV 54/58
+bud_ecow_cash_2024,igs_ecow,2024,2774496,,,executed,src_ecow_jr2025_nbb,strong,2024 liquide middelen 2774496 comparative; tick1357; primary official NBB WVV 54/58
+bud_ecow_prov_2025,igs_ecow,2025,3587359,,,executed,src_ecow_jr2025_nbb,strong,2025 voorzieningen 3587359 (pensioen 848797 + herstelling 2661330 + overige 77232); tick1357; primary official NBB WVV 16
+bud_ecow_debt_2025,igs_ecow,2025,28809986,,,executed,src_ecow_jr2025_nbb,strong,2025 schulden 28809986; tick1357; primary official NBB WVV 17/49
+bud_ecow_lt_2025,igs_ecow,2025,12177345,,,executed,src_ecow_jr2025_nbb,strong,2025 LT schulden 12177345 all kredietinstellingen; tick1357; primary official NBB WVV 17
+bud_ecow_st_2025,igs_ecow,2025,16628906,,,executed,src_ecow_jr2025_nbb,strong,2025 ST schulden 16628906 (LT-within-year 2383549 + fin 800000 + trade 8693597 + tax/soc 4501290 + other 249360); tick1357; primary official NBB WVV 42/48
+bud_ecow_omzet_2025,igs_ecow,2025,53571356,,,executed,src_ecow_jr2025_nbb,strong,2025 omzet 53571356 JUMP vs 48514571 (no 6.10 split; glossy 52.004m mismatch); tick1357; primary official NBB WVV 70
+bud_ecow_omzet_2024,igs_ecow,2024,48514571,,,executed,src_ecow_jr2025_nbb,strong,2024 omzet 48514571 comparative; tick1357; primary official NBB WVV 70
+bud_ecow_opsrev_2025,igs_ecow,2025,55422064,,,executed,src_ecow_jr2025_nbb,strong,2025 bedrijfsopbrengsten 55422064 (omzet 53571356 + andere 1701018 + nr 149690); tick1357; primary official NBB WVV 70/76A
+bud_ecow_opscost_2025,igs_ecow,2025,55443914,,,executed,src_ecow_jr2025_nbb,strong,2025 bedrijfskosten 55443914; tick1357; primary official NBB WVV 60/66A
+bud_ecow_diensten_2025,igs_ecow,2025,19306658,,,executed,src_ecow_jr2025_nbb,strong,2025 diensten 19306658 JUMP vs 17528291; tick1357; primary official NBB WVV 61
+bud_ecow_goods_2025,igs_ecow,2025,4560174,,,executed,src_ecow_jr2025_nbb,strong,2025 handelsgoederen/grondstoffen 4560174; tick1357; primary official NBB WVV 60
+bud_ecow_pers_2025,igs_ecow,2025,25796282,,,executed,src_ecow_jr2025_nbb,strong,2025 personeelskosten 25796282 / avg VTE 403.6 / YE 439 koppen 402.7 VTE; tick1357; primary official NBB WVV 62 / 1023
+bud_ecow_pers_2024,igs_ecow,2024,23202558,,,executed,src_ecow_jr2025_nbb,strong,2024 personeelskosten 23202558 / avg VTE 382.5 comparative; tick1357; primary official NBB WVV 62
+bud_ecow_expl_2025,igs_ecow,2025,-21850,,,executed,src_ecow_jr2025_nbb,strong,2025 bedrijfsverlies -21850 DROP vs +415408; tick1357; primary official NBB WVV 9901
+bud_ecow_expl_2024,igs_ecow,2024,415408,,,executed,src_ecow_jr2025_nbb,strong,2024 bedrijfswinst 415408 comparative; tick1357; primary official NBB WVV 9901
+bud_ecow_fininc_2025,igs_ecow,2025,399153,,,executed,src_ecow_jr2025_nbb,strong,2025 financiele opbrengsten 399153 (kapitaalsubsidies 372237); tick1357; primary official NBB WVV 75/76B
+bud_ecow_fincost_2025,igs_ecow,2025,407477,,,executed,src_ecow_jr2025_nbb,strong,2025 financiele kosten 407477 (schulden 378360); tick1357; primary official NBB WVV 65/66B
+bud_ecow_afschr_2025,igs_ecow,2025,5472570,,,executed,src_ecow_jr2025_nbb,strong,2025 afschrijvingen 5472570; tick1357; primary official NBB WVV 630
+bud_ecow_invest_2025,igs_ecow,2025,6784088,,,executed,src_ecow_jr2025_nbb,strong,2025 MVA investeringen 6784087.93 (bestuursverslag); tick1357; primary official NBB WVV 6.3
+bud_ecow_uitzend_2025,igs_ecow,2025,436116,,,executed,src_ecow_jr2025_nbb,strong,2025 uitzend 436116 / 5.1 VTE; tick1357; primary official NBB WVV 617
+bud_ecow_subs740_2025,igs_ecow,2025,591633,,,executed,src_ecow_jr2025_nbb,strong,2025 exploitatiesubsidies 740 591633; tick1357; primary official NBB WVV 6.10
+bud_ecow_comm_2025,igs_ecow,2025,29500,,,executed,src_ecow_jr2025_nbb,strong,2025 commissaris ereloon RSM 29500; tick1357; primary official NBB WVV 9505
+bud_ecow_zitpen_2025,igs_ecow,2025,55744,,,executed,src_ecow_jr2025_nbb,strong,2025 bestuurders bruto zitpenning 55744.15 / totaal 59218.10; tick1357; primary official NBB WVV 11 remun
+bud_ecow_energy_ev_2025,igs_ecow,2025,1355641,,,executed,src_ecow_jr2025_nbb,strong,2025 EcoWerf Energie NV 0755795294 100pct EV 1355641 / PnL -53585 book 500000; tick1357; primary official NBB WVV 6.5.1; not TE-additive

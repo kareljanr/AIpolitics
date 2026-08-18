@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-19T01:50:00Z,rq_1356,1356,no,tick1356 Nuhma cv leftover CV residual; KBO 0472.325.068; live JR2025 NBB WVV PDF; sourced euros assets 693.833m equity 662.794m pnl 26.272m div 33.501m fva drop 58.533m; FOI ready per-vennoot/impairment/AC-recon; next rq_1357 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-19T02:15:00Z,rq_1357,1357,no,tick1357 EcoWerf leftover IGS residual; KBO 0862.492.920; live JR2025 NBB WVV PDF; sourced euros assets 46.228m omzet 53.571m pers 25.796m pnl -0.030m; FOI ready per-vennoot/6.10/glossy-recon; next rq_1358 residual dual L5 VL; continuous hole_fill
