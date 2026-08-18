@@ -35930,3 +35930,44 @@ bud_ivvo_fin_inc_2025,igs_ivvo,2025,247119,,,executed,src_ivvo_jr2025_pdf,strong
 bud_ivvo_fin_cost_2025,igs_ivvo,2025,133538,,,executed,src_ivvo_jr2025_pdf,strong,2025 fin kosten 133538.23 (schulden 129368.05); tick1345; primary WVV
 bud_ivvo_pnl_2025,igs_ivvo,2025,902635,,,executed,src_ivvo_jr2025_pdf,strong,2025 PnL 902634.62 was 1039128.80; added to beschikbare reserves; tick1345; primary WVV 9904 + commissaris
 bud_ivvo_comm_fee_2025,igs_ivvo,2025,10263,,,executed,src_ivvo_jr2025_pdf,strong,2025 commissaris Auditas Sven Vansteelant 10262.78; tick1345; primary WVV 6.16
+bud_wvi_assets_2025,igs_wvi,2025,240991792,,,executed,src_wvi_jr2025_pdf,strong,2025 assets 240991792.06 was 239604133.02; tick1346; primary WVV in official PDF; commissaris confirms
+bud_wvi_fixed_2025,igs_wvi,2025,22732658,,,executed,src_wvi_jr2025_pdf,strong,2025 vaste activa 22732657.60 was 19108656.75; tick1346; primary WVV 21/28
+bud_wvi_mva_2025,igs_wvi,2025,22432564,,,executed,src_wvi_jr2025_pdf,strong,2025 MVA 22432563.68 (gebouwen 18712877 + installaties 76192.51 + rollend 253452.33 + overige 2016382.61 + CIP 1373659.23); tick1346; primary WVV
+bud_wvi_buildings_2025,igs_wvi,2025,18712877,,,executed,src_wvi_jr2025_pdf,strong,2025 terreinen/gebouwen 18712877.00 was 16287153.02; tick1346; primary WVV
+bud_wvi_plant_2025,igs_wvi,2025,76193,,,executed,src_wvi_jr2025_pdf,strong,2025 installaties 76192.51; tick1346; primary WVV
+bud_wvi_rolling_2025,igs_wvi,2025,253452,,,executed,src_wvi_jr2025_pdf,strong,2025 meubilair/rollend 253452.33; tick1346; primary WVV
+bud_wvi_other_mva_2025,igs_wvi,2025,2016383,,,executed,src_wvi_jr2025_pdf,strong,2025 overige MVA 2016382.61; tick1346; primary WVV
+bud_wvi_cip_2025,igs_wvi,2025,1373659,,,executed,src_wvi_jr2025_pdf,strong,2025 CIP 1373659.23 JUMP vs 339464.21; tick1346; primary WVV
+bud_wvi_fva_2025,igs_wvi,2025,300042,,,executed,src_wvi_jr2025_pdf,strong,2025 FVA 300042.34 (aandelen 300042.34) JUMP vs 180042.34; tick1346; primary WVV
+bud_wvi_current_2025,igs_wvi,2025,218259134,,,executed,src_wvi_jr2025_pdf,strong,2025 vlottende activa 218259134.46 was 220495476.27; tick1346; primary WVV
+bud_wvi_lt_recv_2025,igs_wvi,2025,127604,,,executed,src_wvi_jr2025_pdf,strong,2025 LT trade recv 127603.70 was 160377.31; tick1346; primary WVV
+bud_wvi_stock_2025,igs_wvi,2025,181883498,,,executed,src_wvi_jr2025_pdf,strong,2025 voorraden onroerend voor verkoop 181883497.84 was 181702595.71; tick1346; primary WVV
+bud_wvi_st_recv_2025,igs_wvi,2025,10061915,,,executed,src_wvi_jr2025_pdf,strong,2025 ST recv 10061914.62 JUMP vs 3205950.97 (trade 8298069.18 JUMP vs 1587511.69 + other 1763845.44); tick1346; primary WVV
+bud_wvi_invest_2025,igs_wvi,2025,21898456,,,executed,src_wvi_jr2025_pdf,strong,2025 geldbeleggingen 21898456.31 DROP vs 29402029.68; tick1346; primary WVV
+bud_wvi_cash_2025,igs_wvi,2025,4004506,,,executed,src_wvi_jr2025_pdf,strong,2025 cash 4004505.51 DROP vs 5730609.54; tick1346; primary WVV
+bud_wvi_accr_asset_2025,igs_wvi,2025,283156,,,executed,src_wvi_jr2025_pdf,strong,2025 overlopende activa 283156.48; tick1346; primary WVV
+bud_wvi_equity_2025,igs_wvi,2025,133457384,,,executed,src_wvi_jr2025_pdf,strong,2025 equity 133457384.42 was 132299827.72; tick1346; primary WVV 10/15
+bud_wvi_capital_2025,igs_wvi,2025,13336600,,,executed,src_wvi_jr2025_pdf,strong,2025 geplaatst kapitaal 13336600 DROP vs 13449100 (Fluvius uittreding 112500); tick1346; primary WVV
+bud_wvi_reserves_2025,igs_wvi,2025,119796644,,,executed,src_wvi_jr2025_pdf,strong,2025 reserves 119796643.80 (onbeschikbaar 5827064.80 + beschikbaar 113969579.00); tick1346; primary WVV
+bud_wvi_capsu_2025,igs_wvi,2025,324141,,,executed,src_wvi_jr2025_pdf,strong,2025 kapitaalsubsidies 324140.62 was 332578.12; tick1346; primary WVV
+bud_wvi_prov_2025,igs_wvi,2025,75360974,,,executed,src_wvi_jr2025_pdf,strong,2025 voorzieningen 75360974.21 (pensioen 11102822.38 + overige 64150104.96 + uitgesteld 108046.87); tick1346; primary WVV
+bud_wvi_debt_2025,igs_wvi,2025,32173433,,,executed,src_wvi_jr2025_pdf,strong,2025 schulden 32173433.43 was 31106664.30; tick1346; primary WVV 17/49
+bud_wvi_lt_fin_2025,igs_wvi,2025,19000000,,,executed,src_wvi_jr2025_pdf,strong,2025 LT financial banken 19000000 new; plus LT trade 375000; tick1346; primary WVV 6.9
+bud_wvi_st_debt_2025,igs_wvi,2025,12018729,,,executed,src_wvi_jr2025_pdf,strong,2025 ST schulden 12018729.02 was 11164067.65; tick1346; primary WVV
+bud_wvi_trade_pay_2025,igs_wvi,2025,3924379,,,executed,src_wvi_jr2025_pdf,strong,2025 leveranciers ST 3924379.20 JUMP vs 2781907.99; tick1346; primary WVV
+bud_wvi_taxsoc_2025,igs_wvi,2025,2209382,,,executed,src_wvi_jr2025_pdf,strong,2025 tax/soc 2209382.38 (tax 446981.98 + wages 1762400.40); tick1346; primary WVV
+bud_wvi_ops_rev_2025,igs_wvi,2025,39150195,,,executed,src_wvi_jr2025_pdf,strong,2025 bedrijfsopbrengsten 39150195.00 was 32901605.29; tick1346; primary WVV 70/76A
+bud_wvi_turnover_2025,igs_wvi,2025,34225614,,,executed,src_wvi_jr2025_pdf,strong,2025 omzet 34225614.21 JUMP vs 18394219.39; narrative ondernemen 25.7m / wonen 4.2m / GO 0.1m / dienst 4.2m; tick1346; primary WVV 70
+bud_wvi_stockchange_2025,igs_wvi,2025,180902,,,executed,src_wvi_jr2025_pdf,strong,2025 voorraadwijziging 180902.13 DROP vs 10402571.75; tick1346; primary WVV 71
+bud_wvi_otherops_2025,igs_wvi,2025,4743679,,,executed,src_wvi_jr2025_pdf,strong,2025 andere bedrijfsopbrengsten 4743678.66 was 4104814.15; tick1346; primary WVV 74
+bud_wvi_ops_cost_2025,igs_wvi,2025,37815032,,,executed,src_wvi_jr2025_pdf,strong,2025 bedrijfskosten 37815031.79 was 35697951.47; tick1346; primary WVV
+bud_wvi_goods_2025,igs_wvi,2025,22616082,,,executed,src_wvi_jr2025_pdf,strong,2025 handelsgoederen 22616082.45; tick1346; primary WVV
+bud_wvi_services_2025,igs_wvi,2025,1801397,,,executed,src_wvi_jr2025_pdf,strong,2025 diensten 1801396.79 JUMP vs 1467339.49; tick1346; primary WVV
+bud_wvi_pers_2025,igs_wvi,2025,13761416,,,executed,src_wvi_jr2025_pdf,strong,2025 bezoldigingen 13761415.84 was 13818386.64; tick1346; primary WVV; avg VTE 103.6 / YE 101.2 / 110 koppen
+bud_wvi_uitzend_2025,igs_wvi,2025,10367,,,executed,src_wvi_jr2025_pdf,strong,2025 uitzend 10367.20 VTE 0.3; tick1346; primary WVV sociale balans 152
+bud_wvi_ops_2025,igs_wvi,2025,1335163,,,executed,src_wvi_jr2025_pdf,strong,2025 bedrijfswinst 1335163.21 was -2796346.18; tick1346; primary WVV 9901
+bud_wvi_fin_inc_2025,igs_wvi,2025,607546,,,executed,src_wvi_jr2025_pdf,strong,2025 fin opbr 607545.64 (vlottend 584140.26); tick1346; primary WVV
+bud_wvi_fin_cost_2025,igs_wvi,2025,667027,,,executed,src_wvi_jr2025_pdf,strong,2025 fin kosten 667027.15 JUMP vs 15137.20 (schulden 519203.66 + non-rec 154999); tick1346; primary WVV
+bud_wvi_pnl_2025,igs_wvi,2025,1278494,,,executed,src_wvi_jr2025_pdf,strong,2025 PnL 1278494.20 was -2104801.58; added to beschikbare reserves; tick1346; primary WVV 9904 + commissaris
+bud_wvi_comm_fee_2025,igs_wvi,2025,8016,,,executed,src_wvi_jr2025_pdf,strong,2025 commissaris Kantoor Hosten Walter Hosten 8015.65; tick1346; primary WVV 6.16
+bud_wvi_cash_invest_drop_2025,igs_wvi,2025,9229677,,,executed,src_wvi_jr2025_pdf,strong,2025 beleggingen+cash DROP 9229677.40 (35132639.22 to 25902961.82) vs new 19m bank loans; tick1346; primary WVV
