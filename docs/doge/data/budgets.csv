@@ -36367,3 +36367,39 @@ bud_nuhd_subloan_2025,bv_nuhd,2025,1555000,,,executed,src_nuhd_jr2025_nbb,strong
 bud_nuhd_cipal_pnl_2025,bv_nuhd,2025,101449266,,,executed,src_nuhd_jr2025_nbb,strong,2025 Cipal NV 0442802030 10pct PnL 101449266 / EV 62689280 (deelnemingstabel; not DC statutory); tick1358; primary official NBB WVV 6.5.1; not TE-additive
 bud_nuhd_nuhmeris_ev_2025,bv_nuhd,2025,13531710,,,executed,src_nuhd_jr2025_nbb,strong,2025 Nuhmeris NV 0560976140 100pct EV 13531710 / PnL -510182; tick1358; primary official NBB WVV 6.5.1; not TE-additive
 bud_nuhd_slim_pnl_2025,bv_nuhd,2025,-1355216,,,executed,src_nuhd_jr2025_nbb,strong,2025 S-lim CV 0679631191 49.99pct PnL -1355216 / EV 2599382; tick1358; primary official NBB WVV 6.5.1; not TE-additive
+bud_nubm_assets_2025,nv_nubm,2025,188491,,,executed,src_nubm_jr2025_nbb,strong,2025 assets 188491 VOL-kap 20/58; tick1359; primary official NBB WVV; RvB 188491.15
+bud_nubm_assets_2024,nv_nubm,2024,178817,,,executed,src_nubm_jr2025_nbb,strong,2024 assets 178817 comparative; tick1359; primary official NBB WVV 20/58
+bud_nubm_pnl_2025,nv_nubm,2025,9438,,,executed,src_nubm_jr2025_nbb,strong,2025 PnL 9904 9438; tick1359; primary official NBB WVV + RvB 9437.65
+bud_nubm_pnl_2024,nv_nubm,2024,10413,,,executed,src_nubm_jr2025_nbb,strong,2024 PnL 9904 10413 comparative; tick1359; primary official NBB WVV
+bud_nubm_fixed_2025,nv_nubm,2025,1000,,,executed,src_nubm_jr2025_nbb,strong,2025 vaste activa/FVA 1000; tick1359; primary official NBB WVV 21/28
+bud_nubm_current_2025,nv_nubm,2025,187491,,,executed,src_nubm_jr2025_nbb,strong,2025 vlottende activa 187491 JUMP vs 177817; tick1359; primary official NBB WVV 29/58
+bud_nubm_equity_2025,nv_nubm,2025,187044,,,executed,src_nubm_jr2025_nbb,strong,2025 eigen vermogen 187044 JUMP vs 177606; matches parent cv 6.5.1; tick1359; primary official NBB WVV 10/15
+bud_nubm_equity_2024,nv_nubm,2024,177606,,,executed,src_nubm_jr2025_nbb,strong,2024 eigen vermogen 177606 comparative; tick1359; primary official NBB WVV 10/15
+bud_nubm_inbreng_2025,nv_nubm,2025,125000,,,executed,src_nubm_jr2025_nbb,strong,2025 inbreng/kapitaal 125000 (geplaatst 500000 minus niet-opgevraagd 375000; 1000 aandelen 100pct Nuhma cv); tick1359; primary official NBB WVV 10/11
+bud_nubm_kap_placed_2025,nv_nubm,2025,500000,,,executed,src_nubm_jr2025_nbb,strong,2025 geplaatst kapitaal 500000 / 1000 aandelen op naam; tick1359; primary official NBB WVV 100
+bud_nubm_kap_uncalled_2025,nv_nubm,2025,375000,,,executed,src_nubm_jr2025_nbb,strong,2025 niet-opgevraagd kapitaal 375000 (Nuhma cv still to pay); tick1359; primary official NBB WVV 101
+bud_nubm_reserves_2025,nv_nubm,2025,62044,,,executed,src_nubm_jr2025_nbb,strong,2025 reserves 62044 JUMP vs 52606; tick1359; primary official NBB WVV 13
+bud_nubm_wettres_2025,nv_nubm,2025,10129,,,executed,src_nubm_jr2025_nbb,strong,2025 wettelijke reserve 10129 (toevoeging 472); tick1359; primary official NBB WVV 130/6920
+bud_nubm_availres_2025,nv_nubm,2025,51915,,,executed,src_nubm_jr2025_nbb,strong,2025 beschikbare reserves 51915 (toevoeging 8966); tick1359; primary official NBB WVV 133/6921
+bud_nubm_fva_2025,nv_nubm,2025,1000,,,executed,src_nubm_jr2025_nbb,strong,2025 FVA verbonden deelnemingen 1000 (ECO2050 5pct); tick1359; primary official NBB WVV 280
+bud_nubm_strecv_2025,nv_nubm,2025,860,,,executed,src_nubm_jr2025_nbb,strong,2025 ST overige vorderingen 860 DROP vs 1110; tick1359; primary official NBB WVV 41
+bud_nubm_deposits_2025,nv_nubm,2025,160000,,,executed,src_nubm_jr2025_nbb,strong,2025 termijnrekeningen 160000 (1m-1y); tick1359; primary official NBB WVV 53/8687
+bud_nubm_deposits_2024,nv_nubm,2024,150000,,,executed,src_nubm_jr2025_nbb,strong,2024 termijnrekeningen 150000 comparative; tick1359; primary official NBB WVV 53
+bud_nubm_cash_2025,nv_nubm,2025,24991,,,executed,src_nubm_jr2025_nbb,strong,2025 liquide middelen 24991 JUMP vs 24444; tick1359; primary official NBB WVV 54/58
+bud_nubm_cash_2024,nv_nubm,2024,24444,,,executed,src_nubm_jr2025_nbb,strong,2024 liquide middelen 24444 comparative; tick1359; primary official NBB WVV 54/58
+bud_nubm_prepaid_2025,nv_nubm,2025,1640,,,executed,src_nubm_jr2025_nbb,strong,2025 overlopende activa 1640 (kosten 464 + opbrengsten 1176); tick1359; primary official NBB WVV 490/1
+bud_nubm_debt_2025,nv_nubm,2025,1447,,,executed,src_nubm_jr2025_nbb,strong,2025 schulden 1447 JUMP vs 1210; tick1359; primary official NBB WVV 17/49
+bud_nubm_debt_2024,nv_nubm,2024,1210,,,executed,src_nubm_jr2025_nbb,strong,2024 schulden 1210 comparative; tick1359; primary official NBB WVV 17/49
+bud_nubm_st_2025,nv_nubm,2025,1094,,,executed,src_nubm_jr2025_nbb,strong,2025 ST handelsschulden leveranciers 1094 JUMP vs 532; tick1359; primary official NBB WVV 42/48 440/4
+bud_nubm_accrued_2025,nv_nubm,2025,353,,,executed,src_nubm_jr2025_nbb,strong,2025 overlopende passiva 353 DROP vs 679; tick1359; primary official NBB WVV 492/3
+bud_nubm_reldebt_2025,nv_nubm,2025,630,,,executed,src_nubm_jr2025_nbb,strong,2025 schulden verbonden ST 630 JUMP vs 532; tick1359; primary official NBB WVV 9351/9371
+bud_nubm_omzet_2025,nv_nubm,2025,12247,,,executed,src_nubm_jr2025_nbb,strong,2025 omzet 12247 JUMP vs 11872; tick1359; primary official NBB WVV 70
+bud_nubm_omzet_2024,nv_nubm,2024,11872,,,executed,src_nubm_jr2025_nbb,strong,2024 omzet 11872 comparative; tick1359; primary official NBB WVV 70
+bud_nubm_opscost_2025,nv_nubm,2025,2580,,,executed,src_nubm_jr2025_nbb,strong,2025 bedrijfskosten 2580 (diensten 1746 + andere 834); tick1359; primary official NBB WVV 60/66A
+bud_nubm_diensten_2025,nv_nubm,2025,1746,,,executed,src_nubm_jr2025_nbb,strong,2025 diensten 1746 DROP vs 1854; tick1359; primary official NBB WVV 61
+bud_nubm_expl_2025,nv_nubm,2025,9667,,,executed,src_nubm_jr2025_nbb,strong,2025 bedrijfswinst 9667 JUMP vs 9045; tick1359; primary official NBB WVV 9901
+bud_nubm_fininc_2025,nv_nubm,2025,3342,,,executed,src_nubm_jr2025_nbb,strong,2025 financiele opbrengsten 3342 DROP vs 5264 (vlottende 751); tick1359; primary official NBB WVV 75/76B
+bud_nubm_fincost_2025,nv_nubm,2025,425,,,executed,src_nubm_jr2025_nbb,strong,2025 financiele kosten 425 bankkosten; tick1359; primary official NBB WVV 65/66B
+bud_nubm_tax_2025,nv_nubm,2025,3146,,,executed,src_nubm_jr2025_nbb,strong,2025 belastingen 3146 (betaald 4003 minus overschot 857); tick1359; primary official NBB WVV 67/77
+bud_nubm_div_2025,nv_nubm,2025,0,,,executed,src_nubm_jr2025_nbb,strong,2025 dividend 0 (694 empty; resultaat naar wettelijke 472 + overige 8966); tick1359; primary official NBB WVV 694
+bud_nubm_eco2050_ev_2023,nv_nubm,2023,8772472,,,executed,src_nubm_jr2025_nbb,strong,2023 ECO2050 cv 0699503028 5pct EV 8772472 / PnL 267823 (deelnemingstabel; not Nubema statutory); tick1359; primary official NBB WVV 6.5.1; not TE-additive
