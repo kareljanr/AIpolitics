@@ -36171,3 +36171,38 @@ bud_ivbo_inbreng_2025,igs_ivbo,2025,5924200,,,executed,src_ivbo_jr2025_pdf,stron
 bud_ivbo_mva_2025,igs_ivbo,2025,57763519,,,executed,src_ivbo_jr2025_pdf,strong,2025 materiele VA 57763519.40; tick1352; primary official JR WVV 22/27
 bud_ivbo_iva_2025,igs_ivbo,2025,1990720,,,executed,src_ivbo_jr2025_pdf,strong,2025 immateriele VA 1990720.38; tick1352; primary official JR WVV 21
 bud_ivbo_otherops_2025,igs_ivbo,2025,1019170,,,executed,src_ivbo_jr2025_pdf,strong,2025 andere bedrijfsopbrengsten 1019170.36; tick1352; primary official JR WVV 74
+bud_bng_assets_2025,nv_bionerga,2025,82918422,,,executed,src_bng_jr2025_nbb,strong,2025 assets 82918422.46 commissaris; tick1354; primary official NBB WVV 20/58
+bud_bng_assets_2024,nv_bionerga,2024,117477776,,,executed,src_bng_jr2025_nbb,strong,2024 assets 117477776.25 comparative; tick1354; primary official NBB WVV 20/58
+bud_bng_pnl_2025,nv_bionerga,2025,-33797727,,,executed,src_bng_jr2025_nbb,strong,2025 PnL 9904 -33797727.39; tick1354; primary official NBB WVV + commissaris
+bud_bng_pnl_2024,nv_bionerga,2024,-24672272,,,executed,src_bng_jr2025_nbb,strong,2024 PnL 9904 -24672271.66 comparative; tick1354; primary official NBB WVV
+bud_bng_fixed_2025,nv_bionerga,2025,54229996,,,executed,src_bng_jr2025_nbb,strong,2025 vaste activa 54229996.29; tick1354; primary official NBB WVV 21/28
+bud_bng_current_2025,nv_bionerga,2025,28688426,,,executed,src_bng_jr2025_nbb,strong,2025 vlottende activa 28688426.17; tick1354; primary official NBB WVV 29/58
+bud_bng_equity_2025,nv_bionerga,2025,39707904,,,executed,src_bng_jr2025_nbb,strong,2025 eigen vermogen 39707904.27 DROP vs 73521905; tick1354; primary official NBB WVV 10/15
+bud_bng_equity_2024,nv_bionerga,2024,73521905,,,executed,src_bng_jr2025_nbb,strong,2024 eigen vermogen 73521905 comparative; tick1354; primary official NBB WVV 10/15
+bud_bng_omzet_2025,nv_bionerga,2025,22559843,,,executed,src_bng_jr2025_nbb,strong,2025 omzet 22559842.87; tick1354; primary official NBB WVV 70
+bud_bng_omzet_2024,nv_bionerga,2024,19363324,,,executed,src_bng_jr2025_nbb,strong,2024 omzet 19363324.21 comparative; tick1354; primary official NBB WVV 70
+bud_bng_opsrev_2025,nv_bionerga,2025,30051914,,,executed,src_bng_jr2025_nbb,strong,2025 bedrijfsopbrengsten 30051914.05; tick1354; primary official NBB WVV 70/76A
+bud_bng_pers_2025,nv_bionerga,2025,5491207,,,executed,src_bng_jr2025_nbb,strong,2025 bezoldigingen 5491207; tick1354; primary official NBB WVV 62
+bud_bng_diensten_2025,nv_bionerga,2025,5347032,,,executed,src_bng_jr2025_nbb,strong,2025 diensten 5347032; tick1354; primary official NBB WVV 61
+bud_bng_goods_2025,nv_bionerga,2025,14714182,,,executed,src_bng_jr2025_nbb,strong,2025 handelsgoederen 14714182 (aankopen 14774295.26); tick1354; primary official NBB WVV 60
+bud_bng_afschr_2025,nv_bionerga,2025,1419285,,,executed,src_bng_jr2025_nbb,strong,2025 afschrijvingen 1419285; tick1354; primary official NBB WVV 630
+bud_bng_expl_2025,nv_bionerga,2025,2730058,,,executed,src_bng_jr2025_nbb,strong,2025 bedrijfswinst 2730057.56; tick1354; primary official NBB WVV 9901
+bud_bng_cash_2025,nv_bionerga,2025,7492359,,,executed,src_bng_jr2025_nbb,strong,2025 liquide middelen 7492359 DROP vs 12182222; tick1354; primary official NBB WVV 54/58
+bud_bng_cash_2024,nv_bionerga,2024,12182222,,,executed,src_bng_jr2025_nbb,strong,2024 liquide middelen 12182222 comparative; tick1354; primary official NBB WVV 54/58
+bud_bng_invest_2025,nv_bionerga,2025,10204923,,,executed,src_bng_jr2025_nbb,strong,2025 geldbeleggingen 10204923; tick1354; primary official NBB WVV 50/53
+bud_bng_strecv_2025,nv_bionerga,2025,10632524,,,executed,src_bng_jr2025_nbb,strong,2025 ST vorderingen 10632524 (trade 6656084 + other 3976440); tick1354; primary official NBB WVV 40/41
+bud_bng_fva_2025,nv_bionerga,2025,44240798,,,executed,src_bng_jr2025_nbb,strong,2025 FVA 44240798 DROP vs 68872142 (verbonden 44094203); tick1354; primary official NBB WVV 28
+bud_bng_fva_2024,nv_bionerga,2024,68872142,,,executed,src_bng_jr2025_nbb,strong,2024 FVA 68872142 comparative; tick1354; primary official NBB WVV 28
+bud_bng_mva_2025,nv_bionerga,2025,9989199,,,executed,src_bng_jr2025_nbb,strong,2025 MVA 9989198.77 (gebouwen 7776781.42 + machines 792565.67 + rollend 1419851.68); tick1354; primary official NBB WVV 22/27
+bud_bng_debt_2025,nv_bionerga,2025,43037527,,,executed,src_bng_jr2025_nbb,strong,2025 schulden 43037526.98; tick1354; primary official NBB WVV 17/49
+bud_bng_lt_2025,nv_bionerga,2025,32500000,,,executed,src_bng_jr2025_nbb,strong,2025 LT schulden 32500000 (achtergesteld 6500000 + overige 26000000); tick1354; primary official NBB WVV 17
+bud_bng_st_2025,nv_bionerga,2025,10391335,,,executed,src_bng_jr2025_nbb,strong,2025 ST schulden 10391335 (LT-within-year 2000000 + fin 5000000 + trade 2423870 + tax/soc 967466); tick1354; primary official NBB WVV 42/48
+bud_bng_nrfin_2025,nv_bionerga,2025,35809797,,,executed,src_bng_jr2025_nbb,strong,2025 niet-recurrente fin kosten 35809797 WVV 66B; tick1354; primary official NBB WVV
+bud_bng_fincost_2025,nv_bionerga,2025,37332947,,,executed,src_bng_jr2025_nbb,strong,2025 financiele kosten 37332946.75; tick1354; primary official NBB WVV 65/66B
+bud_bng_fininc_2025,nv_bionerga,2025,1430516,,,executed,src_bng_jr2025_nbb,strong,2025 financiele opbrengsten 1430516.48; tick1354; primary official NBB WVV 75/76B
+bud_bng_otherops_2025,nv_bionerga,2025,6609865,,,executed,src_bng_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 6609865.12; tick1354; primary official NBB WVV 74
+bud_bng_inbreng_2025,nv_bionerga,2025,37199735,,,executed,src_bng_jr2025_nbb,strong,2025 inbreng/kapitaal 37199735.24; tick1354; primary official NBB WVV 10/11
+bud_bng_overgedragen_2025,nv_bionerga,2025,-3272758,,,executed,src_bng_jr2025_nbb,strong,2025 overgedragen verlies -3272758.05; tick1354; primary official NBB WVV 14
+bud_bng_reserve_draw_2025,nv_bionerga,2025,31043943,,,executed,src_bng_jr2025_nbb,strong,2025 onttrekking reserves 31043943; tick1354; primary official NBB WVV 792
+bud_bng_pledge_2025,nv_bionerga,2025,20110000,,,executed,src_bng_jr2025_nbb,strong,2025 off-balance pand andere activa 20110000; tick1354; primary official NBB WVV 91812/91822
+bud_bng_comm_2025,nv_bionerga,2025,13795,,,executed,src_bng_jr2025_nbb,strong,2025 commissaris ereloon BDO 13795 (groep 56655); tick1354; primary official NBB WVV 9505
