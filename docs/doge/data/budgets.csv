@@ -36026,3 +36026,40 @@ bud_creat_tax_2025,igs_creat,2025,175502,,,executed,src_creat_jr2025_pdf,strong,
 bud_creat_pnl_2025,igs_creat,2025,369478,,,executed,src_creat_jr2025_pdf,strong,2025 PnL 369477.64 commissaris 369478; tick1348; primary official WVV
 bud_creat_pnl_before_tax_2025,igs_creat,2025,544980,,,executed,src_creat_jr2025_pdf,strong,2025 winst voor belasting 544979.99; tick1348; primary official WVV
 bud_creat_fin_cost_2025,igs_creat,2025,2410,,,executed,src_creat_jr2025_pdf,strong,2025 financiele kosten 2410.09; tick1348; primary official WVV
+bud_aqd_assets_2025,igs_aquaduin,2025,99094393,,,executed,src_aqd_jr2025_pdf,strong,2025 assets 99094393.07; tick1349; primary official WVV
+bud_aqd_assets_2024,igs_aquaduin,2024,89349170,,,executed,src_aqd_jr2025_pdf,strong,2024 assets 89349170.31 comparative; tick1349; primary official WVV
+bud_aqd_fixed_2025,igs_aquaduin,2025,74706710,,,executed,src_aqd_jr2025_pdf,strong,2025 vaste activa 74706709.82; tick1349; primary official WVV
+bud_aqd_mva_2025,igs_aquaduin,2025,74513245,,,executed,src_aqd_jr2025_pdf,strong,2025 MVA 74513244.58; tick1349; primary official WVV
+bud_aqd_current_2025,igs_aquaduin,2025,24387683,,,executed,src_aqd_jr2025_pdf,strong,2025 vlottende activa 24387683.25; tick1349; primary official WVV
+bud_aqd_ltrecv_2025,igs_aquaduin,2025,4205000,,,executed,src_aqd_jr2025_pdf,strong,2025 LT recv 4205000 new vs 0; tick1349; primary official WVV
+bud_aqd_stock_2025,igs_aquaduin,2025,1316792,,,executed,src_aqd_jr2025_pdf,strong,2025 voorraden 1316792.15; tick1349; primary official WVV
+bud_aqd_strecv_2025,igs_aquaduin,2025,5100085,,,executed,src_aqd_jr2025_pdf,strong,2025 ST recv 5100085.22; tick1349; primary official WVV
+bud_aqd_trade_recv_2025,igs_aquaduin,2025,5036714,,,executed,src_aqd_jr2025_pdf,strong,2025 handelsvorderingen 5036714.04; tick1349; primary official WVV
+bud_aqd_invest_2025,igs_aquaduin,2025,13415919,,,executed,src_aqd_jr2025_pdf,strong,2025 geldbeleggingen 13415919.13; tick1349; primary official WVV
+bud_aqd_cash_2025,igs_aquaduin,2025,164458,,,executed,src_aqd_jr2025_pdf,strong,2025 liquide middelen 164457.68; tick1349; primary official WVV
+bud_aqd_equity_2025,igs_aquaduin,2025,52908396,,,executed,src_aqd_jr2025_pdf,strong,2025 equity 52908395.62; tick1349; primary official WVV
+bud_aqd_capital_2025,igs_aquaduin,2025,2049750,,,executed,src_aqd_jr2025_pdf,strong,2025 geplaatst kapitaal 2049750 / 8199 aandelen; tick1349; primary official WVV
+bud_aqd_reserves_2025,igs_aquaduin,2025,24018601,,,executed,src_aqd_jr2025_pdf,strong,2025 reserves 24018601.46; tick1349; primary official WVV
+bud_aqd_kapsu_2025,igs_aquaduin,2025,26819983,,,executed,src_aqd_jr2025_pdf,strong,2025 kapitaalsubsidies 26819982.98 was 23199955.02; tick1349; primary official WVV
+bud_aqd_prov_2025,igs_aquaduin,2025,4335477,,,executed,src_aqd_jr2025_pdf,strong,2025 voorzieningen 4335476.73; tick1349; primary official WVV
+bud_aqd_debt_2025,igs_aquaduin,2025,41850521,,,executed,src_aqd_jr2025_pdf,strong,2025 schulden 41850520.72; tick1349; primary official WVV
+bud_aqd_ltdebt_2025,igs_aquaduin,2025,3255235,,,executed,src_aqd_jr2025_pdf,strong,2025 LT fin achtergesteld 3255235.02; tick1349; primary official WVV
+bud_aqd_stdebt_2025,igs_aquaduin,2025,6911672,,,executed,src_aqd_jr2025_pdf,strong,2025 ST schulden 6911672.27; tick1349; primary official WVV
+bud_aqd_trade_pay_2025,igs_aquaduin,2025,4603876,,,executed,src_aqd_jr2025_pdf,strong,2025 leveranciers 4603876.06; tick1349; primary official WVV
+bud_aqd_accrual_2025,igs_aquaduin,2025,31683613,,,executed,src_aqd_jr2025_pdf,strong,2025 overlopend 31683613.43; tick1349; primary official WVV
+bud_aqd_sanering_2025,igs_aquaduin,2025,31332405,,,executed,src_aqd_jr2025_pdf,strong,2025 aanrekeningen gemeentelijke sanering 31332405.27; tick1349; primary official WVV toel
+bud_aqd_opsrev_2025,igs_aquaduin,2025,30697805,,,executed,src_aqd_jr2025_pdf,strong,2025 bedrijfsopbrengsten 30697804.89; tick1349; primary official WVV
+bud_aqd_omzet_2025,igs_aquaduin,2025,26499270,,,executed,src_aqd_jr2025_pdf,strong,2025 omzet 26499269.80 JUMP vs 22910441.64; tick1349; primary official WVV
+bud_aqd_omzet_2024,igs_aquaduin,2024,22910442,,,executed,src_aqd_jr2025_pdf,strong,2024 omzet 22910441.64 comparative; tick1349; primary official WVV
+bud_aqd_otherops_2025,igs_aquaduin,2025,3436323,,,executed,src_aqd_jr2025_pdf,strong,2025 andere bedrijfsopbrengsten 3436322.83; tick1349; primary official WVV
+bud_aqd_ops_cost_2025,igs_aquaduin,2025,28823323,,,executed,src_aqd_jr2025_pdf,strong,2025 bedrijfskosten 28823323.44; tick1349; primary official WVV
+bud_aqd_goods_2025,igs_aquaduin,2025,15281985,,,executed,src_aqd_jr2025_pdf,strong,2025 handelsgoederen 15281985.26; tick1349; primary official WVV
+bud_aqd_diensten_2025,igs_aquaduin,2025,4903752,,,executed,src_aqd_jr2025_pdf,strong,2025 diensten 4903752.08; tick1349; primary official WVV
+bud_aqd_pers_2025,igs_aquaduin,2025,4987994,,,executed,src_aqd_jr2025_pdf,strong,2025 personeel 4987994.28; 45 koppen / 43.12 VTE; tick1349; primary official WVV
+bud_aqd_depr_2025,igs_aquaduin,2025,3030680,,,executed,src_aqd_jr2025_pdf,strong,2025 afschrijvingen 3030679.61; tick1349; primary official WVV
+bud_aqd_expl_2025,igs_aquaduin,2025,1874481,,,executed,src_aqd_jr2025_pdf,strong,2025 bedrijfswinst 1874481.45 commentaar = 30697804.89-28823323.44; tick1349; primary official WVV
+bud_aqd_fin_opbr_2025,igs_aquaduin,2025,782382,,,executed,src_aqd_jr2025_pdf,strong,2025 financiele opbrengsten 782381.67; tick1349; primary official WVV
+bud_aqd_fin_cost_2025,igs_aquaduin,2025,59757,,,executed,src_aqd_jr2025_pdf,strong,2025 financiele kosten 59757.42; tick1349; primary official WVV
+bud_aqd_pnl_2025,igs_aquaduin,2025,2597106,,,executed,src_aqd_jr2025_pdf,strong,2025 PnL 2597105.70 all to reserves; tick1349; primary official WVV
+bud_aqd_capex_2025,igs_aquaduin,2025,7599263,,,executed,src_aqd_jr2025_pdf,strong,2025 geinvesteerd in vast actief 7599263.41 commentaar; tick1349; primary official WVV
+bud_aqd_kapsu_recv_2025,igs_aquaduin,2025,4095522,,,executed,src_aqd_jr2025_pdf,strong,2025 ontvangen kapitaalsubsidies 4095522.43 commentaar; tick1349; primary official WVV
