@@ -35998,3 +35998,31 @@ bud_ivio_oostrozebeke_fee_2025,igs_ivio,2025,641339,,,executed,src_ivio_jr2025_p
 bud_ivio_pittem_fee_2025,igs_ivio,2025,534054,,,executed,src_ivio_jr2025_pdf,strong,2025 Pittem cityfee 534054 was 505708 budget 629232; tick1347; primary official PDF
 bud_ivio_lendelede_fee_2025,igs_ivio,2025,476873,,,executed,src_ivio_jr2025_pdf,strong,2025 Lendelede cityfee 476873 was 446589 budget 488724; tick1347; primary official PDF
 bud_ivio_ruiselede_fee_2025,igs_ivio,2025,448551,,,executed,src_ivio_jr2025_pdf,strong,2025 Ruiselede cityfee 448551 was 404804 budget 481116; exit 31.12.2025 to Wingene/Mirom; tick1347; primary official PDF
+bud_creat_assets_2025,igs_creat,2025,16751601,,,executed,src_creat_jr2025_pdf,strong,2025 assets 16751600.57 commissaris 16751601; tick1348; primary official WVV
+bud_creat_assets_2024,igs_creat,2024,13784276,,,executed,src_creat_jr2025_pdf,strong,2024 assets 13784275.76 comparative; tick1348; primary official WVV
+bud_creat_current_2025,igs_creat,2025,16548303,,,executed,src_creat_jr2025_pdf,strong,2025 vlottende activa 16548302.57; tick1348; primary official WVV
+bud_creat_strecv_2025,igs_creat,2025,16420054,,,executed,src_creat_jr2025_pdf,strong,2025 ST recv 16420054.43 JUMP vs 13463137.04; tick1348; primary official WVV
+bud_creat_trade_recv_2025,igs_creat,2025,16391304,,,executed,src_creat_jr2025_pdf,strong,2025 handelsvorderingen 16391304.43 JUMP vs 13463137.04; tick1348; primary official WVV
+bud_creat_cash_2025,igs_creat,2025,128248,,,executed,src_creat_jr2025_pdf,strong,2025 liquide middelen 128248.14 was 117840.72; tick1348; primary official WVV
+bud_creat_fva_2025,igs_creat,2025,203298,,,executed,src_creat_jr2025_pdf,strong,2025 FVA 203298 all Creat CV deelneming unchanged; tick1348; primary official WVV
+bud_creat_equity_2025,igs_creat,2025,2567755,,,executed,src_creat_jr2025_pdf,strong,2025 equity 2567755.21 thin 15pct vs 16752k; tick1348; primary official WVV
+bud_creat_inbreng_2025,igs_creat,2025,884500,,,executed,src_creat_jr2025_pdf,strong,2025 inbreng 884500 was 707000; Farys 177750 + others 706750; tick1348; primary official WVV
+bud_creat_inbreng_farys_2025,igs_creat,2025,177750,,,executed,src_creat_jr2025_pdf,strong,2025 Farys ov inbreng 177750 of 884500; tick1348; primary official WVV commentaar
+bud_creat_uncalled_2025,igs_creat,2025,2473500,,,executed,src_creat_jr2025_pdf,strong,2025 niet-opgevraagde inbreng 2473500 (606 deelnemers toel 6.19); tick1348; primary official WVV
+bud_creat_called_unpaid_2025,igs_creat,2025,24250,,,executed,src_creat_jr2025_pdf,strong,2025 opgevraagd-niet-gestort 24250; tick1348; primary official WVV toel 6.19
+bud_creat_reserves_2025,igs_creat,2025,1683255,,,executed,src_creat_jr2025_pdf,strong,2025 beschikbare reserves 1683255.21 was 1313777.57; tick1348; primary official WVV
+bud_creat_debt_2025,igs_creat,2025,14183845,,,executed,src_creat_jr2025_pdf,strong,2025 schulden 14183845.36 all ST was 11763498.19; tick1348; primary official WVV
+bud_creat_trade_pay_2025,igs_creat,2025,10371185,,,executed,src_creat_jr2025_pdf,strong,2025 leveranciers 10371185.15 was 8534128.33; tick1348; primary official WVV
+bud_creat_other_debt_2025,igs_creat,2025,3799512,,,executed,src_creat_jr2025_pdf,strong,2025 overige schulden 3799511.93 was 3187197.38; tick1348; primary official WVV
+bud_creat_vatunit_2025,igs_creat,2025,3757517,,,executed,src_creat_jr2025_pdf,strong,2025 schuld btw-eenheid BE 0630.730.325 3757516.73; tick1348; primary official WVV commentaar
+bud_creat_omzet_2025,igs_creat,2025,89383335,,,executed,src_creat_jr2025_pdf,strong,2025 omzet 89383335.41 JUMP vs 70522995.83; tick1348; primary official WVV
+bud_creat_omzet_2024,igs_creat,2024,70522996,,,executed,src_creat_jr2025_pdf,strong,2024 omzet 70522995.83 comparative; tick1348; primary official WVV
+bud_creat_ops_cost_2025,igs_creat,2025,88835954,,,executed,src_creat_jr2025_pdf,strong,2025 bedrijfskosten 88835954.23 was 69978947.70; tick1348; primary official WVV
+bud_creat_goods_2025,igs_creat,2025,85516809,,,executed,src_creat_jr2025_pdf,strong,2025 handelsgoederen 85516808.92 was 67318451.75; tick1348; primary official WVV
+bud_creat_diensten_2025,igs_creat,2025,3184343,,,executed,src_creat_jr2025_pdf,strong,2025 diensten 3184342.60 was 2559400.23; tick1348; primary official WVV
+bud_creat_recv_impair_2025,igs_creat,2025,134803,,,executed,src_creat_jr2025_pdf,strong,2025 waardeverm ST recv 134802.71 was 101095.72; tick1348; primary official WVV
+bud_creat_expl_2025,igs_creat,2025,547381,,,executed,src_creat_jr2025_pdf,strong,2025 bedrijfswinst 547381.18 was 544048.13; tick1348; primary official WVV
+bud_creat_tax_2025,igs_creat,2025,175502,,,executed,src_creat_jr2025_pdf,strong,2025 belasting 175502.35 was 166753.34; tick1348; primary official WVV
+bud_creat_pnl_2025,igs_creat,2025,369478,,,executed,src_creat_jr2025_pdf,strong,2025 PnL 369477.64 commissaris 369478; tick1348; primary official WVV
+bud_creat_pnl_before_tax_2025,igs_creat,2025,544980,,,executed,src_creat_jr2025_pdf,strong,2025 winst voor belasting 544979.99; tick1348; primary official WVV
+bud_creat_fin_cost_2025,igs_creat,2025,2410,,,executed,src_creat_jr2025_pdf,strong,2025 financiele kosten 2410.09; tick1348; primary official WVV
