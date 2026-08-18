@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-19T00:40:00Z,rq_1354,1354,no,tick1354 Bionerga leftover NV residual; KBO 0882.280.227; live JR2025 NBB WVV PDF; sourced euros omzet 22.560m assets 82.918m pnl -33.798m fva drop 24.631m; FOI ready per-shareholder/impairment; next rq_1355 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-19T01:25:00Z,rq_1355,1355,no,tick1355 NUHMA AC leftover NV residual; KBO 0697.972.507; live JR2025 NBB WVV PDF; sourced euros assets 630.631m equity 607.097m pnl 8.773m div 8.325m fva drop 37.121m; FOI ready per-shareholder/impairment/cv-recon; next rq_1356 residual dual L5 VL; continuous hole_fill
