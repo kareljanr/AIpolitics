@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1360** (2026-08-19)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1351-1360 leftover IGS/NV/cv: **SOLVA** · **IVBO** · **Limburg.net** glossy · **Bionerga** · **NUHMA AC** · **Nuhma cv** · **EcoWerf** · **NUHMA DC** · **Nubema** · **ECO2050** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1351-1360 is VL residual dual L5 leftover IGS/NV/cv (not near-complete of 348bn):** **Nuhma cv** assets **693.83m** PnL **+26.27m** div **33.50m** · **NUHMA AC** assets **630.63m** PnL **+8.77m** · **Bionerga** assets **82.92m** PnL **−33.80m** · **IVBO** assets **79.79m** omzet **55.56m** · **SOLVA** assets **64.24m** omzet **25.52m** · **NUHMA DC** assets **52.32m** PnL **−1.21m** debt **20.51m** · **EcoWerf** assets **46.23m** omzet **53.57m** · **ECO2050** assets **11.54m** FVA **11.07m** Otary **11.00m** div **0.41m** · **Nubema** assets **188.5k** omzet **12.2k** uncalled **375k** · Limburg.net glossy-only · prior leftover IGS Interwaas/WVI/IGEAN/Aquaduin/Creat stack retained |
+| **E. FOI-ready gaps** | **~1003** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1051** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek/klimaat-holding shells** (**NEW ECO2050** assets **EUR11.54m** FVA **EUR11.07m** Otary **EUR11.00m** Sunfin **EUR70k** div **EUR0.41m** · **Nuhma cv** assets **EUR693.83m** PnL **+EUR26.27m** div **EUR33.50m** · **NUHMA AC** assets **EUR630.63m** PnL **+EUR8.77m** · **Bionerga** assets **EUR82.92m** PnL **−EUR33.80m** · **IVBO** assets **EUR79.79m** omzet **EUR55.56m** · **SOLVA** assets **EUR64.24m** omzet **EUR25.52m** · **NUHMA DC** assets **EUR52.32m** PnL **−EUR1.21m** debt **EUR20.51m** · **EcoWerf** assets **EUR46.23m** omzet **EUR53.57m** · **Nubema** assets **EUR188.5k** uncalled **EUR375k** · leftover IGS Limburg.net glossy · prior **Interwaas** assets **EUR78.37m** cash **EUR1.44m DROP 12.70m** beleggingen **EUR30.48m** omzet **EUR2.91m** · **WVI** assets **EUR241.0m** stock **EUR181.88m** · **IGEAN DV** assets **EUR103.92m** inv **EUR68.19m** · **Aquaduin** assets **EUR99.09m** omzet **EUR26.50m** sanering **EUR31.33m** · **Creat** omzet **EUR89.38m** · leftover IGS IVM/ILvA/IVVO/IDM/IVIO · prior **EVA LSM** assets **EUR85.85m** cash **EUR3.39m DROP 10.74m** portfolio **EUR58.31m** PnL **+EUR1.5k** · **WV Zorgband** assets **EUR61.86m** PnL **−EUR5.83m** lease **EUR43.75m** · **WV Zorgbedrijf Brasschaat** assets **EUR28.94m** cash **EUR2.65m** BBR **−EUR5.39m** LT-recv **EUR17.90m** · leftover zorg live BBC Het Dak / OPcura / BVK / Weldenderend · leftover FOI Vormingscentrum Malle / Inagro / Sleutelzorg · prior **APB Hooibeekhoeve** assets **EUR5.93m** cash **EUR2.65m** ST recv **EUR2.82m** BBR **+EUR1.30m** · **EVA Pluimveehouderij** assets **EUR8.63m** cash **EUR4.08m** ST recv **EUR4.46m** BBR **+EUR1.17m** · **APB Vonk** assets **EUR1.02m** cash **EUR0.96m** BBR **+EUR0.16m** · leftover FOI (Blankenberge / Campus Vesta / Monumentenwacht / Vlabinvest / Zilvermeer / Zorg HH / **EVA Kinderopvang Dilbeek**) · prior **APB KampC** assets **EUR5.93m** cash **EUR2.65m** ST recv **EUR3.06m** BBR **+EUR2.39m** J5/T2 werksub gap **EUR1.25m** · **APB PSES** assets **EUR186.52m** ST recv **EUR165.31m** BBR **−EUR1.29m** · **APB GKC** assets **EUR2.67m** cash **EUR2.11m** · **APB Havencentrum** assets **EUR0.97m** Havenwereld **EUR0.40m** · **AGBIM** CCAO **EUR8.91m** · **AGB Maaseik** fin debt **EUR1.60m** AFM **−EUR0.67m** · prior **APB VERA** fin debt **EUR1.72m** equity **−EUR1.64m** straight loan **EUR1.10m** · **Edegem** fin debt **EUR14.05m** pension **EUR23.40m** · **Beerse city** fin debt **EUR13.82m** · **AGB Beerse** fin debt **EUR5.02m** · **Pepingen city** fin debt **EUR3.47m** · **Vleteren** fin debt **EUR3.32m** · prior **Stad+OCMW Kortenaken** fin debt **EUR10.57m** IGS EV-reval **EUR8.90m** OCMW equity **−EUR5.41m** · **Heusden-Zolder** fin debt **EUR37.85m** IGS reval **EUR31.12m** · **Kapelle-op-den-Bos** fin debt **EUR18.87m** · **Oud-Heverlee** fin debt **EUR15.18m** · **Diepenbeek city** fin debt **EUR13.59m** IGS reval **EUR19.43m** · **Huldenberg** fin debt **EUR9.56m** · **AGB Kortenaken** fin debt **EUR3.28m** leasing **EUR3.22m** · **Voeren** fin debt **EUR3.37m** · **AGB Diepenbeek** fin debt **EUR3.03m** · **Steenokkerzeel** fin debt **EUR2.49m** · prior **Stad+OCMW Bekkevoort** fin debt **EUR9.77m** IGS EV-reval **EUR5.90m** · **HH city** fin debt **EUR17.37m** · **AGB Masterplan HH** fin debt **EUR27.81m** · **AGB Sport HH** fin debt **EUR10.72m** · **AGB SCO Ronse** fin debt **EUR22.65m** · **Ronse city** fin debt **EUR25.02m** pension **EUR19.50m** · **Kraainem** fin debt **EUR6.40m** · **Tielt-Winge** fin debt **EUR8.52m** · prior **Stad+OCMW Tienen** fin debt **EUR59.73m** pension **EUR51.29m** · **Machelen** fin debt **EUR26.37m** Farys lease **EUR16.90m** · **AGB Tienen** fin debt **EUR16.93m** · **AG Museum Leuven** fin debt **EUR14.51m** · **Gingelom** Fluvius reval **EUR9.75m** fin debt **EUR3.86m** · prior **AGB MAC** fin debt **EUR40.3m** leasing **EUR40.8m** · **Mintus** dual **EUR26.36m** · Digipolis assets **EUR73.61m** · **AG Vespa** fin debt **EUR179.6m** DBFM **EUR109.4m** · **sogent** AFM **−EUR3.90m** debt **EUR96.3m** · AG-O cum loss **−EUR29.2m** · Zorgbedrijf Antwerpen AFM **−EUR18.87m** debt **EUR220m** / Dodoens equity **−EUR18.88m** / Hasselt ~EUR95–103m stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1360)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 36442 |
+| commitments.csv | 4960 |
+| leaderboard.csv | 7163 |
+| entities.csv | 1107 |
+| sources.csv | 2576 |
+| FOI ready | 1003 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1051 |
+| research_queue open | rq_116 deferred + rq_1361 hole-fill after progress |
+
+### What improved since tick 1350
+
+- **VL residual dual JR2025 leftover IGS/NV/cv (tick1351-1359):** **Nuhma cv** assets **693.83m** PnL **+26.27m** div **33.50m** · **NUHMA AC** assets **630.63m** PnL **+8.77m** · **Bionerga** assets **82.92m** PnL **−33.80m** · **IVBO** assets **79.79m** omzet **55.56m** · **SOLVA** assets **64.24m** omzet **25.52m** · **NUHMA DC** assets **52.32m** PnL **−1.21m** debt **20.51m** · **EcoWerf** assets **46.23m** omzet **53.57m** · **Nubema** assets **188.5k** omzet **12.2k** uncalled **375k** · Limburg.net glossy-only — no invented euros.
+- **NEW (tick1360):** **ECO2050** (KBO 0699.503.028) leftover erkende cv founded by Nuhma cv / Nubema / Nuhmeris of already-mined Limburg cities. Official NBB WVV VOL-inb deposit **2026-00169452** PDF (3.93MB / 42p; AV 12.06.2026; neerlegging 15.06.2026). Assets **11.540.749** · FVA **11.070.000** (Otary **11.000.000** + Sunfin **70.000**) · cash **65.090 DROP** vs 145.130 · PnL **+500.298** · dividend B **408.870**. FOI ready. Every-10 progress refresh from on-disk CSVs.
+- **Dual map themes:** **leftover klimaat-holding NV/cv + citizen-coop FVA loan shells** (Nuhma cv 694m / NUHMA AC 631m / ECO2050 11.54m Otary 11m / Nubema 188.5k) · leftover waste IGS/NV (Bionerga 83m PnL −33.8m / IVBO 80m / EcoWerf 46m) · leftover IGS streek (SOLVA 64m) · prior leftover IGS waste/water/streek + EVA LRM-portfolio + leftover zorg live BBC stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
 ## Snapshot at **tick 1350** (2026-08-18)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
