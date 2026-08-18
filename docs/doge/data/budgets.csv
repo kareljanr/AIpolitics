@@ -36063,3 +36063,46 @@ bud_aqd_fin_cost_2025,igs_aquaduin,2025,59757,,,executed,src_aqd_jr2025_pdf,stro
 bud_aqd_pnl_2025,igs_aquaduin,2025,2597106,,,executed,src_aqd_jr2025_pdf,strong,2025 PnL 2597105.70 all to reserves; tick1349; primary official WVV
 bud_aqd_capex_2025,igs_aquaduin,2025,7599263,,,executed,src_aqd_jr2025_pdf,strong,2025 geinvesteerd in vast actief 7599263.41 commentaar; tick1349; primary official WVV
 bud_aqd_kapsu_recv_2025,igs_aquaduin,2025,4095522,,,executed,src_aqd_jr2025_pdf,strong,2025 ontvangen kapitaalsubsidies 4095522.43 commentaar; tick1349; primary official WVV
+bud_iws_assets_2025,igs_interwaas,2025,78369748,,,executed,src_iws_jr2025_pdf,strong,2025 assets 78369747.86; tick1350; primary official WVV 20/58
+bud_iws_assets_2024,igs_interwaas,2024,76794255,,,executed,src_iws_jr2025_pdf,strong,2024 assets 76794254.77 comparative; tick1350; primary official WVV
+bud_iws_fixed_2025,igs_interwaas,2025,13979099,,,executed,src_iws_jr2025_pdf,strong,2025 vaste activa 13979098.51; tick1350; primary official WVV 21/28
+bud_iws_mva_2025,igs_interwaas,2025,13255532,,,executed,src_iws_jr2025_pdf,strong,2025 MVA 13255532.21; tick1350; primary official WVV 22/27
+bud_iws_buildings_2025,igs_interwaas,2025,2249851,,,executed,src_iws_jr2025_pdf,strong,2025 terreinen en gebouwen 2249851.07; tick1350; primary official WVV 22
+bud_iws_cip_2025,igs_interwaas,2025,10755384,,,executed,src_iws_jr2025_pdf,strong,2025 activa in aanbouw 10755384.18 JUMP vs 5501926.17 Heidebaan-Noord + Eurolaan 4A; tick1350; primary official WVV 27
+bud_iws_fva_2025,igs_interwaas,2025,723566,,,executed,src_iws_jr2025_pdf,strong,2025 FVA 723566.30; tick1350; primary official WVV 28
+bud_iws_current_2025,igs_interwaas,2025,64390649,,,executed,src_iws_jr2025_pdf,strong,2025 vlottende activa 64390649.35; tick1350; primary official WVV 29/58
+bud_iws_ltrecv_2025,igs_interwaas,2025,13845107,,,executed,src_iws_jr2025_pdf,strong,2025 LT recv 13845107.42 Mijn VerbouwLeningen; tick1350; primary official WVV 29
+bud_iws_stock_2025,igs_interwaas,2025,12405497,,,executed,src_iws_jr2025_pdf,strong,2025 voorraden onroerend voor verkoop 12405497.08; tick1350; primary official WVV 35
+bud_iws_strecv_2025,igs_interwaas,2025,6156862,,,executed,src_iws_jr2025_pdf,strong,2025 ST recv 6156861.65; tick1350; primary official WVV 40/41
+bud_iws_trade_recv_2025,igs_interwaas,2025,1316845,,,executed,src_iws_jr2025_pdf,strong,2025 handelsvorderingen 1316845.00; tick1350; primary official WVV 40
+bud_iws_invest_2025,igs_interwaas,2025,30479135,,,executed,src_iws_jr2025_pdf,strong,2025 geldbeleggingen 30479135.00 JUMP vs 20902101.60 termijn 10.5m; tick1350; primary official WVV 50/53
+bud_iws_cash_2025,igs_interwaas,2025,1439206,,,executed,src_iws_jr2025_pdf,strong,2025 liquide middelen 1439206.24 DROP vs 14135538.60 drop 12696332.36; tick1350; primary official WVV 54/58
+bud_iws_cash_2024,igs_interwaas,2024,14135539,,,executed,src_iws_jr2025_pdf,strong,2024 liquide middelen 14135538.60 comparative; tick1350; primary official WVV
+bud_iws_equity_2025,igs_interwaas,2025,55113218,,,executed,src_iws_jr2025_pdf,strong,2025 equity 55113217.68; tick1350; primary official WVV 10/15
+bud_iws_inbreng_2025,igs_interwaas,2025,3705675,,,executed,src_iws_jr2025_pdf,strong,2025 inbreng buiten kapitaal 3705675.00; tick1350; primary official WVV 10/11
+bud_iws_reserves_2025,igs_interwaas,2025,50881628,,,executed,src_iws_jr2025_pdf,strong,2025 reserves 50881628.22; tick1350; primary official WVV 13
+bud_iws_avail_res_2025,igs_interwaas,2025,50043294,,,executed,src_iws_jr2025_pdf,strong,2025 beschikbare reserves / Waas Fonds 50043293.51; tick1350; primary official WVV 133
+bud_iws_prov_2025,igs_interwaas,2025,4582368,,,executed,src_iws_jr2025_pdf,strong,2025 voorzieningen 4582368.38; tick1350; primary official WVV 16
+bud_iws_milieu_prov_2025,igs_interwaas,2025,4151914,,,executed,src_iws_jr2025_pdf,strong,2025 milieuvoorzieningen 4151913.73 PFAS Kattestraat; tick1350; primary official WVV 163
+bud_iws_debt_2025,igs_interwaas,2025,18674162,,,executed,src_iws_jr2025_pdf,strong,2025 schulden 18674161.80; tick1350; primary official WVV 17/49
+bud_iws_ltdebt_2025,igs_interwaas,2025,13444543,,,executed,src_iws_jr2025_pdf,strong,2025 LT schulden 13444543.42; tick1350; primary official WVV 17
+bud_iws_ltfin_2025,igs_interwaas,2025,299436,,,executed,src_iws_jr2025_pdf,strong,2025 LT fin achtergesteld 299436.00; tick1350; primary official WVV 170
+bud_iws_ltother_2025,igs_interwaas,2025,13145107,,,executed,src_iws_jr2025_pdf,strong,2025 LT overige schulden 13145107.42 energieleningen-tegenhanger; tick1350; primary official WVV 178/9
+bud_iws_stdebt_2025,igs_interwaas,2025,3655255,,,executed,src_iws_jr2025_pdf,strong,2025 ST schulden 3655255.01; tick1350; primary official WVV 42/48
+bud_iws_trade_pay_2025,igs_interwaas,2025,817163,,,executed,src_iws_jr2025_pdf,strong,2025 leveranciers 817163.38; tick1350; primary official WVV 44
+bud_iws_opsrev_2025,igs_interwaas,2025,9893891,,,executed,src_iws_jr2025_pdf,strong,2025 bedrijfsopbrengsten 9893890.61; tick1350; primary official WVV 70/76A
+bud_iws_omzet_2025,igs_interwaas,2025,2912087,,,executed,src_iws_jr2025_pdf,strong,2025 omzet 2912086.70 DROP 40.86pct vs 4924206.40; tick1350; primary official WVV 70
+bud_iws_omzet_2024,igs_interwaas,2024,4924206,,,executed,src_iws_jr2025_pdf,strong,2024 omzet 4924206.40 comparative; tick1350; primary official WVV
+bud_iws_otherops_2025,igs_interwaas,2025,7377205,,,executed,src_iws_jr2025_pdf,strong,2025 andere bedrijfsopbrengsten 7377204.98; tick1350; primary official WVV 74
+bud_iws_prodva_2025,igs_interwaas,2025,3352740,,,executed,src_iws_jr2025_pdf,strong,2025 geproduceerde vaste activa 3352739.86; tick1350; primary official WVV 72
+bud_iws_opscost_2025,igs_interwaas,2025,8684689,,,executed,src_iws_jr2025_pdf,strong,2025 bedrijfskosten 8684689.32; tick1350; primary official WVV 60/66A
+bud_iws_goods_2025,igs_interwaas,2025,1446108,,,executed,src_iws_jr2025_pdf,strong,2025 handelsgoederen 1446108.15; tick1350; primary official WVV 60
+bud_iws_diensten_2025,igs_interwaas,2025,2735316,,,executed,src_iws_jr2025_pdf,strong,2025 diensten 2735315.76; tick1350; primary official WVV 61
+bud_iws_pers_2025,igs_interwaas,2025,4303553,,,executed,src_iws_jr2025_pdf,strong,2025 personeel 4303553.26; VTE gem 44.43 start 51/46.1 einde 45/41.6; tick1350; primary official WVV 62
+bud_iws_expl_2025,igs_interwaas,2025,1209201,,,executed,src_iws_jr2025_pdf,strong,2025 bedrijfswinst 1209201.29; tick1350; primary official WVV 9901
+bud_iws_fin_opbr_2025,igs_interwaas,2025,1957285,,,executed,src_iws_jr2025_pdf,strong,2025 financiele opbrengsten 1957285.00; tick1350; primary official WVV 75/76B
+bud_iws_mslo_div_2025,igs_interwaas,2025,1404706,,,executed,src_iws_jr2025_pdf,strong,2025 opbrengsten uit FVA / MSLO dividend 1404705.97; tick1350; primary official WVV 750
+bud_iws_pnl_pretax_2025,igs_interwaas,2025,3208996,,,executed,src_iws_jr2025_pdf,strong,2025 winst voor belasting 3208995.73; tick1350; primary official WVV 9903
+bud_iws_tax_2025,igs_interwaas,2025,694933,,,executed,src_iws_jr2025_pdf,strong,2025 belasting 694932.79; tick1350; primary official WVV 67/77
+bud_iws_pnl_2025,igs_interwaas,2025,2514063,,,executed,src_iws_jr2025_pdf,strong,2025 PnL 2514062.94; tick1350; primary official WVV 9904
+bud_iws_waasfonds_add_2025,igs_interwaas,2025,3390408,,,executed,src_iws_jr2025_pdf,strong,2025 toevoeging overige reserves MSLO LPW 3390408.25; tick1350; primary official WVV 6921

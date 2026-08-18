@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1350** (2026-08-18)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1341-1350 leftover IGS: **IGEAN** · **IDM** · **IVM** · **ILvA** · **IVVO** · **WVI** · **IVIO** operational · **Creat** · **Aquaduin** · **Interwaas** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1341-1350 is VL residual dual L5 leftover IGS (not near-complete of 348bn):** **Interwaas** assets **78.37m** cash **1.44m DROP 12.70m** beleggingen **30.48m** omzet **2.91m** · **WVI** assets **241.0m** stock **181.88m** omzet **34.23m** · **IGEAN DV** assets **103.92m** inv **68.19m** · **Aquaduin** assets **99.09m** omzet **26.50m** sanering **31.33m** · **Creat** omzet **89.38m** ST recv **16.39m** · leftover IGS live WVV (IVM 53.70m / ILvA 47.88m / IVVO 24.42m / IDM 9.53m) · IVIO operational cityfee **10.04m** no statutory WVV · prior leftover EVA/zorg stack retained |
+| **E. FOI-ready gaps** | **~993** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1041** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek shells** (**NEW Interwaas** assets **EUR78.37m** cash **EUR1.44m DROP 12.70m** beleggingen **EUR30.48m** omzet **EUR2.91m** · **WVI** assets **EUR241.0m** stock **EUR181.88m** · **IGEAN DV** assets **EUR103.92m** inv **EUR68.19m** · **Aquaduin** assets **EUR99.09m** omzet **EUR26.50m** sanering **EUR31.33m** · **Creat** omzet **EUR89.38m** · leftover IGS IVM/ILvA/IVVO/IDM/IVIO · prior **EVA LSM** assets **EUR85.85m** cash **EUR3.39m DROP 10.74m** portfolio **EUR58.31m** PnL **+EUR1.5k** · **WV Zorgband** assets **EUR61.86m** PnL **−EUR5.83m** lease **EUR43.75m** · **WV Zorgbedrijf Brasschaat** assets **EUR28.94m** cash **EUR2.65m** BBR **−EUR5.39m** LT-recv **EUR17.90m** · leftover zorg live BBC Het Dak / OPcura / BVK / Weldenderend · leftover FOI Vormingscentrum Malle / Inagro / Sleutelzorg · prior **APB Hooibeekhoeve** assets **EUR5.93m** cash **EUR2.65m** ST recv **EUR2.82m** BBR **+EUR1.30m** · **EVA Pluimveehouderij** assets **EUR8.63m** cash **EUR4.08m** ST recv **EUR4.46m** BBR **+EUR1.17m** · **APB Vonk** assets **EUR1.02m** cash **EUR0.96m** BBR **+EUR0.16m** · leftover FOI (Blankenberge / Campus Vesta / Monumentenwacht / Vlabinvest / Zilvermeer / Zorg HH / **EVA Kinderopvang Dilbeek**) · prior **APB KampC** assets **EUR5.93m** cash **EUR2.65m** ST recv **EUR3.06m** BBR **+EUR2.39m** J5/T2 werksub gap **EUR1.25m** · **APB PSES** assets **EUR186.52m** ST recv **EUR165.31m** BBR **−EUR1.29m** · **APB GKC** assets **EUR2.67m** cash **EUR2.11m** · **APB Havencentrum** assets **EUR0.97m** Havenwereld **EUR0.40m** · **AGBIM** CCAO **EUR8.91m** · **AGB Maaseik** fin debt **EUR1.60m** AFM **−EUR0.67m** · prior **APB VERA** fin debt **EUR1.72m** equity **−EUR1.64m** straight loan **EUR1.10m** · **Edegem** fin debt **EUR14.05m** pension **EUR23.40m** · **Beerse city** fin debt **EUR13.82m** · **AGB Beerse** fin debt **EUR5.02m** · **Pepingen city** fin debt **EUR3.47m** · **Vleteren** fin debt **EUR3.32m** · prior **Stad+OCMW Kortenaken** fin debt **EUR10.57m** IGS EV-reval **EUR8.90m** OCMW equity **−EUR5.41m** · **Heusden-Zolder** fin debt **EUR37.85m** IGS reval **EUR31.12m** · **Kapelle-op-den-Bos** fin debt **EUR18.87m** · **Oud-Heverlee** fin debt **EUR15.18m** · **Diepenbeek city** fin debt **EUR13.59m** IGS reval **EUR19.43m** · **Huldenberg** fin debt **EUR9.56m** · **AGB Kortenaken** fin debt **EUR3.28m** leasing **EUR3.22m** · **Voeren** fin debt **EUR3.37m** · **AGB Diepenbeek** fin debt **EUR3.03m** · **Steenokkerzeel** fin debt **EUR2.49m** · prior **Stad+OCMW Bekkevoort** fin debt **EUR9.77m** IGS EV-reval **EUR5.90m** · **HH city** fin debt **EUR17.37m** · **AGB Masterplan HH** fin debt **EUR27.81m** · **AGB Sport HH** fin debt **EUR10.72m** · **AGB SCO Ronse** fin debt **EUR22.65m** · **Ronse city** fin debt **EUR25.02m** pension **EUR19.50m** · **Kraainem** fin debt **EUR6.40m** · **Tielt-Winge** fin debt **EUR8.52m** · prior **Stad+OCMW Tienen** fin debt **EUR59.73m** pension **EUR51.29m** · **Machelen** fin debt **EUR26.37m** Farys lease **EUR16.90m** · **AGB Tienen** fin debt **EUR16.93m** · **AG Museum Leuven** fin debt **EUR14.51m** · **Gingelom** Fluvius reval **EUR9.75m** fin debt **EUR3.86m** · prior **AGB MAC** fin debt **EUR40.3m** leasing **EUR40.8m** · **Mintus** dual **EUR26.36m** · Digipolis assets **EUR73.61m** · **AG Vespa** fin debt **EUR179.6m** DBFM **EUR109.4m** · **sogent** AFM **−EUR3.90m** debt **EUR96.3m** · AG-O cum loss **−EUR29.2m** · Zorgbedrijf Antwerpen AFM **−EUR18.87m** debt **EUR220m** / Dodoens equity **−EUR18.88m** / Hasselt ~EUR95–103m stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1350)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 36107 |
+| commitments.csv | 4951 |
+| leaderboard.csv | 7154 |
+| entities.csv | 1097 |
+| sources.csv | 2535 |
+| FOI ready | 993 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1041 |
+| research_queue open | rq_116 deferred + rq_1351 hole-fill after progress |
+
+### What improved since tick 1340
+
+- **VL residual dual JR2025 leftover IGS (tick1341-1349):** **WVI** assets **241.0m** stock **181.88m** omzet **34.23m** · **IGEAN DV** assets **103.92m** inv **68.19m** · **Aquaduin** assets **99.09m** omzet **26.50m** sanering **31.33m** · **Creat** omzet **89.38m** ST recv **16.39m** · leftover IGS live WVV (IVM 53.70m / ILvA 47.88m / IVVO 24.42m / IDM 9.53m) · IVIO operational cityfee **10.04m** no statutory WVV — no invented euros.
+- **NEW (tick1350):** **Interwaas** (KBO 0206.460.639) leftover IGS streekontwikkeling of already-mined Waasland cities. Official jaarverslag 2025 PDF (19.3MB / 65p; InDesign 21.05.2026) embeds interne WVV jaarrekening (verkort 4p). Assets **78.369.748** · cash **1.439.206 DROP** vs 14.135.539 · beleggingen **30.479.135** · omzet **2.912.087** DROP · PnL **+2.514.063**. FOI ready. Every-10 progress refresh from on-disk CSVs.
+- **Dual map themes:** **leftover IGS waste/water/streek shells** (WVI 241m / IGEAN 104m / Aquaduin 99m / Interwaas 78m / Creat 89m omzet) · leftover EVA LRM-portfolio (LSM 85.85m) · leftover zorg live BBC · leftover unpublished FOI stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
 ## Snapshot at **tick 1340** (2026-08-18)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
