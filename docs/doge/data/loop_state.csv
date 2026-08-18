@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-18T20:45:00Z,rq_1346,1346,no,tick1346 WVI leftover IGS residual; KBO 0205.157.869; live JR2025 WVV PDF; sourced euros assets 240.992m omzet 34.226m stock 181.883m pers 13.761m expl 1.335m PnL 1.278m; FOI ready; next rq_1347 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-18T21:15:00Z,rq_1347,1347,no,tick1347 IVIO leftover IGS residual; KBO 0213.897.173; live JR2025 official PDF; sourced euros cityfee 10.040m BT1 5.649m parks 2.274m BT3 2.485m RC 3.083m; FOI ready statutory WVV; next rq_1348 residual dual L5 VL; continuous hole_fill

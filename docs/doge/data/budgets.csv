@@ -35971,3 +35971,30 @@ bud_wvi_fin_cost_2025,igs_wvi,2025,667027,,,executed,src_wvi_jr2025_pdf,strong,2
 bud_wvi_pnl_2025,igs_wvi,2025,1278494,,,executed,src_wvi_jr2025_pdf,strong,2025 PnL 1278494.20 was -2104801.58; added to beschikbare reserves; tick1346; primary WVV 9904 + commissaris
 bud_wvi_comm_fee_2025,igs_wvi,2025,8016,,,executed,src_wvi_jr2025_pdf,strong,2025 commissaris Kantoor Hosten Walter Hosten 8015.65; tick1346; primary WVV 6.16
 bud_wvi_cash_invest_drop_2025,igs_wvi,2025,9229677,,,executed,src_wvi_jr2025_pdf,strong,2025 beleggingen+cash DROP 9229677.40 (35132639.22 to 25902961.82) vs new 19m bank loans; tick1346; primary WVV
+bud_ivio_cityfee_2025,igs_ivio,2025,10040036,,,executed,src_ivio_jr2025_pdf,strong,2025 gemeentelijke bijdrage 10040036 was 9671746 budget 10738248; tick1347; primary official PDF eindafrekening; NOT WVV
+bud_ivio_budget_2025,igs_ivio,2025,10738248,,,executed,src_ivio_jr2025_pdf,strong,2025 jaarbudget 10738248 (header also 10738243); 7pct under; tick1347; primary official PDF
+bud_ivio_bt1_2025,igs_ivio,2025,5649253,,,executed,src_ivio_jr2025_pdf,strong,2025 bedrijfstak 1 ophaling/overslag 5649253 was 5643056 budget 5020112; tick1347; primary official PDF
+bud_ivio_parks_2025,igs_ivio,2025,2274114,,,executed,src_ivio_jr2025_pdf,strong,2025 bedrijfstak 2 recyclageparken 2274114 was 2125398 budget 2521032; tick1347; primary official PDF
+bud_ivio_parks_budget_2025,igs_ivio,2025,2521032,,,executed,src_ivio_jr2025_pdf,strong,2025 parks budget 2521032 vs executed 2274114 overschot 10pct; tick1347; primary official PDF
+bud_ivio_bt3_2025,igs_ivio,2025,2485441,,,executed,src_ivio_jr2025_pdf,strong,2025 bedrijfstak 3 afzet 2485441 was 2155826 budget 3117040; tick1347; primary official PDF
+bud_ivio_bt3_budget_2025,igs_ivio,2025,3117040,,,executed,src_ivio_jr2025_pdf,strong,2025 BT3 budget 3117040 vs executed 2485441; tick1347; primary official PDF
+bud_ivio_retributie_2025,igs_ivio,2025,3303540,,,executed,src_ivio_jr2025_pdf,strong,2025 retributies 3303540.25 (HV 3043132 + PMD 260408.25) voorschot 3397488 saldo -93947.75; tick1347; primary official PDF
+bud_ivio_rc_2025,igs_ivio,2025,3082966,,,executed,src_ivio_jr2025_pdf,strong,2025 RC schuld IVIO aan gemeenten 3082966 (beginsaldo 2486574.54); tick1347; primary official PDF AR 489
+bud_ivio_extra_2025,igs_ivio,2025,102670,,,executed,src_ivio_jr2025_pdf,strong,2025 extra niet-gesolidariseerde gemeentelijke diensten 102670; tick1347; primary official PDF
+bud_ivio_izegem_fee_2025,igs_ivio,2025,2317651,,,executed,src_ivio_jr2025_pdf,strong,2025 Izegem cityfee 2317651 was 2281138 budget 2423256; tick1347; primary official PDF per-vennoot
+bud_ivio_tielt_fee_2025,igs_ivio,2025,2542169,,,executed,src_ivio_jr2025_pdf,strong,2025 Tielt cityfee 2542169 was 2399352 budget 2730612 (Meulebeke fusion); tick1347; primary official PDF
+bud_ivio_ingelmunster_fee_2025,igs_ivio,2025,888691,,,executed,src_ivio_jr2025_pdf,strong,2025 Ingelmunster cityfee 888691 was 876466 budget 958728; tick1347; primary official PDF
+bud_ivio_izegem_groen_2025,igs_ivio,2025,38164,,,executed,src_ivio_jr2025_pdf,strong,2025 Izegem groen via composteerbare zakken 38164 extra; tick1347; primary official PDF
+bud_ivio_park_depr_2025,igs_ivio,2025,229923,,,executed,src_ivio_jr2025_pdf,strong,2025 park afschrijvingen 229923 was 179435; tick1347; primary official PDF
+bud_ivio_recupel_2025,igs_ivio,2025,91738,,,executed,src_ivio_jr2025_pdf,strong,2025 Recupel AEEA 91738 +22pct vs 2024; tick1347; primary official PDF
+bud_ivio_valumat_2025,igs_ivio,2025,156000,,,executed,src_ivio_jr2025_pdf,strong,2025 Valumat matrassen 156000 vs budget 85000; tick1347; primary official PDF
+bud_ivio_park_citizen_2025,igs_ivio,2025,228127,,,executed,src_ivio_jr2025_pdf,strong,2025 burger-parkontvangsten 228127 vs budget 190000; tick1347; primary official PDF
+bud_ivio_textiel_2025,igs_ivio,2025,93000,,,executed,src_ivio_jr2025_pdf,strong,2025 textiel ontvangst VICT/BELCOTEX 93000 DROP vs 431375; tick1347; primary official PDF
+bud_ivio_park_uitzend_drop_2025,igs_ivio,2025,107682,,,executed,src_ivio_jr2025_pdf,strong,2025 parks uitzend DROP 107682 / 47pct; tick1347; primary official PDF (delta not org-wide pers)
+bud_ivio_ledeg_fee_2025,igs_ivio,2025,754173,,,executed,src_ivio_jr2025_pdf,strong,2025 Ledegem cityfee 754173 was 736822 budget 810744; tick1347; primary official PDF
+bud_ivio_ardooie_fee_2025,igs_ivio,2025,751458,,,executed,src_ivio_jr2025_pdf,strong,2025 Ardooie cityfee 751458 was 736819 budget 791856; tick1347; primary official PDF
+bud_ivio_dentergem_fee_2025,igs_ivio,2025,685077,,,executed,src_ivio_jr2025_pdf,strong,2025 Dentergem cityfee 685077 was 672388 budget 749556; tick1347; primary official PDF
+bud_ivio_oostrozebeke_fee_2025,igs_ivio,2025,641339,,,executed,src_ivio_jr2025_pdf,strong,2025 Oostrozebeke cityfee 641339 was 611660 budget 674424; tick1347; primary official PDF
+bud_ivio_pittem_fee_2025,igs_ivio,2025,534054,,,executed,src_ivio_jr2025_pdf,strong,2025 Pittem cityfee 534054 was 505708 budget 629232; tick1347; primary official PDF
+bud_ivio_lendelede_fee_2025,igs_ivio,2025,476873,,,executed,src_ivio_jr2025_pdf,strong,2025 Lendelede cityfee 476873 was 446589 budget 488724; tick1347; primary official PDF
+bud_ivio_ruiselede_fee_2025,igs_ivio,2025,448551,,,executed,src_ivio_jr2025_pdf,strong,2025 Ruiselede cityfee 448551 was 404804 budget 481116; exit 31.12.2025 to Wingene/Mirom; tick1347; primary official PDF
