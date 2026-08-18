@@ -36106,3 +36106,34 @@ bud_iws_pnl_pretax_2025,igs_interwaas,2025,3208996,,,executed,src_iws_jr2025_pdf
 bud_iws_tax_2025,igs_interwaas,2025,694933,,,executed,src_iws_jr2025_pdf,strong,2025 belasting 694932.79; tick1350; primary official WVV 67/77
 bud_iws_pnl_2025,igs_interwaas,2025,2514063,,,executed,src_iws_jr2025_pdf,strong,2025 PnL 2514062.94; tick1350; primary official WVV 9904
 bud_iws_waasfonds_add_2025,igs_interwaas,2025,3390408,,,executed,src_iws_jr2025_pdf,strong,2025 toevoeging overige reserves MSLO LPW 3390408.25; tick1350; primary official WVV 6921
+bud_solva_assets_2025,igs_solva,2025,64235491,,,executed,src_solva_jr2025_pdf,strong,2025 assets 64235491 commissaris; tick1351; primary official JR
+bud_solva_pnl_2025,igs_solva,2025,-197137,,,executed,src_solva_jr2025_pdf,strong,2025 PnL -197137; tick1351; primary official JR + commissaris + AV
+bud_solva_fixed_2025,igs_solva,2025,8481461,,,executed,src_solva_jr2025_pdf,strong,2025 vaste activa 8481461; tick1351; primary official JR
+bud_solva_fixed_2024,igs_solva,2024,8473135,,,executed,src_solva_jr2025_pdf,strong,2024 vaste activa 8473135 comparative; tick1351; primary official JR
+bud_solva_cash_2025,igs_solva,2025,2989696,,,executed,src_solva_jr2025_pdf,strong,2025 liquide middelen 2989696 JUMP vs 164719; tick1351; primary official JR
+bud_solva_cash_2024,igs_solva,2024,164719,,,executed,src_solva_jr2025_pdf,strong,2024 liquide middelen 164719 comparative; tick1351; primary official JR
+bud_solva_accrual_2025,igs_solva,2025,725349,,,executed,src_solva_jr2025_pdf,strong,2025 overlopende rekeningen 725349; tick1351; primary official JR
+bud_solva_accrual_2024,igs_solva,2024,1346260,,,executed,src_solva_jr2025_pdf,strong,2024 overlopende rekeningen 1346260 comparative; tick1351; primary official JR
+bud_solva_ltdebt_2025,igs_solva,2025,259650,,,executed,src_solva_jr2025_pdf,strong,2025 LT schulden 259650; tick1351; primary official JR
+bud_solva_ltdebt_2024,igs_solva,2024,281288,,,executed,src_solva_jr2025_pdf,strong,2024 LT schulden 281288 comparative; tick1351; primary official JR
+bud_solva_diensten_2025,igs_solva,2025,1312460,,,executed,src_solva_jr2025_pdf,strong,2025 diensten 1312460; tick1351; primary official JR
+bud_solva_diensten_2024,igs_solva,2024,1124490,,,executed,src_solva_jr2025_pdf,strong,2024 diensten 1124490 comparative; tick1351; primary official JR
+bud_solva_afschr_2025,igs_solva,2025,237881,,,executed,src_solva_jr2025_pdf,strong,2025 afschrijvingen 237881; tick1351; primary official JR
+bud_solva_afschr_2024,igs_solva,2024,351085,,,executed,src_solva_jr2025_pdf,strong,2024 afschrijvingen 351085 comparative; tick1351; primary official JR
+bud_solva_fincost_2025,igs_solva,2025,429332,,,executed,src_solva_jr2025_pdf,strong,2025 financiele kosten 429332; tick1351; primary official JR
+bud_solva_fincost_2024,igs_solva,2024,448390,,,executed,src_solva_jr2025_pdf,strong,2024 financiele kosten 448390 comparative; tick1351; primary official JR
+bud_solva_severance_2025,igs_solva,2025,155500,,,executed,src_solva_jr2025_pdf,strong,2025 niet-recurrente ontslagvergoeding 155500 RvB dec 2025; tick1351; primary official JR
+bud_solva_omzet_2025,igs_solva,2025,25518838,,,executed,src_solva_jr2025_pdf,strong,2025 omzet 25518837.60 sum official 70-tabel JUMP vs 15307519.24; tick1351; primary official JR
+bud_solva_omzet_2024,igs_solva,2024,15307519,,,executed,src_solva_jr2025_pdf,strong,2024 omzet 15307519.24 sum official 70-tabel comparative; tick1351; primary official JR
+bud_solva_omzet_infra_2025,igs_solva,2025,13258535,,,executed,src_solva_jr2025_pdf,strong,2025 verkoop gemeentelijke infra 13258534.73; tick1351; primary official JR 709300
+bud_solva_omzet_infra_2024,igs_solva,2024,6462314,,,executed,src_solva_jr2025_pdf,strong,2024 verkoop gemeentelijke infra 6462314.19 comparative; tick1351; primary official JR 709300
+bud_solva_omzet_arch_2025,igs_solva,2025,3227014,,,executed,src_solva_jr2025_pdf,strong,2025 archeologie 3227014.14; tick1351; primary official JR 700001
+bud_solva_omzet_studie_2025,igs_solva,2025,2714125,,,executed,src_solva_jr2025_pdf,strong,2025 studie- en begeleiding 2714124.52; tick1351; primary official JR 700004
+bud_solva_omzet_bt_2025,igs_solva,2025,3769505,,,executed,src_solva_jr2025_pdf,strong,2025 verkoop bedrijventerreinen 3769504.57; tick1351; primary official JR 709200
+bud_solva_omzet_wonen_2025,igs_solva,2025,863885,,,executed,src_solva_jr2025_pdf,strong,2025 verkoop projectontwikkeling wonen 863884.85; tick1351; primary official JR 709314
+bud_solva_omzet_huur_2025,igs_solva,2025,658555,,,executed,src_solva_jr2025_pdf,strong,2025 huurinkomsten 658554.97; tick1351; primary official JR 709400
+bud_solva_omzet_prev_2025,igs_solva,2025,551996,,,executed,src_solva_jr2025_pdf,strong,2025 preventiedienst GIP PBW 551996.20; tick1351; primary official JR 700350
+bud_solva_omzet_regio_2025,igs_solva,2025,130009,,,executed,src_solva_jr2025_pdf,strong,2025 bijdrage regiowerking 130008.89; tick1351; primary official JR 700400
+bud_solva_omzet_klimaat_2025,igs_solva,2025,104641,,,executed,src_solva_jr2025_pdf,strong,2025 bijdrage klimaatwerking 104640.61; tick1351; primary official JR 700450
+bud_solva_omzet_energ_2025,igs_solva,2025,171527,,,executed,src_solva_jr2025_pdf,strong,2025 energieleningen 171526.77; tick1351; primary official JR 709100
+bud_solva_omzet_vme_2025,igs_solva,2025,69047,,,executed,src_solva_jr2025_pdf,strong,2025 beheersvergoeding VME 69047.35; tick1351; primary official JR 709105

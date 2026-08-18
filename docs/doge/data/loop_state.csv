@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-18T22:20:00Z,rq_1350,1350,no,tick1350 Interwaas leftover IGS residual + progress@1350; KBO 0206.460.639; live JR2025 WVV PDF; sourced euros omzet 2.912m assets 78.370m cash drop 12.696m beleggingen 30.479m PnL 2.514m; FOI ready per-vennoot/cash/NBB; next rq_1351 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-18T22:50:00Z,rq_1351,1351,no,tick1351 SOLVA leftover IGS residual; KBO 0200.305.493; live JR2025 PDF; sourced euros omzet 25.519m assets 64.235m cash JUMP 2.825m PnL -0.197m; FOI ready per-vennoot/stock/NBB; next rq_1352 residual dual L5 VL; continuous hole_fill
