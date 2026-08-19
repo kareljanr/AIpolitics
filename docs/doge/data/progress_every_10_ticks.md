@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1390** (2026-08-19)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1381-1390 leftover IGS: **INTERZA** · **INTERGEM** · **Imewo** · **Fluvius Kempen** · **Fluvius West** · **Fluvius Antwerpen** · **Fluvius Halle-Vilvoorde** · **Fluvius Limburg** · **Fluvius Zenne-Dijle** · **Fluvius Riobra** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1381-1390 is VL residual dual L5 leftover Fluvius/IGS (not near-complete of 348bn):** **Fluvius West** assets **3.378bn** · **Fluvius Limburg** assets **3.255bn** · **Imewo** assets **3.069bn** · **Fluvius Zenne-Dijle** assets **2.522bn** · **Fluvius Antwerpen** assets **2.456bn** · **Fluvius Halle-Vilvoorde** assets **1.355bn** · **INTERGEM** assets **1.295bn** · **Fluvius Kempen** assets **1.159bn** · **Fluvius Riobra** assets **383.25m** omzet **22.11m** diensten **10.19m** · **INTERZA** assets **7.44m** · prior leftover IGS/EVA INCOVO/ISVAG/De Nekker/MIROM/IVAGO stack retained |
+| **E. FOI-ready gaps** | **~1033** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1081** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek/klimaat-holding/energy-DSO shells** (**NEW Fluvius Riobra** assets **EUR383.25m** omzet **EUR22.11m** diensten **EUR10.19m** debt **EUR122.29m** · **Fluvius Zenne-Dijle** assets **EUR2.522bn** omzet **EUR354.23m** diensten **EUR124.68m** · **Fluvius Limburg** assets **EUR3.255bn** · **Fluvius Halle-Vilvoorde** assets **EUR1.355bn** · **Fluvius Antwerpen** assets **EUR2.456bn** · **Fluvius West** assets **EUR3.378bn** · **Fluvius Kempen** assets **EUR1.159bn** · **Imewo** assets **EUR3.069bn** · **INTERGEM** assets **EUR1.295bn** · **INTERZA** assets **EUR7.44m** · prior leftover IGS/EVA INCOVO/ISVAG/De Nekker/MIROM/IVAGO/Veneco/IGEMO/Haviland/IMOG/IOK/Leiedal/Interleuven/Nuhma stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1390)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 38304 |
+| commitments.csv | 4990 |
+| leaderboard.csv | 7193 |
+| entities.csv | 1137 |
+| sources.csv | 2696 |
+| FOI ready | 1033 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1081 |
+| research_queue open | rq_116 deferred + rq_1391 hole-fill after progress |
+
+### What improved since tick 1380
+
+- **VL residual dual JR2025 leftover Fluvius/IGS (tick1381-1389):** **Fluvius West** assets **3.378bn** · **Fluvius Limburg** assets **3.255bn** · **Imewo** assets **3.069bn** · **Fluvius Zenne-Dijle** assets **2.522bn** · **Fluvius Antwerpen** assets **2.456bn** · **Fluvius Halle-Vilvoorde** assets **1.355bn** · **INTERGEM** assets **1.295bn** · **Fluvius Kempen** assets **1.159bn** · **INTERZA** assets **7.44m** — no invented euros.
+- **NEW (tick1390):** **Fluvius Riobra** (KBO 0878.051.819) leftover opdrachthoudende vereniging / IGS riolering of 25 Vlaams-Brabant municipalities. Official NBB WVV VOL-inb deposit **2026-00205662** PDF (1.79MB / 73p; AV 23.06.2026; created 27.06.2026). Assets **383.253.161** · omzet **22.112.318** (6.10 riolering; geo empty) · diensten **10.188.740** · debt **122.289.961** · related recv **74.413.510** · PnL **+1.313.482** · dividend 694 empty · 0 VTE. FOI ready. Every-10 progress refresh from on-disk CSVs.
+- **Dual map themes:** **leftover Fluvius energy DSO + leftover Fluvius sewerage IGS shells** (West 3.378bn / Limburg 3.255bn / Imewo 3.069bn / Zenne-Dijle 2.522bn / Antwerpen 2.456bn / Halle-Vilvoorde 1.355bn / INTERGEM 1.295bn / Kempen 1.159bn / Riobra 383.25m / INTERZA 7.44m) · prior leftover IGS waste/streek + Nuhma stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
 ## Snapshot at **tick 1380** (2026-08-19)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

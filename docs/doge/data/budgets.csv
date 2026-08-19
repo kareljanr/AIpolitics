@@ -38241,3 +38241,65 @@ bud_flzd_capex_wvv_2025,igs_flzd,2025,628449886,,,executed,src_flzd_jr2025_nbb,s
 bud_flzd_comm_2025,igs_flzd,2025,17532,,,executed,src_flzd_jr2025_nbb,strong,2025 commissaris 9505 17532; tick1389; primary official NBB WVV 9505
 bud_flzd_comm_extra_2025,igs_flzd,2025,43993,,,executed,src_flzd_jr2025_nbb,strong,2025 commissaris extra controle 95061 43993 + tax 9682; tick1389; primary official NBB WVV 95061
 bud_flzd_board_2025,igs_flzd,2025,29108,,,executed,src_flzd_jr2025_nbb,strong,2025 bestuurders 9503 29108; tick1389; primary official NBB WVV 9503
+bud_flri_assets_2025,igs_flri,2025,383253161,,,executed,src_flri_jr2025_nbb,strong,2025 assets 383253161 VOL-inb 20/58; tick1390; primary official NBB WVV
+bud_flri_assets_2024,igs_flri,2024,345043278,,,executed,src_flri_jr2025_nbb,strong,2024 assets 345043278 comparative; tick1390; primary official NBB WVV 20/58
+bud_flri_fixed_2025,igs_flri,2025,306642917,,,executed,src_flri_jr2025_nbb,strong,2025 vaste activa 306642917 vs 274491993; tick1390; primary official NBB WVV 21/28
+bud_flri_iva_2025,igs_flri,2025,2203635,,,executed,src_flri_jr2025_nbb,strong,2025 IVA 2203635 vs 2260451; tick1390; primary official NBB WVV 21
+bud_flri_iva_acq_2025,igs_flri,2025,355802,,,executed,src_flri_jr2025_nbb,strong,2025 IVA aanschaf 355802 (8021); tick1390; primary official NBB WVV 6.2.1
+bud_flri_mva_2025,igs_flri,2025,304403990,,,executed,src_flri_jr2025_nbb,strong,2025 MVA 304403990 vs 272196249; tick1390; primary official NBB WVV 22/27
+bud_flri_buildings_2025,igs_flri,2025,1636640,,,executed,src_flri_jr2025_nbb,strong,2025 terreinen/gebouwen 1636640 vs 1260441; tick1390; primary official NBB WVV 22
+bud_flri_buildings_acq_2025,igs_flri,2025,376199,,,executed,src_flri_jr2025_nbb,strong,2025 gebouwen aanschaf 376199 (8161); tick1390; primary official NBB WVV 6.3.1
+bud_flri_machines_2025,igs_flri,2025,235700437,,,executed,src_flri_jr2025_nbb,strong,2025 machines 235700437 vs 211424643; tick1390; primary official NBB WVV 23
+bud_flri_machines_acq_2025,igs_flri,2025,3909709,,,executed,src_flri_jr2025_nbb,strong,2025 machines aanschaf 3909709 (8162); tick1390; primary official NBB WVV 6.3.2
+bud_flri_furniture_2025,igs_flri,2025,575619,,,executed,src_flri_jr2025_nbb,strong,2025 meubilair 575619 vs 238065; tick1390; primary official NBB WVV 24
+bud_flri_furniture_acq_2025,igs_flri,2025,461842,,,executed,src_flri_jr2025_nbb,strong,2025 meubilair aanschaf 461842 (8163); tick1390; primary official NBB WVV 6.3.3
+bud_flri_cip_2025,igs_flri,2025,66491294,,,executed,src_flri_jr2025_nbb,strong,2025 CIP 66491294 vs 59273100; tick1390; primary official NBB WVV 27
+bud_flri_cip_acq_2025,igs_flri,2025,35763574,,,executed,src_flri_jr2025_nbb,strong,2025 CIP aanschaf 35763574 (8166); tick1390; primary official NBB WVV 6.3.6
+bud_flri_fva_2025,igs_flri,2025,35292,,,executed,src_flri_jr2025_nbb,strong,2025 FVA 35292 FSO 1.47pct 518544 A; tick1390; primary official NBB WVV 28
+bud_flri_fva_part_2025,igs_flri,2025,35292,,,executed,src_flri_jr2025_nbb,strong,2025 FVA deelnemingen 35292 FSO 0477.445.084; tick1390; primary official NBB WVV 282
+bud_flri_current_2025,igs_flri,2025,76610244,,,executed,src_flri_jr2025_nbb,strong,2025 vlottend 76610244 vs 70551286; tick1390; primary official NBB WVV 29/58
+bud_flri_strecv_2025,igs_flri,2025,76609348,,,executed,src_flri_jr2025_nbb,strong,2025 ST vorderingen 76609348 vs 70549921; tick1390; primary official NBB WVV 40/41
+bud_flri_trade_2025,igs_flri,2025,4252733,,,executed,src_flri_jr2025_nbb,strong,2025 handelsvorderingen 4252733 vs 172046; tick1390; primary official NBB WVV 40
+bud_flri_othrecv_2025,igs_flri,2025,72356615,,,executed,src_flri_jr2025_nbb,strong,2025 overige ST vorderingen 72356615 vs 70377875; tick1390; primary official NBB WVV 41
+bud_flri_cash_2025,igs_flri,2025,896,,,executed,src_flri_jr2025_nbb,strong,2025 liquide middelen 896 vs 1365; tick1390; primary official NBB WVV 54/58
+bud_flri_equity_2025,igs_flri,2025,260963200,,,executed,src_flri_jr2025_nbb,strong,2025 EV 260963200 vs 245967168; tick1390; primary official NBB WVV 10/15
+bud_flri_equity_2024,igs_flri,2024,245967168,,,executed,src_flri_jr2025_nbb,strong,2024 EV 245967168 comparative; tick1390; primary official NBB WVV 10/15
+bud_flri_inbreng_2025,igs_flri,2025,150450749,,,executed,src_flri_jr2025_nbb,strong,2025 inbreng 150450749 vs 152732098 (RI omzetting -2281349); tick1390; primary official NBB WVV 10/11
+bud_flri_reserves_2025,igs_flri,2025,24514589,,,executed,src_flri_jr2025_nbb,strong,2025 reserves 24514589 vs 23201107; tick1390; primary official NBB WVV 13
+bud_flri_capsub_2025,igs_flri,2025,85997862,,,executed,src_flri_jr2025_nbb,strong,2025 kapitaalsubsidies 85997862 vs 70033962; tick1390; primary official NBB WVV 15
+bud_flri_debt_2025,igs_flri,2025,122289961,,,executed,src_flri_jr2025_nbb,strong,2025 schulden 122289961 vs 99076111; tick1390; primary official NBB WVV 17/49
+bud_flri_debt_2024,igs_flri,2024,99076111,,,executed,src_flri_jr2025_nbb,strong,2024 schulden 99076111 comparative; tick1390; primary official NBB WVV 17/49
+bud_flri_lt_2025,igs_flri,2025,91296811,,,executed,src_flri_jr2025_nbb,strong,2025 LT schulden 91296811 vs 76278065; tick1390; primary official NBB WVV 17
+bud_flri_ltbank_2025,igs_flri,2025,90126811,,,executed,src_flri_jr2025_nbb,strong,2025 LT bank 90126811 vs 75108065; tick1390; primary official NBB WVV 173
+bud_flri_ltother_2025,igs_flri,2025,1170000,,,executed,src_flri_jr2025_nbb,strong,2025 LT overige leningen 1170000; tick1390; primary official NBB WVV 174
+bud_flri_st_2025,igs_flri,2025,29510070,,,executed,src_flri_jr2025_nbb,strong,2025 ST schulden 29510070 vs 21760405; tick1390; primary official NBB WVV 42/48
+bud_flri_st_due_2025,igs_flri,2025,1981254,,,executed,src_flri_jr2025_nbb,strong,2025 LT-due binnen jaar 1981254 vs 1960178; tick1390; primary official NBB WVV 42
+bud_flri_sttrade_2025,igs_flri,2025,5074885,,,executed,src_flri_jr2025_nbb,strong,2025 leveranciers 5074885 JUMP vs 1210; tick1390; primary official NBB WVV 440/4
+bud_flri_sttax_2025,igs_flri,2025,365028,,,executed,src_flri_jr2025_nbb,strong,2025 belastingschulden 365028 vs 237626; tick1390; primary official NBB WVV 450/3
+bud_flri_stother_2025,igs_flri,2025,22088903,,,executed,src_flri_jr2025_nbb,strong,2025 overige ST schulden 22088903 vs 19561390; tick1390; primary official NBB WVV 47/48
+bud_flri_accrued_2025,igs_flri,2025,1483080,,,executed,src_flri_jr2025_nbb,strong,2025 overlopend passief 1483080 (intresten); tick1390; primary official NBB WVV 492/3
+bud_flri_reldebt_2025,igs_flri,2025,78513930,,,executed,src_flri_jr2025_nbb,strong,2025 related-party schulden 78513930 (LT 73352689 / ST 5161241); tick1390; primary official NBB WVV 6.15 9352
+bud_flri_relrecv_2025,igs_flri,2025,74413510,,,executed,src_flri_jr2025_nbb,strong,2025 related-party vorderingen 74413510 vs 70377770; tick1390; primary official NBB WVV 6.15 9292
+bud_flri_opsinc_2025,igs_flri,2025,22206286,,,executed,src_flri_jr2025_nbb,strong,2025 bedrijfsopbrengsten 22206286 vs 19689232; tick1390; primary official NBB WVV 70/76A
+bud_flri_omzet_2025,igs_flri,2025,22112318,,,executed,src_flri_jr2025_nbb,strong,2025 omzet 22112318 vs 19605894; tick1390; primary official NBB WVV 70
+bud_flri_omzet_2024,igs_flri,2024,19605894,,,executed,src_flri_jr2025_nbb,strong,2024 omzet 19605894 comparative; tick1390; primary official NBB WVV 70
+bud_flri_omzet_rio_2025,igs_flri,2025,22112318,,,executed,src_flri_jr2025_nbb,strong,2025 omzet riolering/saneringsbijdrage 22112318; geo empty; tick1390; primary official NBB WVV 6.10
+bud_flri_othops_2025,igs_flri,2025,93968,,,executed,src_flri_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 93968 vs 83338; 740 empty; tick1390; primary official NBB WVV 74
+bud_flri_opscost_2025,igs_flri,2025,21540075,,,executed,src_flri_jr2025_nbb,strong,2025 bedrijfskosten 21540075 vs 18903622; tick1390; primary official NBB WVV 60/66A
+bud_flri_diensten_2025,igs_flri,2025,10188740,,,executed,src_flri_jr2025_nbb,strong,2025 diensten 10188740 vs 7461366; tick1390; primary official NBB WVV 61
+bud_flri_diensten_2024,igs_flri,2024,7461366,,,executed,src_flri_jr2025_nbb,strong,2024 diensten 7461366 comparative; tick1390; primary official NBB WVV 61
+bud_flri_deprec_2025,igs_flri,2025,8716202,,,executed,src_flri_jr2025_nbb,strong,2025 afschrijvingen 8716202 vs 8252121; tick1390; primary official NBB WVV 630
+bud_flri_othcost_2025,igs_flri,2025,2635134,,,executed,src_flri_jr2025_nbb,strong,2025 andere bedrijfskosten 2635134 vs 3190135; tick1390; primary official NBB WVV 640/8
+bud_flri_expl_2025,igs_flri,2025,666211,,,executed,src_flri_jr2025_nbb,strong,2025 expl +666211 vs +785610; tick1390; primary official NBB WVV 9901
+bud_flri_expl_2024,igs_flri,2024,785610,,,executed,src_flri_jr2025_nbb,strong,2024 expl +785610 comparative; tick1390; primary official NBB WVV 9901
+bud_flri_fininc_2025,igs_flri,2025,3266372,,,executed,src_flri_jr2025_nbb,strong,2025 financiele opbrengsten 3266372 vs 3815308; tick1390; primary official NBB WVV 75/76B
+bud_flri_fincost_2025,igs_flri,2025,2619100,,,executed,src_flri_jr2025_nbb,strong,2025 financiele kosten 2619100 vs 1887581; tick1390; primary official NBB WVV 65/66B
+bud_flri_pnl_2025,igs_flri,2025,1313482,,,executed,src_flri_jr2025_nbb,strong,2025 PnL +1313482 vs +2713338; tick1390; primary official NBB WVV 9904
+bud_flri_pnl_2024,igs_flri,2024,2713338,,,executed,src_flri_jr2025_nbb,strong,2024 PnL +2713338 comparative; tick1390; primary official NBB WVV 9904
+bud_flri_alloc_2025,igs_flri,2025,1313482,,,executed,src_flri_jr2025_nbb,strong,2025 te bestemmen 1313482 all to reserves 6921; 694 empty; tick1390; primary official NBB WVV 9906
+bud_flri_div_2025,igs_flri,2025,0,,,executed,src_flri_jr2025_nbb,strong,2025 dividend 694 empty (all PnL to reserves); tick1390; primary official NBB WVV 694
+bud_flri_capex_2025,igs_flri,2025,42689000,,,executed,src_flri_jr2025_nbb,strong,2025 bruto capex jaarverslag 42689000 (kerncijfers kEUR 42689); tick1390
+bud_flri_capex_wvv_2025,igs_flri,2025,40867126,,,executed,src_flri_jr2025_nbb,strong,2025 WVV bruto aanschaf IVA+MVA 40867126 (8021+8161+8162+8163+8166); tick1390; primary official NBB WVV 6.2/6.3
+bud_flri_comm_2025,igs_flri,2025,7093,,,executed,src_flri_jr2025_nbb,strong,2025 commissaris 9505 7093; tick1390; primary official NBB WVV 9505
+bud_flri_comm_extra_2025,igs_flri,2025,1650,,,executed,src_flri_jr2025_nbb,strong,2025 commissaris extra controle 95061 1650 + tax 95082 629; tick1390; primary official NBB WVV 95061
+bud_flri_board_2025,igs_flri,2025,29126,,,executed,src_flri_jr2025_nbb,strong,2025 bestuurders 9503 29126; tick1390; primary official NBB WVV 9503
