@@ -37135,3 +37135,61 @@ bud_ivoo_pnl_2024,igs_ivoo,2024,-489969,,,executed,src_ivoo_jr2025_nbb,strong,20
 bud_ivoo_comm_2025,igs_ivoo,2025,11500,,,executed,src_ivoo_jr2025_nbb,strong,2025 commissaris Walter HOSTEN 11500; tick1373; primary official NBB WVV 9505
 bud_ivoo_board_2025,igs_ivoo,2025,38036,,,executed,src_ivoo_jr2025_nbb,strong,2025 bestuurders 38036; tick1373; primary official NBB WVV 9503
 bud_ivoo_vat_out_2025,igs_ivoo,2025,1834844,,,executed,src_ivoo_jr2025_nbb,strong,2025 BTW door de vennootschap 1834844 vs 2483920; tick1373; primary official NBB WVV 6.13 9146
+bud_miwa_assets_2025,igs_miwa,2025,19597553,,,executed,src_miwa_jr2025_nbb,strong,2025 assets 19597553 VOL-inb 20/58 (commissaris 19597553.04); tick1374; primary official NBB WVV
+bud_miwa_assets_2024,igs_miwa,2024,17621021,,,executed,src_miwa_jr2025_nbb,strong,2024 assets 17621021 comparative; tick1374; primary official NBB WVV 20/58
+bud_miwa_fixed_2025,igs_miwa,2025,8542542,,,executed,src_miwa_jr2025_nbb,strong,2025 vaste activa 8542542 vs 7370059; tick1374; primary official NBB WVV 21/28
+bud_miwa_iva_2025,igs_miwa,2025,118991,,,executed,src_miwa_jr2025_nbb,strong,2025 IVA 118991 vs 108844 after aanschaf 49024; tick1374; primary official NBB WVV 21
+bud_miwa_mva_2025,igs_miwa,2025,8421439,,,executed,src_miwa_jr2025_nbb,strong,2025 MVA 8421439 vs 7258359; tick1374; primary official NBB WVV 22/27
+bud_miwa_buildings_2025,igs_miwa,2025,550382,,,executed,src_miwa_jr2025_nbb,strong,2025 terreinen en gebouwen 550382 vs 638734 after uitboek aanschaf 576782; tick1374; primary official NBB WVV 22
+bud_miwa_machines_2025,igs_miwa,2025,547558,,,executed,src_miwa_jr2025_nbb,strong,2025 installaties/machines 547558 vs 692406 (aanschaf 3329632 / afschr cum 2782073); tick1374; primary official NBB WVV 23
+bud_miwa_rollend_2025,igs_miwa,2025,619690,,,executed,src_miwa_jr2025_nbb,strong,2025 meubilair/rollend 619690 vs 735461; tick1374; primary official NBB WVV 24
+bud_miwa_othmva_2025,igs_miwa,2025,6093402,,,executed,src_miwa_jr2025_nbb,strong,2025 overige MVA/recyclageparken 6093402 vs 5017356 (aanschaf 10462803 / overboek 1428378); tick1374; primary official NBB WVV 26
+bud_miwa_cip_2025,igs_miwa,2025,610407,,,executed,src_miwa_jr2025_nbb,strong,2025 activa in aanbouw 610407 vs 174403 after aanschaf 1864382 + overboek -1428378; tick1374; primary official NBB WVV 27
+bud_miwa_fva_2025,igs_miwa,2025,2113,,,executed,src_miwa_jr2025_nbb,strong,2025 FVA 2113 (aandelen 771 after verkoop 669 + borg 1342; 6.4.1/6.5.1 not filed); tick1374; primary official NBB WVV 28
+bud_miwa_current_2025,igs_miwa,2025,11055011,,,executed,src_miwa_jr2025_nbb,strong,2025 vlottende activa 11055011 vs 10250963; tick1374; primary official NBB WVV 29/58
+bud_miwa_inv_2025,igs_miwa,2025,191471,,,executed,src_miwa_jr2025_nbb,strong,2025 voorraden 191471 (grond-hulp 4411 + handels 187060); tick1374; primary official NBB WVV 3
+bud_miwa_strecv_2025,igs_miwa,2025,988305,,,executed,src_miwa_jr2025_nbb,strong,2025 ST vorderingen 988305 (trade 817388 + other 170918); tick1374; primary official NBB WVV 40/41
+bud_miwa_invest_2025,igs_miwa,2025,4675030,,,executed,src_miwa_jr2025_nbb,strong,2025 geldbeleggingen 4675030 DROP vs 6695869 (vastrentend 3730920 waarvan bank 3250000 + termijn >1y 944109); tick1374; primary official NBB WVV 50/53
+bud_miwa_invest_2024,igs_miwa,2024,6695869,,,executed,src_miwa_jr2025_nbb,strong,2024 geldbeleggingen 6695869 comparative; tick1374; primary official NBB WVV 50/53
+bud_miwa_cash_2025,igs_miwa,2025,5115569,,,executed,src_miwa_jr2025_nbb,strong,2025 liquide middelen 5115569 JUMP vs 2313450; no bank debt; tick1374; primary official NBB WVV 54/58
+bud_miwa_cash_2024,igs_miwa,2024,2313450,,,executed,src_miwa_jr2025_nbb,strong,2024 liquide middelen 2313450 comparative; tick1374; primary official NBB WVV 54/58
+bud_miwa_prepaid_2025,igs_miwa,2025,84635,,,executed,src_miwa_jr2025_nbb,strong,2025 overlopend actief 84635 (OVAM asbest 79140 + intresten 4733 + accijnzen 762); tick1374; primary official NBB WVV 490/1
+bud_miwa_equity_2025,igs_miwa,2025,11888794,,,executed,src_miwa_jr2025_nbb,strong,2025 eigen vermogen 11888794 vs 12012050 (RvB 11888794.08); tick1374; primary official NBB WVV 10/15
+bud_miwa_inbreng_2025,igs_miwa,2025,44155,,,executed,src_miwa_jr2025_nbb,strong,2025 inbreng onbeschikbaar 44155 / 44155 aandelen (SN 21813 49.4pct / Temse 8469 / SGW 5572 / Stekene 5188 / Waasmunster 3113); tick1374; primary official NBB WVV 10/11
+bud_miwa_reserves_2025,igs_miwa,2025,7163624,,,executed,src_miwa_jr2025_nbb,strong,2025 reserves 7163624 (statutair onbeschikbaar 7120317 + beschikbaar 43307); tick1374; primary official NBB WVV 13
+bud_miwa_retained_2025,igs_miwa,2025,3622603,,,executed,src_miwa_jr2025_nbb,strong,2025 overgedragen winst 3622603 vs 3590298 after PnL 32305; tick1374; primary official NBB WVV 14
+bud_miwa_capsub_2025,igs_miwa,2025,1058412,,,executed,src_miwa_jr2025_nbb,strong,2025 kapitaalsubsidies 1058412 vs 1213973; tick1374; primary official NBB WVV 15
+bud_miwa_prov_2025,igs_miwa,2025,4129494,,,executed,src_miwa_jr2025_nbb,strong,2025 voorzieningen 4129494 vs 3901074 (pensioen 4101074 + overige 28420; 6.8 not filed); tick1374; primary official NBB WVV 16
+bud_miwa_prov_pens_2025,igs_miwa,2025,4101074,,,executed,src_miwa_jr2025_nbb,strong,2025 voorziening responsabilisering 4101074 2025-2044 disconto 2pct opbouw tot 2035; tick1374; primary official NBB WVV 160 + 6.19
+bud_miwa_debt_2025,igs_miwa,2025,3579264,,,executed,src_miwa_jr2025_nbb,strong,2025 schulden 3579264 JUMP vs 1707897; no LT/bank; tick1374; primary official NBB WVV 17/49
+bud_miwa_st_2025,igs_miwa,2025,3484031,,,executed,src_miwa_jr2025_nbb,strong,2025 ST schulden 3484031 vs 1599248; tick1374; primary official NBB WVV 42/48
+bud_miwa_sttrade_2025,igs_miwa,2025,1335838,,,executed,src_miwa_jr2025_nbb,strong,2025 leveranciers 1335838 vs 1100716; tick1374; primary official NBB WVV 440/4
+bud_miwa_sttaxsoc_2025,igs_miwa,2025,331956,,,executed,src_miwa_jr2025_nbb,strong,2025 tax/soc 331956 (tax 41696 + wages 290260); tick1374; primary official NBB WVV 45
+bud_miwa_stoth_2025,igs_miwa,2025,1816236,,,executed,src_miwa_jr2025_nbb,strong,2025 overige ST schulden 1816236 JUMP vs 182963; no 6.9 split; tick1374; primary official NBB WVV 47/48
+bud_miwa_stoth_2024,igs_miwa,2024,182963,,,executed,src_miwa_jr2025_nbb,strong,2024 overige ST schulden 182963 comparative; tick1374; primary official NBB WVV 47/48
+bud_miwa_accrued_2025,igs_miwa,2025,95234,,,executed,src_miwa_jr2025_nbb,strong,2025 overlopend passief 95234 (OVAM heffing 49564 + asbest 4838 + asbestattest 40000); tick1374; primary official NBB WVV 492/3
+bud_miwa_ops_2025,igs_miwa,2025,16785392,,,executed,src_miwa_jr2025_nbb,strong,2025 bedrijfsopbrengsten 16785392 vs 16556957; tick1374; primary official NBB WVV 70/76A
+bud_miwa_omzet_2025,igs_miwa,2025,2620372,,,executed,src_miwa_jr2025_nbb,strong,2025 omzet 2620372 vs 2679055; 6.10 category/geo empty; tick1374; primary official NBB WVV 70
+bud_miwa_omzet_2024,igs_miwa,2024,2679055,,,executed,src_miwa_jr2025_nbb,strong,2024 omzet 2679055 comparative; tick1374; primary official NBB WVV 70
+bud_miwa_othops_2025,igs_miwa,2025,13954081,,,executed,src_miwa_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 13954081 vs 13877241 (740 subsidies 182583 only; ~13771498 unnamed); tick1374; primary official NBB WVV 74
+bud_miwa_othops_2024,igs_miwa,2024,13877241,,,executed,src_miwa_jr2025_nbb,strong,2024 andere bedrijfsopbrengsten 13877241 comparative; tick1374; primary official NBB WVV 74
+bud_miwa_subs_2025,igs_miwa,2025,182583,,,executed,src_miwa_jr2025_nbb,strong,2025 exploitatiesubsidies 182583 vs 267901; tick1374; primary official NBB WVV 740
+bud_miwa_nrop_2025,igs_miwa,2025,210939,,,executed,src_miwa_jr2025_nbb,strong,2025 niet-recurrente bedrijfsopbrengsten 210939 (terugneming afschr 112987 + meerwaarde MVA 97952); tick1374; primary official NBB WVV 76A
+bud_miwa_goods_2025,igs_miwa,2025,657227,,,executed,src_miwa_jr2025_nbb,strong,2025 handelsgoederen/grond-hulp 657227 vs 577989 (aankopen 666688 / voorraad -9460); tick1374; primary official NBB WVV 60
+bud_miwa_diensten_2025,igs_miwa,2025,10572385,,,executed,src_miwa_jr2025_nbb,strong,2025 diensten 10572385 vs 10128425 (63.0pct of ops 16.79m; 403pct of omzet); tick1374; primary official NBB WVV 61
+bud_miwa_diensten_2024,igs_miwa,2024,10128425,,,executed,src_miwa_jr2025_nbb,strong,2024 diensten 10128425 comparative; tick1374; primary official NBB WVV 61
+bud_miwa_pers_2025,igs_miwa,2025,4110749,,,executed,src_miwa_jr2025_nbb,strong,2025 bezoldigingen 4110749 / 48.5 VTE / 50 koppen / YE 48.3 VTE; tick1374; primary official NBB WVV 62 9087
+bud_miwa_deprec_2025,igs_miwa,2025,1005046,,,executed,src_miwa_jr2025_nbb,strong,2025 afschrijvingen 1005046; tick1374; primary official NBB WVV 630
+bud_miwa_provchg_2025,igs_miwa,2025,228420,,,executed,src_miwa_jr2025_nbb,strong,2025 voorzieningen toevoeging 228420 (pensioen 200000 + overige 28420); tick1374; primary official NBB WVV 635/8
+bud_miwa_othcost_2025,igs_miwa,2025,288160,,,executed,src_miwa_jr2025_nbb,strong,2025 andere bedrijfskosten 288160 (tax 285825 + other 2336); tick1374; primary official NBB WVV 640/8
+bud_miwa_nrcost_2025,igs_miwa,2025,125071,,,executed,src_miwa_jr2025_nbb,strong,2025 niet-recurrente bedrijfskosten 125071 all minderwaarde MVA 6630; tick1374; primary official NBB WVV 66A
+bud_miwa_expl_2025,igs_miwa,2025,-201667,,,executed,src_miwa_jr2025_nbb,strong,2025 bedrijfsverlies 201667 vs winst 415820; tick1374; primary official NBB WVV 9901
+bud_miwa_expl_2024,igs_miwa,2024,415820,,,executed,src_miwa_jr2025_nbb,strong,2024 bedrijfswinst 415820 comparative; tick1374; primary official NBB WVV 9901
+bud_miwa_fininc_2025,igs_miwa,2025,290827,,,executed,src_miwa_jr2025_nbb,strong,2025 financiele opbrengsten 290827 (FVA 8479 + vlottend 125998 + other 156350 waarvan capsub 154621); tick1374; primary official NBB WVV 75
+bud_miwa_fincost_2025,igs_miwa,2025,18874,,,executed,src_miwa_jr2025_nbb,strong,2025 financiele kosten 18874 (schulden 1458 + WV -15117 + other 32534); tick1374; primary official NBB WVV 65
+bud_miwa_tax_2025,igs_miwa,2025,37980,,,executed,src_miwa_jr2025_nbb,strong,2025 belasting 37980; tick1374; primary official NBB WVV 67/77
+bud_miwa_pnl_2025,igs_miwa,2025,32305,,,executed,src_miwa_jr2025_nbb,strong,2025 PnL 9904 32305 vs 661566 (commissaris 32304.94); overgedragen; tick1374; primary official NBB WVV
+bud_miwa_pnl_2024,igs_miwa,2024,661566,,,executed,src_miwa_jr2025_nbb,strong,2024 PnL 661566 comparative; tick1374; primary official NBB WVV 9904
+bud_miwa_comm_2025,igs_miwa,2025,7678,,,executed,src_miwa_jr2025_nbb,strong,2025 commissaris Callens Vandelanotte / Erik Thuysbaert 7678; tick1374; primary official NBB WVV 9505
+bud_miwa_board_2025,igs_miwa,2025,39127,,,executed,src_miwa_jr2025_nbb,strong,2025 bestuurders 39127; tick1374; primary official NBB WVV 9503
+bud_miwa_vat_out_2025,igs_miwa,2025,227561,,,executed,src_miwa_jr2025_nbb,strong,2025 BTW door de vennootschap 227561 vs 247474; tick1374; primary official NBB WVV 6.13 9146
