@@ -38561,3 +38561,68 @@ bud_hofh_capex_mva_2025,igs_hofh,2025,871895,,,executed,src_hofh_jr2025_nbb,stro
 bud_hofh_capex_iva_2025,igs_hofh,2025,21974,,,executed,src_hofh_jr2025_nbb,strong,2025 IVA aanschaf 21974 (8029); tick1395; primary official NBB WVV 6.1.1
 bud_hofh_comm_2025,igs_hofh,2025,6988,,,executed,src_hofh_jr2025_nbb,strong,2025 commissaris CVT 6988 excl btw; tick1395; primary official NBB WVV 6.6
 bud_hofh_board_2025,igs_hofh,2025,42019,,,executed,src_hofh_jr2025_nbb,strong,2025 bestuurders presentiegeld 42019.20; tick1395; primary official NBB WVV remuneratieverslag
+bud_pnts_assets_2025,igs_pnts,2025,21976605,,,executed,src_pnts_jr2025_nbb,strong,2025 assets 21976605 VKT-kap 20/58; commissaris 21976604.96; tick1396; primary official NBB WVV
+bud_pnts_assets_2024,igs_pnts,2024,22229095,,,executed,src_pnts_jr2025_nbb,strong,2024 assets 22229095 comparative; tick1396; primary official NBB WVV 20/58
+bud_pnts_fixed_2025,igs_pnts,2025,17289894,,,executed,src_pnts_jr2025_nbb,strong,2025 vaste activa 17289894 vs 17246428; tick1396; primary official NBB WVV 21/28
+bud_pnts_iva_2025,igs_pnts,2025,67545,,,executed,src_pnts_jr2025_nbb,strong,2025 IVA 67545 vs 69558; tick1396; primary official NBB WVV 21
+bud_pnts_mva_2025,igs_pnts,2025,17216395,,,executed,src_pnts_jr2025_nbb,strong,2025 MVA 17216395 vs 17170915; tick1396; primary official NBB WVV 22/27
+bud_pnts_buildings_2025,igs_pnts,2025,11625602,,,executed,src_pnts_jr2025_nbb,strong,2025 terreinen/gebouwen 11625602 vs 12630820; tick1396; primary official NBB WVV 22
+bud_pnts_machines_2025,igs_pnts,2025,3086186,,,executed,src_pnts_jr2025_nbb,strong,2025 machines 3086186 JUMP vs 2473408; tick1396; primary official NBB WVV 23
+bud_pnts_machines_2024,igs_pnts,2024,2473408,,,executed,src_pnts_jr2025_nbb,strong,2024 machines 2473408 comparative; tick1396; primary official NBB WVV 23
+bud_pnts_furniture_2025,igs_pnts,2025,196102,,,executed,src_pnts_jr2025_nbb,strong,2025 meubilair 196102 vs 274246; tick1396; primary official NBB WVV 24
+bud_pnts_othmva_2025,igs_pnts,2025,208480,,,executed,src_pnts_jr2025_nbb,strong,2025 overige MVA 208480 unchanged; tick1396; primary official NBB WVV 26
+bud_pnts_cip_2025,igs_pnts,2025,2100024,,,executed,src_pnts_jr2025_nbb,strong,2025 activa in aanbouw 2100024 vs 1583962; tick1396; primary official NBB WVV 27
+bud_pnts_cip_2024,igs_pnts,2024,1583962,,,executed,src_pnts_jr2025_nbb,strong,2024 activa in aanbouw 1583962 comparative; tick1396; primary official NBB WVV 27
+bud_pnts_fva_2025,igs_pnts,2025,5955,,,executed,src_pnts_jr2025_nbb,strong,2025 FVA 5955 vs 5955; tick1396; primary official NBB WVV 28
+bud_pnts_current_2025,igs_pnts,2025,4686711,,,executed,src_pnts_jr2025_nbb,strong,2025 vlottend 4686711 vs 4982668; tick1396; primary official NBB WVV 29/58
+bud_pnts_stocks_2025,igs_pnts,2025,31159,,,executed,src_pnts_jr2025_nbb,strong,2025 voorraden 31159 vs 20473; tick1396; primary official NBB WVV 30/36
+bud_pnts_strecv_2025,igs_pnts,2025,1542329,,,executed,src_pnts_jr2025_nbb,strong,2025 ST vorderingen 1542329 vs 1046261; tick1396; primary official NBB WVV 40/41
+bud_pnts_trade_2025,igs_pnts,2025,1257538,,,executed,src_pnts_jr2025_nbb,strong,2025 handelsvorderingen 1257538 vs 1042155; tick1396; primary official NBB WVV 40
+bud_pnts_othrecv_2025,igs_pnts,2025,284791,,,executed,src_pnts_jr2025_nbb,strong,2025 overige vorderingen 284791 JUMP vs 4106; tick1396; primary official NBB WVV 41
+bud_pnts_invest_2025,igs_pnts,2025,2500000,,,executed,src_pnts_jr2025_nbb,strong,2025 geldbeleggingen 2500000 unchanged; tick1396; primary official NBB WVV 50/53
+bud_pnts_cash_2025,igs_pnts,2025,570825,,,executed,src_pnts_jr2025_nbb,strong,2025 liquide middelen 570825 DROP vs 1263658; tick1396; primary official NBB WVV 54/58
+bud_pnts_cash_2024,igs_pnts,2024,1263658,,,executed,src_pnts_jr2025_nbb,strong,2024 liquide middelen 1263658 comparative; tick1396; primary official NBB WVV 54/58
+bud_pnts_prepaid_2025,igs_pnts,2025,42398,,,executed,src_pnts_jr2025_nbb,strong,2025 overlopend actief 42398 vs 152275; tick1396; primary official NBB WVV 490/1
+bud_pnts_equity_2025,igs_pnts,2025,12532417,,,executed,src_pnts_jr2025_nbb,strong,2025 EV 12532417 vs 12534432; tick1396; primary official NBB WVV 10/15
+bud_pnts_capital_2025,igs_pnts,2025,4840960,,,executed,src_pnts_jr2025_nbb,strong,2025 geplaatst kapitaal 4840960; KBO kapitaal 5287360; tick1396; primary official NBB WVV 100
+bud_pnts_reval_2025,igs_pnts,2025,838917,,,executed,src_pnts_jr2025_nbb,strong,2025 herwaarderingsmeerwaarden 838917 unchanged; tick1396; primary official NBB WVV 12
+bud_pnts_reserves_2025,igs_pnts,2025,1874148,,,executed,src_pnts_jr2025_nbb,strong,2025 reserves 1874148 (wettelijk 214020 / andere onbesch 226161 / beschikbaar 1433967); tick1396; primary official NBB WVV 13
+bud_pnts_re_2025,igs_pnts,2025,3314288,,,executed,src_pnts_jr2025_nbb,strong,2025 overgedragen winst 3314288 vs 3228376; tick1396; primary official NBB WVV 14
+bud_pnts_capsub_2025,igs_pnts,2025,1664103,,,executed,src_pnts_jr2025_nbb,strong,2025 kapitaalsubsidies 1664103 vs 1752031; tick1396; primary official NBB WVV 15
+bud_pnts_debt_2025,igs_pnts,2025,9444188,,,executed,src_pnts_jr2025_nbb,strong,2025 schulden 9444188 vs 9694663; tick1396; primary official NBB WVV 17/49
+bud_pnts_debt_2024,igs_pnts,2024,9694663,,,executed,src_pnts_jr2025_nbb,strong,2024 schulden 9694663 comparative; tick1396; primary official NBB WVV 17/49
+bud_pnts_lt_2025,igs_pnts,2025,6249222,,,executed,src_pnts_jr2025_nbb,strong,2025 LT bank 6249222 vs 7155098; tick1396; primary official NBB WVV 17
+bud_pnts_st_2025,igs_pnts,2025,3194966,,,executed,src_pnts_jr2025_nbb,strong,2025 ST schulden 3194966 vs 2520037; tick1396; primary official NBB WVV 42/48
+bud_pnts_ltdue_2025,igs_pnts,2025,936819,,,executed,src_pnts_jr2025_nbb,strong,2025 LT-due binnen jaar 936819 vs 931456; tick1396; primary official NBB WVV 42
+bud_pnts_sttrade_2025,igs_pnts,2025,1524037,,,executed,src_pnts_jr2025_nbb,strong,2025 leveranciers 1524037 JUMP vs 922327; tick1396; primary official NBB WVV 440/4
+bud_pnts_sttax_2025,igs_pnts,2025,162695,,,executed,src_pnts_jr2025_nbb,strong,2025 belastingschulden 162695 vs 128637; tick1396; primary official NBB WVV 450/3
+bud_pnts_stsoc_2025,igs_pnts,2025,571414,,,executed,src_pnts_jr2025_nbb,strong,2025 bezoldigingen/sociale lasten 571414 vs 537617; tick1396; primary official NBB WVV 454/9
+bud_pnts_govguar_2025,igs_pnts,2025,7083689,,,executed,src_pnts_jr2025_nbb,strong,2025 overheidswaarborg 7083689 (LT+due); tick1396; primary official NBB WVV 9061
+bud_pnts_debt15_2025,igs_pnts,2025,2959656,,,executed,src_pnts_jr2025_nbb,strong,2025 schuld 1-5y 2959656; tick1396; primary official NBB WVV 8912
+bud_pnts_debt5y_2025,igs_pnts,2025,3289567,,,executed,src_pnts_jr2025_nbb,strong,2025 schuld >5y 3289567; tick1396; primary official NBB WVV 8913
+bud_pnts_pens_off_2025,igs_pnts,2025,13430000,,,executed,src_pnts_jr2025_nbb,strong,2025 off-balance pensioen 13.43m (responsabilisering 10.33m + post-2049 3.10m); commissaris voorbehoud EV overstated 13.4m; tick1396; primary official NBB WVV 6.5
+bud_pnts_pens_resp_2025,igs_pnts,2025,10330000,,,executed,src_pnts_jr2025_nbb,strong,2025 responsabiliseringsbijdrage remaining 10.33m off-balance; tick1396; primary official NBB WVV 6.5
+bud_pnts_pens_post_2025,igs_pnts,2025,3100000,,,executed,src_pnts_jr2025_nbb,strong,2025 statutaire pensioenlast na 2049 3.10m off-balance; tick1396; primary official NBB WVV 6.5
+bud_pnts_sw_contract_2025,igs_pnts,2025,1195000,,,executed,src_pnts_jr2025_nbb,strong,2025 software/hardware contract 1195000 / 35 months; tick1396; primary official NBB WVV 6.5
+bud_pnts_brutomarge_2025,igs_pnts,2025,6811317,,,executed,src_pnts_jr2025_nbb,strong,2025 brutomarge 6811317 vs 6572228; omzet 70 empty; tick1396; primary official NBB WVV 9900
+bud_pnts_brutomarge_2024,igs_pnts,2024,6572228,,,executed,src_pnts_jr2025_nbb,strong,2024 brutomarge 6572228 comparative; tick1396; primary official NBB WVV 9900
+bud_pnts_pers_2025,igs_pnts,2025,4855276,,,executed,src_pnts_jr2025_nbb,strong,2025 pers 4855276 vs 4490340 / 43.3 VTE; tick1396; primary official NBB WVV 62
+bud_pnts_pers_2024,igs_pnts,2024,4490340,,,executed,src_pnts_jr2025_nbb,strong,2024 pers 4490340 / 37.4 VTE comparative; tick1396; primary official NBB WVV 62
+bud_pnts_afschr_2025,igs_pnts,2025,1229264,,,executed,src_pnts_jr2025_nbb,strong,2025 afschr 1229264 vs 1467676; tick1396; primary official NBB WVV 630
+bud_pnts_wv_2025,igs_pnts,2025,256567,,,executed,src_pnts_jr2025_nbb,strong,2025 WV voorraden/vorderingen 256567 vs 48556; tick1396; primary official NBB WVV 631/4
+bud_pnts_othcost_2025,igs_pnts,2025,8923,,,executed,src_pnts_jr2025_nbb,strong,2025 andere bedrijfskosten 8923 vs 4669; tick1396; primary official NBB WVV 640/8
+bud_pnts_nrec_2025,igs_pnts,2025,287301,,,executed,src_pnts_jr2025_nbb,strong,2025 niet-recurrente bedrijfskosten 287301 vs 5442; tick1396; primary official NBB WVV 66A
+bud_pnts_expl_2025,igs_pnts,2025,173986,,,executed,src_pnts_jr2025_nbb,strong,2025 expl +173986 vs +555544; tick1396; primary official NBB WVV 9901
+bud_pnts_expl_2024,igs_pnts,2024,555544,,,executed,src_pnts_jr2025_nbb,strong,2024 expl +555544 comparative; tick1396; primary official NBB WVV 9901
+bud_pnts_fininc_2025,igs_pnts,2025,100124,,,executed,src_pnts_jr2025_nbb,strong,2025 financiele opbrengsten 100124 vs 133516 (capsub 87928); tick1396; primary official NBB WVV 75
+bud_pnts_capsub_inc_2025,igs_pnts,2025,87928,,,executed,src_pnts_jr2025_nbb,strong,2025 kapitaal- en interestsubsidies 87928 vs 123995; tick1396; primary official NBB WVV 753
+bud_pnts_fincost_2025,igs_pnts,2025,184328,,,executed,src_pnts_jr2025_nbb,strong,2025 financiele kosten 184328 vs 203718; tick1396; primary official NBB WVV 65
+bud_pnts_tax_2025,igs_pnts,2025,3869,,,executed,src_pnts_jr2025_nbb,strong,2025 belastingen 3869 vs 2547; tick1396; primary official NBB WVV 67/77
+bud_pnts_pnl_2025,igs_pnts,2025,85913,,,executed,src_pnts_jr2025_nbb,strong,2025 PnL +85913 vs +482795 all overgedragen; commissaris 85912.59; tick1396; primary official NBB WVV 9904
+bud_pnts_pnl_2024,igs_pnts,2024,482795,,,executed,src_pnts_jr2025_nbb,strong,2024 PnL +482795 comparative; tick1396; primary official NBB WVV 9904
+bud_pnts_div_2025,igs_pnts,2025,0,,,executed,src_pnts_jr2025_nbb,strong,2025 dividend 694 empty; tick1396; primary official NBB WVV 694
+bud_pnts_capex_mva_2025,igs_pnts,2025,1544513,,,executed,src_pnts_jr2025_nbb,strong,2025 MVA aanschaf 1544513 (8169); tick1396; primary official NBB WVV 6.1.2
+bud_pnts_capex_iva_2025,igs_pnts,2025,15519,,,executed,src_pnts_jr2025_nbb,strong,2025 IVA aanschaf 15519 (8029); tick1396; primary official NBB WVV 6.1.1
+bud_pnts_comm_2025,igs_pnts,2025,14526,,,executed,src_pnts_jr2025_nbb,strong,2025 commissaris CVT 14526 excl btw + extra 2250 + 1126; tick1396; primary official NBB WVV 6.6
+bud_pnts_board_2025,igs_pnts,2025,31201,,,executed,src_pnts_jr2025_nbb,strong,2025 bestuurders presentiegeld table sum 31200.70; tick1396; primary official NBB WVV remuneratieverslag
+bud_pnts_resp_cash_2025,igs_pnts,2025,366000,,,executed,src_pnts_jr2025_nbb,strong,2025 responsabiliseringsbijdrage circa 366000 in 62; commissaris; tick1396; primary official NBB WVV commissarisverslag
