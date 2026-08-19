@@ -38351,3 +38351,50 @@ bud_flov_pens_off_2025,igs_flov,2025,151260000,,,executed,src_flov_jr2025_nbb,st
 bud_flov_comm_2025,igs_flov,2025,16634,,,executed,src_flov_jr2025_nbb,strong,2025 commissaris 9505 16634; tick1391; primary official NBB WVV 9505
 bud_flov_board_2025,igs_flov,2025,17439,,,executed,src_flov_jr2025_nbb,strong,2025 bestuurders 9503 17439; tick1391; primary official NBB WVV 9503
 bud_flov_train_2025,igs_flov,2025,443935,,,executed,src_flov_jr2025_nbb,strong,2025 formele opleiding 443935 (357048M+86887V); tick1391; primary official NBB WVV 5803/5813
+bud_ivla_assets_2025,igs_ivla,2025,4169634,,,executed,src_ivla_jr2025_nbb,strong,2025 assets 4169634 VKT-inb 20/58; tick1392; primary official NBB WVV
+bud_ivla_assets_2024,igs_ivla,2024,3803070,,,executed,src_ivla_jr2025_nbb,strong,2024 assets 3803070 comparative; tick1392; primary official NBB WVV 20/58
+bud_ivla_fixed_2025,igs_ivla,2025,1401284,,,executed,src_ivla_jr2025_nbb,strong,2025 vaste activa 1401284 vs 402010; tick1392; primary official NBB WVV 21/28
+bud_ivla_mva_2025,igs_ivla,2025,1400432,,,executed,src_ivla_jr2025_nbb,strong,2025 MVA 1400432 vs 401159; tick1392; primary official NBB WVV 22/27
+bud_ivla_buildings_2025,igs_ivla,2025,51032,,,executed,src_ivla_jr2025_nbb,strong,2025 terreinen/gebouwen 51032 vs 51981; tick1392; primary official NBB WVV 22
+bud_ivla_machines_2025,igs_ivla,2025,1269295,,,executed,src_ivla_jr2025_nbb,strong,2025 machines 1269295 JUMP vs 284589; tick1392; primary official NBB WVV 23
+bud_ivla_furniture_2025,igs_ivla,2025,29724,,,executed,src_ivla_jr2025_nbb,strong,2025 meubilair 29724 vs 656; tick1392; primary official NBB WVV 24
+bud_ivla_othmva_2025,igs_ivla,2025,50382,,,executed,src_ivla_jr2025_nbb,strong,2025 overige MVA 50382 vs 63933; tick1392; primary official NBB WVV 26
+bud_ivla_fva_2025,igs_ivla,2025,851,,,executed,src_ivla_jr2025_nbb,strong,2025 FVA 851 vs 851; tick1392; primary official NBB WVV 28
+bud_ivla_current_2025,igs_ivla,2025,2768350,,,executed,src_ivla_jr2025_nbb,strong,2025 vlottend 2768350 vs 3401059; tick1392; primary official NBB WVV 29/58
+bud_ivla_stocks_2025,igs_ivla,2025,41890,,,executed,src_ivla_jr2025_nbb,strong,2025 voorraden 41890 vs 8971; tick1392; primary official NBB WVV 30/36
+bud_ivla_strecv_2025,igs_ivla,2025,1461428,,,executed,src_ivla_jr2025_nbb,strong,2025 ST vorderingen 1461428 vs 930507; tick1392; primary official NBB WVV 40/41
+bud_ivla_trade_2025,igs_ivla,2025,980319,,,executed,src_ivla_jr2025_nbb,strong,2025 handelsvorderingen 980319 vs 857740; tick1392; primary official NBB WVV 40
+bud_ivla_othrecv_2025,igs_ivla,2025,481109,,,executed,src_ivla_jr2025_nbb,strong,2025 overige ST vorderingen 481109 JUMP vs 72767; tick1392; primary official NBB WVV 41
+bud_ivla_cash_2025,igs_ivla,2025,1224728,,,executed,src_ivla_jr2025_nbb,strong,2025 liquide middelen 1224728 DROP vs 2418359; tick1392; primary official NBB WVV 54/58
+bud_ivla_cash_2024,igs_ivla,2024,2418359,,,executed,src_ivla_jr2025_nbb,strong,2024 liquide middelen 2418359 comparative; tick1392; primary official NBB WVV 54/58
+bud_ivla_prepaid_2025,igs_ivla,2025,40305,,,executed,src_ivla_jr2025_nbb,strong,2025 overlopend actief 40305 vs 43222; tick1392; primary official NBB WVV 490/1
+bud_ivla_equity_2025,igs_ivla,2025,1915772,,,executed,src_ivla_jr2025_nbb,strong,2025 EV 1915772 vs 2383224; tick1392; primary official NBB WVV 10/15
+bud_ivla_inbreng_2025,igs_ivla,2025,1893040,,,executed,src_ivla_jr2025_nbb,strong,2025 inbreng 1893040 / 99573 aandelen; tick1392; primary official NBB WVV 10/11
+bud_ivla_reserves_2025,igs_ivla,2025,189354,,,executed,src_ivla_jr2025_nbb,strong,2025 reserves 189354 vs 246880; tick1392; primary official NBB WVV 13
+bud_ivla_retained_2025,igs_ivla,2025,-166622,,,executed,src_ivla_jr2025_nbb,strong,2025 overgedragen -166622 vs 243303; tick1392; primary official NBB WVV 14
+bud_ivla_debt_2025,igs_ivla,2025,2253862,,,executed,src_ivla_jr2025_nbb,strong,2025 schulden 2253862 vs 1419846; tick1392; primary official NBB WVV 17/49
+bud_ivla_debt_2024,igs_ivla,2024,1419846,,,executed,src_ivla_jr2025_nbb,strong,2024 schulden 1419846 comparative; tick1392; primary official NBB WVV 17/49
+bud_ivla_st_2025,igs_ivla,2025,1769733,,,executed,src_ivla_jr2025_nbb,strong,2025 ST schulden 1769733 (no LT); tick1392; primary official NBB WVV 42/48
+bud_ivla_sttrade_2025,igs_ivla,2025,1467246,,,executed,src_ivla_jr2025_nbb,strong,2025 leveranciers 1467246 vs 1122217; tick1392; primary official NBB WVV 440/4
+bud_ivla_sttax_2025,igs_ivla,2025,66909,,,executed,src_ivla_jr2025_nbb,strong,2025 belastingschulden 66909 vs 48826; tick1392; primary official NBB WVV 450/3
+bud_ivla_stsoc_2025,igs_ivla,2025,17119,,,executed,src_ivla_jr2025_nbb,strong,2025 bezoldigingen/sociale lasten 17119 vs 29317; tick1392; primary official NBB WVV 454/9
+bud_ivla_stother_2025,igs_ivla,2025,218221,,,executed,src_ivla_jr2025_nbb,strong,2025 overige ST schulden 218221 vs 146717; tick1392; primary official NBB WVV 47/48
+bud_ivla_deferred_2025,igs_ivla,2025,484129,,,executed,src_ivla_jr2025_nbb,strong,2025 overlopend passief 484129 JUMP vs 72769; tick1392; primary official NBB WVV 492/3
+bud_ivla_brutomarge_2025,igs_ivla,2025,7353,,,executed,src_ivla_jr2025_nbb,strong,2025 brutomarge 7353 DROP vs 555793; omzet 70 empty; tick1392; primary official NBB WVV 9900
+bud_ivla_brutomarge_2024,igs_ivla,2024,555793,,,executed,src_ivla_jr2025_nbb,strong,2024 brutomarge 555793 comparative; tick1392; primary official NBB WVV 9900
+bud_ivla_pers_2025,igs_ivla,2025,399515,,,executed,src_ivla_jr2025_nbb,strong,2025 pers 399515 vs 397745 / 4 VTE; tick1392; primary official NBB WVV 62
+bud_ivla_pers_2024,igs_ivla,2024,397745,,,executed,src_ivla_jr2025_nbb,strong,2024 pers 397745 / 4.1 VTE comparative; tick1392; primary official NBB WVV 62
+bud_ivla_afschr_2025,igs_ivla,2025,63215,,,executed,src_ivla_jr2025_nbb,strong,2025 afschr 63215 vs 52908; tick1392; primary official NBB WVV 630
+bud_ivla_othcost_2025,igs_ivla,2025,5940,,,executed,src_ivla_jr2025_nbb,strong,2025 andere bedrijfskosten 5940 vs 5759; tick1392; primary official NBB WVV 640/8
+bud_ivla_expl_2025,igs_ivla,2025,-461317,,,executed,src_ivla_jr2025_nbb,strong,2025 expl -461317 vs +99381; tick1392; primary official NBB WVV 9901
+bud_ivla_expl_2024,igs_ivla,2024,99381,,,executed,src_ivla_jr2025_nbb,strong,2024 expl +99381 comparative; tick1392; primary official NBB WVV 9901
+bud_ivla_fininc_2025,igs_ivla,2025,13922,,,executed,src_ivla_jr2025_nbb,strong,2025 financiele opbrengsten 13922 vs 16040; tick1392; primary official NBB WVV 75
+bud_ivla_fincost_2025,igs_ivla,2025,1126,,,executed,src_ivla_jr2025_nbb,strong,2025 financiele kosten 1126 vs 1612; tick1392; primary official NBB WVV 65
+bud_ivla_pretax_2025,igs_ivla,2025,-448521,,,executed,src_ivla_jr2025_nbb,strong,2025 verlies voor belasting -448521 vs +113810; tick1392; primary official NBB WVV 9903
+bud_ivla_tax_2025,igs_ivla,2025,18931,,,executed,src_ivla_jr2025_nbb,strong,2025 belasting 18931 vs 4407; tick1392; primary official NBB WVV 67/77
+bud_ivla_pnl_2025,igs_ivla,2025,-467452,,,executed,src_ivla_jr2025_nbb,strong,2025 PnL -467452 vs +109402; tick1392; primary official NBB WVV 9904
+bud_ivla_pnl_2024,igs_ivla,2024,109402,,,executed,src_ivla_jr2025_nbb,strong,2024 PnL +109402 comparative; tick1392; primary official NBB WVV 9904
+bud_ivla_div_2025,igs_ivla,2025,0,,,executed,src_ivla_jr2025_nbb,strong,2025 dividend 694 empty; tick1392; primary official NBB WVV 694
+bud_ivla_capex_2025,igs_ivla,2025,1062489,,,executed,src_ivla_jr2025_nbb,strong,2025 MVA aanschaf 1062489 GFT-containers; tick1392; primary official NBB WVV 8169
+bud_ivla_comm_2025,igs_ivla,2025,6250,,,executed,src_ivla_jr2025_nbb,strong,2025 commissaris A&C 6250; tick1392; primary official NBB WVV 6.6
+bud_ivla_board_2025,igs_ivla,2025,29897,,,executed,src_ivla_jr2025_nbb,strong,2025 bestuurders presentiegeld+KM 29897; tick1392; primary official NBB WVV remun
