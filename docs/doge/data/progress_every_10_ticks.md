@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1400** (2026-08-19)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1391-1400 leftover IGS/NV: **Fluvius OV** · **IVLA** · **HAVICREM** · **Westlede** · **Hofheide** · **Pontes** · **IVEBICA** · **IBEG** · **Otary RS** · **IGL** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1391-1400 is VL residual dual L5 leftover IGS/NV (not near-complete of 348bn):** **IBEG** assets **100.49m** · **Otary RS** assets **95.63m** · **IGL** assets **65.30m** omzet **48.16m** pers **40.51m** · **Westlede** assets **27.81m** · **Fluvius OV** assets **27.89m** · **Pontes** assets **21.98m** · **HAVICREM** assets **12.75m** · **Hofheide** assets **10.93m** · **IVLA** assets **4.17m** · **IVEBICA** assets **0.92m** · prior leftover Fluvius DNB + IGS stack retained |
+| **E. FOI-ready gaps** | **~1043** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1091** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek/klimaat-holding/energy-DSO/zorg shells** (**NEW IGL** assets **EUR65.30m** omzet **EUR48.16m** pers **EUR40.51m** / **529,5 VTE** debt **EUR31.77m** · **Otary RS** assets **EUR95.63m** omzet **EUR12.43m** diensten **EUR10.24m** div **EUR14.47m** FVA **EUR82.86m** · **IBEG** assets **EUR100.49m** FVA **EUR96.37m** div **EUR3.50m** · **Pontes** assets **EUR21.98m** · **Westlede** assets **EUR27.81m** · **HAVICREM** assets **EUR12.75m** · **Hofheide** assets **EUR10.93m** · **Fluvius OV** assets **EUR27.89m** omzet **EUR97.35m** pers **EUR97.58m** pens **EUR151.26m** · **IVLA** assets **EUR4.17m** · **IVEBICA** assets **EUR0.92m** · prior leftover Fluvius DNB West 3.378bn / Limburg 3.255bn / Imewo 3.069bn / Zenne-Dijle 2.522bn / Antwerpen 2.456bn / Halle-Vilvoorde 1.355bn / INTERGEM 1.295bn / Kempen 1.159bn / Riobra 383.25m / INTERZA 7.44m + leftover IGS/EVA INCOVO/ISVAG/De Nekker/MIROM/IVAGO stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1400)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 38829 |
+| commitments.csv | 5000 |
+| leaderboard.csv | 7203 |
+| entities.csv | 1147 |
+| sources.csv | 2736 |
+| FOI ready | 1043 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1091 |
+| research_queue open | rq_116 deferred + rq_1401 hole-fill after progress |
+
+### What improved since tick 1390
+
+- **VL residual dual JR2025 leftover IGS/NV (tick1391-1399):** **IBEG** assets **100.49m** FVA **96.37m** div **3.50m** · **Otary RS** assets **95.63m** omzet **12.43m** diensten **10.24m** div **14.47m** · **Westlede** assets **27.81m** · **Fluvius OV** assets **27.89m** omzet **97.35m** pers **97.58m** pens **151.26m** · **Pontes** assets **21.98m** · **HAVICREM** assets **12.75m** · **Hofheide** assets **10.93m** · **IVLA** assets **4.17m** · **IVEBICA** assets **0.92m** — no invented euros.
+- **NEW (tick1400):** **IGL** (KBO 0201.310.929) leftover opdrachthoudende vereniging / zorg IGS of mined Limburg municipalities + provincie. Official NBB WVV VOL-inb deposit **2026-00270170** PDF (1.08MB / 70p; AV 25.06.2026; created 07.07.2026). Assets **65.298.610** · omzet **48.156.858** (VL werkingsopbrengsten **40.228.178**; geo empty) · diensten **5.366.617** · pers **40.508.243** / **529,5 VTE** / YE 680 · debt **31.766.387** · PnL **+2.298.043**. FOI ready. Every-10 progress refresh from on-disk CSVs.
+- **Dual map themes:** **leftover zorg IGS + leftover crematorium IGS + leftover energy holding + leftover Nuhma-adjacent NV** (IGL 65.30m / IBEG 100.49m / Otary RS 95.63m / Westlede 27.81m / Pontes 21.98m / HAVICREM 12.75m / Hofheide 10.93m / Fluvius OV 27.89m) · prior leftover Fluvius DNB + IGS waste/streek stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
 ## Snapshot at **tick 1390** (2026-08-19)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
