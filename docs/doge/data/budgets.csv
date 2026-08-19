@@ -36680,3 +36680,56 @@ bud_sldv_reldebt_2025,dv_sldv,2025,194146,,,executed,src_sldv_jr2025_nbb,strong,
 bud_sldv_vat_2025,dv_sldv,2025,551925,,,executed,src_sldv_jr2025_nbb,strong,2025 BTW door vennootschap 551925; tick1365; primary official NBB WVV 9146
 bud_sldv_wh_2025,dv_sldv,2025,11829,,,executed,src_sldv_jr2025_nbb,strong,2025 bedrijfsvoorheffing 11829; tick1365; primary official NBB WVV 9147
 bud_sldv_loanest_2026,dv_sldv,2026,2000000,,,estimate,src_sldv_jr2025_nbb,strong,2026 post-YE 20.02.2026 lening s-Lim CV schuilhuisjes Genk/Hasselt geraamd 2m; tick1365; primary official NBB WVV jaarverslag
+bud_ileu_assets_2025,igs_ileu,2025,95248547,,,executed,src_ileu_jr2025_nbb,strong,2025 assets 95248547 VOL-inb 20/58; tick1366; primary official NBB WVV
+bud_ileu_assets_2024,igs_ileu,2024,85713581,,,executed,src_ileu_jr2025_nbb,strong,2024 assets 85713581 comparative; tick1366; primary official NBB WVV 20/58
+bud_ileu_fixed_2025,igs_ileu,2025,47533282,,,executed,src_ileu_jr2025_nbb,strong,2025 vaste activa 47533282; tick1366; primary official NBB WVV 21/28
+bud_ileu_mva_2025,igs_ileu,2025,47326149,,,executed,src_ileu_jr2025_nbb,strong,2025 MVA 47326149 (machines 245766 + meubilair 372296 + leasing 23814256 + overige 22893831); tick1366; primary official NBB WVV 22/27
+bud_ileu_lease_2025,igs_ileu,2025,23814256,,,executed,src_ileu_jr2025_nbb,strong,2025 leasing en soortgelijke rechten 23814256 vs 24627401; leasing-schulden empty; tick1366; primary official NBB WVV 25
+bud_ileu_othmva_2025,igs_ileu,2025,22893831,,,executed,src_ileu_jr2025_nbb,strong,2025 overige MVA 22893831 vs 20251926; tick1366; primary official NBB WVV 26
+bud_ileu_fva_2025,igs_ileu,2025,207133,,,executed,src_ileu_jr2025_nbb,strong,2025 FVA 207133 (Loco Tervuren 11685 + andere 195448); tick1366; primary official NBB WVV 28
+bud_ileu_loco_2025,igs_ileu,2025,11685,,,executed,src_ileu_jr2025_nbb,strong,2025 Loco Tervuren cv 1033031192 91.86pct / 2337 aandelen book 11685 EV/PnL empty; tick1366; primary official NBB WVV 280 6.5.1
+bud_ileu_current_2025,igs_ileu,2025,47715265,,,executed,src_ileu_jr2025_nbb,strong,2025 vlottende activa 47715265 vs 39999358; tick1366; primary official NBB WVV 29/58
+bud_ileu_ltrecv_2025,igs_ileu,2025,4817118,,,executed,src_ileu_jr2025_nbb,strong,2025 LT overige vorderingen 4817118 vs 4143047; tick1366; primary official NBB WVV 291
+bud_ileu_inv_2025,igs_ileu,2025,36144799,,,executed,src_ileu_jr2025_nbb,strong,2025 voorraden 36144799 vs 30213269; tick1366; primary official NBB WVV 30/36
+bud_ileu_reinv_2025,igs_ileu,2025,36049928,,,executed,src_ileu_jr2025_nbb,strong,2025 onroerende goederen bestemd voor verkoop 36049928 JUMP vs 30140703; tick1366; primary official NBB WVV 35
+bud_ileu_strecv_2025,igs_ileu,2025,6443875,,,executed,src_ileu_jr2025_nbb,strong,2025 ST vorderingen 6443875 (trade 2996967 + other 3446908); tick1366; primary official NBB WVV 40/41
+bud_ileu_cash_2025,igs_ileu,2025,288638,,,executed,src_ileu_jr2025_nbb,strong,2025 liquide middelen 288638 vs 311361 THIN vs ST bank 24.32m; tick1366; primary official NBB WVV 54/58
+bud_ileu_equity_2025,igs_ileu,2025,23387441,,,executed,src_ileu_jr2025_nbb,strong,2025 eigen vermogen 23387441 vs 22442333; tick1366; primary official NBB WVV 10/15
+bud_ileu_inbreng_2025,igs_ileu,2025,2662088,,,executed,src_ileu_jr2025_nbb,strong,2025 onbeschikbare inbreng 2662088 / 156917 aandelen op naam; tick1366; primary official NBB WVV 111 8702
+bud_ileu_reserves_2025,igs_ileu,2025,18777651,,,executed,src_ileu_jr2025_nbb,strong,2025 reserves 18777651 (onbeschikbaar 12567678 + belastingvrij 6209973); tick1366; primary official NBB WVV 13
+bud_ileu_capsub_2025,igs_ileu,2025,1328119,,,executed,src_ileu_jr2025_nbb,strong,2025 kapitaalsubsidies 1328119 vs 800325 unnamed grantor; tick1366; primary official NBB WVV 15
+bud_ileu_prov_2025,igs_ileu,2025,6880084,,,executed,src_ileu_jr2025_nbb,strong,2025 voorzieningen+uitgesteld 6880084 (risks 4810093 + deferred tax 2069991); tick1366; primary official NBB WVV 16
+bud_ileu_dispute_2025,igs_ileu,2025,1062767,,,executed,src_ileu_jr2025_nbb,strong,2025 voorziening hangende geschillen 1062767; tick1366; primary official NBB WVV 6.8
+bud_ileu_env_2025,igs_ileu,2025,443960,,,executed,src_ileu_jr2025_nbb,strong,2025 voorziening milieuproblematiek 443960; tick1366; primary official NBB WVV 6.8
+bud_ileu_debt_2025,igs_ileu,2025,64981022,,,executed,src_ileu_jr2025_nbb,strong,2025 schulden 64981022 JUMP vs 55740882; tick1366; primary official NBB WVV 17/49
+bud_ileu_lt_2025,igs_ileu,2025,32973092,,,executed,src_ileu_jr2025_nbb,strong,2025 LT schulden 32973092 (fin 32028796 banks 27511355 + other loans 4517441 + other 944296); tick1366; primary official NBB WVV 17
+bud_ileu_st_2025,igs_ileu,2025,31388263,,,executed,src_ileu_jr2025_nbb,strong,2025 ST schulden 31388263 JUMP vs 21217611; tick1366; primary official NBB WVV 42/48
+bud_ileu_stbank_2025,igs_ileu,2025,24322614,,,executed,src_ileu_jr2025_nbb,strong,2025 ST financieel kredietinstellingen 24322614 JUMP vs 14822614; tick1366; primary official NBB WVV 43 430/8
+bud_ileu_stbank_2024,igs_ileu,2024,14822614,,,executed,src_ileu_jr2025_nbb,strong,2024 ST financieel 14822614 comparative; tick1366; primary official NBB WVV 43
+bud_ileu_sttrade_2025,igs_ileu,2025,1174198,,,executed,src_ileu_jr2025_nbb,strong,2025 leveranciers 1174198; tick1366; primary official NBB WVV 440/4
+bud_ileu_stadv_2025,igs_ileu,2025,536870,,,executed,src_ileu_jr2025_nbb,strong,2025 vooruitbetalingen op bestellingen 536870; tick1366; primary official NBB WVV 46
+bud_ileu_govg_2025,igs_ileu,2025,14610761,,,executed,src_ileu_jr2025_nbb,strong,2025 door Belgische overheidsinstellingen gewaarborgde bankschuld 14610761; tick1366; primary official NBB WVV 9061
+bud_ileu_coll_2025,igs_ileu,2025,14880007,,,executed,src_ileu_jr2025_nbb,strong,2025 zakelijke zekerheden op eigen activa 14880007; tick1366; primary official NBB WVV 8922
+bud_ileu_ops_2025,igs_ileu,2025,24491518,,,executed,src_ileu_jr2025_nbb,strong,2025 bedrijfsopbrengsten 24491518; tick1366; primary official NBB WVV 70/76A
+bud_ileu_omzet_2025,igs_ileu,2025,11677203,,,executed,src_ileu_jr2025_nbb,strong,2025 omzet 11677203; 6.10 category filed geo empty; tick1366; primary official NBB WVV 70
+bud_ileu_omzet_2024,igs_ileu,2024,8653453,,,executed,src_ileu_jr2025_nbb,strong,2024 omzet 8653453 comparative; tick1366; primary official NBB WVV 70
+bud_ileu_invinc_2025,igs_ileu,2025,5909224,,,executed,src_ileu_jr2025_nbb,strong,2025 voorraadtoename 5909224 vs 1380494; tick1366; primary official NBB WVV 71
+bud_ileu_othops_2025,igs_ileu,2025,6895584,,,executed,src_ileu_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 6895584 DROP vs 14359399; subsidies 913054 only; tick1366; primary official NBB WVV 74
+bud_ileu_othops_2024,igs_ileu,2024,14359399,,,executed,src_ileu_jr2025_nbb,strong,2024 andere bedrijfsopbrengsten 14359399 comparative; tick1366; primary official NBB WVV 74
+bud_ileu_sub_2025,igs_ileu,2025,913054,,,executed,src_ileu_jr2025_nbb,strong,2025 exploitatiesubsidies/overheidscompensatie 913054 vs 235291; tick1366; primary official NBB WVV 740
+bud_ileu_opscost_2025,igs_ileu,2025,22161751,,,executed,src_ileu_jr2025_nbb,strong,2025 bedrijfskosten 22161751 vs 14340170; tick1366; primary official NBB WVV 60/66A
+bud_ileu_goods_2025,igs_ileu,2025,7839057,,,executed,src_ileu_jr2025_nbb,strong,2025 handelsgoederen/grond-hulp 7839057 JUMP vs 1979295; tick1366; primary official NBB WVV 60
+bud_ileu_diensten_2025,igs_ileu,2025,4262119,,,executed,src_ileu_jr2025_nbb,strong,2025 diensten 4262119; tick1366; primary official NBB WVV 61
+bud_ileu_pers_2025,igs_ileu,2025,6641468,,,executed,src_ileu_jr2025_nbb,strong,2025 bezoldigingen 6641468 / 70 VTE / 78 koppen; tick1366; primary official NBB WVV 62 9087
+bud_ileu_deprec_2025,igs_ileu,2025,2464158,,,executed,src_ileu_jr2025_nbb,strong,2025 afschrijvingen 2464158; tick1366; primary official NBB WVV 630
+bud_ileu_nrcost_2025,igs_ileu,2025,1169259,,,executed,src_ileu_jr2025_nbb,strong,2025 niet-recurrente bedrijfskosten 1169259 JUMP vs 21299; tick1366; primary official NBB WVV 66A 664/7
+bud_ileu_expl_2025,igs_ileu,2025,2329767,,,executed,src_ileu_jr2025_nbb,strong,2025 bedrijfswinst 2329767 DROP vs 10119732; tick1366; primary official NBB WVV 9901
+bud_ileu_fincost_2025,igs_ileu,2025,1810380,,,executed,src_ileu_jr2025_nbb,strong,2025 financiele kosten 1810380 (schulden 1783136); tick1366; primary official NBB WVV 65
+bud_ileu_tax_2025,igs_ileu,2025,279169,,,executed,src_ileu_jr2025_nbb,strong,2025 belastingen 279169 vs 54848; tick1366; primary official NBB WVV 67/77
+bud_ileu_pnl_2025,igs_ileu,2025,417314,,,executed,src_ileu_jr2025_nbb,strong,2025 PnL 9904 417314 DROP vs 5975250; te bestemmen 603852; tick1366; primary official NBB WVV
+bud_ileu_pnl_2024,igs_ileu,2024,5975250,,,executed,src_ileu_jr2025_nbb,strong,2024 PnL 5975250 comparative; tick1366; primary official NBB WVV 9904
+bud_ileu_board_2025,igs_ileu,2025,60676,,,executed,src_ileu_jr2025_nbb,strong,2025 bestuurdersbezoldiging 60676; tick1366; primary official NBB WVV 9503
+bud_ileu_comm_2025,igs_ileu,2025,15750,,,executed,src_ileu_jr2025_nbb,strong,2025 commissaris Vyvey 15750; tick1366; primary official NBB WVV 9505
+bud_ileu_cat_re_2025,igs_ileu,2025,5525970,,,executed,src_ileu_jr2025_nbb,strong,2025 6.10 grondbeleid/vastgoedbeheer 5525970; tick1366; primary official NBB WVV 6.10
+bud_ileu_cat_gem_2025,igs_ileu,2025,2469134,,,executed,src_ileu_jr2025_nbb,strong,2025 6.10 werken voor gemeenten 2469134; tick1366; primary official NBB WVV 6.10
+bud_ileu_cat_mil_2025,igs_ileu,2025,1803792,,,executed,src_ileu_jr2025_nbb,strong,2025 6.10 milieudienst 1803792; tick1366; primary official NBB WVV 6.10
