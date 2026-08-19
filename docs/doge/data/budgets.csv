@@ -39289,3 +39289,54 @@ bud_igoh_capex_2025,igs_igoh,2025,406567,,,executed,src_igoh_jr2025_nbb,strong,2
 bud_igoh_commissaris_2025,igs_igoh,2025,7500,,,executed,src_igoh_jr2025_nbb,strong,2025 commissaris 7500 VYVEY & CO; tick1409; primary official NBB WVV 9505
 bud_igoh_related_recv_2025,igs_igoh,2025,84450,,,executed,src_igoh_jr2025_nbb,strong,2025 related recv 84450 counterpart unpublished; tick1409; primary official NBB WVV 9500
 bud_igoh_hyp_2025,igs_igoh,2025,459930,,,executed,src_igoh_jr2025_nbb,strong,2025 hypotheek boekwaarde 459930 / mandaat 830000; tick1409; primary official NBB WVV 91611/91631
+bud_snfn_assets_2025,bv_snfn,2025,6292098,,,executed,src_snfn_jr2025_nbb,strong,2025 assets 6292098 VKT-inb 20/58; tick1410; primary official NBB WVV; commissaris 6292098
+bud_snfn_assets_2024,bv_snfn,2024,8574268,,,executed,src_snfn_jr2025_nbb,strong,2024 assets 8574268 comparative PDF; tick1410; primary official NBB WVV 20/58
+bud_snfn_fixed_2025,bv_snfn,2025,665302,,,executed,src_snfn_jr2025_nbb,strong,2025 vaste activa 665302 DROP vs 3040773; tick1410; primary official NBB WVV 21/28
+bud_snfn_iva_2025,bv_snfn,2025,91001,,,executed,src_snfn_jr2025_nbb,strong,2025 IVA 91001 vs 97330; tick1410; primary official NBB WVV 21
+bud_snfn_mva_2025,bv_snfn,2025,574302,,,executed,src_snfn_jr2025_nbb,strong,2025 MVA 574302 DROP vs 2943444; tick1410; primary official NBB WVV 22/27
+bud_snfn_mach_2025,bv_snfn,2025,574302,,,executed,src_snfn_jr2025_nbb,strong,2025 machines 574302 DROP vs 2846450; tick1410; primary official NBB WVV 23
+bud_snfn_mva_disp_2025,bv_snfn,2025,2665165,,,executed,src_snfn_jr2025_nbb,strong,2025 MVA disposal aanschaf 2665165 / afschr afgeboekt 335667; tick1410; primary official NBB WVV 8179/8309
+bud_snfn_current_2025,bv_snfn,2025,5626796,,,executed,src_snfn_jr2025_nbb,strong,2025 vlottend 5626796 vs 5532979; tick1410; primary official NBB WVV 29/58
+bud_snfn_ltrecv_2025,bv_snfn,2025,4005558,,,executed,src_snfn_jr2025_nbb,strong,2025 LT overige vorderingen 4005558 financial leases counterpart unpublished; tick1410; primary official NBB WVV 291
+bud_snfn_wip_2025,bv_snfn,2025,178797,,,executed,src_snfn_jr2025_nbb,strong,2025 bestellingen in uitvoering 178797 vs 280391; tick1410; primary official NBB WVV 37
+bud_snfn_strecv_2025,bv_snfn,2025,451184,,,executed,src_snfn_jr2025_nbb,strong,2025 ST vorderingen 451184 vs 600318; tick1410; primary official NBB WVV 40/41
+bud_snfn_trade_recv_2025,bv_snfn,2025,76852,,,executed,src_snfn_jr2025_nbb,strong,2025 handelsvorderingen 76852 DROP vs 230354; tick1410; primary official NBB WVV 40
+bud_snfn_othrecv_2025,bv_snfn,2025,374332,,,executed,src_snfn_jr2025_nbb,strong,2025 overige ST vorderingen 374332; tick1410; primary official NBB WVV 41
+bud_snfn_invest_2025,bv_snfn,2025,950000,,,executed,src_snfn_jr2025_nbb,strong,2025 geldbeleggingen 950000 JUMP vs 300000; tick1410; primary official NBB WVV 50/53
+bud_snfn_cash_2025,bv_snfn,2025,29493,,,executed,src_snfn_jr2025_nbb,strong,2025 liquide middelen 29493 DROP vs 210750; tick1410; primary official NBB WVV 54/58
+bud_snfn_cash_2024,bv_snfn,2024,210750,,,executed,src_snfn_jr2025_nbb,strong,2024 liquide middelen 210750 comparative; tick1410; primary official NBB WVV 54/58
+bud_snfn_prepaid_2025,bv_snfn,2025,11763,,,executed,src_snfn_jr2025_nbb,strong,2025 overlopend actief 11763; tick1410; primary official NBB WVV 490/1
+bud_snfn_equity_2025,bv_snfn,2025,1598530,,,executed,src_snfn_jr2025_nbb,strong,2025 EV 1598530 vs 1425832; tick1410; primary official NBB WVV 10/15
+bud_snfn_inbreng_2025,bv_snfn,2025,500000,,,executed,src_snfn_jr2025_nbb,strong,2025 inbreng onbeschikbaar 500000; tick1410; primary official NBB WVV 111
+bud_snfn_reserves_2025,bv_snfn,2025,958298,,,executed,src_snfn_jr2025_nbb,strong,2025 beschikbare reserves 958298 vs 805627; tick1410; primary official NBB WVV 133
+bud_snfn_overgedragen_2025,bv_snfn,2025,140231,,,executed,src_snfn_jr2025_nbb,strong,2025 overgedragen 140231 vs 120205; tick1410; primary official NBB WVV 14
+bud_snfn_debt_2025,bv_snfn,2025,4693569,,,executed,src_snfn_jr2025_nbb,strong,2025 schulden 4693569 DROP vs 7148436; tick1410; primary official NBB WVV 17/49
+bud_snfn_debt_2024,bv_snfn,2024,7148436,,,executed,src_snfn_jr2025_nbb,strong,2024 schulden 7148436 comparative; tick1410; primary official NBB WVV 17/49
+bud_snfn_lt_2025,bv_snfn,2025,3654837,,,executed,src_snfn_jr2025_nbb,strong,2025 LT financieel 3654837 vs 5592541; tick1410; primary official NBB WVV 17
+bud_snfn_ltbank_2025,bv_snfn,2025,2104356,,,executed,src_snfn_jr2025_nbb,strong,2025 LT bank/lease 2104356 DROP vs 3582541; tick1410; primary official NBB WVV 172/3
+bud_snfn_othloans_2025,bv_snfn,2025,1550481,,,executed,src_snfn_jr2025_nbb,strong,2025 overige leningen 1550481 counterpart unpublished; tick1410; primary official NBB WVV 174/0
+bud_snfn_st_2025,bv_snfn,2025,353400,,,executed,src_snfn_jr2025_nbb,strong,2025 ST 353400 vs 847001; tick1410; primary official NBB WVV 42/48
+bud_snfn_ltdue_2025,bv_snfn,2025,241001,,,executed,src_snfn_jr2025_nbb,strong,2025 LT-due 241001 vs 301540; tick1410; primary official NBB WVV 42
+bud_snfn_sttrade_2025,bv_snfn,2025,48806,,,executed,src_snfn_jr2025_nbb,strong,2025 leveranciers 48806 DROP vs 293655; tick1410; primary official NBB WVV 440/4
+bud_snfn_vooruit_2025,bv_snfn,2025,63594,,,executed,src_snfn_jr2025_nbb,strong,2025 vooruitbetalingen 63594; tick1410; primary official NBB WVV 46
+bud_snfn_deferred_pass_2025,bv_snfn,2025,685331,,,executed,src_snfn_jr2025_nbb,strong,2025 overlopend passief 685331; tick1410; primary official NBB WVV 492/3
+bud_snfn_debt_1_5y_2025,bv_snfn,2025,1055466,,,executed,src_snfn_jr2025_nbb,strong,2025 debt 1-5y 1055466; tick1410; primary official NBB WVV 8912
+bud_snfn_debt_gt5y_2025,bv_snfn,2025,2599371,,,executed,src_snfn_jr2025_nbb,strong,2025 debt >5y 2599371; tick1410; primary official NBB WVV 8913
+bud_snfn_brutomarge_2025,bv_snfn,2025,306300,,,executed,src_snfn_jr2025_nbb,strong,2025 brutomarge 306300 vs 316323; omzet 70 empty; tick1410; primary official NBB WVV 9900
+bud_snfn_brutomarge_2024,bv_snfn,2024,316323,,,executed,src_snfn_jr2025_nbb,strong,2024 brutomarge 316323 comparative; tick1410; primary official NBB WVV 9900
+bud_snfn_nrec_2025,bv_snfn,2025,144617,,,executed,src_snfn_jr2025_nbb,strong,2025 niet-recurrent 76A 144617 JUMP vs 1977; tick1410; primary official NBB WVV 76A
+bud_snfn_afschr_2025,bv_snfn,2025,46488,,,executed,src_snfn_jr2025_nbb,strong,2025 afschrijvingen 46488 vs 147560; tick1410; primary official NBB WVV 630
+bud_snfn_expl_2025,bv_snfn,2025,257848,,,executed,src_snfn_jr2025_nbb,strong,2025 expl 257848 vs 165862; tick1410; primary official NBB WVV 9901
+bud_snfn_expl_2024,bv_snfn,2024,165862,,,executed,src_snfn_jr2025_nbb,strong,2024 expl 165862 comparative; tick1410; primary official NBB WVV 9901
+bud_snfn_finopbr_2025,bv_snfn,2025,112283,,,executed,src_snfn_jr2025_nbb,strong,2025 fin opbr 112283 vs 95054; tick1410; primary official NBB WVV 75
+bud_snfn_fincost_2025,bv_snfn,2025,143644,,,executed,src_snfn_jr2025_nbb,strong,2025 fin kosten 143644 vs 184833; tick1410; primary official NBB WVV 65
+bud_snfn_tax_2025,bv_snfn,2025,53790,,,executed,src_snfn_jr2025_nbb,strong,2025 belastingen 53790 vs 23755; tick1410; primary official NBB WVV 67/77
+bud_snfn_pnl_2025,bv_snfn,2025,172697,,,executed,src_snfn_jr2025_nbb,strong,2025 PnL 172697 vs 52328; commissaris 172697; tick1410; primary official NBB WVV 9904
+bud_snfn_pnl_2024,bv_snfn,2024,52328,,,executed,src_snfn_jr2025_nbb,strong,2024 PnL 52328 comparative; tick1410; primary official NBB WVV 9904
+bud_snfn_div_2025,bv_snfn,2025,0,,,executed,src_snfn_jr2025_nbb,strong,2025 dividend 694 empty; tick1410; primary official NBB WVV 694
+bud_snfn_to_res_2025,bv_snfn,2025,152671,,,executed,src_snfn_jr2025_nbb,strong,2025 toevoeging overige reserves 152671; tick1410; primary official NBB WVV 6921
+bud_snfn_capex_2025,bv_snfn,2025,0,,,executed,src_snfn_jr2025_nbb,strong,2025 capex aanschaf IVA+MVA empty; tick1410; primary official NBB WVV 8029/8169
+bud_snfn_commissaris_2025,bv_snfn,2025,9933,,,executed,src_snfn_jr2025_nbb,strong,2025 commissaris 9933 + tax advies 330 VGD; tick1410; primary official NBB WVV 6.6
+bud_snfn_bestuur_2025,bv_snfn,2025,8561,,,executed,src_snfn_jr2025_nbb,strong,2025 bestuurders presentiegeld 8446.40 + KM 114.40 = 8560.80; tick1410; primary official NBB WVV remuneratieverslag
+bud_snfn_borg_2025,bv_snfn,2025,3000000,,,executed,src_snfn_jr2025_nbb,strong,2025 off-balance borg Efin/Creadiv/Enbro 3000000; tick1410; primary official NBB WVV 6.5
+bud_snfn_solidaire_2025,bv_snfn,2025,1000000,,,executed,src_snfn_jr2025_nbb,strong,2025 solidaire waarborg EFIN-Sunfin 1000000; tick1410; primary official NBB WVV 6.5

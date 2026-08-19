@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 1410** (2026-08-19)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1401-1410 leftover IGS/AGB/BV: **OVCO** · **DDS** · **VERKO** · **Psilon** · **AGB Tielt** · **MLSO** · **AGB Patri** · **Rematics** · **IGO** · **Sunfin** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1401-1410 is VL residual dual L5 leftover IGS/AGB/BV (not near-complete of 348bn):** **MLSO** assets **227.28m** · **DDS** assets **48.50m** · **VERKO** assets **38.42m** · **AGB Tielt** assets **19.95m** · **AGB Patri** assets **9.69m** · **OVCO** assets **9.37m** · **Psilon** assets **8.63m** · **IGO** assets **8.46m** · **Sunfin** assets **6.29m** · **Rematics** assets **0.93m** · prior leftover IGS/NV/Fluvius stack retained |
+| **E. FOI-ready gaps** | **~1053** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1101** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek/klimaat-holding/energy-DSO/zorg shells** (**NEW Sunfin** assets **EUR6.29m** brutomarge **EUR0.31m** lease recv **EUR4.01m** debt **EUR4.69m** · **IGO** assets **EUR8.46m** omzet **EUR6.95m** pers **EUR6.26m** · **Rematics** assets **EUR0.93m** · **AGB Patri** assets **EUR9.69m** · **MLSO** assets **EUR227.28m** · **AGB Tielt** assets **EUR19.95m** · **Psilon** assets **EUR8.63m** · **VERKO** assets **EUR38.42m** · **DDS** assets **EUR48.50m** · **OVCO** assets **EUR9.37m** · prior leftover IGL 65.30m / Otary RS 95.63m / IBEG 100.49m / Fluvius DNB + IGS stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1410)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 39341 |
+| commitments.csv | 5010 |
+| leaderboard.csv | 7213 |
+| entities.csv | 1157 |
+| sources.csv | 2776 |
+| FOI ready | 1053 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1101 |
+| research_queue open | rq_116 deferred + rq_1411 hole-fill after progress |
+
+### What improved since tick 1400
+
+- **VL residual dual JR2025 leftover IGS/AGB/BV (tick1401-1409):** **MLSO** assets **227.28m** · **DDS** assets **48.50m** · **VERKO** assets **38.42m** · **AGB Tielt** assets **19.95m** · **AGB Patri** assets **9.69m** · **OVCO** assets **9.37m** · **Psilon** assets **8.63m** · **IGO** assets **8.46m** · **Rematics** assets **0.93m** — no invented euros.
+- **NEW (tick1410):** **Sunfin** (KBO 0749.835.635) leftover Nuhma-adjacent public-shareholder BV / PV + financiële leasing. Official NBB WVV VKT-inb deposit **2026-00168940** PDF (888527 bytes / 28p; AV 02.06.2026; header 17.06.2026). Assets **6.292.098** · brutomarge **306.300** (omzet 70 empty) · lease recv **4.005.558** · debt **4.693.569** · PnL **+172.697**. FOI ready. Every-10 progress refresh from on-disk CSVs.
+- **Dual map themes:** **leftover Nuhma daughter + leftover streek/waste/crematorium IGS + leftover AGB + leftover haven IGS** (Sunfin 6.29m / IGO 8.46m / Rematics 0.93m / Patri 9.69m / MLSO 227.28m / Tielt 19.95m / VERKO 38.42m / DDS 48.50m / OVCO 9.37m / Psilon 8.63m) · prior leftover IGL/Otary/IBEG/Fluvius DNB stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
 ## Snapshot at **tick 1400** (2026-08-19)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
