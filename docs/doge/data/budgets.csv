@@ -41052,3 +41052,41 @@ bud_rlhp_div_2025,vzw_rlhp,2025,0,,,executed,src_rlhp_jr2025_nbb,strong,2025 div
 bud_rlhp_capex_2025,vzw_rlhp,2025,31480,,,executed,src_rlhp_jr2025_nbb,strong,2025 capex MVA aanschaf 8169 31480; IVA/FVA empty; tick1451; primary official NBB WVV
 bud_rlhp_onttrekking_2025,vzw_rlhp,2025,32936,,,executed,src_rlhp_jr2025_nbb,strong,2025 onttrekking bestemde 791 32936; tick1451; primary official NBB WVV
 bud_rlhp_toevoeging_2025,vzw_rlhp,2025,102688,,,executed,src_rlhp_jr2025_nbb,strong,2025 toevoeging bestemde 691 102688; tick1451; primary official NBB WVV
+bud_clmb_assets_2025,cv_clmb,2025,911880,,,executed,src_clmb_jr2025_nbb,strong,2025 assets 911880 (was 532929); tick1452; primary official NBB WVV
+bud_clmb_fixed_2025,cv_clmb,2025,3172,,,executed,src_clmb_jr2025_nbb,strong,2025 vaste activa 3172 (was 0); tick1452; primary official NBB WVV
+bud_clmb_iva_2025,cv_clmb,2025,0,,,executed,src_clmb_jr2025_nbb,strong,2025 IVA empty; 6.1.1 not filed; tick1452; primary official NBB WVV
+bud_clmb_mva_2025,cv_clmb,2025,3172,,,executed,src_clmb_jr2025_nbb,strong,2025 MVA 3172 installaties 3172 (was 0); tick1452; primary official NBB WVV
+bud_clmb_install_2025,cv_clmb,2025,3172,,,executed,src_clmb_jr2025_nbb,strong,2025 installaties 23 3172 (was 0); tick1452; primary official NBB WVV
+bud_clmb_fva_2025,cv_clmb,2025,0,,,executed,src_clmb_jr2025_nbb,strong,2025 FVA empty; 6.1.3 not filed; tick1452; primary official NBB WVV
+bud_clmb_current_2025,cv_clmb,2025,908708,,,executed,src_clmb_jr2025_nbb,strong,2025 vlottend 908708 (was 532929); tick1452; primary official NBB WVV
+bud_clmb_voorraden_2025,cv_clmb,2025,58095,,,executed,src_clmb_jr2025_nbb,strong,2025 voorraden 58095 (was 41861); tick1452; primary official NBB WVV
+bud_clmb_strecv_2025,cv_clmb,2025,208485,,,executed,src_clmb_jr2025_nbb,strong,2025 ST vorderingen 208485 (was 289550); tick1452; primary official NBB WVV
+bud_clmb_trade_2025,cv_clmb,2025,199485,,,executed,src_clmb_jr2025_nbb,strong,2025 handelsvorderingen 199485 (was 276993); tick1452; primary official NBB WVV
+bud_clmb_othrecv_2025,cv_clmb,2025,9000,,,executed,src_clmb_jr2025_nbb,strong,2025 overige vorderingen 9000 (was 12557); tick1452; primary official NBB WVV
+bud_clmb_geldbeleg_2025,cv_clmb,2025,0,,,executed,src_clmb_jr2025_nbb,strong,2025 geldbeleggingen empty; tick1452; primary official NBB WVV
+bud_clmb_cash_2025,cv_clmb,2025,642128,,,executed,src_clmb_jr2025_nbb,strong,2025 liquide middelen 642128 JUMP (was 201518); tick1452; primary official NBB WVV
+bud_clmb_prepaid_2025,cv_clmb,2025,0,,,executed,src_clmb_jr2025_nbb,strong,2025 prepaid empty; tick1452; primary official NBB WVV
+bud_clmb_equity_2025,cv_clmb,2025,-45030,,,executed,src_clmb_jr2025_nbb,strong,2025 EV -45030 (was -79944); alarmbel art 6:119; tick1452; primary official NBB WVV
+bud_clmb_inbreng_2025,cv_clmb,2025,18600,,,executed,src_clmb_jr2025_nbb,strong,2025 inbreng onbeschikbaar 18600; tick1452; primary official NBB WVV
+bud_clmb_reserves_2025,cv_clmb,2025,1860,,,executed,src_clmb_jr2025_nbb,strong,2025 statutair onbeschikbare reserves 1860; tick1452; primary official NBB WVV
+bud_clmb_overgedragen_2025,cv_clmb,2025,-65490,,,executed,src_clmb_jr2025_nbb,strong,2025 overgedragen -65490 (was -100404); tick1452; primary official NBB WVV
+bud_clmb_debt_2025,cv_clmb,2025,956910,,,executed,src_clmb_jr2025_nbb,strong,2025 schulden 956910 JUMP (was 612873; LT empty); tick1452; primary official NBB WVV
+bud_clmb_stdebt_2025,cv_clmb,2025,932935,,,executed,src_clmb_jr2025_nbb,strong,2025 ST schulden 932935 (was 603142); tick1452; primary official NBB WVV
+bud_clmb_lev_2025,cv_clmb,2025,115753,,,executed,src_clmb_jr2025_nbb,strong,2025 leveranciers 115753 (was 102103); tick1452; primary official NBB WVV
+bud_clmb_tax_2025,cv_clmb,2025,7784,,,executed,src_clmb_jr2025_nbb,strong,2025 belastingen 450/3 7784 (was 330); tick1452; primary official NBB WVV
+bud_clmb_bezold_2025,cv_clmb,2025,42080,,,executed,src_clmb_jr2025_nbb,strong,2025 bezoldigingen 454/9 42080 (was 24685); tick1452; primary official NBB WVV
+bud_clmb_othdebt_2025,cv_clmb,2025,767318,,,executed,src_clmb_jr2025_nbb,strong,2025 overige schulden 767318 JUMP (was 476024); tick1452; primary official NBB WVV
+bud_clmb_deferred_2025,cv_clmb,2025,23975,,,executed,src_clmb_jr2025_nbb,strong,2025 deferred 23975 (was 9731); tick1452; primary official NBB WVV
+bud_clmb_bruto_2025,cv_clmb,2025,388600,,,executed,src_clmb_jr2025_nbb,strong,2025 brutomarge 9900 388600 JUMP (was 153973); tick1452; primary official NBB WVV
+bud_clmb_omzet_2025,cv_clmb,2025,0,,,executed,src_clmb_jr2025_nbb,strong,2025 omzet 70 empty (MIC-inb); tick1452; primary official NBB WVV
+bud_clmb_diensten_2025,cv_clmb,2025,0,,,executed,src_clmb_jr2025_nbb,strong,2025 60/61 empty (MIC-inb); tick1452; primary official NBB WVV
+bud_clmb_pers_2025,cv_clmb,2025,352382,,,executed,src_clmb_jr2025_nbb,strong,2025 pers 62 352382 / 100 = 4.2 VTE (was 202193 / 3.2); tick1452; primary official NBB WVV
+bud_clmb_afschr_2025,cv_clmb,2025,28,,,executed,src_clmb_jr2025_nbb,strong,2025 afschrijvingen 630 28; tick1452; primary official NBB WVV
+bud_clmb_andere_2025,cv_clmb,2025,400,,,executed,src_clmb_jr2025_nbb,strong,2025 andere bedrijfskosten 640/8 400 (was 387); tick1452; primary official NBB WVV
+bud_clmb_expl_2025,cv_clmb,2025,35790,,,executed,src_clmb_jr2025_nbb,strong,2025 expl 35790 (was -48607); tick1452; primary official NBB WVV
+bud_clmb_finopbr_2025,cv_clmb,2025,285,,,executed,src_clmb_jr2025_nbb,strong,2025 fin opbr 285 all recurrent (was 153); tick1452; primary official NBB WVV
+bud_clmb_finkost_2025,cv_clmb,2025,1161,,,executed,src_clmb_jr2025_nbb,strong,2025 fin kosten 1161 all recurrent (was 1160); tick1452; primary official NBB WVV
+bud_clmb_pnl_2025,cv_clmb,2025,34914,,,executed,src_clmb_jr2025_nbb,strong,2025 PnL 34914 (was -49615); tick1452; primary official NBB WVV
+bud_clmb_div_2025,cv_clmb,2025,0,,,executed,src_clmb_jr2025_nbb,strong,2025 dividend 0; 694/7 empty; tick1452; primary official NBB WVV
+bud_clmb_capex_2025,cv_clmb,2025,3200,,,executed,src_clmb_jr2025_nbb,strong,2025 capex MVA aanschaf 8169 3200; IVA/FVA empty; tick1452; primary official NBB WVV
+bud_clmb_parentsteun_2025,cv_clmb,2025,110000,,,executed,src_clmb_jr2025_nbb,strong,2025 steun meerderheidsaandeelhouder Bosgroep Limburg VZW 110000 (alarmbel verslag); tick1452; primary official NBB WVV bijzonder verslag
