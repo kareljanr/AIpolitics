@@ -39186,3 +39186,51 @@ bud_ptri_div_2025,agb_ptri,2025,16986,,,executed,src_ptri_jr2025_nbb,strong,2025
 bud_ptri_overgedragen_dest_2025,agb_ptri,2025,263147,,,executed,src_ptri_jr2025_nbb,strong,2025 over te dragen winst 263147; tick1407; primary official NBB WVV 14
 bud_ptri_capex_mva_2025,agb_ptri,2025,127844,,,executed,src_ptri_jr2025_nbb,strong,2025 capex MVA aanschaf 127844; tick1407; primary official NBB WVV 8169
 bud_ptri_capex_2025,agb_ptri,2025,127844,,,executed,src_ptri_jr2025_nbb,strong,2025 capex MVA 127844 (IVA 8029 empty); tick1407; primary official NBB WVV 8169
+bud_rmat_assets_2025,bv_rmat,2025,928832,,,executed,src_rmat_jr2025_nbb,strong,2025 assets 928832 VOL-inb 20/58; tick1408; primary official NBB WVV; table 924070 not used
+bud_rmat_assets_2024,bv_rmat,2024,529458,,,executed,src_rmat_jr2025_nbb,strong,2024 assets 529458 comparative first year; tick1408; primary official NBB WVV 20/58
+bud_rmat_opricht_2025,bv_rmat,2025,4762,,,executed,src_rmat_jr2025_nbb,strong,2025 oprichtingskosten 4762 vs 848; tick1408; primary official NBB WVV 20
+bud_rmat_fixed_2025,bv_rmat,2025,716745,,,executed,src_rmat_jr2025_nbb,strong,2025 vaste activa 716745 vs 373188; tick1408; primary official NBB WVV 21/28
+bud_rmat_iva_2025,bv_rmat,2025,652571,,,executed,src_rmat_jr2025_nbb,strong,2025 IVA development 652571 vs 341203; tick1408; primary official NBB WVV 21
+bud_rmat_iva_aanschaf_2025,bv_rmat,2025,385882,,,executed,src_rmat_jr2025_nbb,strong,2025 IVA aanschaf/geproduceerd 385882 YE aanschaf 727085 afschr 74514; tick1408; primary official NBB WVV 8021
+bud_rmat_mva_2025,bv_rmat,2025,64174,,,executed,src_rmat_jr2025_nbb,strong,2025 MVA meubilair 64174 vs 31985; tick1408; primary official NBB WVV 22/27
+bud_rmat_current_2025,bv_rmat,2025,207325,,,executed,src_rmat_jr2025_nbb,strong,2025 vlottend 207325 vs 155422; tick1408; primary official NBB WVV 29/58
+bud_rmat_voorraden_2025,bv_rmat,2025,42221,,,executed,src_rmat_jr2025_nbb,strong,2025 voorraden 42221 (handelsgoederen 42038 + WIP 183); tick1408; primary official NBB WVV 3
+bud_rmat_strecv_2025,bv_rmat,2025,82390,,,executed,src_rmat_jr2025_nbb,strong,2025 ST vorderingen 82390 vs 50706; tick1408; primary official NBB WVV 40/41
+bud_rmat_trade_recv_2025,bv_rmat,2025,47632,,,executed,src_rmat_jr2025_nbb,strong,2025 handelsvorderingen 47632 vs 1920; tick1408; primary official NBB WVV 40
+bud_rmat_othrecv_2025,bv_rmat,2025,34758,,,executed,src_rmat_jr2025_nbb,strong,2025 overige vorderingen 34758 vs 48786; tick1408; primary official NBB WVV 41
+bud_rmat_cash_2025,bv_rmat,2025,79450,,,executed,src_rmat_jr2025_nbb,strong,2025 liquide middelen 79450 DROP vs 94183; tick1408; primary official NBB WVV 54/58
+bud_rmat_cash_2024,bv_rmat,2024,94183,,,executed,src_rmat_jr2025_nbb,strong,2024 liquide middelen 94183 comparative; tick1408; primary official NBB WVV 54/58
+bud_rmat_prepaid_2025,bv_rmat,2025,3264,,,executed,src_rmat_jr2025_nbb,strong,2025 overlopend actief 3264; tick1408; primary official NBB WVV 490/1
+bud_rmat_equity_2025,bv_rmat,2025,490947,,,executed,src_rmat_jr2025_nbb,strong,2025 EV 490947 vs 7741; tick1408; primary official NBB WVV 10/15
+bud_rmat_inbreng_2025,bv_rmat,2025,688989,,,executed,src_rmat_jr2025_nbb,strong,2025 inbreng onbeschikbaar 688989 vs 10000; tick1408; primary official NBB WVV 111
+bud_rmat_overgedragen_2025,bv_rmat,2025,-198042,,,executed,src_rmat_jr2025_nbb,strong,2025 overgedragen -198042 vs -2259; tick1408; primary official NBB WVV 14
+bud_rmat_debt_2025,bv_rmat,2025,437885,,,executed,src_rmat_jr2025_nbb,strong,2025 schulden 437885 vs 521717; tick1408; primary official NBB WVV 17/49
+bud_rmat_debt_2024,bv_rmat,2024,521717,,,executed,src_rmat_jr2025_nbb,strong,2024 schulden 521717 comparative; tick1408; primary official NBB WVV 17/49
+bud_rmat_lt_2025,bv_rmat,2025,342250,,,executed,src_rmat_jr2025_nbb,strong,2025 LT overige leningen 342250 all 1-5y; tick1408; primary official NBB WVV 17/174
+bud_rmat_st_2025,bv_rmat,2025,89235,,,executed,src_rmat_jr2025_nbb,strong,2025 ST schulden 89235 vs 84365; tick1408; primary official NBB WVV 42/48
+bud_rmat_sttrade_2025,bv_rmat,2025,65651,,,executed,src_rmat_jr2025_nbb,strong,2025 leveranciers 65651 vs 80448; tick1408; primary official NBB WVV 440/4
+bud_rmat_soc_2025,bv_rmat,2025,23583,,,executed,src_rmat_jr2025_nbb,strong,2025 bezoldigingen/sociale lasten 23583 vs 3917; tick1408; primary official NBB WVV 454/9
+bud_rmat_deferred_pass_2025,bv_rmat,2025,6400,,,executed,src_rmat_jr2025_nbb,strong,2025 overlopend passief 6400 vs 88186; tick1408; primary official NBB WVV 492/3
+bud_rmat_related_debt_2025,bv_rmat,2025,382483,,,executed,src_rmat_jr2025_nbb,strong,2025 verbonden schulden 382483 vs 428768; tick1408; primary official NBB WVV 9351
+bud_rmat_related_lt_2025,bv_rmat,2025,342250,,,executed,src_rmat_jr2025_nbb,strong,2025 verbonden LT 342250; tick1408; primary official NBB WVV 9361
+bud_rmat_related_st_2025,bv_rmat,2025,40233,,,executed,src_rmat_jr2025_nbb,strong,2025 verbonden ST 40233 vs 79601; tick1408; primary official NBB WVV 9371
+bud_rmat_related_fincost_2025,bv_rmat,2025,32072,,,executed,src_rmat_jr2025_nbb,strong,2025 verbonden kosten van schulden 32072 vs 9167; tick1408; primary official NBB WVV 9461
+bud_rmat_omzet_2025,bv_rmat,2025,307470,,,executed,src_rmat_jr2025_nbb,strong,2025 omzet 307470; 6.10 category/geo empty; tick1408; primary official NBB WVV 70
+bud_rmat_othops_2025,bv_rmat,2025,24334,,,executed,src_rmat_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 24334; tick1408; primary official NBB WVV 74
+bud_rmat_subsidies_2025,bv_rmat,2025,15597,,,executed,src_rmat_jr2025_nbb,strong,2025 exploitatiesubsidies 15597; tick1408; primary official NBB WVV 740
+bud_rmat_prod_va_2025,bv_rmat,2025,206604,,,executed,src_rmat_jr2025_nbb,strong,2025 geproduceerde VA 206604; tick1408; primary official NBB WVV 72
+bud_rmat_handelsgoederen_2025,bv_rmat,2025,188974,,,executed,src_rmat_jr2025_nbb,strong,2025 handelsgoederen 188974 (aankopen 231012 / voorraad -42038); tick1408; primary official NBB WVV 60
+bud_rmat_diensten_2025,bv_rmat,2025,214735,,,executed,src_rmat_jr2025_nbb,strong,2025 diensten 214735 vs 251178; split unpublished; tick1408; primary official NBB WVV 61
+bud_rmat_pers_2025,bv_rmat,2025,211314,,,executed,src_rmat_jr2025_nbb,strong,2025 pers 211314 / 2 VTE / 3696 uur (lonen 156220 RSZ 19655 andere 35439); tick1408; primary official NBB WVV 62
+bud_rmat_lonen_2025,bv_rmat,2025,156220,,,executed,src_rmat_jr2025_nbb,strong,2025 bezoldigingen 156220; tick1408; primary official NBB WVV 620
+bud_rmat_afschr_2025,bv_rmat,2025,84012,,,executed,src_rmat_jr2025_nbb,strong,2025 afschrijvingen 84012 vs 1331; tick1408; primary official NBB WVV 630
+bud_rmat_expl_2025,bv_rmat,2025,-161644,,,executed,src_rmat_jr2025_nbb,strong,2025 expl -161644 vs 7527; tick1408; primary official NBB WVV 9901
+bud_rmat_expl_2024,bv_rmat,2024,7527,,,executed,src_rmat_jr2025_nbb,strong,2024 expl 7527 comparative; tick1408; primary official NBB WVV 9901
+bud_rmat_fincost_2025,bv_rmat,2025,33716,,,executed,src_rmat_jr2025_nbb,strong,2025 fin kosten 33716 (schulden 33401); tick1408; primary official NBB WVV 65
+bud_rmat_tax_2025,bv_rmat,2025,423,,,executed,src_rmat_jr2025_nbb,strong,2025 belastingen 423; tick1408; primary official NBB WVV 67/77
+bud_rmat_pnl_2025,bv_rmat,2025,-195783,,,executed,src_rmat_jr2025_nbb,strong,2025 PnL -195783 vs -2259; tick1408; primary official NBB WVV 9904
+bud_rmat_pnl_2024,bv_rmat,2024,-2259,,,executed,src_rmat_jr2025_nbb,strong,2024 PnL -2259 comparative; tick1408; primary official NBB WVV 9904
+bud_rmat_div_2025,bv_rmat,2025,0,,,executed,src_rmat_jr2025_nbb,strong,2025 dividend 694 empty; tick1408; primary official NBB WVV 694
+bud_rmat_capex_iva_2025,bv_rmat,2025,385882,,,executed,src_rmat_jr2025_nbb,strong,2025 capex IVA aanschaf 385882; tick1408; primary official NBB WVV 8021
+bud_rmat_capex_mva_2025,bv_rmat,2025,44443,,,executed,src_rmat_jr2025_nbb,strong,2025 capex MVA aanschaf 44443 disposal 2999; tick1408; primary official NBB WVV 8163
+bud_rmat_capex_2025,bv_rmat,2025,430325,,,executed,src_rmat_jr2025_nbb,strong,2025 capex IVA+MVA 430325 (385882+44443); tick1408; primary official NBB WVV 8021/8163
