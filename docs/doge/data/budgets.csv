@@ -43532,3 +43532,47 @@ bud_cgad_pnl_2025,cgg_cgad,2025,598359,,,executed,src_cgad_jr2025_nbb,strong,202
 bud_cgad_div_2025,cgg_cgad,2025,0,,,executed,src_cgad_jr2025_nbb,strong,2025 dividend 0 VZW; tick1511; primary official NBB WVV VOL-VZW 2026-00188352
 bud_cgad_capex_2025,cgg_cgad,2025,94989,,,executed,src_cgad_jr2025_nbb,strong,2025 capex 8161+8162+8163 94989 (43819+32002+19168); 8164+8165 empty; tick1511; primary official NBB WVV VOL-VZW 2026-00188352
 bud_cgad_commissaris_2025,cgg_cgad,2025,10257,,,executed,src_cgad_jr2025_nbb,strong,2025 commissaris Callens Vandelanotte B00083 fee 10257; tick1511; primary official NBB WVV VOL-VZW 2026-00188352
+bud_cgvg_assets_2025,cgg_cgvg,2025,14851070,,,executed,src_cgvg_jr2025_nbb,strong,2025 assets 14851070 DROP (was 15228086); tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_vaste_2025,cgg_cgvg,2025,5525796,,,executed,src_cgvg_jr2025_nbb,strong,2025 vaste 21/28 5525796; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_iva_2025,cgg_cgvg,2025,7610,,,executed,src_cgvg_jr2025_nbb,strong,2025 IVA 21 7610; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_mva_2025,cgg_cgvg,2025,5516500,,,executed,src_cgvg_jr2025_nbb,strong,2025 MVA 22/27 5516500 DROP (was 6125395); tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_gebouwen_2025,cgg_cgvg,2025,5272763,,,executed,src_cgvg_jr2025_nbb,strong,2025 terreinen/gebouwen 22 5272763 DROP (was 5914797); tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_install_2025,cgg_cgvg,2025,3112,,,executed,src_cgvg_jr2025_nbb,strong,2025 installaties 23 3112; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_meubilair_2025,cgg_cgvg,2025,180729,,,executed,src_cgvg_jr2025_nbb,strong,2025 meubilair 24 180729; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_overige_mva_2025,cgg_cgvg,2025,59895,,,executed,src_cgvg_jr2025_nbb,strong,2025 overige MVA 26 59895; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_fva_2025,cgg_cgvg,2025,1686,,,executed,src_cgvg_jr2025_nbb,strong,2025 FVA 28 1686; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_current_2025,cgg_cgvg,2025,9325275,,,executed,src_cgvg_jr2025_nbb,strong,2025 vlottende 29/58 9325275; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_strecv_2025,cgg_cgvg,2025,1946272,,,executed,src_cgvg_jr2025_nbb,strong,2025 ST recv 40/41 1946272; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_handelsrecv_2025,cgg_cgvg,2025,58367,,,executed,src_cgvg_jr2025_nbb,strong,2025 handelsvorderingen 40 58367 DROP (was 466030); tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_overige_recv_2025,cgg_cgvg,2025,1887905,,,executed,src_cgvg_jr2025_nbb,strong,2025 overige vorderingen 41 1887905; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_beleg_2025,cgg_cgvg,2025,1368267,,,executed,src_cgvg_jr2025_nbb,strong,2025 beleggingen 50/53 1368267 DROP (was 1511267); tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_cash_2025,cgg_cgvg,2025,5984914,,,executed,src_cgvg_jr2025_nbb,strong,2025 cash 54/58 5984914 JUMP (was 5342537); tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_prepaid_2025,cgg_cgvg,2025,25821,,,executed,src_cgvg_jr2025_nbb,strong,2025 prepaid 490/1 25821; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_equity_2025,cgg_cgvg,2025,12904702,,,executed,src_cgvg_jr2025_nbb,strong,2025 equity 10/15 12904702 DROP (was 13103369); tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_fondsen_2025,cgg_cgvg,2025,4718755,,,executed,src_cgvg_jr2025_nbb,strong,2025 fondsen 10 4718755; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_bestemde_2025,cgg_cgvg,2025,5507819,,,executed,src_cgvg_jr2025_nbb,strong,2025 bestemde 13 5507819 (was 5346569); tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_kapsubs_2025,cgg_cgvg,2025,2678128,,,executed,src_cgvg_jr2025_nbb,strong,2025 kapsubs 15 2678128 DROP (was 3038045); tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_debt_2025,cgg_cgvg,2025,1946368,,,executed,src_cgvg_jr2025_nbb,strong,2025 debt 17/49 1946368 DROP (was 2124717); tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_stdebt_2025,cgg_cgvg,2025,1772428,,,executed,src_cgvg_jr2025_nbb,strong,2025 ST debt 42/48 1772428; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_lev_2025,cgg_cgvg,2025,99150,,,executed,src_cgvg_jr2025_nbb,strong,2025 leveranciers 440/4 99150; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_taxsoc_2025,cgg_cgvg,2025,1428395,,,executed,src_cgvg_jr2025_nbb,strong,2025 tax/soc 45 1428395; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_otherst_2025,cgg_cgvg,2025,244882,,,executed,src_cgvg_jr2025_nbb,strong,2025 overige 48 244882; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_accruals_2025,cgg_cgvg,2025,173941,,,executed,src_cgvg_jr2025_nbb,strong,2025 overlopend 492/3 173941; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_opbr_2025,cgg_cgvg,2025,15726951,,,executed,src_cgvg_jr2025_nbb,strong,2025 bedrijfsopbrengsten 70/76A 15726951 UP (was 15437272); tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_omzet_2025,cgg_cgvg,2025,662928,,,executed,src_cgvg_jr2025_nbb,strong,2025 omzet 70 662928 DROP (was 685965); tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_lidgeld_2025,cgg_cgvg,2025,14859363,,,executed,src_cgvg_jr2025_nbb,strong,2025 lidgeld/subsidies 73 14859363 UP all 733; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_andere_opbr_2025,cgg_cgvg,2025,65052,,,executed,src_cgvg_jr2025_nbb,strong,2025 andere 74 65052; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_nrec_2025,cgg_cgvg,2025,139608,,,executed,src_cgvg_jr2025_nbb,strong,2025 nrec 76A 139608 JUMP (7630 meerwaarden MVA); tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_pers_2025,cgg_cgvg,2025,12839263,,,executed,src_cgvg_jr2025_nbb,strong,2025 pers 62 12839263 / 141.1 VTE; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_diensten_2025,cgg_cgvg,2025,2038941,,,executed,src_cgvg_jr2025_nbb,strong,2025 diensten 61 2038941; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_afschr_2025,cgg_cgvg,2025,693388,,,executed,src_cgvg_jr2025_nbb,strong,2025 afschr 630 693388; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_andere_2025,cgg_cgvg,2025,14107,,,executed,src_cgvg_jr2025_nbb,strong,2025 andere 640/8 14107; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_bedrijfskost_2025,cgg_cgvg,2025,15585699,,,executed,src_cgvg_jr2025_nbb,strong,2025 bedrijfskosten 60/66A 15585699; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_expl_2025,cgg_cgvg,2025,141252,,,executed,src_cgvg_jr2025_nbb,strong,2025 bedrijfswinst 9901 141252 DROP (was 596719); tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_finopbr_2025,cgg_cgvg,2025,38169,,,executed,src_cgvg_jr2025_nbb,strong,2025 fin opbr 75 38169; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_finkost_2025,cgg_cgvg,2025,11444,,,executed,src_cgvg_jr2025_nbb,strong,2025 fin kost 65 11444; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_tax_2025,cgg_cgvg,2025,6728,,,executed,src_cgvg_jr2025_nbb,strong,2025 tax 67/77 6728; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_pnl_2025,cgg_cgvg,2025,161249,,,executed,src_cgvg_jr2025_nbb,strong,2025 PnL 9904 161249 DROP (was 615527); tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_div_2025,cgg_cgvg,2025,0,,,executed,src_cgvg_jr2025_nbb,strong,2025 dividend 0 VZW; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_capex_2025,cgg_cgvg,2025,95969,,,executed,src_cgvg_jr2025_nbb,strong,2025 capex 8161+8162+8163 95969; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
+bud_cgvg_commissaris_2025,cgg_cgvg,2025,11628,,,executed,src_cgvg_jr2025_nbb,strong,2025 commissaris 9505 11628 Callens Vandelanotte Theunissen B00003; tick1512; primary official NBB WVV VOL-VZW 2026-00220528
