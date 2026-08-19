@@ -39702,3 +39702,40 @@ bud_mwdv_div_2025,igs_midwest_dv,2025,0,,,executed,src_mwdv_jr2025_nbb,strong,20
 bud_mwdv_overgedragen_dest_2025,igs_midwest_dv,2025,885829,,,executed,src_mwdv_jr2025_nbb,strong,2025 over te dragen winst 885829; tick1418; primary official NBB WVV 14
 bud_mwdv_capex_2025,igs_midwest_dv,2025,146159,,,executed,src_mwdv_jr2025_nbb,strong,2025 capex MVA aanschaf 146159; tick1418; primary official NBB WVV 8169
 bud_mwdv_comm_fee_2025,igs_midwest_dv,2025,6031,,,executed,src_mwdv_jr2025_nbb,strong,2025 commissaris Callens Vandelanotte 6031 excl btw; tick1418; primary official NBB WVV 6.6
+bud_dmrd_assets_2025,igs_dmrd,2025,374418,,,executed,src_dmrd_jr2025_nbb,strong,2025 assets 374418 MIC-inb 20/58; tick1419; primary official NBB WVV; table 374418 not used as source
+bud_dmrd_assets_2024,igs_dmrd,2024,421587,,,executed,src_dmrd_jr2025_nbb,strong,2024 assets 421587 comparative; tick1419; primary official NBB WVV 20/58
+bud_dmrd_fixed_2025,igs_dmrd,2025,0,,,executed,src_dmrd_jr2025_nbb,strong,2025 vaste activa empty (MVA fully depreciated); tick1419; primary official NBB WVV 21/28
+bud_dmrd_mva_aanschaf_2025,igs_dmrd,2025,10250,,,executed,src_dmrd_jr2025_nbb,strong,2025 MVA aanschaf 10250 / afschr 10250 / netto empty; tick1419; primary official NBB WVV 8199/8329
+bud_dmrd_current_2025,igs_dmrd,2025,374418,,,executed,src_dmrd_jr2025_nbb,strong,2025 vlottend 374418 vs 421587; tick1419; primary official NBB WVV 29/58
+bud_dmrd_strecv_2025,igs_dmrd,2025,86917,,,executed,src_dmrd_jr2025_nbb,strong,2025 ST vorderingen 86917 vs 61761 (all other); tick1419; primary official NBB WVV 40/41
+bud_dmrd_othrecv_2025,igs_dmrd,2025,86917,,,executed,src_dmrd_jr2025_nbb,strong,2025 overige vorderingen 86917 vs 61761 counterpart unpublished; tick1419; primary official NBB WVV 41
+bud_dmrd_strecv_2024,igs_dmrd,2024,61761,,,executed,src_dmrd_jr2025_nbb,strong,2024 ST vorderingen 61761 comparative; tick1419; primary official NBB WVV 40/41
+bud_dmrd_cash_2025,igs_dmrd,2025,282947,,,executed,src_dmrd_jr2025_nbb,strong,2025 liquide middelen 282947 DROP vs 357433; tick1419; primary official NBB WVV 54/58
+bud_dmrd_cash_2024,igs_dmrd,2024,357433,,,executed,src_dmrd_jr2025_nbb,strong,2024 liquide middelen 357433 comparative; tick1419; primary official NBB WVV 54/58
+bud_dmrd_prepaid_2025,igs_dmrd,2025,4554,,,executed,src_dmrd_jr2025_nbb,strong,2025 overlopend actief 4554 vs 2393; tick1419; primary official NBB WVV 490/1
+bud_dmrd_equity_2025,igs_dmrd,2025,287430,,,executed,src_dmrd_jr2025_nbb,strong,2025 EV 287430 vs 366982; tick1419; primary official NBB WVV 10/15
+bud_dmrd_equity_2024,igs_dmrd,2024,366982,,,executed,src_dmrd_jr2025_nbb,strong,2024 EV 366982 comparative; tick1419; primary official NBB WVV 10/15
+bud_dmrd_reserves_2025,igs_dmrd,2025,302658,,,executed,src_dmrd_jr2025_nbb,strong,2025 reserves 302658 vs 382210; tick1419; primary official NBB WVV 13
+bud_dmrd_beschikbaar_2025,igs_dmrd,2025,302658,,,executed,src_dmrd_jr2025_nbb,strong,2025 beschikbare reserves 302658 vs 382210; tick1419; primary official NBB WVV 133
+bud_dmrd_overgedragen_2025,igs_dmrd,2025,-15228,,,executed,src_dmrd_jr2025_nbb,strong,2025 overgedragen -15228 unchanged; tick1419; primary official NBB WVV 14
+bud_dmrd_debt_2025,igs_dmrd,2025,86988,,,executed,src_dmrd_jr2025_nbb,strong,2025 schulden 86988 vs 54605; tick1419; primary official NBB WVV 17/49
+bud_dmrd_debt_2024,igs_dmrd,2024,54605,,,executed,src_dmrd_jr2025_nbb,strong,2024 schulden 54605 comparative; tick1419; primary official NBB WVV 17/49
+bud_dmrd_st_2025,igs_dmrd,2025,86988,,,executed,src_dmrd_jr2025_nbb,strong,2025 ST schulden 86988 vs 54605; tick1419; primary official NBB WVV 42/48
+bud_dmrd_sttrade_2025,igs_dmrd,2025,12502,,,executed,src_dmrd_jr2025_nbb,strong,2025 leveranciers 12502 vs 15166; tick1419; primary official NBB WVV 440/4
+bud_dmrd_soc_2025,igs_dmrd,2025,73302,,,executed,src_dmrd_jr2025_nbb,strong,2025 bezoldigingen/sociale lasten 73302 vs 39439; tick1419; primary official NBB WVV 454/9
+bud_dmrd_stother_2025,igs_dmrd,2025,1184,,,executed,src_dmrd_jr2025_nbb,strong,2025 overige ST 1184 vs 0; tick1419; primary official NBB WVV 47/48
+bud_dmrd_brutomarge_2025,igs_dmrd,2025,390959,,,executed,src_dmrd_jr2025_nbb,strong,2025 brutomarge 390959 vs 353691; omzet 70 empty / 60/61 empty; tick1419; primary official NBB WVV 9900
+bud_dmrd_brutomarge_2024,igs_dmrd,2024,353691,,,executed,src_dmrd_jr2025_nbb,strong,2024 brutomarge 353691 comparative; tick1419; primary official NBB WVV 9900
+bud_dmrd_pers_2025,igs_dmrd,2025,436705,,,executed,src_dmrd_jr2025_nbb,strong,2025 pers 436705 vs 350301 / VTE unpublished (MIC-inb 6.2 not filed); tick1419; primary official NBB WVV 62
+bud_dmrd_pers_2024,igs_dmrd,2024,350301,,,executed,src_dmrd_jr2025_nbb,strong,2024 pers 350301 comparative; tick1419; primary official NBB WVV 62
+bud_dmrd_afschr_2025,igs_dmrd,2025,0,,,executed,src_dmrd_jr2025_nbb,strong,2025 afschrijvingen 0 vs 1047; tick1419; primary official NBB WVV 630
+bud_dmrd_expl_2025,igs_dmrd,2025,-45747,,,executed,src_dmrd_jr2025_nbb,strong,2025 expl -45747 vs +1950; tick1419; primary official NBB WVV 9901
+bud_dmrd_expl_2024,igs_dmrd,2024,1950,,,executed,src_dmrd_jr2025_nbb,strong,2024 expl 1950 comparative; tick1419; primary official NBB WVV 9901
+bud_dmrd_fincost_2025,igs_dmrd,2025,150,,,executed,src_dmrd_jr2025_nbb,strong,2025 fin kosten 150 vs 72; tick1419; primary official NBB WVV 65
+bud_dmrd_pnl_2025,igs_dmrd,2025,-45896,,,executed,src_dmrd_jr2025_nbb,strong,2025 PnL -45896 vs +1878; tick1419; primary official NBB WVV 9904
+bud_dmrd_pnl_2024,igs_dmrd,2024,1878,,,executed,src_dmrd_jr2025_nbb,strong,2024 PnL 1878 comparative; tick1419; primary official NBB WVV 9904
+bud_dmrd_div_2025,igs_dmrd,2025,0,,,executed,src_dmrd_jr2025_nbb,strong,2025 vergoeding inbreng 0 / 694 empty; tick1419; primary official NBB WVV 694
+bud_dmrd_onttrekking_ev_2025,igs_dmrd,2025,45896,,,executed,src_dmrd_jr2025_nbb,strong,2025 onttrekking eigen vermogen 45896; tick1419; primary official NBB WVV 791/2
+bud_dmrd_capex_2025,igs_dmrd,2025,0,,,executed,src_dmrd_jr2025_nbb,strong,2025 capex aanschaf MVA empty; tick1419; primary official NBB WVV 8169
+bud_dmrd_vl_sub_note_2025,igs_dmrd,2025,340429,,,executed,src_dmrd_jr2025_nbb,strong,2025 waarderingsregels disclosure Vlaanderen 340429 (IGCS/CE/IOED) not a P&L code; tick1419; primary official NBB WVV 6.5
+bud_dmrd_gem_sub_note_2025,igs_dmrd,2025,157827.62,,,executed,src_dmrd_jr2025_nbb,strong,2025 waarderingsregels disclosure gemeentelijke toelagen 157827.62 not a P&L code; tick1419; primary official NBB WVV 6.5
