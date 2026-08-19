@@ -40878,3 +40878,36 @@ bud_bgov_pnl_2024,vzw_bgov,2024,-8603,,,executed,src_bgov_jr2025_nbb,strong,2024
 bud_bgov_div_2025,vzw_bgov,2025,0,,,executed,src_bgov_jr2025_nbb,strong,2025 dividend 0 / no 694; tick1446; primary official NBB WVV
 bud_bgov_capex_2025,vzw_bgov,2025,0,,,executed,src_bgov_jr2025_nbb,strong,2025 MVA aanschaffingen empty; FVA/IVA empty; tick1446; primary official NBB WVV 8169
 bud_bgov_commissaris_2025,vzw_bgov,2025,4977,,,executed,src_bgov_jr2025_nbb,strong,2025 commissaris Baker Tilly 4977; tick1446; primary official NBB WVV 6.6
+bud_bgvb_assets_2025,vzw_bgvb,2025,567212,,,executed,src_bgvb_jr2025_av,strong,2025 assets 567211.79 rounded 567212; tick1447; primary official AV ontwerp-balans
+bud_bgvb_fixed_2025,vzw_bgvb,2025,205,,,executed,src_bgvb_jr2025_av,strong,2025 vaste activa 204.73 rounded 205; tick1447; primary official AV ontwerp-balans
+bud_bgvb_iva_2025,vzw_bgvb,2025,0,,,executed,src_bgvb_jr2025_av,strong,2025 IVA empty; tick1447; primary official AV ontwerp-balans
+bud_bgvb_mva_2025,vzw_bgvb,2025,205,,,executed,src_bgvb_jr2025_av,strong,2025 MVA 204.73 computerinstallaties aanschaf YE 4118 afschr YE 3913; tick1447; primary official AV ontwerp-balans
+bud_bgvb_fva_2025,vzw_bgvb,2025,0,,,executed,src_bgvb_jr2025_av,strong,2025 FVA empty; tick1447; primary official AV ontwerp-balans
+bud_bgvb_current_2025,vzw_bgvb,2025,567007,,,executed,src_bgvb_jr2025_av,strong,2025 vlottend 567007.06 rounded 567007; tick1447; primary official AV ontwerp-balans
+bud_bgvb_strecv_2025,vzw_bgvb,2025,20730,,,executed,src_bgvb_jr2025_av,strong,2025 ST vorderingen 20729.71 rounded 20730; tick1447; primary official AV ontwerp-balans
+bud_bgvb_trade_2025,vzw_bgvb,2025,17276,,,executed,src_bgvb_jr2025_av,strong,2025 handelsvorderingen 17276.48 rounded 17276; tick1447; primary official AV ontwerp-balans
+bud_bgvb_othrecv_2025,vzw_bgvb,2025,3453,,,executed,src_bgvb_jr2025_av,strong,2025 overige vorderingen 3453.23 rounded 3453; tick1447; primary official AV ontwerp-balans
+bud_bgvb_cash_2025,vzw_bgvb,2025,539584,,,executed,src_bgvb_jr2025_av,strong,2025 liquide middelen 539584.18 rounded 539584; tick1447; primary official AV ontwerp-balans
+bud_bgvb_prepaid_2025,vzw_bgvb,2025,6693,,,executed,src_bgvb_jr2025_av,strong,2025 prepaid 6693.17 rounded 6693; tick1447; primary official AV ontwerp-balans
+bud_bgvb_equity_2025,vzw_bgvb,2025,457913,,,executed,src_bgvb_jr2025_av,strong,2025 EV published 457913.49 before unallocated result 8590; tick1447; primary official AV ontwerp-balans
+bud_bgvb_bestemde_2025,vzw_bgvb,2025,61999,,,executed,src_bgvb_jr2025_av,strong,2025 bestemde fondsen 61999.05 rounded 61999; tick1447; primary official AV ontwerp-balans
+bud_bgvb_overgedragen_2025,vzw_bgvb,2025,395914,,,executed,src_bgvb_jr2025_av,strong,2025 overgedragen 395914.44 rounded 395914 before result; tick1447; primary official AV ontwerp-balans
+bud_bgvb_debt_2025,vzw_bgvb,2025,100709,,,executed,src_bgvb_jr2025_av,strong,2025 schulden 100708.55 rounded 100709 (LT empty); tick1447; primary official AV ontwerp-balans
+bud_bgvb_stdebt_2025,vzw_bgvb,2025,100709,,,executed,src_bgvb_jr2025_av,strong,2025 ST schulden 100708.55 rounded 100709; tick1447; primary official AV ontwerp-balans
+bud_bgvb_lev_2025,vzw_bgvb,2025,3758,,,executed,src_bgvb_jr2025_av,strong,2025 leveranciers 3757.58 rounded 3758; tick1447; primary official AV ontwerp-balans
+bud_bgvb_othdebt_2025,vzw_bgvb,2025,96951,,,executed,src_bgvb_jr2025_av,strong,2025 overige schulden 96950.97 (houtverkoop waarborgen / koopsom / beheersubsidies); tick1447; primary official AV ontwerp-balans
+bud_bgvb_unalloc_2025,vzw_bgvb,2025,8590,,,executed,src_bgvb_jr2025_av,strong,2025 unallocated result (+) 8589.75 on passiva; tick1447; primary official AV ontwerp-balans
+bud_bgvb_bedrijfsopbr_2025,vzw_bgvb,2025,93888,,,executed,src_bgvb_jr2025_av,strong,2025 bedrijfsopbrengsten 93887.90 rounded 93888 (no 9900 brutomarge line); tick1447; primary official AV ontwerp-balans
+bud_bgvb_omzet_2025,vzw_bgvb,2025,54599,,,executed,src_bgvb_jr2025_av,strong,2025 omzet 54599.29 rounded 54599; tick1447; primary official AV ontwerp-balans
+bud_bgvb_lidgeld_2025,vzw_bgvb,2025,22741,,,executed,src_bgvb_jr2025_av,strong,2025 lidgeld/subsidies 73 22740.80 (provincie 48400 + 96681 - uitgekeerde 121856); tick1447; primary official AV ontwerp-balans
+bud_bgvb_andere_2025,vzw_bgvb,2025,16548,,,executed,src_bgvb_jr2025_av,strong,2025 andere bedrijfsopbrengsten 16547.81 rounded 16548; tick1447; primary official AV ontwerp-balans
+bud_bgvb_aankopen_2025,vzw_bgvb,2025,28448,,,executed,src_bgvb_jr2025_av,strong,2025 aankopen 60 28448.48 rounded 28448; tick1447; primary official AV ontwerp-balans
+bud_bgvb_diensten_2025,vzw_bgvb,2025,38977,,,executed,src_bgvb_jr2025_av,strong,2025 diensten 61 38977.15 rounded 38977; tick1447; primary official AV ontwerp-balans
+bud_bgvb_pers_2025,vzw_bgvb,2025,23400,,,executed,src_bgvb_jr2025_av,strong,2025 pers 23400 diverse personeelskosten (no VTE); tick1447; primary official AV ontwerp-balans
+bud_bgvb_afschr_2025,vzw_bgvb,2025,1339,,,executed,src_bgvb_jr2025_av,strong,2025 afschrijvingen 1339.19 rounded 1339; tick1447; primary official AV ontwerp-balans
+bud_bgvb_expl_2025,vzw_bgvb,2025,1723,,,executed,src_bgvb_jr2025_av,strong,2025 expl +1723.08 rounded 1723; tick1447; primary official AV ontwerp-balans
+bud_bgvb_finopbr_2025,vzw_bgvb,2025,7490,,,executed,src_bgvb_jr2025_av,strong,2025 fin opbr 7490.00; tick1447; primary official AV ontwerp-balans
+bud_bgvb_finkost_2025,vzw_bgvb,2025,623,,,executed,src_bgvb_jr2025_av,strong,2025 fin kosten 623.33 rounded 623; tick1447; primary official AV ontwerp-balans
+bud_bgvb_tax_2025,vzw_bgvb,2025,0,,,executed,src_bgvb_jr2025_av,strong,2025 tax empty; tick1447; primary official AV ontwerp-balans
+bud_bgvb_pnl_2025,vzw_bgvb,2025,8590,,,executed,src_bgvb_jr2025_av,strong,2025 PnL +8589.75 rounded 8590; tick1447; primary official AV ontwerp-balans
+bud_bgvb_div_2025,vzw_bgvb,2025,0,,,executed,src_bgvb_jr2025_av,strong,2025 dividend 0; tick1447; primary official AV ontwerp-balans
