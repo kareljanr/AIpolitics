@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-19T04:00:00Z,rq_1375,1375,no,tick1375 IVAGO leftover IGS residual; KBO 0252.828.916; live JR2025 NBB WVV PDF; sourced euros assets 78394662 omzet 81142751 diensten 38044488 pnl 2216561; FOI ready omzet 81.14m/diensten 38.04m/ECOV; next rq_1376 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-19T04:20:00Z,rq_1376,1376,no,tick1376 MIROM Roeselare leftover IGS residual; KBO 0213.894.205; live JR2025 NBB WVV PDF; sourced euros assets 37444581 omzet 21181609 diensten 12640771 pnl -377780; FOI ready omzet 21.18m/diensten 12.64m/CIP 4.13m; next rq_1377 residual dual L5 VL; continuous hole_fill
