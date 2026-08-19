@@ -37083,3 +37083,55 @@ bud_igem_comm_2025,igs_igem,2025,6904,,,executed,src_igem_jr2025_nbb,strong,2025
 bud_igem_board_2025,igs_igem,2025,60853,,,executed,src_igem_jr2025_nbb,strong,2025 bestuurders 60853; tick1372; primary official NBB WVV 9503
 bud_igem_taxloss_2025,igs_igem,2025,3143949,,,executed,src_igem_jr2025_nbb,strong,2025 actieve latenties fiscale verliezen 3143949; tick1372; primary official NBB WVV 6.13 9142
 bud_igem_claims_2025,igs_igem,2025,791000,,,executed,src_igem_jr2025_nbb,strong,2025 unprovisioned social claims 75000+156000+560000; tick1372; primary official NBB WVV 6.20
+bud_ivoo_assets_2025,igs_ivoo,2025,10739336,,,executed,src_ivoo_jr2025_nbb,strong,2025 assets 10739336 VOL-kap 20/58 (commissaris 10739335.61); tick1373; primary official NBB WVV
+bud_ivoo_assets_2024,igs_ivoo,2024,12310972,,,executed,src_ivoo_jr2025_nbb,strong,2024 assets 12310972 comparative; tick1373; primary official NBB WVV 20/58
+bud_ivoo_fixed_2025,igs_ivoo,2025,2321635,,,executed,src_ivoo_jr2025_nbb,strong,2025 vaste activa 2321635 vs 2548336; tick1373; primary official NBB WVV 21/28
+bud_ivoo_mva_2025,igs_ivoo,2025,2280717,,,executed,src_ivoo_jr2025_nbb,strong,2025 MVA 2280717 vs 2508669; tick1373; primary official NBB WVV 22/27
+bud_ivoo_buildings_2025,igs_ivoo,2025,678141,,,executed,src_ivoo_jr2025_nbb,strong,2025 terreinen en gebouwen 678141 vs 673856 after aanschaf 25968 + afschr 21683; tick1373; primary official NBB WVV 22
+bud_ivoo_machines_2025,igs_ivoo,2025,1575822,,,executed,src_ivoo_jr2025_nbb,strong,2025 installaties/machines 1575822 vs 1834813 (aanschaf 30520136 / afschr cum 30374125 after 258991); tick1373; primary official NBB WVV 23
+bud_ivoo_machines_acq_2025,igs_ivoo,2025,30520136,,,executed,src_ivoo_jr2025_nbb,strong,2025 machines aanschafwaarde 30520136 almost fully depreciated; tick1373; primary official NBB WVV 6.3.2 8192
+bud_ivoo_rollend_2025,igs_ivoo,2025,0,,,executed,src_ivoo_jr2025_nbb,strong,2025 meubilair/rollend 0 (aanschaf 301240 / afschr 302383); tick1373; primary official NBB WVV 24
+bud_ivoo_cip_2025,igs_ivoo,2025,26754,,,executed,src_ivoo_jr2025_nbb,strong,2025 activa in aanbouw 26754 new; tick1373; primary official NBB WVV 27
+bud_ivoo_fva_2025,igs_ivoo,2025,40917,,,executed,src_ivoo_jr2025_nbb,strong,2025 FVA 40917 (aandelen 37149 after aankoop 1250 + borg 3768; 6.4.1/6.5.1 not filed); tick1373; primary official NBB WVV 28
+bud_ivoo_current_2025,igs_ivoo,2025,8417701,,,executed,src_ivoo_jr2025_nbb,strong,2025 vlottende activa 8417701 vs 9762635; tick1373; primary official NBB WVV 29/58
+bud_ivoo_inv_2025,igs_ivoo,2025,447998,,,executed,src_ivoo_jr2025_nbb,strong,2025 voorraden 447998 (grond-hulp 415040 + handels 32958); tick1373; primary official NBB WVV 3
+bud_ivoo_strecv_2025,igs_ivoo,2025,5023983,,,executed,src_ivoo_jr2025_nbb,strong,2025 ST vorderingen 5023983 (trade 5008252 + other 15732); tick1373; primary official NBB WVV 40/41
+bud_ivoo_cash_2025,igs_ivoo,2025,2772205,,,executed,src_ivoo_jr2025_nbb,strong,2025 liquide middelen 2772205 JUMP vs 1303878; no bank debt; tick1373; primary official NBB WVV 54/58
+bud_ivoo_cash_2024,igs_ivoo,2024,1303878,,,executed,src_ivoo_jr2025_nbb,strong,2024 liquide middelen 1303878 comparative; tick1373; primary official NBB WVV 54/58
+bud_ivoo_prepaid_2025,igs_ivoo,2025,173515,,,executed,src_ivoo_jr2025_nbb,strong,2025 overlopend actief 173515 all over te dragen kosten; tick1373; primary official NBB WVV 490/1
+bud_ivoo_equity_2025,igs_ivoo,2025,4431321,,,executed,src_ivoo_jr2025_nbb,strong,2025 eigen vermogen 4431321 vs 5321130; tick1373; primary official NBB WVV 10/15
+bud_ivoo_inbreng_2025,igs_ivoo,2025,3373725,,,executed,src_ivoo_jr2025_nbb,strong,2025 kapitaal 3373725 (A 3372225 / 134889 + B 1500 / 60; 134949 aandelen op naam); tick1373; primary official NBB WVV 10
+bud_ivoo_reserves_2025,igs_ivoo,2025,963165,,,executed,src_ivoo_jr2025_nbb,strong,2025 reserves 963165 (wettelijk 337373 + beschikbaar 625793; belastingvrij 0 vs 697636); tick1373; primary official NBB WVV 13
+bud_ivoo_capsub_2025,igs_ivoo,2025,91633,,,executed,src_ivoo_jr2025_nbb,strong,2025 kapitaalsubsidies 91633 vs 98616; tick1373; primary official NBB WVV 15
+bud_ivoo_prov_2025,igs_ivoo,2025,2341455,,,executed,src_ivoo_jr2025_nbb,strong,2025 voorzieningen 2341455 DROP vs 3499117 (pensioen 78585 + grote herstelling 2262870); tick1373; primary official NBB WVV 16
+bud_ivoo_prov_repair_2025,igs_ivoo,2025,2262870,,,executed,src_ivoo_jr2025_nbb,strong,2025 voorziening grote herstelling 2262870 vs 3387478; tick1373; primary official NBB WVV 162
+bud_ivoo_prov_used_2025,igs_ivoo,2025,1157662,,,executed,src_ivoo_jr2025_nbb,strong,2025 voorziening besteding/terugneming 1157662 / toevoeging 0 / netto 635/8 -1157662; tick1373; primary official NBB WVV 6.10 9116
+bud_ivoo_debt_2025,igs_ivoo,2025,3966560,,,executed,src_ivoo_jr2025_nbb,strong,2025 schulden 3966560 vs 3490724; no LT; tick1373; primary official NBB WVV 17/49
+bud_ivoo_st_2025,igs_ivoo,2025,3936579,,,executed,src_ivoo_jr2025_nbb,strong,2025 ST schulden 3936579 vs 3465858; tick1373; primary official NBB WVV 42/48
+bud_ivoo_sttrade_2025,igs_ivoo,2025,3104174,,,executed,src_ivoo_jr2025_nbb,strong,2025 leveranciers 3104174 vs 2689400; tick1373; primary official NBB WVV 440/4
+bud_ivoo_sttaxsoc_2025,igs_ivoo,2025,768741,,,executed,src_ivoo_jr2025_nbb,strong,2025 tax/soc 768741 (tax 498571 + wages 270170); tick1373; primary official NBB WVV 45
+bud_ivoo_stadv_2025,igs_ivoo,2025,59315,,,executed,src_ivoo_jr2025_nbb,strong,2025 vooruitbetalingen 59315 vs 40279; tick1373; primary official NBB WVV 46
+bud_ivoo_accrued_2025,igs_ivoo,2025,29981,,,executed,src_ivoo_jr2025_nbb,strong,2025 overlopend passief 29981 (kosten 5053 + opbr 24928); tick1373; primary official NBB WVV 492/3
+bud_ivoo_ops_2025,igs_ivoo,2025,16599504,,,executed,src_ivoo_jr2025_nbb,strong,2025 bedrijfsopbrengsten 16599504 vs 18310640; tick1373; primary official NBB WVV 70/76A
+bud_ivoo_omzet_2025,igs_ivoo,2025,16545262,,,executed,src_ivoo_jr2025_nbb,strong,2025 omzet 16545262 DROP vs 18253807; 6.10 category/geo empty; notes restafval 57481t / 6385540 + elektriciteit 1105810; tick1373; primary official NBB WVV 70
+bud_ivoo_omzet_2024,igs_ivoo,2024,18253807,,,executed,src_ivoo_jr2025_nbb,strong,2024 omzet 18253807 comparative; tick1373; primary official NBB WVV 70
+bud_ivoo_restwaste_2025,igs_ivoo,2025,6385540,,,executed,src_ivoo_jr2025_nbb,strong,2025 omzet restafval 6385540 / 57481 ton vs 72186 ton 2024; tick1373; primary jaarverslag in NBB PDF
+bud_ivoo_electric_2025,igs_ivoo,2025,1105810,,,executed,src_ivoo_jr2025_nbb,strong,2025 omzet elektriciteit 1105810 / 13470 MWh DROP vs 20873; tick1373; primary jaarverslag in NBB PDF
+bud_ivoo_othops_2025,igs_ivoo,2025,54242,,,executed,src_ivoo_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 54242 vs 56833; 740 subsidies empty; tick1373; primary official NBB WVV 74
+bud_ivoo_goods_2025,igs_ivoo,2025,1459596,,,executed,src_ivoo_jr2025_nbb,strong,2025 handelsgoederen/grond-hulp 1459596 vs 2049685 (aankopen 1541318 / voorraad +81722); tick1373; primary official NBB WVV 60
+bud_ivoo_diensten_2025,igs_ivoo,2025,12388023,,,executed,src_ivoo_jr2025_nbb,strong,2025 diensten 12388023 vs 12098327 (74.9pct of omzet; onderhoud AEC ca 2834020); tick1373; primary official NBB WVV 61
+bud_ivoo_diensten_2024,igs_ivoo,2024,12098327,,,executed,src_ivoo_jr2025_nbb,strong,2024 diensten 12098327 comparative; tick1373; primary official NBB WVV 61
+bud_ivoo_aec_maint_2025,igs_ivoo,2025,2834020,,,executed,src_ivoo_jr2025_nbb,strong,2025 onderhoud installatie ca 2834020 waarvan ovens 1171865; tick1373; primary jaarverslag in NBB PDF
+bud_ivoo_pers_2025,igs_ivoo,2025,3082731,,,executed,src_ivoo_jr2025_nbb,strong,2025 bezoldigingen 3082731 / 34.1 VTE / 32 koppen / YE 31.5 VTE; tick1373; primary official NBB WVV 62 9087
+bud_ivoo_deprec_2025,igs_ivoo,2025,280674,,,executed,src_ivoo_jr2025_nbb,strong,2025 afschrijvingen 280674; tick1373; primary official NBB WVV 630
+bud_ivoo_othcost_2025,igs_ivoo,2025,1294995,,,executed,src_ivoo_jr2025_nbb,strong,2025 andere bedrijfskosten 1294995 (tax 400620 JUMP vs 5189 + other 894375); tick1373; primary official NBB WVV 640/8
+bud_ivoo_nrcost_2025,igs_ivoo,2025,90784,,,executed,src_ivoo_jr2025_nbb,strong,2025 niet-recurrente bedrijfskosten 90784 all 664/7; tick1373; primary official NBB WVV 66A
+bud_ivoo_expl_2025,igs_ivoo,2025,-898763,,,executed,src_ivoo_jr2025_nbb,strong,2025 bedrijfsverlies 898763 vs 519604; tick1373; primary official NBB WVV 9901
+bud_ivoo_expl_2024,igs_ivoo,2024,-519604,,,executed,src_ivoo_jr2025_nbb,strong,2024 bedrijfsverlies 519604 comparative; tick1373; primary official NBB WVV 9901
+bud_ivoo_fininc_2025,igs_ivoo,2025,19528,,,executed,src_ivoo_jr2025_nbb,strong,2025 financiele opbrengsten 19528 (vlottend 5393 + other 14135 waarvan capsub 6983); tick1373; primary official NBB WVV 75
+bud_ivoo_fincost_2025,igs_ivoo,2025,2104,,,executed,src_ivoo_jr2025_nbb,strong,2025 financiele kosten 2104 (schulden 1581 + other 524); tick1373; primary official NBB WVV 65
+bud_ivoo_pnl_2025,igs_ivoo,2025,-882827,,,executed,src_ivoo_jr2025_nbb,strong,2025 PnL 9904 -882827 vs -489969 (commissaris -882826.75); onttrokken aan reserves 882827; tick1373; primary official NBB WVV
+bud_ivoo_pnl_2024,igs_ivoo,2024,-489969,,,executed,src_ivoo_jr2025_nbb,strong,2024 PnL -489969 comparative; tick1373; primary official NBB WVV 9904
+bud_ivoo_comm_2025,igs_ivoo,2025,11500,,,executed,src_ivoo_jr2025_nbb,strong,2025 commissaris Walter HOSTEN 11500; tick1373; primary official NBB WVV 9505
+bud_ivoo_board_2025,igs_ivoo,2025,38036,,,executed,src_ivoo_jr2025_nbb,strong,2025 bestuurders 38036; tick1373; primary official NBB WVV 9503
+bud_ivoo_vat_out_2025,igs_ivoo,2025,1834844,,,executed,src_ivoo_jr2025_nbb,strong,2025 BTW door de vennootschap 1834844 vs 2483920; tick1373; primary official NBB WVV 6.13 9146
