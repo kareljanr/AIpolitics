@@ -36577,3 +36577,58 @@ bud_mycs_reldebt_2025,nv_mycs,2025,2050622,,,executed,src_mycs_jr2025_nbb,strong
 bud_mycs_reldcost_2025,nv_mycs,2025,80401,,,executed,src_mycs_jr2025_nbb,strong,2025 verbonden kosten schulden 80401; tick1363; primary official NBB WVV 9461
 bud_mycs_taxlat_2025,nv_mycs,2025,5383264,,,executed,src_mycs_jr2025_nbb,strong,2025 actieve latenties fiscale verliezen 5383264; tick1363; primary official NBB WVV 9142; not TE-additive
 bud_mycs_rematics_ev_2025,nv_mycs,2025,490947,,,executed,src_mycs_jr2025_nbb,strong,2025 Rematics BV 47.85pct EV 490947 / PnL -195783 (6.5.1); tick1363; primary official NBB WVV
+bud_herk_assets_2025,nv_herk,2025,27578356,,,executed,src_herk_jr2025_nbb,strong,2025 assets 27578356 VOL-kap 20/58; tick1364; primary official NBB WVV
+bud_herk_assets_2024,nv_herk,2024,29840745,,,executed,src_herk_jr2025_nbb,strong,2024 assets 29840745 comparative; tick1364; primary official NBB WVV 20/58
+bud_herk_fixed_2025,nv_herk,2025,26809718,,,executed,src_herk_jr2025_nbb,strong,2025 vaste activa / MVA 26809718 DROP vs 29003388; tick1364; primary official NBB WVV 21/28 22/27
+bud_herk_mva_2025,nv_herk,2025,26809718,,,executed,src_herk_jr2025_nbb,strong,2025 terreinen/gebouwen 26809718; tick1364; primary official NBB WVV 22
+bud_herk_mvaacq_2025,nv_herk,2025,34162894,,,executed,src_herk_jr2025_nbb,strong,2025 MVA aanschaf 34162894 unchanged; tick1364; primary official NBB WVV 8191
+bud_herk_reval_2025,nv_herk,2025,1880718,,,executed,src_herk_jr2025_nbb,strong,2025 MVA meerwaarde 1880718 after afboek 168782; tick1364; primary official NBB WVV 8251
+bud_herk_revaloff_2025,nv_herk,2025,168782,,,executed,src_herk_jr2025_nbb,strong,2025 herwaardering afgeboekt 168782; tick1364; primary official NBB WVV 8231
+bud_herk_deprcum_2025,nv_herk,2025,9233894,,,executed,src_herk_jr2025_nbb,strong,2025 MVA afschr cum 9233894; tick1364; primary official NBB WVV 8321
+bud_herk_current_2025,nv_herk,2025,768639,,,executed,src_herk_jr2025_nbb,strong,2025 vlottende activa 768639 DROP vs 837356; tick1364; primary official NBB WVV 29/58
+bud_herk_strecv_2025,nv_herk,2025,3228,,,executed,src_herk_jr2025_nbb,strong,2025 ST overige vorderingen 3228; tick1364; primary official NBB WVV 41
+bud_herk_cash_2025,nv_herk,2025,764024,,,executed,src_herk_jr2025_nbb,strong,2025 liquide middelen 764024 DROP vs 834010; tick1364; primary official NBB WVV 54/58
+bud_herk_cash_2024,nv_herk,2024,834010,,,executed,src_herk_jr2025_nbb,strong,2024 liquide middelen 834010 comparative; tick1364; primary official NBB WVV 54/58
+bud_herk_prepaid_2025,nv_herk,2025,1386,,,executed,src_herk_jr2025_nbb,strong,2025 overlopend actief 1386 (verkregen opbrengsten); tick1364; primary official NBB WVV 490/1
+bud_herk_equity_2025,nv_herk,2025,131842,,,executed,src_herk_jr2025_nbb,strong,2025 eigen vermogen 131842 DROP vs 518446; matches parent DC 6.5.1; tick1364; primary official NBB WVV 10/15
+bud_herk_equity_2024,nv_herk,2024,518446,,,executed,src_herk_jr2025_nbb,strong,2024 eigen vermogen 518446 comparative; tick1364; primary official NBB WVV 10/15
+bud_herk_capital_2025,nv_herk,2025,1200000,,,executed,src_herk_jr2025_nbb,strong,2025 geplaatst kapitaal 1200000 / 100 aandelen op naam 100pct Nuhma DC; tick1364; primary official NBB WVV 100
+bud_herk_revaleq_2025,nv_herk,2025,1880718,,,executed,src_herk_jr2025_nbb,strong,2025 herwaarderingsmeerwaarden EV 1880718 DROP vs 2025388; tick1364; primary official NBB WVV 12
+bud_herk_reserve_2025,nv_herk,2025,120000,,,executed,src_herk_jr2025_nbb,strong,2025 wettelijke reserve 120000; tick1364; primary official NBB WVV 130
+bud_herk_re_2025,nv_herk,2025,-3068876,,,executed,src_herk_jr2025_nbb,strong,2025 overgedragen verlies -3068876; tick1364; primary official NBB WVV 14
+bud_herk_debt_2025,nv_herk,2025,27446514,,,executed,src_herk_jr2025_nbb,strong,2025 schulden 27446514 DROP vs 29322299; tick1364; primary official NBB WVV 17/49
+bud_herk_lt_2025,nv_herk,2025,25475421,,,executed,src_herk_jr2025_nbb,strong,2025 LT financieel 25475421; tick1364; primary official NBB WVV 17
+bud_herk_ltbank_2025,nv_herk,2025,17568388,,,executed,src_herk_jr2025_nbb,strong,2025 LT kredietinstellingen 17568388; tick1364; primary official NBB WVV 173
+bud_herk_ltother_2025,nv_herk,2025,7907034,,,executed,src_herk_jr2025_nbb,strong,2025 LT overige leningen 7907034 related; tick1364; primary official NBB WVV 174
+bud_herk_st_2025,nv_herk,2025,1508641,,,executed,src_herk_jr2025_nbb,strong,2025 ST schulden 1508641; tick1364; primary official NBB WVV 42/48
+bud_herk_stwithin_2025,nv_herk,2025,1507599,,,executed,src_herk_jr2025_nbb,strong,2025 LT binnen jaar 1507599 all bank; tick1364; primary official NBB WVV 42
+bud_herk_trade_2025,nv_herk,2025,1042,,,executed,src_herk_jr2025_nbb,strong,2025 leveranciers 1042 related; tick1364; primary official NBB WVV 440/4
+bud_herk_accrued_2025,nv_herk,2025,462452,,,executed,src_herk_jr2025_nbb,strong,2025 overlopend passief 462452 (kosten 215615 + opbr 246837); tick1364; primary official NBB WVV 492/3
+bud_herk_accruedcost_2025,nv_herk,2025,215615,,,executed,src_herk_jr2025_nbb,strong,2025 toe te rekenen kosten 215615; tick1364; primary official NBB WVV 6.9
+bud_herk_defrev_2025,nv_herk,2025,246837,,,executed,src_herk_jr2025_nbb,strong,2025 over te dragen opbrengsten 246837; tick1364; primary official NBB WVV 6.9
+bud_herk_banksec_2025,nv_herk,2025,19075986,,,executed,src_herk_jr2025_nbb,strong,2025 zakelijk gewaarborgd 19075986 all bank; tick1364; primary official NBB WVV 9062
+bud_herk_hypbook_2025,nv_herk,2025,26809717,,,executed,src_herk_jr2025_nbb,strong,2025 hypotheek boekwaarde 26809717; tick1364; primary official NBB WVV 91611
+bud_herk_hypins_2025,nv_herk,2025,8121577,,,executed,src_herk_jr2025_nbb,strong,2025 hypotheek inschrijving 8121577; tick1364; primary official NBB WVV 91621
+bud_herk_hypmand_2025,nv_herk,2025,15000000,,,executed,src_herk_jr2025_nbb,strong,2025 hypotheekmandaat 15000000; tick1364; primary official NBB WVV 91631
+bud_herk_ops_2025,nv_herk,2025,2849284,,,executed,src_herk_jr2025_nbb,strong,2025 bedrijfsopbrengsten 2849284; tick1364; primary official NBB WVV 70/76A
+bud_herk_omzet_2025,nv_herk,2025,2622876,,,executed,src_herk_jr2025_nbb,strong,2025 omzet 2622876 JUMP vs 2533891; 6.10 category/geo empty; tick1364; primary official NBB WVV 70
+bud_herk_omzet_2024,nv_herk,2024,2533891,,,executed,src_herk_jr2025_nbb,strong,2024 omzet 2533891 comparative; tick1364; primary official NBB WVV 70
+bud_herk_andere_2025,nv_herk,2025,226409,,,executed,src_herk_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 226409 DROP vs 674227; tick1364; primary official NBB WVV 74
+bud_herk_opscost_2025,nv_herk,2025,2433782,,,executed,src_herk_jr2025_nbb,strong,2025 bedrijfskosten 2433782; tick1364; primary official NBB WVV 60/66A
+bud_herk_diensten_2025,nv_herk,2025,13421,,,executed,src_herk_jr2025_nbb,strong,2025 diensten 13421; tick1364; primary official NBB WVV 61
+bud_herk_afschr_2025,nv_herk,2025,2193671,,,executed,src_herk_jr2025_nbb,strong,2025 afschrijvingen 2193671; tick1364; primary official NBB WVV 630
+bud_herk_taxcost_2025,nv_herk,2025,226691,,,executed,src_herk_jr2025_nbb,strong,2025 bedrijfsbelastingen 226691; tick1364; primary official NBB WVV 640
+bud_herk_expl_2025,nv_herk,2025,415502,,,executed,src_herk_jr2025_nbb,strong,2025 bedrijfswinst 415502 DROP vs 824585; tick1364; primary official NBB WVV 9901
+bud_herk_fininc_2025,nv_herk,2025,7633,,,executed,src_herk_jr2025_nbb,strong,2025 financiele opbrengsten 7633 (vlottende); tick1364; primary official NBB WVV 75
+bud_herk_fincost_2025,nv_herk,2025,809738,,,executed,src_herk_jr2025_nbb,strong,2025 financiele kosten 809738 (schulden 809121); tick1364; primary official NBB WVV 65
+bud_herk_debint_2025,nv_herk,2025,809121,,,executed,src_herk_jr2025_nbb,strong,2025 kosten van schulden 809121; tick1364; primary official NBB WVV 650
+bud_herk_pnl_2025,nv_herk,2025,-386604,,,executed,src_herk_jr2025_nbb,strong,2025 PnL 9904 -386604 (was -120980); tick1364; primary official NBB WVV; matches parent DC 6.5.1
+bud_herk_pnl_2024,nv_herk,2024,-120980,,,executed,src_herk_jr2025_nbb,strong,2024 PnL -120980 comparative; tick1364; primary official NBB WVV 9904
+bud_herk_comm_2025,nv_herk,2025,5500,,,executed,src_herk_jr2025_nbb,strong,2025 commissaris Moore Audit 5500; tick1364; primary official NBB WVV 9505
+bud_herk_reldebt_2025,nv_herk,2025,7908076,,,executed,src_herk_jr2025_nbb,strong,2025 verbonden schulden 7908076 (LT 7907034 + ST 1042); tick1364; primary official NBB WVV 9351
+bud_herk_reldcost_2025,nv_herk,2025,268683,,,executed,src_herk_jr2025_nbb,strong,2025 verbonden kosten schulden 268683 JUMP vs 181938; tick1364; primary official NBB WVV 9461
+bud_herk_taxlat_2025,nv_herk,2025,509060,,,executed,src_herk_jr2025_nbb,strong,2025 actieve latenties fiscale verliezen 509060; tick1364; primary official NBB WVV 9142; not TE-additive
+bud_herk_vat_2025,nv_herk,2025,370254,,,executed,src_herk_jr2025_nbb,strong,2025 BTW door vennootschap 370254; tick1364; primary official NBB WVV 9146
+bud_herk_lt1to5_2025,nv_herk,2025,16475421,,,executed,src_herk_jr2025_nbb,strong,2025 resterend 1-5j 16475421 (bank 8568388 + overige 7907034); tick1364; primary official NBB WVV 8912
+bud_herk_lt5y_2025,nv_herk,2025,9000000,,,executed,src_herk_jr2025_nbb,strong,2025 resterend >5j 9000000 all bank; tick1364; primary official NBB WVV 8913
+bud_herk_cdc_2025,nv_herk,2025,15000000,,,executed,src_herk_jr2025_nbb,strong,2025 Nuhma cv cash-deficiency clause ING 15000000 27.06.2024; tick1364; primary official NBB WVV 6.19

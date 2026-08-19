@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-19T01:45:00Z,rq_1363,1363,no,tick1363 MyCSN leftover NV residual; KBO 0724.946.623; live JR2025 NBB WVV PDF; sourced euros assets 4360871 omzet 1847195 pnl -455887; FOI ready 6.10/subsidies/parent-loan; next rq_1364 residual dual L5 VL; continuous hole_fill; next every-10 is 1370
+main,continuous,hole_fill,2026-08-19T00:25:00Z,rq_1364,1364,no,tick1364 Herkenrode leftover NV residual; KBO 0724.557.633; live JR2025 NBB WVV PDF; sourced euros assets 27578356 omzet 2622876 pnl -386604; FOI ready 6.10/tenants/parent-loan/ING/alarmbel; next rq_1365 residual dual L5 VL; continuous hole_fill; next every-10 is 1370
