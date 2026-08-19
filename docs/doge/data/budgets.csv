@@ -42346,3 +42346,46 @@ bud_stk9_interestsubs_2025,wm_stk9,2025,2847642,,,executed,src_stk9_jr2025_nbb,s
 bud_stk9_explsubs_2025,wm_stk9,2025,798626,,,executed,src_stk9_jr2025_nbb,strong,2025 exploitatiesubsidies 798626 (was 912699); tick1482; primary official NBB WVV 6.10
 bud_stk9_geldbeleg_2025,wm_stk9,2025,446,,,executed,src_stk9_jr2025_nbb,strong,2025 geldbeleggingen 446 (was 446); tick1482; primary official NBB WVV
 bud_stk9_bestuurders_2025,wm_stk9,2025,61077,,,executed,src_stk9_jr2025_nbb,strong,2025 bestuurders 9503 61077; tick1482; primary official NBB WVV 6.16
+bud_wstt_assets_2025,wm_wstt,2025,264755581,,,executed,src_wstt_jr2025_nbb,strong,2025 assets 264755581 JUMP (was 246631891); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_current_2025,wm_wstt,2025,36759176,,,executed,src_wstt_jr2025_nbb,strong,2025 vlottend 36759176 (was 32936535); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_cash_2025,wm_wstt,2025,25355783,,,executed,src_wstt_jr2025_nbb,strong,2025 liquide middelen 25355783 DROP (was 25994356); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_strecv_2025,wm_wstt,2025,3136022,,,executed,src_wstt_jr2025_nbb,strong,2025 ST vorderingen 3136022 (was 2167203); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_trade_2025,wm_wstt,2025,1138117,,,executed,src_wstt_jr2025_nbb,strong,2025 handelsvorderingen 1138117 (was 973259); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_othrecv_2025,wm_wstt,2025,1997905,,,executed,src_wstt_jr2025_nbb,strong,2025 overige vorderingen 1997905 (was 1193944); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_voorraden_2025,wm_wstt,2025,6383964,,,executed,src_wstt_jr2025_nbb,strong,2025 voorraden 6383964 JUMP (was 3266450); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_prepaid_2025,wm_wstt,2025,1883407,,,executed,src_wstt_jr2025_nbb,strong,2025 overlopend actief 1883407 (was 1508526); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_fixed_2025,wm_wstt,2025,227996405,,,executed,src_wstt_jr2025_nbb,strong,2025 vaste activa 227996405 (was 213695356); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_iva_2025,wm_wstt,2025,427788,,,executed,src_wstt_jr2025_nbb,strong,2025 IVA 427788 (was 472320); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_mva_2025,wm_wstt,2025,226764978,,,executed,src_wstt_jr2025_nbb,strong,2025 MVA 226764978 (was 212434926); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_fva_2025,wm_wstt,2025,803639,,,executed,src_wstt_jr2025_nbb,strong,2025 FVA 803639 (was 788110); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_equity_2025,wm_wstt,2025,57036729,,,executed,src_wstt_jr2025_nbb,strong,2025 equity 57036729 (was 57240951); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_inbreng_2025,wm_wstt,2025,40292,,,executed,src_wstt_jr2025_nbb,strong,2025 inbreng 40292 onbeschikbaar (was 41766); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_reserves_2025,wm_wstt,2025,40657634,,,executed,src_wstt_jr2025_nbb,strong,2025 reserves 40657634 (was 40665259); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_kapsubs_2025,wm_wstt,2025,17316825,,,executed,src_wstt_jr2025_nbb,strong,2025 kapitaalsubsidies 17316825 (was 16533926); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_voorz_2025,wm_wstt,2025,1840376,,,executed,src_wstt_jr2025_nbb,strong,2025 voorzieningen 1840376 (was 1826620); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_debt_2025,wm_wstt,2025,205878476,,,executed,src_wstt_jr2025_nbb,strong,2025 schulden 205878476 JUMP (was 187564320); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_ltdebt_2025,wm_wstt,2025,190124196,,,executed,src_wstt_jr2025_nbb,strong,2025 LT schulden 190124196 (was 173404936); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_stdebt_2025,wm_wstt,2025,14428408,,,executed,src_wstt_jr2025_nbb,strong,2025 ST schulden 14428408 (was 12651949); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_lev_2025,wm_wstt,2025,4637900,,,executed,src_wstt_jr2025_nbb,strong,2025 leveranciers 4637900 (was 3671163); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_bezold_2025,wm_wstt,2025,680404,,,executed,src_wstt_jr2025_nbb,strong,2025 bezoldigingen/sociale lasten 680404 (was 659036); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_taxpay_2025,wm_wstt,2025,1063487,,,executed,src_wstt_jr2025_nbb,strong,2025 belastingschulden 1063487 (was 998737); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_deferred_2025,wm_wstt,2025,1325872,,,executed,src_wstt_jr2025_nbb,strong,2025 overlopend passief 1325872 (was 1507435); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_omzet_2025,wm_wstt,2025,20716346,,,executed,src_wstt_jr2025_nbb,strong,2025 omzet 70 20716346 UP (was 20466226); 6.10 verhuur 16964264 doorverhuur 2642085 verkoop 1109997; tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_diensten_2025,wm_wstt,2025,7811331,,,executed,src_wstt_jr2025_nbb,strong,2025 diensten 61 7811331 (was 7714688); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_pers_2025,wm_wstt,2025,5460087,,,executed,src_wstt_jr2025_nbb,strong,2025 pers 62 5460087 / 63 VTE (was 4974476 / 58); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_afschr_2025,wm_wstt,2025,7836247,,,executed,src_wstt_jr2025_nbb,strong,2025 afschrijvingen 7836247 (was 7575840); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_expl_2025,wm_wstt,2025,-338162,,,executed,src_wstt_jr2025_nbb,strong,2025 expl 9901 -338162 (was -413473); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_finopbr_2025,wm_wstt,2025,4328406,,,executed,src_wstt_jr2025_nbb,strong,2025 fin opbr 4328406 (was 3883788); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_finkost_2025,wm_wstt,2025,4244624,,,executed,src_wstt_jr2025_nbb,strong,2025 fin kosten 4244624 (was 3934453); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_pnl_2025,wm_wstt,2025,-220913,,,executed,src_wstt_jr2025_nbb,strong,2025 PnL 9904 -220913 LOSS (was -495511); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_div_2025,wm_wstt,2025,0,,,executed,src_wstt_jr2025_nbb,strong,2025 dividend 694 0; tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_capex_2025,wm_wstt,2025,23993324,,,executed,src_wstt_jr2025_nbb,strong,2025 capex MVA aanschaf 23993324 (terreinen 9918447 + install 15294 + meubilair 3924 + in aanbouw 14055759); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_in_aanbouw_2025,wm_wstt,2025,16029351,,,executed,src_wstt_jr2025_nbb,strong,2025 MVA in aanbouw 16029351 JUMP (was 7136115); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_krediet_2025,wm_wstt,2025,186775816,,,executed,src_wstt_jr2025_nbb,strong,2025 LT krediet 173 186775816 JUMP (was 170209339); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_terreinen_2025,wm_wstt,2025,210621439,,,executed,src_wstt_jr2025_nbb,strong,2025 terreinen/gebouwen 210621439 (was 205148921); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_commissaris_2025,wm_wstt,2025,27153,,,executed,src_wstt_jr2025_nbb,strong,2025 commissaris 9505 27153 + extra 5000; tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_tax_2025,wm_wstt,2025,-5597,,,executed,src_wstt_jr2025_nbb,strong,2025 tax 67/77 -5597 (was 57542); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_interestsubs_2025,wm_wstt,2025,3500726,,,executed,src_wstt_jr2025_nbb,strong,2025 interestsubsidies 9126 3500726 (was 3034531); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_explsubs_2025,wm_wstt,2025,830102,,,executed,src_wstt_jr2025_nbb,strong,2025 exploitatiesubsidies 740 830102 (was 993867); tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_geldbeleg_2025,wm_wstt,2025,0,,,executed,src_wstt_jr2025_nbb,strong,2025 geldbeleggingen 50/53 empty; tick1483; primary official NBB WVV VOL-inb PDF
+bud_wstt_bestuurders_2025,wm_wstt,2025,56327,,,executed,src_wstt_jr2025_nbb,strong,2025 bestuurders 9503 56327; tick1483; primary official NBB WVV VOL-inb PDF
