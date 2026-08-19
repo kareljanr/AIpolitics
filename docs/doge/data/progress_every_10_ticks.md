@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 1420** (2026-08-19)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1411-1420 leftover IGS/AGB/NV: **AGB Merchtem** · **IOK Afvalbeheer** · **PATRIMONIUM MBS** · **AGB De Kluize** · **DVV Westhoek** · **Cultuuroverleg Meetjesland** · **Cultuurregio Leie Schelde** · **DVV Midwest** · **de Merode** · **CO7** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1411-1420 is VL residual dual L5 leftover IGS/AGB/NV (not near-complete of 348bn):** **IOK Afvalbeheer** assets **70.50m** · **AGB De Kluize** assets **5.83m** · **AGB Merchtem** assets **4.93m** · **DVV Westhoek** assets **3.15m** · **DVV Midwest** assets **2.86m** · **PATRIMONIUM MBS** assets **1.60m** · **CO7** assets **0.69m** · **Cultuuroverleg Meetjesland** assets **0.44m** · **Cultuurregio Leie Schelde** assets **0.39m** · **de Merode** assets **0.37m** · prior leftover IGS/AGB/BV/Fluvius stack retained |
+| **E. FOI-ready gaps** | **~1063** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1111** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek/klimaat-holding/energy-DSO/zorg/cultuur shells** (**NEW CO7** assets **EUR0.69m** omzet **EUR0.90m** diensten **EUR0.90m** cash **EUR0.55m** · **de Merode** assets **EUR0.37m** · **DVV Midwest** assets **EUR2.86m** · **Cultuurregio Leie Schelde** assets **EUR0.39m** · **Cultuuroverleg Meetjesland** assets **EUR0.44m** · **DVV Westhoek** assets **EUR3.15m** · **AGB De Kluize** assets **EUR5.83m** · **PATRIMONIUM MBS** assets **EUR1.60m** · **IOK Afvalbeheer** assets **EUR70.50m** · **AGB Merchtem** assets **EUR4.93m** · prior leftover Sunfin 6.29m / IGO 8.46m / Rematics 0.93m / Patri 9.69m / MLSO 227.28m / Tielt 19.95m / VERKO 38.42m / DDS 48.50m / OVCO 9.37m / Psilon 8.63m / IGL 65.30m / Otary RS 95.63m / IBEG 100.49m / Fluvius DNB + IGS stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1420)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 39779 |
+| commitments.csv | 5020 |
+| leaderboard.csv | 7223 |
+| entities.csv | 1165 |
+| sources.csv | 2816 |
+| FOI ready | 1063 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1111 |
+| research_queue open | rq_116 deferred + rq_1421 hole-fill after progress |
+
+### What improved since tick 1410
+
+- **VL residual dual JR2025 leftover IGS/AGB/NV (tick1411-1419):** **IOK Afvalbeheer** assets **70.50m** · **AGB De Kluize** assets **5.83m** · **AGB Merchtem** assets **4.93m** · **DVV Westhoek** assets **3.15m** · **DVV Midwest** assets **2.86m** · **PATRIMONIUM MBS** assets **1.60m** · **Cultuuroverleg Meetjesland** assets **0.44m** · **Cultuurregio Leie Schelde** assets **0.39m** · **de Merode** assets **0.37m** — no invented euros.
+- **NEW (tick1420):** **CultuurOverleg Zeven / CO7** (KBO 0877.372.225) leftover IGS / projectvereniging of 7 mined Zuidelijke Westhoek municipalities. Official NBB WVV MIC-inb deposit **2026-00080644** PDF (43209 bytes / 11p; AV 26.03.2026; created 16.04.2026). Assets **691.225** · omzet **899.440** (6.10 empty) · diensten **900.356** · pers empty · prepaid **119.499** · cash **552.517** · debt **297.303** · PnL **−7.140**. FOI ready. Every-10 progress refresh from on-disk CSVs.
+- **Dual map themes:** **leftover cultuur IGS + leftover DVV + leftover AGB + leftover waste IGS/daughter** (CO7 0.69m / de Merode 0.37m / Midwest 2.86m / Leie Schelde 0.39m / Meetjesland 0.44m / Westhoek 3.15m / Kluize 5.83m / PATRIMONIUM MBS 1.60m / IOK Afvalbeheer 70.50m / Merchtem 4.93m) · prior leftover Nuhma daughter + streek/waste/crematorium IGS + leftover AGB + leftover haven IGS retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
 ## Snapshot at **tick 1410** (2026-08-19)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
