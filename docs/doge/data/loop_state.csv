@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-19T01:15:00Z,rq_1370,1370,no,tick1370 Haviland leftover IGS residual + every-10; KBO 0200.881.951; live JR2025 NBB WVV PDF; sourced euros assets 43673416 othops 6697253 patrim 7054833 pens 21157533 pnl 4394148; FOI ready othops 6.70m/patrim 7.05m/pens 21.16m; next rq_1371 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-19T02:10:00Z,rq_1371,1371,no,tick1371 Veneco leftover IGS residual; KBO 0200.065.765; live JR2025 NBB WVV PDF; sourced euros assets 51983427 omzet 1184113 othops 5270686 inv 23116144 pnl 3231312; FOI ready omzet 1.18m/othops 5.27m/inv 23.12m; next rq_1372 residual dual L5 VL; continuous hole_fill

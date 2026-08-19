@@ -36966,3 +36966,65 @@ bud_havi_pnl_2025,igs_havi,2025,4394148,,,executed,src_havi_jr2025_nbb,strong,20
 bud_havi_pnl_2024,igs_havi,2024,-1843055,,,executed,src_havi_jr2025_nbb,strong,2024 PnL -1843055 comparative; tick1370; primary official NBB WVV 9904
 bud_havi_comm_2025,igs_havi,2025,12500,,,executed,src_havi_jr2025_nbb,strong,2025 commissaris Callens Vandelanotte Oosterlinck 12500; tick1370; primary official NBB WVV 9505
 bud_havi_board_2025,igs_havi,2025,62490,,,executed,src_havi_jr2025_nbb,strong,2025 bestuurders 9503 62490; tick1370; primary official NBB WVV 9503
+bud_vene_assets_2025,igs_vene,2025,51983427,,,executed,src_vene_jr2025_nbb,strong,2025 assets 51983427 VOL-inb 20/58; tick1371; primary official NBB WVV
+bud_vene_assets_2024,igs_vene,2024,53729614,,,executed,src_vene_jr2025_nbb,strong,2024 assets 53729614 comparative; tick1371; primary official NBB WVV 20/58
+bud_vene_fixed_2025,igs_vene,2025,1849887,,,executed,src_vene_jr2025_nbb,strong,2025 vaste activa 1849887 vs 1924170; tick1371; primary official NBB WVV 21/28
+bud_vene_iva_2025,igs_vene,2025,49048,,,executed,src_vene_jr2025_nbb,strong,2025 immateriele VA 49048 vs 11840 after aanschaf 52177; tick1371; primary official NBB WVV 21
+bud_vene_mva_2025,igs_vene,2025,1788517,,,executed,src_vene_jr2025_nbb,strong,2025 MVA 1788517 vs 1900008; tick1371; primary official NBB WVV 22/27
+bud_vene_buildings_2025,igs_vene,2025,1651207,,,executed,src_vene_jr2025_nbb,strong,2025 terreinen en gebouwen 1651207 vs 1729391; tick1371; primary official NBB WVV 22
+bud_vene_machines_2025,igs_vene,2025,110767,,,executed,src_vene_jr2025_nbb,strong,2025 installaties/machines 110767 vs 135607; tick1371; primary official NBB WVV 23
+bud_vene_rollend_2025,igs_vene,2025,26543,,,executed,src_vene_jr2025_nbb,strong,2025 meubilair/rollend 26543 vs 35010; tick1371; primary official NBB WVV 24
+bud_vene_fva_2025,igs_vene,2025,12322,,,executed,src_vene_jr2025_nbb,strong,2025 FVA 12322 (aandelen 322 + borg 12000; 6.4.1/6.5.1 not filed); tick1371; primary official NBB WVV 28
+bud_vene_current_2025,igs_vene,2025,50133540,,,executed,src_vene_jr2025_nbb,strong,2025 vlottende activa 50133540 vs 51805444; tick1371; primary official NBB WVV 29/58
+bud_vene_inv_2025,igs_vene,2025,23116144,,,executed,src_vene_jr2025_nbb,strong,2025 voorraden 23116144 all onroerend bestemd voor verkoop; tick1371; primary official NBB WVV 3/35
+bud_vene_inv_2024,igs_vene,2024,21529677,,,executed,src_vene_jr2025_nbb,strong,2024 RE inventory 21529677 comparative; tick1371; primary official NBB WVV 35
+bud_vene_strecv_2025,igs_vene,2025,1031861,,,executed,src_vene_jr2025_nbb,strong,2025 ST vorderingen 1031861 (trade 773215 + other 258646); tick1371; primary official NBB WVV 40/41
+bud_vene_invest_2025,igs_vene,2025,24148004,,,executed,src_vene_jr2025_nbb,strong,2025 geldbeleggingen 24148004 vs 24988899; tick1371; primary official NBB WVV 50/53
+bud_vene_invest_2024,igs_vene,2024,24988899,,,executed,src_vene_jr2025_nbb,strong,2024 geldbeleggingen 24988899 comparative; tick1371; primary official NBB WVV 50/53
+bud_vene_shares_2025,igs_vene,2025,499523,,,executed,src_vene_jr2025_nbb,strong,2025 aandelen beleggingen 499523 vs 1054146; tick1371; primary official NBB WVV 6.6 51
+bud_vene_fixedinc_2025,igs_vene,2025,8542462,,,executed,src_vene_jr2025_nbb,strong,2025 vastrentende effecten kredietinstellingen 8542462 vs 11371991; tick1371; primary official NBB WVV 6.6 52
+bud_vene_term_2025,igs_vene,2025,9100000,,,executed,src_vene_jr2025_nbb,strong,2025 termijnrekeningen 9100000 all 1m-1j vs 7515000; tick1371; primary official NBB WVV 6.6 53
+bud_vene_othinv_2025,igs_vene,2025,6006019,,,executed,src_vene_jr2025_nbb,strong,2025 hierboven niet-opgenomen overige geldbeleggingen 6006019 vs 5047762; tick1371; primary official NBB WVV 6.6 8689
+bud_vene_cash_2025,igs_vene,2025,1747622,,,executed,src_vene_jr2025_nbb,strong,2025 liquide middelen 1747622 vs 1644887; tick1371; primary official NBB WVV 54/58
+bud_vene_prepaid_2025,igs_vene,2025,89909,,,executed,src_vene_jr2025_nbb,strong,2025 overlopend actief 89909 (intrest 36857 + opbr 52346); tick1371; primary official NBB WVV 490/1
+bud_vene_equity_2025,igs_vene,2025,23063251,,,executed,src_vene_jr2025_nbb,strong,2025 eigen vermogen 23063251 vs 19724600; tick1371; primary official NBB WVV 10/15
+bud_vene_inbreng_2025,igs_vene,2025,2408388,,,executed,src_vene_jr2025_nbb,strong,2025 inbreng onbeschikbaar 2408388 / toetreding Laarne 31500 + SML 20000 + OCMW 50; 8761 empty; tick1371; primary official NBB WVV 10/11
+bud_vene_reserves_2025,igs_vene,2025,3786019,,,executed,src_vene_jr2025_nbb,strong,2025 reserves 3786019 (statutair 291300 + belastingvrij 2075530 + beschikbaar 1419189); tick1371; primary official NBB WVV 13
+bud_vene_retained_2025,igs_vene,2025,16868844,,,executed,src_vene_jr2025_nbb,strong,2025 overgedragen winst 16868844 vs 14344812; tick1371; primary official NBB WVV 14
+bud_vene_prov_2025,igs_vene,2025,15250091,,,executed,src_vene_jr2025_nbb,strong,2025 voorzieningen 15250091 DROP vs 19749909; tick1371; primary official NBB WVV 16
+bud_vene_pension_2025,igs_vene,2025,2355002,,,executed,src_vene_jr2025_nbb,strong,2025 pensioenen 2355002 vs 2367655; tick1371; primary official NBB WVV 160
+bud_vene_othprov_2025,igs_vene,2025,12895089,,,executed,src_vene_jr2025_nbb,strong,2025 overige risico's 12895089 DROP vs 17382254 (Innovatiefonds 3956211 / Campagne 3680284 / Prijkels 3312188 / park 613011 / Groenling 258599 / diverse 837922 / SOM 236874); tick1371; primary official NBB WVV 164/5 6.8
+bud_vene_prov_used_2025,igs_vene,2025,5098819,,,executed,src_vene_jr2025_nbb,strong,2025 voorziening aanwending 5098819 / dotatie 599001 / netto 635/8 -4499818; tick1371; primary official NBB WVV 6.10 9116
+bud_vene_innov_2025,igs_vene,2025,3956211,,,executed,src_vene_jr2025_nbb,strong,2025 voorziening Innovatiefonds 3956211; tick1371; primary official NBB WVV 6.8
+bud_vene_campagne_2025,igs_vene,2025,3680284,,,executed,src_vene_jr2025_nbb,strong,2025 voorziening BT De Campagne Maldegem 3680284; tick1371; primary official NBB WVV 6.8
+bud_vene_prijkels_2025,igs_vene,2025,3312188,,,executed,src_vene_jr2025_nbb,strong,2025 voorziening BT De Prijkels 3312188; tick1371; primary official NBB WVV 6.8
+bud_vene_debt_2025,igs_vene,2025,13670085,,,executed,src_vene_jr2025_nbb,strong,2025 schulden 13670085 vs 14255105; tick1371; primary official NBB WVV 17/49
+bud_vene_lt_2025,igs_vene,2025,10562893,,,executed,src_vene_jr2025_nbb,strong,2025 LT schulden 10562893 (achtergesteld 10337943 + bank 224950); tick1371; primary official NBB WVV 17
+bud_vene_subord_2025,igs_vene,2025,10337943,,,executed,src_vene_jr2025_nbb,strong,2025 achtergestelde lening 10337943 (vennoten 8233278 tot 2035 + provincie 3666290 + scheiding 279958); tick1371; primary official NBB WVV 170 + jaarverslag
+bud_vene_ltbank_2025,igs_vene,2025,224950,,,executed,src_vene_jr2025_nbb,strong,2025 LT bank panloos huis 224950; tick1371; primary official NBB WVV 173
+bud_vene_st_2025,igs_vene,2025,2888845,,,executed,src_vene_jr2025_nbb,strong,2025 ST schulden 2888845 vs 3225432; tick1371; primary official NBB WVV 42/48
+bud_vene_sttrade_2025,igs_vene,2025,875335,,,executed,src_vene_jr2025_nbb,strong,2025 leveranciers 875335 vs 1218367; tick1371; primary official NBB WVV 440/4
+bud_vene_othdebt_2025,igs_vene,2025,1178055,,,executed,src_vene_jr2025_nbb,strong,2025 overige ST schulden 1178055 (groenwaarborgen + tax shelter 115000); tick1371; primary official NBB WVV 47/48
+bud_vene_govg_2025,igs_vene,2025,10601026,,,executed,src_vene_jr2025_nbb,strong,2025 door Belgische overheden gewaarborgde schulden 10601026 all achtergesteld; tick1371; primary official NBB WVV 6.9 9061
+bud_vene_hyp_2025,igs_vene,2025,1347707,,,executed,src_vene_jr2025_nbb,strong,2025 hypotheek boekwaarde 1347707 + mandaat 700000; tick1371; primary official NBB WVV 6.14 91611
+bud_vene_ops_2025,igs_vene,2025,8569220,,,executed,src_vene_jr2025_nbb,strong,2025 bedrijfsopbrengsten 8569220 vs 13222298; tick1371; primary official NBB WVV 70/76A
+bud_vene_omzet_2025,igs_vene,2025,1184113,,,executed,src_vene_jr2025_nbb,strong,2025 omzet 1184113 DROP vs 9984485; 6.10 category/geo empty; glossy gronden IZ 1173378 + woon 10735; tick1371; primary official NBB WVV 70
+bud_vene_omzet_2024,igs_vene,2024,9984485,,,executed,src_vene_jr2025_nbb,strong,2024 omzet 9984485 comparative; tick1371; primary official NBB WVV 70
+bud_vene_invchg_2025,igs_vene,2025,2114421,,,executed,src_vene_jr2025_nbb,strong,2025 voorraadwijziging +2114421 (IZ 1955046 + woon 159375); tick1371; primary official NBB WVV 71
+bud_vene_othops_2025,igs_vene,2025,5270686,,,executed,src_vene_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 5270686 vs 5607424; 740 subsidies 1577066 only; tick1371; primary official NBB WVV 74
+bud_vene_othops_2024,igs_vene,2024,5607424,,,executed,src_vene_jr2025_nbb,strong,2024 andere bedrijfsopbrengsten 5607424 comparative; tick1371; primary official NBB WVV 74
+bud_vene_subs_2025,igs_vene,2025,1577066,,,executed,src_vene_jr2025_nbb,strong,2025 exploitatiesubsidies 1577066 vs 1721704 (toelagen Vlaamse Gemeenschap); tick1371; primary official NBB WVV 6.10 740
+bud_vene_goods_2025,igs_vene,2025,1755030,,,executed,src_vene_jr2025_nbb,strong,2025 handelsgoederen/grond-hulp 1755030 vs 3543484; tick1371; primary official NBB WVV 60
+bud_vene_diensten_2025,igs_vene,2025,2100124,,,executed,src_vene_jr2025_nbb,strong,2025 diensten 2100124 vs 1696238; tick1371; primary official NBB WVV 61
+bud_vene_pers_2025,igs_vene,2025,4512526,,,executed,src_vene_jr2025_nbb,strong,2025 bezoldigingen 4512526 / 42.6 VTE / 51 koppen / YE 45.5 VTE; tick1371; primary official NBB WVV 62 9087
+bud_vene_deprec_2025,igs_vene,2025,167369,,,executed,src_vene_jr2025_nbb,strong,2025 afschrijvingen 167369; tick1371; primary official NBB WVV 630
+bud_vene_wvinv_2025,igs_vene,2025,527954,,,executed,src_vene_jr2025_nbb,strong,2025 WV voorraden netto 527954 (geboekt 700000 / terug 172046); tick1371; primary official NBB WVV 631/4
+bud_vene_expl_2025,igs_vene,2025,3997215,,,executed,src_vene_jr2025_nbb,strong,2025 bedrijfswinst 3997215 vs 1750433; tick1371; primary official NBB WVV 9901
+bud_vene_expl_2024,igs_vene,2024,1750433,,,executed,src_vene_jr2025_nbb,strong,2024 bedrijfswinst 1750433 comparative; tick1371; primary official NBB WVV 9901
+bud_vene_fininc_2025,igs_vene,2025,364800,,,executed,src_vene_jr2025_nbb,strong,2025 financiele opbrengsten 364800 (vlottende 364738 waarvan beleg 326011 + taxshelter 38727); tick1371; primary official NBB WVV 75
+bud_vene_fincost_2025,igs_vene,2025,114050,,,executed,src_vene_jr2025_nbb,strong,2025 financiele kosten 114050 (schulden 121659 waarvan achtergesteld 108641); tick1371; primary official NBB WVV 65
+bud_vene_tax_2025,igs_vene,2025,1016653,,,executed,src_vene_jr2025_nbb,strong,2025 belastingen 1016653 vs 498962; tick1371; primary official NBB WVV 67/77
+bud_vene_pnl_2025,igs_vene,2025,3231312,,,executed,src_vene_jr2025_nbb,strong,2025 PnL 9904 3231312 vs 1404833; te bestemmen 2524032 overgedragen; tick1371; primary official NBB WVV
+bud_vene_pnl_2024,igs_vene,2024,1404833,,,executed,src_vene_jr2025_nbb,strong,2024 PnL 1404833 comparative; tick1371; primary official NBB WVV 9904
+bud_vene_comm_2025,igs_vene,2025,14417,,,executed,src_vene_jr2025_nbb,strong,2025 commissaris Figurad / Bart Meganck 14417; tick1371; primary official NBB WVV 9505
+bud_vene_board_2025,igs_vene,2025,,,,executed,src_vene_jr2025_nbb,strong,2025 bestuurders 9503 empty (zitpenningen in diensten); tick1371; primary official NBB WVV 9503
