@@ -36733,3 +36733,56 @@ bud_ileu_comm_2025,igs_ileu,2025,15750,,,executed,src_ileu_jr2025_nbb,strong,202
 bud_ileu_cat_re_2025,igs_ileu,2025,5525970,,,executed,src_ileu_jr2025_nbb,strong,2025 6.10 grondbeleid/vastgoedbeheer 5525970; tick1366; primary official NBB WVV 6.10
 bud_ileu_cat_gem_2025,igs_ileu,2025,2469134,,,executed,src_ileu_jr2025_nbb,strong,2025 6.10 werken voor gemeenten 2469134; tick1366; primary official NBB WVV 6.10
 bud_ileu_cat_mil_2025,igs_ileu,2025,1803792,,,executed,src_ileu_jr2025_nbb,strong,2025 6.10 milieudienst 1803792; tick1366; primary official NBB WVV 6.10
+bud_leid_assets_2025,igs_leid,2025,125577074,,,executed,src_leid_jr2025_nbb,strong,2025 assets 125577074 VOL-inb 20/58; commissaris 125577073.92; tick1367; primary official NBB WVV
+bud_leid_assets_2024,igs_leid,2024,130585618,,,executed,src_leid_jr2025_nbb,strong,2024 assets 130585618 comparative; tick1367; primary official NBB WVV 20/58
+bud_leid_fixed_2025,igs_leid,2025,12294515,,,executed,src_leid_jr2025_nbb,strong,2025 vaste activa 12294515; tick1367; primary official NBB WVV 21/28
+bud_leid_mva_2025,igs_leid,2025,11605634,,,executed,src_leid_jr2025_nbb,strong,2025 MVA 11605634 (gebouwen 7245520 + machines 213932 + meubilair 105119 + overige 210979 + CIP 3830085); tick1367; primary official NBB WVV 22/27
+bud_leid_buildings_2025,igs_leid,2025,7245520,,,executed,src_leid_jr2025_nbb,strong,2025 terreinen en gebouwen 7245520 JUMP vs 5359191; tick1367; primary official NBB WVV 22
+bud_leid_cip_2025,igs_leid,2025,3830085,,,executed,src_leid_jr2025_nbb,strong,2025 activa in aanbouw 3830085 vs 4539073; tick1367; primary official NBB WVV 27
+bud_leid_fva_2025,igs_leid,2025,688880,,,executed,src_leid_jr2025_nbb,strong,2025 FVA 688880 (deelnemingsverhouding 247894 + andere 440987); tick1367; primary official NBB WVV 28
+bud_leid_kanaal_2025,igs_leid,2025,247894,,,executed,src_leid_jr2025_nbb,strong,2025 Kanaal 127 cv 0460937169 30.41pct / 1000 aandelen book 247894 EV 302188 PnL -28777 (2024); tick1367; primary official NBB WVV 282 6.5.1
+bud_leid_current_2025,igs_leid,2025,113282559,,,executed,src_leid_jr2025_nbb,strong,2025 vlottende activa 113282559 vs 119506566; tick1367; primary official NBB WVV 29/58
+bud_leid_ltrecv_2025,igs_leid,2025,1323222,,,executed,src_leid_jr2025_nbb,strong,2025 LT handelsvorderingen 1323222; tick1367; primary official NBB WVV 290
+bud_leid_inv_2025,igs_leid,2025,106156450,,,executed,src_leid_jr2025_nbb,strong,2025 voorraden 106156450 all onroerend bestemd voor verkoop; tick1367; primary official NBB WVV 30/36 35
+bud_leid_inv_2024,igs_leid,2024,106932100,,,executed,src_leid_jr2025_nbb,strong,2024 voorraden RE-for-sale 106932100 comparative; tick1367; primary official NBB WVV 35
+bud_leid_strecv_2025,igs_leid,2025,1810854,,,executed,src_leid_jr2025_nbb,strong,2025 ST vorderingen 1810854 (trade 863671 + other 947183); tick1367; primary official NBB WVV 40/41
+bud_leid_invest_2025,igs_leid,2025,2614842,,,executed,src_leid_jr2025_nbb,strong,2025 geldbeleggingen 2614842 DROP vs 4164842 (vastrentend 2000000); tick1367; primary official NBB WVV 50/53
+bud_leid_cash_2025,igs_leid,2025,1231988,,,executed,src_leid_jr2025_nbb,strong,2025 liquide middelen 1231988 DROP vs 3560558 THIN vs bank 75.10m; tick1367; primary official NBB WVV 54/58
+bud_leid_cash_2024,igs_leid,2024,3560558,,,executed,src_leid_jr2025_nbb,strong,2024 cash 3560558 comparative; tick1367; primary official NBB WVV 54/58
+bud_leid_equity_2025,igs_leid,2025,39393918,,,executed,src_leid_jr2025_nbb,strong,2025 eigen vermogen 39393918 DROP vs 44514510; tick1367; primary official NBB WVV 10/15
+bud_leid_inbreng_2025,igs_leid,2025,2565483,,,executed,src_leid_jr2025_nbb,strong,2025 onbeschikbare inbreng 2565483 / 60880 aandelen op naam; tick1367; primary official NBB WVV 111 8702
+bud_leid_reserves_2025,igs_leid,2025,34204174,,,executed,src_leid_jr2025_nbb,strong,2025 reserves 34204174 (onbeschikbaar 256548 + beschikbaar 33947626); tick1367; primary official NBB WVV 13
+bud_leid_capsub_2025,igs_leid,2025,2624261,,,executed,src_leid_jr2025_nbb,strong,2025 kapitaalsubsidies 2624261 vs 2812311; tick1367; primary official NBB WVV 15
+bud_leid_prov_2025,igs_leid,2025,4305724,,,executed,src_leid_jr2025_nbb,strong,2025 voorzieningen 4305724 (pensioen 357842 + bedrijventerreinen 3947883); tick1367; primary official NBB WVV 16 6.8
+bud_leid_debt_2025,igs_leid,2025,81877432,,,executed,src_leid_jr2025_nbb,strong,2025 schulden 81877432 vs 81721949; tick1367; primary official NBB WVV 17/49
+bud_leid_lt_2025,igs_leid,2025,62386717,,,executed,src_leid_jr2025_nbb,strong,2025 LT schulden 62386717 (fin banks 60000000 + other 2386717); tick1367; primary official NBB WVV 17
+bud_leid_ltbank_2025,igs_leid,2025,60000000,,,executed,src_leid_jr2025_nbb,strong,2025 LT kredietinstellingen 60000000 JUMP vs 54325000; tick1367; primary official NBB WVV 173
+bud_leid_st_2025,igs_leid,2025,19473123,,,executed,src_leid_jr2025_nbb,strong,2025 ST schulden 19473123 DROP vs 24847819; tick1367; primary official NBB WVV 42/48
+bud_leid_stcurr_2025,igs_leid,2025,13100000,,,executed,src_leid_jr2025_nbb,strong,2025 ST vervallend LT bank 13100000; tick1367; primary official NBB WVV 42 8841
+bud_leid_stbank_2025,igs_leid,2025,2000000,,,executed,src_leid_jr2025_nbb,strong,2025 ST financieel kredietinstellingen 2000000 vs 0; tick1367; primary official NBB WVV 43 430/8
+bud_leid_sttrade_2025,igs_leid,2025,2293558,,,executed,src_leid_jr2025_nbb,strong,2025 leveranciers 2293558 JUMP vs 866383; tick1367; primary official NBB WVV 440/4
+bud_leid_govg_2025,igs_leid,2025,73100000,,,executed,src_leid_jr2025_nbb,strong,2025 door Belgische overheidsinstellingen gewaarborgde bankschuld 73100000; tick1367; primary official NBB WVV 9061
+bud_leid_ops_2025,igs_leid,2025,15459343,,,executed,src_leid_jr2025_nbb,strong,2025 bedrijfsopbrengsten 15459343; tick1367; primary official NBB WVV 70/76A
+bud_leid_omzet_2025,igs_leid,2025,10372520,,,executed,src_leid_jr2025_nbb,strong,2025 omzet 10372520; 6.10 category filed geo empty; tick1367; primary official NBB WVV 70
+bud_leid_omzet_2024,igs_leid,2024,10178018,,,executed,src_leid_jr2025_nbb,strong,2024 omzet 10178018 comparative; tick1367; primary official NBB WVV 70
+bud_leid_othops_2025,igs_leid,2025,4924538,,,executed,src_leid_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 4924538 waarvan subsidies 3660363; tick1367; primary official NBB WVV 74
+bud_leid_sub_2025,igs_leid,2025,3660363,,,executed,src_leid_jr2025_nbb,strong,2025 exploitatiesubsidies/overheidscompensatie 3660363 vs 3416107; tick1367; primary official NBB WVV 740
+bud_leid_opscost_2025,igs_leid,2025,19732993,,,executed,src_leid_jr2025_nbb,strong,2025 bedrijfskosten 19732993 vs 18001854; tick1367; primary official NBB WVV 60/66A
+bud_leid_goods_2025,igs_leid,2025,7888563,,,executed,src_leid_jr2025_nbb,strong,2025 handelsgoederen/grond-hulp 7888563; tick1367; primary official NBB WVV 60
+bud_leid_diensten_2025,igs_leid,2025,2938783,,,executed,src_leid_jr2025_nbb,strong,2025 diensten 2938783; tick1367; primary official NBB WVV 61
+bud_leid_pers_2025,igs_leid,2025,7950014,,,executed,src_leid_jr2025_nbb,strong,2025 bezoldigingen 7950014 / 76.2 VTE / 83 koppen; tick1367; primary official NBB WVV 62 9087
+bud_leid_deprec_2025,igs_leid,2025,395345,,,executed,src_leid_jr2025_nbb,strong,2025 afschrijvingen 395345; tick1367; primary official NBB WVV 630
+bud_leid_wvinv_2025,igs_leid,2025,542207,,,executed,src_leid_jr2025_nbb,strong,2025 WV voorraden/vorderingen 542207 JUMP vs 1354; tick1367; primary official NBB WVV 631/4
+bud_leid_expl_2025,igs_leid,2025,-4273651,,,executed,src_leid_jr2025_nbb,strong,2025 bedrijfsverlies 4273651 DROP vs -2300327; tick1367; primary official NBB WVV 9901
+bud_leid_expl_2024,igs_leid,2024,-2300327,,,executed,src_leid_jr2025_nbb,strong,2024 bedrijfsverlies 2300327 comparative; tick1367; primary official NBB WVV 9901
+bud_leid_fincost_2025,igs_leid,2025,631840,,,executed,src_leid_jr2025_nbb,strong,2025 financiele kosten 631840 (schulden 627232); tick1367; primary official NBB WVV 65
+bud_leid_intcap_2025,igs_leid,2025,1128910,,,executed,src_leid_jr2025_nbb,strong,2025 geactiveerde interesten 1128910 vs 889910; tick1367; primary official NBB WVV 6502
+bud_leid_tax_2025,igs_leid,2025,123424,,,executed,src_leid_jr2025_nbb,strong,2025 belastingen 123424 vs 184200; tick1367; primary official NBB WVV 67/77
+bud_leid_pnl_2025,igs_leid,2025,-4932541,,,executed,src_leid_jr2025_nbb,strong,2025 PnL 9904 -4932541 DROP vs -2758808; commissaris -4932540.64; tick1367; primary official NBB WVV
+bud_leid_pnl_2024,igs_leid,2024,-2758808,,,executed,src_leid_jr2025_nbb,strong,2024 PnL -2758808 comparative; tick1367; primary official NBB WVV 9904
+bud_leid_board_2025,igs_leid,2025,75309,,,executed,src_leid_jr2025_nbb,strong,2025 bestuurdersbezoldiging 75309; tick1367; primary official NBB WVV 9503
+bud_leid_comm_2025,igs_leid,2025,9099,,,executed,src_leid_jr2025_nbb,strong,2025 commissaris Callens Vandelanotte 9099 + andere controle 23677; tick1367; primary official NBB WVV 9505
+bud_leid_cat_bt_2025,igs_leid,2025,6188647,,,executed,src_leid_jr2025_nbb,strong,2025 6.10 verkopen BT en WZ 6188647; tick1367; primary official NBB WVV 6.10
+bud_leid_cat_diensten_2025,igs_leid,2025,3550660,,,executed,src_leid_jr2025_nbb,strong,2025 6.10 dienstprestaties 3550660; tick1367; primary official NBB WVV 6.10
+bud_leid_cat_huur_2025,igs_leid,2025,633213,,,executed,src_leid_jr2025_nbb,strong,2025 6.10 verhuur en concessies 633213; tick1367; primary official NBB WVV 6.10
+bud_leid_streekfonds_2025,igs_leid,2025,2680000,,,executed,src_leid_jr2025_nbb,strong,2025 6.20 streekfonds engagement tot 2030 geraamd 2680000; tick1367; primary official NBB WVV 6.20
