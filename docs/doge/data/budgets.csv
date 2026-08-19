@@ -37304,3 +37304,61 @@ bud_mirom_comm_2025,igs_mirom,2025,9424,,,executed,src_mirom_jr2025_nbb,strong,2
 bud_mirom_vat_out_2025,igs_mirom,2025,1511979,,,executed,src_mirom_jr2025_nbb,strong,2025 BTW door de vennootschap 1511979 vs 1011692; tick1376; primary official NBB WVV 6.13 9146
 bud_mirom_cip_aanschaf_2025,igs_mirom,2025,2081105,,,executed,src_mirom_jr2025_nbb,strong,2025 CIP aanschaf 2081105; tick1376; primary official NBB WVV 8166
 bud_mirom_rollend_aanschaf_2025,igs_mirom,2025,1026880,,,executed,src_mirom_jr2025_nbb,strong,2025 rollend aanschaf 1026880; tick1376; primary official NBB WVV 8163
+bud_miromn_assets_2025,igs_miromn,2025,11706411,,,executed,src_miromn_jr2025_nbb,strong,2025 assets 11706411 VOL-inb 20/58; tick1377; primary official NBB WVV; commissaris 11706411.28
+bud_miromn_assets_2024,igs_miromn,2024,12881099,,,executed,src_miromn_jr2025_nbb,strong,2024 assets 12881099 comparative; tick1377; primary official NBB WVV 20/58
+bud_miromn_fixed_2025,igs_miromn,2025,3901408,,,executed,src_miromn_jr2025_nbb,strong,2025 vaste activa 3901408 vs 3841199; tick1377; primary official NBB WVV 21/28
+bud_miromn_mva_2025,igs_miromn,2025,3894819,,,executed,src_miromn_jr2025_nbb,strong,2025 MVA 3894819 vs 3833061; tick1377; primary official NBB WVV 22/27
+bud_miromn_buildings_2025,igs_miromn,2025,1290259,,,executed,src_miromn_jr2025_nbb,strong,2025 terreinen en gebouwen 1290259 vs 1468569 (aanschaf year 24513 / YE aanschaf 5362227 / afschr cum 4102497); tick1377; primary official NBB WVV 22
+bud_miromn_machines_2025,igs_miromn,2025,2083295,,,executed,src_miromn_jr2025_nbb,strong,2025 installaties/machines 2083295 JUMP vs 1808362 (aanschaf year 636719 / YE aanschaf 4893877); tick1377; primary official NBB WVV 23
+bud_miromn_rollend_2025,igs_miromn,2025,521266,,,executed,src_miromn_jr2025_nbb,strong,2025 meubilair/rollend 521266 vs 556130 (aanschaf year 150507); tick1377; primary official NBB WVV 24
+bud_miromn_fva_2025,igs_miromn,2025,6589,,,executed,src_miromn_jr2025_nbb,strong,2025 FVA 6589 (aandelen 1425 + borg 5164); tick1377; primary official NBB WVV 28
+bud_miromn_current_2025,igs_miromn,2025,7805003,,,executed,src_miromn_jr2025_nbb,strong,2025 vlottende activa 7805003 vs 9039900; tick1377; primary official NBB WVV 29/58
+bud_miromn_ltrecv_2024,igs_miromn,2024,2640000,,,executed,src_miromn_jr2025_nbb,strong,2024 LT overige vorderingen 2640000 matching pensioenvoorziening; 2025 0; tick1377; primary official NBB WVV 291
+bud_miromn_inv_2025,igs_miromn,2025,350589,,,executed,src_miromn_jr2025_nbb,strong,2025 voorraden 350589 (grond-hulp 259906 + handels 90683); tick1377; primary official NBB WVV 3
+bud_miromn_strecv_2025,igs_miromn,2025,2461225,,,executed,src_miromn_jr2025_nbb,strong,2025 ST vorderingen 2461225 (trade 1600318 + other 860907 JUMP vs 376331); tick1377; primary official NBB WVV 40/41
+bud_miromn_beleg_2025,igs_miromn,2025,3432201,,,executed,src_miromn_jr2025_nbb,strong,2025 geldbeleggingen 3432201 JUMP vs 2707015 (8689 unnamed; 51/52/53 looptijden empty); tick1377; primary official NBB WVV 50/53
+bud_miromn_beleg_2024,igs_miromn,2024,2707015,,,executed,src_miromn_jr2025_nbb,strong,2024 geldbeleggingen 2707015 comparative; tick1377; primary official NBB WVV 50/53
+bud_miromn_cash_2025,igs_miromn,2025,1447446,,,executed,src_miromn_jr2025_nbb,strong,2025 liquide middelen 1447446 DROP vs 1629275; tick1377; primary official NBB WVV 54/58
+bud_miromn_cash_2024,igs_miromn,2024,1629275,,,executed,src_miromn_jr2025_nbb,strong,2024 liquide middelen 1629275 comparative; tick1377; primary official NBB WVV 54/58
+bud_miromn_prepaid_2025,igs_miromn,2025,113542,,,executed,src_miromn_jr2025_nbb,strong,2025 overlopend actief 113542 (verzekeringen 36485 + abonnementen 6000 + ophaalkalender 29007 + gft 42051); tick1377; primary official NBB WVV 490/1
+bud_miromn_equity_2025,igs_miromn,2025,8626785,,,executed,src_miromn_jr2025_nbb,strong,2025 eigen vermogen 8626785 vs 7725530; tick1377; primary official NBB WVV 10/15
+bud_miromn_inbreng_2025,igs_miromn,2025,2652670,,,executed,src_miromn_jr2025_nbb,strong,2025 inbreng 2652670 onbeschikbaar / 85570 aandelen op naam; niet volgestort 13485; 8761/8762 empty; tick1377; primary official NBB WVV 10/11
+bud_miromn_capinc_2025,igs_miromn,2025,29233,,,executed,src_miromn_jr2025_nbb,strong,2025 inbrengverhoging 29233 / 943 aandelen (Menen 13485 / Wevelgem 9889 / Wervik 5859); tick1377; primary official NBB WVV 6.7.1 + JV 5.2
+bud_miromn_reserves_2025,igs_miromn,2025,1167505,,,executed,src_miromn_jr2025_nbb,strong,2025 reserves 1167505 (statutair 265267 + overige 14775 + beschikbaar 887464); tick1377; primary official NBB WVV 13
+bud_miromn_overgedragen_2025,igs_miromn,2025,3942241,,,executed,src_miromn_jr2025_nbb,strong,2025 overgedragen winst 3942241 vs 3197888; tick1377; primary official NBB WVV 14
+bud_miromn_capsub_2025,igs_miromn,2025,830155,,,executed,src_miromn_jr2025_nbb,strong,2025 kapitaalsubsidies 830155 vs 705409; tick1377; primary official NBB WVV 15
+bud_miromn_prov_2025,igs_miromn,2025,0,,,executed,src_miromn_jr2025_nbb,strong,2025 voorzieningen 0 DROP vs 2640000; tick1377; primary official NBB WVV 16
+bud_miromn_pens_2024,igs_miromn,2024,2640000,,,executed,src_miromn_jr2025_nbb,strong,2024 pensioenvoorziening 2640000 (2025 teruggenomen + 664/7 2640000); tick1377; primary official NBB WVV 160
+bud_miromn_debt_2025,igs_miromn,2025,3079626,,,executed,src_miromn_jr2025_nbb,strong,2025 schulden 3079626 vs 2515569; tick1377; primary official NBB WVV 17/49
+bud_miromn_ltbank_2025,igs_miromn,2025,215000,,,executed,src_miromn_jr2025_nbb,strong,2025 LT bank 215000 (1-5j) vs 435000; tick1377; primary official NBB WVV 173
+bud_miromn_st_2025,igs_miromn,2025,1852916,,,executed,src_miromn_jr2025_nbb,strong,2025 ST schulden 1852916 vs 1465580; tick1377; primary official NBB WVV 42/48
+bud_miromn_stbank_2025,igs_miromn,2025,220000,,,executed,src_miromn_jr2025_nbb,strong,2025 ST current bank 220000; tick1377; primary official NBB WVV 42/8841
+bud_miromn_sttrade_2025,igs_miromn,2025,1254857,,,executed,src_miromn_jr2025_nbb,strong,2025 leveranciers 1254857 JUMP vs 877082; tick1377; primary official NBB WVV 440/4
+bud_miromn_sttaxsoc_2025,igs_miromn,2025,377145,,,executed,src_miromn_jr2025_nbb,strong,2025 tax/soc 377145 (tax 30083 + wages 347062); tick1377; primary official NBB WVV 45
+bud_miromn_accrued_2025,igs_miromn,2025,1011710,,,executed,src_miromn_jr2025_nbb,strong,2025 overlopend passief 1011710 (GFT 26 682975 + zakken 288375 + Fost Plus 15443); tick1377; primary official NBB WVV 492/3
+bud_miromn_ops_2025,igs_miromn,2025,12582513,,,executed,src_miromn_jr2025_nbb,strong,2025 bedrijfsopbrengsten 12582513 vs 9195870; tick1377; primary official NBB WVV 70/76A
+bud_miromn_omzet_2025,igs_miromn,2025,5510522,,,executed,src_miromn_jr2025_nbb,strong,2025 omzet 5510522 vs 5496006; 6.10 category empty / geo BE only; tick1377; primary official NBB WVV 70
+bud_miromn_omzet_2024,igs_miromn,2024,5496006,,,executed,src_miromn_jr2025_nbb,strong,2024 omzet 5496006 comparative; tick1377; primary official NBB WVV 70
+bud_miromn_othops_2025,igs_miromn,2025,4366684,,,executed,src_miromn_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 4366684 vs 3685232 (740 subsidies 515641; ~3851043 unnamed); tick1377; primary official NBB WVV 74
+bud_miromn_subs_2025,igs_miromn,2025,515641,,,executed,src_miromn_jr2025_nbb,strong,2025 exploitatiesubsidies 515641 JUMP vs 270321; tick1377; primary official NBB WVV 740
+bud_miromn_nrops_2025,igs_miromn,2025,2705306,,,executed,src_miromn_jr2025_nbb,strong,2025 niet-recurrente bedrijfsopbrengsten 2705306 (terugneming voorziening 2640000 + meerwaarde 65306); tick1377; primary official NBB WVV 76A
+bud_miromn_pensrev_2025,igs_miromn,2025,2640000,,,executed,src_miromn_jr2025_nbb,strong,2025 terugneming pensioenvoorziening 2640000 (WVV 7620); tick1377; primary official NBB WVV
+bud_miromn_goods_2025,igs_miromn,2025,550888,,,executed,src_miromn_jr2025_nbb,strong,2025 handelsgoederen/grond-hulp 550888 (aankopen 486801 / voorraad 64088); tick1377; primary official NBB WVV 60
+bud_miromn_diensten_2025,igs_miromn,2025,4769777,,,executed,src_miromn_jr2025_nbb,strong,2025 diensten 4769777 vs 4632369 (86.6pct of omzet); tick1377; primary official NBB WVV 61
+bud_miromn_diensten_2024,igs_miromn,2024,4632369,,,executed,src_miromn_jr2025_nbb,strong,2024 diensten 4632369 comparative; tick1377; primary official NBB WVV 61
+bud_miromn_pers_2025,igs_miromn,2025,2712524,,,executed,src_miromn_jr2025_nbb,strong,2025 bezoldigingen 2712524 / 36.5 VTE / 41 koppen / 54125 uur; tick1377; primary official NBB WVV 62 9087
+bud_miromn_uitzend_2025,igs_miromn,2025,49466,,,executed,src_miromn_jr2025_nbb,strong,2025 uitzend 49466 / 0.7 VTE / 1335 uur; tick1377; primary official NBB WVV 617
+bud_miromn_deprec_2025,igs_miromn,2025,749980,,,executed,src_miromn_jr2025_nbb,strong,2025 afschrijvingen 749980 vs 698787; tick1377; primary official NBB WVV 630
+bud_miromn_othcost_2025,igs_miromn,2025,544339,,,executed,src_miromn_jr2025_nbb,strong,2025 andere bedrijfskosten 544339 (tax 48813 + other 495526 JUMP vs 158410); tick1377; primary official NBB WVV 640/8
+bud_miromn_nrcost_2025,igs_miromn,2025,2641549,,,executed,src_miromn_jr2025_nbb,strong,2025 niet-recurrente bedrijfskosten 2641549 (664/7 2640000 + minderwaarde 1549); tick1377; primary official NBB WVV 66A
+bud_miromn_expl_2025,igs_miromn,2025,613455,,,executed,src_miromn_jr2025_nbb,strong,2025 bedrijfswinst 613455 vs 510453; tick1377; primary official NBB WVV 9901
+bud_miromn_expl_2024,igs_miromn,2024,510453,,,executed,src_miromn_jr2025_nbb,strong,2024 bedrijfswinst 510453 comparative; tick1377; primary official NBB WVV 9901
+bud_miromn_fininc_2025,igs_miromn,2025,155853,,,executed,src_miromn_jr2025_nbb,strong,2025 financiele opbrengsten 155853 (capsub 120254 + vlottende 30777); tick1377; primary official NBB WVV 75
+bud_miromn_capsub_pl_2025,igs_miromn,2025,120254,,,executed,src_miromn_jr2025_nbb,strong,2025 kapitaalsubsidies in PnL 120254 vs 103921; tick1377; primary official NBB WVV 9125
+bud_miromn_fincost_2025,igs_miromn,2025,12799,,,executed,src_miromn_jr2025_nbb,strong,2025 financiele kosten 12799 (schulden 12104 + other 694); tick1377; primary official NBB WVV 65
+bud_miromn_tax_2025,igs_miromn,2025,9233,,,executed,src_miromn_jr2025_nbb,strong,2025 belasting 9233; tick1377; primary official NBB WVV 67/77
+bud_miromn_pnl_2025,igs_miromn,2025,747277,,,executed,src_miromn_jr2025_nbb,strong,2025 PnL 9904 747277 vs 631416 overgedragen; commissaris 747276.85; tick1377; primary official NBB WVV
+bud_miromn_pnl_2024,igs_miromn,2024,631416,,,executed,src_miromn_jr2025_nbb,strong,2024 PnL 631416 comparative; tick1377; primary official NBB WVV 9904
+bud_miromn_comm_2025,igs_miromn,2025,6975,,,executed,src_miromn_jr2025_nbb,strong,2025 commissaris Auditas / Sven Vansteelant 6975; tick1377; primary official NBB WVV 9505
+bud_miromn_bestuur_2025,igs_miromn,2025,33904,,,executed,src_miromn_jr2025_nbb,strong,2025 bestuurders 33904; tick1377; primary official NBB WVV 9503
+bud_miromn_machines_aanschaf_2025,igs_miromn,2025,636719,,,executed,src_miromn_jr2025_nbb,strong,2025 machines aanschaf 636719; tick1377; primary official NBB WVV 8162
