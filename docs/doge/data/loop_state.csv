@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-19T01:35:00Z,rq_1367,1367,no,tick1367 Leiedal leftover IGS residual; KBO 0205.350.681; live JR2025 NBB WVV PDF; sourced euros assets 125577074 omzet 10372520 pnl -4932541; FOI ready 6.10-geo/inv 106.16m/bank 75.10m/continuity/streekfonds; next rq_1368 residual dual L5 VL; continuous hole_fill; next every-10 is 1370
+main,continuous,hole_fill,2026-08-19T02:20:00Z,rq_1368,1368,no,tick1368 IOK leftover IGS residual; KBO 0204.212.714; live JR2025 NBB WVV PDF; sourced euros assets 163272484 omzet 4999438 othops 18029791 pnl 1466438; FOI ready othops 18.03m/inv 62.18m/invest 52.87m; next rq_1369 residual dual L5 VL; continuous hole_fill; next every-10 is 1370
