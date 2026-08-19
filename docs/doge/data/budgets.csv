@@ -36839,3 +36839,63 @@ bud_iokd_comm_2025,igs_iokd,2025,17424,,,executed,src_iokd_jr2025_nbb,strong,202
 bud_iokd_cat_ind_2025,igs_iokd,2025,1162672,,,executed,src_iokd_jr2025_nbb,strong,2025 6.10 industrie- en ambachtszones 1162672; tick1368; primary official NBB WVV 6.10
 bud_iokd_cat_woon_2025,igs_iokd,2025,629925,,,executed,src_iokd_jr2025_nbb,strong,2025 6.10 woonzones 629925; tick1368; primary official NBB WVV 6.10
 bud_iokd_cat_studio_2025,igs_iokd,2025,3206841,,,executed,src_iokd_jr2025_nbb,strong,2025 6.10 studiebureau-opdrachten 3206841; tick1368; primary official NBB WVV 6.10
+bud_imog_assets_2025,igs_imog,2025,71874597,,,executed,src_imog_jr2025_nbb,strong,2025 assets 71874597 VOL-inb 20/58; tick1369; primary official NBB WVV
+bud_imog_assets_2024,igs_imog,2024,64510281,,,executed,src_imog_jr2025_nbb,strong,2024 assets 64510281 comparative; tick1369; primary official NBB WVV 20/58
+bud_imog_fixed_2025,igs_imog,2025,37866130,,,executed,src_imog_jr2025_nbb,strong,2025 vaste activa 37866130 JUMP vs 29503844; tick1369; primary official NBB WVV 21/28
+bud_imog_immat_2025,igs_imog,2025,81430,,,executed,src_imog_jr2025_nbb,strong,2025 immateriele VA 81430 vs 97372; tick1369; primary official NBB WVV 21
+bud_imog_mva_2025,igs_imog,2025,37771942,,,executed,src_imog_jr2025_nbb,strong,2025 MVA 37771942 (gebouwen 8825391 + machines 20758748 + rollend 8183227 + leasing 4576); tick1369; primary official NBB WVV 22/27
+bud_imog_buildings_2025,igs_imog,2025,8825391,,,executed,src_imog_jr2025_nbb,strong,2025 terreinen en gebouwen 8825391 aanschaf 1384419; tick1369; primary official NBB WVV 22
+bud_imog_machines_2025,igs_imog,2025,20758748,,,executed,src_imog_jr2025_nbb,strong,2025 installaties/machines 20758748 aanschaf 4959342; tick1369; primary official NBB WVV 23
+bud_imog_rollend_2025,igs_imog,2025,8183227,,,executed,src_imog_jr2025_nbb,strong,2025 meubilair/rollend 8183227 JUMP vs 3081872 after aanschaf 6138151; tick1369; primary official NBB WVV 24
+bud_imog_rollend_acq_2025,igs_imog,2025,6138151,,,executed,src_imog_jr2025_nbb,strong,2025 aanschaf meubilair/rollend 6138151; tick1369; primary official NBB WVV 6.3.3 8163
+bud_imog_mach_acq_2025,igs_imog,2025,4959342,,,executed,src_imog_jr2025_nbb,strong,2025 aanschaf machines 4959342; tick1369; primary official NBB WVV 6.3.2 8162
+bud_imog_leasing_2025,igs_imog,2025,4576,,,executed,src_imog_jr2025_nbb,strong,2025 leasing MVA 4576 vs 10067; tick1369; primary official NBB WVV 25
+bud_imog_fva_2025,igs_imog,2025,12758,,,executed,src_imog_jr2025_nbb,strong,2025 FVA 12758 (aandelen 4526 + borg 8231; 6.4.1/6.5.1 not filed); tick1369; primary official NBB WVV 28
+bud_imog_current_2025,igs_imog,2025,34008468,,,executed,src_imog_jr2025_nbb,strong,2025 vlottende activa 34008468 vs 35006438; tick1369; primary official NBB WVV 29/58
+bud_imog_ltrecv_2025,igs_imog,2025,2190050,,,executed,src_imog_jr2025_nbb,strong,2025 LT overige vorderingen 2190050; tick1369; primary official NBB WVV 291
+bud_imog_inv_2025,igs_imog,2025,2662737,,,executed,src_imog_jr2025_nbb,strong,2025 voorraden grond-hulp 2662737; tick1369; primary official NBB WVV 30/31
+bud_imog_strecv_2025,igs_imog,2025,7375876,,,executed,src_imog_jr2025_nbb,strong,2025 ST vorderingen 7375876 (trade 6628444 + other 747432); tick1369; primary official NBB WVV 40/41
+bud_imog_invest_2025,igs_imog,2025,0,,,executed,src_imog_jr2025_nbb,strong,2025 geldbeleggingen 0 DROP vs 4940053 (6.6 8689); tick1369; primary official NBB WVV 50/53
+bud_imog_invest_2024,igs_imog,2024,4940053,,,executed,src_imog_jr2025_nbb,strong,2024 geldbeleggingen 4940053 comparative; tick1369; primary official NBB WVV 50/53
+bud_imog_cash_2025,igs_imog,2025,20581515,,,executed,src_imog_jr2025_nbb,strong,2025 liquide middelen 20581515 JUMP vs 17885018; tick1369; primary official NBB WVV 54/58
+bud_imog_cash_2024,igs_imog,2024,17885018,,,executed,src_imog_jr2025_nbb,strong,2024 cash 17885018 comparative; tick1369; primary official NBB WVV 54/58
+bud_imog_prepaid_2025,igs_imog,2025,1198289,,,executed,src_imog_jr2025_nbb,strong,2025 overlopend actief 1198289 (kosten 44761 + opbr 1153528); tick1369; primary official NBB WVV 490/1
+bud_imog_equity_2025,igs_imog,2025,20973508,,,executed,src_imog_jr2025_nbb,strong,2025 eigen vermogen 20973508 vs 20397807; tick1369; primary official NBB WVV 10/15
+bud_imog_inbreng_2025,igs_imog,2025,10143151,,,executed,src_imog_jr2025_nbb,strong,2025 inbreng 10143151 (beschikbaar 9893497 + onbeschikbaar 249654) / 409163 aandelen; tick1369; primary official NBB WVV 10/11
+bud_imog_reserves_2025,igs_imog,2025,5818907,,,executed,src_imog_jr2025_nbb,strong,2025 reserves 5818907 (onbeschikbaar 4576556 + beschikbaar 1242351); tick1369; primary official NBB WVV 13
+bud_imog_capsub_2025,igs_imog,2025,3320837,,,executed,src_imog_jr2025_nbb,strong,2025 kapitaalsubsidies 3320837 vs 2781753; tick1369; primary official NBB WVV 15
+bud_imog_prov_2025,igs_imog,2025,11851310,,,executed,src_imog_jr2025_nbb,strong,2025 voorzieningen 11851310 (herstelling 2201500 + overige 9649810); tick1369; primary official NBB WVV 16
+bud_imog_repair_2025,igs_imog,2025,2201500,,,executed,src_imog_jr2025_nbb,strong,2025 grote herstellingen 2201500 vs 2251500; tick1369; primary official NBB WVV 162
+bud_imog_othprov_2025,igs_imog,2025,9649810,,,executed,src_imog_jr2025_nbb,strong,2025 overige risico's 9649810 (Moen 6798786 + responsabilisering 2776024 + overige 75000); tick1369; primary official NBB WVV 164/5 6.8
+bud_imog_moen_2025,igs_imog,2025,6798786,,,executed,src_imog_jr2025_nbb,strong,2025 Masterplan Moen + afwerking stortplaats 6798786; tick1369; primary official NBB WVV 6.8
+bud_imog_pension_2025,igs_imog,2025,2776024,,,executed,src_imog_jr2025_nbb,strong,2025 responsabiliseringsbijdragen 2776024 verdisconteerd tot 2052 Belfius; tick1369; primary official NBB WVV 6.8 6.14
+bud_imog_debt_2025,igs_imog,2025,39049779,,,executed,src_imog_jr2025_nbb,strong,2025 schulden 39049779 JUMP vs 31761273; tick1369; primary official NBB WVV 17/49
+bud_imog_lt_2025,igs_imog,2025,15610642,,,executed,src_imog_jr2025_nbb,strong,2025 LT schulden 15610642 (bank 14863272 + overige 747370); tick1369; primary official NBB WVV 17
+bud_imog_ltbank_2025,igs_imog,2025,14863272,,,executed,src_imog_jr2025_nbb,strong,2025 LT kredietinstellingen 14863272; tick1369; primary official NBB WVV 173
+bud_imog_st_2025,igs_imog,2025,23217880,,,executed,src_imog_jr2025_nbb,strong,2025 ST schulden 23217880 JUMP vs 12666098; tick1369; primary official NBB WVV 42/48
+bud_imog_stbank_2025,igs_imog,2025,1138569,,,executed,src_imog_jr2025_nbb,strong,2025 ST financieel kredietinstellingen 1138569; tick1369; primary official NBB WVV 43
+bud_imog_sttrade_2025,igs_imog,2025,9893440,,,executed,src_imog_jr2025_nbb,strong,2025 leveranciers 9893440 JUMP vs 5523241; tick1369; primary official NBB WVV 440/4
+bud_imog_vooruit_2025,igs_imog,2025,6604624,,,executed,src_imog_jr2025_nbb,strong,2025 vooruitbetalingen 6604624 JUMP vs 629740; tick1369; primary official NBB WVV 46
+bud_imog_vooruit_2024,igs_imog,2024,629740,,,executed,src_imog_jr2025_nbb,strong,2024 vooruitbetalingen 629740 comparative; tick1369; primary official NBB WVV 46
+bud_imog_govg_2025,igs_imog,2025,5578751,,,executed,src_imog_jr2025_nbb,strong,2025 door Belgische overheden gewaarborgde schulden 5578751; tick1369; primary official NBB WVV 6.9 9061
+bud_imog_offg_2025,igs_imog,2025,19957275,,,executed,src_imog_jr2025_nbb,strong,2025 buitenbalans leningen gewaarborgd door deelnemende lokale besturen 19957275; tick1369; primary official NBB WVV 6.14
+bud_imog_bankw_2025,igs_imog,2025,2283223,,,executed,src_imog_jr2025_nbb,strong,2025 bankwaarborgen 2283223 (OVAM Moen 980739+1295597); tick1369; primary official NBB WVV 6.14 6.19
+bud_imog_ops_2025,igs_imog,2025,53945954,,,executed,src_imog_jr2025_nbb,strong,2025 bedrijfsopbrengsten 53945954; tick1369; primary official NBB WVV 70/76A
+bud_imog_omzet_2025,igs_imog,2025,50303598,,,executed,src_imog_jr2025_nbb,strong,2025 omzet 50303598; 6.10 geo only BE 50248530 / EU 55068; category empty; tick1369; primary official NBB WVV 70
+bud_imog_omzet_2024,igs_imog,2024,46173743,,,executed,src_imog_jr2025_nbb,strong,2024 omzet 46173743 comparative; tick1369; primary official NBB WVV 70
+bud_imog_othops_2025,igs_imog,2025,2641749,,,executed,src_imog_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 2641749 waarvan subsidies 662261 only (~1979488 unnamed); tick1369; primary official NBB WVV 74
+bud_imog_sub_2025,igs_imog,2025,662261,,,executed,src_imog_jr2025_nbb,strong,2025 exploitatiesubsidies/overheidscompensatie 662261 vs 385214; tick1369; primary official NBB WVV 740
+bud_imog_nrops_2025,igs_imog,2025,1000607,,,executed,src_imog_jr2025_nbb,strong,2025 niet-recurrente bedrijfsopbrengsten 1000607 (meerwaarde MVA 669333 + andere 331273); tick1369; primary official NBB WVV 76A 6.12
+bud_imog_diensten_2025,igs_imog,2025,34105306,,,executed,src_imog_jr2025_nbb,strong,2025 diensten 34105306 (67.8pct of omzet); tick1369; primary official NBB WVV 61
+bud_imog_goods_2025,igs_imog,2025,963073,,,executed,src_imog_jr2025_nbb,strong,2025 handelsgoederen/grond-hulp 963073; tick1369; primary official NBB WVV 60
+bud_imog_pers_2025,igs_imog,2025,13117675,,,executed,src_imog_jr2025_nbb,strong,2025 bezoldigingen 13117675 / 170 VTE / 181 koppen vs sociale balans 11275446; tick1369; primary official NBB WVV 62 9087
+bud_imog_uitzend_2025,igs_imog,2025,440856,,,executed,src_imog_jr2025_nbb,strong,2025 uitzend 440856 / 6.8 VTE; tick1369; primary official NBB WVV 617 9097
+bud_imog_deprec_2025,igs_imog,2025,4123188,,,executed,src_imog_jr2025_nbb,strong,2025 afschrijvingen 4123188; tick1369; primary official NBB WVV 630
+bud_imog_expl_2025,igs_imog,2025,123588,,,executed,src_imog_jr2025_nbb,strong,2025 bedrijfswinst 123588 vs -1661424; tick1369; primary official NBB WVV 9901
+bud_imog_expl_2024,igs_imog,2024,-1661424,,,executed,src_imog_jr2025_nbb,strong,2024 bedrijfsverlies 1661424 comparative; tick1369; primary official NBB WVV 9901
+bud_imog_fininc_2025,igs_imog,2025,433189,,,executed,src_imog_jr2025_nbb,strong,2025 financiele opbrengsten 433189 (vlottende 87913 + andere 345268 waarvan capsub 110916); tick1369; primary official NBB WVV 75
+bud_imog_fincost_2025,igs_imog,2025,541907,,,executed,src_imog_jr2025_nbb,strong,2025 financiele kosten 541907 (schulden 543058); tick1369; primary official NBB WVV 65
+bud_imog_pnl_2025,igs_imog,2025,4638,,,executed,src_imog_jr2025_nbb,strong,2025 PnL 9904 4638 vs -1575501; added to overgedragen; tick1369; primary official NBB WVV
+bud_imog_pnl_2024,igs_imog,2024,-1575501,,,executed,src_imog_jr2025_nbb,strong,2024 PnL -1575501 comparative; tick1369; primary official NBB WVV 9904
+bud_imog_comm_2025,igs_imog,2025,18480,,,executed,src_imog_jr2025_nbb,strong,2025 commissaris Callens Vandelanotte Nuyttens 18480; tick1369; primary official NBB WVV 9505
+bud_imog_board_2025,igs_imog,2025,61638,,,executed,src_imog_jr2025_nbb,strong,2025 bestuurders presentiegeld 61638 + km 2465 = 64103 (9503 empty); tick1369; primary official remunatieverslag p48-49

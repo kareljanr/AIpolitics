@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-19T02:20:00Z,rq_1368,1368,no,tick1368 IOK leftover IGS residual; KBO 0204.212.714; live JR2025 NBB WVV PDF; sourced euros assets 163272484 omzet 4999438 othops 18029791 pnl 1466438; FOI ready othops 18.03m/inv 62.18m/invest 52.87m; next rq_1369 residual dual L5 VL; continuous hole_fill; next every-10 is 1370
+main,continuous,hole_fill,2026-08-19T03:10:00Z,rq_1369,1369,no,tick1369 IMOG leftover IGS residual; KBO 0206.848.639; live JR2025 NBB WVV PDF; sourced euros assets 71874597 omzet 50303598 diensten 34105306 pnl 4638; FOI ready omzet 50.30m/diensten 34.11m/vooruit 6.60m; next rq_1370 every-10 then residual dual L5 VL; continuous hole_fill
