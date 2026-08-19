@@ -37673,3 +37673,83 @@ bud_intg_tariff_elec_2025,igs_intg,2025,436,,,executed,src_intg_jr2025_nbb,stron
 bud_intg_tariff_gas_2025,igs_intg,2025,244,,,executed,src_intg_jr2025_nbb,strong,2025 nettarief gas gezin 244 EUR incl btw vs 229; tick1382; primary official NBB WVV jaarverslag
 bud_intg_shares_nb_2025,igs_intg,2025,13203185,,,executed,src_intg_jr2025_nbb,strong,2025 aandelen netbeheer+neven 13203185 + Aov 704877; tick1382; primary official NBB WVV jaarverslag
 bud_intg_kbo_cap_2025,igs_intg,2025,201116418,,,executed,src_intg_jr2025_nbb,strong,2025 KBO kapitaal 201116418 (register; vs inbreng 130575272); tick1382; primary official KBO
+bud_imew_assets_2025,igs_imew,2025,3069003579,,,executed,src_imew_jr2025_nbb,strong,2025 assets 3069003579 VOL-inb 20/58; tick1383; primary official NBB WVV; commissaris 3069003579
+bud_imew_assets_2024,igs_imew,2024,2719289174,,,executed,src_imew_jr2025_nbb,strong,2024 assets 2719289174 comparative; tick1383; primary official NBB WVV 20/58
+bud_imew_fixed_2025,igs_imew,2025,2802706299,,,executed,src_imew_jr2025_nbb,strong,2025 vaste activa 2802706299 vs 2510111089; tick1383; primary official NBB WVV 21/28
+bud_imew_iva_2025,igs_imew,2025,21028817,,,executed,src_imew_jr2025_nbb,strong,2025 IVA 21028817 vs 19620069; tick1383; primary official NBB WVV 21
+bud_imew_iva_acq_2025,igs_imew,2025,12500255,,,executed,src_imew_jr2025_nbb,strong,2025 IVA aanschaf 12500255 (8021); tick1383; primary official NBB WVV 6.2.1
+bud_imew_mva_2025,igs_imew,2025,2643277966,,,executed,src_imew_jr2025_nbb,strong,2025 MVA 2643277966 vs 2357512049; tick1383; primary official NBB WVV 22/27
+bud_imew_buildings_2025,igs_imew,2025,64688429,,,executed,src_imew_jr2025_nbb,strong,2025 terreinen/gebouwen 64688429 vs 61977706; tick1383; primary official NBB WVV 22
+bud_imew_machines_2025,igs_imew,2025,2248143242,,,executed,src_imew_jr2025_nbb,strong,2025 installaties/machines 2248143242 vs 2043619129; tick1383; primary official NBB WVV 23
+bud_imew_machines_acq_2025,igs_imew,2025,164578834,,,executed,src_imew_jr2025_nbb,strong,2025 machines aanschaf 164578834 (8162); tick1383; primary official NBB WVV 6.3
+bud_imew_furniture_2025,igs_imew,2025,15015356,,,executed,src_imew_jr2025_nbb,strong,2025 meubilair/rollend 15015356 vs 13172166; tick1383; primary official NBB WVV 24
+bud_imew_lease_mva_2025,igs_imew,2025,12160746,,,executed,src_imew_jr2025_nbb,strong,2025 leasing MVA 12160746 vs 11484253; tick1383; primary official NBB WVV 25
+bud_imew_other_mva_2025,igs_imew,2025,716673,,,executed,src_imew_jr2025_nbb,strong,2025 overige MVA 716673 vs 110157; tick1383; primary official NBB WVV 26
+bud_imew_cip_2025,igs_imew,2025,302553520,,,executed,src_imew_jr2025_nbb,strong,2025 CIP 302553520 vs 227148638; aanschaf 307690209; tick1383; primary official NBB WVV 27
+bud_imew_cip_acq_2025,igs_imew,2025,307690209,,,executed,src_imew_jr2025_nbb,strong,2025 CIP aanschaf 307690209 (8166); tick1383; primary official NBB WVV 6.3.6
+bud_imew_fva_2025,igs_imew,2025,138399516,,,executed,src_imew_jr2025_nbb,strong,2025 FVA 138399516 vs 132978970; tick1383; primary official NBB WVV 28
+bud_imew_fva_part_2025,igs_imew,2025,32872626,,,executed,src_imew_jr2025_nbb,strong,2025 deelnemingen 32872626 (FSO 18.57pct); tick1383; primary official NBB WVV 282
+bud_imew_fva_shares_2025,igs_imew,2025,105526891,,,executed,src_imew_jr2025_nbb,strong,2025 andere aandelen 105526891 vs 101982644 after aanschaf 3544247; tick1383; primary official NBB WVV 284
+bud_imew_fva_acq_2025,igs_imew,2025,3544247,,,executed,src_imew_jr2025_nbb,strong,2025 FVA andere aandelen aanschaf 3544247; tick1383; primary official NBB WVV 6.4.3 8363
+bud_imew_current_2025,igs_imew,2025,266297280,,,executed,src_imew_jr2025_nbb,strong,2025 vlottende activa 266297280 vs 209178085; tick1383; primary official NBB WVV 29/58
+bud_imew_ltrecv_2025,igs_imew,2025,7252565,,,executed,src_imew_jr2025_nbb,strong,2025 LT vorderingen 7252565 vs 8921966 (all other 291); tick1383; primary official NBB WVV 29
+bud_imew_wip_2025,igs_imew,2025,10613583,,,executed,src_imew_jr2025_nbb,strong,2025 bestellingen in uitvoering 10613583 vs 8935386; tick1383; primary official NBB WVV 37
+bud_imew_strecv_2025,igs_imew,2025,176069219,,,executed,src_imew_jr2025_nbb,strong,2025 ST vorderingen 176069219 vs 119820714; tick1383; primary official NBB WVV 40/41
+bud_imew_trade_2025,igs_imew,2025,87251277,,,executed,src_imew_jr2025_nbb,strong,2025 handelsvorderingen 87251277 vs 63412728; tick1383; primary official NBB WVV 40
+bud_imew_othrecv_2025,igs_imew,2025,88817942,,,executed,src_imew_jr2025_nbb,strong,2025 overige ST vorderingen 88817942 vs 56407986; tick1383; primary official NBB WVV 41
+bud_imew_cash_2025,igs_imew,2025,993,,,executed,src_imew_jr2025_nbb,strong,2025 liquide middelen 993 vs 1503 (near-zero vs 2.29bn debt); tick1383; primary official NBB WVV 54/58
+bud_imew_prepaid_2025,igs_imew,2025,72360920,,,executed,src_imew_jr2025_nbb,strong,2025 overlopend actief 72360920 (VNR 28405832 / REG 14833223 / pens 14430250 / verbruiken 13560300); tick1383; primary official NBB WVV 490/1
+bud_imew_equity_2025,igs_imew,2025,772545254,,,executed,src_imew_jr2025_nbb,strong,2025 eigen vermogen 772545254 vs 715140711; tick1383; primary official NBB WVV 10/15
+bud_imew_equity_2024,igs_imew,2024,715140711,,,executed,src_imew_jr2025_nbb,strong,2024 eigen vermogen 715140711 comparative; tick1383; primary official NBB WVV 10/15
+bud_imew_inbreng_2025,igs_imew,2025,359573487,,,executed,src_imew_jr2025_nbb,strong,2025 inbreng beschikbaar 359573487 vs 347514810; tick1383; primary official NBB WVV 10/11
+bud_imew_reval_2025,igs_imew,2025,154851529,,,executed,src_imew_jr2025_nbb,strong,2025 herwaarderingsmeerwaarden 154851529 vs 155442545; tick1383; primary official NBB WVV 12
+bud_imew_reserves_2025,igs_imew,2025,190084800,,,executed,src_imew_jr2025_nbb,strong,2025 reserves 190084800 (onbeschikbaar 57496749 + belastingvrij 2620885 + beschikbaar 129967166); tick1383; primary official NBB WVV 13
+bud_imew_retained_2025,igs_imew,2025,67496612,,,executed,src_imew_jr2025_nbb,strong,2025 overgedragen winst 67496612 vs 39684291; tick1383; primary official NBB WVV 14
+bud_imew_capsub_2025,igs_imew,2025,538826,,,executed,src_imew_jr2025_nbb,strong,2025 kapitaalsubsidies 538826 vs 451328; tick1383; primary official NBB WVV 15
+bud_imew_prov_2025,igs_imew,2025,2607285,,,executed,src_imew_jr2025_nbb,strong,2025 voorzieningen+latenties 2607285 (milieu 2114765 + uitgesteld 492520); pens 160 empty; tick1383; primary official NBB WVV 16
+bud_imew_env_2025,igs_imew,2025,2114765,,,executed,src_imew_jr2025_nbb,strong,2025 milieuvoorziening 2114765; tick1383; primary official NBB WVV 163
+bud_imew_debt_2025,igs_imew,2025,2293851040,,,executed,src_imew_jr2025_nbb,strong,2025 schulden 2293851040 vs 2001584542; tick1383; primary official NBB WVV 17/49
+bud_imew_debt_2024,igs_imew,2024,2001584542,,,executed,src_imew_jr2025_nbb,strong,2024 schulden 2001584542 comparative; tick1383; primary official NBB WVV 17/49
+bud_imew_lt_2025,igs_imew,2025,1925545654,,,executed,src_imew_jr2025_nbb,strong,2025 LT schulden 1925545654 vs 1766906236 (all financial); tick1383; primary official NBB WVV 17
+bud_imew_ltbank_2025,igs_imew,2025,1823111037,,,executed,src_imew_jr2025_nbb,strong,2025 LT kredietinstellingen 1823111037 vs 1724822410; tick1383; primary official NBB WVV 173
+bud_imew_ltlease_2025,igs_imew,2025,11907348,,,executed,src_imew_jr2025_nbb,strong,2025 LT leasing 11907348 vs 11202831; tick1383; primary official NBB WVV 172
+bud_imew_ltother_2025,igs_imew,2025,90527269,,,executed,src_imew_jr2025_nbb,strong,2025 LT overige leningen 90527269 JUMP vs 30880995; tick1383; primary official NBB WVV 174
+bud_imew_st_2025,igs_imew,2025,299480941,,,executed,src_imew_jr2025_nbb,strong,2025 ST schulden 299480941 vs 194431172; tick1383; primary official NBB WVV 42/48
+bud_imew_st_due_2025,igs_imew,2025,161070183,,,executed,src_imew_jr2025_nbb,strong,2025 LT-due within year 161070183 vs 104992656; tick1383; primary official NBB WVV 42
+bud_imew_sttrade_2025,igs_imew,2025,87060409,,,executed,src_imew_jr2025_nbb,strong,2025 leveranciers 87060409 JUMP vs 18255146; tick1383; primary official NBB WVV 440/4
+bud_imew_stadv_2025,igs_imew,2025,24238465,,,executed,src_imew_jr2025_nbb,strong,2025 vooruitbetalingen 24238465 vs 22201375; tick1383; primary official NBB WVV 46
+bud_imew_sttax_2025,igs_imew,2025,13552085,,,executed,src_imew_jr2025_nbb,strong,2025 tax ST 13552085 vs 11563905 (soc empty); tick1383; primary official NBB WVV 45
+bud_imew_stother_2025,igs_imew,2025,13559800,,,executed,src_imew_jr2025_nbb,strong,2025 overige ST 13559800 vs 37418090; tick1383; primary official NBB WVV 47/48
+bud_imew_accrued_2025,igs_imew,2025,68824445,,,executed,src_imew_jr2025_nbb,strong,2025 overlopend passief 68824445 (intrest 27164523 + VNR 25028489 + GSC 11736500); tick1383; primary official NBB WVV 492/3
+bud_imew_reldebt_2025,igs_imew,2025,1604090869,,,executed,src_imew_jr2025_nbb,strong,2025 related-party debt 1604090869 (LT 1448048967 / ST 156041902; FSO-seam 6.15); tick1383; primary official NBB WVV 6.15 9352
+bud_imew_opsinc_2025,igs_imew,2025,640720641,,,executed,src_imew_jr2025_nbb,strong,2025 bedrijfsopbrengsten 640720641 vs 522063969; tick1383; primary official NBB WVV 70/76A
+bud_imew_omzet_2025,igs_imew,2025,544911033,,,executed,src_imew_jr2025_nbb,strong,2025 omzet 544911033 JUMP vs 426186254; 6.10 geo empty; tick1383; primary official NBB WVV 70
+bud_imew_omzet_2024,igs_imew,2024,426186254,,,executed,src_imew_jr2025_nbb,strong,2024 omzet 426186254 comparative; tick1383; primary official NBB WVV 70
+bud_imew_omzet_elec_2025,igs_imew,2025,432036280,,,executed,src_imew_jr2025_nbb,strong,2025 omzet elektriciteit 432036280 vs 308854356; tick1383; primary official NBB WVV 6.10
+bud_imew_omzet_gas_2025,igs_imew,2025,107256781,,,executed,src_imew_jr2025_nbb,strong,2025 omzet gas 107256781 vs 110838155; tick1383; primary official NBB WVV 6.10
+bud_imew_omzet_other_2025,igs_imew,2025,5617972,,,executed,src_imew_jr2025_nbb,strong,2025 omzet overige 5617972 vs 6493743; tick1383; primary official NBB WVV 6.10
+bud_imew_othops_2025,igs_imew,2025,94181775,,,executed,src_imew_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 94181775 vs 94949466; 740 empty; tick1383; primary official NBB WVV 74
+bud_imew_opscost_2025,igs_imew,2025,543674883,,,executed,src_imew_jr2025_nbb,strong,2025 bedrijfskosten 543674883 vs 462270038; tick1383; primary official NBB WVV 60/66A
+bud_imew_goods_2025,igs_imew,2025,217679821,,,executed,src_imew_jr2025_nbb,strong,2025 handelsgoederen 217679821 vs 160725556; tick1383; primary official NBB WVV 60
+bud_imew_diensten_2025,igs_imew,2025,185219326,,,executed,src_imew_jr2025_nbb,strong,2025 diensten 185219326 vs 179219682; no split; FSO pass-through; tick1383; primary official NBB WVV 61
+bud_imew_diensten_2024,igs_imew,2024,179219682,,,executed,src_imew_jr2025_nbb,strong,2024 diensten 179219682 comparative; tick1383; primary official NBB WVV 61
+bud_imew_pers_2025,igs_imew,2025,0,,,executed,src_imew_jr2025_nbb,strong,2025 bezoldigingen 62 empty / 9087 empty / 0 VTE (werkmaatschappij FSO); tick1383; primary official NBB WVV 62
+bud_imew_deprec_2025,igs_imew,2025,113031011,,,executed,src_imew_jr2025_nbb,strong,2025 afschrijvingen 113031011 vs 101846589; tick1383; primary official NBB WVV 630
+bud_imew_othcost_2025,igs_imew,2025,28646542,,,executed,src_imew_jr2025_nbb,strong,2025 andere bedrijfskosten 28646542 (tax 284039 + other 28362503); tick1383; primary official NBB WVV 640/8
+bud_imew_expl_2025,igs_imew,2025,97045759,,,executed,src_imew_jr2025_nbb,strong,2025 bedrijfswinst 97045759 vs 59793931; tick1383; primary official NBB WVV 9901
+bud_imew_expl_2024,igs_imew,2024,59793931,,,executed,src_imew_jr2025_nbb,strong,2024 bedrijfswinst 59793931 comparative; tick1383; primary official NBB WVV 9901
+bud_imew_fininc_2025,igs_imew,2025,13458279,,,executed,src_imew_jr2025_nbb,strong,2025 financiele opbrengsten 13458279 vs 12612233 (FVA 12563583 + vlottende 849787); tick1383; primary official NBB WVV 75
+bud_imew_fincost_2025,igs_imew,2025,55747090,,,executed,src_imew_jr2025_nbb,strong,2025 financiele kosten 55747090 vs 47993837 (schulden 55745702); tick1383; primary official NBB WVV 65
+bud_imew_tax_2025,igs_imew,2025,12746249,,,executed,src_imew_jr2025_nbb,strong,2025 belastingen 12746249 vs 4799646; tick1383; primary official NBB WVV 67/77
+bud_imew_pnl_2025,igs_imew,2025,42031854,,,executed,src_imew_jr2025_nbb,strong,2025 PnL 9904 42031854 vs 19630098; commissaris 42031854; tick1383; primary official NBB WVV
+bud_imew_pnl_2024,igs_imew,2024,19630098,,,executed,src_imew_jr2025_nbb,strong,2024 PnL 19630098 comparative; tick1383; primary official NBB WVV 9904
+bud_imew_alloc_2025,igs_imew,2025,42050450,,,executed,src_imew_jr2025_nbb,strong,2025 te bestemmen 9905 42050450 vs 19647526; tick1383; primary official NBB WVV 9905
+bud_imew_div_2025,igs_imew,2025,17418700,,,executed,src_imew_jr2025_nbb,strong,2025 dividend/vergoeding inbreng 17418700 DROP vs 28332698; tick1383; primary official NBB WVV 694
+bud_imew_div_2024,igs_imew,2024,28332698,,,executed,src_imew_jr2025_nbb,strong,2024 dividend 28332698 comparative; tick1383; primary official NBB WVV 694
+bud_imew_capex_2025,igs_imew,2025,184060000,,,executed,src_imew_jr2025_nbb,strong,2025 gerealiseerd bruto investeringsbudget 184060000 (jaarverslag duizenden); tick1383; primary official NBB WVV jaarverslag
+bud_imew_comm_2025,igs_imew,2025,12378,,,executed,src_imew_jr2025_nbb,strong,2025 commissaris EY 12378 + extra controle 62485 + taxadvies verbonden 12532; tick1383; primary official NBB WVV 9505
+bud_imew_comm_extra_2025,igs_imew,2025,62485,,,executed,src_imew_jr2025_nbb,strong,2025 commissaris andere controleopdrachten 62485; tick1383; primary official NBB WVV 95061
+bud_imew_board_2025,igs_imew,2025,31867,,,executed,src_imew_jr2025_nbb,strong,2025 bestuurders 9503 31867; tick1383; primary official NBB WVV 9503
+bud_imew_tariff_elec_2025,igs_imew,2025,478,,,executed,src_imew_jr2025_nbb,strong,2025 nettarief elek gezin digitale meter 478 EUR incl btw vs 357; tick1383; primary official NBB WVV jaarverslag
+bud_imew_tariff_gas_2025,igs_imew,2025,277,,,executed,src_imew_jr2025_nbb,strong,2025 nettarief gas gezin 277 EUR incl btw vs 260; tick1383; primary official NBB WVV jaarverslag
+bud_imew_shares_nb_2025,igs_imew,2025,28882938,,,executed,src_imew_jr2025_nbb,strong,2025 aandelen netbeheer+neven 28882938 + Aov 1558680; tick1383; primary official NBB WVV jaarverslag
