@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 1500** (2026-08-19)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1491-1500 leftover woonmaatschappij: **Ons Onderdak** · **Woonsprong** · **Thuiswest** · **IJzer en Zee** · **Woonstart** · **Meetjesland** · **de Thuisbouwer** · **Woonpijler** · **WM Elan** · **Vivus** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1491-1500 is VL residual dual L5 leftover woonmaatschappij (not near-complete of 348bn):** **Thuiswest** assets **603.04m** · **Woonsprong** assets **381.99m** · **Vivus** assets **303.99m** · **Meetjesland** assets **255.96m** · **de Thuisbouwer** assets **202.55m** · **IJzer en Zee** assets **182.26m** · **WM Elan** assets **179.42m** · **Ons Onderdak** assets **136.78m** · **Woonpijler** assets **105.01m** · **Woonstart** assets **97.53m** · prior leftover woonmaatschappij/tourism/IGS/APB/EVAP/Bosgroep/AGB/NV/Fluvius stack retained |
+| **E. FOI-ready gaps** | **~1143** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1191** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek/klimaat-holding/energy-DSO/zorg/cultuur/landschap/bosgroep/woonmaatschappij shells** (**NEW Vivus** assets **EUR303.99m** omzet **EUR19.55m** diensten **EUR8.28m** pers **EUR3.21m** / **34.8 VTE** cash DROP **EUR10.77m** debt JUMP **EUR237.73m** · **WM Elan** assets **EUR179.42m** · **Woonpijler** assets **EUR105.01m** · **de Thuisbouwer** assets **EUR202.55m** · **Meetjesland** assets **EUR255.96m** · **Woonstart** assets **EUR97.53m** · **IJzer en Zee** assets **EUR182.26m** · **Thuiswest** assets **EUR603.04m** · **Woonsprong** assets **EUR381.99m** · **Ons Onderdak** assets **EUR136.78m** · prior leftover Zetus 136.49m / Inter-Vilvoordse 175.61m / Woonschakel 155.66m / De Voorkempen 352.38m / Wonen in Limburg 2.060bn / Woonpunt Zennevallei 162.91m / !Mpuls 213.86m / WoonST 264.76m / stek92 228.25m / LeefGoed 570.75m / Kanvaz 358.52m / WMVA 350.87m / Woonboog 520.06m / Woonveer 122.30m / Woonkade 159.10m / Woonstroom 203.98m / Thuisrand 143.37m / Vivendo 605.93m / SW+ 401.69m / Woonhaven 1.561bn / Thuispunt Gent 926.32m / Dimensa 633.53m / Woonmaatschappij Rivierenland 523.68m / Dender-Zuid 424.73m / Dijledal 352.69m / Woonpunt Waas 280.64m / Tuinwijk 141.43m / Toerisme Limburg 4.36m / Toerisme Oost-Vlaanderen 3.40m / Toerisme Vlaams-Brabant 1.67m / Fluvius DNB + IGS stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1500)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 43114 |
+| commitments.csv | 5100 |
+| leaderboard.csv | 7303 |
+| entities.csv | 1245 |
+| sources.csv | 3137 |
+| FOI ready | 1143 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1191 |
+| research_queue open | rq_116 deferred + rq_1501 hole-fill after progress |
+
+### What improved since tick 1490
+
+- **VL residual dual JR2025 leftover woonmaatschappij (tick1491-1499):** **Thuiswest** assets **603.04m** · **Woonsprong** assets **381.99m** · **Meetjesland** assets **255.96m** · **de Thuisbouwer** assets **202.55m** · **IJzer en Zee** assets **182.26m** · **WM Elan** assets **179.42m** · **Ons Onderdak** assets **136.78m** · **Woonpijler** assets **105.01m** · **Woonstart** assets **97.53m** — no invented euros.
+- **NEW (tick1500):** **Woonmaatschappij Vivus BV** (KBO 0405.430.603) leftover woonmaatschappij of mined Harelbeke + leftover of mined Waregem + leftover of mined Deerlijk + leftover of mined Anzegem + leftover of mined Wielsbeke + leftover of mined Dentergem + leftover of mined Oostrozebeke + leftover of mined Lendelede (NOT leftover WM Elan 1499 / leftover SW+ 1472 / leftover !Mpuls 1484 / leftover WAGSO Waregem / leftover AGB Wielsbeke / leftover AGL Lendelede / leftover zorg Harelbeke / leftover Woonin / leftover De Ideale Woning / leftover Wooncompagnie / leftover APB Inovant / Atlas). Official NBB WVV VOL-inb deposit **2026-00122331** PDF (1038131 bytes / 58p; AV 26.05.2026; header 27.05.2026; created 27.05.2026). Assets **303.989.219** · omzet **19.547.175** UP vs 18767838 · diensten **8.278.094** · pers **3.214.483** / **34,8 VTE** · cash **10.772.582 DROP** vs 11076675 · debt **237.728.579 JUMP** vs 228854371 · PnL **9904 1.023.260** · dividend **0**. FOI ready. Every-10 progress refresh from on-disk CSVs.
+- **Dual map themes:** **leftover woonmaatschappij** (Thuiswest 603.04m / Woonsprong 381.99m / Vivus 303.99m / Meetjesland 255.96m / de Thuisbouwer 202.55m / IJzer en Zee 182.26m / WM Elan 179.42m / Ons Onderdak 136.78m / Woonpijler 105.01m / Woonstart 97.53m) · prior leftover woonmaatschappij + leftover provincial tourism VZW + leftover provincial EVAP + leftover IGS/SON + leftover APB + leftover bosgroep IGS + leftover landschap IGS + leftover cultuur IGS + leftover waste daughter + leftover AGB + Nuhma + Fluvius DNB stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn.
+
 ## Snapshot at **tick 1490** (2026-08-19)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
