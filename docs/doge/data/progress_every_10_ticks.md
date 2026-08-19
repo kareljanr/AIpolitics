@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 1440** (2026-08-19)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1431-1440 leftover IGS: **Rupelstreek** · **RL Schelde-Durme** · **RLKM** · **RLZH** · **RLRL** · **RLPZ** · **RLVAD** · **RL Westhoek** · **RL Noord-Hageland** · **RL Dijleland** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1431-1440 is VL residual dual L5 leftover IGS (not near-complete of 348bn):** **RLKM** assets **4.74m** · **RL Schelde-Durme** assets **1.75m** · **RL Westhoek** assets **1.74m** · **RLRL** assets **1.62m** · **RLZH** assets **1.08m** · **RLPZ** assets **1.06m** · **RLVAD** assets **0.87m** · **RL Noord-Hageland** assets **0.84m** · **RL Dijleland** assets **0.80m** · **Rupelstreek** assets **0.06m** · prior leftover IGS/AGB/NV/Fluvius stack retained |
+| **E. FOI-ready gaps** | **~1083** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1131** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek/klimaat-holding/energy-DSO/zorg/cultuur/landschap shells** (**NEW RL Dijleland** assets **EUR0.80m** brutomarge **EUR0.82m** pers **EUR0.60m** cash JUMP **EUR0.72m** · **RL Noord-Hageland** assets **EUR0.84m** · **RL Westhoek** assets **EUR1.74m** · **RLVAD** assets **EUR0.87m** · **RLPZ** assets **EUR1.06m** · **RLRL** assets **EUR1.62m** · **RLZH** assets **EUR1.08m** · **RLKM** assets **EUR4.74m** · **RL Schelde-Durme** assets **EUR1.75m** · **Rupelstreek** assets **EUR0.06m** · prior leftover RL Lage Kempen 0.08m / Kusterfgoed 0.16m / Brabantse Kouters 0.20m / Denderland 0.45m / Noorderkempen 0.48m / Voorkempen 0.62m / Zuidwest 0.95m / BIONERGA LOGISTICS 3.51m / Druivenstreek 0.05m / Viertoren 0.21m / CO7 0.69m / de Merode 0.37m / Kluize 5.83m / IOK Afvalbeheer 70.50m / Sunfin 6.29m / MLSO 227.28m / Fluvius DNB + IGS stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1440)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 40573 |
+| commitments.csv | 5040 |
+| leaderboard.csv | 7243 |
+| entities.csv | 1185 |
+| sources.csv | 2896 |
+| FOI ready | 1083 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1131 |
+| research_queue open | rq_116 deferred + rq_1441 hole-fill after progress |
+
+### What improved since tick 1430
+
+- **VL residual dual JR2025 leftover IGS (tick1431-1439):** **RLKM** assets **4.74m** · **RL Schelde-Durme** assets **1.75m** · **RL Westhoek** assets **1.74m** · **RLRL** assets **1.62m** · **RLZH** assets **1.08m** · **RLPZ** assets **1.06m** · **RLVAD** assets **0.87m** · **RL Noord-Hageland** assets **0.84m** · **Rupelstreek** assets **0.06m** — no invented euros.
+- **NEW (tick1440):** **Regionaal Landschap Dijleland VZW** (KBO 0461.935.675) leftover IGS / regionaal landschap of 13 mined Dijleland municipalities. Official NBB WVV VKT-VZW deposit **2026-00122942** PDF (45482 bytes / 11p; AV 26.03.2026; header 26.05.2026; created 28.05.2026). Assets **803.646** · brutomarge **822.487** (omzet 70 empty; 73 empty; 60/61 empty) · pers **602.168** / **6,9 VTE** · cash **722.390 JUMP** vs 578539 · leveranciers **26.783 DROP** vs 79593 · debt **79.146 DROP** vs 141341 · pensioenvoorziening **111.168** · PnL **+225.592**. FOI ready. Every-10 progress refresh from on-disk CSVs.
+- **Dual map themes:** **leftover landschap IGS** (RL Dijleland 0.80m / RLNH 0.84m / RLWH 1.74m / RLVAD 0.87m / RLPZ 1.06m / RLRL 1.62m / RLZH 1.08m / RLKM 4.74m / RL Schelde-Durme 1.75m / Rupelstreek 0.06m) · prior leftover cultuur IGS + leftover waste daughter + leftover AGB + Nuhma + Fluvius DNB stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn.
+
 ## Snapshot at **tick 1430** (2026-08-19)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
