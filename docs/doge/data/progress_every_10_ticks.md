@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1380** (2026-08-19)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1371-1380 leftover IGS/EVA: **Veneco** · **IGEMO** · **IVOO** · **MIWA** · **IVAGO** · **MIROM Roeselare** · **MIROM Menen** · **De Nekker** · **ISVAG** · **INCOVO** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1371-1380 is VL residual dual L5 leftover IGS/EVA (not near-complete of 348bn):** **IVAGO** assets **78.39m** omzet **81.14m** diensten **38.04m** · **Veneco** assets **51.98m** omzet **1.18m** othops **5.27m** inv **23.12m** · **ISVAG** assets **42.72m** omzet **29.44m** diensten **14.73m** · **MIROM Roeselare** assets **37.44m** omzet **21.18m** diensten **12.64m** · **IGEMO** assets **25.44m** omzet **5.98m** othops **3.00m** inv **19.61m** · **MIWA** assets **19.60m** othops **13.95m** diensten **10.57m** · **MIROM Menen** assets **11.71m** othops **4.37m** diensten **4.77m** · **IVOO** assets **10.74m** omzet **16.55m** diensten **12.39m** · **INCOVO** assets **9.40m** omzet **8.52m** subs **6.11m** diensten **7.54m** · **De Nekker** assets **0.75m** goods+diensten **3.67m** equity **−26.2k** · prior leftover IGS/NV/cv Haviland/IMOG/IOK/Leiedal/Interleuven/Nuhma stack retained |
+| **E. FOI-ready gaps** | **~1023** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1071** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek/klimaat-holding shells** (**NEW INCOVO** assets **EUR9.40m** omzet **EUR8.52m** subs **EUR6.11m** diensten **EUR7.54m** pens **EUR2.05m** · **ISVAG** assets **EUR42.72m** omzet **EUR29.44m** diensten **EUR14.73m** · **De Nekker** assets **EUR0.75m** goods+diensten **EUR3.67m** equity **−EUR26.2k** · **MIROM Menen** assets **EUR11.71m** othops **EUR4.37m** · **MIROM Roeselare** assets **EUR37.44m** omzet **EUR21.18m** · **IVAGO** assets **EUR78.39m** omzet **EUR81.14m** · **MIWA** assets **EUR19.60m** othops **EUR13.95m** · **IVOO** assets **EUR10.74m** omzet **EUR16.55m** · **IGEMO** assets **EUR25.44m** omzet **EUR5.98m** · **Veneco** assets **EUR51.98m** othops **EUR5.27m** · prior **Haviland** assets **EUR43.67m** othops **EUR6.70m** patrim **EUR7.05m** pens **EUR21.16m** invest **EUR19.24m** · **IMOG** assets **EUR71.87m** omzet **EUR50.30m** diensten **EUR34.11m** · **IOK** assets **EUR163.27m** othops **EUR18.03m** inv **EUR62.18m** invest **EUR52.87m** · **Leiedal** assets **EUR125.58m** omzet **EUR10.37m** PnL **−EUR4.93m** inv **EUR106.16m** · **Interleuven** assets **EUR95.25m** omzet **EUR11.68m** inv **EUR36.05m** · **Herkenrode RE** assets **EUR27.58m** · **Nuhmeris** assets **EUR19.35m** · **s-Lim DV** assets **EUR12.51m** · **MyCSN** assets **EUR4.36m** · **s-Lim CV** assets **EUR4.28m** · prior leftover IGS/NV/cv ECO2050/Nuhma/Bionerga/IVBO/SOLVA/EcoWerf stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1380)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 37532 |
+| commitments.csv | 4980 |
+| leaderboard.csv | 7183 |
+| entities.csv | 1127 |
+| sources.csv | 2656 |
+| FOI ready | 1023 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1071 |
+| research_queue open | rq_116 deferred + rq_1381 hole-fill after progress |
+
+### What improved since tick 1370
+
+- **VL residual dual JR2025 leftover IGS/EVA (tick1371-1379):** **IVAGO** assets **78.39m** omzet **81.14m** diensten **38.04m** · **Veneco** assets **51.98m** omzet **1.18m** othops **5.27m** inv **23.12m** · **ISVAG** assets **42.72m** omzet **29.44m** diensten **14.73m** · **MIROM Roeselare** assets **37.44m** omzet **21.18m** diensten **12.64m** · **IGEMO** assets **25.44m** omzet **5.98m** othops **3.00m** inv **19.61m** · **MIWA** assets **19.60m** othops **13.95m** diensten **10.57m** · **MIROM Menen** assets **11.71m** othops **4.37m** diensten **4.77m** · **IVOO** assets **10.74m** omzet **16.55m** diensten **12.39m** · **De Nekker** assets **0.75m** goods+diensten **3.67m** equity **−26.2k** — no invented euros.
+- **NEW (tick1380):** **INCOVO** (KBO 0218.993.039) leftover opdrachthoudende vereniging / IGS waste of Londerzeel + Machelen + Meise + Vilvoorde + Zemst. Official NBB WVV VOL-inb deposit **2026-00239674** PDF (1.10MB / 54p; AV 26.06.2026; created 02.07.2026). Assets **9.396.832** · omzet **8.522.977** (6.10 empty) · exploitatiesubsidies **6.106.178** · diensten **7.543.829** · pers **5.881.619** / **86,5 VTE** · pens **2.050.799** · PnL **+18.754**. FOI ready. Every-10 progress refresh from on-disk CSVs.
+- **Dual map themes:** **leftover IGS waste + streek + provincial EVA shells** (IVAGO 78.39m / Veneco 51.98m / ISVAG 42.72m / MIROM 37.44m+11.71m / INCOVO 9.40m / De Nekker 0.75m) · leftover IGS streek/RE (IGEMO 25.44m / IVOO 10.74m / MIWA 19.60m) · prior leftover IGS/NV/cv Haviland/IMOG/IOK/Leiedal/Interleuven/Nuhma stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
+---
 ## Snapshot at **tick 1370** (2026-08-19)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
