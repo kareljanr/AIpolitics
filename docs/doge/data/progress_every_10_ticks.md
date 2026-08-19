@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 1450** (2026-08-19)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1441-1450 leftover IGS/Bosgroep: **RL de Voorkempen** · **RL Brabantse Kouters** · **RL Meetjesland** · **RL Haspengouw** · **RLKGN** · **BGOV** · **BVB** · **BGAG** · **BGZK** · **BGKN** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1441-1450 is VL residual dual L5 leftover IGS/Bosgroep (not near-complete of 348bn):** **RL de Voorkempen** assets **4.47m** · **RL Haspengouw** assets **2.85m** · **BGKN** assets **2.59m** · **RLKGN** assets **1.48m** · **RL Brabantse Kouters** assets **1.46m** · **BGOV** assets **0.99m** · **RL Meetjesland** assets **0.87m** · **BGZK** assets **0.86m** · **BGAG** assets **0.79m** · **BVB** assets **0.57m** · prior leftover IGS/AGB/NV/Fluvius stack retained |
+| **E. FOI-ready gaps** | **~1093** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1141** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek/klimaat-holding/energy-DSO/zorg/cultuur/landschap/bosgroep shells** (**NEW Bosgroep Kempen Noord** assets **EUR2.59m** brutomarge **EUR0.03m** geldbeleg JUMP **EUR1.53m** cash JUMP **EUR0.58m** debt JUMP **EUR1.38m** · **BGZK** assets **EUR0.86m** · **BGAG** assets **EUR0.79m** · **BVB** assets **EUR0.57m** · **BGOV** assets **EUR0.99m** · **RLKGN** assets **EUR1.48m** · **RL Haspengouw** assets **EUR2.85m** · **RL Meetjesland** assets **EUR0.87m** · **RL Brabantse Kouters** assets **EUR1.46m** · **RL de Voorkempen** assets **EUR4.47m** · prior leftover RL Dijleland 0.80m / RLNH 0.84m / RL Westhoek 1.74m / RLVAD 0.87m / RLPZ 1.06m / RLRL 1.62m / RLZH 1.08m / RLKM 4.74m / RL Schelde-Durme 1.75m / Rupelstreek 0.06m / RL Lage Kempen 0.08m / Kusterfgoed 0.16m / Brabantse Kouters IOED 0.20m / Denderland 0.45m / Noorderkempen 0.48m / Voorkempen 0.62m / Zuidwest 0.95m / BIONERGA LOGISTICS 3.51m / Druivenstreek 0.05m / Viertoren 0.21m / CO7 0.69m / de Merode 0.37m / Kluize 5.83m / IOK Afvalbeheer 70.50m / Sunfin 6.29m / MLSO 227.28m / Fluvius DNB + IGS stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1450)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 41012 |
+| commitments.csv | 5050 |
+| leaderboard.csv | 7253 |
+| entities.csv | 1195 |
+| sources.csv | 2936 |
+| FOI ready | 1093 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1141 |
+| research_queue open | rq_116 deferred + rq_1451 hole-fill after progress |
+
+### What improved since tick 1440
+
+- **VL residual dual JR2025 leftover IGS/Bosgroep (tick1441-1449):** **RL de Voorkempen** assets **4.47m** · **RL Haspengouw** assets **2.85m** · **RLKGN** assets **1.48m** · **RL Brabantse Kouters** assets **1.46m** · **BGOV** assets **0.99m** · **RL Meetjesland** assets **0.87m** · **BGZK** assets **0.86m** · **BGAG** assets **0.79m** · **BVB** assets **0.57m** — no invented euros.
+- **NEW (tick1450):** **Bosgroep Kempen Noord VZW** (KBO 0476.530.217) leftover IGS / Bosgroep of mined Kempen-Noord municipalities (NOT RLKGN 1445 / same Polderstraat 33 address). Official NBB WVV VKT-VZW deposit **2026-00086307** PDF (42632 bytes / 12p; AV 28.03.2026; header 20.04.2026; created 24.04.2026). Assets **2.588.174** · brutomarge **32.802** (omzet 70 empty; 73 empty; 60/61 empty) · pers empty / **0 VTE** · geldbeleg **1.529.352 JUMP** vs 1353164 · cash **581.821 JUMP** vs 352856 · leveranciers **649.299 JUMP** vs 448869 · debt **1.382.447 JUMP** vs 907674 · deferred **638.794 JUMP** vs 404579 · PnL **+25.273**. FOI ready. Every-10 progress refresh from on-disk CSVs.
+- **Dual map themes:** **leftover bosgroep IGS + leftover landschap IGS** (BGKN 2.59m / BGZK 0.86m / BGAG 0.79m / BVB 0.57m / BGOV 0.99m / RLKGN 1.48m / RL Haspengouw 2.85m / RL Meetjesland 0.87m / RL Brabantse Kouters 1.46m / RL de Voorkempen 4.47m) · prior leftover landschap IGS + leftover cultuur IGS + leftover waste daughter + leftover AGB + Nuhma + Fluvius DNB stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn.
+
 ## Snapshot at **tick 1440** (2026-08-19)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
