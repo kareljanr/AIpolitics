@@ -41011,3 +41011,44 @@ bud_bgkn_pers_2025,vzw_bgkn,2025,0,,,executed,src_bgkn_jr2025_nbb,strong,2025 pe
 bud_bgkn_capex_2025,vzw_bgkn,2025,0,,,executed,src_bgkn_jr2025_nbb,strong,2025 capex MVA aanschaf 8169 0; IVA/FVA empty; tick1450; primary official NBB WVV
 bud_bgkn_onttrekking_2025,vzw_bgkn,2025,13690,,,executed,src_bgkn_jr2025_nbb,strong,2025 onttrekking bestemde 791 13690; tick1450; primary official NBB WVV
 bud_bgkn_toevoeging_2025,vzw_bgkn,2025,38963,,,executed,src_bgkn_jr2025_nbb,strong,2025 toevoeging bestemde 691 38963; tick1450; primary official NBB WVV
+bud_rlhp_assets_2025,vzw_rlhp,2025,1205135,,,executed,src_rlhp_jr2025_nbb,strong,2025 assets 1205135 (was 961273); tick1451; primary official NBB WVV
+bud_rlhp_fixed_2025,vzw_rlhp,2025,61280,,,executed,src_rlhp_jr2025_nbb,strong,2025 vaste activa 61280 (was 37774); tick1451; primary official NBB WVV
+bud_rlhp_iva_2025,vzw_rlhp,2025,0,,,executed,src_rlhp_jr2025_nbb,strong,2025 IVA empty; 6.1.1 not filed; tick1451; primary official NBB WVV
+bud_rlhp_mva_2025,vzw_rlhp,2025,61280,,,executed,src_rlhp_jr2025_nbb,strong,2025 MVA 61280 installaties 25789 + meubilair 35491 (was 37774); tick1451; primary official NBB WVV
+bud_rlhp_install_2025,vzw_rlhp,2025,25789,,,executed,src_rlhp_jr2025_nbb,strong,2025 installaties 23 25789 (was 22768); tick1451; primary official NBB WVV
+bud_rlhp_meubilair_2025,vzw_rlhp,2025,35491,,,executed,src_rlhp_jr2025_nbb,strong,2025 meubilair 24 35491 (was 15006); tick1451; primary official NBB WVV
+bud_rlhp_fva_2025,vzw_rlhp,2025,0,,,executed,src_rlhp_jr2025_nbb,strong,2025 FVA empty; 6.1.3 not filed; tick1451; primary official NBB WVV
+bud_rlhp_current_2025,vzw_rlhp,2025,1143855,,,executed,src_rlhp_jr2025_nbb,strong,2025 vlottend 1143855 (was 923499); tick1451; primary official NBB WVV
+bud_rlhp_voorraden_2025,vzw_rlhp,2025,0,,,executed,src_rlhp_jr2025_nbb,strong,2025 voorraden 0 DROP (was 58354); tick1451; primary official NBB WVV
+bud_rlhp_strecv_2025,vzw_rlhp,2025,427714,,,executed,src_rlhp_jr2025_nbb,strong,2025 ST vorderingen 427714 (was 532272); tick1451; primary official NBB WVV
+bud_rlhp_trade_2025,vzw_rlhp,2025,168510,,,executed,src_rlhp_jr2025_nbb,strong,2025 handelsvorderingen 168510 (was 130290); tick1451; primary official NBB WVV
+bud_rlhp_othrecv_2025,vzw_rlhp,2025,259204,,,executed,src_rlhp_jr2025_nbb,strong,2025 overige vorderingen 259204 DROP (was 401982); tick1451; primary official NBB WVV
+bud_rlhp_geldbeleg_2025,vzw_rlhp,2025,0,,,executed,src_rlhp_jr2025_nbb,strong,2025 geldbeleggingen empty; tick1451; primary official NBB WVV
+bud_rlhp_cash_2025,vzw_rlhp,2025,684137,,,executed,src_rlhp_jr2025_nbb,strong,2025 liquide middelen 684137 JUMP (was 317324); tick1451; primary official NBB WVV
+bud_rlhp_prepaid_2025,vzw_rlhp,2025,32004,,,executed,src_rlhp_jr2025_nbb,strong,2025 prepaid 32004 (was 15549); tick1451; primary official NBB WVV
+bud_rlhp_equity_2025,vzw_rlhp,2025,554021,,,executed,src_rlhp_jr2025_nbb,strong,2025 EV 554021 (was 484269); tick1451; primary official NBB WVV
+bud_rlhp_bestemde_2025,vzw_rlhp,2025,554021,,,executed,src_rlhp_jr2025_nbb,strong,2025 bestemde fondsen 554021 (was 484269); tick1451; primary official NBB WVV
+bud_rlhp_overgedragen_2025,vzw_rlhp,2025,0,,,executed,src_rlhp_jr2025_nbb,strong,2025 overgedragen 0; tick1451; primary official NBB WVV
+bud_rlhp_debt_2025,vzw_rlhp,2025,651114,,,executed,src_rlhp_jr2025_nbb,strong,2025 schulden 651114 JUMP (was 477004; LT empty); tick1451; primary official NBB WVV
+bud_rlhp_stdebt_2025,vzw_rlhp,2025,298313,,,executed,src_rlhp_jr2025_nbb,strong,2025 ST schulden 298313 (was 371095); tick1451; primary official NBB WVV
+bud_rlhp_lev_2025,vzw_rlhp,2025,138102,,,executed,src_rlhp_jr2025_nbb,strong,2025 leveranciers 138102 (was 119739); tick1451; primary official NBB WVV
+bud_rlhp_tax_2025,vzw_rlhp,2025,0,,,executed,src_rlhp_jr2025_nbb,strong,2025 belastingen 450/3 0 (was 23457); tick1451; primary official NBB WVV
+bud_rlhp_bezold_2025,vzw_rlhp,2025,107542,,,executed,src_rlhp_jr2025_nbb,strong,2025 bezoldigingen 454/9 107542 (was 174396); tick1451; primary official NBB WVV
+bud_rlhp_othdebt_2025,vzw_rlhp,2025,52669,,,executed,src_rlhp_jr2025_nbb,strong,2025 overige schulden 52669 (was 53503); tick1451; primary official NBB WVV
+bud_rlhp_deferred_2025,vzw_rlhp,2025,352801,,,executed,src_rlhp_jr2025_nbb,strong,2025 deferred 352801 JUMP (was 105909); tick1451; primary official NBB WVV
+bud_rlhp_bruto_2025,vzw_rlhp,2025,1108773,,,executed,src_rlhp_jr2025_nbb,strong,2025 brutomarge 9900 1108773 (was 1042930); tick1451; primary official NBB WVV
+bud_rlhp_omzet_2025,vzw_rlhp,2025,472153,,,executed,src_rlhp_jr2025_nbb,strong,2025 omzet 70 472153 (was 427809); tick1451; primary official NBB WVV
+bud_rlhp_subs_2025,vzw_rlhp,2025,1195258,,,executed,src_rlhp_jr2025_nbb,strong,2025 lidgeld/subsidies 73 1195258 (was 1078602); tick1451; primary official NBB WVV
+bud_rlhp_diensten_2025,vzw_rlhp,2025,701947,,,executed,src_rlhp_jr2025_nbb,strong,2025 60/61 701947 (was 604292); tick1451; primary official NBB WVV
+bud_rlhp_pers_2025,vzw_rlhp,2025,1015186,,,executed,src_rlhp_jr2025_nbb,strong,2025 pers 62 1015186 / 9087 = 13.7 VTE (was 982050 / 12.5); tick1451; primary official NBB WVV
+bud_rlhp_afschr_2025,vzw_rlhp,2025,23260,,,executed,src_rlhp_jr2025_nbb,strong,2025 afschrijvingen 630 23260 (was 18472); tick1451; primary official NBB WVV
+bud_rlhp_andere_2025,vzw_rlhp,2025,784,,,executed,src_rlhp_jr2025_nbb,strong,2025 andere bedrijfskosten 640/8 784 (was 1545); tick1451; primary official NBB WVV
+bud_rlhp_expl_2025,vzw_rlhp,2025,69543,,,executed,src_rlhp_jr2025_nbb,strong,2025 expl 69543 (was 40863); tick1451; primary official NBB WVV
+bud_rlhp_finopbr_2025,vzw_rlhp,2025,1257,,,executed,src_rlhp_jr2025_nbb,strong,2025 fin opbr 1257 all recurrent (was 2560); tick1451; primary official NBB WVV
+bud_rlhp_finkost_2025,vzw_rlhp,2025,728,,,executed,src_rlhp_jr2025_nbb,strong,2025 fin kosten 728 all recurrent (was 433); tick1451; primary official NBB WVV
+bud_rlhp_taxpnl_2025,vzw_rlhp,2025,320,,,executed,src_rlhp_jr2025_nbb,strong,2025 tax 67/77 320 (was 430); tick1451; primary official NBB WVV
+bud_rlhp_pnl_2025,vzw_rlhp,2025,69752,,,executed,src_rlhp_jr2025_nbb,strong,2025 PnL 69752 (was 42560); tick1451; primary official NBB WVV
+bud_rlhp_div_2025,vzw_rlhp,2025,0,,,executed,src_rlhp_jr2025_nbb,strong,2025 dividend 0; tick1451; primary official NBB WVV
+bud_rlhp_capex_2025,vzw_rlhp,2025,31480,,,executed,src_rlhp_jr2025_nbb,strong,2025 capex MVA aanschaf 8169 31480; IVA/FVA empty; tick1451; primary official NBB WVV
+bud_rlhp_onttrekking_2025,vzw_rlhp,2025,32936,,,executed,src_rlhp_jr2025_nbb,strong,2025 onttrekking bestemde 791 32936; tick1451; primary official NBB WVV
+bud_rlhp_toevoeging_2025,vzw_rlhp,2025,102688,,,executed,src_rlhp_jr2025_nbb,strong,2025 toevoeging bestemde 691 102688; tick1451; primary official NBB WVV
