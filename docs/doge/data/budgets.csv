@@ -41456,3 +41456,42 @@ bud_tov_pnl_2025,vzw_tov,2025,234588,,,executed,src_tov_jr2025_nbb,strong,2025 P
 bud_tov_div_2025,vzw_tov,2025,0,,,executed,src_tov_jr2025_nbb,strong,2025 dividend 0 VZW; tick1461; primary official NBB WVV
 bud_tov_capex_2025,vzw_tov,2025,46247,,,executed,src_tov_jr2025_nbb,strong,2025 capex MVA aanschaf 46247; tick1461; primary official NBB WVV
 bud_tov_commissaris_2025,vzw_tov,2025,6500,,,executed,src_tov_jr2025_nbb,strong,2025 commissaris fee 6500 FIGURAD / Loontjens Geoffrey; tick1461; primary official NBB WVV
+bud_tvlb_assets_2025,vzw_tvlb,2025,1667400,,,executed,src_tvlb_jr2025_nbb,strong,2025 assets 1667400 (was 1715196); tick1462; primary official NBB WVV VKT-VZW 2026-00131325
+bud_tvlb_current_2025,vzw_tvlb,2025,1667400,,,executed,src_tvlb_jr2025_nbb,strong,2025 vlottend 1667400 (was 1715196); tick1462; primary official NBB WVV
+bud_tvlb_cash_2025,vzw_tvlb,2025,1597663,,,executed,src_tvlb_jr2025_nbb,strong,2025 liquide middelen 1597663 JUMP (was 1526483); tick1462; primary official NBB WVV
+bud_tvlb_geldbeleg_2025,vzw_tvlb,2025,0,,,executed,src_tvlb_jr2025_nbb,strong,2025 geldbeleggingen empty; tick1462; primary official NBB WVV
+bud_tvlb_strecv_2025,vzw_tvlb,2025,2029,,,executed,src_tvlb_jr2025_nbb,strong,2025 ST vorderingen 2029 (was 2933); tick1462; primary official NBB WVV
+bud_tvlb_trade_2025,vzw_tvlb,2025,1320,,,executed,src_tvlb_jr2025_nbb,strong,2025 handelsvorderingen 1320 (was 2224); tick1462; primary official NBB WVV
+bud_tvlb_othrecv_2025,vzw_tvlb,2025,709,,,executed,src_tvlb_jr2025_nbb,strong,2025 overige ST vorderingen 709 unchanged; tick1462; primary official NBB WVV
+bud_tvlb_voorraden_2025,vzw_tvlb,2025,67708,,,executed,src_tvlb_jr2025_nbb,strong,2025 voorraden 67708 DROP (was 84649); tick1462; primary official NBB WVV
+bud_tvlb_prepaid_2025,vzw_tvlb,2025,0,,,executed,src_tvlb_jr2025_nbb,strong,2025 overlopend actief 0 DROP (was 101131); tick1462; primary official NBB WVV
+bud_tvlb_ltrecv_2025,vzw_tvlb,2025,0,,,executed,src_tvlb_jr2025_nbb,strong,2025 LT vorderingen empty; tick1462; primary official NBB WVV
+bud_tvlb_fixed_2025,vzw_tvlb,2025,0,,,executed,src_tvlb_jr2025_nbb,strong,2025 vaste activa empty (MVA net 0); tick1462; primary official NBB WVV
+bud_tvlb_iva_2025,vzw_tvlb,2025,0,,,executed,src_tvlb_jr2025_nbb,strong,2025 IVA empty; 6.1.1 not filed; tick1462; primary official NBB WVV
+bud_tvlb_mva_2025,vzw_tvlb,2025,0,,,executed,src_tvlb_jr2025_nbb,strong,2025 MVA net 0 (aanschaf 608439 fully depreciated); tick1462; primary official NBB WVV
+bud_tvlb_fva_2025,vzw_tvlb,2025,0,,,executed,src_tvlb_jr2025_nbb,strong,2025 FVA empty; 6.1.3 not filed; tick1462; primary official NBB WVV
+bud_tvlb_equity_2025,vzw_tvlb,2025,494894,,,executed,src_tvlb_jr2025_nbb,strong,2025 eigen vermogen 494894 JUMP (was 385051; all bestemde fondsen); tick1462; primary official NBB WVV
+bud_tvlb_fondsen_2025,vzw_tvlb,2025,0,,,executed,src_tvlb_jr2025_nbb,strong,2025 fondsen beginvermogen empty; tick1462; primary official NBB WVV
+bud_tvlb_bestemde_2025,vzw_tvlb,2025,494894,,,executed,src_tvlb_jr2025_nbb,strong,2025 bestemde fondsen 494894 (was 385051); tick1462; primary official NBB WVV
+bud_tvlb_overgedragen_2025,vzw_tvlb,2025,0,,,executed,src_tvlb_jr2025_nbb,strong,2025 overgedragen winst empty; tick1462; primary official NBB WVV
+bud_tvlb_voorz_2025,vzw_tvlb,2025,702073,,,executed,src_tvlb_jr2025_nbb,strong,2025 voorzieningen 702073 DROP (was 926880; all grote herstellingen); tick1462; primary official NBB WVV
+bud_tvlb_debt_2025,vzw_tvlb,2025,470434,,,executed,src_tvlb_jr2025_nbb,strong,2025 schulden 470434 (was 403265; LT empty); tick1462; primary official NBB WVV
+bud_tvlb_stdebt_2025,vzw_tvlb,2025,159820,,,executed,src_tvlb_jr2025_nbb,strong,2025 ST schulden 159820 (was 175352); tick1462; primary official NBB WVV
+bud_tvlb_lev_2025,vzw_tvlb,2025,100014,,,executed,src_tvlb_jr2025_nbb,strong,2025 leveranciers 100014 DROP (was 138096); tick1462; primary official NBB WVV
+bud_tvlb_bezold_2025,vzw_tvlb,2025,31493,,,executed,src_tvlb_jr2025_nbb,strong,2025 bezoldigingen-schulden 31493 (was 34200); tick1462; primary official NBB WVV
+bud_tvlb_taxpay_2025,vzw_tvlb,2025,28314,,,executed,src_tvlb_jr2025_nbb,strong,2025 belastingschulden 28314 (was 3056); tick1462; primary official NBB WVV
+bud_tvlb_deferred_2025,vzw_tvlb,2025,310614,,,executed,src_tvlb_jr2025_nbb,strong,2025 overlopend passief 310614 JUMP (was 227912); tick1462; primary official NBB WVV
+bud_tvlb_bruto_2025,vzw_tvlb,2025,550846,,,executed,src_tvlb_jr2025_nbb,strong,2025 brutomarge 550846 DROP (was 618885); tick1462; primary official NBB WVV
+bud_tvlb_omzet_2025,vzw_tvlb,2025,0,,,executed,src_tvlb_jr2025_nbb,strong,2025 omzet 70 empty unpublished; tick1462; primary official NBB WVV
+bud_tvlb_lidgeld_2025,vzw_tvlb,2025,0,,,executed,src_tvlb_jr2025_nbb,strong,2025 lidgeld/subsidies 73 empty unpublished; tick1462; primary official NBB WVV
+bud_tvlb_diensten_2025,vzw_tvlb,2025,0,,,executed,src_tvlb_jr2025_nbb,strong,2025 60/61 empty unpublished so diensten unpublished as a split; tick1462; primary official NBB WVV
+bud_tvlb_pers_2025,vzw_tvlb,2025,364012,,,executed,src_tvlb_jr2025_nbb,strong,2025 pers 62 364012 (was 419363); 4.7 VTE vs 5.6; 7171 uur; YE 4.8; tick1462; primary official NBB WVV
+bud_tvlb_afschr_2025,vzw_tvlb,2025,0,,,executed,src_tvlb_jr2025_nbb,strong,2025 afschrijvingen empty; tick1462; primary official NBB WVV
+bud_tvlb_andere_2025,vzw_tvlb,2025,311551,,,executed,src_tvlb_jr2025_nbb,strong,2025 andere bedrijfskosten 311551 (was 363372); tick1462; primary official NBB WVV
+bud_tvlb_expl_2025,vzw_tvlb,2025,-45632,,,executed,src_tvlb_jr2025_nbb,strong,2025 bedrijfsverlies -45632 (was -11209); tick1462; primary official NBB WVV
+bud_tvlb_finopbr_2025,vzw_tvlb,2025,9015,,,executed,src_tvlb_jr2025_nbb,strong,2025 financiele opbrengsten 9015 all recurrent; tick1462; primary official NBB WVV
+bud_tvlb_finkost_2025,vzw_tvlb,2025,-737,,,executed,src_tvlb_jr2025_nbb,strong,2025 financiele kosten -737 credit (was 484); tick1462; primary official NBB WVV
+bud_tvlb_pnl_2025,vzw_tvlb,2025,-35880,,,executed,src_tvlb_jr2025_nbb,strong,2025 PnL -35880 (was 0); tick1462; primary official NBB WVV
+bud_tvlb_div_2025,vzw_tvlb,2025,0,,,executed,src_tvlb_jr2025_nbb,strong,2025 dividend 0 VZW; tick1462; primary official NBB WVV
+bud_tvlb_capex_2025,vzw_tvlb,2025,0,,,executed,src_tvlb_jr2025_nbb,strong,2025 capex MVA aanschaf empty; tick1462; primary official NBB WVV
+bud_tvlb_onttrekking_2025,vzw_tvlb,2025,35880,,,executed,src_tvlb_jr2025_nbb,strong,2025 onttrekking EV 35880 to cover loss; tick1462; primary official NBB WVV
