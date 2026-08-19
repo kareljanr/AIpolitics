@@ -36899,3 +36899,70 @@ bud_imog_pnl_2025,igs_imog,2025,4638,,,executed,src_imog_jr2025_nbb,strong,2025 
 bud_imog_pnl_2024,igs_imog,2024,-1575501,,,executed,src_imog_jr2025_nbb,strong,2024 PnL -1575501 comparative; tick1369; primary official NBB WVV 9904
 bud_imog_comm_2025,igs_imog,2025,18480,,,executed,src_imog_jr2025_nbb,strong,2025 commissaris Callens Vandelanotte Nuyttens 18480; tick1369; primary official NBB WVV 9505
 bud_imog_board_2025,igs_imog,2025,61638,,,executed,src_imog_jr2025_nbb,strong,2025 bestuurders presentiegeld 61638 + km 2465 = 64103 (9503 empty); tick1369; primary official remunatieverslag p48-49
+bud_havi_assets_2025,igs_havi,2025,43673416,,,executed,src_havi_jr2025_nbb,strong,2025 assets 43673416 VOL-inb 20/58; tick1370; primary official NBB WVV; commissaris 43673416.31
+bud_havi_assets_2024,igs_havi,2024,38902577,,,executed,src_havi_jr2025_nbb,strong,2024 assets 38902577 comparative; tick1370; primary official NBB WVV 20/58
+bud_havi_fixed_2025,igs_havi,2025,5147140,,,executed,src_havi_jr2025_nbb,strong,2025 vaste activa 5147140 JUMP vs 2559007; tick1370; primary official NBB WVV 21/28
+bud_havi_iva_2025,igs_havi,2025,32797,,,executed,src_havi_jr2025_nbb,strong,2025 immateriele VA 32797 vs 60301; tick1370; primary official NBB WVV 21
+bud_havi_mva_2025,igs_havi,2025,5111241,,,executed,src_havi_jr2025_nbb,strong,2025 MVA 5111241 JUMP vs 2494756; tick1370; primary official NBB WVV 22/27
+bud_havi_buildings_2025,igs_havi,2025,288732,,,executed,src_havi_jr2025_nbb,strong,2025 terreinen en gebouwen 288732 DROP vs 837434 after uitboek aanschaf 2822022; tick1370; primary official NBB WVV 22
+bud_havi_bldg_disp_2025,igs_havi,2025,2822022,,,executed,src_havi_jr2025_nbb,strong,2025 overdracht terreinen/gebouwen aanschaf 2822022 (oude HQ Zellik); tick1370; primary official NBB WVV 6.3.1 8171
+bud_havi_machines_2025,igs_havi,2025,128018,,,executed,src_havi_jr2025_nbb,strong,2025 installaties/machines 128018 vs 40303; tick1370; primary official NBB WVV 23
+bud_havi_rollend_2025,igs_havi,2025,109477,,,executed,src_havi_jr2025_nbb,strong,2025 meubilair/rollend 109477; tick1370; primary official NBB WVV 24
+bud_havi_othmva_2025,igs_havi,2025,821992,,,executed,src_havi_jr2025_nbb,strong,2025 overige MVA 821992; tick1370; primary official NBB WVV 26
+bud_havi_cip_2025,igs_havi,2025,3763021,,,executed,src_havi_jr2025_nbb,strong,2025 activa in aanbouw 3763021 JUMP vs 793805 (nieuw HQ); tick1370; primary official NBB WVV 27
+bud_havi_cip_acq_2025,igs_havi,2025,2969216,,,executed,src_havi_jr2025_nbb,strong,2025 aanschaf CIP 2969216 nieuw administratief gebouw; tick1370; primary official NBB WVV 6.3.6 8166
+bud_havi_fva_2025,igs_havi,2025,3102,,,executed,src_havi_jr2025_nbb,strong,2025 FVA 3102 (aandelen 1204 + borg 1898; 6.4.1/6.5.1 not filed); tick1370; primary official NBB WVV 28
+bud_havi_current_2025,igs_havi,2025,38526276,,,executed,src_havi_jr2025_nbb,strong,2025 vlottende activa 38526276 vs 36343570; tick1370; primary official NBB WVV 29/58
+bud_havi_inv_2025,igs_havi,2025,14848132,,,executed,src_havi_jr2025_nbb,strong,2025 voorraden+BIE 14848132 (RE 14788132 + BIE 60000); tick1370; primary official NBB WVV 3
+bud_havi_re_2025,igs_havi,2025,14788132,,,executed,src_havi_jr2025_nbb,strong,2025 onroerende goederen bestemd voor verkoop 14788132 DROP vs 19071289; tick1370; primary official NBB WVV 35
+bud_havi_re_2024,igs_havi,2024,19071289,,,executed,src_havi_jr2025_nbb,strong,2024 RE inventory 19071289 comparative; tick1370; primary official NBB WVV 35
+bud_havi_strecv_2025,igs_havi,2025,3312978,,,executed,src_havi_jr2025_nbb,strong,2025 ST vorderingen 3312978 (trade 2869529 + other 443450); tick1370; primary official NBB WVV 40/41
+bud_havi_invest_2025,igs_havi,2025,19241015,,,executed,src_havi_jr2025_nbb,strong,2025 geldbeleggingen 19241015 JUMP vs 11165922; tick1370; primary official NBB WVV 50/53
+bud_havi_invest_2024,igs_havi,2024,11165922,,,executed,src_havi_jr2025_nbb,strong,2024 geldbeleggingen 11165922 comparative; tick1370; primary official NBB WVV 50/53
+bud_havi_term_2025,igs_havi,2025,18241015,,,executed,src_havi_jr2025_nbb,strong,2025 termijnrekeningen 18241015 (1m 13241015 + 1-12m 1000000 + >1y 4000000); tick1370; primary official NBB WVV 6.6 53
+bud_havi_fixedinc_2025,igs_havi,2025,1000000,,,executed,src_havi_jr2025_nbb,strong,2025 vastrentende effecten 1000000; tick1370; primary official NBB WVV 6.6 52
+bud_havi_cash_2025,igs_havi,2025,895835,,,executed,src_havi_jr2025_nbb,strong,2025 liquide middelen 895835 DROP vs 1064514; tick1370; primary official NBB WVV 54/58
+bud_havi_cash_2024,igs_havi,2024,1064514,,,executed,src_havi_jr2025_nbb,strong,2024 cash 1064514 comparative; tick1370; primary official NBB WVV 54/58
+bud_havi_prepaid_2025,igs_havi,2025,228316,,,executed,src_havi_jr2025_nbb,strong,2025 overlopend actief 228316 (kosten 198587 + opbr 29729); tick1370; primary official NBB WVV 490/1
+bud_havi_equity_2025,igs_havi,2025,11695045,,,executed,src_havi_jr2025_nbb,strong,2025 eigen vermogen 11695045 vs 7441607; tick1370; primary official NBB WVV 10/15
+bud_havi_inbreng_2025,igs_havi,2025,217569,,,executed,src_havi_jr2025_nbb,strong,2025 inbreng onbeschikbaar 217569 / 34670 aandelen; niet volgestort 649206 of 866750; tick1370; primary official NBB WVV 10/11
+bud_havi_uncalled_2025,igs_havi,2025,649206,,,executed,src_havi_jr2025_nbb,strong,2025 niet volgestort 649206 of in geld 866750; tick1370; primary official NBB WVV 6.7.1 87901
+bud_havi_reserves_2025,igs_havi,2025,11477476,,,executed,src_havi_jr2025_nbb,strong,2025 reserves 11477476 (beschikbaar 11387916 + statutair 89560); tick1370; primary official NBB WVV 13
+bud_havi_capsub_2025,igs_havi,2025,0,,,executed,src_havi_jr2025_nbb,strong,2025 kapitaalsubsidies 0 DROP vs 133336 (genomen in resultaat 133336); tick1370; primary official NBB WVV 15
+bud_havi_prov_2025,igs_havi,2025,21685085,,,executed,src_havi_jr2025_nbb,strong,2025 voorzieningen 21685085 vs 22330388; tick1370; primary official NBB WVV 16
+bud_havi_pension_2025,igs_havi,2025,21157533,,,executed,src_havi_jr2025_nbb,strong,2025 pensioenen 21157533 vs 21789887; tick1370; primary official NBB WVV 160
+bud_havi_pens_saldo_2025,igs_havi,2025,20963711,,,executed,src_havi_jr2025_nbb,strong,2025 responsabilisering saldo 20963711 after aanwending 615758 tot 2048; tick1370; primary official jaarverslag
+bud_havi_pens_used_2025,igs_havi,2025,615758,,,executed,src_havi_jr2025_nbb,strong,2025 responsabiliseringsbijdrage aangewend 615758.44; tick1370; primary official NBB WVV 624 + jaarverslag
+bud_havi_actuarial_2025,igs_havi,2025,28107281,,,executed,src_havi_jr2025_nbb,strong,2025 actuarieel 40y 28107281.33 (niet geboekt; voorziening niet verhoogd); tick1370; primary official jaarverslag 23.03.2026
+bud_havi_othprov_2025,igs_havi,2025,527552,,,executed,src_havi_jr2025_nbb,strong,2025 overige risico's 527552 (geschillen 450132 + algemeen 77420); tick1370; primary official NBB WVV 164/5 6.8
+bud_havi_koster_2025,igs_havi,2025,439924,,,executed,src_havi_jr2025_nbb,strong,2025 De Kosterlaan/EGTA 439923.56 binnen geschillen 450132; tick1370; primary official jaarverslag
+bud_havi_debt_2025,igs_havi,2025,10293286,,,executed,src_havi_jr2025_nbb,strong,2025 schulden 10293286 vs 9130582; tick1370; primary official NBB WVV 17/49
+bud_havi_lt_2025,igs_havi,2025,5332445,,,executed,src_havi_jr2025_nbb,strong,2025 LT schulden bank 5332445 JUMP vs 654335 (nieuw HQ-krediet); tick1370; primary official NBB WVV 17/173
+bud_havi_lt_2024,igs_havi,2024,654335,,,executed,src_havi_jr2025_nbb,strong,2024 LT bank 654335 comparative; tick1370; primary official NBB WVV 173
+bud_havi_st_2025,igs_havi,2025,4566425,,,executed,src_havi_jr2025_nbb,strong,2025 ST schulden 4566425 DROP vs 8069271; tick1370; primary official NBB WVV 42/48
+bud_havi_sttrade_2025,igs_havi,2025,2582055,,,executed,src_havi_jr2025_nbb,strong,2025 leveranciers 2582055 DROP vs 6448116 (GAS-ristorno); tick1370; primary official NBB WVV 440/4
+bud_havi_govg_2025,igs_havi,2025,5654335,,,executed,src_havi_jr2025_nbb,strong,2025 door Belgische overheden gewaarborgde schulden 5654335; tick1370; primary official NBB WVV 6.9 9061
+bud_havi_bankw_2025,igs_havi,2025,437870,,,executed,src_havi_jr2025_nbb,strong,2025 buitenbalans bankgaranties Belfius 437870; tick1370; primary official NBB WVV 6.14
+bud_havi_accrued_2025,igs_havi,2025,394416,,,executed,src_havi_jr2025_nbb,strong,2025 overlopend passief 394416 (subsidies 278242 + overige 116175); tick1370; primary official NBB WVV 492/3
+bud_havi_ops_2025,igs_havi,2025,16946193,,,executed,src_havi_jr2025_nbb,strong,2025 bedrijfsopbrengsten 16946193; tick1370; primary official NBB WVV 70/76A
+bud_havi_omzet_2025,igs_havi,2025,14526833,,,executed,src_havi_jr2025_nbb,strong,2025 omzet 14526833; 6.10 dienstverlening 7472000 + patrimonium 7054833; tick1370; primary official NBB WVV 70
+bud_havi_omzet_2024,igs_havi,2024,7167351,,,executed,src_havi_jr2025_nbb,strong,2024 omzet 7167351 comparative; tick1370; primary official NBB WVV 70
+bud_havi_dienst_2025,igs_havi,2025,7472000,,,executed,src_havi_jr2025_nbb,strong,2025 omzet dienstverlening 7472000 vs 7041602; tick1370; primary official NBB WVV 6.10
+bud_havi_patrim_2025,igs_havi,2025,7054833,,,executed,src_havi_jr2025_nbb,strong,2025 omzet patrimonium 7054833 JUMP vs 125749 (twee projectgronden); tick1370; primary official NBB WVV 6.10
+bud_havi_invchg_2025,igs_havi,2025,-4283157,,,executed,src_havi_jr2025_nbb,strong,2025 voorraadwijziging -4283157 (verkochte projectgronden); tick1370; primary official NBB WVV 71
+bud_havi_othops_2025,igs_havi,2025,6697253,,,executed,src_havi_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 6697253 JUMP vs 1170397; 740 empty; tick1370; primary official NBB WVV 74
+bud_havi_othops_2024,igs_havi,2024,1170397,,,executed,src_havi_jr2025_nbb,strong,2024 andere bedrijfsopbrengsten 1170397 comparative; tick1370; primary official NBB WVV 74
+bud_havi_goods_2025,igs_havi,2025,449065,,,executed,src_havi_jr2025_nbb,strong,2025 handelsgoederen/grond-hulp 449065; tick1370; primary official NBB WVV 60
+bud_havi_diensten_2025,igs_havi,2025,4726890,,,executed,src_havi_jr2025_nbb,strong,2025 diensten 4726890 JUMP vs 2611897; tick1370; primary official NBB WVV 61
+bud_havi_diensten_2024,igs_havi,2024,2611897,,,executed,src_havi_jr2025_nbb,strong,2024 diensten 2611897 comparative; tick1370; primary official NBB WVV 61
+bud_havi_pers_2025,igs_havi,2025,7921394,,,executed,src_havi_jr2025_nbb,strong,2025 bezoldigingen 7921394 / 69.3 VTE / 73 koppen; tick1370; primary official NBB WVV 62 9087
+bud_havi_uitzend_2025,igs_havi,2025,64015,,,executed,src_havi_jr2025_nbb,strong,2025 uitzend 64015 / 1 VTE; tick1370; primary official NBB WVV 617 9097
+bud_havi_deprec_2025,igs_havi,2025,84307,,,executed,src_havi_jr2025_nbb,strong,2025 afschrijvingen 84307; tick1370; primary official NBB WVV 630
+bud_havi_expl_2025,igs_havi,2025,4215007,,,executed,src_havi_jr2025_nbb,strong,2025 bedrijfswinst 4215007 vs -2091463; tick1370; primary official NBB WVV 9901
+bud_havi_expl_2024,igs_havi,2024,-2091463,,,executed,src_havi_jr2025_nbb,strong,2024 bedrijfsverlies 2091463 comparative; tick1370; primary official NBB WVV 9901
+bud_havi_fininc_2025,igs_havi,2025,258706,,,executed,src_havi_jr2025_nbb,strong,2025 financiele opbrengsten 258706 (vlottende 125100 + andere 133606 waarvan capsub 133336); tick1370; primary official NBB WVV 75
+bud_havi_fincost_2025,igs_havi,2025,75005,,,executed,src_havi_jr2025_nbb,strong,2025 financiele kosten 75005 (schulden 66813); tick1370; primary official NBB WVV 65
+bud_havi_pnl_2025,igs_havi,2025,4394148,,,executed,src_havi_jr2025_nbb,strong,2025 PnL 9904 4394148 vs -1843055; added to reserves; tick1370; primary official NBB WVV; commissaris 4394148.48
+bud_havi_pnl_2024,igs_havi,2024,-1843055,,,executed,src_havi_jr2025_nbb,strong,2024 PnL -1843055 comparative; tick1370; primary official NBB WVV 9904
+bud_havi_comm_2025,igs_havi,2025,12500,,,executed,src_havi_jr2025_nbb,strong,2025 commissaris Callens Vandelanotte Oosterlinck 12500; tick1370; primary official NBB WVV 9505
+bud_havi_board_2025,igs_havi,2025,62490,,,executed,src_havi_jr2025_nbb,strong,2025 bestuurders 9503 62490; tick1370; primary official NBB WVV 9503
