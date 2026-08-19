@@ -41291,3 +41291,45 @@ bud_prds_werksub_granted_2025,apb_prds,2025,0,,,executed,src_prds_jr2025_bbc,str
 bud_prds_pers_vast_2025,apb_prds,2025,316303,,,executed,src_prds_jr2025_bbc,strong,2025 T2 vastbenoemd niet-onderwijs 316303; tick1457; primary official BBC T2
 bud_prds_pers_nietvast_2025,apb_prds,2025,1650438,,,executed,src_prds_jr2025_bbc,strong,2025 T2 niet-vastbenoemd niet-onderwijs 1650438; tick1457; primary official BBC T2
 bud_prds_provdot_2025,apb_prds,2025,2245136,,,executed,src_prds_jr2025_bbc,strong,2025 T2 algemene werksub van de provincie 2245136; tick1457; primary official BBC T2
+bud_warande_assets_2025,apb_warande,2025,4599520,,,executed,src_warande_jr2025_bbc,strong,2025 assets 4599520 (was 4055855); tick1458; primary official BBC J4
+bud_warande_current_2025,apb_warande,2025,4358795,,,executed,src_warande_jr2025_bbc,strong,2025 vlottend 4358795 (was 3936518); tick1458; primary official BBC J4
+bud_warande_cash_2025,apb_warande,2025,4060413,,,executed,src_warande_jr2025_bbc,strong,2025 liquide+geldbeleg 4060413 JUMP (was 3701132); tick1458; primary official BBC J4
+bud_warande_strecv_2025,apb_warande,2025,193908,,,executed,src_warande_jr2025_bbc,strong,2025 ST vorderingen 193908 (was 138879); tick1458; primary official BBC J4
+bud_warande_trade_2025,apb_warande,2025,99423,,,executed,src_warande_jr2025_bbc,strong,2025 ruil vorderingen 99423 (was 66224); tick1458; primary official BBC J4
+bud_warande_ntruilrecv_2025,apb_warande,2025,94484,,,executed,src_warande_jr2025_bbc,strong,2025 niet-ruil vorderingen 94484 (was 72655); tick1458; primary official BBC J4
+bud_warande_voorraden_2025,apb_warande,2025,13976,,,executed,src_warande_jr2025_bbc,strong,2025 voorraden 13976 (was 10387); tick1458; primary official BBC J4
+bud_warande_prepaid_2025,apb_warande,2025,90496,,,executed,src_warande_jr2025_bbc,strong,2025 overlopend actief 90496 (was 86118); tick1458; primary official BBC J4
+bud_warande_fixed_2025,apb_warande,2025,240725,,,executed,src_warande_jr2025_bbc,strong,2025 vaste activa 240725 JUMP (was 119337); tick1458; primary official BBC J4
+bud_warande_iva_2025,apb_warande,2025,0,,,executed,src_warande_jr2025_bbc,strong,2025 IVA empty; tick1458; primary official BBC J4
+bud_warande_mva_2025,apb_warande,2025,240353,,,executed,src_warande_jr2025_bbc,strong,2025 MVA 240353 JUMP (was 118965); tick1458; primary official BBC J4
+bud_warande_install_2025,apb_warande,2025,176153,,,executed,src_warande_jr2025_bbc,strong,2025 installaties 176153 (was 93364); tick1458; primary official BBC J4
+bud_warande_meubilair_2025,apb_warande,2025,64200,,,executed,src_warande_jr2025_bbc,strong,2025 meubilair 64200 (was 25601); tick1458; primary official BBC J4
+bud_warande_fva_2025,apb_warande,2025,371,,,executed,src_warande_jr2025_bbc,strong,2025 FVA 371 unchanged; tick1458; primary official BBC J4
+bud_warande_equity_2025,apb_warande,2025,2527021,,,executed,src_warande_jr2025_bbc,strong,2025 nettoactief 2527021 (was 2260955); tick1458; primary official BBC J4
+bud_warande_overgedragen_2025,apb_warande,2025,2389844,,,executed,src_warande_jr2025_bbc,strong,2025 gecumuleerd overschot 2389844 (was 2123778); tick1458; primary official BBC J4
+bud_warande_overignet_2025,apb_warande,2025,137176,,,executed,src_warande_jr2025_bbc,strong,2025 overig nettoactief 137176; tick1458; primary official BBC J4
+bud_warande_debt_2025,apb_warande,2025,2072498,,,executed,src_warande_jr2025_bbc,strong,2025 schulden 2072498 ALL ST JUMP (was 1794888; LT empty; T4 fin debt 0); tick1458; primary official BBC J4
+bud_warande_stdebt_2025,apb_warande,2025,2072498,,,executed,src_warande_jr2025_bbc,strong,2025 ST schulden 2072498; tick1458; primary official BBC J4
+bud_warande_ruilpay_2025,apb_warande,2025,1844790,,,executed,src_warande_jr2025_bbc,strong,2025 ST ruil schulden 1844790 (was 1489314); tick1458; primary official BBC J4
+bud_warande_deferred_2025,apb_warande,2025,188256,,,executed,src_warande_jr2025_bbc,strong,2025 overlopend passief 188256 DROP (was 258581); tick1458; primary official BBC J4
+bud_warande_explontv_2025,apb_warande,2025,7499668,,,executed,src_warande_jr2025_bbc,strong,2025 expl ontvangsten J2 7499668; tick1458; primary official BBC J2
+bud_warande_expluitg_2025,apb_warande,2025,7193570,,,executed,src_warande_jr2025_bbc,strong,2025 expl uitgaven J2 7193570; tick1458; primary official BBC J2
+bud_warande_explsaldo_2025,apb_warande,2025,306098,,,executed,src_warande_jr2025_bbc,strong,2025 expl saldo / AFM 306098 (was 65000 budget); tick1458; primary official BBC J2
+bud_warande_investsaldo_2025,apb_warande,2025,-239711,,,executed,src_warande_jr2025_bbc,strong,2025 investeringssaldo -239711; tick1458; primary official BBC J2
+bud_warande_bbr_2025,apb_warande,2025,66386,,,executed,src_warande_jr2025_bbc,strong,2025 budgettair resultaat 66386 (was -190000 budget); tick1458; primary official BBC J2
+bud_warande_cumbbr_2025,apb_warande,2025,2370079,,,executed,src_warande_jr2025_bbc,strong,2025 gecumuleerd BBR 2370079 (was 2303693); tick1458; primary official BBC J2
+bud_warande_omzet_2025,apb_warande,2025,1692312,,,executed,src_warande_jr2025_bbc,strong,2025 J5 opbrengsten uit de werking 1692312 (was 1499488); tick1458; primary official BBC J5
+bud_warande_diensten_2025,apb_warande,2025,3359732,,,executed,src_warande_jr2025_bbc,strong,2025 J5 goederen en diensten 3359732 (was 3119508); tick1458; primary official BBC J5
+bud_warande_pers_2025,apb_warande,2025,3757450,,,executed,src_warande_jr2025_bbc,strong,2025 J5 bezoldigingen 3757450 (was 3223599; VTE unpublished); tick1458; primary official BBC J5
+bud_warande_afschr_2025,apb_warande,2025,118434,,,executed,src_warande_jr2025_bbc,strong,2025 J5 afschrijvingen 118434 (was 84966); tick1458; primary official BBC J5
+bud_warande_werksub_2025,apb_warande,2025,5478580,,,executed,src_warande_jr2025_bbc,strong,2025 J5 werkingssubsidies 5478580 vs T2 5422814 gap 55766; tick1458; primary official BBC J5
+bud_warande_andere_opbr_2025,apb_warande,2025,325618,,,executed,src_warande_jr2025_bbc,strong,2025 J5 andere operationele opbrengsten 325618 (was 208940); tick1458; primary official BBC J5
+bud_warande_expl_2025,apb_warande,2025,218396,,,executed,src_warande_jr2025_bbc,strong,2025 J5 operationeel overschot 218396 (was 552116); tick1458; primary official BBC J5
+bud_warande_pnl_2025,apb_warande,2025,266066,,,executed,src_warande_jr2025_bbc,strong,2025 J5 overschot boekjaar 266066 DROP (was 605745); tick1458; primary official BBC J5
+bud_warande_div_2025,apb_warande,2025,0,,,executed,src_warande_jr2025_bbc,strong,2025 dividend 0; rechthebbenden empty; tick1458; primary official BBC J5
+bud_warande_capex_2025,apb_warande,2025,239711,,,executed,src_warande_jr2025_bbc,strong,2025 capex T2 239711 (T5 aankopen 239711; install 173117 + meubilair 66594); tick1458; primary official BBC T2/T5
+bud_warande_werksub_granted_2025,apb_warande,2025,0,,,executed,src_warande_jr2025_bbc,strong,2025 J5 toegestane werkingssubsidies empty; tick1458; primary official BBC J5
+bud_warande_pers_nietvast_2025,apb_warande,2025,3449817,,,executed,src_warande_jr2025_bbc,strong,2025 T2 niet-vastbenoemd niet-onderwijs 3449817; tick1458; primary official BBC T2
+bud_warande_pers_andere_2025,apb_warande,2025,298995,,,executed,src_warande_jr2025_bbc,strong,2025 T2 andere personeelskosten 298995; tick1458; primary official BBC T2
+bud_warande_provdot_2025,apb_warande,2025,4219566,,,executed,src_warande_jr2025_bbc,strong,2025 T2 algemene werksub van de provincie 4219566; tick1458; primary official BBC T2
+bud_warande_vldot_2025,apb_warande,2025,324012,,,executed,src_warande_jr2025_bbc,strong,2025 T2 algemene werksub van de Vlaamse overheid 324012; tick1458; primary official BBC T2
