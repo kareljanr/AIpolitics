@@ -36526,3 +36526,54 @@ bud_slim_relrecv_2025,cv_slim,2025,194550,,,executed,src_slim_jr2025_nbb,strong,
 bud_slim_reldebt_2025,cv_slim,2025,322279,,,executed,src_slim_jr2025_nbb,strong,2025 verbonden ST schulden 322279 DROP vs 460923; tick1362; primary official NBB WVV 9351
 bud_slim_taxlat_2025,cv_slim,2025,11279467,,,executed,src_slim_jr2025_nbb,strong,2025 actieve latenties fiscale verliezen 11279467; tick1362; primary official NBB WVV 9142; not TE-additive
 bud_slim_inbreng_onttrek_2025,cv_slim,2025,1355216,,,executed,src_slim_jr2025_nbb,strong,2025 onttrekking aan inbreng 1355216 (absorbs year loss); tick1362; primary official NBB WVV 791
+bud_mycs_assets_2025,nv_mycs,2025,4360871,,,executed,src_mycs_jr2025_nbb,strong,2025 assets 4360871 VOL-kap 20/58; tick1363; primary official NBB WVV
+bud_mycs_assets_2024,nv_mycs,2024,3612356,,,executed,src_mycs_jr2025_nbb,strong,2024 assets 3612356 comparative; tick1363; primary official NBB WVV 20/58
+bud_mycs_startup_2025,nv_mycs,2025,725,,,executed,src_mycs_jr2025_nbb,strong,2025 oprichtingskosten 725; tick1363; primary official NBB WVV 20
+bud_mycs_fixed_2025,nv_mycs,2025,2778153,,,executed,src_mycs_jr2025_nbb,strong,2025 vaste activa 2778153 JUMP vs 2298250; tick1363; primary official NBB WVV 21/28
+bud_mycs_iva_2025,nv_mycs,2025,2256412,,,executed,src_mycs_jr2025_nbb,strong,2025 IVA 2256412 JUMP vs 2118290 (GEO-spatial platform); tick1363; primary official NBB WVV 21
+bud_mycs_ivaacq_2025,nv_mycs,2025,700889,,,executed,src_mycs_jr2025_nbb,strong,2025 IVA aanschaf 700889 (JV 700888.84 GEO-spatial); tick1363; primary official NBB WVV 8021
+bud_mycs_mva_2025,nv_mycs,2025,7501,,,executed,src_mycs_jr2025_nbb,strong,2025 MVA 7501 (meubilair 24); tick1363; primary official NBB WVV 22/27
+bud_mycs_fva_2025,nv_mycs,2025,514240,,,executed,src_mycs_jr2025_nbb,strong,2025 FVA 514240 JUMP vs 178356 (Rematics 47.85pct); tick1363; primary official NBB WVV 28
+bud_mycs_partic_2025,nv_mycs,2025,343319,,,executed,src_mycs_jr2025_nbb,strong,2025 deelnemingen 343319 Rematics 6703 sh / 47.85pct; tick1363; primary official NBB WVV 282
+bud_mycs_fvarecv_2025,nv_mycs,2025,170921,,,executed,src_mycs_jr2025_nbb,strong,2025 FVA vorderingen deelneming 170921; tick1363; primary official NBB WVV 283
+bud_mycs_current_2025,nv_mycs,2025,1581993,,,executed,src_mycs_jr2025_nbb,strong,2025 vlottende activa 1581993 JUMP vs 1312649; tick1363; primary official NBB WVV 29/58
+bud_mycs_strecv_2025,nv_mycs,2025,265891,,,executed,src_mycs_jr2025_nbb,strong,2025 ST vorderingen 265891 (trade 168958 + other 96933); tick1363; primary official NBB WVV 40/41
+bud_mycs_cash_2025,nv_mycs,2025,461475,,,executed,src_mycs_jr2025_nbb,strong,2025 liquide middelen 461475 DROP vs 507108; tick1363; primary official NBB WVV 54/58
+bud_mycs_cash_2024,nv_mycs,2024,507108,,,executed,src_mycs_jr2025_nbb,strong,2024 liquide middelen 507108 comparative; tick1363; primary official NBB WVV 54/58
+bud_mycs_prepaid_2025,nv_mycs,2025,854627,,,executed,src_mycs_jr2025_nbb,strong,2025 overlopend actief 854627 (kosten 5269 + opbrengsten 849357); tick1363; primary official NBB WVV 490/1
+bud_mycs_accruedinc_2025,nv_mycs,2025,849357,,,executed,src_mycs_jr2025_nbb,strong,2025 verkregen opbrengsten 849357 unnamed; tick1363; primary official NBB WVV 6.6
+bud_mycs_equity_2025,nv_mycs,2025,1855808,,,executed,src_mycs_jr2025_nbb,strong,2025 eigen vermogen 1855808 DROP vs 2021008; matches parent DC 6.5.1; tick1363; primary official NBB WVV 10/15
+bud_mycs_equity_2024,nv_mycs,2024,2021008,,,executed,src_mycs_jr2025_nbb,strong,2024 eigen vermogen 2021008 comparative; tick1363; primary official NBB WVV 10/15
+bud_mycs_capital_2025,nv_mycs,2025,2325000,,,executed,src_mycs_jr2025_nbb,strong,2025 geplaatst kapitaal 2325000 / 2000 aandelen; tick1363; primary official NBB WVV 100
+bud_mycs_re_2025,nv_mycs,2025,-759879,,,executed,src_mycs_jr2025_nbb,strong,2025 overgedragen verlies -759879; tick1363; primary official NBB WVV 14
+bud_mycs_capsid_2025,nv_mycs,2025,290687,,,executed,src_mycs_jr2025_nbb,strong,2025 kapitaalsubsidies 290687 new unnamed public; tick1363; primary official NBB WVV 15
+bud_mycs_defertax_2025,nv_mycs,2025,96896,,,executed,src_mycs_jr2025_nbb,strong,2025 uitgestelde belastingen 96896 on kapitaalsubsidie; tick1363; primary official NBB WVV 168
+bud_mycs_debt_2025,nv_mycs,2025,2408167,,,executed,src_mycs_jr2025_nbb,strong,2025 schulden 2408167 JUMP vs 1591348; tick1363; primary official NBB WVV 17/49
+bud_mycs_lt_2025,nv_mycs,2025,2023674,,,executed,src_mycs_jr2025_nbb,strong,2025 LT achtergesteld 2023674 JUMP vs 1251273 (all 1-5y; related); tick1363; primary official NBB WVV 170
+bud_mycs_st_2025,nv_mycs,2025,344648,,,executed,src_mycs_jr2025_nbb,strong,2025 ST schulden 344648; tick1363; primary official NBB WVV 42/48
+bud_mycs_trade_2025,nv_mycs,2025,307078,,,executed,src_mycs_jr2025_nbb,strong,2025 leveranciers 307078; tick1363; primary official NBB WVV 440/4
+bud_mycs_soc_2025,nv_mycs,2025,37429,,,executed,src_mycs_jr2025_nbb,strong,2025 bezoldigingen/sociale lasten 37429; tick1363; primary official NBB WVV 454/9
+bud_mycs_accrued_2025,nv_mycs,2025,39846,,,executed,src_mycs_jr2025_nbb,strong,2025 overlopend passief 39846 (opbr 25579 + kosten 14267); tick1363; primary official NBB WVV 492/3
+bud_mycs_ops_2025,nv_mycs,2025,2349075,,,executed,src_mycs_jr2025_nbb,strong,2025 bedrijfsopbrengsten 2349075; tick1363; primary official NBB WVV 70/76A
+bud_mycs_omzet_2025,nv_mycs,2025,1847195,,,executed,src_mycs_jr2025_nbb,strong,2025 omzet 1847195 JUMP vs 1380974; 6.10 category/geo empty; tick1363; primary official NBB WVV 70
+bud_mycs_omzet_2024,nv_mycs,2024,1380974,,,executed,src_mycs_jr2025_nbb,strong,2024 omzet 1380974 comparative; tick1363; primary official NBB WVV 70
+bud_mycs_ownprod_2025,nv_mycs,2025,183133,,,executed,src_mycs_jr2025_nbb,strong,2025 geproduceerde vaste activa 183133; tick1363; primary official NBB WVV 72
+bud_mycs_andere_2025,nv_mycs,2025,318747,,,executed,src_mycs_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 318747; tick1363; primary official NBB WVV 74
+bud_mycs_opssub_2025,nv_mycs,2025,283405,,,executed,src_mycs_jr2025_nbb,strong,2025 exploitatiesubsidies 283405 DROP vs 592836 unnamed public; tick1363; primary official NBB WVV 740
+bud_mycs_opscost_2025,nv_mycs,2025,2817609,,,executed,src_mycs_jr2025_nbb,strong,2025 bedrijfskosten 2817609; tick1363; primary official NBB WVV 60/66A
+bud_mycs_goods_2025,nv_mycs,2025,336774,,,executed,src_mycs_jr2025_nbb,strong,2025 handelsgoederen 336774; tick1363; primary official NBB WVV 60
+bud_mycs_diensten_2025,nv_mycs,2025,1518164,,,executed,src_mycs_jr2025_nbb,strong,2025 diensten 1518164; tick1363; primary official NBB WVV 61
+bud_mycs_pers_2025,nv_mycs,2025,331868,,,executed,src_mycs_jr2025_nbb,strong,2025 pers 331868 / avg VTE 4.2 / YE 5 koppen 4.7 VTE; tick1363; primary official NBB WVV 62/6.10
+bud_mycs_afschr_2025,nv_mycs,2025,565683,,,executed,src_mycs_jr2025_nbb,strong,2025 afschrijvingen 565683; tick1363; primary official NBB WVV 630
+bud_mycs_expl_2025,nv_mycs,2025,-468533,,,executed,src_mycs_jr2025_nbb,strong,2025 bedrijfsverlies -468533 (was -487475); tick1363; primary official NBB WVV 9901
+bud_mycs_fininc_2025,nv_mycs,2025,79819,,,executed,src_mycs_jr2025_nbb,strong,2025 financiele opbrengsten 79819 (capsid 44276 + nonrec 19684); tick1363; primary official NBB WVV 75/76B
+bud_mycs_capsid_pl_2025,nv_mycs,2025,44276,,,executed,src_mycs_jr2025_nbb,strong,2025 kapitaalsubsidies in resultaat 44276; tick1363; primary official NBB WVV 9125
+bud_mycs_fincost_2025,nv_mycs,2025,81164,,,executed,src_mycs_jr2025_nbb,strong,2025 financiele kosten 81164 (schulden 80774); tick1363; primary official NBB WVV 65/66B
+bud_mycs_pnl_2025,nv_mycs,2025,-455887,,,executed,src_mycs_jr2025_nbb,strong,2025 PnL 9904 -455887 (was -535912); tick1363; primary official NBB WVV; matches parent DC 6.5.1
+bud_mycs_pnl_2024,nv_mycs,2024,-535912,,,executed,src_mycs_jr2025_nbb,strong,2024 PnL -535912 comparative; tick1363; primary official NBB WVV 9904
+bud_mycs_comm_2025,nv_mycs,2025,8125,,,executed,src_mycs_jr2025_nbb,strong,2025 commissaris Moore Audit 8125; tick1363; primary official NBB WVV 9505
+bud_mycs_relrecv_2025,nv_mycs,2025,90523,,,executed,src_mycs_jr2025_nbb,strong,2025 verbonden ST vorderingen 90523; tick1363; primary official NBB WVV 9291
+bud_mycs_reldebt_2025,nv_mycs,2025,2050622,,,executed,src_mycs_jr2025_nbb,strong,2025 verbonden schulden 2050622 (LT 2023674 + ST 26948); tick1363; primary official NBB WVV 9351
+bud_mycs_reldcost_2025,nv_mycs,2025,80401,,,executed,src_mycs_jr2025_nbb,strong,2025 verbonden kosten schulden 80401; tick1363; primary official NBB WVV 9461
+bud_mycs_taxlat_2025,nv_mycs,2025,5383264,,,executed,src_mycs_jr2025_nbb,strong,2025 actieve latenties fiscale verliezen 5383264; tick1363; primary official NBB WVV 9142; not TE-additive
+bud_mycs_rematics_ev_2025,nv_mycs,2025,490947,,,executed,src_mycs_jr2025_nbb,strong,2025 Rematics BV 47.85pct EV 490947 / PnL -195783 (6.5.1); tick1363; primary official NBB WVV
