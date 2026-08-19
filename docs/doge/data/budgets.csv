@@ -38303,3 +38303,51 @@ bud_flri_capex_wvv_2025,igs_flri,2025,40867126,,,executed,src_flri_jr2025_nbb,st
 bud_flri_comm_2025,igs_flri,2025,7093,,,executed,src_flri_jr2025_nbb,strong,2025 commissaris 9505 7093; tick1390; primary official NBB WVV 9505
 bud_flri_comm_extra_2025,igs_flri,2025,1650,,,executed,src_flri_jr2025_nbb,strong,2025 commissaris extra controle 95061 1650 + tax 95082 629; tick1390; primary official NBB WVV 95061
 bud_flri_board_2025,igs_flri,2025,29126,,,executed,src_flri_jr2025_nbb,strong,2025 bestuurders 9503 29126; tick1390; primary official NBB WVV 9503
+bud_flov_assets_2025,igs_flov,2025,27892216,,,executed,src_flov_jr2025_nbb,strong,2025 assets 27892216 VOL-inb 20/58; tick1391; primary official NBB WVV
+bud_flov_assets_2024,igs_flov,2024,30297051,,,executed,src_flov_jr2025_nbb,strong,2024 assets 30297051 comparative; tick1391; primary official NBB WVV 20/58
+bud_flov_fixed_2025,igs_flov,2025,491180,,,executed,src_flov_jr2025_nbb,strong,2025 vaste activa 491180 vs 491180; tick1391; primary official NBB WVV 21/28
+bud_flov_mva_2025,igs_flov,2025,235499,,,executed,src_flov_jr2025_nbb,strong,2025 MVA 235499 terreinen/gebouwen (0 aanschaf); tick1391; primary official NBB WVV 22/27
+bud_flov_buildings_2025,igs_flov,2025,235499,,,executed,src_flov_jr2025_nbb,strong,2025 terreinen/gebouwen 235499; tick1391; primary official NBB WVV 22
+bud_flov_fva_2025,igs_flov,2025,255681,,,executed,src_flov_jr2025_nbb,strong,2025 FVA 255681 andere aandelen 284; tick1391; primary official NBB WVV 28
+bud_flov_fva_oth_2025,igs_flov,2025,255681,,,executed,src_flov_jr2025_nbb,strong,2025 FVA andere aandelen 255681 Ethias+Poolstok; tick1391; primary official NBB WVV 284
+bud_flov_current_2025,igs_flov,2025,27401036,,,executed,src_flov_jr2025_nbb,strong,2025 vlottend 27401036 vs 29805871; tick1391; primary official NBB WVV 29/58
+bud_flov_strecv_2025,igs_flov,2025,24254648,,,executed,src_flov_jr2025_nbb,strong,2025 ST vorderingen 24254648 vs 26501931; tick1391; primary official NBB WVV 40/41
+bud_flov_trade_2025,igs_flov,2025,11118804,,,executed,src_flov_jr2025_nbb,strong,2025 handelsvorderingen 11118804 JUMP vs 398233; tick1391; primary official NBB WVV 40
+bud_flov_othrecv_2025,igs_flov,2025,13135845,,,executed,src_flov_jr2025_nbb,strong,2025 overige ST vorderingen 13135845 vs 26103698; tick1391; primary official NBB WVV 41
+bud_flov_relrecv_2025,igs_flov,2025,23547194,,,executed,src_flov_jr2025_nbb,strong,2025 related-party ST vorderingen 23547194 vs 25946161; tick1391; primary official NBB WVV 6.15 9292
+bud_flov_cash_2025,igs_flov,2025,242,,,executed,src_flov_jr2025_nbb,strong,2025 liquide middelen 242 vs 448; tick1391; primary official NBB WVV 54/58
+bud_flov_prepaid_2025,igs_flov,2025,3146145,,,executed,src_flov_jr2025_nbb,strong,2025 overlopend actief 3146145 (pers 2749732 + diensten 396414); tick1391; primary official NBB WVV 490/1
+bud_flov_equity_2025,igs_flov,2025,26642,,,executed,src_flov_jr2025_nbb,strong,2025 EV 26642 vs 26642; tick1391; primary official NBB WVV 10/15
+bud_flov_inbreng_2025,igs_flov,2025,24393,,,executed,src_flov_jr2025_nbb,strong,2025 inbreng beschikbaar 24393 / 984 aandelen; tick1391; primary official NBB WVV 10/11
+bud_flov_reserves_2025,igs_flov,2025,2248,,,executed,src_flov_jr2025_nbb,strong,2025 beschikbare reserves 2248; tick1391; primary official NBB WVV 13
+bud_flov_debt_2025,igs_flov,2025,27865574,,,executed,src_flov_jr2025_nbb,strong,2025 schulden 27865574 vs 30270409; tick1391; primary official NBB WVV 17/49
+bud_flov_debt_2024,igs_flov,2024,30270409,,,executed,src_flov_jr2025_nbb,strong,2024 schulden 30270409 comparative; tick1391; primary official NBB WVV 17/49
+bud_flov_st_2025,igs_flov,2025,27865574,,,executed,src_flov_jr2025_nbb,strong,2025 ST schulden 27865574 (no LT); tick1391; primary official NBB WVV 42/48
+bud_flov_sttrade_2025,igs_flov,2025,958474,,,executed,src_flov_jr2025_nbb,strong,2025 leveranciers 958474 vs 925530; tick1391; primary official NBB WVV 440/4
+bud_flov_sttax_2025,igs_flov,2025,5180158,,,executed,src_flov_jr2025_nbb,strong,2025 belastingschulden 5180158 vs 5478962; tick1391; primary official NBB WVV 450/3
+bud_flov_stsoc_2025,igs_flov,2025,19877282,,,executed,src_flov_jr2025_nbb,strong,2025 bezoldigingen/sociale lasten 19877282 vs 21882356; tick1391; primary official NBB WVV 454/9
+bud_flov_stother_2025,igs_flov,2025,1849659,,,executed,src_flov_jr2025_nbb,strong,2025 overige ST schulden 1849659 vs 1983561; tick1391; primary official NBB WVV 47/48
+bud_flov_opsinc_2025,igs_flov,2025,122078961,,,executed,src_flov_jr2025_nbb,strong,2025 bedrijfsopbrengsten 122078961 vs 126440657; tick1391; primary official NBB WVV 70/76A
+bud_flov_omzet_2025,igs_flov,2025,97349085,,,executed,src_flov_jr2025_nbb,strong,2025 omzet 97349085 vs 102061287; 6.10 category/geo unpublished; tick1391; primary official NBB WVV 70
+bud_flov_omzet_2024,igs_flov,2024,102061287,,,executed,src_flov_jr2025_nbb,strong,2024 omzet 102061287 comparative; tick1391; primary official NBB WVV 70
+bud_flov_othops_2025,igs_flov,2025,1900470,,,executed,src_flov_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 1900470 vs 1549962; 740 empty; tick1391; primary official NBB WVV 74
+bud_flov_nonrec_2025,igs_flov,2025,22829407,,,executed,src_flov_jr2025_nbb,strong,2025 niet-recurrent 76A=66A 22829407 both years; tick1391; primary official NBB WVV 76A
+bud_flov_opscost_2025,igs_flov,2025,121572751,,,executed,src_flov_jr2025_nbb,strong,2025 bedrijfskosten 121572751 vs 125353929; tick1391; primary official NBB WVV 60/66A
+bud_flov_diensten_2025,igs_flov,2025,1156794,,,executed,src_flov_jr2025_nbb,strong,2025 diensten 1156794 vs 874386; tick1391; primary official NBB WVV 61
+bud_flov_diensten_2024,igs_flov,2024,874386,,,executed,src_flov_jr2025_nbb,strong,2024 diensten 874386 comparative; tick1391; primary official NBB WVV 61
+bud_flov_pers_2025,igs_flov,2025,97583389,,,executed,src_flov_jr2025_nbb,strong,2025 pers 97583389 vs 101646653 / 573.6 VTE; tick1391; primary official NBB WVV 62
+bud_flov_pers_2024,igs_flov,2024,101646653,,,executed,src_flov_jr2025_nbb,strong,2024 pers 101646653 / 615.4 VTE comparative; tick1391; primary official NBB WVV 62
+bud_flov_othcost_2025,igs_flov,2025,3161,,,executed,src_flov_jr2025_nbb,strong,2025 andere bedrijfskosten 3161 vs 3483; tick1391; primary official NBB WVV 640/8
+bud_flov_expl_2025,igs_flov,2025,506211,,,executed,src_flov_jr2025_nbb,strong,2025 expl +506211 vs +1086728; tick1391; primary official NBB WVV 9901
+bud_flov_expl_2024,igs_flov,2024,1086728,,,executed,src_flov_jr2025_nbb,strong,2024 expl +1086728 comparative; tick1391; primary official NBB WVV 9901
+bud_flov_fininc_2025,igs_flov,2025,189852,,,executed,src_flov_jr2025_nbb,strong,2025 financiele opbrengsten 189852 vs 178152; tick1391; primary official NBB WVV 75/76B
+bud_flov_fincost_2025,igs_flov,2025,36950,,,executed,src_flov_jr2025_nbb,strong,2025 financiele kosten 36950 vs 34802; tick1391; primary official NBB WVV 65/66B
+bud_flov_pretax_2025,igs_flov,2025,659112,,,executed,src_flov_jr2025_nbb,strong,2025 winst voor belasting 659112 vs 1230078; tick1391; primary official NBB WVV 9903
+bud_flov_tax_2025,igs_flov,2025,659112,,,executed,src_flov_jr2025_nbb,strong,2025 belasting 659112 (670/3 1056359 - 77 397247); tick1391; primary official NBB WVV 67/77
+bud_flov_pnl_2025,igs_flov,2025,0,,,executed,src_flov_jr2025_nbb,strong,2025 PnL 0 vs 0 (full tax wipe); tick1391; primary official NBB WVV 9904
+bud_flov_pnl_2024,igs_flov,2024,0,,,executed,src_flov_jr2025_nbb,strong,2024 PnL 0 comparative; tick1391; primary official NBB WVV 9904
+bud_flov_div_2025,igs_flov,2025,0,,,executed,src_flov_jr2025_nbb,strong,2025 dividend 694 empty; tick1391; primary official NBB WVV 694
+bud_flov_pens_off_2025,igs_flov,2025,151260000,,,executed,src_flov_jr2025_nbb,strong,2025 off-balance IAS19 pensioen/personeel 151.26m (6.20); tick1391; primary official NBB WVV 6.20
+bud_flov_comm_2025,igs_flov,2025,16634,,,executed,src_flov_jr2025_nbb,strong,2025 commissaris 9505 16634; tick1391; primary official NBB WVV 9505
+bud_flov_board_2025,igs_flov,2025,17439,,,executed,src_flov_jr2025_nbb,strong,2025 bestuurders 9503 17439; tick1391; primary official NBB WVV 9503
+bud_flov_train_2025,igs_flov,2025,443935,,,executed,src_flov_jr2025_nbb,strong,2025 formele opleiding 443935 (357048M+86887V); tick1391; primary official NBB WVV 5803/5813
