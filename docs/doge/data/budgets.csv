@@ -37362,3 +37362,51 @@ bud_miromn_pnl_2024,igs_miromn,2024,631416,,,executed,src_miromn_jr2025_nbb,stro
 bud_miromn_comm_2025,igs_miromn,2025,6975,,,executed,src_miromn_jr2025_nbb,strong,2025 commissaris Auditas / Sven Vansteelant 6975; tick1377; primary official NBB WVV 9505
 bud_miromn_bestuur_2025,igs_miromn,2025,33904,,,executed,src_miromn_jr2025_nbb,strong,2025 bestuurders 33904; tick1377; primary official NBB WVV 9503
 bud_miromn_machines_aanschaf_2025,igs_miromn,2025,636719,,,executed,src_miromn_jr2025_nbb,strong,2025 machines aanschaf 636719; tick1377; primary official NBB WVV 8162
+bud_nekk_assets_2025,eva_nekk,2025,753425,,,executed,src_nekk_jr2025_nbb,strong,2025 assets 753425 VOL VKT-VZW 20/58; tick1378; primary official NBB WVV; commissaris 753425
+bud_nekk_assets_2024,eva_nekk,2024,911019,,,executed,src_nekk_jr2025_nbb,strong,2024 assets 911019 comparative; tick1378; primary official NBB WVV 20/58
+bud_nekk_fixed_2025,eva_nekk,2025,425742,,,executed,src_nekk_jr2025_nbb,strong,2025 vaste activa 425742 vs 614712; tick1378; primary official NBB WVV 21/28
+bud_nekk_mva_2025,eva_nekk,2025,425742,,,executed,src_nekk_jr2025_nbb,strong,2025 MVA 425742 vs 614712; terreinen/gebouwen 22 empty; tick1378; primary official NBB WVV 22/27
+bud_nekk_machines_2025,eva_nekk,2025,206104,,,executed,src_nekk_jr2025_nbb,strong,2025 installaties/machines 206104 vs 307090; tick1378; primary official NBB WVV 23
+bud_nekk_furniture_2025,eva_nekk,2025,7622,,,executed,src_nekk_jr2025_nbb,strong,2025 meubilair/rollend 7622 vs 15244; tick1378; primary official NBB WVV 24
+bud_nekk_othmva_2025,eva_nekk,2025,212016,,,executed,src_nekk_jr2025_nbb,strong,2025 overige MVA 212016 vs 292378; tick1378; primary official NBB WVV 26
+bud_nekk_mva_aanschaf_ye_2025,eva_nekk,2025,2845461,,,executed,src_nekk_jr2025_nbb,strong,2025 MVA aanschaf YE 2845461 vs 2799612; tick1378; primary official NBB WVV 8199
+bud_nekk_mva_aanschaf_year_2025,eva_nekk,2025,45849,,,executed,src_nekk_jr2025_nbb,strong,2025 MVA aanschaffingen 45849; tick1378; primary official NBB WVV 8169
+bud_nekk_mva_afschr_ye_2025,eva_nekk,2025,2419720,,,executed,src_nekk_jr2025_nbb,strong,2025 MVA afschr YE 2419720 vs 2184900; tick1378; primary official NBB WVV 8329
+bud_nekk_current_2025,eva_nekk,2025,327683,,,executed,src_nekk_jr2025_nbb,strong,2025 vlottende activa 327683 vs 296307; tick1378; primary official NBB WVV 29/58
+bud_nekk_inv_2025,eva_nekk,2025,14141,,,executed,src_nekk_jr2025_nbb,strong,2025 voorraden 14141 vs 13814 (horeca FIFO); tick1378; primary official NBB WVV 3
+bud_nekk_strecv_2025,eva_nekk,2025,83024,,,executed,src_nekk_jr2025_nbb,strong,2025 ST vorderingen 83024 vs 224646 (trade 83024; other 0 DROP vs 77981); tick1378; primary official NBB WVV 40/41
+bud_nekk_trade_2025,eva_nekk,2025,83024,,,executed,src_nekk_jr2025_nbb,strong,2025 handelsvorderingen 83024 vs 146665; tick1378; primary official NBB WVV 40
+bud_nekk_cash_2025,eva_nekk,2025,186206,,,executed,src_nekk_jr2025_nbb,strong,2025 liquide middelen 186206 JUMP vs 11136; tick1378; primary official NBB WVV 54/58
+bud_nekk_cash_2024,eva_nekk,2024,11136,,,executed,src_nekk_jr2025_nbb,strong,2024 liquide middelen 11136 comparative; tick1378; primary official NBB WVV 54/58
+bud_nekk_prepaid_2025,eva_nekk,2025,44312,,,executed,src_nekk_jr2025_nbb,strong,2025 overlopend actief 44312 vs 46711; tick1378; primary official NBB WVV 490/1
+bud_nekk_equity_2025,eva_nekk,2025,-26184,,,executed,src_nekk_jr2025_nbb,strong,2025 eigen vermogen -26184 vs -107796 (art. 3:48§2 6° going concern; provincie support); tick1378; primary official NBB WVV 10/15
+bud_nekk_equity_2024,eva_nekk,2024,-107796,,,executed,src_nekk_jr2025_nbb,strong,2024 eigen vermogen -107796 comparative; tick1378; primary official NBB WVV 10/15
+bud_nekk_funds_2025,eva_nekk,2025,100000,,,executed,src_nekk_jr2025_nbb,strong,2025 bestemde fondsen 100000; tick1378; primary official NBB WVV 13
+bud_nekk_retained_2025,eva_nekk,2025,-126184,,,executed,src_nekk_jr2025_nbb,strong,2025 overgedragen verlies -126184 vs -207796; tick1378; primary official NBB WVV 14
+bud_nekk_debt_2025,eva_nekk,2025,779609,,,executed,src_nekk_jr2025_nbb,strong,2025 schulden 779609 vs 1018814; LT 17 empty; tick1378; primary official NBB WVV 17/49
+bud_nekk_debt_2024,eva_nekk,2024,1018814,,,executed,src_nekk_jr2025_nbb,strong,2024 schulden 1018814 comparative; tick1378; primary official NBB WVV 17/49
+bud_nekk_st_2025,eva_nekk,2025,554044,,,executed,src_nekk_jr2025_nbb,strong,2025 ST schulden 554044 vs 754140; tick1378; primary official NBB WVV 42/48
+bud_nekk_stbank_2025,eva_nekk,2025,168834,,,executed,src_nekk_jr2025_nbb,strong,2025 ST bank 168834 vs 288322; tick1378; primary official NBB WVV 430/8
+bud_nekk_sttrade_2025,eva_nekk,2025,168225,,,executed,src_nekk_jr2025_nbb,strong,2025 leveranciers 168225 vs 248213; tick1378; primary official NBB WVV 440/4
+bud_nekk_stsoc_2025,eva_nekk,2025,193881,,,executed,src_nekk_jr2025_nbb,strong,2025 bezoldigingen/sociale lasten 193881 vs 201059 (tax 450/3 empty); tick1378; primary official NBB WVV 454/9
+bud_nekk_othdebt_2025,eva_nekk,2025,23105,,,executed,src_nekk_jr2025_nbb,strong,2025 overige ST schulden 23105 vs 16546; tick1378; primary official NBB WVV 48
+bud_nekk_accrued_2025,eva_nekk,2025,225565,,,executed,src_nekk_jr2025_nbb,strong,2025 overlopend passief 225565 vs 264674; tick1378; primary official NBB WVV 492/3
+bud_nekk_brutomarge_2025,eva_nekk,2025,2960922,,,executed,src_nekk_jr2025_nbb,strong,2025 brutomarge 2960922 vs 2810029; omzet 70 empty; subsidies 73 empty; tick1378; primary official NBB WVV 9900
+bud_nekk_brutomarge_2024,eva_nekk,2024,2810029,,,executed,src_nekk_jr2025_nbb,strong,2024 brutomarge 2810029 comparative; tick1378; primary official NBB WVV 9900
+bud_nekk_goods_diensten_2025,eva_nekk,2025,3666352,,,executed,src_nekk_jr2025_nbb,strong,2025 handelsgoederen+diensten 3666352 vs 3630150 (60/61 combined; no split); tick1378; primary official NBB WVV 60/61
+bud_nekk_goods_diensten_2024,eva_nekk,2024,3630150,,,executed,src_nekk_jr2025_nbb,strong,2024 handelsgoederen+diensten 3630150 comparative; tick1378; primary official NBB WVV 60/61
+bud_nekk_pers_2025,eva_nekk,2025,2566125,,,executed,src_nekk_jr2025_nbb,strong,2025 bezoldigingen 2566125 / 49.4 VTE / 69868 uur / YE 47.5 VTE; tick1378; primary official NBB WVV 62 9087
+bud_nekk_pers_2024,eva_nekk,2024,2387985,,,executed,src_nekk_jr2025_nbb,strong,2024 bezoldigingen 2387985 / 48.8 VTE comparative; tick1378; primary official NBB WVV 62
+bud_nekk_deprec_2025,eva_nekk,2025,234819,,,executed,src_nekk_jr2025_nbb,strong,2025 afschrijvingen 234819 vs 225495; tick1378; primary official NBB WVV 630
+bud_nekk_wv_2025,eva_nekk,2025,154,,,executed,src_nekk_jr2025_nbb,strong,2025 waardeverminderingen 154; tick1378; primary official NBB WVV 631/4
+bud_nekk_othcost_2025,eva_nekk,2025,30551,,,executed,src_nekk_jr2025_nbb,strong,2025 andere bedrijfskosten 30551 vs 50287; tick1378; primary official NBB WVV 640/8
+bud_nekk_expl_2025,eva_nekk,2025,129273,,,executed,src_nekk_jr2025_nbb,strong,2025 bedrijfswinst 129273 vs 146262; tick1378; primary official NBB WVV 9901
+bud_nekk_expl_2024,eva_nekk,2024,146262,,,executed,src_nekk_jr2025_nbb,strong,2024 bedrijfswinst 146262 comparative; tick1378; primary official NBB WVV 9901
+bud_nekk_fininc_2025,eva_nekk,2025,3977,,,executed,src_nekk_jr2025_nbb,strong,2025 financiele opbrengsten 3977 vs 2914; tick1378; primary official NBB WVV 75
+bud_nekk_fincost_2025,eva_nekk,2025,51638,,,executed,src_nekk_jr2025_nbb,strong,2025 financiele kosten 51638 vs 53690; tick1378; primary official NBB WVV 65
+bud_nekk_pnl_2025,eva_nekk,2025,81612,,,executed,src_nekk_jr2025_nbb,strong,2025 PnL 9904 81612 vs 95486 overgedragen; commissaris 81612; tick1378; primary official NBB WVV
+bud_nekk_pnl_2024,eva_nekk,2024,95486,,,executed,src_nekk_jr2025_nbb,strong,2024 PnL 95486 comparative; tick1378; primary official NBB WVV 9904
+bud_nekk_comm_2025,eva_nekk,2025,6726,,,executed,src_nekk_jr2025_nbb,strong,2025 commissaris Callens Vandelanotte / Ken Snoeks 6725.80 excl btw; tick1378; primary official NBB WVV 6.6
+bud_nekk_train_2025,eva_nekk,2025,5738,,,executed,src_nekk_jr2025_nbb,strong,2025 formele opleiding mannen 5738 (3 koppen / 159 uur); tick1378; primary official NBB WVV 5803
+bud_nekk_in_vte_2025,eva_nekk,2025,88,,,executed,src_nekk_jr2025_nbb,strong,2025 ingetreden 88.1 VTE / 87+2 koppen (seizoen); tick1378; primary official NBB WVV 205
+bud_nekk_out_vte_2025,eva_nekk,2025,87,,,executed,src_nekk_jr2025_nbb,strong,2025 uitgetreden 87 VTE / 85+3 koppen (seizoen); tick1378; primary official NBB WVV 305
