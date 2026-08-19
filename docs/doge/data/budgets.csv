@@ -39388,3 +39388,60 @@ bud_mrch_div_2025,agb_merchtem,2025,25000,,,executed,src_mrch_jr2025_nbb,strong,
 bud_mrch_overgedragen_dest_2025,agb_merchtem,2025,565400,,,executed,src_mrch_jr2025_nbb,strong,2025 over te dragen winst 565400; tick1411; primary official NBB WVV 14
 bud_mrch_capex_2025,agb_merchtem,2025,48876,,,executed,src_mrch_jr2025_nbb,strong,2025 capex MVA aanschaf 48876; tick1411; primary official NBB WVV 8169
 bud_mrch_commissaris_2025,agb_merchtem,2025,3705,,,executed,src_mrch_jr2025_nbb,strong,2025 commissaris fee 3705; tick1411; primary official NBB WVV 6.6
+bud_ioka_assets_2025,igs_ioka,2025,70495800,,,executed,src_ioka_jr2025_nbb,strong,2025 assets 70495800 VOL-inb 20/58; tick1412; primary official NBB WVV
+bud_ioka_assets_2024,igs_ioka,2024,73124336,,,executed,src_ioka_jr2025_nbb,strong,2024 assets 73124336 comparative; tick1412; primary official NBB WVV 20/58
+bud_ioka_fixed_2025,igs_ioka,2025,34956223,,,executed,src_ioka_jr2025_nbb,strong,2025 vaste activa 34956223 vs 38365288; tick1412; primary official NBB WVV 21/28
+bud_ioka_iva_2025,igs_ioka,2025,641727,,,executed,src_ioka_jr2025_nbb,strong,2025 IVA 641727 vs 140591; tick1412; primary official NBB WVV 21
+bud_ioka_mva_2025,igs_ioka,2025,33676588,,,executed,src_ioka_jr2025_nbb,strong,2025 MVA 33676588 vs 37587770; tick1412; primary official NBB WVV 22/27
+bud_ioka_gebouwen_2025,igs_ioka,2025,8085926,,,executed,src_ioka_jr2025_nbb,strong,2025 terreinen/gebouwen 8085926 vs 8269228; tick1412; primary official NBB WVV 22
+bud_ioka_machines_2025,igs_ioka,2025,19474614,,,executed,src_ioka_jr2025_nbb,strong,2025 machines 19474614 vs 21823790; tick1412; primary official NBB WVV 23
+bud_ioka_meubilair_2025,igs_ioka,2025,6018332,,,executed,src_ioka_jr2025_nbb,strong,2025 meubilair 6018332 vs 7459542; tick1412; primary official NBB WVV 24
+bud_ioka_cip_2025,igs_ioka,2025,97715,,,executed,src_ioka_jr2025_nbb,strong,2025 CIP 97715 vs 35209; tick1412; primary official NBB WVV 27
+bud_ioka_fva_2025,igs_ioka,2025,637908,,,executed,src_ioka_jr2025_nbb,strong,2025 FVA 637908 (verbonden 600000 PATRIMONIUM MBS 60pct); tick1412; primary official NBB WVV 28
+bud_ioka_related_fva_2025,igs_ioka,2025,600000,,,executed,src_ioka_jr2025_nbb,strong,2025 verbonden deelnemingen 600000 NV PATRIMONIUM MBS 0886391839 60pct; tick1412; primary official NBB WVV 280
+bud_ioka_current_2025,igs_ioka,2025,35539577,,,executed,src_ioka_jr2025_nbb,strong,2025 vlottend 35539577 vs 34759047; tick1412; primary official NBB WVV 29/58
+bud_ioka_strecv_2025,igs_ioka,2025,15986508,,,executed,src_ioka_jr2025_nbb,strong,2025 ST vorderingen 15986508 vs 17417214; tick1412; primary official NBB WVV 40/41
+bud_ioka_trade_recv_2025,igs_ioka,2025,7388600,,,executed,src_ioka_jr2025_nbb,strong,2025 handelsvorderingen 7388600 vs 8921793; tick1412; primary official NBB WVV 40
+bud_ioka_othrecv_2025,igs_ioka,2025,8597908,,,executed,src_ioka_jr2025_nbb,strong,2025 overige vorderingen 8597908 vs 8495421 counterpart unpublished; tick1412; primary official NBB WVV 41
+bud_ioka_invest_2025,igs_ioka,2025,11793072,,,executed,src_ioka_jr2025_nbb,strong,2025 geldbeleggingen 11793072 (aandelen 11723817 + termijn 69254); tick1412; primary official NBB WVV 50/53
+bud_ioka_cash_2025,igs_ioka,2025,6623599,,,executed,src_ioka_jr2025_nbb,strong,2025 liquide middelen 6623599 JUMP vs 5597357; tick1412; primary official NBB WVV 54/58
+bud_ioka_cash_2024,igs_ioka,2024,5597357,,,executed,src_ioka_jr2025_nbb,strong,2024 liquide middelen 5597357 comparative; tick1412; primary official NBB WVV 54/58
+bud_ioka_prepaid_2025,igs_ioka,2025,1136399,,,executed,src_ioka_jr2025_nbb,strong,2025 overlopend actief 1136399 JUMP vs 1811 split unpublished; tick1412; primary official NBB WVV 490/1
+bud_ioka_equity_2025,igs_ioka,2025,53356241,,,executed,src_ioka_jr2025_nbb,strong,2025 EV 53356241 vs 53226676; tick1412; primary official NBB WVV 10/15
+bud_ioka_inbreng_2025,igs_ioka,2025,1175650,,,executed,src_ioka_jr2025_nbb,strong,2025 inbreng onbeschikbaar 1175650; tick1412; primary official NBB WVV 111
+bud_ioka_reserves_2025,igs_ioka,2025,48967100,,,executed,src_ioka_jr2025_nbb,strong,2025 reserves 48967100 (onbeschikbaar 117540 + beschikbaar 48849560); tick1412; primary official NBB WVV 13
+bud_ioka_capsub_2025,igs_ioka,2025,3213491,,,executed,src_ioka_jr2025_nbb,strong,2025 kapitaalsubsidies 3213491 vs 3141158; tick1412; primary official NBB WVV 15
+bud_ioka_prov_2025,igs_ioka,2025,6196940,,,executed,src_ioka_jr2025_nbb,strong,2025 voorzieningen 6196940 (pensioen 2583435 + herstel 1976936 + milieu 1157569 + overige 479000); tick1412; primary official NBB WVV 16
+bud_ioka_pension_prov_2025,igs_ioka,2025,2583435,,,executed,src_ioka_jr2025_nbb,strong,2025 pensioenprovisie responsabilisering 2583435; tick1412; primary official NBB WVV 160 / 6.14
+bud_ioka_debt_2025,igs_ioka,2025,10942618,,,executed,src_ioka_jr2025_nbb,strong,2025 schulden 10942618 DROP vs 13689049; tick1412; primary official NBB WVV 17/49
+bud_ioka_debt_2024,igs_ioka,2024,13689049,,,executed,src_ioka_jr2025_nbb,strong,2024 schulden 13689049 comparative; tick1412; primary official NBB WVV 17/49
+bud_ioka_st_2025,igs_ioka,2025,10810181,,,executed,src_ioka_jr2025_nbb,strong,2025 ST schulden 10810181 vs 13569464; no LT; tick1412; primary official NBB WVV 42/48
+bud_ioka_sttrade_2025,igs_ioka,2025,3723399,,,executed,src_ioka_jr2025_nbb,strong,2025 leveranciers 3723399 DROP vs 7707109; tick1412; primary official NBB WVV 440/4
+bud_ioka_tax_st_2025,igs_ioka,2025,858438,,,executed,src_ioka_jr2025_nbb,strong,2025 tax ST 858438 vs 822096; tick1412; primary official NBB WVV 450/3
+bud_ioka_soc_st_2025,igs_ioka,2025,5333712,,,executed,src_ioka_jr2025_nbb,strong,2025 soc ST 5333712 vs 4523804; tick1412; primary official NBB WVV 454/9
+bud_ioka_stother_2025,igs_ioka,2025,891585,,,executed,src_ioka_jr2025_nbb,strong,2025 overige ST 891585 vs 516365 (MBS 770753 + rest unpublished); tick1412; primary official NBB WVV 47/48
+bud_ioka_deferred_pass_2025,igs_ioka,2025,132437,,,executed,src_ioka_jr2025_nbb,strong,2025 overlopend passief 132437 vs 119585; tick1412; primary official NBB WVV 492/3
+bud_ioka_omzet_2025,igs_ioka,2025,68483560,,,executed,src_ioka_jr2025_nbb,strong,2025 omzet 68483560 vs 66836065 (gemeenten 51787856 / bedrijven+particulieren 16695704); tick1412; primary official NBB WVV 70
+bud_ioka_omzet_2024,igs_ioka,2024,66836065,,,executed,src_ioka_jr2025_nbb,strong,2024 omzet 66836065 comparative; tick1412; primary official NBB WVV 70
+bud_ioka_omzet_gem_2025,igs_ioka,2025,51787856,,,executed,src_ioka_jr2025_nbb,strong,2025 omzet gemeenten 51787856 vs 49462767; tick1412; primary official NBB WVV 6.10
+bud_ioka_omzet_priv_2025,igs_ioka,2025,16695704,,,executed,src_ioka_jr2025_nbb,strong,2025 omzet bedrijven+particulieren 16695704 vs 17373297; tick1412; primary official NBB WVV 6.10
+bud_ioka_othops_2025,igs_ioka,2025,2893464,,,executed,src_ioka_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 2893464 (740 679438); tick1412; primary official NBB WVV 74
+bud_ioka_subs_2025,igs_ioka,2025,679438,,,executed,src_ioka_jr2025_nbb,strong,2025 exploitatiesubsidies 679438 vs 647708; tick1412; primary official NBB WVV 740
+bud_ioka_diensten_2025,igs_ioka,2025,34683658,,,executed,src_ioka_jr2025_nbb,strong,2025 diensten 34683658 vs 33768399 split unpublished except uitzend 3117976; tick1412; primary official NBB WVV 61
+bud_ioka_uitzend_2025,igs_ioka,2025,3117976,,,executed,src_ioka_jr2025_nbb,strong,2025 uitzendkosten 3117976 / 46 VTE / 59 / 90790 uur; tick1412; primary official NBB WVV 617
+bud_ioka_pers_2025,igs_ioka,2025,29075964,,,executed,src_ioka_jr2025_nbb,strong,2025 pers 29075964 / 470.3 VTE / 575518 uur / YE 549; tick1412; primary official NBB WVV 62
+bud_ioka_pers_2024,igs_ioka,2024,28286658,,,executed,src_ioka_jr2025_nbb,strong,2024 pers 28286658 comparative; tick1412; primary official NBB WVV 62
+bud_ioka_afschr_2025,igs_ioka,2025,6866597,,,executed,src_ioka_jr2025_nbb,strong,2025 afschrijvingen 6866597 vs 7074720; tick1412; primary official NBB WVV 630
+bud_ioka_othcost_2025,igs_ioka,2025,1200669,,,executed,src_ioka_jr2025_nbb,strong,2025 andere bedrijfskosten 1200669 vs 1000204; tick1412; primary official NBB WVV 640/8
+bud_ioka_expl_2025,igs_ioka,2025,-424213,,,executed,src_ioka_jr2025_nbb,strong,2025 expl -424213 vs -287175; tick1412; primary official NBB WVV 9901
+bud_ioka_expl_2024,igs_ioka,2024,-287175,,,executed,src_ioka_jr2025_nbb,strong,2024 expl -287175 comparative; tick1412; primary official NBB WVV 9901
+bud_ioka_fininc_2025,igs_ioka,2025,512571,,,executed,src_ioka_jr2025_nbb,strong,2025 fin opbr 512571 (capsub 470161); tick1412; primary official NBB WVV 75
+bud_ioka_capsub_pnl_2025,igs_ioka,2025,470161,,,executed,src_ioka_jr2025_nbb,strong,2025 kapitaalsubsidies in resultaat 470161; tick1412; primary official NBB WVV 9125
+bud_ioka_fincost_2025,igs_ioka,2025,31126,,,executed,src_ioka_jr2025_nbb,strong,2025 fin kosten 31126; tick1412; primary official NBB WVV 65
+bud_ioka_pnl_2025,igs_ioka,2025,57232,,,executed,src_ioka_jr2025_nbb,strong,2025 PnL 57232 vs 176029 all to reserves; tick1412; primary official NBB WVV 9904
+bud_ioka_pnl_2024,igs_ioka,2024,176029,,,executed,src_ioka_jr2025_nbb,strong,2024 PnL 176029 comparative; tick1412; primary official NBB WVV 9904
+bud_ioka_div_2025,igs_ioka,2025,0,,,executed,src_ioka_jr2025_nbb,strong,2025 dividend 0 (694 empty); tick1412; primary official NBB WVV 694
+bud_ioka_capex_2025,igs_ioka,2025,3456552,,,executed,src_ioka_jr2025_nbb,strong,2025 capex 3456552 (IVA 572439 + geb 2612 + mach 1756961 + meub 1062034 + CIP 62506); tick1412; primary official NBB WVV 8024/8161/8162/8163/8166
+bud_ioka_commissaris_2025,igs_ioka,2025,16609,,,executed,src_ioka_jr2025_nbb,strong,2025 commissaris fee 16609 EY B160; tick1412; primary official NBB WVV 9505
+bud_ioka_bestuurders_2025,igs_ioka,2025,52659,,,executed,src_ioka_jr2025_nbb,strong,2025 bestuurders 9503 52659 (presentiegeld 42683.05 + reis + SVZ); tick1412; primary official NBB WVV 9503
+bud_ioka_mbs_share_2025,igs_ioka,2025,-770753,,,executed,src_ioka_jr2025_nbb,strong,2025 Maatschap MBS IOK share -770753 (60pct of -1509614) under overige schulden; tick1412; primary official NBB WVV 6.19/6.20
