@@ -36484,3 +36484,45 @@ bud_nuhm_reldebt_2025,nv_nuhm,2025,7413,,,executed,src_nuhm_jr2025_nbb,strong,20
 bud_nuhm_mortgage_book_2025,nv_nuhm,2025,6000000,,,executed,src_nuhm_jr2025_nbb,strong,2025 hypotheek boekwaarde bezwaarde activa 6000000; tick1361; primary official NBB WVV 91611
 bud_nuhm_lastgeving_2025,nv_nuhm,2025,15000000,,,executed,src_nuhm_jr2025_nbb,strong,2025 hypothecaire lastgeving ING 15000000 (inschrijving 25000 + volmacht 5975000); tick1361; primary official NBB WVV 6.19; not TE-additive
 bud_nuhm_taxlat_2025,nv_nuhm,2025,1461353,,,executed,src_nuhm_jr2025_nbb,strong,2025 actieve latenties fiscale verliezen 1461353; tick1361; primary official NBB WVV 9142; not TE-additive
+bud_slim_assets_2025,cv_slim,2025,4282111,,,executed,src_slim_jr2025_nbb,strong,2025 assets 4282111 VOL-inb 20/58; tick1362; primary official NBB WVV
+bud_slim_assets_2024,cv_slim,2024,5334436,,,executed,src_slim_jr2025_nbb,strong,2024 assets 5334436 comparative; tick1362; primary official NBB WVV 20/58
+bud_slim_fixed_2025,cv_slim,2025,2142965,,,executed,src_slim_jr2025_nbb,strong,2025 vaste activa 2142965 JUMP vs 1305682; tick1362; primary official NBB WVV 21/28
+bud_slim_iva_2025,cv_slim,2025,489620,,,executed,src_slim_jr2025_nbb,strong,2025 IVA 489620 DROP vs 734480 (licences/software); tick1362; primary official NBB WVV 21
+bud_slim_mva_2025,cv_slim,2025,1653345,,,executed,src_slim_jr2025_nbb,strong,2025 MVA 1653345 JUMP vs 571202; tick1362; primary official NBB WVV 22/27
+bud_slim_machines_2025,cv_slim,2025,1645271,,,executed,src_slim_jr2025_nbb,strong,2025 installaties/machines 1645271 JUMP vs 565445; tick1362; primary official NBB WVV 23
+bud_slim_machacq_2025,cv_slim,2025,1179694,,,executed,src_slim_jr2025_nbb,strong,2025 machines aanschaf 1179694; tick1362; primary official NBB WVV 6.3.2 8162
+bud_slim_current_2025,cv_slim,2025,2139146,,,executed,src_slim_jr2025_nbb,strong,2025 vlottende activa 2139146 DROP vs 4028754; tick1362; primary official NBB WVV 29/58
+bud_slim_current_2024,cv_slim,2024,4028754,,,executed,src_slim_jr2025_nbb,strong,2024 vlottende activa 4028754 comparative; tick1362; primary official NBB WVV 29/58
+bud_slim_wip_2025,cv_slim,2025,65734,,,executed,src_slim_jr2025_nbb,strong,2025 bestellingen in uitvoering 65734; tick1362; primary official NBB WVV 37
+bud_slim_strecv_2025,cv_slim,2025,699831,,,executed,src_slim_jr2025_nbb,strong,2025 ST vorderingen 699831 (trade 511274 + other 188557); tick1362; primary official NBB WVV 40/41
+bud_slim_cash_2025,cv_slim,2025,1030902,,,executed,src_slim_jr2025_nbb,strong,2025 liquide middelen 1030902 JUMP vs 810663; tick1362; primary official NBB WVV 54/58
+bud_slim_cash_2024,cv_slim,2024,810663,,,executed,src_slim_jr2025_nbb,strong,2024 liquide middelen 810663 comparative; tick1362; primary official NBB WVV 54/58
+bud_slim_term_2024,cv_slim,2024,2000000,,,executed,src_slim_jr2025_nbb,strong,2024 termijnrekeningen 2000000 (1.5m <1m + 0.5m 1m-1y) gone 2025; tick1362; primary official NBB WVV 53
+bud_slim_prepaid_2025,cv_slim,2025,342678,,,executed,src_slim_jr2025_nbb,strong,2025 overlopend actief 342678 (kosten 331015 + opbrengsten 11663); tick1362; primary official NBB WVV 490/1
+bud_slim_equity_2025,cv_slim,2025,2599382,,,executed,src_slim_jr2025_nbb,strong,2025 eigen vermogen 2599382 DROP vs 3954599; matches parent DC 6.5.1; tick1362; primary official NBB WVV 10/15
+bud_slim_equity_2024,cv_slim,2024,3954599,,,executed,src_slim_jr2025_nbb,strong,2024 eigen vermogen 3954599 comparative; tick1362; primary official NBB WVV 10/15
+bud_slim_inbreng_2025,cv_slim,2025,2599382,,,executed,src_slim_jr2025_nbb,strong,2025 onbeschikbare inbreng 2599382 (all equity; loss absorbed); tick1362; primary official NBB WVV 111
+bud_slim_debt_2025,cv_slim,2025,1682728,,,executed,src_slim_jr2025_nbb,strong,2025 schulden 1682728 JUMP vs 1379837; tick1362; primary official NBB WVV 17/49
+bud_slim_st_2025,cv_slim,2025,1474417,,,executed,src_slim_jr2025_nbb,strong,2025 ST schulden 1474417 JUMP vs 832833 (no LT debt); tick1362; primary official NBB WVV 42/48
+bud_slim_trade_2025,cv_slim,2025,1394096,,,executed,src_slim_jr2025_nbb,strong,2025 leveranciers 1394096 JUMP vs 728308; tick1362; primary official NBB WVV 440/4
+bud_slim_soc_2025,cv_slim,2025,80322,,,executed,src_slim_jr2025_nbb,strong,2025 bezoldigingen/sociale lasten 80322; tick1362; primary official NBB WVV 454/9
+bud_slim_accrued_2025,cv_slim,2025,208311,,,executed,src_slim_jr2025_nbb,strong,2025 overlopend passief 208311 (kosten 185124 + opbrengsten 23187); tick1362; primary official NBB WVV 492/3
+bud_slim_ops_2025,cv_slim,2025,2567574,,,executed,src_slim_jr2025_nbb,strong,2025 bedrijfsopbrengsten 2567574; tick1362; primary official NBB WVV 70/76A
+bud_slim_omzet_2025,cv_slim,2025,2393079,,,executed,src_slim_jr2025_nbb,strong,2025 omzet 2393079 DROP vs 2723349; 6.10 category/geo empty; tick1362; primary official NBB WVV 70
+bud_slim_omzet_2024,cv_slim,2024,2723349,,,executed,src_slim_jr2025_nbb,strong,2024 omzet 2723349 comparative; tick1362; primary official NBB WVV 70
+bud_slim_andere_2025,cv_slim,2025,126150,,,executed,src_slim_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 126150; tick1362; primary official NBB WVV 74
+bud_slim_opscost_2025,cv_slim,2025,3952610,,,executed,src_slim_jr2025_nbb,strong,2025 bedrijfskosten 3952610; tick1362; primary official NBB WVV 60/66A
+bud_slim_goods_2025,cv_slim,2025,1432077,,,executed,src_slim_jr2025_nbb,strong,2025 handelsgoederen 1432077; tick1362; primary official NBB WVV 60
+bud_slim_diensten_2025,cv_slim,2025,1471861,,,executed,src_slim_jr2025_nbb,strong,2025 diensten 1471861 JUMP vs 1137140; tick1362; primary official NBB WVV 61
+bud_slim_pers_2025,cv_slim,2025,698849,,,executed,src_slim_jr2025_nbb,strong,2025 pers 698849 / avg VTE 4.8 / YE 5 koppen; tick1362; primary official NBB WVV 62/6.10
+bud_slim_afschr_2025,cv_slim,2025,348764,,,executed,src_slim_jr2025_nbb,strong,2025 afschrijvingen 348764; tick1362; primary official NBB WVV 630
+bud_slim_expl_2025,cv_slim,2025,-1385036,,,executed,src_slim_jr2025_nbb,strong,2025 bedrijfsverlies -1385036 (was -1240478); tick1362; primary official NBB WVV 9901
+bud_slim_fininc_2025,cv_slim,2025,34634,,,executed,src_slim_jr2025_nbb,strong,2025 financiele opbrengsten 34634 (vlottende); tick1362; primary official NBB WVV 75
+bud_slim_fincost_2025,cv_slim,2025,3176,,,executed,src_slim_jr2025_nbb,strong,2025 financiele kosten 3176; tick1362; primary official NBB WVV 65
+bud_slim_pnl_2025,cv_slim,2025,-1355216,,,executed,src_slim_jr2025_nbb,strong,2025 PnL 9904 -1355216 DROP vs -1137032; tick1362; primary official NBB WVV; matches parent DC 6.5.1
+bud_slim_pnl_2024,cv_slim,2024,-1137032,,,executed,src_slim_jr2025_nbb,strong,2024 PnL -1137032 comparative; tick1362; primary official NBB WVV 9904
+bud_slim_comm_2025,cv_slim,2025,10430,,,executed,src_slim_jr2025_nbb,strong,2025 commissaris EY 10430; tick1362; primary official NBB WVV 9505
+bud_slim_relrecv_2025,cv_slim,2025,194550,,,executed,src_slim_jr2025_nbb,strong,2025 verbonden ST vorderingen 194550 DROP vs 589770; tick1362; primary official NBB WVV 9291
+bud_slim_reldebt_2025,cv_slim,2025,322279,,,executed,src_slim_jr2025_nbb,strong,2025 verbonden ST schulden 322279 DROP vs 460923; tick1362; primary official NBB WVV 9351
+bud_slim_taxlat_2025,cv_slim,2025,11279467,,,executed,src_slim_jr2025_nbb,strong,2025 actieve latenties fiscale verliezen 11279467; tick1362; primary official NBB WVV 9142; not TE-additive
+bud_slim_inbreng_onttrek_2025,cv_slim,2025,1355216,,,executed,src_slim_jr2025_nbb,strong,2025 onttrekking aan inbreng 1355216 (absorbs year loss); tick1362; primary official NBB WVV 791

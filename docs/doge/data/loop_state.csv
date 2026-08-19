@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-19T00:50:00Z,rq_1361,1361,no,tick1361 Nuhmeris leftover NV residual; KBO 0560.976.140; live JR2025 NBB WVV PDF; sourced euros assets 19350925 cash 7959717 fva_sale 6049188 pnl -510182; FOI ready MyCSN/s-Lim/RE/ING/cash; next rq_1362 residual dual L5 VL; continuous hole_fill; next every-10 is 1370
+main,continuous,hole_fill,2026-08-19T01:20:00Z,rq_1362,1362,no,tick1362 s-Lim leftover CV residual; KBO 0679.631.191; live JR2025 NBB WVV PDF; sourced euros assets 4282111 omzet 2393079 pnl -1355216; FOI ready 6.10/votes/DV-loan; next rq_1363 residual dual L5 VL; continuous hole_fill; next every-10 is 1370
