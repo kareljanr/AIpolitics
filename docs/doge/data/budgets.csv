@@ -37193,3 +37193,58 @@ bud_miwa_pnl_2024,igs_miwa,2024,661566,,,executed,src_miwa_jr2025_nbb,strong,202
 bud_miwa_comm_2025,igs_miwa,2025,7678,,,executed,src_miwa_jr2025_nbb,strong,2025 commissaris Callens Vandelanotte / Erik Thuysbaert 7678; tick1374; primary official NBB WVV 9505
 bud_miwa_board_2025,igs_miwa,2025,39127,,,executed,src_miwa_jr2025_nbb,strong,2025 bestuurders 39127; tick1374; primary official NBB WVV 9503
 bud_miwa_vat_out_2025,igs_miwa,2025,227561,,,executed,src_miwa_jr2025_nbb,strong,2025 BTW door de vennootschap 227561 vs 247474; tick1374; primary official NBB WVV 6.13 9146
+bud_ivag_assets_2025,igs_ivag,2025,78394662,,,executed,src_ivag_jr2025_nbb,strong,2025 assets 78394662 VOL-kap 20/58; tick1375; primary official NBB WVV
+bud_ivag_assets_2024,igs_ivag,2024,68282738,,,executed,src_ivag_jr2025_nbb,strong,2024 assets 68282738 comparative; tick1375; primary official NBB WVV 20/58
+bud_ivag_fixed_2025,igs_ivag,2025,42377128,,,executed,src_ivag_jr2025_nbb,strong,2025 vaste activa 42377128 vs 41537715; tick1375; primary official NBB WVV 21/28
+bud_ivag_iva_2025,igs_ivag,2025,9806562,,,executed,src_ivag_jr2025_nbb,strong,2025 IVA 9806562 vs 9745113 after aanschaf 1666489 / YE aanschaf 21525050; tick1375; primary official NBB WVV 21
+bud_ivag_mva_2025,igs_ivag,2025,32155095,,,executed,src_ivag_jr2025_nbb,strong,2025 MVA 32155095 vs 31529466; tick1375; primary official NBB WVV 22/27
+bud_ivag_buildings_2025,igs_ivag,2025,10401643,,,executed,src_ivag_jr2025_nbb,strong,2025 terreinen en gebouwen 10401643 vs 10937780; tick1375; primary official NBB WVV 22
+bud_ivag_machines_2025,igs_ivag,2025,9270400,,,executed,src_ivag_jr2025_nbb,strong,2025 installaties/machines 9270400 vs 10061594 (aanschaf year 1079530); tick1375; primary official NBB WVV 23
+bud_ivag_rollend_2025,igs_ivag,2025,11674141,,,executed,src_ivag_jr2025_nbb,strong,2025 meubilair/rollend 11674141 vs 9764107 (aanschaf year 4382620); tick1375; primary official NBB WVV 24
+bud_ivag_cip_2025,igs_ivag,2025,808911,,,executed,src_ivag_jr2025_nbb,strong,2025 activa in aanbouw 808911 vs 765985 after aanschaf 775848; tick1375; primary official NBB WVV 27
+bud_ivag_fva_2025,igs_ivag,2025,415471,,,executed,src_ivag_jr2025_nbb,strong,2025 FVA 415471 (verbonden vordering 165494 + aandelen 235067 + borg 14910); tick1375; primary official NBB WVV 28
+bud_ivag_current_2025,igs_ivag,2025,36017534,,,executed,src_ivag_jr2025_nbb,strong,2025 vlottende activa 36017534 vs 26745023; tick1375; primary official NBB WVV 29/58
+bud_ivag_inv_2025,igs_ivag,2025,1778402,,,executed,src_ivag_jr2025_nbb,strong,2025 voorraden 1778402 (grond-hulp 180456 + handels 1597946; WV 506549); tick1375; primary official NBB WVV 3
+bud_ivag_strecv_2025,igs_ivag,2025,6809787,,,executed,src_ivag_jr2025_nbb,strong,2025 ST vorderingen 6809787 (trade 6453083 + other 356704); tick1375; primary official NBB WVV 40/41
+bud_ivag_cash_2025,igs_ivag,2025,26990182,,,executed,src_ivag_jr2025_nbb,strong,2025 liquide middelen 26990182 JUMP vs 17430362 (notes: delayed capex); tick1375; primary official NBB WVV 54/58
+bud_ivag_cash_2024,igs_ivag,2024,17430362,,,executed,src_ivag_jr2025_nbb,strong,2024 liquide middelen 17430362 comparative; tick1375; primary official NBB WVV 54/58
+bud_ivag_prepaid_2025,igs_ivag,2025,439163,,,executed,src_ivag_jr2025_nbb,strong,2025 overlopend actief 439163; tick1375; primary official NBB WVV 490/1
+bud_ivag_equity_2025,igs_ivag,2025,51188968,,,executed,src_ivag_jr2025_nbb,strong,2025 eigen vermogen 51188968 vs 36354631; tick1375; primary official NBB WVV 10/15
+bud_ivag_capital_2025,igs_ivag,2025,10946224,,,executed,src_ivag_jr2025_nbb,strong,2025 geplaatst kapitaal 10946224 / 44138 aandelen (I 18428 / V 11041 / O 14669); ECOV terug 4975624/20063 + toetreding 4977112/20069; tick1375; primary official NBB WVV 10
+bud_ivag_reserves_2025,igs_ivag,2025,4822867,,,executed,src_ivag_jr2025_nbb,strong,2025 reserves 4822867 (wettelijk 414312 + overige onbeschikbaar 4408555); tick1375; primary official NBB WVV 13
+bud_ivag_retained_2025,igs_ivag,2025,1210604,,,executed,src_ivag_jr2025_nbb,strong,2025 overgedragen winst 1210604 vs -895129 after PnL 2216561 / wettelijk 110828; tick1375; primary official NBB WVV 14
+bud_ivag_capsub_2025,igs_ivag,2025,34209194,,,executed,src_ivag_jr2025_nbb,strong,2025 kapitaalsubsidies 34209194 JUMP vs 21339933 (+12.9m Stad Gent investeringstoelage); tick1375; primary official NBB WVV 15
+bud_ivag_capsub_2024,igs_ivag,2024,21339933,,,executed,src_ivag_jr2025_nbb,strong,2024 kapitaalsubsidies 21339933 comparative; tick1375; primary official NBB WVV 15
+bud_ivag_prov_2025,igs_ivag,2025,5823296,,,executed,src_ivag_jr2025_nbb,strong,2025 voorzieningen 5823296 vs 6345259 (AEC groot onderhoud 5823296; 6.8 empty); tick1375; primary official NBB WVV 16
+bud_ivag_debt_2025,igs_ivag,2025,21382398,,,executed,src_ivag_jr2025_nbb,strong,2025 schulden 21382398 vs 25582848; LT 0 vs 1001351; resterende bank 1001350 tot juni 2026; tick1375; primary official NBB WVV 17/49
+bud_ivag_st_2025,igs_ivag,2025,20375567,,,executed,src_ivag_jr2025_nbb,strong,2025 ST schulden 20375567 vs 23483882; tick1375; primary official NBB WVV 42/48
+bud_ivag_stbank_2025,igs_ivag,2025,1001350,,,executed,src_ivag_jr2025_nbb,strong,2025 ST bank current portion 1001350 (last repayment juni 2026); tick1375; primary official NBB WVV 42
+bud_ivag_sttrade_2025,igs_ivag,2025,9378981,,,executed,src_ivag_jr2025_nbb,strong,2025 leveranciers 9378981 vs 8908120; tick1375; primary official NBB WVV 440/4
+bud_ivag_sttaxsoc_2025,igs_ivag,2025,6329688,,,executed,src_ivag_jr2025_nbb,strong,2025 tax/soc 6329688 (tax 597547 + wages 5732141); tick1375; primary official NBB WVV 45
+bud_ivag_stoth_2025,igs_ivag,2025,3665548,,,executed,src_ivag_jr2025_nbb,strong,2025 overige ST schulden 3665548 vs 3852160; tick1375; primary official NBB WVV 47/48
+bud_ivag_accrued_2025,igs_ivag,2025,1006831,,,executed,src_ivag_jr2025_nbb,strong,2025 overlopend passief 1006831; tick1375; primary official NBB WVV 492/3
+bud_ivag_ops_2025,igs_ivag,2025,82950889,,,executed,src_ivag_jr2025_nbb,strong,2025 bedrijfsopbrengsten 82950889 vs 86405052; tick1375; primary official NBB WVV 70/76A
+bud_ivag_omzet_2025,igs_ivag,2025,81142751,,,executed,src_ivag_jr2025_nbb,strong,2025 omzet 81142751 DROP vs 83374612; 6.10 category/geo empty; elektriciteit 0.8m geelimineerd; tick1375; primary official NBB WVV 70
+bud_ivag_omzet_2024,igs_ivag,2024,83374612,,,executed,src_ivag_jr2025_nbb,strong,2024 omzet 83374612 comparative; tick1375; primary official NBB WVV 70
+bud_ivag_othops_2025,igs_ivag,2025,1416601,,,executed,src_ivag_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 1416601 vs 2739451 (740 empty; textiel 0.2m + BTW-verhouding 0.3m); tick1375; primary official NBB WVV 74
+bud_ivag_goods_2025,igs_ivag,2025,3533919,,,executed,src_ivag_jr2025_nbb,strong,2025 handelsgoederen/grond-hulp 3533919 (aankopen 3956410 / voorraad -422491); tick1375; primary official NBB WVV 60
+bud_ivag_diensten_2025,igs_ivag,2025,38044488,,,executed,src_ivag_jr2025_nbb,strong,2025 diensten 38044488 vs 38210993 (46.9pct of omzet); tick1375; primary official NBB WVV 61
+bud_ivag_diensten_2024,igs_ivag,2024,38210993,,,executed,src_ivag_jr2025_nbb,strong,2024 diensten 38210993 comparative; tick1375; primary official NBB WVV 61
+bud_ivag_pers_2025,igs_ivag,2025,32837525,,,executed,src_ivag_jr2025_nbb,strong,2025 bezoldigingen 32837525 / 399 VTE / 405 koppen / YE 398 VTE; tick1375; primary official NBB WVV 62 9087
+bud_ivag_uitzend_2025,igs_ivag,2025,4342883,,,executed,src_ivag_jr2025_nbb,strong,2025 uitzend 4342883 / 57.8 VTE / 114115 uur; tick1375; primary official NBB WVV 617
+bud_ivag_deprec_2025,igs_ivag,2025,7313982,,,executed,src_ivag_jr2025_nbb,strong,2025 afschrijvingen 7313982 vs 8843747 (leasing aflopen -1.5m); tick1375; primary official NBB WVV 630
+bud_ivag_wv_2025,igs_ivag,2025,549827,,,executed,src_ivag_jr2025_nbb,strong,2025 WV 549827 (voorraad 506549 + trade 43278); tick1375; primary official NBB WVV 631/4
+bud_ivag_provchg_2025,igs_ivag,2025,-521963,,,executed,src_ivag_jr2025_nbb,strong,2025 voorzieningen netto terugname 521963 (toevoeg 630674 / besteding 1152637); tick1375; primary official NBB WVV 635/8
+bud_ivag_othcost_2025,igs_ivag,2025,1089279,,,executed,src_ivag_jr2025_nbb,strong,2025 andere bedrijfskosten 1089279 (tax 1010046 + other 79233); tick1375; primary official NBB WVV 640/8
+bud_ivag_nrcost_2025,igs_ivag,2025,17224,,,executed,src_ivag_jr2025_nbb,strong,2025 niet-recurrente bedrijfskosten 17224; tick1375; primary official NBB WVV 66A
+bud_ivag_expl_2025,igs_ivag,2025,86608,,,executed,src_ivag_jr2025_nbb,strong,2025 bedrijfswinst 86608 vs verlies 829792; tick1375; primary official NBB WVV 9901
+bud_ivag_expl_2024,igs_ivag,2024,-829792,,,executed,src_ivag_jr2025_nbb,strong,2024 bedrijfsverlies 829792 comparative; tick1375; primary official NBB WVV 9901
+bud_ivag_fininc_2025,igs_ivag,2025,2199632,,,executed,src_ivag_jr2025_nbb,strong,2025 financiele opbrengsten 2199632 (capsub 2108789 + intrest 17181 + divers 69289); tick1375; primary official NBB WVV 75
+bud_ivag_capsub_pl_2025,igs_ivag,2025,2108789,,,executed,src_ivag_jr2025_nbb,strong,2025 kapitaalsubsidies in PnL 2108789 vs 1397603; tick1375; primary official NBB WVV 9125
+bud_ivag_fincost_2025,igs_ivag,2025,72596,,,executed,src_ivag_jr2025_nbb,strong,2025 financiele kosten 72596 (schulden 3221 + other 52781 + nr 16594); tick1375; primary official NBB WVV 65/66B
+bud_ivag_tax_2025,igs_ivag,2025,-2917,,,executed,src_ivag_jr2025_nbb,strong,2025 belasting credit 2917; tick1375; primary official NBB WVV 67/77
+bud_ivag_pnl_2025,igs_ivag,2025,2216561,,,executed,src_ivag_jr2025_nbb,strong,2025 PnL 9904 2216561 vs 1404485 (9905 2216561 vs 574693); tick1375; primary official NBB WVV
+bud_ivag_pnl_2024,igs_ivag,2024,1404485,,,executed,src_ivag_jr2025_nbb,strong,2024 PnL 1404485 comparative (9905 574693); tick1375; primary official NBB WVV 9904
+bud_ivag_comm_2025,igs_ivag,2025,23572,,,executed,src_ivag_jr2025_nbb,strong,2025 commissaris Baker Tilly / Christel De Blander 23572; tick1375; primary official NBB WVV 9505
+bud_ivag_vat_out_2025,igs_ivag,2025,3662399,,,executed,src_ivag_jr2025_nbb,strong,2025 BTW door de vennootschap 3662399 vs 4285437; tick1375; primary official NBB WVV 6.13 9146
+bud_ivag_invest_2025,igs_ivag,2025,8000000,,,executed,src_ivag_jr2025_nbb,strong,2025 investeringen notes 8.0m (SAP 2.1m + rollend 4.1m + IT 0.277m); tick1375; primary official NBB WVV jaarverslag

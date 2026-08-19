@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-19T03:40:00Z,rq_1374,1374,no,tick1374 MIWA leftover IGS residual; KBO 0218.239.409; live JR2025 NBB WVV PDF; sourced euros assets 19597553 othops 13954081 diensten 10572385 pnl 32305; FOI ready othops 13.95m/diensten 10.57m/brand; next rq_1375 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-19T04:00:00Z,rq_1375,1375,no,tick1375 IVAGO leftover IGS residual; KBO 0252.828.916; live JR2025 NBB WVV PDF; sourced euros assets 78394662 omzet 81142751 diensten 38044488 pnl 2216561; FOI ready omzet 81.14m/diensten 38.04m/ECOV; next rq_1376 residual dual L5 VL; continuous hole_fill
