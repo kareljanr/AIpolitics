@@ -40139,3 +40139,23 @@ bud_rllk_pnl_2025,igs_rllk,2025,-24,,,executed,src_rllk_jr2025_nbb,strong,2025 P
 bud_rllk_pnl_2024,igs_rllk,2024,-24,,,executed,src_rllk_jr2025_nbb,strong,2024 PnL -24 comparative; tick1430; primary official NBB WVV 9904
 bud_rllk_div_2025,igs_rllk,2025,0,,,executed,src_rllk_jr2025_nbb,strong,2025 dividend 0 / no 694 on MIC-inb; tick1430; primary official NBB WVV
 bud_rllk_capex_2025,igs_rllk,2025,0,,,executed,src_rllk_jr2025_nbb,strong,2025 capex 0; no vaste activa; MIC-inb 6.1 not filed; tick1430; primary official NBB WVV
+bud_rpsk_assets_2025,igs_rpsk,2025,58035,,,executed,src_rpsk_jr2025_nbb,strong,2025 assets 58035 MIC-inb 20/58; tick1431; primary official NBB WVV
+bud_rpsk_assets_2024,igs_rpsk,2024,69033,,,executed,src_rpsk_jr2025_nbb,strong,2024 assets 69033 comparative; tick1431; primary official NBB WVV 20/58
+bud_rpsk_current_2025,igs_rpsk,2025,58035,,,executed,src_rpsk_jr2025_nbb,strong,2025 vlottend 58035 vs 69033; no vaste activa; tick1431; primary official NBB WVV 29/58
+bud_rpsk_cash_2025,igs_rpsk,2025,31653,,,executed,src_rpsk_jr2025_nbb,strong,2025 liquide middelen 31653 DROP vs 38681; tick1431; primary official NBB WVV 54/58
+bud_rpsk_cash_2024,igs_rpsk,2024,38681,,,executed,src_rpsk_jr2025_nbb,strong,2024 liquide middelen 38681 comparative; tick1431; primary official NBB WVV 54/58
+bud_rpsk_prepaid_2025,igs_rpsk,2025,26382,,,executed,src_rpsk_jr2025_nbb,strong,2025 prepaid 26382 vs 30352; tick1431; primary official NBB WVV 490/1
+bud_rpsk_equity_2025,igs_rpsk,2025,58035,,,executed,src_rpsk_jr2025_nbb,strong,2025 EV 58035 inbreng 20393 + overgedragen 37642 DROP vs 69033; tick1431; primary official NBB WVV 10/15
+bud_rpsk_equity_2024,igs_rpsk,2024,69033,,,executed,src_rpsk_jr2025_nbb,strong,2024 EV 69033 comparative; tick1431; primary official NBB WVV 10/15
+bud_rpsk_inbreng_2025,igs_rpsk,2025,20393,,,executed,src_rpsk_jr2025_nbb,strong,2025 inbreng onbeschikbaar 20393 vs 20393; tick1431; primary official NBB WVV 10/11 111
+bud_rpsk_overgedragen_2025,igs_rpsk,2025,37642,,,executed,src_rpsk_jr2025_nbb,strong,2025 overgedragen 37642 DROP vs 48640; tick1431; primary official NBB WVV 14
+bud_rpsk_debt_2025,igs_rpsk,2025,0,,,executed,src_rpsk_jr2025_nbb,strong,2025 schulden empty / 0 vs empty; tick1431; primary official NBB WVV 17/49
+bud_rpsk_brutomarge_2025,igs_rpsk,2025,-10959,,,executed,src_rpsk_jr2025_nbb,strong,2025 brutomarge -10959 vs -6602; omzet 70 empty; 60/61 empty; tick1431; primary official NBB WVV 9900
+bud_rpsk_brutomarge_2024,igs_rpsk,2024,-6602,,,executed,src_rpsk_jr2025_nbb,strong,2024 brutomarge -6602 comparative; tick1431; primary official NBB WVV 9900
+bud_rpsk_expl_2025,igs_rpsk,2025,-10959,,,executed,src_rpsk_jr2025_nbb,strong,2025 expl -10959 vs -6602; tick1431; primary official NBB WVV 9901
+bud_rpsk_expl_2024,igs_rpsk,2024,-6602,,,executed,src_rpsk_jr2025_nbb,strong,2024 expl -6602 comparative; tick1431; primary official NBB WVV 9901
+bud_rpsk_finkost_2025,igs_rpsk,2025,39,,,executed,src_rpsk_jr2025_nbb,strong,2025 fin kosten 39 vs 38; tick1431; primary official NBB WVV 65
+bud_rpsk_pnl_2025,igs_rpsk,2025,-10998,,,executed,src_rpsk_jr2025_nbb,strong,2025 PnL -10998 vs -6640; tick1431; primary official NBB WVV 9904
+bud_rpsk_pnl_2024,igs_rpsk,2024,-6640,,,executed,src_rpsk_jr2025_nbb,strong,2024 PnL -6640 comparative; tick1431; primary official NBB WVV 9904
+bud_rpsk_div_2025,igs_rpsk,2025,0,,,executed,src_rpsk_jr2025_nbb,strong,2025 dividend 0 / no 694; tick1431; primary official NBB WVV
+bud_rpsk_capex_2025,igs_rpsk,2025,0,,,executed,src_rpsk_jr2025_nbb,strong,2025 capex 0; MVA/IVA/FVA empty; 6.1.1/6.1.2/6.1.3 not filed; tick1431; primary official NBB WVV
