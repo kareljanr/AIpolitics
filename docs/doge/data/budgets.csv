@@ -41208,3 +41208,44 @@ bud_tpa_pnl_2025,apb_tpa,2025,614824,,,executed,src_tpa_jr2025_bbc,strong,2025 J
 bud_tpa_div_2025,apb_tpa,2025,0,,,executed,src_tpa_jr2025_bbc,strong,2025 dividend 0; rechthebbenden empty; tick1455; primary official BBC J5
 bud_tpa_capex_2025,apb_tpa,2025,49664,,,executed,src_tpa_jr2025_bbc,strong,2025 capex T2 49664 (T5 aankopen 53191; MVA 6674 + IVA 42990); tick1455; primary official BBC T2/T5
 bud_tpa_werksub_granted_2025,apb_tpa,2025,420903,,,executed,src_tpa_jr2025_bbc,strong,2025 J5 toegestane werkingssubsidies 420903 (T2 438623); tick1455; primary official BBC J5
+bud_pih_assets_2025,apb_pih,2025,3883158,,,executed,src_pih_jr2025_bbc,strong,2025 assets 3883158 (was 3826467); tick1456; primary official BBC J4
+bud_pih_current_2025,apb_pih,2025,2994949,,,executed,src_pih_jr2025_bbc,strong,2025 vlottend 2994949 (was 3063693); tick1456; primary official BBC J4
+bud_pih_cash_2025,apb_pih,2025,2246508,,,executed,src_pih_jr2025_bbc,strong,2025 liquide+geldbeleg 2246508 JUMP (was 2045302); tick1456; primary official BBC J4
+bud_pih_strecv_2025,apb_pih,2025,742468,,,executed,src_pih_jr2025_bbc,strong,2025 ST vorderingen 742468 (was 1001463); tick1456; primary official BBC J4
+bud_pih_trade_2025,apb_pih,2025,610589,,,executed,src_pih_jr2025_bbc,strong,2025 ruil vorderingen 610589 (was 829660); tick1456; primary official BBC J4
+bud_pih_ntruilrecv_2025,apb_pih,2025,131879,,,executed,src_pih_jr2025_bbc,strong,2025 niet-ruil vorderingen 131879 (was 171803); tick1456; primary official BBC J4
+bud_pih_voorraden_2025,apb_pih,2025,0,,,executed,src_pih_jr2025_bbc,strong,2025 voorraden empty; tick1456; primary official BBC J4
+bud_pih_prepaid_2025,apb_pih,2025,5972,,,executed,src_pih_jr2025_bbc,strong,2025 overlopend actief 5972 (was 16928); tick1456; primary official BBC J4
+bud_pih_fixed_2025,apb_pih,2025,888210,,,executed,src_pih_jr2025_bbc,strong,2025 vaste activa 888210 (was 762774); tick1456; primary official BBC J4
+bud_pih_iva_2025,apb_pih,2025,0,,,executed,src_pih_jr2025_bbc,strong,2025 IVA empty; tick1456; primary official BBC J4
+bud_pih_mva_2025,apb_pih,2025,776867,,,executed,src_pih_jr2025_bbc,strong,2025 MVA 776867 (was 616492); tick1456; primary official BBC J4
+bud_pih_install_2025,apb_pih,2025,706098,,,executed,src_pih_jr2025_bbc,strong,2025 installaties 706098 (was 560597); tick1456; primary official BBC J4
+bud_pih_meubilair_2025,apb_pih,2025,70769,,,executed,src_pih_jr2025_bbc,strong,2025 meubilair 70769 (was 55894); tick1456; primary official BBC J4
+bud_pih_fva_2025,apb_pih,2025,111342,,,executed,src_pih_jr2025_bbc,strong,2025 FVA 111342 DROP (was 146282; T5 andere mutaties -34940); tick1456; primary official BBC J4
+bud_pih_equity_2025,apb_pih,2025,2269027,,,executed,src_pih_jr2025_bbc,strong,2025 nettoactief 2269027 (was 2049108); tick1456; primary official BBC J4
+bud_pih_overgedragen_2025,apb_pih,2025,1905018,,,executed,src_pih_jr2025_bbc,strong,2025 gecumuleerd overschot 1905018 (was 1685100); tick1456; primary official BBC J4
+bud_pih_overignet_2025,apb_pih,2025,364009,,,executed,src_pih_jr2025_bbc,strong,2025 overig nettoactief 364009; tick1456; primary official BBC J4
+bud_pih_debt_2025,apb_pih,2025,1614131,,,executed,src_pih_jr2025_bbc,strong,2025 schulden 1614131 ALL ST DROP (was 1777358; LT empty; T4 fin debt 0); tick1456; primary official BBC J4
+bud_pih_stdebt_2025,apb_pih,2025,1614131,,,executed,src_pih_jr2025_bbc,strong,2025 ST schulden 1614131; tick1456; primary official BBC J4
+bud_pih_ruilpay_2025,apb_pih,2025,1366133,,,executed,src_pih_jr2025_bbc,strong,2025 ST ruil schulden 1366133 (was 1209767); tick1456; primary official BBC J4
+bud_pih_deferred_2025,apb_pih,2025,247998,,,executed,src_pih_jr2025_bbc,strong,2025 overlopend passief 247998 DROP (was 524952); tick1456; primary official BBC J4
+bud_pih_explontv_2025,apb_pih,2025,9974421,,,executed,src_pih_jr2025_bbc,strong,2025 expl ontvangsten J2 9974421; tick1456; primary official BBC J2
+bud_pih_expluitg_2025,apb_pih,2025,9641201,,,executed,src_pih_jr2025_bbc,strong,2025 expl uitgaven J2 9641201; tick1456; primary official BBC J2
+bud_pih_explsaldo_2025,apb_pih,2025,333220,,,executed,src_pih_jr2025_bbc,strong,2025 expl saldo / AFM 333220 (was 1098971 T2); tick1456; primary official BBC J2
+bud_pih_investsaldo_2025,apb_pih,2025,-504735,,,executed,src_pih_jr2025_bbc,strong,2025 investeringssaldo -504735; tick1456; primary official BBC J2
+bud_pih_bbr_2025,apb_pih,2025,-171515,,,executed,src_pih_jr2025_bbc,strong,2025 budgettair resultaat -171515 (was +790581); tick1456; primary official BBC J2
+bud_pih_cumbbr_2025,apb_pih,2025,1625917,,,executed,src_pih_jr2025_bbc,strong,2025 gecumuleerd BBR 1625917 (was 1797432); tick1456; primary official BBC J2
+bud_pih_omzet_2025,apb_pih,2025,2763115,,,executed,src_pih_jr2025_bbc,strong,2025 J5 opbrengsten uit de werking 2763115 (was 2734802); tick1456; primary official BBC J5
+bud_pih_diensten_2025,apb_pih,2025,2071729,,,executed,src_pih_jr2025_bbc,strong,2025 J5 goederen en diensten 2071729 (was 1950183); tick1456; primary official BBC J5
+bud_pih_pers_2025,apb_pih,2025,7578570,,,executed,src_pih_jr2025_bbc,strong,2025 J5 bezoldigingen 7578570 (was 7343126; VTE unpublished); tick1456; primary official BBC J5
+bud_pih_afschr_2025,apb_pih,2025,379300,,,executed,src_pih_jr2025_bbc,strong,2025 J5 afschrijvingen 379300 (was 294965); tick1456; primary official BBC J5
+bud_pih_werksub_2025,apb_pih,2025,7258216,,,executed,src_pih_jr2025_bbc,strong,2025 J5 werkingssubsidies 7258216 vs T2 6981644 gap 276572; tick1456; primary official BBC J5
+bud_pih_andere_opbr_2025,apb_pih,2025,213651,,,executed,src_pih_jr2025_bbc,strong,2025 J5 andere operationele opbrengsten 213651 (was 203819); tick1456; primary official BBC J5
+bud_pih_expl_2025,apb_pih,2025,205282,,,executed,src_pih_jr2025_bbc,strong,2025 J5 operationeel overschot 205282 (was 700196); tick1456; primary official BBC J5
+bud_pih_pnl_2025,apb_pih,2025,219919,,,executed,src_pih_jr2025_bbc,strong,2025 J5 overschot boekjaar 219919 DROP (was 719372); tick1456; primary official BBC J5
+bud_pih_div_2025,apb_pih,2025,0,,,executed,src_pih_jr2025_bbc,strong,2025 dividend 0; rechthebbenden empty; tick1456; primary official BBC J5
+bud_pih_capex_2025,apb_pih,2025,542295,,,executed,src_pih_jr2025_bbc,strong,2025 capex T2 542295 (T5 aankopen 539675; MVA 539675 + FVA 2620); tick1456; primary official BBC T2/T5
+bud_pih_werksub_granted_2025,apb_pih,2025,0,,,executed,src_pih_jr2025_bbc,strong,2025 J5 toegestane werkingssubsidies empty; tick1456; primary official BBC J5
+bud_pih_pers_vast_2025,apb_pih,2025,2101529,,,executed,src_pih_jr2025_bbc,strong,2025 T2 vastbenoemd niet-onderwijs 2101529; tick1456; primary official BBC T2
+bud_pih_pers_nietvast_2025,apb_pih,2025,5129989,,,executed,src_pih_jr2025_bbc,strong,2025 T2 niet-vastbenoemd niet-onderwijs 5129989; tick1456; primary official BBC T2
+bud_pih_provdot_2025,apb_pih,2025,6873978,,,executed,src_pih_jr2025_bbc,strong,2025 T2 algemene werksub van de provincie 6873978; tick1456; primary official BBC T2
