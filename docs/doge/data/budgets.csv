@@ -41377,3 +41377,43 @@ bud_klsp_div_2025,son_klsp,2025,0,,,executed,src_klsp_jr2025_nbb,strong,2025 div
 bud_klsp_capex_2025,son_klsp,2025,15749228,,,executed,src_klsp_jr2025_nbb,strong,2025 capex MVA aanschaf 8169 15749228; tick1459; primary official NBB WVV VKT-VZW 2026-00071749; leftover IGS/SON after leftover AGB/APB hunt
 bud_klsp_toevoeging_2025,son_klsp,2025,683321,,,executed,src_klsp_jr2025_nbb,strong,2025 toevoeging bestemde 691 683321; tick1459; primary official NBB WVV VKT-VZW 2026-00071749; leftover IGS/SON after leftover AGB/APB hunt
 bud_klsp_commissaris_2025,son_klsp,2025,7986,,,executed,src_klsp_jr2025_nbb,strong,2025 commissaris fee 7986 Callens Vandelanotte / Snoeks Ken; tick1459; primary official NBB WVV VKT-VZW 2026-00071749; leftover IGS/SON after leftover AGB/APB hunt
+bud_arbk_assets_2025,evap_arbk,2025,1321730,,,executed,src_arbk_jr2025_nbb,strong,2025 assets 1321730 (was 1302867); tick1460; primary official NBB WVV VKT-VZW 2026-00103572
+bud_arbk_current_2025,evap_arbk,2025,1145716,,,executed,src_arbk_jr2025_nbb,strong,2025 vlottend 1145716 (was 1141028); tick1460; primary official NBB WVV
+bud_arbk_cash_2025,evap_arbk,2025,971509,,,executed,src_arbk_jr2025_nbb,strong,2025 liquide middelen 971509 JUMP (was 760222); tick1460; primary official NBB WVV
+bud_arbk_geldbeleg_2025,evap_arbk,2025,86994,,,executed,src_arbk_jr2025_nbb,strong,2025 geldbeleggingen 86994 DROP (was 286994); tick1460; primary official NBB WVV
+bud_arbk_strecv_2025,evap_arbk,2025,34441,,,executed,src_arbk_jr2025_nbb,strong,2025 ST vorderingen 34441 (was 33022); tick1460; primary official NBB WVV
+bud_arbk_trade_2025,evap_arbk,2025,27110,,,executed,src_arbk_jr2025_nbb,strong,2025 handelsvorderingen 27110 (was 20026); tick1460; primary official NBB WVV
+bud_arbk_othrecv_2025,evap_arbk,2025,7331,,,executed,src_arbk_jr2025_nbb,strong,2025 overige ST vorderingen 7331 (was 12996); tick1460; primary official NBB WVV
+bud_arbk_voorraden_2025,evap_arbk,2025,41027,,,executed,src_arbk_jr2025_nbb,strong,2025 voorraden 41027 DROP (was 53605); tick1460; primary official NBB WVV
+bud_arbk_prepaid_2025,evap_arbk,2025,11745,,,executed,src_arbk_jr2025_nbb,strong,2025 overlopend actief 11745 (was 7185); tick1460; primary official NBB WVV
+bud_arbk_fixed_2025,evap_arbk,2025,176014,,,executed,src_arbk_jr2025_nbb,strong,2025 vaste activa 176014 (was 161839); tick1460; primary official NBB WVV
+bud_arbk_iva_2025,evap_arbk,2025,0,,,executed,src_arbk_jr2025_nbb,strong,2025 IVA empty; tick1460; primary official NBB WVV
+bud_arbk_mva_2025,evap_arbk,2025,175764,,,executed,src_arbk_jr2025_nbb,strong,2025 MVA 175764 (was 161589); tick1460; primary official NBB WVV
+bud_arbk_terreinen_2025,evap_arbk,2025,68513,,,executed,src_arbk_jr2025_nbb,strong,2025 terreinen/gebouwen 68513 (was 66276); tick1460; primary official NBB WVV
+bud_arbk_install_2025,evap_arbk,2025,105806,,,executed,src_arbk_jr2025_nbb,strong,2025 installaties 105806 (was 91797); tick1460; primary official NBB WVV
+bud_arbk_meubilair_2025,evap_arbk,2025,1445,,,executed,src_arbk_jr2025_nbb,strong,2025 meubilair 1445 (was 3516); tick1460; primary official NBB WVV
+bud_arbk_fva_2025,evap_arbk,2025,250,,,executed,src_arbk_jr2025_nbb,strong,2025 FVA 250 unchanged; tick1460; primary official NBB WVV
+bud_arbk_equity_2025,evap_arbk,2025,989753,,,executed,src_arbk_jr2025_nbb,strong,2025 eigen vermogen 989753 (was 909054); tick1460; primary official NBB WVV
+bud_arbk_fondsen_2025,evap_arbk,2025,346238,,,executed,src_arbk_jr2025_nbb,strong,2025 fondsen beginvermogen 346238 unchanged; tick1460; primary official NBB WVV
+bud_arbk_bestemde_2025,evap_arbk,2025,562816,,,executed,src_arbk_jr2025_nbb,strong,2025 bestemde fondsen 562816 unchanged; tick1460; primary official NBB WVV
+bud_arbk_overgedragen_2025,evap_arbk,2025,80699,,,executed,src_arbk_jr2025_nbb,strong,2025 overgedragen winst 80699; tick1460; primary official NBB WVV
+bud_arbk_debt_2025,evap_arbk,2025,331977,,,executed,src_arbk_jr2025_nbb,strong,2025 schulden 331977 DROP (was 393813; LT empty); tick1460; primary official NBB WVV
+bud_arbk_stdebt_2025,evap_arbk,2025,268325,,,executed,src_arbk_jr2025_nbb,strong,2025 ST schulden 268325 (was 332867); tick1460; primary official NBB WVV
+bud_arbk_lev_2025,evap_arbk,2025,74904,,,executed,src_arbk_jr2025_nbb,strong,2025 leveranciers 74904 DROP (was 106011); tick1460; primary official NBB WVV
+bud_arbk_bezold_2025,evap_arbk,2025,150950,,,executed,src_arbk_jr2025_nbb,strong,2025 bezoldigingen-schulden 150950 (was 172994); tick1460; primary official NBB WVV
+bud_arbk_taxpay_2025,evap_arbk,2025,42471,,,executed,src_arbk_jr2025_nbb,strong,2025 belastingschulden 42471 (was 53862); tick1460; primary official NBB WVV
+bud_arbk_deferred_2025,evap_arbk,2025,63652,,,executed,src_arbk_jr2025_nbb,strong,2025 overlopend passief 63652 (was 60946); tick1460; primary official NBB WVV
+bud_arbk_bruto_2025,evap_arbk,2025,1550751,,,executed,src_arbk_jr2025_nbb,strong,2025 brutomarge 1550751 (was 1450728); tick1460; primary official NBB WVV
+bud_arbk_omzet_2025,evap_arbk,2025,0,,,executed,src_arbk_jr2025_nbb,strong,2025 omzet 70 empty unpublished; tick1460; primary official NBB WVV
+bud_arbk_lidgeld_2025,evap_arbk,2025,0,,,executed,src_arbk_jr2025_nbb,strong,2025 lidgeld/subsidies 73 empty unpublished; tick1460; primary official NBB WVV
+bud_arbk_diensten_2025,evap_arbk,2025,0,,,executed,src_arbk_jr2025_nbb,strong,2025 60/61 empty unpublished so diensten unpublished as a split; tick1460; primary official NBB WVV
+bud_arbk_pers_2025,evap_arbk,2025,1397239,,,executed,src_arbk_jr2025_nbb,strong,2025 pers 62 1397239 JUMP (was 1300962); 19.5 VTE vs 19.7; 31194 uur; YE 19.6; tick1460; primary official NBB WVV
+bud_arbk_afschr_2025,evap_arbk,2025,64032,,,executed,src_arbk_jr2025_nbb,strong,2025 afschrijvingen 64032 (was 56935); tick1460; primary official NBB WVV
+bud_arbk_andere_2025,evap_arbk,2025,5111,,,executed,src_arbk_jr2025_nbb,strong,2025 andere bedrijfskosten 5111 (was 6834); tick1460; primary official NBB WVV
+bud_arbk_expl_2025,evap_arbk,2025,84369,,,executed,src_arbk_jr2025_nbb,strong,2025 bedrijfswinst 84369 (was 85997); tick1460; primary official NBB WVV
+bud_arbk_finopbr_2025,evap_arbk,2025,5255,,,executed,src_arbk_jr2025_nbb,strong,2025 financiele opbrengsten 5255 (rec 5254 + nrec 1); tick1460; primary official NBB WVV
+bud_arbk_finkost_2025,evap_arbk,2025,8925,,,executed,src_arbk_jr2025_nbb,strong,2025 financiele kosten 8925 all recurrent; tick1460; primary official NBB WVV
+bud_arbk_pnl_2025,evap_arbk,2025,80699,,,executed,src_arbk_jr2025_nbb,strong,2025 PnL 80699 (was 83009); tick1460; primary official NBB WVV
+bud_arbk_div_2025,evap_arbk,2025,0,,,executed,src_arbk_jr2025_nbb,strong,2025 dividend 0 VZW; tick1460; primary official NBB WVV
+bud_arbk_capex_2025,evap_arbk,2025,78207,,,executed,src_arbk_jr2025_nbb,strong,2025 capex MVA aanschaf 78207 (overdrachten 30680); tick1460; primary official NBB WVV
+bud_arbk_commissaris_2025,evap_arbk,2025,7210,,,executed,src_arbk_jr2025_nbb,strong,2025 commissaris fee 7210 Callens Vandelanotte / Snoeks Ken; tick1460; primary official NBB WVV

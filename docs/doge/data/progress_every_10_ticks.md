@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 1460** (2026-08-19)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1451-1460 leftover IGS/APB/EVAP: **RL Houtland** · **CoLimBo** · **Crematorium Hasselt** · **APB POA** · **APB TPA** · **APB PIH** · **APB De Schorre** · **APB Warande** · **Kempens Landschap** · **Arboretum Kalmthout** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1451-1460 is VL residual dual L5 leftover IGS/APB/EVAP (not near-complete of 348bn):** **Kempens Landschap** assets **82.17m** · **APB POA** assets **27.38m** · **APB Warande** assets **4.60m** · **APB PIH** assets **3.88m** · **APB De Schorre** assets **2.88m** · **APB TPA** assets **2.04m** · **Crematorium Hasselt** assets **1.86m** · **Arboretum Kalmthout** assets **1.32m** · **RL Houtland** assets **1.21m** · **CoLimBo** assets **0.91m** · prior leftover IGS/Bosgroep/AGB/NV/Fluvius stack retained |
+| **E. FOI-ready gaps** | **~1103** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1151** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek/klimaat-holding/energy-DSO/zorg/cultuur/landschap/bosgroep shells** (**NEW Arboretum Kalmthout** assets **EUR1.32m** brutomarge **EUR1.55m** pers **EUR1.40m** / **19.5 VTE** cash JUMP **EUR0.97m** geldbeleg DROP **EUR0.09m** · **Kempens Landschap** assets **EUR82.17m** · **APB Warande** assets **EUR4.60m** · **APB De Schorre** assets **EUR2.88m** · **APB PIH** assets **EUR3.88m** · **APB TPA** assets **EUR2.04m** · **APB POA** assets **EUR27.38m** · **Crematorium Hasselt** assets **EUR1.86m** · **CoLimBo** assets **EUR0.91m** · **RL Houtland** assets **EUR1.21m** · prior leftover BGKN 2.59m / BGZK 0.86m / BGAG 0.79m / BVB 0.57m / BGOV 0.99m / RLKGN 1.48m / RL Haspengouw 2.85m / RL Meetjesland 0.87m / RL Brabantse Kouters 1.46m / RL de Voorkempen 4.47m / prior leftover RL Dijleland 0.80m / Fluvius DNB + IGS stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1460)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 41418 |
+| commitments.csv | 5060 |
+| leaderboard.csv | 7263 |
+| entities.csv | 1205 |
+| sources.csv | 2976 |
+| FOI ready | 1103 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1151 |
+| research_queue open | rq_116 deferred + rq_1461 hole-fill after progress |
+
+### What improved since tick 1450
+
+- **VL residual dual JR2025 leftover IGS/APB/SON (tick1451-1459):** **Kempens Landschap** assets **82.17m** · **APB Warande** assets **4.60m** · **APB PIH** assets **3.88m** · **APB De Schorre** assets **2.88m** · **APB TPA** assets **2.04m** · **Crematorium Hasselt** assets **1.86m** · **RL Houtland** assets **1.21m** · **CoLimBo** assets **0.91m** · **APB POA** assets **27.38m** — no invented euros.
+- **NEW (tick1460):** **Arboretum Kalmthout vzw / EVAP AK** (KBO 0418.558.364) leftover EVAP of mined provincie Antwerpen + leftover of mined city Kalmthout (NOT AGB Kalmthout / city Kalmthout / leftover APB Inovant / Atlas / Kempens Landschap). Official NBB WVV VKT-VZW deposit **2026-00103572** PDF (2831768 bytes / 20p; AV 21.04.2026; header 05.05.2026; created 06.05.2026). Assets **1.321.730** · brutomarge **1.550.751** (omzet 70 empty; 73 empty; 60/61 empty) · pers **1.397.239** / **19,5 VTE** · cash **971.509 JUMP** vs 760222 · geldbeleg **86.994 DROP** vs 286994 · debt **331.977 DROP** vs 393813 · PnL **+80.699**. FOI ready. Every-10 progress refresh from on-disk CSVs.
+- **Dual map themes:** **leftover provincial EVAP + leftover IGS/SON + leftover APB** (Arboretum 1.32m / Kempens Landschap 82.17m / Warande 4.60m / De Schorre 2.88m / PIH 3.88m / TPA 2.04m / POA 27.38m / Crematorium Hasselt 1.86m / CoLimBo 0.91m / RL Houtland 1.21m) · prior leftover bosgroep IGS + leftover landschap IGS + leftover cultuur IGS + leftover waste daughter + leftover AGB + Nuhma + Fluvius DNB stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn.
+
 ## Snapshot at **tick 1450** (2026-08-19)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
