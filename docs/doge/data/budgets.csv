@@ -39660,3 +39660,45 @@ bud_crls_onttrekking_ev_2025,igs_crls,2025,25771,,,executed,src_crls_jr2025_nbb,
 bud_crls_toevoeging_ev_2025,igs_crls,2025,14659,,,executed,src_crls_jr2025_nbb,strong,2025 toevoeging eigen vermogen 14659; tick1417; primary official NBB WVV 691/2
 bud_crls_capex_2025,igs_crls,2025,2141,,,executed,src_crls_jr2025_nbb,strong,2025 capex aanschaf MVA 2141 / IVA empty; tick1417; primary official NBB WVV 8169
 bud_crls_vte_2025,igs_crls,2025,4.4,,,executed,src_crls_jr2025_nbb,strong,2025 gemiddeld 4.4 VTE / YE 4.4 / 7007 uur; tick1417; primary official NBB WVV 100/105
+bud_mwdv_assets_2025,igs_midwest_dv,2025,2855898,,,executed,src_mwdv_jr2025_nbb,strong,2025 assets 2855898 VKT-inb 20/58; tick1418; primary official NBB WVV
+bud_mwdv_assets_2024,igs_midwest_dv,2024,4055803,,,executed,src_mwdv_jr2025_nbb,strong,2024 assets 4055803 comparative; tick1418; primary official NBB WVV 20/58
+bud_mwdv_fixed_2025,igs_midwest_dv,2025,143375,,,executed,src_mwdv_jr2025_nbb,strong,2025 vaste activa 143375 vs 32936; tick1418; primary official NBB WVV 21/28
+bud_mwdv_mva_2025,igs_midwest_dv,2025,143250,,,executed,src_mwdv_jr2025_nbb,strong,2025 MVA 143250 vs 32811; tick1418; primary official NBB WVV 22/27
+bud_mwdv_machines_2025,igs_midwest_dv,2025,23924,,,executed,src_mwdv_jr2025_nbb,strong,2025 machines 23924 vs 27545; tick1418; primary official NBB WVV 23
+bud_mwdv_meubilair_2025,igs_midwest_dv,2025,119326,,,executed,src_mwdv_jr2025_nbb,strong,2025 meubilair 119326 JUMP vs 5267; tick1418; primary official NBB WVV 24
+bud_mwdv_fva_2025,igs_midwest_dv,2025,125,,,executed,src_mwdv_jr2025_nbb,strong,2025 FVA 125 unchanged; tick1418; primary official NBB WVV 28
+bud_mwdv_current_2025,igs_midwest_dv,2025,2712523,,,executed,src_mwdv_jr2025_nbb,strong,2025 vlottend 2712523 vs 4022866; tick1418; primary official NBB WVV 29/58
+bud_mwdv_strecv_2025,igs_midwest_dv,2025,1689643,,,executed,src_mwdv_jr2025_nbb,strong,2025 ST vorderingen 1689643 vs 1572051; tick1418; primary official NBB WVV 40/41
+bud_mwdv_trade_recv_2025,igs_midwest_dv,2025,404490,,,executed,src_mwdv_jr2025_nbb,strong,2025 handelsvorderingen 404490 vs 391618; tick1418; primary official NBB WVV 40
+bud_mwdv_othrecv_2025,igs_midwest_dv,2025,1285153,,,executed,src_mwdv_jr2025_nbb,strong,2025 overige vorderingen 1285153 vs 1180433; tick1418; primary official NBB WVV 41
+bud_mwdv_cash_2025,igs_midwest_dv,2025,1022880,,,executed,src_mwdv_jr2025_nbb,strong,2025 liquide middelen 1022880 DROP vs 2450816; tick1418; primary official NBB WVV 54/58
+bud_mwdv_cash_2024,igs_midwest_dv,2024,2450816,,,executed,src_mwdv_jr2025_nbb,strong,2024 liquide middelen 2450816 comparative; tick1418; primary official NBB WVV 54/58
+bud_mwdv_equity_2025,igs_midwest_dv,2025,1549246,,,executed,src_mwdv_jr2025_nbb,strong,2025 EV 1549246 vs 1770098; tick1418; primary official NBB WVV 10/15
+bud_mwdv_inbreng_2025,igs_midwest_dv,2025,33000,,,executed,src_mwdv_jr2025_nbb,strong,2025 inbreng 33000 DROP vs 35000; tick1418; primary official NBB WVV 10/11
+bud_mwdv_reserves_2025,igs_midwest_dv,2025,564062,,,executed,src_mwdv_jr2025_nbb,strong,2025 reserves 564062 unchanged; tick1418; primary official NBB WVV 13
+bud_mwdv_overgedragen_2025,igs_midwest_dv,2025,885829,,,executed,src_mwdv_jr2025_nbb,strong,2025 overgedragen 885829 vs 1171036; tick1418; primary official NBB WVV 14
+bud_mwdv_capsub_2025,igs_midwest_dv,2025,66355,,,executed,src_mwdv_jr2025_nbb,strong,2025 kapitaalsubsidies 66355 JUMP vs 0; tick1418; primary official NBB WVV 15
+bud_mwdv_defertax_2025,igs_midwest_dv,2025,22118,,,executed,src_mwdv_jr2025_nbb,strong,2025 uitgestelde belastingen 22118 JUMP vs 0; tick1418; primary official NBB WVV 168
+bud_mwdv_debt_2025,igs_midwest_dv,2025,1284533,,,executed,src_mwdv_jr2025_nbb,strong,2025 schulden 1284533 vs 2285704; tick1418; primary official NBB WVV 17/49
+bud_mwdv_debt_2024,igs_midwest_dv,2024,2285704,,,executed,src_mwdv_jr2025_nbb,strong,2024 schulden 2285704 comparative; tick1418; primary official NBB WVV 17/49
+bud_mwdv_st_2025,igs_midwest_dv,2025,1284533,,,executed,src_mwdv_jr2025_nbb,strong,2025 ST schulden 1284533 vs 2285704; tick1418; primary official NBB WVV 42/48
+bud_mwdv_sttrade_2025,igs_midwest_dv,2025,132176,,,executed,src_mwdv_jr2025_nbb,strong,2025 leveranciers 132176 vs 178242; tick1418; primary official NBB WVV 440/4
+bud_mwdv_tax_st_2025,igs_midwest_dv,2025,37600,,,executed,src_mwdv_jr2025_nbb,strong,2025 tax ST 37600 vs 32217; tick1418; primary official NBB WVV 450/3
+bud_mwdv_soc_st_2025,igs_midwest_dv,2025,267380,,,executed,src_mwdv_jr2025_nbb,strong,2025 soc ST 267380 vs 246490; tick1418; primary official NBB WVV 454/9
+bud_mwdv_stother_2025,igs_midwest_dv,2025,847378,,,executed,src_mwdv_jr2025_nbb,strong,2025 overige ST 847378 DROP vs 1828756; tick1418; primary official NBB WVV 47/48
+bud_mwdv_brutomarge_2025,igs_midwest_dv,2025,6367477,,,executed,src_mwdv_jr2025_nbb,strong,2025 brutomarge 6367477 vs 6220980; omzet 70 empty / 60/61 empty; tick1418; primary official NBB WVV 9900
+bud_mwdv_brutomarge_2024,igs_midwest_dv,2024,6220980,,,executed,src_mwdv_jr2025_nbb,strong,2024 brutomarge 6220980 comparative; tick1418; primary official NBB WVV 9900
+bud_mwdv_pers_2025,igs_midwest_dv,2025,2711560,,,executed,src_mwdv_jr2025_nbb,strong,2025 pers 2711560 vs 2341736 / 39.1 VTE; tick1418; primary official NBB WVV 62
+bud_mwdv_pers_2024,igs_midwest_dv,2024,2341736,,,executed,src_mwdv_jr2025_nbb,strong,2024 pers 2341736 comparative; tick1418; primary official NBB WVV 62
+bud_mwdv_vte_2025,igs_midwest_dv,2025,39.1,,,executed,src_mwdv_jr2025_nbb,strong,2025 VTE 39.1 vs 33.6 / 64515 uur / YE 39.1; tick1418; primary official NBB WVV 9087
+bud_mwdv_afschr_2025,igs_midwest_dv,2025,35720,,,executed,src_mwdv_jr2025_nbb,strong,2025 afschrijvingen 35720 vs 7746; tick1418; primary official NBB WVV 630
+bud_mwdv_othcost_2025,igs_midwest_dv,2025,3940747,,,executed,src_mwdv_jr2025_nbb,strong,2025 andere bedrijfskosten 3940747 vs 3869271; tick1418; primary official NBB WVV 640/8
+bud_mwdv_expl_2025,igs_midwest_dv,2025,-320550,,,executed,src_mwdv_jr2025_nbb,strong,2025 expl -320550 vs +2227; tick1418; primary official NBB WVV 9901
+bud_mwdv_expl_2024,igs_midwest_dv,2024,2227,,,executed,src_mwdv_jr2025_nbb,strong,2024 expl 2227 comparative; tick1418; primary official NBB WVV 9901
+bud_mwdv_finopbr_2025,igs_midwest_dv,2025,35343,,,executed,src_mwdv_jr2025_nbb,strong,2025 fin opbr 35343 vs 32497 waarvan capsub 22118; tick1418; primary official NBB WVV 75
+bud_mwdv_pnl_2025,igs_midwest_dv,2025,-285207,,,executed,src_mwdv_jr2025_nbb,strong,2025 PnL -285207 vs +34724; tick1418; primary official NBB WVV 9904
+bud_mwdv_pnl_2024,igs_midwest_dv,2024,34724,,,executed,src_mwdv_jr2025_nbb,strong,2024 PnL 34724 comparative; tick1418; primary official NBB WVV 9904
+bud_mwdv_div_2025,igs_midwest_dv,2025,0,,,executed,src_mwdv_jr2025_nbb,strong,2025 vergoeding inbreng 0 / 694 empty; tick1418; primary official NBB WVV 694
+bud_mwdv_overgedragen_dest_2025,igs_midwest_dv,2025,885829,,,executed,src_mwdv_jr2025_nbb,strong,2025 over te dragen winst 885829; tick1418; primary official NBB WVV 14
+bud_mwdv_capex_2025,igs_midwest_dv,2025,146159,,,executed,src_mwdv_jr2025_nbb,strong,2025 capex MVA aanschaf 146159; tick1418; primary official NBB WVV 8169
+bud_mwdv_comm_fee_2025,igs_midwest_dv,2025,6031,,,executed,src_mwdv_jr2025_nbb,strong,2025 commissaris Callens Vandelanotte 6031 excl btw; tick1418; primary official NBB WVV 6.6
