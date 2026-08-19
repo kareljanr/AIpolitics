@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-19T02:10:00Z,rq_1371,1371,no,tick1371 Veneco leftover IGS residual; KBO 0200.065.765; live JR2025 NBB WVV PDF; sourced euros assets 51983427 omzet 1184113 othops 5270686 inv 23116144 pnl 3231312; FOI ready omzet 1.18m/othops 5.27m/inv 23.12m; next rq_1372 residual dual L5 VL; continuous hole_fill
+main,continuous,hole_fill,2026-08-19T03:15:00Z,rq_1372,1372,no,tick1372 IGEMO leftover IGS residual; KBO 0213.349.124; live JR2025 NBB WVV PDF; sourced euros assets 25436788 omzet 5983847 othops 3002243 inv 19614912 pnl 2729; FOI ready omzet 5.98m/othops 3.00m/inv 19.61m; next rq_1373 residual dual L5 VL; continuous hole_fill
