@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 1480** (2026-08-19)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1471-1480 leftover woonmaatschappij: **Woonhaven** · **SW+** · **Vivendo** · **Thuisrand** · **Woonstroom** · **Woonkade** · **Woonveer** · **Woonboog** · **WMVA** · **Kanvaz** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1471-1480 is VL residual dual L5 leftover woonmaatschappij (not near-complete of 348bn):** **Woonhaven** assets **1.561bn** · **Vivendo** assets **605.93m** · **Woonboog** assets **520.06m** · **SW+** assets **401.69m** · **Kanvaz** assets **358.52m** · **WMVA** assets **350.87m** · **Woonstroom** assets **203.98m** · **Woonkade** assets **159.10m** · **Thuisrand** assets **143.37m** · **Woonveer** assets **122.30m** · prior leftover woonmaatschappij/tourism/IGS/APB/EVAP/Bosgroep/AGB/NV/Fluvius stack retained |
+| **E. FOI-ready gaps** | **~1123** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1171** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek/klimaat-holding/energy-DSO/zorg/cultuur/landschap/bosgroep/woonmaatschappij shells** (**NEW Kanvaz** assets **EUR358.52m** omzet **EUR20.11m** diensten **EUR9.15m** pers **EUR5.63m** / **74 VTE** cash DROP **EUR4.84m** debt JUMP **EUR280.47m** · **WMVA** assets **EUR350.87m** · **Woonboog** assets **EUR520.06m** · **Woonveer** assets **EUR122.30m** · **Woonkade** assets **EUR159.10m** · **Woonstroom** assets **EUR203.98m** · **Thuisrand** assets **EUR143.37m** · **Vivendo** assets **EUR605.93m** · **SW+** assets **EUR401.69m** · **Woonhaven** assets **EUR1.561bn** · prior leftover Thuispunt Gent 926.32m / Dimensa 633.53m / Woonmaatschappij Rivierenland 523.68m / Dender-Zuid 424.73m / Dijledal 352.69m / Woonpunt Waas 280.64m / Tuinwijk 141.43m / Toerisme Limburg 4.36m / Toerisme Oost-Vlaanderen 3.40m / Toerisme Vlaams-Brabant 1.67m / Fluvius DNB + IGS stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1480)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 42261 |
+| commitments.csv | 5080 |
+| leaderboard.csv | 7283 |
+| entities.csv | 1225 |
+| sources.csv | 3057 |
+| FOI ready | 1123 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1171 |
+| research_queue open | rq_116 deferred + rq_1481 hole-fill after progress |
+
+### What improved since tick 1470
+
+- **VL residual dual JR2025 leftover woonmaatschappij (tick1471-1479):** **Woonhaven** assets **1.561bn** · **Vivendo** assets **605.93m** · **Woonboog** assets **520.06m** · **SW+** assets **401.69m** · **WMVA** assets **350.87m** · **Woonstroom** assets **203.98m** · **Woonkade** assets **159.10m** · **Thuisrand** assets **143.37m** · **Woonveer** assets **122.30m** — no invented euros.
+- **NEW (tick1480):** **Kanvaz BV** (KBO 0400.974.442) leftover woonmaatschappij of mined Tienen + Hageland 18 gemeenten (NOT AGB Tienen / Dijledal 1468 / leftover Woonin / leftover LeefGoed / leftover Wooncompagnie / leftover WoonST / leftover stek92 / leftover APB Inovant / Atlas). Official NBB WVV VOL-inb deposit **2026-00383782** PDF (1590811 bytes / 80p; AV 03.06.2026; header 04.08.2026 Aanpassing; created 06.08.2026). Assets **358.515.654** · omzet **20.106.135** JUMP vs 19211515 · diensten **9.154.558** DROP vs 10301686 · pers **5.625.274** / **74 VTE** · cash **4.844.532 DROP** vs 6029876 · geldbeleg **6.506.454 DROP** vs 10003848 · debt **280.469.334 JUMP** vs 268454275 · PnL **9904 -3.122.202** · dividend **0**. FOI ready. Every-10 progress refresh from on-disk CSVs.
+- **Dual map themes:** **leftover woonmaatschappij** (Woonhaven 1.561bn / Vivendo 605.93m / Woonboog 520.06m / SW+ 401.69m / Kanvaz 358.52m / WMVA 350.87m / Woonstroom 203.98m / Woonkade 159.10m / Thuisrand 143.37m / Woonveer 122.30m) · prior leftover provincial tourism VZW + leftover provincial EVAP + leftover IGS/SON + leftover APB + leftover bosgroep IGS + leftover landschap IGS + leftover cultuur IGS + leftover waste daughter + leftover AGB + Nuhma + Fluvius DNB stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn.
+
 ## Snapshot at **tick 1470** (2026-08-19)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
