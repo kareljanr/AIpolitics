@@ -38398,3 +38398,56 @@ bud_ivla_div_2025,igs_ivla,2025,0,,,executed,src_ivla_jr2025_nbb,strong,2025 div
 bud_ivla_capex_2025,igs_ivla,2025,1062489,,,executed,src_ivla_jr2025_nbb,strong,2025 MVA aanschaf 1062489 GFT-containers; tick1392; primary official NBB WVV 8169
 bud_ivla_comm_2025,igs_ivla,2025,6250,,,executed,src_ivla_jr2025_nbb,strong,2025 commissaris A&C 6250; tick1392; primary official NBB WVV 6.6
 bud_ivla_board_2025,igs_ivla,2025,29897,,,executed,src_ivla_jr2025_nbb,strong,2025 bestuurders presentiegeld+KM 29897; tick1392; primary official NBB WVV remun
+bud_hvic_assets_2025,igs_havicrem,2025,12748564,,,executed,src_hvic_jr2025_nbb,strong,2025 assets 12748564 VKT-inb 20/58; tick1393; primary official NBB WVV
+bud_hvic_assets_2024,igs_havicrem,2024,12545697,,,executed,src_hvic_jr2025_nbb,strong,2024 assets 12545697 comparative; tick1393; primary official NBB WVV 20/58
+bud_hvic_fixed_2025,igs_havicrem,2025,8238201,,,executed,src_hvic_jr2025_nbb,strong,2025 vaste activa 8238201 vs 8062760; tick1393; primary official NBB WVV 21/28
+bud_hvic_iva_2025,igs_havicrem,2025,17354,,,executed,src_hvic_jr2025_nbb,strong,2025 IVA 17354 vs 24237; tick1393; primary official NBB WVV 21
+bud_hvic_mva_2025,igs_havicrem,2025,8220290,,,executed,src_hvic_jr2025_nbb,strong,2025 MVA 8220290 vs 8037965; tick1393; primary official NBB WVV 22/27
+bud_hvic_buildings_2025,igs_havicrem,2025,7820353,,,executed,src_hvic_jr2025_nbb,strong,2025 terreinen/gebouwen 7820353 vs 7629623; tick1393; primary official NBB WVV 22
+bud_hvic_machines_2025,igs_havicrem,2025,338870,,,executed,src_hvic_jr2025_nbb,strong,2025 machines 338870 vs 267573; tick1393; primary official NBB WVV 23
+bud_hvic_furniture_2025,igs_havicrem,2025,13806,,,executed,src_hvic_jr2025_nbb,strong,2025 meubilair 13806 vs 17037; tick1393; primary official NBB WVV 24
+bud_hvic_othmva_2025,igs_havicrem,2025,37895,,,executed,src_hvic_jr2025_nbb,strong,2025 overige MVA 37895 vs 37997; tick1393; primary official NBB WVV 26
+bud_hvic_cip_2025,igs_havicrem,2025,9366,,,executed,src_hvic_jr2025_nbb,strong,2025 CIP 9366 vs 85736; tick1393; primary official NBB WVV 27
+bud_hvic_fva_2025,igs_havicrem,2025,558,,,executed,src_hvic_jr2025_nbb,strong,2025 FVA 558 vs 558; tick1393; primary official NBB WVV 28
+bud_hvic_current_2025,igs_havicrem,2025,4510363,,,executed,src_hvic_jr2025_nbb,strong,2025 vlottend 4510363 vs 4482937; tick1393; primary official NBB WVV 29/58
+bud_hvic_stocks_2025,igs_havicrem,2025,45199,,,executed,src_hvic_jr2025_nbb,strong,2025 voorraden 45199 vs 52428; tick1393; primary official NBB WVV 30/36
+bud_hvic_strecv_2025,igs_havicrem,2025,337603,,,executed,src_hvic_jr2025_nbb,strong,2025 ST vorderingen 337603 vs 262299; tick1393; primary official NBB WVV 40/41
+bud_hvic_trade_2025,igs_havicrem,2025,335679,,,executed,src_hvic_jr2025_nbb,strong,2025 handelsvorderingen 335679 vs 259262; tick1393; primary official NBB WVV 40
+bud_hvic_invest_2025,igs_havicrem,2025,3657007,,,executed,src_hvic_jr2025_nbb,strong,2025 geldbeleggingen 3657007 unchanged vs 3657007; tick1393; primary official NBB WVV 50/53
+bud_hvic_invest_2024,igs_havicrem,2024,3657007,,,executed,src_hvic_jr2025_nbb,strong,2024 geldbeleggingen 3657007 comparative; tick1393; primary official NBB WVV 50/53
+bud_hvic_cash_2025,igs_havicrem,2025,293656,,,executed,src_hvic_jr2025_nbb,strong,2025 liquide middelen 293656 DROP vs 380864; tick1393; primary official NBB WVV 54/58
+bud_hvic_cash_2024,igs_havicrem,2024,380864,,,executed,src_hvic_jr2025_nbb,strong,2024 liquide middelen 380864 comparative; tick1393; primary official NBB WVV 54/58
+bud_hvic_prepaid_2025,igs_havicrem,2025,176898,,,executed,src_hvic_jr2025_nbb,strong,2025 overlopend actief 176898 vs 130338; tick1393; primary official NBB WVV 490/1
+bud_hvic_equity_2025,igs_havicrem,2025,6748935,,,executed,src_hvic_jr2025_nbb,strong,2025 EV 6748935 vs 5934509; tick1393; primary official NBB WVV 10/15
+bud_hvic_inbreng_2025,igs_havicrem,2025,220570,,,executed,src_hvic_jr2025_nbb,strong,2025 inbreng 220570 onbeschikbaar; tick1393; primary official NBB WVV 10/11
+bud_hvic_reserves_2025,igs_havicrem,2025,5419396,,,executed,src_hvic_jr2025_nbb,strong,2025 beschikbare reserves 5419396 vs 4534960; tick1393; primary official NBB WVV 133
+bud_hvic_capsub_2025,igs_havicrem,2025,1108970,,,executed,src_hvic_jr2025_nbb,strong,2025 kapitaalsubsidies 1108970 vs 1178979; tick1393; primary official NBB WVV 15
+bud_hvic_debt_2025,igs_havicrem,2025,5999629,,,executed,src_hvic_jr2025_nbb,strong,2025 schulden 5999629 vs 6611187; tick1393; primary official NBB WVV 17/49
+bud_hvic_debt_2024,igs_havicrem,2024,6611187,,,executed,src_hvic_jr2025_nbb,strong,2024 schulden 6611187 comparative; tick1393; primary official NBB WVV 17/49
+bud_hvic_lt_2025,igs_havicrem,2025,4886178,,,executed,src_hvic_jr2025_nbb,strong,2025 LT bank 4886178 vs 5410691; tick1393; primary official NBB WVV 17
+bud_hvic_st_2025,igs_havicrem,2025,1049657,,,executed,src_hvic_jr2025_nbb,strong,2025 ST schulden 1049657 vs 1130336; tick1393; primary official NBB WVV 42/48
+bud_hvic_ltdue_2025,igs_havicrem,2025,524512,,,executed,src_hvic_jr2025_nbb,strong,2025 LT-due binnen jaar 524512 vs 505442; tick1393; primary official NBB WVV 42
+bud_hvic_sttrade_2025,igs_havicrem,2025,282010,,,executed,src_hvic_jr2025_nbb,strong,2025 leveranciers 282010 vs 235718; tick1393; primary official NBB WVV 440/4
+bud_hvic_sttax_2025,igs_havicrem,2025,64798,,,executed,src_hvic_jr2025_nbb,strong,2025 belastingschulden 64798 vs 54806; tick1393; primary official NBB WVV 450/3
+bud_hvic_stsoc_2025,igs_havicrem,2025,177203,,,executed,src_hvic_jr2025_nbb,strong,2025 bezoldigingen/sociale lasten 177203 vs 301583; tick1393; primary official NBB WVV 454/9
+bud_hvic_guaranteed_2025,igs_havicrem,2025,5410691,,,executed,src_hvic_jr2025_nbb,strong,2025 overheidswaarborg bank 5410691; tick1393; primary official NBB WVV 6.3 9061
+bud_hvic_brutomarge_2025,igs_havicrem,2025,2986517,,,executed,src_hvic_jr2025_nbb,strong,2025 brutomarge 2986517 vs 2370163; tick1393; primary official NBB WVV 9900
+bud_hvic_omzet_2025,igs_havicrem,2025,3947173,,,executed,src_hvic_jr2025_nbb,strong,2025 omzet 3947173 vs 3415199; category unpublished; tick1393; primary official NBB WVV 70
+bud_hvic_omzet_2024,igs_havicrem,2024,3415199,,,executed,src_hvic_jr2025_nbb,strong,2024 omzet 3415199 comparative; tick1393; primary official NBB WVV 70
+bud_hvic_goods_diensten_2025,igs_havicrem,2025,1045780,,,executed,src_hvic_jr2025_nbb,strong,2025 60/61 combined 1045780 vs 1118382; diensten unpublished as split; tick1393; primary official NBB WVV 60/61
+bud_hvic_goods_diensten_2024,igs_havicrem,2024,1118382,,,executed,src_hvic_jr2025_nbb,strong,2024 60/61 combined 1118382 comparative; tick1393; primary official NBB WVV 60/61
+bud_hvic_pers_2025,igs_havicrem,2025,1504276,,,executed,src_hvic_jr2025_nbb,strong,2025 pers 1504276 vs 1671339 / 18.8 VTE; tick1393; primary official NBB WVV 62
+bud_hvic_pers_2024,igs_havicrem,2024,1671339,,,executed,src_hvic_jr2025_nbb,strong,2024 pers 1671339 / 16.7 VTE comparative; tick1393; primary official NBB WVV 62
+bud_hvic_afschr_2025,igs_havicrem,2025,453696,,,executed,src_hvic_jr2025_nbb,strong,2025 afschr 453696 vs 870522; tick1393; primary official NBB WVV 630
+bud_hvic_othcost_2025,igs_havicrem,2025,18679,,,executed,src_hvic_jr2025_nbb,strong,2025 andere bedrijfskosten 18679 vs 18219; tick1393; primary official NBB WVV 640/8
+bud_hvic_nrec_2025,igs_havicrem,2025,18621,,,executed,src_hvic_jr2025_nbb,strong,2025 niet-recurrente bedrijfskosten 18621 vs 514; tick1393; primary official NBB WVV 66A
+bud_hvic_expl_2025,igs_havicrem,2025,991244,,,executed,src_hvic_jr2025_nbb,strong,2025 expl +991244 vs +712004; tick1393; primary official NBB WVV 9901
+bud_hvic_expl_2024,igs_havicrem,2024,712004,,,executed,src_hvic_jr2025_nbb,strong,2024 expl +712004 comparative; tick1393; primary official NBB WVV 9901
+bud_hvic_fininc_2025,igs_havicrem,2025,115248,,,executed,src_hvic_jr2025_nbb,strong,2025 financiele opbrengsten 115248 vs 254057 (capsub 70010); tick1393; primary official NBB WVV 75
+bud_hvic_fincost_2025,igs_havicrem,2025,222057,,,executed,src_hvic_jr2025_nbb,strong,2025 financiele kosten 222057 vs 249023; tick1393; primary official NBB WVV 65
+bud_hvic_pnl_2025,igs_havicrem,2025,884436,,,executed,src_hvic_jr2025_nbb,strong,2025 PnL +884436 vs +717038 all to reserves; tick1393; primary official NBB WVV 9904
+bud_hvic_pnl_2024,igs_havicrem,2024,717038,,,executed,src_hvic_jr2025_nbb,strong,2024 PnL +717038 comparative; tick1393; primary official NBB WVV 9904
+bud_hvic_div_2025,igs_havicrem,2025,0,,,executed,src_hvic_jr2025_nbb,strong,2025 dividend 694 empty; tick1393; primary official NBB WVV 694
+bud_hvic_capex_2025,igs_havicrem,2025,733495,,,executed,src_hvic_jr2025_nbb,strong,2025 MVA aanschaf 733495; tick1393; primary official NBB WVV 8169
+bud_hvic_comm_2025,igs_havicrem,2025,11435,,,executed,src_hvic_jr2025_nbb,strong,2025 commissaris Moore Audit 11435; tick1393; primary official NBB WVV 6.6
+bud_hvic_board_2025,igs_havicrem,2025,32211,,,executed,src_hvic_jr2025_nbb,strong,2025 bestuurders presentiegeld 32211 + KM 2354; tick1393; primary official NBB WVV p37
