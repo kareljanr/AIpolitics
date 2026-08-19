@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 1430** (2026-08-19)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1421-1430 leftover IGS: **Viertoren** · **Druivenstreek** · **BIONERGA LOGISTICS** · **Zuidwest** · **Voorkempen** · **Noorderkempen** · **Denderland** · **Brabantse Kouters** · **Kusterfgoed** · **RL Lage Kempen** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1421-1430 is VL residual dual L5 leftover IGS (not near-complete of 348bn):** **BIONERGA LOGISTICS** assets **3.51m** · **Zuidwest** assets **0.95m** · **Voorkempen** assets **0.62m** · **Noorderkempen** assets **0.48m** · **Denderland** assets **0.45m** · **Viertoren** assets **0.21m** · **Brabantse Kouters** assets **0.20m** · **Kusterfgoed** assets **0.16m** · **RL Lage Kempen** assets **0.08m** · **Druivenstreek** assets **0.05m** · prior leftover IGS/AGB/NV/Fluvius stack retained |
+| **E. FOI-ready gaps** | **~1073** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1121** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek/klimaat-holding/energy-DSO/zorg/cultuur/landschap shells** (**NEW RL Lage Kempen** assets **EUR0.08m** brutomarge **EUR0.14m** andere **EUR0.14m** cash JUMP **EUR0.05m** · **Kusterfgoed** assets **EUR0.16m** · **Brabantse Kouters** assets **EUR0.20m** · **Denderland** assets **EUR0.45m** · **Noorderkempen** assets **EUR0.48m** · **Voorkempen** assets **EUR0.62m** · **Zuidwest** assets **EUR0.95m** · **BIONERGA LOGISTICS** assets **EUR3.51m** · **Druivenstreek** assets **EUR0.05m** · **Viertoren** assets **EUR0.21m** · prior leftover CO7 0.69m / de Merode 0.37m / Kluize 5.83m / IOK Afvalbeheer 70.50m / Sunfin 6.29m / MLSO 227.28m / Fluvius DNB + IGS stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market.
+
+### Inventory (tick 1430)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 40140 |
+| commitments.csv | 5030 |
+| leaderboard.csv | 7233 |
+| entities.csv | 1175 |
+| sources.csv | 2856 |
+| FOI ready | 1073 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1121 |
+| research_queue open | rq_116 deferred + rq_1431 hole-fill after progress |
+
+### What improved since tick 1420
+
+- **VL residual dual JR2025 leftover IGS (tick1421-1429):** **BIONERGA LOGISTICS** assets **3.51m** · **Zuidwest** assets **0.95m** · **Voorkempen** assets **0.62m** · **Noorderkempen** assets **0.48m** · **Denderland** assets **0.45m** · **Viertoren** assets **0.21m** · **Brabantse Kouters** assets **0.20m** · **Kusterfgoed** assets **0.16m** · **Druivenstreek** assets **0.05m** — no invented euros.
+- **NEW (tick1430):** **Projectvereniging Regionaal Landschap Lage Kempen** (KBO 0677.597.755) leftover IGS / projectvereniging of mined Lage Kempen municipalities. Official NBB WVV MIC-inb deposit **2026-00158101** PDF (43300 bytes / 12p; AV 26.05.2026; header 08.06.2026). Assets **77.606** · brutomarge **142.536** (omzet 70 empty) · andere bedrijfskosten **142.536** · pers empty · cash **47.766 JUMP** vs 55 · leveranciers **49.735 JUMP** · debt **77.575** · PnL **−24**. FOI ready. Every-10 progress refresh from on-disk CSVs.
+- **Dual map themes:** **leftover landschap IGS + leftover cultuur IGS + leftover waste daughter** (RL Lage Kempen 0.08m / Kusterfgoed 0.16m / Brabantse Kouters 0.20m / Denderland 0.45m / Noorderkempen 0.48m / Voorkempen 0.62m / Zuidwest 0.95m / BIONERGA LOGISTICS 3.51m / Druivenstreek 0.05m / Viertoren 0.21m) · prior leftover AGB + DVV + Nuhma + Fluvius DNB stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10.
+
 ## Snapshot at **tick 1420** (2026-08-19)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
