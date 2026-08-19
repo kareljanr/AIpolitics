@@ -42652,3 +42652,43 @@ bud_ivlv_doorverhuur_2025,wm_ivlv,2025,197393,,,executed,src_ivlv_jr2025_nbb,str
 bud_ivlv_kapsubs_amort_2025,wm_ivlv,2025,166893,,,executed,src_ivlv_jr2025_nbb,strong,2025 kapitaalsubsidies 9125 166893 (was 127089); tick1489; primary official NBB WVV 6.11
 bud_ivlv_bestuurders_2025,wm_ivlv,2025,13800,,,executed,src_ivlv_jr2025_nbb,strong,2025 bestuurders 9503 13800; tick1489; primary official NBB WVV 6.16
 bud_ivlv_herwaard_2025,wm_ivlv,2025,4767269,,,executed,src_ivlv_jr2025_nbb,strong,2025 herwaarderingsmeerwaarden 4767269; tick1489; primary official NBB WVV
+bud_ztus_assets_2025,wm_ztus,2025,136488937,,,executed,src_ztus_jr2025_nbb,strong,2025 assets 136488937 UP (was 129444688); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_current_2025,wm_ztus,2025,3616851,,,executed,src_ztus_jr2025_nbb,strong,2025 vlottend 3616851 DROP (was 5384087); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_cash_2025,wm_ztus,2025,1840059,,,executed,src_ztus_jr2025_nbb,strong,2025 liquide middelen 1840059 DROP (was 3995732); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_strecv_2025,wm_ztus,2025,678960,,,executed,src_ztus_jr2025_nbb,strong,2025 ST vorderingen 678960 (was 482554); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_trade_2025,wm_ztus,2025,305858,,,executed,src_ztus_jr2025_nbb,strong,2025 handelsvorderingen 305858 (was 292033); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_othrecv_2025,wm_ztus,2025,373103,,,executed,src_ztus_jr2025_nbb,strong,2025 overige ST vorderingen 373103 (was 190521); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_prepaid_2025,wm_ztus,2025,1057617,,,executed,src_ztus_jr2025_nbb,strong,2025 overlopend actief 1057617 (was 865672); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_voorraden_2025,wm_ztus,2025,13206,,,executed,src_ztus_jr2025_nbb,strong,2025 voorraden 13206 (was 13206); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_geldbeleg_2025,wm_ztus,2025,27010,,,executed,src_ztus_jr2025_nbb,strong,2025 geldbeleggingen 27010 (was 26923); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_fixed_2025,wm_ztus,2025,132872085,,,executed,src_ztus_jr2025_nbb,strong,2025 vaste activa 132872085 UP (was 124060601); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_iva_2025,wm_ztus,2025,112784,,,executed,src_ztus_jr2025_nbb,strong,2025 IVA 112784 (was 150379); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_mva_2025,wm_ztus,2025,132735887,,,executed,src_ztus_jr2025_nbb,strong,2025 MVA 132735887 UP (was 123902633; terreinen/gebouwen 119750754 installaties 5788 meubilair 115772 overige 1898 in aanbouw 12861675); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_fva_2025,wm_ztus,2025,23414,,,executed,src_ztus_jr2025_nbb,strong,2025 FVA 23414 JUMP (was 7589); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_equity_2025,wm_ztus,2025,10521661,,,executed,src_ztus_jr2025_nbb,strong,2025 eigen vermogen 10521661 DROP (was 11090440); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_inbreng_2025,wm_ztus,2025,85063,,,executed,src_ztus_jr2025_nbb,strong,2025 inbreng 85063 onbeschikbaar; tick1490; primary official NBB WVV VKT-inb
+bud_ztus_reserves_2025,wm_ztus,2025,2458970,,,executed,src_ztus_jr2025_nbb,strong,2025 reserves 2458970 (was 2925367); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_herwaard_2025,wm_ztus,2025,494166,,,executed,src_ztus_jr2025_nbb,strong,2025 herwaarderingsmeerwaarden 494166; tick1490; primary official NBB WVV VKT-inb
+bud_ztus_kapsubs_2025,wm_ztus,2025,7483462,,,executed,src_ztus_jr2025_nbb,strong,2025 kapitaalsubsidies 7483462 (was 7585671); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_voorz_2025,wm_ztus,2025,697630,,,executed,src_ztus_jr2025_nbb,strong,2025 voorzieningen+uitgestelde belasting 697630 (herstel 281703; uitgestelde 415927); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_debt_2025,wm_ztus,2025,125269646,,,executed,src_ztus_jr2025_nbb,strong,2025 schulden 125269646 JUMP (was 117039117); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_ltdebt_2025,wm_ztus,2025,118410221,,,executed,src_ztus_jr2025_nbb,strong,2025 LT schulden 118410221 (was 110117392; fin krediet 117328040); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_stdebt_2025,wm_ztus,2025,6108676,,,executed,src_ztus_jr2025_nbb,strong,2025 ST schulden 6108676 (42 3752428 + leveranciers 1014363); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_lev_2025,wm_ztus,2025,1014363,,,executed,src_ztus_jr2025_nbb,strong,2025 leveranciers 1014363 (was 1959848); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_deferred_2025,wm_ztus,2025,750750,,,executed,src_ztus_jr2025_nbb,strong,2025 overlopend passief 750750 (was 586121); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_brutomarge_2025,wm_ztus,2025,5431793,,,executed,src_ztus_jr2025_nbb,strong,2025 brutomarge 9900 5431793 DROP (was 5660374; omzet 70 empty; 60/61 empty); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_pers_2025,wm_ztus,2025,2208146,,,executed,src_ztus_jr2025_nbb,strong,2025 pers 62 2208146; 25.9 VTE vs 24.9; 37905 uur; YE 30; YE VTE 26.3; tick1490; primary official NBB WVV VKT-inb
+bud_ztus_afschr_2025,wm_ztus,2025,3302436,,,executed,src_ztus_jr2025_nbb,strong,2025 afschrijvingen 3302436; tick1490; primary official NBB WVV VKT-inb
+bud_ztus_expl_2025,wm_ztus,2025,-278790,,,executed,src_ztus_jr2025_nbb,strong,2025 bedrijfsverlies 9901 -278790 (was -301626); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_finopbr_2025,wm_ztus,2025,2861646,,,executed,src_ztus_jr2025_nbb,strong,2025 financiele opbrengsten 2861646 (interestsubs 2808785); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_finkost_2025,wm_ztus,2025,3061256,,,executed,src_ztus_jr2025_nbb,strong,2025 financiele kosten 3061256; tick1490; primary official NBB WVV VKT-inb
+bud_ztus_pnl_2025,wm_ztus,2025,-466396,,,executed,src_ztus_jr2025_nbb,strong,2025 PnL 9904 -466396 (was -658463); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_div_2025,wm_ztus,2025,0,,,executed,src_ztus_jr2025_nbb,strong,2025 dividend 0; tick1490; primary official NBB WVV VKT-inb
+bud_ztus_capex_2025,wm_ztus,2025,12113063,,,executed,src_ztus_jr2025_nbb,strong,2025 capex MVA aanschaf 8169 12113063; tick1490; primary official NBB WVV VKT-inb
+bud_ztus_in_aanbouw_2025,wm_ztus,2025,12861675,,,executed,src_ztus_jr2025_nbb,strong,2025 activa in aanbouw 12861675 (was 14986822); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_krediet_2025,wm_ztus,2025,117328040,,,executed,src_ztus_jr2025_nbb,strong,2025 LT kredietinstellingen 117328040 (was 109111511); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_terreinen_2025,wm_ztus,2025,119750754,,,executed,src_ztus_jr2025_nbb,strong,2025 terreinen en gebouwen 119750754 (was 108765820); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_commissaris_2025,wm_ztus,2025,18254,,,executed,src_ztus_jr2025_nbb,strong,2025 commissaris fee 18254 Callens Vandelanotte NV + andere 1785; tick1490; primary official NBB WVV VKT-inb
+bud_ztus_interestsubs_2025,wm_ztus,2025,2808785,,,executed,src_ztus_jr2025_nbb,strong,2025 kapitaal- en interestsubsidies 753/9078 2808785 (was 2075089); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_presentie_2025,wm_ztus,2025,56254,,,executed,src_ztus_jr2025_nbb,strong,2025 bruto presentiegelden 56253.85 PDF (integer 56254); tick1490; primary official NBB WVV VKT-inb
+bud_ztus_tax_2025,wm_ztus,2025,61,,,executed,src_ztus_jr2025_nbb,strong,2025 belastingen op het resultaat 61; tick1490; primary official NBB WVV VKT-inb

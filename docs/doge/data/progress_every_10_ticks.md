@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 1490** (2026-08-19)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1481-1490 leftover woonmaatschappij: **LeefGoed** · **stek92** · **WoonST** · **!Mpuls** · **Woonpunt Zennevallei** · **Wonen in Limburg** · **De Voorkempen** · **Woonschakel** · **Inter-Vilvoordse** · **Zetus** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1481-1490 is VL residual dual L5 leftover woonmaatschappij (not near-complete of 348bn):** **Wonen in Limburg** assets **2.060bn** · **LeefGoed** assets **570.75m** · **De Voorkempen** assets **352.38m** · **WoonST** assets **264.76m** · **stek92** assets **228.25m** · **!Mpuls** assets **213.86m** · **Inter-Vilvoordse** assets **175.61m** · **Woonpunt Zennevallei** assets **162.91m** · **Woonschakel** assets **155.66m** · **Zetus** assets **136.49m** · prior leftover woonmaatschappij/tourism/IGS/APB/EVAP/Bosgroep/AGB/NV/Fluvius stack retained |
+| **E. FOI-ready gaps** | **~1133** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1181** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek/klimaat-holding/energy-DSO/zorg/cultuur/landschap/bosgroep/woonmaatschappij shells** (**NEW Zetus** assets **EUR136.49m** brutomarge **EUR5.43m** pers **EUR2.21m** / **25.9 VTE** cash DROP **EUR1.84m** debt JUMP **EUR125.27m** · **Inter-Vilvoordse** assets **EUR175.61m** · **Woonschakel** assets **EUR155.66m** · **De Voorkempen** assets **EUR352.38m** · **Wonen in Limburg** assets **EUR2.060bn** · **Woonpunt Zennevallei** assets **EUR162.91m** · **!Mpuls** assets **EUR213.86m** · **WoonST** assets **EUR264.76m** · **stek92** assets **EUR228.25m** · **LeefGoed** assets **EUR570.75m** · prior leftover Kanvaz 358.52m / WMVA 350.87m / Woonboog 520.06m / Woonveer 122.30m / Woonkade 159.10m / Woonstroom 203.98m / Thuisrand 143.37m / Vivendo 605.93m / SW+ 401.69m / Woonhaven 1.561bn / Thuispunt Gent 926.32m / Dimensa 633.53m / Woonmaatschappij Rivierenland 523.68m / Dender-Zuid 424.73m / Dijledal 352.69m / Woonpunt Waas 280.64m / Tuinwijk 141.43m / Toerisme Limburg 4.36m / Toerisme Oost-Vlaanderen 3.40m / Toerisme Vlaams-Brabant 1.67m / Fluvius DNB + IGS stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1490)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 42693 |
+| commitments.csv | 5090 |
+| leaderboard.csv | 7293 |
+| entities.csv | 1235 |
+| sources.csv | 3097 |
+| FOI ready | 1133 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1181 |
+| research_queue open | rq_116 deferred + rq_1491 hole-fill after progress |
+
+### What improved since tick 1480
+
+- **VL residual dual JR2025 leftover woonmaatschappij (tick1481-1489):** **Wonen in Limburg** assets **2.060bn** · **LeefGoed** assets **570.75m** · **De Voorkempen** assets **352.38m** · **WoonST** assets **264.76m** · **stek92** assets **228.25m** · **!Mpuls** assets **213.86m** · **Inter-Vilvoordse** assets **175.61m** · **Woonpunt Zennevallei** assets **162.91m** · **Woonschakel** assets **155.66m** — no invented euros.
+- **NEW (tick1490):** **Zetus BV** (KBO 0405.196.516) leftover woonmaatschappij of mined Blankenberge + leftover of mined Knokke-Heist + De Haan + Zuienkerke (NOT leftover AGB Blankenberge / leftover AGSO Knokke / leftover Inter-Vilvoordse 1489 / leftover IJzer en Zee / leftover Woonin / leftover De Ideale Woning / leftover Wooncompagnie / leftover APB Inovant / Atlas). Official NBB WVV VKT-inb deposit **2026-00117246** PDF (1958625 bytes / 75p; AV 11.05.2026; header 18.05.2026; created 22.05.2026). Assets **136.488.937** · brutomarge **5.431.793** DROP vs 5660374 (omzet 70 empty; 60/61 empty) · pers **2.208.146** / **25,9 VTE** · cash **1.840.059 DROP** vs 3995732 · debt **125.269.646 JUMP** vs 117039117 · PnL **9904 -466.396** · dividend **0**. FOI ready. Every-10 progress refresh from on-disk CSVs.
+- **Dual map themes:** **leftover woonmaatschappij** (Wonen in Limburg 2.060bn / LeefGoed 570.75m / De Voorkempen 352.38m / WoonST 264.76m / stek92 228.25m / !Mpuls 213.86m / Inter-Vilvoordse 175.61m / Woonpunt Zennevallei 162.91m / Woonschakel 155.66m / Zetus 136.49m) · prior leftover woonmaatschappij + leftover provincial tourism VZW + leftover provincial EVAP + leftover IGS/SON + leftover APB + leftover bosgroep IGS + leftover landschap IGS + leftover cultuur IGS + leftover waste daughter + leftover AGB + Nuhma + Fluvius DNB stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn.
+
 ## Snapshot at **tick 1480** (2026-08-19)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
