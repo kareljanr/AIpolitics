@@ -43319,3 +43319,45 @@ bud_vitr_capex_2025,wm_vitr,2025,0,,,executed,src_vitr_jr2025_nbb,strong,2025 ca
 bud_vitr_explsubs_2025,wm_vitr,2025,0,,,executed,src_vitr_jr2025_nbb,strong,2025 exploitatiesubsidies 740 empty 0; tick1505; primary official NBB WVV VOL
 bud_vitr_bedrijfskost_2025,wm_vitr,2025,340505,,,executed,src_vitr_jr2025_nbb,strong,2025 bedrijfskosten 60/66A 340505 (was 78677); tick1505; primary official NBB WVV VOL
 bud_vitr_mva_aanschaf_2025,wm_vitr,2025,32597756,,,executed,src_vitr_jr2025_nbb,strong,2025 MVA aanschafwaarde 8191 32597756 stable; WV 8321 15696331 after terugneming 8281 2305848; tick1505; primary official NBB WVV VOL
+bud_cgnw_assets_2025,cgg_cgnw,2025,5929918,,,executed,src_cgnw_jr2025_nbb,strong,2025 assets 5929918 DROP (was 6155907); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_vaste_2025,cgg_cgnw,2025,2050334,,,executed,src_cgnw_jr2025_nbb,strong,2025 vaste activa 21/28 2050334 (was 2184673); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_mva_2025,cgg_cgnw,2025,2050334,,,executed,src_cgnw_jr2025_nbb,strong,2025 MVA 22/27 2050334 DROP (was 2179267); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_gebouwen_2025,cgg_cgnw,2025,1973764,,,executed,src_cgnw_jr2025_nbb,strong,2025 terreinen/gebouwen 22 1973764 (was 2080100); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_meubilair_2025,cgg_cgnw,2025,22277,,,executed,src_cgnw_jr2025_nbb,strong,2025 meubilair 24 22277 (was 44012); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_leasing_2025,cgg_cgnw,2025,54293,,,executed,src_cgnw_jr2025_nbb,strong,2025 leasing 25 54293 (was 55155); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_fva_2025,cgg_cgnw,2025,0,,,executed,src_cgnw_jr2025_nbb,strong,2025 FVA 28 0 (was 5406); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_current_2025,cgg_cgnw,2025,3879585,,,executed,src_cgnw_jr2025_nbb,strong,2025 vlottende 29/58 3879585 (was 3971235); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_strecv_2025,cgg_cgnw,2025,1007898,,,executed,src_cgnw_jr2025_nbb,strong,2025 ST vorderingen 40/41 1007898 (was 824670); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_trade_2025,cgg_cgnw,2025,497598,,,executed,src_cgnw_jr2025_nbb,strong,2025 handelsvorderingen 40 497598 (was 268770); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_othrecv_2025,cgg_cgnw,2025,510300,,,executed,src_cgnw_jr2025_nbb,strong,2025 overige vorderingen 41 510300 (was 555899); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_beleggingen_2025,cgg_cgnw,2025,2039706,,,executed,src_cgnw_jr2025_nbb,strong,2025 geldbeleggingen 50/53 2039706 UP (was 1701784); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_cash_2025,cgg_cgnw,2025,821462,,,executed,src_cgnw_jr2025_nbb,strong,2025 liquide middelen 54/58 821462 DROP (was 1420089); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_prepaid_2025,cgg_cgnw,2025,10519,,,executed,src_cgnw_jr2025_nbb,strong,2025 overlopend actief 490/1 10519 (was 24693); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_equity_2025,cgg_cgnw,2025,3053068,,,executed,src_cgnw_jr2025_nbb,strong,2025 eigen vermogen 10/15 3053068 UP (was 2894452); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_fondsen_2025,cgg_cgnw,2025,694880,,,executed,src_cgnw_jr2025_nbb,strong,2025 fondsen 10 694880 (begin 88069 + permanente 606811); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_bestemde_2025,cgg_cgnw,2025,2047134,,,executed,src_cgnw_jr2025_nbb,strong,2025 bestemde fondsen 13 2047134 (was 2197134); infra 881637 / sociaal passief 862902 / tewerkstelling 302595; tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_overgedragen_2025,cgg_cgnw,2025,310582,,,executed,src_cgnw_jr2025_nbb,strong,2025 overgedragen winst 14 310582 (was 0); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_kapsubs_2025,cgg_cgnw,2025,471,,,executed,src_cgnw_jr2025_nbb,strong,2025 kapitaalsubsidies 15 471 (was 2438); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_voorz_2025,cgg_cgnw,2025,291126,,,executed,src_cgnw_jr2025_nbb,strong,2025 voorzieningen 16 291126 DROP (was 595426; herstel 162 released 314599); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_debt_2025,cgg_cgnw,2025,2585725,,,executed,src_cgnw_jr2025_nbb,strong,2025 schulden 17/49 2585725 DROP (was 2666030); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_ltdebt_2025,cgg_cgnw,2025,1155348,,,executed,src_cgnw_jr2025_nbb,strong,2025 LT schulden 17 1155348 (was 1248473); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_stdebt_2025,cgg_cgnw,2025,1316610,,,executed,src_cgnw_jr2025_nbb,strong,2025 ST schulden 42/48 1316610 (was 1335596); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_lev_2025,cgg_cgnw,2025,136857,,,executed,src_cgnw_jr2025_nbb,strong,2025 leveranciers 440/4 136857 (was 202488); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_taxsoc_2025,cgg_cgnw,2025,1012986,,,executed,src_cgnw_jr2025_nbb,strong,2025 tax+bezold 45 1012986 (tax 169016 + bezold 843970); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_deferred_2025,cgg_cgnw,2025,113766,,,executed,src_cgnw_jr2025_nbb,strong,2025 overlopend passief 492/3 113766 (was 81962); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_bruto_2025,cgg_cgnw,2025,5496163,,,executed,src_cgnw_jr2025_nbb,strong,2025 brutomarge 9900 5496163 UP (was 4789096); annual envelope; tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_omzet_2025,cgg_cgnw,2025,0,,,executed,src_cgnw_jr2025_nbb,strong,2025 omzet 70 empty on VKT-VZW; unpublished split; recorded 0 not invented; tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_lidgeld_2025,cgg_cgnw,2025,0,,,executed,src_cgnw_jr2025_nbb,strong,2025 lidgeld/subsidies 73 empty on VKT-VZW; CGG-dotatie unpublished; recorded 0 not invented; tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_nrec_2025,cgg_cgnw,2025,314688,,,executed,src_cgnw_jr2025_nbb,strong,2025 nrec 76A 314688 JUMP (was 2587); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_pers_2025,cgg_cgnw,2025,5150319,,,executed,src_cgnw_jr2025_nbb,strong,2025 pers 62 5150319 / 53.6 VTE (was 4604333 / 52.5); YE 54.5; PC 331; tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_afschr_2025,cgg_cgnw,2025,133020,,,executed,src_cgnw_jr2025_nbb,strong,2025 afschrijvingen 630 133020 (was 140249); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_voorz_mut_2025,cgg_cgnw,2025,11121,,,executed,src_cgnw_jr2025_nbb,strong,2025 voorzieningen mutatie 635/9 11121 (was 0); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_andere_2025,cgg_cgnw,2025,11587,,,executed,src_cgnw_jr2025_nbb,strong,2025 andere bedrijfskosten 640/8 11587 (was 10822); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_expl_2025,cgg_cgnw,2025,190117,,,executed,src_cgnw_jr2025_nbb,strong,2025 bedrijfswinst 9901 190117 JUMP (was 183); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_finopbr_2025,cgg_cgnw,2025,46362,,,executed,src_cgnw_jr2025_nbb,strong,2025 financiele opbrengsten 75 46362 (was 49367); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_finkost_2025,cgg_cgnw,2025,62602,,,executed,src_cgnw_jr2025_nbb,strong,2025 financiele kosten 65 62602 (was -10376); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_tax_2025,cgg_cgnw,2025,13294,,,executed,src_cgnw_jr2025_nbb,strong,2025 belastingen 67/77 13294 (was 9268); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_pnl_2025,cgg_cgnw,2025,160582,,,executed,src_cgnw_jr2025_nbb,strong,2025 winst 9904 160582 (was 50658); tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_div_2025,cgg_cgnw,2025,0,,,executed,src_cgnw_jr2025_nbb,strong,2025 dividend 0 VZW; tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_capex_2025,cgg_cgnw,2025,4087,,,executed,src_cgnw_jr2025_nbb,strong,2025 capex 8169 4087; MVA aanschaf 8199 5189362; tick1507; primary official NBB WVV VKT-VZW 2026-00143068
+bud_cgnw_commissaris_2025,cgg_cgnw,2025,6625,,,executed,src_cgnw_jr2025_nbb,strong,2025 commissaris Callens Vandelanotte NV B00083 fee 6625; tick1507; primary official NBB WVV VKT-VZW 2026-00143068
