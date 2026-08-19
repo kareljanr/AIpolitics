@@ -37531,3 +37531,64 @@ bud_inco_pnl_2024,igs_inco,2024,-319920,,,executed,src_inco_jr2025_nbb,strong,20
 bud_inco_comm_2025,igs_inco,2025,12254,,,executed,src_inco_jr2025_nbb,strong,2025 commissaris Moore Audit BV / Van Camp + De Bom Van Driessche 12254; tick1380; primary official NBB WVV 9505
 bud_inco_inbreng_call_2025,igs_inco,2025,40744,,,executed,src_inco_jr2025_nbb,strong,2025 volstorting inbreng 40743.75 (AV dec 2025 pop 127021); tick1380; primary official NBB WVV jaarverslag
 bud_inco_pop_2025,igs_inco,2025,127021,,,executed,src_inco_jr2025_nbb,strong,2025 vennoten bevolking 127021 (Londerzeel 19400 / Machelen 16554 / Meise 20283 / Vilvoorde 47385 / Zemst 23399); tick1380; primary official NBB WVV jaarverslag
+bud_inza_assets_2025,igs_inza,2025,7439948,,,executed,src_inza_jr2025_nbb,strong,2025 assets 7439948 VOL-inb 20/58; tick1381; primary official NBB WVV; commissaris 7439948
+bud_inza_assets_2024,igs_inza,2024,7247774,,,executed,src_inza_jr2025_nbb,strong,2024 assets 7247774 comparative; tick1381; primary official NBB WVV 20/58
+bud_inza_fixed_2025,igs_inza,2025,1160005,,,executed,src_inza_jr2025_nbb,strong,2025 vaste activa 1160005 vs 1474212; tick1381; primary official NBB WVV 21/28
+bud_inza_mva_2025,igs_inza,2025,1156527,,,executed,src_inza_jr2025_nbb,strong,2025 MVA 1156527 vs 1471569; tick1381; primary official NBB WVV 22/27
+bud_inza_buildings_2025,igs_inza,2025,158459,,,executed,src_inza_jr2025_nbb,strong,2025 terreinen/gebouwen 158459 vs 146256; tick1381; primary official NBB WVV 22
+bud_inza_machines_2025,igs_inza,2025,73128,,,executed,src_inza_jr2025_nbb,strong,2025 installaties/machines 73128 vs 91602; tick1381; primary official NBB WVV 23
+bud_inza_furniture_2025,igs_inza,2025,924941,,,executed,src_inza_jr2025_nbb,strong,2025 meubilair/rollend 924941 vs 1233710; tick1381; primary official NBB WVV 24
+bud_inza_fva_2025,igs_inza,2025,3478,,,executed,src_inza_jr2025_nbb,strong,2025 FVA 3478 vs 2644 (aandelen 508 + borg 2970); tick1381; primary official NBB WVV 28
+bud_inza_current_2025,igs_inza,2025,6279943,,,executed,src_inza_jr2025_nbb,strong,2025 vlottende activa 6279943 vs 5773562; tick1381; primary official NBB WVV 29/58
+bud_inza_inv_2025,igs_inza,2025,97331,,,executed,src_inza_jr2025_nbb,strong,2025 voorraden 97331 vs 116766; tick1381; primary official NBB WVV 3
+bud_inza_strecv_2025,igs_inza,2025,1101018,,,executed,src_inza_jr2025_nbb,strong,2025 ST vorderingen 1101018 vs 1002412; tick1381; primary official NBB WVV 40/41
+bud_inza_trade_2025,igs_inza,2025,1071383,,,executed,src_inza_jr2025_nbb,strong,2025 handelsvorderingen 1071383 vs 1002412; tick1381; primary official NBB WVV 40
+bud_inza_invest_2025,igs_inza,2025,0,,,executed,src_inza_jr2025_nbb,strong,2025 geldbeleggingen 0 empty 50/53; tick1381; primary official NBB WVV 50/53
+bud_inza_cash_2025,igs_inza,2025,4543480,,,executed,src_inza_jr2025_nbb,strong,2025 liquide middelen 4543480 JUMP vs 4060475 (61% of assets); tick1381; primary official NBB WVV 54/58
+bud_inza_cash_2024,igs_inza,2024,4060475,,,executed,src_inza_jr2025_nbb,strong,2024 liquide middelen 4060475 comparative; tick1381; primary official NBB WVV 54/58
+bud_inza_prepaid_2025,igs_inza,2025,538113,,,executed,src_inza_jr2025_nbb,strong,2025 overlopend actief 538113 (kosten 209155 + opbr 328958); tick1381; primary official NBB WVV 490/1
+bud_inza_equity_2025,igs_inza,2025,4002165,,,executed,src_inza_jr2025_nbb,strong,2025 eigen vermogen 4002165 vs 3383797; tick1381; primary official NBB WVV 10/15
+bud_inza_equity_2024,igs_inza,2024,3383797,,,executed,src_inza_jr2025_nbb,strong,2024 eigen vermogen 3383797 comparative; tick1381; primary official NBB WVV 10/15
+bud_inza_inbreng_2025,igs_inza,2025,834116,,,executed,src_inza_jr2025_nbb,strong,2025 inbreng onbeschikbaar 834116 vs 807972 (geplaatst 2263050; niet-opgevraagd 1428934; 90507 aandelen); tick1381; primary official NBB WVV 10/11
+bud_inza_reval_2025,igs_inza,2025,48733,,,executed,src_inza_jr2025_nbb,strong,2025 herwaarderingsmeerwaarden 48733; tick1381; primary official NBB WVV 12
+bud_inza_reserves_2025,igs_inza,2025,3119316,,,executed,src_inza_jr2025_nbb,strong,2025 reserves 3119316 (onbeschikbaar 789628 + beschikbaar 2329688); tick1381; primary official NBB WVV 13
+bud_inza_prov_2025,igs_inza,2025,2036349,,,executed,src_inza_jr2025_nbb,strong,2025 voorzieningen 2036349 vs 2066386 (pens 1204962 + herstelling 801387 + overige 30000); tick1381; primary official NBB WVV 16
+bud_inza_prov_2024,igs_inza,2024,2066386,,,executed,src_inza_jr2025_nbb,strong,2024 voorzieningen 2066386 comparative; tick1381; primary official NBB WVV 16
+bud_inza_pens_2025,igs_inza,2025,1204962,,,executed,src_inza_jr2025_nbb,strong,2025 pensioenvoorziening 1204962 vs 1264999 (160; responsabilisering -60036); tick1381; primary official NBB WVV 160
+bud_inza_repair_2025,igs_inza,2025,801387,,,executed,src_inza_jr2025_nbb,strong,2025 grote herstelling 801387 (gebouwen 301387 + wagenpark 500000); tick1381; primary official NBB WVV 162
+bud_inza_debt_2025,igs_inza,2025,1401433,,,executed,src_inza_jr2025_nbb,strong,2025 schulden 1401433 vs 1797591; no LT; tick1381; primary official NBB WVV 17/49
+bud_inza_st_2025,igs_inza,2025,1401187,,,executed,src_inza_jr2025_nbb,strong,2025 ST schulden 1401187 vs 1744401; tick1381; primary official NBB WVV 42/48
+bud_inza_sttrade_2025,igs_inza,2025,992592,,,executed,src_inza_jr2025_nbb,strong,2025 leveranciers 992592 vs 643742; tick1381; primary official NBB WVV 440/4
+bud_inza_sttaxsoc_2025,igs_inza,2025,265938,,,executed,src_inza_jr2025_nbb,strong,2025 tax+soc 265938 (tax 54094 + soc 211844); tick1381; primary official NBB WVV 45
+bud_inza_stother_2025,igs_inza,2025,142657,,,executed,src_inza_jr2025_nbb,strong,2025 overige ST 142657 vs 855007; tick1381; primary official NBB WVV 47/48
+bud_inza_accrued_2025,igs_inza,2025,246,,,executed,src_inza_jr2025_nbb,strong,2025 overlopend passief 246 vs 53190; tick1381; primary official NBB WVV 492/3
+bud_inza_opsinc_2025,igs_inza,2025,10458650,,,executed,src_inza_jr2025_nbb,strong,2025 bedrijfsopbrengsten 10458650 vs 10041940; tick1381; primary official NBB WVV 70/76A
+bud_inza_omzet_2025,igs_inza,2025,4541212,,,executed,src_inza_jr2025_nbb,strong,2025 omzet 4541212 vs 4729340; 6.10 category/geo empty; tick1381; primary official NBB WVV 70
+bud_inza_omzet_2024,igs_inza,2024,4729340,,,executed,src_inza_jr2025_nbb,strong,2024 omzet 4729340 comparative; tick1381; primary official NBB WVV 70
+bud_inza_othops_2025,igs_inza,2025,5907438,,,executed,src_inza_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 5907438 vs 5312350; tick1381; primary official NBB WVV 74
+bud_inza_subs_2025,igs_inza,2025,5720694,,,executed,src_inza_jr2025_nbb,strong,2025 exploitatiesubsidies 5720694 JUMP vs 4801697 (740); tick1381; primary official NBB WVV 6.10 740
+bud_inza_subs_2024,igs_inza,2024,4801697,,,executed,src_inza_jr2025_nbb,strong,2024 exploitatiesubsidies 4801697 comparative; tick1381; primary official NBB WVV 6.10 740
+bud_inza_cityfee_2025,igs_inza,2025,5198259,,,executed,src_inza_jr2025_nbb,strong,2025 bijdragen gemeentevennoten 5198259 (jaarverslag split of 74); tick1381; primary official NBB WVV jaarverslag
+bud_inza_nrec_2025,igs_inza,2025,10000,,,executed,src_inza_jr2025_nbb,strong,2025 niet-recurrente bedrijfsopbrengsten 10000 vs 250; tick1381; primary official NBB WVV 76A
+bud_inza_opscost_2025,igs_inza,2025,9891766,,,executed,src_inza_jr2025_nbb,strong,2025 bedrijfskosten 9891766 vs 10018054; tick1381; primary official NBB WVV 60/66A
+bud_inza_goods_2025,igs_inza,2025,757794,,,executed,src_inza_jr2025_nbb,strong,2025 handelsgoederen 757794 vs 704382 (aankopen 738360); tick1381; primary official NBB WVV 60
+bud_inza_diensten_2025,igs_inza,2025,4916314,,,executed,src_inza_jr2025_nbb,strong,2025 diensten 4916314 vs 4385311; no split; tick1381; primary official NBB WVV 61
+bud_inza_diensten_2024,igs_inza,2024,4385311,,,executed,src_inza_jr2025_nbb,strong,2024 diensten 4385311 comparative; tick1381; primary official NBB WVV 61
+bud_inza_pers_2025,igs_inza,2025,3881316,,,executed,src_inza_jr2025_nbb,strong,2025 bezoldigingen 3881316 / 56.7 VTE / 81027 uur / YE 60; tick1381; primary official NBB WVV 62 9087
+bud_inza_pers_2024,igs_inza,2024,4115562,,,executed,src_inza_jr2025_nbb,strong,2024 bezoldigingen 4115562 / 61.6 VTE comparative; tick1381; primary official NBB WVV 62
+bud_inza_pens624_2025,igs_inza,2025,434062,,,executed,src_inza_jr2025_nbb,strong,2025 ouderdoms/overlevingspensioenen 434062 vs 520881; tick1381; primary official NBB WVV 6.10 624
+bud_inza_uitzend_2025,igs_inza,2025,715688,,,executed,src_inza_jr2025_nbb,strong,2025 uitzendkosten 715688 / 15 VTE / 23049 uur; tick1381; primary official NBB WVV 6.10 617
+bud_inza_deprec_2025,igs_inza,2025,360459,,,executed,src_inza_jr2025_nbb,strong,2025 afschrijvingen 360459 vs 398377; tick1381; primary official NBB WVV 630
+bud_inza_prov_pnl_2025,igs_inza,2025,-60036,,,executed,src_inza_jr2025_nbb,strong,2025 voorzieningen PnL -60036 vs 408717 (all pens 635); tick1381; primary official NBB WVV 635/8
+bud_inza_othcost_2025,igs_inza,2025,4477,,,executed,src_inza_jr2025_nbb,strong,2025 andere bedrijfskosten 4477 vs 4884 (all 640 bedrijfsbelastingen); tick1381; primary official NBB WVV 640/8
+bud_inza_expl_2025,igs_inza,2025,566884,,,executed,src_inza_jr2025_nbb,strong,2025 bedrijfswinst 566884 vs 23886; tick1381; primary official NBB WVV 9901
+bud_inza_expl_2024,igs_inza,2024,23886,,,executed,src_inza_jr2025_nbb,strong,2024 bedrijfswinst 23886 comparative; tick1381; primary official NBB WVV 9901
+bud_inza_fininc_2025,igs_inza,2025,46821,,,executed,src_inza_jr2025_nbb,strong,2025 financiele opbrengsten 46821 vs 71314 (vlottende 45512); tick1381; primary official NBB WVV 75
+bud_inza_fincost_2025,igs_inza,2025,7826,,,executed,src_inza_jr2025_nbb,strong,2025 financiele kosten 7826 vs 3679 (all bankkosten); tick1381; primary official NBB WVV 65
+bud_inza_tax_2025,igs_inza,2025,13654,,,executed,src_inza_jr2025_nbb,strong,2025 belastingen 13654 vs 20207; tick1381; primary official NBB WVV 67/77
+bud_inza_pnl_2025,igs_inza,2025,592225,,,executed,src_inza_jr2025_nbb,strong,2025 PnL 9904 592225 vs 71314; commissaris 592225; tick1381; primary official NBB WVV
+bud_inza_pnl_2024,igs_inza,2024,71314,,,executed,src_inza_jr2025_nbb,strong,2024 PnL 71314 comparative; tick1381; primary official NBB WVV 9904
+bud_inza_comm_2025,igs_inza,2025,11790,,,executed,src_inza_jr2025_nbb,strong,2025 commissaris Moore Audit BV / Van Camp + De Bom Van Driessche 11790; tick1381; primary official NBB WVV 9505
+bud_inza_board_2025,igs_inza,2025,36985,,,executed,src_inza_jr2025_nbb,strong,2025 bestuurders zitpenningen 36325.8 + km 659.37 (9503 empty); tick1381; primary official NBB WVV remuneratieverslag
+bud_inza_inbreng_call_2025,igs_inza,2025,26144,,,executed,src_inza_jr2025_nbb,strong,2025 volstorting inbreng 26143.75 (AV dec 2025 pop 90507); tick1381; primary official NBB WVV jaarverslag
+bud_inza_pop_2025,igs_inza,2025,90507,,,executed,src_inza_jr2025_nbb,strong,2025 vennoten bevolking 90507 (Kampenhout 12523 / Kraainem 13906 / Steenokkerzeel 12673 / Wezembeek-Oppem 14735 / Zaventem 36670); tick1381; primary official NBB WVV jaarverslag
