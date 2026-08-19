@@ -38000,3 +38000,85 @@ bud_flan_tariff_elec_2025,igs_flan,2025,455,,,executed,src_flan_jr2025_nbb,stron
 bud_flan_tariff_gas_2025,igs_flan,2025,242,,,executed,src_flan_jr2025_nbb,strong,2025 nettarief gas gezin 242 EUR incl btw vs 225; tick1386; primary official Fluvius JR2025 jaarverslag
 bud_flan_pens_fso_2025,igs_flan,2025,14923505,,,executed,src_flan_jr2025_nbb,strong,2025 off-balance FSO contractueel pensioen aandeel 14923505 + statutair Fluvius OV 15652000; tick1386; primary official NBB WVV 6.20
 bud_flan_shares_nb_2025,igs_flan,2025,28932166,,,executed,src_flan_jr2025_nbb,strong,2025 aandelen netbeheer+neven 28932166 + Aov 1214561; tick1386; primary official Fluvius JR2025 jaarverslag
+bud_flhv_assets_2025,igs_flhv,2025,1355438683,,,executed,src_flhv_jr2025_nbb,strong,2025 assets 1355438683 VOL-inb 20/58; tick1387; primary official NBB WVV; commissaris 1355438683
+bud_flhv_assets_2024,igs_flhv,2024,284464478,,,executed,src_flhv_jr2025_nbb,strong,2024 assets 284464478 comparative Sibelgas-only; tick1387; primary official NBB WVV 20/58
+bud_flhv_fixed_2025,igs_flhv,2025,1173663587,,,executed,src_flhv_jr2025_nbb,strong,2025 vaste activa 1173663587 vs 243800114; tick1387; primary official NBB WVV 21/28
+bud_flhv_iva_2025,igs_flhv,2025,8981337,,,executed,src_flhv_jr2025_nbb,strong,2025 IVA 8981337 vs 2087500; tick1387; primary official NBB WVV 21
+bud_flhv_iva_acq_2025,igs_flhv,2025,31175187,,,executed,src_flhv_jr2025_nbb,strong,2025 IVA aanschaf 31175187 (8021); tick1387; primary official NBB WVV 6.2.1
+bud_flhv_mva_2025,igs_flhv,2025,1123655974,,,executed,src_flhv_jr2025_nbb,strong,2025 MVA 1123655974 vs 240042105; tick1387; primary official NBB WVV 22/27
+bud_flhv_buildings_2025,igs_flhv,2025,7989142,,,executed,src_flhv_jr2025_nbb,strong,2025 terreinen/gebouwen 7989142 vs 2011834; tick1387; primary official NBB WVV 22
+bud_flhv_buildings_acq_2025,igs_flhv,2025,5990671,,,executed,src_flhv_jr2025_nbb,strong,2025 gebouwen aanschaf 5990671 (8161); tick1387; primary official NBB WVV 6.3.1
+bud_flhv_machines_2025,igs_flhv,2025,978008596,,,executed,src_flhv_jr2025_nbb,strong,2025 installaties/machines 978008596 vs 213778169; tick1387; primary official NBB WVV 23
+bud_flhv_machines_acq_2025,igs_flhv,2025,1124427467,,,executed,src_flhv_jr2025_nbb,strong,2025 machines aanschaf 1124427467 (8162) incl merger inbreng + overboeking 96314586 from CIP; tick1387; primary official NBB WVV 6.3.2
+bud_flhv_furniture_2025,igs_flhv,2025,5021297,,,executed,src_flhv_jr2025_nbb,strong,2025 meubilair/rollend 5021297 vs 560758; tick1387; primary official NBB WVV 24
+bud_flhv_lease_mva_2025,igs_flhv,2025,8042236,,,executed,src_flhv_jr2025_nbb,strong,2025 leasing MVA 8042236 vs 1368680; tick1387; primary official NBB WVV 25
+bud_flhv_other_mva_2025,igs_flhv,2025,640258,,,executed,src_flhv_jr2025_nbb,strong,2025 overige MVA 640258 vs 177997; tick1387; primary official NBB WVV 26
+bud_flhv_cip_2025,igs_flhv,2025,123954446,,,executed,src_flhv_jr2025_nbb,strong,2025 CIP 123954446 vs 22144666; aanschaf 198701230; tick1387; primary official NBB WVV 27
+bud_flhv_cip_acq_2025,igs_flhv,2025,198701230,,,executed,src_flhv_jr2025_nbb,strong,2025 CIP aanschaf 198701230 (8166); tick1387; primary official NBB WVV 6.3.6
+bud_flhv_fva_2025,igs_flhv,2025,41026276,,,executed,src_flhv_jr2025_nbb,strong,2025 FVA 41026276 vs 1670509; tick1387; primary official NBB WVV 28
+bud_flhv_fva_part_2025,igs_flhv,2025,7703925,,,executed,src_flhv_jr2025_nbb,strong,2025 deelnemingen 7703925 (FSO 6.39pct A / 7.26pct K-SYN / Transco 11.11pct); tick1387; primary official NBB WVV 282
+bud_flhv_fva_shares_2025,igs_flhv,2025,33322350,,,executed,src_flhv_jr2025_nbb,strong,2025 andere aandelen 33322350 vs empty; tick1387; primary official NBB WVV 284
+bud_flhv_current_2025,igs_flhv,2025,181775096,,,executed,src_flhv_jr2025_nbb,strong,2025 vlottende activa 181775096 vs 40664364; tick1387; primary official NBB WVV 29/58
+bud_flhv_ltrecv_2025,igs_flhv,2025,2982736,,,executed,src_flhv_jr2025_nbb,strong,2025 LT vorderingen 2982736 vs empty (other 291); tick1387; primary official NBB WVV 29
+bud_flhv_wip_2025,igs_flhv,2025,5991072,,,executed,src_flhv_jr2025_nbb,strong,2025 bestellingen in uitvoering 5991072 vs 3455323; tick1387; primary official NBB WVV 37
+bud_flhv_strecv_2025,igs_flhv,2025,138308251,,,executed,src_flhv_jr2025_nbb,strong,2025 ST vorderingen 138308251 vs 27026443; tick1387; primary official NBB WVV 40/41
+bud_flhv_trade_2025,igs_flhv,2025,37059251,,,executed,src_flhv_jr2025_nbb,strong,2025 handelsvorderingen 37059251 vs 5700295; tick1387; primary official NBB WVV 40
+bud_flhv_othrecv_2025,igs_flhv,2025,101249000,,,executed,src_flhv_jr2025_nbb,strong,2025 overige ST vorderingen 101249000 vs 21326147; tick1387; primary official NBB WVV 41
+bud_flhv_cash_2025,igs_flhv,2025,1357,,,executed,src_flhv_jr2025_nbb,strong,2025 liquide middelen 1357 vs 835 (near-zero vs 1.01bn debt); tick1387; primary official NBB WVV 54/58
+bud_flhv_prepaid_2025,igs_flhv,2025,34491680,,,executed,src_flhv_jr2025_nbb,strong,2025 overlopend actief 34491680 vs 10181764; tick1387; primary official NBB WVV 490/1
+bud_flhv_prepaid_reg_2025,igs_flhv,2025,13539209,,,executed,src_flhv_jr2025_nbb,strong,2025 regulatoire saldi gas in prepaid 13539209; tick1387; primary official NBB WVV 6.6
+bud_flhv_equity_2025,igs_flhv,2025,343177460,,,executed,src_flhv_jr2025_nbb,strong,2025 eigen vermogen 343177460 vs 70839921; tick1387; primary official NBB WVV 10/15
+bud_flhv_equity_2024,igs_flhv,2024,70839921,,,executed,src_flhv_jr2025_nbb,strong,2024 eigen vermogen 70839921 comparative Sibelgas-only; tick1387; primary official NBB WVV 10/15
+bud_flhv_inbreng_2025,igs_flhv,2025,168452281,,,executed,src_flhv_jr2025_nbb,strong,2025 inbreng beschikbaar 168452281 vs 70923671 (partiële splitsing +100651460); tick1387; primary official NBB WVV 10/11
+bud_flhv_reval_2025,igs_flhv,2025,51345743,,,executed,src_flhv_jr2025_nbb,strong,2025 herwaarderingsmeerwaarden 51345743 vs empty; tick1387; primary official NBB WVV 12
+bud_flhv_reserves_2025,igs_flhv,2025,96463971,,,executed,src_flhv_jr2025_nbb,strong,2025 reserves 96463971 (onbeschikbaar 31413645 + belastingvrij 1499812 + beschikbaar 63550514); tick1387; primary official NBB WVV 13
+bud_flhv_retained_2025,igs_flhv,2025,26085863,,,executed,src_flhv_jr2025_nbb,strong,2025 overgedragen winst 26085863 vs -83750; tick1387; primary official NBB WVV 14
+bud_flhv_capsub_2025,igs_flhv,2025,829602,,,executed,src_flhv_jr2025_nbb,strong,2025 kapitaalsubsidies 829602 vs empty; tick1387; primary official NBB WVV 15
+bud_flhv_prov_2025,igs_flhv,2025,414243,,,executed,src_flhv_jr2025_nbb,strong,2025 voorzieningen+latenties 414243 (all uitgesteld 168; pens 160 empty); tick1387; primary official NBB WVV 16
+bud_flhv_debt_2025,igs_flhv,2025,1011846980,,,executed,src_flhv_jr2025_nbb,strong,2025 schulden 1011846980 vs 213624557; tick1387; primary official NBB WVV 17/49
+bud_flhv_debt_2024,igs_flhv,2024,213624557,,,executed,src_flhv_jr2025_nbb,strong,2024 schulden 213624557 comparative Sibelgas-only; tick1387; primary official NBB WVV 17/49
+bud_flhv_lt_2025,igs_flhv,2025,856337100,,,executed,src_flhv_jr2025_nbb,strong,2025 LT schulden 856337100 vs 180732719 (all financial); tick1387; primary official NBB WVV 17
+bud_flhv_ltbank_2025,igs_flhv,2025,270662356,,,executed,src_flhv_jr2025_nbb,strong,2025 LT kredietinstellingen 270662356 vs 178063965; tick1387; primary official NBB WVV 173
+bud_flhv_ltlease_2025,igs_flhv,2025,7878818,,,executed,src_flhv_jr2025_nbb,strong,2025 LT leasing 7878818 vs 1338754; tick1387; primary official NBB WVV 172
+bud_flhv_ltother_2025,igs_flhv,2025,577795926,,,executed,src_flhv_jr2025_nbb,strong,2025 LT overige leningen 577795926 JUMP vs 1330000; tick1387; primary official NBB WVV 174
+bud_flhv_st_2025,igs_flhv,2025,105925518,,,executed,src_flhv_jr2025_nbb,strong,2025 ST schulden 105925518 vs 26799350; tick1387; primary official NBB WVV 42/48
+bud_flhv_st_due_2025,igs_flhv,2025,36186963,,,executed,src_flhv_jr2025_nbb,strong,2025 LT-due within year 36186963 vs 10330375; tick1387; primary official NBB WVV 42
+bud_flhv_stfin_2025,igs_flhv,2025,9000000,,,executed,src_flhv_jr2025_nbb,strong,2025 ST financiële schulden bank 9000000 vs 9500000; tick1387; primary official NBB WVV 43
+bud_flhv_sttrade_2025,igs_flhv,2025,42454133,,,executed,src_flhv_jr2025_nbb,strong,2025 leveranciers 42454133 JUMP vs 1942308; tick1387; primary official NBB WVV 440/4
+bud_flhv_stadv_2025,igs_flhv,2025,10538332,,,executed,src_flhv_jr2025_nbb,strong,2025 vooruitbetalingen 10538332 vs 3637778; tick1387; primary official NBB WVV 46
+bud_flhv_sttax_2025,igs_flhv,2025,5957519,,,executed,src_flhv_jr2025_nbb,strong,2025 tax ST 5957519 vs 963678 (soc empty); tick1387; primary official NBB WVV 45
+bud_flhv_stother_2025,igs_flhv,2025,1788571,,,executed,src_flhv_jr2025_nbb,strong,2025 overige ST 1788571 vs 425211; tick1387; primary official NBB WVV 47/48
+bud_flhv_accrued_2025,igs_flhv,2025,49584362,,,executed,src_flhv_jr2025_nbb,strong,2025 overlopend passief 49584362 vs 6092488; tick1387; primary official NBB WVV 492/3
+bud_flhv_reldebt_2025,igs_flhv,2025,261746783,,,executed,src_flhv_jr2025_nbb,strong,2025 related-party debt 261746783 (LT 220471881 / ST 41274902; FSO-seam 6.15); tick1387; primary official NBB WVV 6.15 9352
+bud_flhv_opsinc_2025,igs_flhv,2025,275138115,,,executed,src_flhv_jr2025_nbb,strong,2025 bedrijfsopbrengsten 275138115 vs 53449383; tick1387; primary official NBB WVV 70/76A
+bud_flhv_omzet_2025,igs_flhv,2025,238155358,,,executed,src_flhv_jr2025_nbb,strong,2025 omzet 238155358 JUMP vs 47051256; 6.10 geo empty; tick1387; primary official NBB WVV 70
+bud_flhv_omzet_2024,igs_flhv,2024,47051256,,,executed,src_flhv_jr2025_nbb,strong,2024 omzet 47051256 comparative Sibelgas-only; tick1387; primary official NBB WVV 70
+bud_flhv_omzet_elec_2025,igs_flhv,2025,187129541,,,executed,src_flhv_jr2025_nbb,strong,2025 omzet elektriciteit 187129541 vs 33316188; tick1387; primary official NBB WVV 6.10
+bud_flhv_omzet_gas_2025,igs_flhv,2025,47431873,,,executed,src_flhv_jr2025_nbb,strong,2025 omzet gas 47431873 vs 12208916; tick1387; primary official NBB WVV 6.10
+bud_flhv_omzet_other_2025,igs_flhv,2025,3593943,,,executed,src_flhv_jr2025_nbb,strong,2025 omzet overige 3593943 vs 1526152; tick1387; primary official NBB WVV 6.10
+bud_flhv_othops_2025,igs_flhv,2025,36778722,,,executed,src_flhv_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 36778722 vs 5878427; 740 empty; tick1387; primary official NBB WVV 74
+bud_flhv_opscost_2025,igs_flhv,2025,234720978,,,executed,src_flhv_jr2025_nbb,strong,2025 bedrijfskosten 234720978 vs 49240037; tick1387; primary official NBB WVV 60/66A
+bud_flhv_goods_2025,igs_flhv,2025,96237287,,,executed,src_flhv_jr2025_nbb,strong,2025 handelsgoederen 96237287 vs 14388729; tick1387; primary official NBB WVV 60
+bud_flhv_diensten_2025,igs_flhv,2025,76141115,,,executed,src_flhv_jr2025_nbb,strong,2025 diensten 76141115 vs 18425605; no split; FSO pass-through; tick1387; primary official NBB WVV 61
+bud_flhv_diensten_2024,igs_flhv,2024,18425605,,,executed,src_flhv_jr2025_nbb,strong,2024 diensten 18425605 comparative Sibelgas-only; tick1387; primary official NBB WVV 61
+bud_flhv_pers_2025,igs_flhv,2025,0,,,executed,src_flhv_jr2025_nbb,strong,2025 bezoldigingen 62 empty / 9087 empty / 0 VTE (werkmaatschappij FSO); tick1387; primary official NBB WVV 62
+bud_flhv_deprec_2025,igs_flhv,2025,47090782,,,executed,src_flhv_jr2025_nbb,strong,2025 afschrijvingen 47090782 vs 10049809; tick1387; primary official NBB WVV 630
+bud_flhv_othcost_2025,igs_flhv,2025,14556475,,,executed,src_flhv_jr2025_nbb,strong,2025 andere bedrijfskosten 14556475 (tax 70081 + other 14486395); tick1387; primary official NBB WVV 640/8
+bud_flhv_expl_2025,igs_flhv,2025,40417136,,,executed,src_flhv_jr2025_nbb,strong,2025 bedrijfswinst 40417136 vs 4209346; tick1387; primary official NBB WVV 9901
+bud_flhv_expl_2024,igs_flhv,2024,4209346,,,executed,src_flhv_jr2025_nbb,strong,2024 bedrijfswinst 4209346 comparative Sibelgas-only; tick1387; primary official NBB WVV 9901
+bud_flhv_fininc_2025,igs_flhv,2025,5887614,,,executed,src_flhv_jr2025_nbb,strong,2025 financiele opbrengsten 5887614 vs 852175 (FVA 4269812 + vlottende 1554098); tick1387; primary official NBB WVV 75
+bud_flhv_fincost_2025,igs_flhv,2025,26263851,,,executed,src_flhv_jr2025_nbb,strong,2025 financiele kosten 26263851 vs 5012243 (schulden 26262167); tick1387; primary official NBB WVV 65
+bud_flhv_tax_2025,igs_flhv,2025,4872862,,,executed,src_flhv_jr2025_nbb,strong,2025 belastingen 4872862 vs 355702; tick1387; primary official NBB WVV 67/77
+bud_flhv_pnl_2025,igs_flhv,2025,15189063,,,executed,src_flhv_jr2025_nbb,strong,2025 PnL 9904 15189063 vs -306424; commissaris quotes 9905 15197948; tick1387; primary official NBB WVV
+bud_flhv_pnl_2024,igs_flhv,2024,-306424,,,executed,src_flhv_jr2025_nbb,strong,2024 PnL -306424 comparative Sibelgas-only; tick1387; primary official NBB WVV 9904
+bud_flhv_alloc_2025,igs_flhv,2025,15197948,,,executed,src_flhv_jr2025_nbb,strong,2025 te bestemmen 9905 15197948 vs -306424; commissaris 15197948; tick1387; primary official NBB WVV 9905
+bud_flhv_div_2025,igs_flhv,2025,4356632,,,executed,src_flhv_jr2025_nbb,strong,2025 dividend/vergoeding inbreng 4356632 vs 1531181; tick1387; primary official NBB WVV 694
+bud_flhv_div_2024,igs_flhv,2024,1531181,,,executed,src_flhv_jr2025_nbb,strong,2024 dividend 1531181 comparative Sibelgas-only; tick1387; primary official NBB WVV 694
+bud_flhv_capex_2025,igs_flhv,2025,148524000,,,executed,src_flhv_jr2025_nbb,strong,2025 gerealiseerd bruto investeringsbudget 148524000 (jaarverslag duizenden); tick1387; primary official NBB WVV jaarverslag
+bud_flhv_comm_2025,igs_flhv,2025,11719,,,executed,src_flhv_jr2025_nbb,strong,2025 commissaris EY 11719 + extra controle 35329 + taxadvies verbonden 3529; tick1387; primary official NBB WVV 9505
+bud_flhv_comm_extra_2025,igs_flhv,2025,35329,,,executed,src_flhv_jr2025_nbb,strong,2025 commissaris andere controleopdrachten 35329; tick1387; primary official NBB WVV 95061
+bud_flhv_board_2025,igs_flhv,2025,31580,,,executed,src_flhv_jr2025_nbb,strong,2025 bestuurders 9503 31580; tick1387; primary official NBB WVV 9503
+bud_flhv_tariff_elec_2025,igs_flhv,2025,489,,,executed,src_flhv_jr2025_nbb,strong,2025 nettarief elek gezin digitale meter 489 EUR incl btw vs 397 Sibelgas; tick1387; primary official Fluvius JR2025 jaarverslag
+bud_flhv_tariff_gas_2025,igs_flhv,2025,255,,,executed,src_flhv_jr2025_nbb,strong,2025 nettarief gas gezin 255 EUR incl btw vs 215 Sibelgas; tick1387; primary official Fluvius JR2025 jaarverslag
+bud_flhv_pens_fso_2025,igs_flhv,2025,7698779,,,executed,src_flhv_jr2025_nbb,strong,2025 off-balance FSO contractueel pensioen aandeel 7698778.66 + statutair Fluvius OV 3369000; tick1387; primary official NBB WVV 6.20
+bud_flhv_shares_nb_2025,igs_flhv,2025,12943110,,,executed,src_flhv_jr2025_nbb,strong,2025 aandelen netbeheer+neven 12943110 + Aov 429477; tick1387; primary official Fluvius JR2025 jaarverslag
