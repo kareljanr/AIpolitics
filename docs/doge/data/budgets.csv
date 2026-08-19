@@ -40202,3 +40202,53 @@ bud_rlsd_pnl_2024,vzw_rlsd,2024,208798,,,executed,src_rlsd_jr2025_nbb,strong,202
 bud_rlsd_div_2025,vzw_rlsd,2025,0,,,executed,src_rlsd_jr2025_nbb,strong,2025 dividend 0 / no 694; tick1432; primary official NBB WVV
 bud_rlsd_capex_2025,vzw_rlsd,2025,72455,,,executed,src_rlsd_jr2025_nbb,strong,2025 MVA aanschaffingen 72455; FVA aanschaf 8850 extra; tick1432; primary official NBB WVV 8169
 bud_rlsd_commissaris_2025,vzw_rlsd,2025,4977,,,executed,src_rlsd_jr2025_nbb,strong,2025 commissaris Baker Tilly mandaat 4977 excl btw; tick1432; primary official NBB WVV 6.6
+bud_rlkm_assets_2025,vzw_rlkm,2025,4741120,,,executed,src_rlkm_jr2025_nbb,strong,2025 assets 4741120 VKT-VZW 20/58; tick1433; primary official NBB WVV
+bud_rlkm_assets_2024,vzw_rlkm,2024,5208182,,,executed,src_rlkm_jr2025_nbb,strong,2024 assets 5208182 comparative; tick1433; primary official NBB WVV 20/58
+bud_rlkm_fixed_2025,vzw_rlkm,2025,1195488,,,executed,src_rlkm_jr2025_nbb,strong,2025 vaste activa 1195488 vs 1091126; tick1433; primary official NBB WVV 21/28
+bud_rlkm_iva_2025,vzw_rlkm,2025,27488,,,executed,src_rlkm_jr2025_nbb,strong,2025 IVA 27488 vs 43218; tick1433; primary official NBB WVV 21
+bud_rlkm_mva_2025,vzw_rlkm,2025,1167800,,,executed,src_rlkm_jr2025_nbb,strong,2025 MVA 1167800 vs 1047708; tick1433; primary official NBB WVV 22/27
+bud_rlkm_gebouwen_2025,vzw_rlkm,2025,833852,,,executed,src_rlkm_jr2025_nbb,strong,2025 terreinen/gebouwen 833852 vs 891501; tick1433; primary official NBB WVV 22
+bud_rlkm_machines_2025,vzw_rlkm,2025,84737,,,executed,src_rlkm_jr2025_nbb,strong,2025 machines 84737 vs 71395; tick1433; primary official NBB WVV 23
+bud_rlkm_meubilair_2025,vzw_rlkm,2025,26194,,,executed,src_rlkm_jr2025_nbb,strong,2025 meubilair/rollend 26194 vs 18447; tick1433; primary official NBB WVV 24
+bud_rlkm_leasing_2025,vzw_rlkm,2025,259,,,executed,src_rlkm_jr2025_nbb,strong,2025 leasing 259 vs 1071; tick1433; primary official NBB WVV 25
+bud_rlkm_overige_mva_2025,vzw_rlkm,2025,4159,,,executed,src_rlkm_jr2025_nbb,strong,2025 overige MVA 4159 vs 4640; tick1433; primary official NBB WVV 26
+bud_rlkm_cip_2025,vzw_rlkm,2025,218599,,,executed,src_rlkm_jr2025_nbb,strong,2025 CIP 218599 vs 60654; tick1433; primary official NBB WVV 27
+bud_rlkm_fva_2025,vzw_rlkm,2025,200,,,executed,src_rlkm_jr2025_nbb,strong,2025 FVA 200 vs 200; tick1433; primary official NBB WVV 28
+bud_rlkm_current_2025,vzw_rlkm,2025,3545632,,,executed,src_rlkm_jr2025_nbb,strong,2025 vlottend 3545632 vs 4117056; tick1433; primary official NBB WVV 29/58
+bud_rlkm_voorraden_2025,vzw_rlkm,2025,191257,,,executed,src_rlkm_jr2025_nbb,strong,2025 voorraden 191257 vs 142633; tick1433; primary official NBB WVV 30/36
+bud_rlkm_strecv_2025,vzw_rlkm,2025,1008915,,,executed,src_rlkm_jr2025_nbb,strong,2025 ST vorderingen 1008915 vs 1986625; tick1433; primary official NBB WVV 40/41
+bud_rlkm_trade_2025,vzw_rlkm,2025,173690,,,executed,src_rlkm_jr2025_nbb,strong,2025 handelsvorderingen 173690 vs 191327; tick1433; primary official NBB WVV 40
+bud_rlkm_othrecv_2025,vzw_rlkm,2025,835225,,,executed,src_rlkm_jr2025_nbb,strong,2025 overige vorderingen 835225 DROP vs 1795297; tick1433; primary official NBB WVV 41
+bud_rlkm_othrecv_2024,vzw_rlkm,2024,1795297,,,executed,src_rlkm_jr2025_nbb,strong,2024 overige vorderingen 1795297 comparative; tick1433; primary official NBB WVV 41
+bud_rlkm_invest_2025,vzw_rlkm,2025,500000,,,executed,src_rlkm_jr2025_nbb,strong,2025 geldbeleggingen 500000 vs 300000; tick1433; primary official NBB WVV 50/53
+bud_rlkm_cash_2025,vzw_rlkm,2025,1802565,,,executed,src_rlkm_jr2025_nbb,strong,2025 liquide middelen 1802565 JUMP vs 1639737; tick1433; primary official NBB WVV 54/58
+bud_rlkm_cash_2024,vzw_rlkm,2024,1639737,,,executed,src_rlkm_jr2025_nbb,strong,2024 liquide middelen 1639737 comparative; tick1433; primary official NBB WVV 54/58
+bud_rlkm_prepaid_2025,vzw_rlkm,2025,42895,,,executed,src_rlkm_jr2025_nbb,strong,2025 prepaid 42895 vs 48061; tick1433; primary official NBB WVV 490/1
+bud_rlkm_equity_2025,vzw_rlkm,2025,1855054,,,executed,src_rlkm_jr2025_nbb,strong,2025 EV 1855054 vs 2016806; tick1433; primary official NBB WVV 10/15
+bud_rlkm_equity_2024,vzw_rlkm,2024,2016806,,,executed,src_rlkm_jr2025_nbb,strong,2024 EV 2016806 comparative; tick1433; primary official NBB WVV 10/15
+bud_rlkm_bestemde_2025,vzw_rlkm,2025,1038694,,,executed,src_rlkm_jr2025_nbb,strong,2025 bestemde fondsen 1038694 vs 1134737; tick1433; primary official NBB WVV 13
+bud_rlkm_capsub_2025,vzw_rlkm,2025,816360,,,executed,src_rlkm_jr2025_nbb,strong,2025 kapitaalsubsidies 816360 vs 882069; tick1433; primary official NBB WVV 15
+bud_rlkm_debt_2025,vzw_rlkm,2025,2886066,,,executed,src_rlkm_jr2025_nbb,strong,2025 schulden 2886066 vs 3191376 (LT empty); tick1433; primary official NBB WVV 17/49
+bud_rlkm_stdebt_2025,vzw_rlkm,2025,1079664,,,executed,src_rlkm_jr2025_nbb,strong,2025 ST schulden 1079664 vs 820455; tick1433; primary official NBB WVV 42/48
+bud_rlkm_lev_2025,vzw_rlkm,2025,706688,,,executed,src_rlkm_jr2025_nbb,strong,2025 leveranciers 706688 JUMP vs 447393; tick1433; primary official NBB WVV 440/4
+bud_rlkm_lev_2024,vzw_rlkm,2024,447393,,,executed,src_rlkm_jr2025_nbb,strong,2024 leveranciers 447393 comparative; tick1433; primary official NBB WVV 440/4
+bud_rlkm_taxsoc_2025,vzw_rlkm,2025,372716,,,executed,src_rlkm_jr2025_nbb,strong,2025 tax/soc 372716 vs 371964; tick1433; primary official NBB WVV 45
+bud_rlkm_tax_2025,vzw_rlkm,2025,78533,,,executed,src_rlkm_jr2025_nbb,strong,2025 belastingen 78533 vs 76987; tick1433; primary official NBB WVV 450/3
+bud_rlkm_bezold_2025,vzw_rlkm,2025,294183,,,executed,src_rlkm_jr2025_nbb,strong,2025 bezoldigingen/sociale lasten 294183 vs 294977; tick1433; primary official NBB WVV 454/9
+bud_rlkm_deferred_2025,vzw_rlkm,2025,1806402,,,executed,src_rlkm_jr2025_nbb,strong,2025 overlopend passief 1806402 vs 2370660; tick1433; primary official NBB WVV 492/3
+bud_rlkm_brutomarge_2025,vzw_rlkm,2025,2443912,,,executed,src_rlkm_jr2025_nbb,strong,2025 brutomarge 2443912 vs 2576463; omzet 70 empty; 73 empty; 60/61 empty; tick1433; primary official NBB WVV 9900
+bud_rlkm_brutomarge_2024,vzw_rlkm,2024,2576463,,,executed,src_rlkm_jr2025_nbb,strong,2024 brutomarge 2576463 comparative; tick1433; primary official NBB WVV 9900
+bud_rlkm_pers_2025,vzw_rlkm,2025,2505888,,,executed,src_rlkm_jr2025_nbb,strong,2025 pers 2505888 / 30.3 VTE vs 2484310 / 30.3; tick1433; primary official NBB WVV 62
+bud_rlkm_pers_2024,vzw_rlkm,2024,2484310,,,executed,src_rlkm_jr2025_nbb,strong,2024 pers 2484310 / 30.3 VTE comparative; tick1433; primary official NBB WVV 62
+bud_rlkm_afschr_2025,vzw_rlkm,2025,122183,,,executed,src_rlkm_jr2025_nbb,strong,2025 afschrijvingen 122183 vs 117861; tick1433; primary official NBB WVV 630
+bud_rlkm_andere_2025,vzw_rlkm,2025,21990,,,executed,src_rlkm_jr2025_nbb,strong,2025 andere bedrijfskosten 21990 vs 35467; tick1433; primary official NBB WVV 640/8
+bud_rlkm_expl_2025,vzw_rlkm,2025,-206149,,,executed,src_rlkm_jr2025_nbb,strong,2025 expl -206149 vs -73675; tick1433; primary official NBB WVV 9901
+bud_rlkm_expl_2024,vzw_rlkm,2024,-73675,,,executed,src_rlkm_jr2025_nbb,strong,2024 expl -73675 comparative; tick1433; primary official NBB WVV 9901
+bud_rlkm_finopbr_2025,vzw_rlkm,2025,123293,,,executed,src_rlkm_jr2025_nbb,strong,2025 fin opbr 123293 vs 120716; tick1433; primary official NBB WVV 75/76B
+bud_rlkm_finkost_2025,vzw_rlkm,2025,6768,,,executed,src_rlkm_jr2025_nbb,strong,2025 fin kosten 6768 vs 5802; tick1433; primary official NBB WVV 65/66B
+bud_rlkm_taxpnl_2025,vzw_rlkm,2025,6418,,,executed,src_rlkm_jr2025_nbb,strong,2025 belastingen resultaat 6418 vs 9229; tick1433; primary official NBB WVV 67/77
+bud_rlkm_pnl_2025,vzw_rlkm,2025,-96043,,,executed,src_rlkm_jr2025_nbb,strong,2025 PnL -96043 vs 32010; tick1433; primary official NBB WVV 9904
+bud_rlkm_pnl_2024,vzw_rlkm,2024,32010,,,executed,src_rlkm_jr2025_nbb,strong,2024 PnL 32010 comparative; tick1433; primary official NBB WVV 9904
+bud_rlkm_div_2025,vzw_rlkm,2025,0,,,executed,src_rlkm_jr2025_nbb,strong,2025 dividend 0 / no 694; tick1433; primary official NBB WVV
+bud_rlkm_capex_2025,vzw_rlkm,2025,287199,,,executed,src_rlkm_jr2025_nbb,strong,2025 MVA aanschaffingen 287199; IVA/FVA aanschaf empty; tick1433; primary official NBB WVV 8169
+bud_rlkm_onttrekking_2025,vzw_rlkm,2025,96043,,,executed,src_rlkm_jr2025_nbb,strong,2025 onttrekking bestemde fondsen 96043; tick1433; primary official NBB WVV 791
