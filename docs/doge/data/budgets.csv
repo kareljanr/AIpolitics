@@ -43850,3 +43850,40 @@ bud_cgan_pnl_2025,cgg_cgan,2025,-38833,,,executed,src_cgan_jr2025_nbb,strong,202
 bud_cgan_div_2025,cgg_cgan,2025,0,,,executed,src_cgan_jr2025_nbb,strong,2025 dividend 0 VZW; tick1519; primary official NBB WVV VOL-VZW 2026-00103827
 bud_cgan_capex_2025,cgg_cgan,2025,1280560,,,executed,src_cgan_jr2025_nbb,strong,2025 capex MVA 8161 75846 + 8162 12637 + 8166 1192077 = 1280560; tick1519; primary official NBB WVV VOL-VZW 2026-00103827
 bud_cgan_subsidies733_2025,cgg_cgan,2025,9663086,,,executed,src_cgan_jr2025_nbb,strong,2025 subsidies 733 9663086 (of 73 9664811); tick1519; primary official NBB WVV VOL-VZW 2026-00103827
+bud_cgpa_assets_2025,cgg_cgpa,2025,2781229,,,executed,src_cgpa_jr2025_nbb,strong,2025 assets 2781229 UP (was 2540031); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_vaste_2025,cgg_cgpa,2025,1784127,,,executed,src_cgpa_jr2025_nbb,strong,2025 vaste activa 21/28 1784127 JUMP (was 944781); IVA 21 empty; tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_mva_2025,cgg_cgpa,2025,1778507,,,executed,src_cgpa_jr2025_nbb,strong,2025 MVA 22/27 1778507 JUMP (was 940010); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_gebouwen_2025,cgg_cgpa,2025,1719340,,,executed,src_cgpa_jr2025_nbb,strong,2025 terreinen/gebouwen 22 1719340 JUMP (was 866841); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_install_2025,cgg_cgpa,2025,48583,,,executed,src_cgpa_jr2025_nbb,strong,2025 installaties 23 48583 DROP (was 56319); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_meubilair_2025,cgg_cgpa,2025,10583,,,executed,src_cgpa_jr2025_nbb,strong,2025 meubilair 24 10583 DROP (was 16850); leasing 25 empty; overige 26 empty; in aanbouw 27 empty; tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_fva_2025,cgg_cgpa,2025,5621,,,executed,src_cgpa_jr2025_nbb,strong,2025 FVA 28 5621 UP (was 4771); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_current_2025,cgg_cgpa,2025,997101,,,executed,src_cgpa_jr2025_nbb,strong,2025 vlottende 29/58 997101 DROP (was 1595250); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_strecv_2025,cgg_cgpa,2025,565727,,,executed,src_cgpa_jr2025_nbb,strong,2025 ST vorderingen 40/41 565727 DROP (was 820182; trade 183347 DROP was 214905 + other 382380 DROP was 605277); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_handelsrecv_2025,cgg_cgpa,2025,183347,,,executed,src_cgpa_jr2025_nbb,strong,2025 handelsvorderingen 40 183347 DROP (was 214905); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_overige_recv_2025,cgg_cgpa,2025,382380,,,executed,src_cgpa_jr2025_nbb,strong,2025 overige vorderingen 41 382380 DROP (was 605277); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_cash_2025,cgg_cgpa,2025,396462,,,executed,src_cgpa_jr2025_nbb,strong,2025 liquide middelen 54/58 396462 DROP (was 740243); beleggingen 50/53 empty; tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_prepaid_2025,cgg_cgpa,2025,34912,,,executed,src_cgpa_jr2025_nbb,strong,2025 overlopend actief 490/1 34912 UP (was 34826); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_equity_2025,cgg_cgpa,2025,1473924,,,executed,src_cgpa_jr2025_nbb,strong,2025 eigen vermogen 10/15 1473924 DROP (was 1591703); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_bestemde_2025,cgg_cgpa,2025,59000,,,executed,src_cgpa_jr2025_nbb,strong,2025 bestemde fondsen 13 59000 stable; fondsen 10 empty; tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_overgedragen_2025,cgg_cgpa,2025,1180992,,,executed,src_cgpa_jr2025_nbb,strong,2025 overgedragen 14 1180992 DROP (was 1276782); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_kapsubs_2025,cgg_cgpa,2025,233932,,,executed,src_cgpa_jr2025_nbb,strong,2025 kapitaalsubsidies 15 233932 DROP (was 255921); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_voorz_2025,cgg_cgpa,2025,125000,,,executed,src_cgpa_jr2025_nbb,strong,2025 voorzieningen 16 125000 stable (Leuven 110000 + Haacht 15000); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_debt_2025,cgg_cgpa,2025,1182305,,,executed,src_cgpa_jr2025_nbb,strong,2025 schulden 17/49 1182305 JUMP (was 823328); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_ltdebt_2025,cgg_cgpa,2025,554031,,,executed,src_cgpa_jr2025_nbb,strong,2025 LT schulden 17 554031 JUMP (krediet 172/3 553702 JUMP was 100546; was 100875); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_stdebt_2025,cgg_cgpa,2025,623812,,,executed,src_cgpa_jr2025_nbb,strong,2025 ST schulden 42/48 623812 DROP (was 701364; 42 27031 / lev 195396 / taxsoc 401386); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_lev_2025,cgg_cgpa,2025,195396,,,executed,src_cgpa_jr2025_nbb,strong,2025 leveranciers 440/4 195396 JUMP (was 153931); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_taxsoc_2025,cgg_cgpa,2025,401386,,,executed,src_cgpa_jr2025_nbb,strong,2025 tax/soc 45 401386 (tax 3820 + bezold 397566); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_bruto_2025,cgg_cgpa,2025,3765465,,,executed,src_cgpa_jr2025_nbb,strong,2025 brutomarge 9900 3765465 UP (was 3612148); annual envelope VKT (omzet 70 empty; 73 empty; 60/61 empty); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_omzet_2025,cgg_cgpa,2025,0,,,executed,src_cgpa_jr2025_nbb,strong,2025 omzet 70 empty VKT; 73 empty; 60/61 empty; nrec 76A empty; tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_pers_2025,cgg_cgpa,2025,3712222,,,executed,src_cgpa_jr2025_nbb,strong,2025 pers 62 3712222 / 40.3 VTE (was 3466138 / 38.7); YE 63 / YE VTE 40.3; 56689 uur; PC 3310; tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_afschr_2025,cgg_cgpa,2025,140395,,,executed,src_cgpa_jr2025_nbb,strong,2025 afschrijvingen 630 140395 JUMP (was 78667); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_andere_2025,cgg_cgpa,2025,9089,,,executed,src_cgpa_jr2025_nbb,strong,2025 andere bedrijfskosten 640/8 9089 UP (was 6146); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_nrec_kost_2025,cgg_cgpa,2025,7496,,,executed,src_cgpa_jr2025_nbb,strong,2025 nrec bedrijfskosten 66A 7496 JUMP (was 0); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_expl_2025,cgg_cgpa,2025,-103737,,,executed,src_cgpa_jr2025_nbb,strong,2025 bedrijfswinst 9901 -103737 LOSS (was +61198); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_finopbr_2025,cgg_cgpa,2025,23335,,,executed,src_cgpa_jr2025_nbb,strong,2025 financiele opbrengsten 75 23335 UP (was 22383); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_finkost_2025,cgg_cgpa,2025,15388,,,executed,src_cgpa_jr2025_nbb,strong,2025 financiele kosten 65 15388 JUMP (was 1093); tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_pnl_2025,cgg_cgpa,2025,-95790,,,executed,src_cgpa_jr2025_nbb,strong,2025 winst 9904 -95790 LOSS (was +82488); tax 67/77 empty; tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_div_2025,cgg_cgpa,2025,0,,,executed,src_cgpa_jr2025_nbb,strong,2025 dividend 0 VZW; tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_capex_2025,cgg_cgpa,2025,978891,,,executed,src_cgpa_jr2025_nbb,strong,2025 capex MVA 8169 978891 JUMP; tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_hypotheek_2025,cgg_cgpa,2025,393212,,,executed,src_cgpa_jr2025_nbb,strong,2025 hypotheek boekwaarde bezwaarde activa 91611 393212; inschrijving 91621 362500; mandaat 91631 1040000; tick1520; primary official NBB WVV VKT-VZW 2026-00318619
+bud_cgpa_commissaris_2025,cgg_cgpa,2025,4499,,,executed,src_cgpa_jr2025_nbb,strong,2025 vergoeding commissaris 4499; tick1520; primary official NBB WVV VKT-VZW 2026-00318619

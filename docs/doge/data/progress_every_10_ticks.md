@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 1520** (2026-08-20)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1511-1520 leftover recognized Flemish CGG: **CGG Adentro** · **CGG VAGGA** · **CGG Prisma** · **CGG De Pont** · **CGG Integra** · **CGG Kempen** · **CGG Ahasverus** · **CGG Largo** · **CGG Andante** · **CGG PassAnt** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1511-1520 is VL residual dual L5 leftover recognized Flemish CGG (not near-complete of 348bn):** **CGG Integra** assets **14.98m** · **CGG VAGGA** assets **14.85m** · **CGG Andante** assets **10.66m** · **CGG Kempen** assets **10.47m** · **CGG Adentro** assets **9.83m** · **CGG Prisma** assets **8.44m** · **CGG De Pont** assets **7.37m** · **CGG Largo** assets **6.03m** · **CGG Ahasverus** assets **5.72m** · **CGG PassAnt** assets **2.78m** · prior leftover woonmaatschappij/tourism/IGS/APB/EVAP/Bosgroep/AGB/NV/Fluvius + leftover CGG 1507-1510 stack retained |
+| **E. FOI-ready gaps** | **~1163** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1211** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek/klimaat-holding/energy-DSO/zorg/cultuur/landschap/bosgroep/woonmaatschappij/CGG shells** (**NEW CGG PassAnt** assets **EUR2.78m** bruto **EUR3.77m** omzet empty 73 empty pers **EUR3.71m** / **40.3 VTE** MVA JUMP **EUR1.78m** capex **EUR0.98m** cash DROP **EUR0.40m** debt JUMP **EUR1.18m** · **CGG Andante** assets **EUR10.66m** · **CGG Largo** assets **EUR6.03m** · **CGG Ahasverus** assets **EUR5.72m** · **CGG Kempen** assets **EUR10.47m** · **CGG Integra** assets **EUR14.98m** · **CGG De Pont** assets **EUR7.37m** · **CGG Prisma** assets **EUR8.44m** · **CGG VAGGA** assets **EUR14.85m** · **CGG Adentro** assets **EUR9.83m** · **CGG ZOV** assets **EUR6.68m** · **CGG VBO** assets **EUR9.33m** · **CGG SDW** assets **EUR13.75m** · **CGG NWVL** assets **EUR5.93m** · **Vitare** assets **EUR17.06m** · **De Noorderkempen** assets **EUR129.32m** · **Woontrots** assets **EUR342.79m** · **Het Vlaamse Woonanker** assets **EUR116.28m** · **Providentia** assets **EUR228.33m** · prior leftover Vivus 303.99m / WM Elan 179.42m / Woonpijler 105.01m / de Thuisbouwer 202.55m / Meetjesland 255.96m / Woonstart 97.53m / IJzer en Zee 182.26m / Thuiswest 603.04m / Woonsprong 381.99m / Ons Onderdak 136.78m / Zetus 136.49m / Inter-Vilvoordse 175.61m / Woonschakel 155.66m / De Voorkempen 352.38m / Wonen in Limburg 2.060bn / Woonpunt Zennevallei 162.91m / !Mpuls 213.86m / WoonST 264.76m / stek92 228.25m / LeefGoed 570.75m / Kanvaz 358.52m / WMVA 350.87m / Woonboog 520.06m / Woonveer 122.30m / Woonkade 159.10m / Woonstroom 203.98m / Thuisrand 143.37m / Vivendo 605.93m / SW+ 401.69m / Woonhaven 1.561bn / Thuispunt Gent 926.32m / Dimensa 633.53m / Woonmaatschappij Rivierenland 523.68m / Dender-Zuid 424.73m / Dijledal 352.69m / Woonpunt Waas 280.64m / Tuinwijk 141.43m / Toerisme Limburg 4.36m / Toerisme Oost-Vlaanderen 3.40m / Toerisme Vlaams-Brabant 1.67m / Fluvius DNB + IGS stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1520)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 43888 |
+| commitments.csv | 5120 |
+| leaderboard.csv | 7323 |
+| entities.csv | 1265 |
+| sources.csv | 3217 |
+| FOI ready | 1163 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1211 |
+| research_queue open | rq_116 deferred + rq_1521 hole-fill after progress |
+
+### What improved since tick 1510
+
+- **VL residual dual leftover recognized Flemish CGG (tick1511-1519):** **CGG Integra** assets **14.98m** · **CGG VAGGA** assets **14.85m** · **CGG Andante** assets **10.66m** · **CGG Kempen** assets **10.47m** · **CGG Adentro** assets **9.83m** · **CGG Prisma** assets **8.44m** · **CGG De Pont** assets **7.37m** · **CGG Largo** assets **6.03m** · **CGG Ahasverus** assets **5.72m** — no invented euros.
+- **NEW (tick1520):** **CGG PassAnt VZW / Centrum voor Geestelijke Gezondheidszorg PassAnt** (KBO 0446.599.876) leftover recognized Flemish CGG / leftover zorg EVA of mined Leuven (NOT leftover CGG Andante 1519 / leftover CGG Largo 1518 / leftover CGG Ahasverus 1517 / leftover CGG Kempen 1516 / leftover CGG Integra 1515 / leftover CGG De Pont 1514 / leftover CGG Prisma 1513 / leftover CGG VAGGA 1512 / leftover CGG Adentro 1511 / leftover CGG ZOV 1510 / leftover CGG VBO 1509 same parent city_leuven other KBO / leftover CGG SDW 1508 / leftover CGG NWVL 1507 / leftover CGG umbrella cgg_vl / leftover official-41 1464-1505 / leftover APB Inovant / Atlas / leftover Puyenbroeck). Official NBB WVV VKT-VZW deposit **2026-00318619** PDF (2166085 bytes / 24p; AV 25.06.2026; header 20.07.2026; created 22.07.2026 23:43:23 UTC). Assets **2.781.229** · bruto **3.765.465** · omzet empty · 73 empty · pers **3.712.222** / **40.3 VTE** · MVA **1.778.507 JUMP** vs 940010 · capex **978.891** · cash **396.462 DROP** vs 740243 · debt **1.182.305 JUMP** vs 823328 · PnL **9904 -95.790 LOSS** · dividend **0**. FOI ready. Every-10 progress refresh from on-disk CSVs.
+- **Dual map themes:** **leftover recognized Flemish CGG** (CGG Integra 14.98m / CGG VAGGA 14.85m / CGG SDW 13.75m / CGG Andante 10.66m / CGG Kempen 10.47m / CGG Adentro 9.83m / CGG VBO 9.33m / CGG Prisma 8.44m / CGG De Pont 7.37m / CGG ZOV 6.68m / CGG Largo 6.03m / CGG NWVL 5.93m / CGG Ahasverus 5.72m / CGG PassAnt 2.78m) · leftover woonmaatschappij (Woontrots 342.79m / Providentia 228.33m / De Noorderkempen 129.32m / Het Vlaamse Woonanker 116.28m / Vitare 17.06m / Vivus 303.99m / WM Elan 179.42m / Woonpijler 105.01m / de Thuisbouwer 202.55m / Meetjesland 255.96m / Woonstart 97.53m / IJzer en Zee 182.26m / Thuiswest 603.04m / Woonsprong 381.99m / Ons Onderdak 136.78m) · prior leftover woonmaatschappij + leftover provincial tourism VZW + leftover provincial EVAP + leftover IGS/SON + leftover APB + leftover bosgroep IGS + leftover landschap IGS + leftover cultuur IGS + leftover waste daughter + leftover AGB + Nuhma + Fluvius DNB stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn.
+
 ## Snapshot at **tick 1510** (2026-08-20)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
