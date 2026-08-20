@@ -45077,3 +45077,33 @@ bud_meemoo_pnl_2025,vzw_meem,2025,11551,,,executed,src_meemoo_jr2025_nbb,strong,
 bud_meemoo_commissaris_2025,vzw_meem,2025,8600,,,executed,src_meemoo_jr2025_nbb,strong,2025 commissaris 8600 (Moore Audit BV / Carmen Van Camp); extra auditopdrachten 2500; tick1558; primary official NBB VKT-VZW
 bud_meemoo_capex_2025,vzw_meem,2025,484316,,,executed,src_meemoo_jr2025_nbb,strong,2025 IVA aanschaffingen 8029 227174 + MVA aanschaffingen 8169 257142 = 484316; tick1558; primary official NBB VKT-VZW
 bud_meemoo_uren_2025,vzw_meem,2025,101126,,,executed,src_meemoo_jr2025_nbb,strong,2025 sociale balans uren 101 101126 DROP was 101817; in 10.8 VTE / uit 15.8 VTE; opleiding formeel 72199 + informeel 131825; tick1558; primary official NBB VKT-VZW
+bud_knst_bruto_2025,vzw_knst,2025,1713627,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 brutomarge 9900 1713627 envelope (leftover public koepel VZW; VKT and omzet 70 empty; 73 empty); DROP was 1880371; tick1559; primary official NBB VKT-VZW AV 23.03.2026
+bud_knst_assets_2025,vzw_knst,2025,677951,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 balanstotaal 20/58 677951 DROP was 698077; VA+vlottend holds; tick1559; primary official NBB VKT-VZW
+bud_knst_va_2025,vzw_knst,2025,50772,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 vaste activa 21/28 50772 DROP was 73990; IVA+MVA+FVA holds; tick1559; primary official NBB VKT-VZW
+bud_knst_iva_2025,vzw_knst,2025,39212,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 IVA 21 39212 DROP was 54946; aanschaffingen 8029 empty; YE afschr 147706; tick1559; primary official NBB VKT-VZW
+bud_knst_mva_2025,vzw_knst,2025,9685,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 MVA 22/27 9685 DROP was 17169; installaties 23 8474 DROP; overige 26 1212; tick1559; primary official NBB VKT-VZW
+bud_knst_install_2025,vzw_knst,2025,8474,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 installaties machines uitrusting 23 8474 DROP was 14745; tick1559; primary official NBB VKT-VZW
+bud_knst_fva_2025,vzw_knst,2025,1875,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 FVA 28 1875 identiek; tick1559; primary official NBB VKT-VZW
+bud_knst_vlottend_2025,vzw_knst,2025,627179,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 vlottende 29/58 627179 UP was 624087; recv+cash+prepaid holds; tick1559; primary official NBB VKT-VZW
+bud_knst_recv_2025,vzw_knst,2025,259817,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 vorderingen ST 40/41 259817 UP was 243187; handelsrecv 40 25275 UP; other recv 41 234542 UP; tick1559; primary official NBB VKT-VZW
+bud_knst_otherrecv_2025,vzw_knst,2025,234542,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 overige vorderingen 41 234542 UP was 221550; tick1559; primary official NBB VKT-VZW
+bud_knst_cash_2025,vzw_knst,2025,324544,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 liquide middelen 54/58 324544 DROP was 368551; beleg 50/53 empty; tick1559; primary official NBB VKT-VZW
+bud_knst_prepaid_2025,vzw_knst,2025,42818,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 overlopend actief 490/1 42818 JUMP was 12349; tick1559; primary official NBB VKT-VZW
+bud_knst_equity_2025,vzw_knst,2025,366477,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 eigen vermogen 10/15 366477 DROP was 423811; fondsen+reserves+overgedragen holds; tick1559; primary official NBB VKT-VZW
+bud_knst_fondsen_2025,vzw_knst,2025,183615,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 fondsen 10 183615 identiek; tick1559; primary official NBB VKT-VZW
+bud_knst_reserves_2025,vzw_knst,2025,89870,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 bestemde fondsen 13 89870 DROP was 101529; onttrekking 791 11659 Overname fusie VTI + projecten; tick1559; primary official NBB VKT-VZW
+bud_knst_overgedragen_2025,vzw_knst,2025,92992,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 overgedragen resultaat 14 92992 DROP was 138667; 14P+9905+791 holds; tick1559; primary official NBB VKT-VZW
+bud_knst_debt_2025,vzw_knst,2025,311474,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 schulden 17/49 311474 UP was 274265; ST+accrued holds; LT empty; tick1559; primary official NBB VKT-VZW
+bud_knst_st_2025,vzw_knst,2025,254298,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 ST 42/48 254298 DROP was 254972; lev+taxsoc+vooruit holds; tick1559; primary official NBB VKT-VZW
+bud_knst_lev_2025,vzw_knst,2025,70453,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 handelsschulden 44 / leveranciers 440/4 70453 JUMP was 45202; tick1559; primary official NBB VKT-VZW
+bud_knst_taxsoc_2025,vzw_knst,2025,182745,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 belastingen/bezoldigingen 45 182745; tax 371 + bezold 182374 holds; tick1559; primary official NBB VKT-VZW
+bud_knst_accrued_2025,vzw_knst,2025,57176,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 overlopend passief 492/3 57176 JUMP was 19293; tick1559; primary official NBB VKT-VZW
+bud_knst_pers_2025,vzw_knst,2025,1742627,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 bezoldigingen 62 1742627 / 20 VTE DROP was 1769511 / 20.8; YE 19 / 12 voltijds + 10 deeltijds / 32513 uur; pers exceeds bruto; tick1559; primary official NBB VKT-VZW
+bud_knst_afschr_2025,vzw_knst,2025,27192,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 afschrijvingen 630 27192 DROP was 34116; IVA 15734 + MVA 11458 holds; tick1559; primary official NBB VKT-VZW
+bud_knst_othercosts_2025,vzw_knst,2025,735,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 andere bedrijfskosten 640/8 735 DROP was 7493; plus 66A 169; tick1559; primary official NBB VKT-VZW
+bud_knst_expl_2025,vzw_knst,2025,-57096,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 bedrijfsverlies 9901 -57096 LOSS was 61113 PROFIT; bruto-pers-afschr-other-66A holds; tick1559; primary official NBB VKT-VZW
+bud_knst_fininc_2025,vzw_knst,2025,476,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 financiele opbrengsten 75/76B 476 DROP was 18730; rec 408 + nonrec 68; tick1559; primary official NBB VKT-VZW
+bud_knst_fincost_2025,vzw_knst,2025,714,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 financiele kosten 65 714 DROP was 4288; tick1559; primary official NBB VKT-VZW
+bud_knst_pnl_2025,vzw_knst,2025,-57334,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 resultaat 9904/9905 -57334 LOSS was 75555 PROFIT; tax empty; tick1559; primary official NBB VKT-VZW
+bud_knst_capex_2025,vzw_knst,2025,8788,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 IVA aanschaffingen 8029 empty + MVA aanschaffingen 8169 8788 = 8788; MVA overdrachten 8179 5891; tick1559; primary official NBB VKT-VZW
+bud_knst_uren_2025,vzw_knst,2025,32513,,,executed,src_kunstenpunt_jr2025_nbb,strong,2025 sociale balans uren 101 32513 DROP was 34300; in 6.6 VTE / uit 8.4 VTE; tick1559; primary official NBB VKT-VZW
