@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 1530** (2026-08-20)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1521-1530 leftover recognized Flemish CGG + leftover IGS + leftover recognized Flemish CAW: **CGG Brussel** · **CGG Mandel en Leie** · **CGG Kohesi** · **IVAREM** · **CAW Antwerpen** · **CAW De Kempen** · **CAW Brussel** · **CAW Rivierenland** · **CAW Halle-Vilvoorde** · **CAW Oost-Brabant** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1521-1530 is VL residual dual L5 leftover recognized Flemish CGG + leftover IGS + leftover recognized Flemish CAW (not near-complete of 348bn):** **IVAREM** assets **61.40m** · **CAW De Kempen** assets **19.96m** · **CAW Antwerpen** assets **16.78m** · **CAW Halle-Vilvoorde** assets **13.49m** · **CAW Oost-Brabant** assets **9.73m** · **CAW Rivierenland** assets **9.36m** · **CGG Brussel** assets **8.65m** · **CGG Kohesi** assets **7.71m** · **CGG Mandel en Leie** assets **7.20m** · **CAW Brussel** assets **6.76m** · prior leftover woonmaatschappij/tourism/IGS/APB/EVAP/Bosgroep/AGB/NV/Fluvius + leftover CGG 1507-1520 stack retained |
+| **E. FOI-ready gaps** | **~1173** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1221** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek/klimaat-holding/energy-DSO/zorg/cultuur/landschap/bosgroep/woonmaatschappij/CGG/CAW shells** (**NEW CAW Oost-Brabant** assets **EUR9.73m** opbr **EUR14.04m** 73 **EUR13.47m** pers **EUR11.88m** / **163.5 VTE** cash DROP **EUR0.94m** beleg JUMP **EUR3.00m** expl LOSS **EUR77.5k** · **CAW Halle-Vilvoorde** assets **EUR13.49m** · **CAW Rivierenland** assets **EUR9.36m** · **CAW Brussel** assets **EUR6.76m** · **CAW De Kempen** assets **EUR19.96m** · **CAW Antwerpen** assets **EUR16.78m** · **IVAREM** assets **EUR61.40m** · **CGG Kohesi** assets **EUR7.71m** · **CGG Mandel en Leie** assets **EUR7.20m** · **CGG Brussel** assets **EUR8.65m** · **CGG PassAnt** assets **EUR2.78m** · **CGG Andante** assets **EUR10.66m** · **CGG Largo** assets **EUR6.03m** · **CGG Ahasverus** assets **EUR5.72m** · **CGG Kempen** assets **EUR10.47m** · **CGG Integra** assets **EUR14.98m** · **CGG De Pont** assets **EUR7.37m** · **CGG Prisma** assets **EUR8.44m** · **CGG VAGGA** assets **EUR14.85m** · **CGG Adentro** assets **EUR9.83m** · **CGG ZOV** assets **EUR6.68m** · **CGG VBO** assets **EUR9.33m** · **CGG SDW** assets **EUR13.75m** · **CGG NWVL** assets **EUR5.93m** · **Vitare** assets **EUR17.06m** · **De Noorderkempen** assets **EUR129.32m** · **Woontrots** assets **EUR342.79m** · **Het Vlaamse Woonanker** assets **EUR116.28m** · **Providentia** assets **EUR228.33m** · prior leftover Vivus 303.99m / WM Elan 179.42m / Woonpijler 105.01m / de Thuisbouwer 202.55m / Meetjesland 255.96m / Woonstart 97.53m / IJzer en Zee 182.26m / Thuiswest 603.04m / Woonsprong 381.99m / Ons Onderdak 136.78m / Zetus 136.49m / Inter-Vilvoordse 175.61m / Woonschakel 155.66m / De Voorkempen 352.38m / Wonen in Limburg 2.060bn / Woonpunt Zennevallei 162.91m / !Mpuls 213.86m / WoonST 264.76m / stek92 228.25m / LeefGoed 570.75m / Kanvaz 358.52m / WMVA 350.87m / Woonboog 520.06m / Woonveer 122.30m / Woonkade 159.10m / Woonstroom 203.98m / Thuisrand 143.37m / Vivendo 605.93m / SW+ 401.69m / Woonhaven 1.561bn / Thuispunt Gent 926.32m / Dimensa 633.53m / Woonmaatschappij Rivierenland 523.68m / Dender-Zuid 424.73m / Dijledal 352.69m / Woonpunt Waas 280.64m / Tuinwijk 141.43m / Toerisme Limburg 4.36m / Toerisme Oost-Vlaanderen 3.40m / Toerisme Vlaams-Brabant 1.67m / Fluvius DNB + IGS stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1530)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 44307 |
+| commitments.csv | 5130 |
+| leaderboard.csv | 7333 |
+| entities.csv | 1275 |
+| sources.csv | 3257 |
+| FOI ready | 1173 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1221 |
+| research_queue open | rq_116 deferred + rq_1531 hole-fill after progress |
+
+### What improved since tick 1520
+
+- **VL residual dual leftover recognized Flemish CGG (tick1521-1523):** **CGG Brussel** assets **8.65m** · **CGG Mandel en Leie** assets **7.20m** · **CGG Kohesi** assets **7.71m** — no invented euros. Live-PDF recognized CGG vein then **fully exhausted** (official 17 = 1507-1523; leftover CGG DAGG STOPPED).
+- **VL residual dual leftover IGS (tick1524):** **IVAREM** assets **61.40m** — no invented euros.
+- **VL residual dual leftover recognized Flemish CAW (tick1525-1529):** **CAW Antwerpen** assets **16.78m** · **CAW De Kempen** assets **19.96m** · **CAW Brussel** assets **6.76m** · **CAW Rivierenland** assets **9.36m** · **CAW Halle-Vilvoorde** assets **13.49m** — no invented euros.
+- **NEW (tick1530):** **CAW Oost-Brabant VZW / Centrum Algemeen Welzijnswerk Oost-Brabant** (KBO 0465.044.031) leftover recognized Flemish CAW / leftover zorg EVA of mined Leuven + leftover of 30 Oost-Brabant municipalities (NOT leftover CGG VBO 1509 / leftover CGG PassAnt 1520 same parent city_leuven other KBOs / leftover CAW Halle-Vilvoorde 1529 / leftover CAW Rivierenland 1528 / leftover CAW Brussel 1527 / leftover CAW De Kempen 1526 / leftover CAW Antwerpen 1525 / leftover umbrella caw_vl / leftover CGG 1507-1523 / leftover official-41 1464-1505 / leftover APB Inovant / Atlas / leftover Puyenbroeck). Official NBB WVV VOL-VZW deposit **2026-00081386** PDF (3981561 bytes / 47p; AV 02.04.2026; header 17.04.2026; created 17.04.2026 10:03:22 UTC). Assets **9.727.294** · opbr **14.035.538** · omzet **332.487** · 73 **13.470.759** (733 **13.450.927** + 731 **19.832**) · pers **11.880.437** / **163.5 VTE** · cash **942.667 DROP** vs 1967433 · beleg **3.000.000 JUMP** vs 2000000 · expl **9901 -77.538 LOSS** · PnL **9904 339 DROP** vs 57842 · dividend **0**. FOI ready. Every-10 progress refresh from on-disk CSVs.
+- **Dual map themes:** **leftover recognized Flemish CAW** (CAW De Kempen 19.96m / CAW Antwerpen 16.78m / CAW Halle-Vilvoorde 13.49m / CAW Oost-Brabant 9.73m / CAW Rivierenland 9.36m / CAW Brussel 6.76m) · leftover IGS (IVAREM 61.40m) · leftover recognized Flemish CGG (CGG Integra 14.98m / CGG VAGGA 14.85m / CGG SDW 13.75m / CGG Andante 10.66m / CGG Kempen 10.47m / CGG Adentro 9.83m / CGG VBO 9.33m / CGG Brussel 8.65m / CGG Prisma 8.44m / CGG Kohesi 7.71m / CGG De Pont 7.37m / CGG Mandel en Leie 7.20m / CGG ZOV 6.68m / CGG Largo 6.03m / CGG NWVL 5.93m / CGG Ahasverus 5.72m / CGG PassAnt 2.78m) · leftover woonmaatschappij (Woontrots 342.79m / Providentia 228.33m / De Noorderkempen 129.32m / Het Vlaamse Woonanker 116.28m / Vitare 17.06m / Vivus 303.99m / WM Elan 179.42m / Woonpijler 105.01m / de Thuisbouwer 202.55m / Meetjesland 255.96m / Woonstart 97.53m / IJzer en Zee 182.26m / Thuiswest 603.04m / Woonsprong 381.99m / Ons Onderdak 136.78m) · prior leftover woonmaatschappij + leftover provincial tourism VZW + leftover provincial EVAP + leftover IGS/SON + leftover APB + leftover bosgroep IGS + leftover landschap IGS + leftover cultuur IGS + leftover waste daughter + leftover AGB + Nuhma + Fluvius DNB stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **€347.956 bn** (bud_gg_2025_total).
+
 ## Snapshot at **tick 1520** (2026-08-20)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
