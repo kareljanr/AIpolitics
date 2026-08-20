@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1550** (2026-08-20)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1541-1550 leftover IGS HVZ + leftover IGS: **HVZ Midwest** · **BVLAR** · **HVZ Kempen** · **HVZ Westhoek** · **HVZ Noord-Limburg** · **HVZ ZWL** · **HVZ Fluvia** · **Brandweerzone Oost OVL** · **INTRADURA** · **CREMABRU** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1541-1550 is VL residual dual L5 leftover IGS HVZ + leftover IGS (not near-complete of 348bn):** **HVZ ZWL** spend **29.12m** · **INTRADURA** assets **23.08m** · **HVZ Midwest** assets **20.27m** · **HVZ Fluvia** spend **20.24m** · **HVZ Westhoek** spend **17.51m** · **HVZ Kempen** spend **16.75m** · **HVZ Noord-Limburg** spend **13.88m** · **Brandweerzone Oost OVL** assets **13.59m** · **CREMABRU** assets **12.68m** · **BVLAR** spend **11.00m** · prior leftover woonmaatschappij/tourism/IGS/APB/EVAP/Bosgroep/AGB/NV/Fluvius + leftover CGG 1507-1523 + leftover CAW 1525-1535 + leftover IVAREM + leftover Erfpunt + leftover HVZ 1537-1540 stack retained |
+| **E. FOI-ready gaps** | **~1193** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1241** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek/klimaat-holding/energy-DSO/zorg/cultuur/landschap/bosgroep/woonmaatschappij/CGG/CAW/HVZ/crematorium shells** (**NEW CREMABRU** assets **EUR12.68m** omzet **EUR4.53m** opbr **EUR4.65m** pers **EUR2.58m** / **31.8 VTE** expl LOSS **EUR0.27m** PnL LOSS **EUR0.22m** beleg JUMP **EUR0.89m** kapsubs JUMP **EUR3.02m** · **INTRADURA** assets **EUR23.08m** opbr **EUR40.72m** · **Brandweerzone Oost OVL** assets **EUR13.59m** · **HVZ Fluvia** spend **EUR20.24m** · **HVZ ZWL** spend **EUR29.12m** · **HVZ Noord-Limburg** spend **EUR13.88m** · **HVZ Westhoek** spend **EUR17.51m** · **HVZ Kempen** spend **EUR16.75m** · **BVLAR** spend **EUR11.00m** · **HVZ Midwest** assets **EUR20.27m** · **HVZ Meetjesland** assets **EUR4.11m** · **HVZ1** assets **EUR26.55m** spend **EUR55.63m** · **HVZ Taxandria** assets **EUR15.68m** · **HVZ Oost** assets **EUR48.14m** · **Erfpunt** assets **EUR0.44m** · leftover CAW 1525-1535 + leftover CGG 1507-1523 + leftover IVAREM 61.40m + leftover official-41 woonmaatschappij stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1550)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 44787 |
+| commitments.csv | 5150 |
+| leaderboard.csv | 7353 |
+| entities.csv | 1295 |
+| sources.csv | 3337 |
+| FOI ready | 1193 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1241 |
+| research_queue open | rq_116 deferred + rq_1551 hole-fill after progress |
+
+### What improved since tick 1540
+
+- **VL residual dual leftover IGS HVZ (tick1541-1548):** **HVZ Midwest** assets **20.27m** · **BVLAR** spend **11.00m** · **HVZ Kempen** spend **16.75m** · **HVZ Westhoek** spend **17.51m** · **HVZ Noord-Limburg** spend **13.88m** · **HVZ ZWL** spend **29.12m** · **HVZ Fluvia** spend **20.24m** · **Brandweerzone Oost OVL** assets **13.59m** — no invented euros.
+- **VL residual dual leftover IGS (tick1549):** **INTRADURA** assets **23.08m** opbr **40.72m** — no invented euros.
+- **NEW (tick1550):** **CREMABRU / Crematorium d Uccle S.C.I.C.** (KBO 0203.389.204) leftover IGS crematorium of mined Brussel + leftover of remaining BHG founder municipalities (NOT leftover Haviland crematorium / leftover Westlede / leftover Hofheide / leftover INTRADURA 1549 / leftover Brandweerzone Oost OVL 1548 / leftover taken HVZ 1537-1547 / leftover Erfpunt 1536 / leftover 11-CAW 1525-1535 / leftover official-41 1464-1505 / leftover CGG 1507-1523 / leftover IVAREM 1524). Official NBB C-cap deposit **2026-00178051** PDF (1261272 bytes / 49p; AV 26.05.2026; created 20.06.2026 02:31:33 UTC). Assets **12.679.309** · omzet **4.531.359** · opbr **4.645.123** · pers **2.583.529** / **31.8 VTE** · expl **-270.295 LOSS** · PnL **-216.386 LOSS** · beleg JUMP **888.671** · kapsubs JUMP **3.023.908**. FOI ready. Every-10 progress refresh from on-disk CSVs.
+- **Dual map themes:** **leftover IGS crematorium** (CREMABRU 12.68m) · leftover IGS waste (INTRADURA 23.08m) · leftover IGS HVZ (HVZ ZWL 29.12m / HVZ Midwest 20.27m / HVZ Fluvia 20.24m / HVZ Westhoek 17.51m / HVZ Kempen 16.75m / HVZ Noord-Limburg 13.88m / Brandweerzone Oost OVL 13.59m / BVLAR 11.00m / HVZ1 26.55m / HVZ Oost 48.14m / HVZ Taxandria 15.68m / HVZ Meetjesland 4.11m) · leftover recognized Flemish CAW · leftover IOED (Erfpunt 0.44m) · leftover IGS (IVAREM 61.40m) · leftover recognized Flemish CGG + leftover woonmaatschappij stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn** (bud_gg_2025_total).
+
 ## Snapshot at **tick 1540** (2026-08-20)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

@@ -44747,3 +44747,42 @@ bud_intd_pnl_2025,igs_intd,2025,1018343,,,executed,src_intd_jr2025_nbb,strong,20
 bud_intd_commissaris_2025,igs_intd,2025,14400,,,executed,src_intd_jr2025_nbb,strong,2025 commissaris 14400 Callens Vandelanotte B00083 / Oosterlinck Dries A02640
 bud_intd_capex_2025,igs_intd,2025,1685170,,,executed,src_intd_jr2025_nbb,strong,2025 capex IVA 29070 + MVA 79241 + MVA 1576859 = 1685170
 bud_intd_dividend_2025,igs_intd,2025,0,,,executed,src_intd_jr2025_nbb,strong,2025 dividend/uit te keren winst empty 0; toevoeging reserves 1018343
+bud_crbr_omzet_2025,igs_crbr,2025,4531359,,,executed,src_crbr_jr2025_nbb,strong,2025 omzet 70 4531359 envelope (present; hunt IGS omzet-70-if-present); tick1550; primary official NBB C-cap AV 26.05.2026
+bud_crbr_opbr_2025,igs_crbr,2025,4645123,,,executed,src_crbr_jr2025_nbb,strong,2025 ventes et prestations 70/76A 4645123 (70 4531359 + 74 113764; 76A empty); tick1550; primary official NBB C-cap
+bud_crbr_74_2025,igs_crbr,2025,113764,,,executed,src_crbr_jr2025_nbb,strong,2025 autres produits exploitation 74 113764; tick1550; primary official NBB C-cap
+bud_crbr_assets_2025,igs_crbr,2025,12679309,,,executed,src_crbr_jr2025_nbb,strong,2025 balanstotaal 20/58 12679309 UP was 12388987; VA+vlottend holds; tick1550; primary official NBB C-cap
+bud_crbr_va_2025,igs_crbr,2025,11309645,,,executed,src_crbr_jr2025_nbb,strong,2025 actifs immobilises 21/28 11309645 DROP was 11610870; tick1550; primary official NBB C-cap
+bud_crbr_iva_2025,igs_crbr,2025,7514,,,executed,src_crbr_jr2025_nbb,strong,2025 immobilisations incorporelles 21 7514 DROP was 8587; tick1550; primary official NBB C-cap
+bud_crbr_mva_2025,igs_crbr,2025,11300236,,,executed,src_crbr_jr2025_nbb,strong,2025 immobilisations corporelles 22/27 11300236 DROP was 11600388; tick1550; primary official NBB C-cap
+bud_crbr_gebouwen_2025,igs_crbr,2025,9686766,,,executed,src_crbr_jr2025_nbb,strong,2025 terrains et constructions 22 9686766 DROP was 9861535; tick1550; primary official NBB C-cap
+bud_crbr_install_2025,igs_crbr,2025,1363422,,,executed,src_crbr_jr2025_nbb,strong,2025 installations machines outillage 23 1363422 DROP was 1480672; tick1550; primary official NBB C-cap
+bud_crbr_meubilair_2025,igs_crbr,2025,228044,,,executed,src_crbr_jr2025_nbb,strong,2025 mobilier et materiel roulant 24 228044 DROP was 258181; tick1550; primary official NBB C-cap
+bud_crbr_inaanbouw_2025,igs_crbr,2025,22005,,,executed,src_crbr_jr2025_nbb,strong,2025 immobilisations en cours 27 22005 JUMP was empty; tick1550; primary official NBB C-cap
+bud_crbr_vlottend_2025,igs_crbr,2025,1369664,,,executed,src_crbr_jr2025_nbb,strong,2025 actifs circulants 29/58 1369664 JUMP was 778117; tick1550; primary official NBB C-cap
+bud_crbr_stocks_2025,igs_crbr,2025,60237,,,executed,src_crbr_jr2025_nbb,strong,2025 stocks 3 60237 UP was 49708; tick1550; primary official NBB C-cap
+bud_crbr_handelsrecv_2025,igs_crbr,2025,79825,,,executed,src_crbr_jr2025_nbb,strong,2025 creances commerciales 40 79825 DROP was 94805; tick1550; primary official NBB C-cap
+bud_crbr_otherrecv_2025,igs_crbr,2025,458,,,executed,src_crbr_jr2025_nbb,strong,2025 autres creances 41 458 DROP was 167730; tick1550; primary official NBB C-cap
+bud_crbr_beleg_2025,igs_crbr,2025,888671,,,executed,src_crbr_jr2025_nbb,strong,2025 placements de tresorerie 50/53 888671 JUMP was 209094; tick1550; primary official NBB C-cap
+bud_crbr_cash_2025,igs_crbr,2025,258846,,,executed,src_crbr_jr2025_nbb,strong,2025 valeurs disponibles 54/58 258846 UP was 194216; tick1550; primary official NBB C-cap
+bud_crbr_prepaid_2025,igs_crbr,2025,81628,,,executed,src_crbr_jr2025_nbb,strong,2025 comptes de regularisation actif 490/1 81628 UP was 62564; tick1550; primary official NBB C-cap
+bud_crbr_equity_2025,igs_crbr,2025,7991093,,,executed,src_crbr_jr2025_nbb,strong,2025 capitaux propres 10/15 7991093 UP was 7785466; tick1550; primary official NBB C-cap
+bud_crbr_apport_2025,igs_crbr,2025,455200,,,executed,src_crbr_jr2025_nbb,strong,2025 apport 10/11 455200 (primes emission 455200); tick1550; primary official NBB C-cap
+bud_crbr_herwaard_2025,igs_crbr,2025,1729368,,,executed,src_crbr_jr2025_nbb,strong,2025 plus-values de reevaluation 12 1729368 (toelichting 1729367.53); tick1550; primary official NBB C-cap
+bud_crbr_reserves_2025,igs_crbr,2025,2782617,,,executed,src_crbr_jr2025_nbb,strong,2025 reserves 13 2782617 DROP was 3337977; available 133 2660492 DROP; tick1550; primary official NBB C-cap
+bud_crbr_kapsubs_2025,igs_crbr,2025,3023908,,,executed,src_crbr_jr2025_nbb,strong,2025 subsides en capital 15 3023908 JUMP was 2601896; tick1550; primary official NBB C-cap
+bud_crbr_debt_2025,igs_crbr,2025,4688216,,,executed,src_crbr_jr2025_nbb,strong,2025 dettes 17/49 4688216 UP was 4603521; equity+debt holds 12679309; tick1550; primary official NBB C-cap
+bud_crbr_lt_2025,igs_crbr,2025,3663163,,,executed,src_crbr_jr2025_nbb,strong,2025 dettes a plus d un an 17 3663163; bank 173 3662479; tick1550; primary official NBB C-cap
+bud_crbr_st_2025,igs_crbr,2025,1003903,,,executed,src_crbr_jr2025_nbb,strong,2025 dettes a un an au plus 42/48 1003903 UP was 933287; tick1550; primary official NBB C-cap
+bud_crbr_lev_2025,igs_crbr,2025,235696,,,executed,src_crbr_jr2025_nbb,strong,2025 dettes commerciales 44 235696; fournisseurs 233873; tick1550; primary official NBB C-cap
+bud_crbr_taxsoc_2025,igs_crbr,2025,501125,,,executed,src_crbr_jr2025_nbb,strong,2025 dettes fiscales salariales sociales 45 501125; remunerations 373654; tick1550; primary official NBB C-cap
+bud_crbr_costs_2025,igs_crbr,2025,4915418,,,executed,src_crbr_jr2025_nbb,strong,2025 cout des ventes 60/66A 4915418; tick1550; primary official NBB C-cap
+bud_crbr_60_2025,igs_crbr,2025,499825,,,executed,src_crbr_jr2025_nbb,strong,2025 approvisionnements 60 499825 (achats 510355 stock -10529); tick1550; primary official NBB C-cap
+bud_crbr_61_2025,igs_crbr,2025,1226879,,,executed,src_crbr_jr2025_nbb,strong,2025 services et biens divers 61 1226879 DROP was 1376005; tick1550; primary official NBB C-cap
+bud_crbr_pers_2025,igs_crbr,2025,2583529,,,executed,src_crbr_jr2025_nbb,strong,2025 remunerations 62 2583529 / 31.8 VTE UP was 2495565 / 30.4; YE 37; hours 55694; tick1550; primary official NBB C-cap
+bud_crbr_afschr_2025,igs_crbr,2025,601524,,,executed,src_crbr_jr2025_nbb,strong,2025 amortissements 630 601524 JUMP was 438136; tick1550; primary official NBB C-cap
+bud_crbr_expl_2025,igs_crbr,2025,-270295,,,executed,src_crbr_jr2025_nbb,strong,2025 resultat exploitation 9901 -270295 LOSS was -318273; opbr-costs holds; tick1550; primary official NBB C-cap
+bud_crbr_fin_2025,igs_crbr,2025,140132,,,executed,src_crbr_jr2025_nbb,strong,2025 produits financiers 75/76B 140132 (75 124172 + 76B 15960); tick1550; primary official NBB C-cap
+bud_crbr_fincost_2025,igs_crbr,2025,86222,,,executed,src_crbr_jr2025_nbb,strong,2025 charges financieres 65/66B 86222 (65 86021 + 66B 201); tick1550; primary official NBB C-cap
+bud_crbr_pnl_2025,igs_crbr,2025,-216386,,,executed,src_crbr_jr2025_nbb,strong,2025 resultat 9904 -216386 LOSS was -338975; 9903/9905 same; tax 67/77 empty; official 1-euro vs expl+fin -216385; tick1550; primary official NBB C-cap
+bud_crbr_commissaris_2025,igs_crbr,2025,8376,,,executed,src_crbr_jr2025_nbb,strong,2025 emoluments commissaire 9505 8376 (Stas de Richelle Amaury); extra missions 95063 14083; tick1550; primary official NBB C-cap
+bud_crbr_capex_2025,igs_crbr,2025,219018,,,executed,src_crbr_jr2025_nbb,strong,2025 MVA acquisitions 8161 158445 + 8162 60573 = 219018; tick1550; primary official NBB C-cap
