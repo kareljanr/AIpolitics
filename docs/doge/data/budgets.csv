@@ -44707,3 +44707,43 @@ bud_hvoo_boek_gewone_2025,igs_hvoo,2025,2481692,,,executed,src_hvoo_jr2025_bbc,s
 bud_hvoo_begroting_buitengewoon_2025,igs_hvoo,2025,-2897489,,,executed,src_hvoo_jr2025_bbc,strong,2025 begrotingsresultaat buitengewone dienst -2897489 LOSS (PDF -2897488.75 rounded); tick1548; primary official zoneraad 22.05.2026
 bud_hvoo_boek_buitengewoon_2025,igs_hvoo,2025,703832,,,executed,src_hvoo_jr2025_bbc,strong,2025 boekhoudkundig resultaat buitengewone dienst 703832 PROFIT (PDF 703832.42 rounded); tick1548; primary official zoneraad 22.05.2026
 bud_hvoo_pnl_2025,igs_hvoo,2025,-25226,,,executed,src_hvoo_jr2025_bbc,strong,2025 resultatenrekening nadelig resultaat -25226 LOSS (PDF 25226.13 nadelig); tick1548; primary official zoneraad 22.05.2026
+bud_intd_assets_2025,igs_intd,2025,23080096,,,executed,src_intd_jr2025_nbb,strong,2025 balanstotaal 23080096 (PDF 23.080.096; 1-euro vs VA+vlottend 23080097)
+bud_intd_assets_2024,igs_intd,2024,20276373,,,executed,src_intd_jr2025_nbb,strong,2024 balanstotaal 20276373 identiek prior
+bud_intd_va_2025,igs_intd,2025,5224404,,,executed,src_intd_jr2025_nbb,strong,2025 vaste activa 5224404 JUMP was 4335049
+bud_intd_iva_2025,igs_intd,2025,57938,,,executed,src_intd_jr2025_nbb,strong,2025 IVA 57938 DROP was 67825
+bud_intd_mva_2025,igs_intd,2025,5152082,,,executed,src_intd_jr2025_nbb,strong,2025 MVA 5152082 JUMP was 4248395
+bud_intd_buildings_2025,igs_intd,2025,1596174,,,executed,src_intd_jr2025_nbb,strong,2025 terreinen/gebouwen 1596174 DROP was 1707555
+bud_intd_install_2025,igs_intd,2025,246961,,,executed,src_intd_jr2025_nbb,strong,2025 installaties 246961 UP was 227851
+bud_intd_furniture_2025,igs_intd,2025,3308947,,,executed,src_intd_jr2025_nbb,strong,2025 meubilair/rollend 3308947 JUMP was 2312989
+bud_intd_fva_2025,igs_intd,2025,14384,,,executed,src_intd_jr2025_nbb,strong,2025 FVA 14384 DROP was 18829
+bud_intd_current_2025,igs_intd,2025,17855693,,,executed,src_intd_jr2025_nbb,strong,2025 vlottende activa 17855693 UP was 15941324
+bud_intd_stocks_2025,igs_intd,2025,265881,,,executed,src_intd_jr2025_nbb,strong,2025 voorraden 265881 DROP was 284812
+bud_intd_recv_2025,igs_intd,2025,8876452,,,executed,src_intd_jr2025_nbb,strong,2025 ST vorderingen 8876452 JUMP was 6306471
+bud_intd_handelsrecv_2025,igs_intd,2025,8847621,,,executed,src_intd_jr2025_nbb,strong,2025 handelsvorderingen 8847621 JUMP was 6175050
+bud_intd_cash_2025,igs_intd,2025,6724691,,,executed,src_intd_jr2025_nbb,strong,2025 liquide middelen 6724691 DROP was 7421684
+bud_intd_cash_2024,igs_intd,2024,7421684,,,executed,src_intd_jr2025_nbb,strong,2024 liquide middelen 7421684 identiek prior
+bud_intd_prepaid_2025,igs_intd,2025,1988669,,,executed,src_intd_jr2025_nbb,strong,2025 overlopend actief 1988669 UP was 1928356
+bud_intd_equity_2025,igs_intd,2025,5466285,,,executed,src_intd_jr2025_nbb,strong,2025 eigen vermogen 5466285 UP was 4447941; 1-euro vs inbreng+reserves 5466284
+bud_intd_inbreng_2025,igs_intd,2025,2855192,,,executed,src_intd_jr2025_nbb,strong,2025 inbreng onbeschikbaar 2855192 unchanged
+bud_intd_reserves_2025,igs_intd,2025,2611092,,,executed,src_intd_jr2025_nbb,strong,2025 reserves 2611092 JUMP was 1592749; available 2524371
+bud_intd_provisions_2025,igs_intd,2025,1309204,,,executed,src_intd_jr2025_nbb,strong,2025 voorzieningen 1309204 JUMP was 926213; overige 1237800
+bud_intd_debt_2025,igs_intd,2025,16304608,,,executed,src_intd_jr2025_nbb,strong,2025 schulden 16304608 JUMP was 14902218
+bud_intd_debt_lt_2025,igs_intd,2025,6061684,,,executed,src_intd_jr2025_nbb,strong,2025 LT schulden 6061684; krediet 4043540 + obligatie 2018144
+bud_intd_debt_st_2025,igs_intd,2025,5932825,,,executed,src_intd_jr2025_nbb,strong,2025 ST schulden 5932825 DROP was 6804294
+bud_intd_lev_2025,igs_intd,2025,2857346,,,executed,src_intd_jr2025_nbb,strong,2025 leveranciers 2857346 DROP was 3965435
+bud_intd_taxsoc_2025,igs_intd,2025,1638621,,,executed,src_intd_jr2025_nbb,strong,2025 tax/soc 1638621; bezoldigingen 1274989
+bud_intd_accrued_2025,igs_intd,2025,4310098,,,executed,src_intd_jr2025_nbb,strong,2025 overlopend passief 4310098 JUMP was 2409479
+bud_intd_opbr_2025,igs_intd,2025,40722937,,,executed,src_intd_jr2025_nbb,strong,2025 bedrijfsopbrengsten 40722937 envelope; 70+74 holds
+bud_intd_omzet_2025,igs_intd,2025,39669355,,,executed,src_intd_jr2025_nbb,strong,2025 omzet 70 39669355 UP was 39544509
+bud_intd_74_2025,igs_intd,2025,1053582,,,executed,src_intd_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 74 1053582 UP was 965771
+bud_intd_costs_2025,igs_intd,2025,39542692,,,executed,src_intd_jr2025_nbb,strong,2025 bedrijfskosten 39542692; 1-euro vs components
+bud_intd_60_2025,igs_intd,2025,20857118,,,executed,src_intd_jr2025_nbb,strong,2025 handelsgoederen 60 20857118 DROP was 21040322
+bud_intd_61_2025,igs_intd,2025,5837739,,,executed,src_intd_jr2025_nbb,strong,2025 diensten 61 5837739 DROP was 6088494
+bud_intd_pers_2025,igs_intd,2025,10592790,,,executed,src_intd_jr2025_nbb,strong,2025 personeel 62 10592790 / 161.2 VTE DROP was 10433069 / 163.6; YE 166.2; hours 222329; 62 components hold
+bud_intd_vte_2025,igs_intd,2025,161,,,executed,src_intd_jr2025_nbb,strong,2025 gemiddeld 161.2 VTE (code 1003/9087; stored 161); YE 166.2
+bud_intd_uitzend_2025,igs_intd,2025,1344765,,,executed,src_intd_jr2025_nbb,strong,2025 uitzend 26 VTE / 1344765 DROP was 1597809 / 31
+bud_intd_expl_2025,igs_intd,2025,1180245,,,executed,src_intd_jr2025_nbb,strong,2025 bedrijfswinst 1180245 PROFIT was 494352; 40722937-39542692 holds
+bud_intd_pnl_2025,igs_intd,2025,1018343,,,executed,src_intd_jr2025_nbb,strong,2025 winst 9904 1018343 PROFIT was 301744; +fin 4513 -fin 165181 -tax 1234 holds
+bud_intd_commissaris_2025,igs_intd,2025,14400,,,executed,src_intd_jr2025_nbb,strong,2025 commissaris 14400 Callens Vandelanotte B00083 / Oosterlinck Dries A02640
+bud_intd_capex_2025,igs_intd,2025,1685170,,,executed,src_intd_jr2025_nbb,strong,2025 capex IVA 29070 + MVA 79241 + MVA 1576859 = 1685170
+bud_intd_dividend_2025,igs_intd,2025,0,,,executed,src_intd_jr2025_nbb,strong,2025 dividend/uit te keren winst empty 0; toevoeging reserves 1018343
