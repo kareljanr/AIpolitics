@@ -43931,3 +43931,47 @@ bud_cgbr_div_2025,cgg_cgbr,2025,0,,,executed,src_cgbr_jr2025_nbb,strong,2025 div
 bud_cgbr_capex_2025,cgg_cgbr,2025,290212,,,executed,src_cgbr_jr2025_nbb,strong,2025 capex 290212 (IVA 10878 + install 37066 + meubilair 38410 + overige 203858); tick1521; primary official NBB WVV VOL-VZW 2026-00159397
 bud_cgbr_andere_pers_2025,cgg_cgbr,2025,375575,,,executed,src_cgbr_jr2025_nbb,strong,2025 andere pers 623 375575 JUMP (was 227348); tick1521; primary official NBB WVV VOL-VZW 2026-00159397
 bud_cgbr_commissaris_2025,cgg_cgbr,2025,6960,,,executed,src_cgbr_jr2025_nbb,strong,2025 vergoeding commissaris 6960; tick1521; primary official NBB WVV VOL-VZW 2026-00159397
+bud_cgml_assets_2025,cgg_cgml,2025,7203536,,,executed,src_cgml_jr2025_nbb,strong,2025 assets 7203536 UP (was 7107684); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_vaste_2025,cgg_cgml,2025,4011585,,,executed,src_cgml_jr2025_nbb,strong,2025 vaste activa 4011585 UP (was 3636083); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_iva_2025,cgg_cgml,2025,0,,,executed,src_cgml_jr2025_nbb,strong,2025 IVA 0; tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_mva_2025,cgg_cgml,2025,4011450,,,executed,src_cgml_jr2025_nbb,strong,2025 MVA 4011450 UP (was 3635948); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_gebouwen_2025,cgg_cgml,2025,3880058,,,executed,src_cgml_jr2025_nbb,strong,2025 terreinen/gebouwen 3880058 UP (was 3590768); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_install_2025,cgg_cgml,2025,131393,,,executed,src_cgml_jr2025_nbb,strong,2025 installaties 131393 JUMP (was 45179); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_fva_2025,cgg_cgml,2025,135,,,executed,src_cgml_jr2025_nbb,strong,2025 FVA 135 stable; tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_current_2025,cgg_cgml,2025,3191951,,,executed,src_cgml_jr2025_nbb,strong,2025 vlottende 3191951 DROP (was 3471601); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_ltrecv_2025,cgg_cgml,2025,0,,,executed,src_cgml_jr2025_nbb,strong,2025 LT recv 0 DROP (was 164179); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_strecv_2025,cgg_cgml,2025,1031843,,,executed,src_cgml_jr2025_nbb,strong,2025 ST recv 1031843 DROP (was 1345329); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_handelsrecv_2025,cgg_cgml,2025,17605,,,executed,src_cgml_jr2025_nbb,strong,2025 handelsrecv 17605 UP (was 15227); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_otherrecv_2025,cgg_cgml,2025,1014238,,,executed,src_cgml_jr2025_nbb,strong,2025 overige ST recv 1014238 DROP (was 1330102); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_beleg_2025,cgg_cgml,2025,800000,,,executed,src_cgml_jr2025_nbb,strong,2025 geldbeleggingen 800000 DROP (was 1100000); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_cash_2025,cgg_cgml,2025,1349973,,,executed,src_cgml_jr2025_nbb,strong,2025 cash 1349973 JUMP (was 854800); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_prepaid_2025,cgg_cgml,2025,10135,,,executed,src_cgml_jr2025_nbb,strong,2025 prepaid 10135 UP (was 7293); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_equity_2025,cgg_cgml,2025,4817205,,,executed,src_cgml_jr2025_nbb,strong,2025 equity 4817205 DROP (was 5126735); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_fondsen_2025,cgg_cgml,2025,778474,,,executed,src_cgml_jr2025_nbb,strong,2025 fondsen 778474 stable; tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_bestemde_2025,cgg_cgml,2025,2097800,,,executed,src_cgml_jr2025_nbb,strong,2025 bestemde 2097800 JUMP (was 1664600); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_overgedragen_2025,cgg_cgml,2025,753864,,,executed,src_cgml_jr2025_nbb,strong,2025 overgedragen 753864 DROP (was 789478); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_kapsubs_2025,cgg_cgml,2025,1187067,,,executed,src_cgml_jr2025_nbb,strong,2025 kapsubs 1187067 DROP (was 1894183); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_voorz_2025,cgg_cgml,2025,0,,,executed,src_cgml_jr2025_nbb,strong,2025 voorzieningen 0 DROP (was 52000); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_debt_2025,cgg_cgml,2025,2386331,,,executed,src_cgml_jr2025_nbb,strong,2025 debt 2386331 JUMP (was 1928949); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_ltdebt_2025,cgg_cgml,2025,636236,,,executed,src_cgml_jr2025_nbb,strong,2025 LT krediet 636236 DROP (was 681643); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_stdebt_2025,cgg_cgml,2025,1741880,,,executed,src_cgml_jr2025_nbb,strong,2025 ST debt 1741880 JUMP (was 1242648); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_lev_2025,cgg_cgml,2025,167641,,,executed,src_cgml_jr2025_nbb,strong,2025 leveranciers 167641 DROP (was 311827); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_taxsoc_2025,cgg_cgml,2025,1036293,,,executed,src_cgml_jr2025_nbb,strong,2025 taxsoc 1036293 JUMP (was 866006); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_otherst_2025,cgg_cgml,2025,492538,,,executed,src_cgml_jr2025_nbb,strong,2025 other ST 492538 JUMP (was 20992); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_opbr_2025,cgg_cgml,2025,6613482,,,executed,src_cgml_jr2025_nbb,strong,2025 bedrijfsopbrengsten 6613482 UP (was 6526319); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_omzet_2025,cgg_cgml,2025,237004,,,executed,src_cgml_jr2025_nbb,strong,2025 omzet 70 237004 DROP (was 248777); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_lidgeld73_2025,cgg_cgml,2025,5479456,,,executed,src_cgml_jr2025_nbb,strong,2025 73 5479456 UP (was 5443360); all subsidies 733; tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_andere74_2025,cgg_cgml,2025,897022,,,executed,src_cgml_jr2025_nbb,strong,2025 andere 74 897022 UP (was 834182); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_diensten_2025,cgg_cgml,2025,902024,,,executed,src_cgml_jr2025_nbb,strong,2025 diensten 61 902024 JUMP (was 781040); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_pers_2025,cgg_cgml,2025,5115463,,,executed,src_cgml_jr2025_nbb,strong,2025 pers 62 5115463 / 60.2 VTE (was 5261470 / 61.4); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_afschr_2025,cgg_cgml,2025,180355,,,executed,src_cgml_jr2025_nbb,strong,2025 afschr 180355 UP (was 152478); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_andere_2025,cgg_cgml,2025,60948,,,executed,src_cgml_jr2025_nbb,strong,2025 andere bedrijfskosten 60948; tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_nrec_kost_2025,cgg_cgml,2025,3828,,,executed,src_cgml_jr2025_nbb,strong,2025 nrec 66A 3828 (was 1840); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_expl_2025,cgg_cgml,2025,402863,,,executed,src_cgml_jr2025_nbb,strong,2025 expl 402863 JUMP (was 270857); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_finopbr_2025,cgg_cgml,2025,30141,,,executed,src_cgml_jr2025_nbb,strong,2025 fin opbr 30141; tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_finkost_2025,cgg_cgml,2025,26395,,,executed,src_cgml_jr2025_nbb,strong,2025 fin kost 26395; tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_pnl_2025,cgg_cgml,2025,397586,,,executed,src_cgml_jr2025_nbb,strong,2025 PnL 397586 JUMP (was 279087); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_div_2025,cgg_cgml,2025,0,,,executed,src_cgml_jr2025_nbb,strong,2025 dividend 0; tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_capex_2025,cgg_cgml,2025,555858,,,executed,src_cgml_jr2025_nbb,strong,2025 capex 555858 (gebouwen 438138 + install 117720); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_andere_pers_2025,cgg_cgml,2025,31268,,,executed,src_cgml_jr2025_nbb,strong,2025 andere pers 623 31268 DROP (was 83825); tick1522; primary official NBB WVV VOL-VZW 2026-00196784
+bud_cgml_commissaris_2025,cgg_cgml,2025,7127,,,executed,src_cgml_jr2025_nbb,strong,2025 vergoeding commissaris 7127; tick1522; primary official NBB WVV VOL-VZW 2026-00196784
