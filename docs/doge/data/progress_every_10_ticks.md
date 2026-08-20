@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1560** (2026-08-20)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1551-1560 leftover EVA + leftover public koepel: **Inagro** · **VVSG** · **VVP** · **VLEVA** · **VLUHR** · **VLIR** · **VLHORA** · **meemoo** · **Kunstensteunpunt** · **Socius** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1551-1560 is VL residual dual L5 leftover EVA + leftover public koepel (not near-complete of 348bn):** **Inagro** assets **57.44m** · **VVSG** assets **43.33m** · **VLIR** assets **20.06m** · **VLHORA** assets **11.93m** · **VLUHR** assets **6.36m** · **meemoo** assets **3.44m** · **VVP** assets **3.41m** · **Socius** assets **1.36m** · **Kunstensteunpunt** assets **0.68m** · **VLEVA** assets **0.43m** · prior leftover woonmaatschappij/tourism/IGS/APB/EVAP/Bosgroep/AGB/NV/Fluvius + leftover CGG 1507-1523 + leftover CAW 1525-1535 + leftover IVAREM + leftover Erfpunt + leftover HVZ 1537-1548 + leftover INTRADURA + leftover CREMABRU stack retained |
+| **E. FOI-ready gaps** | **~1203** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1251** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek/klimaat-holding/energy-DSO/zorg/cultuur/landschap/bosgroep/woonmaatschappij/CGG/CAW/HVZ/crematorium/koepel shells** (**NEW Socius** assets **EUR1.36m** bruto **EUR1.38m** omzet empty 73 empty pers **EUR1.27m** / **12.2 VTE** expl PROFIT **EUR91.2k** PnL PROFIT **EUR103.7k** beleg **EUR1.04m** MVA JUMP **EUR39.0k** · **Kunstensteunpunt** assets **EUR0.68m** bruto **EUR1.71m** pers **EUR1.74m** / **20 VTE** expl LOSS **EUR57.1k** · **meemoo** assets **EUR3.44m** · **VLHORA** assets **EUR11.93m** · **VLIR** assets **EUR20.06m** · **VLUHR** assets **EUR6.36m** · **VLEVA** assets **EUR0.43m** · **VVP** assets **EUR3.41m** · **VVSG** assets **EUR43.33m** · **Inagro** assets **EUR57.44m** · **CREMABRU** assets **EUR12.68m** omzet **EUR4.53m** · **INTRADURA** assets **EUR23.08m** opbr **EUR40.72m** · leftover IGS HVZ 1537-1548 + leftover CAW 1525-1535 + leftover CGG 1507-1523 + leftover IVAREM 61.40m + leftover official-41 woonmaatschappij stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1560)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 45140 |
+| commitments.csv | 5160 |
+| leaderboard.csv | 7363 |
+| entities.csv | 1304 |
+| sources.csv | 3377 |
+| FOI ready | 1203 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1251 |
+| research_queue open | rq_116 deferred + rq_1561 hole-fill after progress |
+
+### What improved since tick 1550
+
+- **VL residual dual leftover EVA (tick1551):** **Inagro** assets **57.44m** — no invented euros.
+- **VL residual dual leftover public koepel (tick1552-1559):** **VVSG** assets **43.33m** · **VVP** assets **3.41m** · **VLEVA** assets **0.43m** · **VLUHR** assets **6.36m** · **VLIR** assets **20.06m** · **VLHORA** assets **11.93m** · **meemoo** assets **3.44m** · **Kunstensteunpunt** assets **0.68m** — no invented euros.
+- **NEW (tick1560):** **Socius / Steunpunt Sociaal-Cultureel Werk** (KBO 0430.838.564) leftover public koepel VZW of mined Flanders (NOT leftover Kunstensteunpunt 1559 / leftover meemoo 1558 / leftover FARO still JR2024 / leftover VLHORA 1557 / leftover VLIR 1556 / leftover VLUHR 1555 / leftover VLEVA 1554 / leftover VVP 1553 / leftover VVSG 1552 / leftover Inagro 1551 / leftover CREMABRU 1550 / leftover INTRADURA 1549 / leftover Brandweerzone Oost OVL 1548 / leftover taken HVZ 1537-1547 / leftover Erfpunt 1536 / leftover 11-CAW 1525-1535 / leftover official-41 1464-1505 / leftover CGG 1507-1523 / leftover IVAREM 1524 / leftover Cultuur Noordrand / leftover Zuidrand / leftover IOED Zuid-Hageland / leftover publiq unused live). Official NBB VKT-VZW deposit **2026-00065726** PDF (50636 bytes / 13p; AV 25.03.2026; created 30.03.2026 12:29:28 UTC). Assets **1.356.462** · bruto **1.380.002** · omzet empty · 73 empty · pers **1.265.278** / **12.2 VTE** · expl **91.179 PROFIT** · PnL **103.727 PROFIT** · beleg **1.044.949** · cash **74.193** · MVA JUMP **39.032** · lev DROP **70.980**. FOI ready. Every-10 progress refresh from on-disk CSVs. Leftover AGB/Bosgroep/Dijk92/IOED/remaining-HVZ still unpublished this tick so leftover public koepel with live official JR2025 euros taken. Leftover FARO still JR2024 so leftover Socius taken.
+- **Dual map themes:** **leftover public koepel** (VVSG 43.33m / VLIR 20.06m / VLHORA 11.93m / VLUHR 6.36m / meemoo 3.44m / VVP 3.41m / Socius 1.36m / Kunstensteunpunt 0.68m / VLEVA 0.43m) · leftover EVA (Inagro 57.44m) · leftover IGS crematorium (CREMABRU 12.68m) · leftover IGS waste (INTRADURA 23.08m) · leftover IGS HVZ (HVZ ZWL 29.12m / HVZ Midwest 20.27m / HVZ Fluvia 20.24m / HVZ Westhoek 17.51m / HVZ Kempen 16.75m / HVZ Noord-Limburg 13.88m / Brandweerzone Oost OVL 13.59m / BVLAR 11.00m / HVZ1 26.55m / HVZ Oost 48.14m / HVZ Taxandria 15.68m / HVZ Meetjesland 4.11m) · leftover recognized Flemish CAW · leftover IOED (Erfpunt 0.44m) · leftover IGS (IVAREM 61.40m) · leftover recognized Flemish CGG + leftover woonmaatschappij stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn** (bud_gg_2025_total). Next every-10 is **1570**.
+
 ## Snapshot at **tick 1550** (2026-08-20)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
