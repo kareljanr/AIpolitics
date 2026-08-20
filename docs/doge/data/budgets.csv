@@ -44786,3 +44786,50 @@ bud_crbr_fincost_2025,igs_crbr,2025,86222,,,executed,src_crbr_jr2025_nbb,strong,
 bud_crbr_pnl_2025,igs_crbr,2025,-216386,,,executed,src_crbr_jr2025_nbb,strong,2025 resultat 9904 -216386 LOSS was -338975; 9903/9905 same; tax 67/77 empty; official 1-euro vs expl+fin -216385; tick1550; primary official NBB C-cap
 bud_crbr_commissaris_2025,igs_crbr,2025,8376,,,executed,src_crbr_jr2025_nbb,strong,2025 emoluments commissaire 9505 8376 (Stas de Richelle Amaury); extra missions 95063 14083; tick1550; primary official NBB C-cap
 bud_crbr_capex_2025,igs_crbr,2025,219018,,,executed,src_crbr_jr2025_nbb,strong,2025 MVA acquisitions 8161 158445 + 8162 60573 = 219018; tick1550; primary official NBB C-cap
+bud_inagro_opbr_2025,eva_inagro,2025,26282403,,,executed,src_inagro_jr2025_nbb,strong,2025 bedrijfsopbrengsten 70/76A 26282403 envelope (leftover EVA VZW; omzet 70 present but commercial-only); tick1551; primary official NBB VOL-VZW AV 24.03.2026
+bud_inagro_omzet_2025,eva_inagro,2025,4836725,,,executed,src_inagro_jr2025_nbb,strong,2025 omzet 70 4836725 DROP was 4842545; commercial-only; tick1551; primary official NBB VOL-VZW
+bud_inagro_subsid_2025,eva_inagro,2025,21223307,,,executed,src_inagro_jr2025_nbb,strong,2025 lidgeld/schenkingen/legaten/subsidies 73 21223307 JUMP was 19456592; 733 subsidies 21223307 (730/731/732 empty); tick1551; primary official NBB VOL-VZW
+bud_inagro_74_2025,eva_inagro,2025,202680,,,executed,src_inagro_jr2025_nbb,strong,2025 andere bedrijfsopbrengsten 74 202680 UP was 197735; tick1551; primary official NBB VOL-VZW
+bud_inagro_76a_2025,eva_inagro,2025,19691,,,executed,src_inagro_jr2025_nbb,strong,2025 niet-recurrente bedrijfsopbrengsten 76A 19691; tick1551; primary official NBB VOL-VZW
+bud_inagro_assets_2025,eva_inagro,2025,57442295,,,executed,src_inagro_jr2025_nbb,strong,2025 balanstotaal 20/58 57442295 UP was 50678618; VA+vlottend holds; tick1551; primary official NBB VOL-VZW
+bud_inagro_va_2025,eva_inagro,2025,18308447,,,executed,src_inagro_jr2025_nbb,strong,2025 vaste activa 21/28 18308447 DROP was 19226075; tick1551; primary official NBB VOL-VZW
+bud_inagro_iva_2025,eva_inagro,2025,140454,,,executed,src_inagro_jr2025_nbb,strong,2025 IVA 21 140454 DROP was 263657; tick1551; primary official NBB VOL-VZW
+bud_inagro_mva_2025,eva_inagro,2025,18154673,,,executed,src_inagro_jr2025_nbb,strong,2025 MVA 22/27 18154673 DROP was 18949098; tick1551; primary official NBB VOL-VZW
+bud_inagro_gebouwen_2025,eva_inagro,2025,13910198,,,executed,src_inagro_jr2025_nbb,strong,2025 terreinen/gebouwen 22 13910198 DROP was 15064571; tick1551; primary official NBB VOL-VZW
+bud_inagro_install_2025,eva_inagro,2025,3614393,,,executed,src_inagro_jr2025_nbb,strong,2025 installaties 23 3614393 JUMP was 2602804; tick1551; primary official NBB VOL-VZW
+bud_inagro_meubilair_2025,eva_inagro,2025,422817,,,executed,src_inagro_jr2025_nbb,strong,2025 meubilair 24 422817 DROP was 508452; tick1551; primary official NBB VOL-VZW
+bud_inagro_inaanbouw_2025,eva_inagro,2025,207266,,,executed,src_inagro_jr2025_nbb,strong,2025 in aanbouw 27 207266 DROP was 773271; tick1551; primary official NBB VOL-VZW
+bud_inagro_fva_2025,eva_inagro,2025,13320,,,executed,src_inagro_jr2025_nbb,strong,2025 FVA 28 13320 (verbonden 1412 + deelneming 11350 + andere 558); tick1551; primary official NBB VOL-VZW
+bud_inagro_vlottend_2025,eva_inagro,2025,39133848,,,executed,src_inagro_jr2025_nbb,strong,2025 vlottende 29/58 39133848 JUMP was 31452543; tick1551; primary official NBB VOL-VZW
+bud_inagro_stocks_2025,eva_inagro,2025,3600,,,executed,src_inagro_jr2025_nbb,strong,2025 voorraden 3 3600 UP was 1780; tick1551; primary official NBB VOL-VZW
+bud_inagro_handelsrecv_2025,eva_inagro,2025,1737471,,,executed,src_inagro_jr2025_nbb,strong,2025 handelsvorderingen 40 1737471 UP was 1443105; tick1551; primary official NBB VOL-VZW
+bud_inagro_otherrecv_2025,eva_inagro,2025,14286718,,,executed,src_inagro_jr2025_nbb,strong,2025 overige vorderingen 41 14286718 UP was 13712779; tick1551; primary official NBB VOL-VZW
+bud_inagro_beleg_2025,eva_inagro,2025,18330475,,,executed,src_inagro_jr2025_nbb,strong,2025 geldbeleggingen 50/53 18330475 JUMP was 3805475; termijn 53 18325000 JUMP was 3800000; tick1551; primary official NBB VOL-VZW
+bud_inagro_cash_2025,eva_inagro,2025,4503752,,,executed,src_inagro_jr2025_nbb,strong,2025 liquide middelen 54/58 4503752 DROP was 12311686; tick1551; primary official NBB VOL-VZW
+bud_inagro_prepaid_2025,eva_inagro,2025,271833,,,executed,src_inagro_jr2025_nbb,strong,2025 overlopend actief 490/1 271833 (over te dragen 191247 + verkregen 80532); tick1551; primary official NBB VOL-VZW
+bud_inagro_equity_2025,eva_inagro,2025,33535933,,,executed,src_inagro_jr2025_nbb,strong,2025 eigen vermogen 10/15 33535933 UP was 29264242; tick1551; primary official NBB VOL-VZW
+bud_inagro_fondsen_2025,eva_inagro,2025,1468018,,,executed,src_inagro_jr2025_nbb,strong,2025 fondsen 10 1468018 (beginvermogen 1466902 + permanente 1115); tick1551; primary official NBB VOL-VZW
+bud_inagro_reserves_2025,eva_inagro,2025,4532513,,,executed,src_inagro_jr2025_nbb,strong,2025 bestemde fondsen 13 4532513 identiek; tick1551; primary official NBB VOL-VZW
+bud_inagro_overgedragen_2025,eva_inagro,2025,5244599,,,executed,src_inagro_jr2025_nbb,strong,2025 overgedragen winst 14 5244599 UP was 4171057; tick1551; primary official NBB VOL-VZW
+bud_inagro_kapsubs_2025,eva_inagro,2025,22290803,,,executed,src_inagro_jr2025_nbb,strong,2025 kapitaalsubsidies 15 22290803 JUMP was 19092654; tick1551; primary official NBB VOL-VZW
+bud_inagro_debt_2025,eva_inagro,2025,23906362,,,executed,src_inagro_jr2025_nbb,strong,2025 schulden 17/49 23906362 UP was 21414376; EV+debt holds 57442295; tick1551; primary official NBB VOL-VZW
+bud_inagro_lt_2025,eva_inagro,2025,9525000,,,executed,src_inagro_jr2025_nbb,strong,2025 LT 17 9525000 DROP was 10125000; bank 173 9525000; tick1551; primary official NBB VOL-VZW
+bud_inagro_st_2025,eva_inagro,2025,11014696,,,executed,src_inagro_jr2025_nbb,strong,2025 ST 42/48 11014696 JUMP was 8339529; tick1551; primary official NBB VOL-VZW
+bud_inagro_lt_current_2025,eva_inagro,2025,600000,,,executed,src_inagro_jr2025_nbb,strong,2025 LT binnen jaar 42 600000; tick1551; primary official NBB VOL-VZW
+bud_inagro_lev_2025,eva_inagro,2025,894149,,,executed,src_inagro_jr2025_nbb,strong,2025 handelsschulden 44 894149 UP was 669196; tick1551; primary official NBB VOL-VZW
+bud_inagro_taxsoc_2025,eva_inagro,2025,3225904,,,executed,src_inagro_jr2025_nbb,strong,2025 belastingen/bezoldigingen 45 3225904; bezold 2659794; tax 566110; tick1551; primary official NBB VOL-VZW
+bud_inagro_otherdebt_2025,eva_inagro,2025,6294643,,,executed,src_inagro_jr2025_nbb,strong,2025 overige schulden 48 6294643 JUMP was 4064203; tick1551; primary official NBB VOL-VZW
+bud_inagro_accrued_2025,eva_inagro,2025,3366666,,,executed,src_inagro_jr2025_nbb,strong,2025 overlopend passief 492/3 3366666 over te dragen opbrengsten; tick1551; primary official NBB VOL-VZW
+bud_inagro_costs_2025,eva_inagro,2025,25432792,,,executed,src_inagro_jr2025_nbb,strong,2025 bedrijfskosten 60/66A 25432792; official 1-euro vs 60+61+62+630+640/8; tick1551; primary official NBB VOL-VZW
+bud_inagro_60_2025,eva_inagro,2025,1278137,,,executed,src_inagro_jr2025_nbb,strong,2025 handelsgoederen 60 1278137 (aankopen 1279957 stock -1820); tick1551; primary official NBB VOL-VZW
+bud_inagro_61_2025,eva_inagro,2025,5323432,,,executed,src_inagro_jr2025_nbb,strong,2025 diensten 61 5323432 UP was 5112921; tick1551; primary official NBB VOL-VZW
+bud_inagro_pers_2025,eva_inagro,2025,15598848,,,executed,src_inagro_jr2025_nbb,strong,2025 bezoldigingen 62 15598848 / 204.2 VTE UP was 14459916 / 198.4; YE 216 / 201.5 VTE; hours 312578; tick1551; primary official NBB VOL-VZW
+bud_inagro_afschr_2025,eva_inagro,2025,3070633,,,executed,src_inagro_jr2025_nbb,strong,2025 afschrijvingen 630 3070633 UP was 2820449; tick1551; primary official NBB VOL-VZW
+bud_inagro_expl_2025,eva_inagro,2025,849611,,,executed,src_inagro_jr2025_nbb,strong,2025 bedrijfswinst 9901 849611 PROFIT was 675109; opbr-costs holds; tick1551; primary official NBB VOL-VZW
+bud_inagro_fin_2025,eva_inagro,2025,604627,,,executed,src_inagro_jr2025_nbb,strong,2025 financiele opbrengsten 75 604627 (750 312883 + 752/9 291744 incl provincie intrest 282060); tick1551; primary official NBB VOL-VZW
+bud_inagro_fincost_2025,eva_inagro,2025,380695,,,executed,src_inagro_jr2025_nbb,strong,2025 financiele kosten 65 380695 (schulden 282060 + andere 98635); tick1551; primary official NBB VOL-VZW
+bud_inagro_pnl_2025,eva_inagro,2025,1073542,,,executed,src_inagro_jr2025_nbb,strong,2025 resultaat 9904/9905 1073542 PROFIT was 928811; tax empty; official 1-euro vs expl+fin 1073543; tick1551; primary official NBB VOL-VZW
+bud_inagro_commissaris_2025,eva_inagro,2025,13727,,,executed,src_inagro_jr2025_nbb,strong,2025 commissaris 9505 13727 (Callens Vandelanotte); extra 95061 11100 + 95063 558; tick1551; primary official NBB VOL-VZW
+bud_inagro_uitzend_2025,eva_inagro,2025,41675,,,executed,src_inagro_jr2025_nbb,strong,2025 uitzend 617 41675 / 0.7 VTE DROP was 61771 / 0.9; tick1551; primary official NBB VOL-VZW
+bud_inagro_capex_2025,eva_inagro,2025,2153005,,,executed,src_inagro_jr2025_nbb,strong,2025 MVA aanschaffingen 8161 253698 + 8162 1589669 + 8163 222339 + 8166 78997 + IVA 8022 8302 = 2153005; tick1551; primary official NBB VOL-VZW
+bud_inagro_gewaarborgd_2025,eva_inagro,2025,10125000,,,executed,src_inagro_jr2025_nbb,strong,2025 door Belgische overheidsinstellingen gewaarborgde schulden 9061 10125000; tick1551; primary official NBB VOL-VZW
