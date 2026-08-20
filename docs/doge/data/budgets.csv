@@ -44949,3 +44949,33 @@ bud_vleva_pnl_2025,vzw_vleva,2025,-56289,,,executed,src_vleva_jr2025_nbb,strong,
 bud_vleva_commissaris_2025,vzw_vleva,2025,4160,,,executed,src_vleva_jr2025_nbb,strong,2025 commissaris 4160 (PKF Bofidi Audit BV / Jeroen Rans); VKT no 95061 extra split; tick1554; primary official NBB VKT-VZW
 bud_vleva_opleiding_2025,vzw_vleva,2025,6656,,,executed,src_vleva_jr2025_nbb,strong,2025 formele opleiding nettokosten 6656 (vrouwen 6656 / 91 uur / 1 werknemer); tick1554; primary official NBB VKT-VZW
 bud_vleva_huurwaarborg_2025,vzw_vleva,2025,60170,,,executed,src_vleva_jr2025_nbb,strong,2025 huurwaarborg ten gunste van P&V 60170 (buitenbalans); tick1554; primary official NBB VKT-VZW
+bud_vluhr_omzet_2025,vzw_vluhr,2025,1551059,,,executed,src_vluhr_jr2025_nbb,strong,2025 omzet 70 1551059 envelope (leftover public koepel VZW; omzet present CREMABRU 1550 / not VVP-VLEVA bruto-empty); was 1511392; tick1555; primary official NBB VKT-VZW
+bud_vluhr_bruto_2025,vzw_vluhr,2025,756872,,,executed,src_vluhr_jr2025_nbb,strong,2025 brutomarge 9900 756872 DROP was 803432; 76A 656; 73 empty; 60/61 6350995; tick1555; primary official NBB VKT-VZW
+bud_vluhr_assets_2025,vzw_vluhr,2025,6356041,,,executed,src_vluhr_jr2025_nbb,strong,2025 balanstotaal 20/58 6356041 UP was 5251233; VA+vlottend holds; tick1555; primary official NBB VKT-VZW
+bud_vluhr_va_2025,vzw_vluhr,2025,729020,,,executed,src_vluhr_jr2025_nbb,strong,2025 vaste activa 21/28 729020 JUMP was 107418; MVA+FVA 729020; IVA empty; tick1555; primary official NBB VKT-VZW
+bud_vluhr_mva_2025,vzw_vluhr,2025,664020,,,executed,src_vluhr_jr2025_nbb,strong,2025 MVA 22/27 664020 JUMP was 42418; meubilair 360538 + overige 303482; official 1-euro vs 42418+671380-49779=664019; tick1555; primary official NBB VKT-VZW
+bud_vluhr_meubilair_2025,vzw_vluhr,2025,360538,,,executed,src_vluhr_jr2025_nbb,strong,2025 meubilair 24 360538 JUMP was 22774; zetel Sinter-Goedeleplein 14; tick1555; primary official NBB VKT-VZW
+bud_vluhr_overige_mva_2025,vzw_vluhr,2025,303482,,,executed,src_vluhr_jr2025_nbb,strong,2025 overige materiële vaste activa 26 303482 JUMP was 19645; tick1555; primary official NBB VKT-VZW
+bud_vluhr_fva_2025,vzw_vluhr,2025,65000,,,executed,src_vluhr_jr2025_nbb,strong,2025 FVA 28 65000 identiek; tick1555; primary official NBB VKT-VZW
+bud_vluhr_vlottend_2025,vzw_vluhr,2025,5627021,,,executed,src_vluhr_jr2025_nbb,strong,2025 vlottende 29/58 5627021 UP was 5143814; stocks+recv+cash+prepaid holds; tick1555; primary official NBB VKT-VZW
+bud_vluhr_stocks_2025,vzw_vluhr,2025,522984,,,executed,src_vluhr_jr2025_nbb,strong,2025 bestellingen in uitvoering 37 522984 DROP was 592670; tick1555; primary official NBB VKT-VZW
+bud_vluhr_handelsrecv_2025,vzw_vluhr,2025,448995,,,executed,src_vluhr_jr2025_nbb,strong,2025 handelsvorderingen 40 448995 JUMP was 291709; tick1555; primary official NBB VKT-VZW
+bud_vluhr_cash_2025,vzw_vluhr,2025,4634846,,,executed,src_vluhr_jr2025_nbb,strong,2025 liquide middelen 54/58 4634846 UP was 4166922; tick1555; primary official NBB VKT-VZW
+bud_vluhr_prepaid_2025,vzw_vluhr,2025,20195,,,executed,src_vluhr_jr2025_nbb,strong,2025 overlopend actief 490/1 20195 DROP was 92512; tick1555; primary official NBB VKT-VZW
+bud_vluhr_equity_2025,vzw_vluhr,2025,254113,,,executed,src_vluhr_jr2025_nbb,strong,2025 eigen vermogen 10/15 254113 DROP was 330764; reserves 128722 + overgedragen 125391; tick1555; primary official NBB VKT-VZW
+bud_vluhr_reserves_2025,vzw_vluhr,2025,128722,,,executed,src_vluhr_jr2025_nbb,strong,2025 bestemde fondsen 13 128722 identiek (sociaal passief formule 31.12.2021 x3 bevroren); tick1555; primary official NBB VKT-VZW
+bud_vluhr_overgedragen_2025,vzw_vluhr,2025,125391,,,executed,src_vluhr_jr2025_nbb,strong,2025 overgedragen resultaat 14 125391 DROP was 202042; 14P+9905 holds; tick1555; primary official NBB VKT-VZW
+bud_vluhr_debt_2025,vzw_vluhr,2025,6101928,,,executed,src_vluhr_jr2025_nbb,strong,2025 schulden 17/49 6101928 JUMP was 4920469; ST only; equity+debt holds; tick1555; primary official NBB VKT-VZW
+bud_vluhr_st_2025,vzw_vluhr,2025,6101928,,,executed,src_vluhr_jr2025_nbb,strong,2025 ST 42/48 6101928 JUMP was 4902469; lev+vooruit+taxsoc holds; tick1555; primary official NBB VKT-VZW
+bud_vluhr_lev_2025,vzw_vluhr,2025,682332,,,executed,src_vluhr_jr2025_nbb,strong,2025 handelsschulden 44 682332 JUMP was 451571; tick1555; primary official NBB VKT-VZW
+bud_vluhr_vooruit_2025,vzw_vluhr,2025,5296854,,,executed,src_vluhr_jr2025_nbb,strong,2025 vooruitbetalingen 46 5296854 JUMP was 4333919; tick1555; primary official NBB VKT-VZW
+bud_vluhr_taxsoc_2025,vzw_vluhr,2025,122742,,,executed,src_vluhr_jr2025_nbb,strong,2025 belastingen/bezoldigingen 45 122742; tax 22215 + pers 100527; tick1555; primary official NBB VKT-VZW
+bud_vluhr_pers_2025,vzw_vluhr,2025,779033,,,executed,src_vluhr_jr2025_nbb,strong,2025 bezoldigingen 62 779033 / 9.1 VTE UP was 786296 / 9; YE 8.9 / 13948 uur; official 1-euro vs 535929+243103=779032; tick1555; primary official NBB VKT-VZW
+bud_vluhr_afschr_2025,vzw_vluhr,2025,49779,,,executed,src_vluhr_jr2025_nbb,strong,2025 afschrijvingen 630 49779 UP was 39492; tick1555; primary official NBB VKT-VZW
+bud_vluhr_6061_2025,vzw_vluhr,2025,6350995,,,executed,src_vluhr_jr2025_nbb,strong,2025 handelsgoederen/diensten 60/61 6350995 DROP was 7153916; 73/74 unpublished VKT; tick1555; primary official NBB VKT-VZW
+bud_vluhr_expl_2025,vzw_vluhr,2025,-71940,,,executed,src_vluhr_jr2025_nbb,strong,2025 bedrijfsverlies 9901 -71940 LOSS was -22357; bruto-pers-afschr holds; tick1555; primary official NBB VKT-VZW
+bud_vluhr_fincost_2025,vzw_vluhr,2025,4711,,,executed,src_vluhr_jr2025_nbb,strong,2025 financiele kosten 65 4711 UP was 3112; fin 75 0; tick1555; primary official NBB VKT-VZW
+bud_vluhr_pnl_2025,vzw_vluhr,2025,-76651,,,executed,src_vluhr_jr2025_nbb,strong,2025 resultaat 9904/9905 -76651 LOSS was -25469; 9903 -76651; expl+fin-fincost holds; tick1555; primary official NBB VKT-VZW
+bud_vluhr_commissaris_2025,vzw_vluhr,2025,4958,,,executed,src_vluhr_jr2025_nbb,strong,2025 commissaris 4958 (EY Bedrijfsrevisoren BV / Elien De Greef); VKT no 95061 extra split; tick1555; primary official NBB VKT-VZW
+bud_vluhr_capex_2025,vzw_vluhr,2025,671380,,,executed,src_vluhr_jr2025_nbb,strong,2025 MVA aanschaffingen 8169 671380 (zetel/inrichting); tick1555; primary official NBB VKT-VZW
+bud_vluhr_76a_2025,vzw_vluhr,2025,656,,,executed,src_vluhr_jr2025_nbb,strong,2025 niet-recurrente bedrijfsopbrengsten 76A 656 DROP was 3232; tick1555; primary official NBB VKT-VZW
