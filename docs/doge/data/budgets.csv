@@ -49815,3 +49815,24 @@ bud_deauteurs_representatie_2024,cv_deauteurs,2024,15425,,,executed,src_deauteur
 bud_deauteurs_bijdrage_belasting_2024,cv_deauteurs,2024,62278,,,executed,src_deauteurs_jv2024_official,strong,JV2024 bijdrage/belastingen 62278; tick1715
 bud_deauteurs_pnl_2024,cv_deauteurs,2024,99,,,executed,src_deauteurs_jv2024_official,strong,JV2024 resultaat 98.67 rounded 99; tick1715
 bud_deauteurs_late_payout_2024,cv_deauteurs,2024,261432,,,executed,src_deauteurs_jv2024_official,strong,JV2024 rechten later dan wettelijke termijn uitbetaald 261432; tick1715
+bud_scam_be_droits_percus_2025,ogc_scam_be,2025,9609149,,,executed,src_scam_be_ra2025_official,strong,Art.23 A droits percUS 9609149 (SPF Eco def; excl deAuteurs); tick1716
+bud_scam_be_droits_av_2025,ogc_scam_be,2025,3063295,,,executed,src_scam_be_ra2025_official,strong,Art.23 A communication publique AV 3063295; tick1716
+bud_scam_be_droits_cable_2025,ogc_scam_be,2025,4546005,,,executed,src_scam_be_ra2025_official,strong,Art.23 A cable 4546005; tick1716
+bud_scam_be_droits_copie_privee_2025,ogc_scam_be,2025,878471,,,executed,src_scam_be_ra2025_official,strong,Art.23 A copie privee 878471; tick1716
+bud_scam_be_droits_repro_2025,ogc_scam_be,2025,665600,,,executed,src_scam_be_ra2025_official,strong,Art.23 A reprographie 665600; tick1716
+bud_scam_be_droits_enseignement_2025,ogc_scam_be,2025,270646,,,executed,src_scam_be_ra2025_official,strong,Art.23 A enseignement/recherche 270646; tick1716
+bud_scam_be_droits_pret_2025,ogc_scam_be,2025,184798,,,executed,src_scam_be_ra2025_official,strong,Art.23 A pret public 184798; tick1716
+bud_scam_be_retenue_statutaire_2025,ogc_scam_be,2025,127425,,,executed,src_scam_be_ra2025_official,strong,Art.23 B retenue statutaire succursale 127425; tick1716
+bud_scam_be_droits_repartis_payes_2025,ogc_scam_be,2025,9292831,,,executed,src_scam_be_ra2025_official,strong,Art.23 E droits percUS repartis=payes 9292831; tick1716
+bud_scam_be_droits_non_repartis_dettes_2025,ogc_scam_be,2025,14386973,,,executed,src_scam_be_ra2025_official,strong,Art.23 F droits non repartis dettes 14386973 (BE+siege); tick1716
+bud_scam_be_droits_attente_paiement_2025,ogc_scam_be,2025,1156501,,,executed,src_scam_be_ra2025_official,strong,Art.23 G droits repartis attente paiement 1156501; tick1716
+bud_scam_be_frais_total_2025,ogc_scam_be,2025,1554474,,,executed,src_scam_be_ra2025_official,strong,Art.23 Partie2 A total frais 1554474; tick1716
+bud_scam_be_frais_nets_2025,ogc_scam_be,2025,1423856,,,executed,src_scam_be_ra2025_official,strong,Art.23 Partie2 B frais nets 1423856; ratio 14.82pct; tick1716
+bud_scam_be_depenses_nettes_2025,ogc_scam_be,2025,1443074,,,executed,src_scam_be_ra2025_official,strong,RA2025 depenses nettes 1443074 (budget revise 1529206; 65pct personnel); tick1716
+bud_scam_be_budget_revise_2025,ogc_scam_be,2025,1529206,,,budgeted,src_scam_be_ra2025_official,strong,RA2025 budget revise CA 1529206 hors Action culturelle; tick1716
+bud_scam_be_perceptions_narrative_2025,ogc_scam_be,2025,9566536,,,executed,src_scam_be_ra2025_official,strong,RA2025 narrative perceptions 9566536 (-13pct vs 2024); Art.23 A 9609149 differs by siege/deAuteurs adjust; tick1716
+bud_scam_be_repartis_membres_be_2025,ogc_scam_be,2025,3577432,,,executed,src_scam_be_ra2025_official,strong,RA2025 20 repartitions total 3577432 to 2752 auteurs residant BE; tick1716
+bud_scam_be_action_culturelle_fr_2025,ogc_scam_be,2025,111400,,,executed,src_scam_be_ra2025_official,strong,RA2025 action culturelle financed 111400 from FR copie privee 25pct; tick1716
+bud_scam_be_bourses_ecrit_be_2025,ogc_scam_be,2025,290125,,,executed,src_scam_be_ra2025_official,strong,RA2025 BE 10pct droits ecrit bourses 290124.68 rounded 290125; 540 beneficiaires; tick1716
+bud_scam_be_remuneration_comite_delegue_2025,ogc_scam_be,2025,128730,,,executed,src_scam_be_ra2025_official,strong,RA2025 remun+avantages Delegue+Comite 128729.97; tick1716
+bud_scam_be_fonds_organique_2025,ogc_scam_be,2025,19218,,,executed,src_scam_be_ra2025_official,strong,RA2025 contribution fonds organique 19218; tick1716
