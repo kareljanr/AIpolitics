@@ -50137,3 +50137,18 @@ bud_armonea_diensten_2025,nv_armonea,2025,114912835,,,executed,src_armonea_nbb_y
 bud_armonea_expl_2025,nv_armonea,2025,-21148356,,,executed,src_armonea_nbb_ye2025,strong,NBB bedrijfswinst 9901 -21148356 LOSS; tick1737
 bud_armonea_nietrec_fincost_2025,nv_armonea,2025,24208032,,,executed,src_armonea_nbb_ye2025,strong,NBB niet-recurrente financiële kosten 66B 24208032; FOI impairments; tick1737
 bud_armonea_pnl_2025,nv_armonea,2025,-51306832,,,executed,src_armonea_nbb_ye2025,strong,NBB PnL 9904 -51306832 LOSS; AV 30.06.2026; EY zonder voorbehoud + Art 7:228/7:229; tick1737
+bud_colisee_be_assets_2025,nv_colisee_belgium,2025,210559837,,,executed,src_colisee_be_nbb_ye2025,strong,NBB 20/58 assets 210559837; tick1738
+bud_colisee_be_fva_2025,nv_colisee_belgium,2025,198685617,,,executed,src_colisee_be_nbb_ye2025,strong,NBB FVA linked 198685617; tick1738
+bud_colisee_be_participations_2025,nv_colisee_belgium,2025,152685617,,,executed,src_colisee_be_nbb_ye2025,strong,NBB participations 152685617 after new impairments 67218368; FOI Armonea map; tick1738
+bud_colisee_be_creances_liees_2025,nv_colisee_belgium,2025,46000000,,,executed,src_colisee_be_nbb_ye2025,strong,NBB créances liées 46000000 JUMP vs 4000000; tick1738
+bud_colisee_be_cash_2025,nv_colisee_belgium,2025,29405,,,executed,src_colisee_be_nbb_ye2025,strong,NBB cash 29405 DROP vs 5020793; tick1738
+bud_colisee_be_equity_2025,nv_colisee_belgium,2025,-75398013,,,executed,src_colisee_be_nbb_ye2025,strong,NBB equity -75398013 NEG; Art 7:228/7:229; tick1738
+bud_colisee_be_reporte_2025,nv_colisee_belgium,2025,-354980597,,,executed,src_colisee_be_nbb_ye2025,strong,NBB perte reportée -354980597; tick1738
+bud_colisee_be_debt_2025,nv_colisee_belgium,2025,285957850,,,executed,src_colisee_be_nbb_ye2025,strong,NBB dettes 285957850; tick1738
+bud_colisee_be_lt_loans_2025,nv_colisee_belgium,2025,219000000,,,executed,src_colisee_be_nbb_ye2025,strong,NBB LT autres emprunts 219000000; FOI; tick1738
+bud_colisee_be_st_autres_2025,nv_colisee_belgium,2025,51871564,,,executed,src_colisee_be_nbb_ye2025,strong,NBB ST autres dettes 51871564 JUMP vs 5086198; tick1738
+bud_colisee_be_impair_particip_2025,nv_colisee_belgium,2025,67218368,,,executed,src_colisee_be_nbb_ye2025,strong,NBB new réductions de valeur participations 67218368; tick1738
+bud_colisee_be_services_2025,nv_colisee_belgium,2025,2238050,,,executed,src_colisee_be_nbb_ye2025,strong,NBB services 61 2238050 JUMP vs 561716; tick1738
+bud_colisee_be_fincost_2025,nv_colisee_belgium,2025,83513826,,,executed,src_colisee_be_nbb_ye2025,strong,NBB charges financières 83513826 (non-rec 71953267); tick1738
+bud_colisee_be_expl_2025,nv_colisee_belgium,2025,-2239047,,,executed,src_colisee_be_nbb_ye2025,strong,NBB perte d'exploitation 9901 -2239047; tick1738
+bud_colisee_be_pnl_2025,nv_colisee_belgium,2025,-79747564,,,executed,src_colisee_be_nbb_ye2025,strong,NBB PnL 9904 -79747564 LOSS; AV 30.06.2026; EY sans réserve + Art 7:228/7:229; tick1738
