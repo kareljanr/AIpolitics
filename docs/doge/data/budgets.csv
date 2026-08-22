@@ -50226,3 +50226,17 @@ bud_familiehof_staff_2025,vzw_familiehof,2025,3731195,,,executed,src_familiehof_
 bud_familiehof_expl_2025,vzw_familiehof,2025,178840,,,executed,src_familiehof_nbb_ye2025,strong,NBB bedrijfswinst 9901 178840; tick1744
 bud_familiehof_pnl_2025,vzw_familiehof,2025,130955,,,executed,src_familiehof_nbb_ye2025,strong,NBB PnL 9904 130955 (vs -12357); AV 13.05.2026; Mazars zonder voorbehoud; tick1744
 bud_familiehof_lt_other_loans_2025,vzw_familiehof,2025,1388689,,,executed,src_familiehof_nbb_ye2025,strong,NBB LT overige leningen 1388689; FOI creditor; tick1744
+bud_buitenhof_assets_2025,nv_buitenhof,2025,28552979,,,executed,src_buitenhof_nbb_ye2025,strong,NBB 20/58 assets 28552979 vs 28231414; tick1745
+bud_buitenhof_va_2025,nv_buitenhof,2025,27357053,,,executed,src_buitenhof_nbb_ye2025,strong,NBB VA 27357053; fin VA 16400000; tick1745
+bud_buitenhof_fin_va_2025,nv_buitenhof,2025,16400000,,,executed,src_buitenhof_nbb_ye2025,strong,NBB fin VA 16400000 (acq 16.4m / dispose 15.388m); related loan indefinite; tick1745
+bud_buitenhof_vlottend_2025,nv_buitenhof,2025,1195926,,,executed,src_buitenhof_nbb_ye2025,strong,NBB vlottend 1195926 JUMP; tick1745
+bud_buitenhof_cash_2025,nv_buitenhof,2025,486530,,,executed,src_buitenhof_nbb_ye2025,strong,NBB liquide 486530 vs 481467; tick1745
+bud_buitenhof_trade_recv_2025,nv_buitenhof,2025,674505,,,executed,src_buitenhof_nbb_ye2025,strong,NBB handelsvorderingen 674505 JUMP vs 392356; tick1745
+bud_buitenhof_equity_2025,nv_buitenhof,2025,14282598,,,executed,src_buitenhof_nbb_ye2025,strong,NBB EV 14282598 JUMP vs 8877607 via PnL spike; tick1745
+bud_buitenhof_debt_2025,nv_buitenhof,2025,12192935,,,executed,src_buitenhof_nbb_ye2025,strong,NBB schulden 12192935 DROP vs 17096176; LT fin lease 10203586; ST overige DROP 4585872→133834; tick1745
+bud_buitenhof_bruto_2025,nv_buitenhof,2025,4109579,,,executed,src_buitenhof_nbb_ye2025,strong,NBB brutomarge 9900 4109579; 70/60-61 empty VKT; tick1745
+bud_buitenhof_staff_2025,nv_buitenhof,2025,3029860,,,executed,src_buitenhof_nbb_ye2025,strong,NBB 62 3029860 / VTE 48.4 vs 48.2; tick1745
+bud_buitenhof_expl_2025,nv_buitenhof,2025,67996,,,executed,src_buitenhof_nbb_ye2025,strong,NBB bedrijfswinst 9901 67996 (vs -178049); tick1745
+bud_buitenhof_nonrec_fin_2025,nv_buitenhof,2025,5694303,,,executed,src_buitenhof_nbb_ye2025,strong,NBB 76B non-rec fin income 5694303; FOI nature; tick1745
+bud_buitenhof_pnl_2025,nv_buitenhof,2025,5404991,,,executed,src_buitenhof_nbb_ye2025,strong,NBB PnL 9904 5404991 (vs -686601); AV 08.05.2026; Mazars zonder voorbehoud; tick1745
+bud_buitenhof_aedifica_lease_ob_2025,nv_buitenhof,2025,9209906,,,executed,src_buitenhof_nbb_ye2025,strong,NBB off-balance future Aedifica rents 9209906 to 29.12.2037; tick1745
