@@ -49687,3 +49687,24 @@ bud_reprobel_vte_2025,cv_reprobel,2025,12.6,,,executed,src_reprobel_jv2025_offic
 bud_reprobel_facturatie_base_2025,cv_reprobel,2025,29571278,,,executed,src_reprobel_jv2025_official,strong,JV2025 facturatie/ratio base 29571278 (werkingskostenratio 6.65%); tick1708
 bud_reprobel_inningen_2025,cv_reprobel,2025,29453863,,,executed,src_reprobel_jv2025_official,strong,JV2025 totale inningen 29453863; tick1708
 bud_reprobel_werkingskostenratio_pct_2025,cv_reprobel,2025,6.65,,,executed,src_reprobel_jv2025_official,strong,JV2025 netto werkingskostenratio 6.65% (commissions/facturatie); tick1708
+bud_simim_geinde_total_2025,cv_simim,2025,32416774,,,executed,src_simim_jv2025_art23_official,strong,Art.23 sum A geinde across 9 categories 32416774; tick1709
+bud_simim_beheers_a_total_2025,cv_simim,2025,3640881,,,executed,src_simim_jv2025_art23_official,strong,Art.23 sum DEEL2 A beheerskosten 3640881 ENVELOPE; tick1709
+bud_simim_beheers_b_total_2025,cv_simim,2025,3584335,,,executed,src_simim_jv2025_art23_official,strong,Art.23 sum DEEL2 B beheerskosten incl fin 3584335; tick1709
+bud_simim_geinde_reproductie_2025,cv_simim,2025,5407508,,,executed,src_simim_jv2025_art23_official,strong,Art.23 reproductie A geinde 5407508; tick1709
+bud_simim_beheers_reproductie_2025,cv_simim,2025,443667,,,executed,src_simim_jv2025_art23_official,strong,Art.23 reproductie DEEL2 A beheers 443667 (B 436321 ratio 8.07%); tick1709
+bud_simim_geinde_publieke_mededeling_2025,cv_simim,2025,275251,,,executed,src_simim_jv2025_art23_official,strong,Art.23 publieke_mededeling A geinde 275251; tick1709
+bud_simim_beheers_publieke_mededeling_2025,cv_simim,2025,47191,,,executed,src_simim_jv2025_art23_official,strong,Art.23 publieke_mededeling DEEL2 A beheers 47191 (B 46410 ratio 16.86%); tick1709
+bud_simim_geinde_kabel_2025,cv_simim,2025,4245335,,,executed,src_simim_jv2025_art23_official,strong,Art.23 kabel A geinde 4245335; tick1709
+bud_simim_beheers_kabel_2025,cv_simim,2025,222045,,,executed,src_simim_jv2025_art23_official,strong,Art.23 kabel DEEL2 A beheers 222045 (B 218368 ratio 5.14%); tick1709
+bud_simim_geinde_jaarlijkse_aanvullende_2025,cv_simim,2025,16457204,,,executed,src_simim_jv2025_art23_official,strong,Art.23 jaarlijkse_aanvullende A geinde 16457204; tick1709
+bud_simim_beheers_jaarlijkse_aanvullende_2025,cv_simim,2025,2650328,,,executed,src_simim_jv2025_art23_official,strong,Art.23 jaarlijkse_aanvullende DEEL2 A beheers 2650328 (B 2610193 ratio 15.94%); tick1709
+bud_simim_geinde_leenrecht_2025,cv_simim,2025,41433,,,executed,src_simim_jv2025_art23_official,strong,Art.23 leenrecht A geinde 41433; tick1709
+bud_simim_beheers_leenrecht_2025,cv_simim,2025,2212,,,executed,src_simim_jv2025_art23_official,strong,Art.23 leenrecht DEEL2 A beheers 2212 (B 2175 ratio 5.25%); tick1709
+bud_simim_geinde_thuiskopie_2025,cv_simim,2025,2540117,,,executed,src_simim_jv2025_art23_official,strong,Art.23 thuiskopie A geinde 2540117; tick1709
+bud_simim_beheers_thuiskopie_2025,cv_simim,2025,135602,,,executed,src_simim_jv2025_art23_official,strong,Art.23 thuiskopie DEEL2 A beheers 135602 (B 133356 ratio 5.25%); tick1709
+bud_simim_geinde_onderwijs_wetenschap_2025,cv_simim,2025,36138,,,executed,src_simim_jv2025_art23_official,strong,Art.23 onderwijs_wetenschap A geinde 36138; tick1709
+bud_simim_beheers_onderwijs_wetenschap_2025,cv_simim,2025,1929,,,executed,src_simim_jv2025_art23_official,strong,Art.23 onderwijs_wetenschap DEEL2 A beheers 1929 (B 1897 ratio 5.25%); tick1709
+bud_simim_geinde_internationale_2025,cv_simim,2025,3406541,,,executed,src_simim_jv2025_art23_official,strong,Art.23 internationale A geinde 3406541; tick1709
+bud_simim_beheers_internationale_2025,cv_simim,2025,136262,,,executed,src_simim_jv2025_art23_official,strong,Art.23 internationale DEEL2 A beheers 136262 (B 133997 ratio 3.93%); tick1709
+bud_simim_geinde_andere_2025,cv_simim,2025,7247,,,executed,src_simim_jv2025_art23_official,strong,Art.23 andere A geinde 7247; tick1709
+bud_simim_beheers_andere_2025,cv_simim,2025,1645,,,executed,src_simim_jv2025_art23_official,strong,Art.23 andere DEEL2 A beheers 1645 (B 1618 ratio 22.32%); tick1709
