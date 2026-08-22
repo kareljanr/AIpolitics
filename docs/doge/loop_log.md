@@ -20770,3 +20770,10 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_dommelhof_nv_assets_12_56m_debt_11_61m_bruto_1_23m_l5 ready (70 huur VZW / intercompany / AV). Do not send.
 - Next: rq_1728 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 if JR euros / APEFE if CDN 200 / ABS/POV/BVAS / IOED / HVZ / IGS / other. Do NOT redo Dommelhof dual/GO!/Natuurpunt/OVSG. NOT every-10 (next **1730**).
 
+### 2026-08-24T01:25:00Z - tick 1728
+- Unit: rq_1728 LeerSteunCentrum Oost-Brabant VZW (leftover VL leersteuncentrum) (KBO **0800.106.082**; VZW; Platte Lostraat 541 3010 Kessel-Lo; leersteuncentrum-oostbrabant.be; jan.deceulaer@lscob.be; official NBB **MIC-VZW** YE2025 deposit **2026-00117935** CDN **200**; AV **21.05.2026**). Honest leftover AGB Bornem still JR2024-only. NSZ CDN **403**. Dijk92 CDN **403**. APEFE CDN **403**. ABS/BVAS/POV no NBB. VARIANT/Viersprong/Noordrand no filing. Preferred AGB/NSZ still blocked — leftover LSC Oost-Brabant official NBB JR2025 **live** taken (education residual after GO!/OVSG). New entity vzw_lsc_oostbrabant. Envelope = code73 **435527**. NOT every-10 (next **1730 MUST**).
+- Found (NBB YE2025 strong): assets **839257** (cash **822488** JUMP / FVA **7200**); equity **808234** (fondsen **134439** / destin **591000** +100k / overgedragen **82796**); debt **31023**; code73 **435527** DROP vs 890562; diensten **304183**; bruto **141112** DROP; staff empty; expl **141090**; PnL **140967**; omzet 70 empty.
+- Wrote: sources +4; entities +1 vzw_lsc_oostbrabant; budgets +10; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1728=done + rq_1729 spawn; ticks_completed=1728. Raw docs/doge/raw/tick1728/.
+- FOI opened: gap_lsc_oostbrabant_code73_0_44m_bruto_0_14m_staff_empty_l5 ready (donor split / VTE detacheringen / AV). Do not send.
+- Next: rq_1729 leftover AGB/**LSC Noord-Brabant if CDN text**/NSZ if CDN 200 / Bosgroep/Dijk92 / APEFE / ABS/POV/BVAS / IOED/HVZ/IGS/WZC. Do NOT redo LSC_OB/Dommelhof/GO!/Natuurpunt. **Next every-10 is 1730 MUST**.
+

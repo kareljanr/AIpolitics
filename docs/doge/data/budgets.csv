@@ -49984,3 +49984,13 @@ bud_dommelhof_nv_afschr_2025,nv_dommelhof_tw,2025,452263,,,executed,src_dommelho
 bud_dommelhof_nv_expl_2025,nv_dommelhof_tw,2025,773325,,,executed,src_dommelhof_nv_nbb_ye2025,strong,NBB bedrijfswinst 9901 773325; tick1727
 bud_dommelhof_nv_fincost_2025,nv_dommelhof_tw,2025,264538,,,executed,src_dommelhof_nv_nbb_ye2025,strong,NBB fin kosten 65 264538; tick1727
 bud_dommelhof_nv_pnl_2025,nv_dommelhof_tw,2025,383717,,,executed,src_dommelhof_nv_nbb_ye2025,strong,NBB PnL 9904 383717; AV 23.06.2026; tick1727
+bud_lsc_ob_assets_2025,vzw_lsc_oostbrabant,2025,839257,,,executed,src_lsc_oostbrabant_nbb_ye2025,strong,NBB 20/58 assets 839257; tick1728
+bud_lsc_ob_cash_2025,vzw_lsc_oostbrabant,2025,822488,,,executed,src_lsc_oostbrabant_nbb_ye2025,strong,NBB liquide 54/58 822488 JUMP vs 680588; tick1728
+bud_lsc_ob_equity_2025,vzw_lsc_oostbrabant,2025,808234,,,executed,src_lsc_oostbrabant_nbb_ye2025,strong,NBB EV 10/15 808234; tick1728
+bud_lsc_ob_destin_2025,vzw_lsc_oostbrabant,2025,591000,,,executed,src_lsc_oostbrabant_nbb_ye2025,strong,NBB bestemde fondsen 13 591000 (+100k); tick1728
+bud_lsc_ob_debt_2025,vzw_lsc_oostbrabant,2025,31023,,,executed,src_lsc_oostbrabant_nbb_ye2025,strong,NBB schulden 17/49 31023; tick1728
+bud_lsc_ob_code73_2025,vzw_lsc_oostbrabant,2025,435527,,,executed,src_lsc_oostbrabant_nbb_ye2025,strong,NBB code73 435527 DROP vs 890562; tick1728
+bud_lsc_ob_diensten_2025,vzw_lsc_oostbrabant,2025,304183,,,executed,src_lsc_oostbrabant_nbb_ye2025,strong,NBB 60/61 304183; tick1728
+bud_lsc_ob_bruto_2025,vzw_lsc_oostbrabant,2025,141112,,,executed,src_lsc_oostbrabant_nbb_ye2025,strong,NBB brutomarge 9900 141112 DROP vs 566490; tick1728
+bud_lsc_ob_expl_2025,vzw_lsc_oostbrabant,2025,141090,,,executed,src_lsc_oostbrabant_nbb_ye2025,strong,NBB bedrijfswinst 9901 141090; tick1728
+bud_lsc_ob_pnl_2025,vzw_lsc_oostbrabant,2025,140967,,,executed,src_lsc_oostbrabant_nbb_ye2025,strong,NBB PnL 9904 140967; AV 21.05.2026; tick1728
