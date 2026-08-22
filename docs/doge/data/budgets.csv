@@ -49226,3 +49226,33 @@ bud_np_educatie_tax_2025,vzw_natuurpunt_educatie,2025,21709,,,executed,src_natuu
 bud_np_educatie_pnl_2025,vzw_natuurpunt_educatie,2025,-117461,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 verlies -117461 DEEPER from -83670; tick1688 OCR
 bud_np_educatie_vte_2025,vzw_natuurpunt_educatie,2025,19.5,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 19.5 JUMP from 18.9; eoy 20.1; tick1688 OCR
 bud_np_educatie_commissaris_fee_2025,vzw_natuurpunt_educatie,2025,2343,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 commissaris ereloon incl BTW 2343; Clybouw; tick1688 OCR
+bud_vvt_assets_2025,vzw_vvt,2025,5876824,,,executed,src_vvt_jr2025_nbb,strong,YE2025 balanstotaal 5876824 JUMP from 5636157; tick1689
+bud_vvt_va_2025,vzw_vvt,2025,290749,,,executed,src_vvt_jr2025_nbb,strong,YE2025 vaste activa 290749 JUMP; tick1689
+bud_vvt_mva_2025,vzw_vvt,2025,290749,,,executed,src_vvt_jr2025_nbb,strong,YE2025 materiele VA 290749 JUMP; tick1689
+bud_vvt_gebouwen_2025,vzw_vvt,2025,272395,,,executed,src_vvt_jr2025_nbb,strong,YE2025 terreinen/gebouwen 272395 JUMP; tick1689
+bud_vvt_install_2025,vzw_vvt,2025,3944,,,executed,src_vvt_jr2025_nbb,strong,YE2025 installaties 3944 DROP; tick1689
+bud_vvt_meubilair_2025,vzw_vvt,2025,14410,,,executed,src_vvt_jr2025_nbb,strong,YE2025 meubilair/rollend 14410 DROP; tick1689
+bud_vvt_vlottend_2025,vzw_vvt,2025,5586075,,,executed,src_vvt_jr2025_nbb,strong,YE2025 vlottende activa 5586075 JUMP; tick1689
+bud_vvt_handelsrecv_2025,vzw_vvt,2025,147630,,,executed,src_vvt_jr2025_nbb,strong,YE2025 handelsvorderingen ST 147630 DROP; tick1689
+bud_vvt_other_recv_2025,vzw_vvt,2025,100332,,,executed,src_vvt_jr2025_nbb,strong,YE2025 overige vorderingen ST 100332 JUMP; tick1689
+bud_vvt_beleg_2025,vzw_vvt,2025,3039056,,,executed,src_vvt_jr2025_nbb,strong,YE2025 geldbeleggingen 3039056 DROP; tick1689
+bud_vvt_cash_2025,vzw_vvt,2025,2242001,,,executed,src_vvt_jr2025_nbb,strong,YE2025 liquide middelen 2242001 JUMP; tick1689
+bud_vvt_prepaid_2025,vzw_vvt,2025,57057,,,executed,src_vvt_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 57057 JUMP; tick1689
+bud_vvt_equity_2025,vzw_vvt,2025,3957148,,,executed,src_vvt_jr2025_nbb,strong,YE2025 eigen vermogen 3957148 JUMP; tick1689
+bud_vvt_fondsen_2025,vzw_vvt,2025,1168698,,,executed,src_vvt_jr2025_nbb,strong,YE2025 fondsen 1168698 flat; tick1689
+bud_vvt_overgedragen_2025,vzw_vvt,2025,2788450,,,executed,src_vvt_jr2025_nbb,strong,YE2025 overgedragen winst 2788450 JUMP; tick1689
+bud_vvt_debt_2025,vzw_vvt,2025,1919676,,,executed,src_vvt_jr2025_nbb,strong,YE2025 schulden 1919676 DROP; tick1689
+bud_vvt_st_debt_2025,vzw_vvt,2025,204974,,,executed,src_vvt_jr2025_nbb,strong,YE2025 schulden ST 204974 DROP; tick1689
+bud_vvt_lev_2025,vzw_vvt,2025,151053,,,executed,src_vvt_jr2025_nbb,strong,YE2025 leveranciers ST 151053 DROP; tick1689
+bud_vvt_taxsoc_2025,vzw_vvt,2025,53871,,,executed,src_vvt_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 53871 (tax 212 + soc 53659); tick1689
+bud_vvt_accrued_2025,vzw_vvt,2025,1714702,,,executed,src_vvt_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 1714702 JUMP (likely prepaid membership); tick1689
+bud_vvt_bruto_2025,vzw_vvt,2025,846120,,,executed,src_vvt_jr2025_nbb,strong,YE2025 brutomarge 9900 846120 JUMP ENVELOPE (70/73/60-61 empty); tick1689
+bud_vvt_pers_2025,vzw_vvt,2025,464835,,,executed,src_vvt_jr2025_nbb,strong,YE2025 bezoldigingen 62 464835 JUMP / 6.8 VTE; tick1689
+bud_vvt_afschr_2025,vzw_vvt,2025,54836,,,executed,src_vvt_jr2025_nbb,strong,YE2025 afschrijvingen 630 54836 DROP; tick1689
+bud_vvt_andere_2025,vzw_vvt,2025,64432,,,executed,src_vvt_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 64432 JUMP; tick1689
+bud_vvt_expl_2025,vzw_vvt,2025,262016,,,executed,src_vvt_jr2025_nbb,strong,YE2025 bedrijfswinst 262016 JUMP from 34151; tick1689
+bud_vvt_fininc_2025,vzw_vvt,2025,32858,,,executed,src_vvt_jr2025_nbb,strong,YE2025 financiele opbrengsten 32858 DROP; tick1689
+bud_vvt_fincost_2025,vzw_vvt,2025,13623,,,executed,src_vvt_jr2025_nbb,strong,YE2025 financiele kosten 13623 (prior -53057); tick1689
+bud_vvt_tax_2025,vzw_vvt,2025,9209,,,executed,src_vvt_jr2025_nbb,strong,YE2025 belastingen op resultaat 9209 DROP; tick1689
+bud_vvt_pnl_2025,vzw_vvt,2025,272042,,,executed,src_vvt_jr2025_nbb,strong,YE2025 winst 272042 JUMP from 122506; tick1689
+bud_vvt_vte_2025,vzw_vvt,2025,6.8,,,executed,src_vvt_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 6.8 flat; eoy 7.6; tick1689
