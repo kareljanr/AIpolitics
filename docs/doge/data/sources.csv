@@ -3970,3 +3970,7 @@ src_klj_nbb_ye2025,KLJ & Groene Kring NBB VKT-VZW YE2025 deposit 2026-00072876,h
 src_klj_kbo,KLJ & Groene Kring KBO 0408.659.020,https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=408659020,KBO,2026-08-23,primary_official,tick1722; VZW; Diestsevest 32/3B 3000 Leuven
 src_klj_portal,Groene Kring / KLJ official portal,https://www.groenekring.be,KLJ & Groene Kring vzw,2026-08-23,primary_official,tick1722; Boerenbond-adjacent rural youth
 src_klj_foi_contact_1722,KLJ & Groene Kring FOI channel,https://www.groenekring.be,KLJ & Groene Kring vzw,2026-08-23,foi_contact,tick1722; info@groenekring.be; Diestsevest 32 bus 3B 3000 Leuven
+src_ovsg_nbb_ye2025,OVSG NBB VKT-VZW YE2025 deposit 2026-00165833,http://cdn.staatsbladmonitor.be/2026pdf/2026-00165833.pdf,NBB / Staatsbladmonitor CDN,2026-08-23,primary_official,tick1723; AV 10.06.2026; neergelegd 11.06.2026; assets 8546962 bruto 1734552 staff 1162662 VTE 22.3 kapsubs 455000 pnl 274103
+src_ovsg_kbo,OVSG KBO 0443.649.492,https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=443649492,KBO,2026-08-23,primary_official,tick1723; VZW; Bischoffsheimlaan 1-8 1000 Brussel
+src_ovsg_portal,OVSG official portal,https://www.ovsg.be,OVSG vzw,2026-08-23,primary_official,tick1723; VL municipal/urban education network
+src_ovsg_foi_contact_1723,OVSG FOI channel,https://www.ovsg.be,OVSG vzw,2026-08-23,foi_contact,tick1723; an.vanwetter@ovsg.be; Bischoffsheimlaan 1-8 1000 Brussel

@@ -49906,3 +49906,16 @@ bud_klj_bruto_2025,vzw_klj_groene_kring,2025,2478479,,,executed,src_klj_nbb_ye20
 bud_klj_staff_2025,vzw_klj_groene_kring,2025,2199065,,,executed,src_klj_nbb_ye2025,strong,NBB 62 2199065 / VTE 30.8; tick1722
 bud_klj_expl_2025,vzw_klj_groene_kring,2025,72856,,,executed,src_klj_nbb_ye2025,strong,NBB bedrijfswinst 9901 72856; tick1722
 bud_klj_pnl_2025,vzw_klj_groene_kring,2025,76606,,,executed,src_klj_nbb_ye2025,strong,NBB PnL 9904 76606; AV 24.03.2026; tick1722
+bud_ovsg_assets_2025,vzw_ovsg,2025,8546962,,,executed,src_ovsg_nbb_ye2025,strong,NBB 20/58 assets 8546962; tick1723
+bud_ovsg_va_2025,vzw_ovsg,2025,3681516,,,executed,src_ovsg_nbb_ye2025,strong,NBB VA 21/28 3681516; tick1723
+bud_ovsg_buildings_2025,vzw_ovsg,2025,3594826,,,executed,src_ovsg_nbb_ye2025,strong,NBB terreinen/gebouwen 22 3594826; tick1723
+bud_ovsg_vlottend_2025,vzw_ovsg,2025,4865446,,,executed,src_ovsg_nbb_ye2025,strong,NBB vlottend 29/58 4865446; tick1723
+bud_ovsg_cash_2025,vzw_ovsg,2025,3596329,,,executed,src_ovsg_nbb_ye2025,strong,NBB liquide 54/58 3596329 JUMP vs 2880969; tick1723
+bud_ovsg_beleg_2025,vzw_ovsg,2025,1000000,,,executed,src_ovsg_nbb_ye2025,strong,NBB beleggingen 50/53 1000000; tick1723
+bud_ovsg_equity_2025,vzw_ovsg,2025,6134114,,,executed,src_ovsg_nbb_ye2025,strong,NBB EV 10/15 6134114; tick1723
+bud_ovsg_kapsubs_2025,vzw_ovsg,2025,455000,,,executed,src_ovsg_nbb_ye2025,strong,NBB kapitaalsubsidies 15 455000; tick1723
+bud_ovsg_debt_2025,vzw_ovsg,2025,2412848,,,executed,src_ovsg_nbb_ye2025,strong,NBB schulden 17/49 2412848; tick1723
+bud_ovsg_bruto_2025,vzw_ovsg,2025,1734552,,,executed,src_ovsg_nbb_ye2025,strong,NBB brutomarge 9900 1734552; 70/73 empty VKT; tick1723
+bud_ovsg_staff_2025,vzw_ovsg,2025,1162662,,,executed,src_ovsg_nbb_ye2025,strong,NBB 62 1162662 / VTE 22.3; tick1723
+bud_ovsg_expl_2025,vzw_ovsg,2025,240976,,,executed,src_ovsg_nbb_ye2025,strong,NBB bedrijfswinst 9901 240976; tick1723
+bud_ovsg_pnl_2025,vzw_ovsg,2025,274103,,,executed,src_ovsg_nbb_ye2025,strong,NBB PnL 9904 274103; AV 10.06.2026; tick1723

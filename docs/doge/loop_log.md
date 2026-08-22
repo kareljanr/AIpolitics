@@ -20734,3 +20734,10 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_klj_bruto_2_48m_staff_2_20m_omzet_empty_l5 ready (70/73 split / Boerenbond relation / AV). Do not send.
 - Inventory: entities **1451** · sources **3971** · budgets **49907** · commitments **5307** · leaderboard **7508** · FOI ready **1350** / answered **9** / partial **27** / total **1398**.
 - Next: rq_1723 leftover AGB/**Natuurpunt vzw if CDN**/NSZ if CDN 200 / Bosgroep/Dijk92 if JR euros / APEFE if budget euros / ABS/GO!/POV / BVAS / IOED / HVZ / IGS / other. Do NOT redo KLJ/BoeK/Boerenbond/LandelijkeGilden.... **Next every-10 is 1730**.
+
+### 2026-08-23T23:45:00Z - tick 1723
+- Unit: rq_1723 OVSG vzw / Onderwijsvereniging van Steden en Gemeenten (leftover VL municipal-education koepel) (KBO **0443.649.492**; VZW; Bischoffsheimlaan 1-8 1000 Brussel; ovsg.be; an.vanwetter@ovsg.be; official NBB **VKT-VZW** YE2025 deposit **2026-00165833** CDN 200)
+- Found (NBB YE2025 strong): assets **8546962** (VA **3681516** incl buildings **3594826** / vlottend **4865446** / cash **3596329** / beleg **1000000**); equity **6134114** (kapsubs **455000**); debt **2412848**; bruto **1734552** / staff **1162662** VTE **22.3** / bedrijfswinst **240976** / PnL **274103**; **70/73/60/61 empty** VKT. Probe: AGB unpublished; Natuurpunt vzw YE2024 CDN 403; NSZ CDN 403; ABS/BVAS no NBB; GO!/POV thin NBB; Bosgroep/OP-TIL/VI.BE already done.
+- Wrote: sources +4; entities +1 vzw_ovsg; budgets +13; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1723=done + rq_1724 spawn; ticks_completed=1723. Raw docs/doge/raw/tick1723/.
+- FOI opened: gap_ovsg_bruto_1_73m_staff_1_16m_omzet_empty_l5 ready (70/73 absolute split / kapsubs / AV). Do not send.
+- Next: rq_1724 leftover AGB/**Natuurpunt vzw if CDN**/NSZ if CDN 200 / Bosgroep/Dijk92 if JR euros / APEFE if budget euros / ABS/GO!/POV / BVAS / IOED / HVZ / IGS / other. Do NOT redo OVSG/KOV/KLJ/BoeK/Boerenbond. NOT every-10 (next **1730**).
