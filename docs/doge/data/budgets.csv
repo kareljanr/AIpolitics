@@ -48213,3 +48213,45 @@ bud_bzn_pat_fincost_2025,vzw_bzn_patrimonium,2025,255,,,executed,src_bzn_pat_jr2
 bud_bzn_pat_tax_2025,vzw_bzn_patrimonium,2025,8046,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 belastingen 8046 DROP; tick1655
 bud_bzn_pat_pnl_2025,vzw_bzn_patrimonium,2025,414612,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 winst 414612 FLIP from -160979; tick1655
 bud_bzn_pat_capex_2025,vzw_bzn_patrimonium,2025,46787,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 MVA aanschaffingen 46787; tick1655
+bud_unizo_assets_2025,vzw_unizo,2025,15833907,,,executed,src_unizo_jr2025_nbb,strong,YE2025 balanstotaal 15833907 DROP from 16335392; tick1656
+bud_unizo_va_2025,vzw_unizo,2025,2205488,,,executed,src_unizo_jr2025_nbb,strong,YE2025 vaste activa 2205488 DROP; tick1656
+bud_unizo_iva_2025,vzw_unizo,2025,201779,,,executed,src_unizo_jr2025_nbb,strong,YE2025 immateriele VA 201779 DROP; tick1656
+bud_unizo_mva_2025,vzw_unizo,2025,425936,,,executed,src_unizo_jr2025_nbb,strong,YE2025 materiele VA 425936 DROP; tick1656
+bud_unizo_fva_2025,vzw_unizo,2025,1577773,,,executed,src_unizo_jr2025_nbb,strong,YE2025 financiele VA 1577773 DROP (deelnemingen 1556195); tick1656
+bud_unizo_vlottend_2025,vzw_unizo,2025,13628419,,,executed,src_unizo_jr2025_nbb,strong,YE2025 vlottende activa 13628419 DROP; tick1656
+bud_unizo_handelsrecv_2025,vzw_unizo,2025,4533447,,,executed,src_unizo_jr2025_nbb,strong,YE2025 handelsvorderingen ST 4533447 DROP from 6313440; tick1656
+bud_unizo_other_recv_2025,vzw_unizo,2025,492281,,,executed,src_unizo_jr2025_nbb,strong,YE2025 overige vorderingen ST 492281 JUMP; tick1656
+bud_unizo_beleg_2025,vzw_unizo,2025,1549844,,,executed,src_unizo_jr2025_nbb,strong,YE2025 geldbeleggingen 1549844 NEW/JUMP; tick1656
+bud_unizo_cash_2025,vzw_unizo,2025,3425290,,,executed,src_unizo_jr2025_nbb,strong,YE2025 liquide middelen 3425290 DROP; tick1656
+bud_unizo_prepaid_2025,vzw_unizo,2025,5177401,,,executed,src_unizo_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 5177401 JUMP from 2402729; tick1656
+bud_unizo_equity_2025,vzw_unizo,2025,2434217,,,executed,src_unizo_jr2025_nbb,strong,YE2025 eigen vermogen 2434217 JUMP; tick1656
+bud_unizo_fondsen_2025,vzw_unizo,2025,452650,,,executed,src_unizo_jr2025_nbb,strong,YE2025 fondsen 452650 flat; tick1656
+bud_unizo_destin_2025,vzw_unizo,2025,90781,,,executed,src_unizo_jr2025_nbb,strong,YE2025 bestemde fondsen 90781 (=PnL add); tick1656
+bud_unizo_overgedragen_2025,vzw_unizo,2025,1890785,,,executed,src_unizo_jr2025_nbb,strong,YE2025 overgedragen winst 1890785 flat; tick1656
+bud_unizo_voorzieningen_2025,vzw_unizo,2025,677778,,,executed,src_unizo_jr2025_nbb,strong,YE2025 voorzieningen 677778 JUMP (incl terug te betalen subsidies 248285 NEW); tick1656
+bud_unizo_debt_2025,vzw_unizo,2025,12721912,,,executed,src_unizo_jr2025_nbb,strong,YE2025 schulden 12721912 DROP; tick1656
+bud_unizo_lt_fin_2025,vzw_unizo,2025,11363,,,executed,src_unizo_jr2025_nbb,strong,YE2025 LT leasing 11363 DROP; tick1656
+bud_unizo_st_debt_2025,vzw_unizo,2025,8367315,,,executed,src_unizo_jr2025_nbb,strong,YE2025 schulden ST 8367315 DROP; tick1656
+bud_unizo_lev_2025,vzw_unizo,2025,4999489,,,executed,src_unizo_jr2025_nbb,strong,YE2025 leveranciers ST 4999489 DROP; tick1656
+bud_unizo_taxsoc_2025,vzw_unizo,2025,1216771,,,executed,src_unizo_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 1216771 DROP (tax 264589 + soc 952182); tick1656
+bud_unizo_othdebt_2025,vzw_unizo,2025,2133884,,,executed,src_unizo_jr2025_nbb,strong,YE2025 overige schulden ST 2133884 JUMP; tick1656
+bud_unizo_accrued_2025,vzw_unizo,2025,4343235,,,executed,src_unizo_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 4343235 DROP; tick1656
+bud_unizo_opbr_2025,vzw_unizo,2025,25651454,,,executed,src_unizo_jr2025_nbb,strong,YE2025 bedrijfsopbrengsten 70/76A 25651454 DROP ENVELOPE; tick1656
+bud_unizo_omzet_2025,vzw_unizo,2025,3283015,,,executed,src_unizo_jr2025_nbb,strong,YE2025 omzet 70 3283015 DROP (incl overheidsdienstprestaties per bestuur); tick1656
+bud_unizo_code73_2025,vzw_unizo,2025,20744465,,,executed,src_unizo_jr2025_nbb,strong,YE2025 lidgeld/schenk/legaten/subsidies 73 20744465 DROP; tick1656
+bud_unizo_lid_2025,vzw_unizo,2025,20744465,,,executed,src_unizo_jr2025_nbb,strong,YE2025 lidgelden 730 20744465 DROP (=full code73; 731-733 empty); tick1656
+bud_unizo_andere_opbr_2025,vzw_unizo,2025,1574619,,,executed,src_unizo_jr2025_nbb,strong,YE2025 andere bedrijfsopbrengsten 74 1574619 JUMP; tick1656
+bud_unizo_nr_opbr_2025,vzw_unizo,2025,49354,,,executed,src_unizo_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfsopbrengsten 76A 49354; tick1656
+bud_unizo_handels_2025,vzw_unizo,2025,8827415,,,executed,src_unizo_jr2025_nbb,strong,YE2025 handelsgoederen 60 8827415 DROP; tick1656
+bud_unizo_diensten_2025,vzw_unizo,2025,7629574,,,executed,src_unizo_jr2025_nbb,strong,YE2025 diensten 61 7629574 JUMP; tick1656
+bud_unizo_pers_2025,vzw_unizo,2025,8516291,,,executed,src_unizo_jr2025_nbb,strong,YE2025 bezoldigingen 62 8516291 DROP / 81.8 VTE (DROP from 88.4); tick1656
+bud_unizo_afschr_2025,vzw_unizo,2025,172137,,,executed,src_unizo_jr2025_nbb,strong,YE2025 afschrijvingen 630 172137 DROP; tick1656
+bud_unizo_wv_2025,vzw_unizo,2025,-16515,,,executed,src_unizo_jr2025_nbb,strong,YE2025 waardeverminderingen 631/4 -16515 reverse; tick1656
+bud_unizo_voorz_mut_2025,vzw_unizo,2025,378287,,,executed,src_unizo_jr2025_nbb,strong,YE2025 voorzieningen toevoeging 635/9 378287 JUMP; tick1656
+bud_unizo_andere_2025,vzw_unizo,2025,31773,,,executed,src_unizo_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 31773 JUMP; tick1656
+bud_unizo_expl_2025,vzw_unizo,2025,112492,,,executed,src_unizo_jr2025_nbb,strong,YE2025 bedrijfswinst 112492 JUMP; tick1656
+bud_unizo_fininc_2025,vzw_unizo,2025,32825,,,executed,src_unizo_jr2025_nbb,strong,YE2025 financiele opbrengsten 32825 DROP; tick1656
+bud_unizo_fincost_2025,vzw_unizo,2025,30378,,,executed,src_unizo_jr2025_nbb,strong,YE2025 financiele kosten 30378 (recurrent; prior had nr 61742); tick1656
+bud_unizo_tax_2025,vzw_unizo,2025,24158,,,executed,src_unizo_jr2025_nbb,strong,YE2025 belastingen 24158 DROP; tick1656
+bud_unizo_pnl_2025,vzw_unizo,2025,90781,,,executed,src_unizo_jr2025_nbb,strong,YE2025 winst 90781 JUMP; tick1656
+bud_unizo_commissaris_2025,vzw_unizo,2025,9952,,,executed,src_unizo_jr2025_nbb,strong,YE2025 commissaris fee 9505 9952; tick1656
