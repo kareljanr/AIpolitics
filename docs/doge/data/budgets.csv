@@ -48187,3 +48187,29 @@ bud_voka_fininc_2025,vzw_voka,2025,29769,,,executed,src_voka_jr2025_nbb,strong,Y
 bud_voka_fincost_2025,vzw_voka,2025,56782,,,executed,src_voka_jr2025_nbb,strong,YE2025 financiele kosten 56782 JUMP; tick1654
 bud_voka_pnl_2025,vzw_voka,2025,540605,,,executed,src_voka_jr2025_nbb,strong,YE2025 winst 540605 DROP from 1148378; tick1654
 bud_voka_commissaris_2025,vzw_voka,2025,11110,,,executed,src_voka_jr2025_nbb,strong,YE2025 commissaris fee 9505 11110; tick1654
+bud_bzn_pat_assets_2025,vzw_bzn_patrimonium,2025,3861476,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 balanstotaal 3861476 JUMP from 3441248; tick1655
+bud_bzn_pat_va_2025,vzw_bzn_patrimonium,2025,1641769,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 vaste activa 1641769 DROP (=MVA); tick1655
+bud_bzn_pat_mva_2025,vzw_bzn_patrimonium,2025,1641769,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 materiele VA 1641769 DROP; tick1655
+bud_bzn_pat_buildings_2025,vzw_bzn_patrimonium,2025,1629595,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 terreinen/gebouwen 1629595 DROP; tick1655
+bud_bzn_pat_vlottend_2025,vzw_bzn_patrimonium,2025,2219707,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 vlottende activa 2219707 JUMP; tick1655
+bud_bzn_pat_handelsrecv_2025,vzw_bzn_patrimonium,2025,415,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 handelsvorderingen ST 415 NEW; tick1655
+bud_bzn_pat_other_recv_2025,vzw_bzn_patrimonium,2025,14400,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 overige vorderingen ST 14400 JUMP; tick1655
+bud_bzn_pat_beleg_2025,vzw_bzn_patrimonium,2025,1021790,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 geldbeleggingen 1021790 DROP from 1561590; tick1655
+bud_bzn_pat_cash_2025,vzw_bzn_patrimonium,2025,1182000,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 liquide middelen 1182000 JUMP from 108941; tick1655
+bud_bzn_pat_prepaid_2025,vzw_bzn_patrimonium,2025,1102,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 1102 DROP; tick1655
+bud_bzn_pat_equity_2025,vzw_bzn_patrimonium,2025,3823787,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 eigen vermogen 3823787 JUMP; tick1655
+bud_bzn_pat_fondsen_2025,vzw_bzn_patrimonium,2025,850362,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 fondsen 850362 flat; tick1655
+bud_bzn_pat_overgedragen_2025,vzw_bzn_patrimonium,2025,2973425,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 overgedragen winst 2973425 JUMP; tick1655
+bud_bzn_pat_debt_2025,vzw_bzn_patrimonium,2025,37688,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 schulden 37688 JUMP; tick1655
+bud_bzn_pat_st_debt_2025,vzw_bzn_patrimonium,2025,35130,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 schulden ST 35130 JUMP; tick1655
+bud_bzn_pat_othdebt_2025,vzw_bzn_patrimonium,2025,35130,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 overige schulden ST 35130 JUMP; tick1655
+bud_bzn_pat_accrued_2025,vzw_bzn_patrimonium,2025,2558,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 2558 JUMP; tick1655
+bud_bzn_pat_bruto_2025,vzw_bzn_patrimonium,2025,591635,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 brutomarge 9900 591635 JUMP FLIP from -13194 ENVELOPE; tick1655
+bud_bzn_pat_afschr_2025,vzw_bzn_patrimonium,2025,162255,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 afschrijvingen 630 162255 JUMP; tick1655
+bud_bzn_pat_andere_2025,vzw_bzn_patrimonium,2025,33304,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 33304 JUMP; tick1655
+bud_bzn_pat_expl_2025,vzw_bzn_patrimonium,2025,396076,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 bedrijfswinst 396076 FLIP from -189203; tick1655
+bud_bzn_pat_fininc_2025,vzw_bzn_patrimonium,2025,26837,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 financiele opbrengsten 26837 DROP; tick1655
+bud_bzn_pat_fincost_2025,vzw_bzn_patrimonium,2025,255,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 financiele kosten 255 flat; tick1655
+bud_bzn_pat_tax_2025,vzw_bzn_patrimonium,2025,8046,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 belastingen 8046 DROP; tick1655
+bud_bzn_pat_pnl_2025,vzw_bzn_patrimonium,2025,414612,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 winst 414612 FLIP from -160979; tick1655
+bud_bzn_pat_capex_2025,vzw_bzn_patrimonium,2025,46787,,,executed,src_bzn_pat_jr2025_nbb,strong,YE2025 MVA aanschaffingen 46787; tick1655
