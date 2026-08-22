@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 1630** (2026-08-22)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1621-1629 leftover public NGO: **ITECO** · **LDH** · **Viva Salud** · **Liga voor Mensenrechten** · **Cavaria** · **Sensoa** · **Gezond Leven** · **Zorgnet-Icuro** · **VPP** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1621-1629 is residual dual L5 leftover public NGO (not near-complete of 348bn):** **Zorgnet-Icuro** assets **10.92m** bruto **8.63m** · **Gezond Leven** assets **8.96m** bruto **4.40m** · **Cavaria** assets **5.52m** bruto **1.59m** · **Sensoa** assets **3.43m** bruto **3.22m** · **Viva Salud** assets **2.54m** bruto **1.90m** · **VPP** assets **1.28m** bruto **1.55m** · **LDH** assets **1.25m** bruto **1.04m** · **ITECO** assets **0.53m** bruto **0.65m** · **Liga** assets **0.45m** bruto **0.29m** · prior Damiaanactie/VIA/BOS+/Caritas/Oxfam/MSF stack retained |
+| **E. FOI-ready gaps** | **~1266** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1314** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + koepel/NGO shells** (**NEW Zorgnet-Icuro** assets **EUR10.92m** bruto **EUR8.63m** · **Gezond Leven** assets **EUR8.96m** bruto **EUR4.40m** · **Cavaria** assets **EUR5.52m** · **Sensoa** assets **EUR3.43m** bruto **EUR3.22m** · **Viva Salud** assets **EUR2.54m** · **VPP** assets **EUR1.28m** · **LDH** assets **EUR1.25m** · **ITECO** assets **EUR0.53m** · **Liga** assets **EUR0.45m** · prior Damiaanactie/VIA/BOS+/Caritas/Oxfam/MSF/KOV stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1630)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 47400 |
+| commitments.csv | 5223 |
+| leaderboard.csv | 7426 |
+| entities.csv | 1367 |
+| sources.csv | 3629 |
+| FOI ready | 1266 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1314 |
+| research_queue open | rq_116 deferred + rq_1631 hole-fill after progress |
+
+### What improved since tick 1620
+
+- **BE/VL residual dual leftover public NGO (tick1621-1624):** **ITECO** assets **0.53m** · **LDH** assets **1.25m** · **Viva Salud** assets **2.54m** · **Liga voor Mensenrechten** assets **0.45m** — no invented euros.
+- **VL residual dual leftover public NGO (tick1625-1629):** **Cavaria** assets **5.52m** (merger Lumi+KliQ) · **Sensoa** assets **3.43m** bruto **3.22m** · **Gezond Leven** assets **8.96m** bruto **4.40m** · **Zorgnet-Icuro** assets **10.92m** bruto **8.63m** · **VPP** assets **1.28m** bruto **1.55m** — no invented euros.
+- **NEW (tick1628-1629):** **Zorgnet-Icuro** (KBO 0417.659.828) leftover public care koepel. Official NBB VKT-VZW deposit **2026-00209849**. Assets **10.917.543** · bruto **8.628.645** · empty 70/73/60-61 · pers **6.946.018** / **42.4 VTE** · andere **1.412.521** · PnL **395.463**. **VPP** (KBO 0470.448.218) leftover patientenkoepel. Official NBB VKT-VZW deposit **2026-00106967**. Assets **1.277.680** · bruto **1.553.861** · code73 **3.328.814** · diensten **1.819.260** · pers **1.524.396** / **16.9 VTE** · PnL **-67.727**. FOI ready.
+- **Dual map themes:** leftover public NGO / OS-vorming (ITECO) · rights (LDH/Liga) · health-rights OS (Viva Salud) · LGBTQIA+ (Cavaria) · sexual health (Sensoa) · health-promotion (Gezond Leven) · hospital/care koepel (Zorgnet-Icuro) · patients (VPP) · prior Damiaanactie/BOS+/Caritas/MSF stack retained.
+- **Blocked still:** AGB/APB unpublished · Dijk92 CDN **403** · FARO JR2024 · APEFE CDN **403** · Amnesty VL scanned image PDF.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1640**.
+
 ## Snapshot at **tick 1620** (2026-08-22)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
