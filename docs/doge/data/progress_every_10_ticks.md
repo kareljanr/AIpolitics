@@ -20,6 +20,43 @@
 
 ---
 
+## Snapshot at **tick 1750** (2026-08-24)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1741-1749 leftover VL WZC/holding + HVZ: **Vivalto Home BE** · **De Verlosser** · **Akapella** · **Familiehof** · **Buitenhof** · **Hof van Schoten** · **Zusterhof** · **HVZ Rivierenland** · **HVZ Centrum** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1741-1749 is residual dual L5 care+HVZ (not near-complete of 348bn):** **Vivalto Home BE** assets **266.81m** (FVA **249.21m** / debt **219.77m**) · **HVZ Centrum** Gent dots **46.93m** · **HVZ Rivierenland** spend **36.63m** (pers **26.60m**) · **Zusterhof** bedrijfsopbr **15.41m** · **Buitenhof** bruto **4.11m** (non-rec fin **5.69m** / related loan **16.4m**) · **Akapella** bruto **5.00m** (schenking **1.41m**) · **Familiehof** bruto **3.98m** (equity NEG + comfort) · **HofSchoten** bruto **2.88m** (staff>bruto / equity NEG + comfort) · **De Verlosser** omzet **3.02m** · prior Armonea/Colisée/Gravenkasteel/Natuurpunt/GO! wave retained |
+| **E. FOI-ready gaps** | **~1375** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1423** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ shells** (**NEW Vivalto Home BE** assets **EUR266.81m** · **HVZ Centrum** Gent dots **EUR46.93m** · **HVZ Rivierenland** spend **EUR36.63m** · **Zusterhof** **EUR15.41m** · **Buitenhof/Akapella/Familiehof/HofSchoten/De Verlosser** Vivalto+independent WZC stack · prior **Armonea** opbr **EUR265.19m** · **Colisée Belgium** LOSS **EUR79.75m** · **Natuurpunt** assets **EUR488.81m** · **GO!** assets **EUR1.16bn** retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1750)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 50288 |
+| commitments.csv | 5332 |
+| leaderboard.csv | 7533 |
+| entities.csv | 1476 |
+| sources.csv | 4072 |
+| FOI ready | 1375 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1423 |
+| research_queue open | rq_116 deferred + rq_1751 hole-fill after progress |
+
+### What improved since tick 1740
+
+- **Residual dual leftover VL WZC / Vivalto holding + HVZ wave (tick1741-1749):** **Vivalto Home Belgium** · **De Verlosser** · **Akapella** · **Familiehof** · **Buitenhof** · **Hof van Schoten** · **Zusterhof** · **HVZ Rivierenland** · **HVZ Centrum** — no invented euros.
+- **NEW (tick1741):** **Vivalto Home Belgium NV** (KBO **0820.420.456**) assets **266.811.008** · FVA **249.209.728** · debt **219.774.069** · opbr **9.371.794** · PnL **+4.231.615**. Holding dual Molenheide+Prinsenhof+sisters.
+- **NEW (tick1748-1749):** **HVZ Rivierenland** (KBO **0500.913.839**) gewone uitgaven **36.626.383** / pers **26.595.196** · **HVZ Centrum** (KBO **0500.927.497**) Gent gross dots **46.932.453,88** (full zone rekening FOI).
+- **NEW (tick1742-1747):** De Verlosser omzet **3.02m** · Akapella bruto **5.00m**/schenking **1.41m** · Familiehof bruto **3.98m**/equity NEG+comfort · Buitenhof bruto **4.11m**/non-rec fin **5.69m**/related loan **16.4m** · HofSchoten bruto **2.88m**/staff>bruto/equity NEG+comfort · Zusterhof bedrijfsopbr **15.41m** (local Geel, NOT Vivalto).
+- **Dual map themes:** Vivalto Home Belgium group continuum (comfort letters / related loans / schenkingen) · leftover HVZ municipal+fed fire euros · local vs commercial WZC residual · prior Armonea/Colisée continuity risk retained.
+- **Blocked still:** AGB Bornem JR2024-only · Dijk92 CDN **403** · APEFE YE2025 CDN **403** · NSZ CDN **403** · ABS/BVAS/POV no NBB · BZA JR afkondiging live but rekening PDFs not on page.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1760**.
+
 ## Snapshot at **tick 1740** (2026-08-24)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

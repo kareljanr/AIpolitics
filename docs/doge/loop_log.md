@@ -20926,3 +20926,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; entities +1 igs_hvzc; budgets +6; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1749=done + rq_1750 spawn; ticks_completed=1749. Raw docs/doge/raw/tick1749/.
 - FOI opened: gap_hvzc_gent_dot_46_93m_zone_rekening_l5 ready (full zone JR/VTE/all-gemeente dots). Do not send.
 - Next: rq_1750 **MUST every-10** progress refresh + leftover AGB/NSZ/Bosgroep/Dijk92/APEFE/HVZ-Waasland-Rand-BZA-rekening.
+
+### 2026-08-24T08:55:00Z - tick 1750
+- Unit: **rq_1750 EVERY-10** progress coverage % layers A-E + waste top10 after residual dual 1741-1749 (Vivalto Home BE · De Verlosser · Akapella · Familiehof · Buitenhof · Hof van Schoten · Zusterhof · HVZ Rivierenland · HVZ Centrum). Pure annual top10 re-verified stable. NOT a second municipality fill.
+- Found: A/B still **100%**; C ~**99%**; D still **~74-88%** generous of TE (honest: residual dual L5 gains not near-complete of €348bn). FOI ready **~1375**. Major NEW since 1740: Vivalto Home BE assets **266.81m**/FVA **249.21m**/debt **219.77m**; HVZ Centrum Gent dots **46.93m**; HVZ Rivierenland spend **36.63m**/pers **26.60m**; Zusterhof **15.41m**; Buitenhof non-rec fin **5.69m**/related loan **16.4m**; Akapella/Familiehof/HofSchoten Vivalto comfort continuum; De Verlosser omzet **3.02m**.
+- Wrote: progress_every_10_ticks.md snapshot 1750; doge_waste_top10_current.md as-of 1750; rq_1750=done + rq_1751 spawn; ticks_completed=1750.
+- FOI: none new (decade refresh). Human-send backlog unchanged.
+- Inventory: entities **1476** · sources **4072** · budgets **50288** · commitments **5332** · leaderboard **7533** · FOI ready **1375** / answered **9** / partial **27** / total **1423**.
+- Next: rq_1751 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 if JR euros / APEFE if CDN 200 / ABS/POV/BVAS / IOED / HVZ-Waasland-Rand-BZA-rekening / IGS / WZC. Do NOT redo HVZCentrum/HVZRivierenland/Zusterhof/HofSchoten/Buitenhof/Familiehof/Akapella/DeVerlosser/VivaltoHomeBE. **Next every-10 is 1760**.
