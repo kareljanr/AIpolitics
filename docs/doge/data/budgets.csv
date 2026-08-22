@@ -47885,3 +47885,41 @@ bud_vrouwennet_expl_2025,vzw_vrouwennet,2025,3688,,,executed,src_vrouwennet_jr20
 bud_vrouwennet_fininc_2025,vzw_vrouwennet,2025,6737,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 financiele opbrengsten 6737 DROP; tick1645
 bud_vrouwennet_fincost_2025,vzw_vrouwennet,2025,11183,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 financiele kosten 11183 FLIP from -21970; tick1645
 bud_vrouwennet_pnl_2025,vzw_vrouwennet,2025,-758,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 verlies -758 LOSS FLIP from +117544; tick1645
+bud_pasar_assets_2025,vzw_pasar,2025,2547941,,,executed,src_pasar_jr2025_nbb,strong,YE2025 balanstotaal 2547941 DROP from 2613242 restated; tick1646
+bud_pasar_va_2025,vzw_pasar,2025,668273,,,executed,src_pasar_jr2025_nbb,strong,YE2025 vaste activa 668273 JUMP; tick1646
+bud_pasar_iva_2025,vzw_pasar,2025,228086,,,executed,src_pasar_jr2025_nbb,strong,YE2025 immateriele VA 228086 DROP; tick1646
+bud_pasar_mva_2025,vzw_pasar,2025,440087,,,executed,src_pasar_jr2025_nbb,strong,YE2025 materiele VA 440087 JUMP (meubilair 241408 JUMP); tick1646
+bud_pasar_fva_2025,vzw_pasar,2025,100,,,executed,src_pasar_jr2025_nbb,strong,YE2025 financiele VA 100 flat; tick1646
+bud_pasar_vlottend_2025,vzw_pasar,2025,1879668,,,executed,src_pasar_jr2025_nbb,strong,YE2025 vlottende activa 1879668 DROP; tick1646
+bud_pasar_lt_other_recv_2025,vzw_pasar,2025,74368,,,executed,src_pasar_jr2025_nbb,strong,YE2025 overige vorderingen LT 74368 flat; tick1646
+bud_pasar_voorraden_2025,vzw_pasar,2025,31239,,,executed,src_pasar_jr2025_nbb,strong,YE2025 voorraden 31239 DROP; tick1646
+bud_pasar_handelsrecv_2025,vzw_pasar,2025,133207,,,executed,src_pasar_jr2025_nbb,strong,YE2025 handelsvorderingen ST 133207 DROP; tick1646
+bud_pasar_other_recv_2025,vzw_pasar,2025,173401,,,executed,src_pasar_jr2025_nbb,strong,YE2025 overige vorderingen ST 173401 JUMP; tick1646
+bud_pasar_beleg_2025,vzw_pasar,2025,900522,,,executed,src_pasar_jr2025_nbb,strong,YE2025 geldbeleggingen 900522 NEW (prior empty); tick1646
+bud_pasar_cash_2025,vzw_pasar,2025,1382958,,,executed,src_pasar_jr2025_nbb,strong,YE2025 liquide middelen 1382958 JUMP from 544203; tick1646
+bud_pasar_prepaid_2025,vzw_pasar,2025,84495,,,executed,src_pasar_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 84495 DROP; tick1646
+bud_pasar_equity_2025,vzw_pasar,2025,1621350,,,executed,src_pasar_jr2025_nbb,strong,YE2025 eigen vermogen 1621350 JUMP; tick1646
+bud_pasar_fondsen_2025,vzw_pasar,2025,1142973,,,executed,src_pasar_jr2025_nbb,strong,YE2025 fondsen 1142973 flat; tick1646
+bud_pasar_destin_2025,vzw_pasar,2025,744405,,,executed,src_pasar_jr2025_nbb,strong,YE2025 bestemde fondsen 744405 flat; tick1646
+bud_pasar_overgedragen_2025,vzw_pasar,2025,-266027,,,executed,src_pasar_jr2025_nbb,strong,YE2025 overgedragen verlies -266027 IMPROVED; tick1646
+bud_pasar_debt_2025,vzw_pasar,2025,926590,,,executed,src_pasar_jr2025_nbb,strong,YE2025 schulden 926590 DROP; tick1646
+bud_pasar_st_debt_2025,vzw_pasar,2025,459611,,,executed,src_pasar_jr2025_nbb,strong,YE2025 schulden ST 459611 DROP; tick1646
+bud_pasar_lev_2025,vzw_pasar,2025,147783,,,executed,src_pasar_jr2025_nbb,strong,YE2025 leveranciers ST 147783 DROP; tick1646
+bud_pasar_taxsoc_2025,vzw_pasar,2025,311827,,,executed,src_pasar_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 311827 JUMP (tax 19032 + soc 292796); tick1646
+bud_pasar_accrued_2025,vzw_pasar,2025,466980,,,executed,src_pasar_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 466980 DROP; tick1646
+bud_pasar_bruto_2025,vzw_pasar,2025,2260837,,,executed,src_pasar_jr2025_nbb,strong,YE2025 brutomarge 9900 2260837 JUMP ENVELOPE; tick1646
+bud_pasar_omzet_2025,vzw_pasar,2025,831550,,,executed,src_pasar_jr2025_nbb,strong,YE2025 omzet 70 831550 (prior empty this extract); tick1646
+bud_pasar_code73_2025,vzw_pasar,2025,2404792,,,executed,src_pasar_jr2025_nbb,strong,YE2025 lidgeld/schenk/legaten/subsidies 73 2404792 (prior empty this extract); tick1646
+bud_pasar_nr_opbr_2025,vzw_pasar,2025,37003,,,executed,src_pasar_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfsopbrengsten 76A 37003 JUMP; tick1646
+bud_pasar_pers_2025,vzw_pasar,2025,2105126,,,executed,src_pasar_jr2025_nbb,strong,YE2025 bezoldigingen 62 2105126 JUMP / 20.9 VTE (DROP from 22.9); tick1646
+bud_pasar_afschr_2025,vzw_pasar,2025,144367,,,executed,src_pasar_jr2025_nbb,strong,YE2025 afschrijvingen 630 144367 JUMP; tick1646
+bud_pasar_wv_2025,vzw_pasar,2025,4835,,,executed,src_pasar_jr2025_nbb,strong,YE2025 waardeverminderingen 631/4 4835 NEW; tick1646
+bud_pasar_voorz_mut_2025,vzw_pasar,2025,-76184,,,executed,src_pasar_jr2025_nbb,strong,YE2025 voorzieningen besteding 635/9 -76184; tick1646
+bud_pasar_andere_2025,vzw_pasar,2025,18929,,,executed,src_pasar_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 18929 JUMP; tick1646
+bud_pasar_nr_kost_2025,vzw_pasar,2025,5117,,,executed,src_pasar_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfskosten 66A 5117 DROP; tick1646
+bud_pasar_expl_2025,vzw_pasar,2025,-12702,,,executed,src_pasar_jr2025_nbb,strong,YE2025 bedrijfsverlies -12702 LOSS FLIP from +123005; tick1646
+bud_pasar_fininc_2025,vzw_pasar,2025,13717,,,executed,src_pasar_jr2025_nbb,strong,YE2025 financiele opbrengsten 13717 DROP; tick1646
+bud_pasar_fincost_2025,vzw_pasar,2025,6068,,,executed,src_pasar_jr2025_nbb,strong,YE2025 financiele kosten 6068 DROP; tick1646
+bud_pasar_tax_2025,vzw_pasar,2025,-23159,,,executed,src_pasar_jr2025_nbb,strong,YE2025 belastingen -23159 CREDIT; tick1646
+bud_pasar_pnl_2025,vzw_pasar,2025,18106,,,executed,src_pasar_jr2025_nbb,strong,YE2025 winst 18106 DROP from 126297; tick1646
+bud_pasar_borg_2025,vzw_pasar,2025,155735,,,executed,src_pasar_jr2025_nbb,strong,YE2025 persoonlijke zekerheid 9149 155735; tick1646
