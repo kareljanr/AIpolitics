@@ -49955,3 +49955,17 @@ bud_go_staff_2024,voi_go,2024,17574000,,,executed,src_go_jr2024,strong,JR2024 be
 bud_go_diensten_2024,voi_go,2024,22785000,,,executed,src_go_jr2024,strong,JR2024 diensten 61 22785 kEUR; tick1725
 bud_go_expl_2024,voi_go,2024,-33533000,,,executed,src_go_jr2024,strong,JR2024 bedrijfswinst 9901 -33533 kEUR LOSS; tick1725
 bud_go_pnl_2024,voi_go,2024,6388000,,,executed,src_go_jr2024,strong,JR2024 PnL 9904 +6388 kEUR; Raad 21.03.2025; tick1725
+bud_dommelhof_tw_assets_2025,vzw_dommelhof_tw,2025,3198037,,,executed,src_dommelhof_tw_nbb_ye2025,strong,NBB 20/58 assets 3198037; tick1726
+bud_dommelhof_tw_va_2025,vzw_dommelhof_tw,2025,870272,,,executed,src_dommelhof_tw_nbb_ye2025,strong,NBB VA 21/28 870272; tick1726
+bud_dommelhof_tw_mva_2025,vzw_dommelhof_tw,2025,868395,,,executed,src_dommelhof_tw_nbb_ye2025,strong,NBB MVA 22/27 868395; tick1726
+bud_dommelhof_tw_vlottend_2025,vzw_dommelhof_tw,2025,2327765,,,executed,src_dommelhof_tw_nbb_ye2025,strong,NBB vlottend 29/58 2327765; tick1726
+bud_dommelhof_tw_cash_2025,vzw_dommelhof_tw,2025,794830,,,executed,src_dommelhof_tw_nbb_ye2025,strong,NBB liquide 54/58 794830 JUMP vs 376909; tick1726
+bud_dommelhof_tw_recv_2025,vzw_dommelhof_tw,2025,1035557,,,executed,src_dommelhof_tw_nbb_ye2025,strong,NBB ST recv 40/41 1035557; tick1726
+bud_dommelhof_tw_equity_2025,vzw_dommelhof_tw,2025,630719,,,executed,src_dommelhof_tw_nbb_ye2025,strong,NBB EV 10/15 630719 (=overgedragen); tick1726
+bud_dommelhof_tw_debt_2025,vzw_dommelhof_tw,2025,2567318,,,executed,src_dommelhof_tw_nbb_ye2025,strong,NBB schulden 17/49 2567318; tick1726
+bud_dommelhof_tw_lt_fin_2025,vzw_dommelhof_tw,2025,606305,,,executed,src_dommelhof_tw_nbb_ye2025,strong,NBB LT fin 170/4 606305; tick1726
+bud_dommelhof_tw_taxsoc_2025,vzw_dommelhof_tw,2025,1109210,,,executed,src_dommelhof_tw_nbb_ye2025,strong,NBB tax/soc 45 1109210 JUMP; tick1726
+bud_dommelhof_tw_bruto_2025,vzw_dommelhof_tw,2025,6890095,,,executed,src_dommelhof_tw_nbb_ye2025,strong,NBB brutomarge 9900 6890095; 70/73/60/61 empty VKT; tick1726
+bud_dommelhof_tw_staff_2025,vzw_dommelhof_tw,2025,6613357,,,executed,src_dommelhof_tw_nbb_ye2025,strong,NBB 62 6613357 / VTE 100.7; tick1726
+bud_dommelhof_tw_expl_2025,vzw_dommelhof_tw,2025,65051,,,executed,src_dommelhof_tw_nbb_ye2025,strong,NBB bedrijfswinst 9901 65051 FLIP vs -208398; tick1726
+bud_dommelhof_tw_pnl_2025,vzw_dommelhof_tw,2025,39070,,,executed,src_dommelhof_tw_nbb_ye2025,strong,NBB PnL 9904 39070; AV 16.06.2026; tick1726

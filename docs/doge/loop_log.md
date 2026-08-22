@@ -20756,3 +20756,10 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_go_centrale_assets_1_16bn_opbr_48_78m_staff_17_57m_l5 ready (VL toelage split / VTE / scholengroepen consol). Do not send.
 - Next: rq_1726 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 if JR euros / APEFE if CDN 200 / ABS/POV/BVAS / IOED / HVZ / IGS / other. Do NOT redo GO!/Natuurpunt/OVSG/KOV. NOT every-10 (next **1730**).
 
+### 2026-08-24T00:45:00Z - tick 1726
+- Unit: rq_1726 Dommelhof VZW / Campus Dommelhof (leftover VL woonzorgcentrum Tielt-Winge) (KBO **0443.049.478**; VZW; Halensebaan 25 3390 Tielt-Winge; campusdommelhof.be; info@campusdommelhof.be; official NBB **VKT-VZW** YE2025 deposit **2026-00325874** CDN **200**; AV **16.06.2026**; model VKT-VZW 25.0.13 m04-f). Honest leftover AGB Bornem still JR2024-only. NSZ CDN **403**. Dijk92 CDN **403**. APEFE CDN **403**. ABS/BVAS/POV/ASGB no NBB. Erfpunt IOED YE2025 already mined tick1536 (same euros) — skipped. Preferred AGB/NSZ still blocked — leftover Dommelhof WZC official NBB JR2025 **newly live** taken (not Limburg culture Dommelhof EVA). New entity vzw_dommelhof_tw. Envelope = bruto **6890095**. NOT every-10 (next 1730).
+- Found (NBB YE2025 strong): assets **3198037** (VA **870272** / MVA **868395** / vlottend **2327765** / cash **794830** JUMP / recv **1035557**); equity **630719**; debt **2567318** (LT fin **606305** / taxsoc **1109210** JUMP); bruto **6890095**; staff **6613357** / VTE **100,7** (~96pct bruto); expl **65051** FLIP; PnL **39070**; **70/73/60/61 empty** VKT. Dommelhof NV **0433.155.577** YE2025 CDN also live (dual FOI).
+- Wrote: sources +4; entities +1 vzw_dommelhof_tw; budgets +14; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1726=done + rq_1727 spawn; ticks_completed=1726. Raw docs/doge/raw/tick1726/.
+- FOI opened: gap_dommelhof_bruto_6_89m_staff_6_61m_omzet_empty_l5 ready (70/73 RIZIV split / Dommelhof NV / AV). Do not send.
+- Next: rq_1727 leftover AGB/**NSZ if CDN 200**/Dommelhof NV dual / Bosgroep/Dijk92 if JR euros / APEFE if CDN 200 / ABS/POV/BVAS / IOED / HVZ / IGS / other. Do NOT redo DommelhofTW/GO!/Natuurpunt/OVSG/Erfpunt. NOT every-10 (next **1730**).
+
