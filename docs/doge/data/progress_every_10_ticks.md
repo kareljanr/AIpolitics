@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1610** (2026-08-22)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1601-1609 leftover public NGO: **Vluchtelingenwerk** · **Solidagro** · **Oxfam Solidariteit** · **Rikolto Belgie** · **Trias** · **Plan International Belgie** · **Caritas Internationaal** · **Join For Water** · **VVOB** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1601-1609 is residual dual L5 leftover public NGO (not near-complete of 348bn):** **Caritas** assets **47.17m** opbr **60.38m** · **Oxfam** assets **47.08m** opbr **47.27m** · **VVOB** assets **22.12m** opbr **22.18m** · **Plan** assets **16.63m** opbr **21.00m** · **Trias** assets **7.60m** opbr **14.42m** · **Rikolto Belgie** assets **4.84m** opbr **8.71m** · **JFW** assets **4.04m** bruto **5.50m** · **Vluchtelingenwerk** assets **2.68m** · **Solidagro** assets **1.12m** · prior MSF/KOV/BD/Memisa/11.11.11/CNCD stack retained |
+| **E. FOI-ready gaps** | **~1248** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1296** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + koepel/NGO shells** (**NEW Caritas** assets **EUR47.17m** opbr **EUR60.38m** · **Oxfam** assets **EUR47.08m** opbr **EUR47.27m** · **VVOB** assets **EUR22.12m** opbr **EUR22.18m** · **Plan** assets **EUR16.63m** · **Trias** assets **EUR7.60m** · **Rikolto Belgie** assets **EUR4.84m** · **JFW** assets **EUR4.04m** · **Vluchtelingenwerk** assets **EUR2.68m** · **Solidagro** assets **EUR1.12m** · prior MSF/KOV/BD/Memisa/11.11.11/CNCD/EASPD stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1610)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 46802 |
+| commitments.csv | 5205 |
+| leaderboard.csv | 7408 |
+| entities.csv | 1349 |
+| sources.csv | 3557 |
+| FOI ready | 1248 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1296 |
+| research_queue open | rq_116 deferred + rq_1611 hole-fill after progress |
+
+### What improved since tick 1600
+
+- **VL/BE residual dual leftover public NGO (tick1601-1604):** **Vluchtelingenwerk** assets **2.68m** · **Solidagro** assets **1.12m** · **Oxfam Solidariteit** assets **47.08m** · **Rikolto Belgie** assets **4.84m** — no invented euros.
+- **VL/BE residual dual leftover public NGO (tick1605-1609):** **Trias** assets **7.60m** · **Plan International Belgie** assets **16.63m** · **Caritas Internationaal** assets **47.17m** · **Join For Water** assets **4.04m** · **VVOB** assets **22.12m** — no invented euros.
+- **NEW (tick1609):** **VVOB** (KBO 0423.616.717) leftover public education NGO. Official NBB VOL-VZW deposit **2026-00063676** PDF (1122659 bytes / 40p; AV 26.03.2026). Assets **22.123.977** · opbr **22.176.962** · code73 **22.036.190** · diensten **16.266.882** · pers **6.083.226** / **53.9 VTE** · FX unrealized **1.029.402** · PnL **-1.094.528**. FOI ready.
+- **Dual map themes:** leftover public NGO / OS-humanitarian (Caritas/Oxfam/Plan/MSF) · education (VVOB) · water (JFW) · entrepreneurship (Trias) · food systems (Rikolto/Solidagro) · asiel advocacy (Vluchtelingenwerk) · prior koepel/MSF stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1620**.
+
 ## Snapshot at **tick 1600** (2026-08-22)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

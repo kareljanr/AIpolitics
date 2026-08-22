@@ -19830,3 +19830,11 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_vvob_opbr_22_18m_code73_22_04m_diensten_16_27m_pers_6_08m_fx_l5 ready (DGD/VL/EU 73 split / diensten / FX / AV 26.03.2026). Do not send.
 - Inventory: entities **1349** · sources **3557** · budgets **46802** · commitments **5205** · leaderboard **7408** · FOI ready **1248** / answered **9** / partial **27** / total **1296**.
 - Next: rq_1610 **EVERY-10 MUST** refresh progress_every_10_ticks.md + doge_waste_top10_current.md. Then leftover AGB/Bosgroep/Dijk92 if CDN 200 / FARO if JR2025 / GO!/POV / IOED / HVZ / IGS / other. Do NOT redo VVOB/JFW/Caritas/Plan/Trias/Rikolto Belgie/Oxfam/Solidagro/MSF....
+
+### 2026-08-22T17:50:00Z - tick 1610
+- Unit: **every-10 progress** - refresh progress_every_10_ticks.md (layers A-E of EUR 347.956 bn TE) + doge_waste_top10_current.md (top 10 by priority_index; pure annual flow filter). No new entity unit this tick (hard wall / every-10 mandatory). Honest leftover AGB/APB / Bosgroep / Dijk92 CDN **403** / FARO JR2024 still blocked - deferred to rq_1611.
+- Coverage: A **100%** · B **100%** · C **~99%** · D **~74-88%** generous (NOT near-complete of 348bn) · E FOI ready **1248** / answered **9** / partial **27** / total **1296**.
+- Waste top10: **stable** GIP 8.7 · fossil direct 8.55 · fossil accises 8.5 · company cars 8.5 · heatoil 8.43 · cheque 8.4 · CO2 SSC gap 8.4 · OAA reporté 8.4 · BCR reporté 8.4 · dual cars SSC 8.4. Re-verified from leaderboard. NEW residual 1601-1609 off pure top10: **Caritas** **47.17m** · **Oxfam** **47.08m** · **VVOB** **22.12m** · **Plan** **16.63m** · **Trias** **7.60m** · **Rikolto Belgie** **4.84m** · **JFW** **4.04m** · **Vluchtelingenwerk** **2.68m** · **Solidagro** **1.12m**.
+- Wrote: progress_every_10_ticks.md snapshot 1610; doge_waste_top10_current.md as-of 1610; research_queue rq_1610=done + rq_1611 spawn; loop_state ticks_completed=1610. No new FOI this tick.
+- Inventory: entities **1349** · sources **3557** · budgets **46802** · commitments **5205** · leaderboard **7408** · FOI ready **1248** / answered **9** / partial **27** / total **1296**.
+- Next: rq_1611 leftover AGB/Bosgroep/Dijk92 if CDN 200 / FARO if JR2025 / GO!/POV / IOED / HVZ / IGS / other. Do NOT redo VVOB/JFW/Caritas/Plan/Trias/Rikolto Belgie/Oxfam/Solidagro/Vluchtelingenwerk/MSF.... **Next every-10 is 1620**.
