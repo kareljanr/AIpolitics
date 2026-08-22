@@ -21076,3 +21076,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md (snapshot 1770); doge_waste_top10_current.md; rq_1770=done + rq_1771 spawn; ticks_completed=1770.
 - FOI opened: none new (progress tick).
 - Next: rq_1771 leftover AGB/**NSZ if CDN 200**/Bosgroep/Brembloem-if-200 / **De Vrienden Hof van Schoten 2026-00139428** / HVZ-VBWest. Next every-10 **1780**.
+
+### 2026-08-24T17:30:00Z - tick 1771
+- Unit: rq_1771 De Vrienden van Hof van Schoten VZW (leftover VL friends dual / Schoten / Vivalto after EVERY-10) (KBO **0526.901.129**; VZW; Botermelkdijk 282 2900 Schoten twin Hof van Schoten BV; hofvanschoten@vivaltohome.com; official NBB **VKT-VZW** YE2025 deposit **2026-00139428** CDN **200**; AV **08.05.2026**; Vivalto Home Belgium NV gedelegeerd; commissaris Forvis Mazars / Francois Collie - **oordeel zonder voorbehoud**). Honest leftover AGB Bornem still JR2024-only. Brembloem VZW still no JR2025 CDN. Preferred AGB/Brembloem blocked - leftover De Vrienden official NBB JR2025 **live** taken. New entity vzw_vrienden_hofschoten. Envelope = brutomarge **172** (omzet+73 empty; 0 VTE near-empty shell). NOT every-10 (next **1780**).
+- Found (NBB YE2025 strong): assets/cash **11074**; equity **6674**; debt **4400**; bruto **172**; VTE **0**; PnL **36** TURNAROUND; empty codes **70/73**.
+- Wrote: sources +3; entities +1 vzw_vrienden_hofschoten; budgets +6; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1771=done + rq_1772 spawn; ticks_completed=1771. Raw docs/doge/raw/tick1771/.
+- FOI opened: gap_vrienden_hofschoten_bruto_172_empty_70_73_vivalto_shell_l5 ready (activity/empty 70+73/Hof BV link/Vivalto control). Do not send.
+- Next: rq_1772 leftover AGB/**NSZ if CDN 200**/Bosgroep/Brembloem-if-200 / HVZ-VBWest / other Vivalto if CDN 200. Do NOT redo DeVriendenHofSchoten continuum. NOT every-10 (next **1780**).

@@ -50478,3 +50478,9 @@ bud_rapsode_omzet_2025,nv_rapsode,2025,7177781,,,realized,src_rapsode_jr2025_nbb
 bud_rapsode_staff_2025,nv_rapsode,2025,4257162,,,realized,src_rapsode_jr2025_nbb,strong,Staff 4257162 / VTE 72.1; tick1769
 bud_rapsode_expl_2025,nv_rapsode,2025,1237933,,,realized,src_rapsode_jr2025_nbb,strong,Benefice exploitation 1237933; tick1769
 bud_rapsode_pnl_2025,nv_rapsode,2025,493473,,,realized,src_rapsode_jr2025_nbb,strong,PnL 493473; admin remun 177297; tick1769
+bud_vrienden_hofschoten_assets_2025,vzw_vrienden_hofschoten,2025,11074,,,stock,src_vrienden_hofschoten_jr2025_nbb,strong,Assets YE2025 11074 DROP vs 14373; tick1771
+bud_vrienden_hofschoten_equity_2025,vzw_vrienden_hofschoten,2025,6674,,,stock,src_vrienden_hofschoten_jr2025_nbb,strong,Equity 6674; tick1771
+bud_vrienden_hofschoten_debt_2025,vzw_vrienden_hofschoten,2025,4400,,,stock,src_vrienden_hofschoten_jr2025_nbb,strong,Debt 4400 trade ST; tick1771
+bud_vrienden_hofschoten_cash_2025,vzw_vrienden_hofschoten,2025,11074,,,stock,src_vrienden_hofschoten_jr2025_nbb,strong,Cash 11074 (= almost all assets); tick1771
+bud_vrienden_hofschoten_bruto_2025,vzw_vrienden_hofschoten,2025,172,,,realized,src_vrienden_hofschoten_jr2025_nbb,strong,Brutomarge 172 (VKT; omzet 70 + lidgeld/subs 73 empty); tick1771
+bud_vrienden_hofschoten_pnl_2025,vzw_vrienden_hofschoten,2025,36,,,realized,src_vrienden_hofschoten_jr2025_nbb,strong,PnL 36 TURNAROUND vs -570; tick1771
