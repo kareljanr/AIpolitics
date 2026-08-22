@@ -50591,3 +50591,13 @@ bud_agedor_staff_2025,nv_agedor,2025,3993220,,,realized,src_agedor_jr2025_nbb,st
 bud_agedor_expl_2025,nv_agedor,2025,204234,,,realized,src_agedor_jr2025_nbb,strong,Benefice exploitation 204234; tick1779
 bud_agedor_pnl_2025,nv_agedor,2025,-244966,,,realized,src_agedor_jr2025_nbb,strong,PnL LOSS -244966; no dividend; tick1779
 bud_agedor_rivage_gage_2025,nv_agedor,2025,135600000,,,stock,src_agedor_jr2025_nbb,strong,VIVALTO LEASE/RIVAGE gage fonds commerce 135600000 group undivided; assets grevés 2880465; tick1779
+bud_brembloem_immo_assets_2025,nv_brembloem_immo,2025,14897447,,,stock,src_brembloem_immo_jr2025_nbb,strong,Assets YE2025 14897447 DROP vs 15429774; tick1781
+bud_brembloem_immo_equity_2025,nv_brembloem_immo,2025,4703547,,,stock,src_brembloem_immo_jr2025_nbb,strong,Equity 4703547 UP vs 4269270; tick1781
+bud_brembloem_immo_debt_2025,nv_brembloem_immo,2025,8654588,,,stock,src_brembloem_immo_jr2025_nbb,strong,Debt 8654588 DROP vs 9546617; tick1781
+bud_brembloem_immo_mva_2025,nv_brembloem_immo,2025,14517471,,,stock,src_brembloem_immo_jr2025_nbb,strong,Terreinen en gebouwen 14517471; tick1781
+bud_brembloem_immo_lt_credit_2025,nv_brembloem_immo,2025,6548230,,,stock,src_brembloem_immo_jr2025_nbb,strong,LT credit/leasing 172/3=6548230; tick1781
+bud_brembloem_immo_autres_st_2025,nv_brembloem_immo,2025,1159029,,,stock,src_brembloem_immo_jr2025_nbb,strong,Overige schulden ST 1159029; tick1781
+bud_brembloem_immo_cash_2025,nv_brembloem_immo,2025,352694,,,stock,src_brembloem_immo_jr2025_nbb,strong,Cash 352694; tick1781
+bud_brembloem_immo_marge_2025,nv_brembloem_immo,2025,1274371,,,realized,src_brembloem_immo_jr2025_nbb,strong,Marge bruto 1274371 (VKT-kap; CA undisclosed); tick1781
+bud_brembloem_immo_expl_2025,nv_brembloem_immo,2025,756884,,,realized,src_brembloem_immo_jr2025_nbb,strong,Bedrijfswinst 756884; 0 staff code; tick1781
+bud_brembloem_immo_pnl_2025,nv_brembloem_immo,2025,434277,,,realized,src_brembloem_immo_jr2025_nbb,strong,PnL 434277; no dividend; tick1781
