@@ -47573,3 +47573,36 @@ bud_levl_fininc_2025,vzw_levl,2025,548,,,executed,src_levl_jr2025_nbb,strong,YE2
 bud_levl_fincost_2025,vzw_levl,2025,328,,,executed,src_levl_jr2025_nbb,strong,YE2025 financiele kosten 328 DROP; tick1635
 bud_levl_tax_2025,vzw_levl,2025,164,,,executed,src_levl_jr2025_nbb,strong,YE2025 belastingen 164; tick1635
 bud_levl_pnl_2025,vzw_levl,2025,20886,,,executed,src_levl_jr2025_nbb,strong,YE2025 winst 20886 PROFIT FLIP from -17799; tick1635
+bud_ouderenraad_assets_2025,vzw_ouderenraad,2025,970937,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 balanstotaal 970937 JUMP from 915295; tick1636
+bud_ouderenraad_va_2025,vzw_ouderenraad,2025,94385,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 vaste activa 94385 DROP; tick1636
+bud_ouderenraad_mva_2025,vzw_ouderenraad,2025,93955,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 materiele VA 93955 DROP; tick1636
+bud_ouderenraad_fva_2025,vzw_ouderenraad,2025,430,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 financiele VA 430 flat; tick1636
+bud_ouderenraad_vlottend_2025,vzw_ouderenraad,2025,876552,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 vlottende activa 876552 JUMP; tick1636
+bud_ouderenraad_handelsrecv_2025,vzw_ouderenraad,2025,18,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 handelsvorderingen ST 18 DROP; tick1636
+bud_ouderenraad_other_recv_2025,vzw_ouderenraad,2025,325648,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 overige vorderingen ST 325648 DROP; tick1636
+bud_ouderenraad_cash_2025,vzw_ouderenraad,2025,524571,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 liquide middelen 524571 JUMP; tick1636
+bud_ouderenraad_prepaid_2025,vzw_ouderenraad,2025,26315,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 26315 JUMP; tick1636
+bud_ouderenraad_equity_2025,vzw_ouderenraad,2025,557606,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 eigen vermogen 557606 JUMP; tick1636
+bud_ouderenraad_fondsen_2025,vzw_ouderenraad,2025,30697,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 fondsen 30697 flat; tick1636
+bud_ouderenraad_destin_2025,vzw_ouderenraad,2025,216000,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 bestemde fondsen 216000 DROP (sociaal passief 70pct loonmassa-regel); tick1636
+bud_ouderenraad_overgedragen_2025,vzw_ouderenraad,2025,310909,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 overgedragen winst 310909 JUMP; tick1636
+bud_ouderenraad_voorzieningen_2025,vzw_ouderenraad,2025,55513,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 voorzieningen 55513 DROP; tick1636
+bud_ouderenraad_debt_2025,vzw_ouderenraad,2025,357818,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 schulden 357818 DROP; tick1636
+bud_ouderenraad_st_debt_2025,vzw_ouderenraad,2025,324265,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 schulden ST 324265 JUMP; tick1636
+bud_ouderenraad_lev_2025,vzw_ouderenraad,2025,53667,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 leveranciers ST 53667 JUMP; tick1636
+bud_ouderenraad_taxsoc_2025,vzw_ouderenraad,2025,80496,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 bezoldigingen/sociale lasten ST 80496 DROP (tax empty current); tick1636
+bud_ouderenraad_othdebt_2025,vzw_ouderenraad,2025,190102,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 overige schulden ST 190102 NEW; tick1636
+bud_ouderenraad_accrued_2025,vzw_ouderenraad,2025,33553,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 33553 DROP from 328120; tick1636
+bud_ouderenraad_bruto_2025,vzw_ouderenraad,2025,1083976,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 brutomarge 9900 1083976 JUMP ENVELOPE (niet-rec 166305); tick1636
+bud_ouderenraad_nietrec_opbr_2025,vzw_ouderenraad,2025,166305,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfsopbrengsten 76A 166305 JUMP; tick1636
+bud_ouderenraad_omzet_2025,vzw_ouderenraad,2025,0,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 omzet 70 empty (VKT abbreviated); tick1636
+bud_ouderenraad_code73_2025,vzw_ouderenraad,2025,0,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 lidgeld/schenk/subsidies 73 empty (VKT abbreviated); tick1636
+bud_ouderenraad_diensten_2025,vzw_ouderenraad,2025,0,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 diensten 60/61 empty (VKT abbreviated); tick1636
+bud_ouderenraad_pers_2025,vzw_ouderenraad,2025,886698,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 bezoldigingen 62 886698 JUMP / 10.5 VTE; tick1636
+bud_ouderenraad_afschr_2025,vzw_ouderenraad,2025,21610,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 afschrijvingen 630 21610 DROP; tick1636
+bud_ouderenraad_andere_2025,vzw_ouderenraad,2025,1862,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 1862 JUMP; tick1636
+bud_ouderenraad_nietrec_cost_2025,vzw_ouderenraad,2025,168349,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfskosten 66A 168349 NEW; tick1636
+bud_ouderenraad_expl_2025,vzw_ouderenraad,2025,192310,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 bedrijfswinst 192310 PROFIT FLIP from -90828; tick1636
+bud_ouderenraad_fininc_2025,vzw_ouderenraad,2025,4,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 financiele opbrengsten 4; tick1636
+bud_ouderenraad_fincost_2025,vzw_ouderenraad,2025,1033,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 financiele kosten 1033 DROP; tick1636
+bud_ouderenraad_pnl_2025,vzw_ouderenraad,2025,191277,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 winst 191277 PROFIT FLIP from -92759; tick1636
