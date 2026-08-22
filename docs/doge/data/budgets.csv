@@ -50186,3 +50186,19 @@ bud_vivalto_be_services_2025,nv_vivalto_home_be,2025,2835599,,,executed,src_viva
 bud_vivalto_be_expl_2025,nv_vivalto_home_be,2025,4839018,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB bénéfice d'exploitation 9901 4839018; tick1741
 bud_vivalto_be_fin_fva_opbr_2025,nv_vivalto_home_be,2025,4840000,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB produits immobilisations financières 750 4840000; tick1741
 bud_vivalto_be_pnl_2025,nv_vivalto_home_be,2025,4231615,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB PnL 9904 4231615 FLIP; AV 22.05.2026; Mazars sans réserve; tick1741
+bud_deverlosser_assets_2025,vzw_de_verlosser,2025,2391042,,,executed,src_deverlosser_nbb_ye2025,strong,NBB 20/58 assets 2391042; tick1742
+bud_deverlosser_va_2025,vzw_de_verlosser,2025,767790,,,executed,src_deverlosser_nbb_ye2025,strong,NBB VA 767790; tick1742
+bud_deverlosser_buildings_2025,vzw_de_verlosser,2025,415574,,,executed,src_deverlosser_nbb_ye2025,strong,NBB terreinen/gebouwen 415574; tick1742
+bud_deverlosser_vlottend_2025,vzw_de_verlosser,2025,1623252,,,executed,src_deverlosser_nbb_ye2025,strong,NBB vlottend 1623252; tick1742
+bud_deverlosser_cash_2025,vzw_de_verlosser,2025,89058,,,executed,src_deverlosser_nbb_ye2025,strong,NBB liquide 89058 DROP vs 140427; tick1742
+bud_deverlosser_beleg_2025,vzw_de_verlosser,2025,1002257,,,executed,src_deverlosser_nbb_ye2025,strong,NBB geldbeleggingen 1002257; tick1742
+bud_deverlosser_equity_2025,vzw_de_verlosser,2025,1690969,,,executed,src_deverlosser_nbb_ye2025,strong,NBB EV 1690969; tick1742
+bud_deverlosser_kapsubs_2025,vzw_de_verlosser,2025,33600,,,executed,src_deverlosser_nbb_ye2025,strong,NBB kapitaalsubsidies 33600; tick1742
+bud_deverlosser_voorzieningen_2025,vzw_de_verlosser,2025,143866,,,executed,src_deverlosser_nbb_ye2025,strong,NBB voorzieningen herstel 143866 DROP vs 320000; tick1742
+bud_deverlosser_debt_2025,vzw_de_verlosser,2025,556207,,,executed,src_deverlosser_nbb_ye2025,strong,NBB schulden 556207; tick1742
+bud_deverlosser_bruto_2025,vzw_de_verlosser,2025,2248348,,,executed,src_deverlosser_nbb_ye2025,strong,NBB brutomarge 9900 2248348; tick1742
+bud_deverlosser_omzet_2025,vzw_de_verlosser,2025,3015833,,,executed,src_deverlosser_nbb_ye2025,strong,NBB omzet 70 3015833; code73 empty; FOI RIZIV; tick1742
+bud_deverlosser_goederen_diensten_2025,vzw_de_verlosser,2025,1026867,,,executed,src_deverlosser_nbb_ye2025,strong,NBB 60/61 1026867 JUMP vs 827942; tick1742
+bud_deverlosser_staff_2025,vzw_de_verlosser,2025,2177394,,,executed,src_deverlosser_nbb_ye2025,strong,NBB 62 2177394 / VTE 31; tick1742
+bud_deverlosser_expl_2025,vzw_de_verlosser,2025,90558,,,executed,src_deverlosser_nbb_ye2025,strong,NBB bedrijfswinst 9901 90558; tick1742
+bud_deverlosser_pnl_2025,vzw_de_verlosser,2025,94194,,,executed,src_deverlosser_nbb_ye2025,strong,NBB PnL 9904 94194; AV 11.05.2026; VKT no commissaris; tick1742
