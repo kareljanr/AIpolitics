@@ -49759,3 +49759,23 @@ bud_sofam_pnl_2025,cv_sofam,2025,6287,,,executed,src_sofam_jv2025_official,stron
 bud_sofam_inningen_2025,cv_sofam,2025,4204681,,,executed,src_sofam_jv2025_official,strong,Transparantie/JV2025 totale inningen 4204681; tick1712
 bud_sofam_beheers_a_2025,cv_sofam,2025,1183446,,,executed,src_sofam_jv2025_official,strong,Transparantie DEEL2 A totaal kosten 1183446; tick1712
 bud_sofam_nettokosten_2025,cv_sofam,2025,816121,,,executed,src_sofam_jv2025_official,strong,Transparantie DEEL2 B nettokosten 816121 (ratio 19.41%); tick1712
+bud_faro_werkingsbudget_2025,vzw_faro,2025,2875000,,,executed,src_faro_jv2025_official,strong,JV2025 p21 totale werkingsbudget afgerond 2875000; tick1713
+bud_faro_overschot_2025,vzw_faro,2025,70194,,,executed,src_faro_jv2025_official,strong,JV2025 p21 overschot 70194; tick1713
+bud_faro_vl_werkingssubsidie_2025,vzw_faro,2025,2481000,,,executed,src_faro_jv2025_official,strong,JV2025 p21 Vlaamse werkingssubsidie 2481000; tick1713
+bud_faro_personeel_derived_2025,vzw_faro,2025,2329038,,,executed,src_faro_jv2025_official,medium,Derived 81.01pct of rounded werkingsbudget 2875000; pie uitgaven; tick1713
+bud_faro_werking_derived_2025,vzw_faro,2025,531013,,,executed,src_faro_jv2025_official,medium,Derived 18.47pct of rounded werkingsbudget 2875000; tick1713
+bud_faro_subsidies_share_derived_2025,vzw_faro,2025,2678063,,,executed,src_faro_jv2025_official,medium,Derived 93.15pct of rounded werkingsbudget 2875000 (incl VL 2.481m + tewerkstelling/project/Nationale Loterij); tick1713
+bud_faro_eigen_middelen_derived_2025,vzw_faro,2025,168763,,,executed,src_faro_jv2025_official,medium,Derived 5.87pct of rounded werkingsbudget 2875000; tick1713
+bud_faro_assets_2024,vzw_faro,2024,1020016,,,executed,src_faro_nbb_ye2024,strong,NBB VKT-VZW 20/58 assets 1020016; tick1713
+bud_faro_va_2024,vzw_faro,2024,44978,,,executed,src_faro_nbb_ye2024,strong,NBB VA 21/28 44978 (MVA 44606 FVA 372); tick1713
+bud_faro_vlottend_2024,vzw_faro,2024,975039,,,executed,src_faro_nbb_ye2024,strong,NBB vlottend 29/58 975039; tick1713
+bud_faro_cash_2024,vzw_faro,2024,678952,,,executed,src_faro_nbb_ye2024,strong,NBB liquide 54/58 678952 DROP vs 861994; tick1713
+bud_faro_equity_2024,vzw_faro,2024,694010,,,executed,src_faro_nbb_ye2024,strong,NBB EV 10/15 694010 (fondsen 39057 + bestemde 400000 + overgedragen 254953); tick1713
+bud_faro_debt_2024,vzw_faro,2024,326007,,,executed,src_faro_nbb_ye2024,strong,NBB schulden 17/49 326007 (ST 299637 + overlopend 26370); tick1713
+bud_faro_bruto_2024,vzw_faro,2024,2383082,,,executed,src_faro_nbb_ye2024,strong,NBB brutomarge 9900 2383082; tick1713
+bud_faro_omzet_2024,vzw_faro,2024,175996,,,executed,src_faro_nbb_ye2024,strong,NBB omzet 70 175996; tick1713
+bud_faro_code73_2024,vzw_faro,2024,2740761,,,executed,src_faro_nbb_ye2024,strong,NBB code73 lidgeld/schenkingen/legaten/subsidies 2740761; tick1713
+bud_faro_diensten_2024,vzw_faro,2024,552414,,,executed,src_faro_nbb_ye2024,strong,NBB 60/61 552414; tick1713
+bud_faro_staff_2024,vzw_faro,2024,2334908,,,executed,src_faro_nbb_ye2024,strong,NBB 62 bezoldigingen 2334908 / VTE 21.6; tick1713
+bud_faro_expl_2024,vzw_faro,2024,30633,,,executed,src_faro_nbb_ye2024,strong,NBB bedrijfswinst 9901 30633; tick1713
+bud_faro_pnl_2024,vzw_faro,2024,37243,,,executed,src_faro_nbb_ye2024,strong,NBB PnL 9904 37243; AV 27.03.2025; tick1713
