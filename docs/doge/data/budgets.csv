@@ -47180,3 +47180,36 @@ bud_ldh_expl_2025,vzw_ldh,2025,10810,,,executed,src_ldh_jr2025_nbb,strong,YE2025
 bud_ldh_fininc_2025,vzw_ldh,2025,773,,,executed,src_ldh_jr2025_nbb,strong,YE2025 produits financiers 773 JUMP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
 bud_ldh_fincost_2025,vzw_ldh,2025,5582,,,executed,src_ldh_jr2025_nbb,strong,YE2025 charges financieres 5582 JUMP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
 bud_ldh_pnl_2025,vzw_ldh,2025,6001,,,executed,src_ldh_jr2025_nbb,strong,YE2025 benefice 6001 DROP from 49698; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_viva_assets_2025,vzw_viva,2025,2535707,,,executed,src_viva_jr2025_nbb,strong,YE2025 balanstotaal 2535707 DROP from 3910296; tick1623; primary official NBB VKT-VZW
+bud_viva_va_2025,vzw_viva,2025,6605,,,executed,src_viva_jr2025_nbb,strong,YE2025 vaste activa 6605 JUMP from 5278; tick1623
+bud_viva_iva_2025,vzw_viva,2025,3320,,,executed,src_viva_jr2025_nbb,strong,YE2025 immateriele VA 3320 NEW; tick1623
+bud_viva_mva_2025,vzw_viva,2025,3285,,,executed,src_viva_jr2025_nbb,strong,YE2025 materiele VA 3285 DROP (meubilair); tick1623
+bud_viva_vlottend_2025,vzw_viva,2025,2529101,,,executed,src_viva_jr2025_nbb,strong,YE2025 vlottende activa 2529101 DROP; tick1623
+bud_viva_lt_other_recv_2025,vzw_viva,2025,1104691,,,executed,src_viva_jr2025_nbb,strong,YE2025 overige vorderingen LT 1104691 NEW; tick1623
+bud_viva_handelsrecv_2025,vzw_viva,2025,36986,,,executed,src_viva_jr2025_nbb,strong,YE2025 handelsvorderingen ST 36986 DROP; tick1623
+bud_viva_other_recv_2025,vzw_viva,2025,1307695,,,executed,src_viva_jr2025_nbb,strong,YE2025 overige vorderingen ST 1307695 DROP; tick1623
+bud_viva_beleg_2025,vzw_viva,2025,396195,,,executed,src_viva_jr2025_nbb,strong,YE2025 geldbeleggingen 396195 JUMP from 188379; tick1623
+bud_viva_cash_2025,vzw_viva,2025,777797,,,executed,src_viva_jr2025_nbb,strong,YE2025 liquide middelen 777797 DROP from 1033757; tick1623
+bud_viva_prepaid_2025,vzw_viva,2025,10429,,,executed,src_viva_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 10429; tick1623
+bud_viva_equity_2025,vzw_viva,2025,1055216,,,executed,src_viva_jr2025_nbb,strong,YE2025 eigen vermogen 1055216 JUMP from 907701; tick1623
+bud_viva_destin_2025,vzw_viva,2025,1055216,,,executed,src_viva_jr2025_nbb,strong,YE2025 bestemde fondsen 1055216 JUMP (fondsen empty); tick1623
+bud_viva_voorzieningen_2025,vzw_viva,2025,64676,,,executed,src_viva_jr2025_nbb,strong,YE2025 voorzieningen terug te betalen subsidies 64676 JUMP; tick1623
+bud_viva_debt_2025,vzw_viva,2025,1415815,,,executed,src_viva_jr2025_nbb,strong,YE2025 schulden 1415815 DROP from 2947857; tick1623
+bud_viva_st_debt_2025,vzw_viva,2025,112192,,,executed,src_viva_jr2025_nbb,strong,YE2025 schulden ST 112192 DROP; tick1623
+bud_viva_lev_2025,vzw_viva,2025,43003,,,executed,src_viva_jr2025_nbb,strong,YE2025 leveranciers ST 43003 DROP; tick1623
+bud_viva_taxsoc_2025,vzw_viva,2025,69189,,,executed,src_viva_jr2025_nbb,strong,YE2025 bezoldigingen/sociale lasten ST 69189 JUMP; tick1623
+bud_viva_accrued_2025,vzw_viva,2025,1303623,,,executed,src_viva_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 1303623 DROP from 2711926; tick1623
+bud_viva_bruto_2025,vzw_viva,2025,1899827,,,executed,src_viva_jr2025_nbb,strong,YE2025 brutomarge 9900 1899827 DROP ENVELOPE; tick1623
+bud_viva_omzet_2025,vzw_viva,2025,25037,,,executed,src_viva_jr2025_nbb,strong,YE2025 omzet 70 25037 DROP from 159166; tick1623
+bud_viva_code73_2025,vzw_viva,2025,2265517,,,executed,src_viva_jr2025_nbb,strong,YE2025 lidgeld/schenk/legaten/subsidies 73 2265517 JUMP; tick1623
+bud_viva_diensten_2025,vzw_viva,2025,393340,,,executed,src_viva_jr2025_nbb,strong,YE2025 handelsgoederen/diensten 60/61 393340 JUMP; tick1623
+bud_viva_pers_2025,vzw_viva,2025,814559,,,executed,src_viva_jr2025_nbb,strong,YE2025 bezoldigingen 62 814559 DROP / 15 VTE avg (DROP from 16.6); tick1623
+bud_viva_afschr_2025,vzw_viva,2025,2747,,,executed,src_viva_jr2025_nbb,strong,YE2025 afschrijvingen 630 2747; tick1623
+bud_viva_voorz_2025,vzw_viva,2025,9939,,,executed,src_viva_jr2025_nbb,strong,YE2025 voorzieningen toevoeging 635/9 9939; tick1623
+bud_viva_andere_2025,vzw_viva,2025,879648,,,executed,src_viva_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 879648 DROP from 1196418; tick1623
+bud_viva_expl_2025,vzw_viva,2025,192935,,,executed,src_viva_jr2025_nbb,strong,YE2025 bedrijfswinst 192935 PROFIT FLIP from -6060; tick1623
+bud_viva_fininc_2025,vzw_viva,2025,4933,,,executed,src_viva_jr2025_nbb,strong,YE2025 financiele opbrengsten 75/76B 4933 (76B component 4685 shown); tick1623
+bud_viva_fincost_2025,vzw_viva,2025,28675,,,executed,src_viva_jr2025_nbb,strong,YE2025 financiele kosten 28675 JUMP (rec 18592 + niet-rec 10083); tick1623
+bud_viva_tax_2025,vzw_viva,2025,21679,,,executed,src_viva_jr2025_nbb,strong,YE2025 belastingen op resultaat 21679 NEW; tick1623
+bud_viva_pnl_2025,vzw_viva,2025,147515,,,executed,src_viva_jr2025_nbb,strong,YE2025 winst 147515 JUMP from 12218; tick1623
+bud_viva_sociale_perscost_2025,vzw_viva,2025,881118,,,executed,src_viva_jr2025_nbb,strong,YE2025 sociale balans personeelskosten 102 881118 (vs code62 814559); tick1623
