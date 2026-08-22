@@ -49667,3 +49667,23 @@ bud_auvibel_pnl_2025,cv_auvibel,2025,0,,,executed,src_auvibel_jv2025_official,st
 bud_auvibel_vte_2025,cv_auvibel,2025,4.1,,,executed,src_auvibel_jv2025_official,strong,JV2025/NBB gemiddeld VTE 9087 4.1 DROP from 4.8; tick1707
 bud_auvibel_neto_collect_2025,cv_auvibel,2025,21318174,,,executed,src_auvibel_jv2025_official,strong,JV2025 netto bedragen (bruto-teruggaven) privékopie+leenrecht+onderwijs 21318173.53; tick1707
 bud_auvibel_privekopie_fact_2025,cv_auvibel,2025,22093111,,,executed,src_auvibel_jv2025_official,strong,JV2025 privékopie gefactureerd subtotaal 22093110.90 before teruggaven; tick1707
+bud_reprobel_equity_2025,cv_reprobel,2025,21000,,,executed,src_reprobel_jv2025_official,strong,JV2025 eigen vermogen 21000 flat; tick1708
+bud_reprobel_va_2025,cv_reprobel,2025,29694,,,executed,src_reprobel_jv2025_official,strong,JV2025 vaste activa 29694 DROP (IVA 14750 + MVA 14941); tick1708
+bud_reprobel_own_st_recv_2025,cv_reprobel,2025,1139013,,,executed,src_reprobel_jv2025_official,strong,JV2025 eigen-activiteit KT vorderingen 1139013 DROP (incl handels + BTW); tick1708
+bud_reprobel_handelsrecv_2025,cv_reprobel,2025,226858,,,executed,src_reprobel_jv2025_official,strong,JV2025 handelsvorderingen eigen 226858 JUMP (incl op te stellen facturen 154493 onderwijs commissies); tick1708
+bud_reprobel_btw_recv_2025,cv_reprobel,2025,912155,,,executed,src_reprobel_jv2025_official,strong,JV2025 BTW te ontvangen 912155 (na 4.4m terugvordering 2025); tick1708
+bud_reprobel_beleg_2025,cv_reprobel,2025,15803646,,,executed,src_reprobel_jv2025_official,strong,JV2025 geldbeleggingen 15803646 JUMP from 12277192; tick1708
+bud_reprobel_cash_2025,cv_reprobel,2025,2204525,,,executed,src_reprobel_jv2025_official,strong,JV2025 liquide middelen/banktegoeden 2204525 DROP from 2441912; tick1708
+bud_reprobel_rechten_recv_2025,cv_reprobel,2025,777399,,,executed,src_reprobel_jv2025_official,strong,JV2025 vorderingen rechten IX.Bis 777399; tick1708
+bud_reprobel_own_st_debt_2025,cv_reprobel,2025,381658,,,executed,src_reprobel_jv2025_official,strong,JV2025 schulden <=1j eigen 381658 (leveranciers 193204 + belasting/sociale 188454); tick1708
+bud_reprobel_rechten_debt_2025,cv_reprobel,2025,19878174,,,executed,src_reprobel_jv2025_official,strong,JV2025 schulden rechten 19878174 (afwachting inning 768845 + te verdelen niet-voorbeh 14279605 + voorbeh 772980 + afwachting betaling 1056744 + other fiduciary components); tick1708
+bud_reprobel_rechten_te_verdelen_2025,cv_reprobel,2025,15052585,,,executed,src_reprobel_jv2025_official,strong,JV2025 te verdelen geïnde rechten 14279605+772980=15052585; tick1708
+bud_reprobel_commissions_2025,cv_reprobel,2025,1965217,,,executed,src_reprobel_jv2025_official,strong,JV2025 omzet/commissies 1965217 DROP ENVELOPE; tick1708
+bud_reprobel_staff_2025,cv_reprobel,2025,1230803,,,executed,src_reprobel_jv2025_official,strong,JV2025 bezoldigingen 62 1230803 / VTE 12.6; tick1708
+bud_reprobel_diensten_2025,cv_reprobel,2025,1051445,,,executed,src_reprobel_jv2025_official,strong,JV2025 diensten en diverse goederen 61 1051445; tick1708
+bud_reprobel_costs_opbr_2025,cv_reprobel,2025,2590195,,,executed,src_reprobel_jv2025_official,strong,JV2025 kosten=opbrengsten 2590195 (pnl 0 collecting society); tick1708
+bud_reprobel_pnl_2025,cv_reprobel,2025,0,,,executed,src_reprobel_jv2025_official,strong,JV2025 te bestemmen resultaat 0; tick1708
+bud_reprobel_vte_2025,cv_reprobel,2025,12.6,,,executed,src_reprobel_jv2025_official,strong,JV2025/site team 12.6 VTE einde boekjaar; tick1708
+bud_reprobel_facturatie_base_2025,cv_reprobel,2025,29571278,,,executed,src_reprobel_jv2025_official,strong,JV2025 facturatie/ratio base 29571278 (werkingskostenratio 6.65%); tick1708
+bud_reprobel_inningen_2025,cv_reprobel,2025,29453863,,,executed,src_reprobel_jv2025_official,strong,JV2025 totale inningen 29453863; tick1708
+bud_reprobel_werkingskostenratio_pct_2025,cv_reprobel,2025,6.65,,,executed,src_reprobel_jv2025_official,strong,JV2025 netto werkingskostenratio 6.65% (commissions/facturatie); tick1708
