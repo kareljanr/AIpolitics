@@ -21132,3 +21132,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_tonnelle; budgets (+15); commitments; leaderboard; foi_queue ready; research_queue rq_1778=done + rq_1779 spawned; loop_state ticks=1778; FOI draft gap_tonnelle_ca_6_76m_related_recv_3_35m_rivage_135m_l5.md
 - FOI opened: gap_tonnelle_ca_6_76m_related_recv_3_35m_rivage_135m_l5 (**ready**, not sent)
 - Next: rq_1779 — leftover AGB/NSZ-if-200/Bosgroep/Brembloem-if-200/AgeDor; every-10 at 1780
+
+### 2026-08-24T19:55:00Z — tick 1779
+- Unit: rq_1779 — **L\'AGE D\'OR SA** (Bastogne / Vivalto)
+- Found: NBB C-cap YE2025 deposit [2026-00176187](http://cdn.staatsbladmonitor.be/2026pdf/2026-00176187.pdf) CDN 200 (1.29 MB / 61p); KBO **0444.792.411**; AV **21.05.2026**; mère Vivalto Home Belgium; Forvis Mazars — **opinion sans réserve + observation comfort**. Sourced: assets **€12,220,905**; **equity NEG €−1,285,759** (deepening); debt **€13,506,664**; CA **€6,123,194**; staff **€3,993,220** / VTE **63.1**; expl **€204,234**; **PnL LOSS €−244,966**; related debt **€12,336,309**; leasing LT **€10,100,291** + option **€217,600**; controllers **€1,496,579**; **RIVAGE gage €135,600,000**; cash JUMP **€362,974**; **comfort letter** through AG YE2026. Closes CDN sister batch ClosRoses→AgeDor.
+- Wrote: sources (+3); entities nv_agedor; budgets (+15); commitments; leaderboard; foi_queue ready prio9; research_queue rq_1779=done + rq_1780 spawned (MUST every-10); loop_state ticks=1779; FOI draft gap_agedor_ca_6_12m_equity_neg_1_29m_comfort_rivage_l5.md
+- FOI opened: gap_agedor_ca_6_12m_equity_neg_1_29m_comfort_rivage_l5 (**ready**, not sent)
+- Next: rq_1780 — **MUST every-10** + leftover AGB/NSZ/Bosgroep/Brembloem
