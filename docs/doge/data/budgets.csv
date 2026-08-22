@@ -50657,3 +50657,14 @@ bud_reposfleuri_staff_2025,nv_reposfleuri,2025,3199304,,,realized,src_reposfleur
 bud_reposfleuri_expl_2025,nv_reposfleuri,2025,392650,,,realized,src_reposfleuri_jr2025_nbb,strong,Benefice exploitation 392650; tick1785
 bud_reposfleuri_pnl_2025,nv_reposfleuri,2025,211921,,,realized,src_reposfleuri_jr2025_nbb,strong,PnL 211921; dividend apport 400000 + admin 100164; tick1785
 bud_reposfleuri_dividend_apport_2025,nv_reposfleuri,2025,400000,,,realized,src_reposfleuri_jr2025_nbb,strong,Remuneration de l apport 400000 (same as prior year); tick1785
+bud_courtis_assets_2025,bv_courtis,2025,4209062,,,stock,src_courtis_jr2025_nbb,strong,Assets YE2025 4209062; tick1786
+bud_courtis_equity_2025,bv_courtis,2025,3319768,,,stock,src_courtis_jr2025_nbb,strong,Equity 3319768 DROP vs 3364637; tick1786
+bud_courtis_debt_2025,bv_courtis,2025,889294,,,stock,src_courtis_jr2025_nbb,strong,Debt 889294; tick1786
+bud_courtis_fva_2025,bv_courtis,2025,3196500,,,stock,src_courtis_jr2025_nbb,strong,Immobilisations financieres 3196500 = 100pct COUROS; tick1786
+bud_courtis_mva_realestate_2025,bv_courtis,2025,941580,,,stock,src_courtis_jr2025_nbb,strong,Terrains et constructions 941580; hypotheque inscription 25000 + mandat 329800; tick1786
+bud_courtis_autres_dettes_st_2025,bv_courtis,2025,647060,,,stock,src_courtis_jr2025_nbb,strong,Autres dettes ST 647060 JUMP vs 581759; tick1786
+bud_courtis_lt_credit_2025,bv_courtis,2025,219128,,,stock,src_courtis_jr2025_nbb,strong,Dettes financieres LT 172/3=219128; tick1786
+bud_courtis_cash_2025,bv_courtis,2025,13081,,,stock,src_courtis_jr2025_nbb,strong,Cash 13081; tick1786
+bud_courtis_marge_2025,bv_courtis,2025,-21843,,,realized,src_courtis_jr2025_nbb,strong,Marge bruto -21843 (A-app; CA undisclosed; 0 VTE shell); tick1786
+bud_courtis_pnl_2025,bv_courtis,2025,-44869,,,realized,src_courtis_jr2025_nbb,strong,PnL loss -44869; pertes reportees -697448; tick1786
+bud_courtis_couros_equity_2025,bv_courtis,2025,4149390,,,stock,src_courtis_jr2025_nbb,strong,COUROS participation YE2025 equity 4149390 / pnl 606535 per COURTIS annex; tick1786

@@ -21181,3 +21181,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_reposfleuri; budgets (+14); commitments; leaderboard; foi_queue ready; research_queue rq_1785=done + rq_1786 spawned; loop_state ticks=1785; FOI draft gap_reposfleuri_marge_3_90m_staff_3_20m_dividend_0_40m_l5.md
 - FOI opened: gap_reposfleuri_marge_3_90m_staff_3_20m_dividend_0_40m_l5 (**ready**, not sent)
 - Next: rq_1786 — unused Vivalto maisons / AGB / NSZ-if-200; every-10 at 1790
+
+### 2026-08-24T22:15:00Z — tick 1786
+- Unit: rq_1786 — **COURTIS SRL** (Aywaille / Vivalto property dual for Jardin des Chantoirs)
+- Found: Preferred AGB Bornem still JR2024; NSZ/Dijk92/APEFE prior CDN **403**; Maison Dieu JR2025 noted on Northdata but CDN deposit id still opaque. Took leftover **COURTIS SRL** NBB A-app YE2025 deposit [2026-00137106](http://cdn.staatsbladmonitor.be/2026pdf/2026-00137106.pdf) CDN 200 (227958 bytes / 28p); KBO **0537.221.335**; AV **12.05.2026**; mere Vivalto Home Belgium; Forvis Mazars — **opinion sans reserve**. Sourced: assets **EUR4,209,062**; equity **EUR3,319,768** (DROP); debt **EUR889,294**; FVA **EUR3,196,500** = **100pct COUROS SRL** (brand Chantoirs; KBO 0866.041.338); marge **EUR-21,843**; PnL **EUR-44,869**; VTE **0**; autres dettes ST **EUR647,060**; comfort letter through AG YE2026; mortgage mandate **EUR329,800**. Twin opco CDN live **2026-00137102**.
+- Wrote: sources (+3); entities bv_courtis; budgets (+11); commitments; leaderboard; foi_queue ready; research_queue rq_1786=done + rq_1787 spawned; loop_state ticks=1786; FOI draft gap_courtis_fva_3_20m_couros_100pct_loss_comfort_l5.md
+- FOI opened: gap_courtis_fva_3_20m_couros_100pct_loss_comfort_l5 (**ready**, not sent)
+- Next: rq_1787 — COUROS-00137102 / MaisonDieu-if-200 / AGB / NSZ-if-200; every-10 at 1790
