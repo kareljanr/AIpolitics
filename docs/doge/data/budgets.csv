@@ -45900,3 +45900,32 @@ bud_litv_expl_gap_2025,oi_litv,2025,-423999,,,executed,src_litv_jaarverslag_2025
 bud_litv_fininc_2025,oi_litv,2025,93859,,,executed,src_litv_jaarverslag_2025,strong,2025 financiele opbrengsten 93858.89 (kapitaalsubsidie aanwending VL 51515.29 + Antwerpen 42348.52); tick1583; primary official Literatuur Vlaanderen jaarverslag 2025 (Vlaamse rechtspersoon; not confirmed NBB VZW)
 bud_litv_fincost_2025,oi_litv,2025,261,,,executed,src_litv_jaarverslag_2025,strong,2025 financiele kosten 260.59; tick1583; primary official Literatuur Vlaanderen jaarverslag 2025 (Vlaamse rechtspersoon; not confirmed NBB VZW)
 bud_litv_pnl_2025,oi_litv,2025,-330400,,,executed,src_litv_jaarverslag_2025,strong,2025 bedrijfswinst/verlies / te bestemmen resultaat -330400.43 LOSS (revisor-confirmed); tick1583; primary official Literatuur Vlaanderen jaarverslag 2025 (Vlaamse rechtspersoon; not confirmed NBB VZW)
+bud_fede_assets_2025,vzw_fede,2025,800282,,,executed,src_fede_jr2025_nbb,strong,2025 balanstotaal 800282 (accountant 800281.59); tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_va_2025,vzw_fede,2025,10587,,,executed,src_fede_jr2025_nbb,strong,2025 vaste activa 10587 DROP (was 26166); tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_mva_2025,vzw_fede,2025,10587,,,executed,src_fede_jr2025_nbb,strong,2025 MVA installaties 10587 (aanschaf 20191 / afschr cum 9604; capex 7208); tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_fva_2025,vzw_fede,2025,0,,,executed,src_fede_jr2025_nbb,strong,2025 FVA 0 (was 17500 fully cleared); tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_current_2025,vzw_fede,2025,789695,,,executed,src_fede_jr2025_nbb,strong,2025 vlottende activa 789695 JUMP; tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_trade_recv_2025,vzw_fede,2025,11275,,,executed,src_fede_jr2025_nbb,strong,2025 handelsvorderingen 11275 JUMP (was 1766); tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_other_recv_2025,vzw_fede,2025,78771,,,executed,src_fede_jr2025_nbb,strong,2025 overige vorderingen 78771; tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_cash_2025,vzw_fede,2025,696128,,,executed,src_fede_jr2025_nbb,strong,2025 liquide middelen 696128 JUMP (was 589010); tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_prepaid_2025,vzw_fede,2025,3521,,,executed,src_fede_jr2025_nbb,strong,2025 overlopend actief 3521 (was 0); tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_equity_2025,vzw_fede,2025,619234,,,executed,src_fede_jr2025_nbb,strong,2025 eigen vermogen 619234 JUMP (accountant 619234.18); tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_fondsen_2025,vzw_fede,2025,50688,,,executed,src_fede_jr2025_nbb,strong,2025 fondsen 50688 identiek; tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_destin_2025,vzw_fede,2025,489603,,,executed,src_fede_jr2025_nbb,strong,2025 bestemde fondsen/reserves 489603 JUMP (was 397103; inbreng om niet 80000 + toevoeg 691 12500); tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_overgedragen_2025,vzw_fede,2025,78943,,,executed,src_fede_jr2025_nbb,strong,2025 overgedragen winst 78943 DROP (was 94914); tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_debt_2025,vzw_fede,2025,181047,,,executed,src_fede_jr2025_nbb,strong,2025 schulden 181047 JUMP; tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_st_2025,vzw_fede,2025,177514,,,executed,src_fede_jr2025_nbb,strong,2025 schulden <=1j 177514; tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_lev_2025,vzw_fede,2025,73348,,,executed,src_fede_jr2025_nbb,strong,2025 leveranciers 73348 JUMP (was 55216); tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_taxsoc_2025,vzw_fede,2025,104165,,,executed,src_fede_jr2025_nbb,strong,2025 bezoldigingen/sociale lasten 104165 (belastingen 0); tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_accrued_2025,vzw_fede,2025,3534,,,executed,src_fede_jr2025_nbb,strong,2025 overlopend passief 3534; tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_bruto_2025,vzw_fede,2025,895368,,,executed,src_fede_jr2025_nbb,strong,2025 brutomarge 9900 895368 (omzet 70 empty / 73 empty / 60/61 empty VKT); tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_pers_2025,vzw_fede,2025,893969,,,executed,src_fede_jr2025_nbb,strong,2025 bezoldigingen 62 893969 / 8.5 VTE (sociale balans kosten 865150; YE 8.6; uren 14942; PC 32901); tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_vte_2025,vzw_fede,2025,8.5,,,executed,src_fede_jr2025_nbb,strong,2025 gemiddeld VTE 8.5 (sociale balans; YE 8.6); tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_afschr_2025,vzw_fede,2025,5287,,,executed,src_fede_jr2025_nbb,strong,2025 afschrijvingen 5287; tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_other_2025,vzw_fede,2025,367,,,executed,src_fede_jr2025_nbb,strong,2025 andere bedrijfskosten 367; tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_expl_2025,vzw_fede,2025,-4256,,,executed,src_fede_jr2025_nbb,strong,2025 bedrijfswinst/verlies -4256 LOSS (was +10630); tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_fininc_2025,vzw_fede,2025,981,,,executed,src_fede_jr2025_nbb,strong,2025 financiele opbrengsten 981; tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_fincost_2025,vzw_fede,2025,196,,,executed,src_fede_jr2025_nbb,strong,2025 financiele kosten 196; tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_pnl_2025,vzw_fede,2025,-3471,,,executed,src_fede_jr2025_nbb,strong,2025 te bestemmen resultaat -3471 LOSS (accountant -3470.70); tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_toevoeg_2025,vzw_fede,2025,12500,,,executed,src_fede_jr2025_nbb,strong,2025 toevoeging bestemde reserves 691 12500; tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_fede_capex_2025,vzw_fede,2025,7208,,,executed,src_fede_jr2025_nbb,strong,2025 MVA aanschaffingen 7208; tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
