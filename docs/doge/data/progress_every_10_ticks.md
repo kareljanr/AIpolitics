@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 1640** (2026-08-23)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1631-1639 leftover public NGO / VL steunpunt / senioren / welzijn / kinderdorpen: **Prebes** · **Gezinsbond** · **Greenpeace Belgium** · **SAM** · **LEVL** · **Vlaamse Ouderenraad** · **Vlaams Welzijnsverbond** · **SOS Kinderdorpen** · **OKRA** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1631-1639 is residual dual L5 leftover NGO (not near-complete of 348bn):** **Gezinsbond** assets **18.72m** opbr **11.94m** · **SOS Kinderdorpen** assets **16.02m** opbr **14.16m** (subs **6.11m**) · **OKRA** assets **7.05m** opbr **11.34m** code73 **9.11m** · **Greenpeace** assets **6.24m** opbr **11.09m** · **Welzijnsverbond** assets **2.52m** bruto **4.01m** · **SAM** assets **2.66m** bruto **3.79m** · **Prebes** assets **3.33m** bruto **1.04m** · **LEVL** assets **1.10m** bruto **0.85m** code73 **1.11m** · **Ouderenraad** assets **0.97m** bruto **1.08m** · prior Zorgnet/GezondLeven/Cavaria/Sensoa/Damiaanactie/Caritas/MSF stack retained |
+| **E. FOI-ready gaps** | **~1275** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1323** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + koepel/NGO shells** (**NEW Gezinsbond** assets **EUR18.72m** opbr **EUR11.94m** · **SOS** assets **EUR16.02m** opbr **EUR14.16m** · **OKRA** assets **EUR7.05m** opbr **EUR11.34m** · **Greenpeace** assets **EUR6.24m** · **Welzijnsverbond** assets **EUR2.52m** · **SAM** assets **EUR2.66m** · **Prebes** assets **EUR3.33m** · **LEVL** assets **EUR1.10m** · **Ouderenraad** assets **EUR0.97m** · prior Zorgnet/GezondLeven/Cavaria/Damiaanactie/Caritas/MSF stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1640)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 47711 |
+| commitments.csv | 5232 |
+| leaderboard.csv | 7435 |
+| entities.csv | 1376 |
+| sources.csv | 3665 |
+| FOI ready | 1275 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1323 |
+| research_queue open | rq_116 deferred + rq_1641 hole-fill after progress |
+
+### What improved since tick 1630
+
+- **VL/BE residual dual leftover public NGO (tick1631-1634):** **Prebes** assets **3.33m** · **Gezinsbond** assets **18.72m** · **Greenpeace Belgium** assets **6.24m** · **SAM** assets **2.66m** — no invented euros.
+- **VL residual dual leftover steunpunt / advies / welzijn / senioren (tick1635-1639):** **LEVL** assets **1.10m** code73 **1.11m** · **Vlaamse Ouderenraad** assets **0.97m** · **Vlaams Welzijnsverbond** assets **2.52m** bruto **4.01m** · **SOS Kinderdorpen** assets **16.02m** opbr **14.16m** (public subsidies **6.11m**) · **OKRA** assets **7.05m** opbr **11.34m** code73 **9.11m** (subsidies line opaque ~5.81m) — no invented euros.
+- **NEW (tick1638-1639):** **SOS Kinderdorpen** (KBO 0408.628.435) leftover child-village NGO. Official NBB C-ASBL deposit **2026-00163539**. Assets **16.018.823** · opbr **14.157.910** · code73 **13.725.509** (dons **5.398.369** + legs **2.214.783** + subsidies **6.112.358**) · pers **6.846.567** / **90.2 VTE** · PnL **647.693**. **OKRA** (KBO 0412.022.346) leftover VL seniorenbeweging. Official NBB VOL-VZW deposit **2026-00062852**. Assets **7.051.000** · opbr **11.342.547** · code73 **9.112.933** (lid **3.300.948**; subsidies 733 line empty residual **~5.808.276**) · pers **6.675.559** / **71.4 VTE** · PnL **992.917**. FOI ready.
+- **Dual map themes:** leftover public NGO / preventie (Prebes) · family (Gezinsbond) · environment (Greenpeace) · social-work steunpunt (SAM) · participatieorganisatie (LEVL) · elderly advies (Ouderenraad) · welzijnskoepel (Welzijnsverbond) · child villages (SOS) · seniors movement (OKRA) · prior Zorgnet/Cavaria/Damiaanactie/Caritas/MSF stack retained.
+- **Blocked still:** AGB/APB unpublished · Dijk92 CDN **403** · FARO JR2024 · APEFE CDN **403** · Amnesty VL + Natuurpunt scanned image PDF · **Femma/NEOS CDN 200 unused deferred**.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1650**.
+
 ## Snapshot at **tick 1630** (2026-08-22)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
