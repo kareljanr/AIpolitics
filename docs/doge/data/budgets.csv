@@ -49529,3 +49529,31 @@ bud_vil_fininc_2025,vzw_vil,2025,97776,,,executed,src_vil_jr2025_nbb,strong,YE20
 bud_vil_fincost_2025,vzw_vil,2025,80746,,,executed,src_vil_jr2025_nbb,strong,YE2025 financiele kosten 80746 DROP; tick1698
 bud_vil_pnl_2025,vzw_vil,2025,195704,,,executed,src_vil_jr2025_nbb,strong,YE2025 winst 195704 DROP; tick1698
 bud_vil_vte_2025,vzw_vil,2025,19.1,,,executed,src_vil_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 19.1 DROP from 19.8; eoy 19.8; tick1698
+bud_flanders_food_assets_2025,vzw_flanders_food,2025,23647353,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 balanstotaal 23647353 JUMP from 19418351; tick1699
+bud_flanders_food_va_2025,vzw_flanders_food,2025,129272,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 vaste activa 129272 DROP (=MVA only); tick1699
+bud_flanders_food_mva_2025,vzw_flanders_food,2025,129272,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 MVA 129272 (meubilair 33442 + overige 95830); tick1699
+bud_flanders_food_vlottend_2025,vzw_flanders_food,2025,23518081,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 vlottende activa 23518081 JUMP; tick1699
+bud_flanders_food_handelsrecv_2025,vzw_flanders_food,2025,771413,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 handelsvorderingen ST 771413 JUMP; tick1699
+bud_flanders_food_other_recv_2025,vzw_flanders_food,2025,19123719,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 overige vorderingen ST 19123719 JUMP (project/grant pass-through); tick1699
+bud_flanders_food_beleg_2025,vzw_flanders_food,2025,2726590,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 geldbeleggingen 2726590 JUMP; tick1699
+bud_flanders_food_cash_2025,vzw_flanders_food,2025,879180,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 liquide middelen 879180 JUMP; tick1699
+bud_flanders_food_prepaid_2025,vzw_flanders_food,2025,17178,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 17178 NEW; tick1699
+bud_flanders_food_equity_2025,vzw_flanders_food,2025,1360233,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 eigen vermogen 1360233 JUMP; tick1699
+bud_flanders_food_fondsen_2025,vzw_flanders_food,2025,92500,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 fondsen 92500 flat; tick1699
+bud_flanders_food_destin_2025,vzw_flanders_food,2025,1150000,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 bestemde fondsen 1150000 flat; tick1699
+bud_flanders_food_overgedragen_2025,vzw_flanders_food,2025,117733,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 overgedragen resultaat 117733 JUMP; tick1699
+bud_flanders_food_debt_2025,vzw_flanders_food,2025,22287121,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 schulden 22287121 JUMP; tick1699
+bud_flanders_food_st_debt_2025,vzw_flanders_food,2025,15756110,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 schulden ST 15756110 JUMP; tick1699
+bud_flanders_food_lev_2025,vzw_flanders_food,2025,615388,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 leveranciers ST 615388 DROP; tick1699
+bud_flanders_food_taxsoc_2025,vzw_flanders_food,2025,308025,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 308025 (tax 1233 + soc 306792); tick1699
+bud_flanders_food_other_st_2025,vzw_flanders_food,2025,14832697,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 overige schulden ST 14832697 JUMP (pass-through counterpart); tick1699
+bud_flanders_food_accrued_2025,vzw_flanders_food,2025,6531010,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 6531010 DROP; tick1699
+bud_flanders_food_bruto_2025,vzw_flanders_food,2025,3409599,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 brutomarge 9900 3409599 JUMP ENVELOPE; tick1699
+bud_flanders_food_pers_2025,vzw_flanders_food,2025,3287825,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 bezoldigingen 62 3287825 JUMP / 30.9 VTE; tick1699
+bud_flanders_food_afschr_2025,vzw_flanders_food,2025,41013,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 afschrijvingen 630 41013 JUMP; tick1699
+bud_flanders_food_andere_2025,vzw_flanders_food,2025,58155,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 58155 JUMP; tick1699
+bud_flanders_food_expl_2025,vzw_flanders_food,2025,21013,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 bedrijfswinst 21013 JUMP; tick1699
+bud_flanders_food_fininc_2025,vzw_flanders_food,2025,21,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 financiele opbrengsten 21 DROP; tick1699
+bud_flanders_food_fincost_2025,vzw_flanders_food,2025,7220,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 financiele kosten 7220 DROP; tick1699
+bud_flanders_food_pnl_2025,vzw_flanders_food,2025,13814,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 winst 13814 JUMP; tick1699
+bud_flanders_food_vte_2025,vzw_flanders_food,2025,30.9,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 30.9 JUMP from 30.0; eoy 27.9; tick1699
