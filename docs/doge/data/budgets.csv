@@ -50314,3 +50314,15 @@ bud_hvzzo_kazerneplan_mjp,igs_hvzzo,2026,45000000,,,budget,src_hvzzo_begroting20
 bud_bwol_mu_fed_2025,igs_bwol,2025,3334455.78,,,executed,src_bwol_justel_mu_2025,strong,Justel MU toelage totaal 3334455.78; partial federal ambulance only — NOT full zone spend; tick1754
 bud_bwol_mu_activatie_2025,igs_bwol,2025,653618,,,executed,src_bwol_justel_mu_2025,strong,Justel MU activatie 653618; tick1754
 bud_bwol_mu_permanentie_2025,igs_bwol,2025,2680837.78,,,executed,src_bwol_justel_mu_2025,strong,Justel MU permanentie 2680837.78; tick1754
+bud_bza_B2026_bw1_spend_gewone,brandweerzone_antwerpen,2026,109171089.48,,,budget,src_bza_bw1_2026,strong,BW1-2026 gewone uitgaven eigen dienstjaar 109171089.48; tick1755
+bud_bza_B2026_bw1_pers,brandweerzone_antwerpen,2026,87829104.51,,,budget,src_bza_bw1_2026,strong,BW1-2026 personeel 87829104.51 (~80.5% of gewone); tick1755
+bud_bza_B2026_bw1_werking,brandweerzone_antwerpen,2026,20717197.15,,,budget,src_bza_bw1_2026,strong,BW1-2026 werkingskosten 20717197.15; tick1755
+bud_bza_B2026_bw1_overdrachten,brandweerzone_antwerpen,2026,618787.82,,,budget,src_bza_bw1_2026,strong,BW1-2026 overdrachten gewone 618787.82; tick1755
+bud_bza_B2026_bw1_ontvangsten,brandweerzone_antwerpen,2026,106242561.89,,,budget,src_bza_bw1_2026,strong,BW1-2026 gewone ontvangsten eigen dienstjaar 106242561.89; tick1755
+bud_bza_B2026_bw1_gemdot,brandweerzone_antwerpen,2026,87329033.51,,,budget,src_bza_bw1_2026,strong,BW1-2026 gemeentelijke dotatie gewone 87329033.51 (Antwerpen 86554866.70 + Wijnegem 774166.81); tick1755
+bud_bza_B2026_bw1_gemdot_antwerpen,brandweerzone_antwerpen,2026,86554866.70,,,budget,src_bza_bw1_2026,strong,BW1-2026 Antwerpen gemdot gewone 86554866.70; dual city package class; tick1755
+bud_bza_B2026_bw1_gemdot_wijnegem,brandweerzone_antwerpen,2026,774166.81,,,budget,src_bza_bw1_2026,strong,BW1-2026 Wijnegem gemdot gewone 774166.81; tick1755
+bud_bza_B2026_bw1_fed,brandweerzone_antwerpen,2026,13450919.50,,,budget,src_bza_bw1_2026,strong,BW1-2026 federale dotatie 13450919.50 (basis 2125385.70 + bijkomend 11325533.80); tick1755
+bud_bza_B2026_bw1_invest,brandweerzone_antwerpen,2026,8503056.48,,,budget,src_bza_bw1_2026,strong,BW1-2026 buitengewone investeringen 8503056.48; tick1755
+bud_bza_B2026_bw1_buitengewoon_spend,brandweerzone_antwerpen,2026,8733125.48,,,budget,src_bza_bw1_2026,strong,BW1-2026 buitengewone uitgaven 8733125.48; tick1755
+bud_bza_jr2025_batig_carry,brandweerzone_antwerpen,2025,53327890.23,,,carry_forward,src_bza_bw1_2026,strong,BW1 table: batig resultaat gewone begroting vorig jaar (JR2025) 53327890.23 — implies JR executed; full rekening PDF FOI; tick1755
