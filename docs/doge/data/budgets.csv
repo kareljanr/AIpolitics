@@ -48310,3 +48310,30 @@ bud_avansa_lim_fininc_2025,vzw_avansa_limburg,2025,6612,,,executed,src_avansa_li
 bud_avansa_lim_fincost_2025,vzw_avansa_limburg,2025,1112,,,executed,src_avansa_lim_jr2025_nbb,strong,YE2025 financiele kosten 1112 DROP; tick1658
 bud_avansa_lim_pnl_2025,vzw_avansa_limburg,2025,3934,,,executed,src_avansa_lim_jr2025_nbb,strong,YE2025 winst 3934 DROP from 27373; tick1658
 bud_avansa_lim_hypotheek_2025,vzw_avansa_limburg,2025,825000,,,executed,src_avansa_lim_jr2025_nbb,strong,YE2025 hypotheek inschrijving 825000; tick1658
+bud_avansa_kem_assets_2025,vzw_avansa_kempen,2025,819025,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 balanstotaal 819025 DROP from 836119; tick1659
+bud_avansa_kem_va_2025,vzw_avansa_kempen,2025,6445,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 vaste activa 6445 JUMP; tick1659
+bud_avansa_kem_mva_2025,vzw_avansa_kempen,2025,5235,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 materiele VA 5235 JUMP; tick1659
+bud_avansa_kem_fva_2025,vzw_avansa_kempen,2025,1210,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 financiele VA 1210 flat; tick1659
+bud_avansa_kem_vlottend_2025,vzw_avansa_kempen,2025,812580,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 vlottende activa 812580 DROP; tick1659
+bud_avansa_kem_handelsrecv_2025,vzw_avansa_kempen,2025,3617,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 handelsvorderingen ST 3617 JUMP; tick1659
+bud_avansa_kem_other_recv_2025,vzw_avansa_kempen,2025,92839,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 overige vorderingen ST 92839 JUMP; tick1659
+bud_avansa_kem_cash_2025,vzw_avansa_kempen,2025,708382,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 liquide middelen 708382 DROP; tick1659
+bud_avansa_kem_prepaid_2025,vzw_avansa_kempen,2025,7742,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 7742 JUMP; tick1659
+bud_avansa_kem_equity_2025,vzw_avansa_kempen,2025,729673,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 eigen vermogen 729673 JUMP; tick1659
+bud_avansa_kem_destin_2025,vzw_avansa_kempen,2025,83200,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 bestemde fondsen 83200 NEW; tick1659
+bud_avansa_kem_overgedragen_2025,vzw_avansa_kempen,2025,646473,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 overgedragen winst 646473 DROP; tick1659
+bud_avansa_kem_debt_2025,vzw_avansa_kempen,2025,89352,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 schulden 89352 DROP; tick1659
+bud_avansa_kem_st_debt_2025,vzw_avansa_kempen,2025,82029,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 schulden ST 82029 JUMP; tick1659
+bud_avansa_kem_lev_2025,vzw_avansa_kempen,2025,577,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 leveranciers ST 577 DROP; tick1659
+bud_avansa_kem_taxsoc_2025,vzw_avansa_kempen,2025,81451,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 bezoldigingen/sociale lasten ST 81451 JUMP (tax empty); tick1659
+bud_avansa_kem_accrued_2025,vzw_avansa_kempen,2025,7324,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 7324 DROP from 81005; tick1659
+bud_avansa_kem_bruto_2025,vzw_avansa_kempen,2025,837768,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 brutomarge 9900 837768 JUMP ENVELOPE; tick1659
+bud_avansa_kem_nr_opbr_2025,vzw_avansa_kempen,2025,684,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfsopbrengsten 76A 684; tick1659
+bud_avansa_kem_pers_2025,vzw_avansa_kempen,2025,784526,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 bezoldigingen 62 784526 JUMP / 9.6 VTE (DROP from 10); tick1659
+bud_avansa_kem_afschr_2025,vzw_avansa_kempen,2025,4773,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 afschrijvingen 630 4773 DROP; tick1659
+bud_avansa_kem_andere_2025,vzw_avansa_kempen,2025,38,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 38 flat; tick1659
+bud_avansa_kem_expl_2025,vzw_avansa_kempen,2025,48286,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 bedrijfswinst 48286 JUMP; tick1659
+bud_avansa_kem_fininc_2025,vzw_avansa_kempen,2025,3320,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 financiele opbrengsten 3320 JUMP; tick1659
+bud_avansa_kem_fincost_2025,vzw_avansa_kempen,2025,189,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 financiele kosten 189 JUMP; tick1659
+bud_avansa_kem_tax_2025,vzw_avansa_kempen,2025,1016,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 belastingen 1016 DROP; tick1659
+bud_avansa_kem_pnl_2025,vzw_avansa_kempen,2025,50400,,,executed,src_avansa_kem_jr2025_nbb,strong,YE2025 winst 50400 JUMP; tick1659
