@@ -49304,3 +49304,27 @@ bud_oranje_pnl_2025,vzw_oranje,2025,718169,,,executed,src_oranje_jr2025_nbb,stro
 bud_oranje_vte_2025,vzw_oranje,2025,206.6,,,executed,src_oranje_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 206.6 JUMP from 177.6; eoy headcount 274; tick1691
 bud_oranje_commissaris_fee_2025,vzw_oranje,2025,7840,,,executed,src_oranje_jr2025_nbb,strong,YE2025 commissaris bezoldiging 9505 7840 + andere 365; Callens-Vandelanotte; tick1691
 bud_oranje_hypotheek_boek_2025,vzw_oranje,2025,3285087,,,executed,src_oranje_jr2025_nbb,strong,YE2025 hypotheek bezwaarde activa boekwaarde 3285087; tick1691
+bud_oxfam_be_assets_2025,vzw_oxfam_be,2025,379683,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 balanstotaal 379683 JUMP from 238417; tick1692
+bud_oxfam_be_va_2025,vzw_oxfam_be,2025,50,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 vaste activa 50 (=FVA only); tick1692
+bud_oxfam_be_fva_2025,vzw_oxfam_be,2025,50,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 financiele VA 50 flat; tick1692
+bud_oxfam_be_vlottend_2025,vzw_oxfam_be,2025,379633,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 vlottende activa 379633 JUMP; tick1692
+bud_oxfam_be_other_recv_2025,vzw_oxfam_be,2025,261425,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 overige vorderingen ST 261425 JUMP; tick1692
+bud_oxfam_be_cash_2025,vzw_oxfam_be,2025,118208,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 liquide middelen 118208 JUMP; tick1692
+bud_oxfam_be_equity_2025,vzw_oxfam_be,2025,0,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 eigen vermogen 0 EMPTY (zero-equity shell); tick1692
+bud_oxfam_be_debt_2025,vzw_oxfam_be,2025,379683,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 schulden 379683 JUMP (=total assets); tick1692
+bud_oxfam_be_st_debt_2025,vzw_oxfam_be,2025,151336,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 schulden ST 151336 DROP; tick1692
+bud_oxfam_be_lev_2025,vzw_oxfam_be,2025,25096,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 leveranciers ST 25096 JUMP; tick1692
+bud_oxfam_be_taxsoc_2025,vzw_oxfam_be,2025,126240,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 126240 (tax 32050 + soc 94190); tick1692
+bud_oxfam_be_other_st_2025,vzw_oxfam_be,2025,21263,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 overige schulden ST 21263 NEW; tick1692
+bud_oxfam_be_accrued_2025,vzw_oxfam_be,2025,228347,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 228347 JUMP; tick1692
+bud_oxfam_be_bruto_2025,vzw_oxfam_be,2025,895196,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 brutomarge 9900 895196 DROP ENVELOPE; tick1692
+bud_oxfam_be_code73_2025,vzw_oxfam_be,2025,967171,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 lidgeld/schenkingen/legaten/subsidies 73 967171 DROP; tick1692
+bud_oxfam_be_diensten_2025,vzw_oxfam_be,2025,71975,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 handelsgoederen/diensten 60/61 71975 JUMP; tick1692
+bud_oxfam_be_pers_2025,vzw_oxfam_be,2025,894931,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 bezoldigingen 62 894931 DROP / 8.2 VTE; tick1692
+bud_oxfam_be_andere_2025,vzw_oxfam_be,2025,50,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 50 DROP; tick1692
+bud_oxfam_be_expl_2025,vzw_oxfam_be,2025,215,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 bedrijfswinst 215 JUMP; tick1692
+bud_oxfam_be_fincost_2025,vzw_oxfam_be,2025,215,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 financiele kosten 215 JUMP; tick1692
+bud_oxfam_be_pnl_2025,vzw_oxfam_be,2025,0,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 winst/verlies 0 flat (break-even shell); tick1692
+bud_oxfam_be_vte_2025,vzw_oxfam_be,2025,8.2,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 8.2 DROP from 8.8; eoy 8.8; tick1692
+bud_oxfam_be_commissaris_fee_2025,vzw_oxfam_be,2025,10114,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 commissaris bezoldiging notes 10114; EY; tick1692
+bud_oxfam_be_contrib_notes_2025,vzw_oxfam_be,2025,1141985,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 notes annual contrib Solidariteit+Wereldwinkel+Fairtrade 1141985 (vs code73 967171); tick1692
