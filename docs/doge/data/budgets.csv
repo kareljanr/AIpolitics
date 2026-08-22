@@ -47780,3 +47780,43 @@ bud_neos_fininc_2025,vzw_neos,2025,1557,,,executed,src_neos_jr2025_nbb,strong,YE
 bud_neos_fincost_2025,vzw_neos,2025,13173,,,executed,src_neos_jr2025_nbb,strong,YE2025 financiele kosten 13173 DROP; tick1642
 bud_neos_tax_2025,vzw_neos,2025,8771,,,executed,src_neos_jr2025_nbb,strong,YE2025 belastingen 8771 JUMP; tick1642
 bud_neos_pnl_2025,vzw_neos,2025,-29067,,,executed,src_neos_jr2025_nbb,strong,YE2025 verlies -29067 LOSS FLIP; tick1642
+bud_ferm_assets_2025,vzw_ferm,2025,14894770,,,executed,src_ferm_jr2025_nbb,strong,YE2025 balanstotaal 14894770 DROP from 15627106; tick1643
+bud_ferm_va_2025,vzw_ferm,2025,3404617,,,executed,src_ferm_jr2025_nbb,strong,YE2025 vaste activa 3404617 DROP; tick1643
+bud_ferm_iva_2025,vzw_ferm,2025,3121914,,,executed,src_ferm_jr2025_nbb,strong,YE2025 immateriele VA 3121914 DROP; tick1643
+bud_ferm_mva_2025,vzw_ferm,2025,27978,,,executed,src_ferm_jr2025_nbb,strong,YE2025 materiele VA 27978 DROP; tick1643
+bud_ferm_fva_2025,vzw_ferm,2025,254725,,,executed,src_ferm_jr2025_nbb,strong,YE2025 financiele VA 254725 DROP; tick1643
+bud_ferm_vlottend_2025,vzw_ferm,2025,11490153,,,executed,src_ferm_jr2025_nbb,strong,YE2025 vlottende activa 11490153 DROP; tick1643
+bud_ferm_lt_other_recv_2025,vzw_ferm,2025,1097731,,,executed,src_ferm_jr2025_nbb,strong,YE2025 overige vorderingen LT 1097731 flat; tick1643
+bud_ferm_voorraden_2025,vzw_ferm,2025,148648,,,executed,src_ferm_jr2025_nbb,strong,YE2025 voorraden 148648 DROP; tick1643
+bud_ferm_handelsrecv_2025,vzw_ferm,2025,1652712,,,executed,src_ferm_jr2025_nbb,strong,YE2025 handelsvorderingen ST 1652712 DROP; tick1643
+bud_ferm_other_recv_2025,vzw_ferm,2025,854470,,,executed,src_ferm_jr2025_nbb,strong,YE2025 overige vorderingen ST 854470 DROP; tick1643
+bud_ferm_beleg_2025,vzw_ferm,2025,7629554,,,executed,src_ferm_jr2025_nbb,strong,YE2025 geldbeleggingen 7629554 JUMP; tick1643
+bud_ferm_cash_2025,vzw_ferm,2025,97859,,,executed,src_ferm_jr2025_nbb,strong,YE2025 liquide middelen 97859 JUMP; tick1643
+bud_ferm_prepaid_2025,vzw_ferm,2025,9179,,,executed,src_ferm_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 9179 DROP; tick1643
+bud_ferm_equity_2025,vzw_ferm,2025,6535638,,,executed,src_ferm_jr2025_nbb,strong,YE2025 eigen vermogen 6535638 DROP; tick1643
+bud_ferm_fondsen_2025,vzw_ferm,2025,59424,,,executed,src_ferm_jr2025_nbb,strong,YE2025 fondsen 59424 flat; tick1643
+bud_ferm_destin_2025,vzw_ferm,2025,1248072,,,executed,src_ferm_jr2025_nbb,strong,YE2025 bestemde fondsen 1248072 flat; tick1643
+bud_ferm_overgedragen_2025,vzw_ferm,2025,5228142,,,executed,src_ferm_jr2025_nbb,strong,YE2025 overgedragen winst 5228142 DROP; tick1643
+bud_ferm_debt_2025,vzw_ferm,2025,8359132,,,executed,src_ferm_jr2025_nbb,strong,YE2025 schulden 8359132 DROP; tick1643
+bud_ferm_lt_fin_2025,vzw_ferm,2025,759514,,,executed,src_ferm_jr2025_nbb,strong,YE2025 LT financiele schulden 759514 DROP (kredietinstellingen); tick1643
+bud_ferm_st_debt_2025,vzw_ferm,2025,5784413,,,executed,src_ferm_jr2025_nbb,strong,YE2025 schulden ST 5784413 DROP (incl LT within year 395381); tick1643
+bud_ferm_st_fin_2025,vzw_ferm,2025,2494084,,,executed,src_ferm_jr2025_nbb,strong,YE2025 ST financiele schulden 2494084 JUMP; tick1643
+bud_ferm_lev_2025,vzw_ferm,2025,1526998,,,executed,src_ferm_jr2025_nbb,strong,YE2025 leveranciers ST 1526998 DROP; tick1643
+bud_ferm_taxsoc_2025,vzw_ferm,2025,1288922,,,executed,src_ferm_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 1288922 DROP (tax 221976 + soc 1066946); tick1643
+bud_ferm_othdebt_2025,vzw_ferm,2025,79028,,,executed,src_ferm_jr2025_nbb,strong,YE2025 overige schulden ST 79028 JUMP; tick1643
+bud_ferm_accrued_2025,vzw_ferm,2025,1815205,,,executed,src_ferm_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 1815205 JUMP; tick1643
+bud_ferm_opbr_2025,vzw_ferm,2025,10793450,,,executed,src_ferm_jr2025_nbb,strong,YE2025 bedrijfsopbrengsten 70/76A 10793450 JUMP ENVELOPE; tick1643
+bud_ferm_omzet_2025,vzw_ferm,2025,549276,,,executed,src_ferm_jr2025_nbb,strong,YE2025 omzet 70 549276 DROP; tick1643
+bud_ferm_code73_2025,vzw_ferm,2025,10076782,,,executed,src_ferm_jr2025_nbb,strong,YE2025 lidgeld/schenk/legaten/subsidies 73 10076782 JUMP; tick1643
+bud_ferm_lid_2025,vzw_ferm,2025,2081414,,,executed,src_ferm_jr2025_nbb,strong,YE2025 lidgelden 730 2081414 DROP; tick1643
+bud_ferm_subs_2025,vzw_ferm,2025,4140834,,,executed,src_ferm_jr2025_nbb,strong,YE2025 subsidies 733 4140834 DROP; tick1643
+bud_ferm_andere_opbr_2025,vzw_ferm,2025,167392,,,executed,src_ferm_jr2025_nbb,strong,YE2025 andere bedrijfsopbrengsten 74 167392 JUMP; tick1643
+bud_ferm_diensten_2025,vzw_ferm,2025,3203955,,,executed,src_ferm_jr2025_nbb,strong,YE2025 diensten 61 3203955 DROP; tick1643
+bud_ferm_pers_2025,vzw_ferm,2025,6758768,,,executed,src_ferm_jr2025_nbb,strong,YE2025 bezoldigingen 62 6758768 JUMP / 68 VTE (DROP from 72); tick1643
+bud_ferm_afschr_2025,vzw_ferm,2025,1056719,,,executed,src_ferm_jr2025_nbb,strong,YE2025 afschrijvingen 630 1056719 JUMP; tick1643
+bud_ferm_andere_2025,vzw_ferm,2025,26719,,,executed,src_ferm_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 26719 DROP; tick1643
+bud_ferm_expl_2025,vzw_ferm,2025,-322122,,,executed,src_ferm_jr2025_nbb,strong,YE2025 bedrijfsverlies -322122 LOSS IMPROVED from -550016; tick1643
+bud_ferm_fininc_2025,vzw_ferm,2025,109370,,,executed,src_ferm_jr2025_nbb,strong,YE2025 financiele opbrengsten 109370 DROP from 499666; tick1643
+bud_ferm_fincost_2025,vzw_ferm,2025,135765,,,executed,src_ferm_jr2025_nbb,strong,YE2025 financiele kosten 135765 JUMP; tick1643
+bud_ferm_pnl_2025,vzw_ferm,2025,-348517,,,executed,src_ferm_jr2025_nbb,strong,YE2025 verlies -348517 LOSS DEEPER from -184774; tick1643
+bud_ferm_commissaris_2025,vzw_ferm,2025,14599,,,executed,src_ferm_jr2025_nbb,strong,YE2025 commissaris fee 9505 14599; tick1643
