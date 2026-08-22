@@ -50629,3 +50629,17 @@ bud_charlemagne_staff_2025,nv_charlemagne,2025,2170037,,,realized,src_charlemagn
 bud_charlemagne_expl_2025,nv_charlemagne,2025,416797,,,realized,src_charlemagne_jr2025_nbb,strong,Benefice exploitation 416797; tick1783
 bud_charlemagne_nrec_fin_2025,nv_charlemagne,2025,2965277,,,realized,src_charlemagne_jr2025_nbb,strong,Produits financiers non recurrents 2965277 drives PnL; tick1783
 bud_charlemagne_pnl_2025,nv_charlemagne,2025,3106808,,,realized,src_charlemagne_jr2025_nbb,strong,PnL 3106808; dividend apport 2950000 + admin 112106; tick1783
+bud_lilas_assets_2025,nv_lilas,2025,11306623,,,stock,src_lilas_jr2025_nbb,strong,Assets YE2025 11306623; tick1784
+bud_lilas_equity_2025,nv_lilas,2025,2413697,,,stock,src_lilas_jr2025_nbb,strong,Equity 2413697; tick1784
+bud_lilas_debt_2025,nv_lilas,2025,8668535,,,stock,src_lilas_jr2025_nbb,strong,Debt 8668535; tick1784
+bud_lilas_leasing_lt_2025,nv_lilas,2025,3625551,,,stock,src_lilas_jr2025_nbb,strong,LT credit/leasing 172/3=3625551; option 479100; tick1784
+bud_lilas_autres_emprunts_lt_2025,nv_lilas,2025,3553695,,,stock,src_lilas_jr2025_nbb,strong,Autres emprunts LT 174=3553695; tick1784
+bud_lilas_fva_2025,nv_lilas,2025,5098317,,,stock,src_lilas_jr2025_nbb,strong,Immobilisations financieres 5098317; tick1784
+bud_lilas_controllers_recv_2025,nv_lilas,2025,4110235,,,stock,src_lilas_jr2025_nbb,strong,Creances sur administrateurs/controleurs 9500=4110235; tick1784
+bud_lilas_autres_creances_2025,nv_lilas,2025,792693,,,stock,src_lilas_jr2025_nbb,strong,Autres creances ST 792693; tick1784
+bud_lilas_cash_2025,nv_lilas,2025,244941,,,stock,src_lilas_jr2025_nbb,strong,Cash 244941 JUMP vs 62253; tick1784
+bud_lilas_marge_2025,nv_lilas,2025,3266353,,,realized,src_lilas_jr2025_nbb,strong,Marge bruto 3266353 (A-cap; CA undisclosed); tick1784
+bud_lilas_staff_2025,nv_lilas,2025,2456066,,,realized,src_lilas_jr2025_nbb,strong,Staff 2456066 / VTE 37.9; tick1784
+bud_lilas_expl_2025,nv_lilas,2025,428357,,,realized,src_lilas_jr2025_nbb,strong,Benefice exploitation 428357; tick1784
+bud_lilas_pnl_2025,nv_lilas,2025,254282,,,realized,src_lilas_jr2025_nbb,strong,PnL 254282 flip from prior loss; admin 110978 no dividend apport; tick1784
+bud_lilas_rivage_gage_2025,nv_lilas,2025,135600000,,,stock,src_lilas_jr2025_nbb,strong,VIVALTO LEASE/RIVAGE gage 135600000 group undivided; assets grevés 6486834; tick1784
