@@ -47337,3 +47337,34 @@ bud_gezondleven_fininc_2025,vzw_gezondleven,2025,15945,,,executed,src_gezondleve
 bud_gezondleven_fincost_2025,vzw_gezondleven,2025,2281,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 financiele kosten 2281; tick1627
 bud_gezondleven_tax_2025,vzw_gezondleven,2025,3231,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 belastingen op resultaat 3231; tick1627
 bud_gezondleven_pnl_2025,vzw_gezondleven,2025,10483,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 winst 10483 PROFIT FLIP from -699063; tick1627
+bud_zorgneticuro_assets_2025,vzw_zorgneticuro,2025,10917543,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 balanstotaal 10917543 JUMP from 10793710; tick1628
+bud_zorgneticuro_va_2025,vzw_zorgneticuro,2025,513945,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 vaste activa 513945 DROP; tick1628
+bud_zorgneticuro_mva_2025,vzw_zorgneticuro,2025,512605,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 materiele VA 512605 DROP (terreinen 457305); tick1628
+bud_zorgneticuro_fva_2025,vzw_zorgneticuro,2025,1340,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 financiele VA 1340 flat; tick1628
+bud_zorgneticuro_vlottend_2025,vzw_zorgneticuro,2025,10403598,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 vlottende activa 10403598 JUMP; tick1628
+bud_zorgneticuro_lt_other_recv_2025,vzw_zorgneticuro,2025,148736,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 overige vorderingen LT 148736 NEW (= niet-rec cost); tick1628
+bud_zorgneticuro_handelsrecv_2025,vzw_zorgneticuro,2025,117277,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 handelsvorderingen ST 117277 JUMP; tick1628
+bud_zorgneticuro_other_recv_2025,vzw_zorgneticuro,2025,99396,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 overige vorderingen ST 99396 JUMP; tick1628
+bud_zorgneticuro_beleg_2025,vzw_zorgneticuro,2025,6441824,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 geldbeleggingen 6441824 DROP from 7683470; tick1628
+bud_zorgneticuro_cash_2025,vzw_zorgneticuro,2025,3630061,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 liquide middelen 3630061 JUMP from 2211659; tick1628
+bud_zorgneticuro_prepaid_2025,vzw_zorgneticuro,2025,115039,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 115039 DROP; tick1628
+bud_zorgneticuro_equity_2025,vzw_zorgneticuro,2025,8984004,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 eigen vermogen 8984004 JUMP; tick1628
+bud_zorgneticuro_fondsen_2025,vzw_zorgneticuro,2025,225093,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 fondsen 225093 flat; tick1628
+bud_zorgneticuro_destin_2025,vzw_zorgneticuro,2025,8758911,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 bestemde fondsen 8758911 JUMP; tick1628
+bud_zorgneticuro_overgedragen_2025,vzw_zorgneticuro,2025,-28016,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 overgedragen verlies -28016 (unchanged carry); tick1628
+bud_zorgneticuro_voorzieningen_2025,vzw_zorgneticuro,2025,626515,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 voorzieningen overige risico's 626515 DROP; tick1628
+bud_zorgneticuro_debt_2025,vzw_zorgneticuro,2025,1307024,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 schulden 1307024 JUMP; tick1628
+bud_zorgneticuro_st_debt_2025,vzw_zorgneticuro,2025,1092843,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 schulden ST 1092843 JUMP; tick1628
+bud_zorgneticuro_lev_2025,vzw_zorgneticuro,2025,369056,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 leveranciers ST 369056 JUMP; tick1628
+bud_zorgneticuro_taxsoc_2025,vzw_zorgneticuro,2025,723787,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 bezoldigingen/sociale lasten ST 723787 JUMP; tick1628
+bud_zorgneticuro_accrued_2025,vzw_zorgneticuro,2025,214181,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 214181 DROP; tick1628
+bud_zorgneticuro_bruto_2025,vzw_zorgneticuro,2025,8628645,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 brutomarge 9900 8628645 JUMP ENVELOPE (70/73/60-61 empty); tick1628
+bud_zorgneticuro_pers_2025,vzw_zorgneticuro,2025,6946018,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 bezoldigingen 62 6946018 / 42.4 VTE; tick1628
+bud_zorgneticuro_afschr_2025,vzw_zorgneticuro,2025,58197,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 afschrijvingen 630 58197 DROP; tick1628
+bud_zorgneticuro_voorz_reprise_2025,vzw_zorgneticuro,2025,-287987,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 voorzieningen reprise 635/9 -287987; tick1628
+bud_zorgneticuro_andere_2025,vzw_zorgneticuro,2025,1412521,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 1412521 JUMP; tick1628
+bud_zorgneticuro_nietrec_cost_2025,vzw_zorgneticuro,2025,148736,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfskosten 66A 148736 JUMP; tick1628
+bud_zorgneticuro_expl_2025,vzw_zorgneticuro,2025,351161,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 bedrijfswinst 351161 JUMP; tick1628
+bud_zorgneticuro_fininc_2025,vzw_zorgneticuro,2025,58128,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 financiele opbrengsten 58128 JUMP; tick1628
+bud_zorgneticuro_fincost_2025,vzw_zorgneticuro,2025,13827,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 financiele kosten 13827; tick1628
+bud_zorgneticuro_pnl_2025,vzw_zorgneticuro,2025,395463,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 winst 395463 JUMP; tick1628
