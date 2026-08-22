@@ -20948,3 +20948,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +5; entities +1 igs_hvzr; budgets +12; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1752=done + rq_1753 spawn; ticks_completed=1752. Raw docs/doge/raw/tick1752/.
 - FOI opened: gap_hvzr_jr2025_rekening_unpublished_l5 ready (full JR/VTE/gemdot). Do not send.
 - Next: rq_1753 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 / APEFE / ABS/POV/BVAS / IOED/HVZ-VBWest-ZuidOost-BZA. Do NOT redo HVZRand/HVZWaasland/HVZCentrum/HVZRivierenland/Zusterhof continuum. NOT every-10 (next **1760**).
+
+### 2026-08-24T10:15:00Z - tick 1753
+- Unit: rq_1753 Hulpverleningszone Zuid-Oost / HVZ Zuid-Oost (leftover IGS of mined Aalst+Ninove+Geraardsbergen) (KBO **0500.928.586**; Keizersplein 44 9300 Aalst; zonezuidoost.be; info@zonezuidoost.be; official **Begroting 2026** zoneraad **24.10.2025** 2025_ZR_00106; Justel MU matches DGH **3340629.46**). Honest leftover AGB Bornem still JR2024-only. NSZ/Dijk92/APEFE CDN **403**. VBWest JR2025 **verdaged**. Preferred AGB/NSZ blocked — leftover HVZ Zuid-Oost official B2026 euros **live** taken. New entity igs_hvzzo. Envelope = gewone uitgaven **26373693.59**. NOT every-10 (next 1760).
+- Found (official Begroting strong): uitgaven **26373693.59** (pers **19718414.80**; werking **6603758.13**; overdrachten **40892.65**; schuld **10628**); ontvangsten **25389882.89** (gem **15772106.73** of which Aalst **7892362.21**; DGH/MU **3340629.46**; prestaties **1893573.84**); MJP kazerneplan **45000000** (loan). Full JR2025 rekening unpublished this tick.
+- Wrote: sources +5; entities +1 igs_hvzzo; budgets +12; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1753=done + rq_1754 spawn; ticks_completed=1753. Raw docs/doge/raw/tick1753/.
+- FOI opened: gap_hvzzo_jr2025_rekening_unpublished_l5 ready (full JR/VTE/gemdot). Do not send.
+- Next: rq_1754 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 / APEFE / ABS/POV/BVAS / IOED/HVZ-VBWest-OostLimburg-BZA. Do NOT redo HVZZuidOost/HVZRand/HVZWaasland continuum. NOT every-10 (next **1760**).

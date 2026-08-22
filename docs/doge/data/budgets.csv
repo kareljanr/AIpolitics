@@ -50299,3 +50299,15 @@ bud_hvzr_inkomsten_B2026,igs_hvzr,2026,30280052,,,budget,src_hvzr_motivatienota_
 bud_hvzr_mu_fed_2025,igs_hvzr,2025,568670.97,,,executed,src_hvzr_justel_mu_2025,strong,Justel MU toelage totaal 568670.97 (activatie 136816 + permanentie 431854.97); partial federal ambulance; tick1752
 bud_hvzr_mu_activatie_2025,igs_hvzr,2025,136816,,,executed,src_hvzr_justel_mu_2025,strong,Justel MU activatie 136816; tick1752
 bud_hvzr_mu_permanentie_2025,igs_hvzr,2025,431854.97,,,executed,src_hvzr_justel_mu_2025,strong,Justel MU permanentie 431854.97; tick1752
+bud_hvzzo_uitgaven_gewone_B2026,igs_hvzzo,2026,26373693.59,,,budget,src_hvzzo_begroting2026,strong,B2026 gewone uitgaven 26373693.59 envelope; tick1753; primary official Begroting 2026
+bud_hvzzo_pers_B2026,igs_hvzzo,2026,19718414.80,,,budget,src_hvzzo_begroting2026,strong,B2026 personeelsuitgaven 19718414.80; tick1753
+bud_hvzzo_werking_B2026,igs_hvzzo,2026,6603758.13,,,budget,src_hvzzo_begroting2026,strong,B2026 werkingskosten 6603758.13 (incl erfpacht Aalst+Ninove 983810.7 via reserves); tick1753
+bud_hvzzo_overdrachten_B2026,igs_hvzzo,2026,40892.65,,,budget,src_hvzzo_begroting2026,strong,B2026 overdrachten 40892.65; tick1753
+bud_hvzzo_schuld_B2026,igs_hvzzo,2026,10628,,,budget,src_hvzzo_begroting2026,strong,B2026 schulduitgaven 10628; tick1753
+bud_hvzzo_ontvangsten_B2026,igs_hvzzo,2026,25389882.89,,,budget,src_hvzzo_begroting2026,strong,B2026 ontvangsten gewone 25389882.89; tick1753
+bud_hvzzo_gem_toelage_B2026,igs_hvzzo,2026,15772106.73,,,budget,src_hvzzo_begroting2026,strong,B2026 gemeentelijke toelage 15772106.73 (new verdeelsleutel 7 gemeenten); tick1753
+bud_hvzzo_aalst_dot_B2026,igs_hvzzo,2026,7892362.21,,,budget,src_hvzzo_begroting2026,strong,B2026 Stad Aalst 50.05pct = 7892362.21; tick1753
+bud_hvzzo_dgh_B2025,igs_hvzzo,2025,3340629.46,,,budget,src_hvzzo_begroting2026,strong,DGH toelage 2025 3340629.46 carried into B2026 text; matches Justel MU; tick1753
+bud_hvzzo_mu_fed_2025,igs_hvzzo,2025,3340629.46,,,executed,src_hvzzo_justel_mu_2025,strong,Justel MU toelage totaal 3340629.46; tick1753
+bud_hvzzo_prestaties_B2026,igs_hvzzo,2026,1893573.84,,,budget,src_hvzzo_begroting2026,strong,B2026 prestaties 1893573.84; tick1753
+bud_hvzzo_kazerneplan_mjp,igs_hvzzo,2026,45000000,,,budget,src_hvzzo_begroting2026,strong,MJP kazerneplan 45000000 multi-year (not annual ordinary spend); tick1753; loan-financed
