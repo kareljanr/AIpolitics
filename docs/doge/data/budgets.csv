@@ -49883,3 +49883,15 @@ bud_lgilden_staff_2025,vzw_landelijke_gilden,2025,3641141,,,executed,src_lgilden
 bud_lgilden_afschr_2025,vzw_landelijke_gilden,2025,185938,,,executed,src_lgilden_nbb_ye2025,strong,NBB 630 afschrijvingen 185938; tick1719
 bud_lgilden_expl_2025,vzw_landelijke_gilden,2025,-1185,,,executed,src_lgilden_nbb_ye2025,strong,NBB bedrijfswinst 9901 -1185; tick1719
 bud_lgilden_pnl_before_tax_2025,vzw_landelijke_gilden,2025,9,,,executed,src_lgilden_nbb_ye2025,strong,NBB 9903 9; tax 9; 9904 empty ~0; tick1719
+bud_boek_assets_2025,vzw_boek,2025,1589020,,,executed,src_boek_nbb_ye2025,strong,NBB 20/58 assets 1589020 JUMP vs 1106694; tick1721
+bud_boek_va_2025,vzw_boek,2025,585116,,,executed,src_boek_nbb_ye2025,strong,NBB VA 21/28 585116 JUMP (CIP/aanbouw 296377); tick1721
+bud_boek_vlottend_2025,vzw_boek,2025,1003904,,,executed,src_boek_nbb_ye2025,strong,NBB vlottend 29/58 1003904; tick1721
+bud_boek_cash_2025,vzw_boek,2025,791318,,,executed,src_boek_nbb_ye2025,strong,NBB liquide 54/58 791318 JUMP vs 386262; tick1721
+bud_boek_equity_2025,vzw_boek,2025,675180,,,executed,src_boek_nbb_ye2025,strong,NBB EV 10/15 675180 (bestemde 423556 + overgedragen 251625); tick1721
+bud_boek_debt_2025,vzw_boek,2025,913840,,,executed,src_boek_nbb_ye2025,strong,NBB schulden 17/49 913840 JUMP (LT fin 223407 + ST 165433 + overlopend 525000); tick1721
+bud_boek_bruto_2025,vzw_boek,2025,1028070,,,executed,src_boek_nbb_ye2025,strong,NBB brutomarge 9900 1028070; 70/73 empty VKT; tick1721
+bud_boek_staff_2025,vzw_boek,2025,1039419,,,executed,src_boek_nbb_ye2025,strong,NBB 62 1039419 / VTE 11.3; exceeds bruto; tick1721
+bud_boek_expl_2025,vzw_boek,2025,-32628,,,executed,src_boek_nbb_ye2025,strong,NBB bedrijfswinst 9901 -32628; tick1721
+bud_boek_pnl_2025,vzw_boek,2025,-39913,,,executed,src_boek_nbb_ye2025,strong,NBB PnL 9904 -39913; AV 27.03.2026; tick1721
+bud_boek_lt_fin_debt_2025,vzw_boek,2025,223407,,,executed,src_boek_nbb_ye2025,strong,NBB LT financiele schulden 223407; tick1721
+bud_boek_accrued_debt_2025,vzw_boek,2025,525000,,,executed,src_boek_nbb_ye2025,strong,NBB overlopende rekeningen passief 525000 JUMP from 0; tick1721
