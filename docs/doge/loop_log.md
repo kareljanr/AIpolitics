@@ -20912,3 +20912,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; entities +1 vzw_zusterhof; budgets +14; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1747=done + rq_1748 spawn; ticks_completed=1747. Raw docs/doge/raw/tick1747/.
 - FOI opened: gap_zusterhof_omzet_12_67m_staff_9_76m_subs_2_58m_l5 ready (subsidy split / LT recv / auditor text / AV). Do not send.
 - Next: rq_1748 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 / APEFE / ABS/POV/BVAS / IOED/HVZ/IGS/WZC. Vivalto CDN trio done. NOT every-10 (next **1750**).
+
+### 2026-08-24T08:10:00Z - tick 1748
+- Unit: rq_1748 Brandweerzone Rivierenland / HVZ Rivierenland (leftover IGS hulpverleningszone of mined Mechelen+Willebroek+Bornem) (KBO/BTW **0500.913.839**; Plattebeekstraat 11 2800 Mechelen; rivierenland.hulpverleningszone.be; info@bwzr.be; official **vereenvoudigde voorstelling rekening 2025** on willebroek.be; zoneraad **03.04.2026**; voorzitter Bart Somers / zonesecretaris Maaike Bryssinck; full JR 47p image-only). Honest leftover AGB Bornem still JR2024-only (Bornem is in this zone). NSZ/Dijk92/APEFE CDN **403**. Preferred AGB blocked — leftover HVZ Rivierenland official JR2025 euros **live** taken. New entity igs_hvriv. Envelope = gewone uitgaven **36626383**. NOT every-10 (next 1750 MUST).
+- Found (official vereenvoudigde strong): gewone uitgaven **36626383** (pers brandweer **26595196** ~73%; werking brand **6739159**; DGH werking **261758**; schuld aflossing **2012781**; intrest **774295**); ontvangsten **33781156** (gemdot **20853368**; fed brand **6616305**; fed DGH **3319025** JUMP; prestaties **2600351**); invest **3707455**; saldo **3414106**.
+- Wrote: sources +5; entities +1 igs_hvriv; budgets +14; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1748=done + rq_1749 spawn; ticks_completed=1748. Raw docs/doge/raw/tick1748/.
+- FOI opened: gap_hvriv_spend_36_63m_pers_26_60m_rekening_l5 ready (full balans/VTE/per-gemeente gemdot / fed DGH JUMP / text JR). Do not send.
+- Next: rq_1749 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 / APEFE / ABS/POV/BVAS / IOED/HVZ-Waasland-Rand-Centrum. **Tick 1750 MUST every-10 progress refresh.**

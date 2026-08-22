@@ -50267,3 +50267,17 @@ bud_zusterhof_staff_2025,vzw_zusterhof,2025,9758965,,,executed,src_zusterhof_nbb
 bud_zusterhof_diensten_2025,vzw_zusterhof,2025,3094996,,,executed,src_zusterhof_nbb_ye2025,strong,NBB 61 diensten 3094996 DROP vs 3698737; tick1747
 bud_zusterhof_expl_2025,vzw_zusterhof,2025,871860,,,executed,src_zusterhof_nbb_ye2025,strong,NBB bedrijfswinst 9901 871860 JUMP vs 45680; tick1747
 bud_zusterhof_pnl_2025,vzw_zusterhof,2025,377671,,,executed,src_zusterhof_nbb_ye2025,strong,NBB PnL 9904 377671 (vs -340335); AV 05.06.2026; tick1747
+bud_hvriv_uitgaven_gewone_2025,igs_hvriv,2025,36626383,,,executed,src_hvriv_jr2025_vereenvoudigd,strong,Gewone uitgaven rekening 2025 36626383; tick1748
+bud_hvriv_pers_brandweer_2025,igs_hvriv,2025,26595196,,,executed,src_hvriv_jr2025_vereenvoudigd,strong,Personeel brandweer 26595196; VTE unpublished; tick1748
+bud_hvriv_werking_brandweer_2025,igs_hvriv,2025,6739159,,,executed,src_hvriv_jr2025_vereenvoudigd,strong,Werkingskosten brandweer 6739159; tick1748
+bud_hvriv_werking_dgh_2025,igs_hvriv,2025,261758,,,executed,src_hvriv_jr2025_vereenvoudigd,strong,Werkingskosten DGH 261758; tick1748
+bud_hvriv_schuld_aflossing_2025,igs_hvriv,2025,2012781,,,executed,src_hvriv_jr2025_vereenvoudigd,strong,Schuld aflossingen 2012781; tick1748
+bud_hvriv_schuld_intrest_2025,igs_hvriv,2025,774295,,,executed,src_hvriv_jr2025_vereenvoudigd,strong,Schuld intresten 774295; tick1748
+bud_hvriv_ontvangsten_gewone_2025,igs_hvriv,2025,33781156,,,executed,src_hvriv_jr2025_vereenvoudigd,strong,Gewone ontvangsten 33781156; tick1748
+bud_hvriv_gemdot_exploitatie_2025,igs_hvriv,2025,20853368,,,executed,src_hvriv_jr2025_vereenvoudigd,strong,Gemeentedotaties exploitatie 20853368; per-gemeente FOI; tick1748
+bud_hvriv_fed_brandweer_2025,igs_hvriv,2025,6616305,,,executed,src_hvriv_jr2025_vereenvoudigd,strong,Fed brandweer basis 1329767 + bijkomende/seveso 5286538 = 6616305; tick1748
+bud_hvriv_fed_dgh_2025,igs_hvriv,2025,3319025,,,executed,src_hvriv_jr2025_vereenvoudigd,strong,Fed DGH 3319025 JUMP vs begroting 1918925; tick1748
+bud_hvriv_prestaties_2025,igs_hvriv,2025,2600351,,,executed,src_hvriv_jr2025_vereenvoudigd,strong,Prestaties interventie 1490105 + DGH 692302 + overige 417944 = 2600351; tick1748
+bud_hvriv_invest_uitgaven_2025,igs_hvriv,2025,3707455,,,executed,src_hvriv_jr2025_vereenvoudigd,strong,Buitengewone investeringen 3707455; tick1748
+bud_hvriv_invest_gemdot_2025,igs_hvriv,2025,500000,,,executed,src_hvriv_jr2025_vereenvoudigd,strong,Investeringsdotaties gemeenten 500000; tick1748
+bud_hvriv_saldo_gewone_2025,igs_hvriv,2025,3414106,,,executed,src_hvriv_jr2025_vereenvoudigd,strong,Saldo gewone dienst / globaal 3414106; tick1748
