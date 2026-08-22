@@ -50118,3 +50118,22 @@ bud_gravenkasteel_staff_2025,vzw_gravenkasteel,2025,61893515,,,executed,src_grav
 bud_gravenkasteel_diensten_2025,vzw_gravenkasteel,2025,30904543,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB diensten 61 30904543 JUMP vs 29316933; tick1736
 bud_gravenkasteel_expl_2025,vzw_gravenkasteel,2025,1920243,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB bedrijfswinst 9901 1920243; tick1736
 bud_gravenkasteel_pnl_2025,vzw_gravenkasteel,2025,2600926,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB PnL 9904 2600926; AV 30.06.2026; EY zonder voorbehoud; tick1736
+bud_armonea_assets_2025,nv_armonea,2025,215482047,,,executed,src_armonea_nbb_ye2025,strong,NBB 20/58 assets 215482047; tick1737
+bud_armonea_va_2025,nv_armonea,2025,143990268,,,executed,src_armonea_nbb_ye2025,strong,NBB VA 143990268; tick1737
+bud_armonea_fva_2025,nv_armonea,2025,119790078,,,executed,src_armonea_nbb_ye2025,strong,NBB FVA 119790078 (deelnemingen 110974759 DROP + vorderingen 8500000); FOI; tick1737
+bud_armonea_vlottend_2025,nv_armonea,2025,69000939,,,executed,src_armonea_nbb_ye2025,strong,NBB vlottend 69000939 JUMP; tick1737
+bud_armonea_cash_2025,nv_armonea,2025,29013140,,,executed,src_armonea_nbb_ye2025,strong,NBB liquide 29013140 JUMP vs 4414712; tick1737
+bud_armonea_equity_2025,nv_armonea,2025,-12259638,,,executed,src_armonea_nbb_ye2025,strong,NBB EV -12259638 NEG vs +39047194; Art 7:228/7:229; tick1737
+bud_armonea_overgedragen_2025,nv_armonea,2025,-131300577,,,executed,src_armonea_nbb_ye2025,strong,NBB overgedragen verlies -131300577; tick1737
+bud_armonea_debt_2025,nv_armonea,2025,227700106,,,executed,src_armonea_nbb_ye2025,strong,NBB schulden 227700106; tick1737
+bud_armonea_lt_overige_2025,nv_armonea,2025,124000000,,,executed,src_armonea_nbb_ye2025,strong,NBB LT overige leningen 124000000 JUMP vs 74000000; FOI Colisée; tick1737
+bud_armonea_st_leveranciers_2025,nv_armonea,2025,34822015,,,executed,src_armonea_nbb_ye2025,strong,NBB ST leveranciers 34822015; tick1737
+bud_armonea_st_soc_2025,nv_armonea,2025,29431465,,,executed,src_armonea_nbb_ye2025,strong,NBB ST bezoldigingen/sociale 29431465; tick1737
+bud_armonea_opbr_2025,nv_armonea,2025,265194864,,,executed,src_armonea_nbb_ye2025,strong,NBB bedrijfsopbrengsten 265194864; tick1737
+bud_armonea_omzet_2025,nv_armonea,2025,225856316,,,executed,src_armonea_nbb_ye2025,strong,NBB omzet 70 225856316; FOI RIZIV multi-site; tick1737
+bud_armonea_andere_opbr_2025,nv_armonea,2025,38795231,,,executed,src_armonea_nbb_ye2025,strong,NBB andere 74 38795231; FOI; tick1737
+bud_armonea_staff_2025,nv_armonea,2025,153076606,,,executed,src_armonea_nbb_ye2025,strong,NBB 62 153076606 / VTE 2309.5; tick1737
+bud_armonea_diensten_2025,nv_armonea,2025,114912835,,,executed,src_armonea_nbb_ye2025,strong,NBB diensten 61 114912835 JUMP vs 109913208; tick1737
+bud_armonea_expl_2025,nv_armonea,2025,-21148356,,,executed,src_armonea_nbb_ye2025,strong,NBB bedrijfswinst 9901 -21148356 LOSS; tick1737
+bud_armonea_nietrec_fincost_2025,nv_armonea,2025,24208032,,,executed,src_armonea_nbb_ye2025,strong,NBB niet-recurrente financiële kosten 66B 24208032; FOI impairments; tick1737
+bud_armonea_pnl_2025,nv_armonea,2025,-51306832,,,executed,src_armonea_nbb_ye2025,strong,NBB PnL 9904 -51306832 LOSS; AV 30.06.2026; EY zonder voorbehoud + Art 7:228/7:229; tick1737
