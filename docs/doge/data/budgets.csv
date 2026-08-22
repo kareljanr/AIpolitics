@@ -47956,3 +47956,44 @@ bud_kompas_fincost_2025,vzw_kompas,2025,4380,,,executed,src_kompas_jr2025_nbb,st
 bud_kompas_pnl_2025,vzw_kompas,2025,-216048,,,executed,src_kompas_jr2025_nbb,strong,YE2025 verlies -216048 LOSS FLIP from +173408; tick1647
 bud_kompas_hypotheek_book_2025,vzw_kompas,2025,264305,,,executed,src_kompas_jr2025_nbb,strong,YE2025 zakelijke zekerheid boekwaarde bezwaarde activa 91611 264305; tick1647
 bud_kompas_hypotheek_mandaat_2025,vzw_kompas,2025,330000,,,executed,src_kompas_jr2025_nbb,strong,YE2025 hypotheekmandaat 91631 330000; tick1647
+bud_intersoc_assets_2025,vzw_intersoc,2025,49400750,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 balanstotaal 49400750 DROP from 50032145; tick1648
+bud_intersoc_va_2025,vzw_intersoc,2025,36791921,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 vaste activa 36791921 DROP; tick1648
+bud_intersoc_iva_2025,vzw_intersoc,2025,295463,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 immateriele VA 295463 DROP; tick1648
+bud_intersoc_mva_2025,vzw_intersoc,2025,21684072,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 materiele VA 21684072 DROP (overige MVA 18116386); tick1648
+bud_intersoc_fva_2025,vzw_intersoc,2025,14812386,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 financiele VA 14812386 JUMP (verbonden 14810955); tick1648
+bud_intersoc_vlottend_2025,vzw_intersoc,2025,12608829,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 vlottende activa 12608829 DROP; tick1648
+bud_intersoc_voorraden_2025,vzw_intersoc,2025,364718,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 voorraden 364718 JUMP; tick1648
+bud_intersoc_handelsrecv_2025,vzw_intersoc,2025,2447968,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 handelsvorderingen ST 2447968 JUMP; tick1648
+bud_intersoc_other_recv_2025,vzw_intersoc,2025,416787,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 overige vorderingen ST 416787 DROP; tick1648
+bud_intersoc_beleg_2025,vzw_intersoc,2025,6305809,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 geldbeleggingen 6305809 DROP; tick1648
+bud_intersoc_cash_2025,vzw_intersoc,2025,2044397,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 liquide middelen 2044397 JUMP; tick1648
+bud_intersoc_prepaid_2025,vzw_intersoc,2025,1029150,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 overlopende rekeningen actief 1029150 JUMP; tick1648
+bud_intersoc_equity_2025,vzw_intersoc,2025,1903329,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 eigen vermogen 1903329 DROP (thin vs debt); tick1648
+bud_intersoc_fondsen_2025,vzw_intersoc,2025,33646944,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 fondsen 33646944 flat; tick1648
+bud_intersoc_herwaard_2025,vzw_intersoc,2025,1800000,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 herwaarderingsmeerwaarden 1800000 flat; tick1648
+bud_intersoc_destin_2025,vzw_intersoc,2025,3155668,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 bestemde fondsen 3155668 flat; tick1648
+bud_intersoc_overgedragen_2025,vzw_intersoc,2025,-36699283,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 overgedragen verlies -36699283 DEEPER; tick1648
+bud_intersoc_voorzieningen_2025,vzw_intersoc,2025,120428,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 voorzieningen 120428 DROP; tick1648
+bud_intersoc_debt_2025,vzw_intersoc,2025,47376993,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 schulden 47376993 JUMP; tick1648
+bud_intersoc_lt_fin_2025,vzw_intersoc,2025,24488822,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 LT financiele schulden 24488822 DROP (achtergesteld 3750000 + bank 12244530 + other 8494292); tick1648
+bud_intersoc_st_debt_2025,vzw_intersoc,2025,21779824,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 schulden ST 21779824 JUMP (incl LT within year 2252235); tick1648
+bud_intersoc_lev_2025,vzw_intersoc,2025,6072443,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 leveranciers ST 6072443 JUMP; tick1648
+bud_intersoc_vooruit_2025,vzw_intersoc,2025,9668517,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 vooruitbetalingen 9668517 JUMP; tick1648
+bud_intersoc_taxsoc_2025,vzw_intersoc,2025,860751,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 belastingen/bezoldigingen ST 860751 DROP (tax 15007 + soc 845744); tick1648
+bud_intersoc_othdebt_2025,vzw_intersoc,2025,2925878,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 overige schulden ST 2925878 JUMP; tick1648
+bud_intersoc_accrued_2025,vzw_intersoc,2025,1108347,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 overlopende rekeningen passief 1108347 JUMP; tick1648
+bud_intersoc_opbr_2025,vzw_intersoc,2025,34031066,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 bedrijfsopbrengsten 70/76A 34031066 DROP ENVELOPE; tick1648
+bud_intersoc_omzet_2025,vzw_intersoc,2025,32187003,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 omzet 70 32187003 DROP (gezinnen 29275540 + VOK-CPAN 4525770 + jeugd FR 122912); tick1648
+bud_intersoc_andere_opbr_2025,vzw_intersoc,2025,1737219,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 andere bedrijfsopbrengsten 74 1737219 DROP; tick1648
+bud_intersoc_nr_opbr_2025,vzw_intersoc,2025,106844,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 niet-recurrente bedrijfsopbrengsten 76A 106844 DROP; tick1648
+bud_intersoc_handels_2025,vzw_intersoc,2025,10246668,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 handelsgoederen 60 10246668 DROP; tick1648
+bud_intersoc_diensten_2025,vzw_intersoc,2025,13577826,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 diensten 61 13577826 DROP; tick1648
+bud_intersoc_pers_2025,vzw_intersoc,2025,8251837,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 bezoldigingen 62 8251837 DROP / 91.8 VTE (DROP from 95.5); tick1648
+bud_intersoc_afschr_2025,vzw_intersoc,2025,1804241,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 afschrijvingen 630 1804241 DROP; tick1648
+bud_intersoc_andere_2025,vzw_intersoc,2025,746058,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 andere bedrijfskosten 640/8 746058 DROP; tick1648
+bud_intersoc_nr_kost_2025,vzw_intersoc,2025,588819,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 niet-recurrente bedrijfskosten 66A 588819 NEW; tick1648
+bud_intersoc_expl_2025,vzw_intersoc,2025,-561398,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 bedrijfsverlies -561398 IMPROVED from -1868059; tick1648
+bud_intersoc_fininc_2025,vzw_intersoc,2025,119441,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 financiele opbrengsten 119441 DROP from 982733; tick1648
+bud_intersoc_fincost_2025,vzw_intersoc,2025,872013,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 financiele kosten 872013 JUMP; tick1648
+bud_intersoc_pnl_2025,vzw_intersoc,2025,-1313970,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 verlies -1313970 IMPROVED from -1524764; tick1648
+bud_intersoc_commissaris_2025,vzw_intersoc,2025,25000,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 commissaris fee 9505 25000; tick1648
