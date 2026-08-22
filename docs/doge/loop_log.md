@@ -20726,3 +20726,11 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_boek_bruto_1_03m_staff_1_04m_subsidy_split_l5 ready (70/73 absolute split / accrued / AV). Do not send.
 - Inventory: entities **1450** · sources **3967** · budgets **49896** · commitments **5306** · leaderboard **7507** · FOI ready **1349** / answered **9** / partial **27** / total **1397**.
 - Next: rq_1722 leftover AGB/**Natuurpunt vzw if CDN**/NSZ if CDN 200 / Bosgroep/Dijk92 if JR euros / APEFE if budget euros / ABS/GO!/POV / BVAS / IOED / HVZ / IGS / other. Do NOT redo BoeK/Boerenbond/LandelijkeGilden/BIV.... **Next every-10 is 1730**.
+
+### 2026-08-23T23:25:00Z - tick 1722
+- Unit: rq_1722 KLJ & Groene Kring vzw (leftover VL rural youth / young farmers) (KBO **0408.659.020**; VZW; Diestsevest 32 bus 3B 3000 Leuven; groenekring.be; official NBB **VKT-VZW** YE2025 deposit **2026-00072876** CDN **200**; AV **24.03.2026**). Honest leftover AGB/APB still unpublished. **Natuurpunt vzw** still CDN opaque. Dijk92 CDN **403**. APEFE no budget euros. **NSZ CDN 403**. ABS no NBB filing. BoeK/Boerenbond FOI still ready. Preferred AGB/NSZ/Natuurpunt still blocked — leftover KLJ/Groene Kring NBB YE2025 **live** taken (Boerenbond-adjacent youth residual). New entity vzw_klj_groene_kring. Envelope = bruto **2478479**. NOT every-10 (next 1730).
+- Found (NBB YE2025 strong): assets **2437835** (VA **233419** / vlottend **2204416** / cash **1132491** / beleg **300000**); equity **823677**; debt **1614158**; bruto **2478479**; staff **2199065** / VTE **30.8**; expl **72856**; PnL **76606**; 70/73/60/61 empty VKT.
+- Wrote: sources +4; entities +1 vzw_klj_groene_kring; budgets +11; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1722=done + rq_1723 spawn; ticks_completed=1722. Raw docs/doge/raw/tick1722/.
+- FOI opened: gap_klj_bruto_2_48m_staff_2_20m_omzet_empty_l5 ready (70/73 split / Boerenbond relation / AV). Do not send.
+- Inventory: entities **1451** · sources **3971** · budgets **49907** · commitments **5307** · leaderboard **7508** · FOI ready **1350** / answered **9** / partial **27** / total **1398**.
+- Next: rq_1723 leftover AGB/**Natuurpunt vzw if CDN**/NSZ if CDN 200 / Bosgroep/Dijk92 if JR euros / APEFE if budget euros / ABS/GO!/POV / BVAS / IOED / HVZ / IGS / other. Do NOT redo KLJ/BoeK/Boerenbond/LandelijkeGilden.... **Next every-10 is 1730**.

@@ -49895,3 +49895,14 @@ bud_boek_expl_2025,vzw_boek,2025,-32628,,,executed,src_boek_nbb_ye2025,strong,NB
 bud_boek_pnl_2025,vzw_boek,2025,-39913,,,executed,src_boek_nbb_ye2025,strong,NBB PnL 9904 -39913; AV 27.03.2026; tick1721
 bud_boek_lt_fin_debt_2025,vzw_boek,2025,223407,,,executed,src_boek_nbb_ye2025,strong,NBB LT financiele schulden 223407; tick1721
 bud_boek_accrued_debt_2025,vzw_boek,2025,525000,,,executed,src_boek_nbb_ye2025,strong,NBB overlopende rekeningen passief 525000 JUMP from 0; tick1721
+bud_klj_assets_2025,vzw_klj_groene_kring,2025,2437835,,,executed,src_klj_nbb_ye2025,strong,NBB 20/58 assets 2437835; tick1722
+bud_klj_va_2025,vzw_klj_groene_kring,2025,233419,,,executed,src_klj_nbb_ye2025,strong,NBB VA 21/28 233419; tick1722
+bud_klj_vlottend_2025,vzw_klj_groene_kring,2025,2204416,,,executed,src_klj_nbb_ye2025,strong,NBB vlottend 29/58 2204416; tick1722
+bud_klj_cash_2025,vzw_klj_groene_kring,2025,1132491,,,executed,src_klj_nbb_ye2025,strong,NBB liquide 54/58 1132491 JUMP vs 885707; tick1722
+bud_klj_beleg_2025,vzw_klj_groene_kring,2025,300000,,,executed,src_klj_nbb_ye2025,strong,NBB beleggingen 50/53 300000; tick1722
+bud_klj_equity_2025,vzw_klj_groene_kring,2025,823677,,,executed,src_klj_nbb_ye2025,strong,NBB EV 10/15 823677; tick1722
+bud_klj_debt_2025,vzw_klj_groene_kring,2025,1614158,,,executed,src_klj_nbb_ye2025,strong,NBB schulden 17/49 1614158 (ST 673589 + overlopend 940569); tick1722
+bud_klj_bruto_2025,vzw_klj_groene_kring,2025,2478479,,,executed,src_klj_nbb_ye2025,strong,NBB brutomarge 9900 2478479; 70/73 empty VKT; tick1722
+bud_klj_staff_2025,vzw_klj_groene_kring,2025,2199065,,,executed,src_klj_nbb_ye2025,strong,NBB 62 2199065 / VTE 30.8; tick1722
+bud_klj_expl_2025,vzw_klj_groene_kring,2025,72856,,,executed,src_klj_nbb_ye2025,strong,NBB bedrijfswinst 9901 72856; tick1722
+bud_klj_pnl_2025,vzw_klj_groene_kring,2025,76606,,,executed,src_klj_nbb_ye2025,strong,NBB PnL 9904 76606; AV 24.03.2026; tick1722
