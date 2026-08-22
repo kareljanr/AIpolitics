@@ -49611,3 +49611,18 @@ bud_flux50_fininc_2025,vzw_flux50,2025,12482,,,executed,src_flux50_jr2025_nbb,st
 bud_flux50_fincost_2025,vzw_flux50,2025,798,,,executed,src_flux50_jr2025_nbb,strong,YE2025 financiele kosten 798 DROP; tick1702
 bud_flux50_pnl_2025,vzw_flux50,2025,76,,,executed,src_flux50_jr2025_nbb,strong,YE2025 winst 76 DROP near break-even; tick1702
 bud_flux50_vte_2025,vzw_flux50,2025,14.4,,,executed,src_flux50_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 14.4 JUMP from 13.3; eoy 14.2; tick1702
+bud_fbm_biovia_income_2025,vzw_fbm_biovia,2025,4045000,,,executed,src_fbm_biovia_ar2025_official,strong,AR2025 total income 4045000 ENVELOPE; tick1704
+bud_fbm_biovia_membership_2025,vzw_fbm_biovia,2025,749000,,,executed,src_fbm_biovia_ar2025_official,strong,AR2025 membership fees 749000; tick1704
+bud_fbm_biovia_vlaio_innov_2025,vzw_fbm_biovia,2025,2000000,,,executed,src_fbm_biovia_ar2025_official,strong,AR2025 VLAIO innovation budget 2000000; tick1704
+bud_fbm_biovia_other_income_2025,vzw_fbm_biovia,2025,1296000,,,executed,src_fbm_biovia_ar2025_official,strong,AR2025 other income 1296000; tick1704
+bud_fbm_biovia_expenses_2025,vzw_fbm_biovia,2025,3705000,,,executed,src_fbm_biovia_ar2025_official,strong,AR2025 total expenses 3705000; tick1704
+bud_fbm_biovia_staff_2025,vzw_fbm_biovia,2025,1723000,,,executed,src_fbm_biovia_ar2025_official,strong,AR2025 staff expenses 1723000; tick1704
+bud_fbm_biovia_marketing_2025,vzw_fbm_biovia,2025,297000,,,executed,src_fbm_biovia_ar2025_official,strong,AR2025 marketing 297000; tick1704
+bud_fbm_biovia_events_2025,vzw_fbm_biovia,2025,331000,,,executed,src_fbm_biovia_ar2025_official,strong,AR2025 events 331000; tick1704
+bud_fbm_biovia_projects_opex_2025,vzw_fbm_biovia,2025,1052000,,,executed,src_fbm_biovia_ar2025_official,strong,AR2025 projects opex 1052000; tick1704
+bud_fbm_biovia_office_2025,vzw_fbm_biovia,2025,240000,,,executed,src_fbm_biovia_ar2025_official,strong,AR2025 office 240000; tick1704
+bud_fbm_biovia_other_exp_2025,vzw_fbm_biovia,2025,62000,,,executed,src_fbm_biovia_ar2025_official,strong,AR2025 other expenses 62000; tick1704
+bud_fbm_biovia_result_2025,vzw_fbm_biovia,2025,340000,,,executed,src_fbm_biovia_ar2025_official,strong,AR2025 result 340000 (8.4pct of income); tick1704
+bud_fbm_biovia_closing_capital_2025,vzw_fbm_biovia,2025,1600000,,,executed,src_fbm_biovia_ar2025_official,strong,AR2025 closing capital YE2025 1600000 (equity-class); tick1704
+bud_fbm_biovia_vlaio_projects_2025,vzw_fbm_biovia,2025,3235079,,,executed,src_fbm_biovia_ar2025_official,strong,AR2025 VLAIO project funding awarded 3235079 across 5 projects (pass-through; not additive to cluster opex income); tick1704
+bud_fbm_biovia_members_2025,vzw_fbm_biovia,2025,351,,,executed,src_fbm_biovia_ar2025_official,strong,AR2025 members 351; tick1704
