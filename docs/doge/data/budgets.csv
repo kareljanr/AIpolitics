@@ -47213,3 +47213,31 @@ bud_viva_fincost_2025,vzw_viva,2025,28675,,,executed,src_viva_jr2025_nbb,strong,
 bud_viva_tax_2025,vzw_viva,2025,21679,,,executed,src_viva_jr2025_nbb,strong,YE2025 belastingen op resultaat 21679 NEW; tick1623
 bud_viva_pnl_2025,vzw_viva,2025,147515,,,executed,src_viva_jr2025_nbb,strong,YE2025 winst 147515 JUMP from 12218; tick1623
 bud_viva_sociale_perscost_2025,vzw_viva,2025,881118,,,executed,src_viva_jr2025_nbb,strong,YE2025 sociale balans personeelskosten 102 881118 (vs code62 814559); tick1623
+bud_liga_assets_2025,vzw_liga,2025,450318,,,executed,src_liga_jr2025_nbb,strong,YE2025 balanstotaal 450318 DROP from 454042; tick1624; primary official NBB VKT-VZW
+bud_liga_va_2025,vzw_liga,2025,384220,,,executed,src_liga_jr2025_nbb,strong,YE2025 vaste activa 384220 DROP; tick1624
+bud_liga_mva_2025,vzw_liga,2025,174220,,,executed,src_liga_jr2025_nbb,strong,YE2025 materiele VA 174220 DROP (overige 174220); tick1624
+bud_liga_fva_2025,vzw_liga,2025,210000,,,executed,src_liga_jr2025_nbb,strong,YE2025 financiele VA 210000 flat; tick1624
+bud_liga_vlottend_2025,vzw_liga,2025,66098,,,executed,src_liga_jr2025_nbb,strong,YE2025 vlottende activa 66098 JUMP; tick1624
+bud_liga_handelsrecv_2025,vzw_liga,2025,1792,,,executed,src_liga_jr2025_nbb,strong,YE2025 handelsvorderingen ST 1792 DROP; tick1624
+bud_liga_other_recv_2025,vzw_liga,2025,29092,,,executed,src_liga_jr2025_nbb,strong,YE2025 overige vorderingen ST 29092 JUMP; tick1624
+bud_liga_cash_2025,vzw_liga,2025,34512,,,executed,src_liga_jr2025_nbb,strong,YE2025 liquide middelen 34512 JUMP from 20619; tick1624
+bud_liga_prepaid_2025,vzw_liga,2025,702,,,executed,src_liga_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 702 DROP; tick1624
+bud_liga_equity_2025,vzw_liga,2025,355735,,,executed,src_liga_jr2025_nbb,strong,YE2025 eigen vermogen 355735 DROP; tick1624
+bud_liga_destin_2025,vzw_liga,2025,24299,,,executed,src_liga_jr2025_nbb,strong,YE2025 bestemde fondsen 24299 flat; tick1624
+bud_liga_overgedragen_2025,vzw_liga,2025,158796,,,executed,src_liga_jr2025_nbb,strong,YE2025 overgedragen winst 158796 JUMP; tick1624
+bud_liga_kapsubs_2025,vzw_liga,2025,172640,,,executed,src_liga_jr2025_nbb,strong,YE2025 kapitaalsubsidies 172640 DROP from 182725; tick1624
+bud_liga_debt_2025,vzw_liga,2025,94583,,,executed,src_liga_jr2025_nbb,strong,YE2025 schulden 94583 DROP; tick1624
+bud_liga_st_debt_2025,vzw_liga,2025,68238,,,executed,src_liga_jr2025_nbb,strong,YE2025 schulden ST 68238 JUMP; tick1624
+bud_liga_fin_st_2025,vzw_liga,2025,1164,,,executed,src_liga_jr2025_nbb,strong,YE2025 financiele schulden ST kredietinstellingen 1164 NEW; tick1624
+bud_liga_lev_2025,vzw_liga,2025,35921,,,executed,src_liga_jr2025_nbb,strong,YE2025 leveranciers ST 35921 JUMP; tick1624
+bud_liga_taxsoc_2025,vzw_liga,2025,31152,,,executed,src_liga_jr2025_nbb,strong,YE2025 bezoldigingen/sociale lasten ST 31152 JUMP; tick1624
+bud_liga_accrued_2025,vzw_liga,2025,26346,,,executed,src_liga_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 26346 DROP; tick1624
+bud_liga_bruto_2025,vzw_liga,2025,293817,,,executed,src_liga_jr2025_nbb,strong,YE2025 brutomarge 9900 293817 JUMP ENVELOPE (70/73/60-61 empty); tick1624
+bud_liga_nietrec_opbr_2025,vzw_liga,2025,1413,,,executed,src_liga_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfsopbrengsten 76A 1413 in bruto; tick1624
+bud_liga_pers_2025,vzw_liga,2025,284268,,,executed,src_liga_jr2025_nbb,strong,YE2025 bezoldigingen 62 284268 JUMP / 3.9 VTE avg; tick1624
+bud_liga_afschr_2025,vzw_liga,2025,10867,,,executed,src_liga_jr2025_nbb,strong,YE2025 afschrijvingen 630 10867 JUMP; tick1624
+bud_liga_andere_2025,vzw_liga,2025,1142,,,executed,src_liga_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 1142 DROP; tick1624
+bud_liga_expl_2025,vzw_liga,2025,-2460,,,executed,src_liga_jr2025_nbb,strong,YE2025 bedrijfsverlies -2460 IMPROVED from -37828; tick1624
+bud_liga_fininc_2025,vzw_liga,2025,10317,,,executed,src_liga_jr2025_nbb,strong,YE2025 financiele opbrengsten 10317 JUMP; tick1624
+bud_liga_fincost_2025,vzw_liga,2025,528,,,executed,src_liga_jr2025_nbb,strong,YE2025 financiele kosten 528; tick1624
+bud_liga_pnl_2025,vzw_liga,2025,7328,,,executed,src_liga_jr2025_nbb,strong,YE2025 winst 7328 PROFIT FLIP from -34835; tick1624
