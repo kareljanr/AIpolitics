@@ -50466,3 +50466,15 @@ bud_immorjs_expl_2025,nv_immorjs,2025,143604,,,realized,src_immorjs_jr2025_nbb,s
 bud_immorjs_pnl_2025,nv_immorjs,2025,107894,,,realized,src_immorjs_jr2025_nbb,strong,PnL 107894; tick1768
 bud_immorjs_admin_remun_2025,nv_immorjs,2025,20000,,,realized,src_immorjs_jr2025_nbb,strong,Benefice distribue administrateurs/gerants 20000; tick1768
 bud_immorjs_gage_debt_2025,nv_immorjs,2025,4540000,,,stock,src_immorjs_jr2025_nbb,strong,Dettes garanties suretes reelles 892=4540000; tick1768
+bud_rapsode_assets_2025,nv_rapsode,2025,29027073,,,stock,src_rapsode_jr2025_nbb,strong,Assets YE2025 29027073; tick1769
+bud_rapsode_equity_2025,nv_rapsode,2025,5135346,,,stock,src_rapsode_jr2025_nbb,strong,Equity 5135346 UP vs 4819171; tick1769
+bud_rapsode_debt_2025,nv_rapsode,2025,23891727,,,stock,src_rapsode_jr2025_nbb,strong,Debt 23891727; tick1769
+bud_rapsode_leasing_lt_2025,nv_rapsode,2025,13831742,,,stock,src_rapsode_jr2025_nbb,strong,LT leasing debt 13831742; tick1769
+bud_rapsode_fva_2025,nv_rapsode,2025,15631620,,,stock,src_rapsode_jr2025_nbb,strong,Immobilisations financieres 15631620 (participations 15631000); tick1769
+bud_rapsode_accruals_2025,nv_rapsode,2025,7795542,,,stock,src_rapsode_jr2025_nbb,strong,Comptes de regularisation passif 7795542; tick1769
+bud_rapsode_related_debt_2025,nv_rapsode,2025,14685917,,,stock,src_rapsode_jr2025_nbb,strong,Dettes entreprises liees 9351=14685917; tick1769
+bud_rapsode_related_recv_2025,nv_rapsode,2025,670685,,,stock,src_rapsode_jr2025_nbb,strong,Creances entreprises liees ST 670685; tick1769
+bud_rapsode_omzet_2025,nv_rapsode,2025,7177781,,,realized,src_rapsode_jr2025_nbb,strong,Chiffre d affaires 7177781 (C-cap disclosed); tick1769
+bud_rapsode_staff_2025,nv_rapsode,2025,4257162,,,realized,src_rapsode_jr2025_nbb,strong,Staff 4257162 / VTE 72.1; tick1769
+bud_rapsode_expl_2025,nv_rapsode,2025,1237933,,,realized,src_rapsode_jr2025_nbb,strong,Benefice exploitation 1237933; tick1769
+bud_rapsode_pnl_2025,nv_rapsode,2025,493473,,,realized,src_rapsode_jr2025_nbb,strong,PnL 493473; admin remun 177297; tick1769
