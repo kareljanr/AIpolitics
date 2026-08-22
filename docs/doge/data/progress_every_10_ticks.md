@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 1650** (2026-08-23)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1641-1649 leftover public NGO / CM-vakantie / GGZ: **Femma** · **NEOS** · **Ferm** · **Davidsfonds** · **Vrouwennet/Markant** · **Pasar** · **Kompas** · **Intersoc** · **Free Clinic** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1641-1649 is residual dual L5 leftover NGO/GGZ (not near-complete of 348bn):** **Intersoc** assets **49.40m** opbr **34.03m** debt **47.38m** · **Ferm** assets **14.89m** opbr **10.79m** (subs **4.14m**) · **Femma** assets **7.99m** opbr **6.10m** · **Free Clinic** assets **3.63m** bruto **5.15m** · **Kompas** assets **2.91m** bruto **4.58m** · **Vrouwennet** assets **3.80m** bruto **1.68m** · **Davidsfonds** assets **2.92m** bruto **1.87m** · **NEOS** assets **2.69m** bruto **1.98m** · **Pasar** assets **2.55m** bruto **2.26m** · prior Gezinsbond/SOS/OKRA/Greenpeace stack retained |
+| **E. FOI-ready gaps** | **~1284** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1332** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + koepel/NGO shells** (**NEW Intersoc** assets **EUR49.40m** debt **EUR47.38m** · **Ferm** assets **EUR14.89m** · **Femma** assets **EUR7.99m** · **Free Clinic** assets **EUR3.63m** bruto **EUR5.15m** · **Kompas** assets **EUR2.91m** bruto **EUR4.58m** · **Vrouwennet** assets **EUR3.80m** · **Davidsfonds** assets **EUR2.92m** · **NEOS** assets **EUR2.69m** · **Pasar** assets **EUR2.55m** · prior Gezinsbond/SOS/OKRA/Greenpeace/Welzijnsverbond/SAM/Prebes stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1650)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 48034 |
+| commitments.csv | 5241 |
+| leaderboard.csv | 7444 |
+| entities.csv | 1385 |
+| sources.csv | 3701 |
+| FOI ready | 1284 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1332 |
+| research_queue open | rq_116 deferred + rq_1651 hole-fill after progress |
+
+### What improved since tick 1640
+
+- **VL residual dual leftover socio-cultural / women / seniors (tick1641-1645):** **Femma** assets **7.99m** opbr **6.10m** · **NEOS** assets **2.69m** bruto **1.98m** · **Ferm** assets **14.89m** opbr **10.79m** (subs **4.14m** + code73 residual **~3.85m**) · **Davidsfonds** assets **2.92m** bruto **1.87m** · **Vrouwennet/Markant** assets **3.80m** bruto **1.68m** — no invented euros.
+- **VL residual dual leftover vrijetijd / GGZ / CM-vakantie (tick1646-1649):** **Pasar** assets **2.55m** bruto **2.26m** code73 **2.40m** · **Kompas** assets **2.91m** bruto **4.58m** (53.7 VTE) · **Intersoc** assets **49.40m** opbr **34.03m** debt **47.38m** (91.8 VTE; thin equity vs deep retained loss) · **Free Clinic** assets **3.63m** bruto **5.15m** (56.9 VTE) — no invented euros.
+- **NEW (tick1648-1649):** **Intersoc** (KBO 0410.663.554) leftover CM social-tourism / Beweging.net. Official NBB VOL-VZW deposit **2026-00138686** FY Nov2025. Assets **49.400.750** · opbr **34.031.066** · omzet **32.187.003** · debt **47.376.993** · pers **8.251.837** / **91.8 VTE** · PnL **-1.313.970**. **Free Clinic** (KBO 0416.639.348) leftover Antwerp GGZ drugzorg. Official NBB VKT-VZW deposit **2026-00267094**. Assets **3.634.787** · bruto **5.145.122** · pers **4.868.451** / **56.9 VTE** · PnL **46.690**. FOI ready.
+- **Dual map themes:** leftover CM-vakantie (Intersoc) · landelijke/vrouwenbeweging (Ferm/Femma/Vrouwennet) · GGZ-drugzorg (Kompas/Free Clinic) · cultuurfonds (Davidsfonds) · vrijetijd (Pasar) · seniors (NEOS) · prior Gezinsbond/SOS/OKRA/Greenpeace stack retained.
+- **Blocked still:** AGB/APB unpublished · Dijk92 CDN **403** · FARO JR2024 · APEFE CDN **403** · Amnesty VL + Natuurpunt scanned image PDF.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1660**.
+
 ## Snapshot at **tick 1640** (2026-08-23)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
