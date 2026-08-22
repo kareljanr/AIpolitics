@@ -49400,3 +49400,41 @@ bud_oxfam_oww_tax_2025,vzw_oxfam_oww,2025,3266,,,executed,src_oxfam_oww_jr2025_n
 bud_oxfam_oww_pnl_2025,vzw_oxfam_oww,2025,237884,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 winst 237884 JUMP; tick1694
 bud_oxfam_oww_vte_2025,vzw_oxfam_oww,2025,17.6,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 17.6 DROP from 19.1; eoy 18.6; tick1694
 bud_oxfam_oww_commissaris_fee_2025,vzw_oxfam_oww,2025,10000,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 audit fee 10000 (+DGD 3380 + SCW 1350); EY; tick1694
+bud_oxfam_oft_assets_2025,cv_oxfam_oft,2025,9452735,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 balanstotaal 9452735 JUMP from 9180342; tick1695
+bud_oxfam_oft_va_2025,cv_oxfam_oft,2025,301577,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 vaste activa 301577 DROP; tick1695
+bud_oxfam_oft_mva_2025,cv_oxfam_oft,2025,270559,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 MVA 270559 (gebouwen 238267 + installaties 26271 + meubilair 6021); tick1695
+bud_oxfam_oft_fva_2025,cv_oxfam_oft,2025,29762,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 financiele VA 29762 JUMP; tick1695
+bud_oxfam_oft_vlottend_2025,cv_oxfam_oft,2025,9151158,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 vlottende activa 9151158 JUMP; tick1695
+bud_oxfam_oft_stock_2025,cv_oxfam_oft,2025,5819725,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 voorraden 5819725 JUMP; tick1695
+bud_oxfam_oft_handelsrecv_2025,cv_oxfam_oft,2025,2569399,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 handelsvorderingen ST 2569399 JUMP; tick1695
+bud_oxfam_oft_other_recv_2025,cv_oxfam_oft,2025,431981,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 overige vorderingen ST 431981 JUMP; tick1695
+bud_oxfam_oft_cash_2025,cv_oxfam_oft,2025,264808,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 liquide middelen 264808 DROP; tick1695
+bud_oxfam_oft_prepaid_2025,cv_oxfam_oft,2025,65244,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 65244 DROP; tick1695
+bud_oxfam_oft_equity_2025,cv_oxfam_oft,2025,1383070,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 eigen vermogen 1383070 DROP from 1886404; tick1695
+bud_oxfam_oft_inbreng_2025,cv_oxfam_oft,2025,2368000,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 inbreng 2368000 JUMP; tick1695
+bud_oxfam_oft_overgedragen_2025,cv_oxfam_oft,2025,-1218042,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 overgedragen verlies -1218042 JUMP loss; tick1695
+bud_oxfam_oft_voorzieningen_2025,cv_oxfam_oft,2025,17287,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 voorzieningen 17287 flat; tick1695
+bud_oxfam_oft_debt_2025,cv_oxfam_oft,2025,8052378,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 schulden 8052378 JUMP; tick1695
+bud_oxfam_oft_lt_debt_2025,cv_oxfam_oft,2025,3293875,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 schulden LT 3293875 DROP; tick1695
+bud_oxfam_oft_lt_fin_2025,cv_oxfam_oft,2025,411900,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 LT financiele schulden 411900 DROP; tick1695
+bud_oxfam_oft_lt_lev_2025,cv_oxfam_oft,2025,2871280,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 LT handelsschulden/leveranciers 2871280 flat (OWW-related FOI); tick1695
+bud_oxfam_oft_st_debt_2025,cv_oxfam_oft,2025,4487061,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 schulden ST 4487061 JUMP; tick1695
+bud_oxfam_oft_st_bank_2025,cv_oxfam_oft,2025,550000,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 ST kredietinstellingen 550000 NEW; tick1695
+bud_oxfam_oft_lev_2025,cv_oxfam_oft,2025,2350930,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 leveranciers ST 2350930 JUMP; tick1695
+bud_oxfam_oft_taxsoc_2025,cv_oxfam_oft,2025,409076,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 409076 (tax 81941 + soc 327135); tick1695
+bud_oxfam_oft_other_st_2025,cv_oxfam_oft,2025,1107755,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 overige schulden ST 1107755 JUMP; tick1695
+bud_oxfam_oft_accrued_2025,cv_oxfam_oft,2025,271442,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 271442 JUMP; tick1695
+bud_oxfam_oft_opbr_2025,cv_oxfam_oft,2025,18206289,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 bedrijfsopbrengsten 70/76A 18206289 JUMP ENVELOPE; tick1695
+bud_oxfam_oft_omzet_2025,cv_oxfam_oft,2025,17712232,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 omzet 70 17712232 JUMP; tick1695
+bud_oxfam_oft_andere_opbr_2025,cv_oxfam_oft,2025,443424,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 andere bedrijfsopbrengsten 74 443424 DROP; tick1695
+bud_oxfam_oft_aankopen_2025,cv_oxfam_oft,2025,13507499,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 handelsgoederen/grondstoffen 60 13507499 JUMP; tick1695
+bud_oxfam_oft_diensten_2025,cv_oxfam_oft,2025,2374104,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 diensten 61 2374104 JUMP; tick1695
+bud_oxfam_oft_pers_2025,cv_oxfam_oft,2025,2409734,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 bezoldigingen 62 2409734 JUMP / 30.7 VTE; tick1695
+bud_oxfam_oft_afschr_2025,cv_oxfam_oft,2025,90469,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 afschrijvingen 630 90469 DROP; tick1695
+bud_oxfam_oft_andere_2025,cv_oxfam_oft,2025,196838,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 196838 DROP; tick1695
+bud_oxfam_oft_expl_2025,cv_oxfam_oft,2025,-470208,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 bedrijfsverlies -470208 JUMP loss; tick1695
+bud_oxfam_oft_fininc_2025,cv_oxfam_oft,2025,48861,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 financiele opbrengsten 48861 JUMP; tick1695
+bud_oxfam_oft_fincost_2025,cv_oxfam_oft,2025,96919,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 financiele kosten 96919 DROP; tick1695
+bud_oxfam_oft_pnl_2025,cv_oxfam_oft,2025,-518334,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 verlies -518334 JUMP loss; tick1695
+bud_oxfam_oft_vte_2025,cv_oxfam_oft,2025,30.7,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 gemiddeld VTE 1003 30.7 DROP from 31.2; eoy 29.4; tick1695
+bud_oxfam_oft_commissaris_fee_2025,cv_oxfam_oft,2025,18000,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 bezoldiging commissaris 9505 18000; EY; tick1695
