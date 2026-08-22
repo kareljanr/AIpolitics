@@ -50214,3 +50214,15 @@ bud_akapella_staff_2025,vzw_akapella,2025,4373948,,,executed,src_akapella_nbb_ye
 bud_akapella_expl_2025,vzw_akapella,2025,570221,,,executed,src_akapella_nbb_ye2025,strong,NBB bedrijfswinst 9901 570221; tick1743
 bud_akapella_pnl_2025,vzw_akapella,2025,557243,,,executed,src_akapella_nbb_ye2025,strong,NBB PnL 9904 557243; AV 08.05.2026; Mazars zonder voorbehoud; tick1743
 bud_akapella_schenking_2025,vzw_akapella,2025,1405000,,,executed,src_akapella_nbb_ye2025,strong,NBB resultaatverwerking schenking 1405000 to similar VZW (same EUR as Prinsenhof); FOI; tick1743
+bud_familiehof_assets_2025,vzw_familiehof,2025,1976358,,,executed,src_familiehof_nbb_ye2025,strong,NBB 20/58 assets 1976358 DROP vs 2248934; tick1744
+bud_familiehof_va_2025,vzw_familiehof,2025,190899,,,executed,src_familiehof_nbb_ye2025,strong,NBB VA 190899; tick1744
+bud_familiehof_vlottend_2025,vzw_familiehof,2025,1785460,,,executed,src_familiehof_nbb_ye2025,strong,NBB vlottend 1785460 DROP; tick1744
+bud_familiehof_cash_2025,vzw_familiehof,2025,277765,,,executed,src_familiehof_nbb_ye2025,strong,NBB liquide 277765 DROP vs 363678; tick1744
+bud_familiehof_andere_recv_2025,vzw_familiehof,2025,760083,,,executed,src_familiehof_nbb_ye2025,strong,NBB andere vorderingen 760083 DROP vs 1052568; FOI group; tick1744
+bud_familiehof_equity_2025,vzw_familiehof,2025,-666897,,,executed,src_familiehof_nbb_ye2025,strong,NBB EV NEG 666897 (improved vs NEG 797852); Vivalto comfort brief; tick1744
+bud_familiehof_debt_2025,vzw_familiehof,2025,2643255,,,executed,src_familiehof_nbb_ye2025,strong,NBB schulden 2643255; LT fin 1397990 of which other loans 1388689; tick1744
+bud_familiehof_bruto_2025,vzw_familiehof,2025,3982577,,,executed,src_familiehof_nbb_ye2025,strong,NBB brutomarge 9900 3982577; 70/73 empty VKT; tick1744
+bud_familiehof_staff_2025,vzw_familiehof,2025,3731195,,,executed,src_familiehof_nbb_ye2025,strong,NBB 62 3731195 / VTE 64.9 DROP vs 73.1; tick1744
+bud_familiehof_expl_2025,vzw_familiehof,2025,178840,,,executed,src_familiehof_nbb_ye2025,strong,NBB bedrijfswinst 9901 178840; tick1744
+bud_familiehof_pnl_2025,vzw_familiehof,2025,130955,,,executed,src_familiehof_nbb_ye2025,strong,NBB PnL 9904 130955 (vs -12357); AV 13.05.2026; Mazars zonder voorbehoud; tick1744
+bud_familiehof_lt_other_loans_2025,vzw_familiehof,2025,1388689,,,executed,src_familiehof_nbb_ye2025,strong,NBB LT overige leningen 1388689; FOI creditor; tick1744
