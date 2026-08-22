@@ -50287,3 +50287,15 @@ bud_hvzc_gent_pensioen_2025,igs_hvzc,2025,315000,,,budget,src_hvzc_gent_dotatie_
 bud_hvzc_gent_gross_dot_2025,igs_hvzc,2025,46932453.88,,,budget,src_hvzc_gent_dotatie_2025,strong,Gent gross dots expl+invest+pens 46932453.88; tick1749
 bud_hvzc_gent_ristorno_2025,igs_hvzc,2025,-1917070.84,,,budget,src_hvzc_gent_dotatie_2025,strong,Gent ristorno begrotingsresultaat -1917070.84 (zone resultaat 2.5m mentioned); tick1749
 bud_hvzc_gent_net_outlay_2025,igs_hvzc,2025,45015383.04,,,budget,src_hvzc_gent_dotatie_2025,strong,Gent voorgestelde uitgaven net 45015383.04; tick1749
+bud_hvzr_inkomsten_B2025,igs_hvzr,2025,29036748,,,budget,src_hvzr_motivatienota_budget2026,strong,B2025 totale inkomsten overzicht 29036748 (Motivatienota p8 comparative); tick1752; NOT executed JR rekening
+bud_hvzr_gem_werking_B2025,igs_hvzr,2025,18040021,,,budget,src_hvzr_motivatienota_budget2026,strong,B2025 gemeentelijke werkingstoelagen 18040021; tick1752
+bud_hvzr_gem_invest_B2025,igs_hvzr,2025,3947337,,,budget,src_hvzr_motivatienota_budget2026,strong,B2025 gemeentelijke investeringstoelagen 3947337; tick1752
+bud_hvzr_fed_dot_B2025,igs_hvzr,2025,5669972,,,budget,src_hvzr_motivatienota_budget2026,strong,B2025 federale dotaties 5669972 (basis+bijkomend as used for 2026 = same); tick1752
+bud_hvzr_prestaties_B2025,igs_hvzr,2025,1064418,,,budget,src_hvzr_motivatienota_budget2026,strong,B2025 prestaties 1064418; tick1752
+bud_hvzr_dgh_werking_B2025,igs_hvzr,2025,315000,,,budget,src_hvzr_motivatienota_budget2026,strong,B2025 DGH werkingstoelage 315000 (budget line; distinct from Justel MU ambulance 568670.97); tick1752
+bud_hvzr_pers_B2025,igs_hvzr,2025,16747577,,,budget,src_hvzr_motivatienota_budget2026,strong,B2025 personeelskosten EG70 derived 16985011-237434=16747577 (Motivatienota: 2026 only 1.42pct/237434 higher than 2025); tick1752
+bud_hvzr_pers_B2026,igs_hvzr,2026,16985011,,,budget,src_hvzr_motivatienota_budget2026,strong,B2026 personeelskosten EG70 16985011; tick1752
+bud_hvzr_inkomsten_B2026,igs_hvzr,2026,30280052,,,budget,src_hvzr_motivatienota_budget2026,strong,B2026 totale inkomsten overzicht 30280052; tick1752
+bud_hvzr_mu_fed_2025,igs_hvzr,2025,568670.97,,,executed,src_hvzr_justel_mu_2025,strong,Justel MU toelage totaal 568670.97 (activatie 136816 + permanentie 431854.97); partial federal ambulance; tick1752
+bud_hvzr_mu_activatie_2025,igs_hvzr,2025,136816,,,executed,src_hvzr_justel_mu_2025,strong,Justel MU activatie 136816; tick1752
+bud_hvzr_mu_permanentie_2025,igs_hvzr,2025,431854.97,,,executed,src_hvzr_justel_mu_2025,strong,Justel MU permanentie 431854.97; tick1752

@@ -20941,3 +20941,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; entities +1 igs_hvzw; commitments +1 (unknown envelope); foi_queue +1 ready; rq_1751=done + rq_1752 spawn; ticks_completed=1751. Raw docs/doge/raw/tick1751/. No leaderboard (no sourced annual €).
 - FOI opened: gap_hvzw_jr2025_rekening_unpublished_l5 ready (full rekening/VTE/gemdot). Do not send.
 - Next: rq_1752 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 / APEFE / ABS/POV/BVAS / IOED/HVZ-Rand-VBWest-BZA-rekening. NOT every-10 (next **1760**).
+
+### 2026-08-24T09:45:00Z - tick 1752
+- Unit: rq_1752 Brandweer Zone Rand / HVZ Rand (leftover IGS of mined Brasschaat+Brecht+Schoten belt) (KBO **0500.914.730**; Ruiterijschool 1 bus 2 2930 Brasschaat; brandweerzonerand.be; financien@brandweer.zonerand.be; official **Motivatienota Budget 2026** zoneraad **24.10.2025**; Justel MU MB BS **26.09.2025**). Honest leftover AGB Bornem still JR2024-only. NSZ/Dijk92/APEFE CDN **403**. VBWest JR2025 **verdaged** college 05.06.2026. Preferred AGB/NSZ blocked — leftover HVZ Rand official Budget **B2025 euros live** taken. New entity igs_hvzr. Envelope = B2025 inkomsten **29036748**. NOT every-10 (next 1760).
+- Found (official Motivatienota strong budget / Justel MU strong executed partial): B2025 inkomsten **29036748** (gem werking **18040021**; fed **5669972**; invest toelagen **3947337**; prestaties **1064418**; DGH werking **315000**); pers B2025 **16747577** (derived from B2026 **16985011** +1.42%/237434); Justel MU totaal **568670.97** (activatie **136816** + permanentie **431854.97**). Full JR2025 rekening unpublished.
+- Wrote: sources +5; entities +1 igs_hvzr; budgets +12; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1752=done + rq_1753 spawn; ticks_completed=1752. Raw docs/doge/raw/tick1752/.
+- FOI opened: gap_hvzr_jr2025_rekening_unpublished_l5 ready (full JR/VTE/gemdot). Do not send.
+- Next: rq_1753 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 / APEFE / ABS/POV/BVAS / IOED/HVZ-VBWest-ZuidOost-BZA. Do NOT redo HVZRand/HVZWaasland/HVZCentrum/HVZRivierenland/Zusterhof continuum. NOT every-10 (next **1760**).
