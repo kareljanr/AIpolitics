@@ -49646,3 +49646,24 @@ bud_sabam_pnl_2025,cv_sabam,2025,1236619,,,executed,src_sabam_jv2025_official,st
 bud_sabam_social_withhold_2025,cv_sabam,2025,9921629,,,executed,src_sabam_jv2025_official,strong,JV2025 inhouding sociaal/cultureel/educatief fonds max 10pct netto rechten 9921629 JUMP; tick1706
 bud_sabam_social_old_payout_2025,cv_sabam,2025,1357885,,,executed,src_sabam_jv2025_official,strong,JV2025 uitbetaling oud KOHS-reglement 1357885 (424 begunstigden); tick1706
 bud_sabam_social_new_payout_2025,cv_sabam,2025,3953895,,,executed,src_sabam_jv2025_official,strong,JV2025 uitkering nieuw Voorzorgsplan 3953895; tick1706
+bud_auvibel_assets_2025,cv_auvibel,2025,26732470,,,executed,src_auvibel_jv2025_official,strong,JV2025/NBB balanstotaal 26732470 DROP; tick1707
+bud_auvibel_va_2025,cv_auvibel,2025,56511,,,executed,src_auvibel_jv2025_official,strong,JV2025 vaste activa 56511 JUMP; tick1707
+bud_auvibel_iva_2025,cv_auvibel,2025,35876,,,executed,src_auvibel_jv2025_official,strong,JV2025 IVA 35876 JUMP; tick1707
+bud_auvibel_mva_2025,cv_auvibel,2025,2129,,,executed,src_auvibel_jv2025_official,strong,JV2025 MVA 2129 DROP; tick1707
+bud_auvibel_fva_2025,cv_auvibel,2025,18506,,,executed,src_auvibel_jv2025_official,strong,JV2025 FVA/borg 18506 flat; tick1707
+bud_auvibel_vlottend_2025,cv_auvibel,2025,26675959,,,executed,src_auvibel_jv2025_official,strong,JV2025 vlottende activa 26675959; tick1707
+bud_auvibel_beleg_2025,cv_auvibel,2025,18899734,,,executed,src_auvibel_jv2025_official,strong,JV2025 geldbeleggingen 18899734 JUMP from 5750000; tick1707
+bud_auvibel_cash_2025,cv_auvibel,2025,1051460,,,executed,src_auvibel_jv2025_official,strong,JV2025 liquide middelen 1051460 DROP from 15168619; tick1707
+bud_auvibel_handelsrecv_2025,cv_auvibel,2025,836239,,,executed,src_auvibel_jv2025_official,strong,JV2025 handelsvorderingen ST 836239 JUMP; tick1707
+bud_auvibel_equity_2025,cv_auvibel,2025,56148,,,executed,src_auvibel_jv2025_official,strong,JV2025 eigen vermogen 56148 flat; tick1707
+bud_auvibel_debt_2025,cv_auvibel,2025,26657817,,,executed,src_auvibel_jv2025_official,strong,JV2025 schulden 26657817 (fiduciary-heavy); tick1707
+bud_auvibel_rechten_debt_st_2025,cv_auvibel,2025,26292848,,,executed,src_auvibel_jv2025_official,strong,JV2025 schulden rechten ST 26292848 (te verdelen 20698406 + afwachting inning 5513797); tick1707
+bud_auvibel_commissions_2025,cv_auvibel,2025,834685,,,executed,src_auvibel_jv2025_official,strong,JV2025/NBB omzet/commissies 834685 DROP ENVELOPE; tick1707
+bud_auvibel_opbr_2025,cv_auvibel,2025,838073,,,executed,src_auvibel_jv2025_official,strong,JV2025 bedrijfsopbrengsten 70/76A 838073; tick1707
+bud_auvibel_staff_2025,cv_auvibel,2025,401190,,,executed,src_auvibel_jv2025_official,strong,JV2025/NBB bezoldigingen 62 401190 / VTE 4.1; tick1707
+bud_auvibel_diensten_2025,cv_auvibel,2025,644200,,,executed,src_auvibel_jv2025_official,strong,JV2025 diensten 61 644200 JUMP; tick1707
+bud_auvibel_expl_2025,cv_auvibel,2025,-222516,,,executed,src_auvibel_jv2025_official,strong,JV2025 bedrijfsverlies -222516; tick1707
+bud_auvibel_pnl_2025,cv_auvibel,2025,0,,,executed,src_auvibel_jv2025_official,strong,JV2025 te bestemmen resultaat 0 (collecting society); tick1707
+bud_auvibel_vte_2025,cv_auvibel,2025,4.1,,,executed,src_auvibel_jv2025_official,strong,JV2025/NBB gemiddeld VTE 9087 4.1 DROP from 4.8; tick1707
+bud_auvibel_neto_collect_2025,cv_auvibel,2025,21318174,,,executed,src_auvibel_jv2025_official,strong,JV2025 netto bedragen (bruto-teruggaven) privékopie+leenrecht+onderwijs 21318173.53; tick1707
+bud_auvibel_privekopie_fact_2025,cv_auvibel,2025,22093111,,,executed,src_auvibel_jv2025_official,strong,JV2025 privékopie gefactureerd subtotaal 22093110.90 before teruggaven; tick1707
