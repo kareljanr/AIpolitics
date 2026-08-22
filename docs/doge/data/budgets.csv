@@ -50079,3 +50079,22 @@ bud_sintjozef_staff_2025,vzw_sint_jozef_rumst,2025,4236727,,,executed,src_sintjo
 bud_sintjozef_diensten_2025,vzw_sint_jozef_rumst,2025,508565,,,executed,src_sintjozef_nbb_ye2025,strong,NBB diensten 61 508565; tick1734
 bud_sintjozef_expl_2025,vzw_sint_jozef_rumst,2025,306204,,,executed,src_sintjozef_nbb_ye2025,strong,NBB bedrijfswinst 9901 306204; tick1734
 bud_sintjozef_pnl_2025,vzw_sint_jozef_rumst,2025,205527,,,executed,src_sintjozef_nbb_ye2025,strong,NBB PnL 9904 205527; AV 25.06.2026; Vyvey zonder voorbehoud; tick1734
+bud_molenheide_assets_2025,nv_molenheide_wzc,2025,29875847,,,executed,src_molenheide_nbb_ye2025,strong,NBB 20/58 assets 29875847; tick1735
+bud_molenheide_va_2025,nv_molenheide_wzc,2025,27963497,,,executed,src_molenheide_nbb_ye2025,strong,NBB VA 21/28 27963497; tick1735
+bud_molenheide_mva_2025,nv_molenheide_wzc,2025,12014497,,,executed,src_molenheide_nbb_ye2025,strong,NBB MVA 12014497 (leasing 11679862); tick1735
+bud_molenheide_fva_2025,nv_molenheide_wzc,2025,15949000,,,executed,src_molenheide_nbb_ye2025,strong,NBB FVA verbonden 15949000; FOI group map; tick1735
+bud_molenheide_vlottend_2025,nv_molenheide_wzc,2025,1912350,,,executed,src_molenheide_nbb_ye2025,strong,NBB vlottend 1912350; tick1735
+bud_molenheide_cash_2025,nv_molenheide_wzc,2025,435126,,,executed,src_molenheide_nbb_ye2025,strong,NBB liquide 435126 JUMP vs 56998; tick1735
+bud_molenheide_equity_2025,nv_molenheide_wzc,2025,3635494,,,executed,src_molenheide_nbb_ye2025,strong,NBB EV 3635494; tick1735
+bud_molenheide_debt_2025,nv_molenheide_wzc,2025,26240354,,,executed,src_molenheide_nbb_ye2025,strong,NBB schulden 26240354; tick1735
+bud_molenheide_lt_leasing_2025,nv_molenheide_wzc,2025,13862846,,,executed,src_molenheide_nbb_ye2025,strong,NBB LT leasingschulden 13862846; FOI counterpart; tick1735
+bud_molenheide_overlopende_2025,nv_molenheide_wzc,2025,10722381,,,executed,src_molenheide_nbb_ye2025,strong,NBB overlopende passiva 10722381; FOI; tick1735
+bud_molenheide_opbr_2025,nv_molenheide_wzc,2025,9017098,,,executed,src_molenheide_nbb_ye2025,strong,NBB bedrijfsopbrengsten 9017098; tick1735
+bud_molenheide_omzet_2025,nv_molenheide_wzc,2025,8434992,,,executed,src_molenheide_nbb_ye2025,strong,NBB omzet 70 8434992; FOI RIZIV split; tick1735
+bud_molenheide_andere_opbr_2025,nv_molenheide_wzc,2025,35314,,,executed,src_molenheide_nbb_ye2025,strong,NBB andere 74 35314; tick1735
+bud_molenheide_nietrec_opbr_2025,nv_molenheide_wzc,2025,546792,,,executed,src_molenheide_nbb_ye2025,strong,NBB niet-recurrente 76A 546792; FOI; tick1735
+bud_molenheide_staff_2025,nv_molenheide_wzc,2025,5001893,,,executed,src_molenheide_nbb_ye2025,strong,NBB 62 5001893 / VTE 89.2 DROP vs 93.6; tick1735
+bud_molenheide_diensten_2025,nv_molenheide_wzc,2025,1501671,,,executed,src_molenheide_nbb_ye2025,strong,NBB diensten 61 1501671 JUMP vs 1282547; tick1735
+bud_molenheide_expl_2025,nv_molenheide_wzc,2025,1094535,,,executed,src_molenheide_nbb_ye2025,strong,NBB bedrijfswinst 9901 1094535; tick1735
+bud_molenheide_fincost_2025,nv_molenheide_wzc,2025,573126,,,executed,src_molenheide_nbb_ye2025,strong,NBB financiële kosten 573126; tick1735
+bud_molenheide_pnl_2025,nv_molenheide_wzc,2025,405436,,,executed,src_molenheide_nbb_ye2025,strong,NBB PnL 9904 405436 retained (no dividend); AV 13.05.2026; Mazars zonder voorbehoud; tick1735
