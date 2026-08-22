@@ -49557,3 +49557,29 @@ bud_flanders_food_fininc_2025,vzw_flanders_food,2025,21,,,executed,src_flanders_
 bud_flanders_food_fincost_2025,vzw_flanders_food,2025,7220,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 financiele kosten 7220 DROP; tick1699
 bud_flanders_food_pnl_2025,vzw_flanders_food,2025,13814,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 winst 13814 JUMP; tick1699
 bud_flanders_food_vte_2025,vzw_flanders_food,2025,30.9,,,executed,src_flanders_food_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 30.9 JUMP from 30.0; eoy 27.9; tick1699
+bud_catalisti_assets_2025,vzw_catalisti,2025,3944503,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 balanstotaal 3944503 DROP from 3946160; tick1701
+bud_catalisti_va_2025,vzw_catalisti,2025,5500,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 vaste activa 5500 DROP (=FVA; MVA net 0); tick1701
+bud_catalisti_fva_2025,vzw_catalisti,2025,5500,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 financiele VA 5500 DROP from 6308; tick1701
+bud_catalisti_vlottend_2025,vzw_catalisti,2025,3939003,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 vlottende activa 3939003 DROP; tick1701
+bud_catalisti_handelsrecv_2025,vzw_catalisti,2025,17834,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 handelsvorderingen ST 17834 DROP; tick1701
+bud_catalisti_other_recv_2025,vzw_catalisti,2025,348889,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 overige vorderingen ST 348889 JUMP; tick1701
+bud_catalisti_beleg_2025,vzw_catalisti,2025,1497108,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 geldbeleggingen 1497108 JUMP; tick1701
+bud_catalisti_cash_2025,vzw_catalisti,2025,2058583,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 liquide middelen 2058583 DROP; tick1701
+bud_catalisti_prepaid_2025,vzw_catalisti,2025,16589,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 16589 JUMP; tick1701
+bud_catalisti_equity_2025,vzw_catalisti,2025,3606385,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 eigen vermogen 3606385 JUMP (=overgedragen); tick1701
+bud_catalisti_overgedragen_2025,vzw_catalisti,2025,3606385,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 overgedragen resultaat 3606385 JUMP; tick1701
+bud_catalisti_debt_2025,vzw_catalisti,2025,338118,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 schulden 338118 DROP; tick1701
+bud_catalisti_st_debt_2025,vzw_catalisti,2025,291155,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 schulden ST 291155 DROP; tick1701
+bud_catalisti_lev_2025,vzw_catalisti,2025,174850,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 leveranciers ST 174850 DROP; tick1701
+bud_catalisti_taxsoc_2025,vzw_catalisti,2025,116304,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 116304 (tax 1589 + soc 114716); tick1701
+bud_catalisti_accrued_2025,vzw_catalisti,2025,46963,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 46963 DROP; tick1701
+bud_catalisti_bruto_2025,vzw_catalisti,2025,1190795,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 brutomarge 9900 1190795 JUMP ENVELOPE; tick1701
+bud_catalisti_pers_2025,vzw_catalisti,2025,1078368,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 bezoldigingen 62 1078368 JUMP / 9.2 VTE; tick1701
+bud_catalisti_afschr_2025,vzw_catalisti,2025,249,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 afschrijvingen 630 249 DROP; tick1701
+bud_catalisti_andere_2025,vzw_catalisti,2025,12365,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 12365 JUMP; tick1701
+bud_catalisti_expl_2025,vzw_catalisti,2025,99813,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 bedrijfswinst 99813 DROP; tick1701
+bud_catalisti_fininc_2025,vzw_catalisti,2025,24493,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 financiele opbrengsten 24493 JUMP; tick1701
+bud_catalisti_fincost_2025,vzw_catalisti,2025,4394,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 financiele kosten 4394 JUMP; tick1701
+bud_catalisti_tax_2025,vzw_catalisti,2025,8310,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 belastingen 8310 JUMP; tick1701
+bud_catalisti_pnl_2025,vzw_catalisti,2025,111601,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 winst 111601 DROP; tick1701
+bud_catalisti_vte_2025,vzw_catalisti,2025,9.2,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 9.2 JUMP from 8.1; eoy 10.9; tick1701
