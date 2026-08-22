@@ -49069,3 +49069,50 @@ bud_amnesty_vl_pnl_2025,vzw_amnesty_vl,2025,42602,,,executed,src_amnesty_vl_jr20
 bud_amnesty_vl_vte_2025,vzw_amnesty_vl,2025,44.0,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 44.0 JUMP from 42.4; eoy 45.6; tick1684 OCR
 bud_amnesty_vl_commissaris_fee_2025,vzw_amnesty_vl,2025,7730,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 commissaris mandaat excl BTW 7730; VGD Bedrijfsrevisoren; tick1684 OCR
 bud_amnesty_vl_result_to_destin_2025,vzw_amnesty_vl,2025,92663,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 toevoeging bestemde fondsen 691 92663; tick1684 OCR
+bud_np_beheer_assets_2025,vzw_natuurpunt_beheer,2025,505062688,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 balanstotaal 505062688 JUMP from 460511603; tick1685 OCR
+bud_np_beheer_va_2025,vzw_natuurpunt_beheer,2025,455611070,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 vaste activa 455611070 JUMP; tick1685 OCR
+bud_np_beheer_iva_2025,vzw_natuurpunt_beheer,2025,509218,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 immateriele VA 509218 JUMP; tick1685 OCR
+bud_np_beheer_mva_2025,vzw_natuurpunt_beheer,2025,453475192,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 materiele VA 453475192 JUMP; tick1685 OCR
+bud_np_beheer_gebouwen_2025,vzw_natuurpunt_beheer,2025,448632741,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 terreinen/gebouwen 448632741 JUMP (nature reserves); tick1685 OCR
+bud_np_beheer_install_2025,vzw_natuurpunt_beheer,2025,1245644,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 installaties 1245644 JUMP; tick1685 OCR
+bud_np_beheer_meubilair_2025,vzw_natuurpunt_beheer,2025,1258285,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 meubilair/rollend 1258285 JUMP; tick1685 OCR
+bud_np_beheer_overige_mva_2025,vzw_natuurpunt_beheer,2025,2338522,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 overige MVA 2338522 JUMP; tick1685 OCR
+bud_np_beheer_fva_2025,vzw_natuurpunt_beheer,2025,1626660,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 financiele VA 1626660 JUMP; tick1685 OCR
+bud_np_beheer_vlottend_2025,vzw_natuurpunt_beheer,2025,49451618,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 vlottende activa 49451618 JUMP; tick1685 OCR
+bud_np_beheer_lt_other_recv_2025,vzw_natuurpunt_beheer,2025,1032393,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 overige vorderingen LT 1032393 JUMP; tick1685 OCR
+bud_np_beheer_handelsrecv_2025,vzw_natuurpunt_beheer,2025,4163109,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 handelsvorderingen ST 4163109 JUMP; tick1685 OCR
+bud_np_beheer_other_recv_2025,vzw_natuurpunt_beheer,2025,21847865,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 overige vorderingen ST 21847865 JUMP; tick1685 OCR
+bud_np_beheer_beleg_2025,vzw_natuurpunt_beheer,2025,9719817,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 geldbeleggingen 9719817 JUMP; tick1685 OCR
+bud_np_beheer_cash_2025,vzw_natuurpunt_beheer,2025,12443830,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 liquide middelen 12443830 JUMP; tick1685 OCR
+bud_np_beheer_prepaid_2025,vzw_natuurpunt_beheer,2025,244604,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 244604 JUMP; tick1685 OCR
+bud_np_beheer_equity_2025,vzw_natuurpunt_beheer,2025,455042604,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 eigen vermogen 455042604 JUMP; tick1685 OCR
+bud_np_beheer_fondsen_2025,vzw_natuurpunt_beheer,2025,149596,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 fondsen 149596 flat; tick1685 OCR
+bud_np_beheer_destin_2025,vzw_natuurpunt_beheer,2025,11876725,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 bestemde fondsen 11876725 JUMP; tick1685 OCR
+bud_np_beheer_overgedragen_2025,vzw_natuurpunt_beheer,2025,1850788,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 overgedragen winst 1850788 JUMP; tick1685 OCR
+bud_np_beheer_kapsubs_2025,vzw_natuurpunt_beheer,2025,441165496,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 kapitaalsubsidies 441165496 JUMP (land acquisition); tick1685 OCR
+bud_np_beheer_voorzieningen_2025,vzw_natuurpunt_beheer,2025,1850000,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 voorzieningen 1850000 JUMP; tick1685 OCR
+bud_np_beheer_debt_2025,vzw_natuurpunt_beheer,2025,48170084,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 schulden 48170084 JUMP; tick1685 OCR
+bud_np_beheer_lt_fin_2025,vzw_natuurpunt_beheer,2025,8866665,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 financiele schulden LT 8866665 JUMP; tick1685 OCR
+bud_np_beheer_lt_other_2025,vzw_natuurpunt_beheer,2025,14355724,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 overige schulden LT 14355724 JUMP; tick1685 OCR
+bud_np_beheer_st_current_lt_2025,vzw_natuurpunt_beheer,2025,1655032,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 LT binnen jaar 1655032 JUMP; tick1685 OCR
+bud_np_beheer_lev_2025,vzw_natuurpunt_beheer,2025,3420699,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 leveranciers ST 3420699 JUMP; tick1685 OCR
+bud_np_beheer_taxsoc_2025,vzw_natuurpunt_beheer,2025,2935648,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 2935648 (tax 264015 + soc 2671633); tick1685 OCR
+bud_np_beheer_other_st_2025,vzw_natuurpunt_beheer,2025,6756497,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 overige schulden ST 6756497 JUMP; tick1685 OCR
+bud_np_beheer_accrued_2025,vzw_natuurpunt_beheer,2025,10179819,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 10179819 JUMP; tick1685 OCR
+bud_np_beheer_opbr_2025,vzw_natuurpunt_beheer,2025,35420350,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 bedrijfsopbrengsten 70/76A 35420350 JUMP ENVELOPE; tick1685 OCR
+bud_np_beheer_omzet_2025,vzw_natuurpunt_beheer,2025,5486917,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 omzet 70 5486917 JUMP; tick1685 OCR
+bud_np_beheer_code73_2025,vzw_natuurpunt_beheer,2025,29280513,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 lidgeld/schenkingen/legaten/subsidies 73 29280513 JUMP; tick1685 OCR
+bud_np_beheer_andere_opbr_2025,vzw_natuurpunt_beheer,2025,476521,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 andere bedrijfsopbrengsten 74 476521 JUMP; tick1685 OCR
+bud_np_beheer_nr_opbr_2025,vzw_natuurpunt_beheer,2025,176399,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfsopbrengsten 76A 176399 DROP; tick1685 OCR
+bud_np_beheer_goederen_2025,vzw_natuurpunt_beheer,2025,1880008,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 handelsgoederen 60 1880008 JUMP; tick1685 OCR
+bud_np_beheer_diensten_2025,vzw_natuurpunt_beheer,2025,11620553,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 diensten/diverse 61 11620553 JUMP; tick1685 OCR
+bud_np_beheer_pers_2025,vzw_natuurpunt_beheer,2025,15269444,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 bezoldigingen 62 15269444 JUMP / eoy VTE 177.0; tick1685 OCR
+bud_np_beheer_afschr_2025,vzw_natuurpunt_beheer,2025,4844733,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 afschrijvingen 630 4844733 JUMP; tick1685 OCR
+bud_np_beheer_andere_kost_2025,vzw_natuurpunt_beheer,2025,1271755,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 1271755 JUMP; tick1685 OCR
+bud_np_beheer_expl_2025,vzw_natuurpunt_beheer,2025,532747,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 bedrijfswinst 532747 JUMP; tick1685 OCR
+bud_np_beheer_fininc_2025,vzw_natuurpunt_beheer,2025,409083,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 financiele opbrengsten 409083 JUMP; tick1685 OCR
+bud_np_beheer_fincost_2025,vzw_natuurpunt_beheer,2025,439714,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 financiele kosten 439714 JUMP; tick1685 OCR
+bud_np_beheer_tax_2025,vzw_natuurpunt_beheer,2025,2057,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 belastingen op resultaat 2057 JUMP; tick1685 OCR
+bud_np_beheer_pnl_2025,vzw_natuurpunt_beheer,2025,500059,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 winst 500059 JUMP from 468720; tick1685 OCR
+bud_np_beheer_vte_eoy_2025,vzw_natuurpunt_beheer,2025,177.0,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 eoy VTE code105 177.0 (184 headcount; avg VTE 100 empty this OCR); tick1685 OCR
+bud_np_beheer_commissaris_fee_2025,vzw_natuurpunt_beheer,2025,25000,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 commissaris mandaat excl BTW 25000; Clybouw; tick1685 OCR
