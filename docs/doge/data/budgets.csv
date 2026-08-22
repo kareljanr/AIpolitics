@@ -50348,3 +50348,15 @@ bud_felicite_expl_2025,bv_felicite,2025,-107483,,,realized,src_felicite_jr2025_n
 bud_felicite_pnl_2025,bv_felicite,2025,-124697,,,realized,src_felicite_jr2025_nbb,strong,PnL -124697; tick1757
 bud_felicite_cash_2025,bv_felicite,2025,193816,,,stock,src_felicite_jr2025_nbb,strong,Cash 193816 DROP vs 254196; tick1757
 bud_felicite_fin_charges_2025,bv_felicite,2025,17247,,,realized,src_felicite_jr2025_nbb,strong,Financial charges 17247; tick1757
+bud_demolen_assets_2025,nv_demolen,2025,5482273,,,stock,src_demolen_jr2025_nbb,strong,Assets YE2025 5482273; tick1758
+bud_demolen_equity_2025,nv_demolen,2025,2539596,,,stock,src_demolen_jr2025_nbb,strong,Equity 2539596; tick1758
+bud_demolen_debt_2025,nv_demolen,2025,2942676,,,stock,src_demolen_jr2025_nbb,strong,Debt 2942676; tick1758
+bud_demolen_opbr_2025,nv_demolen,2025,14956913,,,realized,src_demolen_jr2025_nbb,strong,Bedrijfsopbrengsten 14956913; tick1758
+bud_demolen_omzet_2025,nv_demolen,2025,14900570,,,realized,src_demolen_jr2025_nbb,strong,Omzet 14900570; tick1758
+bud_demolen_staff_2025,nv_demolen,2025,9534557,,,realized,src_demolen_jr2025_nbb,strong,Staff 9534557 / VTE 140; tick1758
+bud_demolen_diensten_2025,nv_demolen,2025,3762447,,,realized,src_demolen_jr2025_nbb,strong,Diensten 3762447; tick1758
+bud_demolen_expl_2025,nv_demolen,2025,443322,,,realized,src_demolen_jr2025_nbb,strong,Exploitation profit 443322; tick1758
+bud_demolen_pnl_2025,nv_demolen,2025,335962,,,realized,src_demolen_jr2025_nbb,strong,PnL 335962 retained; tick1758
+bud_demolen_related_recv_2025,nv_demolen,2025,2843829,,,stock,src_demolen_jr2025_nbb,strong,Related-party receivables on controlling persons 2843829; tick1758
+bud_demolen_cash_2025,nv_demolen,2025,1045083,,,stock,src_demolen_jr2025_nbb,strong,Cash 1045083; tick1758
+bud_demolen_commissaris_2025,nv_demolen,2025,9354,,,realized,src_demolen_jr2025_nbb,strong,Commissaris fee 9354; tick1758

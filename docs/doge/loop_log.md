@@ -20983,3 +20983,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; entities +1 bv_felicite; budgets +10; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1757=done + rq_1758 spawn; ticks_completed=1757. Raw docs/doge/raw/tick1757/.
 - FOI opened: gap_felicite_bruto_1_52m_equity_neg_0_38m_comfort_l5 ready (omzet/comfort/LT loan/Art5153). Do not send.
 - Next: rq_1758 leftover AGB/**NSZ if CDN 200**/Bosgroep/Brembloem-if-200/Dijk92 / APEFE / HVZ-VBWest. Do NOT redo Felicite/Vivalys continuum. NOT every-10 (next **1760**).
+
+### 2026-08-24T12:45:00Z - tick 1758
+- Unit: rq_1758 De Molen NV / Residentie Stuivenberg (leftover VL WZC Evergem / Vivalto dual Felicite) (KBO **0442.827.764**; NV; Patrijzenstraat 112 9940 Evergem; NACE **87.30**; vivaltohome.com/nl/maisons/stuivenberg/; administratiebrembloemstuivenberg@vivaltohome.com; official NBB **VOL-kap** YE2025 deposit **2026-00176214** CDN **200**; AV **22.05.2026**; commissaris Forvis Mazars / Francois Collie fee **9354**; moeder Vivalto Home Belgium NV). Honest leftover AGB Bornem still JR2024-only. Brembloem VZW **0863.576.449** still no JR2025 CDN. NSZ/Dijk92/APEFE CDN **403**. Preferred AGB/Brembloem blocked - leftover De Molen/Stuivenberg official NBB JR2025 **live** taken. New entity nv_demolen. Envelope = bedrijfsopbr **14956913**. NOT every-10 (next **1760 MUST**).
+- Found (NBB YE2025 strong): assets **5482273**; equity **2539596**; debt **2942676**; bedrijfsopbr **14956913** (omzet **14900570**; andere **53604**); staff **9534557** / VTE **140**; diensten **3762447**; expl **443322**; PnL **335962** retained; related-party receivables **2843829**.
+- Wrote: sources +3; entities +1 nv_demolen; budgets +12; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1758=done + rq_1759 spawn; ticks_completed=1758. Raw docs/doge/raw/tick1758/.
+- FOI opened: gap_demolen_omzet_14_90m_staff_9_53m_related_recv_2_84m_l5 ready (RIZIV/related recv/Brembloem). Do not send.
+- Next: rq_1759 leftover AGB/**NSZ if CDN 200**/Bosgroep/Brembloem-if-200/Dijk92 / APEFE / HVZ-VBWest. Do NOT redo DeMolen/Felicite/Vivalys. **Tick 1760 MUST every-10.**
