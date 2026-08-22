@@ -50152,3 +50152,20 @@ bud_colisee_be_services_2025,nv_colisee_belgium,2025,2238050,,,executed,src_coli
 bud_colisee_be_fincost_2025,nv_colisee_belgium,2025,83513826,,,executed,src_colisee_be_nbb_ye2025,strong,NBB charges financières 83513826 (non-rec 71953267); tick1738
 bud_colisee_be_expl_2025,nv_colisee_belgium,2025,-2239047,,,executed,src_colisee_be_nbb_ye2025,strong,NBB perte d'exploitation 9901 -2239047; tick1738
 bud_colisee_be_pnl_2025,nv_colisee_belgium,2025,-79747564,,,executed,src_colisee_be_nbb_ye2025,strong,NBB PnL 9904 -79747564 LOSS; AV 30.06.2026; EY sans réserve + Art 7:228/7:229; tick1738
+bud_prinsenhof_assets_2025,vzw_prinsenhof,2025,8445494,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB 20/58 assets 8445494; tick1739
+bud_prinsenhof_va_2025,vzw_prinsenhof,2025,6240159,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB VA 6240159; tick1739
+bud_prinsenhof_leasing_mva_2025,vzw_prinsenhof,2025,5844871,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB leasing MVA 5844871; tick1739
+bud_prinsenhof_vlottend_2025,vzw_prinsenhof,2025,2205335,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB vlottend 2205335; tick1739
+bud_prinsenhof_cash_2025,vzw_prinsenhof,2025,430498,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB liquide 430498 JUMP vs 61455; tick1739
+bud_prinsenhof_equity_2025,vzw_prinsenhof,2025,-766800,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB EV -766800 NEG (improved vs -2215469); Vivalto comfort; tick1739
+bud_prinsenhof_debt_2025,vzw_prinsenhof,2025,9212294,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB schulden 9212294; tick1739
+bud_prinsenhof_lt_achtergesteld_2025,vzw_prinsenhof,2025,4227992,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB LT achtergesteld 4227992; FOI; tick1739
+bud_prinsenhof_lt_leasing_2025,vzw_prinsenhof,2025,3501999,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB LT leasing 3501999; FOI; tick1739
+bud_prinsenhof_opbr_2025,vzw_prinsenhof,2025,4902312,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB bedrijfsopbrengsten 4902312; tick1739
+bud_prinsenhof_omzet_2025,vzw_prinsenhof,2025,4858856,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB omzet 70 4858856; code73 empty; FOI RIZIV; tick1739
+bud_prinsenhof_andere_opbr_2025,vzw_prinsenhof,2025,43456,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB andere 74 43456; tick1739
+bud_prinsenhof_staff_2025,vzw_prinsenhof,2025,3230598,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB 62 3230598 / VTE 59.9 DROP vs 63.9; tick1739
+bud_prinsenhof_diensten_2025,vzw_prinsenhof,2025,568168,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB diensten 61 568168; tick1739
+bud_prinsenhof_expl_2025,vzw_prinsenhof,2025,298488,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB bedrijfswinst 9901 298488 FLIP vs -243153; tick1739
+bud_prinsenhof_pnl_2025,vzw_prinsenhof,2025,43669,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB PnL 9904 43669 FLIP; AV 22.05.2026; Mazars zonder voorbehoud; tick1739
+bud_prinsenhof_onttrekking_ev_2025,vzw_prinsenhof,2025,1405000,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB onttrkking eigen vermogen 1405000 (resultaatverwerking); FOI; tick1739
