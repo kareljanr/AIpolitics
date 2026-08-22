@@ -49742,3 +49742,20 @@ bud_welzijnszorg_staff_2024,vzw_welzijnszorg,2024,1514311,,,executed,src_welzijn
 bud_welzijnszorg_expl_2024,vzw_welzijnszorg,2024,-244632,,,executed,src_welzijnszorg_nbb_2025_00186633,strong,NBB bedrijfsverlies -244632; tick1711
 bud_welzijnszorg_pnl_2024,vzw_welzijnszorg,2024,-233961,,,executed,src_welzijnszorg_nbb_2025_00186633,strong,NBB verlies boekjaar -233961; tick1711
 bud_welzijnszorg_vte_2024,vzw_welzijnszorg,2024,20.4,,,executed,src_welzijnszorg_nbb_2025_00186633,strong,NBB 9087 gemiddeld VTE 20.4 DROP from 22.3; tick1711
+bud_sofam_assets_2025,cv_sofam,2025,6943084,,,executed,src_sofam_jv2025_official,strong,JV2025 VA 322252 + vlottend 6620832 = 6943084; tick1712
+bud_sofam_va_2025,cv_sofam,2025,322252,,,executed,src_sofam_jv2025_official,strong,JV2025 vaste activa 322252; tick1712
+bud_sofam_vlottend_2025,cv_sofam,2025,6620832,,,executed,src_sofam_jv2025_official,strong,JV2025 vlottende activa 6620832; tick1712
+bud_sofam_beleg_2025,cv_sofam,2025,1814151,,,executed,src_sofam_jv2025_official,strong,JV2025 geldbeleggingen 1814151 DROP; tick1712
+bud_sofam_cash_2025,cv_sofam,2025,4716212,,,executed,src_sofam_jv2025_official,strong,JV2025 liquide middelen 4716212 JUMP; tick1712
+bud_sofam_equity_2025,cv_sofam,2025,468830,,,executed,src_sofam_jv2025_official,strong,JV2025 eigen vermogen 468830; tick1712
+bud_sofam_debt_2025,cv_sofam,2025,6474254,,,executed,src_sofam_jv2025_official,strong,JV2025 schulden 6474254; tick1712
+bud_sofam_rechten_debt_2025,cv_sofam,2025,5736098,,,executed,src_sofam_jv2025_official,strong,JV2025 schulden rechten 5736098 (LT te verdelen gereserveerd 1091525 + ST); tick1712
+bud_sofam_commissions_2025,cv_sofam,2025,830398,,,executed,src_sofam_jv2025_official,strong,JV2025 omzet/commissies 70 830398 ENVELOPE; tick1712
+bud_sofam_opbr_2025,cv_sofam,2025,838326,,,executed,src_sofam_jv2025_official,strong,JV2025 bedrijfsopbrengsten 70/74 838326; tick1712
+bud_sofam_staff_2025,cv_sofam,2025,538095,,,executed,src_sofam_jv2025_official,strong,JV2025 bezoldigingen 62 538095; tick1712
+bud_sofam_diensten_2025,cv_sofam,2025,464044,,,executed,src_sofam_jv2025_official,strong,JV2025 diensten en diverse goederen 61 464044; tick1712
+bud_sofam_expl_2025,cv_sofam,2025,-23515,,,executed,src_sofam_jv2025_official,strong,JV2025 bedrijfswinst/verlies -23515; tick1712
+bud_sofam_pnl_2025,cv_sofam,2025,6287,,,executed,src_sofam_jv2025_official,strong,JV2025 winst boekjaar 6287; tick1712
+bud_sofam_inningen_2025,cv_sofam,2025,4204681,,,executed,src_sofam_jv2025_official,strong,Transparantie/JV2025 totale inningen 4204681; tick1712
+bud_sofam_beheers_a_2025,cv_sofam,2025,1183446,,,executed,src_sofam_jv2025_official,strong,Transparantie DEEL2 A totaal kosten 1183446; tick1712
+bud_sofam_nettokosten_2025,cv_sofam,2025,816121,,,executed,src_sofam_jv2025_official,strong,Transparantie DEEL2 B nettokosten 816121 (ratio 19.41%); tick1712
