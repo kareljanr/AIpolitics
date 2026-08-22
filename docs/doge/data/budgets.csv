@@ -50024,3 +50024,21 @@ bud_terengelen_staff_2025,vzw_ter_engelen,2025,5878986,,,executed,src_ter_engele
 bud_terengelen_diensten_2025,vzw_ter_engelen,2025,1584761,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB diensten 61 1584761 JUMP vs 802286; tick1731
 bud_terengelen_expl_2025,vzw_ter_engelen,2025,-349347,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB bedrijfswinst 9901 -349347 LOSS FLIP; tick1731
 bud_terengelen_pnl_2025,vzw_ter_engelen,2025,-482826,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB PnL 9904 -482826 LOSS FLIP; AV 20.05.2026; tick1731
+bud_wittemeren_assets_2025,vzw_witte_meren,2025,15422948,,,executed,src_witte_meren_nbb_ye2025,strong,NBB 20/58 assets 15422948; tick1732
+bud_wittemeren_va_2025,vzw_witte_meren,2025,13995679,,,executed,src_witte_meren_nbb_ye2025,strong,NBB VA 21/28 13995679; tick1732
+bud_wittemeren_buildings_2025,vzw_witte_meren,2025,13560957,,,executed,src_witte_meren_nbb_ye2025,strong,NBB terreinen/gebouwen 13560957 hypothecated; tick1732
+bud_wittemeren_vlottend_2025,vzw_witte_meren,2025,1427269,,,executed,src_witte_meren_nbb_ye2025,strong,NBB vlottend 1427269; tick1732
+bud_wittemeren_cash_2025,vzw_witte_meren,2025,495219,,,executed,src_witte_meren_nbb_ye2025,strong,NBB liquide 495219 JUMP vs 198360; tick1732
+bud_wittemeren_equity_2025,vzw_witte_meren,2025,6885941,,,executed,src_witte_meren_nbb_ye2025,strong,NBB EV 6885941; tick1732
+bud_wittemeren_kapsubs_2025,vzw_witte_meren,2025,287131,,,executed,src_witte_meren_nbb_ye2025,strong,NBB kapitaalsubsidies 287131; tick1732
+bud_wittemeren_debt_2025,vzw_witte_meren,2025,8537008,,,executed,src_witte_meren_nbb_ye2025,strong,NBB schulden 8537008; tick1732
+bud_wittemeren_lt_fin_2025,vzw_witte_meren,2025,6549981,,,executed,src_witte_meren_nbb_ye2025,strong,NBB LT kredietinstellingen 6549981; tick1732
+bud_wittemeren_zekerheid_2025,vzw_witte_meren,2025,7074981,,,executed,src_witte_meren_nbb_ye2025,strong,NBB schulden zakelijke zekerheid 7074981; tick1732
+bud_wittemeren_opbr_2025,vzw_witte_meren,2025,9532998,,,executed,src_witte_meren_nbb_ye2025,strong,NBB bedrijfsopbrengsten 9532998; tick1732
+bud_wittemeren_omzet_2025,vzw_witte_meren,2025,7975593,,,executed,src_witte_meren_nbb_ye2025,strong,NBB omzet 70 7975593 = dagprijs 3459174 + basistegemoetkoming zorg 4474822; tick1732
+bud_wittemeren_code73_2025,vzw_witte_meren,2025,1465035,,,executed,src_witte_meren_nbb_ye2025,strong,NBB code73 1465035 (subsidies 733 1464898); tick1732
+bud_wittemeren_subs_2025,vzw_witte_meren,2025,1464898,,,executed,src_witte_meren_nbb_ye2025,strong,NBB subsidies 733 1464898; donor split FOI; tick1732
+bud_wittemeren_staff_2025,vzw_witte_meren,2025,7064455,,,executed,src_witte_meren_nbb_ye2025,strong,NBB 62 7064455 / VTE 107.4; tick1732
+bud_wittemeren_diensten_2025,vzw_witte_meren,2025,1112397,,,executed,src_witte_meren_nbb_ye2025,strong,NBB diensten 61 1112397; tick1732
+bud_wittemeren_expl_2025,vzw_witte_meren,2025,328956,,,executed,src_witte_meren_nbb_ye2025,strong,NBB bedrijfswinst 9901 328956; tick1732
+bud_wittemeren_pnl_2025,vzw_witte_meren,2025,195470,,,executed,src_witte_meren_nbb_ye2025,strong,NBB PnL 9904 195470; AV 12.05.2026; tick1732

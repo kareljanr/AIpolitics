@@ -4002,3 +4002,7 @@ src_ter_engelen_nbb_ye2025,WZC Ter Engelen NBB VOL-VZW YE2025 deposit 2026-00322
 src_ter_engelen_kbo,WZC Ter Engelen KBO 0430.882.809,https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=430882809,KBO,2026-08-24,primary_official,tick1731; VZW; Polderstraat 4 9160 Lokeren
 src_ter_engelen_portal,Ter Engelen official portal,https://www.terengelen.be,Woonzorgcentrum Ter Engelen / Covida,2026-08-24,primary_official,tick1731; WZC Lokeren
 src_ter_engelen_foi_contact_1731,Ter Engelen FOI channel,https://www.terengelen.be,Woonzorgcentrum Ter Engelen VZW,2026-08-24,foi_contact,tick1731; info@covida.be; Polderstraat 4 9160 Lokeren
+src_witte_meren_nbb_ye2025,WZC Witte Meren NBB VOL-VZW YE2025 deposit 2026-00123787,http://cdn.staatsbladmonitor.be/2026pdf/2026-00123787.pdf,NBB / Staatsbladmonitor CDN,2026-08-24,primary_official,tick1732; AV 12.05.2026; assets 15422948 opbr 9532998 staff 7064455 VTE 107.4 pnl 195470
+src_witte_meren_kbo,WZC Witte Meren KBO 0418.234.997,https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=418234997,KBO,2026-08-24,primary_official,tick1732; VZW; Collegestraat 69 2400 Mol
+src_witte_meren_portal,Witte Meren official portal,https://www.wzcwittemeren.be,Woonzorgcentrum Witte Meren,2026-08-24,primary_official,tick1732; WZC Mol
+src_witte_meren_foi_contact_1732,Witte Meren FOI channel,https://www.wzcwittemeren.be,Woonzorgcentrum Witte Meren VZW,2026-08-24,foi_contact,tick1732; info@wzcwittemeren.be; Collegestraat 69 2400 Mol

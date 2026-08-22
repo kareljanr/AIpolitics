@@ -20799,3 +20799,10 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_terengelen_opbr_8_06m_staff_5_88m_loss_0_48m_l5 ready (code73 donor / diensten JUMP / Covida / AV). Do not send.
 - Next: rq_1732 leftover AGB/**WZC Witte Meren if CDN 200**/NSZ if CDN 200 / Bosgroep/Dijk92 / APEFE / ABS/POV/BVAS / IOED/HVZ/IGS/WZC/LSC. Do NOT redo TerEngelen/LSC/Dommelhof/GO!/Natuurpunt. NOT every-10 (next **1740**).
 
+
+### 2026-08-24T02:45:00Z - tick 1732
+- Unit: rq_1732 Woonzorgcentrum Witte Meren VZW (leftover VL WZC Mol) (KBO **0418.234.997**; VZW; Collegestraat 69 2400 Mol; wzcwittemeren.be; info@wzcwittemeren.be; official NBB **VOL-VZW** YE2025 deposit **2026-00123787** CDN **200**; AV **12.05.2026**; commissaris Callens Vandelanotte). Honest leftover AGB Bornem still JR2024-only. NSZ CDN **403**. Dijk92 CDN **403**. APEFE CDN **403**. Preferred AGB/NSZ still blocked — leftover Witte Meren official NBB JR2025 **live** taken (WZC residual after Ter Engelen). New entity vzw_witte_meren. Envelope = bedrijfsopbrengsten **9532998**. NOT every-10 (next 1740).
+- Found (NBB YE2025 strong): assets **15422948** (VA **13995679** / buildings **13560957** hypothecated / cash **495219** JUMP); equity **6885941** (fondsen **4316973** / destin **2099067** / overgedragen **182769** / kapsubs **287131**); debt **8537008** (LT krediet **6549981** / zakelijke zekerheid **7074981**); opbr **9532998** (omzet **7975593** = dagprijs **3459174** + basistegemoetkoming zorg **4474822**; code73 **1465035** / subsidies **1464898**); staff **7064455** / VTE **107,4**; diensten **1112397**; expl **328956**; PnL **195470**.
+- Wrote: sources +4; entities +1 vzw_witte_meren; budgets +18; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1732=done + rq_1733 spawn; ticks_completed=1732. Raw docs/doge/raw/tick1732/.
+- FOI opened: gap_wittemeren_opbr_9_53m_staff_7_06m_subs_1_46m_l5 ready (subsidy donor / hypotheek / kapsubs / AV). Do not send.
+- Next: rq_1733 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 / APEFE / ABS/POV/BVAS / IOED/HVZ/IGS/WZC/LSC. Do NOT redo WitteMeren/TerEngelen/LSC/Dommelhof/GO!/Natuurpunt. NOT every-10 (next **1740**).
