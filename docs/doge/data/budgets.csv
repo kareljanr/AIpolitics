@@ -49937,3 +49937,21 @@ bud_np_studie_beheerwerken_rev_2025,vzw_natuurpunt,2025,7520157,,,executed,src_n
 bud_np_beheer_exp_2025,vzw_natuurpunt,2025,42694096,,,executed,src_natuurpunt_jr2025,strong,JR2025 beheer natuurgebieden 42694096 =61pct uitgaven; tick1724
 bud_np_aankopen_exp_2025,vzw_natuurpunt,2025,12681503,,,executed,src_natuurpunt_jr2025,strong,JR2025 aankopen natuurgebieden 12681503 =18pct; tick1724
 bud_np_overhead_2025,vzw_natuurpunt,2025,4174454,,,executed,src_natuurpunt_jr2025,strong,JR2025 overhead 4174454 =6pct; tick1724
+bud_go_assets_2024,voi_go,2024,1162467000,,,executed,src_go_jr2024,strong,JR2024 centrale diensten assets 1162467 kEUR; tick1725
+bud_go_va_2024,voi_go,2024,966544000,,,executed,src_go_jr2024,strong,JR2024 VA 966544 kEUR; tick1725
+bud_go_mva_2024,voi_go,2024,962218000,,,executed,src_go_jr2024,strong,JR2024 MVA 962218 kEUR; tick1725
+bud_go_buildings_2024,voi_go,2024,675677000,,,executed,src_go_jr2024,strong,JR2024 terreinen/gebouwen 675677 kEUR; tick1725
+bud_go_cip_2024,voi_go,2024,285837000,,,executed,src_go_jr2024,strong,JR2024 activa in aanbouw 285837 kEUR; tick1725
+bud_go_vlottend_2024,voi_go,2024,195923000,,,executed,src_go_jr2024,strong,JR2024 vlottend 195923 kEUR; tick1725
+bud_go_beleg_2024,voi_go,2024,174000000,,,executed,src_go_jr2024,strong,JR2024 geldbeleggingen 174000 kEUR; tick1725
+bud_go_cash_2024,voi_go,2024,52708000,,,executed,src_go_jr2024,strong,JR2024 liquide 52708 kEUR JUMP vs 5985k; tick1725
+bud_go_equity_2024,voi_go,2024,1104267000,,,executed,src_go_jr2024,strong,JR2024 EV 1104267 kEUR; tick1725
+bud_go_kapsubs_2024,voi_go,2024,700003000,,,executed,src_go_jr2024,strong,JR2024 kapitaalsubsidies 700003 kEUR; tick1725
+bud_go_debt_2024,voi_go,2024,40687000,,,executed,src_go_jr2024,strong,JR2024 schulden 40687 kEUR; tick1725
+bud_go_st_fin_debt_2024,voi_go,2024,20775000,,,executed,src_go_jr2024,strong,JR2024 ST fin schulden kredietinstellingen 20775 kEUR; tick1725
+bud_go_opbr_2024,voi_go,2024,48780000,,,executed,src_go_jr2024,strong,JR2024 bedrijfsopbrengsten 48780 kEUR; omzet 70 empty; tick1725
+bud_go_code73_2024,voi_go,2024,46621000,,,executed,src_go_jr2024,strong,JR2024 andere bedrijfsopbrengsten 73/74 46621 kEUR; tick1725
+bud_go_staff_2024,voi_go,2024,17574000,,,executed,src_go_jr2024,strong,JR2024 bezoldigingen 62 17574 kEUR; VTE Unknown; tick1725
+bud_go_diensten_2024,voi_go,2024,22785000,,,executed,src_go_jr2024,strong,JR2024 diensten 61 22785 kEUR; tick1725
+bud_go_expl_2024,voi_go,2024,-33533000,,,executed,src_go_jr2024,strong,JR2024 bedrijfswinst 9901 -33533 kEUR LOSS; tick1725
+bud_go_pnl_2024,voi_go,2024,6388000,,,executed,src_go_jr2024,strong,JR2024 PnL 9904 +6388 kEUR; Raad 21.03.2025; tick1725
