@@ -49872,3 +49872,14 @@ bud_boerenbond_diensten_2024,vzw_boerenbond,2024,11138840,,,executed,src_boerenb
 bud_boerenbond_staff_2024,vzw_boerenbond,2024,15832262,,,executed,src_boerenbond_nbb_ye2024,strong,NBB 62 bezoldigingen 15832262 / VTE 146.3; tick1718
 bud_boerenbond_expl_2024,vzw_boerenbond,2024,-1074692,,,executed,src_boerenbond_nbb_ye2024,strong,NBB bedrijfswinst 9901 -1074692; tick1718
 bud_boerenbond_pnl_2024,vzw_boerenbond,2024,-922869,,,executed,src_boerenbond_nbb_ye2024,strong,NBB PnL 9904 -922869; AV 16.06.2025; tick1718
+bud_lgilden_assets_2025,vzw_landelijke_gilden,2025,1752932,,,executed,src_lgilden_nbb_ye2025,strong,NBB 20/58 assets 1752932; tick1719
+bud_lgilden_va_2025,vzw_landelijke_gilden,2025,230073,,,executed,src_lgilden_nbb_ye2025,strong,NBB VA 21/28 230073 (IVA 214418 MVA 15630); tick1719
+bud_lgilden_vlottend_2025,vzw_landelijke_gilden,2025,1522859,,,executed,src_lgilden_nbb_ye2025,strong,NBB vlottend 29/58 1522859; tick1719
+bud_lgilden_cash_2025,vzw_landelijke_gilden,2025,412400,,,executed,src_lgilden_nbb_ye2025,strong,NBB liquide 54/58 412400 UP vs 364228; tick1719
+bud_lgilden_debt_2025,vzw_landelijke_gilden,2025,1724265,,,executed,src_lgilden_nbb_ye2025,strong,NBB schulden 17/49 1724265; EV codes empty (passiva=voorz+schulden); tick1719
+bud_lgilden_voorzieningen_2025,vzw_landelijke_gilden,2025,28667,,,executed,src_lgilden_nbb_ye2025,strong,NBB voorzieningen 16 28667; tick1719
+bud_lgilden_bruto_2025,vzw_landelijke_gilden,2025,3827855,,,executed,src_lgilden_nbb_ye2025,strong,NBB brutomarge 9900 3827855; 70/73 empty VKT; tick1719
+bud_lgilden_staff_2025,vzw_landelijke_gilden,2025,3641141,,,executed,src_lgilden_nbb_ye2025,strong,NBB 62 3641141 / VTE 35.4; tick1719
+bud_lgilden_afschr_2025,vzw_landelijke_gilden,2025,185938,,,executed,src_lgilden_nbb_ye2025,strong,NBB 630 afschrijvingen 185938; tick1719
+bud_lgilden_expl_2025,vzw_landelijke_gilden,2025,-1185,,,executed,src_lgilden_nbb_ye2025,strong,NBB bedrijfswinst 9901 -1185; tick1719
+bud_lgilden_pnl_before_tax_2025,vzw_landelijke_gilden,2025,9,,,executed,src_lgilden_nbb_ye2025,strong,NBB 9903 9; tax 9; 9904 empty ~0; tick1719
