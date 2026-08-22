@@ -47749,3 +47749,34 @@ bud_femma_fincost_2025,vzw_femma,2025,5837,,,executed,src_femma_jr2025_nbb,stron
 bud_femma_tax_2025,vzw_femma,2025,55804,,,executed,src_femma_jr2025_nbb,strong,YE2025 belastingen 55804 JUMP; tick1641
 bud_femma_pnl_2025,vzw_femma,2025,-217075,,,executed,src_femma_jr2025_nbb,strong,YE2025 verlies -217075 LOSS; tick1641
 bud_femma_commissaris_fee_2025,vzw_femma,2025,15190,,,executed,src_femma_jr2025_nbb,strong,YE2025 commissaris ereloon 15190; tick1641
+bud_neos_assets_2025,vzw_neos,2025,2686160,,,executed,src_neos_jr2025_nbb,strong,YE2025 balanstotaal 2686160 DROP from 2805493; tick1642
+bud_neos_va_2025,vzw_neos,2025,1212850,,,executed,src_neos_jr2025_nbb,strong,YE2025 vaste activa 1212850 DROP (=MVA); tick1642
+bud_neos_mva_2025,vzw_neos,2025,1212850,,,executed,src_neos_jr2025_nbb,strong,YE2025 materiele VA 1212850 DROP (gebouwen 1004914); tick1642
+bud_neos_vlottend_2025,vzw_neos,2025,1473311,,,executed,src_neos_jr2025_nbb,strong,YE2025 vlottende activa 1473311 DROP; tick1642
+bud_neos_voorraden_2025,vzw_neos,2025,21988,,,executed,src_neos_jr2025_nbb,strong,YE2025 voorraden 21988 JUMP; tick1642
+bud_neos_handelsrecv_2025,vzw_neos,2025,435619,,,executed,src_neos_jr2025_nbb,strong,YE2025 handelsvorderingen ST 435619 JUMP; tick1642
+bud_neos_other_recv_2025,vzw_neos,2025,84070,,,executed,src_neos_jr2025_nbb,strong,YE2025 overige vorderingen ST 84070 DROP; tick1642
+bud_neos_beleg_2025,vzw_neos,2025,183454,,,executed,src_neos_jr2025_nbb,strong,YE2025 geldbeleggingen 183454 DROP; tick1642
+bud_neos_cash_2025,vzw_neos,2025,601756,,,executed,src_neos_jr2025_nbb,strong,YE2025 liquide middelen 601756 DROP; tick1642
+bud_neos_prepaid_2025,vzw_neos,2025,146423,,,executed,src_neos_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 146423 JUMP; tick1642
+bud_neos_equity_2025,vzw_neos,2025,352497,,,executed,src_neos_jr2025_nbb,strong,YE2025 eigen vermogen 352497 DROP; tick1642
+bud_neos_destin_2025,vzw_neos,2025,161481,,,executed,src_neos_jr2025_nbb,strong,YE2025 bestemde fondsen 161481 flat; tick1642
+bud_neos_overgedragen_2025,vzw_neos,2025,191016,,,executed,src_neos_jr2025_nbb,strong,YE2025 overgedragen winst 191016 DROP; tick1642
+bud_neos_debt_2025,vzw_neos,2025,2333663,,,executed,src_neos_jr2025_nbb,strong,YE2025 schulden 2333663 DROP; tick1642
+bud_neos_lt_fin_2025,vzw_neos,2025,725399,,,executed,src_neos_jr2025_nbb,strong,YE2025 LT financiele schulden 725399 DROP (hypotheek gebouw); tick1642
+bud_neos_st_debt_2025,vzw_neos,2025,530740,,,executed,src_neos_jr2025_nbb,strong,YE2025 schulden ST 530740 JUMP (incl LT within year 67396); tick1642
+bud_neos_lev_2025,vzw_neos,2025,138464,,,executed,src_neos_jr2025_nbb,strong,YE2025 leveranciers ST 138464 JUMP; tick1642
+bud_neos_taxsoc_2025,vzw_neos,2025,324879,,,executed,src_neos_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 324879 JUMP (tax 110171 + soc 214708); tick1642
+bud_neos_accrued_2025,vzw_neos,2025,1077525,,,executed,src_neos_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 1077525 DROP (ledenjaar 01.09-31.08); tick1642
+bud_neos_bruto_2025,vzw_neos,2025,1976194,,,executed,src_neos_jr2025_nbb,strong,YE2025 brutomarge 9900 1976194 JUMP ENVELOPE; tick1642
+bud_neos_omzet_2025,vzw_neos,2025,1590578,,,executed,src_neos_jr2025_nbb,strong,YE2025 omzet 70 1590578 JUMP; tick1642
+bud_neos_code73_2025,vzw_neos,2025,2087682,,,executed,src_neos_jr2025_nbb,strong,YE2025 lidgeld/schenk/legaten/subsidies 73 2087682 JUMP; tick1642
+bud_neos_diensten_2025,vzw_neos,2025,1841303,,,executed,src_neos_jr2025_nbb,strong,YE2025 handelsgoederen/diensten 60/61 1841303 JUMP; tick1642
+bud_neos_pers_2025,vzw_neos,2025,1755468,,,executed,src_neos_jr2025_nbb,strong,YE2025 bezoldigingen 62 1755468 JUMP / 16.4 VTE (DROP from 17.3); tick1642
+bud_neos_afschr_2025,vzw_neos,2025,105174,,,executed,src_neos_jr2025_nbb,strong,YE2025 afschrijvingen 630 105174 JUMP; tick1642
+bud_neos_andere_2025,vzw_neos,2025,124232,,,executed,src_neos_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 124232 JUMP; tick1642
+bud_neos_expl_2025,vzw_neos,2025,-8680,,,executed,src_neos_jr2025_nbb,strong,YE2025 bedrijfsverlies -8680 LOSS FLIP; tick1642
+bud_neos_fininc_2025,vzw_neos,2025,1557,,,executed,src_neos_jr2025_nbb,strong,YE2025 financiele opbrengsten 1557 JUMP; tick1642
+bud_neos_fincost_2025,vzw_neos,2025,13173,,,executed,src_neos_jr2025_nbb,strong,YE2025 financiele kosten 13173 DROP; tick1642
+bud_neos_tax_2025,vzw_neos,2025,8771,,,executed,src_neos_jr2025_nbb,strong,YE2025 belastingen 8771 JUMP; tick1642
+bud_neos_pnl_2025,vzw_neos,2025,-29067,,,executed,src_neos_jr2025_nbb,strong,YE2025 verlies -29067 LOSS FLIP; tick1642
