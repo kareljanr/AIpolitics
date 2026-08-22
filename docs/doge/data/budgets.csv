@@ -47606,3 +47606,33 @@ bud_ouderenraad_expl_2025,vzw_ouderenraad,2025,192310,,,executed,src_ouderenraad
 bud_ouderenraad_fininc_2025,vzw_ouderenraad,2025,4,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 financiele opbrengsten 4; tick1636
 bud_ouderenraad_fincost_2025,vzw_ouderenraad,2025,1033,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 financiele kosten 1033 DROP; tick1636
 bud_ouderenraad_pnl_2025,vzw_ouderenraad,2025,191277,,,executed,src_ouderenraad_jr2025_nbb,strong,YE2025 winst 191277 PROFIT FLIP from -92759; tick1636
+bud_welzijnsverbond_assets_2025,vzw_welzijnsverbond,2025,2522037,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 balanstotaal 2522037 JUMP from 2390990; tick1637
+bud_welzijnsverbond_va_2025,vzw_welzijnsverbond,2025,1090503,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 vaste activa 1090503 JUMP; tick1637
+bud_welzijnsverbond_iva_2025,vzw_welzijnsverbond,2025,117478,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 immateriele VA 117478 JUMP (software aanschaf 138441); tick1637
+bud_welzijnsverbond_mva_2025,vzw_welzijnsverbond,2025,973025,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 materiele VA 973025 DROP (gebouwen 899956); tick1637
+bud_welzijnsverbond_vlottend_2025,vzw_welzijnsverbond,2025,1431534,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 vlottende activa 1431534 JUMP; tick1637
+bud_welzijnsverbond_handelsrecv_2025,vzw_welzijnsverbond,2025,1452,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 handelsvorderingen ST 1452 DROP; tick1637
+bud_welzijnsverbond_other_recv_2025,vzw_welzijnsverbond,2025,134736,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 overige vorderingen ST 134736 JUMP; tick1637
+bud_welzijnsverbond_beleg_2025,vzw_welzijnsverbond,2025,1000077,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 geldbeleggingen 1000077 JUMP; tick1637
+bud_welzijnsverbond_cash_2025,vzw_welzijnsverbond,2025,279465,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 liquide middelen 279465 JUMP; tick1637
+bud_welzijnsverbond_prepaid_2025,vzw_welzijnsverbond,2025,15803,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 15803; tick1637
+bud_welzijnsverbond_equity_2025,vzw_welzijnsverbond,2025,2061658,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 eigen vermogen 2061658 JUMP; tick1637
+bud_welzijnsverbond_fondsen_2025,vzw_welzijnsverbond,2025,188501,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 fondsen 188501 flat; tick1637
+bud_welzijnsverbond_destin_2025,vzw_welzijnsverbond,2025,1114906,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 bestemde fondsen 1114906 JUMP (+114083 pool+sociaal passief); tick1637
+bud_welzijnsverbond_overgedragen_2025,vzw_welzijnsverbond,2025,758251,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 overgedragen winst 758251 JUMP; tick1637
+bud_welzijnsverbond_debt_2025,vzw_welzijnsverbond,2025,460379,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 schulden 460379 DROP (=ST); tick1637
+bud_welzijnsverbond_st_debt_2025,vzw_welzijnsverbond,2025,460379,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 schulden ST 460379 DROP; tick1637
+bud_welzijnsverbond_lev_2025,vzw_welzijnsverbond,2025,77209,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 leveranciers ST 77209 DROP; tick1637
+bud_welzijnsverbond_taxsoc_2025,vzw_welzijnsverbond,2025,383170,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 bezoldigingen/sociale lasten ST 383170 JUMP; tick1637
+bud_welzijnsverbond_bruto_2025,vzw_welzijnsverbond,2025,4009763,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 brutomarge 9900 4009763 JUMP ENVELOPE; tick1637
+bud_welzijnsverbond_omzet_2025,vzw_welzijnsverbond,2025,3144583,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 omzet 70 3144583 JUMP; tick1637
+bud_welzijnsverbond_code73_2025,vzw_welzijnsverbond,2025,1581093,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 lidgeld/schenk/legaten/subsidies 73 1581093 JUMP; tick1637
+bud_welzijnsverbond_diensten_2025,vzw_welzijnsverbond,2025,715913,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 handelsgoederen/diensten 60/61 715913 JUMP; tick1637
+bud_welzijnsverbond_pers_2025,vzw_welzijnsverbond,2025,3654257,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 bezoldigingen 62 3654257 JUMP / 35.6 VTE (JUMP from 30.7); tick1637
+bud_welzijnsverbond_afschr_2025,vzw_welzijnsverbond,2025,119804,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 afschrijvingen 630 119804 JUMP; tick1637
+bud_welzijnsverbond_andere_2025,vzw_welzijnsverbond,2025,35041,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 35041 DROP; tick1637
+bud_welzijnsverbond_expl_2025,vzw_welzijnsverbond,2025,200661,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 bedrijfswinst 200661 JUMP; tick1637
+bud_welzijnsverbond_fininc_2025,vzw_welzijnsverbond,2025,11533,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 financiele opbrengsten 11533 DROP; tick1637
+bud_welzijnsverbond_fincost_2025,vzw_welzijnsverbond,2025,450,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 financiele kosten 450; tick1637
+bud_welzijnsverbond_pnl_2025,vzw_welzijnsverbond,2025,211744,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 winst 211744 JUMP; tick1637
+bud_welzijnsverbond_commissaris_fee_2025,vzw_welzijnsverbond,2025,5380,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 commissaris ereloon 5380; tick1637
