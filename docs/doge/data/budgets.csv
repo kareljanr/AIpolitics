@@ -50615,3 +50615,17 @@ bud_cedrebleu_staff_2025,nv_cedrebleu,2025,2245977,,,realized,src_cedrebleu_jr20
 bud_cedrebleu_expl_2025,nv_cedrebleu,2025,550271,,,realized,src_cedrebleu_jr2025_nbb,strong,Benefice exploitation 550271; tick1782
 bud_cedrebleu_pnl_2025,nv_cedrebleu,2025,133725,,,realized,src_cedrebleu_jr2025_nbb,strong,PnL 133725; no dividend; perte reportée -31213; tick1782
 bud_cedrebleu_rivage_gage_2025,nv_cedrebleu,2025,135600000,,,stock,src_cedrebleu_jr2025_nbb,strong,VIVALTO LEASE/RIVAGE gage 135600000 group undivided; assets grevés 8393515; tick1782
+bud_charlemagne_assets_2025,nv_charlemagne,2025,16590806,,,stock,src_charlemagne_jr2025_nbb,strong,Assets YE2025 16590806 JUMP vs 14292119; tick1783
+bud_charlemagne_equity_2025,nv_charlemagne,2025,4682133,,,stock,src_charlemagne_jr2025_nbb,strong,Equity 4682133; tick1783
+bud_charlemagne_debt_2025,nv_charlemagne,2025,10724449,,,stock,src_charlemagne_jr2025_nbb,strong,Debt 10724449 JUMP vs 8435289; tick1783
+bud_charlemagne_leasing_lt_2025,nv_charlemagne,2025,5088254,,,stock,src_charlemagne_jr2025_nbb,strong,LT credit/leasing 172/3=5088254; option 285000; tick1783
+bud_charlemagne_fva_2025,nv_charlemagne,2025,7450000,,,stock,src_charlemagne_jr2025_nbb,strong,Immobilisations financieres 7450000 DROP vs 8013256; tick1783
+bud_charlemagne_autres_creances_2025,nv_charlemagne,2025,3231757,,,stock,src_charlemagne_jr2025_nbb,strong,Autres creances ST 3231757 JUMP vs 93812; tick1783
+bud_charlemagne_controllers_recv_2025,nv_charlemagne,2025,10647702,,,stock,src_charlemagne_jr2025_nbb,strong,Creances sur administrateurs/controleurs 9500=10647702; tick1783
+bud_charlemagne_autres_dettes_st_2025,nv_charlemagne,2025,4795689,,,stock,src_charlemagne_jr2025_nbb,strong,Autres dettes ST 4795689 JUMP vs 2281789; tick1783
+bud_charlemagne_cash_2025,nv_charlemagne,2025,29171,,,stock,src_charlemagne_jr2025_nbb,strong,Cash 29171 DROP vs 100338; tick1783
+bud_charlemagne_marge_2025,nv_charlemagne,2025,2880770,,,realized,src_charlemagne_jr2025_nbb,strong,Marge bruto 2880770 (A-cap; CA undisclosed); prior had nrec expl 4.97m; tick1783
+bud_charlemagne_staff_2025,nv_charlemagne,2025,2170037,,,realized,src_charlemagne_jr2025_nbb,strong,Staff 2170037 / VTE 34.4; tick1783
+bud_charlemagne_expl_2025,nv_charlemagne,2025,416797,,,realized,src_charlemagne_jr2025_nbb,strong,Benefice exploitation 416797; tick1783
+bud_charlemagne_nrec_fin_2025,nv_charlemagne,2025,2965277,,,realized,src_charlemagne_jr2025_nbb,strong,Produits financiers non recurrents 2965277 drives PnL; tick1783
+bud_charlemagne_pnl_2025,nv_charlemagne,2025,3106808,,,realized,src_charlemagne_jr2025_nbb,strong,PnL 3106808; dividend apport 2950000 + admin 112106; tick1783
