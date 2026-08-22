@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    
+
+    <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="_ctx" />
+
+    
+    <title>Raadpleegomgeving - Kalender</title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap" />
+
+    <link rel="stylesheet" href="/lib/datatables/css/datatables.min.css" />
+    <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/lib/fontawesome/css/all.min.css" />
+    <link rel="stylesheet" href="/lib/datetimepicker/css/bootstrap-datetimepicker.min.css" />
+    <link rel="stylesheet" href="/lib/select2/css/select2.min.css" />
+    <link rel="stylesheet" href="/lib/select2/css/select2-bootstrap4.min.css" />
+    <link rel="stylesheet" href="/lib/select2/css/select2-readonly.css" />
+    <link rel="stylesheet" href="/lib/bootstrap-multiselect/css/bootstrap-multiselect.min.css" />
+    <link rel="stylesheet" href="/consult.css" />
+
+    <script src="/lib/less/less.min.js"></script>
+    <script src="/lib/jquery/jquery-3.7.1.min.js"></script>
+    <script src="/lib/jquery-mustache/jquery.mustache.js"></script>
+    <script src="/lib/jquery-pagination/jquery-pagination.js"></script>
+    <script src="/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/lib/bootbox/bootbox.min.js"></script>
+    <script src="/lib/underscore/underscore.min.js"></script>
+    <script src="/lib/datatables/js/datatables.min.js"></script>
+    <script src="/lib/moment/moment-with-locales.min.js"></script>
+    <script src="/lib/datetimepicker/js/bootstrap-datetimepicker.min.js"></script>
+    <script src="/lib/select2/js/select2.min.js"></script>
+    <script src="/lib/select2/i18n/select2.nl.js"></script>
+    <script src="/lib/bootstrap-multiselect/js/bootstrap-multiselect.js"></script>
+    <script src="//sdk.companywebcast.com/sdk/player/client.js"></script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-71286527-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-71286527-1');
+    </script>
+
+    <!-- Matomo -->
+    
+    <!-- End Matomo Code -->
+
+    <script>
+        var _contextPath = '';
+        $(document).ready(function () {
+            var _ctxContent = $('meta[name=_ctx]').attr('content');
+            _contextPath = _ctxContent ? _ctxContent : '';
+        });
+    </script>
+
+    <script src="/js/consult.js"></script>
+    
+    <script src="/js/calendar.js"></script>
+    <!-- Templates -->
+    <script id="tmpl-calendar-day" type="text/x-js-template">
+        <div class="{{#isToday}}today{{/isToday}}" data-date="{{date}}">
+            <span class="{{#isOtherMonth}}other-month{{/isOtherMonth}}">{{day}}</span>
+        </div>
+    </script>
+    <script id="tmpl-meeting-calendarview" type="text/x-js-template">
+        <a href="{{contextPath}}/zittingen/{{id}}" class="btn btn-default" data-toggle="popover" data-trigger="hover" data-html="true" data-content="
+                <em>{{#organ}}{{name}}{{/organ}}</em>
+                <em>{{dateTime}}</em>
+                {{#location}}
+                    <em>{{location}}</em>
+                {{/location}}
+        " data-placement="top">{{#organ}}{{shortName}}{{/organ}}</a>
+    </script>
+    <script id="tmpl-meeting-calendarview-not-published" type="text/x-js-template">
+        <a href="#" class="btn btn-default not-published" data-toggle="popover" data-trigger="hover" data-html="true" data-content="
+                <em>{{#organ}}{{name}}{{/organ}}</em>
+                <em>{{dateTime}}</em>
+                {{#location}}
+                    <em>{{location}}</em>
+                {{/location}}
+        &lt;span&gt;De inhoud van deze zitting is (nog) niet bekendgemaakt.&lt;/span&gt;" data-placement="top">{{#organ}}{{shortName}}{{/organ}} <i class="fal fa-lock float-right"></i></a>
+    </script>
+    <script id="tmpl-meeting-listview" type="text/x-js-template">
+        <a class="meeting-detail" href="{{contextPath}}/zittingen/{{id}}">
+            {{#organ}}
+                <span class="organ">{{name}}</span>
+            {{/organ}}
+            <span class="time">{{dateTime}}</span>
+            {{#location}}
+                <span class="location">{{location}}</span>
+            {{/location}}
+        </a>
+    </script>
+    <script id="tmpl-meeting-listview-not-published" type="text/x-js-template">
+        <a class="meeting-detail not-published" href="#">
+            {{#organ}}
+            <span class="organ"><i class="fal fa-lock"></i> {{name}}</span>
+            {{/organ}}
+                <span class="time">{{dateTime}}</span>
+            {{#location}}
+                <span class="location">{{location}}</span>
+            {{/location}}
+            <span class="message">De inhoud van deze zitting is (nog) niet bekendgemaakt.</span>
+        </a>
+    </script>
+</head>
+<body>
+    <nav>
+    <div class="container">
+        <div class="logo">
+            <a class="navi-logo" href="/"><img src="data:image/png;base64, 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" alt="Logo Raadpleegomgeving" /></a>
+        </div>
+        <div class="menu">
+            <span class="menu-item">
+                <a href="/"><i class="fal fa-home"></i><span class="d-none d-lg-inline-block">Startpagina</span></a>
+            </span>
+            <span class="menu-item">
+                <a href="/zittingen/kalender" class="calendar-link"><i class="fal fa-calendar-alt"></i><span class="d-none d-lg-inline-block">Kalender</span></a>
+            </span>
+            
+            
+            <span class="menu-item">
+                <a href="https://raadzaal.antwerpen.be" target="_blank"><i class="fal fa-video"></i><span class="d-none d-lg-inline-block">Webcast</span></a>
+            </span>
+            <span class="menu-item d-lg-none">
+                <a href="/zoeken"><i class="far fa-search"></i><span class="d-none d-lg-inline-block">Zoeken</span></a>
+            </span>
+            <div class="search menu-item d-none d-lg-inline-block">
+                <label for="search-field" class="sr-only">Zoeken</label>
+                <input type="text" autocomplete="off" id="search-field" />
+                <i class="far fa-search"></i>
+            </div>
+        </div>
+    </div>
+</nav>
+    <section>
+        <div class="page">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1>Kalender</h1>
+
+                    <form class="form-inline calendar-actions">
+                        
+                        <div class="form-group">
+                            <label for="month-select">Maanden</label>
+                            <select id="month-select" class="form-control">
+                                <option value="01">januari</option>
+                                <option value="02">februari</option>
+                                <option value="03">maart</option>
+                                <option value="04">april</option>
+                                <option value="05">mei</option>
+                                <option value="06">juni</option>
+                                <option value="07">juli</option>
+                                <option value="08">augustus</option>
+                                <option value="09">september</option>
+                                <option value="10">oktober</option>
+                                <option value="11">november</option>
+                                <option value="12">december</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="year-select">Jaren</label>
+                            <select id="year-select" class="form-control">
+                                <option value="1989">1989</option>
+                                <option value="1990">1990</option>
+                                <option value="1991">1991</option>
+                                <option value="1992">1992</option>
+                                <option value="1993">1993</option>
+                                <option value="1994">1994</option>
+                                <option value="1995">1995</option>
+                                <option value="1996">1996</option>
+                                <option value="1997">1997</option>
+                                <option value="1998">1998</option>
+                                <option value="1999">1999</option>
+                                <option value="2000">2000</option>
+                                <option value="2001">2001</option>
+                                <option value="2002">2002</option>
+                                <option value="2003">2003</option>
+                                <option value="2004">2004</option>
+                                <option value="2005">2005</option>
+                                <option value="2006">2006</option>
+                                <option value="2007">2007</option>
+                                <option value="2008">2008</option>
+                                <option value="2009">2009</option>
+                                <option value="2010">2010</option>
+                                <option value="2011">2011</option>
+                                <option value="2012">2012</option>
+                                <option value="2013">2013</option>
+                                <option value="2014">2014</option>
+                                <option value="2015">2015</option>
+                                <option value="2016">2016</option>
+                                <option value="2017">2017</option>
+                                <option value="2018">2018</option>
+                                <option value="2019">2019</option>
+                                <option value="2020">2020</option>
+                                <option value="2021">2021</option>
+                                <option value="2022">2022</option>
+                                <option value="2023">2023</option>
+                                <option value="2024">2024</option>
+                                <option value="2025">2025</option>
+                                <option value="2026">2026</option>
+                                <option value="2027">2027</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <ul class="pagination">
+                                <li class="page-item previous"><a href="#" class="page-link"><span class="sr-only">vorige maand</span><i class="fas fa-caret-left"></i></a></li>
+                                <li class="page-item current"><a href="#" class="page-link">deze maand</a></li>
+                                <li class="page-item next"><a href="#" class="page-link"><span class="sr-only">volgende maand</span><i class="fas fa-caret-right"></i></a></li>
+                            </ul>
+                            <!-- For crawler LBLOD -->
+                            
+                        </div>
+                        <div class="form-group views">
+                            <a href="/zittingen/lijst" class="btn btn-default" data-view="list"><span class="sr-only">lijstweergave</span><i class="fas fa-list"></i></a>
+                            <a href="/zittingen/kalender" class="btn btn-primary" data-view="calendar"><span class="sr-only">kalenderweergave</span><i class="fas fa-calendar-alt"></i></a>
+                        </div>
+                    </form>
+
+                    <!-- Calendar view -->
+                    <div class="calendar-view" style="display: none">
+                        <h2>augustus 2026</h2>
+                        <div class="calendar table">
+                            <div class="table-head">
+                                <div class="table-row">
+                                    <div>Ma</div>
+                                    <div>Di</div>
+                                    <div>Wo</div>
+                                    <div>Do</div>
+                                    <div>Vr</div>
+                                    <div>Za</div>
+                                    <div>Zo</div>
+                                </div>
+                            </div>
+                            <div class="table-body"></div>
+                        </div>
+                    </div>
+
+                    <!-- List view -->
+                    <div class="list-view" style="display: none">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </section>
+    <footer>
+    
+
+    <div class="container">
+        <div class="copyright">
+            &copy;&nbsp;<a href="https://www.greenvalleybelgium.be" target="_blank">Green Valley Belgium</a>
+        </div>
+        <div class="contact"></div>
+    </div>
+</footer>
+    <script>
+        var $isCalendarView = true;
+        var $calendarMonth = "08";
+        var $calendarYear = "2026";
+        var $firstMeetingDate = "198901";
+        var $lastMeetingDate = "202812";
+        var $noMeetingsLabel = "Er zijn geen zittingen bekendgemaakt die voldoen aan de zoekcriteria.";
+    </script>
+</body>
+</html>

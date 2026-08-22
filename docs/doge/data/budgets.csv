@@ -50281,3 +50281,9 @@ bud_hvriv_prestaties_2025,igs_hvriv,2025,2600351,,,executed,src_hvriv_jr2025_ver
 bud_hvriv_invest_uitgaven_2025,igs_hvriv,2025,3707455,,,executed,src_hvriv_jr2025_vereenvoudigd,strong,Buitengewone investeringen 3707455; tick1748
 bud_hvriv_invest_gemdot_2025,igs_hvriv,2025,500000,,,executed,src_hvriv_jr2025_vereenvoudigd,strong,Investeringsdotaties gemeenten 500000; tick1748
 bud_hvriv_saldo_gewone_2025,igs_hvriv,2025,3414106,,,executed,src_hvriv_jr2025_vereenvoudigd,strong,Saldo gewone dienst / globaal 3414106; tick1748
+bud_hvzc_gent_expl_2025,igs_hvzc,2025,42392583.88,,,budget,src_hvzc_gent_dotatie_2025,strong,Gent exploitatiedotatie HVZC 2025 42392583.88; tick1749
+bud_hvzc_gent_invest_2025,igs_hvzc,2025,4224870,,,budget,src_hvzc_gent_dotatie_2025,strong,Gent investeringsdotatie HVZC 2025 4224870; tick1749
+bud_hvzc_gent_pensioen_2025,igs_hvzc,2025,315000,,,budget,src_hvzc_gent_dotatie_2025,strong,Gent pensioenbijdrage HVZC 2025 315000; tick1749
+bud_hvzc_gent_gross_dot_2025,igs_hvzc,2025,46932453.88,,,budget,src_hvzc_gent_dotatie_2025,strong,Gent gross dots expl+invest+pens 46932453.88; tick1749
+bud_hvzc_gent_ristorno_2025,igs_hvzc,2025,-1917070.84,,,budget,src_hvzc_gent_dotatie_2025,strong,Gent ristorno begrotingsresultaat -1917070.84 (zone resultaat 2.5m mentioned); tick1749
+bud_hvzc_gent_net_outlay_2025,igs_hvzc,2025,45015383.04,,,budget,src_hvzc_gent_dotatie_2025,strong,Gent voorgestelde uitgaven net 45015383.04; tick1749

@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    
+
+    <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="_ctx" content="/" />
+
+    
+    <title>Raadpleegomgeving - Open Data - Agendapunt</title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap" />
+
+    <link rel="stylesheet" href="/lib/datatables/css/datatables.min.css" />
+    <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/lib/fontawesome/css/all.min.css" />
+    <link rel="stylesheet" href="/lib/datetimepicker/css/bootstrap-datetimepicker.min.css" />
+    <link rel="stylesheet" href="/lib/select2/css/select2.min.css" />
+    <link rel="stylesheet" href="/lib/select2/css/select2-bootstrap4.min.css" />
+    <link rel="stylesheet" href="/lib/select2/css/select2-readonly.css" />
+    <link rel="stylesheet" href="/lib/bootstrap-multiselect/css/bootstrap-multiselect.min.css" />
+    <link rel="stylesheet" href="/consult.css" />
+
+    <script src="/lib/less/less.min.js"></script>
+    <script src="/lib/jquery/jquery-3.7.1.min.js"></script>
+    <script src="/lib/jquery-mustache/jquery.mustache.js"></script>
+    <script src="/lib/jquery-pagination/jquery-pagination.js"></script>
+    <script src="/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/lib/bootbox/bootbox.min.js"></script>
+    <script src="/lib/underscore/underscore.min.js"></script>
+    <script src="/lib/datatables/js/datatables.min.js"></script>
+    <script src="/lib/moment/moment-with-locales.min.js"></script>
+    <script src="/lib/datetimepicker/js/bootstrap-datetimepicker.min.js"></script>
+    <script src="/lib/select2/js/select2.min.js"></script>
+    <script src="/lib/select2/i18n/select2.nl.js"></script>
+    <script src="/lib/bootstrap-multiselect/js/bootstrap-multiselect.js"></script>
+    <script src="//sdk.companywebcast.com/sdk/player/client.js"></script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XESFNK6WJK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-XESFNK6WJK');
+    </script>
+
+    <!-- Matomo -->
+    
+    <!-- End Matomo Code -->
+
+    <script>
+        var _contextPath = '';
+        $(document).ready(function () {
+            var _ctxContent = $('meta[name=_ctx]').attr('content');
+            _contextPath = _ctxContent ? _ctxContent.replace(/\/$/, '') : '';
+        });
+    </script>
+    <script src="/js/consult.js"></script>
+    
+    <script src="/js/meetingitem.js"></script>
+</head>
+<body>
+    <nav>
+    <div class="container">
+        <div class="logo">
+            <a class="navi-logo" href="/"><img src="data:image/png;base64, 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" alt="Logo Raadpleegomgeving" /></a>
+        </div>
+        <div class="menu">
+            <span class="menu-item">
+                <a href="/"><i class="fal fa-home"></i><span class="d-none d-lg-inline-block">Startpagina</span></a>
+            </span>
+            <span class="menu-item">
+                <a href="/zittingen/kalender" class="calendar-link"><i class="fal fa-calendar-alt"></i><span class="d-none d-lg-inline-block">Kalender</span></a>
+            </span>
+            
+            <span class="menu-item">
+                <a href="/schriftelijkevragen"><i class="fal fa-question-square"></i><span class="d-none d-lg-inline-block">Schriftelijke vragen</span></a>
+            </span>
+            <span class="menu-item">
+                <a href="https://channel.royalcast.com/stadgent" target="_blank"><i class="fal fa-video"></i><span class="d-none d-lg-inline-block">Webcast</span></a>
+            </span>
+            <span class="menu-item d-lg-none">
+                <a href="/zoeken"><i class="far fa-search"></i><span class="d-none d-lg-inline-block">Zoeken</span></a>
+            </span>
+            <div class="search menu-item d-none d-lg-inline-block">
+                <label for="search-field" class="sr-only">Zoeken</label>
+                <input type="text" autocomplete="off" id="search-field" />
+                <i class="far fa-search"></i>
+            </div>
+        </div>
+    </div>
+</nav>
+    <section>
+        <div class="container">
+
+        <div class="webcast-row">
+            
+            <div id="webcast" class="webcast"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <a href="/zittingen/25.0515.1368.4599" id="return-link"><span class="sr-only">Terug</span><i class="fal fa-arrow-circle-left"></i></a>
+                <div vocab="http://data.vlaanderen.be/ns/besluit#" prefix="eli: http://data.europa.eu/eli/ontology# prov: http://www.w3.org/ns/prov# besluit: http://data.vlaanderen.be/ns/besluit# foaf: http://xmlns.com/foaf/0.1/" resource="#" typeof="foaf:Document">
+                    <div property="prov:generated" typeof="besluit:Besluit" resource="https://data.gent.be/id/besluiten/25.1105.0364.1021">
+                        <span property="eli:date_publication" datatype="xsd:date" content="2025-11-07"></span>
+                    </div>
+                </div>
+                <div class="publication-decision-date">
+                    <div class="publication-date">
+                        Gepubliceerd op 07/11/2025
+                    </div>
+                    
+                </div>
+                <div id="meetingitem-document" class="meetingitem-document">
+                    <i class="far fa-download"></i>
+                    <a href="/document/690ca39aed6961690d9e21e9">Ontwerpbesluit</a>
+                </div>
+                <div><div vocab="http://data.vlaanderen.be/ns/besluit#" prefix="lblod: http://data.lblod.info/vocabularies/lblod/ eli: http://data.europa.eu/eli/ontology# prov: http://www.w3.org/ns/prov# mandaat: http://data.vlaanderen.be/ns/mandaat# besluit: http://data.vlaanderen.be/ns/besluit# generiek: http://data.vlaanderen.be/ns/generiek# person: http://www.w3.org/ns/person# persoon: https://data.vlaanderen.be/ns/persoon# dct: http://purl.org/dc/terms/ skos: http://www.w3.org/2004/02/skos/core# org: http://www.w3.org/ns/org# foaf: http://xmlns.com/foaf/0.1/ ext: http://mu.semte.ch/vocabularies/ext/ besluitType: https://data.vlaanderen.be/id/concept/BesluitType/ lblodBesluit: http://lblod.data.gift/vocabularies/besluit/ elod: http://linkedeconomy.org/ontology#" resource="#" typeof="foaf:Document besluit:Besluit">
+
+    <div typeof="besluit:Zitting" resource="https://data.gent.be/id/zittingen/25.0515.1368.4599">
+        <span property="besluit:geplandeStart" datatype="xsd:dateTime" content="2025-11-17T19:00:00.000+01:00"></span>
+        <span property="prov:atLocation" datatype="xsd:string"></span>
+        
+        
+
+        
+            <span property="besluit:behandelt" typeof="besluit:Agendapunt" resource="https://data.gent.be/id/agendapunten/25.1105.0364.1021"></span>
+            <div class="opendata-meetingitem" property="ext:behandelt" typeof="besluit:BehandelingVanAgendapunt" resource="https://data.gent.be/id/behandelingen-van-agendapunten/25.1105.0364.1021">
+                <span property="besluit:openbaar" datatype="xsd:boolean" content="true"></span>
+                <span property="dc:subject" typeof="besluit:Agendapunt" resource="https://data.gent.be/id/agendapunten/25.1105.0364.1021">
+                    <h1 class="return-header">2025_GR_01012 - Hulpverleningszone Centrum - gewijzigde exploitatie- en investeringsdotatie van de Stad Gent voor het dienstjaar 2025 - Goedkeuring</h1>
+                </span>
+
+                <div class="opendata-meetinginformation">
+                    <div property="dc:title" class="opendata-meetingorgan" datatype="xsd:string">
+                        <div resource="https://data.gent.be/id/zittingen/25.0515.1368.4599">
+                            <span property="besluit:isGehoudenDoor" typeof="besluit:Bestuursorgaan" resource="https://stad.gent/id/bestuursorganen/e084752b-45af-4034-b82f-0090a123a29d">
+                                <span property="skos:prefLabel">commissie financiën, administratieve vereenvoudiging, burgerzaken en  algemene zaken (FABAZ)</span>
+                                <span property="mandaat:isTijdspecialisatieVan" typeof="besluit:Bestuursorgaan" resource="https://stad.gent/id/bestuursorganen/e084752b-45af-4034-b82f-0090a123a29d">
+                                    <span property="skos:prefLabel" content="commissie financiën, administratieve vereenvoudiging, burgerzaken en  algemene zaken (FABAZ)"></span>
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    <div>
+                        <span class="opendata-meetingdate">ma 17/11/2025 - 19:00</span>
+                        <span class="opendata-meetinglocation">Gemeenteraadszaal - verplaats van 10/11 omwille van brugdag</span>
+                    </div>
+                    
+                    
+                </div>
+
+                <div class="opendata-meetingitem-composition" property="ext:aanwezigenTable">
+                    <h2>Samenstelling</h2>
+                    <div class="h5-section">
+                        <h3>Wie is verantwoordelijk voor deze materie?</h3>
+                        <span>Mathias De Clercq</span>
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                </div>
+
+                
+
+                <div property="prov:generated" typeof="besluit:Besluit" resource="https://data.gent.be/id/besluiten/25.1105.0364.1021">
+                    <span property="prov:wasGeneratedBy" typeof="besluit:BehandelingVanAgendapunt" resource="https://data.gent.be/id/behandelingen-van-agendapunten/25.1105.0364.1021"></span>
+                    <div style="display: none;">
+                        <span class="return-header" property="eli:title_short" datatype="xsd:string">2025_GR_01012 - Hulpverleningszone Centrum - gewijzigde exploitatie- en investeringsdotatie van de Stad Gent voor het dienstjaar 2025 - Goedkeuring</span>
+                        <span style="display: none;" property="eli:title" datatype="xsd:string">2025_GR_01012 - Hulpverleningszone Centrum - gewijzigde exploitatie- en investeringsdotatie van de Stad Gent voor het dienstjaar 2025 - Goedkeuring</span>
+                        <meta property="eli:language" resource="http://publications.europa.eu/resource/authority/language/NLD" typeof="skos:Concept">
+                        <meta property="eli:description" datatype="xsd:string" content="2025_GR_01012 - Hulpverleningszone Centrum - gewijzigde exploitatie- en investeringsdotatie van de Stad Gent voor het dienstjaar 2025 - Goedkeuring">
+                    </div>
+
+                    <div class="opendata-meetingitem-motivation" property="besluit:motivering" lang="nl">
+                        <h2>Motivering</h2>
+                        
+                        
+                        
+                        <div class="h5-section">
+                            <h3>Regelgeving waaruit blijkt dat het orgaan bevoegd is</h3>
+                            <div><p>Het Decreet over het lokaal bestuur van 22 december 2017, artikel 40, § 1.</p></div>
+                        </div>
+                        <div class="h5-section">
+                            <h3>Op basis van welke regels (rechtsgronden) wordt deze beslissing genomen?</h3>
+                            <div><p>De Wet van 15 mei 2007 betreffende de civiele veiligheid, artikelen 67 en 68.</p></div>
+                        </div>
+                        <div class="h5-section">
+                            <h3>Wat gaat aan deze beslissing vooraf?</h3>
+                            <div><p>De zoneraad van Hulpverleningszone Centrum heeft op 22 oktober 2025 de begroting voor het dienstjaar 2025 goedgekeurd. Voor de stad Gent waren de in de begroting 2025 opgenomen dotaties als volgt:</p><p>Voor exploitatie: 42.392.583,88 euro&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p>Voor investeringen: 4.224.870,00 euro
+</p><p>Bijdrage voor de pensioenen: 315.000,00 euro
+</p><p>Net als de vorige jaren wordt de initiële begroting van de hulpverleningszone bijgestuurd. Na de bespreking ervan in de begrotingscommissie op 28 mei 2025 keurde het college van de hulpverleningszone op 28 mei 2025 het ontwerp van de begrotingswijziging voor het dienstjaar 2025 goed.</p><p>Een belangrijke aanpassing van de begroting betreft het verwerken van het begrotingsresultaat van 2025. Het begrotingsresultaat van in totaal 2,5 miljoen euro wordt in deze budgetwijziging geristorneerd naar de verschillende gemeenten volgens het aandeel van iedere gemeente in dit resultaat (m.a.w. volgens de verdeelsleutel voor het jaar 2025). Het ristorno zal verwerkt worden via de uitgavenkredieten van de zone en staat bijgevolg los van de hieronder vermelde gewijzigde dotatie.</p><p>De gewijzigde toe te kennen investeringsdotatie aan de hulpverleningszone voor het jaar 2025 (budgetsleutel 2026/INT/351360000/6641300/NIET_RELEVANT) bedraagt 4.224.870,00 euro.  <strong> </strong></p><p>Na bovenstaande aanpassingen hebben tot gevolg dat de gemeentelijke dotaties, dewelke als sluitpost van de begroting van de hulpverleningszone dienen, herberekend moeten worden. Het gevolg is dat de gemeentelijke exploitatiedotaties eerder beperkt dalen, en de investeringsdotaties min of meer ongewijzigd kunnen blijven. De bijdragen van de gemeenten voor de financiering van de pensioenen wijzigen niet.</p></div>
+                        </div>
+                        <div class="h5-section">
+                            <h3>Waarom wordt deze beslissing genomen?</h3>
+                            <div><p><span style="background-color: rgb(255, 255, 255);">De gewijzigde dotaties van de gemeenten aan de hulpverleningszone dienen goedgekeurd te worden door de gemeenteraden van de gemeenten van de zone. In functie van het ontwerp van de begrotingswijziging en de door de gemeenten aanvaarde verdeelsleutel&nbsp;worden voor het jaar&nbsp;2025 door de stad Gent&nbsp;volgende dotaties toegekend aan de Hulpverleningszone Centrum:</span></p><ul><span style="background-color: rgb(255, 255, 255);">
+</span><li><span style="background-color: rgb(255, 255, 255);">voor exploitatie: 42.392.583,88 euro (delta: -339.166,70 euro)</span></li><span style="background-color: rgb(255, 255, 255);">
+</span><li><span style="background-color: rgb(255, 255, 255);">voor investeringen: 4.224.870,00 euro (delta: +339.048,00 euro)</span></li><span style="background-color: rgb(255, 255, 255);">
+</span><li><span style="background-color: rgb(255, 255, 255);">bijdrage voor de pensioenen: 315.000,00 euro (delta: 0 euro)</span></li><span style="background-color: rgb(255, 255, 255);">
+</span></ul><p><span style="background-color: rgb(255, 255, 255);">
+Verder wordt in de voorliggende begrotingswijzing van de zone het ristorno van het begrotingsresultaat van het jaar 2025</span><span style="background-color: rgb(255, 255, 255);"> voor de Stad Gent&nbsp;volgens de geldende verdeelsleutel vastgesteld op het volgende bedrag:</span></p><ul><span style="background-color: rgb(255, 255, 255);">
+</span><li><span style="background-color: rgb(255, 255, 255);">ristorno (minsubsidie op uitgavekredieten): -1.917.070,84</span><span style="background-color: rgb(255, 255, 255);"> euro&nbsp;</span></li><span style="background-color: rgb(251, 160, 38);">
+</span></ul><div><span style="background-color: rgb(251, 160, 38);">
+</span></div><div><span style="background-color: rgb(255, 255, 255);">De goedkeuring van de toezichthoudende overheid is vereist opdat de begrotingswijziging uitvoerbaar zou zijn. Het bestuurlijk toezicht dient daarom een afschrift van de gemeenteraadsbesluiten betreffende de dotaties aan de zone te ontvangen om de begrotingswijziging voor het dienstjaar 2025 definitief te kunnen goedkeuren.</span></div><p><br><span style="background-color: rgb(255, 255, 255);">Een afschrift van deze beslissing zal worden betekend aan de toezichthoudende overheid en aan de Hulpverleningszone Centrum.</span></p></div>
+                        </div>
+                        <div class="h5-section">
+                            <h3>Overzicht van de uitgaven</h3>
+                            <div><p><span style="background-color: rgb(255, 255, 255);">(2025/INT/351360000/6491300/NIET_RELEVANT): 42.392.583,88 euro<br>(2026/INT/351360000/6641300/NIET_RELEVANT): 4.224.870,00 euro</span><span style="background-color: rgb(255, 255, 255);">
+<br>(2025/INT/351360001/6491300/NIET_RELEVANT): 315.000,00 euro</span></p><span style="background-color: rgb(251, 160, 38);">
+</span><p><span style="background-color: rgb(255, 255, 255);">ristorno begrotingsresultaat (2025/INT/3513600RI/6491300/NIET_RELEVANT): -1.917.070,84 euro</span></p></div>
+                        </div>
+                        <div class="h5-section">
+                            <h3>Voorgestelde uitgaven</h3>
+                            <div>€ 45.015.383,04</div>
+                        </div>
+                        <div class="h5-section">
+                            <h3>Overzicht van de inkomsten</h3>
+                            <div><table border="1px" cellpadding="0" cellspacing="0" style="width: 100%;"><tbody><tr><td style="height: 19px; width: 25%;"><strong>Dienst*</strong></td>
+<td style="text-align: right; width: 25%;">&nbsp;</td>
+<td style="text-align: right; width: 25%;">&nbsp;</td>
+<td style="text-align: right; width: 25%;">&nbsp;</td></tr>
+<tr><td style="width: 25%;"><strong>Budgetplaats</strong></td>
+<td style="text-align: right; width: 25%;">351360000
+&nbsp;</td>
+<td style="text-align: right; width: 25%;">351360001&nbsp;
+&nbsp;</td>
+<td style="text-align: right; width: 25%;">351360000&nbsp;&nbsp;</td></tr>
+<tr><td style="width: 25%;"><strong>Categorie*</strong></td>
+<td style="text-align: right; width: 25%;">E&nbsp;</td>
+<td style="text-align: right; width: 25%;">E&nbsp;</td>
+<td style="text-align: right; width: 25%;">I
+&nbsp;</td></tr>
+<tr><td style="width: 25%;"><strong>Subsidiecode</strong></td>
+<td style="text-align: right; width: 25%;">NIET_RELEVANT
+&nbsp;</td>
+<td style="text-align: right; width: 25%;">NIET_RELEVANT&nbsp;</td>
+<td style="text-align: right; width: 25%;">NIET_RELEVANT
+&nbsp;</td></tr>
+<tr><td style="width: 25%;"><strong>2021</strong></td>
+<td style="text-align: right; width: 25%;">&nbsp;</td>
+<td style="text-align: right; width: 25%;">&nbsp;</td>
+<td style="text-align: right; width: 25%;">&nbsp;</td></tr>
+<tr><td style="width: 25%;"><strong>2022</strong></td>
+<td style="text-align: right; width: 25%;">&nbsp;</td>
+<td style="text-align: right; width: 25%;">&nbsp;</td>
+<td style="text-align: right; width: 25%;">&nbsp;</td></tr>
+<tr><td style="width: 25%;"><strong>2023</strong></td>
+<td style="text-align: right; width: 25%;">&nbsp;</td>
+<td style="text-align: right; width: 25%;">&nbsp;</td>
+<td style="text-align: right; width: 25%;">&nbsp;</td></tr>
+<tr><td style="width: 25%;"><strong>2024</strong></td>
+<td style="text-align: right; width: 25%;">&nbsp;</td>
+<td style="text-align: right; width: 25%;">
+&nbsp;</td>
+<td style="text-align: right; width: 25%;">&nbsp;</td></tr>
+<tr><td style="width: 25%;"><strong>2025</strong></td>
+<td style="text-align: right; width: 25%;">42.392.583,88</td>
+<td style="text-align: right; width: 25%;">315.000,00&nbsp;</td>
+<td style="text-align: right; width: 25%;"><br></td></tr>
+<tr><td style="width: 25%;"><strong>2026</strong></td>
+<td style="text-align: right; width: 25%;">&nbsp;</td>
+<td style="text-align: right; width: 25%;">&nbsp;</td>
+<td style="text-align: right; width: 25%;">4.224.870,00&nbsp;</td></tr>
+<tr><td style="width: 25%;"><strong>Later</strong></td>
+<td style="text-align: right; width: 25%;">&nbsp;</td>
+<td style="text-align: right; width: 25%;">&nbsp;</td>
+<td style="text-align: right; width: 25%;">&nbsp;</td></tr>
+<tr><td style="width: 25%;"><strong>Totaal</strong></td>
+<td style="text-align: right; width: 25%;">42.392.583,88&nbsp;&nbsp;</td>
+<td style="text-align: right; width: 25%;">
+
+315.000,00&nbsp;</td>
+<td style="text-align: right; width: 25%;">4.224.870,00
+<br></td></tr></tbody></table></div>
+                        </div>
+                        <div class="h5-section">
+                            <h3>Verwachte ontvangsten</h3>
+                            <div>€ 0,00</div>
+                        </div>
+                        
+                        
+                        
+                        
+                        <div class="h5-section">
+                            <h3>Activiteit</h3>
+                            <span>AC35237 Uitvoeren en ondersteunen van financiële processen voor Politiezone Gent en Hulpverleningszone Centrum</span>
+                        </div>
+                    </div>
+
+                    <div class="opendata-meetingitem-decree">
+                        <h2>Besluit</h2>
+                        
+                        
+                            
+                                
+                                <div property="prov:value" datatype="xsd:string">
+                                    
+        <div property="eli:has_part" typeof="besluit:Artikel" resource="https://data.gent.be/id/artikels/25.1030.0072.0640">
+            <h3 property="eli:number" datatype="xsd:string">Artikel 1</h3>
+            <span property="eli:language" resource="http://publications.europa.eu/resource/authority/language/NLD" typeof="skos:Concept"></span>
+            <div property="prov:value" datatype="xsd:string">
+                <span><p><span style="background-color: rgb(255, 255, 255);">Wijzigt de&nbsp;</span>dotaties aan de Hulpverleningszone <span style="background-color: rgb(255, 255, 255);">Centrum voor het dienstjaar 2025, goedgekeurd in de Gemeenteraad van 21 oktober 2024, als volgt:</span></p>
+<ul>
+<li>voor exploitatie: 42.392.583,88 euro</li>
+<li>voor investeringen: 4.224.870,00 euro</li>
+<li>bijdrage voor de pensioenen: 315.000,00 euro</li>
+</ul></span>
+            </div>
+        </div>
+        
+    
+                                </div>
+                                <div property="prov:value" datatype="xsd:string">
+                                    
+        <div property="eli:has_part" typeof="besluit:Artikel" resource="https://data.gent.be/id/artikels/25.1030.0457.1161">
+            <h3 property="eli:number" datatype="xsd:string">Artikel 2</h3>
+            <span property="eli:language" resource="http://publications.europa.eu/resource/authority/language/NLD" typeof="skos:Concept"></span>
+            <div property="prov:value" datatype="xsd:string">
+                <span><p>Overeenkomstig de toepasselijke wettelijke bepalingen wordt een afschrift van deze beslissing betekend aan de toezichthoudende overheid alsook aan de Hulpverleningszone Centrum.
+</p></span>
+            </div>
+        </div>
+        
+    
+                                </div>
+                            
+                            
+                        
+                    </div>
+                </div>
+            </div>
+        
+    </div>
+</div></div>
+            </div>
+        </div>
+
+        <hr />
+
+        <div class="row" vocab="http://data.vlaanderen.be/ns/besluit#" prefix="eli: http://data.europa.eu/eli/ontology# dct: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ besluit: http://data.vlaanderen.be/ns/besluit# prov: http://www.w3.org/ns/prov#" property="prov:generated" typeof="besluit:Besluit" resource="https://data.gent.be/id/besluiten/25.1105.0364.1021">
+            <!-- Attachments when lblodLink is not empty -->
+            <div class="col-12">
+                <h2 class="attachments">Bijlagen</h2>
+                <ul class="attachments">
+                    <li class="attachment">
+                        
+                        
+                        
+                        <span>
+                            <i class="fas fa-shield-alt"></i>
+                            <span title="De inhoud van deze bijlage is niet gepubliceerd">20250929_DO_EXPORT dotaties BW2_25  BO26.pdf</span>
+                        </span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        
+    </div>
+    </section>
+    <footer>
+    
+
+    <div class="container">
+        <div class="copyright">
+            &copy;&nbsp;<a href="https://www.greenvalleybelgium.be" target="_blank">Green Valley Belgium</a>
+        </div>
+        <div class="contact"></div>
+    </div>
+</footer>
+    <script>
+        var $webcastIndex = 0;
+        var $webcasts = [{"id":"null","code":"stadgent\/20251117_1","webcastId":null,"meeting":{"id":"25.0515.1368.4599","organ":{"id":"25.0106.1332.9183","name":"commissie financi\u00EBn, administratieve vereenvoudiging, burgerzaken en  algemene zaken (FABAZ)","shortName":"COM_FABAZ"},"title":"17 november 2025 19:00","description":null,"dateTime":"2025-11-17T19:00:00","location":"Gemeenteraadszaal - verplaats van 10\/11 omwille van brugdag","hasAgenda":true,"hasDecisionList":false,"hasMinutes":false,"openForPublic":true,"imported":false,"notPublished":false},"agendaPageId":null,"status":null,"startTime":"2025-11-17T19:54:37Z","endTime":"2025-11-17T19:54:49Z","type":"ROYALCAST","instance":"","name":"17 november 2025 19:00"}];
+        var $webcastPosition = "Webcast {0} van {1}";
+    </script>
+</body>
+</html>

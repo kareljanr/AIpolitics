@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    
+
+    <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="_ctx" />
+
+    
+    <title>Raadpleegomgeving - Zoeken</title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap" />
+
+    <link rel="stylesheet" href="/lib/datatables/css/datatables.min.css" />
+    <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/lib/fontawesome/css/all.min.css" />
+    <link rel="stylesheet" href="/lib/datetimepicker/css/bootstrap-datetimepicker.min.css" />
+    <link rel="stylesheet" href="/lib/select2/css/select2.min.css" />
+    <link rel="stylesheet" href="/lib/select2/css/select2-bootstrap4.min.css" />
+    <link rel="stylesheet" href="/lib/select2/css/select2-readonly.css" />
+    <link rel="stylesheet" href="/lib/bootstrap-multiselect/css/bootstrap-multiselect.min.css" />
+    <link rel="stylesheet" href="/consult.css" />
+
+    <script src="/lib/less/less.min.js"></script>
+    <script src="/lib/jquery/jquery-3.7.1.min.js"></script>
+    <script src="/lib/jquery-mustache/jquery.mustache.js"></script>
+    <script src="/lib/jquery-pagination/jquery-pagination.js"></script>
+    <script src="/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/lib/bootbox/bootbox.min.js"></script>
+    <script src="/lib/underscore/underscore.min.js"></script>
+    <script src="/lib/datatables/js/datatables.min.js"></script>
+    <script src="/lib/moment/moment-with-locales.min.js"></script>
+    <script src="/lib/datetimepicker/js/bootstrap-datetimepicker.min.js"></script>
+    <script src="/lib/select2/js/select2.min.js"></script>
+    <script src="/lib/select2/i18n/select2.nl.js"></script>
+    <script src="/lib/bootstrap-multiselect/js/bootstrap-multiselect.js"></script>
+    <script src="//sdk.companywebcast.com/sdk/player/client.js"></script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-71286527-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-71286527-1');
+    </script>
+
+    <!-- Matomo -->
+    
+    <!-- End Matomo Code -->
+
+    <script>
+        var _contextPath = '';
+        $(document).ready(function () {
+            var _ctxContent = $('meta[name=_ctx]').attr('content');
+            _contextPath = _ctxContent ? _ctxContent : '';
+        });
+    </script>
+
+    <script src="/js/consult.js"></script>
+    
+    <script src="/js/search.js"></script>
+</head>
+<body>
+    <nav>
+    <div class="container">
+        <div class="logo">
+            <a class="navi-logo" href="/"><img src="data:image/png;base64, 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" alt="Logo Raadpleegomgeving" /></a>
+        </div>
+        <div class="menu">
+            <span class="menu-item">
+                <a href="/"><i class="fal fa-home"></i><span class="d-none d-lg-inline-block">Startpagina</span></a>
+            </span>
+            <span class="menu-item">
+                <a href="/zittingen/kalender" class="calendar-link"><i class="fal fa-calendar-alt"></i><span class="d-none d-lg-inline-block">Kalender</span></a>
+            </span>
+            
+            
+            <span class="menu-item">
+                <a href="https://raadzaal.antwerpen.be" target="_blank"><i class="fal fa-video"></i><span class="d-none d-lg-inline-block">Webcast</span></a>
+            </span>
+            <span class="menu-item d-lg-none">
+                <a href="/zoeken"><i class="far fa-search"></i><span class="d-none d-lg-inline-block">Zoeken</span></a>
+            </span>
+            <div class="search menu-item d-none d-lg-inline-block">
+                <label for="search-field" class="sr-only">Zoeken</label>
+                <input type="text" autocomplete="off" id="search-field" />
+                <i class="far fa-search"></i>
+            </div>
+        </div>
+    </div>
+</nav>
+    <section>
+        <div class="page">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 class="return-header">
+                        <a href="/"><span class="sr-only">Terug</span><i class="fal fa-arrow-circle-left"></i></a>
+                        <span>Zoeken</span>
+                    </h1>
+
+                    <form id="searchForm" class="search-form">
+                        <div class="row">
+                            <div class="col-lg-8 col-sm-12">
+                                <input type="text" class="form-control" placeholder="Zoekterm" id="query" name="query" value="Brandweer Zone Antwerpen jaarrekening 2025" />
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="d-none d-lg-block col-lg-2 align-self-center">
+                                <label for="meetingDateStart">Zittingsdatum</label>
+                            </div>
+                            <div class="d-lg-none col-md-3 col-sm-12 align-self-center">
+                                <label for="meetingDateStart">Zittingsdatum van</label>
+                            </div>
+                            <div class="col-lg-3 col-md-9 col-sm-12 align-self-center">
+                                <div class="row">
+                                    <div class="d-none d-lg-block col-lg-2 align-self-center">
+                                        van
+                                    </div>
+                                    <div class="col-sm-12 col-lg-10">
+                                        <input type="text" class="form-control" id="meetingDateStart" name="meetingDateStart" value="" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="d-lg-none col-md-3 col-sm-12 align-self-center">
+                                <label for="meetingDateEnd">Zittingsdatum tot</label>
+                            </div>
+                            <div class="col-lg-3 col-md-9 col-sm-12 align-self-center">
+                                <div class="row">
+                                    <div class="d-none d-lg-block col-lg-2 align-self-center">
+                                        tot
+                                    </div>
+                                    <div class="col-sm-12 col-lg-10">
+                                        <input type="text" class="form-control" id="meetingDateEnd" name="meetingDateEnd" value="" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-2 col-md-2 col-sm-12 align-self-center">
+                                <label for="typeId">Type</label>
+                            </div>
+                            <div class="col-lg-6 col-md-10 col-sm-12">
+                                <select name="typeId" class="form-control" id="typeId">
+                                    <option value="">Alle types</option>
+                                    <option value="7927f4f4-ad4c-4460-9207-2a4b5d21a9d7">Aanduiding en eedaflegging van de aangewezen burgemeester</option>
+                                    <option value="4d8f678a-6fa4-4d5f-a2a1-80974e43bf34">Aanvullend reglement op het wegverkeer enkel m.b.t. gemeentewegen (niet in havengebied of speciale beschermingszones)</option>
+                                    <option value="3bba9f10-faff-49a6-acaa-85af7f2199a3">Aanvullend reglement op het wegverkeer m.b.t. gemeentewegen in havengebied</option>
+                                    <option value="0d1278af-b69e-4152-a418-ec5cfd1c7d0b">Aanvullend reglement op het wegverkeer m.b.t. gemeentewegen in speciale beschermingszones</option>
+                                    <option value="7d95fd2e-3cc9-4a4c-a58e-0fbc408c2f9b">Aanvullend reglement op het wegverkeer m.b.t. één of meerdere gewestwegen</option>
+                                    <option value="b2d0734d-13d0-44b4-9af8-1722933c5288">Aanvullende belasting of opcentiem</option>
+                                    <option value="a0a709a7-ac07-4457-8d40-de4aea9b1432">Advies bij jaarrekening AGB</option>
+                                    <option value="8bdc614a-d2f2-44c0-8cb1-447b1017d312">Advies bij jaarrekening APB</option>
+                                    <option value="79414af4-4f57-4ca3-aaa4-f8f1e015e71c">Advies bij jaarrekening eredienstbestuur</option>
+                                    <option value="4350cdda-8291-4055-9026-5c7429357fce">Advies jaarrekening OCMW-vereniging</option>
+                                    <option value="51982214-0d8b-4cd9-87cf-c46570cd1ed3">Advies jaarrekening vereniging of vennootschap voor maatschappelijk welzijn</option>
+                                    <option value="13fefad6-a9d6-4025-83b5-e4cbee3a8965">Agenda</option>
+                                    <option value="84121221-4217-40e3-ada2-cd1379b168e1">Andere</option>
+                                    <option value="0ee460b1-5ef4-4d4a-b5e1-e2d7c1d5086e">Andere documenten BBC</option>
+                                    <option value="bf72e38a-2c73-4484-b82f-c642a4c39d0c">Authentieke akte van de statuten (art. 477 DLB)</option>
+                                    <option value="efa4ec5a-b006-453f-985f-f986ebae11bc">Belastingreglement</option>
+                                    <option value="9f12dc58-18ba-4a1f-9e7a-cf73d0b4f025">Besluit budget AGB</option>
+                                    <option value="849c66c2-ba33-4ac1-a693-be48d8ac7bc7">Besluit meerjarenplan(aanpassing) AGB</option>
+                                    <option value="82d0696e-1225-4684-826a-923b2453f5e3">Besluit over budget APB</option>
+                                    <option value="df261490-cc74-4f80-b783-41c35e720b46">Besluit over budget(wijziging) eredienstbestuur</option>
+                                    <option value="70ae4d36-de0c-425d-9dbe-3b6deef8343c">Besluit over budget(wijziging) OCMW-vereniging</option>
+                                    <option value="c417f3da-a3bd-47c5-84bf-29007323a362">Besluit over meerjarenplan APB</option>
+                                    <option value="f276bc3b-2d79-4c55-81b8-092e05619676">Besluit over meerjarenplan(aanpassing) AGB</option>
+                                    <option value="c258f7b8-0bcc-481c-923d-b58b15248422">Besluit over meerjarenplan(aanpassing) APB</option>
+                                    <option value="3fcf7dba-2e5b-4955-a489-6dd8285c013b">Besluit over meerjarenplan(aanpassing) eredienstbestuur</option>
+                                    <option value="e6425cd1-26f2-4cd8-aa0f-1e9b65619c3a">Besluit over vaststelling budget eredienstbestuur</option>
+                                    <option value="e2928231-d377-48c7-98b4-3bb2f7de65db">Besluit over vaststelling budgetwijziging eredienstbestuur</option>
+                                    <option value="00527d30-e60b-4fa5-9152-f42dddd10ff6">Besluit over vaststelling meerjarenplanaanpassing eredienstbestuur</option>
+                                    <option value="bdb04f43-97d2-4be2-aa92-8affd1f3fec8">Besluit over vaststelling van meerjarenplan AGB</option>
+                                    <option value="c76a04b4-cf41-44e1-b597-94c0b3628357">Besluit over vaststelling van meerjarenplan APB</option>
+                                    <option value="35d9d01c-015c-4fb9-8ec1-8227f9f4d28c">Besluit over vaststelling van meerjarenplanaanpassing AGB</option>
+                                    <option value="31d500ce-bd0a-4ff3-9337-48194f22f37e">Besluit over vaststelling van meerjarenplanaanpassing APB</option>
+                                    <option value="3fa67785-ffdc-4b30-8880-2b99d97b4dee">Besluitenlijst</option>
+                                    <option value="40831a2c-771d-4b41-9720-0399998f1873">Budget</option>
+                                    <option value="cb361927-1aab-4016-bd8a-1a84841391ba">Collectieve motie van wantrouwen</option>
+                                    <option value="4c22ef0a-f808-41dd-9c9f-2aff17fd851f">Contantbelasting</option>
+                                    <option value="94657ec2-e8a1-411f-bb96-d0ea517d7051">Deelname in een EVA</option>
+                                    <option value="5ee63f84-2fa0-4758-8820-99dca2bdce7c">Delegatiereglement</option>
+                                    <option value="25deb453-ae3e-4d40-8027-36cdb48ab738">Deontologische Code</option>
+                                    <option value="fb92601a-d189-4482-9922-ab0efc6bc935">Gebruikersreglement</option>
+                                    <option value="6af621e2-c807-479e-a6f2-2d64d8339491">Goedkeuringstoezicht Voeren</option>
+                                    <option value="a8486fa3-6375-494d-aa48-e34289b87d5b">Huishoudelijk reglement</option>
+                                    <option value="e44c535d-4339-4d15-bdbf-d4be6046de2c">Jaarrekening</option>
+                                    <option value="48c3290d-d9e3-4a38-b14e-e7c417e3a13a">Kerkenbeleidsplan eredienstbesturen</option>
+                                    <option value="8597e056-b96d-4213-ad4c-37338f2aaf35">Kohierbelasting</option>
+                                    <option value="f56c645d-b8e1-4066-813d-e213f5bc529f">Meerjarenplan(aanpassing)</option>
+                                    <option value="2f189152-1786-4b55-a3a9-d7f06de63f1c">Meerjarenplan(aanpassing) BBC2020</option>
+                                    <option value="8e791b27-7600-4577-b24e-c7c29e0eb773">Notulen</option>
+                                    <option value="bd0b0c42-ba5e-4acc-b644-95f6aad904c7">Oprichting autonoom bedrijf</option>
+                                    <option value="380674ee-0894-4c41-bcc1-9deaeb9d464c">Oprichting districtsbestuur</option>
+                                    <option value="1105564e-30c7-4371-a864-6b7329cdae6f">Oprichting IGS</option>
+                                    <option value="b69c9f18-967c-4feb-90a8-8eea3c8ce46b">Oprichting ocmw-vereniging</option>
+                                    <option value="f8c070bd-96e4-43a1-8c6e-532bcd771251">Oprichting of deelname EVA</option>
+                                    <option value="6199a44b-0d6c-407c-833a-73abb104efce">Oprichting of toetreding vereniging of vennootschap voor maatschappelijk welzijn</option>
+                                    <option value="f4ba730e-3f12-4c2f-81cf-31922b6da166">Oprichting rechtspersoon IGS</option>
+                                    <option value="09ac9b9b-2585-4195-8c11-8cf8592de213">Oprichting van een EVA</option>
+                                    <option value="2c2f5e3c-827f-4ad7-906a-176f3bda08ce">Oprichting van een vereniging voor maatschappelijk welzijn</option>
+                                    <option value="4673d472-8dbc-4cea-b3ab-f92df3807eb3">Personeelsreglement</option>
+                                    <option value="e8afe7c5-9640-4db8-8f74-3f023bec3241">Politiereglement</option>
+                                    <option value="fb21d14b-734b-48f4-bd4e-888163fd08e8">Rechtspositieregeling (RPR)</option>
+                                    <option value="e8aee49e-8762-4db2-acfe-2d5dd3c37619">Reglement Onderwijs</option>
+                                    <option value="67378dd0-5413-474b-8996-d992ef81637a">Reglementen en verordeningen</option>
+                                    <option value="ba5922c9-cfad-4b2e-b203-36479219ba56">Retributiereglement</option>
+                                    <option value="b4c828e4-bcb8-46ff-8abf-5fde227d2459">Samenstelling bestuursorganen</option>
+                                    <option value="b25faa84-3ab5-47ae-98c0-1b389c77b827">Schorsing beslissing eredienstbesturen</option>
+                                    <option value="5226e23d-617d-48b9-9c00-3d679ae88fec">Statutenwijziging autonoom bedrijf</option>
+                                    <option value="dbc58656-b0a5-4e43-8e9e-701acb75f9b0">Statutenwijziging IGS</option>
+                                    <option value="9a02d21f-fdc4-455e-8892-c2ae1d33759a">Statutenwijziging rechtspersoon IGS</option>
+                                    <option value="f1d16307-164c-4278-87b9-1d3b1d968f67">Statutenwijziging vereniging of vennootschap voor maatschappelijk welzijn</option>
+                                    <option value="d7060f97-c417-474c-abc6-ef006cb61f41">Subsidie, premie, erkenning</option>
+                                    <option value="256bd04a-b74b-4f2a-8f5d-14dda4765af9">Tijdelijke politieverordening (op het wegverkeer)</option>
+                                    <option value="e27ef237-29de-49b8-be22-4ee2ab2d4e5b">Toetreding rechtspersoon</option>
+                                    <option value="2dca7056-06aa-44f0-b8ca-4e1002cdd119">Toetreding tot een vennootschap voor maatschappelijk welzijn</option>
+                                    <option value="a8cdb80d-d409-40ed-bb8b-ddfd0acb28df">Toetreding tot een vereniging voor maatschappelijk welzijn</option>
+                                    <option value="9d5bfaca-bbf2-49dd-a830-769f91a6377b">Uittreksel</option>
+                                    <option value="f1fd8f88-95b0-4085-b766-008b5867d992">Vaststelling gemeenteweg</option>
+                                    <option value="35c15ea0-d0c3-4ba7-b91f-b1c6264800b1">Vaststelling van meerjarenplan</option>
+                                    <option value="73d5d79f-3f70-4ca9-9512-e216300cd3ac">Vaststelling van meerjarenplan BBC2020</option>
+                                    <option value="23735395-a487-4f0b-9ffa-f8ee1d3cd84f">Vaststelling van meerjarenplanaanpassing</option>
+                                    <option value="1869e152-e724-4dd7-927c-a11e7d832858">Vaststelling van meerjarenplanaanpassing BBC2020</option>
+                                    <option value="c945b531-4742-43fe-af55-b13da6ecc6fe">Wijziging autonoom bedrijf</option>
+                                    <option value="d9c3d177-6dc6-4775-8c6a-1055a9cbdcc6">Wijziging ocmw-vereniging</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-2 col-md-2 col-sm-12 align-self-center">
+                                <label for="title">Titel</label>
+                            </div>
+                            <div class="col-lg-6 col-md-10 col-sm-12">
+                                <input type="text" class="form-control" id="title" name="title" value="" />
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                <input type="hidden" name="page" id="page" value="0" />
+                                <input type="hidden" name="pageSize" id="pageSize" value="10" />
+                                <button type="button" class="btn btn-primary" id="btnSearch">Zoeken</button>
+                                <span class="result-count">70 resultaten gevonden</span>
+                            </div>
+                        </div>
+                    </form>
+
+                    <div class="search-results">
+                        <a href="#" class="result-row" data-type="MEETING_ITEM" data-id="26.0423.2868.2105" data-meeting-id="26.0416.5164.8705" data-content-published="true">
+                            <p class="title">2026_ZR_00041 - Jaarrekening 2016-2023 - Goedkeuring gouverneur - Kennisneming</p>
+                            <p class="metadata">
+                                <span class="date" hidden="hidden"></span>
+                                <span class="date">29/06/2026 17:00</span>
+                                <span class="organ">zoneraad</span>
+                            </p>
+                        </a><a href="#" class="result-row" data-type="MEETING_ITEM" data-id="26.0519.7774.7537" data-meeting-id="26.0416.5164.8705" data-content-published="true">
+                            <p class="title">2026_ZR_00038 - EthiasCo 2026 - Algemene Vergadering 11 juni 2026. Opdracht vertegenwoordiger Brandweer Zone Antwerpen - Bekrachtiging</p>
+                            <p class="metadata">
+                                <span class="date" hidden="hidden"></span>
+                                <span class="date">29/06/2026 17:00</span>
+                                <span class="organ">zoneraad</span>
+                            </p>
+                        </a><a href="#" class="result-row" data-type="MEETING_ITEM" data-id="26.0422.9143.1985" data-meeting-id="26.0319.3457.5593" data-content-published="true">
+                            <p class="title">2026_ZR_00032 - Creat 2026 - Algemene vergadering 16 juni 2026. Opdracht vertegenwoordiger Brandweer Zone Antwerpen - Goedkeuring</p>
+                            <p class="metadata">
+                                <span class="date" hidden="hidden"></span>
+                                <span class="date">18/05/2026 17:00</span>
+                                <span class="organ">zoneraad</span>
+                            </p>
+                        </a><a href="#" class="result-row" data-type="MEETING_ITEM" data-id="22.0609.0112.4847" data-meeting-id="21.0916.9473.1133" data-content-published="true">
+                            <p class="title">2022_CBS_04881 - Beleids- en beheerscyclus. AG Digipolis Antwerpen - Meerjarenplan 2021-2025. Aanpassing 4 - Goedkeuring</p>
+                            <p class="metadata">
+                                <span class="date" hidden="hidden"></span>
+                                <span class="date">10/06/2022 09:00</span>
+                                <span class="organ">college van burgemeester en schepenen</span>
+                            </p>
+                        </a><a href="#" class="result-row" data-type="MEETING_ITEM" data-id="22.1026.1110.6347" data-meeting-id="21.1007.8050.2986" data-content-published="true">
+                            <p class="title">2022_GR_00665 - Beleids- en beheerscyclus. Stad en OCMW Antwerpen - Meerjarenplan 2020-2025. Aanpassing 6 - Goedkeuring</p>
+                            <p class="metadata">
+                                <span class="date" hidden="hidden"></span>
+                                <span class="date">28/11/2022 19:30</span>
+                                <span class="organ">gemeenteraad</span>
+                            </p>
+                        </a><a href="#" class="result-row" data-type="MEETING_ITEM" data-id="22.1026.2648.5118" data-meeting-id="21.1007.0251.8053" data-content-published="true">
+                            <p class="title">2022_RMW_00038 - Beleids- en beheerscyclus. Stad en OCMW Antwerpen - Meerjarenplan 2020-2025. Aanpassing 6 - Goedkeuring</p>
+                            <p class="metadata">
+                                <span class="date" hidden="hidden"></span>
+                                <span class="date">28/11/2022 21:00</span>
+                                <span class="organ">Raad voor Maatschappelijk Welzijn</span>
+                            </p>
+                        </a><a href="#" class="result-row" data-type="MEETING_ITEM" data-id="22.0613.2863.3936" data-meeting-id="21.0923.4980.0746" data-content-published="true">
+                            <p class="title">2022_GR_00433 - AG Digipolis Antwerpen. Beleids- en beheerscyclus - Meerjarenplan 2021-2025. Aanpassing 4 - Goedkeuring</p>
+                            <p class="metadata">
+                                <span class="date" hidden="hidden"></span>
+                                <span class="date">27/06/2022 19:30</span>
+                                <span class="organ">gemeenteraad</span>
+                            </p>
+                        </a><a href="#" class="result-row" data-type="MEETING_ITEM" data-id="22.0324.5169.7477" data-meeting-id="21.0916.3451.8665" data-content-published="true">
+                            <p class="title">2022_GR_00280 - Beleids- en beheerscyclus. Stad en OCMW Antwerpen - Jaarrekening 2021  - Vaststelling</p>
+                            <p class="metadata">
+                                <span class="date" hidden="hidden"></span>
+                                <span class="date">30/05/2022 19:30</span>
+                                <span class="organ">gemeenteraad</span>
+                            </p>
+                        </a><a href="#" class="result-row" data-type="MEETING_ITEM" data-id="22.0324.6395.2082" data-meeting-id="21.0916.7731.5095" data-content-published="true">
+                            <p class="title">2022_RMW_00015 - Beleids- en beheerscyclus. Stad en OCMW Antwerpen - Jaarrekening 2021 - Vaststelling</p>
+                            <p class="metadata">
+                                <span class="date" hidden="hidden"></span>
+                                <span class="date">30/05/2022 21:00</span>
+                                <span class="organ">Raad voor Maatschappelijk Welzijn</span>
+                            </p>
+                        </a><a href="#" class="result-row last" data-type="MEETING_ITEM" data-id="25.0417.7184.4840" data-meeting-id="25.0113.9855.5071" data-content-published="true">
+                            <p class="title">2025_GR_00455 - Stad en OCMW Antwerpen. Beleids- en beheerscyclus - Jaarrekening 2024 - Vaststelling</p>
+                            <p class="metadata">
+                                <span class="date" hidden="hidden"></span>
+                                <span class="date">23/06/2025 19:30</span>
+                                <span class="organ">gemeenteraad</span>
+                            </p>
+                        </a>
+
+                        <div class="row pager-row">
+                            <div class="col-md-6">
+                                <p class="pager-text">1 tot 10 van 70 resultaten</p>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="search-results-pager"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="contentNotPublishedModal" tabindex="-1" role="dialog" aria-labelledby="contentNotPublishedModal" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="modalTitle">Inhoud agendapunt niet gepubliceerd</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <span style="display: block; margin-bottom: 5px;" >De inhoud van dit agendapunt is niet gepubliceerd. </span>
+                        <a id="modalHyperlink">Bekijk de agenda waar dit agendapunt op besproken is.</a>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-dismiss="modal" >Sluiten</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </section>
+    <footer>
+    
+
+    <div class="container">
+        <div class="copyright">
+            &copy;&nbsp;<a href="https://www.greenvalleybelgium.be" target="_blank">Green Valley Belgium</a>
+        </div>
+        <div class="contact"></div>
+    </div>
+</footer>
+    <script>
+        var _currentPage = 1;
+        var _numberOfPages = 7;
+    </script>
+</body>
+</html>

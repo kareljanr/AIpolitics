@@ -20919,3 +20919,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +5; entities +1 igs_hvriv; budgets +14; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1748=done + rq_1749 spawn; ticks_completed=1748. Raw docs/doge/raw/tick1748/.
 - FOI opened: gap_hvriv_spend_36_63m_pers_26_60m_rekening_l5 ready (full balans/VTE/per-gemeente gemdot / fed DGH JUMP / text JR). Do not send.
 - Next: rq_1749 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 / APEFE / ABS/POV/BVAS / IOED/HVZ-Waasland-Rand-Centrum. **Tick 1750 MUST every-10 progress refresh.**
+
+### 2026-08-24T08:35:00Z - tick 1749
+- Unit: rq_1749 Brandweerzone Centrum / HVZ Centrum (leftover IGS hulpverleningszone of mined Gent+Merelbeke-Melle) (KBO **0500.927.497**; Roggestraat 70 9000 Gent; brandweerzonecentrum.be; zonesecretariaat@bwzc.be; official **Stad Gent GR 17.11.2025** 2025_GR_01012 gewijzigde dotatie dienstjaar 2025). Honest leftover AGB Bornem still JR2024-only. NSZ/Dijk92/APEFE CDN **403**. BZA JR afkondiging live but rekening PDFs not currently on antwerpen.be page. Preferred AGB blocked — leftover HVZ Centrum official Gent dots **live** taken. New entity igs_hvzc. Envelope = Gent gross dots **46932453.88**. NOT every-10 (next 1750 MUST).
+- Found (official Gent GR strong): expl **42392583.88**; invest **4224870**; pensioen **315000**; gross **46932453.88**; ristorno **-1917070.84** (zone resultaat **2.5m** mentioned); net voorgestelde uitgaven **45015383.04**. Full zone JR rekening unpublished.
+- Wrote: sources +4; entities +1 igs_hvzc; budgets +6; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1749=done + rq_1750 spawn; ticks_completed=1749. Raw docs/doge/raw/tick1749/.
+- FOI opened: gap_hvzc_gent_dot_46_93m_zone_rekening_l5 ready (full zone JR/VTE/all-gemeente dots). Do not send.
+- Next: rq_1750 **MUST every-10** progress refresh + leftover AGB/NSZ/Bosgroep/Dijk92/APEFE/HVZ-Waasland-Rand-BZA-rekening.
