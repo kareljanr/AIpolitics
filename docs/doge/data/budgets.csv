@@ -48665,3 +48665,52 @@ bud_ligo_ob_fincost_2025,vzw_ligo_ob,2025,732,,,executed,src_ligo_ob_jr2025_nbb,
 bud_ligo_ob_tax_2025,vzw_ligo_ob,2025,5846,,,executed,src_ligo_ob_jr2025_nbb,strong,YE2025 belastingen op resultaat 5846 DROP; tick1672
 bud_ligo_ob_pnl_2025,vzw_ligo_ob,2025,32249,,,executed,src_ligo_ob_jr2025_nbb,strong,YE2025 winst 32249 DROP; tick1672
 bud_ligo_ob_headcount_2025,vzw_ligo_ob,2025,151,,,executed,src_ligo_ob_jr2025_nbb,strong,YE2025 headcount 151 collegas (notes; not VTE; VL onderwijsstatuut off-books); tick1672
+bud_ligo_ant_assets_2025,vzw_ligo_ant,2025,13097935,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 balanstotaal 13097935 DROP from 13428441; tick1673
+bud_ligo_ant_va_2025,vzw_ligo_ant,2025,8885521,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 vaste activa 8885521 DROP; tick1673
+bud_ligo_ant_mva_2025,vzw_ligo_ant,2025,8770909,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 materiele VA 8770909 DROP; tick1673
+bud_ligo_ant_gebouwen_2025,vzw_ligo_ant,2025,8297215,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 terreinen/gebouwen 8297215 DROP; tick1673
+bud_ligo_ant_install_2025,vzw_ligo_ant,2025,243252,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 installaties 243252 DROP; tick1673
+bud_ligo_ant_meubilair_2025,vzw_ligo_ant,2025,174663,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 meubilair/rollend 174663 DROP; tick1673
+bud_ligo_ant_oth_mva_2025,vzw_ligo_ant,2025,55779,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 overige MVA 55779 DROP; tick1673
+bud_ligo_ant_fva_2025,vzw_ligo_ant,2025,114613,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 financiele VA 114613 JUMP; tick1673
+bud_ligo_ant_vlottend_2025,vzw_ligo_ant,2025,4212414,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 vlottende activa 4212414 JUMP; tick1673
+bud_ligo_ant_voorraden_2025,vzw_ligo_ant,2025,6907,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 voorraden 6907 flat; tick1673
+bud_ligo_ant_handelsrecv_2025,vzw_ligo_ant,2025,126259,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 handelsvorderingen ST 126259 JUMP; tick1673
+bud_ligo_ant_other_recv_2025,vzw_ligo_ant,2025,3232590,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 overige vorderingen ST 3232590 JUMP; tick1673
+bud_ligo_ant_cash_2025,vzw_ligo_ant,2025,753681,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 liquide middelen 753681 JUMP from 297936; tick1673
+bud_ligo_ant_prepaid_2025,vzw_ligo_ant,2025,92977,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 92977 JUMP; tick1673
+bud_ligo_ant_equity_2025,vzw_ligo_ant,2025,6461517,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 eigen vermogen 6461517 DROP; tick1673
+bud_ligo_ant_destin_2025,vzw_ligo_ant,2025,1314573,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 bestemde fondsen 1314573 flat (infrastructuur Stuivenbergplein); tick1673
+bud_ligo_ant_overgedragen_2025,vzw_ligo_ant,2025,25301,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 overgedragen winst 25301 JUMP; tick1673
+bud_ligo_ant_kapsubs_2025,vzw_ligo_ant,2025,5121643,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 kapitaalsubsidies 5121643 DROP from 5321671; tick1673
+bud_ligo_ant_voorzieningen_2025,vzw_ligo_ant,2025,240931,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 voorzieningen 240931 flat (herstellingen 99200 + terug te betalen subsidies 141731); tick1673
+bud_ligo_ant_debt_2025,vzw_ligo_ant,2025,6395486,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 schulden 6395486 DROP; tick1673
+bud_ligo_ant_lt_fin_debt_2025,vzw_ligo_ant,2025,2808067,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 financiele schulden LT kredietinstellingen 2808067 DROP; tick1673
+bud_ligo_ant_st_debt_2025,vzw_ligo_ant,2025,1423319,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 schulden ST 1423319 DROP; tick1673
+bud_ligo_ant_st_current_lt_2025,vzw_ligo_ant,2025,210008,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 LT binnen jaar 210008 JUMP; tick1673
+bud_ligo_ant_st_fin_2025,vzw_ligo_ant,2025,500000,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 financiele schulden ST 500000 flat (straightloan); tick1673
+bud_ligo_ant_lev_2025,vzw_ligo_ant,2025,639132,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 leveranciers ST 639132 DROP; tick1673
+bud_ligo_ant_taxsoc_2025,vzw_ligo_ant,2025,74179,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 74179 (tax 14395 + soc 59783); tick1673
+bud_ligo_ant_accrued_2025,vzw_ligo_ant,2025,2161545,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 2161545 JUMP (over te dragen Decreet 1769821 + Statutarisering 247301 + opbr 144423); tick1673
+bud_ligo_ant_opbr_2025,vzw_ligo_ant,2025,24961110,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 bedrijfsopbrengsten 70/76A 24961110 JUMP ENVELOPE; tick1673
+bud_ligo_ant_omzet_2025,vzw_ligo_ant,2025,35722,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 omzet 70 35722 DROP; tick1673
+bud_ligo_ant_code73_2025,vzw_ligo_ant,2025,24808314,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 lidgeld/schenkingen/legaten/subsidies 73 24808314 JUMP (=subsidies 733); tick1673
+bud_ligo_ant_andere_opbr_2025,vzw_ligo_ant,2025,111011,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 andere bedrijfsopbrengsten 74 111011 JUMP; tick1673
+bud_ligo_ant_nr_opbr_2025,vzw_ligo_ant,2025,6063,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfsopbrengsten 76A 6063 DROP; tick1673
+bud_ligo_ant_diensten_2025,vzw_ligo_ant,2025,2276895,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 diensten diverse goederen 61 2276895 DROP; tick1673
+bud_ligo_ant_pers_2025,vzw_ligo_ant,2025,21253596,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 bezoldigingen 62 21253596 JUMP / VTE 66.5; notes headcount 460 incl VL onderwijsstatuut; andere personeelskosten 623=20798821; tick1673
+bud_ligo_ant_afschr_2025,vzw_ligo_ant,2025,495208,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 afschrijvingen 630 495208 DROP; tick1673
+bud_ligo_ant_andere_kost_2025,vzw_ligo_ant,2025,8572,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 8572 DROP; tick1673
+bud_ligo_ant_nr_kost_2025,vzw_ligo_ant,2025,771782,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfskosten 66A 771782 JUMP; tick1673
+bud_ligo_ant_expl_2025,vzw_ligo_ant,2025,145536,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 bedrijfswinst 145536 FLIP from -134196; tick1673
+bud_ligo_ant_fininc_2025,vzw_ligo_ant,2025,981,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 financiele opbrengsten 981 JUMP; tick1673
+bud_ligo_ant_fincost_2025,vzw_ligo_ant,2025,142782,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 financiele kosten 142782 JUMP; tick1673
+bud_ligo_ant_pnl_2025,vzw_ligo_ant,2025,3735,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 winst 3735 FLIP from -230511; tick1673
+bud_ligo_ant_vte_2025,vzw_ligo_ant,2025,66.5,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 66.5 JUMP from 64.2; tick1673
+bud_ligo_ant_dimona_eoy_2025,vzw_ligo_ant,2025,125,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 DIMONA/register eoy 9086 125 JUMP from 86; tick1673
+bud_ligo_ant_headcount_2025,vzw_ligo_ant,2025,460,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 headcount notes 460 personeelsleden (incl VL onderwijsstatuut; ACERTA subset 129); tick1673
+bud_ligo_ant_salary_subs_onderwijs_2025,vzw_ligo_ant,2025,20407593,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 jaarverslag subsidies loonkosten onderwijs 20407593; tick1673
+bud_ligo_ant_werk_subs_onderwijs_2025,vzw_ligo_ant,2025,2824112,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 jaarverslag subsidies werkingsmiddelen onderwijs 2824112; tick1673
+bud_ligo_ant_stad_stedenfonds_2025,vzw_ligo_ant,2025,1015156,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 jaarverslag stedelijke middelen Stedenfonds 1015156; tick1673
+bud_ligo_ant_stad_extra_2025,vzw_ligo_ant,2025,250000,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 jaarverslag extra subsidie Stad Antwerpen 250000; tick1673
+bud_ligo_ant_gov_guaranteed_debt_2025,vzw_ligo_ant,2025,3018075,,,executed,src_ligo_ant_jr2025_nbb,strong,YE2025 door Belgische overheidsinstellingen gewaarborgde schulden 3018075; tick1673
