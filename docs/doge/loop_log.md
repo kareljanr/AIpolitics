@@ -20969,3 +20969,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; entities update brandweerzone_antwerpen; budgets +12; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1755=done + rq_1756 spawn; ticks_completed=1755. Raw docs/doge/raw/tick1755/.
 - FOI opened: gap_bza_jr2025_rekening_unpublished_l5 ready (full JR/VTE/gemdot). Do not send.
 - Next: rq_1756 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 / APEFE / ABS/POV/BVAS / IOED/HVZ-VBWest. Do NOT redo BZA/BWOL/HVZZuidOost continuum. NOT every-10 (next **1760**).
+
+### 2026-08-24T11:45:00Z - tick 1756
+- Unit: rq_1756 Vivalys SA (leftover Vivalto WZC dual Woluwe-Saint-Lambert) (KBO **0433.712.239**; NV; Boulevard de la Woluwe 106-108 1200; vivaltohome.com/nl/maisons/vivalys/; official NBB **A-cap** YE2025 deposit **2026-00176182** CDN **200**; AV **21.05.2026**; commissaris Forvis Mazars / Francois Collie - **oordeel zonder voorbehoud** + comfort observation + Art **7:228**; moeder Vivalto Home Belgium SA / Vivalto Vie Holding Paris). Honest leftover AGB Bornem still JR2024-only. NSZ/Dijk92/APEFE CDN **403**. VBWest JR2025 still **verdaged**. Preferred AGB blocked - leftover Vivalys official NBB JR2025 **live** taken. New entity nv_vivalys. Envelope = bruto **5534007**. NOT every-10 (next 1760).
+- Found (NBB YE2025 strong): assets **2222995**; equity **NEG 8633569**; debt **10856564** (ST autres **8701100**); bruto **5534007** (70 empty); staff **5229644** / VTE **88.8**; expl **-106201**; PnL **-300441**; non-rec op **197500**; parent comfort to AV YE2026.
+- Wrote: sources +3; entities +1 nv_vivalys; budgets +12; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1756=done + rq_1757 spawn; ticks_completed=1756. Raw docs/doge/raw/tick1756/.
+- FOI opened: gap_vivalys_bruto_5_53m_equity_neg_8_63m_comfort_l5 ready (omzet/comfort/ST debt/Art7228). Do not send.
+- Next: rq_1757 leftover AGB/**NSZ if CDN 200**/Bosgroep/Felicite-Brembloem/Dijk92 / APEFE / HVZ-VBWest. Do NOT redo Vivalys/BZA continuum. NOT every-10 (next **1760**).

@@ -50326,3 +50326,15 @@ bud_bza_B2026_bw1_fed,brandweerzone_antwerpen,2026,13450919.50,,,budget,src_bza_
 bud_bza_B2026_bw1_invest,brandweerzone_antwerpen,2026,8503056.48,,,budget,src_bza_bw1_2026,strong,BW1-2026 buitengewone investeringen 8503056.48; tick1755
 bud_bza_B2026_bw1_buitengewoon_spend,brandweerzone_antwerpen,2026,8733125.48,,,budget,src_bza_bw1_2026,strong,BW1-2026 buitengewone uitgaven 8733125.48; tick1755
 bud_bza_jr2025_batig_carry,brandweerzone_antwerpen,2025,53327890.23,,,carry_forward,src_bza_bw1_2026,strong,BW1 table: batig resultaat gewone begroting vorig jaar (JR2025) 53327890.23 — implies JR executed; full rekening PDF FOI; tick1755
+bud_vivalys_assets_2025,nv_vivalys,2025,2222995,,,stock,src_vivalys_jr2025_nbb,strong,Assets YE2025 2222995; tick1756
+bud_vivalys_equity_2025,nv_vivalys,2025,-8633569,,,stock,src_vivalys_jr2025_nbb,strong,Equity NEG 8633569 Art7228; tick1756
+bud_vivalys_debt_2025,nv_vivalys,2025,10856564,,,stock,src_vivalys_jr2025_nbb,strong,Debt total 10856564; tick1756
+bud_vivalys_debt_st_other_2025,nv_vivalys,2025,8701100,,,stock,src_vivalys_jr2025_nbb,strong,ST autres dettes 8701100; tick1756
+bud_vivalys_bruto_2025,nv_vivalys,2025,5534007,,,realized,src_vivalys_jr2025_nbb,strong,Brutomarge 9900 5534007 (70 empty); tick1756
+bud_vivalys_staff_2025,nv_vivalys,2025,5229644,,,realized,src_vivalys_jr2025_nbb,strong,Staff 5229644 / VTE 88.8; tick1756
+bud_vivalys_expl_2025,nv_vivalys,2025,-106201,,,realized,src_vivalys_jr2025_nbb,strong,Exploitation loss -106201; tick1756
+bud_vivalys_pnl_2025,nv_vivalys,2025,-300441,,,realized,src_vivalys_jr2025_nbb,strong,PnL -300441; tick1756
+bud_vivalys_nonrec_op_2025,nv_vivalys,2025,197500,,,realized,src_vivalys_jr2025_nbb,strong,Non-rec op products 197500; tick1756
+bud_vivalys_fin_charges_2025,nv_vivalys,2025,194671,,,realized,src_vivalys_jr2025_nbb,strong,Financial charges 194671; tick1756
+bud_vivalys_cash_2025,nv_vivalys,2025,205727,,,stock,src_vivalys_jr2025_nbb,strong,Cash 205727; tick1756
+bud_vivalys_commissaris_2025,nv_vivalys,2025,8064,,,realized,src_vivalys_jr2025_nbb,strong,Commissaris fee 8064; tick1756
