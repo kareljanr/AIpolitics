@@ -50202,3 +50202,15 @@ bud_deverlosser_goederen_diensten_2025,vzw_de_verlosser,2025,1026867,,,executed,
 bud_deverlosser_staff_2025,vzw_de_verlosser,2025,2177394,,,executed,src_deverlosser_nbb_ye2025,strong,NBB 62 2177394 / VTE 31; tick1742
 bud_deverlosser_expl_2025,vzw_de_verlosser,2025,90558,,,executed,src_deverlosser_nbb_ye2025,strong,NBB bedrijfswinst 9901 90558; tick1742
 bud_deverlosser_pnl_2025,vzw_de_verlosser,2025,94194,,,executed,src_deverlosser_nbb_ye2025,strong,NBB PnL 9904 94194; AV 11.05.2026; VKT no commissaris; tick1742
+bud_akapella_assets_2025,vzw_akapella,2025,1004739,,,executed,src_akapella_nbb_ye2025,strong,NBB 20/58 assets 1004739 DROP vs 2180271; tick1743
+bud_akapella_va_2025,vzw_akapella,2025,131022,,,executed,src_akapella_nbb_ye2025,strong,NBB VA 131022; tick1743
+bud_akapella_vlottend_2025,vzw_akapella,2025,873717,,,executed,src_akapella_nbb_ye2025,strong,NBB vlottend 873717 DROP; tick1743
+bud_akapella_cash_2025,vzw_akapella,2025,376390,,,executed,src_akapella_nbb_ye2025,strong,NBB liquide 376390 DROP vs 504895; tick1743
+bud_akapella_andere_recv_2025,vzw_akapella,2025,839,,,executed,src_akapella_nbb_ye2025,strong,NBB andere vorderingen 839 DROP vs 1070356; FOI group sweep; tick1743
+bud_akapella_equity_2025,vzw_akapella,2025,33392,,,executed,src_akapella_nbb_ye2025,strong,NBB EV 33392 DROP vs 881149 after schenking 1405000; tick1743
+bud_akapella_debt_2025,vzw_akapella,2025,971347,,,executed,src_akapella_nbb_ye2025,strong,NBB schulden 971347; tick1743
+bud_akapella_bruto_2025,vzw_akapella,2025,4999525,,,executed,src_akapella_nbb_ye2025,strong,NBB brutomarge 9900 4999525; 70/73 empty VKT; tick1743
+bud_akapella_staff_2025,vzw_akapella,2025,4373948,,,executed,src_akapella_nbb_ye2025,strong,NBB 62 4373948 / VTE 68; tick1743
+bud_akapella_expl_2025,vzw_akapella,2025,570221,,,executed,src_akapella_nbb_ye2025,strong,NBB bedrijfswinst 9901 570221; tick1743
+bud_akapella_pnl_2025,vzw_akapella,2025,557243,,,executed,src_akapella_nbb_ye2025,strong,NBB PnL 9904 557243; AV 08.05.2026; Mazars zonder voorbehoud; tick1743
+bud_akapella_schenking_2025,vzw_akapella,2025,1405000,,,executed,src_akapella_nbb_ye2025,strong,NBB resultaatverwerking schenking 1405000 to similar VZW (same EUR as Prinsenhof); FOI; tick1743
