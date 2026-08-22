@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 1570** (2026-08-22)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1561-1569 leftover public koepel: **publiq** · **Cultuurconnect** · **OP-TIL** · **VI.BE** · **De Ambrassade** · **Danspunt** · **Circuscentrum** · **JINT** · **Formaat** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1561-1569 is VL residual dual L5 leftover public koepel (not near-complete of 348bn):** **JINT** assets **8.37m** · **publiq** assets **4.20m** · **Cultuurconnect** assets **6.48m** · **Formaat** assets **2.05m** · **De Ambrassade** assets **3.81m** · **VI.BE** assets **0.94m** · **OP-TIL** assets **1.04m** · **Danspunt** assets **0.58m** · **Circuscentrum** assets **0.49m** · prior leftover EVA/koepel/IGS/HVZ/CAW/CGG/woonmaatschappij stack retained |
+| **E. FOI-ready gaps** | **~1212** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1260** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual debt/AFM NEG + leasing/city-loan/erfpacht/DBFM/portfolio/waste-water-streek/klimaat-holding/energy-DSO/zorg/cultuur/landschap/bosgroep/woonmaatschappij/CGG/CAW/HVZ/crematorium/koepel shells** (**NEW Formaat** assets **EUR2.05m** bruto **EUR3.45m** 73 **EUR3.93m** pers **EUR3.30m** / **44.7 VTE** expl LOSS **EUR24.4k** · **JINT** assets **EUR8.37m** bruto **EUR2.38m** cash **EUR7.30m** lev **EUR6.48m** · **Circuscentrum** assets **EUR0.49m** · **Danspunt** assets **EUR0.58m** · **De Ambrassade** assets **EUR3.81m** · **VI.BE** assets **EUR0.94m** · **OP-TIL** assets **EUR1.04m** · **Cultuurconnect** assets **EUR6.48m** opbr **EUR12.75m** · **publiq** assets **EUR4.20m** bruto **EUR7.29m** · **Socius** assets **EUR1.36m** · prior Inagro/VVSG/VLIR/VLHORA/HVZ/CAW/CGG/woonmaatschappij stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1570)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 45475 |
+| commitments.csv | 5169 |
+| leaderboard.csv | 7372 |
+| entities.csv | 1313 |
+| sources.csv | 3413 |
+| FOI ready | 1212 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1260 |
+| research_queue open | rq_116 deferred + rq_1571 hole-fill after progress |
+
+### What improved since tick 1560
+
+- **VL residual dual leftover public koepel (tick1561-1568):** **publiq** assets **4.20m** · **Cultuurconnect** assets **6.48m** · **OP-TIL** assets **1.04m** · **VI.BE** assets **0.94m** · **De Ambrassade** assets **3.81m** · **Danspunt** assets **0.58m** · **Circuscentrum** assets **0.49m** · **JINT** assets **8.37m** — no invented euros.
+- **NEW (tick1569):** **Formaat** (KBO 0410.935.352) leftover public koepel VZW / steunpunt jeugdhuizen of mined Flanders. Official NBB VKT-VZW deposit **2026-00070744** PDF (135959 bytes / 21p; AV 17.03.2026; created 02.04.2026 08:33:10 UTC). Assets **2.045.649** · bruto **3.445.712** · omzet **68.244** · 73 **3.926.332** · pers **3.304.306** / **44.7 VTE** · expl **-24.447 LOSS** · PnL **-17.386 LOSS** · other costs JUMP **102.436** (incl **75k** jeugdhuis doorstorting). FOI ready. Every-10 progress refresh from on-disk CSVs. Leftover AGB/Bosgroep/Dijk92 CDN 403/IOED/FARO JR2024 still unpublished this window so leftover public koepels with live official JR2025 euros taken.
+- **Dual map themes:** **leftover public koepel** (JINT 8.37m / Cultuurconnect 6.48m / publiq 4.20m / Ambrassade 3.81m / Formaat 2.05m / OP-TIL 1.04m / VI.BE 0.94m / Danspunt 0.58m / Circuscentrum 0.49m / Socius 1.36m / …) · leftover EVA (Inagro 57.44m) · leftover IGS crematorium/waste/HVZ · leftover CAW/CGG/woonmaatschappij stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn** (bud_gg_2025_total). Next every-10 is **1580**.
+
 ## Snapshot at **tick 1560** (2026-08-20)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
