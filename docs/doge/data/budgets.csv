@@ -50240,3 +50240,16 @@ bud_buitenhof_expl_2025,nv_buitenhof,2025,67996,,,executed,src_buitenhof_nbb_ye2
 bud_buitenhof_nonrec_fin_2025,nv_buitenhof,2025,5694303,,,executed,src_buitenhof_nbb_ye2025,strong,NBB 76B non-rec fin income 5694303; FOI nature; tick1745
 bud_buitenhof_pnl_2025,nv_buitenhof,2025,5404991,,,executed,src_buitenhof_nbb_ye2025,strong,NBB PnL 9904 5404991 (vs -686601); AV 08.05.2026; Mazars zonder voorbehoud; tick1745
 bud_buitenhof_aedifica_lease_ob_2025,nv_buitenhof,2025,9209906,,,executed,src_buitenhof_nbb_ye2025,strong,NBB off-balance future Aedifica rents 9209906 to 29.12.2037; tick1745
+bud_hofschoten_assets_2025,bv_hofschoten,2025,1477675,,,executed,src_hofschoten_nbb_ye2025,strong,NBB 20/58 assets 1477675 DROP vs 1756275; tick1746
+bud_hofschoten_va_2025,bv_hofschoten,2025,271680,,,executed,src_hofschoten_nbb_ye2025,strong,NBB VA 271680; tick1746
+bud_hofschoten_vlottend_2025,bv_hofschoten,2025,1205995,,,executed,src_hofschoten_nbb_ye2025,strong,NBB vlottend 1205995 DROP; tick1746
+bud_hofschoten_cash_2025,bv_hofschoten,2025,266682,,,executed,src_hofschoten_nbb_ye2025,strong,NBB liquide 266682 JUMP vs 138490; tick1746
+bud_hofschoten_andere_recv_2025,bv_hofschoten,2025,452643,,,executed,src_hofschoten_nbb_ye2025,strong,NBB andere vorderingen 452643 DROP vs 885481 (=related 9500); FOI group; tick1746
+bud_hofschoten_equity_2025,bv_hofschoten,2025,-834711,,,executed,src_hofschoten_nbb_ye2025,strong,NBB EV NEG 834711 (worse vs NEG 552033); Vivalto comfort + art 5:153; tick1746
+bud_hofschoten_debt_2025,bv_hofschoten,2025,2312387,,,executed,src_hofschoten_nbb_ye2025,strong,NBB schulden 2312387; LT overige leningen 1280225 (>5y); tick1746
+bud_hofschoten_bruto_2025,bv_hofschoten,2025,2878805,,,executed,src_hofschoten_nbb_ye2025,strong,NBB brutomarge 9900 2878805; 70/60-61 empty VKT; tick1746
+bud_hofschoten_staff_2025,bv_hofschoten,2025,3047899,,,executed,src_hofschoten_nbb_ye2025,strong,NBB 62 3047899 > bruto; VTE 47.1 DROP vs 52.4 (9087); tick1746
+bud_hofschoten_expl_2025,bv_hofschoten,2025,-260036,,,executed,src_hofschoten_nbb_ye2025,strong,NBB bedrijfsverlies 9901 -260036; tick1746
+bud_hofschoten_pnl_2025,bv_hofschoten,2025,-282679,,,executed,src_hofschoten_nbb_ye2025,strong,NBB PnL 9904 -282679; AV 08.05.2026; Mazars zonder voorbehoud + 5:153; tick1746
+bud_hofschoten_lt_other_loans_2025,bv_hofschoten,2025,1280225,,,executed,src_hofschoten_nbb_ye2025,strong,NBB LT overige leningen 1280225 all >5y; FOI creditor; tick1746
+bud_hofschoten_aedifica_lease_ob_2025,bv_hofschoten,2025,21137830,,,executed,src_hofschoten_nbb_ye2025,strong,NBB off-balance future Aedifica rents 21137830 to 14.12.2045; bankgarantie 493407; tick1746
