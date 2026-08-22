@@ -47997,3 +47997,39 @@ bud_intersoc_fininc_2025,vzw_intersoc,2025,119441,,,executed,src_intersoc_jr2025
 bud_intersoc_fincost_2025,vzw_intersoc,2025,872013,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 financiele kosten 872013 JUMP; tick1648
 bud_intersoc_pnl_2025,vzw_intersoc,2025,-1313970,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 verlies -1313970 IMPROVED from -1524764; tick1648
 bud_intersoc_commissaris_2025,vzw_intersoc,2025,25000,,,executed,src_intersoc_jr2025_nbb,strong,YE30.11.2025 commissaris fee 9505 25000; tick1648
+bud_freeclinic_assets_2025,vzw_freeclinic,2025,3634787,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 balanstotaal 3634787 DROP from 3687353 restated; tick1649
+bud_freeclinic_va_2025,vzw_freeclinic,2025,1114263,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 vaste activa 1114263 DROP; tick1649
+bud_freeclinic_mva_2025,vzw_freeclinic,2025,1106578,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 materiele VA 1106578 DROP (gebouwen 1026065); tick1649
+bud_freeclinic_fva_2025,vzw_freeclinic,2025,7686,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 financiele VA 7686 JUMP; tick1649
+bud_freeclinic_vlottend_2025,vzw_freeclinic,2025,2520523,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 vlottende activa 2520523 JUMP; tick1649
+bud_freeclinic_handelsrecv_2025,vzw_freeclinic,2025,390417,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 handelsvorderingen ST 390417 DROP; tick1649
+bud_freeclinic_other_recv_2025,vzw_freeclinic,2025,155628,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 overige vorderingen ST 155628 DROP; tick1649
+bud_freeclinic_cash_2025,vzw_freeclinic,2025,1904415,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 liquide middelen 1904415 JUMP from 1407574; tick1649
+bud_freeclinic_prepaid_2025,vzw_freeclinic,2025,70063,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 70063 JUMP; tick1649
+bud_freeclinic_equity_2025,vzw_freeclinic,2025,1739096,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 eigen vermogen 1739096 DROP; tick1649
+bud_freeclinic_fondsen_2025,vzw_freeclinic,2025,65500,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 fondsen 65500 flat; tick1649
+bud_freeclinic_destin_2025,vzw_freeclinic,2025,723993,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 bestemde fondsen 723993 JUMP; tick1649
+bud_freeclinic_overgedragen_2025,vzw_freeclinic,2025,109698,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 overgedragen winst 109698 JUMP; tick1649
+bud_freeclinic_kapsubs_2025,vzw_freeclinic,2025,839905,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 kapitaalsubsidies 839905 DROP from 990671; tick1649
+bud_freeclinic_voorzieningen_2025,vzw_freeclinic,2025,99000,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 voorzieningen 99000 JUMP (grote herstelling); tick1649
+bud_freeclinic_debt_2025,vzw_freeclinic,2025,1796690,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 schulden 1796690 JUMP; tick1649
+bud_freeclinic_lt_fin_2025,vzw_freeclinic,2025,36666,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 LT financiele schulden 36666 DROP; tick1649
+bud_freeclinic_st_debt_2025,vzw_freeclinic,2025,1663895,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 schulden ST 1663895 JUMP (incl LT within year 13500); tick1649
+bud_freeclinic_lev_2025,vzw_freeclinic,2025,871531,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 leveranciers ST 871531 JUMP; tick1649
+bud_freeclinic_taxsoc_2025,vzw_freeclinic,2025,777231,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 777231 JUMP (tax 129262 + soc 647969); tick1649
+bud_freeclinic_othdebt_2025,vzw_freeclinic,2025,1633,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 overige schulden ST 1633 DROP from 125061; tick1649
+bud_freeclinic_accrued_2025,vzw_freeclinic,2025,96129,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 96129 DROP; tick1649
+bud_freeclinic_bruto_2025,vzw_freeclinic,2025,5145122,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 brutomarge 9900 5145122 JUMP ENVELOPE; tick1649
+bud_freeclinic_pers_2025,vzw_freeclinic,2025,4868451,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 bezoldigingen 62 4868451 JUMP / 56.9 VTE (JUMP from 55.2); tick1649
+bud_freeclinic_afschr_2025,vzw_freeclinic,2025,201688,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 afschrijvingen 630 201688 JUMP; tick1649
+bud_freeclinic_wv_2025,vzw_freeclinic,2025,4818,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 waardeverminderingen 631/4 4818 DROP; tick1649
+bud_freeclinic_voorz_mut_2025,vzw_freeclinic,2025,9000,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 voorzieningen toevoeging 635/9 9000 flat; tick1649
+bud_freeclinic_andere_2025,vzw_freeclinic,2025,18022,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 18022 JUMP; tick1649
+bud_freeclinic_nr_kost_2025,vzw_freeclinic,2025,4827,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfskosten 66A 4827 NEW; tick1649
+bud_freeclinic_expl_2025,vzw_freeclinic,2025,43142,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 bedrijfswinst 43142 PROFIT FLIP from -41397; tick1649
+bud_freeclinic_fininc_2025,vzw_freeclinic,2025,6091,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 financiele opbrengsten 6091 JUMP; tick1649
+bud_freeclinic_fincost_2025,vzw_freeclinic,2025,2543,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 financiele kosten 2543 DROP; tick1649
+bud_freeclinic_pnl_2025,vzw_freeclinic,2025,46690,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 winst 46690 PROFIT FLIP from -41483; tick1649
+bud_freeclinic_hypotheek_book_2025,vzw_freeclinic,2025,193491,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 zakelijke zekerheid boekwaarde 91611 193491; tick1649
+bud_freeclinic_hypotheek_inschrijving_2025,vzw_freeclinic,2025,99790,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 hypotheekinschrijving 91621 99790; tick1649
+bud_freeclinic_hypotheek_mandaat_2025,vzw_freeclinic,2025,352686,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 hypotheekmandaat 91631 352686; tick1649
