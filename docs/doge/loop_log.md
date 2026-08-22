@@ -20777,3 +20777,10 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_lsc_oostbrabant_code73_0_44m_bruto_0_14m_staff_empty_l5 ready (donor split / VTE detacheringen / AV). Do not send.
 - Next: rq_1729 leftover AGB/**LSC Noord-Brabant if CDN text**/NSZ if CDN 200 / Bosgroep/Dijk92 / APEFE / ABS/POV/BVAS / IOED/HVZ/IGS/WZC. Do NOT redo LSC_OB/Dommelhof/GO!/Natuurpunt. **Next every-10 is 1730 MUST**.
 
+### 2026-08-24T01:45:00Z - tick 1729
+- Unit: rq_1729 Leersteuncentrum Noord-Brabant VZW (leftover VL leersteuncentrum dual LSC Oost-Brabant) (KBO **0799.959.988**; VZW; Frederik de Merodestraat 18 2800 Mechelen; lscnb.be; info@lscnb.be; official NBB **S-vzw** YE2025 deposit **2026-00109506** CDN **200**; AV ~**04.05.2026**). Honest leftover AGB Bornem still JR2024-only. NSZ CDN **403**. Dijk92 CDN **403**. APEFE CDN **403**. Preferred AGB/NSZ still blocked — leftover LSC Noord-Brabant official NBB JR2025 **live** taken (dual after LSC OB 1728). New entity vzw_lsc_noordbrabant. Envelope = werkingsopbrengsten **475607**. NOT every-10 (next **1730 MUST**).
+- Found (NBB YE2025 + JR toelichting strong): assets **1584939** (VA **69510** / cash **1506757** JUMP); equity **1274624** (fondsen **624659** / overgedragen **649965**); debt **310315** (deferred opbr **282078** to 2026); opbr **475607** (werkingsuitkeringen **460354** / nascholing ~4.5k); diensten **227175** (verplaatsingen **112296**); staff **15920**; afschr **32389**; PnL **203213**. VTE Unknown.
+- Wrote: sources +4; entities +1 vzw_lsc_noordbrabant; budgets +13; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1729=done + rq_1730 spawn (every-10 MUST); ticks_completed=1729. Raw docs/doge/raw/tick1729/.
+- FOI opened: gap_lsc_noordbrabant_opbr_0_48m_staff_0_02m_vte_l5 ready (envelope split / VTE / AV). Do not send.
+- Next: **rq_1730 EVERY-10 MUST** progress coverage % layers A–E + waste top10, then leftover AGB/NSZ/Bosgroep/Dijk92/APEFE/ABS/POV/BVAS/IOED/HVZ/IGS/WZC. Do NOT redo LSC dual/Dommelhof/GO!/Natuurpunt.
+

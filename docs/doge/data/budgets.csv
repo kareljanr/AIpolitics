@@ -49994,3 +49994,16 @@ bud_lsc_ob_diensten_2025,vzw_lsc_oostbrabant,2025,304183,,,executed,src_lsc_oost
 bud_lsc_ob_bruto_2025,vzw_lsc_oostbrabant,2025,141112,,,executed,src_lsc_oostbrabant_nbb_ye2025,strong,NBB brutomarge 9900 141112 DROP vs 566490; tick1728
 bud_lsc_ob_expl_2025,vzw_lsc_oostbrabant,2025,141090,,,executed,src_lsc_oostbrabant_nbb_ye2025,strong,NBB bedrijfswinst 9901 141090; tick1728
 bud_lsc_ob_pnl_2025,vzw_lsc_oostbrabant,2025,140967,,,executed,src_lsc_oostbrabant_nbb_ye2025,strong,NBB PnL 9904 140967; AV 21.05.2026; tick1728
+bud_lsc_nb_assets_2025,vzw_lsc_noordbrabant,2025,1584939,,,executed,src_lsc_noordbrabant_nbb_ye2025,strong,NBB S-vzw assets 1584938.79; tick1729
+bud_lsc_nb_va_2025,vzw_lsc_noordbrabant,2025,69510,,,executed,src_lsc_noordbrabant_nbb_ye2025,strong,NBB VA/MVA 69510.45; tick1729
+bud_lsc_nb_cash_2025,vzw_lsc_noordbrabant,2025,1506757,,,executed,src_lsc_noordbrabant_nbb_ye2025,strong,NBB liquide 1506757.03 JUMP; tick1729
+bud_lsc_nb_equity_2025,vzw_lsc_noordbrabant,2025,1274624,,,executed,src_lsc_noordbrabant_nbb_ye2025,strong,NBB EV 1274623.57; tick1729
+bud_lsc_nb_fondsen_2025,vzw_lsc_noordbrabant,2025,624659,,,executed,src_lsc_noordbrabant_nbb_ye2025,strong,NBB fondsen 624658.51; tick1729
+bud_lsc_nb_overgedragen_2025,vzw_lsc_noordbrabant,2025,649965,,,executed,src_lsc_noordbrabant_nbb_ye2025,strong,NBB overgedragen resultaat 649965.06; tick1729
+bud_lsc_nb_debt_2025,vzw_lsc_noordbrabant,2025,310315,,,executed,src_lsc_noordbrabant_nbb_ye2025,strong,NBB schulden 310315.22; tick1729
+bud_lsc_nb_deferred_opbr_2025,vzw_lsc_noordbrabant,2025,282078,,,executed,src_lsc_noordbrabant_nbb_ye2025,strong,NBB overlopende/overgedragen opbrengsten 282077.68 to 2026; tick1729
+bud_lsc_nb_opbr_2025,vzw_lsc_noordbrabant,2025,475607,,,executed,src_lsc_noordbrabant_nbb_ye2025,strong,NBB werkingsopbrengsten 475606.66; tick1729
+bud_lsc_nb_werkingsuitkering_2025,vzw_lsc_noordbrabant,2025,460354,,,executed,src_lsc_noordbrabant_nbb_ye2025,strong,JR toelichting werkingsuitkeringen 460353.71; tick1729
+bud_lsc_nb_diensten_2025,vzw_lsc_noordbrabant,2025,227175,,,executed,src_lsc_noordbrabant_nbb_ye2025,strong,NBB diensten 227175.09 (verplaatsingen 112296); tick1729
+bud_lsc_nb_staff_2025,vzw_lsc_noordbrabant,2025,15920,,,executed,src_lsc_noordbrabant_nbb_ye2025,strong,NBB bezoldigingen 15919.98; VTE Unknown; tick1729
+bud_lsc_nb_pnl_2025,vzw_lsc_noordbrabant,2025,203213,,,executed,src_lsc_noordbrabant_nbb_ye2025,strong,NBB overschot boekjaar 203212.58; AV ~04.05.2026; tick1729
