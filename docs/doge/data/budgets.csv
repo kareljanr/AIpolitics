@@ -49779,3 +49779,21 @@ bud_faro_diensten_2024,vzw_faro,2024,552414,,,executed,src_faro_nbb_ye2024,stron
 bud_faro_staff_2024,vzw_faro,2024,2334908,,,executed,src_faro_nbb_ye2024,strong,NBB 62 bezoldigingen 2334908 / VTE 21.6; tick1713
 bud_faro_expl_2024,vzw_faro,2024,30633,,,executed,src_faro_nbb_ye2024,strong,NBB bedrijfswinst 9901 30633; tick1713
 bud_faro_pnl_2024,vzw_faro,2024,37243,,,executed,src_faro_nbb_ye2024,strong,NBB PnL 9904 37243; AV 27.03.2025; tick1713
+bud_sacd_be_droits_percus_2025,ogc_sacd_be,2025,19666713,,,executed,src_sacd_be_ra2025_official,strong,Art.23 A droits percUS 19666713 (SPF Eco definition; excl deAuteurs brut fiscal); tick1714
+bud_sacd_be_droits_sv_2025,ogc_sacd_be,2025,5822309,,,executed,src_sacd_be_ra2025_official,strong,Art.23 A spectacle vivant 5822309; tick1714
+bud_sacd_be_droits_av_2025,ogc_sacd_be,2025,6446665,,,executed,src_sacd_be_ra2025_official,strong,Art.23 A audiovisuel 6446665; tick1714
+bud_sacd_be_droits_cable_2025,ogc_sacd_be,2025,6557919,,,executed,src_sacd_be_ra2025_official,strong,Art.23 A cable 6557919; tick1714
+bud_sacd_be_droits_copie_privee_2025,ogc_sacd_be,2025,708562,,,executed,src_sacd_be_ra2025_official,strong,Art.23 A copie privee 708562; tick1714
+bud_sacd_be_droits_repartis_payes_2025,ogc_sacd_be,2025,22093833,,,executed,src_sacd_be_ra2025_official,strong,Art.23 E droits percUS repartis=payes 22093833; tick1714
+bud_sacd_be_droits_non_repartis_dettes_2025,ogc_sacd_be,2025,22499053,,,executed,src_sacd_be_ra2025_official,strong,Art.23 F droits percUS non encore repartis dettes 22499053 (BE+siege); tick1714
+bud_sacd_be_droits_attente_paiement_2025,ogc_sacd_be,2025,1793624,,,executed,src_sacd_be_ra2025_official,strong,Art.23 G droits repartis en attente paiement 1793624; tick1714
+bud_sacd_be_frais_total_2025,ogc_sacd_be,2025,2911486,,,executed,src_sacd_be_ra2025_official,strong,Art.23 Partie2 A total frais 2911486 (nets + action culturelle + fonds organique); tick1714
+bud_sacd_be_frais_nets_2025,ogc_sacd_be,2025,2710153,,,executed,src_sacd_be_ra2025_official,strong,Art.23 Partie2 B frais nets gestion 2710153; ratio 13.78pct; tick1714
+bud_sacd_be_depenses_nettes_2025,ogc_sacd_be,2025,2749486,,,executed,src_sacd_be_ra2025_official,strong,RA2025 p65 depenses nettes globales 2749486 (hors Action culturelle); budget revise was 2860851; tick1714
+bud_sacd_be_budget_revise_2025,ogc_sacd_be,2025,2860851,,,budgeted,src_sacd_be_ra2025_official,strong,RA2025 p65 budget revise CA 2860851 (72pct personnel); tick1714
+bud_sacd_be_action_culturelle_2025,ogc_sacd_be,2025,162000,,,executed,src_sacd_be_ra2025_official,strong,RA2025 action culturelle budget 162000 (direct soutiens 132000=82pct); tick1714
+bud_sacd_be_encaissements_avant_partage_2025,ogc_sacd_be,2025,31331540,,,executed,src_sacd_be_ra2025_official,medium,RA2025 p52 encaissements avant partage 31331540 INCLUDES Sofam/deAuteurs/LaScam representation — not pure SACD; tick1714
+bud_sacd_be_perceptions_membres_sacd_2025,ogc_sacd_be,2025,17761040,,,executed,src_sacd_be_ra2025_official,strong,RA2025 p53 perceptions delegation belge membres SACD only 17761040; tick1714
+bud_sacd_be_repartis_membres_be_2025,ogc_sacd_be,2025,6657133,,,executed,src_sacd_be_ra2025_official,strong,RA2025 p53/54 repartis a membres residant BE 6657133; tick1714
+bud_sacd_be_factures_non_encaissees_2025,ogc_sacd_be,2025,2026724,,,executed,src_sacd_be_ra2025_official,strong,RA2025 p67 factures non encaissees fin 2025 2026724; tick1714
+bud_sacd_be_fonds_organique_2025,ogc_sacd_be,2025,39334,,,executed,src_sacd_be_ra2025_official,strong,RA2025 p66 contribution fonds organique 39334; tick1714
