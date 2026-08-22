@@ -49196,3 +49196,33 @@ bud_nlz_pnl_2025,vzw_nlz,2025,249691,,,executed,src_nlz_jr2025_nbb,strong,YE2025
 bud_nlz_vte_2025,vzw_nlz,2025,287.3,,,executed,src_nlz_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 287.3 JUMP from 272; eoy headcount 307; tick1687
 bud_nlz_commissaris_fee_2025,vzw_nlz,2025,3992,,,executed,src_nlz_jr2025_nbb,strong,YE2025 commissaris bezoldiging 9505 3992; Clybouw; tick1687
 bud_nlz_hypotheek_boek_2025,vzw_nlz,2025,1413052,,,executed,src_nlz_jr2025_nbb,strong,YE2025 hypotheek bezwaarde activa boekwaarde 1413052; tick1687
+bud_np_educatie_assets_2025,vzw_natuurpunt_educatie,2025,1099055,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 balanstotaal 1099055 DROP from 1219749; tick1688 OCR
+bud_np_educatie_va_2025,vzw_natuurpunt_educatie,2025,83705,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 vaste activa 83705 JUMP; tick1688 OCR
+bud_np_educatie_mva_2025,vzw_natuurpunt_educatie,2025,83705,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 materiele VA 83705 JUMP; tick1688 OCR
+bud_np_educatie_gebouwen_2025,vzw_natuurpunt_educatie,2025,12959,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 terreinen/gebouwen 12959 DROP; tick1688 OCR
+bud_np_educatie_install_2025,vzw_natuurpunt_educatie,2025,9903,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 installaties 9903 DROP; tick1688 OCR
+bud_np_educatie_meubilair_2025,vzw_natuurpunt_educatie,2025,60843,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 meubilair/rollend 60843 JUMP; tick1688 OCR
+bud_np_educatie_vlottend_2025,vzw_natuurpunt_educatie,2025,1015350,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 vlottende activa 1015350 DROP; tick1688 OCR
+bud_np_educatie_handelsrecv_2025,vzw_natuurpunt_educatie,2025,153962,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 handelsvorderingen ST 153962 DROP; tick1688 OCR
+bud_np_educatie_other_recv_2025,vzw_natuurpunt_educatie,2025,226474,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 overige vorderingen ST 226474 DROP; tick1688 OCR
+bud_np_educatie_beleg_2025,vzw_natuurpunt_educatie,2025,450000,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 geldbeleggingen 450000 flat; tick1688 OCR
+bud_np_educatie_cash_2025,vzw_natuurpunt_educatie,2025,184914,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 liquide middelen 184914 DROP; tick1688 OCR
+bud_np_educatie_equity_2025,vzw_natuurpunt_educatie,2025,779044,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 eigen vermogen 779044 DROP; tick1688 OCR
+bud_np_educatie_destin_2025,vzw_natuurpunt_educatie,2025,175000,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 bestemde fondsen 175000 flat; tick1688 OCR
+bud_np_educatie_overgedragen_2025,vzw_natuurpunt_educatie,2025,604044,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 overgedragen winst 604044 DROP; tick1688 OCR
+bud_np_educatie_debt_2025,vzw_natuurpunt_educatie,2025,320011,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 schulden 320011 DROP; tick1688 OCR
+bud_np_educatie_st_debt_2025,vzw_natuurpunt_educatie,2025,285102,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 schulden ST 285102 DROP; tick1688 OCR
+bud_np_educatie_lev_2025,vzw_natuurpunt_educatie,2025,83369,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 leveranciers ST 83369 DROP; tick1688 OCR
+bud_np_educatie_taxsoc_2025,vzw_natuurpunt_educatie,2025,201733,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 201733 (tax 1205 + soc 200528); tick1688 OCR
+bud_np_educatie_accrued_2025,vzw_natuurpunt_educatie,2025,34909,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 34909 JUMP; tick1688 OCR
+bud_np_educatie_bruto_2025,vzw_natuurpunt_educatie,2025,1278326,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 brutomarge 9900 1278326 DROP ENVELOPE (70/73/60-61 empty); tick1688 OCR
+bud_np_educatie_pers_2025,vzw_natuurpunt_educatie,2025,1329675,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 bezoldigingen 62 1329675 JUMP / 19.5 VTE; tick1688 OCR
+bud_np_educatie_afschr_2025,vzw_natuurpunt_educatie,2025,19640,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 afschrijvingen 630 19640 JUMP; tick1688 OCR
+bud_np_educatie_andere_2025,vzw_natuurpunt_educatie,2025,34087,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 34087 JUMP; tick1688 OCR
+bud_np_educatie_expl_2025,vzw_natuurpunt_educatie,2025,-105076,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 bedrijfsverlies -105076 DEEPER; tick1688 OCR
+bud_np_educatie_fininc_2025,vzw_natuurpunt_educatie,2025,10502,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 financiele opbrengsten 10502 JUMP; tick1688 OCR
+bud_np_educatie_fincost_2025,vzw_natuurpunt_educatie,2025,1178,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 financiele kosten 1178 JUMP; tick1688 OCR
+bud_np_educatie_tax_2025,vzw_natuurpunt_educatie,2025,21709,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 belastingen op resultaat 21709 JUMP; tick1688 OCR
+bud_np_educatie_pnl_2025,vzw_natuurpunt_educatie,2025,-117461,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 verlies -117461 DEEPER from -83670; tick1688 OCR
+bud_np_educatie_vte_2025,vzw_natuurpunt_educatie,2025,19.5,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 19.5 JUMP from 18.9; eoy 20.1; tick1688 OCR
+bud_np_educatie_commissaris_fee_2025,vzw_natuurpunt_educatie,2025,2343,,,executed,src_natuurpunt_educatie_jr2025_nbb,strong,YE2025 commissaris ereloon incl BTW 2343; Clybouw; tick1688 OCR
