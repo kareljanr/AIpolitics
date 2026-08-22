@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1590** (2026-08-22)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1581-1589 leftover public koepel/agency: **Musica** · **Cultuurloket** · **Literatuur Vlaanderen** · **De Federatie** · **VSF** · **Netwerk tegen Armoede** · **Sociare** · **BBL** · **Scwitch** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1581-1589 is VL residual dual L5 leftover public koepel/agency (not near-complete of 348bn):** **BBL** assets **3.93m** · **Literatuur Vlaanderen** assets **6.04m** · **Netwerk tegen Armoede** assets **1.94m** · **VSF** assets **1.66m** · **Cultuurloket** opbr **1.96m** · **Sociare** assets **0.80m** · **De Federatie** assets **0.80m** · **Musica** assets **0.73m** · **Scwitch** assets **0.33m** · prior leftover amateurkunsten/leesbevordering/design/Formaat/JINT/Ambrassade/Cultuurconnect/publiq/OP-TIL/VI.BE/Danspunt/Circuscentrum/Socius/EVA/IGS/HVZ/CAW/CGG/woonmaatschappij stack retained |
+| **E. FOI-ready gaps** | **~1230** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1278** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + koepel/agency shells** (**NEW BBL** assets **EUR3.93m** bruto **EUR2.99m** pers **EUR2.50m** / **30.2 VTE** · **Literatuur Vlaanderen** assets **EUR6.04m** opbr **EUR12.62m** dotatie **EUR11.24m** · **Netwerk tegen Armoede** assets **EUR1.94m** subs **EUR1.78m** · **VSF** assets **EUR1.66m** beleg **EUR0.90m** · **Cultuurloket** opbr **EUR1.96m** · **Sociare** assets **EUR0.80m** · **De Federatie** assets **EUR0.80m** · **Musica** assets **EUR0.73m** · **Scwitch** assets **EUR0.33m** · prior Iedereen Leest/Flanders DC/VLAMO/OPENDOEK/Koor&Stem/CEMPER/Breedbeeld/Kunstwerkt/Creatief Schrijven/Formaat/JINT/Ambrassade/Cultuurconnect/publiq/OP-TIL/VI.BE/Danspunt/Circuscentrum/Socius/Inagro/VVSG/HVZ/CAW/CGG/woonmaatschappij stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1590)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 46100 |
+| commitments.csv | 5187 |
+| leaderboard.csv | 7390 |
+| entities.csv | 1331 |
+| sources.csv | 3485 |
+| FOI ready | 1230 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1278 |
+| research_queue open | rq_116 deferred + rq_1591 hole-fill after progress |
+
+### What improved since tick 1580
+
+- **VL residual dual leftover public koepel/agency (tick1581-1585):** **Musica** assets **0.73m** · **Cultuurloket** opbr **1.96m** · **Literatuur Vlaanderen** assets **6.04m** · **De Federatie** assets **0.80m** · **VSF** assets **1.66m** — no invented euros.
+- **VL residual dual leftover public koepel (tick1586-1589):** **Netwerk tegen Armoede** assets **1.94m** · **Sociare** assets **0.80m** · **BBL** assets **3.93m** · **Scwitch** assets **0.33m** — no invented euros.
+- **NEW (tick1589):** **Scwitch** (KBO 0649.409.357) leftover public koepel VZW / socioculturele dienstverlening (Sociare-adjacent same zetel). Official NBB MIC-VZW deposit **2026-00232537** PDF (48061 bytes / 11p; AV 09.06.2026). Assets **333.406** · bruto **178.565** · pers **146.554** / **1.7 VTE** · PnL **+17.660**. FOI ready.
+- **Dual map themes:** leftover public koepel / agency · milieufederatie (BBL) · armoedebestrijding · werkgeversfederatie (Sociare) · sportfederatie (VSF) · letterenfonds · prior amateurkunsten/leesbevordering/design stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1600**.
+
 ## Snapshot at **tick 1580** (2026-08-22)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
