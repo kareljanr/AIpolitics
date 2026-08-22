@@ -4006,3 +4006,7 @@ src_witte_meren_nbb_ye2025,WZC Witte Meren NBB VOL-VZW YE2025 deposit 2026-00123
 src_witte_meren_kbo,WZC Witte Meren KBO 0418.234.997,https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=418234997,KBO,2026-08-24,primary_official,tick1732; VZW; Collegestraat 69 2400 Mol
 src_witte_meren_portal,Witte Meren official portal,https://www.wzcwittemeren.be,Woonzorgcentrum Witte Meren,2026-08-24,primary_official,tick1732; WZC Mol
 src_witte_meren_foi_contact_1732,Witte Meren FOI channel,https://www.wzcwittemeren.be,Woonzorgcentrum Witte Meren VZW,2026-08-24,foi_contact,tick1732; info@wzcwittemeren.be; Collegestraat 69 2400 Mol
+src_veilige_have_nbb_ye2025,WZC Veilige Have NBB VOL-VZW YE2025 deposit 2026-00279398,http://cdn.staatsbladmonitor.be/2026pdf/2026-00279398.pdf,NBB / Staatsbladmonitor CDN,2026-08-24,primary_official,tick1733; AV 18.06.2026; assets 46554342 opbr 29978917 staff 20324429 VTE 291.9 pnl -448409; Figurad oordeel met voorbehoud
+src_veilige_have_kbo,WZC Veilige Have KBO 0449.507.205,https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=449507205,KBO,2026-08-24,primary_official,tick1733; VZW; Lostraat 28 9880 Aalter
+src_veilige_have_portal,Veilige Have official portal,https://www.veiligehave.be,Woonzorgcentrum Veilige Have,2026-08-24,primary_official,tick1733; WZC Aalter
+src_veilige_have_foi_contact_1733,Veilige Have FOI channel,https://www.veiligehave.be,Woonzorgcentrum Veilige Have VZW,2026-08-24,foi_contact,tick1733; info@veiligehave.be; Lostraat 28 9880 Aalter

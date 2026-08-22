@@ -50042,3 +50042,21 @@ bud_wittemeren_staff_2025,vzw_witte_meren,2025,7064455,,,executed,src_witte_mere
 bud_wittemeren_diensten_2025,vzw_witte_meren,2025,1112397,,,executed,src_witte_meren_nbb_ye2025,strong,NBB diensten 61 1112397; tick1732
 bud_wittemeren_expl_2025,vzw_witte_meren,2025,328956,,,executed,src_witte_meren_nbb_ye2025,strong,NBB bedrijfswinst 9901 328956; tick1732
 bud_wittemeren_pnl_2025,vzw_witte_meren,2025,195470,,,executed,src_witte_meren_nbb_ye2025,strong,NBB PnL 9904 195470; AV 12.05.2026; tick1732
+bud_veiligehave_assets_2025,vzw_veilige_have,2025,46554342,,,executed,src_veilige_have_nbb_ye2025,strong,NBB 20/58 assets 46554342; tick1733
+bud_veiligehave_va_2025,vzw_veilige_have,2025,28277988,,,executed,src_veilige_have_nbb_ye2025,strong,NBB VA 21/28 28277988; tick1733
+bud_veiligehave_buildings_2025,vzw_veilige_have,2025,25161317,,,executed,src_veilige_have_nbb_ye2025,strong,NBB terreinen/gebouwen 25161317; tick1733
+bud_veiligehave_vlottend_2025,vzw_veilige_have,2025,18276354,,,executed,src_veilige_have_nbb_ye2025,strong,NBB vlottend 18276354; tick1733
+bud_veiligehave_cash_2025,vzw_veilige_have,2025,5404854,,,executed,src_veilige_have_nbb_ye2025,strong,NBB liquide 5404854; tick1733
+bud_veiligehave_equity_2025,vzw_veilige_have,2025,33395931,,,executed,src_veilige_have_nbb_ye2025,strong,NBB EV 33395931; tick1733
+bud_veiligehave_kapsubs_2025,vzw_veilige_have,2025,7547764,,,executed,src_veilige_have_nbb_ye2025,strong,NBB kapitaalsubsidies 7547764; tick1733
+bud_veiligehave_voorzieningen_2025,vzw_veilige_have,2025,111890,,,executed,src_veilige_have_nbb_ye2025,strong,NBB voorzieningen pensioen 111890 NEW; tick1733
+bud_veiligehave_debt_2025,vzw_veilige_have,2025,13046521,,,executed,src_veilige_have_nbb_ye2025,strong,NBB schulden 13046521; tick1733
+bud_veiligehave_lt_fin_2025,vzw_veilige_have,2025,7028294,,,executed,src_veilige_have_nbb_ye2025,strong,NBB LT kredietinstellingen 7028294; tick1733
+bud_veiligehave_opbr_2025,vzw_veilige_have,2025,29978917,,,executed,src_veilige_have_nbb_ye2025,strong,NBB bedrijfsopbrengsten 29978917; tick1733
+bud_veiligehave_omzet_2025,vzw_veilige_have,2025,23144753,,,executed,src_veilige_have_nbb_ye2025,strong,NBB omzet 70 23144753; tick1733
+bud_veiligehave_code73_2025,vzw_veilige_have,2025,343029,,,executed,src_veilige_have_nbb_ye2025,strong,NBB code73/subsidies 733 343029 JUMP vs 0; tick1733
+bud_veiligehave_andere_opbr_2025,vzw_veilige_have,2025,6283647,,,executed,src_veilige_have_nbb_ye2025,strong,NBB andere bedrijfsopbrengsten 74 6283647; FOI split; tick1733
+bud_veiligehave_staff_2025,vzw_veilige_have,2025,20324429,,,executed,src_veilige_have_nbb_ye2025,strong,NBB 62 20324429 / VTE 291.9; tick1733
+bud_veiligehave_diensten_2025,vzw_veilige_have,2025,4528734,,,executed,src_veilige_have_nbb_ye2025,strong,NBB diensten 61 4528734 JUMP vs 3338853; tick1733
+bud_veiligehave_expl_2025,vzw_veilige_have,2025,-334928,,,executed,src_veilige_have_nbb_ye2025,strong,NBB bedrijfswinst 9901 -334928 LOSS; tick1733
+bud_veiligehave_pnl_2025,vzw_veilige_have,2025,-448409,,,executed,src_veilige_have_nbb_ye2025,strong,NBB PnL 9904 -448409 LOSS; AV 18.06.2026; Figurad voorbehoud; tick1733
