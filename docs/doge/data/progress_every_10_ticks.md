@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1690** (2026-08-23)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1681-1689 leftover **Ligo CBE completion** + **Natuurpunt-unie** + **Amnesty VL** + **VVT**: **Ligo ZOVL** · **Ligo BOW** · **Ligo MZWVL** · **Amnesty VL** · **Natuurpunt Beheer** · **Natuurpunt Studie** · **NLZ Maatwerkbedrijf** · **Natuurpunt Educatie** · **VVT** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1681-1689 is residual dual L5 leftover NGO/TBV (not near-complete of 348bn):** **Natuurpunt Beheer** assets **505.06m** opbr **35.42m** (code73 **29.28m** / kapsubs **441.17m**) · **NLZ** assets **10.85m** opbr **17.62m** (Gesco **5.23m** / pers **10.98m** / **287.3 VTE**) · **Amnesty VL** assets **2.22m** bruto **3.59m** · **Natuurpunt Studie** assets **3.32m** bruto **2.20m** · **Natuurpunt Educatie** assets **1.10m** bruto **1.28m** · **VVT** assets **5.88m** bruto **0.85m** (accrued **1.71m**) · **Ligo ZOVL** assets **6.65m** · **Ligo BOW** assets **6.45m** · **Ligo MZWVL** assets **3.67m** · prior Ligo/VSV/Avansa stack retained |
+| **E. FOI-ready gaps** | **~1320** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1368** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + koepel/NGO shells** (**NEW Natuurpunt Beheer** assets **EUR505.06m** kapsubs **EUR441.17m** · **NLZ** assets **EUR10.85m** opbr **EUR17.62m** Gesco **EUR5.23m** · **Amnesty VL** bruto **EUR3.59m** · **Natuurpunt Studie/Educatie** · **VVT** · **Ligo ZOVL/BOW/MZWVL** · prior Ligo Ant/LiMiNo/Waas/HV/LZ/OB/Mec/Kem + Avansa/Familiehulp/UNIZO/VOKA stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1690)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 49257 |
+| commitments.csv | 5277 |
+| leaderboard.csv | 7480 |
+| entities.csv | 1421 |
+| sources.csv | 3845 |
+| FOI ready | 1320 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1368 |
+| research_queue open | rq_116 deferred + rq_1691 hole-fill after progress |
+
+### What improved since tick 1680
+
+- **VL residual dual leftover Ligo CBE completion + Natuurpunt-unie + NGO wave (tick1681-1689):** **Ligo ZOVL** assets **6.65m** bruto **0.37m** (VL overheid off-books) · **Ligo BOW** assets **6.45m** bruto **0.36m** (1.9 VTE vs website 150+) · **Ligo MZWVL** assets **3.67m** bruto **0.35m** (0.5 VTE vs 150+) · **Amnesty VL** assets **2.22m** bruto **3.59m** (OCR unlock) · **Natuurpunt Beheer** assets **505.06m** opbr **35.42m** (kapsubs **441.17m** / OCR unlock) · **Natuurpunt Studie** assets **3.32m** bruto **2.20m** · **NLZ Maatwerkbedrijf** assets **10.85m** opbr **17.62m** (Gesco **5.23m** / **287.3 VTE**) · **Natuurpunt Educatie** assets **1.10m** bruto **1.28m** (OCR) · **VVT** assets **5.88m** bruto **0.85m** (accrued **1.71m**) — no invented euros.
+- **NEW (tick1685+1687):** **Natuurpunt Beheer** (KBO 0409.423.736) largest this decade of ticks. Official NBB VOL-VZW **2026-00118589** OCR. Assets **505.062.688** · opbr **35.420.350** · code73 **29.280.513** · pers **15.269.444** / eoy VTE **177** · kapsubs **441.165.496** · buildings **448.632.741** · PnL **500.059**. **NLZ** (KBO 0466.855.258) Gesco-heavy maatwerk. Official NBB VOL-VZW **2026-00115588**. Opbr **17.623.401** · Gesco **5.225.199,53** · pers **10.984.185** / **287.3 VTE** · cash only **4.000** · PnL **249.691**. FOI ready.
+- **Dual map themes:** leftover Natuurpunt-unie TBV/maatwerk/studie/educatie · Ligo CBE network completion (13 centres) · Amnesty VL OCR unlock · professional association VVT · prior Ligo/Avansa/Familiehulp stacks retained.
+- **Blocked still:** AGB/APB unpublished · Dijk92 CDN **403** · FARO no JR2025 · APEFE RA2023 only · NSZ CDN **403** (deposit 2026-00394221 live but PDF blocked) · Natuurpunt vzw **0434.364.713** CDN/Northdata opaque (Companyweb claims JR2025).
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1700**.
+
 ## Snapshot at **tick 1680** (2026-08-23)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
