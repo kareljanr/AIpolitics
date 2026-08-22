@@ -49583,3 +49583,31 @@ bud_catalisti_fincost_2025,vzw_catalisti,2025,4394,,,executed,src_catalisti_jr20
 bud_catalisti_tax_2025,vzw_catalisti,2025,8310,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 belastingen 8310 JUMP; tick1701
 bud_catalisti_pnl_2025,vzw_catalisti,2025,111601,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 winst 111601 DROP; tick1701
 bud_catalisti_vte_2025,vzw_catalisti,2025,9.2,,,executed,src_catalisti_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 9.2 JUMP from 8.1; eoy 10.9; tick1701
+bud_flux50_assets_2025,vzw_flux50,2025,1408388,,,executed,src_flux50_jr2025_nbb,strong,YE2025 balanstotaal 1408388 DROP from 1852752; tick1702
+bud_flux50_va_2025,vzw_flux50,2025,10292,,,executed,src_flux50_jr2025_nbb,strong,YE2025 vaste activa 10292 DROP; tick1702
+bud_flux50_mva_2025,vzw_flux50,2025,9892,,,executed,src_flux50_jr2025_nbb,strong,YE2025 MVA 9892 (=installaties); tick1702
+bud_flux50_fva_2025,vzw_flux50,2025,400,,,executed,src_flux50_jr2025_nbb,strong,YE2025 financiele VA 400 flat; tick1702
+bud_flux50_vlottend_2025,vzw_flux50,2025,1398097,,,executed,src_flux50_jr2025_nbb,strong,YE2025 vlottende activa 1398097 DROP; tick1702
+bud_flux50_stock_2025,vzw_flux50,2025,245633,,,executed,src_flux50_jr2025_nbb,strong,YE2025 voorraden 245633 DROP (project WIP?); tick1702
+bud_flux50_handelsrecv_2025,vzw_flux50,2025,315666,,,executed,src_flux50_jr2025_nbb,strong,YE2025 handelsvorderingen ST 315666 DROP; tick1702
+bud_flux50_other_recv_2025,vzw_flux50,2025,28800,,,executed,src_flux50_jr2025_nbb,strong,YE2025 overige vorderingen ST 28800 JUMP; tick1702
+bud_flux50_beleg_2025,vzw_flux50,2025,495916,,,executed,src_flux50_jr2025_nbb,strong,YE2025 geldbeleggingen 495916 DROP from 954180; tick1702
+bud_flux50_cash_2025,vzw_flux50,2025,297746,,,executed,src_flux50_jr2025_nbb,strong,YE2025 liquide middelen 297746 JUMP; tick1702
+bud_flux50_prepaid_2025,vzw_flux50,2025,14335,,,executed,src_flux50_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 14335 JUMP; tick1702
+bud_flux50_equity_2025,vzw_flux50,2025,491381,,,executed,src_flux50_jr2025_nbb,strong,YE2025 eigen vermogen 491381 JUMP (=overgedragen); tick1702
+bud_flux50_overgedragen_2025,vzw_flux50,2025,491381,,,executed,src_flux50_jr2025_nbb,strong,YE2025 overgedragen resultaat 491381 JUMP; tick1702
+bud_flux50_debt_2025,vzw_flux50,2025,917008,,,executed,src_flux50_jr2025_nbb,strong,YE2025 schulden 917008 DROP; tick1702
+bud_flux50_st_debt_2025,vzw_flux50,2025,772908,,,executed,src_flux50_jr2025_nbb,strong,YE2025 schulden ST 772908 DROP; tick1702
+bud_flux50_lev_2025,vzw_flux50,2025,205982,,,executed,src_flux50_jr2025_nbb,strong,YE2025 leveranciers ST 205982 DROP; tick1702
+bud_flux50_vooruit_2025,vzw_flux50,2025,409946,,,executed,src_flux50_jr2025_nbb,strong,YE2025 vooruitbetalingen op bestellingen 409946 DROP; tick1702
+bud_flux50_taxsoc_2025,vzw_flux50,2025,156980,,,executed,src_flux50_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 156980 (tax 18876 + soc 138104); tick1702
+bud_flux50_accrued_2025,vzw_flux50,2025,144100,,,executed,src_flux50_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 144100 DROP; tick1702
+bud_flux50_bruto_2025,vzw_flux50,2025,1325912,,,executed,src_flux50_jr2025_nbb,strong,YE2025 brutomarge 9900 1325912 DROP ENVELOPE; tick1702
+bud_flux50_pers_2025,vzw_flux50,2025,1321450,,,executed,src_flux50_jr2025_nbb,strong,YE2025 bezoldigingen 62 1321450 JUMP / 14.4 VTE; tick1702
+bud_flux50_afschr_2025,vzw_flux50,2025,4962,,,executed,src_flux50_jr2025_nbb,strong,YE2025 afschrijvingen 630 4962 JUMP; tick1702
+bud_flux50_andere_2025,vzw_flux50,2025,11108,,,executed,src_flux50_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 11108 DROP; tick1702
+bud_flux50_expl_2025,vzw_flux50,2025,-11608,,,executed,src_flux50_jr2025_nbb,strong,YE2025 bedrijfsverlies -11608 JUMP loss; tick1702
+bud_flux50_fininc_2025,vzw_flux50,2025,12482,,,executed,src_flux50_jr2025_nbb,strong,YE2025 financiele opbrengsten 12482 JUMP; tick1702
+bud_flux50_fincost_2025,vzw_flux50,2025,798,,,executed,src_flux50_jr2025_nbb,strong,YE2025 financiele kosten 798 DROP; tick1702
+bud_flux50_pnl_2025,vzw_flux50,2025,76,,,executed,src_flux50_jr2025_nbb,strong,YE2025 winst 76 DROP near break-even; tick1702
+bud_flux50_vte_2025,vzw_flux50,2025,14.4,,,executed,src_flux50_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 14.4 JUMP from 13.3; eoy 14.2; tick1702
