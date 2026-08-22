@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1620** (2026-08-22)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1611-1619 leftover public NGO: **VIA Don Bosco** · **Djapo** · **Studio Globo** · **Damiaanactie** · **AZV** · **FOS** · **Solsoc** · **Quinoa** · **BOS+ Vlaanderen** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1611-1619 is residual dual L5 leftover public NGO (not near-complete of 348bn):** **Damiaanactie** assets **24.27m** opbr **15.97m** · **VIA** assets **6.95m** opbr **9.03m** · **AZV** assets **5.80m** bruto **4.28m** · **FOS** assets **4.35m** bruto **0.82m** · **Solsoc** assets **3.93m** bruto **7.08m** · **Djapo** assets **1.76m** bruto **0.90m** · **BOS+** assets **1.70m** bruto **1.30m** · **Studio Globo** assets **1.46m** bruto **1.36m** · **Quinoa** assets **0.44m** bruto **0.57m** · prior Caritas/Oxfam/VVOB/Plan/Trias/Rikolto/JFW/MSF stack retained |
+| **E. FOI-ready gaps** | **~1257** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1305** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + koepel/NGO shells** (**NEW Damiaanactie** assets **EUR24.27m** opbr **EUR15.97m** · **VIA** assets **EUR6.95m** · **AZV** assets **EUR5.80m** · **FOS** assets **EUR4.35m** · **Solsoc** assets **EUR3.93m** bruto **EUR7.08m** · **Djapo** assets **EUR1.76m** · **BOS+** assets **EUR1.70m** · **Studio Globo** assets **EUR1.46m** · **Quinoa** assets **EUR0.44m** · prior Caritas/Oxfam/VVOB/Plan/Trias/Rikolto/JFW/MSF/KOV/BD/Memisa stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1620)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 47116 |
+| commitments.csv | 5214 |
+| leaderboard.csv | 7417 |
+| entities.csv | 1358 |
+| sources.csv | 3593 |
+| FOI ready | 1257 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1305 |
+| research_queue open | rq_116 deferred + rq_1621 hole-fill after progress |
+
+### What improved since tick 1610
+
+- **VL/BE residual dual leftover public NGO (tick1611-1614):** **VIA Don Bosco** assets **6.95m** · **Djapo** assets **1.76m** · **Studio Globo** assets **1.46m** · **Damiaanactie** assets **24.27m** — no invented euros.
+- **VL/BE residual dual leftover public NGO (tick1615-1619):** **AZV** assets **5.80m** · **FOS** assets **4.35m** (empty 70/73) · **Solsoc** assets **3.93m** bruto **7.08m** (empty 70/73) · **Quinoa** assets **0.44m** (DGD-accredited micro) · **BOS+ Vlaanderen** assets **1.70m** (preferred Bosgroep-adjacent) — no invented euros.
+- **NEW (tick1619):** **BOS+ Vlaanderen** (KBO 0411.088.374) leftover public forest-nature koepel. Official NBB VKT-VZW deposit **2026-00201192** PDF (59450 bytes / 18p; AV 18.06.2026). Assets **1.699.171** · bruto **1.302.691** · omzet **513.706** · code73 **1.020.774** · pers **1.095.465** / **14 VTE** · afschr JUMP **219.874** · fininc JUMP **169.732** · kapsubs DROP **0** · PnL **136.137** FLIP. FOI ready.
+- **Dual map themes:** leftover public NGO / OS-humanitarian (Damiaanactie/AZV) · education/global-citizenship (VIA/Djapo/Studio Globo/Quinoa) · trade-union OS (FOS/Solsoc) · forest-nature (BOS+) · prior Caritas/Oxfam/VVOB/Plan/MSF stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1630**.
+
 ## Snapshot at **tick 1610** (2026-08-22)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
