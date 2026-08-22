@@ -49708,3 +49708,22 @@ bud_simim_geinde_internationale_2025,cv_simim,2025,3406541,,,executed,src_simim_
 bud_simim_beheers_internationale_2025,cv_simim,2025,136262,,,executed,src_simim_jv2025_art23_official,strong,Art.23 internationale DEEL2 A beheers 136262 (B 133997 ratio 3.93%); tick1709
 bud_simim_geinde_andere_2025,cv_simim,2025,7247,,,executed,src_simim_jv2025_art23_official,strong,Art.23 andere A geinde 7247; tick1709
 bud_simim_beheers_andere_2025,cv_simim,2025,1645,,,executed,src_simim_jv2025_art23_official,strong,Art.23 andere DEEL2 A beheers 1645 (B 1618 ratio 22.32%); tick1709
+bud_playright_assets_2024,cv_playright,2024,76125485,,,executed,src_playright_jr2024_nbb_official,strong,NBB 20/58 balanstotaal 76125485; tick1710
+bud_playright_va_2024,cv_playright,2024,833552,,,executed,src_playright_jr2024_nbb_official,strong,NBB vaste activa 833552; tick1710
+bud_playright_vlottend_2024,cv_playright,2024,75291933,,,executed,src_playright_jr2024_nbb_official,strong,NBB vlottende activa 75291933; tick1710
+bud_playright_beleg_2024,cv_playright,2024,71925172,,,executed,src_playright_jr2024_nbb_official,strong,NBB geldbeleggingen 50/53 71925172 (commissaris latent -769k on portion); tick1710
+bud_playright_cash_2024,cv_playright,2024,2569599,,,executed,src_playright_jr2024_nbb_official,strong,NBB liquide middelen 2569599; tick1710
+bud_playright_equity_2024,cv_playright,2024,348859,,,executed,src_playright_jr2024_nbb_official,strong,NBB eigen vermogen 348859; tick1710
+bud_playright_debt_2024,cv_playright,2024,75762690,,,executed,src_playright_jr2024_nbb_official,strong,NBB schulden 17/49 75762690; tick1710
+bud_playright_rechten_debt_2024,cv_playright,2024,72956185,,,executed,src_playright_jr2024_nbb_official,strong,NBB schulden rechten 6.9 bis 72956185 (LT 51302115 + ST remainder); tick1710
+bud_playright_rechten_te_verdelen_2024,cv_playright,2024,50645021,,,executed,src_playright_jr2024_nbb_official,strong,NBB te verdelen geinde rechten 50645021 (niet-voorbeh 47645812 + voorbeh 2999209); tick1710
+bud_playright_commissions_2024,cv_playright,2024,3728405,,,executed,src_playright_jr2024_nbb_official,strong,NBB omzet/commissies 70 3728405 ENVELOPE; tick1710
+bud_playright_opbr_2024,cv_playright,2024,4699225,,,executed,src_playright_jr2024_nbb_official,strong,NBB bedrijfsopbrengsten 70/76A 4699225; tick1710
+bud_playright_andere_opbr_2024,cv_playright,2024,1931975,,,executed,src_playright_jr2024_nbb_official,strong,NBB totaal andere bedrijfsopbrengsten 74 1931975; tick1710
+bud_playright_staff_2024,cv_playright,2024,2047252,,,executed,src_playright_jr2024_nbb_official,strong,NBB bezoldigingen 62 2047252; tick1710
+bud_playright_diensten_2024,cv_playright,2024,3414843,,,executed,src_playright_jr2024_nbb_official,strong,NBB diensten en diverse goederen 61 3414843; tick1710
+bud_playright_bedrijfskosten_2024,cv_playright,2024,5531000,,,executed,src_playright_jr2024_nbb_official,strong,NBB bedrijfskosten 60/66A 5531000; tick1710
+bud_playright_expl_2024,cv_playright,2024,-831775,,,executed,src_playright_jr2024_nbb_official,strong,NBB bedrijfsverlies -831775; tick1710
+bud_playright_fin_opbr_2024,cv_playright,2024,960164,,,executed,src_playright_jr2024_nbb_official,strong,NBB financiële opbrengsten 960164; tick1710
+bud_playright_pnl_2024,cv_playright,2024,7819,,,executed,src_playright_jr2024_nbb_official,strong,NBB winst boekjaar 7819; tick1710
+bud_playright_inningen_2024,cv_playright,2024,33100000,,,executed,src_playright_jr2024_nbb_official,strong,Official JV/news inningen ~33.1m YE2024 (rounded public figure); tick1710

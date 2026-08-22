@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1710** (2026-08-23)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1701-1709 leftover speerpunt/collecting: **Flux50** · **Blauwe Cluster** · **FBM/Biovia** · **NSZ** · **Sabam** · **Auvibel** · **Reprobel** · **SIMIM** · **PlayRight** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1701-1709 is residual dual L5 collecting-society / speerpunt (not near-complete of 348bn):** **Sabam** commissions **29.0m** assets **356m** · **PlayRight** commissions **3.73m** assets **76.1m** · **SIMIM** beheers **3.64m** geinde **32.4m** · **Reprobel** commissions **1.97m** rechten debt **19.9m** · **Auvibel** commissions **0.83m** assets **26.7m** · **Flux50/FBM/Biovia** speerpunt stack · prior Flanders FOOD/Oranje/Oxfam wave retained |
+| **E. FOI-ready gaps** | **~1339** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1387** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + koepel/NGO/collecting shells** (**NEW PlayRight** assets **EUR76.13m** commissions **EUR3.73m** rechten debt **EUR73.0m** · **SIMIM** geinde **EUR32.4m** beheers **EUR3.64m** · **Reprobel** commissions **EUR1.97m** · **Auvibel** assets **EUR26.7m** · **Sabam** assets **EUR356m** commissions **EUR29.0m** · prior Flanders FOOD/Oranje/Oxfam/VIL stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1710)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 49728 |
+| commitments.csv | 5296 |
+| leaderboard.csv | 7497 |
+| entities.csv | 1440 |
+| sources.csv | 3925 |
+| FOI ready | 1339 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1387 |
+| research_queue open | rq_116 deferred + rq_1711 hole-fill after progress |
+
+### What improved since tick 1700
+
+- **Residual dual leftover speerpunt / collecting-society wave (tick1701-1709):** **Flux50** · **Blauwe Cluster** (FOI stall) · **FBM/Biovia** · **NSZ** (CDN 403 FOI) · **Sabam** commissions **29.0m** · **Auvibel** commissions **0.83m** · **Reprobel** commissions **1.97m** · **SIMIM** beheers **3.64m** / geinde **32.4m** — no invented euros.
+- **NEW (tick1710):** **PlayRight** (KBO **0440.736.227**) leftover neighbouring-rights collecting CV for performing artists. Official NBB VOL-AUT jaarrekening YE2024 + Jaarverslag 2024 (AV **16.06.2025**). Assets **76.125.485** · commissions **3.728.405** · staff **2.047.252** · rechten debt **72.956.185** · inningen **~33.1m**. FOI ready VTE.
+- **Dual map themes:** Belgian collecting-society residual completion (Sabam authors / Auvibel private-copy / Reprobel reprografie / SIMIM phonograms / PlayRight performers) · speerpunt clusters · prior Oxfam/Oranje/Natuurpunt retained.
+- **Blocked still:** AGB/APB unpublished · Dijk92 CDN **403** · FARO no JR2025 · APEFE RA2023 only · NSZ CDN **403** (deposit 2026-00394221) · Natuurpunt vzw CDN/Northdata opaque.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1720**.
+
 ## Snapshot at **tick 1700** (2026-08-23)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
