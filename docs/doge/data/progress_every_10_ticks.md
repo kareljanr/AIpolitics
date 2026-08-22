@@ -20,6 +20,43 @@
 
 ---
 
+## Snapshot at **tick 1660** (2026-08-23)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1651-1659 leftover NGO / employers / socio-culture: **Samana** · **Familiehulp** · **Raak** · **VOKA** · **BZN PATRIMONIUM** · **UNIZO** · **Avansa HV** · **Avansa Limburg** · **Avansa Kempen** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1651-1659 is residual dual L5 leftover NGO (not near-complete of 348bn):** **Familiehulp** assets **269.73m** opbr **540.47m** (subs **453.35m**) · **UNIZO** assets **15.83m** opbr **25.65m** · **VOKA** assets **9.13m** opbr **10.88m** · **Samana** assets **7.76m** opbr **17.66m** · **Raak** assets **6.30m** bruto **2.65m** · **BZN PATRIMONIUM** assets **3.86m** bruto **0.59m** · **Avansa Limburg** assets **1.31m** bruto **1.70m** · **Avansa HV** assets **1.49m** bruto **1.23m** · **Avansa Kempen** assets **0.82m** bruto **0.84m** · prior Intersoc/Ferm/Femma/FreeClinic stack retained |
+| **E. FOI-ready gaps** | **~1293** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1341** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + koepel/NGO shells** (**NEW Familiehulp** assets **EUR269.73m** opbr **EUR540.47m** · **UNIZO** assets **EUR15.83m** · **VOKA** assets **EUR9.13m** · **Samana** assets **EUR7.76m** · **Raak** assets **EUR6.30m** · **BZN PATRIMONIUM** assets **EUR3.86m** · **Avansa Limburg/HV/Kempen** · prior Intersoc/Ferm/Femma stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1660)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 48338 |
+| commitments.csv | 5250 |
+| leaderboard.csv | 7453 |
+| entities.csv | 1394 |
+| sources.csv | 3737 |
+| FOI ready | 1293 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1341 |
+| research_queue open | rq_116 deferred + rq_1661 hole-fill after progress |
+
+### What improved since tick 1650
+
+- **VL residual dual leftover mantelzorg / gezinszorg (tick1651-1652):** **Samana** assets **7.76m** opbr **17.66m** (subs **3.35m**) · **Familiehulp** assets **269.73m** opbr **540.47m** (subs **453.35m** / **9918.8 VTE**) — no invented euros.
+- **VL residual dual leftover socio-culture / employers (tick1653-1656):** **Raak** assets **6.30m** bruto **2.65m** · **VOKA** assets **9.13m** opbr **10.88m** · **BZN PATRIMONIUM** assets **3.86m** bruto **0.59m** · **UNIZO** assets **15.83m** opbr **25.65m** (lid **20.74m**) — no invented euros.
+- **VL residual dual leftover Avansa network (tick1657-1659):** **Avansa HV** assets **1.49m** bruto **1.23m** · **Avansa Limburg** assets **1.31m** bruto **1.70m** · **Avansa Kempen** assets **0.82m** bruto **0.84m** — no invented euros.
+- **NEW (tick1652+1656):** **Familiehulp** (KBO 0409.533.604) leftover VL gezinszorg giant. Official NBB VOL-VZW deposit **2026-00305589**. Assets **269.734.456** · opbr **540.467.207** · subs **453.346.141** · pers **487.541.816** / **9918.8 VTE** · PnL **8.884.926**. **UNIZO** (KBO 0410.337.219) leftover SME/self-employed peak body dual VOKA. Official NBB VOL-VZW deposit **2026-00183612**. Assets **15.833.907** · opbr **25.651.454** · lid **20.744.465** · pers **8.516.291** / **81.8 VTE** · PnL **90.781**. FOI ready.
+- **Dual map themes:** leftover gezinszorg (Familiehulp) · mantelzorg (Samana) · employers (VOKA/UNIZO) · anti-poverty patrimonium (BZN) · socio-culture (Raak/Avansa x3) · prior Intersoc/Ferm/Femma/FreeClinic stack retained.
+- **Blocked still:** AGB/APB unpublished · Dijk92 CDN **403** · FARO JR2024 · APEFE CDN **403** · NSZ CDN **403** · Amnesty VL + Natuurpunt scanned image PDF.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1670**.
+
 ## Snapshot at **tick 1650** (2026-08-23)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
