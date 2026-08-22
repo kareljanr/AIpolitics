@@ -49797,3 +49797,21 @@ bud_sacd_be_perceptions_membres_sacd_2025,ogc_sacd_be,2025,17761040,,,executed,s
 bud_sacd_be_repartis_membres_be_2025,ogc_sacd_be,2025,6657133,,,executed,src_sacd_be_ra2025_official,strong,RA2025 p53/54 repartis a membres residant BE 6657133; tick1714
 bud_sacd_be_factures_non_encaissees_2025,ogc_sacd_be,2025,2026724,,,executed,src_sacd_be_ra2025_official,strong,RA2025 p67 factures non encaissees fin 2025 2026724; tick1714
 bud_sacd_be_fonds_organique_2025,ogc_sacd_be,2025,39334,,,executed,src_sacd_be_ra2025_official,strong,RA2025 p66 contribution fonds organique 39334; tick1714
+bud_deauteurs_inningen_2024,cv_deauteurs,2024,6973424,,,executed,src_deauteurs_jv2024_official,strong,JV2024 inningen totaal 6973424; tick1715
+bud_deauteurs_inningen_av_2024,cv_deauteurs,2024,5162157,,,executed,src_deauteurs_jv2024_official,strong,JV2024 inningen audiovisueel 5162157; tick1715
+bud_deauteurs_inningen_podium_2024,cv_deauteurs,2024,784941,,,executed,src_deauteurs_jv2024_official,strong,JV2024 inningen podiumkunsten 784941; tick1715
+bud_deauteurs_inningen_letter_2024,cv_deauteurs,2024,1013410,,,executed,src_deauteurs_jv2024_official,strong,JV2024 inningen letterkundig/grafisch 1013410 JUMP (leenrecht objectivering); tick1715
+bud_deauteurs_inningen_audio_2024,cv_deauteurs,2024,10839,,,executed,src_deauteurs_jv2024_official,strong,JV2024 inningen audiowerken 10839; tick1715
+bud_deauteurs_inningen_volgrecht_2024,cv_deauteurs,2024,2077,,,executed,src_deauteurs_jv2024_official,strong,JV2024 volgrecht 2077 (via SOFAM); tick1715
+bud_deauteurs_verdelingen_2024,cv_deauteurs,2024,5276393,,,executed,src_deauteurs_jv2024_official,strong,JV2024 verdelingen totaal 5276393; tick1715
+bud_deauteurs_werkingskost_2024,cv_deauteurs,2024,1041058,,,executed,src_deauteurs_jv2024_official,strong,JV2024 werkingskost/statutaire afhoudingen 1041058 (=sum streams); tick1715
+bud_deauteurs_opbrengsten_2024,cv_deauteurs,2024,1089085,,,executed,src_deauteurs_jv2024_official,strong,JV2024 totaal opbrengsten 1089085 (werkingskost 1041058 + andere 48027); tick1715
+bud_deauteurs_andere_opbr_2024,cv_deauteurs,2024,48027,,,executed,src_deauteurs_jv2024_official,strong,JV2024 andere diverse opbrengsten 48027; tick1715
+bud_deauteurs_kosten_2024,cv_deauteurs,2024,1088986,,,executed,src_deauteurs_jv2024_official,strong,JV2024 totaal kosten 1088986; tick1715
+bud_deauteurs_personeel_2024,cv_deauteurs,2024,396410,,,executed,src_deauteurs_jv2024_official,strong,JV2024 personeelskosten 396410; VTE Unknown; tick1715
+bud_deauteurs_intercompany_2024,cv_deauteurs,2024,357413,,,executed,src_deauteurs_jv2024_official,strong,JV2024 intercompany 357413 (SACD/SCAM backoffice share); tick1715
+bud_deauteurs_operationeel_2024,cv_deauteurs,2024,257461,,,executed,src_deauteurs_jv2024_official,strong,JV2024 operationele kosten 257461; tick1715
+bud_deauteurs_representatie_2024,cv_deauteurs,2024,15425,,,executed,src_deauteurs_jv2024_official,strong,JV2024 representatiekosten 15425; tick1715
+bud_deauteurs_bijdrage_belasting_2024,cv_deauteurs,2024,62278,,,executed,src_deauteurs_jv2024_official,strong,JV2024 bijdrage/belastingen 62278; tick1715
+bud_deauteurs_pnl_2024,cv_deauteurs,2024,99,,,executed,src_deauteurs_jv2024_official,strong,JV2024 resultaat 98.67 rounded 99; tick1715
+bud_deauteurs_late_payout_2024,cv_deauteurs,2024,261432,,,executed,src_deauteurs_jv2024_official,strong,JV2024 rechten later dan wettelijke termijn uitbetaald 261432; tick1715
