@@ -3,7 +3,7 @@
 **gap_id:** `gap_wmh_bruto_0_82m_pers_0_90m_pnl_loss_0_14m_omzet_empty_l5`  
 **status:** ready (NOT sent)  
 **entity:** Wereldmediahuis / MO* (leftover public koepel VZW / wereldmedia of mined Flanders; NOT leftover ngo-federatie 1593 / 11.11.11 1592) — KBO **0479.817.230**  
-**recipient:** Wereldmediahuis VZW / Bestuursorgaan — redactie@mo.be — Vlasfabriekstraat 11 1060 Sint-Gillis  
+**recipient:** Wereldmediahuis VZW / Bestuursorgaan — info@mo.be — Vlasfabriekstraat 11 1060 Sint-Gillis  
 **sources:** NBB VKT-VZW deposit [2026-00203885](http://cdn.staatsbladmonitor.be/2026pdf/2026-00203885.pdf); [NBB consult](https://consult.cbso.nbb.be/consult-enterprise/0479817230); [KBO 0479.817.230](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=nl&ondernemingsnummer=479817230)  
 **tick:** 1594 (NOT every-10; next every-10 is 1600)
 
@@ -24,7 +24,7 @@ Aan: Wereldmediahuis vzw — MO*
 t.a.v. het bestuursorgaan / secretariaat
 Vlasfabriekstraat 11
 1060 Sint-Gillis
-redactie@mo.be
+info@mo.be
 
 Betreft: Verzoek om openbaarmaking — JR2025 Wereldmediahuis
 (KBO 0479.817.230) brutomarge 821.642 / personeel 903.406 /
