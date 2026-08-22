@@ -49256,3 +49256,51 @@ bud_vvt_fincost_2025,vzw_vvt,2025,13623,,,executed,src_vvt_jr2025_nbb,strong,YE2
 bud_vvt_tax_2025,vzw_vvt,2025,9209,,,executed,src_vvt_jr2025_nbb,strong,YE2025 belastingen op resultaat 9209 DROP; tick1689
 bud_vvt_pnl_2025,vzw_vvt,2025,272042,,,executed,src_vvt_jr2025_nbb,strong,YE2025 winst 272042 JUMP from 122506; tick1689
 bud_vvt_vte_2025,vzw_vvt,2025,6.8,,,executed,src_vvt_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 6.8 flat; eoy 7.6; tick1689
+bud_oranje_assets_2025,vzw_oranje,2025,18769304,,,executed,src_oranje_jr2025_nbb,strong,YE2025 balanstotaal 18769304 JUMP from 17536296; tick1691
+bud_oranje_va_2025,vzw_oranje,2025,4538964,,,executed,src_oranje_jr2025_nbb,strong,YE2025 vaste activa 4538964 JUMP; tick1691
+bud_oranje_mva_2025,vzw_oranje,2025,4520207,,,executed,src_oranje_jr2025_nbb,strong,YE2025 materiele VA 4520207 JUMP; tick1691
+bud_oranje_gebouwen_2025,vzw_oranje,2025,3285087,,,executed,src_oranje_jr2025_nbb,strong,YE2025 terreinen/gebouwen 3285087 DROP; tick1691
+bud_oranje_install_2025,vzw_oranje,2025,247890,,,executed,src_oranje_jr2025_nbb,strong,YE2025 installaties 247890 JUMP; tick1691
+bud_oranje_meubilair_2025,vzw_oranje,2025,242447,,,executed,src_oranje_jr2025_nbb,strong,YE2025 meubilair/rollend 242447 JUMP; tick1691
+bud_oranje_leasing_2025,vzw_oranje,2025,744783,,,executed,src_oranje_jr2025_nbb,strong,YE2025 leasing rechten 744783 DROP; tick1691
+bud_oranje_fva_2025,vzw_oranje,2025,18757,,,executed,src_oranje_jr2025_nbb,strong,YE2025 financiele VA 18757 flat; tick1691
+bud_oranje_vlottend_2025,vzw_oranje,2025,14230340,,,executed,src_oranje_jr2025_nbb,strong,YE2025 vlottende activa 14230340 JUMP; tick1691
+bud_oranje_handelsrecv_2025,vzw_oranje,2025,321263,,,executed,src_oranje_jr2025_nbb,strong,YE2025 handelsvorderingen ST 321263 JUMP; tick1691
+bud_oranje_other_recv_2025,vzw_oranje,2025,5146527,,,executed,src_oranje_jr2025_nbb,strong,YE2025 overige vorderingen ST 5146527 JUMP; tick1691
+bud_oranje_beleg_2025,vzw_oranje,2025,5722486,,,executed,src_oranje_jr2025_nbb,strong,YE2025 geldbeleggingen 5722486 DROP; tick1691
+bud_oranje_cash_2025,vzw_oranje,2025,2991750,,,executed,src_oranje_jr2025_nbb,strong,YE2025 liquide middelen 2991750 DROP; tick1691
+bud_oranje_prepaid_2025,vzw_oranje,2025,48314,,,executed,src_oranje_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 48314 DROP; tick1691
+bud_oranje_equity_2025,vzw_oranje,2025,13731914,,,executed,src_oranje_jr2025_nbb,strong,YE2025 eigen vermogen 13731914 JUMP; tick1691
+bud_oranje_fondsen_2025,vzw_oranje,2025,43342,,,executed,src_oranje_jr2025_nbb,strong,YE2025 fondsen 43342 flat; tick1691
+bud_oranje_destin_2025,vzw_oranje,2025,10566631,,,executed,src_oranje_jr2025_nbb,strong,YE2025 bestemde fondsen 10566631 JUMP; tick1691
+bud_oranje_overgedragen_2025,vzw_oranje,2025,573545,,,executed,src_oranje_jr2025_nbb,strong,YE2025 overgedragen winst 573545 JUMP; tick1691
+bud_oranje_kapsubs_2025,vzw_oranje,2025,2548396,,,executed,src_oranje_jr2025_nbb,strong,YE2025 kapitaalsubsidies 2548396 DROP; tick1691
+bud_oranje_debt_2025,vzw_oranje,2025,5037390,,,executed,src_oranje_jr2025_nbb,strong,YE2025 schulden 5037390 JUMP; tick1691
+bud_oranje_lt_lease_2025,vzw_oranje,2025,716781,,,executed,src_oranje_jr2025_nbb,strong,YE2025 leasingschulden LT 716781 DROP; tick1691
+bud_oranje_lt_fin_2025,vzw_oranje,2025,152192,,,executed,src_oranje_jr2025_nbb,strong,YE2025 kredietinstellingen LT 152192 DROP; tick1691
+bud_oranje_st_debt_2025,vzw_oranje,2025,4084149,,,executed,src_oranje_jr2025_nbb,strong,YE2025 schulden ST 4084149 JUMP; tick1691
+bud_oranje_st_current_lt_2025,vzw_oranje,2025,50141,,,executed,src_oranje_jr2025_nbb,strong,YE2025 LT binnen jaar 50141 JUMP; tick1691
+bud_oranje_lev_2025,vzw_oranje,2025,306390,,,executed,src_oranje_jr2025_nbb,strong,YE2025 leveranciers ST 306390 DROP; tick1691
+bud_oranje_taxsoc_2025,vzw_oranje,2025,3611799,,,executed,src_oranje_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 3611799 (tax 599166 + soc 3012633); tick1691
+bud_oranje_other_st_2025,vzw_oranje,2025,115819,,,executed,src_oranje_jr2025_nbb,strong,YE2025 overige schulden ST 115819 JUMP; tick1691
+bud_oranje_accrued_2025,vzw_oranje,2025,84268,,,executed,src_oranje_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 84268 DROP; tick1691
+bud_oranje_opbr_2025,vzw_oranje,2025,21713771,,,executed,src_oranje_jr2025_nbb,strong,YE2025 bedrijfsopbrengsten 70/76A 21713771 JUMP ENVELOPE; tick1691
+bud_oranje_omzet_2025,vzw_oranje,2025,3144543,,,executed,src_oranje_jr2025_nbb,strong,YE2025 omzet 70 3144543 JUMP; tick1691
+bud_oranje_code73_2025,vzw_oranje,2025,17938419,,,executed,src_oranje_jr2025_nbb,strong,YE2025 lidgeld/schenkingen/legaten/subsidies 73 17938419 JUMP; tick1691
+bud_oranje_subs_733_2025,vzw_oranje,2025,17765445,,,executed,src_oranje_jr2025_nbb,strong,YE2025 subsidies 733 17765445 JUMP inside code73; tick1691
+bud_oranje_schenkingen_2025,vzw_oranje,2025,172974,,,executed,src_oranje_jr2025_nbb,strong,YE2025 schenkingen 731 172974 JUMP inside code73; tick1691
+bud_oranje_andere_opbr_2025,vzw_oranje,2025,283517,,,executed,src_oranje_jr2025_nbb,strong,YE2025 andere bedrijfsopbrengsten 74 283517 JUMP; tick1691
+bud_oranje_nr_opbr_2025,vzw_oranje,2025,347292,,,executed,src_oranje_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfsopbrengsten 76A 347292 JUMP; tick1691
+bud_oranje_goederen_2025,vzw_oranje,2025,609713,,,executed,src_oranje_jr2025_nbb,strong,YE2025 handelsgoederen 60 609713 JUMP; tick1691
+bud_oranje_diensten_2025,vzw_oranje,2025,2762116,,,executed,src_oranje_jr2025_nbb,strong,YE2025 diensten/diverse 61 2762116 JUMP; tick1691
+bud_oranje_pers_2025,vzw_oranje,2025,15725778,,,executed,src_oranje_jr2025_nbb,strong,YE2025 bezoldigingen 62 15725778 JUMP / 206.6 VTE; tick1691
+bud_oranje_afschr_2025,vzw_oranje,2025,325713,,,executed,src_oranje_jr2025_nbb,strong,YE2025 afschrijvingen 630 325713 JUMP; tick1691
+bud_oranje_andere_kost_2025,vzw_oranje,2025,1682713,,,executed,src_oranje_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 1682713 (incl 641/8 andere 1600000); tick1691
+bud_oranje_nr_kost_2025,vzw_oranje,2025,53574,,,executed,src_oranje_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfskosten 66A 53574 JUMP; tick1691
+bud_oranje_expl_2025,vzw_oranje,2025,541984,,,executed,src_oranje_jr2025_nbb,strong,YE2025 bedrijfswinst 541984 JUMP; tick1691
+bud_oranje_fininc_2025,vzw_oranje,2025,180052,,,executed,src_oranje_jr2025_nbb,strong,YE2025 financiele opbrengsten 180052 DROP; tick1691
+bud_oranje_fincost_2025,vzw_oranje,2025,3867,,,executed,src_oranje_jr2025_nbb,strong,YE2025 financiele kosten 3867 JUMP; tick1691
+bud_oranje_pnl_2025,vzw_oranje,2025,718169,,,executed,src_oranje_jr2025_nbb,strong,YE2025 winst 718169 DROP from 821740; tick1691
+bud_oranje_vte_2025,vzw_oranje,2025,206.6,,,executed,src_oranje_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 206.6 JUMP from 177.6; eoy headcount 274; tick1691
+bud_oranje_commissaris_fee_2025,vzw_oranje,2025,7840,,,executed,src_oranje_jr2025_nbb,strong,YE2025 commissaris bezoldiging 9505 7840 + andere 365; Callens-Vandelanotte; tick1691
+bud_oranje_hypotheek_boek_2025,vzw_oranje,2025,3285087,,,executed,src_oranje_jr2025_nbb,strong,YE2025 hypotheek bezwaarde activa boekwaarde 3285087; tick1691
