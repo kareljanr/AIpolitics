@@ -50338,3 +50338,13 @@ bud_vivalys_nonrec_op_2025,nv_vivalys,2025,197500,,,realized,src_vivalys_jr2025_
 bud_vivalys_fin_charges_2025,nv_vivalys,2025,194671,,,realized,src_vivalys_jr2025_nbb,strong,Financial charges 194671; tick1756
 bud_vivalys_cash_2025,nv_vivalys,2025,205727,,,stock,src_vivalys_jr2025_nbb,strong,Cash 205727; tick1756
 bud_vivalys_commissaris_2025,nv_vivalys,2025,8064,,,realized,src_vivalys_jr2025_nbb,strong,Commissaris fee 8064; tick1756
+bud_felicite_assets_2025,bv_felicite,2025,886169,,,stock,src_felicite_jr2025_nbb,strong,Assets YE2025 886169 DROP vs 1021715; tick1757
+bud_felicite_equity_2025,bv_felicite,2025,-378016,,,stock,src_felicite_jr2025_nbb,strong,Equity NEG 378016 Art5153; tick1757
+bud_felicite_debt_2025,bv_felicite,2025,1264185,,,stock,src_felicite_jr2025_nbb,strong,Debt total 1264185; tick1757
+bud_felicite_lt_other_loans_2025,bv_felicite,2025,668063,,,stock,src_felicite_jr2025_nbb,strong,LT other loans 668063 (>5y 666080); tick1757
+bud_felicite_bruto_2025,bv_felicite,2025,1520280,,,realized,src_felicite_jr2025_nbb,strong,Brutomarge 9900 1520280 (70 empty); tick1757
+bud_felicite_staff_2025,bv_felicite,2025,1486669,,,realized,src_felicite_jr2025_nbb,strong,Staff 1486669 / VTE 25.2 JUMP vs 23.2; tick1757
+bud_felicite_expl_2025,bv_felicite,2025,-107483,,,realized,src_felicite_jr2025_nbb,strong,Exploitation loss -107483; tick1757
+bud_felicite_pnl_2025,bv_felicite,2025,-124697,,,realized,src_felicite_jr2025_nbb,strong,PnL -124697; tick1757
+bud_felicite_cash_2025,bv_felicite,2025,193816,,,stock,src_felicite_jr2025_nbb,strong,Cash 193816 DROP vs 254196; tick1757
+bud_felicite_fin_charges_2025,bv_felicite,2025,17247,,,realized,src_felicite_jr2025_nbb,strong,Financial charges 17247; tick1757
