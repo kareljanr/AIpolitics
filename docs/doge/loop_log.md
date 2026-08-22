@@ -20934,3 +20934,10 @@ Append-only. Each tick adds a short entry.
 - FOI: none new (decade refresh). Human-send backlog unchanged.
 - Inventory: entities **1476** · sources **4072** · budgets **50288** · commitments **5332** · leaderboard **7533** · FOI ready **1375** / answered **9** / partial **27** / total **1423**.
 - Next: rq_1751 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 if JR euros / APEFE if CDN 200 / ABS/POV/BVAS / IOED / HVZ-Waasland-Rand-BZA-rekening / IGS / WZC. Do NOT redo HVZCentrum/HVZRivierenland/Zusterhof/HofSchoten/Buitenhof/Familiehof/Akapella/DeVerlosser/VivaltoHomeBE. **Next every-10 is 1760**.
+
+### 2026-08-24T09:15:00Z - tick 1751
+- Unit: rq_1751 Hulpverleningszone Waasland / HVZ Waasland (leftover IGS of mined Sint-Niklaas+Temse) (KBO **0500.928.388**; Nijverheidsstraat 33 9100 Sint-Niklaas; hvzwaasland.be; Boekhouding@hvzwaasland.be; official zoneraad **01.07.2026** 2026_ZR_00030 **Begrotings- en jaarrekening 2025 Vaststelling Goedgekeurd**). Honest leftover AGB Bornem still JR2024-only. NSZ/Dijk92/APEFE CDN **403**. Brandweer Zone Rand Brecht dotatie PDF **image-only** (no extractable euros). Preferred AGB/NSZ blocked — leftover HVZ Waasland JR2025 **vaststelling live / euros unpublished** → FOI-ready (anti-stuck). New entity igs_hvzw. Envelope = **Unknown** (no invented euros). NOT every-10 (next 1760).
+- Found (strong process / weak euros): JR2025 officially approved; portal publishes meldingslijst only; beleidsplan 2026-2031 has no 2025 spend table; ~550 staff / 6 gemeenten.
+- Wrote: sources +4; entities +1 igs_hvzw; commitments +1 (unknown envelope); foi_queue +1 ready; rq_1751=done + rq_1752 spawn; ticks_completed=1751. Raw docs/doge/raw/tick1751/. No leaderboard (no sourced annual €).
+- FOI opened: gap_hvzw_jr2025_rekening_unpublished_l5 ready (full rekening/VTE/gemdot). Do not send.
+- Next: rq_1752 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 / APEFE / ABS/POV/BVAS / IOED/HVZ-Rand-VBWest-BZA-rekening. NOT every-10 (next **1760**).
