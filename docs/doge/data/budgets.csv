@@ -50484,3 +50484,15 @@ bud_vrienden_hofschoten_debt_2025,vzw_vrienden_hofschoten,2025,4400,,,stock,src_
 bud_vrienden_hofschoten_cash_2025,vzw_vrienden_hofschoten,2025,11074,,,stock,src_vrienden_hofschoten_jr2025_nbb,strong,Cash 11074 (= almost all assets); tick1771
 bud_vrienden_hofschoten_bruto_2025,vzw_vrienden_hofschoten,2025,172,,,realized,src_vrienden_hofschoten_jr2025_nbb,strong,Brutomarge 172 (VKT; omzet 70 + lidgeld/subs 73 empty); tick1771
 bud_vrienden_hofschoten_pnl_2025,vzw_vrienden_hofschoten,2025,36,,,realized,src_vrienden_hofschoten_jr2025_nbb,strong,PnL 36 TURNAROUND vs -570; tick1771
+bud_meridienne_assets_2025,nv_meridienne,2025,10253817,,,stock,src_meridienne_jr2025_nbb,strong,Assets YE2025 10253817 UP vs 9469659; tick1772
+bud_meridienne_equity_2025,nv_meridienne,2025,3604150,,,stock,src_meridienne_jr2025_nbb,strong,Equity 3604150; tick1772
+bud_meridienne_debt_2025,nv_meridienne,2025,6243716,,,stock,src_meridienne_jr2025_nbb,strong,Debt 6243716; tick1772
+bud_meridienne_leasing_lt_2025,nv_meridienne,2025,2568729,,,stock,src_meridienne_jr2025_nbb,strong,LT credit/leasing 2568729; tick1772
+bud_meridienne_fva_2025,nv_meridienne,2025,4000000,,,stock,src_meridienne_jr2025_nbb,strong,Immobilisations financieres 4000000 DROP vs 5091301; tick1772
+bud_meridienne_autres_creances_2025,nv_meridienne,2025,2155186,,,stock,src_meridienne_jr2025_nbb,strong,Autres creances ST 2155186 JUMP vs 258; tick1772
+bud_meridienne_related_recv_2025,nv_meridienne,2025,6155186,,,stock,src_meridienne_jr2025_nbb,strong,Creances sur administrateurs/controleurs 9500=6155186; tick1772
+bud_meridienne_marge_2025,nv_meridienne,2025,4004546,,,realized,src_meridienne_jr2025_nbb,strong,Marge bruto 4004546 (A-cap; CA undisclosed); tick1772
+bud_meridienne_staff_2025,nv_meridienne,2025,3139951,,,realized,src_meridienne_jr2025_nbb,strong,Staff 3139951 / VTE 50.3; tick1772
+bud_meridienne_expl_2025,nv_meridienne,2025,561263,,,realized,src_meridienne_jr2025_nbb,strong,Benefice exploitation 561263; tick1772
+bud_meridienne_nrec_fin_2025,nv_meridienne,2025,1884018,,,realized,src_meridienne_jr2025_nbb,strong,Produits financiers non recurrents 1884018 drives PnL; tick1772
+bud_meridienne_pnl_2025,nv_meridienne,2025,2232767,,,realized,src_meridienne_jr2025_nbb,strong,PnL 2232767; dividend apport 2000000 + admin 173076; tick1772
