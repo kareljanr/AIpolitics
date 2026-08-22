@@ -46221,3 +46221,33 @@ bud_ngof_pnl_2025,vzw_ngof,2025,64534,,,executed,src_ngof_jr2025_nbb,strong,YE20
 bud_ngof_toevoeg_2025,vzw_ngof,2025,64534,,,executed,src_ngof_jr2025_nbb,strong,YE2025 toevoeging bestemde fondsen 691 64534 (=full PnL); tick1593; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00270107
 bud_ngof_capex_2025,vzw_ngof,2025,1029,,,executed,src_ngof_jr2025_nbb,strong,YE2025 MVA aanschaffingen 1029; tick1593; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00270107
 bud_ngof_commissaris_2025,vzw_ngof,2025,1377,,,executed,src_ngof_jr2025_nbb,strong,YE2025 commissaris Clybouw fee 1377 + DGD-nazicht 946; tick1593; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00270107
+bud_wmh_assets_2025,vzw_wmh,2025,570670,,,executed,src_wmh_jr2025_nbb,strong,YE2025 balanstotaal 570670 DROP (was 655135); tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_va_2025,vzw_wmh,2025,40209,,,executed,src_wmh_jr2025_nbb,strong,YE2025 vaste activa 40209 DROP; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_iva_2025,vzw_wmh,2025,21132,,,executed,src_wmh_jr2025_nbb,strong,YE2025 IVA 21132 DROP (website); tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_mva_2025,vzw_wmh,2025,17934,,,executed,src_wmh_jr2025_nbb,strong,YE2025 MVA 17934 DROP (meubilair 9811 / overige 8123); tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_fva_2025,vzw_wmh,2025,1142,,,executed,src_wmh_jr2025_nbb,strong,YE2025 FVA 1142; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_current_2025,vzw_wmh,2025,530461,,,executed,src_wmh_jr2025_nbb,strong,YE2025 vlottende activa 530461 DROP; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_trade_recv_2025,vzw_wmh,2025,61427,,,executed,src_wmh_jr2025_nbb,strong,YE2025 handelsvorderingen 61427 JUMP; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_other_recv_2025,vzw_wmh,2025,105657,,,executed,src_wmh_jr2025_nbb,strong,YE2025 overige vorderingen 105657 JUMP; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_cash_2025,vzw_wmh,2025,348819,,,executed,src_wmh_jr2025_nbb,strong,YE2025 liquide middelen 348819 DROP (was 440841); tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_prepaid_2025,vzw_wmh,2025,14558,,,executed,src_wmh_jr2025_nbb,strong,YE2025 overlopend actief 14558; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_equity_2025,vzw_wmh,2025,258576,,,executed,src_wmh_jr2025_nbb,strong,YE2025 eigen vermogen 258576 DROP; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_destin_2025,vzw_wmh,2025,406045,,,executed,src_wmh_jr2025_nbb,strong,YE2025 bestemde fondsen 406045 DROP (sociaal 250768 / invest 108838 / website 13804 / jongeren 32636); tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_overgedragen_2025,vzw_wmh,2025,-147470,,,executed,src_wmh_jr2025_nbb,strong,YE2025 overgedragen verlies -147470 DEEP; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_debt_2025,vzw_wmh,2025,312094,,,executed,src_wmh_jr2025_nbb,strong,YE2025 schulden 312094 JUMP; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_st_2025,vzw_wmh,2025,209930,,,executed,src_wmh_jr2025_nbb,strong,YE2025 schulden <=1j 209930; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_lev_2025,vzw_wmh,2025,92978,,,executed,src_wmh_jr2025_nbb,strong,YE2025 leveranciers 92978 DROP; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_taxsoc_2025,vzw_wmh,2025,116952,,,executed,src_wmh_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen 116952 (tax 7293 / bezold 109659); tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_accrued_2025,vzw_wmh,2025,102164,,,executed,src_wmh_jr2025_nbb,strong,YE2025 overlopend passief 102164 JUMP (was 44465); tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_bruto_2025,vzw_wmh,2025,821642,,,executed,src_wmh_jr2025_nbb,strong,YE2025 brutomarge 9900 821642 JUMP (envelope; omzet 70 empty / 73 empty / 60/61 empty VKT); tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_pers_2025,vzw_wmh,2025,903406,,,executed,src_wmh_jr2025_nbb,strong,YE2025 bezoldigingen 62 903406 / 9.9 VTE (sociale detail empty; PC 329; pers > bruto); tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_vte_2025,vzw_wmh,2025,9.9,,,executed,src_wmh_jr2025_nbb,strong,YE2025 gemiddeld VTE 9.9 (9087; was 9.1); tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_afschr_2025,vzw_wmh,2025,38628,,,executed,src_wmh_jr2025_nbb,strong,YE2025 afschrijvingen 38628; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_andere_2025,vzw_wmh,2025,17532,,,executed,src_wmh_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 17532; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_expl_2025,vzw_wmh,2025,-137924,,,executed,src_wmh_jr2025_nbb,strong,YE2025 bedrijfsverlies -137924 LOSS DEEP (was -82556); tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_fininc_2025,vzw_wmh,2025,2049,,,executed,src_wmh_jr2025_nbb,strong,YE2025 financiele opbrengsten 2049; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_fincost_2025,vzw_wmh,2025,5875,,,executed,src_wmh_jr2025_nbb,strong,YE2025 financiele kosten 5875; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_pnl_2025,vzw_wmh,2025,-141749,,,executed,src_wmh_jr2025_nbb,strong,YE2025 te bestemmen resultaat -141749 LOSS DEEP (was -85265); tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_onttrekking_2025,vzw_wmh,2025,36308,,,executed,src_wmh_jr2025_nbb,strong,YE2025 onttrekking bestemde fondsen 791 36308; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_capex_2025,vzw_wmh,2025,10921,,,executed,src_wmh_jr2025_nbb,strong,YE2025 aanschaffingen IVA 7200 + MVA 3721 = 10921; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_wmh_nrec_2025,vzw_wmh,2025,461,,,executed,src_wmh_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfsopbrengsten 76A 461; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
