@@ -48858,3 +48858,39 @@ bud_ligo_kem_tax_2025,vzw_ligo_kem,2025,852,,,executed,src_ligo_kem_jr2025_nbb,s
 bud_ligo_kem_pnl_2025,vzw_ligo_kem,2025,-26430,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 verlies -26430 DEEPER; tick1677
 bud_ligo_kem_vte_2025,vzw_ligo_kem,2025,2.1,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 2.1 DROP from 2.3; tick1677
 bud_ligo_kem_hypotheek_boek_2025,vzw_ligo_kem,2025,406888,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 hypotheek bezwaarde activa boekwaarde 406888; tick1677
+bud_ligo_waas_assets_2025,vzw_ligo_waas,2025,4840169,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 balanstotaal 4840169 JUMP from 4826046; tick1678
+bud_ligo_waas_va_2025,vzw_ligo_waas,2025,3117563,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 vaste activa 3117563 JUMP; tick1678
+bud_ligo_waas_mva_2025,vzw_ligo_waas,2025,3105914,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 materiele VA 3105914 JUMP; tick1678
+bud_ligo_waas_gebouwen_2025,vzw_ligo_waas,2025,3030252,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 terreinen/gebouwen 3030252 JUMP; tick1678
+bud_ligo_waas_install_2025,vzw_ligo_waas,2025,50534,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 installaties 50534 JUMP; tick1678
+bud_ligo_waas_meubilair_2025,vzw_ligo_waas,2025,25129,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 meubilair/rollend 25129 DROP; tick1678
+bud_ligo_waas_fva_2025,vzw_ligo_waas,2025,11649,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 financiele VA 11649 DROP; tick1678
+bud_ligo_waas_vlottend_2025,vzw_ligo_waas,2025,1722606,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 vlottende activa 1722606 DROP; tick1678
+bud_ligo_waas_handelsrecv_2025,vzw_ligo_waas,2025,53313,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 handelsvorderingen ST 53313 DROP; tick1678
+bud_ligo_waas_other_recv_2025,vzw_ligo_waas,2025,556994,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 overige vorderingen ST 556994 JUMP; tick1678
+bud_ligo_waas_beleg_2025,vzw_ligo_waas,2025,879386,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 geldbeleggingen 879386 JUMP; tick1678
+bud_ligo_waas_cash_2025,vzw_ligo_waas,2025,225196,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 liquide middelen 225196 DROP; tick1678
+bud_ligo_waas_prepaid_2025,vzw_ligo_waas,2025,7718,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 7718 JUMP; tick1678
+bud_ligo_waas_equity_2025,vzw_ligo_waas,2025,3819582,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 eigen vermogen 3819582 JUMP; tick1678
+bud_ligo_waas_fondsen_2025,vzw_ligo_waas,2025,62865,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 fondsen 62865 flat; tick1678
+bud_ligo_waas_destin_2025,vzw_ligo_waas,2025,2323472,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 bestemde fondsen 2323472 flat; tick1678
+bud_ligo_waas_overgedragen_2025,vzw_ligo_waas,2025,220969,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 overgedragen winst 220969 JUMP; tick1678
+bud_ligo_waas_kapsubs_2025,vzw_ligo_waas,2025,1212276,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 kapitaalsubsidies 1212276 JUMP from 1031004; tick1678
+bud_ligo_waas_debt_2025,vzw_ligo_waas,2025,1020587,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 schulden 1020587 DROP; tick1678
+bud_ligo_waas_lt_fin_2025,vzw_ligo_waas,2025,524826,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 financiele schulden LT 524826 DROP; tick1678
+bud_ligo_waas_st_debt_2025,vzw_ligo_waas,2025,137281,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 schulden ST 137281 JUMP; tick1678
+bud_ligo_waas_st_current_lt_2025,vzw_ligo_waas,2025,54550,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 LT binnen jaar 54550 JUMP; tick1678
+bud_ligo_waas_lev_2025,vzw_ligo_waas,2025,80328,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 leveranciers ST 80328 JUMP; tick1678
+bud_ligo_waas_taxsoc_2025,vzw_ligo_waas,2025,2403,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 2403 (=soc); tick1678
+bud_ligo_waas_accrued_2025,vzw_ligo_waas,2025,358479,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 358479 DROP; tick1678
+bud_ligo_waas_bruto_2025,vzw_ligo_waas,2025,195793,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 brutomarge 9900 195793 DROP ENVELOPE (on-books); tick1678
+bud_ligo_waas_code73_2025,vzw_ligo_waas,2025,604221,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 lidgeld/schenkingen/legaten/subsidies 73 604221 DROP; tick1678
+bud_ligo_waas_diensten_2025,vzw_ligo_waas,2025,683089,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 handelsgoederen/diensten 60/61 683089 DROP; tick1678
+bud_ligo_waas_pers_2025,vzw_ligo_waas,2025,18245,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 bezoldigingen 62 18245 DROP / 0.5 VTE; notes VL overheid staff OFF-BOOKS; tick1678
+bud_ligo_waas_afschr_2025,vzw_ligo_waas,2025,200438,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 afschrijvingen 630 200438 JUMP; tick1678
+bud_ligo_waas_andere_2025,vzw_ligo_waas,2025,7847,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 7847 JUMP; tick1678
+bud_ligo_waas_expl_2025,vzw_ligo_waas,2025,-30837,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 bedrijfsverlies -30837 FLIP from +10877; tick1678
+bud_ligo_waas_fininc_2025,vzw_ligo_waas,2025,102677,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 financiele opbrengsten 102677 JUMP; tick1678
+bud_ligo_waas_fincost_2025,vzw_ligo_waas,2025,10956,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 financiele kosten 10956 DROP; tick1678
+bud_ligo_waas_pnl_2025,vzw_ligo_waas,2025,60883,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 winst 60883 DROP from 100997; tick1678
+bud_ligo_waas_vte_2025,vzw_ligo_waas,2025,0.5,,,executed,src_ligo_waas_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 0.5; sociale balans mostly empty; tick1678
