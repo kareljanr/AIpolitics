@@ -20763,3 +20763,10 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_dommelhof_bruto_6_89m_staff_6_61m_omzet_empty_l5 ready (70/73 RIZIV split / Dommelhof NV / AV). Do not send.
 - Next: rq_1727 leftover AGB/**NSZ if CDN 200**/Dommelhof NV dual / Bosgroep/Dijk92 if JR euros / APEFE if CDN 200 / ABS/POV/BVAS / IOED / HVZ / IGS / other. Do NOT redo DommelhofTW/GO!/Natuurpunt/OVSG/Erfpunt. NOT every-10 (next **1730**).
 
+### 2026-08-24T01:05:00Z - tick 1727
+- Unit: rq_1727 Dommelhof NV (leftover property shell dual Campus Dommelhof VZW) (KBO **0433.155.577**; NV; Haksbergstraat 7 3390 Sint-Joris-Winge; campusdommelhof.be; official NBB **VKT-kap** YE2025 deposit **2026-00238663** CDN **200**; AV **23.06.2026**; same Van Roy gedelegeerd bestuurders as VZW). Honest leftover AGB Bornem still JR2024-only. NSZ CDN **403**. Dijk92 CDN **403**. APEFE CDN **403**. ABS/BVAS/POV no NBB. Preferred AGB/NSZ still blocked — leftover Dommelhof NV official NBB JR2025 dual **live** taken after VZW 1726. New entity nv_dommelhof_tw. Envelope = bruto **1234665** (balance-sheet debt **11605169**). NOT every-10 (next 1730).
+- Found (NBB YE2025 strong): assets **12557297** (VA **11960864** / buildings **11947335** / inventory **559912** / cash **36304** DROP); equity **952128**; debt **11605169** (LT fin **10492866** / ST current LT **746729**); hypotheek book **11947335** / inschrijving **6730373**; bruto **1234665**; afschr **452263**; expl **773325**; fincost **264538**; tax **125070**; PnL **383717**; staff empty; **70/60/61 empty**.
+- Wrote: sources +4; entities +1 nv_dommelhof_tw; budgets +15; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1727=done + rq_1728 spawn; ticks_completed=1727. Raw docs/doge/raw/tick1727/.
+- FOI opened: gap_dommelhof_nv_assets_12_56m_debt_11_61m_bruto_1_23m_l5 ready (70 huur VZW / intercompany / AV). Do not send.
+- Next: rq_1728 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 if JR euros / APEFE if CDN 200 / ABS/POV/BVAS / IOED / HVZ / IGS / other. Do NOT redo Dommelhof dual/GO!/Natuurpunt/OVSG. NOT every-10 (next **1730**).
+

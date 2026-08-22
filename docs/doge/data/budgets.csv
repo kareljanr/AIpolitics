@@ -49969,3 +49969,18 @@ bud_dommelhof_tw_bruto_2025,vzw_dommelhof_tw,2025,6890095,,,executed,src_dommelh
 bud_dommelhof_tw_staff_2025,vzw_dommelhof_tw,2025,6613357,,,executed,src_dommelhof_tw_nbb_ye2025,strong,NBB 62 6613357 / VTE 100.7; tick1726
 bud_dommelhof_tw_expl_2025,vzw_dommelhof_tw,2025,65051,,,executed,src_dommelhof_tw_nbb_ye2025,strong,NBB bedrijfswinst 9901 65051 FLIP vs -208398; tick1726
 bud_dommelhof_tw_pnl_2025,vzw_dommelhof_tw,2025,39070,,,executed,src_dommelhof_tw_nbb_ye2025,strong,NBB PnL 9904 39070; AV 16.06.2026; tick1726
+bud_dommelhof_nv_assets_2025,nv_dommelhof_tw,2025,12557297,,,executed,src_dommelhof_nv_nbb_ye2025,strong,NBB 20/58 assets 12557297; tick1727
+bud_dommelhof_nv_va_2025,nv_dommelhof_tw,2025,11960864,,,executed,src_dommelhof_nv_nbb_ye2025,strong,NBB VA 21/28 11960864; tick1727
+bud_dommelhof_nv_buildings_2025,nv_dommelhof_tw,2025,11947335,,,executed,src_dommelhof_nv_nbb_ye2025,strong,NBB terreinen/gebouwen 22 11947335; tick1727
+bud_dommelhof_nv_inventory_2025,nv_dommelhof_tw,2025,559912,,,executed,src_dommelhof_nv_nbb_ye2025,strong,NBB voorraden 30/36 559912; tick1727
+bud_dommelhof_nv_cash_2025,nv_dommelhof_tw,2025,36304,,,executed,src_dommelhof_nv_nbb_ye2025,strong,NBB liquide 54/58 36304 DROP vs 68119; tick1727
+bud_dommelhof_nv_equity_2025,nv_dommelhof_tw,2025,952128,,,executed,src_dommelhof_nv_nbb_ye2025,strong,NBB EV 10/15 952128; tick1727
+bud_dommelhof_nv_debt_2025,nv_dommelhof_tw,2025,11605169,,,executed,src_dommelhof_nv_nbb_ye2025,strong,NBB schulden 17/49 11605169; tick1727
+bud_dommelhof_nv_lt_fin_2025,nv_dommelhof_tw,2025,10492866,,,executed,src_dommelhof_nv_nbb_ye2025,strong,NBB LT fin 170/4 10492866; tick1727
+bud_dommelhof_nv_st_current_lt_2025,nv_dommelhof_tw,2025,746729,,,executed,src_dommelhof_nv_nbb_ye2025,strong,NBB LT within year 42 746729; tick1727
+bud_dommelhof_nv_hypotheek_book_2025,nv_dommelhof_tw,2025,11947335,,,executed,src_dommelhof_nv_nbb_ye2025,strong,NBB hypotheek book value 91611 11947335; tick1727
+bud_dommelhof_nv_bruto_2025,nv_dommelhof_tw,2025,1234665,,,executed,src_dommelhof_nv_nbb_ye2025,strong,NBB brutomarge 9900 1234665; 70/60/61 empty; tick1727
+bud_dommelhof_nv_afschr_2025,nv_dommelhof_tw,2025,452263,,,executed,src_dommelhof_nv_nbb_ye2025,strong,NBB afschr 630 452263; tick1727
+bud_dommelhof_nv_expl_2025,nv_dommelhof_tw,2025,773325,,,executed,src_dommelhof_nv_nbb_ye2025,strong,NBB bedrijfswinst 9901 773325; tick1727
+bud_dommelhof_nv_fincost_2025,nv_dommelhof_tw,2025,264538,,,executed,src_dommelhof_nv_nbb_ye2025,strong,NBB fin kosten 65 264538; tick1727
+bud_dommelhof_nv_pnl_2025,nv_dommelhof_tw,2025,383717,,,executed,src_dommelhof_nv_nbb_ye2025,strong,NBB PnL 9904 383717; AV 23.06.2026; tick1727
