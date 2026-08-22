@@ -50643,3 +50643,17 @@ bud_lilas_staff_2025,nv_lilas,2025,2456066,,,realized,src_lilas_jr2025_nbb,stron
 bud_lilas_expl_2025,nv_lilas,2025,428357,,,realized,src_lilas_jr2025_nbb,strong,Benefice exploitation 428357; tick1784
 bud_lilas_pnl_2025,nv_lilas,2025,254282,,,realized,src_lilas_jr2025_nbb,strong,PnL 254282 flip from prior loss; admin 110978 no dividend apport; tick1784
 bud_lilas_rivage_gage_2025,nv_lilas,2025,135600000,,,stock,src_lilas_jr2025_nbb,strong,VIVALTO LEASE/RIVAGE gage 135600000 group undivided; assets grevés 6486834; tick1784
+bud_reposfleuri_assets_2025,nv_reposfleuri,2025,5104285,,,stock,src_reposfleuri_jr2025_nbb,strong,Assets YE2025 5104285; tick1785
+bud_reposfleuri_equity_2025,nv_reposfleuri,2025,1167536,,,stock,src_reposfleuri_jr2025_nbb,strong,Equity 1167536 DROP vs 1461630; tick1785
+bud_reposfleuri_debt_2025,nv_reposfleuri,2025,3598558,,,stock,src_reposfleuri_jr2025_nbb,strong,Debt 3598558; tick1785
+bud_reposfleuri_leasing_greves_2025,nv_reposfleuri,2025,3715024,,,stock,src_reposfleuri_jr2025_nbb,strong,Location-financement MVA 3715024; gage max 2080567; option achat 497500; tick1785
+bud_reposfleuri_fva_2025,nv_reposfleuri,2025,250000,,,stock,src_reposfleuri_jr2025_nbb,strong,Immobilisations financieres 250000; tick1785
+bud_reposfleuri_controllers_recv_2025,nv_reposfleuri,2025,687551,,,stock,src_reposfleuri_jr2025_nbb,strong,Creances sur administrateurs/controleurs 9500=687551; tick1785
+bud_reposfleuri_autres_creances_2025,nv_reposfleuri,2025,465343,,,stock,src_reposfleuri_jr2025_nbb,strong,Autres creances ST 465343 DROP vs 810800; tick1785
+bud_reposfleuri_cash_2025,nv_reposfleuri,2025,76159,,,stock,src_reposfleuri_jr2025_nbb,strong,Cash 76159 JUMP vs 727; tick1785
+bud_reposfleuri_autres_dettes_st_2025,nv_reposfleuri,2025,693885,,,stock,src_reposfleuri_jr2025_nbb,strong,Autres dettes ST 693885 JUMP vs 490206; tick1785
+bud_reposfleuri_marge_2025,nv_reposfleuri,2025,3897711,,,realized,src_reposfleuri_jr2025_nbb,strong,Marge bruto 3897711 (A-cap; CA undisclosed); tick1785
+bud_reposfleuri_staff_2025,nv_reposfleuri,2025,3199304,,,realized,src_reposfleuri_jr2025_nbb,strong,Staff 3199304 / VTE 54.2; tick1785
+bud_reposfleuri_expl_2025,nv_reposfleuri,2025,392650,,,realized,src_reposfleuri_jr2025_nbb,strong,Benefice exploitation 392650; tick1785
+bud_reposfleuri_pnl_2025,nv_reposfleuri,2025,211921,,,realized,src_reposfleuri_jr2025_nbb,strong,PnL 211921; dividend apport 400000 + admin 100164; tick1785
+bud_reposfleuri_dividend_apport_2025,nv_reposfleuri,2025,400000,,,realized,src_reposfleuri_jr2025_nbb,strong,Remuneration de l apport 400000 (same as prior year); tick1785

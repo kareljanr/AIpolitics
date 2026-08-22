@@ -21174,3 +21174,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_lilas; budgets (+14); commitments; leaderboard; foi_queue ready; research_queue rq_1784=done + rq_1785 spawned; loop_state ticks=1784; FOI draft gap_lilas_marge_3_27m_controllers_4_11m_rivage_135m_l5.md
 - FOI opened: gap_lilas_marge_3_27m_controllers_4_11m_rivage_135m_l5 (**ready**, not sent)
 - Next: rq_1785 — ReposFleuri-if-vivalto / unused Vivalto / AGB / NSZ-if-200; every-10 at 1790
+
+### 2026-08-24T21:55:00Z — tick 1785
+- Unit: rq_1785 — **REPOS FLEURI SA (Cottage Rose)** (Liège / Vivalto)
+- Found: Preferred AGB Bornem still JR2024; NSZ/Dijk92/APEFE prior CDN **403**; Brembloem VZW still no JR2025. Took leftover **REPOS FLEURI SA** (brand **Cottage Rose**) NBB A-cap YE2025 deposit [2026-00137105](http://cdn.staatsbladmonitor.be/2026pdf/2026-00137105.pdf) CDN 200 (225524 bytes / 28p); KBO **0428.828.486**; AV **12.05.2026**; mere Vivalto Home Belgium; Forvis Mazars — **opinion sans reserve**. Sourced: assets **EUR5,104,285**; equity **EUR1,167,536** (DROP); debt **EUR3,598,558**; marge bruto **EUR3,897,711**; staff **EUR3,199,304** / VTE **54.2**; PnL **EUR211,921**; dividend apport **EUR400,000** + admin **EUR100,164**; controllers **EUR687,551**; cash JUMP **EUR76,159**; leasing greves **EUR3,715,024** / gage **EUR2,080,567**; **no RIVAGE 135.6m** in this deposit.
+- Wrote: sources (+3); entities nv_reposfleuri; budgets (+14); commitments; leaderboard; foi_queue ready; research_queue rq_1785=done + rq_1786 spawned; loop_state ticks=1785; FOI draft gap_reposfleuri_marge_3_90m_staff_3_20m_dividend_0_40m_l5.md
+- FOI opened: gap_reposfleuri_marge_3_90m_staff_3_20m_dividend_0_40m_l5 (**ready**, not sent)
+- Next: rq_1786 — unused Vivalto maisons / AGB / NSZ-if-200; every-10 at 1790
