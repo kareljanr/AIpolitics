@@ -49438,3 +49438,36 @@ bud_oxfam_oft_fincost_2025,cv_oxfam_oft,2025,96919,,,executed,src_oxfam_oft_jr20
 bud_oxfam_oft_pnl_2025,cv_oxfam_oft,2025,-518334,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 verlies -518334 JUMP loss; tick1695
 bud_oxfam_oft_vte_2025,cv_oxfam_oft,2025,30.7,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 gemiddeld VTE 1003 30.7 DROP from 31.2; eoy 29.4; tick1695
 bud_oxfam_oft_commissaris_fee_2025,cv_oxfam_oft,2025,18000,,,executed,src_oxfam_oft_jr2025_nbb,strong,YE2025 bezoldiging commissaris 9505 18000; EY; tick1695
+bud_fairtrade_be_assets_2025,vzw_fairtrade_be,2025,3403469,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 balanstotaal 3403469 DROP from 4030873; tick1696
+bud_fairtrade_be_va_2025,vzw_fairtrade_be,2025,192494,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 vaste activa 192494 DROP; tick1696
+bud_fairtrade_be_iva_2025,vzw_fairtrade_be,2025,41928,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 immateriele VA 41928 JUMP; tick1696
+bud_fairtrade_be_mva_2025,vzw_fairtrade_be,2025,31820,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 MVA 31820 DROP (installaties 19177 + meubilair 12643); tick1696
+bud_fairtrade_be_fva_2025,vzw_fairtrade_be,2025,118747,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 financiele VA 118747 flat; tick1696
+bud_fairtrade_be_vlottend_2025,vzw_fairtrade_be,2025,3210974,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 vlottende activa 3210974 DROP; tick1696
+bud_fairtrade_be_lt_recv_2025,vzw_fairtrade_be,2025,573679,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 overige vorderingen LT 573679 NEW; tick1696
+bud_fairtrade_be_handelsrecv_2025,vzw_fairtrade_be,2025,1705935,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 handelsvorderingen ST 1705935 DROP; tick1696
+bud_fairtrade_be_other_recv_2025,vzw_fairtrade_be,2025,673776,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 overige vorderingen ST 673776 JUMP; tick1696
+bud_fairtrade_be_cash_2025,vzw_fairtrade_be,2025,806310,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 liquide middelen 806310 DROP; tick1696
+bud_fairtrade_be_prepaid_2025,vzw_fairtrade_be,2025,24953,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 24953 JUMP; tick1696
+bud_fairtrade_be_equity_2025,vzw_fairtrade_be,2025,872406,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 eigen vermogen 872406 DROP; tick1696
+bud_fairtrade_be_fondsen_2025,vzw_fairtrade_be,2025,102524,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 fondsen 102524 flat; tick1696
+bud_fairtrade_be_destin_2025,vzw_fairtrade_be,2025,23798,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 bestemde fondsen 23798 flat; tick1696
+bud_fairtrade_be_overgedragen_2025,vzw_fairtrade_be,2025,746084,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 overgedragen resultaat 746084 DROP; tick1696
+bud_fairtrade_be_voorzieningen_2025,vzw_fairtrade_be,2025,57790,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 voorzieningen 57790 JUMP; tick1696
+bud_fairtrade_be_debt_2025,vzw_fairtrade_be,2025,2473273,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 schulden 2473273 DROP; tick1696
+bud_fairtrade_be_st_debt_2025,vzw_fairtrade_be,2025,1796627,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 schulden ST 1796627 DROP; tick1696
+bud_fairtrade_be_lev_2025,vzw_fairtrade_be,2025,1306813,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 leveranciers ST 1306813 DROP; tick1696
+bud_fairtrade_be_taxsoc_2025,vzw_fairtrade_be,2025,236847,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 236847 (tax 36974 + soc 199872); tick1696
+bud_fairtrade_be_other_st_2025,vzw_fairtrade_be,2025,252968,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 overige schulden ST 252968 DROP; tick1696
+bud_fairtrade_be_accrued_2025,vzw_fairtrade_be,2025,676646,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 676646 DROP from 1159059; tick1696
+bud_fairtrade_be_bruto_2025,vzw_fairtrade_be,2025,1790687,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 brutomarge 9900 1790687 JUMP ENVELOPE; tick1696
+bud_fairtrade_be_pers_2025,vzw_fairtrade_be,2025,1707393,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 bezoldigingen 62 1707393 JUMP / 19.5 VTE; tick1696
+bud_fairtrade_be_afschr_2025,vzw_fairtrade_be,2025,34914,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 afschrijvingen 630 34914 JUMP; tick1696
+bud_fairtrade_be_wm_2025,vzw_fairtrade_be,2025,48734,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 waardeverminderingen 631/4 48734 JUMP; tick1696
+bud_fairtrade_be_andere_2025,vzw_fairtrade_be,2025,4703,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 4703 DROP; tick1696
+bud_fairtrade_be_expl_2025,vzw_fairtrade_be,2025,-10058,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 bedrijfsverlies -10058 JUMP loss; tick1696
+bud_fairtrade_be_fininc_2025,vzw_fairtrade_be,2025,11674,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 financiele opbrengsten 11674 DROP; tick1696
+bud_fairtrade_be_fincost_2025,vzw_fairtrade_be,2025,2226,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 financiele kosten 2226 DROP; tick1696
+bud_fairtrade_be_tax_2025,vzw_fairtrade_be,2025,960,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 belastingen 960 JUMP; tick1696
+bud_fairtrade_be_pnl_2025,vzw_fairtrade_be,2025,-1570,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 verlies -1570 JUMP near break-even; tick1696
+bud_fairtrade_be_vte_2025,vzw_fairtrade_be,2025,19.5,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 19.5 JUMP from 18.4; eoy 17.8; tick1696
