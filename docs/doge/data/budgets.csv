@@ -48601,3 +48601,35 @@ bud_avansa_cv_expl_2025,vzw_avansa_cv,2025,2642,,,executed,src_avansa_cv_jr2025_
 bud_avansa_cv_fininc_2025,vzw_avansa_cv,2025,9344,,,executed,src_avansa_cv_jr2025_nbb,strong,YE2025 financiele opbrengsten 9344 JUMP; tick1669
 bud_avansa_cv_fincost_2025,vzw_avansa_cv,2025,10693,,,executed,src_avansa_cv_jr2025_nbb,strong,YE2025 financiele kosten 10693 JUMP; tick1669
 bud_avansa_cv_pnl_2025,vzw_avansa_cv,2025,1292,,,executed,src_avansa_cv_jr2025_nbb,strong,YE2025 winst 1292 DROP; tick1669
+bud_vsv_assets_2025,vzw_vsv,2025,424671,,,executed,src_vsv_jr2025_nbb,strong,YE2025 balanstotaal 424671 JUMP from 391486; tick1671
+bud_vsv_va_2025,vzw_vsv,2025,47281,,,executed,src_vsv_jr2025_nbb,strong,YE2025 vaste activa 47281 JUMP; tick1671
+bud_vsv_iva_2025,vzw_vsv,2025,45662,,,executed,src_vsv_jr2025_nbb,strong,YE2025 immateriele VA 45662 JUMP (website aanschaf 50394); tick1671
+bud_vsv_mva_2025,vzw_vsv,2025,1619,,,executed,src_vsv_jr2025_nbb,strong,YE2025 materiele VA 1619 DROP; tick1671
+bud_vsv_vlottend_2025,vzw_vsv,2025,377390,,,executed,src_vsv_jr2025_nbb,strong,YE2025 vlottende activa 377390 JUMP; tick1671
+bud_vsv_voorraden_2025,vzw_vsv,2025,8647,,,executed,src_vsv_jr2025_nbb,strong,YE2025 voorraden 8647 JUMP; tick1671
+bud_vsv_handelsrecv_2025,vzw_vsv,2025,13793,,,executed,src_vsv_jr2025_nbb,strong,YE2025 handelsvorderingen ST 13793 JUMP; tick1671
+bud_vsv_other_recv_2025,vzw_vsv,2025,41454,,,executed,src_vsv_jr2025_nbb,strong,YE2025 overige vorderingen ST 41454 DROP; tick1671
+bud_vsv_cash_2025,vzw_vsv,2025,303805,,,executed,src_vsv_jr2025_nbb,strong,YE2025 liquide middelen 303805 JUMP; tick1671
+bud_vsv_prepaid_2025,vzw_vsv,2025,9690,,,executed,src_vsv_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 9690 DROP; tick1671
+bud_vsv_equity_2025,vzw_vsv,2025,167997,,,executed,src_vsv_jr2025_nbb,strong,YE2025 eigen vermogen 167997 DROP; tick1671
+bud_vsv_fondsen_2025,vzw_vsv,2025,6176,,,executed,src_vsv_jr2025_nbb,strong,YE2025 fondsen 6176 flat; tick1671
+bud_vsv_destin_2025,vzw_vsv,2025,30000,,,executed,src_vsv_jr2025_nbb,strong,YE2025 bestemde fondsen 30000 flat (sociaal passief+website per notes YE2024); tick1671
+bud_vsv_overgedragen_2025,vzw_vsv,2025,131822,,,executed,src_vsv_jr2025_nbb,strong,YE2025 overgedragen winst 131822 DROP; tick1671
+bud_vsv_debt_2025,vzw_vsv,2025,256674,,,executed,src_vsv_jr2025_nbb,strong,YE2025 schulden 256674 JUMP; tick1671
+bud_vsv_st_debt_2025,vzw_vsv,2025,203514,,,executed,src_vsv_jr2025_nbb,strong,YE2025 schulden ST 203514 JUMP; tick1671
+bud_vsv_lev_2025,vzw_vsv,2025,20364,,,executed,src_vsv_jr2025_nbb,strong,YE2025 leveranciers ST 20364 JUMP; tick1671
+bud_vsv_taxsoc_2025,vzw_vsv,2025,66652,,,executed,src_vsv_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 66652 JUMP (tax 14451 + soc 52201); tick1671
+bud_vsv_othdebt_2025,vzw_vsv,2025,116498,,,executed,src_vsv_jr2025_nbb,strong,YE2025 overige schulden ST 116498 JUMP/NEW; tick1671
+bud_vsv_accrued_2025,vzw_vsv,2025,53159,,,executed,src_vsv_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 53159 JUMP; tick1671
+bud_vsv_bruto_2025,vzw_vsv,2025,360970,,,executed,src_vsv_jr2025_nbb,strong,YE2025 brutomarge 9900 360970 DROP ENVELOPE; tick1671
+bud_vsv_omzet_2025,vzw_vsv,2025,48604,,,executed,src_vsv_jr2025_nbb,strong,YE2025 omzet 70 48604 JUMP; tick1671
+bud_vsv_code73_2025,vzw_vsv,2025,559764,,,executed,src_vsv_jr2025_nbb,strong,YE2025 lid/schenk/legaten/subs 73 559764 JUMP; tick1671
+bud_vsv_diensten_2025,vzw_vsv,2025,253951,,,executed,src_vsv_jr2025_nbb,strong,YE2025 handelsgoederen/diensten 60/61 253951 JUMP; tick1671
+bud_vsv_pers_2025,vzw_vsv,2025,432454,,,executed,src_vsv_jr2025_nbb,strong,YE2025 bezoldigingen 62 432454 JUMP; VTE not filed (MIC); tick1671
+bud_vsv_afschr_2025,vzw_vsv,2025,31502,,,executed,src_vsv_jr2025_nbb,strong,YE2025 afschrijvingen 630 31502 JUMP; tick1671
+bud_vsv_voorz_mut_2025,vzw_vsv,2025,-9800,,,executed,src_vsv_jr2025_nbb,strong,YE2025 voorzieningen mutatie 635/9 -9800 (verzekeringsloket release); tick1671
+bud_vsv_andere_2025,vzw_vsv,2025,653,,,executed,src_vsv_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 653; tick1671
+bud_vsv_expl_2025,vzw_vsv,2025,-103638,,,executed,src_vsv_jr2025_nbb,strong,YE2025 bedrijfsverlies -103638 DEEPER; tick1671
+bud_vsv_fininc_2025,vzw_vsv,2025,6,,,executed,src_vsv_jr2025_nbb,strong,YE2025 financiele opbrengsten 6; tick1671
+bud_vsv_fincost_2025,vzw_vsv,2025,234,,,executed,src_vsv_jr2025_nbb,strong,YE2025 financiele kosten 234; tick1671
+bud_vsv_pnl_2025,vzw_vsv,2025,-103867,,,executed,src_vsv_jr2025_nbb,strong,YE2025 verlies -103867 DEEPER; tick1671
