@@ -50418,3 +50418,15 @@ bud_hirondelles_expl_2025,nv_hirondelles,2025,296170,,,realized,src_hirondelles_
 bud_hirondelles_pnl_2025,nv_hirondelles,2025,215131,,,realized,src_hirondelles_jr2025_nbb,strong,PnL 215131 (a affecter 293026); tick1764
 bud_hirondelles_admin_remun_2025,nv_hirondelles,2025,105888,,,realized,src_hirondelles_jr2025_nbb,strong,Benefice distribue administrateurs/gerants 105888; tick1764
 bud_hirondelles_caution_enph_2025,nv_hirondelles,2025,205070,,,stock,src_hirondelles_jr2025_nbb,strong,Cautionnement ENPH en faveur de Vivalto Home Belgium SA 205070 off-balance; tick1764
+bud_joiesante_assets_2025,bv_joiesante,2025,1510880,,,stock,src_joiesante_jr2025_nbb,strong,Assets YE2025 1510880 UP vs 1428611; tick1765
+bud_joiesante_equity_2025,bv_joiesante,2025,422059,,,stock,src_joiesante_jr2025_nbb,strong,Equity 422059 UP vs 361809; tick1765
+bud_joiesante_debt_2025,bv_joiesante,2025,1088821,,,stock,src_joiesante_jr2025_nbb,strong,Debt 1088821 UP vs 1066803; tick1765
+bud_joiesante_autres_dettes_2025,bv_joiesante,2025,591239,,,stock,src_joiesante_jr2025_nbb,strong,Autres dettes ST 591239 JUMP vs 469191; tick1765
+bud_joiesante_autres_creances_2025,bv_joiesante,2025,305261,,,stock,src_joiesante_jr2025_nbb,strong,Autres creances ST 305261; tick1765
+bud_joiesante_related_recv_2025,bv_joiesante,2025,223157,,,stock,src_joiesante_jr2025_nbb,strong,Creances sur administrateurs/controleurs 9500=223157; tick1765
+bud_joiesante_accruals_actif_2025,bv_joiesante,2025,156726,,,stock,src_joiesante_jr2025_nbb,strong,Comptes de regularisation actif 156726 JUMP vs 24847; tick1765
+bud_joiesante_marge_2025,bv_joiesante,2025,2460726,,,realized,src_joiesante_jr2025_nbb,strong,Marge brute 2460726 (A-app; CA not disclosed); tick1765
+bud_joiesante_staff_2025,bv_joiesante,2025,2165028,,,realized,src_joiesante_jr2025_nbb,strong,Staff 2165028 / VTE 35.8; tick1765
+bud_joiesante_expl_2025,bv_joiesante,2025,98111,,,realized,src_joiesante_jr2025_nbb,strong,Benefice exploitation 98111 TURNAROUND vs -143589; tick1765
+bud_joiesante_pnl_2025,bv_joiesante,2025,86272,,,realized,src_joiesante_jr2025_nbb,strong,PnL 86272 (a reporter 351014); tick1765
+bud_joiesante_admin_remun_2025,bv_joiesante,2025,26022,,,realized,src_joiesante_jr2025_nbb,strong,Benefice distribue administrateurs/gerants 26022; tick1765
