@@ -50442,3 +50442,15 @@ bud_jardinducoeur_staff_2025,nv_jardinducoeur,2025,4643748,,,realized,src_jardin
 bud_jardinducoeur_expl_2025,nv_jardinducoeur,2025,109422,,,realized,src_jardinducoeur_jr2025_nbb,strong,Benefice exploitation 109422 DROP vs 253325; tick1766
 bud_jardinducoeur_pnl_2025,nv_jardinducoeur,2025,97250,,,realized,src_jardinducoeur_jr2025_nbb,strong,PnL 97250; dividend apport 71074 + admin 31049; tick1766
 bud_jardinducoeur_curalease_ob_2025,nv_jardinducoeur,2025,25998212,,,stock,src_jardinducoeur_jr2025_nbb,strong,Off-balance future rents CURALEASE 249 months x 104410.49 = 25998212; tick1766
+bud_beleden_assets_2025,nv_beleden,2025,2066405,,,stock,src_beleden_jr2025_nbb,strong,Assets YE2025 2066405 JUMP vs 683642; tick1767
+bud_beleden_equity_2025,nv_beleden,2025,510061,,,stock,src_beleden_jr2025_nbb,strong,Equity 510061 DROP vs 565755; tick1767
+bud_beleden_debt_2025,nv_beleden,2025,1556344,,,stock,src_beleden_jr2025_nbb,strong,Debt 1556344 JUMP vs 117887; tick1767
+bud_beleden_lt_credit_2025,nv_beleden,2025,1275000,,,stock,src_beleden_jr2025_nbb,strong,LT bank/credit 1275000 NEW vs 0; tick1767
+bud_beleden_autres_creances_2025,nv_beleden,2025,565510,,,stock,src_beleden_jr2025_nbb,strong,Autres creances ST 565510 (no trade recv); tick1767
+bud_beleden_cash_2025,nv_beleden,2025,1415764,,,stock,src_beleden_jr2025_nbb,strong,Cash 1415764 JUMP vs 35671; tick1767
+bud_beleden_marge_2025,nv_beleden,2025,74836,,,realized,src_beleden_jr2025_nbb,strong,Marge bruto 74836 (A-cap; CA not disclosed; 0 VTE shell); tick1767
+bud_beleden_expl_2025,nv_beleden,2025,52141,,,realized,src_beleden_jr2025_nbb,strong,Benefice exploitation 52141; tick1767
+bud_beleden_pnl_2025,nv_beleden,2025,44306,,,realized,src_beleden_jr2025_nbb,strong,PnL 44306 TURNAROUND vs -45802; tick1767
+bud_beleden_dividend_2025,nv_beleden,2025,100000,,,realized,src_beleden_jr2025_nbb,strong,Remuneration de l apport / dividend 100000 (also prior year); tick1767
+bud_beleden_caution_rsl_2025,nv_beleden,2025,174367,,,stock,src_beleden_jr2025_nbb,strong,Cautions REPOS SANTE LOISIRS 24789+149578=174367 off-balance; tick1767
+bud_beleden_gage_loyers_2025,nv_beleden,2025,1400000,,,stock,src_beleden_jr2025_nbb,strong,Gage creance de loyers max 1400000; tick1767
