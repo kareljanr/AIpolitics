@@ -49836,3 +49836,22 @@ bud_scam_be_action_culturelle_fr_2025,ogc_scam_be,2025,111400,,,executed,src_sca
 bud_scam_be_bourses_ecrit_be_2025,ogc_scam_be,2025,290125,,,executed,src_scam_be_ra2025_official,strong,RA2025 BE 10pct droits ecrit bourses 290124.68 rounded 290125; 540 beneficiaires; tick1716
 bud_scam_be_remuneration_comite_delegue_2025,ogc_scam_be,2025,128730,,,executed,src_scam_be_ra2025_official,strong,RA2025 remun+avantages Delegue+Comite 128729.97; tick1716
 bud_scam_be_fonds_organique_2025,ogc_scam_be,2025,19218,,,executed,src_scam_be_ra2025_official,strong,RA2025 contribution fonds organique 19218; tick1716
+bud_biv_assets_2025,oi_biv,2025,3126436,,,executed,src_biv_jv2025_official,strong,JV2025 activa 3126436.04; Nationale Raad 25.03.2026; tick1717
+bud_biv_va_2025,oi_biv,2025,876399,,,executed,src_biv_jv2025_official,strong,JV2025 vaste activa 876399.39; tick1717
+bud_biv_vlottend_2025,oi_biv,2025,2250037,,,executed,src_biv_jv2025_official,strong,JV2025 vlottende activa 2250036.65; tick1717
+bud_biv_cash_2025,oi_biv,2025,1942664,,,executed,src_biv_jv2025_official,strong,JV2025 liquide middelen 1942663.80; tick1717
+bud_biv_equity_2025,oi_biv,2025,2269597,,,executed,src_biv_jv2025_official,strong,JV2025 eigen vermogen 2269597.33 (overgedragen 1732784 + sociaal passief 536813); tick1717
+bud_biv_debt_2025,oi_biv,2025,856839,,,executed,src_biv_jv2025_official,strong,JV2025 schulden 856838.71; tick1717
+bud_biv_opbrengsten_2025,oi_biv,2025,11320352,,,executed,src_biv_jv2025_official,strong,JV2025 totaal opbrengsten 11320351.90; tick1717
+bud_biv_lidgeld_2025,oi_biv,2025,10209751,,,executed,src_biv_jv2025_official,strong,JV2025 ledenbijdragen+dossierkosten 10209750.70; tick1717
+bud_biv_rappel_2025,oi_biv,2025,86987,,,executed,src_biv_jv2025_official,strong,JV2025 rappel+gerechtskosten 86987.20; tick1717
+bud_biv_fin_opbr_2025,oi_biv,2025,87333,,,executed,src_biv_jv2025_official,strong,JV2025 financiele opbrengsten 87332.79; tick1717
+bud_biv_diverse_opbr_2025,oi_biv,2025,691608,,,executed,src_biv_jv2025_official,strong,JV2025 diverse ontvangsten 691607.58; tick1717
+bud_biv_huur_opbr_2025,oi_biv,2025,129071,,,executed,src_biv_jv2025_official,strong,JV2025 opbrengsten huur 129070.51; tick1717
+bud_biv_diensten_2025,oi_biv,2025,6112900,,,executed,src_biv_jv2025_official,strong,JV2025 diverse goederen en diensten 6112900.29; tick1717
+bud_biv_zitpenningen_2025,oi_biv,2025,823771,,,executed,src_biv_jv2025_official,strong,JV2025 zitpenningen 823771.06; tick1717
+bud_biv_bezoldigingen_2025,oi_biv,2025,3636101,,,executed,src_biv_jv2025_official,strong,JV2025 bezoldigingen 3636101.07; VTE Unknown; tick1717
+bud_biv_verplaatsing_2025,oi_biv,2025,69096,,,executed,src_biv_jv2025_official,strong,JV2025 verplaatsingsonkosten 69096.06; tick1717
+bud_biv_belastingen_2025,oi_biv,2025,210586,,,executed,src_biv_jv2025_official,strong,JV2025 belastingen+RV 210585.70; tick1717
+bud_biv_afschrijvingen_2025,oi_biv,2025,156197,,,executed,src_biv_jv2025_official,strong,JV2025 afschrijvingen 156197.10; tick1717
+bud_biv_overgedragen_winst_2025,oi_biv,2025,291131,,,executed,src_biv_jv2025_official,strong,JV2025 over te dragen winst 291130.69; tick1717
