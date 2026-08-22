@@ -21125,3 +21125,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_vertbocage; budgets (+13); commitments; leaderboard; foi_queue ready; research_queue rq_1777=done + rq_1778 spawned; loop_state ticks=1777; FOI draft gap_vertbocage_marge_3_75m_related_recv_4_66m_rivage_135m_l5.md
 - FOI opened: gap_vertbocage_marge_3_75m_related_recv_4_66m_rivage_135m_l5 (**ready**, not sent)
 - Next: rq_1778 — leftover AGB/NSZ-if-200/Bosgroep/Brembloem-if-200/Tonnelle/AgeDor; every-10 at 1780
+
+### 2026-08-24T19:35:00Z — tick 1778
+- Unit: rq_1778 — **LA TONNELLE SA** (Hannut / Vivalto)
+- Found: NBB C-cap YE2025 deposit [2026-00176186](http://cdn.staatsbladmonitor.be/2026pdf/2026-00176186.pdf) CDN 200 (1.23 MB / 55p); KBO **0431.602.587**; AV **21.05.2026**; mère Vivalto Home Belgium; Forvis Mazars — **opinion sans réserve**. Sourced: assets **€12,640,456**; equity **€2,782,042** DROP; debt **€9,209,747**; CA **€6,764,837**; staff **€4,006,575** / VTE **63.2**; expl **€711,511**; PnL **€456,687**; dividend apport **€525,000**; admin **€213,229**; related FVA **€3,354,539**; controllers 9500 **€2,920,500**; related debt **€7,555,451**; leasing LT **€3,811,594** + option **€623,000**; **RIVAGE/VIVALTO LEASE gage €135,600,000** undivided (twin VertBocage continuum; assets grevés €6,098,806).
+- Wrote: sources (+3); entities nv_tonnelle; budgets (+15); commitments; leaderboard; foi_queue ready; research_queue rq_1778=done + rq_1779 spawned; loop_state ticks=1778; FOI draft gap_tonnelle_ca_6_76m_related_recv_3_35m_rivage_135m_l5.md
+- FOI opened: gap_tonnelle_ca_6_76m_related_recv_3_35m_rivage_135m_l5 (**ready**, not sent)
+- Next: rq_1779 — leftover AGB/NSZ-if-200/Bosgroep/Brembloem-if-200/AgeDor; every-10 at 1780

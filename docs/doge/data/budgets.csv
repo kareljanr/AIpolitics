@@ -50561,3 +50561,18 @@ bud_vertbocage_staff_2025,nv_vertbocage,2025,3012400,,,realized,src_vertbocage_j
 bud_vertbocage_expl_2025,nv_vertbocage,2025,512460,,,realized,src_vertbocage_jr2025_nbb,strong,Benefice exploitation 512460; tick1777
 bud_vertbocage_pnl_2025,nv_vertbocage,2025,426107,,,realized,src_vertbocage_jr2025_nbb,strong,PnL 426107; dividend apport 325000 + admin 163242; autres dettes ST=distribuer 488242; tick1777
 bud_vertbocage_rivage_gage_2025,nv_vertbocage,2025,135600000,,,stock,src_vertbocage_jr2025_nbb,strong,VIVALTO LEASE/RIVAGE gage fonds commerce 135600000 group undivided; assets grevés 6742435; tick1777
+bud_tonnelle_assets_2025,nv_tonnelle,2025,12640456,,,stock,src_tonnelle_jr2025_nbb,strong,Assets YE2025 12640456 DROP vs 13727667; tick1778
+bud_tonnelle_equity_2025,nv_tonnelle,2025,2782042,,,stock,src_tonnelle_jr2025_nbb,strong,Equity 2782042 DROP vs 3073783; tick1778
+bud_tonnelle_debt_2025,nv_tonnelle,2025,9209747,,,stock,src_tonnelle_jr2025_nbb,strong,Debt 9209747; tick1778
+bud_tonnelle_leasing_lt_2025,nv_tonnelle,2025,3811594,,,stock,src_tonnelle_jr2025_nbb,strong,LT leasing dettes 3811594; option achat 623000; tick1778
+bud_tonnelle_fva_2025,nv_tonnelle,2025,3359659,,,stock,src_tonnelle_jr2025_nbb,strong,Immobilisations financieres 3359659 mostly related créances 3354539; tick1778
+bud_tonnelle_related_recv_fva_2025,nv_tonnelle,2025,3354539,,,stock,src_tonnelle_jr2025_nbb,strong,Créances entreprises liées FVA 281=3354539; tick1778
+bud_tonnelle_related_recv_st_2025,nv_tonnelle,2025,2058672,,,stock,src_tonnelle_jr2025_nbb,strong,Créances liées ST 2058672 DROP vs 2691418; tick1778
+bud_tonnelle_controllers_recv_2025,nv_tonnelle,2025,2920500,,,stock,src_tonnelle_jr2025_nbb,strong,Créances sur administrateurs/controleurs 9500=2920500; tick1778
+bud_tonnelle_related_debt_2025,nv_tonnelle,2025,7555451,,,stock,src_tonnelle_jr2025_nbb,strong,Dettes entreprises liées 7555451 (LT 6692203 + ST 863249); tick1778
+bud_tonnelle_cash_2025,nv_tonnelle,2025,126972,,,stock,src_tonnelle_jr2025_nbb,strong,Cash 126972 DROP vs 138962; tick1778
+bud_tonnelle_ca_2025,nv_tonnelle,2025,6764837,,,realized,src_tonnelle_jr2025_nbb,strong,CA 6764837 / ventes prestations 6777954; tick1778
+bud_tonnelle_staff_2025,nv_tonnelle,2025,4006575,,,realized,src_tonnelle_jr2025_nbb,strong,Staff 4006575 / VTE 63.2; tick1778
+bud_tonnelle_expl_2025,nv_tonnelle,2025,711511,,,realized,src_tonnelle_jr2025_nbb,strong,Benefice exploitation 711511; tick1778
+bud_tonnelle_pnl_2025,nv_tonnelle,2025,456687,,,realized,src_tonnelle_jr2025_nbb,strong,PnL 456687; dividend apport 525000 + admin 213229; autres dettes ST 1466848; tick1778
+bud_tonnelle_rivage_gage_2025,nv_tonnelle,2025,135600000,,,stock,src_tonnelle_jr2025_nbb,strong,VIVALTO LEASE/RIVAGE gage fonds commerce 135600000 group undivided; assets grevés 6098806; tick1778
