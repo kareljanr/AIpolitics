@@ -50535,3 +50535,16 @@ bud_closroses_staff_2025,nv_closroses,2025,3268771,,,realized,src_closroses_jr20
 bud_closroses_expl_2025,nv_closroses,2025,523803,,,realized,src_closroses_jr2025_nbb,strong,Benefice exploitation 523803; tick1775
 bud_closroses_pnl_2025,nv_closroses,2025,367088,,,realized,src_closroses_jr2025_nbb,strong,PnL 367088; dividend apport 325000 + admin 167175; tick1775
 bud_closroses_rivage_gage_2025,nv_closroses,2025,135600000,,,stock,src_closroses_jr2025_nbb,strong,VIVALTO LEASE/RIVAGE gage fonds commerce 135600000 group undivided; assets grevés 7604853; tick1775
+bud_etrier_assets_2025,nv_etrier,2025,10477226,,,stock,src_etrier_jr2025_nbb,strong,Assets YE2025 10477226 DROP vs 10690473; tick1776
+bud_etrier_equity_2025,nv_etrier,2025,1705277,,,stock,src_etrier_jr2025_nbb,strong,Equity 1705277 DROP vs 1786747; tick1776
+bud_etrier_debt_2025,nv_etrier,2025,8487639,,,stock,src_etrier_jr2025_nbb,strong,Debt 8487639; tick1776
+bud_etrier_leasing_lt_2025,nv_etrier,2025,3895022,,,stock,src_etrier_jr2025_nbb,strong,LT credit/leasing 172/3=3895022; option achat 315000; tick1776
+bud_etrier_fva_2025,nv_etrier,2025,4620948,,,stock,src_etrier_jr2025_nbb,strong,Immobilisations financieres 4620948; tick1776
+bud_etrier_autres_creances_2025,nv_etrier,2025,1846146,,,stock,src_etrier_jr2025_nbb,strong,Autres creances ST 1846146; tick1776
+bud_etrier_controllers_recv_2025,nv_etrier,2025,4155165,,,stock,src_etrier_jr2025_nbb,strong,Creances sur administrateurs/controleurs 9500=4155165; tick1776
+bud_etrier_cash_2025,nv_etrier,2025,287434,,,stock,src_etrier_jr2025_nbb,strong,Cash 287434 JUMP vs 151093; tick1776
+bud_etrier_marge_2025,nv_etrier,2025,4117230,,,realized,src_etrier_jr2025_nbb,strong,Marge bruto 4117230 (A-cap; CA undisclosed); tick1776
+bud_etrier_staff_2025,nv_etrier,2025,3120308,,,realized,src_etrier_jr2025_nbb,strong,Staff 3120308 / VTE 49; tick1776
+bud_etrier_expl_2025,nv_etrier,2025,617479,,,realized,src_etrier_jr2025_nbb,strong,Benefice exploitation 617479; tick1776
+bud_etrier_pnl_2025,nv_etrier,2025,424863,,,realized,src_etrier_jr2025_nbb,strong,PnL 424863; dividend apport 325000 + admin 175333; autres dettes ST=distribuer 500333; tick1776
+bud_etrier_rivage_gage_2025,nv_etrier,2025,135600000,,,stock,src_etrier_jr2025_nbb,strong,VIVALTO LEASE/RIVAGE gage fonds commerce 135600000 group undivided; assets grevés 7087670; tick1776

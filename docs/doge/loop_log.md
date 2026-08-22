@@ -21111,3 +21111,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_closroses; budgets (+15); commitments; leaderboard; foi_queue ready; research_queue rq_1775=done + rq_1776 spawned; loop_state ticks=1775; FOI draft gap_closroses_ca_5_17m_related_recv_5_83m_rivage_135m_l5.md
 - FOI opened: gap_closroses_ca_5_17m_related_recv_5_83m_rivage_135m_l5 (**ready**, not sent)
 - Next: rq_1776 — leftover AGB/NSZ-if-200/Bosgroep/Brembloem-if-200/Etrier/VertBocage/Tonnelle/AgeDor; every-10 at 1780
+
+### 2026-08-24T18:55:00Z — tick 1776
+- Unit: rq_1776 — **L\'ETRIER D\'ARGENT SA** (Sombreffe / Vivalto)
+- Found: NBB A-cap YE2025 deposit [2026-00176181](http://cdn.staatsbladmonitor.be/2026pdf/2026-00176181.pdf) CDN 200 (228 KB / 28p); KBO **0472.999.120**; AV **21.05.2026**; mère Vivalto Home Belgium; Forvis Mazars — **opinion sans réserve**. Sourced: assets **€10,477,226**; equity **€1,705,277** DROP; debt **€8,487,639**; marge bruto **€4,117,230** (CA undisclosed); staff **€3,120,308** / VTE **49**; expl **€617,479**; PnL **€424,863**; dividend apport **€325,000**; admin **€175,333**; FVA **€4,620,948**; controllers 9500 **€4,155,165**; leasing LT **€3,895,022** + option **€315,000**; **RIVAGE/VIVALTO LEASE gage €135,600,000** undivided (twin ClosRoses/RAPSODE; assets grevés €7,087,670).
+- Wrote: sources (+3); entities nv_etrier; budgets (+13); commitments; leaderboard; foi_queue ready; research_queue rq_1776=done + rq_1777 spawned; loop_state ticks=1776; FOI draft gap_etrier_marge_4_12m_related_recv_4_16m_rivage_135m_l5.md
+- FOI opened: gap_etrier_marge_4_12m_related_recv_4_16m_rivage_135m_l5 (**ready**, not sent)
+- Next: rq_1777 — leftover AGB/NSZ-if-200/Bosgroep/Brembloem-if-200/VertBocage/Tonnelle/AgeDor; every-10 at 1780
