@@ -47399,3 +47399,34 @@ bud_vpp_expl_2025,vzw_vpp,2025,-69347,,,executed,src_vpp_jr2025_nbb,strong,YE202
 bud_vpp_fininc_2025,vzw_vpp,2025,2678,,,executed,src_vpp_jr2025_nbb,strong,YE2025 financiele opbrengsten 2678; tick1629
 bud_vpp_fincost_2025,vzw_vpp,2025,1058,,,executed,src_vpp_jr2025_nbb,strong,YE2025 financiele kosten 1058; tick1629
 bud_vpp_pnl_2025,vzw_vpp,2025,-67727,,,executed,src_vpp_jr2025_nbb,strong,YE2025 verlies -67727 LOSS FLIP from +93836; tick1629
+bud_prebes_assets_2025,vzw_prebes,2025,3326171,,,executed,src_prebes_jr2025_nbb,strong,YE2025 balanstotaal 3326171 JUMP from 3136686; tick1631
+bud_prebes_va_2025,vzw_prebes,2025,1377876,,,executed,src_prebes_jr2025_nbb,strong,YE2025 vaste activa 1377876 JUMP; tick1631
+bud_prebes_iva_2025,vzw_prebes,2025,159525,,,executed,src_prebes_jr2025_nbb,strong,YE2025 immateriele VA 159525 DROP (software); tick1631
+bud_prebes_mva_2025,vzw_prebes,2025,543631,,,executed,src_prebes_jr2025_nbb,strong,YE2025 materiele VA 543631 JUMP; tick1631
+bud_prebes_fva_2025,vzw_prebes,2025,674720,,,executed,src_prebes_jr2025_nbb,strong,YE2025 financiele VA 674720 JUMP (aanschaffingen 507500); tick1631
+bud_prebes_vlottend_2025,vzw_prebes,2025,1948295,,,executed,src_prebes_jr2025_nbb,strong,YE2025 vlottende activa 1948295 DROP; tick1631
+bud_prebes_lt_other_recv_2025,vzw_prebes,2025,100000,,,executed,src_prebes_jr2025_nbb,strong,YE2025 overige vorderingen LT 100000 flat; tick1631
+bud_prebes_handelsrecv_2025,vzw_prebes,2025,314171,,,executed,src_prebes_jr2025_nbb,strong,YE2025 handelsvorderingen ST 314171 JUMP; tick1631
+bud_prebes_other_recv_2025,vzw_prebes,2025,42887,,,executed,src_prebes_jr2025_nbb,strong,YE2025 overige vorderingen ST 42887 JUMP; tick1631
+bud_prebes_beleg_2025,vzw_prebes,2025,983028,,,executed,src_prebes_jr2025_nbb,strong,YE2025 geldbeleggingen 983028 DROP; tick1631
+bud_prebes_cash_2025,vzw_prebes,2025,487145,,,executed,src_prebes_jr2025_nbb,strong,YE2025 liquide middelen 487145 JUMP; tick1631
+bud_prebes_prepaid_2025,vzw_prebes,2025,21064,,,executed,src_prebes_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 21064; tick1631
+bud_prebes_equity_2025,vzw_prebes,2025,2494572,,,executed,src_prebes_jr2025_nbb,strong,YE2025 eigen vermogen 2494572 DROP; tick1631
+bud_prebes_overgedragen_2025,vzw_prebes,2025,2465180,,,executed,src_prebes_jr2025_nbb,strong,YE2025 overgedragen winst 2465180 DROP; tick1631
+bud_prebes_kapsubs_2025,vzw_prebes,2025,29392,,,executed,src_prebes_jr2025_nbb,strong,YE2025 kapitaalsubsidies 29392 JUMP; tick1631
+bud_prebes_voorzieningen_2025,vzw_prebes,2025,50000,,,executed,src_prebes_jr2025_nbb,strong,YE2025 voorzieningen overige risico's 50000 flat; tick1631
+bud_prebes_debt_2025,vzw_prebes,2025,781599,,,executed,src_prebes_jr2025_nbb,strong,YE2025 schulden 781599 JUMP; tick1631
+bud_prebes_st_debt_2025,vzw_prebes,2025,779229,,,executed,src_prebes_jr2025_nbb,strong,YE2025 schulden ST 779229 JUMP; tick1631
+bud_prebes_lev_2025,vzw_prebes,2025,215476,,,executed,src_prebes_jr2025_nbb,strong,YE2025 leveranciers ST 215476 JUMP; tick1631
+bud_prebes_vooruitbet_2025,vzw_prebes,2025,404257,,,executed,src_prebes_jr2025_nbb,strong,YE2025 vooruitbetalingen op bestellingen 404257 JUMP; tick1631
+bud_prebes_taxsoc_2025,vzw_prebes,2025,136714,,,executed,src_prebes_jr2025_nbb,strong,YE2025 bezoldigingen/sociale lasten ST 136714 JUMP; tick1631
+bud_prebes_accrued_2025,vzw_prebes,2025,2370,,,executed,src_prebes_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 2370 NEW; tick1631
+bud_prebes_bruto_2025,vzw_prebes,2025,1040259,,,executed,src_prebes_jr2025_nbb,strong,YE2025 brutomarge 9900 1040259 JUMP ENVELOPE (70/73/60-61 empty); tick1631
+bud_prebes_pers_2025,vzw_prebes,2025,1014488,,,executed,src_prebes_jr2025_nbb,strong,YE2025 bezoldigingen 62 1014488 JUMP / 11.1 VTE; tick1631
+bud_prebes_afschr_2025,vzw_prebes,2025,194348,,,executed,src_prebes_jr2025_nbb,strong,YE2025 afschrijvingen 630 194348 JUMP; tick1631
+bud_prebes_andere_2025,vzw_prebes,2025,18200,,,executed,src_prebes_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 18200 DROP; tick1631
+bud_prebes_expl_2025,vzw_prebes,2025,-186776,,,executed,src_prebes_jr2025_nbb,strong,YE2025 bedrijfsverlies -186776 LOSS DEEP from -53804; tick1631
+bud_prebes_fininc_2025,vzw_prebes,2025,34621,,,executed,src_prebes_jr2025_nbb,strong,YE2025 financiele opbrengsten 34621 JUMP; tick1631
+bud_prebes_fincost_2025,vzw_prebes,2025,404,,,executed,src_prebes_jr2025_nbb,strong,YE2025 financiele kosten 404; tick1631
+bud_prebes_tax_2025,vzw_prebes,2025,10347,,,executed,src_prebes_jr2025_nbb,strong,YE2025 belastingen op resultaat 10347; tick1631
+bud_prebes_pnl_2025,vzw_prebes,2025,-162906,,,executed,src_prebes_jr2025_nbb,strong,YE2025 verlies -162906 LOSS DEEP from -38298; tick1631
