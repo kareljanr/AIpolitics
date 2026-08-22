@@ -46414,3 +46414,46 @@ bud_memisa_fininc_2025,vzw_memisa,2025,46065,,,executed,src_memisa_jr2025_nbb,st
 bud_memisa_fincost_2025,vzw_memisa,2025,225016,,,executed,src_memisa_jr2025_nbb,strong,YE2025 charges financieres 225016 JUMP (FX 206882 + bank 18133); tick1598; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00120615
 bud_memisa_pnl_2025,vzw_memisa,2025,-638100,,,executed,src_memisa_jr2025_nbb,strong,YE2025 perte a affecter -638100 LOSS DEEP (was -54441); tick1598; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00120615
 bud_memisa_commissaris_2025,vzw_memisa,2025,5200,,,executed,src_memisa_jr2025_nbb,strong,YE2025 commissaire Clybouw fee 5200 + attestations 2100; tick1598; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00120615
+bud_msf_assets_2025,vzw_msf,2025,382656431,,,executed,src_msf_jr2025_nbb,strong,YE2025 balanstotaal 382656431 JUMP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_va_2025,vzw_msf,2025,21818430,,,executed,src_msf_jr2025_nbb,strong,YE2025 vaste activa 21818430 DROP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_iva_2025,vzw_msf,2025,908181,,,executed,src_msf_jr2025_nbb,strong,YE2025 IVA 908181 DROP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_mva_2025,vzw_msf,2025,19746713,,,executed,src_msf_jr2025_nbb,strong,YE2025 MVA 19746713 DROP (gebouwen 16548729); tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_gebouw_2025,vzw_msf,2025,16548729,,,executed,src_msf_jr2025_nbb,strong,YE2025 terreinen/gebouwen 16548729; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_fva_2025,vzw_msf,2025,1163536,,,executed,src_msf_jr2025_nbb,strong,YE2025 FVA 1163536 DROP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_current_2025,vzw_msf,2025,360838001,,,executed,src_msf_jr2025_nbb,strong,YE2025 vlottende activa 360838001 JUMP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_lt_recv_2025,vzw_msf,2025,13167031,,,executed,src_msf_jr2025_nbb,strong,YE2025 overige vorderingen >1j 13167031; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_stock_2025,vzw_msf,2025,10399082,,,executed,src_msf_jr2025_nbb,strong,YE2025 handelsgoederen voorraden 10399082 DROP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_trade_recv_2025,vzw_msf,2025,27558559,,,executed,src_msf_jr2025_nbb,strong,YE2025 handelsvorderingen 27558559 JUMP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_other_recv_2025,vzw_msf,2025,111340344,,,executed,src_msf_jr2025_nbb,strong,YE2025 overige vorderingen <=1j 111340344; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_beleg_2025,vzw_msf,2025,42553191,,,executed,src_msf_jr2025_nbb,strong,YE2025 geldbeleggingen 42553191 DROP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_cash_2025,vzw_msf,2025,152708650,,,executed,src_msf_jr2025_nbb,strong,YE2025 liquide middelen 152708650 JUMP MASSIVE; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_prepaid_2025,vzw_msf,2025,3111143,,,executed,src_msf_jr2025_nbb,strong,YE2025 overlopend actief 3111143; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_equity_2025,vzw_msf,2025,312567027,,,executed,src_msf_jr2025_nbb,strong,YE2025 eigen vermogen 312567027 JUMP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_fondsen_2025,vzw_msf,2025,60000000,,,executed,src_msf_jr2025_nbb,strong,YE2025 fondsen 60000000 identiek; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_overgedragen_2025,vzw_msf,2025,252567027,,,executed,src_msf_jr2025_nbb,strong,YE2025 overgedragen winst 252567027 JUMP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_voorzien_2025,vzw_msf,2025,20301062,,,executed,src_msf_jr2025_nbb,strong,YE2025 voorzieningen 20301062 JUMP (pensioen 4019059 / tax 10217439 / andere 6064565); tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_debt_2025,vzw_msf,2025,49788342,,,executed,src_msf_jr2025_nbb,strong,YE2025 schulden 49788342 DROP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_lt_2025,vzw_msf,2025,1166650,,,executed,src_msf_jr2025_nbb,strong,YE2025 LT kredietinstellingen 1166650 DROP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_st_2025,vzw_msf,2025,47295773,,,executed,src_msf_jr2025_nbb,strong,YE2025 schulden <=1j 47295773 DROP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_lev_2025,vzw_msf,2025,24941556,,,executed,src_msf_jr2025_nbb,strong,YE2025 leveranciers 24941556 DROP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_taxsoc_2025,vzw_msf,2025,19378301,,,executed,src_msf_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen 19378301 JUMP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_accrued_2025,vzw_msf,2025,1325919,,,executed,src_msf_jr2025_nbb,strong,YE2025 overlopend passief 1325919 (hedging 1222189); tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_opbr_2025,vzw_msf,2025,576768341,,,executed,src_msf_jr2025_nbb,strong,YE2025 bedrijfsopbrengsten 576768341 JUMP (envelope); tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_omzet_2025,vzw_msf,2025,2493749,,,executed,src_msf_jr2025_nbb,strong,YE2025 omzet 70 2493749 (refacturatie missies); tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_code73_2025,vzw_msf,2025,515846090,,,executed,src_msf_jr2025_nbb,strong,YE2025 lidgeld/schenk/legaten/subs 73 515846090 JUMP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_schenk_2025,vzw_msf,2025,437235038,,,executed,src_msf_jr2025_nbb,strong,YE2025 schenkingen 731 437235038 (private/public fundraising); tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_legaten_2025,vzw_msf,2025,74399756,,,executed,src_msf_jr2025_nbb,strong,YE2025 legaten 732 74399756 JUMP MASSIVE; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_subs_2025,vzw_msf,2025,4208021,,,executed,src_msf_jr2025_nbb,strong,YE2025 subsidies 733 4208021 JUMP (was 1286772); tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_andere_opbr_2025,vzw_msf,2025,57169340,,,executed,src_msf_jr2025_nbb,strong,YE2025 andere bedrijfsopbrengsten 74 57169340 JUMP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_aankopen_2025,vzw_msf,2025,432919800,,,executed,src_msf_jr2025_nbb,strong,YE2025 handelsgoederen 60 432919800 JUMP (mission supplies); tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_diensten_2025,vzw_msf,2025,33327708,,,executed,src_msf_jr2025_nbb,strong,YE2025 diensten 61 33327708; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_pers_2025,vzw_msf,2025,66911088,,,executed,src_msf_jr2025_nbb,strong,YE2025 bezoldigingen 62 66911088 / 665.5 VTE (YE headcount 701; uren 1035426); tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_vte_2025,vzw_msf,2025,665.5,,,executed,src_msf_jr2025_nbb,strong,YE2025 gemiddeld VTE 665.5 DROP (was 752.3); tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_afschr_2025,vzw_msf,2025,3708997,,,executed,src_msf_jr2025_nbb,strong,YE2025 afschrijvingen 3708997; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_andere_2025,vzw_msf,2025,892318,,,executed,src_msf_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 892318; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_nrec_kost_2025,vzw_msf,2025,9278298,,,executed,src_msf_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfskosten 66A 9278298 JUMP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_expl_2025,vzw_msf,2025,29574722,,,executed,src_msf_jr2025_nbb,strong,YE2025 bedrijfswinst 29574722 PROFIT FLIP (was -1051485); tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_fininc_2025,vzw_msf,2025,2726249,,,executed,src_msf_jr2025_nbb,strong,YE2025 financiele opbrengsten 2726249; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_fincost_2025,vzw_msf,2025,12513706,,,executed,src_msf_jr2025_nbb,strong,YE2025 financiele kosten 12513706 JUMP (FX 12428912); tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_pnl_2025,vzw_msf,2025,19923393,,,executed,src_msf_jr2025_nbb,strong,YE2025 te bestemmen winst 19923393 PROFIT JUMP; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
+bud_msf_commissaris_2025,vzw_msf,2025,125181,,,executed,src_msf_jr2025_nbb,strong,YE2025 commissaris KPMG fee 125181 + andere controle 54808; tick1599; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00165483
