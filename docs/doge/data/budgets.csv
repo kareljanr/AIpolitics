@@ -50668,3 +50668,17 @@ bud_courtis_cash_2025,bv_courtis,2025,13081,,,stock,src_courtis_jr2025_nbb,stron
 bud_courtis_marge_2025,bv_courtis,2025,-21843,,,realized,src_courtis_jr2025_nbb,strong,Marge bruto -21843 (A-app; CA undisclosed; 0 VTE shell); tick1786
 bud_courtis_pnl_2025,bv_courtis,2025,-44869,,,realized,src_courtis_jr2025_nbb,strong,PnL loss -44869; pertes reportees -697448; tick1786
 bud_courtis_couros_equity_2025,bv_courtis,2025,4149390,,,stock,src_courtis_jr2025_nbb,strong,COUROS participation YE2025 equity 4149390 / pnl 606535 per COURTIS annex; tick1786
+bud_couros_assets_2025,bv_couros,2025,12758729,,,stock,src_couros_jr2025_nbb,strong,Assets YE2025 12758729; tick1787
+bud_couros_equity_2025,bv_couros,2025,4149390,,,stock,src_couros_jr2025_nbb,strong,Equity 4149390; tick1787
+bud_couros_debt_2025,bv_couros,2025,8609338,,,stock,src_couros_jr2025_nbb,strong,Debt 8609338; tick1787
+bud_couros_leasing_mva_2025,bv_couros,2025,10016885,,,stock,src_couros_jr2025_nbb,strong,Location-financement MVA 10016885; gage max 7369741; option 904178; tick1787
+bud_couros_lt_leasing_debt_2025,bv_couros,2025,6544936,,,stock,src_couros_jr2025_nbb,strong,Dettes financieres LT leasing 172/3=6544936; tick1787
+bud_couros_controllers_recv_2025,bv_couros,2025,406215,,,stock,src_couros_jr2025_nbb,strong,Creances sur administrateurs/controleurs 9500=406215; tick1787
+bud_couros_autres_creances_2025,bv_couros,2025,922947,,,stock,src_couros_jr2025_nbb,strong,Autres creances ST 922947 JUMP vs 484470; tick1787
+bud_couros_cash_2025,bv_couros,2025,771257,,,stock,src_couros_jr2025_nbb,strong,Cash 771257; tick1787
+bud_couros_autres_dettes_st_2025,bv_couros,2025,220759,,,stock,src_couros_jr2025_nbb,strong,Autres dettes ST 220759 (=admin a distribuer); tick1787
+bud_couros_marge_2025,bv_couros,2025,4811934,,,realized,src_couros_jr2025_nbb,strong,Marge bruto 4811934 (A-app; CA undisclosed); tick1787
+bud_couros_staff_2025,bv_couros,2025,2975902,,,realized,src_couros_jr2025_nbb,strong,Staff 2975902 / VTE 44.4; tick1787
+bud_couros_expl_2025,bv_couros,2025,920372,,,realized,src_couros_jr2025_nbb,strong,Benefice exploitation 920372; tick1787
+bud_couros_pnl_2025,bv_couros,2025,606535,,,realized,src_couros_jr2025_nbb,strong,PnL 606535; admin distribution 220759 no dividend apport; tick1787
+bud_couros_admin_distrib_2025,bv_couros,2025,220759,,,realized,src_couros_jr2025_nbb,strong,Administrateurs ou gerants 220759 (prior 0); tick1787

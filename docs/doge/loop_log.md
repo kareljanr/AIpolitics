@@ -21188,3 +21188,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities bv_courtis; budgets (+11); commitments; leaderboard; foi_queue ready; research_queue rq_1786=done + rq_1787 spawned; loop_state ticks=1786; FOI draft gap_courtis_fva_3_20m_couros_100pct_loss_comfort_l5.md
 - FOI opened: gap_courtis_fva_3_20m_couros_100pct_loss_comfort_l5 (**ready**, not sent)
 - Next: rq_1787 — COUROS-00137102 / MaisonDieu-if-200 / AGB / NSZ-if-200; every-10 at 1790
+
+### 2026-08-24T22:35:00Z — tick 1787
+- Unit: rq_1787 — **COUROS SRL (Jardin des Chantoirs)** (Remouchamps / Vivalto opco dual COURTIS)
+- Found: Preferred AGB Bornem still JR2024; NSZ/Dijk92/APEFE prior CDN **403**; Maison Dieu JR2025 still CDN-opaque. Took leftover **COUROS SRL** NBB A-app YE2025 deposit [2026-00137102](http://cdn.staatsbladmonitor.be/2026pdf/2026-00137102.pdf) CDN 200 (220402 bytes / 28p); KBO **0866.041.338**; AV **07.05.2026**; mere COURTIS SRL / Vivalto Home Belgium; Forvis Mazars — **opinion sans reserve**. Sourced: assets **EUR12,758,729**; equity **EUR4,149,390**; debt **EUR8,609,338**; marge bruto **EUR4,811,934**; staff **EUR2,975,902** / VTE **44.4**; PnL **EUR606,535**; admin **EUR220,759**; controllers **EUR406,215**; leasing greves **EUR10,016,885** / gage **EUR7,369,741**; **no RIVAGE 135.6m**.
+- Wrote: sources (+3); entities bv_couros; budgets (+14); commitments; leaderboard; foi_queue ready; research_queue rq_1787=done + rq_1788 spawned; loop_state ticks=1787; FOI draft gap_couros_marge_4_81m_staff_2_98m_leasing_10_02m_l5.md
+- FOI opened: gap_couros_marge_4_81m_staff_2_98m_leasing_10_02m_l5 (**ready**, not sent)
+- Next: rq_1788 — MaisonDieu-if-200 / AGB / NSZ-if-200 / unused-Vivalto; every-10 at 1790
