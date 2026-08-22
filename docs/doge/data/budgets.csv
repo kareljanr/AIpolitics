@@ -48149,3 +48149,41 @@ bud_raak_fininc_2025,vzw_raak,2025,61677,,,executed,src_raak_jr2025_nbb,strong,Y
 bud_raak_fincost_2025,vzw_raak,2025,-15023,,,executed,src_raak_jr2025_nbb,strong,YE2025 financiele kosten -15023 net credit; tick1653
 bud_raak_pnl_2025,vzw_raak,2025,-64678,,,executed,src_raak_jr2025_nbb,strong,YE2025 verlies -64678 DEEPER from -57872; tick1653
 bud_raak_commissaris_2025,vzw_raak,2025,8346,,,executed,src_raak_jr2025_nbb,strong,YE2025 ereloon audit RSM excl BTW 8346; tick1653
+bud_voka_assets_2025,vzw_voka,2025,9125154,,,executed,src_voka_jr2025_nbb,strong,YE2025 balanstotaal 9125154 JUMP from 8873129; tick1654
+bud_voka_va_2025,vzw_voka,2025,720007,,,executed,src_voka_jr2025_nbb,strong,YE2025 vaste activa 720007 DROP; tick1654
+bud_voka_iva_2025,vzw_voka,2025,14974,,,executed,src_voka_jr2025_nbb,strong,YE2025 immateriele VA 14974 DROP; tick1654
+bud_voka_mva_2025,vzw_voka,2025,672033,,,executed,src_voka_jr2025_nbb,strong,YE2025 materiele VA 672033 DROP; tick1654
+bud_voka_fva_2025,vzw_voka,2025,33000,,,executed,src_voka_jr2025_nbb,strong,YE2025 financiele VA 33000 DROP; tick1654
+bud_voka_vlottend_2025,vzw_voka,2025,8405147,,,executed,src_voka_jr2025_nbb,strong,YE2025 vlottende activa 8405147 JUMP; tick1654
+bud_voka_handelsrecv_2025,vzw_voka,2025,691801,,,executed,src_voka_jr2025_nbb,strong,YE2025 handelsvorderingen ST 691801 DROP from 1237202; tick1654
+bud_voka_other_recv_2025,vzw_voka,2025,242018,,,executed,src_voka_jr2025_nbb,strong,YE2025 overige vorderingen ST 242018 DROP; tick1654
+bud_voka_beleg_2025,vzw_voka,2025,4487359,,,executed,src_voka_jr2025_nbb,strong,YE2025 geldbeleggingen 4487359 DROP; tick1654
+bud_voka_cash_2025,vzw_voka,2025,2940551,,,executed,src_voka_jr2025_nbb,strong,YE2025 liquide middelen 2940551 JUMP from 2011873; tick1654
+bud_voka_prepaid_2025,vzw_voka,2025,43418,,,executed,src_voka_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 43418 DROP; tick1654
+bud_voka_equity_2025,vzw_voka,2025,7236182,,,executed,src_voka_jr2025_nbb,strong,YE2025 eigen vermogen 7236182 JUMP; tick1654
+bud_voka_fondsen_2025,vzw_voka,2025,74368,,,executed,src_voka_jr2025_nbb,strong,YE2025 fondsen 74368 flat; tick1654
+bud_voka_overgedragen_2025,vzw_voka,2025,7161814,,,executed,src_voka_jr2025_nbb,strong,YE2025 overgedragen winst 7161814 JUMP; tick1654
+bud_voka_debt_2025,vzw_voka,2025,1888972,,,executed,src_voka_jr2025_nbb,strong,YE2025 schulden 1888972 DROP; tick1654
+bud_voka_st_debt_2025,vzw_voka,2025,1639581,,,executed,src_voka_jr2025_nbb,strong,YE2025 schulden ST 1639581 DROP; tick1654
+bud_voka_lev_2025,vzw_voka,2025,175621,,,executed,src_voka_jr2025_nbb,strong,YE2025 leveranciers ST 175621 DROP; tick1654
+bud_voka_vooruit_2025,vzw_voka,2025,572410,,,executed,src_voka_jr2025_nbb,strong,YE2025 vooruitbetalingen ST 572410 JUMP; tick1654
+bud_voka_taxsoc_2025,vzw_voka,2025,882068,,,executed,src_voka_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 882068 DROP (tax 51866 + soc 830202); tick1654
+bud_voka_othdebt_2025,vzw_voka,2025,9483,,,executed,src_voka_jr2025_nbb,strong,YE2025 overige schulden ST 9483 JUMP; tick1654
+bud_voka_accrued_2025,vzw_voka,2025,249391,,,executed,src_voka_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 249391 DROP; tick1654
+bud_voka_opbr_2025,vzw_voka,2025,10881512,,,executed,src_voka_jr2025_nbb,strong,YE2025 bedrijfsopbrengsten 70/76A 10881512 JUMP ENVELOPE; tick1654
+bud_voka_omzet_2025,vzw_voka,2025,667528,,,executed,src_voka_jr2025_nbb,strong,YE2025 omzet 70 667528 JUMP (publiciteit/events/sponsoring); tick1654
+bud_voka_code73_2025,vzw_voka,2025,9921964,,,executed,src_voka_jr2025_nbb,strong,YE2025 lidgeld/schenk/legaten/subsidies 73 9921964 JUMP; tick1654
+bud_voka_lid_2025,vzw_voka,2025,7703184,,,executed,src_voka_jr2025_nbb,strong,YE2025 lidgelden 730 7703184 JUMP; tick1654
+bud_voka_code73_residual_2025,vzw_voka,2025,2218780,,,executed,src_voka_jr2025_nbb,strong,YE2025 code73 residual ~2218780 (731/732/733 empty); tick1654
+bud_voka_andere_opbr_2025,vzw_voka,2025,292020,,,executed,src_voka_jr2025_nbb,strong,YE2025 andere bedrijfsopbrengsten 74 292020 DROP from 787138; tick1654
+bud_voka_diensten_2025,vzw_voka,2025,5005315,,,executed,src_voka_jr2025_nbb,strong,YE2025 diensten 61 5005315 DROP; tick1654
+bud_voka_pers_2025,vzw_voka,2025,4820134,,,executed,src_voka_jr2025_nbb,strong,YE2025 bezoldigingen 62 4820134 JUMP / 33.6 VTE (DROP from 34); tick1654
+bud_voka_afschr_2025,vzw_voka,2025,212717,,,executed,src_voka_jr2025_nbb,strong,YE2025 afschrijvingen 630 212717 DROP; tick1654
+bud_voka_wv_2025,vzw_voka,2025,-16146,,,executed,src_voka_jr2025_nbb,strong,YE2025 waardeverminderingen 631/4 -16146 reverse; tick1654
+bud_voka_andere_2025,vzw_voka,2025,136874,,,executed,src_voka_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 136874 DROP; tick1654
+bud_voka_nr_kost_2025,vzw_voka,2025,155000,,,executed,src_voka_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfskosten 66A 155000 NEW; tick1654
+bud_voka_expl_2025,vzw_voka,2025,567618,,,executed,src_voka_jr2025_nbb,strong,YE2025 bedrijfswinst 567618 DROP; tick1654
+bud_voka_fininc_2025,vzw_voka,2025,29769,,,executed,src_voka_jr2025_nbb,strong,YE2025 financiele opbrengsten 29769 DROP from 507015; tick1654
+bud_voka_fincost_2025,vzw_voka,2025,56782,,,executed,src_voka_jr2025_nbb,strong,YE2025 financiele kosten 56782 JUMP; tick1654
+bud_voka_pnl_2025,vzw_voka,2025,540605,,,executed,src_voka_jr2025_nbb,strong,YE2025 winst 540605 DROP from 1148378; tick1654
+bud_voka_commissaris_2025,vzw_voka,2025,11110,,,executed,src_voka_jr2025_nbb,strong,YE2025 commissaris fee 9505 11110; tick1654
