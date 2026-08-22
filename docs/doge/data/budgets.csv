@@ -47675,3 +47675,38 @@ bud_sos_fincost_2025,vzw_sos_kinderdorpen,2025,19639,,,executed,src_sos_jr2025_n
 bud_sos_tax_2025,vzw_sos_kinderdorpen,2025,23139,,,executed,src_sos_jr2025_nbb,strong,YE2025 belastingen 23139; tick1638
 bud_sos_pnl_2025,vzw_sos_kinderdorpen,2025,647693,,,executed,src_sos_jr2025_nbb,strong,YE2025 winst 647693 DROP from 4426217; tick1638
 bud_sos_commissaris_fee_2025,vzw_sos_kinderdorpen,2025,5445,,,executed,src_sos_jr2025_nbb,strong,YE2025 commissaris ereloon 5445 (+attest 12427); tick1638
+bud_okra_assets_2025,vzw_okra,2025,7051000,,,executed,src_okra_jr2025_nbb,strong,YE2025 balanstotaal 7051000 JUMP from 5622085; tick1639
+bud_okra_va_2025,vzw_okra,2025,395353,,,executed,src_okra_jr2025_nbb,strong,YE2025 vaste activa 395353 JUMP; tick1639
+bud_okra_iva_2025,vzw_okra,2025,374634,,,executed,src_okra_jr2025_nbb,strong,YE2025 immateriele VA 374634 JUMP; tick1639
+bud_okra_mva_2025,vzw_okra,2025,13302,,,executed,src_okra_jr2025_nbb,strong,YE2025 materiele VA 13302 DROP; tick1639
+bud_okra_fva_2025,vzw_okra,2025,7417,,,executed,src_okra_jr2025_nbb,strong,YE2025 financiele VA 7417 DROP; tick1639
+bud_okra_vlottend_2025,vzw_okra,2025,6655647,,,executed,src_okra_jr2025_nbb,strong,YE2025 vlottende activa 6655647 JUMP; tick1639
+bud_okra_lt_other_recv_2025,vzw_okra,2025,146966,,,executed,src_okra_jr2025_nbb,strong,YE2025 overige vorderingen LT 146966 JUMP; tick1639
+bud_okra_handelsrecv_2025,vzw_okra,2025,534044,,,executed,src_okra_jr2025_nbb,strong,YE2025 handelsvorderingen ST 534044 DROP; tick1639
+bud_okra_other_recv_2025,vzw_okra,2025,261925,,,executed,src_okra_jr2025_nbb,strong,YE2025 overige vorderingen ST 261925; tick1639
+bud_okra_beleg_2025,vzw_okra,2025,4451966,,,executed,src_okra_jr2025_nbb,strong,YE2025 geldbeleggingen 4451966 JUMP from 1899848; tick1639
+bud_okra_cash_2025,vzw_okra,2025,781253,,,executed,src_okra_jr2025_nbb,strong,YE2025 liquide middelen 781253 DROP from 2098864; tick1639
+bud_okra_prepaid_2025,vzw_okra,2025,479493,,,executed,src_okra_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 479493 JUMP; tick1639
+bud_okra_equity_2025,vzw_okra,2025,4935809,,,executed,src_okra_jr2025_nbb,strong,YE2025 eigen vermogen 4935809 JUMP (= bestemde fondsen); tick1639
+bud_okra_destin_2025,vzw_okra,2025,4935809,,,executed,src_okra_jr2025_nbb,strong,YE2025 bestemde fondsen 4935809 JUMP (gehele EV); tick1639
+bud_okra_voorzieningen_2025,vzw_okra,2025,370330,,,executed,src_okra_jr2025_nbb,strong,YE2025 voorzieningen 370330 DROP (pensioen 220330 + other 150000); tick1639
+bud_okra_debt_2025,vzw_okra,2025,1744860,,,executed,src_okra_jr2025_nbb,strong,YE2025 schulden 1744860 JUMP; tick1639
+bud_okra_st_debt_2025,vzw_okra,2025,1461790,,,executed,src_okra_jr2025_nbb,strong,YE2025 schulden ST 1461790 JUMP; tick1639
+bud_okra_lev_2025,vzw_okra,2025,562517,,,executed,src_okra_jr2025_nbb,strong,YE2025 leveranciers ST 562517 JUMP; tick1639
+bud_okra_taxsoc_2025,vzw_okra,2025,899272,,,executed,src_okra_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 899272 JUMP (tax 132291 + soc 766982); tick1639
+bud_okra_accrued_2025,vzw_okra,2025,283070,,,executed,src_okra_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 283070 JUMP (492 146114 + 493 136956); tick1639
+bud_okra_opbr_2025,vzw_okra,2025,11342547,,,executed,src_okra_jr2025_nbb,strong,YE2025 bedrijfsopbrengsten 11342547 JUMP ENVELOPE; tick1639
+bud_okra_omzet_2025,vzw_okra,2025,1141607,,,executed,src_okra_jr2025_nbb,strong,YE2025 omzet 70 1141607 JUMP; tick1639
+bud_okra_code73_2025,vzw_okra,2025,9112933,,,executed,src_okra_jr2025_nbb,strong,YE2025 lidgeld/schenk/legaten/subsidies 73 9112933 JUMP; tick1639
+bud_okra_lidgelden_2025,vzw_okra,2025,3300948,,,executed,src_okra_jr2025_nbb,strong,YE2025 lidgelden 730 3300948 DROP; tick1639
+bud_okra_schenkingen_2025,vzw_okra,2025,3709,,,executed,src_okra_jr2025_nbb,strong,YE2025 schenkingen 731 3709 DROP; tick1639
+bud_okra_subsidies_residual_2025,vzw_okra,2025,5808276,,,executed,src_okra_jr2025_nbb,strong,YE2025 subsidies 733 line empty; residual 73-lid-schenk-legs ~5808276 FOI; tick1639
+bud_okra_andere_opbr_2025,vzw_okra,2025,1088008,,,executed,src_okra_jr2025_nbb,strong,YE2025 andere bedrijfsopbrengsten 74 1088008 JUMP; tick1639
+bud_okra_diensten_2025,vzw_okra,2025,3034210,,,executed,src_okra_jr2025_nbb,strong,YE2025 diensten en diverse goederen 61 3034210 DROP; tick1639
+bud_okra_pers_2025,vzw_okra,2025,6675559,,,executed,src_okra_jr2025_nbb,strong,YE2025 bezoldigingen 62 6675559 JUMP / 71.4 VTE; tick1639
+bud_okra_afschr_2025,vzw_okra,2025,122404,,,executed,src_okra_jr2025_nbb,strong,YE2025 afschrijvingen 630 122404 DROP; tick1639
+bud_okra_andere_2025,vzw_okra,2025,681065,,,executed,src_okra_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 681065 JUMP; tick1639
+bud_okra_expl_2025,vzw_okra,2025,934864,,,executed,src_okra_jr2025_nbb,strong,YE2025 bedrijfswinst 934864 JUMP; tick1639
+bud_okra_fininc_2025,vzw_okra,2025,63740,,,executed,src_okra_jr2025_nbb,strong,YE2025 financiele opbrengsten 63740 JUMP; tick1639
+bud_okra_fincost_2025,vzw_okra,2025,5687,,,executed,src_okra_jr2025_nbb,strong,YE2025 financiele kosten 5687; tick1639
+bud_okra_pnl_2025,vzw_okra,2025,992917,,,executed,src_okra_jr2025_nbb,strong,YE2025 winst 992917 JUMP; tick1639
