@@ -21118,3 +21118,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_etrier; budgets (+13); commitments; leaderboard; foi_queue ready; research_queue rq_1776=done + rq_1777 spawned; loop_state ticks=1776; FOI draft gap_etrier_marge_4_12m_related_recv_4_16m_rivage_135m_l5.md
 - FOI opened: gap_etrier_marge_4_12m_related_recv_4_16m_rivage_135m_l5 (**ready**, not sent)
 - Next: rq_1777 — leftover AGB/NSZ-if-200/Bosgroep/Brembloem-if-200/VertBocage/Tonnelle/AgeDor; every-10 at 1780
+
+### 2026-08-24T19:15:00Z — tick 1777
+- Unit: rq_1777 — **AU VERT BOCAGE SA** (Loncin / Ans / Vivalto)
+- Found: NBB A-cap YE2025 deposit [2026-00176184](http://cdn.staatsbladmonitor.be/2026pdf/2026-00176184.pdf) CDN 200 (208 KB / 28p); KBO **0433.536.550**; AV **21.05.2026**; mère Vivalto Home Belgium; Forvis Mazars — **opinion sans réserve**. Sourced: assets **€8,299,399**; equity **€1,807,206** DROP; debt **€6,229,994**; marge bruto **€3,746,548** (CA undisclosed); staff **€3,012,400** / VTE **46**; expl **€512,460**; PnL **€426,107**; dividend apport **€325,000** (prior €800k); admin **€163,242**; FVA **€5,028,114**; controllers 9500 **€4,661,950**; leasing LT **€1,848,566** + option **€472,500**; **RIVAGE/VIVALTO LEASE gage €135,600,000** undivided (twin Etrier/ClosRoses/RAPSODE; assets grevés €6,742,435).
+- Wrote: sources (+3); entities nv_vertbocage; budgets (+13); commitments; leaderboard; foi_queue ready; research_queue rq_1777=done + rq_1778 spawned; loop_state ticks=1777; FOI draft gap_vertbocage_marge_3_75m_related_recv_4_66m_rivage_135m_l5.md
+- FOI opened: gap_vertbocage_marge_3_75m_related_recv_4_66m_rivage_135m_l5 (**ready**, not sent)
+- Next: rq_1778 — leftover AGB/NSZ-if-200/Bosgroep/Brembloem-if-200/Tonnelle/AgeDor; every-10 at 1780
