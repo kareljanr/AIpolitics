@@ -20,6 +20,43 @@
 
 ---
 
+## Snapshot at **tick 1770** (2026-08-24)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1761-1769 leftover Vivalto WZC+property: **Vesper** · **Gerosin** · **Pic-au-Vent** · **Aux Hirondelles** · **Joie et Santé** · **Au Jardin du Coeur** · **BEL EDEN** · **IMMO R.J.S.** · **RAPSODE** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1761-1769 is residual dual L5 Vivalto care+property (not near-complete of 348bn):** **RAPSODE** CA **7.18m** / staff **4.26m** / RIVAGE gage **135.6m** group · **Au Jardin du Coeur** marge **4.83m** / CURALEASE OB **26.0m** · **Pic-au-Vent** marge **3.19m** / VIVALTO LEASE stake · **Aux Hirondelles** marge **2.88m** · **Joie et Santé** marge **2.46m** · **IMMO R.J.S.** cash JUMP **3.29m** / debt JUMP **4.61m** · **BEL EDEN** cash JUMP **1.42m** / sister cautions · **Gerosin** opbr **4.49m** / nrec FVA · **Vesper** ventes **6.19m** / comfort · prior BZA/HVZ/Vivalto Home BE wave retained |
+| **E. FOI-ready gaps** | **~1393** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1441** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property shells** (**NEW RAPSODE** CA **EUR7.18m** / RIVAGE gage **EUR135.6m** group · **Au Jardin du Coeur** CURALEASE OB **EUR26.0m** · **IMMO R.J.S.** debt JUMP **EUR4.61m** / cash JUMP **EUR3.29m** · **BEL EDEN** cash JUMP **EUR1.42m** · Vesper/Gerosin/PicAuVent/Hirondelles/JoieEtSante continuum · prior **BZA** BW1 **EUR109.17m** · **Vivalto Home BE** assets **EUR266.81m** · **Armonea** opbr **EUR265.19m** · **Colisée** LOSS **EUR79.75m** · **Natuurpunt** assets **EUR488.81m** · **GO!** assets **EUR1.16bn** retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1770)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 50479 |
+| commitments.csv | 5350 |
+| leaderboard.csv | 7549 |
+| entities.csv | 1493 |
+| sources.csv | 4135 |
+| FOI ready | 1393 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1441 |
+| research_queue open | rq_116 deferred + rq_1771 hole-fill after progress |
+
+### What improved since tick 1760
+
+- **Residual dual leftover Vivalto WZC + property wave (tick1761-1769):** **Vesper** · **Gerosin** · **Pic-au-Vent** · **Aux Hirondelles** · **Joie et Santé** · **Au Jardin du Coeur** · **BEL EDEN** · **IMMO R.J.S.** · **RAPSODE** — no invented euros.
+- **NEW (tick1769):** **RAPSODE SA** (KBO **0431.759.965**) CA **7.177.781** / staff **4.257.162** / VTE **72.1** / FVA **15.63m** / leasing LT **13.83m** / related debt **14.69m** / undivided **VIVALTO LEASE–RIVAGE** gage **135.600.000**.
+- **NEW (tick1766-1768):** **Au Jardin du Coeur** marge **4.83m** / CURALEASE future rents OB **26.0m** · **BEL EDEN** (Résidence des Mays property) marge **75k**/0 VTE/cash JUMP **1.42m**/cautions RSL twin Joie · **IMMO R.J.S.** (Joie property twin) marge **0.28m**/cash JUMP **3.29m**/debt JUMP **4.61m**.
+- **NEW (tick1761-1765):** **Vesper** ventes **6.19m** · **Gerosin** opbr **4.49m**/nrec FVA · **Pic-au-Vent** marge **3.19m**/VIVALTO LEASE stake · **Aux Hirondelles** marge **2.88m**/ENPH caution · **Joie et Santé** marge **2.46m**.
+- **Dual map themes:** Vivalto operating WZC continuum · property shells with sudden leverage/cash JUMP · group lease/bond cascade (RIVAGE **135.6m** / CURALEASE **26m**) · sister-home caution network · prior BZA/HVZ/Armonea/Colisée retained.
+- **Blocked still:** AGB Bornem JR2024-only · Dijk92 CDN **403** · APEFE YE2025 CDN **403** · NSZ CDN **403** · Brembloem VZW no JR2025 CDN · ABS/BVAS/POV no NBB · VBWest JR2025 still verdaged.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1780**.
+
 ## Snapshot at **tick 1760** (2026-08-24)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

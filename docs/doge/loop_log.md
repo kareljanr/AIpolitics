@@ -21068,3 +21068,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; entities +1 nv_rapsode; budgets +12; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1769=done + rq_1770 spawn; ticks_completed=1769. Raw docs/doge/raw/tick1769/.
 - FOI opened: gap_rapsode_ca_7_18m_staff_4_26m_vivalto_lease_rivage_135m_l5 ready (RIZIV/RIVAGE share/related debt). Do not send.
 - Next: **rq_1770 EVERY-10** progress coverage % + waste top10; then leftover AGB/**NSZ if CDN 200**/Bosgroep/Brembloem-if-200 / **De Vrienden Hof van Schoten 2026-00139428** / HVZ-VBWest. Do NOT redo Rapsode/ImmoRJS continuum.
+
+### 2026-08-24T17:15:00Z - tick 1770
+- Unit: **rq_1770 EVERY-10** progress coverage % + waste top10 (after residual dual 1761-1769 Vivalto WZC+property wave). No second dual unit this tick (hard wall).
+- Found: Layers A/B still **100%** of EUR347.956bn TE map; C ~**99%** OoM; D still **~74-88%** generous (not near-complete of 348bn). Inventory: budgets **50479** · commitments **5350** · leaderboard **7549** · entities **1493** · sources **4135** · FOI ready **~1393** / answered **9** / partial **27** / total **~1441**.
+- Residual gain since 1760: **Vesper** · **Gerosin** · **Pic-au-Vent** · **Aux Hirondelles** · **Joie et Santé** · **Au Jardin du Coeur** (CURALEASE OB **26.0m**) · **BEL EDEN** · **IMMO R.J.S.** · **RAPSODE** (CA **7.18m** / RIVAGE gage **135.6m** group). Pure annual waste top10 **stable** (GIP **8.7** … dual cars SSC **8.4**) — re-verified.
+- Wrote: progress_every_10_ticks.md (snapshot 1770); doge_waste_top10_current.md; rq_1770=done + rq_1771 spawn; ticks_completed=1770.
+- FOI opened: none new (progress tick).
+- Next: rq_1771 leftover AGB/**NSZ if CDN 200**/Bosgroep/Brembloem-if-200 / **De Vrienden Hof van Schoten 2026-00139428** / HVZ-VBWest. Next every-10 **1780**.
