@@ -47854,3 +47854,34 @@ bud_davidsfonds_fininc_2025,vzw_davidsfonds,2025,10012,,,executed,src_davidsfond
 bud_davidsfonds_fincost_2025,vzw_davidsfonds,2025,10998,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 financiele kosten 10998 DROP; tick1644
 bud_davidsfonds_tax_2025,vzw_davidsfonds,2025,-385,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 belastingen -385 CREDIT; tick1644
 bud_davidsfonds_pnl_2025,vzw_davidsfonds,2025,49824,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 winst 49824 PROFIT FLIP from -148328; tick1644
+bud_vrouwennet_assets_2025,vzw_vrouwennet,2025,3802163,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 balanstotaal 3802163 JUMP from 3647780; tick1645
+bud_vrouwennet_va_2025,vzw_vrouwennet,2025,285311,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 vaste activa 285311 DROP; tick1645
+bud_vrouwennet_iva_2025,vzw_vrouwennet,2025,49463,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 immateriele VA 49463 JUMP; tick1645
+bud_vrouwennet_mva_2025,vzw_vrouwennet,2025,235348,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 materiele VA 235348 DROP (gebouwen 223441); tick1645
+bud_vrouwennet_fva_2025,vzw_vrouwennet,2025,500,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 financiele VA 500 flat; tick1645
+bud_vrouwennet_vlottend_2025,vzw_vrouwennet,2025,3516852,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 vlottende activa 3516852 JUMP; tick1645
+bud_vrouwennet_handelsrecv_2025,vzw_vrouwennet,2025,27479,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 handelsvorderingen ST 27479 DROP; tick1645
+bud_vrouwennet_other_recv_2025,vzw_vrouwennet,2025,180293,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 overige vorderingen ST 180293 DROP; tick1645
+bud_vrouwennet_beleg_2025,vzw_vrouwennet,2025,2279088,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 geldbeleggingen 2279088 DROP; tick1645
+bud_vrouwennet_cash_2025,vzw_vrouwennet,2025,917797,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 liquide middelen 917797 JUMP from 654759; tick1645
+bud_vrouwennet_prepaid_2025,vzw_vrouwennet,2025,112195,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 112195 JUMP; tick1645
+bud_vrouwennet_equity_2025,vzw_vrouwennet,2025,2472930,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 eigen vermogen 2472930 DROP; tick1645
+bud_vrouwennet_fondsen_2025,vzw_vrouwennet,2025,853727,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 fondsen 853727 flat; tick1645
+bud_vrouwennet_destin_2025,vzw_vrouwennet,2025,705800,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 bestemde fondsen 705800 flat; tick1645
+bud_vrouwennet_overgedragen_2025,vzw_vrouwennet,2025,913403,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 overgedragen winst 913403 DROP; tick1645
+bud_vrouwennet_voorzieningen_2025,vzw_vrouwennet,2025,15000,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 voorzieningen 15000 DROP from 17639; tick1645
+bud_vrouwennet_debt_2025,vzw_vrouwennet,2025,1314234,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 schulden 1314234 JUMP; tick1645
+bud_vrouwennet_st_debt_2025,vzw_vrouwennet,2025,495059,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 schulden ST 495059 JUMP; tick1645
+bud_vrouwennet_lev_2025,vzw_vrouwennet,2025,150961,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 leveranciers ST 150961 JUMP; tick1645
+bud_vrouwennet_taxsoc_2025,vzw_vrouwennet,2025,344098,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 344098 JUMP (tax 66694 + soc 277404); tick1645
+bud_vrouwennet_accrued_2025,vzw_vrouwennet,2025,819175,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 819175 DROP; tick1645
+bud_vrouwennet_bruto_2025,vzw_vrouwennet,2025,1681252,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 brutomarge 9900 1681252 JUMP ENVELOPE; tick1645
+bud_vrouwennet_nr_opbr_2025,vzw_vrouwennet,2025,10833,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfsopbrengsten 76A 10833 NEW; tick1645
+bud_vrouwennet_pers_2025,vzw_vrouwennet,2025,1626336,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 bezoldigingen 62 1626336 JUMP / 16.4 VTE (DROP from 17.3); tick1645
+bud_vrouwennet_afschr_2025,vzw_vrouwennet,2025,46951,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 afschrijvingen 630 46951 JUMP; tick1645
+bud_vrouwennet_voorz_mut_2025,vzw_vrouwennet,2025,-2639,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 voorzieningen besteding 635/9 -2639; tick1645
+bud_vrouwennet_andere_2025,vzw_vrouwennet,2025,6916,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 6916 JUMP; tick1645
+bud_vrouwennet_expl_2025,vzw_vrouwennet,2025,3688,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 bedrijfswinst 3688 DROP from 66329; tick1645
+bud_vrouwennet_fininc_2025,vzw_vrouwennet,2025,6737,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 financiele opbrengsten 6737 DROP; tick1645
+bud_vrouwennet_fincost_2025,vzw_vrouwennet,2025,11183,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 financiele kosten 11183 FLIP from -21970; tick1645
+bud_vrouwennet_pnl_2025,vzw_vrouwennet,2025,-758,,,executed,src_vrouwennet_jr2025_nbb,strong,YE2025 verlies -758 LOSS FLIP from +117544; tick1645
