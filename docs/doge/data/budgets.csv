@@ -50430,3 +50430,15 @@ bud_joiesante_staff_2025,bv_joiesante,2025,2165028,,,realized,src_joiesante_jr20
 bud_joiesante_expl_2025,bv_joiesante,2025,98111,,,realized,src_joiesante_jr2025_nbb,strong,Benefice exploitation 98111 TURNAROUND vs -143589; tick1765
 bud_joiesante_pnl_2025,bv_joiesante,2025,86272,,,realized,src_joiesante_jr2025_nbb,strong,PnL 86272 (a reporter 351014); tick1765
 bud_joiesante_admin_remun_2025,bv_joiesante,2025,26022,,,realized,src_joiesante_jr2025_nbb,strong,Benefice distribue administrateurs/gerants 26022; tick1765
+bud_jardinducoeur_assets_2025,nv_jardinducoeur,2025,1402436,,,stock,src_jardinducoeur_jr2025_nbb,strong,Assets YE2025 1402436 DROP vs 2136298; tick1766
+bud_jardinducoeur_equity_2025,nv_jardinducoeur,2025,67714,,,stock,src_jardinducoeur_jr2025_nbb,strong,Equity thin 67714 DROP vs 72587; tick1766
+bud_jardinducoeur_debt_2025,nv_jardinducoeur,2025,1334722,,,stock,src_jardinducoeur_jr2025_nbb,strong,Debt 1334722 DROP vs 2063711; tick1766
+bud_jardinducoeur_autres_creances_2025,nv_jardinducoeur,2025,270848,,,stock,src_jardinducoeur_jr2025_nbb,strong,Autres creances ST 270848 DROP vs 626058; tick1766
+bud_jardinducoeur_related_recv_2025,nv_jardinducoeur,2025,231717,,,stock,src_jardinducoeur_jr2025_nbb,strong,Creances sur administrateurs/controleurs 9500=231717; tick1766
+bud_jardinducoeur_accruals_actif_2025,nv_jardinducoeur,2025,148362,,,stock,src_jardinducoeur_jr2025_nbb,strong,Comptes de regularisation actif 148362 JUMP vs 27401; tick1766
+bud_jardinducoeur_cash_2025,nv_jardinducoeur,2025,134282,,,stock,src_jardinducoeur_jr2025_nbb,strong,Cash 134282 DROP vs 682997; tick1766
+bud_jardinducoeur_marge_2025,nv_jardinducoeur,2025,4834077,,,realized,src_jardinducoeur_jr2025_nbb,strong,Marge brute 4834077 (A-cap; CA not disclosed); tick1766
+bud_jardinducoeur_staff_2025,nv_jardinducoeur,2025,4643748,,,realized,src_jardinducoeur_jr2025_nbb,strong,Staff 4643748 / VTE 71.3; tick1766
+bud_jardinducoeur_expl_2025,nv_jardinducoeur,2025,109422,,,realized,src_jardinducoeur_jr2025_nbb,strong,Benefice exploitation 109422 DROP vs 253325; tick1766
+bud_jardinducoeur_pnl_2025,nv_jardinducoeur,2025,97250,,,realized,src_jardinducoeur_jr2025_nbb,strong,PnL 97250; dividend apport 71074 + admin 31049; tick1766
+bud_jardinducoeur_curalease_ob_2025,nv_jardinducoeur,2025,25998212,,,stock,src_jardinducoeur_jr2025_nbb,strong,Off-balance future rents CURALEASE 249 months x 104410.49 = 25998212; tick1766
