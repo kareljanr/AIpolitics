@@ -49626,3 +49626,23 @@ bud_fbm_biovia_result_2025,vzw_fbm_biovia,2025,340000,,,executed,src_fbm_biovia_
 bud_fbm_biovia_closing_capital_2025,vzw_fbm_biovia,2025,1600000,,,executed,src_fbm_biovia_ar2025_official,strong,AR2025 closing capital YE2025 1600000 (equity-class); tick1704
 bud_fbm_biovia_vlaio_projects_2025,vzw_fbm_biovia,2025,3235079,,,executed,src_fbm_biovia_ar2025_official,strong,AR2025 VLAIO project funding awarded 3235079 across 5 projects (pass-through; not additive to cluster opex income); tick1704
 bud_fbm_biovia_members_2025,vzw_fbm_biovia,2025,351,,,executed,src_fbm_biovia_ar2025_official,strong,AR2025 members 351; tick1704
+bud_sabam_assets_2025,cv_sabam,2025,356152879,,,executed,src_sabam_jv2025_official,strong,JV2025 balanstotaal 356152879 JUMP; tick1706
+bud_sabam_va_2025,cv_sabam,2025,19371876,,,executed,src_sabam_jv2025_official,strong,JV2025 vaste activa 19371876; tick1706
+bud_sabam_iva_2025,cv_sabam,2025,4545524,,,executed,src_sabam_jv2025_official,strong,JV2025 IVA software 4545524 JUMP; tick1706
+bud_sabam_mva_2025,cv_sabam,2025,1857804,,,executed,src_sabam_jv2025_official,strong,JV2025 MVA 1857804 DROP; tick1706
+bud_sabam_fva_2025,cv_sabam,2025,12968548,,,executed,src_sabam_jv2025_official,strong,JV2025 FVA 12968548 flat; tick1706
+bud_sabam_vlottend_2025,cv_sabam,2025,336781004,,,executed,src_sabam_jv2025_official,strong,JV2025 vlottende activa 336781004; tick1706
+bud_sabam_beleg_2025,cv_sabam,2025,291158553,,,executed,src_sabam_jv2025_official,strong,JV2025 geldbeleggingen 291158553 JUMP; tick1706
+bud_sabam_cash_2025,cv_sabam,2025,13054925,,,executed,src_sabam_jv2025_official,strong,JV2025 liquide middelen 13054925 DROP; tick1706
+bud_sabam_rechten_recv_2025,cv_sabam,2025,27292176,,,executed,src_sabam_jv2025_official,strong,JV2025 vorderingen op rechten 27292176 DROP; tick1706
+bud_sabam_equity_2025,cv_sabam,2025,25504597,,,executed,src_sabam_jv2025_official,strong,JV2025 eigen vermogen 25504597 JUMP; tick1706
+bud_sabam_debt_2025,cv_sabam,2025,328436145,,,executed,src_sabam_jv2025_official,strong,JV2025 schulden 328436145 (fiduciary-heavy); tick1706
+bud_sabam_rechten_debt_2025,cv_sabam,2025,300645490,,,executed,src_sabam_jv2025_official,strong,JV2025 schulden mbt rechten 300645490 JUMP (authors rights pass-through); tick1706
+bud_sabam_commissions_2025,cv_sabam,2025,28950057,,,executed,src_sabam_jv2025_official,strong,JV2025 commissies/omzet 28950057 DROP ENVELOPE; tick1706
+bud_sabam_staff_2025,cv_sabam,2025,19225116,,,executed,src_sabam_jv2025_official,strong,JV2025 personeelskosten 19225116 JUMP; VTE not stated exact; tick1706
+bud_sabam_diensten_2025,cv_sabam,2025,13352754,,,executed,src_sabam_jv2025_official,strong,JV2025 diensten & diverse goederen 13352754 JUMP; tick1706
+bud_sabam_op_result_2025,cv_sabam,2025,-2836329,,,executed,src_sabam_jv2025_official,strong,JV2025 operationeel resultaat -2836329; tick1706
+bud_sabam_pnl_2025,cv_sabam,2025,1236619,,,executed,src_sabam_jv2025_official,strong,JV2025 netto resultaat 1236619 DROP; tick1706
+bud_sabam_social_withhold_2025,cv_sabam,2025,9921629,,,executed,src_sabam_jv2025_official,strong,JV2025 inhouding sociaal/cultureel/educatief fonds max 10pct netto rechten 9921629 JUMP; tick1706
+bud_sabam_social_old_payout_2025,cv_sabam,2025,1357885,,,executed,src_sabam_jv2025_official,strong,JV2025 uitbetaling oud KOHS-reglement 1357885 (424 begunstigden); tick1706
+bud_sabam_social_new_payout_2025,cv_sabam,2025,3953895,,,executed,src_sabam_jv2025_official,strong,JV2025 uitkering nieuw Voorzorgsplan 3953895; tick1706
