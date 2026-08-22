@@ -46734,3 +46734,39 @@ bud_caritas_fincost_2025,vzw_caritas,2025,115850,,,executed,src_caritas_jr2025_n
 bud_caritas_tax_2025,vzw_caritas,2025,44183,,,executed,src_caritas_jr2025_nbb,strong,YE2025 belastingen 44183; tick1607; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00187905
 bud_caritas_pnl_2025,vzw_caritas,2025,406578,,,executed,src_caritas_jr2025_nbb,strong,YE2025 PnL 406578 PROFIT (mainly harmonisation one-off); tick1607; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00187905
 bud_caritas_commissaris_2025,vzw_caritas,2025,9680,,,executed,src_caritas_jr2025_nbb,strong,YE2025 commissaris Joiris fee 9680; tick1607; primary official NBB VOL-VZW YE 31.12.2025 deposit 2026-00187905
+bud_jfw_assets_2025,vzw_jfw,2025,4035760,,,executed,src_jfw_jr2025_nbb,strong,YE2025 balanstotaal 4035760 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_va_2025,vzw_jfw,2025,120968,,,executed,src_jfw_jr2025_nbb,strong,YE2025 vaste activa 120968 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_mva_2025,vzw_jfw,2025,103943,,,executed,src_jfw_jr2025_nbb,strong,YE2025 MVA 103943 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_fva_2025,vzw_jfw,2025,17025,,,executed,src_jfw_jr2025_nbb,strong,YE2025 FVA 17025 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_vlottend_2025,vzw_jfw,2025,3914792,,,executed,src_jfw_jr2025_nbb,strong,YE2025 vlottende activa 3914792 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_handelsrecv_2025,vzw_jfw,2025,210080,,,executed,src_jfw_jr2025_nbb,strong,YE2025 handelsvorderingen ST 210080 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_other_recv_2025,vzw_jfw,2025,290928,,,executed,src_jfw_jr2025_nbb,strong,YE2025 overige vorderingen ST 290928 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_beleg_2025,vzw_jfw,2025,200000,,,executed,src_jfw_jr2025_nbb,strong,YE2025 geldbeleggingen 200000 flat; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_cash_2025,vzw_jfw,2025,1853608,,,executed,src_jfw_jr2025_nbb,strong,YE2025 liquide middelen 1853608 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_prepaid_2025,vzw_jfw,2025,1360176,,,executed,src_jfw_jr2025_nbb,strong,YE2025 overlopende activa 1360176 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_equity_2025,vzw_jfw,2025,1520886,,,executed,src_jfw_jr2025_nbb,strong,YE2025 eigen vermogen 1520886 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_fondsen_2025,vzw_jfw,2025,667335,,,executed,src_jfw_jr2025_nbb,strong,YE2025 fondsen 667335 flat; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_destin_2025,vzw_jfw,2025,492867,,,executed,src_jfw_jr2025_nbb,strong,YE2025 bestemde fondsen 492867 flat (sociaal passief 20.49pct pers); tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_overgedragen_2025,vzw_jfw,2025,265457,,,executed,src_jfw_jr2025_nbb,strong,YE2025 overgedragen winst 265457 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_kapsubs_2025,vzw_jfw,2025,95227,,,executed,src_jfw_jr2025_nbb,strong,YE2025 kapitaalsubsidies 95227 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_voorzieningen_2025,vzw_jfw,2025,269302,,,executed,src_jfw_jr2025_nbb,strong,YE2025 voorzieningen 269302 DROP (DGD ineligibility buffer named 250000); tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_debt_2025,vzw_jfw,2025,2245572,,,executed,src_jfw_jr2025_nbb,strong,YE2025 schulden 2245572 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_st_debt_2025,vzw_jfw,2025,556945,,,executed,src_jfw_jr2025_nbb,strong,YE2025 ST schulden 556945 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_lev_2025,vzw_jfw,2025,125430,,,executed,src_jfw_jr2025_nbb,strong,YE2025 leveranciers ST 125430 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_taxsoc_2025,vzw_jfw,2025,202078,,,executed,src_jfw_jr2025_nbb,strong,YE2025 tax/soc ST 202078 (tax 13936 / bezold 188142); tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_othdebt_2025,vzw_jfw,2025,229437,,,executed,src_jfw_jr2025_nbb,strong,YE2025 overige schulden ST 229437 DROP (incl DGD MJP 17-21 187790); tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_accrued_2025,vzw_jfw,2025,1688627,,,executed,src_jfw_jr2025_nbb,strong,YE2025 overlopende passiva 1688627 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_bruto_2025,vzw_jfw,2025,5498434,,,executed,src_jfw_jr2025_nbb,strong,YE2025 brutomarge 9900 5498434 DROP ENVELOPE (VKT); tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_subs_2025,vzw_jfw,2025,5036233,,,executed,src_jfw_jr2025_nbb,strong,YE2025 named 737 subsidies sum 5036233 (FOD BZ 3029596 / EU 686832 / regional 521604 / foundations 362866 / Enabel 359267 / other 76069); tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_fod_bz_2025,vzw_jfw,2025,3029596,,,executed,src_jfw_jr2025_nbb,strong,YE2025 FOD Buitenlandse Zaken subsidies 3029596; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_eu_2025,vzw_jfw,2025,686832,,,executed,src_jfw_jr2025_nbb,strong,YE2025 EU subsidies 686832; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_schenk_bruto_2025,vzw_jfw,2025,1078811,,,executed,src_jfw_jr2025_nbb,strong,YE2025 bruto ontvangen schenkingen 1078811 (carry 543893 from 2024 / defer 663893 to 2026); tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_pers_2025,vzw_jfw,2025,2404482,,,executed,src_jfw_jr2025_nbb,strong,YE2025 personeel 62 2404482 DROP / total 53.8 VTE (HQ BE sociale 18.2 + expat 1.0 + regional local 34.6; PC 32901); tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_pers_be_2025,vzw_jfw,2025,1651356,,,executed,src_jfw_jr2025_nbb,strong,YE2025 BE sociale balans personeelskosten 1651356 / 18.2 VTE; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_afschr_2025,vzw_jfw,2025,59056,,,executed,src_jfw_jr2025_nbb,strong,YE2025 afschrijvingen 630 59056 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_andere_2025,vzw_jfw,2025,3039691,,,executed,src_jfw_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 3039691 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_expl_2025,vzw_jfw,2025,19329,,,executed,src_jfw_jr2025_nbb,strong,YE2025 bedrijfswinst 19329 PROFIT FLIP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_fininc_2025,vzw_jfw,2025,36001,,,executed,src_jfw_jr2025_nbb,strong,YE2025 fininc 36001 DROP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_fincost_2025,vzw_jfw,2025,91900,,,executed,src_jfw_jr2025_nbb,strong,YE2025 fincost 91900 JUMP (nrec 5790); tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_pnl_2025,vzw_jfw,2025,-36570,,,executed,src_jfw_jr2025_nbb,strong,YE2025 PnL -36570 LOSS FLIP; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
+bud_jfw_commissaris_2025,vzw_jfw,2025,5808,,,executed,src_jfw_jr2025_nbb,strong,YE2025 commissaris Clybouw statutair 5808 + DGD controle 2844; tick1608; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00247940
