@@ -49328,3 +49328,37 @@ bud_oxfam_be_pnl_2025,vzw_oxfam_be,2025,0,,,executed,src_oxfam_be_jr2025_nbb,str
 bud_oxfam_be_vte_2025,vzw_oxfam_be,2025,8.2,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 8.2 DROP from 8.8; eoy 8.8; tick1692
 bud_oxfam_be_commissaris_fee_2025,vzw_oxfam_be,2025,10114,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 commissaris bezoldiging notes 10114; EY; tick1692
 bud_oxfam_be_contrib_notes_2025,vzw_oxfam_be,2025,1141985,,,executed,src_oxfam_be_jr2025_nbb,strong,YE2025 notes annual contrib Solidariteit+Wereldwinkel+Fairtrade 1141985 (vs code73 967171); tick1692
+bud_domus_medica_assets_2025,vzw_domus_medica,2025,3765784,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 balanstotaal 3765784 DROP from 3851762; tick1693
+bud_domus_medica_va_2025,vzw_domus_medica,2025,1555168,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 vaste activa 1555168 DROP; tick1693
+bud_domus_medica_mva_2025,vzw_domus_medica,2025,1531701,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 MVA 1531701 (gebouwen 1498297 + installaties 9693 + meubilair 19145 + overige 4566); tick1693
+bud_domus_medica_gebouwen_2025,vzw_domus_medica,2025,1498297,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 terreinen/gebouwen 1498297 DROP; tick1693
+bud_domus_medica_fva_2025,vzw_domus_medica,2025,23467,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 financiele VA 23467 DROP; tick1693
+bud_domus_medica_vlottend_2025,vzw_domus_medica,2025,2210616,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 vlottende activa 2210616 DROP; tick1693
+bud_domus_medica_handelsrecv_2025,vzw_domus_medica,2025,282213,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 handelsvorderingen ST 282213 DROP; tick1693
+bud_domus_medica_other_recv_2025,vzw_domus_medica,2025,168923,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 overige vorderingen ST 168923 JUMP; tick1693
+bud_domus_medica_beleg_2025,vzw_domus_medica,2025,500529,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 geldbeleggingen 500529 DROP from 1300000; tick1693
+bud_domus_medica_cash_2025,vzw_domus_medica,2025,1233686,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 liquide middelen 1233686 JUMP from 498312; tick1693
+bud_domus_medica_prepaid_2025,vzw_domus_medica,2025,25264,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 25264 JUMP; tick1693
+bud_domus_medica_equity_2025,vzw_domus_medica,2025,1325071,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 eigen vermogen 1325071 DROP from 1619208; tick1693
+bud_domus_medica_fondsen_2025,vzw_domus_medica,2025,598411,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 fondsen 598411 flat; tick1693
+bud_domus_medica_destin_2025,vzw_domus_medica,2025,480000,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 bestemde fondsen 480000 flat; tick1693
+bud_domus_medica_overgedragen_2025,vzw_domus_medica,2025,246660,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 overgedragen resultaat 246660 DROP from 540797; tick1693
+bud_domus_medica_voorzieningen_2025,vzw_domus_medica,2025,50000,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 voorzieningen 50000 flat; tick1693
+bud_domus_medica_debt_2025,vzw_domus_medica,2025,2390713,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 schulden 2390713 JUMP; tick1693
+bud_domus_medica_lt_fin_2025,vzw_domus_medica,2025,1251859,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 LT financiele schulden 1251859 DROP; tick1693
+bud_domus_medica_st_debt_2025,vzw_domus_medica,2025,1135054,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 schulden ST 1135054 JUMP; tick1693
+bud_domus_medica_current_lt_2025,vzw_domus_medica,2025,81498,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 LT binnen jaar 81498; tick1693
+bud_domus_medica_lev_2025,vzw_domus_medica,2025,185562,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 leveranciers ST 185562 JUMP; tick1693
+bud_domus_medica_vooruit_2025,vzw_domus_medica,2025,415131,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 vooruitbetalingen op bestellingen 415131 JUMP; tick1693
+bud_domus_medica_taxsoc_2025,vzw_domus_medica,2025,452863,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 452863 (tax 85804 + soc 367059); tick1693
+bud_domus_medica_accrued_2025,vzw_domus_medica,2025,3800,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 3800 JUMP; tick1693
+bud_domus_medica_bruto_2025,vzw_domus_medica,2025,1974437,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 brutomarge 9900 1974437 DROP ENVELOPE; tick1693
+bud_domus_medica_pers_2025,vzw_domus_medica,2025,2148268,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 bezoldigingen 62 2148268 JUMP / 27.3 VTE; tick1693
+bud_domus_medica_afschr_2025,vzw_domus_medica,2025,83564,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 afschrijvingen 630 83564 DROP; tick1693
+bud_domus_medica_andere_2025,vzw_domus_medica,2025,26652,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 26652 JUMP; tick1693
+bud_domus_medica_expl_2025,vzw_domus_medica,2025,-284047,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 bedrijfsverlies -284047 JUMP loss; tick1693
+bud_domus_medica_fininc_2025,vzw_domus_medica,2025,11853,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 financiele opbrengsten 11853 DROP; tick1693
+bud_domus_medica_fincost_2025,vzw_domus_medica,2025,21943,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 financiele kosten 21943 JUMP; tick1693
+bud_domus_medica_pnl_2025,vzw_domus_medica,2025,-294137,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 verlies -294137 JUMP loss; tick1693
+bud_domus_medica_vte_2025,vzw_domus_medica,2025,27.3,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 27.3 JUMP from 24.6; eoy 27.4; tick1693
+bud_domus_medica_commissaris_fee_2025,vzw_domus_medica,2025,9804,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 commissaris bezoldiging 9804; HLB Dodémont-Van Impe; tick1693
