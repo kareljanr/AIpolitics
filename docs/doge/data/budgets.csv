@@ -49497,3 +49497,35 @@ bud_vivel_expl_2025,vzw_vivel,2025,294767,,,executed,src_vivel_jr2025_nbb,strong
 bud_vivel_fincost_2025,vzw_vivel,2025,135,,,executed,src_vivel_jr2025_nbb,strong,YE2025 financiele kosten 135 JUMP; tick1697
 bud_vivel_pnl_2025,vzw_vivel,2025,294631,,,executed,src_vivel_jr2025_nbb,strong,YE2025 winst 294631 JUMP; tick1697
 bud_vivel_vte_2025,vzw_vivel,2025,16.4,,,executed,src_vivel_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 16.4 DROP from 18.0; eoy 15.0; tick1697
+bud_vil_assets_2025,vzw_vil,2025,12238383,,,executed,src_vil_jr2025_nbb,strong,YE2025 balanstotaal 12238383 DROP from 12464515; tick1698
+bud_vil_opricht_2025,vzw_vil,2025,12361,,,executed,src_vil_jr2025_nbb,strong,YE2025 oprichtingskosten 12361 DROP; tick1698
+bud_vil_va_2025,vzw_vil,2025,384359,,,executed,src_vil_jr2025_nbb,strong,YE2025 vaste activa 384359 JUMP; tick1698
+bud_vil_iva_2025,vzw_vil,2025,34858,,,executed,src_vil_jr2025_nbb,strong,YE2025 immateriele VA 34858 JUMP; tick1698
+bud_vil_mva_2025,vzw_vil,2025,349501,,,executed,src_vil_jr2025_nbb,strong,YE2025 MVA 349501 JUMP (installaties 132098 + meubilair 8564 + overige 208839); tick1698
+bud_vil_vlottend_2025,vzw_vil,2025,11841663,,,executed,src_vil_jr2025_nbb,strong,YE2025 vlottende activa 11841663 DROP; tick1698
+bud_vil_handelsrecv_2025,vzw_vil,2025,977394,,,executed,src_vil_jr2025_nbb,strong,YE2025 handelsvorderingen ST 977394 DROP; tick1698
+bud_vil_other_recv_2025,vzw_vil,2025,1836501,,,executed,src_vil_jr2025_nbb,strong,YE2025 overige vorderingen ST 1836501 JUMP; tick1698
+bud_vil_beleg_2025,vzw_vil,2025,6470176,,,executed,src_vil_jr2025_nbb,strong,YE2025 geldbeleggingen 6470176 DROP from 8918409; tick1698
+bud_vil_cash_2025,vzw_vil,2025,2458535,,,executed,src_vil_jr2025_nbb,strong,YE2025 liquide middelen 2458535 JUMP from 495560; tick1698
+bud_vil_prepaid_2025,vzw_vil,2025,99057,,,executed,src_vil_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 99057 JUMP; tick1698
+bud_vil_equity_2025,vzw_vil,2025,9926752,,,executed,src_vil_jr2025_nbb,strong,YE2025 eigen vermogen 9926752 JUMP; tick1698
+bud_vil_destin_2025,vzw_vil,2025,921541,,,executed,src_vil_jr2025_nbb,strong,YE2025 bestemde fondsen 921541 DROP; tick1698
+bud_vil_overgedragen_2025,vzw_vil,2025,8932136,,,executed,src_vil_jr2025_nbb,strong,YE2025 overgedragen resultaat 8932136 JUMP; tick1698
+bud_vil_kapsubs_2025,vzw_vil,2025,73075,,,executed,src_vil_jr2025_nbb,strong,YE2025 kapitaalsubsidies 73075 NEW; tick1698
+bud_vil_debt_2025,vzw_vil,2025,2311631,,,executed,src_vil_jr2025_nbb,strong,YE2025 schulden 2311631 DROP; tick1698
+bud_vil_st_debt_2025,vzw_vil,2025,1274880,,,executed,src_vil_jr2025_nbb,strong,YE2025 schulden ST 1274880 DROP; tick1698
+bud_vil_lev_2025,vzw_vil,2025,1021173,,,executed,src_vil_jr2025_nbb,strong,YE2025 leveranciers ST 1021173 DROP; tick1698
+bud_vil_taxsoc_2025,vzw_vil,2025,220517,,,executed,src_vil_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 220517 (tax 36535 + soc 183982); tick1698
+bud_vil_accrued_2025,vzw_vil,2025,1036751,,,executed,src_vil_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 1036751 DROP; tick1698
+bud_vil_bruto_2025,vzw_vil,2025,2024610,,,executed,src_vil_jr2025_nbb,strong,YE2025 brutomarge 9900 2024610 DROP ENVELOPE; tick1698
+bud_vil_nr_opbr_2025,vzw_vil,2025,262912,,,executed,src_vil_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfsopbrengsten 76A 262912 NEW; tick1698
+bud_vil_omzet_2025,vzw_vil,2025,2242557,,,executed,src_vil_jr2025_nbb,strong,YE2025 omzet 70 2242557 DROP; tick1698
+bud_vil_diensten_2025,vzw_vil,2025,3764307,,,executed,src_vil_jr2025_nbb,strong,YE2025 handelsgoederen/diensten 60/61 3764307 JUMP; tick1698
+bud_vil_pers_2025,vzw_vil,2025,1768134,,,executed,src_vil_jr2025_nbb,strong,YE2025 bezoldigingen 62 1768134 DROP / 19.1 VTE; tick1698
+bud_vil_afschr_2025,vzw_vil,2025,72625,,,executed,src_vil_jr2025_nbb,strong,YE2025 afschrijvingen 630 72625 DROP; tick1698
+bud_vil_andere_2025,vzw_vil,2025,387,,,executed,src_vil_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 387 DROP; tick1698
+bud_vil_expl_2025,vzw_vil,2025,178674,,,executed,src_vil_jr2025_nbb,strong,YE2025 bedrijfswinst 178674 DROP; tick1698
+bud_vil_fininc_2025,vzw_vil,2025,97776,,,executed,src_vil_jr2025_nbb,strong,YE2025 financiele opbrengsten 97776 DROP; tick1698
+bud_vil_fincost_2025,vzw_vil,2025,80746,,,executed,src_vil_jr2025_nbb,strong,YE2025 financiele kosten 80746 DROP; tick1698
+bud_vil_pnl_2025,vzw_vil,2025,195704,,,executed,src_vil_jr2025_nbb,strong,YE2025 winst 195704 DROP; tick1698
+bud_vil_vte_2025,vzw_vil,2025,19.1,,,executed,src_vil_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 19.1 DROP from 19.8; eoy 19.8; tick1698
