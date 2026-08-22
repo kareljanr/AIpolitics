@@ -49919,3 +49919,21 @@ bud_ovsg_bruto_2025,vzw_ovsg,2025,1734552,,,executed,src_ovsg_nbb_ye2025,strong,
 bud_ovsg_staff_2025,vzw_ovsg,2025,1162662,,,executed,src_ovsg_nbb_ye2025,strong,NBB 62 1162662 / VTE 22.3; tick1723
 bud_ovsg_expl_2025,vzw_ovsg,2025,240976,,,executed,src_ovsg_nbb_ye2025,strong,NBB bedrijfswinst 9901 240976; tick1723
 bud_ovsg_pnl_2025,vzw_ovsg,2025,274103,,,executed,src_ovsg_nbb_ye2025,strong,NBB PnL 9904 274103; AV 10.06.2026; tick1723
+bud_np_inkomsten_2025,vzw_natuurpunt,2025,70796058,,,executed,src_natuurpunt_jr2025,strong,JR2025 RESULTAAT inkomsten 70796058; tick1724
+bud_np_uitgaven_2025,vzw_natuurpunt,2025,70529971,,,executed,src_natuurpunt_jr2025,strong,JR2025 RESULTAAT uitgaven 70529971; tick1724
+bud_np_pnl_2025,vzw_natuurpunt,2025,266087,,,executed,src_natuurpunt_jr2025,strong,JR2025 positief resultaat 266087 naar balans; tick1724
+bud_np_assets_2025,vzw_natuurpunt,2025,488808253,,,executed,src_natuurpunt_jr2025,strong,JR2025 balans actief/passief 488808253; tick1724
+bud_np_va_2025,vzw_natuurpunt,2025,443065442,,,executed,src_natuurpunt_jr2025,strong,JR2025 vast actief 443065442; tick1724
+bud_np_natuurgebieden_2025,vzw_natuurpunt,2025,425726099,,,executed,src_natuurpunt_jr2025,strong,JR2025 natuurgebieden 425726099; tick1724
+bud_np_vlottend_2025,vzw_natuurpunt,2025,45742811,,,executed,src_natuurpunt_jr2025,strong,JR2025 vlottend 45742811; tick1724
+bud_np_cash_2025,vzw_natuurpunt,2025,24292907,,,executed,src_natuurpunt_jr2025,strong,JR2025 liquide middelen 24292907; tick1724
+bud_np_equity_2025,vzw_natuurpunt,2025,442456532,,,executed,src_natuurpunt_jr2025,strong,JR2025 eigen vermogen 442456532; tick1724
+bud_np_kapsubs_natuur_2025,vzw_natuurpunt,2025,337336681,,,executed,src_natuurpunt_jr2025,strong,JR2025 kapitaalsubsidies natuurgebieden 337336681; tick1724
+bud_np_vv_2025,vzw_natuurpunt,2025,43255021,,,executed,src_natuurpunt_jr2025,strong,JR2025 vreemd vermogen 43255021; tick1724
+bud_np_werkingssubs_2025,vzw_natuurpunt,2025,42288071,,,executed,src_natuurpunt_jr2025,strong,JR2025 werkingssubsidies 42288071 =60pct inkomsten; tick1724
+bud_np_aankoopsubs_2025,vzw_natuurpunt,2025,8310831,,,executed,src_natuurpunt_jr2025,strong,JR2025 aankoopsubsidies 8310831 =12pct; tick1724
+bud_np_lid_schenk_spons_2025,vzw_natuurpunt,2025,12676999,,,executed,src_natuurpunt_jr2025,strong,JR2025 lidgelden/schenkingen/sponsoring 12676999 =18pct; tick1724
+bud_np_studie_beheerwerken_rev_2025,vzw_natuurpunt,2025,7520157,,,executed,src_natuurpunt_jr2025,strong,JR2025 studieopdrachten/cursussen/beheerwerken 7520157 =10pct; tick1724
+bud_np_beheer_exp_2025,vzw_natuurpunt,2025,42694096,,,executed,src_natuurpunt_jr2025,strong,JR2025 beheer natuurgebieden 42694096 =61pct uitgaven; tick1724
+bud_np_aankopen_exp_2025,vzw_natuurpunt,2025,12681503,,,executed,src_natuurpunt_jr2025,strong,JR2025 aankopen natuurgebieden 12681503 =18pct; tick1724
+bud_np_overhead_2025,vzw_natuurpunt,2025,4174454,,,executed,src_natuurpunt_jr2025,strong,JR2025 overhead 4174454 =6pct; tick1724
