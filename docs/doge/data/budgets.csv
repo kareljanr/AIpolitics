@@ -47820,3 +47820,37 @@ bud_ferm_fininc_2025,vzw_ferm,2025,109370,,,executed,src_ferm_jr2025_nbb,strong,
 bud_ferm_fincost_2025,vzw_ferm,2025,135765,,,executed,src_ferm_jr2025_nbb,strong,YE2025 financiele kosten 135765 JUMP; tick1643
 bud_ferm_pnl_2025,vzw_ferm,2025,-348517,,,executed,src_ferm_jr2025_nbb,strong,YE2025 verlies -348517 LOSS DEEPER from -184774; tick1643
 bud_ferm_commissaris_2025,vzw_ferm,2025,14599,,,executed,src_ferm_jr2025_nbb,strong,YE2025 commissaris fee 9505 14599; tick1643
+bud_davidsfonds_assets_2025,vzw_davidsfonds,2025,2915726,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 balanstotaal 2915726 JUMP from 2810185; tick1644
+bud_davidsfonds_va_2025,vzw_davidsfonds,2025,420401,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 vaste activa 420401 DROP; tick1644
+bud_davidsfonds_iva_2025,vzw_davidsfonds,2025,57340,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 immateriele VA 57340 DROP; tick1644
+bud_davidsfonds_mva_2025,vzw_davidsfonds,2025,21022,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 materiele VA 21022 JUMP; tick1644
+bud_davidsfonds_fva_2025,vzw_davidsfonds,2025,342040,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 financiele VA 342040 DROP; tick1644
+bud_davidsfonds_vlottend_2025,vzw_davidsfonds,2025,2495325,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 vlottende activa 2495325 JUMP; tick1644
+bud_davidsfonds_voorraden_2025,vzw_davidsfonds,2025,175339,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 voorraden 175339 JUMP; tick1644
+bud_davidsfonds_handelsrecv_2025,vzw_davidsfonds,2025,203289,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 handelsvorderingen ST 203289 DROP; tick1644
+bud_davidsfonds_other_recv_2025,vzw_davidsfonds,2025,150903,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 overige vorderingen ST 150903 DROP; tick1644
+bud_davidsfonds_beleg_2025,vzw_davidsfonds,2025,273157,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 geldbeleggingen 273157 NEW (prior empty); tick1644
+bud_davidsfonds_cash_2025,vzw_davidsfonds,2025,1589106,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 liquide middelen 1589106 DROP; tick1644
+bud_davidsfonds_prepaid_2025,vzw_davidsfonds,2025,103530,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 103530 JUMP; tick1644
+bud_davidsfonds_equity_2025,vzw_davidsfonds,2025,1161191,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 eigen vermogen 1161191 JUMP; tick1644
+bud_davidsfonds_fondsen_2025,vzw_davidsfonds,2025,702993,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 fondsen 702993 flat; tick1644
+bud_davidsfonds_destin_2025,vzw_davidsfonds,2025,428000,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 bestemde fondsen 428000 JUMP from 387194; tick1644
+bud_davidsfonds_overgedragen_2025,vzw_davidsfonds,2025,30198,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 overgedragen winst 30198 JUMP; tick1644
+bud_davidsfonds_voorzieningen_2025,vzw_davidsfonds,2025,126277,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 voorzieningen 126277 JUMP from 64777; tick1644
+bud_davidsfonds_debt_2025,vzw_davidsfonds,2025,1628258,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 schulden 1628258 DROP; tick1644
+bud_davidsfonds_st_debt_2025,vzw_davidsfonds,2025,763720,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 schulden ST 763720 DROP; tick1644
+bud_davidsfonds_lev_2025,vzw_davidsfonds,2025,572398,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 leveranciers ST 572398 DROP; tick1644
+bud_davidsfonds_vooruit_2025,vzw_davidsfonds,2025,35693,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 vooruitbetalingen 35693 JUMP from 800; tick1644
+bud_davidsfonds_taxsoc_2025,vzw_davidsfonds,2025,155630,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 155630 DROP (tax 4962 + soc 150668); tick1644
+bud_davidsfonds_accrued_2025,vzw_davidsfonds,2025,864538,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 864538 JUMP; tick1644
+bud_davidsfonds_bruto_2025,vzw_davidsfonds,2025,1874862,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 brutomarge 9900 1874862 JUMP ENVELOPE; tick1644
+bud_davidsfonds_nr_opbr_2025,vzw_davidsfonds,2025,2584,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfsopbrengsten 76A 2584 DROP; tick1644
+bud_davidsfonds_pers_2025,vzw_davidsfonds,2025,1548338,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 bezoldigingen 62 1548338 DROP / 19.9 VTE (DROP from 20.3); tick1644
+bud_davidsfonds_afschr_2025,vzw_davidsfonds,2025,58726,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 afschrijvingen 630 58726 JUMP; tick1644
+bud_davidsfonds_voorz_mut_2025,vzw_davidsfonds,2025,61500,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 voorzieningen toevoeging 635/9 61500 JUMP; tick1644
+bud_davidsfonds_andere_2025,vzw_davidsfonds,2025,155873,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 155873 DROP; tick1644
+bud_davidsfonds_expl_2025,vzw_davidsfonds,2025,50425,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 bedrijfswinst 50425 PROFIT FLIP from -155962; tick1644
+bud_davidsfonds_fininc_2025,vzw_davidsfonds,2025,10012,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 financiele opbrengsten 10012 DROP; tick1644
+bud_davidsfonds_fincost_2025,vzw_davidsfonds,2025,10998,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 financiele kosten 10998 DROP; tick1644
+bud_davidsfonds_tax_2025,vzw_davidsfonds,2025,-385,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 belastingen -385 CREDIT; tick1644
+bud_davidsfonds_pnl_2025,vzw_davidsfonds,2025,49824,,,executed,src_davidsfonds_jr2025_nbb,strong,YE2025 winst 49824 PROFIT FLIP from -148328; tick1644
