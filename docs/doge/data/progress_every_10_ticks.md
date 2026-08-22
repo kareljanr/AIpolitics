@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 1740** (2026-08-24)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1731-1739 leftover VL WZC / commercial care: **Ter Engelen** · **Witte Meren** · **Veilige Have** · **Sint-Jozef Rumst** · **Molenheide** · **Gravenkasteel** · **Armonea** · **Colisée Belgium** · **Prinsenhof** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1731-1739 is residual dual L5 care (not near-complete of 348bn):** **Armonea** opbr **265.19m** (LOSS **51.31m** / equity NEG **12.26m** / Art 7:228-7:229) · **Colisée Belgium** LOSS **79.75m** (equity NEG **75.40m** / FVA **198.69m**) · **Gravenkasteel** opbr **101.46m** (staff **61.89m** / FVA **29m**) · **Veilige Have** opbr **29.98m** (LOSS **0.45m**) · **Molenheide** opbr **9.02m** (debt **26.24m**) · **Witte Meren** opbr **9.53m** · **Ter Engelen** opbr **8.06m** · **Sint-Jozef** opbr **6.28m** · **Prinsenhof** opbr **4.90m** (equity NEG **0.77m** + Vivalto comfort) · prior Natuurpunt/GO!/Dommelhof/LSC/OVSG wave retained |
+| **E. FOI-ready gaps** | **~1366** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1414** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC shells** (**NEW Armonea** opbr **EUR265.19m** LOSS **EUR51.31m** · **Colisée Belgium** LOSS **EUR79.75m** FVA **EUR198.69m** · **Gravenkasteel** opbr **EUR101.46m** · **Veilige Have/Molenheide/Witte Meren/Ter Engelen/Sint-Jozef/Prinsenhof** Vivalto+independent WZC stack · prior **Natuurpunt** assets **EUR488.81m** · **GO!** assets **EUR1.16bn** · Dommelhof/LSC/OVSG retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1740)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 50170 |
+| commitments.csv | 5323 |
+| leaderboard.csv | 7524 |
+| entities.csv | 1467 |
+| sources.csv | 4035 |
+| FOI ready | 1366 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1414 |
+| research_queue open | rq_116 deferred + rq_1741 hole-fill after progress |
+
+### What improved since tick 1730
+
+- **Residual dual leftover VL WZC / commercial care wave (tick1731-1739):** **Ter Engelen** · **Witte Meren** · **Veilige Have** · **Sint-Jozef Rumst** · **Molenheide** (Vivalto) · **Gravenkasteel** (Armonea-Colisée) · **Armonea NV** · **Colisée Belgium SA** · **Prinsenhof** (Vivalto) — no invented euros.
+- **NEW (tick1736-1738):** **Gravenkasteel** (KBO **0874.863.091**) opbr **101.464.389** / staff **61.893.515** / VTE **1007** / FVA related **29.000.000**. **Armonea NV** (KBO **0889.421.308**) opbr **265.194.864** / LOSS **-51.306.832** / equity **-12.259.638** / Art **7:228+7:229**. **Colisée Belgium** (KBO **0723.858.144**) holding LOSS **-79.747.564** / equity **-75.398.013** / FVA **198.685.617** / impairments **67.218.368** / Art **7:228+7:229**. FOI ready group maps + remediation.
+- **NEW (tick1731-1735+1739):** independent/Vivalto WZC stack — Veilige Have opbr **29.98m** LOSS · Molenheide debt **26.24m** · Witte Meren/Ter Engelen/Sint-Jozef · Prinsenhof equity NEG + Vivalto comfort letter.
+- **Dual map themes:** Colisée/Armonea commercial care group continuity risk · Vivalto Home dual (Molenheide+Prinsenhof) · independent VL WZC residual after Dommelhof · prior nature/education retained.
+- **Blocked still:** AGB Bornem JR2024-only · Dijk92 CDN **403** · APEFE YE2025 CDN **403** · NSZ CDN **403** · ABS/BVAS/POV no NBB.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1750**.
+
 ## Snapshot at **tick 1730** (2026-08-24)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

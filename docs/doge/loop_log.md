@@ -20855,3 +20855,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; entities +1 vzw_prinsenhof; budgets +17; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1739=done + rq_1740 EVERY-10 spawn; ticks_completed=1739. Raw docs/doge/raw/tick1739/.
 - FOI opened: gap_prinsenhof_opbr_4_90m_equity_neg_0_77m_debt_9_21m_l5 ready (RIZIV omzet / achtergesteld+leasing / Vivalto comfort / AV). Do not send.
 - Next: **rq_1740 EVERY-10 MUST** progress coverage % layers A-E + waste top10, then leftover AGB/NSZ/Bosgroep/Dijk92/APEFE/WZC/IGS. Do NOT redo Prinsenhof/ColiseeBelgium/Armonea/Gravenkasteel/Molenheide.
+
+### 2026-08-24T05:25:00Z - tick 1740
+- Unit: **rq_1740 EVERY-10** progress coverage % layers A-E + waste top10 after VL residual 1731-1739 (Ter Engelen · Witte Meren · Veilige Have · Sint-Jozef Rumst · Molenheide · Gravenkasteel · Armonea · Colisée Belgium · Prinsenhof). Pure annual top10 re-verified stable. NOT a second municipality fill.
+- Found: A/B still **100%**; C ~**99%**; D still **~74-88%** generous of TE (honest: residual dual L5 gains not near-complete of €348bn). FOI ready **~1366**. Major NEW since 1730: Armonea opbr **265.19m**/LOSS **51.31m**/Art 7:228; Colisée Belgium LOSS **79.75m**/FVA **198.69m**; Gravenkasteel opbr **101.46m**; Veilige Have/Molenheide/Witte Meren/Ter Engelen/Sint-Jozef/Prinsenhof WZC stack.
+- Wrote: progress_every_10_ticks.md snapshot 1740; doge_waste_top10_current.md as-of 1740; rq_1740=done + rq_1741 spawn; ticks_completed=1740.
+- FOI: none new (decade refresh). Human-send backlog unchanged.
+- Inventory: entities **1467** · sources **4035** · budgets **50170** · commitments **5323** · leaderboard **7524** · FOI ready **1366** / answered **9** / partial **27** / total **1414**.
+- Next: rq_1741 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 if JR euros / APEFE if CDN 200 / ABS/POV/BVAS / IOED / HVZ / IGS / WZC / LSC / other. Do NOT redo Prinsenhof/ColiseeBelgium/Armonea/Gravenkasteel/Molenheide/SintJozef/VeiligeHave/WitteMeren/TerEngelen. **Next every-10 is 1750**.
