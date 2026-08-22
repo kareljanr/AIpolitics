@@ -50370,3 +50370,14 @@ bud_klavertje4_pnl_2025,vzw_klavertje4,2025,-39096,,,realized,src_klavertje4_jr2
 bud_klavertje4_cash_2025,vzw_klavertje4,2025,156636,,,stock,src_klavertje4_jr2025_nbb,strong,Cash JUMP 156636 vs 12459; tick1759
 bud_klavertje4_related_recv_2025,vzw_klavertje4,2025,53060,,,stock,src_klavertje4_jr2025_nbb,strong,Related recv on controlling persons 53060; tick1759
 bud_klavertje4_commissaris_2025,vzw_klavertje4,2025,5376,,,realized,src_klavertje4_jr2025_nbb,strong,Commissaris fee 5376; tick1759
+bud_vesper_assets_2025,nv_vesper,2025,5970913,,,stock,src_vesper_jr2025_nbb,strong,Assets YE2025 5970913 DROP vs 6625970; tick1761
+bud_vesper_equity_2025,nv_vesper,2025,670672,,,stock,src_vesper_jr2025_nbb,strong,Equity 670672 DROP vs 720356; tick1761
+bud_vesper_debt_2025,nv_vesper,2025,5157145,,,stock,src_vesper_jr2025_nbb,strong,Debt 5157145; tick1761
+bud_vesper_leasing_lt_2025,nv_vesper,2025,2864337,,,stock,src_vesper_jr2025_nbb,strong,LT leasing 2864337; tick1761
+bud_vesper_ventes_2025,nv_vesper,2025,6186129,,,realized,src_vesper_jr2025_nbb,strong,Ventes et prestations 6186129; tick1761
+bud_vesper_ca_2025,nv_vesper,2025,6165612,,,realized,src_vesper_jr2025_nbb,strong,Chiffre d affaires 6165612; tick1761
+bud_vesper_staff_2025,nv_vesper,2025,4163089,,,realized,src_vesper_jr2025_nbb,strong,Staff 4163089 / VTE 68.1; tick1761
+bud_vesper_expl_2025,nv_vesper,2025,71083,,,realized,src_vesper_jr2025_nbb,strong,Exploitation DROP 71083 vs 280617; tick1761
+bud_vesper_pnl_2025,nv_vesper,2025,-49684,,,realized,src_vesper_jr2025_nbb,strong,PnL FLIP -49684 vs +93756; tick1761
+bud_vesper_fin_charges_2025,nv_vesper,2025,172115,,,realized,src_vesper_jr2025_nbb,strong,Financial charges 172115; tick1761
+bud_vesper_st_other_debt_2025,nv_vesper,2025,546578,,,stock,src_vesper_jr2025_nbb,strong,ST autres dettes JUMP 546578 vs 83780; tick1761

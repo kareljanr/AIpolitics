@@ -21005,3 +21005,10 @@ Append-only. Each tick adds a short entry.
 - FOI: none new (decade refresh). Human-send backlog unchanged.
 - Inventory: entities **1484** · sources **4108** · budgets **50371** · commitments **5341** · leaderboard **7540** · FOI ready **1384** / answered **9** / partial **27** / total **1432**.
 - Next: rq_1761 leftover AGB/**NSZ if CDN 200**/Bosgroep/Brembloem-if-200/Dijk92 / APEFE / ABS/POV/BVAS / IOED / HVZ-VBWest / other Vivalto sisters / IGS / WZC. Do NOT redo BZA/DeMolen/Felicite/Vivalys/Klavertje4. **Next every-10 is 1770**.
+
+### 2026-08-24T14:15:00Z - tick 1761
+- Unit: rq_1761 Vesper SA (leftover BHG WZC Forest HQ / Vivalto dual Klavertje4 + Floréal contact) (KBO **0435.463.385**; SA/NV; Avenue du Domaine 13 1190 Forest — **same HQ address as Vivalto Home Belgium**; NACE **87.301/87.101**; vesper.info@vivaltohome.com; official NBB **C-cap** YE2025 deposit **2026-00139190** CDN **200**; AV **13.05.2026**; mère Vivalto Home Belgium **comfortbrief** to AV YE2026; perte reportée continuity). Honest leftover AGB Bornem still JR2024-only. Brembloem VZW still no JR2025 CDN. NSZ/Dijk92/APEFE CDN **403**. Preferred AGB/Brembloem blocked - leftover Vesper official NBB JR2025 **live** taken. New entity nv_vesper. Envelope = ventes **6186129**. NOT every-10 (next **1770**).
+- Found (NBB YE2025 strong): assets **5970913** DROP; equity **670672** DROP; debt **5157145** (leasing LT **2864337**; ST autres JUMP **546578**); ventes **6186129** (CA **6165612**); staff **4163089** / VTE **68.1**; expl DROP **71083**; PnL **-49684** FLIP vs **+93756**; fin charges **172115**.
+- Wrote: sources +3; entities +1 nv_vesper; budgets +11; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1761=done + rq_1762 spawn; ticks_completed=1761. Raw docs/doge/raw/tick1761/.
+- FOI opened: gap_vesper_ca_6_17m_staff_4_16m_comfort_loss_flip_l5 ready (RIZIV/Floréal/comfort/ST debt). Do not send.
+- Next: rq_1762 leftover AGB/**NSZ if CDN 200**/Bosgroep/Brembloem-if-200/Dijk92 / APEFE / HVZ-VBWest / other Vivalto. Do NOT redo Vesper/Klavertje4 continuum. NOT every-10 (next **1770**).
