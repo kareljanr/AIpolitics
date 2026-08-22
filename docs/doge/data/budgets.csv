@@ -47467,3 +47467,42 @@ bud_gezinsbond_expl_2025,vzw_gezinsbond,2025,-1620362,,,executed,src_gezinsbond_
 bud_gezinsbond_fininc_2025,vzw_gezinsbond,2025,324769,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 financiele opbrengsten 324769 JUMP; tick1632
 bud_gezinsbond_fincost_2025,vzw_gezinsbond,2025,4952,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 financiele kosten 4952; tick1632
 bud_gezinsbond_pnl_2025,vzw_gezinsbond,2025,-1300544,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 verlies -1300544 LOSS DEEP; tick1632
+bud_greenpeace_assets_2025,vzw_greenpeace,2025,6241412,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 balanstotaal 6241412 JUMP from 4689273; tick1633
+bud_greenpeace_va_2025,vzw_greenpeace,2025,296257,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 vaste activa 296257 DROP; tick1633
+bud_greenpeace_iva_2025,vzw_greenpeace,2025,1697,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 immateriele VA 1697 DROP; tick1633
+bud_greenpeace_mva_2025,vzw_greenpeace,2025,47773,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 materiele VA 47773 DROP; tick1633
+bud_greenpeace_fva_2025,vzw_greenpeace,2025,246787,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 financiele VA 246787 DROP (Via Ex deelneming 239540); tick1633
+bud_greenpeace_vlottend_2025,vzw_greenpeace,2025,5945155,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 vlottende activa 5945155 JUMP; tick1633
+bud_greenpeace_lt_other_recv_2025,vzw_greenpeace,2025,2403000,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 overige vorderingen LT 2403000 flat; tick1633
+bud_greenpeace_voorraden_2025,vzw_greenpeace,2025,659000,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 onroerende goederen bestemd voor verkoop 659000 JUMP from 100000; tick1633
+bud_greenpeace_handelsrecv_2025,vzw_greenpeace,2025,1198,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 handelsvorderingen ST 1198 DROP; tick1633
+bud_greenpeace_other_recv_2025,vzw_greenpeace,2025,7679,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 overige vorderingen ST 7679 DROP from 549231; tick1633
+bud_greenpeace_cash_2025,vzw_greenpeace,2025,2763199,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 liquide middelen 2763199 JUMP from 1182440; tick1633
+bud_greenpeace_prepaid_2025,vzw_greenpeace,2025,111079,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 111079 DROP; tick1633
+bud_greenpeace_equity_2025,vzw_greenpeace,2025,4269985,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 eigen vermogen 4269985 JUMP; tick1633
+bud_greenpeace_fondsen_2025,vzw_greenpeace,2025,1970034,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 fondsen 1970034 flat; tick1633
+bud_greenpeace_destin_2025,vzw_greenpeace,2025,2128685,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 bestemde fondsen 2128685 JUMP (sociaal passief +159301); tick1633
+bud_greenpeace_overgedragen_2025,vzw_greenpeace,2025,171266,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 overgedragen winst 171266 FLIP from -1230660; tick1633
+bud_greenpeace_voorzieningen_2025,vzw_greenpeace,2025,20000,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 voorzieningen 20000 DROP (geschillen); tick1633
+bud_greenpeace_debt_2025,vzw_greenpeace,2025,1951427,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 schulden 1951427 JUMP; tick1633
+bud_greenpeace_st_debt_2025,vzw_greenpeace,2025,1271891,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 schulden ST 1271891 DROP (incl LT within year 518116); tick1633
+bud_greenpeace_lt_within_year_2025,vzw_greenpeace,2025,518116,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 schulden LT die binnen het jaar vervallen 518116 NEW; tick1633
+bud_greenpeace_lev_2025,vzw_greenpeace,2025,185278,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 leveranciers ST 185278 JUMP; tick1633
+bud_greenpeace_taxsoc_2025,vzw_greenpeace,2025,1037434,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 1037434 DROP (tax 173232 + soc 864202); tick1633
+bud_greenpeace_othdebt_2025,vzw_greenpeace,2025,49179,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 overige schulden ST 49179 JUMP; tick1633
+bud_greenpeace_accrued_2025,vzw_greenpeace,2025,679536,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 679536 JUMP (over te dragen opbr 668000); tick1633
+bud_greenpeace_opbr_2025,vzw_greenpeace,2025,11088983,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 bedrijfsopbrengsten 11088983 JUMP ENVELOPE; tick1633
+bud_greenpeace_omzet_2025,vzw_greenpeace,2025,1253932,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 omzet 70 1253932 DROP; tick1633
+bud_greenpeace_code73_2025,vzw_greenpeace,2025,9562462,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 lidgeld/schenk/legaten/subsidies 73 9562462 JUMP; tick1633
+bud_greenpeace_schenkingen_2025,vzw_greenpeace,2025,7505081,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 schenkingen 731 7505081 JUMP; tick1633
+bud_greenpeace_legaten_2025,vzw_greenpeace,2025,2057132,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 legaten 732 2057132 JUMP from 802973; tick1633
+bud_greenpeace_subsidies_2025,vzw_greenpeace,2025,250,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 subsidies 733 250 flat (micro public line); tick1633
+bud_greenpeace_andere_opbr_2025,vzw_greenpeace,2025,261290,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 andere bedrijfsopbrengsten 74 261290; tick1633
+bud_greenpeace_diensten_2025,vzw_greenpeace,2025,2097956,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 diensten en diverse goederen 61 2097956 DROP; tick1633
+bud_greenpeace_pers_2025,vzw_greenpeace,2025,5808467,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 bezoldigingen 62 5808467 DROP / 71.7 VTE (DROP from 83.4); tick1633
+bud_greenpeace_afschr_2025,vzw_greenpeace,2025,29356,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 afschrijvingen 630 29356 DROP; tick1633
+bud_greenpeace_andere_2025,vzw_greenpeace,2025,1656320,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 1656320 JUMP from 677522; tick1633
+bud_greenpeace_expl_2025,vzw_greenpeace,2025,1557072,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 bedrijfswinst 1557072 PROFIT FLIP from -321195; tick1633
+bud_greenpeace_fininc_2025,vzw_greenpeace,2025,36971,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 financiele opbrengsten 36971 JUMP; tick1633
+bud_greenpeace_fincost_2025,vzw_greenpeace,2025,32816,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 financiele kosten 32816 DROP; tick1633
+bud_greenpeace_pnl_2025,vzw_greenpeace,2025,1561227,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 winst 1561227 PROFIT FLIP from -333634; tick1633
