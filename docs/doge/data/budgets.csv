@@ -50520,3 +50520,18 @@ bud_centenaire_staff_2025,nv_centenaire,2025,2200823,,,realized,src_centenaire_j
 bud_centenaire_expl_2025,nv_centenaire,2025,181524,,,realized,src_centenaire_jr2025_nbb,strong,Benefice exploitation 181524; tick1774
 bud_centenaire_nrec_fin_2025,nv_centenaire,2025,1183905,,,realized,src_centenaire_jr2025_nbb,strong,Produits financiers non recurrents 1183905 drives PnL; tick1774
 bud_centenaire_pnl_2025,nv_centenaire,2025,1277118,,,realized,src_centenaire_jr2025_nbb,strong,PnL 1277118; dividend apport 1418042 + admin 116039; autres dettes ST=distribuer 1534082; tick1774
+bud_closroses_assets_2025,nv_closroses,2025,11188312,,,stock,src_closroses_jr2025_nbb,strong,Assets YE2025 11188312 DROP vs 12128514; tick1775
+bud_closroses_equity_2025,nv_closroses,2025,2271728,,,stock,src_closroses_jr2025_nbb,strong,Equity 2271728 DROP vs 2399146; tick1775
+bud_closroses_debt_2025,nv_closroses,2025,8472309,,,stock,src_closroses_jr2025_nbb,strong,Debt 8472309; tick1775
+bud_closroses_leasing_lt_2025,nv_closroses,2025,3526879,,,stock,src_closroses_jr2025_nbb,strong,LT leasing dettes 3526879; option achat 413000; tick1775
+bud_closroses_fva_2025,nv_closroses,2025,5834109,,,stock,src_closroses_jr2025_nbb,strong,Immobilisations financieres 5834109 mostly related créances 5833909; tick1775
+bud_closroses_related_recv_fva_2025,nv_closroses,2025,5833909,,,stock,src_closroses_jr2025_nbb,strong,Créances entreprises liées FVA 281=5833909; tick1775
+bud_closroses_related_recv_st_2025,nv_closroses,2025,1239162,,,stock,src_closroses_jr2025_nbb,strong,Créances liées ST 1239162 DROP vs 1903578; tick1775
+bud_closroses_controllers_recv_2025,nv_closroses,2025,5545446,,,stock,src_closroses_jr2025_nbb,strong,Créances sur administrateurs/controleurs 9500=5545446; tick1775
+bud_closroses_related_debt_2025,nv_closroses,2025,7068447,,,stock,src_closroses_jr2025_nbb,strong,Dettes entreprises liées 7068447 (LT 6916624 + ST 151823); tick1775
+bud_closroses_cash_2025,nv_closroses,2025,145963,,,stock,src_closroses_jr2025_nbb,strong,Cash 145963 JUMP vs 74943; tick1775
+bud_closroses_ca_2025,nv_closroses,2025,5173715,,,realized,src_closroses_jr2025_nbb,strong,CA 5173715 / ventes prestations 5174999; tick1775
+bud_closroses_staff_2025,nv_closroses,2025,3268771,,,realized,src_closroses_jr2025_nbb,strong,Staff 3268771 / VTE 56.7; tick1775
+bud_closroses_expl_2025,nv_closroses,2025,523803,,,realized,src_closroses_jr2025_nbb,strong,Benefice exploitation 523803; tick1775
+bud_closroses_pnl_2025,nv_closroses,2025,367088,,,realized,src_closroses_jr2025_nbb,strong,PnL 367088; dividend apport 325000 + admin 167175; tick1775
+bud_closroses_rivage_gage_2025,nv_closroses,2025,135600000,,,stock,src_closroses_jr2025_nbb,strong,VIVALTO LEASE/RIVAGE gage fonds commerce 135600000 group undivided; assets grevés 7604853; tick1775

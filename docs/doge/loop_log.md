@@ -21104,3 +21104,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; entities +1 nv_centenaire; budgets +12; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1774=done + rq_1775 spawn; ticks_completed=1774. Raw docs/doge/raw/tick1774/.
 - FOI opened: gap_centenaire_marge_2_62m_nrec_fin_1_18m_dividend_1_42m_l5 ready (RIZIV/nrec fin/related recv/dividend). Do not send.
 - Next: rq_1775 leftover AGB/**NSZ if CDN 200**/Bosgroep/Brembloem-if-200 / **CLOS DES ROSES 2026-00176179** / **ETRIER 2026-00176181** / **VERT BOCAGE 2026-00176184** / **TONNELLE 2026-00176186** / **AGE D OR 2026-00176187**. Do NOT redo Centenaire/Braine continuum. NOT every-10 (next **1780**).
+
+### 2026-08-24T18:35:00Z — tick 1775
+- Unit: rq_1775 — **LE CLOS DES ROSES SA** (Poulseur / Comblain-au-Pont / Vivalto)
+- Found: NBB C-cap YE2025 deposit [2026-00176179](http://cdn.staatsbladmonitor.be/2026pdf/2026-00176179.pdf) CDN 200 (1.16 MB / 54p); KBO **0438.414.066**; AV **21.05.2026**; mère Vivalto Home Belgium; Forvis Mazars — **opinion sans réserve** (minor CSA convoc delay). Sourced: assets **€11,188,312**; equity **€2,271,728** DROP; debt **€8,472,309**; CA **€5,173,715**; staff **€3,268,771** / VTE **56.7**; expl **€523,803**; PnL **€367,088**; dividend apport **€325,000** (prior €940k); admin **€167,175**; related FVA créances **€5,833,909**; controllers 9500 **€5,545,446**; related debt **€7,068,447**; leasing LT **€3,526,879** + option **€413,000**; **RIVAGE/VIVALTO LEASE gage €135,600,000** undivided (twin RAPSODE; assets grevés €7,604,853).
+- Wrote: sources (+3); entities nv_closroses; budgets (+15); commitments; leaderboard; foi_queue ready; research_queue rq_1775=done + rq_1776 spawned; loop_state ticks=1775; FOI draft gap_closroses_ca_5_17m_related_recv_5_83m_rivage_135m_l5.md
+- FOI opened: gap_closroses_ca_5_17m_related_recv_5_83m_rivage_135m_l5 (**ready**, not sent)
+- Next: rq_1776 — leftover AGB/NSZ-if-200/Bosgroep/Brembloem-if-200/Etrier/VertBocage/Tonnelle/AgeDor; every-10 at 1780
