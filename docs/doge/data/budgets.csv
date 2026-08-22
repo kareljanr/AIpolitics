@@ -50406,3 +50406,15 @@ bud_picauvent_expl_2025,nv_picauvent,2025,471102,,,realized,src_picauvent_jr2025
 bud_picauvent_pnl_2025,nv_picauvent,2025,235682,,,realized,src_picauvent_jr2025_nbb,strong,PnL 235682; tick1763
 bud_picauvent_admin_remun_2025,nv_picauvent,2025,84248,,,realized,src_picauvent_jr2025_nbb,strong,Benefice distribue administrateurs/gerants 84248 UP vs 66169; tick1763
 bud_picauvent_nrec_prod_2025,nv_picauvent,2025,190280,,,realized,src_picauvent_jr2025_nbb,strong,Produits exploitation non recurrents 190280 (same as prior year); tick1763
+bud_hirondelles_assets_2025,nv_hirondelles,2025,4094030,,,stock,src_hirondelles_jr2025_nbb,strong,Assets YE2025 4094030 DROP vs 4530090; tick1764
+bud_hirondelles_equity_2025,nv_hirondelles,2025,1740546,,,stock,src_hirondelles_jr2025_nbb,strong,Equity 1740546 UP vs 1636050; tick1764
+bud_hirondelles_debt_2025,nv_hirondelles,2025,1979424,,,stock,src_hirondelles_jr2025_nbb,strong,Debt 1979424 DROP vs 2494015; tick1764
+bud_hirondelles_leasing_lt_2025,nv_hirondelles,2025,1058069,,,stock,src_hirondelles_jr2025_nbb,strong,LT credit/leasing 1058069; tick1764
+bud_hirondelles_autres_creances_2025,nv_hirondelles,2025,1103015,,,stock,src_hirondelles_jr2025_nbb,strong,Autres creances ST 1103015; tick1764
+bud_hirondelles_fva_2025,nv_hirondelles,2025,500000,,,stock,src_hirondelles_jr2025_nbb,strong,Immobilisations financieres 500000; tick1764
+bud_hirondelles_marge_2025,nv_hirondelles,2025,2878361,,,realized,src_hirondelles_jr2025_nbb,strong,Marge brute 2878361 (A-cap; CA not disclosed); tick1764
+bud_hirondelles_staff_2025,nv_hirondelles,2025,2364737,,,realized,src_hirondelles_jr2025_nbb,strong,Staff 2364737 / VTE 40.7; tick1764
+bud_hirondelles_expl_2025,nv_hirondelles,2025,296170,,,realized,src_hirondelles_jr2025_nbb,strong,Benefice exploitation 296170 DROP vs 339261; tick1764
+bud_hirondelles_pnl_2025,nv_hirondelles,2025,215131,,,realized,src_hirondelles_jr2025_nbb,strong,PnL 215131 (a affecter 293026); tick1764
+bud_hirondelles_admin_remun_2025,nv_hirondelles,2025,105888,,,realized,src_hirondelles_jr2025_nbb,strong,Benefice distribue administrateurs/gerants 105888; tick1764
+bud_hirondelles_caution_enph_2025,nv_hirondelles,2025,205070,,,stock,src_hirondelles_jr2025_nbb,strong,Cautionnement ENPH en faveur de Vivalto Home Belgium SA 205070 off-balance; tick1764
