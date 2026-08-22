@@ -47368,3 +47368,34 @@ bud_zorgneticuro_expl_2025,vzw_zorgneticuro,2025,351161,,,executed,src_zorgnetic
 bud_zorgneticuro_fininc_2025,vzw_zorgneticuro,2025,58128,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 financiele opbrengsten 58128 JUMP; tick1628
 bud_zorgneticuro_fincost_2025,vzw_zorgneticuro,2025,13827,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 financiele kosten 13827; tick1628
 bud_zorgneticuro_pnl_2025,vzw_zorgneticuro,2025,395463,,,executed,src_zorgneticuro_jr2025_nbb,strong,YE2025 winst 395463 JUMP; tick1628
+bud_vpp_assets_2025,vzw_vpp,2025,1277680,,,executed,src_vpp_jr2025_nbb,strong,YE2025 balanstotaal 1277680 DROP from 1472459; tick1629
+bud_vpp_va_2025,vzw_vpp,2025,90709,,,executed,src_vpp_jr2025_nbb,strong,YE2025 vaste activa 90709 JUMP; tick1629
+bud_vpp_mva_2025,vzw_vpp,2025,75484,,,executed,src_vpp_jr2025_nbb,strong,YE2025 materiele VA 75484 DROP; tick1629
+bud_vpp_fva_2025,vzw_vpp,2025,15225,,,executed,src_vpp_jr2025_nbb,strong,YE2025 financiele VA 15225 NEW; tick1629
+bud_vpp_vlottend_2025,vzw_vpp,2025,1186971,,,executed,src_vpp_jr2025_nbb,strong,YE2025 vlottende activa 1186971 DROP; tick1629
+bud_vpp_handelsrecv_2025,vzw_vpp,2025,153,,,executed,src_vpp_jr2025_nbb,strong,YE2025 handelsvorderingen ST 153; tick1629
+bud_vpp_other_recv_2025,vzw_vpp,2025,507182,,,executed,src_vpp_jr2025_nbb,strong,YE2025 overige vorderingen ST 507182 DROP; tick1629
+bud_vpp_cash_2025,vzw_vpp,2025,667579,,,executed,src_vpp_jr2025_nbb,strong,YE2025 liquide middelen 667579 DROP; tick1629
+bud_vpp_prepaid_2025,vzw_vpp,2025,12057,,,executed,src_vpp_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 12057; tick1629
+bud_vpp_equity_2025,vzw_vpp,2025,419530,,,executed,src_vpp_jr2025_nbb,strong,YE2025 eigen vermogen 419530 DROP; tick1629
+bud_vpp_destin_2025,vzw_vpp,2025,103010,,,executed,src_vpp_jr2025_nbb,strong,YE2025 bestemde fondsen 103010 DROP; tick1629
+bud_vpp_overgedragen_2025,vzw_vpp,2025,316521,,,executed,src_vpp_jr2025_nbb,strong,YE2025 overgedragen winst 316521 JUMP; tick1629
+bud_vpp_debt_2025,vzw_vpp,2025,858150,,,executed,src_vpp_jr2025_nbb,strong,YE2025 schulden 858150 DROP; tick1629
+bud_vpp_st_debt_2025,vzw_vpp,2025,738911,,,executed,src_vpp_jr2025_nbb,strong,YE2025 schulden ST 738911 DROP; tick1629
+bud_vpp_lev_2025,vzw_vpp,2025,422184,,,executed,src_vpp_jr2025_nbb,strong,YE2025 leveranciers ST 422184 DROP; tick1629
+bud_vpp_tax_2025,vzw_vpp,2025,51966,,,executed,src_vpp_jr2025_nbb,strong,YE2025 belastingen ST 51966; tick1629
+bud_vpp_taxsoc_2025,vzw_vpp,2025,211041,,,executed,src_vpp_jr2025_nbb,strong,YE2025 bezoldigingen/sociale lasten ST 211041; tick1629
+bud_vpp_othdebt_2025,vzw_vpp,2025,53720,,,executed,src_vpp_jr2025_nbb,strong,YE2025 overige schulden ST 53720 JUMP; tick1629
+bud_vpp_accrued_2025,vzw_vpp,2025,119239,,,executed,src_vpp_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 119239 DROP; tick1629
+bud_vpp_bruto_2025,vzw_vpp,2025,1553861,,,executed,src_vpp_jr2025_nbb,strong,YE2025 brutomarge 9900 1553861 DROP ENVELOPE; tick1629
+bud_vpp_omzet_2025,vzw_vpp,2025,26732,,,executed,src_vpp_jr2025_nbb,strong,YE2025 omzet 70 26732 DROP; tick1629
+bud_vpp_code73_2025,vzw_vpp,2025,3328814,,,executed,src_vpp_jr2025_nbb,strong,YE2025 lidgeld/schenk/legaten/subsidies 73 3328814 JUMP; tick1629
+bud_vpp_diensten_2025,vzw_vpp,2025,1819260,,,executed,src_vpp_jr2025_nbb,strong,YE2025 handelsgoederen/diensten 60/61 1819260 JUMP; tick1629
+bud_vpp_pers_2025,vzw_vpp,2025,1524396,,,executed,src_vpp_jr2025_nbb,strong,YE2025 bezoldigingen 62 1524396 JUMP / 16.9 VTE; tick1629
+bud_vpp_afschr_2025,vzw_vpp,2025,42747,,,executed,src_vpp_jr2025_nbb,strong,YE2025 afschrijvingen 630 42747 JUMP; tick1629
+bud_vpp_andere_2025,vzw_vpp,2025,56066,,,executed,src_vpp_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 56066 DROP; tick1629
+bud_vpp_nietrec_cost_2025,vzw_vpp,2025,48909,,,executed,src_vpp_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfskosten 66A 48909 NEW; tick1629
+bud_vpp_expl_2025,vzw_vpp,2025,-69347,,,executed,src_vpp_jr2025_nbb,strong,YE2025 bedrijfsverlies -69347 LOSS FLIP from +92003; tick1629
+bud_vpp_fininc_2025,vzw_vpp,2025,2678,,,executed,src_vpp_jr2025_nbb,strong,YE2025 financiele opbrengsten 2678; tick1629
+bud_vpp_fincost_2025,vzw_vpp,2025,1058,,,executed,src_vpp_jr2025_nbb,strong,YE2025 financiele kosten 1058; tick1629
+bud_vpp_pnl_2025,vzw_vpp,2025,-67727,,,executed,src_vpp_jr2025_nbb,strong,YE2025 verlies -67727 LOSS FLIP from +93836; tick1629
