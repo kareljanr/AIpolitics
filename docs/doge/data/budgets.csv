@@ -50060,3 +50060,22 @@ bud_veiligehave_staff_2025,vzw_veilige_have,2025,20324429,,,executed,src_veilige
 bud_veiligehave_diensten_2025,vzw_veilige_have,2025,4528734,,,executed,src_veilige_have_nbb_ye2025,strong,NBB diensten 61 4528734 JUMP vs 3338853; tick1733
 bud_veiligehave_expl_2025,vzw_veilige_have,2025,-334928,,,executed,src_veilige_have_nbb_ye2025,strong,NBB bedrijfswinst 9901 -334928 LOSS; tick1733
 bud_veiligehave_pnl_2025,vzw_veilige_have,2025,-448409,,,executed,src_veilige_have_nbb_ye2025,strong,NBB PnL 9904 -448409 LOSS; AV 18.06.2026; Figurad voorbehoud; tick1733
+bud_sintjozef_assets_2025,vzw_sint_jozef_rumst,2025,16860795,,,executed,src_sintjozef_nbb_ye2025,strong,NBB 20/58 assets 16860795; tick1734
+bud_sintjozef_va_2025,vzw_sint_jozef_rumst,2025,14406196,,,executed,src_sintjozef_nbb_ye2025,strong,NBB VA 21/28 14406196; tick1734
+bud_sintjozef_buildings_2025,vzw_sint_jozef_rumst,2025,14306868,,,executed,src_sintjozef_nbb_ye2025,strong,NBB terreinen/gebouwen 14306868; tick1734
+bud_sintjozef_vlottend_2025,vzw_sint_jozef_rumst,2025,2454600,,,executed,src_sintjozef_nbb_ye2025,strong,NBB vlottend 2454600; tick1734
+bud_sintjozef_cash_2025,vzw_sint_jozef_rumst,2025,484969,,,executed,src_sintjozef_nbb_ye2025,strong,NBB liquide 484969 DROP vs 544569; tick1734
+bud_sintjozef_beleg_2025,vzw_sint_jozef_rumst,2025,1100000,,,executed,src_sintjozef_nbb_ye2025,strong,NBB geldbeleggingen 1100000; tick1734
+bud_sintjozef_equity_2025,vzw_sint_jozef_rumst,2025,10874824,,,executed,src_sintjozef_nbb_ye2025,strong,NBB EV 10874824; tick1734
+bud_sintjozef_kapsubs_2025,vzw_sint_jozef_rumst,2025,7413783,,,executed,src_sintjozef_nbb_ye2025,strong,NBB kapitaalsubsidies 7413783 DROP vs 7829590; FOI VIPA; tick1734
+bud_sintjozef_voorzieningen_2025,vzw_sint_jozef_rumst,2025,197069,,,executed,src_sintjozef_nbb_ye2025,strong,NBB voorzieningen 197069 (herstel 150000); tick1734
+bud_sintjozef_debt_2025,vzw_sint_jozef_rumst,2025,5788902,,,executed,src_sintjozef_nbb_ye2025,strong,NBB schulden 5788902; tick1734
+bud_sintjozef_lt_fin_2025,vzw_sint_jozef_rumst,2025,4390037,,,executed,src_sintjozef_nbb_ye2025,strong,NBB LT fin 4390037 (krediet 3770037 + overige 620000); tick1734
+bud_sintjozef_opbr_2025,vzw_sint_jozef_rumst,2025,6277820,,,executed,src_sintjozef_nbb_ye2025,strong,NBB bedrijfsopbrengsten 6277820; tick1734
+bud_sintjozef_omzet_2025,vzw_sint_jozef_rumst,2025,4791023,,,executed,src_sintjozef_nbb_ye2025,strong,NBB omzet 70 4791023 (dagprijs 2492727 + zorgkassen 1852486 + doorgerekend 445809); tick1734
+bud_sintjozef_code73_2025,vzw_sint_jozef_rumst,2025,1271572,,,executed,src_sintjozef_nbb_ye2025,strong,NBB code73/subsidies 733 1271572; FOI donor split; tick1734
+bud_sintjozef_andere_opbr_2025,vzw_sint_jozef_rumst,2025,210662,,,executed,src_sintjozef_nbb_ye2025,strong,NBB andere bedrijfsopbrengsten 74 210662; tick1734
+bud_sintjozef_staff_2025,vzw_sint_jozef_rumst,2025,4236727,,,executed,src_sintjozef_nbb_ye2025,strong,NBB 62 4236727 / VTE 55.6 DROP vs 60.4; tick1734
+bud_sintjozef_diensten_2025,vzw_sint_jozef_rumst,2025,508565,,,executed,src_sintjozef_nbb_ye2025,strong,NBB diensten 61 508565; tick1734
+bud_sintjozef_expl_2025,vzw_sint_jozef_rumst,2025,306204,,,executed,src_sintjozef_nbb_ye2025,strong,NBB bedrijfswinst 9901 306204; tick1734
+bud_sintjozef_pnl_2025,vzw_sint_jozef_rumst,2025,205527,,,executed,src_sintjozef_nbb_ye2025,strong,NBB PnL 9904 205527; AV 25.06.2026; Vyvey zonder voorbehoud; tick1734
