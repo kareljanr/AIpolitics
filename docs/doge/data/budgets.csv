@@ -49038,3 +49038,34 @@ bud_ligo_mzwvl_tax_2025,vzw_ligo_mzwvl,2025,3424,,,executed,src_ligo_mzwvl_jr202
 bud_ligo_mzwvl_pnl_2025,vzw_ligo_mzwvl,2025,109083,,,executed,src_ligo_mzwvl_jr2025_nbb,strong,YE2025 winst 109083 DROP from 186184; tick1683
 bud_ligo_mzwvl_vte_2025,vzw_ligo_mzwvl,2025,0.5,,,executed,src_ligo_mzwvl_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 0.5 JUMP from 0.4; tick1683
 bud_ligo_mzwvl_commissaris_fee_2025,vzw_ligo_mzwvl,2025,4500,,,executed,src_ligo_mzwvl_jr2025_nbb,strong,YE2025 commissaris mandaat excl BTW 4500 + andere opdrachten 584; Moore Audit; tick1683
+bud_amnesty_vl_assets_2025,vzw_amnesty_vl,2025,2216405,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 balanstotaal 2216405 DROP from 2342848; tick1684 OCR
+bud_amnesty_vl_va_2025,vzw_amnesty_vl,2025,229515,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 vaste activa 229515 JUMP; tick1684 OCR
+bud_amnesty_vl_mva_2025,vzw_amnesty_vl,2025,227229,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 materiele VA 227229 (=meubilair; no buildings); tick1684 OCR
+bud_amnesty_vl_meubilair_2025,vzw_amnesty_vl,2025,227229,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 meubilair/rollend 227229 JUMP; tick1684 OCR
+bud_amnesty_vl_fva_2025,vzw_amnesty_vl,2025,2286,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 financiele VA 2286 DROP; tick1684 OCR
+bud_amnesty_vl_vlottend_2025,vzw_amnesty_vl,2025,1986890,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 vlottende activa 1986890 DROP; tick1684 OCR
+bud_amnesty_vl_handelsrecv_2025,vzw_amnesty_vl,2025,91420,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 handelsvorderingen ST 91420 DROP; tick1684 OCR
+bud_amnesty_vl_other_recv_2025,vzw_amnesty_vl,2025,60537,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 overige vorderingen ST 60537 JUMP; tick1684 OCR
+bud_amnesty_vl_beleg_2025,vzw_amnesty_vl,2025,1297846,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 geldbeleggingen 1297846 JUMP; tick1684 OCR
+bud_amnesty_vl_cash_2025,vzw_amnesty_vl,2025,528799,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 liquide middelen 528799 DROP; tick1684 OCR
+bud_amnesty_vl_prepaid_2025,vzw_amnesty_vl,2025,8289,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 8289 JUMP; tick1684 OCR
+bud_amnesty_vl_equity_2025,vzw_amnesty_vl,2025,1558171,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 eigen vermogen 1558171 DROP; tick1684 OCR
+bud_amnesty_vl_fondsen_2025,vzw_amnesty_vl,2025,85071,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 fondsen 85071 flat; tick1684 OCR
+bud_amnesty_vl_destin_2025,vzw_amnesty_vl,2025,413864,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 bestemde fondsen 413864 JUMP from 328641; tick1684 OCR
+bud_amnesty_vl_overgedragen_2025,vzw_amnesty_vl,2025,1059236,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 overgedragen winst 1059236 DROP; tick1684 OCR
+bud_amnesty_vl_debt_2025,vzw_amnesty_vl,2025,658234,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 schulden 658234 DROP; tick1684 OCR
+bud_amnesty_vl_st_debt_2025,vzw_amnesty_vl,2025,389183,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 schulden ST 389183 DROP; tick1684 OCR
+bud_amnesty_vl_lev_2025,vzw_amnesty_vl,2025,143975,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 leveranciers ST 143975 JUMP; tick1684 OCR
+bud_amnesty_vl_taxsoc_2025,vzw_amnesty_vl,2025,234083,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 234083 (tax 43703 + soc 190380); tick1684 OCR
+bud_amnesty_vl_accrued_2025,vzw_amnesty_vl,2025,269051,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 269051 DROP; tick1684 OCR
+bud_amnesty_vl_bruto_2025,vzw_amnesty_vl,2025,3593734,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 brutomarge 9900 3593734 DROP ENVELOPE (on-books; 70/73/60-61 empty); tick1684 OCR
+bud_amnesty_vl_pers_2025,vzw_amnesty_vl,2025,2994820,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 bezoldigingen 62 2994820 JUMP / 44.0 VTE; tick1684 OCR
+bud_amnesty_vl_afschr_2025,vzw_amnesty_vl,2025,77266,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 afschrijvingen 630 77266 JUMP; tick1684 OCR
+bud_amnesty_vl_andere_2025,vzw_amnesty_vl,2025,505118,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 505118 JUMP; tick1684 OCR
+bud_amnesty_vl_expl_2025,vzw_amnesty_vl,2025,16530,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 bedrijfswinst 16530 DROP from 279180; tick1684 OCR
+bud_amnesty_vl_fininc_2025,vzw_amnesty_vl,2025,29255,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 financiele opbrengsten 29255 DROP; tick1684 OCR
+bud_amnesty_vl_fincost_2025,vzw_amnesty_vl,2025,3183,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 financiele kosten 3183 JUMP; tick1684 OCR
+bud_amnesty_vl_pnl_2025,vzw_amnesty_vl,2025,42602,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 winst 42602 DROP from 310746; tick1684 OCR
+bud_amnesty_vl_vte_2025,vzw_amnesty_vl,2025,44.0,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 44.0 JUMP from 42.4; eoy 45.6; tick1684 OCR
+bud_amnesty_vl_commissaris_fee_2025,vzw_amnesty_vl,2025,7730,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 commissaris mandaat excl BTW 7730; VGD Bedrijfsrevisoren; tick1684 OCR
+bud_amnesty_vl_result_to_destin_2025,vzw_amnesty_vl,2025,92663,,,executed,src_amnesty_vl_jr2025_nbb,strong,YE2025 toevoeging bestemde fondsen 691 92663; tick1684 OCR
