@@ -48364,3 +48364,28 @@ bud_avansa_gent_expl_2025,vzw_avansa_gent,2025,-72199,,,executed,src_avansa_gent
 bud_avansa_gent_fininc_2025,vzw_avansa_gent,2025,224,,,executed,src_avansa_gent_jr2025_nbb,strong,YE2025 financiele opbrengsten 224 DROP; tick1661
 bud_avansa_gent_fincost_2025,vzw_avansa_gent,2025,2180,,,executed,src_avansa_gent_jr2025_nbb,strong,YE2025 financiele kosten 2180 JUMP; tick1661
 bud_avansa_gent_pnl_2025,vzw_avansa_gent,2025,-74156,,,executed,src_avansa_gent_jr2025_nbb,strong,YE2025 verlies -74156 DEEPER from -22161; tick1661
+bud_avansa_mzw_assets_2025,vzw_avansa_mzw,2025,732351,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 balanstotaal 732351 JUMP from 507071; tick1662
+bud_avansa_mzw_va_2025,vzw_avansa_mzw,2025,116250,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 vaste activa 116250 DROP (=MVA gebouwen); tick1662
+bud_avansa_mzw_mva_2025,vzw_avansa_mzw,2025,116250,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 materiele VA/gebouwen 116250 DROP; tick1662
+bud_avansa_mzw_vlottend_2025,vzw_avansa_mzw,2025,616101,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 vlottende activa 616101 JUMP; tick1662
+bud_avansa_mzw_handelsrecv_2025,vzw_avansa_mzw,2025,15008,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 handelsvorderingen ST 15008 DROP; tick1662
+bud_avansa_mzw_other_recv_2025,vzw_avansa_mzw,2025,107535,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 overige vorderingen ST 107535 JUMP; tick1662
+bud_avansa_mzw_cash_2025,vzw_avansa_mzw,2025,478799,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 liquide middelen 478799 JUMP from 228010; tick1662
+bud_avansa_mzw_prepaid_2025,vzw_avansa_mzw,2025,14759,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 14759 JUMP; tick1662
+bud_avansa_mzw_equity_2025,vzw_avansa_mzw,2025,549672,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 eigen vermogen 549672 JUMP; tick1662
+bud_avansa_mzw_destin_2025,vzw_avansa_mzw,2025,545000,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 bestemde fondsen 545000 JUMP from 354572; tick1662
+bud_avansa_mzw_overgedragen_2025,vzw_avansa_mzw,2025,4672,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 overgedragen winst 4672 JUMP; tick1662
+bud_avansa_mzw_debt_2025,vzw_avansa_mzw,2025,182679,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 schulden 182679 JUMP; tick1662
+bud_avansa_mzw_st_debt_2025,vzw_avansa_mzw,2025,178364,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 schulden ST 178364 JUMP; tick1662
+bud_avansa_mzw_lev_2025,vzw_avansa_mzw,2025,30884,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 leveranciers ST 30884 DROP; tick1662
+bud_avansa_mzw_taxsoc_2025,vzw_avansa_mzw,2025,147480,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 147480 JUMP (tax 25083 + soc 122397); tick1662
+bud_avansa_mzw_accrued_2025,vzw_avansa_mzw,2025,4315,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 4315 JUMP; tick1662
+bud_avansa_mzw_bruto_2025,vzw_avansa_mzw,2025,1104649,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 brutomarge 9900 1104649 JUMP ENVELOPE; tick1662
+bud_avansa_mzw_nr_opbr_2025,vzw_avansa_mzw,2025,773,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfsopbrengsten 76A 773; tick1662
+bud_avansa_mzw_pers_2025,vzw_avansa_mzw,2025,872044,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 bezoldigingen 62 872044 DROP / 7.2 VTE (DROP from 11.5); tick1662
+bud_avansa_mzw_afschr_2025,vzw_avansa_mzw,2025,38750,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 afschrijvingen 630 38750 flat; tick1662
+bud_avansa_mzw_andere_2025,vzw_avansa_mzw,2025,3201,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 3201; tick1662
+bud_avansa_mzw_expl_2025,vzw_avansa_mzw,2025,190654,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 bedrijfswinst 190654 JUMP; tick1662
+bud_avansa_mzw_fininc_2025,vzw_avansa_mzw,2025,573,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 financiele opbrengsten 573 DROP; tick1662
+bud_avansa_mzw_fincost_2025,vzw_avansa_mzw,2025,612,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 financiele kosten 612 DROP; tick1662
+bud_avansa_mzw_pnl_2025,vzw_avansa_mzw,2025,190615,,,executed,src_avansa_mzw_jr2025_nbb,strong,YE2025 winst 190615 JUMP; tick1662
