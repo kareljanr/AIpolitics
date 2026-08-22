@@ -48033,3 +48033,44 @@ bud_freeclinic_pnl_2025,vzw_freeclinic,2025,46690,,,executed,src_freeclinic_jr20
 bud_freeclinic_hypotheek_book_2025,vzw_freeclinic,2025,193491,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 zakelijke zekerheid boekwaarde 91611 193491; tick1649
 bud_freeclinic_hypotheek_inschrijving_2025,vzw_freeclinic,2025,99790,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 hypotheekinschrijving 91621 99790; tick1649
 bud_freeclinic_hypotheek_mandaat_2025,vzw_freeclinic,2025,352686,,,executed,src_freeclinic_jr2025_nbb,strong,YE2025 hypotheekmandaat 91631 352686; tick1649
+bud_samana_assets_2025,vzw_samana,2025,7758452,,,executed,src_samana_jr2025_nbb,strong,YE2025 balanstotaal 7758452 JUMP from 6727222; tick1651
+bud_samana_va_2025,vzw_samana,2025,393130,,,executed,src_samana_jr2025_nbb,strong,YE2025 vaste activa 393130 DROP; tick1651
+bud_samana_iva_2025,vzw_samana,2025,387523,,,executed,src_samana_jr2025_nbb,strong,YE2025 immateriele VA 387523 DROP; tick1651
+bud_samana_mva_2025,vzw_samana,2025,1167,,,executed,src_samana_jr2025_nbb,strong,YE2025 materiele VA 1167 DROP; tick1651
+bud_samana_fva_2025,vzw_samana,2025,4440,,,executed,src_samana_jr2025_nbb,strong,YE2025 financiele VA 4440 flat; tick1651
+bud_samana_vlottend_2025,vzw_samana,2025,7365322,,,executed,src_samana_jr2025_nbb,strong,YE2025 vlottende activa 7365322 JUMP; tick1651
+bud_samana_handelsrecv_2025,vzw_samana,2025,1528276,,,executed,src_samana_jr2025_nbb,strong,YE2025 handelsvorderingen ST 1528276 DROP; tick1651
+bud_samana_other_recv_2025,vzw_samana,2025,296385,,,executed,src_samana_jr2025_nbb,strong,YE2025 overige vorderingen ST 296385 DROP from 1078591; tick1651
+bud_samana_beleg_2025,vzw_samana,2025,5401513,,,executed,src_samana_jr2025_nbb,strong,YE2025 geldbeleggingen 5401513 JUMP from 1498; tick1651
+bud_samana_cash_2025,vzw_samana,2025,132713,,,executed,src_samana_jr2025_nbb,strong,YE2025 liquide middelen 132713 DROP from 3494664; tick1651
+bud_samana_prepaid_2025,vzw_samana,2025,6434,,,executed,src_samana_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 6434 DROP; tick1651
+bud_samana_equity_2025,vzw_samana,2025,3955882,,,executed,src_samana_jr2025_nbb,strong,YE2025 eigen vermogen 3955882 JUMP; tick1651
+bud_samana_destin_2025,vzw_samana,2025,1670000,,,executed,src_samana_jr2025_nbb,strong,YE2025 bestemde fondsen 1670000 JUMP from 840000; tick1651
+bud_samana_overgedragen_2025,vzw_samana,2025,2285882,,,executed,src_samana_jr2025_nbb,strong,YE2025 overgedragen winst 2285882 JUMP; tick1651
+bud_samana_voorzieningen_2025,vzw_samana,2025,279398,,,executed,src_samana_jr2025_nbb,strong,YE2025 voorzieningen 279398 DROP (incl terug te betalen subsidies 94000); tick1651
+bud_samana_debt_2025,vzw_samana,2025,3523172,,,executed,src_samana_jr2025_nbb,strong,YE2025 schulden 3523172 DROP; tick1651
+bud_samana_st_debt_2025,vzw_samana,2025,3373515,,,executed,src_samana_jr2025_nbb,strong,YE2025 schulden ST 3373515 DROP; tick1651
+bud_samana_lev_2025,vzw_samana,2025,1855461,,,executed,src_samana_jr2025_nbb,strong,YE2025 leveranciers ST 1855461 DROP; tick1651
+bud_samana_taxsoc_2025,vzw_samana,2025,1516594,,,executed,src_samana_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 1516594 JUMP (tax 79776 + soc 1436818); tick1651
+bud_samana_accrued_2025,vzw_samana,2025,149657,,,executed,src_samana_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 149657 DROP; tick1651
+bud_samana_opbr_2025,vzw_samana,2025,17662718,,,executed,src_samana_jr2025_nbb,strong,YE2025 bedrijfsopbrengsten 70/76A 17662718 DROP ENVELOPE; tick1651
+bud_samana_omzet_2025,vzw_samana,2025,5761776,,,executed,src_samana_jr2025_nbb,strong,YE2025 omzet 70 5761776 JUMP; tick1651
+bud_samana_code73_2025,vzw_samana,2025,11732027,,,executed,src_samana_jr2025_nbb,strong,YE2025 lidgeld/schenk/legaten/subsidies 73 11732027 DROP; tick1651
+bud_samana_lid_2025,vzw_samana,2025,8347861,,,executed,src_samana_jr2025_nbb,strong,YE2025 lidgelden 730 8347861 DROP; tick1651
+bud_samana_schenk_2025,vzw_samana,2025,31144,,,executed,src_samana_jr2025_nbb,strong,YE2025 schenkingen 731 31144 DROP; tick1651
+bud_samana_legs_2025,vzw_samana,2025,7363,,,executed,src_samana_jr2025_nbb,strong,YE2025 legaten 732 7363 NEW; tick1651
+bud_samana_subs_2025,vzw_samana,2025,3345659,,,executed,src_samana_jr2025_nbb,strong,YE2025 subsidies 733 3345659 JUMP; tick1651
+bud_samana_andere_opbr_2025,vzw_samana,2025,42842,,,executed,src_samana_jr2025_nbb,strong,YE2025 andere bedrijfsopbrengsten 74 42842 DROP; tick1651
+bud_samana_nr_opbr_2025,vzw_samana,2025,126074,,,executed,src_samana_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfsopbrengsten 76A 126074 JUMP; tick1651
+bud_samana_diensten_2025,vzw_samana,2025,8558012,,,executed,src_samana_jr2025_nbb,strong,YE2025 diensten 61 8558012 DROP; tick1651
+bud_samana_pers_2025,vzw_samana,2025,7324574,,,executed,src_samana_jr2025_nbb,strong,YE2025 bezoldigingen 62 7324574 JUMP / 79.6 VTE (DROP from 81.7); tick1651
+bud_samana_afschr_2025,vzw_samana,2025,202293,,,executed,src_samana_jr2025_nbb,strong,YE2025 afschrijvingen 630 202293 flat; tick1651
+bud_samana_wv_2025,vzw_samana,2025,4367,,,executed,src_samana_jr2025_nbb,strong,YE2025 waardeverminderingen 631/4 4367 DROP; tick1651
+bud_samana_voorz_mut_2025,vzw_samana,2025,-111882,,,executed,src_samana_jr2025_nbb,strong,YE2025 voorzieningen besteding 635/9 -111882; tick1651
+bud_samana_andere_2025,vzw_samana,2025,172380,,,executed,src_samana_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 172380 JUMP; tick1651
+bud_samana_nr_kost_2025,vzw_samana,2025,51016,,,executed,src_samana_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfskosten 66A 51016 DROP; tick1651
+bud_samana_expl_2025,vzw_samana,2025,1461960,,,executed,src_samana_jr2025_nbb,strong,YE2025 bedrijfswinst 1461960 JUMP; tick1651
+bud_samana_fininc_2025,vzw_samana,2025,126171,,,executed,src_samana_jr2025_nbb,strong,YE2025 financiele opbrengsten 126171 JUMP; tick1651
+bud_samana_fincost_2025,vzw_samana,2025,1590,,,executed,src_samana_jr2025_nbb,strong,YE2025 financiele kosten 1590 DROP; tick1651
+bud_samana_pnl_2025,vzw_samana,2025,1586540,,,executed,src_samana_jr2025_nbb,strong,YE2025 winst 1586540 JUMP; tick1651
+bud_samana_commissaris_2025,vzw_samana,2025,9189,,,executed,src_samana_jr2025_nbb,strong,YE2025 commissaris fee 9505 9189; tick1651
