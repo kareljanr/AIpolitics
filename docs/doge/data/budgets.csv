@@ -50098,3 +50098,23 @@ bud_molenheide_diensten_2025,nv_molenheide_wzc,2025,1501671,,,executed,src_molen
 bud_molenheide_expl_2025,nv_molenheide_wzc,2025,1094535,,,executed,src_molenheide_nbb_ye2025,strong,NBB bedrijfswinst 9901 1094535; tick1735
 bud_molenheide_fincost_2025,nv_molenheide_wzc,2025,573126,,,executed,src_molenheide_nbb_ye2025,strong,NBB financiële kosten 573126; tick1735
 bud_molenheide_pnl_2025,nv_molenheide_wzc,2025,405436,,,executed,src_molenheide_nbb_ye2025,strong,NBB PnL 9904 405436 retained (no dividend); AV 13.05.2026; Mazars zonder voorbehoud; tick1735
+bud_gravenkasteel_assets_2025,vzw_gravenkasteel,2025,49003218,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB 20/58 assets 49003218; tick1736
+bud_gravenkasteel_va_2025,vzw_gravenkasteel,2025,39832655,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB VA 21/28 39832655; tick1736
+bud_gravenkasteel_mva_2025,vzw_gravenkasteel,2025,9718577,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB MVA 9718577; tick1736
+bud_gravenkasteel_fva_2025,vzw_gravenkasteel,2025,29000000,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB FVA verbonden vorderingen 29000000 JUMP vs 26000000; FOI Colisée; tick1736
+bud_gravenkasteel_vlottend_2025,vzw_gravenkasteel,2025,8634593,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB vlottend 8634593; tick1736
+bud_gravenkasteel_cash_2025,vzw_gravenkasteel,2025,130872,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB liquide 130872 JUMP vs 22576; tick1736
+bud_gravenkasteel_equity_2025,vzw_gravenkasteel,2025,21280030,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB EV 21280030; tick1736
+bud_gravenkasteel_kapsubs_2025,vzw_gravenkasteel,2025,149044,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB kapitaalsubsidies 149044; tick1736
+bud_gravenkasteel_debt_2025,vzw_gravenkasteel,2025,27723188,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB schulden 27723188; tick1736
+bud_gravenkasteel_st_leveranciers_2025,vzw_gravenkasteel,2025,9107628,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB ST leveranciers 9107628; tick1736
+bud_gravenkasteel_st_soc_2025,vzw_gravenkasteel,2025,12048820,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB ST bezoldigingen/sociale 12048820; tick1736
+bud_gravenkasteel_overlopende_2025,vzw_gravenkasteel,2025,3470508,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB overlopende 3470508; tick1736
+bud_gravenkasteel_opbr_2025,vzw_gravenkasteel,2025,101464389,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB bedrijfsopbrengsten 101464389; tick1736
+bud_gravenkasteel_omzet_2025,vzw_gravenkasteel,2025,88200515,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB omzet 70 88200515; FOI multi-site/RIZIV; tick1736
+bud_gravenkasteel_code73_2025,vzw_gravenkasteel,2025,40122,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB code73 40122 DROP vs 123534; tick1736
+bud_gravenkasteel_andere_opbr_2025,vzw_gravenkasteel,2025,13189657,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB andere 74 13189657; FOI split; tick1736
+bud_gravenkasteel_staff_2025,vzw_gravenkasteel,2025,61893515,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB 62 61893515 / VTE 1007; tick1736
+bud_gravenkasteel_diensten_2025,vzw_gravenkasteel,2025,30904543,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB diensten 61 30904543 JUMP vs 29316933; tick1736
+bud_gravenkasteel_expl_2025,vzw_gravenkasteel,2025,1920243,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB bedrijfswinst 9901 1920243; tick1736
+bud_gravenkasteel_pnl_2025,vzw_gravenkasteel,2025,2600926,,,executed,src_gravenkasteel_nbb_ye2025,strong,NBB PnL 9904 2600926; AV 30.06.2026; EY zonder voorbehoud; tick1736
