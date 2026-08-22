@@ -47636,3 +47636,42 @@ bud_welzijnsverbond_fininc_2025,vzw_welzijnsverbond,2025,11533,,,executed,src_we
 bud_welzijnsverbond_fincost_2025,vzw_welzijnsverbond,2025,450,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 financiele kosten 450; tick1637
 bud_welzijnsverbond_pnl_2025,vzw_welzijnsverbond,2025,211744,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 winst 211744 JUMP; tick1637
 bud_welzijnsverbond_commissaris_fee_2025,vzw_welzijnsverbond,2025,5380,,,executed,src_welzijnsverbond_jr2025_nbb,strong,YE2025 commissaris ereloon 5380; tick1637
+bud_sos_assets_2025,vzw_sos_kinderdorpen,2025,16018823,,,executed,src_sos_jr2025_nbb,strong,YE2025 balanstotaal 16018823 JUMP from 14746246; tick1638
+bud_sos_va_2025,vzw_sos_kinderdorpen,2025,4111937,,,executed,src_sos_jr2025_nbb,strong,YE2025 vaste activa 4111937 JUMP; tick1638
+bud_sos_iva_2025,vzw_sos_kinderdorpen,2025,213,,,executed,src_sos_jr2025_nbb,strong,YE2025 immateriele VA 213 flat; tick1638
+bud_sos_mva_2025,vzw_sos_kinderdorpen,2025,4111724,,,executed,src_sos_jr2025_nbb,strong,YE2025 materiele VA 4111724 JUMP (terreinen/gebouwen 3072718; in aanbouw 381227); tick1638
+bud_sos_vlottend_2025,vzw_sos_kinderdorpen,2025,11906886,,,executed,src_sos_jr2025_nbb,strong,YE2025 vlottende activa 11906886 DROP; tick1638
+bud_sos_handelsrecv_2025,vzw_sos_kinderdorpen,2025,447501,,,executed,src_sos_jr2025_nbb,strong,YE2025 handelsvorderingen ST 447501 JUMP; tick1638
+bud_sos_other_recv_2025,vzw_sos_kinderdorpen,2025,947974,,,executed,src_sos_jr2025_nbb,strong,YE2025 overige vorderingen ST 947974 DROP; tick1638
+bud_sos_beleg_2025,vzw_sos_kinderdorpen,2025,5031151,,,executed,src_sos_jr2025_nbb,strong,YE2025 geldbeleggingen 5031151 JUMP from 1022927; tick1638
+bud_sos_cash_2025,vzw_sos_kinderdorpen,2025,5227371,,,executed,src_sos_jr2025_nbb,strong,YE2025 liquide middelen 5227371 DROP from 9623409; tick1638
+bud_sos_prepaid_2025,vzw_sos_kinderdorpen,2025,250829,,,executed,src_sos_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 250829; tick1638
+bud_sos_equity_2025,vzw_sos_kinderdorpen,2025,11447343,,,executed,src_sos_jr2025_nbb,strong,YE2025 eigen vermogen 11447343 JUMP; tick1638
+bud_sos_fondsen_2025,vzw_sos_kinderdorpen,2025,934701,,,executed,src_sos_jr2025_nbb,strong,YE2025 fondsen 934701 flat; tick1638
+bud_sos_destin_2025,vzw_sos_kinderdorpen,2025,7397693,,,executed,src_sos_jr2025_nbb,strong,YE2025 bestemde fondsen 7397693 JUMP (passif social 3250k / invest 3500k / Chantevent); tick1638
+bud_sos_overgedragen_2025,vzw_sos_kinderdorpen,2025,3083982,,,executed,src_sos_jr2025_nbb,strong,YE2025 overgedragen winst 3083982 flat; tick1638
+bud_sos_kapsubs_2025,vzw_sos_kinderdorpen,2025,30966,,,executed,src_sos_jr2025_nbb,strong,YE2025 kapitaalsubsidies 30966 DROP; tick1638
+bud_sos_voorzieningen_2025,vzw_sos_kinderdorpen,2025,263186,,,executed,src_sos_jr2025_nbb,strong,YE2025 voorzieningen 263186 JUMP; tick1638
+bud_sos_debt_2025,vzw_sos_kinderdorpen,2025,4308295,,,executed,src_sos_jr2025_nbb,strong,YE2025 schulden 4308295 JUMP; tick1638
+bud_sos_st_debt_2025,vzw_sos_kinderdorpen,2025,3344902,,,executed,src_sos_jr2025_nbb,strong,YE2025 schulden ST 3344902 JUMP; tick1638
+bud_sos_lev_2025,vzw_sos_kinderdorpen,2025,617241,,,executed,src_sos_jr2025_nbb,strong,YE2025 leveranciers ST 617241 JUMP; tick1638
+bud_sos_taxsoc_2025,vzw_sos_kinderdorpen,2025,1098152,,,executed,src_sos_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 1098152 JUMP (tax 83710 + soc 1014442); tick1638
+bud_sos_othdebt_2025,vzw_sos_kinderdorpen,2025,1629509,,,executed,src_sos_jr2025_nbb,strong,YE2025 overige schulden ST 1629509 JUMP; tick1638
+bud_sos_accrued_2025,vzw_sos_kinderdorpen,2025,963392,,,executed,src_sos_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 963392 (successions 694210 + proj intl 165385 + BE 103797); tick1638
+bud_sos_opbr_2025,vzw_sos_kinderdorpen,2025,14157910,,,executed,src_sos_jr2025_nbb,strong,YE2025 bedrijfsopbrengsten 14157910 DROP ENVELOPE; tick1638
+bud_sos_omzet_2025,vzw_sos_kinderdorpen,2025,0,,,executed,src_sos_jr2025_nbb,strong,YE2025 omzet 70 empty; tick1638
+bud_sos_code73_2025,vzw_sos_kinderdorpen,2025,13725509,,,executed,src_sos_jr2025_nbb,strong,YE2025 lidgeld/schenk/legaten/subsidies 73 13725509 DROP; tick1638
+bud_sos_dons_2025,vzw_sos_kinderdorpen,2025,5398369,,,executed,src_sos_jr2025_nbb,strong,YE2025 dons/schenkingen 731 5398369 DROP; tick1638
+bud_sos_legs_2025,vzw_sos_kinderdorpen,2025,2214783,,,executed,src_sos_jr2025_nbb,strong,YE2025 legaten 732 2214783 DROP from 4938129; tick1638
+bud_sos_subsidies_2025,vzw_sos_kinderdorpen,2025,6112358,,,executed,src_sos_jr2025_nbb,strong,YE2025 subsidies 733 6112358 JUMP; tick1638
+bud_sos_andere_opbr_2025,vzw_sos_kinderdorpen,2025,431658,,,executed,src_sos_jr2025_nbb,strong,YE2025 andere bedrijfsopbrengsten 74 431658 JUMP; tick1638
+bud_sos_diensten_2025,vzw_sos_kinderdorpen,2025,3784632,,,executed,src_sos_jr2025_nbb,strong,YE2025 diensten en diverse goederen 61 3784632 JUMP; tick1638
+bud_sos_pers_2025,vzw_sos_kinderdorpen,2025,6846567,,,executed,src_sos_jr2025_nbb,strong,YE2025 bezoldigingen 62 6846567 JUMP / 90.2 VTE; tick1638
+bud_sos_afschr_2025,vzw_sos_kinderdorpen,2025,165368,,,executed,src_sos_jr2025_nbb,strong,YE2025 afschrijvingen 630 165368 JUMP; tick1638
+bud_sos_andere_2025,vzw_sos_kinderdorpen,2025,2258485,,,executed,src_sos_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 2258485 DROP; tick1638
+bud_sos_expl_2025,vzw_sos_kinderdorpen,2025,613308,,,executed,src_sos_jr2025_nbb,strong,YE2025 bedrijfswinst 613308 DROP from 4389190; tick1638
+bud_sos_fininc_2025,vzw_sos_kinderdorpen,2025,77163,,,executed,src_sos_jr2025_nbb,strong,YE2025 financiele opbrengsten 77163; tick1638
+bud_sos_fincost_2025,vzw_sos_kinderdorpen,2025,19639,,,executed,src_sos_jr2025_nbb,strong,YE2025 financiele kosten 19639; tick1638
+bud_sos_tax_2025,vzw_sos_kinderdorpen,2025,23139,,,executed,src_sos_jr2025_nbb,strong,YE2025 belastingen 23139; tick1638
+bud_sos_pnl_2025,vzw_sos_kinderdorpen,2025,647693,,,executed,src_sos_jr2025_nbb,strong,YE2025 winst 647693 DROP from 4426217; tick1638
+bud_sos_commissaris_fee_2025,vzw_sos_kinderdorpen,2025,5445,,,executed,src_sos_jr2025_nbb,strong,YE2025 commissaris ereloon 5445 (+attest 12427); tick1638
