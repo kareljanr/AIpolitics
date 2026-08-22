@@ -50007,3 +50007,20 @@ bud_lsc_nb_werkingsuitkering_2025,vzw_lsc_noordbrabant,2025,460354,,,executed,sr
 bud_lsc_nb_diensten_2025,vzw_lsc_noordbrabant,2025,227175,,,executed,src_lsc_noordbrabant_nbb_ye2025,strong,NBB diensten 227175.09 (verplaatsingen 112296); tick1729
 bud_lsc_nb_staff_2025,vzw_lsc_noordbrabant,2025,15920,,,executed,src_lsc_noordbrabant_nbb_ye2025,strong,NBB bezoldigingen 15919.98; VTE Unknown; tick1729
 bud_lsc_nb_pnl_2025,vzw_lsc_noordbrabant,2025,203213,,,executed,src_lsc_noordbrabant_nbb_ye2025,strong,NBB overschot boekjaar 203212.58; AV ~04.05.2026; tick1729
+bud_terengelen_assets_2025,vzw_ter_engelen,2025,15006980,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB 20/58 assets 15006980; tick1731
+bud_terengelen_va_2025,vzw_ter_engelen,2025,9895246,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB VA/MVA 9895246; tick1731
+bud_terengelen_buildings_2025,vzw_ter_engelen,2025,9513052,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB terreinen/gebouwen 9513052; tick1731
+bud_terengelen_vlottend_2025,vzw_ter_engelen,2025,5111734,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB vlottend 5111734; tick1731
+bud_terengelen_beleg_2025,vzw_ter_engelen,2025,3778861,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB beleggingen 3778861; tick1731
+bud_terengelen_cash_2025,vzw_ter_engelen,2025,134923,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB liquide 134923 DROP vs 623975; tick1731
+bud_terengelen_equity_2025,vzw_ter_engelen,2025,8386880,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB EV 8386880; tick1731
+bud_terengelen_voorzieningen_2025,vzw_ter_engelen,2025,450000,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB voorzieningen onderhoud 450000; tick1731
+bud_terengelen_debt_2025,vzw_ter_engelen,2025,6170100,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB schulden 6170100; tick1731
+bud_terengelen_lt_fin_2025,vzw_ter_engelen,2025,4468202,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB LT kredietinstellingen 4468202; tick1731
+bud_terengelen_opbr_2025,vzw_ter_engelen,2025,8064590,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB bedrijfsopbrengsten 8064590; tick1731
+bud_terengelen_omzet_2025,vzw_ter_engelen,2025,6652388,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB omzet 70 6652388; tick1731
+bud_terengelen_code73_2025,vzw_ter_engelen,2025,1360061,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB code73 1360061; tick1731
+bud_terengelen_staff_2025,vzw_ter_engelen,2025,5878986,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB 62 5878986 / VTE 87.5; tick1731
+bud_terengelen_diensten_2025,vzw_ter_engelen,2025,1584761,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB diensten 61 1584761 JUMP vs 802286; tick1731
+bud_terengelen_expl_2025,vzw_ter_engelen,2025,-349347,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB bedrijfswinst 9901 -349347 LOSS FLIP; tick1731
+bud_terengelen_pnl_2025,vzw_ter_engelen,2025,-482826,,,executed,src_ter_engelen_nbb_ye2025,strong,NBB PnL 9904 -482826 LOSS FLIP; AV 20.05.2026; tick1731

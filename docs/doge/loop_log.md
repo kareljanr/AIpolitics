@@ -20792,3 +20792,10 @@ Append-only. Each tick adds a short entry.
 - Inventory: entities **1458** · sources **3999** · budgets **50008** · commitments **5314** · leaderboard **7515** · FOI ready **1357** / answered **9** / partial **27** / total **1405**.
 - Next: rq_1731 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 if JR euros / APEFE if CDN 200 / ABS/POV/BVAS / IOED / HVZ / IGS / WZC / LSC / other. Do NOT redo LSC dual/Dommelhof/GO!/Natuurpunt/OVSG. **Next every-10 is 1740**.
 
+### 2026-08-24T02:25:00Z - tick 1731
+- Unit: rq_1731 Woonzorgcentrum Ter Engelen VZW (leftover VL WZC Lokeren) (KBO **0430.882.809**; VZW; Polderstraat 4 9160 Lokeren; terengelen.be; info@covida.be; official NBB **VOL-VZW** YE2025 deposit **2026-00322588** CDN **200**; AV **20.05.2026**; commissaris Geert Van Hemelryck). Honest leftover AGB Bornem still JR2024-only. NSZ CDN **403**. Dijk92 CDN **403**. APEFE CDN **403**. Preferred AGB/NSZ still blocked — leftover Ter Engelen official NBB JR2025 **live** taken (WZC residual after Dommelhof/LSC). New entity vzw_ter_engelen. Envelope = bedrijfsopbrengsten **8064590**. NOT every-10 (next 1740).
+- Found (NBB YE2025 strong): assets **15006980** (VA **9895246** / buildings **9513052** / beleg **3778861** / cash **134923** DROP); equity **8386880**; voorzieningen **450000**; debt **6170100** (LT fin **4468202**); opbr **8064590** (omzet **6652388** / code73 **1360061**); staff **5878986** / VTE **87,5**; diensten **1584761** JUMP; afschr **478312** JUMP; expl **-349347**; PnL **-482826** LOSS FLIP.
+- Wrote: sources +4; entities +1 vzw_ter_engelen; budgets +17; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1731=done + rq_1732 spawn; ticks_completed=1731. Raw docs/doge/raw/tick1731/.
+- FOI opened: gap_terengelen_opbr_8_06m_staff_5_88m_loss_0_48m_l5 ready (code73 donor / diensten JUMP / Covida / AV). Do not send.
+- Next: rq_1732 leftover AGB/**WZC Witte Meren if CDN 200**/NSZ if CDN 200 / Bosgroep/Dijk92 / APEFE / ABS/POV/BVAS / IOED/HVZ/IGS/WZC/LSC. Do NOT redo TerEngelen/LSC/Dommelhof/GO!/Natuurpunt. NOT every-10 (next **1740**).
+
