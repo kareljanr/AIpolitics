@@ -46069,3 +46069,33 @@ bud_bbl_onttrekking_2025,vzw_bbl,2025,69675,,,executed,src_bbl_jr2025_nbb,strong
 bud_bbl_toevoeg_2025,vzw_bbl,2025,61788,,,executed,src_bbl_jr2025_nbb,strong,2025 toevoeging bestemde reserves 691 61788; tick1588; primary official NBB VKT-VZW JR2025 deposit 2026-00195873
 bud_bbl_capex_2025,vzw_bbl,2025,24689,,,executed,src_bbl_jr2025_nbb,strong,2025 IVA aanschaffingen 24689; tick1588; primary official NBB VKT-VZW JR2025 deposit 2026-00195873
 bud_bbl_commissaris_2025,vzw_bbl,2025,5736,,,executed,src_bbl_jr2025_nbb,strong,2025 commissaris fee Clybouw 5736 (5364.20 + naftrekbare BTW); tick1588; primary official NBB VKT-VZW JR2025 deposit 2026-00195873
+bud_scwt_assets_2025,vzw_scwt,2025,333406,,,executed,src_scwt_jr2025_nbb,strong,2025 balanstotaal 333406 DROP (was 346706 restated); tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_va_2025,vzw_scwt,2025,2718,,,executed,src_scwt_jr2025_nbb,strong,2025 vaste activa 2718 DROP; tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_iva_2025,vzw_scwt,2025,678,,,executed,src_scwt_jr2025_nbb,strong,2025 IVA 678 DROP; tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_mva_2025,vzw_scwt,2025,2040,,,executed,src_scwt_jr2025_nbb,strong,2025 MVA 2040 JUMP (install 774 / meubilair 1266; capex 2493); tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_current_2025,vzw_scwt,2025,330688,,,executed,src_scwt_jr2025_nbb,strong,2025 vlottende activa 330688 DROP; tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_trade_recv_2025,vzw_scwt,2025,76637,,,executed,src_scwt_jr2025_nbb,strong,2025 handelsvorderingen 76637 DROP (was 145562); tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_other_recv_2025,vzw_scwt,2025,109077,,,executed,src_scwt_jr2025_nbb,strong,2025 overige vorderingen 109077 JUMP (was 838); tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_beleg_2025,vzw_scwt,2025,0,,,executed,src_scwt_jr2025_nbb,strong,2025 geldbeleggingen 0 (was 1250); tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_cash_2025,vzw_scwt,2025,144006,,,executed,src_scwt_jr2025_nbb,strong,2025 liquide middelen 144006 DROP (was 191932); tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_prepaid_2025,vzw_scwt,2025,969,,,executed,src_scwt_jr2025_nbb,strong,2025 overlopend actief 969; tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_equity_2025,vzw_scwt,2025,198560,,,executed,src_scwt_jr2025_nbb,strong,2025 eigen vermogen 198560 JUMP; tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_destin_2025,vzw_scwt,2025,7000,,,executed,src_scwt_jr2025_nbb,strong,2025 bestemde fondsen 7000 identiek; tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_overgedragen_2025,vzw_scwt,2025,191560,,,executed,src_scwt_jr2025_nbb,strong,2025 overgedragen winst 191560 JUMP; tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_debt_2025,vzw_scwt,2025,134846,,,executed,src_scwt_jr2025_nbb,strong,2025 schulden 134846 JUMP; tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_st_2025,vzw_scwt,2025,133919,,,executed,src_scwt_jr2025_nbb,strong,2025 schulden <=1j 133919; tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_lev_2025,vzw_scwt,2025,79037,,,executed,src_scwt_jr2025_nbb,strong,2025 leveranciers 79037 JUMP (was 25591); tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_taxsoc_2025,vzw_scwt,2025,37382,,,executed,src_scwt_jr2025_nbb,strong,2025 belastingen/bezoldigingen/sociale 37382 (tax 25817 + soc 11565); tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_oth_debt_2025,vzw_scwt,2025,17500,,,executed,src_scwt_jr2025_nbb,strong,2025 overige schulden ST 17500 DROP; tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_accrued_2025,vzw_scwt,2025,927,,,executed,src_scwt_jr2025_nbb,strong,2025 overlopend passief 927 DROP; tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_bruto_2025,vzw_scwt,2025,178565,,,executed,src_scwt_jr2025_nbb,strong,2025 brutomarge 9900 178565 DROP (omzet 70 empty / 73 empty / 60/61 empty MIC); tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_pers_2025,vzw_scwt,2025,146554,,,executed,src_scwt_jr2025_nbb,strong,2025 bezoldigingen 62 146554 / 1.7 VTE UP (was 119555 / 2; YE 2.3; uren 3001; PC 2000/3350); tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_vte_2025,vzw_scwt,2025,1.7,,,executed,src_scwt_jr2025_nbb,strong,2025 gemiddeld VTE 1.7 (sociale balans; YE 2.3); tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_afschr_2025,vzw_scwt,2025,6419,,,executed,src_scwt_jr2025_nbb,strong,2025 afschrijvingen 6419; tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_other_2025,vzw_scwt,2025,819,,,executed,src_scwt_jr2025_nbb,strong,2025 andere bedrijfskosten 819; tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_expl_2025,vzw_scwt,2025,24773,,,executed,src_scwt_jr2025_nbb,strong,2025 bedrijfswinst 24773 PROFIT DROP (was 125234); tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_fininc_2025,vzw_scwt,2025,15,,,executed,src_scwt_jr2025_nbb,strong,2025 financiele opbrengsten 15; tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_fincost_2025,vzw_scwt,2025,389,,,executed,src_scwt_jr2025_nbb,strong,2025 financiele kosten 389; tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_tax_2025,vzw_scwt,2025,6739,,,executed,src_scwt_jr2025_nbb,strong,2025 belastingen op resultaat 6739; tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_pnl_2025,vzw_scwt,2025,17660,,,executed,src_scwt_jr2025_nbb,strong,2025 te bestemmen resultaat 17660 PROFIT DROP (was 91394); tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
+bud_scwt_capex_2025,vzw_scwt,2025,2493,,,executed,src_scwt_jr2025_nbb,strong,2025 MVA aanschaffingen 2493; tick1589; primary official NBB MIC-VZW JR2025 deposit 2026-00232537; PY restated
