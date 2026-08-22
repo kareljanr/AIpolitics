@@ -50253,3 +50253,17 @@ bud_hofschoten_expl_2025,bv_hofschoten,2025,-260036,,,executed,src_hofschoten_nb
 bud_hofschoten_pnl_2025,bv_hofschoten,2025,-282679,,,executed,src_hofschoten_nbb_ye2025,strong,NBB PnL 9904 -282679; AV 08.05.2026; Mazars zonder voorbehoud + 5:153; tick1746
 bud_hofschoten_lt_other_loans_2025,bv_hofschoten,2025,1280225,,,executed,src_hofschoten_nbb_ye2025,strong,NBB LT overige leningen 1280225 all >5y; FOI creditor; tick1746
 bud_hofschoten_aedifica_lease_ob_2025,bv_hofschoten,2025,21137830,,,executed,src_hofschoten_nbb_ye2025,strong,NBB off-balance future Aedifica rents 21137830 to 14.12.2045; bankgarantie 493407; tick1746
+bud_zusterhof_assets_2025,vzw_zusterhof,2025,28530472,,,executed,src_zusterhof_nbb_ye2025,strong,NBB 20/58 assets 28530472 DROP vs 29449648; tick1747
+bud_zusterhof_va_2025,vzw_zusterhof,2025,20893000,,,executed,src_zusterhof_nbb_ye2025,strong,NBB VA 20893000; buildings 19954667; in aanbouw 427058; tick1747
+bud_zusterhof_vlottend_2025,vzw_zusterhof,2025,7637472,,,executed,src_zusterhof_nbb_ye2025,strong,NBB vlottend 7637472 DROP; tick1747
+bud_zusterhof_cash_2025,vzw_zusterhof,2025,2401443,,,executed,src_zusterhof_nbb_ye2025,strong,NBB liquide 2401443 DROP vs 2555796; tick1747
+bud_zusterhof_lt_recv_2025,vzw_zusterhof,2025,2082519,,,executed,src_zusterhof_nbb_ye2025,strong,NBB LT overige vorderingen 2082519 DROP vs 2725505; FOI counterparties; tick1747
+bud_zusterhof_equity_2025,vzw_zusterhof,2025,15037745,,,executed,src_zusterhof_nbb_ye2025,strong,NBB EV 15037745; kapitaalsubsidies 6081249; tick1747
+bud_zusterhof_debt_2025,vzw_zusterhof,2025,13492727,,,executed,src_zusterhof_nbb_ye2025,strong,NBB schulden 13492727 DROP; LT bank 9446051; tick1747
+bud_zusterhof_omzet_2025,vzw_zusterhof,2025,12672532,,,executed,src_zusterhof_nbb_ye2025,strong,NBB omzet 70 WZC 12672532; tick1747
+bud_zusterhof_subs_2025,vzw_zusterhof,2025,2580277,,,executed,src_zusterhof_nbb_ye2025,strong,NBB 733 subsidies 2580277 DROP vs 2744071; FOI split; tick1747
+bud_zusterhof_bedrijfsopbr_2025,vzw_zusterhof,2025,15410578,,,executed,src_zusterhof_nbb_ye2025,strong,NBB bedrijfsopbrengsten 70/76A 15410578; tick1747
+bud_zusterhof_staff_2025,vzw_zusterhof,2025,9758965,,,executed,src_zusterhof_nbb_ye2025,strong,NBB 62 9758965 / VTE 151.1 JUMP vs 145.3; interim 617 440422 DROP vs 1180124; tick1747
+bud_zusterhof_diensten_2025,vzw_zusterhof,2025,3094996,,,executed,src_zusterhof_nbb_ye2025,strong,NBB 61 diensten 3094996 DROP vs 3698737; tick1747
+bud_zusterhof_expl_2025,vzw_zusterhof,2025,871860,,,executed,src_zusterhof_nbb_ye2025,strong,NBB bedrijfswinst 9901 871860 JUMP vs 45680; tick1747
+bud_zusterhof_pnl_2025,vzw_zusterhof,2025,377671,,,executed,src_zusterhof_nbb_ye2025,strong,NBB PnL 9904 377671 (vs -340335); AV 05.06.2026; tick1747
