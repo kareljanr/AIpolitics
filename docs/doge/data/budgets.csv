@@ -49362,3 +49362,41 @@ bud_domus_medica_fincost_2025,vzw_domus_medica,2025,21943,,,executed,src_domus_m
 bud_domus_medica_pnl_2025,vzw_domus_medica,2025,-294137,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 verlies -294137 JUMP loss; tick1693
 bud_domus_medica_vte_2025,vzw_domus_medica,2025,27.3,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 27.3 JUMP from 24.6; eoy 27.4; tick1693
 bud_domus_medica_commissaris_fee_2025,vzw_domus_medica,2025,9804,,,executed,src_domus_medica_jr2025_nbb,strong,YE2025 commissaris bezoldiging 9804; HLB Dodémont-Van Impe; tick1693
+bud_oxfam_oww_assets_2025,vzw_oxfam_oww,2025,5652687,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 balanstotaal 5652687 JUMP from 5344223; tick1694
+bud_oxfam_oww_va_2025,vzw_oxfam_oww,2025,4448208,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 vaste activa 4448208 JUMP; tick1694
+bud_oxfam_oww_mva_2025,vzw_oxfam_oww,2025,243144,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 MVA 243144 (gebouwen 195779 + meubilair 47365); tick1694
+bud_oxfam_oww_fva_2025,vzw_oxfam_oww,2025,4204975,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 financiele VA 4204975 (OFT shares 1403500 + LT vorderingen 2736881 notes); tick1694
+bud_oxfam_oww_vlottend_2025,vzw_oxfam_oww,2025,1204479,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 vlottende activa 1204479 JUMP; tick1694
+bud_oxfam_oww_stock_2025,vzw_oxfam_oww,2025,15968,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 voorraden 15968 DROP; tick1694
+bud_oxfam_oww_handelsrecv_2025,vzw_oxfam_oww,2025,753938,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 handelsvorderingen ST 753938 JUMP; tick1694
+bud_oxfam_oww_other_recv_2025,vzw_oxfam_oww,2025,12338,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 overige vorderingen ST 12338 DROP; tick1694
+bud_oxfam_oww_cash_2025,vzw_oxfam_oww,2025,314196,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 liquide middelen 314196 JUMP; tick1694
+bud_oxfam_oww_prepaid_2025,vzw_oxfam_oww,2025,82703,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 82703 flat; tick1694
+bud_oxfam_oww_equity_2025,vzw_oxfam_oww,2025,2164313,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 eigen vermogen 2164313 JUMP; tick1694
+bud_oxfam_oww_fondsen_2025,vzw_oxfam_oww,2025,393919,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 fondsen 393919 flat; tick1694
+bud_oxfam_oww_destin_2025,vzw_oxfam_oww,2025,1766142,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 bestemde fondsen 1766142 JUMP; tick1694
+bud_oxfam_oww_kapsubs_2025,vzw_oxfam_oww,2025,4252,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 kapitaalsubsidies 4252 DROP; tick1694
+bud_oxfam_oww_voorzieningen_2025,vzw_oxfam_oww,2025,27600,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 voorzieningen 27600 DROP; tick1694
+bud_oxfam_oww_debt_2025,vzw_oxfam_oww,2025,3460774,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 schulden 3460774 JUMP; tick1694
+bud_oxfam_oww_lt_loans_2025,vzw_oxfam_oww,2025,2007528,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 LT overige leningen 2007528 DROP; tick1694
+bud_oxfam_oww_st_debt_2025,vzw_oxfam_oww,2025,1089202,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 schulden ST 1089202 JUMP; tick1694
+bud_oxfam_oww_current_lt_2025,vzw_oxfam_oww,2025,300000,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 LT binnen jaar 300000 flat; tick1694
+bud_oxfam_oww_lev_2025,vzw_oxfam_oww,2025,435788,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 leveranciers ST 435788 JUMP; tick1694
+bud_oxfam_oww_taxsoc_2025,vzw_oxfam_oww,2025,220184,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 220184 (tax 36421 + soc 183763); tick1694
+bud_oxfam_oww_other_st_2025,vzw_oxfam_oww,2025,133230,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 overige schulden ST 133230 JUMP; tick1694
+bud_oxfam_oww_accrued_2025,vzw_oxfam_oww,2025,364044,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 364044 JUMP; tick1694
+bud_oxfam_oww_bruto_2025,vzw_oxfam_oww,2025,1736818,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 brutomarge 9900 1736818 JUMP ENVELOPE; tick1694
+bud_oxfam_oww_omzet_2025,vzw_oxfam_oww,2025,10524,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 omzet 70 10524 DROP; tick1694
+bud_oxfam_oww_code73_2025,vzw_oxfam_oww,2025,1955737,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 lidgeld/schenkingen/legaten/subsidies 73 1955737 JUMP; tick1694
+bud_oxfam_oww_andere_opbr_notes_2025,vzw_oxfam_oww,2025,584841,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 notes andere bedrijfsopbrengsten 584841 (total opbr 2551102); tick1694
+bud_oxfam_oww_diensten_2025,vzw_oxfam_oww,2025,814284,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 handelsgoederen/diensten 60/61 814284 DROP; tick1694
+bud_oxfam_oww_pers_2025,vzw_oxfam_oww,2025,1263273,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 bezoldigingen 62 1263273 DROP / 17.6 VTE; tick1694
+bud_oxfam_oww_afschr_2025,vzw_oxfam_oww,2025,25506,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 afschrijvingen 630 25506 DROP; tick1694
+bud_oxfam_oww_andere_2025,vzw_oxfam_oww,2025,211577,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 211577 JUMP; tick1694
+bud_oxfam_oww_expl_2025,vzw_oxfam_oww,2025,232576,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 bedrijfswinst 232576 JUMP; tick1694
+bud_oxfam_oww_fininc_2025,vzw_oxfam_oww,2025,16972,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 financiele opbrengsten 16972 JUMP; tick1694
+bud_oxfam_oww_fincost_2025,vzw_oxfam_oww,2025,8398,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 financiele kosten 8398 flat; tick1694
+bud_oxfam_oww_tax_2025,vzw_oxfam_oww,2025,3266,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 belastingen 3266 DROP; tick1694
+bud_oxfam_oww_pnl_2025,vzw_oxfam_oww,2025,237884,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 winst 237884 JUMP; tick1694
+bud_oxfam_oww_vte_2025,vzw_oxfam_oww,2025,17.6,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 17.6 DROP from 19.1; eoy 18.6; tick1694
+bud_oxfam_oww_commissaris_fee_2025,vzw_oxfam_oww,2025,10000,,,executed,src_oxfam_oww_jr2025_nbb,strong,YE2025 audit fee 10000 (+DGD 3380 + SCW 1350); EY; tick1694
