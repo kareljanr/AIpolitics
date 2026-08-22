@@ -19750,3 +19750,11 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_msf_opbr_576_8m_schenk_437_2m_pers_66_9m_subs_4_2m_cash_152_7m_l5 ready (institutional subsidy 4.21m / nrec 9.28m / FX+cash / AV 29.05.2026). Do not send.
 - Inventory: entities **1340** · sources **3521** · budgets **46458** · commitments **5196** · leaderboard **7399** · FOI ready **1239** / answered **9** / partial **27** / total **1287**.
 - Next: rq_1600 **EVERY-10 MUST** refresh progress_every_10_ticks.md + doge_waste_top10_current.md. Then leftover AGB/Bosgroep/Dijk92 if CDN 200 / FARO if JR2025 / GO!/POV / IOED / HVZ / IGS / other. Do NOT redo MSF/Memisa/EASPD....
+
+### 2026-08-22T15:20:00Z - tick 1600
+- Unit: **every-10 progress** - refresh progress_every_10_ticks.md (layers A-E of EUR 347.956 bn TE) + doge_waste_top10_current.md (top 10 by priority_index; pure annual flow filter). No new entity unit this tick (hard wall / every-10 mandatory). Honest leftover AGB/APB / Bosgroep / Dijk92 CDN **403** / FARO JR2024 still blocked - deferred to rq_1601.
+- Coverage: A **100%** · B **100%** · C **~99%** · D **~74-88%** generous (NOT near-complete of 348bn) · E FOI ready **1239** / answered **9** / partial **27** / total **1287**.
+- Waste top10: **stable** GIP 8.7 · fossil direct 8.55 · fossil accises 8.5 · company cars 8.5 · heatoil 8.43 · cheque 8.4 · CO2 SSC gap 8.4 · OAA reporté 8.4 · BCR reporté 8.4 · dual cars SSC 8.4. Re-verified from leaderboard. NEW residual 1591-1599 off pure top10: **MSF** **382.7m** · **KOV** **43.8m** · **Broederlijk Delen** **20.72m** · **Memisa** **19.20m** · **11.11.11** **10.48m** · **CNCD** **6.15m** · **EASPD** **2.99m** · **ngo-federatie** **1.14m** · **Wereldmediahuis** **0.57m**.
+- Wrote: progress_every_10_ticks.md snapshot 1600; doge_waste_top10_current.md as-of 1600; research_queue rq_1600=done + rq_1601 spawn; loop_state ticks_completed=1600. No new FOI this tick.
+- Inventory: entities **1340** · sources **3521** · budgets **46458** · commitments **5196** · leaderboard **7399** · FOI ready **1239** / answered **9** / partial **27** / total **1287**.
+- Next: rq_1601 leftover AGB/Bosgroep/Dijk92 if CDN 200 / FARO if JR2025 / GO!/POV / IOED / HVZ / IGS / other. Do NOT redo MSF/Memisa/EASPD/Broederlijk Delen/CNCD/Wereldmediahuis/ngo-federatie/11.11.11/KOV.... **Next every-10 is 1610**.

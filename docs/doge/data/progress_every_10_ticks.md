@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1600** (2026-08-22)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1591-1599 leftover public koepel/NGO: **KOV** · **11.11.11** · **ngo-federatie** · **Wereldmediahuis** · **CNCD** · **Broederlijk Delen** · **EASPD** · **Memisa** · **MSF Belgique** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1591-1599 is residual dual L5 leftover public koepel/NGO (not near-complete of 348bn):** **MSF** assets **382.7m** opbr **576.8m** · **KOV** assets **43.8m** · **Broederlijk Delen** assets **20.72m** · **Memisa** assets **19.20m** · **11.11.11** assets **10.48m** · **CNCD** assets **6.15m** · **EASPD** assets **2.99m** · **ngo-federatie** assets **1.14m** · **Wereldmediahuis** assets **0.57m** · prior leftover public koepel/agency stack retained |
+| **E. FOI-ready gaps** | **~1239** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1287** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + koepel/NGO shells** (**NEW MSF** assets **EUR382.7m** opbr **EUR576.8m** schenk **EUR437.2m** pers **EUR66.9m** / **665.5 VTE** · **KOV** assets **EUR43.8m** opbr **EUR28.67m** · **Broederlijk Delen** assets **EUR20.72m** · **Memisa** assets **EUR19.20m** · **11.11.11** assets **EUR10.48m** · **CNCD** assets **EUR6.15m** · **EASPD** assets **EUR2.99m** · **ngo-federatie** assets **EUR1.14m** · **Wereldmediahuis** assets **EUR0.57m** · prior Scwitch/BBL/Sociare/VSF/Literatuur Vlaanderen/Cultuurloket/Musica/Iedereen Leest/Flanders DC/VLAMO stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1600)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 46458 |
+| commitments.csv | 5196 |
+| leaderboard.csv | 7399 |
+| entities.csv | 1340 |
+| sources.csv | 3521 |
+| FOI ready | 1239 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1287 |
+| research_queue open | rq_116 deferred + rq_1601 hole-fill after progress |
+
+### What improved since tick 1590
+
+- **VL residual dual leftover public koepel (tick1591-1594):** **KOV** assets **43.8m** · **11.11.11** assets **10.48m** · **ngo-federatie** assets **1.14m** · **Wereldmediahuis** assets **0.57m** — no invented euros.
+- **FR/BE residual dual leftover public NGO (tick1595-1599):** **CNCD** assets **6.15m** · **Broederlijk Delen** assets **20.72m** · **EASPD** assets **2.99m** · **Memisa** assets **19.20m** · **MSF Belgique** assets **382.7m** — no invented euros.
+- **NEW (tick1599):** **MSF Belgique / AZG** (KBO 0421.446.093) leftover public humanitarian NGO. Official NBB VOL-VZW deposit **2026-00165483** PDF (1715629 bytes / 56p; AV 29.05.2026; FR twin 2026-00164940). Assets **382.656.431** · opbr **576.768.341** · schenk **437.235.038** · subs **4.208.021** · pers **66.911.088** / **665.5 VTE** · cash **152.708.650** · PnL **+19.923.393**. FOI ready.
+- **Dual map themes:** leftover public koepel / onderwijsnet (KOV) · ontwikkelingssamenwerking (11.11.11/CNCD/BD/Memisa) · humanitarian (MSF) · disability IVZW (EASPD) · media (Wereldmediahuis) · prior letteren/milieu/sport/armoede stack retained.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1610**.
+
 ## Snapshot at **tick 1590** (2026-08-22)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
