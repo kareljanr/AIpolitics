@@ -49855,3 +49855,20 @@ bud_biv_verplaatsing_2025,oi_biv,2025,69096,,,executed,src_biv_jv2025_official,s
 bud_biv_belastingen_2025,oi_biv,2025,210586,,,executed,src_biv_jv2025_official,strong,JV2025 belastingen+RV 210585.70; tick1717
 bud_biv_afschrijvingen_2025,oi_biv,2025,156197,,,executed,src_biv_jv2025_official,strong,JV2025 afschrijvingen 156197.10; tick1717
 bud_biv_overgedragen_winst_2025,oi_biv,2025,291131,,,executed,src_biv_jv2025_official,strong,JV2025 over te dragen winst 291130.69; tick1717
+bud_boerenbond_assets_2024,vzw_boerenbond,2024,11486087,,,executed,src_boerenbond_nbb_ye2024,strong,NBB 20/58 assets 11486087; tick1718
+bud_boerenbond_va_2024,vzw_boerenbond,2024,1310092,,,executed,src_boerenbond_nbb_ye2024,strong,NBB VA 21/28 1310092; tick1718
+bud_boerenbond_vlottend_2024,vzw_boerenbond,2024,10175995,,,executed,src_boerenbond_nbb_ye2024,strong,NBB vlottend 29/58 10175995; tick1718
+bud_boerenbond_cash_2024,vzw_boerenbond,2024,3823452,,,executed,src_boerenbond_nbb_ye2024,strong,NBB liquide 54/58 3823452 DROP vs 4115282; tick1718
+bud_boerenbond_beleg_2024,vzw_boerenbond,2024,3311305,,,executed,src_boerenbond_nbb_ye2024,strong,NBB beleggingen 50/53 3311305; tick1718
+bud_boerenbond_equity_2024,vzw_boerenbond,2024,3585611,,,executed,src_boerenbond_nbb_ye2024,strong,NBB EV 10/15 3585611 (fondsen 6778105 + reserves 404116 + overgedragen -3596609); tick1718
+bud_boerenbond_debt_2024,vzw_boerenbond,2024,7773941,,,executed,src_boerenbond_nbb_ye2024,strong,NBB schulden 17/49 7773941; tick1718
+bud_boerenbond_opbrengsten_2024,vzw_boerenbond,2024,26630731,,,executed,src_boerenbond_nbb_ye2024,strong,NBB bedrijfsopbrengsten 70/76A 26630731; tick1718
+bud_boerenbond_omzet_2024,vzw_boerenbond,2024,1714883,,,executed,src_boerenbond_nbb_ye2024,strong,NBB omzet 70 1714883; tick1718
+bud_boerenbond_code73_2024,vzw_boerenbond,2024,22741187,,,executed,src_boerenbond_nbb_ye2024,strong,NBB code73 22741187 (lidgeld 1894010 + subsidies 20844540); tick1718
+bud_boerenbond_lidgeld_2024,vzw_boerenbond,2024,1894010,,,executed,src_boerenbond_nbb_ye2024,strong,NBB 730 lidgelden 1894010; tick1718
+bud_boerenbond_subsidies_2024,vzw_boerenbond,2024,20844540,,,executed,src_boerenbond_nbb_ye2024,strong,NBB 733 subsidies 20844540; public vs private split FOI; tick1718
+bud_boerenbond_andere_opbr_2024,vzw_boerenbond,2024,2174660,,,executed,src_boerenbond_nbb_ye2024,strong,NBB andere bedrijfsopbrengsten 74 2174660; tick1718
+bud_boerenbond_diensten_2024,vzw_boerenbond,2024,11138840,,,executed,src_boerenbond_nbb_ye2024,strong,NBB 61 diensten 11138840; tick1718
+bud_boerenbond_staff_2024,vzw_boerenbond,2024,15832262,,,executed,src_boerenbond_nbb_ye2024,strong,NBB 62 bezoldigingen 15832262 / VTE 146.3; tick1718
+bud_boerenbond_expl_2024,vzw_boerenbond,2024,-1074692,,,executed,src_boerenbond_nbb_ye2024,strong,NBB bedrijfswinst 9901 -1074692; tick1718
+bud_boerenbond_pnl_2024,vzw_boerenbond,2024,-922869,,,executed,src_boerenbond_nbb_ye2024,strong,NBB PnL 9904 -922869; AV 16.06.2025; tick1718

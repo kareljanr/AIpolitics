@@ -3954,3 +3954,7 @@ src_biv_jv2025_official,BIV Jaarverslag 2025 (official web; Financiële balans),
 src_biv_kbo,BIV/IPI KBO 0267.300.821,https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=267300821,KBO,2026-08-23,primary_official,tick1717; Andere rechtsvorm; Luxemburgstraat 16 bus B 1000 Brussel; NACE 94.120
 src_biv_portal,BIV jaarverslagen index,https://www.biv.be/nieuws/jaarverslagen,BIV / IPI,2026-08-23,primary_official,tick1717; JV2025 + JV2024 web editions
 src_biv_foi_contact_1717,BIV FOI channel (info@biv.be),https://www.biv.be,BIV / IPI,2026-08-23,foi_contact,tick1717; info@biv.be; +32 2 505 38 50; Luxemburgstraat 16B 1000 Brussel
+src_boerenbond_nbb_ye2024,Boerenbond NBB VOL-VZW YE2024 deposit 2025-00373835,http://cdn.staatsbladmonitor.be/2025pdf/2025-00373835.pdf,NBB / Staatsbladmonitor CDN,2026-08-23,primary_official,tick1718; AV 16.06.2025; neergelegd 13.08.2025; assets 11486087 opbr 26630731 code73 22741187 staff 15832262 VTE 146.3 pnl -922869
+src_boerenbond_kbo,Boerenbond KBO 0676.461.073,https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=676461073,KBO,2026-08-23,primary_official,tick1718; VZW; Diestsevest 40 3000 Leuven
+src_boerenbond_portal,Boerenbond.be official portal,https://www.boerenbond.be,Boerenbond vzw,2026-08-23,primary_official,tick1718; boekhouding@boerenbond.be
+src_boerenbond_foi_contact_1718,Boerenbond FOI channel (boekhouding@boerenbond.be),https://www.boerenbond.be,Boerenbond vzw,2026-08-23,foi_contact,tick1718; boekhouding@boerenbond.be; Diestsevest 40 3000 Leuven
