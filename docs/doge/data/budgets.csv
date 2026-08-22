@@ -50360,3 +50360,13 @@ bud_demolen_pnl_2025,nv_demolen,2025,335962,,,realized,src_demolen_jr2025_nbb,st
 bud_demolen_related_recv_2025,nv_demolen,2025,2843829,,,stock,src_demolen_jr2025_nbb,strong,Related-party receivables on controlling persons 2843829; tick1758
 bud_demolen_cash_2025,nv_demolen,2025,1045083,,,stock,src_demolen_jr2025_nbb,strong,Cash 1045083; tick1758
 bud_demolen_commissaris_2025,nv_demolen,2025,9354,,,realized,src_demolen_jr2025_nbb,strong,Commissaris fee 9354; tick1758
+bud_klavertje4_assets_2025,vzw_klavertje4,2025,537465,,,stock,src_klavertje4_jr2025_nbb,strong,Assets YE2025 537465 JUMP vs 443993; tick1759
+bud_klavertje4_equity_2025,vzw_klavertje4,2025,149297,,,stock,src_klavertje4_jr2025_nbb,strong,Equity 149297 DROP vs 188393; tick1759
+bud_klavertje4_debt_2025,vzw_klavertje4,2025,388168,,,stock,src_klavertje4_jr2025_nbb,strong,Debt 388168 JUMP vs 255599; tick1759
+bud_klavertje4_bruto_2025,vzw_klavertje4,2025,874219,,,realized,src_klavertje4_jr2025_nbb,strong,Brutomarge 9900 874219 DROP vs 959652 (70/73 empty); tick1759
+bud_klavertje4_staff_2025,vzw_klavertje4,2025,884110,,,realized,src_klavertje4_jr2025_nbb,strong,Staff 884110 > bruto / VTE 13; tick1759
+bud_klavertje4_expl_2025,vzw_klavertje4,2025,-36977,,,realized,src_klavertje4_jr2025_nbb,strong,Exploitation FLIP -36977 vs +70443; tick1759
+bud_klavertje4_pnl_2025,vzw_klavertje4,2025,-39096,,,realized,src_klavertje4_jr2025_nbb,strong,PnL FLIP -39096 vs +67020; tick1759
+bud_klavertje4_cash_2025,vzw_klavertje4,2025,156636,,,stock,src_klavertje4_jr2025_nbb,strong,Cash JUMP 156636 vs 12459; tick1759
+bud_klavertje4_related_recv_2025,vzw_klavertje4,2025,53060,,,stock,src_klavertje4_jr2025_nbb,strong,Related recv on controlling persons 53060; tick1759
+bud_klavertje4_commissaris_2025,vzw_klavertje4,2025,5376,,,realized,src_klavertje4_jr2025_nbb,strong,Commissaris fee 5376; tick1759

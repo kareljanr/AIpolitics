@@ -20990,3 +20990,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; entities +1 nv_demolen; budgets +12; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1758=done + rq_1759 spawn; ticks_completed=1758. Raw docs/doge/raw/tick1758/.
 - FOI opened: gap_demolen_omzet_14_90m_staff_9_53m_related_recv_2_84m_l5 ready (RIZIV/related recv/Brembloem). Do not send.
 - Next: rq_1759 leftover AGB/**NSZ if CDN 200**/Bosgroep/Brembloem-if-200/Dijk92 / APEFE / HVZ-VBWest. Do NOT redo DeMolen/Felicite/Vivalys. **Tick 1760 MUST every-10.**
+
+### 2026-08-24T13:15:00Z - tick 1759
+- Unit: rq_1759 Klavertje 4 VZW (leftover VL WZC Brecht Sint-Job / Vivalto dual DeMolen) (KBO **0445.322.149**; VZW; Kruisbooglaan 19 2960 Brecht; NACE **87.301**; vivaltohome.com/nl/maisons/klavertje-4/; info.klavertjevier@vivaltohome.com; official NBB **VKT-VZW** YE2025 deposit **2026-00139427** CDN **200**; AV **13.05.2026**; commissaris Forvis Mazars / Francois Collie fee **5376** - **oordeel zonder voorbehoud**; moeder Vivalto Home Belgium bestuurder). Honest leftover AGB Bornem still JR2024-only. Brembloem VZW still no JR2025 CDN. NSZ/Dijk92/APEFE CDN **403**. Preferred AGB/Brembloem blocked - leftover Klavertje 4 official NBB JR2025 **live** taken. New entity vzw_klavertje4. Envelope = bruto **874219**. NOT every-10 (next **1760 MUST**).
+- Found (NBB YE2025 strong): assets **537465**; equity **149297** DROP vs **188393**; debt **388168** JUMP; bruto **874219** (70/73 empty) DROP vs **959652**; staff **884110** **> bruto** / VTE **13**; expl **-36977** FLIP; PnL **-39096** FLIP vs **+67020**; cash JUMP **156636** vs **12459**; related recv **53060**.
+- Wrote: sources +3; entities +1 vzw_klavertje4; budgets +10; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1759=done + rq_1760 spawn; ticks_completed=1759. Raw docs/doge/raw/tick1759/.
+- FOI opened: gap_klavertje4_bruto_0_87m_staff_0_88m_loss_flip_l5 ready (omzet/staff>bruto/related recv). Do not send.
+- Next: rq_1760 **MUST every-10** progress coverage % + waste top10 after residual 1751-1759.
