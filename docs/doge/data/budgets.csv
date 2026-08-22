@@ -50394,3 +50394,15 @@ bud_gerosin_nrec_afschr_2025,nv_gerosin,2025,1200000,,,realized,src_gerosin_jr20
 bud_gerosin_nrec_fin_gain_2025,nv_gerosin,2025,3272868,,,realized,src_gerosin_jr2025_nbb,strong,Meerwaarden realisatie FVA 3272868; tick1762
 bud_gerosin_pnl_2025,nv_gerosin,2025,2007840,,,realized,src_gerosin_jr2025_nbb,strong,PnL 2007840 (te bestemmen 2124792); tick1762
 bud_gerosin_subsidies_2025,nv_gerosin,2025,12746,,,realized,src_gerosin_jr2025_nbb,strong,Exploitatiesubsidies code 740 = 12746; tick1762
+bud_picauvent_assets_2025,nv_picauvent,2025,11817671,,,stock,src_picauvent_jr2025_nbb,strong,Assets YE2025 11817671; tick1763
+bud_picauvent_equity_2025,nv_picauvent,2025,1310749,,,stock,src_picauvent_jr2025_nbb,strong,Equity 1310749 UP vs 1159316; tick1763
+bud_picauvent_debt_2025,nv_picauvent,2025,10506922,,,stock,src_picauvent_jr2025_nbb,strong,Debt 10506922; tick1763
+bud_picauvent_leasing_lt_2025,nv_picauvent,2025,5321223,,,stock,src_picauvent_jr2025_nbb,strong,LT credit/leasing 5321223; tick1763
+bud_picauvent_fva_vivalto_lease_2025,nv_picauvent,2025,6138000,,,stock,src_picauvent_jr2025_nbb,strong,FVA 6138000 = 12.5pct VIVALTO LEASE KBO 0672.832.481; tick1763
+bud_picauvent_accruals_liab_2025,nv_picauvent,2025,3729795,,,stock,src_picauvent_jr2025_nbb,strong,Comptes de regularisation passif 3729795; tick1763
+bud_picauvent_marge_2025,nv_picauvent,2025,3192580,,,realized,src_picauvent_jr2025_nbb,strong,Marge brute 3192580 (A-cap; CA not disclosed); tick1763
+bud_picauvent_staff_2025,nv_picauvent,2025,2382825,,,realized,src_picauvent_jr2025_nbb,strong,Staff 2382825 / VTE 39.6; tick1763
+bud_picauvent_expl_2025,nv_picauvent,2025,471102,,,realized,src_picauvent_jr2025_nbb,strong,Benefice exploitation 471102; tick1763
+bud_picauvent_pnl_2025,nv_picauvent,2025,235682,,,realized,src_picauvent_jr2025_nbb,strong,PnL 235682; tick1763
+bud_picauvent_admin_remun_2025,nv_picauvent,2025,84248,,,realized,src_picauvent_jr2025_nbb,strong,Benefice distribue administrateurs/gerants 84248 UP vs 66169; tick1763
+bud_picauvent_nrec_prod_2025,nv_picauvent,2025,190280,,,realized,src_picauvent_jr2025_nbb,strong,Produits exploitation non recurrents 190280 (same as prior year); tick1763
