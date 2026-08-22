@@ -48255,3 +48255,28 @@ bud_unizo_fincost_2025,vzw_unizo,2025,30378,,,executed,src_unizo_jr2025_nbb,stro
 bud_unizo_tax_2025,vzw_unizo,2025,24158,,,executed,src_unizo_jr2025_nbb,strong,YE2025 belastingen 24158 DROP; tick1656
 bud_unizo_pnl_2025,vzw_unizo,2025,90781,,,executed,src_unizo_jr2025_nbb,strong,YE2025 winst 90781 JUMP; tick1656
 bud_unizo_commissaris_2025,vzw_unizo,2025,9952,,,executed,src_unizo_jr2025_nbb,strong,YE2025 commissaris fee 9505 9952; tick1656
+bud_avansa_hv_assets_2025,vzw_avansa_hv,2025,1490280,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 balanstotaal 1490280 DROP from 1492928; tick1657
+bud_avansa_hv_va_2025,vzw_avansa_hv,2025,453059,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 vaste activa 453059 DROP (=MVA); tick1657
+bud_avansa_hv_mva_2025,vzw_avansa_hv,2025,453059,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 materiele VA 453059 DROP; tick1657
+bud_avansa_hv_buildings_2025,vzw_avansa_hv,2025,445738,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 terreinen/gebouwen 445738 DROP; tick1657
+bud_avansa_hv_vlottend_2025,vzw_avansa_hv,2025,1037221,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 vlottende activa 1037221 JUMP; tick1657
+bud_avansa_hv_handelsrecv_2025,vzw_avansa_hv,2025,31027,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 handelsvorderingen ST 31027 JUMP; tick1657
+bud_avansa_hv_other_recv_2025,vzw_avansa_hv,2025,150619,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 overige vorderingen ST 150619 JUMP; tick1657
+bud_avansa_hv_cash_2025,vzw_avansa_hv,2025,829176,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 liquide middelen 829176 JUMP; tick1657
+bud_avansa_hv_prepaid_2025,vzw_avansa_hv,2025,26400,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 26400 JUMP; tick1657
+bud_avansa_hv_equity_2025,vzw_avansa_hv,2025,1355771,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 eigen vermogen 1355771 JUMP; tick1657
+bud_avansa_hv_destin_2025,vzw_avansa_hv,2025,624138,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 bestemde fondsen 624138 JUMP from 397713; tick1657
+bud_avansa_hv_overgedragen_2025,vzw_avansa_hv,2025,731633,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 overgedragen winst 731633 DROP; tick1657
+bud_avansa_hv_debt_2025,vzw_avansa_hv,2025,134509,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 schulden 134509 DROP; tick1657
+bud_avansa_hv_st_debt_2025,vzw_avansa_hv,2025,129050,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 schulden ST 129050 DROP; tick1657
+bud_avansa_hv_lev_2025,vzw_avansa_hv,2025,12778,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 leveranciers ST 12778 JUMP; tick1657
+bud_avansa_hv_taxsoc_2025,vzw_avansa_hv,2025,116271,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 116271 DROP (tax 107 + soc 116165); tick1657
+bud_avansa_hv_accrued_2025,vzw_avansa_hv,2025,5459,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 5459 DROP; tick1657
+bud_avansa_hv_bruto_2025,vzw_avansa_hv,2025,1231985,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 brutomarge 9900 1231985 JUMP ENVELOPE; tick1657
+bud_avansa_hv_pers_2025,vzw_avansa_hv,2025,1164391,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 bezoldigingen 62 1164391 JUMP; VTE not filed (code 9087 blank/0 vs prior 12.8; sociale balans section not deposited); tick1657
+bud_avansa_hv_afschr_2025,vzw_avansa_hv,2025,38374,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 afschrijvingen 630 38374 JUMP; tick1657
+bud_avansa_hv_expl_2025,vzw_avansa_hv,2025,29221,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 bedrijfswinst 29221 FLIP from -39373; tick1657
+bud_avansa_hv_fininc_2025,vzw_avansa_hv,2025,6539,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 financiele opbrengsten 6539 JUMP; tick1657
+bud_avansa_hv_fincost_2025,vzw_avansa_hv,2025,319,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 financiele kosten 319 DROP; tick1657
+bud_avansa_hv_tax_2025,vzw_avansa_hv,2025,1580,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 belastingen 1580 JUMP; tick1657
+bud_avansa_hv_pnl_2025,vzw_avansa_hv,2025,33861,,,executed,src_avansa_hv_jr2025_nbb,strong,YE2025 winst 33861 FLIP from -37805; tick1657
