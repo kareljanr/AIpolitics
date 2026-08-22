@@ -47273,3 +47273,37 @@ bud_cavaria_expl_2025,vzw_cavaria,2025,-285319,,,executed,src_cavaria_jr2025_nbb
 bud_cavaria_fininc_2025,vzw_cavaria,2025,31700,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 financiele opbrengsten 31700 JUMP; tick1625
 bud_cavaria_fincost_2025,vzw_cavaria,2025,5553,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 financiele kosten 5553 JUMP; tick1625
 bud_cavaria_pnl_2025,vzw_cavaria,2025,-259172,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 verlies -259172 LOSS FLIP from +121018; tick1625
+bud_sensoa_assets_2025,vzw_sensoa,2025,3425633,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 balanstotaal 3425633 DROP from 3951811; tick1626
+bud_sensoa_va_2025,vzw_sensoa,2025,517386,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 vaste activa 517386 DROP; tick1626
+bud_sensoa_mva_2025,vzw_sensoa,2025,515940,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 materiele VA 515940 DROP (terreinen/gebouwen 510969); tick1626
+bud_sensoa_fva_2025,vzw_sensoa,2025,1446,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 financiele VA 1446; tick1626
+bud_sensoa_vlottend_2025,vzw_sensoa,2025,2908247,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 vlottende activa 2908247 DROP; tick1626
+bud_sensoa_voorraden_2025,vzw_sensoa,2025,18716,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 voorraden 18716 DROP; tick1626
+bud_sensoa_handelsrecv_2025,vzw_sensoa,2025,20650,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 handelsvorderingen ST 20650 DROP; tick1626
+bud_sensoa_other_recv_2025,vzw_sensoa,2025,725,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 overige vorderingen ST 725 DROP; tick1626
+bud_sensoa_cash_2025,vzw_sensoa,2025,2782132,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 liquide middelen 2782132 DROP from 3193221; tick1626
+bud_sensoa_prepaid_2025,vzw_sensoa,2025,86023,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 86023 JUMP; tick1626
+bud_sensoa_equity_2025,vzw_sensoa,2025,2248951,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 eigen vermogen 2248951 DROP; tick1626
+bud_sensoa_fondsen_2025,vzw_sensoa,2025,234041,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 fondsen 234041 flat; tick1626
+bud_sensoa_destin_2025,vzw_sensoa,2025,1570652,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 bestemde fondsen 1570652 DROP; tick1626
+bud_sensoa_overgedragen_2025,vzw_sensoa,2025,444258,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 overgedragen winst 444258 flat; tick1626
+bud_sensoa_voorzieningen_2025,vzw_sensoa,2025,139900,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 voorzieningen pensioenen 139900; tick1626
+bud_sensoa_debt_2025,vzw_sensoa,2025,1036782,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 schulden 1036782 DROP; tick1626
+bud_sensoa_lt_fin_2025,vzw_sensoa,2025,219269,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 financiele schulden LT 219269 DROP (hypotheek path); tick1626
+bud_sensoa_st_debt_2025,vzw_sensoa,2025,772934,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 schulden ST 772934 JUMP; tick1626
+bud_sensoa_lev_2025,vzw_sensoa,2025,70265,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 leveranciers ST 70265 JUMP; tick1626
+bud_sensoa_tax_2025,vzw_sensoa,2025,122285,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 belastingen ST 122285; tick1626
+bud_sensoa_taxsoc_2025,vzw_sensoa,2025,467906,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 bezoldigingen/sociale lasten ST 467906 DROP; tick1626
+bud_sensoa_othdebt_2025,vzw_sensoa,2025,83967,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 overige schulden ST 83967 JUMP; tick1626
+bud_sensoa_accrued_2025,vzw_sensoa,2025,44578,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 44578; tick1626
+bud_sensoa_bruto_2025,vzw_sensoa,2025,3220837,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 brutomarge 9900 3220837 DROP ENVELOPE (70/73/60-61 empty); tick1626
+bud_sensoa_pers_2025,vzw_sensoa,2025,3627388,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 bezoldigingen 62 3627388 JUMP / 42.5 VTE; tick1626
+bud_sensoa_afschr_2025,vzw_sensoa,2025,55553,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 afschrijvingen 630 55553; tick1626
+bud_sensoa_waardev_2025,vzw_sensoa,2025,234,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 waardeverminderingen 631/4 234; tick1626
+bud_sensoa_voorz_2025,vzw_sensoa,2025,276,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 voorzieningen toevoeging 635/9 276; tick1626
+bud_sensoa_andere_2025,vzw_sensoa,2025,57324,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 57324 DROP; tick1626
+bud_sensoa_expl_2025,vzw_sensoa,2025,-519937,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 bedrijfsverlies -519937 LOSS FLIP from +55379; tick1626
+bud_sensoa_fininc_2025,vzw_sensoa,2025,9004,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 financiele opbrengsten 9004 DROP; tick1626
+bud_sensoa_fincost_2025,vzw_sensoa,2025,4901,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 financiele kosten 4901; tick1626
+bud_sensoa_tax_result_2025,vzw_sensoa,2025,2601,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 belastingen op resultaat 2601; tick1626
+bud_sensoa_pnl_2025,vzw_sensoa,2025,-518434,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 verlies -518434 LOSS FLIP from +61643; tick1626
