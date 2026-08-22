@@ -46251,3 +46251,47 @@ bud_wmh_pnl_2025,vzw_wmh,2025,-141749,,,executed,src_wmh_jr2025_nbb,strong,YE202
 bud_wmh_onttrekking_2025,vzw_wmh,2025,36308,,,executed,src_wmh_jr2025_nbb,strong,YE2025 onttrekking bestemde fondsen 791 36308; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
 bud_wmh_capex_2025,vzw_wmh,2025,10921,,,executed,src_wmh_jr2025_nbb,strong,YE2025 aanschaffingen IVA 7200 + MVA 3721 = 10921; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
 bud_wmh_nrec_2025,vzw_wmh,2025,461,,,executed,src_wmh_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfsopbrengsten 76A 461; tick1594; primary official NBB VKT-VZW YE 31.12.2025 deposit 2026-00203885
+bud_cncd_assets_2025,vzw_cncd,2025,6147830,,,executed,src_cncd_jr2025_nbb,strong,YE2025 total actif 6147830 JUMP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_va_2025,vzw_cncd,2025,2875158,,,executed,src_cncd_jr2025_nbb,strong,YE2025 actifs immobilises 2875158 JUMP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_iva_2025,vzw_cncd,2025,690036,,,executed,src_cncd_jr2025_nbb,strong,YE2025 IVA 690036 JUMP (prod immobilisee); tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_mva_2025,vzw_cncd,2025,2178962,,,executed,src_cncd_jr2025_nbb,strong,YE2025 MVA 2178962 DROP (terrains/const 2128543); tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_gebouw_2025,vzw_cncd,2025,2128543,,,executed,src_cncd_jr2025_nbb,strong,YE2025 terrains et constructions 2128543; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_fva_2025,vzw_cncd,2025,6160,,,executed,src_cncd_jr2025_nbb,strong,YE2025 immobilisations financieres 6160; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_current_2025,vzw_cncd,2025,3272672,,,executed,src_cncd_jr2025_nbb,strong,YE2025 actifs circulants 3272672 JUMP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_stock_2025,vzw_cncd,2025,54469,,,executed,src_cncd_jr2025_nbb,strong,YE2025 stocks marchandises 54469; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_trade_recv_2025,vzw_cncd,2025,205724,,,executed,src_cncd_jr2025_nbb,strong,YE2025 creances commerciales 205724 DROP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_other_recv_2025,vzw_cncd,2025,1360648,,,executed,src_cncd_jr2025_nbb,strong,YE2025 autres creances 1360648 DROP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_cash_2025,vzw_cncd,2025,1642174,,,executed,src_cncd_jr2025_nbb,strong,YE2025 valeurs disponibles 1642174 JUMP (was 774557); tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_prepaid_2025,vzw_cncd,2025,9657,,,executed,src_cncd_jr2025_nbb,strong,YE2025 comptes de regularisation actif 9657; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_equity_2025,vzw_cncd,2025,1555193,,,executed,src_cncd_jr2025_nbb,strong,YE2025 fonds social 1555193 JUMP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_fondsen_2025,vzw_cncd,2025,115796,,,executed,src_cncd_jr2025_nbb,strong,YE2025 fonds association 115796 identique; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_destin_2025,vzw_cncd,2025,1439397,,,executed,src_cncd_jr2025_nbb,strong,YE2025 fonds affectes 1439397 JUMP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_voorzien_2025,vzw_cncd,2025,60202,,,executed,src_cncd_jr2025_nbb,strong,YE2025 provisions fiscales 60202 DROP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_debt_2025,vzw_cncd,2025,4532436,,,executed,src_cncd_jr2025_nbb,strong,YE2025 dettes 4532436 JUMP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_lt_2025,vzw_cncd,2025,1320539,,,executed,src_cncd_jr2025_nbb,strong,YE2025 dettes LT etablissements de credit 1320539 DROP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_st_2025,vzw_cncd,2025,2403123,,,executed,src_cncd_jr2025_nbb,strong,YE2025 dettes <=1an 2403123 JUMP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_st_due_2025,vzw_cncd,2025,82390,,,executed,src_cncd_jr2025_nbb,strong,YE2025 dettes LT echeant dans annee 82390; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_lev_2025,vzw_cncd,2025,67084,,,executed,src_cncd_jr2025_nbb,strong,YE2025 fournisseurs 67084; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_taxsoc_2025,vzw_cncd,2025,679680,,,executed,src_cncd_jr2025_nbb,strong,YE2025 dettes fiscales/salariales 679680 JUMP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_oth_debt_2025,vzw_cncd,2025,1573969,,,executed,src_cncd_jr2025_nbb,strong,YE2025 autres dettes ST 1573969 JUMP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_accrued_2025,vzw_cncd,2025,808775,,,executed,src_cncd_jr2025_nbb,strong,YE2025 comptes de regularisation passif 808775; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_opbr_2025,vzw_cncd,2025,7361462,,,executed,src_cncd_jr2025_nbb,strong,YE2025 ventes et prestations 70/76A 7361462 DROP (envelope); tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_omzet_2025,vzw_cncd,2025,826601,,,executed,src_cncd_jr2025_nbb,strong,YE2025 chiffre d affaires 70 826601 JUMP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_prod_imm_2025,vzw_cncd,2025,603299,,,executed,src_cncd_jr2025_nbb,strong,YE2025 production immobilisee 72 603299 JUMP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_code73_2025,vzw_cncd,2025,5785578,,,executed,src_cncd_jr2025_nbb,strong,YE2025 cotisations/dons/legs/subsides 73 5785578 DROP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_cotis_2025,vzw_cncd,2025,6100,,,executed,src_cncd_jr2025_nbb,strong,YE2025 cotisations 730 6100; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_dons_2025,vzw_cncd,2025,1070782,,,executed,src_cncd_jr2025_nbb,strong,YE2025 dons 731 1070782 DROP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_legs_2025,vzw_cncd,2025,51763,,,executed,src_cncd_jr2025_nbb,strong,YE2025 legs 732 51763; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_subs_2025,vzw_cncd,2025,4656934,,,executed,src_cncd_jr2025_nbb,strong,YE2025 subsides 733 4656934 DROP (DGD/FWB/autres); tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_andere_opbr_2025,vzw_cncd,2025,142434,,,executed,src_cncd_jr2025_nbb,strong,YE2025 autres produits exploitation 74 142434 DROP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_aankopen_2025,vzw_cncd,2025,124816,,,executed,src_cncd_jr2025_nbb,strong,YE2025 approvisionnements 60 124816; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_diensten_2025,vzw_cncd,2025,962484,,,executed,src_cncd_jr2025_nbb,strong,YE2025 services et biens divers 61 962484; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_pers_2025,vzw_cncd,2025,4213177,,,executed,src_cncd_jr2025_nbb,strong,YE2025 remunerations 62 4213177 / 59.2 VTE (YE headcount 62; heures 95683); tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_vte_2025,vzw_cncd,2025,59.2,,,executed,src_cncd_jr2025_nbb,strong,YE2025 effectif moyen ETP 59.2 DROP (was 66.5); tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_afschr_2025,vzw_cncd,2025,461446,,,executed,src_cncd_jr2025_nbb,strong,YE2025 amortissements 461446; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_andere_2025,vzw_cncd,2025,1442774,,,executed,src_cncd_jr2025_nbb,strong,YE2025 autres charges exploitation 640/8 1442774 DROP; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_expl_2025,vzw_cncd,2025,176797,,,executed,src_cncd_jr2025_nbb,strong,YE2025 benefice exploitation 176797 PROFIT DROP (was 414297); tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_fincost_2025,vzw_cncd,2025,43686,,,executed,src_cncd_jr2025_nbb,strong,YE2025 charges financieres 43686; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_pnl_2025,vzw_cncd,2025,133111,,,executed,src_cncd_jr2025_nbb,strong,YE2025 benefice a affecter 133111 PROFIT DROP (was 366823); tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_toevoeg_2025,vzw_cncd,2025,387684,,,executed,src_cncd_jr2025_nbb,strong,YE2025 affectation fonds affectes 691 387684; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
+bud_cncd_onttrekking_2025,vzw_cncd,2025,254572,,,executed,src_cncd_jr2025_nbb,strong,YE2025 prelevement fonds affectes 791 254572; tick1595; primary official NBB C-ASBL YE 31.12.2025 deposit 2026-00251141
