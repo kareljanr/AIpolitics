@@ -50508,3 +50508,15 @@ bud_braine_staff_2025,nv_braine,2025,4046311,,,realized,src_braine_jr2025_nbb,st
 bud_braine_expl_2025,nv_braine,2025,575104,,,realized,src_braine_jr2025_nbb,strong,Benefice exploitation 575104; tick1773
 bud_braine_nrec_fin_2025,nv_braine,2025,2332732,,,realized,src_braine_jr2025_nbb,strong,Nrec fin 2332732 plus-value cession immobilisations financieres; tick1773
 bud_braine_pnl_2025,nv_braine,2025,2638023,,,realized,src_braine_jr2025_nbb,strong,PnL 2638023 TURNAROUND; dividend apport 2200000 + admin 224212; tick1773
+bud_centenaire_assets_2025,nv_centenaire,2025,5615640,,,stock,src_centenaire_jr2025_nbb,strong,Assets YE2025 5615640; tick1774
+bud_centenaire_equity_2025,nv_centenaire,2025,1263600,,,stock,src_centenaire_jr2025_nbb,strong,Equity 1263600 DROP vs 1520563; tick1774
+bud_centenaire_debt_2025,nv_centenaire,2025,4038898,,,stock,src_centenaire_jr2025_nbb,strong,Debt 4038898; tick1774
+bud_centenaire_leasing_lt_2025,nv_centenaire,2025,1683983,,,stock,src_centenaire_jr2025_nbb,strong,LT credit/leasing 1683983; tick1774
+bud_centenaire_fva_2025,nv_centenaire,2025,1800000,,,stock,src_centenaire_jr2025_nbb,strong,Immobilisations financieres 1800000 DROP vs 3199340; tick1774
+bud_centenaire_autres_creances_2025,nv_centenaire,2025,1532393,,,stock,src_centenaire_jr2025_nbb,strong,Autres creances ST 1532393 JUMP vs 144166; tick1774
+bud_centenaire_related_recv_2025,nv_centenaire,2025,3201947,,,stock,src_centenaire_jr2025_nbb,strong,Creances sur administrateurs/controleurs 9500=3201947; tick1774
+bud_centenaire_marge_2025,nv_centenaire,2025,2624466,,,realized,src_centenaire_jr2025_nbb,strong,Marge bruto 2624466 (A-cap; CA undisclosed); tick1774
+bud_centenaire_staff_2025,nv_centenaire,2025,2200823,,,realized,src_centenaire_jr2025_nbb,strong,Staff 2200823 / VTE 37.3; tick1774
+bud_centenaire_expl_2025,nv_centenaire,2025,181524,,,realized,src_centenaire_jr2025_nbb,strong,Benefice exploitation 181524; tick1774
+bud_centenaire_nrec_fin_2025,nv_centenaire,2025,1183905,,,realized,src_centenaire_jr2025_nbb,strong,Produits financiers non recurrents 1183905 drives PnL; tick1774
+bud_centenaire_pnl_2025,nv_centenaire,2025,1277118,,,realized,src_centenaire_jr2025_nbb,strong,PnL 1277118; dividend apport 1418042 + admin 116039; autres dettes ST=distribuer 1534082; tick1774
