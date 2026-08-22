@@ -48752,3 +48752,41 @@ bud_ligo_hv_fincost_2025,vzw_ligo_hv,2025,427,,,executed,src_ligo_hv_jr2025_nbb,
 bud_ligo_hv_pnl_2025,vzw_ligo_hv,2025,-22146,,,executed,src_ligo_hv_jr2025_nbb,strong,YE2025 verlies -22146 IMPROVED from -176677; tick1674
 bud_ligo_hv_vte_2025,vzw_ligo_hv,2025,63.1,,,executed,src_ligo_hv_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 63.1 JUMP from 54.5 (on-books DIMONA only); tick1674
 bud_ligo_hv_eoy_vte_2025,vzw_ligo_hv,2025,78.1,,,executed,src_ligo_hv_jr2025_nbb,strong,YE2025 eoy VTE code 105 78.1 (58 VT + 30 DT); tick1674
+bud_ligo_lz_assets_2025,vzw_ligo_lz,2025,1800132,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 balanstotaal 1800132 JUMP from 1528001; tick1675
+bud_ligo_lz_va_2025,vzw_ligo_lz,2025,343571,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 vaste activa 343571 DROP; tick1675
+bud_ligo_lz_mva_2025,vzw_ligo_lz,2025,327579,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 materiele VA 327579 DROP; tick1675
+bud_ligo_lz_install_2025,vzw_ligo_lz,2025,9600,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 installaties 9600 DROP; tick1675
+bud_ligo_lz_meubilair_2025,vzw_ligo_lz,2025,41942,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 meubilair/rollend 41942 DROP; tick1675
+bud_ligo_lz_oth_mva_2025,vzw_ligo_lz,2025,276036,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 overige MVA 276036 DROP (verbouwingen gebruiksrecht); tick1675
+bud_ligo_lz_fva_2025,vzw_ligo_lz,2025,15992,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 financiele VA 15992 flat; tick1675
+bud_ligo_lz_vlottend_2025,vzw_ligo_lz,2025,1456561,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 vlottende activa 1456561 JUMP; tick1675
+bud_ligo_lz_handelsrecv_2025,vzw_ligo_lz,2025,11539,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 handelsvorderingen ST 11539 JUMP; tick1675
+bud_ligo_lz_other_recv_2025,vzw_ligo_lz,2025,453150,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 overige vorderingen ST 453150 JUMP; tick1675
+bud_ligo_lz_beleg_2025,vzw_ligo_lz,2025,525000,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 geldbeleggingen 525000 JUMP from 225000; tick1675
+bud_ligo_lz_cash_2025,vzw_ligo_lz,2025,434084,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 liquide middelen 434084 DROP from 691464; tick1675
+bud_ligo_lz_prepaid_2025,vzw_ligo_lz,2025,32788,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 32788 JUMP; tick1675
+bud_ligo_lz_equity_2025,vzw_ligo_lz,2025,1468887,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 eigen vermogen 1468887 DROP; tick1675
+bud_ligo_lz_fondsen_2025,vzw_ligo_lz,2025,239468,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 fondsen 239468 flat; tick1675
+bud_ligo_lz_destin_2025,vzw_ligo_lz,2025,1165992,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 bestemde fondsen 1165992 flat (infrastructuur 1130099 + sociaal passief 35893); tick1675
+bud_ligo_lz_overgedragen_2025,vzw_ligo_lz,2025,53545,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 overgedragen winst 53545 DROP; tick1675
+bud_ligo_lz_kapsubs_2025,vzw_ligo_lz,2025,9881,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 kapitaalsubsidies 9881 flat (ICT); tick1675
+bud_ligo_lz_debt_2025,vzw_ligo_lz,2025,331245,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 schulden 331245 JUMP from 37729; tick1675
+bud_ligo_lz_st_debt_2025,vzw_ligo_lz,2025,24449,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 schulden ST 24449 DROP; tick1675
+bud_ligo_lz_lev_2025,vzw_ligo_lz,2025,22754,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 leveranciers ST 22754 DROP; tick1675
+bud_ligo_lz_taxsoc_2025,vzw_ligo_lz,2025,1695,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 1695 NEW (=soc); tick1675
+bud_ligo_lz_accrued_2025,vzw_ligo_lz,2025,306796,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 306796 JUMP from 12700 (unused subsidies); tick1675
+bud_ligo_lz_bruto_2025,vzw_ligo_lz,2025,3313013,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 brutomarge 9900 3313013 JUMP ENVELOPE (CODO on-books first year); tick1675
+bud_ligo_lz_code73_2025,vzw_ligo_lz,2025,3834301,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 lidgeld/schenkingen/legaten/subsidies 73 3834301 JUMP; tick1675
+bud_ligo_lz_diensten_2025,vzw_ligo_lz,2025,543133,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 handelsgoederen/diensten 60/61 543133 DROP (incl AHOVOKS PWB 47509); tick1675
+bud_ligo_lz_ahovoks_2025,vzw_ligo_lz,2025,47509,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 AHOVOKS PWB recharge notes 47509; tick1675
+bud_ligo_lz_pers_2025,vzw_ligo_lz,2025,3256606,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 bezoldigingen 62 3256606 JUMP; notes CODO 3123453 + vzw 47899 = 3171353 class; VTE 9087 filed 0; tick1675
+bud_ligo_lz_codo_pers_2025,vzw_ligo_lz,2025,3123453,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 notes CODO gesubsidieerd overheidspersoneel 3123453 (booked 623/737 first year); tick1675
+bud_ligo_lz_vzw_pers_2025,vzw_ligo_lz,2025,47899,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 notes vzw eigen personeelskost 47899; tick1675
+bud_ligo_lz_afschr_2025,vzw_ligo_lz,2025,84151,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 afschrijvingen 630 84151 DROP; tick1675
+bud_ligo_lz_expl_2025,vzw_ligo_lz,2025,-27796,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 bedrijfsverlies -27796 DEEPER; tick1675
+bud_ligo_lz_fininc_2025,vzw_ligo_lz,2025,7018,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 financiele opbrengsten 7018 DROP; tick1675
+bud_ligo_lz_fincost_2025,vzw_ligo_lz,2025,607,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 financiele kosten 607 JUMP; tick1675
+bud_ligo_lz_pnl_2025,vzw_ligo_lz,2025,-21385,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 verlies -21385 FLIP from +1444; tick1675
+bud_ligo_lz_headcount_2025,vzw_ligo_lz,2025,106,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 headcount notes 106 collegas (3 educatieve teams + 25 ondersteuning); tick1675
+bud_ligo_lz_vte_filed_2025,vzw_ligo_lz,2025,0,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 VTE 9087 filed 0 (sociale balans 6.7 not filed); tick1675
+bud_ligo_lz_named_local_subs_2025,vzw_ligo_lz,2025,742567,,,executed,src_ligo_lz_jr2025_nbb,strong,YE2025 notes named local/project subsidies sum class 742567 (excl main Decreet/CODO); tick1675
