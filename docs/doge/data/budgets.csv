@@ -47541,3 +47541,35 @@ bud_sam_fininc_2025,vzw_sam,2025,53017,,,executed,src_sam_jr2025_nbb,strong,YE20
 bud_sam_fincost_2025,vzw_sam,2025,206,,,executed,src_sam_jr2025_nbb,strong,YE2025 financiele kosten 206 DROP; tick1634
 bud_sam_pnl_2025,vzw_sam,2025,51508,,,executed,src_sam_jr2025_nbb,strong,YE2025 winst 51508 JUMP; tick1634
 bud_sam_commissaris_fee_2025,vzw_sam,2025,8712,,,executed,src_sam_jr2025_nbb,strong,YE2025 commissaris ereloon incl BTW 8712; tick1634
+bud_levl_assets_2025,vzw_levl,2025,1099822,,,executed,src_levl_jr2025_nbb,strong,YE2025 balanstotaal 1099822 JUMP from 398508; tick1635
+bud_levl_va_2025,vzw_levl,2025,19067,,,executed,src_levl_jr2025_nbb,strong,YE2025 vaste activa 19067 DROP (IVA net 0 + MVA 9084 + FVA 9983); tick1635
+bud_levl_iva_2025,vzw_levl,2025,0,,,executed,src_levl_jr2025_nbb,strong,YE2025 immateriele VA net 0 (fully depreciated; prior 18052); tick1635
+bud_levl_mva_2025,vzw_levl,2025,9084,,,executed,src_levl_jr2025_nbb,strong,YE2025 materiele VA 9084 DROP; tick1635
+bud_levl_fva_2025,vzw_levl,2025,9983,,,executed,src_levl_jr2025_nbb,strong,YE2025 financiele VA 9983 flat; tick1635
+bud_levl_vlottend_2025,vzw_levl,2025,1080755,,,executed,src_levl_jr2025_nbb,strong,YE2025 vlottende activa 1080755 JUMP; tick1635
+bud_levl_handelsrecv_2025,vzw_levl,2025,3503,,,executed,src_levl_jr2025_nbb,strong,YE2025 handelsvorderingen ST 3503 JUMP; tick1635
+bud_levl_other_recv_2025,vzw_levl,2025,264380,,,executed,src_levl_jr2025_nbb,strong,YE2025 overige vorderingen ST 264380 JUMP; tick1635
+bud_levl_cash_2025,vzw_levl,2025,808546,,,executed,src_levl_jr2025_nbb,strong,YE2025 liquide middelen 808546 JUMP from 99455; tick1635
+bud_levl_prepaid_2025,vzw_levl,2025,4327,,,executed,src_levl_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 4327; tick1635
+bud_levl_equity_2025,vzw_levl,2025,241666,,,executed,src_levl_jr2025_nbb,strong,YE2025 eigen vermogen 241666 JUMP; tick1635
+bud_levl_destin_2025,vzw_levl,2025,207579,,,executed,src_levl_jr2025_nbb,strong,YE2025 bestemde fondsen 207579 flat (sociaal passief 9072 + VG enveloppe 198507); tick1635
+bud_levl_overgedragen_2025,vzw_levl,2025,34087,,,executed,src_levl_jr2025_nbb,strong,YE2025 overgedragen winst 34087 JUMP; tick1635
+bud_levl_debt_2025,vzw_levl,2025,858156,,,executed,src_levl_jr2025_nbb,strong,YE2025 schulden 858156 JUMP from 177728; tick1635
+bud_levl_st_debt_2025,vzw_levl,2025,136330,,,executed,src_levl_jr2025_nbb,strong,YE2025 schulden ST 136330 DROP; tick1635
+bud_levl_fin_st_2025,vzw_levl,2025,2850,,,executed,src_levl_jr2025_nbb,strong,YE2025 financiele schulden ST overige leningen 2850 NEW; tick1635
+bud_levl_lev_2025,vzw_levl,2025,42234,,,executed,src_levl_jr2025_nbb,strong,YE2025 leveranciers ST 42234 JUMP; tick1635
+bud_levl_taxsoc_2025,vzw_levl,2025,94096,,,executed,src_levl_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 94096 DROP (tax 8146 + soc 85950); tick1635
+bud_levl_othdebt_2025,vzw_levl,2025,7006,,,executed,src_levl_jr2025_nbb,strong,YE2025 overige schulden ST 7006 NEW; tick1635
+bud_levl_accrued_2025,vzw_levl,2025,721825,,,executed,src_levl_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 721825 JUMP from 1888; tick1635
+bud_levl_bruto_2025,vzw_levl,2025,846284,,,executed,src_levl_jr2025_nbb,strong,YE2025 brutomarge 9900 846284 DROP ENVELOPE; tick1635
+bud_levl_omzet_2025,vzw_levl,2025,12367,,,executed,src_levl_jr2025_nbb,strong,YE2025 omzet 70 12367 DROP; tick1635
+bud_levl_code73_2025,vzw_levl,2025,1113708,,,executed,src_levl_jr2025_nbb,strong,YE2025 lidgeld/schenk/legaten/subsidies 73 1113708 DROP; tick1635
+bud_levl_diensten_2025,vzw_levl,2025,298762,,,executed,src_levl_jr2025_nbb,strong,YE2025 handelsgoederen/diensten 60/61 298762 JUMP; tick1635
+bud_levl_pers_2025,vzw_levl,2025,802062,,,executed,src_levl_jr2025_nbb,strong,YE2025 bezoldigingen 62 802062 DROP / 9.3 VTE (DROP from 12.4); tick1635
+bud_levl_afschr_2025,vzw_levl,2025,21658,,,executed,src_levl_jr2025_nbb,strong,YE2025 afschrijvingen 630 21658 DROP; tick1635
+bud_levl_andere_2025,vzw_levl,2025,1735,,,executed,src_levl_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 1735 DROP; tick1635
+bud_levl_expl_2025,vzw_levl,2025,20830,,,executed,src_levl_jr2025_nbb,strong,YE2025 bedrijfswinst 20830 PROFIT FLIP from -15045; tick1635
+bud_levl_fininc_2025,vzw_levl,2025,548,,,executed,src_levl_jr2025_nbb,strong,YE2025 financiele opbrengsten 548 JUMP; tick1635
+bud_levl_fincost_2025,vzw_levl,2025,328,,,executed,src_levl_jr2025_nbb,strong,YE2025 financiele kosten 328 DROP; tick1635
+bud_levl_tax_2025,vzw_levl,2025,164,,,executed,src_levl_jr2025_nbb,strong,YE2025 belastingen 164; tick1635
+bud_levl_pnl_2025,vzw_levl,2025,20886,,,executed,src_levl_jr2025_nbb,strong,YE2025 winst 20886 PROFIT FLIP from -17799; tick1635
