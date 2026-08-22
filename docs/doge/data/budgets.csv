@@ -50601,3 +50601,17 @@ bud_brembloem_immo_cash_2025,nv_brembloem_immo,2025,352694,,,stock,src_brembloem
 bud_brembloem_immo_marge_2025,nv_brembloem_immo,2025,1274371,,,realized,src_brembloem_immo_jr2025_nbb,strong,Marge bruto 1274371 (VKT-kap; CA undisclosed); tick1781
 bud_brembloem_immo_expl_2025,nv_brembloem_immo,2025,756884,,,realized,src_brembloem_immo_jr2025_nbb,strong,Bedrijfswinst 756884; 0 staff code; tick1781
 bud_brembloem_immo_pnl_2025,nv_brembloem_immo,2025,434277,,,realized,src_brembloem_immo_jr2025_nbb,strong,PnL 434277; no dividend; tick1781
+bud_cedrebleu_assets_2025,nv_cedrebleu,2025,14161580,,,stock,src_cedrebleu_jr2025_nbb,strong,Assets YE2025 14161580; tick1782
+bud_cedrebleu_equity_2025,nv_cedrebleu,2025,36987,,,stock,src_cedrebleu_jr2025_nbb,strong,Equity 36987 flip from NEG -96738; Art7229 thin; tick1782
+bud_cedrebleu_debt_2025,nv_cedrebleu,2025,14056594,,,stock,src_cedrebleu_jr2025_nbb,strong,Debt 14056594; tick1782
+bud_cedrebleu_leasing_lt_2025,nv_cedrebleu,2025,6664266,,,stock,src_cedrebleu_jr2025_nbb,strong,LT credit/leasing 172/3=6664266; option 152060; tick1782
+bud_cedrebleu_fva_2025,nv_cedrebleu,2025,7503000,,,stock,src_cedrebleu_jr2025_nbb,strong,Immobilisations financieres 7503000; tick1782
+bud_cedrebleu_autres_creances_2025,nv_cedrebleu,2025,452224,,,stock,src_cedrebleu_jr2025_nbb,strong,Autres creances ST 452224; tick1782
+bud_cedrebleu_autres_dettes_st_2025,nv_cedrebleu,2025,4272538,,,stock,src_cedrebleu_jr2025_nbb,strong,Autres dettes ST 4272538; tick1782
+bud_cedrebleu_accruals_2025,nv_cedrebleu,2025,2467321,,,stock,src_cedrebleu_jr2025_nbb,strong,Comptes regularisation passif 2467321; tick1782
+bud_cedrebleu_cash_2025,nv_cedrebleu,2025,163333,,,stock,src_cedrebleu_jr2025_nbb,strong,Cash 163333 JUMP vs 69188; tick1782
+bud_cedrebleu_marge_2025,nv_cedrebleu,2025,3178410,,,realized,src_cedrebleu_jr2025_nbb,strong,Marge bruto 3178410 incl nrec expl 125784 (A-cap; CA undisclosed); tick1782
+bud_cedrebleu_staff_2025,nv_cedrebleu,2025,2245977,,,realized,src_cedrebleu_jr2025_nbb,strong,Staff 2245977 / VTE 36.6; tick1782
+bud_cedrebleu_expl_2025,nv_cedrebleu,2025,550271,,,realized,src_cedrebleu_jr2025_nbb,strong,Benefice exploitation 550271; tick1782
+bud_cedrebleu_pnl_2025,nv_cedrebleu,2025,133725,,,realized,src_cedrebleu_jr2025_nbb,strong,PnL 133725; no dividend; perte reportée -31213; tick1782
+bud_cedrebleu_rivage_gage_2025,nv_cedrebleu,2025,135600000,,,stock,src_cedrebleu_jr2025_nbb,strong,VIVALTO LEASE/RIVAGE gage 135600000 group undivided; assets grevés 8393515; tick1782
