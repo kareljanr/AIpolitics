@@ -20997,3 +20997,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; entities +1 vzw_klavertje4; budgets +10; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1759=done + rq_1760 spawn; ticks_completed=1759. Raw docs/doge/raw/tick1759/.
 - FOI opened: gap_klavertje4_bruto_0_87m_staff_0_88m_loss_flip_l5 ready (omzet/staff>bruto/related recv). Do not send.
 - Next: rq_1760 **MUST every-10** progress coverage % + waste top10 after residual 1751-1759.
+
+### 2026-08-24T13:45:00Z - tick 1760
+- Unit: **rq_1760 EVERY-10** progress coverage % layers A-E + waste top10 after residual dual 1751-1759 (HVZ Waasland · HVZ Rand · HVZ Zuid-Oost · BWOL · BZA · Vivalys · Felicite · De Molen/Stuivenberg · Klavertje 4). Pure annual top10 re-verified stable. NOT a second municipality fill.
+- Found: A/B still **100%**; C ~**99%**; D still **~74-88%** generous of TE (honest: residual dual L5 gains not near-complete of €348bn). FOI ready **~1384**. Major NEW since 1750: **BZA** BW1 gewone **109.17m**/pers **87.83m**; **De Molen** opbr **14.96m**/omzet **14.90m**/staff **9.53m**/related recv **2.84m**; **HVZ Rand** **29.04m**; **HVZ Zuid-Oost** **26.37m**; **Vivalys** bruto **5.53m**/equity NEG **8.63m**; **Felicite** bruto **1.52m**/equity NEG **0.38m**; **Klavertje 4** bruto **0.87m**/staff>bruto/loss flip; **BWOL** MU **3.33m**; **HVZ Waasland** JR FOI.
+- Wrote: progress_every_10_ticks.md snapshot 1760; doge_waste_top10_current.md as-of 1760; rq_1760=done + rq_1761 spawn; ticks_completed=1760.
+- FOI: none new (decade refresh). Human-send backlog unchanged.
+- Inventory: entities **1484** · sources **4108** · budgets **50371** · commitments **5341** · leaderboard **7540** · FOI ready **1384** / answered **9** / partial **27** / total **1432**.
+- Next: rq_1761 leftover AGB/**NSZ if CDN 200**/Bosgroep/Brembloem-if-200/Dijk92 / APEFE / ABS/POV/BVAS / IOED / HVZ-VBWest / other Vivalto sisters / IGS / WZC. Do NOT redo BZA/DeMolen/Felicite/Vivalys/Klavertje4. **Next every-10 is 1770**.

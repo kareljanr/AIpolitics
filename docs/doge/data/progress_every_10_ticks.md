@@ -20,6 +20,43 @@
 
 ---
 
+## Snapshot at **tick 1760** (2026-08-24)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1751-1759 leftover HVZ + Vivalto WZC: **HVZ Waasland** · **HVZ Rand** · **HVZ Zuid-Oost** · **BWOL** · **BZA** · **Vivalys** · **Felicite** · **De Molen/Stuivenberg** · **Klavertje 4** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1751-1759 is residual dual L5 fire+care (not near-complete of 348bn):** **BZA** BW1 gewone **109.17m** (pers **87.83m**) · **De Molen** opbr **14.96m** / omzet **14.90m** / staff **9.53m** · **Vivalys** bruto **5.53m** (equity NEG **8.63m** + comfort) · **HVZ Rand** B2025 inkomsten **29.04m** · **HVZ Zuid-Oost** B2026 gewone **26.37m** · **Felicite** bruto **1.52m** (equity NEG **0.38m** + comfort) · **Klavertje 4** bruto **0.87m** (staff>bruto / loss flip) · **BWOL** MU partial **3.33m** · **HVZ Waasland** JR approved euros FOI · prior Vivalto Home BE / HVZ Rivierenland+Centrum / Armonea/Colisée wave retained |
+| **E. FOI-ready gaps** | **~1384** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1432** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ shells** (**NEW BZA** BW1 **EUR109.17m** · **De Molen** opbr **EUR14.96m** · **Vivalys** bruto **EUR5.53m** equity NEG **EUR8.63m** · **HVZ Rand** **EUR29.04m** · **HVZ Zuid-Oost** **EUR26.37m** · **Felicite/Klavertje4** Vivalto continuum · prior **Vivalto Home BE** assets **EUR266.81m** · **HVZ Centrum** Gent dots **EUR46.93m** · **HVZ Rivierenland** spend **EUR36.63m** · **Armonea** opbr **EUR265.19m** · **Colisée** LOSS **EUR79.75m** · **Natuurpunt** assets **EUR488.81m** · **GO!** assets **EUR1.16bn** retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1760)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 50371 |
+| commitments.csv | 5341 |
+| leaderboard.csv | 7540 |
+| entities.csv | 1484 |
+| sources.csv | 4108 |
+| FOI ready | 1384 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1432 |
+| research_queue open | rq_116 deferred + rq_1761 hole-fill after progress |
+
+### What improved since tick 1750
+
+- **Residual dual leftover HVZ + Vivalto WZC wave (tick1751-1759):** **HVZ Waasland** · **HVZ Rand** · **HVZ Zuid-Oost** · **BWOL** · **BZA** · **Vivalys** · **Felicite** · **De Molen/Stuivenberg** · **Klavertje 4** — no invented euros.
+- **NEW (tick1755):** **Brandweer Zone Antwerpen** (KBO **0500.913.443**) BW1-2026 gewone uitgaven **109.171.089,48** / pers **87.829.104,51** / gemdot **87.329.033,51** / fed **13.450.919,50**. JR2025 vastgesteld; full rekening FOI.
+- **NEW (tick1752-1754):** **HVZ Rand** B2025 inkomsten **29.036.748** · **HVZ Zuid-Oost** B2026 gewone **26.373.693,59** · **BWOL** Justel MU **3.334.455,78** (JR PDF unextractable FOI) · **HVZ Waasland** JR Goedgekeurd euros unpublished FOI.
+- **NEW (tick1756-1759):** Vivalto continuum — **Vivalys** bruto **5.53m**/equity NEG **8.63m**+comfort · **Felicite** bruto **1.52m**/equity NEG **0.38m**+comfort · **De Molen** (Stuivenberg Evergem) opbr **14.96m**/omzet **14.90m**/staff **9.53m**/related recv **2.84m** · **Klavertje 4** bruto **0.87m**/staff>bruto/loss flip.
+- **Dual map themes:** leftover HVZ municipal+fed fire envelopes (BZA largest this decade) · Vivalto WZC comfort/NEG equity continuum · De Molen related-party receivables · prior Vivalto Home BE / Armonea/Colisée retained.
+- **Blocked still:** AGB Bornem JR2024-only · Dijk92 CDN **403** · APEFE YE2025 CDN **403** · NSZ CDN **403** · Brembloem VZW no JR2025 CDN · ABS/BVAS/POV no NBB · VBWest JR2025 still verdaged.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1770**.
+
 ## Snapshot at **tick 1750** (2026-08-24)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
