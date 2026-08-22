@@ -48966,3 +48966,40 @@ bud_ligo_zovl_fininc_2025,vzw_ligo_zovl,2025,10963,,,executed,src_ligo_zovl_jr20
 bud_ligo_zovl_fincost_2025,vzw_ligo_zovl,2025,25512,,,executed,src_ligo_zovl_jr2025_nbb,strong,YE2025 financiele kosten 25512 DROP; tick1681
 bud_ligo_zovl_tax_2025,vzw_ligo_zovl,2025,3265,,,executed,src_ligo_zovl_jr2025_nbb,strong,YE2025 belastingen op resultaat 3265 JUMP; tick1681
 bud_ligo_zovl_pnl_2025,vzw_ligo_zovl,2025,35140,,,executed,src_ligo_zovl_jr2025_nbb,strong,YE2025 winst 35140 DROP from 112065; tick1681
+bud_ligo_bow_assets_2025,vzw_ligo_bow,2025,6452536,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 balanstotaal 6452536 DROP from 6683606; tick1682
+bud_ligo_bow_va_2025,vzw_ligo_bow,2025,3953759,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 vaste activa 3953759 DROP; tick1682
+bud_ligo_bow_mva_2025,vzw_ligo_bow,2025,3922274,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 materiele VA 3922274 DROP; tick1682
+bud_ligo_bow_gebouwen_2025,vzw_ligo_bow,2025,3777217,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 terreinen/gebouwen 3777217 DROP; tick1682
+bud_ligo_bow_install_2025,vzw_ligo_bow,2025,113138,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 installaties 113138 DROP; tick1682
+bud_ligo_bow_meubilair_2025,vzw_ligo_bow,2025,31919,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 meubilair/rollend 31919 JUMP; tick1682
+bud_ligo_bow_fva_2025,vzw_ligo_bow,2025,31485,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 financiele VA 31485 JUMP; tick1682
+bud_ligo_bow_vlottend_2025,vzw_ligo_bow,2025,2498777,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 vlottende activa 2498777 JUMP; tick1682
+bud_ligo_bow_handelsrecv_2025,vzw_ligo_bow,2025,108162,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 handelsvorderingen ST 108162 DROP; tick1682
+bud_ligo_bow_other_recv_2025,vzw_ligo_bow,2025,78772,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 overige vorderingen ST 78772 JUMP; tick1682
+bud_ligo_bow_beleg_2025,vzw_ligo_bow,2025,950000,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 geldbeleggingen 950000 flat; tick1682
+bud_ligo_bow_cash_2025,vzw_ligo_bow,2025,899085,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 liquide middelen 899085 DROP; tick1682
+bud_ligo_bow_prepaid_2025,vzw_ligo_bow,2025,462758,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 462758 JUMP; tick1682
+bud_ligo_bow_equity_2025,vzw_ligo_bow,2025,5154548,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 eigen vermogen 5154548 DROP; tick1682
+bud_ligo_bow_fondsen_2025,vzw_ligo_bow,2025,1049673,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 fondsen 1049673 flat; tick1682
+bud_ligo_bow_destin_2025,vzw_ligo_bow,2025,694308,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 bestemde fondsen 694308 flat; tick1682
+bud_ligo_bow_overgedragen_2025,vzw_ligo_bow,2025,1289506,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 overgedragen winst 1289506 JUMP; tick1682
+bud_ligo_bow_kapsubs_2025,vzw_ligo_bow,2025,2121061,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 kapitaalsubsidies 2121061 DROP; tick1682
+bud_ligo_bow_debt_2025,vzw_ligo_bow,2025,1297988,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 schulden 1297988 DROP; tick1682
+bud_ligo_bow_lt_fin_2025,vzw_ligo_bow,2025,969930,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 financiele schulden LT 969930 DROP; tick1682
+bud_ligo_bow_st_debt_2025,vzw_ligo_bow,2025,156074,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 schulden ST 156074 DROP; tick1682
+bud_ligo_bow_st_current_lt_2025,vzw_ligo_bow,2025,79574,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 LT binnen jaar 79574 JUMP; tick1682
+bud_ligo_bow_lev_2025,vzw_ligo_bow,2025,69380,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 leveranciers ST 69380 DROP; tick1682
+bud_ligo_bow_taxsoc_2025,vzw_ligo_bow,2025,6467,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 6467 (=soc); tick1682
+bud_ligo_bow_accrued_2025,vzw_ligo_bow,2025,171984,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 171984 JUMP; tick1682
+bud_ligo_bow_bruto_2025,vzw_ligo_bow,2025,357397,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 brutomarge 9900 357397 DROP ENVELOPE (on-books; 70/73/60-61 empty); tick1682
+bud_ligo_bow_pers_2025,vzw_ligo_bow,2025,110894,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 bezoldigingen 62 110894 JUMP / 1.9 VTE; website 150+ medewerkers likely off-books CODO class; tick1682
+bud_ligo_bow_afschr_2025,vzw_ligo_bow,2025,400215,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 afschrijvingen 630 400215 JUMP; tick1682
+bud_ligo_bow_expl_2025,vzw_ligo_bow,2025,-153712,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 bedrijfsverlies -153712 FLIP from +26531; tick1682
+bud_ligo_bow_fininc_2025,vzw_ligo_bow,2025,213365,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 financiele opbrengsten 213365 DROP; tick1682
+bud_ligo_bow_fincost_2025,vzw_ligo_bow,2025,17448,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 financiele kosten 17448 JUMP; tick1682
+bud_ligo_bow_tax_2025,vzw_ligo_bow,2025,5862,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 belastingen op resultaat 5862 DROP; tick1682
+bud_ligo_bow_pnl_2025,vzw_ligo_bow,2025,36342,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 winst 36342 DROP from 252688; tick1682
+bud_ligo_bow_vte_2025,vzw_ligo_bow,2025,1.9,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 1.9 JUMP from 1.7; tick1682
+bud_ligo_bow_gov_guaranteed_debt_2025,vzw_ligo_bow,2025,1049505,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 door Belgische overheidsinstellingen gewaarborgde schulden 1049505; tick1682
+bud_ligo_bow_hypotheek_boek_2025,vzw_ligo_bow,2025,3777217,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 hypotheek bezwaarde activa boekwaarde 3777217; tick1682
+bud_ligo_bow_purchase_compromis_2025,vzw_ligo_bow,2025,1499400,,,executed,src_ligo_bow_jr2025_nbb,strong,YE2025 off-balance aankoopcompromis onroerend goed 1499400; tick1682
