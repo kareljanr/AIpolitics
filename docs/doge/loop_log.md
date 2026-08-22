@@ -21139,3 +21139,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_agedor; budgets (+15); commitments; leaderboard; foi_queue ready prio9; research_queue rq_1779=done + rq_1780 spawned (MUST every-10); loop_state ticks=1779; FOI draft gap_agedor_ca_6_12m_equity_neg_1_29m_comfort_rivage_l5.md
 - FOI opened: gap_agedor_ca_6_12m_equity_neg_1_29m_comfort_rivage_l5 (**ready**, not sent)
 - Next: rq_1780 — **MUST every-10** + leftover AGB/NSZ/Bosgroep/Brembloem
+
+### 2026-08-24T20:15:00Z — tick 1780 (every-10)
+- Unit: rq_1780 — **every-10 progress coverage % + waste top10**
+- Found: Re-verified pure annual top10 **stable** (GIP 8.7 · fossil direct 8.55 · accises 8.5 · company cars 8.5 · heatoil 8.43 · cheque/CO2/OAA/BCR/dual cars 8.4). Inventory: budgets **50592** · commitments **5359** · leaderboard **7558** · entities **1502** · sources **4162** · FOI ready **1402** / answered **9** / partial **27** / total **1450**. Layers A/B still **100%** of EUR347.956bn TE; C ~99%; D ~74-88% generous (not near-complete). **NEW residual 1771-1779:** Vivalto sister continuum closed (ClosRoses to AgeDor CDN batch + Meridienne/Braine/Centenaire) with undivided **RIVAGE gage EUR135.6m**; **AgeDor** NEG equity **EUR1.29m** + comfort outlier; full-CA **Tonnelle EUR6.76m** / **ClosRoses EUR5.17m**.
+- Wrote: progress_every_10_ticks.md (snapshot 1780); doge_waste_top10_current.md; research_queue rq_1780=done + rq_1781 spawned; loop_state ticks=1780
+- FOI opened: none (progress tick)
+- Next: rq_1781 — leftover AGB/NSZ-if-200/Bosgroep/Brembloem-if-200; next every-10 **1790**
