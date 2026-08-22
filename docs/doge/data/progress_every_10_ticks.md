@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1670** (2026-08-23)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1661-1669 leftover Avansa socio-culture network: **Avansa Gent** · **Avansa MZW** · **Avansa Brugge** · **Avansa Rivierenland** · **Avansa Antwerpen** · **Avansa Citizenne** · **Avansa OW** · **Avansa OB** · **Avansa CV** (merger VAD) |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1661-1669 is residual dual L5 leftover Avansa network (not near-complete of 348bn):** **Avansa Antwerpen** assets **3.59m** bruto **2.19m** (code73 **2.35m** / VL **2.09m**) · **Avansa CV** assets **1.84m** bruto **1.78m** (merger VAD; **18.3 VTE**) · **Avansa OW** assets **1.36m** bruto **0.83m** · **Avansa Brugge** assets **1.13m** bruto **0.68m** · **Avansa OB** assets **1.11m** bruto **1.05m** (code73 **1.14m**) · **Avansa Gent** assets **0.74m** bruto **1.35m** · **Avansa MZW** assets **0.73m** bruto **1.10m** · **Avansa Riv** assets **0.84m** bruto **0.63m** · **Avansa Citizenne** assets **0.82m** bruto **0.86m** · prior Familiehulp/UNIZO/VOKA/Samana/Avansa HV-Lim-Kem stack retained |
+| **E. FOI-ready gaps** | **~1302** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1350** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + koepel/NGO shells** (**NEW Avansa Antwerpen** assets **EUR3.59m** bruto **EUR2.19m** · **Avansa CV** assets **EUR1.84m** bruto **EUR1.78m** merger VAD · **Avansa OW** assets **EUR1.36m** · **Avansa Brugge** assets **EUR1.13m** · **Avansa OB** assets **EUR1.11m** · **Avansa Gent/MZW/Riv/Citizenne** · prior Familiehulp/UNIZO/VOKA/Samana/Avansa HV-Lim-Kem stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1670)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 48602 |
+| commitments.csv | 5259 |
+| leaderboard.csv | 7462 |
+| entities.csv | 1403 |
+| sources.csv | 3773 |
+| FOI ready | 1302 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1350 |
+| research_queue open | rq_116 deferred + rq_1671 hole-fill after progress |
+
+### What improved since tick 1660
+
+- **VL residual dual leftover Avansa network completion (tick1661-1669):** **Avansa Gent** assets **0.74m** bruto **1.35m** · **Avansa MZW** assets **0.73m** bruto **1.10m** · **Avansa Brugge** assets **1.13m** bruto **0.68m** · **Avansa Rivierenland** assets **0.84m** bruto **0.63m** · **Avansa Antwerpen** assets **3.59m** bruto **2.19m** (code73 **2.35m** / VL **2.09m**) · **Avansa Citizenne** assets **0.82m** bruto **0.86m** · **Avansa OW** assets **1.36m** bruto **0.83m** · **Avansa OB** assets **1.11m** bruto **1.05m** (code73 **1.14m**) · **Avansa CV** assets **1.84m** bruto **1.78m** (**merger VAD 01.01.2025**; **18.3 VTE**) — no invented euros.
+- **NEW (tick1665+1669):** **Avansa Antwerpen** (KBO 0859.621.423) largest this wave. Official NBB VKT-VZW deposit **2026-00065326**. Assets **3.588.230** · bruto **2.188.147** · code73 **2.345.828** (VL **2.091.551** + Via **158.997** + maribel **95.280**) · pers **2.044.284** / **24.2 VTE** · cash **2.367.382** · PnL **112.188**. **Avansa CV** (KBO 0860.160.861) post-merger with Vlaamse Ardennen-Dender. Official NBB VKT-VZW deposit **2026-00108487**. Assets **1.835.859** · bruto **1.780.231** · pers **1.734.549** / **18.3 VTE** · cash **1.077.878** · PnL **1.292**. FOI ready.
+- **Dual map themes:** leftover Avansa socio-culture network (Gent/MZW/Brugge/Riv/Ant/Cit/OW/OB/CV+VAD) · prior Familiehulp/UNIZO/VOKA/Samana/HV-Lim-Kem stack retained.
+- **Blocked still:** AGB/APB unpublished · Dijk92 CDN **200** but **no JR euros** · FARO JR2024 · APEFE CDN **403** · NSZ CDN **403** · Amnesty VL + Natuurpunt scanned image PDF.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1680**.
+
 ## Snapshot at **tick 1660** (2026-08-23)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
