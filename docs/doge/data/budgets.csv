@@ -47241,3 +47241,35 @@ bud_liga_expl_2025,vzw_liga,2025,-2460,,,executed,src_liga_jr2025_nbb,strong,YE2
 bud_liga_fininc_2025,vzw_liga,2025,10317,,,executed,src_liga_jr2025_nbb,strong,YE2025 financiele opbrengsten 10317 JUMP; tick1624
 bud_liga_fincost_2025,vzw_liga,2025,528,,,executed,src_liga_jr2025_nbb,strong,YE2025 financiele kosten 528; tick1624
 bud_liga_pnl_2025,vzw_liga,2025,7328,,,executed,src_liga_jr2025_nbb,strong,YE2025 winst 7328 PROFIT FLIP from -34835; tick1624
+bud_cavaria_assets_2025,vzw_cavaria,2025,5521284,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 balanstotaal 5521284 JUMP from 1160251 (merger Lumi+KliQ); tick1625
+bud_cavaria_va_2025,vzw_cavaria,2025,56098,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 vaste activa 56098 DROP; tick1625
+bud_cavaria_mva_2025,vzw_cavaria,2025,51042,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 materiele VA 51042 DROP; tick1625
+bud_cavaria_fva_2025,vzw_cavaria,2025,5056,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 financiele VA 5056 flat; tick1625
+bud_cavaria_vlottend_2025,vzw_cavaria,2025,5465186,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 vlottende activa 5465186 JUMP; tick1625
+bud_cavaria_voorraden_2025,vzw_cavaria,2025,18519,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 voorraden 18519; tick1625
+bud_cavaria_handelsrecv_2025,vzw_cavaria,2025,8007,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 handelsvorderingen ST 8007 JUMP; tick1625
+bud_cavaria_other_recv_2025,vzw_cavaria,2025,306482,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 overige vorderingen ST 306482 DROP; tick1625
+bud_cavaria_beleg_2025,vzw_cavaria,2025,4650334,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 geldbeleggingen 4650334 JUMP from 525000 (merger/destin); tick1625
+bud_cavaria_cash_2025,vzw_cavaria,2025,467181,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 liquide middelen 467181 JUMP from 53405; tick1625
+bud_cavaria_prepaid_2025,vzw_cavaria,2025,14662,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 14662; tick1625
+bud_cavaria_equity_2025,vzw_cavaria,2025,4946483,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 eigen vermogen 4946483 JUMP from 815188; tick1625
+bud_cavaria_destin_2025,vzw_cavaria,2025,3455713,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 bestemde fondsen 3455713 JUMP; tick1625
+bud_cavaria_overgedragen_2025,vzw_cavaria,2025,1490770,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 overgedragen winst 1490770 NEW post-merger; tick1625
+bud_cavaria_voorzieningen_2025,vzw_cavaria,2025,110515,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 voorzieningen 110515 JUMP; tick1625
+bud_cavaria_debt_2025,vzw_cavaria,2025,464286,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 schulden 464286 JUMP; tick1625
+bud_cavaria_st_debt_2025,vzw_cavaria,2025,216480,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 schulden ST 216480 DROP; tick1625
+bud_cavaria_lev_2025,vzw_cavaria,2025,12390,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 leveranciers ST 12390 DROP; tick1625
+bud_cavaria_taxsoc_2025,vzw_cavaria,2025,183519,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 bezoldigingen/sociale lasten ST 183519 JUMP; tick1625
+bud_cavaria_othdebt_2025,vzw_cavaria,2025,16925,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 overige schulden ST 16925 DROP; tick1625
+bud_cavaria_accrued_2025,vzw_cavaria,2025,247806,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 247806 JUMP from 594; tick1625
+bud_cavaria_bruto_2025,vzw_cavaria,2025,1590179,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 brutomarge 9900 1590179 JUMP ENVELOPE (70/73/60-61 empty); tick1625
+bud_cavaria_pers_2025,vzw_cavaria,2025,1759855,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 bezoldigingen 62 1759855 JUMP / 22.9 VTE (JUMP from 16.5 merger); tick1625
+bud_cavaria_afschr_2025,vzw_cavaria,2025,36986,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 afschrijvingen 630 36986 DROP; tick1625
+bud_cavaria_waardev_2025,vzw_cavaria,2025,-1550,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 waardeverminderingen 631/4 -1550 reprise; tick1625
+bud_cavaria_voorz_2025,vzw_cavaria,2025,9939,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 voorzieningen toevoeging 635/9 9939; tick1625
+bud_cavaria_andere_2025,vzw_cavaria,2025,25416,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 25416 JUMP; tick1625
+bud_cavaria_nietrec_cost_2025,vzw_cavaria,2025,44852,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfskosten 66A 44852 JUMP; tick1625
+bud_cavaria_expl_2025,vzw_cavaria,2025,-285319,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 bedrijfsverlies -285319 LOSS FLIP from +109617; tick1625
+bud_cavaria_fininc_2025,vzw_cavaria,2025,31700,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 financiele opbrengsten 31700 JUMP; tick1625
+bud_cavaria_fincost_2025,vzw_cavaria,2025,5553,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 financiele kosten 5553 JUMP; tick1625
+bud_cavaria_pnl_2025,vzw_cavaria,2025,-259172,,,executed,src_cavaria_jr2025_nbb,strong,YE2025 verlies -259172 LOSS FLIP from +121018; tick1625
