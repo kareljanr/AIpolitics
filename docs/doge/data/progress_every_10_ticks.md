@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1700** (2026-08-23)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1691-1699 leftover NGO/zorg/speerpunt: **Oranje** · **Oxfam België** · **Domus Medica** · **Oxfam-Wereldwinkels** · **Oxfam Fairtrade** · **Fairtrade Belgium** · **VIVEL** · **VIL** · **Flanders' FOOD** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1691-1699 is residual dual L5 (not near-complete of 348bn):** **Oranje** assets **18.77m** opbr **21.71m** (code73 **17.94m** / pers **15.73m** / **206.6 VTE**) · **Oxfam Fairtrade** assets **9.45m** opbr **18.21m** (omzet **17.71m** / loss **-0.52m**) · **Flanders' FOOD** assets **23.65m** bruto **3.41m** (other recv **19.12m** pass-through) · **VIL** assets **12.24m** bruto **2.02m** (equity **9.93m**) · **VIVEL** assets **1.45m** bruto **2.05m** · **Domus Medica** assets **3.77m** bruto **1.97m** · **Fairtrade Belgium** assets **3.40m** bruto **1.79m** · **OWW** assets **5.65m** bruto **1.74m** (OFT FVA **4.20m**) · **Oxfam België** assets **0.38m** bruto **0.90m** (equity **0**) · prior Natuurpunt/Ligo/Amnesty/VVT wave retained |
+| **E. FOI-ready gaps** | **~1329** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1377** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + koepel/NGO shells** (**NEW Flanders' FOOD** assets **EUR23.65m** other recv **EUR19.12m** · **Oranje** assets **EUR18.77m** opbr **EUR21.71m** · **Oxfam Fairtrade** assets **EUR9.45m** opbr **EUR18.21m** · **VIL** assets **EUR12.24m** equity **EUR9.93m** · **OWW** FVA OFT **EUR4.20m** · **Domus/FairtradeBE/VIVEL/OxfamBE** · prior Natuurpunt Beheer **EUR505.06m** / NLZ / Ligo / Amnesty / VVT stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1700)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 49558 |
+| commitments.csv | 5286 |
+| leaderboard.csv | 7489 |
+| entities.csv | 1430 |
+| sources.csv | 3881 |
+| FOI ready | 1329 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1377 |
+| research_queue open | rq_116 deferred + rq_1701 hole-fill after progress |
+
+### What improved since tick 1690
+
+- **VL residual dual leftover NGO/zorg/speerpunt wave (tick1691-1699):** **Oranje** assets **18.77m** opbr **21.71m** (subs **17.77m** / **206.6 VTE**) · **Oxfam België** assets **0.38m** bruto **0.90m** (zero equity) · **Domus Medica** assets **3.77m** bruto **1.97m** (empty 70/73 / loss) · **Oxfam-Wereldwinkels** assets **5.65m** bruto **1.74m** (code73 **1.96m** / OFT FVA **4.20m**) · **Oxfam Fairtrade** assets **9.45m** opbr **18.21m** (omzet **17.71m** / loss **-0.52m**) · **Fairtrade Belgium** assets **3.40m** bruto **1.79m** (empty 70/73) · **VIVEL** assets **1.45m** bruto **2.05m** (destin **0.87m**) · **VIL** assets **12.24m** bruto **2.02m** (equity **9.93m** / beleg **6.47m**) · **Flanders' FOOD** assets **23.65m** bruto **3.41m** (other recv **19.12m** pass-through / **30.9 VTE**) — no invented euros.
+- **NEW (tick1691+1695+1699):** **Oranje** (KBO 0413.726.972) inclusion/disability subsidy-heavy. Official NBB VOL-VZW **2026-00120163**. Opbr **21.713.771** · code73 **17.938.419** · pers **15.725.778** / **206.6 VTE**. **Oxfam Fairtrade** (KBO 0453.066.016) trading CV. Official NBB VOL-inb **2026-00281268**. Opbr **18.206.289** · omzet **17.712.232** · PnL **-518.334**. **Flanders' FOOD** (KBO 0878.017.175) speerpuntcluster. Official NBB VKT-VZW **2026-00213057**. Assets **23.647.353** · bruto **3.409.599** · other recv **19.123.719** · other ST **14.832.697**. FOI ready.
+- **Dual map themes:** leftover Oxfam network completion (België federation + OWW + Fairtrade CV + Fairtrade Belgium label) · huisartsen-koepel Domus · eerstelijnszorg VIVEL · logistics cluster VIL · agri-food speerpunt Flanders FOOD · inclusion Oranje · prior Natuurpunt/Ligo/Amnesty/VVT retained.
+- **Blocked still:** AGB/APB unpublished · Dijk92 CDN **403** · FARO no JR2025 · APEFE RA2023 only · NSZ CDN **403** (deposit 2026-00394221 live but PDF blocked) · Natuurpunt vzw **0434.364.713** CDN/Northdata opaque.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1710**.
+
 ## Snapshot at **tick 1690** (2026-08-23)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
