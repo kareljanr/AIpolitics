@@ -47149,3 +47149,34 @@ bud_iteco_expl_2025,vzw_iteco,2025,67281,,,executed,src_iteco_jr2025_nbb,strong,
 bud_iteco_fininc_2025,vzw_iteco,2025,2756,,,executed,src_iteco_jr2025_nbb,strong,YE2025 produits financiers 2756 DROP; tick1621; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00202066
 bud_iteco_fincost_2025,vzw_iteco,2025,4570,,,executed,src_iteco_jr2025_nbb,strong,YE2025 charges financieres 4570 JUMP; tick1621; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00202066
 bud_iteco_pnl_2025,vzw_iteco,2025,65467,,,executed,src_iteco_jr2025_nbb,strong,YE2025 benefice 65467 JUMP from 3216; tick1621; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00202066
+bud_ldh_assets_2025,vzw_ldh,2025,1247067,,,executed,src_ldh_jr2025_nbb,strong,YE2025 balanstotaal 1247067 DROP from 1273594; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_va_2025,vzw_ldh,2025,855413,,,executed,src_ldh_jr2025_nbb,strong,YE2025 actifs immobilises 855413 JUMP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_iva_2025,vzw_ldh,2025,18816,,,executed,src_ldh_jr2025_nbb,strong,YE2025 immobilisations incorporelles 18816 NEW; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_mva_2025,vzw_ldh,2025,104863,,,executed,src_ldh_jr2025_nbb,strong,YE2025 immobilisations corporelles 104863 DROP (autres 96568); tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_fva_2025,vzw_ldh,2025,731734,,,executed,src_ldh_jr2025_nbb,strong,YE2025 immobilisations financieres 731734 DROP (material FVA stock); tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_vlottend_2025,vzw_ldh,2025,391653,,,executed,src_ldh_jr2025_nbb,strong,YE2025 actifs circulants 391653 DROP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_handelsrecv_2025,vzw_ldh,2025,25740,,,executed,src_ldh_jr2025_nbb,strong,YE2025 creances commerciales ST 25740 JUMP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_other_recv_2025,vzw_ldh,2025,73870,,,executed,src_ldh_jr2025_nbb,strong,YE2025 autres creances ST 73870 DROP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_cash_2025,vzw_ldh,2025,233232,,,executed,src_ldh_jr2025_nbb,strong,YE2025 valeurs disponibles 233232 DROP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_prepaid_2025,vzw_ldh,2025,58812,,,executed,src_ldh_jr2025_nbb,strong,YE2025 comptes de regularisation actif 58812 JUMP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_equity_2025,vzw_ldh,2025,1087905,,,executed,src_ldh_jr2025_nbb,strong,YE2025 fonds social 1087905 DROP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_fondsen_2025,vzw_ldh,2025,39776,,,executed,src_ldh_jr2025_nbb,strong,YE2025 fonds de l association 39776 flat; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_destin_2025,vzw_ldh,2025,951561,,,executed,src_ldh_jr2025_nbb,strong,YE2025 fonds affectes 951561 JUMP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_kapsubs_2025,vzw_ldh,2025,96568,,,executed,src_ldh_jr2025_nbb,strong,YE2025 subsides en capital 96568 DROP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_voorzieningen_2025,vzw_ldh,2025,4624,,,executed,src_ldh_jr2025_nbb,strong,YE2025 provisions autres risques 4624 NEW; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_debt_2025,vzw_ldh,2025,159162,,,executed,src_ldh_jr2025_nbb,strong,YE2025 dettes 159162 DROP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_st_debt_2025,vzw_ldh,2025,145112,,,executed,src_ldh_jr2025_nbb,strong,YE2025 dettes ST 145112 JUMP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_lev_2025,vzw_ldh,2025,20098,,,executed,src_ldh_jr2025_nbb,strong,YE2025 fournisseurs ST 20098 JUMP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_taxsoc_2025,vzw_ldh,2025,113044,,,executed,src_ldh_jr2025_nbb,strong,YE2025 remunerations/charges sociales ST 113044 JUMP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_othdebt_2025,vzw_ldh,2025,11970,,,executed,src_ldh_jr2025_nbb,strong,YE2025 autres dettes ST 11970 flat; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_accrued_2025,vzw_ldh,2025,14049,,,executed,src_ldh_jr2025_nbb,strong,YE2025 comptes de regularisation passif 14049 DROP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_bruto_2025,vzw_ldh,2025,1040270,,,executed,src_ldh_jr2025_nbb,strong,YE2025 marge brute 9900 1040270 JUMP ENVELOPE (A-ASBL abbreviated; CA 70 empty + 73 empty + 60/61 empty hides subsidy/diensten); tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_pers_2025,vzw_ldh,2025,1003407,,,executed,src_ldh_jr2025_nbb,strong,YE2025 remunerations 62 1003407 JUMP / 16.7 ETP avg (flat vs PY; CP 329); tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_afschr_2025,vzw_ldh,2025,20728,,,executed,src_ldh_jr2025_nbb,strong,YE2025 amortissements 630 20728 JUMP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_voorz_reprise_2025,vzw_ldh,2025,-4624,,,executed,src_ldh_jr2025_nbb,strong,YE2025 provisions reprise 635/9 -4624; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_andere_2025,vzw_ldh,2025,9950,,,executed,src_ldh_jr2025_nbb,strong,YE2025 autres charges d exploitation 640/8 9950 DROP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_nietrec_cost_2025,vzw_ldh,2025,3896,,,executed,src_ldh_jr2025_nbb,strong,YE2025 charges non recurrentes 66A 3896 NEW; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_expl_2025,vzw_ldh,2025,10810,,,executed,src_ldh_jr2025_nbb,strong,YE2025 benefice d exploitation 10810 DROP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_fininc_2025,vzw_ldh,2025,773,,,executed,src_ldh_jr2025_nbb,strong,YE2025 produits financiers 773 JUMP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_fincost_2025,vzw_ldh,2025,5582,,,executed,src_ldh_jr2025_nbb,strong,YE2025 charges financieres 5582 JUMP; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
+bud_ldh_pnl_2025,vzw_ldh,2025,6001,,,executed,src_ldh_jr2025_nbb,strong,YE2025 benefice 6001 DROP from 49698; tick1622; primary official NBB A-ASBL YE 31.12.2025 deposit 2026-00245690
