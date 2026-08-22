@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1680** (2026-08-23)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1671-1679 leftover VL basiseducatie **Ligo CBE network** + **VSV**: **VSV** · **Ligo OB** · **Ligo Antwerpen** · **Ligo HV** · **Ligo Limburg Zuid** · **Ligo Mechelen** · **Ligo Kempen** · **Ligo Waas** · **Ligo LiMiNo** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1671-1679 is residual dual L5 leftover Ligo/VSV (not near-complete of 348bn):** **Ligo Antwerpen** assets **13.10m** opbr **24.96m** (code73 **24.81m** / pers **21.25m** / headcount **460**) · **Ligo LiMiNo** assets **5.18m** bruto **0.43m** (code73 **1.31m**) · **Ligo Waas** assets **4.84m** bruto **0.20m** (VL overheid off-books) · **Ligo HV** assets **4.17m** bruto **0.24m** (CODO off-books) · **Ligo Limburg Zuid** assets **1.80m** bruto **3.31m JUMP** (CODO **on-books first year** **3.12m**) · **Ligo OB** assets **7.55m** bruto **0.51m** (kapsubs **4.27m** / 151 off-books) · **Ligo Mechelen** assets **2.48m** bruto **0.38m** · **Ligo Kempen** assets **2.02m** bruto **0.23m** · **VSV** assets **0.42m** bruto **0.36m** · prior Avansa 1661-1669 stack retained |
+| **E. FOI-ready gaps** | **~1311** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1359** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + koepel/NGO shells** (**NEW Ligo Antwerpen** assets **EUR13.10m** opbr **EUR24.96m** · **Ligo LiMiNo** assets **EUR5.18m** · **Ligo Waas** assets **EUR4.84m** · **Ligo HV** assets **EUR4.17m** · **Ligo LZ** bruto **EUR3.31m** CODO on-books · **Ligo OB/Mec/Kem** · **VSV** · prior Avansa 1661-1669 + Familiehulp/UNIZO/VOKA stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1680)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 48930 |
+| commitments.csv | 5268 |
+| leaderboard.csv | 7471 |
+| entities.csv | 1412 |
+| sources.csv | 3809 |
+| FOI ready | 1311 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1359 |
+| research_queue open | rq_116 deferred + rq_1681 hole-fill after progress |
+
+### What improved since tick 1670
+
+- **VL residual dual leftover steunpunt + Ligo CBE wave (tick1671-1679):** **VSV** assets **0.42m** bruto **0.36m** · **Ligo OB** assets **7.55m** bruto **0.51m** (kapsubs **4.27m** / 151 off-books) · **Ligo Antwerpen** assets **13.10m** opbr **24.96m** (pers **21.25m** / headcount **460**) · **Ligo HV** assets **4.17m** bruto **0.24m** (CODO off-books) · **Ligo Limburg Zuid** assets **1.80m** bruto **3.31m** (**first CODO on-books**) · **Ligo Mechelen** assets **2.48m** bruto **0.38m** · **Ligo Kempen** assets **2.02m** bruto **0.23m** · **Ligo Waas** assets **4.84m** bruto **0.20m** (explicit VL overheid off-books) · **Ligo LiMiNo** assets **5.18m** bruto **0.43m** (code73 **1.31m**) — no invented euros.
+- **NEW (tick1673+1675):** **Ligo Antwerpen** (KBO 0434.020.857) largest this wave. Official NBB VOL-VZW Aanpassing **2026-00131551**. Assets **13.097.935** · opbr **24.961.110** · code73 **24.808.314** · pers **21.253.596** / VTE **66.5** / headcount notes **460** · kapsubs **5.121.643** · PnL **3.735**. **Ligo Limburg Zuid** (KBO 0434.362.040) first CODO on-books. Official NBB VKT-VZW **2026-00289392**. Bruto JUMP **3.313.013** (CODO **3.123.453**) · code73 **3.834.301** · headcount **106**. FOI ready.
+- **Dual map themes:** leftover VL basiseducatie CBE (Ligo x8) · vrijwilligerswerk steunpunt (VSV) · CODO on-books vs off-books transparency contrast · prior Avansa socio-culture network retained.
+- **Blocked still:** AGB/APB unpublished · Dijk92 CDN **200** but **no JR euros** · FARO no JR2025 · APEFE RA2023 only · NSZ CDN **403** · Amnesty VL + Natuurpunt scanned image PDF · deferred Ligo ZOVL/Brugge-OW/MZWVL CDN live.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1690**.
+
 ## Snapshot at **tick 1670** (2026-08-23)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
