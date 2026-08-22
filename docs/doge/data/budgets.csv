@@ -50381,3 +50381,16 @@ bud_vesper_expl_2025,nv_vesper,2025,71083,,,realized,src_vesper_jr2025_nbb,stron
 bud_vesper_pnl_2025,nv_vesper,2025,-49684,,,realized,src_vesper_jr2025_nbb,strong,PnL FLIP -49684 vs +93756; tick1761
 bud_vesper_fin_charges_2025,nv_vesper,2025,172115,,,realized,src_vesper_jr2025_nbb,strong,Financial charges 172115; tick1761
 bud_vesper_st_other_debt_2025,nv_vesper,2025,546578,,,stock,src_vesper_jr2025_nbb,strong,ST autres dettes JUMP 546578 vs 83780; tick1761
+bud_gerosin_assets_2025,nv_gerosin,2025,11155241,,,stock,src_gerosin_jr2025_nbb,strong,Assets YE2025 11155241 DROP vs 15802119; tick1762
+bud_gerosin_equity_2025,nv_gerosin,2025,3443408,,,stock,src_gerosin_jr2025_nbb,strong,Equity 3443408 UP vs 1435568; tick1762
+bud_gerosin_debt_2025,nv_gerosin,2025,6929117,,,stock,src_gerosin_jr2025_nbb,strong,Debt 6929117 DROP vs 13544851; tick1762
+bud_gerosin_leasing_lt_2025,nv_gerosin,2025,4987859,,,stock,src_gerosin_jr2025_nbb,strong,LT leasing 4987859; tick1762
+bud_gerosin_related_recv_fva_2025,nv_gerosin,2025,5000000,,,stock,src_gerosin_jr2025_nbb,strong,Related FVA vorderingen 5000000 (deelnemingen prior 8844477 cleared); tick1762
+bud_gerosin_opbr_2025,nv_gerosin,2025,4492711,,,realized,src_gerosin_jr2025_nbb,strong,Bedrijfsopbrengsten 4492711; tick1762
+bud_gerosin_omzet_2025,nv_gerosin,2025,4333526,,,realized,src_gerosin_jr2025_nbb,strong,Omzet 4333526; tick1762
+bud_gerosin_staff_2025,nv_gerosin,2025,3015082,,,realized,src_gerosin_jr2025_nbb,strong,Staff 3015082 / VTE 47.3; tick1762
+bud_gerosin_op_loss_2025,nv_gerosin,2025,-932925,,,realized,src_gerosin_jr2025_nbb,strong,Bedrijfsverlies FLIP -932925 vs +88466; nrec afschr 1200000; tick1762
+bud_gerosin_nrec_afschr_2025,nv_gerosin,2025,1200000,,,realized,src_gerosin_jr2025_nbb,strong,Niet-recurrente afschrijvingen/WV MVA 1200000; tick1762
+bud_gerosin_nrec_fin_gain_2025,nv_gerosin,2025,3272868,,,realized,src_gerosin_jr2025_nbb,strong,Meerwaarden realisatie FVA 3272868; tick1762
+bud_gerosin_pnl_2025,nv_gerosin,2025,2007840,,,realized,src_gerosin_jr2025_nbb,strong,PnL 2007840 (te bestemmen 2124792); tick1762
+bud_gerosin_subsidies_2025,nv_gerosin,2025,12746,,,realized,src_gerosin_jr2025_nbb,strong,Exploitatiesubsidies code 740 = 12746; tick1762
