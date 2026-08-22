@@ -47307,3 +47307,33 @@ bud_sensoa_fininc_2025,vzw_sensoa,2025,9004,,,executed,src_sensoa_jr2025_nbb,str
 bud_sensoa_fincost_2025,vzw_sensoa,2025,4901,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 financiele kosten 4901; tick1626
 bud_sensoa_tax_result_2025,vzw_sensoa,2025,2601,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 belastingen op resultaat 2601; tick1626
 bud_sensoa_pnl_2025,vzw_sensoa,2025,-518434,,,executed,src_sensoa_jr2025_nbb,strong,YE2025 verlies -518434 LOSS FLIP from +61643; tick1626
+bud_gezondleven_assets_2025,vzw_gezondleven,2025,8963457,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 balanstotaal 8963457 JUMP from 8814615; tick1627
+bud_gezondleven_va_2025,vzw_gezondleven,2025,124512,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 vaste activa 124512 DROP; tick1627
+bud_gezondleven_mva_2025,vzw_gezondleven,2025,123962,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 materiele VA 123962 DROP (terreinen 104635); tick1627
+bud_gezondleven_fva_2025,vzw_gezondleven,2025,550,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 financiele VA 550; tick1627
+bud_gezondleven_vlottend_2025,vzw_gezondleven,2025,8838944,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 vlottende activa 8838944 JUMP; tick1627
+bud_gezondleven_lt_other_recv_2025,vzw_gezondleven,2025,3364658,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 overige vorderingen LT 3364658 JUMP; tick1627
+bud_gezondleven_handelsrecv_2025,vzw_gezondleven,2025,96266,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 handelsvorderingen ST 96266 JUMP; tick1627
+bud_gezondleven_other_recv_2025,vzw_gezondleven,2025,2526559,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 overige vorderingen ST 2526559 JUMP; tick1627
+bud_gezondleven_beleg_2025,vzw_gezondleven,2025,700000,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 geldbeleggingen 700000 NEW; tick1627
+bud_gezondleven_cash_2025,vzw_gezondleven,2025,2118513,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 liquide middelen 2118513 DROP from 3130579; tick1627
+bud_gezondleven_prepaid_2025,vzw_gezondleven,2025,32949,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 32949; tick1627
+bud_gezondleven_equity_2025,vzw_gezondleven,2025,2746016,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 eigen vermogen 2746016 JUMP; tick1627
+bud_gezondleven_fondsen_2025,vzw_gezondleven,2025,50428,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 fondsen 50428 flat; tick1627
+bud_gezondleven_destin_2025,vzw_gezondleven,2025,1333971,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 bestemde fondsen 1333971 DROP (sociaal passief 1m + projecten 194k + infra 140k); tick1627
+bud_gezondleven_overgedragen_2025,vzw_gezondleven,2025,1361617,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 overgedragen winst 1361617 JUMP; tick1627
+bud_gezondleven_debt_2025,vzw_gezondleven,2025,6217440,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 schulden 6217440 JUMP; tick1627
+bud_gezondleven_st_debt_2025,vzw_gezondleven,2025,772335,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 schulden ST 772335 DROP; tick1627
+bud_gezondleven_lev_2025,vzw_gezondleven,2025,354981,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 leveranciers ST 354981 DROP; tick1627
+bud_gezondleven_taxsoc_2025,vzw_gezondleven,2025,412018,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 bezoldigingen/sociale lasten ST 412018 JUMP; tick1627
+bud_gezondleven_accrued_2025,vzw_gezondleven,2025,5445105,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 5445105 JUMP (deferred income material); tick1627
+bud_gezondleven_bruto_2025,vzw_gezondleven,2025,4395003,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 brutomarge 9900 4395003 JUMP ENVELOPE (70/73/60-61 empty); tick1627
+bud_gezondleven_pers_2025,vzw_gezondleven,2025,4311284,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 bezoldigingen 62 4311284 JUMP / 48 VTE; tick1627
+bud_gezondleven_afschr_2025,vzw_gezondleven,2025,46880,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 afschrijvingen 630 46880 DROP; tick1627
+bud_gezondleven_andere_2025,vzw_gezondleven,2025,36787,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 36787 DROP; tick1627
+bud_gezondleven_nietrec_cost_2025,vzw_gezondleven,2025,1173,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfskosten 66A 1173; tick1627
+bud_gezondleven_expl_2025,vzw_gezondleven,2025,51,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 bedrijfswinst 51 PROFIT FLIP from -717777; tick1627
+bud_gezondleven_fininc_2025,vzw_gezondleven,2025,15945,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 financiele opbrengsten 15945 DROP; tick1627
+bud_gezondleven_fincost_2025,vzw_gezondleven,2025,2281,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 financiele kosten 2281; tick1627
+bud_gezondleven_tax_2025,vzw_gezondleven,2025,3231,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 belastingen op resultaat 3231; tick1627
+bud_gezondleven_pnl_2025,vzw_gezondleven,2025,10483,,,executed,src_gezondleven_jr2025_nbb,strong,YE2025 winst 10483 PROFIT FLIP from -699063; tick1627
