@@ -47710,3 +47710,42 @@ bud_okra_expl_2025,vzw_okra,2025,934864,,,executed,src_okra_jr2025_nbb,strong,YE
 bud_okra_fininc_2025,vzw_okra,2025,63740,,,executed,src_okra_jr2025_nbb,strong,YE2025 financiele opbrengsten 63740 JUMP; tick1639
 bud_okra_fincost_2025,vzw_okra,2025,5687,,,executed,src_okra_jr2025_nbb,strong,YE2025 financiele kosten 5687; tick1639
 bud_okra_pnl_2025,vzw_okra,2025,992917,,,executed,src_okra_jr2025_nbb,strong,YE2025 winst 992917 JUMP; tick1639
+bud_femma_assets_2025,vzw_femma,2025,7991336,,,executed,src_femma_jr2025_nbb,strong,YE2025 balanstotaal 7991336 DROP from 8316786; tick1641
+bud_femma_va_2025,vzw_femma,2025,440632,,,executed,src_femma_jr2025_nbb,strong,YE2025 vaste activa 440632 DROP; tick1641
+bud_femma_iva_2025,vzw_femma,2025,273053,,,executed,src_femma_jr2025_nbb,strong,YE2025 immateriele VA 273053 DROP; tick1641
+bud_femma_mva_2025,vzw_femma,2025,60727,,,executed,src_femma_jr2025_nbb,strong,YE2025 materiele VA 60727 JUMP (in aanbouw 28002); tick1641
+bud_femma_fva_2025,vzw_femma,2025,106852,,,executed,src_femma_jr2025_nbb,strong,YE2025 financiele VA 106852 DROP; tick1641
+bud_femma_vlottend_2025,vzw_femma,2025,7550703,,,executed,src_femma_jr2025_nbb,strong,YE2025 vlottende activa 7550703 DROP; tick1641
+bud_femma_lt_other_recv_2025,vzw_femma,2025,170000,,,executed,src_femma_jr2025_nbb,strong,YE2025 overige vorderingen LT 170000 DROP; tick1641
+bud_femma_voorraden_2025,vzw_femma,2025,17324,,,executed,src_femma_jr2025_nbb,strong,YE2025 handelsgoederen 17324 DROP; tick1641
+bud_femma_handelsrecv_2025,vzw_femma,2025,53761,,,executed,src_femma_jr2025_nbb,strong,YE2025 handelsvorderingen ST 53761 DROP; tick1641
+bud_femma_other_recv_2025,vzw_femma,2025,590985,,,executed,src_femma_jr2025_nbb,strong,YE2025 overige vorderingen ST 590985 DROP; tick1641
+bud_femma_beleg_2025,vzw_femma,2025,2156667,,,executed,src_femma_jr2025_nbb,strong,YE2025 geldbeleggingen 2156667 flat; tick1641
+bud_femma_cash_2025,vzw_femma,2025,4522005,,,executed,src_femma_jr2025_nbb,strong,YE2025 liquide middelen 4522005 DROP; tick1641
+bud_femma_prepaid_2025,vzw_femma,2025,39963,,,executed,src_femma_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 39963 DROP; tick1641
+bud_femma_equity_2025,vzw_femma,2025,6451954,,,executed,src_femma_jr2025_nbb,strong,YE2025 eigen vermogen 6451954 DROP; tick1641
+bud_femma_fondsen_2025,vzw_femma,2025,3371677,,,executed,src_femma_jr2025_nbb,strong,YE2025 fondsen 3371677 flat; tick1641
+bud_femma_destin_2025,vzw_femma,2025,6338706,,,executed,src_femma_jr2025_nbb,strong,YE2025 bestemde fondsen 6338706 flat; tick1641
+bud_femma_overgedragen_2025,vzw_femma,2025,-3258430,,,executed,src_femma_jr2025_nbb,strong,YE2025 overgedragen verlies -3258430 DEEP (ARCO path); tick1641
+bud_femma_debt_2025,vzw_femma,2025,1539382,,,executed,src_femma_jr2025_nbb,strong,YE2025 schulden 1539382 DROP; tick1641
+bud_femma_st_debt_2025,vzw_femma,2025,791592,,,executed,src_femma_jr2025_nbb,strong,YE2025 schulden ST 791592 DROP; tick1641
+bud_femma_lev_2025,vzw_femma,2025,125136,,,executed,src_femma_jr2025_nbb,strong,YE2025 leveranciers ST 125136 DROP; tick1641
+bud_femma_taxsoc_2025,vzw_femma,2025,666456,,,executed,src_femma_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 666456 (tax 7164 + soc 659293); tick1641
+bud_femma_accrued_2025,vzw_femma,2025,747789,,,executed,src_femma_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 747789 DROP (lidgelden 2026 599065); tick1641
+bud_femma_opbr_2025,vzw_femma,2025,6097344,,,executed,src_femma_jr2025_nbb,strong,YE2025 bedrijfsopbrengsten 6097344 JUMP ENVELOPE; tick1641
+bud_femma_omzet_2025,vzw_femma,2025,693740,,,executed,src_femma_jr2025_nbb,strong,YE2025 omzet 70 693740 JUMP; tick1641
+bud_femma_code73_2025,vzw_femma,2025,5347657,,,executed,src_femma_jr2025_nbb,strong,YE2025 lidgeld/schenk/legaten/subsidies 73 5347657 JUMP; tick1641
+bud_femma_lidgelden_2025,vzw_femma,2025,870285,,,executed,src_femma_jr2025_nbb,strong,YE2025 lidgelden 730 870285 DROP; tick1641
+bud_femma_schenkingen_2025,vzw_femma,2025,182128,,,executed,src_femma_jr2025_nbb,strong,YE2025 schenkingen 731 182128 JUMP; tick1641
+bud_femma_subsidies_2025,vzw_femma,2025,3683208,,,executed,src_femma_jr2025_nbb,strong,YE2025 subsidies 733 3683208 JUMP; tick1641
+bud_femma_andere_opbr_2025,vzw_femma,2025,55893,,,executed,src_femma_jr2025_nbb,strong,YE2025 andere bedrijfsopbrengsten 74 55893 DROP; tick1641
+bud_femma_diensten_2025,vzw_femma,2025,1393282,,,executed,src_femma_jr2025_nbb,strong,YE2025 diensten en diverse goederen 61 1393282 JUMP; tick1641
+bud_femma_pers_2025,vzw_femma,2025,4232635,,,executed,src_femma_jr2025_nbb,strong,YE2025 bezoldigingen 62 4232635 DROP / 49.5 VTE (DROP from 52.8); tick1641
+bud_femma_afschr_2025,vzw_femma,2025,90166,,,executed,src_femma_jr2025_nbb,strong,YE2025 afschrijvingen 630 90166 JUMP; tick1641
+bud_femma_andere_2025,vzw_femma,2025,37219,,,executed,src_femma_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 37219 DROP; tick1641
+bud_femma_expl_2025,vzw_femma,2025,-210410,,,executed,src_femma_jr2025_nbb,strong,YE2025 bedrijfsverlies -210410 LOSS; tick1641
+bud_femma_fininc_2025,vzw_femma,2025,54976,,,executed,src_femma_jr2025_nbb,strong,YE2025 financiele opbrengsten 54976 DROP; tick1641
+bud_femma_fincost_2025,vzw_femma,2025,5837,,,executed,src_femma_jr2025_nbb,strong,YE2025 financiele kosten 5837 JUMP; tick1641
+bud_femma_tax_2025,vzw_femma,2025,55804,,,executed,src_femma_jr2025_nbb,strong,YE2025 belastingen 55804 JUMP; tick1641
+bud_femma_pnl_2025,vzw_femma,2025,-217075,,,executed,src_femma_jr2025_nbb,strong,YE2025 verlies -217075 LOSS; tick1641
+bud_femma_commissaris_fee_2025,vzw_femma,2025,15190,,,executed,src_femma_jr2025_nbb,strong,YE2025 commissaris ereloon 15190; tick1641
