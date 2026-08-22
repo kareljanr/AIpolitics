@@ -47923,3 +47923,36 @@ bud_pasar_fincost_2025,vzw_pasar,2025,6068,,,executed,src_pasar_jr2025_nbb,stron
 bud_pasar_tax_2025,vzw_pasar,2025,-23159,,,executed,src_pasar_jr2025_nbb,strong,YE2025 belastingen -23159 CREDIT; tick1646
 bud_pasar_pnl_2025,vzw_pasar,2025,18106,,,executed,src_pasar_jr2025_nbb,strong,YE2025 winst 18106 DROP from 126297; tick1646
 bud_pasar_borg_2025,vzw_pasar,2025,155735,,,executed,src_pasar_jr2025_nbb,strong,YE2025 persoonlijke zekerheid 9149 155735; tick1646
+bud_kompas_assets_2025,vzw_kompas,2025,2913936,,,executed,src_kompas_jr2025_nbb,strong,YE2025 balanstotaal 2913936 DROP from 3245958; tick1647
+bud_kompas_va_2025,vzw_kompas,2025,1226294,,,executed,src_kompas_jr2025_nbb,strong,YE2025 vaste activa 1226294 DROP; tick1647
+bud_kompas_iva_2025,vzw_kompas,2025,1936,,,executed,src_kompas_jr2025_nbb,strong,YE2025 immateriele VA 1936 DROP; tick1647
+bud_kompas_mva_2025,vzw_kompas,2025,1214818,,,executed,src_kompas_jr2025_nbb,strong,YE2025 materiele VA 1214818 DROP (gebouwen 948924); tick1647
+bud_kompas_fva_2025,vzw_kompas,2025,9540,,,executed,src_kompas_jr2025_nbb,strong,YE2025 financiele VA 9540 flat; tick1647
+bud_kompas_vlottend_2025,vzw_kompas,2025,1687642,,,executed,src_kompas_jr2025_nbb,strong,YE2025 vlottende activa 1687642 DROP; tick1647
+bud_kompas_handelsrecv_2025,vzw_kompas,2025,444753,,,executed,src_kompas_jr2025_nbb,strong,YE2025 handelsvorderingen ST 444753 DROP; tick1647
+bud_kompas_other_recv_2025,vzw_kompas,2025,617347,,,executed,src_kompas_jr2025_nbb,strong,YE2025 overige vorderingen ST 617347 JUMP from 336905; tick1647
+bud_kompas_beleg_2025,vzw_kompas,2025,0,,,executed,src_kompas_jr2025_nbb,strong,YE2025 geldbeleggingen 0 DROP from 750000; tick1647
+bud_kompas_cash_2025,vzw_kompas,2025,616553,,,executed,src_kompas_jr2025_nbb,strong,YE2025 liquide middelen 616553 JUMP from 402697; tick1647
+bud_kompas_prepaid_2025,vzw_kompas,2025,8989,,,executed,src_kompas_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 8989 DROP; tick1647
+bud_kompas_equity_2025,vzw_kompas,2025,1972790,,,executed,src_kompas_jr2025_nbb,strong,YE2025 eigen vermogen 1972790 DROP; tick1647
+bud_kompas_fondsen_2025,vzw_kompas,2025,875623,,,executed,src_kompas_jr2025_nbb,strong,YE2025 fondsen 875623 flat; tick1647
+bud_kompas_destin_2025,vzw_kompas,2025,750000,,,executed,src_kompas_jr2025_nbb,strong,YE2025 bestemde fondsen 750000 JUMP from 250000 (+500000); tick1647
+bud_kompas_overgedragen_2025,vzw_kompas,2025,347167,,,executed,src_kompas_jr2025_nbb,strong,YE2025 overgedragen winst 347167 DROP from 1063215; tick1647
+bud_kompas_debt_2025,vzw_kompas,2025,941146,,,executed,src_kompas_jr2025_nbb,strong,YE2025 schulden 941146 DROP; tick1647
+bud_kompas_lt_fin_2025,vzw_kompas,2025,189001,,,executed,src_kompas_jr2025_nbb,strong,YE2025 LT financiele schulden 189001 DROP; tick1647
+bud_kompas_st_debt_2025,vzw_kompas,2025,752145,,,executed,src_kompas_jr2025_nbb,strong,YE2025 schulden ST 752145 DROP (incl LT within year 14337); tick1647
+bud_kompas_lev_2025,vzw_kompas,2025,37035,,,executed,src_kompas_jr2025_nbb,strong,YE2025 leveranciers ST 37035 DROP; tick1647
+bud_kompas_taxsoc_2025,vzw_kompas,2025,699833,,,executed,src_kompas_jr2025_nbb,strong,YE2025 bezoldigingen ST 699833 JUMP (tax empty); tick1647
+bud_kompas_othdebt_2025,vzw_kompas,2025,940,,,executed,src_kompas_jr2025_nbb,strong,YE2025 overige schulden ST 940 DROP; tick1647
+bud_kompas_bruto_2025,vzw_kompas,2025,4582967,,,executed,src_kompas_jr2025_nbb,strong,YE2025 brutomarge 9900 4582967 JUMP ENVELOPE; tick1647
+bud_kompas_nr_opbr_2025,vzw_kompas,2025,230080,,,executed,src_kompas_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfsopbrengsten 76A 230080 NEW; tick1647
+bud_kompas_pers_2025,vzw_kompas,2025,4338965,,,executed,src_kompas_jr2025_nbb,strong,YE2025 bezoldigingen 62 4338965 JUMP / 53.7 VTE (JUMP from 48.2); tick1647
+bud_kompas_afschr_2025,vzw_kompas,2025,134639,,,executed,src_kompas_jr2025_nbb,strong,YE2025 afschrijvingen 630 134639 JUMP; tick1647
+bud_kompas_andere_2025,vzw_kompas,2025,16159,,,executed,src_kompas_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 16159 DROP; tick1647
+bud_kompas_nr_kost_2025,vzw_kompas,2025,310924,,,executed,src_kompas_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfskosten 66A 310924 NEW; tick1647
+bud_kompas_expl_2025,vzw_kompas,2025,-217720,,,executed,src_kompas_jr2025_nbb,strong,YE2025 bedrijfsverlies -217720 LOSS FLIP from +200924; tick1647
+bud_kompas_fininc_2025,vzw_kompas,2025,6052,,,executed,src_kompas_jr2025_nbb,strong,YE2025 financiele opbrengsten 6052 DROP; tick1647
+bud_kompas_fincost_2025,vzw_kompas,2025,4380,,,executed,src_kompas_jr2025_nbb,strong,YE2025 financiele kosten 4380 DROP; tick1647
+bud_kompas_pnl_2025,vzw_kompas,2025,-216048,,,executed,src_kompas_jr2025_nbb,strong,YE2025 verlies -216048 LOSS FLIP from +173408; tick1647
+bud_kompas_hypotheek_book_2025,vzw_kompas,2025,264305,,,executed,src_kompas_jr2025_nbb,strong,YE2025 zakelijke zekerheid boekwaarde bezwaarde activa 91611 264305; tick1647
+bud_kompas_hypotheek_mandaat_2025,vzw_kompas,2025,330000,,,executed,src_kompas_jr2025_nbb,strong,YE2025 hypotheekmandaat 91631 330000; tick1647
