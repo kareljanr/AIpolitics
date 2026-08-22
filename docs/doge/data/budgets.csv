@@ -47506,3 +47506,38 @@ bud_greenpeace_expl_2025,vzw_greenpeace,2025,1557072,,,executed,src_greenpeace_j
 bud_greenpeace_fininc_2025,vzw_greenpeace,2025,36971,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 financiele opbrengsten 36971 JUMP; tick1633
 bud_greenpeace_fincost_2025,vzw_greenpeace,2025,32816,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 financiele kosten 32816 DROP; tick1633
 bud_greenpeace_pnl_2025,vzw_greenpeace,2025,1561227,,,executed,src_greenpeace_jr2025_nbb,strong,YE2025 winst 1561227 PROFIT FLIP from -333634; tick1633
+bud_sam_assets_2025,vzw_sam,2025,2656839,,,executed,src_sam_jr2025_nbb,strong,YE2025 balanstotaal 2656839 DROP from 3084730; tick1634
+bud_sam_va_2025,vzw_sam,2025,22776,,,executed,src_sam_jr2025_nbb,strong,YE2025 vaste activa 22776 DROP; tick1634
+bud_sam_iva_2025,vzw_sam,2025,5666,,,executed,src_sam_jr2025_nbb,strong,YE2025 immateriele VA 5666 DROP; tick1634
+bud_sam_mva_2025,vzw_sam,2025,15248,,,executed,src_sam_jr2025_nbb,strong,YE2025 materiele VA 15248 DROP; tick1634
+bud_sam_fva_2025,vzw_sam,2025,1861,,,executed,src_sam_jr2025_nbb,strong,YE2025 financiele VA 1861 DROP; tick1634
+bud_sam_vlottend_2025,vzw_sam,2025,2634063,,,executed,src_sam_jr2025_nbb,strong,YE2025 vlottende activa 2634063 DROP; tick1634
+bud_sam_lt_other_recv_2025,vzw_sam,2025,0,,,executed,src_sam_jr2025_nbb,strong,YE2025 overige vorderingen LT 0 DROP from 94800; tick1634
+bud_sam_handelsrecv_2025,vzw_sam,2025,91158,,,executed,src_sam_jr2025_nbb,strong,YE2025 handelsvorderingen ST 91158 DROP; tick1634
+bud_sam_other_recv_2025,vzw_sam,2025,297964,,,executed,src_sam_jr2025_nbb,strong,YE2025 overige vorderingen ST 297964 JUMP; tick1634
+bud_sam_beleg_2025,vzw_sam,2025,1860924,,,executed,src_sam_jr2025_nbb,strong,YE2025 geldbeleggingen 1860924 DROP from 2280149; tick1634
+bud_sam_cash_2025,vzw_sam,2025,315460,,,executed,src_sam_jr2025_nbb,strong,YE2025 liquide middelen 315460 JUMP; tick1634
+bud_sam_prepaid_2025,vzw_sam,2025,68557,,,executed,src_sam_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 68557 JUMP; tick1634
+bud_sam_equity_2025,vzw_sam,2025,1643461,,,executed,src_sam_jr2025_nbb,strong,YE2025 eigen vermogen 1643461 JUMP; tick1634
+bud_sam_fondsen_2025,vzw_sam,2025,132096,,,executed,src_sam_jr2025_nbb,strong,YE2025 fondsen 132096 flat; tick1634
+bud_sam_destin_2025,vzw_sam,2025,1086957,,,executed,src_sam_jr2025_nbb,strong,YE2025 bestemde fondsen 1086957 JUMP; tick1634
+bud_sam_overgedragen_2025,vzw_sam,2025,424408,,,executed,src_sam_jr2025_nbb,strong,YE2025 overgedragen winst 424408 flat; tick1634
+bud_sam_voorzieningen_2025,vzw_sam,2025,107807,,,executed,src_sam_jr2025_nbb,strong,YE2025 voorzieningen 107807 DROP; tick1634
+bud_sam_debt_2025,vzw_sam,2025,905571,,,executed,src_sam_jr2025_nbb,strong,YE2025 schulden 905571 DROP; tick1634
+bud_sam_st_debt_2025,vzw_sam,2025,693323,,,executed,src_sam_jr2025_nbb,strong,YE2025 schulden ST 693323 JUMP; tick1634
+bud_sam_lev_2025,vzw_sam,2025,248816,,,executed,src_sam_jr2025_nbb,strong,YE2025 leveranciers ST 248816 JUMP; tick1634
+bud_sam_taxsoc_2025,vzw_sam,2025,429181,,,executed,src_sam_jr2025_nbb,strong,YE2025 bezoldigingen/sociale lasten ST 429181 DROP; tick1634
+bud_sam_othdebt_2025,vzw_sam,2025,15326,,,executed,src_sam_jr2025_nbb,strong,YE2025 overige schulden ST 15326 NEW; tick1634
+bud_sam_accrued_2025,vzw_sam,2025,212248,,,executed,src_sam_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 212248 DROP from 718485; tick1634
+bud_sam_bruto_2025,vzw_sam,2025,3794334,,,executed,src_sam_jr2025_nbb,strong,YE2025 brutomarge 9900 3794334 JUMP ENVELOPE; tick1634
+bud_sam_omzet_2025,vzw_sam,2025,0,,,executed,src_sam_jr2025_nbb,strong,YE2025 omzet 70 empty (VKT abbreviated); tick1634
+bud_sam_code73_2025,vzw_sam,2025,0,,,executed,src_sam_jr2025_nbb,strong,YE2025 lidgeld/schenk/subsidies 73 empty (VKT abbreviated); tick1634
+bud_sam_diensten_2025,vzw_sam,2025,0,,,executed,src_sam_jr2025_nbb,strong,YE2025 diensten 60/61 empty (VKT abbreviated); tick1634
+bud_sam_pers_2025,vzw_sam,2025,3747955,,,executed,src_sam_jr2025_nbb,strong,YE2025 bezoldigingen 62 3747955 DROP / 36.8 VTE (DROP from 39.7); tick1634
+bud_sam_afschr_2025,vzw_sam,2025,20398,,,executed,src_sam_jr2025_nbb,strong,YE2025 afschrijvingen 630 20398 DROP; tick1634
+bud_sam_andere_2025,vzw_sam,2025,25936,,,executed,src_sam_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 25936 DROP; tick1634
+bud_sam_expl_2025,vzw_sam,2025,-1304,,,executed,src_sam_jr2025_nbb,strong,YE2025 bedrijfsverlies -1304 LOSS IMPROVED from -52891; tick1634
+bud_sam_fininc_2025,vzw_sam,2025,53017,,,executed,src_sam_jr2025_nbb,strong,YE2025 financiele opbrengsten 53017 DROP; tick1634
+bud_sam_fincost_2025,vzw_sam,2025,206,,,executed,src_sam_jr2025_nbb,strong,YE2025 financiele kosten 206 DROP; tick1634
+bud_sam_pnl_2025,vzw_sam,2025,51508,,,executed,src_sam_jr2025_nbb,strong,YE2025 winst 51508 JUMP; tick1634
+bud_sam_commissaris_fee_2025,vzw_sam,2025,8712,,,executed,src_sam_jr2025_nbb,strong,YE2025 commissaris ereloon incl BTW 8712; tick1634
