@@ -50311,3 +50311,6 @@ bud_hvzzo_dgh_B2025,igs_hvzzo,2025,3340629.46,,,budget,src_hvzzo_begroting2026,s
 bud_hvzzo_mu_fed_2025,igs_hvzzo,2025,3340629.46,,,executed,src_hvzzo_justel_mu_2025,strong,Justel MU toelage totaal 3340629.46; tick1753
 bud_hvzzo_prestaties_B2026,igs_hvzzo,2026,1893573.84,,,budget,src_hvzzo_begroting2026,strong,B2026 prestaties 1893573.84; tick1753
 bud_hvzzo_kazerneplan_mjp,igs_hvzzo,2026,45000000,,,budget,src_hvzzo_begroting2026,strong,MJP kazerneplan 45000000 multi-year (not annual ordinary spend); tick1753; loan-financed
+bud_bwol_mu_fed_2025,igs_bwol,2025,3334455.78,,,executed,src_bwol_justel_mu_2025,strong,Justel MU toelage totaal 3334455.78; partial federal ambulance only — NOT full zone spend; tick1754
+bud_bwol_mu_activatie_2025,igs_bwol,2025,653618,,,executed,src_bwol_justel_mu_2025,strong,Justel MU activatie 653618; tick1754
+bud_bwol_mu_permanentie_2025,igs_bwol,2025,2680837.78,,,executed,src_bwol_justel_mu_2025,strong,Justel MU permanentie 2680837.78; tick1754

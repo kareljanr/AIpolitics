@@ -20955,3 +20955,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +5; entities +1 igs_hvzzo; budgets +12; commitments +1; leaderboard +1; foi_queue +1 ready; rq_1753=done + rq_1754 spawn; ticks_completed=1753. Raw docs/doge/raw/tick1753/.
 - FOI opened: gap_hvzzo_jr2025_rekening_unpublished_l5 ready (full JR/VTE/gemdot). Do not send.
 - Next: rq_1754 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 / APEFE / ABS/POV/BVAS / IOED/HVZ-VBWest-OostLimburg-BZA. Do NOT redo HVZZuidOost/HVZRand/HVZWaasland continuum. NOT every-10 (next **1760**).
+
+### 2026-08-24T10:45:00Z - tick 1754
+- Unit: rq_1754 Brandweerzone Oost-Limburg / BWOL (leftover IGS of mined Genk+Maaseik) (KBO **0500.907.802**; C-Mine 50 3600 Genk; bwol.be; info@bwol.be; official zoneraad **26.06.2026** Jaarrekening 2025 **Goedgekeurd**; Maaseik publishes **Rekening-2025-BWOL** PDF 228p; Justel MU **3334455.78**). Honest leftover AGB Bornem still JR2024-only. NSZ/Dijk92/APEFE CDN **403**. VBWest JR2025 **verdaged**. Preferred AGB/NSZ blocked — leftover BWOL JR2025 **PDF live / euros unextractable** → FOI-ready (anti-stuck) + MU partial. New entity igs_bwol. Envelope = **Unknown** (no invented full-zone euros). NOT every-10 (next 1760).
+- Found (strong process / strong MU partial / weak full spend): JR2025 approved; PDF CID/image-garbled (pypdf+pymupdf); AV2025 finance tables deferred; MU activatie **653618** + permanentie **2680837.78** = **3334455.78**.
+- Wrote: sources +6; entities +1 igs_bwol; budgets +3 (MU); commitments +1 (unknown envelope); foi_queue +1 ready; rq_1754=done + rq_1755 spawn; ticks_completed=1754. Raw docs/doge/raw/tick1754/. No leaderboard (no sourced annual full-zone €).
+- FOI opened: gap_bwol_jr2025_rekening_unextractable_l5 ready (searchable JR/VTE/gemdot). Do not send.
+- Next: rq_1755 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 / APEFE / ABS/POV/BVAS / IOED/HVZ-VBWest-ZoneOost-BZA. Do NOT redo BWOL/HVZZuidOost/HVZRand continuum. NOT every-10 (next **1760**).
