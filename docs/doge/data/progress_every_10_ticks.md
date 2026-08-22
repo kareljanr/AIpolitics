@@ -20,6 +20,42 @@
 
 ---
 
+## Snapshot at **tick 1730** (2026-08-24)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1721-1729 leftover lobby/education/nature/zorg/leersteun: **BoeK** · **KLJ/Groene Kring** · **OVSG** · **Natuurpunt** · **GO!** · **Dommelhof VZW+NV** · **LSC Oost-Brabant** · **LSC Noord-Brabant** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1721-1729 is residual dual L5 (not near-complete of 348bn):** **Natuurpunt** inkomsten **70.80m** (werkingssubs **42.29m** / assets **488.81m**) · **GO!** centrale opbr **48.78m** (assets **1.16bn** / kapsubs **700m**) · **Dommelhof NV** assets **12.56m** debt **11.61m** · **Dommelhof VZW** bruto **6.89m** staff **6.61m** / **100.7 VTE** · **KLJ/Groene Kring** bruto **2.48m** · **OVSG** bruto **1.73m** · **BoeK** bruto **1.03m** · **LSC Noord-Brabant** opbr **0.48m** · **LSC Oost-Brabant** code73 **0.44m** · prior Boerenbond/BIV/Landelijke Gilden/FARO/CMO wave retained |
+| **E. FOI-ready gaps** | **~1357** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1405** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + koepel/NGO/collecting/lobby/education shells** (**NEW Natuurpunt** assets **EUR488.81m** inkomsten **EUR70.80m** · **GO!** assets **EUR1.16bn** centrale opbr **EUR48.78m** · **Dommelhof NV** debt **EUR11.61m** · **Dommelhof VZW** bruto **EUR6.89m** · **OVSG/KLJ/BoeK** · **LSC OB+NB** · prior Boerenbond/BIV/FARO/CMO/Sabam stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1730)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 50008 |
+| commitments.csv | 5314 |
+| leaderboard.csv | 7515 |
+| entities.csv | 1458 |
+| sources.csv | 3999 |
+| FOI ready | 1357 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1405 |
+| research_queue open | rq_116 deferred + rq_1731 hole-fill after progress |
+
+### What improved since tick 1720
+
+- **Residual dual leftover lobby / education / nature / zorg / leersteun wave (tick1721-1729):** **BoeK** · **KLJ/Groene Kring** · **OVSG** · **Natuurpunt** · **GO!** · **Dommelhof VZW+NV** · **LSC Oost-Brabant** · **LSC Noord-Brabant** — no invented euros.
+- **NEW (tick1724+1725):** **Natuurpunt** (KBO **0434.364.713**) official JR2025 consolidated. Inkomsten **70.796.058** · werkingssubs **42.288.071** · assets **488.808.253** · EV **442.456.532**. **GO!** VOI centrale diensten official JR2024. Assets **1.162.467.000** · opbr **48.780.000** · staff **17.574.000** · kapsubs **700.003.000**. FOI ready donor/scholengroepen splits.
+- **NEW (tick1726-1729):** **Dommelhof** WZC dual VZW bruto **6.89m** + NV assets **12.56m**/debt **11.61m** · **OVSG** bruto **1.73m** · **KLJ** bruto **2.48m** · **BoeK** bruto **1.03m** · **LSC OB** code73 **0.44m** · **LSC NB** opbr **0.48m**.
+- **Dual map themes:** VL nature NGO Natuurpunt · gemeenschapsonderwijs GO! after OVSG/KOV · WZC property dual Dommelhof · leersteuncentra residual after education koepels · prior farmers lobby/CMO retained.
+- **Blocked still:** AGB Bornem JR2024-only · Dijk92 CDN **403** · APEFE YE2025 CDN **403** · NSZ CDN **403** · ABS/BVAS/POV no NBB.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1740**.
+
 ## Snapshot at **tick 1720** (2026-08-23)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

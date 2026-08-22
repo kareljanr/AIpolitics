@@ -20784,3 +20784,11 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_lsc_noordbrabant_opbr_0_48m_staff_0_02m_vte_l5 ready (envelope split / VTE / AV). Do not send.
 - Next: **rq_1730 EVERY-10 MUST** progress coverage % layers A–E + waste top10, then leftover AGB/NSZ/Bosgroep/Dijk92/APEFE/ABS/POV/BVAS/IOED/HVZ/IGS/WZC. Do NOT redo LSC dual/Dommelhof/GO!/Natuurpunt.
 
+### 2026-08-24T02:05:00Z - tick 1730
+- Unit: **rq_1730 EVERY-10** progress coverage % layers A–E + waste top10 after VL residual 1721-1729 (BoeK · KLJ/Groene Kring · OVSG · Natuurpunt · GO! · Dommelhof VZW+NV · LSC Oost-Brabant · LSC Noord-Brabant). Pure annual top10 re-verified stable. NOT a second municipality fill.
+- Found: A/B still **100%**; C ~**99%**; D still **~74-88%** generous of TE (honest: residual dual L5 gains not near-complete of €348bn). FOI ready **~1357**. Major NEW since 1720: Natuurpunt inkomsten **70.80m**/assets **488.81m**; GO! centrale assets **1.16bn**/opbr **48.78m**; Dommelhof NV debt **11.61m**; Dommelhof VZW bruto **6.89m**; OVSG/KLJ/BoeK; LSC OB+NB.
+- Wrote: progress_every_10_ticks.md snapshot 1730; doge_waste_top10_current.md as-of 1730; rq_1730=done + rq_1731 spawn; ticks_completed=1730.
+- FOI: none new (decade refresh). Human-send backlog unchanged.
+- Inventory: entities **1458** · sources **3999** · budgets **50008** · commitments **5314** · leaderboard **7515** · FOI ready **1357** / answered **9** / partial **27** / total **1405**.
+- Next: rq_1731 leftover AGB/**NSZ if CDN 200**/Bosgroep/Dijk92 if JR euros / APEFE if CDN 200 / ABS/POV/BVAS / IOED / HVZ / IGS / WZC / LSC / other. Do NOT redo LSC dual/Dommelhof/GO!/Natuurpunt/OVSG. **Next every-10 is 1740**.
+
