@@ -49471,3 +49471,29 @@ bud_fairtrade_be_fincost_2025,vzw_fairtrade_be,2025,2226,,,executed,src_fairtrad
 bud_fairtrade_be_tax_2025,vzw_fairtrade_be,2025,960,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 belastingen 960 JUMP; tick1696
 bud_fairtrade_be_pnl_2025,vzw_fairtrade_be,2025,-1570,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 verlies -1570 JUMP near break-even; tick1696
 bud_fairtrade_be_vte_2025,vzw_fairtrade_be,2025,19.5,,,executed,src_fairtrade_be_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 19.5 JUMP from 18.4; eoy 17.8; tick1696
+bud_vivel_assets_2025,vzw_vivel,2025,1448090,,,executed,src_vivel_jr2025_nbb,strong,YE2025 balanstotaal 1448090 JUMP from 1326995; tick1697
+bud_vivel_va_2025,vzw_vivel,2025,50303,,,executed,src_vivel_jr2025_nbb,strong,YE2025 vaste activa 50303 JUMP; tick1697
+bud_vivel_iva_2025,vzw_vivel,2025,35423,,,executed,src_vivel_jr2025_nbb,strong,YE2025 immateriele VA 35423 JUMP; tick1697
+bud_vivel_fva_2025,vzw_vivel,2025,14880,,,executed,src_vivel_jr2025_nbb,strong,YE2025 financiele VA 14880 flat; tick1697
+bud_vivel_vlottend_2025,vzw_vivel,2025,1397787,,,executed,src_vivel_jr2025_nbb,strong,YE2025 vlottende activa 1397787 JUMP; tick1697
+bud_vivel_handelsrecv_2025,vzw_vivel,2025,6032,,,executed,src_vivel_jr2025_nbb,strong,YE2025 handelsvorderingen ST 6032 DROP; tick1697
+bud_vivel_other_recv_2025,vzw_vivel,2025,301827,,,executed,src_vivel_jr2025_nbb,strong,YE2025 overige vorderingen ST 301827 DROP; tick1697
+bud_vivel_cash_2025,vzw_vivel,2025,1054955,,,executed,src_vivel_jr2025_nbb,strong,YE2025 liquide middelen 1054955 JUMP; tick1697
+bud_vivel_prepaid_2025,vzw_vivel,2025,34973,,,executed,src_vivel_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 34973 JUMP; tick1697
+bud_vivel_equity_2025,vzw_vivel,2025,1084933,,,executed,src_vivel_jr2025_nbb,strong,YE2025 eigen vermogen 1084933 JUMP; tick1697
+bud_vivel_destin_2025,vzw_vivel,2025,870837,,,executed,src_vivel_jr2025_nbb,strong,YE2025 bestemde fondsen 870837 JUMP from 597196; tick1697
+bud_vivel_overgedragen_2025,vzw_vivel,2025,214096,,,executed,src_vivel_jr2025_nbb,strong,YE2025 overgedragen resultaat 214096 JUMP; tick1697
+bud_vivel_debt_2025,vzw_vivel,2025,363157,,,executed,src_vivel_jr2025_nbb,strong,YE2025 schulden 363157 DROP; tick1697
+bud_vivel_st_debt_2025,vzw_vivel,2025,289162,,,executed,src_vivel_jr2025_nbb,strong,YE2025 schulden ST 289162 DROP; tick1697
+bud_vivel_lev_2025,vzw_vivel,2025,63275,,,executed,src_vivel_jr2025_nbb,strong,YE2025 leveranciers ST 63275 DROP; tick1697
+bud_vivel_taxsoc_2025,vzw_vivel,2025,225888,,,executed,src_vivel_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 225888 (tax 55756 + soc 170131); tick1697
+bud_vivel_accrued_2025,vzw_vivel,2025,73994,,,executed,src_vivel_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 73994 DROP; tick1697
+bud_vivel_bruto_2025,vzw_vivel,2025,2051296,,,executed,src_vivel_jr2025_nbb,strong,YE2025 brutomarge 9900 2051296 JUMP ENVELOPE; tick1697
+bud_vivel_nr_opbr_2025,vzw_vivel,2025,2930,,,executed,src_vivel_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfsopbrengsten 76A 2930 JUMP; tick1697
+bud_vivel_pers_2025,vzw_vivel,2025,1729168,,,executed,src_vivel_jr2025_nbb,strong,YE2025 bezoldigingen 62 1729168 DROP / 16.4 VTE; tick1697
+bud_vivel_afschr_2025,vzw_vivel,2025,26504,,,executed,src_vivel_jr2025_nbb,strong,YE2025 afschrijvingen 630 26504 JUMP; tick1697
+bud_vivel_andere_2025,vzw_vivel,2025,858,,,executed,src_vivel_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 858 JUMP; tick1697
+bud_vivel_expl_2025,vzw_vivel,2025,294767,,,executed,src_vivel_jr2025_nbb,strong,YE2025 bedrijfswinst 294767 JUMP; tick1697
+bud_vivel_fincost_2025,vzw_vivel,2025,135,,,executed,src_vivel_jr2025_nbb,strong,YE2025 financiele kosten 135 JUMP; tick1697
+bud_vivel_pnl_2025,vzw_vivel,2025,294631,,,executed,src_vivel_jr2025_nbb,strong,YE2025 winst 294631 JUMP; tick1697
+bud_vivel_vte_2025,vzw_vivel,2025,16.4,,,executed,src_vivel_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 16.4 DROP from 18.0; eoy 15.0; tick1697
