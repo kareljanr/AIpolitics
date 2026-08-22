@@ -49116,3 +49116,37 @@ bud_np_beheer_tax_2025,vzw_natuurpunt_beheer,2025,2057,,,executed,src_natuurpunt
 bud_np_beheer_pnl_2025,vzw_natuurpunt_beheer,2025,500059,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 winst 500059 JUMP from 468720; tick1685 OCR
 bud_np_beheer_vte_eoy_2025,vzw_natuurpunt_beheer,2025,177.0,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 eoy VTE code105 177.0 (184 headcount; avg VTE 100 empty this OCR); tick1685 OCR
 bud_np_beheer_commissaris_fee_2025,vzw_natuurpunt_beheer,2025,25000,,,executed,src_natuurpunt_beheer_jr2025_nbb,strong,YE2025 commissaris mandaat excl BTW 25000; Clybouw; tick1685 OCR
+bud_np_studie_assets_2025,vzw_natuurpunt_studie,2025,3320434,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 balanstotaal 3320434 JUMP from 3140392; tick1686
+bud_np_studie_va_2025,vzw_natuurpunt_studie,2025,95578,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 vaste activa 95578 DROP; tick1686
+bud_np_studie_mva_2025,vzw_natuurpunt_studie,2025,42668,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 materiele VA 42668 DROP; tick1686
+bud_np_studie_gebouwen_2025,vzw_natuurpunt_studie,2025,10586,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 terreinen/gebouwen 10586 DROP; tick1686
+bud_np_studie_install_2025,vzw_natuurpunt_studie,2025,32082,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 installaties 32082 DROP; tick1686
+bud_np_studie_fva_2025,vzw_natuurpunt_studie,2025,52910,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 financiele VA 52910 DROP; tick1686
+bud_np_studie_vlottend_2025,vzw_natuurpunt_studie,2025,3224856,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 vlottende activa 3224856 JUMP; tick1686
+bud_np_studie_lt_handelsrecv_2025,vzw_natuurpunt_studie,2025,26820,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 handelsvorderingen LT 26820 JUMP; tick1686
+bud_np_studie_handelsrecv_2025,vzw_natuurpunt_studie,2025,387574,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 handelsvorderingen ST 387574 DROP; tick1686
+bud_np_studie_other_recv_2025,vzw_natuurpunt_studie,2025,2810462,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 overige vorderingen ST 2810462 JUMP; tick1686
+bud_np_studie_prepaid_2025,vzw_natuurpunt_studie,2025,9706,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 9706 NEW; cash+beleg EMPTY; tick1686
+bud_np_studie_equity_2025,vzw_natuurpunt_studie,2025,1802456,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 eigen vermogen 1802456 DROP; tick1686
+bud_np_studie_fondsen_2025,vzw_natuurpunt_studie,2025,419684,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 fondsen 419684 flat; tick1686
+bud_np_studie_destin_2025,vzw_natuurpunt_studie,2025,1165718,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 bestemde fondsen 1165718 flat; tick1686
+bud_np_studie_overgedragen_2025,vzw_natuurpunt_studie,2025,189068,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 overgedragen winst 189068 DROP; tick1686
+bud_np_studie_kapsubs_2025,vzw_natuurpunt_studie,2025,27986,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 kapitaalsubsidies 27986 DROP; tick1686
+bud_np_studie_voorzieningen_2025,vzw_natuurpunt_studie,2025,315800,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 voorzieningen 315800 JUMP (+112234); tick1686
+bud_np_studie_debt_2025,vzw_natuurpunt_studie,2025,1202178,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 schulden 1202178 JUMP; tick1686
+bud_np_studie_lt_fin_2025,vzw_natuurpunt_studie,2025,5826,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 overige leningen LT 5826 flat; tick1686
+bud_np_studie_st_debt_2025,vzw_natuurpunt_studie,2025,397071,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 schulden ST 397071 JUMP; tick1686
+bud_np_studie_lev_2025,vzw_natuurpunt_studie,2025,135435,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 leveranciers ST 135435 JUMP; tick1686
+bud_np_studie_taxsoc_2025,vzw_natuurpunt_studie,2025,261636,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 261636 (tax 1359 + soc 260277); tick1686
+bud_np_studie_accrued_2025,vzw_natuurpunt_studie,2025,799281,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 799281 JUMP; tick1686
+bud_np_studie_bruto_2025,vzw_natuurpunt_studie,2025,2201755,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 brutomarge 9900 2201755 JUMP ENVELOPE (70/73/60-61 empty); tick1686
+bud_np_studie_pers_2025,vzw_natuurpunt_studie,2025,2113594,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 bezoldigingen 62 2113594 JUMP / 26.2 VTE; tick1686
+bud_np_studie_afschr_2025,vzw_natuurpunt_studie,2025,19933,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 afschrijvingen 630 19933 DROP; tick1686
+bud_np_studie_voorz_mut_2025,vzw_natuurpunt_studie,2025,112234,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 voorzieningen toevoegingen 635/9 112234 NEW; tick1686
+bud_np_studie_andere_2025,vzw_natuurpunt_studie,2025,11084,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 11084 DROP; tick1686
+bud_np_studie_expl_2025,vzw_natuurpunt_studie,2025,-55090,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 bedrijfsverlies -55090 FLIP from +103121; tick1686
+bud_np_studie_fininc_2025,vzw_natuurpunt_studie,2025,382,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 financiele opbrengsten 382; tick1686
+bud_np_studie_fincost_2025,vzw_natuurpunt_studie,2025,379,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 financiele kosten 379 DROP; tick1686
+bud_np_studie_pnl_2025,vzw_natuurpunt_studie,2025,-55087,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 verlies -55087 FLIP from +102699; tick1686
+bud_np_studie_vte_2025,vzw_natuurpunt_studie,2025,26.2,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 26.2 JUMP from 25.1; eoy 26.7; tick1686
+bud_np_studie_commissaris_fee_2025,vzw_natuurpunt_studie,2025,2343,,,executed,src_natuurpunt_studie_jr2025_nbb,strong,YE2025 commissaris ereloon incl BTW 2343; Clybouw; tick1686
