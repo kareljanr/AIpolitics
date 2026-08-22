@@ -45929,3 +45929,41 @@ bud_fede_fincost_2025,vzw_fede,2025,196,,,executed,src_fede_jr2025_nbb,strong,20
 bud_fede_pnl_2025,vzw_fede,2025,-3471,,,executed,src_fede_jr2025_nbb,strong,2025 te bestemmen resultaat -3471 LOSS (accountant -3470.70); tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
 bud_fede_toevoeg_2025,vzw_fede,2025,12500,,,executed,src_fede_jr2025_nbb,strong,2025 toevoeging bestemde reserves 691 12500; tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
 bud_fede_capex_2025,vzw_fede,2025,7208,,,executed,src_fede_jr2025_nbb,strong,2025 MVA aanschaffingen 7208; tick1584; primary official NBB VKT-VZW JR2025 deposit 2026-00104919
+bud_vsf_assets_2025,vzw_vsf,2025,1659350,,,executed,src_vsf_jr2025_nbb,strong,2025 balanstotaal 1659350 DROP (was 1768051); tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_va_2025,vzw_vsf,2025,46289,,,executed,src_vsf_jr2025_nbb,strong,2025 vaste activa 46289 JUMP (was 17517); tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_iva_2025,vzw_vsf,2025,37722,,,executed,src_vsf_jr2025_nbb,strong,2025 IVA 37722 JUMP (aanschaf YE 148809 / afschr 111088; capex 56583); tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_mva_2025,vzw_vsf,2025,4276,,,executed,src_vsf_jr2025_nbb,strong,2025 MVA installaties 4276 DROP (capex 2023 / disposals); tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_fva_2025,vzw_vsf,2025,4292,,,executed,src_vsf_jr2025_nbb,strong,2025 FVA 4292 identiek; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_current_2025,vzw_vsf,2025,1613060,,,executed,src_vsf_jr2025_nbb,strong,2025 vlottende activa 1613060 DROP; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_trade_recv_2025,vzw_vsf,2025,34102,,,executed,src_vsf_jr2025_nbb,strong,2025 handelsvorderingen 34102 JUMP; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_other_recv_2025,vzw_vsf,2025,125940,,,executed,src_vsf_jr2025_nbb,strong,2025 overige vorderingen 125940 DROP (was 204827); tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_beleg_2025,vzw_vsf,2025,900000,,,executed,src_vsf_jr2025_nbb,strong,2025 geldbeleggingen 900000 JUMP (was 0) — cash redeployed; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_cash_2025,vzw_vsf,2025,473125,,,executed,src_vsf_jr2025_nbb,strong,2025 liquide middelen 473125 DROP (was 1490663); tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_prepaid_2025,vzw_vsf,2025,79893,,,executed,src_vsf_jr2025_nbb,strong,2025 overlopend actief 79893 JUMP; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_equity_2025,vzw_vsf,2025,1286445,,,executed,src_vsf_jr2025_nbb,strong,2025 eigen vermogen 1286445 JUMP; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_fondsen_2025,vzw_vsf,2025,89559,,,executed,src_vsf_jr2025_nbb,strong,2025 fondsen 89559 identiek; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_destin_2025,vzw_vsf,2025,1173845,,,executed,src_vsf_jr2025_nbb,strong,2025 bestemde fondsen/reserves 1173845 JUMP (onttrekking 791 53114 / toevoeg 691 78931); tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_overgedragen_2025,vzw_vsf,2025,23042,,,executed,src_vsf_jr2025_nbb,strong,2025 overgedragen winst 23042 identiek; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_voorzien_2025,vzw_vsf,2025,15000,,,executed,src_vsf_jr2025_nbb,strong,2025 voorzieningen 15000 DROP (was 20000; mut -5000); tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_debt_2025,vzw_vsf,2025,357904,,,executed,src_vsf_jr2025_nbb,strong,2025 schulden 357904 DROP; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_st_2025,vzw_vsf,2025,236458,,,executed,src_vsf_jr2025_nbb,strong,2025 schulden <=1j 236458; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_lev_2025,vzw_vsf,2025,14400,,,executed,src_vsf_jr2025_nbb,strong,2025 leveranciers 14400 DROP; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_taxsoc_2025,vzw_vsf,2025,197781,,,executed,src_vsf_jr2025_nbb,strong,2025 belastingen/bezoldigingen/sociale 197781 (tax 42049 + soc 155733); tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_oth_debt_2025,vzw_vsf,2025,24277,,,executed,src_vsf_jr2025_nbb,strong,2025 overige schulden ST 24277 (was 0); tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_accrued_2025,vzw_vsf,2025,121446,,,executed,src_vsf_jr2025_nbb,strong,2025 overlopend passief 121446 DROP; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_bruto_2025,vzw_vsf,2025,1249070,,,executed,src_vsf_jr2025_nbb,strong,2025 brutomarge 9900 1249070 DROP (omzet 70 empty / 73 empty / 60/61 empty VKT); tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_nrec_opbr_2025,vzw_vsf,2025,12,,,executed,src_vsf_jr2025_nbb,strong,2025 niet-recurrente bedrijfsopbrengsten 76A 12; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_pers_2025,vzw_vsf,2025,1183007,,,executed,src_vsf_jr2025_nbb,strong,2025 bezoldigingen 62 1183007 / 14.4 VTE DROP (was 1328877 / 16.3; YE 15; uren 21290; in 1 / uit 0.8; PC 32901); tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_vte_2025,vzw_vsf,2025,14.4,,,executed,src_vsf_jr2025_nbb,strong,2025 gemiddeld VTE 14.4 (sociale balans; YE 15); tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_afschr_2025,vzw_vsf,2025,29780,,,executed,src_vsf_jr2025_nbb,strong,2025 afschrijvingen 29780 JUMP (was 14760); tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_voorzien_mut_2025,vzw_vsf,2025,-5000,,,executed,src_vsf_jr2025_nbb,strong,2025 voorzieningen mutatie -5000; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_other_2025,vzw_vsf,2025,16413,,,executed,src_vsf_jr2025_nbb,strong,2025 andere bedrijfskosten 16413; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_nrec_cost_2025,vzw_vsf,2025,53,,,executed,src_vsf_jr2025_nbb,strong,2025 niet-recurrente bedrijfskosten 53; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_expl_2025,vzw_vsf,2025,24816,,,executed,src_vsf_jr2025_nbb,strong,2025 bedrijfswinst 24816 PROFIT (was -31592); tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_fininc_2025,vzw_vsf,2025,7926,,,executed,src_vsf_jr2025_nbb,strong,2025 financiele opbrengsten 7926 DROP (was 27964); tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_fincost_2025,vzw_vsf,2025,2889,,,executed,src_vsf_jr2025_nbb,strong,2025 financiele kosten 2889; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_tax_2025,vzw_vsf,2025,4035,,,executed,src_vsf_jr2025_nbb,strong,2025 belastingen op resultaat 4035; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_pnl_2025,vzw_vsf,2025,25818,,,executed,src_vsf_jr2025_nbb,strong,2025 te bestemmen resultaat 25818 PROFIT (was -15192); tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_onttrekking_2025,vzw_vsf,2025,53114,,,executed,src_vsf_jr2025_nbb,strong,2025 onttrekking bestemde reserves 791 53114; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_toevoeg_2025,vzw_vsf,2025,78931,,,executed,src_vsf_jr2025_nbb,strong,2025 toevoeging bestemde reserves 691 78931; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
+bud_vsf_capex_2025,vzw_vsf,2025,58606,,,executed,src_vsf_jr2025_nbb,strong,2025 capex IVA 56583 + MVA 2023 = 58606; tick1585; primary official NBB VKT-VZW JR2025 deposit 2026-00101918
