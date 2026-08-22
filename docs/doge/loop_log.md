@@ -20710,3 +20710,11 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_lgilden_bruto_3_83m_staff_3_64m_omzet_empty_l5 ready (70/73 split / Boerenbond relation / AV). Do not send.
 - Inventory: entities **1449** · sources **3963** · budgets **49884** · commitments **5305** · leaderboard **7506** · FOI ready **1348** / answered **9** / partial **27** / total **1396**.
 - Next: **rq_1720 EVERY-10** progress coverage % + waste top10, then leftover AGB/Natuurpunt/NSZ/Bosgroep/Dijk92/APEFE/GO!/POV/BVAS/IOED/HVZ/IGS. Do NOT redo LandelijkeGilden/Boerenbond/BIV/LaScam....
+
+### 2026-08-23T22:45:00Z - tick 1720
+- Unit: **rq_1720 EVERY-10** progress coverage % layers A–E + waste top10 after VL residual 1711-1719 (Welzijnszorg · SOFAM · FARO · SACD BE · deAuteurs · LaScam BE · BIV · Boerenbond · Landelijke Gilden). Pure annual top10 re-verified stable. NOT a second municipality fill.
+- Found: A/B still **100%**; C ~**99%**; D still **~74-88%** generous of TE (honest: residual dual L5 gains not near-complete of €348bn). FOI ready **~1348**. Major NEW since 1710: Boerenbond opbr **26.63m**/subs **20.84m**; BIV lidgeld **10.21m**; Landelijke Gilden bruto **3.83m**; FARO **2.88m**; SACD/LaScam/deAuteurs/SOFAM CMO residual.
+- Wrote: progress_every_10_ticks.md snapshot 1720; doge_waste_top10_current.md as-of 1720; rq_1720=done + rq_1721 spawn; ticks_completed=1720.
+- FOI: none new (decade refresh). Human-send backlog unchanged.
+- Inventory: entities **1449** · sources **3963** · budgets **49884** · commitments **5305** · leaderboard **7506** · FOI ready **1348** / answered **9** / partial **27** / total **1396**.
+- Next: rq_1721 leftover AGB/**Natuurpunt vzw if CDN**/NSZ if CDN 200 / Bosgroep/Dijk92 if JR euros / APEFE if budget euros / GO!/POV / BVAS / IOED / HVZ / IGS / other. Do NOT redo LandelijkeGilden/Boerenbond/BIV/LaScam.... **Next every-10 is 1730**.

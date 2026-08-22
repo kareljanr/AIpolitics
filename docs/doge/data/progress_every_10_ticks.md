@@ -20,6 +20,41 @@
 
 ---
 
+## Snapshot at **tick 1720** (2026-08-23)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1711-1719 leftover collecting/institute/lobby: **Welzijnszorg** · **SOFAM** · **FARO** · **SACD BE** · **deAuteurs** · **LaScam BE** · **BIV** · **Boerenbond** · **Landelijke Gilden** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1711-1719 is residual dual L5 (not near-complete of 348bn):** **Boerenbond** opbr **26.63m** (subsidies **20.84m** / staff **15.83m** / **146.3 VTE**) · **BIV** opbr **11.32m** (lidgeld **10.21m**) · **Landelijke Gilden** bruto **3.83m** (staff **3.64m** / **35.4 VTE**) · **FARO** werkingsbudget **2.88m** (VL subs **2.48m**) · **SACD BE** frais nets **2.71m** (droits **19.7m**) · **LaScam BE** frais nets **1.42m** (droits **9.61m**) · **deAuteurs** werkingskost **1.04m** (inningen **6.97m**) · **Welzijnszorg** code73 **2.57m** · **SOFAM** commissions **0.83m** · prior Sabam/PlayRight/SIMIM/Reprobel/Auvibel wave retained |
+| **E. FOI-ready gaps** | **~1348** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1396** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + koepel/NGO/collecting/lobby shells** (**NEW Boerenbond** opbr **EUR26.63m** subsidies **EUR20.84m** · **BIV** lidgeld **EUR10.21m** · **Landelijke Gilden** bruto **EUR3.83m** · **FARO** **EUR2.88m** · **SACD/LaScam/deAuteurs/SOFAM** CMO residual · prior Sabam/PlayRight/SIMIM/Natuurpunt Beheer **EUR505.06m** stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1720)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 49884 |
+| commitments.csv | 5305 |
+| leaderboard.csv | 7506 |
+| entities.csv | 1449 |
+| sources.csv | 3963 |
+| FOI ready | 1348 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1396 |
+| research_queue open | rq_116 deferred + rq_1721 hole-fill after progress |
+
+### What improved since tick 1710
+
+- **Residual dual leftover collecting / steunpunt / institute / lobby wave (tick1711-1719):** **Welzijnszorg** code73 **2.57m** · **SOFAM** commissions **0.83m** · **FARO** werkingsbudget **2.88m** (JV2025 newly live) · **SACD BE** frais nets **2.71m** · **deAuteurs** werkingskost **1.04m** · **LaScam BE** frais nets **1.42m** · **BIV** lidgeld **10.21m** · **Boerenbond** opbr **26.63m** / subsidies **20.84m** · **Landelijke Gilden** bruto **3.83m** — no invented euros.
+- **NEW (tick1718+1719):** **Boerenbond** (KBO **0676.461.073**) VL farmers lobby. Official NBB VOL-VZW **2025-00373835**. Opbr **26.630.731** · subsidies **20.844.540** · staff **15.832.262** / **146.3 VTE** · PnL **-922.869**. **Landelijke Gilden** (KBO **0410.028.601**) dual Boerenbond rural assoc. Official NBB VKT-VZW **2026-00263053**. Bruto **3.827.855** · staff **3.641.141** / **35.4 VTE**. FOI ready subsidy/70-73 splits.
+- **Dual map themes:** Belgian CMO residual completion (SACD/LaScam/deAuteurs/SOFAM after Sabam/Auvibel/Reprobel/SIMIM/PlayRight) · VL culture steunpunt FARO · federal real-estate institute BIV · VL farmers lobby Boerenbond + Landelijke Gilden dual · prior speerpunt/Oxfam/Natuurpunt retained.
+- **Blocked still:** AGB/APB unpublished · Dijk92 CDN **403** · APEFE RA2024 activity-only (no budget euros) · NSZ CDN **403** · Natuurpunt vzw CDN/Northdata opaque.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10. Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1730**.
+
 ## Snapshot at **tick 1710** (2026-08-23)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
