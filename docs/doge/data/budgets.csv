@@ -47430,3 +47430,40 @@ bud_prebes_fininc_2025,vzw_prebes,2025,34621,,,executed,src_prebes_jr2025_nbb,st
 bud_prebes_fincost_2025,vzw_prebes,2025,404,,,executed,src_prebes_jr2025_nbb,strong,YE2025 financiele kosten 404; tick1631
 bud_prebes_tax_2025,vzw_prebes,2025,10347,,,executed,src_prebes_jr2025_nbb,strong,YE2025 belastingen op resultaat 10347; tick1631
 bud_prebes_pnl_2025,vzw_prebes,2025,-162906,,,executed,src_prebes_jr2025_nbb,strong,YE2025 verlies -162906 LOSS DEEP from -38298; tick1631
+bud_gezinsbond_assets_2025,vzw_gezinsbond,2025,18718009,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 balanstotaal 18718009 DROP from 20471235; tick1632
+bud_gezinsbond_va_2025,vzw_gezinsbond,2025,8948330,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 vaste activa 8948330 JUMP; tick1632
+bud_gezinsbond_iva_2025,vzw_gezinsbond,2025,2874201,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 immateriele VA 2874201 JUMP; tick1632
+bud_gezinsbond_mva_2025,vzw_gezinsbond,2025,5859155,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 materiele VA 5859155 DROP (terreinen 5360516); tick1632
+bud_gezinsbond_fva_2025,vzw_gezinsbond,2025,214974,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 financiele VA 214974 DROP; tick1632
+bud_gezinsbond_vlottend_2025,vzw_gezinsbond,2025,9769679,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 vlottende activa 9769679 DROP; tick1632
+bud_gezinsbond_lt_other_recv_2025,vzw_gezinsbond,2025,1249314,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 overige vorderingen LT 1249314 DROP; tick1632
+bud_gezinsbond_voorraden_2025,vzw_gezinsbond,2025,285704,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 voorraden handelsgoederen 285704 JUMP; tick1632
+bud_gezinsbond_handelsrecv_2025,vzw_gezinsbond,2025,448723,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 handelsvorderingen ST 448723 DROP; tick1632
+bud_gezinsbond_other_recv_2025,vzw_gezinsbond,2025,1129533,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 overige vorderingen ST 1129533 JUMP; tick1632
+bud_gezinsbond_beleg_2025,vzw_gezinsbond,2025,1631998,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 geldbeleggingen 1631998 DROP from 4715462; tick1632
+bud_gezinsbond_cash_2025,vzw_gezinsbond,2025,4465655,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 liquide middelen 4465655 JUMP; tick1632
+bud_gezinsbond_prepaid_2025,vzw_gezinsbond,2025,558752,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 558752; tick1632
+bud_gezinsbond_equity_2025,vzw_gezinsbond,2025,8839649,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 eigen vermogen 8839649 DROP; tick1632
+bud_gezinsbond_fondsen_2025,vzw_gezinsbond,2025,6150625,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 fondsen 6150625 flat; tick1632
+bud_gezinsbond_destin_2025,vzw_gezinsbond,2025,619734,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 bestemde fondsen 619734 flat; tick1632
+bud_gezinsbond_overgedragen_2025,vzw_gezinsbond,2025,1947095,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 overgedragen winst 1947095 DROP; tick1632
+bud_gezinsbond_kapsubs_2025,vzw_gezinsbond,2025,122196,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 kapitaalsubsidies 122196 DROP; tick1632
+bud_gezinsbond_debt_2025,vzw_gezinsbond,2025,9878360,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 schulden 9878360 DROP; tick1632
+bud_gezinsbond_st_debt_2025,vzw_gezinsbond,2025,4709266,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 schulden ST 4709266 DROP; tick1632
+bud_gezinsbond_lev_2025,vzw_gezinsbond,2025,599805,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 leveranciers ST 599805 DROP; tick1632
+bud_gezinsbond_taxsoc_2025,vzw_gezinsbond,2025,975819,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 bezoldigingen/sociale lasten ST 975819 DROP; tick1632
+bud_gezinsbond_othdebt_2025,vzw_gezinsbond,2025,2807245,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 overige schulden ST 2807245 DROP; tick1632
+bud_gezinsbond_accrued_2025,vzw_gezinsbond,2025,5169094,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 5169094 DROP; tick1632
+bud_gezinsbond_opbr_2025,vzw_gezinsbond,2025,11942469,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 bedrijfsopbrengsten 11942469 DROP ENVELOPE; tick1632
+bud_gezinsbond_omzet_2025,vzw_gezinsbond,2025,1967671,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 omzet 70 1967671 DROP; tick1632
+bud_gezinsbond_code73_2025,vzw_gezinsbond,2025,9232936,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 lidgeld/schenk/legaten/subsidies 73 9232936 DROP (lid 5019231 + subs 4213705); tick1632
+bud_gezinsbond_lidgelden_2025,vzw_gezinsbond,2025,5019231,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 lidgelden 730 5019231 DROP; tick1632
+bud_gezinsbond_subsidies_2025,vzw_gezinsbond,2025,4213705,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 subsidies 733 4213705 DROP; tick1632
+bud_gezinsbond_diensten_2025,vzw_gezinsbond,2025,4125487,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 diensten en diverse goederen 61 4125487 JUMP; tick1632
+bud_gezinsbond_pers_2025,vzw_gezinsbond,2025,7711163,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 bezoldigingen 62 7711163 JUMP / 81.9 VTE (DROP from 86); tick1632
+bud_gezinsbond_afschr_2025,vzw_gezinsbond,2025,978151,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 afschrijvingen 630 978151 JUMP; tick1632
+bud_gezinsbond_andere_2025,vzw_gezinsbond,2025,120871,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 andere bedrijfskosten 640/8 120871; tick1632
+bud_gezinsbond_expl_2025,vzw_gezinsbond,2025,-1620362,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 bedrijfsverlies -1620362 LOSS DEEP; tick1632
+bud_gezinsbond_fininc_2025,vzw_gezinsbond,2025,324769,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 financiele opbrengsten 324769 JUMP; tick1632
+bud_gezinsbond_fincost_2025,vzw_gezinsbond,2025,4952,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 financiele kosten 4952; tick1632
+bud_gezinsbond_pnl_2025,vzw_gezinsbond,2025,-1300544,,,executed,src_gezinsbond_jr2025_nbb,strong,YE2025 verlies -1300544 LOSS DEEP; tick1632
