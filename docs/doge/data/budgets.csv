@@ -50454,3 +50454,15 @@ bud_beleden_pnl_2025,nv_beleden,2025,44306,,,realized,src_beleden_jr2025_nbb,str
 bud_beleden_dividend_2025,nv_beleden,2025,100000,,,realized,src_beleden_jr2025_nbb,strong,Remuneration de l apport / dividend 100000 (also prior year); tick1767
 bud_beleden_caution_rsl_2025,nv_beleden,2025,174367,,,stock,src_beleden_jr2025_nbb,strong,Cautions REPOS SANTE LOISIRS 24789+149578=174367 off-balance; tick1767
 bud_beleden_gage_loyers_2025,nv_beleden,2025,1400000,,,stock,src_beleden_jr2025_nbb,strong,Gage creance de loyers max 1400000; tick1767
+bud_immorjs_assets_2025,nv_immorjs,2025,5796274,,,stock,src_immorjs_jr2025_nbb,strong,Assets YE2025 5796274 JUMP vs 1466701; tick1768
+bud_immorjs_equity_2025,nv_immorjs,2025,1187958,,,stock,src_immorjs_jr2025_nbb,strong,Equity 1187958 UP vs 1100065; tick1768
+bud_immorjs_debt_2025,nv_immorjs,2025,4608316,,,stock,src_immorjs_jr2025_nbb,strong,Debt 4608316 JUMP vs 366637; tick1768
+bud_immorjs_lt_credit_2025,nv_immorjs,2025,4237334,,,stock,src_immorjs_jr2025_nbb,strong,LT bank/credit 4237334 NEW vs 0; tick1768
+bud_immorjs_autres_creances_2025,nv_immorjs,2025,1102471,,,stock,src_immorjs_jr2025_nbb,strong,Autres creances ST 1102471 JUMP vs 10635; tick1768
+bud_immorjs_related_recv_2025,nv_immorjs,2025,592128,,,stock,src_immorjs_jr2025_nbb,strong,Creances sur administrateurs/controleurs 9500=592128; tick1768
+bud_immorjs_cash_2025,nv_immorjs,2025,3293513,,,stock,src_immorjs_jr2025_nbb,strong,Cash 3293513 JUMP vs 20990; tick1768
+bud_immorjs_marge_2025,nv_immorjs,2025,279233,,,realized,src_immorjs_jr2025_nbb,strong,Marge bruto 279233 (A-cap; CA not disclosed; 0 VTE shell); tick1768
+bud_immorjs_expl_2025,nv_immorjs,2025,143604,,,realized,src_immorjs_jr2025_nbb,strong,Benefice exploitation 143604; tick1768
+bud_immorjs_pnl_2025,nv_immorjs,2025,107894,,,realized,src_immorjs_jr2025_nbb,strong,PnL 107894; tick1768
+bud_immorjs_admin_remun_2025,nv_immorjs,2025,20000,,,realized,src_immorjs_jr2025_nbb,strong,Benefice distribue administrateurs/gerants 20000; tick1768
+bud_immorjs_gage_debt_2025,nv_immorjs,2025,4540000,,,stock,src_immorjs_jr2025_nbb,strong,Dettes garanties suretes reelles 892=4540000; tick1768
