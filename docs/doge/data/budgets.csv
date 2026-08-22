@@ -48822,3 +48822,39 @@ bud_ligo_mec_fincost_2025,vzw_ligo_mec,2025,1122,,,executed,src_ligo_mec_jr2025_
 bud_ligo_mec_tax_2025,vzw_ligo_mec,2025,4026,,,executed,src_ligo_mec_jr2025_nbb,strong,YE2025 belastingen op resultaat 4026 DROP; tick1676
 bud_ligo_mec_pnl_2025,vzw_ligo_mec,2025,672,,,executed,src_ligo_mec_jr2025_nbb,strong,YE2025 winst 672 DROP from 53963; tick1676
 bud_ligo_mec_vte_2025,vzw_ligo_mec,2025,4,,,executed,src_ligo_mec_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 4 flat; tick1676
+bud_ligo_kem_assets_2025,vzw_ligo_kem,2025,2022826,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 balanstotaal 2022826 DROP from 2078449; tick1677
+bud_ligo_kem_va_2025,vzw_ligo_kem,2025,985997,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 vaste activa 985997 DROP (=MVA); tick1677
+bud_ligo_kem_mva_2025,vzw_ligo_kem,2025,985997,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 materiele VA 985997 DROP; tick1677
+bud_ligo_kem_gebouwen_2025,vzw_ligo_kem,2025,865815,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 terreinen/gebouwen 865815 DROP; tick1677
+bud_ligo_kem_install_2025,vzw_ligo_kem,2025,64708,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 installaties 64708 JUMP; tick1677
+bud_ligo_kem_meubilair_2025,vzw_ligo_kem,2025,55474,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 meubilair/rollend 55474 DROP; tick1677
+bud_ligo_kem_vlottend_2025,vzw_ligo_kem,2025,1036829,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 vlottende activa 1036829 DROP; tick1677
+bud_ligo_kem_handelsrecv_2025,vzw_ligo_kem,2025,42180,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 handelsvorderingen ST 42180 DROP; tick1677
+bud_ligo_kem_other_recv_2025,vzw_ligo_kem,2025,231746,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 overige vorderingen ST 231746 JUMP; tick1677
+bud_ligo_kem_beleg_2025,vzw_ligo_kem,2025,250,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 geldbeleggingen 250 flat; tick1677
+bud_ligo_kem_cash_2025,vzw_ligo_kem,2025,738667,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 liquide middelen 738667 DROP; tick1677
+bud_ligo_kem_prepaid_2025,vzw_ligo_kem,2025,23986,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 overlopende rekeningen actief 23986 JUMP; tick1677
+bud_ligo_kem_equity_2025,vzw_ligo_kem,2025,1667407,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 eigen vermogen 1667407 DROP; tick1677
+bud_ligo_kem_fondsen_2025,vzw_ligo_kem,2025,295817,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 fondsen 295817 flat; tick1677
+bud_ligo_kem_herwaard_2025,vzw_ligo_kem,2025,764000,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 herwaarderingsmeerwaarden 764000 flat; tick1677
+bud_ligo_kem_destin_2025,vzw_ligo_kem,2025,196303,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 bestemde fondsen 196303 flat; tick1677
+bud_ligo_kem_overgedragen_2025,vzw_ligo_kem,2025,182772,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 overgedragen winst 182772 DROP; tick1677
+bud_ligo_kem_kapsubs_2025,vzw_ligo_kem,2025,228515,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 kapitaalsubsidies 228515 flat; tick1677
+bud_ligo_kem_debt_2025,vzw_ligo_kem,2025,355419,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 schulden 355419 DROP; tick1677
+bud_ligo_kem_lt_fin_2025,vzw_ligo_kem,2025,163543,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 financiele schulden LT 163543 DROP; tick1677
+bud_ligo_kem_st_debt_2025,vzw_ligo_kem,2025,181363,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 schulden ST 181363 DROP; tick1677
+bud_ligo_kem_st_current_lt_2025,vzw_ligo_kem,2025,16149,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 LT binnen jaar 16149 JUMP; tick1677
+bud_ligo_kem_lev_2025,vzw_ligo_kem,2025,153952,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 leveranciers ST 153952 DROP; tick1677
+bud_ligo_kem_taxsoc_2025,vzw_ligo_kem,2025,11161,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 belastingen/bezoldigingen ST 11161 (=soc); tick1677
+bud_ligo_kem_accrued_2025,vzw_ligo_kem,2025,10513,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 overlopende rekeningen passief 10513 flat; tick1677
+bud_ligo_kem_bruto_2025,vzw_ligo_kem,2025,226149,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 brutomarge 9900 226149 JUMP ENVELOPE (on-books; 70/73/60-61 empty); tick1677
+bud_ligo_kem_nr_opbr_2025,vzw_ligo_kem,2025,1864,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 niet-recurrente bedrijfsopbrengsten 76A 1864 DROP; tick1677
+bud_ligo_kem_pers_2025,vzw_ligo_kem,2025,156973,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 bezoldigingen 62 156973 JUMP / 2.1 VTE DROP; likely CODO off-books class; tick1677
+bud_ligo_kem_afschr_2025,vzw_ligo_kem,2025,88521,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 afschrijvingen 630 88521 JUMP; tick1677
+bud_ligo_kem_expl_2025,vzw_ligo_kem,2025,-19345,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 bedrijfsverlies -19345 DEEPER; tick1677
+bud_ligo_kem_fininc_2025,vzw_ligo_kem,2025,5206,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 financiele opbrengsten 5206 DROP; tick1677
+bud_ligo_kem_fincost_2025,vzw_ligo_kem,2025,11439,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 financiele kosten 11439 JUMP (nr 8774); tick1677
+bud_ligo_kem_tax_2025,vzw_ligo_kem,2025,852,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 belastingen op resultaat 852 DROP; tick1677
+bud_ligo_kem_pnl_2025,vzw_ligo_kem,2025,-26430,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 verlies -26430 DEEPER; tick1677
+bud_ligo_kem_vte_2025,vzw_ligo_kem,2025,2.1,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 gemiddeld VTE 9087 2.1 DROP from 2.3; tick1677
+bud_ligo_kem_hypotheek_boek_2025,vzw_ligo_kem,2025,406888,,,executed,src_ligo_kem_jr2025_nbb,strong,YE2025 hypotheek bezwaarde activa boekwaarde 406888; tick1677
