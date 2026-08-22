@@ -50169,3 +50169,20 @@ bud_prinsenhof_diensten_2025,vzw_prinsenhof,2025,568168,,,executed,src_prinsenho
 bud_prinsenhof_expl_2025,vzw_prinsenhof,2025,298488,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB bedrijfswinst 9901 298488 FLIP vs -243153; tick1739
 bud_prinsenhof_pnl_2025,vzw_prinsenhof,2025,43669,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB PnL 9904 43669 FLIP; AV 22.05.2026; Mazars zonder voorbehoud; tick1739
 bud_prinsenhof_onttrekking_ev_2025,vzw_prinsenhof,2025,1405000,,,executed,src_prinsenhof_nbb_ye2025,strong,NBB onttrkking eigen vermogen 1405000 (resultaatverwerking); FOI; tick1739
+bud_vivalto_be_assets_2025,nv_vivalto_home_be,2025,266811008,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB 20/58 assets 266811008; tick1741
+bud_vivalto_be_fva_2025,nv_vivalto_home_be,2025,249209728,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB FVA linked 249209728; tick1741
+bud_vivalto_be_participations_2025,nv_vivalto_home_be,2025,241648314,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB participations 241648314 JUMP vs 177474875; FOI Molenheide/Prinsenhof map; tick1741
+bud_vivalto_be_creances_liees_2025,nv_vivalto_home_be,2025,7561414,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB créances liées 7561414; tick1741
+bud_vivalto_be_cash_2025,nv_vivalto_home_be,2025,310414,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB cash 310414 DROP vs 2915475; tick1741
+bud_vivalto_be_equity_2025,nv_vivalto_home_be,2025,47036939,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB equity 47036939; tick1741
+bud_vivalto_be_debt_2025,nv_vivalto_home_be,2025,219774069,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB dettes 219774069; tick1741
+bud_vivalto_be_lt_autres_2025,nv_vivalto_home_be,2025,145702851,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB LT autres emprunts 145702851 JUMP mainly filiales; FOI; tick1741
+bud_vivalto_be_obligations_2025,nv_vivalto_home_be,2025,23000000,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB emprunts obligataires 23000000; tick1741
+bud_vivalto_be_st_autres_2025,nv_vivalto_home_be,2025,46624517,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB ST autres dettes 46624517; tick1741
+bud_vivalto_be_opbr_2025,nv_vivalto_home_be,2025,9371794,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB ventes/prestations 9371794; tick1741
+bud_vivalto_be_autres_opbr_2025,nv_vivalto_home_be,2025,9214065,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB autres produits 74 9214065; FOI fee split; tick1741
+bud_vivalto_be_staff_2025,nv_vivalto_home_be,2025,736811,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB 62 736811 / VTE 5; tick1741
+bud_vivalto_be_services_2025,nv_vivalto_home_be,2025,2835599,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB services 61 2835599; tick1741
+bud_vivalto_be_expl_2025,nv_vivalto_home_be,2025,4839018,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB bénéfice d'exploitation 9901 4839018; tick1741
+bud_vivalto_be_fin_fva_opbr_2025,nv_vivalto_home_be,2025,4840000,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB produits immobilisations financières 750 4840000; tick1741
+bud_vivalto_be_pnl_2025,nv_vivalto_home_be,2025,4231615,,,executed,src_vivalto_be_nbb_ye2025,strong,NBB PnL 9904 4231615 FLIP; AV 22.05.2026; Mazars sans réserve; tick1741
