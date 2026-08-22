@@ -50496,3 +50496,15 @@ bud_meridienne_staff_2025,nv_meridienne,2025,3139951,,,realized,src_meridienne_j
 bud_meridienne_expl_2025,nv_meridienne,2025,561263,,,realized,src_meridienne_jr2025_nbb,strong,Benefice exploitation 561263; tick1772
 bud_meridienne_nrec_fin_2025,nv_meridienne,2025,1884018,,,realized,src_meridienne_jr2025_nbb,strong,Produits financiers non recurrents 1884018 drives PnL; tick1772
 bud_meridienne_pnl_2025,nv_meridienne,2025,2232767,,,realized,src_meridienne_jr2025_nbb,strong,PnL 2232767; dividend apport 2000000 + admin 173076; tick1772
+bud_braine_assets_2025,nv_braine,2025,13693231,,,stock,src_braine_jr2025_nbb,strong,Assets YE2025 13693231 UP vs 12564982; tick1773
+bud_braine_equity_2025,nv_braine,2025,4452399,,,stock,src_braine_jr2025_nbb,strong,Equity 4452399; tick1773
+bud_braine_debt_2025,nv_braine,2025,8379027,,,stock,src_braine_jr2025_nbb,strong,Debt 8379027; tick1773
+bud_braine_leasing_lt_2025,nv_braine,2025,4641025,,,stock,src_braine_jr2025_nbb,strong,LT leasing debt 4641025; tick1773
+bud_braine_related_fva_creances_2025,nv_braine,2025,5600000,,,stock,src_braine_jr2025_nbb,strong,Related autres creances FVA 5600000 (participations to 0 after cession); tick1773
+bud_braine_related_recv_st_2025,nv_braine,2025,2173862,,,stock,src_braine_jr2025_nbb,strong,Creances entreprises liees ST 2173862; tick1773
+bud_braine_related_recv_controllers_2025,nv_braine,2025,7773862,,,stock,src_braine_jr2025_nbb,strong,Creances sur administrateurs/controleurs 9500=7773862; tick1773
+bud_braine_omzet_2025,nv_braine,2025,6110005,,,realized,src_braine_jr2025_nbb,strong,Chiffre d affaires 6110005 (C-cap disclosed); tick1773
+bud_braine_staff_2025,nv_braine,2025,4046311,,,realized,src_braine_jr2025_nbb,strong,Staff 4046311 / VTE 58.9 DROP vs 64.4; tick1773
+bud_braine_expl_2025,nv_braine,2025,575104,,,realized,src_braine_jr2025_nbb,strong,Benefice exploitation 575104; tick1773
+bud_braine_nrec_fin_2025,nv_braine,2025,2332732,,,realized,src_braine_jr2025_nbb,strong,Nrec fin 2332732 plus-value cession immobilisations financieres; tick1773
+bud_braine_pnl_2025,nv_braine,2025,2638023,,,realized,src_braine_jr2025_nbb,strong,PnL 2638023 TURNAROUND; dividend apport 2200000 + admin 224212; tick1773
