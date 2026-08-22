@@ -49727,3 +49727,18 @@ bud_playright_expl_2024,cv_playright,2024,-831775,,,executed,src_playright_jr202
 bud_playright_fin_opbr_2024,cv_playright,2024,960164,,,executed,src_playright_jr2024_nbb_official,strong,NBB financiële opbrengsten 960164; tick1710
 bud_playright_pnl_2024,cv_playright,2024,7819,,,executed,src_playright_jr2024_nbb_official,strong,NBB winst boekjaar 7819; tick1710
 bud_playright_inningen_2024,cv_playright,2024,33100000,,,executed,src_playright_jr2024_nbb_official,strong,Official JV/news inningen ~33.1m YE2024 (rounded public figure); tick1710
+bud_welzijnszorg_assets_2024,vzw_welzijnszorg,2024,3940326,,,executed,src_welzijnszorg_nbb_2025_00186633,strong,NBB 20/58 3940326; tick1711
+bud_welzijnszorg_va_2024,vzw_welzijnszorg,2024,130397,,,executed,src_welzijnszorg_nbb_2025_00186633,strong,NBB VA 130397 (MVA 7775 + FVA 122622); tick1711
+bud_welzijnszorg_vlottend_2024,vzw_welzijnszorg,2024,3809930,,,executed,src_welzijnszorg_nbb_2025_00186633,strong,NBB vlottend 3809930; tick1711
+bud_welzijnszorg_beleg_2024,vzw_welzijnszorg,2024,1912998,,,executed,src_welzijnszorg_nbb_2025_00186633,strong,NBB geldbeleggingen 1912998; tick1711
+bud_welzijnszorg_cash_2024,vzw_welzijnszorg,2024,1050293,,,executed,src_welzijnszorg_nbb_2025_00186633,strong,NBB liquide middelen 1050293; tick1711
+bud_welzijnszorg_equity_2024,vzw_welzijnszorg,2024,2583248,,,executed,src_welzijnszorg_nbb_2025_00186633,strong,NBB eigen vermogen 2583248; tick1711
+bud_welzijnszorg_debt_2024,vzw_welzijnszorg,2024,1357079,,,executed,src_welzijnszorg_nbb_2025_00186633,strong,NBB schulden 1357079; tick1711
+bud_welzijnszorg_code73_2024,vzw_welzijnszorg,2024,2570346,,,executed,src_welzijnszorg_nbb_2025_00186633,strong,NBB lidgeld/schenkingen/legaten/subsidies 73 2570346 ENVELOPE; tick1711
+bud_welzijnszorg_omzet_2024,vzw_welzijnszorg,2024,64408,,,executed,src_welzijnszorg_nbb_2025_00186633,strong,NBB omzet 70 64408; tick1711
+bud_welzijnszorg_bruto_2024,vzw_welzijnszorg,2024,1206379,,,executed,src_welzijnszorg_nbb_2025_00186633,strong,NBB brutomarge 9900 1206379; tick1711
+bud_welzijnszorg_diensten_2024,vzw_welzijnszorg,2024,1730346,,,executed,src_welzijnszorg_nbb_2025_00186633,strong,NBB handelsgoederen/diensten 60/61 1730346; tick1711
+bud_welzijnszorg_staff_2024,vzw_welzijnszorg,2024,1514311,,,executed,src_welzijnszorg_nbb_2025_00186633,strong,NBB bezoldigingen 62 1514311 / VTE 20.4; tick1711
+bud_welzijnszorg_expl_2024,vzw_welzijnszorg,2024,-244632,,,executed,src_welzijnszorg_nbb_2025_00186633,strong,NBB bedrijfsverlies -244632; tick1711
+bud_welzijnszorg_pnl_2024,vzw_welzijnszorg,2024,-233961,,,executed,src_welzijnszorg_nbb_2025_00186633,strong,NBB verlies boekjaar -233961; tick1711
+bud_welzijnszorg_vte_2024,vzw_welzijnszorg,2024,20.4,,,executed,src_welzijnszorg_nbb_2025_00186633,strong,NBB 9087 gemiddeld VTE 20.4 DROP from 22.3; tick1711
