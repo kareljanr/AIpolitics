@@ -23108,3 +23108,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_hh_lier); foi + draft gap_hh_lier_nbb_pdf_assets_debt_pnl_loss_matrix_l5; rq_2011=done + rq_2012 open; loop_state ticks=2011; raw under docs/doge/data/raw/tick2011/.
 - FOI: **ready not sent** (human-gated; info@heilighartlier.be).
 - NOT every-10 (**next every-10 is 2020**). Next: rq_2012 (AGB/FARO-if-YE2025 / AIESH-REW / Vesalius-Sint-Andries / unused DSO-IGS-HVZ).
+
+
+## Tick 2012 - 2026-08-24T07:25:00Z - rq_2012 Sint-Andries Tielt (omzet JUMP 132.31m / pnl DROP 1.19m / Medium)
+
+- Unit: **rq_2012** leftover dual after **rq_2011 Heilig Hart Lier**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **Sint-Andriesziekenhuis Tielt** YE2025 (KBO **0408.661.691**; Bruggestraat 84 Tielt; West-Vlaanderen **hospital VZW**). Do not redo Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/Werken Glorieux/AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS/CHR Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR132,307,140** JUMP +5.95%; pnl **EUR1,192,256** DROP −50.91%; equity **EUR63,965,399** JUMP +0.60%; bruto **EUR60,750,238** JUMP +8.94%; FTE **583.4**; neerlegging **22.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@sintandriestielt.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_sint_andries_tielt); foi + draft gap_sint_andries_tielt_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2012=done + rq_2013 open; loop_state ticks=2012; raw under docs/doge/data/raw/tick2012/.
+- FOI: **ready not sent** (human-gated; info@sintandriestielt.be).
+- NOT every-10 (**next every-10 is 2020**). Next: rq_2013 (AGB/FARO-if-YE2025 / AIESH-REW / Sint-Trudo-HH Leuven-Vesalius / unused DSO-IGS-HVZ).

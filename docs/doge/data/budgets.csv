@@ -52115,3 +52115,8 @@ bud_hh_lier_pnl_jr2025_statutory,vzw_hh_lier,2025,-2108644,,,CW YE2025 Profit/Lo
 bud_hh_lier_equity_jr2025_statutory,vzw_hh_lier,2025,78662672,,,CW YE2025 Eigen vermogen,src_hh_lier_jr2025_cw,medium,tick2011; equity DROP 78662672 -2.94pct vs YE2024 81047097
 bud_hh_lier_bruto_jr2025_statutory,vzw_hh_lier,2025,92494807,,,CW YE2025 Brutomarge,src_hh_lier_jr2025_cw,medium,tick2011; bruto JUMP 92494807 +1.20pct vs YE2024 91400941
 bud_hh_lier_fte_jr2025_statutory,vzw_hh_lier,2025,1008.3,,,CW social-balance FTE,src_hh_lier_jr2025_cw,medium,tick2011; YE2025 FTE 1008.3
+bud_sint_andries_tielt_omzet_jr2025_statutory,vzw_sint_andries_tielt,2025,132307140,,,CW YE2025 omzet / Turnover,src_sint_andries_tielt_jr2025_cw,medium,tick2012; omzet JUMP 132307140 +5.95pct vs YE2024 124872198
+bud_sint_andries_tielt_pnl_jr2025_statutory,vzw_sint_andries_tielt,2025,1192256,,,CW YE2025 Profit/Loss,src_sint_andries_tielt_jr2025_cw,medium,tick2012; pnl DROP 1192256 -50.91pct vs YE2024 2428881
+bud_sint_andries_tielt_equity_jr2025_statutory,vzw_sint_andries_tielt,2025,63965399,,,CW YE2025 Eigen vermogen,src_sint_andries_tielt_jr2025_cw,medium,tick2012; equity JUMP 63965399 +0.60pct vs YE2024 63584368
+bud_sint_andries_tielt_bruto_jr2025_statutory,vzw_sint_andries_tielt,2025,60750238,,,CW YE2025 Brutomarge,src_sint_andries_tielt_jr2025_cw,medium,tick2012; bruto JUMP 60750238 +8.94pct vs YE2024 55763323
+bud_sint_andries_tielt_fte_jr2025_statutory,vzw_sint_andries_tielt,2025,583.4,,,CW social-balance FTE,src_sint_andries_tielt_jr2025_cw,medium,tick2012; YE2025 FTE 583.4
