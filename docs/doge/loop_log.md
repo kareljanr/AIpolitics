@@ -22636,3 +22636,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (updated ire_radioelements/ire/nv_ire_elit); foi + draft gap_ire_fup_nbb_pdf_assets_debt_elit_tp_l5; rq_1958=done + rq_1959 open; loop_state ticks=1958.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1960**). Next: rq_1959 (AGB/FARO-if-YE2025 / AIESH-REW / unused water-DSO-IGS-HVZ).
+
+
+## Tick 1959 - 2026-08-23T16:00:00Z - rq_1959 SPGE (omzet JUMP 450.22m / pnl JUMP 27.30m / Medium)
+
+- Unit: **rq_1959** leftover dual after **rq_1958 IRE FUP**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (NBB YE2025 unpublished); AIESH still **YE2024**; REW still **YE2024**. Took leftover **SPGE** YE2025 (KBO **0420.651.980**; Rue des Ecoles 17-19 Verviers; Walloon sanitation finance SA de droit public; **Aquafin dual**). Do not redo IRE/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/SWDE.
+- Found: Companyweb NL+EN + Upswitch YE2025 — omzet **EUR450,223,607** JUMP +9.29%; bruto **EUR147,515,571**; pnl **EUR27,301,169** JUMP turnaround vs LOSS 8.14m; equity **EUR2,141,950,395**; EBITDA **EUR149,189,634**; FTE **65**; neerlegging **10.07.2026**. Assets Unknown (Upswitch conflict 3.834bn vs 4.059bn). Official RA site still 2024-only. Medium confidence.
+- Wrote: sources (+4); budgets (+6); commitments (+1); leaderboard (+1); entities (updated spge x2); foi + draft gap_spge_nbb_pdf_assets_debt_oaa_matrix_l5; rq_1959=done + rq_1960 open (**EVERY-10 required**); loop_state ticks=1959.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next tick 1960 MUST run EVERY-10** progress coverage % + waste top10). Next: rq_1960 (EVERY-10 + AGB/FARO-if-YE2025 / AIESH-REW / Aquiris-deferred / unused DSO-IGS-HVZ).

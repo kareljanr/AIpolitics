@@ -51824,3 +51824,9 @@ bud_ire_fup_pnl_jr2025_statutory,ire_radioelements,2025,-2232791,,,CW NBB-derive
 bud_ire_fup_bruto_jr2025_statutory,ire_radioelements,2025,34261391,,,CW NBB-derived bruto/gross margin,src_ire_fup_jr2025_cw,medium,tick1958; YE2025 bruto 34261391 DROP -20.3pct vs 42985817
 bud_ire_fup_equity_jr2025_statutory,ire_radioelements,2025,230520047,,,CW NBB-derived equity,src_ire_fup_jr2025_cw,medium,tick1958; YE2025 equity 230520047 flat -0.33pct vs 231282955
 bud_ire_fup_fte_jr2025_statutory,ire_radioelements,2025,223,,,CW social-balance FTE,src_ire_fup_jr2025_cw,medium,tick1958; YE2025 FTE 223 flat vs 223 YE2024; group site ~300 with ELiT
+bud_spge_omzet_jr2025_statutory,spge,2025,450223607,,,CW NBB-derived omzet statutory,src_spge_jr2025_cw,medium,tick1959; YE2025 omzet 450223607 JUMP +9.29pct vs 411939131
+bud_spge_pnl_jr2025_statutory,spge,2025,27301169,,,CW NBB-derived Winst/Verlies,src_spge_jr2025_cw,medium,tick1959; YE2025 pnl JUMP 27301169 turnaround vs LOSS -8137478 YE2024
+bud_spge_bruto_jr2025_statutory,spge,2025,147515571,,,CW NBB-derived bruto/gross margin,src_spge_jr2025_cw,medium,tick1959; YE2025 bruto 147515571 JUMP +36.1pct vs 108361275
+bud_spge_equity_jr2025_statutory,spge,2025,2141950395,,,CW NBB-derived equity,src_spge_jr2025_cw,medium,tick1959; YE2025 equity 2141950395 JUMP +2.92pct vs 2081268063
+bud_spge_ebitda_jr2025_statutory,spge,2025,149189634,,,Upswitch NBB-derived EBITDA,src_spge_jr2025_upswitch,medium,tick1959; YE2025 EBITDA 149189634 (~33.1pct of omzet); FOI NBB PDF confirm
+bud_spge_fte_jr2025_statutory,spge,2025,65,,,CW social-balance FTE,src_spge_jr2025_cw,medium,tick1959; YE2025 FTE 65 vs ~58 YE2024 class
