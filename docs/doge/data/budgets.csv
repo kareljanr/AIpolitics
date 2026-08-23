@@ -52347,3 +52347,8 @@ bud_h_familie_pnl_jr2025_statutory,vzw_groep_zorg_h_familie,2025,2799756,,,CW YE
 bud_h_familie_equity_jr2025_statutory,vzw_groep_zorg_h_familie,2025,77102105,,,CW YE2025 Eigen vermogen / Equity,src_h_familie_jr2025_cw_en,medium,tick2057; equity JUMP 77102105 +6.98pct vs YE2024 72072016
 bud_h_familie_bruto_jr2025_statutory,vzw_groep_zorg_h_familie,2025,65849946,,,CW YE2025 Brutomarge / Gross margin,src_h_familie_jr2025_cw_en,medium,tick2057; bruto JUMP 65849946 +7.93pct vs YE2024 61009339
 bud_h_familie_fte_jr2025_statutory,vzw_groep_zorg_h_familie,2025,748.5,,,CW social-balance FTE,src_h_familie_jr2025_cw_en,medium,tick2057; YE2025 FTE 748.5
+bud_tpandje_omzet_jr2025_statutory,vzw_tpandje_izegem,2025,7362472,,,CW YE2025 omzet / Turnover,src_tpandje_jr2025_cw_en,medium,tick2058; omzet JUMP 7362472 +5.39pct vs YE2024 6985680
+bud_tpandje_pnl_jr2025_statutory,vzw_tpandje_izegem,2025,54453,,,CW YE2025 Profit/Loss,src_tpandje_jr2025_cw_en,medium,tick2058; pnl FLIP 54453 vs YE2024 LOSS -54704
+bud_tpandje_equity_jr2025_statutory,vzw_tpandje_izegem,2025,5679276,,,CW YE2025 Eigen vermogen / Equity,src_tpandje_jr2025_cw_en,medium,tick2058; equity JUMP 5679276 +0.66pct vs YE2024 5642052
+bud_tpandje_bruto_jr2025_statutory,vzw_tpandje_izegem,2025,6967215,,,CW YE2025 Brutomarge / Gross margin,src_tpandje_jr2025_cw_en,medium,tick2058; bruto JUMP 6967215 +4.32pct vs YE2024 6678824
+bud_tpandje_fte_jr2025_statutory,vzw_tpandje_izegem,2025,89.6,,,CW social-balance FTE,src_tpandje_jr2025_cw_en,medium,tick2058; YE2025 FTE 89.6

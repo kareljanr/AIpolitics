@@ -23555,3 +23555,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.0); entities (+1 vzw_groep_zorg_h_familie); foi + draft gap_groep_zorg_h_familie_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2057=done + rq_2058 open; loop_state ticks=2057; raw under docs/doge/data/raw/tick2057/.
 - FOI: **ready not sent** (human-gated; info@zorghf.be).
 - NOT every-10 (**next every-10 is 2060**). Next: rq_2058 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2058 - 2026-08-24T19:35:00Z - rq_2058 't Pandje Izegem (omzet JUMP 7.36m / pnl FLIP 54k / Medium)
+
+- Unit: **rq_2058** leftover dual after **rq_2057 Groep Zorg H. Familie**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took unused leftover **'t Pandje** YE2025 (KBO **0424.249.987**; Mentenhoekstraat 4 Izegem; West-Vlaanderen **VZW** WZC / **1 VE**). Do not redo H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/C.W.Z.C. Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Sint-Jozef Rumst/Veilige Have/Witte Meren.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR7,362,472** JUMP +5.39%; pnl **EUR54,453** FLIP vs YE2024 LOSS EUR-54,704; equity **EUR5,679,276** JUMP +0.66%; bruto **EUR6,967,215** JUMP +4.32%; FTE **89.6**; neerlegging **24.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@tpandje.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.0); entities (+1 vzw_tpandje_izegem); foi + draft gap_tpandje_nbb_pdf_assets_debt_pnl_flip_matrix_l5; rq_2058=done + rq_2059 open; loop_state ticks=2058; raw under docs/doge/data/raw/tick2058/.
+- FOI: **ready not sent** (human-gated; info@tpandje.be).
+- NOT every-10 (**next every-10 is 2060**). Next: rq_2059 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
