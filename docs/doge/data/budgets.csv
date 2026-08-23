@@ -52496,3 +52496,8 @@ bud_lindelo_pnl_jr2025_statutory,vzw_wzc_lindelo_lille,2025,-225489,-225489,-225
 bud_lindelo_equity_jr2025_statutory,vzw_wzc_lindelo_lille,2025,9429339,9429339,9429339,CW YE2025 Eigen vermogen / Equity,src_lindelo_jr2025_cw_en,medium,tick2087; DROP -5.19% vs YE2024 9946153
 bud_lindelo_bruto_jr2025_statutory,vzw_wzc_lindelo_lille,2025,11726653,11726653,11726653,CW YE2025 Brutomarge / Gross margin,src_lindelo_jr2025_cw_en,medium,tick2087; JUMP +2.95% vs YE2024 11390217
 bud_lindelo_fte_jr2025_statutory,vzw_wzc_lindelo_lille,2025,166.9,166.9,166.9,CW social-balance FTE / Employees,src_lindelo_jr2025_cw_en,medium,tick2087; FTE JUMP 166.9 (+5.43%) vs YE2024 158.3
+bud_ocura_omzet_jr2025_statutory,vzw_woonzorgcentra_ocura_beringen,2025,25967828,25967828,25967828,CW YE2025 omzet / Turnover,src_ocura_jr2025_cw_en,medium,tick2088; JUMP +0.41% vs YE2024 25860977
+bud_ocura_pnl_jr2025_statutory,vzw_woonzorgcentra_ocura_beringen,2025,-458394,-458394,-458394,CW YE2025 Profit/Loss,src_ocura_jr2025_cw_en,medium,tick2088; LOSS vs YE2024 -949903 (LOSS NARROW vs YE2024 LOSS -949903)
+bud_ocura_equity_jr2025_statutory,vzw_woonzorgcentra_ocura_beringen,2025,12438749,12438749,12438749,CW YE2025 Eigen vermogen / Equity,src_ocura_jr2025_cw_en,medium,tick2088; DROP -8.47% vs YE2024 13590528
+bud_ocura_bruto_jr2025_statutory,vzw_woonzorgcentra_ocura_beringen,2025,26614138,26614138,26614138,CW YE2025 Brutomarge / Gross margin,src_ocura_jr2025_cw_en,medium,tick2088; JUMP +3.82% vs YE2024 25634759
+bud_ocura_fte_jr2025_statutory,vzw_woonzorgcentra_ocura_beringen,2025,375.3,375.3,375.3,CW social-balance FTE / Employees,src_ocura_jr2025_cw_en,medium,tick2088; FTE DROP 375.3 (-0.37%) vs YE2024 376.7

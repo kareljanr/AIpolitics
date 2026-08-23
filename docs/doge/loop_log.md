@@ -23834,3 +23834,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 vzw_wzc_lindelo_lille); foi + draft gap_lindelo_nbb_pdf_assets_debt_pnl_deeper_loss_fte_jump_matrix_l5; rq_2087=done + rq_2088 open; loop_state ticks=2087; raw under docs/doge/data/raw/tick2087/.
 - FOI: **ready not sent** (human-gated; info@lindelo.be).
 - NOT every-10 (**next every-10 is 2090**). Next: rq_2088 (AGB/FARO-if-YE2025 / AIESH-REW / Ocura-Lovie deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+
+## Tick 2088 - 2026-08-25T03:05:00Z - rq_2088 Ocura Beringen (omzet JUMP 25.97m / pnl LOSS narrow 0.46m / Medium)
+
+- Unit: **rq_2088** leftover dual after **rq_2087 Lindelo**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took preferred deferred leftover **VZW Woonzorgcentra Ocura** YE2025 (KBO **0443.072.838**; Havenlaan 7 Beringen; Limburg **aanbestedende-overheid VZW** WZC netwerk / **5 VE**). Deferred live unused: De Lovie. Do not redo Lindelo/Medemens/Augustinus Halle/Ben/Stuyvenberg/Wijshage/Mater Dei/Den Akker/Vander Stokken/Ten Anker/De Zwaluw/Kuurne/SJ Brugge/HH Grimbergen/Mater Amabilis/Maria Moorslede/MSW NZVL/Welvaart/Vulpia/Compostela/Leiehome/Deinze/OLV Bornem/Huize SJ Ieper/Sint-Antonius/Wezembeek/Ter Burg/Christine/Vrijzicht/Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/Armonea/Always Home.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR25967828** JUMP +0.41%; pnl **LOSS EUR-458394** narrow vs YE2024 LOSS EUR-949903; equity **EUR12438749** DROP -8.47%; bruto **EUR26614138** JUMP +3.82%; FTE **375.3** DROP -0.37% vs YE2024 376.7; neerlegging **13.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende 5 VE; email info.beringen@ocura.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 vzw_woonzorgcentra_ocura_beringen); foi + draft gap_ocura_nbb_pdf_assets_debt_pnl_loss_narrow_equity_drop_matrix_l5; rq_2088=done + rq_2089 open; loop_state ticks=2088; raw under docs/doge/data/raw/tick2088/.
+- FOI: **ready not sent** (human-gated; info.beringen@ocura.be).
+- NOT every-10 (**next every-10 is 2090**). Next: rq_2089 (AGB/FARO-if-YE2025 / AIESH-REW / De Lovie deferred / unused DSO-IGS-HVZ-WZC-psych).
