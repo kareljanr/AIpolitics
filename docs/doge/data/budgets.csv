@@ -52649,3 +52649,8 @@ bud_les_sittelles_bruto_jr2025_statutory,nv_les_sittelles_chastre,2025,2618231,2
 bud_les_sittelles_pnl_jr2025_statutory,nv_les_sittelles_chastre,2025,-44666,-44666,-44666,CW YE2025 Profit/Loss,src_les_sittelles_jr2025_cw_en,medium,tick2115; FLIP LOSS −158.79% vs YE2024 PROFIT 75980
 bud_les_sittelles_equity_jr2025_statutory,nv_les_sittelles_chastre,2025,2486382,2486382,2486382,CW YE2025 Eigen vermogen / Equity,src_les_sittelles_jr2025_cw_en,medium,tick2115; DROP −1.76% vs YE2024 2531047
 bud_les_sittelles_fte_jr2025_statutory,nv_les_sittelles_chastre,2025,38.7,38.7,38.7,CW social-balance FTE / Employees,src_les_sittelles_jr2025_cw_en,medium,tick2115; FTE 38.7 (YoY Unknown)
+bud_charmilles_omzet_jr2025_statutory,nv_residence_les_charmilles_sambreville,2025,4947053,4947053,4947053,CW YE2025 omzet / Turnover (primary envelope MRS NV),src_charmilles_jr2025_cw_en,medium,tick2116; JUMP +3.5% vs YE2024 4779552
+bud_charmilles_bruto_jr2025_statutory,nv_residence_les_charmilles_sambreville,2025,4339210,4339210,4339210,CW YE2025 Brutomarge / Gross margin,src_charmilles_jr2025_cw_en,medium,tick2116; JUMP +3.39% vs YE2024 4196807
+bud_charmilles_pnl_jr2025_statutory,nv_residence_les_charmilles_sambreville,2025,951,951,951,CW YE2025 Profit/Loss,src_charmilles_jr2025_cw_en,medium,tick2116; DROP −98.06% vs YE2024 49117 (near-zero)
+bud_charmilles_equity_jr2025_statutory,nv_residence_les_charmilles_sambreville,2025,2426790,2426790,2426790,CW YE2025 Eigen vermogen / Equity,src_charmilles_jr2025_cw_en,medium,tick2116; JUMP +0.04% vs YE2024 2425839
+bud_charmilles_fte_jr2025_statutory,nv_residence_les_charmilles_sambreville,2025,66.2,66.2,66.2,CW social-balance FTE / Employees,src_charmilles_jr2025_cw_en,medium,tick2116; FTE 66.2 (YoY Unknown)

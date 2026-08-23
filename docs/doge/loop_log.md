@@ -24088,3 +24088,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.3); entities (+1 nv_les_sittelles_chastre); foi + draft gap_les_sittelles_nbb_pdf_assets_debt_pnl_flip_loss_matrix_l5; rq_2115=done + rq_2116 open; loop_state ticks=2115; raw docs/doge/data/raw/tick2115/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2110**; next **2120**). Next: rq_2116 (AGB/FARO-if-YE2025 / AIESH-REW / Charmilles-LaCharmille / unused IGS-DSO-WZC-MRS).
+
+
+## Tick 2116 - 2026-08-25T09:25:00Z - rq_2116 Residence Les Charmilles Sambreville (omzet JUMP 4.95m / pnl DROP 951 near-zero −98% / Medium)
+
+- Unit: **rq_2116** leftover dual after **rq_2115 Les Sittelles Chastre**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took preferred deferred unused **Residence Les Charmilles Sambreville** YE2025 (KBO **0457.649.265**; Rue d'Eghezée(AUV) 54 Sambreville/Auvelais; **NV/SA** NACE **87.101/87.301** / **1 VE**; **Korian Belgium** bestuurder/gedelegeerd **0869.769.702** path). Do not redo Les Sittelles/Les Buissons/Résidence 3/Elisabeth Aan Zee/XXe Août/Ninove/Zilverlinde/Sint-Camillus/IDELUX*/INTRADEL/ORES SC/Korian holding/Comnexio/SLG*/Always Home/AGB Bornem. La Charmille Pont-à-Celles YE2025 deferred.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR4947053** JUMP +3.5%; bruto **EUR4339210** JUMP +3.39%; pnl **EUR951** DROP −98.06% vs YE2024 EUR49117 (near-zero); equity **EUR2426790** JUMP +0.04% vs YE2024 EUR2425839; FTE **66.2** (YoY Unknown); neerlegging **28.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@lescharmilles.be (alt direction@lescharmilles.be / info@korian.be).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.7); entities (+1 nv_residence_les_charmilles_sambreville); foi + draft gap_charmilles_sambreville_nbb_pdf_assets_debt_pnl_drop_near_zero_matrix_l5; rq_2116=done + rq_2117 open; loop_state ticks=2116; raw docs/doge/data/raw/tick2116/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2110**; next **2120**). Next: rq_2117 (AGB/FARO-if-YE2025 / AIESH-REW / La Charmille / unused IGS-DSO-WZC-MRS).
