@@ -21432,3 +21432,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities nv_storm_westerlo; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1818=done + rq_1819 spawned; loop_state ticks=1818; FOI draft gap_stormwesterlo_bruto_0_28m_loss_0_09m_omzet_empty_l5.md
 - FOI opened: gap_stormwesterlo_bruto_0_28m_loss_0_09m_omzet_empty_l5 (**ready**, human-send only)
 - NOT every-10 (next **1820**). Next: rq_1819 (Storm Retie/Zoersel-if-200 / AGB / Dijk92 / FARO / IGS).
+
+## Tick 1819 - 2026-08-25T09:25:00Z - rq_1819 Storm Retie NV (loss 0.51m / debt 13.24m / nrec 0.54m)
+
+- Unit: **rq_1819** leftover dual residual after Storm Westerlo; took live **Storm Retie NV** (IKA–Storm dual; KBO **0685.874.231**). Preferred AGB Bornem still JR2024; Dijk92/NSZ/APEFE CDN often **403**; FARO NBB YE2025 unpublished. Storm Zoersel CDN **2026-00120585** live deferred.
+- Primary (strong, NBB VKT-kap [2026-00125367](http://cdn.staatsbladmonitor.be/2026pdf/2026-00125367.pdf) CDN 200 / 25p; AV **30.04.2026**; YE **01.01.2025–31.12.2025**): assets **EUR15,788,880**; MVA **EUR11,304,377**; bruto **EUR1,333,694** (was **2,197,437**); nrec **66A EUR543,283**; expl LOSS **EUR399,303**; PnL LOSS **EUR505,085**; debt **EUR13,242,480** (LT bank **10,981,344** + other **369,625**; secured **12,113,085**); cash JUMP **EUR4,046,066**; beleg DROP **0**; equity **EUR2,546,399**; omzet **70 empty**; VTE **0**. Bestuurders: IKA / Storm Holding 3 / Storm Management. Finvision/Nijs oordeel zonder voorbehoud. IKA FVA book **EUR1,209,433** (20%).
+- Wrote: entities nv_storm_retie; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1819=done + rq_1820 spawned; loop_state ticks=1819; FOI draft gap_stormretie_loss_0_51m_debt_13_24m_nrec_0_54m_l5.md
+- FOI opened: gap_stormretie_loss_0_51m_debt_13_24m_nrec_0_54m_l5 (**ready**, human-send only)
+- NOT every-10 (next **1820** MUST refresh progress + waste top10). Next: rq_1820 (every-10 + Storm Zoersel-if-200 / AGB / Dijk92 / FARO / IGS).
