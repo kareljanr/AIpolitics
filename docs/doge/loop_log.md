@@ -22846,3 +22846,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated; no KBO email — postal Bastogne).
 - NOT every-10 (**next every-10 is 1990**). Next: rq_1982 (AGB/FARO-if-YE2025 / AIESH-REW / IDETA-SPI / unused DSO-IGS-HVZ).
 
+## Tick 1982 - 2026-08-23T23:15:00Z - rq_1982 SPI (omzet DROP 20.76m / bruto collapse 0.177m / pnl LOSS / Medium)
+
+- Unit: **rq_1982** leftover dual after **rq_1981 Vivalia**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW/IDETA still **YE2024**. Took unused leftover **SPI** YE2025 (KBO **0204.259.135**; Rue du Vertbois 11 Liege; Liege **ADT**). Do not redo Vivalia/IDELUX Finances/IFIGA/SOFILUX/IDEFIN/FINIMO/FINEST/HYGEA/HELORA/BEP*/IBH/IGRETEC/IPFBW.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR20,760,649** DROP -23.22%; pnl **NEG EUR-289,708** (deepening); equity **EUR221,420,326** JUMP +7.25%; bruto **EUR177,083** DROP -97.14%; FTE **105.2**; neerlegging **07.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief CV; email officiel.ic-spi@spi.be.
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 igs_spi); foi + draft gap_spi_nbb_pdf_assets_debt_bruto_collapse_sowafinal_matrix_l5; rq_1982=done + rq_1983 open; loop_state ticks=1982.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1990**). Next: rq_1983 (AGB/FARO-if-YE2025 / AIESH-REW / IDETA / unused DSO-IGS-HVZ).
+

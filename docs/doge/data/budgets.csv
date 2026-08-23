@@ -51965,3 +51965,8 @@ bud_vivalia_equity_jr2025_statutory,igs_vivalia,2025,205609886,,,CW YE2025 Eigen
 bud_vivalia_bruto_jr2025_statutory,igs_vivalia,2025,275658155,,,CW YE2025 Brutomarge,src_vivalia_jr2025_cw,medium,tick1981; bruto JUMP 275658155 +4.69pct vs YE2024 263319856
 bud_vivalia_fte_jr2025_statutory,igs_vivalia,2025,3178.1,,,CW social-balance FTE,src_vivalia_jr2025_cw,medium,tick1981; YE2025 FTE 3178.1 vs YE2024 3050
 bud_vivalia_pnl_jr2024_gestion_strong,igs_vivalia,2024,15097521.50,,,Official gestion 2024 resultat net consol,src_vivalia_gestion_2024_pdf,strong,tick1981; YE2024 Strong PDF cross-check; hospital sector +18.045m; matches CW YE2024
+bud_spi_omzet_jr2025_statutory,igs_spi,2025,20760649,,,CW YE2025 omzet / Turnover,src_spi_jr2025_cw,medium,tick1982; omzet DROP 20760649 -23.22pct vs YE2024 27040503
+bud_spi_pnl_jr2025_statutory,igs_spi,2025,-289708,,,CW YE2025 Profit/Loss NEG,src_spi_jr2025_cw,medium,tick1982; pnl LOSS -289708 deepening -278.61pct vs YE2024 -76518
+bud_spi_equity_jr2025_statutory,igs_spi,2025,221420326,,,CW YE2025 Eigen vermogen,src_spi_jr2025_cw,medium,tick1982; equity JUMP 221420326 +7.25pct vs YE2024 206449517
+bud_spi_bruto_jr2025_statutory,igs_spi,2025,177083,,,CW YE2025 Brutomarge,src_spi_jr2025_cw,medium,tick1982; bruto DROP 177083 -97.14pct vs YE2024 6183042
+bud_spi_fte_jr2025_statutory,igs_spi,2025,105.2,,,CW social-balance FTE,src_spi_jr2025_cw,medium,tick1982; YE2025 FTE 105.2 vs YE2024 105

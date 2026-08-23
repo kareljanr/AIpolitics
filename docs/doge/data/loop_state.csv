@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-23T22:50:00Z,rq_1981,1981,no,tick1981 leftover Vivalia 0214.567.166 Medium CW (omzet JUMP 473.14m pnl DROP 7.57m equity JUMP 205.61m bruto JUMP 275.66m FTE 3178.1; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_1982; next every-10 1990; continuous hole_fill
+main,continuous,hole_fill,2026-08-23T23:15:00Z,rq_1982,1982,no,tick1982 leftover SPI 0204.259.135 Medium CW (omzet DROP 20.76m pnl LOSS 0.290m equity JUMP 221.42m bruto DROP 0.177m -97pct FTE 105.2; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW/IDETA YE2024; next rq_1983; next every-10 1990; continuous hole_fill
