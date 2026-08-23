@@ -23997,3 +23997,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.0); entities (+1 igs_intradel); foi + draft gap_intradel_nbb_pdf_assets_debt_pnl_loss_narrow_matrix_l5; rq_2105=done + rq_2106 open; loop_state ticks=2105; raw docs/doge/data/raw/tick2104/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 2110**). Next: rq_2106 (AGB/FARO-if-YE2025 / AIESH-REW / IDELUX Eau deferred / unused).
+
+
+## Tick 2106 - 2026-08-25T06:55:00Z - rq_2106 IDELUX Projets Publics (omzet JUMP 6.49m / pnl JUMP 0.54m / Medium)
+
+- Unit: **rq_2106** leftover dual after **rq_2105 INTRADEL**. Prefer: AGB Bornem **JR2024-only**; FARO **YE2024**; AIESH **YE2024**; REW **YE2024**. IDELUX Eau already mined (tick588). Took unused IGS sister **IDELUX Projets Publics** YE2025 (KBO **0832.382.635**; Schoppach Arc-en-Ciel 98 Arlon; SC / **2 VE** / pouvoir adjudicateur; NACE **68.122/82.990**). DISTINCT from IDELUX Eau/Finances/Environnement.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR6490215** JUMP +4.34%; bruto **EUR1104487** JUMP +61.25%; pnl **EUR543627** JUMP +647.75%; equity **EUR44152960** JUMP +0.17%; FTE **12.5** DROP vs YE2024 12.6; neerlegging **19.06.2026**. Assets/debt Unknown. Medium. Strong KBO (officiel.ic-ideluxprojetspublics@idelux.be).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.7); entities (+1 igs_idelux_projets_publics); foi + draft gap_idelux_projets_publics_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2106=done + rq_2107 open; loop_state ticks=2106; raw docs/doge/data/raw/tick2106/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 2110**). Next: rq_2107 (AGB/FARO-if-YE2025 / AIESH-REW / IDELUX Développement / unused).

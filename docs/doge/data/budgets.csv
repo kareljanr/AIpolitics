@@ -52589,3 +52589,13 @@ bud_intradel_pnl_jr2025_statutory,igs_intradel,2025,-12682319,-12682319,-1268231
 bud_intradel_equity_jr2025_statutory,igs_intradel,2025,35537642,35537642,35537642,CW Equity / Eigen vermogen YE2025,src_intradel_jr2025_cw_en,medium,tick2105; equity DROP 35537642 (-0.44%) vs YE2024 35693639
 bud_intradel_bruto_jr2025_statutory,igs_intradel,2025,25332295,25332295,25332295,CW Gross margin / Brutomarge YE2025,src_intradel_jr2025_cw_en,medium,tick2105; bruto DROP 25332295 (-3.15%) vs YE2024 26157103
 bud_intradel_fte_jr2025_statutory,igs_intradel,2025,321,321,321,CW social-balance FTE / Employees,src_intradel_jr2025_cw_en,medium,tick2105; FTE JUMP 321 vs YE2024 319.4
+bud_idelux_pp_omzet_jr2025_statutory,igs_idelux_projets_publics,2025,6490215,6490215,6490215,CW turnover / Omzet YE2025 (primary envelope),src_idelux_pp_jr2025_cw_en,medium,tick2106; omzet JUMP 6490215 (+4.34%) vs YE2024 6220488
+bud_idelux_pp_pnl_jr2025_statutory,igs_idelux_projets_publics,2025,543627,543627,543627,CW Profit/Loss YE2025,src_idelux_pp_jr2025_cw_en,medium,tick2106; pnl JUMP 543627 (+647.75%) vs YE2024 72701
+bud_idelux_pp_equity_jr2025_statutory,igs_idelux_projets_publics,2025,44152960,44152960,44152960,CW Equity / Eigen vermogen YE2025,src_idelux_pp_jr2025_cw_en,medium,tick2106; equity JUMP 44152960 (+0.17%) vs YE2024 44078773
+bud_idelux_pp_bruto_jr2025_statutory,igs_idelux_projets_publics,2025,1104487,1104487,1104487,CW Gross margin / Brutomarge YE2025,src_idelux_pp_jr2025_cw_en,medium,tick2106; bruto JUMP 1104487 (+61.25%) vs YE2024 684954
+bud_idelux_pp_fte_jr2025_statutory,igs_idelux_projets_publics,2025,12.5,12.5,12.5,CW social-balance FTE / Employees,src_idelux_pp_jr2025_cw_en,medium,tick2106; FTE DROP 12.5 vs YE2024 12.6
+bud_idelux_eau_omzet_jr2025_statutory,idelux_eau,2025,26319619,26319619,26319619,CW YE2025 omzet / Turnover (primary envelope SPGE OAA SC),src_idelux_eau_jr2025_cw_en,medium,tick2106; JUMP +4.73% vs YE2024 25131409; dual SPGE stack
+bud_idelux_eau_bruto_jr2025_statutory,idelux_eau,2025,15966385,15966385,15966385,CW YE2025 Brutomarge / Gross margin,src_idelux_eau_jr2025_cw_en,medium,tick2106; JUMP +7.34% vs YE2024 14874373
+bud_idelux_eau_pnl_jr2025_statutory,idelux_eau,2025,1721496,1721496,1721496,CW YE2025 Profit/Loss,src_idelux_eau_jr2025_cw_en,medium,tick2106; JUMP +201.26% vs YE2024 PROFIT 571426
+bud_idelux_eau_equity_jr2025_statutory,idelux_eau,2025,50559932,50559932,50559932,CW YE2025 Eigen vermogen / Equity,src_idelux_eau_jr2025_cw_en,medium,tick2106; JUMP +8.43% vs YE2024 46628011
+bud_idelux_eau_fte_jr2025_statutory,idelux_eau,2025,101.2,101.2,101.2,CW social-balance FTE / Employees,src_idelux_eau_jr2025_cw_en,medium,tick2106; FTE 101.2 DROP vs YE2024 102.2
