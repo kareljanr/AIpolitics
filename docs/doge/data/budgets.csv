@@ -52372,3 +52372,8 @@ bud_olv_wezembeek_pnl_jr2025_statutory,vzw_wzc_olv_wezembeek,2025,-8367,,,CW YE2
 bud_olv_wezembeek_equity_jr2025_statutory,vzw_wzc_olv_wezembeek,2025,3164859,,,CW YE2025 Eigen vermogen / Equity,src_olv_wezembeek_jr2025_cw_en,medium,tick2062; equity DROP 3164859 -1.19pct vs YE2024 3202887
 bud_olv_wezembeek_bruto_jr2025_statutory,vzw_wzc_olv_wezembeek,2025,3763636,,,CW YE2025 Brutomarge / Gross margin,src_olv_wezembeek_jr2025_cw_en,medium,tick2062; bruto DROP 3763636 -7.75pct vs YE2024 4079699
 bud_olv_wezembeek_fte_jr2025_statutory,vzw_wzc_olv_wezembeek,2025,46.2,,,CW social-balance FTE,src_olv_wezembeek_jr2025_cw_en,medium,tick2062; YE2025 FTE 46.2
+bud_sint_antonius_omzet_jr2025_statutory,vzw_wzc_sint_antonius,2025,7455500,,,CW YE2025 omzet / Turnover,src_sint_antonius_jr2025_cw_en,medium,tick2063; omzet JUMP 7455500 +0.12pct vs YE2024 7446250
+bud_sint_antonius_pnl_jr2025_statutory,vzw_wzc_sint_antonius,2025,-243742,,,CW YE2025 Profit/Loss,src_sint_antonius_jr2025_cw_en,medium,tick2063; pnl FLIP LOSS -243742 vs YE2024 profit 4317
+bud_sint_antonius_equity_jr2025_statutory,vzw_wzc_sint_antonius,2025,12773930,,,CW YE2025 Equity,src_sint_antonius_jr2025_cw_en,medium,tick2063; equity DROP 12773930 -4.03pct vs YE2024 13310521
+bud_sint_antonius_bruto_jr2025_statutory,vzw_wzc_sint_antonius,2025,7042846,,,CW YE2025 Brutomarge / Gross margin,src_sint_antonius_jr2025_cw_en,medium,tick2063; bruto JUMP 7042846 +4.19pct vs YE2024 6759745
+bud_sint_antonius_fte_jr2025_statutory,vzw_wzc_sint_antonius,2025,88.1,,,CW social-balance FTE,src_sint_antonius_jr2025_cw_en,medium,tick2063; YE2025 FTE 88.1

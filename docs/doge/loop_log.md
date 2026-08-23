@@ -23608,3 +23608,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+6); budgets (+5); commitments (+1); leaderboard (+1 pi 4.7); entities (+1 vzw_wzc_olv_wezembeek); foi + draft gap_olv_wezembeek_nbb_pdf_assets_debt_pnl_flip_loss_matrix_l5; rq_2062=done + rq_2063 open; loop_state ticks=2062; raw under docs/doge/data/raw/tick2062/.
 - FOI: **ready not sent** (human-gated; info@wzc-olvrouw.be).
 - NOT every-10 (**next every-10 is 2070**). Next: rq_2063 (AGB/FARO-if-YE2025 / AIESH-REW / Sint-Antonius deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+
+## Tick 2063 - 2026-08-24T20:50:00Z - rq_2063 Sint-Antonius (omzet JUMP 7.46m / pnl FLIP LOSS 0.24m / Medium)
+
+- Unit: **rq_2063** leftover dual after **rq_2062 OLV Wezembeek**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **WZC Sint-Antonius** YE2025 (KBO **0424.236.725**; Jules Sermonstraat 17 Sint-Pieters-Leeuw; Vlaams-Brabant **VZW** WZC / **1 VE**). Do not redo OLV Wezembeek/Ter Burg/Christine/Vrijzicht/'t Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR7,455,500** JUMP +0.12%; pnl **LOSS EUR-243,742** FLIP vs YE2024 profit EUR4,317; equity **EUR12,773,930** DROP −4.03%; bruto **EUR7,042,846** JUMP +4.19%; FTE **88.1**; neerlegging **12.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@stantonius.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_wzc_sint_antonius); foi + draft gap_sint_antonius_nbb_pdf_assets_debt_pnl_flip_loss_matrix_l5; rq_2063=done + rq_2064 open; loop_state ticks=2063; raw under docs/doge/data/raw/tick2063/.
+- FOI: **ready not sent** (human-gated; info@stantonius.be).
+- NOT every-10 (**next every-10 is 2070**). Next: rq_2064 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
