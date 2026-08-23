@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T08:40:00Z,rq_2017,2017,no,tick2017 leftover AZ Rivierenland 0416.851.659 Medium CW (omzet JUMP 208.26m pnl LOSS 0.25m equity DROP 86.82m bruto JUMP 97.54m FTE 1089.6; assets/debt Unknown); AGB Bornem JR2024; FARO YE2024; Jessa/ZOL/SFZ CW N/A; next rq_2018; next every-10 2020; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T09:05:00Z,rq_2018,2018,no,tick2018 leftover PC Gent-Sleidinge 0837.845.517 Medium CW (omzet JUMP 41.00m pnl JUMP 0.58m equity JUMP 50.56m bruto JUMP 44.64m FTE 513.5; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; Jessa/ZOL/SFZ/Noorderhart CW N/A; next rq_2019; next every-10 2020; continuous hole_fill

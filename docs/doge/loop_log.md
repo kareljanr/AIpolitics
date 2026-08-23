@@ -23162,3 +23162,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_az_rivierenland); foi + draft gap_az_rivierenland_nbb_pdf_assets_debt_pnl_loss_matrix_l5; rq_2017=done + rq_2018 open; loop_state ticks=2017; raw under docs/doge/data/raw/tick2017/.
 - FOI: **ready not sent** (human-gated; info@azr.be).
 - NOT every-10 (**next every-10 is 2020**). Next: rq_2018 (AGB/FARO-if-YE2025 / AIESH-REW / SFZ-Noorderhart / unused DSO-IGS-HVZ).
+
+
+## Tick 2018 - 2026-08-24T09:05:00Z - rq_2018 PC Gent-Sleidinge (omzet JUMP 41.00m / pnl JUMP 0.58m / Medium)
+
+- Unit: **rq_2018** leftover dual after **rq_2017 AZ Rivierenland**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Jessa/ZOL/SFZ/Noorderhart/Turnhout/Maria Middelares filed but CW **N/A omzet**. Took unused leftover **Psychiatrisch Centrum Gent-Sleidinge** YE2025 (KBO **0837.845.517**; Fratersplein 9 Gent; Oost-Vlaanderen **psych hospital VZW**). Do not redo AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/Werken Glorieux/AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR41,004,104** JUMP +3.45%; pnl **EUR576,653** JUMP +269.47%; equity **EUR50,560,231** JUMP +6.57%; bruto **EUR44,635,490** JUMP +5.49%; FTE **513.5**; neerlegging **04.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 6 VE; email info@pcgs.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_pc_gent_sleidinge); foi + draft gap_pcgs_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2018=done + rq_2019 open; loop_state ticks=2018; raw under docs/doge/data/raw/tick2018/.
+- FOI: **ready not sent** (human-gated; info@pcgs.be).
+- NOT every-10 (**next every-10 is 2020**). Next: rq_2019 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-hospital-psych).

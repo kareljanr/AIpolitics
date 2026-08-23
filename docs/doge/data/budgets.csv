@@ -52145,3 +52145,8 @@ bud_az_rivierenland_pnl_jr2025_statutory,vzw_az_rivierenland,2025,-251639,,,CW Y
 bud_az_rivierenland_equity_jr2025_statutory,vzw_az_rivierenland,2025,86822351,,,CW YE2025 Eigen vermogen,src_az_rivierenland_jr2025_cw,medium,tick2017; equity DROP 86822351 -2.54pct vs YE2024 89088809
 bud_az_rivierenland_bruto_jr2025_statutory,vzw_az_rivierenland,2025,97540019,,,CW YE2025 Brutomarge,src_az_rivierenland_jr2025_cw,medium,tick2017; bruto JUMP 97540019 +3.81pct vs YE2024 93958723
 bud_az_rivierenland_fte_jr2025_statutory,vzw_az_rivierenland,2025,1089.6,,,CW social-balance FTE,src_az_rivierenland_jr2025_cw,medium,tick2017; YE2025 FTE 1089.6
+bud_pcgs_omzet_jr2025_statutory,vzw_pc_gent_sleidinge,2025,41004104,,,CW YE2025 omzet,src_pcgs_jr2025_cw,medium,tick2018; omzet JUMP 41004104 +3.45pct vs prior 39637378
+bud_pcgs_pnl_jr2025_statutory,vzw_pc_gent_sleidinge,2025,576653,,,CW YE2025 Profit/Loss,src_pcgs_jr2025_cw,medium,tick2018; pnl JUMP 576653 +269.47pct vs prior 156075
+bud_pcgs_equity_jr2025_statutory,vzw_pc_gent_sleidinge,2025,50560231,,,CW YE2025 Eigen vermogen,src_pcgs_jr2025_cw,medium,tick2018; equity JUMP 50560231 +6.57pct vs prior 47444697
+bud_pcgs_bruto_jr2025_statutory,vzw_pc_gent_sleidinge,2025,44635490,,,CW YE2025 Brutomarge,src_pcgs_jr2025_cw,medium,tick2018; bruto JUMP 44635490 +5.49pct vs prior 42312608
+bud_pcgs_fte_jr2025_statutory,vzw_pc_gent_sleidinge,2025,513.5,,,CW social-balance FTE,src_pcgs_jr2025_cw,medium,tick2018; FTE 513.5
