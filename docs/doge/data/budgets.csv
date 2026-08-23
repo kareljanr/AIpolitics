@@ -51893,3 +51893,7 @@ bud_cisch_pnl_jr2025_statutory,cisch,2025,191870.13,,,Mons bilan 9904 + CW Winst
 bud_cisch_bruto_jr2025_statutory,cisch,2025,1431781.28,,,Mons bilan marge brute 9900 + CW,src_cisch_jr2025_bilan_mons,strong,tick1967; YE2025 bruto 1431781.28 JUMP +20.35pct vs 1189649.44
 bud_cisch_autres_produits_jr2025_statutory,cisch,2025,1521886.06,,,Mons bilan autres produits d exploitation 74,src_cisch_jr2025_bilan_mons,strong,tick1967; YE2025 autres produits 1521886.06 (ONE promo sante 720714.85 + commune AC + Province Hainaut 182925)
 bud_cisch_cot_resp_jr2025_statutory,cisch,2025,342861.84,,,Mons bilan 621100 + note synthese,src_cisch_jr2025_bilan_mons,strong,tick1967; YE2025 cotisation responsabilisation 342861.84 JUMP vs 285847.68; largest single charge; FOI 2026-2030 path
+bud_bep_crem_pnl_jr2025_statutory,bep_crematorium,2025,20050,,,CW NBB-derived Winst/Verlies,src_bep_crem_jr2025_cw,medium,tick1969; YE2025 pnl JUMP 20050 +13.99pct vs 17590
+bud_bep_crem_equity_jr2025_statutory,bep_crematorium,2025,445338,,,CW NBB-derived equity,src_bep_crem_jr2025_cw,medium,tick1969; YE2025 equity JUMP 445338 +5.24pct
+bud_bep_crem_bruto_jr2025_statutory,bep_crematorium,2025,6621,,,CW NBB-derived bruto,src_bep_crem_jr2025_cw,medium,tick1969; YE2025 bruto DROP 6621 -42.97pct; omzet unpublished
+bud_bep_crem_fte_jr2025_statutory,bep_crematorium,2025,0,,,CW social-balance FTE,src_bep_crem_jr2025_cw,medium,tick1969; YE2025 FTE 0 (concession-operated)

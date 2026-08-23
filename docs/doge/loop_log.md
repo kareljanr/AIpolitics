@@ -22739,3 +22739,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+7); commitments (+1); leaderboard (+1); entities (+1 cisch); foi + draft gap_cisch_nbb_pdf_one_pension_commune_debt_matrix_l5; rq_1968=done + rq_1969 open; loop_state ticks=1968; raw PDFs saved.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1970**). Next: rq_1969 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
+
+## Tick 1969 - 2026-08-23T19:30:00Z - rq_1969 BEP Crematorium (pnl JUMP 20.05k / equity JUMP 445.3k / Medium)
+
+- Unit: **rq_1969** leftover dual after **rq_1968 CISCH**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **BEP Crematorium** YE2025 (KBO **0891.020.521**; Avenue Sergent Vrithoff 2 Namur; dual **BEP Expansion**; concession Ciney + Eghezee path). Do not redo BEP Expansion/IEG/CENEO/CISCH/HELORA/iMio/Passelecq/IPFBW/IGRETEC/Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92/AIEG/Synergrid.
+- Found: Companyweb NL+EN YE2025 - pnl **EUR20,050** JUMP +13.99%; equity **EUR445,338** JUMP +5.24%; bruto **EUR6,621** DROP -42.97%; omzet **Unknown**; FTE **0**; neerlegging **21.08.2026**. Assets/debt Unknown. Medium confidence.
+- Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1 bep_crematorium); foi + draft gap_bep_crem_nbb_pdf_assets_debt_concession_l5; rq_1969=done + rq_1970 open (**EVERY-10 required**); loop_state ticks=1969.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 this tick (**next tick 1970 MUST run EVERY-10** progress coverage % + waste top10). Next: rq_1970.
