@@ -22242,3 +22242,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_norther_nbb_pdf_share_debt_ppa_l5; rq_1914=done + rq_1915 open; loop_state ticks=1914.
 - FOI opened: NBB PDF + share % / debt / PPA (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1920**). Next: rq_1915 (AGB/Dijk92-if-200 / FARO-if-YE2025 / GreenOffshore-if-live).
+
+## Tick 1915 - 2026-08-27T04:45:00Z - rq_1915 Green Offshore (equity 24.4m / pnl DROP 4.15m / Medium)
+
+- Unit: **rq_1915** leftover dual after Norther. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **Green Offshore NV** (KBO **0832.273.757**; Begijnenvest 113 Antwerpen; AvH marine / Otary member; NON-Eneco; parallel pnl DROP vs Power@sea).
+- Primary hunt: NBB CDN deposit unresolved; Upswitch miss this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0832273757/green-offshore) + KBO (neerlegging **21.05.2026**; YE **31.12.2025**): omzet **empty**; bruto **NEG EUR-24,050**; PnL **EUR4,147,944** (**DROP -73.41%**); equity **EUR24,433,671**; FTE **0**; assets **Unknown**.
+- Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_greenoffshore_nbb_pdf_assets_share_fva_l5; rq_1915=done + rq_1916 open; loop_state ticks=1915.
+- FOI opened: NBB PDF + assets/share % / FVA for pnl DROP (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1920**). Next: rq_1916 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other Otary-HVZ-IGS).

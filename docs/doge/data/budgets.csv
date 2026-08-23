@@ -51531,3 +51531,7 @@ bud_norther_assets_jr2025,nv_norther,2025,816676404,,,Upswitch NBB/CBSO 20/58,sr
 bud_norther_equity_jr2025,nv_norther,2025,133774760,,,CW/Upswitch NBB-derived 10/15,src_norther_jr2025_cw,medium,tick1914; YE2025 equity 133774760 JUMP +3.25pct
 bud_norther_ebitda_jr2025,nv_norther,2025,129407528,,,Upswitch NBB/CBSO EBITDA,src_norther_jr2025_upswitch,medium,tick1914; YE2025 EBITDA 129407528 ~75.8pct omzet
 bud_norther_fte_jr2025,nv_norther,2025,17,,,CW NBB-derived FTE 16.6,src_norther_jr2025_cw,medium,tick1914; YE2025 FTE 16.6 (stored 17)
+bud_greenoffshore_bruto_jr2025,nv_greenoffshore,2025,-24050,,,CW NBB-derived 9900 NEG,src_greenoffshore_jr2025_cw,medium,tick1915; YE2025 bruto NEG -24050
+bud_greenoffshore_pnl_jr2025,nv_greenoffshore,2025,4147944,,,CW NBB-derived 9904,src_greenoffshore_jr2025_cw,medium,tick1915; YE2025 pnl 4147944 DROP -73.41pct vs 15.6m
+bud_greenoffshore_equity_jr2025,nv_greenoffshore,2025,24433671,,,CW NBB-derived 10/15,src_greenoffshore_jr2025_cw,medium,tick1915; YE2025 equity 24433671 flat -0.01pct
+bud_greenoffshore_fte_jr2025,nv_greenoffshore,2025,0,,,CW NBB-derived FTE,src_greenoffshore_jr2025_cw,medium,tick1915; YE2025 FTE 0 holding shell
