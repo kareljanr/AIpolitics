@@ -22672,3 +22672,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 igretec); foi + draft gap_igretec_nbb_pdf_assets_debt_sector_matrix_l5; rq_1961=done + rq_1962 open; loop_state ticks=1961.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1970**). Next: rq_1962 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
+
+## Tick 1962 - 2026-08-23T17:45:00Z - rq_1962 Gabrielle Passelecq (omzet JUMP 77.72m / pnl JUMP 3.27m / assets 139.22m / Medium)
+
+- Unit: **rq_1962** leftover dual after **rq_1961 IPFBW/IGRETEC**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (narrative JV2025 only; NBB YE2025 unpublished); AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Gabrielle Passelecq** hospital IGS YE2025 (KBO **0440.868.364**; Chemin du Chene aux Haies 24 Mons; SC hospital / HELORA dual; aanbestedende overheid). Do not redo IPFBW/IGRETEC/Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92/AIEG/Synergrid.
+- Found: Companyweb NL+EN + Upswitch + Mons AG PDF YE2025 - omzet **EUR77,724,985** JUMP +3.11%; bruto **EUR120,260,142**; pnl **EUR3,265,483** JUMP +36.82%; equity **EUR61,314,893** JUMP +8.24%; assets **EUR139,220,560**; EBITDA **EUR7,547,480**; FTE **1297**; neerlegging **07.07.2026**. Debt Unknown. Mons AG sectors A +2.24m / B +4.26m / C LOSS 3.24m / D 0. Medium confidence.
+- Wrote: sources (+5); budgets (+7); commitments (+1); leaderboard (+1); entities (+1 igs_passelecq); foi + draft gap_passelecq_nbb_pdf_debt_helora_sector_matrix_l5; rq_1962=done + rq_1963 open; loop_state ticks=1962.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1970**). Next: rq_1963 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).

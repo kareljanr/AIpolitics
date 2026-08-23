@@ -51847,3 +51847,10 @@ bud_igretec_pnl_jr2025_statutory,igretec,2025,7409365,,,CW NBB-derived Winst/Ver
 bud_igretec_bruto_jr2025_statutory,igretec,2025,51746245,,,CW NBB-derived bruto/gross margin,src_igretec_jr2025_cw,medium,tick1961; YE2025 bruto 51746245 +3.54pct vs 49977882
 bud_igretec_equity_jr2025_statutory,igretec,2025,267378265,,,CW NBB-derived equity,src_igretec_jr2025_cw,medium,tick1961; YE2025 equity 267378265 -0.43pct vs 268524099
 bud_igretec_fte_jr2025_statutory,igretec,2025,387.6,,,CW social-balance FTE,src_igretec_jr2025_cw,medium,tick1961; YE2025 FTE 387.6 vs 380.3 YE2024
+bud_passelecq_omzet_jr2025_statutory,igs_passelecq,2025,77724985,,,CW+Upswitch NBB-derived omzet statutory,src_passelecq_jr2025_cw,medium,tick1962; YE2025 omzet 77724985 JUMP +3.11pct vs 75379321
+bud_passelecq_pnl_jr2025_statutory,igs_passelecq,2025,3265483,,,CW NBB-derived Winst/Verlies (+ Mons AG PDF match),src_passelecq_jr2025_cw,medium,tick1962; YE2025 pnl JUMP 3265483 +36.82pct vs 2386772; Mons AG 3265482.77
+bud_passelecq_bruto_jr2025_statutory,igs_passelecq,2025,120260142,,,CW NBB-derived bruto/gross margin,src_passelecq_jr2025_cw,medium,tick1962; YE2025 bruto 120260142 +3.21pct vs 116521604
+bud_passelecq_equity_jr2025_statutory,igs_passelecq,2025,61314893,,,CW+Upswitch+Mons AG equity,src_passelecq_jr2025_upswitch,medium,tick1962; YE2025 equity 61314893 JUMP +8.24pct; Mons AG 61314892
+bud_passelecq_assets_jr2025_statutory,igs_passelecq,2025,139220560,,,Upswitch NBB/CBSO + Mons AG bilan total,src_passelecq_jr2025_upswitch,medium,tick1962; YE2025 assets 139220560; Mons AG 139220560.29; YE2024 138832142
+bud_passelecq_ebitda_jr2025_statutory,igs_passelecq,2025,7547480,,,Upswitch NBB-derived EBITDA,src_passelecq_jr2025_upswitch,medium,tick1962; YE2025 EBITDA 7547480 vs 6581402 YE2024; operating 3490688
+bud_passelecq_fte_jr2025_statutory,igs_passelecq,2025,1297,,,CW social-balance FTE,src_passelecq_jr2025_cw,medium,tick1962; YE2025 FTE 1297 vs 1285 YE2024 (down from 2466 YE2022 HELORA path)
