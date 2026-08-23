@@ -22070,3 +22070,12 @@ Append-only. Each tick adds a short entry.
 - FOI opened: NBB PDF + share % / group (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1900**). Next: rq_1895 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS/IOED/Mijnen).
 
+
+## Tick 1895 - 2026-08-26T18:45:00Z - rq_1895 Biostoom Beringen NV (omzet 42.7m / assets 112m / Medium)
+
+- Unit: **rq_1895** leftover dual after Terhills Hotel. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **Biostoom Beringen NV** (KBO **0678.742.850**; Herkenrodesingel 14 Hasselt **Nuhma seat**; Bionerga/Limburg.net waste-to-energy dual).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0678742850/biostoom-beringen) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/biostoom-beringen-0678742850) (neerlegging **21.05.2026**; YE **31.12.2025**): omzet **EUR42,674,891**; bruto **EUR21,847,188**; PnL **EUR5,861,070**; assets **EUR112,050,286**; equity **EUR38,064,112**; EBITDA **EUR17,129,063**; FTE **25**.
+- Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_biostoom_ber_nbb_pdf_share_debt_ppa_l5; rq_1895=done + rq_1896 open; loop_state ticks=1895.
+- FOI opened: NBB PDF + share % / debt / gate-fee PPA (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1900**). Next: rq_1896 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Bionerga / other HVZ-IGS).
+

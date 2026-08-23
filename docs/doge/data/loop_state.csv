@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T18:15:00Z,rq_1894,1894,no,tick1894 leftover Terhills Hotel 0692.525.263 Medium CW+Upswitch (omzet 4.60m bruto 1.80m pnl 47k assets 2.59m equity 0.70m EBITDA 0.40m FTE 21.2); NBB PDF+share% FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1895; next every-10 1900; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T18:45:00Z,rq_1895,1895,no,tick1895 leftover Biostoom Beringen 0678.742.850 Medium CW+Upswitch (omzet 42.7m bruto 21.8m pnl 5.86m assets 112.1m equity 38.1m EBITDA 17.1m FTE 25); NBB PDF+share%+PPA FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1896; next every-10 1900; continuous hole_fill
