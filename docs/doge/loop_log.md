@@ -21505,3 +21505,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities cv_seacoop; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1827=done + rq_1828 spawned; loop_state ticks=1827; FOI draft gap_seacoop_fva_20_49m_loss_1_45m_debt_9_14m_l5.md
 - FOI opened: gap_seacoop_fva_20_49m_loss_1_45m_debt_9_14m_l5 (**ready**, human-send only)
 - NOT every-10 (next **1830**). Next: rq_1828 (Stroomvloed-if-200 / REScoop.VL-if-200 / AGB / Dijk92 / FARO).
+
+## Tick 1828 - 2026-08-25T12:45:00Z - rq_1828 Stroomvloed CV (FVA 0.36m / LT recv 1.09m / dividend 0.03m)
+
+- Unit: **rq_1828** leftover dual residual after SeaCoop; took deferred live **Stroomvloed CV** (Nazareth-De Pinte citizen renewable; KBO **0676.926.475**). Preferred AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2024; REScoop.Vlaanderen **2026-00063493** still deferred.
+- Primary (strong, NBB VKT-inb [2026-00256607](http://cdn.staatsbladmonitor.be/2026pdf/2026-00256607.pdf) CDN 200 / 17p; AV **13.06.2026**): assets **EUR1,825,088**; MVA **EUR227,388**; FVA JUMP **EUR360,174** (Wind BV 100% + Zon BV 100%; aanschaffingen **175,000**); LT other recv **EUR1,092,917**; bruto **EUR26,696**; pers **EUR11,705**; VTE **0.6**; expl **-EUR292**; fin opbr **EUR41,374**; PnL **EUR32,472**; dividend **EUR34,535**; equity **EUR1,734,271**; inbreng JUMP **EUR1,726,750**; cash DROP **EUR46,628**; debt **EUR90,817**; omzet **70 empty**.
+- Wrote: entities cv_stroomvloed; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1828=done + rq_1829 spawned; loop_state ticks=1828; FOI draft gap_stroomvloed_fva_0_36m_ltrecv_1_09m_dividend_0_03m_l5.md
+- FOI opened: gap_stroomvloed_fva_0_36m_ltrecv_1_09m_dividend_0_03m_l5 (**ready**, human-send only)
+- NOT every-10 (next **1830**). Next: rq_1829 (REScoop.VL-if-200 / AGB / Dijk92 / FARO).
