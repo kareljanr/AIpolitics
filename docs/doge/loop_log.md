@@ -23358,3 +23358,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_kanunnik_triest); foi + draft gap_wzc_kanunnik_triest_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2037=done + rq_2038 open; loop_state ticks=2037; raw under docs/doge/data/raw/tick2037/.
 - FOI: **ready not sent** (human-gated; info@wzckt.be).
 - NOT every-10 (**next every-10 is 2040**). Next: rq_2038 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2038 - 2026-08-24T14:10:00Z - rq_2038 Orelia Zorg (omzet JUMP 65.23m / pnl LOSS 5.93m / equity CRATER 71k / Medium)
+
+- Unit: **rq_2038** leftover dual after **rq_2037 WZC Kanunnik Triest**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took unused leftover **Orelia Zorg** YE2025 (KBO **0810.196.557**; Selsaetenstraat 50 B Wommelgem; Antwerpen **commercial WZC NV**; 16 VE). Do not redo Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara/PC Gent-Sleidinge/Molenheide/Veilige Have/Witte Meren.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR65,232,164** JUMP +2.07%; pnl **LOSS EUR-5,932,888** FLIP vs YE2024 profit; equity **EUR71,210** CRATER -98.81%; bruto **EUR48,867,976** DROP -4.76%; FTE **734.4**; neerlegging **13.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief NV 16 VE; email info@orelia.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.075); entities (+1 nv_orelia_zorg); foi + draft gap_orelia_zorg_nbb_pdf_assets_debt_equity_crater_pnl_loss_matrix_l5; rq_2038=done + rq_2039 open; loop_state ticks=2038; raw under docs/doge/data/raw/tick2038/.
+- FOI: **ready not sent** (human-gated; info@orelia.be).
+- NOT every-10 (**next every-10 is 2040**). Next: rq_2039 (AGB/FARO-if-YE2025 / AIESH-REW / Samen Ouder-CWZC-De Linde deferred / unused DSO-IGS-HVZ-WZC-psych).

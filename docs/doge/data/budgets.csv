@@ -52245,3 +52245,8 @@ bud_wzc_kanunnik_triest_pnl_jr2025_statutory,vzw_wzc_kanunnik_triest,2025,197591
 bud_wzc_kanunnik_triest_equity_jr2025_statutory,vzw_wzc_kanunnik_triest,2025,5219638,,,CW YE2025 Eigen vermogen,src_wzc_kanunnik_triest_jr2025_cw,medium,tick2037; equity JUMP 5219638 +4.45pct vs YE2024 4997217
 bud_wzc_kanunnik_triest_bruto_jr2025_statutory,vzw_wzc_kanunnik_triest,2025,8102429,,,CW YE2025 Brutomarge,src_wzc_kanunnik_triest_jr2025_cw,medium,tick2037; bruto FLAT 8102429 +0.01pct vs YE2024 8102017
 bud_wzc_kanunnik_triest_fte_jr2025_statutory,vzw_wzc_kanunnik_triest,2025,105.1,,,CW social-balance FTE,src_wzc_kanunnik_triest_jr2025_cw,medium,tick2037; YE2025 FTE 105.1
+bud_orelia_zorg_omzet_jr2025_statutory,nv_orelia_zorg,2025,65232164,,,CW YE2025 omzet / Turnover,src_orelia_zorg_jr2025_cw_en,medium,tick2038; omzet JUMP 65232164 +2.07pct vs YE2024 63911783
+bud_orelia_zorg_pnl_jr2025_statutory,nv_orelia_zorg,2025,-5932888,,,CW YE2025 Profit/Loss,src_orelia_zorg_jr2025_cw_en,medium,tick2038; pnl LOSS -5932888 FLIP vs YE2024 profit 214063
+bud_orelia_zorg_equity_jr2025_statutory,nv_orelia_zorg,2025,71210,,,CW YE2025 Eigen vermogen / Equity,src_orelia_zorg_jr2025_cw_en,medium,tick2038; equity CRATER 71210 -98.81pct vs YE2024 6004099
+bud_orelia_zorg_bruto_jr2025_statutory,nv_orelia_zorg,2025,48867976,,,CW YE2025 Brutomarge / Gross margin,src_orelia_zorg_jr2025_cw_en,medium,tick2038; bruto DROP 48867976 -4.76pct vs YE2024 51310159
+bud_orelia_zorg_fte_jr2025_statutory,nv_orelia_zorg,2025,734.4,,,CW social-balance FTE,src_orelia_zorg_jr2025_cw_en,medium,tick2038; YE2025 FTE 734.4
