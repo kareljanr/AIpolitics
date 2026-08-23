@@ -23126,3 +23126,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_sint_trudo); foi + draft gap_sint_trudo_nbb_pdf_assets_debt_matrix_l5; rq_2013=done + rq_2014 open; loop_state ticks=2013; raw under docs/doge/data/raw/tick2013/.
 - FOI: **ready not sent** (human-gated; info@stzh.be).
 - NOT every-10 (**next every-10 is 2020**). Next: rq_2014 (AGB/FARO-if-YE2025 / AIESH-REW / HH Leuven-AZ Zeno / unused DSO-IGS-HVZ).
+
+
+## Tick 2014 - 2026-08-24T07:55:00Z - rq_2014 Heilig Hart Leuven (omzet JUMP 118.73m / pnl COLLAPSE 9k / Medium)
+
+- Unit: **rq_2014** leftover dual after **rq_2013 Sint-Trudo**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**. Took deferred leftover **Heilig Hart Leuven** YE2025 (KBO **0412.939.886**; Naamsestraat 105 Leuven; Vlaams-Brabant **hospital VZW**). AZ Zeno CW year-label opaque deferred. Do not redo Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/Werken Glorieux/AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS/CHR Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR118,726,370** JUMP +5.34%; pnl **EUR8,990** COLLAPSE −99.77%; equity **EUR46,843,891** DROP −1.12%; bruto **EUR59,136,126** JUMP +4.14%; FTE **626.7**; neerlegging **10.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@hhleuven.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_heilig_hart_leuven); foi + draft gap_heilig_hart_leuven_nbb_pdf_assets_debt_pnl_collapse_matrix_l5; rq_2014=done + rq_2015 open; loop_state ticks=2014; raw under docs/doge/data/raw/tick2014/.
+- FOI: **ready not sent** (human-gated; info@hhleuven.be).
+- NOT every-10 (**next every-10 is 2020**). Next: rq_2015 (AGB/FARO-if-YE2025 / AIESH-REW / AZ Zeno-Vesalius / unused DSO-IGS-HVZ).

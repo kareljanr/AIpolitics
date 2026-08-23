@@ -52125,3 +52125,8 @@ bud_sint_trudo_pnl_jr2025_statutory,vzw_sint_trudo,2025,2049232,,,CW YE2025 Prof
 bud_sint_trudo_equity_jr2025_statutory,vzw_sint_trudo,2025,67783254,,,CW YE2025 Eigen vermogen,src_sint_trudo_jr2025_cw,medium,tick2013; equity JUMP 67783254 +1.75pct vs YE2024 66616688
 bud_sint_trudo_bruto_jr2025_statutory,vzw_sint_trudo,2025,75425136,,,CW YE2025 Brutomarge,src_sint_trudo_jr2025_cw,medium,tick2013; bruto JUMP 75425136 +5.97pct vs YE2024 71173754
 bud_sint_trudo_fte_jr2025_statutory,vzw_sint_trudo,2025,780,,,CW social-balance FTE,src_sint_trudo_jr2025_cw,medium,tick2013; YE2025 FTE 780
+bud_heilig_hart_leuven_omzet_jr2025_statutory,vzw_heilig_hart_leuven,2025,118726370,,,CW YE2025 omzet / Turnover,src_heilig_hart_leuven_jr2025_cw,medium,tick2014; omzet JUMP 118726370 +5.34pct vs YE2024 112710535
+bud_heilig_hart_leuven_pnl_jr2025_statutory,vzw_heilig_hart_leuven,2025,8990,,,CW YE2025 Profit/Loss,src_heilig_hart_leuven_jr2025_cw,medium,tick2014; pnl COLLAPSE 8990 -99.77pct vs YE2024 3854490
+bud_heilig_hart_leuven_equity_jr2025_statutory,vzw_heilig_hart_leuven,2025,46843891,,,CW YE2025 Eigen vermogen,src_heilig_hart_leuven_jr2025_cw,medium,tick2014; equity DROP 46843891 -1.12pct vs YE2024 47372337
+bud_heilig_hart_leuven_bruto_jr2025_statutory,vzw_heilig_hart_leuven,2025,59136126,,,CW YE2025 Brutomarge,src_heilig_hart_leuven_jr2025_cw,medium,tick2014; bruto JUMP 59136126 +4.14pct vs YE2024 56786211
+bud_heilig_hart_leuven_fte_jr2025_statutory,vzw_heilig_hart_leuven,2025,626.7,,,CW social-balance FTE,src_heilig_hart_leuven_jr2025_cw,medium,tick2014; YE2025 FTE 626.7
