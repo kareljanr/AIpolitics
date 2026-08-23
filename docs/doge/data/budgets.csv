@@ -52521,8 +52521,8 @@ bud_sed_zoutleeuw_bruto_jr2025_statutory,vzw_sint_elisabeths_dal_zoutleeuw,2025,
 bud_sed_zoutleeuw_pnl_jr2025_statutory,vzw_sint_elisabeths_dal_zoutleeuw,2025,-238101,-238101,-238101,CW YE2025 Profit/Loss,src_sed_zoutleeuw_jr2025_cw_en,medium,tick2091; FLIP LOSS vs YE2024 PROFIT 225456
 bud_sed_zoutleeuw_equity_jr2025_statutory,vzw_sint_elisabeths_dal_zoutleeuw,2025,8763808,8763808,8763808,CW YE2025 Eigen vermogen / Equity,src_sed_zoutleeuw_jr2025_cw_en,medium,tick2091; DROP -6.63% vs YE2024 9390058
 bud_sed_zoutleeuw_fte_jr2025_statutory,vzw_sint_elisabeths_dal_zoutleeuw,2025,212.1,212.1,212.1,CW social-balance FTE / Employees,src_sed_zoutleeuw_jr2025_cw_en,medium,tick2091; FTE 212.1; prior-year FTE Unknown on CW
-bud_lidwina_omzet_jr2025_statutory,vzw_lidwina_mol,2025,10939532,10939532,10939532,CW YE2025 omzet / Turnover,src_lidwina_jr2025_cw_en,medium,tick2092; JUMP +12.92% vs YE2024 9687935; bruto 21595069 better spend proxy
-bud_lidwina_bruto_jr2025_statutory,vzw_lidwina_mol,2025,21595069,21595069,21595069,CW YE2025 Brutomarge / Gross margin (incl. subsidies),src_lidwina_jr2025_cw_en,medium,tick2092; JUMP +7.73% vs YE2024 20045974; primary operating-scale proxy
-bud_lidwina_pnl_jr2025_statutory,vzw_lidwina_mol,2025,999268,999268,999268,CW YE2025 Profit/Loss,src_lidwina_jr2025_cw_en,medium,tick2092; JUMP vs YE2024 726326 (JUMP +37.58%)
-bud_lidwina_equity_jr2025_statutory,vzw_lidwina_mol,2025,24353329,24353329,24353329,CW YE2025 Eigen vermogen / Equity,src_lidwina_jr2025_cw_en,medium,tick2092; JUMP +4.85% vs YE2024 23226527
-bud_lidwina_fte_jr2025_statutory,vzw_lidwina_mol,2025,515.1,515.1,515.1,CW social-balance FTE / Employees,src_lidwina_jr2025_cw_en,medium,tick2092; FTE JUMP 515.1 (+1.64%) vs YE2024 506.8
+bud_lidwina_omzet_jr2025_statutory,vzw_lidwina_mol,2025,10939532,10939532,10939532,CW YE2025 omzet / Turnover,src_lidwina_jr2025_cw_en,medium,tick2093; JUMP +12.92% vs YE2024 9687935; bruto 21595069 better spend proxy
+bud_lidwina_bruto_jr2025_statutory,vzw_lidwina_mol,2025,21595069,21595069,21595069,CW YE2025 Brutomarge / Gross margin (incl. subsidies),src_lidwina_jr2025_cw_en,medium,tick2093; JUMP +7.73% vs YE2024 20045974; primary operating-scale proxy
+bud_lidwina_pnl_jr2025_statutory,vzw_lidwina_mol,2025,999268,999268,999268,CW YE2025 Profit/Loss,src_lidwina_jr2025_cw_en,medium,tick2093; JUMP vs YE2024 726326 (JUMP +37.58%)
+bud_lidwina_equity_jr2025_statutory,vzw_lidwina_mol,2025,24353329,24353329,24353329,CW YE2025 Eigen vermogen / Equity,src_lidwina_jr2025_cw_en,medium,tick2093; JUMP +4.85% vs YE2024 23226527
+bud_lidwina_fte_jr2025_statutory,vzw_lidwina_mol,2025,515.1,515.1,515.1,CW social-balance FTE / Employees,src_lidwina_jr2025_cw_en,medium,tick2093; FTE JUMP 515.1 (+1.64%) vs YE2024 506.8

@@ -5,7 +5,7 @@
 **entity:** Lidwina VZW — KBO **0407.601.720**  
 **recipient:** info@lidwina.be · Postelarenweg 213, 2400 Mol  
 **sources:** [CW NL](https://www.companyweb.be/nl/0407601720/lidwina-vzw) · [CW EN](https://www.companyweb.be/en/0407601720/lidwina-vzw) · [CW FR](https://www.companyweb.be/fr/0407601720/lidwina-vzw) · [KBO](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0407601720) · [site](https://www.lidwina.be/)  
-**tick:** 2092  
+**tick:** 2093  
 **confidence:** Medium (CW NL+EN+FR; assets/debt Unknown)
 
 ## Context
