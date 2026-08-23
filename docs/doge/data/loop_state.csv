@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T00:40:00Z,rq_1989,1989,no,tick1989 leftover CHU Tivoli 0401.793.202 Medium CW (omzet JUMP 252.95m pnl JUMP 4.95m equity JUMP 43.14m +31pct bruto JUMP 131.47m FTE 1588; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; CHBA deferred; next rq_1990 EVERY-10; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T01:05:00Z,rq_1990,1990,no,tick1990 EVERY-10 + leftover CHIREC/CHBA 0472.937.059 Medium CW (omzet JUMP 803.85m pnl JUMP 35.78m equity JUMP 457.59m bruto JUMP 337.13m FTE 3325; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; Humani deferred; next rq_1991; next every-10 2000; continuous hole_fill

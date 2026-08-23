@@ -52005,3 +52005,8 @@ bud_chu_tivoli_pnl_jr2025_statutory,vzw_chu_tivoli,2025,4949133,,,CW YE2025 Prof
 bud_chu_tivoli_equity_jr2025_statutory,vzw_chu_tivoli,2025,43135426,,,CW YE2025 Eigen vermogen,src_chu_tivoli_jr2025_cw,medium,tick1989; equity JUMP 43135426 +31.16pct vs YE2024 32886828
 bud_chu_tivoli_bruto_jr2025_statutory,vzw_chu_tivoli,2025,131470767,,,CW YE2025 Brutomarge,src_chu_tivoli_jr2025_cw,medium,tick1989; bruto JUMP 131470767 +2.97pct vs YE2024 127672574
 bud_chu_tivoli_fte_jr2025_statutory,vzw_chu_tivoli,2025,1588,,,CW social-balance FTE,src_chu_tivoli_jr2025_cw,medium,tick1989; YE2025 FTE 1588 vs YE2024 1557
+bud_chirec_omzet_jr2025_statutory,vzw_chirec,2025,803850315,,,CW YE2025 omzet / Turnover,src_chirec_jr2025_cw,medium,tick1990; omzet JUMP 803850315 +7.32pct vs YE2024 748989062
+bud_chirec_pnl_jr2025_statutory,vzw_chirec,2025,35777155,,,CW YE2025 Profit/Loss,src_chirec_jr2025_cw,medium,tick1990; pnl JUMP 35777155 +21.68pct vs YE2024 29401794
+bud_chirec_equity_jr2025_statutory,vzw_chirec,2025,457591976,,,CW YE2025 Eigen vermogen,src_chirec_jr2025_cw,medium,tick1990; equity JUMP 457591976 +14.43pct vs YE2024 399894102
+bud_chirec_bruto_jr2025_statutory,vzw_chirec,2025,337125607,,,CW YE2025 Brutomarge,src_chirec_jr2025_cw,medium,tick1990; bruto JUMP 337125607 +6.90pct vs YE2024 315372550
+bud_chirec_fte_jr2025_statutory,vzw_chirec,2025,3325,,,CW social-balance FTE,src_chirec_jr2025_cw,medium,tick1990; YE2025 FTE 3325 vs YE2024 3286 (+39)

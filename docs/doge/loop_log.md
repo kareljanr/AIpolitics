@@ -22912,3 +22912,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated; route via chu-tivoli.be).
 - NOT every-10 (**next every-10 is 1990**). Next: rq_1990 (EVERY-10 progress + AGB/FARO-if-YE2025 / AIESH-REW / CHBA / unused DSO-IGS-HVZ).
 
+## Tick 1990 - 2026-08-24T01:05:00Z - rq_1990 EVERY-10 + CHIREC/CHBA (omzet JUMP 803.85m / equity JUMP 457.59m / Medium)
+
+- Unit: **rq_1990** EVERY-10 mandatory + leftover dual after **rq_1989 CHU Tivoli**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **CHIREC/CHBA** YE2025 (KBO **0472.937.059**; Triomflaan 201 Oudergem; Brussels/Brabant **hospital ASBL**). **Humani** YE2025 also live deferred. Do not redo Tivoli/Citadelle/ISoSL/Epicura/CHwapi/CHU UCL Namur/Vivalia/HELORA/IDETA/SPI/IDELUX Finances.
+- EVERY-10: refreshed **progress_every_10_ticks.md** (tick 1990 snapshot; residual dual 1981-1990) + **doge_waste_top10_current.md** (pure annual top10 stable GIP/fossil/cars/cheque/reporté; NEW residual dual off-top10).
+- Found: Companyweb NL+EN YE2025 - omzet **EUR803,850,315** JUMP +7.32%; pnl **EUR35,777,155** JUMP +21.68%; equity **EUR457,591,976** JUMP +14.43%; bruto **EUR337,125,607** JUMP +6.90%; FTE **3325** (+39 vs 3286); neerlegging **25.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 11 VE; no KBO email.
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_chirec); foi + draft gap_chirec_nbb_pdf_assets_debt_equity_jump_matrix_l5; progress+top10; rq_1990=done + rq_1991 open; loop_state ticks=1990; raw under docs/doge/data/raw/tick1990/.
+- FOI: **ready not sent** (human-gated; route via chirec.be).
+- EVERY-10 done. Next every-10 **2000**. Next: rq_1991 (AGB/FARO-if-YE2025 / AIESH-REW / Humani-GHdC / unused DSO-IGS-HVZ-hospital).
+

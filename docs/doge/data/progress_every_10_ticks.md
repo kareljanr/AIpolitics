@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 1990** (2026-08-24)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1981-1990 hospital/ADT continuum after 1980 IDELUX Finances |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1981-1990 is residual dual L5 (not near-complete of 348bn):** **Vivalia** omzet JUMP **473.14m** · **SPI** omzet DROP **20.76m** / bruto collapse · **IDETA** omzet DROP **12.49m** · **CHwapi** omzet JUMP **337.72m** / equity DROP **-46pct** · **Epicura** omzet JUMP **370.88m** / pnl LOSS · **CHU UCL Namur** omzet JUMP **637.53m** · **ISoSL** omzet JUMP **271.49m** / FTE JUMP · **CHR Citadelle** omzet JUMP **593.96m** / equity JUMP **+68pct** · **CHU Tivoli** omzet JUMP **252.95m** / equity JUMP **+31pct** · **CHIREC/CHBA** omzet JUMP **803.85m** / equity JUMP **457.59m** Medium (this tick EVERY-10 dual) |
+| **E. FOI-ready gaps** | **~1607** drafts ready | Human send only; answered **~11**; partial **~28**; total FOI rows **~1659** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable/energy/nuclear/water/forest/hospital shells** (**NEW 1981-1990** Vivalia · SPI · IDETA · CHwapi · Epicura · CHU UCL Namur · ISoSL · CHR Citadelle · CHU Tivoli · **CHIREC/CHBA** · prior IDELUX Finances/IFIGA/SOFILUX/IDEFIN/FINIMO/FINEST/HYGEA/BEP/IBH/HELORA stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs hospital IGS/ASBL path possible; Medium aggregators pending NBB PDF.**
+
+### Inventory (tick 1990)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 52011 |
+| commitments.csv | 5656 |
+| leaderboard.csv | 7777 |
+| entities.csv | 1692 |
+| sources.csv | 4835 |
+| FOI ready | 1607 |
+| FOI answered | 11 |
+| FOI partial | 28 |
+| FOI total rows | 1659 |
+| research_queue open | rq_1991 after progress |
+
+### What improved since tick 1980
+
+- **Residual dual (tick1981-1990):** **Vivalia** · **SPI** · **IDETA** · **CHwapi** · **Epicura** · **CHU UCL Namur** · **ISoSL** · **CHR Citadelle** · **CHU Tivoli** · **CHIREC/CHBA** (this tick EVERY-10 dual — Brussels/Brabant hospital ASBL YE2025 Medium CW).
+- **Blocked still:** AGB Bornem JR2024-only · FARO NBB YE2025 unpublished (YE2024 filing) · AIESH/REW YE2024-only · Bosgroep IJzer/Houtland/Limburg YE2025 unpublished · prior Eneco deposit FOI stack · Humani YE2025 live deferred.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified; corrupt AGB pi>10 / OWV snowball stock / Metro3 stock filtered off pure annual). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **2000**.
+
+
 ## Snapshot at **tick 1980** (2026-08-23)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
