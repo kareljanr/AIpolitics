@@ -22306,3 +22306,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_veh_nbb_pdf_share_fva_debt_call_l5; rq_1922=done + rq_1923 open; loop_state ticks=1922.
 - FOI opened: NBB PDF + municipal share % / FVA path / debt / SeaCoop-Aspiravi call (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1930**). Next: rq_1923 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Socofe-WE-HVZ).
+
+## Tick 1923 - 2026-08-27T08:45:00Z - rq_1923 Fluvius SO (omzet 2.90bn / assets 10.20bn / pnl 0 / Medium)
+
+- Unit: **rq_1923** leftover dual after VEH. Prefer NON-Eneco live IGS. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO YE2024-filing; Socofe/WE still **YE2024-only**. Took leftover **Fluvius System Operator CV** (KBO **0477.445.084**; Brusselsesteenweg 199 Merelbeke-Melle; Flemish DSO **opco** for municipal regional IGS; distinct from Fluvius EG entity + Imewo/West/Kempen/Midden-VL).
+- Primary hunt: NBB CDN deposit unresolved this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0477445084/fluvius-system-operator) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/fluvius-system-operator-0477445084) + KBO (neerlegging **20.06.2026**; YE **31.12.2025**): omzet **EUR2,897,001,208** (**JUMP +6.58%**); bruto **EUR642,148,237**; PnL **EUR0**; assets **EUR10,202,722,563**; equity **EUR993,793,597** (flat); EBITDA **EUR21,313,641**; FTE **5326.3**.
+- Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_fso_nbb_pdf_debt_igs_billing_l5; rq_1923=done + rq_1924 open; loop_state ticks=1923.
+- FOI opened: NBB PDF + debt at 10.2bn / IGS related-party billing (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1930**). Next: rq_1924 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Socofe-WE-HVZ).

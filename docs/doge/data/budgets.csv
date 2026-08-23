@@ -51580,3 +51580,10 @@ bud_veh_pnl_jr2025,bv_veh,2025,29656997,,,CW NBB-derived 9904,src_veh_jr2025_cw,
 bud_veh_assets_jr2025,bv_veh,2025,646701523,,,Upswitch NBB/CBSO 20/58,src_veh_jr2025_upswitch,medium,tick1922; YE2025 assets 646701523 JUMP vs 638.7m
 bud_veh_equity_jr2025,bv_veh,2025,601181217,,,CW/Upswitch NBB-derived 10/15,src_veh_jr2025_cw,medium,tick1922; YE2025 equity 601181217 flat +0.28pct
 bud_veh_expl_jr2025,bv_veh,2025,-307278,,,Upswitch NBB/CBSO expl,src_veh_jr2025_upswitch,medium,tick1922; YE2025 expl NEG -307278
+bud_fso_omzet_jr2025,cv_fluvius_so,2025,2897001208,,,CW/Upswitch NBB-derived code 70,src_fso_jr2025_cw,medium,tick1923; YE2025 omzet 2897001208 JUMP +6.58pct
+bud_fso_bruto_jr2025,cv_fluvius_so,2025,642148237,,,CW NBB-derived 9900,src_fso_jr2025_cw,medium,tick1923; YE2025 bruto 642148237 JUMP +4.07pct
+bud_fso_pnl_jr2025,cv_fluvius_so,2025,0,,,Upswitch NBB/CBSO net result 0,src_fso_jr2025_upswitch,medium,tick1923; YE2025 pnl 0 (pass-through opco)
+bud_fso_assets_jr2025,cv_fluvius_so,2025,10202722563,,,Upswitch NBB/CBSO 20/58,src_fso_jr2025_upswitch,medium,tick1923; YE2025 assets 10202722563 JUMP vs 9.24bn
+bud_fso_equity_jr2025,cv_fluvius_so,2025,993793597,,,CW/Upswitch NBB-derived 10/15,src_fso_jr2025_cw,medium,tick1923; YE2025 equity 993793597 flat
+bud_fso_ebitda_jr2025,cv_fluvius_so,2025,21313641,,,Upswitch NBB/CBSO EBITDA,src_fso_jr2025_upswitch,medium,tick1923; YE2025 EBITDA 21313641 DROP vs 26.3m; expl 21271441
+bud_fso_fte_jr2025,cv_fluvius_so,2025,5326,,,CW NBB-derived FTE 5326.3,src_fso_jr2025_cw,medium,tick1923; YE2025 FTE 5326.3 (stored 5326)
