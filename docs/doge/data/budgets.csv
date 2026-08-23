@@ -52250,3 +52250,8 @@ bud_orelia_zorg_pnl_jr2025_statutory,nv_orelia_zorg,2025,-5932888,,,CW YE2025 Pr
 bud_orelia_zorg_equity_jr2025_statutory,nv_orelia_zorg,2025,71210,,,CW YE2025 Eigen vermogen / Equity,src_orelia_zorg_jr2025_cw_en,medium,tick2038; equity CRATER 71210 -98.81pct vs YE2024 6004099
 bud_orelia_zorg_bruto_jr2025_statutory,nv_orelia_zorg,2025,48867976,,,CW YE2025 Brutomarge / Gross margin,src_orelia_zorg_jr2025_cw_en,medium,tick2038; bruto DROP 48867976 -4.76pct vs YE2024 51310159
 bud_orelia_zorg_fte_jr2025_statutory,nv_orelia_zorg,2025,734.4,,,CW social-balance FTE,src_orelia_zorg_jr2025_cw_en,medium,tick2038; YE2025 FTE 734.4
+bud_cwzc_zonhoven_omzet_jr2025_statutory,vzw_cwzc_zonhoven,2025,8556731,,,CW YE2025 omzet / Turnover,src_cwzc_zonhoven_jr2025_cw_en,medium,tick2039; omzet JUMP 8556731 +7.91pct vs YE2024 7929328
+bud_cwzc_zonhoven_pnl_jr2025_statutory,vzw_cwzc_zonhoven,2025,508040,,,CW YE2025 Profit/Loss,src_cwzc_zonhoven_jr2025_cw_en,medium,tick2039; pnl FLIP profit 508040 vs YE2024 LOSS -797334
+bud_cwzc_zonhoven_equity_jr2025_statutory,vzw_cwzc_zonhoven,2025,16170229,,,CW YE2025 Eigen vermogen / Equity,src_cwzc_zonhoven_jr2025_cw_en,medium,tick2039; equity JUMP 16170229 +2.08pct vs YE2024 15840170
+bud_cwzc_zonhoven_bruto_jr2025_statutory,vzw_cwzc_zonhoven,2025,16590512,,,CW YE2025 Brutomarge / Gross margin,src_cwzc_zonhoven_jr2025_cw_en,medium,tick2039; bruto JUMP 16590512 +13.11pct vs YE2024 14667250
+bud_cwzc_zonhoven_fte_jr2025_statutory,vzw_cwzc_zonhoven,2025,182,,,CW social-balance FTE,src_cwzc_zonhoven_jr2025_cw_en,medium,tick2039; YE2025 FTE 182

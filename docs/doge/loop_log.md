@@ -23367,3 +23367,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.075); entities (+1 nv_orelia_zorg); foi + draft gap_orelia_zorg_nbb_pdf_assets_debt_equity_crater_pnl_loss_matrix_l5; rq_2038=done + rq_2039 open; loop_state ticks=2038; raw under docs/doge/data/raw/tick2038/.
 - FOI: **ready not sent** (human-gated; info@orelia.be).
 - NOT every-10 (**next every-10 is 2040**). Next: rq_2039 (AGB/FARO-if-YE2025 / AIESH-REW / Samen Ouder-CWZC-De Linde deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2039 - 2026-08-24T14:25:00Z - rq_2039 C.W.Z.C. Zonhoven (omzet JUMP 8.56m / pnl FLIP 0.51m / Medium)
+
+- Unit: **rq_2039** leftover dual after **rq_2038 Orelia Zorg**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took unused leftover **C.W.Z.C. Zonhoven** YE2025 (KBO **0413.203.073**; Engstegenseweg 3 Zonhoven; Limburg **WZC VZW** / aanbestedende overheid; 3 VE). Samen Ouder / De Linde YE2025 also live — deferred. Do not redo Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara/PC Gent-Sleidinge/Molenheide/Veilige Have.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR8,556,731** JUMP +7.91%; pnl **EUR508,040** FLIP vs YE2024 LOSS EUR-797,334; equity **EUR16,170,229** JUMP +2.08%; bruto **EUR16,590,512** JUMP +13.11%; FTE **182**; neerlegging **24.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 3 VE; email info@cwzc.be (Departement Zorg repertorium).
+- Wrote: sources (+6); budgets (+5); commitments (+1); leaderboard (+1 pi 4.725); entities (+1 vzw_cwzc_zonhoven); foi + draft gap_cwzc_zonhoven_nbb_pdf_assets_debt_pnl_flip_matrix_l5; rq_2039=done + rq_2040 open (EVERY-10); loop_state ticks=2039; raw under docs/doge/data/raw/tick2039/.
+- FOI: **ready not sent** (human-gated; info@cwzc.be).
+- NOT every-10 (**next every-10 is 2040**). Next: rq_2040 (EVERY-10 mandatory + AGB/FARO-if-YE2025 / AIESH-REW / Samen Ouder-De Linde deferred / unused DSO-IGS-HVZ-WZC-psych).
