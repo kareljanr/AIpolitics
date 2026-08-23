@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T16:45:00Z,rq_1891,1891,no,tick1891 leftover Lommel Win(d)t 0559.893.403 Medium CW+SBM (omzet 3.82m bruto 2.37m pnl 0.29m assets 20.2m debt 14.8m equity 5.04m); NBB PDF+share%+PPA FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1892; next every-10 1900; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T17:15:00Z,rq_1892,1892,no,tick1892 leftover Terhills 0845.152.585 Medium CW+SBM (omzet 2.0m pnl LOSS 1.74m assets 135.1m debt 67.9m equity 65.0m FTE 4); NBB PDF+sale+share% FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1893; next every-10 1900; continuous hole_fill

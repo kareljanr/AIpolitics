@@ -22043,3 +22043,12 @@ Append-only. Each tick adds a short entry.
 - FOI opened: NBB PDF + share % / debt / PPA / LWT group (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1900**). Next: rq_1892 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS/IOED/Mijnen).
 
+
+## Tick 1892 - 2026-08-26T17:15:00Z - rq_1892 Terhills NV (assets 135.1m / LOSS 1.74m / Medium)
+
+- Unit: **rq_1892** leftover dual after Lommel Win(d)t. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **Terhills NV** (KBO **0845.152.585**; Kempische steenweg 311 Hasselt **LRM seat**; Maasmechelen resort/RE dual; sale path noted in LRM press).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0845152585/terhills) + [SBM NBB table](https://www.staatsbladmonitor.be/bedrijfsfiche.html?ondernemingsnummer=0845152585) (neerlegging **09.06.2026**; YE **31.12.2025**): omzet **EUR1,997,039**; bruto **EUR997,772**; PnL **LOSS EUR-1,743,827**; assets **EUR135,110,144**; equity **EUR65,013,818**; debt **EUR67,882,008**; expl **LOSS EUR-1,465,471**; FTE **4**.
+- Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_terhills_nbb_pdf_sale_debt_share_l5; rq_1892=done + rq_1893 open; loop_state ticks=1892.
+- FOI opened: NBB PDF + sale status / debt / share % (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1900**). Next: rq_1893 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Terhills Vakantiepark / other HVZ-IGS).
+

@@ -51410,3 +51410,10 @@ bud_lommel_wt_assets_jr2025,nv_lommel_wt,2025,20190964,,,SBM NBB-derived total a
 bud_lommel_wt_equity_jr2025,nv_lommel_wt,2025,5043345,,,CW/SBM NBB-derived 10/15,src_lommel_wt_jr2025_cw,medium,tick1891; YE2025 equity 5043345 flat
 bud_lommel_wt_debt_jr2025,nv_lommel_wt,2025,14835951,,,SBM NBB-derived schulden 17/49,src_lommel_wt_jr2025_sbm,medium,tick1891; YE2025 debt 14835951 DROP vs 17.7m
 bud_lommel_wt_expl_jr2025,nv_lommel_wt,2025,904723,,,SBM NBB-derived bedrijfswinst 9901,src_lommel_wt_jr2025_sbm,medium,tick1891; YE2025 expl 904723
+bud_terhills_omzet_jr2025,nv_terhills,2025,1997039,,,CW/SBM NBB-derived code 70 omzet,src_terhills_jr2025_cw,medium,tick1892; YE2025
+bud_terhills_bruto_jr2025,nv_terhills,2025,997772,,,CW NBB-derived brutomarge 9900,src_terhills_jr2025_cw,medium,tick1892; YE2025 bruto 997772
+bud_terhills_pnl_loss_jr2025,nv_terhills,2025,1743827,,,CW NBB-derived PnL LOSS abs,src_terhills_jr2025_cw,medium,tick1892; YE2025 LOSS -1743827; second LOSS year
+bud_terhills_assets_jr2025,nv_terhills,2025,135110144,,,SBM NBB-derived total assets 20/58,src_terhills_jr2025_sbm,medium,tick1892; YE2025 assets 135110144 DROP vs 157m YE2023
+bud_terhills_equity_jr2025,nv_terhills,2025,65013818,,,CW/SBM NBB-derived 10/15,src_terhills_jr2025_cw,medium,tick1892; YE2025 equity 65013818 DROP vs 67.0m
+bud_terhills_debt_jr2025,nv_terhills,2025,67882008,,,SBM NBB-derived schulden 17/49,src_terhills_jr2025_sbm,medium,tick1892; YE2025 debt 67882008
+bud_terhills_expl_loss_jr2025,nv_terhills,2025,1465471,,,SBM NBB-derived bedrijfswinst NEG abs,src_terhills_jr2025_sbm,medium,tick1892; YE2025 expl LOSS -1465471
