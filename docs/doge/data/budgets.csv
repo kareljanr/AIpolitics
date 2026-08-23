@@ -52060,3 +52060,8 @@ bud_az_delta_pnl_jr2025_statutory,vzw_az_delta,2025,8653379,,,CW YE2025 Profit/L
 bud_az_delta_equity_jr2025_statutory,vzw_az_delta,2025,430457306,,,CW YE2025 Eigen vermogen,src_az_delta_jr2025_cw,medium,tick2000 EVERY-10; equity DROP 430457306 -0.31pct vs YE2024 431794675
 bud_az_delta_bruto_jr2025_statutory,vzw_az_delta,2025,341774840,,,CW YE2025 Brutomarge,src_az_delta_jr2025_cw,medium,tick2000 EVERY-10; bruto JUMP 341774840 +4.28pct vs YE2024 327733659
 bud_az_delta_fte_jr2025_statutory,vzw_az_delta,2025,3481.4,,,CW social-balance FTE,src_az_delta_jr2025_cw,medium,tick2000 EVERY-10; YE2025 FTE 3481.4
+bud_zorg_kul_omzet_jr2025_statutory,vzw_zorg_kul,2025,111242745,,,CW YE2025 omzet / Turnover,src_zorg_kul_jr2025_cw,medium,tick2001; omzet JUMP 111242745 +4.09pct vs YE2024 106869067
+bud_zorg_kul_pnl_jr2025_statutory,vzw_zorg_kul,2025,9476550,,,CW YE2025 Profit/Loss,src_zorg_kul_jr2025_cw,medium,tick2001; pnl JUMP 9476550 +82.26pct vs YE2024 5199390
+bud_zorg_kul_equity_jr2025_statutory,vzw_zorg_kul,2025,109376202,,,CW YE2025 Eigen vermogen,src_zorg_kul_jr2025_cw,medium,tick2001; equity JUMP 109376202 +8.38pct vs YE2024 100920757
+bud_zorg_kul_bruto_jr2025_statutory,vzw_zorg_kul,2025,91376305,,,CW YE2025 Brutomarge,src_zorg_kul_jr2025_cw,medium,tick2001; bruto JUMP 91376305 +5.49pct vs YE2024 86616854
+bud_zorg_kul_fte_jr2025_statutory,vzw_zorg_kul,2025,940.6,,,CW social-balance FTE,src_zorg_kul_jr2025_cw,medium,tick2001; YE2025 FTE 940.6 vs YE2024 927.3

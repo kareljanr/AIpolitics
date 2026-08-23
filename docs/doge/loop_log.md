@@ -23008,3 +23008,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_az_delta); foi + draft gap_az_delta_nbb_pdf_assets_debt_matrix_l5; progress+top10; rq_2000=done + rq_2001 open; loop_state ticks=2000; raw under docs/doge/data/raw/tick2000/.
 - FOI: **ready not sent** (human-gated; route via azdelta.be).
 - EVERY-10 done. Next every-10 **2010**. Next: rq_2001 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-hospital).
+
+
+## Tick 2001 - 2026-08-24T04:05:00Z - rq_2001 Z.org KU Leuven (omzet JUMP 111.24m / pnl JUMP 9.48m / Medium)
+
+- Unit: **rq_2001** leftover dual after **rq_2000 EVERY-10 + AZ Delta**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Erasme/UZ Brussel CW **opaque**. Took preferred leftover **Z.org KU Leuven** YE2025 (KBO **0558.906.971**; Herestraat 49 Leuven; Vlaams-Brabant **psychiatric hospital VZW** on UZ Leuven campus). Do not redo AZ Delta/AZJP/ZAS/Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR111,242,745** JUMP +4.09%; pnl **EUR9,476,550** JUMP +82.26%; equity **EUR109,376,202** JUMP +8.38%; bruto **EUR91,376,305** JUMP +5.49%; FTE **940.6** (+13.3 vs 927.3); neerlegging **30.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 5 VE; no KBO email (route via uzleuven.be).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_zorg_kul); foi + draft gap_zorg_kul_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2001=done + rq_2002 open; loop_state ticks=2001; raw under docs/doge/data/raw/tick2001/.
+- FOI: **ready not sent** (human-gated; route via uzleuven.be).
+- NOT every-10 (**next every-10 is 2010**). Next: rq_2002 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-hospital).
