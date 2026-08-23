@@ -21810,3 +21810,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+7); commitments (+2); leaderboard (+2); entities (+1); foi + draft gap_bcva_omzet_empty_bruto_0_28m_pers_0_12m_l5; rq_1864=done + rq_1865 open; loop_state ticks=1864.
 - FOI opened: omzet-empty / shareholder % / tenant matrix (**ready**, human-send only).
 - Next: **rq_1865** leftover AGB/Dijk92/FARO/Bosgroep IJzer-if-CDN/HVZ-IGS. **Next every-10 is 1870.**
+
+
+## Tick 1865 - 2026-08-26T04:15:00Z - rq_1865 Bedrijvencentrum Waasland NV (bruto 0.69m / equity 1.38m / Medium)
+
+- Unit: **rq_1865** leftover dual after BCVA NBB. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92/Enebra CDN **403**/blacklist; FARO YE2025 unpublished (JV narrative only); Bosgroep IJzer en Leie no YE2025 deposit. Took leftover **Bedrijvencentrum Waasland NV** (KBO **0427.264.214**; Sint-Niklaas; voorzitter POM Oost-Vlaanderen; sibling of BCVA).
+- Primary hunt: NBB CDN deposit id unresolved after honest May12 hunt (SBM IP blacklist / consult SPA). **Medium** euros from NBB-derived [SBM fiche](https://www.staatsbladmonitor.be/bedrijfsfiche.html?ondernemingsnummer=0427264214) + [Companyweb](https://www.companyweb.be/nl/0427264214/bedrijvencentrum-waasland) (neerlegging **12.05.2026**; YE **31.12.2025**): assets **EUR3,323,657**; equity **EUR1,382,594**; bruto **EUR690,327**; bedrijfswinst **EUR350,910**; tax **EUR76,872**; PnL **EUR230,726**; debt **EUR1,939,337**; VTE **2.6**; omzet **70 empty**. Board/share: POM chair + POM/BNP/Cordeel/Domo ([site](https://bcwaasland.be/over-bc-waasland/)).
+- Wrote: sources (+3); budgets (+6); commitments (+2); leaderboard (+2); entities (+1); foi + draft gap_bcwa_nbb_pdf_omzet_empty_bruto_0_69m_l5; rq_1865=done + rq_1866 open; loop_state ticks=1865.
+- FOI opened: NBB PDF deposit + omzet-empty / shareholder % / debt schedule (**ready**, human-send only).
+- NOT every-10 (next **1870**). Next: rq_1866 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Bosgroep IJzer-if-CDN / BC Regio Aalst-if-PDF / other HVZ-IGS).

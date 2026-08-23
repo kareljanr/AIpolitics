@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T03:50:00Z,rq_1864,1864,no,tick1864 leftover BCVA NV 0430.712.662 NBB YE30062025 (assets 1.65m bruto 0.28m pers 0.12m pnl +2.4k); omzet empty FOI; AGB Bornem JR2024; Dijk92 403; FARO YE2024; next rq_1865; next every-10 1870; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T04:15:00Z,rq_1865,1865,no,tick1865 leftover BC Waasland NV 0427.264.214 YE2025 Medium SBM+CW (assets 3.32m bruto 0.69m pnl 0.23m equity 1.38m debt 1.94m); omzet empty + NBB PDF FOI; AGB Bornem JR2024; Dijk92 403; FARO YE2024; next rq_1866; next every-10 1870; continuous hole_fill

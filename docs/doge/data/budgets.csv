@@ -51276,3 +51276,9 @@ bud_bcva_pnl_2_4k_jr2025,nv_bcva,2025,2361,,,NBB 9904 winst boekjaar,src_bcva_jr
 bud_bcva_equity_1_08m_jr2025,nv_bcva,2025,1075358,,,NBB 10/15 eigen vermogen,src_bcva_jr2025_nbb,strong,tick1864; FY 01.07.2024-30.06.2025; not TE-additive
 bud_bcva_debt_0_57m_jr2025,nv_bcva,2025,574825,,,NBB 17/49 schulden,src_bcva_jr2025_nbb,strong,tick1864; FY 01.07.2024-30.06.2025; not TE-additive
 bud_bcva_cash_61k_jr2025,nv_bcva,2025,61470,,,NBB 54/58 liquide middelen,src_bcva_jr2025_nbb,strong,tick1864; FY 01.07.2024-30.06.2025; not TE-additive
+bud_bcwa_assets_3_32m_jr2025,nv_bcwa,2025,3323657,,,SBM/CW NBB-derived 20/58 balanstotaal YE31122025,src_bcwa_jr2025_sbm_cw,medium,tick1865; YE calendar 2025; not TE-additive; Medium pending NBB PDF
+bud_bcwa_bruto_0_69m_jr2025,nv_bcwa,2025,690327,,,SBM/CW NBB-derived 9900 brutomarge,src_bcwa_jr2025_sbm_cw,medium,tick1865; YE calendar 2025; not TE-additive; omzet 70 empty
+bud_bcwa_pnl_0_23m_jr2025,nv_bcwa,2025,230726,,,SBM/CW NBB-derived winst boekjaar,src_bcwa_jr2025_sbm_cw,medium,tick1865; YE calendar 2025; not TE-additive
+bud_bcwa_equity_1_38m_jr2025,nv_bcwa,2025,1382594,,,SBM/CW NBB-derived 10/15 eigen vermogen,src_bcwa_jr2025_sbm_cw,medium,tick1865; YE calendar 2025; not TE-additive
+bud_bcwa_debt_1_94m_jr2025,nv_bcwa,2025,1939337,,,SBM/CW NBB-derived 17/49 schulden,src_bcwa_jr2025_sbm_cw,medium,tick1865; YE calendar 2025; not TE-additive
+bud_bcwa_bedrijfswinst_0_35m_jr2025,nv_bcwa,2025,350910,,,SBM/CW NBB-derived 9901 bedrijfswinst,src_bcwa_jr2025_sbm_cw,medium,tick1865; YE calendar 2025; not TE-additive
