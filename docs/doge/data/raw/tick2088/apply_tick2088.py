@@ -11,8 +11,8 @@ csv.field_size_limit(10**7)
 UTC = "2026-08-25T03:05:00Z"
 TICK = 2088
 ENTITY = "vzw_woonzorgcentra_ocura_beringen"
-GAP = "gap_ocura_nbb_pdf_assets_debt_pnl_loss_narrow_equity_drop_matrix_l5"
-LB = "lb_ocura_omzet_jump_25_97m_pnl_loss_narrow_fte_drop_jr2025"
+GAP = "gap_ocura_nbb_pdf_assets_debt_pnl_shallower_loss_equity_drop_matrix_l5"
+LB = "lb_ocura_omzet_jump_25_97m_pnl_shallower_loss_equity_drop_jr2025"
 COMM = "comm_ocura_jr2025_statutory_wzc_netwerk"
 
 OMZET = 25967828
@@ -26,41 +26,43 @@ EQUITY24 = 13590528
 BRUTO24 = 25634759
 FTE24 = 376.7
 OMZET_YOY = "+0.41%"
-PNL_YOY = "LOSS NARROW vs YE2024 LOSS -949903"
+PNL_YOY = "SHALLOWER LOSS"
 EQUITY_YOY = "-8.47%"
 BRUTO_YOY = "+3.82%"
 FTE_YOY = "-0.37%"
 FILED = "13.06.2026"
 KBO = "0443.072.838"
-EMAIL = "info.beringen@ocura.be"
+EMAIL = "info@ocura.be"
 ADDR = "Havenlaan 7, 3582 Beringen"
 SITE = "https://www.ocura.be/"
-CW_NL = "https://www.companyweb.be/nl/0443072838/ocura"
-CW_EN = "https://www.companyweb.be/en/0443072838/ocura"
-CW_FR = "https://www.companyweb.be/fr/0443072838/ocura"
+CW_NL = "https://www.companyweb.be/nl/0443072838/woonzorgcentra-ocura"
+CW_EN = "https://www.companyweb.be/en/0443072838/woonzorgcentra-ocura"
+CW_FR = "https://www.companyweb.be/fr/0443072838/woonzorgcentra-ocura"
 KBO_URL = "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0443072838"
-PI = "5.4"
-ABSURD = "4.7"
-COST = "5.8"
+PI = "5.3"
+ABSURD = "4.8"
+COST = "5.5"
 DIFF = "4.0"
 
 DO_NOT_REDO = (
-    "Do NOT redo Ocura Beringen, WZC Lindelo Lille, De Medemens Antwerpen, WZC Sint-Augustinus Halle, "
-    "Ben Woonzorgnetwerk Roeselare, Home Stuyvenberg Herzele, WZC De Wijshage Rumst, WZC Mater Dei Heikruis Pepingen, "
-    "WZC DEN AKKER Sint-Truiden, WZC H. Vander Stokken Pepingen, Ten Anker Nieuwpoort, De Zwaluw Pajottegem, "
-    "Zorg en Welzijn Kuurne, Sint-Jozef Brugge Sint-Michiels, Heilig Hart Grimbergen, Mater Amabilis Wervik, "
-    "WZC Maria's Rustoord Moorslede, VZW MSW NZVL, WZC Welvaart, Vulpia Vlaanderen, Compostela, Leiehome, "
-    "Bejaardenzorg Zusters SV Deinze, Seniorencentrum OLV Bornem, Huize Sint-Jozef Ieper, WZC Sint-Antonius, "
-    "OLV Wezembeek, WZC Ter Burg, WZC Christine, Home Vrijzicht, 't Pandje, Groep Zorg H. Familie, "
-    "Huize Westerhauwe, Centrum Ganspoel, Seniorenzorg Lendelede, Walfergem, Ter Berk, Van Lierde, "
-    "Hof ter Waarbeek, Huize Vincent, Ter Kimme, Integro, Curando, AGB Bornem, WZC De Verlosser Dilbeek, "
-    "Zorggroep Zusters van Berlaar, Psychogeriatrisch Centrum, WZC De Linde Lievegem, Woonzorg Samen Ouder, "
-    "C.W.Z.C. Zonhoven, Orelia Zorg, WZC Kanunnik Triest, OLVA Antwerpen, WZC OLV Roosdaal, "
+    "Do NOT redo VZW Woonzorgcentra Ocura Beringen, WZC Lindelo Lille, De Medemens Antwerpen, "
+    "WZC Sint-Augustinus Halle, Ben Woonzorgnetwerk Roeselare, Home Stuyvenberg Herzele, WZC De Wijshage Rumst, "
+    "WZC Mater Dei Heikruis Pepingen, WZC DEN AKKER Sint-Truiden, WZC H. Vander Stokken Pepingen, "
+    "Ten Anker Nieuwpoort, De Zwaluw Pajottegem, Zorg en Welzijn Kuurne, Sint-Jozef Brugge Sint-Michiels, "
+    "Heilig Hart Grimbergen, Mater Amabilis Wervik, WZC Maria's Rustoord Moorslede, VZW MSW NZVL, WZC Welvaart, "
+    "Vulpia Vlaanderen, Compostela, Leiehome, Bejaardenzorg Zusters SV Deinze, Seniorencentrum OLV Bornem, "
+    "Huize Sint-Jozef Ieper, WZC Sint-Antonius, OLV Wezembeek, WZC Ter Burg, WZC Christine, Home Vrijzicht, "
+    "'t Pandje, Groep Zorg H. Familie, Huize Westerhauwe, Centrum Ganspoel, Seniorenzorg Lendelede, Walfergem, "
+    "Ter Berk, Van Lierde, Hof ter Waarbeek, Huize Vincent, Ter Kimme, Integro, Curando, AGB Bornem, "
+    "WZC De Verlosser Dilbeek, Zorggroep Zusters van Berlaar, Psychogeriatrisch Centrum, WZC De Linde Lievegem, "
+    "Woonzorg Samen Ouder, C.W.Z.C. Zonhoven, Orelia Zorg, WZC Kanunnik Triest, OLVA Antwerpen, WZC OLV Roosdaal, "
     "WZC Sint-Bernardus Assenede, Cassiers WZC, WZC OLV Lourdes Kortenberg, WZC St Vincentius Antwerpen/Ekeren, "
     "WZC Sint-Jozef Rillaar, Karus, WZC De Foyer Gent, Sint-Jozef Rumst, Veilige Have, Witte Meren, Zusterhof, "
     "Werken Glorieux, Woonhaven Antwerpen, Maria Rustoord Ingelmunster, Always Home, Armonea, "
-    "WZC Sint-Barbara Herselt, Molenheide, De Vaeren, WoonZorgGroep Arendonk, Solidum. "
-    "Deferred live unused: De Lovie. "
+    "WZC Sint-Barbara Herselt, Molenheide, De Vaeren, WoonZorgGroep Arendonk, Solidum, IPFBW, IGRETEC, Aquiris, "
+    "SPGE, IRE*, FANC, SCK CEN, EURIDICE, Hydria, Vivaqua, Belgoprocess, Laborelec, CILE, NIRAS, Bel V, Dijk92, "
+    "Synergrid, AIEG, Synatom, Atrias, RESA, Enodia, Fluxys*, ETB, Elia, BNO, SWDE, BRUGEL. "
+    "Prefer deferred De Lovie 0410.853.396 if unused."
 )
 
 
@@ -114,13 +116,13 @@ def update_research_queue():
             r["title"] = "leftover dual — Ocura Beringen YE2025 Medium"
             r["instructions"] = (
                 "Completed leftover VZW Woonzorgcentra Ocura Beringen YE2025 Medium CW; "
-                f"KBO {KBO}; omzet JUMP {OMZET} pnl LOSS {PNL} equity DROP {EQUITY} "
+                f"KBO {KBO}; omzet JUMP {OMZET} pnl SHALLOWER LOSS {PNL} equity DROP {EQUITY} "
                 f"bruto JUMP {BRUTO} FTE DROP {FTE}; FOI {GAP}; AGB Bornem JR2024; FARO/AIESH/REW YE2024; "
                 "deferred De Lovie"
             )
             r["notes"] = (
                 f"tick{TICK} Ocura Medium omzet JUMP {OMZET/1e6:.2f}m "
-                f"pnl LOSS NARROW {PNL/1e6:.2f}m equity DROP {EQUITY/1e6:.2f}m bruto JUMP {BRUTO/1e6:.2f}m "
+                f"pnl SHALLOWER LOSS {PNL/1e6:.2f}m equity DROP {EQUITY/1e6:.2f}m bruto JUMP {BRUTO/1e6:.2f}m "
                 f"FTE DROP {FTE}; FOI ready; AGB Bornem JR2024; FARO/AIESH/REW YE2024; "
                 "next rq_2089; next every-10 2090; deferred De Lovie"
             )
@@ -128,7 +130,7 @@ def update_research_queue():
         rows.append(
             {
                 "task_id": "rq_2089",
-                "title": "leftover dual hole-fill after Ocura — prefer AGB/FARO-YE2025/AIESH-REW/De Lovie",
+                "title": "leftover dual hole-fill after Ocura — prefer AGB/FARO-YE2025/AIESH-REW/De-Lovie",
                 "sprint": "hole_fill",
                 "priority": "8",
                 "status": "open",
@@ -181,7 +183,7 @@ def write_loop_state():
                 "paused": "no",
                 "notes": (
                     f"tick{TICK} leftover Ocura Beringen {KBO} Medium CW "
-                    f"(omzet JUMP {OMZET/1e6:.2f}m pnl LOSS NARROW {PNL/1e6:.2f}m equity DROP {EQUITY/1e6:.2f}m "
+                    f"(omzet JUMP {OMZET/1e6:.2f}m pnl SHALLOWER LOSS {PNL/1e6:.2f}m equity DROP {EQUITY/1e6:.2f}m "
                     f"bruto JUMP {BRUTO/1e6:.2f}m FTE DROP {FTE}; assets/debt Unknown); "
                     "AGB Bornem JR2024; FARO/AIESH/REW YE2024; deferred De Lovie; "
                     "next rq_2089; next every-10 2090; continuous hole_fill"
@@ -228,16 +230,16 @@ def main():
                 "publisher": "KBO/BCE",
                 "accessed_date": "2026-08-25",
                 "source_class": "primary_register",
-                "notes": f"tick{TICK}; Actief VZW aanbestedende 5 VE; NACE 87.101 RVT; zetel Havenlaan 7 Beringen; site {EMAIL}",
+                "notes": f"tick{TICK}; Actief VZW aanbestedende 5 VE; NACE 87.101; zetel Havenlaan 7 Beringen; {EMAIL}",
             },
             {
                 "source_id": f"src_ocura_site_{TICK}",
-                "title": "Ocura Woonzorgcentra website",
+                "title": "Ocura Woonzorgcentra website (Beringen multi-site)",
                 "url": SITE,
                 "publisher": "Ocura",
                 "accessed_date": "2026-08-25",
                 "source_class": "entity_site",
-                "notes": f"tick{TICK}; multi-site Limburg WZC netwerk; HQ Havenlaan 7 Beringen; {EMAIL}",
+                "notes": f"tick{TICK}; campuses Beringen/Herk-de-Stad/Montenaken/Voeren; HQ {EMAIL}",
             },
         ],
     )
@@ -267,7 +269,7 @@ def main():
                 "basis": "CW YE2025 Profit/Loss",
                 "source_id": "src_ocura_jr2025_cw_en",
                 "confidence": "medium",
-                "notes": f"tick{TICK}; LOSS vs YE2024 {PNL24} ({PNL_YOY})",
+                "notes": f"tick{TICK}; SHALLOWER LOSS vs YE2024 {PNL24} ({PNL_YOY})",
             },
             {
                 "budget_id": "bud_ocura_equity_jr2025_statutory",
@@ -313,10 +315,10 @@ def main():
         [
             {
                 "commitment_id": COMM,
-                "title": "Ocura Beringen YE2025 leftover dual (omzet JUMP 25.97m / pnl LOSS narrow)",
+                "title": "Ocura Beringen YE2025 leftover dual (omzet JUMP 25.97m / pnl SHALLOWER LOSS)",
                 "entity_id": ENTITY,
-                "beneficiary": "Limburg elderly-care clients (Ocura multi-site WZC netwerk, 5 VE)",
-                "legal_basis": f"VZW care netwerk / publiek gesubsidieerde zorg / aanbestedende overheid (KBO {KBO})",
+                "beneficiary": "Limburg elderly residents (Ocura multi-site: Beringen/Herk-de-Stad/Montenaken/Voeren, 5 VE)",
+                "legal_basis": f"VZW WZC netwerk / publiek gesubsidieerde zorg / aanbestedende overheid (KBO {KBO})",
                 "decision_date": "2026-06-13",
                 "start_year": "2025",
                 "end_year": "2025",
@@ -328,14 +330,14 @@ def main():
                 "remaining_eur": "0",
                 "status": "active",
                 "evaluation_url": CW_EN,
-                "stated_goal": "Multi-site elderly care Limburg (Ocura Woonzorgcentra)",
-                "cut_option": "Publish NBB PDF assets/debt + subsidy vs dagprijs split FOI; explain loss narrow with equity drop -8.47pct",
+                "stated_goal": "Multi-site residential elderly care Limburg (Ocura)",
+                "cut_option": "Publish NBB PDF assets/debt + subsidy vs dagprijs split FOI; explain shallower LOSS with equity DROP",
                 "source_id": "src_ocura_jr2025_cw_en",
                 "confidence": "medium",
                 "hierarchy_path": "Vlaanderen>Limburg>Beringen>Ocura>JR2025_statutory_L5",
                 "notes": (
                     f"tick{TICK}; Medium CW; assets/debt Unknown; preferred AGB Bornem JR2024; "
-                    "FARO/AIESH/REW YE2024; not TE-additive of 348bn; deferred De Lovie"
+                    "FARO/AIESH/REW YE2024; not TE-additive of 348bn"
                 ),
             }
         ],
@@ -346,29 +348,29 @@ def main():
         [
             {
                 "item_id": LB,
-                "name": "Ocura Beringen omzet JUMP 25.97m / pnl LOSS narrow + equity DROP (YE2025)",
+                "name": "Ocura Beringen omzet JUMP 25.97m / pnl SHALLOWER LOSS + equity DROP (YE2025)",
                 "level": "L5",
                 "type": "wzc_vzw_statutory",
                 "hierarchy_path": "Vlaanderen>Limburg>Beringen>Ocura>JR2025",
                 "annual_cost_eur": str(OMZET),
                 "total_cost_eur": str(OMZET),
-                "tco_notes": "CW omzet proxy; assets/debt Unknown pending NBB PDF FOI; ongoing loss with equity erosion",
+                "tco_notes": "CW omzet proxy; assets/debt Unknown pending NBB PDF FOI; multi-year losses improving but equity DROP",
                 "confidence": "medium",
                 "source_id": "src_ocura_jr2025_cw_en",
-                "beneficiaries": "Ocura multi-site WZC clients Limburg (5 VE)",
-                "stated_goal": "Elderly care network Limburg",
+                "beneficiaries": "Multi-site WZC clients Limburg (Ocura 5 VE)",
+                "stated_goal": "Residential elderly care network Limburg",
                 "measured_outcome": (
-                    f"omzet JUMP {OMZET_YOY}; pnl LOSS narrow vs YE2024 {PNL24}; equity DROP {EQUITY_YOY}; "
+                    f"omzet JUMP {OMZET_YOY}; pnl SHALLOWER LOSS vs YE2024 {PNL24}; equity DROP {EQUITY_YOY}; "
                     f"bruto JUMP {BRUTO_YOY}; FTE DROP {FTE} ({FTE_YOY})"
                 ),
                 "absurdity_score": ABSURD,
                 "cost_score": COST,
                 "difficulty": DIFF,
                 "priority_index": PI,
-                "cut_proposal": "Publish NBB PDF assets/debt FOI; map public subsidy vs fees across 5 VE; explain equity -8.47pct while loss narrowed -0.95m→-0.46m",
+                "cut_proposal": "Publish NBB PDF assets/debt FOI; explain pnl SHALLOWER LOSS (EUR-949903→EUR-458394) with equity DROP -8.47pct; map IFIC/Alivia vs dagprijs across 5 VE",
                 "status": "open",
                 "struck_reason": "",
-                "notes": f"tick{TICK}; Medium CW; FOI {GAP}; stall FARO/AIESH/REW YE2024; aanbestedende 5 VE; deferred De Lovie",
+                "notes": f"tick{TICK}; Medium CW; FOI {GAP}; stall FARO/AIESH/REW YE2024; Limburg aanbestedende WZC VZW 5 VE",
             }
         ],
     )
@@ -379,8 +381,8 @@ def main():
             {
                 "entity_id": ENTITY,
                 "name_nl": "VZW Woonzorgcentra Ocura (Beringen)",
-                "name_fr": "ASBL Centres de soins Ocura (Beringen)",
-                "name_en": "Ocura Care Homes VZW (Beringen)",
+                "name_fr": "ASBL Maisons de repos Ocura (Beringen)",
+                "name_en": "Ocura Residential Care Centres VZW (Beringen)",
                 "level": "other",
                 "parent_id": "sec_flanders",
                 "community_language": "nl",
@@ -389,10 +391,10 @@ def main():
                 "foi_postal": ADDR,
                 "notes": (
                     f"tick{TICK} YE2025 Medium CW NL+EN+FR + Strong KBO {KBO} Actief VZW aanbestedende 5 VE; "
-                    f"omzet JUMP {OMZET/1e6:.2f}m pnl LOSS NARROW {PNL/1e6:.2f}m equity DROP {EQUITY/1e6:.2f}m "
+                    f"omzet JUMP {OMZET/1e6:.2f}m pnl SHALLOWER LOSS {PNL/1e6:.2f}m equity DROP {EQUITY/1e6:.2f}m "
                     f"bruto JUMP {BRUTO/1e6:.2f}m FTE DROP {FTE}; assets/debt Unknown; neerlegging {FILED}; "
                     f"FOI {GAP}; preferred AGB Bornem JR2024; FARO/AIESH/REW YE2024; "
-                    "multi-site Limburg WZC Havenlaan 7 Beringen; NACE 87.101"
+                    "campuses Beringen/Herk-de-Stad/Montenaken/Voeren; Havenlaan 7; NACE 87.101"
                 ),
             }
         ],
@@ -403,16 +405,16 @@ def main():
         [
             {
                 "gap_id": GAP,
-                "hierarchy_path": "Vlaanderen>Limburg>Beringen>Ocura>NBB_PDF_assets_debt_pnl_loss",
+                "hierarchy_path": "Vlaanderen>Limburg>Beringen>Ocura>NBB_PDF_assets_debt_pnl_shallower_loss_equity_drop",
                 "entity_id": ENTITY,
                 "what_is_missing": (
                     "NBB PDF jaarrekening 2025 full (assets/debt LT-ST/cash); public subsidy vs dagprijs split across 5 VE; "
-                    f"explanation of pnl LOSS narrow {PNL} vs YE2024 {PNL24} with equity DROP {EQUITY_YOY} / "
-                    f"omzet JUMP {OMZET_YOY} / FTE DROP {FTE24}→{FTE} ({FTE_YOY})"
+                    "explanation of pnl SHALLOWER LOSS from EUR-949903 (YE2024) to EUR-458394 (YE2025) with "
+                    f"equity DROP {EQUITY_YOY} and near-flat omzet JUMP {OMZET_YOY}"
                 ),
                 "why_it_matters": (
-                    "Medium CW shows 25.97m omzet aanbestedende multi-site WZC VZW with ongoing loss and equity erosion "
-                    "without balanstotaal/assets/debt; material L5 residual for FOI"
+                    "Medium CW shows 25.97m omzet aanbestedende-overheid multi-site WZC VZW with multi-year losses "
+                    "(improving) and equity DROP without balanstotaal/assets/debt; material L5 residual for FOI"
                 ),
                 "priority": "8",
                 "recipient_body": "VZW Woonzorgcentra Ocura",
@@ -436,7 +438,7 @@ def main():
 
     FOI.mkdir(parents=True, exist_ok=True)
     (FOI / f"{GAP}.md").write_text(
-        f"""# FOI draft — Ocura Beringen (NBB PDF / assets-debt / pnl-loss-narrow / equity-drop)
+        f"""# FOI draft — Ocura Beringen (NBB PDF / assets-debt / pnl-shallower-loss / equity-drop)
 
 **gap_id:** `{GAP}`  
 **status:** ready (NOT sent)  
@@ -447,10 +449,10 @@ def main():
 **confidence:** Medium (CW NL+EN+FR; assets/debt Unknown)
 
 ## Context
-- YE **2025** (neerlegging **{FILED}**): omzet **EUR{OMZET}** JUMP {OMZET_YOY}; pnl **LOSS EUR{PNL}** narrow vs YE2024 LOSS EUR{PNL24}; equity **EUR{EQUITY}** DROP {EQUITY_YOY}; bruto **EUR{BRUTO}** JUMP {BRUTO_YOY}; FTE **{FTE}** DROP {FTE_YOY} vs YE2024 {FTE24}; assets/debt **Unknown**.
-- KBO: Actief VZW aanbestedende overheid; **5 VE**; zetel Havenlaan 7 Beringen; NACE 87.101; site email {EMAIL}.
-- Site: multi-site Limburg WZC netwerk (Ocura).
-- Preferred stall: AGB Bornem JR2024; FARO/AIESH/REW YE2024. Deferred live unused: De Lovie.
+- YE **2025** (neerlegging **{FILED}**): omzet **EUR{OMZET}** JUMP {OMZET_YOY}; pnl **LOSS EUR{PNL}** SHALLOWER vs YE2024 LOSS EUR{PNL24}; equity **EUR{EQUITY}** DROP {EQUITY_YOY}; bruto **EUR{BRUTO}** JUMP {BRUTO_YOY}; FTE **{FTE}** DROP {FTE_YOY} vs YE2024 {FTE24}; assets/debt **Unknown**.
+- KBO: Actief VZW aanbestedende overheid; **5 VE**; zetel Havenlaan 7 Beringen; NACE 87.101; email {EMAIL} (campus director).
+- Site: multi-site Limburg (Beringen / Herk-de-Stad / Montenaken / Voeren).
+- Preferred stall: AGB Bornem JR2024; FARO/AIESH/REW YE2024. Deferred next: De Lovie.
 
 ## Brief
 ```text
@@ -459,11 +461,11 @@ Aan: VZW Woonzorgcentra Ocura — Havenlaan 7, 3582 Beringen
 {EMAIL}
 cc: Departement Zorg indien relevant
 Betreft: Openbaarmaking NBB-jaarrekening 2025 Ocura + subsidiematrix (KBO {KBO})
-Geachte, op grond van het Bestuursdecreet / toepasselijke openbaarheidsregels (publiek gesubsidieerde zorg / aanbestedende overheid) vraag ik:
+Geachte, op grond van het Bestuursdecreet / toepasselijke openbaarheidsregels (publiek gesubsidieerde WZC-activiteit / aanbestedende overheid) vraag ik:
 1. NBB PDF jaarrekening 2025 (neerlegging {FILED}).
 2. Assets / schulden LT-ST / cash / balanstotaal.
-3. Split publieke subsidies (IFIC, Alivia, andere code73/74) vs dagprijzen/supplementen 2025, per VE indien beschikbaar.
-4. Toelichting van het vernauwende verlies van EUR{PNL24} (YE2024) naar EUR{PNL} (YE2025) bij equity-daling {EQUITY_YOY}, omzetstijging {OMZET_YOY} en FTE-daling van {FTE24} naar {FTE} ({FTE_YOY}).
+3. Split publieke subsidies (IFIC, Alivia, Vlaio, andere code73/74) vs dagprijzen/supplementen 2025, per campus/VE indien beschikbaar.
+4. Toelichting van de verliesvermindering van EUR{PNL24} (YE2024) naar EUR{PNL} (YE2025) bij equity-daling {EQUITY_YOY} en vrijwel vlakke omzet ({OMZET_YOY}).
 Periode 01.01.2025–31.12.2025. Ref: {GAP}
 Met vriendelijke groeten, [Naam]
 ```
@@ -477,14 +479,13 @@ Met vriendelijke groeten, [Naam]
 
     log_entry = f"""
 
+## Tick {TICK} - {UTC} - rq_2088 Ocura Beringen (omzet JUMP 25.97m / pnl SHALLOWER LOSS 0.46m / Medium)
 
-## Tick {TICK} - {UTC} - rq_2088 Ocura Beringen (omzet JUMP 25.97m / pnl LOSS narrow 0.46m / Medium)
-
-- Unit: **rq_2088** leftover dual after **rq_2087 Lindelo**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took preferred deferred leftover **VZW Woonzorgcentra Ocura** YE2025 (KBO **{KBO}**; Havenlaan 7 Beringen; Limburg **aanbestedende-overheid VZW** WZC netwerk / **5 VE**). Deferred live unused: De Lovie. Do not redo Lindelo/Medemens/Augustinus Halle/Ben/Stuyvenberg/Wijshage/Mater Dei/Den Akker/Vander Stokken/Ten Anker/De Zwaluw/Kuurne/SJ Brugge/HH Grimbergen/Mater Amabilis/Maria Moorslede/MSW NZVL/Welvaart/Vulpia/Compostela/Leiehome/Deinze/OLV Bornem/Huize SJ Ieper/Sint-Antonius/Wezembeek/Ter Burg/Christine/Vrijzicht/Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/Armonea/Always Home.
-- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR{OMZET}** JUMP {OMZET_YOY}; pnl **LOSS EUR{PNL}** narrow vs YE2024 LOSS EUR{PNL24}; equity **EUR{EQUITY}** DROP {EQUITY_YOY}; bruto **EUR{BRUTO}** JUMP {BRUTO_YOY}; FTE **{FTE}** DROP {FTE_YOY} vs YE2024 {FTE24}; neerlegging **{FILED}**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende 5 VE; email {EMAIL}.
+- Unit: **rq_2088** leftover dual after **rq_2087 Lindelo** (in_progress claim for Ocura/De Lovie). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took preferred deferred leftover **VZW Woonzorgcentra Ocura** YE2025 (KBO **{KBO}**; Havenlaan 7 Beringen; Limburg **aanbestedende-overheid VZW** multi-site WZC / **5 VE**; campuses Beringen/Herk-de-Stad/Montenaken/Voeren). Deferred De Lovie remains live unused. Do not redo Lindelo/Medemens/Augustinus Halle/Ben/Stuyvenberg/Wijshage/Mater Dei/Den Akker/Vander Stokken/Ten Anker/De Zwaluw/Kuurne/SJ Brugge/HH Grimbergen/Mater Amabilis/Maria Moorslede/MSW NZVL/Welvaart/Vulpia/Compostela/Leiehome/Deinze/OLV Bornem/Huize SJ Ieper/Sint-Antonius/Wezembeek/Ter Burg/Christine/Vrijzicht/Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/Armonea/Always Home/Maria Ingelmunster/SJ Rumst/Rillaar/Sint-Barbara/Molenheide/Veilige Have/De Foyer/De Verlosser/Kanunnik/Zusterhof/Arendonk/Solidum.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR{OMZET}** JUMP {OMZET_YOY}; pnl **LOSS EUR{PNL}** SHALLOWER vs YE2024 LOSS EUR{PNL24}; equity **EUR{EQUITY}** DROP {EQUITY_YOY}; bruto **EUR{BRUTO}** JUMP {BRUTO_YOY}; FTE **{FTE}** DROP {FTE_YOY} vs YE2024 {FTE24}; neerlegging **{FILED}**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende 5 VE; email {EMAIL}.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi {PI}); entities (+1 {ENTITY}); foi + draft {GAP}; rq_2088=done + rq_2089 open; loop_state ticks={TICK}; raw under docs/doge/data/raw/tick2088/.
 - FOI: **ready not sent** (human-gated; {EMAIL}).
-- NOT every-10 (**next every-10 is 2090**). Next: rq_2089 (AGB/FARO-if-YE2025 / AIESH-REW / De Lovie deferred / unused DSO-IGS-HVZ-WZC-psych).
+- NOT every-10 (**next every-10 is 2090**). Next: rq_2089 (AGB/FARO-if-YE2025 / AIESH-REW / De-Lovie deferred / unused DSO-IGS-HVZ-WZC-psych).
 """
     with LOG.open("a", encoding="utf-8") as fh:
         fh.write(log_entry)
