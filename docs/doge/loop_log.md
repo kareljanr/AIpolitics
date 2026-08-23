@@ -21941,3 +21941,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_droneport_nbb_pdf_loss_pnl_reconcile_l5; rq_1879=done + rq_1880 open (EVERY-10); loop_state ticks=1879.
 - FOI opened: NBB PDF + PnL reconcile / share % (**ready**, human-send only).
 - NOT every-10 (**next tick 1880 is EVERY-10**). Next: rq_1880 progress refresh + Agropolis/BioVille/Corda if live.
+
+## Tick 1880 - 2026-08-26T11:15:00Z - EVERY-10 + rq_1880 Agropolis Service (bruto 56k / LOSS 0.20m / Medium)
+
+- Unit: **rq_1880** EVERY-10 after Droneport. Refreshed **progress_every_10_ticks.md** (tick 1880 snapshot) + **doge_waste_top10_current.md** (top10 stable GIP/fossil/cars/cheque/reporté). Prefer NON-Eneco live hole-fill: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2024 only. Took leftover **Agropolis Service NV** (KBO **0643.780.684**; Kinrooi; board **LRM Beheer**; LRM agri-tech incubator sibling of Droneport/CMineCrib/IncubaThor/Greenville).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0643780684/agropolis-service) (neerlegging **29.05.2026**; YE **31.12.2025**): bruto **EUR56,154**; PnL **LOSS EUR-196,122**; equity **EUR526,820** DROP; omzet **70 empty**; assets **Unknown**. Pappers cash **~10.1k** thin / findebt **~1.42m**.
+- Wrote: progress+waste markdown; sources (+4); budgets (+3); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_agropolis_nbb_pdf_omzet_empty_loss_0_20m_l5; rq_1880=done + rq_1881 open; loop_state ticks=1880.
+- FOI opened: NBB PDF + omzet-empty / continuity (**ready**, human-send only).
+- **EVERY-10 DONE.** Next every-10 is **1890**. Next: rq_1881 (AGB/Dijk92-if-200 / FARO-if-YE2025 / BioVille/Corda if live).

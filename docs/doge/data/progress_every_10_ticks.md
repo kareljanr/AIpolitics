@@ -20,6 +20,39 @@
 
 ---
 
+## Snapshot at **tick 1880** (2026-08-26)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1871-1880 LRM incubator + bedrijfencentrum continuum after 1870 Bosgroep IJzer FOI |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1871-1880 is residual dual L5 (not near-complete of 348bn):** **iCUBES** LOSS bruto **-0.13m** · **Werkpand** bruto **0.66m** / LOSS **75k** · **BC Tienen** bruto **0.19m** · **Hangar K** bruto **0.41m** / equity thin **30k** · **BC Mechelen** bruto **0.23m** · **Greenville** omzet **0.82m** / equity **7.27m** · **IncubaThor** omzet **1.16m** / equity **6.10m** · **C-Mine Crib** LOSS **60k** / equity thin **0.16m** · **Droneport** omzet **1.25m** / LOSS **0.61m** / equity **21.45m** · **Agropolis Service** bruto **56k** / LOSS **0.20m** / equity DROP **0.53m** |
+| **E. FOI-ready gaps** | **~1493** drafts ready | Human send only; answered **~11**; partial **~28**; total FOI rows **~1545** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable shells** (**NEW 1871-1880** iCUBES/Werkpand/BC Tienen/Hangar K/BC Mechelen POM ladder · **LRM incubator stack Greenville/IncubaThor/C-Mine Crib/Droneport/Agropolis** · prior Digipolis/BCVA–De Punt/TRY Dendermonde/Bosgroep FOI retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings; Medium aggregators pending NBB PDF.**
+
+### Inventory (tick 1880)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 51345+ |
+| commitments.csv | 5541+ |
+| leaderboard.csv | 7662+ |
+| entities.csv | 1592+ |
+| sources.csv | 4452+ |
+| FOI ready | 1493 |
+| FOI answered | 11 |
+| FOI partial | 28 |
+| FOI total rows | 1545 |
+| research_queue open | rq_1881 after progress |
+
+### What improved since tick 1870
+
+- **Residual dual (tick1871-1880):** **iCUBES** · **Werkpand** · **BC Tienen** · **Hangar K** · **BC Mechelen** · **Greenville** · **IncubaThor** · **C-Mine Crib** · **Droneport** · **Agropolis Service** (this tick).
+- **Blocked still:** AGB Bornem JR2024-only · Dijk92 YE2025 CDN **403** · FARO NBB YE2025 unpublished · Bosgroep IJzer/Houtland/Limburg YE2025 unpublished · Westhoek JR euros PDF missing · prior Eneco deposit FOI stack.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified; corrupt AGB pi≥12 / OWV snowball stock / Metro3 stock filtered off pure annual). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1890**.
+
 ## Snapshot at **tick 1870** (2026-08-26)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

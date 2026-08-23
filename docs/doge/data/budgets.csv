@@ -51344,3 +51344,6 @@ bud_droneport_omzet_1_25m_jr2025,nv_droneport,2025,1247137,,,CW NBB-derived 70 o
 bud_droneport_bruto_0_19m_jr2025,nv_droneport,2025,188651,,,CW NBB-derived 9900 brutomarge YE31122025,src_droneport_jr2025_cw,medium,tick1879; not TE-additive
 bud_droneport_pnl_neg_0_61m_jr2025,nv_droneport,2025,-608184,,,CW NBB-derived 9904 winst boekjaar LOSS,src_droneport_jr2025_cw,medium,tick1879; LOSS improving vs prior -0.80m; Pappers ~-479k FOI reconcile; not TE-additive
 bud_droneport_equity_21_45m_jr2025,nv_droneport,2025,21451146,,,CW NBB-derived 10/15 eigen vermogen,src_droneport_jr2025_cw,medium,tick1879; UP vs prior 20.06m; not TE-additive
+bud_agropolis_bruto_0_056m_jr2025,nv_agropolis,2025,56154,,,CW NBB-derived 9900 brutomarge YE31122025,src_agropolis_jr2025_cw,medium,tick1880; omzet 70 empty; not TE-additive
+bud_agropolis_pnl_neg_0_20m_jr2025,nv_agropolis,2025,-196122,,,CW NBB-derived 9904 winst boekjaar LOSS,src_agropolis_jr2025_cw,medium,tick1880; LOSS flat vs prior -195k; not TE-additive
+bud_agropolis_equity_0_53m_jr2025,nv_agropolis,2025,526820,,,CW NBB-derived 10/15 eigen vermogen,src_agropolis_jr2025_cw,medium,tick1880; DROP vs prior 0.76m; not TE-additive
