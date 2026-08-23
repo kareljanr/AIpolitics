@@ -50767,3 +50767,19 @@ bud_zofier_lt_loans_2025,nv_zofier,2025,20957723,,,realized,src_zofier_jr2025_nb
 bud_zofier_st_other_2025,nv_zofier,2025,1091775,,,realized,src_zofier_jr2025_nbb,strong,Overige schulden ST 1091775; tick1796
 bud_zofier_trade_st_2025,nv_zofier,2025,216190,,,realized,src_zofier_jr2025_nbb,strong,Handelsschulden ST 216190 DROP from 4703412; tick1796
 bud_zofier_prov_2025,nv_zofier,2025,91783,,,realized,src_zofier_jr2025_nbb,strong,Voorzieningen 91783 JUMP; tick1796
+bud_w4f_assets_2025,nv_w4f,2025,53903666,,,realized,src_w4f_jr2025_nbb,strong,Assets YE2025 53903666; tick1797
+bud_w4f_equity_after_2025,nv_w4f,2025,46628514,,,realized,src_w4f_jr2025_nbb,strong,Equity na winstverdeling 46628514; tick1797
+bud_w4f_equity_pre_2025,nv_w4f,2025,49903871,,,realized,src_w4f_jr2025_nbb,strong,Equity voor winstverdeling 49903871 (jaarverslag); tick1797
+bud_w4f_debt_2025,nv_w4f,2025,7275152,,,realized,src_w4f_jr2025_nbb,strong,Debt 7275152 DROP; tick1797
+bud_w4f_fva_2025,nv_w4f,2025,48380710,,,realized,src_w4f_jr2025_nbb,strong,FVA deelnemingen Projects1-4/Alfa/Beta 48380710 flat; tick1797
+bud_w4f_cash_2025,nv_w4f,2025,2178774,,,realized,src_w4f_jr2025_nbb,strong,Cash 2178774 JUMP from 520543; tick1797
+bud_w4f_st_recv_2025,nv_w4f,2025,2906101,,,realized,src_w4f_jr2025_nbb,strong,Overige vorderingen ST 2906101 DROP from 12573528; tick1797
+bud_w4f_diensten_2025,nv_w4f,2025,61516,,,realized,src_w4f_jr2025_nbb,strong,Diensten diverse goederen 61516; tick1797
+bud_w4f_expl_2025,nv_w4f,2025,-62515,,,realized,src_w4f_jr2025_nbb,strong,Bedrijfsverlies -62515; tick1797
+bud_w4f_fin_opbr_2025,nv_w4f,2025,1967952,,,realized,src_w4f_jr2025_nbb,strong,Financiele opbrengsten 1967952 (dividenden filialen 1727520); tick1797
+bud_w4f_fin_kosten_2025,nv_w4f,2025,206449,,,realized,src_w4f_jr2025_nbb,strong,Financiele kosten 206449; tick1797
+bud_w4f_pnl_2025,nv_w4f,2025,1698988,,,realized,src_w4f_jr2025_nbb,strong,PnL 1698988 tax 0; tick1797
+bud_w4f_dividend_2025,nv_w4f,2025,3275357,,,realized,src_w4f_jr2025_nbb,strong,Uit te keren dividend 3275357; tick1797
+bud_w4f_lt_loans_2025,nv_w4f,2025,3420637,,,realized,src_w4f_jr2025_nbb,strong,Overige leningen LT 3420637 (vennoten); tick1797
+bud_w4f_st_other_2025,nv_w4f,2025,3275357,,,realized,src_w4f_jr2025_nbb,strong,Overige schulden ST 3275357 (=dividend payable); tick1797
+bud_w4f_commissaris_2025,nv_w4f,2025,7554,,,realized,src_w4f_jr2025_nbb,strong,Bezoldiging commissaris Deloitte 7554; tick1797

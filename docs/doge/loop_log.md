@@ -21259,3 +21259,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_zofier; budgets (+15); commitments; leaderboard; foi_queue ready; research_queue rq_1796=done + rq_1797 spawned; loop_state ticks=1796; FOI draft gap_zofier_omzet_2_48m_loss_0_78m_lt_loans_20_96m_l5.md
 - FOI opened: gap_zofier_omzet_2_48m_loss_0_78m_lt_loans_20_96m_l5 (**ready**, not sent)
 - Next: rq_1797 — leftover AGB/NSZ-if-200/Bosgroep/W4F-if-200/IGS; every-10 at **1800**
+
+### 2026-08-25T01:55:00Z — tick 1797
+- Unit: rq_1797 — **Wind4Flanders NV / W4F** (leftover Zefier dual renewable holding / ~117 municipalities)
+- Found: Preferred AGB Bornem still JR2024; NSZ/Dijk92/APEFE prior CDN **403**. Took leftover **Wind4Flanders** NBB VOL-kap YE2025 deposit [2026-00127411](http://cdn.staatsbladmonitor.be/2026pdf/2026-00127411.pdf) CDN 200 (680 KB / 36p); KBO **0628.836.449**; AV **19.05.2026**; Deloitte / Jo Van Baelen — **getrouw beeld**; Zefier **27.09pct**. Sourced: assets **EUR53,903,666**; equity after-distrib **EUR46,628,514** (pre **EUR49,903,871**); debt **EUR7,275,152**; FVA **EUR48,380,710** (Projects1-4/Alfa/Beta); cash **EUR2,178,774** JUMP; ST other recv **EUR2,906,101** DROP from **EUR12,573,528**; fin opbr **EUR1,967,952** (filial div **EUR1,727,520**); PnL **EUR1,698,988** tax **0**; dividend **EUR3,275,357**; LT loans **EUR3,420,637**; VTE **0**; commissaris **EUR7,554**. Portfineco **2026-00119667** + EGPF **2026-00206406** CDN live deferred.
+- Wrote: sources (+3); entities nv_w4f; budgets (+16); commitments; leaderboard; foi_queue ready; research_queue rq_1797=done + rq_1798 spawned; loop_state ticks=1797; FOI draft gap_w4f_fva_48_38m_dividend_3_28m_recv_drop_12_57m_l5.md
+- FOI opened: gap_w4f_fva_48_38m_dividend_3_28m_recv_drop_12_57m_l5 (**ready**, not sent)
+- Next: rq_1798 — Portfineco/EGPF-if-200 / AGB / NSZ-if-200; every-10 at **1800**
