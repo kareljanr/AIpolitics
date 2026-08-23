@@ -22517,3 +22517,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+4); commitments (updated pending→Medium euros); leaderboard (updated weak FOI→Medium active); entities (updated igs_dijk92); foi gap+draft updated; rq_1945=done + rq_1946 open; loop_state ticks=1945.
 - FOI updated: NBB PDF + omzet/assets/debt + gemeentelijke bijdragen (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1950**). Next: rq_1946 (AGB/APB-if-live / FARO-if-YE2025 / AIESH-energy-IGS).
+
+
+## Tick 1946 - 2026-08-27T20:15:00Z - rq_1946 Bel V (omzet JUMP 17.53m / pnl JUMP 2.35m / Strong)
+
+- Unit: **rq_1946** leftover dual after Dijk92 (1945 concurrent). Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**. Took leftover **Bel V** (KBO **0892.419.202**; Walcourtstraat 148 Anderlecht; FANC subsidiary nuclear **TSO** private stichting; NON-Eneco). Do not redo Dijk92/AIEG/Synatom/Synergrid/Atrias/RESA.
+- Primary: official [Bel V Annual Report 2025 PDF](https://www.belv.be/wp-content/uploads/2026/07/Bel-V_jaarverslag_2025_EN.pdf) (EUR ×1,000 tables). **Strong** euros: omzet **EUR17,528,000** (**JUMP +8.73%**); wages **EUR12,673,000**; PnL **EUR2,353,000** (**JUMP**); equity **EUR19,316,000**; assets **EUR22,004,000**; debt **EUR2,688,000**; FTE **Unknown**.
+- Wrote: sources (+2); budgets (+6); commitments (+1); leaderboard (+1); entities (updated bel_v); foi + draft gap_belv_nbb_pdf_fte_fanc_fee_lto_billing_l5; rq_1946=done + rq_1947 open; loop_state ticks=1946.
+- FOI opened: NBB PDF + FTE + FANC fee/LTO billing (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1950**). Next: rq_1947 (AGB/FARO-if-YE2025 / AIESH-if-YE2025 / otherHVZ-IGS).
