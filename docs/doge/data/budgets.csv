@@ -50942,3 +50942,13 @@ bud_stormretie_nrec_0_54m_2025,nv_storm_retie,2025,543283,,,NBB VKT-kap YE2025,s
 bud_stormretie_expl_loss_0_40m_2025,nv_storm_retie,2025,399303,,,NBB VKT-kap YE2025,src_stormretie_jr2025_nbb,strong,tick1819; bedrijfsverlies 9901 abs; not TE-additive of 348bn
 bud_stormretie_cash_4_05m_2025,nv_storm_retie,2025,4046066,,,NBB VKT-kap YE2025,src_stormretie_jr2025_nbb,strong,tick1819; liquide middelen JUMP; was 85742; not TE-additive of 348bn
 bud_stormretie_secured_12_11m_2025,nv_storm_retie,2025,12113085,,,NBB VKT-kap YE2025,src_stormretie_jr2025_nbb,strong,tick1819; zakelijk gewaarborgd 9062; not TE-additive of 348bn
+bud_stormzoersel_assets_7_75m_2025,nv_storm_zoersel,2025,7749463,,,NBB VKT-kap YE2025,src_stormzoersel_jr2025_nbb,strong,tick1820; assets YE2025; not TE-additive of 348bn
+bud_stormzoersel_mva_6_03m_2025,nv_storm_zoersel,2025,6031846,,,NBB VKT-kap YE2025,src_stormzoersel_jr2025_nbb,strong,tick1820; MVA YE2025; not TE-additive of 348bn
+bud_stormzoersel_bruto_0_30m_2025,nv_storm_zoersel,2025,298918,,,NBB VKT-kap YE2025,src_stormzoersel_jr2025_nbb,strong,tick1820; bruto 9900; was 596722; not TE-additive of 348bn
+bud_stormzoersel_pnl_loss_0_39m_2025,nv_storm_zoersel,2025,385702,,,NBB VKT-kap YE2025,src_stormzoersel_jr2025_nbb,strong,tick1820; PnL loss 9904 abs; not TE-additive of 348bn
+bud_stormzoersel_debt_4_31m_2025,nv_storm_zoersel,2025,4310537,,,NBB VKT-kap YE2025,src_stormzoersel_jr2025_nbb,strong,tick1820; schulden 17/49; not TE-additive of 348bn
+bud_stormzoersel_lt_bank_3_69m_2025,nv_storm_zoersel,2025,3693729,,,NBB VKT-kap YE2025,src_stormzoersel_jr2025_nbb,strong,tick1820; LT kredietinstellingen 172/3; not TE-additive of 348bn
+bud_stormzoersel_expl_loss_0_33m_2025,nv_storm_zoersel,2025,325503,,,NBB VKT-kap YE2025,src_stormzoersel_jr2025_nbb,strong,tick1820; bedrijfsverlies 9901 abs; not TE-additive of 348bn
+bud_stormzoersel_cash_1_54m_2025,nv_storm_zoersel,2025,1541833,,,NBB VKT-kap YE2025,src_stormzoersel_jr2025_nbb,strong,tick1820; liquide middelen JUMP; was 29967; not TE-additive of 348bn
+bud_stormzoersel_equity_3_44m_2025,nv_storm_zoersel,2025,3438927,,,NBB VKT-kap YE2025,src_stormzoersel_jr2025_nbb,strong,tick1820; equity 10/15; not TE-additive of 348bn
+bud_stormzoersel_secured_4_01m_2025,nv_storm_zoersel,2025,4008463,,,NBB VKT-kap YE2025,src_stormzoersel_jr2025_nbb,strong,tick1820; zakelijk gewaarborgd 9062; not TE-additive of 348bn

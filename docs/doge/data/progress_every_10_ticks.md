@@ -20,6 +20,39 @@
 
 ---
 
+## Snapshot at **tick 1820** (2026-08-25)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1811-1820 leftover IKA Storm*/Pampero/LumIKA continuum after 1810 Zefier/HVZ batch |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1811-1820 is residual dual L5 (not near-complete of 348bn):** **IKA** FVA **98.04m** · **LumIKA** omzet **1.01m** / loss **0.38m** · **Storm Olen** bruto **0.29m** / debt **12.10m** · **Pampero** omzet DROP **2.93m** / debt **16.24m** · **Storm Geel** bruto DROP **0.50m** / dividend-on-loss **0.48m** · **Storm Meer** debt **5.93m** · **Storm Minderhout** dividend **0.75m** vs PnL **0.07m** · **Storm Westerlo** bruto DROP **0.28m** / loss **0.09m** · **Storm Retie** loss **0.51m** / debt **13.24m** / nrec **0.54m** · **Storm Zoersel** bruto DROP **0.30m** / loss **0.39m** / debt **4.31m** |
+| **E. FOI-ready gaps** | **~1437** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1486** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable shells** (**NEW IKA Storm* continuum** Retie debt **EUR13.24m** · Pampero debt **EUR16.24m** · Olen debt **EUR12.10m** · Meer debt **EUR5.93m** · Zoersel debt **EUR4.31m** · Minderhout dividend-on-thin-profit · Geel dividend-on-loss · prior **Zefier/W4F/EGPF** / **VIVALTO LEASE** RIVAGE gage **EUR135.6m** retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1820)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 50953 |
+| commitments.csv | 5416 |
+| leaderboard.csv | 7593 |
+| entities.csv | 1538 |
+| sources.csv | 4274 |
+| FOI ready | 1437 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1486 |
+| research_queue open | rq_116 deferred + rq_1821 hole-fill after progress |
+
+### What improved since tick 1810
+
+- **IKA parent + Storm*/Pampero/LumIKA continuum (tick1811-1820):** **IKA DV** FVA **98.04m** · **LumIKA** · **Storm Olen** · **Pampero Wind** · **Storm Geel** · **Storm Meer** · **Storm Minderhout** · **Storm Westerlo** · **Storm Retie** · **Storm Zoersel** — all live NBB YE2025 (or YE Mar2025 Pampero).
+- **Blocked still:** AGB Bornem JR2024-only · Dijk92 CDN **403** / YE2025 unpublished · APEFE YE2025 CDN **403** · NSZ CDN **403** · FARO NBB YE2025 still unpublished · HVZ Waasland JR euros still unpublished · ABS/BVAS/POV no NBB · VBWest JR2025 still verdaged.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1830**.
+
 ## Snapshot at **tick 1810** (2026-08-25)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

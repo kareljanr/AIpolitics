@@ -21440,3 +21440,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities nv_storm_retie; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1819=done + rq_1820 spawned; loop_state ticks=1819; FOI draft gap_stormretie_loss_0_51m_debt_13_24m_nrec_0_54m_l5.md
 - FOI opened: gap_stormretie_loss_0_51m_debt_13_24m_nrec_0_54m_l5 (**ready**, human-send only)
 - NOT every-10 (next **1820** MUST refresh progress + waste top10). Next: rq_1820 (every-10 + Storm Zoersel-if-200 / AGB / Dijk92 / FARO / IGS).
+
+## Tick 1820 - 2026-08-25T09:45:00Z - rq_1820 EVERY-10 + Storm Zoersel NV (bruto DROP 0.30m / loss 0.39m)
+
+- Unit: **rq_1820** EVERY-10 progress refresh + leftover dual residual; took deferred live **Storm Zoersel NV** (IKA–Storm Zoersel/Zandhoven; KBO **0667.720.086**). Preferred AGB Bornem still JR2024; Dijk92/NSZ/APEFE CDN often **403**; FARO NBB YE2025 unpublished.
+- Primary (strong, NBB VKT-kap [2026-00120585](http://cdn.staatsbladmonitor.be/2026pdf/2026-00120585.pdf) CDN 200 / 24p; AV **30.04.2026**; YE **01.01.2025–31.12.2025**): assets **EUR7,749,463**; MVA **EUR6,031,846**; bruto **EUR298,918** (was **596,722**); expl LOSS **EUR325,503**; PnL LOSS **EUR385,702** (deepening from **128,736**); debt **EUR4,310,537** (LT bank **3,693,729** + other **258,000**; secured **4,008,463**); cash JUMP **EUR1,541,833**; beleg DROP **0**; equity **EUR3,438,927**; carried loss **EUR108,740**; omzet **70 empty**; VTE **unpublished**. Bestuurders: IKA / Storm Holding 3 / Storm Management. IKA FVA book **EUR686,323** (20%).
+- EVERY-10: refreshed progress_every_10_ticks.md (tick 1820 snapshot) + doge_waste_top10_current.md (pure top10 stable GIP/fossil/cars/cheque/reporté; IKA Storm* continuum off-top10).
+- Wrote: entities nv_storm_zoersel; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1820=done + rq_1821 spawned; loop_state ticks=1820; FOI draft gap_stormzoersel_bruto_0_30m_loss_0_39m_debt_4_31m_l5.md
+- FOI opened: gap_stormzoersel_bruto_0_30m_loss_0_39m_debt_4_31m_l5 (**ready**, human-send only)
+- Next every-10 **1830**. Next: rq_1821 (AGB / Dijk92 / FARO / APEFE / other IGS).
