@@ -22133,3 +22133,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_wep_nbb_pdf_assets_share_capital_jump_l5; rq_1901=done + rq_1902 open; loop_state ticks=1901.
 - FOI opened: NBB PDF + assets/share % / capital JUMP (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1910**). Next: rq_1902 (AGB/Dijk92-if-200 / FARO-if-YE2025 / HyoffGreen/C-Power Holdco).
+
+
+## Tick 1902 - 2026-08-26T22:15:00Z - rq_1902 HyoffGreen (equity 18.3m / pnl 14k / Medium)
+
+- Unit: **rq_1902** leftover dual after WEP. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **HyoffGreen NV** (KBO **1010.583.315**; Herkenrodesingel 14 Hasselt **Nuhma seat**; green-H2 holding founded **20.06.2024**; bestuurders **Nuhma cv + Z-Kracht + 0448.632.324**).
+- Primary hunt: NBB CDN deposit unresolved; Upswitch empty this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/1010583315/hyoffgreen) + KBO (neerlegging **12.06.2026**; YE **31.12.2025**): omzet **empty**; bruto **NEG EUR-10,298**; PnL **EUR13,836**; equity **EUR18,330,502**; FTE **0**; assets **Unknown**; kapitaal **EUR18,500,000**.
+- Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_hyoff_nbb_pdf_assets_share_h2_l5; rq_1902=done + rq_1903 open; loop_state ticks=1902.
+- FOI opened: NBB PDF + assets/share % / H2 CAPEX-subsidy (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1910**). Next: rq_1903 (AGB/Dijk92-if-200 / FARO-if-YE2025 / C-Power Holdco).

@@ -51463,3 +51463,7 @@ bud_wep_bruto_jr2025,nv_wep,2025,-5095,,,CW NBB-derived 9900 NEG,src_wep_jr2025_
 bud_wep_pnl_jr2025,nv_wep,2025,-11697,,,CW NBB-derived 9904 LOSS,src_wep_jr2025_cw,medium,tick1901; YE2025 LOSS -11697 improved vs -24981
 bud_wep_equity_jr2025,nv_wep,2025,16174373,,,CW NBB-derived 10/15,src_wep_jr2025_cw,medium,tick1901; YE2025 equity 16174373 JUMP +22.61pct
 bud_wep_fte_jr2025,nv_wep,2025,0,,,CW NBB-derived FTE,src_wep_jr2025_cw,medium,tick1901; YE2025 FTE 0 holding shell
+bud_hyoff_bruto_jr2025,nv_hyoff,2025,-10298,,,CW NBB-derived 9900 NEG,src_hyoff_jr2025_cw,medium,tick1902; YE2025 bruto NEG -10298
+bud_hyoff_pnl_jr2025,nv_hyoff,2025,13836,,,CW NBB-derived 9904,src_hyoff_jr2025_cw,medium,tick1902; YE2025 pnl 13836 first full YE
+bud_hyoff_equity_jr2025,nv_hyoff,2025,18330502,,,CW NBB-derived 10/15,src_hyoff_jr2025_cw,medium,tick1902; YE2025 equity 18330502
+bud_hyoff_fte_jr2025,nv_hyoff,2025,0,,,CW NBB-derived FTE,src_hyoff_jr2025_cw,medium,tick1902; YE2025 FTE 0 holding shell

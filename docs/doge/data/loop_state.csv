@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T21:45:00Z,rq_1901,1901,no,tick1901 leftover WEP 0451.603.690 Medium CW (equity 16.2m JUMP +23pct LOSS 12k bruto NEG omzet empty FTE 0 assets Unknown); NBB PDF+share%+capital JUMP FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1902; next every-10 1910; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T22:15:00Z,rq_1902,1902,no,tick1902 leftover HyoffGreen 1010.583.315 Medium CW (equity 18.3m pnl 14k bruto NEG omzet empty FTE 0 assets Unknown); NBB PDF+share%+H2 CAPEX FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1903; next every-10 1910; continuous hole_fill
