@@ -23978,3 +23978,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+4, no invented pnl); commitments (+1); leaderboard (+1 pi 4.5); entities (+1 sc_comnexio); foi + draft gap_comnexio_nbb_pdf_assets_debt_pnl_equity_flat_matrix_l5; rq_2103=done + rq_2104 open; loop_state ticks=2103; raw docs/doge/data/raw/tick2103/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 2110**). Next: rq_2104 (AGB/FARO-if-YE2025 / AIESH-REW / Korian-if-unused / unused).
+
+
+
+## Tick 2104 - 2026-08-25T06:40:00Z - rq_2104 Korian Belgium (omzet JUMP 36.66m / pnl DROP 3.41m / Medium)
+
+- Unit: **rq_2104** leftover dual after **rq_2103 Comnexio** (concurrent race took Comnexio on 2103; this agent remapped preferred deferred **Korian Belgium**). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Korian Belgium** YE2025 (KBO **0869.769.702**; Satenrozen 1B Kontich; Antwerpen **NV** holding/ROB NACE **87.301 + RSZ 64.210** / **1 VE**; HQ of SLG path). Do not redo Comnexio/ORES SC/SLG Vlaanderen/SLG Operaties/Always Home/AREWAL/Familiezorg Gent/emeis/Begralim/Armonea/Colisée/AGB Bornem.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR36661929** JUMP +4.37%; bruto **EUR23130494** DROP -24.45%; pnl **PROFIT EUR3410765** DROP -49.77% vs YE2024 PROFIT EUR6790713; equity **EUR194558071** JUMP +1.78%; FTE **47.4** (YoY Unknown); neerlegging **15.08.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief NV 1 VE; email info@korian.be. Omzet used as primary envelope (holding dual vs SLG ops daughters 115.87m + 58.28m).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.9); entities (+1 nv_korian_belgium); foi + draft gap_korian_belgium_nbb_pdf_assets_debt_pnl_drop_holding_dual_matrix_l5; rq_2104=done + rq_2105 open; loop_state ticks=2104; raw under docs/doge/data/raw/tick2103/ (gather) + close_as_tick2104.
+- FOI: **ready not sent** (human-gated; info@korian.be).
+- NOT every-10 (**last every-10 was 2100**; next **2110**). Next: rq_2105 (AGB/FARO-if-YE2025 / AIESH-REW / unused WZC).

@@ -52579,3 +52579,8 @@ bud_comnexio_omzet_jr2025_statutory,sc_comnexio,2025,9932761,9932761,9932761,CW 
 bud_comnexio_equity_jr2025_statutory,sc_comnexio,2025,25000,25000,25000,CW Equity / Eigen vermogen YE2025,src_comnexio_jr2025_cw_en,medium,tick2103; equity FLAT 25000 (0%) vs YE2024 25000; thin capital shell
 bud_comnexio_bruto_jr2025_statutory,sc_comnexio,2025,7151535,7151535,7151535,CW Gross margin / Brutomarge YE2025,src_comnexio_jr2025_cw_en,medium,tick2103; bruto DROP 7151535 (-1.88%) vs YE2024 7288487
 bud_comnexio_fte_jr2025_statutory,sc_comnexio,2025,147.9,147.9,147.9,CW social-balance FTE / Employees,src_comnexio_jr2025_cw_en,medium,tick2103; FTE JUMP 147.9 vs YE2024 147.6
+bud_korian_belgium_omzet_jr2025_statutory,nv_korian_belgium,2025,36661929,36661929,36661929,CW YE2025 omzet / Turnover (primary envelope holding/ROB NV),src_korian_belgium_jr2025_cw_en,medium,tick2104; JUMP +4.37% vs YE2024 35127187; dual SLG ops daughters
+bud_korian_belgium_bruto_jr2025_statutory,nv_korian_belgium,2025,23130494,23130494,23130494,CW YE2025 Brutomarge / Gross margin,src_korian_belgium_jr2025_cw_en,medium,tick2104; DROP -24.45% vs YE2024 30615545
+bud_korian_belgium_pnl_jr2025_statutory,nv_korian_belgium,2025,3410765,3410765,3410765,CW YE2025 Profit/Loss,src_korian_belgium_jr2025_cw_en,medium,tick2104; DROP -49.77% vs YE2024 PROFIT 6790713
+bud_korian_belgium_equity_jr2025_statutory,nv_korian_belgium,2025,194558071,194558071,194558071,CW YE2025 Eigen vermogen / Equity,src_korian_belgium_jr2025_cw_en,medium,tick2104; JUMP +1.78% vs YE2024 191147306
+bud_korian_belgium_fte_jr2025_statutory,nv_korian_belgium,2025,47.4,47.4,47.4,CW social-balance FTE / Employees,src_korian_belgium_jr2025_cw_en,medium,tick2104; FTE 47.4; YoY Unknown on CW; thin vs SLG ops FTE
