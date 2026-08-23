@@ -51719,3 +51719,7 @@ bud_aieg_equity_jr2025,igs_aieg,2025,49558129,,,CW NBB-derived equity,src_aieg_j
 bud_aieg_bruto_jr2025,igs_aieg,2025,8962491,,,CW NBB-derived bruto,src_aieg_jr2025_cw,medium,tick1944; YE2025 bruto 8962491 JUMP +9.49pct
 bud_aieg_kapitaal_jr2025,igs_aieg,2025,10722918,,,KBO kapitaal,src_aieg_kbo,strong,tick1944; KBO kapitaal 10722918
 bud_aieg_fte_jr2025,igs_aieg,2025,46,,,CW NBB-derived FTE 45.8,src_aieg_jr2025_cw,medium,tick1944; YE2025 FTE 45.8 (stored 46)
+bud_dijk92_bruto_jr2025,igs_dijk92,2025,633379,,,CW NBB-derived brutomarge,src_dijk92_jr2025_cw,medium,tick1945; YE2025 bruto 633379 JUMP +29.39pct vs 489501
+bud_dijk92_pnl_jr2025,igs_dijk92,2025,-5895,,,CW NBB-derived 9904,src_dijk92_jr2025_cw,medium,tick1945; YE2025 pnl NEG -5895 IMPROVED +82.49pct vs -33657
+bud_dijk92_equity_jr2025,igs_dijk92,2025,340407,,,CW NBB-derived 10/15,src_dijk92_jr2025_cw,medium,tick1945; YE2025 equity 340407 DROP -1.7pct vs 346301
+bud_dijk92_fte_jr2025,igs_dijk92,2025,8,,,CW NBB-derived FTE 8.1,src_dijk92_jr2025_cw,medium,tick1945; YE2025 FTE 8.1 (stored 8); was 7.5 YE2024

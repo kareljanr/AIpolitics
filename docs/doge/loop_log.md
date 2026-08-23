@@ -22508,3 +22508,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_aieg_nbb_pdf_assets_debt_rab_muni_share_l5; rq_1944=done + rq_1945 open; loop_state ticks=1944.
 - FOI opened: NBB PDF + RAB/municipal share (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1950**). Next: rq_1945 (AGB/Dijk92-if-200 / FARO-if-YE2025 / AIESH-if-YE2025 / otherHVZ-IGS).
+
+
+## Tick 1945 - 2026-08-27T19:45:00Z - rq_1945 Dijk92 (bruto JUMP 0.63m / pnl LOSS 5.9k IMPROVED / Medium)
+
+- Unit: **rq_1945** leftover dual after concurrent **rq_1944 AIEG** (already on main). Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; **Dijk92** NBB consult **HTTP 200** (SPA shell; SBM CDN still **403**) — took preferred leftover **Projectvereniging DIJK 92** (KBO **0806.383.071**; Nijverheidsstraat 3 Dendermonde; IOED cultuur/erfgoed/archief; 9 gemeenten; aanbestedende overheid). Do not redo AIEG/Synatom/Synergrid/Atrias/RESA/Sibelga/ORES/Fluxys*/ETB/Elia/Enodia/BNO/Pipelink.
+- Primary hunt: NBB deposit PDF body still unresolved (consult SPA / SBM 403). **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0806383071/projectvereniging-dijk-92) + EN twin + KBO (Laatste balansjaar **2025**): bruto **EUR633,379** (**JUMP +29.39%**); PnL **NEG EUR-5,895** (**IMPROVED +82.49%** vs -33,657); equity **EUR340,407** (**DROP -1.7%**); FTE **8.1**; omzet / assets **Unknown**.
+- Wrote: sources (+3); budgets (+4); commitments (updated pending→Medium euros); leaderboard (updated weak FOI→Medium active); entities (updated igs_dijk92); foi gap+draft updated; rq_1945=done + rq_1946 open; loop_state ticks=1945.
+- FOI updated: NBB PDF + omzet/assets/debt + gemeentelijke bijdragen (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1950**). Next: rq_1946 (AGB/APB-if-live / FARO-if-YE2025 / AIESH-energy-IGS).
