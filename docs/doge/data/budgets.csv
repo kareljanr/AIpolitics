@@ -50962,3 +50962,13 @@ bud_campina_lt_bank_4_43m_2025,cv_campina_energie,2025,4429775,,,NBB MIC-inb YE2
 bud_campina_pers_0_37m_2025,cv_campina_energie,2025,366600,,,NBB MIC-inb YE2025,src_campina_jr2025_nbb,strong,tick1821; bezoldigingen 62; not TE-additive of 348bn
 bud_campina_dividend_0_23m_2025,cv_campina_energie,2025,232179,,,NBB MIC-inb YE2025,src_campina_jr2025_nbb,strong,tick1821; uit te keren winst 694; not TE-additive of 348bn
 bud_campina_cash_0_66m_2025,cv_campina_energie,2025,657086,,,NBB MIC-inb YE2025,src_campina_jr2025_nbb,strong,tick1821; liquide middelen JUMP; was 312115; not TE-additive of 348bn
+bud_energent_assets_8_23m_2025,cv_energent,2025,8227612,,,NBB VKT-inb YE2025,src_energent_jr2025_nbb,strong,tick1822; assets YE2025; not TE-additive of 348bn
+bud_energent_mva_5_16m_2025,cv_energent,2025,5155485,,,NBB VKT-inb YE2025,src_energent_jr2025_nbb,strong,tick1822; MVA YE2025; not TE-additive of 348bn
+bud_energent_bruto_1_41m_2025,cv_energent,2025,1408255,,,NBB VKT-inb YE2025,src_energent_jr2025_nbb,strong,tick1822; bruto 9900; not TE-additive of 348bn
+bud_energent_pers_0_89m_2025,cv_energent,2025,886415,,,NBB VKT-inb YE2025,src_energent_jr2025_nbb,strong,tick1822; bezoldigingen 62; VTE 11.6; not TE-additive of 348bn
+bud_energent_pnl_0_14m_2025,cv_energent,2025,142495,,,NBB VKT-inb YE2025,src_energent_jr2025_nbb,strong,tick1822; PnL 9904; not TE-additive of 348bn
+bud_energent_debt_2_43m_2025,cv_energent,2025,2433623,,,NBB VKT-inb YE2025,src_energent_jr2025_nbb,strong,tick1822; schulden 17/49; not TE-additive of 348bn
+bud_energent_vooruit_1_11m_2025,cv_energent,2025,1109392,,,NBB VKT-inb YE2025,src_energent_jr2025_nbb,strong,tick1822; vooruitbetalingen 46; not TE-additive of 348bn
+bud_energent_accrued_0_83m_2025,cv_energent,2025,831048,,,NBB VKT-inb YE2025,src_energent_jr2025_nbb,strong,tick1822; overlopende rekeningen JUMP; was 418767; not TE-additive of 348bn
+bud_energent_dividend_0_12m_2025,cv_energent,2025,116304,,,NBB VKT-inb YE2025,src_energent_jr2025_nbb,strong,tick1822; uit te keren winst 694; not TE-additive of 348bn
+bud_energent_cash_0_84m_2025,cv_energent,2025,843445,,,NBB VKT-inb YE2025,src_energent_jr2025_nbb,strong,tick1822; liquide middelen DROP; was 1051011; not TE-additive of 348bn

@@ -21457,3 +21457,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities cv_campina_energie; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1821=done + rq_1822 spawned; loop_state ticks=1821; FOI draft gap_campina_fva_5_03m_pnl_0_41m_omzet_empty_l5.md
 - FOI opened: gap_campina_fva_5_03m_pnl_0_41m_omzet_empty_l5 (**ready**, human-send only)
 - NOT every-10 (next **1830**). Next: rq_1822 (AGB / Dijk92 / FARO YE2025 / APEFE / other IGS).
+
+## Tick 1822 - 2026-08-25T10:35:00Z - rq_1822 Energent CV (bruto 1.41m / pers 0.89m / vooruit 1.11m)
+
+- Unit: **rq_1822** leftover dual residual after Campina; preferred AGB Bornem still JR2024; Dijk92/APEFE CDN **403**; FARO YE2024 only; AGB Holar already mined (tick1130). Took leftover **Energent CV** (Gent citizen renewable co-op; KBO **0542.998.575**). Beauvent CDN **2026-00160510** live deferred.
+- Primary (strong, NBB VKT-inb [2026-00093380](http://cdn.staatsbladmonitor.be/2026pdf/2026-00093380.pdf) CDN 200 / 20p; AV **18.04.2026**; YE **01.01.2025–31.12.2025**): assets **EUR8,227,612**; MVA **EUR5,155,485** (buildings **4,763,268**); FVA **EUR561,860**; bruto **EUR1,408,255**; pers **EUR886,415**; VTE **11.6**; expl **EUR119,210**; PnL **EUR142,495**; debt **EUR2,433,623** (vooruit **1,109,392**; accrued JUMP **831,048**); cash DROP **EUR843,445**; equity **EUR5,763,989**; dividend **EUR116,304**; kapsubs **EUR202,405**; omzet **70 empty**.
+- Wrote: entities cv_energent; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1822=done + rq_1823 spawned; loop_state ticks=1822; FOI draft gap_energent_bruto_1_41m_pers_0_89m_vooruit_1_11m_l5.md
+- FOI opened: gap_energent_bruto_1_41m_pers_0_89m_vooruit_1_11m_l5 (**ready**, human-send only)
+- NOT every-10 (next **1830**). Next: rq_1823 (Beauvent-if-200 / AGB / Dijk92 / FARO / IGS).
