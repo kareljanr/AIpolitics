@@ -23233,3 +23233,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_evara); foi + draft gap_evara_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2024=done + rq_2025 open; loop_state ticks=2024; raw under docs/doge/data/raw/tick2024/.
 - FOI: **ready not sent** (human-gated; info@evara.be).
 - NOT every-10 (**next every-10 is 2030**). Next: rq_2025 (AGB/FARO-if-YE2025 / AIESH-REW / Sint-Carolus-Zilverbos / unused DSO-IGS-HVZ).
+
+
+## Tick 2025 - 2026-08-24T11:00:00Z - rq_2025 Sint Carolus Mayerhof (omzet DROP 11.46m / pnl DROP 0.14m / Medium)
+
+- Unit: **rq_2025** leftover dual after **rq_2024 Evara**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took preferred unused leftover **Sint Carolus Mayerhof** YE2025 (KBO **0407.040.308**; Fredericusstraat 89 Mortsel; Antwerpen **WZC VZW**). Zilverbos YE2025 also live — deferred. Do not redo Evara/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara Herselt/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR11,459,875** DROP -0.68%; pnl **EUR144,440** DROP -84.49%; equity **EUR16,112,179** JUMP +0.90%; bruto **EUR11,780,532** DROP -0.33%; FTE **135.2** JUMP (vs 116.2); neerlegging **25.04.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@mayerhof.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_sint_carolus_mayerhof); foi + draft gap_sint_carolus_mayerhof_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2025=done + rq_2026 open; loop_state ticks=2025; raw under docs/doge/data/raw/tick2025/.
+- FOI: **ready not sent** (human-gated; info@mayerhof.be).
+- NOT every-10 (**next every-10 is 2030**). Next: rq_2026 (AGB/FARO-if-YE2025 / AIESH-REW / Zilverbos / unused DSO-IGS-HVZ).

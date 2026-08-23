@@ -52180,3 +52180,8 @@ bud_evara_pnl_jr2025_statutory,vzw_evara,2025,32701878,,,CW YE2025 Profit/Loss,s
 bud_evara_equity_jr2025_statutory,vzw_evara,2025,750376596,,,CW YE2025 Eigen vermogen,src_evara_jr2025_cw,medium,tick2024; equity JUMP 750376596 +4.00pct vs YE2024 721541356
 bud_evara_bruto_jr2025_statutory,vzw_evara,2025,714422920,,,CW YE2025 Brutomarge,src_evara_jr2025_cw,medium,tick2024; bruto JUMP 714422920 +5.75pct vs YE2024 675557826
 bud_evara_fte_jr2025_statutory,vzw_evara,2025,7600.9,,,CW social-balance FTE,src_evara_jr2025_cw,medium,tick2024; YE2025 FTE 7600.9
+bud_sint_carolus_mayerhof_omzet_jr2025_statutory,vzw_sint_carolus_mayerhof,2025,11459875,,,CW YE2025 omzet / Turnover,src_sint_carolus_mayerhof_jr2025_cw,medium,tick2025; omzet DROP 11459875 -0.68pct vs YE2024 11538135
+bud_sint_carolus_mayerhof_pnl_jr2025_statutory,vzw_sint_carolus_mayerhof,2025,144440,,,CW YE2025 Profit/Loss,src_sint_carolus_mayerhof_jr2025_cw,medium,tick2025; pnl DROP 144440 -84.49pct vs YE2024 931433
+bud_sint_carolus_mayerhof_equity_jr2025_statutory,vzw_sint_carolus_mayerhof,2025,16112179,,,CW YE2025 Eigen vermogen,src_sint_carolus_mayerhof_jr2025_cw,medium,tick2025; equity JUMP 16112179 +0.90pct vs YE2024 15967738
+bud_sint_carolus_mayerhof_bruto_jr2025_statutory,vzw_sint_carolus_mayerhof,2025,11780532,,,CW YE2025 Brutomarge,src_sint_carolus_mayerhof_jr2025_cw,medium,tick2025; bruto DROP 11780532 -0.33pct vs YE2024 11819035
+bud_sint_carolus_mayerhof_fte_jr2025_statutory,vzw_sint_carolus_mayerhof,2025,135.2,,,CW social-balance FTE,src_sint_carolus_mayerhof_jr2025_cw,medium,tick2025; YE2025 FTE JUMP 135.2 vs YE2024 116.2
