@@ -21530,3 +21530,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities cv_zuidtrant; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; progress+waste every-10; research_queue rq_1830=done + rq_1831 spawned; loop_state ticks=1830; FOI draft gap_zuidtrant_fva_0_47m_bruto_0_39m_othdebt_0_54m_l5.md
 - FOI opened: gap_zuidtrant_fva_0_47m_bruto_0_39m_othdebt_0_54m_l5 (**ready**, human-send only)
 - Next every-10 **1840**. Next: rq_1831 (Vlaskracht-if-200 / AGB / Dijk92 / FARO / IGS).
+
+## Tick 1831 - 2026-08-25T13:50:00Z - rq_1831 Vlaskracht CV (FVA JUMP 1.02m / bruto JUMP 0.10m)
+
+- Unit: **rq_1831** leftover dual residual after ZuidtrAnt every-10; took deferred live **Vlaskracht CV** (Kortrijk citizen renewable; KBO **0703.882.181**). Preferred AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2024.
+- Primary (strong, NBB MIC-inb [2026-00141427](http://cdn.staatsbladmonitor.be/2026pdf/2026-00141427.pdf) CDN 200 / 18p; AV **09.05.2026**): assets **EUR1,968,228**; MVA **EUR748,914**; FVA JUMP **EUR1,016,947** (aanschaffingen **360,000**; EnDev-R NV **12.5%** / book **100,000** listed); bruto JUMP **EUR100,513** (nrec **24,890**); pers **empty**; expl flip **EUR53,933**; fin opbr **EUR31,715**; PnL **EUR72,068**; dividend **EUR41,534**; equity **EUR1,517,922**; inbreng JUMP **EUR1,467,500**; debt **EUR450,306** (LT bank **346,670**; pand handelsfonds max **573,300**); cash JUMP **EUR110,264**; beleg DROP **0**; omzet **70 empty**.
+- Wrote: entities cv_vlaskracht; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1831=done + rq_1832 spawned; loop_state ticks=1831; FOI draft gap_vlaskracht_fva_1_02m_bruto_0_10m_dividend_0_04m_l5.md
+- FOI opened: gap_vlaskracht_fva_1_02m_bruto_0_10m_dividend_0_04m_l5 (**ready**, human-send only)
+- NOT every-10 (next **1840**). Next: rq_1832 (AGB / Dijk92 / FARO / EnDev-R / IGS).
