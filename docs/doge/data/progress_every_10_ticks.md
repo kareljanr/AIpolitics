@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 1810** (2026-08-25)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1801-1809 leftover Zefier projectcos + HVZ/IOED: **Storm Geraardsbergen** · **SPS FIN** · **Storm Wielsbeke/Zandvliet/Terranova FOI** · **Scwitch** · **ZVBW FOI** · **Brandweer Zone Rand** B2025 · **Dijk92 FOI** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1801-1809 is residual dual L5 (not near-complete of 348bn):** **StormG** bruto **0.46m** / loss **0.33m** / debt **3.42m** · **SPS FIN** omzet **1.58m** / dividend **0.40m** / LT loans **1.92m** · **Scwitch** bruto **0.18m** / pers **0.15m** · **BZR** B2025 GD **25.32m** / pers **17.29m** / gem dots **18.04m** · Zefier-primary stakes for SWI/SZA/TNS FOI · Dijk92 YE2025 FOI |
+| **E. FOI-ready gaps** | **~1427** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1476** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable shells** (**NEW StormG** debt **EUR3.42m** · **SPS FIN** omzet **EUR1.58m** / Infrabel+Zefier · **BZR** B2025 GD **EUR25.32m** · prior **Zefier cv** dividend **EUR1.73m** / guaranteed **EUR17.82m** · **W4F/EGPF/Zo-Fier/PortFineco** retained · undivided **RIVAGE gage EUR135.6m** · **Vivalto** continuum retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1810)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 50853 |
+| commitments.csv | 5386 |
+| leaderboard.csv | 7583 |
+| entities.csv | 1528 |
+| sources.csv | 4244 |
+| FOI ready | 1427 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1476 |
+| research_queue open | rq_116 deferred + rq_1811 hole-fill after progress |
+
+### What improved since tick 1800
+
+- **Zefier projectco continuum (tick1801-1805):** **Storm Geraardsbergen** live NBB (bruto DROP / loss+dividend) · **SPS FIN** live NBB (Peerdsbos; Infrabel+Zefier) · **Storm Wielsbeke / Storm Zandvliet / Terranova Solar** NBB YE2025 FOI stalls (Zefier-primary stakes/loans only; no invented projectco euros).
+- **HVZ / IGS / NGO dual (tick1806-1809):** **Scwitch VZW** MIC live (samenaankoop) · **ZVBW** FOI (no public JR euros) · **Brandweer Zone Rand** B2025 GD **25.32m** / pers **17.29m** / gem **18.04m** (JR2025 FOI) · **Dijk92** preferred IOED FOI (SBM still YE2024; CDN 403).
+- **Blocked still:** AGB Bornem JR2024-only · Dijk92 CDN **403** / YE2025 unpublished · APEFE YE2025 CDN **403** / RA2023 only · NSZ CDN **403** · FARO NBB YE2025 still unpublished (JV2025 mined) · HVZ Waasland JR euros still unpublished · ABS/BVAS/POV no NBB · VBWest JR2025 still verdaged.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1820**.
+
 ## Snapshot at **tick 1800** (2026-08-25)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-25T06:10:00Z,rq_1809,1809,no,tick1809 leftover Dijk92 FOI stall YE2025; KBO 0806.383.071; SBM last YE2024; AGB Bornem JR2024; NSZ/APEFE 403; FARO YE2024 only; HVZ Waasland still no JR euros; NOT every-10 (next 1810 MUST); next rq_1810 EVERY-10 then residual dual; continuous hole_fill
+main,continuous,hole_fill,2026-08-25T06:25:00Z,rq_1810,1810,no,tick1810 EVERY-10 progress % + waste top10; inventory budgets 50853 commitments 5386 lb 7583 entities 1528 sources 4244 FOI ready 1427; top10 unchanged GIP/fossil/cars; since 1800 StormG/SPSFIN/Scwitch/BZR + FOI StormW/Z/TNS/ZVBW/Dijk92; next rq_1811 residual dual; every-10 1820; continuous hole_fill

@@ -21358,3 +21358,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities igs_dijk92; sources (+3); commitments; leaderboard weak FOI stub; foi_queue ready; research_queue rq_1809=blocked_foi + rq_1810 EVERY-10 spawned; loop_state ticks=1809; FOI draft gap_dijk92_nbb_ye2025_deposit_l5.md
 - FOI opened: gap_dijk92_nbb_ye2025_deposit_l5 (**ready**, human-send only)
 - NOT every-10 (next **1810** MUST). Next: rq_1810 progress % + waste top10 then residual dual.
+
+## Tick 1810 - 2026-08-25T06:25:00Z - rq_1810 EVERY-10 progress coverage % + waste top10
+
+- Unit: **rq_1810** — **EVERY-10** progress layers A–E + waste top10 refresh (after Dijk92 FOI stall).
+- Found / refreshed: Layers A–B still **100%** of TE EUR347.956bn; C ~99% OoM; D still ~74–88% generous (**not** near-complete of 348bn). Inventory: budgets **50853** · commitments **5386** · leaderboard **7583** · entities **1528** · sources **4244** · FOI ready **1427** / answered **9** / partial **27** / total **1476**.
+- Since 1800: **Storm Geraardsbergen** · **SPS FIN** · StormW/StormZ/Terranova FOI · **Scwitch** · **ZVBW** FOI · **Brandweer Zone Rand** B2025 GD **25.32m** · **Dijk92** FOI (preferred IOED path).
+- Waste top10: **unchanged** GIP 8.7 · fossil direct 8.55 · fossil accises 8.5 · company cars 8.5 · heatoil 8.43 · cheque/CO2/OAA/BCR/dual cars 8.4 (stocks Metro3/OWV filtered off). Re-verified from leaderboard.
+- Wrote: progress_every_10_ticks.md; doge_waste_top10_current.md; research_queue rq_1810=done + rq_1811 spawned; loop_state ticks=1810
+- FOI: none new this tick (progress only)
+- Next: rq_1811 — leftover AGB/NSZ-if-200/Dijk92-if-200/FARO/APEFE/HVZ/IGS; every-10 at **1820**
