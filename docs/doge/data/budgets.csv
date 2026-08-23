@@ -51950,3 +51950,7 @@ bud_sofilux_pnl_jr2025_statutory,igs_sofilux,2025,7975457,,,CW YE2025 Profit/Los
 bud_sofilux_equity_jr2025_statutory,igs_sofilux,2025,203979654,,,CW YE2025 Eigen vermogen,src_sofilux_jr2025_cw,medium,tick1978; equity JUMP 203979654 +2.71pct vs YE2024 198594282
 bud_sofilux_bruto_jr2025_statutory,igs_sofilux,2025,-1187243,,,CW YE2025 Brutomarge NEG,src_sofilux_jr2025_cw,medium,tick1978; bruto NEG -1187243 (worse -91.65pct vs YE2024 -619475)
 bud_sofilux_fte_jr2025_statutory,igs_sofilux,2025,0.6,,,CW social-balance FTE,src_sofilux_jr2025_cw,medium,tick1978; YE2025 FTE 0.6 holding shell
+bud_ifiga_pnl_jr2025_statutory,igs_ifiga,2025,604960,,,CW YE2025 Profit/Loss,src_ifiga_jr2025_cw,medium,tick1979; pnl JUMP 604960 +26.78pct vs YE2024 477188
+bud_ifiga_equity_jr2025_statutory,igs_ifiga,2025,10086790,,,CW YE2025 Eigen vermogen,src_ifiga_jr2025_cw,medium,tick1979; equity JUMP 10086790 +3.12pct vs YE2024 9781830
+bud_ifiga_bruto_jr2025_statutory,igs_ifiga,2025,-82556,,,CW YE2025 Brutomarge NEG,src_ifiga_jr2025_cw,medium,tick1979; bruto NEG -82556 improved +24.24pct vs YE2024 -108964 still NEG
+bud_ifiga_fte_jr2025_statutory,igs_ifiga,2025,1,,,CW social-balance FTE,src_ifiga_jr2025_cw,medium,tick1979; YE2025 FTE 1 IPF shell

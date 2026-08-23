@@ -22821,3 +22821,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1980**). Next: rq_1979 (AGB/FARO-if-YE2025 / AIESH-REW / IFIGA / unused DSO-IGS-HVZ).
 
+## Tick 1979 - 2026-08-23T22:00:00Z - rq_1979 IFIGA (pnl JUMP 0.605m / equity JUMP 10.09m / Medium)
+
+- Unit: **rq_1979** leftover dual after **rq_1978 SOFILUX**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024**. Took unused leftover **IFIGA** YE2025 (KBO **0257.838.371**; Place Sainte-Anne 21 Comines-Warneton; Picardie Wallonne **ORES Assets IPF**). Do not redo SOFILUX/IDEFIN/FINIMO/FINEST/HYGEA/BEP Environnement/LOGIPOLE/BEP NAMUR/IBH/BEP Crematorium/BEP Expansion/IEG/CENEO/CISCH/HELORA/ORES Assets/SOCOFE/IPFBW/IGRETEC/Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL.
+- Found: Companyweb NL+EN YE2025 - pnl **EUR604,960** JUMP +26.78%; equity **EUR10,086,790** JUMP +3.12%; bruto **NEG EUR-82,556** (improved vs -108,964); FTE **1**; neerlegging **09.07.2026**. Omzet/assets/debt Unknown. Medium confidence. Strong KBO Actief CV; no KBO email/web.
+- Wrote: sources (+3); budgets (+4); commitments (+1); leaderboard (+1); entities (+1 igs_ifiga); foi + draft gap_ifiga_nbb_pdf_assets_debt_ores_dividend_matrix_l5; rq_1979=done + rq_1980 open (EVERY-10); loop_state ticks=1979.
+- FOI: **ready not sent** (human-gated; no KBO email — route via commune if needed).
+- NOT every-10 (**next every-10 is 1980**). Next: rq_1980 (EVERY-10 progress + AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
+

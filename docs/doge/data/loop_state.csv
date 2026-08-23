@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-23T21:45:00Z,rq_1978,1978,no,tick1978 leftover SOFILUX 0257.857.969 Medium CW (omzet JUMP 91.4k pnl DROP 7.98m equity JUMP 203.98m bruto NEG 1.19m FTE 0.6; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_1979; next every-10 1980; continuous hole_fill
+main,continuous,hole_fill,2026-08-23T22:00:00Z,rq_1979,1979,no,tick1979 leftover IFIGA 0257.838.371 Medium CW (pnl JUMP 0.605m equity JUMP 10.09m bruto NEG 82.6k FTE 1; omzet/assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_1980 EVERY-10; continuous hole_fill
