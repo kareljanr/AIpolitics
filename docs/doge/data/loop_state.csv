@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T04:55:00Z,rq_2003,2003,no,tick2003 leftover Emmaüs 0411.515.075 Medium CW (omzet JUMP 624.17m pnl JUMP 15.45m equity JUMP 572.37m bruto JUMP 557.83m FTE 6326.6; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; OLV Aalst deferred AZORG double-count; next rq_2004; next every-10 2010; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T05:10:00Z,rq_2004,2004,no,tick2004 leftover Vitaz 0881.291.322 Medium CW (omzet JUMP 474.71m pnl JUMP 12.86m equity JUMP 181.91m bruto JUMP 201.58m FTE 2227.4; assets/debt Unknown); AGB Bornem JR2024; FARO YE2024; AZ Monica CW N/A; next rq_2005; next every-10 2010; continuous hole_fill

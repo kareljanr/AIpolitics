@@ -52075,3 +52075,8 @@ bud_emmaus_pnl_jr2025_statutory,vzw_emmaus,2025,15447573,,,CW YE2025 Profit/Loss
 bud_emmaus_equity_jr2025_statutory,vzw_emmaus,2025,572374043,,,CW YE2025 Eigen vermogen,src_emmaus_jr2025_cw,medium,tick2003; equity JUMP 572374043 +2.60pct vs YE2024 557842351
 bud_emmaus_bruto_jr2025_statutory,vzw_emmaus,2025,557830841,,,CW YE2025 Brutomarge,src_emmaus_jr2025_cw,medium,tick2003; bruto JUMP 557830841 +4.87pct vs YE2024 531908547
 bud_emmaus_fte_jr2025_statutory,vzw_emmaus,2025,6326.6,,,CW social-balance FTE,src_emmaus_jr2025_cw,medium,tick2003; YE2025 FTE 6326.6
+bud_vitaz_omzet_jr2025_statutory,vzw_vitaz,2025,474708586,,,CW YE2025 omzet / Turnover,src_vitaz_jr2025_cw,medium,tick2004; omzet JUMP 474708586 +4.33pct vs YE2024 455024743
+bud_vitaz_pnl_jr2025_statutory,vzw_vitaz,2025,12864965,,,CW YE2025 Profit/Loss,src_vitaz_jr2025_cw,medium,tick2004; pnl JUMP 12864965 +14.61pct vs YE2024 11224932
+bud_vitaz_equity_jr2025_statutory,vzw_vitaz,2025,181913017,,,CW YE2025 Eigen vermogen,src_vitaz_jr2025_cw,medium,tick2004; equity JUMP 181913017 +6.88pct vs YE2024 170205055
+bud_vitaz_bruto_jr2025_statutory,vzw_vitaz,2025,201584911,,,CW YE2025 Brutomarge,src_vitaz_jr2025_cw,medium,tick2004; bruto JUMP 201584911 +4.18pct vs YE2024 193489556
+bud_vitaz_fte_jr2025_statutory,vzw_vitaz,2025,2227.4,,,CW social-balance FTE,src_vitaz_jr2025_cw,medium,tick2004; YE2025 FTE 2227.4

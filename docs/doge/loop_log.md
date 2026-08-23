@@ -23035,3 +23035,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_emmaus); foi + draft gap_emmaus_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2003=done + rq_2004 open; loop_state ticks=2003; raw under docs/doge/data/raw/tick2003/.
 - FOI: **ready not sent** (human-gated; coordinatie@emmaus.be).
 - NOT every-10 (**next every-10 is 2010**). Next: rq_2004 (AGB/FARO-if-YE2025 / AIESH-REW / AZ Monica / unused DSO-IGS-HVZ-hospital).
+
+
+## Tick 2004 - 2026-08-24T05:10:00Z - rq_2004 Vitaz (omzet JUMP 474.71m / pnl JUMP 12.86m / Medium)
+
+- Unit: **rq_2004** leftover dual after **rq_2003 Emmaüs**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**. AZ Monica filed **04.08.2026** but CW **N/A omzet**. Took unused leftover **Vitaz** YE2025 (KBO **0881.291.322**; Moerlandstraat 1 Sint-Niklaas; Oost-Vlaanderen **hospital VZW**). Do not redo Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS/CHR Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR474,708,586** JUMP +4.33%; pnl **EUR12,864,965** JUMP +14.61%; equity **EUR181,913,017** JUMP +6.88%; bruto **EUR201,584,911** JUMP +4.18%; FTE **2227.4**; neerlegging **24.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 9 VE; email info@vitaz.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_vitaz); foi + draft gap_vitaz_nbb_pdf_assets_debt_matrix_l5; rq_2004=done + rq_2005 open; loop_state ticks=2004; raw under docs/doge/data/raw/tick2004/.
+- FOI: **ready not sent** (human-gated; info@vitaz.be).
+- NOT every-10 (**next every-10 is 2010**). Next: rq_2005 (AGB/FARO-if-YE2025 / AIESH-REW / AZ Imelda / unused DSO-IGS-HVZ).
