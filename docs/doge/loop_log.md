@@ -21865,3 +21865,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities (+1); commitments pending_foi; leaderboard FOI marker; foi_queue + draft gap_bosgroep_ijzer_nbb_ye2025_unpublished_l5; rq_1870=blocked_foi + rq_1871 open; loop_state ticks=1870; progress+waste markdown.
 - FOI opened: **gap_bosgroep_ijzer_nbb_ye2025_unpublished_l5** (ready, human-send only).
 - Next: **rq_1871** leftover AGB/Dijk92-if-200 / FARO-if-YE2025 / Westhoek-if-PDF / other HVZ-IGS. **Next every-10 is 1880.**
+
+## Tick 1871 - 2026-08-26T06:45:00Z - rq_1871 iCUBES NV (bruto NEG 0.13m / PnL LOSS 0.15m / Medium)
+
+- Unit: **rq_1871** leftover dual after Bosgroep IJzer FOI every-10. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2024 only / YE2025 unpublished; Westhoek JR approved May2026 but **no euros PDF**. Took leftover **iCUBES NV** (KBO **0887.884.253**; Technologiepark-Zwijnaarde; board **imec + PMV + POM**; aanbestedende overheid).
+- Primary hunt: NBB CDN deposit unresolved (SBM blacklist). **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0887884253/icubes) (neerlegging **24.07.2026**; YE **31.12.2025**): bruto **EUR-133,582**; PnL **EUR-152,655** LOSS; equity **EUR385,085**; kapitaal **EUR922,000**; VTE **0**; omzet **70 empty**. Assets/debt **Unknown** (not invented). Board via [Pappers](https://www.pappers.be/nl/company/icubes-0887884253): imec+PMV+POM.
+- Wrote: sources (+3); budgets; commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_icubes_nbb_pdf_omzet_empty_loss_0_15m_l5; rq_1871=done + rq_1872 open; loop_state ticks=1871.
+- FOI opened: NBB PDF + omzet-empty / share % / subsidies / continuity (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1880**). Next: rq_1872 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Westhoek-if-PDF / other HVZ-IGS).
+

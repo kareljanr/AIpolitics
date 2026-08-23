@@ -51302,3 +51302,7 @@ bud_trydd_pnl_neg_0_18m_jr2025,nv_trydd,2025,-179243,,,CW/Pappers NBB-derived wi
 bud_trydd_equity_2_61m_jr2025,nv_trydd,2025,2612161,,,CW/Pappers NBB-derived 10/15 eigen vermogen,src_trydd_jr2025_cw_pappers,medium,tick1869; DROP vs prior 2.79m; not TE-additive
 bud_trydd_cash_0_49m_jr2025,nv_trydd,2025,489073,,,Pappers NBB-derived cash JUMP,src_trydd_jr2025_cw_pappers,medium,tick1869; JUMP vs prior ~57k; not TE-additive
 bud_trydd_capital_2_37m_jr2025,nv_trydd,2025,2373000,,,KBO/Pappers maatschappelijk kapitaal,src_kbo_trydd_0438558081,strong,tick1869; statutory capital; not TE-additive
+bud_icubes_bruto_neg_0_13m_jr2025,nv_icubes,2025,-133582,,,CW NBB-derived 9900 brutomarge YE31122025,src_icubes_jr2025_cw,medium,tick1871; NEGATIVE bruto; omzet 70 empty; not TE-additive
+bud_icubes_pnl_neg_0_15m_jr2025,nv_icubes,2025,-152655,,,CW NBB-derived winst boekjaar LOSS,src_icubes_jr2025_cw,medium,tick1871; LOSS deepening vs prior -48k; not TE-additive
+bud_icubes_equity_0_39m_jr2025,nv_icubes,2025,385085,,,CW NBB-derived 10/15 eigen vermogen,src_icubes_jr2025_cw,medium,tick1871; DROP vs prior 538k; not TE-additive
+bud_icubes_capital_0_92m_jr2025,nv_icubes,2025,922000,,,KBO maatschappelijk kapitaal,src_kbo_icubes_0887884253,strong,tick1871; statutory capital; not TE-additive
