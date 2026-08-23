@@ -24097,3 +24097,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.7); entities (+1 nv_residence_les_charmilles_sambreville); foi + draft gap_charmilles_sambreville_nbb_pdf_assets_debt_pnl_drop_near_zero_matrix_l5; rq_2116=done + rq_2117 open; loop_state ticks=2116; raw docs/doge/data/raw/tick2116/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2110**; next **2120**). Next: rq_2117 (AGB/FARO-if-YE2025 / AIESH-REW / La Charmille / unused IGS-DSO-WZC-MRS).
+
+
+## Tick 2117 - 2026-08-25T09:40:00Z - rq_2117 La Charmille Pont-à-Celles (omzet FLAT 4.20m / pnl LOSS −0.19m / equity FLIP / Medium)
+
+- Unit: **rq_2117** leftover dual after **rq_2116 Residence Les Charmilles Sambreville**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took preferred deferred unused **La Charmille Pont-à-Celles / Thiméon** YE2025 (KBO **0416.116.637**; Rue des Vignobles 2; **ASBL** NACE **87.301** / **1 VE**; Jolimont Pôle Senior AViQ-path). Do not redo Charmilles Sambreville/Sittelles/Buissons/Résidence 3/Elisabeth Aan Zee/XXe Août/Ninove/Zilverlinde/Sint-Camillus/IDELUX*/INTRADEL/ORES SC.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR4199544** FLAT +0.44%; bruto **EUR4627753** FLAT −0.27%; pnl **EUR-185148** LOSS NARROW vs YE2024 EUR-186552; equity **EUR66812** FLIP from NEG EUR-186015; FTE **67.2** DROP vs 69.7; filed **10.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via lacharmille@jolimont.be / secretariat.general@jolimont.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.7); entities (+1 asbl_la_charmille_pont_a_celles); foi + draft gap_la_charmille_pac_nbb_pdf_assets_debt_pnl_loss_equity_flip_matrix_l5; rq_2117=done + rq_2118 open; loop_state ticks=2117; raw docs/doge/data/raw/tick2117/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (last **2110**; next **2120**). Next: rq_2118 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
