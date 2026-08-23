@@ -5,7 +5,7 @@
 **entity:** De Medemens VZW — KBO **0428.692.191**  
 **recipient:** communicatie@demedemens.be · Lokkaardstraat 10, 2018 Antwerpen  
 **sources:** [CW NL](https://www.companyweb.be/nl/0428692191/de-medemens) · [CW EN](https://www.companyweb.be/en/0428692191/de-medemens) · [CW FR](https://www.companyweb.be/fr/0428692191/de-medemens) · [KBO](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0428692191) · [site](https://www.demedemens.be/)  
-**tick:** 2085  
+**tick:** 2086  
 **confidence:** Medium (CW NL+EN+FR; assets/debt Unknown)
 
 ## Context

@@ -52486,8 +52486,8 @@ bud_augustinus_halle_pnl_jr2025_statutory,vzw_wzc_sint_augustinus_halle,2025,740
 bud_augustinus_halle_equity_jr2025_statutory,vzw_wzc_sint_augustinus_halle,2025,3349221,3349221,3349221,CW YE2025 Eigen vermogen / Equity,src_augustinus_halle_jr2025_cw_en,medium,tick2085; JUMP +18.78% vs YE2024 2819641
 bud_augustinus_halle_bruto_jr2025_statutory,vzw_wzc_sint_augustinus_halle,2025,8376737,8376737,8376737,CW YE2025 Brutomarge / Gross margin,src_augustinus_halle_jr2025_cw_en,medium,tick2085; JUMP +2.21% vs YE2024 8195693
 bud_augustinus_halle_fte_jr2025_statutory,vzw_wzc_sint_augustinus_halle,2025,88.9,88.9,88.9,CW social-balance FTE / Employees,src_augustinus_halle_jr2025_cw_en,medium,tick2085; FTE DROP 88.9 (-4.10%) vs YE2024 92.7
-bud_medemens_omzet_jr2025_statutory,vzw_de_medemens_antwerpen,2025,117128722,117128722,117128722,CW YE2025 omzet / Turnover,src_medemens_jr2025_cw_en,medium,tick2085; JUMP +10.61% vs YE2024 105892260
-bud_medemens_pnl_jr2025_statutory,vzw_de_medemens_antwerpen,2025,3746216,3746216,3746216,CW YE2025 Profit/Loss,src_medemens_jr2025_cw_en,medium,tick2085; JUMP vs YE2024 3304311 (JUMP +13.37%)
-bud_medemens_equity_jr2025_statutory,vzw_de_medemens_antwerpen,2025,105051203,105051203,105051203,CW YE2025 Eigen vermogen / Equity,src_medemens_jr2025_cw_en,medium,tick2085; JUMP +10.10% vs YE2024 95413932
-bud_medemens_bruto_jr2025_statutory,vzw_de_medemens_antwerpen,2025,113208879,113208879,113208879,CW YE2025 Brutomarge / Gross margin,src_medemens_jr2025_cw_en,medium,tick2085; JUMP +10.35% vs YE2024 102589620
-bud_medemens_fte_jr2025_statutory,vzw_de_medemens_antwerpen,2025,1362.0,1362.0,1362.0,CW social-balance FTE / Employees,src_medemens_jr2025_cw_en,medium,tick2085; FTE JUMP 1362.0 (+8.23%) vs YE2024 1258.4
+bud_medemens_omzet_jr2025_statutory,vzw_de_medemens_antwerpen,2025,117128722,117128722,117128722,CW YE2025 omzet / Turnover,src_medemens_jr2025_cw_en,medium,tick2086; JUMP +10.61% vs YE2024 105892260
+bud_medemens_pnl_jr2025_statutory,vzw_de_medemens_antwerpen,2025,3746216,3746216,3746216,CW YE2025 Profit/Loss,src_medemens_jr2025_cw_en,medium,tick2086; JUMP vs YE2024 3304311 (JUMP +13.37%)
+bud_medemens_equity_jr2025_statutory,vzw_de_medemens_antwerpen,2025,105051203,105051203,105051203,CW YE2025 Eigen vermogen / Equity,src_medemens_jr2025_cw_en,medium,tick2086; JUMP +10.10% vs YE2024 95413932
+bud_medemens_bruto_jr2025_statutory,vzw_de_medemens_antwerpen,2025,113208879,113208879,113208879,CW YE2025 Brutomarge / Gross margin,src_medemens_jr2025_cw_en,medium,tick2086; JUMP +10.35% vs YE2024 102589620
+bud_medemens_fte_jr2025_statutory,vzw_de_medemens_antwerpen,2025,1362.0,1362.0,1362.0,CW social-balance FTE / Employees,src_medemens_jr2025_cw_en,medium,tick2086; FTE JUMP 1362.0 (+8.23%) vs YE2024 1258.4
