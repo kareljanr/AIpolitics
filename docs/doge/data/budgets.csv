@@ -52599,3 +52599,8 @@ bud_idelux_eau_bruto_jr2025_statutory,idelux_eau,2025,15966385,15966385,15966385
 bud_idelux_eau_pnl_jr2025_statutory,idelux_eau,2025,1721496,1721496,1721496,CW YE2025 Profit/Loss,src_idelux_eau_jr2025_cw_en,medium,tick2106; JUMP +201.26% vs YE2024 PROFIT 571426
 bud_idelux_eau_equity_jr2025_statutory,idelux_eau,2025,50559932,50559932,50559932,CW YE2025 Eigen vermogen / Equity,src_idelux_eau_jr2025_cw_en,medium,tick2106; JUMP +8.43% vs YE2024 46628011
 bud_idelux_eau_fte_jr2025_statutory,idelux_eau,2025,101.2,101.2,101.2,CW social-balance FTE / Employees,src_idelux_eau_jr2025_cw_en,medium,tick2106; FTE 101.2 DROP vs YE2024 102.2
+bud_idelux_dev_omzet_jr2025_statutory,igs_idelux_developpement,2025,19151123,19151123,19151123,CW YE2025 omzet / Turnover (primary envelope econ-dev SC),src_idelux_dev_jr2025_cw_en,medium,tick2107; DROP -29.80% vs YE2024 27281519
+bud_idelux_dev_bruto_jr2025_statutory,igs_idelux_developpement,2025,10797628,10797628,10797628,CW YE2025 Brutomarge / Gross margin,src_idelux_dev_jr2025_cw_en,medium,tick2107; DROP -20.50% vs YE2024 13582098
+bud_idelux_dev_pnl_jr2025_statutory,igs_idelux_developpement,2025,-898763,-898763,-898763,CW YE2025 Profit/Loss,src_idelux_dev_jr2025_cw_en,medium,tick2107; FLIP LOSS vs YE2024 PROFIT 3205547 (-128.04%)
+bud_idelux_dev_equity_jr2025_statutory,igs_idelux_developpement,2025,102328170,102328170,102328170,CW YE2025 Eigen vermogen / Equity,src_idelux_dev_jr2025_cw_en,medium,tick2107; JUMP +1.15% vs YE2024 101166215
+bud_idelux_dev_fte_jr2025_statutory,igs_idelux_developpement,2025,91.1,91.1,91.1,CW social-balance FTE / Employees,src_idelux_dev_jr2025_cw_en,medium,tick2107; FTE 91.1 DROP vs YE2024 118.1

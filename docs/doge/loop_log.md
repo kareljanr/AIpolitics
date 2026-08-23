@@ -24006,3 +24006,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.7); entities (+1 igs_idelux_projets_publics); foi + draft gap_idelux_projets_publics_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2106=done + rq_2107 open; loop_state ticks=2106; raw docs/doge/data/raw/tick2106/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 2110**). Next: rq_2107 (AGB/FARO-if-YE2025 / AIESH-REW / IDELUX Développement / unused).
+
+
+## Tick 2107 - 2026-08-25T07:10:00Z - rq_2107 IDELUX Développement (omzet DROP 19.15m / pnl FLIP LOSS 0.90m / Medium)
+
+- Unit: **rq_2107** leftover dual after **rq_2106 IDELUX Projets Publics**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took preferred deferred **IDELUX Développement** YE2025 (KBO **0205.797.475**; Schoppach Arlon; **SC** econ-dev NACE **71.121/84.130** / **1 VE**; aanbestedende overheid). Do not redo Projets Publics/Eau/Finances/Environnement/INTRADEL/Korian/AGB Bornem.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR19151123** DROP −29.80%; bruto **EUR10797628** DROP −20.50%; pnl **LOSS EUR-898763** FLIP vs YE2024 PROFIT EUR3205547 (−128.04%); equity **EUR102328170** JUMP +1.15%; FTE **91.1** DROP vs YE2024 118.1; neerlegging **19.06.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via officiel.ic-ideluxdeveloppement@idelux.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.0); entities (+1 igs_idelux_developpement); foi + draft gap_idelux_dev_nbb_pdf_assets_debt_pnl_flip_loss_omzet_drop_matrix_l5; rq_2107=done + rq_2108 open; loop_state ticks=2107; raw docs/doge/data/raw/tick2107/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2100**; next **2110**). Next: rq_2108 (AGB/FARO-if-YE2025 / AIESH-REW / unused WZC Camillus/Zilverlinde deferred).
