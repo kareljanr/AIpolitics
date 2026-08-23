@@ -1,0 +1,105 @@
+Financial data <span>from PPC Pittem</span></h2>
+                                </div>
+                                <div>
+                                    <div class="toggle">
+                                        <a href="" :class="{'active': currentKernCijferView == KernCijferView.TABLE}"
+                                           v-on:click.prevent="currentKernCijferView = KernCijferView.TABLE">
+                                            <i class="far fa-table-layout mr-2 mobile:mr-0"></i><span class="mobile:hidden">Table</span>
+                                        </a>
+                                        <a href="" :class="{'active': currentKernCijferView == KernCijferView.CHART}"
+                                           v-on:click.prevent="currentKernCijferView = KernCijferView.CHART">
+                                            <i class="far fa-chart-simple mr-2 mobile:mr-0"></i><span class="mobile:hidden">Graph</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <kerncijfers-chart v-if="currentKernCijferView == KernCijferView.CHART"></kerncijfers-chart>
+                            <div class="tablet:overflow-auto" v-else>
+                                <table class="relative">
+                                    <thead>
+                                    <tr>
+                                        <th class="mobile:sticky mobile:left-0 mobile:bg-grey-100"></th>
+                                        
+                                        
+                                            <th class="text-right">
+                                                    <span>2025</span>
+                                            </th>
+                                                <th class="tablet:hidden"></th>
+                                            <th class="text-right">
+                                                    <span>2024</span>
+                                            </th>
+                                                <th class="tablet:hidden"></th>
+                                            <th class="text-right">
+                                                    <span>2023</span>
+                                            </th>
+                                                <th class="tablet:hidden"></th>
+                                            <th class="text-right">
+                                                    <span>2022</span>
+                                            </th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td class="mobile:sticky mobile:left-0 mobile:bg-white mobile:border-r mobile:border-grey-200">
+                                                <tooltip placement="right" title="Section 9904" text="Profit/Loss of the financial year (after taxes on result) (&#x2B;/-)">
+                                                    Profit/Loss<i class="far fa-info-circle ml-2 text-grey-600 text-xs mobile:hidden"></i>
+                                                </tooltip>
+                                            </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span>2,266,781</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-green">
+                                                                <i class="far mr-1 fa-arrow-up"></i>
+                                                                <span>115,08%</span>
+                                                            </span>
+                                                    </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span>1,053,904</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-red">
+                                                                <i class="far mr-1 fa-arrow-down"></i>
+                                                                <span>-23,79%</span>
+                                                            </span>
+                                                    </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span>1,382,962</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-green">
+                                                                <i class="far mr-1 fa-arrow-up"></i>
+                                                                <span>518,46%</span>
+                                                            </span>
+                                                    </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span>-330,489</span>
+                                                </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="mobile:sticky mobile:left-0 mobile:bg-white mobile:border-r mobile:border-grey-200">
+                                                <tooltip placement="right" title="Section 70" text="Turnover of the financial year">
+                                                    Turnover<i class="far fa-info-circle ml-2 text-grey-600 text-xs mobile:hidden"></i>
+                                                </tooltip>
+                                            </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span>42,447,455</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-lime">
+                                                                <i class="far mr-1 fa-arrow-up-right"></i>
+                                                                <span>9%</span>
+                                                            </span>
+                                                    </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span>38,944,245</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                         

@@ -23197,3 +23197,12 @@ Append-only. Each tick adds a short entry.
 - **C** L2 entities: **~99%** order-of-magnitude
 - **D** L5 end-receivers: **~74-88%** generous; +10 residual dual 2011-2020 (hospitals/WZC/psych) — **not** near-complete of 348bn
 - **E** FOI-ready: **~1637** drafts; answered ~11; partial ~28
+
+
+## Tick 2021 - 2026-08-24T10:05:00Z - rq_2021 WZC Sint-Vincentius Avelgem (omzet JUMP 7.49m / pnl DROP 75k / Medium)
+
+- Unit: **rq_2021** leftover dual after **rq_2020 EVERY-10 + PC Sint-Hiëronymus**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO NBB YE2025 still **unpublished**; AIESH/REW still **YE2024**. St Vincentius Antwerpen still **YE2024-only**. Took unused leftover **WZC Sint-Vincentius Avelgem** YE2025 (KBO **0420.504.403**; Bevrijdingslaan 18 Avelgem; West-Vlaanderen **WZC VZW**). Maria Rustoord Ingelmunster YE2025 also live — deferred. Do not redo PC Sint-Hiëronymus/WZC Sint-Barbara Herselt/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/Werken Glorieux/AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR7,493,161** JUMP +2.35%; pnl **EUR74,613** DROP −15.75%; equity **EUR7,303,884** DROP −1.58%; bruto **EUR8,116,678** JUMP +2.24%; FTE **103.3**; neerlegging **10.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@vincentiusavelgem.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_sint_vincentius_avelgem); foi + draft gap_wzc_sint_vincentius_avelgem_nbb_pdf_assets_debt_matrix_l5; rq_2021=done + rq_2022 open; loop_state ticks=2021; raw under docs/doge/data/raw/tick2021/.
+- FOI: **ready not sent** (human-gated; info@vincentiusavelgem.be).
+- NOT every-10 (**next every-10 is 2030**). Next: rq_2022 (AGB/FARO-if-YE2025 / AIESH-REW / Maria Ingelmunster-PPC Pittem / unused DSO-IGS-HVZ).

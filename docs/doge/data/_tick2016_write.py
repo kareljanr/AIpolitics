@@ -1,5 +1,5 @@
 # ephemeral tick2016 — AZ Zeno YE2025 Medium (leftover dual after Heilig Hart Tienen)
-# NOTE: CW year-label shows anomalous 2008; neerlegging 02.07.2026 + 2-year matrix treated as YE2025/YE2024
+# CW year-label shows anomalous 2008; neerlegging 02.07.2026 + 2-year matrix treated as YE2025/YE2024
 import csv
 import sys
 from pathlib import Path
@@ -44,9 +44,6 @@ r = next(x for x in qrows if x.get("task_id") == "rq_2016")
 st = (r.get("status") or "").lower()
 if st not in ("open", "in_progress"):
     raise SystemExit("RACE:" + str(r.get("status")))
-r["status"] = "in_progress"
-r["updated_utc"] = UTC
-save("docs/doge/data/research_queue.csv", qrows, qfields)
 
 srows, sfields = load("docs/doge/data/sources.csv")
 for ns in [
@@ -58,7 +55,7 @@ for ns in [
         "publisher": "Companyweb (NBB-derived)",
         "accessed_date": "2026-08-24",
         "source_class": "secondary_aggregator",
-        "notes": f"tick2016; CW Laatste balansjaar shows anomalous 2008 but neerlegging 02.07.2026; treat latest as YE2025 omzet JUMP {OMZET} pnl JUMP {PNL} equity JUMP {EQUITY} bruto JUMP {BRUTO} FTE {FTE}; assets/debt Unknown; raw docs/doge/data/raw/tick2016/zeno_nl.html",
+        "notes": f"tick2016; CW Laatste balansjaar shows anomalous 2008 but neerlegging 02.07.2026; treat latest as YE2025 omzet JUMP {OMZET} pnl JUMP {PNL} equity JUMP {EQUITY} bruto JUMP {BRUTO} FTE {FTE}; assets/debt Unknown; raw docs/doge/data/raw/tick2016/azzeno_nl.html",
     },
     {
         **{k: "" for k in sfields},
@@ -68,7 +65,7 @@ for ns in [
         "publisher": "Companyweb (NBB-derived)",
         "accessed_date": "2026-08-24",
         "source_class": "secondary_aggregator",
-        "notes": "tick2016; EN mirror; Last balance sheet year shows anomalous 2008; filed 02-07-2026; treated YE2025 Medium; raw docs/doge/data/raw/tick2016/zeno_en.html",
+        "notes": "tick2016; EN mirror; Last balance sheet year shows anomalous 2008; filed 02-07-2026; treated YE2025 Medium; raw docs/doge/data/raw/tick2016/azzeno_en.html",
     },
     {
         **{k: "" for k in sfields},
@@ -78,7 +75,7 @@ for ns in [
         "publisher": "Companyweb (NBB-derived)",
         "accessed_date": "2026-08-24",
         "source_class": "secondary_aggregator",
-        "notes": "tick2016; FR mirror; deposés le 02-07-2026; treated YE2025 Medium; raw docs/doge/data/raw/tick2016/zeno_fr.html",
+        "notes": "tick2016; FR mirror; deposés le 02-07-2026; treated YE2025 Medium; raw docs/doge/data/raw/tick2016/azzeno_fr.html",
     },
     {
         **{k: "" for k in sfields},
@@ -195,7 +192,7 @@ nc = {
     "source_id": SRC,
     "confidence": "medium",
     "hierarchy_path": "WestVlaanderen>AZ_Zeno>JR2025_statutory_L5",
-    "notes": "tick2016; Medium CW; CW year-label shows 2008 anomalous; treated YE2025 via neerlegging 02.07.2026; Vesalius CW N/A; preferred AGB/FARO YE2024; HH Tienen already mined",
+    "notes": "tick2016; Medium CW; CW year-label shows 2008 anomalous; treated YE2025 via neerlegging 02.07.2026; preferred AGB/FARO/AIESH/REW YE2024; Klina N/A omzet; HH Tienen already mined",
 }
 if not any(x.get("commitment_id") == nc["commitment_id"] for x in crows):
     crows.append(nc)
@@ -245,9 +242,16 @@ ne = {
     "website": "https://www.azzeno.be/",
     "foi_email": "info@azzeno.be",
     "foi_postal": "Kalvekeetdijk 260, 8300 Knokke-Heist",
-    "notes": "tick2016 YE2025 Medium CW NL+EN+FR (year-label anomaly 2008) + Strong KBO 0410.123.819 Actief VZW; omzet JUMP 64.65m pnl JUMP 6.18m equity JUMP 51.32m bruto JUMP 37.49m FTE 579.5; assets/debt Unknown; neerlegging 02.07.2026; 3 VE; FOI "
-    + GAP
-    + "; preferred AGB Bornem JR2024; FARO YE2024; Vesalius CW N/A; do not redo HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/Werken Glorieux/AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS/CHR Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC",
+    "notes": (
+        "tick2016 YE2025 Medium CW NL+EN+FR (year-label anomaly 2008) + Strong KBO 0410.123.819 Actief VZW; "
+        "omzet JUMP 64.65m pnl JUMP 6.18m equity JUMP 51.32m bruto JUMP 37.49m FTE 579.5; assets/debt Unknown; "
+        "neerlegging 02.07.2026; 3 VE; FOI "
+        + GAP
+        + "; preferred AGB Bornem JR2024; FARO/AIESH/REW YE2024; Klina CW N/A omzet; do not redo Heilig Hart Tienen/"
+        "Heilig Hart Leuven/Sint-Trudo/Sint-Andries Tielt/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/"
+        "Werken Glorieux/AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS/"
+        "CHR Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC"
+    ),
 }
 if not any(x.get("entity_id") == ENTITY for x in erows):
     erows.append(ne)
@@ -298,7 +302,7 @@ Path(f"docs/doge/foi/drafts/{GAP}.md").write_text(
 ## Context
 - CW shows **Laatste balansjaar / Last balance sheet year = 2008** (anomalous) but **neerlegging 02.07.2026**.
 - Treated as YE **2025** (latest column): omzet **EUR64,650,772** JUMP +8.78%; pnl **EUR6,176,929** JUMP +394.72%; equity **EUR51,316,660** JUMP +14.06%; bruto **EUR37,489,915** JUMP +10.90%; FTE **579.5**; assets/debt **Unknown**.
-- Preferred stall: AGB Bornem / FARO still YE2024. Vesalius CW N/A. Heilig Hart Tienen already mined.
+- Preferred stall: AGB Bornem / FARO / AIESH / REW still YE2024. Klina filed but CW N/A omzet. Heilig Hart Tienen already mined.
 
 ## Brief
 ```text
@@ -311,6 +315,7 @@ Geachte, op grond van toepasselijke openbaarheidsregels vraag ik:
 1. NBB PDF van de meest recente jaarrekening (neerlegging 02.07.2026) met expliciete boekjaar-einddatum.
 2. Bevestiging of dit YE2025 betreft (Companyweb toont anomalisch '2008' als laatste balansjaar).
 3. Assets / schulden LT-ST / cash.
+4. Toelichting PnL-stijging van EUR1.248.572 (prior) naar EUR6.176.929 (latest).
 Periode van de neergelegde jaarrekening. Ref: {GAP}
 Met vriendelijke groeten, [Naam]
 ```
@@ -320,7 +325,6 @@ Met vriendelijke groeten, [Naam]
 )
 print("foi draft written")
 
-qrows, qfields = load("docs/doge/data/research_queue.csv")
 for x in qrows:
     if x.get("task_id") == "rq_2016":
         x["status"] = "done"
@@ -329,12 +333,14 @@ for x in qrows:
         x["title"] = "leftover dual hole-fill after Heilig Hart Tienen — AZ Zeno YE2025 Medium (year-label anomaly)"
         x["notes"] = (
             "tick2016 AZ Zeno Medium omzet JUMP 64.65m pnl JUMP 6.18m equity JUMP 51.32m; CW year-label 2008 anomalous; FOI ready; "
-            "AGB Bornem JR2024; FARO YE2024; Vesalius CW N/A; next rq_2017; next every-10 2020"
+            "AGB Bornem JR2024; FARO/AIESH/REW YE2024; Klina N/A omzet; next rq_2017; next every-10 2020"
         )
         x["instructions"] = (
             "Completed leftover AZ Zeno treated YE2025 Medium CW (year-label anomaly); KBO 0410.123.819; "
             f"omzet JUMP {OMZET} pnl JUMP {PNL} equity JUMP {EQUITY} bruto JUMP {BRUTO} FTE {FTE}; FOI {GAP}"
         )
+        x["blocked_gap_id"] = GAP
+
 if not any(x.get("task_id") == "rq_2017" for x in qrows):
     qrows.append(
         {
@@ -348,17 +354,17 @@ if not any(x.get("task_id") == "rq_2017" for x in qrows):
             "entity_id": "",
             "instructions": (
                 "Tick 2016 after AZ Zeno YE2025 Medium (CW year-label anomaly). Prefer leftover AGB/APB if JR2025 PDF live, else FARO if TRUE NBB YE2025, "
-                "else AIESH/REW if YE2025, else unused water/DSO/IGS/HVZ/energy/hospital (Jessa / ZOL / SFZ / Rivierenland / other unused YE2025 if live with omzet). "
+                "else AIESH/REW if YE2025, else unused water/DSO/IGS/HVZ/energy/hospital (Jessa / ZOL / Vesalius if omzet / other unused YE2025 if live with omzet). "
                 "Do NOT redo AZ Zeno, Heilig Hart Tienen, Heilig Hart Leuven, Sint-Trudo, Sint-Andries Tielt, Heilig Hart Lier, Vlaamse Zorgkas, OLVT/AZ Sint-Blasius, AZ Oostende, Damiaan shell, Werken Glorieux, AZ Alma, AZ St.-Elisabeth Herentals, Vitaz, Emmaüs, AZORG, Z.org KU Leuven, AZ Delta, AZJP, ZAS, CHR Verviers, CNDG, Haute Senne, CHBA, Saint-Luc, GHdC, Humani, CHIREC, CHU Tivoli, CHR Citadelle, ISoSL, Epicura, CHwapi, CHU UCL Namur, IDETA, SPI, Vivalia, IDELUX Finances, IFIGA, SOFILUX, IDEFIN, FINIMO, FINEST, HYGEA, "
                 "BEP Environnement, LOGIPOLE, BEP NAMUR, IBH, BEP Crematorium, BEP Expansion, IEG, CENEO, CISCH, HELORA, iMio, Passelecq, IPFBW, IGRETEC, Aquiris, SPGE, "
                 "IRE*, FANC, SCK CEN, EURIDICE, Hydria, Vivaqua, Belgoprocess, Laborelec, CILE, NIRAS, Bel V, Dijk92, Synergrid, AIEG, Synatom, Atrias, RESA, Enodia, "
                 "Fluxys*, ETB, Elia, BNO, SWDE, BRUGEL, ORES Assets, SOCOFE, IPALLE, INTRADEL, Tibi, IDELUX Environnement, IDELUX Eau, IDEA. "
-                "Vesalius/Zottegem/Turnhout/Waregem/Yperman/Maria Middelares/Imelda/Monica/Sint-Jan Brugge/Klina/Diest/Oudenaarde/Sint-Lucas CW N/A omzet — take only if figures appear. OLV Aalst deferred AZORG double-count."
+                "Zottegem/Turnhout/Waregem/Yperman/Maria Middelares/Imelda/Monica/Sint-Jan Brugge/Klina/Diest/Oudenaarde/Sint-Lucas CW N/A omzet — take only if figures appear. OLV Aalst deferred AZORG double-count."
             ),
             "blocked_gap_id": "",
             "created_utc": UTC,
             "updated_utc": UTC,
-            "notes": "spawned after tick2016 AZ Zeno; next every-10 2020; Vesalius CW N/A",
+            "notes": "spawned after tick2016 AZ Zeno; next every-10 2020; Klina N/A omzet",
         }
     )
 save("docs/doge/data/research_queue.csv", qrows, qfields)
@@ -375,7 +381,7 @@ lsrows[-1].update(
         "paused": "no",
         "notes": (
             "tick2016 leftover AZ Zeno 0410.123.819 Medium CW (omzet JUMP 64.65m pnl JUMP 6.18m equity JUMP 51.32m bruto JUMP 37.49m FTE 579.5; "
-            "CW year-label 2008 anomalous; assets/debt Unknown); AGB Bornem JR2024; FARO YE2024; Vesalius CW N/A; next rq_2017; next every-10 2020; continuous hole_fill"
+            "CW year-label 2008 anomalous; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; Klina N/A omzet; next rq_2017; next every-10 2020; continuous hole_fill"
         ),
     }
 )
@@ -387,11 +393,11 @@ log_block = f"""
 
 ## Tick 2016 - {UTC} - rq_2016 AZ Zeno (omzet JUMP 64.65m / pnl JUMP 6.18m / Medium; year-label anomaly)
 
-- Unit: **rq_2016** leftover dual after **rq_2015 Heilig Hart Tienen**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**. Vesalius CW **N/A omzet**. Took deferred leftover **AZ Zeno** (KBO **0410.123.819**; Kalvekeetdijk 260 Knokke-Heist) — CW year-label anomalously shows **2008**, but neerlegging **02.07.2026**; treated latest column as **YE2025** Medium. Do not redo HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/Werken Glorieux/AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS/CHR Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC.
+- Unit: **rq_2016** leftover dual after **rq_2015 Heilig Hart Tienen**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Klina filed **30.06.2026** but CW **N/A omzet**. Took deferred leftover **AZ Zeno** (KBO **0410.123.819**; Kalvekeetdijk 260 Knokke-Heist) — CW year-label anomalously shows **2008**, but neerlegging **02.07.2026**; treated latest column as **YE2025** Medium. Do not redo Heilig Hart Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/Werken Glorieux/AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS/CHR Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC.
 - Found: Companyweb NL+EN+FR - omzet **EUR64,650,772** JUMP +8.78%; pnl **EUR6,176,929** JUMP +394.72%; equity **EUR51,316,660** JUMP +14.06%; bruto **EUR37,489,915** JUMP +10.90%; FTE **579.5**; neerlegging **02.07.2026**. Assets/debt Unknown. Medium confidence (year-label anomaly). Strong KBO Actief VZW 3 VE; email info@azzeno.be.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_az_zeno); foi + draft {GAP}; rq_2016=done + rq_2017 open; loop_state ticks=2016; raw under docs/doge/data/raw/tick2016/.
 - FOI: **ready not sent** (human-gated; info@azzeno.be) — also asks boekjaar confirmation.
-- NOT every-10 (**next every-10 is 2020**). Next: rq_2017 (AGB/FARO-if-YE2025 / AIESH-REW / Jessa-ZOL-SFZ / unused DSO-IGS-HVZ).
+- NOT every-10 (**next every-10 is 2020**). Next: rq_2017 (AGB/FARO-if-YE2025 / AIESH-REW / Jessa-ZOL / unused DSO-IGS-HVZ).
 """
 log_path.write_text(log_path.read_text(encoding="utf-8") + log_block, encoding="utf-8")
 print("log ok")
