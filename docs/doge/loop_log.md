@@ -23206,3 +23206,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_sint_vincentius_avelgem); foi + draft gap_wzc_sint_vincentius_avelgem_nbb_pdf_assets_debt_matrix_l5; rq_2021=done + rq_2022 open; loop_state ticks=2021; raw under docs/doge/data/raw/tick2021/.
 - FOI: **ready not sent** (human-gated; info@vincentiusavelgem.be).
 - NOT every-10 (**next every-10 is 2030**). Next: rq_2022 (AGB/FARO-if-YE2025 / AIESH-REW / Maria Ingelmunster-PPC Pittem / unused DSO-IGS-HVZ).
+
+
+## Tick 2022 - 2026-08-24T10:15:00Z - rq_2022 PPC Pittem (omzet JUMP 42.45m / pnl JUMP 2.27m / Medium)
+
+- Unit: **rq_2022** leftover dual after **rq_2021 WZC Sint-Vincentius Avelgem**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still YE2024. Took preferred unused leftover **PPC Pittem** YE2025 (KBO **0409.956.147**; Boterstraat 6 Pittem; West-Vlaanderen **psych hospital VZW** / commercial Kliniek Sint-Jozef). Maria Rustoord YE2025 live deferred. Do not redo Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/Werken Glorieux/AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR42,447,455** JUMP +9.00%; pnl **EUR2,266,781** JUMP +115.08%; equity **EUR82,904,947** JUMP +2.43%; bruto **EUR23,335,720** JUMP +2.43%; FTE **291.6**; neerlegging **10.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@ppcpittem.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_ppc_pittem); foi + draft gap_ppc_pittem_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2022=done + rq_2023 open; loop_state ticks=2022; raw under docs/doge/data/raw/tick2022/.
+- FOI: **ready not sent** (human-gated; info@ppcpittem.be).
+- NOT every-10 (**next every-10 is 2030**). Next: rq_2023 (AGB/FARO-if-YE2025 / AIESH-REW / Maria Rustoord / Multiversum-Evara / unused DSO-IGS-HVZ).

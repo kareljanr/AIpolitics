@@ -52165,3 +52165,8 @@ bud_wzc_sint_vincentius_avelgem_pnl_jr2025_statutory,vzw_wzc_sint_vincentius_ave
 bud_wzc_sint_vincentius_avelgem_equity_jr2025_statutory,vzw_wzc_sint_vincentius_avelgem,2025,7303884,,,CW YE2025 Eigen vermogen,src_wzc_sint_vincentius_avelgem_jr2025_cw,medium,tick2021; equity DROP 7303884 -1.58pct vs YE2024 7421209
 bud_wzc_sint_vincentius_avelgem_bruto_jr2025_statutory,vzw_wzc_sint_vincentius_avelgem,2025,8116678,,,CW YE2025 Brutomarge,src_wzc_sint_vincentius_avelgem_jr2025_cw,medium,tick2021; bruto JUMP 8116678 +2.24pct vs YE2024 7938462
 bud_wzc_sint_vincentius_avelgem_fte_jr2025_statutory,vzw_wzc_sint_vincentius_avelgem,2025,103.3,,,CW social-balance FTE,src_wzc_sint_vincentius_avelgem_jr2025_cw,medium,tick2021; YE2025 FTE 103.3
+bud_ppc_pittem_omzet_jr2025_statutory,vzw_ppc_pittem,2025,42447455,,,CW YE2025 omzet / Turnover,src_ppc_pittem_jr2025_cw,medium,tick2022; omzet JUMP 42447455 +9.00pct vs YE2024 38944245
+bud_ppc_pittem_pnl_jr2025_statutory,vzw_ppc_pittem,2025,2266781,,,CW YE2025 Profit/Loss,src_ppc_pittem_jr2025_cw,medium,tick2022; pnl JUMP 2266781 +115.08pct vs YE2024 1053904
+bud_ppc_pittem_equity_jr2025_statutory,vzw_ppc_pittem,2025,82904947,,,CW YE2025 Eigen vermogen,src_ppc_pittem_jr2025_cw,medium,tick2022; equity JUMP 82904947 +2.43pct vs YE2024 80937909
+bud_ppc_pittem_bruto_jr2025_statutory,vzw_ppc_pittem,2025,23335720,,,CW YE2025 Brutomarge,src_ppc_pittem_jr2025_cw,medium,tick2022; bruto JUMP 23335720 +2.43pct vs YE2024 22782870
+bud_ppc_pittem_fte_jr2025_statutory,vzw_ppc_pittem,2025,291.6,,,CW social-balance FTE,src_ppc_pittem_jr2025_cw,medium,tick2022; YE2025 FTE 291.6
