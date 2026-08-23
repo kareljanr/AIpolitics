@@ -24043,3 +24043,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: **EVERY-10** progress + waste top10; sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.6); entities (+1 bv_rusthuis_sint_jozef_ninove); foi + draft gap_rusthuis_sint_jozef_ninove_nbb_pdf_assets_debt_pnl_drop_omzet_jump_matrix_l5; rq_2110=done + rq_2111 open; loop_state ticks=2110; raw docs/doge/data/raw/tick2110/.
 - FOI: **ready not sent** (human-gated).
 - **EVERY-10 done.** Next: rq_2111 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC). Next every-10 **2120**.
+
+
+## Tick 2111 - 2026-08-25T08:10:00Z - rq_2111 Maison de Repos du XXe Août (omzet JUMP 10.95m / pnl FLIP 0.18m / equity FLIP / Medium)
+
+- Unit: **rq_2111** leftover dual after **rq_2110 Rusthuis Sint Jozef Ninove**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Maison de Repos du XXe Août / PLIMCO** YE2025 (KBO **0443.082.637**; Chaussée Brunehault 404 Herstal; **NV/SA** NACE **87.101/87.301** / **3 VE**; Korian Belgium bestuurder path). Do not redo Ninove/Zilverlinde/Sint-Camillus/IDELUX*/INTRADEL/ORES SC/Korian holding/Comnexio/SLG*/Always Home/AGB Bornem.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR10949029** JUMP +1.93%; bruto **EUR8984821** JUMP +7.56%; pnl **EUR179756** FLIP +430.61% vs YE2024 LOSS EUR-54372; equity **EUR148177** FLIP +569.22% vs YE2024 NEG EUR-31579; FTE **126.7** (YoY Unknown); neerlegging **28.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@korian.be (parent) + postal.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.9); entities (+1 nv_mrs_xxe_aout_herstal); foi + draft gap_xxe_aout_nbb_pdf_assets_debt_pnl_flip_equity_flip_matrix_l5; rq_2111=done + rq_2112 open; loop_state ticks=2111; raw docs/doge/data/raw/tick2111/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2110**; next **2120**). Next: rq_2112 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC).

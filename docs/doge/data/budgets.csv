@@ -52624,3 +52624,8 @@ bud_sint_jozef_ninove_bruto_jr2025_statutory,bv_rusthuis_sint_jozef_ninove,2025,
 bud_sint_jozef_ninove_pnl_jr2025_statutory,bv_rusthuis_sint_jozef_ninove,2025,209734,209734,209734,CW YE2025 Profit/Loss,src_sint_jozef_ninove_jr2025_cw_en,medium,tick2110; DROP −78.1% vs YE2024 957563
 bud_sint_jozef_ninove_equity_jr2025_statutory,bv_rusthuis_sint_jozef_ninove,2025,857139,857139,857139,CW YE2025 Eigen vermogen / Equity,src_sint_jozef_ninove_jr2025_cw_en,medium,tick2110; JUMP +1.15% vs YE2024 847404
 bud_sint_jozef_ninove_fte_jr2025_statutory,bv_rusthuis_sint_jozef_ninove,2025,128.8,128.8,128.8,CW social-balance FTE / Employees,src_sint_jozef_ninove_jr2025_cw_en,medium,tick2110; FTE 128.8; YoY Unknown (CW shows current only)
+bud_xxe_aout_omzet_jr2025_statutory,nv_mrs_xxe_aout_herstal,2025,10949029,10949029,10949029,CW YE2025 omzet / Turnover (primary envelope MRS NV),src_xxe_aout_jr2025_cw_en,medium,tick2111; JUMP +1.93% vs YE2024 10741350
+bud_xxe_aout_bruto_jr2025_statutory,nv_mrs_xxe_aout_herstal,2025,8984821,8984821,8984821,CW YE2025 Brutomarge / Gross margin,src_xxe_aout_jr2025_cw_en,medium,tick2111; JUMP +7.56% vs YE2024 8353352
+bud_xxe_aout_pnl_jr2025_statutory,nv_mrs_xxe_aout_herstal,2025,179756,179756,179756,CW YE2025 Profit/Loss,src_xxe_aout_jr2025_cw_en,medium,tick2111; FLIP +430.61% vs YE2024 LOSS -54372
+bud_xxe_aout_equity_jr2025_statutory,nv_mrs_xxe_aout_herstal,2025,148177,148177,148177,CW YE2025 Eigen vermogen / Equity,src_xxe_aout_jr2025_cw_en,medium,tick2111; FLIP +569.22% vs YE2024 NEG -31579; thin vs omzet
+bud_xxe_aout_fte_jr2025_statutory,nv_mrs_xxe_aout_herstal,2025,126.7,126.7,126.7,CW social-balance FTE / Employees,src_xxe_aout_jr2025_cw_en,medium,tick2111; FTE 126.7; YoY Unknown
