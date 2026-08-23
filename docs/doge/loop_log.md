@@ -21901,3 +21901,11 @@ Append-only. Each tick adds a short entry.
 - FOI opened: NBB PDF + omzet/subsidy + continuity thin equity (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1880**). Next: rq_1875 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Westhoek-if-PDF / other HVZ-IGS).
 
+
+## Tick 1875 - 2026-08-26T08:45:00Z - rq_1875 BC Regio Mechelen NV (bruto 0.23m / equity 0.56m / Medium)
+
+- Unit: **rq_1875** leftover dual after Hangar K. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN **403** (FOI already); FARO YE2024 only; Enebra CDN 403 FOI already; BC10 Leuven YE2025 but privatized/absorbed into TEIF (BREXTON board) - skip. Took leftover **Bedrijvencentrum Regio Mechelen NV** (KBO **0428.667.645**; De Regenboog 11; board **POM Antwerpen + Belfius**).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0428667645/bedrijvencentrum-regio-mechelen) (neerlegging **07.07.2026**; YE **31.12.2025**): bruto **EUR231,927**; PnL **EUR12,664**; equity **EUR557,849**; VTE **2.4**; omzet **70 empty**. Assets **Unknown** (not invented). Pappers rounded cash **~40.5k** / findebt **~30.6k**.
+- Wrote: sources (+4); budgets (+3); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_bcmec_nbb_pdf_omzet_empty_bruto_0_23m_l5; rq_1875=done + rq_1876 open; loop_state ticks=1875.
+- FOI opened: NBB PDF + omzet-empty / share % (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1880**). Next: rq_1876 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Westhoek-if-PDF / other HVZ-IGS).
