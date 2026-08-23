@@ -51421,3 +51421,9 @@ bud_terhills_vp_omzet_jr2025,nv_terhills_vp,2025,20808555,,,CW NBB-derived code 
 bud_terhills_vp_bruto_jr2025,nv_terhills_vp,2025,4118071,,,CW NBB-derived brutomarge 9900,src_terhills_vp_jr2025_cw,medium,tick1893; YE2025 bruto 4118071
 bud_terhills_vp_pnl_jr2025,nv_terhills_vp,2025,416815,,,CW NBB-derived PnL 9904,src_terhills_vp_jr2025_cw,medium,tick1893; YE2025 pnl 416815
 bud_terhills_vp_equity_jr2025,nv_terhills_vp,2025,5097132,,,CW NBB-derived 10/15,src_terhills_vp_jr2025_cw,medium,tick1893; YE2025 equity 5097132 DROP 21pct vs 6.48m — FOI sale/dividend
+bud_terhills_hotel_omzet_jr2025,nv_terhills_hotel,2025,4599202,,,CW NBB-derived code 70 omzet 4599201.50,src_terhills_hotel_jr2025_cw,medium,tick1894; YE2025 UP vs 4.02m
+bud_terhills_hotel_bruto_jr2025,nv_terhills_hotel,2025,1800338,,,CW NBB-derived brutomarge 9900,src_terhills_hotel_jr2025_cw,medium,tick1894; YE2025 bruto 1800338
+bud_terhills_hotel_pnl_jr2025,nv_terhills_hotel,2025,47437,,,CW NBB-derived PnL 9904,src_terhills_hotel_jr2025_cw,medium,tick1894; YE2025 pnl 47437
+bud_terhills_hotel_assets_jr2025,nv_terhills_hotel,2025,2589573,,,Upswitch NBB/CBSO total assets 20/58,src_terhills_hotel_jr2025_upswitch,medium,tick1894; YE2025 assets 2589573
+bud_terhills_hotel_equity_jr2025,nv_terhills_hotel,2025,701331,,,CW/Upswitch NBB-derived 10/15,src_terhills_hotel_jr2025_cw,medium,tick1894; YE2025 equity 701331
+bud_terhills_hotel_ebitda_jr2025,nv_terhills_hotel,2025,397803,,,Upswitch NBB/CBSO EBITDA,src_terhills_hotel_jr2025_upswitch,medium,tick1894; YE2025 EBITDA 397803

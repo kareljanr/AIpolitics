@@ -22061,3 +22061,12 @@ Append-only. Each tick adds a short entry.
 - FOI opened: NBB PDF + assets / equity DROP / share % (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1900**). Next: rq_1894 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Terhills Hotel / other HVZ-IGS).
 
+
+## Tick 1894 - 2026-08-26T18:15:00Z - rq_1894 Terhills Hotel NV (omzet 4.60m / assets 2.59m / Medium)
+
+- Unit: **rq_1894** leftover dual after Terhills Vakantiepark. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **Terhills Hotel NV** (KBO **0692.525.263**; Kempische steenweg 311 Hasselt **LRM seat**; Maasmechelen hotel dual; completes Terhills stack).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0692525263/terhills-hotel) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/terhills-hotel-0692525263) (neerlegging **10.06.2026**; YE **31.12.2025**): omzet **EUR4,599,202**; bruto **EUR1,800,338**; PnL **EUR47,437**; assets **EUR2,589,573**; equity **EUR701,331**; EBITDA **EUR397,803**; FTE **21.2**.
+- Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_terhills_hotel_nbb_pdf_share_group_l5; rq_1894=done + rq_1895 open; loop_state ticks=1894.
+- FOI opened: NBB PDF + share % / group (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1900**). Next: rq_1895 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS/IOED/Mijnen).
+
