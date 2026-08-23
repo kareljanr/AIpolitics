@@ -22722,3 +22722,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1); entities (+1 igs_ieg); foi + draft gap_ieg_nbb_pdf_assets_debt_sector_matrix_l5; rq_1966=done + rq_1967 open; loop_state ticks=1966.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1970**). Next: rq_1967 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
+
+## Tick 1967 - 2026-08-23T19:00:00Z - rq_1967 BEP Expansion (omzet DROP 2.92m / bruto NEG 7.09m / Medium)
+
+- Unit: **rq_1967** leftover dual after **rq_1966 IEG**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **BEP Expansion Economique** YE2025 (KBO **0201.400.011**; Avenue Sergent Vrithoff 2 Namur; PAE/incubators; dual BEP Environnement/IDEFIN). Do not redo IEG/CENEO/HELORA/iMio/Passelecq/IPFBW/IGRETEC/Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92/AIEG/Synergrid.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR2,922,895** DROP -61.07%; bruto **NEG EUR-7,094,663**; pnl **EUR1,359,909** DROP -5.33%; equity **EUR64,521,765**; FTE **200**; neerlegging **06.07.2026**. Assets/debt Unknown. Medium confidence.
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 bep_expansion); foi + draft gap_bep_exp_nbb_pdf_assets_debt_park_matrix_l5; rq_1967=done + rq_1968 open; loop_state ticks=1967.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1970**). Next: rq_1968 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).

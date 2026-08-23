@@ -51881,3 +51881,8 @@ bud_ieg_bruto_jr2025_statutory,igs_ieg,2025,15927681,,,CW NBB-derived bruto,src_
 bud_ieg_equity_jr2025_statutory,igs_ieg,2025,106218998,,,CW NBB-derived equity,src_ieg_jr2025_cw,medium,tick1966; YE2025 equity JUMP 106218998 +4.13pct
 bud_ieg_fte_jr2025_statutory,igs_ieg,2025,87.5,,,CW social-balance FTE,src_ieg_jr2025_cw,medium,tick1966; YE2025 FTE 87.5 vs 87.4 YE2024
 bud_ieg_assets_jr2024_upswitch_lag,igs_ieg,2024,186048521,,,Upswitch NBB YE2024 assets (YE2025 Unknown),src_ieg_jr2024_upswitch,medium,tick1966; YE2024 assets 186048521 context; YE2025 assets Unknown
+bud_bep_exp_omzet_jr2025_statutory,bep_expansion,2025,2922895,,,CW NBB-derived omzet,src_bep_exp_jr2025_cw,medium,tick1967; YE2025 omzet DROP 2922895 -61.07pct vs 7508449
+bud_bep_exp_pnl_jr2025_statutory,bep_expansion,2025,1359909,,,CW NBB-derived Winst/Verlies,src_bep_exp_jr2025_cw,medium,tick1967; YE2025 pnl DROP 1359909 -5.33pct vs 1436459
+bud_bep_exp_bruto_jr2025_statutory,bep_expansion,2025,-7094663,,,CW NBB-derived bruto NEG,src_bep_exp_jr2025_cw,medium,tick1967; YE2025 bruto NEG -7094663 vs NEG -3552651
+bud_bep_exp_equity_jr2025_statutory,bep_expansion,2025,64521765,,,CW NBB-derived equity,src_bep_exp_jr2025_cw,medium,tick1967; YE2025 equity 64521765 +0.4pct
+bud_bep_exp_fte_jr2025_statutory,bep_expansion,2025,200,,,CW social-balance FTE,src_bep_exp_jr2025_cw,medium,tick1967; YE2025 FTE 200
