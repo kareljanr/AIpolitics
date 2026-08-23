@@ -24024,3 +24024,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_wzc_sint_camillus_wevelgem); foi + draft gap_sint_camillus_wevelgem_nbb_pdf_assets_debt_pnl_jump_fte_drop_matrix_l5; rq_2108=done + rq_2109 open; loop_state ticks=2108; raw docs/doge/data/raw/tick2108/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2100**; next **2110**). Next: rq_2109 (AGB/FARO-if-YE2025 / AIESH-REW / unused WZC Zilverlinde deferred).
+
+
+## Tick 2109 - 2026-08-25T07:40:00Z - rq_2109 WZC Zilverlinde Olen (omzet JUMP 4.93m / pnl DROP 0.13m / Medium)
+
+- Unit: **rq_2109** leftover dual after **rq_2108 WZC Sint-Camillus Wevelgem**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took preferred deferred unused **WZC Zilverlinde Olen** YE2025 (KBO **0445.175.263**; Berkenstraat 15 Olen; **VZW** NACE **87.101** / **1 VE**). Do not redo Sint-Camillus/IDELUX*/INTRADEL/ORES SC/Korian/Comnexio/SLG*/Always Home/AGB Bornem.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR4928407** JUMP +3.02%; bruto **EUR4930500** DROP −0.08%; pnl **EUR133746** DROP −42.58% vs YE2024 EUR232907; equity **EUR1314431** JUMP +11.33%; FTE **54.5** (YoY Unknown); neerlegging **08.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@wzczilverlinde.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.9); entities (+1 vzw_wzc_zilverlinde_olen); foi + draft gap_zilverlinde_olen_nbb_pdf_assets_debt_pnl_drop_omzet_jump_matrix_l5; rq_2109=done + rq_2110 open; loop_state ticks=2109; raw docs/doge/data/raw/tick2109/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2100**; next **2110** MUST refresh progress + waste top10 then hole-fill). Next: rq_2110 (EVERY-10 + AGB/FARO-if-YE2025 / AIESH-REW / unused WZC Sint-Jozef Ninove deferred).
