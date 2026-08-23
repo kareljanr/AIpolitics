@@ -23117,3 +23117,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_sint_andries_tielt); foi + draft gap_sint_andries_tielt_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2012=done + rq_2013 open; loop_state ticks=2012; raw under docs/doge/data/raw/tick2012/.
 - FOI: **ready not sent** (human-gated; info@sintandriestielt.be).
 - NOT every-10 (**next every-10 is 2020**). Next: rq_2013 (AGB/FARO-if-YE2025 / AIESH-REW / Sint-Trudo-HH Leuven-Vesalius / unused DSO-IGS-HVZ).
+
+
+## Tick 2013 - 2026-08-24T07:40:00Z - rq_2013 Sint-Trudo (omzet JUMP 181.32m / pnl DROP 2.05m / Medium)
+
+- Unit: **rq_2013** leftover dual after **rq_2012 Sint-Andries Tielt**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**. Took preferred leftover **Sint-Trudo** YE2025 (KBO **0443.260.603**; Diestersteenweg 100 Sint-Truiden; Limburg **hospital VZW**). **Heilig Hart Leuven** YE2025 also live deferred. Do not redo Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/Werken Glorieux/AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS/CHR Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR181,318,718** JUMP +7.22%; pnl **EUR2,049,232** DROP −3.38%; equity **EUR67,783,254** JUMP +1.75%; bruto **EUR75,425,136** JUMP +5.97%; FTE **780**; neerlegging **01.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 2 VE; email info@stzh.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_sint_trudo); foi + draft gap_sint_trudo_nbb_pdf_assets_debt_matrix_l5; rq_2013=done + rq_2014 open; loop_state ticks=2013; raw under docs/doge/data/raw/tick2013/.
+- FOI: **ready not sent** (human-gated; info@stzh.be).
+- NOT every-10 (**next every-10 is 2020**). Next: rq_2014 (AGB/FARO-if-YE2025 / AIESH-REW / HH Leuven-AZ Zeno / unused DSO-IGS-HVZ).

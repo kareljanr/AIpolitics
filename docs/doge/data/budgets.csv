@@ -52120,3 +52120,8 @@ bud_sint_andries_tielt_pnl_jr2025_statutory,vzw_sint_andries_tielt,2025,1192256,
 bud_sint_andries_tielt_equity_jr2025_statutory,vzw_sint_andries_tielt,2025,63965399,,,CW YE2025 Eigen vermogen,src_sint_andries_tielt_jr2025_cw,medium,tick2012; equity JUMP 63965399 +0.60pct vs YE2024 63584368
 bud_sint_andries_tielt_bruto_jr2025_statutory,vzw_sint_andries_tielt,2025,60750238,,,CW YE2025 Brutomarge,src_sint_andries_tielt_jr2025_cw,medium,tick2012; bruto JUMP 60750238 +8.94pct vs YE2024 55763323
 bud_sint_andries_tielt_fte_jr2025_statutory,vzw_sint_andries_tielt,2025,583.4,,,CW social-balance FTE,src_sint_andries_tielt_jr2025_cw,medium,tick2012; YE2025 FTE 583.4
+bud_sint_trudo_omzet_jr2025_statutory,vzw_sint_trudo,2025,181318718,,,CW YE2025 omzet / Turnover,src_sint_trudo_jr2025_cw,medium,tick2013; omzet JUMP 181318718 +7.22pct vs YE2024 169109219
+bud_sint_trudo_pnl_jr2025_statutory,vzw_sint_trudo,2025,2049232,,,CW YE2025 Profit/Loss,src_sint_trudo_jr2025_cw,medium,tick2013; pnl DROP 2049232 -3.38pct vs YE2024 2120841
+bud_sint_trudo_equity_jr2025_statutory,vzw_sint_trudo,2025,67783254,,,CW YE2025 Eigen vermogen,src_sint_trudo_jr2025_cw,medium,tick2013; equity JUMP 67783254 +1.75pct vs YE2024 66616688
+bud_sint_trudo_bruto_jr2025_statutory,vzw_sint_trudo,2025,75425136,,,CW YE2025 Brutomarge,src_sint_trudo_jr2025_cw,medium,tick2013; bruto JUMP 75425136 +5.97pct vs YE2024 71173754
+bud_sint_trudo_fte_jr2025_statutory,vzw_sint_trudo,2025,780,,,CW social-balance FTE,src_sint_trudo_jr2025_cw,medium,tick2013; YE2025 FTE 780
