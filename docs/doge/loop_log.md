@@ -23393,3 +23393,13 @@ Append-only. Each tick adds a short entry.
 - **C** L2 entity totals: **~99%** OoM (+ residual dual 2031-2040)
 - **D** L5 named end-lines: **~74-88%** TE generous (residual dual gain; not near-complete of 348bn)
 - **E** FOI-ready: **~1657** drafts; answered ~11; partial ~28; total ~1709
+
+
+## Tick 2041 - 2026-08-24T14:55:00Z - rq_2041 WZC De Linde Lievegem (omzet JUMP 8.54m / pnl DEEPER LOSS 0.20m / Medium)
+
+- Unit: **rq_2041** leftover dual after **rq_2040 EVERY-10 + Woonzorg Samen Ouder**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **WZC De Linde Lievegem** YE2025 (KBO **0467.355.403**; Schoolstraat 33/B Lievegem; Oost-Vlaanderen **WZC VZW** / 1 VE). Do not redo Samen Ouder/C.W.Z.C. Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara/PC Gent-Sleidinge/Molenheide/Veilige Have.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR8,539,804** JUMP +2.56%; pnl **LOSS EUR-203,700** DEEPER vs YE2024 LOSS EUR-32,307 (−530.52%); equity **EUR6,319,488** DROP −3.9%; bruto **EUR8,792,799** JUMP +4.97%; FTE **118.5**; neerlegging **08.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@wzc-delinde.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.725); entities (+1 vzw_wzc_de_linde_lievegem); foi + draft gap_wzc_de_linde_lievegem_nbb_pdf_assets_debt_pnl_loss_matrix_l5; rq_2041=done + rq_2042 open; loop_state ticks=2041; raw under docs/doge/data/raw/tick2041/.
+- FOI: **ready not sent** (human-gated; info@wzc-delinde.be).
+- NOT every-10 (**next every-10 is 2050**). Next: rq_2042 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
