@@ -21288,3 +21288,10 @@ Append-only. Each tick adds a short entry.
 - Waste top10: **unchanged** GIP 8.7 · fossil direct 8.55 · fossil accises 8.5 · company cars 8.5 · heatoil 8.43 · cheque/CO2/OAA/BCR/dual cars 8.4 (stocks Metro3/OWV filtered off).
 - Wrote: progress_every_10_ticks.md; doge_waste_top10_current.md; research_queue rq_1800=done + rq_1801; loop_state ticks=1800
 - Next: rq_1801 — leftover AGB/NSZ-if-200/Bosgroep/FARO/IGS; every-10 at **1810**
+
+### 2026-08-25T03:15:00Z — tick 1801
+- Unit: rq_1801 — **Storm Geraardsbergen NV** (leftover Zefier dual wind projectco / sector J)
+- Found: Preferred AGB Bornem still JR2024; NSZ/Dijk92/APEFE prior CDN **403**; AGB Turnhout/Pidpa already mined. Took leftover **Storm Geraardsbergen** NBB VKT-kap YE2025 deposit [2026-00155792](http://cdn.staatsbladmonitor.be/2026pdf/2026-00155792.pdf) CDN 200 (218 KB / 23p); KBO **0839.404.940**; AV **15.05.2026**; Finvision / Karel Nijs — **oordeel zonder voorbehoud**; Zefier **20pct**; Ann Panis (schepen) bestuurder. Sourced: assets **EUR5,727,870**; equity **EUR2,310,634**; debt **EUR3,417,236**; MVA **EUR4,959,582**; bruto **EUR462,689** DROP from **EUR1,869,314**; expl **EUR67,496**; fin kosten **EUR117,637**; tax **EUR275,625**; PnL **EUR-325,767** FLIP; dividend **EUR150,000** + equity draw **EUR475,767**; cash **EUR462,312** JUMP; LT bank **EUR2,258,524** + other loans **EUR623,496**; gage **EUR2,432,889**. SPS FIN **2026-00305818** CDN live deferred.
+- Wrote: sources (+3); entities nv_storm_geraardsbergen; budgets (+16); commitments; leaderboard; foi_queue ready; research_queue rq_1801=done + rq_1802 spawned; loop_state ticks=1801; FOI draft gap_stormg_bruto_0_46m_loss_0_33m_dividend_0_15m_debt_3_42m_l5.md
+- FOI opened: gap_stormg_bruto_0_46m_loss_0_33m_dividend_0_15m_debt_3_42m_l5 (**ready**, not sent)
+- Next: rq_1802 — SPS-FIN-if-200 / AGB / NSZ-if-200; every-10 at **1810**

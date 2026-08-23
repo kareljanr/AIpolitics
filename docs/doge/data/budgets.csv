@@ -50811,3 +50811,19 @@ bud_egpf_st_recv_other_2025,nv_egpf,2025,2209362,,,realized,src_egpf_jr2025_nbb,
 bud_egpf_trade_st_2025,nv_egpf,2025,1015044,,,realized,src_egpf_jr2025_nbb,strong,Handelsschulden ST 1015044 JUMP; tick1799
 bud_egpf_kapsubs_2025,nv_egpf,2025,37058,,,realized,src_egpf_jr2025_nbb,strong,Kapitaalsubsidies 37058 DROP; tick1799
 bud_egpf_commissaris_2025,nv_egpf,2025,13923,,,realized,src_egpf_jr2025_nbb,strong,Bezoldiging commissaris Deloitte 13923; tick1799
+bud_stormg_assets_2025,nv_storm_geraardsbergen,2025,5727870,,,realized,src_stormg_jr2025_nbb,strong,Assets YE2025 5727870; tick1801
+bud_stormg_equity_2025,nv_storm_geraardsbergen,2025,2310634,,,realized,src_stormg_jr2025_nbb,strong,Equity 2310634 DROP; tick1801
+bud_stormg_debt_2025,nv_storm_geraardsbergen,2025,3417236,,,realized,src_stormg_jr2025_nbb,strong,Debt 3417236; tick1801
+bud_stormg_mva_2025,nv_storm_geraardsbergen,2025,4959582,,,realized,src_stormg_jr2025_nbb,strong,MVA installaties 4959582; tick1801
+bud_stormg_bruto_2025,nv_storm_geraardsbergen,2025,462689,,,realized,src_stormg_jr2025_nbb,strong,Brutomarge 462689 DROP from 1869314; tick1801
+bud_stormg_afschr_2025,nv_storm_geraardsbergen,2025,393779,,,realized,src_stormg_jr2025_nbb,strong,Afschrijvingen 393779; tick1801
+bud_stormg_expl_2025,nv_storm_geraardsbergen,2025,67496,,,realized,src_stormg_jr2025_nbb,strong,Bedrijfswinst 67496 DROP; tick1801
+bud_stormg_fin_kosten_2025,nv_storm_geraardsbergen,2025,117637,,,realized,src_stormg_jr2025_nbb,strong,Financiele kosten 117637; tick1801
+bud_stormg_tax_2025,nv_storm_geraardsbergen,2025,275625,,,realized,src_stormg_jr2025_nbb,strong,Belastingen 275625 despite pre-tax loss; tick1801
+bud_stormg_pnl_2025,nv_storm_geraardsbergen,2025,-325767,,,realized,src_stormg_jr2025_nbb,strong,PnL LOSS -325767 FLIP from +962589; tick1801
+bud_stormg_dividend_2025,nv_storm_geraardsbergen,2025,150000,,,realized,src_stormg_jr2025_nbb,strong,Dividend 150000 despite loss (equity draw 475767); tick1801
+bud_stormg_cash_2025,nv_storm_geraardsbergen,2025,462312,,,realized,src_stormg_jr2025_nbb,strong,Cash 462312 JUMP; tick1801
+bud_stormg_lt_bank_2025,nv_storm_geraardsbergen,2025,2258524,,,realized,src_stormg_jr2025_nbb,strong,Kredietinstellingen LT 2258524; tick1801
+bud_stormg_lt_other_loans_2025,nv_storm_geraardsbergen,2025,623496,,,realized,src_stormg_jr2025_nbb,strong,Overige leningen LT 623496; tick1801
+bud_stormg_gage_2025,nv_storm_geraardsbergen,2025,2432889,,,realized,src_stormg_jr2025_nbb,strong,Gage handelsfonds max 2432889; tick1801
+bud_stormg_commissaris_2025,nv_storm_geraardsbergen,2025,4400,,,realized,src_stormg_jr2025_nbb,strong,Bezoldiging commissaris Finvision 4400 excl btw; tick1801
