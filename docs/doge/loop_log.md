@@ -21989,3 +21989,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+14); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_lrm_nbb_pdf_fva_516m_portfolio_l5; rq_1885=done + rq_1886 open; loop_state ticks=1885.
 - FOI opened: NBB PDF cents + FVA portfolio L5 / VTE / public subsidies (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1890**). Next: rq_1886 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS/IOED/Mijnen / Campus EnergyVille if YE2025).
+
+## Tick 1886 - 2026-08-26T14:15:00Z - rq_1886 Campus Energyville NV (omzet 4.91m / assets 32.77m / Medium)
+
+- Unit: **rq_1886** leftover dual after LRM parent. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403** (deposit 2026-00377886); FARO NBB YE2025 unpublished. Took leftover **Campus Energyville NV** (KBO **0842.631.278**; Thor Park 8310 Genk; board path **LRM + VITO + Nuhma/Nubema + POM Limburg + UHasselt + Stad Genk**; EnergyVille campus RE sibling of mined Thor Park / IncubaThor).
+- Primary hunt: NBB CDN deposit unresolved (SBM IP blacklist / consult SPA). **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0842631278/campus-energyville) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/campus-energyville-0842631278) + [Pappers](https://www.pappers.be/fr/company/campus-energyville-0842.631.278) (neerlegging **~28–29.05.2026**; YE **31.12.2025**): omzet **EUR4,907,745**; bruto **EUR1,833,985**; PnL **LOSS EUR-238,266**; assets **EUR32,771,745**; equity **EUR23,054,534**; EBITDA **EUR1,530,986**; kapitaal **EUR22,904,500**; cash **~1.65m** / findebt **~5.93m**; FTE **~1**.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_campus_energyville_nbb_pdf_loss_ebitda_l5; rq_1886=done + rq_1887 open; loop_state ticks=1886.
+- FOI opened: NBB PDF + LOSS/EBITDA reconcile / share % (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1890**). Next: rq_1887 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS/IOED/Mijnen).
+
