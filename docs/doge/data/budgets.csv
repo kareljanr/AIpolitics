@@ -51669,3 +51669,8 @@ bud_pipelink_assets_jr2025,nv_pipelink,2025,51309910,,,Upswitch NBB/CBSO assets,
 bud_pipelink_bruto_jr2025,nv_pipelink,2025,8226313,,,CW NBB-derived 9900,src_pipelink_jr2025_cw,medium,tick1936; YE2025 bruto 8226313
 bud_pipelink_ebitda_jr2025,nv_pipelink,2025,6879632,,,Upswitch NBB/CBSO EBITDA,src_pipelink_jr2025_upswitch,medium,tick1936; YE2025 EBITDA 6879632
 bud_pipelink_fte_jr2025,nv_pipelink,2025,7,,,CW NBB-derived FTE 7.2,src_pipelink_jr2025_cw,medium,tick1936; YE2025 FTE 7.2 (stored 7)
+bud_fluxys_cgrid_omzet_jr2025,nv_fluxys_cgrid,2025,2897025,,,CW NBB-derived omzet,src_fluxys_cgrid_jr2025_cw,medium,tick1937; YE2025 omzet 2897025 (new; 2024 empty)
+bud_fluxys_cgrid_equity_jr2025,nv_fluxys_cgrid,2025,10213687,,,CW NBB-derived equity,src_fluxys_cgrid_jr2025_cw,medium,tick1937; YE2025 equity 10213687 JUMP +217.82pct vs 3213687
+bud_fluxys_cgrid_bruto_jr2025,nv_fluxys_cgrid,2025,-65645,,,CW NBB-derived bruto 9900,src_fluxys_cgrid_jr2025_cw,medium,tick1937; YE2025 bruto NEG -65645 IMPROVED +98.27pct vs -3800743
+bud_fluxys_cgrid_kapitaal_jr2025,nv_fluxys_cgrid,2025,14000000,,,KBO kapitaal,src_fluxys_cgrid_kbo,strong,tick1937; KBO kapitaal 14000000 EUR; equity 10.21m < kapitaal after losses
+bud_fluxys_cgrid_fte_jr2025,nv_fluxys_cgrid,2025,0,,,CW NBB-derived FTE,src_fluxys_cgrid_jr2025_cw,medium,tick1937; YE2025 FTE 0
