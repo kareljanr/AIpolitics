@@ -22603,3 +22603,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+8 statutory); commitments (+1); leaderboard (+1); entities (updated sck_cen); foi + draft gap_sck_nbb_pdf_debt_cash_euridice_billing_l5; rq_1955=done + rq_1956 open; loop_state ticks=1955.
 - FOI opened: NBB PDF + debt/cash + Highlights vs statutory + EURIDICE billing (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1960**). Next: rq_1956 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / unused water-DSO-IGS-HVZ).
+
+
+## Tick 1956 - 2026-08-23T14:20:00Z - rq_1956 FANC (omzet JUMP 34.36m / pnl JUMP 5.22m / assets 59.81m / Medium)
+
+- Unit: **rq_1956** leftover dual after SCK CEN. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024** (filed 17.07.2025); REW still **YE2024**. Took leftover **FANC/AFCN** statutory YE2025 (KBO **0254.487.220**; Markiesstraat 1 Brussel; OI nuclear regulator; **Bel V dual**). Do not redo SCK CEN/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92.
+- Primary hunt: NBB deposit PDF unresolved (consult SPA). **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0254487220/agence-federale-de-controle-nucleaire) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/agence-federale-de-controle-nucleaire-0254487220) + Strong KBO: omzet **EUR34,359,867** (**JUMP +7.2%**); bruto **EUR26,837,708**; PnL **EUR5,216,442** (**JUMP +26.7%**); assets **EUR59,811,395**; equity **EUR53,793,129** (**JUMP**); EBITDA **EUR5,575,879**; FTE **142.9**; debt **~EUR6,018,266** (assets−equity).
+- Wrote: sources (+3); budgets (+8 statutory); commitments (+1); leaderboard (+1); entities (updated fanc); foi + draft gap_fanc_nbb_pdf_debt_belv_fee_recon_l5; rq_1956=done + rq_1957 open; loop_state ticks=1956.
+- FOI opened: NBB PDF + debt/cash + Bel V recovery + Kamer fee recon (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1960**). Next: rq_1957 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / IRE-if-unused / unused water-DSO-IGS-HVZ).

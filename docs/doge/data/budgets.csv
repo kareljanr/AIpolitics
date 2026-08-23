@@ -51793,3 +51793,11 @@ bud_sck_equity_jr2025_statutory,sck_cen,2025,52666129,,,CW+Upswitch NBB-derived 
 bud_sck_assets_jr2025_upswitch,sck_cen,2025,405049418,,,Upswitch NBB-derived assets,src_sck_jr2025_upswitch,medium,tick1955; YE2025 assets 405049418 vs 401321968 YE2024; equity ~13pct BS; debt Unknown
 bud_sck_ebitda_jr2025_upswitch,sck_cen,2025,1350522,,,Upswitch NBB-derived EBITDA,src_sck_jr2025_upswitch,medium,tick1955; YE2025 EBITDA 1350522 DROP vs 19811605 YE2024; ~1.4pct of omzet
 bud_sck_fte_jr2025_statutory,sck_cen,2025,883.6,,,CW social-balance FTE,src_sck_jr2025_cw,medium,tick1955; YE2025 FTE 883.6 vs 872.9 YE2024; Highlights headcount 999 distinct metric
+bud_fanc_omzet_jr2025_statutory,fanc,2025,34359867,,,CW NBB-derived omzet statutory,src_fanc_jr2025_cw,medium,tick1956; YE2025 statutory omzet 34359867 JUMP +7.2pct vs 32051111
+bud_fanc_bruto_jr2025_statutory,fanc,2025,26837708,,,CW NBB-derived bruto,src_fanc_jr2025_cw,medium,tick1956; YE2025 bruto 26837708 JUMP +8.82pct vs 24663425
+bud_fanc_pnl_jr2025_statutory,fanc,2025,5216442,,,CW NBB-derived net PnL,src_fanc_jr2025_cw,medium,tick1956; YE2025 pnl JUMP 5216442 +26.71pct vs 4116898
+bud_fanc_equity_jr2025_statutory,fanc,2025,53793129,,,CW+Upswitch NBB-derived equity,src_fanc_jr2025_cw,medium,tick1956; YE2025 equity 53793129 JUMP +10.74pct vs 48576687; ~90pct BS
+bud_fanc_assets_jr2025_upswitch,fanc,2025,59811395,,,Upswitch NBB-derived assets,src_fanc_jr2025_upswitch,medium,tick1956; YE2025 assets 59811395 vs 54241394 YE2024; debt recon ~6018266
+bud_fanc_ebitda_jr2025_upswitch,fanc,2025,5575879,,,Upswitch NBB-derived EBITDA,src_fanc_jr2025_upswitch,medium,tick1956; YE2025 EBITDA 5575879 JUMP vs 4223275 YE2024; ~16.2pct of omzet
+bud_fanc_debt_jr2025_recon,fanc,2025,6018266,,,assets-equity recon Medium (NBB-derived),src_fanc_jr2025_upswitch,medium,tick1956; YE2025 debt ~6018266 = assets 59811395 - equity 53793129; FOI LT/ST split
+bud_fanc_fte_jr2025_statutory,fanc,2025,142.9,,,CW social-balance FTE,src_fanc_jr2025_cw,medium,tick1956; YE2025 FTE 142.9 vs 143.8 YE2024
