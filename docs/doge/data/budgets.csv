@@ -51556,3 +51556,10 @@ bud_aspiravi_assets_jr2025,nv_aspiravi,2025,333026511,,,Upswitch NBB/CBSO 20/58,
 bud_aspiravi_equity_jr2025,nv_aspiravi,2025,108523225,,,CW/Upswitch NBB-derived 10/15,src_aspiravi_jr2025_cw,medium,tick1918; YE2025 equity 108523225 flat +0.01pct
 bud_aspiravi_ebitda_jr2025,nv_aspiravi,2025,47528692,,,Upswitch NBB/CBSO EBITDA,src_aspiravi_jr2025_upswitch,medium,tick1918; YE2025 EBITDA 47528692 ~59.8pct omzet
 bud_aspiravi_fte_jr2025,nv_aspiravi,2025,49,,,CW NBB-derived FTE 48.7,src_aspiravi_jr2025_cw,medium,tick1918; YE2025 FTE 48.7 (stored 49)
+bud_parkwind_omzet_jr2025,nv_parkwind,2025,47366661,,,CW/Upswitch NBB-derived code 70,src_parkwind_jr2025_cw,medium,tick1919; YE2025 omzet 47366661 JUMP +50.59pct
+bud_parkwind_bruto_jr2025,nv_parkwind,2025,13217232,,,CW NBB-derived 9900,src_parkwind_jr2025_cw,medium,tick1919; YE2025 bruto 13217232 JUMP +174.22pct
+bud_parkwind_pnl_jr2025,nv_parkwind,2025,21691070,,,CW NBB-derived 9904,src_parkwind_jr2025_cw,medium,tick1919; YE2025 pnl 21691070 DROP -81.73pct
+bud_parkwind_assets_jr2025,nv_parkwind,2025,512557638,,,Upswitch NBB/CBSO 20/58,src_parkwind_jr2025_upswitch,medium,tick1919; YE2025 assets 512557638 DROP vs 541.2m
+bud_parkwind_equity_jr2025,nv_parkwind,2025,484846247,,,CW/Upswitch NBB-derived 10/15,src_parkwind_jr2025_cw,medium,tick1919; YE2025 equity 484846247 DROP -5.74pct
+bud_parkwind_ebitda_jr2025,nv_parkwind,2025,-12292066,,,Upswitch NBB/CBSO EBITDA,src_parkwind_jr2025_upswitch,medium,tick1919; YE2025 EBITDA NEG -12292066; expl NEG -12703362
+bud_parkwind_fte_jr2025,nv_parkwind,2025,190,,,CW NBB-derived FTE 189.8,src_parkwind_jr2025_cw,medium,tick1919; YE2025 FTE 189.8 (stored 190)

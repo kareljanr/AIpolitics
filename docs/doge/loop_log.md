@@ -22274,3 +22274,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_aspiravi_nbb_pdf_share_debt_ppa_l5; rq_1918=done + rq_1919 open; loop_state ticks=1918.
 - FOI opened: NBB PDF + Holding/municipal share % / debt / PPA (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1920**). Next: rq_1919 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Socofe-WE-if-YE2025 / AspiraviHolding-Parkwind-HVZ).
+
+## Tick 1919 - 2026-08-27T06:45:00Z - rq_1919 Parkwind (pnl 21.7m DROP / assets 512.6m / Medium)
+
+- Unit: **rq_1919** leftover dual after Aspiravi. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB still **YE2024 filing** (neerlegging 24.11.2025); Socofe / WE / Aspiravi Holding still **YE2024-only**; Aspiravi Energy CW YE2025 but Upswitch assets miss. Took named leftover **Parkwind NV** (KBO **0844.796.259**; Sint-Maartenstraat 5 Leuven; Belwind/Nobelwind/NW2 operator holding; JERA Nex bp; NON-Eneco).
+- Primary hunt: NBB CDN deposit unresolved this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0844796259/parkwind) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/parkwind-0844796259) + KBO (neerlegging **01.07.2026**; YE **31.12.2025**): omzet **EUR47,366,661** (**JUMP +50.59%**); bruto **EUR13,217,232**; PnL **EUR21,691,070** (**DROP -81.73%**); assets **EUR512,557,638**; equity **EUR484,846,247** (**DROP -5.74%**); EBITDA **NEG EUR-12,292,066**; expl **NEG EUR-12,703,362**; FTE **189.8**.
+- Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_parkwind_nbb_pdf_share_fva_debt_l5; rq_1919=done + rq_1920 open (EVERY-10); loop_state ticks=1919.
+- FOI opened: NBB PDF + JERA share % / FVA path for pnl vs NEG EBITDA / debt (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1920**). Next: rq_1920 MUST refresh progress+waste top10 then hole-fill.
