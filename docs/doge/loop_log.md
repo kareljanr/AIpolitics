@@ -23672,3 +23672,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.4); entities (+1 vzw_vulpia_vlaanderen); foi + draft gap_vulpia_vl_nbb_pdf_assets_debt_pnl_drop_thin_equity_matrix_l5; rq_2069=done + rq_2070 open (EVERY-10); loop_state ticks=2069; raw under docs/doge/data/raw/tick2069/.
 - FOI: **ready not sent** (human-gated; info@vulpia.be).
 - NOT every-10 (**next every-10 is 2070 THIS next tick**). Next: rq_2070 (EVERY-10 mandatory + AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2070 - 2026-08-24T22:35:00Z - rq_2070 EVERY-10 + WZC Welvaart (omzet JUMP 8.76m / pnl DROP 0.36m / Medium)
+
+- Unit: **rq_2070** EVERY-10 mandatory + leftover dual after **rq_2069 Vulpia**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW (Réseau d'énergies de Wavre 0644.638.937) still **YE2024**. Took unused leftover **WZC Welvaart** YE2025 (KBO **0408.516.488**; Hoogboomsteenweg 124 Kapellen; Antwerpen **VZW** WZC / **1 VE**; WoonZorgCollectief sister distinct from Compostela). MSW NZVL YE2025 also live — deferred. Do not redo Vulpia/Compostela/Leiehome/Zusters SV Deinze/OLV Bornem/Huize Sint-Jozef Ieper/Sint-Antonius/OLV Wezembeek/Ter Burg/Christine/Vrijzicht/'t Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/Armonea/Always Home.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR8,759,815** JUMP +1.43%; pnl **EUR357,438** DROP -10.82% vs YE2024 EUR400,821; equity **EUR9,779,728** JUMP +11.93%; bruto **EUR9,226,365** JUMP +2.79%; FTE **111.8**; neerlegging **04.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email welvaart@wzcwelvaart.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.9); entities (+1 vzw_wzc_welvaart); foi + draft gap_welvaart_nbb_pdf_assets_debt_pnl_drop_matrix_l5; **EVERY-10** progress_every_10_ticks.md + doge_waste_top10_current.md; rq_2070=done + rq_2071 open; loop_state ticks=2070; raw under docs/doge/data/raw/tick2070/.
+- FOI: **ready not sent** (human-gated; welvaart@wzcwelvaart.be).
+- **EVERY-10 done** (A/B 100%; C ~99%; D ~74-88% generous residual dual; E ~1687 ready). Next every-10 is **2080**. Next: rq_2071 (AGB/FARO-if-YE2025 / AIESH-REW / MSW NZVL deferred / unused DSO-IGS-HVZ-WZC-psych).

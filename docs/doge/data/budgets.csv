@@ -52407,3 +52407,8 @@ bud_vulpia_vl_pnl_jr2025_statutory,vzw_vulpia_vlaanderen,2025,596759,,,CW YE2025
 bud_vulpia_vl_equity_jr2025_statutory,vzw_vulpia_vlaanderen,2025,617922,,,CW YE2025 Eigen vermogen / Equity,src_vulpia_vl_jr2025_cw_en,medium,tick2069; equity JUMP 617922 from thin YE2024 27363
 bud_vulpia_vl_bruto_jr2025_statutory,vzw_vulpia_vlaanderen,2025,137168547,,,CW YE2025 Brutomarge / Gross margin,src_vulpia_vl_jr2025_cw_en,medium,tick2069; bruto JUMP 137168547 +3.61pct vs YE2024 132394925
 bud_vulpia_vl_fte_jr2025_statutory,vzw_vulpia_vlaanderen,2025,1902.1,,,CW social-balance FTE,src_vulpia_vl_jr2025_cw_en,medium,tick2069; YE2025 FTE 1902.1
+bud_welvaart_omzet_jr2025_statutory,vzw_wzc_welvaart,2025,8759815,,,CW YE2025 omzet / Turnover,src_welvaart_jr2025_cw_en,medium,tick2070 EVERY-10; omzet JUMP 8759815 +1.43pct vs YE2024 8636093
+bud_welvaart_pnl_jr2025_statutory,vzw_wzc_welvaart,2025,357438,,,CW YE2025 Profit/Loss,src_welvaart_jr2025_cw_en,medium,tick2070 EVERY-10; pnl DROP 357438 -10.82pct vs YE2024 400821
+bud_welvaart_equity_jr2025_statutory,vzw_wzc_welvaart,2025,9779728,,,CW YE2025 Eigen vermogen / Equity,src_welvaart_jr2025_cw_en,medium,tick2070 EVERY-10; equity JUMP 9779728 +11.93pct vs YE2024 8737290
+bud_welvaart_bruto_jr2025_statutory,vzw_wzc_welvaart,2025,9226365,,,CW YE2025 Brutomarge / Gross margin,src_welvaart_jr2025_cw_en,medium,tick2070 EVERY-10; bruto JUMP 9226365 +2.79pct vs YE2024 8976016
+bud_welvaart_fte_jr2025_statutory,vzw_wzc_welvaart,2025,111.8,,,CW social-balance FTE,src_welvaart_jr2025_cw_en,medium,tick2070 EVERY-10; YE2025 FTE 111.8

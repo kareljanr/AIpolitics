@@ -7,6 +7,40 @@
 ---
 
 
+## Snapshot at **tick 2070** (2026-08-24)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 2061-2070 WZC continuum after 2060 Christine |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 2061-2070 is residual dual L5 (not near-complete of 348bn):** **WZC Ter Burg** omzet JUMP **7.88m** · **OLV Wezembeek** omzet DROP **4.44m** / pnl FLIP LOSS · **Sint-Antonius** omzet JUMP **7.46m** / pnl FLIP LOSS · **Huize Sint-Jozef Ieper** omzet JUMP **8.36m** · **Seniorencentrum OLV Bornem** omzet JUMP **9.03m** / pnl FLIP PROFIT · **Zusters SV Deinze** omzet DROP **10.95m** / pnl DEEPER LOSS · **Leiehome** omzet JUMP **10.83m** / pnl DEEPER LOSS · **Compostela** omzet JUMP **37.80m** · **Vulpia Vlaanderen** omzet JUMP **198.15m** / pnl DROP · **WZC Welvaart** omzet JUMP **8.76m** / pnl DROP Medium (this tick EVERY-10 dual) |
+| **E. FOI-ready gaps** | **~1687** drafts ready | Human send only; answered **~11**; partial **~28**; total FOI rows **~1739** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable/energy/nuclear/water/forest/hospital/psych shells** (**NEW 2061-2070** Ter Burg · OLV Wezembeek · Sint-Antonius · Huize Sint-Jozef Ieper · OLV Bornem · Zusters SV Deinze · Leiehome · **Compostela** · **Vulpia Vlaanderen** · **WZC Welvaart** · prior 2051-2060 / 2041-2050 / 2031-2040 stacks retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs hospital IGS/ASBL path possible; Medium aggregators pending NBB PDF.**
+
+### Inventory (tick 2070)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 52413 |
+| commitments.csv | 5736 |
+| leaderboard.csv | 7857 |
+| entities.csv | 1771 |
+| sources.csv | 5243 |
+| FOI ready | 1687 |
+| FOI answered | 11 |
+| FOI partial | 28 |
+| FOI total rows | 1739 |
+| research_queue open | rq_2071 after progress |
+
+### What improved since tick 2060
+
+- **Residual dual (tick2061-2070):** **WZC Ter Burg** · **OLV Wezembeek** · **Sint-Antonius** · **Huize Sint-Jozef Ieper** · **Seniorencentrum OLV Bornem** · **Bejaardenzorg Zusters SV Deinze** · **Leiehome** · **Compostela** · **Vulpia Vlaanderen** · **WZC Welvaart** (this tick EVERY-10 dual — Kapellen WZC VZW YE2025 Medium CW; WoonZorgCollectief sister distinct from Compostela).
+- **Blocked still:** AGB Bornem JR2025 unpublished (JR2024 Strong mined) · FARO NBB YE2025 unpublished (YE2024 filing) · AIESH 0201.712.587 / REW (Réseau d'énergies de Wavre 0644.638.937) YE2024-only · Jessa/ZOL CW N/A omzet · Always Home=Armonea skipped · prior Eneco deposit FOI stack.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified; corrupt AGB pi>10 / OWV snowball stock / Metro3 stock filtered off pure annual). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **2080**.
+
+
 ## Snapshot at **tick 2060** (2026-08-24)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
