@@ -23844,3 +23844,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 vzw_woonzorgcentra_ocura_beringen); foi + draft gap_ocura_nbb_pdf_assets_debt_pnl_loss_narrow_equity_drop_matrix_l5; rq_2088=done + rq_2089 open; loop_state ticks=2088; raw under docs/doge/data/raw/tick2088/.
 - FOI: **ready not sent** (human-gated; info.beringen@ocura.be).
 - NOT every-10 (**next every-10 is 2090**). Next: rq_2089 (AGB/FARO-if-YE2025 / AIESH-REW / De Lovie deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2089 - 2026-08-25T03:20:00Z - rq_2089 De Lovie (bruto JUMP 67.01m / pnl DROP 5.37m / Medium)
+
+- Unit: **rq_2089** leftover dual after **rq_2088 Ocura**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took preferred deferred leftover **De Lovie** YE2025 (KBO **0410.853.396**; Krombeekseweg 82 Poperinge; West-Vlaanderen **aanbestedende-overheid VZW** disability residential / **33 VE**; NACE 87.202). Do not redo Ocura/Lindelo/Medemens/Augustinus Halle/Ben/Stuyvenberg/Wijshage/Mater Dei/Den Akker/Vander Stokken/Ten Anker/De Zwaluw/Kuurne/SJ Brugge/HH Grimbergen/Mater Amabilis/Maria Moorslede/MSW NZVL/Welvaart/Vulpia/Compostela/Leiehome/Deinze/OLV Bornem/Huize SJ Ieper/Sint-Antonius/Wezembeek/Ter Burg/Christine/Vrijzicht/Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/Armonea/Always Home.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR8507490** JUMP +5.06%; pnl **PROFIT EUR5372235** DROP vs YE2024 PROFIT EUR7060159; equity **EUR58139102** JUMP +10.76%; bruto **EUR67006189** JUMP +5.66%; FTE **732.6** JUMP +3.42% vs YE2024 708.4; neerlegging **11.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende 33 VE; email info@delovie.be. Bruto used as primary envelope (disability VZW omzet<<bruto).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.2); entities (+1 vzw_de_lovie_poperinge); foi + draft gap_de_lovie_nbb_pdf_assets_debt_omzet_bruto_gap_pnl_drop_matrix_l5; rq_2089=done + rq_2090 open; loop_state ticks=2089; raw under docs/doge/data/raw/tick2089/.
+- FOI: **ready not sent** (human-gated; info@delovie.be).
+- NOT every-10 (**next every-10 is 2090** — MUST refresh progress + waste top10 then hole-fill). Next: rq_2090 (EVERY-10 + AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
