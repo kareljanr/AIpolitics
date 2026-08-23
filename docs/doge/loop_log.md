@@ -21667,3 +21667,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities nv_meltemi_wind; sources (+3); commitments (+1 Unknown); leaderboard weak; foi_queue ready; research_queue rq_1847=blocked_foi + rq_1848 spawned; loop_state ticks=1847; FOI draft gap_meltemi_jr2025mar_nbb_deposit_unresolved_l5.md
 - FOI opened: gap_meltemi_jr2025mar_nbb_deposit_unresolved_l5 (**ready**, human-send only)
 - NOT every-10 (next **1850**). Next: rq_1848 (Eneco-parent-if-200 / AGB / Dijk92 / FARO).
+
+## Tick 1848 - 2026-08-25T20:50:00Z - rq_1848 Eneco Wind Belgium NV (NBB YE Mar2025 deposit unresolved FOI)
+
+- Unit: **rq_1848** leftover dual residual after Meltemi FOI; preferred Eneco parent. AGB Bornem still **JR2024**; Dijk92/Enebra CDN **403**; FARO YE2024. Took **Eneco Wind Belgium NV** (parent; KBO **0475.012.760**). Holding **0896.709.273** also filed **12.03.2026**.
+- Primary: KBO Actief SA / capital **EUR153,532,372.65** / Wavre / REALFI+Eneco board (**strong** register). YE Mar2025 **neergelegd 12.03.2026** confirmed via secondary pointers only. Honest CDN hunt (March ranges + Range probes) did **not** resolve deposit id / live PDF. **No sourced euros**. Noted deferred live daughters **Hegoa/Cordona/Tivano/SKY/Solano** (companyweb filing dates known) for next ticks.
+- Wrote: entities nv_eneco_wind_belgium; sources (+3); commitments (+1 Unknown); leaderboard weak; foi_queue ready; research_queue rq_1848=blocked_foi + rq_1849 spawned; loop_state ticks=1848; FOI draft gap_eneco_wind_be_jr2025mar_nbb_deposit_unresolved_l5.md
+- FOI opened: gap_eneco_wind_be_jr2025mar_nbb_deposit_unresolved_l5 (**ready**, human-send only; priority 9)
+- NOT every-10 (next **1850**). Next: rq_1849 (Hegoa/Cordona/Tivano-if-200 / AGB / Dijk92 / FARO).

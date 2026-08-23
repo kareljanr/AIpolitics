@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-25T20:25:00Z,rq_1847,1847,no,tick1847 leftover Meltemi Wind KBO 0719.576.187 YE Mar2025 NBB deposit id unresolved / euros Unknown FOI; Bayamo also FOI; Eneco-parent unresolved; AGB Bornem JR2024; Dijk92/Enebra 403; FARO YE2024; NOT every-10 (next 1850); next rq_1848; continuous hole_fill
+main,continuous,hole_fill,2026-08-25T20:50:00Z,rq_1848,1848,no,tick1848 leftover Eneco Wind Belgium KBO 0475.012.760 YE Mar2025 NBB deposit id unresolved / euros Unknown FOI; Holding also filed 12.03.2026; Meltemi+Bayamo FOI; deferred Hegoa/Cordona/Tivano; AGB Bornem JR2024; Dijk92/Enebra 403; FARO YE2024; NOT every-10 (next 1850); next rq_1849; continuous hole_fill
