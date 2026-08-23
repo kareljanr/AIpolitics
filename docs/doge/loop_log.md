@@ -21651,3 +21651,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities nv_bali_wind; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1845=done + rq_1846 spawned; loop_state ticks=1845; FOI draft gap_baliwind_neg_equity_2_05m_ccgt_impair_5m_debt_3_46m_l5.md
 - FOI opened: gap_baliwind_neg_equity_2_05m_ccgt_impair_5m_debt_3_46m_l5 (**ready**, human-send only)
 - NOT every-10 (next **1850**). Next: rq_1846 (Meltemi/Bayamo/Eneco-parent-if-200 / AGB / Dijk92 / FARO).
+
+## Tick 1846 - 2026-08-25T20:00:00Z - rq_1846 Bayamo Wind NV (NBB YE Mar2025 deposit unresolved FOI)
+
+- Unit: **rq_1846** leftover dual residual after Bali Wind; preferred Meltemi/Bayamo. Meltemi **0719.576.187** deposit also unresolved after Oct-window small-PDF scan. AGB Bornem still **JR2024** only on portal; Dijk92 **2026-00377886** CDN **403**; FARO **2025-00569658** ~50k (YE2024). Took **Bayamo Wind NV** (Eneco dual; KBO **0697.654.880**).
+- Primary: KBO Actief SA / capital **EUR9,500,000** / zetel Wavre / Eneco+REALFI board (**strong** register). YE Mar2025 **neergelegd 09.09.2025** confirmed via secondary pointers only. Honest CDN hunt (Eneco cluster + Sept/Oct ranges) did **not** resolve deposit id / live PDF. **No sourced euros** (aggregators not booked).
+- Wrote: entities nv_bayamo_wind; sources (+3); commitments (+1 Unknown); leaderboard weak; foi_queue ready; research_queue rq_1846=blocked_foi + rq_1847 spawned; loop_state ticks=1846; FOI draft gap_bayamo_jr2025mar_nbb_deposit_unresolved_l5.md
+- FOI opened: gap_bayamo_jr2025mar_nbb_deposit_unresolved_l5 (**ready**, human-send only)
+- NOT every-10 (next **1850**). Next: rq_1847 (Meltemi-if-200 / Eneco-parent-if-200 / AGB / Dijk92 / FARO).
