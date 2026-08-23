@@ -24052,3 +24052,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.9); entities (+1 nv_mrs_xxe_aout_herstal); foi + draft gap_xxe_aout_nbb_pdf_assets_debt_pnl_flip_equity_flip_matrix_l5; rq_2111=done + rq_2112 open; loop_state ticks=2111; raw docs/doge/data/raw/tick2111/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2110**; next **2120**). Next: rq_2112 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC).
+
+
+## Tick 2112 - 2026-08-25T08:25:00Z - rq_2112 Elisabeth Aan Zee Oostende (omzet JUMP 7.72m / pnl FLIP 0.13m / Medium)
+
+- Unit: **rq_2112** leftover dual after **rq_2111 Maison de Repos du XXe Août Herstal**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Elisabeth Aan Zee** YE2025 (KBO **0405.311.530**; Zwaluwenstraat 2 Oostende; **VZW** NACE **87.301** / **2 VE**; GVO path). Do not redo XXe Août/Ninove/Zilverlinde/Sint-Camillus/IDELUX*/INTRADEL/ORES SC/Korian holding/Comnexio/SLG*/Always Home/AGB Bornem.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR7721338** JUMP +8.22%; bruto **EUR7423006** JUMP +5.02%; pnl **EUR134982** FLIP vs YE2024 LOSS EUR-4249; equity **EUR8790569** DROP −2.28% vs YE2024 EUR8995611; FTE **96.0** (YoY Unknown); neerlegging **01.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via onthaalseo@gvo.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 vzw_elisabeth_aan_zee_oostende); foi + draft gap_elisabeth_aan_zee_nbb_pdf_assets_debt_pnl_flip_matrix_l5; rq_2112=done + rq_2113 open; loop_state ticks=2112; raw docs/doge/data/raw/tick2112/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2110**; next **2120**). Next: rq_2113 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
