@@ -22218,3 +22218,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_belwind_nbb_pdf_share_debt_ppa_equity_jump_l5; rq_1911=done + rq_1912 open; loop_state ticks=1911.
 - FOI opened: NBB PDF + share % / debt / PPA / equity JUMP (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1920**). Next: rq_1912 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Northwester-Norther).
+
+## Tick 1912 - 2026-08-27T03:15:00Z - rq_1912 Northwester 2 (omzet 75.6m / assets 470.1m / Medium)
+
+- Unit: **rq_1912** leftover dual after Belwind. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **Northwester 2 / NW 2 NV** (KBO **0834.020.549**; Sint-Maartenstraat 5 Leuven; Parkwind/JERA 219 MW; NON-Eneco; distinct from Belwind/Nobelwind).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0834020549/northwester-2) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/northwester-2-0834020549) (neerlegging **14.05.2026**; YE **31.12.2025**): omzet **EUR75,583,058**; bruto **EUR58,402,920**; PnL **EUR15,130,999** (JUMP +8.49%); assets **EUR470,131,144**; equity **EUR41,518,386** (JUMP +13.1%); EBITDA **EUR58,319,452**; FTE **0**.
+- Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_nw2_nbb_pdf_share_debt_ppa_l5; rq_1912=done + rq_1913 open; loop_state ticks=1912.
+- FOI opened: NBB PDF + share % / debt / PPA (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1920**). Next: rq_1913 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Norther-PowerSEA).
