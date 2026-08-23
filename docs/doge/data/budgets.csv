@@ -52175,3 +52175,8 @@ bud_maria_rustoord_ingelmunster_pnl_jr2025_statutory,vzw_maria_rustoord_ingelmun
 bud_maria_rustoord_ingelmunster_equity_jr2025_statutory,vzw_maria_rustoord_ingelmunster,2025,6729521,,,CW YE2025 Eigen vermogen,src_maria_rustoord_ingelmunster_jr2025_cw,medium,tick2023; equity DROP 6729521 -4.05pct vs YE2024 7013419
 bud_maria_rustoord_ingelmunster_bruto_jr2025_statutory,vzw_maria_rustoord_ingelmunster,2025,12878713,,,CW YE2025 Brutomarge,src_maria_rustoord_ingelmunster_jr2025_cw,medium,tick2023; bruto JUMP 12878713 +1.71pct vs YE2024 12662457
 bud_maria_rustoord_ingelmunster_fte_jr2025_statutory,vzw_maria_rustoord_ingelmunster,2025,160.1,,,CW social-balance FTE,src_maria_rustoord_ingelmunster_jr2025_cw,medium,tick2023; YE2025 FTE 160.1
+bud_evara_omzet_jr2025_statutory,vzw_evara,2025,443168637,,,CW YE2025 omzet / Turnover,src_evara_jr2025_cw,medium,tick2024; omzet JUMP 443168637 +4.67pct vs YE2024 423398216
+bud_evara_pnl_jr2025_statutory,vzw_evara,2025,32701878,,,CW YE2025 Profit/Loss,src_evara_jr2025_cw,medium,tick2024; pnl DROP 32701878 -14.34pct vs YE2024 38175879
+bud_evara_equity_jr2025_statutory,vzw_evara,2025,750376596,,,CW YE2025 Eigen vermogen,src_evara_jr2025_cw,medium,tick2024; equity JUMP 750376596 +4.00pct vs YE2024 721541356
+bud_evara_bruto_jr2025_statutory,vzw_evara,2025,714422920,,,CW YE2025 Brutomarge,src_evara_jr2025_cw,medium,tick2024; bruto JUMP 714422920 +5.75pct vs YE2024 675557826
+bud_evara_fte_jr2025_statutory,vzw_evara,2025,7600.9,,,CW social-balance FTE,src_evara_jr2025_cw,medium,tick2024; YE2025 FTE 7600.9

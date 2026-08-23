@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T10:25:00Z,rq_2023,2023,no,tick2023 leftover Maria Rustoord Ingelmunster 0458.458.325 Medium CW (omzet JUMP 11.64m pnl DROP 28k equity DROP 6.73m bruto JUMP 12.88m FTE 160.1; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2024; next every-10 2030; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T10:40:00Z,rq_2024,2024,no,tick2024 leftover Evara 0406.633.304 Medium CW (omzet JUMP 443.17m pnl DROP 32.70m equity JUMP 750.38m bruto JUMP 714.42m FTE 7600.9; assets/debt Unknown; Multiversum under Evara); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2025; next every-10 2030; continuous hole_fill

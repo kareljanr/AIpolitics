@@ -23224,3 +23224,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_maria_rustoord_ingelmunster); foi + draft gap_maria_rustoord_ingelmunster_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2023=done + rq_2024 open; loop_state ticks=2023; raw under docs/doge/data/raw/tick2023/.
 - FOI: **ready not sent** (human-gated; info@wzcingelmunster.be).
 - NOT every-10 (**next every-10 is 2030**). Next: rq_2024 (AGB/FARO-if-YE2025 / AIESH-REW / Multiversum-Sint-Carolus-Zilverbos / unused DSO-IGS-HVZ).
+
+
+## Tick 2024 - 2026-08-24T10:40:00Z - rq_2024 Evara (omzet JUMP 443.17m / pnl DROP 32.70m / Medium)
+
+- Unit: **rq_2024** leftover dual after **rq_2023 Maria Rustoord Ingelmunster**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took preferred leftover **Evara** YE2025 (KBO **0406.633.304**; Stropkaai 38E Gent; Flanders **care+education VZW**; naam Evara sinds 01.01.2026; Multiversum is zorggroep under Evara — **no double-count**). Do not redo Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara Herselt/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR443,168,637** JUMP +4.67%; pnl **EUR32,701,878** DROP -14.34%; equity **EUR750,376,596** JUMP +4.00%; bruto **EUR714,422,920** JUMP +5.75%; FTE **7600.9**; neerlegging **07.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 281 VE; email info@evara.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_evara); foi + draft gap_evara_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2024=done + rq_2025 open; loop_state ticks=2024; raw under docs/doge/data/raw/tick2024/.
+- FOI: **ready not sent** (human-gated; info@evara.be).
+- NOT every-10 (**next every-10 is 2030**). Next: rq_2025 (AGB/FARO-if-YE2025 / AIESH-REW / Sint-Carolus-Zilverbos / unused DSO-IGS-HVZ).
