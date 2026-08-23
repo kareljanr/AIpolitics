@@ -22410,3 +22410,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (updated elia); foi + draft gap_etb_nbb_pdf_debt_tariff_equity_jump_l5; rq_1935=done + rq_1936 open; loop_state ticks=1935.
 - FOI opened: NBB PDF + debt/tariff/equity JUMP recon (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1940**). Next: rq_1936 (AGB/Dijk92-if-200 / FARO-if-YE2025 / FluxysLNG-otherHVZ-IGS).
+
+## Tick 1935 - 2026-08-27T14:45:00Z - rq_1935 Fluxys LNG (assets 829.9m / omzet JUMP 236.9m / pnl DROP 19.7m / Medium)
+
+- Unit: **rq_1935** leftover dual after Fluxys parent. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO YE2024. Took named leftover **Fluxys LNG NV** (KBO **0426.047.853**; Guimardstraat 4 Brussel; Zeebrugge LNG terminal; Fluxys Belgium subsidiary; **aanbestedende overheid**; NON-Eneco).
+- Primary hunt: NBB deposit PDF unresolved this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0426047853/fluxys-lng) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/fluxys-lng-0426047853) + KBO (neerlegging **27.05.2026**; YE **31.12.2025**): omzet **EUR236,902,465** (**JUMP +24.61%**); bruto **EUR99,683,102**; PnL **EUR19,719,568** (**DROP -12.33%**); equity **EUR117,934,699** (**DROP -6.54%**); assets **EUR829,856,143**; EBITDA **EUR92,371,306**; FTE **51.7**.
+- Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_fluxys_lng_nbb_pdf_debt_rab_share_l5; rq_1935=done + rq_1936 open; loop_state ticks=1935.
+- FOI opened: NBB PDF + debt/RAB / share % (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1940**). Next: rq_1936 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Fluxys c-grid-otherHVZ).
