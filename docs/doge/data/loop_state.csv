@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-27T15:45:00Z,rq_1937,1937,no,tick1937 leftover Fluxys c-grid 1002.472.828 Medium CW+KBO (omzet 2.90m equity JUMP 10.21m bruto NEG -66k kapitaal 14m FTE 0 pnl/assets Unknown); NBB PDF+capital-calls FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2024; next rq_1938; next every-10 1940; continuous hole_fill
+main,continuous,hole_fill,2026-08-27T16:15:00Z,rq_1938,1938,no,tick1938 leftover Fluxys c-grid Antwerp 1023.471.150 Medium CW+KBO (omzet 4.06m equity 28.27m bruto NEG -63k kapitaal 17.6m FTE 0 pnl/assets Unknown); NBB PDF+capital/premium FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2024; next rq_1939; next every-10 1940; continuous hole_fill

@@ -22435,3 +22435,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+5); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_fluxys_cgrid_nbb_pdf_assets_debt_capital_calls_l5; rq_1937=done + rq_1938 open; loop_state ticks=1937.
 - FOI opened: NBB PDF + assets/debt + capital-call matrix Pipelink/Socofe/SFPIM (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1940**). Next: rq_1938 (AGB/Dijk92-if-200 / FARO-if-YE2025 / otherHVZ-IGS).
+
+
+## Tick 1938 - 2026-08-27T16:15:00Z - rq_1938 Fluxys c-grid Antwerp (equity 28.27m / omzet 4.06m / Medium)
+
+- Unit: **rq_1938** leftover dual after Fluxys c-grid. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **2026-00377886 still 403**; FARO NBB still **YE2024**. Took leftover **Fluxys c-grid Antwerp NV** (KBO **1023.471.150**; Guimardstraat 4 Brussel; Port of Antwerp **LCNO** CO2 network; Fluxys Belgium 70% / Pipelink 20% / Air Liquide 10%; oprichting **19.05.2025**; NON-Eneco). Distinct from Fluxys c-grid parent. Do not redo BNO/Fluxys holding/LNG/c-grid parent/ETB/Elia Group/Pipelink.
+- Primary hunt: NBB deposit PDF unresolved; Upswitch 404. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/1023471150/fluxys-c-grid-antwerp) + **Strong** KBO kapitaal + official ownership (neerlegging **15.05.2026**; first YE **31.12.2025**): omzet **EUR4,061,864**; bruto **NEG EUR-62,733**; equity **EUR28,273,533**; kapitaal **EUR17,600,000**; FTE **0**; PnL 2025 / assets **Unknown** (not invented). Equity > kapitaal → share-premium FOI.
+- Wrote: sources (+3); budgets (+5); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_fluxys_cga_nbb_pdf_assets_debt_capital_premium_l5; rq_1938=done + rq_1939 open; loop_state ticks=1938.
+- FOI opened: NBB PDF + assets/debt + capital/share-premium matrix (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1940**). Next: rq_1939 (AGB/Dijk92-if-200 / FARO-if-YE2025 / otherHVZ-IGS).

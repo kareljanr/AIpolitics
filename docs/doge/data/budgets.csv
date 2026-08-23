@@ -51674,3 +51674,8 @@ bud_fluxys_cgrid_equity_jr2025,nv_fluxys_cgrid,2025,10213687,,,CW NBB-derived eq
 bud_fluxys_cgrid_bruto_jr2025,nv_fluxys_cgrid,2025,-65645,,,CW NBB-derived bruto 9900,src_fluxys_cgrid_jr2025_cw,medium,tick1937; YE2025 bruto NEG -65645 IMPROVED +98.27pct vs -3800743
 bud_fluxys_cgrid_kapitaal_jr2025,nv_fluxys_cgrid,2025,14000000,,,KBO kapitaal,src_fluxys_cgrid_kbo,strong,tick1937; KBO kapitaal 14000000 EUR; equity 10.21m < kapitaal after losses
 bud_fluxys_cgrid_fte_jr2025,nv_fluxys_cgrid,2025,0,,,CW NBB-derived FTE,src_fluxys_cgrid_jr2025_cw,medium,tick1937; YE2025 FTE 0
+bud_fluxys_cga_omzet_jr2025,nv_fluxys_cga,2025,4061864,,,CW NBB-derived omzet,src_fluxys_cga_jr2025_cw,medium,tick1938; first YE2025 omzet 4061864 (oprichting 19.05.2025)
+bud_fluxys_cga_equity_jr2025,nv_fluxys_cga,2025,28273533,,,CW NBB-derived equity,src_fluxys_cga_jr2025_cw,medium,tick1938; YE2025 equity 28273533 (> KBO kapitaal 17.6m; share premium path FOI)
+bud_fluxys_cga_bruto_jr2025,nv_fluxys_cga,2025,-62733,,,CW NBB-derived bruto 9900,src_fluxys_cga_jr2025_cw,medium,tick1938; YE2025 bruto NEG -62733
+bud_fluxys_cga_kapitaal_jr2025,nv_fluxys_cga,2025,17600000,,,KBO kapitaal,src_fluxys_cga_kbo,strong,tick1938; KBO kapitaal 17600000 EUR
+bud_fluxys_cga_fte_jr2025,nv_fluxys_cga,2025,0,,,CW NBB-derived FTE,src_fluxys_cga_jr2025_cw,medium,tick1938; YE2025 FTE 0
