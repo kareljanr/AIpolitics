@@ -22854,3 +22854,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1990**). Next: rq_1983 (AGB/FARO-if-YE2025 / AIESH-REW / IDETA / unused DSO-IGS-HVZ).
 
+## Tick 1983 - 2026-08-23T23:30:00Z - rq_1983 IDETA (omzet DROP 12.49m / pnl DROP 6.27m / Medium)
+
+- Unit: **rq_1983** leftover dual after **rq_1982 SPI**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took preferred leftover **IDETA** YE2025 (KBO **0241.098.844**; Quai Saint-Brice 35 Tournai; Wallonie picarde **ADT**). **CHwapi** YE2025 also live (omzet 337.7m / equity DROP 46pct) deferred. Do not redo SPI/Vivalia/IDELUX Finances/IFIGA/SOFILUX/IDEFIN/FINIMO/FINEST/HYGEA/HELORA/BEP*/IBH/IGRETEC/IPFBW.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR12,487,300** DROP -30.41%; pnl **EUR6,266,011** DROP -34.33%; equity **EUR149,646,031** DROP -0.86%; bruto **EUR9,241,984** DROP -29.33%; FTE **78.6**; neerlegging **07.08.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief CV 10 VE; email officiel.ic-ideta@ideta.be.
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 igs_ideta); foi + draft gap_ideta_nbb_pdf_assets_debt_omzet_drop_matrix_l5; rq_1983=done + rq_1984 open; loop_state ticks=1983.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1990**). Next: rq_1984 (AGB/FARO-if-YE2025 / AIESH-REW / CHwapi / unused DSO-IGS-HVZ).
+

@@ -51970,3 +51970,8 @@ bud_spi_pnl_jr2025_statutory,igs_spi,2025,-289708,,,CW YE2025 Profit/Loss NEG,sr
 bud_spi_equity_jr2025_statutory,igs_spi,2025,221420326,,,CW YE2025 Eigen vermogen,src_spi_jr2025_cw,medium,tick1982; equity JUMP 221420326 +7.25pct vs YE2024 206449517
 bud_spi_bruto_jr2025_statutory,igs_spi,2025,177083,,,CW YE2025 Brutomarge,src_spi_jr2025_cw,medium,tick1982; bruto DROP 177083 -97.14pct vs YE2024 6183042
 bud_spi_fte_jr2025_statutory,igs_spi,2025,105.2,,,CW social-balance FTE,src_spi_jr2025_cw,medium,tick1982; YE2025 FTE 105.2 vs YE2024 105
+bud_ideta_omzet_jr2025_statutory,igs_ideta,2025,12487300,,,CW YE2025 omzet / Turnover,src_ideta_jr2025_cw,medium,tick1983; omzet DROP 12487300 -30.41pct vs YE2024 17944125
+bud_ideta_pnl_jr2025_statutory,igs_ideta,2025,6266011,,,CW YE2025 Profit/Loss,src_ideta_jr2025_cw,medium,tick1983; pnl DROP 6266011 -34.33pct vs YE2024 9541269
+bud_ideta_equity_jr2025_statutory,igs_ideta,2025,149646031,,,CW YE2025 Eigen vermogen,src_ideta_jr2025_cw,medium,tick1983; equity DROP 149646031 -0.86pct vs YE2024 150950349
+bud_ideta_bruto_jr2025_statutory,igs_ideta,2025,9241984,,,CW YE2025 Brutomarge,src_ideta_jr2025_cw,medium,tick1983; bruto DROP 9241984 -29.33pct vs YE2024 13077272
+bud_ideta_fte_jr2025_statutory,igs_ideta,2025,78.6,,,CW social-balance FTE,src_ideta_jr2025_cw,medium,tick1983; YE2025 FTE 78.6 vs YE2024 72.8
