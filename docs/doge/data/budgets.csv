@@ -51765,3 +51765,11 @@ bud_vivaqua_equity_jr2025,vivaqua,2025,569707719,,,CW/Upswitch NBB-derived equit
 bud_vivaqua_assets_jr2025,vivaqua,2025,1759637813,,,Upswitch NBB/CBSO total assets,src_vivaqua_jr2025_upswitch,medium,tick1951; YE2025 assets 1759637813 DROP vs YE2024 1803925994
 bud_vivaqua_ebitda_jr2025,vivaqua,2025,131058980,,,Upswitch NBB/CBSO EBITDA,src_vivaqua_jr2025_upswitch,medium,tick1951; YE2025 EBITDA 131058980; operating result 31301868
 bud_vivaqua_fte_jr2025,vivaqua,2025,1260,,,CW NBB-derived FTE 1260.3,src_vivaqua_jr2025_cw,medium,tick1951; YE2025 FTE 1260.3 (stored 1260); was 1262.1 YE2024
+bud_hydria_omzet_jr2025,nv_hydria,2025,45047324,,,CW NBB-derived omzet YE2025,src_hydria_jr2025_cw,medium,tick1952; flat DROP -0.99pct vs 45495998 YE2024
+bud_hydria_bruto_jr2025,nv_hydria,2025,-14935766,,,CW NBB-derived bruto YE2025 NEG,src_hydria_jr2025_cw,medium,tick1952; NEG bruto -14935766 (-6.46pct vs -14030096)
+bud_hydria_pnl_jr2025,nv_hydria,2025,333989,,,CW NBB-derived PnL YE2025,src_hydria_jr2025_cw,medium,tick1952; DROP -32.4pct vs 494067
+bud_hydria_equity_jr2025,nv_hydria,2025,178681621,,,CW+Upswitch equity YE2025,src_hydria_jr2025_upswitch,medium,tick1952; +0.19pct vs 178347633; CoA Hydria capital ~178.3m double-book context
+bud_hydria_assets_jr2025,nv_hydria,2025,300554368,,,Upswitch NBB-derived total assets YE2025,src_hydria_jr2025_upswitch,medium,tick1952; DROP vs 308262196 YE2024
+bud_hydria_ebitda_jr2025,nv_hydria,2025,15600944,,,Upswitch NBB-derived EBITDA YE2025,src_hydria_jr2025_upswitch,medium,tick1952; ~34.6pct of omzet
+bud_hydria_kapitaal_kbo,nv_hydria,2025,182194633,,,KBO registered capital,src_hydria_kbo,strong,tick1952; KBO kapitaal 182194633
+bud_hydria_fte_jr2025,nv_hydria,2025,67,,,CW NBB-derived FTE 67.2 (rounded display 67),src_hydria_jr2025_cw,medium,tick1952; exact FTE 67.2; not euros — headcount proxy row

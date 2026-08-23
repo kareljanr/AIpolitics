@@ -22570,3 +22570,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (updated vivaqua); foi + draft gap_vivaqua_nbb_pdf_debt_bei_hydria_l5; rq_1951=done + stale open rq_1950 twin closed + rq_1952 open; loop_state ticks=1951.
 - FOI opened: NBB PDF + debt/BEI + Hydria/Brugel (**ready**, human-send only).
 - NOT every-10 (**1950 EVERY-10 already done with Belgoprocess**; next every-10 is **1960**). Next: rq_1952 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / otherHVZ-IGS).
+
+## Tick 1952 - 2026-08-27T22:45:00Z - rq_1952 Hydria (omzet 45.0m / bruto NEG 14.9m / assets 300.6m / Medium)
+
+- Unit: **rq_1952** leftover dual after Vivaqua (1951 concurrent already on main). Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024**. Took leftover **Hydria** (KBO **0884.649.502**; Keizerinlaan 17-19 Brussel; BCR wastewater/sanitation NV publiek recht ex-SBGE; **same zetel** as Vivaqua). Do not redo Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92/AIEG/Synergrid/Synatom/Atrias/RESA/SWDE.
+- Primary hunt: NBB deposit PDF unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0884649502/hydria) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/hydria-0884649502) + Strong KBO (neerlegging **18.06.2026**; YE **2025**): omzet **EUR45,047,324** (**DROP -0.99%**); bruto **NEG EUR-14,935,766**; PnL **EUR333,989** (**DROP -32.4%**); equity **EUR178,681,621**; assets **EUR300,554,368** (**DROP**); EBITDA **EUR15,600,944**; FTE **67.2**; kapitaal **EUR182,194,633**; debt **Unknown**.
+- Wrote: sources (+3); budgets (+8); commitments (+1); leaderboard (+1); entities (+1 nv_hydria); foi + draft gap_hydria_nbb_pdf_debt_vivaqua_assain_matrix_l5; rq_1952=done + rq_1953 open; loop_state ticks=1952.
+- FOI opened: NBB PDF + debt/cash + Vivaqua assainissement redevance matrix + NEG bruto (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1960**). Next: rq_1953 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / Bosgroep-IOED / otherHVZ-IGS).
