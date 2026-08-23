@@ -23403,3 +23403,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated; info@wzc-delinde.be).
 - NOT every-10 (**next every-10 is 2050**). Next: rq_2042 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
 
+
+
+## Tick 2042 - 2026-08-24T15:10:00Z - rq_2042 Psychogeriatrisch Centrum (omzet FLAT 53.40m / pnl DROP 0.28m / bruto DROP / Medium)
+
+- Unit: **rq_2042** leftover dual after **rq_2041 WZC De Linde Lievegem**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took unused leftover **Psychogeriatrisch Centrum** YE2025 (KBO **0435.357.675**; Gentsesteenweg 1050 Sint-Agatha-Berchem; Brussels **commercial psychogeriatric NV** / Korian Arcus / 6 VE). WZC De Verlosser Dilbeek YE2025 also live — deferred. Do not redo De Linde/Samen Ouder/C.W.Z.C. Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara/PC Gent-Sleidinge/Molenheide/Veilige Have/Witte Meren/AZJP.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR53,397,484** FLAT +0.49%; pnl **EUR284,351** DROP -70.17%; equity **EUR13,807,612** JUMP +2.10%; bruto **EUR34,905,368** DROP -19.60%; FTE **642.4**; neerlegging **28.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief NV 6 VE; email info@arcusbru.be (Korian Arcus).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.725); entities (+1 nv_psychogeriatrisch_centrum); foi + draft gap_psychogeriatrisch_centrum_nbb_pdf_assets_debt_pnl_bruto_drop_matrix_l5; rq_2042=done + rq_2043 open; loop_state ticks=2042; raw under docs/doge/data/raw/tick2042/.
+- FOI: **ready not sent** (human-gated; info@arcusbru.be).
+- NOT every-10 (**next every-10 is 2050**). Next: rq_2043 (AGB/FARO-if-YE2025 / AIESH-REW / De Verlosser deferred / unused DSO-IGS-HVZ-WZC-psych).

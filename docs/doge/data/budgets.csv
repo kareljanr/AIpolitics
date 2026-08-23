@@ -1,4 +1,4 @@
-﻿budget_id,entity_id,year,amount_eur,amount_min_eur,amount_max_eur,basis,source_id,confidence,notes
+budget_id,entity_id,year,amount_eur,amount_min_eur,amount_max_eur,basis,source_id,confidence,notes
 bud_gg_2025_total,gg_belgium,2025,347956000000,,,esa,src_nbb_edp_2025_apr,strong,Total expenditure S.13 ESA/EDP; 54.2% of GDP; NAI Table 1 (EUR million 347956). Cross-check Eurostat TE 347956.3m
 bud_gg_2025_primary,gg_belgium,2025,333675000000,,,esa,src_nbb_edp_2025_apr,strong,Primary expenditure; 52.0% of GDP; NAI Table 1 (EUR million 333675); subset of total
 bud_gg_2024_total,gg_belgium,2024,335100000000,,,esa,src_nbb_edp_2025_apr,strong,Total expenditure S.13; 54.1% of GDP; NAI Table 1 (EUR million 335100). Eurostat TE 335100.1m
@@ -52265,3 +52265,8 @@ bud_de_linde_lievegem_pnl_jr2025_statutory,vzw_wzc_de_linde_lievegem,2025,-20370
 bud_de_linde_lievegem_equity_jr2025_statutory,vzw_wzc_de_linde_lievegem,2025,6319488,,,CW YE2025 Eigen vermogen / Equity,src_de_linde_lievegem_jr2025_cw_en,medium,tick2041; equity DROP 6319488 -3.9pct vs YE2024 6576284
 bud_de_linde_lievegem_bruto_jr2025_statutory,vzw_wzc_de_linde_lievegem,2025,8792799,,,CW YE2025 Brutomarge / Gross margin,src_de_linde_lievegem_jr2025_cw_en,medium,tick2041; bruto JUMP 8792799 +4.97pct vs YE2024 8376324
 bud_de_linde_lievegem_fte_jr2025_statutory,vzw_wzc_de_linde_lievegem,2025,118.5,,,CW social-balance FTE,src_de_linde_lievegem_jr2025_cw_en,medium,tick2041; YE2025 FTE 118.5 (was 124.2)
+bud_psychoger_omzet_jr2025_statutory,nv_psychogeriatrisch_centrum,2025,53397484,,,CW YE2025 omzet / Turnover,src_psychoger_jr2025_cw_en,medium,tick2042; omzet FLAT/JUMP 53397484 +0.49pct vs YE2024 53135954
+bud_psychoger_pnl_jr2025_statutory,nv_psychogeriatrisch_centrum,2025,284351,,,CW YE2025 Profit/Loss,src_psychoger_jr2025_cw_en,medium,tick2042; pnl DROP 284351 -70.17pct vs YE2024 953218
+bud_psychoger_equity_jr2025_statutory,nv_psychogeriatrisch_centrum,2025,13807612,,,CW YE2025 Eigen vermogen / Equity,src_psychoger_jr2025_cw_en,medium,tick2042; equity JUMP 13807612 +2.10pct vs YE2024 13523261
+bud_psychoger_bruto_jr2025_statutory,nv_psychogeriatrisch_centrum,2025,34905368,,,CW YE2025 Brutomarge / Gross margin,src_psychoger_jr2025_cw_en,medium,tick2042; bruto DROP 34905368 -19.60pct vs YE2024 43417032
+bud_psychoger_fte_jr2025_statutory,nv_psychogeriatrisch_centrum,2025,642.4,,,CW social-balance FTE,src_psychoger_jr2025_cw_en,medium,tick2042; YE2025 FTE 642.4
