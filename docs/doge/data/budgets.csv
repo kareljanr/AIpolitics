@@ -50827,3 +50827,22 @@ bud_stormg_lt_bank_2025,nv_storm_geraardsbergen,2025,2258524,,,realized,src_stor
 bud_stormg_lt_other_loans_2025,nv_storm_geraardsbergen,2025,623496,,,realized,src_stormg_jr2025_nbb,strong,Overige leningen LT 623496; tick1801
 bud_stormg_gage_2025,nv_storm_geraardsbergen,2025,2432889,,,realized,src_stormg_jr2025_nbb,strong,Gage handelsfonds max 2432889; tick1801
 bud_stormg_commissaris_2025,nv_storm_geraardsbergen,2025,4400,,,realized,src_stormg_jr2025_nbb,strong,Bezoldiging commissaris Finvision 4400 excl btw; tick1801
+bud_spsfin_assets_2025,nv_sps_fin,2025,5157946,,,realized,src_spsfin_jr2025_nbb,strong,Assets YE2025 5157946; tick1802
+bud_spsfin_equity_2025,nv_sps_fin,2025,1701795,,,realized,src_spsfin_jr2025_nbb,strong,Equity 1701795 DROP; tick1802
+bud_spsfin_debt_2025,nv_sps_fin,2025,3244521,,,realized,src_spsfin_jr2025_nbb,strong,Debt 3244521; tick1802
+bud_spsfin_mva_2025,nv_sps_fin,2025,4195075,,,realized,src_spsfin_jr2025_nbb,strong,MVA installaties 4195075; tick1802
+bud_spsfin_omzet_2025,nv_sps_fin,2025,1578352,,,realized,src_spsfin_jr2025_nbb,strong,Omzet 1578352; tick1802
+bud_spsfin_bruto_2025,nv_sps_fin,2025,1391493,,,realized,src_spsfin_jr2025_nbb,strong,Brutomarge 1391493; tick1802
+bud_spsfin_afschr_2025,nv_sps_fin,2025,791145,,,realized,src_spsfin_jr2025_nbb,strong,Afschrijvingen 791145; tick1802
+bud_spsfin_expl_2025,nv_sps_fin,2025,569552,,,realized,src_spsfin_jr2025_nbb,strong,Bedrijfswinst 569552; tick1802
+bud_spsfin_kapsubs_2025,nv_sps_fin,2025,86059,,,realized,src_spsfin_jr2025_nbb,strong,Kapitaal- en interestsubsidies 86059 recurrent; tick1802
+bud_spsfin_fin_kosten_2025,nv_sps_fin,2025,232194,,,realized,src_spsfin_jr2025_nbb,strong,Financiele kosten 232194; tick1802
+bud_spsfin_pnl_2025,nv_sps_fin,2025,423413,,,realized,src_spsfin_jr2025_nbb,strong,PnL 423413; tick1802
+bud_spsfin_dividend_2025,nv_sps_fin,2025,400054,,,realized,src_spsfin_jr2025_nbb,strong,Dividend / uit te keren winst 400054; tick1802
+bud_spsfin_cash_2025,nv_sps_fin,2025,811061,,,realized,src_spsfin_jr2025_nbb,strong,Cash 811061 JUMP from 468299; tick1802
+bud_spsfin_lt_other_loans_2025,nv_sps_fin,2025,1924682,,,realized,src_spsfin_jr2025_nbb,strong,Overige leningen LT 1924682; tick1802
+bud_spsfin_kapsubs_bs_2025,nv_sps_fin,2025,456129,,,realized,src_spsfin_jr2025_nbb,strong,Kapitaalsubsidies BS 456129; tick1802
+bud_spsfin_prov_onderhoud_2025,nv_sps_fin,2025,211630,,,realized,src_spsfin_jr2025_nbb,strong,Voorzieningen grote herstellingen 211630; tick1802
+bud_spsfin_gage_2025,nv_sps_fin,2025,1871080,,,realized,src_spsfin_jr2025_nbb,strong,Gage overige leningen 1871080; tick1802
+bud_spsfin_hypotheek_inschrijving_2025,nv_sps_fin,2025,11635562,,,realized,src_spsfin_jr2025_nbb,strong,Hypotheek inschrijving 11635562 on MVA 4195075; tick1802
+bud_spsfin_commissaris_2025,nv_sps_fin,2025,6115,,,realized,src_spsfin_jr2025_nbb,strong,Bezoldiging commissaris BDO 6115; tick1802

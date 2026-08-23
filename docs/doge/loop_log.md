@@ -21295,3 +21295,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_storm_geraardsbergen; budgets (+16); commitments; leaderboard; foi_queue ready; research_queue rq_1801=done + rq_1802 spawned; loop_state ticks=1801; FOI draft gap_stormg_bruto_0_46m_loss_0_33m_dividend_0_15m_debt_3_42m_l5.md
 - FOI opened: gap_stormg_bruto_0_46m_loss_0_33m_dividend_0_15m_debt_3_42m_l5 (**ready**, not sent)
 - Next: rq_1802 — SPS-FIN-if-200 / AGB / NSZ-if-200; every-10 at **1810**
+
+### 2026-08-25T03:35:00Z - tick 1802
+- Unit: rq_1802 - **SPS FIN NV** (leftover Zefier dual / Peerdsbos)
+- Found: Preferred AGB Bornem still JR2024; NSZ/Dijk92/APEFE prior CDN **403**. Took deferred live **SPS FIN** NBB VKT-kap YE2025 deposit [2026-00305818](http://cdn.staatsbladmonitor.be/2026pdf/2026-00305818.pdf) CDN 200 (347 KB / 29p); KBO **0811.365.903**; AV **13.07.2026**; BDO / Kevin Defauw - **oordeel zonder voorbehoud** (na niet-bevinding 11.06.2026); aandeelhouders **Enve in vereffening 49.53pct / IKA 22.87pct / Zefier 22.87pct / Solfund faling 3.15pct / Infrabel 1.58pct**; Infrabel bestuurder. Sourced: assets **EUR5,157,946**; equity **EUR1,701,795**; debt **EUR3,244,521**; MVA **EUR4,195,075**; omzet **EUR1,578,352**; bruto **EUR1,391,493**; afschr **EUR791,145**; expl **EUR569,552**; kapsubs **EUR86,059**; fin kosten **EUR232,194**; PnL **EUR423,413**; dividend **EUR400,054**; cash **EUR811,061** JUMP; LT overige leningen **EUR1,924,682**; kapsubs BS **EUR456,129**; voorzieningen **EUR211,630**; gage **EUR1,871,080**; hypotheek inschrijving **EUR11,635,562**; commissaris **EUR6,115**.
+- Wrote: sources (+3); entities nv_sps_fin; budgets (+19); commitments; leaderboard; foi_queue ready; research_queue rq_1802=done + rq_1803 spawned; loop_state ticks=1802; FOI draft gap_spsfin_omzet_1_58m_dividend_0_40m_lt_loans_1_92m_l5.md
+- FOI opened: gap_spsfin_omzet_1_58m_dividend_0_40m_lt_loans_1_92m_l5 (**ready**, not sent)
+- Next: rq_1803 - leftover AGB/NSZ-if-200/Bosgroep/FARO/IGS; every-10 at **1810**
