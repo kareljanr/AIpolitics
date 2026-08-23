@@ -50892,3 +50892,13 @@ bud_pampero_equity_6_02m_2025,nv_pampero_wind,2025,6023310,,,NBB VOL-kap YE Mar2
 bud_pampero_expl_0_56m_2025,nv_pampero_wind,2025,560779,,,NBB VOL-kap YE Mar2025,src_pampero_jr2025_nbb,strong,tick1814; bedrijfswinst 9901; not TE-additive of 348bn
 bud_pampero_fin_cost_0_67m_2025,nv_pampero_wind,2025,667923,,,NBB VOL-kap YE Mar2025,src_pampero_jr2025_nbb,strong,tick1814; financiële kosten 65; not TE-additive of 348bn
 bud_pampero_dividend_0_20m_2025,nv_pampero_wind,2025,200000,,,NBB VOL-kap YE Mar2025,src_pampero_jr2025_nbb,strong,tick1814; uit te keren winst 694; was 2600000; not TE-additive of 348bn
+bud_stormgeel_assets_3_37m_2025,nv_storm_geel,2025,3366551,,,NBB VKT-kap YE2025,src_stormgeel_jr2025_nbb,strong,tick1815; assets YE2025; not TE-additive of 348bn
+bud_stormgeel_mva_2_13m_2025,nv_storm_geel,2025,2126354,,,NBB VKT-kap YE2025,src_stormgeel_jr2025_nbb,strong,tick1815; MVA YE2025; not TE-additive of 348bn
+bud_stormgeel_bruto_0_50m_2025,nv_storm_geel,2025,495097,,,NBB VKT-kap YE2025,src_stormgeel_jr2025_nbb,strong,tick1815; bruto 9900; was 2236463; not TE-additive of 348bn
+bud_stormgeel_pnl_loss_0_06m_2025,nv_storm_geel,2025,62206,,,NBB VKT-kap YE2025,src_stormgeel_jr2025_nbb,strong,tick1815; PnL loss 9904 abs; not TE-additive of 348bn
+bud_stormgeel_debt_0_99m_2025,nv_storm_geel,2025,990257,,,NBB VKT-kap YE2025,src_stormgeel_jr2025_nbb,strong,tick1815; schulden 17/49; not TE-additive of 348bn
+bud_stormgeel_lt_debt_0_44m_2025,nv_storm_geel,2025,435375,,,NBB VKT-kap YE2025,src_stormgeel_jr2025_nbb,strong,tick1815; LT overige leningen 174; not TE-additive of 348bn
+bud_stormgeel_equity_2_38m_2025,nv_storm_geel,2025,2376293,,,NBB VKT-kap YE2025,src_stormgeel_jr2025_nbb,strong,tick1815; equity 10/15; not TE-additive of 348bn
+bud_stormgeel_expl_loss_0_04m_2025,nv_storm_geel,2025,37175,,,NBB VKT-kap YE2025,src_stormgeel_jr2025_nbb,strong,tick1815; bedrijfsverlies 9901 abs; not TE-additive of 348bn
+bud_stormgeel_dividend_0_48m_2025,nv_storm_geel,2025,483000,,,NBB VKT-kap YE2025,src_stormgeel_jr2025_nbb,strong,tick1815; uit te keren winst 694 despite PnL loss; not TE-additive of 348bn
+bud_stormgeel_cash_0_72m_2025,nv_storm_geel,2025,724390,,,NBB VKT-kap YE2025,src_stormgeel_jr2025_nbb,strong,tick1815; liquide middelen 54/58; not TE-additive of 348bn
