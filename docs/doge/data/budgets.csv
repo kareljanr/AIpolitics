@@ -52491,3 +52491,8 @@ bud_medemens_pnl_jr2025_statutory,vzw_de_medemens_antwerpen,2025,3746216,3746216
 bud_medemens_equity_jr2025_statutory,vzw_de_medemens_antwerpen,2025,105051203,105051203,105051203,CW YE2025 Eigen vermogen / Equity,src_medemens_jr2025_cw_en,medium,tick2086; JUMP +10.10% vs YE2024 95413932
 bud_medemens_bruto_jr2025_statutory,vzw_de_medemens_antwerpen,2025,113208879,113208879,113208879,CW YE2025 Brutomarge / Gross margin,src_medemens_jr2025_cw_en,medium,tick2086; JUMP +10.35% vs YE2024 102589620
 bud_medemens_fte_jr2025_statutory,vzw_de_medemens_antwerpen,2025,1362.0,1362.0,1362.0,CW social-balance FTE / Employees,src_medemens_jr2025_cw_en,medium,tick2086; FTE JUMP 1362.0 (+8.23%) vs YE2024 1258.4
+bud_lindelo_omzet_jr2025_statutory,vzw_wzc_lindelo_lille,2025,10431746,10431746,10431746,CW YE2025 omzet / Turnover,src_lindelo_jr2025_cw_en,medium,tick2087; JUMP +1.80% vs YE2024 10247309
+bud_lindelo_pnl_jr2025_statutory,vzw_wzc_lindelo_lille,2025,-225489,-225489,-225489,CW YE2025 Profit/Loss,src_lindelo_jr2025_cw_en,medium,tick2087; DEEPER LOSS vs YE2024 -12877 (DEEPER LOSS)
+bud_lindelo_equity_jr2025_statutory,vzw_wzc_lindelo_lille,2025,9429339,9429339,9429339,CW YE2025 Eigen vermogen / Equity,src_lindelo_jr2025_cw_en,medium,tick2087; DROP -5.19% vs YE2024 9946153
+bud_lindelo_bruto_jr2025_statutory,vzw_wzc_lindelo_lille,2025,11726653,11726653,11726653,CW YE2025 Brutomarge / Gross margin,src_lindelo_jr2025_cw_en,medium,tick2087; JUMP +2.95% vs YE2024 11390217
+bud_lindelo_fte_jr2025_statutory,vzw_wzc_lindelo_lille,2025,166.9,166.9,166.9,CW social-balance FTE / Employees,src_lindelo_jr2025_cw_en,medium,tick2087; FTE JUMP 166.9 (+5.43%) vs YE2024 158.3
