@@ -21751,3 +21751,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities beschut_wonen_antwerpen notes; sources (+3); budgets (+9); commitments (+3); leaderboard (+3); foi_queue ready; research_queue rq_1857=done + rq_1858 spawned; loop_state ticks=1857; FOI draft gap_beschut_j2_j5_expl_afm_pers_euros_l5.md
 - FOI opened: gap_beschut_j2_j5_expl_afm_pers_euros_l5 (**ready**, human-send only)
 - NOT every-10 (next **1860**). Next: rq_1858 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ/IGS live).
+
+
+## Tick 1858 - 2026-08-26T01:15:00Z - rq_1858 Ter Nethe Hulshout (JR2025 unpublished FOI)
+
+- Unit: **rq_1858** leftover dual residual after Beschut Wonen; preferred non-Eneco live. AGB Bornem portal still **JR2024-only** (GR 14.10.2025 pack); Dijk92 CDN **403**; FARO NBB YE2024 (~50k); Mintus/Motena/Sakura no new JR PDF; Zorg Stekene already mined. Took leftover **Welzijnsvereniging Ter Nethe** (WZC Hulshout; KBO **0780.658.572**).
+- Primary: KBO Actief Vereniging van OCMW's / zetel Grote Baan 264 / NACE 87.101 / RSZ since 01.04.2022 (**strong** register). Official Hulshout WV + finance pages: 2022 MJP/statuten only — **no JR2025 BBC/NBB PDF**. NBB/SBM deposit unresolved. **No sourced euros**.
+- Wrote: entities zorg_ternethe; sources (+3); commitments (+1 Unknown); leaderboard weak; foi_queue ready; research_queue rq_1858=blocked_foi + rq_1859 spawned; loop_state ticks=1858; FOI draft gap_ternethe_jr2025_bbc_nbb_unpublished_l5.md
+- FOI opened: gap_ternethe_jr2025_bbc_nbb_unpublished_l5 (**ready**, human-send only)
+- NOT every-10 (next **1860**). Next: rq_1859 (**prefer non-Eneco live** AGB/Dijk92/FARO/HVZ/IGS).

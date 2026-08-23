@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T00:45:00Z,rq_1857,1857,no,tick1857 leftover Beschut Wonen Antwerpen KBO 0458.878.195 JR2025 BBC (assets 2.366m equity 1.175m PnL loss 0.115m cash 0.515m fin debt 0 VTE 46.1); J2/J5 image FOI; AGB Bornem JR2024; Dijk92 403; FARO YE2024; NOT every-10 (next 1860); next rq_1858 prefer non-Eneco live; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T01:15:00Z,rq_1858,1858,no,tick1858 leftover Ter Nethe Hulshout KBO 0780.658.572 JR2025 unpublished FOI; AGB Bornem JR2024; Dijk92/Enebra 403; FARO YE2024; Mintus/Motena opaque; NOT every-10 (next 1860); next rq_1859 prefer non-Eneco live; continuous hole_fill
