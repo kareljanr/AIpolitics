@@ -21309,3 +21309,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_storm_wielsbeke; budgets (+3 Zefier-primary); commitments; leaderboard; foi_queue ready; research_queue rq_1803=done + rq_1804 spawned; loop_state ticks=1803; FOI draft gap_stormw_nbb_ye2025_deposit_l5_bruto_loss_debt.md
 - FOI opened: gap_stormw_nbb_ye2025_deposit_l5_bruto_loss_debt (**ready**, not sent)
 - Next: rq_1804 - leftover AGB/NSZ-if-200/Bosgroep/FARO/StormZ-TNS-if-200/IGS; every-10 at **1810**
+
+### 2026-08-25T04:15:00Z - tick 1804
+- Unit: rq_1804 - **Storm Zandvliet NV** (leftover Zefier dual / SZA) — **stall FOI**
+- Found: Preferred AGB Bornem still JR2024; NSZ/Dijk92/APEFE still CDN **403**; FARO NBB YE2025 unpublished. Storm Zandvliet KBO **0501.625.305** — NBB YE2025 deposit **not on CDN** after scan; SBM HTML IP blacklist. Primary Zefier YE2025: aandelen SZA **EUR411,572**; sector ontvangen dividend **EUR145,045** (Antwerpen **EUR133,200**). Terranova Solar deferred. No invented projectco euros.
+- Wrote: sources (+3); entities nv_storm_zandvliet; budgets (+3 Zefier-primary); commitments; leaderboard; foi_queue ready; research_queue rq_1804=done + rq_1805 spawned; loop_state ticks=1804; FOI draft gap_stormz_nbb_ye2025_deposit_l5_bruto_pnl_debt.md
+- FOI opened: gap_stormz_nbb_ye2025_deposit_l5_bruto_pnl_debt (**ready**, not sent)
+- Next: rq_1805 - leftover AGB/NSZ-if-200/Bosgroep/FARO/TNS-if-200/IGS; every-10 at **1810**

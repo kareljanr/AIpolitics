@@ -50849,3 +50849,6 @@ bud_spsfin_commissaris_2025,nv_sps_fin,2025,6115,,,realized,src_spsfin_jr2025_nb
 bud_stormw_zefier_shares_2025,nv_storm_wielsbeke,2025,210531,,,realized,src_stormw_zefier_balans_2025,strong,Zefier aandelen Storm Wielsbeke 210531.21 YE2025; tick1803 primary
 bud_stormw_zefier_subord_loan_2025,nv_storm_wielsbeke,2025,233081,,,realized,src_stormw_zefier_balans_2025,strong,Zefier achtergestelde lening Storm Wielsbeke 233080.63 YE2025; tick1803 primary
 bud_stormw_zefier_sector_div_recv_2025,nv_storm_wielsbeke,2025,50000,,,realized,src_stormw_zefier_sector_2025,strong,Zefier sector SWI ontvangen dividend totaal 50000 boekjaar 2025; tick1803 primary
+bud_stormz_zefier_shares_2025,nv_storm_zandvliet,2025,411572,,,realized,src_stormz_zefier_balans_2025,strong,Zefier aandelen Storm Zandvliet 411572.19 YE2025; tick1804 primary
+bud_stormz_zefier_sector_div_recv_2025,nv_storm_zandvliet,2025,145045,,,realized,src_stormz_zefier_sector_2025,strong,Zefier sector SZA ontvangen dividend totaal 145044.91; tick1804 primary
+bud_stormz_zefier_sector_div_antwerpen_2025,nv_storm_zandvliet,2025,133200,,,realized,src_stormz_zefier_sector_2025,strong,Antwerpen slice sector dividend 133199.94; tick1804 primary
