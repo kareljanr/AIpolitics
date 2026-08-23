@@ -23099,3 +23099,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_vlaamse_zorgkas); foi + draft gap_vlaamse_zorgkas_nbb_pdf_assets_debt_pnl_drop_matrix_l5; progress+top10; rq_2010=done + rq_2011 open; loop_state ticks=2010; raw under docs/doge/data/raw/tick2010/.
 - FOI: **ready not sent** (human-gated; vlaamsezorgkas@vlaanderen.be).
 - EVERY-10 done. Next every-10 **2020**. Next: rq_2011 (AGB/FARO-if-YE2025 / AIESH-REW / Heilig Hart Lier-Sint-Jan-Vesalius / unused DSO-IGS-HVZ).
+
+
+## Tick 2011 - 2026-08-24T07:10:00Z - rq_2011 Heilig Hart Lier (omzet JUMP 204.49m / pnl LOSS 2.11m / Medium)
+
+- Unit: **rq_2011** leftover dual after **rq_2010 EVERY-10 + Vlaamse Zorgkas**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Sint-Jan Brugge CW **N/A filings**. Took preferred leftover **Heilig Hart Lier** YE2025 (KBO **0412.080.645**; Mechelsestraat 24 Lier; Antwerpen **hospital VZW**). Do not redo Vlaamse Zorgkas/OLVT/AZ Oostende/Glorieux/Alma/Herentals/Vitaz/Emmaüs/AZORG/Z.org/AZ Delta/AZJP/ZAS.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR204,492,026** JUMP +5.40%; pnl **LOSS EUR-2,108,644** (worse −72.01% vs YE2024 LOSS −1.23m); equity **EUR78,662,672** DROP −2.94%; bruto **EUR92,494,807** JUMP +1.20%; FTE **1008.3**; neerlegging **09.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@heilighartlier.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_hh_lier); foi + draft gap_hh_lier_nbb_pdf_assets_debt_pnl_loss_matrix_l5; rq_2011=done + rq_2012 open; loop_state ticks=2011; raw under docs/doge/data/raw/tick2011/.
+- FOI: **ready not sent** (human-gated; info@heilighartlier.be).
+- NOT every-10 (**next every-10 is 2020**). Next: rq_2012 (AGB/FARO-if-YE2025 / AIESH-REW / Vesalius-Sint-Andries / unused DSO-IGS-HVZ).

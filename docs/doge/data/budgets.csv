@@ -52110,3 +52110,8 @@ bud_vlaamse_zorgkas_pnl_jr2025_statutory,vzw_vlaamse_zorgkas,2025,154861,,,CW YE
 bud_vlaamse_zorgkas_equity_jr2025_statutory,vzw_vlaamse_zorgkas,2025,619261,,,CW YE2025 Eigen vermogen,src_vlaamse_zorgkas_jr2025_cw,medium,tick2010 EVERY-10; equity JUMP 619261 +33.35pct vs YE2024 464400; thin equity vs 194m omzet flow-through
 bud_vlaamse_zorgkas_bruto_jr2025_statutory,vzw_vlaamse_zorgkas,2025,4620876,,,CW YE2025 Brutomarge,src_vlaamse_zorgkas_jr2025_cw,medium,tick2010 EVERY-10; bruto JUMP 4620876 +66.61pct vs YE2024 2773452
 bud_vlaamse_zorgkas_fte_jr2025_statutory,vzw_vlaamse_zorgkas,2025,0,,,CW social-balance FTE,src_vlaamse_zorgkas_jr2025_cw,medium,tick2010 EVERY-10; YE2025 FTE 0 (staff via Departement Zorg path)
+bud_hh_lier_omzet_jr2025_statutory,vzw_hh_lier,2025,204492026,,,CW YE2025 omzet / Turnover,src_hh_lier_jr2025_cw,medium,tick2011; omzet JUMP 204492026 +5.40pct vs YE2024 194007634
+bud_hh_lier_pnl_jr2025_statutory,vzw_hh_lier,2025,-2108644,,,CW YE2025 Profit/Loss,src_hh_lier_jr2025_cw,medium,tick2011; pnl LOSS -2108644 worse -72.01pct vs YE2024 -1225911
+bud_hh_lier_equity_jr2025_statutory,vzw_hh_lier,2025,78662672,,,CW YE2025 Eigen vermogen,src_hh_lier_jr2025_cw,medium,tick2011; equity DROP 78662672 -2.94pct vs YE2024 81047097
+bud_hh_lier_bruto_jr2025_statutory,vzw_hh_lier,2025,92494807,,,CW YE2025 Brutomarge,src_hh_lier_jr2025_cw,medium,tick2011; bruto JUMP 92494807 +1.20pct vs YE2024 91400941
+bud_hh_lier_fte_jr2025_statutory,vzw_hh_lier,2025,1008.3,,,CW social-balance FTE,src_hh_lier_jr2025_cw,medium,tick2011; YE2025 FTE 1008.3
