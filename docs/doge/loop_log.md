@@ -21933,3 +21933,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_cminecrib_nbb_pdf_loss_equity_thin_l5; rq_1878=done + rq_1879 open; loop_state ticks=1878.
 - FOI opened: NBB PDF + LOSS continuity / share % (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1880**). Next: rq_1879 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Droneport/Agropolis/BioVille if live).
+
+## Tick 1879 - 2026-08-26T10:45:00Z - rq_1879 Droneport NV (omzet 1.25m / LOSS 0.61m / Medium)
+
+- Unit: **rq_1879** leftover dual after C-Mine Crib. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2024 only. Took leftover **Droneport NV** (KBO **0647.642.076**; Lichtenberglaan Sint-Truiden; board **LRM + LRM Beheer**; LRM/Stad Sint-Truiden/Brussels Airport/JK Invest aviation campus sibling of CMineCrib/IncubaThor/Greenville).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0647642076/droneport) (neerlegging **26.05.2026**; YE **31.12.2025**): omzet **EUR1,247,137**; bruto **EUR188,651**; PnL **LOSS EUR-608,184**; equity **EUR21,451,146**; assets **Unknown**. Pappers cash **~2.09m** / findebt **~3.2m**; Pappers net **~-479k** vs CW — FOI reconcile.
+- Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_droneport_nbb_pdf_loss_pnl_reconcile_l5; rq_1879=done + rq_1880 open (EVERY-10); loop_state ticks=1879.
+- FOI opened: NBB PDF + PnL reconcile / share % (**ready**, human-send only).
+- NOT every-10 (**next tick 1880 is EVERY-10**). Next: rq_1880 progress refresh + Agropolis/BioVille/Corda if live.

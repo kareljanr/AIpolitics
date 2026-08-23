@@ -51340,3 +51340,7 @@ bud_cminecrib_omzet_0_77m_jr2025,nv_cminecrib,2025,766393,,,CW NBB-derived 70 om
 bud_cminecrib_bruto_0_13m_jr2025,nv_cminecrib,2025,130419,,,CW NBB-derived 9900 brutomarge YE31122025,src_cminecrib_jr2025_cw,medium,tick1878; UP vs prior 0.13m; not TE-additive
 bud_cminecrib_pnl_neg_0_06m_jr2025,nv_cminecrib,2025,-60108,,,CW NBB-derived 9904 winst boekjaar LOSS,src_cminecrib_jr2025_cw,medium,tick1878; LOSS deepening vs prior -22k; not TE-additive
 bud_cminecrib_equity_0_16m_jr2025,nv_cminecrib,2025,156699,,,CW NBB-derived 10/15 eigen vermogen,src_cminecrib_jr2025_cw,medium,tick1878; DROP vs prior 0.22m thin; not TE-additive
+bud_droneport_omzet_1_25m_jr2025,nv_droneport,2025,1247137,,,CW NBB-derived 70 omzet YE31122025,src_droneport_jr2025_cw,medium,tick1879; JUMP vs prior 0.83m; not TE-additive
+bud_droneport_bruto_0_19m_jr2025,nv_droneport,2025,188651,,,CW NBB-derived 9900 brutomarge YE31122025,src_droneport_jr2025_cw,medium,tick1879; not TE-additive
+bud_droneport_pnl_neg_0_61m_jr2025,nv_droneport,2025,-608184,,,CW NBB-derived 9904 winst boekjaar LOSS,src_droneport_jr2025_cw,medium,tick1879; LOSS improving vs prior -0.80m; Pappers ~-479k FOI reconcile; not TE-additive
+bud_droneport_equity_21_45m_jr2025,nv_droneport,2025,21451146,,,CW NBB-derived 10/15 eigen vermogen,src_droneport_jr2025_cw,medium,tick1879; UP vs prior 20.06m; not TE-additive
