@@ -52584,3 +52584,8 @@ bud_korian_belgium_bruto_jr2025_statutory,nv_korian_belgium,2025,23130494,231304
 bud_korian_belgium_pnl_jr2025_statutory,nv_korian_belgium,2025,3410765,3410765,3410765,CW YE2025 Profit/Loss,src_korian_belgium_jr2025_cw_en,medium,tick2104; DROP -49.77% vs YE2024 PROFIT 6790713
 bud_korian_belgium_equity_jr2025_statutory,nv_korian_belgium,2025,194558071,194558071,194558071,CW YE2025 Eigen vermogen / Equity,src_korian_belgium_jr2025_cw_en,medium,tick2104; JUMP +1.78% vs YE2024 191147306
 bud_korian_belgium_fte_jr2025_statutory,nv_korian_belgium,2025,47.4,47.4,47.4,CW social-balance FTE / Employees,src_korian_belgium_jr2025_cw_en,medium,tick2104; FTE 47.4; YoY Unknown on CW; thin vs SLG ops FTE
+bud_intradel_omzet_jr2025_statutory,igs_intradel,2025,125062424,125062424,125062424,CW turnover / Omzet YE2025 (primary envelope),src_intradel_jr2025_cw_en,medium,tick2105; omzet DROP 125062424 (-3.55%) vs YE2024 129659229
+bud_intradel_pnl_jr2025_statutory,igs_intradel,2025,-12682319,-12682319,-12682319,CW Profit/Loss YE2025,src_intradel_jr2025_cw_en,medium,tick2105; pnl LOSS NARROW -12682319 (+16.51% vs YE2024 LOSS -15191078)
+bud_intradel_equity_jr2025_statutory,igs_intradel,2025,35537642,35537642,35537642,CW Equity / Eigen vermogen YE2025,src_intradel_jr2025_cw_en,medium,tick2105; equity DROP 35537642 (-0.44%) vs YE2024 35693639
+bud_intradel_bruto_jr2025_statutory,igs_intradel,2025,25332295,25332295,25332295,CW Gross margin / Brutomarge YE2025,src_intradel_jr2025_cw_en,medium,tick2105; bruto DROP 25332295 (-3.15%) vs YE2024 26157103
+bud_intradel_fte_jr2025_statutory,igs_intradel,2025,321,321,321,CW social-balance FTE / Employees,src_intradel_jr2025_cw_en,medium,tick2105; FTE JUMP 321 vs YE2024 319.4

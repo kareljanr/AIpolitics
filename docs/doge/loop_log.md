@@ -23988,3 +23988,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.9); entities (+1 nv_korian_belgium); foi + draft gap_korian_belgium_nbb_pdf_assets_debt_pnl_drop_holding_dual_matrix_l5; rq_2104=done + rq_2105 open; loop_state ticks=2104; raw under docs/doge/data/raw/tick2103/ (gather) + close_as_tick2104.
 - FOI: **ready not sent** (human-gated; info@korian.be).
 - NOT every-10 (**last every-10 was 2100**; next **2110**). Next: rq_2105 (AGB/FARO-if-YE2025 / AIESH-REW / unused WZC).
+
+
+## Tick 2105 - 2026-08-25T06:45:00Z - rq_2105 INTRADEL (omzet DROP 125.06m / pnl LOSS NARROW -12.68m / Medium)
+
+- Unit: **rq_2105** leftover dual after concurrent **rq_2104 Korian Belgium** (this agent raced on 2104 with INTRADEL; remapped to 2105). Prefer: AGB Bornem **JR2024-only**; FARO **YE2024**; AIESH **YE2024**; REW **YE2024**. Took unused Walloon waste IGS **INTRADEL** YE2025 (KBO **0219.511.295**; Pré Wigy 20 Herstal; SC / **55 VE** / pouvoir adjudicateur; NACE **38.110/35.110**).
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR125062424** DROP -3.55%; bruto **EUR25332295** DROP -3.15%; pnl **LOSS EUR-12682319** LOSS NARROW +16.51%; equity **EUR35537642** DROP -0.44%; FTE **321** JUMP vs YE2024 319.4; neerlegging **04.07.2026**. Assets/debt Unknown. Medium. Strong KBO.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.0); entities (+1 igs_intradel); foi + draft gap_intradel_nbb_pdf_assets_debt_pnl_loss_narrow_matrix_l5; rq_2105=done + rq_2106 open; loop_state ticks=2105; raw docs/doge/data/raw/tick2104/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 2110**). Next: rq_2106 (AGB/FARO-if-YE2025 / AIESH-REW / IDELUX Eau deferred / unused).
