@@ -51602,3 +51602,10 @@ bud_we_env_pnl_jr2025,we_environnement,2025,11454277,,,CW NBB-derived 9904,src_w
 bud_we_env_equity_jr2025,we_environnement,2025,157446756,,,CW NBB-derived 10/15,src_we_env_jr2025_cw,medium,tick1926; YE2025 equity 157446756 JUMP +23.13pct
 bud_we_env_bruto_jr2025,we_environnement,2025,-505635,,,CW NBB-derived 9900,src_we_env_jr2025_cw,medium,tick1926; YE2025 bruto NEG -505635
 bud_we_env_fte_jr2025,we_environnement,2025,3,,,CW NBB-derived FTE 3.3,src_we_env_jr2025_cw,medium,tick1926; YE2025 FTE 3.3 (stored 3)
+bud_virya_omzet_jr2025,nv_virya_energy,2025,9945028,,,CW NBB-derived omzet,src_virya_jr2025_cw,medium,tick1927; YE2025 omzet 9945028 JUMP +37.93pct
+bud_virya_pnl_jr2025,nv_virya_energy,2025,-11233998,,,CW NBB-derived 9904,src_virya_jr2025_cw,medium,tick1927; YE2025 pnl LOSS -11233998 DROP -216.26pct
+bud_virya_equity_jr2025,nv_virya_energy,2025,781074129,,,CW/Upswitch NBB-derived 10/15,src_virya_jr2025_cw,medium,tick1927; YE2025 equity 781074129 JUMP +8.89pct
+bud_virya_assets_jr2025,nv_virya_energy,2025,908007572,,,Upswitch NBB/CBSO assets,src_virya_jr2025_upswitch,medium,tick1927; YE2025 assets 908007572
+bud_virya_bruto_jr2025,nv_virya_energy,2025,-8196391,,,CW NBB-derived 9900,src_virya_jr2025_cw,medium,tick1927; YE2025 bruto NEG -8196391
+bud_virya_ebitda_jr2025,nv_virya_energy,2025,-14380535,,,Upswitch NBB/CBSO EBITDA,src_virya_jr2025_upswitch,medium,tick1927; YE2025 EBITDA NEG -14380535
+bud_virya_fte_jr2025,nv_virya_energy,2025,42,,,CW NBB-derived FTE 42.5,src_virya_jr2025_cw,medium,tick1927; YE2025 FTE 42.5 (stored 42)

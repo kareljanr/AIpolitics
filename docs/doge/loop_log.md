@@ -22338,3 +22338,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (updated we_environnement); foi + draft gap_we_env_nbb_pdf_assets_share_fva_capital_jump_l5; rq_1926=done + rq_1927 open; loop_state ticks=1926.
 - FOI opened: NBB PDF + assets/share % / FVA / capital JUMP (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1930**). Next: rq_1927 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Virya-otherHVZ).
+
+## Tick 1927 - 2026-08-27T10:45:00Z - rq_1927 Virya Energy (assets 908.0m / equity JUMP 781.1m / pnl LOSS 11.2m / Medium)
+
+- Unit: **rq_1927** leftover dual after WE Environnement. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **2026-00377886 still 403**; FARO NBB still **YE2024**. Took deferred named leftover **Virya Energy NV** (KBO **0739.804.548**; Edingensesteenweg 249 Halle; Colruyt/Korys renewable holding; Parkwind/Belwind/Nobelwind/NW2 parent; NON-Eneco).
+- Primary hunt: NBB consult HTML ok; deposit PDF unresolved this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0739804548/virya-energy) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/virya-energy-0739804548) + KBO (neerlegging **08.07.2026**; YE **31.12.2025**; kapitaal **EUR689,129,311**): omzet **EUR9,945,028** (**JUMP +37.93%**); bruto **NEG EUR-8,196,391**; PnL **LOSS EUR-11,233,998** (**DROP -216.26%**); equity **EUR781,074,129** (**JUMP +8.89%**); assets **EUR908,007,572**; EBITDA **NEG EUR-14,380,535**; FTE **42.5**.
+- Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_virya_nbb_pdf_share_fva_debt_l5; rq_1927=done + rq_1928 open; loop_state ticks=1927.
+- FOI opened: NBB PDF + share % / FVA path for LOSS vs equity / debt / public co-invest (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1930**). Next: rq_1928 (AGB/Dijk92-if-200 / FARO-if-YE2025 / otherHVZ-IGS).
