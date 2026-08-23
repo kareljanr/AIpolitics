@@ -21742,3 +21742,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities zorg_wv_wijngaard; sources (+3); budgets (+11); commitments (+3); leaderboard (+3); foi_queue ready; research_queue rq_1856=done + rq_1857 spawned; loop_state ticks=1856; FOI draft gap_wijngaard_bovennorm_pers_cost_fva_9_8k_debt_schedule_l5.md
 - FOI opened: gap_wijngaard_bovennorm_pers_cost_fva_9_8k_debt_schedule_l5 (**ready**, human-send only)
 - NOT every-10 (next **1860**). Next: rq_1857 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ/IGS live).
+
+
+## Tick 1857 - 2026-08-26T00:45:00Z - rq_1857 Beschut Wonen Antwerpen JR2025 (assets 2.37m / PnL loss 0.12m / VTE 46.1)
+
+- Unit: **rq_1857** leftover dual residual after De Wijngaard; preferred non-Eneco live. AGB Bornem still JR2024; Dijk92/Enebra CDN **403**; FARO NBB YE2024; HVZ Oost VB full rekening attachments not separately downloadable (besluit-only already mined). Took leftover **Beschut Wonen Antwerpen** (KBO **0458.878.195**; tick218 city-toelage-only).
+- Primary (strong, official BBC [JR2025 39p](https://www.antwerpen.be/assets-proxy/4ecd92b2-237b-4192-9ed0-6041a0f775aa) 5.74MB; ModDate **25.06.2026**): assets **EUR2,366,045**; cash **EUR514,766**; equity **EUR1,174,918**; cum stock **EUR289,995**; boekhoudkundig tekort **EUR115,380**; ST schulden **EUR1,158,049**; LT borg **EUR33,078**; fin debt **0** (T4); VTE **46.1**; expl vs budget **EUR-47,131**. J2/J4/J5/T1-T3 **image-only**.
+- Wrote: entities beschut_wonen_antwerpen notes; sources (+3); budgets (+9); commitments (+3); leaderboard (+3); foi_queue ready; research_queue rq_1857=done + rq_1858 spawned; loop_state ticks=1857; FOI draft gap_beschut_j2_j5_expl_afm_pers_euros_l5.md
+- FOI opened: gap_beschut_j2_j5_expl_afm_pers_euros_l5 (**ready**, human-send only)
+- NOT every-10 (next **1860**). Next: rq_1858 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ/IGS live).
