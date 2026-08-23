@@ -21644,3 +21644,10 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_boisduprince_dividend_6_90m_pnl_0_38m_equity_strip_l5 (**ready**, human-send only)
 - NOT every-10 (next **1850**). Next: rq_1845 (Meltemi/Bayamo/Eneco-parent-if-200 / AGB / Dijk92 / FARO).
 
+## Tick 1845 - 2026-08-25T19:35:00Z - rq_1845 Bali Wind NV (NEG equity -2.05m / CCGT impair 5.03m / cash-pool 3.46m)
+
+- Unit: **rq_1845** leftover dual residual after Bois du Prince; preferred Meltemi/Bayamo deposit ids unresolved this tick; AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2024. Took leftover **Bali Wind NV** (Eneco **99.77%** + Eneco Wind Belgium Holding **0.23%**; KBO **0869.875.412**; deposit **2025-00521588** in Eneco cluster). Manage **CCGT land shell** (not turbine opco).
+- Primary (strong, NBB C-cap [2025-00521588](http://cdn.staatsbladmonitor.be/2025pdf/2025-00521588.pdf) CDN 200 / 40p 371965 bytes; AV **01.09.2025**; YE **01.04.2024-31.03.2025**; Deloitte/Bogaerts; board Eneco+REALFI): assets DROP **EUR1,419,428**; equity NEG **EUR-2,048,272**; loss carry **EUR-5,677,033**; debt **EUR3,467,700** (ST autres dettes cash-pool **3,463,130**); Manage land **EUR1,171,344**; intangible fully impaired gross **EUR5,032,239** (net 0); cash JUMP **EUR168,434**; omzet empty; expl LOSS **EUR-17,201**; PnL LOSS **EUR-17,655**; dividend **0**; continuity note (shareholder credit lines pending CCGT; impairments >5m); VTE empty.
+- Wrote: entities nv_bali_wind; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1845=done + rq_1846 spawned; loop_state ticks=1845; FOI draft gap_baliwind_neg_equity_2_05m_ccgt_impair_5m_debt_3_46m_l5.md
+- FOI opened: gap_baliwind_neg_equity_2_05m_ccgt_impair_5m_debt_3_46m_l5 (**ready**, human-send only)
+- NOT every-10 (next **1850**). Next: rq_1846 (Meltemi/Bayamo/Eneco-parent-if-200 / AGB / Dijk92 / FARO).
