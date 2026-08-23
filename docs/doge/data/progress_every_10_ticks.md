@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 2010** (2026-08-24)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 2001-2010 hospital/zorgkas continuum after 2000 AZ Delta |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 2001-2010 is residual dual L5 (not near-complete of 348bn):** **Z.org KU Leuven** omzet JUMP **111.24m** · **AZORG** omzet **824.93m** / pnl LOSS · **Emmaüs** omzet JUMP **624.17m** · **Vitaz** omzet JUMP **474.71m** · **Herentals** omzet JUMP **171.67m** / pnl DROP · **AZ Alma** omzet JUMP **191.40m** · **Glorieux** omzet JUMP **164.36m** / pnl DROP · **AZ Oostende** omzet JUMP **308.72m** · **OLVT/Blasius** omzet JUMP **235.94m** / pnl DROP · **Vlaamse Zorgkas** omzet JUMP **193.92m** / pnl DROP / thin equity Medium (this tick EVERY-10 dual) |
+| **E. FOI-ready gaps** | **~1627** drafts ready | Human send only; answered **~11**; partial **~28**; total FOI rows **~1679** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable/energy/nuclear/water/forest/hospital/zorgkas shells** (**NEW 2001-2010** Z.org · AZORG · Emmaüs · Vitaz · Herentals · Alma · Glorieux · AZ Oostende · OLVT/Blasius · **Vlaamse Zorgkas** · prior ZAS/AZ Delta/AZJP/Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs hospital IGS/ASBL path possible; Medium aggregators pending NBB PDF.**
+
+### Inventory (tick 2010)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 52111 |
+| commitments.csv | 5676 |
+| leaderboard.csv | 7797 |
+| entities.csv | 1712 |
+| sources.csv | 4934 |
+| FOI ready | 1627 |
+| FOI answered | 11 |
+| FOI partial | 28 |
+| FOI total rows | 1679 |
+| research_queue open | rq_2011 after progress |
+
+### What improved since tick 2000
+
+- **Residual dual (tick2001-2010):** **Z.org KU Leuven** · **AZORG** · **Emmaüs** · **Vitaz** · **AZ St.-Elisabeth Herentals** · **AZ Alma** · **Werken Glorieux** · **AZ Oostende** · **OLVT/AZ Sint-Blasius** · **Vlaamse Zorgkas** (this tick EVERY-10 dual — public VL zorgkas VZW YE2025 Medium CW).
+- **Blocked still:** AGB Bornem JR2024-only · FARO NBB YE2025 unpublished (YE2024 filing) · AIESH/REW YE2024-only · Erasme/UZ Brussel CW opaque · AZ Sint-Lucas / Groeninge / Zottegem / Turnhout / Waregem / Yperman / Maria Middelares / Imelda / Monica CW N/A omzet · Bosgroep IJzer/Houtland/Limburg YE2025 unpublished · prior Eneco deposit FOI stack.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified; corrupt AGB pi>10 / OWV snowball stock / Metro3 stock filtered off pure annual). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **2020**.
+
+
 ## Snapshot at **tick 2000** (2026-08-24)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

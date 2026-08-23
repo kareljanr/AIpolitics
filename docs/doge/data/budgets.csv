@@ -52105,3 +52105,8 @@ bud_olvt_sint_blasius_pnl_jr2025_statutory,vzw_olvt_sint_blasius,2025,1990218,,,
 bud_olvt_sint_blasius_equity_jr2025_statutory,vzw_olvt_sint_blasius,2025,82628815,,,CW YE2025 Eigen vermogen,src_olvt_sint_blasius_jr2025_cw,medium,tick2009; equity JUMP 82628815 +1.41pct vs YE2024 81476583
 bud_olvt_sint_blasius_bruto_jr2025_statutory,vzw_olvt_sint_blasius,2025,102389176,,,CW YE2025 Brutomarge,src_olvt_sint_blasius_jr2025_cw,medium,tick2009; bruto JUMP 102389176 +6.08pct vs YE2024 96522404
 bud_olvt_sint_blasius_fte_jr2025_statutory,vzw_olvt_sint_blasius,2025,1120,,,CW social-balance FTE,src_olvt_sint_blasius_jr2025_cw,medium,tick2009; YE2025 FTE 1120
+bud_vlaamse_zorgkas_omzet_jr2025_statutory,vzw_vlaamse_zorgkas,2025,193923835,,,CW YE2025 omzet / Turnover,src_vlaamse_zorgkas_jr2025_cw,medium,tick2010 EVERY-10; omzet JUMP 193923835 +2.05pct vs YE2024 190022220
+bud_vlaamse_zorgkas_pnl_jr2025_statutory,vzw_vlaamse_zorgkas,2025,154861,,,CW YE2025 Profit/Loss,src_vlaamse_zorgkas_jr2025_cw,medium,tick2010 EVERY-10; pnl DROP 154861 -40.94pct vs YE2024 262200
+bud_vlaamse_zorgkas_equity_jr2025_statutory,vzw_vlaamse_zorgkas,2025,619261,,,CW YE2025 Eigen vermogen,src_vlaamse_zorgkas_jr2025_cw,medium,tick2010 EVERY-10; equity JUMP 619261 +33.35pct vs YE2024 464400; thin equity vs 194m omzet flow-through
+bud_vlaamse_zorgkas_bruto_jr2025_statutory,vzw_vlaamse_zorgkas,2025,4620876,,,CW YE2025 Brutomarge,src_vlaamse_zorgkas_jr2025_cw,medium,tick2010 EVERY-10; bruto JUMP 4620876 +66.61pct vs YE2024 2773452
+bud_vlaamse_zorgkas_fte_jr2025_statutory,vzw_vlaamse_zorgkas,2025,0,,,CW social-balance FTE,src_vlaamse_zorgkas_jr2025_cw,medium,tick2010 EVERY-10; YE2025 FTE 0 (staff via Departement Zorg path)

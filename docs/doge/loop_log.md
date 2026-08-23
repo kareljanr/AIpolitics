@@ -23089,3 +23089,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_olvt_sint_blasius); foi + draft gap_olvt_sint_blasius_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2009=done + rq_2010 open (EVERY-10); loop_state ticks=2009; raw under docs/doge/data/raw/tick2009/.
 - FOI: **ready not sent** (human-gated; info@azsintblasius.be).
 - NOT every-10 (**next every-10 is 2010**). Next: rq_2010 (EVERY-10 + AGB/FARO-if-YE2025 / AIESH-REW / Vlaamse Zorgkas / unused DSO-IGS-HVZ).
+
+
+## Tick 2010 - 2026-08-24T06:55:00Z - rq_2010 EVERY-10 + Vlaamse Zorgkas (omzet JUMP 193.92m / pnl DROP 0.15m / Medium)
+
+- Unit: **rq_2010** EVERY-10 mandatory + leftover dual after **rq_2009 OLVT/AZ Sint-Blasius**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Zottegem/Turnhout/Waregem/Yperman CW **N/A omzet**. Took preferred leftover **Vlaamse Zorgkas** YE2025 (KBO **0475.581.694**; Simon Bolivarlaan 17 Brussel; **public VL zorgkas VZW** under Departement Zorg). Do not redo OLVT/AZ Oostende/Glorieux/Alma/Herentals/Vitaz/Emmaüs/AZORG/Z.org/AZ Delta/AZJP/ZAS.
+- EVERY-10: refreshed **progress_every_10_ticks.md** (tick 2010 snapshot; residual dual 2001-2010) + **doge_waste_top10_current.md** (pure annual top10 stable GIP/fossil/cars/cheque/reporté; NEW residual dual off-top10).
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR193,923,835** JUMP +2.05%; pnl **EUR154,861** DROP −40.94%; equity **EUR619,261** JUMP +33.35% (thin vs flow); bruto **EUR4,620,876** JUMP +66.61%; FTE **0**; neerlegging **02.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 0 VE; email vlaamsezorgkas@vlaanderen.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_vlaamse_zorgkas); foi + draft gap_vlaamse_zorgkas_nbb_pdf_assets_debt_pnl_drop_matrix_l5; progress+top10; rq_2010=done + rq_2011 open; loop_state ticks=2010; raw under docs/doge/data/raw/tick2010/.
+- FOI: **ready not sent** (human-gated; vlaamsezorgkas@vlaanderen.be).
+- EVERY-10 done. Next every-10 **2020**. Next: rq_2011 (AGB/FARO-if-YE2025 / AIESH-REW / Heilig Hart Lier-Sint-Jan-Vesalius / unused DSO-IGS-HVZ).
