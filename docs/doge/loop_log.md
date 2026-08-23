@@ -23135,3 +23135,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_heilig_hart_leuven); foi + draft gap_heilig_hart_leuven_nbb_pdf_assets_debt_pnl_collapse_matrix_l5; rq_2014=done + rq_2015 open; loop_state ticks=2014; raw under docs/doge/data/raw/tick2014/.
 - FOI: **ready not sent** (human-gated; info@hhleuven.be).
 - NOT every-10 (**next every-10 is 2020**). Next: rq_2015 (AGB/FARO-if-YE2025 / AIESH-REW / AZ Zeno-Vesalius / unused DSO-IGS-HVZ).
+
+
+## Tick 2015 - 2026-08-24T08:10:00Z - rq_2015 Heilig Hart Tienen (omzet JUMP 138.50m / pnl DROP 0.82m / Medium)
+
+- Unit: **rq_2015** leftover dual after **rq_2014 Heilig Hart Leuven**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024** (filed 17.07.2025); REW still **YE2024** (filed 11.12.2025). AZ Zeno CW still labels year **2008** despite filing 02.07.2026 — deferred (no invented YE2025). Took unused leftover **Heilig Hart Tienen** YE2025 (KBO **0408.228.557**; Kliniekstraat 45 Tienen; Vlaams-Brabant **hospital VZW**). Do not redo HH Leuven/Sint-Trudo/Sint-Andries Tielt/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/Werken Glorieux/AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR138,497,861** JUMP +4.41%; pnl **EUR820,951** DROP −62.43%; equity **EUR72,199,492** JUMP +4.09%; bruto **EUR64,664,813** JUMP +4.49%; FTE **710.4**; neerlegging **27.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 3 VE; email communicatiedienst@rztienen.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_hh_tienen); foi + draft gap_hh_tienen_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2015=done + rq_2016 open; loop_state ticks=2015; raw under docs/doge/data/raw/tick2015/.
+- FOI: **ready not sent** (human-gated; communicatiedienst@rztienen.be).
+- NOT every-10 (**next every-10 is 2020**). Next: rq_2016 (AGB/FARO-if-YE2025 / AIESH-REW / AZ Zeno-if-clarified / Vesalius-Klina / unused DSO-IGS-HVZ).

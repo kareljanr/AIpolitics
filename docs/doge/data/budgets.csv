@@ -52130,3 +52130,8 @@ bud_heilig_hart_leuven_pnl_jr2025_statutory,vzw_heilig_hart_leuven,2025,8990,,,C
 bud_heilig_hart_leuven_equity_jr2025_statutory,vzw_heilig_hart_leuven,2025,46843891,,,CW YE2025 Eigen vermogen,src_heilig_hart_leuven_jr2025_cw,medium,tick2014; equity DROP 46843891 -1.12pct vs YE2024 47372337
 bud_heilig_hart_leuven_bruto_jr2025_statutory,vzw_heilig_hart_leuven,2025,59136126,,,CW YE2025 Brutomarge,src_heilig_hart_leuven_jr2025_cw,medium,tick2014; bruto JUMP 59136126 +4.14pct vs YE2024 56786211
 bud_heilig_hart_leuven_fte_jr2025_statutory,vzw_heilig_hart_leuven,2025,626.7,,,CW social-balance FTE,src_heilig_hart_leuven_jr2025_cw,medium,tick2014; YE2025 FTE 626.7
+bud_hh_tienen_omzet_jr2025_statutory,vzw_hh_tienen,2025,138497861,,,CW YE2025 omzet / Turnover,src_hh_tienen_jr2025_cw,medium,tick2015; omzet JUMP 138497861 +4.41pct vs YE2024 132643366
+bud_hh_tienen_pnl_jr2025_statutory,vzw_hh_tienen,2025,820951,,,CW YE2025 Profit/Loss,src_hh_tienen_jr2025_cw,medium,tick2015; pnl DROP 820951 -62.43pct vs YE2024 2185210
+bud_hh_tienen_equity_jr2025_statutory,vzw_hh_tienen,2025,72199492,,,CW YE2025 Eigen vermogen,src_hh_tienen_jr2025_cw,medium,tick2015; equity JUMP 72199492 +4.09pct vs YE2024 69360227
+bud_hh_tienen_bruto_jr2025_statutory,vzw_hh_tienen,2025,64664813,,,CW YE2025 Brutomarge,src_hh_tienen_jr2025_cw,medium,tick2015; bruto JUMP 64664813 +4.49pct vs YE2024 61884912
+bud_hh_tienen_fte_jr2025_statutory,vzw_hh_tienen,2025,710.4,,,CW social-balance FTE,src_hh_tienen_jr2025_cw,medium,tick2015; YE2025 FTE 710.4
