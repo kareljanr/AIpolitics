@@ -52055,3 +52055,8 @@ bud_azjp_pnl_jr2025_statutory,vzw_azjp,2025,-814870,,,CW YE2025 Profit/Loss,src_
 bud_azjp_equity_jr2025_statutory,vzw_azjp,2025,43356483,,,CW YE2025 Eigen vermogen,src_azjp_jr2025_cw,medium,tick1999; equity DROP 43356483 -1.85pct vs YE2024 44173608
 bud_azjp_bruto_jr2025_statutory,vzw_azjp,2025,55640098,,,CW YE2025 Brutomarge,src_azjp_jr2025_cw,medium,tick1999; bruto JUMP 55640098 +2.68pct vs YE2024 54189104
 bud_azjp_fte_jr2025_statutory,vzw_azjp,2025,625.7,,,CW social-balance FTE,src_azjp_jr2025_cw,medium,tick1999; YE2025 FTE 625.7
+bud_az_delta_omzet_jr2025_statutory,vzw_az_delta,2025,739723776,,,CW YE2025 omzet / Turnover,src_az_delta_jr2025_cw,medium,tick2000 EVERY-10; omzet JUMP 739723776 +5.33pct vs YE2024 702277943
+bud_az_delta_pnl_jr2025_statutory,vzw_az_delta,2025,8653379,,,CW YE2025 Profit/Loss,src_az_delta_jr2025_cw,medium,tick2000 EVERY-10; pnl JUMP 8653379 +3.51pct vs YE2024 8359915
+bud_az_delta_equity_jr2025_statutory,vzw_az_delta,2025,430457306,,,CW YE2025 Eigen vermogen,src_az_delta_jr2025_cw,medium,tick2000 EVERY-10; equity DROP 430457306 -0.31pct vs YE2024 431794675
+bud_az_delta_bruto_jr2025_statutory,vzw_az_delta,2025,341774840,,,CW YE2025 Brutomarge,src_az_delta_jr2025_cw,medium,tick2000 EVERY-10; bruto JUMP 341774840 +4.28pct vs YE2024 327733659
+bud_az_delta_fte_jr2025_statutory,vzw_az_delta,2025,3481.4,,,CW social-balance FTE,src_az_delta_jr2025_cw,medium,tick2000 EVERY-10; YE2025 FTE 3481.4

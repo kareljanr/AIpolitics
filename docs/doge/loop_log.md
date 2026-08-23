@@ -22998,3 +22998,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_azjp); foi + draft gap_azjp_nbb_pdf_assets_debt_pnl_loss_equity_drop_matrix_l5; rq_1999=done + rq_2000 open (EVERY-10); loop_state ticks=1999; raw under docs/doge/data/raw/tick1999/.
 - FOI: **ready not sent** (human-gated; info@azjanportaels.be).
 - NOT every-10 (**next every-10 is 2000**). Next: rq_2000 (EVERY-10 progress + AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-hospital).
+
+
+## Tick 2000 - 2026-08-24T03:50:00Z - rq_2000 EVERY-10 + AZ Delta (omzet JUMP 739.72m / pnl JUMP 8.65m / Medium)
+
+- Unit: **rq_2000** EVERY-10 mandatory + leftover dual after **rq_1999 AZJP**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**. AZ Groeninge CW N/A omzet. Took unused leftover **AZ Delta** YE2025 (KBO **0505.931.808**; Deltalaan 1 Roeselare; West-Flanders **hospital VZW**). Do not redo AZJP/ZAS/CHR Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC.
+- EVERY-10: refreshed **progress_every_10_ticks.md** (tick 2000 snapshot; residual dual 1991-2000) + **doge_waste_top10_current.md** (pure annual top10 stable GIP/fossil/cars/cheque/reporté; NEW residual dual off-top10).
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR739,723,776** JUMP +5.33%; pnl **EUR8,653,379** JUMP +3.51%; equity **EUR430,457,306** DROP −0.31%; bruto **EUR341,774,840** JUMP +4.28%; FTE **3481.4**; neerlegging **29.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 6 VE; no KBO email (route via azdelta.be).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_az_delta); foi + draft gap_az_delta_nbb_pdf_assets_debt_matrix_l5; progress+top10; rq_2000=done + rq_2001 open; loop_state ticks=2000; raw under docs/doge/data/raw/tick2000/.
+- FOI: **ready not sent** (human-gated; route via azdelta.be).
+- EVERY-10 done. Next every-10 **2010**. Next: rq_2001 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-hospital).
