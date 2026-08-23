@@ -23269,3 +23269,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_de_foyer_gent); foi + draft gap_wzc_de_foyer_gent_nbb_pdf_assets_debt_pnl_recovery_matrix_l5; rq_2028=done + rq_2029 open; loop_state ticks=2028; raw under docs/doge/data/raw/tick2028/.
 - FOI: **ready not sent** (human-gated; info@wzcdefoyer.be).
 - NOT every-10 (**next every-10 is 2030**). Next: rq_2029 (AGB/FARO-if-YE2025 / AIESH-REW / Bethanie-Karus / unused DSO-IGS-HVZ).
+
+
+## Tick 2029 - 2026-08-24T11:55:00Z - rq_2029 Karus (omzet JUMP 70.08m / pnl JUMP 1.76m / Medium)
+
+- Unit: **rq_2029** leftover dual after **rq_2028 WZC De Foyer Gent**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took preferred leftover **Karus** YE2025 (KBO **0861.314.369**; Caritasstraat 76 Merelbeke-Melle; Oost-Vlaanderen **psych VZW**). Bethanie/Emmaüs deferred (double-count risk). Do not redo De Foyer/Ternat/Zilverbos/Sint Carolus Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara Herselt/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/Emmaüs.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR70,079,391** JUMP +4.93%; pnl **EUR1,756,084** JUMP +25.48%; equity **EUR92,800,700** JUMP +1.24%; bruto **EUR56,053,974** DROP −1.24%; FTE **639.3**; neerlegging **27.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 8 VE; email info@karus.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_karus); foi + draft gap_karus_nbb_pdf_assets_debt_matrix_l5; rq_2029=done + rq_2030 open (EVERY-10); loop_state ticks=2029; raw under docs/doge/data/raw/tick2029/.
+- FOI: **ready not sent** (human-gated; info@karus.be).
+- NOT every-10 (**next every-10 is 2030**). Next: rq_2030 EVERY-10 (progress refresh + AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).

@@ -52200,3 +52200,8 @@ bud_wzc_de_foyer_gent_pnl_jr2025_statutory,vzw_wzc_de_foyer_gent,2025,38805,,,CW
 bud_wzc_de_foyer_gent_equity_jr2025_statutory,vzw_wzc_de_foyer_gent,2025,714486,,,CW YE2025 Eigen vermogen,src_wzc_de_foyer_gent_jr2025_cw,medium,tick2028; equity JUMP 714486 +5.74pct vs YE2024 675680; thin vs 19m omzet
 bud_wzc_de_foyer_gent_bruto_jr2025_statutory,vzw_wzc_de_foyer_gent,2025,12366559,,,CW YE2025 Brutomarge,src_wzc_de_foyer_gent_jr2025_cw,medium,tick2028; bruto DROP 12366559 -2.29pct vs YE2024 12655960
 bud_wzc_de_foyer_gent_fte_jr2025_statutory,vzw_wzc_de_foyer_gent,2025,188.1,,,CW social-balance FTE,src_wzc_de_foyer_gent_jr2025_cw,medium,tick2028; YE2025 FTE 188.1
+bud_karus_omzet_jr2025_statutory,vzw_karus,2025,70079391,,,CW YE2025 omzet / Turnover,src_karus_jr2025_cw,medium,tick2029; omzet JUMP 70079391 +4.93pct vs YE2024 66786071
+bud_karus_pnl_jr2025_statutory,vzw_karus,2025,1756084,,,CW YE2025 Profit/Loss,src_karus_jr2025_cw,medium,tick2029; pnl JUMP 1756084 +25.48pct vs YE2024 1399527
+bud_karus_equity_jr2025_statutory,vzw_karus,2025,92800700,,,CW YE2025 Eigen vermogen,src_karus_jr2025_cw,medium,tick2029; equity JUMP 92800700 +1.24pct vs YE2024 91665733
+bud_karus_bruto_jr2025_statutory,vzw_karus,2025,56053974,,,CW YE2025 Brutomarge,src_karus_jr2025_cw,medium,tick2029; bruto DROP 56053974 -1.24pct vs YE2024 56759855
+bud_karus_fte_jr2025_statutory,vzw_karus,2025,639.3,,,CW social-balance FTE,src_karus_jr2025_cw,medium,tick2029; YE2025 FTE 639.3
