@@ -22963,3 +22963,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_haute_senne); foi + draft gap_haute_senne_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_1995=done + rq_1996 open; loop_state ticks=1995; raw under docs/doge/data/raw/tick1995/.
 - FOI: **ready not sent** (human-gated; officiel.pr-chrhautesenne@chrhautesenne.be).
 - NOT every-10 (**next every-10 is 2000**). Next: rq_1996 (AGB/FARO-if-YE2025 / AIESH-REW / CNDG / CHR Verviers / Erasme-UZ / unused DSO-IGS-HVZ).
+
+
+## Tick 1996 - 2026-08-24T02:35:00Z - rq_1996 CNDG (omzet JUMP 149.61m / pnl DROP 2.08m / Medium)
+
+- Unit: **rq_1996** leftover dual after **rq_1995 Haute Senne**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **CNDG** YE2025 (KBO **0401.690.559**; Chaussée de Nivelles 212 Charleroi/Gosselies; Hainaut **hospital VZW**; RHCM with GHdC). **CHR Verviers** YE2025 also live deferred. Do not redo Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC/Tivoli/Citadelle/ISoSL/Epicura/CHwapi/CHU UCL Namur/Vivalia.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR149,607,630** JUMP +8.00%; pnl **EUR2,075,700** DROP −60.08%; equity **EUR49,691,163** JUMP +3.53%; bruto **EUR71,781,535** JUMP +3.25%; FTE **890.4**; neerlegging **16.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; no KBO email (route via cndg.be).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_cndg); foi + draft gap_cndg_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_1996=done + rq_1997 open; loop_state ticks=1996; raw under docs/doge/data/raw/tick1996/.
+- FOI: **ready not sent** (human-gated; route via cndg.be).
+- NOT every-10 (**next every-10 is 2000**). Next: rq_1997 (AGB/FARO-if-YE2025 / AIESH-REW / CHR Verviers / unused DSO-IGS-HVZ).

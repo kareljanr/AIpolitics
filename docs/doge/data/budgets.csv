@@ -52035,3 +52035,8 @@ bud_haute_senne_pnl_jr2025_statutory,vzw_haute_senne,2025,893431,,,CW YE2025 Pro
 bud_haute_senne_equity_jr2025_statutory,vzw_haute_senne,2025,37330673,,,CW YE2025 Eigen vermogen,src_haute_senne_jr2025_cw,medium,tick1995; equity JUMP 37330673 +0.7pct vs YE2024 37071453
 bud_haute_senne_bruto_jr2025_statutory,vzw_haute_senne,2025,59033630,,,CW YE2025 Brutomarge,src_haute_senne_jr2025_cw,medium,tick1995; bruto JUMP 59033630 +6.2pct vs YE2024 55587177
 bud_haute_senne_fte_jr2025_statutory,vzw_haute_senne,2025,710,,,CW social-balance FTE,src_haute_senne_jr2025_cw,medium,tick1995; YE2025 FTE 710
+bud_cndg_omzet_jr2025_statutory,vzw_cndg,2025,149607630,,,CW YE2025 omzet / Turnover,src_cndg_jr2025_cw,medium,tick1996; omzet JUMP 149607630 +8.00pct vs YE2024 138524066
+bud_cndg_pnl_jr2025_statutory,vzw_cndg,2025,2075700,,,CW YE2025 Profit/Loss,src_cndg_jr2025_cw,medium,tick1996; pnl DROP 2075700 -60.08pct vs YE2024 5200110
+bud_cndg_equity_jr2025_statutory,vzw_cndg,2025,49691163,,,CW YE2025 Eigen vermogen,src_cndg_jr2025_cw,medium,tick1996; equity JUMP 49691163 +3.53pct vs YE2024 47999008
+bud_cndg_bruto_jr2025_statutory,vzw_cndg,2025,71781535,,,CW YE2025 Brutomarge,src_cndg_jr2025_cw,medium,tick1996; bruto JUMP 71781535 +3.25pct vs YE2024 69520849
+bud_cndg_fte_jr2025_statutory,vzw_cndg,2025,890.4,,,CW social-balance FTE,src_cndg_jr2025_cw,medium,tick1996; YE2025 FTE 890.4
