@@ -52447,3 +52447,8 @@ bud_de_zwaluw_pnl_jr2025_statutory,nv_wzc_de_zwaluw_pajottegem,2025,1429803,1429
 bud_de_zwaluw_equity_jr2025_statutory,nv_wzc_de_zwaluw_pajottegem,2025,9070655,9070655,9070655,CW YE2025 Eigen vermogen / Equity,src_de_zwaluw_jr2025_cw_en,medium,tick2077; JUMP +18.71% vs YE2024 7640852
 bud_de_zwaluw_bruto_jr2025_statutory,nv_wzc_de_zwaluw_pajottegem,2025,3910864,3910864,3910864,CW YE2025 Brutomarge / Gross margin,src_de_zwaluw_jr2025_cw_en,medium,tick2077; DROP -0.67% vs YE2024 3937196
 bud_de_zwaluw_fte_jr2025_statutory,nv_wzc_de_zwaluw_pajottegem,2025,69.0,69.0,69.0,CW social-balance FTE,src_de_zwaluw_jr2025_cw_en,medium,tick2077; FTE DROP 69.0 (-14.29%) vs YE2024 80.5
+bud_ten_anker_omzet_jr2025_statutory,vzw_wzc_ten_anker_nieuwpoort,2025,9205489,9205489,9205489,CW YE2025 omzet / Turnover,src_ten_anker_jr2025_cw_en,medium,tick2078; JUMP +4.87% vs YE2024 8778035
+bud_ten_anker_pnl_jr2025_statutory,vzw_wzc_ten_anker_nieuwpoort,2025,771022,771022,771022,CW YE2025 Profit/Loss,src_ten_anker_jr2025_cw_en,medium,tick2078; JUMP vs YE2024 442065 (JUMP +74.41%)
+bud_ten_anker_equity_jr2025_statutory,vzw_wzc_ten_anker_nieuwpoort,2025,2874512,2874512,2874512,CW YE2025 Eigen vermogen / Equity,src_ten_anker_jr2025_cw_en,medium,tick2078; JUMP +35.75% vs YE2024 2117532
+bud_ten_anker_bruto_jr2025_statutory,vzw_wzc_ten_anker_nieuwpoort,2025,9039288,9039288,9039288,CW YE2025 Brutomarge / Gross margin,src_ten_anker_jr2025_cw_en,medium,tick2078; JUMP +2.51% vs YE2024 8817663
+bud_ten_anker_fte_jr2025_statutory,vzw_wzc_ten_anker_nieuwpoort,2025,109.3,109.3,109.3,CW social-balance FTE / Employees,src_ten_anker_jr2025_cw_en,medium,tick2078; FTE DROP 109.3 (-1.62%) vs YE2024 111.1

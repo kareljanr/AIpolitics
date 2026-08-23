@@ -23744,3 +23744,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.1); entities (+1 nv_wzc_de_zwaluw_pajottegem); foi + draft gap_de_zwaluw_nbb_pdf_assets_debt_pnl_flip_fte_drop_matrix_l5; rq_2077=done + rq_2078 open; loop_state ticks=2077; raw under docs/doge/data/raw/tick2077/.
 - FOI: **ready not sent** (human-gated; info.zwaluw@cura-care.be).
 - NOT every-10 (**next every-10 is 2080**). Next: rq_2078 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2078 - 2026-08-25T00:35:00Z - rq_2078 Ten Anker Nieuwpoort (omzet JUMP 9.21m / pnl JUMP 0.77m / Medium)
+
+- Unit: **rq_2078** leftover dual after **rq_2077 De Zwaluw**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took preferred deferred leftover **Woon- en Zorgcentrum Ten Anker Nieuwpoort** YE2025 (KBO **0475.837.260**; Albert I laan 71 Nieuwpoort; West-Vlaanderen **aanbestedende-overheid VZW** WZC / **1 VE**; ~136 beds + kortverblijf/dagverblijf/LDC). Do not redo De Zwaluw/ZorgWelzijn Kuurne/SJ Brugge/HH Grimbergen/Mater Amabilis/Maria Moorslede/MSW NZVL/Welvaart/Vulpia/Compostela/Leiehome/Deinze/OLV Bornem/Huize SJ Ieper/Sint-Antonius/Wezembeek/Ter Burg/Christine/Vrijzicht/Pandje/Groep Zorg H. Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/Armonea/Always Home/Maria Ingelmunster/SJ Rumst/Rillaar.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR9205489** JUMP +4.87%; pnl **PROFIT EUR771022** JUMP vs YE2024 PROFIT EUR442065; equity **EUR2874512** JUMP +35.75%; bruto **EUR9039288** JUMP +2.51%; FTE **109.3** DROP -1.62% vs YE2024 111.1; neerlegging **12.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende overheid 1 VE; email info@tenanker.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_wzc_ten_anker_nieuwpoort); foi + draft gap_ten_anker_nbb_pdf_assets_debt_pnl_jump_fte_drop_matrix_l5; rq_2078=done + rq_2079 open; loop_state ticks=2078; raw under docs/doge/data/raw/tick2078/.
+- FOI: **ready not sent** (human-gated; info@tenanker.be).
+- NOT every-10 (**next every-10 is 2080**). Next: rq_2079 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
