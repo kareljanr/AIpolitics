@@ -21562,3 +21562,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities cv_denderstroom; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1834=done + rq_1835 spawned; loop_state ticks=1834; FOI draft gap_denderstroom_bruto_0_21m_fva_0_76m_dividend_0_05m_l5.md
 - FOI opened: gap_denderstroom_bruto_0_21m_fva_0_76m_dividend_0_05m_l5 (**ready**, human-send only)
 - NOT every-10 (next **1840**). Next: rq_1835 (CO2logic-if-200 / AGB / Dijk92 / FARO).
+
+## Tick 1835 - 2026-08-25T15:25:00Z - rq_1835 CO2logic NV (FVA JUMP 2.00m / Klimaatactie 0.26m / expl sub 0.11m)
+
+- Unit: **rq_1835** leftover dual residual after Denderstroom; preferred AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2024. Took deferred live **CO2logic NV** (South Pole BE carbon consultancy/offset; KBO **0886.147.359**; parent South Pole Holding Ltd CH).
+- Primary (strong, NBB VOL-kap [2026-00114373](http://cdn.staatsbladmonitor.be/2026pdf/2026-00114373.pdf) CDN 200 / 52p 807790 bytes; AV **28.04.2026**; commissaris DGST zonder voorbehoud): assets DROP **EUR12,239,742**; FVA JUMP **EUR2,158,014** (connected recv **2,000,000**); connected ST recv **EUR4,517,220** / ST debt **EUR773,034**; omzet **EUR9,967,910**; expl sub (740) **EUR106,877**; Klimaatactie deferred **EUR259,526**; pers DROP **EUR2,825,842** VTE **29.5**; expl flip **EUR649,960**; PnL flip **EUR744,869** (all to reserves; dividend **0**); debt **EUR6,291,493**; cash DROP **EUR1,371,021**; carbon inventory **EUR670,037**; nrec fin **EUR172,933** (Airscan path).
+- Wrote: entities nv_co2logic; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1835=done + rq_1836 spawned; loop_state ticks=1835; FOI draft gap_co2logic_fva_2m_klimaatactie_0_26m_subs_0_11m_l5.md
+- FOI opened: gap_co2logic_fva_2m_klimaatactie_0_26m_subs_0_11m_l5 (**ready**, human-send only)
+- NOT every-10 (next **1840**). Next: rq_1836 (AGB / Dijk92 / FARO / IGS).
+
