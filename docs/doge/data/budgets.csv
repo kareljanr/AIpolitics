@@ -52000,3 +52000,8 @@ bud_citadelle_pnl_jr2025_statutory,igs_chr_citadelle,2025,2232230,,,CW YE2025 Pr
 bud_citadelle_equity_jr2025_statutory,igs_chr_citadelle,2025,81050938,,,CW YE2025 Eigen vermogen,src_citadelle_jr2025_cw,medium,tick1988; equity JUMP 81050938 +68.29pct vs YE2024 48160146
 bud_citadelle_bruto_jr2025_statutory,igs_chr_citadelle,2025,283029421,,,CW YE2025 Brutomarge,src_citadelle_jr2025_cw,medium,tick1988; bruto JUMP 283029421 +5.1pct vs YE2024 269286915
 bud_citadelle_fte_jr2025_statutory,igs_chr_citadelle,2025,3235,,,CW social-balance FTE,src_citadelle_jr2025_cw,medium,tick1988; YE2025 FTE 3235 vs YE2024 3209
+bud_chu_tivoli_omzet_jr2025_statutory,vzw_chu_tivoli,2025,252947458,,,CW YE2025 omzet / Turnover,src_chu_tivoli_jr2025_cw,medium,tick1989; omzet JUMP 252947458 +3.94pct vs YE2024 243356645
+bud_chu_tivoli_pnl_jr2025_statutory,vzw_chu_tivoli,2025,4949133,,,CW YE2025 Profit/Loss,src_chu_tivoli_jr2025_cw,medium,tick1989; pnl JUMP 4949133 +7.31pct vs YE2024 4612157
+bud_chu_tivoli_equity_jr2025_statutory,vzw_chu_tivoli,2025,43135426,,,CW YE2025 Eigen vermogen,src_chu_tivoli_jr2025_cw,medium,tick1989; equity JUMP 43135426 +31.16pct vs YE2024 32886828
+bud_chu_tivoli_bruto_jr2025_statutory,vzw_chu_tivoli,2025,131470767,,,CW YE2025 Brutomarge,src_chu_tivoli_jr2025_cw,medium,tick1989; bruto JUMP 131470767 +2.97pct vs YE2024 127672574
+bud_chu_tivoli_fte_jr2025_statutory,vzw_chu_tivoli,2025,1588,,,CW social-balance FTE,src_chu_tivoli_jr2025_cw,medium,tick1989; YE2025 FTE 1588 vs YE2024 1557

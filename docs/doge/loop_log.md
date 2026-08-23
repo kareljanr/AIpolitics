@@ -22904,3 +22904,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1990**). Next: rq_1989 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-hospital).
 
+## Tick 1989 - 2026-08-24T00:40:00Z - rq_1989 CHU Tivoli (omzet JUMP 252.95m / equity JUMP 43.14m +31pct / Medium)
+
+- Unit: **rq_1989** leftover dual after **rq_1988 CHR Citadelle**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took unused leftover **CHU Tivoli** YE2025 (KBO **0401.793.202**; Avenue Max Buset 34 La Louviere; Hainaut **university hospital ASBL**). **CHBA** YE2025 also live deferred. Do not redo Citadelle/ISoSL/CHU UCL Namur/Epicura/CHwapi/Vivalia/HELORA/IDETA/SPI/IDELUX Finances/IFIGA/SOFILUX/IDEFIN/FINIMO/FINEST/HYGEA/BEP*/IBH/IGRETEC/IPFBW/IDEA.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR252,947,458** JUMP +3.94%; pnl **EUR4,949,133** JUMP +7.31%; equity **EUR43,135,426** JUMP **+31.16%**; bruto **EUR131,470,767** JUMP +2.97%; FTE **1588**; neerlegging **10.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief ASBL; no KBO email.
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_chu_tivoli); foi + draft gap_chu_tivoli_nbb_pdf_assets_debt_equity_jump_matrix_l5; rq_1989=done + rq_1990 open (EVERY-10); loop_state ticks=1989.
+- FOI: **ready not sent** (human-gated; route via chu-tivoli.be).
+- NOT every-10 (**next every-10 is 1990**). Next: rq_1990 (EVERY-10 progress + AGB/FARO-if-YE2025 / AIESH-REW / CHBA / unused DSO-IGS-HVZ).
+
