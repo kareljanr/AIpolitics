@@ -52342,3 +52342,8 @@ bud_westerhauwe_pnl_jr2025_statutory,vzw_huize_westerhauwe,2025,-228705,,,CW YE2
 bud_westerhauwe_equity_jr2025_statutory,vzw_huize_westerhauwe,2025,1407861,,,CW YE2025 Eigen vermogen / Equity,src_westerhauwe_jr2025_cw_en,medium,tick2056; equity DROP 1407861 -13.99pct vs YE2024 1636786
 bud_westerhauwe_bruto_jr2025_statutory,vzw_huize_westerhauwe,2025,3143282,,,CW YE2025 Brutomarge / Gross margin,src_westerhauwe_jr2025_cw_en,medium,tick2056; bruto JUMP 3143282 +5.83pct vs YE2024 2970116
 bud_westerhauwe_fte_jr2025_statutory,vzw_huize_westerhauwe,2025,37.8,,,CW social-balance FTE,src_westerhauwe_jr2025_cw_en,medium,tick2056; YE2025 FTE 37.8
+bud_h_familie_omzet_jr2025_statutory,vzw_groep_zorg_h_familie,2025,62090224,,,CW YE2025 omzet / Turnover,src_h_familie_jr2025_cw_en,medium,tick2057; omzet JUMP 62090224 +2.96pct vs YE2024 60304985
+bud_h_familie_pnl_jr2025_statutory,vzw_groep_zorg_h_familie,2025,2799756,,,CW YE2025 Profit/Loss,src_h_familie_jr2025_cw_en,medium,tick2057; pnl DROP 2799756 -41.73pct vs YE2024 4805062
+bud_h_familie_equity_jr2025_statutory,vzw_groep_zorg_h_familie,2025,77102105,,,CW YE2025 Eigen vermogen / Equity,src_h_familie_jr2025_cw_en,medium,tick2057; equity JUMP 77102105 +6.98pct vs YE2024 72072016
+bud_h_familie_bruto_jr2025_statutory,vzw_groep_zorg_h_familie,2025,65849946,,,CW YE2025 Brutomarge / Gross margin,src_h_familie_jr2025_cw_en,medium,tick2057; bruto JUMP 65849946 +7.93pct vs YE2024 61009339
+bud_h_familie_fte_jr2025_statutory,vzw_groep_zorg_h_familie,2025,748.5,,,CW social-balance FTE,src_h_familie_jr2025_cw_en,medium,tick2057; YE2025 FTE 748.5

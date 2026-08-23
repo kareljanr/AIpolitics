@@ -23546,3 +23546,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.7); entities (+1 vzw_huize_westerhauwe); foi + draft gap_westerhauwe_nbb_pdf_assets_debt_pnl_flip_loss_matrix_l5; rq_2056=done + rq_2057 open; loop_state ticks=2056; raw under docs/doge/data/raw/tick2056/.
 - FOI: **ready not sent** (human-gated; info@huize-westerhauwe.be).
 - NOT every-10 (**next every-10 is 2060**). Next: rq_2057 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2057 - 2026-08-24T19:20:00Z - rq_2057 Groep Zorg H. Familie (omzet JUMP 62.09m / pnl DROP 2.80m / Medium)
+
+- Unit: **rq_2057** leftover dual after **rq_2056 Huize Westerhauwe**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took unused leftover **Groep Zorg H. Familie** YE2025 (KBO **0414.693.113**; Plein 26 Kortrijk; West-Vlaanderen **aanbestedende-overheid VZW** multi-site ouderenzorg/GGZ/VAPH / **16 VE**). Do not redo Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/C.W.Z.C. Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Sint-Jozef Rumst/Veilige Have/Witte Meren.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR62,090,224** JUMP +2.96%; pnl **EUR2,799,756** DROP −41.73%; equity **EUR77,102,105** JUMP +6.98%; bruto **EUR65,849,946** JUMP +7.93%; FTE **748.5**; neerlegging **18.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende overheid 16 VE; email info@zorghf.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.0); entities (+1 vzw_groep_zorg_h_familie); foi + draft gap_groep_zorg_h_familie_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2057=done + rq_2058 open; loop_state ticks=2057; raw under docs/doge/data/raw/tick2057/.
+- FOI: **ready not sent** (human-gated; info@zorghf.be).
+- NOT every-10 (**next every-10 is 2060**). Next: rq_2058 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
