@@ -20,6 +20,39 @@
 
 ---
 
+## Snapshot at **tick 1840** (2026-08-25)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1831-1840 Eneco/REScoop continuum after 1830 citizen renewable batch |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1831-1840 is residual dual L5 (not near-complete of 348bn):** **Vlaskracht** FVA JUMP **1.02m** · **Aspiravi Offshore** FVA **126.3m** / PnL DROP **2.23m** · **EnDev-R** omzet DROP **0.79m** · **Denderstroom** bruto JUMP **0.21m** / EnDev FVA **0.76m** · **CO2logic** FVA JUMP **2.16m** / Klimaatactie **0.26m** · **Enebra** CDN **403** FOI · **Stroomvloed Wind** EnDev FVA **0.59m** / BE guarantee **0.36m** · **Williwaw** connected LT **4.94m** / omzet JUMP **0.73m** · **Newcastle** connected **9.38m** / omzet DROP **2.88m** / Walloon dismantle **0.70m** · **Sirocco** connected **28.75m** / dividend JUMP **1.50m** / WOW **15pct** |
+| **E. FOI-ready gaps** | **~1457** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1506** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable shells** (**NEW Eneco continuum** Sirocco connected **EUR28.75m** / WOW public **15pct** · Newcastle connected **EUR9.38m** / Walloon dismantle **EUR0.70m** · Williwaw connected LT **EUR4.94m** · Aspiravi Offshore FVA **EUR126.3m** · EnDev-R / Stroomvloed Wind / Denderstroom / Vlaskracht · CO2logic Klimaatactie · prior **citizen renewable / IKA Storm* / Zefier** / **VIVALTO LEASE** RIVAGE gage **EUR135.6m** retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1840)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 51143 |
+| commitments.csv | 5474 |
+| leaderboard.csv | 7613 |
+| entities.csv | 1558 |
+| sources.csv | 4332 |
+| FOI ready | 1457 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1506 |
+| research_queue open | rq_116 deferred + rq_1841 hole-fill after progress |
+
+### What improved since tick 1830
+
+- **Eneco/REScoop continuum (tick1831-1840):** **Vlaskracht** · **Aspiravi Offshore** · **EnDev-R** · **Denderstroom** · **CO2logic** (South Pole) · **Enebra** FOI CDN403 · **Stroomvloed Wind** · **Williwaw** · **Newcastle Wind** · **Sirocco Wind** (Wallonia Offshore Wind **14.96pct** public dual).
+- **Blocked still:** AGB Bornem JR2024-only · Dijk92 YE2025 **2026-00377886** CDN **403** · Enebra **2026-00398169** CDN **403** · APEFE/NSZ CDN **403** · FARO NBB YE2025 still unpublished · Eneco Wind Belgium parent deposit unresolved · Electrastar/Ornoi/Perwez deferred live.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1850**.
+
 ## Snapshot at **tick 1830** (2026-08-25)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

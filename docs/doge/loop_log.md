@@ -21603,3 +21603,12 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_newcastle_connected_9_38m_omzet_drop_2_88m_loss_0_18m_l5 (**ready**, human-send only)
 - NOT every-10 (next **1840 MUST**). Next: rq_1840 (EVERY-10 + Sirocco/Electrastar-if-200 / AGB / Dijk92 / FARO).
 
+## Tick 1840 - 2026-08-25T17:30:00Z - rq_1840 EVERY-10 + Sirocco Wind NV (connected 28.75m / dividend JUMP 1.50m / WOW 15pct)
+
+- Unit: **rq_1840** EVERY-10 progress refresh + leftover dual residual; preferred AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2024. Took deferred live **Sirocco Wind NV** (Eneco **85.04%** + **Wallonia Offshore Wind 14.96%**; KBO **0891.140.879**; deposit **2025-00521824**). Electrastar/Ornoi/Perwez deferred.
+- Primary (strong, NBB C-cap [2025-00521824](http://cdn.staatsbladmonitor.be/2025pdf/2025-00521824.pdf) CDN 200 / 49p 621510 bytes; AV **03.09.2025**; YE **01.04.2024-31.03.2025**): assets DROP **EUR40,927,742**; MVA **EUR35,472,324**; omzet **EUR6,791,515**; expl DROP **EUR2,278,196**; fin kosten JUMP **EUR1,165,609**; PnL DROP **EUR1,112,588**; dividend JUMP **EUR1,500,000**; debt **EUR29,556,149** (connected **28,749,310**); equity **EUR11,101,647**; milieu JUMP **EUR269,945**; cash **EUR2,502,788**; VTE empty; SPARAXIS on board (WOW path).
+- EVERY-10: refreshed progress_every_10_ticks.md (tick 1840 snapshot) + doge_waste_top10_current.md (pure top10 stable GIP/fossil/cars/cheque/reporté; Eneco continuum 1831-1840 off-top10).
+- Wrote: entities nv_sirocco_wind; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; progress+waste every-10; research_queue rq_1840=done + rq_1841 spawned; loop_state ticks=1840; FOI draft gap_sirocco_connected_28_75m_dividend_1_50m_wow_15pct_l5.md
+- FOI opened: gap_sirocco_connected_28_75m_dividend_1_50m_wow_15pct_l5 (**ready**, human-send only)
+- Next every-10 **1850**. Next: rq_1841 (Electrastar/Ornoi/Perwez-if-200 / AGB / Dijk92 / FARO).
+
