@@ -51609,3 +51609,10 @@ bud_virya_assets_jr2025,nv_virya_energy,2025,908007572,,,Upswitch NBB/CBSO asset
 bud_virya_bruto_jr2025,nv_virya_energy,2025,-8196391,,,CW NBB-derived 9900,src_virya_jr2025_cw,medium,tick1927; YE2025 bruto NEG -8196391
 bud_virya_ebitda_jr2025,nv_virya_energy,2025,-14380535,,,Upswitch NBB/CBSO EBITDA,src_virya_jr2025_upswitch,medium,tick1927; YE2025 EBITDA NEG -14380535
 bud_virya_fte_jr2025,nv_virya_energy,2025,42,,,CW NBB-derived FTE 42.5,src_virya_jr2025_cw,medium,tick1927; YE2025 FTE 42.5 (stored 42)
+bud_nethys_omzet_jr2025,nv_nethys,2025,488102,,,CW NBB-derived omzet,src_nethys_jr2025_cw,medium,tick1928; YE2025 omzet 488102 JUMP +122.91pct
+bud_nethys_pnl_jr2025,nv_nethys,2025,18273407,,,CW NBB-derived 9904,src_nethys_jr2025_cw,medium,tick1928; YE2025 pnl 18273407 DROP -74.11pct
+bud_nethys_equity_jr2025,nv_nethys,2025,1649695701,,,CW/Upswitch NBB-derived 10/15,src_nethys_jr2025_cw,medium,tick1928; YE2025 equity 1649695701 DROP -1.42pct
+bud_nethys_assets_jr2025,nv_nethys,2025,1721309773,,,Upswitch NBB/CBSO assets,src_nethys_jr2025_upswitch,medium,tick1928; YE2025 assets 1721309773
+bud_nethys_bruto_jr2025,nv_nethys,2025,-1289355,,,CW NBB-derived 9900,src_nethys_jr2025_cw,medium,tick1928; YE2025 bruto NEG -1289355
+bud_nethys_ebitda_jr2025,nv_nethys,2025,-1761549,,,Upswitch NBB/CBSO EBITDA,src_nethys_jr2025_upswitch,medium,tick1928; YE2025 EBITDA NEG -1761549
+bud_nethys_fte_jr2025,nv_nethys,2025,9,,,CW NBB-derived FTE 8.8,src_nethys_jr2025_cw,medium,tick1928; YE2025 FTE 8.8 (stored 9)

@@ -22346,3 +22346,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_virya_nbb_pdf_share_fva_debt_l5; rq_1927=done + rq_1928 open; loop_state ticks=1927.
 - FOI opened: NBB PDF + share % / FVA path for LOSS vs equity / debt / public co-invest (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1930**). Next: rq_1928 (AGB/Dijk92-if-200 / FARO-if-YE2025 / otherHVZ-IGS).
+
+## Tick 1928 - 2026-08-27T11:15:00Z - rq_1928 Nethys (assets 1.72bn / equity 1.65bn / pnl DROP 18.3m / Medium)
+
+- Unit: **rq_1928** leftover dual after Virya. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **2026-00377886 still 403**; FARO NBB still **YE2024**. Took leftover **Nethys NV** (KBO **0465.607.720**; Boulevard Piercot 46 Liege; Enodia Walloon public energy/telecom holding; Elicio/Norther parent path; NON-Eneco). Publi-T YE2025 live deferred.
+- Primary hunt: NBB consult unresolved deposit PDF this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0465607720/nethys) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/nethys-0465607720) + KBO (neerlegging **12.05.2026**; YE **31.12.2025**; kapitaal **EUR1,125,347,425**): omzet **EUR488,102** (**JUMP +122.91%**); bruto **NEG EUR-1,289,355**; PnL **EUR18,273,407** (**DROP -74.11%**); equity **EUR1,649,695,701**; assets **EUR1,721,309,773**; EBITDA **NEG EUR-1,761,549**; FTE **8.8**.
+- Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_nethys_nbb_pdf_share_fva_debt_l5; rq_1928=done + rq_1929 open; loop_state ticks=1928.
+- FOI opened: NBB PDF + Enodia share % / FVA path / debt / Elicio-Orange stakes (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1930**). Next: rq_1929 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Publi-T-otherHVZ).
