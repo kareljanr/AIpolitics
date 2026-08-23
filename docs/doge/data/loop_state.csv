@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T02:35:00Z,rq_1996,1996,no,tick1996 leftover CNDG 0401.690.559 Medium CW (omzet JUMP 149.61m pnl DROP 2.08m equity JUMP 49.69m bruto JUMP 71.78m FTE 890.4; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; CHR Verviers YE2025 deferred; next rq_1997; next every-10 2000; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T02:50:00Z,rq_1997,1997,no,tick1997 leftover CHR Verviers 0250.893.369 Medium CW (omzet JUMP 251.76m pnl JUMP turnaround 0.89m equity JUMP 62.40m bruto JUMP 125.53m FTE 1272.9; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; Erasme/UZ deferred; next rq_1998; next every-10 2000; continuous hole_fill

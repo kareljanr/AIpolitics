@@ -22972,3 +22972,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_cndg); foi + draft gap_cndg_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_1996=done + rq_1997 open; loop_state ticks=1996; raw under docs/doge/data/raw/tick1996/.
 - FOI: **ready not sent** (human-gated; route via cndg.be).
 - NOT every-10 (**next every-10 is 2000**). Next: rq_1997 (AGB/FARO-if-YE2025 / AIESH-REW / CHR Verviers / unused DSO-IGS-HVZ).
+
+## Tick 1997 - 2026-08-24T02:50:00Z - rq_1997 CHR Verviers (omzet JUMP 251.76m / pnl JUMP turnaround 0.89m / Medium)
+
+- Unit: **rq_1997** leftover dual after **rq_1996 CNDG** (1996 completed concurrently). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **CHR Verviers** YE2025 (KBO **0250.893.369**; Rue du Parc 29 Verviers; Liege **regional hospital CV**). Erasme / UZ Brussel / AZ Sint-Lucas deferred. Do not redo CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC/Tivoli/Citadelle/ISoSL/Epicura/CHwapi/CHU UCL Namur/Vivalia.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR251,756,992** JUMP +3.47%; pnl **EUR890,809** JUMP turnaround (vs YE2024 LOSS 0.93m; +196%); equity **EUR62,397,208** JUMP +0.02%; bruto **EUR125,531,398** JUMP +4.48%; FTE **1272.9**; neerlegging **18.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief CV 8 VE; email officiel.ic-chrverviers@chrverviers.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 igs_chr_verviers); foi + draft gap_chr_verviers_nbb_pdf_assets_debt_pnl_turnaround_matrix_l5; rq_1997=done + rq_1998 open; loop_state ticks=1997; raw under docs/doge/data/raw/tick1997/.
+- FOI: **ready not sent** (human-gated; officiel.ic-chrverviers@chrverviers.be).
+- NOT every-10 (**next every-10 is 2000**). Next: rq_1998 (AGB/FARO-if-YE2025 / AIESH-REW / Erasme-UZ-Sint-Lucas / unused DSO-IGS-HVZ).
