@@ -23663,3 +23663,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+6); budgets (+5); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 vzw_compostela); foi + draft gap_compostela_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2068=done + rq_2069 open; loop_state ticks=2068; raw under docs/doge/data/raw/tick2068/.
 - FOI: **ready not sent** (human-gated; compostela@compostela.be).
 - NOT every-10 (**next every-10 is 2070**). Next: rq_2069 (AGB/FARO-if-YE2025 / AIESH-REW / AlwaysHome-Vulpia deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2069 - 2026-08-24T22:20:00Z - rq_2069 Vulpia Vlaanderen (omzet JUMP 198.15m / pnl DROP 0.60m / Medium)
+
+- Unit: **rq_2069** leftover dual after **rq_2068 Compostela** (already on main). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Always Home YE2025 live but **Armonea** (info@armonea.be) — skipped per do-not-redo. Took deferred leftover **Vulpia Vlaanderen** YE2025 (KBO **0521.970.559**; Ruiterijschool 6 Brasschaat; Antwerpen **VZW** multi-site WZC/RVT / **34 VE**). Do not redo Compostela/Leiehome/Zusters SV Deinze/OLV Bornem/Huize Sint-Jozef Ieper/Sint-Antonius/OLV Wezembeek/Ter Burg/Christine/Vrijzicht/'t Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/Armonea/Always Home.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR198,151,222** JUMP +4.63%; pnl **EUR596,759** DROP -91.29% vs YE2024 EUR6,852,825; equity **EUR617,922** JUMP from thin YE2024 EUR27,363; bruto **EUR137,168,547** JUMP +3.61%; FTE **1902.1**; neerlegging **23.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 34 VE; email info@vulpia.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.4); entities (+1 vzw_vulpia_vlaanderen); foi + draft gap_vulpia_vl_nbb_pdf_assets_debt_pnl_drop_thin_equity_matrix_l5; rq_2069=done + rq_2070 open (EVERY-10); loop_state ticks=2069; raw under docs/doge/data/raw/tick2069/.
+- FOI: **ready not sent** (human-gated; info@vulpia.be).
+- NOT every-10 (**next every-10 is 2070 THIS next tick**). Next: rq_2070 (EVERY-10 mandatory + AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).

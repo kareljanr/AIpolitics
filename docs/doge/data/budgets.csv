@@ -52402,3 +52402,8 @@ bud_compostela_pnl_jr2025_statutory,vzw_compostela,2025,1228006,,,CW YE2025 Prof
 bud_compostela_equity_jr2025_statutory,vzw_compostela,2025,60201736,,,CW YE2025 Eigen vermogen / Equity,src_compostela_jr2025_cw_en,medium,tick2068; equity JUMP 60201736 +1.44pct vs YE2024 59348989
 bud_compostela_bruto_jr2025_statutory,vzw_compostela,2025,39900746,,,CW YE2025 Brutomarge / Gross margin,src_compostela_jr2025_cw_en,medium,tick2068; bruto JUMP 39900746 +2.71pct vs YE2024 38849670
 bud_compostela_fte_jr2025_statutory,vzw_compostela,2025,497.1,,,CW social-balance FTE,src_compostela_jr2025_cw_en,medium,tick2068; YE2025 FTE 497.1
+bud_vulpia_vl_omzet_jr2025_statutory,vzw_vulpia_vlaanderen,2025,198151222,,,CW YE2025 omzet / Turnover,src_vulpia_vl_jr2025_cw_en,medium,tick2069; omzet JUMP 198151222 +4.63pct vs YE2024 189377878
+bud_vulpia_vl_pnl_jr2025_statutory,vzw_vulpia_vlaanderen,2025,596759,,,CW YE2025 Profit/Loss,src_vulpia_vl_jr2025_cw_en,medium,tick2069; pnl DROP 596759 -91.29pct vs YE2024 6852825
+bud_vulpia_vl_equity_jr2025_statutory,vzw_vulpia_vlaanderen,2025,617922,,,CW YE2025 Eigen vermogen / Equity,src_vulpia_vl_jr2025_cw_en,medium,tick2069; equity JUMP 617922 from thin YE2024 27363
+bud_vulpia_vl_bruto_jr2025_statutory,vzw_vulpia_vlaanderen,2025,137168547,,,CW YE2025 Brutomarge / Gross margin,src_vulpia_vl_jr2025_cw_en,medium,tick2069; bruto JUMP 137168547 +3.61pct vs YE2024 132394925
+bud_vulpia_vl_fte_jr2025_statutory,vzw_vulpia_vlaanderen,2025,1902.1,,,CW social-balance FTE,src_vulpia_vl_jr2025_cw_en,medium,tick2069; YE2025 FTE 1902.1
