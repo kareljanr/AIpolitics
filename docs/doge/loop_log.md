@@ -22370,3 +22370,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress+waste markdown; sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_publigas_nbb_pdf_share_fluxys_debt_l5; rq_1930=done + rq_1931 open; loop_state ticks=1930.
 - FOI opened: NBB PDF + municipal/VEH/Socofe share % / Fluxys stake / debt (**ready**, human-send only).
 - **EVERY-10 DONE.** Next every-10 is **1940**. Next: rq_1931 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Interfin-otherHVZ).
+
+## Tick 1931 - 2026-08-27T12:45:00Z - rq_1931 Interfin (equity JUMP 1.25bn / pnl DROP 83.0m / Medium)
+
+- Unit: **rq_1931** leftover dual after Publigas EVERY-10. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **2026-00377886 still 403**; FARO NBB still **YE2024**. Took named leftover **Interfin CV PR** (KBO **0222.944.897**; Werkhuizenkaai 16 Brussel; BCR municipal **aanbestedende overheid** energy holding; Sibelga/Publigas/Publi-T parent; NON-Eneco).
+- Primary hunt: NBB deposit PDF unresolved; Upswitch YE2024-only for assets. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0222944897/interfin) + [jaarrekening.be](https://jaarrekening.be/en/be/Interfin/0222.944.897) + KBO (neerlegging **14.07.2026**; YE **31.12.2025**): omzet **empty**; bruto **NEG EUR-258,026**; PnL **EUR83,040,743** (**DROP -13.93%**); equity **EUR1,245,525,946** (**JUMP +13.98%**); FTE **0**; assets **Unknown**.
+- Wrote: sources (+3); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_interfin_nbb_pdf_assets_share_fva_l5; rq_1931=done + rq_1932 open; loop_state ticks=1931.
+- FOI opened: NBB PDF + assets/share % / FVA / stake map (**ready**, human-send only; email not in KBO — post/tel).
+- NOT every-10 (**next every-10 is 1940**). Next: rq_1932 (AGB/Dijk92-if-200 / FARO-if-YE2025 / BNO-otherHVZ).
