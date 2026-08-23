@@ -52317,3 +52317,8 @@ bud_van_lierde_pnl_jr2025_statutory,vzw_wzc_van_lierde,2025,461544,,,CW YE2025 P
 bud_van_lierde_equity_jr2025_statutory,vzw_wzc_van_lierde,2025,5687790,,,CW YE2025 Eigen vermogen / Equity,src_van_lierde_jr2025_cw_en,medium,tick2051; equity JUMP 5687790 +2.31pct vs YE2024 5559594
 bud_van_lierde_bruto_jr2025_statutory,vzw_wzc_van_lierde,2025,6890078,,,CW YE2025 Brutomarge / Gross margin,src_van_lierde_jr2025_cw_en,medium,tick2051; bruto JUMP 6890078 +2.88pct vs YE2024 6697399
 bud_van_lierde_fte_jr2025_statutory,vzw_wzc_van_lierde,2025,75.4,,,CW social-balance FTE,src_van_lierde_jr2025_cw_en,medium,tick2051; YE2025 FTE 75.4
+bud_ter_berk_omzet_jr2025_statutory,vzw_seniorenzorg_sint_vincentius_anzegem,2025,12323749,,,CW YE2025 omzet / Turnover,src_ter_berk_jr2025_cw_en,medium,tick2052; omzet JUMP 12323749 +8.68pct vs YE2024 11339235
+bud_ter_berk_pnl_jr2025_statutory,vzw_seniorenzorg_sint_vincentius_anzegem,2025,95151,,,CW YE2025 Profit/Loss,src_ter_berk_jr2025_cw_en,medium,tick2052; pnl DROP 95151 -64.31pct vs YE2024 266596
+bud_ter_berk_equity_jr2025_statutory,vzw_seniorenzorg_sint_vincentius_anzegem,2025,14792035,,,CW YE2025 Eigen vermogen / Equity,src_ter_berk_jr2025_cw_en,medium,tick2052; equity JUMP 14792035 +2.67pct vs YE2024 14407855
+bud_ter_berk_bruto_jr2025_statutory,vzw_seniorenzorg_sint_vincentius_anzegem,2025,12916037,,,CW YE2025 Brutomarge / Gross margin,src_ter_berk_jr2025_cw_en,medium,tick2052; bruto JUMP 12916037 +8.34pct vs YE2024 11921914
+bud_ter_berk_fte_jr2025_statutory,vzw_seniorenzorg_sint_vincentius_anzegem,2025,163.4,,,CW social-balance FTE,src_ter_berk_jr2025_cw_en,medium,tick2052; YE2025 FTE 163.4

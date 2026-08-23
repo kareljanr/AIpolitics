@@ -23501,3 +23501,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.9); entities (+1 vzw_wzc_van_lierde); foi + draft gap_van_lierde_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2051=done + rq_2052 open; loop_state ticks=2051; raw under docs/doge/data/raw/tick2051/.
 - FOI: **ready not sent** (human-gated; onthaal@wzcvanlierde.be).
 - NOT every-10 (**next every-10 is 2060**). Next: rq_2052 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2052 - 2026-08-24T18:10:00Z - rq_2052 Ter Berk Anzegem (omzet JUMP 12.32m / pnl DROP 95k / Medium)
+
+- Unit: **rq_2052** leftover dual after **rq_2051 Van Lierde**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took unused leftover **Seniorenzorg Sint-Vincentius Anzegem / Ter Berk** YE2025 (KBO **0473.267.354**; Berkenlaan 2 Anzegem; West-Vlaanderen **aanbestedende-overheid VZW** WZC / **2 VE**). Huize Westerhauwe / Seniorenzorg Lendelede YE2025 also live — deferred. Do not redo Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/C.W.Z.C. Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Sint-Jozef Rumst/Veilige Have/Witte Meren.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR12,323,749** JUMP +8.68%; pnl **EUR95,151** DROP −64.31%; equity **EUR14,792,035** JUMP +2.67%; bruto **EUR12,916,037** JUMP +8.34%; FTE **163.4**; neerlegging **26.05.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende overheid 2 VE; email info@terberk.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.3); entities (+1 vzw_seniorenzorg_sint_vincentius_anzegem); foi + draft gap_ter_berk_anzegem_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2052=done + rq_2053 open; loop_state ticks=2052; raw under docs/doge/data/raw/tick2052/.
+- FOI: **ready not sent** (human-gated; info@terberk.be).
+- NOT every-10 (**next every-10 is 2060**). Next: rq_2053 (AGB/FARO-if-YE2025 / AIESH-REW / Westerhauwe-Lendelede deferred / unused DSO-IGS-HVZ-WZC-psych).
