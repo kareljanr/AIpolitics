@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T05:30:00Z,rq_1868,1868,no,tick1868 leftover BC Regio Geraardsbergen NV 0456.832.584 YE2025 Medium (bruto 0.14m pnl 35k equity 1.02m findebt 0); omzet empty + NBB PDF FOI; Stad+POM+SOLVA; AGB Bornem JR2024; Dijk92 403; FARO YE2024; next rq_1869; next every-10 1870 MUST; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T05:55:00Z,rq_1869,1869,no,tick1869 leftover TRY Dendermonde NV 0438.558.081 YE2025 Medium LOSS (bruto -0.14m pnl -0.18m equity 2.61m cash 0.49m); VOKA sole ex-POM; omzet empty + NBB PDF FOI; AGB Bornem JR2024; Dijk92 403; FARO YE2024; next rq_1870 EVERY-10 MUST; continuous hole_fill

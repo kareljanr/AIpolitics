@@ -51297,3 +51297,8 @@ bud_bcger_pnl_35k_jr2025,nv_bcger,2025,35453,,,CW/Pappers NBB-derived winst boek
 bud_bcger_equity_1_02m_jr2025,nv_bcger,2025,1020081,,,CW/Pappers NBB-derived 10/15 eigen vermogen,src_bcger_jr2025_cw_pappers,medium,tick1868; not TE-additive
 bud_bcger_cash_31k_jr2025,nv_bcger,2025,31218,,,Pappers NBB-derived cash,src_bcger_jr2025_cw_pappers,medium,tick1868; not TE-additive
 bud_bcger_capital_0_73m_jr2025,nv_bcger,2025,731497,,,KBO maatschappelijk kapitaal,src_kbo_bcger_0456832584,strong,tick1868; statutory capital 731496.55; not TE-additive
+bud_trydd_bruto_neg_0_14m_jr2025,nv_trydd,2025,-135719,,,CW/Pappers NBB-derived 9900 brutomarge YE31122025,src_trydd_jr2025_cw_pappers,medium,tick1869; NEGATIVE bruto; omzet 70 empty; not TE-additive
+bud_trydd_pnl_neg_0_18m_jr2025,nv_trydd,2025,-179243,,,CW/Pappers NBB-derived winst boekjaar LOSS,src_trydd_jr2025_cw_pappers,medium,tick1869; LOSS vs prior +328; not TE-additive
+bud_trydd_equity_2_61m_jr2025,nv_trydd,2025,2612161,,,CW/Pappers NBB-derived 10/15 eigen vermogen,src_trydd_jr2025_cw_pappers,medium,tick1869; DROP vs prior 2.79m; not TE-additive
+bud_trydd_cash_0_49m_jr2025,nv_trydd,2025,489073,,,Pappers NBB-derived cash JUMP,src_trydd_jr2025_cw_pappers,medium,tick1869; JUMP vs prior ~57k; not TE-additive
+bud_trydd_capital_2_37m_jr2025,nv_trydd,2025,2373000,,,KBO/Pappers maatschappelijk kapitaal,src_kbo_trydd_0438558081,strong,tick1869; statutory capital; not TE-additive

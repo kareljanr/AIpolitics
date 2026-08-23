@@ -21846,3 +21846,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+5); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_bcger_nbb_pdf_omzet_empty_bruto_0_14m_l5; rq_1868=done + rq_1869 open; loop_state ticks=1868.
 - FOI opened: NBB PDF + omzet-empty / shareholder % / assets (**ready**, human-send only).
 - NOT every-10 (**1870 MUST next-next**). Next: rq_1869 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Bosgroep IJzer-if-CDN / other HVZ-IGS).
+
+
+## Tick 1869 - 2026-08-26T05:55:00Z - rq_1869 TRY Dendermonde NV (bruto NEG 0.14m / PnL LOSS 0.18m / Medium)
+
+- Unit: **rq_1869** leftover dual after BC Geraardsbergen. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2025 unpublished; Bosgroep IJzer **no jaarrekening**; Westhoek JR2025 **approved** zoneraad 07.05.2026 but besluit has **no euros** / full PDF missing. Took leftover **TRY Dendermonde NV** / ex Bedrijvencentrum Dendermonde (KBO **0438.558.081**; Noordlaan 21).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0438558081/try-dendermonde) + [Pappers](https://www.pappers.be/nl/company/try-dendermonde-0438558081) (neerlegging **~13-18.05.2026**; YE **31.12.2025**): bruto **EUR-135,719**; EBITDA **EUR-174,790**; op **EUR-186,909**; PnL **EUR-179,243** LOSS; cash **EUR489,073** JUMP; fin debt **0**; ST pay **EUR491,505**; equity **EUR2,612,161**; omzet **70 empty**; kapitaal **EUR2,373,000**. Assets Unknown. Ownership: [BS 2022-10-04](https://www.ejustice.just.fgov.be/tsv_pdf/2022/10/04/22117912.pdf) **VOKA sole** since 01.09.2022 (ex-POM+banks dual).
+- Wrote: sources (+3); budgets (+5); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_trydd_nbb_pdf_omzet_empty_loss_0_18m_l5; rq_1869=done + rq_1870 open (EVERY-10); loop_state ticks=1869.
+- FOI opened: NBB PDF + omzet/loss path + residual public support (**ready**, human-send only).
+- **EVERY-10 NEXT (1870 MUST)**. Next: rq_1870 progress refresh + leftover dual.
