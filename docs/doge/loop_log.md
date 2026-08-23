@@ -22862,3 +22862,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1990**). Next: rq_1984 (AGB/FARO-if-YE2025 / AIESH-REW / CHwapi / unused DSO-IGS-HVZ).
 
+## Tick 1984 - 2026-08-23T23:45:00Z - rq_1984 CHwapi (omzet JUMP 337.72m / equity DROP 128.52m -46pct / Medium)
+
+- Unit: **rq_1984** leftover dual after **rq_1983 IDETA**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **CHwapi** YE2025 (KBO **0876.107.364**; Avenue Delmee 9 Tournai; Wallonie picarde **hospital VZW**). Do not redo IDETA/SPI/Vivalia/HELORA/IDELUX Finances/IFIGA/SOFILUX/IDEFIN/FINIMO/FINEST/HYGEA/BEP*/IBH/IGRETEC/IPFBW.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR337,723,001** JUMP +7.75%; pnl **EUR31,036,811** DROP -48.74%; equity **EUR128,517,683** DROP **-46.05%** (~-109.7m vs 238.2m); bruto **EUR186,838,358** DROP -3.51%; FTE **2204**; neerlegging **09.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 4 VE; no KBO email.
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_chwapi); foi + draft gap_chwapi_nbb_pdf_assets_debt_equity_drop_matrix_l5; rq_1984=done + rq_1985 open; loop_state ticks=1984.
+- FOI: **ready not sent** (human-gated; route via chwapi.be).
+- NOT every-10 (**next every-10 is 1990**). Next: rq_1985 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-hospital).
+

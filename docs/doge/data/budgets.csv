@@ -51975,3 +51975,8 @@ bud_ideta_pnl_jr2025_statutory,igs_ideta,2025,6266011,,,CW YE2025 Profit/Loss,sr
 bud_ideta_equity_jr2025_statutory,igs_ideta,2025,149646031,,,CW YE2025 Eigen vermogen,src_ideta_jr2025_cw,medium,tick1983; equity DROP 149646031 -0.86pct vs YE2024 150950349
 bud_ideta_bruto_jr2025_statutory,igs_ideta,2025,9241984,,,CW YE2025 Brutomarge,src_ideta_jr2025_cw,medium,tick1983; bruto DROP 9241984 -29.33pct vs YE2024 13077272
 bud_ideta_fte_jr2025_statutory,igs_ideta,2025,78.6,,,CW social-balance FTE,src_ideta_jr2025_cw,medium,tick1983; YE2025 FTE 78.6 vs YE2024 72.8
+bud_chwapi_omzet_jr2025_statutory,vzw_chwapi,2025,337723001,,,CW YE2025 omzet / Turnover,src_chwapi_jr2025_cw,medium,tick1984; omzet JUMP 337723001 +7.75pct vs YE2024 313441650
+bud_chwapi_pnl_jr2025_statutory,vzw_chwapi,2025,31036811,,,CW YE2025 Profit/Loss,src_chwapi_jr2025_cw,medium,tick1984; pnl DROP 31036811 -48.74pct vs YE2024 60544504
+bud_chwapi_equity_jr2025_statutory,vzw_chwapi,2025,128517683,,,CW YE2025 Eigen vermogen,src_chwapi_jr2025_cw,medium,tick1984; equity DROP 128517683 -46.05pct vs YE2024 238200239 (~-109.7m)
+bud_chwapi_bruto_jr2025_statutory,vzw_chwapi,2025,186838358,,,CW YE2025 Brutomarge,src_chwapi_jr2025_cw,medium,tick1984; bruto DROP 186838358 -3.51pct vs YE2024 193638234
+bud_chwapi_fte_jr2025_statutory,vzw_chwapi,2025,2204,,,CW social-balance FTE,src_chwapi_jr2025_cw,medium,tick1984; YE2025 FTE 2204 vs YE2024 2164
