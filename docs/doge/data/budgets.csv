@@ -52292,3 +52292,8 @@ bud_curando_pnl_jr2025_statutory,vzw_curando,2025,2863387,,,CW YE2025 Profit/Los
 bud_curando_equity_jr2025_statutory,vzw_curando,2025,63483907,,,CW YE2025 Eigen vermogen / Equity,src_curando_jr2025_cw_en,medium,tick2046; equity JUMP 63483907 +2.91pct vs YE2024 61690655
 bud_curando_bruto_jr2025_statutory,vzw_curando,2025,91460512,,,CW YE2025 Brutomarge / Gross margin,src_curando_jr2025_cw_en,medium,tick2046; bruto JUMP 91460512 +5.53pct vs YE2024 86668126
 bud_curando_fte_jr2025_statutory,vzw_curando,2025,1107,,,CW social-balance FTE,src_curando_jr2025_cw_en,medium,tick2046; YE2025 FTE 1107 (CW displays 1.107 with thousands separator)
+bud_integro_omzet_jr2025_statutory,vzw_integro,2025,63703738,,,CW YE2025 omzet / Turnover,src_integro_jr2025_cw_en,medium,tick2047; omzet JUMP 63703738 +2.47pct vs YE2024 62169598
+bud_integro_pnl_jr2025_statutory,vzw_integro,2025,2089779,,,CW YE2025 Profit/Loss,src_integro_jr2025_cw_en,medium,tick2047; pnl JUMP 2089779 +6.61pct vs YE2024 1960286
+bud_integro_equity_jr2025_statutory,vzw_integro,2025,49536655,,,CW YE2025 Eigen vermogen / Equity,src_integro_jr2025_cw_en,medium,tick2047; equity JUMP 49536655 +2.43pct vs YE2024 48361498
+bud_integro_bruto_jr2025_statutory,vzw_integro,2025,63694364,,,CW YE2025 Brutomarge / Gross margin,src_integro_jr2025_cw_en,medium,tick2047; bruto JUMP 63694364 +1.90pct vs YE2024 62506372
+bud_integro_fte_jr2025_statutory,vzw_integro,2025,813.5,,,CW social-balance FTE,src_integro_jr2025_cw_en,medium,tick2047; FTE DROP 813.5 vs YE2024 831.6
