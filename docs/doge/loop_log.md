@@ -23304,3 +23304,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_st_vincentius_antwerpen); foi + draft gap_wzc_st_vincentius_antwerpen_nbb_pdf_assets_debt_matrix_l5; rq_2031=done + rq_2032 open; loop_state ticks=2031; raw under docs/doge/data/raw/tick2031/.
 - FOI: **ready not sent** (human-gated; info@vincentiusekeren.be).
 - NOT every-10 (**next every-10 is 2040**). Next: rq_2032 (AGB/FARO-if-YE2025 / AIESH-REW / Lourdes-OLVA-Triest / unused DSO-IGS-HVZ).
+
+
+## Tick 2032 - 2026-08-24T12:40:00Z - rq_2032 WZC OLV Lourdes Kortenberg (omzet JUMP 10.97m / pnl JUMP 1.26m / Medium)
+
+- Unit: **rq_2032** leftover dual after **rq_2031 WZC St Vincentius Antwerpen/Ekeren**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **WZC OLV Lourdes Kortenberg** YE2025 (KBO **0410.142.031**; Dorpsplein 10 Kortenberg; Vlaams-Brabant **WZC VZW**). Do not redo St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR10,969,142** JUMP +0.17%; pnl **EUR1,261,450** JUMP +33.80%; equity **EUR20,232,960** JUMP +4.53%; bruto **EUR11,820,692** JUMP +6.76%; FTE **117.9**; neerlegging **02.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email algemeen@olvlourdes.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_olv_lourdes_kortenberg); foi + draft gap_wzc_olv_lourdes_kortenberg_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2032=done + rq_2033 open; loop_state ticks=2032; raw under docs/doge/data/raw/tick2032/.
+- FOI: **ready not sent** (human-gated; algemeen@olvlourdes.be).
+- NOT every-10 (**next every-10 is 2040**). Next: rq_2033 (AGB/FARO-if-YE2025 / AIESH-REW / OLVA-Triest / unused DSO-IGS-HVZ).
