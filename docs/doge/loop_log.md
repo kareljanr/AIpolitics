@@ -22142,3 +22142,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_hyoff_nbb_pdf_assets_share_h2_l5; rq_1902=done + rq_1903 open; loop_state ticks=1902.
 - FOI opened: NBB PDF + assets/share % / H2 CAPEX-subsidy (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1910**). Next: rq_1903 (AGB/Dijk92-if-200 / FARO-if-YE2025 / C-Power Holdco).
+
+
+## Tick 1903 - 2026-08-26T22:45:00Z - rq_1903 C-Power Holdco (equity 112.5m / LOSS 0.32m DROP / Medium)
+
+- Unit: **rq_1903** leftover dual after HyoffGreen. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **C-Power Holdco NV** (KBO **0472.967.347**; Herkenrodesingel 14 Hasselt **Nuhma seat**; Thorntonbank offshore holding; bestuurders **Nuhma cv + Nubema**).
+- Primary hunt: NBB CDN deposit unresolved; Upswitch empty this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0472967347/c-power-holdco) + KBO (neerlegging **22.05.2026**; YE **31.12.2025**): omzet **empty**; bruto **NEG EUR-29,353**; PnL **LOSS EUR-321,312** (**DROP** vs PROFIT **EUR22,596,928**); equity **EUR112,510,120** (**JUMP +10.6%**); FTE **0**; assets **Unknown**; kapitaal **EUR92,120,868**.
+- Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_cphc_nbb_pdf_assets_share_pnl_drop_l5; rq_1903=done + rq_1904 open; loop_state ticks=1903.
+- FOI opened: NBB PDF + assets/share % / FVA for pnl DROP (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1910**). Next: rq_1904 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Northwind-Rentel-SeaMade holdcos).

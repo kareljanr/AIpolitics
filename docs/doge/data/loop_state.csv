@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T22:15:00Z,rq_1902,1902,no,tick1902 leftover HyoffGreen 1010.583.315 Medium CW (equity 18.3m pnl 14k bruto NEG omzet empty FTE 0 assets Unknown); NBB PDF+share%+H2 CAPEX FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1903; next every-10 1910; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T22:45:00Z,rq_1903,1903,no,tick1903 leftover C-Power Holdco 0472.967.347 Medium CW (equity 112.5m pnl LOSS 0.32m DROP from +22.6m bruto NEG omzet empty FTE 0 assets Unknown); NBB PDF+share%+FVA FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1904; next every-10 1910; continuous hole_fill
