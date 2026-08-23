@@ -52095,3 +52095,8 @@ bud_werken_glorieux_pnl_jr2025_statutory,vzw_werken_glorieux,2025,1546006,,,CW Y
 bud_werken_glorieux_equity_jr2025_statutory,vzw_werken_glorieux,2025,72761817,,,CW YE2025 Eigen vermogen,src_werken_glorieux_jr2025_cw,medium,tick2007; equity JUMP 72761817 +1.66pct vs YE2024 71576247
 bud_werken_glorieux_bruto_jr2025_statutory,vzw_werken_glorieux,2025,91539005,,,CW YE2025 Brutomarge,src_werken_glorieux_jr2025_cw,medium,tick2007; bruto JUMP 91539005 +1.91pct vs YE2024 89819802
 bud_werken_glorieux_fte_jr2025_statutory,vzw_werken_glorieux,2025,1053.9,,,CW social-balance FTE,src_werken_glorieux_jr2025_cw,medium,tick2007; YE2025 FTE 1053.9
+bud_az_oostende_omzet_jr2025_statutory,vzw_az_oostende,2025,308721709,,,CW YE2025 omzet / Turnover,src_az_oostende_jr2025_cw,medium,tick2008; omzet JUMP 308721709 +1.42pct vs YE2024 304410200
+bud_az_oostende_pnl_jr2025_statutory,vzw_az_oostende,2025,2031443,,,CW YE2025 Profit/Loss,src_az_oostende_jr2025_cw,medium,tick2008; pnl JUMP 2031443 +12.95pct vs YE2024 1798471
+bud_az_oostende_equity_jr2025_statutory,vzw_az_oostende,2025,165930443,,,CW YE2025 Eigen vermogen,src_az_oostende_jr2025_cw,medium,tick2008; equity JUMP 165930443 +9.10pct vs YE2024 152086573
+bud_az_oostende_bruto_jr2025_statutory,vzw_az_oostende,2025,159965423,,,CW YE2025 Brutomarge,src_az_oostende_jr2025_cw,medium,tick2008; bruto JUMP 159965423 +1.81pct vs YE2024 157127060
+bud_az_oostende_fte_jr2025_statutory,vzw_az_oostende,2025,1670.5,,,CW social-balance FTE,src_az_oostende_jr2025_cw,medium,tick2008; YE2025 FTE 1670.5

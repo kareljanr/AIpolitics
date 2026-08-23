@@ -23071,3 +23071,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_werken_glorieux); foi + draft gap_werken_glorieux_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2007=done + rq_2008 open; loop_state ticks=2007; raw under docs/doge/data/raw/tick2007/.
 - FOI: **ready not sent** (human-gated; info@azglorieux.be).
 - NOT every-10 (**next every-10 is 2010**). Next: rq_2008 (AGB/FARO-if-YE2025 / AIESH-REW / AZ Damiaan-Maria Middelares / unused DSO-IGS-HVZ).
+
+
+## Tick 2008 - 2026-08-24T06:25:00Z - rq_2008 AZ Oostende (omzet JUMP 308.72m / pnl JUMP 2.03m / Medium)
+
+- Unit: **rq_2008** leftover dual after **rq_2007 Werken Glorieux**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Damiaan Oostende **0464.564.177** YE2025 but **0 FTE** shell — not double-counted. Took preferred leftover **AZ Oostende** YE2025 (KBO **0800.023.336**; Gouwelozestraat 100 Oostende; West-Vlaanderen **hospital VZW** Damiaan+Serruys). Do not redo Werken Glorieux/AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS/CHR Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR308,721,709** JUMP +1.42%; pnl **EUR2,031,443** JUMP +12.95%; equity **EUR165,930,443** JUMP +9.10%; bruto **EUR159,965,423** JUMP +1.81%; FTE **1670.5**; neerlegging **26.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 2 VE; email info@azoostende.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_az_oostende); foi + draft gap_az_oostende_nbb_pdf_assets_debt_matrix_l5; rq_2008=done + rq_2009 open; loop_state ticks=2008; raw under docs/doge/data/raw/tick2008/.
+- FOI: **ready not sent** (human-gated; info@azoostende.be).
+- NOT every-10 (**next every-10 is 2010**). Next: rq_2009 (AGB/FARO-if-YE2025 / AIESH-REW / Zottegem-Palfijn-Turnhout / unused DSO-IGS-HVZ).
