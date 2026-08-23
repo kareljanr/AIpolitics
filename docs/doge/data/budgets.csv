@@ -51622,3 +51622,10 @@ bud_publit_assets_jr2025,cv_publit,2025,2742888649,,,Upswitch NBB/CBSO assets,sr
 bud_publit_bruto_jr2025,cv_publit,2025,-3146071,,,CW NBB-derived 9900,src_publit_jr2025_cw,medium,tick1929; YE2025 bruto NEG -3146071
 bud_publit_ebitda_jr2025,cv_publit,2025,-3214455,,,Upswitch NBB/CBSO EBITDA,src_publit_jr2025_upswitch,medium,tick1929; YE2025 EBITDA NEG -3214455
 bud_publit_fte_jr2025,cv_publit,2025,0,,,CW NBB-derived FTE 0,src_publit_jr2025_cw,medium,tick1929; YE2025 FTE 0
+bud_publigas_pnl_jr2025,cv_publigas,2025,118260885,,,CW NBB-derived 9904,src_publigas_jr2025_cw,medium,tick1930; YE to 30.09.2025 pnl 118260885 flat +0.2pct
+bud_publigas_equity_jr2025,cv_publigas,2025,1354634825,,,CW/jaarrekening NBB-derived 10/15,src_publigas_jr2025_cw,medium,tick1930; YE2025 equity 1354634825 JUMP +1.06pct
+bud_publigas_assets_jr2025,cv_publigas,2025,1495446659,,,jaarrekening.be NBB-derived assets,src_publigas_jr2025_jaarrekening,medium,tick1930; YE2025 assets 1495446659
+bud_publigas_debt_jr2025,cv_publigas,2025,140810000,,,jaarrekening.be debt 140.81m,src_publigas_jr2025_jaarrekening,medium,tick1930; YE2025 debt ~140.81m (rounded)
+bud_publigas_cash_jr2025,cv_publigas,2025,41550000,,,jaarrekening.be cash 41.55m,src_publigas_jr2025_jaarrekening,medium,tick1930; YE2025 cash ~41.55m JUMP +48pct (rounded)
+bud_publigas_bruto_jr2025,cv_publigas,2025,-426201,,,CW NBB-derived 9900,src_publigas_jr2025_cw,medium,tick1930; YE2025 bruto NEG -426201
+bud_publigas_fte_jr2025,cv_publigas,2025,0,,,CW NBB-derived FTE 0,src_publigas_jr2025_cw,medium,tick1930; YE2025 FTE 0

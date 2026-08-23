@@ -22362,3 +22362,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_publit_nbb_pdf_share_fva_capital_jump_l5; rq_1929=done + rq_1930 open (EVERY-10); loop_state ticks=1929.
 - FOI opened: NBB PDF + municipal/VEH share % / FVA+capital JUMP recon / Elia stake (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1930**). Next: rq_1930 MUST refresh progress+waste top10 then hole-fill.
+
+## Tick 1930 - 2026-08-27T12:15:00Z - EVERY-10 + rq_1930 Publigas (assets 1.50bn / equity 1.35bn / pnl 118m / Medium)
+
+- Unit: **rq_1930** EVERY-10 after Publi-T. Refreshed **progress_every_10_ticks.md** (tick 1930 snapshot) + **doge_waste_top10_current.md** (top10 stable GIP/fossil/cars/cheque/reporté). Prefer NON-Eneco live hole-fill: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2024. Took leftover **Publigas CV** (KBO **0447.845.040**; Ravensteingalerij 4/2 Brussel; municipal **aanbestedende overheid** Fluxys majority-shareholder cooperative; Socofe/Interfin/VEH investors; Publi-T sister; NON-Eneco).
+- Primary hunt: NBB deposit PDF unresolved; Upswitch miss this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0447845040/publigaz-publigas) + [jaarrekening.be](https://jaarrekening.be/en/be/PUBLIGAZ-PUBLIGAS/0447.845.040) + KBO (neerlegging **09.07.2026**; YE end **30.09.2025**): omzet **empty**; bruto **NEG EUR-426,201**; PnL **EUR118,260,885** (flat **+0.2%**); equity **EUR1,354,634,825** (**JUMP +1.06%**); assets **EUR1,495,446,659**; debt **~EUR140.81m**; cash **~EUR41.55m**; FTE **0**.
+- Wrote: progress+waste markdown; sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_publigas_nbb_pdf_share_fluxys_debt_l5; rq_1930=done + rq_1931 open; loop_state ticks=1930.
+- FOI opened: NBB PDF + municipal/VEH/Socofe share % / Fluxys stake / debt (**ready**, human-send only).
+- **EVERY-10 DONE.** Next every-10 is **1940**. Next: rq_1931 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Interfin-otherHVZ).
