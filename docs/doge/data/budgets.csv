@@ -52322,3 +52322,8 @@ bud_ter_berk_pnl_jr2025_statutory,vzw_seniorenzorg_sint_vincentius_anzegem,2025,
 bud_ter_berk_equity_jr2025_statutory,vzw_seniorenzorg_sint_vincentius_anzegem,2025,14792035,,,CW YE2025 Eigen vermogen / Equity,src_ter_berk_jr2025_cw_en,medium,tick2052; equity JUMP 14792035 +2.67pct vs YE2024 14407855
 bud_ter_berk_bruto_jr2025_statutory,vzw_seniorenzorg_sint_vincentius_anzegem,2025,12916037,,,CW YE2025 Brutomarge / Gross margin,src_ter_berk_jr2025_cw_en,medium,tick2052; bruto JUMP 12916037 +8.34pct vs YE2024 11921914
 bud_ter_berk_fte_jr2025_statutory,vzw_seniorenzorg_sint_vincentius_anzegem,2025,163.4,,,CW social-balance FTE,src_ter_berk_jr2025_cw_en,medium,tick2052; YE2025 FTE 163.4
+bud_walfergem_omzet_jr2025_statutory,vzw_wzc_walfergem,2025,8880682,,,CW YE2025 omzet / Turnover,src_walfergem_jr2025_cw_en,medium,tick2053; omzet JUMP 8880682 +2.48pct vs YE2024 8665802
+bud_walfergem_pnl_jr2025_statutory,vzw_wzc_walfergem,2025,947077,,,CW YE2025 Profit/Loss,src_walfergem_jr2025_cw_en,medium,tick2053; pnl DROP 947077 -25.19pct vs YE2024 1266012
+bud_walfergem_equity_jr2025_statutory,vzw_wzc_walfergem,2025,4258074,,,CW YE2025 Eigen vermogen / Equity,src_walfergem_jr2025_cw_en,medium,tick2053; equity JUMP 4258074 +28.60pct vs YE2024 3310998
+bud_walfergem_bruto_jr2025_statutory,vzw_wzc_walfergem,2025,6540292,,,CW YE2025 Brutomarge / Gross margin,src_walfergem_jr2025_cw_en,medium,tick2053; bruto DROP 6540292 -1.86pct vs YE2024 6664407
+bud_walfergem_fte_jr2025_statutory,vzw_wzc_walfergem,2025,76,,,CW social-balance FTE,src_walfergem_jr2025_cw_en,medium,tick2053; YE2025 FTE 76
