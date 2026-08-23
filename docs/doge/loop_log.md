@@ -23053,3 +23053,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_az_st_eli_herentals); foi + draft gap_az_st_eli_herentals_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2005=done + rq_2006 open; loop_state ticks=2005; raw under docs/doge/data/raw/tick2005/.
 - FOI: **ready not sent** (human-gated; route via azherentals.be).
 - NOT every-10 (**next every-10 is 2010**). Next: rq_2006 (AGB/FARO-if-YE2025 / AIESH-REW / AZ Maria Middelares-Alma / unused DSO-IGS-HVZ).
+
+
+## Tick 2006 - 2026-08-24T05:40:00Z - rq_2006 AZ Alma (omzet JUMP 191.40m / pnl JUMP 2.64m / Medium)
+
+- Unit: **rq_2006** leftover dual after **rq_2005 AZ St.-Elisabeth Herentals**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**. Maria Middelares/Imelda CW **N/A omzet**. Took preferred leftover **AZ Alma** YE2025 (KBO **0463.862.908**; Ringlaan 15 Eeklo; Oost-Vlaanderen **hospital VZW**). Do not redo AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS/CHR Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR191,400,137** JUMP +4.46%; pnl **EUR2,635,911** JUMP +82.34%; equity **EUR105,261,488** DROP −1.20%; bruto **EUR99,167,846** JUMP +3.85%; FTE **1125.4**; neerlegging **16.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 2 VE; email info@azalma.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_az_alma); foi + draft gap_az_alma_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2006=done + rq_2007 open; loop_state ticks=2006; raw under docs/doge/data/raw/tick2006/.
+- FOI: **ready not sent** (human-gated; info@azalma.be).
+- NOT every-10 (**next every-10 is 2010**). Next: rq_2007 (AGB/FARO-if-YE2025 / AIESH-REW / AZ Maria Middelares-Glorieux-Oostende / unused DSO-IGS-HVZ).

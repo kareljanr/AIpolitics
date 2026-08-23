@@ -52085,3 +52085,8 @@ bud_az_st_eli_herentals_pnl_jr2025_statutory,vzw_az_st_eli_herentals,2025,277446
 bud_az_st_eli_herentals_equity_jr2025_statutory,vzw_az_st_eli_herentals,2025,54818543,,,CW YE2025 Eigen vermogen,src_az_st_eli_herentals_jr2025_cw,medium,tick2005; equity JUMP 54818543 +3.59pct vs YE2024 52921180
 bud_az_st_eli_herentals_bruto_jr2025_statutory,vzw_az_st_eli_herentals,2025,69923624,,,CW YE2025 Brutomarge,src_az_st_eli_herentals_jr2025_cw,medium,tick2005; bruto JUMP 69923624 +3.97pct vs YE2024 67251299
 bud_az_st_eli_herentals_fte_jr2025_statutory,vzw_az_st_eli_herentals,2025,719.2,,,CW social-balance FTE,src_az_st_eli_herentals_jr2025_cw,medium,tick2005; YE2025 FTE 719.2
+bud_az_alma_omzet_jr2025_statutory,vzw_az_alma,2025,191400137,,,CW YE2025 omzet / Turnover,src_az_alma_jr2025_cw,medium,tick2006; omzet JUMP 191400137 +4.46pct vs YE2024 183221510
+bud_az_alma_pnl_jr2025_statutory,vzw_az_alma,2025,2635911,,,CW YE2025 Profit/Loss,src_az_alma_jr2025_cw,medium,tick2006; pnl JUMP 2635911 +82.34pct vs YE2024 1445603
+bud_az_alma_equity_jr2025_statutory,vzw_az_alma,2025,105261488,,,CW YE2025 Eigen vermogen,src_az_alma_jr2025_cw,medium,tick2006; equity DROP 105261488 -1.20pct vs YE2024 106540679
+bud_az_alma_bruto_jr2025_statutory,vzw_az_alma,2025,99167846,,,CW YE2025 Brutomarge,src_az_alma_jr2025_cw,medium,tick2006; bruto JUMP 99167846 +3.85pct vs YE2024 95492173
+bud_az_alma_fte_jr2025_statutory,vzw_az_alma,2025,1125.4,,,CW social-balance FTE,src_az_alma_jr2025_cw,medium,tick2006; YE2025 FTE 1125.4

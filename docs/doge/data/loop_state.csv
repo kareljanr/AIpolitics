@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T05:25:00Z,rq_2005,2005,no,tick2005 leftover AZ St.-Elisabeth Herentals 0821.734.213 Medium CW (omzet JUMP 171.67m pnl DROP 2.77m equity JUMP 54.82m bruto JUMP 69.92m FTE 719.2; assets/debt Unknown); AGB Bornem JR2024; FARO YE2024; AZ Imelda/Monica CW N/A; next rq_2006; next every-10 2010; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T05:40:00Z,rq_2006,2006,no,tick2006 leftover AZ Alma 0463.862.908 Medium CW (omzet JUMP 191.40m pnl JUMP 2.64m equity DROP 105.26m bruto JUMP 99.17m FTE 1125.4; assets/debt Unknown); AGB Bornem JR2024; FARO YE2024; Maria Middelares/Imelda CW N/A; next rq_2007; next every-10 2010; continuous hole_fill
