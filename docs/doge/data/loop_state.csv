@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T05:05:00Z,rq_1867,1867,no,tick1867 leftover De Punt NV 0434.319.379 YE2025 Medium (assets 6.62m bruto 1.38m pnl 0.25m equity 3.20m findebt 2.46m); omzet empty + NBB PDF FOI; Fluvius+POM; AGB Bornem JR2024; Dijk92 403; FARO YE2024; next rq_1868; next every-10 1870; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T05:30:00Z,rq_1868,1868,no,tick1868 leftover BC Regio Geraardsbergen NV 0456.832.584 YE2025 Medium (bruto 0.14m pnl 35k equity 1.02m findebt 0); omzet empty + NBB PDF FOI; Stad+POM+SOLVA; AGB Bornem JR2024; Dijk92 403; FARO YE2024; next rq_1869; next every-10 1870 MUST; continuous hole_fill

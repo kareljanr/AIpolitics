@@ -51292,3 +51292,8 @@ bud_bcpunt_pnl_0_25m_jr2025,nv_bcpunt,2025,246498,,,CW/Pappers NBB-derived winst
 bud_bcpunt_equity_3_20m_jr2025,nv_bcpunt,2025,3202000,,,CW/Pappers NBB-derived 10/15 eigen vermogen,src_bcpunt_jr2025_cw_pappers_sbm,medium,tick1867; not TE-additive
 bud_bcpunt_findebt_2_46m_jr2025,nv_bcpunt,2025,2455803,,,Pappers NBB-derived financial_debt,src_bcpunt_jr2025_cw_pappers_sbm,medium,tick1867; declining vs prior 2.84m; not TE-additive
 bud_bcpunt_cash_0_44m_jr2025,nv_bcpunt,2025,438768,,,Pappers NBB-derived cash,src_bcpunt_jr2025_cw_pappers_sbm,medium,tick1867; not TE-additive
+bud_bcger_bruto_0_14m_jr2025,nv_bcger,2025,140151,,,CW/Pappers NBB-derived 9900 brutomarge YE31122025,src_bcger_jr2025_cw_pappers,medium,tick1868; omzet 70 empty; not TE-additive
+bud_bcger_pnl_35k_jr2025,nv_bcger,2025,35453,,,CW/Pappers NBB-derived winst boekjaar,src_bcger_jr2025_cw_pappers,medium,tick1868; not TE-additive
+bud_bcger_equity_1_02m_jr2025,nv_bcger,2025,1020081,,,CW/Pappers NBB-derived 10/15 eigen vermogen,src_bcger_jr2025_cw_pappers,medium,tick1868; not TE-additive
+bud_bcger_cash_31k_jr2025,nv_bcger,2025,31218,,,Pappers NBB-derived cash,src_bcger_jr2025_cw_pappers,medium,tick1868; not TE-additive
+bud_bcger_capital_0_73m_jr2025,nv_bcger,2025,731497,,,KBO maatschappelijk kapitaal,src_kbo_bcger_0456832584,strong,tick1868; statutory capital 731496.55; not TE-additive

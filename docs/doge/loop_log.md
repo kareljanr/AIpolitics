@@ -21837,3 +21837,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+2); entities (+1); foi + draft gap_bcpunt_nbb_pdf_omzet_empty_bruto_1_38m_l5; rq_1867=done + rq_1868 open; loop_state ticks=1867.
 - FOI opened: NBB PDF deposit + omzet-empty / shareholder % / pers (**ready**, human-send only).
 - NOT every-10 (next **1870**). Next: rq_1868 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Bosgroep IJzer-if-CDN / other BC/HVZ-IGS).
+
+
+## Tick 1868 - 2026-08-26T05:30:00Z - rq_1868 Bedrijvencentrum Regio Geraardsbergen NV (bruto 0.14m / equity 1.02m / findebt 0 / Medium)
+
+- Unit: **rq_1868** leftover dual after De Punt. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2025 unpublished; Bosgroep IJzer no YE2025 deposit. Took leftover **Bedrijvencentrum Regio Geraardsbergen NV** (KBO **0456.832.584**; board **Stad Geraardsbergen + POM + SOLVA**).
+- Primary hunt: NBB CDN deposit unresolved (SBM blacklist). **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0456832584/bedrijvencentrum-regio-geraardsbergen) + [Pappers](https://www.pappers.be/nl/company/bedrijvencentrum-regio-geraardsbergen-0456832584) (neerlegging **~15-24.06.2026**; YE **31.12.2025**): bruto **EUR140,151**; EBITDA **EUR50,673**; op **EUR48,735**; PnL **EUR35,453**; cash **EUR31,218**; fin debt **EUR0**; ST pay **EUR37,008**; equity **EUR1,020,081**; VTE **1.1**; omzet **70 empty**; kapitaal **EUR731,497**. Assets **Unknown** (not invented).
+- Wrote: sources (+3); budgets (+5); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_bcger_nbb_pdf_omzet_empty_bruto_0_14m_l5; rq_1868=done + rq_1869 open; loop_state ticks=1868.
+- FOI opened: NBB PDF + omzet-empty / shareholder % / assets (**ready**, human-send only).
+- NOT every-10 (**1870 MUST next-next**). Next: rq_1869 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Bosgroep IJzer-if-CDN / other HVZ-IGS).
