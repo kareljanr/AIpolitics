@@ -52050,3 +52050,8 @@ bud_zas_pnl_jr2025_statutory,vzw_zas,2025,-814746,,,CW YE2025 Profit/Loss,src_za
 bud_zas_equity_jr2025_statutory,vzw_zas,2025,573600782,,,CW YE2025 Eigen vermogen,src_zas_jr2025_cw,medium,tick1998; equity JUMP 573600782 +2.64pct vs YE2024 558853334
 bud_zas_bruto_jr2025_statutory,vzw_zas,2025,643722300,,,CW YE2025 Brutomarge,src_zas_jr2025_cw,medium,tick1998; bruto JUMP 643722300 +23.80pct vs YE2024 519989802
 bud_zas_fte_jr2025_statutory,vzw_zas,2025,6711.9,,,CW social-balance FTE,src_zas_jr2025_cw,medium,tick1998; YE2025 FTE 6711.9
+bud_azjp_omzet_jr2025_statutory,vzw_azjp,2025,126326443,,,CW YE2025 omzet / Turnover,src_azjp_jr2025_cw,medium,tick1999; omzet JUMP 126326443 +1.39pct vs YE2024 124592525
+bud_azjp_pnl_jr2025_statutory,vzw_azjp,2025,-814870,,,CW YE2025 Profit/Loss,src_azjp_jr2025_cw,medium,tick1999; pnl LOSS -814870 vs YE2024 profit 1224794
+bud_azjp_equity_jr2025_statutory,vzw_azjp,2025,43356483,,,CW YE2025 Eigen vermogen,src_azjp_jr2025_cw,medium,tick1999; equity DROP 43356483 -1.85pct vs YE2024 44173608
+bud_azjp_bruto_jr2025_statutory,vzw_azjp,2025,55640098,,,CW YE2025 Brutomarge,src_azjp_jr2025_cw,medium,tick1999; bruto JUMP 55640098 +2.68pct vs YE2024 54189104
+bud_azjp_fte_jr2025_statutory,vzw_azjp,2025,625.7,,,CW social-balance FTE,src_azjp_jr2025_cw,medium,tick1999; YE2025 FTE 625.7

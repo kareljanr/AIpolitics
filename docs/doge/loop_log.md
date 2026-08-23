@@ -22989,3 +22989,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_zas); foi + draft gap_zas_nbb_pdf_assets_debt_pnl_loss_omzet_jump_matrix_l5; rq_1998=done + rq_1999 open; loop_state ticks=1998; raw under docs/doge/data/raw/tick1998/.
 - FOI: **ready not sent** (human-gated; route via zas.be).
 - NOT every-10 (**next every-10 is 2000**). Next: rq_1999 (AGB/FARO-if-YE2025 / AIESH-REW / AZJP / unused DSO-IGS-HVZ).
+
+
+## Tick 1999 - 2026-08-24T03:20:00Z - rq_1999 AZJP (omzet JUMP 126.33m / pnl LOSS 0.81m / Medium)
+
+- Unit: **rq_1999** leftover dual after **rq_1998 ZAS**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**. Took deferred leftover **AZJP** YE2025 (KBO **0267.386.438**; Gendarmeriestraat 65 Vilvoorde; Vlaams-Brabant **hospital VZW**). AZ Groeninge CW N/A omzet. Do not redo ZAS/CHR Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR126,326,443** JUMP +1.39%; pnl **LOSS EUR-814,870** (vs YE2024 profit 1.22m); equity **EUR43,356,483** DROP −1.85%; bruto **EUR55,640,098** JUMP +2.68%; FTE **625.7**; neerlegging **15.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 4 VE; email info@azjanportaels.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_azjp); foi + draft gap_azjp_nbb_pdf_assets_debt_pnl_loss_equity_drop_matrix_l5; rq_1999=done + rq_2000 open (EVERY-10); loop_state ticks=1999; raw under docs/doge/data/raw/tick1999/.
+- FOI: **ready not sent** (human-gated; info@azjanportaels.be).
+- NOT every-10 (**next every-10 is 2000**). Next: rq_2000 (EVERY-10 progress + AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-hospital).
