@@ -22034,3 +22034,12 @@ Append-only. Each tick adds a short entry.
 - FOI opened: NBB PDF + share % / debt / PPA (**ready**, human-send only).
 - **EVERY-10 DONE.** Next every-10 is **1900**. Next: rq_1891 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Lommel Windt / other HVZ-IGS).
 
+
+## Tick 1891 - 2026-08-26T16:45:00Z - rq_1891 Lommel Win(d)t NV (omzet 3.82m / assets 20.2m / Medium)
+
+- Unit: **rq_1891** leftover dual after Limburg Win(d)t EVERY-10. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **Lommel Win(d)t NV** (KBO **0559.893.403**; Herkenrodesingel 14 Hasselt **Nuhma seat**; sister of mined Limburg Win(d)t).
+- Primary hunt: NBB CDN deposit unresolved (SBM IP blacklist this tick). **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0559893403/lommel-win-d-t) + SBM NBB table (neerlegging **13.05.2026**; YE **31.12.2025**): omzet **EUR3,819,475**; bruto **EUR2,370,111**; PnL **EUR293,233**; assets **EUR20,190,964**; equity **EUR5,043,345**; debt **EUR14,835,951**; expl **EUR904,723**; FTE **0**.
+- Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_lommel_wt_nbb_pdf_share_debt_ppa_l5; rq_1891=done + rq_1892 open; loop_state ticks=1891.
+- FOI opened: NBB PDF + share % / debt / PPA / LWT group (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1900**). Next: rq_1892 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS/IOED/Mijnen).
+

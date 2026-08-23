@@ -51403,3 +51403,10 @@ bud_lwt_assets_jr2025,nv_lwt,2025,56283864,,,SBM NBB-derived total assets 20/58,
 bud_lwt_equity_jr2025,nv_lwt,2025,5997743,,,CW/SBM NBB-derived 10/15,src_lwt_jr2025_cw,medium,tick1890; YE2025 equity 5997743 flat
 bud_lwt_debt_jr2025,nv_lwt,2025,48384316,,,SBM NBB-derived schulden 17/49,src_lwt_jr2025_sbm,medium,tick1890; YE2025 debt 48384316 DROP vs 61.6m
 bud_lwt_expl_jr2025,nv_lwt,2025,5685746,,,SBM NBB-derived bedrijfswinst 9901,src_lwt_jr2025_sbm,medium,tick1890; YE2025 expl 5685746
+bud_lommel_wt_omzet_jr2025,nv_lommel_wt,2025,3819475,,,CW/SBM NBB-derived code 70 omzet,src_lommel_wt_jr2025_cw,medium,tick1891; YE2025; DROP vs 5.66m
+bud_lommel_wt_bruto_jr2025,nv_lommel_wt,2025,2370111,,,CW NBB-derived brutomarge 9900,src_lommel_wt_jr2025_cw,medium,tick1891; YE2025 bruto 2370111
+bud_lommel_wt_pnl_jr2025,nv_lommel_wt,2025,293233,,,CW NBB-derived PnL 9904,src_lommel_wt_jr2025_cw,medium,tick1891; YE2025 pnl 293233 DROP vs 1.06m
+bud_lommel_wt_assets_jr2025,nv_lommel_wt,2025,20190964,,,SBM NBB-derived total assets 20/58,src_lommel_wt_jr2025_sbm,medium,tick1891; YE2025 assets 20190964 DROP vs 23.1m
+bud_lommel_wt_equity_jr2025,nv_lommel_wt,2025,5043345,,,CW/SBM NBB-derived 10/15,src_lommel_wt_jr2025_cw,medium,tick1891; YE2025 equity 5043345 flat
+bud_lommel_wt_debt_jr2025,nv_lommel_wt,2025,14835951,,,SBM NBB-derived schulden 17/49,src_lommel_wt_jr2025_sbm,medium,tick1891; YE2025 debt 14835951 DROP vs 17.7m
+bud_lommel_wt_expl_jr2025,nv_lommel_wt,2025,904723,,,SBM NBB-derived bedrijfswinst 9901,src_lommel_wt_jr2025_sbm,medium,tick1891; YE2025 expl 904723
