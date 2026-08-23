@@ -51854,3 +51854,11 @@ bud_passelecq_equity_jr2025_statutory,igs_passelecq,2025,61314893,,,CW+Upswitch+
 bud_passelecq_assets_jr2025_statutory,igs_passelecq,2025,139220560,,,Upswitch NBB/CBSO + Mons AG bilan total,src_passelecq_jr2025_upswitch,medium,tick1962; YE2025 assets 139220560; Mons AG 139220560.29; YE2024 138832142
 bud_passelecq_ebitda_jr2025_statutory,igs_passelecq,2025,7547480,,,Upswitch NBB-derived EBITDA,src_passelecq_jr2025_upswitch,medium,tick1962; YE2025 EBITDA 7547480 vs 6581402 YE2024; operating 3490688
 bud_passelecq_fte_jr2025_statutory,igs_passelecq,2025,1297,,,CW social-balance FTE,src_passelecq_jr2025_cw,medium,tick1962; YE2025 FTE 1297 vs 1285 YE2024 (down from 2466 YE2022 HELORA path)
+bud_imio_omzet_jr2025_statutory,imio,2025,7771293.6,,,AG official CA YE2025 (NBB schema),src_imio_jr2025_ag_mons,strong,tick1963; YE2025 omzet 7771293.6 JUMP +4.2pct vs YE2024
+bud_imio_pnl_jr2025_statutory,imio,2025,182396.69,,,AG + CW Winst/Verlies,src_imio_jr2025_ag_mons,strong,tick1963; YE2025 pnl DROP 182396.69 -23.4pct vs 238114.77
+bud_imio_bruto_jr2025_statutory,imio,2025,5688042.52,,,AG + CW bruto/gross margin,src_imio_jr2025_ag_mons,strong,tick1963; YE2025 bruto 5688042.52 +10.65pct vs 5140629.15
+bud_imio_equity_jr2025_statutory,imio,2025,913079.94,,,AG + CW equity,src_imio_jr2025_ag_mons,strong,tick1963; YE2025 equity 913079.94 JUMP +24.98pct vs 730609.05
+bud_imio_assets_jr2025_statutory,imio,2025,3148420.72,,,AG bilan TOTAL ACTIF 20/58,src_imio_jr2025_ag_mons,strong,tick1963; YE2025 assets 3148420.72 vs 2982750.39 YE2024
+bud_imio_debt_jr2025_statutory,imio,2025,2160340.78,,,AG DETTES 17/49,src_imio_jr2025_ag_mons,strong,tick1963; YE2025 debt 2160340.78 (LT 758385.44 + ST 1394309.38) vs 2177141.34 YE2024
+bud_imio_cash_jr2025_statutory,imio,2025,560966.88,,,AG valeurs disponibles 54/58,src_imio_jr2025_ag_mons,strong,tick1963; YE2025 cash 560966.88 DROP vs 616818.14 YE2024
+bud_imio_fte_jr2025_statutory,imio,2025,60.2,,,AG + CW social-balance FTE 9087,src_imio_jr2025_ag_mons,strong,tick1963; YE2025 FTE 60.2 JUMP vs 52.9 YE2024; pers ~5.025m

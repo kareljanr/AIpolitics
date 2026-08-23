@@ -22680,3 +22680,29 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+7); commitments (+1); leaderboard (+1); entities (+1 igs_passelecq); foi + draft gap_passelecq_nbb_pdf_debt_helora_sector_matrix_l5; rq_1962=done + rq_1963 open; loop_state ticks=1962.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1970**). Next: rq_1963 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
+
+
+## Tick 1963 - 2026-08-23T18:00:00Z - rq_1963 iMio (omzet JUMP 7.771m / pnl DROP 0.182m / assets 3.148m / Strong)
+
+- Unit: **rq_1963** leftover dual after concurrent **rq_1962 Gabrielle Passelecq** (already on main). Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **iMio** YE2025 (KBO **0841.470.248**; Rue Léon Morel 1 Isnes/Gembloux; Walloon IT mutualisation IGS; **Digipolis VL dual**). Do not redo Gabrielle Passelecq/IGRETEC/IPFBW/Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/INASEP/inBW/AIDE/ORES.
+- Found: Strong [Mons AG 02.06.2026 PDF](https://www.mons.be/fr/ma-commune/vie-politique/intercommunales/imio-1/imio/ag-du-2-juin-2026/publiable-point-4-intercommunale_de_mutualisation_en_matiere_informatique_et_organisationnell.pdf/@@download/file/Publiable%20-%20point-4-intercommunale_de_mutualisation_en_matiere_informatique_et_organisationnell.pdf) (NBB schema) + Medium [Companyweb NL](https://www.companyweb.be/nl/0841470248/intercommunale-de-mutualisation-en-matiere-informatique-et-organisationnelle)/[EN](https://www.companyweb.be/en/0841470248/intercommunale-de-mutualisation-en-matiere-informatique-et-organisationnelle) + Strong KBO: omzet **EUR7,771,293.60** (**JUMP +4.2%**); bruto **EUR5,688,042.52**; pnl **EUR182,396.69** (**DROP −23.4%**); equity **EUR913,079.94** (**JUMP +24.98%**); assets **EUR3,148,420.72**; debt **EUR2,160,340.78**; cash **EUR560,966.88**; FTE **60.2**; intangibles **EUR723,831.30**; neerlegging **17.06.2026**; members **445** / communes **251**.
+- Wrote: sources (+4); budgets (+8); commitments (+1); leaderboard (+1); entities (+1 imio); foi + draft gap_imio_nbb_pdf_tariff_member_matrix_l5; rq_1963=done + rq_1964 open; loop_state ticks=1963; raw PDF saved.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1970**). Next: rq_1964 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
+
+## Tick 1963 - 2026-08-23T18:00:00Z - rq_1963 CHU HELORA (omzet JUMP 900.54m / pnl JUMP turnaround 7.86m / Medium)
+
+- Unit: **rq_1963** leftover dual after **rq_1962 Gabrielle Passelecq**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **CHU HELORA** YE2025 (KBO **0801.643.533**; Boulevard Fulgence Masson 5 Mons; VZW largest Walloon hospital group; **Passelecq dual**; absorbed Jolimont 2023). Do not redo Passelecq/IPFBW/IGRETEC/Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92/AIEG/Synergrid.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR900,540,159** JUMP +4.8%; bruto **EUR391,037,739**; pnl **EUR7,860,643** JUMP turnaround vs LOSS 3.37m; equity **EUR135,310,273** JUMP +3.95%; FTE **4026.3**; neerlegging **27.06.2026**. Assets/debt YE2025 Unknown (Upswitch still YE2024 assets 633.27m). Medium confidence.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1); entities (+1 vzw_chu_helora); foi + draft gap_helora_nbb_pdf_assets_debt_passelecq_matrix_l5; rq_1963=done + rq_1964 open; loop_state ticks=1963.
+- FOI: **ready not sent** (human-gated; HELORA no KBO mailbox — cc Passelecq officiel + postal).
+- NOT every-10 (**next every-10 is 1970**). Next: rq_1964 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
+
+
+## Tick 1963 - 2026-08-23T18:00:00Z - rq_1963 iMio (omzet JUMP 7.771m / pnl DROP 0.182m / assets 3.148m / Strong)
+
+- Unit: **rq_1963** leftover dual after concurrent **rq_1962 Gabrielle Passelecq** (already on main). Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **iMio** YE2025 (KBO **0841.470.248**; Rue Léon Morel 1 Isnes/Gembloux; Walloon IT mutualisation IGS; **Digipolis VL dual**). Do not redo Gabrielle Passelecq/IGRETEC/IPFBW/Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/INASEP/inBW/AIDE/ORES.
+- Found: Strong [Mons AG 02.06.2026 PDF](https://www.mons.be/fr/ma-commune/vie-politique/intercommunales/imio-1/imio/ag-du-2-juin-2026/publiable-point-4-intercommunale_de_mutualisation_en_matiere_informatique_et_organisationnell.pdf/@@download/file/Publiable%20-%20point-4-intercommunale_de_mutualisation_en_matiere_informatique_et_organisationnell.pdf) (NBB schema) + Medium [Companyweb NL](https://www.companyweb.be/nl/0841470248/intercommunale-de-mutualisation-en-matiere-informatique-et-organisationnelle)/[EN](https://www.companyweb.be/en/0841470248/intercommunale-de-mutualisation-en-matiere-informatique-et-organisationnelle) + Strong KBO: omzet **EUR7,771,293.60** (**JUMP +4.2%**); bruto **EUR5,688,042.52**; pnl **EUR182,396.69** (**DROP −23.4%**); equity **EUR913,079.94** (**JUMP +24.98%**); assets **EUR3,148,420.72**; debt **EUR2,160,340.78**; cash **EUR560,966.88**; FTE **60.2**; intangibles **EUR723,831.30**; neerlegging **17.06.2026**; members **445** / communes **251**.
+- Wrote: sources (+4); budgets (+8); commitments (+1); leaderboard (+1); entities (+1 imio); foi + draft gap_imio_nbb_pdf_tariff_member_matrix_l5; rq_1963=done + rq_1964 open; loop_state ticks=1963; raw PDF saved.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1970**). Next: rq_1964 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
