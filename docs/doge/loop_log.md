@@ -22444,3 +22444,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+5); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_fluxys_cga_nbb_pdf_assets_debt_capital_premium_l5; rq_1938=done + rq_1939 open; loop_state ticks=1938.
 - FOI opened: NBB PDF + assets/debt + capital/share-premium matrix (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1940**). Next: rq_1939 (AGB/Dijk92-if-200 / FARO-if-YE2025 / otherHVZ-IGS).
+
+
+## Tick 1939 - 2026-08-27T16:45:00Z - rq_1939 Fluxys hydrogen (assets JUMP 96.67m / equity JUMP 25.48m / Medium)
+
+- Unit: **rq_1939** leftover dual after Fluxys c-grid Antwerp. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **2026-00377886 still 403**; FARO still **YE2024**. Took leftover **Fluxys hydrogen NV** (KBO **1002.472.927**; Guimardstraat 4 Brussel; Belgian **H2 network operator**; 100pct Fluxys Belgium daughter; NON-Eneco). Do not redo BNO/Fluxys holding/LNG/c-grid/c-grid Antwerp/ETB/Elia Group/Pipelink.
+- Primary hunt: NBB deposit PDF unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/1002472927/fluxys-hydrogen) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/fluxys-hydrogen-1002472927) + **Strong** KBO (neerlegging **08.05.2026**; YE **31.12.2025**): omzet **EUR6,111,230** (**DROP -7.82%**); bruto **EUR708,217** (**JUMP +207.76%**); equity **EUR25,475,000** (**JUMP +365.3%**); assets **EUR96,665,156** (**JUMP** from 6.75m); EBITDA **EUR52,292**; kapitaal **EUR83,475,000**; FTE **3.5**; PnL **Unknown**.
+- Wrote: sources (+4); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_fluxys_h2_nbb_pdf_debt_capex_kapitaal_equity_l5; rq_1939=done + rq_1940 open (EVERY-10); loop_state ticks=1939.
+- FOI opened: NBB PDF + debt/CAPEX + kapitaal vs equity recon (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1940 THIS next tick**). Next: rq_1940 EVERY-10 + AGB/Dijk92-if-200 / FARO-if-YE2025 / otherHVZ-IGS.

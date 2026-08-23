@@ -51679,3 +51679,14 @@ bud_fluxys_cga_equity_jr2025,nv_fluxys_cga,2025,28273533,,,CW NBB-derived equity
 bud_fluxys_cga_bruto_jr2025,nv_fluxys_cga,2025,-62733,,,CW NBB-derived bruto 9900,src_fluxys_cga_jr2025_cw,medium,tick1938; YE2025 bruto NEG -62733
 bud_fluxys_cga_kapitaal_jr2025,nv_fluxys_cga,2025,17600000,,,KBO kapitaal,src_fluxys_cga_kbo,strong,tick1938; KBO kapitaal 17600000 EUR
 bud_fluxys_cga_fte_jr2025,nv_fluxys_cga,2025,0,,,CW NBB-derived FTE,src_fluxys_cga_jr2025_cw,medium,tick1938; YE2025 FTE 0
+bud_fluxys_h2_omzet_jr2025,nv_fluxys_h2,2025,6111230,,,CW/Upswitch NBB-derived omzet,src_fluxys_h2_jr2025_cw,medium,tick1939; YE2025 omzet 6111230 DROP -7.82pct vs 6629589
+bud_fluxys_h2_equity_jr2025,nv_fluxys_h2,2025,25475000,,,CW/Upswitch NBB-derived equity,src_fluxys_h2_jr2025_cw,medium,tick1939; YE2025 equity 25475000 JUMP +365.3pct vs 5475000
+bud_fluxys_h2_assets_jr2025,nv_fluxys_h2,2025,96665156,,,Upswitch NBB/CBSO assets,src_fluxys_h2_jr2025_upswitch,medium,tick1939; YE2025 assets 96665156 JUMP from 6750438
+bud_fluxys_h2_bruto_jr2025,nv_fluxys_h2,2025,708217,,,CW NBB-derived bruto 9900,src_fluxys_h2_jr2025_cw,medium,tick1939; YE2025 bruto 708217 JUMP +207.76pct
+bud_fluxys_h2_ebitda_jr2025,nv_fluxys_h2,2025,52292,,,Upswitch NBB/CBSO EBITDA,src_fluxys_h2_jr2025_upswitch,medium,tick1939; YE2025 EBITDA 52292 (~0.9pct of omzet)
+bud_fluxys_h2_kapitaal_jr2025,nv_fluxys_h2,2025,83475000,,,KBO kapitaal,src_fluxys_h2_kbo,strong,tick1939; KBO kapitaal 83475000 EUR (> equity 25.48m; unpaid/called capital FOI)
+bud_fluxys_h2_fte_jr2025,nv_fluxys_h2,2025,4,,,CW NBB-derived FTE 3.5,src_fluxys_h2_jr2025_cw,medium,tick1939; YE2025 FTE 3.5 (stored 4)
+bud_enodia_pnl_jr2025,cv_enodia,2025,29600993,,,CW NBB-derived 9904,src_enodia_jr2025_cw,medium,tick1939; YE2025 pnl 29600993 DROP -18.22pct
+bud_enodia_equity_jr2025,cv_enodia,2025,1190324008,,,CW NBB-derived 10/15,src_enodia_jr2025_cw,medium,tick1939; YE2025 equity 1190324008 flat -0.21pct vs 1192817810 YE2024
+bud_enodia_bruto_jr2025,cv_enodia,2025,19846904,,,CW NBB-derived 9900,src_enodia_jr2025_cw,medium,tick1939; YE2025 bruto 19846904 DROP -2.41pct
+bud_enodia_fte_jr2025,cv_enodia,2025,171,,,CW NBB-derived FTE 170.9,src_enodia_jr2025_cw,medium,tick1939; YE2025 FTE 170.9 (stored 171)
