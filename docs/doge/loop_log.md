@@ -23717,3 +23717,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.5); entities (+1 vzw_wzc_heilig_hart_grimbergen); foi + draft gap_hh_grimbergen_nbb_pdf_assets_debt_pnl_near_zero_matrix_l5; rq_2074=done + rq_2075 open; loop_state ticks=2074; raw under docs/doge/data/raw/tick2074/.
 - FOI: **ready not sent** (human-gated; info@hhg.be).
 - NOT every-10 (**next every-10 is 2080**). Next: rq_2075 (AGB/FARO-if-YE2025 / AIESH-REW / ZorgWelzijn-Kuurne-SintJozef-Brugge deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2075 - 2026-08-24T23:50:00Z - rq_2075 Sint-Jozef Brugge Sint-Michiels (omzet JUMP 12.38m / bruto+FTE DROP / Medium)
+
+- Unit: **rq_2075** leftover dual after **rq_2074 HH Grimbergen**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took preferred deferred leftover **Sint-Jozef Brugge Sint-Michiels** YE2025 (KBO **0461.563.315**; Spoorwegstraat 250 Brugge; West-Vlaanderen **aanbestedende-overheid VZW** WZC / **1 VE**; ~198 places). Zorg en Welzijn Kuurne YE2025 also live (KBO confirms aanbestedende) - deferred. Do not redo HH Grimbergen/Mater Amabilis/Maria Moorslede/MSW NZVL/Welvaart/Vulpia/Compostela/Leiehome/Deinze/OLV Bornem/Huize SJ Ieper/Sint-Antonius/Wezembeek/Ter Burg/Christine/Vrijzicht/Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/Armonea/Always Home/Maria Ingelmunster/SJ Rumst/Rillaar.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR12384613** JUMP +3.91%; pnl **EUR684393** JUMP +2.57% vs YE2024 EUR667220; equity **EUR17179643** JUMP +2.25%; bruto **EUR10400160** DROP -3.78%; FTE **115.4** DROP -8.70% vs YE2024 126.4; neerlegging **03.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende overheid 1 VE; email info@wooncentrum-st-jozef.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_wzc_sint_jozef_brugge_sint_michiels); foi + draft gap_sj_brugge_nbb_pdf_assets_debt_bruto_fte_drop_matrix_l5; rq_2075=done + rq_2076 open; loop_state ticks=2075; raw under docs/doge/data/raw/tick2075/.
+- FOI: **ready not sent** (human-gated; info@wooncentrum-st-jozef.be).
+- NOT every-10 (**next every-10 is 2080**). Next: rq_2076 (AGB/FARO-if-YE2025 / AIESH-REW / ZorgWelzijn-Kuurne deferred / unused DSO-IGS-HVZ-WZC-psych).

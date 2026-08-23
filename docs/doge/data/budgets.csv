@@ -52432,3 +52432,8 @@ bud_hh_grimbergen_pnl_jr2025_statutory,vzw_wzc_heilig_hart_grimbergen,2025,4035,
 bud_hh_grimbergen_equity_jr2025_statutory,vzw_wzc_heilig_hart_grimbergen,2025,5749528,5749528,5749528,CW YE2025 Eigen vermogen / Equity,src_hh_grimbergen_jr2025_cw_en,medium,tick2074; DROP -1.38% vs YE2024 5829820
 bud_hh_grimbergen_bruto_jr2025_statutory,vzw_wzc_heilig_hart_grimbergen,2025,10285059,10285059,10285059,CW YE2025 Brutomarge / Gross margin,src_hh_grimbergen_jr2025_cw_en,medium,tick2074; DROP -2.5% vs YE2024 10549092
 bud_hh_grimbergen_fte_jr2025_statutory,vzw_wzc_heilig_hart_grimbergen,2025,128.6,128.6,128.6,CW social-balance FTE,src_hh_grimbergen_jr2025_cw_en,medium,tick2074; FTE 128.6
+bud_sj_brugge_omzet_jr2025_statutory,vzw_wzc_sint_jozef_brugge_sint_michiels,2025,12384613,12384613,12384613,CW YE2025 omzet / Turnover,src_sj_brugge_jr2025_cw_en,medium,tick2075; JUMP +3.91% vs YE2024 11918670
+bud_sj_brugge_pnl_jr2025_statutory,vzw_wzc_sint_jozef_brugge_sint_michiels,2025,684393,684393,684393,CW YE2025 Profit/Loss,src_sj_brugge_jr2025_cw_en,medium,tick2075; JUMP +2.57% vs YE2024 667220
+bud_sj_brugge_equity_jr2025_statutory,vzw_wzc_sint_jozef_brugge_sint_michiels,2025,17179643,17179643,17179643,CW YE2025 Eigen vermogen / Equity,src_sj_brugge_jr2025_cw_en,medium,tick2075; JUMP +2.25% vs YE2024 16802025
+bud_sj_brugge_bruto_jr2025_statutory,vzw_wzc_sint_jozef_brugge_sint_michiels,2025,10400160,10400160,10400160,CW YE2025 Brutomarge / Gross margin,src_sj_brugge_jr2025_cw_en,medium,tick2075; DROP -3.78% vs YE2024 10809249
+bud_sj_brugge_fte_jr2025_statutory,vzw_wzc_sint_jozef_brugge_sint_michiels,2025,115.4,115.4,115.4,CW social-balance FTE,src_sj_brugge_jr2025_cw_en,medium,tick2075; FTE DROP 115.4 (-8.70%) vs YE2024 126.4
