@@ -52377,3 +52377,8 @@ bud_sint_antonius_pnl_jr2025_statutory,vzw_wzc_sint_antonius,2025,-243742,,,CW Y
 bud_sint_antonius_equity_jr2025_statutory,vzw_wzc_sint_antonius,2025,12773930,,,CW YE2025 Equity,src_sint_antonius_jr2025_cw_en,medium,tick2063; equity DROP 12773930 -4.03pct vs YE2024 13310521
 bud_sint_antonius_bruto_jr2025_statutory,vzw_wzc_sint_antonius,2025,7042846,,,CW YE2025 Brutomarge / Gross margin,src_sint_antonius_jr2025_cw_en,medium,tick2063; bruto JUMP 7042846 +4.19pct vs YE2024 6759745
 bud_sint_antonius_fte_jr2025_statutory,vzw_wzc_sint_antonius,2025,88.1,,,CW social-balance FTE,src_sint_antonius_jr2025_cw_en,medium,tick2063; YE2025 FTE 88.1
+bud_huize_sj_ieper_omzet_jr2025_statutory,vzw_huize_sint_jozef_ieper,2025,8360491,,,CW YE2025 omzet / Turnover,src_huize_sj_ieper_jr2025_cw_en,medium,tick2064; omzet JUMP 8360491 +2.98pct vs YE2024 8118741
+bud_huize_sj_ieper_pnl_jr2025_statutory,vzw_huize_sint_jozef_ieper,2025,1129712,,,CW YE2025 Profit/Loss,src_huize_sj_ieper_jr2025_cw_en,medium,tick2064; pnl DROP 1129712 -8.97pct vs YE2024 1240962
+bud_huize_sj_ieper_equity_jr2025_statutory,vzw_huize_sint_jozef_ieper,2025,10622287,,,CW YE2025 Eigen vermogen / Equity,src_huize_sj_ieper_jr2025_cw_en,medium,tick2064; equity JUMP 10622287 +11.90pct vs YE2024 9492976
+bud_huize_sj_ieper_bruto_jr2025_statutory,vzw_huize_sint_jozef_ieper,2025,8398601,,,CW YE2025 Brutomarge / Gross margin,src_huize_sj_ieper_jr2025_cw_en,medium,tick2064; bruto DROP 8398601 -0.30pct vs YE2024 8424207
+bud_huize_sj_ieper_fte_jr2025_statutory,vzw_huize_sint_jozef_ieper,2025,95.2,,,CW social-balance FTE,src_huize_sj_ieper_jr2025_cw_en,medium,tick2064; YE2025 FTE 95.2

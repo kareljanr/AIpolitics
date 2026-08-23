@@ -23618,3 +23618,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_wzc_sint_antonius); foi + draft gap_sint_antonius_nbb_pdf_assets_debt_pnl_flip_loss_matrix_l5; rq_2063=done + rq_2064 open; loop_state ticks=2063; raw under docs/doge/data/raw/tick2063/.
 - FOI: **ready not sent** (human-gated; info@stantonius.be).
 - NOT every-10 (**next every-10 is 2070**). Next: rq_2064 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2064 - 2026-08-24T21:05:00Z - rq_2064 Huize Sint-Jozef Ieper (omzet JUMP 8.36m / pnl DROP 1.13m / Medium)
+
+- Unit: **rq_2064** leftover dual after **rq_2063 Sint-Antonius**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took unused leftover **Huize Sint-Jozef Ieper** YE2025 (KBO **0409.942.289**; Meenseweg 31 Ieper; West-Vlaanderen **aanbestedende-overheid VZW** WZC / **1 VE**). DISTINCT from Sint-Jozef Rumst/Rillaar. Leiehome / Compostela / Always Home / Vulpia YE2025 also live - deferred. Do not redo Sint-Antonius/OLV Wezembeek/Ter Burg/Christine/Vrijzicht/'t Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/Lourdes/St Vincentius Antwerpen/Rillaar/Karus/De Foyer/Sint-Jozef Rumst/Veilige Have/Witte Meren/Zusterhof/Woonhaven.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR8,360,491** JUMP +2.98%; pnl **EUR1,129,712** DROP -8.97%; equity **EUR10,622,287** JUMP +11.90%; bruto **EUR8,398,601** DROP -0.30%; FTE **95.2**; neerlegging **05.05.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende overheid 1 VE; email onthaal@huizesintjozef.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.0); entities (+1 vzw_huize_sint_jozef_ieper); foi + draft gap_huize_sj_ieper_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2064=done + rq_2065 open; loop_state ticks=2064; raw under docs/doge/data/raw/tick2064/.
+- FOI: **ready not sent** (human-gated; onthaal@huizesintjozef.be).
+- NOT every-10 (**next every-10 is 2070**). Next: rq_2065 (AGB/FARO-if-YE2025 / AIESH-REW / Leiehome-Compostela-AlwaysHome-Vulpia deferred / unused DSO-IGS-HVZ-WZC-psych).
