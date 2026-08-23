@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T21:15:00Z,rq_1900,1900,no,tick1900 EVERY-10 + leftover Fairville 0756.963.452 Medium CW+Upswitch (omzet 1.04m bruto 0.41m LOSS 0.16m assets 0.51m equity NEG EBITDA 60k FTE 5); NBB PDF+share%+going-concern FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1901; next every-10 1910; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T21:45:00Z,rq_1901,1901,no,tick1901 leftover WEP 0451.603.690 Medium CW (equity 16.2m JUMP +23pct LOSS 12k bruto NEG omzet empty FTE 0 assets Unknown); NBB PDF+share%+capital JUMP FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1902; next every-10 1910; continuous hole_fill

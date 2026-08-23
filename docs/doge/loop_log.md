@@ -22124,3 +22124,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress+waste markdown; sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_fairville_nbb_pdf_share_neg_equity_loss_l5; rq_1900=done + rq_1901 open; loop_state ticks=1900.
 - FOI opened: NBB PDF + share % / NEG equity going-concern / city contracts (**ready**, human-send only).
 - **EVERY-10 DONE.** Next every-10 is **1910**. Next: rq_1901 (AGB/Dijk92-if-200 / FARO-if-YE2025 / WEP/HyoffGreen/C-Power Holdco).
+
+
+## Tick 1901 - 2026-08-26T21:45:00Z - rq_1901 WEP (equity 16.2m JUMP / LOSS 12k / Medium)
+
+- Unit: **rq_1901** leftover dual after Fairville EVERY-10. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **WEP NV** / Wind en Water Energie Producent (KBO **0451.603.690**; Herkenrodesingel 14 Hasselt **Nuhma seat**; aanbestedende overheid; bestuurders **Nuhma cv + Nubema**). HyoffGreen also live YE2025 deferred to next.
+- Primary hunt: NBB CDN deposit unresolved; Upswitch empty this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0451603690/wep) + KBO (neerlegging **29.05.2026**; YE **31.12.2025**): omzet **empty**; bruto **NEG EUR-5,095**; PnL **LOSS EUR-11,697**; equity **EUR16,174,373** (**JUMP +22.61%**); FTE **0**; assets **Unknown**; kapitaal **EUR19,061,096**.
+- Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_wep_nbb_pdf_assets_share_capital_jump_l5; rq_1901=done + rq_1902 open; loop_state ticks=1901.
+- FOI opened: NBB PDF + assets/share % / capital JUMP (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1910**). Next: rq_1902 (AGB/Dijk92-if-200 / FARO-if-YE2025 / HyoffGreen/C-Power Holdco).

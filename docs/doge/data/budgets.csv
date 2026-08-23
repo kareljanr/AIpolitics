@@ -51459,3 +51459,7 @@ bud_fairville_pnl_jr2025,nv_fairville,2025,-157754,,,CW NBB-derived 9904 LOSS,sr
 bud_fairville_assets_jr2025,nv_fairville,2025,508983,,,Upswitch NBB/CBSO 20/58,src_fairville_jr2025_upswitch,medium,tick1900; YE2025 assets 508983 DROP vs 814708
 bud_fairville_equity_jr2025,nv_fairville,2025,-77614,,,CW/Upswitch NBB-derived 10/15 NEG,src_fairville_jr2025_cw,medium,tick1900; YE2025 equity NEG -77614 DROP from +80141
 bud_fairville_ebitda_jr2025,nv_fairville,2025,60256,,,Upswitch NBB/CBSO EBITDA,src_fairville_jr2025_upswitch,medium,tick1900; YE2025 EBITDA 60256 DROP vs 298080
+bud_wep_bruto_jr2025,nv_wep,2025,-5095,,,CW NBB-derived 9900 NEG,src_wep_jr2025_cw,medium,tick1901; YE2025 bruto NEG -5095
+bud_wep_pnl_jr2025,nv_wep,2025,-11697,,,CW NBB-derived 9904 LOSS,src_wep_jr2025_cw,medium,tick1901; YE2025 LOSS -11697 improved vs -24981
+bud_wep_equity_jr2025,nv_wep,2025,16174373,,,CW NBB-derived 10/15,src_wep_jr2025_cw,medium,tick1901; YE2025 equity 16174373 JUMP +22.61pct
+bud_wep_fte_jr2025,nv_wep,2025,0,,,CW NBB-derived FTE,src_wep_jr2025_cw,medium,tick1901; YE2025 FTE 0 holding shell
