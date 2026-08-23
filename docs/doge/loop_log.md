@@ -21513,3 +21513,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities cv_stroomvloed; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1828=done + rq_1829 spawned; loop_state ticks=1828; FOI draft gap_stroomvloed_fva_0_36m_ltrecv_1_09m_dividend_0_03m_l5.md
 - FOI opened: gap_stroomvloed_fva_0_36m_ltrecv_1_09m_dividend_0_03m_l5 (**ready**, human-send only)
 - NOT every-10 (next **1830**). Next: rq_1829 (REScoop.VL-if-200 / AGB / Dijk92 / FARO).
+
+## Tick 1829 - 2026-08-25T13:05:00Z - rq_1829 REScoop.Vlaanderen VZW (omzet DROP 26k / pers 0.17m)
+
+- Unit: **rq_1829** leftover dual residual after Stroomvloed; took deferred live **REScoop.Vlaanderen VZW** (VL citizen energy federation koepel; KBO **0629.767.055**; Posthoflei 3/3 dual Ecopower/SeaCoop). Preferred AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2024.
+- Primary (strong, NBB MIC-VZW [2026-00063493](http://cdn.staatsbladmonitor.be/2026pdf/2026-00063493.pdf) CDN 200 / 11p; AV **26.03.2026**): assets **EUR329,096**; omzet DROP **EUR26,000** (was **142,878**); bruto **EUR174,859**; code **73 empty on face**; pers **EUR174,367**; VTE **2.3**; expl **EUR39**; PnL DROP **EUR889** (was **29,610**); cash JUMP **EUR320,806**; vooruit JUMP **EUR138,162**; kapsubs DROP **EUR54,339**; equity **EUR109,763**; debt **EUR219,333**.
+- Wrote: entities vzw_rescoop_vl; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1829=done + rq_1830 spawned (every-10); loop_state ticks=1829; FOI draft gap_rescoopvl_omzet_drop_0_03m_pers_0_17m_vooruit_0_14m_l5.md
+- FOI opened: gap_rescoopvl_omzet_drop_0_03m_pers_0_17m_vooruit_0_14m_l5 (**ready**, human-send only)
+- **EVERY-10 NEXT tick 1830**. Next: rq_1830 (progress refresh + AGB / Dijk92 / FARO / IGS).

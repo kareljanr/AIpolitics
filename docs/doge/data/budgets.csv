@@ -51032,3 +51032,13 @@ bud_stroomvloed_equity_1_73m_2025,cv_stroomvloed,2025,1734271,,,NBB VKT-inb YE20
 bud_stroomvloed_cash_0_05m_2025,cv_stroomvloed,2025,46628,,,NBB VKT-inb YE2025 liquide middelen,src_stroomvloed_jr2025_nbb,strong,tick1828; cash DROP 46628 (was 141568); not TE-additive of 348bn
 bud_stroomvloed_pers_0_01m_2025,cv_stroomvloed,2025,11705,,,NBB VKT-inb YE2025 bezoldigingen,src_stroomvloed_jr2025_nbb,strong,tick1828; pers 11705; VTE 0.6; not TE-additive of 348bn
 bud_stroomvloed_debt_0_09m_2025,cv_stroomvloed,2025,90817,,,NBB VKT-inb YE2025 schulden,src_stroomvloed_jr2025_nbb,strong,tick1828; schulden 90817 (incl dividend payable in other ST); not TE-additive of 348bn
+bud_rescoopvl_assets_0_33m_2025,vzw_rescoop_vl,2025,329096,,,NBB MIC-VZW YE2025 assets,src_rescoopvl_jr2025_nbb,strong,tick1829; totaal activa 329096 (was 322590); not TE-additive of 348bn
+bud_rescoopvl_omzet_0_03m_2025,vzw_rescoop_vl,2025,26000,,,NBB MIC-VZW YE2025 omzet,src_rescoopvl_jr2025_nbb,strong,tick1829; omzet DROP 26000 (was 142878); code73 lidgeld/subs empty on face; not TE-additive of 348bn
+bud_rescoopvl_bruto_0_17m_2025,vzw_rescoop_vl,2025,174859,,,NBB MIC-VZW YE2025 brutomarge,src_rescoopvl_jr2025_nbb,strong,tick1829; bruto 174859 (was 237107); 60/61 126552; not TE-additive of 348bn
+bud_rescoopvl_pers_0_17m_2025,vzw_rescoop_vl,2025,174367,,,NBB MIC-VZW YE2025 bezoldigingen,src_rescoopvl_jr2025_nbb,strong,tick1829; pers 174367 (was 207189); VTE 2.3 (was 2.5); not TE-additive of 348bn
+bud_rescoopvl_pnl_889_2025,vzw_rescoop_vl,2025,889,,,NBB MIC-VZW YE2025 PnL,src_rescoopvl_jr2025_nbb,strong,tick1829; pnl DROP 889 (was 29610); not TE-additive of 348bn
+bud_rescoopvl_cash_0_32m_2025,vzw_rescoop_vl,2025,320806,,,NBB MIC-VZW YE2025 liquide middelen,src_rescoopvl_jr2025_nbb,strong,tick1829; cash JUMP 320806 (was 222274); not TE-additive of 348bn
+bud_rescoopvl_vooruit_0_14m_2025,vzw_rescoop_vl,2025,138162,,,NBB MIC-VZW YE2025 overlopende,src_rescoopvl_jr2025_nbb,strong,tick1829; vooruit/accrued JUMP 138162 (was 83616); not TE-additive of 348bn
+bud_rescoopvl_kapsubs_0_05m_2025,vzw_rescoop_vl,2025,54339,,,NBB MIC-VZW YE2025 kapitaalsubsidies,src_rescoopvl_jr2025_nbb,strong,tick1829; kapsubs DROP 54339 (was 70275); not TE-additive of 348bn
+bud_rescoopvl_debt_0_22m_2025,vzw_rescoop_vl,2025,219333,,,NBB MIC-VZW YE2025 schulden,src_rescoopvl_jr2025_nbb,strong,tick1829; schulden 219333 (was 197780); not TE-additive of 348bn
+bud_rescoopvl_equity_0_11m_2025,vzw_rescoop_vl,2025,109763,,,NBB MIC-VZW YE2025 eigen vermogen,src_rescoopvl_jr2025_nbb,strong,tick1829; EV 109763 (was 124810); not TE-additive of 348bn
