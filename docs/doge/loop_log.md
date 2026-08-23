@@ -23789,3 +23789,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_wzc_de_wijshage_rumst); foi + draft gap_wijshage_nbb_pdf_assets_debt_pnl_drop_fte_jump_matrix_l5; rq_2082=done + rq_2083 open; loop_state ticks=2082; raw under docs/doge/data/raw/tick2082/.
 - FOI: **ready not sent** (human-gated; onthaal@dewijtshage.be).
 - NOT every-10 (**next every-10 is 2090**). Next: rq_2083 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2083 - 2026-08-25T01:50:00Z - rq_2083 Home Stuyvenberg (bruto JUMP 0.50m / pnl JUMP 0.39m / omzet empty / Medium)
+
+- Unit: **rq_2083** leftover dual after **rq_2082 Wijshage** (already on main; this fire found rq_2083 in_progress after Vaeren Stopgezet dead-end). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. De Vaeren Rumst 0444.313.151 probed — **Stopgezet / BJ2016** — skipped. Took unused leftover **Home Stuyvenberg** YE2025 (KBO **0424.830.108**; Provincieweg 549 Herzele; Oost-Vlaanderen **NV** RVT/WZC / **1 VE**; ~52 beds; **CuraCare**; DISTINCT De Zwaluw). Do not redo Wijshage/Mater Dei/Den Akker/Vander Stokken/Ten Anker/De Zwaluw/Kuurne/SJ Brugge/HH Grimbergen/Mater Amabilis/Maria Moorslede/MSW NZVL/Welvaart/Vulpia/Compostela/.../AGB Bornem/Armonea/Always Home.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **empty** (abbreviated schema all years); pnl **EUR390004** JUMP +14.68% vs YE2024 EUR340073; equity **EUR3091145** JUMP +14.44%; bruto **EUR500069** JUMP +4.49% vs YE2024 EUR478591 but **DROP -79.18% vs YE2022 EUR2401813**; FTE **Unknown** (CW reports 0); neerlegging **23.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief NV 1 VE; email info.stuyvenberg@cura-care.be.
+- Wrote: sources (+5); budgets (+4 pnl/equity/bruto + note omzet/FTE Unknown); commitments (+1); leaderboard (+1 pi 4.4); entities (+1 nv_home_stuyvenberg_herzele); foi + draft gap_stuyvenberg_nbb_pdf_assets_debt_omzet_empty_fte_bruto_collapse_matrix_l5; rq_2083=done + rq_2084 open; loop_state ticks=2083; raw under docs/doge/data/raw/tick2083/.
+- FOI: **ready not sent** (human-gated; info.stuyvenberg@cura-care.be).
+- NOT every-10 (**next every-10 is 2090**). Next: rq_2084 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
