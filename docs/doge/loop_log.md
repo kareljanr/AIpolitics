@@ -23295,3 +23295,12 @@ Append-only. Each tick adds a short entry.
 - **C** L2 entities: **~99%** order-of-magnitude
 - **D** L5 end-receivers: **~74-88%** generous; +10 residual dual 2021-2030 (WZC/psych) - **not** near-complete of 348bn
 - **E** FOI-ready: **~1647** drafts; answered ~11; partial ~28
+
+
+## Tick 2031 - 2026-08-24T12:25:00Z - rq_2031 WZC St Vincentius Antwerpen/Ekeren (omzet JUMP 7.55m / pnl JUMP 0.43m / Medium)
+
+- Unit: **rq_2031** leftover dual after **rq_2030 EVERY-10 + WZC Sint-Jozef Rillaar**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took unused leftover **WZC St Vincentius Antwerpen/Ekeren** YE2025 (KBO **0418.016.550**; Dorpstraat 32 Ekeren; Antwerpen **WZC VZW**). Distinct from Avelgem. Do not redo Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR7,550,039** JUMP +1.54%; pnl **EUR427,313** JUMP +21.50%; equity **EUR12,448,629** JUMP +1.19%; bruto **EUR7,362,184** JUMP +1.87%; FTE **89.8**; neerlegging **17.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 2 VE; email info@vincentiusekeren.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_st_vincentius_antwerpen); foi + draft gap_wzc_st_vincentius_antwerpen_nbb_pdf_assets_debt_matrix_l5; rq_2031=done + rq_2032 open; loop_state ticks=2031; raw under docs/doge/data/raw/tick2031/.
+- FOI: **ready not sent** (human-gated; info@vincentiusekeren.be).
+- NOT every-10 (**next every-10 is 2040**). Next: rq_2032 (AGB/FARO-if-YE2025 / AIESH-REW / Lourdes-OLVA-Triest / unused DSO-IGS-HVZ).
