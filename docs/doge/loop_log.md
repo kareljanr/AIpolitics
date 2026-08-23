@@ -22705,3 +22705,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1); entities (+1 vzw_chu_helora); foi + draft gap_helora_nbb_pdf_assets_debt_passelecq_matrix_l5; rq_1964=done + rq_1965 open; loop_state ticks=1964.
 - FOI: **ready not sent** (human-gated; HELORA no KBO mailbox — cc Passelecq officiel + postal).
 - NOT every-10 (**next every-10 is 1970**). Next: rq_1965 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
+
+
+## Tick 1965 - 2026-08-23T18:30:00Z - rq_1965 CENEO (assets 1.172bn / pnl DROP 41.35m / Strong)
+
+- Unit: **rq_1965** leftover dual after **rq_1964 CHU HELORA**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. IDEA already Strong RA-mined. HYGEA CW still YE2024. Took unused leftover **CENEO** YE2025 (KBO **0201.645.281**; Boulevard Pierre Mayence 1/1 Charleroi; Walloon Hainaut energy holding / ex-IPFH; **ORES Assets + SOCOFE dual**; same seat/management as IGRETEC). Do not redo HELORA/iMio/Passelecq/IGRETEC/IPFBW/Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/INASEP/inBW/AIDE/ORES/IDEA.
+- Found: Strong [Mons AG 29.06.2026 Rapport financier PDF](https://www.mons.be/fr/ma-commune/vie-politique/intercommunales/ceneo-1/ceneo/ag-du-29-juin-2026/publiable-ceneo_rapport-financier_2025.pdf/@@download/file/Publiable%20-%20CENEO_Rapport-financier_2025.pdf) + Medium [Companyweb NL](https://www.companyweb.be/nl/0201645281/ceneo)/[EN](https://www.companyweb.be/en/0201645281/ceneo) + Strong KBO: assets **EUR1,171,706,286.70**; pnl **EUR41,353,730.07** (**DROP −2.9%**); equity **EUR959,638,681**; debt **EUR212,067,606.08**; dividends received **EUR45,469,560.23**; omzet **EUR954,029.31**; dividend out **EUR24,775,000**; ORES Assets VNC **EUR792,362,510.24** (70.21%); SOCOFE **EUR309,568,103** (27.42%); neerlegging **21.07.2026**.
+- Wrote: sources (+4); budgets (+7); commitments (+1); leaderboard (+1); entities (+1 ceneo); foi + draft gap_ceneo_nbb_pdf_commune_dividend_matrix_l5; rq_1965=done + rq_1966 open; loop_state ticks=1965; raw PDF saved.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1970**). Next: rq_1966 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).

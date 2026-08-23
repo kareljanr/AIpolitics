@@ -51868,3 +51868,10 @@ bud_helora_bruto_jr2025_statutory,vzw_chu_helora,2025,391037739,,,CW NBB-derived
 bud_helora_equity_jr2025_statutory,vzw_chu_helora,2025,135310273,,,CW NBB-derived equity,src_helora_jr2025_cw,medium,tick1964; YE2025 equity 135310273 JUMP +3.95pct vs 130173997
 bud_helora_fte_jr2025_statutory,vzw_chu_helora,2025,4026.3,,,CW social-balance FTE,src_helora_jr2025_cw,medium,tick1964; YE2025 FTE 4026.3 DROP vs 4176.9 YE2024 / 4566.1 YE2023
 bud_helora_assets_jr2024_upswitch_lag,vzw_chu_helora,2024,633265402,,,Upswitch NBB YE2024 assets (YE2025 Unknown),src_helora_jr2024_upswitch,medium,tick1964; YE2024 assets 633265402 for context; YE2025 assets Unknown this tick
+bud_ceneo_pnl_jr2025_statutory,ceneo,2025,41353730.07,,,AG Rapport financier + CW Winst/Verlies,src_ceneo_jr2025_ag_mons,strong,tick1965; YE2025 pnl 41353730.07 DROP -2.9pct vs 42588575.32
+bud_ceneo_assets_jr2025_statutory,ceneo,2025,1171706286.70,,,AG bilan total actif,src_ceneo_jr2025_ag_mons,strong,tick1965; YE2025 assets 1171706286.70 vs 1168722606.42 YE2024
+bud_ceneo_equity_jr2025_statutory,ceneo,2025,959638681,,,CW equity + AG apport/reval/reserves recon,src_ceneo_jr2025_cw,strong,tick1965; YE2025 equity 959638681 JUMP +1.76pct; AG apport 327.2m reval 386.5m reserves 245.9m
+bud_ceneo_debt_jr2025_statutory,ceneo,2025,212067606.08,,,AG dettes LT+ST,src_ceneo_jr2025_ag_mons,strong,tick1965; YE2025 debt 212067606.08 (LT 154505775.05 + ST 57123285.57)
+bud_ceneo_dividends_recv_jr2025_statutory,ceneo,2025,45469560.23,,,AG produits participations / dividends received,src_ceneo_jr2025_ag_mons,strong,tick1965; YE2025 dividends received 45469560.23 DROP -2.73pct (ORES Assets 32436437.49 / SOCOFE 11149407 / Engie 1860510.96)
+bud_ceneo_omzet_jr2025_statutory,ceneo,2025,954029.31,,,CW omzet (holding CA; dividends off CA line),src_ceneo_jr2025_cw,medium,tick1965; YE2025 omzet JUMP 954029.31 +90.64pct; not primary economic flow vs dividends 45.5m
+bud_ceneo_dividend_out_jr2025_statutory,ceneo,2025,24775000,,,AG attribution aux associes,src_ceneo_jr2025_ag_mons,strong,tick1965; YE2025 dividend to commune associates 24775000 per strategic plan
