@@ -51362,3 +51362,17 @@ bud_thorpark_omzet_0_26m_jr2025,nv_thorpark,2025,262585,,,CW NBB-derived 70 omze
 bud_thorpark_bruto_neg_0_21m_jr2025,nv_thorpark,2025,-208216,,,CW NBB-derived 9900 brutomarge YE31122025 NEG,src_thorpark_jr2025_cw,medium,tick1884; NEG deepening vs prior -0.17m; not TE-additive
 bud_thorpark_pnl_neg_0_075m_jr2025,nv_thorpark,2025,-75113,,,CW NBB-derived 9904 winst boekjaar LOSS,src_thorpark_jr2025_cw,medium,tick1884; LOSS vs prior profit 0.26m; Pappers ~413k FOI reconcile; not TE-additive
 bud_thorpark_equity_32_70m_jr2025,nv_thorpark,2025,32702732,,,CW NBB-derived 10/15 eigen vermogen,src_thorpark_jr2025_cw,medium,tick1884; flat vs prior 32.78m; not TE-additive
+bud_lrm_assets_jr2025,nv_lrm,2025,543203000,,,VO 3.1 code 20/58 totaal activa 543203 kEUR,src_lrm_jr2025_vp,strong,tick1885; VP form in kEUR ×1000; not TE-additive holding
+bud_lrm_fva_jr2025,nv_lrm,2025,516066000,,,VO 3.1 code 28 FVA 516066 kEUR (deelnemingen+vorderingen),src_lrm_jr2025_vp,strong,tick1885; VP form in kEUR ×1000; not TE-additive holding
+bud_lrm_equity_jr2025,nv_lrm,2025,521192000,,,VO 3.2 code 10/15 eigen vermogen 521192 kEUR,src_lrm_jr2025_vp,strong,tick1885; VP form in kEUR ×1000; not TE-additive holding
+bud_lrm_capital_jr2025,nv_lrm,2025,343047000,,,VO 3.2 code 10 geplaatst kapitaal 343047 kEUR,src_lrm_jr2025_vp,strong,tick1885; VP form in kEUR ×1000; not TE-additive holding
+bud_lrm_debt_jr2025,nv_lrm,2025,21745000,,,VO 3.2 code 17/49 schulden 21745 kEUR (mostly ST),src_lrm_jr2025_vp,strong,tick1885; VP form in kEUR ×1000; not TE-additive holding
+bud_lrm_cash_jr2025,nv_lrm,2025,10400000,,,VO 3.1 code 54/58 liquide middelen 10400 kEUR,src_lrm_jr2025_vp,strong,tick1885; VP form in kEUR ×1000; not TE-additive holding
+bud_lrm_omzet_jr2025,nv_lrm,2025,2189000,,,VO 4 code 70 omzet 2189 kEUR,src_lrm_jr2025_vp,strong,tick1885; VP form in kEUR ×1000; not TE-additive holding
+bud_lrm_bedrijfsopbr_jr2025,nv_lrm,2025,2707000,,,VO 4 code 70/76A bedrijfsopbrengsten 2707 kEUR,src_lrm_jr2025_vp,strong,tick1885; VP form in kEUR ×1000; not TE-additive holding
+bud_lrm_bedrijfskost_jr2025,nv_lrm,2025,11687000,,,VO 4 code 60/66A bedrijfskosten 11687 kEUR,src_lrm_jr2025_vp,strong,tick1885; VP form in kEUR ×1000; not TE-additive holding
+bud_lrm_staff_jr2025,nv_lrm,2025,6978000,,,VO 4 code 62 bezoldigingen 6978 kEUR,src_lrm_jr2025_vp,strong,tick1885; VP form in kEUR ×1000; not TE-additive holding
+bud_lrm_expl_neg_jr2025,nv_lrm,2025,-8980000,,,VO 4 code 9901 bedrijfsresultaat NEG -8980 kEUR,src_lrm_jr2025_vp,strong,tick1885; VP form in kEUR ×1000; not TE-additive holding
+bud_lrm_fin_opbr_jr2025,nv_lrm,2025,33793000,,,VO 4 code 75/76B financiële opbrengsten 33793 kEUR,src_lrm_jr2025_vp,strong,tick1885; VP form in kEUR ×1000; not TE-additive holding
+bud_lrm_pnl_jr2025,nv_lrm,2025,17829000,,,VO 5 code 9905 te bestemmen resultaat boekjaar 17829 kEUR,src_lrm_jr2025_vp,strong,tick1885; VP form in kEUR ×1000; not TE-additive holding
+bud_lrm_dividend_jr2025,nv_lrm,2025,6000000,,,VO 5 code 694 vergoeding kapitaal / dividend 6000 kEUR,src_lrm_jr2025_vp,strong,tick1885; VP form in kEUR ×1000; not TE-additive holding

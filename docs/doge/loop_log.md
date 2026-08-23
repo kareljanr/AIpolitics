@@ -21981,3 +21981,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_thorpark_nbb_pdf_neg_bruto_pnl_reconcile_l5; rq_1884=done + rq_1885 open; loop_state ticks=1884.
 - FOI opened: NBB PDF + NEG bruto/PnL reconcile / share % (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1890**). Next: rq_1885 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS/Mijnen).
+
+## Tick 1885 - 2026-08-26T13:45:00Z - rq_1885 LRM NV (assets 543m / FVA 516m / Strong)
+
+- Unit: **rq_1885** leftover dual after Thor Park. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN FOI; FARO JV2025 already mined (tick1713) but **NBB YE2025 unpublished**; OP-TIL/VI.BE taken; HVZ stack largely taken. Took leftover **Limburgse Reconversie Maatschappij NV (LRM)** parent (KBO **0452.138.972**; VL **EVA PR**; Hasselt; parent of mined Corda/Thor/Droneport incubators).
+- Primary: **Strong** euros from official [VL Parlement / DFB VO JR2025](https://docs.vlaamsparlement.be/files/pfile?id=2321629) (AV **18.05.2026**; amounts in kEUR): assets **EUR543,203,000**; FVA **EUR516,066,000**; equity **EUR521,192,000**; omzet **EUR2,189,000**; bedrijfskosten **EUR11,687,000**; staff **EUR6,978,000**; expl **NEG EUR-8,980,000**; fin. opbr. **EUR33,793,000**; PnL **EUR17,829,000**; dividend **EUR6,000,000**; cash **EUR10,400,000**; debt **EUR21,745,000**. CW cross-check VTE **46.7** / neerlegging **12.06.2026**.
+- Wrote: sources (+5); budgets (+14); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_lrm_nbb_pdf_fva_516m_portfolio_l5; rq_1885=done + rq_1886 open; loop_state ticks=1885.
+- FOI opened: NBB PDF cents + FVA portfolio L5 / VTE / public subsidies (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1890**). Next: rq_1886 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS/IOED/Mijnen / Campus EnergyVille if YE2025).
