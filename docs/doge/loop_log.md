@@ -22620,3 +22620,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+9); commitments (+1); leaderboard (+1); entities (+1 nv_ire_elit + parent notes); foi + draft gap_ire_elit_nbb_pdf_parent_tp_dividend_l5; rq_1957=done + rq_1958 open; loop_state ticks=1957.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1960**). Next: rq_1958 (AGB/FARO-if-YE2025 / AIESH-REW / IRE-parent-if-YE2025 / unused water-DSO-IGS-HVZ).
+
+## Tick 1958 - 2026-08-23T15:20:00Z - rq_1958 IRE Fleurus parent (omzet DROP 73.58m / pnl LOSS 2.23m / assets 311.97m / Medium)
+
+- Unit: **rq_1958** leftover dual after concurrent **rq_1957 IRE ELiT** (already on main). Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (narrative JV2025 only; NBB YE2025 unpublished); AIESH still **YE2024**; REW still **YE2024**. Took leftover **IRE Fleurus parent** statutory YE2025 (KBO **0408.449.677**; Avenue de l'Espérance 1 Fleurus; SON medical radioisotopes; **IRE ELiT dual** already mined 1957). Do not redo IRE ELiT/FANC/SCK CEN/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92.
+- Found: Companyweb+Rovalta YE2025 — omzet **EUR73,583,681** DROP -16.56%; bruto **EUR34,261,391**; pnl **LOSS EUR-2,232,791**; operating **LOSS EUR-4,752,011**; assets **EUR311,968,419** DROP; equity **EUR230,520,047**; EBITDA **EUR2,778,810** DROP; schulden **EUR63,962,093**; cash **EUR7,477,505** DROP; staff **EUR31,014,078**; FTE **223**. Medium confidence (NBB-derived aggregators; primary deposit PDF unresolved). Upswitch still YE2024-only for parent.
+- Wrote: sources (+3); budgets (+9 statutory); commitments (+1); leaderboard (+1); entities (updated ire_radioelements + ire); foi + draft gap_ire_nbb_pdf_debt_cash_elit_federal_ba_l5; rq_1958=done + rq_1959 open; loop_state ticks=1958.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1960**). Next: rq_1959 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / unused water-DSO-IGS-HVZ).

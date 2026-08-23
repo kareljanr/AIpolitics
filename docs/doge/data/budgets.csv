@@ -51810,3 +51810,12 @@ bud_ire_elit_operating_jr2025_upswitch,nv_ire_elit,2025,7555995,,,Upswitch NBB-d
 bud_ire_elit_ebitda_jr2025_upswitch,nv_ire_elit,2025,8504126,,,Upswitch NBB-derived EBITDA,src_ire_elit_jr2025_upswitch,medium,tick1957; YE2025 EBITDA 8504126 JUMP vs 6667102; ~19.1pct of omzet
 bud_ire_elit_schulden_jr2025_sbm,nv_ire_elit,2025,4450641,,,SBM NBB-derived schulden 17/49,src_ire_elit_jr2025_sbm,medium,tick1957; YE2025 schulden 4450641 DROP vs 11384841 YE2024; LT/ST Unknown pending NBB PDF
 bud_ire_elit_fte_jr2025_statutory,nv_ire_elit,2025,54,,,CW social-balance FTE,src_ire_elit_jr2025_cw,medium,tick1957; YE2025 FTE 54 vs 49 YE2024; group site claims ~300 IRE+ELiT combined
+bud_ire_omzet_jr2025_statutory,ire_radioelements,2025,73583681,,,CW+Rovalta NBB-derived omzet statutory,src_ire_jr2025_cw,medium,tick1958; YE2025 omzet 73583681 DROP -16.56pct vs 88188241; not additive to ELiT/federal BA
+bud_ire_pnl_jr2025_statutory,ire_radioelements,2025,-2232791,,,CW+Rovalta NBB-derived net PnL,src_ire_jr2025_cw,medium,tick1958; YE2025 pnl LOSS -2232791 vs +8498292 YE2024; operating LOSS -4752011 distinct
+bud_ire_bruto_jr2025_statutory,ire_radioelements,2025,34261391,,,CW NBB-derived bruto,src_ire_jr2025_cw,medium,tick1958; YE2025 bruto 34261391 DROP -20.3pct vs 42985817
+bud_ire_equity_jr2025_statutory,ire_radioelements,2025,230520047,,,CW+Rovalta NBB-derived equity,src_ire_jr2025_cw,medium,tick1958; YE2025 equity 230520047 DROP -0.33pct vs 231282955; ~73.9pct of assets
+bud_ire_assets_jr2025_rovalta,ire_radioelements,2025,311968419,,,Rovalta NBB-derived assets,src_ire_jr2025_rovalta,medium,tick1958; YE2025 assets 311968419 DROP vs 332011760 YE2024; current assets 178799450
+bud_ire_ebitda_jr2025_rovalta,ire_radioelements,2025,2778810,,,Rovalta NBB-derived EBITDA,src_ire_jr2025_rovalta,medium,tick1958; YE2025 EBITDA 2778810 DROP vs ~10.88m YE2024 Upswitch; ~3.8pct of omzet
+bud_ire_schulden_jr2025_rovalta,ire_radioelements,2025,63962093,,,Rovalta NBB-derived total liabilities,src_ire_jr2025_rovalta,medium,tick1958; YE2025 schulden 63962093 vs 83743899 YE2024; ST ~63519706 LT Unknown pending NBB PDF
+bud_ire_cash_jr2025_rovalta,ire_radioelements,2025,7477505,,,Rovalta NBB-derived cash and equivalents,src_ire_jr2025_rovalta,medium,tick1958; YE2025 cash 7477505 DROP vs 32546491 YE2024
+bud_ire_fte_jr2025_statutory,ire_radioelements,2025,223,,,CW+Rovalta social-balance FTE,src_ire_jr2025_cw,medium,tick1958; YE2025 FTE 223 flat vs YE2024; staff costs 31014078; ELiT dual separate (tick1957)
