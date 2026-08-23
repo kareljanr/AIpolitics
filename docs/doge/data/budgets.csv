@@ -51502,3 +51502,9 @@ bud_soltech_equity_jr2025,nv_soltech,2025,1050637,,,CW/Upswitch NBB-derived 10/1
 bud_soltech_assets_jr2025,nv_soltech,2025,10878202,,,Upswitch NBB/CBSO 20/58,src_soltech_jr2025_upswitch,medium,tick1909; YE2025 assets 10878202 DROP vs 11.34m
 bud_soltech_ebitda_jr2025,nv_soltech,2025,-1299908,,,Upswitch NBB/CBSO EBITDA NEG,src_soltech_jr2025_upswitch,medium,tick1909; YE2025 EBITDA NEG -1299908
 bud_soltech_fte_jr2025,nv_soltech,2025,31,,,CW NBB-derived FTE 31.4,src_soltech_jr2025_cw,medium,tick1909; YE2025 FTE 31.4 (stored 31)
+bud_nobelwind_omzet_jr2025,nv_nobelwind,2025,98170091,,,CW/Upswitch NBB-derived code 70,src_nobelwind_jr2025_cw,medium,tick1910; YE2025 omzet 98170091 DROP -11.56pct
+bud_nobelwind_bruto_jr2025,nv_nobelwind,2025,72282840,,,CW NBB-derived 9900,src_nobelwind_jr2025_cw,medium,tick1910; YE2025 bruto 72282840 DROP -9.98pct
+bud_nobelwind_pnl_jr2025,nv_nobelwind,2025,23122623,,,CW NBB-derived 9904,src_nobelwind_jr2025_cw,medium,tick1910; YE2025 pnl 23122623 DROP -19.51pct
+bud_nobelwind_assets_jr2025,nv_nobelwind,2025,378893096,,,Upswitch NBB/CBSO 20/58,src_nobelwind_jr2025_upswitch,medium,tick1910; YE2025 assets 378893096 DROP vs 390.6m
+bud_nobelwind_equity_jr2025,nv_nobelwind,2025,14298486,,,CW/Upswitch NBB-derived 10/15,src_nobelwind_jr2025_cw,medium,tick1910; YE2025 equity 14298486 JUMP +23.56pct
+bud_nobelwind_ebitda_jr2025,nv_nobelwind,2025,72248990,,,Upswitch NBB/CBSO EBITDA,src_nobelwind_jr2025_upswitch,medium,tick1910; YE2025 EBITDA 72248990 ~73.6pct omzet

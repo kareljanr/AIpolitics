@@ -22202,3 +22202,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_soltech_nbb_pdf_share_loss_going_concern_l5; rq_1909=done + rq_1910 open (EVERY-10); loop_state ticks=1909.
 - FOI opened: NBB PDF + share % / LOSS going-concern (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1910**). Next: rq_1910 MUST refresh progress+waste top10 then hole-fill.
+
+## Tick 1910 - 2026-08-27T02:15:00Z - EVERY-10 + rq_1910 Nobelwind (omzet 98.2m / assets 378.9m / Medium)
+
+- Unit: **rq_1910** EVERY-10 after SOLTECH. Refreshed **progress_every_10_ticks.md** (tick 1910 snapshot) + **doge_waste_top10_current.md** (top10 stable GIP/fossil/cars/cheque/reporté). Prefer NON-Eneco live hole-fill: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2025 NBB miss. Took leftover **Nobelwind NV** (KBO **0543.652.534**; Sint-Maartenstraat 5 Leuven; Parkwind Belwind phase-2 165 MW; NON-Eneco).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0543652534/nobelwind) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/nobelwind-0543652534) (neerlegging **15.05.2026**; YE **31.12.2025**): omzet **EUR98,170,091** (DROP -11.56%); bruto **EUR72,282,840**; PnL **EUR23,122,623** (DROP -19.51%); assets **EUR378,893,096**; equity **EUR14,298,486** (JUMP +23.56%); EBITDA **EUR72,248,990**; FTE **0**.
+- Wrote: progress+waste markdown; sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_nobelwind_nbb_pdf_share_debt_ppa_l5; rq_1910=done + rq_1911 open; loop_state ticks=1910.
+- FOI opened: NBB PDF + share % / debt / PPA (**ready**, human-send only).
+- **EVERY-10 DONE.** Next every-10 is **1920**. Next: rq_1911 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Belwind-Northwester).
