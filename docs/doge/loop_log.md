@@ -22612,3 +22612,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+8 statutory); commitments (+1); leaderboard (+1); entities (updated fanc); foi + draft gap_fanc_nbb_pdf_debt_belv_fee_recon_l5; rq_1956=done + rq_1957 open; loop_state ticks=1956.
 - FOI opened: NBB PDF + debt/cash + Bel V recovery + Kamer fee recon (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1960**). Next: rq_1957 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / IRE-if-unused / unused water-DSO-IGS-HVZ).
+
+## Tick 1957 - 2026-08-23T15:00:00Z - rq_1957 IRE ELiT (omzet JUMP 44.59m / equity JUMP 14.18m / Medium)
+
+- Unit: **rq_1957** leftover dual after concurrent **rq_1956 FANC** (already on main). Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024**. Took leftover **IRE ELiT NV** (KBO **0826.980.032**; Avenue de l'Espérance 1 Fleurus; IRE FUP radiopharma daughter; YE2025 live CW). Do not redo FANC/SCK CEN/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92/Synatom.
+- Found: Companyweb+Upswitch+SBM YE2025 — omzet **EUR44,587,904** JUMP +17.36%; bruto **EUR14,727,315**; pnl **EUR6,872,467**; operating **EUR7,555,995**; assets **EUR19,493,610**; equity **EUR14,178,731** JUMP +94%; EBITDA **EUR8,504,126**; schulden **EUR4,450,641** DROP; FTE **54**. Parent IRE FUP still YE2024. Medium confidence.
+- Wrote: sources (+4); budgets (+9); commitments (+1); leaderboard (+1); entities (+1 nv_ire_elit + parent notes); foi + draft gap_ire_elit_nbb_pdf_parent_tp_dividend_l5; rq_1957=done + rq_1958 open; loop_state ticks=1957.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1960**). Next: rq_1958 (AGB/FARO-if-YE2025 / AIESH-REW / IRE-parent-if-YE2025 / unused water-DSO-IGS-HVZ).

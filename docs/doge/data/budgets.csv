@@ -51801,3 +51801,12 @@ bud_fanc_assets_jr2025_upswitch,fanc,2025,59811395,,,Upswitch NBB-derived assets
 bud_fanc_ebitda_jr2025_upswitch,fanc,2025,5575879,,,Upswitch NBB-derived EBITDA,src_fanc_jr2025_upswitch,medium,tick1956; YE2025 EBITDA 5575879 JUMP vs 4223275 YE2024; ~16.2pct of omzet
 bud_fanc_debt_jr2025_recon,fanc,2025,6018266,,,assets-equity recon Medium (NBB-derived),src_fanc_jr2025_upswitch,medium,tick1956; YE2025 debt ~6018266 = assets 59811395 - equity 53793129; FOI LT/ST split
 bud_fanc_fte_jr2025_statutory,fanc,2025,142.9,,,CW social-balance FTE,src_fanc_jr2025_cw,medium,tick1956; YE2025 FTE 142.9 vs 143.8 YE2024
+bud_ire_elit_omzet_jr2025_statutory,nv_ire_elit,2025,44587904,,,CW NBB-derived omzet statutory,src_ire_elit_jr2025_cw,medium,tick1957; YE2025 omzet 44587904 JUMP +17.36pct vs 37992619
+bud_ire_elit_pnl_jr2025_statutory,nv_ire_elit,2025,6872467,,,CW NBB-derived net PnL,src_ire_elit_jr2025_cw,medium,tick1957; YE2025 pnl JUMP 6872467 +27.73pct vs 5380255; operating Upswitch 7555995 distinct
+bud_ire_elit_bruto_jr2025_statutory,nv_ire_elit,2025,14727315,,,CW NBB-derived bruto,src_ire_elit_jr2025_cw,medium,tick1957; YE2025 bruto 14727315 JUMP +16.68pct vs 12621690
+bud_ire_elit_equity_jr2025_statutory,nv_ire_elit,2025,14178731,,,CW+Upswitch NBB-derived equity,src_ire_elit_jr2025_cw,medium,tick1957; YE2025 equity JUMP 14178731 +94.06pct vs 7306265; ~73pct of assets
+bud_ire_elit_assets_jr2025_upswitch,nv_ire_elit,2025,19493610,,,Upswitch+SBM NBB-derived assets,src_ire_elit_jr2025_upswitch,medium,tick1957; YE2025 assets 19493610 vs 19471529 YE2024; flat BS / equity thickening
+bud_ire_elit_operating_jr2025_upswitch,nv_ire_elit,2025,7555995,,,Upswitch NBB-derived operating / SBM bedrijfswinst,src_ire_elit_jr2025_upswitch,medium,tick1957; YE2025 operating 7555995 vs 5753835 YE2024
+bud_ire_elit_ebitda_jr2025_upswitch,nv_ire_elit,2025,8504126,,,Upswitch NBB-derived EBITDA,src_ire_elit_jr2025_upswitch,medium,tick1957; YE2025 EBITDA 8504126 JUMP vs 6667102; ~19.1pct of omzet
+bud_ire_elit_schulden_jr2025_sbm,nv_ire_elit,2025,4450641,,,SBM NBB-derived schulden 17/49,src_ire_elit_jr2025_sbm,medium,tick1957; YE2025 schulden 4450641 DROP vs 11384841 YE2024; LT/ST Unknown pending NBB PDF
+bud_ire_elit_fte_jr2025_statutory,nv_ire_elit,2025,54,,,CW social-balance FTE,src_ire_elit_jr2025_cw,medium,tick1957; YE2025 FTE 54 vs 49 YE2024; group site claims ~300 IRE+ELiT combined
