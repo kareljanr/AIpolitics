@@ -23645,3 +23645,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_bejaardenzorg_zusters_sv_deinze); foi + draft gap_deinze_zusters_nbb_pdf_assets_debt_pnl_deeper_loss_matrix_l5; rq_2066=done + rq_2067 open; loop_state ticks=2066; raw under docs/doge/data/raw/tick2066/.
 - FOI: **ready not sent** (human-gated; info@svbejaardenzorg.be).
 - NOT every-10 (**next every-10 is 2070**). Next: rq_2067 (AGB/FARO-if-YE2025 / AIESH-REW / Leiehome-Compostela-AlwaysHome-Vulpia deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2067 - 2026-08-24T21:50:00Z - rq_2067 Leiehome (omzet JUMP 10.83m / pnl DEEPER LOSS 0.44m / Medium)
+
+- Unit: **rq_2067** leftover dual after **rq_2066 Zusters SV Deinze**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **Leiehome** YE2025 (KBO **0410.556.557**; Kloosterstraat 9 Gent-Drongen; Oost-Vlaanderen **aanbestedende-overheid VZW** WZC / **2 VE**). Compostela / Always Home / Vulpia YE2025 also live - deferred. Do not redo Zusters SV Deinze/OLV Bornem/Huize Sint-Jozef Ieper/Sint-Antonius/OLV Wezembeek/Ter Burg/Christine/Vrijzicht/'t Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/Lourdes/St Vincentius Antwerpen/Rillaar/Karus/De Foyer/Sint-Jozef Rumst/Veilige Have/Witte Meren/Zusterhof.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR10,830,839** JUMP +3.52%; pnl **LOSS EUR-440,217** DEEPER vs YE2024 LOSS EUR-204,317; equity **EUR15,465,943** DROP -2.59%; bruto **EUR10,430,638** JUMP +2.30%; FTE **135.1**; neerlegging **01.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende overheid 2 VE; email info@leiehome.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_leiehome); foi + draft gap_leiehome_nbb_pdf_assets_debt_pnl_deeper_loss_matrix_l5; rq_2067=done + rq_2068 open; loop_state ticks=2067; raw under docs/doge/data/raw/tick2067/.
+- FOI: **ready not sent** (human-gated; info@leiehome.be).
+- NOT every-10 (**next every-10 is 2070**). Next: rq_2068 (AGB/FARO-if-YE2025 / AIESH-REW / Compostela-AlwaysHome-Vulpia deferred / unused DSO-IGS-HVZ-WZC-psych).
