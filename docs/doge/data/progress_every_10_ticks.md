@@ -20,6 +20,39 @@
 
 ---
 
+## Snapshot at **tick 1920** (2026-08-27)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1911-1920 Parkwind/Elicio/Aspiravi continuum after 1910 Nobelwind |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1911-1920 is residual dual L5 (not near-complete of 348bn):** **Belwind** omzet **79.7m** / equity JUMP **22.3m** · **Northwester 2** omzet **75.6m** / assets **470m** · **Power@sea** equity **22.2m** / pnl DROP · **Norther** omzet **170.8m** / assets **817m** · **Green Offshore** equity **24.4m** / pnl DROP · **C-Power NV** omzet **130.5m** / assets **536m** · **Elicio** pnl **32.8m** DROP / assets **300m** · **Aspiravi** omzet **79.5m** / assets **333m** · **Parkwind** pnl **21.7m** DROP / assets **513m** · **Aspiravi Energy** omzet **84.1m** / equity JUMP **5.86m** (this tick) |
+| **E. FOI-ready gaps** | **~1534** drafts ready | Human send only; answered **~11**; partial **~28**; total FOI rows **~1586** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable shells** (**NEW 1911-1920** Belwind/NW2/Power@sea/Norther/Green Offshore · **C-Power NV** Thorntonbank · **Elicio** Nethys holding · **Aspiravi** / **Aspiravi Energy** municipal · **Parkwind** JERA holding · prior SeaMade/Nobelwind/Rentel/Otary/Nuhma retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG / Nuhma/Otary/Parkwind/Aspiravi renewable path possible; Medium aggregators pending NBB PDF.**
+
+### Inventory (tick 1920)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 51568 |
+| commitments.csv | 5582 |
+| leaderboard.csv | 7703 |
+| entities.csv | 1633 |
+| sources.csv | 4576 |
+| FOI ready | 1534 |
+| FOI answered | 11 |
+| FOI partial | 28 |
+| FOI total rows | 1586 |
+| research_queue open | rq_1921 after progress |
+
+### What improved since tick 1910
+
+- **Residual dual (tick1911-1920):** **Belwind** · **Northwester 2** · **Power@sea** · **Norther** · **Green Offshore** · **C-Power NV** · **Elicio** · **Aspiravi** · **Parkwind** · **Aspiravi Energy** (this tick EVERY-10).
+- **Blocked still:** AGB Bornem JR2024-only · Dijk92 YE2025 CDN **403** · FARO NBB YE2025 unpublished (YE2024 filing) · Socofe / WE Environnement / Aspiravi Holding YE2024-only · Bosgroep IJzer/Houtland/Limburg YE2025 unpublished · prior Eneco deposit FOI stack.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified; corrupt AGB pi≥12 / OWV snowball stock / Metro3 stock filtered off pure annual). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1930**.
+
 ## Snapshot at **tick 1910** (2026-08-27)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

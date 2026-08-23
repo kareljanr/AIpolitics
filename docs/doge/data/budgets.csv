@@ -51563,3 +51563,7 @@ bud_parkwind_assets_jr2025,nv_parkwind,2025,512557638,,,Upswitch NBB/CBSO 20/58,
 bud_parkwind_equity_jr2025,nv_parkwind,2025,484846247,,,CW/Upswitch NBB-derived 10/15,src_parkwind_jr2025_cw,medium,tick1919; YE2025 equity 484846247 DROP -5.74pct
 bud_parkwind_ebitda_jr2025,nv_parkwind,2025,-12292066,,,Upswitch NBB/CBSO EBITDA,src_parkwind_jr2025_upswitch,medium,tick1919; YE2025 EBITDA NEG -12292066; expl NEG -12703362
 bud_parkwind_fte_jr2025,nv_parkwind,2025,190,,,CW NBB-derived FTE 189.8,src_parkwind_jr2025_cw,medium,tick1919; YE2025 FTE 189.8 (stored 190)
+bud_aspiravi_energy_omzet_jr2025,nv_aspiravi_energy,2025,84064358,,,CW NBB-derived code 70,src_aspiravi_energy_jr2025_cw,medium,tick1920; YE2025 omzet 84064358 JUMP +4.06pct
+bud_aspiravi_energy_bruto_jr2025,nv_aspiravi_energy,2025,1967147,,,CW NBB-derived 9900,src_aspiravi_energy_jr2025_cw,medium,tick1920; YE2025 bruto 1967147 DROP -30.63pct
+bud_aspiravi_energy_pnl_jr2025,nv_aspiravi_energy,2025,1376616,,,CW NBB-derived 9904,src_aspiravi_energy_jr2025_cw,medium,tick1920; YE2025 pnl 1376616 DROP -33.54pct
+bud_aspiravi_energy_equity_jr2025,nv_aspiravi_energy,2025,5862173,,,CW NBB-derived 10/15,src_aspiravi_energy_jr2025_cw,medium,tick1920; YE2025 equity 5862173 JUMP +30.69pct

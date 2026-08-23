@@ -22282,3 +22282,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_parkwind_nbb_pdf_share_fva_debt_l5; rq_1919=done + rq_1920 open (EVERY-10); loop_state ticks=1919.
 - FOI opened: NBB PDF + JERA share % / FVA path for pnl vs NEG EBITDA / debt (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1920**). Next: rq_1920 MUST refresh progress+waste top10 then hole-fill.
+
+## Tick 1920 - 2026-08-27T07:15:00Z - EVERY-10 + rq_1920 Aspiravi Energy (omzet 84.1m / equity JUMP 5.86m / Medium)
+
+- Unit: **rq_1920** EVERY-10 after Parkwind. Refreshed **progress_every_10_ticks.md** (tick 1920 snapshot) + **doge_waste_top10_current.md** (top10 stable GIP/fossil/cars/cheque/reporté). Prefer NON-Eneco live hole-fill: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2024-filing; Socofe/WE/Aspiravi Holding YE2024. Took leftover **Aspiravi Energy NV** (KBO **0553.706.187**; President Kennedypark 8A/1 Kortrijk; municipal **aanbestedende overheid** electricity trade; distinct from Aspiravi NV / Offshore).
+- Primary hunt: NBB CDN deposit unresolved; Upswitch YE2024-only this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0553706187/aspiravi-energy) + KBO (neerlegging **06.06.2026**; YE **31.12.2025**): omzet **EUR84,064,358** (JUMP +4.06%); bruto **EUR1,967,147** (DROP -30.63%); PnL **EUR1,376,616** (DROP -33.54%); equity **EUR5,862,173** (JUMP +30.69%); FTE **0**; assets **Unknown**.
+- Wrote: progress+waste markdown; sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_aspiravi_energy_nbb_pdf_assets_share_ppa_l5; rq_1920=done + rq_1921 open; loop_state ticks=1920.
+- FOI opened: NBB PDF + assets/share % / PPA (**ready**, human-send only).
+- **EVERY-10 DONE.** Next every-10 is **1930**. Next: rq_1921 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Socofe-WE-AspiraviHolding-HVZ).
