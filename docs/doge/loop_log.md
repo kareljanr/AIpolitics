@@ -23564,3 +23564,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.0); entities (+1 vzw_tpandje_izegem); foi + draft gap_tpandje_nbb_pdf_assets_debt_pnl_flip_matrix_l5; rq_2058=done + rq_2059 open; loop_state ticks=2058; raw under docs/doge/data/raw/tick2058/.
 - FOI: **ready not sent** (human-gated; info@tpandje.be).
 - NOT every-10 (**next every-10 is 2060**). Next: rq_2059 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2059 - 2026-08-24T19:50:00Z - rq_2059 Home Vrijzicht (omzet JUMP 8.55m / pnl JUMP 0.20m / Medium)
+
+- Unit: **rq_2059** leftover dual after **rq_2058 't Pandje**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took unused leftover **WZC Home Vrijzicht** YE2025 (KBO **0416.337.262**; Veurnseweg 538 Ieper; West-Vlaanderen **VZW** WZC / **1 VE**). Christine / Ter Burg / OLV Wezembeek / Sint-Antonius YE2025 also live - deferred. Do not redo 't Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/Lourdes/St Vincentius Antwerpen/Rillaar/Karus/De Foyer/Sint-Jozef Rumst/Veilige Have/Witte Meren/Zusterhof.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR8,551,479** JUMP +1.38%; pnl **EUR195,194** JUMP +38.76%; equity **EUR5,953,029** JUMP +3.00%; bruto **EUR8,173,946** JUMP +0.83%; FTE **112.8**; neerlegging **10.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@homevrijzicht.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.0); entities (+1 vzw_wzc_home_vrijzicht); foi + draft gap_vrijzicht_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2059=done + rq_2060 open (EVERY-10); loop_state ticks=2059; raw under docs/doge/data/raw/tick2059/.
+- FOI: **ready not sent** (human-gated; info@homevrijzicht.be).
+- NOT every-10 (**next every-10 is 2060**). Next: rq_2060 (EVERY-10 mandatory + AGB/FARO-if-YE2025 / AIESH-REW / Christine-TerBurg-Wezembeek-Antonius deferred / unused DSO-IGS-HVZ-WZC-psych).
