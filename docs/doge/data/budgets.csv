@@ -51643,3 +51643,8 @@ bud_bno_pnl_jr2025,cv_bno,2025,1204,,,CW NBB-derived 9904,src_bno_jr2025_cw,medi
 bud_bno_equity_jr2025,cv_bno,2025,23229,,,CW/Upswitch NBB-derived 10/15,src_bno_jr2025_cw,medium,tick1933; YE2025 equity 23229 flat
 bud_bno_assets_jr2025,cv_bno,2025,30294672,,,Upswitch NBB/CBSO assets,src_bno_jr2025_upswitch,medium,tick1933; YE2025 assets 30294672 DROP vs 41.8m YE2024
 bud_bno_fte_jr2025,cv_bno,2025,1202,,,CW NBB-derived FTE 1201.7,src_bno_jr2025_cw,medium,tick1933; YE2025 FTE 1201.7 (stored 1202)
+bud_fluxys_omzet_jr2025,nv_fluxys,2025,7399583,,,CW NBB-derived omzet,src_fluxys_jr2025_cw,medium,tick1934; YE2025 omzet 7399583 DROP -7.9pct
+bud_fluxys_pnl_jr2025,nv_fluxys,2025,198711309,,,CW NBB-derived 9904,src_fluxys_jr2025_cw,medium,tick1934; YE2025 pnl 198711309 JUMP +24.22pct
+bud_fluxys_equity_jr2025,nv_fluxys,2025,1972830614,,,CW NBB-derived 10/15,src_fluxys_jr2025_cw,medium,tick1934; YE2025 equity 1972830614 JUMP +2.26pct
+bud_fluxys_bruto_jr2025,nv_fluxys,2025,-12256943,,,CW NBB-derived 9900,src_fluxys_jr2025_cw,medium,tick1934; YE2025 bruto NEG -12256943
+bud_fluxys_fte_jr2025,nv_fluxys,2025,50,,,CW NBB-derived FTE 49.8,src_fluxys_jr2025_cw,medium,tick1934; YE2025 FTE 49.8 (stored 50)

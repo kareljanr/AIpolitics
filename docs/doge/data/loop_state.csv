@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-27T13:45:00Z,rq_1933,1933,no,tick1933 leftover BNO 0881.278.355 Medium CW+Upswitch (omzet 142.7m bruto 135.7m pnl 1.2k equity 23k assets 30.3m FTE 1201.7); NBB PDF+Sibelga recharge FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2024; next rq_1934; next every-10 1940; continuous hole_fill
+main,continuous,hole_fill,2026-08-27T14:15:00Z,rq_1934,1934,no,tick1934 leftover Fluxys 0827.783.746 Medium CW (omzet 7.4m DROP bruto NEG pnl JUMP 198.7m equity 1.97bn FTE 49.8 assets Unknown kapitaal 1.75bn); NBB PDF+assets+share%+FVA FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2024; next rq_1935; next every-10 1940; continuous hole_fill

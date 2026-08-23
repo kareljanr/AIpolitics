@@ -22394,3 +22394,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_bno_nbb_pdf_sibelga_recharge_fte_l5; rq_1933=done + rq_1934 open; loop_state ticks=1933.
 - FOI opened: NBB PDF + Sibelga recharge/FTE matrix (**ready**, human-send only; email not in KBO — post/Sibelga contact).
 - NOT every-10 (**next every-10 is 1940**). Next: rq_1934 (AGB/Dijk92-if-200 / FARO-if-YE2025 / otherHVZ-IGS).
+
+## Tick 1934 - 2026-08-27T14:15:00Z - rq_1934 Fluxys (equity 1.97bn / pnl JUMP 198.7m / Medium)
+
+- Unit: **rq_1934** leftover dual after BNO. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO YE2024. Took named leftover **Fluxys NV** (KBO **0827.783.746**; Kunstlaan 31 Brussel; **aanbestedende overheid** group holding; Publigas majority path; parent of mined Fluxys Belgium; NON-Eneco).
+- Primary hunt: NBB deposit PDF unresolved; Upswitch YE2024-only for assets (~4.68bn YE2024). **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0827783746/fluxys) + KBO (neerlegging **02.06.2026**; YE **31.12.2025**; kapitaal **EUR1,747,113,384**): omzet **EUR7,399,583** (**DROP -7.9%**); bruto **NEG EUR-12,256,943**; PnL **EUR198,711,309** (**JUMP +24.22%**); equity **EUR1,972,830,614** (**JUMP +2.26%**); FTE **49.8**; assets **Unknown**.
+- Wrote: sources (+2); budgets (+5); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_fluxys_nbb_pdf_assets_share_fva_l5; rq_1934=done + rq_1935 open; loop_state ticks=1934.
+- FOI opened: NBB PDF + assets/share % / FVA (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1940**). Next: rq_1935 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Fluxys LNG-otherHVZ).
