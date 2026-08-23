@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-25T06:15:00Z,rq_2102,2102,no,tick2102 leftover ORES SC 0897.436.971 Medium CW (omzet JUMP 920.91m bruto JUMP 325.85m equity THIN 0.46m FTE JUMP 3000; pnl/assets/debt Unknown; 33 VE); race: 2101 was SLG Vlaanderen; AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2103; next every-10 2110; continuous hole_fill
+main,continuous,hole_fill,2026-08-25T06:25:00Z,rq_2103,2103,no,tick2103 leftover Comnexio 0727.639.263 Medium CW (omzet DROP 9.93m bruto DROP 7.15m equity FLAT 25k FTE JUMP 147.9; pnl/assets/debt Unknown; 2 VE); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2104; next every-10 2110; continuous hole_fill

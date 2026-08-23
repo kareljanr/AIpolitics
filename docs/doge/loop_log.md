@@ -23969,3 +23969,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 6.8); entities (+1 sc_ores); foi + draft gap_ores_sc_nbb_pdf_assets_debt_pnl_equity_thin_matrix_l5; rq_2102=done + rq_2103 open; loop_state ticks=2102; raw docs/doge/data/raw/tick2101/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 2110**). Next: rq_2103 (AGB/FARO-if-YE2025 / AIESH-REW / Comnexio deferred / unused).
+
+
+## Tick 2103 - 2026-08-25T06:25:00Z - rq_2103 Comnexio (omzet DROP 9.93m / equity FLAT 25k / Medium)
+
+- Unit: **rq_2103** leftover dual after **rq_2102 ORES SC**. Prefer: AGB Bornem **JR2024-only**; FARO **YE2024**; AIESH **YE2024**; REW **YE2024**. Took deferred unused ORES contact-centre daughter **Comnexio** YE2025 (KBO **0727.639.263**; Avenue Georges Lemaitre 38 Charleroi; SC / **2 VE** / pouvoir adjudicateur; NACE **82.200**). DISTINCT from ORES SC / ORES Assets.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR9932761** DROP −6.71%; bruto **EUR7151535** DROP −1.88%; equity **EUR25000** FLAT; FTE **147.9** JUMP vs YE2024 147.6; **pnl Unknown** (CW omits P&L; cost-plus historically ~0); neerlegging **18.06.2026**. Assets/debt Unknown. Medium. Strong KBO (info@comnexio.be). Omzet primary; double-count vs ORES group possible.
+- Wrote: sources (+5); budgets (+4, no invented pnl); commitments (+1); leaderboard (+1 pi 4.5); entities (+1 sc_comnexio); foi + draft gap_comnexio_nbb_pdf_assets_debt_pnl_equity_flat_matrix_l5; rq_2103=done + rq_2104 open; loop_state ticks=2103; raw docs/doge/data/raw/tick2103/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 2110**). Next: rq_2104 (AGB/FARO-if-YE2025 / AIESH-REW / Korian-if-unused / unused).

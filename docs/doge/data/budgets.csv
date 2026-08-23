@@ -52575,3 +52575,7 @@ bud_ores_sc_omzet_jr2025_statutory,sc_ores,2025,920909050,920909050,920909050,CW
 bud_ores_sc_equity_jr2025_statutory,sc_ores,2025,461806,461806,461806,CW Equity / Eigen vermogen YE2025,src_ores_sc_jr2025_cw_en,medium,tick2102; equity DROP 461806 (-0.80%) vs YE2024 465516; thin vs omzet
 bud_ores_sc_bruto_jr2025_statutory,sc_ores,2025,325847115,325847115,325847115,CW Gross margin / Brutomarge YE2025,src_ores_sc_jr2025_cw_en,medium,tick2102; bruto JUMP 325847115 (+15.70%) vs YE2024 281641147
 bud_ores_sc_fte_jr2025_statutory,sc_ores,2025,3000,3000,3000,CW social-balance FTE / Employees,src_ores_sc_jr2025_cw_en,medium,tick2102; FTE JUMP 3000 vs YE2024 2819.5
+bud_comnexio_omzet_jr2025_statutory,sc_comnexio,2025,9932761,9932761,9932761,CW turnover / Omzet YE2025 (primary envelope),src_comnexio_jr2025_cw_en,medium,tick2103; omzet DROP 9932761 (-6.71%) vs YE2024 10647751; double-count vs ORES group possible
+bud_comnexio_equity_jr2025_statutory,sc_comnexio,2025,25000,25000,25000,CW Equity / Eigen vermogen YE2025,src_comnexio_jr2025_cw_en,medium,tick2103; equity FLAT 25000 (0%) vs YE2024 25000; thin capital shell
+bud_comnexio_bruto_jr2025_statutory,sc_comnexio,2025,7151535,7151535,7151535,CW Gross margin / Brutomarge YE2025,src_comnexio_jr2025_cw_en,medium,tick2103; bruto DROP 7151535 (-1.88%) vs YE2024 7288487
+bud_comnexio_fte_jr2025_statutory,sc_comnexio,2025,147.9,147.9,147.9,CW social-balance FTE / Employees,src_comnexio_jr2025_cw_en,medium,tick2103; FTE JUMP 147.9 vs YE2024 147.6
