@@ -51752,3 +51752,9 @@ bud_laborelec_assets_jr2025,nv_laborelec,2025,80188526,,,Upswitch NBB/CBSO asset
 bud_laborelec_bruto_jr2025,nv_laborelec,2025,70229449,,,CW NBB-derived bruto,src_laborelec_jr2025_cw,medium,tick1949; YE2025 bruto 70229449 JUMP +6.27pct
 bud_laborelec_ebitda_jr2025,nv_laborelec,2025,9637469,,,Upswitch NBB/CBSO EBITDA,src_laborelec_jr2025_upswitch,medium,tick1949; YE2025 EBITDA 9637469
 bud_laborelec_fte_jr2025,nv_laborelec,2025,394,,,CW NBB-derived FTE 393.5,src_laborelec_jr2025_cw,medium,tick1949; YE2025 FTE 393.5 (stored 394)
+bud_belgoprocess_omzet_jr2025,nv_belgoprocess,2025,118410806,,,CW NBB-derived omzet rubriek 70,src_belgoprocess_jr2025_cw,medium,tick1950; JUMP +2.54pct vs 2024 115474905; polluter-pays / NIRAS related-party dominant; not pure TE
+bud_belgoprocess_bruto_jr2025,nv_belgoprocess,2025,44817601,,,CW NBB-derived brutomarge rubriek 9900,src_belgoprocess_jr2025_cw,medium,tick1950; JUMP +1.95pct
+bud_belgoprocess_pnl_jr2025,nv_belgoprocess,2025,248998,,,CW NBB-derived winst/verlies rubriek 9904,src_belgoprocess_jr2025_cw,medium,tick1950; DROP -40.45pct vs 2024 418164
+bud_belgoprocess_equity_jr2025,nv_belgoprocess,2025,27044198,,,CW NBB-derived eigen vermogen rubriek 10/15,src_belgoprocess_jr2025_cw,medium,tick1950; JUMP +0.93pct; KBO kapitaal 5000000
+bud_belgoprocess_kapitaal_kbo,nv_belgoprocess,2025,5000000,,,KBO registered capital,src_belgoprocess_kbo,strong,tick1950; Strong KBO kapitaal vs Medium CW equity 27044198
+bud_belgoprocess_fte_jr2025,nv_belgoprocess,2025,348,,,CW NBB-derived FTE 347.9 (rounded display 348),src_belgoprocess_jr2025_cw,medium,tick1950; exact FTE 347.9; not euros — headcount proxy row

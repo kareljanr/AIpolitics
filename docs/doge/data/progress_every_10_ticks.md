@@ -20,6 +20,39 @@
 
 ---
 
+## Snapshot at **tick 1950** (2026-08-27)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1941-1950 Atrias/Synatom/Synergrid/nuclear/water/lab continuum after 1940 RESA |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1941-1950 is residual dual L5 (not near-complete of 348bn):** **Atrias** omzet DROP **61.8m** · **Synatom** omzet JUMP **299.8m** · **Synergrid** bruto JUMP **5.07m** · **AIEG** omzet JUMP **20.1m** · **Dijk92** bruto JUMP **0.63m** · **Bel V** omzet JUMP **17.5m** Strong · **NIRAS** assets **1.777bn** / omzet **315.6m** Strong · **CILE** omzet JUMP **159.7m** / assets **460m** Strong · **Laborelec** omzet **106.1m** / assets **80.2m** Medium · **Belgoprocess** omzet **118.4m** / equity **27.0m** Medium (this tick EVERY-10 dual) |
+| **E. FOI-ready gaps** | **~1565** drafts ready | Human send only; answered **~11**; partial **~28**; total FOI rows **~1617** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable/energy/nuclear/water shells** (**NEW 1941-1950** Atrias · Synatom · Synergrid · AIEG · Dijk92 · Bel V · NIRAS · CILE · Laborelec · **Belgoprocess** · prior RESA/Fluxys/Elia/Enodia retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Elia/Fluxys/Publi-T/NIRAS/Synatom/Hedera/Belgoprocess/Engie Laborelec path possible; Medium aggregators pending NBB PDF.**
+
+### Inventory (tick 1950)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 51759 |
+| commitments.csv | 5614 |
+| leaderboard.csv | 7735 |
+| entities.csv | 1658 |
+| sources.csv | 4669 |
+| FOI ready | 1565 |
+| FOI answered | 11 |
+| FOI partial | 28 |
+| FOI total rows | 1617 |
+| research_queue open | rq_1951 after progress |
+
+### What improved since tick 1940
+
+- **Residual dual (tick1941-1950):** **Atrias** · **Synatom** · **Synergrid** · **AIEG** · **Dijk92** (CW YE2025 finally) · **Bel V** · **NIRAS** · **CILE** · **Laborelec** · **Belgoprocess** (this tick EVERY-10 dual — NIRAS daughter YE2025 Medium CW).
+- **Blocked still:** AGB Bornem JR2024-only · FARO NBB YE2025 unpublished (YE2024 filing) · AIESH/REW YE2024-only · Bosgroep IJzer/Houtland/Limburg YE2025 unpublished · prior Eneco deposit FOI stack.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified; corrupt AGB pi≥12 / OWV snowball stock / Metro3 stock filtered off pure annual). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1960**.
+
 ## Snapshot at **tick 1940** (2026-08-27)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

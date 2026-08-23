@@ -22552,3 +22552,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_laborelec_nbb_pdf_engie_recharge_debt_l5; rq_1949=done + rq_1950 open (EVERY-10); loop_state ticks=1949.
 - FOI opened: NBB PDF + Engie recharge/debt (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1950 THIS next tick**). Next: rq_1950 EVERY-10 + AGB/FARO-if-YE2025 / AIESH-if-YE2025 / otherHVZ-IGS.
+
+## Tick 1950 - 2026-08-27T22:00:00Z - rq_1950 EVERY-10 + Belgoprocess (omzet 118.4m / equity 27.0m / Medium)
+
+- Unit: **rq_1950** EVERY-10 progress refresh + leftover dual after Laborelec. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024**. Took leftover **Belgoprocess NV** (KBO **0426.542.157**; Gravenstraat 73 Dessel; **NIRAS** industrial daughter radioactive-waste processing; YE2025 live CW). Do not redo Laborelec/CILE/NIRAS/Bel V/Dijk92/AIEG/Synergrid/Synatom/Atrias.
+- Primary hunt: NBB deposit PDF unresolved; Upswitch SPA empty for assets. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0426542157/belgoprocess) + EN twin + Strong KBO (neerlegging **11.07.2026**; YE **2025**): omzet **EUR118,410,806** (**JUMP +2.54%**); bruto **EUR44,817,601**; PnL **EUR248,998** (**DROP -40.45%**); equity **EUR27,044,198**; FTE **347.9**; kapitaal **EUR5,000,000**; assets **Unknown**.
+- EVERY-10: refreshed `progress_every_10_ticks.md` (A/B 100%; D ~74-88% generous; inventory budgets 51759 / commitments 5614 / leaderboard 7735 / entities 1658 / sources 4669; FOI ready 1565 / answered 11 / partial 28 / total 1617) + `doge_waste_top10_current.md` (pure annual top10 **stable** GIP/fossil/cars/cheque/reporte; Belgoprocess off pure top10).
+- Wrote: sources (+4); budgets (+6); commitments (+1); leaderboard (+1); entities (+1 nv_belgoprocess + niras note); foi + draft gap_belgoprocess_nbb_pdf_assets_debt_niras_billing_l5; rq_1950=done + rq_1951 open; loop_state ticks=1950; progress + waste top10.
+- FOI opened: NBB PDF + assets/debt + NIRAS billing (**ready**, human-send only).
+- **EVERY-10 done.** Next: rq_1951 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / Bosgroep-IOED / otherHVZ-IGS). Next every-10 **1960**.
