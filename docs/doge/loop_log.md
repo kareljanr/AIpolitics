@@ -21465,3 +21465,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities cv_energent; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1822=done + rq_1823 spawned; loop_state ticks=1822; FOI draft gap_energent_bruto_1_41m_pers_0_89m_vooruit_1_11m_l5.md
 - FOI opened: gap_energent_bruto_1_41m_pers_0_89m_vooruit_1_11m_l5 (**ready**, human-send only)
 - NOT every-10 (next **1830**). Next: rq_1823 (Beauvent-if-200 / AGB / Dijk92 / FARO / IGS).
+
+## Tick 1823 - 2026-08-25T10:55:00Z - rq_1823 Beauvent CV (bruto 6.53m / debt 17.65m)
+
+- Unit: **rq_1823** leftover dual residual after Energent; took deferred live **Beauvent CV** (West-Flanders citizen renewable co-op; KBO **0472.292.307**). Preferred AGB Bornem still JR2024; Dijk92/APEFE CDN **403**; FARO YE2024 only.
+- Primary (strong, NBB VKT-inb [2026-00160510](http://cdn.staatsbladmonitor.be/2026pdf/2026-00160510.pdf) CDN 200 / 22p; AV **16.05.2026**; YE **01.01.2025–31.12.2025**): assets **EUR51,749,140**; MVA **EUR43,631,053**; FVA **EUR2,319,031**; bruto **EUR6,527,822**; pers **EUR1,105,804**; VTE **11.5**; expl **EUR1,388,632**; PnL **EUR1,342,892**; debt **EUR17,648,208** (LT bank/lease **12,576,925**); dividend **EUR827,355**; kapsubs JUMP **EUR9,078,512**; inbreng JUMP **EUR21,026,500**; omzet **70 empty**.
+- Wrote: entities cv_beauvent; sources (+2); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1823=done + rq_1824 spawned; loop_state ticks=1823; FOI draft gap_beauvent_bruto_6_53m_debt_17_65m_omzet_empty_l5.md
+- FOI opened: gap_beauvent_bruto_6_53m_debt_17_65m_omzet_empty_l5 (**ready**, human-send only)
+- NOT every-10 (next **1830**). Next: rq_1824 (Ecopower-if-200 / AGB / Dijk92 / FARO / IGS).

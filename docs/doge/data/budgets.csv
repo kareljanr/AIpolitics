@@ -50972,3 +50972,13 @@ bud_energent_vooruit_1_11m_2025,cv_energent,2025,1109392,,,NBB VKT-inb YE2025,sr
 bud_energent_accrued_0_83m_2025,cv_energent,2025,831048,,,NBB VKT-inb YE2025,src_energent_jr2025_nbb,strong,tick1822; overlopende rekeningen JUMP; was 418767; not TE-additive of 348bn
 bud_energent_dividend_0_12m_2025,cv_energent,2025,116304,,,NBB VKT-inb YE2025,src_energent_jr2025_nbb,strong,tick1822; uit te keren winst 694; not TE-additive of 348bn
 bud_energent_cash_0_84m_2025,cv_energent,2025,843445,,,NBB VKT-inb YE2025,src_energent_jr2025_nbb,strong,tick1822; liquide middelen DROP; was 1051011; not TE-additive of 348bn
+bud_beauvent_assets_51_75m_2025,cv_beauvent,2025,51749140,,,NBB VKT-inb YE2025,src_beauvent_jr2025_nbb,strong,tick1823; assets YE2025; not TE-additive of 348bn
+bud_beauvent_mva_43_63m_2025,cv_beauvent,2025,43631053,,,NBB VKT-inb YE2025,src_beauvent_jr2025_nbb,strong,tick1823; MVA YE2025; not TE-additive of 348bn
+bud_beauvent_bruto_6_53m_2025,cv_beauvent,2025,6527822,,,NBB VKT-inb YE2025,src_beauvent_jr2025_nbb,strong,tick1823; bruto 9900; not TE-additive of 348bn
+bud_beauvent_pers_1_11m_2025,cv_beauvent,2025,1105804,,,NBB VKT-inb YE2025,src_beauvent_jr2025_nbb,strong,tick1823; bezoldigingen 62; VTE 11.5; not TE-additive of 348bn
+bud_beauvent_pnl_1_34m_2025,cv_beauvent,2025,1342892,,,NBB VKT-inb YE2025,src_beauvent_jr2025_nbb,strong,tick1823; PnL 9904; not TE-additive of 348bn
+bud_beauvent_debt_17_65m_2025,cv_beauvent,2025,17648208,,,NBB VKT-inb YE2025,src_beauvent_jr2025_nbb,strong,tick1823; schulden 17/49; not TE-additive of 348bn
+bud_beauvent_lt_debt_12_58m_2025,cv_beauvent,2025,12576925,,,NBB VKT-inb YE2025,src_beauvent_jr2025_nbb,strong,tick1823; LT kredietinstellingen/leasing 172/3; not TE-additive of 348bn
+bud_beauvent_kapsubs_9_08m_2025,cv_beauvent,2025,9078512,,,NBB VKT-inb YE2025,src_beauvent_jr2025_nbb,strong,tick1823; kapitaalsubsidies 15 JUMP; not TE-additive of 348bn
+bud_beauvent_dividend_0_83m_2025,cv_beauvent,2025,827355,,,NBB VKT-inb YE2025,src_beauvent_jr2025_nbb,strong,tick1823; uit te keren winst 694/7; not TE-additive of 348bn
+bud_beauvent_fva_2_32m_2025,cv_beauvent,2025,2319031,,,NBB VKT-inb YE2025,src_beauvent_jr2025_nbb,strong,tick1823; FVA 28; not TE-additive of 348bn
