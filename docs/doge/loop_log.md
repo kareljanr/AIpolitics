@@ -21546,3 +21546,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities nv_aspiravi_offshore; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1832=done + rq_1833 spawned; loop_state ticks=1832; FOI draft gap_aspiravioff_fva_126m_pnl_2_23m_debt_18_72m_seacoop_dual_l5.md
 - FOI opened: gap_aspiravioff_fva_126m_pnl_2_23m_debt_18_72m_seacoop_dual_l5 (**ready**, human-send only)
 - NOT every-10 (next **1840**). Next: rq_1833 (CO2logic-if-200 / EnDev-R-if-200 / AGB / Dijk92 / FARO).
+
+## Tick 1833 - 2026-08-25T14:40:00Z - rq_1833 EnDev-R NV (omzet DROP 0.79m / multi-coop+Eneco)
+
+- Unit: **rq_1833** leftover dual residual after Aspiravi Offshore; preferred AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2024. Took deferred live **EnDev-R NV** (multi-coop wind SPV; KBO **0697.650.031**; Vlaskracht/Campina/Stroomvloed Wind/Denderstroom + **Eneco Wind BE 24.4%**). CO2logic **2026-00114373** still deferred.
+- Primary (strong, NBB VOL-kap [2025-00521539](http://cdn.staatsbladmonitor.be/2025pdf/2025-00521539.pdf) CDN 200 / 47p; AV **01.09.2025**; YE **01.04.2024-31.03.2025**): assets DROP **EUR4,293,065**; MVA **EUR2,668,235**; omzet DROP **EUR789,381** (was **2,207,647**); expl **EUR247,257**; PnL **EUR131,443** (corrects Vlaskracht table mislabel of expl as netto); dividend **EUR160,000**; debt **EUR1,850,448** (LT other loans **1,258,141**); equity **EUR2,357,319**; cash DROP **EUR1,534,380**; milieuvoorziening **EUR85,299**; pers **empty**.
+- Wrote: entities nv_endev_r; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1833=done + rq_1834 spawned; loop_state ticks=1833; FOI draft gap_endevr_omzet_drop_0_79m_pnl_0_13m_dividend_0_16m_l5.md
+- FOI opened: gap_endevr_omzet_drop_0_79m_pnl_0_13m_dividend_0_16m_l5 (**ready**, human-send only)
+- NOT every-10 (next **1840**). Next: rq_1834 (CO2logic-if-200 / Denderstroom-if-200 / AGB / Dijk92 / FARO).
