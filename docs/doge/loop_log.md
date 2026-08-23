@@ -22945,3 +22945,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated; route via saintluc.be).
 - NOT every-10 (**next every-10 is 2000**). Next: rq_1994 (AGB/FARO-if-YE2025 / AIESH-REW / CHBA Seraing-CNDG-Haute Senne / unused DSO-IGS-HVZ-hospital).
 
+
+
+## Tick 1994 - 2026-08-24T02:05:00Z - rq_1994 CHBA Seraing (omzet JUMP 183.56m / pnl JUMP turnaround 1.44m / Medium)
+
+- Unit: **rq_1994** leftover dual after **rq_1993 Saint-Luc**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **CHBA Seraing** YE2025 (KBO **0203.980.409**; Rue Laplace 40 Seraing; Liege **hospital CV publiek recht**). Haute Senne / CNDG / CHR Verviers deferred. Do not redo Saint-Luc/GHdC/Humani/CHIREC/Tivoli/Citadelle/ISoSL/Epicura/CHwapi/CHU UCL Namur/Vivalia.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR183,560,247** JUMP +4.40%; pnl **EUR1,441,066** JUMP turnaround (vs YE2024 LOSS 0.47m); equity **EUR24,114,550** JUMP +2.80%; bruto **EUR129,755,799** JUMP +5.22%; FTE **1563.1**; neerlegging **14.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief CV publiek recht 7 VE; email officiel.ic-chba@chba.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 igs_chba); foi + draft gap_chba_nbb_pdf_assets_debt_pnl_turnaround_matrix_l5; rq_1994=done + rq_1995 open; loop_state ticks=1994; raw under docs/doge/data/raw/tick1994/.
+- FOI: **ready not sent** (human-gated; officiel.ic-chba@chba.be).
+- NOT every-10 (**next every-10 is 2000**). Next: rq_1995 (AGB/FARO-if-YE2025 / AIESH-REW / Haute Senne / CNDG / CHR Verviers / unused DSO-IGS-HVZ).

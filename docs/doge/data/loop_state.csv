@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T01:50:00Z,rq_1993,1993,no,tick1993 leftover Saint-Luc 0416.885.016 Medium CW (omzet JUMP 857.94m pnl LOSS 36.65m equity DROP 157.50m bruto JUMP 518.87m FTE 4931.8; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; CHBA Seraing deferred; next rq_1994; next every-10 2000; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T02:05:00Z,rq_1994,1994,no,tick1994 leftover CHBA 0203.980.409 Medium CW (omzet JUMP 183.56m pnl JUMP turnaround 1.44m equity JUMP 24.11m bruto JUMP 129.76m FTE 1563.1; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_1995; next every-10 2000; continuous hole_fill
