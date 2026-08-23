@@ -21209,3 +21209,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities vzw_brembloem; commitments closed; research_queue rq_1789=done + rq_1790 EVERY-10 spawned; loop_state ticks=1789
 - FOI: none new (demolen/immo FOIs remain for dual-site opacity)
 - Next: rq_1790 — **EVERY-10 MUST** progress % + waste top10
+
+### 2026-08-24T23:35:00Z — tick 1790 EVERY-10
+- Unit: rq_1790 — **progress coverage % + waste top10**
+- Found / refreshed: Layers A–B still **100%** of TE EUR347.956bn; C ~99% OoM; D still ~74-88% generous (not near-complete of 348bn). Inventory: budgets **50683** · commitments **5368** · leaderboard **7565** · entities **1511** · sources **4189** · FOI ready **1410** / answered **9** / partial **27** / total **1458**.
+- Since 1780: residual dual **Brembloem Immo** · **Cèdre Bleu** · **Charlemagne** · **Lilas** · **Repos Fleuri** · **COURTIS** · **COUROS** · MaisonDieu CDN-opaque FOI · **Brembloem VZW Stopgezet 2018** closes ghost hunt. Highlights: COUROS marge **4.81m**/leasing **10.02m** · ReposFleuri marge **3.90m** · Lilas controllers **4.11m**/RIVAGE · COURTIS FVA **3.20m**=100% COUROS.
+- Waste top10: **unchanged** GIP 8.7 · fossil direct 8.55 · fossil accises 8.5 · company cars 8.5 · heatoil 8.43 · cheque/CO2/OAA/BCR/dual cars 8.4 (stocks Metro3/OWV filtered off).
+- Wrote: progress_every_10_ticks.md; doge_waste_top10_current.md; research_queue rq_1790=done + rq_1791; loop_state ticks=1790
+- Next: rq_1791 — AGB/NSZ-if-200/Bosgroep/FARO-if-2025/MaisonDieu-if-CDN; every-10 at **1800**

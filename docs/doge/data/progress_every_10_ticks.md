@@ -20,6 +20,44 @@
 
 ---
 
+## Snapshot at **tick 1790** (2026-08-24)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1781-1789 leftover Vivalto property/WZC + ghost close: **Brembloem Immo** · **Cèdre Bleu** · **Charlemagne** · **Lilas** · **Repos Fleuri/Cottage Rose** · **COURTIS** · **COUROS/Chantoirs** · **Maison Dieu** (CDN opaque FOI) · **Brembloem VZW Stopgezet 2018** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1781-1789 is residual dual L5 Vivalto care/property (not near-complete of 348bn):** **COUROS** marge **4.81m** / leasing grevés **10.02m** · **Repos Fleuri** marge **3.90m** / staff **3.20m** · **Lilas** marge **3.27m** / controllers **4.11m** / RIVAGE **135.6m** · **Cèdre Bleu** marge **3.18m** / thin equity + comfort · **COURTIS** FVA **3.20m** = 100% COUROS · **Charlemagne** marge **2.88m** / nrec fin **2.97m** / dividend **2.95m** · **Brembloem Immo** marge **1.27m** / debt **8.65m** · prior ClosRoses→AgeDor RIVAGE cascade retained |
+| **E. FOI-ready gaps** | **~1410** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1458** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property shells** (**NEW COUROS** marge **EUR4.81m** / leasing **EUR10.02m** · **Repos Fleuri** marge **EUR3.90m** · **Lilas/Cèdre Bleu** RIVAGE sisters · **COURTIS** FVA **EUR3.20m** holding shell · **Charlemagne** nrec-fin+dividend · **Brembloem Immo** debt **EUR8.65m** · **Maison Dieu** JR2025 CDN opaque FOI'd · **Brembloem VZW** liquidated **2018** — brand via De Molen · undivided **RIVAGE gage EUR135.6m** · prior **AgeDor/Tonnelle/ClosRoses/RAPSODE** / **Vivalto Home BE** assets **EUR266.81m** · **Armonea/Colisée/Natuurpunt/GO!** retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1790)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 50683 |
+| commitments.csv | 5368 |
+| leaderboard.csv | 7565 |
+| entities.csv | 1511 |
+| sources.csv | 4189 |
+| FOI ready | 1410 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1458 |
+| research_queue open | rq_116 deferred + rq_1791 hole-fill after progress |
+
+### What improved since tick 1780
+
+- **Residual dual leftover Vivalto continuum (tick1781-1787):** **Brembloem Immo** · **Cèdre Bleu / Prince Leopold** · **LA RESIDENCE CHARLEMAGNE** · **AUX LILAS DE BONLEZ** · **REPOS FLEURI (Cottage Rose)** · **COURTIS** · **COUROS (Jardin des Chantoirs)** — no invented euros; CDN-live NBB YE2025 PDFs.
+- **NEW (tick1787):** **COUROS SRL** (KBO **0866.041.338**) marge **4.811.934** / staff **2.975.902** / VTE **44.4** / leasing grevés **10.02m** / gage **7.37m** / parent **COURTIS**.
+- **NEW (tick1786):** **COURTIS SRL** (KBO **0537.221.335**) FVA **3.196.500** = **100% COUROS** / 0 VTE shell / loss **44.9k** / comfort letter / autres dettes **647k**.
+- **NEW (tick1782-1785):** **Cèdre Bleu** thin equity **37k** + comfort + RIVAGE · **Charlemagne** nrec fin **2.97m** + dividend **2.95m** · **Lilas** controllers **4.11m** + RIVAGE · **Repos Fleuri** marge **3.90m** / dividend apport **0.40m** (no RIVAGE in deposit).
+- **NEW (tick1781):** **Brembloem Immo** marge **1.27m** / debt **8.65m** / mortgage mandate **17.0m**.
+- **Discovery (tick1788-1789):** **Maison Dieu/Marronnier** JR2025 Northdata-filed but SBM CDN opaque → FOI ready · **Brembloem VZW** KBO **0863.576.449** **Stopgezet 2018-09-25** — closes multi-tick ghost JR2025 hunt (brand via De Molen).
+- **Blocked still:** AGB Bornem JR2024-only · Dijk92 CDN **403** · APEFE YE2025 CDN **403** · NSZ CDN **403** · FARO still JR2024 · Maison Dieu CDN opaque (FOI'd) · ABS/BVAS/POV no NBB · VBWest JR2025 still verdaged.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1800**.
+
 ## Snapshot at **tick 1780** (2026-08-24)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
