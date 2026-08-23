@@ -22714,3 +22714,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+7); commitments (+1); leaderboard (+1); entities (+1 ceneo); foi + draft gap_ceneo_nbb_pdf_commune_dividend_matrix_l5; rq_1965=done + rq_1966 open; loop_state ticks=1965; raw PDF saved.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1970**). Next: rq_1966 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
+
+## Tick 1966 - 2026-08-23T18:45:00Z - rq_1966 IEG (omzet DROP 19.73m / pnl DROP 4.29m / equity JUMP 106.22m / Medium)
+
+- Unit: **rq_1966** leftover dual after **rq_1965 CENEO**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **IEG** YE2025 now live CW (KBO **0229.068.864**; Solidariteitstraat 80 Mouscron; multi-sector water+eco+leisure; absorbed IFM 2008). Do not redo CENEO/HELORA/iMio/Passelecq/IPFBW/IGRETEC/Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92/AIEG/Synergrid.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR19,725,740** DROP -22.51%; bruto **EUR15,927,681**; pnl **EUR4,293,639** DROP -35.34%; equity **EUR106,218,998** JUMP +4.13%; FTE **87.5**; neerlegging **04.07.2026**. Assets/debt YE2025 Unknown (Upswitch still YE2024 assets 186.05m). Medium confidence.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1); entities (+1 igs_ieg); foi + draft gap_ieg_nbb_pdf_assets_debt_sector_matrix_l5; rq_1966=done + rq_1967 open; loop_state ticks=1966.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1970**). Next: rq_1967 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).

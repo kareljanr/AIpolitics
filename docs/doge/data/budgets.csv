@@ -51875,3 +51875,9 @@ bud_ceneo_debt_jr2025_statutory,ceneo,2025,212067606.08,,,AG dettes LT+ST,src_ce
 bud_ceneo_dividends_recv_jr2025_statutory,ceneo,2025,45469560.23,,,AG produits participations / dividends received,src_ceneo_jr2025_ag_mons,strong,tick1965; YE2025 dividends received 45469560.23 DROP -2.73pct (ORES Assets 32436437.49 / SOCOFE 11149407 / Engie 1860510.96)
 bud_ceneo_omzet_jr2025_statutory,ceneo,2025,954029.31,,,CW omzet (holding CA; dividends off CA line),src_ceneo_jr2025_cw,medium,tick1965; YE2025 omzet JUMP 954029.31 +90.64pct; not primary economic flow vs dividends 45.5m
 bud_ceneo_dividend_out_jr2025_statutory,ceneo,2025,24775000,,,AG attribution aux associes,src_ceneo_jr2025_ag_mons,strong,tick1965; YE2025 dividend to commune associates 24775000 per strategic plan
+bud_ieg_omzet_jr2025_statutory,igs_ieg,2025,19725740,,,CW NBB-derived omzet,src_ieg_jr2025_cw,medium,tick1966; YE2025 omzet DROP 19725740 -22.51pct vs 25454398
+bud_ieg_pnl_jr2025_statutory,igs_ieg,2025,4293639,,,CW NBB-derived Winst/Verlies,src_ieg_jr2025_cw,medium,tick1966; YE2025 pnl DROP 4293639 -35.34pct vs 6640690
+bud_ieg_bruto_jr2025_statutory,igs_ieg,2025,15927681,,,CW NBB-derived bruto,src_ieg_jr2025_cw,medium,tick1966; YE2025 bruto DROP 15927681 -19.72pct
+bud_ieg_equity_jr2025_statutory,igs_ieg,2025,106218998,,,CW NBB-derived equity,src_ieg_jr2025_cw,medium,tick1966; YE2025 equity JUMP 106218998 +4.13pct
+bud_ieg_fte_jr2025_statutory,igs_ieg,2025,87.5,,,CW social-balance FTE,src_ieg_jr2025_cw,medium,tick1966; YE2025 FTE 87.5 vs 87.4 YE2024
+bud_ieg_assets_jr2024_upswitch_lag,igs_ieg,2024,186048521,,,Upswitch NBB YE2024 assets (YE2025 Unknown),src_ieg_jr2024_upswitch,medium,tick1966; YE2024 assets 186048521 context; YE2025 assets Unknown
