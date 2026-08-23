@@ -21716,3 +21716,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities wv_kina; sources (+3); budgets (+10); commitments (+3); leaderboard (+3); foi_queue ready; research_queue rq_1853=done + rq_1854 spawned; loop_state ticks=1853; FOI draft gap_kina_balance_j5_vte_debt_stock_t2_l5.md
 - FOI opened: gap_kina_balance_j5_vte_debt_stock_t2_l5 (**ready**, human-send only)
 - NOT every-10 (next **1860**). Next: rq_1854 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ/IGS live).
+
+## Tick 1854 - 2026-08-25T23:25:00Z - rq_1854 WZG Voorkempen JR2025 (AFM -0.55m / gecorr -0.80m / budget -0.67m)
+
+- Unit: **rq_1854** leftover dual residual after KINA; preferred non-Eneco live. AGB Bornem still JR2024; Dijk92/Enebra CDN **403**; FARO NBB YE2024. Took leftover **Woonzorggroep Voorkempen** (OCMW dual mined Schoten+Wijnegem; KBO **0694.597.697**).
+- Primary (strong, official AV [uittreksel vaststelling JR2025 25.06.2026](https://www.schoten.be/sites/default/files/public/documenten/AV_20260625%20Uittreksel_AV_jaarrekening_2025.pdf) 3p): expl saldo **EUR-95,120**; invest **EUR-124,766**; fin **EUR-450,288**; budget **EUR-670,174** (507k worse than MJP); gecum BBR **EUR1,389,612**; AFM **EUR-545,408** NEG; gecorr AFM **EUR-801,661** DEEP NEG; pers overshoot ~**EUR734,000**; invest carry **EUR135,135**. Full BBC rekening not on portal (JR2024 full only).
+- Wrote: entities zorg_wzg_voorkempen; sources (+3); budgets (+9); commitments (+3); leaderboard (+3); foi_queue ready; research_queue rq_1854=done + rq_1855 spawned; loop_state ticks=1854; FOI draft gap_wzg_voorkempen_full_jr2025_rekening_afm_neg_l5.md
+- FOI opened: gap_wzg_voorkempen_full_jr2025_rekening_afm_neg_l5 (**ready**, human-send only)
+- NOT every-10 (next **1860**). Next: rq_1855 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ/IGS live).
