@@ -51486,3 +51486,9 @@ bud_otary_bis_bruto_jr2025,nv_otary_bis,2025,-12854,,,CW NBB-derived 9900 NEG,sr
 bud_otary_bis_pnl_jr2025,nv_otary_bis,2025,27937714,,,CW NBB-derived 9904,src_otary_bis_jr2025_cw,medium,tick1906; YE2025 pnl 27937714 DROP -58.19pct vs 66.8m
 bud_otary_bis_equity_jr2025,nv_otary_bis,2025,54307125,,,CW NBB-derived 10/15,src_otary_bis_jr2025_cw,medium,tick1906; YE2025 equity 54307125 DROP -1.59pct
 bud_otary_bis_fte_jr2025,nv_otary_bis,2025,0,,,CW NBB-derived FTE,src_otary_bis_jr2025_cw,medium,tick1906; YE2025 FTE 0 holding shell
+bud_seamade_omzet_jr2025,nv_seamade,2025,171490774,,,CW/Upswitch NBB-derived code 70,src_seamade_jr2025_cw,medium,tick1907; YE2025 omzet 171490774 DROP -7.74pct
+bud_seamade_bruto_jr2025,nv_seamade,2025,149198919,,,CW NBB-derived 9900,src_seamade_jr2025_cw,medium,tick1907; YE2025 bruto 149198919 DROP -5.5pct
+bud_seamade_pnl_jr2025,nv_seamade,2025,41748224,,,CW NBB-derived 9904,src_seamade_jr2025_cw,medium,tick1907; YE2025 pnl 41748224 DROP -15.43pct
+bud_seamade_assets_jr2025,nv_seamade,2025,995616231,,,Upswitch NBB/CBSO 20/58,src_seamade_jr2025_upswitch,medium,tick1907; YE2025 assets 995616231 DROP vs 1050.7m
+bud_seamade_equity_jr2025,nv_seamade,2025,118451766,,,CW/Upswitch NBB-derived 10/15,src_seamade_jr2025_cw,medium,tick1907; YE2025 equity 118451766 JUMP +1.56pct
+bud_seamade_ebitda_jr2025,nv_seamade,2025,145135158,,,Upswitch NBB/CBSO EBITDA,src_seamade_jr2025_upswitch,medium,tick1907; YE2025 EBITDA 145135158 ~84.6pct omzet

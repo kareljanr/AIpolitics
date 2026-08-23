@@ -22178,3 +22178,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_otary_bis_nbb_pdf_assets_share_fva_l5; rq_1906=done + rq_1907 open; loop_state ticks=1906.
 - FOI opened: NBB PDF + assets/share % / FVA for pnl DROP (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1910**). Next: rq_1907 (AGB/Dijk92-if-200 / FARO-if-YE2025 / SeaMade).
+
+## Tick 1907 - 2026-08-27T00:45:00Z - rq_1907 SeaMade (omzet 171.5m / assets 995.6m / pnl 41.7m / Medium)
+
+- Unit: **rq_1907** leftover dual after Otary Bis. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **2026-00377886 still 403**; FARO NBB YE2025 unpublished (CW/data.be last YE2024). Took leftover **SeaMade NV** (KBO **0543.401.324**; Buskruitstraat 3 Oostende **Otary seat**; Mermaid+Seastar offshore; distinct from mined Rentel / Otary RS / Otary Bis).
+- Primary hunt: NBB CDN deposit unresolved this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0543401324/sea-made) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/seamade-0543401324) + KBO (neerlegging **06.07.2026**; YE **31.12.2025**): omzet **EUR171,490,774** (**DROP -7.74%**); bruto **EUR149,198,919**; PnL **EUR41,748,224** (**DROP -15.43%**); assets **EUR995,616,231**; equity **EUR118,451,766** (**JUMP +1.56%**); EBITDA **EUR145,135,158**; expl **EUR73,068,293**; FTE **0**.
+- Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_seamade_nbb_pdf_share_debt_ppa_l5; rq_1907=done + rq_1908 open; loop_state ticks=1907.
+- FOI opened: NBB PDF + share % / debt / PPA (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1910**). Next: rq_1908 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS).
