@@ -23412,3 +23412,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.725); entities (+1 nv_psychogeriatrisch_centrum); foi + draft gap_psychogeriatrisch_centrum_nbb_pdf_assets_debt_pnl_bruto_drop_matrix_l5; rq_2042=done + rq_2043 open; loop_state ticks=2042; raw under docs/doge/data/raw/tick2042/.
 - FOI: **ready not sent** (human-gated; info@arcusbru.be).
 - NOT every-10 (**next every-10 is 2050**). Next: rq_2043 (AGB/FARO-if-YE2025 / AIESH-REW / De Verlosser deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2043 - 2026-08-24T15:25:00Z - rq_2043 Zorggroep Zusters van Berlaar (omzet JUMP 77.35m / pnl DROP 3.73m / Medium)
+
+- Unit: **rq_2043** leftover dual after **rq_2042 Psychogeriatrisch Centrum**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took unused leftover **Zorggroep Zusters van Berlaar** YE2025 (KBO **0417.703.081**; Sollevelden 1 Berlaar; VL **aanbestedende-overheid VZW** multi-site WZC / 13 VE). WZC De Verlosser Dilbeek YE2025 also live — deferred. Do not redo Psychogeriatrisch/De Linde/Samen Ouder/C.W.Z.C. Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara/PC Gent-Sleidinge/Molenheide/Veilige Have/Witte Meren.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR77,348,216** JUMP +5.00%; pnl **EUR3,731,645** DROP −11.63%; equity **EUR87,709,000** JUMP +3.39%; bruto **EUR77,507,316** JUMP +3.89%; FTE **932.4**; neerlegging **05.06.2026**. Assets/debt Unknown. Medium confidence. Official JV2025 narrative corroborates omzet+/resultaat− (3.99% vs 4.70% gecorr. omzet; subsidies ~15.72%). Strong KBO Actief VZW aanbestedende overheid 13 VE; email info@zusters-berlaar.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.1); entities (+1 vzw_zorggroep_zusters_van_berlaar); foi + draft gap_zusters_berlaar_nbb_pdf_assets_debt_subsidy_matrix_l5; rq_2043=done + rq_2044 open; loop_state ticks=2043; raw under docs/doge/data/raw/tick2043/.
+- FOI: **ready not sent** (human-gated; info@zusters-berlaar.be).
+- NOT every-10 (**next every-10 is 2050**). Next: rq_2044 (AGB/FARO-if-YE2025 / AIESH-REW / De Verlosser deferred / unused DSO-IGS-HVZ-WZC-psych).
