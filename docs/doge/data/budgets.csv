@@ -51904,3 +51904,8 @@ bud_ibh_pnl_loss_jr2025_statutory,igs_ibh,2025,-117159.15,,,Mons note resultat e
 bud_ibh_produits_expl_jr2025_statutory,igs_ibh,2025,55760.68,,,Mons note produits exploitation,src_ibh_jr2025_note_synthese,strong,tick1970; loyers+ventes bois+lots+chasse
 bud_ibh_charges_expl_jr2025_statutory,igs_ibh,2025,172329.34,,,Mons note charges exploitation,src_ibh_jr2025_note_synthese,strong,tick1970; includes personnel amort provisions jetons
 bud_ibh_plantations_jr2025_statutory,igs_ibh,2025,3225741,,,Mons bilan plantations coupes 1-12,src_ibh_jr2025_ag_mons_bilan,strong,tick1970; reval DROP -94180 vs prior
+bud_bep_namur_omzet_jr2025_statutory,bep_namur,2025,3852661,,,CW YE2025 omzet / Turnover,src_bep_namur_jr2025_cw,medium,tick1971; YE2025 omzet 3852661 DROP -11.1pct vs YE2024 4333752
+bud_bep_namur_pnl_jr2025_statutory,bep_namur,2025,393917,,,CW YE2025 Profit/Loss,src_bep_namur_jr2025_cw,medium,tick1971; pnl JUMP 393917 +153.03pct vs YE2024 155683
+bud_bep_namur_equity_jr2025_statutory,bep_namur,2025,18014735,,,CW YE2025 Eigen vermogen,src_bep_namur_jr2025_cw,medium,tick1971; equity JUMP 18014735 +1.89pct vs YE2024 17679775
+bud_bep_namur_bruto_jr2025_statutory,bep_namur,2025,709934,,,CW YE2025 Brutomarge,src_bep_namur_jr2025_cw,medium,tick1971; bruto DROP 709934 -30.63pct vs YE2024 1023385
+bud_bep_namur_fte_jr2025_statutory,bep_namur,2025,151.4,,,CW social-balance FTE,src_bep_namur_jr2025_cw,medium,tick1971; YE2025 FTE 151.4 vs YE2024 146.7

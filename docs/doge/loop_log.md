@@ -22757,3 +22757,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - EVERY-10 done (**next every-10 is 1980**). Next: rq_1971 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ / LOGIPOLE).
 
+## Tick 1971 - 2026-08-23T20:00:00Z - rq_1971 BEP NAMUR (omzet DROP 3.85m / pnl JUMP 0.394m / equity JUMP 18.01m / Medium)
+
+- Unit: **rq_1971** leftover dual after **rq_1970 IBH EVERY-10**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **BEP NAMUR** parent holding YE2025 (KBO **0219.802.592**; Avenue Sergent Vrithoff 2 Namur; CV; dual **BEP Environnement / Expansion / Crematorium**). Do not redo IBH/BEP Crematorium/BEP Expansion/IEG/CENEO/CISCH/HELORA/iMio/Passelecq/IPFBW/IGRETEC/Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92/AIEG/Synergrid.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR3,852,661** DROP -11.1%; pnl **EUR393,917** JUMP +153.03%; equity **EUR18,014,735** JUMP +1.89%; bruto **EUR709,934** DROP -30.63%; FTE **151.4**; neerlegging **06.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief CV; email officiel.ic-bep@bep.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 bep_namur); foi + draft gap_bep_namur_nbb_pdf_assets_debt_holding_matrix_l5; rq_1971=done + rq_1972 open; loop_state ticks=1971.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1980**). Next: rq_1972 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
+
