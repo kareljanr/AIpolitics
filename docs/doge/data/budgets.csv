@@ -52571,3 +52571,7 @@ bud_slg_vlaanderen_bruto_jr2025_statutory,vzw_slg_vlaanderen,2025,83069045,83069
 bud_slg_vlaanderen_pnl_jr2025_statutory,vzw_slg_vlaanderen,2025,-332030,-332030,-332030,CW YE2025 Profit/Loss,src_slg_vlaanderen_jr2025_cw_en,medium,tick2101; FLIP LOSS -288.1% vs YE2024 PROFIT 176516
 bud_slg_vlaanderen_equity_jr2025_statutory,vzw_slg_vlaanderen,2025,397440,397440,397440,CW YE2025 Eigen vermogen / Equity (thin vs omzet),src_slg_vlaanderen_jr2025_cw_en,medium,tick2101; DROP -45.52% vs YE2024 729470; thin vs omzet 115872918
 bud_slg_vlaanderen_fte_jr2025_statutory,vzw_slg_vlaanderen,2025,1190.2,1190.2,1190.2,CW social-balance FTE / Employees,src_slg_vlaanderen_jr2025_cw_en,medium,tick2101; FTE 1190.2 DROP -0.22% vs YE2024 1192.8
+bud_ores_sc_omzet_jr2025_statutory,sc_ores,2025,920909050,920909050,920909050,CW turnover / Omzet YE2025 (primary envelope),src_ores_sc_jr2025_cw_en,medium,tick2102; omzet JUMP 920909050 (+16.99%) vs YE2024 787137854; double-count vs ores Assets possible
+bud_ores_sc_equity_jr2025_statutory,sc_ores,2025,461806,461806,461806,CW Equity / Eigen vermogen YE2025,src_ores_sc_jr2025_cw_en,medium,tick2102; equity DROP 461806 (-0.80%) vs YE2024 465516; thin vs omzet
+bud_ores_sc_bruto_jr2025_statutory,sc_ores,2025,325847115,325847115,325847115,CW Gross margin / Brutomarge YE2025,src_ores_sc_jr2025_cw_en,medium,tick2102; bruto JUMP 325847115 (+15.70%) vs YE2024 281641147
+bud_ores_sc_fte_jr2025_statutory,sc_ores,2025,3000,3000,3000,CW social-balance FTE / Employees,src_ores_sc_jr2025_cw_en,medium,tick2102; FTE JUMP 3000 vs YE2024 2819.5

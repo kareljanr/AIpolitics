@@ -23960,3 +23960,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: rq_2101=done + rq_2102 open; loop_state ticks=2101; progress/waste attribution fix (Always Home@2100 EVERY-10; SLG Vlaanderen@2101); entity notes tick label; FOI draft already ready.
 - FOI: **ready not sent** (human-gated; info@korian.be).
 - NOT every-10 (**last every-10 was 2100**; next **2110**). Next: rq_2102 (AGB/FARO-if-YE2025 / AIESH-REW / Korian Belgium deferred / unused WZC).
+
+
+## Tick 2102 - 2026-08-25T06:15:00Z - rq_2102 ORES SC (omzet JUMP 920.91m / equity THIN 0.46m / Medium)
+
+- Unit: **rq_2102** leftover dual after concurrent **rq_2101 SLG Vlaanderen** (this agent raced on 2101 with ORES SC; remapped to 2102). Prefer: AGB Bornem **JR2024-only**; FARO **YE2024**; AIESH **YE2024**; REW **YE2024**. Took unused Walloon DSO ops **ORES SC** YE2025 (KBO **0897.436.971**; Avenue Jean Mermoz 14 Charleroi; SC / **33 VE** / pouvoir adjudicateur; NACE **35.140/35.220**). DISTINCT from ORES Assets.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR920909050** JUMP +16.99%; bruto **EUR325847115** JUMP +15.70%; equity **EUR461806** DROP -0.80% thin; FTE **3000** JUMP vs YE2024 2819.5; **pnl Unknown** (CW omits P&L); neerlegging **16.06.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via contact@ores.be.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 6.8); entities (+1 sc_ores); foi + draft gap_ores_sc_nbb_pdf_assets_debt_pnl_equity_thin_matrix_l5; rq_2102=done + rq_2103 open; loop_state ticks=2102; raw docs/doge/data/raw/tick2101/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 2110**). Next: rq_2103 (AGB/FARO-if-YE2025 / AIESH-REW / Comnexio deferred / unused).
