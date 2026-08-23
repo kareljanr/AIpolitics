@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 1980** (2026-08-23)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1971-1980 BEP/HYGEA/ORES-IPF/IDELUX continuum after 1970 IBH |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1971-1980 is residual dual L5 (not near-complete of 348bn):** **BEP NAMUR** omzet DROP **3.85m** · **LOGIPOLE** omzet JUMP **24.82m** · **BEP Environnement** omzet DROP **25.69m** · **FINEST** pnl DROP **2.65m** / equity JUMP **64.64m** · **HYGEA** assets JUMP **58.45m** · **FINIMO** pnl DROP **3.73m** / equity JUMP **106.33m** · **IDEFIN** pnl DROP **13.21m** / equity JUMP **329.54m** · **SOFILUX** pnl DROP **7.98m** / equity JUMP **203.98m** · **IFIGA** pnl JUMP **0.605m** / equity JUMP **10.09m** · **IDELUX Finances** omzet DROP **0.644m** / bruto NEG **0.676m** Medium (this tick EVERY-10 dual) |
+| **E. FOI-ready gaps** | **~1597** drafts ready | Human send only; answered **~11**; partial **~28**; total FOI rows **~1649** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable/energy/nuclear/water/forest shells** (**NEW 1971-1980** BEP NAMUR · LOGIPOLE · BEP Environnement · FINEST · HYGEA · FINIMO · IDEFIN · SOFILUX · IFIGA · **IDELUX Finances** · prior IBH/CENEO/IEG/IGRETEC/HELORA/SPGE/Aquiris/Vivaqua stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs IDELUX Env/Eau/SOFILUX/ORES/IPFBW path possible; Medium aggregators pending NBB PDF.**
+
+### Inventory (tick 1980)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 51960 |
+| commitments.csv | 5646 |
+| leaderboard.csv | 7767 |
+| entities.csv | 1682 |
+| sources.csv | 4794 |
+| FOI ready | 1597 |
+| FOI answered | 11 |
+| FOI partial | 28 |
+| FOI total rows | 1649 |
+| research_queue open | rq_1981 after progress |
+
+### What improved since tick 1970
+
+- **Residual dual (tick1971-1980):** **BEP NAMUR** · **LOGIPOLE** · **BEP Environnement** · **FINEST** · **HYGEA** · **FINIMO** · **IDEFIN** · **SOFILUX** · **IFIGA** · **IDELUX Finances** (this tick EVERY-10 dual — Luxembourg economic-equipment financing CV YE2025 Medium CW).
+- **Blocked still:** AGB Bornem JR2024-only · FARO NBB YE2025 unpublished (YE2024 filing) · AIESH/REW YE2024-only · Bosgroep IJzer/Houtland/Limburg YE2025 unpublished · prior Eneco deposit FOI stack.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified; corrupt AGB pi>10 / OWV snowball stock / Metro3 stock filtered off pure annual). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1990**.
+
+
 ## Snapshot at **tick 1970** (2026-08-23)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

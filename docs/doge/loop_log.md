@@ -22829,3 +22829,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated; no KBO email — route via commune if needed).
 - NOT every-10 (**next every-10 is 1980**). Next: rq_1980 (EVERY-10 progress + AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
 
+## Tick 1980 - 2026-08-23T22:30:00Z - rq_1980 EVERY-10 + IDELUX Finances (omzet DROP 0.644m / bruto NEG 0.676m / Medium)
+
+- Unit: **rq_1980** EVERY-10 mandatory + leftover dual after **rq_1979 IFIGA**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**; IPALLE/INTRADEL/TIBI already YE2025 mined. Took unused leftover **IDELUX Finances** YE2025 (KBO **0258.258.738**; Schoppach Arc-en-Ciel 98 Arlon; Luxembourg economic-equipment financing CV). Do not redo IFIGA/SOFILUX/IDEFIN/FINIMO/FINEST/HYGEA/BEP*/IBH/IPFBW/IPALLE/INTRADEL/TIBI/IDELUX Env/Eau.
+- EVERY-10: refreshed **progress_every_10_ticks.md** (tick 1980 snapshot; residual dual 1971-1980) + **doge_waste_top10_current.md** (pure annual top10 stable GIP/fossil/cars/cheque/reporté; NEW residual dual off-top10).
+- Found: Companyweb NL+EN YE2025 - omzet **EUR644,147** DROP -78.85%; pnl **EUR1,026,516** JUMP +31.69%; equity **EUR36,065,604** JUMP +1.47%; bruto **NEG EUR-675,994** (swing from +1.715m); FTE **0**; neerlegging **19.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief CV; email officiel.ic-ideluxfinances@idelux.be.
+- Wrote: sources (+3); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 igs_idelux_finances); foi + draft gap_idelux_fin_nbb_pdf_assets_debt_omzet_drop_bruto_neg_matrix_l5; progress+top10; rq_1980=done + rq_1981 open; loop_state ticks=1980.
+- FOI: **ready not sent** (human-gated).
+- EVERY-10 done. Next every-10 **1990**. Next: rq_1981 (AGB/FARO-if-YE2025 / AIESH-REW / IDETA-SPI / unused DSO-IGS-HVZ).
+

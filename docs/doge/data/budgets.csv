@@ -51954,3 +51954,8 @@ bud_ifiga_pnl_jr2025_statutory,igs_ifiga,2025,604960,,,CW YE2025 Profit/Loss,src
 bud_ifiga_equity_jr2025_statutory,igs_ifiga,2025,10086790,,,CW YE2025 Eigen vermogen,src_ifiga_jr2025_cw,medium,tick1979; equity JUMP 10086790 +3.12pct vs YE2024 9781830
 bud_ifiga_bruto_jr2025_statutory,igs_ifiga,2025,-82556,,,CW YE2025 Brutomarge NEG,src_ifiga_jr2025_cw,medium,tick1979; bruto NEG -82556 improved +24.24pct vs YE2024 -108964 still NEG
 bud_ifiga_fte_jr2025_statutory,igs_ifiga,2025,1,,,CW social-balance FTE,src_ifiga_jr2025_cw,medium,tick1979; YE2025 FTE 1 IPF shell
+bud_idelux_fin_omzet_jr2025_statutory,igs_idelux_finances,2025,644147,,,CW YE2025 omzet / Turnover,src_idelux_fin_jr2025_cw,medium,tick1980; omzet DROP 644147 -78.85pct vs YE2024 3045931
+bud_idelux_fin_pnl_jr2025_statutory,igs_idelux_finances,2025,1026516,,,CW YE2025 Profit/Loss,src_idelux_fin_jr2025_cw,medium,tick1980; pnl JUMP 1026516 +31.69pct vs YE2024 779467
+bud_idelux_fin_equity_jr2025_statutory,igs_idelux_finances,2025,36065604,,,CW YE2025 Eigen vermogen,src_idelux_fin_jr2025_cw,medium,tick1980; equity JUMP 36065604 +1.47pct vs YE2024 35543360
+bud_idelux_fin_bruto_jr2025_statutory,igs_idelux_finances,2025,-675994,,,CW YE2025 Brutomarge NEG,src_idelux_fin_jr2025_cw,medium,tick1980; bruto NEG -675994 swing -139.41pct vs YE2024 +1715314
+bud_idelux_fin_fte_jr2025_statutory,igs_idelux_finances,2025,0,,,CW social-balance FTE,src_idelux_fin_jr2025_cw,medium,tick1980; YE2025 FTE 0 financing/real-estate shell
