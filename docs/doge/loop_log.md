@@ -23780,3 +23780,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.3); entities (+1 vzw_wzc_mater_dei_heikruis_pepingen); foi + draft gap_mater_dei_nbb_pdf_assets_debt_pnl_flip_fte_jump_matrix_l5; rq_2081=done + rq_2082 open; loop_state ticks=2081; raw under docs/doge/data/raw/tick2081/.
 - FOI: **ready not sent** (human-gated; info@materdei-wzc.be).
 - NOT every-10 (**next every-10 is 2090**). Next: rq_2082 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2082 - 2026-08-25T01:35:00Z - rq_2082 WZC De Wijshage Rumst (omzet DROP 8.00m / pnl DROP 0.54m / Medium)
+
+- Unit: **rq_2082** leftover dual after **rq_2081 Mater Dei** (concurrent race took Mater Dei on 2081; this fire continues with unused Wijshage). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Sint-Barbara Herselt YE2025 live but **already mined rq_2019** — skipped. Took unused leftover **WZC De Wijshage / De Wijtshage** YE2025 (KBO **0449.425.546**; '''s Herenbaan 170 Rumst; Antwerpen **VZW** WZC / **1 VE**; Woonzorgcollectief; **DISTINCT from Sint-Jozef Rumst and Mater Dei Heikruis**). Do not redo Mater Dei/Den Akker/Vander Stokken/Ten Anker/De Zwaluw/Kuurne/SJ Brugge/HH Grimbergen/Mater Amabilis/Maria Moorslede/MSW NZVL/Welvaart/Vulpia/Compostela/Leiehome/Deinze/OLV Bornem/Huize SJ Ieper/Sint-Antonius/Wezembeek/Ter Burg/Christine/Vrijzicht/Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/Armonea/Always Home/Maria Ingelmunster/SJ Rumst/Rillaar/Sint-Barbara Herselt/Molenheide.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR7995385** DROP -0.15%; pnl **PROFIT EUR543894** DROP vs YE2024 PROFIT EUR749719; equity **EUR13934288** JUMP +2.74%; bruto **EUR8323447** JUMP +1.93%; FTE **100.9** JUMP +4.99% vs YE2024 96.1; neerlegging **03.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email onthaal@dewijtshage.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_wzc_de_wijshage_rumst); foi + draft gap_wijshage_nbb_pdf_assets_debt_pnl_drop_fte_jump_matrix_l5; rq_2082=done + rq_2083 open; loop_state ticks=2082; raw under docs/doge/data/raw/tick2082/.
+- FOI: **ready not sent** (human-gated; onthaal@dewijtshage.be).
+- NOT every-10 (**next every-10 is 2090**). Next: rq_2083 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).

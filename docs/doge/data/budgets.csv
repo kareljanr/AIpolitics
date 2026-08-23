@@ -52467,3 +52467,8 @@ bud_mater_dei_pnl_jr2025_statutory,vzw_wzc_mater_dei_heikruis_pepingen,2025,2228
 bud_mater_dei_equity_jr2025_statutory,vzw_wzc_mater_dei_heikruis_pepingen,2025,4184416,4184416,4184416,CW YE2025 Eigen vermogen / Equity,src_mater_dei_jr2025_cw_en,medium,tick2081; JUMP +5.63% vs YE2024 3961566
 bud_mater_dei_bruto_jr2025_statutory,vzw_wzc_mater_dei_heikruis_pepingen,2025,6204899,6204899,6204899,CW YE2025 Brutomarge / Gross margin,src_mater_dei_jr2025_cw_en,medium,tick2081; JUMP +4.62% vs YE2024 5930849
 bud_mater_dei_fte_jr2025_statutory,vzw_wzc_mater_dei_heikruis_pepingen,2025,101.9,101.9,101.9,CW social-balance FTE / Employees,src_mater_dei_jr2025_cw_en,medium,tick2081; FTE JUMP 101.9 (+7.72%) vs YE2024 94.6
+bud_wijshage_omzet_jr2025_statutory,vzw_wzc_de_wijshage_rumst,2025,7995385,7995385,7995385,CW YE2025 omzet / Turnover,src_wijshage_jr2025_cw_en,medium,tick2082; DROP -0.15% vs YE2024 8007098
+bud_wijshage_pnl_jr2025_statutory,vzw_wzc_de_wijshage_rumst,2025,543894,543894,543894,CW YE2025 Profit/Loss,src_wijshage_jr2025_cw_en,medium,tick2082; DROP vs YE2024 749719 (DROP -27.45%)
+bud_wijshage_equity_jr2025_statutory,vzw_wzc_de_wijshage_rumst,2025,13934288,13934288,13934288,CW YE2025 Eigen vermogen / Equity,src_wijshage_jr2025_cw_en,medium,tick2082; JUMP +2.74% vs YE2024 13562501
+bud_wijshage_bruto_jr2025_statutory,vzw_wzc_de_wijshage_rumst,2025,8323447,8323447,8323447,CW YE2025 Brutomarge / Gross margin,src_wijshage_jr2025_cw_en,medium,tick2082; JUMP +1.93% vs YE2024 8165947
+bud_wijshage_fte_jr2025_statutory,vzw_wzc_de_wijshage_rumst,2025,100.9,100.9,100.9,CW social-balance FTE / Employees,src_wijshage_jr2025_cw_en,medium,tick2082; FTE JUMP 100.9 (+4.99%) vs YE2024 96.1
