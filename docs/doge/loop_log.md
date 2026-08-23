@@ -23260,3 +23260,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_sint_carolus_ternat); foi + draft gap_wzc_sint_carolus_ternat_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2027=done + rq_2028 open; loop_state ticks=2027; raw under docs/doge/data/raw/tick2027/.
 - FOI: **ready not sent** (human-gated; wzc@sintcarolus.be).
 - NOT every-10 (**next every-10 is 2030**). Next: rq_2028 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-hospital-psych-WZC).
+
+
+## Tick 2028 - 2026-08-24T11:40:00Z - rq_2028 WZC De Foyer Gent (omzet JUMP 19.03m / pnl RECOVERY 39k / Medium)
+
+- Unit: **rq_2028** leftover dual after **rq_2027 WZC Sint-Carolus Ternat**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took unused leftover **WZC De Foyer Gent** YE2025 (KBO **0413.796.456**; Heerweg-Zuid 126 Gent; Oost-Vlaanderen **WZC group VZW** / 4 campuses). Do not redo Ternat/Zilverbos/Sint Carolus Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara Herselt/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/Veilige Have/Molenheide.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR19,026,367** JUMP +3.25%; pnl **EUR38,805** RECOVERY from YE2024 LOSS EUR−666,940; equity **EUR714,486** JUMP +5.74% (thin vs flow); bruto **EUR12,366,559** DROP −2.29%; FTE **188.1**; neerlegging **30.04.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 4 VE; email info@wzcdefoyer.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_de_foyer_gent); foi + draft gap_wzc_de_foyer_gent_nbb_pdf_assets_debt_pnl_recovery_matrix_l5; rq_2028=done + rq_2029 open; loop_state ticks=2028; raw under docs/doge/data/raw/tick2028/.
+- FOI: **ready not sent** (human-gated; info@wzcdefoyer.be).
+- NOT every-10 (**next every-10 is 2030**). Next: rq_2029 (AGB/FARO-if-YE2025 / AIESH-REW / Bethanie-Karus / unused DSO-IGS-HVZ).

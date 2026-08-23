@@ -52195,3 +52195,8 @@ bud_wzc_sint_carolus_ternat_pnl_jr2025_statutory,vzw_wzc_sint_carolus_ternat,202
 bud_wzc_sint_carolus_ternat_equity_jr2025_statutory,vzw_wzc_sint_carolus_ternat,2025,9301970,,,CW YE2025 Eigen vermogen,src_wzc_sint_carolus_ternat_jr2025_cw,medium,tick2027; equity JUMP 9301970 +10.02pct vs YE2024 8454658
 bud_wzc_sint_carolus_ternat_bruto_jr2025_statutory,vzw_wzc_sint_carolus_ternat,2025,9564169,,,CW YE2025 Brutomarge,src_wzc_sint_carolus_ternat_jr2025_cw,medium,tick2027; bruto JUMP 9564169 +4.55pct vs YE2024 9148221
 bud_wzc_sint_carolus_ternat_fte_jr2025_statutory,vzw_wzc_sint_carolus_ternat,2025,106.3,,,CW social-balance FTE,src_wzc_sint_carolus_ternat_jr2025_cw,medium,tick2027; YE2025 FTE 106.3 vs YE2024 108.6
+bud_wzc_de_foyer_gent_omzet_jr2025_statutory,vzw_wzc_de_foyer_gent,2025,19026367,,,CW YE2025 omzet / Turnover,src_wzc_de_foyer_gent_jr2025_cw,medium,tick2028; omzet JUMP 19026367 +3.25pct vs YE2024 18426642
+bud_wzc_de_foyer_gent_pnl_jr2025_statutory,vzw_wzc_de_foyer_gent,2025,38805,,,CW YE2025 Profit/Loss,src_wzc_de_foyer_gent_jr2025_cw,medium,tick2028; pnl RECOVERY 38805 from YE2024 LOSS -666940
+bud_wzc_de_foyer_gent_equity_jr2025_statutory,vzw_wzc_de_foyer_gent,2025,714486,,,CW YE2025 Eigen vermogen,src_wzc_de_foyer_gent_jr2025_cw,medium,tick2028; equity JUMP 714486 +5.74pct vs YE2024 675680; thin vs 19m omzet
+bud_wzc_de_foyer_gent_bruto_jr2025_statutory,vzw_wzc_de_foyer_gent,2025,12366559,,,CW YE2025 Brutomarge,src_wzc_de_foyer_gent_jr2025_cw,medium,tick2028; bruto DROP 12366559 -2.29pct vs YE2024 12655960
+bud_wzc_de_foyer_gent_fte_jr2025_statutory,vzw_wzc_de_foyer_gent,2025,188.1,,,CW social-balance FTE,src_wzc_de_foyer_gent_jr2025_cw,medium,tick2028; YE2025 FTE 188.1
