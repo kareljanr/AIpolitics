@@ -21620,3 +21620,11 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_electrastar_dividend_6_40m_pnl_0_11m_equity_strip_l5 (**ready**, human-send only)
 - NOT every-10 (next **1850**). Next: rq_1842 (Ornoi/Perwez-if-200 / AGB / Dijk92 / FARO).
 
+## Tick 1842 - 2026-08-25T18:20:00Z - rq_1842 Les Vents de l Ornoi NV (Electrabel 50pct + Eneco 50pct / CIP 0.50m)
+
+- Unit: **rq_1842** leftover dual residual after Electrastar; preferred AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2024. Took deferred live **Les Vents de l Ornoi NV** (Electrabel **50%** + Eneco **50%**; KBO **0480.079.823**; deposit **2025-00521825**). Perwez deferred.
+- Primary (strong, NBB C-cap [2025-00521825](http://cdn.staatsbladmonitor.be/2025pdf/2025-00521825.pdf) CDN 200 / 45p 553038 bytes; AV **03.09.2025**; YE **01.04.2024-31.03.2025**): assets DROP **EUR1,307,484**; CIP JUMP **EUR497,172**; machines near-zero **EUR308**; omzet DROP **EUR901,249**; expl DROP **EUR77,085**; PnL DROP **EUR56,370** (dividend **0**; prior **485,000**); milieu **EUR603,754** (> equity **259,681**); debt ST **EUR444,049**; cash DROP **EUR220,962**; oth-part ST debt **EUR242,500**; VTE empty.
+- Wrote: entities nv_vents_ornoi; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1842=done + rq_1843 spawned; loop_state ticks=1842; FOI draft gap_ornoi_electrabel_eneco_50_50_cip_0_50m_milieu_0_60m_l5.md
+- FOI opened: gap_ornoi_electrabel_eneco_50_50_cip_0_50m_milieu_0_60m_l5 (**ready**, human-send only)
+- NOT every-10 (next **1850**). Next: rq_1843 (Perwez/Bois du Prince-if-200 / AGB / Dijk92 / FARO).
+
