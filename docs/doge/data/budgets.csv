@@ -51862,3 +51862,9 @@ bud_imio_assets_jr2025_statutory,imio,2025,3148420.72,,,AG bilan TOTAL ACTIF 20/
 bud_imio_debt_jr2025_statutory,imio,2025,2160340.78,,,AG DETTES 17/49,src_imio_jr2025_ag_mons,strong,tick1963; YE2025 debt 2160340.78 (LT 758385.44 + ST 1394309.38) vs 2177141.34 YE2024
 bud_imio_cash_jr2025_statutory,imio,2025,560966.88,,,AG valeurs disponibles 54/58,src_imio_jr2025_ag_mons,strong,tick1963; YE2025 cash 560966.88 DROP vs 616818.14 YE2024
 bud_imio_fte_jr2025_statutory,imio,2025,60.2,,,AG + CW social-balance FTE 9087,src_imio_jr2025_ag_mons,strong,tick1963; YE2025 FTE 60.2 JUMP vs 52.9 YE2024; pers ~5.025m
+bud_helora_omzet_jr2025_statutory,vzw_chu_helora,2025,900540159,,,CW NBB-derived omzet statutory,src_helora_jr2025_cw,medium,tick1964; YE2025 omzet 900540159 JUMP +4.8pct vs 859315064
+bud_helora_pnl_jr2025_statutory,vzw_chu_helora,2025,7860643,,,CW NBB-derived Winst/Verlies (turnaround),src_helora_jr2025_cw,medium,tick1964; YE2025 pnl JUMP turnaround 7860643 vs LOSS 3370003 YE2024 (+333pct)
+bud_helora_bruto_jr2025_statutory,vzw_chu_helora,2025,391037739,,,CW NBB-derived bruto/gross margin,src_helora_jr2025_cw,medium,tick1964; YE2025 bruto 391037739 +6.69pct vs 366528999
+bud_helora_equity_jr2025_statutory,vzw_chu_helora,2025,135310273,,,CW NBB-derived equity,src_helora_jr2025_cw,medium,tick1964; YE2025 equity 135310273 JUMP +3.95pct vs 130173997
+bud_helora_fte_jr2025_statutory,vzw_chu_helora,2025,4026.3,,,CW social-balance FTE,src_helora_jr2025_cw,medium,tick1964; YE2025 FTE 4026.3 DROP vs 4176.9 YE2024 / 4566.1 YE2023
+bud_helora_assets_jr2024_upswitch_lag,vzw_chu_helora,2024,633265402,,,Upswitch NBB YE2024 assets (YE2025 Unknown),src_helora_jr2024_upswitch,medium,tick1964; YE2024 assets 633265402 for context; YE2025 assets Unknown this tick
