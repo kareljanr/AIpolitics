@@ -21231,3 +21231,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_vivalto_immo; budgets (+13); commitments; leaderboard; foi_queue ready; research_queue rq_1792=done + rq_1793 spawned; loop_state ticks=1792; FOI draft gap_vivalto_immo_fva_37_25m_controllers_42_72m_l5.md
 - FOI opened: gap_vivalto_immo_fva_37_25m_controllers_42_72m_l5 (**ready**, not sent)
 - Next: rq_1793 — AGB/NSZ-if-200/Bosgroep/FARO-if-2025/unused-Vivalto-holding-subs; every-10 at 1800
+
+### 2026-08-25T00:35:00Z — tick 1793
+- Unit: rq_1793 — **VIVALTO LEASE SA** (Forest / RIVAGE group lease financing vehicle)
+- Found: Preferred AGB/NSZ/Dijk92/APEFE still blocked. Adjacent CDN sweep found **VIVALTO LEASE** + **Maison Dieu 00137213 LIVE**. Took **VIVALTO LEASE SA** NBB A-cap YE2025 deposit [2026-00137210](http://cdn.staatsbladmonitor.be/2026pdf/2026-00137210.pdf) CDN 200 (197616 bytes / 26p); KBO **0672.832.481**; AV **07.05.2026**; mere Vivalto Home Belgium; Forvis Mazars — **opinion sans reserve**. Sourced: assets **EUR166,940,669**; LT autres emprunts **EUR103,298,470**; **RIVAGE gage EUR135,600,000** (assets greves **162,638,772**); controllers **EUR61,807,881**; FVA **EUR68,036,512**; LT commercial recv **EUR70,552,050**; PnL **EUR1,426,770**; VTE **0**. This is the central undivided RIVAGE vehicle behind sister-home gages.
+- Wrote: sources (+3); entities nv_vivalto_lease; budgets (+14); commitments; leaderboard; foi_queue ready; research_queue rq_1793=done + rq_1794 MaisonDieu-00137213 spawned; loop_state ticks=1793; FOI draft gap_vivalto_lease_debt_103_3m_rivage_135_6m_controllers_61_8m_l5.md
+- FOI opened: gap_vivalto_lease_debt_103_3m_rivage_135_6m_controllers_61_8m_l5 (**ready**, not sent)
+- Next: rq_1794 — **MaisonDieu CDN 2026-00137213 LIVE**; every-10 at 1800

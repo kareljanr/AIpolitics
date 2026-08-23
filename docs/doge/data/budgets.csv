@@ -50705,3 +50705,17 @@ bud_vivalto_immo_cash_2025,nv_vivalto_immo,2025,21237,,,stock,src_vivalto_immo_j
 bud_vivalto_immo_marge_2025,nv_vivalto_immo,2025,83836,,,realized,src_vivalto_immo_jr2025_nbb,strong,Marge bruto 83836 (A-cap; prior nrec 5700000); tick1792
 bud_vivalto_immo_pnl_2025,nv_vivalto_immo,2025,800012,,,realized,src_vivalto_immo_jr2025_nbb,strong,PnL 800012 flip from prior loss -1760535; fin products 908965; tick1792
 bud_vivalto_immo_guarantees_related_2025,nv_vivalto_immo,2025,22490754,,,stock,src_vivalto_immo_jr2025_nbb,strong,Garanties for related enterprises 9294=22490754; tick1792
+bud_vivalto_lease_assets_2025,nv_vivalto_lease,2025,166940669,,,stock,src_vivalto_lease_jr2025_nbb,strong,Assets YE2025 166940669; tick1793
+bud_vivalto_lease_equity_2025,nv_vivalto_lease,2025,53640582,,,stock,src_vivalto_lease_jr2025_nbb,strong,Equity 53640582; tick1793
+bud_vivalto_lease_debt_2025,nv_vivalto_lease,2025,113300087,,,stock,src_vivalto_lease_jr2025_nbb,strong,Debt 113300087; tick1793
+bud_vivalto_lease_fva_2025,nv_vivalto_lease,2025,68036512,,,stock,src_vivalto_lease_jr2025_nbb,strong,Immobilisations financieres 68036512; tick1793
+bud_vivalto_lease_lt_autres_emprunts_2025,nv_vivalto_lease,2025,103298470,,,stock,src_vivalto_lease_jr2025_nbb,strong,Autres emprunts LT 103298470 (RIVAGE/bond vehicle); tick1793
+bud_vivalto_lease_lt_commercial_recv_2025,nv_vivalto_lease,2025,70552050,,,stock,src_vivalto_lease_jr2025_nbb,strong,Creances commerciales LT 70552050; tick1793
+bud_vivalto_lease_controllers_recv_2025,nv_vivalto_lease,2025,61807881,,,stock,src_vivalto_lease_jr2025_nbb,strong,Creances controleurs 9500=61807881; tick1793
+bud_vivalto_lease_autres_creances_2025,nv_vivalto_lease,2025,16945694,,,stock,src_vivalto_lease_jr2025_nbb,strong,Autres creances ST 16945694; tick1793
+bud_vivalto_lease_rivage_gage_2025,nv_vivalto_lease,2025,135600000,,,stock,src_vivalto_lease_jr2025_nbb,strong,Gage max 135600000 on assets greves 162638772; tick1793
+bud_vivalto_lease_cash_2025,nv_vivalto_lease,2025,5085967,,,stock,src_vivalto_lease_jr2025_nbb,strong,Cash 5085967; tick1793
+bud_vivalto_lease_marge_2025,nv_vivalto_lease,2025,173291,,,realized,src_vivalto_lease_jr2025_nbb,strong,Marge bruto 173291 (A-cap); tick1793
+bud_vivalto_lease_fin_products_2025,nv_vivalto_lease,2025,6145630,,,realized,src_vivalto_lease_jr2025_nbb,strong,Produits financiers 6145630; tick1793
+bud_vivalto_lease_fin_charges_2025,nv_vivalto_lease,2025,4093262,,,realized,src_vivalto_lease_jr2025_nbb,strong,Charges financieres 4093262; tick1793
+bud_vivalto_lease_pnl_2025,nv_vivalto_lease,2025,1426770,,,realized,src_vivalto_lease_jr2025_nbb,strong,PnL 1426770; tick1793
