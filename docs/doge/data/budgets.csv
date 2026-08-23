@@ -52287,3 +52287,8 @@ bud_agb_bornem_bruto_jr2024_statutory,agb_bornem,2024,2767146,,,official statuta
 bud_agb_bornem_pnl_jr2024_statutory,agb_bornem,2024,1379250,,,official statutair code 9904 Winst/verlies,src_agb_bornem_jr2024_statutair_official,strong,tick2045; pnl DROP 1379250 -33.64pct vs YE2023 2078354
 bud_agb_bornem_cash_jr2024_statutory,agb_bornem,2024,646906,,,official statutair code 54/58 liquide middelen,src_agb_bornem_jr2024_statutair_official,strong,tick2045; cash DROP 646906 -24.41pct vs YE2023 855824
 bud_agb_bornem_budgetair_jr2024_rvb,agb_bornem,2024,2764770,,,RvB vaststelling 14.10.2025 budgettair resultaat,src_agb_bornem_jr2024_rvb_official,strong,tick2045; budgettair resultaat 2764770 te verwerken in MJP-aanpassing
+bud_curando_omzet_jr2025_statutory,vzw_curando,2025,87690207,,,CW YE2025 omzet / Turnover,src_curando_jr2025_cw_en,medium,tick2046; omzet JUMP 87690207 +5.85pct vs YE2024 82845080
+bud_curando_pnl_jr2025_statutory,vzw_curando,2025,2863387,,,CW YE2025 Profit/Loss,src_curando_jr2025_cw_en,medium,tick2046; pnl DROP 2863387 -7.32pct vs YE2024 3089557
+bud_curando_equity_jr2025_statutory,vzw_curando,2025,63483907,,,CW YE2025 Eigen vermogen / Equity,src_curando_jr2025_cw_en,medium,tick2046; equity JUMP 63483907 +2.91pct vs YE2024 61690655
+bud_curando_bruto_jr2025_statutory,vzw_curando,2025,91460512,,,CW YE2025 Brutomarge / Gross margin,src_curando_jr2025_cw_en,medium,tick2046; bruto JUMP 91460512 +5.53pct vs YE2024 86668126
+bud_curando_fte_jr2025_statutory,vzw_curando,2025,1107,,,CW social-balance FTE,src_curando_jr2025_cw_en,medium,tick2046; YE2025 FTE 1107 (CW displays 1.107 with thousands separator)

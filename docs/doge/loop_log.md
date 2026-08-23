@@ -23439,3 +23439,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+8); budgets (+7); commitments (+1); leaderboard (+1 pi 5.9); entities (update agb_bornem); foi + draft gap_agb_bornem_omzet_empty_debt_20_50m_jr2025_l5; rq_2045=done + rq_2046 open; loop_state ticks=2045; raw under docs/doge/data/raw/tick2045/.
 - FOI: **ready not sent** (human-gated; financien@bornem.be). Sister gap_bornem_dual_jr2025 still ready.
 - NOT every-10 (**next every-10 is 2050**). Next: rq_2046 (FARO-if-YE2025 / AIESH-REW-if-YE2025 / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2046 - 2026-08-24T16:40:00Z - rq_2046 Curando (omzet JUMP 87.69m / pnl DROP 2.86m / Medium)
+
+- Unit: **rq_2046** leftover dual after **rq_2045 AGB Bornem**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024**. Took unused leftover **Curando** YE2025 (KBO **0445.499.422**; Zuster Filiepstraat 3 Wingene / Pensionaatstraat 8A Ruiselede; West-Vlaanderen **aanbestedende-overheid VZW** multi-campus WZC/thuiszorg / **27 VE**). Integro / Huize Vincent / Hof ter Waarbeek / Ter Kimme YE2025 also live — deferred. Do not redo AGB Bornem/De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/C.W.Z.C. Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hieronymus/WZC Sint-Barbara/PC Gent-Sleidinge/Molenheide/Veilige Have/Witte Meren.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR87,690,207** JUMP +5.85%; pnl **EUR2,863,387** DROP −7.32%; equity **EUR63,483,907** JUMP +2.91%; bruto **EUR91,460,512** JUMP +5.53%; FTE **1107**; neerlegging **15.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende overheid 27 VE; email info@curando.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.2); entities (+1 vzw_curando); foi + draft gap_curando_nbb_pdf_assets_debt_subsidy_matrix_l5; rq_2046=done + rq_2047 open; loop_state ticks=2046; raw under docs/doge/data/raw/tick2045/.
+- FOI: **ready not sent** (human-gated; info@curando.be).
+- NOT every-10 (**next every-10 is 2050**). Next: rq_2047 (AGB/FARO-if-YE2025 / AIESH-REW / Integro-Huize Vincent-Hof Waarbeek-Ter Kimme deferred / unused DSO-IGS-HVZ-WZC-psych).
