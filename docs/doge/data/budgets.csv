@@ -52546,3 +52546,8 @@ bud_familiezorg_gent_bruto_jr2025_statutory,vzw_familiezorg_gent,2025,70038917,7
 bud_familiezorg_gent_pnl_jr2025_statutory,vzw_familiezorg_gent,2025,639579,639579,639579,CW YE2025 Profit/Loss,src_familiezorg_gent_jr2025_cw_en,medium,tick2096; DROP -61.10% vs YE2024 PROFIT 1644314
 bud_familiezorg_gent_equity_jr2025_statutory,vzw_familiezorg_gent,2025,24209880,24209880,24209880,CW YE2025 Eigen vermogen / Equity,src_familiezorg_gent_jr2025_cw_en,medium,tick2096; JUMP +2.69% vs YE2024 23575744
 bud_familiezorg_gent_fte_jr2025_statutory,vzw_familiezorg_gent,2025,1237.4,1237.4,1237.4,CW social-balance FTE / Employees,src_familiezorg_gent_jr2025_cw_en,medium,tick2096; FTE 1237.4 DROP -0.26% vs YE2024 1240.6
+bud_arewal_omzet_jr2025_statutory,sc_arewal,2025,5631689,5631689,5631689,CW turnover / Omzet YE2025 (primary envelope),src_arewal_jr2025_cw_en,medium,tick2098; omzet DROP 5631689 (-6.00%) vs YE2024 5990896
+bud_arewal_pnl_jr2025_statutory,sc_arewal,2025,1000,1000,1000,CW Profit/Loss YE2025,src_arewal_jr2025_cw_en,medium,tick2098; pnl FLAT 1000 (0%) vs YE2024 1000; structural pass-through
+bud_arewal_equity_jr2025_statutory,sc_arewal,2025,31800,31800,31800,CW Equity / Eigen vermogen YE2025,src_arewal_jr2025_cw_en,medium,tick2098; equity JUMP 31800 (+3.25%) vs YE2024 30800; thin vs omzet
+bud_arewal_bruto_jr2025_statutory,sc_arewal,2025,920377,920377,920377,CW Gross margin / Brutomarge YE2025,src_arewal_jr2025_cw_en,medium,tick2098; bruto JUMP 920377 (+39.86%) vs YE2024 658058; with omzet DROP
+bud_arewal_fte_jr2025_statutory,sc_arewal,2025,7.7,7.7,7.7,CW social-balance FTE / Employees,src_arewal_jr2025_cw_en,medium,tick2098; FTE JUMP 7.7 vs YE2024 5.2

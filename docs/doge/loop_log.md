@@ -23924,3 +23924,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.8 bruto proxy); entities (+1 vzw_familiezorg_gent); foi + draft gap_familiezorg_gent_nbb_pdf_assets_debt_bruto_vs_omzet_pnl_drop_matrix_l5; rq_2097=done + rq_2098 open; loop_state ticks=2097; raw under docs/doge/data/raw/tick2096/ (Familiezorg fetch; closed as 2097).
 - FOI: **ready not sent** (human-gated; info@familiezorg.be).
 - NOT every-10 (**next every-10 is 2100**). Next: rq_2098 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2098 - 2026-08-25T05:25:00Z - rq_2098 AREWAL (omzet DROP 5.63m / bruto JUMP 0.92m / equity THIN / Medium)
+
+- Unit: **rq_2098** leftover dual after concurrent **rq_2097 Familiezorg Gent** (this agent initially raced on 2097; remapped to 2098). Prefer: AGB Bornem **JR2024-only**; FARO **YE2024**; AIESH **YE2024**; REW **YE2024**. Took unused DSO shared-services **AREWAL** YE2025 (KBO **0627.818.345**; Rue des Marais 11 Andenne shared with AIEG; SCRL / pouvoir adjudicateur; NACE **70.200**; **1 VE**). Parent AIEG already mined rq_1944.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR5631689** DROP -6.00%; bruto **EUR920377** JUMP +39.86%; pnl **FLAT EUR1000**; equity **EUR31800** JUMP +3.25% but thin; FTE **7.7** JUMP vs YE2024 5.2; neerlegging **02.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via officiel.ic-aieg@aieg.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.5); entities (+1 sc_arewal); foi + draft gap_arewal_nbb_pdf_assets_debt_bruto_jump_equity_thin_matrix_l5; rq_2098=done + rq_2099 open; loop_state ticks=2098; raw docs/doge/data/raw/tick2097/ (gathered during race).
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 2100**). Next: rq_2099.
