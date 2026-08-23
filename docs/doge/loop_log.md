@@ -22527,13 +22527,13 @@ Append-only. Each tick adds a short entry.
 - FOI opened: NBB PDF + FTE + FANC fee/LTO billing (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1950**). Next: rq_1947 (AGB/FARO-if-YE2025 / AIESH-if-YE2025 / otherHVZ-IGS).
 
-## Tick 1947 - 2026-08-27T20:45:00Z - rq_1947 CILE (omzet JUMP 159.7m / assets 460.1m / Strong)
+## Tick 1948 - 2026-08-27T21:00:00Z - rq_1948 CILE (omzet JUMP 159.7m / assets 460.1m / Strong)
 
-- Unit: **rq_1947** leftover dual after concurrent **rq_1946 Bel V** (already on main). Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO YE2024; AIESH YE2024; REW Wavre YE2024. Took leftover **CILE** (KBO **0202.395.052**; Rue Canal-de-l'Ourthe 8 Liege; Walloon water intercommunale pure; ~570k inhabitants / 24 communes; aanbestedende overheid). Do not redo Bel V/Dijk92/AIEG/Synergrid/Synatom/Atrias/RESA/Enodia/Fluxys*/ETB/Elia/BNO.
+- Unit: **rq_1948** leftover dual after concurrent **rq_1947 NIRAS** (already on main). Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO YE2024; AIESH YE2024; REW Wavre YE2024. Took leftover **CILE** (KBO **0202.395.052**; Rue Canal-de-l'Ourthe 8 Liege; Walloon water intercommunale pure; ~570k inhabitants / 24 communes; aanbestedende overheid). Do not redo NIRAS/Bel V/Dijk92/AIEG/Synergrid/Synatom/Atrias/RESA/Enodia/Fluxys*/ETB/Elia/BNO.
 - Primary hunt: **Strong** euros from [CILE Rapport annuel 2025 PDF](http://www.cile.be/sites/default/files/2026-08/CILE_RAPPORT_ANNUEL_2025.pdf) (AG **18.06.2026**; NBB neerlegging **30.06.2026**) + Medium CW bruto + Strong KBO: omzet **EUR159,695,588** (**JUMP +10.77%**); PnL **EUR4,466,433** (**DROP -87.69%**); equity **EUR366,590,582**; assets **EUR460,098,358**; debt **EUR90,115,578**; cash **EUR24,981,300** (**DROP**); pers **EUR40,265,740**; FTE **393.7**; bruto CW **EUR64,854,591**.
-- Wrote: sources (+3); budgets (+9); commitments (+1); leaderboard (+1); entities (+1 igs_cile); foi + draft gap_cile_commune_share_dividend_bei_swde_l5; rq_1947=done + rq_1948 open; loop_state ticks=1947.
+- Wrote: sources (+3); budgets (+9); commitments (+1); leaderboard (+1); entities (+1 igs_cile); foi + draft gap_cile_commune_share_dividend_bei_swde_l5; rq_1948=done + rq_1949 open; loop_state ticks=1948.
 - FOI opened: commune share/dividend + BEI schedule + SWDE purchase matrix (**ready**, human-send only).
-- NOT every-10 (**next every-10 is 1950**). Next: rq_1948 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / Laborelec-if-live).
+- NOT every-10 (**next every-10 is 1950**). Next: rq_1949 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / Laborelec-if-live).
 
 
 ## Tick 1947 - 2026-08-27T20:45:00Z - rq_1947 NIRAS (assets 1.777bn / omzet 315.6m / Strong)
