@@ -23026,3 +23026,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_azorg); foi + draft gap_azorg_nbb_pdf_assets_debt_pnl_loss_matrix_l5; rq_2002=done + rq_2003 open; loop_state ticks=2002; raw under docs/doge/data/raw/tick2002/.
 - FOI: **ready not sent** (human-gated; info@azorg.be).
 - NOT every-10 (**next every-10 is 2010**). Next: rq_2003 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-hospital; OLV Aalst deferred).
+
+
+## Tick 2003 - 2026-08-24T04:55:00Z - rq_2003 Emmaüs (omzet JUMP 624.17m / pnl JUMP 15.45m / Medium)
+
+- Unit: **rq_2003** leftover dual after **rq_2002 AZORG**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. OLV Aalst YE2025 live (omzet 464.13m) but **deferred** (site→azorg.be / AZORG fusion **double-count**). Took unused leftover **Emmaüs** YE2025 (KBO **0411.515.075**; Edgard Tinellaan 1C Mechelen; Antwerpen **hospital+care VZW** / AZ Sint-Maarten dual). Do not redo AZORG/Z.org/AZ Delta/AZJP/ZAS/Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR624,168,726** JUMP +4.57%; pnl **EUR15,447,573** JUMP +40.11%; equity **EUR572,374,043** JUMP +2.60%; bruto **EUR557,830,841** JUMP +4.87%; FTE **6326.6**; neerlegging **25.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 100 VE; Aanbestedende overheid; email coordinatie@emmaus.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_emmaus); foi + draft gap_emmaus_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2003=done + rq_2004 open; loop_state ticks=2003; raw under docs/doge/data/raw/tick2003/.
+- FOI: **ready not sent** (human-gated; coordinatie@emmaus.be).
+- NOT every-10 (**next every-10 is 2010**). Next: rq_2004 (AGB/FARO-if-YE2025 / AIESH-REW / AZ Monica / unused DSO-IGS-HVZ-hospital).

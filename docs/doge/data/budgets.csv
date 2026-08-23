@@ -52070,3 +52070,8 @@ bud_azorg_pnl_jr2025_statutory,vzw_azorg,2025,-5085994,,,CW YE2025 Profit/Loss,s
 bud_azorg_equity_jr2025_statutory,vzw_azorg,2025,273342580,,,CW YE2025 Eigen vermogen,src_azorg_jr2025_cw,medium,tick2002; equity 273342580 fusion-first YE2025
 bud_azorg_bruto_jr2025_statutory,vzw_azorg,2025,360386008,,,CW YE2025 Brutomarge,src_azorg_jr2025_cw,medium,tick2002; bruto 360386008 fusion-first YE2025
 bud_azorg_fte_jr2025_statutory,vzw_azorg,2025,3786.7,,,CW social-balance FTE,src_azorg_jr2025_cw,medium,tick2002; YE2025 FTE 3786.7
+bud_emmaus_omzet_jr2025_statutory,vzw_emmaus,2025,624168726,,,CW YE2025 omzet / Turnover,src_emmaus_jr2025_cw,medium,tick2003; omzet JUMP 624168726 +4.57pct vs YE2024 596901644
+bud_emmaus_pnl_jr2025_statutory,vzw_emmaus,2025,15447573,,,CW YE2025 Profit/Loss,src_emmaus_jr2025_cw,medium,tick2003; pnl JUMP 15447573 +40.11pct vs YE2024 11025160
+bud_emmaus_equity_jr2025_statutory,vzw_emmaus,2025,572374043,,,CW YE2025 Eigen vermogen,src_emmaus_jr2025_cw,medium,tick2003; equity JUMP 572374043 +2.60pct vs YE2024 557842351
+bud_emmaus_bruto_jr2025_statutory,vzw_emmaus,2025,557830841,,,CW YE2025 Brutomarge,src_emmaus_jr2025_cw,medium,tick2003; bruto JUMP 557830841 +4.87pct vs YE2024 531908547
+bud_emmaus_fte_jr2025_statutory,vzw_emmaus,2025,6326.6,,,CW social-balance FTE,src_emmaus_jr2025_cw,medium,tick2003; YE2025 FTE 6326.6
