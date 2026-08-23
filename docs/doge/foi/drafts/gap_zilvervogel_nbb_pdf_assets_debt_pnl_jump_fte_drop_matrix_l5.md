@@ -5,7 +5,7 @@
 **entity:** CZD VZW / Zilvervogel — KBO **0471.475.527**  
 **recipient:** info@zilvervogel.be · Dorpplaats 14, 8647 Lo-Reninge  
 **sources:** [CW NL](https://www.companyweb.be/nl/0471475527/zilvervogel) · [CW EN](https://www.companyweb.be/en/0471475527/zilvervogel) · [CW FR](https://www.companyweb.be/fr/0471475527/zilvervogel) · [KBO](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0471475527) · [site](https://www.zilvervogel.be/)  
-**tick:** 2090  
+**tick:** 2091  
 **confidence:** Medium (CW NL+EN+FR; assets/debt Unknown)
 
 ## Context
