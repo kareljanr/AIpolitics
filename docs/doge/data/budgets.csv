@@ -52332,3 +52332,8 @@ bud_lendelede_pnl_jr2025_statutory,vzw_seniorenzorg_st_vincentius_lendelede,2025
 bud_lendelede_equity_jr2025_statutory,vzw_seniorenzorg_st_vincentius_lendelede,2025,8894294,,,CW YE2025 Eigen vermogen / Equity,src_lendelede_jr2025_cw_en,medium,tick2054; equity JUMP 8894294 +2.19pct vs YE2024 8703474
 bud_lendelede_bruto_jr2025_statutory,vzw_seniorenzorg_st_vincentius_lendelede,2025,6864614,,,CW YE2025 Brutomarge / Gross margin,src_lendelede_jr2025_cw_en,medium,tick2054; bruto JUMP 6864614 +6.73pct vs YE2024 6431980
 bud_lendelede_fte_jr2025_statutory,vzw_seniorenzorg_st_vincentius_lendelede,2025,83.5,,,CW social-balance FTE,src_lendelede_jr2025_cw_en,medium,tick2054; YE2025 FTE 83.5
+bud_ganspoel_omzet_jr2025_statutory,vzw_centrum_ganspoel,2025,1714365,,,CW YE2025 omzet / Turnover (code70; understates vs bruto),src_ganspoel_jr2025_cw_en,medium,tick2055; omzet JUMP 1714365 +1.28pct vs YE2024 1692759
+bud_ganspoel_pnl_jr2025_statutory,vzw_centrum_ganspoel,2025,133240,,,CW YE2025 Profit/Loss,src_ganspoel_jr2025_cw_en,medium,tick2055; pnl DROP 133240 -80.05pct vs YE2024 667800
+bud_ganspoel_equity_jr2025_statutory,vzw_centrum_ganspoel,2025,19098814,,,CW YE2025 Eigen vermogen / Equity,src_ganspoel_jr2025_cw_en,medium,tick2055; equity JUMP 19098814 +3.90pct vs YE2024 18381270
+bud_ganspoel_bruto_jr2025_statutory,vzw_centrum_ganspoel,2025,20569172,,,CW YE2025 Brutomarge / Gross margin (material VZW/VAPH flow),src_ganspoel_jr2025_cw_en,medium,tick2055; bruto JUMP 20569172 +2.26pct vs YE2024 20114712; preferred envelope vs code70 omzet
+bud_ganspoel_fte_jr2025_statutory,vzw_centrum_ganspoel,2025,244.7,,,CW social-balance FTE,src_ganspoel_jr2025_cw_en,medium,tick2055; YE2025 FTE 244.7

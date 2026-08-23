@@ -23528,3 +23528,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+6); budgets (+5); commitments (+1); leaderboard (+1 pi 4.7); entities (+1 vzw_seniorenzorg_st_vincentius_lendelede); foi + draft gap_lendelede_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2054=done + rq_2055 open; loop_state ticks=2054; raw under docs/doge/data/raw/tick2054/.
 - FOI: **ready not sent** (human-gated; directie@seniorenzorglendelede.be).
 - NOT every-10 (**next every-10 is 2060**). Next: rq_2055 (AGB/FARO-if-YE2025 / AIESH-REW / Ganspoel-Westerhauwe if live / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2055 - 2026-08-24T18:50:00Z - rq_2055 Centrum Ganspoel (bruto JUMP 20.57m / pnl DROP 0.13m / Medium)
+
+- Unit: **rq_2055** leftover dual after **rq_2054 Seniorenzorg Lendelede**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **Centrum Ganspoel** YE2025 (KBO **0410.917.437**; Ganspoel 2 Huldenberg; Vlaams-Brabant **aanbestedende-overheid VZW** VAPH disability / **5 VE**). Huize Westerhauwe YE2025 also live — deferred. Do not redo Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/C.W.Z.C. Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Sint-Jozef Rumst/Veilige Have/Witte Meren.
+- Found: Companyweb NL+EN+FR YE2025 — bruto **EUR20,569,172** JUMP +2.26%; omzet code70 **EUR1,714,365** JUMP +1.28%; pnl **EUR133,240** DROP −80.05%; equity **EUR19,098,814** JUMP +3.90%; FTE **244.7**; neerlegging **24.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende overheid 5 VE; email info@ganspoel.be. Envelope uses **bruto** (code70 omzet understates VZW/VAPH flow).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.7); entities (+1 vzw_centrum_ganspoel); foi + draft gap_ganspoel_nbb_pdf_assets_debt_pnl_drop_subsidy_matrix_l5; rq_2055=done + rq_2056 open; loop_state ticks=2055; raw under docs/doge/data/raw/tick2055/.
+- FOI: **ready not sent** (human-gated; info@ganspoel.be).
+- NOT every-10 (**next every-10 is 2060**). Next: rq_2056 (AGB/FARO-if-YE2025 / AIESH-REW / Westerhauwe deferred / unused DSO-IGS-HVZ-WZC-psych).
