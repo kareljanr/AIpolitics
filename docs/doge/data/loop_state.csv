@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T20:05:00Z,rq_2060,2060,no,tick2060 EVERY-10 + leftover Christine 0421.903.676 Medium CW (omzet JUMP 7.10m pnl DROP 0.94m equity JUMP 11.25m bruto JUMP 6.89m FTE 79.3; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2061; next every-10 2070; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T20:20:00Z,rq_2061,2061,no,tick2061 leftover Ter Burg 0479.401.318 Medium CW (omzet JUMP 7.88m pnl DEEPER LOSS 0.48m equity DROP 10.67m bruto DROP 7.17m FTE 88.3; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2062; next every-10 2070; continuous hole_fill

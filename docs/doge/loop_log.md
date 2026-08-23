@@ -23590,3 +23590,12 @@ Append-only. Each tick adds a short entry.
 - **C** L2 entity totals: **~99%** OoM (+ residual dual 2051-2060)
 - **D** L5 named end-lines: **~74-88%** TE generous (residual dual gain; not near-complete of 348bn)
 - **E** FOI-ready: **~1677** drafts; answered ~11; partial ~28; total ~1729
+
+
+## Tick 2061 - 2026-08-24T20:20:00Z - rq_2061 Ter Burg (omzet JUMP 7.88m / pnl DEEPER LOSS 0.48m / Medium)
+
+- Unit: **rq_2061** leftover dual after **rq_2060 Christine**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **WZC Ter Burg** YE2025 (KBO **0479.401.318**; Leuvensesteenweg 653 Zaventem-Nossegem; Vlaams-Brabant **aanbestedende-overheid VZW** WZC / **1 VE**). OLV Wezembeek / Sint-Antonius YE2025 also live - deferred. Do not redo Christine/Vrijzicht/'t Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/Lourdes/St Vincentius Antwerpen/Rillaar/Karus/De Foyer/Sint-Jozef Rumst/Veilige Have/Witte Meren/Zusterhof.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR7,875,893** JUMP +6.77%; pnl **LOSS EUR-483,158** DEEPER vs YE2024 LOSS EUR-209,221; equity **EUR10,671,689** DROP -7.82%; bruto **EUR7,166,919** DROP -1.51%; FTE **88.3**; neerlegging **07.04.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende overheid 1 VE; email info@terburg.be.
+- Wrote: sources (+6); budgets (+5); commitments (+1); leaderboard (+1 pi 5.0); entities (+1 vzw_wzc_ter_burg); foi + draft gap_ter_burg_nbb_pdf_assets_debt_pnl_deeper_loss_matrix_l5; rq_2061=done + rq_2062 open; loop_state ticks=2061; raw under docs/doge/data/raw/tick2061/.
+- FOI: **ready not sent** (human-gated; info@terburg.be).
+- NOT every-10 (**next every-10 is 2070**). Next: rq_2062 (AGB/FARO-if-YE2025 / AIESH-REW / Wezembeek-Antonius deferred / unused DSO-IGS-HVZ-WZC-psych).
