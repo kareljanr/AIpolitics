@@ -22052,3 +22052,12 @@ Append-only. Each tick adds a short entry.
 - FOI opened: NBB PDF + sale status / debt / share % (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1900**). Next: rq_1893 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Terhills Vakantiepark / other HVZ-IGS).
 
+
+## Tick 1893 - 2026-08-26T17:45:00Z - rq_1893 Terhills Vakantiepark NV (omzet 20.8m / equity DROP 5.10m / Medium)
+
+- Unit: **rq_1893** leftover dual after Terhills parent. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **Terhills Vakantiepark NV** (KBO **0723.541.806**; Center Parcs opco; post-LRM sale to TwentyTwo; seat Louis Schmidtlaan 87 Etterbeek).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0723541806/terhills-vakantiepark) (neerlegging **28.03.2026**; YE **2025**): omzet **EUR20,808,555**; bruto **EUR4,118,071**; PnL **EUR416,815**; equity **EUR5,097,132** (**DROP −21%**); FTE **34.4**; assets **Unknown** (prior YE2024-09 SBM ~16.0m FOI only).
+- Wrote: sources (+3); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_terhills_vp_nbb_pdf_assets_equity_drop_l5; rq_1893=done + rq_1894 open; loop_state ticks=1893.
+- FOI opened: NBB PDF + assets / equity DROP / share % (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1900**). Next: rq_1894 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Terhills Hotel / other HVZ-IGS).
+

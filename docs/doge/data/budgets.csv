@@ -51417,3 +51417,7 @@ bud_terhills_assets_jr2025,nv_terhills,2025,135110144,,,SBM NBB-derived total as
 bud_terhills_equity_jr2025,nv_terhills,2025,65013818,,,CW/SBM NBB-derived 10/15,src_terhills_jr2025_cw,medium,tick1892; YE2025 equity 65013818 DROP vs 67.0m
 bud_terhills_debt_jr2025,nv_terhills,2025,67882008,,,SBM NBB-derived schulden 17/49,src_terhills_jr2025_sbm,medium,tick1892; YE2025 debt 67882008
 bud_terhills_expl_loss_jr2025,nv_terhills,2025,1465471,,,SBM NBB-derived bedrijfswinst NEG abs,src_terhills_jr2025_sbm,medium,tick1892; YE2025 expl LOSS -1465471
+bud_terhills_vp_omzet_jr2025,nv_terhills_vp,2025,20808555,,,CW NBB-derived code 70 omzet 20808554,src_terhills_vp_jr2025_cw,medium,tick1893; YE2025; flat vs 20.76m
+bud_terhills_vp_bruto_jr2025,nv_terhills_vp,2025,4118071,,,CW NBB-derived brutomarge 9900,src_terhills_vp_jr2025_cw,medium,tick1893; YE2025 bruto 4118071
+bud_terhills_vp_pnl_jr2025,nv_terhills_vp,2025,416815,,,CW NBB-derived PnL 9904,src_terhills_vp_jr2025_cw,medium,tick1893; YE2025 pnl 416815
+bud_terhills_vp_equity_jr2025,nv_terhills_vp,2025,5097132,,,CW NBB-derived 10/15,src_terhills_vp_jr2025_cw,medium,tick1893; YE2025 equity 5097132 DROP 21pct vs 6.48m — FOI sale/dividend
