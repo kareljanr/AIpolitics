@@ -51886,3 +51886,10 @@ bud_bep_exp_pnl_jr2025_statutory,bep_expansion,2025,1359909,,,CW NBB-derived Win
 bud_bep_exp_bruto_jr2025_statutory,bep_expansion,2025,-7094663,,,CW NBB-derived bruto NEG,src_bep_exp_jr2025_cw,medium,tick1967; YE2025 bruto NEG -7094663 vs NEG -3552651
 bud_bep_exp_equity_jr2025_statutory,bep_expansion,2025,64521765,,,CW NBB-derived equity,src_bep_exp_jr2025_cw,medium,tick1967; YE2025 equity 64521765 +0.4pct
 bud_bep_exp_fte_jr2025_statutory,bep_expansion,2025,200,,,CW social-balance FTE,src_bep_exp_jr2025_cw,medium,tick1967; YE2025 FTE 200
+bud_cisch_assets_jr2025_statutory,cisch,2025,1274482.74,,,Mons bilan TOTAL DE L'ACTIF 20/58,src_cisch_jr2025_bilan_mons,strong,tick1967; YE2025 assets 1274482.74 JUMP vs 1059295.44 YE2024
+bud_cisch_equity_jr2025_statutory,cisch,2025,711448.89,,,Mons bilan CAPITAUX PROPRES 10/15 + CW,src_cisch_jr2025_bilan_mons,strong,tick1967; YE2025 equity 711448.89 JUMP +199pct; includes reval terrains 281750 (not cash operating)
+bud_cisch_debt_jr2025_statutory,cisch,2025,349281.03,,,Mons bilan DETTES 17/49,src_cisch_jr2025_bilan_mons,strong,tick1967; YE2025 debt 349281.03 DROP vs 563696.27; includes LT Quaregnon 52206.06 + Colfontaine 59199.61
+bud_cisch_pnl_jr2025_statutory,cisch,2025,191870.13,,,Mons bilan 9904 + CW Winst/Verlies,src_cisch_jr2025_bilan_mons,strong,tick1967; YE2025 pnl 191870.13 JUMP +194.73pct vs 65101.09
+bud_cisch_bruto_jr2025_statutory,cisch,2025,1431781.28,,,Mons bilan marge brute 9900 + CW,src_cisch_jr2025_bilan_mons,strong,tick1967; YE2025 bruto 1431781.28 JUMP +20.35pct vs 1189649.44
+bud_cisch_autres_produits_jr2025_statutory,cisch,2025,1521886.06,,,Mons bilan autres produits d exploitation 74,src_cisch_jr2025_bilan_mons,strong,tick1967; YE2025 autres produits 1521886.06 (ONE promo sante 720714.85 + commune AC + Province Hainaut 182925)
+bud_cisch_cot_resp_jr2025_statutory,cisch,2025,342861.84,,,Mons bilan 621100 + note synthese,src_cisch_jr2025_bilan_mons,strong,tick1967; YE2025 cotisation responsabilisation 342861.84 JUMP vs 285847.68; largest single charge; FOI 2026-2030 path

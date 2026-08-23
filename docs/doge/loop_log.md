@@ -22730,3 +22730,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 bep_expansion); foi + draft gap_bep_exp_nbb_pdf_assets_debt_park_matrix_l5; rq_1967=done + rq_1968 open; loop_state ticks=1967.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1970**). Next: rq_1968 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
+
+
+## Tick 1968 - 2026-08-23T19:15:00Z - rq_1968 CISCH (assets JUMP 1.274m / pnl JUMP 0.192m / Strong)
+
+- Unit: **rq_1968** leftover dual after concurrent **rq_1967 BEP Expansion** (already on main). Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. HYGEA CW still YE2024. Took unused leftover **CISCH** YE2025 (KBO **0214.732.561**; Rue des Arquebusiers 5 Mons; Walloon Hainaut health-promotion IGS; **ONE + commune dual**; absorbed CIS Arthur Naze 2020). Do not redo IEG/CENEO/HELORA/iMio/Passelecq/IPFBW/IGRETEC/Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92/AIEG/Synergrid.
+- Found: Strong [Mons AG 18.06.2026 Bilan PDF](https://www.mons.be/fr/ma-commune/vie-politique/intercommunales/cisch-1/cisch/ag-du-18-juin-2026-1/cisch-bilan-comp-2025.pdf) + [note synthese](https://www.mons.be/fr/ma-commune/vie-politique/intercommunales/cisch-1/cisch/ag-du-18-juin-2026-1/note-de-synthese-ago-180626-comptes-2025-cisch.pdf) + Medium [Companyweb NL](https://www.companyweb.be/nl/0214732561/centre-intercommunale-de-sante-du-coeur-du-hainaut)/[EN](https://www.companyweb.be/en/0214732561/centre-intercommunale-de-sante-du-coeur-du-hainaut) + Strong KBO: assets **EUR1,274,482.74** JUMP; equity **EUR711,448.89** (**JUMP +199%**, reval terrains **EUR281,750**); debt **EUR349,281.03** DROP; pnl **EUR191,870.13** (**JUMP +194.73%**); bruto **EUR1,431,781.28**; autres produits **EUR1,521,886.06** (ONE **EUR720,714.85**); cot. responsabilisation **EUR342,861.84**; FTE **10.2**; neerlegging **16.07.2026**.
+- Wrote: sources (+5); budgets (+7); commitments (+1); leaderboard (+1); entities (+1 cisch); foi + draft gap_cisch_nbb_pdf_one_pension_commune_debt_matrix_l5; rq_1968=done + rq_1969 open; loop_state ticks=1968; raw PDFs saved.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1970**). Next: rq_1969 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
