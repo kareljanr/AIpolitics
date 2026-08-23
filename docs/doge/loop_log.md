@@ -21957,3 +21957,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_bioville_lsdc_nbb_pdf_pnl_reconcile_l5; rq_1881=done + rq_1882 open; loop_state ticks=1881.
 - FOI opened: NBB PDF + PnL reconcile / share % (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1890**). Next: rq_1882 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Corda Campus if live).
+
+## Tick 1882 - 2026-08-26T12:15:00Z - rq_1882 Corda Campus NV (omzet 18.19m / equity 41m / Medium)
+
+- Unit: **rq_1882** leftover dual after BioVille. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2024 only. Took leftover **Corda Campus NV** (KBO **0467.983.824**; Kempische steenweg Hasselt; board **LRM + POM Limburg**; tech campus host of Corda INCubator; sibling Corda Campus 2.0 unused).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0467983824/corda-campus) (neerlegging **19.06.2026**; YE **31.12.2025**): omzet **EUR18,186,985**; bruto **EUR12,793,167**; PnL **EUR2,100,873**; equity **EUR41,025,516**; assets **Unknown**. Pappers cash **~777k** / findebt **~51.2m**; Pappers net **~4.73m** vs CW — FOI reconcile.
+- Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_corda_campus_nbb_pdf_pnl_reconcile_l5; rq_1882=done + rq_1883 open; loop_state ticks=1882.
+- FOI opened: NBB PDF + PnL reconcile / debt schedule / share % (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1890**). Next: rq_1883 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Corda Campus 2.0 if live).

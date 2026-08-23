@@ -51351,3 +51351,7 @@ bud_bioville_lsdc_omzet_1_78m_jr2025,nv_bioville_lsdc,2025,1778737,,,CW NBB-deri
 bud_bioville_lsdc_bruto_1_19m_jr2025,nv_bioville_lsdc,2025,1188328,,,CW NBB-derived 9900 brutomarge YE31122025,src_bioville_lsdc_jr2025_cw,medium,tick1881; UP vs prior 1.03m; not TE-additive
 bud_bioville_lsdc_pnl_0_32m_jr2025,nv_bioville_lsdc,2025,317090,,,CW NBB-derived 9904 winst boekjaar,src_bioville_lsdc_jr2025_cw,medium,tick1881; JUMP vs prior 0.12m; Pappers ~421k FOI reconcile; not TE-additive
 bud_bioville_lsdc_equity_9_18m_jr2025,nv_bioville_lsdc,2025,9175031,,,CW NBB-derived 10/15 eigen vermogen,src_bioville_lsdc_jr2025_cw,medium,tick1881; UP vs prior 9.05m; not TE-additive
+bud_corda_campus_omzet_18_19m_jr2025,nv_corda_campus,2025,18186985,,,CW NBB-derived 70 omzet YE31122025,src_corda_campus_jr2025_cw,medium,tick1882; UP vs prior 17.36m; not TE-additive
+bud_corda_campus_bruto_12_79m_jr2025,nv_corda_campus,2025,12793167,,,CW NBB-derived 9900 brutomarge YE31122025,src_corda_campus_jr2025_cw,medium,tick1882; not TE-additive
+bud_corda_campus_pnl_2_10m_jr2025,nv_corda_campus,2025,2100873,,,CW NBB-derived 9904 winst boekjaar,src_corda_campus_jr2025_cw,medium,tick1882; JUMP vs prior 1.31m; Pappers ~4.73m FOI reconcile; not TE-additive
+bud_corda_campus_equity_41_03m_jr2025,nv_corda_campus,2025,41025516,,,CW NBB-derived 10/15 eigen vermogen,src_corda_campus_jr2025_cw,medium,tick1882; UP vs prior 39.69m; not TE-additive
