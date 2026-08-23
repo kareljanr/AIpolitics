@@ -23871,3 +23871,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5 already); budgets (+5 already); commitments (+1 already); leaderboard (+1 pi 5.4 already); entities (+1 already); foi + draft gap_zilvervogel_nbb_pdf_assets_debt_pnl_jump_fte_drop_matrix_l5 already; rq_2091=done + rq_2092 open; loop_state ticks=2091; raw under docs/doge/data/raw/tick2091/.
 - FOI: **ready not sent** (human-gated; info@zilvervogel.be).
 - NOT every-10 (**next every-10 is 2100**; EVERY-10 already done at 2090 with Familiezorg). Next: rq_2092 (AGB/FARO-if-YE2025 / AIESH-REW / Lidwina deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+### 2026-08-25T04:15:00Z — tick 2092
+- Unit: **rq_2092** leftover dual after **rq_2091 CZD Zilvervogel**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused WZC **Sint-Elisabeth's Dal** YE2025 (KBO **0413.653.827**; Stationsstraat 36 Zoutleeuw; Vlaams-Brabant **aanbestedende-overheid VZW** NACE **87.101** / **3 VE**; campuses OLV Lourdes / Sint-Jozef Nieuwerkerken / Betze Rust). Deferred live unused **Lidwina Mol** / **Sint-Lucia Turnhout**. Do not redo Zilvervogel/Familiezorg WV/De Lovie/Ocura/Lindelo/Medemens/Augustinus Halle/Ben/…/AGB Bornem/Armonea/Always Home/Solidum.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR16361513** JUMP +2.65%; bruto **EUR16337809** DROP -1.05%; pnl **LOSS EUR-238101** FLIP vs YE2024 PROFIT EUR225456; equity **EUR8763808** DROP -6.63%; FTE **212.1** (YoY Unknown); neerlegging **23.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende 3 VE NACE 87.101; email info.zl@vzwsed.be; site https://st-elisabethsdal.be/.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.4 omzet proxy); entities (+1 vzw_sint_elisabeths_dal_zoutleeuw); foi + draft gap_sed_zoutleeuw_nbb_pdf_assets_debt_pnl_flip_loss_equity_drop_matrix_l5; rq_2092=done + rq_2093 open; loop_state ticks=2092; raw under docs/doge/data/raw/tick2091/ (+ tick2092 probe leftovers).
+- FOI: **ready not sent** (human-gated; info.zl@vzwsed.be).
+- NOT every-10 (**next every-10 is 2100**). Next: rq_2093 (AGB/FARO-if-YE2025 / AIESH-REW / Lidwina / Sint-Lucia / unused DSO-IGS-HVZ-WZC-psych).
