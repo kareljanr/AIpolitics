@@ -22628,3 +22628,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+9 statutory); commitments (+1); leaderboard (+1); entities (updated ire_radioelements + ire); foi + draft gap_ire_nbb_pdf_debt_cash_elit_federal_ba_l5; rq_1958=done + rq_1959 open; loop_state ticks=1958.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1960**). Next: rq_1959 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / unused water-DSO-IGS-HVZ).
+
+## Tick 1958 - 2026-08-23T15:30:00Z - rq_1958 IRE FUP (omzet DROP 73.58m / pnl LOSS 2.23m / Medium)
+
+- Unit: **rq_1958** leftover dual after **rq_1957 IRE ELiT**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took leftover **IRE FUP parent** now YE2025 on CW (KBO **0408.449.677**; Avenue de l'Espérance 1 Fleurus; SON/FUP radioisotope parent of ELiT). Do not redo IRE ELiT/FANC/SCK CEN/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92/Synatom.
+- Found: Companyweb NL+EN YE2025 — omzet **EUR73,583,681** DROP −16.56%; bruto **EUR34,261,391**; pnl **LOSS EUR−2,232,791**; equity **EUR230,520,047**; FTE **223**. Assets/debt/cash Unknown (Upswitch still YE2024-only). Group site CA **EUR118m** ≈ parent 73.58 + ELiT 44.59. Medium confidence.
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (updated ire_radioelements/ire/nv_ire_elit); foi + draft gap_ire_fup_nbb_pdf_assets_debt_elit_tp_l5; rq_1958=done + rq_1959 open; loop_state ticks=1958.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1960**). Next: rq_1959 (AGB/FARO-if-YE2025 / AIESH-REW / unused water-DSO-IGS-HVZ).

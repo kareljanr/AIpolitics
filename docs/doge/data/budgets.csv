@@ -51819,3 +51819,8 @@ bud_ire_ebitda_jr2025_rovalta,ire_radioelements,2025,2778810,,,Rovalta NBB-deriv
 bud_ire_schulden_jr2025_rovalta,ire_radioelements,2025,63962093,,,Rovalta NBB-derived total liabilities,src_ire_jr2025_rovalta,medium,tick1958; YE2025 schulden 63962093 vs 83743899 YE2024; ST ~63519706 LT Unknown pending NBB PDF
 bud_ire_cash_jr2025_rovalta,ire_radioelements,2025,7477505,,,Rovalta NBB-derived cash and equivalents,src_ire_jr2025_rovalta,medium,tick1958; YE2025 cash 7477505 DROP vs 32546491 YE2024
 bud_ire_fte_jr2025_statutory,ire_radioelements,2025,223,,,CW+Rovalta social-balance FTE,src_ire_jr2025_cw,medium,tick1958; YE2025 FTE 223 flat vs YE2024; staff costs 31014078; ELiT dual separate (tick1957)
+bud_ire_fup_omzet_jr2025_statutory,ire_radioelements,2025,73583681,,,CW NBB-derived omzet statutory,src_ire_fup_jr2025_cw,medium,tick1958; YE2025 omzet 73583681 DROP -16.56pct vs 88188241
+bud_ire_fup_pnl_jr2025_statutory,ire_radioelements,2025,-2232791,,,CW NBB-derived Winst/Verlies,src_ire_fup_jr2025_cw,medium,tick1958; YE2025 pnl LOSS -2232791 vs profit 8498292 YE2024; Pappers claims distinct net -1.26m — FOI NBB PDF to resolve line labels
+bud_ire_fup_bruto_jr2025_statutory,ire_radioelements,2025,34261391,,,CW NBB-derived bruto/gross margin,src_ire_fup_jr2025_cw,medium,tick1958; YE2025 bruto 34261391 DROP -20.3pct vs 42985817
+bud_ire_fup_equity_jr2025_statutory,ire_radioelements,2025,230520047,,,CW NBB-derived equity,src_ire_fup_jr2025_cw,medium,tick1958; YE2025 equity 230520047 flat -0.33pct vs 231282955
+bud_ire_fup_fte_jr2025_statutory,ire_radioelements,2025,223,,,CW social-balance FTE,src_ire_fup_jr2025_cw,medium,tick1958; YE2025 FTE 223 flat vs 223 YE2024; group site ~300 with ELiT
