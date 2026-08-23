@@ -50682,3 +50682,13 @@ bud_couros_staff_2025,bv_couros,2025,2975902,,,realized,src_couros_jr2025_nbb,st
 bud_couros_expl_2025,bv_couros,2025,920372,,,realized,src_couros_jr2025_nbb,strong,Benefice exploitation 920372; tick1787
 bud_couros_pnl_2025,bv_couros,2025,606535,,,realized,src_couros_jr2025_nbb,strong,PnL 606535; admin distribution 220759 no dividend apport; tick1787
 bud_couros_admin_distrib_2025,bv_couros,2025,220759,,,realized,src_couros_jr2025_nbb,strong,Administrateurs ou gerants 220759 (prior 0); tick1787
+bud_cklc_assets_2025,nv_cklc_immo,2025,468691,,,stock,src_cklc_jr2025_nbb,strong,Assets YE2025 468691 DROP vs 1062087; tick1791
+bud_cklc_equity_2025,nv_cklc_immo,2025,440295,,,stock,src_cklc_jr2025_nbb,strong,Equity 440295 DROP vs 453947; tick1791
+bud_cklc_debt_2025,nv_cklc_immo,2025,28396,,,stock,src_cklc_jr2025_nbb,strong,Debt 28396 DROP vs 608140; tick1791
+bud_cklc_mva_2025,nv_cklc_immo,2025,444273,,,stock,src_cklc_jr2025_nbb,strong,Autres immobilisations corporelles 444273 (no amort); tick1791
+bud_cklc_autres_creances_prior_2024,nv_cklc_immo,2025,582620,,,stock,src_cklc_jr2025_nbb,strong,Autres creances ST prior YE2024 582620 collapsed to 0 in 2025; tick1791
+bud_cklc_autres_dettes_st_2025,nv_cklc_immo,2025,17177,,,stock,src_cklc_jr2025_nbb,strong,Autres dettes ST 17177 DROP vs 593111; tick1791
+bud_cklc_cash_2025,nv_cklc_immo,2025,24401,,,stock,src_cklc_jr2025_nbb,strong,Cash 24401; tick1791
+bud_cklc_marge_2025,nv_cklc_immo,2025,-13189,,,realized,src_cklc_jr2025_nbb,strong,Marge bruto -13189 (A-cap; CA undisclosed; 0 VTE); tick1791
+bud_cklc_pnl_2025,nv_cklc_immo,2025,-13651,,,realized,src_cklc_jr2025_nbb,strong,PnL loss -13651; prior dividend apport 90000 now 0; tick1791
+bud_cklc_hypotheque_related_2025,nv_cklc_immo,2025,126500,,,stock,src_cklc_jr2025_nbb,strong,Hypotheque for related enterprises inscription 126500 on MVA 444273; tick1791

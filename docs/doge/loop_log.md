@@ -21217,3 +21217,10 @@ Append-only. Each tick adds a short entry.
 - Waste top10: **unchanged** GIP 8.7 · fossil direct 8.55 · fossil accises 8.5 · company cars 8.5 · heatoil 8.43 · cheque/CO2/OAA/BCR/dual cars 8.4 (stocks Metro3/OWV filtered off).
 - Wrote: progress_every_10_ticks.md; doge_waste_top10_current.md; research_queue rq_1790=done + rq_1791; loop_state ticks=1790
 - Next: rq_1791 — AGB/NSZ-if-200/Bosgroep/FARO-if-2025/MaisonDieu-if-CDN; every-10 at **1800**
+
+### 2026-08-24T23:55:00Z — tick 1791
+- Unit: rq_1791 — **CKLC IMMO SA** (Uccle / Vivalto Floréal property dual)
+- Found: Preferred AGB/NSZ/Dijk92/APEFE/FARO/MaisonDieu still blocked. From Vivalto Home BE holding participation list found unused **CKLC IMMO SA**. NBB A-cap YE2025 deposit [2026-00137214](http://cdn.staatsbladmonitor.be/2026pdf/2026-00137214.pdf) CDN 200 (205002 bytes / 25p); KBO **0808.947.435**; AV **07.05.2026**; mere Vivalto Home Belgium; Forvis Mazars — **opinion sans reserve**. Sourced: assets **EUR468,691** (DROP); equity **EUR440,295**; debt **EUR28,396** (DROP from **608,140**); MVA **EUR444,273**; marge **-EUR13,189**; PnL **-EUR13,651**; VTE **0**; autres creances DROP **582,620→0**; hypotheque related **EUR126,500**. Absorbed Residence Floreal historically; twin Vesper/Floreal.
+- Wrote: sources (+3); entities nv_cklc_immo; budgets (+10); commitments; leaderboard; foi_queue ready; research_queue rq_1791=done + rq_1792 spawned; loop_state ticks=1791; FOI draft gap_cklc_mva_0_44m_debt_collapse_0_61m_to_28k_l5.md
+- FOI opened: gap_cklc_mva_0_44m_debt_collapse_0_61m_to_28k_l5 (**ready**, not sent)
+- Next: rq_1792 — AGB/NSZ-if-200/Bosgroep/FARO-if-2025/unused-Vivalto-holding-subs; every-10 at 1800
