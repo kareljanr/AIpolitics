@@ -22386,3 +22386,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_eliagroup_nbb_pdf_assets_share_capital_jump_l5; rq_1932=done + rq_1933 open; loop_state ticks=1932.
 - FOI opened: NBB PDF + assets/share % / capital JUMP recon (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1940**). Next: rq_1933 (AGB/Dijk92-if-200 / FARO-if-YE2025 / BNO-if-YE2025).
+
+## Tick 1933 - 2026-08-27T13:45:00Z - rq_1933 BNO (omzet 142.7m / FTE 1202 / pnl 1.2k / equity 23k / Medium)
+
+- Unit: **rq_1933** leftover dual after Elia Group. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO YE2024. Named **BNO** now **YE2025 live** — took it (KBO **0881.278.355**; Werkhuizenkaai 16 Brussel; Sibelga-group private-law **aanbestedende overheid** employer shell; ~1200 FTE; NON-Eneco).
+- Primary hunt: NBB deposit PDF unresolved this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0881278355/brussels-network-operations) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/brussels-network-operations-0881278355) + KBO (neerlegging **16.07.2026**; YE **31.12.2025**): omzet **EUR142,657,537** (flat); bruto **EUR135,662,195**; PnL **EUR1,204**; equity **EUR23,229** (flat); assets **EUR30,294,672** (**DROP** vs 41.8m); FTE **1,201.7**.
+- Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_bno_nbb_pdf_sibelga_recharge_fte_l5; rq_1933=done + rq_1934 open; loop_state ticks=1933.
+- FOI opened: NBB PDF + Sibelga recharge/FTE matrix (**ready**, human-send only; email not in KBO — post/Sibelga contact).
+- NOT every-10 (**next every-10 is 1940**). Next: rq_1934 (AGB/Dijk92-if-200 / FARO-if-YE2025 / otherHVZ-IGS).
