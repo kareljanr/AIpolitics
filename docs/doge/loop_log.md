@@ -21700,3 +21700,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+1); budgets (+10); commitments (+3); leaderboard; foi_queue answered prior + residual ready; entities notes; research_queue rq_1851=done + rq_1852 spawned; loop_state ticks=1851; FOI draft gap_hvzm_vte_per_gemeente_gemdot_3_15m_l5.md
 - FOI: prior rekening gap **answered** (public PDF); residual `gap_hvzm_vte_per_gemeente_gemdot_3_15m_l5` (**ready**, human-send only)
 - NOT every-10 (next **1860**). Next: rq_1852 (Solano-if-200 / AGB / Dijk92 / FARO / other HVZ).
+
+## Tick 1852 - 2026-08-25T22:30:00Z - rq_1852 Solano Wind NV (NBB YE Mar2025 deposit unresolved FOI)
+
+- Unit: **rq_1852** leftover dual residual after HVZ Meetjesland full JR; preferred Solano. AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2024. Checked **BZA Antwerpen** JR2025: only [Afkondiging](https://assets.antwerpen.be/srv/assets/api/download/e3030011-a6a5-443f-be63-1a937acce0d9/JR%202025%20Afkondiging.pdf) (inzage 21–30.04.2026) — full rekening not digital; BW1-2026 already mined tick1755. Took **Solano Wind NV** (Eneco dual; KBO **0837.120.886**).
+- Primary: KBO Actief SA / Wavre (**strong** register). YE Mar2025 **neergelegd 09.09.2025** confirmed via secondary pointers only. Honest CDN Sept9 hunt did **not** resolve deposit id / live PDF. **No sourced euros**.
+- Wrote: entities nv_solano_wind; sources (+3); commitments (+1 Unknown); leaderboard weak; foi_queue ready; research_queue rq_1852=blocked_foi + rq_1853 spawned; loop_state ticks=1852; FOI draft gap_solano_jr2025mar_nbb_deposit_unresolved_l5.md
+- FOI opened: gap_solano_jr2025mar_nbb_deposit_unresolved_l5 (**ready**, human-send only)
+- NOT every-10 (next **1860**). Next: rq_1853 (**prefer non-Eneco live** AGB/Dijk92/FARO/HVZ/IGS).
