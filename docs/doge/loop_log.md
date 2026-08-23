@@ -21333,3 +21333,11 @@ Append-only. Each tick adds a short entry.
 - Primary (strong): assets **333406**; bruto **178565** DROP; pers **146554** / **1.7 VTE**; PnL **17660**; cash DROP **144006**; other recv JUMP **109077**; MIC empty 70/73/60-61.
 - Wrote: entities/commitments/leaderboard/sources; FOI gap_scwi_bruto_0_18m_pers_0_15m_mic_empty_l5 **ready** (human-send only); rq_1806 done; spawned rq_1807.
 - NOT every-10 (next **1810**). Next: rq_1807 residual dual (AGB/Dijk92/FARO-NBB/APEFE/IGS).
+
+## Tick 1807 — 2026-08-25T05:20:00Z — rq_1807 Brandweerzone Vlaams-Brabant West (ZVBW) stall FOI
+
+- Unit: **rq_1807** leftover dual residual after Scwitch. Preferred: AGB Bornem still JR2024 (FOI already ready); Dijk92 CDN still **403**; FARO NBB YE2025 unpublished; APEFE/NSZ still **403**; Bosgroep/Zefier/Avansa/Ligo already mined.
+- Took unmined HVZ: **Brandweerzone Vlaams-Brabant West / ZVBW** KBO **0500.929.081** (Hulpverleningszone; Laan I 57 Liedekerke; 10 VE; 31 gemeenten / ~750 staff narrative).
+- Stall: no fetchable BBC/NBB JR2025 euros after KBO + site + companyweb/Northdata scan. **No invented euros.**
+- Wrote: entity/commitment/leaderboard/sources; FOI gap_zvbw_jr2025_rekening_gemdot_pers_l5 **ready** (human-send only); rq_1807 blocked_foi; spawned rq_1808.
+- NOT every-10 (next **1810**). Next: rq_1808 (AGB/Dijk92/FARO-NBB/APEFE/HVZ-Rand/Waasland/IGS).
