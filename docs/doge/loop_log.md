@@ -21819,3 +21819,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+6); commitments (+2); leaderboard (+2); entities (+1); foi + draft gap_bcwa_nbb_pdf_omzet_empty_bruto_0_69m_l5; rq_1865=done + rq_1866 open; loop_state ticks=1865.
 - FOI opened: NBB PDF deposit + omzet-empty / shareholder % / debt schedule (**ready**, human-send only).
 - NOT every-10 (next **1870**). Next: rq_1866 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Bosgroep IJzer-if-CDN / BC Regio Aalst-if-PDF / other HVZ-IGS).
+
+
+## Tick 1866 - 2026-08-26T04:40:00Z - rq_1866 Bedrijvencentrum Regio Aalst NV (bruto 0.44m / equity 1.42m / Medium)
+
+- Unit: **rq_1866** leftover dual after BC Waasland. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2025 unpublished; Bosgroep IJzer no YE2025 deposit. Took leftover **Bedrijvencentrum Regio Aalst NV** / meet@4 (KBO **0428.749.502**; Erembodegem; board **POM + SOLVA + ING**).
+- Primary hunt: NBB CDN deposit unresolved (SBM blacklist / consult SPA). **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0428749502/bedrijvencentrum-regio-aalst) + [Pappers](https://www.pappers.be/nl/company/bedrijvencentrum-regio-aalst-0428749502) (neerlegging **~18-19.05.2026**; YE **31.12.2025**): bruto **EUR442,900**; PnL **EUR129,808**; equity **EUR1,417,777**; VTE **1.6**; omzet **70 empty**; kapitaal **EUR847,000** (KBO Strong). Assets/debt YE2025 not in free view (not invented). Shareholders POM+SOLVA ([meet@4](https://meet.at4.be/over/)). **De Punt** CW YE2025 bruto 1.38m deferred.
+- Wrote: sources (+3); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_bcra_nbb_pdf_omzet_empty_bruto_0_44m_l5; rq_1866=done + rq_1867 open; loop_state ticks=1866.
+- FOI opened: NBB PDF deposit + omzet-empty / shareholder % / full BS (**ready**, human-send only).
+- NOT every-10 (next **1870**). Next: rq_1867 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Bosgroep IJzer-if-CDN / De Punt-if-PDF / other HVZ-IGS).

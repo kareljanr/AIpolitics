@@ -51282,3 +51282,7 @@ bud_bcwa_pnl_0_23m_jr2025,nv_bcwa,2025,230726,,,SBM/CW NBB-derived winst boekjaa
 bud_bcwa_equity_1_38m_jr2025,nv_bcwa,2025,1382594,,,SBM/CW NBB-derived 10/15 eigen vermogen,src_bcwa_jr2025_sbm_cw,medium,tick1865; YE calendar 2025; not TE-additive
 bud_bcwa_debt_1_94m_jr2025,nv_bcwa,2025,1939337,,,SBM/CW NBB-derived 17/49 schulden,src_bcwa_jr2025_sbm_cw,medium,tick1865; YE calendar 2025; not TE-additive
 bud_bcwa_bedrijfswinst_0_35m_jr2025,nv_bcwa,2025,350910,,,SBM/CW NBB-derived 9901 bedrijfswinst,src_bcwa_jr2025_sbm_cw,medium,tick1865; YE calendar 2025; not TE-additive
+bud_bcra_bruto_0_44m_jr2025,nv_bcra,2025,442900,,,CW/Pappers NBB-derived 9900 brutomarge YE31122025,src_bcra_jr2025_cw_pappers,medium,tick1866; YE calendar 2025; not TE-additive; omzet 70 empty
+bud_bcra_pnl_0_13m_jr2025,nv_bcra,2025,129808,,,CW/Pappers NBB-derived winst boekjaar,src_bcra_jr2025_cw_pappers,medium,tick1866; YE calendar 2025; not TE-additive
+bud_bcra_equity_1_42m_jr2025,nv_bcra,2025,1417777,,,CW/Pappers NBB-derived 10/15 eigen vermogen,src_bcra_jr2025_cw_pappers,medium,tick1866; YE calendar 2025; not TE-additive
+bud_bcra_capital_0_85m_jr2025,nv_bcra,2025,847000,,,KBO maatschappelijk kapitaal,src_kbo_bcra_0428749502,strong,tick1866; statutory capital; not TE-additive
