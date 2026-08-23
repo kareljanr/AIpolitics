@@ -1,0 +1,956 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Zorgvoorziening Home Stuyvenberg - CoBRHA Viewer</title>
+    <meta name="description" content="Via de CoBRHA Viewer (Common Base Registry for HealthCare Actors) kan u zoeken in de gegevens die Vlaanderen over de door haar erkende zorgvoorzieningen doorstuurt naar de CoBRHA-databank." />
+    <link rel="apple-touch-icon-precomposed" href="/Cobrha/img/apple-touch-icon-precomposed-76x76.png" sizes="76x76" />
+    <link rel="apple-touch-icon-precomposed" href="/Cobrha/img/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+    <link rel="apple-touch-icon-precomposed" href="/Cobrha/img/apple-touch-icon-precomposed-120x120.png" sizes="120x120" />
+    <link rel="apple-touch-icon-precomposed" href="/Cobrha/img/apple-touch-icon-precomposed-152x152.png" sizes="152x152" />
+    <link rel="apple-touch-icon" href="/Cobrha/img/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" href="/Cobrha/img/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+    <link rel="apple-touch-icon-precomposed" href="/Cobrha/img/apple-touch-icon-precomposed-57x57.png" sizes="57x57" />
+    <link rel="apple-touch-icon-precomposed" href="/Cobrha/img/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+    <meta name="msapplication-square70x70logo" content="/Cobrha/img/tile-small.png" />
+    <meta name="msapplication-square150x150logo" content="/Cobrha/img/tile-medium.png" />
+    <meta name="msapplication-wide310x150logo" content="/Cobrha/img/tile-wide.png" />
+    <meta name="msapplication-square310x310logo" content="/Cobrha/img/tile-large.png" />
+    <meta name="msapplication-TileColor" content="#0f4c81" />
+
+    <link rel="stylesheet" href="/Cobrha/lib/font-awesome/dist/css/all.min.css?v=1RqWa6jrqVLV5-Zz7snZFqr7f2MwKGUMfWzwMGR-aD4" />
+    <link rel="stylesheet" href="/Cobrha/lib/datatables/dist/datatables.min.css?v=xziBa_3r9BjC3U21CKhW8SW0zWTzErUKmVdVaYfxDXo" />
+    <link rel="stylesheet" href="/Cobrha/lib/bootstrap-select/dist/css/bootstrap-select.min.css?v=yqOj9fxssZNxRijqTzG3pA-qUq5KYzUK6u2o2Ma41gA" />
+        <link rel="stylesheet" href="/Cobrha/lib/wvg/dist/css/site_prd.min.css?v=XdTHkLsefEK9aqrA32NyzFXy8_QtN6kSDx9nZFW7ZoU" />
+    <link rel="stylesheet" href="/Cobrha/css/site.min.css?v=vGlmoB928CbygRHJ6RlzVDenQWW5KawdyG_JMUMJHHY" />
+    <script src="/Cobrha/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/Cobrha/lib/selectize/dist/js/selectize.min.js"></script>
+    <script src="/Cobrha/lib/selectize/dist/js/selectize-plugin-a11y.js"></script>
+
+    <script>
+        $core = {
+            debug: false,
+            api: "/Cobrha/api/",
+            root: "/Cobrha/",
+            extend: [{ namespace: "local", variable: "$app" }]
+        };
+    </script>
+
+    <style>
+        .precircleloader {
+            position: fixed;
+            left: 50%;
+            top: 50%;
+            z-index: 20000;
+            margin: -40px 0 0 -40px;
+            border: 8px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 8px solid #0f4c81;
+            border-bottom: 8px solid #0f4c81;
+            width: 64px;
+            height: 64px;
+            -webkit-animation: spin 2s linear infinite;
+            animation: spin 2s linear infinite;
+        }
+
+        #preloader {
+            position: fixed;
+            background-color: rgba(255,255,255,1);
+            left: 0px;
+            top: 0px;
+            z-index: 20000;
+            width: 100%;
+            height: 100%;
+            display: block;
+            box-sizing: border-box;
+        }
+
+        .noscript {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            z-index: 20001;
+            font-weight: 400;
+        }
+
+            .noscript div {
+                padding-top: 180px;
+                text-align: center;
+            }
+    </style>
+</head>
+<body>
+    <noscript>
+        <div class="noscript">
+            <div>
+                <b>Gelieve JavaScript in te schakelen</b><br />
+                <a href="/Cobrha/">CoBRHA Viewer</a><br />
+                <a href="https://www.departementzorg.be">www.departementzorg.be</a>
+            </div>
+        </div>
+    </noscript>
+    <div id="preloader"><div class="precircleloader"></div></div>
+
+    <header role="presentation">
+        <div class="wvg-header wvg-header-fixed wvg-header-md">
+    <div class="wvg-header-bar">
+        <div class="wvg-header-bar-container">
+            <a href="https://www.vlaanderen.be" aria-label="Vlaanderen" class="wvg-header-bar-brand">
+                <div class="wvg-header-bar-brand-logo">
+                    <span aria-hidden="true" class="wvg-header-bar-brand-logo-before"></span>
+                    <svg viewBox="0 0 32 32" role="presentation" class="wvg-header-bar-brand-logo-icon">
+                        <path d="M18.83 6.45c.05-.14.12 0 .27-.12a1.69 1.69 0 0 1 .59-.49 1.06 1.06 0 0 1 .61 0c.12 0 .05.33 0 .4s-.73-.08-.73.33c0 .67.91 0 1.38 0 .18 1.67-2.53 1.22-2.12-.12zm.5 1.49c1 .3 2.08.13 2.32.74-.47.24-.1 1.05.37.92.38-1.08.57-5.24-5-4 .59.07 1 1.92 2.34 2.32zM10 8.81c3.44-2.83 2.6-4.05 2.48-4.27a1 1 0 0 0-.93-.64s.86.71-3.36 4.21-.55 5.53-.55 5.53-1.08-2 2.36-4.82zm-.26-4.65A3 3 0 0 0 10.95.48a2.66 2.66 0 0 1-1 1.25C9.42 2.06 7.39 3 7.24 5.18a4.57 4.57 0 0 0 .16 1.5 6.07 6.07 0 0 1 2.34-2.52zm4.32 15.1c1.17-5.12-.5-6.39-.5-6.39s.3 1.4-.95 5c-3.26 9.45 3 10.34 4.74 12.56 0 0 .68-1-2.14-4-1-1.12-2-3.6-1.15-7.14zm-4-1.88a13.41 13.41 0 0 1 2.38-5.32A4.84 4.84 0 0 0 13 7.84c-.1 1.77-2.86 4.16-3.72 5.75a11.16 11.16 0 0 0-1.08 2.84 7.5 7.5 0 0 0 .62 4.67c.91 2.17-.13 3 .59 2.53.88-.71.75-2.38.68-3.43a15.71 15.71 0 0 1 .02-2.82zm12.65 6.33a18.28 18.28 0 0 1 3 .31v-7.59c-1.09-.82-1.6 0-2.27-.05s-1.12-1-1.57-.75c-.85.43.34 2 .86 2.27s1 .53 1.18.6A1.7 1.7 0 0 1 25 20a2.71 2.71 0 0 1 0 .75c-.31 1.32-2.63 2.52-4 1.61a3 3 0 0 1-1.4-2c-.36-1.73-1.62-3-2-4.7-.25-1-.43-2.12-.7-3.15s-.56-2.14-.79-3.11a25.07 25.07 0 0 0-.95-3.08c-1.27-3.31-1.85-3.08-1.85-3.08s.47.92 2.15 9a47.49 47.49 0 0 0 1.14 5.07c.15.43.43 1.33.62 1.72.53 1.17 1.95 2.93 2.05 4.52.05.91.15 1.67.18 2.37a6.61 6.61 0 0 0 .23 1.4c.35 1 3.14 4.09 6.1 4.09v-2.26A10.86 10.86 0 0 1 20 27.34a6.05 6.05 0 0 1 .35-1.7 2.77 2.77 0 0 1 2.4-1.94z"></path>
+                    </svg>
+                    <span aria-hidden="true" class="wvg-header-bar-brand-logo-after"></span>
+                    <span class="wvg-header-bar-brand-logo-label">Vlaanderen</span>
+                    <span aria-hidden="true" class="wvg-header-bar-brand-logo-label-after"></span>
+                </div>
+            </a>
+            <a href="https://www.vlaanderen.be/departement-zorg" class="wvg-header-bar-host">
+                Departement Zorg
+            </a>
+            <span aria-hidden="true" class="wvg-header-bar-host-after"></span>
+            <a href="/Cobrha/" class="wvg-header-bar-app">
+                CoBRHA Viewer
+            </a>
+        </div>
+        <div class="wvg-header-bar-plugins">
+            <div style="height: 100%;">
+                <div class="wvg-header-bar-plugins-contact">
+                    <a href="/Cobrha/Contact" aria-expanded="false" aria-controls="vlw-contact-panel-pane" class="wvg-header-bar-plugins-contact-link">
+                        <span class="wvg-header-bar-plugins-contact-label">Hulp nodig</span>
+                        <svg viewBox="0 0 32 32" aria-hidden="true" class="wvg-header-bar-plugins-contact-icon">
+                            <path d="M10 20a10.01 10.01 0 0 1 0-20 10.01 10.01 0 0 1 0 20zm0-18a8 8 0 0 0 0 16 8 8 0 0 0 0-16zm1 11H9v-3h1a2 2 0 1 0-2-2H6a4 4 0 1 1 5 3.88V13zm-1 3.25a1.25 1.25 0 1 1 0-2.5 1.25 1.25 0 0 1 0 2.5z"></path>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div id="scrollprogress" class="wvg-header-bar-progress" style="width: 0%;"></div>
+    </div>
+</div>
+
+        <div class="wvg-nav wvg-nav-md">
+            <nav aria-label="breadcrumb" class="wvg-nav-breadcrumbs">
+                <ol>
+                    <li class="wvg-nav-breadcrumbs-app">
+                        <a href="/Cobrha/">
+                            <span class="wvg-nav-breadcrumbs-app-icon"></span>
+                            <span class="wvg-nav-breadcrumbs-app-label">CoBRHA Viewer</span>
+                        </a>
+                    </li>
+                    
+        <li><a href="/Cobrha/">Zorgvoorzieningen zoeken</a></li>
+    <li>Zorgvoorziening</li>
+
+                </ol>
+            </nav>
+            <div class="clearfix"></div>
+        </div>
+
+        <div class="wvg-menu wvg-menu-md">
+            <nav class="navbar navbar-expand-md bg-body-tertiary">
+                <div class="container-xl">
+                    <div class="navbar-brand" style="text-overflow: ellipsis; overflow: hidden;">
+                        Zorgvoorziening Home Stuyvenberg
+                    </div>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle active" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Zoeken
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="/Cobrha/">Zorgvoorzieningen zoeken</a></li>
+                                            <li><a class="dropdown-item" href="/Cobrha/Zorginspectie">Inspectieverslagen zoeken</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="/Cobrha/Help">Handleiding</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="/Cobrha/Contact">Contacteer ons</a>
+                            </li>
+                        </ul>
+                        <form class="d-flex" role="search" action="/Cobrha/Institutions/List" id="search">
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Zoeken" aria-label="Zoeken" name="q">
+                                <button class="btn btn-light" type="submit" id="button-addon1"><i class="fa-solid fa-magnifying-glass"></i></button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <main role="main">
+        
+
+
+<div style="background-color: #F7F9FC; border-bottom: 1px solid #CBD2DA;">
+    <div class="container">
+        <h2 class="pt-3 mb-3">Home Stuyvenberg</h2>
+            <div class="alert alert-success" style="padding-top: 6px; padding-bottom: 6px;" role="alert">
+                <b>Status:</b> Actief
+            </div>
+
+        <ul class="tree list-unstyled mt-3">
+            <li>
+                    <div style="text-overflow: ellipsis; white-space: nowrap; overflow: hidden;"><i class="fa-solid fa-folder-closed text-info" style="padding-right: 6px;"></i><a href="/Cobrha/Companies/Company/0749566807">CuraCare</a> <small>(inrichtende macht)</small></div>
+                <ul>
+                    <li>
+                        <div style="text-overflow: ellipsis; white-space: nowrap; overflow: hidden;"><i class="fa-solid fa-folder-open text-info" style="padding-right: 6px;"></i><a href="/Cobrha/Institutions/Institution/WVG_VAZG/3769">Home Stuyvenberg</a> <small>(zorgvoorziening)</small></div>
+                        <ul>
+                            <li style="white-space: nowrap;"><a href="#institution"><small><i class="fas fa-arrow-down text-secondary" style="padding-right: 6px;"></i></small>Zorgvoorziening</a></li>
+                            <li style="white-space: nowrap;"><a href="#sites"><small><i class="fas fa-arrow-down text-secondary" style="padding-right: 6px;"></i></small>Uitbatingsplaatsen</a></li>
+                            <li style="white-space: nowrap;"><a href="#company"><small><i class="fas fa-arrow-down text-secondary" style="padding-right: 6px;"></i></small>Inrichtende macht</a></li>
+                                <li style="white-space: nowrap;"><a href="#external_zorginspectie"><small><i class="fas fa-arrow-down text-secondary" style="padding-right: 6px;"></i></small>Inspectieverslagen</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div style="background-color: #FCFCFC;">
+    <div class="container">
+        <div class="card card-body mt-4">
+            <div id="institution" class="scrolltarget"></div>
+            <h3 class="mb-3">Zorgvoorziening <a href="/Cobrha/Help#institution_institution" class="text-info" title="Handleiding"><i class="fas fa-question-circle" style="font-size: 24px;"></i></a></h3>
+            <div style="margin-left: 12px;">
+                <dl class="row bottom-gradient-divider">
+                    <dt class="col-lg-3">
+                        Naam
+                    </dt>
+                    <dd class="col-lg-9">
+                        Home Stuyvenberg
+                    </dd>
+                </dl>
+                <dl class="row bottom-gradient-divider">
+                    <dt class="col-lg-3">
+                        Status
+                    </dt>
+                    <dd class="col-lg-9">
+                            <span><small><i style="margin-left: -20px; margin-right: 6px;" class="fas fa-check-circle text-success"></i></small>Actief</span>
+                    </dd>
+                </dl>
+                <dl class="row bottom-gradient-divider">
+                    <dt class="col-lg-3">
+                        Adres
+                    </dt>
+                    <dd class="col-lg-9">
+                        Provincieweg 549 <br />
+                        9550 Herzele
+                            <br />
+                            <small><a href="https://www.google.be/maps/place/Provincieweg 549, 9550 Herzele" target="_blank" style="margin-left: -18px;"><i style="margin-right: 6px;" class="fas fa-external-link-alt"></i>Google Maps</a></small>
+                            <br />
+                            <small><a href="https://www.openstreetmap.org/?mlat=50.89598800314754&amp;mlon=3.847034303852412&amp;zoom=17" target="_blank" style="margin-left: -18px;"><i style="margin-right: 6px;" class="fas fa-external-link-alt"></i>Open Street Map</a></small>
+                    </dd>
+                </dl>
+                <dl class="row bottom-gradient-divider">
+                    <dt class="col-lg-3">
+                        Erkennende overheid
+                    </dt>
+                    <dd class="col-lg-9">
+                        Departement Zorg <small class="text-secondary">(WVG_VAZG)</small>
+                    </dd>
+                </dl>
+                <dl class="row bottom-gradient-divider">
+                    <dt class="col-lg-3">
+                        HCO nummer
+                    </dt>
+                    <dd class="col-lg-9">
+                        3769
+                    </dd>
+                </dl>
+                <dl class="row bottom-gradient-divider">
+                    <dt class="col-lg-3">
+                        Riziv nummer
+                    </dt>
+                    <dd class="col-lg-9">
+                        76118670
+                    </dd>
+                </dl>
+                <dl class="row bottom-gradient-divider">
+                    <dt class="col-lg-3">
+                        Circle-of-trust
+                    </dt>
+                    <dd class="col-lg-9">
+                            Ja
+                    </dd>
+                </dl>
+                <dl class="row bottom-gradient-divider">
+                    <dt class="col-lg-3">
+                        Startdatum
+                    </dt>
+                    <dd class="col-lg-9">
+                        2009-12-23
+                    </dd>
+                </dl>
+                <dl class="row bottom-gradient-divider">
+                    <dt class="col-lg-3">
+                        Einddatum
+                    </dt>
+                    <dd class="col-lg-9">
+                        &#xA0;
+                    </dd>
+                </dl>
+                <dl class="row bottom-gradient-divider">
+                    <dt class="col-lg-3">
+                        Zorgvoorzieningstype
+                    </dt>
+                    <dd class="col-lg-9">
+                        Woonzorgcentrum <small class="text-secondary">(WVG_VAZG 034)</small>
+                    </dd>
+                </dl>
+                <dl class="row">
+                    <dt class="col-lg-3">
+                        Activiteiten
+                    </dt>
+                    <dd class="col-lg-9">
+                        <table class="table list-table d-none d-md-table">
+                                    <tr class="text-danger">
+                                        <td><small><i style="margin-left: -20px; margin-right: 6px;" class="fas fa-times-circle text-danger"></i></small>Rust- en verzorgingstehuis <small class="text-secondary">(WVG_VAZG 052)</small></td>
+                                        <td style="white-space: nowrap;"><small>van 2009-12-23 tot 2022-12-31</small></td>
+                                    </tr>
+                                    <tr>
+                                        <td><small><i style="margin-left: -20px; margin-right: 6px;" class="fas fa-check-circle text-success"></i></small>Vaccins bestellen en vaccinaties registreren <small class="text-secondary">(WVG_VAZG 678)</small></td>
+                                        <td style="white-space: nowrap;"><small>van 2025-06-16 tot ?</small></td>
+                                    </tr>
+                                    <tr>
+                                        <td><small><i style="margin-left: -20px; margin-right: 6px;" class="fas fa-check-circle text-success"></i></small>Woonzorgcentrum <small class="text-secondary">(WVG_VAZG 050)</small></td>
+                                        <td style="white-space: nowrap;"><small>van 2009-12-23 tot ?</small></td>
+                                    </tr>
+                        </table>
+                        <ul class="list-unstyled d-md-none" style="margin-bottom: 0px;">
+                                    <li class="text-danger">
+                                        <small><i style="margin-left: -20px; margin-right: 6px;" class="fas fa-times-circle"></i></small>Rust- en verzorgingstehuis  <small class="text-secondary">(WVG_VAZG 052)</small> <small>(van 2009-12-23 tot 2022-12-31)</small>
+                                    </li>
+                                    <li>
+                                        <small><i style="margin-left: -20px; margin-right: 6px;" class="fas fa-check-circle text-success"></i></small>Vaccins bestellen en vaccinaties registreren  <small class="text-secondary">(WVG_VAZG 678)</small> <small>(van 2025-06-16 tot ?)</small>
+                                    </li>
+                                    <li>
+                                        <small><i style="margin-left: -20px; margin-right: 6px;" class="fas fa-check-circle text-success"></i></small>Woonzorgcentrum  <small class="text-secondary">(WVG_VAZG 050)</small> <small>(van 2009-12-23 tot ?)</small>
+                                    </li>
+                        </ul>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+        <a href="#top"><small><i class="fas fa-arrow-up text-secondary" style="padding-right: 6px;"></i></small>Naar boven</a>
+
+        <div class="card card-body mt-4">
+            <div id="sites" class="scrolltarget"></div>
+            <h3 class="mb-3">Uitbatingsplaatsen <a href="/Cobrha/Help#institution_sites" class="text-info" title="Handleiding"><i class="fas fa-question-circle" style="font-size: 24px;"></i></a></h3>
+                <div style="margin-left: 12px; margin-right: 12px;">
+                    <form onreset="ResultTableFilterOnReset();" onsubmit="ResultTableFilterOnSubmit(); return false;">
+                        <div class="input-group">
+                            <input type="text" class="form-control wvg-input-wide" id="searchsite" name="searchsite" value="">
+                            <button type="submit" class="btn btn-primary" href=""><i class="fas fa-search" style="font-size: 0.9rem; padding-right: 6px;"></i>Zoeken</button>
+                            <button type="reset" class="btn btn-outline-primary"><i class="fas fa-times" style="font-size: 0.9rem;"></i></button>
+                        </div>
+                    </form>
+                </div>
+                <table id="ResultTable" class="table table-striped table-hover responsive data-table table-row-sm table-valign-middle" width="100%">
+                    <thead class="thin-border-bottom">
+                        <tr>
+                            <th style="white-space: nowrap;" data-priority="1">&nbsp;</th>
+                            <th style="white-space: nowrap;" data-priority="3">Nummer</th>
+                            <th style="white-space: nowrap;" data-priority="2">Naam</th>
+                            <th style="white-space: nowrap;">Adres</th>
+                            <th style="white-space: nowrap;" data-priority="4">Status</th>
+                        </tr>
+                    </thead>
+                </table>
+        </div>
+        <a href="#top"><small><i class="fas fa-arrow-up text-secondary" style="padding-right: 6px;"></i></small>Naar boven</a>
+
+        <div class="card mt-4">
+            <div class="card-body">
+                <div id="company" class="scrolltarget"></div>
+                <h3 class="mb-3">Inrichtende macht <a href="/Cobrha/Help#institution_company" class="text-info" title="Handleiding"><i class="fas fa-question-circle" style="font-size: 24px;"></i></a></h3>
+                <div style="margin-left: 12px;">
+                            <dl class="row bottom-gradient-divider">
+                                <dt class="col-lg-3">
+                                    Naam
+                                </dt>
+                                <dd class="col-lg-9">
+                                    CuraCare
+                                </dd>
+                            </dl>
+                            <dl class="row bottom-gradient-divider">
+                                <dt class="col-lg-3">
+                                    Status
+                                </dt>
+                                <dd class="col-lg-9">
+                                        <span><small><i style="margin-left: -20px; margin-right: 6px;" class="fas fa-check-circle text-success"></i></small>Actief</span>
+                                </dd>
+                            </dl>
+                            <dl class="row bottom-gradient-divider">
+                                <dt class="col-lg-3">
+                                    Adres
+                                </dt>
+                                    <dd class="col-lg-9">
+                                        Lippeloseweg(OPP) 58 <br />
+                                        2890 Puurs-Sint-Amands
+                                            <br />
+                                            <small><a href="https://www.google.be/maps/place/Lippeloseweg(OPP) 58, 2890 Puurs-Sint-Amands" target="_blank" style="margin-left: -18px;"><i style="margin-right: 6px;" class="fas fa-external-link-alt"></i>Google Maps</a></small>
+                                            <br />
+                                            <small><a href="https://www.openstreetmap.org/search?query=Lippeloseweg(OPP) 58, 2890 Puurs-Sint-Amands" target="_blank" style="margin-left: -18px;"><i style="margin-right: 6px;" class="fas fa-external-link-alt"></i>Open Street Map</a></small>
+                                    </dd>
+                            </dl>
+                        <dl class="row bottom-gradient-divider">
+                            <dt class="col-lg-3">
+                                Ondernemingsnummer
+                            </dt>
+                            <dd class="col-lg-9">
+                                0749566807
+                                    <br />
+                                    <small><a href="https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?actionLu=Zoek&amp;amp;nummer=0749566807" target="_blank" style="margin-left: -18px;"><i style="margin-right: 6px;" class="fas fa-external-link-alt"></i>Kruispuntbank van Ondernemingen</a></small>
+                            </dd>
+                        </dl>
+                        <dl class="row bottom-gradient-divider">
+                            <dt class="col-lg-3">
+                                Startdatum
+                            </dt>
+                            <dd class="col-lg-9">
+                                2020-06-30
+                            </dd>
+                        </dl>
+                        <dl class="row">
+                            <dt class="col-lg-3">
+                                Einddatum
+                            </dt>
+                            <dd class="col-lg-9">
+                                &#xA0;
+                            </dd>
+                        </dl>
+                </div>
+            </div>
+                <div class="card-footer wvg-card-body">
+                    <a href="/Cobrha/Companies/Company/0749566807" class="btn btn-primary"><i class="fas fa-folder-open" style="font-size: 0.9rem; padding-right: 6px;"></i>Inrichtende macht weergeven</a>
+                </div>
+        </div>
+        <a href="#top"><small><i class="fas fa-arrow-up text-secondary" style="padding-right: 6px;"></i></small>Naar boven</a>
+
+            <div class="card card-body mt-4">
+                <div id="external_zorginspectie" class="scrolltarget"></div>
+                <h3 class="mb-3">Inspectieverslagen <a href="/Cobrha/Help#external_zorginspectie" class="text-info" title="Handleiding"><i class="fas fa-question-circle" style="font-size: 24px;"></i></a></h3>
+                <div style="margin-left: 12px;">
+                    Hieronder kunt u de verslagen downloaden die Zorginspectie actief ter beschikking stelt.<br/> Als u vragen hebt over deze verslagen, kunt u mailen naar <a href="mailto:contact.zorginspectie@vlaanderen.be">contact.zorginspectie@vlaanderen.be</a>.<br/> Er kunnen ook andere verslagen bestaan (bv. van een eerdere datum, van een andere zorgvorm op hetzelfde adres…) die enkel passief openbaar gemaakt worden. Die kan u hier niet downloaden, maar ze kunnen wel <a href="https://www.departementzorg.be/nl/inspectieverslagen-opzoeken-enof-opvragen-bij-zorginspectie">opgevraagd worden</a>.<br /><ul style="margin-top: 18px; margin-bottom: 0px;" class="list-unstyled"><li><a href="https://dwvg.be/inspectieverslagen2/ZI-2026-00907-- geaonimiseerd.pdf" target="_blank"><i class="fa-solid fa-file-pdf" style="margin-right: 6px;"></i>2026-03-03 - Home Stuyvenberg</a>&nbsp;&nbsp;<small>Provincieweg 549, 9550 Herzele</small></li><li><a href="https://www.modular2.vlaanderen.be/api/public/disclosed-documents/d5f2f4af-bf33-47c1-b879-8c64d964a2e4" target="_blank"><i class="fa-solid fa-file-pdf" style="margin-right: 6px;"></i>2025-07-01 - Home Stuyvenberg</a>&nbsp;&nbsp;<small>Provincieweg 549, 9550 Herzele</small></li><li><i class="fa-regular fa-file" style="margin-right: 6px; color: #DFDFDF;"></i>2025-04-11 - Home Stuyvenberg&nbsp;&nbsp;<small>Provincieweg 549, 9550 Herzele - (Passieve openbaarheid)</small></li><li><i class="fa-regular fa-file" style="margin-right: 6px; color: #DFDFDF;"></i>2023-02-14 - Home Stuyvenberg&nbsp;&nbsp;<small>Provincieweg 549, 9550 Herzele - (Passieve openbaarheid)</small></li><li><a href="https://dwvg.be/inspectieverslagen/PDF-2021-00037081.pdf" target="_blank"><i class="fa-solid fa-file-pdf" style="margin-right: 6px;"></i>2021-10-20 - Home Stuyvenberg</a>&nbsp;&nbsp;<small>Provincieweg 549, 9550 Herzele</small></li></ul>
+                </div>
+            </div>
+            <a href="#top"><small><i class="fas fa-arrow-up text-secondary" style="padding-right: 6px;"></i></small>Naar boven</a>
+    </div>
+</div>
+
+
+
+
+    </main>
+
+    <footer role="presentation">
+        <div class="vertical-align: baseline; box-sizing: border-box; display: block;">
+            
+    <div class="mt-4" style="background-color: #F7F9FC; border-top: 1px solid #CBD2DA;">
+        <div class="container pt-1 pb-1">
+            <small>Toegevoegd in CoBRHA Viewer: 2022-02-04 15:19:57</small><br />
+            <small>Laatst gewijzigd in CoBRHA Viewer: 2026-08-23 07:38:15</small><br />
+            <small>Datum bronbestand: 2026-08-21 05:25:50</small><br />
+            <small><a href="/Cobrha/api/InstitutionXml?authenticSource=WVG_VAZG&amp;identifier=3769" target="_blank"><i style="margin-right: 6px;" class="fa-solid fa-file-arrow-down"></i>Publieke CoBRHA XML-gegevens van deze zorgvoorziening</a></small>
+        </div>
+    </div>
+
+        </div>
+        <div class="wvg-footer wvg-footer-md">
+    <div class="wvg-footer-container">
+        <div class="wvg-footer-col wvg-footer-logo">
+            <img src="/Cobrha/lib/wvg/dist/img/departementzorg-logo.svg" srcset="" alt="Vlaanderen is zorgszam en gezond samenleven logo" class="wvg-footer-logo-image">
+        </div>
+        <div class="wvg-footer-col wvg-footer-body">
+            <h2 class="wvg-footer-body-title">
+                CoBRHA Viewer is een officiële website van de Vlaamse overheid
+                <span class="wvg-footer-body-subtitle">
+                    <span>uitgegeven door Departement Zorg</span>
+                </span>
+            </h2>
+            <ul class="wvg-footer-body-links">
+                <li class="wvg-footer-body-links-item">
+                    <a href="https://www.departementzorg.be" class="wvg-footer-body-links-item-cta">Departement Zorg</a>
+                </li>
+                <li class="wvg-footer-body-links-item">
+                    <a href="https://www.vlaanderen.be" class="wvg-footer-body-links-item-cta">Vlaamse Overheid</a>
+                </li>
+                <li class="wvg-footer-body-links-item">
+                    <a href="https://www.vlaanderen.be/datavindplaats/catalogus?text.LIKE=cobrha&order_relevance=asc" class="wvg-footer-body-links-item-cta">Open-Data Portaal</a>
+                </li>
+            </ul>
+            <ul class="wvg-footer-language wvg-footer-language-mobile">
+                <li class="wvg-footer-language-item">
+                    <a href="#top" hreflang="nl" lang="nl" rel="alternate" class="wvg-footer-language-item-cta">
+                        nl
+                    </a>
+                </li>
+                <li class="wvg-footer-language-item">
+                    <span class="wvg-footer-language-item-cta">
+                        en
+                    </span>
+                </li>
+                <li class="wvg-footer-language-item">
+                    <span class="wvg-footer-language-item-cta">
+                        fr
+                    </span>
+                </li>
+                <li class="wvg-footer-language-item">
+                    <span class="wvg-footer-language-item-cta">
+                        de
+                    </span>
+                </li>
+            </ul>
+        </div>
+        <div class="wvg-footer-col wvg-footer-side">
+            <div class="wvg-footer-host">
+                <p class="wvg-footer-host-departement">Departement</p> <p class="wvg-footer-host-site-owner">Zorg</p>
+            </div>
+            <ul class="wvg-footer-language wvg-footer-language-desktop">
+                <li class="wvg-footer-language-item">
+                    <a href="#top" hreflang="nl" lang="nl" rel="alternate" class="wvg-footer-language-item-cta">
+                        nl
+                    </a>
+                </li>
+                <li class="wvg-footer-language-item">
+                    <span class="wvg-footer-language-item-cta">
+                        en
+                    </span>
+                </li>
+                <li class="wvg-footer-language-item">
+                    <span class="wvg-footer-language-item-cta">
+                        fr
+                    </span>
+                </li>
+                <li class="wvg-footer-language-item">
+                    <span class="wvg-footer-language-item-cta">
+                        de
+                    </span>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+    </footer>
+
+    <div style="z-index: 10055;" class="modal fade" id="dialogXLModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content" data-wvg-content="#">
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="dialogLGModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content" data-wvg-content="#">
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="dialogMDModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-md" role="document">
+        <div class="modal-content" data-wvg-content="#">
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="dialogSMModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content" data-wvg-content="#">
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="successModal" tabindex="-1" role="dialog" aria-labelledby="successTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content" style="background-color: #F8F8F8;">
+            <div class="modal-header bg-success text-white">
+                <h5 class="modal-title" id="successTitle" data-wvg-title=""></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-row">
+                <div class="modal-col-icon">
+                    <i class="fa-solid fa-check-circle modal-icon text-success"></i>
+                </div>
+                <div class="modal-col-body">
+                    <div class="modal-body" data-wvg-body="">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" data-wvg-ok="ok" data-bs-dismiss="modal">Ok</button>
+                <button type="button" class="btn btn-success" data-wvg-close="default" data-bs-dismiss="modal">Sluiten</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="dangerModal" tabindex="-1" role="dialog" aria-labelledby="dangerTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content" style="background-color: #F8F8F8;">
+            <div class="modal-header bg-danger text-white">
+                <h5 class="modal-title" id="dangerTitle" data-wvg-title=""></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-row">
+                <div class="modal-col-icon">
+                    <i class="fa-solid fa-exclamation-circle modal-icon text-danger"></i>
+                </div>
+                <div class="modal-col-body">
+                    <div class="modal-body" data-wvg-body="">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-wvg-ok="ok okcancel" data-bs-dismiss="modal">Ok</button>
+                <button type="button" class="btn btn-danger" data-wvg-close="default" data-bs-dismiss="modal">Sluiten</button>
+                <button type="button" class="btn btn-danger" data-wvg-yes="yesno" data-bs-dismiss="modal">Ja</button>
+                <button type="button" class="btn btn-light" data-wvg-no="yesno" data-bs-dismiss="modal">Nee</button>
+                <button type="button" class="btn btn-light" data-wvg-cancel="okcancel" data-bs-dismiss="modal">Annuleren</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="failModal" tabindex="-1" role="dialog" aria-labelledby="failTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content" style="background-color: #F8F8F8;">
+            <div class="modal-header bg-danger text-white">
+                <h5 class="modal-title" id="failTitle" data-wvg-title=""></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-row">
+                <div class="modal-col-icon">
+                    <i class="fa-solid fa-times-circle modal-icon text-danger"></i>
+                </div>
+                <div class="modal-col-body">
+                    <div class="modal-body" data-wvg-body="">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-wvg-ok="ok" data-bs-dismiss="modal">Ok</button>
+                <button type="button" class="btn btn-danger" data-wvg-close="default" data-bs-dismiss="modal">Sluiten</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="warningModal" tabindex="-1" role="dialog" aria-labelledby="warningTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content" style="background-color: #F8F8F8;">
+            <div class="modal-header bg-warning">
+                <h5 class="modal-title" id="warningTitle" data-wvg-title=""></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-row">
+                <div class="modal-col-icon">
+                    <i class="fa-solid fa-exclamation-triangle modal-icon text-warning"></i>
+                </div>
+                <div class="modal-col-body">
+                    <div class="modal-body" data-wvg-body="">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-warning" data-wvg-ok="ok okcancel" data-bs-dismiss="modal">Ok</button>
+                <button type="button" class="btn btn-warning" data-wvg-close="default" data-bs-dismiss="modal">Sluiten</button>
+                <button type="button" class="btn btn-warning" data-wvg-yes="yesno" data-bs-dismiss="modal">Ja</button>
+                <button type="button" class="btn btn-light" data-wvg-no="yesno" data-bs-dismiss="modal">Nee</button>
+                <button type="button" class="btn btn-light" data-wvg-cancel="okcancel" data-bs-dismiss="modal">Annuleren</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="infoModal" tabindex="-1" role="dialog" aria-labelledby="infoTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content" style="background-color: #F8F8F8;">
+            <div class="modal-header bg-light">
+                <h5 class="modal-title" id="infoTitle" data-wvg-title=""></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-row">
+                <div class="modal-col-icon">
+                    <i class="fa-solid fa-info-circle modal-icon text-info"></i>
+                </div>
+                <div class="modal-col-body">
+                    <div class="modal-body" data-wvg-body="">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-info" data-wvg-ok="ok okcancel" data-bs-dismiss="modal">Ok</button>
+                <button type="button" class="btn btn-info" data-wvg-close="default" data-bs-dismiss="modal">Sluiten</button>
+                <button type="button" class="btn btn-light" data-wvg-cancel="okcancel" data-bs-dismiss="modal">Annuleren</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="questionModal" tabindex="-1" role="dialog" aria-labelledby="questionTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content" style="background-color: #F8F8F8;">
+            <div class="modal-header bg-light">
+                <h5 class="modal-title" id="questionTitle" data-wvg-title=""></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-row">
+                <div class="modal-col-icon">
+                    <i class="fa-solid fa-question-circle modal-icon text-secondary"></i>
+                </div>
+                <div class="modal-col-body">
+                    <div class="modal-body" data-wvg-body="">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-wvg-ok="default okcancel" data-bs-dismiss="modal">Ok</button>
+                <button type="button" class="btn btn-secondary" data-wvg-yes="yesno" data-bs-dismiss="modal">Ja</button>
+                <button type="button" class="btn btn-light" data-wvg-no="yesno" data-bs-dismiss="modal">Nee</button>
+                <button type="button" class="btn btn-light" data-wvg-cancel="default okcancel" data-bs-dismiss="modal">Annuleren</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="alertModal" tabindex="-1" role="dialog" aria-labelledby="alertTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content" style="background-color: #F8F8F8;">
+            <div class="modal-header bg-light">
+                <h5 class="modal-title" id="alertTitle" data-wvg-title=""></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body" data-wvg-body="">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary modal-ok" data-bs-dismiss="modal">Sluiten</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="loader"><div class="circleloader"></div></div>
+<div id="processing"><div class="circleloader"></div></div>
+
+    <script src="/Cobrha/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/Cobrha/lib/bootstrap-select/dist/js/bootstrap-select.js"></script>
+    <script src="/Cobrha/lib/datatables/dist/datatables.min.js"></script>
+    <script src="/Cobrha/lib/wvg/dist/js/app.bundle.min.js?v=3Mj9qv8KYeZCgDcY0PwDxgK2IetwPsWUbs6LgOro2Xc"></script>
+    <script src="/Cobrha/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+
+    <script type="text/javascript">
+        $app.layout.setup({
+            scroll: "#scrollprogress",
+            horizontalsticky: ".horizontal-sticky"
+        });
+
+        $app.modal.setup({
+            prefix: "wvg",
+            safebackdrop: true,
+            busy: "#loader",
+            alert: "#alertModal",
+            title: "title",
+            body: "body",
+            error: function (err) {
+                $app.modal.danger({ title: "Fout", body: "Fout bij het laden van de pagina.<br />Na 30 minuten inactiviteit wordt u automatisch uitgelogd.<br/>Gelieve de pagina te <a href=\"javascript: location.reload()\">vernieuwen</a>." }).show();
+            }
+        });
+
+        $app.modal.add("info", "#infoModal");
+        $app.modal.add("question", "#questionModal");
+        $app.modal.add("warning", "#warningModal");
+        $app.modal.add("danger", "#dangerModal");
+        $app.modal.add("success", "#successModal");
+        $app.modal.add("fail", "#failModal");
+        $app.modal.add("dialogxl", "#dialogXLModal");
+        $app.modal.add("dialoglg", "#dialogLGModal");
+        $app.modal.add("dialogmd", "#dialogMDModal");
+        $app.modal.add("dialogsm", "#dialogSMModal");
+        $app.modal.add("modalxl", "#dialogXLCenteredModal");
+        $app.modal.add("modallg", "#dialogLGCenteredModal");
+        $app.modal.add("modalmd", "#dialogMDCenteredModal");
+        $app.modal.add("modalsm", "#dialogSMCenteredModal");
+
+        $app.modal.routing({
+            default: false,
+            dialog: $app.modal.dialogxl,
+            error: function (err) {
+                $app.modal.danger({ title: "Fout", body: "Fout bij het laden van de pagina<br />" + err }).show();
+            }
+        });
+    </script>
+
+    
+    <script>
+        var resultTable = false;
+
+        var ResultTableFilterOnSubmit = function () {
+            if (resultTable) {
+                resultTable.datatable.search($("#searchsite").val()).draw();
+            }
+        };
+
+        var ResultTableFilterOnReset = function () {
+            if (resultTable) {
+                resultTable.datatable.search("").draw();
+            }
+        };
+
+        (function ($, window) {
+
+            var definition = {
+                // "fixedHeader": {
+                //     headerOffset: 43
+                // },
+                "processing": true,
+                "serverSide": true,
+                "searchDelay": 1000,
+                "ajax": {
+                    "url": "/Cobrha/internal/InstitutionSites",
+                    "method": "POST",
+                    "data": function (d) {
+                        d.ID = 22130
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        }
+                },
+                "columns": [
+                    {
+                        "name": "identifier",
+                        "data": function (row, type, set, meta) {
+                            return "<b>" + (meta.row + meta.settings._iDisplayStart + 1) + "</b>";
+                        },
+                        "orderable": false
+                    },
+                    {
+                        "name": "naam, gemeente, postcode, straat, huisnummer",
+                        "data": function (row, type, set, meta) {
+                            return "<a class=\"btn btn-primary btn-wide\" href=\"/Cobrha/Sites/Site/" + row.source + "/" + row.identifier + "/\" style=\"display: block; padding-top: 6px; padding-bottom: 6px; white-space: nowrap; text-align: left;\"><i class=\"fas fa-folder-open\" style=\"font-size: 0.9rem; padding-right: 6px;\"></i>" + row.identifier + "</a>";
+                        },
+                    },
+                    {
+                        "name": "naam, gemeente, postcode, straat, huisnummer",
+                        "data": function (row, type, set, meta) {
+                            return row.naam;
+                        },
+                    },
+                    {
+                        "name": "gemeente, postcode, straat, huisnummer",
+                        "data": function (row, type, set, meta) {
+                            return row.straat + " " + row.huisnummer + " " + row.bus + "<br/>" + row.postcode + " " + row.gemeente;
+                        },
+                    },
+                    {
+                        "name": "statussort",
+                        "data": function (row, type, set, meta) {
+                            if (row.status == "Active") {
+                                return "Actief";
+                            } else if (row.status == "Ended") {
+                                return "Stopgezet";
+                            } else if (row.status == "Investigating") {
+                                return "In&nbsp;onderzoek";
+                            } else {
+                                return row.status;
+                            }
+                        },
+                    },
+                ],
+                "columnDefs": [
+                    {
+                        "targets": 4,
+                        "createdCell": function (td, cellData, rowData, row, col) {
+                            if (rowData.status == "Active") {
+                                $(td).addClass('table-success');
+                            } else if (rowData.status == "Ended") {
+                                $(td).addClass('table-danger');
+                            } else if (rowData.status == "Investigating") {
+                                $(td).addClass('table-warning');
+                            }
+                        },
+                        "className": "dt-center"
+                    },
+                    {
+                        "targets": 0,
+                        "className": "dt-center",
+                        "width": "1%"
+                    }
+                    ,
+                    {
+                        "targets": 1,
+                        "width": "1%"
+                    }
+                ],
+                "language": {
+                    "decimal": "",
+                    "emptyTable": "Er zijn geen resultaten",
+                    "info": "_START_ tot _END_ uit _TOTAL_ resultaten",
+                    "infoEmpty": "0 tot 0 uit 0 resultaten",
+                    "infoFiltered": "(totaal: _MAX_ resultaten)",
+                    "infoPostFix": "",
+                    "thousands": ",",
+                    "lengthMenu": "Toon _MENU_ resultaten",
+                    "loadingRecords": false,
+                    "processing": false,
+                    "search": "Zoeken:",
+                    "zeroRecords": "Geen resultaten gevonden",
+                    "paginate": {
+                        "first": "Eerste",
+                        "last": "Laatste",
+                        "next": "&raquo;",
+                        "previous": "&laquo;"
+                    },
+                    "aria": {
+                        "sortAscending": ": activeer om kolommen oplopend te sorteren",
+                        "sortDescending": ": activeer om kolommen aflopend te sorteren"
+                    }
+                },
+                "searching": true,
+                "ordering": true,
+                "paging": true,
+                "pageLength": 10,
+                "dom": "rt<\"container-fluid\"<\"row\"<\"col\"i><\"col\"p>>>",
+                "lengthChange": false,
+                "order": [[4, "asc"], [2, "asc"]]
+            };
+
+            resultTable = $app.datatable({
+                "element": "#ResultTable",
+                "definition": definition,
+                "title": "Zorgvoorziening Home Stuyvenberg",
+                "processing": "#processing",
+                "pagingLength": 8,
+                "pagingScrollTop": true,
+                "pagingScrollTopOffset": -50,
+                "pagingScrollTopAnimate": 100,
+                "queryStringSeparator": ","
+            });
+
+        })(jQuery, window);
+
+    </script>
+
+
+    <script type="text/javascript">
+        $("#preloader").hide();
+        $(function () {
+            $app.modal.ready();
+            $("#search").on("submit", function (e) {
+                $app.forms.sanitize("#search input", true, true);
+            });
+        });
+    </script>
+
+</body>
+</html>

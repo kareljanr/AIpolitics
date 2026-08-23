@@ -52462,3 +52462,8 @@ bud_den_akker_pnl_jr2025_statutory,vzw_wzc_den_akker_sint_truiden,2025,174886,17
 bud_den_akker_equity_jr2025_statutory,vzw_wzc_den_akker_sint_truiden,2025,9322582,9322582,9322582,CW YE2025 Eigen vermogen / Equity,src_den_akker_jr2025_cw_en,medium,tick2080; DROP -0.47% vs YE2024 9366576
 bud_den_akker_bruto_jr2025_statutory,vzw_wzc_den_akker_sint_truiden,2025,6780608,6780608,6780608,CW YE2025 Brutomarge / Gross margin,src_den_akker_jr2025_cw_en,medium,tick2080; JUMP +2.95% vs YE2024 6586032
 bud_den_akker_fte_jr2025_statutory,vzw_wzc_den_akker_sint_truiden,2025,89.6,89.6,89.6,CW social-balance FTE / Employees,src_den_akker_jr2025_cw_en,medium,tick2080; FTE JUMP 89.6 (+5.04%) vs YE2024 85.3
+bud_mater_dei_omzet_jr2025_statutory,vzw_wzc_mater_dei_heikruis_pepingen,2025,5806028,5806028,5806028,CW YE2025 omzet / Turnover,src_mater_dei_jr2025_cw_en,medium,tick2081; JUMP +6.78% vs YE2024 5437353
+bud_mater_dei_pnl_jr2025_statutory,vzw_wzc_mater_dei_heikruis_pepingen,2025,222850,222850,222850,CW YE2025 Profit/Loss,src_mater_dei_jr2025_cw_en,medium,tick2081; FLIP PROFIT vs YE2024 LOSS -455010
+bud_mater_dei_equity_jr2025_statutory,vzw_wzc_mater_dei_heikruis_pepingen,2025,4184416,4184416,4184416,CW YE2025 Eigen vermogen / Equity,src_mater_dei_jr2025_cw_en,medium,tick2081; JUMP +5.63% vs YE2024 3961566
+bud_mater_dei_bruto_jr2025_statutory,vzw_wzc_mater_dei_heikruis_pepingen,2025,6204899,6204899,6204899,CW YE2025 Brutomarge / Gross margin,src_mater_dei_jr2025_cw_en,medium,tick2081; JUMP +4.62% vs YE2024 5930849
+bud_mater_dei_fte_jr2025_statutory,vzw_wzc_mater_dei_heikruis_pepingen,2025,101.9,101.9,101.9,CW social-balance FTE / Employees,src_mater_dei_jr2025_cw_en,medium,tick2081; FTE JUMP 101.9 (+7.72%) vs YE2024 94.6

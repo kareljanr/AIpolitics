@@ -23771,3 +23771,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.1); entities (+1 vzw_wzc_den_akker_sint_truiden); foi + draft gap_den_akker_nbb_pdf_assets_debt_pnl_drop_fte_jump_matrix_l5; **EVERY-10** progress_every_10_ticks.md + doge_waste_top10_current.md; rq_2080=done + rq_2081 open; loop_state ticks=2080; raw under docs/doge/data/raw/tick2080/.
 - FOI: **ready not sent** (human-gated; secretariaat@denakker.be).
 - **EVERY-10 done** (A/B 100%; C ~99%; D ~74-88% generous residual dual; E ~1697+ ready). Next every-10 is **2090**. Next: rq_2081 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2081 - 2026-08-25T01:20:00Z - rq_2081 Mater Dei Heikruis (omzet JUMP 5.81m / pnl FLIP PROFIT 0.22m / Medium)
+
+- Unit: **rq_2081** leftover dual after **rq_2080 Den Akker**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **WZC Mater Dei Heikruis** YE2025 (KBO **0428.659.430**; Molenhofstraat 31 Pepingen-Heikruis; Vlaams-Brabant **aanbestedende-overheid VZW** WZC / **2 VE**; ~94 places; nieuwbouw path). DISTINCT from Vander Stokken Pepingen. Do not redo Den Akker/Vander Stokken/Ten Anker/De Zwaluw/Kuurne/SJ Brugge/HH Grimbergen/Mater Amabilis/Maria Moorslede/MSW NZVL/Welvaart/Vulpia/Compostela/Leiehome/Deinze/OLV Bornem/Huize SJ Ieper/Sint-Antonius/Wezembeek/Ter Burg/Christine/Vrijzicht/Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/Armonea/Always Home/Maria Ingelmunster/SJ Rumst/Rillaar.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR5806028** JUMP +6.78%; pnl **PROFIT EUR222850** FLIP vs YE2024 LOSS EUR-455010; equity **EUR4184416** JUMP +5.63%; bruto **EUR6204899** JUMP +4.62%; FTE **101.9** JUMP +7.72% vs YE2024 94.6; neerlegging **19.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende overheid 2 VE; email info@materdei-wzc.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.3); entities (+1 vzw_wzc_mater_dei_heikruis_pepingen); foi + draft gap_mater_dei_nbb_pdf_assets_debt_pnl_flip_fte_jump_matrix_l5; rq_2081=done + rq_2082 open; loop_state ticks=2081; raw under docs/doge/data/raw/tick2081/.
+- FOI: **ready not sent** (human-gated; info@materdei-wzc.be).
+- NOT every-10 (**next every-10 is 2090**). Next: rq_2082 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).

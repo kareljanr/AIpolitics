@@ -1,0 +1,1017 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CoBRHA Viewer</title>
+    <meta name="description" content="Via de CoBRHA Viewer (Common Base Registry for HealthCare Actors) kan u zoeken in de gegevens die Vlaanderen over de door haar erkende zorgvoorzieningen doorstuurt naar de CoBRHA-databank." />
+    <link rel="apple-touch-icon-precomposed" href="/Cobrha/img/apple-touch-icon-precomposed-76x76.png" sizes="76x76" />
+    <link rel="apple-touch-icon-precomposed" href="/Cobrha/img/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+    <link rel="apple-touch-icon-precomposed" href="/Cobrha/img/apple-touch-icon-precomposed-120x120.png" sizes="120x120" />
+    <link rel="apple-touch-icon-precomposed" href="/Cobrha/img/apple-touch-icon-precomposed-152x152.png" sizes="152x152" />
+    <link rel="apple-touch-icon" href="/Cobrha/img/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" href="/Cobrha/img/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+    <link rel="apple-touch-icon-precomposed" href="/Cobrha/img/apple-touch-icon-precomposed-57x57.png" sizes="57x57" />
+    <link rel="apple-touch-icon-precomposed" href="/Cobrha/img/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+    <meta name="msapplication-square70x70logo" content="/Cobrha/img/tile-small.png" />
+    <meta name="msapplication-square150x150logo" content="/Cobrha/img/tile-medium.png" />
+    <meta name="msapplication-wide310x150logo" content="/Cobrha/img/tile-wide.png" />
+    <meta name="msapplication-square310x310logo" content="/Cobrha/img/tile-large.png" />
+    <meta name="msapplication-TileColor" content="#0f4c81" />
+
+    <link rel="stylesheet" href="/Cobrha/lib/font-awesome/dist/css/all.min.css?v=1RqWa6jrqVLV5-Zz7snZFqr7f2MwKGUMfWzwMGR-aD4" />
+    <link rel="stylesheet" href="/Cobrha/lib/datatables/dist/datatables.min.css?v=xziBa_3r9BjC3U21CKhW8SW0zWTzErUKmVdVaYfxDXo" />
+    <link rel="stylesheet" href="/Cobrha/lib/bootstrap-select/dist/css/bootstrap-select.min.css?v=yqOj9fxssZNxRijqTzG3pA-qUq5KYzUK6u2o2Ma41gA" />
+        <link rel="stylesheet" href="/Cobrha/lib/wvg/dist/css/site_prd.min.css?v=XdTHkLsefEK9aqrA32NyzFXy8_QtN6kSDx9nZFW7ZoU" />
+    <link rel="stylesheet" href="/Cobrha/css/site.min.css?v=vGlmoB928CbygRHJ6RlzVDenQWW5KawdyG_JMUMJHHY" />
+    <script src="/Cobrha/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/Cobrha/lib/selectize/dist/js/selectize.min.js"></script>
+    <script src="/Cobrha/lib/selectize/dist/js/selectize-plugin-a11y.js"></script>
+
+    <script>
+        $core = {
+            debug: false,
+            api: "/Cobrha/api/",
+            root: "/Cobrha/",
+            extend: [{ namespace: "local", variable: "$app" }]
+        };
+    </script>
+
+    <style>
+        .precircleloader {
+            position: fixed;
+            left: 50%;
+            top: 50%;
+            z-index: 20000;
+            margin: -40px 0 0 -40px;
+            border: 8px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 8px solid #0f4c81;
+            border-bottom: 8px solid #0f4c81;
+            width: 64px;
+            height: 64px;
+            -webkit-animation: spin 2s linear infinite;
+            animation: spin 2s linear infinite;
+        }
+
+        #preloader {
+            position: fixed;
+            background-color: rgba(255,255,255,1);
+            left: 0px;
+            top: 0px;
+            z-index: 20000;
+            width: 100%;
+            height: 100%;
+            display: block;
+            box-sizing: border-box;
+        }
+
+        .noscript {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            z-index: 20001;
+            font-weight: 400;
+        }
+
+            .noscript div {
+                padding-top: 180px;
+                text-align: center;
+            }
+    </style>
+</head>
+<body>
+    <noscript>
+        <div class="noscript">
+            <div>
+                <b>Gelieve JavaScript in te schakelen</b><br />
+                <a href="/Cobrha/">CoBRHA Viewer</a><br />
+                <a href="https://www.departementzorg.be">www.departementzorg.be</a>
+            </div>
+        </div>
+    </noscript>
+    <div id="preloader"><div class="precircleloader"></div></div>
+
+    <header role="presentation">
+        <div class="wvg-header wvg-header-fixed wvg-header-md">
+    <div class="wvg-header-bar">
+        <div class="wvg-header-bar-container">
+            <a href="https://www.vlaanderen.be" aria-label="Vlaanderen" class="wvg-header-bar-brand">
+                <div class="wvg-header-bar-brand-logo">
+                    <span aria-hidden="true" class="wvg-header-bar-brand-logo-before"></span>
+                    <svg viewBox="0 0 32 32" role="presentation" class="wvg-header-bar-brand-logo-icon">
+                        <path d="M18.83 6.45c.05-.14.12 0 .27-.12a1.69 1.69 0 0 1 .59-.49 1.06 1.06 0 0 1 .61 0c.12 0 .05.33 0 .4s-.73-.08-.73.33c0 .67.91 0 1.38 0 .18 1.67-2.53 1.22-2.12-.12zm.5 1.49c1 .3 2.08.13 2.32.74-.47.24-.1 1.05.37.92.38-1.08.57-5.24-5-4 .59.07 1 1.92 2.34 2.32zM10 8.81c3.44-2.83 2.6-4.05 2.48-4.27a1 1 0 0 0-.93-.64s.86.71-3.36 4.21-.55 5.53-.55 5.53-1.08-2 2.36-4.82zm-.26-4.65A3 3 0 0 0 10.95.48a2.66 2.66 0 0 1-1 1.25C9.42 2.06 7.39 3 7.24 5.18a4.57 4.57 0 0 0 .16 1.5 6.07 6.07 0 0 1 2.34-2.52zm4.32 15.1c1.17-5.12-.5-6.39-.5-6.39s.3 1.4-.95 5c-3.26 9.45 3 10.34 4.74 12.56 0 0 .68-1-2.14-4-1-1.12-2-3.6-1.15-7.14zm-4-1.88a13.41 13.41 0 0 1 2.38-5.32A4.84 4.84 0 0 0 13 7.84c-.1 1.77-2.86 4.16-3.72 5.75a11.16 11.16 0 0 0-1.08 2.84 7.5 7.5 0 0 0 .62 4.67c.91 2.17-.13 3 .59 2.53.88-.71.75-2.38.68-3.43a15.71 15.71 0 0 1 .02-2.82zm12.65 6.33a18.28 18.28 0 0 1 3 .31v-7.59c-1.09-.82-1.6 0-2.27-.05s-1.12-1-1.57-.75c-.85.43.34 2 .86 2.27s1 .53 1.18.6A1.7 1.7 0 0 1 25 20a2.71 2.71 0 0 1 0 .75c-.31 1.32-2.63 2.52-4 1.61a3 3 0 0 1-1.4-2c-.36-1.73-1.62-3-2-4.7-.25-1-.43-2.12-.7-3.15s-.56-2.14-.79-3.11a25.07 25.07 0 0 0-.95-3.08c-1.27-3.31-1.85-3.08-1.85-3.08s.47.92 2.15 9a47.49 47.49 0 0 0 1.14 5.07c.15.43.43 1.33.62 1.72.53 1.17 1.95 2.93 2.05 4.52.05.91.15 1.67.18 2.37a6.61 6.61 0 0 0 .23 1.4c.35 1 3.14 4.09 6.1 4.09v-2.26A10.86 10.86 0 0 1 20 27.34a6.05 6.05 0 0 1 .35-1.7 2.77 2.77 0 0 1 2.4-1.94z"></path>
+                    </svg>
+                    <span aria-hidden="true" class="wvg-header-bar-brand-logo-after"></span>
+                    <span class="wvg-header-bar-brand-logo-label">Vlaanderen</span>
+                    <span aria-hidden="true" class="wvg-header-bar-brand-logo-label-after"></span>
+                </div>
+            </a>
+            <a href="https://www.vlaanderen.be/departement-zorg" class="wvg-header-bar-host">
+                Departement Zorg
+            </a>
+            <span aria-hidden="true" class="wvg-header-bar-host-after"></span>
+            <a href="/Cobrha/" class="wvg-header-bar-app">
+                CoBRHA Viewer
+            </a>
+        </div>
+        <div class="wvg-header-bar-plugins">
+            <div style="height: 100%;">
+                <div class="wvg-header-bar-plugins-contact">
+                    <a href="/Cobrha/Contact" aria-expanded="false" aria-controls="vlw-contact-panel-pane" class="wvg-header-bar-plugins-contact-link">
+                        <span class="wvg-header-bar-plugins-contact-label">Hulp nodig</span>
+                        <svg viewBox="0 0 32 32" aria-hidden="true" class="wvg-header-bar-plugins-contact-icon">
+                            <path d="M10 20a10.01 10.01 0 0 1 0-20 10.01 10.01 0 0 1 0 20zm0-18a8 8 0 0 0 0 16 8 8 0 0 0 0-16zm1 11H9v-3h1a2 2 0 1 0-2-2H6a4 4 0 1 1 5 3.88V13zm-1 3.25a1.25 1.25 0 1 1 0-2.5 1.25 1.25 0 0 1 0 2.5z"></path>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div id="scrollprogress" class="wvg-header-bar-progress" style="width: 0%;"></div>
+    </div>
+</div>
+
+        <div class="wvg-nav wvg-nav-md">
+            <nav aria-label="breadcrumb" class="wvg-nav-breadcrumbs">
+                <ol>
+                    <li class="wvg-nav-breadcrumbs-app">
+                        <a href="/Cobrha/">
+                            <span class="wvg-nav-breadcrumbs-app-icon"></span>
+                            <span class="wvg-nav-breadcrumbs-app-label">CoBRHA Viewer</span>
+                        </a>
+                    </li>
+                    
+        <li>Zorgvoorzieningen zoeken</li>
+
+                </ol>
+            </nav>
+            <div class="clearfix"></div>
+        </div>
+
+        <div class="wvg-menu wvg-menu-md">
+            <nav class="navbar navbar-expand-md bg-body-tertiary">
+                <div class="container-xl">
+                    <div class="navbar-brand" style="text-overflow: ellipsis; overflow: hidden;">
+                        CoBRHA Viewer - Zorgvoorzieningen zoeken
+                    </div>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle active" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Zoeken
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="/Cobrha/">Zorgvoorzieningen zoeken</a></li>
+                                            <li><a class="dropdown-item" href="/Cobrha/Zorginspectie">Inspectieverslagen zoeken</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="/Cobrha/Help">Handleiding</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="/Cobrha/Contact">Contacteer ons</a>
+                            </li>
+                        </ul>
+                        <form class="d-flex" role="search" action="/Cobrha/Institutions/List" id="search">
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Zoeken" aria-label="Zoeken" name="q">
+                                <button class="btn btn-light" type="submit" id="button-addon1"><i class="fa-solid fa-magnifying-glass"></i></button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <main role="main">
+        
+
+<div class="container pb-3">
+    <h2 class="mt-3">CoBRHA Viewer</h2>
+    <p>
+        Via de CoBRHA Viewer <i>(Common Base Registry for HealthCare Actors)</i> kan u zoeken in de gegevens die Vlaanderen over de door haar erkende zorgvoorzieningen doorstuurt naar <a href="https://www.ehealth.fgov.be/ehealthplatform/nl/service-cobrha-common-base-registry-for-healthcare-actor" target="_blank">de CoBRHA-databank <small><i class="fas fa-external-link-alt"></i></small></a>. U kan deze dataset ook downloaden via <a href="https://www.vlaanderen.be/datavindplaats/catalogus?text.LIKE=cobrha&order_relevance=asc" target="_blank">het Open Data-portaal <small><i class="fas fa-external-link-alt"></i></small></a>. Meer informatie vindt u op <a href="https://www.departementzorg.be/nl/open-data" target="_blank">de website van het Departement Zorg <small><i class="fas fa-external-link-alt"></i></small></a>. De CoBRHA Viewer ontsluit ook inspectieverslagen.
+    </p>
+        <h3>Zorgvoorzieningen zoeken <a href="/Cobrha/Help#institution_search" class="text-info" title="Handleiding"><i class="fas fa-question-circle" style="font-size: 24px;"></i></a></h3>
+    <div class="card">
+        <div class="card-body wvg-card-body">
+            
+<form id="searchinstitutions" method="get" action="/Cobrha/Institutions/List">
+        <div class="row">
+                <div class="col-lg-12">
+                        <div class="mb-2">
+                            <label for="quicksearch">Snel zoeken</label>
+                            <input type="text" class="form-control wvg-input-wide text-bold" id="quicksearch" name="q" value="">
+                        </div>
+                </div>
+        </div>
+        <div class="row">
+                <div class="col-lg-6">
+                        <div class="mb-2">
+                            <label for="naamsearch">Naam zorgvoorziening</label>
+                            <input type="text" class="form-control wvg-input-wide text-bold" id="naamsearch" name="name" value="">
+                        </div>
+                </div>
+                <div class="col-lg-3 col-md-12">
+                        <div class="mb-2">
+                            <label for="hcosearch">HCO-nummer</label>
+                            <input type="text" class="form-control wvg-input-wide text-bold" id="hcosearch" name="hco" value="">
+                        </div>
+                </div>
+                <div class="col-lg-3 col-md-12">
+                        <div class="mb-2 bootstrap-selectize-bold">
+                            <label for="authenticsourcesearch">Erkennende overheid</label>
+                            <select id="authenticsourcesearch" placeholder="Alle bronnen" name="src" class="form-control" title="Erkennende overheid kiezen" onchange="voorzieningstypeactiviteitsearch_filter();">
+                                <option value="">Alle bronnen</option>
+                                <option class="bootstrap-selectize bootstrap-selectize-border" value=" ">Alle bronnen</option>
+                                    <option class="bootstrap-selectize bootstrap-selectize-border" value="OV_AgODi">
+                                        Agentschap Agodi
+                                    </option>
+                                    <option class="bootstrap-selectize bootstrap-selectize-border" value="WVG_VAZG,WVG_WS">
+                                        Departement Zorg
+                                    </option>
+                                    <option class="bootstrap-selectize bootstrap-selectize-border" value="WVG_JW,WVG_KG">
+                                        Opgroeien
+                                    </option>
+                                    <option class="bootstrap-selectize bootstrap-selectize-border" value="WVG_VAPH">
+                                        Vlaams Agentschap voor Personen met een Handicap
+                                    </option>
+                            </select>
+                        </div>
+                </div>
+        </div>
+        <div class="row">
+                <div class="col-lg-6 col-md-12">
+                        <div class="mb-2 bootstrap-selectize-bold">
+                            <label for="gemeentepostcodesearch">Gemeente of postcode</label>
+                            <select id="gemeentepostcodesearch" name="ctyzip" class="form-control" title="Gemeente of postcode kiezen" placeholder="Alle gemeentes of postcodes">
+                                <option value="" selected disabled>Laden ...</option>
+                            </select>
+                        </div>
+                </div>
+                <div class="col-lg-6 col-md-12">
+                        <div class="mb-2">
+                            <label for="straatsearch">Straat</label>
+                            <input type="text" class="form-control wvg-input-wide text-bold" id="straatsearch" name="str" value="">
+                        </div>
+                </div>
+        </div>
+        <div class="row">
+                <div class="col-lg-9 col-md-12">
+                        <div class="mb-2 bootstrap-selectize-bold">
+                            <label for="voorzieningstypeactiviteitsearch">Type voorziening of activiteit</label><span style="display:inline-block; font-size: 14px;" class="text-muted">&nbsp;(<label style="margin-left: 2px; margin-right: 1px;" class="text-muted"><input name="all" class="form-check-input" type="checkbox" value="1" id="voorzieningstypeactiviteitall" onchange="voorzieningstypeactiviteitall_filter();"> inactieve activiteiten weergeven</label>)</span>
+                            <select id="voorzieningstypeactiviteitsearch" name="typact" class="form-control" title="Voorzieningstype of activiteit kiezen" placeholder="Alle voorzieningstypes en activiteiten">
+                                <option value="" selected disabled>Laden ...</option>
+                            </select>
+                        </div>
+                </div>
+                <div class="col-lg-3 col-md-12">
+                        <div class="mb-2 bootstrap-selectize-bold">
+                            <label for="cotsearch">Circle-of-trust</label>
+                            <select id="cotsearch" name="cot" placeholder="Geen selectie" class="form-select" title="Circle-of-trust kiezen">
+                                <option value="">Geen selectie</option>
+                                <option class="bootstrap-selectize bootstrap-selectize-border" value=" ">Geen selectie</option>
+                                <option class="bootstrap-selectize bootstrap-selectize-border" value="1">
+                                    Ja
+                                </option>
+                                <option class="bootstrap-selectize bootstrap-selectize-border" value="0">
+                                    Nee
+                                </option>
+                            </select>
+                        </div>
+                </div>
+        </div>
+        <div class="row">
+                <div class="col-lg-3 col-md-12">
+                        <div class="mb-2">
+                            <label for="ondernemingsnummersearch">Ondernemingsnummer</label>
+                            <input type="text" class="form-control wvg-input-wide text-bold" id="ondernemingsnummersearch" name="cbe" value="">
+                        </div>
+                </div>
+                <div class="col-lg-3 col-md-12">
+                        <div class="mb-2">
+                            <label for="rizivnummersearch">Riziv-nummer</label>
+                            <input type="text" class="form-control wvg-input-wide text-bold" id="rizivnummersearch" name="rzv" value="">
+                        </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-6">
+                            <div class="mb-2 bootstrap-selectize-bold">
+                                <label for="pagelengthsearch"><span class="wvg-hide-mobile-xs">Aantal per pagina</span><span class="wvg-hide-mobile-lg">Aantal</span></label>
+                                <select id="pagelengthsearch" name="n" placeholder="50" class="form-select" title="Aantal per pagina">
+                                        <option value="10" class="bootstrap-selectize bootstrap-selectize-border">
+                                            10
+                                        </option>
+                                        <option value="20" class="bootstrap-selectize bootstrap-selectize-border">
+                                            20
+                                        </option>
+                                        <option value="50" class="bootstrap-selectize bootstrap-selectize-border" selected="selected">
+                                            50
+                                        </option>
+                                        <option value="100" class="bootstrap-selectize bootstrap-selectize-border">
+                                            100
+                                        </option>
+                                </select>
+                            </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-6">
+                        <div class="mb-2 bootstrap-selectize-bold">
+                            <label for="statussearch">Status</label>
+                            <select id="statussearch" name="sts" class="form-select" title="Status">
+                                <option class="bootstrap-selectize bootstrap-selectize-border" value="All">Alle statussen</option>
+                                <option class="bootstrap-selectize bootstrap-selectize-border" value="Active" selected="selected">
+                                    Actief
+                                </option>
+                                <option class="bootstrap-selectize bootstrap-selectize-border" value="Investigating">
+                                    In onderzoek
+                                </option>
+                                <option class="bootstrap-selectize bootstrap-selectize-border" value="Ended">
+                                    Stopgezet
+                                </option>
+                            </select>
+                        </div>
+                </div>
+        </div>
+        <div class="row">
+                <div class="col-lg-12">
+                            <label style="margin-bottom: 6px;">Zorgvoorzieningen weergeven die de volgende gegevens bevatten</label>
+                            <div class="wvg-inputbox">
+                                <div class="form-check">
+                                    <input style="cursor: pointer;" class="form-check-input" type="radio" name="sup" id="sup1" value="" checked>
+                                    <label style="cursor: pointer;" class="form-check-label" for="sup1">
+                                        Alle zorgvoorzieningen
+                                    </label>
+                                </div>
+                                    <div class="form-check">
+                                        <input style="cursor: pointer;" class="form-check-input" type="radio" name="sup" id="sup2" value="Zorginspectie">
+                                        <label style="cursor: pointer;" class="form-check-label" for="sup2">
+                                            Inspectieverslagen
+                                        </label>
+                                    </div>
+                            </div>
+                </div>
+        </div>
+        <div class="row">
+                <div class="col-lg-2 col-md-3 col-6">
+                        <button type="submit" class="btn btn-primary btn-wide mt-2">Zoeken</button>
+                </div>
+                <div class="col-lg-2 col-md-3 col-6">
+                        <button type="reset" class="btn btn-outline-secondary btn-wide mt-2">Leegmaken</button>
+                </div>
+        </div>
+</form>
+<script>
+    var typegrouplookup = {
+        "institutiontypes": "Voorzieningstype of activiteit onder voorzieningstype",
+        "activities": "Activiteiten met meerdere voorzieningstypes"
+    };
+
+    var voorzieningstypeactiviteitall_filter = function () {
+        if ($statussearch) {
+            if ($("#voorzieningstypeactiviteitall").is(":checked")) {
+                $statussearch[0].selectize.setValue(["All"]);
+            }
+        }
+        voorzieningstypeactiviteitsearch_filter();
+    };
+
+    var voorzieningstypeactiviteitsearch_items = false;
+    var voorzieningstypeactiviteitsearch_authenticsourcesearch = "";
+    var voorzieningstypeactiviteitsearch_showall = true;
+    var voorzieningstypeactiviteitsearch_filter = function () {
+        if ($voorzieningstypeactiviteitsearch && voorzieningstypeactiviteitsearch_items) {
+            var selectize = $voorzieningstypeactiviteitsearch[0].selectize;
+            var authenticsource = $authenticsourcesearch[0].selectize.getValue().trim();
+            var showall = $("#voorzieningstypeactiviteitall").is(":checked");
+            if (voorzieningstypeactiviteitsearch_authenticsourcesearch != authenticsource || voorzieningstypeactiviteitsearch_showall != showall) {
+                voorzieningstypeactiviteitsearch_authenticsourcesearch = authenticsource;
+                voorzieningstypeactiviteitsearch_showall = showall;
+                if (authenticsource) {
+                    var authenticsources = authenticsource.split(",");
+                    var newitems = {};
+                    selectize.sifter.iterator(voorzieningstypeactiviteitsearch_items, function (item, id) {
+                        if (showall || item.isActive) {
+                            authenticsources.forEach((val) => {
+                                if (!item.sourcesText || (item.sourcesText && item.sourcesText.includes("[" + val + "]"))) {
+                                    newitems[id] = item;
+                                }
+                            });
+                        }
+                    });
+                    selectize.sifter.items = newitems;
+                } else if (!showall) {
+                    var newitems = {};
+                    selectize.sifter.iterator(voorzieningstypeactiviteitsearch_items, function (item, id) {
+                        if (item.isActive) newitems[id] = item;
+                    });
+                    selectize.sifter.items = newitems;
+                } else {
+                    selectize.sifter.items = voorzieningstypeactiviteitsearch_items;
+                }
+                selectize.search("x");
+                selectize.clear();
+            }
+        }
+    };
+
+    var createId = function (value) {
+        return btoa(value).replace("+", "-").replace("/", "_").replace(/={1,2}$/, '');
+    };
+
+    var $pagelengthsearch = $("#pagelengthsearch").selectize({
+        plugins: ["auto_position", "selectize-plugin-a11y"],
+        openOnFocus: false,
+        selectOnTab: false,
+        onChange: function (value) {
+            if (!value.trim()) {
+                $pagelengthsearch[0].selectize.setValue(["50"]);
+            }
+        },
+        render: {
+            option: function (item, escape) {
+                return "<div id=\"pagelengthsearch-" + createId(item.value || "none") + "-option\" role=\"option\" class=\"bootstrap-selectize bootstrap-selectize-border\">" + escape(item.text) + "</div>";
+            }
+        }
+    });
+    if ($pagelengthsearch.length) $pagelengthsearch[0].selectize.setValue([""]);
+
+    var $authenticsourcesearch = $("#authenticsourcesearch").selectize({
+        plugins: ["auto_position", "selectize-plugin-a11y"],
+        openOnFocus: false,
+        selectOnTab: false,
+        normalize: true,
+        onChange: function (value) {
+            if (value && !value.trim()) {
+                $authenticsourcesearch[0].selectize.clear();
+            }
+        },
+        render: {
+            option: function (item, escape) {
+                return "<div id=\"authenticsourcesearch-" + createId(item.value || "none") + "-option\" role=\"option\" class=\"bootstrap-selectize bootstrap-selectize-border\">" + escape(item.text) + "</div>";
+            }
+        }
+    });
+    if ($authenticsourcesearch.length) $authenticsourcesearch[0].selectize.setValue([""]);
+
+    var $cotsearch = $("#cotsearch").selectize({
+        plugins: ["auto_position", "selectize-plugin-a11y"],
+        openOnFocus: false,
+        selectOnTab: false,
+        normalize: true,
+        onChange: function (value) {
+            if (value && !value.trim()) {
+                $cotsearch[0].selectize.clear();
+            }
+        },
+        render: {
+            option: function (item, escape) {
+                return "<div id=\"cotsearch-" + createId(item.value || "none") + "-option\" role=\"option\" class=\"bootstrap-selectize bootstrap-selectize-border\">" + escape(item.text) + "</div>";
+            }
+        }
+    });
+    if ($cotsearch.length) $cotsearch[0].selectize.setValue([""]);
+
+    var $statussearch = $("#statussearch").selectize({
+        plugins: ["auto_position", "selectize-plugin-a11y"],
+        openOnFocus: false,
+        selectOnTab: false,
+        normalize: true,
+        onChange: function (value) {
+            if (!value.trim()) {
+                $statussearch[0].selectize.setValue(["Active"]);
+            }
+        },
+        render: {
+            option: function (item, escape) {
+                return "<div id=\"statussearch-" + createId(item.value || "none") + "-option\" role=\"option\" class=\"bootstrap-selectize bootstrap-selectize-border\">" + escape(item.text) + "</div>";
+            }
+        }
+    });
+    if ($statussearch.length) $statussearch[0].selectize.setValue(["Active"]);
+
+    var $voorzieningstypeactiviteitsearch = false;
+    $.get("/Cobrha/internal/InstitutionTypeActivities", function (data) {
+        var emptyElement = {
+            "isEmpty": true,
+            "isActive": true,
+            "isGroup": false,
+            "group": "",
+            "value": " ",
+            "displayText": "Alle voorzieningstypes en activiteiten",
+            "categoryText": "",
+            "searchText": "",
+            "sourceText": ""
+        };
+        data.splice(0, 0, emptyElement);
+        $voorzieningstypeactiviteitsearch = $("#voorzieningstypeactiviteitsearch").selectize({
+            optionGroupRegister: function (optgroup) {
+                var group = {
+                    label: typegrouplookup[optgroup]
+                };
+                group[this.settings.optgroupValueField] = optgroup;
+                return group;
+            },
+            plugins: ["auto_position", "selectize-plugin-a11y"],
+            openOnFocus: false,
+            selectOnTab: false,
+            options: data,
+            optgroupField: "group",
+            labelField: "displayText",
+            searchField: ["searchText", "displayText"],
+            valueField: "value",
+            normalize: true,
+            onChange: function (value) {
+                if (value && !value.trim()) {
+                    $voorzieningstypeactiviteitsearch[0].selectize.clear();
+                }
+            },
+            render: {
+                option: function (item, escape) {
+                    var result = "<div id=\"voorzieningstypeactiviteitsearch-" + createId(item.value || "none") + "-option\" role=\"option\" class=\"bootstrap-selectize bootstrap-selectize-border " + (item.isActive ? "" : "text-danger") + "\">";
+                    if (item.isEmpty) {
+                        result += escape(item.displayText);
+                    } else if (item.categoryText) {
+                        result += "<div class=\"bootstrap-selectize-indent-sm\">";
+                        result += escape(item.displayText);
+                        if (item.sourceText) result += "<br><small class=\"text-black-50\">" + escape(item.sourceText) + " - " + escape(item.categoryText) + "</small></div>";
+                        else result += "<br><small class=\"text-black-50\">" + escape(item.categoryText) + "</small></div>";
+                    } else {
+                        if (item.isGroup) {
+                            result += "<span class=\"text-bold\">";
+                            result += escape(item.displayText);
+                            result += "</span>";
+                            if (item.sourceText) result += "<br><small class=\"text-black-50\">" + escape(item.sourceText) + " - <i>Zorgvoorzieningstype</i></small></div>";
+                            else result += "<br><small class=\"text-black-50\"><i>Zorgvoorzieningstype</i></small></div>";
+                        } else {
+                            result += escape(item.displayText);
+                            if (item.sourceText) result += "<br><small class=\"text-black-50\">" + escape(item.sourceText) + " - <i>Alle zorgvoorzieningstypes</i></small></div>";
+                            else result += "<br><small class=\"text-black-50\"><i>Alle zorgvoorzieningstypes</i></small></div>";
+                        }
+                    }
+                    result += "</div>";
+                    return result;
+                }
+            },
+            score: function (search) {
+                var score = this.getScoreFunction(search);
+                return function (item) {
+                    return score(item) ? 1 : 0;
+                };
+            }
+        });
+        if ($voorzieningstypeactiviteitsearch.length) {
+            voorzieningstypeactiviteitsearch_items = $voorzieningstypeactiviteitsearch[0].selectize.sifter.items;
+            voorzieningstypeactiviteitsearch_filter();
+            $voorzieningstypeactiviteitsearch[0].selectize.setValue([""]);
+        }
+    });
+
+    var $gemeentepostcodesearch = false;
+    $.get("/Cobrha/internal/Municipality", function (data) {
+        var emptyElement = {
+            "isEmpty": true,
+            "isGroup": false,
+            "value": " ",
+            "displayText": "Alle gemeentes of postcodes",
+        };
+        data.splice(0, 0, emptyElement);
+        $gemeentepostcodesearch = $("#gemeentepostcodesearch").selectize({
+            plugins: ["auto_position", "selectize-plugin-a11y"],
+            openOnFocus: false,
+            selectOnTab: false,
+            normalize: true,
+            options: data,
+            labelField: "displayText",
+            searchField: ["displayText"],
+            valueField: "value",
+            onChange: function (value) {
+                if (value && !value.trim()) {
+                    $gemeentepostcodesearch[0].selectize.clear();
+                }
+            },
+            render: {
+                option: function (item, escape) {
+                    var result = "<div id=\"gemeentepostcodesearch-" + createId(item.value || "none") + "-option\" role=\"option\" class=\"bootstrap-selectize bootstrap-selectize-border\">";
+                    if (item.isEmpty) {
+                        result += escape(item.displayText);
+                    } else if (item.isGroup) {
+                        result += "<span class=\"text-bold\">";
+                        result += escape(item.displayText);
+                        result += "</span>&nbsp<small class=\"text-black-50\">(alle postcodes)</small>";
+                    } else {
+                        result += "<div class=\"bootstrap-selectize-indent-sm\">";
+                        result += escape(item.displayText);
+                        result += "</div>";
+                    }
+                    result += "</div>";
+                    return result;
+                }
+            },
+            score: function (search) {
+                var score = this.getScoreFunction(search);
+                return function (item) {
+                    return score(item) ? 1 : 0;
+                };
+            }
+        });
+        if ($gemeentepostcodesearch.length) $gemeentepostcodesearch[0].selectize.setValue([""]);
+    });
+
+    $("#searchinstitutions").on("reset", function () {
+        setTimeout(function () {
+            $app.forms.clearselectize("#authenticsourcesearch");
+            $app.forms.clearselectize("#gemeentepostcodesearch");
+            $app.forms.clearselectize("#voorzieningstypeactiviteitsearch");
+            $app.forms.clearselectize("#cotsearch");
+            $app.forms.clearselectize("#pagelengthsearch");
+            $app.forms.clearselectize("#statussearch");
+            $app.forms.clear("#quicksearch");
+            $app.forms.clear("#naamsearch");
+            $app.forms.clear("#hcosearch");
+            $app.forms.clear("#straatsearch");
+            $app.forms.clear("#ondernemingsnummersearch");
+            $app.forms.clear("#rizivnummersearch");
+            $app.forms.clearradio("input[name='sup']");
+        });
+    });
+
+    $("#searchinstitutions").submit(function () {
+        $app.forms.sanitize("#allsearch", true);
+        $app.forms.sanitize("#quicksearch", true);
+        $app.forms.sanitize("#naamsearch", true);
+        $app.forms.sanitize("#hcosearch", true);
+        $app.forms.sanitize("#authenticsourcesearch", false);
+        $app.forms.sanitize("#gemeentepostcodesearch", false);
+        $app.forms.sanitize("#straatsearch", true);
+        $app.forms.sanitize("#voorzieningstypeactiviteitsearch", false);
+        $app.forms.sanitize("#cotsearch", false);
+        $app.forms.sanitize("#ondernemingsnummersearch", true);
+        $app.forms.sanitize("#rizivnummersearch", true);
+        $app.forms.sanitize("#pagelengthsearch", false, false, "50");
+        $app.forms.sanitize("#statussearch", false, false, "Active");
+        $app.forms.sanitize("input[name='sup']:checked", false);
+    });
+</script>
+        </div>
+    </div>
+</div>
+
+
+    </main>
+
+    <footer role="presentation">
+        <div class="vertical-align: baseline; box-sizing: border-box; display: block;">
+            
+        </div>
+        <div class="wvg-footer wvg-footer-md">
+    <div class="wvg-footer-container">
+        <div class="wvg-footer-col wvg-footer-logo">
+            <img src="/Cobrha/lib/wvg/dist/img/departementzorg-logo.svg" srcset="" alt="Vlaanderen is zorgszam en gezond samenleven logo" class="wvg-footer-logo-image">
+        </div>
+        <div class="wvg-footer-col wvg-footer-body">
+            <h2 class="wvg-footer-body-title">
+                CoBRHA Viewer is een officiële website van de Vlaamse overheid
+                <span class="wvg-footer-body-subtitle">
+                    <span>uitgegeven door Departement Zorg</span>
+                </span>
+            </h2>
+            <ul class="wvg-footer-body-links">
+                <li class="wvg-footer-body-links-item">
+                    <a href="https://www.departementzorg.be" class="wvg-footer-body-links-item-cta">Departement Zorg</a>
+                </li>
+                <li class="wvg-footer-body-links-item">
+                    <a href="https://www.vlaanderen.be" class="wvg-footer-body-links-item-cta">Vlaamse Overheid</a>
+                </li>
+                <li class="wvg-footer-body-links-item">
+                    <a href="https://www.vlaanderen.be/datavindplaats/catalogus?text.LIKE=cobrha&order_relevance=asc" class="wvg-footer-body-links-item-cta">Open-Data Portaal</a>
+                </li>
+            </ul>
+            <ul class="wvg-footer-language wvg-footer-language-mobile">
+                <li class="wvg-footer-language-item">
+                    <a href="#top" hreflang="nl" lang="nl" rel="alternate" class="wvg-footer-language-item-cta">
+                        nl
+                    </a>
+                </li>
+                <li class="wvg-footer-language-item">
+                    <span class="wvg-footer-language-item-cta">
+                        en
+                    </span>
+                </li>
+                <li class="wvg-footer-language-item">
+                    <span class="wvg-footer-language-item-cta">
+                        fr
+                    </span>
+                </li>
+                <li class="wvg-footer-language-item">
+                    <span class="wvg-footer-language-item-cta">
+                        de
+                    </span>
+                </li>
+            </ul>
+        </div>
+        <div class="wvg-footer-col wvg-footer-side">
+            <div class="wvg-footer-host">
+                <p class="wvg-footer-host-departement">Departement</p> <p class="wvg-footer-host-site-owner">Zorg</p>
+            </div>
+            <ul class="wvg-footer-language wvg-footer-language-desktop">
+                <li class="wvg-footer-language-item">
+                    <a href="#top" hreflang="nl" lang="nl" rel="alternate" class="wvg-footer-language-item-cta">
+                        nl
+                    </a>
+                </li>
+                <li class="wvg-footer-language-item">
+                    <span class="wvg-footer-language-item-cta">
+                        en
+                    </span>
+                </li>
+                <li class="wvg-footer-language-item">
+                    <span class="wvg-footer-language-item-cta">
+                        fr
+                    </span>
+                </li>
+                <li class="wvg-footer-language-item">
+                    <span class="wvg-footer-language-item-cta">
+                        de
+                    </span>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+    </footer>
+
+    <div style="z-index: 10055;" class="modal fade" id="dialogXLModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content" data-wvg-content="#">
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="dialogLGModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content" data-wvg-content="#">
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="dialogMDModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-md" role="document">
+        <div class="modal-content" data-wvg-content="#">
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="dialogSMModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content" data-wvg-content="#">
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="successModal" tabindex="-1" role="dialog" aria-labelledby="successTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content" style="background-color: #F8F8F8;">
+            <div class="modal-header bg-success text-white">
+                <h5 class="modal-title" id="successTitle" data-wvg-title=""></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-row">
+                <div class="modal-col-icon">
+                    <i class="fa-solid fa-check-circle modal-icon text-success"></i>
+                </div>
+                <div class="modal-col-body">
+                    <div class="modal-body" data-wvg-body="">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" data-wvg-ok="ok" data-bs-dismiss="modal">Ok</button>
+                <button type="button" class="btn btn-success" data-wvg-close="default" data-bs-dismiss="modal">Sluiten</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="dangerModal" tabindex="-1" role="dialog" aria-labelledby="dangerTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content" style="background-color: #F8F8F8;">
+            <div class="modal-header bg-danger text-white">
+                <h5 class="modal-title" id="dangerTitle" data-wvg-title=""></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-row">
+                <div class="modal-col-icon">
+                    <i class="fa-solid fa-exclamation-circle modal-icon text-danger"></i>
+                </div>
+                <div class="modal-col-body">
+                    <div class="modal-body" data-wvg-body="">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-wvg-ok="ok okcancel" data-bs-dismiss="modal">Ok</button>
+                <button type="button" class="btn btn-danger" data-wvg-close="default" data-bs-dismiss="modal">Sluiten</button>
+                <button type="button" class="btn btn-danger" data-wvg-yes="yesno" data-bs-dismiss="modal">Ja</button>
+                <button type="button" class="btn btn-light" data-wvg-no="yesno" data-bs-dismiss="modal">Nee</button>
+                <button type="button" class="btn btn-light" data-wvg-cancel="okcancel" data-bs-dismiss="modal">Annuleren</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="failModal" tabindex="-1" role="dialog" aria-labelledby="failTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content" style="background-color: #F8F8F8;">
+            <div class="modal-header bg-danger text-white">
+                <h5 class="modal-title" id="failTitle" data-wvg-title=""></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-row">
+                <div class="modal-col-icon">
+                    <i class="fa-solid fa-times-circle modal-icon text-danger"></i>
+                </div>
+                <div class="modal-col-body">
+                    <div class="modal-body" data-wvg-body="">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-wvg-ok="ok" data-bs-dismiss="modal">Ok</button>
+                <button type="button" class="btn btn-danger" data-wvg-close="default" data-bs-dismiss="modal">Sluiten</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="warningModal" tabindex="-1" role="dialog" aria-labelledby="warningTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content" style="background-color: #F8F8F8;">
+            <div class="modal-header bg-warning">
+                <h5 class="modal-title" id="warningTitle" data-wvg-title=""></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-row">
+                <div class="modal-col-icon">
+                    <i class="fa-solid fa-exclamation-triangle modal-icon text-warning"></i>
+                </div>
+                <div class="modal-col-body">
+                    <div class="modal-body" data-wvg-body="">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-warning" data-wvg-ok="ok okcancel" data-bs-dismiss="modal">Ok</button>
+                <button type="button" class="btn btn-warning" data-wvg-close="default" data-bs-dismiss="modal">Sluiten</button>
+                <button type="button" class="btn btn-warning" data-wvg-yes="yesno" data-bs-dismiss="modal">Ja</button>
+                <button type="button" class="btn btn-light" data-wvg-no="yesno" data-bs-dismiss="modal">Nee</button>
+                <button type="button" class="btn btn-light" data-wvg-cancel="okcancel" data-bs-dismiss="modal">Annuleren</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="infoModal" tabindex="-1" role="dialog" aria-labelledby="infoTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content" style="background-color: #F8F8F8;">
+            <div class="modal-header bg-light">
+                <h5 class="modal-title" id="infoTitle" data-wvg-title=""></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-row">
+                <div class="modal-col-icon">
+                    <i class="fa-solid fa-info-circle modal-icon text-info"></i>
+                </div>
+                <div class="modal-col-body">
+                    <div class="modal-body" data-wvg-body="">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-info" data-wvg-ok="ok okcancel" data-bs-dismiss="modal">Ok</button>
+                <button type="button" class="btn btn-info" data-wvg-close="default" data-bs-dismiss="modal">Sluiten</button>
+                <button type="button" class="btn btn-light" data-wvg-cancel="okcancel" data-bs-dismiss="modal">Annuleren</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="questionModal" tabindex="-1" role="dialog" aria-labelledby="questionTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content" style="background-color: #F8F8F8;">
+            <div class="modal-header bg-light">
+                <h5 class="modal-title" id="questionTitle" data-wvg-title=""></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-row">
+                <div class="modal-col-icon">
+                    <i class="fa-solid fa-question-circle modal-icon text-secondary"></i>
+                </div>
+                <div class="modal-col-body">
+                    <div class="modal-body" data-wvg-body="">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-wvg-ok="default okcancel" data-bs-dismiss="modal">Ok</button>
+                <button type="button" class="btn btn-secondary" data-wvg-yes="yesno" data-bs-dismiss="modal">Ja</button>
+                <button type="button" class="btn btn-light" data-wvg-no="yesno" data-bs-dismiss="modal">Nee</button>
+                <button type="button" class="btn btn-light" data-wvg-cancel="default okcancel" data-bs-dismiss="modal">Annuleren</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="z-index: 10055;" class="modal fade" id="alertModal" tabindex="-1" role="dialog" aria-labelledby="alertTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content" style="background-color: #F8F8F8;">
+            <div class="modal-header bg-light">
+                <h5 class="modal-title" id="alertTitle" data-wvg-title=""></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body" data-wvg-body="">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary modal-ok" data-bs-dismiss="modal">Sluiten</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="loader"><div class="circleloader"></div></div>
+<div id="processing"><div class="circleloader"></div></div>
+
+    <script src="/Cobrha/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/Cobrha/lib/bootstrap-select/dist/js/bootstrap-select.js"></script>
+    <script src="/Cobrha/lib/datatables/dist/datatables.min.js"></script>
+    <script src="/Cobrha/lib/wvg/dist/js/app.bundle.min.js?v=3Mj9qv8KYeZCgDcY0PwDxgK2IetwPsWUbs6LgOro2Xc"></script>
+    <script src="/Cobrha/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+
+    <script type="text/javascript">
+        $app.layout.setup({
+            scroll: "#scrollprogress",
+            horizontalsticky: ".horizontal-sticky"
+        });
+
+        $app.modal.setup({
+            prefix: "wvg",
+            safebackdrop: true,
+            busy: "#loader",
+            alert: "#alertModal",
+            title: "title",
+            body: "body",
+            error: function (err) {
+                $app.modal.danger({ title: "Fout", body: "Fout bij het laden van de pagina.<br />Na 30 minuten inactiviteit wordt u automatisch uitgelogd.<br/>Gelieve de pagina te <a href=\"javascript: location.reload()\">vernieuwen</a>." }).show();
+            }
+        });
+
+        $app.modal.add("info", "#infoModal");
+        $app.modal.add("question", "#questionModal");
+        $app.modal.add("warning", "#warningModal");
+        $app.modal.add("danger", "#dangerModal");
+        $app.modal.add("success", "#successModal");
+        $app.modal.add("fail", "#failModal");
+        $app.modal.add("dialogxl", "#dialogXLModal");
+        $app.modal.add("dialoglg", "#dialogLGModal");
+        $app.modal.add("dialogmd", "#dialogMDModal");
+        $app.modal.add("dialogsm", "#dialogSMModal");
+        $app.modal.add("modalxl", "#dialogXLCenteredModal");
+        $app.modal.add("modallg", "#dialogLGCenteredModal");
+        $app.modal.add("modalmd", "#dialogMDCenteredModal");
+        $app.modal.add("modalsm", "#dialogSMCenteredModal");
+
+        $app.modal.routing({
+            default: false,
+            dialog: $app.modal.dialogxl,
+            error: function (err) {
+                $app.modal.danger({ title: "Fout", body: "Fout bij het laden van de pagina<br />" + err }).show();
+            }
+        });
+    </script>
+
+    
+    <script>
+        window.onunload = function () { };
+
+        window.addEventListener("pageshow", function (event) {
+            if (event.persisted) {
+                window.location.reload();
+            }
+        });
+     </script>
+
+
+    <script type="text/javascript">
+        $("#preloader").hide();
+        $(function () {
+            $app.modal.ready();
+            $("#search").on("submit", function (e) {
+                $app.forms.sanitize("#search input", true, true);
+            });
+        });
+    </script>
+
+</body>
+</html>
