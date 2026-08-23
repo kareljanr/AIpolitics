@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T12:55:00Z,rq_2033,2033,no,tick2033 leftover Cassiers WZC 0434.434.393 Medium CW (omzet JUMP 7.20m pnl DROP 0.42m -27.69pct equity JUMP 9.74m bruto FLAT 7.76m FTE 97.7; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2034; next every-10 2040; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T13:10:00Z,rq_2034,2034,no,tick2034 leftover WZC Sint-Bernardus Assenede 0445.106.274 Medium CW (omzet JUMP 6.36m pnl LOSS IMPROVED -0.23m equity DROP 4.62m bruto JUMP 7.01m FTE 85.6; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2035; next every-10 2040; continuous hole_fill

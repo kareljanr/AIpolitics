@@ -23322,3 +23322,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_cassiers); foi + draft gap_wzc_cassiers_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2033=done + rq_2034 open; loop_state ticks=2033; raw under docs/doge/data/raw/tick2033/.
 - FOI: **ready not sent** (human-gated; info@wzccassiers.be).
 - NOT every-10 (**next every-10 is 2040**). Next: rq_2034 (AGB/FARO-if-YE2025 / AIESH-REW / Bernardus Assenede-OLV Roosdaal-OLVA-Triest / unused DSO-IGS-HVZ).
+
+
+## Tick 2034 - 2026-08-24T13:10:00Z - rq_2034 WZC Sint-Bernardus Assenede (omzet JUMP 6.36m / pnl LOSS IMPROVED -0.23m / Medium)
+
+- Unit: **rq_2034** leftover dual after **rq_2033 Cassiers**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **WZC Sint-Bernardus Assenede** YE2025 (KBO **0445.106.274**; Assenedestraat 18 Bassevelde; Oost-Vlaanderen **WZC VZW**). Do not redo Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR6,364,855** JUMP +5.59%; pnl **LOSS EUR−231,428** IMPROVED vs YE2024 LOSS EUR−581,751; equity **EUR4,618,453** DROP −10.04%; bruto **EUR7,009,955** JUMP +8.19%; FTE **85.6**; neerlegging **24.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@wzcsintbernardus.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_sint_bernardus_assenede); foi + draft gap_wzc_sint_bernardus_assenede_nbb_pdf_assets_debt_pnl_loss_matrix_l5; rq_2034=done + rq_2035 open; loop_state ticks=2034; raw under docs/doge/data/raw/tick2034/.
+- FOI: **ready not sent** (human-gated; info@wzcsintbernardus.be).
+- NOT every-10 (**next every-10 is 2040**). Next: rq_2035 (AGB/FARO-if-YE2025 / AIESH-REW / Roosdaal-OLVA-Triest / unused DSO-IGS-HVZ).

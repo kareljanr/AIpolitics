@@ -52225,3 +52225,8 @@ bud_wzc_cassiers_pnl_jr2025_statutory,vzw_wzc_cassiers,2025,424127,,,CW YE2025 P
 bud_wzc_cassiers_equity_jr2025_statutory,vzw_wzc_cassiers,2025,9741670,,,CW YE2025 Eigen vermogen,src_wzc_cassiers_jr2025_cw,medium,tick2033; equity JUMP 9741670 +10.11pct vs YE2024 8847256
 bud_wzc_cassiers_bruto_jr2025_statutory,vzw_wzc_cassiers,2025,7762773,,,CW YE2025 Brutomarge,src_wzc_cassiers_jr2025_cw,medium,tick2033; bruto FLAT 7762773 -0.06pct vs YE2024 7767769
 bud_wzc_cassiers_fte_jr2025_statutory,vzw_wzc_cassiers,2025,97.7,,,CW social-balance FTE,src_wzc_cassiers_jr2025_cw,medium,tick2033; YE2025 FTE 97.7 vs YE2024 98.2
+bud_wzc_sint_bernardus_assenede_omzet_jr2025_statutory,vzw_wzc_sint_bernardus_assenede,2025,6364855,,,CW YE2025 omzet / Turnover,src_wzc_sint_bernardus_assenede_jr2025_cw,medium,tick2034; omzet JUMP 6364855 +5.59pct vs YE2024 6027796
+bud_wzc_sint_bernardus_assenede_pnl_jr2025_statutory,vzw_wzc_sint_bernardus_assenede,2025,-231428,,,CW YE2025 Profit/Loss,src_wzc_sint_bernardus_assenede_jr2025_cw,medium,tick2034; pnl LOSS IMPROVED -231428 vs YE2024 LOSS -581751 (+60.22pct less loss)
+bud_wzc_sint_bernardus_assenede_equity_jr2025_statutory,vzw_wzc_sint_bernardus_assenede,2025,4618453,,,CW YE2025 Eigen vermogen,src_wzc_sint_bernardus_assenede_jr2025_cw,medium,tick2034; equity DROP 4618453 -10.04pct vs YE2024 5134111
+bud_wzc_sint_bernardus_assenede_bruto_jr2025_statutory,vzw_wzc_sint_bernardus_assenede,2025,7009955,,,CW YE2025 Brutomarge,src_wzc_sint_bernardus_assenede_jr2025_cw,medium,tick2034; bruto JUMP 7009955 +8.19pct vs YE2024 6479412
+bud_wzc_sint_bernardus_assenede_fte_jr2025_statutory,vzw_wzc_sint_bernardus_assenede,2025,85.6,,,CW social-balance FTE,src_wzc_sint_bernardus_assenede_jr2025_cw,medium,tick2034; YE2025 FTE 85.6
