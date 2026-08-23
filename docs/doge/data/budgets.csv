@@ -51745,3 +51745,10 @@ bud_niras_assets_jr2025,niras,2025,1776604000,,,official FV2025 assets kEUR,src_
 bud_niras_debt_jr2025,niras,2025,1327024000,,,official FV2025 schulden kEUR,src_niras_fv2025_pdf,strong,tick1947; schulden 1327024000
 bud_niras_wages_jr2025,niras,2025,27825000,,,official FV2025 bezoldigingen kEUR,src_niras_fv2025_pdf,strong,tick1947; bezoldigingen 27825000
 bud_niras_cash_jr2025,niras,2025,916208000,,,official FV2025 liquide middelen kEUR,src_niras_fv2025_pdf,strong,tick1947; cash 916208000
+bud_laborelec_omzet_jr2025,nv_laborelec,2025,106056264,,,CW NBB-derived omzet,src_laborelec_jr2025_cw,medium,tick1949; YE2025 omzet 106056264 JUMP +2.08pct
+bud_laborelec_pnl_jr2025,nv_laborelec,2025,1241176,,,CW NBB-derived 9904,src_laborelec_jr2025_cw,medium,tick1949; YE2025 pnl 1241176 DROP -60.33pct
+bud_laborelec_equity_jr2025,nv_laborelec,2025,21843609,,,CW NBB-derived equity,src_laborelec_jr2025_cw,medium,tick1949; YE2025 equity 21843609 JUMP +6.02pct
+bud_laborelec_assets_jr2025,nv_laborelec,2025,80188526,,,Upswitch NBB/CBSO assets,src_laborelec_jr2025_upswitch,medium,tick1949; YE2025 assets 80188526
+bud_laborelec_bruto_jr2025,nv_laborelec,2025,70229449,,,CW NBB-derived bruto,src_laborelec_jr2025_cw,medium,tick1949; YE2025 bruto 70229449 JUMP +6.27pct
+bud_laborelec_ebitda_jr2025,nv_laborelec,2025,9637469,,,Upswitch NBB/CBSO EBITDA,src_laborelec_jr2025_upswitch,medium,tick1949; YE2025 EBITDA 9637469
+bud_laborelec_fte_jr2025,nv_laborelec,2025,394,,,CW NBB-derived FTE 393.5,src_laborelec_jr2025_cw,medium,tick1949; YE2025 FTE 393.5 (stored 394)

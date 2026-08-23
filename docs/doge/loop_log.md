@@ -22543,3 +22543,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+7); commitments (+1); leaderboard (+1); entities (updated niras); foi + draft gap_niras_nbb_pdf_fte_hedera_flt_insolvenz_l5; rq_1947=done + rq_1948 open; loop_state ticks=1947.
 - FOI opened: NBB PDF + FTE + Hedera/FLT/insolvency (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1950**). Next: rq_1948 (AGB/FARO-if-YE2025 / AIESH-if-YE2025 / otherHVZ-IGS).
+
+
+## Tick 1949 - 2026-08-27T21:30:00Z - rq_1949 Laborelec (omzet 106.1m / pnl DROP 1.24m / Medium)
+
+- Unit: **rq_1949** leftover dual after CILE. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW unpublished. Took named deferred leftover **Laborelec NV** (KBO **0400.902.582**; Rodestraat 125 Linkebeek; Engie electricity technical lab; YE2025 live). Do not redo CILE/NIRAS/Bel V/Dijk92/AIEG/Synergrid/Synatom.
+- Primary hunt: NBB deposit PDF unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0400902582/belgisch-laboratorium-van-elektriciteitsindustrie) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/laborelec-0400902582) + KBO (neerlegging **17.06.2026**; YE **31.12.2025**): omzet **EUR106,056,264** (**JUMP +2.08%**); bruto **EUR70,229,449**; PnL **EUR1,241,176** (**DROP -60.33%**); equity **EUR21,843,609**; assets **EUR80,188,526**; EBITDA **EUR9,637,469**; FTE **393.5**; kapitaal **EUR25,000**.
+- Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_laborelec_nbb_pdf_engie_recharge_debt_l5; rq_1949=done + rq_1950 open (EVERY-10); loop_state ticks=1949.
+- FOI opened: NBB PDF + Engie recharge/debt (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1950 THIS next tick**). Next: rq_1950 EVERY-10 + AGB/FARO-if-YE2025 / AIESH-if-YE2025 / otherHVZ-IGS.
