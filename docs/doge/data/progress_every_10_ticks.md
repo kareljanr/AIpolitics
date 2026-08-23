@@ -6,6 +6,41 @@
 
 ---
 
+
+## Snapshot at **tick 2050** (2026-08-24)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 2041-2050 WZC/AGB continuum after 2040 Samen Ouder |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 2041-2050 is residual dual L5 (not near-complete of 348bn):** **WZC De Linde Lievegem** omzet JUMP **8.54m** · **Psychogeriatrisch Centrum** omzet FLAT **53.40m** · **Zorggroep Zusters van Berlaar** omzet JUMP **77.35m** · **WZC De Verlosser Dilbeek** omzet JUMP **3.02m** · **AGB Bornem** assets JUMP **21.87m** / debt **20.50m** Strong · **Curando** omzet JUMP **87.69m** · **Integro** omzet JUMP **63.70m** · **Ter Kimme** omzet JUMP **8.54m** · **WZC Huize Vincent** omzet JUMP **6.38m** / pnl DEEPER LOSS · **Hof ter Waarbeek** omzet JUMP **6.32m** / equity JUMP Medium (this tick EVERY-10 dual) |
+| **E. FOI-ready gaps** | **~1667** drafts ready | Human send only; answered **~11**; partial **~28**; total FOI rows **~1719** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable/energy/nuclear/water/forest/hospital/psych shells** (**NEW 2041-2050** De Linde · Psychogeriatrisch · Zusters Berlaar · De Verlosser · **AGB Bornem** · **Curando** · **Integro** · **Ter Kimme** · **Huize Vincent** · **Hof ter Waarbeek** · prior 2031-2040 / 2021-2030 stacks retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs hospital IGS/ASBL path possible; Medium aggregators pending NBB PDF.**
+
+### Inventory (tick 2050)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 52313 |
+| commitments.csv | 5716 |
+| leaderboard.csv | 7837 |
+| entities.csv | 1751 |
+| sources.csv | 5138 |
+| FOI ready | 1667 |
+| FOI answered | 11 |
+| FOI partial | 28 |
+| FOI total rows | 1719 |
+| research_queue open | rq_2051 after progress |
+
+### What improved since tick 2040
+
+- **Residual dual (tick2041-2050):** **WZC De Linde Lievegem** · **Psychogeriatrisch Centrum** · **Zorggroep Zusters van Berlaar** · **WZC De Verlosser Dilbeek** · **AGB Bornem** (Strong JR2024) · **Curando** · **Integro** · **Ter Kimme** · **WZC Huize Vincent** · **Hof ter Waarbeek** (this tick EVERY-10 dual — Vlaams-Brabant WZC VZW YE2025 Medium CW).
+- **Blocked still:** AGB Bornem JR2025 unpublished (JR2024 Strong mined) · FARO NBB YE2025 unpublished (YE2024 filing) · AIESH 0201.712.587 / REW YE2024-only · Jessa/ZOL CW N/A omzet · Bethanie Zoersel Emmaüs double-count · Veilige Have / Zusterhof / Molenheide already mined · prior Eneco deposit FOI stack.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified; corrupt AGB pi>10 / OWV snowball stock / Metro3 stock filtered off pure annual). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **2060**.
+
+
 ## How to read the % figures
 
 | Layer | Meaning | “End stop of money”? |
