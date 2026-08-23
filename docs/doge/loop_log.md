@@ -24070,3 +24070,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.6); entities (+1 nv_residence_3_bruxelles); foi + draft gap_residence_3_nbb_pdf_assets_debt_pnl_loss_narrow_neg_equity_matrix_l5; rq_2113=done + rq_2114 open; loop_state ticks=2113; raw docs/doge/data/raw/tick2113/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2110**; next **2120**). Next: rq_2114 (AGB/FARO-if-YE2025 / AIESH-REW / Les Buissons Spa deferred / unused IGS-DSO-WZC-MRS).
+
+
+## Tick 2114 - 2026-08-25T08:55:00Z - rq_2114 Les Buissons Spa (omzet JUMP 4.75m / pnl LOSS WIDEN -0.29m / equity DROP / Medium)
+
+- Unit: **rq_2114** leftover dual after **rq_2113 Résidence 3 Bruxelles**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took preferred deferred unused **Les Buissons / Château Sous Bois Spa** YE2025 (KBO **0466.961.859**; Chemin Sous-Bois 22 Spa; **BV/SRL** NACE **87.301** / **1 VE**; **Korian Belgium** bestuurder/gedelegeerd **0869.769.702** path). Do not redo Résidence 3/Elisabeth Aan Zee/XXe Août/Ninove/Zilverlinde/Sint-Camillus/IDELUX*/INTRADEL/ORES SC/Korian holding/Comnexio/SLG*/Always Home/AGB Bornem.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR4751876** JUMP +1.00%; bruto **EUR3660061** DROP −1.34%; pnl **LOSS EUR-288584** LOSS WIDEN −628.78% vs YE2024 LOSS EUR-39598; equity **EUR165283** DROP −63.58% vs YE2024 EUR453867; FTE **54.3** (YoY Unknown); neerlegging **28.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@korian.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.8); entities (+1 bv_les_buissons_spa); foi + draft gap_les_buissons_spa_nbb_pdf_assets_debt_pnl_loss_widen_equity_drop_matrix_l5; rq_2114=done + rq_2115 open; loop_state ticks=2114; raw docs/doge/data/raw/tick2114/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2110**; next **2120**). Next: rq_2115 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).

@@ -52639,3 +52639,8 @@ bud_residence_3_bruto_jr2025_statutory,nv_residence_3_bruxelles,2025,4217863,421
 bud_residence_3_pnl_jr2025_statutory,nv_residence_3_bruxelles,2025,-754218,-754218,-754218,CW YE2025 Profit/Loss,src_residence_3_jr2025_cw_en,medium,tick2113; LOSS NARROW +37.6% vs YE2024 LOSS -1208632
 bud_residence_3_equity_jr2025_statutory,nv_residence_3_bruxelles,2025,-2506120,-2506120,-2506120,CW YE2025 Eigen vermogen / Equity,src_residence_3_jr2025_cw_en,medium,tick2113; NEG DROP −43.05% vs YE2024 NEG -1751903
 bud_residence_3_fte_jr2025_statutory,nv_residence_3_bruxelles,2025,90.4,90.4,90.4,CW social-balance FTE / Employees,src_residence_3_jr2025_cw_en,medium,tick2113; FTE JUMP 90.4 vs YE2024 78.7
+bud_les_buissons_omzet_jr2025_statutory,bv_les_buissons_spa,2025,4751876,4751876,4751876,CW YE2025 omzet / Turnover (primary envelope MRS BV),src_les_buissons_jr2025_cw_en,medium,tick2114; JUMP +1.00% vs YE2024 4704912
+bud_les_buissons_bruto_jr2025_statutory,bv_les_buissons_spa,2025,3660061,3660061,3660061,CW YE2025 Brutomarge / Gross margin,src_les_buissons_jr2025_cw_en,medium,tick2114; DROP −1.34% vs YE2024 3709951
+bud_les_buissons_pnl_jr2025_statutory,bv_les_buissons_spa,2025,-288584,-288584,-288584,CW YE2025 Profit/Loss,src_les_buissons_jr2025_cw_en,medium,tick2114; LOSS WIDEN −628.78% vs YE2024 LOSS -39598
+bud_les_buissons_equity_jr2025_statutory,bv_les_buissons_spa,2025,165283,165283,165283,CW YE2025 Eigen vermogen / Equity,src_les_buissons_jr2025_cw_en,medium,tick2114; DROP −63.58% vs YE2024 453867
+bud_les_buissons_fte_jr2025_statutory,bv_les_buissons_spa,2025,54.3,54.3,54.3,CW social-balance FTE / Employees,src_les_buissons_jr2025_cw_en,medium,tick2114; FTE 54.3 (YoY Unknown)
