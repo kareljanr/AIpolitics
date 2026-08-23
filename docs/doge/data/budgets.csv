@@ -52387,3 +52387,8 @@ bud_olv_bornem_pnl_jr2025_statutory,vzw_seniorencentrum_olv_bornem,2025,97560,,,
 bud_olv_bornem_equity_jr2025_statutory,vzw_seniorencentrum_olv_bornem,2025,8979861,,,CW YE2025 Equity,src_olv_bornem_jr2025_cw_en,medium,tick2065; equity JUMP 8979861 +0.36pct vs YE2024 8948073
 bud_olv_bornem_bruto_jr2025_statutory,vzw_seniorencentrum_olv_bornem,2025,8498187,,,CW YE2025 Brutomarge / Gross margin,src_olv_bornem_jr2025_cw_en,medium,tick2065; bruto JUMP 8498187 +8.05pct vs YE2024 7865391
 bud_olv_bornem_fte_jr2025_statutory,vzw_seniorencentrum_olv_bornem,2025,94.4,,,CW social-balance FTE,src_olv_bornem_jr2025_cw_en,medium,tick2065; YE2025 FTE 94.4
+bud_deinze_zusters_omzet_jr2025_statutory,vzw_bejaardenzorg_zusters_sv_deinze,2025,10951934,,,CW YE2025 omzet / Turnover,src_deinze_zusters_jr2025_cw_en,medium,tick2066; omzet DROP 10951934 -1.49pct vs YE2024 11117960
+bud_deinze_zusters_pnl_jr2025_statutory,vzw_bejaardenzorg_zusters_sv_deinze,2025,-661300,,,CW YE2025 Profit/Loss,src_deinze_zusters_jr2025_cw_en,medium,tick2066; pnl DEEPER LOSS -661300 vs YE2024 LOSS -541401
+bud_deinze_zusters_equity_jr2025_statutory,vzw_bejaardenzorg_zusters_sv_deinze,2025,4780639,,,CW YE2025 Eigen vermogen / Equity,src_deinze_zusters_jr2025_cw_en,medium,tick2066; equity DROP 4780639 -12.82pct vs YE2024 5483612
+bud_deinze_zusters_bruto_jr2025_statutory,vzw_bejaardenzorg_zusters_sv_deinze,2025,11057428,,,CW YE2025 Brutomarge / Gross margin,src_deinze_zusters_jr2025_cw_en,medium,tick2066; bruto DROP 11057428 -3.14pct vs YE2024 11415649
+bud_deinze_zusters_fte_jr2025_statutory,vzw_bejaardenzorg_zusters_sv_deinze,2025,147.8,,,CW social-balance FTE,src_deinze_zusters_jr2025_cw_en,medium,tick2066; YE2025 FTE 147.8

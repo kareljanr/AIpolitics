@@ -23636,3 +23636,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.8); entities (+1 vzw_seniorencentrum_olv_bornem); foi + draft gap_olv_bornem_nbb_pdf_assets_debt_pnl_flip_profit_matrix_l5; rq_2065=done + rq_2066 open; loop_state ticks=2065; raw under docs/doge/data/raw/tick2065/.
 - FOI: **ready not sent** (human-gated; info@seniorencentrum-olv.be).
 - NOT every-10 (**next every-10 is 2070**). Next: rq_2066 (AGB/FARO-if-YE2025 / AIESH-REW / Bejaardenzorg Zusters Deinze deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2066 - 2026-08-24T21:35:00Z - rq_2066 Zusters SV Deinze (omzet DROP 10.95m / pnl DEEPER LOSS 0.66m / Medium)
+
+- Unit: **rq_2066** leftover dual after **rq_2065 Seniorencentrum OLV Bornem**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took preferred leftover **Bejaardenzorg Zusters Sint-Vincentius Deinze** YE2025 (KBO **0454.090.355**; Ten Bosse 150 Deinze; Oost-Vlaanderen **aanbestedende-overheid VZW** WZC / **2 VE**). Leiehome / Compostela / Always Home / Vulpia YE2025 also live - deferred. Do not redo OLV Bornem/Huize Sint-Jozef Ieper/Sint-Antonius/OLV Wezembeek/Ter Burg/Christine/Vrijzicht/'t Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/Lourdes/St Vincentius Antwerpen/Rillaar/Karus/De Foyer/Sint-Jozef Rumst/Veilige Have/Witte Meren/Zusterhof.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR10,951,934** DROP -1.49%; pnl **LOSS EUR-661,300** DEEPER vs YE2024 LOSS EUR-541,401; equity **EUR4,780,639** DROP -12.82%; bruto **EUR11,057,428** DROP -3.14%; FTE **147.8**; neerlegging **06.08.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende overheid 2 VE; email info@svbejaardenzorg.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_bejaardenzorg_zusters_sv_deinze); foi + draft gap_deinze_zusters_nbb_pdf_assets_debt_pnl_deeper_loss_matrix_l5; rq_2066=done + rq_2067 open; loop_state ticks=2066; raw under docs/doge/data/raw/tick2066/.
+- FOI: **ready not sent** (human-gated; info@svbejaardenzorg.be).
+- NOT every-10 (**next every-10 is 2070**). Next: rq_2067 (AGB/FARO-if-YE2025 / AIESH-REW / Leiehome-Compostela-AlwaysHome-Vulpia deferred / unused DSO-IGS-HVZ-WZC-psych).
