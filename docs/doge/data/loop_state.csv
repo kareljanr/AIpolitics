@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T22:45:00Z,rq_1903,1903,no,tick1903 leftover C-Power Holdco 0472.967.347 Medium CW (equity 112.5m pnl LOSS 0.32m DROP from +22.6m bruto NEG omzet empty FTE 0 assets Unknown); NBB PDF+share%+FVA FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1904; next every-10 1910; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T23:15:00Z,rq_1904,1904,no,tick1904 leftover Rentel 0842.251.889 Medium CW+Upswitch (omzet 134m bruto 99.3m pnl 26.2m assets 690m equity 140m EBITDA 95m FTE 0); NBB PDF+share%+debt+PPA FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1905; next every-10 1910; continuous hole_fill

@@ -51471,3 +51471,9 @@ bud_cphc_bruto_jr2025,nv_cphc,2025,-29353,,,CW NBB-derived 9900 NEG,src_cphc_jr2
 bud_cphc_pnl_jr2025,nv_cphc,2025,-321312,,,CW NBB-derived 9904 LOSS,src_cphc_jr2025_cw,medium,tick1903; YE2025 LOSS -321312 DROP vs PROFIT 22596928 2024
 bud_cphc_equity_jr2025,nv_cphc,2025,112510120,,,CW NBB-derived 10/15,src_cphc_jr2025_cw,medium,tick1903; YE2025 equity 112510120 JUMP +10.6pct
 bud_cphc_fte_jr2025,nv_cphc,2025,0,,,CW NBB-derived FTE,src_cphc_jr2025_cw,medium,tick1903; YE2025 FTE 0 holding shell
+bud_rentel_omzet_jr2025,nv_rentel,2025,134117106,,,CW/Upswitch NBB-derived code 70,src_rentel_jr2025_cw,medium,tick1904; YE2025 omzet 134117106 DROP -5.63pct
+bud_rentel_bruto_jr2025,nv_rentel,2025,99291529,,,CW NBB-derived 9900,src_rentel_jr2025_cw,medium,tick1904; YE2025 bruto 99291529
+bud_rentel_pnl_jr2025,nv_rentel,2025,26166215,,,CW NBB-derived 9904,src_rentel_jr2025_cw,medium,tick1904; YE2025 pnl 26166215 DROP -22.86pct
+bud_rentel_assets_jr2025,nv_rentel,2025,690088291,,,Upswitch NBB/CBSO 20/58,src_rentel_jr2025_upswitch,medium,tick1904; YE2025 assets 690088291 DROP vs 719.6m
+bud_rentel_equity_jr2025,nv_rentel,2025,140323315,,,CW/Upswitch NBB-derived 10/15,src_rentel_jr2025_cw,medium,tick1904; YE2025 equity 140323315 JUMP +13.77pct
+bud_rentel_ebitda_jr2025,nv_rentel,2025,95070040,,,Upswitch NBB/CBSO EBITDA,src_rentel_jr2025_upswitch,medium,tick1904; YE2025 EBITDA 95070040 ~71pct omzet

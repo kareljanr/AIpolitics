@@ -22151,3 +22151,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_cphc_nbb_pdf_assets_share_pnl_drop_l5; rq_1903=done + rq_1904 open; loop_state ticks=1903.
 - FOI opened: NBB PDF + assets/share % / FVA for pnl DROP (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1910**). Next: rq_1904 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Northwind-Rentel-SeaMade holdcos).
+
+
+## Tick 1904 - 2026-08-26T23:15:00Z - rq_1904 Rentel (omzet 134m / assets 690m / pnl 26.2m / Medium)
+
+- Unit: **rq_1904** leftover dual after C-Power Holdco. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **Rentel NV** (KBO **0842.251.889**; Buskruitstraat 3 Oostende **Otary seat**; offshore wind park 309 MW; bestuurder o.m. **Nuhma cv**). Northwind/Otary Bis also live YE2025 deferred.
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0842251889/rentel) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/rentel-0842251889) (neerlegging **06.07.2026**; YE **31.12.2025**): omzet **EUR134,117,106**; bruto **EUR99,291,529**; PnL **EUR26,166,215**; assets **EUR690,088,291**; equity **EUR140,323,315**; EBITDA **EUR95,070,040**; FTE **0**.
+- Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_rentel_nbb_pdf_share_debt_ppa_l5; rq_1904=done + rq_1905 open; loop_state ticks=1904.
+- FOI opened: NBB PDF + share % / debt / PPA (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1910**). Next: rq_1905 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Northwind/Otary Bis/SeaMade).
