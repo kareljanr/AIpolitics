@@ -24015,3 +24015,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.0); entities (+1 igs_idelux_developpement); foi + draft gap_idelux_dev_nbb_pdf_assets_debt_pnl_flip_loss_omzet_drop_matrix_l5; rq_2107=done + rq_2108 open; loop_state ticks=2107; raw docs/doge/data/raw/tick2107/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2100**; next **2110**). Next: rq_2108 (AGB/FARO-if-YE2025 / AIESH-REW / unused WZC Camillus/Zilverlinde deferred).
+
+
+## Tick 2108 - 2026-08-25T07:25:00Z - rq_2108 WZC Sint-Camillus Wevelgem (omzet JUMP 8.42m / pnl JUMP 0.16m / FTE DROP / Medium)
+
+- Unit: **rq_2108** leftover dual after **rq_2107 IDELUX Développement**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took preferred deferred unused **WZC Sint-Camillus Wevelgem** YE2025 (KBO **0417.958.152**; Kloosterstraat 21 Wevelgem; **VZW** NACE **87.101** / **1 VE**). Do not redo IDELUX*/INTRADEL/ORES SC/Korian/Comnexio/SLG*/Always Home/AGB Bornem.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR8423064** JUMP +4.07%; bruto **EUR8383864** JUMP +0.86%; pnl **EUR157847** JUMP +208.1% vs YE2024 EUR51233; equity **EUR4941991** JUMP +1.92%; FTE **115.8** DROP vs ~123.8; neerlegging **01.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@wzcsintcamillus.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_wzc_sint_camillus_wevelgem); foi + draft gap_sint_camillus_wevelgem_nbb_pdf_assets_debt_pnl_jump_fte_drop_matrix_l5; rq_2108=done + rq_2109 open; loop_state ticks=2108; raw docs/doge/data/raw/tick2108/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2100**; next **2110**). Next: rq_2109 (AGB/FARO-if-YE2025 / AIESH-REW / unused WZC Zilverlinde deferred).
