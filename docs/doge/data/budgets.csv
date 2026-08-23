@@ -51698,3 +51698,7 @@ bud_resa_assets_jr2025,resa,2025,2247279341,,,Upswitch NBB/CBSO assets,src_resa_
 bud_resa_ebitda_jr2025,resa,2025,146042926,,,Upswitch NBB/CBSO EBITDA,src_resa_jr2025_upswitch,medium,tick1940; YE2025 EBITDA 146042926
 bud_resa_opresult_jr2025,resa,2025,85026603,,,Upswitch NBB/CBSO operating result,src_resa_jr2025_upswitch,medium,tick1940; YE2025 operating result 85026603
 bud_resa_fte_jr2025,resa,2025,931,,,CW NBB-derived FTE 930.6,src_resa_jr2025_cw,medium,tick1940; YE2025 FTE 930.6 (stored 931)
+bud_atrias_omzet_jr2025,cv_atrias,2025,61836948,,,CW NBB-derived omzet,src_atrias_jr2025_cw,medium,tick1941; YE2025 omzet 61836948 DROP -18.48pct vs 75855258
+bud_atrias_equity_jr2025,cv_atrias,2025,18600,,,CW NBB-derived equity,src_atrias_jr2025_cw,medium,tick1941; YE2025 equity 18600 flat (pass-through coop shell)
+bud_atrias_bruto_jr2025,cv_atrias,2025,21921140,,,CW NBB-derived bruto,src_atrias_jr2025_cw,medium,tick1941; YE2025 bruto 21921140 DROP -10.76pct
+bud_atrias_fte_jr2025,cv_atrias,2025,40,,,CW NBB-derived FTE 40.2,src_atrias_jr2025_cw,medium,tick1941; YE2025 FTE 40.2 (stored 40; was 32.2)

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-27T17:15:00Z,rq_1940,1940,no,tick1940 EVERY-10 progress+waste top10 (A/B 100pct; D residual dual 1931-1940 Elia/Fluxys/Enodia continuum; FOI ready 1555); AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2024; NextGrid no JR; next rq_1941; next every-10 1950; continuous hole_fill
+main,continuous,hole_fill,2026-08-27T17:45:00Z,rq_1941,1941,no,tick1941 leftover Atrias 0836.258.873 Medium CW (omzet 61.8m DROP equity 18.6k bruto DROP 21.9m FTE 40.2 pnl/assets Unknown); NBB PDF+DSO recharge FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2024; next rq_1942; next every-10 1950; continuous hole_fill

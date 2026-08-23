@@ -22472,3 +22472,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress + waste markdown; rq_1940=done (deduped open twins) + rq_1941 open; loop_state ticks=1940.
 - FOI opened: none new this tick.
 - **EVERY-10 DONE.** Next every-10 is **1950**. Next: rq_1941 (AGB/Dijk92-if-200 / FARO-if-YE2025 / otherHVZ-IGS).
+
+
+## Tick 1941 - 2026-08-27T17:45:00Z - rq_1941 Atrias (omzet DROP 61.8m / equity 18.6k / Medium)
+
+- Unit: **rq_1941** leftover dual after RESA EVERY-10 (1940 already pushed by concurrent agent). Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO still **YE2024**; Sibelga/ORES/Fluxys Belgium already mined. Took leftover **Atrias CV** (KBO **0836.258.873**; Koning Albert II-laan 37 Schaarbeek; Belgian **DSO market data hub**; aanbestedende overheid; Fluvius/ORES/Sibelga/RESA joint; NON-Eneco).
+- Primary hunt: NBB deposit PDF unresolved; Upswitch still featuring YE2024 assets. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0836258873/atrias) + KBO (neerlegging **30.05.2026**; YE **31.12.2025**): omzet **EUR61,836,948** (**DROP -18.48%**); bruto **EUR21,921,140** (**DROP -10.76%**); equity **EUR18,600** (flat); FTE **40.2** (was 32.2); PnL / assets **Unknown**.
+- Wrote: sources (+3); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_atrias_nbb_pdf_assets_debt_dso_recharge_l5; rq_1941=done + rq_1942 open; loop_state ticks=1941.
+- FOI opened: NBB PDF + DSO recharge matrix (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1950**; 1940 EVERY-10 already done with RESA). Next: rq_1942 (AGB/Dijk92-if-200 / FARO-if-YE2025 / otherHVZ-IGS).
