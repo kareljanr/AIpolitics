@@ -21786,3 +21786,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); entities (+1); commitments pending_foi; leaderboard FOI marker; foi_queue + draft gap_bosgroep_limburg_nbb_ye2025_unpublished_l5; rq_1861=blocked_foi + rq_1862 open; loop_state ticks=1861.
 - FOI opened: **gap_bosgroep_limburg_nbb_ye2025_unpublished_l5** (ready, human-send only).
 - Next: **rq_1862** leftover AGB/APB if PDF live, else Dijk92 if CDN 200, else FARO if TRUE NBB YE2025, else other Bosgroep/HVZ/IGS. **Next every-10 is 1870.**
+
+## Tick 1862 - 2026-08-26T03:05:00Z - rq_1862 Digipolis JR2025 GR PDF (equity NEG 4.11m continuity)
+
+- Unit: **rq_1862** leftover dual after Bosgroep Limburg FOI. Prefer NON-Eneco live. Hunt: AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2025 unpublished; Bosgroep Houtland/IJzer no YE2025 deposit. Took **AG Digipolis Antwerpen** — prior FOI said PDF opaque; **ebesluit document now LIVE**.
+- Primary (strong, [GR 2026_GR_00616 PDF 74p / 3.97MB](https://ebesluit.antwerpen.be/document/6a4509e83247ef1f6b6f4718)): balanstotaal **EUR73,605,124**; overschot **EUR109,871**; commissaris zonder voorbehoud; **NEW equity NEG EUR4,114,715** + ISA continuity emphasis (successive losses; AG financed via Stad Antwerpen). BBC J2 tables image-only residual.
+- Wrote: sources (+1); budgets (+3); commitments (+2); leaderboard (+2); entities update; foi old opaque→partial + new gap_digipolis_equity_neg_4_11m_continuity_j2_l5; rq_1862=done + rq_1863 open; loop_state ticks=1862.
+- FOI: residual J2 AFM/BBR/pers/debt + EV recovery path (**ready**, human-send only).
+- Next: **rq_1863** leftover AGB/Dijk92/FARO/Bosgroep-if-CDN/HVZ-IGS. **Next every-10 is 1870.**
