@@ -51535,3 +51535,10 @@ bud_greenoffshore_bruto_jr2025,nv_greenoffshore,2025,-24050,,,CW NBB-derived 990
 bud_greenoffshore_pnl_jr2025,nv_greenoffshore,2025,4147944,,,CW NBB-derived 9904,src_greenoffshore_jr2025_cw,medium,tick1915; YE2025 pnl 4147944 DROP -73.41pct vs 15.6m
 bud_greenoffshore_equity_jr2025,nv_greenoffshore,2025,24433671,,,CW NBB-derived 10/15,src_greenoffshore_jr2025_cw,medium,tick1915; YE2025 equity 24433671 flat -0.01pct
 bud_greenoffshore_fte_jr2025,nv_greenoffshore,2025,0,,,CW NBB-derived FTE,src_greenoffshore_jr2025_cw,medium,tick1915; YE2025 FTE 0 holding shell
+bud_cpower_omzet_jr2025,nv_cpower,2025,130535608,,,CW/Upswitch NBB-derived code 70,src_cpower_jr2025_cw,medium,tick1916; YE2025 omzet 130535608 DROP -8.05pct
+bud_cpower_bruto_jr2025,nv_cpower,2025,100572289,,,CW NBB-derived 9900,src_cpower_jr2025_cw,medium,tick1916; YE2025 bruto 100572289 DROP -7.59pct
+bud_cpower_pnl_jr2025,nv_cpower,2025,18358173,,,CW NBB-derived 9904,src_cpower_jr2025_cw,medium,tick1916; YE2025 pnl 18358173 DROP -18.68pct
+bud_cpower_assets_jr2025,nv_cpower,2025,536392038,,,Upswitch NBB/CBSO 20/58,src_cpower_jr2025_upswitch,medium,tick1916; YE2025 assets 536392038 DROP vs 579.9m
+bud_cpower_equity_jr2025,nv_cpower,2025,288983304,,,CW/Upswitch NBB-derived 10/15,src_cpower_jr2025_cw,medium,tick1916; YE2025 equity 288983304 JUMP +6.27pct
+bud_cpower_ebitda_jr2025,nv_cpower,2025,97032337,,,Upswitch NBB/CBSO EBITDA,src_cpower_jr2025_upswitch,medium,tick1916; YE2025 EBITDA 97032337 ~74.3pct omzet
+bud_cpower_fte_jr2025,nv_cpower,2025,21,,,CW NBB-derived FTE 20.9,src_cpower_jr2025_cw,medium,tick1916; YE2025 FTE 20.9 (stored 21)

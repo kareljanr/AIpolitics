@@ -22250,3 +22250,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_greenoffshore_nbb_pdf_assets_share_fva_l5; rq_1915=done + rq_1916 open; loop_state ticks=1915.
 - FOI opened: NBB PDF + assets/share % / FVA for pnl DROP (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1920**). Next: rq_1916 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other Otary-HVZ-IGS).
+
+## Tick 1916 - 2026-08-27T05:15:00Z - rq_1916 C-Power NV (omzet 130.5m / assets 536.4m / Medium)
+
+- Unit: **rq_1916** leftover dual after Green Offshore. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **C-Power NV** (KBO **0466.525.755**; Buskruitstraat 1 Oostende; Thorntonbank **operating** park; distinct from mined **C-Power Holdco**; Z-Kracht/Nuhma public path).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0466525755/c-power) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/c-power-0466525755) (neerlegging **01.06.2026**; YE **31.12.2025**): omzet **EUR130,535,608** (DROP -8.05%); bruto **EUR100,572,289**; PnL **EUR18,358,173** (DROP -18.68%); assets **EUR536,392,038**; equity **EUR288,983,304** (JUMP +6.27%); EBITDA **EUR97,032,337**; FTE **20.9**.
+- Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_cpower_nbb_pdf_share_debt_ppa_l5; rq_1916=done + rq_1917 open; loop_state ticks=1916.
+- FOI opened: NBB PDF + share % / debt / PPA (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1920**). Next: rq_1917 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Socofe-Elicio-HVZ).
