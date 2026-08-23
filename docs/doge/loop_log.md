@@ -23349,3 +23349,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_olva_antwerpen); foi + draft gap_wzc_olva_antwerpen_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2036=done + rq_2037 open; loop_state ticks=2036; raw under docs/doge/data/raw/tick2036/.
 - FOI: **ready not sent** (human-gated; info@olvantwerpen.be).
 - NOT every-10 (**next every-10 is 2040**). Next: rq_2037 (AGB/FARO-if-YE2025 / AIESH-REW / Kanunnik Triest / unused DSO-IGS-HVZ).
+
+
+## Tick 2037 - 2026-08-24T13:55:00Z - rq_2037 WZC Kanunnik Triest (omzet JUMP 7.78m / pnl JUMP 0.20m / Medium)
+
+- Unit: **rq_2037** leftover dual after **rq_2036 OLVA Antwerpen**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024**. Took deferred leftover **WZC Kanunnik Triest** YE2025 (KBO **0410.509.443**; Kloosterstraat 33 Merelbeke-Melle; Oost-Vlaanderen **WZC VZW**). Do not redo OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR7,775,103** JUMP +3.38%; pnl **EUR197,591** JUMP +66.72%; equity **EUR5,219,638** JUMP +4.45%; bruto **EUR8,102,429** FLAT +0.01%; FTE **105.1**; neerlegging **01.08.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 2 VE; email info@wzckt.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_kanunnik_triest); foi + draft gap_wzc_kanunnik_triest_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2037=done + rq_2038 open; loop_state ticks=2037; raw under docs/doge/data/raw/tick2037/.
+- FOI: **ready not sent** (human-gated; info@wzckt.be).
+- NOT every-10 (**next every-10 is 2040**). Next: rq_2038 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).

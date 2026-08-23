@@ -52240,3 +52240,8 @@ bud_wzc_olva_antwerpen_pnl_jr2025_statutory,vzw_wzc_olva_antwerpen,2025,76807,,,
 bud_wzc_olva_antwerpen_equity_jr2025_statutory,vzw_wzc_olva_antwerpen,2025,13738639,,,CW YE2025 Eigen vermogen,src_wzc_olva_antwerpen_jr2025_cw,medium,tick2036; equity DROP 13738639 -2.31pct vs YE2024 14063307
 bud_wzc_olva_antwerpen_bruto_jr2025_statutory,vzw_wzc_olva_antwerpen,2025,11254590,,,CW YE2025 Brutomarge,src_wzc_olva_antwerpen_jr2025_cw,medium,tick2036; bruto DROP 11254590 -2.44pct vs YE2024 11536044
 bud_wzc_olva_antwerpen_fte_jr2025_statutory,vzw_wzc_olva_antwerpen,2025,143.4,,,CW social-balance FTE,src_wzc_olva_antwerpen_jr2025_cw,medium,tick2036; YE2025 FTE 143.4
+bud_wzc_kanunnik_triest_omzet_jr2025_statutory,vzw_wzc_kanunnik_triest,2025,7775103,,,CW YE2025 omzet / Turnover,src_wzc_kanunnik_triest_jr2025_cw,medium,tick2037; omzet JUMP 7775103 +3.38pct vs YE2024 7520630
+bud_wzc_kanunnik_triest_pnl_jr2025_statutory,vzw_wzc_kanunnik_triest,2025,197591,,,CW YE2025 Profit/Loss,src_wzc_kanunnik_triest_jr2025_cw,medium,tick2037; pnl JUMP 197591 +66.72pct vs YE2024 118518
+bud_wzc_kanunnik_triest_equity_jr2025_statutory,vzw_wzc_kanunnik_triest,2025,5219638,,,CW YE2025 Eigen vermogen,src_wzc_kanunnik_triest_jr2025_cw,medium,tick2037; equity JUMP 5219638 +4.45pct vs YE2024 4997217
+bud_wzc_kanunnik_triest_bruto_jr2025_statutory,vzw_wzc_kanunnik_triest,2025,8102429,,,CW YE2025 Brutomarge,src_wzc_kanunnik_triest_jr2025_cw,medium,tick2037; bruto FLAT 8102429 +0.01pct vs YE2024 8102017
+bud_wzc_kanunnik_triest_fte_jr2025_statutory,vzw_wzc_kanunnik_triest,2025,105.1,,,CW social-balance FTE,src_wzc_kanunnik_triest_jr2025_cw,medium,tick2037; YE2025 FTE 105.1
