@@ -22314,3 +22314,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_fso_nbb_pdf_debt_igs_billing_l5; rq_1923=done + rq_1924 open; loop_state ticks=1923.
 - FOI opened: NBB PDF + debt at 10.2bn / IGS related-party billing (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1930**). Next: rq_1924 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Socofe-WE-HVZ).
+
+## Tick 1924 - 2026-08-27T09:15:00Z - rq_1924 HVZ Meetjesland (ontvangsten GD 6.76m / gemeentelijke 3.15m / Strong)
+
+- Unit: **rq_1924** leftover dual after Fluvius SO. Prefer NON-Eneco live HVZ/IGS. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO YE2024; Socofe/WE YE2024; Fluvius Antwerpen already mined 1386. Took leftover **Hulpverleningszone Meetjesland** (KBO **0500.927.596**; Gentsesteenweg 2 Eeklo; Aalter/Eeklo/Kaprijke/Maldegem/Sint-Laureins). Virya YE2025 live deferred.
+- Primary: official [Jaarrekening 2025 PDF](https://www.zonemeetjesland.be/data/content/file/jaarrekening-2025.pdf) (zoneraad **18.03.2026**). **Strong** euros: GD ontvangsten **EUR6,757,801**; gemeentelijke **EUR3,151,013**; federale **EUR1,430,371**; retributies **EUR758,926**; pers **EUR4,551,599**; begrotingsresultaat GD **EUR1,227,080**; assets **EUR4,108,978.77**; nettoactief **EUR3,099,615.80**; ST debt **EUR1,009,362.97**; cash **EUR1,885,921.01**.
+- Wrote: sources (+2); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_hvzmeet_afm_fte_debt_dotatie_matrix_l5; rq_1924=done + rq_1925 open; loop_state ticks=1924.
+- FOI opened: AFM/FTE/debt/dotatie matrix (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1930**). Next: rq_1925 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Socofe-WE-Virya-otherHVZ).

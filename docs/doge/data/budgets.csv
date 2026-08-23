@@ -51587,3 +51587,10 @@ bud_fso_assets_jr2025,cv_fluvius_so,2025,10202722563,,,Upswitch NBB/CBSO 20/58,s
 bud_fso_equity_jr2025,cv_fluvius_so,2025,993793597,,,CW/Upswitch NBB-derived 10/15,src_fso_jr2025_cw,medium,tick1923; YE2025 equity 993793597 flat
 bud_fso_ebitda_jr2025,cv_fluvius_so,2025,21313641,,,Upswitch NBB/CBSO EBITDA,src_fso_jr2025_upswitch,medium,tick1923; YE2025 EBITDA 21313641 DROP vs 26.3m; expl 21271441
 bud_fso_fte_jr2025,cv_fluvius_so,2025,5326,,,CW NBB-derived FTE 5326.3,src_fso_jr2025_cw,medium,tick1923; YE2025 FTE 5326.3 (stored 5326)
+bud_hvzmeet_assets_jr2025,hvz_meetjesland,2025,4108979,,,Official BBC PDF TOTAAL ACTIVA,src_hvzmeet_jr2025_pdf,strong,tick1924; YE2025 assets 4108978.77
+bud_hvzmeet_equity_jr2025,hvz_meetjesland,2025,3099616,,,Official BBC PDF Nettoactief,src_hvzmeet_jr2025_pdf,strong,tick1924; YE2025 nettoactief 3099615.80 DROP vs 3611583.20
+bud_hvzmeet_ontvangsten_gd_jr2025,hvz_meetjesland,2025,6757801,,,Official verslag GD ontvangsten,src_hvzmeet_jr2025_pdf,strong,tick1924; YE2025 GD ontvangsten 6757801
+bud_hvzmeet_gemeentelijke_jr2025,hvz_meetjesland,2025,3151013,,,Official verslag gemeentelijke dotaties GD,src_hvzmeet_jr2025_pdf,strong,tick1924; YE2025 gemeentelijke dotaties GD 3151013
+bud_hvzmeet_federale_jr2025,hvz_meetjesland,2025,1430371,,,Official verslag federale dotaties,src_hvzmeet_jr2025_pdf,strong,tick1924; YE2025 federale dotaties 1430371
+bud_hvzmeet_pers_jr2025,hvz_meetjesland,2025,4551599,,,Official verslag personeelskosten,src_hvzmeet_jr2025_pdf,strong,tick1924; YE2025 personeelskosten 4551599
+bud_hvzmeet_begrotingsresultaat_gd_jr2025,hvz_meetjesland,2025,1227080,,,Official verslag begrotingsresultaat GD,src_hvzmeet_jr2025_pdf,strong,tick1924; YE2025 begrotingsresultaat GD 1227080
