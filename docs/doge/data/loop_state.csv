@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T19:45:00Z,rq_1897,1897,no,tick1897 leftover Biostoom Oostende 0883.912.203 Medium CW+Upswitch (omzet 26.9m bruto 20.0m pnl 10.6m assets 33.4m equity 14.6m EBITDA 15.9m FTE 27.1); NBB PDF+share%+debt+PPA FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1898; next every-10 1900; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T20:15:00Z,rq_1898,1898,no,tick1898 leftover Z-Kracht 0832.420.049 Medium CW (equity 124.6m pnl 4.32m DROP -77pct bruto NEG omzet empty FTE 0 assets Unknown); NBB PDF+share%+FVA FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1899; next every-10 1900; continuous hole_fill

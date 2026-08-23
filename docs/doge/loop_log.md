@@ -22097,3 +22097,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_biostoom_oo_nbb_pdf_share_debt_ppa_l5; rq_1897=done + rq_1898 open; loop_state ticks=1897.
 - FOI opened: NBB PDF + share % / debt / gate-fee PPA (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1900**). Next: rq_1898 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS/IOED/Mijnen).
+
+
+## Tick 1898 - 2026-08-26T20:15:00Z - rq_1898 Z-Kracht (equity 124.6m / pnl 4.32m DROP / Medium)
+
+- Unit: **rq_1898** leftover dual after Biostoom Oostende. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only** (finance/AGB URLs 404); Dijk92 CDN **2026-00377886 still 403**; FARO NBB YE2025 unpublished. Took leftover **Z-Kracht NV** (KBO **0832.420.049**; Herkenrodesingel 14 Hasselt **Nuhma seat**; offshore wind holding; Nuhma cv dagelijks bestuur; aanbestedende overheid).
+- Primary hunt: NBB CDN deposit unresolved; Upswitch profile empty this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0832420049/z-kracht) + KBO + Northdata filing notice (neerlegging **14.05.2026**; YE **31.12.2025**): omzet **empty**; bruto **NEG EUR-147,024**; PnL **EUR4,315,764** (**DROP -76.51%**); equity **EUR124,618,951**; FTE **0**; assets **Unknown**.
+- Wrote: sources (+3); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_zkracht_nbb_pdf_assets_share_fva_l5; rq_1898=done + rq_1899 open; loop_state ticks=1898.
+- FOI opened: NBB PDF + assets/share % / FVA for pnl DROP (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1900**). Next: rq_1899 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Limburg Wind CV / Fairville / other HVZ-IGS).
