@@ -23430,3 +23430,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.3); entities (+1 vzw_wzc_de_verlosser_dilbeek); foi + draft gap_wzc_de_verlosser_dilbeek_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2044=done + rq_2045 open; loop_state ticks=2044; raw under docs/doge/data/raw/tick2044/.
 - FOI: **ready not sent** (human-gated; info@wzcdeverlosser.be).
 - NOT every-10 (**next every-10 is 2050**). Next: rq_2045 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2045 - 2026-08-24T16:25:00Z - rq_2045 AGB Bornem (assets JUMP 21.87m / debt 20.50m / Strong)
+
+- Unit: **rq_2045** leftover dual after **rq_2044 WZC De Verlosser Dilbeek**. Prefer cascade: AGB/APB if JR2025 live → FARO if NBB YE2025 → AIESH/REW if YE2025 → unused. Took long-deferred **AGB Bornem** JR2024 (KBO **0877.556.624**; Hingenesteenweg 13 Bornem) — official municipal statutair+BBC+RvB live; JR2025 still unpublished. FARO/AIESH/REW still YE2024-only. De Verlosser already mined (1742 + concurrent 2044 CW). Do not redo De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/C.W.Z.C. Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara/PC Gent-Sleidinge/Molenheide/Veilige Have/Witte Meren.
+- Found: Official statutair YE2024 — assets **EUR21,871,182** JUMP +11.41%; equity **EUR1,360,756** JUMP +274%; debt **EUR20,499,767** JUMP +6.47%; bruto **EUR2,767,146** DROP −12.50%; pnl **EUR1,379,250** DROP −33.64%; cash **EUR646,906** DROP −24.41%; ebit **EUR1,926,693**; budgettair **EUR2,764,770** (RvB); guaranteed **EUR17,794,002**; omzet/60-61/62 empty; FTE **0**; vaststelling **14.10.2025**. Strong confidence. CW NL+EN+FR Medium corroboration. Strong KBO Actief.
+- Wrote: sources (+8); budgets (+7); commitments (+1); leaderboard (+1 pi 5.9); entities (update agb_bornem); foi + draft gap_agb_bornem_omzet_empty_debt_20_50m_jr2025_l5; rq_2045=done + rq_2046 open; loop_state ticks=2045; raw under docs/doge/data/raw/tick2045/.
+- FOI: **ready not sent** (human-gated; financien@bornem.be). Sister gap_bornem_dual_jr2025 still ready.
+- NOT every-10 (**next every-10 is 2050**). Next: rq_2046 (FARO-if-YE2025 / AIESH-REW-if-YE2025 / unused DSO-IGS-HVZ-WZC-psych).
