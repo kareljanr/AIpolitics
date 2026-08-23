@@ -21587,3 +21587,11 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_swind_endevr_0_59m_be_guarantee_0_36m_loss_5k_l5 (**ready**, human-send only)
 - NOT every-10 (next **1840**). Next: rq_1838 (Eneco Wind BE-if-200 / AGB / Dijk92 / FARO).
 
+## Tick 1838 - 2026-08-25T16:40:00Z - rq_1838 Williwaw NV (connected LT JUMP 4.94m / omzet JUMP 0.73m)
+
+- Unit: **rq_1838** leftover dual residual after Stroomvloed Wind; preferred AGB Bornem JR2024; Dijk92/Enebra/APEFE/NSZ CDN **403**; FARO YE2024. Eneco Wind Belgium parent deposit unresolved. Took leftover **Williwaw NV** (Eneco Wind Belgium **100%** dual; KBO **0831.181.716**; Pampero-adjacent deposit **2025-00521827**). Meltemi/Bayamo still candidates.
+- Primary (strong, NBB VOL-kap [2025-00521827](http://cdn.staatsbladmonitor.be/2025pdf/2025-00521827.pdf) CDN 200 / 48p 444538 bytes; AV **08.09.2025**; YE **01.04.2024-31.03.2025**; Deloitte/Bogaerts): assets JUMP **EUR8,023,561**; MVA JUMP **EUR6,496,661** (CIP **5,710,178** → machines + capex **1,042,042**); omzet JUMP **EUR729,370**; expl **EUR257,282**; fin kosten JUMP **EUR197,434**; PnL **EUR62,314** (dividend **0**); debt JUMP **EUR5,619,768** (connected LT **4,937,480**); connected ST recv JUMP **EUR757,309**; equity **EUR2,030,352** (overgedragen verlies **379,648**); milieu JUMP **EUR373,440**; cash **EUR506,110**; VTE empty; post-BS merge Maloja+Zephiros **01.04.2025**; continuity via Eneco group.
+- Wrote: entities nv_williwaw; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1838=done + rq_1839 spawned; loop_state ticks=1838; FOI draft gap_williwaw_connected_lt_4_94m_omzet_0_73m_merge_l5.md
+- FOI opened: gap_williwaw_connected_lt_4_94m_omzet_0_73m_merge_l5 (**ready**, human-send only)
+- NOT every-10 (next **1840**). Next: rq_1839 (Eneco Wind BE / Meltemi / Bayamo / AGB / Dijk92 / FARO).
+
