@@ -21628,3 +21628,11 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_ornoi_electrabel_eneco_50_50_cip_0_50m_milieu_0_60m_l5 (**ready**, human-send only)
 - NOT every-10 (next **1850**). Next: rq_1843 (Perwez/Bois du Prince-if-200 / AGB / Dijk92 / FARO).
 
+## Tick 1843 - 2026-08-25T18:45:00Z - rq_1843 Les Vents de Perwez NV (Eneco 75pct + Electrabel 25pct / assets DROP 0.21m)
+
+- Unit: **rq_1843** leftover dual residual after Ornoi; preferred AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2024. Took deferred live **Les Vents de Perwez NV** (Eneco **75.12%** + Electrabel **24.88%**; KBO **0866.959.175**; deposit **2025-00521826**). Bois du Prince deferred.
+- Primary (strong, NBB C-cap [2025-00521826](http://cdn.staatsbladmonitor.be/2025pdf/2025-00521826.pdf) CDN 200 / 40p 478869 bytes; AV **03.09.2025**; YE **01.04.2024-31.03.2025**): assets DROP **EUR205,675** (was **1,634,960**); omzet **70 empty**; expl LOSS **EUR84,981**; PnL **EUR18,640** (tax credit **105,367**); equity **EUR205,675** (debt empty on BS; prior **1,447,925**); cash DROP **EUR179,412** (was **1,306,503**); land-only **EUR25,343**; Belfius dismantle caution **EUR400,000** + bank pledge **EUR400,000**; prior dividend **325,000**; VTE empty.
+- Wrote: entities nv_vents_perwez; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1843=done + rq_1844 spawned; loop_state ticks=1843; FOI draft gap_perwez_eneco_electrabel_75_25_assets_drop_0_21m_omzet_empty_l5.md
+- FOI opened: gap_perwez_eneco_electrabel_75_25_assets_drop_0_21m_omzet_empty_l5 (**ready**, human-send only)
+- NOT every-10 (next **1850**). Next: rq_1844 (Bois du Prince-if-200 / AGB / Dijk92 / FARO).
+
