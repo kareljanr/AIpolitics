@@ -52100,3 +52100,8 @@ bud_az_oostende_pnl_jr2025_statutory,vzw_az_oostende,2025,2031443,,,CW YE2025 Pr
 bud_az_oostende_equity_jr2025_statutory,vzw_az_oostende,2025,165930443,,,CW YE2025 Eigen vermogen,src_az_oostende_jr2025_cw,medium,tick2008; equity JUMP 165930443 +9.10pct vs YE2024 152086573
 bud_az_oostende_bruto_jr2025_statutory,vzw_az_oostende,2025,159965423,,,CW YE2025 Brutomarge,src_az_oostende_jr2025_cw,medium,tick2008; bruto JUMP 159965423 +1.81pct vs YE2024 157127060
 bud_az_oostende_fte_jr2025_statutory,vzw_az_oostende,2025,1670.5,,,CW social-balance FTE,src_az_oostende_jr2025_cw,medium,tick2008; YE2025 FTE 1670.5
+bud_olvt_sint_blasius_omzet_jr2025_statutory,vzw_olvt_sint_blasius,2025,235942746,,,CW YE2025 omzet / Turnover,src_olvt_sint_blasius_jr2025_cw,medium,tick2009; omzet JUMP 235942746 +5.07pct vs YE2024 224562867; site bedrijfsopbrengsten 246957758 differ
+bud_olvt_sint_blasius_pnl_jr2025_statutory,vzw_olvt_sint_blasius,2025,1990218,,,CW YE2025 Profit/Loss,src_olvt_sint_blasius_jr2025_cw,medium,tick2009; pnl DROP 1990218 -56.78pct vs YE2024 4604650; site netto 2242668 differ
+bud_olvt_sint_blasius_equity_jr2025_statutory,vzw_olvt_sint_blasius,2025,82628815,,,CW YE2025 Eigen vermogen,src_olvt_sint_blasius_jr2025_cw,medium,tick2009; equity JUMP 82628815 +1.41pct vs YE2024 81476583
+bud_olvt_sint_blasius_bruto_jr2025_statutory,vzw_olvt_sint_blasius,2025,102389176,,,CW YE2025 Brutomarge,src_olvt_sint_blasius_jr2025_cw,medium,tick2009; bruto JUMP 102389176 +6.08pct vs YE2024 96522404
+bud_olvt_sint_blasius_fte_jr2025_statutory,vzw_olvt_sint_blasius,2025,1120,,,CW social-balance FTE,src_olvt_sint_blasius_jr2025_cw,medium,tick2009; YE2025 FTE 1120

@@ -23080,3 +23080,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_az_oostende); foi + draft gap_az_oostende_nbb_pdf_assets_debt_matrix_l5; rq_2008=done + rq_2009 open; loop_state ticks=2008; raw under docs/doge/data/raw/tick2008/.
 - FOI: **ready not sent** (human-gated; info@azoostende.be).
 - NOT every-10 (**next every-10 is 2010**). Next: rq_2009 (AGB/FARO-if-YE2025 / AIESH-REW / Zottegem-Palfijn-Turnhout / unused DSO-IGS-HVZ).
+
+
+## Tick 2009 - 2026-08-24T06:40:00Z - rq_2009 OLVT/AZ Sint-Blasius (omzet JUMP 235.94m / pnl DROP 1.99m / Medium)
+
+- Unit: **rq_2009** leftover dual after **rq_2008 AZ Oostende**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Zottegem/Turnhout/Waregem/Yperman CW **N/A omzet**. Took preferred leftover **OLVT / AZ Sint-Blasius** YE2025 (KBO **0411.975.133**; Kroonveldlaan 50 Dendermonde; Oost-Vlaanderen **hospital VZW**). Vlaamse Zorgkas YE2025 also live deferred. Do not redo AZ Oostende/Werken Glorieux/AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS/CHR Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR235,942,746** JUMP +5.07%; pnl **EUR1,990,218** DROP −56.78%; equity **EUR82,628,815** JUMP +1.41%; bruto **EUR102,389,176** JUMP +6.08%; FTE **1120**; neerlegging **16.06.2026**. Site kerncijfers bedrijfsopbrengsten **EUR246,957,758** / netto **EUR2,242,668** (differ). Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 3 VE; email info@azsintblasius.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_olvt_sint_blasius); foi + draft gap_olvt_sint_blasius_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2009=done + rq_2010 open (EVERY-10); loop_state ticks=2009; raw under docs/doge/data/raw/tick2009/.
+- FOI: **ready not sent** (human-gated; info@azsintblasius.be).
+- NOT every-10 (**next every-10 is 2010**). Next: rq_2010 (EVERY-10 + AGB/FARO-if-YE2025 / AIESH-REW / Vlaamse Zorgkas / unused DSO-IGS-HVZ).
