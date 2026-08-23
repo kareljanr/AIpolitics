@@ -51616,3 +51616,9 @@ bud_nethys_assets_jr2025,nv_nethys,2025,1721309773,,,Upswitch NBB/CBSO assets,sr
 bud_nethys_bruto_jr2025,nv_nethys,2025,-1289355,,,CW NBB-derived 9900,src_nethys_jr2025_cw,medium,tick1928; YE2025 bruto NEG -1289355
 bud_nethys_ebitda_jr2025,nv_nethys,2025,-1761549,,,Upswitch NBB/CBSO EBITDA,src_nethys_jr2025_upswitch,medium,tick1928; YE2025 EBITDA NEG -1761549
 bud_nethys_fte_jr2025,nv_nethys,2025,9,,,CW NBB-derived FTE 8.8,src_nethys_jr2025_cw,medium,tick1928; YE2025 FTE 8.8 (stored 9)
+bud_publit_pnl_jr2025,cv_publit,2025,1156254713,,,CW NBB-derived 9904,src_publit_jr2025_cw,medium,tick1929; YE to 30.09.2025 pnl 1156254713 JUMP >1000pct
+bud_publit_equity_jr2025,cv_publit,2025,2150151890,,,CW/Upswitch NBB-derived 10/15,src_publit_jr2025_cw,medium,tick1929; YE2025 equity 2150151890 JUMP +105.28pct
+bud_publit_assets_jr2025,cv_publit,2025,2742888649,,,Upswitch NBB/CBSO assets,src_publit_jr2025_upswitch,medium,tick1929; YE2025 assets 2742888649
+bud_publit_bruto_jr2025,cv_publit,2025,-3146071,,,CW NBB-derived 9900,src_publit_jr2025_cw,medium,tick1929; YE2025 bruto NEG -3146071
+bud_publit_ebitda_jr2025,cv_publit,2025,-3214455,,,Upswitch NBB/CBSO EBITDA,src_publit_jr2025_upswitch,medium,tick1929; YE2025 EBITDA NEG -3214455
+bud_publit_fte_jr2025,cv_publit,2025,0,,,CW NBB-derived FTE 0,src_publit_jr2025_cw,medium,tick1929; YE2025 FTE 0

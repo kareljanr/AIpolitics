@@ -22354,3 +22354,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_nethys_nbb_pdf_share_fva_debt_l5; rq_1928=done + rq_1929 open; loop_state ticks=1928.
 - FOI opened: NBB PDF + Enodia share % / FVA path / debt / Elicio-Orange stakes (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1930**). Next: rq_1929 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Publi-T-otherHVZ).
+
+## Tick 1929 - 2026-08-27T11:45:00Z - rq_1929 Publi-T (assets 2.74bn / equity JUMP 2.15bn / pnl JUMP 1.16bn / Medium)
+
+- Unit: **rq_1929** leftover dual after Nethys. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **2026-00377886 still 403**; FARO NBB still **YE2024**. Took deferred named leftover **Publi-T CV** (KBO **0475.048.986**; Ravensteingalerij 4/2 Brussel; municipal **aanbestedende overheid** Elia reference-shareholder cooperative; Fluvius/VEH dual; NON-Eneco).
+- Primary hunt: NBB deposit PDF unresolved this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0475048986/publi-t) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/publi-t-0475048986) + KBO (neerlegging **09.07.2026**; YE end **30.09.2025**): omzet **empty**; bruto **NEG EUR-3,146,071**; PnL **EUR1,156,254,713** (**JUMP >1000%**); equity **EUR2,150,151,890** (**JUMP +105.28%**); assets **EUR2,742,888,649**; EBITDA **NEG EUR-3,214,455**; FTE **0**.
+- Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_publit_nbb_pdf_share_fva_capital_jump_l5; rq_1929=done + rq_1930 open (EVERY-10); loop_state ticks=1929.
+- FOI opened: NBB PDF + municipal/VEH share % / FVA+capital JUMP recon / Elia stake (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1930**). Next: rq_1930 MUST refresh progress+waste top10 then hole-fill.
