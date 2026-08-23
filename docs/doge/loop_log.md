@@ -23726,3 +23726,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_wzc_sint_jozef_brugge_sint_michiels); foi + draft gap_sj_brugge_nbb_pdf_assets_debt_bruto_fte_drop_matrix_l5; rq_2075=done + rq_2076 open; loop_state ticks=2075; raw under docs/doge/data/raw/tick2075/.
 - FOI: **ready not sent** (human-gated; info@wooncentrum-st-jozef.be).
 - NOT every-10 (**next every-10 is 2080**). Next: rq_2076 (AGB/FARO-if-YE2025 / AIESH-REW / ZorgWelzijn-Kuurne deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2076 - 2026-08-25T00:05:00Z - rq_2076 Zorg en Welzijn Kuurne (omzet JUMP 16.40m / pnl DEEPER LOSS 0.18m / Medium)
+
+- Unit: **rq_2076** leftover dual after **rq_2075 SJ Brugge**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took preferred deferred leftover **Zorg en Welzijn Kuurne** YE2025 (KBO **0412.703.029**; Gasthuisstraat 26 Kuurne; West-Vlaanderen **aanbestedende-overheid VZW** WZC / **2 VE**; WZC Heilige Familie Kuurne ~168 + WZC Sint-Jozef Passendale). Do not redo SJ Brugge/HH Grimbergen/Mater Amabilis/Maria Moorslede/MSW NZVL/Welvaart/Vulpia/Compostela/Leiehome/Deinze/OLV Bornem/Huize SJ Ieper/Sint-Antonius/Wezembeek/Ter Burg/Christine/Vrijzicht/Pandje/Groep Zorg H. Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/Armonea/Always Home/Maria Ingelmunster/SJ Rumst/Rillaar.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR16399438** JUMP +3.78%; pnl **LOSS EUR-179732** DEEPER vs YE2024 LOSS EUR-165145; equity **EUR14293709** DROP -1.53%; bruto **EUR15744392** JUMP +3.23%; FTE **215.9** DROP -1.46% vs YE2024 219.1; neerlegging **09.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende overheid 2 VE; email info.kuurne@vzwzorgenwelzijn.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 vzw_zorg_en_welzijn_kuurne); foi + draft gap_zorg_welzijn_kuurne_nbb_pdf_assets_debt_pnl_deeper_loss_matrix_l5; rq_2076=done + rq_2077 open; loop_state ticks=2076; raw under docs/doge/data/raw/tick2076/.
+- FOI: **ready not sent** (human-gated; info.kuurne@vzwzorgenwelzijn.be).
+- NOT every-10 (**next every-10 is 2080**). Next: rq_2077 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
