@@ -50982,3 +50982,13 @@ bud_beauvent_lt_debt_12_58m_2025,cv_beauvent,2025,12576925,,,NBB VKT-inb YE2025,
 bud_beauvent_kapsubs_9_08m_2025,cv_beauvent,2025,9078512,,,NBB VKT-inb YE2025,src_beauvent_jr2025_nbb,strong,tick1823; kapitaalsubsidies 15 JUMP; not TE-additive of 348bn
 bud_beauvent_dividend_0_83m_2025,cv_beauvent,2025,827355,,,NBB VKT-inb YE2025,src_beauvent_jr2025_nbb,strong,tick1823; uit te keren winst 694/7; not TE-additive of 348bn
 bud_beauvent_fva_2_32m_2025,cv_beauvent,2025,2319031,,,NBB VKT-inb YE2025,src_beauvent_jr2025_nbb,strong,tick1823; FVA 28; not TE-additive of 348bn
+bud_ecopower_assets_94_83m_2025,cv_ecopower,2025,94828766,,,NBB VOL-inb YE2025,src_ecopower_jr2025_nbb,strong,tick1824; assets YE2025; not TE-additive of 348bn
+bud_ecopower_omzet_71_91m_2025,cv_ecopower,2025,71910110,,,NBB VOL-inb YE2025,src_ecopower_jr2025_nbb,strong,tick1824; omzet 70 JUMP; was 54966657; not TE-additive of 348bn
+bud_ecopower_opbr_73_49m_2025,cv_ecopower,2025,73490396,,,NBB VOL-inb YE2025,src_ecopower_jr2025_nbb,strong,tick1824; bedrijfsopbrengsten 70/76A; not TE-additive of 348bn
+bud_ecopower_pers_4_72m_2025,cv_ecopower,2025,4715854,,,NBB VOL-inb YE2025,src_ecopower_jr2025_nbb,strong,tick1824; bezoldigingen 62; VTE 48.2; not TE-additive of 348bn
+bud_ecopower_pnl_5_40m_2025,cv_ecopower,2025,5396612,,,NBB VOL-inb YE2025,src_ecopower_jr2025_nbb,strong,tick1824; PnL flip from -894181; not TE-additive of 348bn
+bud_ecopower_debt_26_63m_2025,cv_ecopower,2025,26626162,,,NBB VOL-inb YE2025,src_ecopower_jr2025_nbb,strong,tick1824; schulden 17/49; not TE-additive of 348bn
+bud_ecopower_lt_bank_8_97m_2025,cv_ecopower,2025,8966733,,,NBB VOL-inb YE2025,src_ecopower_jr2025_nbb,strong,tick1824; LT kredietinstellingen 173; not TE-additive of 348bn
+bud_ecopower_fva_part_10_12m_2025,cv_ecopower,2025,10121775,,,NBB VOL-inb YE2025,src_ecopower_jr2025_nbb,strong,tick1824; FVA deelnemingsverhouding 282/3; not TE-additive of 348bn
+bud_ecopower_dividend_3_07m_2025,cv_ecopower,2025,3068493,,,NBB VOL-inb YE2025,src_ecopower_jr2025_nbb,strong,tick1824; uit te keren winst 694; not TE-additive of 348bn
+bud_ecopower_beleg_6_01m_2025,cv_ecopower,2025,6005964,,,NBB VOL-inb YE2025,src_ecopower_jr2025_nbb,strong,tick1824; geldbeleggingen JUMP; was 16797; not TE-additive of 348bn

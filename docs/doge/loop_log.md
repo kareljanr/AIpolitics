@@ -21473,3 +21473,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities cv_beauvent; sources (+2); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1823=done + rq_1824 spawned; loop_state ticks=1823; FOI draft gap_beauvent_bruto_6_53m_debt_17_65m_omzet_empty_l5.md
 - FOI opened: gap_beauvent_bruto_6_53m_debt_17_65m_omzet_empty_l5 (**ready**, human-send only)
 - NOT every-10 (next **1830**). Next: rq_1824 (Ecopower-if-200 / AGB / Dijk92 / FARO / IGS).
+
+## Tick 1824 - 2026-08-25T11:15:00Z - rq_1824 Ecopower CV (omzet JUMP 71.91m / PnL flip 5.40m)
+
+- Unit: **rq_1824** leftover dual residual after Beauvent; preferred AGB Bornem still JR2024; Dijk92/APEFE CDN **403**; FARO YE2024 only. Took leftover **Ecopower CV** (Belgian citizen renewable co-op; KBO **0445.389.356**).
+- Primary (strong, NBB VOL-inb [2026-00104569](http://cdn.staatsbladmonitor.be/2026pdf/2026-00104569.pdf) CDN 200 / 55p; AV **25.04.2026**; Moore Audit oordeel zonder voorbehoud): assets **EUR94,828,766**; omzet **EUR71,910,110** JUMP (was **54,966,657**); opbr **EUR73,490,396**; pers **EUR4,715,854**; VTE **48.2**; expl **EUR5,442,914**; PnL flip **EUR5,396,612** (was **-894,181**); dividend **EUR3,068,493**; debt **EUR26,626,162** (LT bank **8,966,733**); FVA participants **EUR10,121,775**; beleg JUMP **EUR6,005,964**; equity **EUR66,092,913**; **159m kWh** geleverd.
+- Wrote: entities cv_ecopower; sources (+2); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1824=done + rq_1825 spawned; loop_state ticks=1824; FOI draft gap_ecopower_omzet_71_91m_pnl_flip_5_40m_fva_10_12m_l5.md
+- FOI opened: gap_ecopower_omzet_71_91m_pnl_flip_5_40m_fva_10_12m_l5 (**ready**, human-send only)
+- NOT every-10 (next **1830**). Next: rq_1825 (AGB / Dijk92 / FARO / APEFE / other IGS).

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-25T10:55:00Z,rq_1823,1823,no,tick1823 leftover Beauvent NBB YE2025 bruto 6527822 / debt 17648208 LT 12576925 / kapsubs 9078512 / pnl 1342892; KBO 0472.292.307; FOI empty omzet+debt+kapsubs; AGB Bornem JR2024; Dijk92/APEFE 403; FARO YE2024; NOT every-10 (next 1830); next rq_1824; continuous hole_fill
+main,continuous,hole_fill,2026-08-25T11:15:00Z,rq_1824,1824,no,tick1824 leftover Ecopower NBB YE2025 omzet 71910110 / pnl flip 5396612 / debt 26626162 / FVA 10121775 / dividend 3068493; KBO 0445.389.356; FOI FVA+beleg JUMP+dividend; AGB Bornem JR2024; Dijk92/APEFE 403; FARO YE2024; NOT every-10 (next 1830); next rq_1825; continuous hole_fill
