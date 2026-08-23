@@ -51524,3 +51524,10 @@ bud_powersea_bruto_jr2025,nv_powersea,2025,-20206,,,CW NBB-derived 9900 NEG,src_
 bud_powersea_pnl_jr2025,nv_powersea,2025,4175610,,,CW NBB-derived 9904,src_powersea_jr2025_cw,medium,tick1913; YE2025 pnl 4175610 DROP -72.91pct vs 15.4m
 bud_powersea_equity_jr2025,nv_powersea,2025,22195834,,,CW NBB-derived 10/15,src_powersea_jr2025_cw,medium,tick1913; YE2025 equity 22195834 DROP -1.01pct
 bud_powersea_fte_jr2025,nv_powersea,2025,0,,,CW NBB-derived FTE,src_powersea_jr2025_cw,medium,tick1913; YE2025 FTE 0 holding shell
+bud_norther_omzet_jr2025,nv_norther,2025,170798217,,,CW/Upswitch NBB-derived code 70,src_norther_jr2025_cw,medium,tick1914; YE2025 omzet 170798217 DROP -3.95pct
+bud_norther_bruto_jr2025,nv_norther,2025,132185278,,,CW NBB-derived 9900,src_norther_jr2025_cw,medium,tick1914; YE2025 bruto 132185278 DROP -6.32pct
+bud_norther_pnl_jr2025,nv_norther,2025,46175033,,,CW NBB-derived 9904,src_norther_jr2025_cw,medium,tick1914; YE2025 pnl 46175033 DROP -13.35pct
+bud_norther_assets_jr2025,nv_norther,2025,816676404,,,Upswitch NBB/CBSO 20/58,src_norther_jr2025_upswitch,medium,tick1914; YE2025 assets 816676404 DROP vs 867.4m
+bud_norther_equity_jr2025,nv_norther,2025,133774760,,,CW/Upswitch NBB-derived 10/15,src_norther_jr2025_cw,medium,tick1914; YE2025 equity 133774760 JUMP +3.25pct
+bud_norther_ebitda_jr2025,nv_norther,2025,129407528,,,Upswitch NBB/CBSO EBITDA,src_norther_jr2025_upswitch,medium,tick1914; YE2025 EBITDA 129407528 ~75.8pct omzet
+bud_norther_fte_jr2025,nv_norther,2025,17,,,CW NBB-derived FTE 16.6,src_norther_jr2025_cw,medium,tick1914; YE2025 FTE 16.6 (stored 17)

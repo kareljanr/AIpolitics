@@ -22234,3 +22234,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_powersea_nbb_pdf_assets_share_fva_l5; rq_1913=done + rq_1914 open; loop_state ticks=1913.
 - FOI opened: NBB PDF + assets/share % / FVA for pnl DROP (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1920**). Next: rq_1914 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Norther-if-live).
+
+## Tick 1914 - 2026-08-27T04:15:00Z - rq_1914 Norther (omzet 170.8m / assets 816.7m / Medium)
+
+- Unit: **rq_1914** leftover dual after Power@sea. Prefer named fallback. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **Norther NV** (KBO **0896.052.742**; Esplanadestraat 14 Oostende; **370 MW**; Elicio/Nethys **50%** + Eneco **50%**; distinct from Parkwind stack).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0896052742/norther) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/norther-0896052742) (neerlegging **30.04.2026**; YE **31.12.2025**): omzet **EUR170,798,217** (DROP -3.95%); bruto **EUR132,185,278**; PnL **EUR46,175,033** (DROP -13.35%); assets **EUR816,676,404**; equity **EUR133,774,760** (JUMP +3.25%); EBITDA **EUR129,407,528**; FTE **16.6**.
+- Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_norther_nbb_pdf_share_debt_ppa_l5; rq_1914=done + rq_1915 open; loop_state ticks=1914.
+- FOI opened: NBB PDF + share % / debt / PPA (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1920**). Next: rq_1915 (AGB/Dijk92-if-200 / FARO-if-YE2025 / GreenOffshore-if-live).
