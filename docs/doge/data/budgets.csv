@@ -52367,3 +52367,8 @@ bud_ter_burg_pnl_jr2025_statutory,vzw_wzc_ter_burg,2025,-483158,,,CW YE2025 Prof
 bud_ter_burg_equity_jr2025_statutory,vzw_wzc_ter_burg,2025,10671689,,,CW YE2025 Eigen vermogen / Equity,src_ter_burg_jr2025_cw_en,medium,tick2061; equity DROP 10671689 -7.82pct vs YE2024 11577433
 bud_ter_burg_bruto_jr2025_statutory,vzw_wzc_ter_burg,2025,7166919,,,CW YE2025 Brutomarge / Gross margin,src_ter_burg_jr2025_cw_en,medium,tick2061; bruto DROP 7166919 -1.51pct vs YE2024 7276645
 bud_ter_burg_fte_jr2025_statutory,vzw_wzc_ter_burg,2025,88.3,,,CW social-balance FTE,src_ter_burg_jr2025_cw_en,medium,tick2061; YE2025 FTE 88.3
+bud_olv_wezembeek_omzet_jr2025_statutory,vzw_wzc_olv_wezembeek,2025,4436070,,,CW YE2025 omzet / Turnover,src_olv_wezembeek_jr2025_cw_en,medium,tick2062; omzet DROP 4436070 -4.92pct vs YE2024 4665578
+bud_olv_wezembeek_pnl_jr2025_statutory,vzw_wzc_olv_wezembeek,2025,-8367,,,CW YE2025 Profit/Loss,src_olv_wezembeek_jr2025_cw_en,medium,tick2062; pnl FLIP LOSS -8367 vs YE2024 profit 86441
+bud_olv_wezembeek_equity_jr2025_statutory,vzw_wzc_olv_wezembeek,2025,3164859,,,CW YE2025 Eigen vermogen / Equity,src_olv_wezembeek_jr2025_cw_en,medium,tick2062; equity DROP 3164859 -1.19pct vs YE2024 3202887
+bud_olv_wezembeek_bruto_jr2025_statutory,vzw_wzc_olv_wezembeek,2025,3763636,,,CW YE2025 Brutomarge / Gross margin,src_olv_wezembeek_jr2025_cw_en,medium,tick2062; bruto DROP 3763636 -7.75pct vs YE2024 4079699
+bud_olv_wezembeek_fte_jr2025_statutory,vzw_wzc_olv_wezembeek,2025,46.2,,,CW social-balance FTE,src_olv_wezembeek_jr2025_cw_en,medium,tick2062; YE2025 FTE 46.2

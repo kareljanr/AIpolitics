@@ -23599,3 +23599,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+6); budgets (+5); commitments (+1); leaderboard (+1 pi 5.0); entities (+1 vzw_wzc_ter_burg); foi + draft gap_ter_burg_nbb_pdf_assets_debt_pnl_deeper_loss_matrix_l5; rq_2061=done + rq_2062 open; loop_state ticks=2061; raw under docs/doge/data/raw/tick2061/.
 - FOI: **ready not sent** (human-gated; info@terburg.be).
 - NOT every-10 (**next every-10 is 2070**). Next: rq_2062 (AGB/FARO-if-YE2025 / AIESH-REW / Wezembeek-Antonius deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2062 - 2026-08-24T20:35:00Z - rq_2062 OLV Wezembeek (omzet DROP 4.44m / pnl FLIP LOSS 8k / Medium)
+
+- Unit: **rq_2062** leftover dual after **rq_2061 Ter Burg**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **WZC OLV Wezembeek-Oppem** YE2025 (KBO **0433.419.259**; Jan Baptist De Keyzerstraat 35 Wezembeek-Oppem; Vlaams-Brabant **VZW** WZC / **1 VE**). Sint-Antonius YE2025 also live - deferred. Do not redo Ter Burg/Christine/Vrijzicht/'t Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/Lourdes/St Vincentius Antwerpen/Rillaar/Karus/De Foyer/Sint-Jozef Rumst/Veilige Have/Witte Meren/Zusterhof.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR4,436,070** DROP -4.92%; pnl **LOSS EUR-8,367** FLIP vs YE2024 profit EUR86,441; equity **EUR3,164,859** DROP -1.19%; bruto **EUR3,763,636** DROP -7.75%; FTE **46.2**; neerlegging **13.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@wzc-olvrouw.be (site+Facebook) / jp.vandam@wzc-olvrouw.be (Departement Zorg repertorium).
+- Wrote: sources (+6); budgets (+5); commitments (+1); leaderboard (+1 pi 4.7); entities (+1 vzw_wzc_olv_wezembeek); foi + draft gap_olv_wezembeek_nbb_pdf_assets_debt_pnl_flip_loss_matrix_l5; rq_2062=done + rq_2063 open; loop_state ticks=2062; raw under docs/doge/data/raw/tick2062/.
+- FOI: **ready not sent** (human-gated; info@wzc-olvrouw.be).
+- NOT every-10 (**next every-10 is 2070**). Next: rq_2063 (AGB/FARO-if-YE2025 / AIESH-REW / Sint-Antonius deferred / unused DSO-IGS-HVZ-WZC-psych).
