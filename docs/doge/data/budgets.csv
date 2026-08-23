@@ -51926,3 +51926,14 @@ bud_finest_pnl_jr2025_statutory,igs_finest,2025,2654603,,,CW YE2025 Profit/Loss,
 bud_finest_equity_jr2025_statutory,igs_finest,2025,64639917,,,CW YE2025 Eigen vermogen,src_finest_jr2025_cw,medium,tick1974; equity JUMP 64639917 +2.72pct vs YE2024 62927161
 bud_finest_bruto_jr2025_statutory,igs_finest,2025,-112546,,,CW YE2025 Brutomarge NEG,src_finest_jr2025_cw,medium,tick1974; bruto NEG -112546 (improved vs YE2024 -129093)
 bud_finest_fte_jr2025_statutory,igs_finest,2025,0.6,,,CW social-balance FTE,src_finest_jr2025_cw,medium,tick1974; YE2025 FTE 0.6 holding shell
+bud_hygea_assets_jr2025_statutory,hygea,2025,58448081.22,,,Mons AG bilan TOTAL ACTIF / commissaire total bilan,src_hygea_bilan_jr2025_mons,strong,tick1975; JUMP vs YE2024 56603032.05; matches commissaire EUR58448081
+bud_hygea_equity_jr2025_statutory,hygea,2025,19508971.76,,,Mons AG bilan Capitaux propres,src_hygea_bilan_jr2025_mons,strong,tick1975; JUMP vs YE2024 17139548.91 (+pnl retain ~2.37m)
+bud_hygea_pnl_jr2025_statutory,hygea,2025,2369423,,,RSM commissaire benefice de l'exercice YE2025,src_hygea_commissaire_jr2025_mons,strong,tick1975; JUMP vs CW YE2024 pnl 2239256
+bud_hygea_op_result_jr2025_activites,hygea,2025,7610251,,,Rapport activites resultat operationnel,src_hygea_activites_jr2025_mons,strong,tick1975; activites finance narrative
+bud_hygea_charges_expl_jr2025_activites,hygea,2025,58448081,,,Rapport activites charges d'exploitation (equals assets total — note),src_hygea_activites_jr2025_mons,strong,tick1975; under budget 61641827; numerically equals assets — FOI reconcile NBB codes
+bud_hygea_personnel_jr2025_activites,hygea,2025,25563724,,,Rapport activites frais de personnel,src_hygea_activites_jr2025_mons,strong,tick1975; under budget 27388254; remun net subsides also 25726739.60
+bud_hygea_debt_lt_jr2025_statutory,hygea,2025,18811247.64,,,Mons AG bilan Dettes a plus d'un an,src_hygea_bilan_jr2025_mons,strong,tick1975; DROP vs YE2024 19217486.39
+bud_hygea_debt_st_jr2025_statutory,hygea,2025,13838731.72,,,Mons AG bilan Dettes a un an au plus,src_hygea_bilan_jr2025_mons,strong,tick1975; DROP vs YE2024 14695887.75
+bud_hygea_provisions_jr2025_statutory,hygea,2025,5917000,,,Mons AG bilan Provisions pour risques et charges,src_hygea_bilan_jr2025_mons,strong,tick1975; JUMP vs YE2024 5550109
+bud_hygea_sacs_jr2025_activites,hygea,2025,12387130,,,Rapport activites vente de sacs poubelles,src_hygea_activites_jr2025_mons,strong,tick1975; JUMP vs YE2024 10946324; above budget 9589706
+bud_hygea_headcount_jr2025_activites,hygea,2025,356,,,Rapport activites effectif fin 2025 (agents),src_hygea_activites_jr2025_mons,strong,tick1975; 356 agents (24F/332M); FTE avg Unknown (CW YE2024 FTE 363.2)

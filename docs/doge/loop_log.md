@@ -22789,3 +22789,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1980**). Next: rq_1975 (AGB/FARO-if-YE2025 / AIESH-REW / FINIMO-SOFILUX-IFIGA / unused DSO-IGS-HVZ).
 
+## Tick 1975 - 2026-08-23T21:00:00Z - rq_1975 HYGEA (assets JUMP 58.45m / pnl JUMP 2.37m / equity JUMP 19.51m / Strong)
+
+- Unit: **rq_1975** leftover dual after **rq_1974 FINEST**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024** NBB; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **HYGEA** YE2025 now live on Mons AG (KBO **0839.927.651**; Rue du Champ de Ghislage 1 Havre; 24 communes Mons-Borinage-Centre; COPIDEC dual Intradel/IPALLE/BEP Env). Do not redo FINEST/BEP Environnement/LOGIPOLE/BEP NAMUR/IBH/BEP Crematorium/BEP Expansion/IEG/CENEO/CISCH/HELORA/iMio/Passelecq.
+- Found: Strong [Mons AG 26.06.2026 commissaire](https://www.mons.be/fr/ma-commune/vie-politique/intercommunales/hygea-1/hygea/ag-du-26-juin-2026/publiable-annexe-ii-rapport-du-commissaire-reviseur.pdf) + [bilan](https://www.mons.be/fr/ma-commune/vie-politique/intercommunales/hygea-1/hygea/ag-du-26-juin-2026/publiable-annexe-ii-bilan-compte-de-resultats-et-annexes_compressed.pdf) + [activites 2025](https://www.mons.be/fr/ma-commune/vie-politique/intercommunales/hygea-1/hygea/ag-du-26-juin-2026/publiable-annexe-i-rapport-dactivites-2025.pdf) + Strong KBO: assets **EUR58,448,081.22** (**JUMP**); equity **EUR19,508,971.76** (**JUMP**); pnl **EUR2,369,423** (**JUMP**); op result **EUR7,610,251**; charges expl **EUR58,448,081**; personnel **EUR25,563,724**; sacs **EUR12,387,130** (**JUMP**); LT debt **EUR18,811,247.64** (**DROP**); ST debt **EUR13,838,731.72** (**DROP**); provisions **EUR5,917,000**; agents **356**; NBB deposit **2026/01441990**. CW still YE2024-only. Omzet statutory Unknown (scanned CR).
+- Wrote: sources (+5); budgets (+11); commitments (+1); leaderboard (+1); entities (hygea update); foi + draft gap_hygea_nbb_pdf_omzet_commune_matrix_l5_ye2025; rq_1975=done + rq_1976 open; loop_state ticks=1975; raw PDFs under docs/doge/data/raw/tick1975/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1980**). Next: rq_1976 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
+
