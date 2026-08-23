@@ -52531,3 +52531,8 @@ bud_sint_lucia_bruto_jr2025_statutory,vzw_sint_lucia_turnhout,2025,8087569,80875
 bud_sint_lucia_pnl_jr2025_statutory,vzw_sint_lucia_turnhout,2025,158746,158746,158746,CW YE2025 Profit/Loss,src_sint_lucia_jr2025_cw_en,medium,tick2094; DROP vs YE2024 315038 (DROP -49.61%)
 bud_sint_lucia_equity_jr2025_statutory,vzw_sint_lucia_turnhout,2025,12346388,12346388,12346388,CW YE2025 Eigen vermogen / Equity,src_sint_lucia_jr2025_cw_en,medium,tick2094; DROP DROP -0.76% vs YE2024 12441379
 bud_sint_lucia_fte_jr2025_statutory,vzw_sint_lucia_turnhout,2025,110.2,110.2,110.2,CW social-balance FTE / Employees,src_sint_lucia_jr2025_cw_en,medium,tick2094; FTE JUMP 110.2 (+1.29%) vs YE2024 108.8
+bud_begralim_omzet_jr2025_statutory,vzw_begralim_grauwzusters_limburg,2025,22668926,22668926,22668926,CW YE2025 omzet / Turnover,src_begralim_jr2025_cw_en,medium,tick2095; JUMP +4.16% vs YE2024 21764395; bruto 24676423
+bud_begralim_bruto_jr2025_statutory,vzw_begralim_grauwzusters_limburg,2025,24676423,24676423,24676423,CW YE2025 Brutomarge / Gross margin,src_begralim_jr2025_cw_en,medium,tick2095; JUMP +3.86% vs YE2024 23759100
+bud_begralim_pnl_jr2025_statutory,vzw_begralim_grauwzusters_limburg,2025,1062496,1062496,1062496,CW YE2025 Profit/Loss,src_begralim_jr2025_cw_en,medium,tick2095; DROP -29.55% vs YE2024 PROFIT 1508079
+bud_begralim_equity_jr2025_statutory,vzw_begralim_grauwzusters_limburg,2025,34324320,34324320,34324320,CW YE2025 Eigen vermogen / Equity,src_begralim_jr2025_cw_en,medium,tick2095; JUMP +1.89% vs YE2024 33688838
+bud_begralim_fte_jr2025_statutory,vzw_begralim_grauwzusters_limburg,2025,295.8,295.8,295.8,CW social-balance FTE / Employees,src_begralim_jr2025_cw_en,medium,tick2095; FTE 295.8 DROP -0.57% vs YE2024 297.5
