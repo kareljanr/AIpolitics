@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T09:15:00Z,rq_1876,1876,no,tick1876 leftover Greenville NV 0838.424.646 YE2025 Medium (omzet 0.82m bruto 0.26m pnl 62k equity 7.27m); LRM board; assets Unknown; NBB PDF + PnL reconcile FOI; AGB Bornem JR2024; Dijk92 FOI; FARO YE2024; next rq_1877; next every-10 1880; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T09:45:00Z,rq_1877,1877,no,tick1877 leftover IncubaThor NV 0842.636.624 YE2025 Medium (omzet 1.16m bruto 0.74m pnl 9.5k equity 6.10m); LRM board Genk Thor Park; assets Unknown; NBB PDF + PnL reconcile FOI; AGB Bornem JR2024; Dijk92 FOI; FARO YE2024; next rq_1878; next every-10 1880; continuous hole_fill

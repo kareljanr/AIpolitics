@@ -51332,3 +51332,7 @@ bud_greenville_omzet_0_82m_jr2025,nv_greenville,2025,815312,,,CW NBB-derived 70 
 bud_greenville_bruto_0_26m_jr2025,nv_greenville,2025,260400,,,CW NBB-derived 9900 brutomarge YE31122025,src_greenville_jr2025_cw,medium,tick1876; DROP vs prior 0.37m; not TE-additive
 bud_greenville_pnl_0_062m_jr2025,nv_greenville,2025,61840,,,CW NBB-derived 9904 winst boekjaar,src_greenville_jr2025_cw,medium,tick1876; DROP vs prior 0.13m; Pappers ~90.1k FOI reconcile; not TE-additive
 bud_greenville_equity_7_27m_jr2025,nv_greenville,2025,7271625,,,CW NBB-derived 10/15 eigen vermogen,src_greenville_jr2025_cw,medium,tick1876; DROP vs prior 7.45m; not TE-additive
+bud_incubathor_omzet_1_16m_jr2025,nv_incubathor,2025,1164267,,,CW NBB-derived 70 omzet YE31122025,src_incubathor_jr2025_cw,medium,tick1877; flat vs prior 1.18m; not TE-additive
+bud_incubathor_bruto_0_74m_jr2025,nv_incubathor,2025,735243,,,CW NBB-derived 9900 brutomarge YE31122025,src_incubathor_jr2025_cw,medium,tick1877; not TE-additive
+bud_incubathor_pnl_0_009m_jr2025,nv_incubathor,2025,9460,,,CW NBB-derived 9904 winst boekjaar,src_incubathor_jr2025_cw,medium,tick1877; DROP vs prior 0.15m; Pappers ~85.6k FOI reconcile; not TE-additive
+bud_incubathor_equity_6_10m_jr2025,nv_incubathor,2025,6102653,,,CW NBB-derived 10/15 eigen vermogen,src_incubathor_jr2025_cw,medium,tick1877; flat vs prior 6.14m; not TE-additive

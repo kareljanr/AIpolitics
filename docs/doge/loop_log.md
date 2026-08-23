@@ -21917,3 +21917,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_greenville_nbb_pdf_pnl_reconcile_l5; rq_1876=done + rq_1877 open; loop_state ticks=1876.
 - FOI opened: NBB PDF + PnL reconcile / share % (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1880**). Next: rq_1877 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Westhoek-if-PDF / other HVZ-IGS).
+
+## Tick 1877 - 2026-08-26T09:45:00Z - rq_1877 IncubaThor NV (omzet 1.16m / equity 6.10m / Medium)
+
+- Unit: **rq_1877** leftover dual after Greenville. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2024 only. Took leftover **IncubaThor Wetenschapspark Waterschei NV** (KBO **0842.636.624**; Thor Park Genk; board **LRM + LRM Beheer**; LRM energy/tech incubator sibling of Greenville).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0842636624/incubathor-wetenschapspark-waterschei) (neerlegging **19.06.2026**; YE **31.12.2025**): omzet **EUR1,164,267**; bruto **EUR735,243**; PnL **EUR9,460**; equity **EUR6,102,653**; assets **Unknown**. Pappers rounded cash **~606k** / findebt **~1.21m**; Pappers net **~85.6k** vs CW — FOI reconcile.
+- Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_incubathor_nbb_pdf_pnl_reconcile_l5; rq_1877=done + rq_1878 open; loop_state ticks=1877.
+- FOI opened: NBB PDF + PnL reconcile / share % (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1880**). Next: rq_1878 (AGB/Dijk92-if-200 / FARO-if-YE2025 / C-mine Crib/Droneport/Agropolis if live).
