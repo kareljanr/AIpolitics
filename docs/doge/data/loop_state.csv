@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-25T05:45:00Z,rq_1808,1808,no,tick1808 leftover Brandweer Zone Rand B2025 GD 25315173 / pers 17286994 / gem dots 18040021; KBO 0500.914.730; FOI JR2025 rekening; AGB Bornem JR2024; Dijk92/APEFE/NSZ 403; HVZ Waasland deferred; NOT every-10 (next 1810); next rq_1809 residual dual; continuous hole_fill
+main,continuous,hole_fill,2026-08-25T06:10:00Z,rq_1809,1809,no,tick1809 leftover Dijk92 FOI stall YE2025; KBO 0806.383.071; SBM last YE2024; AGB Bornem JR2024; NSZ/APEFE 403; FARO YE2024 only; HVZ Waasland still no JR euros; NOT every-10 (next 1810 MUST); next rq_1810 EVERY-10 then residual dual; continuous hole_fill

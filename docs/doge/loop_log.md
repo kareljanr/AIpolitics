@@ -21349,3 +21349,12 @@ Append-only. Each tick adds a short entry.
 - Primary (medium, begroting): GD **25315173**; pers **17286994**; gem werkingstoelagen **18040021**; fed **5669972**; invest toelagen **3947337**.
 - Wrote: entity/commitment/leaderboard/sources; FOI gap_bzr_jr2025_rekening_vs_beg_gemdot_l5 **ready**; rq_1808 done; spawned rq_1809 (HVZ Waasland deferred).
 - NOT every-10 (next **1810**).
+
+## Tick 1809 - 2026-08-25T06:10:00Z - rq_1809 Dijk92 FOI stall (YE2025 NBB unpublished)
+
+- Unit: **rq_1809** leftover dual residual after Brandweer Zone Rand; selected preferred **Projectvereniging Dijk92** (IOED; KBO **0806.383.071**).
+- Honest skips: AGB Bornem still JR2024 (FOI ready); NSZ **2026-00394221** CDN still **403**; FARO NBB still YE2024 only (**2025-00569658**); APEFE site RA2023 only; HVZ Waasland Aug/Sep 2026 meldingslijsten still **no JR euros** (FOI already ready tick1751); BWOL JR PDF still image-garbled (FOI tick1754).
+- Primary: KBO Actief Projectvereniging; zetel Nijverheidsstraat 3 Dendermonde; email info@egclandvandendermonde.be; site dijk92.be. SBM **last JR still YE2024** (neerlegging 2025-06-03). YE2025 CDN attempts **403**. **No invented YE2025 euros.**
+- Wrote: entities igs_dijk92; sources (+3); commitments; leaderboard weak FOI stub; foi_queue ready; research_queue rq_1809=blocked_foi + rq_1810 EVERY-10 spawned; loop_state ticks=1809; FOI draft gap_dijk92_nbb_ye2025_deposit_l5.md
+- FOI opened: gap_dijk92_nbb_ye2025_deposit_l5 (**ready**, human-send only)
+- NOT every-10 (next **1810** MUST). Next: rq_1810 progress % + waste top10 then residual dual.
