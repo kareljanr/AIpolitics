@@ -50752,3 +50752,18 @@ bud_zefier_pnl_2025,cv_zefier,2025,2212031,,,realized,src_zefier_jr2025_official
 bud_zefier_dividend_2025,cv_zefier,2025,1734822,,,realized,src_zefier_jr2025_official,strong,Uit te keren winst / vergoeding inbreng 1734822 naar 160 gemeenten; tick1795
 bud_zefier_guaranteed_debt_2025,cv_zefier,2025,17818678,,,realized,src_zefier_jr2025_official,strong,Door BE overheidsinstellingen gewaarborgde schulden 17818678; tick1795
 bud_zefier_st_other_loans_2025,cv_zefier,2025,8980000,,,realized,src_zefier_jr2025_official,strong,Overige leningen ST 8980000 (thesaurie/cashpool class); tick1795
+bud_zofier_assets_2025,nv_zofier,2025,30973170,,,realized,src_zofier_jr2025_nbb,strong,Assets YE2025 30973170; tick1796
+bud_zofier_equity_2025,nv_zofier,2025,8465583,,,realized,src_zofier_jr2025_nbb,strong,Equity 8465583 DROP; tick1796
+bud_zofier_debt_2025,nv_zofier,2025,22415804,,,realized,src_zofier_jr2025_nbb,strong,Debt 22415804; tick1796
+bud_zofier_mva_2025,nv_zofier,2025,29273427,,,realized,src_zofier_jr2025_nbb,strong,MVA installaties 29273427; tick1796
+bud_zofier_omzet_2025,nv_zofier,2025,2478871,,,realized,src_zofier_jr2025_nbb,strong,Omzet GSC+elektriciteit 2478871; tick1796
+bud_zofier_opbr_2025,nv_zofier,2025,2667483,,,realized,src_zofier_jr2025_nbb,strong,Bedrijfsopbrengsten 2667483; tick1796
+bud_zofier_diensten_2025,nv_zofier,2025,771997,,,realized,src_zofier_jr2025_nbb,strong,Diensten diverse goederen 771997; tick1796
+bud_zofier_afschr_2025,nv_zofier,2025,1553685,,,realized,src_zofier_jr2025_nbb,strong,Afschrijvingen 1553685; tick1796
+bud_zofier_expl_2025,nv_zofier,2025,282471,,,realized,src_zofier_jr2025_nbb,strong,Bedrijfswinst 282471 FLIP; tick1796
+bud_zofier_fin_kosten_2025,nv_zofier,2025,1065371,,,realized,src_zofier_jr2025_nbb,strong,Financiele kosten 1065371; tick1796
+bud_zofier_pnl_2025,nv_zofier,2025,-776843,,,realized,src_zofier_jr2025_nbb,strong,PnL LOSS -776843; tick1796
+bud_zofier_lt_loans_2025,nv_zofier,2025,20957723,,,realized,src_zofier_jr2025_nbb,strong,Overige leningen LT 20957723 (shareholder/Zefier class); tick1796
+bud_zofier_st_other_2025,nv_zofier,2025,1091775,,,realized,src_zofier_jr2025_nbb,strong,Overige schulden ST 1091775; tick1796
+bud_zofier_trade_st_2025,nv_zofier,2025,216190,,,realized,src_zofier_jr2025_nbb,strong,Handelsschulden ST 216190 DROP from 4703412; tick1796
+bud_zofier_prov_2025,nv_zofier,2025,91783,,,realized,src_zofier_jr2025_nbb,strong,Voorzieningen 91783 JUMP; tick1796

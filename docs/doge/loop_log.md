@@ -21252,3 +21252,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities cv_zefier; budgets (+16); commitments; leaderboard; foi_queue ready; research_queue rq_1795=done + rq_1796 spawned; loop_state ticks=1795; FOI draft gap_zefier_dividend_1_73m_guaranteed_debt_17_82m_fva_24_01m_l5.md
 - FOI opened: gap_zefier_dividend_1_73m_guaranteed_debt_17_82m_fva_24_01m_l5 (**ready**, not sent)
 - Next: rq_1796 — leftover AGB/NSZ-if-200/Bosgroep/FARO-NBB-if-2025/HVZ-if-live/IGS; every-10 at **1800**
+
+### 2026-08-25T01:35:00Z — tick 1796
+- Unit: rq_1796 — **Zo-Fier NV** (leftover Zefier dual renewable projectco / 4 municipalities)
+- Found: Preferred AGB Bornem still JR2024; NSZ/Dijk92/APEFE prior CDN **403**; FARO NBB YE2025 still unpublished. Took leftover **Zo-Fier NV** NBB VOL-kap YE2025 deposit [2026-00135547](http://cdn.staatsbladmonitor.be/2026pdf/2026-00135547.pdf) CDN 200 (556 KB / 46p); KBO **0761.723.974**; AV **18.05.2026**; KPMG / Axel Jorion — **oordeel zonder voorbehoud**; Zefier **48.49pct**; gemeenten Eeklo/Evergem/Gent/Halle. Sourced: assets **EUR30,973,170**; equity **EUR8,465,583**; debt **EUR22,415,804**; MVA **EUR29,273,427**; omzet **EUR2,478,871**; opbr **EUR2,667,483**; diensten **EUR771,997**; afschr **EUR1,553,685**; expl **EUR282,471**; fin kosten **EUR1,065,371**; PnL **EUR-776,843**; LT overige leningen **EUR20,957,723**; cash **0**; VTE **0**; ST handel DROP **4.70m→0.22m**.
+- Wrote: sources (+3); entities nv_zofier; budgets (+15); commitments; leaderboard; foi_queue ready; research_queue rq_1796=done + rq_1797 spawned; loop_state ticks=1796; FOI draft gap_zofier_omzet_2_48m_loss_0_78m_lt_loans_20_96m_l5.md
+- FOI opened: gap_zofier_omzet_2_48m_loss_0_78m_lt_loans_20_96m_l5 (**ready**, not sent)
+- Next: rq_1797 — leftover AGB/NSZ-if-200/Bosgroep/W4F-if-200/IGS; every-10 at **1800**
