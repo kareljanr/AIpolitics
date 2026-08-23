@@ -52397,3 +52397,8 @@ bud_leiehome_pnl_jr2025_statutory,vzw_leiehome,2025,-440217,,,CW YE2025 Profit/L
 bud_leiehome_equity_jr2025_statutory,vzw_leiehome,2025,15465943,,,CW YE2025 Eigen vermogen / Equity,src_leiehome_jr2025_cw_en,medium,tick2067; equity DROP 15465943 -2.59pct vs YE2024 15877746
 bud_leiehome_bruto_jr2025_statutory,vzw_leiehome,2025,10430638,,,CW YE2025 Brutomarge / Gross margin,src_leiehome_jr2025_cw_en,medium,tick2067; bruto JUMP 10430638 +2.30pct vs YE2024 10195901
 bud_leiehome_fte_jr2025_statutory,vzw_leiehome,2025,135.1,,,CW social-balance FTE,src_leiehome_jr2025_cw_en,medium,tick2067; YE2025 FTE 135.1
+bud_compostela_omzet_jr2025_statutory,vzw_compostela,2025,37795157,,,CW YE2025 omzet / Turnover,src_compostela_jr2025_cw_en,medium,tick2068; omzet JUMP 37795157 +2.99pct vs YE2024 36698802
+bud_compostela_pnl_jr2025_statutory,vzw_compostela,2025,1228006,,,CW YE2025 Profit/Loss,src_compostela_jr2025_cw_en,medium,tick2068; pnl DROP 1228006 -23.65pct vs YE2024 1608382
+bud_compostela_equity_jr2025_statutory,vzw_compostela,2025,60201736,,,CW YE2025 Eigen vermogen / Equity,src_compostela_jr2025_cw_en,medium,tick2068; equity JUMP 60201736 +1.44pct vs YE2024 59348989
+bud_compostela_bruto_jr2025_statutory,vzw_compostela,2025,39900746,,,CW YE2025 Brutomarge / Gross margin,src_compostela_jr2025_cw_en,medium,tick2068; bruto JUMP 39900746 +2.71pct vs YE2024 38849670
+bud_compostela_fte_jr2025_statutory,vzw_compostela,2025,497.1,,,CW social-balance FTE,src_compostela_jr2025_cw_en,medium,tick2068; YE2025 FTE 497.1

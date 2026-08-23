@@ -23654,3 +23654,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_leiehome); foi + draft gap_leiehome_nbb_pdf_assets_debt_pnl_deeper_loss_matrix_l5; rq_2067=done + rq_2068 open; loop_state ticks=2067; raw under docs/doge/data/raw/tick2067/.
 - FOI: **ready not sent** (human-gated; info@leiehome.be).
 - NOT every-10 (**next every-10 is 2070**). Next: rq_2068 (AGB/FARO-if-YE2025 / AIESH-REW / Compostela-AlwaysHome-Vulpia deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2068 - 2026-08-24T22:05:00Z - rq_2068 Compostela (omzet JUMP 37.80m / pnl DROP 1.23m / Medium)
+
+- Unit: **rq_2068** leftover dual after **rq_2067 Leiehome**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **Compostela** YE2025 (KBO **0432.401.155**; Doolweg 6 Antwerpen-Borsbeek; Antwerpen **aanbestedende-overheid VZW** multi-site WZC / **7 VE** / WoonZorgCollectief). Always Home / Vulpia YE2025 also live - deferred. Do not redo Leiehome/Zusters SV Deinze/OLV Bornem/Huize Sint-Jozef Ieper/Sint-Antonius/OLV Wezembeek/Ter Burg/Christine/Vrijzicht/'t Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/Lourdes/St Vincentius Antwerpen/Rillaar/Karus/De Foyer/Sint-Jozef Rumst/Veilige Have/Witte Meren/Zusterhof.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR37,795,157** JUMP +2.99%; pnl **EUR1,228,006** DROP -23.65%; equity **EUR60,201,736** JUMP +1.44%; bruto **EUR39,900,746** JUMP +2.71%; FTE **497.1**; neerlegging **27.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende overheid 7 VE; email compostela@compostela.be.
+- Wrote: sources (+6); budgets (+5); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 vzw_compostela); foi + draft gap_compostela_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2068=done + rq_2069 open; loop_state ticks=2068; raw under docs/doge/data/raw/tick2068/.
+- FOI: **ready not sent** (human-gated; compostela@compostela.be).
+- NOT every-10 (**next every-10 is 2070**). Next: rq_2069 (AGB/FARO-if-YE2025 / AIESH-REW / AlwaysHome-Vulpia deferred / unused DSO-IGS-HVZ-WZC-psych).
