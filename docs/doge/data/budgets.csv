@@ -52312,3 +52312,8 @@ bud_hof_waarbeek_pnl_jr2025_statutory,vzw_wzc_hof_ter_waarbeek,2025,346911,,,CW 
 bud_hof_waarbeek_equity_jr2025_statutory,vzw_wzc_hof_ter_waarbeek,2025,2415849,,,CW YE2025 Eigen vermogen / Equity,src_hof_waarbeek_jr2025_cw_en,medium,tick2050 EVERY-10; equity JUMP 2415849 +16.77pct vs YE2024 2068939
 bud_hof_waarbeek_bruto_jr2025_statutory,vzw_wzc_hof_ter_waarbeek,2025,5934453,,,CW YE2025 Brutomarge / Gross margin,src_hof_waarbeek_jr2025_cw_en,medium,tick2050 EVERY-10; bruto JUMP 5934453 +1.36pct vs YE2024 5854843
 bud_hof_waarbeek_fte_jr2025_statutory,vzw_wzc_hof_ter_waarbeek,2025,74.1,,,CW social-balance FTE,src_hof_waarbeek_jr2025_cw_en,medium,tick2050 EVERY-10; YE2025 FTE 74.1
+bud_van_lierde_omzet_jr2025_statutory,vzw_wzc_van_lierde,2025,7532068,,,CW YE2025 omzet / Turnover,src_van_lierde_jr2025_cw_en,medium,tick2051; omzet DROP 7532068 -0.89pct vs YE2024 7599325
+bud_van_lierde_pnl_jr2025_statutory,vzw_wzc_van_lierde,2025,461544,,,CW YE2025 Profit/Loss,src_van_lierde_jr2025_cw_en,medium,tick2051; pnl DROP 461544 -12.83pct vs YE2024 529480
+bud_van_lierde_equity_jr2025_statutory,vzw_wzc_van_lierde,2025,5687790,,,CW YE2025 Eigen vermogen / Equity,src_van_lierde_jr2025_cw_en,medium,tick2051; equity JUMP 5687790 +2.31pct vs YE2024 5559594
+bud_van_lierde_bruto_jr2025_statutory,vzw_wzc_van_lierde,2025,6890078,,,CW YE2025 Brutomarge / Gross margin,src_van_lierde_jr2025_cw_en,medium,tick2051; bruto JUMP 6890078 +2.88pct vs YE2024 6697399
+bud_van_lierde_fte_jr2025_statutory,vzw_wzc_van_lierde,2025,75.4,,,CW social-balance FTE,src_van_lierde_jr2025_cw_en,medium,tick2051; YE2025 FTE 75.4

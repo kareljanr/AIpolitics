@@ -23492,3 +23492,12 @@ Append-only. Each tick adds a short entry.
 - **C** L2 entity totals: **~99%** OoM (+ residual dual 2041-2050)
 - **D** L5 named end-lines: **~74-88%** TE generous (residual dual gain; not near-complete of 348bn)
 - **E** FOI-ready: **~1667** drafts; answered ~11; partial ~28; total ~1719
+
+
+## Tick 2051 - 2026-08-24T17:55:00Z - rq_2051 WZC Van Lierde (omzet DROP 7.53m / pnl DROP 0.46m / Medium)
+
+- Unit: **rq_2051** leftover dual after **rq_2050 Hof ter Waarbeek**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took unused leftover **WZC Van Lierde** YE2025 (KBO **0633.854.022**; Bellestraat 3 Affligem; Vlaams-Brabant **VZW** WZC / **1 VE**). Do not redo Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/C.W.Z.C. Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hieronymus/WZC Sint-Barbara/PC Gent-Sleidinge/Molenheide/Veilige Have/Witte Meren/Sint-Jozef Rumst.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR7,532,068** DROP −0.89%; pnl **EUR461,544** DROP −12.83%; equity **EUR5,687,790** JUMP +2.31%; bruto **EUR6,890,078** JUMP +2.88%; FTE **75.4**; neerlegging **02.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email onthaal@wzcvanlierde.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.9); entities (+1 vzw_wzc_van_lierde); foi + draft gap_van_lierde_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2051=done + rq_2052 open; loop_state ticks=2051; raw under docs/doge/data/raw/tick2051/.
+- FOI: **ready not sent** (human-gated; onthaal@wzcvanlierde.be).
+- NOT every-10 (**next every-10 is 2060**). Next: rq_2052 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
