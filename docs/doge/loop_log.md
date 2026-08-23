@@ -23331,3 +23331,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_sint_bernardus_assenede); foi + draft gap_wzc_sint_bernardus_assenede_nbb_pdf_assets_debt_pnl_loss_matrix_l5; rq_2034=done + rq_2035 open; loop_state ticks=2034; raw under docs/doge/data/raw/tick2034/.
 - FOI: **ready not sent** (human-gated; info@wzcsintbernardus.be).
 - NOT every-10 (**next every-10 is 2040**). Next: rq_2035 (AGB/FARO-if-YE2025 / AIESH-REW / Roosdaal-OLVA-Triest / unused DSO-IGS-HVZ).
+
+
+## Tick 2035 - 2026-08-24T13:25:00Z - rq_2035 WZC OLV Roosdaal (omzet JUMP 7.60m / pnl JUMP 0.30m / Medium)
+
+- Unit: **rq_2035** leftover dual after **rq_2034 WZC Sint-Bernardus Assenede**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took preferred deferred leftover **WZC OLV Roosdaal** YE2025 (KBO **0421.031.171**; Gasthuisstraat 57 Roosdaal; Vlaams-Brabant **WZC VZW**). OLVA / Triest YE2025 also live — deferred. Do not redo Bernardus Assenede/Cassiers/Lourdes/Vincentius Antwerpen/Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Maria Rustoord/PPC Pittem/Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR7,601,527** JUMP +8.36%; pnl **EUR303,111** JUMP +158.1%; equity **EUR6,832,532** JUMP +4.64%; bruto **EUR7,274,401** JUMP +7.36%; FTE **89.3**; neerlegging **02.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@wzc-olv-roosdaal.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_olv_roosdaal); foi + draft gap_wzc_olv_roosdaal_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2035=done + rq_2036 open; loop_state ticks=2035; raw under docs/doge/data/raw/tick2035/.
+- FOI: **ready not sent** (human-gated; info@wzc-olv-roosdaal.be).
+- NOT every-10 (**next every-10 is 2040**). Next: rq_2036 (AGB/FARO-if-YE2025 / AIESH-REW / OLVA-Triest / unused DSO-IGS-HVZ).

@@ -52230,3 +52230,8 @@ bud_wzc_sint_bernardus_assenede_pnl_jr2025_statutory,vzw_wzc_sint_bernardus_asse
 bud_wzc_sint_bernardus_assenede_equity_jr2025_statutory,vzw_wzc_sint_bernardus_assenede,2025,4618453,,,CW YE2025 Eigen vermogen,src_wzc_sint_bernardus_assenede_jr2025_cw,medium,tick2034; equity DROP 4618453 -10.04pct vs YE2024 5134111
 bud_wzc_sint_bernardus_assenede_bruto_jr2025_statutory,vzw_wzc_sint_bernardus_assenede,2025,7009955,,,CW YE2025 Brutomarge,src_wzc_sint_bernardus_assenede_jr2025_cw,medium,tick2034; bruto JUMP 7009955 +8.19pct vs YE2024 6479412
 bud_wzc_sint_bernardus_assenede_fte_jr2025_statutory,vzw_wzc_sint_bernardus_assenede,2025,85.6,,,CW social-balance FTE,src_wzc_sint_bernardus_assenede_jr2025_cw,medium,tick2034; YE2025 FTE 85.6
+bud_wzc_olv_roosdaal_omzet_jr2025_statutory,vzw_wzc_olv_roosdaal,2025,7601527,,,CW YE2025 omzet / Turnover,src_wzc_olv_roosdaal_jr2025_cw,medium,tick2035; omzet JUMP 7601527 +8.36pct vs YE2024 7015213
+bud_wzc_olv_roosdaal_pnl_jr2025_statutory,vzw_wzc_olv_roosdaal,2025,303111,,,CW YE2025 Profit/Loss,src_wzc_olv_roosdaal_jr2025_cw,medium,tick2035; pnl JUMP 303111 +158.1pct vs YE2024 117438
+bud_wzc_olv_roosdaal_equity_jr2025_statutory,vzw_wzc_olv_roosdaal,2025,6832532,,,CW YE2025 Eigen vermogen,src_wzc_olv_roosdaal_jr2025_cw,medium,tick2035; equity JUMP 6832532 +4.64pct vs YE2024 6529421
+bud_wzc_olv_roosdaal_bruto_jr2025_statutory,vzw_wzc_olv_roosdaal,2025,7274401,,,CW YE2025 Brutomarge,src_wzc_olv_roosdaal_jr2025_cw,medium,tick2035; bruto JUMP 7274401 +7.36pct vs YE2024 6775794
+bud_wzc_olv_roosdaal_fte_jr2025_statutory,vzw_wzc_olv_roosdaal,2025,89.3,,,CW social-balance FTE,src_wzc_olv_roosdaal_jr2025_cw,medium,tick2035; YE2025 FTE 89.3 vs YE2024 91.4
