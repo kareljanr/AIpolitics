@@ -1,0 +1,599 @@
+
+<!doctype html>
+<!--[if lt IE 9]>     <html lang="nl-BE" xml:lang="nl-BE" class="ie8"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="nl-BE" xml:lang="nl-BE"><!--<![endif]-->
+    <head>
+        <meta charset="UTF-8" />
+<script>
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),document.addEventListener("gform/theme/scripts_loaded",function(){gform.themeScriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>"function"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener("gform_main_scripts_loaded",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener("gform/theme/scripts_loaded",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener("DOMContentLoaded",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook("action",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook("filter",o,r,e,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,r){gform.removeHook("action",o,r)},removeFilter:function(o,r,e){gform.removeHook("filter",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+"_"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==r?t.apply(null,e):e[0]=t.apply(null,e)})),"filter"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}});
+</script>
+
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta name="msapplication-config" content="none">
+        <meta name="theme-color" content="#F7F2EE">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="MobileOptimized" content="320">
+
+        <link rel="preload" href="https://familiezorg.be/wp-content/themes/_familiezorg/assets/fonts/ClashDisplay/ClashDisplay-Variable.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+        <link rel="preload" href="https://familiezorg.be/wp-content/themes/_familiezorg/assets/fonts/ClashGrotesk/ClashGrotesk-Variable.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+        <link rel="preload" href="https://familiezorg.be/wp-content/themes/_familiezorg/assets/fonts/FontAwesome/fa-sharp-light-300.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
+        <script type="text/javascript" data-cookieconsent="ignore">
+	window.dataLayer = window.dataLayer || [];
+
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+
+	gtag("consent", "default", {
+		ad_personalization: "denied",
+		ad_storage: "denied",
+		ad_user_data: "denied",
+		analytics_storage: "denied",
+		functionality_storage: "denied",
+		personalization_storage: "denied",
+		security_storage: "granted",
+		wait_for_update: 500,
+	});
+	gtag("set", "ads_data_redaction", true);
+	</script>
+<script type="text/javascript" data-cookieconsent="ignore">
+		(function (w, d, s, l, i) {
+		w[l] = w[l] || [];
+		w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+		var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l !== 'dataLayer' ? '&l=' + l : '';
+		j.async = true;
+		j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+		f.parentNode.insertBefore(j, f);
+	})(
+		window,
+		document,
+		'script',
+		'dataLayer',
+		'GTM-P7M57Q8'
+	);
+</script>
+<script type="text/javascript"
+		id="Cookiebot"
+		src="https://consent.cookiebot.com/uc.js"
+		data-implementation="wp"
+		data-cbid="7d48b55d-d9da-46d4-a5d5-b02630869209"
+						data-culture="NL"
+				data-blockingmode="auto"
+	></script>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v27.9 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Contact | Familiezorg</title>
+	<meta name="description" content="Meer info nodig over wat Familiezorg voor jou kan betekenen? Neem contact met ons op of kom langs op ons hoofdkantoor in Gent." />
+	<link rel="canonical" href="https://familiezorg.be/contact/" />
+	<meta property="og:locale" content="nl_BE" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Contact | Familiezorg" />
+	<meta property="og:description" content="Meer info nodig over wat Familiezorg voor jou kan betekenen? Neem contact met ons op of kom langs op ons hoofdkantoor in Gent." />
+	<meta property="og:url" content="https://familiezorg.be/contact/" />
+	<meta property="og:site_name" content="Familiezorg" />
+	<meta property="article:publisher" content="https://www.facebook.com/familiezorgovl/" />
+	<meta property="article:modified_time" content="2025-12-30T11:17:48+00:00" />
+	<meta property="og:image" content="https://familiezorg.be/media/Familiezorg-Ouderenzorg-scaled.jpg" />
+	<meta property="og:image:width" content="2560" />
+	<meta property="og:image:height" content="1707" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Geschatte leestijd" />
+	<meta name="twitter:data1" content="1 minuut" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/familiezorg.be\/contact\/","url":"https:\/\/familiezorg.be\/contact\/","name":"Contact | Familiezorg","isPartOf":{"@id":"https:\/\/familiezorg.be\/#website"},"primaryImageOfPage":{"@id":"https:\/\/familiezorg.be\/contact\/#primaryimage"},"image":{"@id":"https:\/\/familiezorg.be\/contact\/#primaryimage"},"thumbnailUrl":"https:\/\/familiezorg.be\/media\/Familiezorg-Ouderenzorg-scaled.jpg","datePublished":"2025-09-08T12:30:24+00:00","dateModified":"2025-12-30T11:17:48+00:00","description":"Meer info nodig over wat Familiezorg voor jou kan betekenen? Neem contact met ons op of kom langs op ons hoofdkantoor in Gent.","breadcrumb":{"@id":"https:\/\/familiezorg.be\/contact\/#breadcrumb"},"inLanguage":"nl-BE","potentialAction":[{"@type":"ReadAction","target":["https:\/\/familiezorg.be\/contact\/"]}]},{"@type":"ImageObject","inLanguage":"nl-BE","@id":"https:\/\/familiezorg.be\/contact\/#primaryimage","url":"https:\/\/familiezorg.be\/media\/Familiezorg-Ouderenzorg-scaled.jpg","contentUrl":"https:\/\/familiezorg.be\/media\/Familiezorg-Ouderenzorg-scaled.jpg","width":2560,"height":1707,"caption":"Verzorgende gezinszorg van Familiezorg met beige t-shirt met groen logo. Oudere cliënt draagt kleurrijk kleed. Verzorgende en cliënt zijn blij en lachen."},{"@type":"BreadcrumbList","@id":"https:\/\/familiezorg.be\/contact\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/familiezorg.be\/"},{"@type":"ListItem","position":2,"name":"Contact"}]},{"@type":"WebSite","@id":"https:\/\/familiezorg.be\/#website","url":"https:\/\/familiezorg.be\/","name":"Familiezorg","description":"Jouw dagelijkse leven is onze zorg","publisher":{"@id":"https:\/\/familiezorg.be\/#organization"},"alternateName":"Familiezorg","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/familiezorg.be\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"nl-BE"},{"@type":"Organization","@id":"https:\/\/familiezorg.be\/#organization","name":"Familiezorg","alternateName":"Familiezorg","url":"https:\/\/familiezorg.be\/","logo":{"@type":"ImageObject","inLanguage":"nl-BE","@id":"https:\/\/familiezorg.be\/#\/schema\/logo\/image\/","url":"https:\/\/familiezorg.be\/media\/Familiezorg.svg","contentUrl":"https:\/\/familiezorg.be\/media\/Familiezorg.svg","caption":"Familiezorg"},"image":{"@id":"https:\/\/familiezorg.be\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/familiezorgovl\/","https:\/\/www.instagram.com\/familiezorgovl\/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://familiezorg.be/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id="wp-block-columns-inline-css">
+.wp-block-columns{box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns{align-items:normal!important}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-stretch{align-self:stretch}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
+/*# sourceURL=https://familiezorg.be/wp-includes/blocks/columns/style.min.css */
+</style>
+<link rel='stylesheet' id='gform_basic-css' href='https://familiezorg.be/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.4' media='all' />
+
+<link rel='stylesheet' id='fontawesome-css' href='https://familiezorg.be/wp-content/themes/_familiezorg/assets/dist/css/fontawesome.min.css?ver=6.7.2' media='all' />
+<link rel='stylesheet' id='familiezorg-css' href='https://familiezorg.be/wp-content/themes/_familiezorg/assets/dist/css/main.css?ver=1786428543' media='all' />
+<script data-cookieconsent="ignore" data-wp-strategy="async" id="jquery-core-js" src="https://familiezorg.be/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script data-cookieconsent="ignore" data-wp-strategy="async" id="jquery-migrate-js" src="https://familiezorg.be/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script data-cookieconsent="ignore" id="gform_json-js" defer='defer' src="https://familiezorg.be/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.10.4"></script>
+<script data-cookieconsent="ignore" id="gform_gravityforms-js-extra">
+var gf_global = {"gf_currency_config":{"name":"Euro","symbol_left":"","symbol_right":"&#8364;","symbol_padding":" ","thousand_separator":".","decimal_separator":",","decimals":2,"code":"EUR"},"base_url":"https://familiezorg.be/wp-content/plugins/gravityforms","number_formats":[],"spinnerUrl":"https://familiezorg.be/wp-content/plugins/gravityforms/images/spinner.svg","version_hash":"fa1555198a969f6b9b8c4d833a2a30c4","strings":{"newRowAdded":"Nieuwe rij toegevoegd.","rowRemoved":"Rij verwijderd","formSaved":"Het formulier is opgeslagen. De inhoud bevat de link om terug te keren en het formulier in te vullen."}};
+var gform_i18n = {"datepicker":{"days":{"monday":"Ma","tuesday":"Di","wednesday":"Wo","thursday":"Do","friday":"Vr","saturday":"Za","sunday":"Zo"},"months":{"january":"Januari","february":"Februari","march":"Maart","april":"April","may":"Mei","june":"Juni","july":"Juli","august":"Augustus","september":"September","october":"Oktober","november":"November","december":"December"},"firstDay":1,"iconText":"Selecteer een datum"}};
+var gf_legacy_multi = {"1":""};
+var gform_gravityforms = {"strings":{"invalid_file_extension":"Dit bestandstype is niet toegestaan. Moet \u00e9\u00e9n van de volgende zijn:","file_uploaded":"File uploaded","delete_file":"Dit bestand verwijderen","in_progress":"in behandeling","file_exceeds_limit":"Bestand overschrijdt limiet bestandsgrootte","illegal_extension":"Dit type bestand is niet toegestaan.","max_reached":"Maximale aantal bestanden bereikt","unknown_error":"Er was een probleem bij het opslaan van het bestand op de server","currently_uploading":"Wacht tot het uploaden is voltooid","cancel":"Annuleren","cancel_upload":"Deze upload annuleren","cancelled":"Geannuleerd","error":"Fout","message":"Bericht"},"vars":{"images_url":"https://familiezorg.be/wp-content/plugins/gravityforms/images"}};
+//# sourceURL=gform_gravityforms-js-extra
+</script>
+<script data-cookieconsent="ignore" id="gform_gravityforms-js" defer='defer' src="https://familiezorg.be/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.10.4"></script>
+<script data-cookieconsent="ignore" id="gform_gravityforms_utils-js" defer='defer' src="https://familiezorg.be/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=3f278756f0a3032bed328ff6a9f6c01d"></script>
+<link rel="icon" href="https://familiezorg.be/media/cropped-favicon-1-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://familiezorg.be/media/cropped-favicon-1-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://familiezorg.be/media/cropped-favicon-1-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://familiezorg.be/media/cropped-favicon-1-1-270x270.png" />
+
+    <style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--fog: #CBC6FF;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--spacing--0: 0;--wp--preset--spacing--1: 1rem;--wp--preset--spacing--2: 2rem;--wp--preset--spacing--3: 3rem;--wp--preset--spacing--4: 4rem;--wp--preset--spacing--5: 5rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-familiezorg-cta{--wp--preset--color--fog: #CBC6FF;--wp--preset--color--tan: #F7F2EE;--wp--preset--color--white: #FFFFFF;}.wp-block-heading{--wp--preset--font-size--display-1: clamp(1.625rem, calc(1.625rem + 4.5vw), 5rem);--wp--preset--font-size--display-2: clamp(1.575rem, calc(1.575rem + 3.9vw), 4.5rem);--wp--preset--font-size--display-3: clamp(1.525rem, calc(1.525rem + 3.3vw), 4rem);--wp--preset--font-size--display-4: clamp(1.475rem, calc(1.475rem + 2.7vw), 3.5rem);--wp--preset--font-size--display-5: clamp(1.425rem, calc(1.425rem + 2.1vw), 3rem);--wp--preset--font-size--display-6: clamp(1.375rem, calc(1.375rem + 1.5vw), 2.5rem);}p{--wp--preset--font-size--default: 1.125rem;--wp--preset--font-size--lead: 1.375rem;}:root { --wp--style--global--content-size: 720px;--wp--style--global--wide-size: 1140px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 1rem; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 1rem; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 1rem;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 1rem;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 1rem;}:root :where(.is-layout-grid){gap: 1rem;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{font-family: var(--bs-body-font-family);font-size: var(--bs-body-font-size);font-weight: var(--bs-body-font-weight);line-height: var(--bs-body-line-height);padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-fog-color{color: var(--wp--preset--color--fog) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-fog-background-color{background-color: var(--wp--preset--color--fog) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-fog-border-color{border-color: var(--wp--preset--color--fog) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.wp-block-familiezorg-cta.has-fog-color{color: var(--wp--preset--color--fog) !important;}.wp-block-familiezorg-cta.has-tan-color{color: var(--wp--preset--color--tan) !important;}.wp-block-familiezorg-cta.has-white-color{color: var(--wp--preset--color--white) !important;}.wp-block-familiezorg-cta.has-fog-background-color{background-color: var(--wp--preset--color--fog) !important;}.wp-block-familiezorg-cta.has-tan-background-color{background-color: var(--wp--preset--color--tan) !important;}.wp-block-familiezorg-cta.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.wp-block-familiezorg-cta.has-fog-border-color{border-color: var(--wp--preset--color--fog) !important;}.wp-block-familiezorg-cta.has-tan-border-color{border-color: var(--wp--preset--color--tan) !important;}.wp-block-familiezorg-cta.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.wp-block-heading.has-display-1-font-size{font-size: var(--wp--preset--font-size--display-1) !important;}.wp-block-heading.has-display-2-font-size{font-size: var(--wp--preset--font-size--display-2) !important;}.wp-block-heading.has-display-3-font-size{font-size: var(--wp--preset--font-size--display-3) !important;}.wp-block-heading.has-display-4-font-size{font-size: var(--wp--preset--font-size--display-4) !important;}.wp-block-heading.has-display-5-font-size{font-size: var(--wp--preset--font-size--display-5) !important;}.wp-block-heading.has-display-6-font-size{font-size: var(--wp--preset--font-size--display-6) !important;}p.has-default-font-size{font-size: var(--wp--preset--font-size--default) !important;}p.has-lead-font-size{font-size: var(--wp--preset--font-size--lead) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<style id="core-block-supports-inline-css">
+.wp-container-core-columns-is-layout-461897f4{flex-wrap:nowrap;}
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+
+</head>
+    <body class="wp-singular page-template-default page page-id-949 wp-custom-logo wp-embed-responsive wp-theme-_familiezorg">
+        
+
+        <!--[if lt IE 11]><div class="browsehappy">Oeps, uw browser is verouderd. Upgrade voor een betere ervaring.</div><![endif]-->
+
+        <noscript>
+            <p class="noscript">Het lijkt erop dat JavaScript is uitgeschakeld. Schakel het in om deze website correct te laten werken.</p>
+        </noscript>
+
+        <a href="#main" class="btn btn-primary no-arrow m-3 position-absolute top-0 start-0 z-[1046] visually-hidden-focusable">Ga naar inhoud</a>
+
+                    
+<header class="navbar navbar-expand-lg flex-column sticky-top py-[2rem] o-header o-header--site">
+    <div class="container px-3">
+        <div class="d-grid align-items-center">
+                            <a href="https://familiezorg.be" id="logo" class="navbar-brand z-[1046] c-site-title h-[1.675rem]" aria-label="Familiezorg">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="150" height="26" viewBox="0 0 150 26" fill="none">
+  <path d="M61.6323 0H58.329C58.3091 0 58.293 0.0161187 58.293 0.0360021V2.48639C58.293 2.50628 58.3091 2.52239 58.329 2.52239H61.6323C61.6522 2.52239 61.6683 2.50628 61.6683 2.48639V0.0360021C61.6683 0.0161187 61.6522 0 61.6323 0Z" fill="currentColor"/>
+  <path d="M61.396 4.9751H58.5341C58.5142 4.9751 58.498 4.99122 58.498 5.0111V20.8543C58.498 20.8741 58.5142 20.8903 58.5341 20.8903H61.396C61.4159 20.8903 61.4321 20.8741 61.4321 20.8543V5.0111C61.4321 4.99122 61.4159 4.9751 61.396 4.9751Z" fill="currentColor"/>
+  <path d="M13.605 0.443359H5.87931C2.63229 0.443359 0 3.07376 0 6.31844V20.8543C0 20.8745 0.0157622 20.8903 0.0360279 20.8903H3.0984C3.11867 20.8903 3.13443 20.8745 3.13443 20.8543V12.5108C3.13443 12.4905 3.15019 12.4748 3.17046 12.4748H11.8735C11.8937 12.4748 11.9095 12.459 11.9095 12.4388V9.54738C11.9095 9.52713 11.8937 9.51138 11.8735 9.51138H6.17654C4.5125 9.51138 3.15695 10.848 3.13443 12.5108V6.64021C3.13443 4.85586 4.5823 3.41128 6.36569 3.41128H13.6005C13.6208 3.41128 13.6366 3.39553 13.6366 3.37528V0.479361C13.6366 0.45911 13.6208 0.443359 13.6005 0.443359H13.605Z" fill="currentColor"/>
+  <path d="M64.6073 0H67.5008C67.5211 0 67.5368 0.0157509 67.5368 0.036002V20.8519C67.5368 20.8722 67.5211 20.8879 67.5008 20.8879H64.6073C64.5871 20.8879 64.5713 20.8722 64.5713 20.8519V0.036002C64.5713 0.0157509 64.5871 0 64.6073 0Z" fill="currentColor"/>
+  <path d="M49.9393 4.56787C46.8364 4.56787 44.9607 6.13621 44.3798 9.5429H44.346C44.0398 6.68074 42.5041 4.56787 38.8563 4.56787C36.0596 4.56787 33.979 6.0327 33.2967 9.27064H33.2629V5.0134C33.2629 4.99315 33.2472 4.97739 33.2269 4.97739H30.3334C30.3131 4.97739 30.2974 4.99315 30.2974 5.0134V20.8543C30.2974 20.8745 30.3131 20.8903 30.3334 20.8903H33.2269C33.2472 20.8903 33.2629 20.8745 33.2629 20.8543V11.451C33.2629 8.79361 34.8999 7.25902 37.629 7.25902C40.527 7.25902 41.448 9.27064 41.448 11.451V20.8543C41.448 20.8745 41.4638 20.8903 41.484 20.8903H44.3775C44.3978 20.8903 44.4136 20.8745 44.4136 20.8543V11.451C44.4136 8.79361 46.0506 7.25902 48.7797 7.25902C51.6777 7.25902 52.5987 9.27064 52.5987 11.451V20.8543C52.5987 20.8745 52.6144 20.8903 52.6347 20.8903H55.5282C55.5484 20.8903 55.5642 20.8745 55.5642 20.8543V10.7017C55.5642 7.29278 54.1321 4.56787 49.9371 4.56787H49.9393Z" fill="currentColor"/>
+  <path d="M21.2928 4.63506C17.1113 4.63506 14.9294 6.70068 14.3754 10.3909C14.3732 10.4111 14.3867 10.4314 14.407 10.4336L17.1653 10.8319C17.1856 10.8342 17.2036 10.8207 17.2081 10.8004C17.6562 8.20152 18.9172 7.15521 21.1915 7.15521C23.7157 7.15521 24.6704 8.51878 24.6704 11.0074V11.822C24.6704 11.8422 24.6546 11.858 24.6344 11.858H19.5207C15.6679 11.858 13.8936 13.9371 13.8936 16.7318C13.8936 19.7312 15.9066 21.2298 19.0095 21.2298C21.7724 21.2298 23.9206 19.7649 24.6366 16.833H24.6704V20.8517C24.6704 20.872 24.6862 20.8877 24.7064 20.8877H27.5999C27.6202 20.8877 27.636 20.872 27.636 20.8517V10.9714C27.636 6.88294 25.7265 4.63281 21.2928 4.63281V4.63506ZM24.6682 14.9609C24.6682 17.1413 22.86 18.7434 19.9282 18.7434C17.6089 18.7434 16.8253 17.5846 16.8253 16.3582C16.8253 14.9609 17.9174 14.2116 19.9282 14.2116H24.6321C24.6524 14.2116 24.6682 14.2274 24.6682 14.2476V14.9609Z" fill="currentColor"/>
+  <path d="M106.343 18.233H101.333C99.6353 18.233 97.7348 18.2668 96.037 18.3005C96.0234 18.3005 96.0099 18.2938 96.0032 18.2803L95.9919 18.2555C95.9852 18.242 95.9874 18.224 95.9987 18.2128L106.201 7.64394C106.201 7.64394 106.213 7.62819 106.213 7.61919V5.01354C106.213 4.99329 106.197 4.97754 106.177 4.97754H92.7111C92.6909 4.97754 92.6751 4.99329 92.6751 5.01354V7.59669C92.6751 7.61694 92.6909 7.63269 92.7111 7.63269H96.5278C98.5341 7.63269 100.712 7.59894 102.583 7.56519C102.592 7.56519 102.603 7.56969 102.61 7.57644L102.632 7.59894L92.4116 18.2195C92.4116 18.2195 92.4004 18.2353 92.4004 18.2443V20.8499C92.4004 20.8702 92.4162 20.8859 92.4364 20.8859H106.345C106.366 20.8859 106.381 20.8702 106.381 20.8499V18.2668C106.381 18.2465 106.366 18.2308 106.345 18.2308L106.343 18.233Z" fill="currentColor"/>
+  <path d="M115.621 4.56787C110.777 4.56787 107.505 7.66855 107.505 12.8821C107.505 18.0956 110.541 21.2998 115.621 21.2998C120.701 21.2998 123.668 18.0619 123.668 12.8821C123.668 7.7023 120.394 4.56787 115.621 4.56787ZM115.587 18.5727C112.279 18.5727 110.471 16.2888 110.471 12.8461C110.471 9.4034 112.414 7.29053 115.587 7.29053C118.76 7.29053 120.703 9.43715 120.703 12.8461C120.703 16.255 118.861 18.5727 115.587 18.5727Z" fill="currentColor"/>
+  <path d="M134.24 4.9751H133.288C130.736 4.9751 129.237 6.16092 128.586 9.85113C128.584 9.86913 128.568 9.88263 128.55 9.88263C128.53 9.88263 128.514 9.86688 128.514 9.84662V5.01335C128.514 4.9931 128.498 4.97735 128.478 4.97735H125.584C125.564 4.97735 125.548 4.9931 125.548 5.01335V20.8543C125.548 20.8745 125.564 20.8903 125.584 20.8903H128.478C128.498 20.8903 128.514 20.8745 128.514 20.8543V12.4748C128.514 9.40785 129.845 8.24903 132.844 8.24903H134.24C134.26 8.24903 134.276 8.23328 134.276 8.21303V5.0156C134.276 4.99535 134.26 4.9796 134.24 4.9796V4.9751Z" fill="currentColor"/>
+  <path d="M73.5376 4.9751H70.6757C70.6558 4.9751 70.6396 4.99122 70.6396 5.0111V20.8543C70.6396 20.8741 70.6558 20.8903 70.6757 20.8903H73.5376C73.5575 20.8903 73.5737 20.8741 73.5737 20.8543V5.0111C73.5737 4.99122 73.5575 4.9751 73.5376 4.9751Z" fill="currentColor"/>
+  <path d="M149.962 4.97519H147.069C147.048 4.97519 147.032 4.99094 147.032 5.01119V9.67346C147.032 9.69371 147.017 9.70946 146.996 9.70946C146.978 9.70946 146.965 9.69821 146.96 9.68021C146.307 6.49403 144.465 4.52966 140.998 4.56342C136.87 4.52966 134.45 7.42558 134.45 12.4704C134.45 17.1394 136.701 20.0015 141.099 20.0015C144.261 20.0015 146.168 18.3094 146.888 15.8028C146.893 15.7871 146.906 15.7758 146.924 15.7758H146.996C147.017 15.7758 147.032 15.7916 147.032 15.8118V18.8427C147.032 21.5001 146.01 23.4442 142.189 23.4442C139.104 23.4442 137.737 22.0964 137.487 20.0736C137.485 20.0533 137.467 20.0398 137.447 20.042L134.45 20.4403C134.429 20.4426 134.416 20.4606 134.418 20.4808C134.808 24.1373 137.636 26.0004 142.225 26.0004C147.237 26.0004 150 23.478 150 18.8427V5.01344C150 4.99319 149.985 4.97744 149.964 4.97744L149.962 4.97519ZM147.03 12.7449C147.03 15.7106 145.121 17.4139 142.119 17.4139C138.946 17.4139 137.413 15.607 137.413 12.3691C137.413 9.13118 139.05 7.22307 142.119 7.22307C145.188 7.22307 147.03 9.36969 147.03 12.6414V12.7426V12.7449Z" fill="currentColor"/>
+  <path d="M83.8709 4.56787C79.0274 4.56787 75.7871 7.73605 75.7871 13.0531C75.7871 18.3702 78.9936 21.2661 83.9047 21.2661C87.9488 21.2661 90.2298 19.2702 91.0562 16.156C91.0607 16.1358 91.0494 16.1155 91.0314 16.111L88.4757 15.3482C88.4554 15.3415 88.4352 15.3527 88.4307 15.373C87.8812 17.2293 86.7509 18.6784 83.9047 18.6784C80.8828 18.6784 79.0769 16.9886 78.7594 13.9149C78.7594 13.8924 78.7752 13.8744 78.7954 13.8744H91.0652C91.0832 13.8744 91.1012 13.8587 91.1012 13.8406C91.1665 13.1049 91.1665 12.4703 91.1665 11.9663C91.1665 7.60329 88.6086 4.57012 83.8686 4.57012L83.8709 4.56787ZM88.3338 11.5523H78.8675C78.845 11.5523 78.827 11.532 78.8315 11.5095C79.2525 8.5731 81.0562 7.12177 83.7696 7.12177C86.6878 7.12177 88.156 8.70811 88.3699 11.5118C88.3699 11.532 88.3541 11.5523 88.3338 11.5523Z" fill="currentColor"/>
+  <path d="M70.4728 0H73.7739C73.7942 0 73.8099 0.0157509 73.8099 0.0360021V2.48414C73.8099 2.50439 73.7942 2.52014 73.7739 2.52014H70.4706C70.4503 2.52014 70.4346 2.50439 70.4346 2.48414V0.0360021C70.4346 0.0157509 70.4503 0 70.4706 0H70.4728Z" fill="currentColor"/>
+</svg>
+                </a>
+            
+                            <a href="https://familiezorg.be" id="logo-secondary" class="navbar-brand z-[1046] h-[3rem] c-site-title" aria-label="Familiezorg">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="246.55" height="261.96" viewBox="0 0 246.55 261.96" fill="none"><path d="M79.477,261.96C35.649,261.96,0,226.668,0,183.279V112.434c0-43.36,35.649-78.652,79.477-78.652h69.568V49.455H79.477c-35.092,0-63.616,28.268-63.616,62.979V136.2A79.729,79.729,0,0,1,79.477,104.6h40.6V120.27h-40.6c-35.092,0-63.616,28.268-63.616,62.979s28.554,63.008,63.616,63.008v15.7Zm87.6-33.783H97.506V212.5h69.568c35.092,0,63.646-28.268,63.646-63.008v-23.77a79.743,79.743,0,0,1-63.646,31.606h-40.6V141.66h40.6c35.092,0,63.646-28.268,63.646-62.979s-28.554-63.009-63.646-63.009V0C210.9,0,246.55,35.292,246.55,78.681v70.844c0,43.389-35.649,78.681-79.477,78.681Z" fill="currentColor"/></svg>
+                </a>
+                    </div>
+
+        <div class="offcanvas offcanvas-end w-100 border-0 c-offcanvas" tabindex="-1" id="mainNav" aria-labelledby="mainNavOffcanvasLabel" data-bs-scroll="true" data-bs-backdrop="false">
+            <div class="offcanvas-body flex-column c-offcanvas__body">
+                <div class="d-flex flex-column flex-lg-row justify-content-end gap-3 gap-lg-5">
+                    
+    <ul class="nav c-navigation-menu c-navigation--header justify-content-center justify-content-lg-end flex-column flex-sm-row z-[1047]">
+                    <li class="position-relative nav-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-809">
+                                    <a href="https://familiezorg.be/aanbod-thuiszorg/" class="nav-link dropdown-toggle mb-2 mb-lg-0 text-center rounded-pill" data-bs-toggle="dropdown" aria-expanded="false">Aanbod</a>
+
+                    <ul class="sub-menu dropdown-menu shadow-sm w-100 w-sm-auto mt-3 p-4 border-0 rounded-[1.5rem]">
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start menu-item menu-item-type-custom menu-item-object-custom menu-item-1439">
+                                <a href="https://familiezorg.be/dienst/gezinszorg/" class="dropdown-item px-0 py-1" target="_self">Gezinszorg</a>
+                            </li>
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start menu-item menu-item-type-post_type menu-item-object-dienst menu-item-1005">
+                                <a href="https://familiezorg.be/dienst/kraamzorg/" class="dropdown-item px-0 py-1" target="_self">Kraamzorg</a>
+                            </li>
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start menu-item menu-item-type-custom menu-item-object-custom menu-item-1440">
+                                <a href="https://familiezorg.be/dienst/klusjesdienst/" class="dropdown-item px-0 py-1" target="_self">Klusjesdienst</a>
+                            </li>
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start menu-item menu-item-type-custom menu-item-object-custom menu-item-1441">
+                                <a href="https://familiezorg.be/dienst/poetsdienst/" class="dropdown-item px-0 py-1" target="_self">Poetsdienst</a>
+                            </li>
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start menu-item menu-item-type-custom menu-item-object-custom menu-item-1442">
+                                <a href="https://familiezorg.be/dienst/oppas-ziek-kind/" class="dropdown-item px-0 py-1" target="_self">Oppas ziek kind</a>
+                            </li>
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start menu-item menu-item-type-custom menu-item-object-custom menu-item-1446">
+                                <a href="https://familiezorg.be/dienst/acute-zorg/" class="dropdown-item px-0 py-1" target="_self">Acute zorg</a>
+                            </li>
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start menu-item menu-item-type-custom menu-item-object-custom menu-item-1443">
+                                <a href="https://familiezorg.be/dienst/dagopvang-ouderen/" class="dropdown-item px-0 py-1" target="_self">Dagopvang ouderen</a>
+                            </li>
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start menu-item menu-item-type-custom menu-item-object-custom menu-item-1444">
+                                <a href="https://familiezorg.be/dienst/dagopvang-jonge-personen-met-dementie/" class="dropdown-item px-0 py-1" target="_self">Dagopvang jongdementie</a>
+                            </li>
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start menu-item menu-item-type-custom menu-item-object-custom menu-item-1445">
+                                <a href="https://familiezorg.be/dienst/zorgbegeleiding-jonge-personen-met-dementie/" class="dropdown-item px-0 py-1" target="_self">Zorgbegeleiding jongdementie</a>
+                            </li>
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start btn btn-primary no-arrow w-100 mt-3 text-lg-center menu-item menu-item-type-post_type menu-item-object-page menu-item-1035">
+                                <a href="https://familiezorg.be/aanbod-thuiszorg/" class="dropdown-item px-0 py-1" target="_self">Ontdek ons volledige aanbod!</a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="position-relative nav-item menu-item menu-item-type-post_type_archive menu-item-object-doelgroep menu-item-has-children menu-item-894">
+                                    <a href="https://familiezorg.be/doelgroepen/" class="nav-link dropdown-toggle mb-2 mb-lg-0 text-center rounded-pill" data-bs-toggle="dropdown" aria-expanded="false">Zorg voor ...</a>
+
+                    <ul class="sub-menu dropdown-menu shadow-sm w-100 w-sm-auto mt-3 p-4 border-0 rounded-[1.5rem]">
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start menu-item menu-item-type-post_type menu-item-object-doelgroep menu-item-1006">
+                                <a href="https://familiezorg.be/doelgroep/gezinnen/" class="dropdown-item px-0 py-1" target="_self">Gezinnen</a>
+                            </li>
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start menu-item menu-item-type-post_type menu-item-object-doelgroep menu-item-2396">
+                                <a href="https://familiezorg.be/doelgroep/zorg-voor-ouderen/" class="dropdown-item px-0 py-1" target="_self">Ouderen</a>
+                            </li>
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start menu-item menu-item-type-post_type menu-item-object-doelgroep menu-item-2394">
+                                <a href="https://familiezorg.be/doelgroep/alleenstaanden/" class="dropdown-item px-0 py-1" target="_self">Alleenstaanden</a>
+                            </li>
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start menu-item menu-item-type-post_type menu-item-object-doelgroep menu-item-2395">
+                                <a href="https://familiezorg.be/doelgroep/kinderen-en-babys/" class="dropdown-item px-0 py-1" target="_self">Kinderen en baby’s</a>
+                            </li>
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start menu-item menu-item-type-post_type menu-item-object-doelgroep menu-item-2392">
+                                <a href="https://familiezorg.be/doelgroep/jonge-personen-met-dementie/" class="dropdown-item px-0 py-1" target="_self">Jonge personen met dementie</a>
+                            </li>
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start menu-item menu-item-type-post_type menu-item-object-doelgroep menu-item-2391">
+                                <a href="https://familiezorg.be/doelgroep/personen-met-een-handicap/" class="dropdown-item px-0 py-1" target="_self">Personen met een handicap</a>
+                            </li>
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start menu-item menu-item-type-post_type menu-item-object-doelgroep menu-item-2390">
+                                <a href="https://familiezorg.be/doelgroep/zorg-voor-personen-in-een-kwetsbare-situatie/" class="dropdown-item px-0 py-1" target="_self">Personen in een kwetsbare situatie</a>
+                            </li>
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start menu-item menu-item-type-post_type menu-item-object-doelgroep menu-item-2393">
+                                <a href="https://familiezorg.be/doelgroep/herstel-en-revalidatie/" class="dropdown-item px-0 py-1" target="_self">Herstel en revalidatie</a>
+                            </li>
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start menu-item menu-item-type-post_type menu-item-object-doelgroep menu-item-2389">
+                                <a href="https://familiezorg.be/doelgroep/mantelzorgers/" class="dropdown-item px-0 py-1" target="_self">Mantelzorgers</a>
+                            </li>
+                                                    <li class="nav-item dropdown-menu-item text-center text-lg-start btn btn-primary no-arrow w-100 mt-3 text-lg-center menu-item menu-item-type-post_type_archive menu-item-object-doelgroep menu-item-1036">
+                                <a href="https://familiezorg.be/doelgroepen/" class="dropdown-item px-0 py-1" target="_self">Iedereen</a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="position-relative nav-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1458">
+                                    <a href="https://familiezorg.be/werken-bij-familiezorg/" class="nav-link mb-2 mb-lg-0 text-center rounded-pill" target="_self">Jobs</a>
+                            </li>
+                    <li class="position-relative nav-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1459">
+                                    <a href="https://familiezorg.be/opleiding-verzorgende-zorgkundige/" class="nav-link mb-2 mb-lg-0 text-center rounded-pill" target="_self">Opleiding</a>
+                            </li>
+                    <li class="position-relative nav-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1460">
+                                    <a href="https://familiezorg.be/zorg-aanvragen/" class="nav-link mb-2 mb-lg-0 text-center rounded-pill" target="_self">Aanvraag indienen</a>
+                            </li>
+                    <li class="position-relative nav-item menu-item menu-item-type-post_type menu-item-object-page menu-item-921">
+                                    <a href="https://familiezorg.be/wij-zijn-familiezorg/" class="nav-link mb-2 mb-lg-0 text-center rounded-pill" target="_self">Over ons</a>
+                            </li>
+                    <li class="position-relative nav-item menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-949 current_page_item menu-item-956">
+                                    <a href="https://familiezorg.be/contact/" class="nav-link mb-2 mb-lg-0 text-center rounded-pill" target="_self">Contact</a>
+                            </li>
+            </ul>
+
+                    <ul class="nav c-navigation-menu justify-content-center c-navigation--header z-[1046]">
+                        <li class="nav-item menu-item menu-search">
+                            <a href="https://familiezorg.be?s" class="nav-link mb-0 text-center rounded-pill" aria-label="Zoeken" target="_self">
+                                <i class="fa-sharp fa-light fa-magnifying-glass me-xl-2"></i>
+                                <span class="d-none d-xl-inline-block">Zoeken</span>
+                            </a>
+                        </li>
+                        <li class="nav-item menu-item menu-login">
+                            <a href="https://familiezorg.be/wp-login.php?redirect_to=https%3A%2F%2Ffamiliezorg.be" class="nav-link mb-0 text-center rounded-pill" aria-label="Login" target="_self">
+                                <i class="fa-sharp fa-light fa-user"></i>
+                                <span class="visually-hidden">Login</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <button class="navbar-toggler border-0 rounded-pill focus-ring z-[1046]" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNav" data-bs-scroll="false" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">Menu</button>
+    </div>
+</header>        
+            <main id="main" role="main">
+        
+
+
+            <section  class="overflow-x-hidden o-section c-hero" style="padding-top:var(--wp--preset--spacing--5);padding-bottom:var(--wp--preset--spacing--0)" class="wp-block-familiezorg-hero">
+            
+            
+
+<div class="container d-flex flex-column">
+                        <h1 class="display-1 fw-normal mb-[2rem] c-hero__title animate-slide--left">Contact</h1>
+
+                    
+                    
+                    <p class="lead fw-normal w-100 mw-[650px] c-hero__intro">Onze medewerkers helpen je graag.</p>
+                </div>
+        </section>
+    
+
+
+
+    <section  class="o-section" style="padding-top:var(--wp--preset--spacing--2);padding-bottom:var(--wp--preset--spacing--4)" class="wp-block-familiezorg-form">
+        
+
+<div class="container p-5 scheme-fog bg-scheme-shade rounded-[1.5rem]">
+                    
+
+                                    <div class="row justify-content-between gy-4">
+                                                    <div class="col col-12 col-lg-5 order-lg-2 py-lg-5 c-form__content">
+                                <h2 class="h3">Neem contact op</h2>
+<p><strong>E-mail</strong><br />
+<a href="mailto:info@familiezorg.be">info@familiezorg.be</a></p>
+<p><strong>Hoofdkantoor</strong><br />
+Vogelenzang 29, 9000 Gent<br />
+<a href="tel:+3292257883">+32 9 225 78 83</a></p>
+<p><strong>Kantoor Vlaams-Brabant</strong><br />
+Rozenlaan 6, 1790 Affligem<br />
+<a href="tel:+3224612900">+32 2 461 29 00</a></p>
+
+                            </div>
+                                                    
+                                                    <div class="col col-12 col-lg-6 order-lg-1 p-5 scheme-fog bg-scheme-contrast rounded-[1.5rem]">
+                                
+                <div class='gf_browser_chrome gform_wrapper gravity-theme gform-theme--no-framework c-form_wrapper c-form--contact_wrapper' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_1' ><div id='gf_1' class='gform_anchor' tabindex='-1'></div>
+                        <div class='gform_heading'>
+							<p class='gform_required_legend'></p>
+                        </div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1' class='c-form c-form--contact' action='/contact/#gf_1' data-formid='1' novalidate>
+                        <div class='gform-body gform_body'><div id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below validation_below'><div id="field_1_6" class="gfield gfield--type-html gfield--input-type-html gfield--width-full gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  ><h2 class="h3 mb-0">Laat een bericht achter</h2></div><div id="field_1_1" class="gfield gfield--type-text gfield--input-type-text gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  ><label class="gfield_label gform-field-label form-label" for='input_1_1'>Naam<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_text'><input name='input_1' id='input_1_1' type='text' value='' class="large form-control"    placeholder='Hoe mogen we je noemen? *' aria-required="true" aria-invalid="false"   /></div></div><div id="field_1_3" class="gfield gfield--type-email gfield--input-type-email gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  ><label class="gfield_label gform-field-label form-label" for='input_1_3'>E-mailadres<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_3' id='input_1_3' type='email' value='' class="large form-control"   placeholder='Hoe kunnen we je bereiken (e-mailadres) *' aria-required="true" aria-invalid="false"  />
+                        </div></div><div id="field_1_4" class="gfield gfield--type-textarea gfield--input-type-textarea gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_above hidden_label field_validation_below gfield_visibility_visible"  ><label class="gfield_label gform-field-label form-label" for='input_1_4'>Bericht<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_textarea'><textarea name='input_4' id='input_1_4' class="textarea medium form-control"    placeholder='Wat kunnen we voor je doen?' aria-required="true" aria-invalid="false"   rows='10' cols='50'></textarea></div></div><fieldset id="field_1_5" class="gfield gfield--type-consent gfield--type-choice gfield--input-type-consent gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  ><legend class='gfield_label gform-field-label gfield_label_before_complex' >Consent<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></legend><div class='ginput_container ginput_container_consent'><input class="form-check-input" name='input_5.1' id='input_1_5_1' type='checkbox' value='1'   aria-required="true" aria-invalid="false"   /> <label class="gform-field-label gform-field-label--type-inline gfield_consent_label form-check-label" for='input_1_5_1' >Ik ga akkoord met het <a href="https://staging.familiezorg.be/privacy-policy/">privacybeleid</a>.<span class="gfield_required gfield_required_asterisk">*</span></label><input type='hidden' name='input_5.2' value='Ik ga akkoord met het &lt;a href=&quot;https://staging.familiezorg.be/privacy-policy/&quot;&gt;privacybeleid&lt;/a&gt;.' class="gform_hidden form-check-input" /><input type='hidden' name='input_5.3' value='1' class="gform_hidden form-check-input" /></div></fieldset></div></div>
+        <div class='gform-footer gform_footer top_label'> <button id="gform_submit_button_1" type="submit" class="gform_button button btn btn-primary c-btn" onclick="gform.submission.handleButtonClick(this);" data-submission-type="submit">Verzend</button> <input type='hidden' name='gform_ajax' value='form_id=1&amp;title=&amp;description=&amp;tabindex=0&amp;theme=gravity-theme&amp;styles=[]&amp;hash=922d045e5ac0a0ed651559d3f63b05c5' />
+            <input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_1' value='iframe' />
+            <input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_1' id='gform_theme_1' value='gravity-theme' />
+            <input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_1' id='gform_style_settings_1' value='[]' />
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_currency' data-currency='EUR' value='iBdx1Gwr9BP/FF+f1YIs3xb4qFFh2RRAAQkaPuzG6LSTm4d0vP2udg7MmnRJS1F+qw3nyQOqVkAVT4k5ipKPK8ImNr/6eo2NJXkRWNFZ08o/YWs=' />
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJ7XCI1LjFcIjpcIjE2YzYwYmUzZjlmNWUwMDc0YzBkZWI0OTc5NWNjOTQzXCIsXCI1LjJcIjpcImJjOTMwYzJjZGY2ODcwMzdlZjVjNWMzZTBiZDkyNjYyXCIsXCI1LjNcIjpcIjE2YzYwYmUzZjlmNWUwMDc0YzBkZWI0OTc5NWNjOTQzXCJ9IiwiNTAxOTgzZDg3M2IyMzEzODFkMGQxZTY5ZTVmMWU1ZDIiXQ==' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1' title='Dit iframe bevat de vereiste logica om Ajax aangedreven Gravity Forms te verwerken.'></iframe>
+		                <script>
+gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://familiezorg.be/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://familiezorg.be/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 1, current_page );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} );
+</script>
+
+                            </div>
+                                            </div>
+                            </div>
+    </section>
+
+
+
+
+            <section  class="o-section" style="padding-top:var(--wp--preset--spacing--0);padding-bottom:var(--wp--preset--spacing--0)" class="wp-block-familiezorg-accordion">
+            
+
+<div class="container">
+                                                <div class="row justify-content-center">
+                            <div class="col col-12 col-md-10 col-lg-8">
+                                                                    <h2 class="h3">Hoe bereik ik Familiezorg?</h2>
+                                    <p>Zo bereik je ons hoofdkantoor op <b>Vogelenzang 29, 9000 Gent</b>.</p>
+                                                                
+                                <div class="accordion accordion-flush c-accordion c-accordion--subjects" id="subjects-block_31c771df534db25cf9b4980e6a284817">
+                                                                            <div class="accordion-item c-accordion__item">
+                                            <h3 class="accordion-header c-accordion__header">
+                                                <button class="accordion-button collapsed h5 px-0 mb-0 c-accordion__button" type="button" data-bs-toggle="collapse" data-bs-target="#subject-1" aria-expanded="false" aria-controls="subject-1">
+                                                    Met de (motor)fiets
+                                                </button>
+                                            </h3>
+
+                                            <div id="subject-1" class="accordion-collapse collapse" data-bs-parent="#subjects-block_31c771df534db25cf9b4980e6a284817">
+                                                <div class="accordion-body px-0 c-accordion__body small last:mb-0">
+                                                    <p>Ons hoofdkantoor is gemakkelijk en veilig te bereiken met de fiets. Naast de ingang zijn ook fietsenstallingen voorzien zodat je je (brom)fiets gemakkelijk kan parkeren.</p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <div class="accordion-item c-accordion__item">
+                                            <h3 class="accordion-header c-accordion__header">
+                                                <button class="accordion-button collapsed h5 px-0 mb-0 c-accordion__button" type="button" data-bs-toggle="collapse" data-bs-target="#subject-2" aria-expanded="false" aria-controls="subject-2">
+                                                    Met het openbaar vervoer
+                                                </button>
+                                            </h3>
+
+                                            <div id="subject-2" class="accordion-collapse collapse" data-bs-parent="#subjects-block_31c771df534db25cf9b4980e6a284817">
+                                                <div class="accordion-body px-0 c-accordion__body small last:mb-0">
+                                                    <p><strong>Bushaltes in de buurt: </strong></p>
+<ul>
+<li>Gent Voormanstraat</li>
+<li>Gent Sanderusstraat</li>
+<li>Gent Tolpoort (Tolhuislaan)</li>
+</ul>
+<p><strong>Vanaf Station Gent-Sint-Pieters:</strong></p>
+<p>Neem bus 55 (32 min) naar bushalte Gent Tolpoort (Tolhuislaan).</p>
+<p><strong>Vanaf Station Gent-Dampoort:</strong></p>
+<p>Neem bus 6 (18 min) of bus 5a, 5b, 55 of 56 (14 min wandelen naar bushalte Reep, daarna 6 min bus) naar bushalte Gent Tolpoort (Tolhuislaan).</p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <div class="accordion-item c-accordion__item">
+                                            <h3 class="accordion-header c-accordion__header">
+                                                <button class="accordion-button collapsed h5 px-0 mb-0 c-accordion__button" type="button" data-bs-toggle="collapse" data-bs-target="#subject-3" aria-expanded="false" aria-controls="subject-3">
+                                                    Met de auto
+                                                </button>
+                                            </h3>
+
+                                            <div id="subject-3" class="accordion-collapse collapse" data-bs-parent="#subjects-block_31c771df534db25cf9b4980e6a284817">
+                                                <div class="accordion-body px-0 c-accordion__body small last:mb-0">
+                                                    <h2 class="paragraph__title"><span style="font-size: 16px;">Parkeren kan op verschillende locaties rond het hoofdkantoor:</span></h2>
+<div class="text-content">
+<div class="field--name-field-text-column-2 field--type-text-long">
+<ul>
+<li>Blaisantvest: betalend (oranje zone) &#8211; overkant van de straat, 2 minuten stappen van het hoofdkantoor</li>
+<li>Gasmeterlaan: betalend (groene zone) &#8211; 5 tot 10 minuten stappen van het hoofdkantoor</li>
+<li>Wiedauwkaai: gratis – 10 minuten stappen van het hoofdkantoor</li>
+</ul>
+<p>Ons hoofdkantoor ligt aan de rand van de LEZ (Lage Emissie Zone). Controleer of jouw wagen zeker binnen mag in deze zone: <a class="ext" href="https://tinyurl.com/4de8yhd7" target="_blank" rel="noopener nofollow noreferrer" data-extlink="">https://tinyurl.com/4de8yhd7</a>.</p>
+</div>
+</div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                                    </div>
+        </section>
+    
+
+        
+
+            </main>
+
+                    
+<footer class="scheme-default text-scheme-base py-[6.5rem] o-footer o-footer--site">
+    <div class="container border-top border-sulu-70 py-[2.5rem]">
+        <div class="row gy-5 gx-xl-5">
+            <div class="col-12 col-md-6 col-xl-3">
+                                    <h2 class="h5 lead fw-semibold">Werken bij Familiezorg</h2><div class="menu-werken-bij-familiezorg-container"><ul id="menu-werken-bij-familiezorg" class="menu nav flex-column list-unstyled c-navigation c-navigation-menu c-navigation--widget"><li id="menu-item-31" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="https://jobs.familiezorg.be/nl/vacatures" class="nav-link">Vacatures</a></li>
+<li id="menu-item-32" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="https://familiezorg.be/werken-bij-familiezorg" class="nav-link">Werken bij Familiezorg</a></li>
+<li id="menu-item-33" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-33"><a href="https://familiezorg.be/opleiding-verzorgende/" class="nav-link">Opleiding tot verzorgende/zorgkundige</a></li>
+</ul></div>
+                            </div>
+
+            <div class="col-12 col-md-6 col-xl-3">
+                                    <h2 class="h5 lead fw-semibold">Over ons</h2><div class="menu-over-ons-container"><ul id="menu-over-ons" class="menu nav flex-column list-unstyled c-navigation c-navigation-menu c-navigation--widget"><li id="menu-item-856" class="nav-item menu-item menu-item-type-post_type menu-item-object-page menu-item-856"><a href="https://familiezorg.be/nieuws/" class="nav-link">Nieuws / Blog</a></li>
+<li id="menu-item-947" class="nav-item menu-item menu-item-type-post_type menu-item-object-page menu-item-947"><a href="https://familiezorg.be/complimenten/" class="nav-link">Complimenten</a></li>
+<li id="menu-item-948" class="nav-item menu-item menu-item-type-post_type menu-item-object-page menu-item-948"><a href="https://familiezorg.be/meldingen-en-klachten/" class="nav-link">Meldingen en klachten</a></li>
+<li id="menu-item-1130" class="nav-item menu-item menu-item-type-post_type_archive menu-item-object-download menu-item-1130"><a href="https://familiezorg.be/downloads/" class="nav-link">Brochures / Downloads</a></li>
+</ul></div>
+                            </div>
+
+            <div class="col-12 col-lg-6">
+                                    <p class="h5 lead fw-semibold has-lead-font-size wp-block-paragraph">Contact</p>
+
+<p class="wp-block-paragraph">ma - vr van 7.30 tot 17.00 uur</p>
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-461897f4 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p class="h6 fs-6 fw-semibold wp-block-paragraph">Hoofdkantoor</p>
+
+
+
+<p class="wp-block-paragraph">Vogelenzang 29<br>9000 Gent</p>
+
+
+
+<p class="wp-block-paragraph"><a href="mailto:info@familiezorg.be">info@familiezorg.be</a></p>
+
+
+
+<p class="wp-block-paragraph"><a href="tel:+3292257883">+32 9 225 78 83</a></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p class="h6 fs-6 fw-semibold wp-block-paragraph">Kantoor Vlaams-Brabant</p>
+
+
+
+<p class="wp-block-paragraph">Rozenlaan 6<br>1790 Affligem</p>
+
+
+
+<p class="wp-block-paragraph"><a href="mailto:info@familiezorg.be">info@familiezorg.be</a></p>
+
+
+
+<p class="wp-block-paragraph"><a href="tel:+3224612900" data-type="tel" data-id="tel:+3224612900">+32 2 461 29 00</a></p>
+</div>
+</div>
+                            </div>
+        </div>
+
+                    <div class="position-relative mb-4 mt-md-[6.5rem] min-h-md-[200px]">
+                
+    <ul class="nav c-navigation-menu justify-content-center gap-2 c-navigation--social c-list c-list--pills">
+                    <li class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-1135">
+                <a href="https://jobs.familiezorg.be/nl/vacatures" class="nav-link rounded-pill fw-medium" target="_self" rel="">Vacatures</a>
+            </li>
+                    <li class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-1132">
+                <a href="https://www.instagram.com/familiezorgovl/" class="nav-link rounded-pill fw-medium" target="_blank" rel="noreferrer nofollow">Instagram</a>
+            </li>
+                    <li class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-1133">
+                <a href="https://www.youtube.com/@familiezorgo-vl.5824" class="nav-link rounded-pill fw-medium" target="_blank" rel="noreferrer nofollow">YouTube</a>
+            </li>
+                    <li class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-1150">
+                <a href="https://www.linkedin.com/company/7243638/" class="nav-link rounded-pill fw-medium" target="_blank" rel="noreferrer nofollow">LinkedIn</a>
+            </li>
+                    <li class="nav-item menu-item menu-item-type-post_type_archive menu-item-object-doelgroep menu-item-1153">
+                <a href="https://familiezorg.be/doelgroepen/" class="nav-link rounded-pill fw-medium" target="_self" rel="">Zorg voor iedereen</a>
+            </li>
+                    <li class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-1137">
+                <a href="https://www.facebook.com/familiezorgovl/" class="nav-link rounded-pill fw-medium" target="_blank" rel="noreferrer nofollow">Facebook</a>
+            </li>
+                    <li class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-1154">
+                <a href="https://familiezorg.be/opleiding-verzorgende/" class="nav-link rounded-pill fw-medium" target="_self" rel="">Opleiding</a>
+            </li>
+            </ul>
+            </div>
+        
+        <div class="d-lg-flex align-items-center mt-lg-5 fs-6">
+                            
+    <ul class="nav c-navigation-menu d-flex flex-row justify-content-center justify-content-lg-start mb-4 mb-lg-0 c-navigation--footer">
+                    <li class="position-relative nav-item menu-item menu-item-type-post_type menu-item-object-page menu-item-998">
+                                    <a href="https://familiezorg.be/disclaimer/" class="nav-link" target="_self">Disclaimer</a>
+                            </li>
+                    <li class="position-relative nav-item menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-999">
+                                    <a href="https://familiezorg.be/privacy-policy/" class="nav-link" target="_self">Privacy Policy</a>
+                            </li>
+                    <li class="position-relative nav-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1003">
+                                    <a href="https://familiezorg.be/subsidierende-overheden/" class="nav-link" target="_self">Subsidiërende overheden</a>
+                            </li>
+            </ul>
+            
+            <p class="order-lg-first text-center mb-2 mb-lg-0 pe-4">&copy; Familiezorg</p>
+
+            <a href="https://karakters.be?utm_source=familiezorg&amp;utm_medium=site_mention&amp;utm_campaign=projects" title="Karakters" target="_blank" rel="nofollow noopener" class="nav-link text-center ms-lg-auto mb-2 mb-lg-0">
+                Web design door Karakters
+            </a>
+        </div>
+    </div>
+</footer>        
+        <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/media/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/_familiezorg/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="wp-dom-ready-js" src="https://familiezorg.be/wp-includes/js/dist/dom-ready.min.js?ver=a06281ae5cf5500e9317"></script>
+<script id="wp-hooks-js" src="https://familiezorg.be/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d"></script>
+<script id="wp-i18n-js" src="https://familiezorg.be/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="wp-a11y-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2026-06-19 08:53:52+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"nl_BE"},"Notifications":["Notificaties"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+//# sourceURL=wp-a11y-js-translations
+</script>
+<script id="wp-a11y-js" src="https://familiezorg.be/wp-includes/js/dist/a11y.min.js?ver=af934e5259bc51b8718e"></script>
+<script data-cookieconsent="ignore" id="gform_placeholder-js" defer='defer' src="https://familiezorg.be/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.10.4"></script>
+<script data-cookieconsent="ignore" id="gform_gravityforms_theme_vendors-js" defer='defer' src="https://familiezorg.be/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=7c651d0ba638ce98b9c65141edddd567"></script>
+<script data-cookieconsent="ignore" id="gform_gravityforms_theme-js-extra">
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"fa1555198a969f6b9b8c4d833a2a30c4"},"ajax":{"ajaxurl":"https://familiezorg.be/wp-admin/admin-ajax.php","ajax_submission_nonce":"4e8cd1f301","i18n":{"step_announcement":"Stap %1$s van %2$s, %3$s","unknown_error":"Er was een onbekende fout bij het verwerken van je aanvraag. Probeer het opnieuw.","error_403":"The request was blocked (403 error) for unknown security reasons. Remove any code-like text (scripts or DB queries) and try again."}}}},"hmr_dev":"","public_path":"https://familiezorg.be/wp-content/plugins/gravityforms/assets/js/dist/","config_nonce":"74b848dcae"};
+//# sourceURL=gform_gravityforms_theme-js-extra
+</script>
+<script data-cookieconsent="ignore" id="gform_gravityforms_theme-js" defer='defer' src="https://familiezorg.be/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=301fdc9aa6144168f3b854c4c2c8f6d3"></script>
+<script data-cookieconsent="ignore" data-wp-strategy="defer" defer id="familiezorg-js" src="https://familiezorg.be/wp-content/themes/_familiezorg/assets/dist/js/main.js?ver=1786428543"></script>
+<script>
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+</script>
+<script>
+gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "1", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 1, 1 );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );
+</script>
+
+    </body>
+</html>
