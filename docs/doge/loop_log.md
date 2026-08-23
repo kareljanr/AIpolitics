@@ -21708,3 +21708,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities nv_solano_wind; sources (+3); commitments (+1 Unknown); leaderboard weak; foi_queue ready; research_queue rq_1852=blocked_foi + rq_1853 spawned; loop_state ticks=1852; FOI draft gap_solano_jr2025mar_nbb_deposit_unresolved_l5.md
 - FOI opened: gap_solano_jr2025mar_nbb_deposit_unresolved_l5 (**ready**, human-send only)
 - NOT every-10 (next **1860**). Next: rq_1853 (**prefer non-Eneco live** AGB/Dijk92/FARO/HVZ/IGS).
+
+## Tick 1853 - 2026-08-25T23:00:00Z - rq_1853 Welzijnsvereniging KINA JR2025 (expl 3.80m / AFM 0.30m / member fees 0.24m)
+
+- Unit: **rq_1853** leftover dual residual after Solano FOI; preferred non-Eneco live. AGB Holar/Hoeilaart already mined; AGB Bornem still JR2024; Dijk92/Enebra CDN **403**; FARO NBB YE2024 (~50k). Took leftover **Welzijnsvereniging KINA p.v.** (Krisis Info Netwerk Antwerpen; KBO **0445.508.132**; zetel Malle; 26 OCMW vennoten / ~47 OCMW crisis netwerk).
+- Primary (strong, official BBC [KINA-BBC-JAARREKENING-2025.pdf](https://kina.be/app/uploads/2026/06/KINA-BBC-JAARREKENING-2025.pdf) 57p / 2062513 bytes; dated **17.06.2026**): expl ont **EUR3,795,843**; expl uit **EUR3,442,042**; expl saldo **EUR353,801**; AFM **EUR298,801**; invest uit **EUR71,663** / ont **EUR74,829** (onteigening Malle **66k**); fin repay **EUR55,000**; member fees 26 vennoten **EUR243,614** (=6pct opbr claim); crisis **448** persons / **5,945** nights; invest MASSIVE UNDERSPEND vs MJP eindkrediet **2.797m**. J2/J4/J5/T2 image-only.
+- Wrote: entities wv_kina; sources (+3); budgets (+10); commitments (+3); leaderboard (+3); foi_queue ready; research_queue rq_1853=done + rq_1854 spawned; loop_state ticks=1853; FOI draft gap_kina_balance_j5_vte_debt_stock_t2_l5.md
+- FOI opened: gap_kina_balance_j5_vte_debt_stock_t2_l5 (**ready**, human-send only)
+- NOT every-10 (next **1860**). Next: rq_1854 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ/IGS live).

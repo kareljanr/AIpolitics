@@ -51202,3 +51202,13 @@ bud_hvzm_ambulance_sale_33k_jr2025,igs_hvzm,2025,33073,,,JR2025 verslag verkoop 
 bud_hvzm_result_buit_36k_jr2025,igs_hvzm,2025,35831,,,JR2025 verslag begrotingsresultaat buitengewone,src_hvzm_jr2025_full_maldegem,strong,tick1851; resultaat buitengewoon 35831; not TE-additive
 bud_hvzm_invest_carry_59k_jr2025,igs_hvzm,2025,58585,,,JR2025 verslag overdracht vastleggingen invest 2026,src_hvzm_jr2025_full_maldegem,strong,tick1851; invest carry to 2026 58584.61; not TE-additive
 bud_hvzm_werking_carry_47k_jr2025,igs_hvzm,2025,46935,,,JR2025 verslag overdracht werking vastleggingen 2026,src_hvzm_jr2025_full_maldegem,strong,tick1851; werking carry to 2026 46934.51; not TE-additive
+bud_kina_expl_ont_3_80m_jr2025,wv_kina,2025,3795843,,,JR2025 J1/J3 exploitatie ontvangsten totaal,src_kina_jr2025_bbc,strong,tick1853; expl ont 3795843; not TE-additive
+bud_kina_expl_uit_3_44m_jr2025,wv_kina,2025,3442042,,,JR2025 J1/J3 exploitatie uitgaven totaal,src_kina_jr2025_bbc,strong,tick1853; expl uit 3442042; not TE-additive
+bud_kina_expl_saldo_0_35m_jr2025,wv_kina,2025,353801,,,JR2025 J1/J3 exploitatiesaldo,src_kina_jr2025_bbc,strong,tick1853; expl saldo 353801 vs MJP 375725; not TE-additive
+bud_kina_afm_0_30m_jr2025,wv_kina,2025,298801,,,JR2025 narratieve autofinancieringsmarge,src_kina_jr2025_bbc,strong,tick1853; AFM 298801 (p57); J2 image FOI cross-check; not TE-additive
+bud_kina_invest_uit_72k_jr2025,wv_kina,2025,71663,,,JR2025 J1/J3 investeringsuitgaven,src_kina_jr2025_bbc,strong,tick1853; invest uit 71663 vs MJP eindkrediet 2797413 MASSIVE UNDERSPEND; not TE-additive
+bud_kina_invest_ont_75k_jr2025,wv_kina,2025,74829,,,JR2025 J1/J3 investeringsontvangsten,src_kina_jr2025_bbc,strong,tick1853; invest ont 74829 (onteigening 66000 + gift 8292 + car 537); not TE-additive
+bud_kina_fin_repay_55k_jr2025,wv_kina,2025,55000,,,JR2025 J3 financiering leningen/leasings aflossingen,src_kina_jr2025_bbc,strong,tick1853; fin repay 55000 (=Boechout aankoop~25k + renovatie~30k); stock FOI; not TE-additive
+bud_kina_member_fees_0_24m_jr2025,wv_kina,2025,243614,,,JR2025 p32 contributies 26 vennoten,src_kina_jr2025_bbc,strong,tick1853; member fees 243614 =6pct of total opbrengsten (org claim); not TE-additive
+bud_kina_onteigening_66k_jr2025,wv_kina,2025,66000,,,JR2025 invest ontvangst onteigening Malle Antwerpsesteenweg,src_kina_jr2025_bbc,strong,tick1853; AWV onteigening 66000 for campus Malle bike-path works; not TE-additive
+bud_kina_link_sub_139k_jr2025,wv_kina,2025,139000,,,JR2025 Capacity Building LINK subsidies,src_kina_jr2025_bbc,strong,tick1853; LINK project subsidies 139000; not TE-additive
