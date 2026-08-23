@@ -22526,3 +22526,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+6); commitments (+1); leaderboard (+1); entities (updated bel_v); foi + draft gap_belv_nbb_pdf_fte_fanc_fee_lto_billing_l5; rq_1946=done + rq_1947 open; loop_state ticks=1946.
 - FOI opened: NBB PDF + FTE + FANC fee/LTO billing (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1950**). Next: rq_1947 (AGB/FARO-if-YE2025 / AIESH-if-YE2025 / otherHVZ-IGS).
+
+## Tick 1947 - 2026-08-27T20:45:00Z - rq_1947 CILE (omzet JUMP 159.7m / assets 460.1m / Strong)
+
+- Unit: **rq_1947** leftover dual after concurrent **rq_1946 Bel V** (already on main). Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO YE2024; AIESH YE2024; REW Wavre YE2024. Took leftover **CILE** (KBO **0202.395.052**; Rue Canal-de-l'Ourthe 8 Liege; Walloon water intercommunale pure; ~570k inhabitants / 24 communes; aanbestedende overheid). Do not redo Bel V/Dijk92/AIEG/Synergrid/Synatom/Atrias/RESA/Enodia/Fluxys*/ETB/Elia/BNO.
+- Primary hunt: **Strong** euros from [CILE Rapport annuel 2025 PDF](http://www.cile.be/sites/default/files/2026-08/CILE_RAPPORT_ANNUEL_2025.pdf) (AG **18.06.2026**; NBB neerlegging **30.06.2026**) + Medium CW bruto + Strong KBO: omzet **EUR159,695,588** (**JUMP +10.77%**); PnL **EUR4,466,433** (**DROP -87.69%**); equity **EUR366,590,582**; assets **EUR460,098,358**; debt **EUR90,115,578**; cash **EUR24,981,300** (**DROP**); pers **EUR40,265,740**; FTE **393.7**; bruto CW **EUR64,854,591**.
+- Wrote: sources (+3); budgets (+9); commitments (+1); leaderboard (+1); entities (+1 igs_cile); foi + draft gap_cile_commune_share_dividend_bei_swde_l5; rq_1947=done + rq_1948 open; loop_state ticks=1947.
+- FOI opened: commune share/dividend + BEI schedule + SWDE purchase matrix (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1950**). Next: rq_1948 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / Laborelec-if-live).
+
+
+## Tick 1947 - 2026-08-27T20:45:00Z - rq_1947 NIRAS (assets 1.777bn / omzet 315.6m / Strong)
+
+- Unit: **rq_1947** leftover dual after Bel V. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**. Took leftover **NIRAS/ONDRAF** (KBO **0222.116.241**; Koning Albert II-laan 32 Brussel; federal radioactive-waste agency; NON-Eneco). Do not redo Bel V/Synatom/Dijk92/AIEG/Synergrid.
+- Primary: official [NIRAS Financieel Verslag 2025 PDF](https://www.datocms-assets.com/151156/1778046016-financieel-verslag-2025.pdf) (kEUR tables). **Strong** statutory euros: omzet **EUR315,625,000**; PnL **LOSS EUR2,646,000**; equity **EUR185,449,000**; assets **EUR1,776,604,000**; debt **EUR1,327,024,000**; wages **EUR27,825,000**; cash **EUR916,208,000**; provisions **EUR264,131,000**.
+- Wrote: sources (+2); budgets (+7); commitments (+1); leaderboard (+1); entities (updated niras); foi + draft gap_niras_nbb_pdf_fte_hedera_flt_insolvenz_l5; rq_1947=done + rq_1948 open; loop_state ticks=1947.
+- FOI opened: NBB PDF + FTE + Hedera/FLT/insolvency (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1950**). Next: rq_1948 (AGB/FARO-if-YE2025 / AIESH-if-YE2025 / otherHVZ-IGS).
