@@ -52551,3 +52551,8 @@ bud_arewal_pnl_jr2025_statutory,sc_arewal,2025,1000,1000,1000,CW Profit/Loss YE2
 bud_arewal_equity_jr2025_statutory,sc_arewal,2025,31800,31800,31800,CW Equity / Eigen vermogen YE2025,src_arewal_jr2025_cw_en,medium,tick2098; equity JUMP 31800 (+3.25%) vs YE2024 30800; thin vs omzet
 bud_arewal_bruto_jr2025_statutory,sc_arewal,2025,920377,920377,920377,CW Gross margin / Brutomarge YE2025,src_arewal_jr2025_cw_en,medium,tick2098; bruto JUMP 920377 (+39.86%) vs YE2024 658058; with omzet DROP
 bud_arewal_fte_jr2025_statutory,sc_arewal,2025,7.7,7.7,7.7,CW social-balance FTE / Employees,src_arewal_jr2025_cw_en,medium,tick2098; FTE JUMP 7.7 vs YE2024 5.2
+bud_slg_op_vl_omzet_jr2025_statutory,nv_slg_operaties_vlaanderen,2025,58284887,58284887,58284887,CW turnover / Omzet YE2025 (primary envelope),src_slg_op_vl_jr2025_cw_en,medium,tick2099; omzet JUMP 58284887 (+424.09%) vs YE2024 11121236; merger-driven
+bud_slg_op_vl_pnl_jr2025_statutory,nv_slg_operaties_vlaanderen,2025,347702,347702,347702,CW Profit/Loss YE2025,src_slg_op_vl_jr2025_cw_en,medium,tick2099; pnl JUMP 347702 (+32.61%) vs YE2024 262190
+bud_slg_op_vl_equity_jr2025_statutory,nv_slg_operaties_vlaanderen,2025,19875741,19875741,19875741,CW Equity / Eigen vermogen YE2025,src_slg_op_vl_jr2025_cw_en,medium,tick2099; equity JUMP 19875741 (+200.99%) vs YE2024 6603371
+bud_slg_op_vl_bruto_jr2025_statutory,nv_slg_operaties_vlaanderen,2025,36784094,36784094,36784094,CW Gross margin / Brutomarge YE2025,src_slg_op_vl_jr2025_cw_en,medium,tick2099; bruto JUMP 36784094 (+440.36%) vs YE2024 6807365
+bud_slg_op_vl_fte_jr2025_statutory,nv_slg_operaties_vlaanderen,2025,1095.3,1095.3,1095.3,CW social-balance FTE / Employees,src_slg_op_vl_jr2025_cw_en,medium,tick2099; FTE JUMP 1095.3 vs YE2024 101.7; merger-driven

@@ -23933,3 +23933,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.5); entities (+1 sc_arewal); foi + draft gap_arewal_nbb_pdf_assets_debt_bruto_jump_equity_thin_matrix_l5; rq_2098=done + rq_2099 open; loop_state ticks=2098; raw docs/doge/data/raw/tick2097/ (gathered during race).
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 2100**). Next: rq_2099.
+
+
+## Tick 2099 - 2026-08-25T05:40:00Z - rq_2099 SLG Operaties Vlaanderen (omzet JUMP 58.28m / FTE JUMP 1095 / Medium)
+
+- Unit: **rq_2099** leftover dual after **rq_2098 AREWAL**. Prefer: AGB Bornem **JR2024-only**; FARO **YE2024**; AIESH **YE2024**; REW **YE2024**. Took deferred unused WZC ops **SLG Operaties Vlaanderen** YE2025 (KBO **0845.064.196**; Satenrozen 1B Kontich; NV ROB/RVT; **9 VE**; NACE **87.301/87.101**). KBO documents **7 absorptions** Jul 2025 (Heydeveld/Prinsenpark/Edelweis/Sporenpark/Maretak/Elckerlyc/Boneput) explaining scale JUMP. DISTINCT from Armonea NV / Colisée / emeis / Always Home.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR58284887** JUMP +424.09%; bruto **EUR36784094** JUMP +440.36%; pnl **EUR347702** JUMP +32.61%; equity **EUR19875741** JUMP +200.99%; FTE **1095.3** JUMP vs YE2024 101.7; neerlegging **28.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief NV kapitaal 2.67m. FOI via info@armonea.be. Omzet primary envelope.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.0); entities (+1 nv_slg_operaties_vlaanderen); foi + draft gap_slg_operaties_vl_nbb_pdf_assets_debt_merger_jump_matrix_l5; rq_2099=done + rq_2100 open; loop_state ticks=2099; raw docs/doge/data/raw/tick2099/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 2100** — MUST refresh progress + waste top10 then hole-fill). Next: rq_2100.
