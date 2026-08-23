@@ -23457,3 +23457,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.725); entities (+1 vzw_integro); foi + draft gap_integro_nbb_pdf_assets_debt_subsidy_matrix_l5; rq_2047=done + rq_2048 open; loop_state ticks=2047; raw under docs/doge/data/raw/tick2047/.
 - FOI: **ready not sent** (human-gated; info@integrozorg.eu).
 - NOT every-10 (**next every-10 is 2050**). Next: rq_2048 (FARO-if-YE2025 / AIESH-REW-if-YE2025 / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2048 - 2026-08-24T17:10:00Z - rq_2048 Ter Kimme (omzet JUMP 8.54m / pnl JUMP 0.60m / Medium)
+
+- Unit: **rq_2048** leftover dual after **rq_2047 Integro**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took unused leftover **Ter Kimme** YE2025 (KBO **0421.535.373**; Kloosterstraat 3 Sint-Lievens-Houtem; Oost-Vlaanderen **aanbestedende-overheid VZW** WZC / **1 VE**). Huize Vincent / Hof ter Waarbeek YE2025 also live — deferred. Do not redo Integro/Curando/AGB Bornem/De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/C.W.Z.C. Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hieronymus/WZC Sint-Barbara/PC Gent-Sleidinge/Molenheide/Veilige Have/Witte Meren.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR8,539,894** JUMP +1.92%; pnl **EUR602,018** JUMP +4.77%; equity **EUR20,458,585** JUMP +2.91%; bruto **EUR8,022,468** DROP −1.47%; FTE **104.4**; neerlegging **17.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende overheid 1 VE; email info@terkimme.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.8); entities (+1 vzw_ter_kimme); foi + draft gap_ter_kimme_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2048=done + rq_2049 open; loop_state ticks=2048; raw under docs/doge/data/raw/tick2048/.
+- FOI: **ready not sent** (human-gated; info@terkimme.be).
+- NOT every-10 (**next every-10 is 2050**). Next: rq_2049 (AGB/FARO-if-YE2025 / AIESH-REW / Huize Vincent-Hof Waarbeek deferred / unused DSO-IGS-HVZ-WZC-psych).

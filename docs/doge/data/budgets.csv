@@ -52297,3 +52297,8 @@ bud_integro_pnl_jr2025_statutory,vzw_integro,2025,2089779,,,CW YE2025 Profit/Los
 bud_integro_equity_jr2025_statutory,vzw_integro,2025,49536655,,,CW YE2025 Eigen vermogen / Equity,src_integro_jr2025_cw_en,medium,tick2047; equity JUMP 49536655 +2.43pct vs YE2024 48361498
 bud_integro_bruto_jr2025_statutory,vzw_integro,2025,63694364,,,CW YE2025 Brutomarge / Gross margin,src_integro_jr2025_cw_en,medium,tick2047; bruto JUMP 63694364 +1.90pct vs YE2024 62506372
 bud_integro_fte_jr2025_statutory,vzw_integro,2025,813.5,,,CW social-balance FTE,src_integro_jr2025_cw_en,medium,tick2047; FTE DROP 813.5 vs YE2024 831.6
+bud_ter_kimme_omzet_jr2025_statutory,vzw_ter_kimme,2025,8539894,,,CW YE2025 omzet / Turnover,src_ter_kimme_jr2025_cw_en,medium,tick2048; omzet JUMP 8539894 +1.92pct vs YE2024 8379241
+bud_ter_kimme_pnl_jr2025_statutory,vzw_ter_kimme,2025,602018,,,CW YE2025 Profit/Loss,src_ter_kimme_jr2025_cw_en,medium,tick2048; pnl JUMP 602018 +4.77pct vs YE2024 574588
+bud_ter_kimme_equity_jr2025_statutory,vzw_ter_kimme,2025,20458585,,,CW YE2025 Eigen vermogen / Equity,src_ter_kimme_jr2025_cw_en,medium,tick2048; equity JUMP 20458585 +2.91pct vs YE2024 19880590
+bud_ter_kimme_bruto_jr2025_statutory,vzw_ter_kimme,2025,8022468,,,CW YE2025 Brutomarge / Gross margin,src_ter_kimme_jr2025_cw_en,medium,tick2048; bruto DROP 8022468 -1.47pct vs YE2024 8142086
+bud_ter_kimme_fte_jr2025_statutory,vzw_ter_kimme,2025,104.4,,,CW social-balance FTE,src_ter_kimme_jr2025_cw_en,medium,tick2048; YE2025 FTE 104.4

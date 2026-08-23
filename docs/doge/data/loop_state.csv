@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T16:55:00Z,rq_2047,2047,no,tick2047 leftover Integro 0654.847.196 Medium CW (omzet JUMP 63.70m pnl JUMP 2.09m equity JUMP 49.54m bruto JUMP 63.69m FTE 813.5; assets/debt Unknown); FARO/AIESH/REW YE2024; Huize Vincent/Hof ter Waarbeek/Ter Kimme YE2024; next rq_2048; next every-10 2050; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T17:10:00Z,rq_2048,2048,no,tick2048 leftover Ter Kimme 0421.535.373 Medium CW (omzet JUMP 8.54m pnl JUMP 0.60m equity JUMP 20.46m bruto DROP 8.02m FTE 104.4; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; Huize Vincent/Hof Waarbeek deferred; next rq_2049; next every-10 2050; continuous hole_fill
