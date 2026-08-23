@@ -51985,3 +51985,8 @@ bud_epicura_pnl_jr2025_statutory,vzw_epicura,2025,-2318017,,,CW YE2025 Profit/Lo
 bud_epicura_equity_jr2025_statutory,vzw_epicura,2025,66288513,,,CW YE2025 Eigen vermogen,src_epicura_jr2025_cw,medium,tick1985; equity DROP 66288513 -3.37pct vs YE2024 68602099
 bud_epicura_bruto_jr2025_statutory,vzw_epicura,2025,193877413,,,CW YE2025 Brutomarge,src_epicura_jr2025_cw,medium,tick1985; bruto JUMP 193877413 +0.18pct vs YE2024 193520369
 bud_epicura_fte_jr2025_statutory,vzw_epicura,2025,2511,,,CW social-balance FTE,src_epicura_jr2025_cw,medium,tick1985; YE2025 FTE 2511 vs YE2024 2511.6
+bud_chu_ucl_namur_omzet_jr2025_statutory,vzw_chu_ucl_namur,2025,637526612,,,CW YE2025 omzet / Turnover,src_chu_ucl_namur_jr2025_cw,medium,tick1986; omzet JUMP 637526612 +3.07pct vs YE2024 618538266
+bud_chu_ucl_namur_pnl_jr2025_statutory,vzw_chu_ucl_namur,2025,4182729,,,CW YE2025 Profit/Loss,src_chu_ucl_namur_jr2025_cw,medium,tick1986; pnl DROP 4182729 -28.82pct vs YE2024 5876517
+bud_chu_ucl_namur_equity_jr2025_statutory,vzw_chu_ucl_namur,2025,141955644,,,CW YE2025 Eigen vermogen,src_chu_ucl_namur_jr2025_cw,medium,tick1986; equity JUMP 141955644 +1.93pct vs YE2024 139265474
+bud_chu_ucl_namur_bruto_jr2025_statutory,vzw_chu_ucl_namur,2025,351668788,,,CW YE2025 Brutomarge,src_chu_ucl_namur_jr2025_cw,medium,tick1986; bruto JUMP 351668788 +2.15pct vs YE2024 344279642
+bud_chu_ucl_namur_fte_jr2025_statutory,vzw_chu_ucl_namur,2025,3597.6,,,CW social-balance FTE,src_chu_ucl_namur_jr2025_cw,medium,tick1986; YE2025 FTE 3597.6 vs YE2024 3599.7

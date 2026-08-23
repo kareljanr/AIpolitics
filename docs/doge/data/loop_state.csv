@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-23T23:55:00Z,rq_1985,1985,no,tick1985 leftover Epicura 0842.335.231 Medium CW (omzet JUMP 370.88m pnl LOSS 2.32m equity DROP 66.29m bruto JUMP 193.88m FTE 2511; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; ISoSL YE2025 deferred; next rq_1986; next every-10 1990; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T00:10:00Z,rq_1986,1986,no,tick1986 leftover CHU UCL Namur 0641.733.885 Medium CW (omzet JUMP 637.53m pnl DROP 4.18m equity JUMP 141.96m bruto JUMP 351.67m FTE 3597.6; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; ISoSL deferred; next rq_1987; next every-10 1990; continuous hole_fill

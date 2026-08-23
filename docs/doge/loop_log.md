@@ -22880,3 +22880,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1990**). Next: rq_1986 (AGB/FARO-if-YE2025 / AIESH-REW / ISoSL / unused DSO-IGS-HVZ).
 
+## Tick 1986 - 2026-08-24T00:10:00Z - rq_1986 CHU UCL Namur (omzet JUMP 637.53m / pnl DROP 4.18m / Medium)
+
+- Unit: **rq_1986** leftover dual after **rq_1985 Epicura**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took unused leftover **CHU UCL Namur** YE2025 (KBO **0641.733.885**; Godinne Yvoir; Namur **university hospital VZW**). ISoSL deferred. Do not redo Epicura/CHwapi/Vivalia/HELORA/IDETA/SPI/IDELUX Finances/IFIGA/SOFILUX/IDEFIN/FINIMO/FINEST/HYGEA/BEP*/IBH/IGRETEC/IPFBW/IDEA.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR637,526,612** JUMP +3.07%; pnl **EUR4,182,729** DROP -28.82%; equity **EUR141,955,644** JUMP +1.93%; bruto **EUR351,668,788** JUMP +2.15%; FTE **3597.6**; neerlegging **21.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 8 VE; no KBO email.
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_chu_ucl_namur); foi + draft gap_chu_ucl_namur_nbb_pdf_assets_debt_matrix_l5; rq_1986=done + rq_1987 open; loop_state ticks=1986.
+- FOI: **ready not sent** (human-gated; route via chuuclnamur.be).
+- NOT every-10 (**next every-10 is 1990**). Next: rq_1987 (AGB/FARO-if-YE2025 / AIESH-REW / ISoSL / unused DSO-IGS-HVZ-hospital).
+
