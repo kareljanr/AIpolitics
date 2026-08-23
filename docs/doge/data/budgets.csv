@@ -51492,3 +51492,7 @@ bud_seamade_pnl_jr2025,nv_seamade,2025,41748224,,,CW NBB-derived 9904,src_seamad
 bud_seamade_assets_jr2025,nv_seamade,2025,995616231,,,Upswitch NBB/CBSO 20/58,src_seamade_jr2025_upswitch,medium,tick1907; YE2025 assets 995616231 DROP vs 1050.7m
 bud_seamade_equity_jr2025,nv_seamade,2025,118451766,,,CW/Upswitch NBB-derived 10/15,src_seamade_jr2025_cw,medium,tick1907; YE2025 equity 118451766 JUMP +1.56pct
 bud_seamade_ebitda_jr2025,nv_seamade,2025,145135158,,,Upswitch NBB/CBSO EBITDA,src_seamade_jr2025_upswitch,medium,tick1907; YE2025 EBITDA 145135158 ~84.6pct omzet
+bud_elnu2sea_bruto_jr2025,nv_elnu2sea,2025,-38961,,,CW NBB-derived 9900 NEG,src_elnu2sea_jr2025_cw,medium,tick1908; YE2025 bruto NEG -38961
+bud_elnu2sea_pnl_jr2025,nv_elnu2sea,2025,-48637,,,CW NBB-derived 9904 LOSS,src_elnu2sea_jr2025_cw,medium,tick1908; YE2025 pnl LOSS -48637 DROP -265pct
+bud_elnu2sea_equity_jr2025,nv_elnu2sea,2025,31863718,,,CW NBB-derived 10/15,src_elnu2sea_jr2025_cw,medium,tick1908; YE2025 equity 31863718 JUMP +22.03pct
+bud_elnu2sea_fte_jr2025,nv_elnu2sea,2025,0,,,CW NBB-derived FTE,src_elnu2sea_jr2025_cw,medium,tick1908; YE2025 FTE 0 holding shell

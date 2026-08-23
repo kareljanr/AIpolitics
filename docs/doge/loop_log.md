@@ -22186,3 +22186,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_seamade_nbb_pdf_share_debt_ppa_l5; rq_1907=done + rq_1908 open; loop_state ticks=1907.
 - FOI opened: NBB PDF + share % / debt / PPA (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1910**). Next: rq_1908 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS).
+
+## Tick 1908 - 2026-08-27T01:15:00Z - rq_1908 ElNu2sea (equity 31.9m JUMP / LOSS 49k / Medium)
+
+- Unit: **rq_1908** leftover dual after SeaMade. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **2026-00377886 still 403**; FARO NBB YE2025 unpublished (Upswitch accounts through 2024). Skipped Norther (50% Eneco) for NON-Eneco prefer. Took leftover **ElNu2sea NV** (KBO **0779.421.724**; John Cordierlaan 9 Oostende; Elicio/Nethys public offshore holding; Nuhma-adjacent path).
+- Primary hunt: NBB CDN deposit unresolved; Upswitch empty this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0779421724/elnu2sea) + KBO (neerlegging **23.06.2026**; YE **31.12.2025**): omzet **empty**; bruto **NEG EUR-38,961**; PnL **LOSS EUR-48,637** (**DROP -265%**); equity **EUR31,863,718** (**JUMP +22.03%**); FTE **0**; assets **Unknown**.
+- Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_elnu2sea_nbb_pdf_assets_share_capital_jump_l5; rq_1908=done + rq_1909 open; loop_state ticks=1908.
+- FOI opened: NBB PDF + assets/share % / capital JUMP (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1910**). Next: rq_1909 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Norther-Nobelwind-if-live).
