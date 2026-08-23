@@ -20,6 +20,39 @@
 
 ---
 
+## Snapshot at **tick 1830** (2026-08-25)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1821-1830 leftover citizen renewable continuum after 1820 IKA Storm* batch |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1821-1830 is residual dual L5 (not near-complete of 348bn):** **Campina** FVA **5.03m** / PnL flip **0.41m** · **Energent** bruto **1.41m** / pers **0.89m** · **Beauvent** bruto **6.53m** / debt **17.65m** · **Ecopower** omzet JUMP **71.91m** / PnL flip **5.40m** / FVA **10.12m** · **Klimaan** opbr **0.76m** / subs_recv **0.53m** · **CoopStroom** bruto DROP **35k** / loss **0.41m** / **WVV 6:119 continuity** · **SeaCoop** FVA JUMP **20.49m** / loss **1.45m** / debt **9.14m** · **Stroomvloed** FVA **0.36m** / LT recv **1.09m** · **REScoop.VL** omzet DROP **26k** / pers **0.17m** · **ZuidtrAnt** FVA JUMP **0.47m** / bruto **0.39m** |
+| **E. FOI-ready gaps** | **~1447** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1496** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable shells** (**NEW citizen renewable continuum** Ecopower omzet **EUR71.91m** · Beauvent debt **EUR17.65m** · SeaCoop FVA **EUR20.49m** / VEH call · CoopStroom continuity alarm · Campina FVA **EUR5.03m** · ZuidtrAnt FVA **EUR0.47m** · prior **IKA Storm*/Zefier/W4F** / **VIVALTO LEASE** RIVAGE gage **EUR135.6m** retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1830)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 51053 |
+| commitments.csv | 5446 |
+| leaderboard.csv | 7603 |
+| entities.csv | 1548 |
+| sources.csv | 4302 |
+| FOI ready | 1447 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1496 |
+| research_queue open | rq_116 deferred + rq_1831 hole-fill after progress |
+
+### What improved since tick 1820
+
+- **Citizen renewable continuum (tick1821-1830):** **Campina** · **Energent** · **Beauvent** · **Ecopower** · **Klimaan** · **CoopStroom** (continuity alarm) · **SeaCoop** (Aspiravi Offshore FVA **20.49m** + VEH call) · **Stroomvloed** · **REScoop.Vlaanderen** · **ZuidtrAnt** — all live NBB/official JR YE2025.
+- **Blocked still:** AGB Bornem JR2024-only · Dijk92 YE2025 deposit **2026-00377886** CDN **403** · Enebra **2026-00398169** CDN **403** · APEFE/NSZ CDN **403** · FARO NBB YE2025 still unpublished · Vlaskracht **2026-00141427** deferred live.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1840**.
+
 ## Snapshot at **tick 1820** (2026-08-25)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

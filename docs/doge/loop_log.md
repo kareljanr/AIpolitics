@@ -21521,3 +21521,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities vzw_rescoop_vl; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1829=done + rq_1830 spawned (every-10); loop_state ticks=1829; FOI draft gap_rescoopvl_omzet_drop_0_03m_pers_0_17m_vooruit_0_14m_l5.md
 - FOI opened: gap_rescoopvl_omzet_drop_0_03m_pers_0_17m_vooruit_0_14m_l5 (**ready**, human-send only)
 - **EVERY-10 NEXT tick 1830**. Next: rq_1830 (progress refresh + AGB / Dijk92 / FARO / IGS).
+
+## Tick 1830 - 2026-08-25T13:30:00Z - rq_1830 EVERY-10 + ZuidtrAnt CV (FVA JUMP 0.47m / bruto 0.39m)
+
+- Unit: **rq_1830** EVERY-10 progress refresh + leftover dual residual; preferred AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2024. Took leftover **ZuidtrAnt CV** (Mortsel citizen renewable; KBO **0651.899.089**; Klimaatscholen2050 + SeaCoop-scale FVA dual). Vlaskracht **2026-00141427** deferred live.
+- Primary (strong, NBB MIC-inb [2026-00151039](http://cdn.staatsbladmonitor.be/2026pdf/2026-00151039.pdf) CDN 200 / 22p; AV **30.05.2026**): assets **EUR3,299,278**; MVA **EUR1,474,554**; FVA JUMP **EUR465,000** (aanschaffingen **315,000**); bruto **EUR389,496**; pers **EUR285,647**; VTE **4.4**; expl **-EUR543**; PnL LOSS **EUR469**; debt **EUR1,307,974** (LT bank **201,107**; ST other **539,927**; vooruit **311,021**); equity **EUR1,991,303**; kapsubs JUMP **EUR101,570**; cash DROP **EUR177,056**; beleg JUMP **EUR280,000**; dividend **0**; omzet **70 empty**; Klimaatscholen2050 proportional consolidatie change.
+- EVERY-10: refreshed progress_every_10_ticks.md (tick 1830 snapshot) + doge_waste_top10_current.md (pure top10 stable GIP/fossil/cars/cheque/reporté; citizen renewable continuum 1821-1830 off-top10).
+- Wrote: entities cv_zuidtrant; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; progress+waste every-10; research_queue rq_1830=done + rq_1831 spawned; loop_state ticks=1830; FOI draft gap_zuidtrant_fva_0_47m_bruto_0_39m_othdebt_0_54m_l5.md
+- FOI opened: gap_zuidtrant_fva_0_47m_bruto_0_39m_othdebt_0_54m_l5 (**ready**, human-send only)
+- Next every-10 **1840**. Next: rq_1831 (Vlaskracht-if-200 / AGB / Dijk92 / FARO / IGS).

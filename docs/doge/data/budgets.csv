@@ -51042,3 +51042,13 @@ bud_rescoopvl_vooruit_0_14m_2025,vzw_rescoop_vl,2025,138162,,,NBB MIC-VZW YE2025
 bud_rescoopvl_kapsubs_0_05m_2025,vzw_rescoop_vl,2025,54339,,,NBB MIC-VZW YE2025 kapitaalsubsidies,src_rescoopvl_jr2025_nbb,strong,tick1829; kapsubs DROP 54339 (was 70275); not TE-additive of 348bn
 bud_rescoopvl_debt_0_22m_2025,vzw_rescoop_vl,2025,219333,,,NBB MIC-VZW YE2025 schulden,src_rescoopvl_jr2025_nbb,strong,tick1829; schulden 219333 (was 197780); not TE-additive of 348bn
 bud_rescoopvl_equity_0_11m_2025,vzw_rescoop_vl,2025,109763,,,NBB MIC-VZW YE2025 eigen vermogen,src_rescoopvl_jr2025_nbb,strong,tick1829; EV 109763 (was 124810); not TE-additive of 348bn
+bud_zuidtrant_assets_3_30m_2025,cv_zuidtrant,2025,3299278,,,NBB MIC-inb YE2025 assets,src_zuidtrant_jr2025_nbb,strong,tick1830; totaal activa 3299278 (was 3044208); not TE-additive of 348bn
+bud_zuidtrant_bruto_0_39m_2025,cv_zuidtrant,2025,389496,,,NBB MIC-inb YE2025 brutomarge,src_zuidtrant_jr2025_nbb,strong,tick1830; bruto 389496 (was 403534); omzet 70 empty; not TE-additive of 348bn
+bud_zuidtrant_pers_0_29m_2025,cv_zuidtrant,2025,285647,,,NBB MIC-inb YE2025 bezoldigingen,src_zuidtrant_jr2025_nbb,strong,tick1830; pers 285647; VTE 4.4 sociale balans; not TE-additive of 348bn
+bud_zuidtrant_fva_0_47m_2025,cv_zuidtrant,2025,465000,,,NBB MIC-inb YE2025 FVA,src_zuidtrant_jr2025_nbb,strong,tick1830; FVA JUMP 465000 (was 153610); aanschaffingen 315000 (SeaCoop-scale dual); not TE-additive of 348bn
+bud_zuidtrant_debt_1_31m_2025,cv_zuidtrant,2025,1307974,,,NBB MIC-inb YE2025 schulden,src_zuidtrant_jr2025_nbb,strong,tick1830; schulden 1307974; LT bank 201107 + other 40000; ST other 539927; vooruit 311021; not TE-additive of 348bn
+bud_zuidtrant_equity_1_99m_2025,cv_zuidtrant,2025,1991303,,,NBB MIC-inb YE2025 eigen vermogen,src_zuidtrant_jr2025_nbb,strong,tick1830; EV 1991303; inbreng JUMP 1838600; kapsubs JUMP 101570; not TE-additive of 348bn
+bud_zuidtrant_cash_0_18m_2025,cv_zuidtrant,2025,177056,,,NBB MIC-inb YE2025 liquide middelen,src_zuidtrant_jr2025_nbb,strong,tick1830; cash DROP 177056 (was 600477); beleg JUMP 280000; not TE-additive of 348bn
+bud_zuidtrant_mva_1_47m_2025,cv_zuidtrant,2025,1474554,,,NBB MIC-inb YE2025 MVA,src_zuidtrant_jr2025_nbb,strong,tick1830; MVA 1474554; PV installaties 1463719; aanschaffingen 337496; not TE-additive of 348bn
+bud_zuidtrant_kapsubs_0_10m_2025,cv_zuidtrant,2025,101570,,,NBB MIC-inb YE2025 kapitaalsubsidies,src_zuidtrant_jr2025_nbb,strong,tick1830; kapsubs JUMP 101570 (was 46078); not TE-additive of 348bn
+bud_zuidtrant_pnl_loss_469_2025,cv_zuidtrant,2025,469,,,NBB MIC-inb YE2025 PnL loss abs,src_zuidtrant_jr2025_nbb,strong,tick1830; pnl LOSS 469 (was PROFIT 8863); dividend 0 (was 23062); not TE-additive of 348bn
