@@ -52080,3 +52080,8 @@ bud_vitaz_pnl_jr2025_statutory,vzw_vitaz,2025,12864965,,,CW YE2025 Profit/Loss,s
 bud_vitaz_equity_jr2025_statutory,vzw_vitaz,2025,181913017,,,CW YE2025 Eigen vermogen,src_vitaz_jr2025_cw,medium,tick2004; equity JUMP 181913017 +6.88pct vs YE2024 170205055
 bud_vitaz_bruto_jr2025_statutory,vzw_vitaz,2025,201584911,,,CW YE2025 Brutomarge,src_vitaz_jr2025_cw,medium,tick2004; bruto JUMP 201584911 +4.18pct vs YE2024 193489556
 bud_vitaz_fte_jr2025_statutory,vzw_vitaz,2025,2227.4,,,CW social-balance FTE,src_vitaz_jr2025_cw,medium,tick2004; YE2025 FTE 2227.4
+bud_az_st_eli_herentals_omzet_jr2025_statutory,vzw_az_st_eli_herentals,2025,171666951,,,CW YE2025 omzet / Turnover,src_az_st_eli_herentals_jr2025_cw,medium,tick2005; omzet JUMP 171666951 +4.67pct vs YE2024 164011503
+bud_az_st_eli_herentals_pnl_jr2025_statutory,vzw_az_st_eli_herentals,2025,2774462,,,CW YE2025 Profit/Loss,src_az_st_eli_herentals_jr2025_cw,medium,tick2005; pnl DROP 2774462 -18.76pct vs YE2024 3414964
+bud_az_st_eli_herentals_equity_jr2025_statutory,vzw_az_st_eli_herentals,2025,54818543,,,CW YE2025 Eigen vermogen,src_az_st_eli_herentals_jr2025_cw,medium,tick2005; equity JUMP 54818543 +3.59pct vs YE2024 52921180
+bud_az_st_eli_herentals_bruto_jr2025_statutory,vzw_az_st_eli_herentals,2025,69923624,,,CW YE2025 Brutomarge,src_az_st_eli_herentals_jr2025_cw,medium,tick2005; bruto JUMP 69923624 +3.97pct vs YE2024 67251299
+bud_az_st_eli_herentals_fte_jr2025_statutory,vzw_az_st_eli_herentals,2025,719.2,,,CW social-balance FTE,src_az_st_eli_herentals_jr2025_cw,medium,tick2005; YE2025 FTE 719.2

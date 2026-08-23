@@ -23044,3 +23044,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_vitaz); foi + draft gap_vitaz_nbb_pdf_assets_debt_matrix_l5; rq_2004=done + rq_2005 open; loop_state ticks=2004; raw under docs/doge/data/raw/tick2004/.
 - FOI: **ready not sent** (human-gated; info@vitaz.be).
 - NOT every-10 (**next every-10 is 2010**). Next: rq_2005 (AGB/FARO-if-YE2025 / AIESH-REW / AZ Imelda / unused DSO-IGS-HVZ).
+
+
+## Tick 2005 - 2026-08-24T05:25:00Z - rq_2005 AZ St.-Elisabeth Herentals (omzet JUMP 171.67m / pnl DROP 2.77m / Medium)
+
+- Unit: **rq_2005** leftover dual after **rq_2004 Vitaz**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**. AZ Imelda/Monica CW **N/A omzet**. Took unused leftover **AZ St.-Elisabeth Herentals** YE2025 (KBO **0821.734.213**; Nederrij 133 Herentals; Antwerpen **hospital VZW**). Do not redo Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS/CHR Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR171,666,951** JUMP +4.67%; pnl **EUR2,774,462** DROP −18.76%; equity **EUR54,818,543** JUMP +3.59%; bruto **EUR69,923,624** JUMP +3.97%; FTE **719.2**; neerlegging **03.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; no KBO email (route via azherentals.be).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_az_st_eli_herentals); foi + draft gap_az_st_eli_herentals_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2005=done + rq_2006 open; loop_state ticks=2005; raw under docs/doge/data/raw/tick2005/.
+- FOI: **ready not sent** (human-gated; route via azherentals.be).
+- NOT every-10 (**next every-10 is 2010**). Next: rq_2006 (AGB/FARO-if-YE2025 / AIESH-REW / AZ Maria Middelares-Alma / unused DSO-IGS-HVZ).
