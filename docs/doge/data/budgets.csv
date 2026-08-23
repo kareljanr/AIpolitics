@@ -52644,3 +52644,8 @@ bud_les_buissons_bruto_jr2025_statutory,bv_les_buissons_spa,2025,3660061,3660061
 bud_les_buissons_pnl_jr2025_statutory,bv_les_buissons_spa,2025,-288584,-288584,-288584,CW YE2025 Profit/Loss,src_les_buissons_jr2025_cw_en,medium,tick2114; LOSS WIDEN −628.78% vs YE2024 LOSS -39598
 bud_les_buissons_equity_jr2025_statutory,bv_les_buissons_spa,2025,165283,165283,165283,CW YE2025 Eigen vermogen / Equity,src_les_buissons_jr2025_cw_en,medium,tick2114; DROP −63.58% vs YE2024 453867
 bud_les_buissons_fte_jr2025_statutory,bv_les_buissons_spa,2025,54.3,54.3,54.3,CW social-balance FTE / Employees,src_les_buissons_jr2025_cw_en,medium,tick2114; FTE 54.3 (YoY Unknown)
+bud_les_sittelles_omzet_jr2025_statutory,nv_les_sittelles_chastre,2025,3020109,3020109,3020109,CW YE2025 omzet / Turnover (primary envelope MRS NV),src_les_sittelles_jr2025_cw_en,medium,tick2115; DROP −0.13% vs YE2024 3023930
+bud_les_sittelles_bruto_jr2025_statutory,nv_les_sittelles_chastre,2025,2618231,2618231,2618231,CW YE2025 Brutomarge / Gross margin,src_les_sittelles_jr2025_cw_en,medium,tick2115; JUMP +1.77% vs YE2024 2572622
+bud_les_sittelles_pnl_jr2025_statutory,nv_les_sittelles_chastre,2025,-44666,-44666,-44666,CW YE2025 Profit/Loss,src_les_sittelles_jr2025_cw_en,medium,tick2115; FLIP LOSS −158.79% vs YE2024 PROFIT 75980
+bud_les_sittelles_equity_jr2025_statutory,nv_les_sittelles_chastre,2025,2486382,2486382,2486382,CW YE2025 Eigen vermogen / Equity,src_les_sittelles_jr2025_cw_en,medium,tick2115; DROP −1.76% vs YE2024 2531047
+bud_les_sittelles_fte_jr2025_statutory,nv_les_sittelles_chastre,2025,38.7,38.7,38.7,CW social-balance FTE / Employees,src_les_sittelles_jr2025_cw_en,medium,tick2115; FTE 38.7 (YoY Unknown)

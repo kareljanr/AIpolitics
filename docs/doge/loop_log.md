@@ -24079,3 +24079,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.8); entities (+1 bv_les_buissons_spa); foi + draft gap_les_buissons_spa_nbb_pdf_assets_debt_pnl_loss_widen_equity_drop_matrix_l5; rq_2114=done + rq_2115 open; loop_state ticks=2114; raw docs/doge/data/raw/tick2114/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2110**; next **2120**). Next: rq_2115 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+
+## Tick 2115 - 2026-08-25T09:10:00Z - rq_2115 Les Sittelles Chastre (omzet DROP 3.02m / pnl FLIP LOSS -45k / Medium)
+
+- Unit: **rq_2115** leftover dual after **rq_2114 Les Buissons Spa**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Les Sittelles Chastre** YE2025 (KBO **0451.031.489**; Route Provinciale 121 Chastre; **NV/SA** NACE **87.101/87.301** / **1 VE**; **Korian Belgium** bestuurder/gedelegeerd **0869.769.702** path). Do not redo Les Buissons/Résidence 3/Elisabeth Aan Zee/XXe Août/Ninove/Zilverlinde/Sint-Camillus/IDELUX*/INTRADEL/ORES SC/Korian holding/Comnexio/SLG*/Always Home/AGB Bornem. Charmilles Sambreville / La Charmille Pont-à-Celles YE2025 deferred.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR3020109** DROP −0.13%; bruto **EUR2618231** JUMP +1.77%; pnl **LOSS EUR-44666** FLIP −158.79% vs YE2024 PROFIT EUR75980; equity **EUR2486382** DROP −1.76% vs YE2024 EUR2531047; FTE **38.7** (YoY Unknown); neerlegging **28.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@lessittelles.be (alt info@korian.be).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.3); entities (+1 nv_les_sittelles_chastre); foi + draft gap_les_sittelles_nbb_pdf_assets_debt_pnl_flip_loss_matrix_l5; rq_2115=done + rq_2116 open; loop_state ticks=2115; raw docs/doge/data/raw/tick2115/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2110**; next **2120**). Next: rq_2116 (AGB/FARO-if-YE2025 / AIESH-REW / Charmilles-LaCharmille / unused IGS-DSO-WZC-MRS).
