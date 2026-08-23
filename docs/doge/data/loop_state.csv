@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T17:10:00Z,rq_2048,2048,no,tick2048 leftover Ter Kimme 0421.535.373 Medium CW (omzet JUMP 8.54m pnl JUMP 0.60m equity JUMP 20.46m bruto DROP 8.02m FTE 104.4; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; Huize Vincent/Hof Waarbeek deferred; next rq_2049; next every-10 2050; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T17:25:00Z,rq_2049,2049,no,tick2049 leftover WZC Huize Vincent 0463.758.978 Medium CW (omzet JUMP 6.38m pnl DEEPER LOSS 0.26m equity DROP 6.62m bruto JUMP 5.99m FTE 85.2; assets/debt Unknown); FARO/AIESH/REW YE2024; Hof Waarbeek deferred; next rq_2050 EVERY-10; next every-10 2050; continuous hole_fill

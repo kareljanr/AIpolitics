@@ -23466,3 +23466,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.8); entities (+1 vzw_ter_kimme); foi + draft gap_ter_kimme_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2048=done + rq_2049 open; loop_state ticks=2048; raw under docs/doge/data/raw/tick2048/.
 - FOI: **ready not sent** (human-gated; info@terkimme.be).
 - NOT every-10 (**next every-10 is 2050**). Next: rq_2049 (AGB/FARO-if-YE2025 / AIESH-REW / Huize Vincent-Hof Waarbeek deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2049 - 2026-08-24T17:25:00Z - rq_2049 WZC Huize Vincent (omzet JUMP 6.38m / pnl DEEPER LOSS 0.26m / Medium)
+
+- Unit: **rq_2049** leftover dual after **rq_2048 Ter Kimme**. Prefer NON-stall live: FARO/AIESH/REW still **YE2024**. Took deferred leftover **WZC Huize Vincent** YE2025 (KBO **0463.758.978**; Antwerpse Steenweg 103 Temse-Tielrode; Oost-Vlaanderen **aanbestedende-overheid VZW** WZC / **1 VE**). Hof ter Waarbeek YE2025 also live — deferred. Do not redo Ter Kimme/Integro/Curando/AGB Bornem/De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/C.W.Z.C. Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hieronymus/WZC Sint-Barbara/PC Gent-Sleidinge/Molenheide/Veilige Have/Witte Meren.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR6,375,376** JUMP +1.43%; pnl **LOSS EUR-258,313** DEEPER vs YE2024 LOSS EUR-97,812; equity **EUR6,620,452** DROP -5.42%; bruto **EUR5,989,296** JUMP +1.69%; FTE **85.2**; neerlegging **17.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende overheid 1 VE; email info@huizevincent.be (Zorgnet-Icuro).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.47); entities (+1 vzw_wzc_huize_vincent); foi + draft gap_wzc_huize_vincent_nbb_pdf_assets_debt_pnl_deeper_loss_matrix_l5; rq_2049=done + rq_2050 open (EVERY-10); loop_state ticks=2049; raw under docs/doge/data/raw/tick2049/.
+- FOI: **ready not sent** (human-gated; info@huizevincent.be).
+- NOT every-10 (**next every-10 is 2050**). Next: rq_2050 (EVERY-10 mandatory + FARO-if-YE2025 / AIESH-REW / Hof Waarbeek deferred / unused DSO-IGS-HVZ-WZC-psych).

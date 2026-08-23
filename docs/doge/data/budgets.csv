@@ -52302,3 +52302,8 @@ bud_ter_kimme_pnl_jr2025_statutory,vzw_ter_kimme,2025,602018,,,CW YE2025 Profit/
 bud_ter_kimme_equity_jr2025_statutory,vzw_ter_kimme,2025,20458585,,,CW YE2025 Eigen vermogen / Equity,src_ter_kimme_jr2025_cw_en,medium,tick2048; equity JUMP 20458585 +2.91pct vs YE2024 19880590
 bud_ter_kimme_bruto_jr2025_statutory,vzw_ter_kimme,2025,8022468,,,CW YE2025 Brutomarge / Gross margin,src_ter_kimme_jr2025_cw_en,medium,tick2048; bruto DROP 8022468 -1.47pct vs YE2024 8142086
 bud_ter_kimme_fte_jr2025_statutory,vzw_ter_kimme,2025,104.4,,,CW social-balance FTE,src_ter_kimme_jr2025_cw_en,medium,tick2048; YE2025 FTE 104.4
+bud_huize_vincent_omzet_jr2025_statutory,vzw_wzc_huize_vincent,2025,6375376,,,CW YE2025 Omzet / Turnover,src_huize_vincent_jr2025_cw_en,medium,tick2049; omzet JUMP 6375376 +1.43pct vs YE2024 6285726
+bud_huize_vincent_pnl_jr2025_statutory,vzw_wzc_huize_vincent,2025,-258313,,,CW YE2025 Winst/Verlies / Profit/Loss,src_huize_vincent_jr2025_cw_en,medium,tick2049; pnl DEEPER LOSS -258313 vs YE2024 LOSS -97812
+bud_huize_vincent_equity_jr2025_statutory,vzw_wzc_huize_vincent,2025,6620452,,,CW YE2025 Eigen vermogen / Equity,src_huize_vincent_jr2025_cw_en,medium,tick2049; equity DROP 6620452 -5.42pct vs YE2024 7000078
+bud_huize_vincent_bruto_jr2025_statutory,vzw_wzc_huize_vincent,2025,5989296,,,CW YE2025 Brutomarge / Gross margin,src_huize_vincent_jr2025_cw_en,medium,tick2049; bruto JUMP 5989296 +1.69pct vs YE2024 5889840
+bud_huize_vincent_fte_jr2025_statutory,vzw_wzc_huize_vincent,2025,85.2,,,CW social-balance FTE,src_huize_vincent_jr2025_cw_en,medium,tick2049; YE2025 FTE 85.2
