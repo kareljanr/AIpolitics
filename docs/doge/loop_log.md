@@ -21538,3 +21538,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities cv_vlaskracht; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1831=done + rq_1832 spawned; loop_state ticks=1831; FOI draft gap_vlaskracht_fva_1_02m_bruto_0_10m_dividend_0_04m_l5.md
 - FOI opened: gap_vlaskracht_fva_1_02m_bruto_0_10m_dividend_0_04m_l5 (**ready**, human-send only)
 - NOT every-10 (next **1840**). Next: rq_1832 (AGB / Dijk92 / FARO / EnDev-R / IGS).
+
+## Tick 1832 - 2026-08-25T14:15:00Z - rq_1832 Aspiravi Offshore NV (FVA 126m / PnL 2.23m / SeaCoop dual)
+
+- Unit: **rq_1832** leftover dual residual after Vlaskracht; preferred AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2024. Took leftover **Aspiravi Offshore NV** (Northwind holding; KBO **0477.948.593**; SeaCoop FVA **20.49m** + VEH call dual). Deferred live CO2logic **2026-00114373** + EnDev-R **2025-00521539**.
+- Primary (strong, NBB VOL-kap [2026-00133645](http://cdn.staatsbladmonitor.be/2026pdf/2026-00133645.pdf) CDN 200 / 41p; AV **29.04.2026**): assets **EUR132,222,368**; FVA **EUR126,299,322** (deelnemingen **109,825,367** + connected recv **10,855,398**); omzet **EUR557,384**; expl LOSS **EUR123,914**; fin opbr DROP **EUR4,127,850** (was **14,735,889**); PnL DROP **EUR2,232,631** (was **10,316,355**); dividend **EUR2,002,214**; debt **EUR18,723,858** (achtergesteld LT **14,498,614** + ST **2,960,019**); equity **EUR113,498,510**; cash JUMP **EUR795,555**; **Aspiravi Holding 76.4%**.
+- Wrote: entities nv_aspiravi_offshore; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1832=done + rq_1833 spawned; loop_state ticks=1832; FOI draft gap_aspiravioff_fva_126m_pnl_2_23m_debt_18_72m_seacoop_dual_l5.md
+- FOI opened: gap_aspiravioff_fva_126m_pnl_2_23m_debt_18_72m_seacoop_dual_l5 (**ready**, human-send only)
+- NOT every-10 (next **1840**). Next: rq_1833 (CO2logic-if-200 / EnDev-R-if-200 / AGB / Dijk92 / FARO).
