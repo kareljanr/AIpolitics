@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T01:45:00Z,rq_1859,1859,no,tick1859 leftover Audio WV KBO 0827.396.340 JR2025 BBC (expl -57k AFM -57k BBR 176k assets 318k cash 22 pers 564k VTE 3.60); residual member/cash FOI; AGB Bornem JR2024; Dijk92 403; FARO YE2024; EVERY-10 NEXT (1860 MUST); next rq_1860; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T02:15:00Z,rq_1860,1860,no,tick1860 EVERY-10 progress+waste + leftover Diependaele IOED 2.685m + OEG 0.390m (Hydra+BK 0.178m subset); besluit/VAK FOI; AGB Bornem JR2024; Dijk92 403; FARO YE2024; next rq_1861; next every-10 1870; continuous hole_fill

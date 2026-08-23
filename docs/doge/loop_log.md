@@ -21769,3 +21769,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities wv_audio; sources (+3); budgets (+11); commitments (+3); leaderboard (+3); foi_queue ready; research_queue rq_1859=done + rq_1860 spawned (EVERY-10); loop_state ticks=1859; FOI draft gap_audio_member_churn_cash_22_st_fin_13k_l5.md
 - FOI opened: gap_audio_member_churn_cash_22_st_fin_13k_l5 (**ready**, human-send only)
 - **EVERY-10 NEXT (1860 MUST)**. Next: rq_1860 (progress refresh + leftover dual).
+
+## Tick 1860 - 2026-08-26T02:15:00Z - rq_1860 EVERY-10 + Diependaele IOED+OEG named package (2.685m+0.390m)
+
+- Unit: **rq_1860** EVERY-10 MUST + leftover dual residual after Audio WV. Prefer NON-Eneco live. AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2024. Took **Diependaele IOED+OEG named subsidy package** (official minister page).
+- Primary (strong, official web [Diependaele IOED/OEG](https://www.matthiasdiependaele.be/nieuws/minister-diependaele-steunt-lokale-onroerenderfgoedwerking-met-in-totaal-32-miljoen-euro)): **30 IOED EUR2,684,667.73** (Berg en Nete 85,613.77 … WinAr 95,775.25; Hydra+Erfgoed Brabantse Kouters first-year **EUR178,106.80** is **subset** of the 30, not additive) + **11 OEG EUR390,000** (Brugge/Gent/Leuven 90k; Roeselare 50k; eight at 10k) = headline **~EUR3.075m** (~3.2m). SWO 2021-2026 / 2024-2026.
+- EVERY-10: refreshed progress_every_10_ticks.md (snapshot tick 1860) + doge_waste_top10_current.md (pure annual top10 **stable** GIP/fossil/cars/cheque/reporté; corrupt AGB pi>=12 / Metro3 / OWV stock filtered). Inventory ~budgets 51267 / commitments 5519 / leaderboard 7639 / entities 1574 / sources 4389 / FOI ready ~1475 / answered ~11 / partial ~27 / total ~1526.
+- Wrote: sources (+2); budgets (+4); commitments (+2); leaderboard (+3); entities note; foi_queue + draft gap_ioed_oeg_diependaele_besluit_year_vak_l5; research_queue rq_1860=done + rq_1861 open; loop_state ticks=1860; progress+waste markdown.
+- FOI opened: **gap_ioed_oeg_diependaele_besluit_year_vak_l5** (ready, human-send only) — besluit PDF + award year + VAK/VEK map + Hydra/BK subset confirm. Dijk92 CDN403 FOI already ready separately.
+- Next: **rq_1861** leftover AGB/APB if PDF live, else Dijk92/Enebra if CDN 200, else FARO if TRUE NBB YE2025, else other HVZ/IGS live JR2025. DiependaeleIOED+Audio+TerNetheFOI taken. Prefer NON-Eneco. **Next every-10 is 1870.**

@@ -20,6 +20,39 @@
 
 ---
 
+## Snapshot at **tick 1860** (2026-08-26)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1851-1860 after 1850 Eneco continuum |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1851-1860 is residual dual L5 (not near-complete of 348bn):** **HVZ Meetjesland** gemdot **3.15m** / fed+FOD **2.82m** · **Solano Wind** FOI · **KINA** expl **3.80m** · **WZG Voorkempen** AFM **-0.55m** · **WV Blankenberge** werksub **0.15m** · **De Wijngaard** OCMW werksub **1.38m** / pers **3.14m** · **Beschut Wonen Antwerpen** assets **2.37m** · **Ter Nethe** FOI · **Audio WV** AFM **-57k** / cash **EUR22** · **Diependaele IOED+OEG** named package **2.685m + 0.390m** |
+| **E. FOI-ready gaps** | **~1475** drafts ready | Human send only; answered **~11**; partial **~27**; total FOI rows **~1526** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable shells** (**NEW 1851-1860** HVZ Meetjesland · KINA · WZG Voorkempen · WV Blankenberge · De Wijngaard · Beschut Wonen Antwerpen · Audio WV · **Diependaele IOED/OEG named subsidy table** · FOI Solano/Ter Nethe · prior Eneco continuum Electrastar/Bois/Bali retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings; IOED package may overlap entity JR code73 bruto.**
+
+### Inventory (tick 1860)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 51263+ |
+| commitments.csv | 5517+ |
+| leaderboard.csv | 7636+ |
+| entities.csv | 1574+ |
+| sources.csv | 4387+ |
+| FOI ready | 1475 |
+| FOI answered | 11 |
+| FOI partial | 27 |
+| FOI total rows | 1526 |
+| research_queue open | rq_1861 hole-fill after progress |
+
+### What improved since tick 1850
+
+- **Residual dual (tick1851-1860):** **HVZ Meetjesland** full JR · **Solano Wind** FOI · **KINA** · **WZG Voorkempen** · **WV Blankenberge** · **De Wijngaard** · **Beschut Wonen Antwerpen** · **Ter Nethe** FOI · **Audio WV** · **Diependaele IOED+OEG** Strong named package (**EUR 2,684,667.73** / 30 IOED + **EUR 390,000** / 11 OEG; Hydra+Brabantse Kouters first-year **EUR 178,106.80** subset of the 30, not additive).
+- **Blocked still:** AGB Bornem JR2024-only · Dijk92 YE2025 **2026-00377886** CDN **403** · Enebra CDN **403** · FARO NBB YE2025 still unpublished · Solano deposit unresolved · Ter Nethe JR unpublished.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified; corrupt AGB pi≥12 / OWV snowball stock / Metro3 stock filtered off pure annual). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1870**.
+
 ## Snapshot at **tick 1850** (2026-08-25)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
