@@ -50692,3 +50692,16 @@ bud_cklc_cash_2025,nv_cklc_immo,2025,24401,,,stock,src_cklc_jr2025_nbb,strong,Ca
 bud_cklc_marge_2025,nv_cklc_immo,2025,-13189,,,realized,src_cklc_jr2025_nbb,strong,Marge bruto -13189 (A-cap; CA undisclosed; 0 VTE); tick1791
 bud_cklc_pnl_2025,nv_cklc_immo,2025,-13651,,,realized,src_cklc_jr2025_nbb,strong,PnL loss -13651; prior dividend apport 90000 now 0; tick1791
 bud_cklc_hypotheque_related_2025,nv_cklc_immo,2025,126500,,,stock,src_cklc_jr2025_nbb,strong,Hypotheque for related enterprises inscription 126500 on MVA 444273; tick1791
+bud_vivalto_immo_assets_2025,nv_vivalto_immo,2025,55684527,,,stock,src_vivalto_immo_jr2025_nbb,strong,Assets YE2025 55684527; tick1792
+bud_vivalto_immo_equity_2025,nv_vivalto_immo,2025,52412703,,,stock,src_vivalto_immo_jr2025_nbb,strong,Equity 52412703; pertes reportees -820145; tick1792
+bud_vivalto_immo_debt_2025,nv_vivalto_immo,2025,3271824,,,stock,src_vivalto_immo_jr2025_nbb,strong,Debt 3271824; tick1792
+bud_vivalto_immo_fva_2025,nv_vivalto_immo,2025,37250000,,,stock,src_vivalto_immo_jr2025_nbb,strong,Immobilisations financieres 37250000; tick1792
+bud_vivalto_immo_mva_2025,nv_vivalto_immo,2025,6541599,,,stock,src_vivalto_immo_jr2025_nbb,strong,Terrains et constructions 6541599; tick1792
+bud_vivalto_immo_controllers_recv_2025,nv_vivalto_immo,2025,42719254,,,stock,src_vivalto_immo_jr2025_nbb,strong,Creances controleurs/admins 9500=42719254; tick1792
+bud_vivalto_immo_autres_creances_2025,nv_vivalto_immo,2025,11856567,,,stock,src_vivalto_immo_jr2025_nbb,strong,Autres creances ST 11856567; tick1792
+bud_vivalto_immo_autres_emprunts_lt_2025,nv_vivalto_immo,2025,1550000,,,stock,src_vivalto_immo_jr2025_nbb,strong,Autres emprunts LT 1550000; tick1792
+bud_vivalto_immo_credit_st_2025,nv_vivalto_immo,2025,1260000,,,stock,src_vivalto_immo_jr2025_nbb,strong,Etablissements de credit ST 1260000; tick1792
+bud_vivalto_immo_cash_2025,nv_vivalto_immo,2025,21237,,,stock,src_vivalto_immo_jr2025_nbb,strong,Cash 21237 DROP vs 232039; tick1792
+bud_vivalto_immo_marge_2025,nv_vivalto_immo,2025,83836,,,realized,src_vivalto_immo_jr2025_nbb,strong,Marge bruto 83836 (A-cap; prior nrec 5700000); tick1792
+bud_vivalto_immo_pnl_2025,nv_vivalto_immo,2025,800012,,,realized,src_vivalto_immo_jr2025_nbb,strong,PnL 800012 flip from prior loss -1760535; fin products 908965; tick1792
+bud_vivalto_immo_guarantees_related_2025,nv_vivalto_immo,2025,22490754,,,stock,src_vivalto_immo_jr2025_nbb,strong,Garanties for related enterprises 9294=22490754; tick1792

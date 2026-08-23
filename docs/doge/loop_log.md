@@ -21224,3 +21224,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_cklc_immo; budgets (+10); commitments; leaderboard; foi_queue ready; research_queue rq_1791=done + rq_1792 spawned; loop_state ticks=1791; FOI draft gap_cklc_mva_0_44m_debt_collapse_0_61m_to_28k_l5.md
 - FOI opened: gap_cklc_mva_0_44m_debt_collapse_0_61m_to_28k_l5 (**ready**, not sent)
 - Next: rq_1792 — AGB/NSZ-if-200/Bosgroep/FARO-if-2025/unused-Vivalto-holding-subs; every-10 at 1800
+
+### 2026-08-25T00:15:00Z — tick 1792
+- Unit: rq_1792 — **VIVALTO IMMO SA** (Loncin / Vivalto Vert Bocage property dual)
+- Found: Preferred AGB/NSZ/Dijk92/APEFE/FARO/MaisonDieu still blocked. From Vivalto Home BE holding participation list took unused **VIVALTO IMMO SA**. NBB A-cap YE2025 deposit [2026-00137212](http://cdn.staatsbladmonitor.be/2026pdf/2026-00137212.pdf) CDN 200 (197061 bytes / 26p); KBO **0824.102.102**; AV **07.05.2026**; mere Vivalto Home Belgium; Forvis Mazars — **opinion sans reserve**. Sourced: assets **EUR55,684,527**; equity **EUR52,412,703**; debt **EUR3,271,824**; FVA **EUR37,250,000**; controllers **EUR42,719,254**; autres creances **EUR11,856,567**; marge **EUR83,836**; PnL **EUR800,012**; VTE **0**; guarantees related **EUR22,490,754**; continuity pertes reportees.
+- Wrote: sources (+3); entities nv_vivalto_immo; budgets (+13); commitments; leaderboard; foi_queue ready; research_queue rq_1792=done + rq_1793 spawned; loop_state ticks=1792; FOI draft gap_vivalto_immo_fva_37_25m_controllers_42_72m_l5.md
+- FOI opened: gap_vivalto_immo_fva_37_25m_controllers_42_72m_l5 (**ready**, not sent)
+- Next: rq_1793 — AGB/NSZ-if-200/Bosgroep/FARO-if-2025/unused-Vivalto-holding-subs; every-10 at 1800
