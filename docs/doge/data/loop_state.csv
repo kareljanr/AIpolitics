@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-27T03:15:00Z,rq_1912,1912,no,tick1912 leftover Northwester2 0834.020.549 Medium CW+Upswitch (omzet 75.6m assets 470.1m pnl 15.1m EBITDA 58.3m equity 41.5m FTE 0); NBB PDF+share%+debt+PPA FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1913; next every-10 1920; continuous hole_fill
+main,continuous,hole_fill,2026-08-27T03:45:00Z,rq_1913,1913,no,tick1913 leftover Power@sea 0468.783.479 Medium CW (equity 22.2m pnl DROP 4.18m bruto NEG omzet empty FTE 0 assets Unknown); NBB PDF+share%+FVA FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1914; next every-10 1920; continuous hole_fill

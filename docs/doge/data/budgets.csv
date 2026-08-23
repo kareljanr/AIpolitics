@@ -51520,3 +51520,7 @@ bud_nw2_pnl_jr2025,nv_nw2,2025,15130999,,,CW NBB-derived 9904,src_nw2_jr2025_cw,
 bud_nw2_assets_jr2025,nv_nw2,2025,470131144,,,Upswitch NBB/CBSO 20/58,src_nw2_jr2025_upswitch,medium,tick1912; YE2025 assets 470131144 DROP vs 529.6m
 bud_nw2_equity_jr2025,nv_nw2,2025,41518386,,,CW/Upswitch NBB-derived 10/15,src_nw2_jr2025_cw,medium,tick1912; YE2025 equity 41518386 JUMP +13.1pct
 bud_nw2_ebitda_jr2025,nv_nw2,2025,58319452,,,Upswitch NBB/CBSO EBITDA,src_nw2_jr2025_upswitch,medium,tick1912; YE2025 EBITDA 58319452 ~77.2pct omzet
+bud_powersea_bruto_jr2025,nv_powersea,2025,-20206,,,CW NBB-derived 9900 NEG,src_powersea_jr2025_cw,medium,tick1913; YE2025 bruto NEG -20206
+bud_powersea_pnl_jr2025,nv_powersea,2025,4175610,,,CW NBB-derived 9904,src_powersea_jr2025_cw,medium,tick1913; YE2025 pnl 4175610 DROP -72.91pct vs 15.4m
+bud_powersea_equity_jr2025,nv_powersea,2025,22195834,,,CW NBB-derived 10/15,src_powersea_jr2025_cw,medium,tick1913; YE2025 equity 22195834 DROP -1.01pct
+bud_powersea_fte_jr2025,nv_powersea,2025,0,,,CW NBB-derived FTE,src_powersea_jr2025_cw,medium,tick1913; YE2025 FTE 0 holding shell

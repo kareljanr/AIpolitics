@@ -22226,3 +22226,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_nw2_nbb_pdf_share_debt_ppa_l5; rq_1912=done + rq_1913 open; loop_state ticks=1912.
 - FOI opened: NBB PDF + share % / debt / PPA (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1920**). Next: rq_1913 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Norther-PowerSEA).
+
+## Tick 1913 - 2026-08-27T03:45:00Z - rq_1913 Power@sea (equity 22.2m / pnl DROP 4.18m / Medium)
+
+- Unit: **rq_1913** leftover dual after Northwester2. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **Power@sea NV** (KBO **0468.783.479**; Scheldedijk 30 Beveren; Otary+C-Power Holdco shareholder; Socofe+WE Environnement public dual + DEME/AvH; NON-Eneco). Skipped Norther (50% Eneco) for NON-Eneco prefer.
+- Primary hunt: NBB CDN deposit unresolved; Upswitch empty this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0468783479/power-sea) + KBO (neerlegging **29.05.2026**; YE **31.12.2025**): omzet **empty**; bruto **NEG EUR-20,206**; PnL **EUR4,175,610** (**DROP -72.91%**); equity **EUR22,195,834**; FTE **0**; assets **Unknown**.
+- Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_powersea_nbb_pdf_assets_share_fva_l5; rq_1913=done + rq_1914 open; loop_state ticks=1913.
+- FOI opened: NBB PDF + assets/share % / FVA for pnl DROP (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1920**). Next: rq_1914 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Norther-if-live).
