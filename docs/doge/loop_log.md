@@ -21659,3 +21659,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities nv_bayamo_wind; sources (+3); commitments (+1 Unknown); leaderboard weak; foi_queue ready; research_queue rq_1846=blocked_foi + rq_1847 spawned; loop_state ticks=1846; FOI draft gap_bayamo_jr2025mar_nbb_deposit_unresolved_l5.md
 - FOI opened: gap_bayamo_jr2025mar_nbb_deposit_unresolved_l5 (**ready**, human-send only)
 - NOT every-10 (next **1850**). Next: rq_1847 (Meltemi-if-200 / Eneco-parent-if-200 / AGB / Dijk92 / FARO).
+
+## Tick 1847 - 2026-08-25T20:25:00Z - rq_1847 Meltemi Wind NV (NBB YE Mar2025 deposit unresolved FOI)
+
+- Unit: **rq_1847** leftover dual residual after Bayamo FOI; preferred Meltemi. AGB Bornem still **JR2024**; Dijk92/Enebra CDN **403**; FARO **2025-00569658** ~50k YE2024; Eneco parent deposit unresolved. Took **Meltemi Wind NV** (Eneco dual micro; KBO **0719.576.187**).
+- Primary: KBO Actief SA / capital **EUR61,500** / Mechelen / Eneco+REALFI board (**strong** register). YE Mar2025 **neergelegd 08.10.2025** confirmed via secondary pointers only. Honest CDN hunt (Oct windows + parallel HEAD) did **not** resolve deposit id / live PDF. **No sourced euros** (aggregators not booked).
+- Wrote: entities nv_meltemi_wind; sources (+3); commitments (+1 Unknown); leaderboard weak; foi_queue ready; research_queue rq_1847=blocked_foi + rq_1848 spawned; loop_state ticks=1847; FOI draft gap_meltemi_jr2025mar_nbb_deposit_unresolved_l5.md
+- FOI opened: gap_meltemi_jr2025mar_nbb_deposit_unresolved_l5 (**ready**, human-send only)
+- NOT every-10 (next **1850**). Next: rq_1848 (Eneco-parent-if-200 / AGB / Dijk92 / FARO).
