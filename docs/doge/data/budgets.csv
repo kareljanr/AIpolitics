@@ -51382,3 +51382,8 @@ bud_campus_energyville_pnl_loss_jr2025,nv_campus_energyville,2025,238266,,,CW NB
 bud_campus_energyville_assets_jr2025,nv_campus_energyville,2025,32771745,,,Upswitch NBB/CBSO total assets 20/58,src_campus_energyville_jr2025_upswitch,medium,tick1886; YE2025 assets 32771745; DROP vs 33441907
 bud_campus_energyville_equity_jr2025,nv_campus_energyville,2025,23054534,,,CW/Upswitch NBB-derived 10/15 eigen vermogen,src_campus_energyville_jr2025_cw,medium,tick1886; YE2025 equity 23054534; DROP vs 23355154; kapitaal KBO 22904500
 bud_campus_energyville_ebitda_jr2025,nv_campus_energyville,2025,1530986,,,Upswitch NBB/CBSO EBITDA,src_campus_energyville_jr2025_upswitch,medium,tick1886; YE2025 EBITDA 1530986 (~31pct of omzet); FOI reconcile vs PnL LOSS
+bud_mag_bruto_jr2025,bv_mag,2025,387949,,,CW NBB-derived brutomarge 9900,src_mag_jr2025_cw,medium,tick1887; YE2025; omzet empty
+bud_mag_pnl_loss_jr2025,bv_mag,2025,243849,,,CW NBB-derived PnL LOSS abs,src_mag_jr2025_cw,medium,tick1887; YE2025 LOSS -243849; third consecutive LOSS year
+bud_mag_equity_neg_jr2025,bv_mag,2025,613801,,,CW/Upswitch NBB-derived equity NEG abs(10/15),src_mag_jr2025_cw,medium,tick1887; YE2025 equity -613801; alarmbel path
+bud_mag_assets_jr2025,bv_mag,2025,1163742,,,Upswitch NBB/CBSO total assets 20/58,src_mag_jr2025_upswitch,medium,tick1887; YE2025 assets 1163742 DROP vs 1403599
+bud_mag_ebitda_neg_jr2025,bv_mag,2025,385216,,,Upswitch NBB/CBSO EBITDA NEG abs,src_mag_jr2025_upswitch,medium,tick1887; YE2025 EBITDA -385216; ops -549299

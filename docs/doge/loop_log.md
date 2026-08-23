@@ -21998,3 +21998,12 @@ Append-only. Each tick adds a short entry.
 - FOI opened: NBB PDF + LOSS/EBITDA reconcile / share % (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1890**). Next: rq_1887 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS/IOED/Mijnen).
 
+
+## Tick 1887 - 2026-08-26T14:45:00Z - rq_1887 M@G / Meet@Genk (bruto 0.39m / equity NEG 0.61m / Medium)
+
+- Unit: **rq_1887** leftover dual after Campus Energyville. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **M@G BV** (Meet@Genk / Limburghal; KBO **0417.442.567**; Jaarbeurslaan 6 Genk; Stad Genk event-venue dual; ex C-Mine + Thor Central exploitant).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0417442567/m-g) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/m-g-0417442567) (neerlegging **16.07.2026**; YE **31.12.2025**): bruto **EUR387,949**; PnL **LOSS EUR-243,849**; equity **NEG EUR-613,801**; assets **EUR1,163,742**; EBITDA **NEG EUR-385,216**; ops **NEG EUR-549,299**; FTE **8.6**; **omzet empty**. Press fraud ~EUR166k context only (not JR euros).
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_mag_nbb_pdf_neg_equity_omzet_empty_l5; rq_1887=done + rq_1888 open; loop_state ticks=1887.
+- FOI opened: NBB PDF + empty omzet / NEG equity / share % / fraud recovery (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1890**). Next: rq_1888 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS/IOED/Mijnen).
+
