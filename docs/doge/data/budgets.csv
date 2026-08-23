@@ -52526,3 +52526,8 @@ bud_lidwina_bruto_jr2025_statutory,vzw_lidwina_mol,2025,21595069,21595069,215950
 bud_lidwina_pnl_jr2025_statutory,vzw_lidwina_mol,2025,999268,999268,999268,CW YE2025 Profit/Loss,src_lidwina_jr2025_cw_en,medium,tick2093; JUMP vs YE2024 726326 (JUMP +37.58%)
 bud_lidwina_equity_jr2025_statutory,vzw_lidwina_mol,2025,24353329,24353329,24353329,CW YE2025 Eigen vermogen / Equity,src_lidwina_jr2025_cw_en,medium,tick2093; JUMP +4.85% vs YE2024 23226527
 bud_lidwina_fte_jr2025_statutory,vzw_lidwina_mol,2025,515.1,515.1,515.1,CW social-balance FTE / Employees,src_lidwina_jr2025_cw_en,medium,tick2093; FTE JUMP 515.1 (+1.64%) vs YE2024 506.8
+bud_sint_lucia_omzet_jr2025_statutory,vzw_sint_lucia_turnhout,2025,7669915,7669915,7669915,CW YE2025 omzet / Turnover,src_sint_lucia_jr2025_cw_en,medium,tick2094; JUMP +2.93% vs YE2024 7451613; bruto 8087569 spend proxy
+bud_sint_lucia_bruto_jr2025_statutory,vzw_sint_lucia_turnhout,2025,8087569,8087569,8087569,CW YE2025 Brutomarge / Gross margin (incl. subsidies),src_sint_lucia_jr2025_cw_en,medium,tick2094; DROP DROP -0.94% vs YE2024 8164107; primary operating-scale proxy
+bud_sint_lucia_pnl_jr2025_statutory,vzw_sint_lucia_turnhout,2025,158746,158746,158746,CW YE2025 Profit/Loss,src_sint_lucia_jr2025_cw_en,medium,tick2094; DROP vs YE2024 315038 (DROP -49.61%)
+bud_sint_lucia_equity_jr2025_statutory,vzw_sint_lucia_turnhout,2025,12346388,12346388,12346388,CW YE2025 Eigen vermogen / Equity,src_sint_lucia_jr2025_cw_en,medium,tick2094; DROP DROP -0.76% vs YE2024 12441379
+bud_sint_lucia_fte_jr2025_statutory,vzw_sint_lucia_turnhout,2025,110.2,110.2,110.2,CW social-balance FTE / Employees,src_sint_lucia_jr2025_cw_en,medium,tick2094; FTE JUMP 110.2 (+1.29%) vs YE2024 108.8
