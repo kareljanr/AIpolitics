@@ -24033,3 +24033,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.9); entities (+1 vzw_wzc_zilverlinde_olen); foi + draft gap_zilverlinde_olen_nbb_pdf_assets_debt_pnl_drop_omzet_jump_matrix_l5; rq_2109=done + rq_2110 open; loop_state ticks=2109; raw docs/doge/data/raw/tick2109/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2100**; next **2110** MUST refresh progress + waste top10 then hole-fill). Next: rq_2110 (EVERY-10 + AGB/FARO-if-YE2025 / AIESH-REW / unused WZC Sint-Jozef Ninove deferred).
+
+
+## Tick 2110 - 2026-08-25T07:55:00Z - rq_2110 EVERY-10 + Rusthuis Sint Jozef Ninove (omzet JUMP 11.90m / pnl DROP 0.21m −78% / Medium)
+
+- **EVERY-10:** refreshed `progress_every_10_ticks.md` (A/B **100%**; C **~99%**; D **~74-88%** generous residual dual; E **~1730** ready) + `doge_waste_top10_current.md` (top10 stable GIP/fossil/cars/cheque/reporté; next every-10 **2120**).
+- Unit: **rq_2110** EVERY-10 mandatory + leftover dual after **rq_2109 WZC Zilverlinde Olen**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took preferred deferred unused **Rusthuis Sint Jozef Ninove / WZC Wilgendries** YE2025 (KBO **0452.865.383**; Geraardsbergsesteenweg 303, 9400 Ninove; **BV** NACE **87.301** / **2 VE** Aspelare+Voorde; public-interest Zorgkas-path). Do not redo Zilverlinde/Sint-Camillus/IDELUX*/INTRADEL/ORES SC/Korian/Comnexio/SLG*/Always Home/AGB Bornem.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR11899054** JUMP +2.66%; bruto **EUR7819890** JUMP +1.71%; pnl **EUR209734** DROP −78.1% vs YE2024 EUR957563; equity **EUR857139** JUMP +1.15%; FTE **128.8** (YoY Unknown); neerlegging **30.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via dir.wilgendries@mr-wzc.be (alt dir.wilgendries.voorde@mr-wzc.be).
+- Wrote: **EVERY-10** progress + waste top10; sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.6); entities (+1 bv_rusthuis_sint_jozef_ninove); foi + draft gap_rusthuis_sint_jozef_ninove_nbb_pdf_assets_debt_pnl_drop_omzet_jump_matrix_l5; rq_2110=done + rq_2111 open; loop_state ticks=2110; raw docs/doge/data/raw/tick2110/.
+- FOI: **ready not sent** (human-gated).
+- **EVERY-10 done.** Next: rq_2111 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC). Next every-10 **2120**.
