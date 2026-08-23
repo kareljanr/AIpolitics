@@ -22079,3 +22079,12 @@ Append-only. Each tick adds a short entry.
 - FOI opened: NBB PDF + share % / debt / gate-fee PPA (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1900**). Next: rq_1896 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Bionerga / other HVZ-IGS).
 
+
+## Tick 1896 - 2026-08-26T19:15:00Z - rq_1896 Biostoom Belgie (omzet 3.77m / assets 76.5m / pnl DROP 5.86m / Medium)
+
+- Unit: **rq_1896** leftover dual after Biostoom Beringen. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished; Bionerga parent already mined tick1354. Took leftover **Biostoom Belgie NV** (KBO **0678.689.501**; Herkenrodesingel 14 Hasselt **Nuhma seat**; holding parent of Biostoom Beringen; bestuurders **Nuhma cv + Bionerga**).
+- Primary hunt: NBB CDN deposit unresolved (SBM IP blacklist this tick). **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0678689501/biostoom-belgie) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/biostoom-belgie-0678689501) (neerlegging **26.05.2026**; YE **31.12.2025**): omzet **EUR3,770,757**; bruto **EUR698,738**; PnL **EUR5,862,845** (**DROP -82%** vs 32.1m); assets **EUR76,521,832**; equity **EUR60,651,359** (**DROP -13%**); EBITDA **EUR326,701**; FTE **0**.
+- Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_biostoom_be_nbb_pdf_share_fva_pnl_drop_l5; rq_1896=done + rq_1897 open; loop_state ticks=1896.
+- FOI opened: NBB PDF + share % / FVA-dividend path for pnl DROP / Beringen recon (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1900**). Next: rq_1897 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS/IOED/Mijnen).
+
