@@ -51995,3 +51995,8 @@ bud_isosl_pnl_jr2025_statutory,igs_isosl,2025,2759863,,,CW YE2025 Profit/Loss,sr
 bud_isosl_equity_jr2025_statutory,igs_isosl,2025,110347790,,,CW YE2025 Eigen vermogen,src_isosl_jr2025_cw,medium,tick1987; equity DROP 110347790 -3.16pct vs YE2024 113949197
 bud_isosl_bruto_jr2025_statutory,igs_isosl,2025,239106191,,,CW YE2025 Brutomarge,src_isosl_jr2025_cw,medium,tick1987; bruto JUMP 239106191 +2.7pct vs YE2024 232813955
 bud_isosl_fte_jr2025_statutory,igs_isosl,2025,3892.7,,,CW social-balance FTE,src_isosl_jr2025_cw,medium,tick1987; YE2025 FTE 3892.7 JUMP vs YE2024 3465.8 (+426.9 FTE)
+bud_citadelle_omzet_jr2025_statutory,igs_chr_citadelle,2025,593959237,,,CW YE2025 omzet / Turnover,src_citadelle_jr2025_cw,medium,tick1988; omzet JUMP 593959237 +6.69pct vs YE2024 556722532
+bud_citadelle_pnl_jr2025_statutory,igs_chr_citadelle,2025,2232230,,,CW YE2025 Profit/Loss,src_citadelle_jr2025_cw,medium,tick1988; pnl DROP 2232230 -73.58pct vs YE2024 8448674
+bud_citadelle_equity_jr2025_statutory,igs_chr_citadelle,2025,81050938,,,CW YE2025 Eigen vermogen,src_citadelle_jr2025_cw,medium,tick1988; equity JUMP 81050938 +68.29pct vs YE2024 48160146
+bud_citadelle_bruto_jr2025_statutory,igs_chr_citadelle,2025,283029421,,,CW YE2025 Brutomarge,src_citadelle_jr2025_cw,medium,tick1988; bruto JUMP 283029421 +5.1pct vs YE2024 269286915
+bud_citadelle_fte_jr2025_statutory,igs_chr_citadelle,2025,3235,,,CW social-balance FTE,src_citadelle_jr2025_cw,medium,tick1988; YE2025 FTE 3235 vs YE2024 3209

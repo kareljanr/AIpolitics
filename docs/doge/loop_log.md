@@ -22896,3 +22896,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1990**). Next: rq_1988 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-hospital).
 
+## Tick 1988 - 2026-08-24T00:30:00Z - rq_1988 CHR Citadelle (omzet JUMP 593.96m / equity JUMP 81.05m +68pct / Medium)
+
+- Unit: **rq_1988** leftover dual after **rq_1987 ISoSL**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took unused leftover **CHR Citadelle** YE2025 (KBO **0237.086.311**; Bld du Douzieme-de-Ligne 1 Liege; Liege **regional hospital IGS**). Do not redo ISoSL/CHU UCL Namur/Epicura/CHwapi/Vivalia/HELORA/IDETA/SPI/IDELUX Finances/IFIGA/SOFILUX/IDEFIN/FINIMO/FINEST/HYGEA/BEP*/IBH/IGRETEC/IPFBW/IDEA.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR593,959,237** JUMP +6.69%; pnl **EUR2,232,230** DROP -73.58%; equity **EUR81,050,938** JUMP **+68.29%**; bruto **EUR283,029,421** JUMP +5.1%; FTE **3235**; neerlegging **02.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief CV; email officiel.ic-chrcitadelle@chrcitadelle.be.
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 igs_chr_citadelle); foi + draft gap_citadelle_nbb_pdf_assets_debt_equity_jump_matrix_l5; rq_1988=done + rq_1989 open; loop_state ticks=1988.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1990**). Next: rq_1989 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-hospital).
+
