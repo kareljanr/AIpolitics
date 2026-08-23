@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T02:50:00Z,rq_1997,1997,no,tick1997 leftover CHR Verviers 0250.893.369 Medium CW (omzet JUMP 251.76m pnl JUMP turnaround 0.89m equity JUMP 62.40m bruto JUMP 125.53m FTE 1272.9; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; Erasme/UZ deferred; next rq_1998; next every-10 2000; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T03:05:00Z,rq_1998,1998,no,tick1998 leftover ZAS 0862.382.656 Medium CW (omzet JUMP 1370.34m pnl LOSS 0.81m equity JUMP 573.60m bruto JUMP 643.72m FTE 6711.9; assets/debt Unknown); AGB Bornem JR2024; FARO YE2024; AZJP YE2025 deferred; next rq_1999; next every-10 2000; continuous hole_fill

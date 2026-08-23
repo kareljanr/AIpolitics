@@ -52045,3 +52045,8 @@ bud_chr_verviers_pnl_jr2025_statutory,igs_chr_verviers,2025,890809,,,CW statutor
 bud_chr_verviers_equity_jr2025_statutory,igs_chr_verviers,2025,62397208,,,CW statutory equity,src_chr_verviers_jr2025_cw,medium,tick1997; YE2025 equity JUMP 62397208 (+0.02pct)
 bud_chr_verviers_bruto_jr2025_statutory,igs_chr_verviers,2025,125531398,,,CW statutory bruto,src_chr_verviers_jr2025_cw,medium,tick1997; YE2025 bruto JUMP 125531398 (+4.48pct)
 bud_chr_verviers_fte_jr2025_statutory,igs_chr_verviers,2025,1272.9,,,CW social-balance FTE,src_chr_verviers_jr2025_cw,medium,tick1997; YE2025 FTE 1272.9 (was 1286.3)
+bud_zas_omzet_jr2025_statutory,vzw_zas,2025,1370339118,,,CW YE2025 omzet / Turnover,src_zas_jr2025_cw,medium,tick1998; omzet JUMP 1370339118 +27.80pct vs YE2024 1072252364
+bud_zas_pnl_jr2025_statutory,vzw_zas,2025,-814746,,,CW YE2025 Profit/Loss,src_zas_jr2025_cw,medium,tick1998; pnl LOSS -814746 vs YE2024 profit 6716880
+bud_zas_equity_jr2025_statutory,vzw_zas,2025,573600782,,,CW YE2025 Eigen vermogen,src_zas_jr2025_cw,medium,tick1998; equity JUMP 573600782 +2.64pct vs YE2024 558853334
+bud_zas_bruto_jr2025_statutory,vzw_zas,2025,643722300,,,CW YE2025 Brutomarge,src_zas_jr2025_cw,medium,tick1998; bruto JUMP 643722300 +23.80pct vs YE2024 519989802
+bud_zas_fte_jr2025_statutory,vzw_zas,2025,6711.9,,,CW social-balance FTE,src_zas_jr2025_cw,medium,tick1998; YE2025 FTE 6711.9
