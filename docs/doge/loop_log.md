@@ -22322,3 +22322,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_hvzmeet_afm_fte_debt_dotatie_matrix_l5; rq_1924=done + rq_1925 open; loop_state ticks=1924.
 - FOI opened: AFM/FTE/debt/dotatie matrix (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1930**). Next: rq_1925 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Socofe-WE-Virya-otherHVZ).
+
+## Tick 1925 - 2026-08-27T09:45:00Z - rq_1925 Socofe (equity 886.1m / pnl 64.5m / Medium)
+
+- Unit: **rq_1925** leftover dual after HVZ Meetjesland. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO YE2024; WE Environnement still **YE2024-only**. Named **Socofe** now YE2025 live — took it (KBO **0472.085.439**; Avenue Maurice-Destenay 13/2 Liège; Walloon public energy holding; Otary/Power@sea path). Virya YE2025 deferred.
+- Primary hunt: NBB CDN unresolved; Upswitch YE2024-only for assets. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0472085439/socofe) + KBO (neerlegging **16.06.2026**; YE **31.12.2025**): omzet **empty**; bruto **NEG EUR-1,018,361**; PnL **EUR64,514,062** (DROP -2.65%); equity **EUR886,113,148** (JUMP +1.86%); FTE **6.1**; assets **Unknown**.
+- Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_socofe_nbb_pdf_assets_share_fva_l5; rq_1925=done + rq_1926 open; loop_state ticks=1925.
+- FOI opened: NBB PDF + assets/share % / FVA (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1930**). Next: rq_1926 (AGB/Dijk92-if-200 / FARO-if-YE2025 / WE-Virya-otherHVZ).
