@@ -52427,3 +52427,8 @@ bud_mater_amabilis_pnl_jr2025_statutory,vzw_mater_amabilis_wervik,2025,211456,21
 bud_mater_amabilis_equity_jr2025_statutory,vzw_mater_amabilis_wervik,2025,9654142,9654142,9654142,CW YE2025 Eigen vermogen / Equity,src_mater_amabilis_jr2025_cw_en,medium,tick2073; JUMP +1.12% vs YE2024 9547675
 bud_mater_amabilis_bruto_jr2025_statutory,vzw_mater_amabilis_wervik,2025,8333283,8333283,8333283,CW YE2025 Brutomarge / Gross margin,src_mater_amabilis_jr2025_cw_en,medium,tick2073; JUMP +2.66% vs YE2024 8117773
 bud_mater_amabilis_fte_jr2025_statutory,vzw_mater_amabilis_wervik,2025,100.1,100.1,100.1,CW social-balance FTE,src_mater_amabilis_jr2025_cw_en,medium,tick2073; FTE 100.1
+bud_hh_grimbergen_omzet_jr2025_statutory,vzw_wzc_heilig_hart_grimbergen,2025,10609510,10609510,10609510,CW YE2025 omzet / Turnover,src_hh_grimbergen_jr2025_cw_en,medium,tick2074; JUMP +3.69% vs YE2024 10232240
+bud_hh_grimbergen_pnl_jr2025_statutory,vzw_wzc_heilig_hart_grimbergen,2025,4035,4035,4035,CW YE2025 Profit/Loss,src_hh_grimbergen_jr2025_cw_en,medium,tick2074; DROP -98.38% vs YE2024 248847
+bud_hh_grimbergen_equity_jr2025_statutory,vzw_wzc_heilig_hart_grimbergen,2025,5749528,5749528,5749528,CW YE2025 Eigen vermogen / Equity,src_hh_grimbergen_jr2025_cw_en,medium,tick2074; DROP -1.38% vs YE2024 5829820
+bud_hh_grimbergen_bruto_jr2025_statutory,vzw_wzc_heilig_hart_grimbergen,2025,10285059,10285059,10285059,CW YE2025 Brutomarge / Gross margin,src_hh_grimbergen_jr2025_cw_en,medium,tick2074; DROP -2.5% vs YE2024 10549092
+bud_hh_grimbergen_fte_jr2025_statutory,vzw_wzc_heilig_hart_grimbergen,2025,128.6,128.6,128.6,CW social-balance FTE,src_hh_grimbergen_jr2025_cw_en,medium,tick2074; FTE 128.6

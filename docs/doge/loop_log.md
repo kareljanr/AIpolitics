@@ -23708,3 +23708,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.1); entities (+1 vzw_mater_amabilis_wervik); foi + draft gap_mater_amabilis_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2073=done + rq_2074 open; loop_state ticks=2073; raw under docs/doge/data/raw/tick2073/.
 - FOI: **ready not sent** (human-gated; info@mater-amabilis.be).
 - NOT every-10 (**next every-10 is 2080**). Next: rq_2074 (AGB/FARO-if-YE2025 / AIESH-REW / HH-Grimbergen deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2074 - 2026-08-24T23:35:00Z - rq_2074 Heilig Hart Grimbergen (omzet JUMP 10.61m / pnl DROP near-zero 4k / Medium)
+
+- Unit: **rq_2074** leftover dual after **rq_2073 Mater Amabilis**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took preferred deferred leftover **Heilig Hart Grimbergen** YE2025 (KBO **0409.724.238**; Veldkantstraat 30 Grimbergen; Vlaams-Brabant **aanbestedende-overheid VZW** WZC / **1 VE**). Zorg en Welzijn Kuurne / Sint-Jozef Brugge Sint-Michiels YE2025 also live - deferred. Do not redo Mater Amabilis/Maria Moorslede/MSW NZVL/Welvaart/Vulpia/Compostela/Leiehome/Deinze/OLV Bornem/Huize SJ Ieper/Sint-Antonius/Wezembeek/Ter Burg/Christine/Vrijzicht/Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/Armonea/Always Home/Maria Ingelmunster.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR10609510** JUMP +3.69%; pnl **EUR4035** DROP -98.38% vs YE2024 EUR248847; equity **EUR5749528** DROP -1.38%; bruto **EUR10285059** DROP -2.5%; FTE **128.6**; neerlegging **26.05.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende overheid 1 VE; email info@hhg.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.5); entities (+1 vzw_wzc_heilig_hart_grimbergen); foi + draft gap_hh_grimbergen_nbb_pdf_assets_debt_pnl_near_zero_matrix_l5; rq_2074=done + rq_2075 open; loop_state ticks=2074; raw under docs/doge/data/raw/tick2074/.
+- FOI: **ready not sent** (human-gated; info@hhg.be).
+- NOT every-10 (**next every-10 is 2080**). Next: rq_2075 (AGB/FARO-if-YE2025 / AIESH-REW / ZorgWelzijn-Kuurne-SintJozef-Brugge deferred / unused DSO-IGS-HVZ-WZC-psych).
