@@ -22169,3 +22169,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+5); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_northwind_nbb_pdf_assets_share_debt_ppa_l5; rq_1905=done + rq_1906 open; loop_state ticks=1905.
 - FOI opened: NBB PDF + assets/share % / debt / PPA (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1910**). Next: rq_1906 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Otary Bis/SeaMade).
+
+
+## Tick 1906 - 2026-08-27T00:15:00Z - rq_1906 Otary Bis (equity 54.3m / pnl 27.9m DROP / Medium)
+
+- Unit: **rq_1906** leftover dual after Northwind. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished; SeaMade CW slug unresolved. Took leftover **Otary Bis NV** (KBO **0700.246.364**; Buskruitstraat 3 Oostende **Otary seat**; holding sister of mined Otary RS; bestuurder o.m. **Nuhma cv**).
+- Primary hunt: NBB CDN deposit unresolved; Upswitch empty this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0700246364/otary-bis) + KBO (neerlegging **06.07.2026**; YE **31.12.2025**): omzet **empty**; bruto **NEG EUR-12,854**; PnL **EUR27,937,714** (**DROP -58.19%**); equity **EUR54,307,125**; FTE **0**; assets **Unknown**; kapitaal **EUR49,055,000**.
+- Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_otary_bis_nbb_pdf_assets_share_fva_l5; rq_1906=done + rq_1907 open; loop_state ticks=1906.
+- FOI opened: NBB PDF + assets/share % / FVA for pnl DROP (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1910**). Next: rq_1907 (AGB/Dijk92-if-200 / FARO-if-YE2025 / SeaMade).

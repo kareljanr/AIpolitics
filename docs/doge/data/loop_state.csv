@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T23:45:00Z,rq_1905,1905,no,tick1905 leftover Northwind 0894.163.222 Medium CW (omzet 121m bruto 84.9m pnl 24.8m equity 67.8m FTE 0 assets Unknown); NBB PDF+share%+debt+PPA FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1906; next every-10 1910; continuous hole_fill
+main,continuous,hole_fill,2026-08-27T00:15:00Z,rq_1906,1906,no,tick1906 leftover Otary Bis 0700.246.364 Medium CW (equity 54.3m pnl 27.9m DROP -58pct bruto NEG omzet empty FTE 0 assets Unknown); NBB PDF+share%+FVA FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1907; next every-10 1910; continuous hole_fill
