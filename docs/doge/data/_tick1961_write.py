@@ -1,4 +1,4 @@
-# tick 1961 — IPFBW YE2025 Strong auditor + Medium CW (rq_1961 after Aquiris EVERY-10)
+# tick 1961 — IGRETEC YE2025 Medium CW (rq_1961 after Aquiris EVERY-10)
 import csv
 from pathlib import Path
 
@@ -37,41 +37,55 @@ with (DATA / "sources.csv").open(encoding="utf-8", newline="") as f:
 
 sources_new = [
     {
-        "source_id": "src_ipfbw_jr2025_rsm",
-        "title": "RSM commissaire report IPFBW comptes 31.12.2025",
-        "url": "https://www.wavre.be/sites/wavre/files/media/file/IPFBW%20-%20Rapport%20du%20commissaire%20RSM%20-%2012-05-2026.pdf",
-        "publisher": "RSM Belgium (commissaire IPFBW) via Wavre",
-        "accessed_date": "2026-08-23",
-        "source_class": "official_audit",
-        "notes": (
-            "tick1961; Strong; bilan total EUR341059081.57; benefice exercice EUR10912136.13; "
-            "opinion sans reserve; AG nomination 10.06.2025"
-        ),
-    },
-    {
-        "source_id": "src_ipfbw_jr2025_cw",
-        "title": "Companyweb IPFBW YE2025 NBB-derived summary",
-        "url": "https://www.companyweb.be/nl/0206041757/intercommunale-pure-de-financement-du-brabant-wallon",
+        "source_id": "src_igretec_jr2025_cw",
+        "title": "Companyweb IGRETEC YE2025 NBB-derived summary",
+        "url": "https://www.companyweb.be/nl/0201741786/intercommunale-pour-la-gestion-et-la-realisation-d-etudes-techniques-et-economiques",
         "publisher": "Companyweb (NBB-derived)",
         "accessed_date": "2026-08-23",
         "source_class": "secondary_aggregator",
         "notes": (
-            "tick1961; Laatste balansjaar 2025; neerlegging 04.07.2026; "
-            "pnl 10912136 +6.4pct; equity 228950352 +2.19pct; bruto NEG -187231; "
-            "omzet 10500; FTE 1"
+            "tick1961; Laatste balansjaar 2025; neergelegd 18-07-2026; "
+            "omzet 105706740 JUMP +48.37pct; pnl DROP 7409365 -27.07pct; "
+            "equity 267378265 -0.43pct; bruto 51746245; FTE 387.6; "
+            "Groot; KBO 0201.741.786; assets/debt Unknown (Upswitch 404)"
         ),
     },
     {
-        "source_id": "src_ipfbw_kbo_1961",
-        "title": "KBO IPFBW 0206.041.757 Actief CV publiek recht",
-        "url": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0206041757",
+        "source_id": "src_igretec_jr2025_cw_en",
+        "title": "Companyweb EN twin IGRETEC YE2025 turnover equity",
+        "url": "https://www.companyweb.be/en/0201741786/intercommunale-pour-la-gestion-et-la-realisation-d-etudes-techniques-et-economiques",
+        "publisher": "Companyweb (NBB-derived)",
+        "accessed_date": "2026-08-23",
+        "source_class": "secondary_aggregator",
+        "notes": (
+            "tick1961; Last balance sheet year 2025; Turnover 105706740; "
+            "Profit/Loss 7409365; Equity 267378265; Gross margin 51746245; "
+            "FTE 387.6; filed 18-07-2026"
+        ),
+    },
+    {
+        "source_id": "src_igretec_kbo_1961",
+        "title": "KBO IGRETEC 0201.741.786 Actief SC Charleroi",
+        "url": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0201741786",
         "publisher": "KBO FOD Economie",
         "accessed_date": "2026-08-23",
         "source_class": "official_register",
         "notes": (
-            "tick1961; Actief CV publiek recht; Avenue Jean Monnet 2 1348 OLLN; "
-            "aanbestedende overheid; email officiel.ic-ipfbw@ipfbw.be; "
-            "absorbed Energie Brabant Wallon 0882.039.509 since 12.12.2023"
+            "tick1961; Actief SC sinds 17.12.2020; zetel Boulevard Pierre Mayence 1 bus 1 "
+            "6000 Charleroi; email officiel.ic-igretec@igretec.com; "
+            "NBB consult https://consult.cbso.nbb.be/consult-enterprise/0201741786"
+        ),
+    },
+    {
+        "source_id": "src_igretec_site_1961",
+        "title": "IGRETEC.com Walloon multi-sector intercommunale Charleroi",
+        "url": "https://www.igretec.com/",
+        "publisher": "IGRETEC SC",
+        "accessed_date": "2026-08-23",
+        "source_class": "official_org",
+        "notes": (
+            "tick1961; bureau d'etudes + sanitation OAA + economic/airport real-estate "
+            "sectors; dual SPGE/IDEA/BSCA; public site RF still 2024-only this tick"
         ),
     },
 ]
@@ -79,32 +93,37 @@ sources_new = [s for s in sources_new if s["source_id"] not in existing_src]
 if sources_new:
     append_csv(DATA / "sources.csv", sources_new)
 
+ent_notes = (
+    "tick1961 YE2025 Medium CW NL+EN + Strong KBO 0201.741.786 Actief SC; "
+    "omzet JUMP 105.71m pnl DROP 7.41m equity 267.38m bruto 51.75m FTE 387.6; "
+    "assets/debt Unknown (Upswitch 404); neerlegging 18.07.2026; "
+    "multi-sector Charleroi-Sud Hainaut (etudes/assain/eco/airport dual BSCA); "
+    "FOI gap_igretec_nbb_pdf_assets_debt_sector_matrix_l5; "
+    "preferred AGB Bornem JR2024; FARO/AIESH/REW YE2024; "
+    "do not redo Aquiris/SPGE/Hydria/Vivaqua/CILE/IRE*/FANC/SCK/EURIDICE/BRUGEL/"
+    "Belgoprocess/Laborelec/NIRAS/Bel V/Dijk92/SOWAER"
+)
+
 existing_ent = set()
 with (DATA / "entities.csv").open(encoding="utf-8", newline="") as f:
     for row in csv.DictReader(f):
         existing_ent.add(row.get("entity_id") or "")
 
-ent_notes = (
-    "tick1961 YE2025 Strong RSM+Medium CW KBO 0206.041.757 Actief CV publiek recht; "
-    "assets 341.06m pnl JUMP 10.91m equity 228.95m bruto NEG -0.19m omzet 10.5k FTE 1; "
-    "FOI gap_ipfbw_nbb_pdf_debt_commune_share_ebw_l5; absorbed EBW 2023; dual inBW"
-)
-
-if "igs_ipfbw" not in existing_ent:
+if "igretec" not in existing_ent:
     append_csv(
         DATA / "entities.csv",
         [
             {
-                "entity_id": "igs_ipfbw",
-                "name_nl": "IPFBW / Intercommunale pure de financement du Brabant Wallon",
-                "name_fr": "IPFBW / Intercommunale pure de financement du Brabant Wallon",
-                "name_en": "IPFBW — pure financing intercommunale Brabant wallon communes",
-                "level": "igs",
-                "parent_id": "prov_brabant_wallon",
+                "entity_id": "igretec",
+                "name_nl": "IGRETEC (Intercommunale studies/sanitatie/economie Charleroi)",
+                "name_fr": "IGRETEC (Intercommunale etudes/assainissement/economie Charleroi)",
+                "name_en": "IGRETEC (Charleroi multi-sector intercommunale)",
+                "level": "intercommunale",
+                "parent_id": "wallonie_gov",
                 "community_language": "fr",
-                "website": "https://www.ipfbw.be",
-                "foi_email": "officiel.ic-ipfbw@ipfbw.be",
-                "foi_postal": "Avenue Jean Monnet 2 1348 Ottignies-Louvain-la-Neuve",
+                "website": "https://www.igretec.com",
+                "foi_email": "officiel.ic-igretec@igretec.com",
+                "foi_postal": "Boulevard Pierre Mayence 1 bus 1 6000 Charleroi",
                 "notes": ent_notes,
             }
         ],
@@ -114,10 +133,11 @@ else:
         DATA / "entities.csv",
         "entity_id",
         {
-            "igs_ipfbw": {
-                "foi_email": "officiel.ic-ipfbw@ipfbw.be",
-                "foi_postal": "Avenue Jean Monnet 2 1348 Ottignies-Louvain-la-Neuve",
+            "igretec": {
                 "notes": ent_notes,
+                "foi_email": "officiel.ic-igretec@igretec.com",
+                "foi_postal": "Boulevard Pierre Mayence 1 bus 1 6000 Charleroi",
+                "website": "https://www.igretec.com",
             }
         },
     )
@@ -129,76 +149,64 @@ with (DATA / "budgets.csv").open(encoding="utf-8", newline="") as f:
 
 budgets_new = [
     {
-        "budget_id": "bud_ipfbw_assets_jr2025",
-        "entity_id": "igs_ipfbw",
+        "budget_id": "bud_igretec_omzet_jr2025_statutory",
+        "entity_id": "igretec",
         "year": "2025",
-        "amount_eur": "341059082",
+        "amount_eur": "105706740",
         "amount_min_eur": "",
         "amount_max_eur": "",
-        "basis": "RSM commissaire bilan total 31.12.2025",
-        "source_id": "src_ipfbw_jr2025_rsm",
-        "confidence": "strong",
-        "notes": "tick1961; YE2025 assets 341059081.57 rounded; YE2024 CW/Upswitch 332609340",
+        "basis": "CW NBB-derived omzet statutory",
+        "source_id": "src_igretec_jr2025_cw",
+        "confidence": "medium",
+        "notes": "tick1961; YE2025 omzet 105706740 JUMP +48.37pct vs 71245723",
     },
     {
-        "budget_id": "bud_ipfbw_pnl_jr2025",
-        "entity_id": "igs_ipfbw",
+        "budget_id": "bud_igretec_pnl_jr2025_statutory",
+        "entity_id": "igretec",
         "year": "2025",
-        "amount_eur": "10912136",
+        "amount_eur": "7409365",
         "amount_min_eur": "",
         "amount_max_eur": "",
-        "basis": "RSM commissaire benefice + CW 9904",
-        "source_id": "src_ipfbw_jr2025_rsm",
-        "confidence": "strong",
-        "notes": "tick1961; YE2025 pnl 10912136 +6.4pct vs CW YE2024 10255819",
+        "basis": "CW NBB-derived Winst/Verlies",
+        "source_id": "src_igretec_jr2025_cw",
+        "confidence": "medium",
+        "notes": "tick1961; YE2025 pnl DROP 7409365 -27.07pct vs 10160099",
     },
     {
-        "budget_id": "bud_ipfbw_equity_jr2025",
-        "entity_id": "igs_ipfbw",
+        "budget_id": "bud_igretec_bruto_jr2025_statutory",
+        "entity_id": "igretec",
         "year": "2025",
-        "amount_eur": "228950352",
+        "amount_eur": "51746245",
+        "amount_min_eur": "",
+        "amount_max_eur": "",
+        "basis": "CW NBB-derived bruto/gross margin",
+        "source_id": "src_igretec_jr2025_cw",
+        "confidence": "medium",
+        "notes": "tick1961; YE2025 bruto 51746245 +3.54pct vs 49977882",
+    },
+    {
+        "budget_id": "bud_igretec_equity_jr2025_statutory",
+        "entity_id": "igretec",
+        "year": "2025",
+        "amount_eur": "267378265",
         "amount_min_eur": "",
         "amount_max_eur": "",
         "basis": "CW NBB-derived equity",
-        "source_id": "src_ipfbw_jr2025_cw",
+        "source_id": "src_igretec_jr2025_cw",
         "confidence": "medium",
-        "notes": "tick1961; YE2025 equity 228950352 +2.19pct vs 224037949",
+        "notes": "tick1961; YE2025 equity 267378265 -0.43pct vs 268524099",
     },
     {
-        "budget_id": "bud_ipfbw_bruto_jr2025",
-        "entity_id": "igs_ipfbw",
+        "budget_id": "bud_igretec_fte_jr2025_statutory",
+        "entity_id": "igretec",
         "year": "2025",
-        "amount_eur": "-187231",
+        "amount_eur": "387.6",
         "amount_min_eur": "",
         "amount_max_eur": "",
-        "basis": "CW NBB-derived brutomarge NEG",
-        "source_id": "src_ipfbw_jr2025_cw",
+        "basis": "CW social-balance FTE",
+        "source_id": "src_igretec_jr2025_cw",
         "confidence": "medium",
-        "notes": "tick1961; YE2025 bruto NEG -187231 IMPROVED vs -207313; financing shell",
-    },
-    {
-        "budget_id": "bud_ipfbw_omzet_jr2025",
-        "entity_id": "igs_ipfbw",
-        "year": "2025",
-        "amount_eur": "10500",
-        "amount_min_eur": "",
-        "amount_max_eur": "",
-        "basis": "CW NBB-derived omzet",
-        "source_id": "src_ipfbw_jr2025_cw",
-        "confidence": "medium",
-        "notes": "tick1961; YE2025 omzet 10500 nominal; financing IGS not trading utility",
-    },
-    {
-        "budget_id": "bud_ipfbw_fte_jr2025",
-        "entity_id": "igs_ipfbw",
-        "year": "2025",
-        "amount_eur": "1",
-        "amount_min_eur": "",
-        "amount_max_eur": "",
-        "basis": "CW NBB-derived FTE",
-        "source_id": "src_ipfbw_jr2025_cw",
-        "confidence": "medium",
-        "notes": "tick1961; YE2025 FTE 1; dagelijks bestuur Sarah Gillard KBO",
+        "notes": "tick1961; YE2025 FTE 387.6 vs 380.3 YE2024",
     },
 ]
 budgets_new = [b for b in budgets_new if b["budget_id"] not in existing_bud]
@@ -210,170 +218,270 @@ with (DATA / "commitments.csv").open(encoding="utf-8", newline="") as f:
     for row in csv.DictReader(f):
         existing_comm.add(row.get("commitment_id") or "")
 
-if "comm_ipfbw_jr2025_assets" not in existing_comm:
-    append_csv(
-        DATA / "commitments.csv",
-        [
-            {
-                "commitment_id": "comm_ipfbw_jr2025_assets",
-                "title": "IPFBW YE2025 leftover BW financing IGS (assets 341.1m / pnl JUMP 10.91m / equity 229.0m)",
-                "entity_id": "igs_ipfbw",
-                "beneficiary": "Brabant wallon communes / provincial financing dual vs inBW",
-                "legal_basis": "CV publiek recht; aanbestedende overheid; NBB neerlegging; CDLD",
-                "decision_date": "2026-05-12",
-                "start_year": "2025",
-                "end_year": "2025",
-                "total_envelope_eur": "341059082",
-                "cash_by_year": (
-                    "2025:assets=341059082;pnl=10912136;equity=228950352;"
-                    "bruto=-187231;omzet=10500;fte=1;debt=Unknown"
-                ),
-                "remaining_eur": "",
-                "status": "active",
-                "evaluation_url": "https://www.wavre.be/sites/wavre/files/media/file/IPFBW%20-%20Rapport%20du%20commissaire%20RSM%20-%2012-05-2026.pdf",
-                "stated_goal": "Pure financing intercommunale for Brabant wallon communes",
-                "cut_option": "FOI NBB PDF + debt + commune share/dividend + EBW integration vs inBW",
-                "source_id": "src_ipfbw_jr2025_rsm",
-                "confidence": "strong",
-                "hierarchy_path": "Belgie>Wallonie>Brabant_wallon>IPFBW>JR2025_L5",
-                "notes": (
-                    "tick1961; Strong RSM assets/pnl + Medium CW equity; preferred AGB Bornem JR2024 / "
-                    "FARO/AIESH/REW YE2024; do not redo Aquiris/SPGE/SWDE/CILE/Hydria/Vivaqua/nuclear stack"
-                ),
-            }
-        ],
-    )
+comm_row = {
+    "commitment_id": "comm_igretec_jr2025_statutory_omzet",
+    "title": (
+        "IGRETEC YE2025 leftover Walloon multi-sector dual statutory "
+        "(omzet JUMP 105.71m / pnl DROP 7.41m / equity 267.38m)"
+    ),
+    "entity_id": "igretec",
+    "beneficiary": "Charleroi-Sud Hainaut communes / SPGE OAA / BSCA airport dual path",
+    "legal_basis": (
+        "SC association de communes CDLD; NBB neerlegging; "
+        "decret wallon openbaarheid / Code de la democratie locale"
+    ),
+    "decision_date": "2026-07-18",
+    "start_year": "2025",
+    "end_year": "2025",
+    "total_envelope_eur": "105706740",
+    "cash_by_year": (
+        "2025:omzet=105706740;bruto=51746245;pnl=7409365;"
+        "equity=267378265;fte=387.6;assets=Unknown;debt=Unknown"
+    ),
+    "remaining_eur": "",
+    "status": "active",
+    "evaluation_url": (
+        "https://www.companyweb.be/nl/0201741786/"
+        "intercommunale-pour-la-gestion-et-la-realisation-d-etudes-techniques-et-economiques"
+    ),
+    "stated_goal": (
+        "Multi-sector intercommunale: engineering bureau + sanitation OAA + "
+        "economic/airport real-estate development"
+    ),
+    "cut_option": (
+        "FOI NBB PDF + assets/debt + per-sector P&L matrix + dual unit-cost vs SPGE/IDEA"
+    ),
+    "source_id": "src_igretec_jr2025_cw",
+    "confidence": "medium",
+    "hierarchy_path": "Wallonie>Hainaut>IGRETEC>JR2025_statutory_L5",
+    "notes": (
+        "tick1961; Medium CW NL+EN after Aquiris EVERY-10; preferred AGB Bornem JR2024 / "
+        "FARO YE2024 / AIESH YE2024 / REW YE2024; do not redo Aquiris/SPGE/Hydria/Vivaqua/"
+        "CILE/IRE/FANC/SCK/EURIDICE/BRUGEL/Belgoprocess/SOWAER; not TE-additive of 348bn"
+    ),
+}
+if comm_row["commitment_id"] not in existing_comm:
+    append_csv(DATA / "commitments.csv", [comm_row])
 
 existing_lb = set()
 with (DATA / "leaderboard.csv").open(encoding="utf-8", newline="") as f:
     for row in csv.DictReader(f):
         existing_lb.add(row.get("item_id") or "")
 
-# pi = 0.55*5.5 + 0.35*5.5 + 0.10*(10-3.0) = 3.025+1.925+0.7 = 5.65 -> 5.7
-if "lb_ipfbw_assets_341_1m_pnl_jump_10_91m_jr2025" not in existing_lb:
-    append_csv(
-        DATA / "leaderboard.csv",
-        [
-            {
-                "item_id": "lb_ipfbw_assets_341_1m_pnl_jump_10_91m_jr2025",
-                "name": "IPFBW assets 341.1m / pnl JUMP 10.91m (BW pure financing IGS dual inBW)",
-                "level": "L5",
-                "type": "financing_igs_dual",
-                "hierarchy_path": "Belgie>Wallonie>Brabant_wallon>IPFBW>JR2025_L5",
-                "annual_cost_eur": "10912136",
-                "total_cost_eur": "341059082",
-                "tco_notes": (
-                    "assets 341059082 pnl 10912136 equity 228950352 bruto NEG -187231 "
-                    "omzet 10500 FTE 1; debt Unknown; absorbed EBW 2023"
-                ),
-                "confidence": "strong",
-                "source_id": "src_ipfbw_jr2025_rsm",
-                "beneficiaries": "BW communes / provincial financing path",
-                "stated_goal": "Pure financing intercommunale Brabant wallon",
-                "measured_outcome": "RSM Strong assets/pnl; CW equity; NBB PDF body unresolved",
-                "absurdity_score": "5.5",
-                "cost_score": "5.5",
-                "difficulty": "3.0",
-                "priority_index": "5.7",
-                "cut_proposal": "Publish NBB PDF + debt + commune share matrix + EBW/inBW dual flows",
-                "status": "active",
-                "struck_reason": "",
-                "notes": "tick1961; Strong RSM; leftover after Aquiris EVERY-10; not TE-additive pure-waste top10",
-            }
-        ],
-    )
+lb_row = {
+    "item_id": "lb_igretec_omzet_jump_105_71m_pnl_drop_7_41m_jr2025",
+    "name": (
+        "IGRETEC omzet JUMP 105.71m / pnl DROP 7.41m / equity 267.38m "
+        "(multi-sector Charleroi YE2025)"
+    ),
+    "level": "L5",
+    "type": "walloon_intercommunale_multi_sector_dual",
+    "hierarchy_path": "Wallonie>Hainaut>IGRETEC>JR2025_statutory_L5",
+    "annual_cost_eur": "105706740",
+    "total_cost_eur": "267378265",
+    "tco_notes": (
+        "statutory omzet 105706740 JUMP bruto 51746245 pnl DROP 7409365 "
+        "equity 267378265 fte 387.6; assets/debt Unknown; dual SPGE/IDEA/BSCA"
+    ),
+    "confidence": "medium",
+    "source_id": "src_igretec_jr2025_cw",
+    "beneficiaries": "Charleroi-Sud Hainaut communes / SPGE OAA / BSCA airport zone",
+    "stated_goal": "Engineering + sanitation + economic/airport development intercommunale",
+    "measured_outcome": (
+        "CW NL+EN YE2025 live unused after preferred AGB/FARO/AIESH/REW stall; "
+        "omzet JUMP +48pct with pnl DROP -27pct; primary NBB PDF + BS + sector matrix unresolved"
+    ),
+    "absurdity_score": "4.5",
+    "cost_score": "7.0",
+    "difficulty": "3.5",
+    "priority_index": "5.8",
+    "cut_proposal": (
+        "Publish NBB PDF + assets/debt + per-sector P&L/dividend matrix; "
+        "reconcile turnover JUMP vs declining profit"
+    ),
+    "status": "active",
+    "struck_reason": "",
+    "notes": (
+        "tick1961; Medium CW; leftover unused IGS/water dual after Aquiris; "
+        "not TE-additive pure-waste top10"
+    ),
+}
+if lb_row["item_id"] not in existing_lb:
+    append_csv(DATA / "leaderboard.csv", [lb_row])
 
+gap_id = "gap_igretec_nbb_pdf_assets_debt_sector_matrix_l5"
 existing_foi = set()
 with (DATA / "foi_queue.csv").open(encoding="utf-8", newline="") as f:
     for row in csv.DictReader(f):
         existing_foi.add(row.get("gap_id") or "")
 
-if "gap_ipfbw_nbb_pdf_debt_commune_share_ebw_l5" not in existing_foi:
-    append_csv(
-        DATA / "foi_queue.csv",
-        [
-            {
-                "gap_id": "gap_ipfbw_nbb_pdf_debt_commune_share_ebw_l5",
-                "hierarchy_path": "Belgie>Wallonie>Brabant_wallon>IPFBW>nbb_pdf_debt_L5",
-                "entity_id": "igs_ipfbw",
-                "what_is_missing": (
-                    "NBB deposit PDF body YE2025; LT/ST debt + cash + portfolio recon to assets "
-                    "341059082; commune/provincial share register + 2025 dividend/restitution; "
-                    "Energie Brabant Wallon integration + dual flows vs inBW"
-                ),
-                "why_it_matters": (
-                    "BW pure financing IGS with 341m assets / 11m pnl / 1 FTE — debt and commune "
-                    "ownership opaque; dual-count risk vs inBW operating shell + absorbed EBW"
-                ),
-                "priority": "8",
-                "recipient_body": "IPFBW",
-                "recipient_email": "officiel.ic-ipfbw@ipfbw.be",
-                "recipient_postal": "Avenue Jean Monnet 2 1348 Ottignies-Louvain-la-Neuve (cc inBW)",
-                "draft_letter_path": "docs/doge/foi/drafts/gap_ipfbw_nbb_pdf_debt_commune_share_ebw_l5.md",
-                "status": "ready",
-                "date_ready": "2026-08-23",
-                "date_sent": "",
-                "date_due": "",
-                "date_answered": "",
-                "response_summary": "",
-                "linked_commitment_id": "comm_ipfbw_jr2025_assets",
-                "linked_leaderboard_id": "lb_ipfbw_assets_341_1m_pnl_jump_10_91m_jr2025",
-                "created_utc": TS,
-                "updated_utc": TS,
-                "notes": "tick1961; human-send only; Strong RSM + Medium CW",
-            }
-        ],
+foi_row = {
+    "gap_id": gap_id,
+    "hierarchy_path": "Wallonie>Hainaut>IGRETEC>nbb_pdf_assets_debt_sector_L5",
+    "entity_id": "igretec",
+    "what_is_missing": (
+        "NBB deposit PDF body YE2025 (CW neerlegging 18.07.2026); "
+        "assets / debt LT-ST / cash exact (Upswitch 404); "
+        "per-sector P&L / dividend / SPGE works matrix 2025 vs omzet JUMP 105.71m; "
+        "reconcile pnl DROP -27pct with turnover JUMP +48pct; "
+        "BSCA airport real-estate sector flows"
+    ),
+    "why_it_matters": (
+        "Large Walloon multi-sector intercommunale: 105.71m omzet JUMP / 267m equity "
+        "with opaque BS and multi-sector fee stack (SPGE OAA + airport dual) — "
+        "public euro opacity without NBB PDF"
+    ),
+    "priority": "8",
+    "recipient_body": "IGRETEC SC (cc SPW / SPGE / communes associees)",
+    "recipient_email": "officiel.ic-igretec@igretec.com",
+    "recipient_postal": "Boulevard Pierre Mayence 1 bus 1 6000 Charleroi",
+    "draft_letter_path": f"docs/doge/foi/drafts/{gap_id}.md",
+    "status": "ready",
+    "date_ready": "2026-08-23",
+    "date_sent": "",
+    "date_due": "",
+    "date_answered": "",
+    "response_summary": "",
+    "linked_commitment_id": "comm_igretec_jr2025_statutory_omzet",
+    "linked_leaderboard_id": "lb_igretec_omzet_jump_105_71m_pnl_drop_7_41m_jr2025",
+    "created_utc": TS,
+    "updated_utc": TS,
+    "notes": "tick1961; human-send only; Medium CW; next every-10 1970",
+}
+if gap_id not in existing_foi:
+    append_csv(DATA / "foi_queue.csv", [foi_row])
+
+draft_path = ROOT / "docs" / "doge" / "foi" / "drafts" / f"{gap_id}.md"
+if not draft_path.exists():
+    draft_path.write_text(
+        f"""# FOI draft — IGRETEC (NBB PDF / assets-debt / sector matrix)
+
+**gap_id:** `{gap_id}`  
+**status:** ready (NOT sent)  
+**entity:** IGRETEC SC — KBO **0201.741.786** (Charleroi multi-sector intercommunale)  
+**recipient:** officiel.ic-igretec@igretec.com / cc SPW / SPGE / communes associees  
+**sources:** [Companyweb NL](https://www.companyweb.be/nl/0201741786/intercommunale-pour-la-gestion-et-la-realisation-d-etudes-techniques-et-economiques) · [Companyweb EN](https://www.companyweb.be/en/0201741786/intercommunale-pour-la-gestion-et-la-realisation-d-etudes-techniques-et-economiques) · [KBO](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0201741786) · [NBB consult](https://consult.cbso.nbb.be/consult-enterprise/0201741786) · [igretec.com](https://www.igretec.com/)  
+**tick:** 1961  
+**confidence on table euros:** Medium (NBB-derived CW NL+EN; primary deposit PDF unresolved; Upswitch 404 for assets)
+
+## Context
+
+- Sourced YE **01.01.2025–31.12.2025** (neerlegging **18.07.2026**): omzet **EUR105,706,740** (**JUMP +48.37%**); bruto **EUR51,746,245**; pnl **EUR7,409,365** (**DROP -27.07%**); equity **EUR267,378,265**; FTE **387.6**.
+- Assets / debt / cash **Unknown** (Upswitch SPA empty this tick — not invented).
+- Multi-sector dual: engineering bureau + sanitation OAA (SPGE path) + economic/airport real-estate (BSCA dual). Official RF site still **2024-only**.
+- Preferred leftover paths still stalled: AGB Bornem **JR2024**; FARO/AIESH/REW **YE2024**. Do not redo Aquiris / SPGE / Hydria / Vivaqua / CILE / IRE cluster / BRUGEL / SOWAER.
+
+## Brief
+
+```text
+[Naam verzoeker]
+[Adres]
+[E-mail]
+[Datum]
+
+Aan: IGRETEC SC
+t.a.v. openbaarheid / information officer
+Boulevard Pierre Mayence 1 bus 1
+6000 Charleroi
+
+cc: SPW / SPGE — Rue des Ecoles 17-19, 4800 Verviers
+    Communes associees IGRETEC Secteurs 1-4
+
+Betreft: Verzoek om openbaarmaking — NBB-jaarrekening 2025 IGRETEC,
+balansposten en sector-P&L/dividend-matrix (KBO 0201.741.786)
+
+Geachte,
+
+Op grond van toepasselijke openbaarheid (decret wallon / CDLD)
+vraag ik:
+
+1. Digitaal afschrift van de bij de NBB neergelegde jaarrekening 2025
+   van IGRETEC SC (deposit-/referentienummer + PDF; Companyweb noemt
+   neerlegging 18.07.2026).
+2. Balanstotaal / schulden LT-ST / cash reconcilieerbaar met publieke
+   aggregators (CW omzet EUR105.706.740; equity EUR267.378.265;
+   assets YE2025 Unknown).
+3. Per-sector P&L / dividend / SPGE-werken matrix 2025 (Secteurs 1-4)
+   vs statutaire omzet JUMP +48%.
+4. Uitleg pnl DROP -27% bij omzet JUMP +48% + eventuele dividend-
+   / related-party flows (incl. BSCA airport real-estate sector).
+5. Dual unit-cost vs SPGE / IDEA OAA-pad indien beschikbaar.
+
+Periode: boekjaar 01.01.2025–31.12.2025.
+Referentie: {gap_id}
+
+Met vriendelijke groeten,
+[Naam]
+```
+
+## Checklist
+
+- [x] Juiste instelling (IGRETEC SC + SPGE/SPW cc)
+- [x] Concrete documenten (NBB PDF / BS / sector matrix)
+- [x] Periode en bedragen
+- [x] `foi_queue.csv` ready — **NOT sent** (human-gated)
+- Hunt this tick: AGB Bornem official still JR2024-only; FARO NBB still YE2024; AIESH/REW still YE2024; took unused leftover **IGRETEC** YE2025 live.
+""",
+        encoding="utf-8",
     )
 
-update_csv_rows(
-    DATA / "research_queue.csv",
-    "task_id",
-    {
-        "rq_1961": {
-            "status": "done",
-            "entity_id": "igs_ipfbw",
-            "updated_utc": TS,
-            "title": "leftover dual hole-fill after Aquiris EVERY-10 — IPFBW YE2025 Strong",
-            "blocked_gap_id": "gap_ipfbw_nbb_pdf_debt_commune_share_ebw_l5",
-            "notes": (
-                "tick1961 IPFBW YE2025 Strong RSM assets 341.1m pnl JUMP 10.91m; "
-                "preferred AGB Bornem JR2024 / FARO YE2024 / AIESH YE2024"
-            ),
-        }
-    },
-)
-
-existing_rq = set()
+# research_queue: close rq_1961, spawn rq_1962
 with (DATA / "research_queue.csv").open(encoding="utf-8", newline="") as f:
-    for row in csv.DictReader(f):
-        existing_rq.add(row.get("task_id") or "")
+    r = csv.DictReader(f)
+    rq_fields = r.fieldnames
+    rq_rows = list(r)
 
-if "rq_1962" not in existing_rq:
-    append_csv(
-        DATA / "research_queue.csv",
-        [
-            {
-                "task_id": "rq_1962",
-                "title": "leftover dual hole-fill after IPFBW",
-                "sprint": "hole_fill",
-                "priority": "8",
-                "status": "open",
-                "hierarchy_target": "L5",
-                "entity_id": "",
-                "instructions": (
-                    "Prefer leftover AGB/APB if JR2025 PDF live, else FARO if TRUE NBB YE2025, "
-                    "else AIESH/REW if YE2025, else unused water/DSO/IGS/HVZ/energy/nuclear. "
-                    "Do NOT redo IPFBW, Aquiris, SPGE, IRE*, FANC, SCK CEN, EURIDICE, BRUGEL, "
-                    "Hydria, Vivaqua, Belgoprocess, Laborelec, CILE, NIRAS, Bel V, Dijk92, "
-                    "Synatom, Atrias, AIEG, Synergrid, RESA, Enodia, Fluxys*, ETB, Elia, BNO, SWDE."
-                ),
-                "blocked_gap_id": "",
-                "created_utc": TS,
-                "updated_utc": TS,
-                "notes": "tick1961; next after IPFBW; next every-10 1970",
-            }
-        ],
+have_1962 = False
+for row in rq_rows:
+    if row.get("task_id") == "rq_1961":
+        row["status"] = "done"
+        row["entity_id"] = "igretec"
+        row["title"] = (
+            "leftover dual hole-fill after Aquiris EVERY-10 — IGRETEC YE2025 Medium"
+        )
+        row["updated_utc"] = TS
+        row["notes"] = (
+            "tick1961 IGRETEC YE2025 Medium omzet JUMP 105.71m pnl DROP 7.41m "
+            "equity 267.38m; FOI ready; next rq_1962; next every-10 1970"
+        )
+        row["instructions"] = (
+            "Completed: IGRETEC leftover Walloon multi-sector dual after Aquiris EVERY-10; "
+            "KBO 0201.741.786; YE2025 Medium CW NL+EN (omzet JUMP 105.71m pnl DROP 7.41m "
+            "equity 267.38m bruto 51.75m FTE 387.6); FOI "
+            "gap_igretec_nbb_pdf_assets_debt_sector_matrix_l5 ready"
+        )
+    if row.get("task_id") == "rq_1962":
+        have_1962 = True
+
+if not have_1962:
+    rq_rows.append(
+        {
+            "task_id": "rq_1962",
+            "title": "leftover dual hole-fill after IGRETEC",
+            "sprint": "hole_fill",
+            "priority": "8",
+            "status": "open",
+            "hierarchy_target": "L5",
+            "entity_id": "",
+            "instructions": (
+                "Tick 1962 after 1961 IGRETEC YE2025 statutory. Prefer leftover AGB/APB "
+                "if JR2025 PDF live, else FARO if TRUE NBB YE2025, else AIESH/REW if YE2025, "
+                "else unused water/DSO/IGS/HVZ/energy/nuclear. Do NOT redo IGRETEC, Aquiris, "
+                "SPGE, IRE parent, IRE ELiT, FANC, SCK CEN, EURIDICE, BRUGEL, Hydria, Vivaqua, "
+                "Belgoprocess, Laborelec, CILE, NIRAS, Bel V, Dijk92, Synatom, Atrias, AIEG, "
+                "Synergrid, RESA, Enodia, Fluxys*, ETB, Elia, BNO, SWDE, SOWAER."
+            ),
+            "blocked_gap_id": "",
+            "created_utc": TS,
+            "updated_utc": TS,
+            "notes": "spawned after tick1961; next every-10 1970",
+        }
     )
+
+with (DATA / "research_queue.csv").open("w", encoding="utf-8", newline="") as f:
+    w = csv.DictWriter(f, fieldnames=rq_fields, lineterminator="\n")
+    w.writeheader()
+    w.writerows(rq_rows)
 
 update_csv_rows(
     DATA / "loop_state.csv",
@@ -387,8 +495,8 @@ update_csv_rows(
             "ticks_completed": "1961",
             "paused": "no",
             "notes": (
-                "tick1961 leftover IPFBW 0206.041.757 Strong RSM+Medium CW "
-                "(assets 341.06m pnl JUMP 10.91m equity 228.95m bruto NEG -0.19m FTE 1); "
+                "tick1961 IGRETEC 0201.741.786 Medium CW NL+EN (omzet JUMP 105.71m "
+                "pnl DROP 7.41m equity 267.38m bruto 51.75m FTE 387.6); "
                 "AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_1962; "
                 "next every-10 1970; continuous hole_fill"
             ),
@@ -397,17 +505,16 @@ update_csv_rows(
 )
 
 log_path = ROOT / "docs" / "doge" / "loop_log.md"
-log_block = f"""
+log_block = """
+## Tick 1961 - 2026-08-23T17:15:00Z - rq_1961 IGRETEC (omzet JUMP 105.71m / pnl DROP 7.41m / Medium)
 
-## Tick 1961 - {TS} - rq_1961 IPFBW (assets 341.1m / pnl JUMP 10.91m / Strong)
-
-- Unit: **rq_1961** leftover dual after concurrent **rq_1960 EVERY-10 + Aquiris** (already on main). Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024**. Took leftover **IPFBW** (KBO **0206.041.757**; Avenue Jean Monnet 2 OLLN; pure financing intercommunale BW; aanbestedende overheid; absorbed Energie Brabant Wallon 12.12.2023). Do not redo Aquiris/SPGE/SWDE/CILE/Hydria/Vivaqua/IRE*/FANC/SCK/EURIDICE/BRUGEL/nuclear stack.
-- Primary: Strong [RSM commissaire YE2025 PDF](https://www.wavre.be/sites/wavre/files/media/file/IPFBW%20-%20Rapport%20du%20commissaire%20RSM%20-%2012-05-2026.pdf) (assets **EUR341,059,082**; PnL **EUR10,912,136**) + Medium [Companyweb](https://www.companyweb.be/nl/0206041757/intercommunale-pure-de-financement-du-brabant-wallon) + Strong KBO (neerlegging **04.07.2026**): equity **EUR228,950,352** (**JUMP +2.19%**); bruto **NEG EUR-187,231**; omzet **EUR10,500**; FTE **1**; debt **Unknown**.
-- Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1 igs_ipfbw); foi + draft gap_ipfbw_nbb_pdf_debt_commune_share_ebw_l5; rq_1961=done + rq_1962 open; loop_state ticks=1961.
-- FOI opened: NBB PDF + debt + commune share + EBW/inBW dual (**ready**, human-send only).
-- NOT every-10 (**1960 EVERY-10 already done with Aquiris**; next every-10 is **1970**). Next: rq_1962 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / otherHVZ-IGS).
+- Unit: **rq_1961** leftover dual after **rq_1960 EVERY-10 + Aquiris**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **IGRETEC** YE2025 (KBO **0201.741.786**; Boulevard Pierre Mayence 1 Charleroi; Walloon multi-sector intercommunale etudes/assain/eco/airport; **SPGE/IDEA/BSCA dual**). Do not redo Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92/SOWAER.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR105,706,740** JUMP +48.37%; bruto **EUR51,746,245**; pnl **EUR7,409,365** DROP -27.07%; equity **EUR267,378,265**; FTE **387.6**; neerlegging **18.07.2026**. Assets/debt Unknown (Upswitch 404). Official RF site still 2024-only. Medium confidence.
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 igretec); foi + draft gap_igretec_nbb_pdf_assets_debt_sector_matrix_l5; rq_1961=done + rq_1962 open; loop_state ticks=1961.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1970**). Next: rq_1962 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
 """
 with log_path.open("a", encoding="utf-8") as f:
     f.write(log_block)
 
-print("tick1961 write OK")
+print("tick1961 write OK: IGRETEC omzet", 105706740, "pnl", 7409365)

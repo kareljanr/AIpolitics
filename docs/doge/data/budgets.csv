@@ -51842,3 +51842,8 @@ bud_ipfbw_equity_jr2025,igs_ipfbw,2025,228950352,,,CW NBB-derived equity,src_ipf
 bud_ipfbw_bruto_jr2025,igs_ipfbw,2025,-187231,,,CW NBB-derived brutomarge NEG,src_ipfbw_jr2025_cw,medium,tick1961; YE2025 bruto NEG -187231 IMPROVED vs -207313; financing shell
 bud_ipfbw_omzet_jr2025,igs_ipfbw,2025,10500,,,CW NBB-derived omzet,src_ipfbw_jr2025_cw,medium,tick1961; YE2025 omzet 10500 nominal; financing IGS not trading utility
 bud_ipfbw_fte_jr2025,igs_ipfbw,2025,1,,,CW NBB-derived FTE,src_ipfbw_jr2025_cw,medium,tick1961; YE2025 FTE 1; dagelijks bestuur Sarah Gillard KBO
+bud_igretec_omzet_jr2025_statutory,igretec,2025,105706740,,,CW NBB-derived omzet statutory,src_igretec_jr2025_cw,medium,tick1961; YE2025 omzet 105706740 JUMP +48.37pct vs 71245723
+bud_igretec_pnl_jr2025_statutory,igretec,2025,7409365,,,CW NBB-derived Winst/Verlies,src_igretec_jr2025_cw,medium,tick1961; YE2025 pnl DROP 7409365 -27.07pct vs 10160099
+bud_igretec_bruto_jr2025_statutory,igretec,2025,51746245,,,CW NBB-derived bruto/gross margin,src_igretec_jr2025_cw,medium,tick1961; YE2025 bruto 51746245 +3.54pct vs 49977882
+bud_igretec_equity_jr2025_statutory,igretec,2025,267378265,,,CW NBB-derived equity,src_igretec_jr2025_cw,medium,tick1961; YE2025 equity 267378265 -0.43pct vs 268524099
+bud_igretec_fte_jr2025_statutory,igretec,2025,387.6,,,CW social-balance FTE,src_igretec_jr2025_cw,medium,tick1961; YE2025 FTE 387.6 vs 380.3 YE2024

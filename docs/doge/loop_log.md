@@ -22664,3 +22664,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1 igs_ipfbw); foi + draft gap_ipfbw_nbb_pdf_debt_commune_share_ebw_l5; rq_1961=done + rq_1962 open; loop_state ticks=1961.
 - FOI opened: NBB PDF + debt + commune share + EBW/inBW dual (**ready**, human-send only).
 - NOT every-10 (**1960 EVERY-10 already done with Aquiris**; next every-10 is **1970**). Next: rq_1962 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / otherHVZ-IGS).
+
+## Tick 1961 - 2026-08-23T17:15:00Z - rq_1961 IGRETEC (omzet JUMP 105.71m / pnl DROP 7.41m / Medium)
+
+- Unit: **rq_1961** leftover dual after **rq_1960 EVERY-10 + Aquiris**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **IGRETEC** YE2025 (KBO **0201.741.786**; Boulevard Pierre Mayence 1 Charleroi; Walloon multi-sector intercommunale etudes/assain/eco/airport; **SPGE/IDEA/BSCA dual**). Do not redo Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92/SOWAER.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR105,706,740** JUMP +48.37%; bruto **EUR51,746,245**; pnl **EUR7,409,365** DROP -27.07%; equity **EUR267,378,265**; FTE **387.6**; neerlegging **18.07.2026**. Assets/debt Unknown (Upswitch 404). Official RF site still 2024-only. Medium confidence.
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 igretec); foi + draft gap_igretec_nbb_pdf_assets_debt_sector_matrix_l5; rq_1961=done + rq_1962 open; loop_state ticks=1961.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1970**). Next: rq_1962 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
