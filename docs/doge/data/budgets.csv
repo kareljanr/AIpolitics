@@ -52150,3 +52150,8 @@ bud_pcgs_pnl_jr2025_statutory,vzw_pc_gent_sleidinge,2025,576653,,,CW YE2025 Prof
 bud_pcgs_equity_jr2025_statutory,vzw_pc_gent_sleidinge,2025,50560231,,,CW YE2025 Eigen vermogen,src_pcgs_jr2025_cw,medium,tick2018; equity JUMP 50560231 +6.57pct vs prior 47444697
 bud_pcgs_bruto_jr2025_statutory,vzw_pc_gent_sleidinge,2025,44635490,,,CW YE2025 Brutomarge,src_pcgs_jr2025_cw,medium,tick2018; bruto JUMP 44635490 +5.49pct vs prior 42312608
 bud_pcgs_fte_jr2025_statutory,vzw_pc_gent_sleidinge,2025,513.5,,,CW social-balance FTE,src_pcgs_jr2025_cw,medium,tick2018; FTE 513.5
+bud_wzc_sint_barbara_herselt_omzet_jr2025_statutory,vzw_wzc_sint_barbara_herselt,2025,15237909,,,CW YE2025 omzet / Turnover,src_wzc_sint_barbara_herselt_jr2025_cw,medium,tick2019; omzet JUMP 15237909 +1.76pct vs YE2024 14974221
+bud_wzc_sint_barbara_herselt_pnl_jr2025_statutory,vzw_wzc_sint_barbara_herselt,2025,1757913,,,CW YE2025 Profit/Loss,src_wzc_sint_barbara_herselt_jr2025_cw,medium,tick2019; pnl DROP 1757913 -8.58pct vs YE2024 1922924
+bud_wzc_sint_barbara_herselt_equity_jr2025_statutory,vzw_wzc_sint_barbara_herselt,2025,25533129,,,CW YE2025 Eigen vermogen,src_wzc_sint_barbara_herselt_jr2025_cw,medium,tick2019; equity JUMP 25533129 +5.62pct vs YE2024 24174064
+bud_wzc_sint_barbara_herselt_bruto_jr2025_statutory,vzw_wzc_sint_barbara_herselt,2025,15645709,,,CW YE2025 Brutomarge,src_wzc_sint_barbara_herselt_jr2025_cw,medium,tick2019; bruto JUMP 15645709 +2.65pct vs YE2024 15241341
+bud_wzc_sint_barbara_herselt_fte_jr2025_statutory,vzw_wzc_sint_barbara_herselt,2025,191.4,,,CW social-balance FTE,src_wzc_sint_barbara_herselt_jr2025_cw,medium,tick2019; YE2025 FTE 191.4

@@ -23171,3 +23171,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_pc_gent_sleidinge); foi + draft gap_pcgs_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2018=done + rq_2019 open; loop_state ticks=2018; raw under docs/doge/data/raw/tick2018/.
 - FOI: **ready not sent** (human-gated; info@pcgs.be).
 - NOT every-10 (**next every-10 is 2020**). Next: rq_2019 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-hospital-psych).
+
+
+## Tick 2019 - 2026-08-24T09:35:00Z - rq_2019 WZC Sint-Barbara Herselt (omzet JUMP 15.24m / pnl DROP 1.76m / Medium)
+
+- Unit: **rq_2019** leftover dual after **rq_2018 PC Gent-Sleidinge**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Jessa/ZOL/SFZ/Noorderhart CW **N/A omzet**. Took unused leftover **WZC Sint-Barbara Herselt** YE2025 (KBO **0422.152.314**; Dieperstraat 17 Herselt; Antwerpen **WZC/HVZ VZW**). Do not redo PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/Werken Glorieux/AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR15,237,909** JUMP +1.76%; pnl **EUR1,757,913** DROP −8.58%; equity **EUR25,533,129** JUMP +5.62%; bruto **EUR15,645,709** JUMP +2.65%; FTE **191.4**; neerlegging **19.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@sintbarbara.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_sint_barbara_herselt); foi + draft gap_wzc_sint_barbara_herselt_nbb_pdf_assets_debt_matrix_l5; rq_2019=done + rq_2020 open (EVERY-10); loop_state ticks=2019; raw under docs/doge/data/raw/tick2019/.
+- FOI: **ready not sent** (human-gated; info@sintbarbara.be).
+- NOT every-10 (**next every-10 is 2020**). Next: rq_2020 EVERY-10 (progress refresh + AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC).
