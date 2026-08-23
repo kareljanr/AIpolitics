@@ -21325,3 +21325,11 @@ Append-only. Each tick adds a short entry.
 - Honest skips: AGB Bornem still JR2024; NSZ/Dijk92/APEFE CDN 403; FARO YE2025 unpublished; Storm Wachtebeke deferred to rq_1806.
 - Wrote: entities/commitments/leaderboard/sources; FOI gap_tns_nbb_ye2025_deposit_l5_st_loan_wind_prefin **ready** (human-send only); rq_1805 blocked_foi; spawned rq_1806.
 - NOT every-10 (next **1810**). Next: rq_1806 residual dual (Storm Wachtebeke / AGB/NSZ/Bosgroep/FARO/IGS).
+
+## Tick 1806 — 2026-08-25T04:55:00Z — rq_1806 Scwitch VZW (SCW samenaankoop dual)
+
+- Unit: **rq_1806** leftover dual residual after Terranova; preferred Storm Wachtebeke = Zefier **sector D liquidated 30.06.2023** (skip); AGB Bornem still JR2024; FARO/Bosgroep already mined; Dijk92 CDN still **403**.
+- Took deferred live CDN: **Scwitch VZW** KBO 0649.409.357 (NBB MIC-VZW deposit **2026-00232537** CDN 200; AV 09.06.2026).
+- Primary (strong): assets **333406**; bruto **178565** DROP; pers **146554** / **1.7 VTE**; PnL **17660**; cash DROP **144006**; other recv JUMP **109077**; MIC empty 70/73/60-61.
+- Wrote: entities/commitments/leaderboard/sources; FOI gap_scwi_bruto_0_18m_pers_0_15m_mic_empty_l5 **ready** (human-send only); rq_1806 done; spawned rq_1807.
+- NOT every-10 (next **1810**). Next: rq_1807 residual dual (AGB/Dijk92/FARO-NBB/APEFE/IGS).
