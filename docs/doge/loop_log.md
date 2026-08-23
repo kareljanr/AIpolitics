@@ -21316,3 +21316,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_storm_zandvliet; budgets (+3 Zefier-primary); commitments; leaderboard; foi_queue ready; research_queue rq_1804=done + rq_1805 spawned; loop_state ticks=1804; FOI draft gap_stormz_nbb_ye2025_deposit_l5_bruto_pnl_debt.md
 - FOI opened: gap_stormz_nbb_ye2025_deposit_l5_bruto_pnl_debt (**ready**, not sent)
 - Next: rq_1805 - leftover AGB/NSZ-if-200/Bosgroep/FARO/TNS-if-200/IGS; every-10 at **1810**
+
+## Tick 1805 — 2026-08-25T04:35:00Z — rq_1805 Terranova Solar NV (Zefier dual TNS) stall FOI
+
+- Unit: **rq_1805** leftover dual residual after StormZ; selected **Terranova Solar NV** (Zefier sector G; deferred from 1804).
+- Primary (strong, Zefier official): aandelen **277780** + achtergestelde leningen **2222222+69788=2292010** → exposure **2569790**; sector ontvangen div+winstbewijzen **99697.58** (Evergem/Zelzate-heavy); intresten **133573.97**; sector resultaat **172694.03**. Overlay: 2025 payout **59375+40322.58** converted to ST loan **1.12.2025–30.6.2026** wind-turbine prefin.
+- Stall: NBB YE2025 **not yet filed** (last YE2024 neerlegging 2025-06-25); SBM HTML IP blacklist. No invented projectco euros.
+- Honest skips: AGB Bornem still JR2024; NSZ/Dijk92/APEFE CDN 403; FARO YE2025 unpublished; Storm Wachtebeke deferred to rq_1806.
+- Wrote: entities/commitments/leaderboard/sources; FOI gap_tns_nbb_ye2025_deposit_l5_st_loan_wind_prefin **ready** (human-send only); rq_1805 blocked_foi; spawned rq_1806.
+- NOT every-10 (next **1810**). Next: rq_1806 residual dual (Storm Wachtebeke / AGB/NSZ/Bosgroep/FARO/IGS).
