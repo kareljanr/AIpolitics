@@ -51574,3 +51574,9 @@ bud_aspiravi_holding_assets_jr2025,nv_aspiravi_holding,2025,381872997,,,Upswitch
 bud_aspiravi_holding_equity_jr2025,nv_aspiravi_holding,2025,355162556,,,CW/Upswitch NBB-derived 10/15,src_aspiravi_holding_jr2025_cw,medium,tick1921; YE2025 equity 355162556 JUMP +9.77pct
 bud_aspiravi_holding_ebitda_jr2025,nv_aspiravi_holding,2025,810695,,,Upswitch NBB/CBSO EBITDA,src_aspiravi_holding_jr2025_upswitch,medium,tick1921; YE2025 EBITDA 810695 FLIP vs NEG -1.40m 2024
 bud_aspiravi_holding_fte_jr2025,nv_aspiravi_holding,2025,18,,,CW NBB-derived FTE 17.6,src_aspiravi_holding_jr2025_cw,medium,tick1921; YE2025 FTE 17.6 (stored 18)
+bud_veh_omzet_jr2025,bv_veh,2025,6503,,,CW/Upswitch NBB-derived code 70,src_veh_jr2025_cw,medium,tick1922; YE2025 (YE 30.09) omzet 6503 DROP -44pct
+bud_veh_bruto_jr2025,bv_veh,2025,-306142,,,CW NBB-derived 9900,src_veh_jr2025_cw,medium,tick1922; YE2025 bruto NEG -306142
+bud_veh_pnl_jr2025,bv_veh,2025,29656997,,,CW NBB-derived 9904,src_veh_jr2025_cw,medium,tick1922; YE2025 pnl 29656997 JUMP +60.77pct
+bud_veh_assets_jr2025,bv_veh,2025,646701523,,,Upswitch NBB/CBSO 20/58,src_veh_jr2025_upswitch,medium,tick1922; YE2025 assets 646701523 JUMP vs 638.7m
+bud_veh_equity_jr2025,bv_veh,2025,601181217,,,CW/Upswitch NBB-derived 10/15,src_veh_jr2025_cw,medium,tick1922; YE2025 equity 601181217 flat +0.28pct
+bud_veh_expl_jr2025,bv_veh,2025,-307278,,,Upswitch NBB/CBSO expl,src_veh_jr2025_upswitch,medium,tick1922; YE2025 expl NEG -307278

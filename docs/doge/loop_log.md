@@ -22298,3 +22298,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_aspiravi_holding_nbb_pdf_share_fva_debt_l5; rq_1921=done + rq_1922 open; loop_state ticks=1921.
 - FOI opened: NBB PDF + municipal share % / FVA path for pnl vs thin EBITDA / debt (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1930**). Next: rq_1922 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Socofe-WE-VEH-if-live).
+
+## Tick 1922 - 2026-08-27T08:15:00Z - rq_1922 VEH (equity 601.2m / assets 646.7m / pnl JUMP 29.7m / Medium)
+
+- Unit: **rq_1922** leftover dual after Aspiravi Holding. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO YE2024-filing; Socofe/WE still **YE2024-only**. Took named deferred **Vlaamse Energieholding BV** (KBO **0448.632.324**; Noordlaan 9 Torhout; Flemish municipal **aanbestedende overheid** energy holding; SeaCoop/Aspiravi call path; YE ends **30.09.2025**).
+- Primary hunt: NBB CDN deposit unresolved this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0448632324/vlaamse-energieholding) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/vlaamse-energieholding-0448632324) + KBO (neerlegging **22.01.2026**): omzet **EUR6,503** (DROP -44%); bruto **NEG EUR-306,142**; PnL **EUR29,656,997** (**JUMP +60.77%**); assets **EUR646,701,523**; equity **EUR601,181,217**; expl **NEG EUR-307,278**; FTE **0**.
+- Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_veh_nbb_pdf_share_fva_debt_call_l5; rq_1922=done + rq_1923 open; loop_state ticks=1922.
+- FOI opened: NBB PDF + municipal share % / FVA path / debt / SeaCoop-Aspiravi call (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1930**). Next: rq_1923 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Socofe-WE-HVZ).
