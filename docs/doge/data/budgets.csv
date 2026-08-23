@@ -52170,3 +52170,8 @@ bud_ppc_pittem_pnl_jr2025_statutory,vzw_ppc_pittem,2025,2266781,,,CW YE2025 Prof
 bud_ppc_pittem_equity_jr2025_statutory,vzw_ppc_pittem,2025,82904947,,,CW YE2025 Eigen vermogen,src_ppc_pittem_jr2025_cw,medium,tick2022; equity JUMP 82904947 +2.43pct vs YE2024 80937909
 bud_ppc_pittem_bruto_jr2025_statutory,vzw_ppc_pittem,2025,23335720,,,CW YE2025 Brutomarge,src_ppc_pittem_jr2025_cw,medium,tick2022; bruto JUMP 23335720 +2.43pct vs YE2024 22782870
 bud_ppc_pittem_fte_jr2025_statutory,vzw_ppc_pittem,2025,291.6,,,CW social-balance FTE,src_ppc_pittem_jr2025_cw,medium,tick2022; YE2025 FTE 291.6
+bud_maria_rustoord_ingelmunster_omzet_jr2025_statutory,vzw_maria_rustoord_ingelmunster,2025,11639118,,,CW YE2025 omzet / Turnover,src_maria_rustoord_ingelmunster_jr2025_cw,medium,tick2023; omzet JUMP 11639118 +1.74pct vs YE2024 11439681
+bud_maria_rustoord_ingelmunster_pnl_jr2025_statutory,vzw_maria_rustoord_ingelmunster,2025,28482,,,CW YE2025 Profit/Loss,src_maria_rustoord_ingelmunster_jr2025_cw,medium,tick2023; pnl DROP 28482 -59.58pct vs YE2024 70471
+bud_maria_rustoord_ingelmunster_equity_jr2025_statutory,vzw_maria_rustoord_ingelmunster,2025,6729521,,,CW YE2025 Eigen vermogen,src_maria_rustoord_ingelmunster_jr2025_cw,medium,tick2023; equity DROP 6729521 -4.05pct vs YE2024 7013419
+bud_maria_rustoord_ingelmunster_bruto_jr2025_statutory,vzw_maria_rustoord_ingelmunster,2025,12878713,,,CW YE2025 Brutomarge,src_maria_rustoord_ingelmunster_jr2025_cw,medium,tick2023; bruto JUMP 12878713 +1.71pct vs YE2024 12662457
+bud_maria_rustoord_ingelmunster_fte_jr2025_statutory,vzw_maria_rustoord_ingelmunster,2025,160.1,,,CW social-balance FTE,src_maria_rustoord_ingelmunster_jr2025_cw,medium,tick2023; YE2025 FTE 160.1

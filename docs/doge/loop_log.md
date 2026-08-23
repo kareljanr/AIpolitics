@@ -23215,3 +23215,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_ppc_pittem); foi + draft gap_ppc_pittem_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2022=done + rq_2023 open; loop_state ticks=2022; raw under docs/doge/data/raw/tick2022/.
 - FOI: **ready not sent** (human-gated; info@ppcpittem.be).
 - NOT every-10 (**next every-10 is 2030**). Next: rq_2023 (AGB/FARO-if-YE2025 / AIESH-REW / Maria Rustoord / Multiversum-Evara / unused DSO-IGS-HVZ).
+
+
+## Tick 2023 - 2026-08-24T10:25:00Z - rq_2023 Maria Rustoord Ingelmunster (omzet JUMP 11.64m / pnl DROP 28k / Medium)
+
+- Unit: **rq_2023** leftover dual after **rq_2022 PPC Pittem**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **Maria Rustoord Ingelmunster** YE2025 (KBO **0458.458.325**; Weststraat 53 Ingelmunster; West-Vlaanderen **WZC VZW**). Do not redo PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara Herselt/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR11,639,118** JUMP +1.74%; pnl **EUR28,482** DROP −59.58%; equity **EUR6,729,521** DROP −4.05%; bruto **EUR12,878,713** JUMP +1.71%; FTE **160.1**; neerlegging **01.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@wzcingelmunster.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_maria_rustoord_ingelmunster); foi + draft gap_maria_rustoord_ingelmunster_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2023=done + rq_2024 open; loop_state ticks=2023; raw under docs/doge/data/raw/tick2023/.
+- FOI: **ready not sent** (human-gated; info@wzcingelmunster.be).
+- NOT every-10 (**next every-10 is 2030**). Next: rq_2024 (AGB/FARO-if-YE2025 / AIESH-REW / Multiversum-Sint-Carolus-Zilverbos / unused DSO-IGS-HVZ).

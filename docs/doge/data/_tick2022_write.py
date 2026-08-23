@@ -1,11 +1,12 @@
-# ephemeral tick2022 — PPC Pittem YE2025 Medium (leftover psych dual after WZC Sint-Vincentius Avelgem)
+# ephemeral tick2022 — PPC Pittem YE2025 Medium (finish in_progress after WZC Sint-Vincentius Avelgem)
 import csv
+import shutil
 import sys
 from pathlib import Path
 
 csv.field_size_limit(sys.maxsize)
 
-UTC = "2026-08-24T10:15:00Z"
+UTC = "2026-08-24T10:20:00Z"
 ENTITY = "vzw_ppc_pittem"
 GAP = "gap_ppc_pittem_nbb_pdf_assets_debt_pnl_jump_matrix_l5"
 SRC = "src_ppc_pittem_jr2025_cw"
@@ -24,15 +25,9 @@ PNL24 = "1053904"
 EQUITY24 = "80937909"
 BRUTO24 = "22782870"
 
-CW_NL = "https://www.companyweb.be/nl/0409956147/psychotherapeutisch-en-psychiatrisch-centrum-pittem"
-CW_EN = "https://www.companyweb.be/en/0409956147/psychotherapeutisch-en-psychiatrisch-centrum-pittem"
-CW_FR = "https://www.companyweb.be/fr/0409956147/psychotherapeutisch-en-psychiatrisch-centrum-pittem"
-KBO_URL = "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0409956147"
-SITE = "https://www.ppcpittem.be/"
-
 
 def load(path):
-    with Path(path).open(encoding="utf-8-sig", newline="") as f:
+    with Path(path).open(encoding="utf-8", newline="") as f:
         rows = list(csv.DictReader(f))
         return rows, list(rows[0].keys()) if rows else []
 
@@ -43,6 +38,20 @@ def save(path, rows, fields):
         w.writeheader()
         w.writerows(rows)
 
+
+# ensure raw copies
+raw = Path("docs/doge/data/raw/tick2022")
+raw.mkdir(parents=True, exist_ok=True)
+for name in [
+    "ppc_pittem.html",
+    "ppc_pittem_en.html",
+    "ppc_pittem_fr.html",
+    "ppc_pittem_kbo.html",
+    "ppc_pittem_site.html",
+]:
+    src = Path("docs/doge/data/raw/tick2021") / name
+    if src.exists() and not (raw / name).exists():
+        shutil.copy(src, raw / name)
 
 qrows, qfields = load("docs/doge/data/research_queue.csv")
 r = next(x for x in qrows if x.get("task_id") == "rq_2022")
@@ -56,7 +65,7 @@ for ns in [
         **{k: "" for k in sfields},
         "source_id": SRC,
         "title": "Companyweb NL PPC Pittem YE2025 statutory",
-        "url": CW_NL,
+        "url": "https://www.companyweb.be/nl/0409956147/psychotherapeutisch-en-psychiatrisch-centrum-pittem",
         "publisher": "Companyweb (NBB-derived)",
         "accessed_date": "2026-08-24",
         "source_class": "secondary_aggregator",
@@ -66,7 +75,7 @@ for ns in [
         **{k: "" for k in sfields},
         "source_id": SRC_EN,
         "title": "Companyweb EN PPC Pittem YE2025 statutory",
-        "url": CW_EN,
+        "url": "https://www.companyweb.be/en/0409956147/psychotherapeutisch-en-psychiatrisch-centrum-pittem",
         "publisher": "Companyweb (NBB-derived)",
         "accessed_date": "2026-08-24",
         "source_class": "secondary_aggregator",
@@ -76,7 +85,7 @@ for ns in [
         **{k: "" for k in sfields},
         "source_id": SRC_FR,
         "title": "Companyweb FR PPC Pittem YE2025 statutory",
-        "url": CW_FR,
+        "url": "https://www.companyweb.be/fr/0409956147/psychotherapeutisch-en-psychiatrisch-centrum-pittem",
         "publisher": "Companyweb (NBB-derived)",
         "accessed_date": "2026-08-24",
         "source_class": "secondary_aggregator",
@@ -85,22 +94,22 @@ for ns in [
     {
         **{k: "" for k in sfields},
         "source_id": SRC_KBO,
-        "title": "KBO PPC Pittem / Kliniek Sint-Jozef 0409.956.147 Actief VZW",
-        "url": KBO_URL,
+        "title": "KBO PPC Pittem 0409.956.147 Actief VZW",
+        "url": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0409956147",
         "publisher": "KBO FOD Economie",
         "accessed_date": "2026-08-24",
         "source_class": "official_register",
-        "notes": "tick2022; Actief VZW since 26.10.1964; Boterstraat 6 8740 Pittem; 1 VE; no KBO email; commercial name Kliniek Sint-Jozef VZW",
+        "notes": "tick2022; Actief VZW; Psychotherapeutisch en Psychiatrisch Centrum Pittem / Kliniek Sint-Jozef; 1 VE; Pittem 8740",
     },
     {
         **{k: "" for k in sfields},
         "source_id": SRC_SITE,
         "title": "ppcpittem.be PPC Pittem contact",
-        "url": SITE,
+        "url": "https://www.ppcpittem.be/",
         "publisher": "PPC Pittem",
         "accessed_date": "2026-08-24",
         "source_class": "official_org",
-        "notes": "tick2022; info@ppcpittem.be; Boterstraat 6 8740 Pittem; Tel 051 46 70 41",
+        "notes": "tick2022; info@ppcpittem.be",
     },
 ]:
     if ns["source_id"] not in {x["source_id"] for x in srows}:
@@ -180,10 +189,10 @@ crows, cfields = load("docs/doge/data/commitments.csv")
 nc = {
     **{k: "" for k in cfields},
     "commitment_id": "comm_ppc_pittem_jr2025_statutory_psych",
-    "title": "PPC Pittem YE2025 leftover psych dual (omzet JUMP 42.45m / pnl JUMP 2.27m / equity JUMP 82.90m)",
+    "title": "PPC Pittem YE2025 leftover dual (omzet JUMP 42.45m / pnl JUMP 2.27m / equity JUMP 82.90m)",
     "entity_id": ENTITY,
-    "beneficiary": "Pittem / Midwest West-Vlaanderen psych care patients",
-    "legal_basis": "VZW/ASBL psych hospital (KBO 0409.956.147; commercial Kliniek Sint-Jozef)",
+    "beneficiary": "Pittem psych care patients / Kliniek Sint-Jozef perimeter",
+    "legal_basis": "VZW/ASBL psych hospital (KBO 0409.956.147)",
     "decision_date": "2026-07-10",
     "start_year": "2025",
     "end_year": "2025",
@@ -191,23 +200,24 @@ nc = {
     "cash_by_year": f'{{"2025_omzet":{OMZET},"2025_pnl":{PNL},"2025_equity":{EQUITY},"2025_bruto":{BRUTO},"2025_fte":{FTE}}}',
     "remaining_eur": "0",
     "status": "active",
-    "evaluation_url": CW_NL,
-    "stated_goal": "Psychiatric hospital / psychotherapy care Pittem",
-    "cut_option": "Publish NBB PDF assets/debt FOI; explain pnl JUMP +115pct",
+    "evaluation_url": "https://www.companyweb.be/nl/0409956147/psychotherapeutisch-en-psychiatrisch-centrum-pittem",
+    "stated_goal": "Psychotherapeutic and psychiatric care (Pittem)",
+    "cut_option": "Publish NBB PDF assets/debt FOI",
     "source_id": SRC,
     "confidence": "medium",
     "hierarchy_path": "WestVlaanderen>PPC_Pittem>JR2025_statutory_L5",
-    "notes": "tick2022; Medium CW; assets/debt Unknown; preferred AGB Bornem JR2024; FARO NBB YE2025 unpublished; AIESH/REW YE2024; Maria Rustoord YE2025 deferred; Vincentius Avelgem already mined",
+    "notes": "tick2022; Medium CW; assets/debt Unknown; preferred AGB Bornem JR2024; FARO/AIESH/REW YE2024; Maria Ingelmunster YE2025 deferred; WZC Sint-Vincentius Avelgem already mined",
 }
 if not any(x.get("commitment_id") == nc["commitment_id"] for x in crows):
     crows.append(nc)
 save("docs/doge/data/commitments.csv", crows, cfields)
 print("commitments", len(crows))
 
+# priority_index = 0.55*5.5 + 0.35*5.0 + 0.10*(10-4) = 5.375
 lrows, lfields = load("docs/doge/data/leaderboard.csv")
-nlb = {
+nl = {
     **{k: "" for k in lfields},
-    "item_id": "lb_ppc_pittem_omzet_jump_42_45m_pnl_jump_2_27m_equity_jump_jr2025",
+    "item_id": "lb_ppc_pittem_omzet_jump_42_45m_pnl_jump_2_27m_jr2025",
     "name": "PPC Pittem omzet JUMP 42.45m / pnl JUMP 2.27m / equity JUMP 82.90m (YE2025)",
     "level": "L5",
     "type": "flemish_psych_hospital_vzw_dual",
@@ -217,20 +227,20 @@ nlb = {
     "tco_notes": f"statutory omzet JUMP {OMZET} pnl JUMP {PNL} equity JUMP {EQUITY} bruto JUMP {BRUTO} FTE {FTE}; assets/debt Unknown",
     "confidence": "medium",
     "source_id": SRC,
-    "beneficiaries": "Midwest West-Vlaanderen psych patients via PPC Pittem VZW",
-    "stated_goal": "Psychiatric hospital / psychotherapy care",
-    "measured_outcome": "Medium CW YE2025; 42.45m omzet JUMP +9.00pct; pnl JUMP +115.08pct; NBB PDF residual",
-    "absurdity_score": "5.5",
-    "cost_score": "6.0",
+    "beneficiaries": "Pittem psych patients via PPC Pittem / Kliniek Sint-Jozef VZW",
+    "stated_goal": "Psychotherapeutic and psychiatric care",
+    "measured_outcome": "Medium CW YE2025; 42.45m omzet JUMP +9.00pct with pnl JUMP +115.08pct; NBB PDF residual",
+    "absurdity_score": "5.0",
+    "cost_score": "5.5",
     "difficulty": "4.0",
-    "priority_index": "5.525",
-    "cut_proposal": "Publish NBB PDF assets/debt FOI; scrutinise pnl JUMP vs public subsidy path",
+    "priority_index": "5.375",
+    "cut_proposal": "Publish NBB PDF assets/debt FOI; map public RIZIV/subsidy vs patient fees",
     "status": "active",
     "struck_reason": "",
-    "notes": "tick2022 leftover psych dual; Medium CW; TE-adjacent care flow not pure-waste top10; next every-10 2030",
+    "notes": "tick2022 leftover dual; Medium CW; TE-adjacent care flow not pure-waste top10; next every-10 2030",
 }
-if not any(x.get("item_id") == nlb["item_id"] for x in lrows):
-    lrows.append(nlb)
+if not any(x.get("item_id") == nl["item_id"] for x in lrows):
+    lrows.append(nl)
 save("docs/doge/data/leaderboard.csv", lrows, lfields)
 print("leaderboard", len(lrows))
 
@@ -238,21 +248,18 @@ erows, efields = load("docs/doge/data/entities.csv")
 ne = {
     **{k: "" for k in efields},
     "entity_id": ENTITY,
-    "name_nl": "Psychotherapeutisch en Psychiatrisch centrum Pittem (PPC Pittem / Kliniek Sint-Jozef)",
-    "name_fr": "Centre psychothérapeutique et psychiatrique Pittem",
-    "name_en": "PPC Pittem (psych hospital Pittem)",
+    "name_nl": "Psychotherapeutisch en Psychiatrisch Centrum Pittem (PPC Pittem)",
+    "name_fr": "Centre psychothérapeutique et psychiatrique Pittem (PPC Pittem)",
+    "name_en": "PPC Pittem (psychiatric hospital)",
     "level": "asbl",
     "parent_id": "prov_west_vlaanderen",
     "community_language": "nl",
-    "website": SITE,
+    "website": "https://www.ppcpittem.be/",
     "foi_email": "info@ppcpittem.be",
-    "foi_postal": "Boterstraat 6, 8740 Pittem",
-    "notes": (
-        "tick2022 YE2025 Medium CW NL+EN+FR + Strong KBO 0409.956.147 Actief VZW; omzet JUMP 42.45m pnl JUMP 2.27m equity JUMP 82.90m bruto JUMP 23.34m FTE 291.6; "
-        "assets/debt Unknown; neerlegging 10.07.2026; 1 VE; FOI "
-        + GAP
-        + "; preferred AGB Bornem JR2024; FARO/AIESH/REW YE2024; do not redo Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/HH Leuven/Sint-Trudo/Sint-Andries/HH Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/Glorieux/Alma/Herentals/Vitaz/Emmaüs/AZORG/Z.org/AZ Delta/AZJP/ZAS"
-    ),
+    "foi_postal": "PPC Pittem, 8740 Pittem (Kliniek Sint-Jozef)",
+    "notes": "tick2022 YE2025 Medium CW NL+EN+FR + Strong KBO 0409.956.147 Actief VZW; omzet JUMP 42.45m pnl JUMP 2.27m equity JUMP 82.90m bruto JUMP 23.34m FTE 291.6; assets/debt Unknown; neerlegging 10.07.2026; 1 VE; FOI "
+    + GAP
+    + "; preferred AGB Bornem JR2024; FARO/AIESH/REW YE2024; Maria Ingelmunster YE2025 deferred; do not redo WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara Herselt/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende",
 }
 if not any(x.get("entity_id") == ENTITY for x in erows):
     erows.append(ne)
@@ -269,17 +276,17 @@ nf = {
     "gap_id": GAP,
     "hierarchy_path": "WestVlaanderen>PPC_Pittem>NBB_PDF_assets_debt_pnl_jump",
     "entity_id": ENTITY,
-    "what_is_missing": "NBB PDF jaarrekening 2025 full (assets/debt LT-ST/cash); pnl JUMP +115pct explanation; public subsidy split",
-    "why_it_matters": "Medium CW shows 42.45m omzet Pittem psych VZW with pnl JUMP +115pct and no balance sheet",
-    "priority": "7",
-    "recipient_body": "Psychotherapeutisch en Psychiatrisch centrum Pittem vzw (PPC Pittem)",
+    "what_is_missing": "NBB PDF jaarrekening 2025 full (assets/debt LT-ST/cash); public RIZIV/subsidy vs patient-fee split; pnl JUMP recon",
+    "why_it_matters": "Medium CW shows 42.45m omzet Pittem psych VZW without balance sheet or subsidy transparency",
+    "priority": "6",
+    "recipient_body": "PPC Pittem / Psychotherapeutisch en Psychiatrisch Centrum Pittem vzw",
     "recipient_email": "info@ppcpittem.be",
-    "recipient_postal": "Boterstraat 6, 8740 Pittem",
+    "recipient_postal": "PPC Pittem, 8740 Pittem",
     "draft_letter_path": f"docs/doge/foi/drafts/{GAP}.md",
     "status": "ready",
     "date_ready": "2026-08-24",
     "linked_commitment_id": "comm_ppc_pittem_jr2025_statutory_psych",
-    "linked_leaderboard_id": "lb_ppc_pittem_omzet_jump_42_45m_pnl_jump_2_27m_equity_jump_jr2025",
+    "linked_leaderboard_id": "lb_ppc_pittem_omzet_jump_42_45m_pnl_jump_2_27m_jr2025",
     "created_utc": UTC,
     "updated_utc": UTC,
     "notes": "tick2022; human-send only; Medium CW; next every-10 2030",
@@ -294,28 +301,28 @@ Path(f"docs/doge/foi/drafts/{GAP}.md").write_text(
 
 **gap_id:** `{GAP}`  
 **status:** ready (NOT sent)  
-**entity:** Psychotherapeutisch en Psychiatrisch centrum Pittem vzw (PPC Pittem / Kliniek Sint-Jozef) — KBO **0409.956.147**  
-**recipient:** info@ppcpittem.be · Boterstraat 6, 8740 Pittem  
-**sources:** [CW NL]({CW_NL}) · [CW EN]({CW_EN}) · [CW FR]({CW_FR}) · [KBO]({KBO_URL}) · [site]({SITE})  
+**entity:** Psychotherapeutisch en Psychiatrisch Centrum Pittem vzw — KBO **0409.956.147**  
+**recipient:** info@ppcpittem.be · 8740 Pittem  
+**sources:** [CW NL](https://www.companyweb.be/nl/0409956147/psychotherapeutisch-en-psychiatrisch-centrum-pittem) · [CW EN](https://www.companyweb.be/en/0409956147/psychotherapeutisch-en-psychiatrisch-centrum-pittem) · [CW FR](https://www.companyweb.be/fr/0409956147/psychotherapeutisch-en-psychiatrisch-centrum-pittem) · [KBO](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0409956147) · [site](https://www.ppcpittem.be/)  
 **tick:** 2022  
 **confidence:** Medium (CW NL+EN+FR; assets/debt Unknown)
 
 ## Context
 - YE **2025** (neerlegging **10.07.2026**): omzet **EUR42,447,455** JUMP +9.00%; pnl **EUR2,266,781** JUMP +115.08%; equity **EUR82,904,947** JUMP +2.43%; bruto **EUR23,335,720** JUMP +2.43%; FTE **291.6**; assets/debt **Unknown**.
-- Preferred stall: AGB Bornem JR2024; FARO NBB YE2025 unpublished; AIESH/REW YE2024. Vincentius Avelgem / PC Sint-Hiëronymus / WZC Sint-Barbara / PC Gent-Sleidinge already mined. Maria Rustoord YE2025 deferred.
+- Preferred stall: AGB Bornem JR2024; FARO/AIESH/REW YE2024. Maria Rustoord Ingelmunster YE2025 deferred. WZC Sint-Vincentius Avelgem already mined.
 
 ## Brief
 ```text
 [Naam] [Adres] [E-mail] [Datum]
-Aan: Psychotherapeutisch en Psychiatrisch centrum Pittem vzw (PPC Pittem) — Boterstraat 6, 8740 Pittem
+Aan: PPC Pittem vzw — Psychotherapeutisch en Psychiatrisch Centrum Pittem, 8740 Pittem
 info@ppcpittem.be
 cc: Agentschap Zorg en Gezondheid / Provincie West-Vlaanderen indien relevant
 Betreft: Openbaarmaking NBB-jaarrekening 2025 PPC Pittem + balans (KBO 0409.956.147)
 Geachte, op grond van toepasselijke openbaarheidsregels vraag ik:
 1. NBB PDF jaarrekening 2025 (neerlegging 10.07.2026).
 2. Assets / schulden LT-ST / cash.
-3. Toelichting PnL-JUMP van EUR1.053.904 (YE2024) naar EUR2.266.781 (YE2025; +115%).
-4. Split publieke subsidies vs andere inkomsten 2025.
+3. Split publieke RIZIV/subsidies vs patiëntbijdragen 2025.
+4. Toelichting pnl JUMP (+115,08pct).
 Periode 01.01.2025–31.12.2025. Ref: {GAP}
 Met vriendelijke groeten, [Naam]
 ```
@@ -333,7 +340,7 @@ for x in qrows:
         x["title"] = "leftover dual hole-fill after WZC Sint-Vincentius Avelgem — PPC Pittem YE2025 Medium"
         x["notes"] = (
             "tick2022 PPC Pittem Medium omzet JUMP 42.45m pnl JUMP 2.27m equity JUMP 82.90m; FOI ready; "
-            "AGB Bornem JR2024; FARO/AIESH/REW YE2024; Maria Rustoord YE2025 deferred; next rq_2023; next every-10 2030"
+            "AGB Bornem JR2024; FARO/AIESH/REW YE2024; Maria Ingelmunster YE2025 deferred; next rq_2023; next every-10 2030"
         )
         x["instructions"] = (
             "Completed leftover PPC Pittem YE2025 Medium CW; KBO 0409.956.147; "
@@ -352,18 +359,18 @@ if not any(x.get("task_id") == "rq_2023" for x in qrows):
             "hierarchy_target": "L5",
             "entity_id": "",
             "instructions": (
-                "Tick 2022 after PPC Pittem YE2025 Medium. Prefer leftover AGB/APB if JR2025 PDF live, else FARO if TRUE NBB YE2025, else AIESH/REW if YE2025, "
-                "else unused water/DSO/IGS/HVZ/energy/hospital/WZC/psych (Maria's Rustoord YE2025 / Multiversum-Evara if not double-count / Sint-Carolus / Zilverbos / other unused YE2025 if live with omzet). "
-                "Do NOT redo PPC Pittem, WZC Sint-Vincentius Avelgem, PC Sint-Hiëronymus, WZC Sint-Barbara Herselt, PC Gent-Sleidinge, AZ Rivierenland, AZ Zeno, Heilig Hart Tienen, Heilig Hart Leuven, Sint-Trudo, Sint-Andries Tielt, Heilig Hart Lier, Vlaamse Zorgkas, OLVT/AZ Sint-Blasius, AZ Oostende, Damiaan shell, Werken Glorieux, AZ Alma, AZ St.-Elisabeth Herentals, Vitaz, Emmaüs, AZORG, Z.org KU Leuven, AZ Delta, AZJP, ZAS, CHR Verviers, CNDG, Haute Senne, CHBA, Saint-Luc, GHdC, Humani, CHIREC, CHU Tivoli, CHR Citadelle, ISoSL, Epicura, CHwapi, CHU UCL Namur, IDETA, SPI, Vivalia, "
-                "IDELUX Finances, IFIGA, SOFILUX, IDEFIN, FINIMO, FINEST, HYGEA, BEP Environnement, LOGIPOLE, BEP NAMUR, IBH, BEP Crematorium, BEP Expansion, IEG, CENEO, CISCH, HELORA, iMio, Passelecq, IPFBW, IGRETEC, Aquiris, SPGE, "
+                "Tick 2022 after PPC Pittem YE2025 Medium. Prefer leftover AGB/APB if JR2025 PDF live, else FARO if TRUE NBB YE2025, "
+                "else AIESH/REW if YE2025, else unused water/DSO/IGS/HVZ/energy/hospital/WZC/psych (Maria Rustoord Ingelmunster YE2025 live deferred / Multiversum-Evara if not double-count / Sint-Carolus / Zilverbos / other unused YE2025 if live with omzet). "
+                "Do NOT redo PPC Pittem, WZC Sint-Vincentius Avelgem, PC Sint-Hiëronymus, WZC Sint-Barbara Herselt, PC Gent-Sleidinge, AZ Rivierenland, AZ Zeno, Heilig Hart Tienen, Heilig Hart Leuven, Sint-Trudo, Sint-Andries Tielt, Heilig Hart Lier, Vlaamse Zorgkas, OLVT/AZ Sint-Blasius, AZ Oostende, Damiaan shell, Werken Glorieux, AZ Alma, AZ St.-Elisabeth Herentals, Vitaz, Emmaüs, AZORG, Z.org KU Leuven, AZ Delta, AZJP, ZAS, CHR Verviers, CNDG, Haute Senne, CHBA, Saint-Luc, GHdC, Humani, CHIREC, CHU Tivoli, CHR Citadelle, ISoSL, Epicura, CHwapi, CHU UCL Namur, IDETA, SPI, Vivalia, IDELUX Finances, IFIGA, SOFILUX, IDEFIN, FINIMO, FINEST, HYGEA, "
+                "BEP Environnement, LOGIPOLE, BEP NAMUR, IBH, BEP Crematorium, BEP Expansion, IEG, CENEO, CISCH, HELORA, iMio, Passelecq, IPFBW, IGRETEC, Aquiris, SPGE, "
                 "IRE*, FANC, SCK CEN, EURIDICE, Hydria, Vivaqua, Belgoprocess, Laborelec, CILE, NIRAS, Bel V, Dijk92, Synergrid, AIEG, Synatom, Atrias, RESA, Enodia, "
                 "Fluxys*, ETB, Elia, BNO, SWDE, BRUGEL, ORES Assets, SOCOFE, IPALLE, INTRADEL, Tibi, IDELUX Environnement, IDELUX Eau, IDEA, Molenheide WZC. "
-                "Jessa/ZOL/Vesalius/SFZ/Noorderhart/Zottegem/Turnhout/Waregem/Yperman/Maria Middelares/Imelda/Monica/Sint-Jan Brugge/Klina/Diest/Oudenaarde/Sint-Lucas CW N/A omzet — take only if figures appear. OLV Aalst deferred AZORG double-count."
+                "Jessa/ZOL/Vesalius/SFZ/Noorderhart/Zottegem/Turnhout/Waregem/Yperman/Maria Middelares/Imelda/Monica/Sint-Jan Brugge/Klina/Diest/Oudenaarde/Sint-Lucas/UZ Gent CW N/A omzet — take only if figures appear. OLV Aalst deferred AZORG double-count."
             ),
             "blocked_gap_id": "",
             "created_utc": UTC,
             "updated_utc": UTC,
-            "notes": "spawned after tick2022 PPC Pittem; next every-10 2030; Maria Rustoord YE2025 deferred",
+            "notes": "spawned after tick2022 PPC Pittem; next every-10 2030; Maria Ingelmunster YE2025 deferred",
         }
     )
 save("docs/doge/data/research_queue.csv", qrows, qfields)
@@ -380,7 +387,7 @@ lsrows[-1].update(
         "paused": "no",
         "notes": (
             "tick2022 leftover PPC Pittem 0409.956.147 Medium CW (omzet JUMP 42.45m pnl JUMP 2.27m equity JUMP 82.90m bruto JUMP 23.34m FTE 291.6; "
-            "assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; Maria Rustoord YE2025 deferred; next rq_2023; next every-10 2030; continuous hole_fill"
+            "assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; Maria Ingelmunster YE2025 deferred; next rq_2023; next every-10 2030; continuous hole_fill"
         ),
     }
 )
@@ -392,11 +399,11 @@ log_block = f"""
 
 ## Tick 2022 - {UTC} - rq_2022 PPC Pittem (omzet JUMP 42.45m / pnl JUMP 2.27m / Medium)
 
-- Unit: **rq_2022** leftover dual after **rq_2021 WZC Sint-Vincentius Avelgem**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still YE2024. Took preferred unused leftover **PPC Pittem** YE2025 (KBO **0409.956.147**; Boterstraat 6 Pittem; West-Vlaanderen **psych hospital VZW** / commercial Kliniek Sint-Jozef). Maria Rustoord YE2025 live deferred. Do not redo Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/Werken Glorieux/AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS.
+- Unit: **rq_2022** leftover dual after **rq_2021 WZC Sint-Vincentius Avelgem** (finish in_progress claim). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took claimed leftover **PPC Pittem** YE2025 (KBO **0409.956.147**; Kliniek Sint-Jozef; West-Vlaanderen **psych hospital VZW**). Maria Rustoord Ingelmunster YE2025 also live — deferred. Do not redo WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara Herselt/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende.
 - Found: Companyweb NL+EN+FR YE2025 - omzet **EUR42,447,455** JUMP +9.00%; pnl **EUR2,266,781** JUMP +115.08%; equity **EUR82,904,947** JUMP +2.43%; bruto **EUR23,335,720** JUMP +2.43%; FTE **291.6**; neerlegging **10.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@ppcpittem.be.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_ppc_pittem); foi + draft {GAP}; rq_2022=done + rq_2023 open; loop_state ticks=2022; raw under docs/doge/data/raw/tick2022/.
 - FOI: **ready not sent** (human-gated; info@ppcpittem.be).
-- NOT every-10 (**next every-10 is 2030**). Next: rq_2023 (AGB/FARO-if-YE2025 / AIESH-REW / Maria Rustoord / Multiversum-Evara / unused DSO-IGS-HVZ).
+- NOT every-10 (**next every-10 is 2030**). Next: rq_2023 (AGB/FARO-if-YE2025 / AIESH-REW / Maria Ingelmunster-Multiversum / unused DSO-IGS-HVZ).
 """
 log_path.write_text(log_path.read_text(encoding="utf-8") + log_block, encoding="utf-8")
 print("log ok")
