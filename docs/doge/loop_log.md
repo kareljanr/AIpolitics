@@ -23017,3 +23017,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_zorg_kul); foi + draft gap_zorg_kul_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2001=done + rq_2002 open; loop_state ticks=2001; raw under docs/doge/data/raw/tick2001/.
 - FOI: **ready not sent** (human-gated; route via uzleuven.be).
 - NOT every-10 (**next every-10 is 2010**). Next: rq_2002 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-hospital).
+
+
+## Tick 2002 - 2026-08-24T04:20:00Z - rq_2002 AZORG (omzet 824.93m / pnl LOSS 5.09m / Medium)
+
+- Unit: **rq_2002** leftover dual after **rq_2001 Z.org KU Leuven**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**. AZ Klina filed but CW N/A omzet. Took unused leftover **AZORG** YE2025 (KBO **1005.154.085**; Moorselbaan 164 Aalst; Oost-Vlaanderen **fusion hospital VZW** ex ASZ+OLV). **OLV Aalst** YE2025 also live deferred (double-count risk). Do not redo Z.org KU Leuven/AZ Delta/AZJP/ZAS/CHR Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC.
+- Found: Companyweb NL+EN+FR YE2025 fusion-first - omzet **EUR824,928,494**; pnl **LOSS EUR-5,085,994**; equity **EUR273,342,580**; bruto **EUR360,386,008**; FTE **3786.7**; neerlegging **07.07.2026**. No YE2024 CW peer. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 6 VE; email info@azorg.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_azorg); foi + draft gap_azorg_nbb_pdf_assets_debt_pnl_loss_matrix_l5; rq_2002=done + rq_2003 open; loop_state ticks=2002; raw under docs/doge/data/raw/tick2002/.
+- FOI: **ready not sent** (human-gated; info@azorg.be).
+- NOT every-10 (**next every-10 is 2010**). Next: rq_2003 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-hospital; OLV Aalst deferred).

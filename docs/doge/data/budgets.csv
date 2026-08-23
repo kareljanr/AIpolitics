@@ -52065,3 +52065,8 @@ bud_zorg_kul_pnl_jr2025_statutory,vzw_zorg_kul,2025,9476550,,,CW YE2025 Profit/L
 bud_zorg_kul_equity_jr2025_statutory,vzw_zorg_kul,2025,109376202,,,CW YE2025 Eigen vermogen,src_zorg_kul_jr2025_cw,medium,tick2001; equity JUMP 109376202 +8.38pct vs YE2024 100920757
 bud_zorg_kul_bruto_jr2025_statutory,vzw_zorg_kul,2025,91376305,,,CW YE2025 Brutomarge,src_zorg_kul_jr2025_cw,medium,tick2001; bruto JUMP 91376305 +5.49pct vs YE2024 86616854
 bud_zorg_kul_fte_jr2025_statutory,vzw_zorg_kul,2025,940.6,,,CW social-balance FTE,src_zorg_kul_jr2025_cw,medium,tick2001; YE2025 FTE 940.6 vs YE2024 927.3
+bud_azorg_omzet_jr2025_statutory,vzw_azorg,2025,824928494,,,CW YE2025 omzet / Turnover (fusion-first year),src_azorg_jr2025_cw,medium,tick2002; YE2025 fusion-first omzet 824928494; no YE2024 CW peer year
+bud_azorg_pnl_jr2025_statutory,vzw_azorg,2025,-5085994,,,CW YE2025 Profit/Loss,src_azorg_jr2025_cw,medium,tick2002; pnl LOSS -5085994 fusion-first YE2025
+bud_azorg_equity_jr2025_statutory,vzw_azorg,2025,273342580,,,CW YE2025 Eigen vermogen,src_azorg_jr2025_cw,medium,tick2002; equity 273342580 fusion-first YE2025
+bud_azorg_bruto_jr2025_statutory,vzw_azorg,2025,360386008,,,CW YE2025 Brutomarge,src_azorg_jr2025_cw,medium,tick2002; bruto 360386008 fusion-first YE2025
+bud_azorg_fte_jr2025_statutory,vzw_azorg,2025,3786.7,,,CW social-balance FTE,src_azorg_jr2025_cw,medium,tick2002; YE2025 FTE 3786.7
