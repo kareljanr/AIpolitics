@@ -21828,3 +21828,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_bcra_nbb_pdf_omzet_empty_bruto_0_44m_l5; rq_1866=done + rq_1867 open; loop_state ticks=1866.
 - FOI opened: NBB PDF deposit + omzet-empty / shareholder % / full BS (**ready**, human-send only).
 - NOT every-10 (next **1870**). Next: rq_1867 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Bosgroep IJzer-if-CDN / De Punt-if-PDF / other HVZ-IGS).
+
+
+## Tick 1867 - 2026-08-26T05:05:00Z - rq_1867 Bedrijvencentrum De Punt NV (bruto 1.38m / assets 6.62m / Medium)
+
+- Unit: **rq_1867** leftover dual after BC Regio Aalst. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2025 unpublished; Bosgroep IJzer no YE2025 deposit. Took deferred leftover **Bedrijvencentrum De Punt NV** (KBO **0434.319.379**; Gentbrugge; board **Fluvius + POM + FININDUS**).
+- Primary hunt: NBB CDN deposit unresolved (SBM blacklist / consult SPA). **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0434319379/bedrijvencentrum-de-punt) + [Pappers](https://www.pappers.be/nl/company/bedrijvencentrum-de-punt-0434319379) + SBM snippet (neerlegging **~21-22.05.2026**; YE **31.12.2025**): assets **EUR6,617,885**; bruto **EUR1,376,752**; EBITDA **EUR422,676**; op **EUR413,827**; PnL **EUR246,498**; cash **EUR438,768**; fin debt **EUR2,455,803**; net fin debt **EUR2,017,035**; ST pay **EUR669,431**; equity **EUR3,202,000**; VTE **6.6**; omzet **70 empty**.
+- Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+2); entities (+1); foi + draft gap_bcpunt_nbb_pdf_omzet_empty_bruto_1_38m_l5; rq_1867=done + rq_1868 open; loop_state ticks=1867.
+- FOI opened: NBB PDF deposit + omzet-empty / shareholder % / pers (**ready**, human-send only).
+- NOT every-10 (next **1870**). Next: rq_1868 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Bosgroep IJzer-if-CDN / other BC/HVZ-IGS).
