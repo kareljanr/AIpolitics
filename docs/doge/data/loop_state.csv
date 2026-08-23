@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T03:05:00Z,rq_1862,1862,no,tick1862 leftover Digipolis JR2025 GR PDF (assets 73.605m surplus 0.110m equity NEG 4.115m continuity); J2 FOI residual; AGB Bornem JR2024; Dijk92 403; FARO YE2024; next rq_1863; next every-10 1870; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T03:25:00Z,rq_1863,1863,no,tick1863 leftover Bosgroep Houtland VZW 0866.482.291 FOI (NBB YE2025 unpublished; euros Unknown); AGB Bornem JR2024; Dijk92 403; FARO YE2024; next rq_1864; next every-10 1870; continuous hole_fill

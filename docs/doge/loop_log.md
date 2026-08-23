@@ -21794,3 +21794,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+1); budgets (+3); commitments (+2); leaderboard (+2); entities update; foi old opaque→partial + new gap_digipolis_equity_neg_4_11m_continuity_j2_l5; rq_1862=done + rq_1863 open; loop_state ticks=1862.
 - FOI: residual J2 AFM/BBR/pers/debt + EV recovery path (**ready**, human-send only).
 - Next: **rq_1863** leftover AGB/Dijk92/FARO/Bosgroep-if-CDN/HVZ-IGS. **Next every-10 is 1870.**
+
+## Tick 1863 - 2026-08-26T03:25:00Z - rq_1863 Bosgroep Houtland VZW FOI (NBB YE2025 unpublished; euros Unknown)
+
+- Unit: **rq_1863** leftover dual after Digipolis PDF. Prefer NON-Eneco live. Hunt: AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO/Northdata no YE2025; Bosgroep IJzer/Houtland no YE2025 deposit; HVZ Fluvia/Waasland/Westhoek sites no public JR2025 PDF; Zaventem/Beleko/Diepenbeek/Genk already mined. Took preferred leftover **Bosgroep Houtland VZW** (KBO **0866.482.291**).
+- Primary: official site + KBO — **no statutory euros** (Unknown). NBB YE2025 not published this tick.
+- Wrote: sources (+3); entities (+1); commitments pending_foi; leaderboard FOI marker; foi_queue + draft gap_bosgroep_houtland_nbb_ye2025_unpublished_l5; rq_1863=blocked_foi + rq_1864 open; loop_state ticks=1863.
+- FOI opened: **gap_bosgroep_houtland_nbb_ye2025_unpublished_l5** (ready, human-send only).
+- Next: **rq_1864** leftover AGB/Dijk92/FARO/Bosgroep IJzer-if-CDN/HVZ-IGS. **Next every-10 is 1870.**
