@@ -22490,3 +22490,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+5); commitments (+1); leaderboard (+1); entities (updated synatom); foi + draft gap_synatom_nbb_pdf_assets_provisions_cap_l5; rq_1942=done + rq_1943 open; loop_state ticks=1942.
 - FOI opened: NBB PDF + assets/debt + CAP/provisions recon (**ready**, human-send only; postal/contact-form — KBO email empty).
 - NOT every-10 (**next every-10 is 1950**). Next: rq_1943 (AGB/Dijk92-if-200 / FARO-if-YE2025 / otherHVZ-IGS).
+
+
+## Tick 1943 - 2026-08-27T18:45:00Z - rq_1943 Synergrid (bruto JUMP 5.07m / assets 11.01m / Medium)
+
+- Unit: **rq_1943** leftover dual after Synatom (1942 concurrent). Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO still **YE2024**. Took leftover **Synergrid VZW** (KBO **0402.958.091**; Palmerstonlaan 4 Brussel; Federatie elektriciteits- en gasnetbeheerders; members ORES/Fluvius/Sibelga/RESA/Elia/Fluxys Belgium/AIEG/AIESH/Wavre; NON-Eneco). Do not redo Synatom/Atrias/RESA/Sibelga/ORES/Fluxys*/ETB/Elia/Enodia/BNO/Pipelink.
+- Primary hunt: NBB deposit PDF unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0402958091/federatie-van-de-elektriciteits-en-gasnetbeheerders-in-belgie) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/synergrid-0402958091) + KBO (neerlegging **15.07.2026**; YE **31.12.2025**): bruto **EUR5,072,761** (**JUMP +171%**); PnL **EUR69,804** (**JUMP +152%**); equity **EUR8,967,945**; assets **EUR11,009,079**; EBITDA **EUR209,232**; FTE **24**; omzet **empty**.
+- Wrote: sources (+4); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_synergrid_nbb_pdf_lidgeld_homologation_fees_l5; rq_1943=done + rq_1944 open; loop_state ticks=1943.
+- FOI opened: NBB PDF + lidgeld/homologation fee matrix (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1950**). Next: rq_1944 (AGB/Dijk92-if-200 / FARO-if-YE2025 / otherHVZ-IGS).

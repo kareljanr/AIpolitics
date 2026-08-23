@@ -51707,3 +51707,9 @@ bud_synatom_pnl_jr2025,synatom,2025,20547928,,,CW NBB-derived 9904,src_synatom_j
 bud_synatom_equity_jr2025,synatom,2025,15591563,,,CW NBB-derived 10/15,src_synatom_jr2025_cw,medium,tick1942; YE2025 equity 15591563 +7.07pct vs 14562015
 bud_synatom_bruto_jr2025,synatom,2025,-283664871,,,CW NBB-derived 9900,src_synatom_jr2025_cw,medium,tick1942; YE2025 bruto NEG -283664871 DROP -91.59pct vs -148057503
 bud_synatom_fte_jr2025,synatom,2025,22,,,CW NBB-derived FTE 22.1,src_synatom_jr2025_cw,medium,tick1942; YE2025 FTE 22.1 (stored 22)
+bud_synergrid_pnl_jr2025,vzw_synergrid,2025,69804,,,CW NBB-derived 9904,src_synergrid_jr2025_cw,medium,tick1943; YE2025 pnl 69804 JUMP +152pct vs -134065
+bud_synergrid_equity_jr2025,vzw_synergrid,2025,8967945,,,CW/Upswitch NBB-derived equity,src_synergrid_jr2025_cw,medium,tick1943; YE2025 equity 8967945 flat -0.26pct
+bud_synergrid_assets_jr2025,vzw_synergrid,2025,11009079,,,Upswitch NBB/CBSO assets,src_synergrid_jr2025_upswitch,medium,tick1943; YE2025 assets 11009079
+bud_synergrid_bruto_jr2025,vzw_synergrid,2025,5072761,,,CW NBB-derived bruto,src_synergrid_jr2025_cw,medium,tick1943; YE2025 bruto 5072761 JUMP +171pct vs 1871319
+bud_synergrid_ebitda_jr2025,vzw_synergrid,2025,209232,,,Upswitch NBB/CBSO EBITDA,src_synergrid_jr2025_upswitch,medium,tick1943; YE2025 EBITDA 209232
+bud_synergrid_fte_jr2025,vzw_synergrid,2025,24,,,CW NBB-derived FTE,src_synergrid_jr2025_cw,medium,tick1943; YE2025 FTE 24 (was 22.2)
