@@ -23699,3 +23699,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.8); entities (+1 vzw_wzc_maria_rustoord_moorslede); foi + draft gap_maria_moorslede_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2072=done + rq_2073 open; loop_state ticks=2072; raw under docs/doge/data/raw/tick2072/.
 - FOI: **ready not sent** (human-gated; info@mariasrustoord.be).
 - NOT every-10 (**next every-10 is 2080**). Next: rq_2073 (AGB/FARO-if-YE2025 / AIESH-REW / Mater-Amabilis-HH-Grimbergen deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2073 - 2026-08-24T23:20:00Z - rq_2073 Mater Amabilis (omzet JUMP 7.97m / pnl DROP 0.21m / Medium)
+
+- Unit: **rq_2073** leftover dual after **rq_2072 Maria Moorslede**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took preferred leftover **Mater Amabilis Wervik** YE2025 (KBO **0417.430.293**; Sint Jorisstraat 3 Wervik; West-Vlaanderen **aanbestedende-overheid VZW** WZC / **1 VE**). Heilig Hart Grimbergen YE2025 also live - deferred. Do not redo Maria Moorslede/MSW NZVL/Welvaart/Vulpia/Compostela/Leiehome/Deinze/OLV Bornem/Huize SJ Ieper/Sint-Antonius/Wezembeek/Ter Burg/Christine/Vrijzicht/Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/Armonea/Always Home/Maria Ingelmunster.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR7965730** JUMP +3.85%; pnl **EUR211456** DROP -60.48% vs YE2024 EUR535103; equity **EUR9654142** JUMP +1.12%; bruto **EUR8333283** JUMP +2.66%; FTE **100.1**; neerlegging **25.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende overheid 1 VE; email info@mater-amabilis.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.1); entities (+1 vzw_mater_amabilis_wervik); foi + draft gap_mater_amabilis_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2073=done + rq_2074 open; loop_state ticks=2073; raw under docs/doge/data/raw/tick2073/.
+- FOI: **ready not sent** (human-gated; info@mater-amabilis.be).
+- NOT every-10 (**next every-10 is 2080**). Next: rq_2074 (AGB/FARO-if-YE2025 / AIESH-REW / HH-Grimbergen deferred / unused DSO-IGS-HVZ-WZC-psych).

@@ -52422,3 +52422,8 @@ bud_maria_moorslede_pnl_jr2025_statutory,vzw_wzc_maria_rustoord_moorslede,2025,5
 bud_maria_moorslede_equity_jr2025_statutory,vzw_wzc_maria_rustoord_moorslede,2025,5409227,,,CW YE2025 Eigen vermogen / Equity,src_maria_moorslede_jr2025_cw_en,medium,tick2072; equity JUMP 5409227 +8.37pct vs YE2024 4991342
 bud_maria_moorslede_bruto_jr2025_statutory,vzw_wzc_maria_rustoord_moorslede,2025,6333433,,,CW YE2025 Brutomarge / Gross margin,src_maria_moorslede_jr2025_cw_en,medium,tick2072; bruto JUMP 6333433 +5.22pct vs YE2024 6019016
 bud_maria_moorslede_fte_jr2025_statutory,vzw_wzc_maria_rustoord_moorslede,2025,76.8,,,CW social-balance FTE,src_maria_moorslede_jr2025_cw_en,medium,tick2072; YE2025 FTE 76.8
+bud_mater_amabilis_omzet_jr2025_statutory,vzw_mater_amabilis_wervik,2025,7965730,7965730,7965730,CW YE2025 omzet / Turnover,src_mater_amabilis_jr2025_cw_en,medium,tick2073; JUMP +3.85% vs YE2024 7670723
+bud_mater_amabilis_pnl_jr2025_statutory,vzw_mater_amabilis_wervik,2025,211456,211456,211456,CW YE2025 Profit/Loss,src_mater_amabilis_jr2025_cw_en,medium,tick2073; DROP -60.48% vs YE2024 535103
+bud_mater_amabilis_equity_jr2025_statutory,vzw_mater_amabilis_wervik,2025,9654142,9654142,9654142,CW YE2025 Eigen vermogen / Equity,src_mater_amabilis_jr2025_cw_en,medium,tick2073; JUMP +1.12% vs YE2024 9547675
+bud_mater_amabilis_bruto_jr2025_statutory,vzw_mater_amabilis_wervik,2025,8333283,8333283,8333283,CW YE2025 Brutomarge / Gross margin,src_mater_amabilis_jr2025_cw_en,medium,tick2073; JUMP +2.66% vs YE2024 8117773
+bud_mater_amabilis_fte_jr2025_statutory,vzw_mater_amabilis_wervik,2025,100.1,100.1,100.1,CW social-balance FTE,src_mater_amabilis_jr2025_cw_en,medium,tick2073; FTE 100.1
