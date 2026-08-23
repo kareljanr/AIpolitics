@@ -50952,3 +50952,13 @@ bud_stormzoersel_expl_loss_0_33m_2025,nv_storm_zoersel,2025,325503,,,NBB VKT-kap
 bud_stormzoersel_cash_1_54m_2025,nv_storm_zoersel,2025,1541833,,,NBB VKT-kap YE2025,src_stormzoersel_jr2025_nbb,strong,tick1820; liquide middelen JUMP; was 29967; not TE-additive of 348bn
 bud_stormzoersel_equity_3_44m_2025,nv_storm_zoersel,2025,3438927,,,NBB VKT-kap YE2025,src_stormzoersel_jr2025_nbb,strong,tick1820; equity 10/15; not TE-additive of 348bn
 bud_stormzoersel_secured_4_01m_2025,nv_storm_zoersel,2025,4008463,,,NBB VKT-kap YE2025,src_stormzoersel_jr2025_nbb,strong,tick1820; zakelijk gewaarborgd 9062; not TE-additive of 348bn
+bud_campina_assets_13_90m_2025,cv_campina_energie,2025,13896353,,,NBB MIC-inb YE2025,src_campina_jr2025_nbb,strong,tick1821; assets YE2025; not TE-additive of 348bn
+bud_campina_fva_5_03m_2025,cv_campina_energie,2025,5025152,,,NBB MIC-inb YE2025,src_campina_jr2025_nbb,strong,tick1821; FVA 28; Pampero dual path; not TE-additive of 348bn
+bud_campina_mva_7_23m_2025,cv_campina_energie,2025,7228316,,,NBB MIC-inb YE2025,src_campina_jr2025_nbb,strong,tick1821; MVA YE2025; not TE-additive of 348bn
+bud_campina_bruto_1_06m_2025,cv_campina_energie,2025,1059715,,,NBB MIC-inb YE2025,src_campina_jr2025_nbb,strong,tick1821; bruto 9900 JUMP; was 529175; not TE-additive of 348bn
+bud_campina_pnl_0_41m_2025,cv_campina_energie,2025,406644,,,NBB MIC-inb YE2025,src_campina_jr2025_nbb,strong,tick1821; PnL 9904 flip from loss; not TE-additive of 348bn
+bud_campina_debt_5_34m_2025,cv_campina_energie,2025,5339811,,,NBB MIC-inb YE2025,src_campina_jr2025_nbb,strong,tick1821; schulden 17/49; not TE-additive of 348bn
+bud_campina_lt_bank_4_43m_2025,cv_campina_energie,2025,4429775,,,NBB MIC-inb YE2025,src_campina_jr2025_nbb,strong,tick1821; LT kredietinstellingen 172/3; not TE-additive of 348bn
+bud_campina_pers_0_37m_2025,cv_campina_energie,2025,366600,,,NBB MIC-inb YE2025,src_campina_jr2025_nbb,strong,tick1821; bezoldigingen 62; not TE-additive of 348bn
+bud_campina_dividend_0_23m_2025,cv_campina_energie,2025,232179,,,NBB MIC-inb YE2025,src_campina_jr2025_nbb,strong,tick1821; uit te keren winst 694; not TE-additive of 348bn
+bud_campina_cash_0_66m_2025,cv_campina_energie,2025,657086,,,NBB MIC-inb YE2025,src_campina_jr2025_nbb,strong,tick1821; liquide middelen JUMP; was 312115; not TE-additive of 348bn

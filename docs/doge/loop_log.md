@@ -21449,3 +21449,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities nv_storm_zoersel; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1820=done + rq_1821 spawned; loop_state ticks=1820; FOI draft gap_stormzoersel_bruto_0_30m_loss_0_39m_debt_4_31m_l5.md
 - FOI opened: gap_stormzoersel_bruto_0_30m_loss_0_39m_debt_4_31m_l5 (**ready**, human-send only)
 - Next every-10 **1830**. Next: rq_1821 (AGB / Dijk92 / FARO / APEFE / other IGS).
+
+## Tick 1821 - 2026-08-25T10:10:00Z - rq_1821 Campina Energie CV (FVA 5.03m / PnL flip 0.41m)
+
+- Unit: **rq_1821** leftover dual residual after Zoersel every-10; preferred AGB Bornem still JR2024; Dijk92/APEFE/NSZ CDN **403**; FARO NBB still YE2024 (2025-00569658). Took leftover **Campina Energie CV** (Kempen municipal renewable co-op; Pampero **20%** dual; KBO **0606.976.015**).
+- Primary (strong, NBB MIC-inb [2026-00150576](http://cdn.staatsbladmonitor.be/2026pdf/2026-00150576.pdf) CDN 200 / 25p; AV **12.05.2026**; YE **01.01.2025–31.12.2025**): assets **EUR13,896,353**; FVA **EUR5,025,152**; MVA **EUR7,228,316**; bruto **EUR1,059,715** JUMP (was **529,175**); pers **EUR366,600**; expl **EUR6,998**; PnL **EUR406,644** (flip from **-70,558**); nrec fin opbr **EUR335,632**; debt **EUR5,339,811** (LT bank **4,429,775**); cash JUMP **EUR657,086**; equity **EUR8,556,542**; inbreng JUMP **EUR8,169,450**; dividend **EUR232,179**; kapsubs **EUR177,176**; omzet **70 empty**; VTE **unpublished**.
+- Wrote: entities cv_campina_energie; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1821=done + rq_1822 spawned; loop_state ticks=1821; FOI draft gap_campina_fva_5_03m_pnl_0_41m_omzet_empty_l5.md
+- FOI opened: gap_campina_fva_5_03m_pnl_0_41m_omzet_empty_l5 (**ready**, human-send only)
+- NOT every-10 (next **1830**). Next: rq_1822 (AGB / Dijk92 / FARO YE2025 / APEFE / other IGS).
