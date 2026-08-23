@@ -21341,3 +21341,11 @@ Append-only. Each tick adds a short entry.
 - Stall: no fetchable BBC/NBB JR2025 euros after KBO + site + companyweb/Northdata scan. **No invented euros.**
 - Wrote: entity/commitment/leaderboard/sources; FOI gap_zvbw_jr2025_rekening_gemdot_pers_l5 **ready** (human-send only); rq_1807 blocked_foi; spawned rq_1808.
 - NOT every-10 (next **1810**). Next: rq_1808 (AGB/Dijk92/FARO-NBB/APEFE/HVZ-Rand/Waasland/IGS).
+
+## Tick 1808 — 2026-08-25T05:45:00Z — rq_1808 Brandweer Zone Rand (B2025 GD 25.32m)
+
+- Unit: **rq_1808** leftover dual residual after ZVBW FOI. Preferred AGB Bornem JR2024; Dijk92/APEFE/NSZ still **403**; FARO NBB YE2025 unpublished.
+- Took **Brandweer Zone Rand** KBO **0500.914.730** (20 gemeenten / 19 posten). Official begroting+motivatienota 2025 live on bestuur portal; JR2025 rekening **not** listed (JR2024 is).
+- Primary (medium, begroting): GD **25315173**; pers **17286994**; gem werkingstoelagen **18040021**; fed **5669972**; invest toelagen **3947337**.
+- Wrote: entity/commitment/leaderboard/sources; FOI gap_bzr_jr2025_rekening_vs_beg_gemdot_l5 **ready**; rq_1808 done; spawned rq_1809 (HVZ Waasland deferred).
+- NOT every-10 (next **1810**).

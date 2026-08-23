@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-25T05:20:00Z,rq_1807,1807,no,tick1807 leftover ZVBW HVZ Vlaams-Brabant West stall FOI; KBO 0500.929.081; no public JR2025 euros; preferred AGB Bornem JR2024 / Dijk92+APEFE+NSZ 403 / FARO NBB YE2025 unpublished; NOT every-10 (next 1810); next rq_1808 residual dual; continuous hole_fill
+main,continuous,hole_fill,2026-08-25T05:45:00Z,rq_1808,1808,no,tick1808 leftover Brandweer Zone Rand B2025 GD 25315173 / pers 17286994 / gem dots 18040021; KBO 0500.914.730; FOI JR2025 rekening; AGB Bornem JR2024; Dijk92/APEFE/NSZ 403; HVZ Waasland deferred; NOT every-10 (next 1810); next rq_1809 residual dual; continuous hole_fill
