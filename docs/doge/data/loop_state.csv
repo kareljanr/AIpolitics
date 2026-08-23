@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T01:35:00Z,rq_1992,1992,no,tick1992 leftover GHdC 0894.384.837 Medium CW (omzet JUMP 550.35m pnl LOSS 20.05m equity DROP 174.58m bruto JUMP 301.38m FTE 3690; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; CHBA Seraing deferred; next rq_1993; next every-10 2000; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T01:50:00Z,rq_1993,1993,no,tick1993 leftover Saint-Luc 0416.885.016 Medium CW (omzet JUMP 857.94m pnl LOSS 36.65m equity DROP 157.50m bruto JUMP 518.87m FTE 4931.8; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; CHBA Seraing deferred; next rq_1994; next every-10 2000; continuous hole_fill

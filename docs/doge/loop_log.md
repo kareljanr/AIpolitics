@@ -22937,3 +22937,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated; route via ghdc.be).
 - NOT every-10 (**next every-10 is 2000**). Next: rq_1993 (AGB/FARO-if-YE2025 / AIESH-REW / CHBA Seraing / unused DSO-IGS-HVZ-hospital).
 
+## Tick 1993 - 2026-08-24T01:50:00Z - rq_1993 Saint-Luc (omzet JUMP 857.94m / pnl LOSS 36.65m / Medium)
+
+- Unit: **rq_1993** leftover dual after **rq_1992 GHdC**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took preferred leftover **Cliniques universitaires Saint-Luc** YE2025 (KBO **0416.885.016**; Avenue Hippocrate 10 Woluwe; Brussels/UCL **university hospital VZW**). CHBA Seraing YE2025 deferred. Do not redo GHdC/Humani/CHIREC/Tivoli/Citadelle/ISoSL/Epicura/CHwapi/CHU UCL Namur/Vivalia/HELORA/IDETA/SPI.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR857,935,946** JUMP +5.48%; pnl **LOSS EUR-36,647,075** (vs YE2024 profit 1.41m); equity **EUR157,496,575** DROP **-19.41%**; bruto **EUR518,871,830** JUMP +4.06%; FTE **4931.8** (+61.6 vs 4870.2); neerlegging **28.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 5 VE; no KBO email (route via saintluc.be).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_saint_luc); foi + draft gap_saint_luc_nbb_pdf_assets_debt_pnl_loss_equity_drop_matrix_l5; rq_1993=done + rq_1994 open; loop_state ticks=1993; raw under docs/doge/data/raw/tick1993/.
+- FOI: **ready not sent** (human-gated; route via saintluc.be).
+- NOT every-10 (**next every-10 is 2000**). Next: rq_1994 (AGB/FARO-if-YE2025 / AIESH-REW / CHBA Seraing-CNDG-Haute Senne / unused DSO-IGS-HVZ-hospital).
+

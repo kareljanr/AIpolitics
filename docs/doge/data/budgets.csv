@@ -52020,3 +52020,8 @@ bud_ghdc_pnl_jr2025_statutory,vzw_ghdc,2025,-20053408,,,CW YE2025 Profit/Loss,sr
 bud_ghdc_equity_jr2025_statutory,vzw_ghdc,2025,174579281,,,CW YE2025 Eigen vermogen,src_ghdc_jr2025_cw,medium,tick1992; equity DROP 174579281 -11.52pct vs YE2024 197302096
 bud_ghdc_bruto_jr2025_statutory,vzw_ghdc,2025,301376697,,,CW YE2025 Brutomarge,src_ghdc_jr2025_cw,medium,tick1992; bruto JUMP 301376697 +11.64pct vs YE2024 269948991
 bud_ghdc_fte_jr2025_statutory,vzw_ghdc,2025,3690,,,CW social-balance FTE,src_ghdc_jr2025_cw,medium,tick1992; YE2025 FTE 3690
+bud_saint_luc_omzet_jr2025_statutory,vzw_saint_luc,2025,857935946,,,CW YE2025 omzet / Turnover,src_saint_luc_jr2025_cw,medium,tick1993; omzet JUMP 857935946 +5.48pct vs YE2024 813400060
+bud_saint_luc_pnl_jr2025_statutory,vzw_saint_luc,2025,-36647075,,,CW YE2025 Profit/Loss,src_saint_luc_jr2025_cw,medium,tick1993; pnl LOSS -36647075 vs YE2024 profit 1413271
+bud_saint_luc_equity_jr2025_statutory,vzw_saint_luc,2025,157496575,,,CW YE2025 Eigen vermogen,src_saint_luc_jr2025_cw,medium,tick1993; equity DROP 157496575 -19.41pct vs YE2024 195429781
+bud_saint_luc_bruto_jr2025_statutory,vzw_saint_luc,2025,518871830,,,CW YE2025 Brutomarge,src_saint_luc_jr2025_cw,medium,tick1993; bruto JUMP 518871830 +4.06pct vs YE2024 498634634
+bud_saint_luc_fte_jr2025_statutory,vzw_saint_luc,2025,4931.8,,,CW social-balance FTE,src_saint_luc_jr2025_cw,medium,tick1993; YE2025 FTE 4931.8 vs YE2024 4870.2 (+61.6)
