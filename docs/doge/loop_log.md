@@ -21245,3 +21245,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_maisondieu updated; budgets (+17); commitments (new + supersede opaque); leaderboard; foi_queue (new ready + opaque superseded); research_queue rq_1794=done + rq_1795 spawned; loop_state ticks=1794; FOI draft gap_maisondieu_ca_6_78m_staff_4_43m_rivage_controllers_5_88m_l5.md
 - FOI opened: gap_maisondieu_ca_6_78m_staff_4_43m_rivage_controllers_5_88m_l5 (**ready**, not sent); superseded gap_maisondieu_jr2025_cdn_opaque_l5
 - Next: rq_1795 — leftover dual residual (AGB/NSZ-if-200/Bosgroep/FARO-if-2025/unused-Vivalto/IGS); every-10 at 1800
+
+### 2026-08-25T01:15:00Z — tick 1795
+- Unit: rq_1795 — **Zefier cv** (leftover IGS / municipal renewable-energy cooperative of mined VL cities)
+- Found: Preferred AGB Bornem still JR2024; NSZ/Dijk92/APEFE prior CDN **403**; Vivalto Home BE holding subsidiary list closed. Took leftover **Zefier cv** official JR2025 VKT-inb (jaarverslag bijlage) + Totaal-per-vennoot PDF. KBO **0680.832.904**; Grant Thornton / Elie Janssens; **160** municipal vennoten; 121 turbines **365.63 MW** + 72408 panels. Sourced: assets **EUR39,932,242**; equity **EUR20,276,744**; debt **EUR19,655,498**; FVA **EUR24,009,023** (flat); LT recv **EUR14,493,895**; cash **EUR145,654**; bruto **EUR-80,969**; staff **EUR434,044** / VTE **1.8**; expl **EUR-519,504**; fin opbr **EUR3,150,279**; PnL **EUR2,212,031**; dividend to cities **EUR1,734,822**; BE-public-guaranteed debt **EUR17,818,678**; ST other loans **EUR8,980,000**.
+- Wrote: sources (+3); entities cv_zefier; budgets (+16); commitments; leaderboard; foi_queue ready; research_queue rq_1795=done + rq_1796 spawned; loop_state ticks=1795; FOI draft gap_zefier_dividend_1_73m_guaranteed_debt_17_82m_fva_24_01m_l5.md
+- FOI opened: gap_zefier_dividend_1_73m_guaranteed_debt_17_82m_fva_24_01m_l5 (**ready**, not sent)
+- Next: rq_1796 — leftover AGB/NSZ-if-200/Bosgroep/FARO-NBB-if-2025/HVZ-if-live/IGS; every-10 at **1800**

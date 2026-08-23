@@ -50736,3 +50736,19 @@ bud_maisondieu_expl_2025,nv_maisondieu,2025,305757,,,realized,src_maisondieu_jr2
 bud_maisondieu_pnl_2025,nv_maisondieu,2025,196141,,,realized,src_maisondieu_jr2025_nbb,strong,Benefice exercice 196141 (a affecter 336433); tick1794
 bud_maisondieu_dividend_2025,nv_maisondieu,2025,225000,,,realized,src_maisondieu_jr2025_nbb,strong,Remuneration de l apport 225000; tick1794
 bud_maisondieu_admin_2025,nv_maisondieu,2025,120506,,,realized,src_maisondieu_jr2025_nbb,strong,Administrateurs 120506; tick1794
+bud_zefier_assets_2025,cv_zefier,2025,39932242,,,realized,src_zefier_jr2025_official,strong,Assets YE2025 39932242; tick1795
+bud_zefier_equity_2025,cv_zefier,2025,20276744,,,realized,src_zefier_jr2025_official,strong,Equity 20276744; tick1795
+bud_zefier_debt_2025,cv_zefier,2025,19655498,,,realized,src_zefier_jr2025_official,strong,Debt 19655498; tick1795
+bud_zefier_fva_2025,cv_zefier,2025,24009023,,,realized,src_zefier_jr2025_official,strong,FVA participaties 24009023 flat; tick1795
+bud_zefier_lt_recv_2025,cv_zefier,2025,14493895,,,realized,src_zefier_jr2025_official,strong,Overige vorderingen LT 14493895; tick1795
+bud_zefier_st_recv_2025,cv_zefier,2025,1211693,,,realized,src_zefier_jr2025_official,strong,Overige vorderingen ST 1211693 JUMP; tick1795
+bud_zefier_cash_2025,cv_zefier,2025,145654,,,realized,src_zefier_jr2025_official,strong,Liquide middelen 145654; tick1795
+bud_zefier_bruto_2025,cv_zefier,2025,-80969,,,realized,src_zefier_jr2025_official,strong,Brutomarge NEG -80969; tick1795
+bud_zefier_staff_2025,cv_zefier,2025,434044,,,realized,src_zefier_jr2025_official,strong,Personeelskosten 434044 / VTE 1.8; tick1795
+bud_zefier_expl_2025,cv_zefier,2025,-519504,,,realized,src_zefier_jr2025_official,strong,Bedrijfsverlies -519504; tick1795
+bud_zefier_fin_opbr_2025,cv_zefier,2025,3150279,,,realized,src_zefier_jr2025_official,strong,Financiele opbrengsten 3150279; tick1795
+bud_zefier_fin_kosten_2025,cv_zefier,2025,404511,,,realized,src_zefier_jr2025_official,strong,Financiele kosten 404511; tick1795
+bud_zefier_pnl_2025,cv_zefier,2025,2212031,,,realized,src_zefier_jr2025_official,strong,PnL na belasting 2212031; tick1795
+bud_zefier_dividend_2025,cv_zefier,2025,1734822,,,realized,src_zefier_jr2025_official,strong,Uit te keren winst / vergoeding inbreng 1734822 naar 160 gemeenten; tick1795
+bud_zefier_guaranteed_debt_2025,cv_zefier,2025,17818678,,,realized,src_zefier_jr2025_official,strong,Door BE overheidsinstellingen gewaarborgde schulden 17818678; tick1795
+bud_zefier_st_other_loans_2025,cv_zefier,2025,8980000,,,realized,src_zefier_jr2025_official,strong,Overige leningen ST 8980000 (thesaurie/cashpool class); tick1795
