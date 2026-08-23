@@ -50863,3 +50863,12 @@ bud_ika_cash_14_27m_2025,igs_ika,2025,14270748,,,NBB VOL-inb YE2025,src_ika_jr20
 bud_ika_beleg_20_70m_2025,igs_ika,2025,20700000,,,NBB VOL-inb YE2025,src_ika_jr2025_nbb,strong,tick1811; geldbeleggingen code 50/53 JUMP; not TE-additive of 348bn
 bud_ika_diensten_0_17m_2025,igs_ika,2025,171151,,,NBB VOL-inb YE2025,src_ika_jr2025_nbb,strong,tick1811; diensten code 61; not TE-additive of 348bn
 bud_ika_expl_loss_0_19m_2025,igs_ika,2025,188112,,,NBB VOL-inb YE2025,src_ika_jr2025_nbb,strong,tick1811; bedrijfsverlies abs code 9901; not TE-additive of 348bn
+bud_lumika_assets_15_92m_2025,nv_lumika,2025,15920288,,,NBB VKT-kap YE2025,src_lumika_jr2025_nbb,strong,tick1812; assets YE2025; not TE-additive of 348bn
+bud_lumika_mva_15_36m_2025,nv_lumika,2025,15362547,,,NBB VKT-kap YE2025,src_lumika_jr2025_nbb,strong,tick1812; MVA YE2025; not TE-additive of 348bn
+bud_lumika_omzet_1_01m_2025,nv_lumika,2025,1010102,,,NBB VKT-kap YE2025,src_lumika_jr2025_nbb,strong,tick1812; omzet code 70; not TE-additive of 348bn
+bud_lumika_bruto_0_75m_2025,nv_lumika,2025,753282,,,NBB VKT-kap YE2025,src_lumika_jr2025_nbb,strong,tick1812; brutomarge 9900; not TE-additive of 348bn
+bud_lumika_pnl_loss_0_38m_2025,nv_lumika,2025,383694,,,NBB VKT-kap YE2025,src_lumika_jr2025_nbb,strong,tick1812; PnL loss abs 9904; not TE-additive of 348bn
+bud_lumika_debt_11_76m_2025,nv_lumika,2025,11759489,,,NBB VKT-kap YE2025,src_lumika_jr2025_nbb,strong,tick1812; schulden 17/49; not TE-additive of 348bn
+bud_lumika_cash_26k_2025,nv_lumika,2025,26111,,,NBB VKT-kap YE2025,src_lumika_jr2025_nbb,strong,tick1812; cash DROP from 10575461; not TE-additive of 348bn
+bud_lumika_afschr_0_60m_2025,nv_lumika,2025,598788,,,NBB VKT-kap YE2025,src_lumika_jr2025_nbb,strong,tick1812; afschrijvingen 630; not TE-additive of 348bn
+bud_lumika_equity_4_14m_2025,nv_lumika,2025,4142659,,,NBB VKT-kap YE2025,src_lumika_jr2025_nbb,strong,tick1812; equity 10/15; not TE-additive of 348bn

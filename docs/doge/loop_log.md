@@ -21376,3 +21376,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities igs_ika; sources (+3); budgets (+11); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1811=done + rq_1812 spawned; loop_state ticks=1811; FOI draft gap_ika_fva_98_04m_dividend_8_39m_omzet_empty_l5.md
 - FOI opened: gap_ika_fva_98_04m_dividend_8_39m_omzet_empty_l5 (**ready**, human-send only)
 - NOT every-10 (next **1820**). Next: rq_1812 residual dual.
+
+## Tick 1812 - 2026-08-25T07:05:00Z - rq_1812 LumIKA NV (omzet 1.01m / loss 0.38m / cash DROP)
+
+- Unit: **rq_1812** leftover dual residual after IKA; preferred AGB Bornem still JR2024; Dijk92/NSZ/APEFE CDN **403**; FARO NBB YE2025 unpublished. Took leftover **LumIKA NV** (IKA–Luminus dual; KBO **0794.547.784**).
+- Primary (strong, NBB VKT-kap [2026-00135157](http://cdn.staatsbladmonitor.be/2026pdf/2026-00135157.pdf) CDN 200 / 22p; AV **18.05.2026**): assets **EUR15,920,288**; MVA **EUR15,362,547**; omzet **EUR1,010,102**; bruto **EUR753,282**; expl **EUR135,954**; PnL **EUR-383,694**; cash DROP **EUR26,111** (was **10,575,461**); debt **EUR11,759,489** (LT **10,681,390**); equity **EUR4,142,659**; afschr **EUR598,788**; dividend **0**; commissaris **EUR9,318**. IKA FVA book stake **EUR910,970.50**. **Storm Olen** CDN **2026-00117861** live deferred.
+- Wrote: entities nv_lumika; sources (+3); budgets (+9); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1812=done + rq_1813 spawned; loop_state ticks=1812; FOI draft gap_lumika_omzet_1_01m_loss_0_38m_cash_drop_10_55m_l5.md
+- FOI opened: gap_lumika_omzet_1_01m_loss_0_38m_cash_drop_10_55m_l5 (**ready**, human-send only)
+- NOT every-10 (next **1820**). Next: rq_1813 (Storm Olen-if-200 / AGB / Dijk92 / FARO / IGS).

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-25T06:45:00Z,rq_1811,1811,no,tick1811 leftover IKA DV NBB YE2025 FVA 98044788 / dividend 8389537 / pnl 13836266 / assets 166594138; KBO 0227.673.846; FOI omzet empty; AGB Bornem JR2024; Dijk92/NSZ/APEFE 403; FARO YE2024 only; NOT every-10 (next 1820); next rq_1812 residual dual; continuous hole_fill
+main,continuous,hole_fill,2026-08-25T07:05:00Z,rq_1812,1812,no,tick1812 leftover LumIKA NBB YE2025 omzet 1010102 / loss 383694 / cash DROP 10575461→26111; KBO 0794.547.784; IKA-Luminus dual; FOI ownership+cash; Storm Olen 2026-00117861 deferred; AGB Bornem JR2024; Dijk92/NSZ/APEFE 403; NOT every-10 (next 1820); next rq_1813; continuous hole_fill
