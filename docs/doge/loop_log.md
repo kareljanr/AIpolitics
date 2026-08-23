@@ -21675,3 +21675,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities nv_eneco_wind_belgium; sources (+3); commitments (+1 Unknown); leaderboard weak; foi_queue ready; research_queue rq_1848=blocked_foi + rq_1849 spawned; loop_state ticks=1848; FOI draft gap_eneco_wind_be_jr2025mar_nbb_deposit_unresolved_l5.md
 - FOI opened: gap_eneco_wind_be_jr2025mar_nbb_deposit_unresolved_l5 (**ready**, human-send only; priority 9)
 - NOT every-10 (next **1850**). Next: rq_1849 (Hegoa/Cordona/Tivano-if-200 / AGB / Dijk92 / FARO).
+
+## Tick 1849 - 2026-08-25T21:15:00Z - rq_1849 Hegoa Wind NV (NBB YE Mar2025 deposit unresolved FOI)
+
+- Unit: **rq_1849** leftover dual residual after Eneco parent FOI; preferred Hegoa. AGB Bornem still **JR2024**; Dijk92/Enebra CDN **403**; FARO YE2024. Took **Hegoa Wind NV** (Eneco dual; KBO **0809.473.314**).
+- Primary: KBO Actief SA / Wavre / Eneco+REALFI board (**strong** register). YE Mar2025 **neergelegd ~03.10.2025** / AR **01.10.2025** confirmed via secondary pointers only. Honest CDN hunt (Eneco cluster exhaustive 5215xx–5219xx + Oct windows + pypdf C-cap samples) did **not** resolve deposit id / live PDF. **No sourced euros**. Noted Oct2025 absorb **SKY Sweeper + Tivano**; deferred Cordona/Solano.
+- Wrote: entities nv_hegoa_wind; sources (+3); commitments (+1 Unknown); leaderboard weak; foi_queue ready; research_queue rq_1849=blocked_foi + rq_1850 spawned (EVERY-10); loop_state ticks=1849; FOI draft gap_hegoa_jr2025mar_nbb_deposit_unresolved_l5.md
+- FOI opened: gap_hegoa_jr2025mar_nbb_deposit_unresolved_l5 (**ready**, human-send only)
+- **EVERY-10 NEXT (1850 MUST)**. Next: rq_1850 (progress refresh + Cordona/Solano-if-200 / AGB / Dijk92 / FARO).
