@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T01:15:00Z,rq_1858,1858,no,tick1858 leftover Ter Nethe Hulshout KBO 0780.658.572 JR2025 unpublished FOI; AGB Bornem JR2024; Dijk92/Enebra 403; FARO YE2024; Mintus/Motena opaque; NOT every-10 (next 1860); next rq_1859 prefer non-Eneco live; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T01:45:00Z,rq_1859,1859,no,tick1859 leftover Audio WV KBO 0827.396.340 JR2025 BBC (expl -57k AFM -57k BBR 176k assets 318k cash 22 pers 564k VTE 3.60); residual member/cash FOI; AGB Bornem JR2024; Dijk92 403; FARO YE2024; EVERY-10 NEXT (1860 MUST); next rq_1860; continuous hole_fill

@@ -51251,3 +51251,14 @@ bud_beschut_st_debt_1_16m_jr2025,beschut_wonen_antwerpen,2025,1158049,,,JR2025 n
 bud_beschut_fin_debt_0_jr2025,beschut_wonen_antwerpen,2025,0,,,JR2025 T4 geen financiële schulden,src_beschut_jr2025_bbc,strong,tick1857; JR2025 T4 geen financiële schulden; J2/J5 image FOI for full expl/AFM; not TE-additive
 bud_beschut_vte_46_1_jr2025,beschut_wonen_antwerpen,2025,46,,,JR2025 documentatie VTE 46.1 (rounded heads metric),src_beschut_jr2025_bbc,strong,tick1857; JR2025 documentatie VTE 46.1 (rounded heads metric); J2/J5 image FOI for full expl/AFM; not TE-additive
 bud_beschut_expl_vs_budget_neg_47k_jr2025,beschut_wonen_antwerpen,2025,47131,,,JR2025 narrative expl realisatie vs raming negatief verschil,src_beschut_jr2025_bbc,strong,tick1857; JR2025 narrative expl realisatie vs raming negatief verschil; J2/J5 image FOI for full expl/AFM; not TE-additive
+bud_audio_expl_ont_0_76m_jr2025,wv_audio,2025,759841,,,JR2025 J2 exploitatieontvangsten,src_audio_jr2025_bbc,strong,tick1859; JR2025 J2 exploitatieontvangsten; not TE-additive
+bud_audio_expl_uit_0_82m_jr2025,wv_audio,2025,816952,,,JR2025 J2 exploitatieuitgaven,src_audio_jr2025_bbc,strong,tick1859; JR2025 J2 exploitatieuitgaven; not TE-additive
+bud_audio_expl_saldo_neg_57k_jr2025,wv_audio,2025,-57111,,,JR2025 J2 exploitatiesaldo,src_audio_jr2025_bbc,strong,tick1859; JR2025 J2 exploitatiesaldo; not TE-additive
+bud_audio_budget_neg_50k_jr2025,wv_audio,2025,-49932,,,JR2025 J2 budgettair resultaat,src_audio_jr2025_bbc,strong,tick1859; JR2025 J2 budgettair resultaat; not TE-additive
+bud_audio_bbr_0_18m_jr2025,wv_audio,2025,176127,,,JR2025 J2 beschikbaar BBR,src_audio_jr2025_bbc,strong,tick1859; JR2025 J2 beschikbaar BBR; not TE-additive
+bud_audio_afm_neg_57k_jr2025,wv_audio,2025,-57111,,,JR2025 J2 AFM / gecorr AFM,src_audio_jr2025_bbc,strong,tick1859; JR2025 J2 AFM / gecorr AFM; not TE-additive
+bud_audio_pers_0_56m_jr2025,wv_audio,2025,564405,,,JR2025 J5/T2 bezoldigingen,src_audio_jr2025_bbc,strong,tick1859; JR2025 J5/T2 bezoldigingen; not TE-additive
+bud_audio_assets_0_32m_jr2025,wv_audio,2025,318186,,,JR2025 J4 balanstotaal,src_audio_jr2025_bbc,strong,tick1859; JR2025 J4 balanstotaal; not TE-additive
+bud_audio_cash_22_jr2025,wv_audio,2025,22,,,JR2025 J4 liquide middelen CRITICAL,src_audio_jr2025_bbc,strong,tick1859; JR2025 J4 liquide middelen CRITICAL; not TE-additive
+bud_audio_equity_0_17m_jr2025,wv_audio,2025,170556,,,JR2025 J4 nettoactief,src_audio_jr2025_bbc,strong,tick1859; JR2025 J4 nettoactief; not TE-additive
+bud_audio_fin_debt_st_13k_jr2025,wv_audio,2025,13129,,,JR2025 T4/J4 ST financiële schulden,src_audio_jr2025_bbc,strong,tick1859; JR2025 T4/J4 ST financiële schulden; not TE-additive

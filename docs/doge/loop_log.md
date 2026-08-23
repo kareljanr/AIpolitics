@@ -21760,3 +21760,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities zorg_ternethe; sources (+3); commitments (+1 Unknown); leaderboard weak; foi_queue ready; research_queue rq_1858=blocked_foi + rq_1859 spawned; loop_state ticks=1858; FOI draft gap_ternethe_jr2025_bbc_nbb_unpublished_l5.md
 - FOI opened: gap_ternethe_jr2025_bbc_nbb_unpublished_l5 (**ready**, human-send only)
 - NOT every-10 (next **1860**). Next: rq_1859 (**prefer non-Eneco live** AGB/Dijk92/FARO/HVZ/IGS).
+
+
+## Tick 1859 - 2026-08-26T01:45:00Z - rq_1859 Audio WV JR2025 (AFM -57k / cash EUR22 / pers 0.56m)
+
+- Unit: **rq_1859** leftover dual residual after Ter Nethe FOI; preferred non-Eneco live. AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2024; AGB Holar Hoeilaart already mined. Took leftover **Welzijnsvereniging Audio** (multi-muni interne audit; KBO **0827.396.340**; zetel Mechelen).
+- Primary (strong, official BBC [JR2025 57p](https://www.mechelen.be/sites/default/files/audio/files/2026-06/Audio%20AV%20-%20Jaarrekening%202025.pdf) 1.52MB; ModDate **01.06.2026**): expl ont **EUR759,841** / uit **EUR816,952**; expl saldo **EUR-57,111**; budget **EUR-49,932**; BBR **EUR176,127**; AFM **EUR-57,111**; assets **EUR318,186**; cash **EUR22** (was 83,557); equity **EUR170,556**; pers **EUR564,405**; VTE **3.60**; ST fin debt **EUR13,129** NEW; PnL **EUR-56,987**; 9 members no-order + 3 cancelled.
+- Wrote: entities wv_audio; sources (+3); budgets (+11); commitments (+3); leaderboard (+3); foi_queue ready; research_queue rq_1859=done + rq_1860 spawned (EVERY-10); loop_state ticks=1859; FOI draft gap_audio_member_churn_cash_22_st_fin_13k_l5.md
+- FOI opened: gap_audio_member_churn_cash_22_st_fin_13k_l5 (**ready**, human-send only)
+- **EVERY-10 NEXT (1860 MUST)**. Next: rq_1860 (progress refresh + leftover dual).
