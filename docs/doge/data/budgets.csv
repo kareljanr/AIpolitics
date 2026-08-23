@@ -52015,3 +52015,8 @@ bud_humani_pnl_jr2025_statutory,igs_humani,2025,-6699123,,,CW YE2025 Profit/Loss
 bud_humani_equity_jr2025_statutory,igs_humani,2025,204947965,,,CW YE2025 Eigen vermogen,src_humani_jr2025_cw,medium,tick1991; equity DROP 204947965 -4.22pct vs YE2024 213972304
 bud_humani_bruto_jr2025_statutory,igs_humani,2025,410553328,,,CW YE2025 Brutomarge,src_humani_jr2025_cw,medium,tick1991; bruto JUMP 410553328 +3.32pct vs YE2024 397361115
 bud_humani_fte_jr2025_statutory,igs_humani,2025,5560,,,CW social-balance FTE,src_humani_jr2025_cw,medium,tick1991; YE2025 FTE 5560 vs YE2024 5463 (+97)
+bud_ghdc_omzet_jr2025_statutory,vzw_ghdc,2025,550345508,,,CW YE2025 omzet / Turnover,src_ghdc_jr2025_cw,medium,tick1992; omzet JUMP 550345508 +8.14pct vs YE2024 508929847
+bud_ghdc_pnl_jr2025_statutory,vzw_ghdc,2025,-20053408,,,CW YE2025 Profit/Loss,src_ghdc_jr2025_cw,medium,tick1992; pnl LOSS -20053408 vs YE2024 profit 6715325 (-398.62pct)
+bud_ghdc_equity_jr2025_statutory,vzw_ghdc,2025,174579281,,,CW YE2025 Eigen vermogen,src_ghdc_jr2025_cw,medium,tick1992; equity DROP 174579281 -11.52pct vs YE2024 197302096
+bud_ghdc_bruto_jr2025_statutory,vzw_ghdc,2025,301376697,,,CW YE2025 Brutomarge,src_ghdc_jr2025_cw,medium,tick1992; bruto JUMP 301376697 +11.64pct vs YE2024 269948991
+bud_ghdc_fte_jr2025_statutory,vzw_ghdc,2025,3690,,,CW social-balance FTE,src_ghdc_jr2025_cw,medium,tick1992; YE2025 FTE 3690

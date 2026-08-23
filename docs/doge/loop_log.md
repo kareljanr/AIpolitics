@@ -22929,3 +22929,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated; nemo@humani.be).
 - NOT every-10 (**next every-10 is 2000**). Next: rq_1992 (AGB/FARO-if-YE2025 / AIESH-REW / GHdC / unused DSO-IGS-HVZ-hospital).
 
+## Tick 1992 - 2026-08-24T01:35:00Z - rq_1992 GHdC (omzet JUMP 550.35m / pnl LOSS 20.05m / Medium)
+
+- Unit: **rq_1992** leftover dual after **rq_1991 Humani**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **GHdC** YE2025 (KBO **0894.384.837**; Rue du Campus des Viviers 1 Charleroi; Walloon **hospital ASBL** Viviers campus). CHBA Seraing YE2025 also live deferred. Do not redo Humani/CHIREC/Tivoli/Citadelle/ISoSL/Epicura/CHwapi/CHU UCL Namur/Vivalia.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR550,345,508** JUMP +8.14%; pnl **LOSS EUR-20,053,408** (vs YE2024 profit 6.72m; -398.62%); equity **EUR174,579,281** DROP -11.52%; bruto **EUR301,376,697** JUMP +11.64%; FTE **3690**; neerlegging **15.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 8 VE; no KBO email.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_ghdc); foi + draft gap_ghdc_nbb_pdf_assets_debt_pnl_loss_equity_drop_matrix_l5; rq_1992=done + rq_1993 open; loop_state ticks=1992; raw under docs/doge/data/raw/tick1992/.
+- FOI: **ready not sent** (human-gated; route via ghdc.be).
+- NOT every-10 (**next every-10 is 2000**). Next: rq_1993 (AGB/FARO-if-YE2025 / AIESH-REW / CHBA Seraing / unused DSO-IGS-HVZ-hospital).
+
