@@ -51758,3 +51758,10 @@ bud_belgoprocess_pnl_jr2025,nv_belgoprocess,2025,248998,,,CW NBB-derived winst/v
 bud_belgoprocess_equity_jr2025,nv_belgoprocess,2025,27044198,,,CW NBB-derived eigen vermogen rubriek 10/15,src_belgoprocess_jr2025_cw,medium,tick1950; JUMP +0.93pct; KBO kapitaal 5000000
 bud_belgoprocess_kapitaal_kbo,nv_belgoprocess,2025,5000000,,,KBO registered capital,src_belgoprocess_kbo,strong,tick1950; Strong KBO kapitaal vs Medium CW equity 27044198
 bud_belgoprocess_fte_jr2025,nv_belgoprocess,2025,348,,,CW NBB-derived FTE 347.9 (rounded display 348),src_belgoprocess_jr2025_cw,medium,tick1950; exact FTE 347.9; not euros — headcount proxy row
+bud_vivaqua_omzet_jr2025,vivaqua,2025,355999963,,,CW NBB-derived omzet,src_vivaqua_jr2025_cw,medium,tick1951; YE2025 omzet 355999963 JUMP +9.23pct vs 325924635
+bud_vivaqua_bruto_jr2025,vivaqua,2025,313200862,,,CW NBB-derived brutomarge,src_vivaqua_jr2025_cw,medium,tick1951; YE2025 bruto 313200862 +6.84pct vs 293161044
+bud_vivaqua_pnl_jr2025,vivaqua,2025,4638914,,,CW NBB-derived 9904,src_vivaqua_jr2025_cw,medium,tick1951; YE2025 pnl 4638914 JUMP turnaround vs -860069 YE2024
+bud_vivaqua_equity_jr2025,vivaqua,2025,569707719,,,CW/Upswitch NBB-derived equity,src_vivaqua_jr2025_cw,medium,tick1951; YE2025 equity 569707719 +1.82pct vs 559497068
+bud_vivaqua_assets_jr2025,vivaqua,2025,1759637813,,,Upswitch NBB/CBSO total assets,src_vivaqua_jr2025_upswitch,medium,tick1951; YE2025 assets 1759637813 DROP vs YE2024 1803925994
+bud_vivaqua_ebitda_jr2025,vivaqua,2025,131058980,,,Upswitch NBB/CBSO EBITDA,src_vivaqua_jr2025_upswitch,medium,tick1951; YE2025 EBITDA 131058980; operating result 31301868
+bud_vivaqua_fte_jr2025,vivaqua,2025,1260,,,CW NBB-derived FTE 1260.3,src_vivaqua_jr2025_cw,medium,tick1951; YE2025 FTE 1260.3 (stored 1260); was 1262.1 YE2024

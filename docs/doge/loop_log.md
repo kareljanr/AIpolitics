@@ -22561,3 +22561,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+6); commitments (+1); leaderboard (+1); entities (+1 nv_belgoprocess + niras note); foi + draft gap_belgoprocess_nbb_pdf_assets_debt_niras_billing_l5; rq_1950=done + rq_1951 open; loop_state ticks=1950; progress + waste top10.
 - FOI opened: NBB PDF + assets/debt + NIRAS billing (**ready**, human-send only).
 - **EVERY-10 done.** Next: rq_1951 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / Bosgroep-IOED / otherHVZ-IGS). Next every-10 **1960**.
+
+
+## Tick 1951 - 2026-08-27T22:30:00Z - rq_1951 Vivaqua (omzet JUMP 356.0m / pnl JUMP 4.64m / Medium)
+
+- Unit: **rq_1951** leftover dual after concurrent **rq_1950 EVERY-10 + Belgoprocess** (already on main). Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took leftover **Vivaqua** YE2025 refresh (KBO **0202.962.701**; Keizerinlaan 17-19 Brussel; BCR water dual; only YE2024 mined at tick172). Do not redo Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92/AIEG/Synergrid/Synatom/Atrias/RESA/Enodia/Fluxys*/ETB/Elia/BNO/SWDE.
+- Primary hunt: NBB deposit PDF unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0202962701/vivaqua) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/vivaqua-0202962701) (neerlegging **11.06.2026**; YE **31.12.2025**): omzet **EUR355,999,963** (**JUMP +9.23%**); bruto **EUR313,200,862**; PnL **EUR4,638,914** (**JUMP turnaround** vs LOSS 0.86m); equity **EUR569,707,719**; assets **EUR1,759,637,813** (**DROP** vs 1.804bn); EBITDA **EUR131,058,980**; FTE **1260.3**; debt **Unknown**.
+- Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (updated vivaqua); foi + draft gap_vivaqua_nbb_pdf_debt_bei_hydria_l5; rq_1951=done + stale open rq_1950 twin closed + rq_1952 open; loop_state ticks=1951.
+- FOI opened: NBB PDF + debt/BEI + Hydria/Brugel (**ready**, human-send only).
+- NOT every-10 (**1950 EVERY-10 already done with Belgoprocess**; next every-10 is **1960**). Next: rq_1952 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / otherHVZ-IGS).
