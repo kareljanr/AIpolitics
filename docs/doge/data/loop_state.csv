@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-27T17:45:00Z,rq_1941,1941,no,tick1941 leftover Atrias 0836.258.873 Medium CW (omzet 61.8m DROP equity 18.6k bruto DROP 21.9m FTE 40.2 pnl/assets Unknown); NBB PDF+DSO recharge FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2024; next rq_1942; next every-10 1950; continuous hole_fill
+main,continuous,hole_fill,2026-08-27T18:15:00Z,rq_1942,1942,no,tick1942 leftover Synatom 0406.820.671 Medium CW (omzet JUMP 299.8m pnl JUMP 20.5m bruto NEG 283.7m equity 15.6m FTE 22.1 assets Unknown); NBB PDF+CAP/provisions FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2024; next rq_1943; next every-10 1950; continuous hole_fill

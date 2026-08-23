@@ -22481,3 +22481,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_atrias_nbb_pdf_assets_debt_dso_recharge_l5; rq_1941=done + rq_1942 open; loop_state ticks=1941.
 - FOI opened: NBB PDF + DSO recharge matrix (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1950**; 1940 EVERY-10 already done with RESA). Next: rq_1942 (AGB/Dijk92-if-200 / FARO-if-YE2025 / otherHVZ-IGS).
+
+
+## Tick 1942 - 2026-08-27T18:15:00Z - rq_1942 Synatom (omzet JUMP 299.8m / pnl JUMP 20.5m / Medium)
+
+- Unit: **rq_1942** leftover dual after concurrent closed **rq_1941 Atrias**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO YE2024. Took leftover **Synatom NV** (KBO **0406.820.671**; Simon Bolivarlaan 36 Brussel; Belgian nuclear fuel/provisions holding dual Hedera CAP; ENGIE path; only YE2024 CAP figures mined at tick288). Do not redo RESA/Atrias/Sibelga/ORES/Fluxys*/ETB/Elia/Enodia/BNO/Pipelink/Publi-T/Publigas/Interfin.
+- Primary hunt: NBB deposit PDF unresolved; Upswitch miss this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0406820671/synatom) + KBO (neerlegging **09.07.2026**; YE **31.12.2025**): omzet **EUR299,812,250** (**JUMP +18.43%**); PnL **EUR20,547,928** (**JUMP >1000%**); equity **EUR15,591,563** (**+7.07%**); bruto **NEG EUR-283,664,871** (**DROP -91.59%**); FTE **22.1**; assets **Unknown**.
+- Wrote: sources (+3); budgets (+5); commitments (+1); leaderboard (+1); entities (updated synatom); foi + draft gap_synatom_nbb_pdf_assets_provisions_cap_l5; rq_1942=done + rq_1943 open; loop_state ticks=1942.
+- FOI opened: NBB PDF + assets/debt + CAP/provisions recon (**ready**, human-send only; postal/contact-form — KBO email empty).
+- NOT every-10 (**next every-10 is 1950**). Next: rq_1943 (AGB/Dijk92-if-200 / FARO-if-YE2025 / otherHVZ-IGS).

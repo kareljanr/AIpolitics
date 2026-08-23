@@ -51702,3 +51702,8 @@ bud_atrias_omzet_jr2025,cv_atrias,2025,61836948,,,CW NBB-derived omzet,src_atria
 bud_atrias_equity_jr2025,cv_atrias,2025,18600,,,CW NBB-derived equity,src_atrias_jr2025_cw,medium,tick1941; YE2025 equity 18600 flat (pass-through coop shell)
 bud_atrias_bruto_jr2025,cv_atrias,2025,21921140,,,CW NBB-derived bruto,src_atrias_jr2025_cw,medium,tick1941; YE2025 bruto 21921140 DROP -10.76pct
 bud_atrias_fte_jr2025,cv_atrias,2025,40,,,CW NBB-derived FTE 40.2,src_atrias_jr2025_cw,medium,tick1941; YE2025 FTE 40.2 (stored 40; was 32.2)
+bud_synatom_omzet_jr2025,synatom,2025,299812250,,,CW NBB-derived omzet,src_synatom_jr2025_cw,medium,tick1942; YE2025 omzet 299812250 JUMP +18.43pct vs 253146506
+bud_synatom_pnl_jr2025,synatom,2025,20547928,,,CW NBB-derived 9904,src_synatom_jr2025_cw,medium,tick1942; YE2025 pnl 20547928 JUMP >1000pct vs 797135
+bud_synatom_equity_jr2025,synatom,2025,15591563,,,CW NBB-derived 10/15,src_synatom_jr2025_cw,medium,tick1942; YE2025 equity 15591563 +7.07pct vs 14562015
+bud_synatom_bruto_jr2025,synatom,2025,-283664871,,,CW NBB-derived 9900,src_synatom_jr2025_cw,medium,tick1942; YE2025 bruto NEG -283664871 DROP -91.59pct vs -148057503
+bud_synatom_fte_jr2025,synatom,2025,22,,,CW NBB-derived FTE 22.1,src_synatom_jr2025_cw,medium,tick1942; YE2025 FTE 22.1 (stored 22)
