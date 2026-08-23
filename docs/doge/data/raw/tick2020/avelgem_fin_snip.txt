@@ -1,0 +1,147 @@
+Financial data <span>from Woon- en Zorgcentrum Sint-Vincentius</span></h2>
+                                </div>
+                                <div>
+                                    <div class="toggle">
+                                        <a href="" :class="{'active': currentKernCijferView == KernCijferView.TABLE}"
+                                           v-on:click.prevent="currentKernCijferView = KernCijferView.TABLE">
+                                            <i class="far fa-table-layout mr-2 mobile:mr-0"></i><span class="mobile:hidden">Table</span>
+                                        </a>
+                                        <a href="" :class="{'active': currentKernCijferView == KernCijferView.CHART}"
+                                           v-on:click.prevent="currentKernCijferView = KernCijferView.CHART">
+                                            <i class="far fa-chart-simple mr-2 mobile:mr-0"></i><span class="mobile:hidden">Graph</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <kerncijfers-chart v-if="currentKernCijferView == KernCijferView.CHART"></kerncijfers-chart>
+                            <div class="tablet:overflow-auto" v-else>
+                                <table class="relative">
+                                    <thead>
+                                    <tr>
+                                        <th class="mobile:sticky mobile:left-0 mobile:bg-grey-100"></th>
+                                        
+                                        
+                                            <th class="text-right">
+                                                    <span>2025</span>
+                                            </th>
+                                                <th class="tablet:hidden"></th>
+                                            <th class="text-right">
+                                                    <span>2024</span>
+                                            </th>
+                                                <th class="tablet:hidden"></th>
+                                            <th class="text-right">
+                                                    <span>2023</span>
+                                            </th>
+                                                <th class="tablet:hidden"></th>
+                                            <th class="text-right">
+                                                    <span>2022</span>
+                                            </th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td class="mobile:sticky mobile:left-0 mobile:bg-white mobile:border-r mobile:border-grey-200">
+                                                <tooltip placement="right" title="Section 9904" text="Profit/Loss of the financial year (after taxes on result) (&#x2B;/-)">
+                                                    Profit/Loss<i class="far fa-info-circle ml-2 text-grey-600 text-xs mobile:hidden"></i>
+                                                </tooltip>
+                                            </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span>74,613</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-orange">
+                                                                <i class="far mr-1 fa-arrow-down-right"></i>
+                                                                <span>-15,75%</span>
+                                                            </span>
+                                                    </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span>88,563</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-red">
+                                                                <i class="far mr-1 fa-arrow-down"></i>
+                                                                <span>-36,89%</span>
+                                                            </span>
+                                                    </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span>140,321</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-green">
+                                                                <i class="far mr-1 fa-arrow-up"></i>
+                                                                <span>&gt; 1000%</span>
+                                                            </span>
+                                                    </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span>-6,910</span>
+                                                </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="mobile:sticky mobile:left-0 mobile:bg-white mobile:border-r mobile:border-grey-200">
+                                                <tooltip placement="right" title="Section 70" text="Turnover of the financial year">
+                                                    Turnover<i class="far fa-info-circle ml-2 text-grey-600 text-xs mobile:hidden"></i>
+                                                </tooltip>
+                                            </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span>7,493,161</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-lime">
+                                                                <i class="far mr-1 fa-arrow-up-right"></i>
+                                                                <span>2,35%</span>
+                                                            </span>
+                                                    </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span>7,321,405</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-lime">
+                                                                <i class="far mr-1 fa-arrow-up-right"></i>
+                                                                <span>3,92%</span>
+                                                            </span>
+                                                    </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span>7,045,130</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-lime">
+                                                                <i class="far mr-1 fa-arrow-up-right"></i>
+                                                                <span>8,36%</span>
+                                                            </span>
+                                                    </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span>6,501,827</span>
+                                                </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="mobile:sticky mobile:left-0 mobile:bg-white mobile:border-r mobile:border-grey-200">
+                                                <tooltip placement="right" title="Section 10/15" text="Equity consists of capital, capital reserves and earnings that remain within the company. These are fully owned by the company and are at its disposal to cover its risks. The better the ratio between equity and debts, the more solvent a company is. A positive equity ratio is important. A negative equity ratio (because of accumulated losses) is a severe warning sign that the continuity of the company may be threatened.">
+                                                    Equity<i class="far fa-info-circle ml-2 text-grey-600 text-xs mobile:hidden"></i>
+                                                </tooltip>
+                                            </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span>7,303,884</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-orange">
+                                                                <i class="far mr-1 fa-arrow-down-right"></i>
+                                                                <span>-1,58%</span>
+                                                            </span>
+                                                    </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span>7,421,209</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-orange">
+                                                                <i class="far mr-1 fa-arrow-down-

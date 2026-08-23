@@ -23180,3 +23180,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_sint_barbara_herselt); foi + draft gap_wzc_sint_barbara_herselt_nbb_pdf_assets_debt_matrix_l5; rq_2019=done + rq_2020 open (EVERY-10); loop_state ticks=2019; raw under docs/doge/data/raw/tick2019/.
 - FOI: **ready not sent** (human-gated; info@sintbarbara.be).
 - NOT every-10 (**next every-10 is 2020**). Next: rq_2020 EVERY-10 (progress refresh + AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC).
+
+
+## Tick 2020 - 2026-08-24T09:50:00Z - rq_2020 EVERY-10 + PC Sint-Hiëronymus (omzet JUMP 28.14m / pnl JUMP 0.38m / Medium)
+
+- Unit: **rq_2020** EVERY-10 mandatory + leftover dual after **rq_2019 WZC Sint-Barbara Herselt**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Jessa/ZOL CW **N/A omzet**. Took unused leftover **PC Sint-Hiëronymus** YE2025 (KBO **0420.676.627**; Dalstraat 84A Sint-Niklaas; Oost-Vlaanderen **psych hospital VZW**). Do not redo WZC Sint-Barbara/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/Werken Glorieux/AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS.
+- EVERY-10: refreshed **progress_every_10_ticks.md** (tick 2020 snapshot; residual dual 2011-2020) + **doge_waste_top10_current.md** (pure annual top10 stable GIP/fossil/cars/cheque/reporté; NEW residual dual off-top10).
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR28,140,722** JUMP +3.39%; pnl **EUR379,788** JUMP from YE2024 LOSS −84,160 (+551.27%); equity **EUR29,184,023** JUMP +0.15%; bruto **EUR26,159,351** JUMP +3.06%; FTE **298.2**; neerlegging **29.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 2 VE; email post@hieronymus.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_pc_sint_hieronymus); foi + draft gap_pc_sint_hieronymus_nbb_pdf_assets_debt_pnl_jump_matrix_l5; progress+top10; rq_2020=done + rq_2021 open; loop_state ticks=2020; raw under docs/doge/data/raw/tick2020/.
+- FOI: **ready not sent** (human-gated; post@hieronymus.be).
+- EVERY-10 done. Next every-10 **2030**. Next: rq_2021 (AGB/FARO-if-YE2025 / AIESH-REW / PPC Pittem-Multiversum / unused DSO-IGS-HVZ).
+
+### Every-10 brief (A/B/C/D/E)
+- **A** L0 TE: **100%** (EUR347.956bn Strong)
+- **B** L1 subsectors: **100%** unconsol map
+- **C** L2 entities: **~99%** order-of-magnitude
+- **D** L5 end-receivers: **~74-88%** generous; +10 residual dual 2011-2020 (hospitals/WZC/psych) — **not** near-complete of 348bn
+- **E** FOI-ready: **~1637** drafts; answered ~11; partial ~28

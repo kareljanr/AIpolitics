@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 2020** (2026-08-24)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 2011-2020 hospital/WZC/psych continuum after 2010 Vlaamse Zorgkas |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 2011-2020 is residual dual L5 (not near-complete of 348bn):** **HH Lier** omzet JUMP **204.49m** / pnl LOSS · **Sint-Andries Tielt** omzet JUMP **132.31m** / pnl DROP · **Sint-Trudo** omzet JUMP **181.32m** · **HH Leuven** omzet JUMP **118.73m** / pnl COLLAPSE · **HH Tienen** omzet JUMP **138.50m** / pnl DROP · **AZ Zeno** omzet JUMP **64.65m** / pnl JUMP · **AZ Rivierenland** omzet JUMP **208.26m** / pnl LOSS · **PC Gent-Sleidinge** omzet JUMP **41.00m** / pnl JUMP · **WZC Sint-Barbara** omzet JUMP **15.24m** / pnl DROP · **PC Sint-Hiëronymus** omzet JUMP **28.14m** / pnl JUMP Medium (this tick EVERY-10 dual) |
+| **E. FOI-ready gaps** | **~1637** drafts ready | Human send only; answered **~11**; partial **~28**; total FOI rows **~1689** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable/energy/nuclear/water/forest/hospital/psych/zorgkas shells** (**NEW 2011-2020** HH Lier · Sint-Andries · Sint-Trudo · HH Leuven · HH Tienen · AZ Zeno · AZ Rivierenland · PC Gent-Sleidinge · WZC Sint-Barbara · **PC Sint-Hiëronymus** · prior Zorgkas/OLVT/AZ Oostende/Glorieux/Alma/Herentals/Vitaz/Emmaüs/AZORG/Z.org/AZ Delta/ZAS stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs hospital IGS/ASBL path possible; Medium aggregators pending NBB PDF.**
+
+### Inventory (tick 2020)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 52161 |
+| commitments.csv | 5686 |
+| leaderboard.csv | 7807 |
+| entities.csv | 1722 |
+| sources.csv | 4984 |
+| FOI ready | 1637 |
+| FOI answered | 11 |
+| FOI partial | 28 |
+| FOI total rows | 1689 |
+| research_queue open | rq_2021 after progress |
+
+### What improved since tick 2010
+
+- **Residual dual (tick2011-2020):** **Heilig Hart Lier** · **Sint-Andries Tielt** · **Sint-Trudo** · **Heilig Hart Leuven** · **Heilig Hart Tienen** · **AZ Zeno** · **AZ Rivierenland** · **PC Gent-Sleidinge** · **WZC Sint-Barbara Herselt** · **PC Sint-Hiëronymus** (this tick EVERY-10 dual — Oost-Vlaanderen psych hospital VZW YE2025 Medium CW).
+- **Blocked still:** AGB Bornem JR2024-only · FARO NBB YE2025 unpublished (YE2024 filing) · AIESH/REW YE2024-only · Jessa/ZOL CW N/A omzet · Erasme/UZ Brussel CW opaque · AZ Sint-Lucas / Groeninge / Zottegem / Turnhout / Waregem / Yperman / Maria Middelares / Imelda / Monica CW N/A omzet · Bosgroep IJzer/Houtland/Limburg YE2025 unpublished · prior Eneco deposit FOI stack.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified; corrupt AGB pi>10 / OWV snowball stock / Metro3 stock filtered off pure annual). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **2030**.
+
+
 ## Snapshot at **tick 2010** (2026-08-24)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

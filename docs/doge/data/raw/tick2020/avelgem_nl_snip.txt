@@ -1,0 +1,146 @@
+Financi&#xEB;le gegevens <span>van Woon- en Zorgcentrum Sint-Vincentius</span></h2>
+                                </div>
+                                <div>
+                                    <div class="toggle">
+                                        <a href="" :class="{'active': currentKernCijferView == KernCijferView.TABLE}"
+                                           v-on:click.prevent="currentKernCijferView = KernCijferView.TABLE">
+                                            <i class="far fa-table-layout mr-2 mobile:mr-0"></i><span class="mobile:hidden">Tabel</span>
+                                        </a>
+                                        <a href="" :class="{'active': currentKernCijferView == KernCijferView.CHART}"
+                                           v-on:click.prevent="currentKernCijferView = KernCijferView.CHART">
+                                            <i class="far fa-chart-simple mr-2 mobile:mr-0"></i><span class="mobile:hidden">Grafiek</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <kerncijfers-chart v-if="currentKernCijferView == KernCijferView.CHART"></kerncijfers-chart>
+                            <div class="tablet:overflow-auto" v-else>
+                                <table class="relative">
+                                    <thead>
+                                    <tr>
+                                        <th class="mobile:sticky mobile:left-0 mobile:bg-grey-100"></th>
+                                        
+                                        
+                                            <th class="text-right">
+                                                    <span>2025</span>
+                                            </th>
+                                                <th class="tablet:hidden"></th>
+                                            <th class="text-right">
+                                                    <span>2024</span>
+                                            </th>
+                                                <th class="tablet:hidden"></th>
+                                            <th class="text-right">
+                                                    <span>2023</span>
+                                            </th>
+                                                <th class="tablet:hidden"></th>
+                                            <th class="text-right">
+                                                    <span>2022</span>
+                                            </th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td class="mobile:sticky mobile:left-0 mobile:bg-white mobile:border-r mobile:border-grey-200">
+                                                <tooltip placement="right" title="Rubriek 9904" text="Winst/verlies van het boekjaar (na belastingen) (&#x2B;/-)">
+                                                    Winst/Verlies<i class="far fa-info-circle ml-2 text-grey-600 text-xs mobile:hidden"></i>
+                                                </tooltip>
+                                            </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span> 74.613</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-orange">
+                                                                <i class="far mr-1 fa-arrow-down-right"></i>
+                                                                <span>-15,75%</span>
+                                                            </span>
+                                                    </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span> 88.563</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-red">
+                                                                <i class="far mr-1 fa-arrow-down"></i>
+                                                                <span>-36,89%</span>
+                                                            </span>
+                                                    </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span> 140.321</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-green">
+                                                                <i class="far mr-1 fa-arrow-up"></i>
+                                                                <span>&gt; 1000%</span>
+                                                            </span>
+                                                    </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span> -6.910</span>
+                                                </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="mobile:sticky mobile:left-0 mobile:bg-white mobile:border-r mobile:border-grey-200">
+                                                <tooltip placement="right" title="Rubriek 70" text="Omzet van het boekjaar">
+                                                    Omzet<i class="far fa-info-circle ml-2 text-grey-600 text-xs mobile:hidden"></i>
+                                                </tooltip>
+                                            </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span> 7.493.161</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-lime">
+                                                                <i class="far mr-1 fa-arrow-up-right"></i>
+                                                                <span>2,35%</span>
+                                                            </span>
+                                                    </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span> 7.321.405</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-lime">
+                                                                <i class="far mr-1 fa-arrow-up-right"></i>
+                                                                <span>3,92%</span>
+                                                            </span>
+                                                    </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span> 7.045.130</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-lime">
+                                                                <i class="far mr-1 fa-arrow-up-right"></i>
+                                                                <span>8,36%</span>
+                                                            </span>
+                                                    </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span> 6.501.827</span>
+                                                </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="mobile:sticky mobile:left-0 mobile:bg-white mobile:border-r mobile:border-grey-200">
+                                                <tooltip placement="right" title="Rubriek 10/15" text="Het eigen vermogen is opgebouwd uit het kapitaal, de reserves en de winsten die in de vennootschap worden gehouden.Het eigen vermogen wordt aanzien als middelen die volledig en onvoorwaardelijk ter beschikking staan van de onderneming om haar risico&#x27;s in te dekken. Hoe groter het eigen vermogen t.o.v. de schulden, hoe solvabeler een onderneming is. Een voldoende groot eigen vermogen is belangrijk.Een negatief eigen vermogen (ten gevolge van opgestapelde verliezen) is een ernstig alarmsignaal dat de continuiteit van de onderneming ernstig kan bedreigen.">
+                                                    Eigen vermogen<i class="far fa-info-circle ml-2 text-grey-600 text-xs mobile:hidden"></i>
+                                                </tooltip>
+                                            </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span> 7.303.884</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                            <span class="inline-block text-barometer-orange">
+                                                                <i class="far mr-1 fa-arrow-down-right"></i>
+                                                                <span>-1,58%</span>
+                                                            </span>
+                                                    </td>
+                                                <td class="text-right whitespace-nowrap" v-financial>
+                                                            <span>€ </span>
+                                                        <span> 7.421.209</span>
+                                                </td>
+                                                    <td class="text-left tablet:hidden">
+                                                       
