@@ -1,11 +1,11 @@
 # FOI draft — MAISON DIEU / Le Marronnier (YE2025 filed; SBM CDN deposit opaque)
 
 **gap_id:** `gap_maisondieu_jr2025_cdn_opaque_l5`  
-**status:** ready (NOT sent)  
+**status:** superseded (NOT sent) — CDN **2026-00137213** live tick1794; see `gap_maisondieu_ca_6_78m_staff_4_43m_rivage_controllers_5_88m_l5`  
 **entity:** MAISON DE REPOS DE LA MAISON DIEU SA — KBO **0428.080.497** (brands **La Maison Dieu** Antheit + **Le Marronnier** Villers-le-Bouillet)  
 **recipient:** MAISON DE REPOS DE LA MAISON DIEU SA / Vivalto Home Belgium — lucie.fontaine@vivaltohome.com — Rue Ernest Gilot 67 4520 Antheit  
-**sources:** [KBO 0428.080.497](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0428080497); [Northdata JR2025 notice 2026-06-04](https://www.northdata.com/Maison%20de%20Repos%20de%20la%20Maison%20Dieu%20N%C2%B7V%C2%B7,%20Wanze/KBO%200428.080.497); [vivaltohome Maison Dieu](https://www.vivaltohome.com/maisons/la-maison-dieu/); [vivaltohome Le Marronnier](https://www.vivaltohome.com/maisons/le-marronnier/)  
-**tick:** 1788 (NOT every-10; next every-10 is **1790**)
+**sources:** [KBO 0428.080.497](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0428080497); [Northdata JR2025 notice 2026-06-04](https://www.northdata.com/Maison%20de%20Repos%20de%20la%20Maison%20Dieu%20N%C2%B7V%C2%B7,%20Wanze/KBO%200428.080.497); [vivaltohome Maison Dieu](https://www.vivaltohome.com/maisons/la-maison-dieu/); [vivaltohome Le Marronnier](https://www.vivaltohome.com/maisons/le-marronnier/); **NBB live** [2026-00137213](http://cdn.staatsbladmonitor.be/2026pdf/2026-00137213.pdf)  
+**tick:** 1788 → superseded 1794 (NOT every-10; next every-10 is **1800**)
 
 ## Context
 

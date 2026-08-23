@@ -50719,3 +50719,20 @@ bud_vivalto_lease_marge_2025,nv_vivalto_lease,2025,173291,,,realized,src_vivalto
 bud_vivalto_lease_fin_products_2025,nv_vivalto_lease,2025,6145630,,,realized,src_vivalto_lease_jr2025_nbb,strong,Produits financiers 6145630; tick1793
 bud_vivalto_lease_fin_charges_2025,nv_vivalto_lease,2025,4093262,,,realized,src_vivalto_lease_jr2025_nbb,strong,Charges financieres 4093262; tick1793
 bud_vivalto_lease_pnl_2025,nv_vivalto_lease,2025,1426770,,,realized,src_vivalto_lease_jr2025_nbb,strong,PnL 1426770; tick1793
+bud_maisondieu_assets_2025,nv_maisondieu,2025,12315416,,,stock,src_maisondieu_jr2025_nbb,strong,Assets YE2025 12315416; tick1794
+bud_maisondieu_equity_2025,nv_maisondieu,2025,2647807,,,stock,src_maisondieu_jr2025_nbb,strong,Equity 2647807; tick1794
+bud_maisondieu_debt_2025,nv_maisondieu,2025,9054581,,,stock,src_maisondieu_jr2025_nbb,strong,Debt 9054581; tick1794
+bud_maisondieu_fva_related_2025,nv_maisondieu,2025,7078286,,,stock,src_maisondieu_jr2025_nbb,strong,FVA creances entreprises liees 7078286; tick1794
+bud_maisondieu_leasing_lt_2025,nv_maisondieu,2025,4283340,,,stock,src_maisondieu_jr2025_nbb,strong,Dettes location-financement LT 4283340; tick1794
+bud_maisondieu_autres_emprunts_lt_2025,nv_maisondieu,2025,3302955,,,stock,src_maisondieu_jr2025_nbb,strong,Autres emprunts LT 3302955; tick1794
+bud_maisondieu_controllers_recv_2025,nv_maisondieu,2025,5878349,,,stock,src_maisondieu_jr2025_nbb,strong,Creances controleurs 9500=5878349; tick1794
+bud_maisondieu_guarantees_related_2025,nv_maisondieu,2025,9073110,,,stock,src_maisondieu_jr2025_nbb,strong,Garanties liees 9381=9073110; tick1794
+bud_maisondieu_rivage_gage_2025,nv_maisondieu,2025,135600000,,,stock,src_maisondieu_jr2025_nbb,strong,RIVAGE gage max undivided 135600000 (actifs greves tiers 9073110); tick1794
+bud_maisondieu_cash_2025,nv_maisondieu,2025,391913,,,stock,src_maisondieu_jr2025_nbb,strong,Cash 391913; tick1794
+bud_maisondieu_ca_2025,nv_maisondieu,2025,6776986,,,realized,src_maisondieu_jr2025_nbb,strong,Chiffre d affaires 6776986; tick1794
+bud_maisondieu_ventes_2025,nv_maisondieu,2025,6791574,,,realized,src_maisondieu_jr2025_nbb,strong,Ventes et prestations 6791574; tick1794
+bud_maisondieu_staff_2025,nv_maisondieu,2025,4427716,,,realized,src_maisondieu_jr2025_nbb,strong,Remunerations 4427716 / VTE 65.8; tick1794
+bud_maisondieu_expl_2025,nv_maisondieu,2025,305757,,,realized,src_maisondieu_jr2025_nbb,strong,Benefice exploitation 305757; tick1794
+bud_maisondieu_pnl_2025,nv_maisondieu,2025,196141,,,realized,src_maisondieu_jr2025_nbb,strong,Benefice exercice 196141 (a affecter 336433); tick1794
+bud_maisondieu_dividend_2025,nv_maisondieu,2025,225000,,,realized,src_maisondieu_jr2025_nbb,strong,Remuneration de l apport 225000; tick1794
+bud_maisondieu_admin_2025,nv_maisondieu,2025,120506,,,realized,src_maisondieu_jr2025_nbb,strong,Administrateurs 120506; tick1794

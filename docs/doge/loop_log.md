@@ -21238,3 +21238,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_vivalto_lease; budgets (+14); commitments; leaderboard; foi_queue ready; research_queue rq_1793=done + rq_1794 MaisonDieu-00137213 spawned; loop_state ticks=1793; FOI draft gap_vivalto_lease_debt_103_3m_rivage_135_6m_controllers_61_8m_l5.md
 - FOI opened: gap_vivalto_lease_debt_103_3m_rivage_135_6m_controllers_61_8m_l5 (**ready**, not sent)
 - Next: rq_1794 — **MaisonDieu CDN 2026-00137213 LIVE**; every-10 at 1800
+
+### 2026-08-25T00:55:00Z — tick 1794
+- Unit: rq_1794 — **MAISON DE REPOS DE LA MAISON DIEU SA** (Antheit + Marronnier / Vivalto dual-brand WZC)
+- Found: Preferred AGB Bornem still JR2024; NSZ/Dijk92/APEFE prior CDN **403**. Took leftover **MAISON DIEU** NBB C-cap YE2025 deposit [2026-00137213](http://cdn.staatsbladmonitor.be/2026pdf/2026-00137213.pdf) CDN 200 (1232558 bytes / 53p); KBO **0428.080.497**; AV **12.05.2026**; mere Vivalto Home Belgium; Forvis Mazars / Collie — **opinion sans reserve**. Sourced: assets **EUR12,315,416**; equity **EUR2,647,807**; debt **EUR9,054,581**; CA **EUR6,776,986**; staff **EUR4,427,716** / VTE **65.8**; expl **EUR305,757**; PnL **EUR196,141**; dividend **EUR225,000** + admin **EUR120,506**; FVA related **EUR7,078,286**; controllers **EUR5,878,349**; leasing LT **EUR4,283,340** + autres emprunts LT **EUR3,302,955**; guarantees related **EUR9,073,110**; **RIVAGE gage EUR135,600,000** (undivided; greves tiers **9,073,110**). Closes prior CDN-opaque FOI.
+- Wrote: sources (+3); entities nv_maisondieu updated; budgets (+17); commitments (new + supersede opaque); leaderboard; foi_queue (new ready + opaque superseded); research_queue rq_1794=done + rq_1795 spawned; loop_state ticks=1794; FOI draft gap_maisondieu_ca_6_78m_staff_4_43m_rivage_controllers_5_88m_l5.md
+- FOI opened: gap_maisondieu_ca_6_78m_staff_4_43m_rivage_controllers_5_88m_l5 (**ready**, not sent); superseded gap_maisondieu_jr2025_cdn_opaque_l5
+- Next: rq_1795 — leftover dual residual (AGB/NSZ-if-200/Bosgroep/FARO-if-2025/unused-Vivalto/IGS); every-10 at 1800
