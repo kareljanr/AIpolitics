@@ -21949,3 +21949,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress+waste markdown; sources (+4); budgets (+3); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_agropolis_nbb_pdf_omzet_empty_loss_0_20m_l5; rq_1880=done + rq_1881 open; loop_state ticks=1880.
 - FOI opened: NBB PDF + omzet-empty / continuity (**ready**, human-send only).
 - **EVERY-10 DONE.** Next every-10 is **1890**. Next: rq_1881 (AGB/Dijk92-if-200 / FARO-if-YE2025 / BioVille/Corda if live).
+
+## Tick 1881 - 2026-08-26T11:45:00Z - rq_1881 BioVille/LSDC NV (omzet 1.78m / equity 9.18m / Medium)
+
+- Unit: **rq_1881** leftover dual after Agropolis EVERY-10. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2024 only. Took leftover **Life Sciences Development Campus NV / BioVille** (KBO **0897.657.596**; Agoralaan A-bis Diepenbeek; board **LRM + LRM Beheer + POM Limburg**; health & care incubator sibling of Agropolis/Droneport/CMineCrib).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0897657596/life-sciences-development-campus) (neerlegging **27.05.2026**; YE **31.12.2025**): omzet **EUR1,778,737**; bruto **EUR1,188,328**; PnL **EUR317,090**; equity **EUR9,175,031**; assets **Unknown**. Pappers cash **~402k** / findebt **~2.17m**; Pappers net **~421k** vs CW — FOI reconcile.
+- Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_bioville_lsdc_nbb_pdf_pnl_reconcile_l5; rq_1881=done + rq_1882 open; loop_state ticks=1881.
+- FOI opened: NBB PDF + PnL reconcile / share % (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1890**). Next: rq_1882 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Corda Campus if live).

@@ -51347,3 +51347,7 @@ bud_droneport_equity_21_45m_jr2025,nv_droneport,2025,21451146,,,CW NBB-derived 1
 bud_agropolis_bruto_0_056m_jr2025,nv_agropolis,2025,56154,,,CW NBB-derived 9900 brutomarge YE31122025,src_agropolis_jr2025_cw,medium,tick1880; omzet 70 empty; not TE-additive
 bud_agropolis_pnl_neg_0_20m_jr2025,nv_agropolis,2025,-196122,,,CW NBB-derived 9904 winst boekjaar LOSS,src_agropolis_jr2025_cw,medium,tick1880; LOSS flat vs prior -195k; not TE-additive
 bud_agropolis_equity_0_53m_jr2025,nv_agropolis,2025,526820,,,CW NBB-derived 10/15 eigen vermogen,src_agropolis_jr2025_cw,medium,tick1880; DROP vs prior 0.76m; not TE-additive
+bud_bioville_lsdc_omzet_1_78m_jr2025,nv_bioville_lsdc,2025,1778737,,,CW NBB-derived 70 omzet YE31122025,src_bioville_lsdc_jr2025_cw,medium,tick1881; UP vs prior 1.57m; not TE-additive
+bud_bioville_lsdc_bruto_1_19m_jr2025,nv_bioville_lsdc,2025,1188328,,,CW NBB-derived 9900 brutomarge YE31122025,src_bioville_lsdc_jr2025_cw,medium,tick1881; UP vs prior 1.03m; not TE-additive
+bud_bioville_lsdc_pnl_0_32m_jr2025,nv_bioville_lsdc,2025,317090,,,CW NBB-derived 9904 winst boekjaar,src_bioville_lsdc_jr2025_cw,medium,tick1881; JUMP vs prior 0.12m; Pappers ~421k FOI reconcile; not TE-additive
+bud_bioville_lsdc_equity_9_18m_jr2025,nv_bioville_lsdc,2025,9175031,,,CW NBB-derived 10/15 eigen vermogen,src_bioville_lsdc_jr2025_cw,medium,tick1881; UP vs prior 9.05m; not TE-additive
