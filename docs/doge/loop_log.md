@@ -21724,3 +21724,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities zorg_wzg_voorkempen; sources (+3); budgets (+9); commitments (+3); leaderboard (+3); foi_queue ready; research_queue rq_1854=done + rq_1855 spawned; loop_state ticks=1854; FOI draft gap_wzg_voorkempen_full_jr2025_rekening_afm_neg_l5.md
 - FOI opened: gap_wzg_voorkempen_full_jr2025_rekening_afm_neg_l5 (**ready**, human-send only)
 - NOT every-10 (next **1860**). Next: rq_1855 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ/IGS live).
+
+
+## Tick 1855 - 2026-08-25T23:50:00Z - rq_1855 WV Blankenberge JR2025 (OCMW werksub 0.15m / invest 0.11m / closes unpublished FOI)
+
+- Unit: **rq_1855** leftover dual residual after WZG Voorkempen; preferred non-Eneco live. AGB Bornem still JR2024; Dijk92/Enebra CDN **403**; FARO NBB YE2024. Took leftover **Welzijnsvereniging Blankenberge** hole-fill (closes prior unpublished FOI gap_wvbl_jr2025_unpublished_l5; KBO **1013.719.482**).
+- Primary (strong, official BBC [JR2025 38p](https://www.blankenberge.be/file/download/36075/4BF32855B053F84EDCCA3C695AEF31D8) 2.39MB + [AV uittreksel 16.06.2026](https://www.blankenberge.be/file/download/36074/879673700E40ACACC23F3AAA9A78F4CB); portal pub **19.06.2026**): OCMW algemene werksub **EUR150,000**; expl uit **EUR16,736**; expl saldo **EUR133,264**; invest aanloop **EUR114,739**; BBR **EUR18,525**; AFM / gecorr AFM **EUR133,264**; assets **EUR224,693**; equity **EUR133,374**; cash **EUR109,796**; ST schulden **EUR91,318**; fin debt **0**; personnel **0**; PnL **EUR133,374**.
+- Wrote: entities zorg_wvbl notes; sources (+3); budgets (+10); commitments (+3 + prior answered_public); leaderboard (+3 + prior struck); foi_queue prior answered + residual ready; research_queue rq_1855=done + rq_1856 spawned; loop_state ticks=1855; FOI draft gap_wvbl_zorgsite_mjp_envelope_pers_teams_l5.md
+- FOI: prior gap_wvbl_jr2025_unpublished_l5 **answered** (public PDF); residual gap_wvbl_zorgsite_mjp_envelope_pers_teams_l5 (**ready**, human-send only)
+- NOT every-10 (next **1860**). Next: rq_1856 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ/IGS live).

@@ -51221,3 +51221,13 @@ bud_wzgvp_afm_neg_545k_jr2025,zorg_wzg_voorkempen,2025,-545408,,,AV uittreksel J
 bud_wzgvp_gecorr_afm_neg_802k_jr2025,zorg_wzg_voorkempen,2025,-801661,,,AV uittreksel JR2025 gecorrigeerde AFM,src_wzg_voorkempen_jr2025_av_uittreksel,strong,tick1854; gecorr AFM -801661 DEEP NEG; not TE-additive
 bud_wzgvp_pers_overshoot_734k_jr2025,zorg_wzg_voorkempen,2025,734000,,,AV uittreksel structurele overschrijding exploitatie-uitgaven ~personeel,src_wzg_voorkempen_jr2025_av_uittreksel,strong,tick1854; ~734000 pers-driven expl overshoot; exact VTE FOI; not TE-additive
 bud_wzgvp_invest_carry_135k_jr2025,zorg_wzg_voorkempen,2025,135135,,,AV uittreksel overdracht investeringsbudget,src_wzg_voorkempen_jr2025_av_uittreksel,strong,tick1854; invest carry 135135.30 zorgmeubilair; not TE-additive
+bud_wvbl_expl_ont_150k_jr2025,zorg_wvbl,2025,150000,,,JR2025 J2/J5/T2 exploitatieontvangsten OCMW algemene werksub,src_wvbl_jr2025_bbc,strong,tick1855; JR2025 J2/J5/T2 exploitatieontvangsten OCMW algemene werksub; not TE-additive
+bud_wvbl_expl_uit_17k_jr2025,zorg_wvbl,2025,16736,,,JR2025 J2/J3/T2 exploitatieuitgaven goederen/diensten opstart,src_wvbl_jr2025_bbc,strong,tick1855; JR2025 J2/J3/T2 exploitatieuitgaven goederen/diensten opstart; not TE-additive
+bud_wvbl_expl_saldo_133k_jr2025,zorg_wvbl,2025,133264,,,JR2025 J2 exploitatiesaldo,src_wvbl_jr2025_bbc,strong,tick1855; JR2025 J2 exploitatiesaldo; not TE-additive
+bud_wvbl_invest_uit_115k_jr2025,zorg_wvbl,2025,114739,,,JR2025 J2/J3 investeringsuitgaven zorgsite aanloop,src_wvbl_jr2025_bbc,strong,tick1855; JR2025 J2/J3 investeringsuitgaven zorgsite aanloop; not TE-additive
+bud_wvbl_budget_19k_jr2025,zorg_wvbl,2025,18525,,,JR2025 J2 budgettair resultaat boekjaar,src_wvbl_jr2025_bbc,strong,tick1855; JR2025 J2 budgettair resultaat boekjaar; not TE-additive
+bud_wvbl_afm_133k_jr2025,zorg_wvbl,2025,133264,,,JR2025 J2 autofinancieringsmarge,src_wvbl_jr2025_bbc,strong,tick1855; JR2025 J2 autofinancieringsmarge; not TE-additive
+bud_wvbl_assets_225k_jr2025,zorg_wvbl,2025,224693,,,JR2025 J4 balanstotaal activa,src_wvbl_jr2025_bbc,strong,tick1855; JR2025 J4 balanstotaal activa; not TE-additive
+bud_wvbl_equity_133k_jr2025,zorg_wvbl,2025,133374,,,JR2025 J4 nettoactief / cum overschot,src_wvbl_jr2025_bbc,strong,tick1855; JR2025 J4 nettoactief / cum overschot; not TE-additive
+bud_wvbl_cash_110k_jr2025,zorg_wvbl,2025,109796,,,JR2025 J4 liquide middelen en geldbeleggingen,src_wvbl_jr2025_bbc,strong,tick1855; JR2025 J4 liquide middelen en geldbeleggingen; not TE-additive
+bud_wvbl_st_debt_91k_jr2025,zorg_wvbl,2025,91318,,,JR2025 J4 schulden ST (fin debt 0),src_wvbl_jr2025_bbc,strong,tick1855; JR2025 J4 schulden ST (fin debt 0); not TE-additive

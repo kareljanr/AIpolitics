@@ -1,7 +1,7 @@
 # FOI draft — Welzijnsvereniging Blankenberge JR2025 unpublished / no BBC-NBB PDF (leftover zorg residual)
 
 **gap_id:** `gap_wvbl_jr2025_unpublished_l5`  
-**status:** ready (NOT sent)  
+**status:** answered (public BBC JR2025 live tick1855 — NOT sent; residual gap_wvbl_zorgsite_mjp_envelope_pers_teams_l5)  
 **entity:** Welzijnsvereniging Blankenberge (vereniging van OCMW's) — KBO 1013.719.482  
 **recipient:** Welzijnsvereniging Blankenberge / Stad + OCMW Blankenberge — info@blankenberge.be — Frans Masereellaan 9 8370 Blankenberge (cc J.F. Kennedyplein 1 8370 Blankenberge; Motena info@motena.be)  
 **sources:** [Motena oprichting](https://www.motena.be/blog/welzijnsvereniging-blankenberge-officieel-van-start); [KBO 1013.719.482](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=1013719482); [TSV 24139864](http://www.ejustice.just.fgov.be/tsv_pdf/2024/09/26/24139864.pdf); [Stad Blankenberge](https://www.blankenberge.be)  
