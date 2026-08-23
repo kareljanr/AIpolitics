@@ -22838,3 +22838,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - EVERY-10 done. Next every-10 **1990**. Next: rq_1981 (AGB/FARO-if-YE2025 / AIESH-REW / IDETA-SPI / unused DSO-IGS-HVZ).
 
+## Tick 1981 - 2026-08-23T22:50:00Z - rq_1981 Vivalia (omzet JUMP 473.14m / pnl DROP 7.57m / Medium)
+
+- Unit: **rq_1981** leftover dual after **rq_1980 EVERY-10 + IDELUX Finances**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**; waste COPIDEC (IPALLE/INTRADEL/Tibi) + IDELUX Finances already mined. Took unused leftover **Vivalia** YE2025 (KBO **0214.567.166**; Chaussée de Houffalize 1 Bastogne; Luxembourg hospital IGS dual HELORA/Passelecq). Do not redo IDELUX Finances/IFIGA/SOFILUX/IDEFIN/FINIMO/FINEST/HYGEA/BEP*/IBH/HELORA/Passelecq/LOGIPOLE/IPALLE/INTRADEL/Tibi.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR473,139,578** JUMP +2.98%; pnl **EUR7,568,119** DROP -49.87%; equity **EUR205,609,886** JUMP +3.96%; bruto **EUR275,658,155** JUMP +4.69%; FTE **3,178.1**; neerlegging **17.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief CV; YE2024 Strong gestion PDF resultat net **EUR15,097,521.50** matches CW YE2024.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1); entities (+1 igs_vivalia); foi + draft gap_vivalia_nbb_pdf_assets_debt_sector_matrix_l5_ye2025; rq_1981=done + rq_1982 open; loop_state ticks=1981; raw under docs/doge/data/raw/tick1981/.
+- FOI: **ready not sent** (human-gated; no KBO email — postal Bastogne).
+- NOT every-10 (**next every-10 is 1990**). Next: rq_1982 (AGB/FARO-if-YE2025 / AIESH-REW / IDETA-SPI / unused DSO-IGS-HVZ).
+
