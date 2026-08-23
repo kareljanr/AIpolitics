@@ -51358,3 +51358,7 @@ bud_corda_campus_equity_41_03m_jr2025,nv_corda_campus,2025,41025516,,,CW NBB-der
 bud_corda20_bruto_neg_0_28m_jr2025,nv_corda20,2025,-278808,,,CW NBB-derived 9900 brutomarge YE31122025 NEG,src_corda20_jr2025_cw,medium,tick1883; omzet 70 empty; not TE-additive
 bud_corda20_pnl_neg_0_54m_jr2025,nv_corda20,2025,-537572,,,CW NBB-derived 9904 winst boekjaar LOSS,src_corda20_jr2025_cw,medium,tick1883; LOSS deepening vs prior -0.23m; not TE-additive
 bud_corda20_equity_11_12m_jr2025,nv_corda20,2025,11122344,,,CW NBB-derived 10/15 eigen vermogen,src_corda20_jr2025_cw,medium,tick1883; JUMP vs prior 8.80m; not TE-additive
+bud_thorpark_omzet_0_26m_jr2025,nv_thorpark,2025,262585,,,CW NBB-derived 70 omzet YE31122025,src_thorpark_jr2025_cw,medium,tick1884; JUMP vs prior 0.17m; not TE-additive
+bud_thorpark_bruto_neg_0_21m_jr2025,nv_thorpark,2025,-208216,,,CW NBB-derived 9900 brutomarge YE31122025 NEG,src_thorpark_jr2025_cw,medium,tick1884; NEG deepening vs prior -0.17m; not TE-additive
+bud_thorpark_pnl_neg_0_075m_jr2025,nv_thorpark,2025,-75113,,,CW NBB-derived 9904 winst boekjaar LOSS,src_thorpark_jr2025_cw,medium,tick1884; LOSS vs prior profit 0.26m; Pappers ~413k FOI reconcile; not TE-additive
+bud_thorpark_equity_32_70m_jr2025,nv_thorpark,2025,32702732,,,CW NBB-derived 10/15 eigen vermogen,src_thorpark_jr2025_cw,medium,tick1884; flat vs prior 32.78m; not TE-additive

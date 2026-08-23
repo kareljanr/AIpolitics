@@ -21973,3 +21973,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+3); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_corda20_nbb_pdf_neg_bruto_loss_0_54m_l5; rq_1883=done + rq_1884 open; loop_state ticks=1883.
 - FOI opened: NBB PDF + NEG bruto/LOSS continuity / share % (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1890**). Next: rq_1884 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS; LRM incubator stack largely taken).
+
+## Tick 1884 - 2026-08-26T13:15:00Z - rq_1884 Thor Park NV (omzet 0.26m / bruto NEG 0.21m / Medium)
+
+- Unit: **rq_1884** leftover dual after Corda Campus 2.0. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2024 only; IOED Pajottenland no JR filed. Took leftover **Thor Park NV** (KBO **0837.304.196**; Thor Park Genk; board **LRM + LRM Beheer + POM Limburg**; LRM energy/smart-city campus host of IncubaThor — YE2025 newly live neerlegging **07.07.2026**).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0837304196/thor-park): omzet **EUR262,585**; bruto **NEG EUR-208,216**; PnL **LOSS EUR-75,113**; equity **EUR32,702,732**; assets **Unknown**. Pappers cash **~1.54m** / findebt **~2.24m**; Pappers net **~413k** vs CW — FOI reconcile.
+- Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_thorpark_nbb_pdf_neg_bruto_pnl_reconcile_l5; rq_1884=done + rq_1885 open; loop_state ticks=1884.
+- FOI opened: NBB PDF + NEG bruto/PnL reconcile / share % (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1890**). Next: rq_1885 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS/Mijnen).
