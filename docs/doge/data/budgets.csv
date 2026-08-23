@@ -52205,3 +52205,8 @@ bud_karus_pnl_jr2025_statutory,vzw_karus,2025,1756084,,,CW YE2025 Profit/Loss,sr
 bud_karus_equity_jr2025_statutory,vzw_karus,2025,92800700,,,CW YE2025 Eigen vermogen,src_karus_jr2025_cw,medium,tick2029; equity JUMP 92800700 +1.24pct vs YE2024 91665733
 bud_karus_bruto_jr2025_statutory,vzw_karus,2025,56053974,,,CW YE2025 Brutomarge,src_karus_jr2025_cw,medium,tick2029; bruto DROP 56053974 -1.24pct vs YE2024 56759855
 bud_karus_fte_jr2025_statutory,vzw_karus,2025,639.3,,,CW social-balance FTE,src_karus_jr2025_cw,medium,tick2029; YE2025 FTE 639.3
+bud_wzc_sint_jozef_rillaar_omzet_jr2025_statutory,vzw_wzc_sint_jozef_rillaar,2025,10734847,,,CW YE2025 omzet / Turnover,src_wzc_sint_jozef_rillaar_jr2025_cw,medium,tick2030; omzet JUMP 10734847 +3.90pct vs YE2024 10331464
+bud_wzc_sint_jozef_rillaar_pnl_jr2025_statutory,vzw_wzc_sint_jozef_rillaar,2025,952540,,,CW YE2025 Profit/Loss,src_wzc_sint_jozef_rillaar_jr2025_cw,medium,tick2030; pnl DROP 952540 -1.72pct vs YE2024 969193
+bud_wzc_sint_jozef_rillaar_equity_jr2025_statutory,vzw_wzc_sint_jozef_rillaar,2025,13630949,,,CW YE2025 Eigen vermogen,src_wzc_sint_jozef_rillaar_jr2025_cw,medium,tick2030; equity JUMP 13630949 +7.00pct vs YE2024 12738863
+bud_wzc_sint_jozef_rillaar_bruto_jr2025_statutory,vzw_wzc_sint_jozef_rillaar,2025,11332671,,,CW YE2025 Brutomarge,src_wzc_sint_jozef_rillaar_jr2025_cw,medium,tick2030; bruto JUMP 11332671 +3.59pct vs YE2024 10939769
+bud_wzc_sint_jozef_rillaar_fte_jr2025_statutory,vzw_wzc_sint_jozef_rillaar,2025,129.6,,,CW social-balance FTE,src_wzc_sint_jozef_rillaar_jr2025_cw,medium,tick2030; YE2025 FTE 129.6

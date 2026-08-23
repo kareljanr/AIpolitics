@@ -23278,3 +23278,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_karus); foi + draft gap_karus_nbb_pdf_assets_debt_matrix_l5; rq_2029=done + rq_2030 open (EVERY-10); loop_state ticks=2029; raw under docs/doge/data/raw/tick2029/.
 - FOI: **ready not sent** (human-gated; info@karus.be).
 - NOT every-10 (**next every-10 is 2030**). Next: rq_2030 EVERY-10 (progress refresh + AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
+
+
+## Tick 2030 - 2026-08-24T12:20:00Z - rq_2030 EVERY-10 + WZC Sint-Jozef Rillaar (omzet JUMP 10.73m / pnl DROP 0.95m / Medium)
+
+- Unit: **rq_2030** EVERY-10 mandatory + leftover dual after **rq_2029 Karus**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Skipped already-mined Veilige Have / Zusterhof; Bethanie Zoersel Emmaüs double-count. Took unused leftover **WZC Sint-Jozef Rillaar** YE2025 (KBO **0413.055.989**; Diestsesteenweg 488 Aarschot; Vlaams-Brabant **WZC VZW**). Do not redo Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Maria Rustoord/PPC Pittem/Vincentius Avelgem/PC Sint-Hiëronymus.
+- EVERY-10: refreshed **progress_every_10_ticks.md** (tick 2030 snapshot; residual dual 2021-2030) + **doge_waste_top10_current.md** (pure annual top10 stable GIP/fossil/cars/cheque/reporté; NEW residual dual off-top10).
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR10,734,847** JUMP +3.90%; pnl **EUR952,540** DROP -1.72%; equity **EUR13,630,949** JUMP +7.00%; bruto **EUR11,332,671** JUMP +3.59%; FTE **129.6**; neerlegging **13.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@sintjozefrillaar.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_sint_jozef_rillaar); foi + draft gap_wzc_sint_jozef_rillaar_nbb_pdf_assets_debt_matrix_l5; progress+top10; rq_2030=done + rq_2031 open; loop_state ticks=2030; raw under docs/doge/data/raw/tick2030/.
+- FOI: **ready not sent** (human-gated; info@sintjozefrillaar.be).
+- EVERY-10 done. Next every-10 **2040**. Next: rq_2031 (AGB/FARO-if-YE2025 / AIESH-REW / Cassiers-Bernardus-OLV Roosdaal / unused DSO-IGS-HVZ).
+
+### Every-10 brief (A/B/C/D/E)
+- **A** L0 TE: **100%** (EUR347.956bn Strong)
+- **B** L1 subsectors: **100%** unconsol map
+- **C** L2 entities: **~99%** order-of-magnitude
+- **D** L5 end-receivers: **~74-88%** generous; +10 residual dual 2021-2030 (WZC/psych) - **not** near-complete of 348bn
+- **E** FOI-ready: **~1647** drafts; answered ~11; partial ~28
