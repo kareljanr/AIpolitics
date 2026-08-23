@@ -22160,3 +22160,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_rentel_nbb_pdf_share_debt_ppa_l5; rq_1904=done + rq_1905 open; loop_state ticks=1904.
 - FOI opened: NBB PDF + share % / debt / PPA (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1910**). Next: rq_1905 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Northwind/Otary Bis/SeaMade).
+
+
+## Tick 1905 - 2026-08-26T23:45:00Z - rq_1905 Northwind (omzet 121m / equity 67.8m / pnl 24.8m / Medium)
+
+- Unit: **rq_1905** leftover dual after Rentel. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **Northwind NV** (KBO **0894.163.222**; President Kennedypark 8A/1 Kortrijk; Lodewijkbank offshore 216 MW; bestuurders o.m. **Kelchtermans/Jans**; Aspiravi/Nuhma path; distinct from mined Aspiravi Offshore). Otary Bis also live YE2025 deferred.
+- Primary hunt: NBB CDN deposit unresolved; Upswitch empty this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0894163222/northwind) + KBO (neerlegging **19.06.2026**; YE **31.12.2025**): omzet **EUR121,096,264**; bruto **EUR84,936,699**; PnL **EUR24,843,636**; equity **EUR67,768,779** (**JUMP +24.07%**); FTE **0**; assets **Unknown**.
+- Wrote: sources (+2); budgets (+5); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_northwind_nbb_pdf_assets_share_debt_ppa_l5; rq_1905=done + rq_1906 open; loop_state ticks=1905.
+- FOI opened: NBB PDF + assets/share % / debt / PPA (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1910**). Next: rq_1906 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Otary Bis/SeaMade).
