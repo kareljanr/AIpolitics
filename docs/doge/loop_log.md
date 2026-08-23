@@ -22813,3 +22813,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1980**). Next: rq_1978 (AGB/FARO-if-YE2025 / AIESH-REW / SOFILUX-IFIGA / unused DSO-IGS-HVZ).
 
+## Tick 1978 - 2026-08-23T21:30:00Z - rq_1978 SOFILUX (pnl DROP 7.98m / equity JUMP 203.98m / Medium)
+
+- Unit: **rq_1978** leftover dual after **rq_1977 IDEFIN**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; IDEFIN already Medium this fire. Took unused leftover **SOFILUX** YE2025 (KBO **0257.857.969**; Avenue de Houffalize 58 Libramont; Luxembourg **ORES Assets IPF** ~11.28%). Do not redo IDEFIN/FINIMO/FINEST/HYGEA/BEP Environnement/LOGIPOLE/BEP NAMUR/IBH/BEP Crematorium/BEP Expansion/IEG/CENEO/CISCH/HELORA/ORES Assets/SOCOFE/IPFBW/IGRETEC/Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/CILE.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR91,389** JUMP +3.03%; pnl **EUR7,975,457** DROP -8.73%; equity **EUR203,979,654** JUMP +2.71%; bruto **NEG EUR-1,187,243**; FTE **0.6**; neerlegging **03.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief CV; email officiel.ic-sofilux@sofilux.be.
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 igs_sofilux); foi + draft gap_sofilux_nbb_pdf_assets_debt_ores_dividend_matrix_l5; rq_1978=done + rq_1979 open; loop_state ticks=1978.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1980**). Next: rq_1979 (AGB/FARO-if-YE2025 / AIESH-REW / IFIGA / unused DSO-IGS-HVZ).
+
