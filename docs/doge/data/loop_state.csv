@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-27T14:45:00Z,rq_1935,1935,no,tick1935 leftover Fluxys LNG 0426.047.853 Medium CW+Upswitch (omzet JUMP 236.9m bruto 99.7m pnl DROP 19.7m equity 117.9m assets 829.9m EBITDA 92.4m FTE 51.7); NBB PDF+debt/RAB FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2024; next rq_1936; next every-10 1940; continuous hole_fill
+main,continuous,hole_fill,2026-08-27T15:15:00Z,rq_1936,1936,no,tick1936 leftover Pipelink 0418.190.556 Medium CW+Upswitch (omzet 21.1m JUMP pnl 4.14m equity JUMP 37.3m assets 51.3m EBITDA 6.88m FTE 7.2); NBB PDF+Port/c-grid FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2024; next rq_1937; next every-10 1940; continuous hole_fill

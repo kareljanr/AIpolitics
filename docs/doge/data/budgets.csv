@@ -51662,3 +51662,10 @@ bud_fluxys_lng_assets_jr2025,nv_fluxys_lng,2025,829856143,,,Upswitch NBB/CBSO as
 bud_fluxys_lng_bruto_jr2025,nv_fluxys_lng,2025,99683102,,,CW NBB-derived 9900,src_fluxys_lng_jr2025_cw,medium,tick1935; YE2025 bruto 99683102
 bud_fluxys_lng_ebitda_jr2025,nv_fluxys_lng,2025,92371306,,,Upswitch NBB/CBSO EBITDA,src_fluxys_lng_jr2025_upswitch,medium,tick1935; YE2025 EBITDA 92371306
 bud_fluxys_lng_fte_jr2025,nv_fluxys_lng,2025,52,,,CW NBB-derived FTE 51.7,src_fluxys_lng_jr2025_cw,medium,tick1935; YE2025 FTE 51.7 (stored 52)
+bud_pipelink_omzet_jr2025,nv_pipelink,2025,21070255,,,CW NBB-derived omzet,src_pipelink_jr2025_cw,medium,tick1936; YE2025 omzet 21070255 JUMP +6.99pct
+bud_pipelink_pnl_jr2025,nv_pipelink,2025,4144662,,,CW NBB-derived 9904,src_pipelink_jr2025_cw,medium,tick1936; YE2025 pnl 4144662 flat -0.52pct
+bud_pipelink_equity_jr2025,nv_pipelink,2025,37343274,,,CW/Upswitch NBB-derived 10/15,src_pipelink_jr2025_cw,medium,tick1936; YE2025 equity 37343274 JUMP +12.48pct
+bud_pipelink_assets_jr2025,nv_pipelink,2025,51309910,,,Upswitch NBB/CBSO assets,src_pipelink_jr2025_upswitch,medium,tick1936; YE2025 assets 51309910
+bud_pipelink_bruto_jr2025,nv_pipelink,2025,8226313,,,CW NBB-derived 9900,src_pipelink_jr2025_cw,medium,tick1936; YE2025 bruto 8226313
+bud_pipelink_ebitda_jr2025,nv_pipelink,2025,6879632,,,Upswitch NBB/CBSO EBITDA,src_pipelink_jr2025_upswitch,medium,tick1936; YE2025 EBITDA 6879632
+bud_pipelink_fte_jr2025,nv_pipelink,2025,7,,,CW NBB-derived FTE 7.2,src_pipelink_jr2025_cw,medium,tick1936; YE2025 FTE 7.2 (stored 7)
