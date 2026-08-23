@@ -21683,3 +21683,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities nv_hegoa_wind; sources (+3); commitments (+1 Unknown); leaderboard weak; foi_queue ready; research_queue rq_1849=blocked_foi + rq_1850 spawned (EVERY-10); loop_state ticks=1849; FOI draft gap_hegoa_jr2025mar_nbb_deposit_unresolved_l5.md
 - FOI opened: gap_hegoa_jr2025mar_nbb_deposit_unresolved_l5 (**ready**, human-send only)
 - **EVERY-10 NEXT (1850 MUST)**. Next: rq_1850 (progress refresh + Cordona/Solano-if-200 / AGB / Dijk92 / FARO).
+
+## Tick 1850 - 2026-08-25T21:40:00Z - rq_1850 EVERY-10 + Cordona Wind NV (NBB YE Mar2025 deposit unresolved FOI)
+
+- Unit: **rq_1850** EVERY-10 progress refresh + leftover dual residual after Hegoa FOI; preferred Cordona. AGB Bornem still **JR2024**; Dijk92/Enebra CDN **403**; FARO YE2024; Solano deferred. Took **Cordona Wind NV / OFF-WIND** (Eneco dual; KBO **0888.975.306**).
+- Primary: KBO Actief SA / Wavre / commercial OFF-WIND (**strong** register). YE Mar2025 **neergelegd 08.10.2025** confirmed via secondary pointers only. Honest CDN hunt (Oct8+Sept9 C-cap windows) did **not** resolve deposit id / live PDF. **No sourced euros**.
+- EVERY-10: refreshed progress_every_10_ticks.md (tick 1850 snapshot; layers A–E; inventory; 1841-1850 Eneco continuum) + doge_waste_top10_current.md (pure top10 stable GIP/fossil/cars/cheque/reporté; corrupt AGB pi≥12 + OWV snowball filtered off).
+- Wrote: entities nv_cordona_wind; sources (+3); commitments (+1 Unknown); leaderboard weak; foi_queue ready; progress+waste every-10; research_queue rq_1850=blocked_foi + rq_1851 spawned; loop_state ticks=1850; FOI draft gap_cordona_jr2025mar_nbb_deposit_unresolved_l5.md
+- FOI opened: gap_cordona_jr2025mar_nbb_deposit_unresolved_l5 (**ready**, human-send only)
+- Next every-10 **1860**. Next: rq_1851 (Solano-if-200 / AGB / Dijk92 / FARO).

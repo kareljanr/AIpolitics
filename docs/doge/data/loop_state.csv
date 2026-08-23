@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-25T21:15:00Z,rq_1849,1849,no,tick1849 leftover Hegoa Wind KBO 0809.473.314 YE Mar2025 NBB deposit id unresolved / euros Unknown FOI; SKY+Tivano absorb Oct2025; Eneco parent+Meltemi+Bayamo FOI; deferred Cordona/Solano; AGB Bornem JR2024; Dijk92/Enebra 403; FARO YE2024; EVERY-10 NEXT 1850 MUST; next rq_1850; continuous hole_fill
+main,continuous,hole_fill,2026-08-25T21:40:00Z,rq_1850,1850,no,tick1850 EVERY-10 + Cordona Wind KBO 0888.975.306 YE Mar2025 NBB deposit unresolved FOI; Hegoa/parent/Meltemi/Bayamo FOI stack; Solano deferred; AGB Bornem JR2024; Dijk92/Enebra 403; FARO YE2024; next every-10 1860; next rq_1851; continuous hole_fill
