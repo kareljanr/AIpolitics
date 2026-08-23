@@ -21925,3 +21925,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_incubathor_nbb_pdf_pnl_reconcile_l5; rq_1877=done + rq_1878 open; loop_state ticks=1877.
 - FOI opened: NBB PDF + PnL reconcile / share % (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1880**). Next: rq_1878 (AGB/Dijk92-if-200 / FARO-if-YE2025 / C-mine Crib/Droneport/Agropolis if live).
+
+## Tick 1878 - 2026-08-26T10:15:00Z - rq_1878 C-Mine Crib NV (omzet 0.77m / LOSS 60k / Medium)
+
+- Unit: **rq_1878** leftover dual after IncubaThor. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2024 only. Took leftover **C-Mine Crib NV** (KBO **0845.851.975**; C-Mine 12 Genk; board **LRM + LRM Beheer**; Stad Genk/LRM/VIG creative incubator sibling of IncubaThor/Greenville).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0845851975/c-mine-crib) (neerlegging **16.06.2026**; YE **31.12.2025**): omzet **EUR766,393**; bruto **EUR130,419**; PnL **LOSS EUR-60,108**; equity **EUR156,699** thin DROP; assets **Unknown**. Pappers cash **~181k** / findebt **0**.
+- Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_cminecrib_nbb_pdf_loss_equity_thin_l5; rq_1878=done + rq_1879 open; loop_state ticks=1878.
+- FOI opened: NBB PDF + LOSS continuity / share % (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1880**). Next: rq_1879 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Droneport/Agropolis/BioVille if live).
