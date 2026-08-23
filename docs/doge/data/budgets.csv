@@ -50796,3 +50796,18 @@ bud_portfineco_pnl_2025,nv_portfineco,2025,528902,,,realized,src_portfineco_jr20
 bud_portfineco_dividend_2025,nv_portfineco,2025,700000,,,realized,src_portfineco_jr2025_nbb,strong,Uit te keren dividend 700000; tick1798
 bud_portfineco_st_other_2025,nv_portfineco,2025,700000,,,realized,src_portfineco_jr2025_nbb,strong,Overige schulden ST 700000 (=dividend payable); tick1798
 bud_portfineco_commissaris_2025,nv_portfineco,2025,5158,,,realized,src_portfineco_jr2025_nbb,strong,Bezoldiging commissaris BDO 5158; tick1798
+bud_egpf_assets_2025,nv_egpf,2025,18629714,,,realized,src_egpf_jr2025_nbb,strong,Assets YE2025 18629714; tick1799
+bud_egpf_equity_2025,nv_egpf,2025,15408750,,,realized,src_egpf_jr2025_nbb,strong,Equity 15408750 DROP; tick1799
+bud_egpf_debt_2025,nv_egpf,2025,1102764,,,realized,src_egpf_jr2025_nbb,strong,Debt 1102764; tick1799
+bud_egpf_mva_2025,nv_egpf,2025,15023352,,,realized,src_egpf_jr2025_nbb,strong,MVA installaties 15023352 DROP; tick1799
+bud_egpf_omzet_2025,nv_egpf,2025,4441174,,,realized,src_egpf_jr2025_nbb,strong,Omzet 4441174 (elek 4253208 GSC 187965); tick1799
+bud_egpf_opbr_2025,nv_egpf,2025,4485381,,,realized,src_egpf_jr2025_nbb,strong,Bedrijfsopbrengsten 4485381; tick1799
+bud_egpf_diensten_2025,nv_egpf,2025,2836792,,,realized,src_egpf_jr2025_nbb,strong,Diensten diverse goederen 2836792; tick1799
+bud_egpf_afschr_2025,nv_egpf,2025,2650090,,,realized,src_egpf_jr2025_nbb,strong,Afschrijvingen 2650090; tick1799
+bud_egpf_expl_2025,nv_egpf,2025,-934776,,,realized,src_egpf_jr2025_nbb,strong,Bedrijfsverlies -934776 deepening; tick1799
+bud_egpf_pnl_2025,nv_egpf,2025,-881205,,,realized,src_egpf_jr2025_nbb,strong,PnL LOSS -881205; tick1799
+bud_egpf_prov_2025,nv_egpf,2025,2118200,,,realized,src_egpf_jr2025_nbb,strong,Voorzieningen overige risico 2118200; tick1799
+bud_egpf_st_recv_other_2025,nv_egpf,2025,2209362,,,realized,src_egpf_jr2025_nbb,strong,Overige vorderingen ST 2209362 JUMP from 401606; tick1799
+bud_egpf_trade_st_2025,nv_egpf,2025,1015044,,,realized,src_egpf_jr2025_nbb,strong,Handelsschulden ST 1015044 JUMP; tick1799
+bud_egpf_kapsubs_2025,nv_egpf,2025,37058,,,realized,src_egpf_jr2025_nbb,strong,Kapitaalsubsidies 37058 DROP; tick1799
+bud_egpf_commissaris_2025,nv_egpf,2025,13923,,,realized,src_egpf_jr2025_nbb,strong,Bezoldiging commissaris Deloitte 13923; tick1799

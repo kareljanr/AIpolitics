@@ -21273,3 +21273,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_portfineco; budgets (+13); commitments; leaderboard; foi_queue ready; research_queue rq_1798=done + rq_1799 spawned; loop_state ticks=1798; FOI draft gap_portfineco_fva_3_81m_dividend_0_70m_fin_opbr_drop_2_78m_l5.md
 - FOI opened: gap_portfineco_fva_3_81m_dividend_0_70m_fin_opbr_drop_2_78m_l5 (**ready**, not sent)
 - Next: rq_1799 — EGPF-if-200 / AGB / NSZ-if-200; **every-10 MUST at 1800**
+
+### 2026-08-25T02:35:00Z — tick 1799
+- Unit: rq_1799 — **Electrabel Green Projects Flanders NV / EGPF** (leftover Zefier dual wind opco)
+- Found: Preferred AGB Bornem still JR2024; NSZ/Dijk92/APEFE prior CDN **403**. Took deferred live **EGPF** NBB VOL-kap YE2025 deposit [2026-00206406](http://cdn.staatsbladmonitor.be/2026pdf/2026-00206406.pdf) CDN 200 (484 KB / 40p); KBO **0465.399.763**; AV **16.06.2026**; Deloitte / Jo Van Baelen — **oordeel zonder voorbehoud**; Zefier **24.42pct**. Sourced: assets **EUR18,629,714**; equity **EUR15,408,750**; debt **EUR1,102,764**; MVA **EUR15,023,352**; omzet **EUR4,441,174** (elek **EUR4,253,208** / GSC **EUR187,965**); diensten **EUR2,836,792**; afschr **EUR2,650,090**; expl **EUR-934,776**; PnL **EUR-881,205**; voorzieningen **EUR2,118,200**; ST other recv **EUR2,209,362** JUMP; cash **0**; VTE **0**; dividend **0** (prior **EUR1,288,089**); commissaris **EUR13,923**. **Closes Zefier CDN sister batch** Zo-Fier / W4F / PortFineco / EGPF.
+- Wrote: sources (+3); entities nv_egpf; budgets (+15); commitments; leaderboard; foi_queue ready; research_queue rq_1799=done + rq_1800 EVERY-10 spawned; loop_state ticks=1799; FOI draft gap_egpf_omzet_4_44m_loss_0_88m_mva_15_02m_prov_2_12m_l5.md
+- FOI opened: gap_egpf_omzet_4_44m_loss_0_88m_mva_15_02m_prov_2_12m_l5 (**ready**, not sent)
+- Next: rq_1800 — **EVERY-10 MUST** progress % + waste top10
