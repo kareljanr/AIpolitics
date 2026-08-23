@@ -51897,3 +51897,10 @@ bud_bep_crem_pnl_jr2025_statutory,bep_crematorium,2025,20050,,,CW NBB-derived Wi
 bud_bep_crem_equity_jr2025_statutory,bep_crematorium,2025,445338,,,CW NBB-derived equity,src_bep_crem_jr2025_cw,medium,tick1969; YE2025 equity JUMP 445338 +5.24pct
 bud_bep_crem_bruto_jr2025_statutory,bep_crematorium,2025,6621,,,CW NBB-derived bruto,src_bep_crem_jr2025_cw,medium,tick1969; YE2025 bruto DROP 6621 -42.97pct; omzet unpublished
 bud_bep_crem_fte_jr2025_statutory,bep_crematorium,2025,0,,,CW social-balance FTE,src_bep_crem_jr2025_cw,medium,tick1969; YE2025 FTE 0 (concession-operated)
+bud_ibh_assets_jr2025_statutory,igs_ibh,2025,4848537.95,,,Mons AG bilan total actif YE2025,src_ibh_jr2025_ag_mons_bilan,strong,tick1970; YE2025 assets 4848537.95 DROP vs YE2024 SBM 5026782
+bud_ibh_equity_jr2025_statutory,igs_ibh,2025,4773870.08,,,Mons note apport+PV+reserves,src_ibh_jr2025_note_synthese,strong,tick1970; apport 582549.78 + PV 3801843.45 + reserves 389476.85
+bud_ibh_debt_jr2025_statutory,igs_ibh,2025,24667.87,,,Mons note dettes YE2025,src_ibh_jr2025_note_synthese,strong,tick1970; short-term dettes only; + provision litige 50000 separate
+bud_ibh_pnl_loss_jr2025_statutory,igs_ibh,2025,-117159.15,,,Mons note resultat exercice LOSS,src_ibh_jr2025_note_synthese,strong,tick1970; LOSS JUMP vs YE2024 CW -59551
+bud_ibh_produits_expl_jr2025_statutory,igs_ibh,2025,55760.68,,,Mons note produits exploitation,src_ibh_jr2025_note_synthese,strong,tick1970; loyers+ventes bois+lots+chasse
+bud_ibh_charges_expl_jr2025_statutory,igs_ibh,2025,172329.34,,,Mons note charges exploitation,src_ibh_jr2025_note_synthese,strong,tick1970; includes personnel amort provisions jetons
+bud_ibh_plantations_jr2025_statutory,igs_ibh,2025,3225741,,,Mons bilan plantations coupes 1-12,src_ibh_jr2025_ag_mons_bilan,strong,tick1970; reval DROP -94180 vs prior

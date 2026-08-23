@@ -20,6 +20,39 @@
 
 ---
 
+## Snapshot at **tick 1970** (2026-08-23)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1961-1970 IGRETEC/health/energy/BEP/IBH continuum after 1960 Aquiris |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1961-1970 is residual dual L5 (not near-complete of 348bn):** **IGRETEC** omzet JUMP **105.71m** · **Gabrielle Passelecq** omzet JUMP **77.72m** · **iMio** omzet JUMP **7.771m** · **CHU HELORA** omzet JUMP **900.54m** · **CENEO** assets **1.172bn** / pnl DROP **41.35m** · **IEG** omzet DROP **19.73m** · **BEP Expansion** omzet DROP **2.92m** / bruto NEG **7.09m** · **CISCH** assets JUMP **1.274m** · **BEP Crematorium** pnl JUMP **20.05k** · **IBH** assets DROP **4.849m** / pnl LOSS JUMP **117.2k** Strong (this tick EVERY-10 dual) |
+| **E. FOI-ready gaps** | **~1587** drafts ready | Human send only; answered **~11**; partial **~28**; total FOI rows **~1639** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable/energy/nuclear/water/forest shells** (**NEW 1961-1970** IGRETEC · Passelecq · iMio · HELORA · CENEO · IEG · BEP Expansion · CISCH · BEP Crematorium · **IBH** · prior Aquiris/SPGE/Vivaqua/Hydria/nuclear stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs CENEO/ORES/Socofe/IGRETEC/IDEA/SPGE path possible; Medium aggregators pending NBB PDF.**
+
+### Inventory (tick 1970)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 51905 |
+| commitments.csv | 5636 |
+| leaderboard.csv | 7757 |
+| entities.csv | 1674 |
+| sources.csv | 4753 |
+| FOI ready | 1587 |
+| FOI answered | 11 |
+| FOI partial | 28 |
+| FOI total rows | 1639 |
+| research_queue open | rq_1971 after progress |
+
+### What improved since tick 1960
+
+- **Residual dual (tick1961-1970):** **IGRETEC** · **Gabrielle Passelecq** · **iMio** · **CHU HELORA** · **CENEO** · **IEG** · **BEP Expansion** · **CISCH** · **BEP Crematorium** · **IBH** (this tick EVERY-10 dual — Mons public-forest SA YE2025 Strong AG).
+- **Blocked still:** AGB Bornem JR2024-only · FARO NBB YE2025 unpublished (YE2024 filing) · AIESH/REW YE2024-only · Bosgroep IJzer/Houtland/Limburg YE2025 unpublished · prior Eneco deposit FOI stack · HYGEA full CA still FOI.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified; corrupt AGB pi>10 / OWV snowball stock / Metro3 stock filtered off pure annual). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1980**.
+
 ## Snapshot at **tick 1960** (2026-08-23)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

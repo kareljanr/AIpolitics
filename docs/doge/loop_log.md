@@ -22747,3 +22747,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1 bep_crematorium); foi + draft gap_bep_crem_nbb_pdf_assets_debt_concession_l5; rq_1969=done + rq_1970 open (**EVERY-10 required**); loop_state ticks=1969.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 this tick (**next tick 1970 MUST run EVERY-10** progress coverage % + waste top10). Next: rq_1970.
+
+## Tick 1970 - 2026-08-23T19:45:00Z - rq_1970 EVERY-10 + IBH (assets DROP 4.849m / pnl LOSS JUMP 117.2k / Strong)
+
+- Unit: **rq_1970** EVERY-10 required after **rq_1969 BEP Crematorium**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **IBH** YE2025 (KBO **0201.107.526**; Grand-Place 22 Mons; SA de droit public ~253ha Bois d'Havre; shareholders Etat/Hainaut/Mons/Roeulx). Do not redo BEP Crematorium/Expansion/IEG/CENEO/CISCH/HELORA/iMio/Passelecq/IPFBW/IGRETEC/Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92/AIEG/Synergrid.
+- EVERY-10: refreshed `progress_every_10_ticks.md` (A–E @1970) + `doge_waste_top10_current.md` (pure annual top10 **stable** GIP/fossil/cars/cheque/reporté). Inventory budgets 51905 / commitments 5636 / leaderboard 7757 / entities 1674 / sources 4753 / FOI ready ~1587 total ~1639.
+- Found: Strong [Mons AG 22.06.2026 Bilan PDF](https://www.mons.be/fr/ma-commune/vie-politique/intercommunales/ibh-1/ibh/ag-du-22-juin-2026/association-intercommunale-du-bois-dhavre-bilan-et-annexes-2025-2.pdf) + [note synthese](https://www.mons.be/fr/ma-commune/vie-politique/intercommunales/ibh-1/ibh/ag-du-22-juin-2026/2026-06-22-note-synthese-ag-2.pdf) + Strong KBO: assets **EUR4,848,537.95** (**DROP**); equity **EUR4,773,870.08**; debt **EUR24,667.87**; pnl **LOSS EUR117,159.15** (**JUMP** vs YE2024 -59.6k); produits expl **EUR55,760.68**; charges expl **EUR172,329.34**; plantations **EUR3,225,741** (reval DROP 94.2k); provision litige **EUR50,000**. CW still YE2024-only.
+- Wrote: sources (+5); budgets (+7); commitments (+1); leaderboard (+1); entities (+1 igs_ibh); foi + draft gap_ibh_nbb_pdf_shareholder_plantation_reval_matrix_l5; rq_1970=done + rq_1971 open; loop_state ticks=1970; raw PDFs saved; progress+top10 refreshed.
+- FOI: **ready not sent** (human-gated).
+- EVERY-10 done (**next every-10 is 1980**). Next: rq_1971 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ / LOGIPOLE).
+
