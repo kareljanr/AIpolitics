@@ -51508,3 +51508,9 @@ bud_nobelwind_pnl_jr2025,nv_nobelwind,2025,23122623,,,CW NBB-derived 9904,src_no
 bud_nobelwind_assets_jr2025,nv_nobelwind,2025,378893096,,,Upswitch NBB/CBSO 20/58,src_nobelwind_jr2025_upswitch,medium,tick1910; YE2025 assets 378893096 DROP vs 390.6m
 bud_nobelwind_equity_jr2025,nv_nobelwind,2025,14298486,,,CW/Upswitch NBB-derived 10/15,src_nobelwind_jr2025_cw,medium,tick1910; YE2025 equity 14298486 JUMP +23.56pct
 bud_nobelwind_ebitda_jr2025,nv_nobelwind,2025,72248990,,,Upswitch NBB/CBSO EBITDA,src_nobelwind_jr2025_upswitch,medium,tick1910; YE2025 EBITDA 72248990 ~73.6pct omzet
+bud_belwind_omzet_jr2025,nv_belwind,2025,79747555,,,CW/Upswitch NBB-derived code 70,src_belwind_jr2025_cw,medium,tick1911; YE2025 omzet 79747555 DROP -3.2pct
+bud_belwind_bruto_jr2025,nv_belwind,2025,49502802,,,CW NBB-derived 9900,src_belwind_jr2025_cw,medium,tick1911; YE2025 bruto 49502802
+bud_belwind_pnl_jr2025,nv_belwind,2025,11848699,,,CW NBB-derived 9904,src_belwind_jr2025_cw,medium,tick1911; YE2025 pnl 11848699 JUMP +1.25pct
+bud_belwind_assets_jr2025,nv_belwind,2025,194763771,,,Upswitch NBB/CBSO 20/58,src_belwind_jr2025_upswitch,medium,tick1911; YE2025 assets 194763771 DROP vs 219.9m
+bud_belwind_equity_jr2025,nv_belwind,2025,22317610,,,CW/Upswitch NBB-derived 10/15,src_belwind_jr2025_cw,medium,tick1911; YE2025 equity 22317610 JUMP +113.18pct
+bud_belwind_ebitda_jr2025,nv_belwind,2025,49468300,,,Upswitch NBB/CBSO EBITDA,src_belwind_jr2025_upswitch,medium,tick1911; YE2025 EBITDA 49468300 ~62pct omzet

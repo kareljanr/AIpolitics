@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-27T02:15:00Z,rq_1910,1910,no,tick1910 EVERY-10 + Nobelwind 0543.652.534 Medium CW+Upswitch (omzet 98.2m assets 378.9m pnl 23.1m EBITDA 72.2m equity 14.3m FTE 0); NBB PDF+share%+debt+PPA FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1911; next every-10 1920; continuous hole_fill
+main,continuous,hole_fill,2026-08-27T02:45:00Z,rq_1911,1911,no,tick1911 leftover Belwind 0879.041.417 Medium CW+Upswitch (omzet 79.7m assets 194.8m equity JUMP 22.3m pnl 11.8m EBITDA 49.5m FTE 0); NBB PDF+share%+debt+PPA+equity JUMP FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1912; next every-10 1920; continuous hole_fill

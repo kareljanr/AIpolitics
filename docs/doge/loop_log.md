@@ -22210,3 +22210,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress+waste markdown; sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_nobelwind_nbb_pdf_share_debt_ppa_l5; rq_1910=done + rq_1911 open; loop_state ticks=1910.
 - FOI opened: NBB PDF + share % / debt / PPA (**ready**, human-send only).
 - **EVERY-10 DONE.** Next every-10 is **1920**. Next: rq_1911 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Belwind-Northwester).
+
+## Tick 1911 - 2026-08-27T02:45:00Z - rq_1911 Belwind (omzet 79.7m / equity JUMP 22.3m / Medium)
+
+- Unit: **rq_1911** leftover dual after Nobelwind EVERY-10. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **Belwind NV** (KBO **0879.041.417**; Sint-Maartenstraat 5 Leuven; Parkwind Belwind phase-1; NON-Eneco; distinct from Nobelwind).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0879041417/belwind) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/belwind-0879041417) (neerlegging **14.05.2026**; YE **31.12.2025**): omzet **EUR79,747,555** (DROP -3.2%); bruto **EUR49,502,802**; PnL **EUR11,848,699**; assets **EUR194,763,771**; equity **EUR22,317,610** (**JUMP +113.18%**); EBITDA **EUR49,468,300**; FTE **0**.
+- Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_belwind_nbb_pdf_share_debt_ppa_equity_jump_l5; rq_1911=done + rq_1912 open; loop_state ticks=1911.
+- FOI opened: NBB PDF + share % / debt / PPA / equity JUMP (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1920**). Next: rq_1912 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Northwester-Norther).
