@@ -23942,3 +23942,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.0); entities (+1 nv_slg_operaties_vlaanderen); foi + draft gap_slg_operaties_vl_nbb_pdf_assets_debt_merger_jump_matrix_l5; rq_2099=done + rq_2100 open; loop_state ticks=2099; raw docs/doge/data/raw/tick2099/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 2100** — MUST refresh progress + waste top10 then hole-fill). Next: rq_2100.
+
+
+## Tick 2100 - 2026-08-25T05:55:00Z - EVERY-10 + rq_2100 Always Home (omzet DROP 8.86m / equity JUMP / Medium)
+
+- Unit: **rq_2100** EVERY-10 after **rq_2099 SLG Operaties**. Refreshed **progress_every_10_ticks.md** (tick 2100 snapshot) + **doge_waste_top10_current.md** (top10 stable GIP/fossil/cars/cheque/reporté). Prefer: AGB Bornem **JR2024-only**; FARO **YE2024**; AIESH **YE2024**; REW **YE2024**. Took unused WZC sister **Always Home** YE2025 (KBO **0821.289.991**; Stationsstraat 102 Mechelen shared Armonea HQ; NV ROB/RVT; **4 VE**; NACE **87.301/87.101**; bestuurder Colisée Belgium). DISTINCT from Armonea NV / SLG Operaties / emeis.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR8857853** DROP −2.31%; bruto **EUR6600717** DROP −8.58%; pnl **EUR299634** DROP −3.72%; equity **EUR1758472** JUMP +20.54%; FTE **99.8** JUMP vs YE2024 98.7; neerlegging **15.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@armonea.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.3); entities (+1 nv_always_home); foi + draft gap_always_home_nbb_pdf_assets_debt_omzet_drop_equity_jump_matrix_l5; progress+waste EVERY-10; rq_2100=done + rq_2101 open; loop_state ticks=2100; raw docs/doge/data/raw/tick2100/.
+- FOI: **ready not sent** (human-gated).
+- **EVERY-10 DONE.** Next every-10 is **2110**. Next: rq_2101 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC).
