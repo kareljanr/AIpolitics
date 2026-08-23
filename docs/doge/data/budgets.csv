@@ -51785,3 +51785,11 @@ bud_euridice_bruto_jr2025,vof_euridice,2025,3606,,,CW NBB-derived brutomarge,src
 bud_euridice_operating_jr2025,vof_euridice,2025,35,,,Upswitch NBB/CBSO operating result,src_euridice_jr2025_upswitch,medium,tick1954; YE2025 operating 35 vs YE2024 47; near-zero after 3.39m omzet
 bud_euridice_assets_jr2025,vof_euridice,2025,1700427,,,Upswitch NBB/CBSO total assets,src_euridice_jr2025_upswitch,medium,tick1954; YE2025 assets 1700427 DROP vs YE2024 1933108
 bud_euridice_fte_jr2025,vof_euridice,2025,0,,,CW/KBO FTE empty (0 reported),src_euridice_jr2025_cw,medium,tick1954; YE2025 FTE empty/0; NIRAS/SCK path staffing off-books likely
+bud_sck_omzet_jr2025_statutory,sck_cen,2025,99270182,,,CW NBB-derived omzet statutory,src_sck_jr2025_cw,medium,tick1955; YE2025 statutory omzet 99270182 DROP -5.6pct vs 105161036; Highlights turnover 102291000 conflict
+bud_sck_bruto_jr2025_statutory,sck_cen,2025,156483763,,,CW NBB-derived bruto,src_sck_jr2025_cw,medium,tick1955; YE2025 bruto 156483763 JUMP +6.26pct vs 147262173
+bud_sck_pnl_jr2025_statutory,sck_cen,2025,-11360315,,,CW NBB-derived net PnL,src_sck_jr2025_cw,medium,tick1955; YE2025 pnl LOSS -11360315 vs +14221001; Upswitch operating -12739851 distinct line
+bud_sck_operating_jr2025_upswitch,sck_cen,2025,-12739851,,,Upswitch NBB-derived operating result,src_sck_jr2025_upswitch,medium,tick1955; YE2025 operating LOSS -12739851 vs +6459033 YE2024
+bud_sck_equity_jr2025_statutory,sck_cen,2025,52666129,,,CW+Upswitch NBB-derived equity,src_sck_jr2025_cw,medium,tick1955; YE2025 equity 52666129 DROP -14.37pct vs 61504638
+bud_sck_assets_jr2025_upswitch,sck_cen,2025,405049418,,,Upswitch NBB-derived assets,src_sck_jr2025_upswitch,medium,tick1955; YE2025 assets 405049418 vs 401321968 YE2024; equity ~13pct BS; debt Unknown
+bud_sck_ebitda_jr2025_upswitch,sck_cen,2025,1350522,,,Upswitch NBB-derived EBITDA,src_sck_jr2025_upswitch,medium,tick1955; YE2025 EBITDA 1350522 DROP vs 19811605 YE2024; ~1.4pct of omzet
+bud_sck_fte_jr2025_statutory,sck_cen,2025,883.6,,,CW social-balance FTE,src_sck_jr2025_cw,medium,tick1955; YE2025 FTE 883.6 vs 872.9 YE2024; Highlights headcount 999 distinct metric

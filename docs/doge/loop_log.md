@@ -22594,3 +22594,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vof_euridice); foi + draft gap_euridice_nbb_pdf_equity_debt_niras_sck_billing_l5; rq_1954=done + rq_1955 open; loop_state ticks=1954.
 - FOI opened: NBB PDF + equity/debt + NIRAS/SCK billing/staffing (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1960**). Next: rq_1955 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / unused water-DSO-IGS-HVZ).
+
+
+## Tick 1955 - 2026-08-23T14:00:00Z - rq_1955 SCK CEN (omzet DROP 99.27m / pnl LOSS 11.36m / assets 405.05m / Medium)
+
+- Unit: **rq_1955** leftover dual after EURIDICE. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (NBB YE2025 unpublished); AIESH still **YE2024** (filed 17.07.2025); REW still **YE2024**. Took leftover **SCK CEN** statutory YE2025 (KBO **0406.568.867**; Herrmann-Debrouxlaan 40 Oudergem / Mol Boeretang campus; SON nuclear R&D; **EURIDICE dual**). Do not redo EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92.
+- Primary hunt: NBB deposit PDF unresolved (consult SPA). **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0406568867/studiecentrum-voor-kernenergie) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/studiecentrum-voor-kernenergie-0406568867) + Strong KBO: omzet **EUR99,270,182** (**DROP -5.6%**); bruto **EUR156,483,763**; PnL **LOSS EUR-11,360,315**; operating **LOSS EUR-12,739,851**; assets **EUR405,049,418**; equity **EUR52,666,129** (**DROP**); EBITDA **EUR1,350,522**; FTE **883.6**; debt **Unknown**. Conflict: Highlights turnover **102.291m** / charges **291.538m** vs statutory framing.
+- Wrote: sources (+3); budgets (+8 statutory); commitments (+1); leaderboard (+1); entities (updated sck_cen); foi + draft gap_sck_nbb_pdf_debt_cash_euridice_billing_l5; rq_1955=done + rq_1956 open; loop_state ticks=1955.
+- FOI opened: NBB PDF + debt/cash + Highlights vs statutory + EURIDICE billing (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1960**). Next: rq_1956 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / unused water-DSO-IGS-HVZ).
