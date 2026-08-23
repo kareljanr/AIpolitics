@@ -52382,3 +52382,8 @@ bud_huize_sj_ieper_pnl_jr2025_statutory,vzw_huize_sint_jozef_ieper,2025,1129712,
 bud_huize_sj_ieper_equity_jr2025_statutory,vzw_huize_sint_jozef_ieper,2025,10622287,,,CW YE2025 Eigen vermogen / Equity,src_huize_sj_ieper_jr2025_cw_en,medium,tick2064; equity JUMP 10622287 +11.90pct vs YE2024 9492976
 bud_huize_sj_ieper_bruto_jr2025_statutory,vzw_huize_sint_jozef_ieper,2025,8398601,,,CW YE2025 Brutomarge / Gross margin,src_huize_sj_ieper_jr2025_cw_en,medium,tick2064; bruto DROP 8398601 -0.30pct vs YE2024 8424207
 bud_huize_sj_ieper_fte_jr2025_statutory,vzw_huize_sint_jozef_ieper,2025,95.2,,,CW social-balance FTE,src_huize_sj_ieper_jr2025_cw_en,medium,tick2064; YE2025 FTE 95.2
+bud_olv_bornem_omzet_jr2025_statutory,vzw_seniorencentrum_olv_bornem,2025,9031100,,,CW YE2025 omzet / Turnover,src_olv_bornem_jr2025_cw_en,medium,tick2065; omzet JUMP 9031100 +4.26pct vs YE2024 8661884
+bud_olv_bornem_pnl_jr2025_statutory,vzw_seniorencentrum_olv_bornem,2025,97560,,,CW YE2025 Profit/Loss,src_olv_bornem_jr2025_cw_en,medium,tick2065; pnl FLIP PROFIT 97560 vs YE2024 LOSS -92293
+bud_olv_bornem_equity_jr2025_statutory,vzw_seniorencentrum_olv_bornem,2025,8979861,,,CW YE2025 Equity,src_olv_bornem_jr2025_cw_en,medium,tick2065; equity JUMP 8979861 +0.36pct vs YE2024 8948073
+bud_olv_bornem_bruto_jr2025_statutory,vzw_seniorencentrum_olv_bornem,2025,8498187,,,CW YE2025 Brutomarge / Gross margin,src_olv_bornem_jr2025_cw_en,medium,tick2065; bruto JUMP 8498187 +8.05pct vs YE2024 7865391
+bud_olv_bornem_fte_jr2025_statutory,vzw_seniorencentrum_olv_bornem,2025,94.4,,,CW social-balance FTE,src_olv_bornem_jr2025_cw_en,medium,tick2065; YE2025 FTE 94.4
