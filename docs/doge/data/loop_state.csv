@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T14:45:00Z,rq_1887,1887,no,tick1887 leftover M@G/Meet@Genk 0417.442.567 Medium CW+Upswitch (bruto 0.39m pnl LOSS 0.24m equity NEG 0.61m assets 1.16m EBITDA NEG 0.39m FTE 8.6); NBB PDF+omzet+share%+fraud FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1888; next every-10 1890; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T15:15:00Z,rq_1888,1888,no,tick1888 leftover LRM Beheer 0440.550.442 Medium CW+Upswitch (omzet 0.15m bruto 0.13m pnl 97k assets 0.87m equity 0.77m); NBB PDF+fee matrix FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1889; next every-10 1890; continuous hole_fill

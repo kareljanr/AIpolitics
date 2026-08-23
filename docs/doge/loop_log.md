@@ -22007,3 +22007,12 @@ Append-only. Each tick adds a short entry.
 - FOI opened: NBB PDF + empty omzet / NEG equity / share % / fraud recovery (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1890**). Next: rq_1888 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS/IOED/Mijnen).
 
+
+## Tick 1888 - 2026-08-26T15:15:00Z - rq_1888 LRM Beheer NV (omzet 0.15m / assets 0.87m / Medium)
+
+- Unit: **rq_1888** leftover dual after M@G. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **LRM Beheer NV** (KBO **0440.550.442**; Kempische steenweg 311 Hasselt; aanbestedende overheid; LRM board/management shell on campus daughters).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0440550442/lrm-beheer) + [Upswitch NBB/CBSO](https://www.upswitch.app/nl/companies/be/lrm-beheer-0440550442) (neerlegging **19.06.2026**; YE **31.12.2025**): omzet **EUR146,800**; bruto **EUR133,422**; PnL **EUR97,477**; assets **EUR869,331**; equity **EUR770,425**; ops **EUR132,960**; FTE **0**.
+- Wrote: sources (+3); budgets (+5); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_lrm_beheer_nbb_pdf_fee_matrix_l5; rq_1888=done + rq_1889 open; loop_state ticks=1888.
+- FOI opened: NBB PDF + fee matrix / mandates (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1890**). Next: rq_1889 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS/IOED/Mijnen).
+

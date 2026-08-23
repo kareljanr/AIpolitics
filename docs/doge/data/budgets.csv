@@ -51387,3 +51387,8 @@ bud_mag_pnl_loss_jr2025,bv_mag,2025,243849,,,CW NBB-derived PnL LOSS abs,src_mag
 bud_mag_equity_neg_jr2025,bv_mag,2025,613801,,,CW/Upswitch NBB-derived equity NEG abs(10/15),src_mag_jr2025_cw,medium,tick1887; YE2025 equity -613801; alarmbel path
 bud_mag_assets_jr2025,bv_mag,2025,1163742,,,Upswitch NBB/CBSO total assets 20/58,src_mag_jr2025_upswitch,medium,tick1887; YE2025 assets 1163742 DROP vs 1403599
 bud_mag_ebitda_neg_jr2025,bv_mag,2025,385216,,,Upswitch NBB/CBSO EBITDA NEG abs,src_mag_jr2025_upswitch,medium,tick1887; YE2025 EBITDA -385216; ops -549299
+bud_lrm_beheer_omzet_jr2025,nv_lrm_beheer,2025,146800,,,CW NBB-derived code 70 omzet 146799.70,src_lrm_beheer_jr2025_cw,medium,tick1888; YE2025; not TE-additive board shell
+bud_lrm_beheer_bruto_jr2025,nv_lrm_beheer,2025,133422,,,CW NBB-derived brutomarge 9900,src_lrm_beheer_jr2025_cw,medium,tick1888; YE2025 bruto 133422
+bud_lrm_beheer_pnl_jr2025,nv_lrm_beheer,2025,97477,,,CW NBB-derived PnL 9904,src_lrm_beheer_jr2025_cw,medium,tick1888; YE2025 pnl 97477
+bud_lrm_beheer_assets_jr2025,nv_lrm_beheer,2025,869331,,,Upswitch NBB/CBSO total assets 20/58,src_lrm_beheer_jr2025_upswitch,medium,tick1888; YE2025 assets 869331 UP vs 722716
+bud_lrm_beheer_equity_jr2025,nv_lrm_beheer,2025,770425,,,CW/Upswitch NBB-derived 10/15,src_lrm_beheer_jr2025_cw,medium,tick1888; YE2025 equity 770425; kapitaal KBO 495787
