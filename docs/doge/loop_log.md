@@ -21636,3 +21636,11 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_perwez_eneco_electrabel_75_25_assets_drop_0_21m_omzet_empty_l5 (**ready**, human-send only)
 - NOT every-10 (next **1850**). Next: rq_1844 (Bois du Prince-if-200 / AGB / Dijk92 / FARO).
 
+## Tick 1844 - 2026-08-25T19:10:00Z - rq_1844 Electricite du Bois du Prince SA (dividend JUMP 6.90m vs PnL 0.38m / equity strip)
+
+- Unit: **rq_1844** leftover dual residual after Perwez; preferred AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2024. Took deferred live **Electricite du Bois du Prince SA** (Eneco **100%**; KBO **0883.789.764**; deposit **2025-00521540**). Meltemi/Bayamo deferred.
+- Primary (strong, NBB C-cap [2025-00521540](http://cdn.staatsbladmonitor.be/2025pdf/2025-00521540.pdf) CDN 200 / 44p 497402 bytes; AV **01.09.2025**; YE **01.04.2024-31.03.2025**; Deloitte/Bogaerts; board Eneco+REALFI): assets DROP **EUR9,887,515**; MVA net DROP **EUR1,052,226** (gross **44.06m**); omzet DROP **EUR3,096,653**; expl DROP **EUR511,097**; PnL DROP **EUR376,779**; dividend JUMP **EUR6,900,000** (~18× PnL); equity DROP **EUR249,860** (was **6,773,081**); connected ST recv **EUR7,979,590** / debt JUMP **EUR6,904,315**; cash **empty**; milieu **EUR2,591,999**; hors-bilan SPW garantie **EUR320,000** + performance bond **EUR880,000**; VTE empty.
+- Wrote: entities nv_bois_du_prince; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1844=done + rq_1845 spawned; loop_state ticks=1844; FOI draft gap_boisduprince_dividend_6_90m_pnl_0_38m_equity_strip_l5.md
+- FOI opened: gap_boisduprince_dividend_6_90m_pnl_0_38m_equity_strip_l5 (**ready**, human-send only)
+- NOT every-10 (next **1850**). Next: rq_1845 (Meltemi/Bayamo/Eneco-parent-if-200 / AGB / Dijk92 / FARO).
+
