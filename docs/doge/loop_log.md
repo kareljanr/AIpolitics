@@ -21481,3 +21481,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities cv_ecopower; sources (+2); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1824=done + rq_1825 spawned; loop_state ticks=1824; FOI draft gap_ecopower_omzet_71_91m_pnl_flip_5_40m_fva_10_12m_l5.md
 - FOI opened: gap_ecopower_omzet_71_91m_pnl_flip_5_40m_fva_10_12m_l5 (**ready**, human-send only)
 - NOT every-10 (next **1830**). Next: rq_1825 (AGB / Dijk92 / FARO / APEFE / other IGS).
+
+## Tick 1825 - 2026-08-25T11:35:00Z - rq_1825 Klimaan CVSO (opbr 0.76m / pers 0.28m / subs_recv 0.53m)
+
+- Unit: **rq_1825** leftover dual residual after Ecopower; preferred AGB Bornem still JR2024; Dijk92/APEFE CDN **403**; FARO NBB still YE2024 (2025-00569658). Took leftover **Klimaan CVSO** (Rivierenland/Mechelen citizen renewable + deelmobiliteit co-op; KBO **0727.378.650**).
+- Primary (strong, official JR2025 PDF [KLIMAAN-CVSO-Jaarverslag-2025](https://coop.klimaan.be/wp-content/uploads/sites/4/2026/04/KLIMAAN-CVSO-Jaarverslag-2025-2_compressed.pdf) 29p / 1.1MB; companyweb NBB filed **19.05.2026**): assets **EUR4,322,880**; MVA **EUR2,903,662**; FVA **EUR382,450** (Seacoop **315,000**); opbr **EUR756,854** (PV **193,185** / deelmob **267,197** / overige sub **151,263** / ZEV **20,000**); pers **EUR283,323**; VTE **4.2**; PnL **EUR40,247**; debt **EUR1,835,660** (LT fin **710,753**); cash JUMP **EUR224,002**; equity **EUR2,486,562**; kapitaal JUMP **EUR2,289,300**; kapsubs **EUR144,183**; subs_recv JUMP **EUR533,449**; vooruit **EUR814,701** (Averegten + EU SHINE/INNO-TREC); dividend proposal **2.5% / EUR51,189** + gift **EUR1,800**.
+- Wrote: entities cv_klimaan; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1825=done + rq_1826 spawned; loop_state ticks=1825; FOI draft gap_klimaan_opbr_0_76m_pers_0_28m_subs_recv_0_53m_l5.md
+- FOI opened: gap_klimaan_opbr_0_76m_pers_0_28m_subs_recv_0_53m_l5 (**ready**, human-send only)
+- NOT every-10 (next **1830**). Next: rq_1826 (AGB / Dijk92 / FARO YE2025 / APEFE / other IGS).
