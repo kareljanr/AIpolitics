@@ -23251,3 +23251,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_zilverbos_zelzate); foi + draft gap_wzc_zilverbos_zelzate_nbb_pdf_assets_debt_pnl_recovery_matrix_l5; rq_2026=done + rq_2027 open; loop_state ticks=2026; raw under docs/doge/data/raw/tick2026/.
 - FOI: **ready not sent** (human-gated; info@wzczilverbos.be).
 - NOT every-10 (**next every-10 is 2030**). Next: rq_2027 (AGB/FARO-if-YE2025 / AIESH-REW / Sint-Carolus Ternat / unused DSO-IGS-HVZ).
+
+
+## Tick 2027 - 2026-08-24T11:25:00Z - rq_2027 WZC Sint-Carolus Ternat (omzet JUMP 10.16m / pnl JUMP 0.85m / Medium)
+
+- Unit: **rq_2027** leftover dual after **rq_2026 WZC Zilverbos**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **WZC Sint-Carolus Ternat** YE2025 (KBO **0409.970.203**; Meersstraat 1 Ternat; Vlaams-Brabant **WZC VZW** / Solidum Groep). Distinct from Mortsel Sint Carolus Mayerhof. Do not redo Zilverbos/Sint Carolus Mayerhof/Evara/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara Herselt/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR10,159,951** JUMP +5.13%; pnl **EUR849,928** JUMP +58.91%; equity **EUR9,301,970** JUMP +10.02%; bruto **EUR9,564,169** JUMP +4.55%; FTE **106.3**; neerlegging **02.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email wzc@sintcarolus.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_sint_carolus_ternat); foi + draft gap_wzc_sint_carolus_ternat_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2027=done + rq_2028 open; loop_state ticks=2027; raw under docs/doge/data/raw/tick2027/.
+- FOI: **ready not sent** (human-gated; wzc@sintcarolus.be).
+- NOT every-10 (**next every-10 is 2030**). Next: rq_2028 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-hospital-psych-WZC).

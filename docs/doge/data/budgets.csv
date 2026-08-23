@@ -52190,3 +52190,8 @@ bud_wzc_zilverbos_zelzate_pnl_jr2025_statutory,vzw_wzc_zilverbos_zelzate,2025,11
 bud_wzc_zilverbos_zelzate_equity_jr2025_statutory,vzw_wzc_zilverbos_zelzate,2025,6050428,,,CW YE2025 Eigen vermogen,src_wzc_zilverbos_zelzate_jr2025_cw,medium,tick2026; equity DROP 6050428 -2.59pct vs YE2024 6211024
 bud_wzc_zilverbos_zelzate_bruto_jr2025_statutory,vzw_wzc_zilverbos_zelzate,2025,7364283,,,CW YE2025 Brutomarge,src_wzc_zilverbos_zelzate_jr2025_cw,medium,tick2026; bruto JUMP 7364283 +8.53pct vs YE2024 6785295
 bud_wzc_zilverbos_zelzate_fte_jr2025_statutory,vzw_wzc_zilverbos_zelzate,2025,101.4,,,CW social-balance FTE,src_wzc_zilverbos_zelzate_jr2025_cw,medium,tick2026; YE2025 FTE 101.4
+bud_wzc_sint_carolus_ternat_omzet_jr2025_statutory,vzw_wzc_sint_carolus_ternat,2025,10159951,,,CW YE2025 omzet / Turnover,src_wzc_sint_carolus_ternat_jr2025_cw,medium,tick2027; omzet JUMP 10159951 +5.13pct vs YE2024 9664479
+bud_wzc_sint_carolus_ternat_pnl_jr2025_statutory,vzw_wzc_sint_carolus_ternat,2025,849928,,,CW YE2025 Profit/Loss,src_wzc_sint_carolus_ternat_jr2025_cw,medium,tick2027; pnl JUMP 849928 +58.91pct vs YE2024 534849
+bud_wzc_sint_carolus_ternat_equity_jr2025_statutory,vzw_wzc_sint_carolus_ternat,2025,9301970,,,CW YE2025 Eigen vermogen,src_wzc_sint_carolus_ternat_jr2025_cw,medium,tick2027; equity JUMP 9301970 +10.02pct vs YE2024 8454658
+bud_wzc_sint_carolus_ternat_bruto_jr2025_statutory,vzw_wzc_sint_carolus_ternat,2025,9564169,,,CW YE2025 Brutomarge,src_wzc_sint_carolus_ternat_jr2025_cw,medium,tick2027; bruto JUMP 9564169 +4.55pct vs YE2024 9148221
+bud_wzc_sint_carolus_ternat_fte_jr2025_statutory,vzw_wzc_sint_carolus_ternat,2025,106.3,,,CW social-balance FTE,src_wzc_sint_carolus_ternat_jr2025_cw,medium,tick2027; YE2025 FTE 106.3 vs YE2024 108.6
