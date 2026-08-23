@@ -50846,3 +50846,6 @@ bud_spsfin_prov_onderhoud_2025,nv_sps_fin,2025,211630,,,realized,src_spsfin_jr20
 bud_spsfin_gage_2025,nv_sps_fin,2025,1871080,,,realized,src_spsfin_jr2025_nbb,strong,Gage overige leningen 1871080; tick1802
 bud_spsfin_hypotheek_inschrijving_2025,nv_sps_fin,2025,11635562,,,realized,src_spsfin_jr2025_nbb,strong,Hypotheek inschrijving 11635562 on MVA 4195075; tick1802
 bud_spsfin_commissaris_2025,nv_sps_fin,2025,6115,,,realized,src_spsfin_jr2025_nbb,strong,Bezoldiging commissaris BDO 6115; tick1802
+bud_stormw_zefier_shares_2025,nv_storm_wielsbeke,2025,210531,,,realized,src_stormw_zefier_balans_2025,strong,Zefier aandelen Storm Wielsbeke 210531.21 YE2025; tick1803 primary
+bud_stormw_zefier_subord_loan_2025,nv_storm_wielsbeke,2025,233081,,,realized,src_stormw_zefier_balans_2025,strong,Zefier achtergestelde lening Storm Wielsbeke 233080.63 YE2025; tick1803 primary
+bud_stormw_zefier_sector_div_recv_2025,nv_storm_wielsbeke,2025,50000,,,realized,src_stormw_zefier_sector_2025,strong,Zefier sector SWI ontvangen dividend totaal 50000 boekjaar 2025; tick1803 primary
