@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T05:40:00Z,rq_2006,2006,no,tick2006 leftover AZ Alma 0463.862.908 Medium CW (omzet JUMP 191.40m pnl JUMP 2.64m equity DROP 105.26m bruto JUMP 99.17m FTE 1125.4; assets/debt Unknown); AGB Bornem JR2024; FARO YE2024; Maria Middelares/Imelda CW N/A; next rq_2007; next every-10 2010; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T05:55:00Z,rq_2007,2007,no,tick2007 leftover Werken Glorieux / AZ Glorieux 0424.380.938 Medium CW (omzet JUMP 164.36m pnl DROP 1.55m equity JUMP 72.76m bruto JUMP 91.54m FTE 1053.9; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH YE2024; Imelda CW N/A; next rq_2008; next every-10 2010; continuous hole_fill

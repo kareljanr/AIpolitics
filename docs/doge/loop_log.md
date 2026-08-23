@@ -23062,3 +23062,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_az_alma); foi + draft gap_az_alma_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2006=done + rq_2007 open; loop_state ticks=2006; raw under docs/doge/data/raw/tick2006/.
 - FOI: **ready not sent** (human-gated; info@azalma.be).
 - NOT every-10 (**next every-10 is 2010**). Next: rq_2007 (AGB/FARO-if-YE2025 / AIESH-REW / AZ Maria Middelares-Glorieux-Oostende / unused DSO-IGS-HVZ).
+
+
+## Tick 2007 - 2026-08-24T05:55:00Z - rq_2007 Werken Glorieux / AZ Glorieux (omzet JUMP 164.36m / pnl DROP 1.55m / Medium)
+
+- Unit: **rq_2007** leftover dual after **rq_2006 AZ Alma**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH still **YE2024**. Imelda CW **N/A omzet**; Erasme/UZB CW opaque. Took preferred leftover **Werken Glorieux / AZ Glorieux** YE2025 (KBO **0424.380.938**; Stefaan Modest Glorieuxlaan 55 Ronse; Oost-Vlaanderen **hospital VZW**). Do not redo AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS/CHR Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR164,361,670** JUMP +0.99%; pnl **EUR1,546,006** DROP −18.98%; equity **EUR72,761,817** JUMP +1.66%; bruto **EUR91,539,005** JUMP +1.91%; FTE **1053.9**; neerlegging **11.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 5 VE; email info@azglorieux.be (no KBO email).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_werken_glorieux); foi + draft gap_werken_glorieux_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2007=done + rq_2008 open; loop_state ticks=2007; raw under docs/doge/data/raw/tick2007/.
+- FOI: **ready not sent** (human-gated; info@azglorieux.be).
+- NOT every-10 (**next every-10 is 2010**). Next: rq_2008 (AGB/FARO-if-YE2025 / AIESH-REW / AZ Damiaan-Maria Middelares / unused DSO-IGS-HVZ).

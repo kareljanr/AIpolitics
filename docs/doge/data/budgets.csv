@@ -52090,3 +52090,8 @@ bud_az_alma_pnl_jr2025_statutory,vzw_az_alma,2025,2635911,,,CW YE2025 Profit/Los
 bud_az_alma_equity_jr2025_statutory,vzw_az_alma,2025,105261488,,,CW YE2025 Eigen vermogen,src_az_alma_jr2025_cw,medium,tick2006; equity DROP 105261488 -1.20pct vs YE2024 106540679
 bud_az_alma_bruto_jr2025_statutory,vzw_az_alma,2025,99167846,,,CW YE2025 Brutomarge,src_az_alma_jr2025_cw,medium,tick2006; bruto JUMP 99167846 +3.85pct vs YE2024 95492173
 bud_az_alma_fte_jr2025_statutory,vzw_az_alma,2025,1125.4,,,CW social-balance FTE,src_az_alma_jr2025_cw,medium,tick2006; YE2025 FTE 1125.4
+bud_werken_glorieux_omzet_jr2025_statutory,vzw_werken_glorieux,2025,164361670,,,CW YE2025 omzet / Turnover,src_werken_glorieux_jr2025_cw,medium,tick2007; omzet JUMP 164361670 +0.99pct vs YE2024 162755812
+bud_werken_glorieux_pnl_jr2025_statutory,vzw_werken_glorieux,2025,1546006,,,CW YE2025 Profit/Loss,src_werken_glorieux_jr2025_cw,medium,tick2007; pnl DROP 1546006 -18.98pct vs YE2024 1908140
+bud_werken_glorieux_equity_jr2025_statutory,vzw_werken_glorieux,2025,72761817,,,CW YE2025 Eigen vermogen,src_werken_glorieux_jr2025_cw,medium,tick2007; equity JUMP 72761817 +1.66pct vs YE2024 71576247
+bud_werken_glorieux_bruto_jr2025_statutory,vzw_werken_glorieux,2025,91539005,,,CW YE2025 Brutomarge,src_werken_glorieux_jr2025_cw,medium,tick2007; bruto JUMP 91539005 +1.91pct vs YE2024 89819802
+bud_werken_glorieux_fte_jr2025_statutory,vzw_werken_glorieux,2025,1053.9,,,CW social-balance FTE,src_werken_glorieux_jr2025_cw,medium,tick2007; YE2025 FTE 1053.9
