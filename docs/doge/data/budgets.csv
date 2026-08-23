@@ -52457,3 +52457,8 @@ bud_vander_stokken_pnl_jr2025_statutory,vzw_wzc_vander_stokken_pepingen,2025,109
 bud_vander_stokken_equity_jr2025_statutory,vzw_wzc_vander_stokken_pepingen,2025,2594672,2594672,2594672,CW YE2025 Eigen vermogen / Equity,src_vander_stokken_jr2025_cw_en,medium,tick2079; JUMP +72.71% vs YE2024 1502322 (~retained earnings of pnl)
 bud_vander_stokken_bruto_jr2025_statutory,vzw_wzc_vander_stokken_pepingen,2025,9211921,9211921,9211921,CW YE2025 Brutomarge / Gross margin,src_vander_stokken_jr2025_cw_en,medium,tick2079; JUMP +3.29% vs YE2024 8918218
 bud_vander_stokken_fte_jr2025_statutory,vzw_wzc_vander_stokken_pepingen,2025,97.7,97.7,97.7,CW social-balance FTE,src_vander_stokken_jr2025_cw_en,medium,tick2079; FTE DROP 97.7 (-1.21%) vs YE2024 98.9
+bud_den_akker_omzet_jr2025_statutory,vzw_wzc_den_akker_sint_truiden,2025,6588728,6588728,6588728,CW YE2025 omzet / Turnover,src_den_akker_jr2025_cw_en,medium,tick2080; JUMP +2.59% vs YE2024 6422387
+bud_den_akker_pnl_jr2025_statutory,vzw_wzc_den_akker_sint_truiden,2025,174886,174886,174886,CW YE2025 Profit/Loss,src_den_akker_jr2025_cw_en,medium,tick2080; DROP vs YE2024 529091 (DROP -66.94%)
+bud_den_akker_equity_jr2025_statutory,vzw_wzc_den_akker_sint_truiden,2025,9322582,9322582,9322582,CW YE2025 Eigen vermogen / Equity,src_den_akker_jr2025_cw_en,medium,tick2080; DROP -0.47% vs YE2024 9366576
+bud_den_akker_bruto_jr2025_statutory,vzw_wzc_den_akker_sint_truiden,2025,6780608,6780608,6780608,CW YE2025 Brutomarge / Gross margin,src_den_akker_jr2025_cw_en,medium,tick2080; JUMP +2.95% vs YE2024 6586032
+bud_den_akker_fte_jr2025_statutory,vzw_wzc_den_akker_sint_truiden,2025,89.6,89.6,89.6,CW social-balance FTE / Employees,src_den_akker_jr2025_cw_en,medium,tick2080; FTE JUMP 89.6 (+5.04%) vs YE2024 85.3
