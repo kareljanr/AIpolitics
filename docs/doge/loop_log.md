@@ -22870,3 +22870,13 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated; route via chwapi.be).
 - NOT every-10 (**next every-10 is 1990**). Next: rq_1985 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-hospital).
 
+
+
+## Tick 1985 — 2026-08-23T23:55:00Z — rq_1985 Epicura YE2025 (omzet JUMP 370.88m / pnl LOSS 2.32m / Medium)
+
+- Unit: **rq_1985** leftover dual after **rq_1984 CHwapi**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took unused leftover **Epicura** YE2025 (KBO **0842.335.231**; Rue Louis Caty 136 Saint-Ghislain; Hainaut **hospital ASBL**). **ISoSL** YE2025 also live deferred. Do not redo CHwapi/IDETA/SPI/Vivalia/HELORA/CISCH/LOGIPOLE/IDELUX*/IFIGA/SOFILUX/IDEFIN/FINIMO/FINEST/HYGEA/BEP*/IBH/SWDE.
+- Found: Companyweb NL+EN YE2025 — omzet **EUR370,875,883** JUMP +2.35%; pnl **NEG EUR-2,318,017** LOSS turnaround; equity **EUR66,288,513** DROP -3.37%; bruto **EUR193,877,413** JUMP +0.18%; FTE **2511**; neerlegging **10.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief ASBL 15 VE; no KBO email.
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_epicura); foi + draft gap_epicura_nbb_pdf_assets_debt_pnl_loss_matrix_l5; rq_1985=done + rq_1986 open; loop_state ticks=1985.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1990**). Next: rq_1986 (AGB/FARO-if-YE2025 / AIESH-REW / ISoSL / unused DSO-IGS-HVZ).
+
