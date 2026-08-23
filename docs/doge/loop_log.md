@@ -21384,3 +21384,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities nv_lumika; sources (+3); budgets (+9); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1812=done + rq_1813 spawned; loop_state ticks=1812; FOI draft gap_lumika_omzet_1_01m_loss_0_38m_cash_drop_10_55m_l5.md
 - FOI opened: gap_lumika_omzet_1_01m_loss_0_38m_cash_drop_10_55m_l5 (**ready**, human-send only)
 - NOT every-10 (next **1820**). Next: rq_1813 (Storm Olen-if-200 / AGB / Dijk92 / FARO / IGS).
+
+## Tick 1813 - 2026-08-25T07:25:00Z - rq_1813 Storm Olen NV (bruto 0.29m / debt 12.10m)
+
+- Unit: **rq_1813** leftover dual residual after LumIKA; took deferred live **Storm Olen NV** (IKA–Storm dual; KBO **0754.810.052**). Preferred AGB Bornem still JR2024; Dijk92/NSZ/APEFE CDN **403**; FARO NBB YE2025 unpublished.
+- Primary (strong, NBB VKT-kap [2026-00117861](http://cdn.staatsbladmonitor.be/2026pdf/2026-00117861.pdf) CDN 200 / 26p; AV **30.04.2026**): assets **EUR14,945,362**; MVA **EUR12,498,634**; IVA **EUR1,023,585**; bruto **EUR294,145** (omzet **70 empty**); expl **EUR292,268**; fin kosten **EUR205,260**; PnL **EUR87,008**; debt **EUR12,103,483** (LT **11,302,471**; gewaarborgd **8,347,864**); cash DROP **EUR1,305,871** (was **2,218,291**); equity **EUR2,841,879**; VTE **0**; dividend **0**; commissaris **EUR3,773**. IKA FVA book stake **EUR672,851**. IKA + Storm Management bestuurders.
+- Wrote: entities nv_storm_olen; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1813=done + rq_1814 spawned; loop_state ticks=1813; FOI draft gap_stormolen_bruto_0_29m_omzet_empty_debt_12_10m_l5.md
+- FOI opened: gap_stormolen_bruto_0_29m_omzet_empty_debt_12_10m_l5 (**ready**, human-send only)
+- NOT every-10 (next **1820**). Next: rq_1814 (Pampero-if-200 / AGB / Dijk92 / FARO / other Storm / IGS).

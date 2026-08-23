@@ -50872,3 +50872,13 @@ bud_lumika_debt_11_76m_2025,nv_lumika,2025,11759489,,,NBB VKT-kap YE2025,src_lum
 bud_lumika_cash_26k_2025,nv_lumika,2025,26111,,,NBB VKT-kap YE2025,src_lumika_jr2025_nbb,strong,tick1812; cash DROP from 10575461; not TE-additive of 348bn
 bud_lumika_afschr_0_60m_2025,nv_lumika,2025,598788,,,NBB VKT-kap YE2025,src_lumika_jr2025_nbb,strong,tick1812; afschrijvingen 630; not TE-additive of 348bn
 bud_lumika_equity_4_14m_2025,nv_lumika,2025,4142659,,,NBB VKT-kap YE2025,src_lumika_jr2025_nbb,strong,tick1812; equity 10/15; not TE-additive of 348bn
+bud_stormolen_assets_14_95m_2025,nv_storm_olen,2025,14945362,,,NBB VKT-kap YE2025,src_stormolen_jr2025_nbb,strong,tick1813; assets YE2025; not TE-additive of 348bn
+bud_stormolen_mva_12_50m_2025,nv_storm_olen,2025,12498634,,,NBB VKT-kap YE2025,src_stormolen_jr2025_nbb,strong,tick1813; MVA YE2025; not TE-additive of 348bn
+bud_stormolen_bruto_0_29m_2025,nv_storm_olen,2025,294145,,,NBB VKT-kap YE2025,src_stormolen_jr2025_nbb,strong,tick1813; brutomarge 9900; omzet 70 empty; not TE-additive of 348bn
+bud_stormolen_pnl_0_09m_2025,nv_storm_olen,2025,87008,,,NBB VKT-kap YE2025,src_stormolen_jr2025_nbb,strong,tick1813; PnL 9904; not TE-additive of 348bn
+bud_stormolen_debt_12_10m_2025,nv_storm_olen,2025,12103483,,,NBB VKT-kap YE2025,src_stormolen_jr2025_nbb,strong,tick1813; schulden 17/49; not TE-additive of 348bn
+bud_stormolen_lt_debt_11_30m_2025,nv_storm_olen,2025,11302471,,,NBB VKT-kap YE2025,src_stormolen_jr2025_nbb,strong,tick1813; LT schulden 17; not TE-additive of 348bn
+bud_stormolen_cash_1_31m_2025,nv_storm_olen,2025,1305871,,,NBB VKT-kap YE2025,src_stormolen_jr2025_nbb,strong,tick1813; cash DROP from 2218291; not TE-additive of 348bn
+bud_stormolen_equity_2_84m_2025,nv_storm_olen,2025,2841879,,,NBB VKT-kap YE2025,src_stormolen_jr2025_nbb,strong,tick1813; equity 10/15; not TE-additive of 348bn
+bud_stormolen_expl_0_29m_2025,nv_storm_olen,2025,292268,,,NBB VKT-kap YE2025,src_stormolen_jr2025_nbb,strong,tick1813; bedrijfswinst 9901; not TE-additive of 348bn
+bud_stormolen_fin_cost_0_21m_2025,nv_storm_olen,2025,205260,,,NBB VKT-kap YE2025,src_stormolen_jr2025_nbb,strong,tick1813; financiële kosten 65; not TE-additive of 348bn

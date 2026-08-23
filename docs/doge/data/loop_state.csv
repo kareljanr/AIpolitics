@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-25T07:05:00Z,rq_1812,1812,no,tick1812 leftover LumIKA NBB YE2025 omzet 1010102 / loss 383694 / cash DROP 10575461→26111; KBO 0794.547.784; IKA-Luminus dual; FOI ownership+cash; Storm Olen 2026-00117861 deferred; AGB Bornem JR2024; Dijk92/NSZ/APEFE 403; NOT every-10 (next 1820); next rq_1813; continuous hole_fill
+main,continuous,hole_fill,2026-08-25T07:25:00Z,rq_1813,1813,no,tick1813 leftover Storm Olen NBB YE2025 bruto 294145 / debt 12103483 / omzet empty / VTE 0; KBO 0754.810.052; IKA-Storm dual; FOI empty omzet+debt; Pampero YE Mar2025 deferred; AGB Bornem JR2024; Dijk92/NSZ/APEFE 403; NOT every-10 (next 1820); next rq_1814; continuous hole_fill
