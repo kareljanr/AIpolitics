@@ -51549,3 +51549,10 @@ bud_elicio_assets_jr2025,nv_elicio,2025,299896569,,,Upswitch NBB/CBSO 20/58,src_
 bud_elicio_equity_jr2025,nv_elicio,2025,271061332,,,CW/Upswitch NBB-derived 10/15,src_elicio_jr2025_cw,medium,tick1917; YE2025 equity 271061332 JUMP +2.96pct
 bud_elicio_ebitda_jr2025,nv_elicio,2025,-6426714,,,Upswitch NBB/CBSO EBITDA,src_elicio_jr2025_upswitch,medium,tick1917; YE2025 EBITDA NEG -6426714; expl NEG -6804803
 bud_elicio_fte_jr2025,nv_elicio,2025,50,,,CW NBB-derived FTE 50,src_elicio_jr2025_cw,medium,tick1917; YE2025 FTE 50 (was 45.2)
+bud_aspiravi_omzet_jr2025,nv_aspiravi,2025,79472526,,,CW/Upswitch NBB-derived code 70,src_aspiravi_jr2025_cw,medium,tick1918; YE2025 omzet 79472526 flat -0.01pct
+bud_aspiravi_bruto_jr2025,nv_aspiravi,2025,50329814,,,CW NBB-derived 9900,src_aspiravi_jr2025_cw,medium,tick1918; YE2025 bruto 50329814 DROP -1.35pct
+bud_aspiravi_pnl_jr2025,nv_aspiravi,2025,29574282,,,CW NBB-derived 9904,src_aspiravi_jr2025_cw,medium,tick1918; YE2025 pnl 29574282 DROP -45.39pct
+bud_aspiravi_assets_jr2025,nv_aspiravi,2025,333026511,,,Upswitch NBB/CBSO 20/58,src_aspiravi_jr2025_upswitch,medium,tick1918; YE2025 assets 333026511 JUMP vs 315.2m
+bud_aspiravi_equity_jr2025,nv_aspiravi,2025,108523225,,,CW/Upswitch NBB-derived 10/15,src_aspiravi_jr2025_cw,medium,tick1918; YE2025 equity 108523225 flat +0.01pct
+bud_aspiravi_ebitda_jr2025,nv_aspiravi,2025,47528692,,,Upswitch NBB/CBSO EBITDA,src_aspiravi_jr2025_upswitch,medium,tick1918; YE2025 EBITDA 47528692 ~59.8pct omzet
+bud_aspiravi_fte_jr2025,nv_aspiravi,2025,49,,,CW NBB-derived FTE 48.7,src_aspiravi_jr2025_cw,medium,tick1918; YE2025 FTE 48.7 (stored 49)
