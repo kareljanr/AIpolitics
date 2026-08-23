@@ -51319,3 +51319,9 @@ bud_bctien_equity_1_40m_jr2025,nv_bctien,2025,1395509,,,CW NBB-derived 10/15 eig
 bud_bctien_assets_1_42m_jr2025,nv_bctien,2025,1422479,,,Pappers NBB-derived 20/58 total assets,src_bctien_jr2025_pappers,medium,tick1873; DROP vs prior 1.44m; not TE-additive
 bud_bctien_cash_0_15m_jr2025,nv_bctien,2025,146141,,,Pappers NBB-derived cash (ratios YE2025),src_bctien_jr2025_pappers,medium,tick1873; net findebt negative (cash>debt); not TE-additive
 bud_bctien_capital_0_83m_jr2025,nv_bctien,2025,826000,,,KBO maatschappelijk kapitaal,src_kbo_bctien_0432419961,strong,tick1873; statutory capital; not TE-additive
+bud_hangark_bruto_0_41m_jr2025,vzw_hangark,2025,413764,,,CW NBB-derived 9900 brutomarge YE31122025,src_hangark_jr2025_cw,medium,tick1874; flat vs prior 0.41m; omzet 70 empty; not TE-additive
+bud_hangark_pnl_0_005m_jr2025,vzw_hangark,2025,4585,,,CW NBB-derived 9904 winst boekjaar,src_hangark_jr2025_cw,medium,tick1874; DROP vs prior 6.6k; not TE-additive
+bud_hangark_equity_0_03m_jr2025,vzw_hangark,2025,30522,,,CW NBB-derived 10/15 eigen vermogen,src_hangark_jr2025_cw,medium,tick1874; thin equity vs assets 1.07m; not TE-additive
+bud_hangark_assets_1_07m_jr2025,vzw_hangark,2025,1068375,,,Pappers NBB-derived 20/58 total assets,src_hangark_jr2025_pappers,medium,tick1874; JUMP vs prior 0.97m; not TE-additive
+bud_hangark_cash_0_11m_jr2025,vzw_hangark,2025,114036,,,Pappers NBB-derived cash YE2025,src_hangark_jr2025_pappers,medium,tick1874; not TE-additive
+bud_hangark_findebt_0_37m_jr2025,vzw_hangark,2025,366546,,,Pappers NBB-derived financial debt,src_hangark_jr2025_pappers,medium,tick1874; ST payables ~0.66m also; not TE-additive

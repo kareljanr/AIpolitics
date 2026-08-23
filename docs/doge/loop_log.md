@@ -21892,3 +21892,12 @@ Append-only. Each tick adds a short entry.
 - FOI opened: NBB PDF + omzet-empty / share % (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1880**). Next: rq_1874 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Westhoek-if-PDF / other HVZ-IGS).
 
+
+## Tick 1874 - 2026-08-26T08:15:00Z - rq_1874 Hangar K VZW (bruto 0.41m / thin equity 30k / Medium)
+
+- Unit: **rq_1874** leftover dual after BC Tienen. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2024; Technology Space (ex BC Zaventem) YE2025 but privatized board (JK Invest/LD) — skip. Took leftover **Hangar K VZW** (KBO **0685.433.672**; Nelson Mandelaplein Kortrijk; digital/creative incubator; statutes Stad Kortrijk region).
+- Primary hunt: NBB CDN unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0685433672/hangar-k) + [Pappers](https://www.pappers.be/nl/company/hangar-k-0685433672) (neerlegging **22.05.2026**; YE **31.12.2025**): bruto **EUR413,764**; PnL **EUR4,585**; equity **EUR30,522** thin; assets **EUR1,068,375**; cash **EUR114,036**; fin debt **EUR366,546**; ST **EUR662,672**; VTE **3.9**; omzet **70 empty**.
+- Wrote: sources (+4); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_hangark_nbb_pdf_omzet_empty_equity_thin_l5; rq_1874=done + rq_1875 open; loop_state ticks=1874.
+- FOI opened: NBB PDF + omzet/subsidy + continuity thin equity (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1880**). Next: rq_1875 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Westhoek-if-PDF / other HVZ-IGS).
+
