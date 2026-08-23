@@ -52417,3 +52417,8 @@ bud_msw_nzvl_pnl_jr2025_statutory,vzw_msw_nzvl,2025,-304338,,,CW YE2025 Profit/L
 bud_msw_nzvl_equity_jr2025_statutory,vzw_msw_nzvl,2025,3081864,,,CW YE2025 Eigen vermogen / Equity,src_msw_nzvl_jr2025_cw_en,medium,tick2071; equity DROP 3081864 -8.99pct vs YE2024 3386202
 bud_msw_nzvl_bruto_jr2025_statutory,vzw_msw_nzvl,2025,-12115,,,CW YE2025 Brutomarge / Gross margin,src_msw_nzvl_jr2025_cw_en,medium,tick2071; bruto FLIP -12115 -103.97pct vs YE2024 305484
 bud_msw_nzvl_fte_jr2025_statutory,vzw_msw_nzvl,2025,0,,,CW social-balance FTE,src_msw_nzvl_jr2025_cw_en,medium,tick2071; YE2025 FTE 0 (CW Employees=0 FTE)
+bud_maria_moorslede_omzet_jr2025_statutory,vzw_wzc_maria_rustoord_moorslede,2025,6022436,,,CW YE2025 omzet / Turnover,src_maria_moorslede_jr2025_cw_en,medium,tick2072; omzet JUMP 6022436 +2.44pct vs YE2024 5878939
+bud_maria_moorslede_pnl_jr2025_statutory,vzw_wzc_maria_rustoord_moorslede,2025,573226,,,CW YE2025 Profit/Loss,src_maria_moorslede_jr2025_cw_en,medium,tick2072; pnl JUMP 573226 +69.23pct vs YE2024 338717
+bud_maria_moorslede_equity_jr2025_statutory,vzw_wzc_maria_rustoord_moorslede,2025,5409227,,,CW YE2025 Eigen vermogen / Equity,src_maria_moorslede_jr2025_cw_en,medium,tick2072; equity JUMP 5409227 +8.37pct vs YE2024 4991342
+bud_maria_moorslede_bruto_jr2025_statutory,vzw_wzc_maria_rustoord_moorslede,2025,6333433,,,CW YE2025 Brutomarge / Gross margin,src_maria_moorslede_jr2025_cw_en,medium,tick2072; bruto JUMP 6333433 +5.22pct vs YE2024 6019016
+bud_maria_moorslede_fte_jr2025_statutory,vzw_wzc_maria_rustoord_moorslede,2025,76.8,,,CW social-balance FTE,src_maria_moorslede_jr2025_cw_en,medium,tick2072; YE2025 FTE 76.8

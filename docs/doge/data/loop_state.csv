@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T22:50:00Z,rq_2071,2071,no,tick2071 leftover MSW NZVL 0419.384.646 Medium CW (omzet JUMP 0.44m pnl FLIP LOSS 0.30m equity DROP 3.08m bruto FLIP -12k FTE 0; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2072; next every-10 2080; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T23:05:00Z,rq_2072,2072,no,tick2072 leftover Maria Moorslede 0411.600.692 Medium CW (omzet JUMP 6.02m pnl JUMP 0.57m equity JUMP 5.41m bruto JUMP 6.33m FTE 76.8; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2073; next every-10 2080; continuous hole_fill

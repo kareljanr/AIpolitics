@@ -23690,3 +23690,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.2); entities (+1 vzw_msw_nzvl); foi + draft gap_msw_nzvl_nbb_pdf_assets_debt_pnl_flip_loss_matrix_l5; rq_2071=done + rq_2072 open; loop_state ticks=2071; raw under docs/doge/data/raw/tick2071/.
 - FOI: **ready not sent** (human-gated; info@nzvl.be).
 - NOT every-10 (**next every-10 is 2080**). Next: rq_2072 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2072 - 2026-08-24T23:05:00Z - rq_2072 Maria Moorslede (omzet JUMP 6.02m / pnl JUMP 0.57m / Medium)
+
+- Unit: **rq_2072** leftover dual after **rq_2071 MSW NZVL**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **WZC Maria's Rustoord Moorslede** YE2025 (KBO **0411.600.692**; Beselarestraat 15 Moorslede-Dadizele; West-Vlaanderen **VZW** WZC / **1 VE**). DISTINCT from Maria Rustoord Ingelmunster. Mater Amabilis Wervik / Heilig Hart Grimbergen YE2025 also live - deferred. Do not redo MSW NZVL/Welvaart/Vulpia/Compostela/Leiehome/Zusters SV Deinze/OLV Bornem/Huize Sint-Jozef Ieper/Sint-Antonius/OLV Wezembeek/Ter Burg/Christine/Vrijzicht/'t Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/Armonea/Always Home/Maria Ingelmunster.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR6,022,436** JUMP +2.44%; pnl **EUR573,226** JUMP +69.23% vs YE2024 EUR338,717; equity **EUR5,409,227** JUMP +8.37%; bruto **EUR6,333,433** JUMP +5.22%; FTE **76.8**; neerlegging **01.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@mariasrustoord.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.8); entities (+1 vzw_wzc_maria_rustoord_moorslede); foi + draft gap_maria_moorslede_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2072=done + rq_2073 open; loop_state ticks=2072; raw under docs/doge/data/raw/tick2072/.
+- FOI: **ready not sent** (human-gated; info@mariasrustoord.be).
+- NOT every-10 (**next every-10 is 2080**). Next: rq_2073 (AGB/FARO-if-YE2025 / AIESH-REW / Mater-Amabilis-HH-Grimbergen deferred / unused DSO-IGS-HVZ-WZC-psych).
