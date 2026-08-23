@@ -23753,3 +23753,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_wzc_ten_anker_nieuwpoort); foi + draft gap_ten_anker_nbb_pdf_assets_debt_pnl_jump_fte_drop_matrix_l5; rq_2078=done + rq_2079 open; loop_state ticks=2078; raw under docs/doge/data/raw/tick2078/.
 - FOI: **ready not sent** (human-gated; info@tenanker.be).
 - NOT every-10 (**next every-10 is 2080**). Next: rq_2079 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2079 - 2026-08-25T00:50:00Z - rq_2079 WZC H. Vander Stokken Pepingen (omzet JUMP 8.87m / equity JUMP +72.71pct / Medium)
+
+- Unit: **rq_2079** leftover dual after **rq_2078 Ten Anker** (already on main; this fire found rq_2078 done). Prefer NON-stall live: AGB Bornem still **JR2024-only** (CW 404); FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **WZC H. Vander Stokken** YE2025 (KBO **0414.678.562**; Palokenstraat 17 Pepingen; Vlaams-Brabant **VZW** WZC / **1 VE**; ~127 beds + Residentie Paloken). Den Akker YE2025 also live - deferred. Do not redo Ten Anker/De Zwaluw/Kuurne/SJ Brugge/HH Grimbergen/Mater Amabilis/Maria Moorslede/MSW NZVL/Welvaart/Vulpia/Compostela/Leiehome/Deinze/OLV Bornem/Huize SJ Ieper/Sint-Antonius/Wezembeek/Ter Burg/Christine/Vrijzicht/Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/Armonea/Always Home/Maria Ingelmunster/SJ Rumst/Rillaar.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR8873269** JUMP +1.25%; pnl **EUR1092351** JUMP +6.27%; equity **EUR2594672** JUMP +72.71%; bruto **EUR9211921** JUMP +3.29%; FTE **97.7** DROP -1.21% vs YE2024 98.9; neerlegging **02.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email centrum@wzchvanderstokken.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.0); entities (+1 vzw_wzc_vander_stokken_pepingen); foi + draft gap_vander_stokken_nbb_pdf_assets_debt_equity_jump_matrix_l5; rq_2079=done + rq_2080 open (EVERY-10); loop_state ticks=2079; raw under docs/doge/data/raw/tick2079/.
+- FOI: **ready not sent** (human-gated; centrum@wzchvanderstokken.be).
+- NOT every-10 (**next every-10 is 2080 THIS next tick**). Next: rq_2080 (EVERY-10 mandatory + AGB/FARO-if-YE2025 / AIESH-REW / Den-Akker deferred / unused DSO-IGS-HVZ-WZC-psych).
