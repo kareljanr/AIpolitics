@@ -51392,3 +51392,7 @@ bud_lrm_beheer_bruto_jr2025,nv_lrm_beheer,2025,133422,,,CW NBB-derived brutomarg
 bud_lrm_beheer_pnl_jr2025,nv_lrm_beheer,2025,97477,,,CW NBB-derived PnL 9904,src_lrm_beheer_jr2025_cw,medium,tick1888; YE2025 pnl 97477
 bud_lrm_beheer_assets_jr2025,nv_lrm_beheer,2025,869331,,,Upswitch NBB/CBSO total assets 20/58,src_lrm_beheer_jr2025_upswitch,medium,tick1888; YE2025 assets 869331 UP vs 722716
 bud_lrm_beheer_equity_jr2025,nv_lrm_beheer,2025,770425,,,CW/Upswitch NBB-derived 10/15,src_lrm_beheer_jr2025_cw,medium,tick1888; YE2025 equity 770425; kapitaal KBO 495787
+bud_mothor_omzet_jr2025,nv_mothor,2025,546833,,,CW NBB-derived code 70 omzet 546832.69,src_mothor_jr2025_cw,medium,tick1889; YE2025; DROP vs 875934
+bud_mothor_bruto_neg_jr2025,nv_mothor,2025,50288,,,CW NBB-derived brutomarge NEG abs,src_mothor_jr2025_cw,medium,tick1889; YE2025 bruto NEG -50288
+bud_mothor_pnl_loss_jr2025,nv_mothor,2025,1119506,,,CW NBB-derived PnL LOSS abs,src_mothor_jr2025_cw,medium,tick1889; YE2025 LOSS -1119506; multi-year LOSS streak
+bud_mothor_equity_jr2025,nv_mothor,2025,18833846,,,CW NBB-derived 10/15 eigen vermogen,src_mothor_jr2025_cw,medium,tick1889; YE2025 equity 18833846; kapitaal KBO 17807067

@@ -22016,3 +22016,12 @@ Append-only. Each tick adds a short entry.
 - FOI opened: NBB PDF + fee matrix / mandates (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1890**). Next: rq_1889 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS/IOED/Mijnen).
 
+
+## Tick 1889 - 2026-08-26T15:45:00Z - rq_1889 Mo-Thor NV (omzet 0.55m / LOSS 1.12m / Medium)
+
+- Unit: **rq_1889** leftover dual after LRM Beheer. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished; POM Limburg no NBB filing. Took leftover **Mo-Thor NV** (KBO **0843.944.639**; Thor Park 8300 Genk; FacThory / smart-manufacturing daughter of mined Thor Park; board **LRM + LRM Beheer + KU Leuven + Stad Genk**).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0843944639/mo-thor) (neerlegging **04.07.2026**; YE **31.12.2025**): omzet **EUR546,833**; bruto **NEG EUR-50,288**; PnL **LOSS EUR-1,119,506**; equity **EUR18,833,846**; FTE **1.5**; assets **Unknown** (YE2024 Upswitch ~27.7m FOI only).
+- Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_mothor_nbb_pdf_neg_bruto_loss_1_12m_l5; rq_1889=done + rq_1890 open (EVERY-10); loop_state ticks=1889.
+- FOI opened: NBB PDF + NEG bruto/LOSS / assets / share % (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1890**). Next: rq_1890 MUST refresh progress+waste top10 then hole-fill.
+

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T15:15:00Z,rq_1888,1888,no,tick1888 leftover LRM Beheer 0440.550.442 Medium CW+Upswitch (omzet 0.15m bruto 0.13m pnl 97k assets 0.87m equity 0.77m); NBB PDF+fee matrix FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1889; next every-10 1890; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T15:45:00Z,rq_1889,1889,no,tick1889 leftover Mo-Thor 0843.944.639 Medium CW (omzet 0.55m bruto NEG 50k pnl LOSS 1.12m equity 18.83m FTE 1.5); NBB PDF+assets+share% FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1890 EVERY-10; next every-10 1890; continuous hole_fill
