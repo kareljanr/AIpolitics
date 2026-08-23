@@ -21874,3 +21874,12 @@ Append-only. Each tick adds a short entry.
 - FOI opened: NBB PDF + omzet-empty / share % / subsidies / continuity (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1880**). Next: rq_1872 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Westhoek-if-PDF / other HVZ-IGS).
 
+
+## Tick 1872 - 2026-08-26T07:15:00Z - rq_1872 't Werkpand NV (bruto 0.66m / PnL LOSS 75k / Medium)
+
+- Unit: **rq_1872** leftover dual after iCUBES. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN **403** (FOI already ready); FARO YE2024 only; Enebra CDN 403 FOI already; Westhoek JR no euros PDF. Took leftover **'t Werkpand NV** (KBO **0461.014.769**; Brugge; **aanbestedende overheid**; absorbed **BC Westhoek + BC Regio Roeselare**; POM West-Vlaanderen shareholder).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0461014769/t-werkpand) + [Pappers](https://www.pappers.be/nl/company/t-werkpand-0461014769) (neerlegging **26.06.2026**; YE **31.12.2025**): bruto **EUR657,627**; CW 9904 PnL **EUR-75,065** LOSS; equity **EUR2,353,908**; assets **EUR2,367,607**; cash **EUR131,614**; fin debt **EUR188,210**; VTE **5.9**; omzet **70 empty**; kapitaal **EUR1,902,324**. Pappers net also shows **-219k** — FOI reconcile.
+- Wrote: sources (+4); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_werkpand_nbb_pdf_omzet_empty_pnl_reconcile_l5; rq_1872=done + rq_1873 open; loop_state ticks=1872.
+- FOI opened: NBB PDF + omzet-empty / PnL reconcile / share % (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1880**). Next: rq_1873 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Westhoek-if-PDF / other HVZ-IGS).
+

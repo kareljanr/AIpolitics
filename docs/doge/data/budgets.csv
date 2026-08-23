@@ -51306,3 +51306,10 @@ bud_icubes_bruto_neg_0_13m_jr2025,nv_icubes,2025,-133582,,,CW NBB-derived 9900 b
 bud_icubes_pnl_neg_0_15m_jr2025,nv_icubes,2025,-152655,,,CW NBB-derived winst boekjaar LOSS,src_icubes_jr2025_cw,medium,tick1871; LOSS deepening vs prior -48k; not TE-additive
 bud_icubes_equity_0_39m_jr2025,nv_icubes,2025,385085,,,CW NBB-derived 10/15 eigen vermogen,src_icubes_jr2025_cw,medium,tick1871; DROP vs prior 538k; not TE-additive
 bud_icubes_capital_0_92m_jr2025,nv_icubes,2025,922000,,,KBO maatschappelijk kapitaal,src_kbo_icubes_0887884253,strong,tick1871; statutory capital; not TE-additive
+bud_werkpand_bruto_0_66m_jr2025,nv_werkpand,2025,657627,,,CW NBB-derived 9900 brutomarge YE31122025,src_werkpand_jr2025_cw,medium,tick1872; JUMP vs prior 0.12m; omzet 70 empty; not TE-additive
+bud_werkpand_pnl_neg_0_08m_jr2025,nv_werkpand,2025,-75065,,,CW NBB-derived 9904 winst boekjaar LOSS,src_werkpand_jr2025_cw,medium,tick1872; LOSS improved vs prior -216k; Pappers net shows -219k — FOI NBB PDF; not TE-additive
+bud_werkpand_equity_2_35m_jr2025,nv_werkpand,2025,2353908,,,CW NBB-derived 10/15 eigen vermogen,src_werkpand_jr2025_cw,medium,tick1872; JUMP vs prior 2.23m; not TE-additive
+bud_werkpand_assets_2_37m_jr2025,nv_werkpand,2025,2367607,,,Pappers NBB-derived 20/58 total assets,src_werkpand_jr2025_pappers,medium,tick1872; JUMP vs prior 1.57m; not TE-additive
+bud_werkpand_cash_0_13m_jr2025,nv_werkpand,2025,131614,,,Pappers NBB-derived 54/58 cash,src_werkpand_jr2025_pappers,medium,tick1872; not TE-additive
+bud_werkpand_findebt_0_19m_jr2025,nv_werkpand,2025,188210,,,Pappers NBB-derived financial debt,src_werkpand_jr2025_pappers,medium,tick1872; ST payables ~0.60m also; not TE-additive
+bud_werkpand_capital_1_90m_jr2025,nv_werkpand,2025,1902324,,,KBO maatschappelijk kapitaal,src_kbo_werkpand_0461014769,strong,tick1872; statutory capital; not TE-additive
