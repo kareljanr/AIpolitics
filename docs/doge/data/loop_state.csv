@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-27T01:15:00Z,rq_1908,1908,no,tick1908 leftover ElNu2sea 0779.421.724 Medium CW (equity 31.9m JUMP LOSS 49k bruto NEG omzet empty FTE 0 assets Unknown); NBB PDF+share%+capital JUMP FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1909; next every-10 1910; continuous hole_fill
+main,continuous,hole_fill,2026-08-27T01:45:00Z,rq_1909,1909,no,tick1909 leftover SOLTECH 0768.654.526 Medium CW+Upswitch (LOSS 3.32m assets 10.88m equity 1.05m bruto 1.05m FTE 31.4); NBB PDF+share%+LOSS going-concern FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1910 EVERY-10; continuous hole_fill

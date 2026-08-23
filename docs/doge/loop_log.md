@@ -22194,3 +22194,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_elnu2sea_nbb_pdf_assets_share_capital_jump_l5; rq_1908=done + rq_1909 open; loop_state ticks=1908.
 - FOI opened: NBB PDF + assets/share % / capital JUMP (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1910**). Next: rq_1909 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Norther-Nobelwind-if-live).
+
+## Tick 1909 - 2026-08-27T01:45:00Z - rq_1909 SOLTECH (LOSS 3.32m / assets 10.88m / Medium)
+
+- Unit: **rq_1909** leftover dual after ElNu2sea. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **SOLTECH NV** (KBO **0768.654.526**; Thor Park 8080/1 Genk; Nuhma BIPV participation; NON-Eneco).
+- Primary hunt: NBB CDN deposit unresolved this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0768654526/soltech) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/soltech-0768654526) + KBO (neerlegging **23.07.2026**; YE **31.12.2025**): omzet **empty**; bruto **EUR1,050,273**; PnL **LOSS EUR-3,316,519** (**DROP -79.73%**); equity **EUR1,050,637** (**DROP -24.42%**); assets **EUR10,878,202**; EBITDA **NEG EUR-1,299,908**; FTE **31.4**.
+- Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_soltech_nbb_pdf_share_loss_going_concern_l5; rq_1909=done + rq_1910 open (EVERY-10); loop_state ticks=1909.
+- FOI opened: NBB PDF + share % / LOSS going-concern (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1910**). Next: rq_1910 MUST refresh progress+waste top10 then hole-fill.

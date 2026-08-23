@@ -51496,3 +51496,9 @@ bud_elnu2sea_bruto_jr2025,nv_elnu2sea,2025,-38961,,,CW NBB-derived 9900 NEG,src_
 bud_elnu2sea_pnl_jr2025,nv_elnu2sea,2025,-48637,,,CW NBB-derived 9904 LOSS,src_elnu2sea_jr2025_cw,medium,tick1908; YE2025 pnl LOSS -48637 DROP -265pct
 bud_elnu2sea_equity_jr2025,nv_elnu2sea,2025,31863718,,,CW NBB-derived 10/15,src_elnu2sea_jr2025_cw,medium,tick1908; YE2025 equity 31863718 JUMP +22.03pct
 bud_elnu2sea_fte_jr2025,nv_elnu2sea,2025,0,,,CW NBB-derived FTE,src_elnu2sea_jr2025_cw,medium,tick1908; YE2025 FTE 0 holding shell
+bud_soltech_bruto_jr2025,nv_soltech,2025,1050273,,,CW NBB-derived 9900,src_soltech_jr2025_cw,medium,tick1909; YE2025 bruto 1050273 DROP -34.64pct
+bud_soltech_pnl_jr2025,nv_soltech,2025,-3316519,,,CW NBB-derived 9904 LOSS,src_soltech_jr2025_cw,medium,tick1909; YE2025 pnl LOSS -3316519 DROP -79.73pct
+bud_soltech_equity_jr2025,nv_soltech,2025,1050637,,,CW/Upswitch NBB-derived 10/15,src_soltech_jr2025_cw,medium,tick1909; YE2025 equity 1050637 DROP -24.42pct
+bud_soltech_assets_jr2025,nv_soltech,2025,10878202,,,Upswitch NBB/CBSO 20/58,src_soltech_jr2025_upswitch,medium,tick1909; YE2025 assets 10878202 DROP vs 11.34m
+bud_soltech_ebitda_jr2025,nv_soltech,2025,-1299908,,,Upswitch NBB/CBSO EBITDA NEG,src_soltech_jr2025_upswitch,medium,tick1909; YE2025 EBITDA NEG -1299908
+bud_soltech_fte_jr2025,nv_soltech,2025,31,,,CW NBB-derived FTE 31.4,src_soltech_jr2025_cw,medium,tick1909; YE2025 FTE 31.4 (stored 31)
