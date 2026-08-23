@@ -21408,3 +21408,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities nv_storm_geel; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1815=done + rq_1816 spawned; loop_state ticks=1815; FOI draft gap_stormgeel_bruto_0_50m_loss_0_06m_dividend_0_48m_l5.md
 - FOI opened: gap_stormgeel_bruto_0_50m_loss_0_06m_dividend_0_48m_l5 (**ready**, human-send only)
 - NOT every-10 (next **1820**). Next: rq_1816 (Storm Meer/Minderhout/Westerlo-if-200 / AGB / Dijk92 / FARO / IGS).
+
+## Tick 1816 - 2026-08-25T08:25:00Z - rq_1816 Storm Meer NV (bruto DROP 1.43m / debt 5.93m)
+
+- Unit: **rq_1816** leftover dual residual after Storm Geel; took deferred live **Storm Meer NV** (IKA–Storm dual; KBO **0839.402.861**). Preferred AGB Bornem still JR2024; Dijk92/NSZ/APEFE CDN often **403**; FARO NBB YE2025 unpublished.
+- Primary (strong, NBB VKT-kap [2026-00117878](http://cdn.staatsbladmonitor.be/2026pdf/2026-00117878.pdf) CDN 200 / 25p; AV **08.05.2026**; YE **01.01.2025–31.12.2025**): assets **EUR7,220,276**; MVA **EUR4,769,879**; bruto **EUR1,429,902** (was **2,026,337**; DROP **596,435**); omzet **70 empty**; expl **EUR460,893**; PnL **EUR227,663**; dividend **0** (was **1,780,000**); debt **EUR5,931,570** (LT bank **3,484,220** + other **394,000**; secured **4,596,752**); cash JUMP **EUR888,476**; beleg DROP **0**; equity **EUR1,288,706**; VTE **unpublished**. Bestuurders: IKA / PMV / Storm Management / Tinc. Finvision/Nijs oordeel zonder voorbehoud. IKA FVA book **EUR1,566,606**. Overwinstbijdrage dispute **EUR475,537**.
+- Wrote: entities nv_storm_meer; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1816=done + rq_1817 spawned; loop_state ticks=1816; FOI draft gap_stormmeer_bruto_1_43m_debt_5_93m_omzet_empty_l5.md
+- FOI opened: gap_stormmeer_bruto_1_43m_debt_5_93m_omzet_empty_l5 (**ready**, human-send only)
+- NOT every-10 (next **1820**). Next: rq_1817 (Storm Minderhout/Westerlo-if-200 / AGB / Dijk92 / FARO / IGS).

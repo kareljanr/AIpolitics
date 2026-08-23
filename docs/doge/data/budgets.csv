@@ -50902,3 +50902,13 @@ bud_stormgeel_equity_2_38m_2025,nv_storm_geel,2025,2376293,,,NBB VKT-kap YE2025,
 bud_stormgeel_expl_loss_0_04m_2025,nv_storm_geel,2025,37175,,,NBB VKT-kap YE2025,src_stormgeel_jr2025_nbb,strong,tick1815; bedrijfsverlies 9901 abs; not TE-additive of 348bn
 bud_stormgeel_dividend_0_48m_2025,nv_storm_geel,2025,483000,,,NBB VKT-kap YE2025,src_stormgeel_jr2025_nbb,strong,tick1815; uit te keren winst 694 despite PnL loss; not TE-additive of 348bn
 bud_stormgeel_cash_0_72m_2025,nv_storm_geel,2025,724390,,,NBB VKT-kap YE2025,src_stormgeel_jr2025_nbb,strong,tick1815; liquide middelen 54/58; not TE-additive of 348bn
+bud_stormmeer_assets_7_22m_2025,nv_storm_meer,2025,7220276,,,NBB VKT-kap YE2025,src_stormmeer_jr2025_nbb,strong,tick1816; assets YE2025; not TE-additive of 348bn
+bud_stormmeer_mva_4_77m_2025,nv_storm_meer,2025,4769879,,,NBB VKT-kap YE2025,src_stormmeer_jr2025_nbb,strong,tick1816; MVA YE2025; not TE-additive of 348bn
+bud_stormmeer_bruto_1_43m_2025,nv_storm_meer,2025,1429902,,,NBB VKT-kap YE2025,src_stormmeer_jr2025_nbb,strong,tick1816; bruto 9900; was 2026337; not TE-additive of 348bn
+bud_stormmeer_pnl_0_23m_2025,nv_storm_meer,2025,227663,,,NBB VKT-kap YE2025,src_stormmeer_jr2025_nbb,strong,tick1816; PnL 9904; not TE-additive of 348bn
+bud_stormmeer_debt_5_93m_2025,nv_storm_meer,2025,5931570,,,NBB VKT-kap YE2025,src_stormmeer_jr2025_nbb,strong,tick1816; schulden 17/49; not TE-additive of 348bn
+bud_stormmeer_lt_bank_3_48m_2025,nv_storm_meer,2025,3484220,,,NBB VKT-kap YE2025,src_stormmeer_jr2025_nbb,strong,tick1816; LT kredietinstellingen 172/3; not TE-additive of 348bn
+bud_stormmeer_equity_1_29m_2025,nv_storm_meer,2025,1288706,,,NBB VKT-kap YE2025,src_stormmeer_jr2025_nbb,strong,tick1816; equity 10/15; not TE-additive of 348bn
+bud_stormmeer_expl_0_46m_2025,nv_storm_meer,2025,460893,,,NBB VKT-kap YE2025,src_stormmeer_jr2025_nbb,strong,tick1816; bedrijfswinst 9901; not TE-additive of 348bn
+bud_stormmeer_cash_0_89m_2025,nv_storm_meer,2025,888476,,,NBB VKT-kap YE2025,src_stormmeer_jr2025_nbb,strong,tick1816; liquide middelen JUMP; was 281210; not TE-additive of 348bn
+bud_stormmeer_secured_debt_4_60m_2025,nv_storm_meer,2025,4596752,,,NBB VKT-kap YE2025,src_stormmeer_jr2025_nbb,strong,tick1816; zakelijk gewaarborgd 9062; not TE-additive of 348bn
