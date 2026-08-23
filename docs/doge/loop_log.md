@@ -23144,3 +23144,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_hh_tienen); foi + draft gap_hh_tienen_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2015=done + rq_2016 open; loop_state ticks=2015; raw under docs/doge/data/raw/tick2015/.
 - FOI: **ready not sent** (human-gated; communicatiedienst@rztienen.be).
 - NOT every-10 (**next every-10 is 2020**). Next: rq_2016 (AGB/FARO-if-YE2025 / AIESH-REW / AZ Zeno-if-clarified / Vesalius-Klina / unused DSO-IGS-HVZ).
+
+
+## Tick 2016 - 2026-08-24T08:25:00Z - rq_2016 AZ Zeno (omzet JUMP 64.65m / pnl JUMP 6.18m / Medium; year-label anomaly)
+
+- Unit: **rq_2016** leftover dual after **rq_2015 Heilig Hart Tienen**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**. Vesalius CW **N/A omzet**. Took deferred leftover **AZ Zeno** (KBO **0410.123.819**; Kalvekeetdijk 260 Knokke-Heist) — CW year-label anomalously shows **2008**, but neerlegging **02.07.2026**; treated latest column as **YE2025** Medium. Do not redo HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/Werken Glorieux/AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS/CHR Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC.
+- Found: Companyweb NL+EN+FR - omzet **EUR64,650,772** JUMP +8.78%; pnl **EUR6,176,929** JUMP +394.72%; equity **EUR51,316,660** JUMP +14.06%; bruto **EUR37,489,915** JUMP +10.90%; FTE **579.5**; neerlegging **02.07.2026**. Assets/debt Unknown. Medium confidence (year-label anomaly). Strong KBO Actief VZW 3 VE; email info@azzeno.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_az_zeno); foi + draft gap_az_zeno_nbb_pdf_assets_debt_year_label_matrix_l5; rq_2016=done + rq_2017 open; loop_state ticks=2016; raw under docs/doge/data/raw/tick2016/.
+- FOI: **ready not sent** (human-gated; info@azzeno.be) — also asks boekjaar confirmation.
+- NOT every-10 (**next every-10 is 2020**). Next: rq_2017 (AGB/FARO-if-YE2025 / AIESH-REW / Jessa-ZOL-SFZ / unused DSO-IGS-HVZ).

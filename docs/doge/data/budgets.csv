@@ -52135,3 +52135,8 @@ bud_hh_tienen_pnl_jr2025_statutory,vzw_hh_tienen,2025,820951,,,CW YE2025 Profit/
 bud_hh_tienen_equity_jr2025_statutory,vzw_hh_tienen,2025,72199492,,,CW YE2025 Eigen vermogen,src_hh_tienen_jr2025_cw,medium,tick2015; equity JUMP 72199492 +4.09pct vs YE2024 69360227
 bud_hh_tienen_bruto_jr2025_statutory,vzw_hh_tienen,2025,64664813,,,CW YE2025 Brutomarge,src_hh_tienen_jr2025_cw,medium,tick2015; bruto JUMP 64664813 +4.49pct vs YE2024 61884912
 bud_hh_tienen_fte_jr2025_statutory,vzw_hh_tienen,2025,710.4,,,CW social-balance FTE,src_hh_tienen_jr2025_cw,medium,tick2015; YE2025 FTE 710.4
+bud_az_zeno_omzet_jr2025_statutory,vzw_az_zeno,2025,64650772,,,CW latest column treated YE2025 omzet (year-label anomaly),src_az_zeno_jr2025_cw,medium,tick2016; omzet JUMP 64650772 +8.78pct vs prior 59430716; CW year-label 2008 anomalous
+bud_az_zeno_pnl_jr2025_statutory,vzw_az_zeno,2025,6176929,,,CW latest Profit/Loss treated YE2025,src_az_zeno_jr2025_cw,medium,tick2016; pnl JUMP 6176929 +394.72pct vs prior 1248572
+bud_az_zeno_equity_jr2025_statutory,vzw_az_zeno,2025,51316660,,,CW latest Eigen vermogen treated YE2025,src_az_zeno_jr2025_cw,medium,tick2016; equity JUMP 51316660 +14.06pct vs prior 44990551
+bud_az_zeno_bruto_jr2025_statutory,vzw_az_zeno,2025,37489915,,,CW latest Brutomarge treated YE2025,src_az_zeno_jr2025_cw,medium,tick2016; bruto JUMP 37489915 +10.90pct vs prior 33803854
+bud_az_zeno_fte_jr2025_statutory,vzw_az_zeno,2025,579.5,,,CW social-balance FTE,src_az_zeno_jr2025_cw,medium,tick2016; FTE 579.5
