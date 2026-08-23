@@ -22025,3 +22025,12 @@ Append-only. Each tick adds a short entry.
 - FOI opened: NBB PDF + NEG bruto/LOSS / assets / share % (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1890**). Next: rq_1890 MUST refresh progress+waste top10 then hole-fill.
 
+
+## Tick 1890 - 2026-08-26T16:15:00Z - EVERY-10 + rq_1890 Limburg Win(d)t (omzet 23.0m / assets 56.3m / Medium)
+
+- Unit: **rq_1890** EVERY-10 after Mo-Thor. Refreshed **progress_every_10_ticks.md** (tick 1890 snapshot) + **doge_waste_top10_current.md** (top10 stable GIP/fossil/cars/cheque/reporté). Prefer NON-Eneco live hole-fill: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2025 NBB miss. Took leftover **Limburg Win(d)t NV** (KBO **0820.832.113**; Herkenrodesingel 14 Hasselt **Nuhma seat**; Limburg public wind dual).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0820832113/limburg-win-d-t) + [SBM NBB table](https://www.staatsbladmonitor.be/bedrijfsfiche.html?ondernemingsnummer=0820832113) (neerlegging **12.05.2026**; YE **31.12.2025**): omzet **EUR22,980,627**; bruto **EUR14,067,108**; PnL **EUR3,263,030**; assets **EUR56,283,864**; equity **EUR5,997,743**; debt **EUR48,384,316**; expl **EUR5,685,746**; FTE **0**.
+- Wrote: progress+waste markdown; sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_lwt_nbb_pdf_share_debt_ppa_l5; rq_1890=done + rq_1891 open; loop_state ticks=1890.
+- FOI opened: NBB PDF + share % / debt / PPA (**ready**, human-send only).
+- **EVERY-10 DONE.** Next every-10 is **1900**. Next: rq_1891 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Lommel Windt / other HVZ-IGS).
+

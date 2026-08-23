@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T15:45:00Z,rq_1889,1889,no,tick1889 leftover Mo-Thor 0843.944.639 Medium CW (omzet 0.55m bruto NEG 50k pnl LOSS 1.12m equity 18.83m FTE 1.5); NBB PDF+assets+share% FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1890 EVERY-10; next every-10 1890; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T16:15:00Z,rq_1890,1890,no,tick1890 EVERY-10 progress+waste + Limburg Win(d)t 0820.832.113 Medium CW+SBM (omzet 23.0m bruto 14.1m pnl 3.26m assets 56.3m debt 48.4m equity 6.0m); NBB PDF+share%+PPA FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2025 NBB miss; next rq_1891; next every-10 1900; continuous hole_fill

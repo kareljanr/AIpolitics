@@ -51396,3 +51396,10 @@ bud_mothor_omzet_jr2025,nv_mothor,2025,546833,,,CW NBB-derived code 70 omzet 546
 bud_mothor_bruto_neg_jr2025,nv_mothor,2025,50288,,,CW NBB-derived brutomarge NEG abs,src_mothor_jr2025_cw,medium,tick1889; YE2025 bruto NEG -50288
 bud_mothor_pnl_loss_jr2025,nv_mothor,2025,1119506,,,CW NBB-derived PnL LOSS abs,src_mothor_jr2025_cw,medium,tick1889; YE2025 LOSS -1119506; multi-year LOSS streak
 bud_mothor_equity_jr2025,nv_mothor,2025,18833846,,,CW NBB-derived 10/15 eigen vermogen,src_mothor_jr2025_cw,medium,tick1889; YE2025 equity 18833846; kapitaal KBO 17807067
+bud_lwt_omzet_jr2025,nv_lwt,2025,22980627,,,CW/SBM NBB-derived code 70 omzet,src_lwt_jr2025_cw,medium,tick1890; YE2025; DROP vs 30.2m
+bud_lwt_bruto_jr2025,nv_lwt,2025,14067108,,,CW NBB-derived brutomarge 9900,src_lwt_jr2025_cw,medium,tick1890; YE2025 bruto 14067108
+bud_lwt_pnl_jr2025,nv_lwt,2025,3263030,,,CW NBB-derived PnL 9904,src_lwt_jr2025_cw,medium,tick1890; YE2025 pnl 3263030 DROP vs 11.2m
+bud_lwt_assets_jr2025,nv_lwt,2025,56283864,,,SBM NBB-derived total assets 20/58,src_lwt_jr2025_sbm,medium,tick1890; YE2025 assets 56283864 DROP vs 69.4m
+bud_lwt_equity_jr2025,nv_lwt,2025,5997743,,,CW/SBM NBB-derived 10/15,src_lwt_jr2025_cw,medium,tick1890; YE2025 equity 5997743 flat
+bud_lwt_debt_jr2025,nv_lwt,2025,48384316,,,SBM NBB-derived schulden 17/49,src_lwt_jr2025_sbm,medium,tick1890; YE2025 debt 48384316 DROP vs 61.6m
+bud_lwt_expl_jr2025,nv_lwt,2025,5685746,,,SBM NBB-derived bedrijfswinst 9901,src_lwt_jr2025_sbm,medium,tick1890; YE2025 expl 5685746
