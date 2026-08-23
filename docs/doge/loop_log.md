@@ -23906,3 +23906,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.4 omzet proxy); entities (+1 vzw_begralim_grauwzusters_limburg); foi + draft gap_begralim_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2095=done + rq_2096 open; loop_state ticks=2095; raw under docs/doge/data/raw/tick2095/.
 - FOI: **ready not sent** (human-gated; info@begralim.be).
 - NOT every-10 (**next every-10 is 2100**). Next: rq_2096 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+
+### 2026-08-25T05:05:00Z — tick 2096
+- Unit: **rq_2096** leftover dual after **rq_2095 Begralim** (concurrent closed Begralim on 2095). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **emeis Belgium** YE2025 (KBO **0887.690.451**; Alsembergsesteenweg 1037 Ukkel; **NV** ROB NACE **87.301** / **2 VE**; ex-Orpea). SLG Operaties Vlaanderen YE2025 also live but Armonea/Always Home path — deferred. Do not redo Begralim/Sint-Lucia/Lidwina/SED/Zilvervogel/Familiezorg/…/Armonea/Always Home/SLG.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR19633819** JUMP +24.06%; bruto **EUR8255042** JUMP +346.93%; pnl **LOSS EUR-89076155** LOSS NARROW +39.74% vs YE2024 LOSS EUR-147828527; equity **EUR-360390406** NEG NARROW +23.54%; FTE **70.8** (YoY Unknown); neerlegging **08.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief NV 2 VE NACE 87.301; contact form https://www.emeis.be/ / 0800 88 888.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.6 omzet proxy); entities (+1 nv_emeis_belgium); foi + draft gap_emeis_belgium_nbb_pdf_assets_debt_pnl_loss_narrow_equity_neg_matrix_l5; rq_2096=done + rq_2097 open; loop_state ticks=2096; raw under docs/doge/data/raw/tick2096/ (+ tick2095 probes).
+- FOI: **ready not sent** (human-gated; no public email — form/0800 88 888).
+- NOT every-10 (**next every-10 is 2100**). Next: rq_2097 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).

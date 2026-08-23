@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-25T04:50:00Z,rq_2095,2095,no,tick2095 leftover Begralim 0428.374.764 Medium CW (omzet JUMP 22.67m bruto JUMP 24.68m pnl DROP 1.06m equity JUMP 34.32m FTE DROP 295.8; assets/debt Unknown; NACE 87.301 5 VE); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2096; next every-10 2100; continuous hole_fill
+main,continuous,hole_fill,2026-08-25T05:05:00Z,rq_2096,2096,no,tick2096 leftover emeis Belgium 0887.690.451 Medium CW (omzet JUMP 19.63m bruto JUMP 8.26m pnl LOSS NARROW -89.08m equity NEG NARROW -360.39m FTE 70.8; assets/debt Unknown; NACE 87.301 2 VE); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2097; next every-10 2100; continuous hole_fill
