@@ -51598,3 +51598,7 @@ bud_socofe_pnl_jr2025,nv_socofe,2025,64514062,,,CW NBB-derived 9904,src_socofe_j
 bud_socofe_equity_jr2025,nv_socofe,2025,886113148,,,CW NBB-derived 10/15,src_socofe_jr2025_cw,medium,tick1925; YE2025 equity 886113148 JUMP +1.86pct
 bud_socofe_bruto_jr2025,nv_socofe,2025,-1018361,,,CW NBB-derived 9900,src_socofe_jr2025_cw,medium,tick1925; YE2025 bruto NEG -1018361
 bud_socofe_fte_jr2025,nv_socofe,2025,6,,,CW NBB-derived FTE 6.1,src_socofe_jr2025_cw,medium,tick1925; YE2025 FTE 6.1 (stored 6)
+bud_we_env_pnl_jr2025,we_environnement,2025,11454277,,,CW NBB-derived 9904,src_we_env_jr2025_cw,medium,tick1926; YE2025 pnl 11454277 JUMP +102.61pct
+bud_we_env_equity_jr2025,we_environnement,2025,157446756,,,CW NBB-derived 10/15,src_we_env_jr2025_cw,medium,tick1926; YE2025 equity 157446756 JUMP +23.13pct
+bud_we_env_bruto_jr2025,we_environnement,2025,-505635,,,CW NBB-derived 9900,src_we_env_jr2025_cw,medium,tick1926; YE2025 bruto NEG -505635
+bud_we_env_fte_jr2025,we_environnement,2025,3,,,CW NBB-derived FTE 3.3,src_we_env_jr2025_cw,medium,tick1926; YE2025 FTE 3.3 (stored 3)

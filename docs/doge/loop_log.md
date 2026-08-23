@@ -22330,3 +22330,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_socofe_nbb_pdf_assets_share_fva_l5; rq_1925=done + rq_1926 open; loop_state ticks=1925.
 - FOI opened: NBB PDF + assets/share % / FVA (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1930**). Next: rq_1926 (AGB/Dijk92-if-200 / FARO-if-YE2025 / WE-Virya-otherHVZ).
+
+## Tick 1926 - 2026-08-27T10:15:00Z - rq_1926 WE Environnement (equity JUMP 157.4m / pnl JUMP 11.45m / Medium)
+
+- Unit: **rq_1926** leftover dual after Socofe. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO YE2024. Named **WE Environnement** now YE2025 live — took it (KBO **0426.516.918**; Avenue Maurice-Destenay 13 Liège; Walloon public env/energy holding ex-SRIW; Otary/Power@sea/Socofe path). Virya YE2025 deferred.
+- Primary hunt: NBB CDN unresolved; Upswitch YE2024-only for assets. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0426516918/we-environnement) + KBO (neerlegging **30.06.2026**; YE **31.12.2025**): omzet **empty**; bruto **NEG EUR-505,635**; PnL **EUR11,454,277** (**JUMP +102.61%**); equity **EUR157,446,756** (**JUMP +23.13%**); FTE **3.3**; assets **Unknown**.
+- Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (updated we_environnement); foi + draft gap_we_env_nbb_pdf_assets_share_fva_capital_jump_l5; rq_1926=done + rq_1927 open; loop_state ticks=1926.
+- FOI opened: NBB PDF + assets/share % / FVA / capital JUMP (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1930**). Next: rq_1927 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Virya-otherHVZ).
