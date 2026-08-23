@@ -22088,3 +22088,12 @@ Append-only. Each tick adds a short entry.
 - FOI opened: NBB PDF + share % / FVA-dividend path for pnl DROP / Beringen recon (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1900**). Next: rq_1897 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS/IOED/Mijnen).
 
+
+
+## Tick 1897 - 2026-08-26T19:45:00Z - rq_1897 Biostoom Oostende (omzet 26.9m / assets 33.4m / pnl 10.6m / Medium)
+
+- Unit: **rq_1897** leftover dual after Biostoom Belgie. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only** (portal 404); Dijk92 site 200 but NBB CDN **2026-00377886 still 403**; FARO NBB YE2025 unpublished. Took leftover **Biostoom Oostende NV** (KBO **0883.912.203**; Solvaylaan 7 8400 Oostende; sister WtE plant of Biostoom Beringen; bestuurders **Nuhma cv + Nubema**; aanbestedende overheid).
+- Primary hunt: NBB CDN deposit unresolved (SBM IP blacklist this tick). **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0883912203/biostoom-oostende) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/biostoom-oostende-0883912203) (neerlegging **27.05.2026**; YE **31.12.2025**): omzet **EUR26,947,090** (DROP -3.36%); bruto **EUR20,001,132**; PnL **EUR10,550,635**; assets **EUR33,381,962**; equity **EUR14,597,471** (JUMP +20.79%); EBITDA **EUR15,943,513**; FTE **27.1**.
+- Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_biostoom_oo_nbb_pdf_share_debt_ppa_l5; rq_1897=done + rq_1898 open; loop_state ticks=1897.
+- FOI opened: NBB PDF + share % / debt / gate-fee PPA (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1900**). Next: rq_1898 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS/IOED/Mijnen).

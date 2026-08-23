@@ -51439,3 +51439,9 @@ bud_biostoom_be_pnl_jr2025,nv_biostoom_be,2025,5862845,,,CW NBB-derived 9904,src
 bud_biostoom_be_assets_jr2025,nv_biostoom_be,2025,76521832,,,Upswitch NBB/CBSO 20/58,src_biostoom_be_jr2025_upswitch,medium,tick1896; YE2025 assets 76521832
 bud_biostoom_be_equity_jr2025,nv_biostoom_be,2025,60651359,,,CW/Upswitch NBB-derived 10/15,src_biostoom_be_jr2025_cw,medium,tick1896; YE2025 equity 60651359 DROP -13pct
 bud_biostoom_be_ebitda_jr2025,nv_biostoom_be,2025,326701,,,Upswitch NBB/CBSO EBITDA,src_biostoom_be_jr2025_upswitch,medium,tick1896; YE2025 EBITDA 326701
+bud_biostoom_oo_omzet_jr2025,nv_biostoom_oo,2025,26947090,,,CW/Upswitch NBB-derived code 70,src_biostoom_oo_jr2025_cw,medium,tick1897; YE2025 omzet 26947090 DROP -3.36pct
+bud_biostoom_oo_bruto_jr2025,nv_biostoom_oo,2025,20001132,,,CW NBB-derived 9900,src_biostoom_oo_jr2025_cw,medium,tick1897; YE2025 bruto 20001132
+bud_biostoom_oo_pnl_jr2025,nv_biostoom_oo,2025,10550635,,,CW NBB-derived 9904,src_biostoom_oo_jr2025_cw,medium,tick1897; YE2025 pnl 10550635 JUMP +6.9pct
+bud_biostoom_oo_assets_jr2025,nv_biostoom_oo,2025,33381962,,,Upswitch NBB/CBSO 20/58,src_biostoom_oo_jr2025_upswitch,medium,tick1897; YE2025 assets 33381962 JUMP vs 28.9m
+bud_biostoom_oo_equity_jr2025,nv_biostoom_oo,2025,14597471,,,CW/Upswitch NBB-derived 10/15,src_biostoom_oo_jr2025_cw,medium,tick1897; YE2025 equity 14597471 JUMP +20.79pct
+bud_biostoom_oo_ebitda_jr2025,nv_biostoom_oo,2025,15943513,,,Upswitch NBB/CBSO EBITDA,src_biostoom_oo_jr2025_upswitch,medium,tick1897; YE2025 EBITDA 15943513 ~59pct omzet
