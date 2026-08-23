@@ -22781,3 +22781,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1980**). Next: rq_1974 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
 
+## Tick 1974 - 2026-08-23T20:45:00Z - rq_1974 FINEST (pnl DROP 2.65m / equity JUMP 64.64m / Medium)
+
+- Unit: **rq_1974** leftover dual after **rq_1973 BEP Environnement**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; HYGEA still **YE2024**; IDEFIN still **YE2024**; AIESH/REW presumed YE2024. Took unused leftover **FINEST/FINOST** YE2025 (KBO **0257.864.701**; Place Hotel de Ville 14 Eupen; Ostbelgien **ORES Assets IPF** ~3.79%). Do not redo BEP Environnement/LOGIPOLE/BEP NAMUR/IBH/BEP Crematorium/BEP Expansion/IEG/CENEO/CISCH/HELORA/ORES Assets/SOCOFE/IPFBW/IGRETEC/Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/CILE.
+- Found: Companyweb NL+EN YE2025 - pnl **EUR2,654,603** DROP -4.62%; equity **EUR64,639,917** JUMP +2.72%; bruto **NEG EUR-112,546**; FTE **0.6**; omzet Unknown; neerlegging **04.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief CV; email officiel.ic-finost@finost.be.
+- Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1 igs_finest); foi + draft gap_finest_nbb_pdf_assets_debt_ores_dividend_matrix_l5; rq_1974=done + rq_1975 open; loop_state ticks=1974.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1980**). Next: rq_1975 (AGB/FARO-if-YE2025 / AIESH-REW / FINIMO-SOFILUX-IFIGA / unused DSO-IGS-HVZ).
+

@@ -51922,3 +51922,7 @@ bud_bep_env_pnl_jr2025_statutory,bep_environnement,2025,1723114,,,CW YE2025 Prof
 bud_bep_env_equity_jr2025_statutory,bep_environnement,2025,37572281,,,CW YE2025 Eigen vermogen,src_bep_env_jr2025_cw,medium,tick1973; equity JUMP 37572281 +3.84pct vs YE2024 36182401
 bud_bep_env_bruto_jr2025_statutory,bep_environnement,2025,29750393,,,CW YE2025 Brutomarge,src_bep_env_jr2025_cw,medium,tick1973; bruto DROP 29750393 -0.39pct vs YE2024 29867364
 bud_bep_env_fte_jr2025_statutory,bep_environnement,2025,323.6,,,CW social-balance FTE,src_bep_env_jr2025_cw,medium,tick1973; YE2025 FTE 323.6 vs YE2024 326.6
+bud_finest_pnl_jr2025_statutory,igs_finest,2025,2654603,,,CW YE2025 Profit/Loss,src_finest_jr2025_cw,medium,tick1974; pnl DROP 2654603 -4.62pct vs YE2024 2783216
+bud_finest_equity_jr2025_statutory,igs_finest,2025,64639917,,,CW YE2025 Eigen vermogen,src_finest_jr2025_cw,medium,tick1974; equity JUMP 64639917 +2.72pct vs YE2024 62927161
+bud_finest_bruto_jr2025_statutory,igs_finest,2025,-112546,,,CW YE2025 Brutomarge NEG,src_finest_jr2025_cw,medium,tick1974; bruto NEG -112546 (improved vs YE2024 -129093)
+bud_finest_fte_jr2025_statutory,igs_finest,2025,0.6,,,CW social-balance FTE,src_finest_jr2025_cw,medium,tick1974; YE2025 FTE 0.6 holding shell

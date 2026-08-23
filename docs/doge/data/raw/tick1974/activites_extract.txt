@@ -1,0 +1,1424 @@
+
+---PAGE 1---
+1 
+ 
+Table des matières 
+Editorial .................................................................................................................................. 2 
+1. 
+Informations générales ................................................................................................ 3 
+1.1. 
+Carte d’identité .................................................................................................... 3 
+1.2. 
+Nos missions ....................................................................................................... 3 
+1.3. 
+Notre gouvernance ............................................................................................... 3 
+1.4. 
+Objectifs .............................................................................................................. 4 
+1.5. 
+Les faits marquants de 2025 ................................................................................. 4 
+2. 
+Les collectes en porte-à-porte ...................................................................................... 5 
+2.1. 
+Le Nouveau Schéma de Collecte .......................................................................... 5 
+2.2. 
+Collecte des emballages ménagers ...................................................................... 7 
+2.3. 
+Calendrier de collecte et Recycle!......................................................................... 7 
+2.1. 
+Schéma global de collecte des déchets 2025 ........................................................ 8 
+3. 
+Le réseau des recyparcs ............................................................................................... 8 
+3.1. 
+Fréquentation des recyparcs ................................................................................ 8 
+3.2. 
+Déchets collectés en recyparcs ............................................................................ 9 
+3.3. 
+Redynamisation des recyparcs ........................................................................... 10 
+3.4. 
+Collecte spécifique des bâches agricoles ........................................................... 10 
+4. 
+Recyclerie ................................................................................................................. 11 
+4.1. 
+Suivi FEDER ....................................................................................................... 11 
+5. 
+Services payants........................................................................................................ 11 
+5.1. 
+Petits conteneurs ............................................................................................... 11 
+5.2. 
+Grands conteneurs ............................................................................................ 12 
+5.3. 
+Service à domicile .............................................................................................. 12 
+5.4. 
+Apports communaux .......................................................................................... 12 
+6. 
+Synthèse des modes de collecte ................................................................................ 12 
+7. 
+Traitement des déchets .............................................................................................. 12 
+8. 
+Services supports ...................................................................................................... 13 
+8.1. 
+La qualité, notre engagement du service public ................................................... 13 
+8.2. 
+Stratégie et actions de communication ............................................................... 14 
+8.3. 
+Département QSE (Qualité – Sécurité – Environnement) ...................................... 15 
+8.4. 
+Ressources humaines ........................................................................................ 18 
+8.5. 
+Cellule juridique ................................................................................................. 21 
+8.6. 
+Cellule IT ........................................................................................................... 21 
+8.7. 
+Finances ............................................................................................................ 22 
+
+---PAGE 2---
+2 
+ 
+Editorial 
+L’année 2025 marque une étape importante dans le développement de notre intercommunale. 
+Elle s’inscrit pleinement dans la continuité des engagements pris ces dernières années en faveur 
+d’un service public performant, durable et proche des citoyens. 
+Nous avons poursuivi, avec détermination, la mise en œuvre de notre vision stratégique, articulée 
+autour de l’amélioration continue de nos services, de la maîtrise des coûts et de la transition 
+environnementale. À cet égard, la finalisation du déploiement du Nouveau Schéma de Collecte 
+constitue une avancée majeure. Désormais adopté par l’ensemble des communes de notre 
+territoire, ce dispositif contribue concrètement à une meilleure qualité de tri, à la réduction des 
+déchets résiduels et à une gestion plus efficiente des ressources. 
+Les résultats observés en 2025 confirment la pertinence des orientations prises. L’amélioration 
+des performances de tri et la diminution des déchets résiduels témoignent de l’engagement 
+collectif : celui de nos équipes, de nos partenaires communaux et, surtout, des citoyens que nous 
+accompagnons au quotidien. 
+Parallèlement, nous avons poursuivi nos efforts pour renforcer l’accessibilité et la qualité de nos 
+services. Le développement des points d’apport volontaire, la modernisation de nos recyparcs, 
+la digitalisation de nos outils – notamment via le webshop et l’application Recycle ! – ainsi que 
+l’amélioration de la gestion des réclamations illustrent notre volonté de répondre aux attentes de 
+manière toujours plus efficace et innovante. 
+L’année écoulée a également été marquée par une dynamique forte en matière de 
+développement durable. À travers nos actions et notre plan stratégique 2026-2028, nous 
+affirmons notre engagement en faveur des Objectifs de Développement Durable, en intégrant 
+pleinement les enjeux environnementaux, la préservation des ressources et l’économie circulaire 
+dans nos missions. La mise en place des conteneurs dédiés aux recycleries ou encore les 
+investissements en faveur d’une gestion plus responsable de l’énergie en sont des exemples 
+concrets. 
+Ces avancées n’auraient pas été possibles sans l’implication quotidienne de l’ensemble de nos 
+collaborateurs. Dans un contexte en constante évolution, leur professionnalisme, leur 
+engagement et leur capacité d’adaptation constituent une richesse essentielle pour notre 
+organisation. Nous tenons également à saluer la qualité du dialogue avec nos instances de 
+gouvernance et nos communes associées, qui contribuent à la cohérence et à la solidité de nos 
+actions. 
+Les défis restent nombreux. L’évolution des réglementations, les contraintes budgétaires, les 
+attentes croissantes des citoyens et les impératifs environnementaux exigent de poursuivre nos 
+efforts avec rigueur et ambition. C’est dans cet esprit que nous abordons les prochaines années, 
+avec la volonté de consolider nos acquis et d’innover pour construire un service public toujours 
+plus durable, efficace et responsable. 
+Nous vous invitons à découvrir, à travers ce rapport d’activités, l’ensemble des actions menées 
+en 2025 et les perspectives qui guideront notre engagement pour les années à venir. 
+Bruno POZZONI, Président     
+ 
+
+---PAGE 3---
+3 
+ 
+1. Informations générales 
+1.1. Carte d’identité 
+Hygea est une intercommunale active dans la gestion des déchets ménagers et assimilés au 
+service des communes associées. Elle assure la collecte des déchets tout en développant des 
+services complémentaires à destination des citoyens et de ses communes associées. Hygea 
+dessert 24 communes et représente plus de 500.000 habitants. 
+1.2. Nos missions 
+Hygea assure pour le compte des associés communaux de nombreuses missions telles que : 
+Les déchets résiduels et les collectes sélectives en porte-à-porte (PMC, papiers-cartons, 
+déchets organiques) ; la collecte via les bulles à verre et points d’apport volontaire ; la gestion 
+des recyparcs et les transports y afférents ; le transport des déchets résiduels et des 
+Encombrants d’Havré et Cuesmes à IPALLE en vue d’une valorisation énergétique ; la gestion des 
+Déchets d’Équipements Électriques et Électroniques (D.E.E.E.) ; la gestion des déchets verts ; le 
+compactage du polystyrène expansé ; etc. 
+1.3. Notre gouvernance 
+Société coopérative, Hygea est gérée au 31 décembre 2025 par : 
+• 
+UNE ASSEMBLÉE GÉNÉRALE composée de représentants de l’universalité des Associés, 
+c’est-à-dire des titulaires des parts sociales A, des titulaires des parts sociales B, des 
+titulaires des parts sociales C. L’Assemblée Générale a les pouvoirs les plus étendus pour 
+établir ou ratifier les actes qui intéressent l’Intercommunale. Elle est seule compétente 
+pour la prise de certaines décisions définies par le Code de la Démocratie Locale et de la 
+Décentralisation ; 
+• 
+UN CONSEIL D’ADMINISTRATION composé de 20 administrateurs représentant les 
+communes associées et l’Associé B IDEA ; 
+• 
+UN BUREAU EXÉCUTIF composé du Président, du Vice-Président et de 3 administrateurs, 
+respectivement Bruno POZZONI, David VOLANT, Catherine HOUDART, Philippe LABAR, 
+Xavier PAPIER ; 
+• 
+UN COMITÉ DE RÉMUNÉRATION composé de 5 administrateurs, soit Cindy BERIOT, Julie 
+ROISIN, Hubert CHAPELAIN, Michele DI MATTIA, Julien MARACHE ; 
+• 
+UN COMITÉ D’AUDIT composé de 5 administrateurs, soit Florence MONIER, Julie ROISIN, 
+Carlo DI ANTONIO, Damien JENART, Emmanuel WIARD. 
+CONSEIL D’ADMINISTRATION 
+Le Conseil d’Administration est composé de 20 administrateurs représentants les communes 
+associées et l’associé B, IDEA, soit : 
+Parts A : 16 administrateurs représentant les communes associées 
+• 
+Cindy BERIOT, Échevine - Hensies 
+• 
+Hubert CHAPELAIN, Conseiller communal - Seneffe 
+• 
+Maxim COCU, Conseiller communal - Colfontaine 
+• 
+Jonathan DELESPINETTE, Bourgmestre d’Erquelinnes 
+• 
+Michele DI MATTIA, Échevin - La Louvière 
+• 
+Catherine HOUDART, Échevine - Mons 
+• 
+Philippe LABAR, Échevin - Binche 
+• 
+Ingrid LIEVENS, Conseillère communale - Honnelles 
+
+---PAGE 4---
+4 
+ 
+• 
+Julien MARACHE, Conseiller communal - Saint-Ghislain 
+• 
+Nicolas MARTIN, Bourgmestre de Mons 
+• 
+Xavier PAPIER, Conseiller communal - La Louvière 
+• 
+Bruno POZZONI, Bourgmestre de Manage – Président d’Hygea 
+• 
+Julie ROISIN, Conseillère communale - Soignies 
+• 
+Mathieu VELTRI, Conseiller communal - Mons 
+• 
+David VOLANT, Bourgmestre de Quévy – Vice-Président d’Hygea 
+• 
+Emmanuel WIARD, Conseiller communal - Merbes-le-Château 
+Parts B : 4 administrateurs représentant IDEA 
+• 
+Jean-Charles DENEUFBOURG, Bourgmestre de Morlanwelz 
+• 
+Carlo DI ANTONIO, Conseiller communal – Dour 
+• 
+Damien JENART, Bourgmestre de Quaregnon 
+• 
+Florence MONIER, Bourgmestre de Saint-Ghislain 
+ 
+OBSERVATEUR 
+• 
+Guy NITA, Conseiller communal - Boussu 
+ 
+DIRECTION 
+• 
+Jacques DE MOORTEL, Directeur Général 
+ 
+1.4. Objectifs 
+Les objectifs poursuivis par Hygea en 2025 s’inscrivent dans une logique d’amélioration continue 
+du service public et de transition environnementale. Ils visent notamment : 
+• 
+l’optimisation des modes de collecte ; 
+• 
+la réduction de la production de déchets ; 
+• 
+l’amélioration de la qualité de tri ; 
+• 
+la maîtrise des coûts pour les communes et les citoyens ; 
+• 
+l’amélioration de la qualité de service et de la relation avec les usagers. 
+1.5. Les faits marquants de 2025 
+[Sous forme d’infographie]  
+100% des communes affiliées à ce secteur ont adhéré au nouveau schéma de collecte 
+En 2025, chaque citoyen a produit, en moyenne 455 kg de déchets pour les matières collectées 
+par Hygea (recyparcs, PMC/Verre, PàP) 
++ de 14.800 tournées de collecte en porte-à-porte en 2025 
+Données sociales 
+• 
+356 collaborateurs : 24 femmes et 332 hommes 
+• 
+Nombre d’habitants pour les 24 communes : 503.138 
+Données environnementales 
+• 
+7.888 m³ d’eau consommés en 2025. Cela correspond à 3 piscines olympiques 
+• 
+1.088.000 litres de carburant consommés en 2025. Cela correspond à 36 camions-
+citernes de 30.000L. 
+
+---PAGE 5---
+5 
+ 
+• 
+962.689 kWh consommés en 2025. Cela correspond à la consommation de 275 foyers 
+pendant un an. 
+Les instances en 2025 
+• 
+2 Assemblées Générales 
+• 
+16 Conseils d’Administration 
+• 
+8 Bureaux Exécutifs 
+• 
+1 Comité d’audit 
+• 
+1 Comité de rémunération 
+2. Les collectes en porte-à-porte 
+En 2025, Hensies et Quiévrain sont venues compléter la liste des communes ayant confié la 
+gestion des collectes en porte-à-porte de déchets résiduels et organiques par Hygea. Ce qui 
+représente un total de 22 communes dans la région de Mons-Borinage-Centre soit : Binche, 
+Boussu, Colfontaine, Écaussinnes, Erquelinnes, Estinnes, Frameries, Hensies, Honnelles, 
+Jurbise, La Louvière, Le Roeulx, Manage, Seneffe, Merbes-le-Château, Mons, Morlanwelz, 
+Quaregnon, Quévy, Quiévrain, Saint-Ghislain et Soignies. 
+Cela équivaut à une population totale de 481.900 habitants (466.741). La collecte en porte-à-
+porte des déchets résiduels et déchets organiques pour les communes de Dour et Lens a été 
+assurée par des tiers, ce qui équivaut à une population de 21.238 habitants (21.188). 
+Les collectes des PMC et papiers-cartons sont quant à elles effectuées sur 24 communes 
+(incluant les communes de Dour et Lens). 
+2.1. Le Nouveau Schéma de Collecte 
+L’année 2025 a marqué un tournant important pour la collecte en porte-à-porte avec la 
+finalisation du déploiement du Nouveau Schéma de Collecte sur les communes de la zone 
+Hygea. Les communes de Boussu, Colfontaine, Hensies, La Louvière, Manage, Morlanwelz, 
+Quaregnon et Quiévrain ont finalisé la mise en application du Nouveau Schéma de Collecte en 
+porte-à-porte en mars 2025. 
+En 2025, chaque citoyen des 22 communes affiliées ayant confié 100% des missions (selon 
+l’affiliation) à Hygea a produit en moyenne 148 kg de déchets organiques et résiduels.  
+Déchets organiques 
+Les déchets organiques (déchets de cuisine, petits déchets de jardin, mouchoirs, etc.) sont 
+collectés toutes les semaines via un sac vert de 20L. 
+Déchets résiduels 
+Les déchets résiduels (déchets non collectés sélectivement) sont collectés toutes les 2 semaines 
+via un sac moka de 25L ou 50L. 
+Les citoyens ont également la possibilité de déposer leurs déchets résiduels dans des points 
+d’apport volontaire. 
+Focus sur la collecte en PAV 
+
+---PAGE 6---
+6 
+ 
+Les points d’apport volontaire (PAV) complètent le dispositif de collecte en porte-à-porte. Ils 
+permettent la collecte des déchets résiduels dans une logique de flexibilité et d’accessibilité pour 
+les citoyens puisqu’ils sont accessibles 24h/24 et 7jours/7.  
+Pour ouvrir le PAV, le citoyen doit se munir d’un badge. Celui-ci coûte 10,80€ (0,54€ l’ouverture). 
+La contenance du tiroir d’un PAV est de 25L. 
+Le réseau Hygea est constitué de 188 points d’apport volontaire. 
+Les emplacements des points d’apport volontaire sont étudiés avec chaque commune avant leur 
+mise en place. Ils sont tous répertoriés sur une carte interactive disponible sur le site internet 
+Hygea. [QRcode carte interactive] 
+[Inforgraphie : Nombre de PAV sur le territoire Hygea, 1 PAV pour 2000 habitants] 
+ 
+  
+Déchets résiduels 
+Déchets organiques  
+  
+Étiquettes de lignes 
+2024 
+2025 
+2024 
+2025 
+1 PAP BINCHE 
+119,6 
+125,4 
+34,0 
+33,8 
+2 PAP BOUSSU 
+193,3 
+148,9 
+0,1 
+22,7 
+3 PAP COLFONTAINE 
+207,2 
+157,1 
+0,1 
+23,7 
+4 PAP ÉCAUSSINES 
+97,8 
+101,3 
+32,8 
+34,5 
+5 PAP ERQUELINNES 
+134,1 
+132,5 
+21,6 
+23,1 
+6 PAP ESTINNES 
+101,8 
+111,7 
+40,2 
+35,5 
+7 PAP FRAMERIES 
+126,4 
+125,9 
+38,3 
+36,4 
+8 PAP HENSIES 
+176,0 
+110,5 
+/ 
+19,7 
+19 PAP HONNELLES 
+127,7 
+118,9 
+18,1 
+26,1 
+10 PAP JURBISE 
+101,0 
+85,5 
+21,3 
+26,2 
+11 PAP LA LOUVIÈRE 
+172,4 
+137,0 
+0,1 
+23,7 
+12 PAP LE ROEULX 
+113,4 
+111,2 
+20,6 
+24,4 
+13 PAP MANAGE 
+183,3 
+139,0 
+0,1 
+26,8 
+14 PAP MERBES 
+101,9 
+111,1 
+19,6 
+2938,1 
+15 PAP MONS 
+116,4 
+118,6 
+28,4 
+28,2 
+16 PAP MORLANWELZ 
+169,7 
+137,5 
+0,1 
+20,4 
+17 PAP QUAREGNON 
+200,3 
+159,7 
+0,2 
+19,9 
+18 PAP QUÉVY 
+100,8 
+97,3 
+26,1 
+19,6 
+19 PAP QUIÉVRAIN 
+190,2 
+131,5 
+/ 
+24,6 
+20 PAP SAINT-GHISLAIN 
+132,4 
+123,1 
+23,6 
+22,7 
+21 PAP SENEFFE 
+90,1 
+92,6 
+28,5 
+29,8 
+22 PAP SOIGNIES 
+96,0 
+98,4 
+30,6 
+30,1 
+
+---PAGE 7---
+7 
+ 
+[Tableau RES/BIO sur 2 ans]  
+*Les communes de Dour et Lens ne sont pas collectées par Hygea pour les collectes des déchets résiduels 
+et organiques. 
+2.2. Collecte des emballages ménagers 
+Hygea collecte les PMC en porte-à-porte, les papiers-cartons en porte-à-porte et via les recyparcs 
+ainsi que le verre via un réseau de bulles à verre pour 24 communes de la région de Mons-
+Borinage-Centre, soit Binche, Boussu, Colfontaine, Dour, Écaussinnes, Erquelinnes, Estinnes, 
+Frameries, Hensies, Honnelles, Jurbise, La Louvière, Lens, Le Roeulx, Manage, Merbes-le-
+Château, Mons, Morlanwelz, Quaregnon, Quévy, Quiévrain, Saint-Ghislain, Seneffe et Soignies. 
+Quelques chiffres 
+Les quantités d’emballages ménagers collectés en porte-à-porte (PMC, papiers-cartons) ainsi 
+que le verre collecté via les bulles en 2025 représentent 94 kg/hab.an (95). 
+Les emballages ménagers collectés en 2025 se répartissent comme suit : 
+• 
+13.925 tonnes de PMC (13.172) (+5%) 
+• 
+19.907 tonnes de papiers-cartons (20.971) (-5%) 
+• 
+13.445 tonnes de verre (13.738) (-2%) 
+[Infographie et tableau PMC, PC, VERRE] 
+On observe une évolution contrastée de la gestion des déchets en 2025. Les PMC enregistrent 
+une augmentation. En revanche, les papiers-cartons et le verre sont en diminution. 
+Afin de continuer à améliorer ces résultats, Hygea veillera à poursuivre les efforts entrepris, 
+notamment en menant des campagnes de prévention. 
+Focus sur les bulles à verre 
+Le réseau Hygea est constitué de 1.176 bulles à verre réparties sur 465 sites. 
+En matière de propreté des sites, nous constatons une augmentation significative du nombre 
+d’infractions par rapport à 2024. 
+Cette année, 37 sites (27) montrant des anomalies pour propreté ont été identifiés. L’état des 
+bulles à verre montre une légère amélioration, passant de 2 bulles en mauvais état en 2024 à 1 
+bulle en 2025. 
+Nous observons également une augmentation du nombre de bulles pleines, avec 11 bulles 
+pleines enregistrées (0). 
+2.3. Calendrier de collecte et Recycle! 
+Cette année encore, les calendriers de collecte ont été produits avec la volonté de diminuer la 
+consommation de papier. Certaines communes ont été regroupées dans un calendrier afin de 
+réduire les éditions. 
+Un accent particulier a été mis sur la promotion de l’application Recycle!. L’application a été 
+téléchargée 74.715 fois depuis sa mise en ligne. 
+L’application Recycle! s’impose comme un outil incontournable pour informer les citoyens des 
+jours de collecte, des changements exceptionnels et des consignes de tri. 
+
+---PAGE 8---
+8 
+ 
+2.4. Schéma global de collecte des déchets 2025 
+[Schéma] 
+3. Le réseau des recyparcs 
+Hygea gère un réseau constitué de 25 recyparcs répartis sur le territoire des 23 communes 
+associées. Ils sont situés sur les entités de Binche, Boussu, Colfontaine, Cuesmes, Dour, 
+Ecaussinnes, 
+Erquelinnes/Merbes-le-Château, 
+Estinnes, 
+Frameries, 
+Haine-Saint-Paul, 
+Honnelles, Jemappes, Jurbise, Le Roeulx, Manage, Morlanwelz, Obourg, Quaregnon, Quévy, 
+Quiévrain/Hensies, Saint-Ghislain, Saint-Vaast, Seneffe, Soignies et Strépy-Bracquegnies. 
+3.1. Fréquentation des recyparcs 
+3.1.1. Évolution de la fréquentation sur l’ensemble des RP Hygea 
+En 2025, le réseau de 25 recyparcs Hygea a accueilli 860.713 visites (903.049) dont 859.467 
+venant de ménages (901.843) ainsi que 1.246 visites de sociétés et ASBL (1.206). Il y a eu 123.281 
+cartes utilisées (122.753) soit une moyenne de 7 visites (7,4) par carte et par an. 
+On peut constater que le nombre de visites est en diminution au sein des recyparcs Hygea 
+(860.713 en 2025 contre 903.049 en 2024 pour 25 recyparcs). Le recyparc de Manage a été fermé 
+pour travaux toute l’année 2025 et certains recyparcs n’ont pas été accessibles pendant de 
+courtes périodes pour des travaux d’égouttage et de remplacement ou création de zones de 
+roulage ou bétonnées. Cela a induit une diminution des quantités collectées (- 3,44%). On 
+constate une nette diminution des déchets verts (-19,15 %), le bois est aussi en légère diminution 
+(-1,61 %), les quantités d’encombrants sont légèrement à la hausse (+2,02%) par contre les 
+inertes restent stables (+0,02 %). 
+3.1.2. Quotas 
+Pour rappel, chaque ménage dispose en début d’année civile d’un quota de 5 m³ d’encombrants 
+(encombrants incinérables et non incinérables), de 5 m³ d’inertes, de 12m³ de déchets verts, et 
+de 3 m³ de bois sur sa carte d’accès. 
+• 
+Pour les déchets encombrants (incinérables et non incinérables), le nombre de ménages 
+ayant dépassé le quota est de 503 sur 109.595 ménages ayant utilisé leur carte soit 0,46 % 
+(0,48 %). Le volume moyen de dépôt des encombrants est de 1,39 m³ pour les ménages sous 
+le quota, les ménages en dépassement ont quant à eux déposé en moyenne 7,01 m³. 
+• 
+Pour les déchets inertes, le nombre de ménages ayant dépassé le quota est de 136 sur 52.135 
+ménages ayant utilisé leur carte soit 0,26 % (0,3 %). Le volume moyen de dépôt des déchets 
+inertes est de 0,84 m³ pour les ménages sous le quota, les ménages en dépassement ont 
+déposé en moyenne 6,36 m³. 
+• 
+Pour les déchets verts, le nombre de ménages ayant dépassé le quota est de 112 sur 66.922 
+ménages ayant utilisé leur carte soit 0,17 % (0,17 %). Le volume moyen de dépôt des déchets 
+verts est de 2 m³ pour les ménages sous le quota, les ménages en dépassement ont déposé en 
+moyenne 15,56 m³. 
+• 
+En ce qui concerne le bois, le nombre de ménages ayant dépassé le quota est de 448 sur 76.738 
+ménages ayant utilisé leur carte soit 0,58 % (0,58 %). Le volume moyen de dépôt du bois est 
+de 0,9 m³ pour les ménages sous le quota, les ménages en dépassement ont déposé en 
+moyenne 4,46 m³. 
+Le volume moyen général par ménage sur l’année 2025 est de : 
+
+---PAGE 9---
+9 
+ 
+• 
+1,41 m³ pour les encombrants ; 
+• 
+0,85 m³ pour les inertes ; 
+• 
+2,03 m³ pour les déchets verts ; 
+• 
+0,93 m³ pour le bois. 
+[Image ou picto carte quotas] 
+3.1.3. Incivilités 
+En ce qui concerne les incivilités 96 rapports ont été complétés par les préposés et 82 courriers 
+ont été envoyés à des citoyens de la zone Hygea qui ont fait preuve d’un manque de respect du 
+règlement des recyparcs. Parmi ces courriers, 50 ont formulé un avertissement et 32 étaient 
+assortis d’une sanction. La sanction consiste en une exclusion des recyparcs Hygea de minimum 
+15 jours. Le temps maximum d’exclusion dépend de la procédure judiciaire si PV de Police a été 
+dressé. 
+Les 4 incivilités récurrentes sont : 
+• Déchets non conformes jetés dans les conteneurs non appropriés malgré les consignes 
+des agents du Recyparc ; 
+• Attitude irrespectueuse ; 
+• Remorques non-triées ; 
+• Dépassement des quantités autorisées (3m³ toute matière confondue par jour). 
+ 
+3.2. Déchets collectés en recyparcs 
+Pour l’ensemble de ces 25 recyparcs, les quantités de déchets collectés en 2023, 2024 et 2025 
+se répartissent comme suit : 
+MATIÈRES 
+2023 
+2024 
+2025 
+2025-2024 
+QUANTITÉS 
+QUANTITÉS 
+QUANTITÉS 
+[Comparaison 
+entre 2025 et 
+2024 des 
+kg/hab en %] 
+[Tonnes]   
+[Kg/hab] 
+[Tonnes]   
+[Kg/hab] 
+[Tonnes]   
+[Kg/hab] 
+INERTES 
+31.421 
+63,8 
+31.967 
+64,3 
+32.070 
+64,33 
++0,02% 
+DÉCHETS VERTS 
+19.110 
+38,8 
+21.667 
+43,6 
+17.570 
+35,24 
+-19,15% 
+ENCOMBRANTS 
+22.549 
+45,8 
+24.949 
+50,2 
+25.530 
+51,21 
++2,02% 
+BOIS 
+15.836 
+32,1 
+17.696 
+35,6 
+17.464 
+35,03 
+-1,61% 
+PAPIERS-CARTONS 
+3.483 
+7,1 
+3.744 
+7,5 
+3.423 
+6,86 
+-8,00% 
+MÉTAUX 
+2.534 
+5,1 
+2.927 
+5,9 
+3.065 
+6,15 
++4,39% 
+D.E.E.E. 
+2.539 
+5,2 
+2.754 
+5,5 
+2.846 
+5,71 
++3,03% 
+VERRE 
+988 
+2,0 
+1.096 
+2,2 
+1.017 
+2,04 
+-7,53% 
+DSM 
+759 
+1,5 
+860 
+1,7 
+911 
+1,83 
++5,69% 
+HUILES MINÉRALES 
+168 
+0,3 
+203 
+0,4 
+206 
+0,41 
++1,40% 
+
+---PAGE 10---
+10 
+ 
+HUILES/GRAISSES 
+VÉGÉTALES 
+140 
+0,3 
+145 
+0,3 
+140 
+0,28 
+-3,70% 
+POLYSTYRÈNE EXPANSÉ 
+74 
+0,2 
+78 
+0,2 
+70 
+0,14 
+-10,84% 
+PILES 
+21 
+0,0 
+25 
+0,1 
+24 
+0,04 
+-4,32% 
+VERRE PLAT 
+800 
+1,6 
+878 
+1,8 
+893 
+1,79 
++1,41% 
+PLASTIQUES RIGIDES 
+259 
+0,5 
+240 
+0,5 
+262 
+0,52 
++8,75% 
+RECYCLERIE 
+45 
+0,1 
+39 
+0,1 
+40 
+0,08 
++0,31% 
+TEXTILES 
+371 
+0,5 
+435 
+0,9 
+385 
+0,77 
+-11,84% 
+MATELAS 
+22 
+0,04 
+32 
+0,06 
+77 
+0,15 
++140,37% 
+PNEUX 
+92 
+0,2 
+121 
+0,24 
+179 
+0,35 
++47,34% 
+ASBESTE-CIMENT 
+66 
+0,1 
+49 
+0,1 
+42 
+0,08 
+-16,22% 
+TOTAUX 
+101.285 
+204  
+109.906 
+221  
+106.212 
+213 
+-3,44% 
+[Tableau n°4 : Quantités de déchets collectés annuellement via l’ensemble des recyparcs ces 3 dernières 
+années.] 
+Remarque : Ces statistiques ne tiennent pas compte des quantités collectées au sein du recyparc 
+de Lens, celui-ci n’étant pas géré par Hygea. 
+3.3. Redynamisation des recyparcs 
+Dans le cadre du programme de redynamisation des installations subsidié par la Région 
+Wallonne, les travaux pour le renouvellement du recyparc de Manage débutés en novembre 2024 
+se sont poursuivis en 2025 et la demande de promesse de principe de subvention pour le recyparc 
+de Colfontaine a été sollicitée auprès du Ministre Yves Coppieters. 
+Pour rappel, l’AGW du 15/09/2016 établit le traitement administratif des demandes de promesses 
+de principe, des demandes de promesses fermes, du décompte final et des taux de subventions 
+en ce y compris les recyparcs. 
+Sous le principe d’un « moratoire » en 2025 des subsides, Hygea par le biais de son Conseil 
+d’Administration a décidé de poursuivre vu la nécessité les études, demandes de permis et le cas 
+échéant les travaux durant la période du moratoire 
+3.4. Collecte spécifique des bâches agricoles 
+À la suite du « moratoire » des subsides en Région Wallonne pour les années à venir et donc de la 
+perspective qu’Hygea ne dispose plus de ce subside, il a été proposé que les communes 
+disposent de la liberté d’organiser une collecte de bâches agricoles (propres et exemptes de 
+cordes) associée à la prise en charge des coûts de traitement. (302,5 €/tonne TVAC pour 2025). 
+Dans le cadre de l’Arrêté du Gouvernement wallon du 30 avril 1998 relatif aux subventions en 
+matière de prévention et de gestion de déchets et à la suite des délégations des communes, 
+Hygea a procédé en 2025 à la collecte des bâches agricoles pour les communes qui désiraient 
+poursuivre cette collecte. Celles-ci ont eu lieu soit dans les recyparcs, soit au sein des 
+communes, à des dates précises selon la demande de ces dernières. Au total, 63,88 tonnes de 
+bâches agricoles (273) ont été collectées en 2025. 
+
+---PAGE 11---
+11 
+ 
+4. Recyclerie 
+Dans les régions de Mons et du Centre, Hygea gère la coordination d’un dispositif de collecte 
+d’objets réutilisables mis en place au sein de plusieurs recyparcs. Ces activités de réemploi sont 
+effectuées en partenariat avec le CPAS de Mons et de La Louvière. En pratique, des conteneurs 
+bien distincts et couverts sont mis à la disposition de la population dans les recyparcs de 
+Cuesmes, Obourg, Dour, Frameries, Soignies et Strépy-Bracquegnies. 
+Les structures d’économie sociale partenaires sont chargées de gérer les biens réutilisables 
+déposés dans ces conteneurs. Elles viennent les récupérer et prennent ensuite en charge le 
+reconditionnement et la revente à faible prix dans leurs magasins sociaux. 
+Au cours de l’année 2025, Hygea a collecté 39.580 kg de biens réutilisables (39.340 kg) dans les 
+recyparcs concernés. 
+Recyparcs 
+2023 [Kg] 
+2024 [Kg] 
+2025 [Kg] 
+CUESMES 
+620 
+1.180 
+2.220 
+DOUR 
+8.480 
+5.600 
+6.640 
+OBOURG 
+24.620 
+19.040 
+15.440 
+FRAMERIES 
+11.320 
+12.940 
+13.260 
+SOIGNIES 
+/ 
+580 
+1.640 
+Strépy 
+/ 
+/ 
+380 
+Total  
+45.040 
+39.340 
+39.580 
+ 
+[Tableau n°5 : Répartition des quantités collectées par recyparc.] 
+ 
+ 
+4.1. Suivi FEDER 
+Dans le cadre des projets approuvés (création d’une recyclerie à La Louvière et extension de la 
+recyclerie de Mons-Borinage), Hygea, en collaboration avec le Bureau d’études Igretec, a travaillé 
+sur les esquisses et avant-projets en étroite interaction avec les bénéficiaires. 
+Deux réunions COMAC se sont tenues afin de mesurer l’état d’avancement, le planning et les 
+contraintes techniques rencontrées. Face aux impondérables techniques et à la hausse des 
+coûts unitaires, Hygea a sollicité une révision budgétaire auprès de l’autorité subsidiante. 
+5. Services payants 
+5.1. Petits conteneurs 
+Hygea propose à ses communes un service de collecte en petits conteneurs basculants pour les 
+déchets résiduels, les papiers-cartons et les PMC. 
+
+---PAGE 12---
+12 
+ 
+En 2025, ce sont 49.852levées (59.953) de conteneurs qui ont été réalisées et 3.744 tonnes 
+(4.502) de déchets collectés. 
+5.2. Grands conteneurs 
+Hygea propose à ses communes affiliées ainsi qu’aux citoyens, la location de grands conteneurs 
+pour assurer l’évacuation et le traitement des différents types de déchets. 
+En 2025, les conteneurs de l’intercommunale ont été vidangés 1.712 fois (1.748), ce qui a permis 
+de collecter 9.618 tonnes de déchets (9.822), soit une diminution de 2% par rapport à l’année 
+2024. Les déchets collectés sont essentiellement des encombrants, des déchets verts, des 
+inertes, des métaux et des papiers-cartons. 
+5.3. Service à domicile 
+Hygea propose aux citoyens un service à domicile sur rendez-vous pour l’enlèvement de certains 
+déchets tels que les encombrants, les déchets verts ou le bois. 
+En 2025, 3.013 m³ (2.527) de déchets divers ont été collectés chez les citoyens de la zone Hygea. 
+Le nombre d’enlèvements réalisés en 2025 s’élève à 705 (591) représentant un total de 279 
+tonnes (234). 
+5.4. Apports communaux 
+Les communes peuvent accéder aux sites d’Havré pour y déposer des déchets, après leur 
+passage sur le pont bascule. Ce service est payant, les coûts sont portés par chaque commune 
+concernée en application d’un tarif validé par le Conseil d’Administration de l’intercommunale, 
+sans que cela soit intégré dans la quote-part pour le calcul du coût-vérité. 
+Le tonnage de déchets ainsi déposés sur les plateformes d’Hygea en 2025 s’élève à 5.865 tonnes 
+(6.756). 
+Les communes ont également apporté des déchets directement dans les exutoires sous 
+marchés publics avec Hygea. Ces déchets sont majoritairement des déchets résiduels, déchets 
+verts, des inertes, du bois et des encombrants. Les quantités de ces déchets correspond à 957,88 
+tonnes (1.456). Le tonnage total des apports communaux s’élève donc à 6.823 tonnes. 
+6. Synthèse des modes de collecte 
+[Synthèse] 
+7. Traitement des déchets  
+Le traitement des déchets hors incinération est repris au sein du Secteur 2 d’Hygea. En 2025, 
+Hygea a assuré, pour le compte de ses associés communaux, la gestion de 244.000 tonnes 
+(255.000) de déchets (déchets résiduels et déchets organiques, PMC, papiers/cartons et déchets 
+collectés en recyparcs) directement produits par les ménages et les communes qui font appel à 
+Hygea pour ce service (secteur II : Traitement). 
+Ces déchets sont majoritairement recyclés (63 %) via des filières désignées par appel d’offres. 
+Seul l’asbeste-ciment est envoyé en centre d’enfouissement technique (CET), ce qui représente 
+0,02 % de la quantité totale de déchets gérés par l’intercommunale. 
+Le solde des déchets (37 %) est incinéré avec valorisation énergétique au sein de l’unité de 
+valorisation énergétique d’IPALLE à Thumaide. 
+[Graphique n°5 : Répartition des filières de traitement des déchets.] 
+
+---PAGE 13---
+13 
+ 
+8. Services supports 
+8.1. La qualité, notre engagement du service public 
+8.1.1. Webshop 
+Le webshop est une plateforme de services en ligne destinée à faciliter les démarches des 
+citoyens en matière de gestion de déchets et d’accès aux équipements d’Hygea. Il permet de 
+réduire les déplacements physiques et offre un canal pratique pour accéder à l’ensemble des 
+services liés aux recyparcs et à la gestion des déchets. 
+Le webshop permet notamment de : 
+• 
+Obtenir ou gérer sa carte d’accès aux recyparcs Hygea (activation, changement de 
+titulaire, blocage en cas de perte, etc.).  
+• 
+Consulter sa consommation et acheter des quotas de dépôt pour les recyparcs.  
+• 
+Gérer les accès aux points d’apport volontaire (PAV) : consulter le solde, recharger ou 
+commander un badge d’accès.  
+• 
+Louer un conteneur pour évacuer des déchets spécifiques en grandes quantités (par 
+exemple lors de gros travaux).  
+• 
+Réserver un service de collecte à domicile ou du matériel spécifique (comme des kits de 
+protection ou des sacs pour l’amiante-ciment).  
+• 
+Télécharger des supports d’information relatifs à la gestion des déchets.  
+En 2025, pas moins de 2.271 comptes ont été créés sur le webshop. Ces comptes sont 
+majoritairement utilisés pour obtenir et activer les cartes d’accès aux recyparcs, obtenir des 
+badges destinés à l’ouverture des PAV ainsi qu’à bloquer des cartes d’accès aux recyparcs en cas 
+de vol ou perte. 
+Les citoyens peuvent également faire appel au Service à Domicile via le webshop ou encore 
+commander du matériel destiné à l’asbeste-ciment. 
+8.1.2. Services carte d’accès aux recyparcs et aux points d’apport volontaire 
+En 2025, 8.931 cartes d’accès aux recyparcs ont été éditées via le webshop ainsi que dans les 
+bureaux administratifs. Ces cartes concernent les nouveaux usagers, des demandes de seconde 
+carte pour un même ménage ainsi que le remplacement de cartes perdues ou volées. 
+En 2025, 4.189 badges destinés à l’ouverture des PAV étaient actifs. Ceux-ci sont disponible chez 
+les commerçants-revendeurs ainsi que sur le webshop. 
+8.1.3. Call-center 
+Hygea a poursuivi son engagement dans l’amélioration de la qualité des prestations dont la 
+collecte apparaît comme l’activité la plus visible et la plus sensible. 
+Afin de déployer une méthodologie solide et pérenne, Hygea veille à collecter de manière 
+quasiment exhaustive l’ensemble des éléments de non-conformité renseignés par les citoyens et 
+communes. 
+En 2025, le call-center est resté un outil privilégié pour apporter des réponses aux demandes 
+générales des citoyens mais également pour l’enregistrement des non-conformités. Pas moins 
+de 11.363 plaintes tous services confondus (6.141) dont 10.067 qui concernent le service 
+
+---PAGE 14---
+14 
+ 
+collecte en porte-à-porte (5.286). Cela est notamment dû à la finalisation de la mise en place du 
+nouveau schéma de collecte sur l’ensemble de la zone Hygea. 
+En 2025, 2.928 plaintes ont été effectuées via notre site internet. 
+Nous constatons un pic de plaintes liées à la collecte en porte-à-porte suite à des jours fériés, 
+des congés scolaires ou encore des perturbations liées aux intempéries. 
+Hygea souhaite apporter une attention particulière aux non-conformités récurrentes. 
+8.2. Stratégie et actions de communication 
+La cellule communication de l’intercommunale Hygea est responsable de toutes les actions de 
+communication, tant internes qu’externes. Elle coordonne également les campagnes de 
+sensibilisation au tri des emballages ménagers en partenariat avec Fost Plus. 
+• 
+Communication externe 
+Site internet : www.hygea.be 
+Le site internet de l’intercommunale constitue un véritable outil de communication en matière de 
+tri et de prévention des déchets. Il est régulièrement mis à jour en fonction des actualités de 
+l’intercommunale (campagnes de prévention, horaires des recyparcs, collectes de rattrapage, 
+etc.). En 2025, environ 111.000 citoyens ont consulté le site de l’intercommunale. Au total, 50 
+actualités y ont été publiées. 
+Page Facebook Hygea 
+En 2025, le nombre d’abonnés a augmenté, passant de 22.180 pour 2024 à 23.884 pour 2025. La 
+page Facebook Hygea met en avant des informations de prévention ainsi que des campagnes de 
+sensibilisation. 
+Page Facebook Poursuite de collectes 
+La page dédiée aux poursuites de collectes compte 1.231 abonnés (1.138). En 2025, la page 
+compte 15 publications. 
+Page LinkedIn 
+En 2025, 5 posts ont été publiés. La page compte 659 abonnés (513). 1.150 personnes ont visité 
+la page (753). La cellule communication souhaite davantage développer cette page afin de 
+toucher un plus grand nombre de personnes. 
+Les posts publiés sont relatifs à la prévention, des offres d’emploi ou encore des actualités 
+corporate. 
+Les campagnes de communication sur le tri et le recyclage des emballages menées en 
+collaboration avec Fost Plus. 
+Outre la mise en place des actions de communication d’Hygea, la cellule communication, en 
+collaboration avec Fost Plus, a également assuré la mise en œuvre d’actions de communication 
+destinées à sensibiliser au mieux les citoyens au tri et au recyclage des déchets d’emballages. 
+En 2025, Hygea et Fost Plus ont poursuivi la campagne de sensibilisation axée sur le dépôt de 
+Déchets Spéciaux des Ménages dans les PMC. L’objectif de cette campagne est de rappeler aux 
+citoyens que les déchets dangereux doivent être jetés au recyparc.  
+
+---PAGE 15---
+15 
+ 
+Une campagne a également été réalisée auprès des citoyens qui ne triaient pas correctement les 
+déchets allant dans le sac PMC. Des mains rouges ont été apposées sur les sacs présentant une 
+anomalie. 
+• 
+Communication interne 
+Le personnel de l’intercommunale, réparti sur 3 sites principaux et 25 recyparcs, nécessite une 
+communication accrue. La communication interne se fait donc via différents canaux de 
+communication. 
+En complément des écrans internes installés sur l’ensemble des sites, un groupe Facebook 
+interne ‘‘Ensemble, ça roule mieux’’ permet aux collaborateurs d’être informés des dernières 
+actualités de l’intercommunale. Le groupe interne comptait 149 membres en 2025 (124). 51 
+publications ont été postées sur ce groupe en 2025. 
+Une campagne de sensibilisation concernant les mégots de cigarettes a notamment été menée 
+sur l’ensemble des sites, incluant les recyparcs. Des cendriers de poche ont été distribués aux 
+collaborateurs fumeurs. 
+8.3. Département QSE (Qualité – Sécurité – Environnement) 
+La sécurité des personnes reste au cœur des valeurs défendues par l’intercommunale et ce tant 
+pour les agents Hygea que pour les usagers.  
+Cette volonté d’assurer les meilleures conditions de sécurité, dans le cadre de métiers souvent à 
+risque, se traduit par une sensibilisation du plus grand nombre à travers une communication, des 
+formations ciblées, la recherche d’amélioration des équipements de protection ou encore le 
+matériel et les infrastructures. 
+En ce qui concerne le nombre des accidents de travail, pour l’année 2025, il y en a eu moins, ce 
+qui confirme notre tendance à la baisse des statistiques. Les conséquences des accidents 
+(nombre de jours d’interruption) sont aussi moins élevées. 
+Cela se traduit à travers les indicateurs que sont le taux de fréquence (ratio entre le nombre 
+d’accidents et le nombre d’heures prestées) et le taux de gravité (ratio entre le nombre de jours 
+d’incapacité et le nombre d’heures prestées).  
+Deux tiers des accidents de travail chez Hygea sont liés aux manutentions manuelles de charges 
+dont beaucoup en voirie publique.  
+La collecte en porte-à-porte reste l’activité la plus accidentogène en 2025 et plus précisément 
+liés au poste de chargeur. 
+
+---PAGE 16---
+16 
+ 
+ 
+[Graphique n°10 : Évolution du taux de fréquence des accidents de travail au cours des 5 dernières années.] 
+ 
+[Graphique n°11 : Évolution du taux de gravité des accidents de travail au cours des 5 dernières années.] 
+• 
+Hygea s’engage envers les Objectifs de Développement Durable 
+La volonté d’Hygea de développer une ligne verte a été transcrite dans le plan stratégique 2026-
+2028 de l’intercommunale et ainsi anticiper les exigences de notre temps à savoir limiter les 
+impacts environnementaux, préserver les écosystèmes et les ressources naturelles à long terme. 
+La qualité environnementale est un des trois piliers du développement durable avec l’efficacité 
+économique et l’équité sociale. 
+Hygea a identifié 5 Objectifs prioritaires de Développement Durable appelés ODD. 
+Ceux-ci seront intégrés dans ses outils stratégiques et dans son fonctionnement interne 
+notamment à travers une feuille de route reprenant des actions concrètes à initier. 
+71
+80
+58
+65
+45
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+2020,5
+2021
+2021,5
+2022
+2022,5
+2023
+2023,5
+2024
+2024,5
+2025
+2025,5
+Taux de fréquence
+1,5
+2,4
+1,7
+4
+3,6
+0
+0,5
+1
+1,5
+2
+2,5
+3
+3,5
+4
+4,5
+2020,5
+2021
+2021,5
+2022
+2022,5
+2023
+2023,5
+2024
+2024,5
+2025
+2025,5
+Taux de gravité
+
+---PAGE 17---
+17 
+ 
+- 
+Objectif 3 : Permettre à tous de vivre en bonne santé et promouvoir le bien-être de tous à 
+tout âge 
+- 
+Objectif 9 : Bâtir une infrastructure résiliente, promouvoir une industrialisation durable qui 
+profite à tous et encourager l’innovation 
+- 
+Objectif 11 : Faire en sorte que les villes et les établissements humains soient ouverts à 
+tous, sûrs, résilients et durables 
+- 
+Objectif 12 : Établir des modes de consommation et de production durables 
+- 
+Objectif 13 : Prendre d’urgence des mesures pour lutter contre les changements 
+climatiques et leurs répercussions 
+Les actions mises en place dans le cadre des Objectifs de Développement Durable 
+- 
+Une recyclerie est installée à Mons et une nouvelle recyclerie est en cours de 
+développement à La Louvière, avec la participation d’Hygea. 
+- 
+La collecte des déchets organiques en porte-à-porte a été généralisée : l’ensemble des 
+communes affiliées à Hygea ont adhéré à ce projet, contribuant ainsi à la réduction des 
+déchets ménagers résiduels. 
+- 
+Les espaces de biodiversité créés en 2024 font l’objet d’un entretien régulier, participant 
+à la préservation du patrimoine naturel. 
+- 
+Des compacteurs pour papiers et cartons ont été installés dans les recyparcs afin 
+d’optimiser les transports. 
+- 
+Des compteurs intelligents ont été déployés sur les différents sites d’Hygea, contribuant 
+à une gestion plus durable des ressources naturelles. 
+- 
+Un audit énergétique a été réalisé pour les bâtiments d’Hygea situés à Havré et Cuesmes. 
+- 
+Des bornes de recharge électrique sont progressivement installées sur les sites et dans 
+les recyparcs : plusieurs sont déjà opérationnelles à Manage et Havré, et six sont prévues 
+en 2026 à Cuesmes. À l’horizon 2026, l’ensemble des sites en sera équipé. 
+ 
+GRAPHIQUE N° : Figure représentant la situation de mise en œuvre des ODD au 30 septembre 2025 (source 
+feuille de route vers les ODD chez Hygea – Espace environnement asbl - Wallonie relance) 
+ 
+ 
+ 
+ 
+
+---PAGE 18---
+18 
+ 
+8.4. Ressources humaines 
+L’année 2025 a été marquée par une forte mobilisation du département des Ressources 
+Humaines afin d’accompagner l’organisation dans plusieurs évolutions importantes, tant sur le 
+plan institutionnel qu’opérationnel. 
+Le département RH a tout d’abord accompagné le changement et le renouvellement des 
+instances au travers du comité de rémunération en veillant à assurer la continuité des activités et 
+la bonne transition au sein de l’organisation. Dans un contexte marqué par des incertitudes 
+relatives aux régimes de pensions et aux fins de carrière dans le secteur public, le département a 
+également apporté un soutien aux agents et à la direction afin de clarifier les perspectives et 
+d’anticiper les évolutions possibles. 
+Par ailleurs, les Ressources Humaines ont contribué activement à l’élaboration du nouveau plan 
+stratégique, notamment en apportant une expertise sur les enjeux liés aux compétences, à 
+l’organisation du travail et à l’évolution des métiers. 
+L’année a également confirmé l’un des défis majeurs du secteur public : attirer et fidéliser du 
+personnel qualifié. Dans un contexte de concurrence accrue sur le marché de l’emploi, le 
+département RH a poursuivi ses efforts pour renforcer l’attractivité des postes et stabiliser les 
+équipes. 
+Les Ressources Humaines ont aussi collaboré à la mise en place d’une nouvelle activité de 
+Propreté Publique structurée autour de deux pôles : la gestion des poubelles publiques et le 
+curage des avaloirs. Cette dernière évolution a nécessité un accompagnement en matière de 
+recrutement, d’organisation du travail et de définition des fonctions. 
+Sur le plan administratif et réglementaire, la modification du dispositif des subsides APE a rendu 
+la gestion plus complexe et a nécessité une adaptation des procédures internes. Le département 
+RH a veillé à assurer la conformité et le suivi de ces changements. 
+Une attention particulière a également été portée à l’anticipation des fins de carrière sur des 
+postes stratégiques, notamment au niveau des fonctions de direction, dont plusieurs devront être 
+renouvelées dans une période relativement rapprochée. Des réflexions ont été menées afin 
+d’identifier les solutions les plus adéquates pour assurer la continuité managériale et la 
+transmission des compétences. 
+L’année 2025 a également vu l’aboutissement du projet d’enregistrement du temps de travail, 
+désormais couplé à la base de données unique de paie. Cette avancée constitue une étape 
+importante dans la modernisation des outils de gestion et dans l’amélioration de la fiabilité des 
+données RH. 
+Enfin, le service a assuré la gestion et l’implémentation d’un nouveau contrat-cadre pour le 
+recours à l’intérim, permettant de mieux répondre aux besoins ponctuels en personnel. 
+Il convient également de souligner la qualité du climat social au sein de l’organisation. La 
+concertation sociale s’est poursuivie de manière constructive et aucun jour de grève lié à des 
+éléments internes n’a été à déplorer en 2025. 
+Ainsi, tout au long de l’année, le département des Ressources Humaines a joué un rôle central 
+dans l’accompagnement des transformations de l’organisation et dans le maintien d’un cadre de 
+travail stable et structuré pour l’ensemble des agents. 
+
+---PAGE 19---
+19 
+ 
+Profil des collaborateurs 
+À la fin de l’année 2025, l’intercommunale Hygea occupait 356 agents répartis comme suit : 24 
+femmes et 332 hommes.  
+Répartition du personnel par site d’activité : 
+- 
+87 
+agents à Manage ; 
+- 
+138 
+agents à Cuesmes ;  
+- 
+51 
+agents à Havré ;  
+- 
+80  
+agents pour le réseau de 25 Recyparcs. 
+ 
+ 
+ 
+Répartition du personnel par statut : 
+- 
+182 agents nommés, dont 53 employés et 129 ouvriers ; 
+- 
+9 agents contractuels, dont 5 employés et 4 ouvriers ; 
+- 
+165 agents contractuels subventionnés (APE), dont 16 employés et 149 ouvriers. 
+ 
+ 
+ 
+87
+138
+51
+80
+Graphique n° 1 :
+Répartition du personnel par site 
+d'activité
+Manage
+Cuesmes
+Havré
+Recyparcs
+182
+9
+165
+Graphique n° 2 :
+Répartition du personnel par statut
+Nommés
+Contractuels
+APE
+
+---PAGE 20---
+20 
+ 
+ 
+ 
+Répartition du personnel par tranche d’âge : 
+- 
+11 agents âgés entre 18 et 25 ans ; 
+- 
+29 agents âgés entre 26 et 35 ans ; 
+- 
+81 agents âgés entre 36 et 45 ans ; 
+- 
+149 agents âgés entre 46 et 55 ans ; 
+- 
+86 agents âgés entre 56 et 65 ans. 
+ 
+ 
+ 
+ 
+En l’occurrence, 33,98% du personnel d’HYGEA est âgé de moins de 46 ans. 
+ 
+Mouvement du personnel  
+Au cours de l’année 2025, le mouvement du personnel (hors renforts été) se répartit comme suit : 
+Entrées : 25 
+Sorties : 28 
+ 
+53
+5
+16
+129
+4
+149
+0
+20
+40
+60
+80
+100
+120
+140
+160
+Nommés
+Contractuels
+APE
+Graphique n° 3 :
+Détail de la répartition du personnel par 
+statut
+Employés
+Ouvrier
+11
+27
+73
+140
+81
+0
+2
+8
+9
+5
+0
+20
+40
+60
+80
+100
+120
+140
+160
+25 ans et
+moins
+Entre 26 et
+35 ans
+Entre 36 et
+45 ans
+Entre 46 et
+55 ans
+Entre 56 et
+65 ans
+Graphique n° 4 :
+Répartition du personnel par sexe et 
+tranche d'âge
+Hommes
+Femmes
+
+---PAGE 21---
+21 
+ 
+En ce qui concerne les renforts été, ils ont été au nombre de 55 en 2025. 
+Cette année, nous avons également engagé des étudiants sous contrat HYGEA. Ils ont été au 
+nombre de 19, répartis tant aux Départements Administratif, Finances, Logistique, Technique, 
+Recyparc, RH, Collecte, Communication que IT. Les étudiants Préposés ont, quant à eux, été 
+gérés via l’agence d’intérim, comme les années précédentes. 
+Masse salariale 
+En 2025, le montant des rémunérations, déduction faite des subsides accordés, s’est élevé à 
+25.726.739,60 €. 
+8.5. Cellule juridique 
+Au cours de l’année 2025, la mission principale de la cellule juridique a consisté à planifier, lancer 
+et animer les marchés publics récurrents et non récurrents. Une quarantaine de marchés ont été 
+lancés, parmi lesquels : 
+• 
+La fourniture des sacs PMC ; 
+• 
+L’acquisition de divers véhicules (fourgonnettes électriques, camionnettes, tracteurs, ...) ; 
+• 
+La valorisation du bois ; 
+• 
+Etc. 
+Comme l’année dernière, l’année 2025 a de nouveau été marquée par une augmentation 
+significative du nombre de marchés publics, dont certains, très spécifique ont fait l’objet d’un 
+accompagnement externe.  
+Dès lors, au vu du nombre de marchés qui ne cessent d’augmenter et du fait que ceux-ci devront 
+automatiquement être renouvelés, un nouveau marché de consultance en marchés public a été 
+lancé afin de soutenir de manière durable la cellule juridique. 
+La cellule juridique a également apporté son appui à un dossier de plus grande ampleur, à savoir 
+un partenariat public privé dans le cadre de la création d’une unité de biométhanisation. 
+La cellule juridique a également continué à assurer la rédaction de divers actes administratifs, 
+tels que les conventions ou encore le suivi des centrales d’achat. 
+8.6. Cellule IT 
+La cellule Informatique d'Hygea a modernisé ses services en déployant des applications 
+spécialisées pour optimiser la gestion administrative et opérationnelle. Pour soutenir cette 
+transformation numérique, l'équipe a renforcé la sécurité du réseau. 
+La mise en œuvre d'un système de tickets permet désormais d'assurer une assistance 
+technique plus structurée et réactive pour tous les employés.  
+L’ensemble de ces initiatives visent à garantir un environnement de travail fiable et un accès 
+fluide aux ressources numériques de l'intercommunale. 
+La cellule informatique d’Hygea sécurise les données de l’intercommunale à travers plusieurs 
+axes stratégiques et techniques : 
+• 
+Consolidation de l’infrastructure : Une attention particulière est portée à la sécurité du 
+réseau informatique ainsi que de l’ensemble des terminaux utilisés par les 
+collaborateurs.  
+
+---PAGE 22---
+22 
+ 
+• 
+Contrôle des accès : La mise en place de la double authentification (MFA) constitue 
+une mesure clé pour renforcer la sécurité des connexions au système d’information. 
+• 
+Supervision et maîtrise des outils : La cellule maîtrise une série d’outils permettant la 
+supervision constante et la sécurisation du système d'information, assurant ainsi un 
+accès réseau protégé pour tous les utilisateurs. 
+• 
+Gestion et documentation : La sécurisation passe aussi par une meilleure organisation, 
+notamment via la documentation des process informatiques et l’utilisation d’un 
+programme de ticketing pour la gestion des interventions IT. 
+D’une manière générale, la cellule s’efforce d’assurer un développement sécurisé, efficient et 
+accessible pour soutenir la digitalisation croissante des missions de l’intercommunale 
+  
+8.7. Finances  
+Les différents flux d’appels à cotisations et de facturation d’Hygea sont détaillés ci-après : 
+ 
+Sur le plan financier, l’exercice 2025 se caractérise par un résultat opérationnel positif de 
+7.610.251 €, témoignant d’une gestion rigoureuse des produits et des charges. 
+Les charges d’exploitation s’élèvent à 58.448.081 €, un niveau globalement stable par rapport à 
+l’exercice précédent, tout en restant sensiblement inférieures au budget initialement prévu de 
+61.641.827 €. Cette situation reflète une maîtrise continue des coûts, dans un contexte pourtant 
+marqué par des incertitudes économiques, ainsi qu’une capacité d’adaptation aux réalités 
+opérationnelles. 
+Concernant le coût énergétique, particulièrement sensible ces dernières années, il poursuit sa 
+tendance à la baisse, passant de 2.566.584 € en 2023 à 2.372.172 € en 2024, pour atteindre 
+2.084.561 € en 2025, soit un niveau nettement inférieur au budget prévu de 2.738.000 €. Cette 
+évolution favorable s’explique notamment par une meilleure anticipation des marchés, des 
+actions d’optimisation, ainsi que par un contexte plus favorable sur les prix de l’énergie. 
+Concernant le traitement des déchets, poste central de l’activité, les dépenses s’établissent à 
+14.330.270 €, en deçà du budget initial (16.270.302 €) et en diminution par rapport à 2024 
+(14.936.528 €). Cette évolution s’explique notamment par les conditions de marché, les 
+mécanismes liés aux marchés publics ainsi que par l’évolution des recettes connexes, 
+essentiellement celles liées à la revente d’électricité produite par la valorisation des déchets. 
+Du côté des ressources humaines, les frais de personnel demeurent un poste majeur, s’élevant à 
+25.563.724 €, tout en restant inférieurs à l’enveloppe budgétaire prévue de 27.388.254 €. Cette 
+situation confirme une gestion maîtrisée des effectifs et des coûts salariaux, en cohérence avec 
+les besoins opérationnels. 
+
+---PAGE 23---
+23 
+ 
+Le recours à l’intérim, en hausse par rapport au budget, s’inscrit dans la réalité opérationnelle de 
+métiers exigeants nécessitant une continuité quotidienne du service, notamment pour assurer la 
+collecte des déchets. Il permet de faire face aux absences et d’assurer le maintien du service 
+public. Il convient toutefois de rester attentif à ce type de recours afin d’en garantir une utilisation 
+maîtrisée dans la durée. 
+En matière de recettes, la vente de sacs poubelles enregistre une progression particulièrement 
+marquée, atteignant 12.387.130 €, contre un budget initial de 9.589.706 € et 10.946.324 € en 
+2024. Cette évolution s’explique principalement par la mise en place des nouveaux schémas de 
+collecte et par une forte adhésion des citoyens dès la première année de déploiement dans 
+l’ensemble des communes concernées. 
+Par ailleurs, les ventes de matières recyclables affichent également une performance positive, 
+avec des recettes atteignant 1.997.141 €, supérieures au budget prévisionnel de 1.808.281 €. 
+Dans une logique d’amélioration continue de sa gestion financière, l’intercommunale a poursuivi 
+en 2025 plusieurs initiatives visant à renforcer ses processus internes et optimiser sa trésorerie. 
+Parmi celles-ci, la réintégration complète de la gestion des ventes et des stocks de sacs poubelles 
+au sein du département financier constitue un axe structurant. Cette démarche s’est concrétisée 
+par la mise en place effective d’un webshop en 2025, facilitant la gestion des commandes pour 
+les clients revendeurs et améliorant la fluidité des opérations logistiques. 
+En parallèle, le service financier poursuit ses efforts afin de renforcer la mise en concurrence des 
+fournisseurs, dans une optique de maîtrise durable des coûts. Cette démarche s’inscrit 
+pleinement dans la mission de service public de l’intercommunale, visant à garantir une gestion 
+efficiente et responsable au bénéfice des citoyens. 
