@@ -22921,3 +22921,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated; route via chirec.be).
 - EVERY-10 done. Next every-10 **2000**. Next: rq_1991 (AGB/FARO-if-YE2025 / AIESH-REW / Humani-GHdC / unused DSO-IGS-HVZ-hospital).
 
+## Tick 1991 - 2026-08-24T01:20:00Z - rq_1991 Humani (omzet JUMP 662.29m / pnl LOSS 6.70m / Medium)
+
+- Unit: **rq_1991** leftover dual after **rq_1990 EVERY-10 + CHIREC**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **Humani** YE2025 (KBO **0216.377.108**; Boulevard Zoe Drion 1 Charleroi; Charleroi-Chimay **hospital intercommunale CV**). **GHdC** deferred. Do not redo CHIREC/Tivoli/Citadelle/ISoSL/Epicura/CHwapi/CHU UCL Namur/Vivalia/HELORA/IDETA/SPI/IDELUX Finances.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR662,286,253** JUMP +4.29%; pnl **NEG EUR-6,699,123** LOSS turnaround (-325.41% vs YE2024 profit 2.97m); equity **EUR204,947,965** DROP -4.22%; bruto **EUR410,553,328** JUMP +3.32%; FTE **5560** (+97 vs 5463); neerlegging **21.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief CV 31 VE; email nemo@humani.be.
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 igs_humani); foi + draft gap_humani_nbb_pdf_assets_debt_pnl_loss_matrix_l5; rq_1991=done + rq_1992 open; loop_state ticks=1991; raw under docs/doge/data/raw/tick1991/.
+- FOI: **ready not sent** (human-gated; nemo@humani.be).
+- NOT every-10 (**next every-10 is 2000**). Next: rq_1992 (AGB/FARO-if-YE2025 / AIESH-REW / GHdC / unused DSO-IGS-HVZ-hospital).
+
