@@ -23313,3 +23313,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_olv_lourdes_kortenberg); foi + draft gap_wzc_olv_lourdes_kortenberg_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2032=done + rq_2033 open; loop_state ticks=2032; raw under docs/doge/data/raw/tick2032/.
 - FOI: **ready not sent** (human-gated; algemeen@olvlourdes.be).
 - NOT every-10 (**next every-10 is 2040**). Next: rq_2033 (AGB/FARO-if-YE2025 / AIESH-REW / OLVA-Triest / unused DSO-IGS-HVZ).
+
+
+## Tick 2033 - 2026-08-24T12:55:00Z - rq_2033 Cassiers WZC (omzet JUMP 7.20m / pnl DROP 0.42m / Medium)
+
+- Unit: **rq_2033** leftover dual after **rq_2032 WZC OLV Lourdes Kortenberg**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took preferred unused leftover **Cassiers WZC Houthulst** YE2025 (KBO **0434.434.393**; 7e-Geniestraat 3 Houthulst; West-Vlaanderen **WZC VZW**). Sint-Bernardus Assenede / OLV Roosdaal / OLVA / Triest YE2025 also live — deferred. Do not redo Lourdes/Vincentius Antwerpen/Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Maria Rustoord/PPC Pittem/Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR7,196,773** JUMP +1.90%; pnl **EUR424,127** DROP -27.69%; equity **EUR9,741,670** JUMP +10.11%; bruto **EUR7,762,773** FLAT -0.06%; FTE **97.7**; neerlegging **03.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 3 VE; email info@wzccassiers.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_cassiers); foi + draft gap_wzc_cassiers_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2033=done + rq_2034 open; loop_state ticks=2033; raw under docs/doge/data/raw/tick2033/.
+- FOI: **ready not sent** (human-gated; info@wzccassiers.be).
+- NOT every-10 (**next every-10 is 2040**). Next: rq_2034 (AGB/FARO-if-YE2025 / AIESH-REW / Bernardus Assenede-OLV Roosdaal-OLVA-Triest / unused DSO-IGS-HVZ).

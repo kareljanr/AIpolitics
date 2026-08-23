@@ -52220,3 +52220,8 @@ bud_wzc_olv_lourdes_kortenberg_pnl_jr2025_statutory,vzw_wzc_olv_lourdes_kortenbe
 bud_wzc_olv_lourdes_kortenberg_equity_jr2025_statutory,vzw_wzc_olv_lourdes_kortenberg,2025,20232960,,,CW YE2025 Eigen vermogen,src_wzc_olv_lourdes_kortenberg_jr2025_cw,medium,tick2032; equity JUMP 20232960 +4.53pct vs YE2024 19356568
 bud_wzc_olv_lourdes_kortenberg_bruto_jr2025_statutory,vzw_wzc_olv_lourdes_kortenberg,2025,11820692,,,CW YE2025 Brutomarge,src_wzc_olv_lourdes_kortenberg_jr2025_cw,medium,tick2032; bruto JUMP 11820692 +6.76pct vs YE2024 11072134
 bud_wzc_olv_lourdes_kortenberg_fte_jr2025_statutory,vzw_wzc_olv_lourdes_kortenberg,2025,117.9,,,CW social-balance FTE,src_wzc_olv_lourdes_kortenberg_jr2025_cw,medium,tick2032; YE2025 FTE 117.9
+bud_wzc_cassiers_omzet_jr2025_statutory,vzw_wzc_cassiers,2025,7196773,,,CW YE2025 omzet / Turnover,src_wzc_cassiers_jr2025_cw,medium,tick2033; omzet JUMP 7196773 +1.90pct vs YE2024 7062796
+bud_wzc_cassiers_pnl_jr2025_statutory,vzw_wzc_cassiers,2025,424127,,,CW YE2025 Profit/Loss,src_wzc_cassiers_jr2025_cw,medium,tick2033; pnl DROP 424127 -27.69pct vs YE2024 586537
+bud_wzc_cassiers_equity_jr2025_statutory,vzw_wzc_cassiers,2025,9741670,,,CW YE2025 Eigen vermogen,src_wzc_cassiers_jr2025_cw,medium,tick2033; equity JUMP 9741670 +10.11pct vs YE2024 8847256
+bud_wzc_cassiers_bruto_jr2025_statutory,vzw_wzc_cassiers,2025,7762773,,,CW YE2025 Brutomarge,src_wzc_cassiers_jr2025_cw,medium,tick2033; bruto FLAT 7762773 -0.06pct vs YE2024 7767769
+bud_wzc_cassiers_fte_jr2025_statutory,vzw_wzc_cassiers,2025,97.7,,,CW social-balance FTE,src_wzc_cassiers_jr2025_cw,medium,tick2033; YE2025 FTE 97.7 vs YE2024 98.2
