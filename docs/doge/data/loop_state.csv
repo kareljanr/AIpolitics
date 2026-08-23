@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-27T16:45:00Z,rq_1939,1939,no,tick1939 leftover Enodia 0204.245.277 Medium CW (pnl DROP 29.6m equity 1.19bn bruto 19.8m FTE 170.9 omzet/assets Unknown); NBB PDF+share/FVA FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2024; next rq_1940 EVERY-10; continuous hole_fill
+main,continuous,hole_fill,2026-08-27T17:15:00Z,rq_1940,1940,no,tick1940 EVERY-10 progress+waste top10 (A/B 100pct; D residual dual 1931-1940 Elia/Fluxys/Enodia continuum; FOI ready 1555); AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2024; NextGrid no JR; next rq_1941; next every-10 1950; continuous hole_fill

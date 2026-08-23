@@ -22453,3 +22453,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_fluxys_h2_nbb_pdf_debt_capex_kapitaal_equity_l5; rq_1939=done + rq_1940 open (EVERY-10); loop_state ticks=1939.
 - FOI opened: NBB PDF + debt/CAPEX + kapitaal vs equity recon (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1940 THIS next tick**). Next: rq_1940 EVERY-10 + AGB/Dijk92-if-200 / FARO-if-YE2025 / otherHVZ-IGS.
+
+
+## Tick 1940 - 2026-08-27T17:15:00Z - EVERY-10 + rq_1940 RESA (assets JUMP 2.25bn / omzet 386m / Medium)
+
+- Unit: **rq_1940** EVERY-10 after Enodia/Fluxys-H2 race at 1939. Refreshed **progress_every_10_ticks.md** (tick 1940 snapshot) + **doge_waste_top10_current.md** (top10 stable GIP/fossil/cars/cheque/reporté). Prefer NON-Eneco live hole-fill: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2024. Took leftover **RESA SA** (KBO **0847.027.754**; Boulevard d'Avroy 38 Liège; Walloon Liege-area DSO dual ORES; only YE2024 mined at tick174; NON-Eneco). Do not redo BNO/Fluxys chain/ETB/Elia Group/Pipelink/Enodia/Nethys.
+- Primary hunt: NBB deposit PDF unresolved this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0847027754/resa) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/resa-0847027754) + KBO (neerlegging **18.06.2026**; YE **31.12.2025**; kapitaal **EUR657,880,492**): omzet **EUR386,357,989** (flat **+0.65%**); bruto **EUR291,331,454** (**JUMP +6.08%**); PnL **EUR49,287,886** (**+2.15%**); equity **EUR985,645,160** (**+3.15%**); assets **EUR2,247,279,341** (**JUMP** vs 1.95bn YE2024); EBITDA **EUR146,042,926**; operating result **EUR85,026,603**; FTE **930.6**.
+- Wrote: progress+waste markdown; sources (+3); budgets (+8); commitments (+1); leaderboard (+1); entities (updated resa); foi + draft gap_resa_nbb_pdf_debt_rab_share_l5; rq_1940=done + rq_1941 open; loop_state ticks=1940.
+- FOI opened: NBB PDF + debt/RAB / municipal share % (**ready**, human-send only).
+- **EVERY-10 DONE.** Next every-10 is **1950**. Next: rq_1941 (AGB/Dijk92-if-200 / FARO-if-YE2025 / FluxysBelgium-statutory-otherHVZ).
+
+
+## Tick 1940 - 2026-08-27T17:15:00Z - rq_1940 EVERY-10 progress + waste top10
+
+- Unit: **rq_1940** EVERY-10 (after concurrent 1939 Enodia + Fluxys hydrogen). Prefer NON-Eneco live also — hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO still **YE2024**; NextGrid Holding **1018.657.277** no JR yet; major HVZs already mined. **No second residual dual this tick** (progress primary + leftovers blocked).
+- Progress: refreshed progress_every_10_ticks.md snapshot **tick 1940** (A/B 100%; C ~99%; D ~74-88% generous; E FOI ready **1555** / answered 11 / partial 28 / total **1607**). Inventory budgets **51691** · commitments **5603** · leaderboard **7724** · entities **1652** · sources **4635**.
+- Waste top10: refreshed doge_waste_top10_current.md — pure annual **stable** GIP #1 · fossil/cars/cheque/reporté #2–10 (re-verified; corrupt AGB pi≥12 / Metro3 / OWV snowball filtered). NEW residual 1931-1940 off-top10: Interfin · Elia Group · BNO · Fluxys · ETB · Fluxys LNG · Pipelink · c-grid · c-grid Antwerp · hydrogen · Enodia.
+- Wrote: progress + waste markdown; rq_1940=done (deduped open twins) + rq_1941 open; loop_state ticks=1940.
+- FOI opened: none new this tick.
+- **EVERY-10 DONE.** Next every-10 is **1950**. Next: rq_1941 (AGB/Dijk92-if-200 / FARO-if-YE2025 / otherHVZ-IGS).

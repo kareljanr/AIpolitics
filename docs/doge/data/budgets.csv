@@ -51690,3 +51690,11 @@ bud_enodia_pnl_jr2025,cv_enodia,2025,29600993,,,CW NBB-derived 9904,src_enodia_j
 bud_enodia_equity_jr2025,cv_enodia,2025,1190324008,,,CW NBB-derived 10/15,src_enodia_jr2025_cw,medium,tick1939; YE2025 equity 1190324008 flat -0.21pct vs 1192817810 YE2024
 bud_enodia_bruto_jr2025,cv_enodia,2025,19846904,,,CW NBB-derived 9900,src_enodia_jr2025_cw,medium,tick1939; YE2025 bruto 19846904 DROP -2.41pct
 bud_enodia_fte_jr2025,cv_enodia,2025,171,,,CW NBB-derived FTE 170.9,src_enodia_jr2025_cw,medium,tick1939; YE2025 FTE 170.9 (stored 171)
+bud_resa_omzet_jr2025,resa,2025,386357989,,,CW NBB-derived omzet,src_resa_jr2025_cw,medium,tick1940; YE2025 omzet 386357989 flat +0.65pct
+bud_resa_pnl_jr2025,resa,2025,49287886,,,CW NBB-derived 9904,src_resa_jr2025_cw,medium,tick1940; YE2025 pnl 49287886 +2.15pct
+bud_resa_equity_jr2025,resa,2025,985645160,,,CW/Upswitch NBB-derived 10/15,src_resa_jr2025_cw,medium,tick1940; YE2025 equity 985645160 +3.15pct
+bud_resa_bruto_jr2025,resa,2025,291331454,,,CW NBB-derived 9900,src_resa_jr2025_cw,medium,tick1940; YE2025 bruto 291331454 +6.08pct
+bud_resa_assets_jr2025,resa,2025,2247279341,,,Upswitch NBB/CBSO assets,src_resa_jr2025_upswitch,medium,tick1940; YE2025 assets 2247279341 JUMP vs 1.95bn YE2024
+bud_resa_ebitda_jr2025,resa,2025,146042926,,,Upswitch NBB/CBSO EBITDA,src_resa_jr2025_upswitch,medium,tick1940; YE2025 EBITDA 146042926
+bud_resa_opresult_jr2025,resa,2025,85026603,,,Upswitch NBB/CBSO operating result,src_resa_jr2025_upswitch,medium,tick1940; YE2025 operating result 85026603
+bud_resa_fte_jr2025,resa,2025,931,,,CW NBB-derived FTE 930.6,src_resa_jr2025_cw,medium,tick1940; YE2025 FTE 930.6 (stored 931)
