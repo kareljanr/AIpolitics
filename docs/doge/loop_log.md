@@ -21280,3 +21280,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_egpf; budgets (+15); commitments; leaderboard; foi_queue ready; research_queue rq_1799=done + rq_1800 EVERY-10 spawned; loop_state ticks=1799; FOI draft gap_egpf_omzet_4_44m_loss_0_88m_mva_15_02m_prov_2_12m_l5.md
 - FOI opened: gap_egpf_omzet_4_44m_loss_0_88m_mva_15_02m_prov_2_12m_l5 (**ready**, not sent)
 - Next: rq_1800 — **EVERY-10 MUST** progress % + waste top10
+
+### 2026-08-25T02:55:00Z — tick 1800 EVERY-10
+- Unit: rq_1800 — **progress coverage % + waste top10**
+- Found / refreshed: Layers A–B still **100%** of TE EUR347.956bn; C ~99% OoM; D still ~74-88% generous (not near-complete of 348bn). Inventory: budgets **50812** · commitments **5377** · leaderboard **7574** · entities **1519** · sources **4216** · FOI ready **1418** / answered **9** / partial **27** / total **1467**.
+- Since 1790: residual dual **CKLC Immo** · **VIVALTO IMMO** · **VIVALTO LEASE** (RIVAGE vehicle) · **Maison Dieu** CDN live · **Zefier cv** dividend **1.73m**/guaranteed **17.82m** · **Zo-Fier** LT loans **20.96m**/loss **0.78m** · **Wind4Flanders** FVA **48.38m**/dividend **3.28m**/recv DROP **12.57m** · **PortFineco** POAB+Zefier fin opbr DROP · **EGPF** omzet **4.44m**/loss **0.88m**/MVA **15.02m** — closes Zefier CDN sister batch.
+- Waste top10: **unchanged** GIP 8.7 · fossil direct 8.55 · fossil accises 8.5 · company cars 8.5 · heatoil 8.43 · cheque/CO2/OAA/BCR/dual cars 8.4 (stocks Metro3/OWV filtered off).
+- Wrote: progress_every_10_ticks.md; doge_waste_top10_current.md; research_queue rq_1800=done + rq_1801; loop_state ticks=1800
+- Next: rq_1801 — leftover AGB/NSZ-if-200/Bosgroep/FARO/IGS; every-10 at **1810**

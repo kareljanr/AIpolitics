@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 1800** (2026-08-25)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1791-1799 leftover Vivalto holding vehicles + Zefier municipal renewable continuum: **CKLC Immo** · **VIVALTO IMMO** · **VIVALTO LEASE** · **Maison Dieu** (CDN live) · **Zefier cv** · **Zo-Fier** · **Wind4Flanders** · **PortFineco** · **EGPF** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1791-1799 is residual dual L5 Vivalto/Zefier (not near-complete of 348bn):** **VIVALTO LEASE** LT debt **103.3m** / RIVAGE gage **135.6m** / controllers **61.8m** · **VIVALTO IMMO** FVA **37.25m** / controllers **42.72m** · **Maison Dieu** CA **6.78m** / staff **4.43m** · **Zefier** dividend **1.73m** / guaranteed debt **17.82m** · **W4F** FVA **48.38m** / dividend **3.28m** · **EGPF** omzet **4.44m** / loss **0.88m** / MVA **15.02m** · **Zo-Fier** LT loans **20.96m** / loss **0.78m** · **PortFineco** fin opbr DROP **2.78m→0.58m** |
+| **E. FOI-ready gaps** | **~1418** drafts ready | Human send only; answered **~9**; partial **~27**; total FOI rows **~1467** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable shells** (**NEW VIVALTO LEASE** RIVAGE vehicle **EUR135.6m** gage / LT debt **EUR103.3m** · **VIVALTO IMMO** FVA **EUR37.25m** · **Maison Dieu** CA **EUR6.78m** · **Zefier cv** dividend **EUR1.73m** / guaranteed **EUR17.82m** · **W4F** FVA **EUR48.38m** / dividend **EUR3.28m** · **EGPF** MVA **EUR15.02m** / loss **EUR0.88m** · **Zo-Fier** LT loans **EUR20.96m** · **PortFineco** POAB+Zefier 50/50 · undivided **RIVAGE gage EUR135.6m** · prior Vivalto WZC continuum / **Armonea/Colisée/Natuurpunt/GO!** retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG possible on DSO holdings.**
+
+### Inventory (tick 1800)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 50812 |
+| commitments.csv | 5377 |
+| leaderboard.csv | 7574 |
+| entities.csv | 1519 |
+| sources.csv | 4216 |
+| FOI ready | 1418 |
+| FOI answered | 9 |
+| FOI partial | 27 |
+| FOI total rows | 1467 |
+| research_queue open | rq_116 deferred + rq_1801 hole-fill after progress |
+
+### What improved since tick 1790
+
+- **Residual dual leftover Vivalto holding vehicles (tick1791-1794):** **CKLC Immo** · **VIVALTO IMMO** · **VIVALTO LEASE** (central RIVAGE vehicle) · **Maison Dieu** CDN **2026-00137213** LIVE (supersedes opaque FOI).
+- **NEW Zefier municipal renewable continuum (tick1795-1799):** **Zefier cv** (160 vennoten; dividend **1.73m**; guaranteed debt **17.82m**) · **Zo-Fier** (4 gemeenten; LT loans **20.96m**; loss **0.78m**) · **Wind4Flanders** (FVA **48.38m**; dividend **3.28m**; ST recv DROP **12.57m**) · **PortFineco** (Zefier+POAB 50/50; fin opbr DROP **2.78m→0.58m**) · **EGPF** (omzet **4.44m**; loss **0.88m**; MVA **15.02m**; provisions **2.12m**) — closes deferred Zefier CDN sister batch.
+- **Blocked still:** AGB Bornem JR2024-only · Dijk92 CDN **403** · APEFE YE2025 CDN **403** · NSZ CDN **403** · FARO NBB YE2025 still unpublished (JV2025 already mined) · ABS/BVAS/POV no NBB · VBWest JR2025 still verdaged.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1810**.
+
 ## Snapshot at **tick 1790** (2026-08-24)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
