@@ -21489,3 +21489,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities cv_klimaan; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1825=done + rq_1826 spawned; loop_state ticks=1825; FOI draft gap_klimaan_opbr_0_76m_pers_0_28m_subs_recv_0_53m_l5.md
 - FOI opened: gap_klimaan_opbr_0_76m_pers_0_28m_subs_recv_0_53m_l5 (**ready**, human-send only)
 - NOT every-10 (next **1830**). Next: rq_1826 (AGB / Dijk92 / FARO YE2025 / APEFE / other IGS).
+
+## Tick 1826 - 2026-08-25T12:00:00Z - rq_1826 CoopStroom CV (bruto DROP 0.03m / loss 0.41m / continuity)
+
+- Unit: **rq_1826** leftover dual residual after Klimaan; preferred AGB Bornem still JR2024; Dijk92 YE2025 deposit **2026-00377886** CDN **403**; Enebra **2026-00398169** CDN **403**; FARO YE2024 only. Took leftover **CoopStroom CV** (Brugge/Gent citizen renewable + autodelen; Partago successor; KBO **0675.918.368**).
+- Primary (strong, NBB VKT-inb [2026-00268144](http://cdn.staatsbladmonitor.be/2026pdf/2026-00268144.pdf) CDN 200 / 17p; AV **20.06.2026**; YE **01.01.2025-31.12.2025**): assets **EUR1,793,646**; MVA **EUR1,382,753**; bruto DROP **EUR34,694** (was **136,502**); pers **EUR191,092**; VTE **3.6**; expl LOSS **EUR493,248**; PnL LOSS **EUR410,713**; debt **EUR984,412** (LT other loans **398,000**; BE gov guarantee **119,400**); equity DROP **EUR796,306** (carried loss **-718,155**); kapsubs DROP **EUR51,711**; cash JUMP **EUR126,622**; code753 fin-sub **EUR77,797**; omzet **70 empty**; **WVV art. 6:119 continuity alarm** (possible dissolution).
+- Wrote: entities cv_coopstroom; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1826=done + rq_1827 spawned; loop_state ticks=1826; FOI draft gap_coopstroom_bruto_0_03m_loss_0_41m_continuity_alarm_l5.md
+- FOI opened: gap_coopstroom_bruto_0_03m_loss_0_41m_continuity_alarm_l5 (**ready**, human-send only)
+- NOT every-10 (next **1830**). Next: rq_1827 (AGB / Dijk92-if-200 / Enebra-if-200 / FARO / APEFE / other IGS).
