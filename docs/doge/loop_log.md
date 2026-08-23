@@ -22797,3 +22797,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1980**). Next: rq_1976 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
 
+## Tick 1976 - 2026-08-23T21:00:00Z - rq_1976 FINIMO (pnl DROP 3.73m / equity JUMP 106.33m / Medium)
+
+- Unit: **rq_1976** leftover dual after **rq_1975 HYGEA**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; HYGEA already Strong this fire. IDEFIN still YE2024. Took unused leftover **FINIMO** YE2025 (KBO **0257.884.101**; Place du Marche 55 Verviers; East-Liege **ORES Assets IPF**). Do not redo HYGEA/FINEST/BEP Environnement/LOGIPOLE/BEP NAMUR/IBH/BEP Crematorium/BEP Expansion/IEG/CENEO/CISCH/HELORA/ORES Assets/SOCOFE/IPFBW/IGRETEC/Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/CILE.
+- Found: Companyweb NL+EN YE2025 - pnl **EUR3,725,571** DROP -11.51%; equity **EUR106,325,424** JUMP +2.14%; bruto **NEG EUR-119,292**; FTE **1.3**; omzet Unknown; neerlegging **30.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief CV; contact info@finimo.be.
+- Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1 igs_finimo); foi + draft gap_finimo_nbb_pdf_assets_debt_ores_dividend_matrix_l5; rq_1976=done + rq_1977 open; loop_state ticks=1976.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1980**). Next: rq_1977 (AGB/FARO-if-YE2025 / AIESH-REW / SOFILUX-IFIGA / unused DSO-IGS-HVZ).
+
