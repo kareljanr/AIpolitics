@@ -21571,3 +21571,11 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_co2logic_fva_2m_klimaatactie_0_26m_subs_0_11m_l5 (**ready**, human-send only)
 - NOT every-10 (next **1840**). Next: rq_1836 (AGB / Dijk92 / FARO / IGS).
 
+## Tick 1836 - 2026-08-25T15:50:00Z - rq_1836 Enebra CV (NBB YE2025 CDN 403 FOI)
+
+- Unit: **rq_1836** leftover dual residual after CO2logic; preferred AGB Bornem JR2024; Dijk92 **2026-00377886** CDN **403**; FARO YE2024; APEFE/NSZ CDN **403**. Amnesty VL **2026-00115926** + Natuurpunt **2026-00118589** still scanned image-only (m04/m05-f-p). Took leftover **Enebra CV** (Pajottenland citizen renewable; KBO **0739.852.652**; deposit **2026-00398169**). Eneco Wind Belgium **0475.012.760** YE Mar2025 deposit hunt deferred (CDN id not resolved this tick).
+- Primary: NBB deposit known but CDN **403** (HEAD+GET). **No sourced euros** (companyweb aggregator NOT booked). FOI for full PDF + statutory lines.
+- Wrote: entities cv_enebra; sources (+3); commitments (+1); leaderboard (weak/Unknown); foi_queue ready; research_queue rq_1836=done + rq_1837 spawned; loop_state ticks=1836; FOI draft gap_enebra_jr2025_nbb_cdn_403_l5.md
+- FOI opened: gap_enebra_jr2025_nbb_cdn_403_l5 (**ready**, human-send only)
+- NOT every-10 (next **1840**). Next: rq_1837 (Eneco Wind BE-if-200 / AGB / Dijk92 / FARO / IGS).
+
