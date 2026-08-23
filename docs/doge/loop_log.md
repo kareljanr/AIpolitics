@@ -22115,3 +22115,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_lwind_nbb_pdf_assets_share_fva_l5; rq_1899=done + rq_1900 open (EVERY-10); loop_state ticks=1899.
 - FOI opened: NBB PDF + assets/vennoten / plant recon (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1900**). Next: rq_1900 MUST refresh progress+waste top10 then hole-fill (Fairville/WEP/HyoffGreen if live).
+
+
+## Tick 1900 - 2026-08-26T21:15:00Z - EVERY-10 + rq_1900 Fairville (omzet 1.04m / equity NEG / LOSS 0.16m / Medium)
+
+- Unit: **rq_1900** EVERY-10 after Limburg Wind CV. Refreshed **progress_every_10_ticks.md** (tick 1900 snapshot) + **doge_waste_top10_current.md** (top10 stable GIP/fossil/cars/cheque/reporté). Prefer NON-Eneco live hole-fill: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2025 NBB miss. Took leftover **Fairville NV** (KBO **0756.963.452**; Steenweg Deinze 154 Nazareth-De Pinte; Nuhma smart-city software dual; bestuurders **Nuhma cv + Nubema**).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0756963452/fairville) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/fairville-0756963452) (neerlegging **14.07.2026**; YE **31.12.2025**): omzet **EUR1,035,747** (DROP -15.54%); bruto **EUR414,462**; PnL **LOSS EUR-157,754**; assets **EUR508,983**; equity **NEG EUR-77,614**; EBITDA **EUR60,256**; FTE **5**.
+- Wrote: progress+waste markdown; sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_fairville_nbb_pdf_share_neg_equity_loss_l5; rq_1900=done + rq_1901 open; loop_state ticks=1900.
+- FOI opened: NBB PDF + share % / NEG equity going-concern / city contracts (**ready**, human-send only).
+- **EVERY-10 DONE.** Next every-10 is **1910**. Next: rq_1901 (AGB/Dijk92-if-200 / FARO-if-YE2025 / WEP/HyoffGreen/C-Power Holdco).

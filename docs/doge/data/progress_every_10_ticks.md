@@ -20,6 +20,39 @@
 
 ---
 
+## Snapshot at **tick 1900** (2026-08-26)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1891-1900 Nuhma renewable/holding continuum after 1890 Limburg Windt |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1891-1900 is residual dual L5 (not near-complete of 348bn):** **Lommel Win(d)t** omzet **3.82m** / assets **20.2m** · **Terhills** assets **135m** / LOSS **1.74m** · **Terhills Vakantiepark** omzet **20.8m** · **Terhills Hotel** omzet **4.60m** · **Biostoom Beringen** omzet **42.7m** / assets **112m** · **Biostoom Belgie** assets **76.5m** / pnl DROP · **Biostoom Oostende** omzet **26.9m** / pnl **10.6m** · **Z-Kracht** equity **124.6m** / pnl DROP **4.32m** · **Limburg Wind CV** equity **21.5m** · **Fairville** omzet **1.04m** / equity NEG / LOSS **0.16m** (this tick) |
+| **E. FOI-ready gaps** | **~1514** drafts ready | Human send only; answered **~11**; partial **~28**; total FOI rows **~1566** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable shells** (**NEW 1891-1900** Lommel Windt · Terhills stack · Biostoom Beringen/Belgie/Oostende WtE · **Z-Kracht** offshore holding · **Limburg Wind CV** citizen coop · **Fairville** Nuhma smart-city NEG equity · prior LRM/campus/Limburg Windt retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Fluvius EG / Nuhma renewable path possible; Medium aggregators pending NBB PDF.**
+
+### Inventory (tick 1900)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 51460 |
+| commitments.csv | 5562 |
+| leaderboard.csv | 7683 |
+| entities.csv | 1613 |
+| sources.csv | 4525 |
+| FOI ready | 1514 |
+| FOI answered | 11 |
+| FOI partial | 28 |
+| FOI total rows | 1566 |
+| research_queue open | rq_1901 after progress |
+
+### What improved since tick 1890
+
+- **Residual dual (tick1891-1900):** **Lommel Win(d)t** · **Terhills** · **Terhills Vakantiepark** · **Terhills Hotel** · **Biostoom Beringen** · **Biostoom Belgie** · **Biostoom Oostende** · **Z-Kracht** · **Limburg Wind CV** · **Fairville** (this tick EVERY-10).
+- **Blocked still:** AGB Bornem JR2024-only · Dijk92 YE2025 CDN **403** · FARO NBB YE2025 unpublished · Bosgroep IJzer/Houtland/Limburg YE2025 unpublished · Westhoek JR euros PDF missing · prior Eneco deposit FOI stack.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified; corrupt AGB pi>=12 / OWV snowball stock / Metro3 stock filtered off pure annual). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1910**.
+
 ## Snapshot at **tick 1890** (2026-08-26)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

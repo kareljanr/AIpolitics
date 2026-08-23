@@ -51453,3 +51453,9 @@ bud_lwind_bruto_jr2025,cv_lwind,2025,-145866,,,CW NBB-derived 9900 NEG,src_lwind
 bud_lwind_pnl_jr2025,cv_lwind,2025,674124,,,CW NBB-derived 9904,src_lwind_jr2025_cw,medium,tick1899; YE2025 pnl 674124 JUMP +7.02pct
 bud_lwind_equity_jr2025,cv_lwind,2025,21486884,,,CW NBB-derived 10/15,src_lwind_jr2025_cw,medium,tick1899; YE2025 equity 21486884 JUMP +0.99pct
 bud_lwind_fte_jr2025,cv_lwind,2025,0,,,CW NBB-derived FTE,src_lwind_jr2025_cw,medium,tick1899; YE2025 FTE 0 citizen coop shell
+bud_fairville_omzet_jr2025,nv_fairville,2025,1035747,,,CW/Upswitch NBB-derived code 70,src_fairville_jr2025_cw,medium,tick1900; YE2025 omzet 1035747 DROP -15.54pct
+bud_fairville_bruto_jr2025,nv_fairville,2025,414462,,,CW NBB-derived 9900,src_fairville_jr2025_cw,medium,tick1900; YE2025 bruto 414462 DROP -31.45pct
+bud_fairville_pnl_jr2025,nv_fairville,2025,-157754,,,CW NBB-derived 9904 LOSS,src_fairville_jr2025_cw,medium,tick1900; YE2025 LOSS -157754 vs PROFIT 77305 2024
+bud_fairville_assets_jr2025,nv_fairville,2025,508983,,,Upswitch NBB/CBSO 20/58,src_fairville_jr2025_upswitch,medium,tick1900; YE2025 assets 508983 DROP vs 814708
+bud_fairville_equity_jr2025,nv_fairville,2025,-77614,,,CW/Upswitch NBB-derived 10/15 NEG,src_fairville_jr2025_cw,medium,tick1900; YE2025 equity NEG -77614 DROP from +80141
+bud_fairville_ebitda_jr2025,nv_fairville,2025,60256,,,Upswitch NBB/CBSO EBITDA,src_fairville_jr2025_upswitch,medium,tick1900; YE2025 EBITDA 60256 DROP vs 298080
