@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T02:15:00Z,rq_1860,1860,no,tick1860 EVERY-10 progress+waste + leftover Diependaele IOED 2.685m + OEG 0.390m (Hydra+BK 0.178m subset); besluit/VAK FOI; AGB Bornem JR2024; Dijk92 403; FARO YE2024; next rq_1861; next every-10 1870; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T02:40:00Z,rq_1861,1861,no,tick1861 leftover Bosgroep Limburg VZW 0668.619.317 FOI (jaaroverzicht activity-only; NBB YE2025 unpublished; euros Unknown); AGB Bornem JR2024; Dijk92 403; FARO YE2024; next rq_1862; next every-10 1870; continuous hole_fill

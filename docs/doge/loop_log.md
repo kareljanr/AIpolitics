@@ -21778,3 +21778,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+4); commitments (+2); leaderboard (+3); entities note; foi_queue + draft gap_ioed_oeg_diependaele_besluit_year_vak_l5; research_queue rq_1860=done + rq_1861 open; loop_state ticks=1860; progress+waste markdown.
 - FOI opened: **gap_ioed_oeg_diependaele_besluit_year_vak_l5** (ready, human-send only) — besluit PDF + award year + VAK/VEK map + Hydra/BK subset confirm. Dijk92 CDN403 FOI already ready separately.
 - Next: **rq_1861** leftover AGB/APB if PDF live, else Dijk92/Enebra if CDN 200, else FARO if TRUE NBB YE2025, else other HVZ/IGS live JR2025. DiependaeleIOED+Audio+TerNetheFOI taken. Prefer NON-Eneco. **Next every-10 is 1870.**
+
+## Tick 1861 - 2026-08-26T02:40:00Z - rq_1861 Bosgroep Limburg VZW FOI (NBB YE2025 unpublished; euros Unknown)
+
+- Unit: **rq_1861** leftover dual residual after Diependaele IOED+OEG. Prefer NON-Eneco live. Honest hunt: AGB Bornem still JR2024; Dijk92/Enebra CDN **403**; FARO NBB YE2025 still unpublished; HVZ Rivierenland/Midwest/BZA/Centrum already mined or FOI-ready; VI.BE/OP-TIL/Inagro/Dommelhof already taken. Took preferred leftover **Bosgroep Limburg VZW** (KBO **0668.619.317**; parent of CoLimBo CV mined 1452).
+- Primary: official [jaaroverzicht 2025](https://bosgroeplimburg.jaaroverzichtlimburg.be/) + [beleidsplan 2026-2031](https://bosgroep.limburg.be/sites/default/files/media/files/2026-02/bosgroep_limburg_beleidsplan_2026-2031.pdf) — activity metrics only (5.339 leden; ~22.000 ha; 42.220 plantingen). **No statutory euros** (Unknown). NBB/CDN YE2025 not fetchable this tick.
+- Wrote: sources (+4); entities (+1); commitments pending_foi; leaderboard FOI marker; foi_queue + draft gap_bosgroep_limburg_nbb_ye2025_unpublished_l5; rq_1861=blocked_foi + rq_1862 open; loop_state ticks=1861.
+- FOI opened: **gap_bosgroep_limburg_nbb_ye2025_unpublished_l5** (ready, human-send only).
+- Next: **rq_1862** leftover AGB/APB if PDF live, else Dijk92 if CDN 200, else FARO if TRUE NBB YE2025, else other Bosgroep/HVZ/IGS. **Next every-10 is 1870.**
