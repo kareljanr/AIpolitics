@@ -21595,3 +21595,11 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_williwaw_connected_lt_4_94m_omzet_0_73m_merge_l5 (**ready**, human-send only)
 - NOT every-10 (next **1840**). Next: rq_1839 (Eneco Wind BE / Meltemi / Bayamo / AGB / Dijk92 / FARO).
 
+## Tick 1839 - 2026-08-25T17:05:00Z - rq_1839 Newcastle Wind NV (connected debt 9.38m / omzet DROP 2.88m)
+
+- Unit: **rq_1839** leftover dual residual after Williwaw; preferred AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2024. Took leftover **Newcastle Wind NV** (Eneco **80%** + SOPAER **20%**; KBO **0711.864.687**; deposit **2025-00521823**). Deferred live Sirocco **2025-00521824** + Electrastar **2025-00521537**.
+- Primary (strong, NBB C-cap [2025-00521823](http://cdn.staatsbladmonitor.be/2025pdf/2025-00521823.pdf) CDN 200 / 46p 660719 bytes; AV **03.09.2025**; YE **01.04.2024-31.03.2025**): assets DROP **EUR16,218,788**; MVA **EUR14,063,525**; omzet DROP **EUR2,882,116** (was **3,948,108**); expl DROP **EUR539,016**; fin kosten **EUR715,544**; PnL LOSS flip **EUR176,528**; debt **EUR11,796,731** (connected **9,375,026**; assoc **2,342,599**); equity **EUR4,265,680**; Walloon dismantling guarantee **EUR700,000**; milieu **EUR156,377**; cash DROP **EUR510,924**; VTE empty; dividend **0**.
+- Wrote: entities nv_newcastle_wind; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1839=done + rq_1840 spawned (EVERY-10); loop_state ticks=1839; FOI draft gap_newcastle_connected_9_38m_omzet_drop_2_88m_loss_0_18m_l5.md
+- FOI opened: gap_newcastle_connected_9_38m_omzet_drop_2_88m_loss_0_18m_l5 (**ready**, human-send only)
+- NOT every-10 (next **1840 MUST**). Next: rq_1840 (EVERY-10 + Sirocco/Electrastar-if-200 / AGB / Dijk92 / FARO).
+
