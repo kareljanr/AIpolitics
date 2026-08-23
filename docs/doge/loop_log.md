@@ -21733,3 +21733,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities zorg_wvbl notes; sources (+3); budgets (+10); commitments (+3 + prior answered_public); leaderboard (+3 + prior struck); foi_queue prior answered + residual ready; research_queue rq_1855=done + rq_1856 spawned; loop_state ticks=1855; FOI draft gap_wvbl_zorgsite_mjp_envelope_pers_teams_l5.md
 - FOI: prior gap_wvbl_jr2025_unpublished_l5 **answered** (public PDF); residual gap_wvbl_zorgsite_mjp_envelope_pers_teams_l5 (**ready**, human-send only)
 - NOT every-10 (next **1860**). Next: rq_1856 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ/IGS live).
+
+
+## Tick 1856 - 2026-08-26T00:15:00Z - rq_1856 WV De Wijngaard JR2025 (OCMW werksub 1.38m / pers 3.14m / AFM 0.40m)
+
+- Unit: **rq_1856** leftover dual residual after WV Blankenberge; preferred non-Eneco live. AGB Bornem still JR2024; Dijk92/Enebra CDN **403**; FARO NBB YE2024; AGB Kinrooi/Beleko/De Panne already mined. Took leftover **Welzijnsvereniging De Wijngaard** (WZC Grobbendonk; KBO **0786.960.406**; city GE tick1040 already had toelage line only).
+- Primary (strong, official BBC [JR2025 113p](https://www.grobbendonk.be/file/download/28207/B2F37A60B8EF3A8E22ABF03C51836819) 11.8MB; portal pub **02.07.2026**; CSrapportaal **19.05.2026**): expl ont **EUR5,505,091** / uit **EUR4,968,026**; expl saldo **EUR537,065**; BBR **EUR787,654**; AFM **EUR396,183**; gecorr AFM **EUR514,048**; OCMW algemene werksub **EUR1,382,373** JUMP; pers **EUR3,135,900**; VTE **42.92** / 58 heads; bovennorm **25.6pct**; assets **EUR2,925,604**; equity **EUR1,151,944**; cash **EUR692,279**; fin debt **EUR146,834** ST-due (LT 0); PnL **EUR535,500**.
+- Wrote: entities zorg_wv_wijngaard; sources (+3); budgets (+11); commitments (+3); leaderboard (+3); foi_queue ready; research_queue rq_1856=done + rq_1857 spawned; loop_state ticks=1856; FOI draft gap_wijngaard_bovennorm_pers_cost_fva_9_8k_debt_schedule_l5.md
+- FOI opened: gap_wijngaard_bovennorm_pers_cost_fva_9_8k_debt_schedule_l5 (**ready**, human-send only)
+- NOT every-10 (next **1860**). Next: rq_1857 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ/IGS live).

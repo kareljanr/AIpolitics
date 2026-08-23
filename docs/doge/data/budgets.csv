@@ -51231,3 +51231,14 @@ bud_wvbl_assets_225k_jr2025,zorg_wvbl,2025,224693,,,JR2025 J4 balanstotaal activ
 bud_wvbl_equity_133k_jr2025,zorg_wvbl,2025,133374,,,JR2025 J4 nettoactief / cum overschot,src_wvbl_jr2025_bbc,strong,tick1855; JR2025 J4 nettoactief / cum overschot; not TE-additive
 bud_wvbl_cash_110k_jr2025,zorg_wvbl,2025,109796,,,JR2025 J4 liquide middelen en geldbeleggingen,src_wvbl_jr2025_bbc,strong,tick1855; JR2025 J4 liquide middelen en geldbeleggingen; not TE-additive
 bud_wvbl_st_debt_91k_jr2025,zorg_wvbl,2025,91318,,,JR2025 J4 schulden ST (fin debt 0),src_wvbl_jr2025_bbc,strong,tick1855; JR2025 J4 schulden ST (fin debt 0); not TE-additive
+bud_wijngaard_expl_ont_5_51m_jr2025,zorg_wv_wijngaard,2025,5505091,,,JR2025 J2 exploitatieontvangsten,src_wijngaard_jr2025_bbc,strong,tick1856; JR2025 J2 exploitatieontvangsten; not TE-additive
+bud_wijngaard_expl_uit_4_97m_jr2025,zorg_wv_wijngaard,2025,4968026,,,JR2025 J2 exploitatieuitgaven,src_wijngaard_jr2025_bbc,strong,tick1856; JR2025 J2 exploitatieuitgaven; not TE-additive
+bud_wijngaard_expl_saldo_0_54m_jr2025,zorg_wv_wijngaard,2025,537065,,,JR2025 J2 exploitatiesaldo,src_wijngaard_jr2025_bbc,strong,tick1856; JR2025 J2 exploitatiesaldo; not TE-additive
+bud_wijngaard_budget_0_24m_jr2025,zorg_wv_wijngaard,2025,236383,,,JR2025 J2 budgettair resultaat,src_wijngaard_jr2025_bbc,strong,tick1856; JR2025 J2 budgettair resultaat; not TE-additive
+bud_wijngaard_bbr_0_79m_jr2025,zorg_wv_wijngaard,2025,787654,,,JR2025 J2 beschikbaar/gecum BBR,src_wijngaard_jr2025_bbc,strong,tick1856; JR2025 J2 beschikbaar/gecum BBR; not TE-additive
+bud_wijngaard_afm_0_40m_jr2025,zorg_wv_wijngaard,2025,396183,,,JR2025 J2 autofinancieringsmarge,src_wijngaard_jr2025_bbc,strong,tick1856; JR2025 J2 autofinancieringsmarge; not TE-additive
+bud_wijngaard_gecorr_afm_0_51m_jr2025,zorg_wv_wijngaard,2025,514048,,,JR2025 J2 gecorrigeerde AFM,src_wijngaard_jr2025_bbc,strong,tick1856; JR2025 J2 gecorrigeerde AFM; not TE-additive
+bud_wijngaard_pers_3_14m_jr2025,zorg_wv_wijngaard,2025,3135900,,,JR2025 J5/T2 bezoldigingen,src_wijngaard_jr2025_bbc,strong,tick1856; JR2025 J5/T2 bezoldigingen; not TE-additive
+bud_wijngaard_ocmw_werksub_1_38m_jr2025,zorg_wv_wijngaard,2025,1382373,,,JR2025 T2 OCMW algemene werkingssubsidie,src_wijngaard_jr2025_bbc,strong,tick1856; JR2025 T2 OCMW algemene werkingssubsidie; not TE-additive
+bud_wijngaard_assets_2_93m_jr2025,zorg_wv_wijngaard,2025,2925604,,,JR2025 J4 balanstotaal,src_wijngaard_jr2025_bbc,strong,tick1856; JR2025 J4 balanstotaal; not TE-additive
+bud_wijngaard_fin_debt_0_15m_jr2025,zorg_wv_wijngaard,2025,146834,,,JR2025 T4 totaal financiële schulden YE2025,src_wijngaard_jr2025_bbc,strong,tick1856; JR2025 T4 totaal financiële schulden YE2025; not TE-additive
