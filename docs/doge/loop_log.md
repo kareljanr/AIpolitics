@@ -22773,3 +22773,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1980**). Next: rq_1973 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
 
+## Tick 1973 - 2026-08-23T20:15:00Z - rq_1973 BEP Environnement (omzet DROP 25.69m / pnl DROP 1.72m / equity JUMP 37.57m / Medium)
+
+- Unit: **rq_1973** leftover dual after **rq_1972 LOGIPOLE**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW presumed **YE2024**. LOGIPOLE already Strong Mons. Took leftover **BEP Environnement** YE2025 CW refresh (KBO **0201.400.209**; Avenue Sergent Vrithoff 2 Namur; dual Intradel/IPALLE + **BEP NAMUR** parent; prior tick587 YE2024 Strong RG only). Do not redo LOGIPOLE/BEP NAMUR/IBH/BEP Crematorium/BEP Expansion/IEG/CENEO/CISCH/HELORA/iMio/Passelecq/IPFBW/IGRETEC/Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92/AIEG/Synergrid.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR25,694,331** DROP -3.98%; pnl **EUR1,723,114** DROP -27.46%; equity **EUR37,572,281** JUMP +3.84%; bruto **EUR29,750,393** DROP -0.39%; FTE **323.6**; neerlegging **06.07.2026**. Assets/debt Unknown. Medium confidence.
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (update bep_environnement); foi + draft gap_bep_env_nbb_pdf_assets_debt_commune_matrix_l5_ye2025; rq_1973=done + rq_1974 open; loop_state ticks=1973.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1980**). Next: rq_1974 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
+

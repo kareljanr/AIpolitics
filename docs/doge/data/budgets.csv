@@ -51917,3 +51917,8 @@ bud_logipole_bruto_jr2025_statutory,igs_logipole,2025,13486590,,,Companyweb Brut
 bud_logipole_pnl_jr2025_statutory,igs_logipole,2025,0,,,Mons comptes resultat exercice 0.00,src_logipole_jr2025_comptes_mons,strong,tick1972; YE2025 pnl 0 by design (cost-centre recharge convention)
 bud_logipole_cash_jr2025_statutory,igs_logipole,2025,625628,,,Mons comptes tresorerie et disponibles,src_logipole_jr2025_comptes_mons,strong,tick1972; YE2025 cash 625628 JUMP vs 483790 YE2024
 bud_logipole_fournisseurs_jr2025_statutory,igs_logipole,2025,1893988,,,Mons comptes solde fournisseurs 31.12.2025,src_logipole_jr2025_comptes_mons,strong,tick1972; YE2025 fournisseurs ouverts 1893988
+bud_bep_env_omzet_jr2025_statutory,bep_environnement,2025,25694331,,,CW YE2025 omzet / Turnover,src_bep_env_jr2025_cw,medium,tick1973; YE2025 omzet 25694331 DROP -3.98pct vs YE2024 26759733
+bud_bep_env_pnl_jr2025_statutory,bep_environnement,2025,1723114,,,CW YE2025 Profit/Loss,src_bep_env_jr2025_cw,medium,tick1973; pnl DROP 1723114 -27.46pct vs YE2024 2375288
+bud_bep_env_equity_jr2025_statutory,bep_environnement,2025,37572281,,,CW YE2025 Eigen vermogen,src_bep_env_jr2025_cw,medium,tick1973; equity JUMP 37572281 +3.84pct vs YE2024 36182401
+bud_bep_env_bruto_jr2025_statutory,bep_environnement,2025,29750393,,,CW YE2025 Brutomarge,src_bep_env_jr2025_cw,medium,tick1973; bruto DROP 29750393 -0.39pct vs YE2024 29867364
+bud_bep_env_fte_jr2025_statutory,bep_environnement,2025,323.6,,,CW social-balance FTE,src_bep_env_jr2025_cw,medium,tick1973; YE2025 FTE 323.6 vs YE2024 326.6
