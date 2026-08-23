@@ -51836,3 +51836,9 @@ bud_aquiris_bruto_jr2025_statutory,nv_aquiris,2025,29126214,,,CW NBB-derived bru
 bud_aquiris_equity_jr2025_statutory,nv_aquiris,2025,7590000,,,CW NBB-derived equity,src_aquiris_jr2025_cw,medium,tick1960; YE2025 equity 7590000 flat vs YE2022-2024; KBO kapitaal 6900000
 bud_aquiris_fte_jr2025_statutory,nv_aquiris,2025,62,,,CW social-balance FTE,src_aquiris_jr2025_cw,medium,tick1960; YE2025 FTE 62 vs 62.4 YE2024
 bud_aquiris_kapitaal_kbo_1960,nv_aquiris,2025,6900000,,,KBO registered capital,src_aquiris_kbo_1960,strong,tick1960; KBO kapitaal 6900000; equity CW 7590000
+bud_ipfbw_assets_jr2025,igs_ipfbw,2025,341059082,,,RSM commissaire bilan total 31.12.2025,src_ipfbw_jr2025_rsm,strong,tick1961; YE2025 assets 341059081.57 rounded; YE2024 CW/Upswitch 332609340
+bud_ipfbw_pnl_jr2025,igs_ipfbw,2025,10912136,,,RSM commissaire benefice + CW 9904,src_ipfbw_jr2025_rsm,strong,tick1961; YE2025 pnl 10912136 +6.4pct vs CW YE2024 10255819
+bud_ipfbw_equity_jr2025,igs_ipfbw,2025,228950352,,,CW NBB-derived equity,src_ipfbw_jr2025_cw,medium,tick1961; YE2025 equity 228950352 +2.19pct vs 224037949
+bud_ipfbw_bruto_jr2025,igs_ipfbw,2025,-187231,,,CW NBB-derived brutomarge NEG,src_ipfbw_jr2025_cw,medium,tick1961; YE2025 bruto NEG -187231 IMPROVED vs -207313; financing shell
+bud_ipfbw_omzet_jr2025,igs_ipfbw,2025,10500,,,CW NBB-derived omzet,src_ipfbw_jr2025_cw,medium,tick1961; YE2025 omzet 10500 nominal; financing IGS not trading utility
+bud_ipfbw_fte_jr2025,igs_ipfbw,2025,1,,,CW NBB-derived FTE,src_ipfbw_jr2025_cw,medium,tick1961; YE2025 FTE 1; dagelijks bestuur Sarah Gillard KBO

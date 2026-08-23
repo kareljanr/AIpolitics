@@ -22655,3 +22655,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+6); commitments (+1); leaderboard (+1); entities (+1 nv_aquiris); foi + draft gap_aquiris_nbb_pdf_assets_debt_boot_fee_matrix_l5; progress+top10 md; rq_1960=done + rq_1961 open; loop_state ticks=1960.
 - FOI: **ready not sent** (human-gated).
 - EVERY-10 done this tick. Next every-10: **1970**. Next: rq_1961 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
+
+
+## Tick 1961 - 2026-08-23T17:15:00Z - rq_1961 IPFBW (assets 341.1m / pnl JUMP 10.91m / Strong)
+
+- Unit: **rq_1961** leftover dual after concurrent **rq_1960 EVERY-10 + Aquiris** (already on main). Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024**. Took leftover **IPFBW** (KBO **0206.041.757**; Avenue Jean Monnet 2 OLLN; pure financing intercommunale BW; aanbestedende overheid; absorbed Energie Brabant Wallon 12.12.2023). Do not redo Aquiris/SPGE/SWDE/CILE/Hydria/Vivaqua/IRE*/FANC/SCK/EURIDICE/BRUGEL/nuclear stack.
+- Primary: Strong [RSM commissaire YE2025 PDF](https://www.wavre.be/sites/wavre/files/media/file/IPFBW%20-%20Rapport%20du%20commissaire%20RSM%20-%2012-05-2026.pdf) (assets **EUR341,059,082**; PnL **EUR10,912,136**) + Medium [Companyweb](https://www.companyweb.be/nl/0206041757/intercommunale-pure-de-financement-du-brabant-wallon) + Strong KBO (neerlegging **04.07.2026**): equity **EUR228,950,352** (**JUMP +2.19%**); bruto **NEG EUR-187,231**; omzet **EUR10,500**; FTE **1**; debt **Unknown**.
+- Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1 igs_ipfbw); foi + draft gap_ipfbw_nbb_pdf_debt_commune_share_ebw_l5; rq_1961=done + rq_1962 open; loop_state ticks=1961.
+- FOI opened: NBB PDF + debt + commune share + EBW/inBW dual (**ready**, human-send only).
+- NOT every-10 (**1960 EVERY-10 already done with Aquiris**; next every-10 is **1970**). Next: rq_1962 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / otherHVZ-IGS).
