@@ -50922,3 +50922,13 @@ bud_stormminderhout_equity_0_17m_2025,nv_storm_minderhout,2025,167242,,,NBB VKT-
 bud_stormminderhout_expl_0_17m_2025,nv_storm_minderhout,2025,168010,,,NBB VKT-kap YE2025,src_stormminderhout_jr2025_nbb,strong,tick1817; bedrijfswinst 9901; not TE-additive of 348bn
 bud_stormminderhout_dividend_0_75m_2025,nv_storm_minderhout,2025,752153,,,NBB VKT-kap YE2025,src_stormminderhout_jr2025_nbb,strong,tick1817; uit te keren winst 694; equity onttrekking 752153; not TE-additive of 348bn
 bud_stormminderhout_cash_0_44m_2025,nv_storm_minderhout,2025,437730,,,NBB VKT-kap YE2025,src_stormminderhout_jr2025_nbb,strong,tick1817; liquide middelen JUMP; was 87304; not TE-additive of 348bn
+bud_stormwesterlo_assets_1_67m_2025,nv_storm_westerlo,2025,1669927,,,NBB VKT-kap YE2025,src_stormwesterlo_jr2025_nbb,strong,tick1818; assets YE2025; not TE-additive of 348bn
+bud_stormwesterlo_mva_1_12m_2025,nv_storm_westerlo,2025,1122673,,,NBB VKT-kap YE2025,src_stormwesterlo_jr2025_nbb,strong,tick1818; MVA YE2025; not TE-additive of 348bn
+bud_stormwesterlo_bruto_0_28m_2025,nv_storm_westerlo,2025,278639,,,NBB VKT-kap YE2025,src_stormwesterlo_jr2025_nbb,strong,tick1818; bruto 9900; was 822613; not TE-additive of 348bn
+bud_stormwesterlo_pnl_loss_0_09m_2025,nv_storm_westerlo,2025,89602,,,NBB VKT-kap YE2025,src_stormwesterlo_jr2025_nbb,strong,tick1818; PnL loss 9904 abs; not TE-additive of 348bn
+bud_stormwesterlo_debt_0_66m_2025,nv_storm_westerlo,2025,663432,,,NBB VKT-kap YE2025,src_stormwesterlo_jr2025_nbb,strong,tick1818; schulden 17/49; not TE-additive of 348bn
+bud_stormwesterlo_lt_other_0_42m_2025,nv_storm_westerlo,2025,423750,,,NBB VKT-kap YE2025,src_stormwesterlo_jr2025_nbb,strong,tick1818; LT overige leningen 174; not TE-additive of 348bn
+bud_stormwesterlo_equity_1_01m_2025,nv_storm_westerlo,2025,1006495,,,NBB VKT-kap YE2025,src_stormwesterlo_jr2025_nbb,strong,tick1818; equity 10/15; not TE-additive of 348bn
+bud_stormwesterlo_expl_loss_0_07m_2025,nv_storm_westerlo,2025,65087,,,NBB VKT-kap YE2025,src_stormwesterlo_jr2025_nbb,strong,tick1818; bedrijfsverlies 9901 abs; not TE-additive of 348bn
+bud_stormwesterlo_cash_0_23m_2025,nv_storm_westerlo,2025,226003,,,NBB VKT-kap YE2025,src_stormwesterlo_jr2025_nbb,strong,tick1818; liquide middelen JUMP; was 136847; not TE-additive of 348bn
+bud_stormwesterlo_afschr_0_34m_2025,nv_storm_westerlo,2025,341377,,,NBB VKT-kap YE2025,src_stormwesterlo_jr2025_nbb,strong,tick1818; afschrijvingen 630; not TE-additive of 348bn

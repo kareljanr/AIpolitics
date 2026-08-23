@@ -21424,3 +21424,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities nv_storm_minderhout; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1817=done + rq_1818 spawned; loop_state ticks=1817; FOI draft gap_stormminderhout_dividend_0_75m_pnl_0_07m_equity_drop_l5.md
 - FOI opened: gap_stormminderhout_dividend_0_75m_pnl_0_07m_equity_drop_l5 (**ready**, human-send only)
 - NOT every-10 (next **1820**). Next: rq_1818 (Storm Westerlo-if-200 / AGB / Dijk92 / FARO / IGS).
+
+## Tick 1818 - 2026-08-25T09:05:00Z - rq_1818 Storm Westerlo NV (bruto DROP 0.28m / loss 0.09m)
+
+- Unit: **rq_1818** leftover dual residual after Storm Minderhout; took deferred live **Storm Westerlo NV** (IKA–Storm dual; KBO **0839.407.019**). Preferred AGB Bornem still JR2024; Dijk92/NSZ/APEFE CDN often **403**; FARO NBB YE2025 unpublished.
+- Primary (strong, NBB VKT-kap [2026-00117889](http://cdn.staatsbladmonitor.be/2026pdf/2026-00117889.pdf) CDN 200 / 22p; AV **08.05.2026**; YE **01.01.2025–31.12.2025**): assets **EUR1,669,927**; MVA **EUR1,122,673**; bruto **EUR278,639** (was **822,613**; DROP **543,974**); omzet **70 empty**; expl LOSS **EUR65,087**; PnL LOSS **EUR89,602**; dividend **0** (was **500,000**); debt **EUR663,432** (LT other **423,750**); cash JUMP **EUR226,003**; equity **EUR1,006,495**; VTE **unpublished**. Bestuurders: IKA / PMV / Storm Management / TINC. Finvision/Nijs oordeel zonder voorbehoud. IKA FVA book **EUR182,402** (**11.61%**, not 20%). Overwinstbijdrage dispute **EUR120,942**.
+- Wrote: entities nv_storm_westerlo; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1818=done + rq_1819 spawned; loop_state ticks=1818; FOI draft gap_stormwesterlo_bruto_0_28m_loss_0_09m_omzet_empty_l5.md
+- FOI opened: gap_stormwesterlo_bruto_0_28m_loss_0_09m_omzet_empty_l5 (**ready**, human-send only)
+- NOT every-10 (next **1820**). Next: rq_1819 (Storm Retie/Zoersel-if-200 / AGB / Dijk92 / FARO / IGS).
