@@ -22888,3 +22888,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated; route via chuuclnamur.be).
 - NOT every-10 (**next every-10 is 1990**). Next: rq_1987 (AGB/FARO-if-YE2025 / AIESH-REW / ISoSL / unused DSO-IGS-HVZ-hospital).
 
+## Tick 1987 - 2026-08-24T00:20:00Z - rq_1987 ISoSL (omzet JUMP 271.49m / pnl JUMP turnaround 2.76m / FTE JUMP / Medium)
+
+- Unit: **rq_1987** leftover dual after concurrent **rq_1986 CHU UCL Namur**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **ISoSL** YE2025 (KBO **0250.610.881**; Rue Basse-Wez 145 Liege; Liege **specialised-care hospital IGS** psychiatric/geriatric). Do not redo Epicura/CHwapi/CHU UCL Namur/Vivalia/HELORA/CISCH/LOGIPOLE/IDETA/SPI/IDELUX*/IFIGA/SOFILUX/IDEFIN/FINIMO/FINEST/HYGEA/BEP*/IBH.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR271,492,164** JUMP +3.38%; pnl **EUR2,759,863** JUMP turnaround (+164.45% vs LOSS); equity **EUR110,347,790** DROP -3.16%; bruto **EUR239,106,191** JUMP +2.7%; FTE **3,892.7** JUMP vs 3,465.8 (+426.9); neerlegging **27.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief CV 25 VE; email officiel.ic-isosl@isosl.be.
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 igs_isosl); foi + draft gap_isosl_nbb_pdf_assets_debt_fte_jump_matrix_l5; rq_1987=done + rq_1988 open; loop_state ticks=1987; raw under docs/doge/data/raw/tick1987/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1990**). Next: rq_1988 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-hospital).
+

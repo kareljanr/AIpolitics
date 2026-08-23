@@ -51990,3 +51990,8 @@ bud_chu_ucl_namur_pnl_jr2025_statutory,vzw_chu_ucl_namur,2025,4182729,,,CW YE202
 bud_chu_ucl_namur_equity_jr2025_statutory,vzw_chu_ucl_namur,2025,141955644,,,CW YE2025 Eigen vermogen,src_chu_ucl_namur_jr2025_cw,medium,tick1986; equity JUMP 141955644 +1.93pct vs YE2024 139265474
 bud_chu_ucl_namur_bruto_jr2025_statutory,vzw_chu_ucl_namur,2025,351668788,,,CW YE2025 Brutomarge,src_chu_ucl_namur_jr2025_cw,medium,tick1986; bruto JUMP 351668788 +2.15pct vs YE2024 344279642
 bud_chu_ucl_namur_fte_jr2025_statutory,vzw_chu_ucl_namur,2025,3597.6,,,CW social-balance FTE,src_chu_ucl_namur_jr2025_cw,medium,tick1986; YE2025 FTE 3597.6 vs YE2024 3599.7
+bud_isosl_omzet_jr2025_statutory,igs_isosl,2025,271492164,,,CW YE2025 omzet / Turnover,src_isosl_jr2025_cw,medium,tick1987; omzet JUMP 271492164 +3.38pct vs YE2024 262613807
+bud_isosl_pnl_jr2025_statutory,igs_isosl,2025,2759863,,,CW YE2025 Profit/Loss,src_isosl_jr2025_cw,medium,tick1987; pnl JUMP turnaround 2759863 +164.45pct vs YE2024 LOSS -4282035
+bud_isosl_equity_jr2025_statutory,igs_isosl,2025,110347790,,,CW YE2025 Eigen vermogen,src_isosl_jr2025_cw,medium,tick1987; equity DROP 110347790 -3.16pct vs YE2024 113949197
+bud_isosl_bruto_jr2025_statutory,igs_isosl,2025,239106191,,,CW YE2025 Brutomarge,src_isosl_jr2025_cw,medium,tick1987; bruto JUMP 239106191 +2.7pct vs YE2024 232813955
+bud_isosl_fte_jr2025_statutory,igs_isosl,2025,3892.7,,,CW social-balance FTE,src_isosl_jr2025_cw,medium,tick1987; YE2025 FTE 3892.7 JUMP vs YE2024 3465.8 (+426.9 FTE)
