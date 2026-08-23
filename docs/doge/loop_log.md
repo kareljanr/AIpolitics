@@ -22258,3 +22258,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_cpower_nbb_pdf_share_debt_ppa_l5; rq_1916=done + rq_1917 open; loop_state ticks=1916.
 - FOI opened: NBB PDF + share % / debt / PPA (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1920**). Next: rq_1917 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Socofe-Elicio-HVZ).
+
+## Tick 1917 - 2026-08-27T05:45:00Z - rq_1917 Elicio (pnl 32.8m DROP / assets 299.9m / Medium)
+
+- Unit: **rq_1917** leftover dual after C-Power NV. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **2026-00377886 still 403**; FARO NBB YE2025 unpublished; Socofe / WE Environnement still **YE2024-only**. Took leftover **Elicio NV** (KBO **0552.775.977**; John Cordierlaan 9 Oostende; Nethys Walloon public renewable/offshore holding; parent of mined ElNu2sea / Norther stake; NON-Eneco).
+- Primary hunt: NBB CDN deposit unresolved this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0552775977/elicio) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/elicio-0552775977) + KBO (neerlegging **23.06.2026**; YE **31.12.2025**): omzet **EUR5,441,148** (**JUMP +106.03%**); bruto **EUR1,236,084**; PnL **EUR32,798,030** (**DROP -50.24%**); assets **EUR299,896,569**; equity **EUR271,061,332** (**JUMP +2.96%**); EBITDA **NEG EUR-6,426,714**; expl **NEG EUR-6,804,803**; FTE **50**.
+- Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_elicio_nbb_pdf_share_fva_debt_l5; rq_1917=done + rq_1918 open; loop_state ticks=1917.
+- FOI opened: NBB PDF + Nethys share % / FVA path for pnl vs NEG EBITDA / debt (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1920**). Next: rq_1918 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Socofe-WE-if-YE2025 / other HVZ-IGS).
