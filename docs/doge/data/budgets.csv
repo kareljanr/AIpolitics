@@ -51313,3 +51313,9 @@ bud_werkpand_assets_2_37m_jr2025,nv_werkpand,2025,2367607,,,Pappers NBB-derived 
 bud_werkpand_cash_0_13m_jr2025,nv_werkpand,2025,131614,,,Pappers NBB-derived 54/58 cash,src_werkpand_jr2025_pappers,medium,tick1872; not TE-additive
 bud_werkpand_findebt_0_19m_jr2025,nv_werkpand,2025,188210,,,Pappers NBB-derived financial debt,src_werkpand_jr2025_pappers,medium,tick1872; ST payables ~0.60m also; not TE-additive
 bud_werkpand_capital_1_90m_jr2025,nv_werkpand,2025,1902324,,,KBO maatschappelijk kapitaal,src_kbo_werkpand_0461014769,strong,tick1872; statutory capital; not TE-additive
+bud_bctien_bruto_0_19m_jr2025,nv_bctien,2025,186584,,,CW NBB-derived 9900 brutomarge YE31122025,src_bctien_jr2025_cw,medium,tick1873; flat vs prior 0.18m; omzet 70 empty; not TE-additive
+bud_bctien_pnl_0_03m_jr2025,nv_bctien,2025,28218,,,CW NBB-derived 9904 winst boekjaar,src_bctien_jr2025_cw,medium,tick1873; DROP vs prior 42k; not TE-additive
+bud_bctien_equity_1_40m_jr2025,nv_bctien,2025,1395509,,,CW NBB-derived 10/15 eigen vermogen,src_bctien_jr2025_cw,medium,tick1873; JUMP vs prior 1.37m; not TE-additive
+bud_bctien_assets_1_42m_jr2025,nv_bctien,2025,1422479,,,Pappers NBB-derived 20/58 total assets,src_bctien_jr2025_pappers,medium,tick1873; DROP vs prior 1.44m; not TE-additive
+bud_bctien_cash_0_15m_jr2025,nv_bctien,2025,146141,,,Pappers NBB-derived cash (ratios YE2025),src_bctien_jr2025_pappers,medium,tick1873; net findebt negative (cash>debt); not TE-additive
+bud_bctien_capital_0_83m_jr2025,nv_bctien,2025,826000,,,KBO maatschappelijk kapitaal,src_kbo_bctien_0432419961,strong,tick1873; statutory capital; not TE-additive

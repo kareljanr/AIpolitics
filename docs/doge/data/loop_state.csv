@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T07:15:00Z,rq_1872,1872,no,tick1872 leftover 't Werkpand NV 0461.014.769 YE2025 Medium (bruto 0.66m pnl LOSS 75k equity 2.35m assets 2.37m); POM West-Vlaanderen; absorbed BC Westhoek+Roeselare; omzet empty + NBB PDF FOI; AGB Bornem JR2024; Dijk92 FOI; FARO YE2024; next rq_1873; next every-10 1880; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T07:45:00Z,rq_1873,1873,no,tick1873 leftover BC Tienen NV 0432.419.961 YE2025 Medium (bruto 0.19m pnl 28k equity 1.40m assets 1.42m); POM Vlaams-Brabant/PBE path; omzet empty + NBB PDF FOI; AGB Bornem JR2024; Dijk92 FOI; FARO YE2024; next rq_1874; next every-10 1880; continuous hole_fill

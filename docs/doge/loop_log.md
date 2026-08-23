@@ -21883,3 +21883,12 @@ Append-only. Each tick adds a short entry.
 - FOI opened: NBB PDF + omzet-empty / PnL reconcile / share % (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1880**). Next: rq_1873 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Westhoek-if-PDF / other HVZ-IGS).
 
+
+## Tick 1873 - 2026-08-26T07:45:00Z - rq_1873 Bedrijvencentrum Tienen NV (bruto 0.19m / equity 1.40m / Medium)
+
+- Unit: **rq_1873** leftover dual after 't Werkpand. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN **403** (FOI already); FARO YE2024 only; Enebra CDN 403 FOI already; Westhoek JR no euros PDF; Hangar K YE2024 only. Took leftover **Bedrijvencentrum Tienen NV** (KBO **0432.419.961**; Leuvenselaan 172; board path **POM Vlaams-Brabant / PBE / banks**).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0432419961/bedrijvencentrum-tienen) + [Pappers](https://www.pappers.be/nl/company/bedrijvencentrum-tienen-0432419961) (neerlegging **22.05.2026**; YE **31.12.2025**): bruto **EUR186,584**; PnL **EUR28,218**; equity **EUR1,395,509**; assets **EUR1,422,479**; cash **EUR146,141**; ST debt **EUR47,569**; fin debt **~0**; VTE **1.8**; omzet **70 empty**; kapitaal **EUR826,000**.
+- Wrote: sources (+4); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_bctien_nbb_pdf_omzet_empty_bruto_0_19m_l5; rq_1873=done + rq_1874 open; loop_state ticks=1873.
+- FOI opened: NBB PDF + omzet-empty / share % (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1880**). Next: rq_1874 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Westhoek-if-PDF / other HVZ-IGS).
+
