@@ -21855,3 +21855,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+5); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_trydd_nbb_pdf_omzet_empty_loss_0_18m_l5; rq_1869=done + rq_1870 open (EVERY-10); loop_state ticks=1869.
 - FOI opened: NBB PDF + omzet/loss path + residual public support (**ready**, human-send only).
 - **EVERY-10 NEXT (1870 MUST)**. Next: rq_1870 progress refresh + leftover dual.
+
+
+## Tick 1870 - 2026-08-26T06:20:00Z - rq_1870 EVERY-10 + Bosgroep IJzer FOI (YE2025 unpublished)
+
+- Unit: **rq_1870** EVERY-10 MUST + leftover dual after TRY Dendermonde. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2025 unpublished; Westhoek JR **approved** 07.05.2026 but besluit has **no euros** / full PDF 404. Took preferred leftover **Bosgroep IJzer en Leie VZW** (KBO **0816.706.346**).
+- EVERY-10: refreshed progress_every_10_ticks.md (snapshot tick 1870) + doge_waste_top10_current.md (pure annual top10 **stable** GIP/fossil/cars/cheque/reporté; corrupt AGB pi>=12 / Metro3 / OWV stock filtered). Inventory ~budgets 51303 / commitments 5531 / leaderboard 7652 / entities 1582 / sources 4414 / FOI ready ~1484 / answered ~11 / partial ~28 / total ~1536.
+- Primary: KBO Actief VZW / Ieper (**strong** register). Companyweb: **geen jaarrekening neergelegd** — **no sourced euros** (Unknown).
+- Wrote: sources (+3); entities (+1); commitments pending_foi; leaderboard FOI marker; foi_queue + draft gap_bosgroep_ijzer_nbb_ye2025_unpublished_l5; rq_1870=blocked_foi + rq_1871 open; loop_state ticks=1870; progress+waste markdown.
+- FOI opened: **gap_bosgroep_ijzer_nbb_ye2025_unpublished_l5** (ready, human-send only).
+- Next: **rq_1871** leftover AGB/Dijk92-if-200 / FARO-if-YE2025 / Westhoek-if-PDF / other HVZ-IGS. **Next every-10 is 1880.**
