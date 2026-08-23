@@ -51328,3 +51328,7 @@ bud_hangark_findebt_0_37m_jr2025,vzw_hangark,2025,366546,,,Pappers NBB-derived f
 bud_bcmec_bruto_0_23m_jr2025,nv_bcmec,2025,231927,,,CW NBB-derived 9900 brutomarge YE31122025,src_bcmec_jr2025_cw,medium,tick1875; UP vs prior 0.22m; omzet 70 empty; not TE-additive
 bud_bcmec_pnl_0_013m_jr2025,nv_bcmec,2025,12664,,,CW NBB-derived 9904 winst boekjaar,src_bcmec_jr2025_cw,medium,tick1875; JUMP vs prior 1.8k; not TE-additive
 bud_bcmec_equity_0_56m_jr2025,nv_bcmec,2025,557849,,,CW NBB-derived 10/15 eigen vermogen,src_bcmec_jr2025_cw,medium,tick1875; UP vs prior 0.55m; not TE-additive
+bud_greenville_omzet_0_82m_jr2025,nv_greenville,2025,815312,,,CW NBB-derived 70 omzet YE31122025,src_greenville_jr2025_cw,medium,tick1876; DROP vs prior 0.91m; not TE-additive
+bud_greenville_bruto_0_26m_jr2025,nv_greenville,2025,260400,,,CW NBB-derived 9900 brutomarge YE31122025,src_greenville_jr2025_cw,medium,tick1876; DROP vs prior 0.37m; not TE-additive
+bud_greenville_pnl_0_062m_jr2025,nv_greenville,2025,61840,,,CW NBB-derived 9904 winst boekjaar,src_greenville_jr2025_cw,medium,tick1876; DROP vs prior 0.13m; Pappers ~90.1k FOI reconcile; not TE-additive
+bud_greenville_equity_7_27m_jr2025,nv_greenville,2025,7271625,,,CW NBB-derived 10/15 eigen vermogen,src_greenville_jr2025_cw,medium,tick1876; DROP vs prior 7.45m; not TE-additive

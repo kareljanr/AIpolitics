@@ -21909,3 +21909,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+3); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_bcmec_nbb_pdf_omzet_empty_bruto_0_23m_l5; rq_1875=done + rq_1876 open; loop_state ticks=1875.
 - FOI opened: NBB PDF + omzet-empty / share % (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1880**). Next: rq_1876 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Westhoek-if-PDF / other HVZ-IGS).
+
+## Tick 1876 - 2026-08-26T09:15:00Z - rq_1876 Greenville NV (omzet 0.82m / equity 7.27m / Medium)
+
+- Unit: **rq_1876** leftover dual after BC Mechelen. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN **403** (FOI already); FARO YE2024 only; Enebra CDN 403 FOI already. Took leftover **Greenville NV** (KBO **0838.424.646**; Centrum-Zuid Houthalen; board **LRM + LRM Beheer**; LRM cleantech incubator of mined Houthalen-Helchteren).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0838424646/greenville) (neerlegging **10.06.2026**; YE **31.12.2025**): omzet **EUR815,312**; bruto **EUR260,400**; PnL **EUR61,840**; equity **EUR7,271,625**; assets **Unknown**. Pappers rounded cash **~284k** / findebt **~574k**; Pappers net **~90.1k** vs CW — FOI reconcile.
+- Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_greenville_nbb_pdf_pnl_reconcile_l5; rq_1876=done + rq_1877 open; loop_state ticks=1876.
+- FOI opened: NBB PDF + PnL reconcile / share % (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1880**). Next: rq_1877 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Westhoek-if-PDF / other HVZ-IGS).
