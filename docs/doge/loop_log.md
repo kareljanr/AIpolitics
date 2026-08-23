@@ -23376,3 +23376,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+6); budgets (+5); commitments (+1); leaderboard (+1 pi 4.725); entities (+1 vzw_cwzc_zonhoven); foi + draft gap_cwzc_zonhoven_nbb_pdf_assets_debt_pnl_flip_matrix_l5; rq_2039=done + rq_2040 open (EVERY-10); loop_state ticks=2039; raw under docs/doge/data/raw/tick2039/.
 - FOI: **ready not sent** (human-gated; info@cwzc.be).
 - NOT every-10 (**next every-10 is 2040**). Next: rq_2040 (EVERY-10 mandatory + AGB/FARO-if-YE2025 / AIESH-REW / Samen Ouder-De Linde deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2040 - 2026-08-24T14:40:00Z - rq_2040 EVERY-10 + Woonzorg Samen Ouder (omzet JUMP 35.27m / pnl JUMP 1.42m / Medium)
+
+- Unit: **rq_2040** EVERY-10 mandatory + leftover dual after **rq_2039 C.W.Z.C. Zonhoven**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **Woonzorg Samen Ouder** YE2025 (KBO **0453.287.037**; Tereken 14 Sint-Niklaas; Oost-Vlaanderen **WZC VZW** / 5 VE / Waasland multi-campus). De Linde YE2025 also live — deferred. Do not redo C.W.Z.C. Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara/PC Gent-Sleidinge/Molenheide/Veilige Have.
+- EVERY-10: refreshed **progress_every_10_ticks.md** (tick 2040 snapshot; residual dual 2031-2040) + **doge_waste_top10_current.md** (pure annual top10 stable GIP/fossil/cars/cheque/reporté; NEW residual dual off-top10).
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR35,265,194** JUMP +6.91%; pnl **EUR1,416,405** JUMP +1047.8%; equity **EUR14,440,565** JUMP +6.98%; bruto **EUR31,884,602** JUMP +7.90%; FTE **393**; neerlegging **06.08.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 5 VE; email info@samenouder.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.725); entities (+1 vzw_woonzorg_samen_ouder); foi + draft gap_samen_ouder_nbb_pdf_assets_debt_pnl_jump_matrix_l5; progress+top10; rq_2040=done + rq_2041 open; loop_state ticks=2040; raw under docs/doge/data/raw/tick2040/.
+- FOI: **ready not sent** (human-gated; info@samenouder.be).
+- EVERY-10 done. Next every-10 **2050**. Next: rq_2041 (AGB/FARO-if-YE2025 / AIESH-REW / De Linde deferred / unused DSO-IGS-HVZ).
+
+### Every-10 brief (A/B/C/D/E)
+- **A** L0 TE: **100%** (EUR347.956bn Strong)
+- **B** L1 subsectors: **100%** unconsol. map Strong
+- **C** L2 entity totals: **~99%** OoM (+ residual dual 2031-2040)
+- **D** L5 named end-lines: **~74-88%** TE generous (residual dual gain; not near-complete of 348bn)
+- **E** FOI-ready: **~1657** drafts; answered ~11; partial ~28; total ~1709

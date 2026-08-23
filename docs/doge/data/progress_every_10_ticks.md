@@ -20,6 +20,40 @@
 
 ---
 
+## Snapshot at **tick 2040** (2026-08-24)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 2031-2040 WZC/psych continuum after 2030 Sint-Jozef Rillaar |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 2031-2040 is residual dual L5 (not near-complete of 348bn):** **WZC St Vincentius Antwerpen/Ekeren** omzet JUMP **7.55m** · **WZC OLV Lourdes Kortenberg** omzet JUMP **10.97m** · **Cassiers WZC** omzet JUMP **7.20m** · **WZC Sint-Bernardus Assenede** omzet JUMP **6.36m** · **WZC OLV Roosdaal** omzet JUMP **7.60m** · **OLVA Antwerpen** omzet DROP **10.81m** · **WZC Kanunnik Triest** omzet JUMP **7.78m** · **Orelia Zorg** omzet JUMP **65.23m** / pnl LOSS / equity CRATER · **C.W.Z.C. Zonhoven** omzet JUMP **8.56m** / pnl FLIP · **Woonzorg Samen Ouder** omzet JUMP **35.27m** / pnl JUMP Medium (this tick EVERY-10 dual) |
+| **E. FOI-ready gaps** | **~1657** drafts ready | Human send only; answered **~11**; partial **~28**; total FOI rows **~1709** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable/energy/nuclear/water/forest/hospital/psych shells** (**NEW 2031-2040** St Vincentius Antwerpen · Lourdes Kortenberg · Cassiers · Sint-Bernardus Assenede · OLV Roosdaal · OLVA · Kanunnik Triest · **Orelia** · **C.W.Z.C. Zonhoven** · **Samen Ouder** · prior 2021-2030 Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Maria Rustoord/PPC Pittem/Vincentius Avelgem/PC Sint-Hiëronymus stack retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs hospital IGS/ASBL path possible; Medium aggregators pending NBB PDF.**
+
+### Inventory (tick 2040)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 52261 |
+| commitments.csv | 5706 |
+| leaderboard.csv | 7827 |
+| entities.csv | 1742 |
+| sources.csv | 5085 |
+| FOI ready | 1657 |
+| FOI answered | 11 |
+| FOI partial | 28 |
+| FOI total rows | 1709 |
+| research_queue open | rq_2041 after progress |
+
+### What improved since tick 2030
+
+- **Residual dual (tick2031-2040):** **WZC St Vincentius Antwerpen/Ekeren** · **WZC OLV Lourdes Kortenberg** · **Cassiers WZC** · **WZC Sint-Bernardus Assenede** · **WZC OLV Roosdaal** · **OLVA Antwerpen** · **WZC Kanunnik Triest** · **Orelia Zorg** · **C.W.Z.C. Zonhoven** · **Woonzorg Samen Ouder** (this tick EVERY-10 dual — Oost-Vlaanderen Waasland WZC VZW YE2025 Medium CW).
+- **Blocked still:** AGB Bornem JR2024-only · FARO NBB YE2025 unpublished (YE2024 filing) · AIESH 0201.712.587 / REW YE2024-only · Jessa/ZOL CW N/A omzet · Bethanie Zoersel Emmaüs double-count · Veilige Have / Zusterhof / Molenheide already mined · prior Eneco deposit FOI stack. **Deferred live:** WZC De Linde Lievegem YE2025.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified; corrupt AGB pi>10 / OWV snowball stock / Metro3 stock filtered off pure annual). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **2050**.
+
+
 ## Snapshot at **tick 2030** (2026-08-24)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

@@ -52255,3 +52255,8 @@ bud_cwzc_zonhoven_pnl_jr2025_statutory,vzw_cwzc_zonhoven,2025,508040,,,CW YE2025
 bud_cwzc_zonhoven_equity_jr2025_statutory,vzw_cwzc_zonhoven,2025,16170229,,,CW YE2025 Eigen vermogen / Equity,src_cwzc_zonhoven_jr2025_cw_en,medium,tick2039; equity JUMP 16170229 +2.08pct vs YE2024 15840170
 bud_cwzc_zonhoven_bruto_jr2025_statutory,vzw_cwzc_zonhoven,2025,16590512,,,CW YE2025 Brutomarge / Gross margin,src_cwzc_zonhoven_jr2025_cw_en,medium,tick2039; bruto JUMP 16590512 +13.11pct vs YE2024 14667250
 bud_cwzc_zonhoven_fte_jr2025_statutory,vzw_cwzc_zonhoven,2025,182,,,CW social-balance FTE,src_cwzc_zonhoven_jr2025_cw_en,medium,tick2039; YE2025 FTE 182
+bud_samen_ouder_omzet_jr2025_statutory,vzw_woonzorg_samen_ouder,2025,35265194,,,CW YE2025 omzet / Turnover,src_samen_ouder_jr2025_cw_en,medium,tick2040 EVERY-10; omzet JUMP 35265194 +6.91pct vs YE2024 32987159
+bud_samen_ouder_pnl_jr2025_statutory,vzw_woonzorg_samen_ouder,2025,1416405,,,CW YE2025 Profit/Loss,src_samen_ouder_jr2025_cw_en,medium,tick2040 EVERY-10; pnl JUMP 1416405 +1047.8pct vs YE2024 123405
+bud_samen_ouder_equity_jr2025_statutory,vzw_woonzorg_samen_ouder,2025,14440565,,,CW YE2025 Eigen vermogen / Equity,src_samen_ouder_jr2025_cw_en,medium,tick2040 EVERY-10; equity JUMP 14440565 +6.98pct vs YE2024 13498724
+bud_samen_ouder_bruto_jr2025_statutory,vzw_woonzorg_samen_ouder,2025,31884602,,,CW YE2025 Brutomarge / Gross margin,src_samen_ouder_jr2025_cw_en,medium,tick2040 EVERY-10; bruto JUMP 31884602 +7.90pct vs YE2024 29551217
+bud_samen_ouder_fte_jr2025_statutory,vzw_woonzorg_samen_ouder,2025,393,,,CW social-balance FTE,src_samen_ouder_jr2025_cw_en,medium,tick2040 EVERY-10; YE2025 FTE 393
