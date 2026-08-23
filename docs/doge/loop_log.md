@@ -22499,3 +22499,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_synergrid_nbb_pdf_lidgeld_homologation_fees_l5; rq_1943=done + rq_1944 open; loop_state ticks=1943.
 - FOI opened: NBB PDF + lidgeld/homologation fee matrix (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1950**). Next: rq_1944 (AGB/Dijk92-if-200 / FARO-if-YE2025 / otherHVZ-IGS).
+
+
+## Tick 1944 - 2026-08-27T19:15:00Z - rq_1944 AIEG (omzet JUMP 20.05m / equity 49.56m / Medium)
+
+- Unit: **rq_1944** leftover dual after Synergrid. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO still **YE2024**; AIESH still YE2024; Laborelec still YE2024. Took leftover **AIEG** (KBO **0202.555.004**; Rue des Marais 11 Andenne; Walloon **DSO** electricity/gas intercommunale; Synergrid member; aanbestedende overheid; NON-Eneco). Do not redo Synergrid/Synatom/Atrias/RESA/Sibelga/ORES/Fluxys*/ETB/Elia.
+- Primary hunt: NBB deposit PDF unresolved; Upswitch YE2024-only for assets. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0202555004/association-intercommunale-detudes-et-dexploitation-delectricite-et-de-gaz) + **Strong** KBO (YE **31.12.2025**): omzet **EUR20,052,912** (**JUMP +15.87%**); bruto **EUR8,962,491** (**JUMP +9.49%**); PnL **EUR1,509,448** (**DROP -31.88%**); equity **EUR49,558,129**; kapitaal **EUR10,722,918**; FTE **45.8**; assets **Unknown**.
+- Wrote: sources (+3); budgets (+6); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_aieg_nbb_pdf_assets_debt_rab_muni_share_l5; rq_1944=done + rq_1945 open; loop_state ticks=1944.
+- FOI opened: NBB PDF + RAB/municipal share (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1950**). Next: rq_1945 (AGB/Dijk92-if-200 / FARO-if-YE2025 / AIESH-if-YE2025 / otherHVZ-IGS).

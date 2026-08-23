@@ -51713,3 +51713,9 @@ bud_synergrid_assets_jr2025,vzw_synergrid,2025,11009079,,,Upswitch NBB/CBSO asse
 bud_synergrid_bruto_jr2025,vzw_synergrid,2025,5072761,,,CW NBB-derived bruto,src_synergrid_jr2025_cw,medium,tick1943; YE2025 bruto 5072761 JUMP +171pct vs 1871319
 bud_synergrid_ebitda_jr2025,vzw_synergrid,2025,209232,,,Upswitch NBB/CBSO EBITDA,src_synergrid_jr2025_upswitch,medium,tick1943; YE2025 EBITDA 209232
 bud_synergrid_fte_jr2025,vzw_synergrid,2025,24,,,CW NBB-derived FTE,src_synergrid_jr2025_cw,medium,tick1943; YE2025 FTE 24 (was 22.2)
+bud_aieg_omzet_jr2025,igs_aieg,2025,20052912,,,CW NBB-derived omzet,src_aieg_jr2025_cw,medium,tick1944; YE2025 omzet 20052912 JUMP +15.87pct
+bud_aieg_pnl_jr2025,igs_aieg,2025,1509448,,,CW NBB-derived 9904,src_aieg_jr2025_cw,medium,tick1944; YE2025 pnl 1509448 DROP -31.88pct
+bud_aieg_equity_jr2025,igs_aieg,2025,49558129,,,CW NBB-derived equity,src_aieg_jr2025_cw,medium,tick1944; YE2025 equity 49558129 JUMP +1.61pct
+bud_aieg_bruto_jr2025,igs_aieg,2025,8962491,,,CW NBB-derived bruto,src_aieg_jr2025_cw,medium,tick1944; YE2025 bruto 8962491 JUMP +9.49pct
+bud_aieg_kapitaal_jr2025,igs_aieg,2025,10722918,,,KBO kapitaal,src_aieg_kbo,strong,tick1944; KBO kapitaal 10722918
+bud_aieg_fte_jr2025,igs_aieg,2025,46,,,CW NBB-derived FTE 45.8,src_aieg_jr2025_cw,medium,tick1944; YE2025 FTE 45.8 (stored 46)

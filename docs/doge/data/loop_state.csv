@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-27T18:45:00Z,rq_1943,1943,no,tick1943 leftover Synergrid 0402.958.091 Medium CW+Upswitch (bruto JUMP 5.07m pnl JUMP 70k equity 8.97m assets 11.01m EBITDA 0.21m FTE 24 omzet empty); NBB PDF+lidgeld FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2024; next rq_1944; next every-10 1950; continuous hole_fill
+main,continuous,hole_fill,2026-08-27T19:15:00Z,rq_1944,1944,no,tick1944 leftover AIEG 0202.555.004 Medium CW+KBO (omzet JUMP 20.05m pnl DROP 1.51m equity 49.56m bruto JUMP 8.96m FTE 45.8 kapitaal 10.72m assets Unknown); NBB PDF+RAB/share FOI; AGB Bornem JR2024; Dijk92 CDN 403; FARO YE2024; next rq_1945; next every-10 1950; continuous hole_fill
