@@ -50852,3 +50852,14 @@ bud_stormw_zefier_sector_div_recv_2025,nv_storm_wielsbeke,2025,50000,,,realized,
 bud_stormz_zefier_shares_2025,nv_storm_zandvliet,2025,411572,,,realized,src_stormz_zefier_balans_2025,strong,Zefier aandelen Storm Zandvliet 411572.19 YE2025; tick1804 primary
 bud_stormz_zefier_sector_div_recv_2025,nv_storm_zandvliet,2025,145045,,,realized,src_stormz_zefier_sector_2025,strong,Zefier sector SZA ontvangen dividend totaal 145044.91; tick1804 primary
 bud_stormz_zefier_sector_div_antwerpen_2025,nv_storm_zandvliet,2025,133200,,,realized,src_stormz_zefier_sector_2025,strong,Antwerpen slice sector dividend 133199.94; tick1804 primary
+bud_ika_assets_166_59m_2025,igs_ika,2025,166594138,,,NBB VOL-inb YE2025,src_ika_jr2025_nbb,strong,tick1811; assets YE2025 code 20/58; not TE-additive of 348bn
+bud_ika_fva_98_04m_2025,igs_ika,2025,98044788,,,NBB VOL-inb YE2025,src_ika_jr2025_nbb,strong,tick1811; FVA YE2025 code 28; not TE-additive of 348bn
+bud_ika_equity_132_29m_2025,igs_ika,2025,132290621,,,NBB VOL-inb YE2025,src_ika_jr2025_nbb,strong,tick1811; equity YE2025 code 10/15; not TE-additive of 348bn
+bud_ika_debt_34_30m_2025,igs_ika,2025,34303517,,,NBB VOL-inb YE2025,src_ika_jr2025_nbb,strong,tick1811; schulden YE2025 code 17/49; not TE-additive of 348bn
+bud_ika_pnl_13_84m_2025,igs_ika,2025,13836266,,,NBB VOL-inb YE2025,src_ika_jr2025_nbb,strong,tick1811; PnL YE2025 code 9904; not TE-additive of 348bn
+bud_ika_dividend_8_39m_2025,igs_ika,2025,8389537,,,NBB VOL-inb YE2025,src_ika_jr2025_nbb,strong,tick1811; uit te keren winst code 694/7; not TE-additive of 348bn
+bud_ika_fin_opbr_fva_14_39m_2025,igs_ika,2025,14393574,,,NBB VOL-inb YE2025,src_ika_jr2025_nbb,strong,tick1811; opbrengsten FVA code 750; not TE-additive of 348bn
+bud_ika_cash_14_27m_2025,igs_ika,2025,14270748,,,NBB VOL-inb YE2025,src_ika_jr2025_nbb,strong,tick1811; liquide middelen code 54/58 DROP; not TE-additive of 348bn
+bud_ika_beleg_20_70m_2025,igs_ika,2025,20700000,,,NBB VOL-inb YE2025,src_ika_jr2025_nbb,strong,tick1811; geldbeleggingen code 50/53 JUMP; not TE-additive of 348bn
+bud_ika_diensten_0_17m_2025,igs_ika,2025,171151,,,NBB VOL-inb YE2025,src_ika_jr2025_nbb,strong,tick1811; diensten code 61; not TE-additive of 348bn
+bud_ika_expl_loss_0_19m_2025,igs_ika,2025,188112,,,NBB VOL-inb YE2025,src_ika_jr2025_nbb,strong,tick1811; bedrijfsverlies abs code 9901; not TE-additive of 348bn

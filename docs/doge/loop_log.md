@@ -21368,3 +21368,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress_every_10_ticks.md; doge_waste_top10_current.md; research_queue rq_1810=done + rq_1811 spawned; loop_state ticks=1810
 - FOI: none new this tick (progress only)
 - Next: rq_1811 — leftover AGB/NSZ-if-200/Dijk92-if-200/FARO/APEFE/HVZ/IGS; every-10 at **1820**
+
+## Tick 1811 - 2026-08-25T06:45:00Z - rq_1811 IKA DV (FVA 98.04m / dividend 8.39m)
+
+- Unit: **rq_1811** leftover dual residual after every-10 1810; preferred AGB Bornem still JR2024; Dijk92/NSZ/APEFE CDN **403**; FARO NBB YE2025 unpublished. Took leftover **IKA DV** (KBO **0227.673.846**).
+- Primary (strong, NBB VOL-inb [2026-00259426](http://cdn.staatsbladmonitor.be/2026pdf/2026-00259426.pdf) CDN 200 / 62p; AV **22.06.2026**): assets **EUR166,594,138**; FVA **EUR98,044,788** (Publigas **22.93m** / Publi-T **59.07m** / W4F **7.60m** / EGPF **0.92m** / SPS FIN **0.15m** / Storm*+Pampero+LumIKA); equity **EUR132,290,621**; debt **EUR34,303,517** (gov-guaranteed **11.67m**); PnL **EUR13,836,266**; dividend **EUR8,389,537**; cash DROP **EUR14,270,748**; beleg JUMP **EUR20,700,000**; diensten **EUR171,151**; expl LOSS **EUR188,112**; VTE **0**; omzet **70 empty**.
+- Wrote: entities igs_ika; sources (+3); budgets (+11); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1811=done + rq_1812 spawned; loop_state ticks=1811; FOI draft gap_ika_fva_98_04m_dividend_8_39m_omzet_empty_l5.md
+- FOI opened: gap_ika_fva_98_04m_dividend_8_39m_omzet_empty_l5 (**ready**, human-send only)
+- NOT every-10 (next **1820**). Next: rq_1812 residual dual.
