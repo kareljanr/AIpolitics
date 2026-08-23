@@ -51633,3 +51633,7 @@ bud_interfin_pnl_jr2025,cv_interfin,2025,83040743,,,CW NBB-derived 9904,src_inte
 bud_interfin_equity_jr2025,cv_interfin,2025,1245525946,,,CW NBB-derived 10/15,src_interfin_jr2025_cw,medium,tick1931; YE2025 equity 1245525946 JUMP +13.98pct
 bud_interfin_bruto_jr2025,cv_interfin,2025,-258026,,,CW NBB-derived 9900,src_interfin_jr2025_cw,medium,tick1931; YE2025 bruto NEG -258026
 bud_interfin_fte_jr2025,cv_interfin,2025,0,,,CW NBB-derived FTE 0,src_interfin_jr2025_cw,medium,tick1931; YE2025 FTE 0
+bud_eliagroup_pnl_jr2025,nv_elia_group,2025,174928502,,,CW NBB-derived 9904,src_eliagroup_jr2025_cw,medium,tick1932; YE2025 pnl 174928502 JUMP +23.23pct
+bud_eliagroup_equity_jr2025,nv_elia_group,2025,5053144293,,,CW NBB-derived 10/15,src_eliagroup_jr2025_cw,medium,tick1932; YE2025 equity 5053144293 JUMP +74.54pct
+bud_eliagroup_bruto_jr2025,nv_elia_group,2025,-8759663,,,CW NBB-derived 9900,src_eliagroup_jr2025_cw,medium,tick1932; YE2025 bruto NEG -8759663
+bud_eliagroup_fte_jr2025,nv_elia_group,2025,9,,,CW NBB-derived FTE 9.3,src_eliagroup_jr2025_cw,medium,tick1932; YE2025 FTE 9.3 (stored 9)

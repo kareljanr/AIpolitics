@@ -22378,3 +22378,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_interfin_nbb_pdf_assets_share_fva_l5; rq_1931=done + rq_1932 open; loop_state ticks=1931.
 - FOI opened: NBB PDF + assets/share % / FVA / stake map (**ready**, human-send only; email not in KBO — post/tel).
 - NOT every-10 (**next every-10 is 1940**). Next: rq_1932 (AGB/Dijk92-if-200 / FARO-if-YE2025 / BNO-otherHVZ).
+
+## Tick 1932 - 2026-08-27T13:15:00Z - rq_1932 Elia Group (equity JUMP 5.05bn / pnl JUMP 174.9m / Medium)
+
+- Unit: **rq_1932** leftover dual after Interfin. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO YE2024; named **BNO** (0881.278.355) still **YE2024-only** on CW — deferred. Took leftover **Elia Group NV** (KBO **0476.388.378**; Keizerslaan 20 Brussel; listed **aanbestedende overheid** holding; Publi-T/Interfin capital-raise path; parent of ETB/50Hertz; distinct from mined elia ETB; NON-Eneco).
+- Primary hunt: NBB deposit PDF unresolved; Upswitch YE2024-only for assets. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0476388378/elia-group) + KBO (neerlegging **11.06.2026**; YE **31.12.2025**; kapitaal **EUR2,722,778,825**): omzet **empty**; bruto **NEG EUR-8,759,663**; PnL **EUR174,928,502** (**JUMP +23.23%**); equity **EUR5,053,144,293** (**JUMP +74.54%**); FTE **9.3**; assets **Unknown**.
+- Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_eliagroup_nbb_pdf_assets_share_capital_jump_l5; rq_1932=done + rq_1933 open; loop_state ticks=1932.
+- FOI opened: NBB PDF + assets/share % / capital JUMP recon (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1940**). Next: rq_1933 (AGB/Dijk92-if-200 / FARO-if-YE2025 / BNO-if-YE2025).
