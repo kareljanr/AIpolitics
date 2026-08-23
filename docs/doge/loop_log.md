@@ -21692,3 +21692,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities nv_cordona_wind; sources (+3); commitments (+1 Unknown); leaderboard weak; foi_queue ready; progress+waste every-10; research_queue rq_1850=blocked_foi + rq_1851 spawned; loop_state ticks=1850; FOI draft gap_cordona_jr2025mar_nbb_deposit_unresolved_l5.md
 - FOI opened: gap_cordona_jr2025mar_nbb_deposit_unresolved_l5 (**ready**, human-send only)
 - Next every-10 **1860**. Next: rq_1851 (Solano-if-200 / AGB / Dijk92 / FARO).
+
+## Tick 1851 - 2026-08-25T22:05:00Z - rq_1851 HVZ Meetjesland full JR2025 (gemdot 3.15m / fed+FOD 2.82m)
+
+- Unit: **rq_1851** leftover dual residual after Cordona every-10 FOI; preferred Solano CDN unresolved (Sept9 hunt); AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2024. Took **HVZ Meetjesland full JR2025** hole-fill (closes prior uittreksel-only FOI `gap_hvzm_assets_4_11m_expl_258k_rekening_l5`).
+- Primary (strong, [Maldegem portal full rekening 192p](https://www.maldegem.be/file/download/446c06d6-789c-469a-bc04-c90faa39e6d1/cu4Wi69wUttfHw74n4GZ9XcarujlhMjkRSs21YyYdA3d.pdf); zoneraad **18.03.2026**; KBO **0500.927.596**): gemdot gewone **EUR3,151,013**; federale dotaties **EUR1,430,371**; retributies **EUR758,926**; FOD Volksgezondheid vervoer 100 **EUR1,389,667**; begrotingsresultaat gewone **EUR1,227,080**; BD gemdot **EUR139,058**; ambulance sale **EUR33,073**; BD resultaat **EUR35,831**; invest/werking carry to 2026 **EUR58,585** / **EUR46,935**. Prior uittreksel assets/equity/debt/pnl stand.
+- Wrote: sources (+1); budgets (+10); commitments (+3); leaderboard; foi_queue answered prior + residual ready; entities notes; research_queue rq_1851=done + rq_1852 spawned; loop_state ticks=1851; FOI draft gap_hvzm_vte_per_gemeente_gemdot_3_15m_l5.md
+- FOI: prior rekening gap **answered** (public PDF); residual `gap_hvzm_vte_per_gemeente_gemdot_3_15m_l5` (**ready**, human-send only)
+- NOT every-10 (next **1860**). Next: rq_1852 (Solano-if-200 / AGB / Dijk92 / FARO / other HVZ).

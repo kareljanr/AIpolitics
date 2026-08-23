@@ -51192,3 +51192,13 @@ bud_baliwind_cash_0_17m_yemar2025,nv_bali_wind,2025,168434,,,NBB C-cap YE Mar202
 bud_baliwind_pnl_loss_17_7k_yemar2025,nv_bali_wind,2025,-17655,,,NBB C-cap YE Mar2025 PnL LOSS,src_baliwind_jr2025mar_nbb,strong,tick1845; pnl LOSS -17655 (was -58801); omzet empty; dividend 0; not TE-additive
 bud_baliwind_expl_loss_17_2k_yemar2025,nv_bali_wind,2025,-17201,,,NBB C-cap YE Mar2025 expl LOSS,src_baliwind_jr2025mar_nbb,strong,tick1845; expl LOSS -17201; services 15812; not TE-additive
 bud_baliwind_st_recv_0_08m_yemar2025,nv_bali_wind,2025,79651,,,NBB C-cap YE Mar2025 ST other recv DROP,src_baliwind_jr2025mar_nbb,strong,tick1845; autres creances ST DROP 79651 (was 180163); cash-convention path; not TE-additive
+bud_hvzm_gemdot_gewone_3_15m_jr2025,igs_hvzm,2025,3151013,,,JR2025 verslag gemeentelijke dotaties gewone,src_hvzm_jr2025_full_maldegem,strong,tick1851; gemdot gewone 3151013; not TE-additive of 348bn
+bud_hvzm_feddot_1_43m_jr2025,igs_hvzm,2025,1430371,,,JR2025 verslag federale dotaties,src_hvzm_jr2025_full_maldegem,strong,tick1851; federale dotaties 1430371; not TE-additive
+bud_hvzm_retributies_0_76m_jr2025,igs_hvzm,2025,758926,,,JR2025 verslag retributies,src_hvzm_jr2025_full_maldegem,strong,tick1851; retributies vervoer100/interventies/preventie 758926; not TE-additive
+bud_hvzm_fod_vg_1_39m_jr2025,igs_hvzm,2025,1389667,,,JR2025 verslag FOD Volksgezondheid vervoer 100,src_hvzm_jr2025_full_maldegem,strong,tick1851; FOD VG toelage vervoer 100 1389667; not TE-additive
+bud_hvzm_result_gewone_1_23m_jr2025,igs_hvzm,2025,1227080,,,JR2025 verslag begrotingsresultaat gewone,src_hvzm_jr2025_full_maldegem,strong,tick1851; resultaat gewone 1227080; not TE-additive
+bud_hvzm_gemdot_buit_0_14m_jr2025,igs_hvzm,2025,139058,,,JR2025 verslag gemeentelijke dotaties buitengewone,src_hvzm_jr2025_full_maldegem,strong,tick1851; gemdot BD 139058; not TE-additive
+bud_hvzm_ambulance_sale_33k_jr2025,igs_hvzm,2025,33073,,,JR2025 verslag verkoop ziekenwagen meerwaarde,src_hvzm_jr2025_full_maldegem,strong,tick1851; verkoop ambulance 33073; not TE-additive
+bud_hvzm_result_buit_36k_jr2025,igs_hvzm,2025,35831,,,JR2025 verslag begrotingsresultaat buitengewone,src_hvzm_jr2025_full_maldegem,strong,tick1851; resultaat buitengewoon 35831; not TE-additive
+bud_hvzm_invest_carry_59k_jr2025,igs_hvzm,2025,58585,,,JR2025 verslag overdracht vastleggingen invest 2026,src_hvzm_jr2025_full_maldegem,strong,tick1851; invest carry to 2026 58584.61; not TE-additive
+bud_hvzm_werking_carry_47k_jr2025,igs_hvzm,2025,46935,,,JR2025 verslag overdracht werking vastleggingen 2026,src_hvzm_jr2025_full_maldegem,strong,tick1851; werking carry to 2026 46934.51; not TE-additive
