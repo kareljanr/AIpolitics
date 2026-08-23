@@ -22402,3 +22402,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+5); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_fluxys_nbb_pdf_assets_share_fva_l5; rq_1934=done + rq_1935 open; loop_state ticks=1934.
 - FOI opened: NBB PDF + assets/share % / FVA (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1940**). Next: rq_1935 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Fluxys LNG-otherHVZ).
+
+## Tick 1935 - 2026-08-27T14:45:00Z - rq_1935 ETB (omzet 1.52bn / equity JUMP 3.86bn / assets 10.45bn / Medium)
+
+- Unit: **rq_1935** leftover dual after Fluxys (1934 concurrent). Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **2026-00377886 still 403**; FARO NBB still **YE2024**. Took named leftover **Elia Transmission Belgium** (KBO **0731.852.231**; Keizerslaan 20 Brussel; Belgian TSO; Elia Group/Publi-T/Interfin path; NON-Eneco). **BNO done 1933 / Fluxys done 1934 — not redone.**
+- Primary hunt: NBB consult SPA HTML only (deposit PDF unresolved). **Medium** euros from [Companyweb](https://www.companyweb.be/en/0731852231/elia-transmission-belgium) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/elia-transmission-belgium-0731852231) + KBO (neerlegging **09.06.2026**; YE **31.12.2025**; kapitaal **EUR2,824,448,580**): omzet **EUR1,524,550,649** (flat **+0.14%**); bruto **EUR242,276,439** (**JUMP +23.04%**); PnL **EUR228,371,596** (**DROP -3.64%**); equity **EUR3,860,494,516** (**JUMP +39.79%**); assets **EUR10,452,686,219**; EBITDA **EUR152,687,864**; FTE **611.6**.
+- Wrote: sources (+3); budgets (+7); commitments (+1); leaderboard (+1); entities (updated elia); foi + draft gap_etb_nbb_pdf_debt_tariff_equity_jump_l5; rq_1935=done + rq_1936 open; loop_state ticks=1935.
+- FOI opened: NBB PDF + debt/tariff/equity JUMP recon (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1940**). Next: rq_1936 (AGB/Dijk92-if-200 / FARO-if-YE2025 / FluxysLNG-otherHVZ-IGS).

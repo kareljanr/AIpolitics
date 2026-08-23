@@ -51648,3 +51648,10 @@ bud_fluxys_pnl_jr2025,nv_fluxys,2025,198711309,,,CW NBB-derived 9904,src_fluxys_
 bud_fluxys_equity_jr2025,nv_fluxys,2025,1972830614,,,CW NBB-derived 10/15,src_fluxys_jr2025_cw,medium,tick1934; YE2025 equity 1972830614 JUMP +2.26pct
 bud_fluxys_bruto_jr2025,nv_fluxys,2025,-12256943,,,CW NBB-derived 9900,src_fluxys_jr2025_cw,medium,tick1934; YE2025 bruto NEG -12256943
 bud_fluxys_fte_jr2025,nv_fluxys,2025,50,,,CW NBB-derived FTE 49.8,src_fluxys_jr2025_cw,medium,tick1934; YE2025 FTE 49.8 (stored 50)
+bud_etb_omzet_jr2025,elia,2025,1524550649,,,CW NBB-derived omzet,src_etb_jr2025_cw,medium,tick1935; YE2025 omzet 1524550649 flat +0.14pct
+bud_etb_bruto_jr2025,elia,2025,242276439,,,CW NBB-derived 9900,src_etb_jr2025_cw,medium,tick1935; YE2025 bruto 242276439 JUMP +23.04pct
+bud_etb_pnl_jr2025,elia,2025,228371596,,,CW NBB-derived 9904,src_etb_jr2025_cw,medium,tick1935; YE2025 pnl 228371596 DROP -3.64pct
+bud_etb_equity_jr2025,elia,2025,3860494516,,,CW/Upswitch NBB-derived 10/15,src_etb_jr2025_cw,medium,tick1935; YE2025 equity 3860494516 JUMP +39.79pct
+bud_etb_assets_jr2025,elia,2025,10452686219,,,Upswitch NBB/CBSO assets,src_etb_jr2025_upswitch,medium,tick1935; YE2025 assets 10452686219 JUMP vs 8.59bn YE2024
+bud_etb_ebitda_jr2025,elia,2025,152687864,,,Upswitch NBB/CBSO EBITDA,src_etb_jr2025_upswitch,medium,tick1935; YE2025 EBITDA 152687864
+bud_etb_fte_jr2025,elia,2025,612,,,CW NBB-derived FTE 611.6,src_etb_jr2025_cw,medium,tick1935; YE2025 FTE 611.6 (stored 612)
