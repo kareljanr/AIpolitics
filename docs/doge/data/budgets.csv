@@ -52357,3 +52357,8 @@ bud_vrijzicht_pnl_jr2025_statutory,vzw_wzc_home_vrijzicht,2025,195194,,,CW YE202
 bud_vrijzicht_equity_jr2025_statutory,vzw_wzc_home_vrijzicht,2025,5953029,,,CW YE2025 Eigen vermogen / Equity,src_vrijzicht_jr2025_cw_en,medium,tick2059; equity JUMP 5953029 +3.00pct vs YE2024 5779644
 bud_vrijzicht_bruto_jr2025_statutory,vzw_wzc_home_vrijzicht,2025,8173946,,,CW YE2025 Brutomarge / Gross margin,src_vrijzicht_jr2025_cw_en,medium,tick2059; bruto JUMP 8173946 +0.83pct vs YE2024 8107037
 bud_vrijzicht_fte_jr2025_statutory,vzw_wzc_home_vrijzicht,2025,112.8,,,CW social-balance FTE,src_vrijzicht_jr2025_cw_en,medium,tick2059; YE2025 FTE 112.8
+bud_christine_omzet_jr2025_statutory,vzw_wzc_christine,2025,7100827,,,CW YE2025 omzet / Turnover,src_christine_jr2025_cw_en,medium,tick2060 EVERY-10; omzet JUMP 7100827 +2.06pct vs YE2024 6957332
+bud_christine_pnl_jr2025_statutory,vzw_wzc_christine,2025,942551,,,CW YE2025 Profit/Loss,src_christine_jr2025_cw_en,medium,tick2060 EVERY-10; pnl DROP 942551 -12.39pct vs YE2024 1075866
+bud_christine_equity_jr2025_statutory,vzw_wzc_christine,2025,11252477,,,CW YE2025 Eigen vermogen / Equity,src_christine_jr2025_cw_en,medium,tick2060 EVERY-10; equity JUMP 11252477 +9.14pct vs YE2024 10309926
+bud_christine_bruto_jr2025_statutory,vzw_wzc_christine,2025,6893380,,,CW YE2025 Brutomarge / Gross margin,src_christine_jr2025_cw_en,medium,tick2060 EVERY-10; bruto JUMP 6893380 +2.66pct vs YE2024 6715107
+bud_christine_fte_jr2025_statutory,vzw_wzc_christine,2025,79.3,,,CW social-balance FTE,src_christine_jr2025_cw_en,medium,tick2060 EVERY-10; YE2025 FTE 79.3

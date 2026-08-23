@@ -23573,3 +23573,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.0); entities (+1 vzw_wzc_home_vrijzicht); foi + draft gap_vrijzicht_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2059=done + rq_2060 open (EVERY-10); loop_state ticks=2059; raw under docs/doge/data/raw/tick2059/.
 - FOI: **ready not sent** (human-gated; info@homevrijzicht.be).
 - NOT every-10 (**next every-10 is 2060**). Next: rq_2060 (EVERY-10 mandatory + AGB/FARO-if-YE2025 / AIESH-REW / Christine-TerBurg-Wezembeek-Antonius deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2060 - 2026-08-24T20:05:00Z - rq_2060 EVERY-10 + Christine (omzet JUMP 7.10m / pnl DROP 0.94m / Medium)
+
+- Unit: **rq_2060** EVERY-10 mandatory + leftover dual after **rq_2059 Home Vrijzicht**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **Woonzorgcentrum Christine** YE2025 (KBO **0421.903.676**; Gerardus Stijnenlaan 76 Antwerpen-Ekeren; Antwerpen **VZW** WZC / **1 VE**). Ter Burg / OLV Wezembeek / Sint-Antonius YE2025 also live - deferred. Do not redo Vrijzicht/'t Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/Lourdes/St Vincentius Antwerpen/Rillaar/Karus/De Foyer/Sint-Jozef Rumst/Veilige Have/Witte Meren/Zusterhof.
+- EVERY-10: refreshed **progress_every_10_ticks.md** (tick 2060 snapshot; residual dual 2051-2060) + **doge_waste_top10_current.md** (pure annual top10 stable GIP/fossil/cars/cheque/reporté; NEW residual dual off-top10).
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR7,100,827** JUMP +2.06%; pnl **EUR942,551** DROP -12.39%; equity **EUR11,252,477** JUMP +9.14%; bruto **EUR6,893,380** JUMP +2.66%; FTE **79.3**; neerlegging **16.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@wzcchristine.be (brochure+site).
+- Wrote: sources (+6); budgets (+5); commitments (+1); leaderboard (+1 pi 4.9); entities (+1 vzw_wzc_christine); foi + draft gap_christine_nbb_pdf_assets_debt_pnl_drop_matrix_l5; progress+top10; rq_2060=done + rq_2061 open; loop_state ticks=2060; raw under docs/doge/data/raw/tick2060/.
+- FOI: **ready not sent** (human-gated; info@wzcchristine.be).
+- EVERY-10 done. Next every-10 **2070**. Next: rq_2061 (AGB/FARO-if-YE2025 / AIESH-REW / TerBurg-Wezembeek-Antonius deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+### Every-10 brief (A/B/C/D/E)
+- **A** L0 TE: **100%** (EUR347.956bn Strong)
+- **B** L1 subsectors: **100%** unconsol. map Strong
+- **C** L2 entity totals: **~99%** OoM (+ residual dual 2051-2060)
+- **D** L5 named end-lines: **~74-88%** TE generous (residual dual gain; not near-complete of 348bn)
+- **E** FOI-ready: **~1677** drafts; answered ~11; partial ~28; total ~1729
