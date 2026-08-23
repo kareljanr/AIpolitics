@@ -23153,3 +23153,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_az_zeno); foi + draft gap_az_zeno_nbb_pdf_assets_debt_year_label_matrix_l5; rq_2016=done + rq_2017 open; loop_state ticks=2016; raw under docs/doge/data/raw/tick2016/.
 - FOI: **ready not sent** (human-gated; info@azzeno.be) — also asks boekjaar confirmation.
 - NOT every-10 (**next every-10 is 2020**). Next: rq_2017 (AGB/FARO-if-YE2025 / AIESH-REW / Jessa-ZOL-SFZ / unused DSO-IGS-HVZ).
+
+
+## Tick 2017 - 2026-08-24T08:40:00Z - rq_2017 AZ Rivierenland (omzet JUMP 208.26m / pnl LOSS 0.25m / Medium)
+
+- Unit: **rq_2017** leftover dual after **rq_2016 AZ Zeno**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**. Jessa/ZOL/SFZ CW **N/A omzet**. Took preferred leftover **AZ Rivierenland** YE2025 (KBO **0416.851.659**; Rumst/Bornem/Willebroek; Antwerpen **hospital VZW**). Do not redo AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende/Werken Glorieux/AZ Alma/AZ St.-Elisabeth Herentals/Vitaz/Emmaüs/AZORG/Z.org KU Leuven/AZ Delta/AZJP/ZAS/CHR Verviers/CNDG/Haute Senne/CHBA/Saint-Luc/GHdC/Humani/CHIREC.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR208,256,218** JUMP +3.04%; pnl **LOSS EUR-251,639** (vs YE2024 profit 0.24m); equity **EUR86,822,351** DROP −2.54%; bruto **EUR97,540,019** JUMP +3.81%; FTE **1089.6**; neerlegging **04.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 7 VE; email info@azr.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_az_rivierenland); foi + draft gap_az_rivierenland_nbb_pdf_assets_debt_pnl_loss_matrix_l5; rq_2017=done + rq_2018 open; loop_state ticks=2017; raw under docs/doge/data/raw/tick2017/.
+- FOI: **ready not sent** (human-gated; info@azr.be).
+- NOT every-10 (**next every-10 is 2020**). Next: rq_2018 (AGB/FARO-if-YE2025 / AIESH-REW / SFZ-Noorderhart / unused DSO-IGS-HVZ).

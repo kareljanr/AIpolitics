@@ -52140,3 +52140,8 @@ bud_az_zeno_pnl_jr2025_statutory,vzw_az_zeno,2025,6176929,,,CW latest Profit/Los
 bud_az_zeno_equity_jr2025_statutory,vzw_az_zeno,2025,51316660,,,CW latest Eigen vermogen treated YE2025,src_az_zeno_jr2025_cw,medium,tick2016; equity JUMP 51316660 +14.06pct vs prior 44990551
 bud_az_zeno_bruto_jr2025_statutory,vzw_az_zeno,2025,37489915,,,CW latest Brutomarge treated YE2025,src_az_zeno_jr2025_cw,medium,tick2016; bruto JUMP 37489915 +10.90pct vs prior 33803854
 bud_az_zeno_fte_jr2025_statutory,vzw_az_zeno,2025,579.5,,,CW social-balance FTE,src_az_zeno_jr2025_cw,medium,tick2016; FTE 579.5
+bud_az_rivierenland_omzet_jr2025_statutory,vzw_az_rivierenland,2025,208256218,,,CW YE2025 omzet / Turnover,src_az_rivierenland_jr2025_cw,medium,tick2017; omzet JUMP 208256218 +3.04pct vs YE2024 202105308
+bud_az_rivierenland_pnl_jr2025_statutory,vzw_az_rivierenland,2025,-251639,,,CW YE2025 Profit/Loss,src_az_rivierenland_jr2025_cw,medium,tick2017; pnl LOSS -251639 turnaround vs YE2024 profit 237348
+bud_az_rivierenland_equity_jr2025_statutory,vzw_az_rivierenland,2025,86822351,,,CW YE2025 Eigen vermogen,src_az_rivierenland_jr2025_cw,medium,tick2017; equity DROP 86822351 -2.54pct vs YE2024 89088809
+bud_az_rivierenland_bruto_jr2025_statutory,vzw_az_rivierenland,2025,97540019,,,CW YE2025 Brutomarge,src_az_rivierenland_jr2025_cw,medium,tick2017; bruto JUMP 97540019 +3.81pct vs YE2024 93958723
+bud_az_rivierenland_fte_jr2025_statutory,vzw_az_rivierenland,2025,1089.6,,,CW social-balance FTE,src_az_rivierenland_jr2025_cw,medium,tick2017; YE2025 FTE 1089.6
