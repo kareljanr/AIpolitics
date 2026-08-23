@@ -52337,3 +52337,8 @@ bud_ganspoel_pnl_jr2025_statutory,vzw_centrum_ganspoel,2025,133240,,,CW YE2025 P
 bud_ganspoel_equity_jr2025_statutory,vzw_centrum_ganspoel,2025,19098814,,,CW YE2025 Eigen vermogen / Equity,src_ganspoel_jr2025_cw_en,medium,tick2055; equity JUMP 19098814 +3.90pct vs YE2024 18381270
 bud_ganspoel_bruto_jr2025_statutory,vzw_centrum_ganspoel,2025,20569172,,,CW YE2025 Brutomarge / Gross margin (material VZW/VAPH flow),src_ganspoel_jr2025_cw_en,medium,tick2055; bruto JUMP 20569172 +2.26pct vs YE2024 20114712; preferred envelope vs code70 omzet
 bud_ganspoel_fte_jr2025_statutory,vzw_centrum_ganspoel,2025,244.7,,,CW social-balance FTE,src_ganspoel_jr2025_cw_en,medium,tick2055; YE2025 FTE 244.7
+bud_westerhauwe_omzet_jr2025_statutory,vzw_huize_westerhauwe,2025,1964040,,,CW YE2025 omzet / Turnover,src_westerhauwe_jr2025_cw_en,medium,tick2056; omzet JUMP 1964040 +4.42pct vs YE2024 1880814
+bud_westerhauwe_pnl_jr2025_statutory,vzw_huize_westerhauwe,2025,-228705,,,CW YE2025 Profit/Loss,src_westerhauwe_jr2025_cw_en,medium,tick2056; pnl FLIP LOSS -228705 vs YE2024 profit 100423
+bud_westerhauwe_equity_jr2025_statutory,vzw_huize_westerhauwe,2025,1407861,,,CW YE2025 Eigen vermogen / Equity,src_westerhauwe_jr2025_cw_en,medium,tick2056; equity DROP 1407861 -13.99pct vs YE2024 1636786
+bud_westerhauwe_bruto_jr2025_statutory,vzw_huize_westerhauwe,2025,3143282,,,CW YE2025 Brutomarge / Gross margin,src_westerhauwe_jr2025_cw_en,medium,tick2056; bruto JUMP 3143282 +5.83pct vs YE2024 2970116
+bud_westerhauwe_fte_jr2025_statutory,vzw_huize_westerhauwe,2025,37.8,,,CW social-balance FTE,src_westerhauwe_jr2025_cw_en,medium,tick2056; YE2025 FTE 37.8

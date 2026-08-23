@@ -23537,3 +23537,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.7); entities (+1 vzw_centrum_ganspoel); foi + draft gap_ganspoel_nbb_pdf_assets_debt_pnl_drop_subsidy_matrix_l5; rq_2055=done + rq_2056 open; loop_state ticks=2055; raw under docs/doge/data/raw/tick2055/.
 - FOI: **ready not sent** (human-gated; info@ganspoel.be).
 - NOT every-10 (**next every-10 is 2060**). Next: rq_2056 (AGB/FARO-if-YE2025 / AIESH-REW / Westerhauwe deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2056 - 2026-08-24T19:05:00Z - rq_2056 Huize Westerhauwe (omzet JUMP 1.96m / pnl FLIP LOSS 0.23m / Medium)
+
+- Unit: **rq_2056** leftover dual after **rq_2055 Centrum Ganspoel**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **Huize Westerhauwe** YE2025 (KBO **0455.080.547**; Klemskerkestraat 19 Bredene; West-Vlaanderen **VZW** WZC / **1 VE**). Do not redo Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/C.W.Z.C. Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Sint-Jozef Rumst/Veilige Have/Witte Meren.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR1,964,040** JUMP +4.42%; pnl **LOSS EUR-228,705** FLIP vs YE2024 profit EUR100,423; equity **EUR1,407,861** DROP −13.99%; bruto **EUR3,143,282** JUMP +5.83%; FTE **37.8**; neerlegging **23.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@huize-westerhauwe.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.7); entities (+1 vzw_huize_westerhauwe); foi + draft gap_westerhauwe_nbb_pdf_assets_debt_pnl_flip_loss_matrix_l5; rq_2056=done + rq_2057 open; loop_state ticks=2056; raw under docs/doge/data/raw/tick2056/.
+- FOI: **ready not sent** (human-gated; info@huize-westerhauwe.be).
+- NOT every-10 (**next every-10 is 2060**). Next: rq_2057 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
