@@ -24061,3 +24061,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 vzw_elisabeth_aan_zee_oostende); foi + draft gap_elisabeth_aan_zee_nbb_pdf_assets_debt_pnl_flip_matrix_l5; rq_2112=done + rq_2113 open; loop_state ticks=2112; raw docs/doge/data/raw/tick2112/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2110**; next **2120**). Next: rq_2113 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+
+## Tick 2113 - 2026-08-25T08:40:00Z - rq_2113 Résidence 3 Bruxelles (omzet JUMP 7.44m / pnl LOSS NARROW -0.75m / NEG equity / Medium)
+
+- Unit: **rq_2113** leftover dual after **rq_2112 Elisabeth Aan Zee Oostende**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Résidence 3** YE2025 (KBO **0412.640.671**; Eliane Vogel-Polskystraat 20 Brussel/Laken; **NV/SA** NACE **87.101/87.301** / **2 VE** Saphir+Palmboomstraat; **Korian Belgium** bestuurder **0869.769.702** path). Do not redo Elisabeth Aan Zee/XXe Août/Ninove/Zilverlinde/Sint-Camillus/IDELUX*/INTRADEL/ORES SC/Korian holding/Comnexio/SLG*/Always Home/AGB Bornem.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR7437576** JUMP +24.85%; bruto **EUR4217863** DROP −5.66%; pnl **LOSS EUR-754218** LOSS NARROW +37.6% vs YE2024 LOSS EUR-1208632; equity **NEG EUR-2506120** DROP −43.05% vs YE2024 NEG EUR-1751903; FTE **90.4** JUMP vs YE2024 78.7; neerlegging **28.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@korian.be (alt info@saphir.be).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.6); entities (+1 nv_residence_3_bruxelles); foi + draft gap_residence_3_nbb_pdf_assets_debt_pnl_loss_narrow_neg_equity_matrix_l5; rq_2113=done + rq_2114 open; loop_state ticks=2113; raw docs/doge/data/raw/tick2113/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2110**; next **2120**). Next: rq_2114 (AGB/FARO-if-YE2025 / AIESH-REW / Les Buissons Spa deferred / unused IGS-DSO-WZC-MRS).

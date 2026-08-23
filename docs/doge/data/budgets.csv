@@ -52634,3 +52634,8 @@ bud_elisabeth_aan_zee_bruto_jr2025_statutory,vzw_elisabeth_aan_zee_oostende,2025
 bud_elisabeth_aan_zee_pnl_jr2025_statutory,vzw_elisabeth_aan_zee_oostende,2025,134982,134982,134982,CW YE2025 Profit/Loss,src_elisabeth_aan_zee_jr2025_cw_en,medium,tick2112; FLIP vs YE2024 LOSS -4249 (CW shows +1000% cap)
 bud_elisabeth_aan_zee_equity_jr2025_statutory,vzw_elisabeth_aan_zee_oostende,2025,8790569,8790569,8790569,CW YE2025 Eigen vermogen / Equity,src_elisabeth_aan_zee_jr2025_cw_en,medium,tick2112; DROP −2.28% vs YE2024 8995611
 bud_elisabeth_aan_zee_fte_jr2025_statutory,vzw_elisabeth_aan_zee_oostende,2025,96.0,96.0,96.0,CW social-balance FTE / Employees,src_elisabeth_aan_zee_jr2025_cw_en,medium,tick2112; FTE 96.0; YoY Unknown
+bud_residence_3_omzet_jr2025_statutory,nv_residence_3_bruxelles,2025,7437576,7437576,7437576,CW YE2025 omzet / Turnover (primary envelope MRS NV),src_residence_3_jr2025_cw_en,medium,tick2113; JUMP +24.85% vs YE2024 5957434
+bud_residence_3_bruto_jr2025_statutory,nv_residence_3_bruxelles,2025,4217863,4217863,4217863,CW YE2025 Brutomarge / Gross margin,src_residence_3_jr2025_cw_en,medium,tick2113; DROP −5.66% vs YE2024 4471125
+bud_residence_3_pnl_jr2025_statutory,nv_residence_3_bruxelles,2025,-754218,-754218,-754218,CW YE2025 Profit/Loss,src_residence_3_jr2025_cw_en,medium,tick2113; LOSS NARROW +37.6% vs YE2024 LOSS -1208632
+bud_residence_3_equity_jr2025_statutory,nv_residence_3_bruxelles,2025,-2506120,-2506120,-2506120,CW YE2025 Eigen vermogen / Equity,src_residence_3_jr2025_cw_en,medium,tick2113; NEG DROP −43.05% vs YE2024 NEG -1751903
+bud_residence_3_fte_jr2025_statutory,nv_residence_3_bruxelles,2025,90.4,90.4,90.4,CW social-balance FTE / Employees,src_residence_3_jr2025_cw_en,medium,tick2113; FTE JUMP 90.4 vs YE2024 78.7
