@@ -23951,3 +23951,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.3); entities (+1 nv_always_home); foi + draft gap_always_home_nbb_pdf_assets_debt_omzet_drop_equity_jump_matrix_l5; progress+waste EVERY-10; rq_2100=done + rq_2101 open; loop_state ticks=2100; raw docs/doge/data/raw/tick2100/.
 - FOI: **ready not sent** (human-gated).
 - **EVERY-10 DONE.** Next every-10 is **2110**. Next: rq_2101 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC).
+
+
+## Tick 2101 - 2026-08-25T06:05:00Z - rq_2101 SLG Vlaanderen (omzet JUMP 115.87m / pnl FLIP LOSS / equity thin 0.40m / Medium)
+
+- Unit: **rq_2101** leftover dual after **rq_2100 Always Home EVERY-10**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Closed preferred deferred dual **SLG Vlaanderen / Senior Living Group Vlaanderen** YE2025 (KBO **0410.958.712**; Satenrozen 1 B Kontich; Antwerpen **VZW** RVT NACE **87.101** / **29 VE**; bestuurder Korian Belgium) — CSV/FOI already written during 2100 race; this tick closes queue + state. Korian Belgium NV YE2025 deferred. Do not redo Always Home/SLG Operaties/AREWAL/Familiezorg Gent/emeis/Begralim/Sint-Lucia/Lidwina/SED/Zilvervogel/Familiezorg WV/De Lovie/Ocura/Armonea/Colisée/AGB Bornem.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR115872918** JUMP +2.17%; bruto **EUR83069045** JUMP +1.20%; pnl **LOSS EUR-332030** FLIP vs YE2024 PROFIT EUR176516; equity **EUR397440** DROP -45.52% (thin vs omzet); FTE **1190.2** DROP vs YE2024 1192.8; neerlegging **28.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 29 VE; email info@korian.be.
+- Wrote: rq_2101=done + rq_2102 open; loop_state ticks=2101; progress/waste attribution fix (Always Home@2100 EVERY-10; SLG Vlaanderen@2101); entity notes tick label; FOI draft already ready.
+- FOI: **ready not sent** (human-gated; info@korian.be).
+- NOT every-10 (**last every-10 was 2100**; next **2110**). Next: rq_2102 (AGB/FARO-if-YE2025 / AIESH-REW / Korian Belgium deferred / unused WZC).
