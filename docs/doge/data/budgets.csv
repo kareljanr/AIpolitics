@@ -52442,3 +52442,8 @@ bud_zorg_welzijn_kuurne_pnl_jr2025_statutory,vzw_zorg_en_welzijn_kuurne,2025,-17
 bud_zorg_welzijn_kuurne_equity_jr2025_statutory,vzw_zorg_en_welzijn_kuurne,2025,14293709,14293709,14293709,CW YE2025 Eigen vermogen / Equity,src_zorg_welzijn_kuurne_jr2025_cw_en,medium,tick2076; DROP -1.53% vs YE2024 14515487
 bud_zorg_welzijn_kuurne_bruto_jr2025_statutory,vzw_zorg_en_welzijn_kuurne,2025,15744392,15744392,15744392,CW YE2025 Brutomarge / Gross margin,src_zorg_welzijn_kuurne_jr2025_cw_en,medium,tick2076; JUMP +3.23% vs YE2024 15252404
 bud_zorg_welzijn_kuurne_fte_jr2025_statutory,vzw_zorg_en_welzijn_kuurne,2025,215.9,215.9,215.9,CW social-balance FTE,src_zorg_welzijn_kuurne_jr2025_cw_en,medium,tick2076; FTE DROP 215.9 (-1.46%) vs YE2024 219.1
+bud_de_zwaluw_omzet_jr2025_statutory,nv_wzc_de_zwaluw_pajottegem,2025,5443008,5443008,5443008,CW YE2025 omzet / Turnover,src_de_zwaluw_jr2025_cw_en,medium,tick2077; DROP -0.42% vs YE2024 5465878
+bud_de_zwaluw_pnl_jr2025_statutory,nv_wzc_de_zwaluw_pajottegem,2025,1429803,1429803,1429803,CW YE2025 Profit/Loss,src_de_zwaluw_jr2025_cw_en,medium,tick2077; FLIP PROFIT vs YE2024 LOSS -1064708 (FLIP to profit from LOSS)
+bud_de_zwaluw_equity_jr2025_statutory,nv_wzc_de_zwaluw_pajottegem,2025,9070655,9070655,9070655,CW YE2025 Eigen vermogen / Equity,src_de_zwaluw_jr2025_cw_en,medium,tick2077; JUMP +18.71% vs YE2024 7640852
+bud_de_zwaluw_bruto_jr2025_statutory,nv_wzc_de_zwaluw_pajottegem,2025,3910864,3910864,3910864,CW YE2025 Brutomarge / Gross margin,src_de_zwaluw_jr2025_cw_en,medium,tick2077; DROP -0.67% vs YE2024 3937196
+bud_de_zwaluw_fte_jr2025_statutory,nv_wzc_de_zwaluw_pajottegem,2025,69.0,69.0,69.0,CW social-balance FTE,src_de_zwaluw_jr2025_cw_en,medium,tick2077; FTE DROP 69.0 (-14.29%) vs YE2024 80.5

@@ -23735,3 +23735,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 vzw_zorg_en_welzijn_kuurne); foi + draft gap_zorg_welzijn_kuurne_nbb_pdf_assets_debt_pnl_deeper_loss_matrix_l5; rq_2076=done + rq_2077 open; loop_state ticks=2076; raw under docs/doge/data/raw/tick2076/.
 - FOI: **ready not sent** (human-gated; info.kuurne@vzwzorgenwelzijn.be).
 - NOT every-10 (**next every-10 is 2080**). Next: rq_2077 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2077 - 2026-08-25T00:20:00Z - rq_2077 De Zwaluw Pajottegem (omzet DROP 5.44m / pnl FLIP PROFIT 1.43m / Medium)
+
+- Unit: **rq_2077** leftover dual after **rq_2076 Zorg en Welzijn Kuurne**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **De Zwaluw** YE2025 (KBO **0431.632.776**; Vollezeelsesteenweg 44 Pajottegem; Vlaams-Brabant **NV** WZC/RVT / **1 VE**; ~88 beds; CuraCare). Do not redo Kuurne/SJ Brugge/HH Grimbergen/Mater Amabilis/Maria Moorslede/MSW NZVL/Welvaart/Vulpia/Compostela/Leiehome/Deinze/OLV Bornem/Huize SJ Ieper/Sint-Antonius/Wezembeek/Ter Burg/Christine/Vrijzicht/Pandje/Groep Zorg H. Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/Armonea/Always Home/Maria Ingelmunster/SJ Rumst/Rillaar.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR5443008** DROP -0.42%; pnl **PROFIT EUR1429803** FLIP vs YE2024 LOSS EUR-1064708; equity **EUR9070655** JUMP +18.71%; bruto **EUR3910864** DROP -0.67%; FTE **69.0** DROP -14.29% vs YE2024 80.5; neerlegging **21.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief NV 1 VE; email info.zwaluw@cura-care.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.1); entities (+1 nv_wzc_de_zwaluw_pajottegem); foi + draft gap_de_zwaluw_nbb_pdf_assets_debt_pnl_flip_fte_drop_matrix_l5; rq_2077=done + rq_2078 open; loop_state ticks=2077; raw under docs/doge/data/raw/tick2077/.
+- FOI: **ready not sent** (human-gated; info.zwaluw@cura-care.be).
+- NOT every-10 (**next every-10 is 2080**). Next: rq_2078 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
