@@ -50783,3 +50783,16 @@ bud_w4f_dividend_2025,nv_w4f,2025,3275357,,,realized,src_w4f_jr2025_nbb,strong,U
 bud_w4f_lt_loans_2025,nv_w4f,2025,3420637,,,realized,src_w4f_jr2025_nbb,strong,Overige leningen LT 3420637 (vennoten); tick1797
 bud_w4f_st_other_2025,nv_w4f,2025,3275357,,,realized,src_w4f_jr2025_nbb,strong,Overige schulden ST 3275357 (=dividend payable); tick1797
 bud_w4f_commissaris_2025,nv_w4f,2025,7554,,,realized,src_w4f_jr2025_nbb,strong,Bezoldiging commissaris Deloitte 7554; tick1797
+bud_portfineco_assets_2025,nv_portfineco,2025,6234606,,,realized,src_portfineco_jr2025_nbb,strong,Assets YE2025 6234606; tick1798
+bud_portfineco_equity_2025,nv_portfineco,2025,5530192,,,realized,src_portfineco_jr2025_nbb,strong,Equity 5530192; tick1798
+bud_portfineco_debt_2025,nv_portfineco,2025,704414,,,realized,src_portfineco_jr2025_nbb,strong,Debt 704414 DROP; tick1798
+bud_portfineco_fva_2025,nv_portfineco,2025,3811484,,,realized,src_portfineco_jr2025_nbb,strong,FVA deelnemingen Libeccio/Seagull/ICO 3811484 flat; tick1798
+bud_portfineco_cash_2025,nv_portfineco,2025,2170,,,realized,src_portfineco_jr2025_nbb,strong,Cash 2170 DROP from 30651; tick1798
+bud_portfineco_st_recv_2025,nv_portfineco,2025,2415372,,,realized,src_portfineco_jr2025_nbb,strong,Overige vorderingen ST 2415372 DROP from 3848602; tick1798
+bud_portfineco_diensten_2025,nv_portfineco,2025,48033,,,realized,src_portfineco_jr2025_nbb,strong,Diensten diverse goederen 48033; tick1798
+bud_portfineco_expl_2025,nv_portfineco,2025,-48218,,,realized,src_portfineco_jr2025_nbb,strong,Bedrijfsverlies -48218; tick1798
+bud_portfineco_fin_opbr_2025,nv_portfineco,2025,577490,,,realized,src_portfineco_jr2025_nbb,strong,Financiele opbrengsten 577490 DROP from 2784204; tick1798
+bud_portfineco_pnl_2025,nv_portfineco,2025,528902,,,realized,src_portfineco_jr2025_nbb,strong,PnL 528902 tax 0; tick1798
+bud_portfineco_dividend_2025,nv_portfineco,2025,700000,,,realized,src_portfineco_jr2025_nbb,strong,Uit te keren dividend 700000; tick1798
+bud_portfineco_st_other_2025,nv_portfineco,2025,700000,,,realized,src_portfineco_jr2025_nbb,strong,Overige schulden ST 700000 (=dividend payable); tick1798
+bud_portfineco_commissaris_2025,nv_portfineco,2025,5158,,,realized,src_portfineco_jr2025_nbb,strong,Bezoldiging commissaris BDO 5158; tick1798

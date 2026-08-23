@@ -21266,3 +21266,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_w4f; budgets (+16); commitments; leaderboard; foi_queue ready; research_queue rq_1797=done + rq_1798 spawned; loop_state ticks=1797; FOI draft gap_w4f_fva_48_38m_dividend_3_28m_recv_drop_12_57m_l5.md
 - FOI opened: gap_w4f_fva_48_38m_dividend_3_28m_recv_drop_12_57m_l5 (**ready**, not sent)
 - Next: rq_1798 — Portfineco/EGPF-if-200 / AGB / NSZ-if-200; every-10 at **1800**
+
+### 2026-08-25T02:15:00Z — tick 1798
+- Unit: rq_1798 — **PortFineco NV** (leftover Zefier+POAB dual harbour renewable holding)
+- Found: Preferred AGB Bornem still JR2024; NSZ/Dijk92/APEFE prior CDN **403**. Took deferred live **PortFineco** NBB VOL-kap YE2025 deposit [2026-00119667](http://cdn.staatsbladmonitor.be/2026pdf/2026-00119667.pdf) CDN 200 (650 KB / 44p); KBO **0837.729.216**; AV **19.05.2026**; BDO / Michaël Delbeke — **oordeel zonder voorbehoud**; aandeelhouders **Zefier 50pct + Haven van Antwerpen-Brugge (POAB) 50pct**. Sourced: assets **EUR6,234,606**; equity **EUR5,530,192**; debt **EUR704,414**; FVA **EUR3,811,484** (Libeccio/Seagull/ICO); cash **EUR2,170** DROP; ST recv **EUR2,415,372**; fin opbr **EUR577,490** DROP from **EUR2,784,204**; PnL **EUR528,902** tax **0**; dividend **EUR700,000**; diensten **EUR48,033**; VTE **0**; commissaris **EUR5,158**. EGPF **2026-00206406** still deferred.
+- Wrote: sources (+3); entities nv_portfineco; budgets (+13); commitments; leaderboard; foi_queue ready; research_queue rq_1798=done + rq_1799 spawned; loop_state ticks=1798; FOI draft gap_portfineco_fva_3_81m_dividend_0_70m_fin_opbr_drop_2_78m_l5.md
+- FOI opened: gap_portfineco_fva_3_81m_dividend_0_70m_fin_opbr_drop_2_78m_l5 (**ready**, not sent)
+- Next: rq_1799 — EGPF-if-200 / AGB / NSZ-if-200; **every-10 MUST at 1800**
