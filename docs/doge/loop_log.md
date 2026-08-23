@@ -21392,3 +21392,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities nv_storm_olen; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1813=done + rq_1814 spawned; loop_state ticks=1813; FOI draft gap_stormolen_bruto_0_29m_omzet_empty_debt_12_10m_l5.md
 - FOI opened: gap_stormolen_bruto_0_29m_omzet_empty_debt_12_10m_l5 (**ready**, human-send only)
 - NOT every-10 (next **1820**). Next: rq_1814 (Pampero-if-200 / AGB / Dijk92 / FARO / other Storm / IGS).
+
+## Tick 1814 - 2026-08-25T07:45:00Z - rq_1814 Pampero Wind NV (omzet DROP 2.93m / debt 16.24m)
+
+- Unit: **rq_1814** leftover dual residual after Storm Olen; took deferred live **Pampero Wind NV** (IKA–Eneco–Campina; KBO **0670.543.776**). Preferred AGB Bornem still JR2024; Dijk92/NSZ/APEFE CDN often **403**; FARO NBB YE2025 unpublished.
+- Primary (strong, NBB VOL-kap [2025-00521828](http://cdn.staatsbladmonitor.be/2025pdf/2025-00521828.pdf) CDN 200 / 48p; AV **08.09.2025**; YE **01.04.2024–31.03.2025**): assets **EUR22,593,925**; MVA **EUR19,628,321**; IVA **EUR479,751**; omzet **EUR2,934,776** (was **6,871,652**; DROP **3,936,876**); expl **EUR560,779**; fin kosten **EUR667,923**; PnL **EUR-129,513**; debt **EUR16,244,775** (LT **14,613,551** overige leningen); cash **empty**; equity **EUR6,023,310**; dividend **EUR200,000** (was **2,600,000**); VTE **unpublished**. Ownership: Eneco **60%** / Campina Energie **20%** / IKA **20%**. IKA FVA book **EUR1,469,455**.
+- Wrote: entities nv_pampero_wind; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1814=done + rq_1815 spawned; loop_state ticks=1814; FOI draft gap_pampero_omzet_drop_3_94m_loss_0_13m_debt_16_24m_l5.md
+- FOI opened: gap_pampero_omzet_drop_3_94m_loss_0_13m_debt_16_24m_l5 (**ready**, human-send only)
+- NOT every-10 (next **1820**). Next: rq_1815 (other Storm*-if-200 / AGB / Dijk92 / FARO / IGS).

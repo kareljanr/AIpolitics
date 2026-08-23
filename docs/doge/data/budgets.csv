@@ -50882,3 +50882,13 @@ bud_stormolen_cash_1_31m_2025,nv_storm_olen,2025,1305871,,,NBB VKT-kap YE2025,sr
 bud_stormolen_equity_2_84m_2025,nv_storm_olen,2025,2841879,,,NBB VKT-kap YE2025,src_stormolen_jr2025_nbb,strong,tick1813; equity 10/15; not TE-additive of 348bn
 bud_stormolen_expl_0_29m_2025,nv_storm_olen,2025,292268,,,NBB VKT-kap YE2025,src_stormolen_jr2025_nbb,strong,tick1813; bedrijfswinst 9901; not TE-additive of 348bn
 bud_stormolen_fin_cost_0_21m_2025,nv_storm_olen,2025,205260,,,NBB VKT-kap YE2025,src_stormolen_jr2025_nbb,strong,tick1813; financiële kosten 65; not TE-additive of 348bn
+bud_pampero_assets_22_59m_2025,nv_pampero_wind,2025,22593925,,,NBB VOL-kap YE Mar2025,src_pampero_jr2025_nbb,strong,tick1814; assets YE Mar2025; not TE-additive of 348bn
+bud_pampero_mva_19_63m_2025,nv_pampero_wind,2025,19628321,,,NBB VOL-kap YE Mar2025,src_pampero_jr2025_nbb,strong,tick1814; MVA YE Mar2025; not TE-additive of 348bn
+bud_pampero_omzet_2_93m_2025,nv_pampero_wind,2025,2934776,,,NBB VOL-kap YE Mar2025,src_pampero_jr2025_nbb,strong,tick1814; omzet 70; was 6871652; not TE-additive of 348bn
+bud_pampero_pnl_loss_0_13m_2025,nv_pampero_wind,2025,129513,,,NBB VOL-kap YE Mar2025,src_pampero_jr2025_nbb,strong,tick1814; PnL loss 9904 abs; not TE-additive of 348bn
+bud_pampero_debt_16_24m_2025,nv_pampero_wind,2025,16244775,,,NBB VOL-kap YE Mar2025,src_pampero_jr2025_nbb,strong,tick1814; schulden 17/49; not TE-additive of 348bn
+bud_pampero_lt_debt_14_61m_2025,nv_pampero_wind,2025,14613551,,,NBB VOL-kap YE Mar2025,src_pampero_jr2025_nbb,strong,tick1814; LT overige leningen 174; not TE-additive of 348bn
+bud_pampero_equity_6_02m_2025,nv_pampero_wind,2025,6023310,,,NBB VOL-kap YE Mar2025,src_pampero_jr2025_nbb,strong,tick1814; equity 10/15; not TE-additive of 348bn
+bud_pampero_expl_0_56m_2025,nv_pampero_wind,2025,560779,,,NBB VOL-kap YE Mar2025,src_pampero_jr2025_nbb,strong,tick1814; bedrijfswinst 9901; not TE-additive of 348bn
+bud_pampero_fin_cost_0_67m_2025,nv_pampero_wind,2025,667923,,,NBB VOL-kap YE Mar2025,src_pampero_jr2025_nbb,strong,tick1814; financiële kosten 65; not TE-additive of 348bn
+bud_pampero_dividend_0_20m_2025,nv_pampero_wind,2025,200000,,,NBB VOL-kap YE Mar2025,src_pampero_jr2025_nbb,strong,tick1814; uit te keren winst 694; was 2600000; not TE-additive of 348bn
