@@ -51269,3 +51269,10 @@ bud_ioed_hydra_bk_first_0_178m_subset,onroerend_erfgoed,2024,178107,,,Hydra+Erfg
 bud_digipolis_assets_73_61m_jr2025_pdf,digipolis_antwerpen,2025,73605124,,,JR2025 GR PDF balanstotaal,src_digipolis_jr2025_gr00616_pdf,strong,tick1862; JR2025 GR PDF balanstotaal; not TE-additive; dual ICT cost-share
 bud_digipolis_surplus_0_11m_jr2025_pdf,digipolis_antwerpen,2025,109871,,,JR2025 GR PDF overschot boekjaar,src_digipolis_jr2025_gr00616_pdf,strong,tick1862; JR2025 GR PDF overschot boekjaar; not TE-additive; dual ICT cost-share
 bud_digipolis_equity_neg_4_11m_jr2025_pdf,digipolis_antwerpen,2025,-4114715,,,JR2025 commissaris EV NEG continuity,src_digipolis_jr2025_gr00616_pdf,strong,tick1862; JR2025 commissaris EV NEG continuity; not TE-additive; dual ICT cost-share
+bud_bcva_assets_1_65m_jr2025,nv_bcva,2025,1650183,,,NBB 20/58 balanstotaal YE30062025,src_bcva_jr2025_nbb,strong,tick1864; FY 01.07.2024-30.06.2025; not TE-additive
+bud_bcva_bruto_0_28m_jr2025,nv_bcva,2025,284037,,,NBB 9900 brutomarge,src_bcva_jr2025_nbb,strong,tick1864; FY 01.07.2024-30.06.2025; not TE-additive
+bud_bcva_pers_0_12m_jr2025,nv_bcva,2025,118696,,,NBB 62 / sociale balans 102,src_bcva_jr2025_nbb,strong,tick1864; FY 01.07.2024-30.06.2025; not TE-additive
+bud_bcva_pnl_2_4k_jr2025,nv_bcva,2025,2361,,,NBB 9904 winst boekjaar,src_bcva_jr2025_nbb,strong,tick1864; FY 01.07.2024-30.06.2025; not TE-additive
+bud_bcva_equity_1_08m_jr2025,nv_bcva,2025,1075358,,,NBB 10/15 eigen vermogen,src_bcva_jr2025_nbb,strong,tick1864; FY 01.07.2024-30.06.2025; not TE-additive
+bud_bcva_debt_0_57m_jr2025,nv_bcva,2025,574825,,,NBB 17/49 schulden,src_bcva_jr2025_nbb,strong,tick1864; FY 01.07.2024-30.06.2025; not TE-additive
+bud_bcva_cash_61k_jr2025,nv_bcva,2025,61470,,,NBB 54/58 liquide middelen,src_bcva_jr2025_nbb,strong,tick1864; FY 01.07.2024-30.06.2025; not TE-additive

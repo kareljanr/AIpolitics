@@ -21802,3 +21802,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities (+1); commitments pending_foi; leaderboard FOI marker; foi_queue + draft gap_bosgroep_houtland_nbb_ye2025_unpublished_l5; rq_1863=blocked_foi + rq_1864 open; loop_state ticks=1863.
 - FOI opened: **gap_bosgroep_houtland_nbb_ye2025_unpublished_l5** (ready, human-send only).
 - Next: **rq_1864** leftover AGB/Dijk92/FARO/Bosgroep IJzer-if-CDN/HVZ-IGS. **Next every-10 is 1870.**
+
+## Tick 1864 - 2026-08-26T03:50:00Z - rq_1864 Bedrijvencentrum Vlaamse Ardennen NBB (bruto 0.28m / equity 1.08m)
+
+- Unit: **rq_1864** leftover dual after Bosgroep Houtland FOI. Prefer NON-Eneco live. Hunt: AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2025 unpublished; Bosgroep IJzer no YE2025 deposit; Veurne/OVERO already mined. Took leftover **Bedrijvencentrum Vlaamse Ardennen NV** (KBO **0430.712.662**; Oudenaarde belt; board Fluvius/Artevelde/Aarova).
+- Primary (strong, NBB CDN [2025-00574885](http://cdn.staatsbladmonitor.be/2025pdf/2025-00574885.pdf) 67kB/22p MIC-kap; AV **21.11.2025**; YE **30.06.2025**): assets **EUR1,650,183**; equity **EUR1,075,358**; bruto **EUR284,037**; pers **EUR118,696** VTE **~2.0**; PnL **+EUR2,361** (was -38,837); debt **EUR574,825** (fin LT 361,213); cash **EUR61,470**; buildings **EUR1,323,575**; omzet **70 empty**; capital **EUR1,145,000**; overgedragen **-EUR75,740**.
+- Wrote: sources (+2); budgets (+7); commitments (+2); leaderboard (+2); entities (+1); foi + draft gap_bcva_omzet_empty_bruto_0_28m_pers_0_12m_l5; rq_1864=done + rq_1865 open; loop_state ticks=1864.
+- FOI opened: omzet-empty / shareholder % / tenant matrix (**ready**, human-send only).
+- Next: **rq_1865** leftover AGB/Dijk92/FARO/Bosgroep IJzer-if-CDN/HVZ-IGS. **Next every-10 is 1870.**
