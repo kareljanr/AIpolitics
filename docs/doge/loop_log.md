@@ -23681,3 +23681,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.9); entities (+1 vzw_wzc_welvaart); foi + draft gap_welvaart_nbb_pdf_assets_debt_pnl_drop_matrix_l5; **EVERY-10** progress_every_10_ticks.md + doge_waste_top10_current.md; rq_2070=done + rq_2071 open; loop_state ticks=2070; raw under docs/doge/data/raw/tick2070/.
 - FOI: **ready not sent** (human-gated; welvaart@wzcwelvaart.be).
 - **EVERY-10 done** (A/B 100%; C ~99%; D ~74-88% generous residual dual; E ~1687 ready). Next every-10 is **2080**. Next: rq_2071 (AGB/FARO-if-YE2025 / AIESH-REW / MSW NZVL deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2071 - 2026-08-24T22:50:00Z - rq_2071 MSW NZVL (omzet JUMP 0.44m / pnl FLIP LOSS 0.30m / Medium)
+
+- Unit: **rq_2071** leftover dual after **rq_2070 WZC Welvaart**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took deferred leftover **VZW MSW NZVL** YE2025 (KBO **0419.384.646**; Maldegemseweg 5 Aalter; Oost-Vlaanderen **VZW** medical-social works of Neutraal Ziekenfonds / **0 VE**). Do not redo Welvaart/Vulpia/Compostela/Leiehome/Zusters SV Deinze/OLV Bornem/Huize Sint-Jozef Ieper/Sint-Antonius/OLV Wezembeek/Ter Burg/Christine/Vrijzicht/'t Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/Armonea/Always Home.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR435,516** JUMP +3.69%; pnl **LOSS EUR-304,338** FLIP vs YE2024 profit EUR10,918; equity **EUR3,081,864** DROP -8.99%; bruto **EUR-12,115** FLIP -103.97% vs YE2024 EUR305,484; FTE **0**; neerlegging **24.04.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 0 VE; email info@nzvl.be (parent NZVL contact).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.2); entities (+1 vzw_msw_nzvl); foi + draft gap_msw_nzvl_nbb_pdf_assets_debt_pnl_flip_loss_matrix_l5; rq_2071=done + rq_2072 open; loop_state ticks=2071; raw under docs/doge/data/raw/tick2071/.
+- FOI: **ready not sent** (human-gated; info@nzvl.be).
+- NOT every-10 (**next every-10 is 2080**). Next: rq_2072 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).

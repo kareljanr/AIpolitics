@@ -52412,3 +52412,8 @@ bud_welvaart_pnl_jr2025_statutory,vzw_wzc_welvaart,2025,357438,,,CW YE2025 Profi
 bud_welvaart_equity_jr2025_statutory,vzw_wzc_welvaart,2025,9779728,,,CW YE2025 Eigen vermogen / Equity,src_welvaart_jr2025_cw_en,medium,tick2070 EVERY-10; equity JUMP 9779728 +11.93pct vs YE2024 8737290
 bud_welvaart_bruto_jr2025_statutory,vzw_wzc_welvaart,2025,9226365,,,CW YE2025 Brutomarge / Gross margin,src_welvaart_jr2025_cw_en,medium,tick2070 EVERY-10; bruto JUMP 9226365 +2.79pct vs YE2024 8976016
 bud_welvaart_fte_jr2025_statutory,vzw_wzc_welvaart,2025,111.8,,,CW social-balance FTE,src_welvaart_jr2025_cw_en,medium,tick2070 EVERY-10; YE2025 FTE 111.8
+bud_msw_nzvl_omzet_jr2025_statutory,vzw_msw_nzvl,2025,435516,,,CW YE2025 omzet / Turnover,src_msw_nzvl_jr2025_cw_en,medium,tick2071; omzet JUMP 435516 +3.69pct vs YE2024 420000
+bud_msw_nzvl_pnl_jr2025_statutory,vzw_msw_nzvl,2025,-304338,,,CW YE2025 Profit/Loss,src_msw_nzvl_jr2025_cw_en,medium,tick2071; pnl FLIP LOSS -304338 vs YE2024 profit 10918
+bud_msw_nzvl_equity_jr2025_statutory,vzw_msw_nzvl,2025,3081864,,,CW YE2025 Eigen vermogen / Equity,src_msw_nzvl_jr2025_cw_en,medium,tick2071; equity DROP 3081864 -8.99pct vs YE2024 3386202
+bud_msw_nzvl_bruto_jr2025_statutory,vzw_msw_nzvl,2025,-12115,,,CW YE2025 Brutomarge / Gross margin,src_msw_nzvl_jr2025_cw_en,medium,tick2071; bruto FLIP -12115 -103.97pct vs YE2024 305484
+bud_msw_nzvl_fte_jr2025_statutory,vzw_msw_nzvl,2025,0,,,CW social-balance FTE,src_msw_nzvl_jr2025_cw_en,medium,tick2071; YE2025 FTE 0 (CW Employees=0 FTE)
