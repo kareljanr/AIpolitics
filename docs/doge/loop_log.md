@@ -22805,3 +22805,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1980**). Next: rq_1977 (AGB/FARO-if-YE2025 / AIESH-REW / SOFILUX-IFIGA / unused DSO-IGS-HVZ).
 
+## Tick 1977 - 2026-08-23T21:30:00Z - rq_1977 IDEFIN (pnl DROP 13.21m / equity JUMP 329.54m / Medium)
+
+- Unit: **rq_1977** leftover dual after concurrent **rq_1976 FINIMO** (already on main). Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Concurrent tick claimed IDEFIN YE2024 — **CW now YE2025**. Took preferred leftover **IDEFIN** YE2025 (KBO **0257.744.044**; Avenue Sergent Vrithoff 2 Namur; pure energy IPF; **BEP gestion déléguée**; dual BEP family + FINIMO/SOFILUX/IFIGA/FINEST IPF class). Do not redo FINIMO/HYGEA/FINEST/BEP Environnement/LOGIPOLE/BEP NAMUR/IBH/BEP Crematorium/BEP Expansion/IEG/CENEO/CISCH/HELORA/iMio/Passelecq.
+- Found: Companyweb NL+EN YE2025 - pnl **EUR13,210,147** DROP -11.03%; equity **EUR329,543,739** JUMP **+75.48%**; bruto **NEG EUR-172,353**; FTE **0**; omzet Unknown; neerlegging **06.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief CV; email officiel.ic-idefin@bep.be.
+- Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1 igs_idefin); foi + draft gap_idefin_nbb_pdf_assets_debt_equity_jump_matrix_l5; rq_1977=done + rq_1978 open; loop_state ticks=1977; raw CW under docs/doge/data/raw/tick1976/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1980**). Next: rq_1978 (AGB/FARO-if-YE2025 / AIESH-REW / SOFILUX-IFIGA / unused DSO-IGS-HVZ).
+
