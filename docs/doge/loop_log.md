@@ -23915,3 +23915,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.6 omzet proxy); entities (+1 nv_emeis_belgium); foi + draft gap_emeis_belgium_nbb_pdf_assets_debt_pnl_loss_narrow_equity_neg_matrix_l5; rq_2096=done + rq_2097 open; loop_state ticks=2096; raw under docs/doge/data/raw/tick2096/ (+ tick2095 probes).
 - FOI: **ready not sent** (human-gated; no public email — form/0800 88 888).
 - NOT every-10 (**next every-10 is 2100**). Next: rq_2097 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2097 - 2026-08-25T05:10:00Z - rq_2097 Familiezorg Gent (bruto JUMP 70.04m / omzet JUMP 14.78m / pnl DROP 0.64m / Medium)
+
+- Unit: **rq_2097** leftover dual after **rq_2096 emeis** (concurrent race took emeis on 2096; Familiezorg Gent CSV/FOI written this tick). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Familiezorg Gent** YE2025 (KBO **0412.914.845**; Vogelenzang 29 Gent; Oost-Vlaanderen **aanbestedende-overheid VZW** thuiszorg NACE **88.101** / **2 VE**). Distinct from Familiezorg WV. Do not redo emeis/Begralim/Sint-Lucia/Lidwina/SED Zoutleeuw/Zilvervogel/Familiezorg WV/De Lovie/Ocura/Lindelo/Medemens/Augustinus Halle/Ben/AGB Bornem/Armonea/Always Home/SLG/Solidum.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR14782023** JUMP +5.26%; bruto **EUR70038917** JUMP +2.53%; pnl **PROFIT EUR639579** DROP -61.10% vs YE2024 PROFIT EUR1644314; equity **EUR24209880** JUMP +2.69%; FTE **1237.4** DROP -0.26% vs YE2024 1240.6; neerlegging **14.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW aanbestedende 2 VE NACE 88.101; email info@familiezorg.be; site https://www.familiezorg.be/. Bruto used as primary envelope (thuiszorg VZW omzet<<bruto).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.8 bruto proxy); entities (+1 vzw_familiezorg_gent); foi + draft gap_familiezorg_gent_nbb_pdf_assets_debt_bruto_vs_omzet_pnl_drop_matrix_l5; rq_2097=done + rq_2098 open; loop_state ticks=2097; raw under docs/doge/data/raw/tick2096/ (Familiezorg fetch; closed as 2097).
+- FOI: **ready not sent** (human-gated; info@familiezorg.be).
+- NOT every-10 (**next every-10 is 2100**). Next: rq_2098 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
