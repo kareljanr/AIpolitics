@@ -21497,3 +21497,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: entities cv_coopstroom; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1826=done + rq_1827 spawned; loop_state ticks=1826; FOI draft gap_coopstroom_bruto_0_03m_loss_0_41m_continuity_alarm_l5.md
 - FOI opened: gap_coopstroom_bruto_0_03m_loss_0_41m_continuity_alarm_l5 (**ready**, human-send only)
 - NOT every-10 (next **1830**). Next: rq_1827 (AGB / Dijk92-if-200 / Enebra-if-200 / FARO / APEFE / other IGS).
+
+## Tick 1827 - 2026-08-25T12:25:00Z - rq_1827 SeaCoop CV (FVA JUMP 20.49m / loss 1.45m / debt 9.14m)
+
+- Unit: **rq_1827** leftover dual residual after CoopStroom; preferred AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2024. Took leftover **SeaCoop CV** (citizen offshore wind co-op of ~34 REScoops; KBO **0784.920.931**; Klimaan FVA dual). Deferred live Stroomvloed **2026-00256607** + REScoop.Vlaanderen **2026-00063493**.
+- Primary (strong, NBB MIC-inb [2026-00216599](http://cdn.staatsbladmonitor.be/2026pdf/2026-00216599.pdf) CDN 200 / 25p; AV **28.04.2026**; EY commissaris): assets JUMP **EUR25,320,147**; FVA JUMP **EUR20,485,298** (Aspiravi Offshore); bruto NEG **EUR851,252**; pers **EUR377,797**; VTE **3.9**; expl LOSS **EUR1,240,210**; PnL LOSS **EUR1,453,691**; debt JUMP **EUR9,138,674** (ST bank **7,500,000** + LT other **1,058,000**; pledge max **13m** on **21.5m** assets); equity **EUR16,181,473** (inbreng JUMP **19,200,000**; carried loss **-3,018,527**); unpaid inbrengbelofte **EUR3,820,000**; cash DROP **EUR3,448,309**; beleg DROP **0**; **Vlaamse Energieholding BV + Aspiravi Holding call option** on Aspiravi Offshore; omzet **70 empty**.
+- Wrote: entities cv_seacoop; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1827=done + rq_1828 spawned; loop_state ticks=1827; FOI draft gap_seacoop_fva_20_49m_loss_1_45m_debt_9_14m_l5.md
+- FOI opened: gap_seacoop_fva_20_49m_loss_1_45m_debt_9_14m_l5 (**ready**, human-send only)
+- NOT every-10 (next **1830**). Next: rq_1828 (Stroomvloed-if-200 / REScoop.VL-if-200 / AGB / Dijk92 / FARO).
