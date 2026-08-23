@@ -22586,3 +22586,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+2); budgets (+7); commitments (+1); leaderboard (+1); entities (+1 brugel); foi + draft gap_brugel_statutory_jr2025_coa_assets_gsc_mfc_l5; raw PDF; rq_1953=done + rq_1954 open; loop_state ticks=1953.
 - FOI opened: statutory JR + CoA + assets + GSC/MFC (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1960**). Next: rq_1954 (AGB/FARO-if-YE2025 / AIESH-REW / EURIDICE-if-unused / otherHVZ-IGS).
+
+## Tick 1954 - 2026-08-23T13:20:00Z - rq_1954 EURIDICE (omzet JUMP 3.39m / assets DROP 1.70m / Medium)
+
+- Unit: **rq_1954** leftover dual after concurrent **rq_1953 BRUGEL** (already on main). Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024** (filed 17.07.2025); REW still **YE2024**. Took deferred leftover **EURIDICE VOF** (KBO **0455.635.823**; Boeretang 190 Mol; NIRAS-managed clay nuclear-waste R&D; YE2025 live CW). Do not redo BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92/Synergrid/AIEG/Synatom/Atrias/RESA/Enodia/Fluxys*/ETB/Elia/BNO.
+- Primary hunt: NBB deposit PDF unresolved (consult SPA). **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0455635823/european-underground-research-infrastructure-for-disposal-of-nuclear-waste-in-clay-environment) + [Upswitch NBB/CBSO](https://www.upswitch.app/en/companies/be/euridice-0455635823) + Strong KBO (neerlegging **24.03.2026**; YE **31.12.2025**): omzet **EUR3,391,272** (**JUMP +6.13%**); bruto **EUR3,606**; operating **EUR35**; assets **EUR1,700,427** (**DROP**); FTE **0**; equity/debt **Unknown**.
+- Wrote: sources (+3); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vof_euridice); foi + draft gap_euridice_nbb_pdf_equity_debt_niras_sck_billing_l5; rq_1954=done + rq_1955 open; loop_state ticks=1954.
+- FOI opened: NBB PDF + equity/debt + NIRAS/SCK billing/staffing (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1960**). Next: rq_1955 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / unused water-DSO-IGS-HVZ).

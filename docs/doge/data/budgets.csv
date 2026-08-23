@@ -51780,3 +51780,8 @@ bud_brugel_werking_jr2025,brugel,2025,1109058,,,Official JR2025 werking vereffen
 bud_brugel_energie_jr2025,brugel,2025,4981968,,,Official JR2025 energie sector vereffend,src_brugel_jr2025_official,strong,tick1953; vastgelegd 4910254
 bud_brugel_water_jr2025,brugel,2025,1402226,,,Official JR2025 water sector vereffend,src_brugel_jr2025_official,strong,tick1953; vastgelegd 1385070; dual Vivaqua/Hydria regulation
 bud_brugel_fte_jr2025,brugel,2025,40,,,Official JR2025 kerncijfers medewerkers,src_brugel_jr2025_official,strong,tick1953; 40 medewerkers; not euros — headcount proxy
+bud_euridice_omzet_jr2025,vof_euridice,2025,3391272,,,CW NBB-derived omzet,src_euridice_jr2025_cw,medium,tick1954; YE2025 omzet 3391272 JUMP +6.13pct vs 3195367
+bud_euridice_bruto_jr2025,vof_euridice,2025,3606,,,CW NBB-derived brutomarge,src_euridice_jr2025_cw,medium,tick1954; YE2025 bruto 3606 JUMP +114.9pct vs 1678; pass-through thin margin
+bud_euridice_operating_jr2025,vof_euridice,2025,35,,,Upswitch NBB/CBSO operating result,src_euridice_jr2025_upswitch,medium,tick1954; YE2025 operating 35 vs YE2024 47; near-zero after 3.39m omzet
+bud_euridice_assets_jr2025,vof_euridice,2025,1700427,,,Upswitch NBB/CBSO total assets,src_euridice_jr2025_upswitch,medium,tick1954; YE2025 assets 1700427 DROP vs YE2024 1933108
+bud_euridice_fte_jr2025,vof_euridice,2025,0,,,CW/KBO FTE empty (0 reported),src_euridice_jr2025_cw,medium,tick1954; YE2025 FTE empty/0; NIRAS/SCK path staffing off-books likely
