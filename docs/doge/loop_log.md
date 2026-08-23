@@ -23807,3 +23807,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 vzw_ben_woonzorgnetwerk_roeselare); foi + draft gap_ben_nbb_pdf_assets_debt_pnl_flip_loss_fte_jump_matrix_l5; rq_2084=done + rq_2085 open; loop_state ticks=2084; raw under docs/doge/data/raw/tick2084/.
 - FOI: **ready not sent** (human-gated; info@benwzn.be).
 - NOT every-10 (**next every-10 is 2090**). Next: rq_2085 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2085 - 2026-08-25T02:20:00Z - rq_2085 WZC Sint-Augustinus Halle (omzet DROP 8.95m / equity JUMP 3.35m / Medium)
+
+- Unit: **rq_2085** leftover dual after **rq_2084 Ben** (concurrent race closed Ben on 2084; this fire continues). Prefer NON-stall live: AGB Bornem still **JR2024-only** (bornem.be JR2024 docs); FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **WZC Sint-Augustinus Halle** YE2025 (KBO **0459.770.496**; Monseigneur Senciestraat 4 Halle; Vlaams-Brabant **VZW** WZC / **1 VE**; Solidum Groep; **DISTINCT from Zusters Berlaar absorbed Sint-Augustinus 0410.469.059**). Do not redo Ben/Stuyvenberg/Wijshage/Mater Dei/Den Akker/Vander Stokken/Ten Anker/De Zwaluw/Kuurne/SJ Brugge/HH Grimbergen/Mater Amabilis/Maria Moorslede/MSW NZVL/Welvaart/Vulpia/Compostela/Leiehome/Deinze/OLV Bornem/Huize SJ Ieper/Sint-Antonius/Wezembeek/Ter Burg/Christine/Vrijzicht/Pandje/H.Familie/Westerhauwe/Ganspoel/Lendelede/Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/Armonea/Always Home/Maria Ingelmunster/SJ Rumst/Rillaar/Sint-Barbara/Molenheide/Zusters Berlaar.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR8948237** DROP -1.09%; pnl **PROFIT EUR740431** JUMP +2.76% vs YE2024 PROFIT EUR720572; equity **EUR3349221** JUMP +18.78%; bruto **EUR8376737** JUMP +2.21%; FTE **88.9** DROP -4.10% vs YE2024 92.7; neerlegging **02.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@wzcsintaugustinus.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.0); entities (+1 vzw_wzc_sint_augustinus_halle); foi + draft gap_augustinus_halle_nbb_pdf_assets_debt_omzet_drop_equity_jump_fte_drop_matrix_l5; rq_2085=done + rq_2086 open; loop_state ticks=2085; raw under docs/doge/data/raw/tick2085/.
+- FOI: **ready not sent** (human-gated; info@wzcsintaugustinus.be).
+- NOT every-10 (**next every-10 is 2090**). Next: rq_2086 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).

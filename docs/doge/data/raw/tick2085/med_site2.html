@@ -1,0 +1,3182 @@
+<!doctype html>
+<html lang="nl" class="antialiased">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+        <link rel="preload" as="style" href="https://www.demedemens.be/build/assets/site-a50b9a26.css" /><link rel="preload" as="style" href="https://www.demedemens.be/build/assets/site-22a139a9.css" /><link rel="modulepreload" as="script" href="https://www.demedemens.be/build/assets/site-44e5e2ac.js" /><link rel="stylesheet" href="https://www.demedemens.be/build/assets/site-a50b9a26.css" data-navigate-track="reload" /><link rel="stylesheet" href="https://www.demedemens.be/build/assets/site-22a139a9.css" data-navigate-track="reload" /><script type="module" src="https://www.demedemens.be/build/assets/site-44e5e2ac.js" data-navigate-track="reload"></script>
+        
+<title>
+    
+    
+    
+        Home  &#124;  De Medemens
+    
+</title>
+
+
+
+    <meta name="description" content="Ontdek De Medemens: Ons toegewijde team ervaart dankbaarheid, openheid en erkenning. Samen in dialoog voor zorg en verbondenheid.">
+
+
+
+
+
+
+
+   
+
+
+
+
+    
+        
+            <link rel="alternate" hreflang="nl-BE" href="https://www.demedemens.be">
+        
+    
+
+
+
+
+    
+        <link rel="canonical" href="https://www.demedemens.be">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="og:site_name" content="De Medemens">
+<meta property="og:type" content="pages">
+<meta property="og:locale" content="nl_BE">
+
+    <meta property="og:title" content="Home">
+
+
+    <meta property="og:description" content="Ontdek De Medemens: Ons toegewijde team ervaart dankbaarheid, openheid en erkenning. Samen in dialoog voor zorg en verbondenheid.">
+
+
+    <meta property="og:image" content="https://www.demedemens.be/img/containers/social_images/homebanner_ingekleurd.webp/ea063cf351f5714e30ad631d053e0776/homebanner_ingekleurd.webp">
+
+
+
+
+    
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-P6D9KNBR');function gtag(){dataLayer.push(arguments);}</script>
+    
+
+    
+        <script>
+            gtag('consent', 'default', {
+                'ad_storage': 'denied',
+                'analytics_storage': 'denied',
+                'ad_user_data': 'denied',
+                'ad_personalization': 'denied',
+                'wait_for_update': 500
+            });
+            dataLayer.push({
+                'event': 'default_consent'
+            });
+        </script>
+    
+
+    
+    
+
+    
+        <meta name="google-site-verification" content="luFIGcpRroh1KQR3XsQD8OlwEDflI-dLTwzlUcmrYQc" />
+    
+
+    
+
+    
+
+    
+
+
+        
+
+
+
+
+
+
+    
+    <link rel="icon" href="/favicons/de-medemens-logo.svg" type="image/svg+xml">
+
+    
+    
+        <link rel="icon" href="/favicons/favicon-16x16.png" sizes="16x16">
+        <link rel="icon" href="/favicons/favicon-32x32.png" sizes="32x32">
+    
+
+
+
+<link rel="manifest" href="/site.webmanifest">
+
+
+
+
+        
+
+        
+    </head>
+    <body class="flex flex-col min-h-screen bg-white selection:bg-primary selection:text-white">
+        
+        
+            <script>
+    document.addEventListener('alpine:init', () => {
+        Alpine.store('cookieBanner', {
+            consent: Alpine.$persist(null).as('cookieBannerConsent'),
+            embeds: Alpine.$persist(null).as('cookieBannerEmbeds'),
+            setConsent(value) {
+                this.consent = value
+            },
+            setEmbeds(value) {
+                this.embeds = value
+            }
+        })
+    })
+
+    document.addEventListener('alpine:initialized', () => {
+        window.dispatchEvent(new Event('cookieBannerStoreReady'))
+    })
+</script>
+
+<div
+    x-data="{
+        storeReady: false,
+        cookieConsentDate: $persist(null).as('cookieBannerConsentDate'),
+        analyticsStorage: $persist(false).as('cookieBannerAnalyticsStorage'),
+        adStorage: $persist(false).as('cookieBannerAdStorage'),
+        embeds: null,
+        
+    }"
+    x-init="
+        window.addEventListener('cookieBannerStoreReady', () => {
+            embeds = $store.cookieBanner.embeds;
+            cookieConsentDate < '2024-01-12'
+                ? ($store.cookieBanner.setConsent(null), cookieConsentDate = null)
+                : ''
+            storeReady = true;
+        });
+    "
+    
+        x-effect="
+            if (storeReady) {
+                
+                
+                    $store.cookieBanner.consent
+                        ? gtag('consent', 'update', {
+                            'ad_user_data': (adStorage ? 'granted' : 'denied'),
+                            'ad_personalization': (adStorage ? 'granted' : 'denied'),
+                            'analytics_storage': (analyticsStorage ? 'granted' : 'denied'),
+                            'ad_storage': (adStorage ? 'granted' : 'denied') })
+                        : ''
+                    $store.cookieBanner.consent
+                        ? window.dataLayer.push({ 'event': 'consent_saved' })
+                        : ''
+                
+                
+                
+                $store.cookieBanner.setEmbeds(embeds)
+                $dispatch('embeds')
+            }
+        "
+    
+    x-show="storeReady && $store.cookieBanner && $store.cookieBanner.consent === null"
+    x-transition
+    class="
+        cookie-banner fixed z-50 inset-x-[1rem] bottom-[1rem] md:bottom-[2rem] md:w-80 flex flex-col p-6 space-y-4 bg-white border border-neutral/10 rounded shadow-lg
+        md:right-auto md:left-[2rem]
+        
+    "
+    x-cloak
+>
+    <h2 class="text-2xl font-bold">Cookies 🍪</h2>
+    <p class="text-sm font-bold text-neutral">
+        Deze site gebruikt cookies waar we je toestemming voor nodig hebben.
+        
+    </p>
+
+    <div class="mt-4 flex flex-col space-y-2">
+        
+        <label class="inline-flex items-center">
+            <input class="mr-3 w-5 h-5 rounded border-neutral text-primary focus:outline-none focus-visible:ring focus-visible:ring-primary motion-safe:transition opacity-50" type="checkbox" name="functional" checked disabled>
+            <span class="flex flex-col">
+                <span class="font-bold text-xs">Functioneel</span>
+                <span class="text-xs text-neutral/75">First party cookies die essentieel zijn voor het functioneren van deze website. Deze kunnen niet uitgeschakeld worden.</span>
+            </span>
+        </label>
+
+        
+        
+            <label class="inline-flex items-center">
+                <input class="mr-3 w-5 h-5 rounded border-neutral text-primary focus:outline-none focus-visible:ring focus-visible:ring-primary motion-safe:transition" type="checkbox" name="analytics_storage" x-model="analyticsStorage">
+                <span class="flex flex-col">
+                    <span class="font-bold text-xs">Analytics</span>
+                    <span class="text-xs text-neutral/75">Third party cookies die nodig zijn voor het meten van geanomiseerde bezoekersstatistieken.</span>
+                </span>
+            </label>
+        
+
+        
+        
+            <label class="inline-flex items-center">
+                <input class="mr-3 w-5 h-5 rounded border-neutral text-primary focus:outline-none focus-visible:ring focus-visible:ring-primary motion-safe:transition" type="checkbox" name="ad_storage" x-model="adStorage">
+                <span class="flex flex-col">
+                    <span class="font-bold text-xs">Advertenties & tracking</span>
+                    <span class="text-xs text-neutral/75">Third party cookies benodigd voor het retargeten en plaatsen van advertenties.</span>
+                </span>
+            </label>
+        
+
+        
+        
+
+        
+        
+            <label class="inline-flex items-center">
+                <input class="mr-3 w-5 h-5 rounded border-neutral text-primary focus:outline-none focus-visible:ring focus-visible:ring-primary motion-safe:transition" type="checkbox" name="embeds" x-model="embeds">
+                <span class="flex flex-col">
+                    <span class="font-bold text-xs">Video embeds</span>
+                    <span class="text-xs text-neutral/75">Third party cookies die nodig zijn om embedded video's te tonen. Deze kunnen je gedrag mogelijk tracken.</span>
+                </span>
+            </label>
+        
+    </div>
+
+    <div class="flex space-x-4">
+        
+        <button
+            @click="
+                $store.cookieBanner.setConsent(true),
+                cookieConsentDate = '2026-08-23'
+                
+                    , analyticsStorage = true
+                
+                
+                    , adStorage = true
+                
+                
+                
+                    , embeds = true
+                
+            "
+            type="button"
+            class="px-4 py-2 bg-primary rounded text-sm font-bold text-white focus:outline-none focus-visible:ring focus-visible:ring-offset-2 focus-visible:ring-primary motion-safe:transition"
+            >
+            Accepteer alles
+        </button>
+
+        
+        <button
+            @click="
+                $store.cookieBanner.setConsent(true),
+                cookieConsentDate = '2026-08-23'
+            "
+            type="button"
+            class="px-1 py-2 rounded text-sm font-bold text-neutral focus:outline-none focus-visible:ring focus-visible:ring-offset-2 focus-visible:ring-primary motion-safe:transition"
+        >
+            Accepteer selectie
+        </button>
+    </div>
+</div>
+
+
+
+
+        
+    
+        
+    <noscript>
+        <style>
+            nav.hidden,
+            nav ul [x-cloak],
+            nav ul li ul {
+                display: block !important;
+            }
+        </style>
+        <p class="relative z-50 py-3 px-4 bg-gray-100 border-b border-gray-200 text-center font-bold text-xs text-gray-600">Deze website vereist Javascript om sommige onderdelen goed te laten functioneren.</p>
+    </noscript>
+
+
+        
+
+
+        <header class="w-full py-4">
+    <div class="fluid-container flex justify-between items-center">
+        
+        <a
+    class="p-2 -m-2 focus:outline-none focus-visible:ring-2 ring-primary group relative"
+    aria-label="Logo De Medemens"
+    href="/"
+>
+    <img src="/visuals/de-medemens-logo.svg" class="select-none opacity-100 group-hover:opacity-0 duration-200 " width="80" alt="De Medemens"/>
+    
+    <img src="/visuals/de-medemens-logo-hover.svg" class="select-none opacity-0 group-hover:opacity-100 absolute top-0 duration-200 " width="80" alt="De Medemens"/>
+    
+</a>
+
+        
+<nav class="hidden lg:block" aria-label="Hoofdnavigatie">
+    <ul class="flex items-center space-x-8">
+        <li
+    x-data="{ open: false, value: '' }"
+    @keydown.window.prevent.slash.="open = true, setTimeout(() => {$refs.input.focus()}, 200)"
+    @keydown.window.prevent.esc="open = false"
+    @click.outside="open = false"
+    @focusin.window="!$root.contains($event.target) && (open = false)"
+    class="flex py-2 relative"
+    x-cloak
+>
+    <button
+        @click="open = !open, setTimeout(() => {$refs.input.focus()}, 200)"
+        class="text-neutral hover:text-primary"
+        :aria-label="open
+            ? 'Sluit zoek'
+            : 'Open zoek'"
+        :aria-expanded="open"
+    >
+        <svg class="w-4 h-4 fill-secondary motion-safe:transition-colors" alt="" aria-hidden="true" viewBox="0 0 39 40"><path d="M23.517 0c3.962 0 7.926 1.506 10.948 4.517 6.047 6.024 6.047 15.788 0 21.811a15.466 15.466 0 01-10.948 4.517c-3.214 0-6.428-.993-9.142-2.976L3.515 38.731a2 2 0 01-2.769.057 1.515 1.515 0 01-.571-2.013c.09-.32.26-.622.511-.873L11.48 25.11l-.09-.11c-4.83-6.054-4.44-14.883 1.18-20.482A15.467 15.467 0 0123.517 0zM23.5 4C17.149 4 12 9.149 12 15.5S17.149 27 23.5 27 35 21.851 35 15.5 29.851 4 23.5 4z"/></svg>
+    </button>
+
+    <form
+        action="https://www.demedemens.be/zoeken"
+        x-show="open"
+        x-transition.origin.right.duration.200ms
+        class="absolute inset-y-0 right-0 -mr-2 flex"
+        role="search"
+    >
+        <input
+            minlength="3"
+            x-ref="input"
+            class="w-52 py-2 pr-10 rounded border-neutral focus-visible:border-primary focus-visible:ring focus-visible:ring-primary motion-safe:transition"
+            placeholder="Zoeken"
+            type="search"
+            x-model="value"
+            value=""
+            name="q"
+        />
+        <button
+            class="absolute inset-y-0 right-0 mr-2 flex items-center text-neutral hover:text-primary"
+            aria-label="Zoeken"
+            :disabled="value.length === 0"
+            :class="{ 'opacity-25 cursor-default': value.length === 0, 'opacity-100': value.length > 0 }"
+        >
+            <svg class="w-4 h-4 fill-secondary motion-safe:transition-colors" alt="" aria-hidden="true" viewBox="0 0 39 40"><path d="M23.517 0c3.962 0 7.926 1.506 10.948 4.517 6.047 6.024 6.047 15.788 0 21.811a15.466 15.466 0 01-10.948 4.517c-3.214 0-6.428-.993-9.142-2.976L3.515 38.731a2 2 0 01-2.769.057 1.515 1.515 0 01-.571-2.013c.09-.32.26-.622.511-.873L11.48 25.11l-.09-.11c-4.83-6.054-4.44-14.883 1.18-20.482A15.467 15.467 0 0123.517 0zM23.5 4C17.149 4 12 9.149 12 15.5S17.149 27 23.5 27 35 21.851 35 15.5 29.851 4 23.5 4z"/></svg>
+        </button>
+    </form>
+</li>
+
+        
+            <li
+                
+                class="relative leading-none"
+            >
+                
+                    <a
+    class="
+        group p-1 -m-1 flex items-center font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary duration-200
+        text-secondary
+    "
+    
+    href="/aanbod"
+>
+    Aanbod
+    
+</a>
+
+
+                
+            </li>
+        
+            <li
+                
+                    x-data="{ subnavOpen: false }"
+                    @keyup.escape.stop.prevent="subnavOpen = false"
+                    @focusin.window="!$refs.subnav.contains($event.target) && (subnavOpen = false)"
+                
+                class="relative leading-none"
+            >
+                
+                    <a
+    class="
+        group p-1 -m-1 flex items-center font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary duration-200
+        text-secondary
+    "
+    
+        @mouseover="subnavOpen = true"
+        @mouseleave="subnavOpen = false"
+        :aria-expanded="subnavOpen"
+    
+    href="/locaties"
+>
+    Locaties
+    
+        <div :class="{ 'scale-y-[-1]': subnavOpen }" class="motion-safe:transition-transform">
+            <svg class="w-2 ml-1 overflow-visible stroke-current text-secondary group-hover:text-primary duration-200" aria-hidden="true" stroke-width="24" viewBox="0 0 140 140"><path d="M135.625 42.648l-62.533 62.527a4.37 4.37 0 01-6.184 0L4.375 42.648" fill="none"/></svg>
+        </div>
+    
+</a>
+
+    <ul
+        @mouseover="subnavOpen = true"
+        @mouseleave="subnavOpen = false"
+        x-show="subnavOpen"
+        x-ref="subnav"
+        class="absolute right-0 mt-1 -ml-3 py-2 px-3 bg-white border border-neutral/10 rounded shadow z-50"
+        x-transition
+        x-cloak
+    >
+        
+        <li class="">
+            <a
+                class="
+                    whitespace-nowrap py-2 px-1 -mx-1 block text-xs font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary
+                    text-secondary
+                "
+                href="/locaties/ouderenzorg"
+            >
+                Ouderenzorg
+            </a>
+        </li>
+        
+        <li class="">
+            <a
+                class="
+                    whitespace-nowrap py-2 px-1 -mx-1 block text-xs font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary
+                    text-secondary
+                "
+                href="/locaties/kinderopvang"
+            >
+                Kinderopvang
+            </a>
+        </li>
+        
+    </ul>
+
+
+                
+            </li>
+        
+            <li
+                
+                    x-data="{ subnavOpen: false }"
+                    @keyup.escape.stop.prevent="subnavOpen = false"
+                    @focusin.window="!$refs.subnav.contains($event.target) && (subnavOpen = false)"
+                
+                class="relative leading-none"
+            >
+                
+                    <a
+    class="
+        group p-1 -m-1 flex items-center font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary duration-200
+        text-secondary
+    "
+    
+        @mouseover="subnavOpen = true"
+        @mouseleave="subnavOpen = false"
+        :aria-expanded="subnavOpen"
+    
+    href="/jobs"
+>
+    Jobs
+    
+        <div :class="{ 'scale-y-[-1]': subnavOpen }" class="motion-safe:transition-transform">
+            <svg class="w-2 ml-1 overflow-visible stroke-current text-secondary group-hover:text-primary duration-200" aria-hidden="true" stroke-width="24" viewBox="0 0 140 140"><path d="M135.625 42.648l-62.533 62.527a4.37 4.37 0 01-6.184 0L4.375 42.648" fill="none"/></svg>
+        </div>
+    
+</a>
+
+    <ul
+        @mouseover="subnavOpen = true"
+        @mouseleave="subnavOpen = false"
+        x-show="subnavOpen"
+        x-ref="subnav"
+        class="absolute right-0 mt-1 -ml-3 py-2 px-3 bg-white border border-neutral/10 rounded shadow z-50"
+        x-transition
+        x-cloak
+    >
+        
+        <li class="">
+            <a
+                class="
+                    whitespace-nowrap py-2 px-1 -mx-1 block text-xs font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary
+                    text-secondary
+                "
+                href="/jobs"
+            >
+                Werken bij
+            </a>
+        </li>
+        
+        <li class="">
+            <a
+                class="
+                    whitespace-nowrap py-2 px-1 -mx-1 block text-xs font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary
+                    text-secondary
+                "
+                href="/jobs/vacatures-ouderenzorg"
+            >
+                Vacatures ouderenzorg
+            </a>
+        </li>
+        
+        <li class="">
+            <a
+                class="
+                    whitespace-nowrap py-2 px-1 -mx-1 block text-xs font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary
+                    text-secondary
+                "
+                href="/jobs/vacatures-kinderopvang"
+            >
+                Vacatures kinderopvang
+            </a>
+        </li>
+        
+        <li class="">
+            <a
+                class="
+                    whitespace-nowrap py-2 px-1 -mx-1 block text-xs font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary
+                    text-secondary
+                "
+                href="/jobs/vacatures-ondersteunende-diensten"
+            >
+                Vacatures ondersteunende diensten
+            </a>
+        </li>
+        
+        <li class="">
+            <a
+                class="
+                    whitespace-nowrap py-2 px-1 -mx-1 block text-xs font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary
+                    text-secondary
+                "
+                href="/jobs/studenten"
+            >
+                Studenten
+            </a>
+        </li>
+        
+        <li class="">
+            <a
+                class="
+                    whitespace-nowrap py-2 px-1 -mx-1 block text-xs font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary
+                    text-secondary
+                "
+                href="/jobs/vrijwilligers"
+            >
+                Vrijwilligers
+            </a>
+        </li>
+        
+        <li class="">
+            <a
+                class="
+                    whitespace-nowrap py-2 px-1 -mx-1 block text-xs font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary
+                    text-secondary
+                "
+                href="/jobs/spontane-sollicitaties"
+            >
+                Spontane sollicitatie
+            </a>
+        </li>
+        
+    </ul>
+
+
+                
+            </li>
+        
+            <li
+                
+                class="relative leading-none"
+            >
+                
+                    <a
+    class="
+        group p-1 -m-1 flex items-center font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary duration-200
+        text-secondary
+    "
+    
+    href="/nieuws"
+>
+    Nieuws
+    
+</a>
+
+
+                
+            </li>
+        
+            <li
+                
+                    x-data="{ subnavOpen: false }"
+                    @keyup.escape.stop.prevent="subnavOpen = false"
+                    @focusin.window="!$refs.subnav.contains($event.target) && (subnavOpen = false)"
+                
+                class="relative leading-none"
+            >
+                
+                    <a
+    class="
+        group p-1 -m-1 flex items-center font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary duration-200
+        text-secondary
+    "
+    
+        @mouseover="subnavOpen = true"
+        @mouseleave="subnavOpen = false"
+        :aria-expanded="subnavOpen"
+    
+    href="/over-ons"
+>
+    Over ons
+    
+        <div :class="{ 'scale-y-[-1]': subnavOpen }" class="motion-safe:transition-transform">
+            <svg class="w-2 ml-1 overflow-visible stroke-current text-secondary group-hover:text-primary duration-200" aria-hidden="true" stroke-width="24" viewBox="0 0 140 140"><path d="M135.625 42.648l-62.533 62.527a4.37 4.37 0 01-6.184 0L4.375 42.648" fill="none"/></svg>
+        </div>
+    
+</a>
+
+    <ul
+        @mouseover="subnavOpen = true"
+        @mouseleave="subnavOpen = false"
+        x-show="subnavOpen"
+        x-ref="subnav"
+        class="absolute right-0 mt-1 -ml-3 py-2 px-3 bg-white border border-neutral/10 rounded shadow z-50"
+        x-transition
+        x-cloak
+    >
+        
+        <li class="">
+            <a
+                class="
+                    whitespace-nowrap py-2 px-1 -mx-1 block text-xs font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary
+                    text-secondary
+                "
+                href="/over-ons/onze-missie-visie-en-waarden"
+            >
+                Onze missie, visie en waarden
+            </a>
+        </li>
+        
+        <li class="">
+            <a
+                class="
+                    whitespace-nowrap py-2 px-1 -mx-1 block text-xs font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary
+                    text-secondary
+                "
+                href="/over-ons/onze-organisatie"
+            >
+                Onze organisatie
+            </a>
+        </li>
+        
+        <li class="">
+            <a
+                class="
+                    whitespace-nowrap py-2 px-1 -mx-1 block text-xs font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary
+                    text-secondary
+                "
+                href="/over-ons/samenwerkingen"
+            >
+                Samenwerkingen
+            </a>
+        </li>
+        
+        <li class="">
+            <a
+                class="
+                    whitespace-nowrap py-2 px-1 -mx-1 block text-xs font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary
+                    text-secondary
+                "
+                href="/over-ons/jaarverslagen"
+            >
+                Jaarverslagen
+            </a>
+        </li>
+        
+        <li class="">
+            <a
+                class="
+                    whitespace-nowrap py-2 px-1 -mx-1 block text-xs font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary
+                    text-secondary
+                "
+                href="/over-ons/het-abc-van-ouderenzorg"
+            >
+                Het ABC van ouderenzorg
+            </a>
+        </li>
+        
+        <li class="">
+            <a
+                class="
+                    whitespace-nowrap py-2 px-1 -mx-1 block text-xs font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary
+                    text-secondary
+                "
+                href="/over-ons/aankoop"
+            >
+                Aankoop
+            </a>
+        </li>
+        
+        <li class="">
+            <a
+                class="
+                    whitespace-nowrap py-2 px-1 -mx-1 block text-xs font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary
+                    text-secondary
+                "
+                href="/over-ons/veilig-online"
+            >
+                Veilig online
+            </a>
+        </li>
+        
+    </ul>
+
+
+                
+            </li>
+        
+            <li
+                
+                class="relative leading-none"
+            >
+                
+                    
+    <a
+        
+        class="
+            focus:outline-none focus-visible:ring focus-visible:ring-offset-2 inline-flex items-center py-3 px-4 leading-none no-underline select-none whitespace-nowrap motion-safe:transition font-semibold group
+            rounded-full
+            
+                bg-primary text-secondary-700 focus-visible:ring-primary hover:bg-secondary hover:text-white
+            
+            !py-1
+        "
+        href="/contacteer-ons"
+
+
+
+
+    >
+        
+        Contacteer ons
+    </a>
+
+
+                
+            </li>
+        
+    </ul>
+</nav>
+
+
+
+<nav
+    x-data="{ mobileNavOpen: false }"
+    class="lg:hidden"
+    aria-label="Hoofdnavigatie"
+    x-trap.inert.noscroll="mobileNavOpen"
+    @keyup.escape.stop.prevent="mobileNavOpen = false"
+    x-cloak
+>
+    <button
+        @click.prevent.stop="mobileNavOpen = true"
+        class="z-30 flex items-center justify-center text-2xl bg-primary rounded p-2 text-secondary focus:outline-none focus-visible:ring-2 ring-primary ring-offset-2 w-10"
+        aria-label="Open navigatie"
+        title="Open navigatie"
+        :aria-expanded="mobileNavOpen"
+    >
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="svg-inline--fa" role="img" aria-hidden="true" style="color:currentColor"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M0 88C0 74.7 10.7 64 24 64H424c13.3 0 24 10.7 24 24s-10.7 24-24 24H24C10.7 112 0 101.3 0 88zM0 248c0-13.3 10.7-24 24-24H424c13.3 0 24 10.7 24 24s-10.7 24-24 24H24c-13.3 0-24-10.7-24-24zM448 408c0 13.3-10.7 24-24 24H24c-13.3 0-24-10.7-24-24s10.7-24 24-24H424c13.3 0 24 10.7 24 24z" fill="currentColor"></path></svg>
+
+    </button>
+
+    <div
+        class="fixed inset-0 z-20 bg-white"
+        x-show="mobileNavOpen"
+        x-transition:enter="transition ease-out duration-300"
+        x-transition:enter-start="transform -translate-y-full"
+        x-transition:enter-end="transform translate-y-0"
+        x-transition:leave="transition ease-in duration-300"
+        x-transition:leave-start="transform translate-y-0"
+        x-transition:leave-end="transform -translate-y-full"
+    >
+        <div class="py-4 fluid-container flex flex-col justify-between h-full">
+            <div class="flex justify-between items-center">
+                <a
+    class="p-2 -m-2 focus:outline-none focus-visible:ring-2 ring-primary "
+    aria-label="Logo De Medemens"
+    href="/"
+>
+    <img src="/visuals/de-medemens-logo.svg" class="select-none  " width="80" alt="De Medemens"/>
+    
+</a>
+
+                <button
+                    @click.prevent.stop="mobileNavOpen = false"
+                    class="z-30 flex items-center justify-center text-2xl bg-primary rounded p-2 text-secondary focus:outline-none focus-visible:ring-2 ring-primary ring-offset-2 sm:mr-4 w-10"
+                    aria-label="Sluit navigatie"
+                    title="Sluit navigatie"
+                    :aria-expanded="mobileNavOpen"
+                >
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" class="svg-inline--fa" role="img" aria-hidden="true" style="color:currentColor"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M345 137c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0l-119 119L73 103c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l119 119L39 375c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l119-119L311 409c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-119-119L345 137z" fill="currentColor"></path></svg>
+
+                </button>
+            </div>
+            <ul class="flex flex-col py-2 space-y-4 overflow-auto">
+                <li
+    x-data="{ open: false, value: '' }"
+    @keydown.window.prevent.slash.="open = true, setTimeout(() => {$refs.input.focus()}, 200)"
+    @keydown.window.prevent.esc="open = false"
+    @click.outside="open = false"
+    @focusin.window="!$root.contains($event.target) && (open = false)"
+    class="flex py-2 relative"
+    x-cloak
+>
+    <button
+        @click="open = !open, setTimeout(() => {$refs.input.focus()}, 200)"
+        class="text-neutral hover:text-primary"
+        :aria-label="open
+            ? 'Sluit zoek'
+            : 'Open zoek'"
+        :aria-expanded="open"
+    >
+        <svg class="w-4 h-4 fill-secondary motion-safe:transition-colors" alt="" aria-hidden="true" viewBox="0 0 39 40"><path d="M23.517 0c3.962 0 7.926 1.506 10.948 4.517 6.047 6.024 6.047 15.788 0 21.811a15.466 15.466 0 01-10.948 4.517c-3.214 0-6.428-.993-9.142-2.976L3.515 38.731a2 2 0 01-2.769.057 1.515 1.515 0 01-.571-2.013c.09-.32.26-.622.511-.873L11.48 25.11l-.09-.11c-4.83-6.054-4.44-14.883 1.18-20.482A15.467 15.467 0 0123.517 0zM23.5 4C17.149 4 12 9.149 12 15.5S17.149 27 23.5 27 35 21.851 35 15.5 29.851 4 23.5 4z"/></svg>
+    </button>
+
+    <form
+        action="https://www.demedemens.be/zoeken"
+        x-show="open"
+        x-transition.origin.right.duration.200ms
+        class="absolute inset-y-0 flex w-full h-10"
+        role="search"
+    >
+        <input
+             minlength="3"
+            x-ref="input"
+            class="w-full py-2 pr-10 rounded border-secondary focus-visible:border-primary focus-visible:ring-1 focus-visible:ring-primary motion-safe:transition"
+            placeholder="Zoeken"
+            type="search"
+            x-model="value"
+            value=""
+            name="q"
+        />
+        <button
+            class="absolute inset-y-0 right-0 mr-2 flex items-center text-neutral hover:text-primary"
+            aria-label="Zoeken"
+            :disabled="value.length === 0"
+            :class="{ 'opacity-25 cursor-default': value.length === 0, 'opacity-100': value.length > 0 }"
+        >
+            <svg class="w-4 h-4 fill-secondary motion-safe:transition-colors" alt="" aria-hidden="true" viewBox="0 0 39 40"><path d="M23.517 0c3.962 0 7.926 1.506 10.948 4.517 6.047 6.024 6.047 15.788 0 21.811a15.466 15.466 0 01-10.948 4.517c-3.214 0-6.428-.993-9.142-2.976L3.515 38.731a2 2 0 01-2.769.057 1.515 1.515 0 01-.571-2.013c.09-.32.26-.622.511-.873L11.48 25.11l-.09-.11c-4.83-6.054-4.44-14.883 1.18-20.482A15.467 15.467 0 0123.517 0zM23.5 4C17.149 4 12 9.149 12 15.5S17.149 27 23.5 27 35 21.851 35 15.5 29.851 4 23.5 4z"/></svg>
+        </button>
+    </form>
+</li>
+
+                
+                    <li
+                        
+                        class="leading-none"
+                    >
+                        
+                            <a
+    class="w-full py-2 flex items-center space-x-1 text-lg font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+    
+        href="/aanbod"
+    
+>
+    <span>Aanbod</span>
+    
+</a>
+
+
+                        
+                    </li>
+                
+                    <li
+                        
+                            x-data="{ subnavOpen: false }"
+                            @focusin.window="!$refs.subnav.contains($event.target) && (subnavOpen = false)"
+                        
+                        class="leading-none"
+                    >
+                        
+                            <a
+    class="w-full py-2 flex items-center space-x-1 text-lg font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+    
+        href="#"
+        @click.prevent="subnavOpen = !subnavOpen"
+        @click.outside="subnavOpen = false"
+        :aria-expanded="subnavOpen"
+    
+>
+    <span>Locaties</span>
+    
+        <div :class="{ 'scale-y-[-1]': subnavOpen }" class="motion-safe:transition-transform">
+            <svg class="w-2 ml-1 overflow-visible stroke-current text-neutral" aria-hidden="true" stroke-width="24" viewBox="0 0 140 140"><path d="M135.625 42.648l-62.533 62.527a4.37 4.37 0 01-6.184 0L4.375 42.648" fill="none"/></svg>
+        </div>
+    
+</a>
+
+    <ul
+        x-show="subnavOpen"
+        x-ref="subnav"
+        class="flex flex-col items-stretch space-y-2"
+        x-collapse
+    >
+        <li class="mt-2">
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/locaties">
+                Locaties
+            </a>
+        </li>
+        
+        <li>
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/locaties/ouderenzorg">
+                Ouderenzorg
+            </a>
+        </li>
+        
+        <li>
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/locaties/kinderopvang">
+                Kinderopvang
+            </a>
+        </li>
+        
+    </ul>
+
+
+                        
+                    </li>
+                
+                    <li
+                        
+                            x-data="{ subnavOpen: false }"
+                            @focusin.window="!$refs.subnav.contains($event.target) && (subnavOpen = false)"
+                        
+                        class="leading-none"
+                    >
+                        
+                            <a
+    class="w-full py-2 flex items-center space-x-1 text-lg font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+    
+        href="#"
+        @click.prevent="subnavOpen = !subnavOpen"
+        @click.outside="subnavOpen = false"
+        :aria-expanded="subnavOpen"
+    
+>
+    <span>Jobs</span>
+    
+        <div :class="{ 'scale-y-[-1]': subnavOpen }" class="motion-safe:transition-transform">
+            <svg class="w-2 ml-1 overflow-visible stroke-current text-neutral" aria-hidden="true" stroke-width="24" viewBox="0 0 140 140"><path d="M135.625 42.648l-62.533 62.527a4.37 4.37 0 01-6.184 0L4.375 42.648" fill="none"/></svg>
+        </div>
+    
+</a>
+
+    <ul
+        x-show="subnavOpen"
+        x-ref="subnav"
+        class="flex flex-col items-stretch space-y-2"
+        x-collapse
+    >
+        <li class="mt-2">
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/jobs">
+                Jobs
+            </a>
+        </li>
+        
+        <li>
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/jobs">
+                Werken bij
+            </a>
+        </li>
+        
+        <li>
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/jobs/vacatures-ouderenzorg">
+                Vacatures ouderenzorg
+            </a>
+        </li>
+        
+        <li>
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/jobs/vacatures-kinderopvang">
+                Vacatures kinderopvang
+            </a>
+        </li>
+        
+        <li>
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/jobs/vacatures-ondersteunende-diensten">
+                Vacatures ondersteunende diensten
+            </a>
+        </li>
+        
+        <li>
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/jobs/studenten">
+                Studenten
+            </a>
+        </li>
+        
+        <li>
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/jobs/vrijwilligers">
+                Vrijwilligers
+            </a>
+        </li>
+        
+        <li>
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/jobs/spontane-sollicitaties">
+                Spontane sollicitatie
+            </a>
+        </li>
+        
+    </ul>
+
+
+                        
+                    </li>
+                
+                    <li
+                        
+                        class="leading-none"
+                    >
+                        
+                            <a
+    class="w-full py-2 flex items-center space-x-1 text-lg font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+    
+        href="/nieuws"
+    
+>
+    <span>Nieuws</span>
+    
+</a>
+
+
+                        
+                    </li>
+                
+                    <li
+                        
+                            x-data="{ subnavOpen: false }"
+                            @focusin.window="!$refs.subnav.contains($event.target) && (subnavOpen = false)"
+                        
+                        class="leading-none"
+                    >
+                        
+                            <a
+    class="w-full py-2 flex items-center space-x-1 text-lg font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+    
+        href="#"
+        @click.prevent="subnavOpen = !subnavOpen"
+        @click.outside="subnavOpen = false"
+        :aria-expanded="subnavOpen"
+    
+>
+    <span>Over ons</span>
+    
+        <div :class="{ 'scale-y-[-1]': subnavOpen }" class="motion-safe:transition-transform">
+            <svg class="w-2 ml-1 overflow-visible stroke-current text-neutral" aria-hidden="true" stroke-width="24" viewBox="0 0 140 140"><path d="M135.625 42.648l-62.533 62.527a4.37 4.37 0 01-6.184 0L4.375 42.648" fill="none"/></svg>
+        </div>
+    
+</a>
+
+    <ul
+        x-show="subnavOpen"
+        x-ref="subnav"
+        class="flex flex-col items-stretch space-y-2"
+        x-collapse
+    >
+        <li class="mt-2">
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/over-ons">
+                Over ons
+            </a>
+        </li>
+        
+        <li>
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/over-ons/onze-missie-visie-en-waarden">
+                Onze missie, visie en waarden
+            </a>
+        </li>
+        
+        <li>
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/over-ons/onze-organisatie">
+                Onze organisatie
+            </a>
+        </li>
+        
+        <li>
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/over-ons/samenwerkingen">
+                Samenwerkingen
+            </a>
+        </li>
+        
+        <li>
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/over-ons/jaarverslagen">
+                Jaarverslagen
+            </a>
+        </li>
+        
+        <li>
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/over-ons/het-abc-van-ouderenzorg">
+                Het ABC van ouderenzorg
+            </a>
+        </li>
+        
+        <li>
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/over-ons/aankoop">
+                Aankoop
+            </a>
+        </li>
+        
+        <li>
+            <a
+                class="block py-2 whitespace-nowrap font-semibold hover:text-primary text-secondary focus:outline-none focus-visible:ring-2 ring-primary"
+                href="/over-ons/veilig-online">
+                Veilig online
+            </a>
+        </li>
+        
+    </ul>
+
+
+                        
+                    </li>
+                
+                    <li
+                        
+                        class="leading-none"
+                    >
+                        
+                            
+    <a
+        
+        class="
+            focus:outline-none focus-visible:ring focus-visible:ring-offset-2 inline-flex items-center py-3 px-4 leading-none no-underline select-none whitespace-nowrap motion-safe:transition font-semibold group
+            rounded-full
+            
+                bg-primary text-secondary-700 focus-visible:ring-primary hover:bg-secondary hover:text-white
+            
+            py-2 text-lg
+        "
+        href="/contacteer-ons"
+
+
+
+
+    >
+        
+        Contacteer ons
+    </a>
+
+
+                        
+                    </li>
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+    </div>
+</header>
+
+
+        
+    <main class="outer-grid" id="content">
+    
+        <div class="min-h-80 2xl:min-h-88 overflow-hidden relative flex flex-col lg:block bg-secondary sm:bg-transparent">
+    <div class="sm:w-3/4 md:w-2/3 xl:w-1/2 bg-secondary rounded-r-full h-full sm:absolute left-0 hidden sm:block">
+    </div>
+    <div class="h-56 sm:h-full w-5/6 sm:w-1/2 md:w-3/5 xl:w-2/3 sm:absolute right-0 top-0 bottom-0 sm:z-behind rounded-r-full sm:rounded-none overflow-hidden">
+        
+    
+        
+        
+        
+        
+        
+
+        
+        
+
+        
+        
+
+
+        <picture
+            
+        >
+            
+                <source
+                    srcset="
+                        
+                            /img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/65a0165f4f3319683dc083c8d3c99808/homebanner-dmm-grootmoederkind.webp 320w,
+                        
+                            /img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/27a122ae98692aaa853b26db6adcdad6/homebanner-dmm-grootmoederkind.webp 480w,
+                        
+                            /img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/5741db1ac3883d00587d89d125783544/homebanner-dmm-grootmoederkind.webp 640w,
+                        
+                            /img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/631d580a495f0e6123f7da9eb96146ea/homebanner-dmm-grootmoederkind.webp 768w,
+                        
+                            /img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/719ba921fe867f107050c9b05a8c2787/homebanner-dmm-grootmoederkind.webp 1024w,
+                        
+                            /img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/3bf6553076f7d4aebf48af4240638871/homebanner-dmm-grootmoederkind.webp 1280w,
+                        
+                            /img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/39d361d25615e9ef73fc6c3b378f445c/homebanner-dmm-grootmoederkind.webp 1440w,
+                        
+                            /img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/326550be3944d9309b4986057b801a6f/homebanner-dmm-grootmoederkind.webp 1536w,
+                        
+                            /img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/dfdf7cab1fffbd345db56556a5884ae0/homebanner-dmm-grootmoederkind.webp 1680w
+                        
+                    "
+                    sizes="
+                100vw
+            "
+                    type="image/webp"
+                >
+                <source
+                    srcset="
+                        
+                            /img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/293651a6fa1748efe2a0d3abd2e08ce4/homebanner-dmm-grootmoederkind.webp
+                            320w,
+                        
+                            /img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/a2a221430fa69192a643dcd0e3611727/homebanner-dmm-grootmoederkind.webp
+                            480w,
+                        
+                            /img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/efecb7ca8df20356bff961dce877f96f/homebanner-dmm-grootmoederkind.webp
+                            640w,
+                        
+                            /img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/fad491e065b1a30f61737fecba6ddbdc/homebanner-dmm-grootmoederkind.webp
+                            768w,
+                        
+                            /img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/b21d53bd63f406d64dd1a68f1325cdf8/homebanner-dmm-grootmoederkind.webp
+                            1024w,
+                        
+                            /img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/3a09718c04b79240c0b4488d22824de7/homebanner-dmm-grootmoederkind.webp
+                            1280w,
+                        
+                            /img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/f2f6ce8acbe77d08004b587bb3a1b65b/homebanner-dmm-grootmoederkind.webp
+                            1440w,
+                        
+                            /img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/c3b2b476f9648f6406fa7d29e3cd8507/homebanner-dmm-grootmoederkind.webp
+                            1536w,
+                        
+                            /img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/5d410c71b5ad707651551b8e4059781e/homebanner-dmm-grootmoederkind.webp
+                            1680w
+                        
+                    "
+                    sizes="
+                100vw
+            "
+                    type="image/webp"
+                >
+                <img
+                    width="5512"
+                    height="3483"
+                    src="/img/containers/images/banner-images/homebanner-dmm-grootmoederkind.webp/573b9ed3d03a62ce01fb3e165b2e53be/homebanner-dmm-grootmoederkind.webp"
+                    alt="."
+                    
+                        class="object-cover w-full h-full "
+                        style="object-position: 50% 50%"
+                    
+                    
+                        aria-hidden="true"
+                    
+                    
+                >
+            
+        </picture>
+    
+
+
+    </div>
+    <div class="fluid-container relative z-10 sm:h-full flex items-center bg-secondary sm:bg-transparent">
+        <div class="sm:w-3/4 md:w-2/3 xl:w-1/2 py-8 lg:py-16 xl:py-20 flex flex-col gap-y-6 md:gap-y-12">
+            <div class="text-tertiary font-bold text-4xl md:text-5xl pr-4 sm:pr-8 md:pr-12 lg:pr-16">
+                Voor iedereen met een zorgvraag
+            </div>
+            <div>
+                <div class="text-primary font-bold mb-2">Snel naar</div>
+                <div class="flex items-center gap-2 flex-wrap">
+                    
+                        
+    <a
+        
+        class="
+            focus:outline-none focus-visible:ring focus-visible:ring-offset-2 inline-flex items-center py-3 px-4 leading-none no-underline select-none whitespace-nowrap motion-safe:transition font-semibold group
+            rounded
+            
+                border-2
+                border-primary text-primary focus-visible:ring-primary hover:bg-primary hover:text-white
+            
+            text-sm !font-bold
+        "
+        href="/jobs"
+
+
+
+
+    >
+        
+        Jobs
+    </a>
+
+
+                    
+                        
+    <a
+        
+        class="
+            focus:outline-none focus-visible:ring focus-visible:ring-offset-2 inline-flex items-center py-3 px-4 leading-none no-underline select-none whitespace-nowrap motion-safe:transition font-semibold group
+            rounded
+            
+                border-2
+                border-primary text-primary focus-visible:ring-primary hover:bg-primary hover:text-white
+            
+            text-sm !font-bold
+        "
+        href="/locaties"
+
+
+
+
+    >
+        
+        Locaties
+    </a>
+
+
+                    
+                        
+    <a
+        
+        class="
+            focus:outline-none focus-visible:ring focus-visible:ring-offset-2 inline-flex items-center py-3 px-4 leading-none no-underline select-none whitespace-nowrap motion-safe:transition font-semibold group
+            rounded
+            
+                border-2
+                border-primary text-primary focus-visible:ring-primary hover:bg-primary hover:text-white
+            
+            text-sm !font-bold
+        "
+        href="/aanbod"
+
+
+
+
+    >
+        
+        Aanbod
+    </a>
+
+
+                    
+                        
+    <a
+        
+        class="
+            focus:outline-none focus-visible:ring focus-visible:ring-offset-2 inline-flex items-center py-3 px-4 leading-none no-underline select-none whitespace-nowrap motion-safe:transition font-semibold group
+            rounded
+            
+                border-2
+                border-primary text-primary focus-visible:ring-primary hover:bg-primary hover:text-white
+            
+            text-sm !font-bold
+        "
+        href="/aanbod/kinderopvang"
+
+
+
+
+    >
+        
+        Kinderopvang
+    </a>
+
+
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+    
+        <div class="fluid-container grid grid-cols-12 article">
+    <article
+    class="
+        prose
+        prose-a:underline
+        prose-a:decoration-primary
+        prose-a:decoration-2
+        hover:prose-a:text-primary
+        focus:prose-a:outline-none
+        focus-visible:prose-a:ring
+        focus-visible:prose-a:ring-primary
+        focus-visible:prose-a:rounded-sm
+        prose-figure:my-0
+        prose-pre:whitespace-pre-wrap
+        max-w-none
+        contents
+    "
+>
+    <div class="size-md text-lg intro-text">
+    <p><strong><span style="color: #00738f;"> We doen ons werk met overgave, want wat je terugkrijgt is enorm: de dankbaarheid, de openheid, de grote en kleine tekens van erkenning. Van de medemens waarvoor we zorgen, en de medemensen die met ons mee-zorgen. Altijd in dialoog. Samen.</span></strong></p>
+</div>
+</article>
+
+</div>
+
+    
+        <div class="fluid-container">
+    
+    <div
+        class="
+            grid grid-cols-1 sm:grid-cols-2 gap-4 lg:gap-6
+            
+        "
+    >
+        
+            <a
+                href="/locaties/ouderenzorg"
+                class="group block -mb-6"
+            >
+                <div class="overflow-hidden rounded-md h-52 lg:h-64 bg-primary">
+                    
+    
+        
+        
+        
+        
+        
+
+        
+        
+
+        
+        
+
+
+        <picture
+            
+        >
+            
+                <source
+                    srcset="
+                        
+                            /img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/cffd0093010ea2c51223bab9f0943594/48-hollebeek-dagverzorging---ok.webp 320w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/7ed1a27ee2ac68739e0517fa49b7a413/48-hollebeek-dagverzorging---ok.webp 480w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/1f1dda75ae4259ff952b52f8662787ad/48-hollebeek-dagverzorging---ok.webp 640w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/be7c6cc7cecbbb2a51bafecf259dd943/48-hollebeek-dagverzorging---ok.webp 768w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/d354c71f89f5cf35df6c3efe72062752/48-hollebeek-dagverzorging---ok.webp 1024w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/c5d95498001f985306b76020c209d565/48-hollebeek-dagverzorging---ok.webp 1280w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/f6ebeb36e89d16da8a063d4606ace4ab/48-hollebeek-dagverzorging---ok.webp 1440w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/9cc43ddd132366bcf1ff32ad91896b9a/48-hollebeek-dagverzorging---ok.webp 1536w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/214740b22c4b0a302072cbf029139afe/48-hollebeek-dagverzorging---ok.webp 1680w
+                        
+                    "
+                    sizes="
+                            100vw
+                        "
+                    type="image/webp"
+                >
+                <source
+                    srcset="
+                        
+                            /img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/9ed238e0c0d91a06d5342da108e70af1/48-hollebeek-dagverzorging---ok.jpg
+                            320w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/69d31a8a87516d757f3c2f9355311f00/48-hollebeek-dagverzorging---ok.jpg
+                            480w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/21dfa5afb4792e75cc18516f6b4e2dff/48-hollebeek-dagverzorging---ok.jpg
+                            640w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/0f8e919930ecccbc5bd7f26dae104e06/48-hollebeek-dagverzorging---ok.jpg
+                            768w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/cf59ead587f5c8f03a24f55e0bd80eaa/48-hollebeek-dagverzorging---ok.jpg
+                            1024w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/30e1c98f1f3ef1cf5af9f4d2fdf1d403/48-hollebeek-dagverzorging---ok.jpg
+                            1280w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/8fe3d6909891a435421ea4e864bee023/48-hollebeek-dagverzorging---ok.jpg
+                            1440w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/da5ba7a039127af25566354a59c6ccc1/48-hollebeek-dagverzorging---ok.jpg
+                            1536w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/47f0e4832942235a1dd39496c3a590c8/48-hollebeek-dagverzorging---ok.jpg
+                            1680w
+                        
+                    "
+                    sizes="
+                            100vw
+                        "
+                    type="image/jpeg"
+                >
+                <img
+                    width="5760"
+                    height="3840"
+                    src="/img/containers/images/locatie/ouderenzorg/48-hollebeek-dagverzorging---ok.jpg/cf59ead587f5c8f03a24f55e0bd80eaa/48-hollebeek-dagverzorging---ok.jpg"
+                    alt="ouderenzorg."
+                    
+                        class="object-cover w-full h-full group-hover:scale-105 duration-200"
+                        style="object-position: 51% 21%"
+                    
+                    
+                    
+                        loading="lazy"
+                    
+                >
+            
+        </picture>
+    
+
+
+                </div>
+                <div class="w-full px-6 py-3 rounded-full bg-secondary text-white -translate-y-1/2 font-bold flex items-center justify-between">
+                    Ouderenzorg
+                    <span class="text-tertiary text-xl group-hover:translate-x-2 duration-200">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="svg-inline--fa" role="img" aria-hidden="true" style="color:currentColor"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M443.3 267.3c6.2-6.2 6.2-16.4 0-22.6l-176-176c-6.2-6.2-16.4-6.2-22.6 0s-6.2 16.4 0 22.6L393.4 240 16 240c-8.8 0-16 7.2-16 16s7.2 16 16 16l377.4 0L244.7 420.7c-6.2 6.2-6.2 16.4 0 22.6s16.4 6.2 22.6 0l176-176z" fill="currentColor"></path></svg>
+
+                    </span>
+                </div>
+            </a>
+        
+            <a
+                href="/locaties/kinderopvang"
+                class="group block -mb-6"
+            >
+                <div class="overflow-hidden rounded-md h-52 lg:h-64 bg-primary">
+                    
+    
+        
+        
+        
+        
+        
+
+        
+        
+
+        
+        
+
+
+        <picture
+            
+        >
+            
+                <source
+                    srcset="
+                        
+                            /img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/b557d094ff4ada68696008bdb4047f3d/kinderdagverblijven-blij-kind.webp 320w,
+                        
+                            /img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/7b913f653ae1a4ff1e21278e2c883040/kinderdagverblijven-blij-kind.webp 480w,
+                        
+                            /img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/333e81cd02abe42162e66caf82caf408/kinderdagverblijven-blij-kind.webp 640w,
+                        
+                            /img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/b712a9587a74719026e1058e9c7511e2/kinderdagverblijven-blij-kind.webp 768w,
+                        
+                            /img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/936c018c3654d71f9047b2365db75af2/kinderdagverblijven-blij-kind.webp 1024w,
+                        
+                            /img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/3189fec3a9768994e8c1f845d241f304/kinderdagverblijven-blij-kind.webp 1280w,
+                        
+                            /img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/34e24d470dfbdf9d7ec83e09e032e097/kinderdagverblijven-blij-kind.webp 1440w,
+                        
+                            /img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/b97c364fc1c75b8c20bd159250c687e4/kinderdagverblijven-blij-kind.webp 1536w,
+                        
+                            /img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/8f8435054e5f6b54d20edc3f4ff8f4a3/kinderdagverblijven-blij-kind.webp 1680w
+                        
+                    "
+                    sizes="
+                            100vw
+                        "
+                    type="image/webp"
+                >
+                <source
+                    srcset="
+                        
+                            /img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/462a01061eec44628442e01c7644b289/kinderdagverblijven-blij-kind.jpg
+                            320w,
+                        
+                            /img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/0f8674e6d9cd43b1d67578a6e9566a29/kinderdagverblijven-blij-kind.jpg
+                            480w,
+                        
+                            /img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/2a13274511252c19f4efb25cfecbf5de/kinderdagverblijven-blij-kind.jpg
+                            640w,
+                        
+                            /img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/430819786ec7066022c7abed963f6a8d/kinderdagverblijven-blij-kind.jpg
+                            768w,
+                        
+                            /img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/ae94b4f20618488736b2a702e7473b52/kinderdagverblijven-blij-kind.jpg
+                            1024w,
+                        
+                            /img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/a6c2a4464b173d2629ab8f76742ec33d/kinderdagverblijven-blij-kind.jpg
+                            1280w,
+                        
+                            /img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/2bd340cae53a9960252ba28f8dee3300/kinderdagverblijven-blij-kind.jpg
+                            1440w,
+                        
+                            /img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/d12bb7a4434d8103c9ad502e7cf3320a/kinderdagverblijven-blij-kind.jpg
+                            1536w,
+                        
+                            /img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/efadf655347c528bbc8faa3292ef8e21/kinderdagverblijven-blij-kind.jpg
+                            1680w
+                        
+                    "
+                    sizes="
+                            100vw
+                        "
+                    type="image/jpeg"
+                >
+                <img
+                    width="2048"
+                    height="1365"
+                    src="/img/containers/images/locatie/kinderdagverblijven/algemeen/kinderdagverblijven-blij-kind.jpg/ae94b4f20618488736b2a702e7473b52/kinderdagverblijven-blij-kind.jpg"
+                    alt="."
+                    
+                        class="object-cover w-full h-full group-hover:scale-105 duration-200"
+                        style="object-position: 50% 50%"
+                    
+                    
+                        aria-hidden="true"
+                    
+                    
+                        loading="lazy"
+                    
+                >
+            
+        </picture>
+    
+
+
+                </div>
+                <div class="w-full px-6 py-3 rounded-full bg-secondary text-white -translate-y-1/2 font-bold flex items-center justify-between">
+                    Kinderopvang
+                    <span class="text-tertiary text-xl group-hover:translate-x-2 duration-200">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="svg-inline--fa" role="img" aria-hidden="true" style="color:currentColor"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M443.3 267.3c6.2-6.2 6.2-16.4 0-22.6l-176-176c-6.2-6.2-16.4-6.2-22.6 0s-6.2 16.4 0 22.6L393.4 240 16 240c-8.8 0-16 7.2-16 16s7.2 16 16 16l377.4 0L244.7 420.7c-6.2 6.2-6.2 16.4 0 22.6s16.4 6.2 22.6 0l176-176z" fill="currentColor"></path></svg>
+
+                    </span>
+                </div>
+            </a>
+        
+    </div>
+</div>
+
+    
+        <div class="fluid-container">
+    <h2 class="text-2xl font-semibold leading-tight text-secondary text-secondary mb-8">Aanbod</h2>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 gap-4">
+        
+            <a
+                href="/aanbod/permanent-verblijf"
+                class="h-40 bg-secondary rounded-md flex flex-col items-center justify-center group p-4"
+            >
+                <svg class="h-24 group-hover:scale-105 duration-200 flex-none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="icoon" x="0px" y="0px" viewBox="0 0 1094.2 1080" style="enable-background:new 0 0 1094.2 1080;"><style type="text/css"> .dagopvang{fill:#FFB432;} .dagopvang1{fill:#FFFFFF;} </style><circle class="dagopvang" cx="711" cy="532" r="383.2"/><path id="tijdelijk_verblijf-wolken" class="dagopvang1" d="M540.7,742.2L540.7,742.2c-34.2,0-66.1,10-93,27.2 c-34.4-85.2-117.9-145.3-215.5-145.3l0,0C104,624.1,0,728.1,0,856.4v58.1h713C713,819.3,635.9,742.2,540.7,742.2L540.7,742.2z"/></svg>
+                <p class="font-bold text-lg text-white">Permanent verblijf</p>
+            </a>
+        
+            <a
+                href="/aanbod/kortverblijf"
+                class="h-40 bg-secondary rounded-md flex flex-col items-center justify-center group p-4"
+            >
+                <svg class="h-24 group-hover:scale-105 duration-200 flex-none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 1288.9 1275.1" style="enable-background:new 0 0 1288.9 1275.1;"><style type="text/css"> .kortverblijf{fill:#FFFFFF;} .kortverblijf1{fill:#FFB432;} </style><g><rect x="206.1" y="484.9" class="kortverblijf" width="867.3" height="344.1"/><path class="kortverblijf1" d="M577.8,271.3h123.9V147.4H577.8V271.3z M639.7,643.1c-78.5,0-153.3-16.3-224.6-48.8 c-71.2-32.5-140.9-68.9-209.1-109.2v-89.8c0-34.1,12.1-63.2,36.4-87.5c24.3-24.3,53.4-36.4,87.5-36.4h123.9V85.5 c0-17.6,5.9-32.3,17.8-44.1s26.6-17.8,44.1-17.8h247.8c17.6,0,32.3,5.9,44.1,17.8s17.8,26.6,17.8,44.1v185.9h123.9 c34.1,0,63.2,12.1,87.5,36.4c24.3,24.3,36.4,53.4,36.4,87.5v89.8c-68.1,40.3-137.8,76.7-209.1,109.2 C793.1,626.8,718.2,643.1,639.7,643.1z M330,1262.6v-62c-34.1,0-63.2-12.1-87.5-36.4s-36.4-53.4-36.4-87.5V624.5 c57.8,35.1,117.5,65,178.9,89.8c61.4,24.8,125.7,41.3,192.8,49.6v65h123.9v-65c67.1-8.3,131.4-24.8,192.8-49.6 c61.4-24.8,121.1-54.7,178.9-89.8v452.2c0,34.1-12.1,63.2-36.4,87.5c-24.3,24.3-53.4,36.4-87.5,36.4v62H825.6v-62H453.9v62H330z"/></g></svg>
+                <p class="font-bold text-lg text-white">Kortverblijf</p>
+            </a>
+        
+            <a
+                href="/aanbod/assistentiewoningen"
+                class="h-40 bg-secondary rounded-md flex flex-col items-center justify-center group p-4"
+            >
+                <svg class="h-24 group-hover:scale-105 duration-200 flex-none" xmlns="http://www.w3.org/2000/svg" id="icoon" viewBox="0 0 1080 1080"><defs><style> .cls-1 { fill: #fff; } .cls-1, .cls-2 { stroke-width: 0px; } .cls-2 { fill: #ffb432; } </style></defs><polygon id="huis" class="cls-2" points="540 170.68 207.43 426.64 207.43 909.32 872.57 909.32 872.57 426.64 540 170.68"/><path id="deur_van_huis" class="cls-1" d="m540,475.74h0c90.35,0,163.71,73.36,163.71,163.71v269.86h-327.42v-269.86c0-90.35,73.36-163.71,163.71-163.71Z"/></svg>
+                <p class="font-bold text-lg text-white">Assistentiewoningen</p>
+            </a>
+        
+            <a
+                href="/aanbod/kinderopvang"
+                class="h-40 bg-secondary rounded-md flex flex-col items-center justify-center group p-4"
+            >
+                <svg class="h-24 group-hover:scale-105 duration-200 flex-none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 1288.9 1275.1" style="enable-background:new 0 0 1288.9 1275.1;"><style type="text/css"> .kdv{fill:#FFFFFF;} .kdv1{fill:#FFB432;} </style><path class="kdv" d="M803.7,616.8c22.5,0,41.5-7.8,57.1-23.3c15.5-15.5,23.3-34.6,23.3-57.1c0-22.5-7.8-41.5-23.3-57.1 c-15.5-15.5-34.6-23.3-57.1-23.3c-22.5,0-41.5,7.8-57.1,23.3c-15.5,15.5-23.3,34.6-23.3,57.1c0,22.5,7.8,41.5,23.3,57.1 C762.2,609.1,781.2,616.8,803.7,616.8z"/><path class="kdv" d="M482.1,616.8c22.5,0,41.5-7.8,57.1-23.3c15.5-15.5,23.3-34.6,23.3-57.1c0-22.5-7.8-41.5-23.3-57.1 c-15.5-15.5-34.6-23.3-57.1-23.3s-41.5,7.8-57.1,23.3c-15.5,15.5-23.3,34.6-23.3,57.1c0,22.5,7.8,41.5,23.3,57.1 C440.6,609.1,459.6,616.8,482.1,616.8z"/><path class="kdv" d="M642.9,954.5c64.3,0,122.5-17.7,174.5-53.1c52-35.4,90.3-82,115-139.9H353.5c24.7,57.9,63,104.5,115,139.9 S578.6,954.5,642.9,954.5z"/><path class="kdv" d="M642.9,1211.7c-80.4,0-155.7-15.3-225.9-45.8s-131.3-71.8-183.3-123.8c-52-52-93.3-113.1-123.8-183.3 S64.1,713.3,64.1,632.9S79.4,477.2,109.9,407s71.8-131.3,123.8-183.3S346.8,130.5,417,99.9s145.5-45.8,225.9-45.8 s155.7,15.3,225.9,45.8s131.3,71.8,183.3,123.8c52,52,93.3,113.1,123.8,183.3s45.8,145.5,45.8,225.9s-15.3,155.7-45.8,225.9 s-71.8,131.3-123.8,183.3c-52,52-113.1,93.3-183.3,123.8S723.3,1211.7,642.9,1211.7z"/><path class="kdv" d="M668.7,407.8c18.2,0,38.9-3.5,61.9-10.5c23-7,34.6-22.8,34.6-47.4c0-12.9-4.3-24.1-12.9-33.8 c-8.6-9.6-19.3-14.5-32.2-14.5c-8.6,0-16.9,1.6-24.9,4.8c-8,3.2-16.9,4.8-26.5,4.8c-22.5,0-41.5-7.8-57.1-23.3 c-15.5-15.5-23.3-34.6-23.3-57.1c0-11.8,1.9-21.7,5.6-29.7c3.8-8,9.4-13.7,16.9-16.9c-20.4,2.1-40.2,4.8-59.5,8 c-19.3,3.2-38.1,8.6-56.3,16.1c-1.1,3.2-1.9,7-2.4,11.3c-0.5,4.3-0.8,8-0.8,11.3c0,48.2,17.4,89.8,52.3,124.6 S620.4,407.8,668.7,407.8z"/><path class="kdv1" d="M807,616.5c23,0,42.4-7.9,58.2-23.8s23.8-35.3,23.8-58.2c0-23-7.9-42.4-23.8-58.2 c-15.9-15.9-35.3-23.8-58.2-23.8s-42.4,7.9-58.2,23.8c-15.9,15.9-23.8,35.3-23.8,58.2c0,23,7.9,42.4,23.8,58.2S784,616.5,807,616.5z M478.9,616.5c23,0,42.4-7.9,58.2-23.8c15.9-15.9,23.8-35.3,23.8-58.2c0-23-7.9-42.4-23.8-58.2c-15.9-15.9-35.3-23.8-58.2-23.8 s-42.4,7.9-58.2,23.8c-15.9,15.9-23.8,35.3-23.8,58.2c0,23,7.9,42.4,23.8,58.2S455.9,616.5,478.9,616.5z M642.9,961 c65.6,0,125-18,178-54.1c53-36.1,92.2-83.7,117.3-142.7H347.6c25.2,59.1,64.3,106.6,117.3,142.7S577.3,961,642.9,961z M642.9,1223.5 c-82,0-158.9-15.6-230.5-46.8c-71.6-31.2-134-73.3-187-126.3c-53-53-95.2-115.4-126.3-187S52.3,714.9,52.3,632.9S67.9,474,99,402.4 s73.3-134,126.3-187s115.4-95.2,187-126.3s148.5-46.8,230.5-46.8S801.8,57.9,873.4,89s134,73.3,187,126.3 c53,53,95.2,115.4,126.3,187c31.2,71.6,46.8,148.5,46.8,230.5s-15.6,158.9-46.8,230.5c-31.2,71.6-73.3,134-126.3,187 c-53,53-115.4,95.2-187,126.3C801.8,1208,725,1223.5,642.9,1223.5z M669.2,403.2c18.6,0,39.6-3.6,63.2-10.7 c23.5-7.1,35.3-23.2,35.3-48.4c0-13.1-4.4-24.6-13.1-34.5c-8.8-9.8-19.7-14.8-32.8-14.8c-8.8,0-17.2,1.6-25.4,4.9 s-17.2,4.9-27.1,4.9c-23,0-42.4-7.9-58.2-23.8c-15.9-15.9-23.8-35.3-23.8-58.2c0-12,1.9-22.1,5.7-30.4c3.8-8.2,9.6-13.9,17.2-17.2 c-20.8,2.2-41,4.9-60.7,8.2s-38.8,8.8-57.4,16.4c-1.1,3.3-1.9,7.1-2.5,11.5c-0.5,4.4-0.8,8.2-0.8,11.5c0,49.2,17.8,91.6,53.3,127.2 C577.6,385.4,620,403.2,669.2,403.2z"/></svg>
+                <p class="font-bold text-lg text-white">Kinderopvang</p>
+            </a>
+        
+    </div>
+</div>
+
+    
+        <div class="fluid-container">
+    <div class="flex items-center justify-between flex-wrap gap-6">
+        <h2 class="text-2xl font-semibold leading-tight text-secondary mb-8">Nieuws</h2>
+
+        
+            <a class="text-secondary flex items-center gap-2 group" href="/nieuws">
+                <span>Alle nieuwsberichten</span>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa group-hover:translate-x-0.5 duration-100" role="img" aria-hidden="true" style="color:currentColor"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z" fill="currentColor"></path></svg>
+
+            </a>
+        
+    </div>
+    
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            
+                <a
+                    class="
+                    flex flex-col group
+                    "
+                    href="/nieuws/impact-recente-hittegolf-beperkt-in-woonzorgcentra-de-medemens"
+                    
+                >
+                    <div class="rounded-md h-52 md:h-60 overflow-hidden bg-primary">
+                    
+    
+        
+        
+        
+        
+        
+
+        
+        
+
+        
+        
+
+
+        <picture
+            
+        >
+            
+                <source
+                    srcset="
+                        
+                            /img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/87000d96dce7b4a59906e147ebd7f919/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.webp 320w,
+                        
+                            /img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/4320425a53e41cd18916fea508b1d895/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.webp 480w,
+                        
+                            /img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/ba031cac2af42f9e2d9e434435cdab53/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.webp 640w,
+                        
+                            /img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/ea5ba384e7465da141e7ff2619c92395/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.webp 768w,
+                        
+                            /img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/6616814e4144a32a8b698a266ab01422/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.webp 1024w,
+                        
+                            /img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/176c64ec099b942ee959693787ea98a3/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.webp 1280w,
+                        
+                            /img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/ac1b4284f7066c11ad011df1dabc8db5/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.webp 1440w,
+                        
+                            /img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/8ef782583d329ddb6718efa151a97627/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.webp 1536w,
+                        
+                            /img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/41f0490d0f5e182abb34f7eea9a85041/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.webp 1680w
+                        
+                    "
+                    sizes="
+                        100vw
+                    "
+                    type="image/webp"
+                >
+                <source
+                    srcset="
+                        
+                            /img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/b74b60e721a03d8165e1b66be22cb83b/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg
+                            320w,
+                        
+                            /img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/d231149ca363b2100b90b70a28c65248/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg
+                            480w,
+                        
+                            /img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/5e59e64c7b74308ff94e93b2b796859c/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg
+                            640w,
+                        
+                            /img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/e25e114550d861b868200f94dcd35e9f/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg
+                            768w,
+                        
+                            /img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/6971ab53ec175071c198461be00b3ccd/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg
+                            1024w,
+                        
+                            /img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/612b175463b2c0dfe4dab6201148f017/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg
+                            1280w,
+                        
+                            /img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/93352ff8addc4c7578940de9b00d3557/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg
+                            1440w,
+                        
+                            /img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/98d53089ac9a02bdb2711f728bcc7aba/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg
+                            1536w,
+                        
+                            /img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/972294bd514b1af245ded6b25a123dd4/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg
+                            1680w
+                        
+                    "
+                    sizes="
+                        100vw
+                    "
+                    type="image/jpeg"
+                >
+                <img
+                    width="3712"
+                    height="4928"
+                    src="/img/containers/images/nieuws/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg/6971ab53ec175071c198461be00b3ccd/sweltering-heatwave-show-heat-wave-high-summer-temperatures-scorching-sun-abnormal-intensity-with-soaring-temperatures-relentless-sun-highlighting-importance-staying-hydrated-cool.jpg"
+                    alt="."
+                    
+                        class="object-cover w-full h-full group-hover:scale-105 duration-200"
+                        style="object-position: 50% 50%"
+                    
+                    
+                        aria-hidden="true"
+                    
+                    
+                        loading="lazy"
+                    
+                >
+            
+        </picture>
+    
+
+
+                    </div>
+                    <div class="text-sm text-secondary mt-2">02/07/2026</div>
+                    <div class="text-lg text-secondary font-bold mt-2 leading-5">
+                        Impact recente hittegolf beperkt in woonzorgcentra De Medemens
+                    </div>
+                    
+                        <div class="text-lg text-secondary leading-5 pt-2">
+                            
+                                De Medemens
+                                
+                            
+                        </div>
+                    
+                    
+                        <div class="italic text-secondary leading-5 pt-1">
+                            
+                                Ouderenzorg
+                                
+                            
+                        </div>
+                    
+                </a>
+            
+                <a
+                    class="
+                    flex flex-col group
+                    "
+                    href="/nieuws/warme-dagen-vragen-om-warme-oplossingen"
+                    
+                >
+                    <div class="rounded-md h-52 md:h-60 overflow-hidden bg-primary">
+                    
+    
+        
+        
+        
+        
+        
+
+        
+        
+
+        
+        
+
+
+        <picture
+            
+        >
+            
+                <source
+                    srcset="
+                        
+                            /img/containers/images/27274.jpg/dfa949be441ed34852794776cdc87f5e/27274.webp 320w,
+                        
+                            /img/containers/images/27274.jpg/b072a0b8fd357f8f5c98074e9cfc220e/27274.webp 480w,
+                        
+                            /img/containers/images/27274.jpg/6889ccf15c6e7e1b2fc6e7a7849aae54/27274.webp 640w,
+                        
+                            /img/containers/images/27274.jpg/75a51c57e52eb304235c96f60f88cb5e/27274.webp 768w,
+                        
+                            /img/containers/images/27274.jpg/5ddc8274cc1ea67928fb29bdd732bc1a/27274.webp 1024w,
+                        
+                            /img/containers/images/27274.jpg/756d74d27ffe32c7a697c8c40fc50617/27274.webp 1280w,
+                        
+                            /img/containers/images/27274.jpg/0e40639e339c518d51d1459f3eb56ef2/27274.webp 1440w,
+                        
+                            /img/containers/images/27274.jpg/cac7ffe60ada1b9e9f570b4d3c30d1a6/27274.webp 1536w,
+                        
+                            /img/containers/images/27274.jpg/a62f41c0f44af1d4c64d83b47b9bc7a1/27274.webp 1680w
+                        
+                    "
+                    sizes="
+                        100vw
+                    "
+                    type="image/webp"
+                >
+                <source
+                    srcset="
+                        
+                            /img/containers/images/27274.jpg/83fd73ad0a27991310a8255f67b681de/27274.jpg
+                            320w,
+                        
+                            /img/containers/images/27274.jpg/1485be3986b51f4f066ee5c14760cacb/27274.jpg
+                            480w,
+                        
+                            /img/containers/images/27274.jpg/183f40f46a28f4fddba5a1d6aa54a4f8/27274.jpg
+                            640w,
+                        
+                            /img/containers/images/27274.jpg/54b4f8a3f78c5acd04be244f5a4130f3/27274.jpg
+                            768w,
+                        
+                            /img/containers/images/27274.jpg/a82cb69e10e86ef55fc38ae757a37532/27274.jpg
+                            1024w,
+                        
+                            /img/containers/images/27274.jpg/8eaacc7f87d02126b961f0e2e2730cef/27274.jpg
+                            1280w,
+                        
+                            /img/containers/images/27274.jpg/a6e1f87c1e8191534daacc011646feae/27274.jpg
+                            1440w,
+                        
+                            /img/containers/images/27274.jpg/67399957d74e9a713af96fa694aefafc/27274.jpg
+                            1536w,
+                        
+                            /img/containers/images/27274.jpg/46d315216ce0cb0ba4a911fe50d71798/27274.jpg
+                            1680w
+                        
+                    "
+                    sizes="
+                        100vw
+                    "
+                    type="image/jpeg"
+                >
+                <img
+                    width="1000"
+                    height="667"
+                    src="/img/containers/images/27274.jpg/a82cb69e10e86ef55fc38ae757a37532/27274.jpg"
+                    alt="."
+                    
+                        class="object-cover w-full h-full group-hover:scale-105 duration-200"
+                        style="object-position: 50% 50%"
+                    
+                    
+                        aria-hidden="true"
+                    
+                    
+                        loading="lazy"
+                    
+                >
+            
+        </picture>
+    
+
+
+                    </div>
+                    <div class="text-sm text-secondary mt-2">23/06/2026</div>
+                    <div class="text-lg text-secondary font-bold mt-2 leading-5">
+                        Warme dagen vragen om warme oplossingen
+                    </div>
+                    
+                        <div class="text-lg text-secondary leading-5 pt-2">
+                            
+                                De Medemens
+                                
+                            
+                        </div>
+                    
+                    
+                        <div class="italic text-secondary leading-5 pt-1">
+                            
+                                Kinderopvang
+                                
+                            
+                        </div>
+                    
+                </a>
+            
+                <a
+                    class="
+                    flex flex-col group
+                    "
+                    href="/nieuws/dag-van-de-mantelzorger"
+                    
+                >
+                    <div class="rounded-md h-52 md:h-60 overflow-hidden bg-primary">
+                    
+    
+        
+        
+        
+        
+        
+
+        
+        
+
+        
+        
+
+
+        <picture
+            
+        >
+            
+                <source
+                    srcset="
+                        
+                            /img/containers/images/21-naamloos-422-4.jpg/f11caf83317882ec6b75aba932e6854d/21-naamloos-422-4.webp 320w,
+                        
+                            /img/containers/images/21-naamloos-422-4.jpg/9a3e55b15c13cb16477ff3ca30a1703c/21-naamloos-422-4.webp 480w,
+                        
+                            /img/containers/images/21-naamloos-422-4.jpg/c68900eef52f4bcd41694a82b2bdde0d/21-naamloos-422-4.webp 640w,
+                        
+                            /img/containers/images/21-naamloos-422-4.jpg/ff55ffe2e399bb364ad15f618e392448/21-naamloos-422-4.webp 768w,
+                        
+                            /img/containers/images/21-naamloos-422-4.jpg/96eb8bbd79e9505d4c7d1e8738b66a84/21-naamloos-422-4.webp 1024w,
+                        
+                            /img/containers/images/21-naamloos-422-4.jpg/13ccbe1ae7b60a439a7915c41adf8d03/21-naamloos-422-4.webp 1280w,
+                        
+                            /img/containers/images/21-naamloos-422-4.jpg/073d8c347bcf2947241f455f800448d9/21-naamloos-422-4.webp 1440w,
+                        
+                            /img/containers/images/21-naamloos-422-4.jpg/757fb7038806c63c3dcd893d1b3c8092/21-naamloos-422-4.webp 1536w,
+                        
+                            /img/containers/images/21-naamloos-422-4.jpg/22744f57fb258924829f1c4bc4d8a7d4/21-naamloos-422-4.webp 1680w
+                        
+                    "
+                    sizes="
+                        100vw
+                    "
+                    type="image/webp"
+                >
+                <source
+                    srcset="
+                        
+                            /img/containers/images/21-naamloos-422-4.jpg/d1b7717fe3a4bed95b790fd166bad359/21-naamloos-422-4.jpg
+                            320w,
+                        
+                            /img/containers/images/21-naamloos-422-4.jpg/d503c6c69e4227f7eacb53c818a32f75/21-naamloos-422-4.jpg
+                            480w,
+                        
+                            /img/containers/images/21-naamloos-422-4.jpg/2bdb5cb0efcc3378d796b74f906f652f/21-naamloos-422-4.jpg
+                            640w,
+                        
+                            /img/containers/images/21-naamloos-422-4.jpg/a06020e85487283a7f4abaf82c076c51/21-naamloos-422-4.jpg
+                            768w,
+                        
+                            /img/containers/images/21-naamloos-422-4.jpg/bfa800d6a6d3072df2e01c23365a4be1/21-naamloos-422-4.jpg
+                            1024w,
+                        
+                            /img/containers/images/21-naamloos-422-4.jpg/eef2321aa3f4df720045efd9e479d693/21-naamloos-422-4.jpg
+                            1280w,
+                        
+                            /img/containers/images/21-naamloos-422-4.jpg/aed8f71f3d2ae86cd4f0dc4a14da3f9b/21-naamloos-422-4.jpg
+                            1440w,
+                        
+                            /img/containers/images/21-naamloos-422-4.jpg/518f836b952d2464d449923265b7fa59/21-naamloos-422-4.jpg
+                            1536w,
+                        
+                            /img/containers/images/21-naamloos-422-4.jpg/434ef35b1224a647748e08fd467d6c10/21-naamloos-422-4.jpg
+                            1680w
+                        
+                    "
+                    sizes="
+                        100vw
+                    "
+                    type="image/jpeg"
+                >
+                <img
+                    width="1365"
+                    height="2048"
+                    src="/img/containers/images/21-naamloos-422-4.jpg/bfa800d6a6d3072df2e01c23365a4be1/21-naamloos-422-4.jpg"
+                    alt="#dahadikeffenodig."
+                    
+                        class="object-cover w-full h-full group-hover:scale-105 duration-200"
+                        style="object-position: 50% 50%"
+                    
+                    
+                    
+                        loading="lazy"
+                    
+                >
+            
+        </picture>
+    
+
+
+                    </div>
+                    <div class="text-sm text-secondary mt-2">22/06/2026</div>
+                    <div class="text-lg text-secondary font-bold mt-2 leading-5">
+                        De onmisbare ondersteuning van de mantelzorger in de kijker
+                    </div>
+                    
+                        <div class="text-lg text-secondary leading-5 pt-2">
+                            
+                                De Medemens
+                                
+                            
+                        </div>
+                    
+                    
+                        <div class="italic text-secondary leading-5 pt-1">
+                            
+                                Ouderenzorg
+                                
+                            
+                        </div>
+                    
+                </a>
+            
+        </div>
+    
+</div>
+
+    
+        
+
+<div
+    class="fluid-container map-with-markers"
+    x-data="mapbox"
+    x-init='setOptions("pk.REDACTED", { markers: [{"latitude":"51.20647437949778","longitude":"4.468796715341185","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/kinderopvang/t-kinderkasteeltje\u0022\u003E\u0026#039;t Kinderkasteeltje\u003C/a\u003E \u003C/h3\u003E\u003Cp\u003EHerentalsebaan 383 \u003Cbr\u003E2100 Antwerpen\u003C/p\u003E","color":{"value":"#FFB432","label":"Orange","key":"#FFB432"}},{"latitude":"51.200617","longitude":"4.395551","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022https://www.demedemens.be/locaties/kinderopvang/kameleon\u0022\u003EKameleon\u003C/a\u003E\u003C/h3\u003E\u003Cp\u003EJonghelinckstraat 17\u003Cbr\u003E2018 Antwerpen\u003C/p\u003E","color":{"value":"#FFB432","label":"Orange","key":"#FFB432"}},{"latitude":"51.21592719909133","longitude":"4.400909064822454","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/kinderopvang/t-prinsesje\u0022\u003E\u0026#039;t Prinsesje\u003C/a\u003E\u003C/h3\u003E\u003Cp\u003ESint-Antoniusstraat 19\u003Cbr\u003E2000 Antwerpen\u003C/p\u003E","color":{"value":"#FFB432","label":"Orange","key":"#FFB432"}},{"latitude":"51.252180","longitude":"4.456040","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/kinderopvang/het-toverbos\u0022\u003EToverbos\u003C/a\u003E\u003C/h3\u003E\u003Cp\u003ERerum Novarumlaan 1\u003Cbr\u003E2170 Antwerpen\u003C/p\u003E","color":{"value":"#FFB432","label":"Orange","key":"#FFB432"}},{"latitude":"51.197960","longitude":"4.406750","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/kinderopvang/de-droomvlucht\u0022\u003EDe Droomvlucht \u003C/a\u003E\u003C/h3\u003E\u003Cp\u003ELokkaardstraat 8\u003Cbr\u003E2018 Antwerpen\u003C/p\u003E","color":{"value":"#FFB432","label":"Orange","key":"#FFB432"}},{"latitude":"51.230320","longitude":"4.450460","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/kinderopvang/t-kinderpaleis\u0022\u003E\u0026#039;t Kinderpaleis\u003C/a\u003E\u003C/h3\u003E\u003Cp\u003EVan Dornestraat 131\u003Cbr\u003E2100 Antwerpen\u003C/p\u003E","color":{"value":"#FFB432","label":"Orange","key":"#FFB432"}},{"latitude":"51.22842589935769","longitude":"4.480042668252588","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/kinderopvang/de-kinderdroom\u0022\u003EDe Kinderdroom\u003C/a\u003E \u003C/h3\u003E\u003Cp\u003EFrans van Heymbeecklaan 7\u003Cbr\u003E2100 Antwerpen\u003C/p\u003E","color":{"value":"#FFB432","label":"Orange","key":"#FFB432"}},{"latitude":"51.360016","longitude":"4.554862","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/ouderenzorg/amandina\u0022\u003EAmandina \u003C/a\u003E\u003C/h3\u003E\u003Cp\u003EBredabaan 737\u003Cbr\u003E2990 Wuustwezel\u003C/p\u003E","color":{"value":"#00738F","label":"Blue","key":"#00738F"}},{"latitude":"51.234170","longitude":"4.413300","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/ouderenzorg/het-gouden-anker\u0022\u003EHet Gouden Anker\u003C/a\u003E\u003C/h3\u003E\u003Cp\u003EBinnenvaartstraat 50\u003Cbr\u003E2000 Antwerpen\u003C/p\u003E","color":{"value":"#00738F","label":"Blue","key":"#00738F"}},{"latitude":"51.215980","longitude":"4.400100","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/ouderenzorg/huizeken-van-nazareth\u0022\u003EHuizeken van Nazareth \u003C/a\u003E\u003C/h3\u003E\u003Cp\u003ESint-Antoniusstraat 21 \u003Cbr\u003E2000 Antwerpen\u003C/p\u003E","color":{"value":"#00738F","label":"Blue","key":"#00738F"}},{"latitude":"51.232530","longitude":"4.674380","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/ouderenzorg/olv-van-troost\u0022\u003EO.L.V. van Troost \u003C/a\u003E\u003C/h3\u003E\u003Cp\u003ENazarethpad 107\u003Cbr\u003E2240 Zandhoven\u003C/p\u003E","color":{"value":"#00738F","label":"Blue","key":"#00738F"}},{"latitude":"51.127500","longitude":"4.577090","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/ouderenzorg/sint-jozef\u0022\u003ESint-Jozef\u003C/a\u003E\u003C/h3\u003E\u003Cp\u003EKoningin-Astridlaan 4\u003Cbr\u003E2500 Lier\u003C/p\u003E","color":{"value":"#00738F","label":"Blue","key":"#00738F"}},{"latitude":"51.23288413475762","longitude":"4.410916494024574","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/ouderenzorg/cadiz\u0022\u003ECadiz \u003C/a\u003E\u003C/h3\u003E\u003Cp\u003ENapelsstraat 70\u003Cbr\u003E2000 Antwerpen\u003C/p\u003E","color":{"value":"#00738F","label":"Blue","key":"#00738F"}},{"latitude":"51.47045815669903","longitude":"4.468648679666997","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/ouderenzorg/de-bijster\u0022\u003EDe Bijster\u003C/a\u003E \u003C/h3\u003E\u003Cp\u003ENollekensstraat 15\u003Cbr\u003E2910 Essen\u003C/p\u003E","color":{"value":"#00738F","label":"Blue","key":"#00738F"}},{"latitude":"51.13251743841196","longitude":"4.444686693322655","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/ouderenzorg/de-hazelaar\u0022\u003EDe Hazelaar\u003C/a\u003E \u003C/h3\u003E\u003Cp\u003EWitvrouwenveldstraat 1\u003Cbr\u003E2550 Kontich\u003C/p\u003E","color":{"value":"#00738F","label":"Blue","key":"#00738F"}},{"latitude":"51.22244549715368","longitude":"4.42762079886974","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/ouderenzorg/de-zavel\u0022\u003EDe Zavel\u003C/a\u003E\u003C/h3\u003E\u003Cp\u003EDuinstraat 21\u003Cbr\u003E2060 Antwerpen\u003C/p\u003E","color":{"value":"#00738F","label":"Blue","key":"#00738F"}},{"latitude":"51.125306777138704","longitude":"4.335153154830725","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/ouderenzorg/heide-velden\u0022\u003EHeide Velden\u003C/a\u003E\u003C/h3\u003E\u003Cp\u003EFabiolalaan 66\u003Cbr\u003E2627 Schelle\u003C/p\u003E","color":{"value":"#00738F","label":"Blue","key":"#00738F"}},{"latitude":"51.18603057715399","longitude":"4.3827108482678","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/ouderenzorg/hollebeek\u0022\u003EHollebeek\u003C/a\u003E \u003C/h3\u003E\u003Cp\u003ETurnersstraat 38 \u003Cbr\u003E2020 Antwerpen\u003C/p\u003E","color":{"value":"#00738F","label":"Blue","key":"#00738F"}},{"latitude":"51.10917","longitude":"4.32115","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022https://www.demedemens.be/locaties/ouderenzorg/maria-boodschap\u0022\u003EMaria Boodschap\u003C/a\u003E\u003C/h3\u003E\u003Cp\u003EKapellensteenweg 81\u003Cbr\u003E2920 Kalmthout\u003C/p\u003E","color":{"value":"#00738F","label":"Blue","key":"#00738F"}},{"latitude":"51.170660","longitude":"4.397370","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/ouderenzorg/sint-bavo\u0022\u003ESint-Bavo \u003C/a\u003E\u003C/h3\u003E\u003Cp\u003ESint-Bavostraat 29\u003Cbr\u003E2610 Wilrijk\u003C/p\u003E","color":{"value":"#00738F","label":"Blue","key":"#00738F"}},{"latitude":"51.197820","longitude":"4.406530","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/ouderenzorg/sint-camillus\u0022\u003ESint-Camillus \u003C/a\u003E\u003C/h3\u003E\u003Cp\u003ELokkaardstraat 10\u003Cbr\u003E2018 Antwerpen\u003C/p\u003E","color":{"value":"#00738F","label":"Blue","key":"#00738F"}},{"latitude":"51.199631","longitude":"4.398110","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/ouderenzorg/sint-gabriel\u0022\u003ESint-Gabriël\u003C/a\u003E\u003C/h3\u003E\u003Cp\u003EVan Peltstraat 25\u003Cbr\u003E2018 Antwerpen\u003C/p\u003E","color":{"value":"#00738F","label":"Blue","key":"#00738F"}},{"latitude":"51.1591542","longitude":"4.4856896","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/ouderenzorg/sint-mathildis\u0022\u003ESint-Mathildis \u003C/a\u003E\u003C/h3\u003E\u003Cp\u003ESportveldlaan 25\u003Cbr\u003E2530 Boechout\u003C/p\u003E","color":{"value":"#00738F","label":"Blue","key":"#00738F"}},{"latitude":"51.38882976341007","longitude":"4.476000415515643","popup":true,"content":"\u003Ch3\u003E\u003Ca href=\u0022/locaties/ouderenzorg/sint-vincentius\u0022\u003ESint-Vincentius\u003C/a\u003E\u003C/h3\u003E\u003Cp\u003EKapellensteenweg 81\u003Cbr\u003E2920 Kalmthout\u003C/p\u003E","color":{"value":"#00738F","label":"Blue","key":"#00738F"}}] })'
+    x-intersect.once="triggerInitMap"
+    x-intersect:enter="resizeMap"
+>
+    <h2 class="text-2xl font-semibold leading-tight text-secondary mb-8 text-secondary">U vindt ons hier</h2>
+
+
+    <div class="h-112 md:h-120 xl:h-132 rounded-md overflow-hidden">
+        <div x-ref="container" class="w-full !h-full"></div>
+    </div>
+</div>
+
+    
+        <div class="max-w-screen">
+    <div class="fluid-container">
+        <h2 class="text-2xl font-semibold leading-tight text-secondary text-secondary mb-8">De Medemensen vertellen</h2>
+
+
+        <div
+            class="relative flex items-center"
+            x-data="testimonials"
+            x-intersect.once="initializeSlider"
+            x-cloak
+        >
+            <button
+                class="bg-tertiary rounded-full w-8 h-8 md:w-10 w-8 h-8 md:h-10 text-secondary absolute left-2 md:left-4 hover:shadow-md group top-28 md:top-auto z-10"
+                x-ref="swiper_previous_arrow"
+            >
+                <span class="sr-only">Vorige</span>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa group-hover:-translate-x-0.5 duration-100" role="img" aria-hidden="true" style="color:currentColor"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M9.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l192 192c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256 246.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-192 192z" fill="currentColor"></path></svg>
+
+            </button>
+            <button
+                class="bg-tertiary rounded-full w-8 h-8 md:w-10 w-8 h-8 md:h-10 text-secondary absolute right-2 md:right-4 hover:shadow-md group top-28 md:top-auto z-10"
+                x-ref="swiper_next_arrow"
+            >
+                <span class="sr-only">Volgende</span>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa group-hover:translate-x-0.5 duration-100" role="img" aria-hidden="true" style="color:currentColor"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z" fill="currentColor"></path></svg>
+
+            </button>
+            <div x-ref="testimonials_slider" class="swiper">
+                <div class="swiper-wrapper w-full">
+                    
+                        <div class="swiper-slide !h-auto !w-full">
+                            <div class="bg-secondary rounded-md flex flex-col md:flex-row md:justify-between h-full overflow-hidden">
+                                <div class="w-5/6 md:w-5/12 overflow-hidden rounded-r-full h-64 md:h-auto md:min-h-80 lg:min-h-96 relative md:static flex items-center md:block">
+                                    
+    
+        
+        
+        
+        
+        
+
+        
+        
+
+        
+        
+
+
+        <picture
+            
+                class="h-full w-full"
+            
+        >
+            
+                <source
+                    srcset="
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/df3d73ad4173166bea868baf1c0992d2/gwenny-van-de-putte---2025.webp 320w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/31b0a8696eec14f7476f6b2154d6a0d9/gwenny-van-de-putte---2025.webp 480w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/b51b1763b0bd5dbac0fbe72f5895954e/gwenny-van-de-putte---2025.webp 640w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/01547e3820c3fbbde5357cbed2e54710/gwenny-van-de-putte---2025.webp 768w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/f9a0074830ab9c78c43410a863609fc8/gwenny-van-de-putte---2025.webp 1024w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/0434ae32e025f4d3aff9274e1f246628/gwenny-van-de-putte---2025.webp 1280w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/dc148fd23c064368f88e49067d156608/gwenny-van-de-putte---2025.webp 1440w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/620405bbd3be8c0755cb8779fee48dea/gwenny-van-de-putte---2025.webp 1536w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/c286e8b18fc94fc0131b0c41896401be/gwenny-van-de-putte---2025.webp 1680w
+                        
+                    "
+                    sizes="
+                                            100vw
+                                        "
+                    type="image/webp"
+                >
+                <source
+                    srcset="
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/f268b9a1f3a6967ebf0e8cb5dc6857b8/gwenny-van-de-putte---2025.webp
+                            320w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/c2522936b49003d51b05a8821743cab0/gwenny-van-de-putte---2025.webp
+                            480w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/7cfb9d47a48b7f9938aaad7077481369/gwenny-van-de-putte---2025.webp
+                            640w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/02ff6068385dd6867847f56e93cade1e/gwenny-van-de-putte---2025.webp
+                            768w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/f1050aec2188a85fda0eaae6c18606f5/gwenny-van-de-putte---2025.webp
+                            1024w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/372c3e2b352bd41288b33f6105e0aca9/gwenny-van-de-putte---2025.webp
+                            1280w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/1a498ebc4b5f022ef152f55f10718b0a/gwenny-van-de-putte---2025.webp
+                            1440w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/d88f0b0742d50fde91ecc649c7f91914/gwenny-van-de-putte---2025.webp
+                            1536w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/8230d7b0339bf7addf31b86340a0152e/gwenny-van-de-putte---2025.webp
+                            1680w
+                        
+                    "
+                    sizes="
+                                            100vw
+                                        "
+                    type="image/webp"
+                >
+                <img
+                    width="1773"
+                    height="2385"
+                    src="/img/containers/images/locatie/ouderenzorg/algemeen/gwenny-van-de-putte---2025.webp/f1050aec2188a85fda0eaae6c18606f5/gwenny-van-de-putte---2025.webp"
+                    alt="."
+                    
+                        class="object-cover w-full h-full group-hover:scale-105 duration-200 min-h-full"
+                        style="object-position: 50% 50%"
+                    
+                    
+                        aria-hidden="true"
+                    
+                    
+                        loading="lazy"
+                    
+                >
+            
+        </picture>
+    
+
+
+                                </div>
+                                <div class="w-full md:w-1/2 flex flex-col justify-center p-6 md:pl-0 md:py-4 md:pr-28">
+                                    <div class="simple-bard text-white font-semibold">
+    <p>&quot;Bij De Medemens kan ik mijn passie voor zorg combineren met mijn drive om écht iets te betekenen voor anderen. De waarden van de organisatie sluiten mooi aan bij wat ik zelf belangrijk vind.</p><p>Ik krijg de ruimte om mijn ervaring in te zetten én bij te leren. Samenwerken met verschillende teams, meewerken aan betere zorgprocessen, opleidingen geven en bijdragen aan tevreden cliënten: dat maakt mijn werk boeiend en waardevol.&quot;</p>
+</div>
+
+                                    <div class="text-tertiary font-bold mt-4">Gwenny Van de Putte</div>
+                                    
+                                        <div class="text-tertiary">Regionale kwaliteitscoördinator</div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="swiper-slide !h-auto !w-full">
+                            <div class="bg-secondary rounded-md flex flex-col md:flex-row md:justify-between h-full overflow-hidden">
+                                <div class="w-5/6 md:w-5/12 overflow-hidden rounded-r-full h-64 md:h-auto md:min-h-80 lg:min-h-96 relative md:static flex items-center md:block">
+                                    
+    
+        
+        
+        
+        
+        
+
+        
+        
+
+        
+        
+
+
+        <picture
+            
+                class="h-full w-full"
+            
+        >
+            
+                <source
+                    srcset="
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/564b69be1e406b6c6cbac99165f98a3b/kinderdagverblijven-open-end-materiaal.webp 320w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/714b4618e7f0de395b05e060bfb2d183/kinderdagverblijven-open-end-materiaal.webp 480w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/e843b1c9e489bf7a6b8eb6445a97f66b/kinderdagverblijven-open-end-materiaal.webp 640w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/8529bb45fc06bd2198824f1727fb65ec/kinderdagverblijven-open-end-materiaal.webp 768w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/19ed02562c6feac03b0f3ceb456b70b4/kinderdagverblijven-open-end-materiaal.webp 1024w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/a6d067d71c7a0fc0ab5274db5000087f/kinderdagverblijven-open-end-materiaal.webp 1280w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/2c073c1dba60d6ac049378ce453292da/kinderdagverblijven-open-end-materiaal.webp 1440w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/6ac1895b9ddafba2803d2ae2306610cd/kinderdagverblijven-open-end-materiaal.webp 1536w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/f014846471caa03d4585fecd16a1e5ad/kinderdagverblijven-open-end-materiaal.webp 1680w
+                        
+                    "
+                    sizes="
+                                            100vw
+                                        "
+                    type="image/webp"
+                >
+                <source
+                    srcset="
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/7e73bc987c0c77522458c525f18448b6/kinderdagverblijven-open-end-materiaal.jpg
+                            320w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/3a57cb8bdef9d44a91d6fd1962393039/kinderdagverblijven-open-end-materiaal.jpg
+                            480w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/a8de839038e81d5a8c4a265f47bac854/kinderdagverblijven-open-end-materiaal.jpg
+                            640w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/b5654e26a8562c67b6f47618c0e3e55e/kinderdagverblijven-open-end-materiaal.jpg
+                            768w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/ff8e6a58a872150fad4c3cd30b9182f8/kinderdagverblijven-open-end-materiaal.jpg
+                            1024w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/700938a0232f887d856e22eb7e3f60a1/kinderdagverblijven-open-end-materiaal.jpg
+                            1280w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/16b79d19ce70d0881da1bb758b1aeb88/kinderdagverblijven-open-end-materiaal.jpg
+                            1440w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/6c2691cbf3342a31af728d8454d4430d/kinderdagverblijven-open-end-materiaal.jpg
+                            1536w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/1daa3ca7f9e8a6f83d4576024e23222b/kinderdagverblijven-open-end-materiaal.jpg
+                            1680w
+                        
+                    "
+                    sizes="
+                                            100vw
+                                        "
+                    type="image/jpeg"
+                >
+                <img
+                    width="6000"
+                    height="4000"
+                    src="/img/containers/images/locatie/ouderenzorg/algemeen/kinderdagverblijven-open-end-materiaal.jpg/ff8e6a58a872150fad4c3cd30b9182f8/kinderdagverblijven-open-end-materiaal.jpg"
+                    alt="."
+                    
+                        class="object-cover w-full h-full group-hover:scale-105 duration-200 min-h-full"
+                        style="object-position: 50% 50%"
+                    
+                    
+                        aria-hidden="true"
+                    
+                    
+                        loading="lazy"
+                    
+                >
+            
+        </picture>
+    
+
+
+                                </div>
+                                <div class="w-full md:w-1/2 flex flex-col justify-center p-6 md:pl-0 md:py-4 md:pr-28">
+                                    <div class="simple-bard text-white font-semibold">
+    <p>“Bij De Medemens zetten we sterk in op wat kinderen nodig hebben voor hun ontwikkeling. We prikkelen hun zintuigen door te werken met open-end materiaal (kartonnen dozen, buizen … ) eerder dan met concreet speelgoed. We spelen in op waar ze klaar voor zijn, waar ze nood aan hebben.&quot;</p>
+</div>
+
+                                    <div class="text-tertiary font-bold mt-4">Anne Mie Bruggeman</div>
+                                    
+                                        <div class="text-tertiary">Pedagogisch stafmedewerker</div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="swiper-slide !h-auto !w-full">
+                            <div class="bg-secondary rounded-md flex flex-col md:flex-row md:justify-between h-full overflow-hidden">
+                                <div class="w-5/6 md:w-5/12 overflow-hidden rounded-r-full h-64 md:h-auto md:min-h-80 lg:min-h-96 relative md:static flex items-center md:block">
+                                    
+    
+        
+        
+        
+        
+        
+
+        
+        
+
+        
+        
+
+
+        <picture
+            
+                class="h-full w-full"
+            
+        >
+            
+                <source
+                    srcset="
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/ba8c0c2672cff9cac558724873939aff/ouderenweek-_sjl-1.webp 320w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/4656944d0b32f02a82f0a0aeeae65e65/ouderenweek-_sjl-1.webp 480w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/7c2399c1a89be4386f71177c262bff93/ouderenweek-_sjl-1.webp 640w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/1aa32bc9bb1238f79bb50f4066851a96/ouderenweek-_sjl-1.webp 768w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/5bd3cb90d7b96f15304a86ddfb68499b/ouderenweek-_sjl-1.webp 1024w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/c3ddc266dfc5d261e009911c4c0271e5/ouderenweek-_sjl-1.webp 1280w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/b7748c1df0a5ce65245c4aa55055c9c3/ouderenweek-_sjl-1.webp 1440w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/905523c9be8bd9e233166377eca46133/ouderenweek-_sjl-1.webp 1536w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/80959e74e11291a2776107a8260832b5/ouderenweek-_sjl-1.webp 1680w
+                        
+                    "
+                    sizes="
+                                            100vw
+                                        "
+                    type="image/webp"
+                >
+                <source
+                    srcset="
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/4f459c1b05855defb93e3e2ae5442f25/ouderenweek-_sjl-1.png
+                            320w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/51b657963b3fb4b28b1b591c0157d02b/ouderenweek-_sjl-1.png
+                            480w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/5ed1b12ca31551d679634136c211d10c/ouderenweek-_sjl-1.png
+                            640w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/661f71768b21e8184fa8d17954546df6/ouderenweek-_sjl-1.png
+                            768w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/de2e1df157297744bf36d6678ead5fcc/ouderenweek-_sjl-1.png
+                            1024w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/9351d29328eb5fe6c10be6cab7d72b9d/ouderenweek-_sjl-1.png
+                            1280w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/33222857ac6160ad4ff34e01f666158a/ouderenweek-_sjl-1.png
+                            1440w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/4a458fb504d0b71f85d3464a9227b9e5/ouderenweek-_sjl-1.png
+                            1536w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/7219762ece829e7c4bc18fcb83c3cd0e/ouderenweek-_sjl-1.png
+                            1680w
+                        
+                    "
+                    sizes="
+                                            100vw
+                                        "
+                    type="image/png"
+                >
+                <img
+                    width="1080"
+                    height="1080"
+                    src="/img/containers/images/locatie/ouderenzorg/algemeen/ouderenweek-_sjl-1.png/de2e1df157297744bf36d6678ead5fcc/ouderenweek-_sjl-1.png"
+                    alt="."
+                    
+                        class="object-cover w-full h-full group-hover:scale-105 duration-200 min-h-full"
+                        style="object-position: 50% 50%"
+                    
+                    
+                        aria-hidden="true"
+                    
+                    
+                        loading="lazy"
+                    
+                >
+            
+        </picture>
+    
+
+
+                                </div>
+                                <div class="w-full md:w-1/2 flex flex-col justify-center p-6 md:pl-0 md:py-4 md:pr-28">
+                                    <div class="simple-bard text-white font-semibold">
+    <p>“Op bijna 91-jarige leeftijd geniet ik van het leven hier en waardeer ik de zelfstandigheid die ik behoud. Met regelmatig bezoek van mijn kinderen en kleinkinderen voel ik me gelukkig. Het sociale contact met bewoners maakt het wonen hier extra aangenaam. De attente begeleiders en gevarieerde activiteiten zorgen regelmatig voor een bijzondere dag.&quot;</p>
+</div>
+
+                                    <div class="text-tertiary font-bold mt-4">Pol</div>
+                                    
+                                        <div class="text-tertiary">woont in een assistentiewoning in Sint-Jozef</div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="swiper-slide !h-auto !w-full">
+                            <div class="bg-secondary rounded-md flex flex-col md:flex-row md:justify-between h-full overflow-hidden">
+                                <div class="w-5/6 md:w-5/12 overflow-hidden rounded-r-full h-64 md:h-auto md:min-h-80 lg:min-h-96 relative md:static flex items-center md:block">
+                                    
+    
+        
+        
+        
+        
+        
+
+        
+        
+
+        
+        
+
+
+        <picture
+            
+                class="h-full w-full"
+            
+        >
+            
+                <source
+                    srcset="
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/656235a68959e2ac20e837fa09a91462/wendy-hallemans.webp 320w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/886924e89c5b7ad5ad3dbc4359a11cd6/wendy-hallemans.webp 480w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/f75bbc585746d167fa7c9529a1471301/wendy-hallemans.webp 640w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/7799990a4f1253179f77bd2ad70563d4/wendy-hallemans.webp 768w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/61a912dd4665a241b4dd957b9e41e507/wendy-hallemans.webp 1024w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/21b1611fc586e327e2fd00df83c55ca3/wendy-hallemans.webp 1280w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/a2d464cb41d2ff5385999a1a1d41c0a5/wendy-hallemans.webp 1440w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/aa383872800463196a323a31fe3be766/wendy-hallemans.webp 1536w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/84b89b8d2499b9bf22b8876c950afb9d/wendy-hallemans.webp 1680w
+                        
+                    "
+                    sizes="
+                                            100vw
+                                        "
+                    type="image/webp"
+                >
+                <source
+                    srcset="
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/1e4a180e5dddc2986995dc35cb2255e0/wendy-hallemans.webp
+                            320w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/85eeaf87c73c12cab6164763b6c65deb/wendy-hallemans.webp
+                            480w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/52d1e02bee6bb68ad4b81513e922e2a5/wendy-hallemans.webp
+                            640w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/b8e3c42db9bf7402a8987d710f0722dd/wendy-hallemans.webp
+                            768w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/aff2645838324652a396622b7eebf8e8/wendy-hallemans.webp
+                            1024w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/9d9901212a14c13782c683bb8e488528/wendy-hallemans.webp
+                            1280w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/6400a993487480b58c0c210fd8e7062e/wendy-hallemans.webp
+                            1440w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/c34a77e4c7de657e0d0b80191bff646e/wendy-hallemans.webp
+                            1536w,
+                        
+                            /img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/f637aa1b5e286657dbf84c70fbdd7dfa/wendy-hallemans.webp
+                            1680w
+                        
+                    "
+                    sizes="
+                                            100vw
+                                        "
+                    type="image/webp"
+                >
+                <img
+                    width="4000"
+                    height="5328"
+                    src="/img/containers/images/locatie/ouderenzorg/algemeen/wendy-hallemans.webp/aff2645838324652a396622b7eebf8e8/wendy-hallemans.webp"
+                    alt="."
+                    
+                        class="object-cover w-full h-full group-hover:scale-105 duration-200 min-h-full"
+                        style="object-position: 50% 50%"
+                    
+                    
+                        aria-hidden="true"
+                    
+                    
+                        loading="lazy"
+                    
+                >
+            
+        </picture>
+    
+
+
+                                </div>
+                                <div class="w-full md:w-1/2 flex flex-col justify-center p-6 md:pl-0 md:py-4 md:pr-28">
+                                    <div class="simple-bard text-white font-semibold">
+    <p><em>&quot;Ik werk graag als stafmedewerker kwaliteitsbeleid voor De Medemens omdat we een unieke structuur hebben waarmee we samen werken aan kwaliteit.</em></p><p></p><p><em>Via beleids- en referentiegroepen voor de meest belangrijk thema’s, kan iedere medewerker rechtstreeks of onrechtstreeks participeren of een stem laten horen. Op die manier verbinden we centrale expertise aan kennis en ervaring uit de praktijk. Regionale kwaliteitscoördinatoren maken daarbij een extra brug tussen beleid en praktijk. Samen met elk huis en met respect voor de lokale eigenheid.</em></p><p></p><p><em>Het is misschien niet altijd de snelste weg… maar wel de mooiste en de meest verrijkende! Want iedereen maakt en voelt het verschil.&quot;</em></p>
+</div>
+
+                                    <div class="text-tertiary font-bold mt-4">Wendy Hallemans</div>
+                                    
+                                        <div class="text-tertiary">Stafmedewerker kwaliteitsbeleid</div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+</main>
+
+
+
+        
+    <button
+        class="fixed bottom-12 lg:bottom-20 right-0 z-50 bg-primary text-3xl text-white border-2 border-r-0 border-white rounded-l-full py-2 pl-4 pr-6 duration-200 group"
+        x-data="scrollToTop"
+        x-cloak
+        @scroll.window="displayButton"
+        @click="scrollToTop"
+        :class="{ 'translate-x-0': show, 'translate-x-full': !show }"
+    >
+        <span class="sr-only">Naar begin van de pagina</span>
+        <span class="group-hover:translate-y-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" class="svg-inline--fa" role="img" aria-hidden="true" style="color:currentColor"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M214.6 41.4c-12.5-12.5-32.8-12.5-45.3 0l-160 160c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 141.2V448c0 17.7 14.3 32 32 32s32-14.3 32-32V141.2L329.4 246.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-160-160z" fill="currentColor"></path></svg>
+</span>
+    </button>
+
+
+
+        <footer class="w-full mt-auto">
+    
+    <div class="bg-primary py-6 md:py-8 lg:py-12">
+        <div class="fluid-container flex flex-wrap flex-col lg:flex-row gap-4 lg:gap-8 lg:justify-between items-center lg:items-start">
+            <div class="text-secondary flex flex-col items-center lg:items-start gap-4">
+                <a
+                    class="focus:outline-none focus-visible:ring-2 ring-primary"
+                    aria-label="Logo De Medemens"
+                    href="/"
+                >
+                    <img src="/visuals/de-medemens-logo-footer.svg" class="select-none " width="150" alt="De Medemens"/>
+                </a>
+                <div class="font-bold text-sm">
+                    De Medemens<br />
+Lokkaardstraat 10<br />
+2018 Antwerpen
+                </div>
+                
+                    <div class="flex gap-3">
+                        
+                            <a
+                                href="https://www.facebook.com/demedemens"
+                                title="Facebook"
+                                
+                                    target="_blank"
+                                    rel="noopener noreferer"
+                                
+                                class="text-2xl hover:scale-105 transition-transform duration-200"
+                                aria-label="De Medemens op Facebook"
+                            >
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa" role="img" aria-hidden="true" style="color:currentColor"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z" fill="currentColor"></path></svg>
+
+                            </a>
+                        
+                            <a
+                                href="https://instagram.com/demedemens"
+                                title="Instagram"
+                                
+                                    target="_blank"
+                                    rel="noopener noreferer"
+                                
+                                class="text-2xl hover:scale-105 transition-transform duration-200"
+                                aria-label="De Medemens op Instagram"
+                            >
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="svg-inline--fa" role="img" aria-hidden="true" style="color:currentColor"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M224,202.66A53.34,53.34,0,1,0,277.36,256,53.38,53.38,0,0,0,224,202.66Zm124.71-41a54,54,0,0,0-30.41-30.41c-21-8.29-71-6.43-94.3-6.43s-73.25-1.93-94.31,6.43a54,54,0,0,0-30.41,30.41c-8.28,21-6.43,71.05-6.43,94.33S91,329.26,99.32,350.33a54,54,0,0,0,30.41,30.41c21,8.29,71,6.43,94.31,6.43s73.24,1.93,94.3-6.43a54,54,0,0,0,30.41-30.41c8.35-21,6.43-71.05,6.43-94.33S357.1,182.74,348.75,161.67ZM224,338a82,82,0,1,1,82-82A81.9,81.9,0,0,1,224,338Zm85.38-148.3a19.14,19.14,0,1,1,19.13-19.14A19.1,19.1,0,0,1,309.42,189.74ZM400,32H48A48,48,0,0,0,0,80V432a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V80A48,48,0,0,0,400,32ZM382.88,322c-1.29,25.63-7.14,48.34-25.85,67s-41.4,24.63-67,25.85c-26.41,1.49-105.59,1.49-132,0-25.63-1.29-48.26-7.15-67-25.85s-24.63-41.42-25.85-67c-1.49-26.42-1.49-105.61,0-132,1.29-25.63,7.07-48.34,25.85-67s41.47-24.56,67-25.78c26.41-1.49,105.59-1.49,132,0,25.63,1.29,48.33,7.15,67,25.85s24.63,41.42,25.85,67.05C384.37,216.44,384.37,295.56,382.88,322Z" fill="currentColor"></path></svg>
+
+                            </a>
+                        
+                            <a
+                                href="https://www.linkedin.com/company/demedemens/"
+                                title="LinkedIn"
+                                
+                                    target="_blank"
+                                    rel="noopener noreferer"
+                                
+                                class="text-2xl hover:scale-105 transition-transform duration-200"
+                                aria-label="De Medemens op LinkedIn"
+                            >
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="svg-inline--fa" role="img" aria-hidden="true" style="color:currentColor"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z" fill="currentColor"></path></svg>
+
+                            </a>
+                        
+                    </div>
+                
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-5 justify-between gap-x-8 md:gap-8 xl:gap-x-12 w-full lg:w-auto">
+                
+    <div
+        class="flex flex-col border-b py-2 first:pt-0 border-secondary-800 border-opacity-50 md:border-none md:p-0 lg:max-w-40"
+        
+        x-data="{ subnavOpen: false }"
+        @click.away="subnavOpen = false"
+        
+    >
+        <button
+            class="font-bold text-lg text-secondary md:pointer-events-none flex items-center justify-between w-full"
+            
+            @click="subnavOpen = !subnavOpen"
+            
+        >
+            Aanbod
+            
+                <div class="duration-200 md:hidden" :class="{ 'rotate-180': subnavOpen }">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa" role="img" aria-hidden="true" style="color:currentColor"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M239 401c9.4 9.4 24.6 9.4 33.9 0L465 209c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0l-175 175L81 175c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9L239 401z" fill="currentColor"></path></svg>
+
+                </div>
+            
+        </button>
+        
+            <div
+                class="md:!block md:!h-auto md:!overflow-auto"
+                
+                x-cloak
+                x-collapse
+                x-show="subnavOpen"
+                
+            >
+                
+                <a
+                    href="/aanbod/permanent-verblijf"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Permanent verblijf
+                </a>
+                
+                <a
+                    href="/aanbod/assistentiewoningen"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Assistentiewoningen
+                </a>
+                
+                <a
+                    href="/aanbod/kortverblijf"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Kortverblijf
+                </a>
+                
+                <a
+                    href="/aanbod/lokaal-dienstencentrum"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Lokaal dienstencentrum
+                </a>
+                
+                <a
+                    href="/aanbod/specifieke-leefgroep"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Specifieke leefgroep
+                </a>
+                
+                <a
+                    href="/aanbod/centrum-voor-dagverzorging"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Centrum voor dagverzorging
+                </a>
+                
+                <a
+                    href="/aanbod/kinderopvang"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Kinderopvang
+                </a>
+                
+            </div>
+        
+    </div>
+
+    <div
+        class="flex flex-col border-b py-2 first:pt-0 border-secondary-800 border-opacity-50 md:border-none md:p-0 lg:max-w-40"
+        
+        x-data="{ subnavOpen: false }"
+        @click.away="subnavOpen = false"
+        
+    >
+        <button
+            class="font-bold text-lg text-secondary md:pointer-events-none flex items-center justify-between w-full"
+            
+            @click="subnavOpen = !subnavOpen"
+            
+        >
+            Locaties
+            
+                <div class="duration-200 md:hidden" :class="{ 'rotate-180': subnavOpen }">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa" role="img" aria-hidden="true" style="color:currentColor"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M239 401c9.4 9.4 24.6 9.4 33.9 0L465 209c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0l-175 175L81 175c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9L239 401z" fill="currentColor"></path></svg>
+
+                </div>
+            
+        </button>
+        
+            <div
+                class="md:!block md:!h-auto md:!overflow-auto"
+                
+                x-cloak
+                x-collapse
+                x-show="subnavOpen"
+                
+            >
+                
+                <a
+                    href="/locaties/ouderenzorg"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Ouderenzorg
+                </a>
+                
+                <a
+                    href="/locaties/kinderopvang"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Kinderopvang
+                </a>
+                
+            </div>
+        
+    </div>
+
+    <div
+        class="flex flex-col border-b py-2 first:pt-0 border-secondary-800 border-opacity-50 md:border-none md:p-0 lg:max-w-40"
+        
+        x-data="{ subnavOpen: false }"
+        @click.away="subnavOpen = false"
+        
+    >
+        <button
+            class="font-bold text-lg text-secondary md:pointer-events-none flex items-center justify-between w-full"
+            
+            @click="subnavOpen = !subnavOpen"
+            
+        >
+            Jobs
+            
+                <div class="duration-200 md:hidden" :class="{ 'rotate-180': subnavOpen }">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa" role="img" aria-hidden="true" style="color:currentColor"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M239 401c9.4 9.4 24.6 9.4 33.9 0L465 209c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0l-175 175L81 175c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9L239 401z" fill="currentColor"></path></svg>
+
+                </div>
+            
+        </button>
+        
+            <div
+                class="md:!block md:!h-auto md:!overflow-auto"
+                
+                x-cloak
+                x-collapse
+                x-show="subnavOpen"
+                
+            >
+                
+                <a
+                    href="https://www.demedemens.be/jobs"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Werken bij De Medemens
+                </a>
+                
+                <a
+                    href="/jobs/vacatures-ouderenzorg"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Vacatures ouderenzorg
+                </a>
+                
+                <a
+                    href="/jobs/vacatures-kinderopvang"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Vacatures kinderopvang
+                </a>
+                
+                <a
+                    href="/jobs/vacatures-ondersteunende-diensten"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Vacatures ondersteunende diensten
+                </a>
+                
+                <a
+                    href="/jobs/studenten"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Studenten
+                </a>
+                
+                <a
+                    href="/jobs/vrijwilligers"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Vrijwilligers
+                </a>
+                
+                <a
+                    href="/jobs/spontane-sollicitaties"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Spontane sollicitatie
+                </a>
+                
+            </div>
+        
+    </div>
+
+    <div
+        class="flex flex-col border-b py-2 first:pt-0 border-secondary-800 border-opacity-50 md:border-none md:p-0 lg:max-w-40"
+        
+        x-data="{ subnavOpen: false }"
+        @click.away="subnavOpen = false"
+        
+    >
+        <button
+            class="font-bold text-lg text-secondary md:pointer-events-none flex items-center justify-between w-full"
+            
+            @click="subnavOpen = !subnavOpen"
+            
+        >
+            Nieuws
+            
+                <div class="duration-200 md:hidden" :class="{ 'rotate-180': subnavOpen }">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa" role="img" aria-hidden="true" style="color:currentColor"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M239 401c9.4 9.4 24.6 9.4 33.9 0L465 209c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0l-175 175L81 175c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9L239 401z" fill="currentColor"></path></svg>
+
+                </div>
+            
+        </button>
+        
+            <div
+                class="md:!block md:!h-auto md:!overflow-auto"
+                
+                x-cloak
+                x-collapse
+                x-show="subnavOpen"
+                
+            >
+                
+                <a
+                    href="https://www.demedemens.be/nieuws"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Nieuwsoverzicht
+                </a>
+                
+            </div>
+        
+    </div>
+
+    <div
+        class="flex flex-col border-b py-2 first:pt-0 border-secondary-800 border-opacity-50 md:border-none md:p-0 lg:max-w-40"
+        
+        x-data="{ subnavOpen: false }"
+        @click.away="subnavOpen = false"
+        
+    >
+        <button
+            class="font-bold text-lg text-secondary md:pointer-events-none flex items-center justify-between w-full"
+            
+            @click="subnavOpen = !subnavOpen"
+            
+        >
+            Over ons
+            
+                <div class="duration-200 md:hidden" :class="{ 'rotate-180': subnavOpen }">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa" role="img" aria-hidden="true" style="color:currentColor"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M239 401c9.4 9.4 24.6 9.4 33.9 0L465 209c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0l-175 175L81 175c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9L239 401z" fill="currentColor"></path></svg>
+
+                </div>
+            
+        </button>
+        
+            <div
+                class="md:!block md:!h-auto md:!overflow-auto"
+                
+                x-cloak
+                x-collapse
+                x-show="subnavOpen"
+                
+            >
+                
+                <a
+                    href="/over-ons/onze-missie-visie-en-waarden"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Onze missie, visie en waarden
+                </a>
+                
+                <a
+                    href="/over-ons/onze-organisatie"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Onze organisatie
+                </a>
+                
+                <a
+                    href="/over-ons/samenwerkingen"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Samenwerkingen
+                </a>
+                
+                <a
+                    href="/over-ons/jaarverslagen"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Jaarverslagen
+                </a>
+                
+                <a
+                    href="/algemene-voorwaarden"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Algemene voorwaarden
+                </a>
+                
+                <a
+                    href="/privacyverklaring"
+                    class="text-secondary md:text-sm font-semibold block"
+                >
+                    Privacyverklaring
+                </a>
+                
+            </div>
+        
+    </div>
+
+
+            </div>
+        </div>
+    </div>
+    <div class="py-4 fluid-container flex flex-col space-y-4 md:space-y-0 md:flex-row md:justify-between md:space-x-4 md:items-center ">
+        <div class="flex flex-col sm:flex-row flex-wrap gap-y-2 text-sm text-secondary sm:items-center">
+            <span>
+                &copy; De Medemens
+            </span>
+            
+                <a class="px-1 -m-1 sm:pl-2 sm:ml-2 sm:border-l border-secondary underline duration-200 hover:text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary" href="/privacyverklaring">Privacyverklaring</a>
+            
+            
+                <a class="px-1 -m-1 sm:pl-2 sm:ml-2 sm:border-l border-secondary underline duration-200 hover:text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary" href="/algemene-voorwaarden">Algemene voorwaarden</a>
+            
+            
+            
+    
+        
+        <span x-data x-cloak>
+            <span x-show="$store && $store.cookieBanner && $store.cookieBanner.consent !== null">
+                <a @click.prevent="$store.cookieBanner.setConsent(null)" class="px-1 -mx-1 sm:pl-2 sm:ml-2 sm:border-l border-secondary underline hover:text-primary focus:outline-none focus-visible:ring-2 ring-primary motion-safe:transition-colors" href="#">Wijzig cookie-voorkeuren</a>
+            </span>
+        </span>
+    
+
+        </div>
+    </div>
+</footer>
+
+        
+    </body>
+</html>

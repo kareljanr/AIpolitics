@@ -52481,3 +52481,8 @@ bud_ben_pnl_jr2025_statutory,vzw_ben_woonzorgnetwerk_roeselare,2025,-114901,-114
 bud_ben_equity_jr2025_statutory,vzw_ben_woonzorgnetwerk_roeselare,2025,4017165,4017165,4017165,CW YE2025 Eigen vermogen / Equity,src_ben_jr2025_cw_en,medium,tick2084; DROP -2.78% vs YE2024 4132067
 bud_ben_bruto_jr2025_statutory,vzw_ben_woonzorgnetwerk_roeselare,2025,15700026,15700026,15700026,CW YE2025 Brutomarge / Gross margin,src_ben_jr2025_cw_en,medium,tick2084; DROP -2.28% vs YE2024 16066582
 bud_ben_fte_jr2025_statutory,vzw_ben_woonzorgnetwerk_roeselare,2025,241.2,241.2,241.2,CW social-balance FTE / Employees,src_ben_jr2025_cw_en,medium,tick2084; FTE JUMP 241.2 (+3.65%) vs YE2024 232.7
+bud_augustinus_halle_omzet_jr2025_statutory,vzw_wzc_sint_augustinus_halle,2025,8948237,8948237,8948237,CW YE2025 omzet / Turnover,src_augustinus_halle_jr2025_cw_en,medium,tick2085; DROP -1.09% vs YE2024 9046991
+bud_augustinus_halle_pnl_jr2025_statutory,vzw_wzc_sint_augustinus_halle,2025,740431,740431,740431,CW YE2025 Profit/Loss,src_augustinus_halle_jr2025_cw_en,medium,tick2085; JUMP +2.76% vs YE2024 PROFIT 720572
+bud_augustinus_halle_equity_jr2025_statutory,vzw_wzc_sint_augustinus_halle,2025,3349221,3349221,3349221,CW YE2025 Eigen vermogen / Equity,src_augustinus_halle_jr2025_cw_en,medium,tick2085; JUMP +18.78% vs YE2024 2819641
+bud_augustinus_halle_bruto_jr2025_statutory,vzw_wzc_sint_augustinus_halle,2025,8376737,8376737,8376737,CW YE2025 Brutomarge / Gross margin,src_augustinus_halle_jr2025_cw_en,medium,tick2085; JUMP +2.21% vs YE2024 8195693
+bud_augustinus_halle_fte_jr2025_statutory,vzw_wzc_sint_augustinus_halle,2025,88.9,88.9,88.9,CW social-balance FTE / Employees,src_augustinus_halle_jr2025_cw_en,medium,tick2085; FTE DROP 88.9 (-4.10%) vs YE2024 92.7
