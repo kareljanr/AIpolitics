@@ -22645,3 +22645,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+6); commitments (+1); leaderboard (+1); entities (updated spge x2); foi + draft gap_spge_nbb_pdf_assets_debt_oaa_matrix_l5; rq_1959=done + rq_1960 open (**EVERY-10 required**); loop_state ticks=1959.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next tick 1960 MUST run EVERY-10** progress coverage % + waste top10). Next: rq_1960 (EVERY-10 + AGB/FARO-if-YE2025 / AIESH-REW / Aquiris-deferred / unused DSO-IGS-HVZ).
+
+
+## Tick 1960 - 2026-08-23T16:45:00Z - rq_1960 EVERY-10 + Aquiris (omzet JUMP 55.27m / pnl JUMP 4.87m / Medium)
+
+- Unit: **rq_1960** AFTER **rq_1959 SPGE**. **EVERY-10 REQUIRED** (progress A–E % of €347.956bn TE + waste top10 by priority_index). Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024**. Took deferred leftover **Aquiris** YE2025 (KBO **0475.443.124**; Vilvoordselaan 450 Brussel; Veolia BOOT STEP Bruxelles-Nord; **Hydria/Vivaqua dual**). Do not redo SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/SWDE.
+- Found: Companyweb NL+EN YE2025 — omzet **EUR55,272,688** JUMP +1.95%; bruto **EUR29,126,214**; pnl **EUR4,867,234** JUMP +326.93%; equity **EUR7,590,000** flat; FTE **62**; KBO kapitaal **EUR6,900,000**; neerlegging **28.07.2026**. Assets/debt Unknown (Upswitch still YE2024-only). Medium confidence.
+- EVERY-10: refreshed `progress_every_10_ticks.md` (A 100% / B 100% / C ~99% / D ~74-88% generous / E ~1576 ready) + `doge_waste_top10_current.md` (pure annual top10 **stable** GIP→dual cars; OWV snowball/Metro3/corrupt AGB pi>10 filtered). Inventory ~budgets 51837 / commitments 5625 / leaderboard 7746 / entities 1663 / sources 4705 / FOI rows ~1628.
+- Wrote: sources (+4); budgets (+6); commitments (+1); leaderboard (+1); entities (+1 nv_aquiris); foi + draft gap_aquiris_nbb_pdf_assets_debt_boot_fee_matrix_l5; progress+top10 md; rq_1960=done + rq_1961 open; loop_state ticks=1960.
+- FOI: **ready not sent** (human-gated).
+- EVERY-10 done this tick. Next every-10: **1970**. Next: rq_1961 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).

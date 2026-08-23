@@ -51830,3 +51830,9 @@ bud_spge_bruto_jr2025_statutory,spge,2025,147515571,,,CW NBB-derived bruto/gross
 bud_spge_equity_jr2025_statutory,spge,2025,2141950395,,,CW NBB-derived equity,src_spge_jr2025_cw,medium,tick1959; YE2025 equity 2141950395 JUMP +2.92pct vs 2081268063
 bud_spge_ebitda_jr2025_statutory,spge,2025,149189634,,,Upswitch NBB-derived EBITDA,src_spge_jr2025_upswitch,medium,tick1959; YE2025 EBITDA 149189634 (~33.1pct of omzet); FOI NBB PDF confirm
 bud_spge_fte_jr2025_statutory,spge,2025,65,,,CW social-balance FTE,src_spge_jr2025_cw,medium,tick1959; YE2025 FTE 65 vs ~58 YE2024 class
+bud_aquiris_omzet_jr2025_statutory,nv_aquiris,2025,55272688,,,CW NBB-derived omzet statutory,src_aquiris_jr2025_cw,medium,tick1960; YE2025 omzet 55272688 JUMP +1.95pct vs 54217274
+bud_aquiris_pnl_jr2025_statutory,nv_aquiris,2025,4867234,,,CW NBB-derived Winst/Verlies,src_aquiris_jr2025_cw,medium,tick1960; YE2025 pnl JUMP 4867234 +326.93pct vs 1140054
+bud_aquiris_bruto_jr2025_statutory,nv_aquiris,2025,29126214,,,CW NBB-derived bruto/gross margin,src_aquiris_jr2025_cw,medium,tick1960; YE2025 bruto 29126214 JUMP +16.04pct vs 25099896
+bud_aquiris_equity_jr2025_statutory,nv_aquiris,2025,7590000,,,CW NBB-derived equity,src_aquiris_jr2025_cw,medium,tick1960; YE2025 equity 7590000 flat vs YE2022-2024; KBO kapitaal 6900000
+bud_aquiris_fte_jr2025_statutory,nv_aquiris,2025,62,,,CW social-balance FTE,src_aquiris_jr2025_cw,medium,tick1960; YE2025 FTE 62 vs 62.4 YE2024
+bud_aquiris_kapitaal_kbo_1960,nv_aquiris,2025,6900000,,,KBO registered capital,src_aquiris_kbo_1960,strong,tick1960; KBO kapitaal 6900000; equity CW 7590000

@@ -20,6 +20,39 @@
 
 ---
 
+## Snapshot at **tick 1960** (2026-08-23)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 1951-1960 Vivaqua/Hydria/BRUGEL/nuclear/water continuum after 1950 Belgoprocess |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 1951-1960 is residual dual L5 (not near-complete of 348bn):** **Vivaqua** omzet JUMP **356.0m** · **Hydria** omzet **45.0m** / bruto NEG **14.9m** · **BRUGEL** vereffend **6.38m** Strong · **EURIDICE** omzet JUMP **3.39m** · **SCK CEN** omzet DROP **99.27m** / LOSS **11.36m** · **FANC** omzet JUMP **34.36m** · **IRE ELiT** omzet JUMP **44.59m** · **IRE FUP** omzet DROP **73.58m** / LOSS **2.23m** · **SPGE** omzet JUMP **450.22m** / pnl JUMP **27.30m** · **Aquiris** omzet JUMP **55.27m** / pnl JUMP **4.87m** Medium (this tick EVERY-10 dual) |
+| **E. FOI-ready gaps** | **~1576** drafts ready | Human send only; answered **~11**; partial **~28**; total FOI rows **~1628** |
+
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/property/renewable/energy/nuclear/water shells** (**NEW 1951-1960** Vivaqua · Hydria · BRUGEL · EURIDICE · SCK CEN · FANC · IRE ELiT · IRE FUP · SPGE · **Aquiris** · prior Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Synatom/Atrias retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs Hydria/Vivaqua/SPGE/Aquafin/CILE/SWDE/IRE/FANC/SCK path possible; Medium aggregators pending NBB PDF.**
+
+### Inventory (tick 1960)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 51837 |
+| commitments.csv | 5625 |
+| leaderboard.csv | 7746 |
+| entities.csv | 1663 |
+| sources.csv | 4705 |
+| FOI ready | 1576 |
+| FOI answered | 11 |
+| FOI partial | 28 |
+| FOI total rows | 1628 |
+| research_queue open | rq_1961 after progress |
+
+### What improved since tick 1950
+
+- **Residual dual (tick1951-1960):** **Vivaqua** · **Hydria** · **BRUGEL** · **EURIDICE** · **SCK CEN** · **FANC** · **IRE ELiT** · **IRE FUP** · **SPGE** · **Aquiris** (this tick EVERY-10 dual — Veolia BOOT STEP Nord YE2025 Medium CW).
+- **Blocked still:** AGB Bornem JR2024-only · FARO NBB YE2025 unpublished (YE2024 filing) · AIESH/REW YE2024-only · Bosgroep IJzer/Houtland/Limburg YE2025 unpublished · prior Eneco deposit FOI stack.
+- **No pure-annual waste top10 reshuffle:** GIP / fossil / company cars / cheque / reporté stack remains #1-10 (re-verified; corrupt AGB pi>10 / OWV snowball stock / Metro3 stock filtered off pure annual). Not TE-additive of ~348bn. TE denominator still **EUR347.956 bn**. Next every-10 is **1970**.
+
 ## Snapshot at **tick 1950** (2026-08-27)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
