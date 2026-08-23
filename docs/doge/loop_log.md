@@ -21965,3 +21965,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+4); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_corda_campus_nbb_pdf_pnl_reconcile_l5; rq_1882=done + rq_1883 open; loop_state ticks=1882.
 - FOI opened: NBB PDF + PnL reconcile / debt schedule / share % (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1890**). Next: rq_1883 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Corda Campus 2.0 if live).
+
+## Tick 1883 - 2026-08-26T12:45:00Z - rq_1883 Corda Campus 2.0 NV (bruto NEG 0.28m / LOSS 0.54m / Medium)
+
+- Unit: **rq_1883** leftover dual after Corda Campus. Prefer NON-Eneco live. Hunt: AGB Bornem still JR2024; Dijk92 CDN **403**; FARO YE2024 only. Took leftover **Corda Campus 2.0 NV** (KBO **0547.573.611**; Kempische steenweg 311 Hasselt; board **LRM + POM Limburg**; Corda expansion sibling of Corda Campus NV).
+- Primary hunt: NBB CDN deposit unresolved. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0547573611/corda-campus-20) (neerlegging **19.06.2026**; YE **31.12.2025**): bruto **NEG EUR-278,808**; PnL **LOSS EUR-537,572**; equity **EUR11,122,344**; omzet **70 empty**; assets **Unknown**. Pappers cash **~2.78m** / findebt **~11.2m**.
+- Wrote: sources (+4); budgets (+3); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_corda20_nbb_pdf_neg_bruto_loss_0_54m_l5; rq_1883=done + rq_1884 open; loop_state ticks=1883.
+- FOI opened: NBB PDF + NEG bruto/LOSS continuity / share % (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1890**). Next: rq_1884 (AGB/Dijk92-if-200 / FARO-if-YE2025 / other HVZ-IGS; LRM incubator stack largely taken).

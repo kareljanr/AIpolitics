@@ -51355,3 +51355,6 @@ bud_corda_campus_omzet_18_19m_jr2025,nv_corda_campus,2025,18186985,,,CW NBB-deri
 bud_corda_campus_bruto_12_79m_jr2025,nv_corda_campus,2025,12793167,,,CW NBB-derived 9900 brutomarge YE31122025,src_corda_campus_jr2025_cw,medium,tick1882; not TE-additive
 bud_corda_campus_pnl_2_10m_jr2025,nv_corda_campus,2025,2100873,,,CW NBB-derived 9904 winst boekjaar,src_corda_campus_jr2025_cw,medium,tick1882; JUMP vs prior 1.31m; Pappers ~4.73m FOI reconcile; not TE-additive
 bud_corda_campus_equity_41_03m_jr2025,nv_corda_campus,2025,41025516,,,CW NBB-derived 10/15 eigen vermogen,src_corda_campus_jr2025_cw,medium,tick1882; UP vs prior 39.69m; not TE-additive
+bud_corda20_bruto_neg_0_28m_jr2025,nv_corda20,2025,-278808,,,CW NBB-derived 9900 brutomarge YE31122025 NEG,src_corda20_jr2025_cw,medium,tick1883; omzet 70 empty; not TE-additive
+bud_corda20_pnl_neg_0_54m_jr2025,nv_corda20,2025,-537572,,,CW NBB-derived 9904 winst boekjaar LOSS,src_corda20_jr2025_cw,medium,tick1883; LOSS deepening vs prior -0.23m; not TE-additive
+bud_corda20_equity_11_12m_jr2025,nv_corda20,2025,11122344,,,CW NBB-derived 10/15 eigen vermogen,src_corda20_jr2025_cw,medium,tick1883; JUMP vs prior 8.80m; not TE-additive
