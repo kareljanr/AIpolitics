@@ -23242,3 +23242,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_sint_carolus_mayerhof); foi + draft gap_sint_carolus_mayerhof_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2025=done + rq_2026 open; loop_state ticks=2025; raw under docs/doge/data/raw/tick2025/.
 - FOI: **ready not sent** (human-gated; info@mayerhof.be).
 - NOT every-10 (**next every-10 is 2030**). Next: rq_2026 (AGB/FARO-if-YE2025 / AIESH-REW / Zilverbos / unused DSO-IGS-HVZ).
+
+
+## Tick 2026 - 2026-08-24T11:10:00Z - rq_2026 WZC Zilverbos Zelzate (omzet JUMP 7.85m / pnl RECOVERY 0.11m / Medium)
+
+- Unit: **rq_2026** leftover dual after **rq_2025 Sint Carolus Mayerhof**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took preferred leftover **WZC Zilverbos Zelzate** YE2025 (KBO **0644.984.078**; Bloemenboslaan 30 Zelzate; Oost-Vlaanderen **WZC VZW** / Zorggroep Agapè). Sint-Carolus Ternat YE2025 also live — deferred. Do not redo Sint Carolus Mayerhof/Evara/Multiversum/Maria Rustoord Ingelmunster/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara Herselt/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR7,846,856** JUMP +2.44%; pnl **EUR113,577** RECOVERY from YE2024 LOSS EUR−732,476; equity **EUR6,050,428** DROP −2.59%; bruto **EUR7,364,283** JUMP +8.53%; FTE **101.4**; neerlegging **11.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@wzczilverbos.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_zilverbos_zelzate); foi + draft gap_wzc_zilverbos_zelzate_nbb_pdf_assets_debt_pnl_recovery_matrix_l5; rq_2026=done + rq_2027 open; loop_state ticks=2026; raw under docs/doge/data/raw/tick2026/.
+- FOI: **ready not sent** (human-gated; info@wzczilverbos.be).
+- NOT every-10 (**next every-10 is 2030**). Next: rq_2027 (AGB/FARO-if-YE2025 / AIESH-REW / Sint-Carolus Ternat / unused DSO-IGS-HVZ).

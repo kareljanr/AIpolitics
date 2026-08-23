@@ -52185,3 +52185,8 @@ bud_sint_carolus_mayerhof_pnl_jr2025_statutory,vzw_sint_carolus_mayerhof,2025,14
 bud_sint_carolus_mayerhof_equity_jr2025_statutory,vzw_sint_carolus_mayerhof,2025,16112179,,,CW YE2025 Eigen vermogen,src_sint_carolus_mayerhof_jr2025_cw,medium,tick2025; equity JUMP 16112179 +0.90pct vs YE2024 15967738
 bud_sint_carolus_mayerhof_bruto_jr2025_statutory,vzw_sint_carolus_mayerhof,2025,11780532,,,CW YE2025 Brutomarge,src_sint_carolus_mayerhof_jr2025_cw,medium,tick2025; bruto DROP 11780532 -0.33pct vs YE2024 11819035
 bud_sint_carolus_mayerhof_fte_jr2025_statutory,vzw_sint_carolus_mayerhof,2025,135.2,,,CW social-balance FTE,src_sint_carolus_mayerhof_jr2025_cw,medium,tick2025; YE2025 FTE JUMP 135.2 vs YE2024 116.2
+bud_wzc_zilverbos_zelzate_omzet_jr2025_statutory,vzw_wzc_zilverbos_zelzate,2025,7846856,,,CW YE2025 omzet / Turnover,src_wzc_zilverbos_zelzate_jr2025_cw,medium,tick2026; omzet JUMP 7846856 +2.44pct vs YE2024 7660297
+bud_wzc_zilverbos_zelzate_pnl_jr2025_statutory,vzw_wzc_zilverbos_zelzate,2025,113577,,,CW YE2025 Profit/Loss,src_wzc_zilverbos_zelzate_jr2025_cw,medium,tick2026; pnl RECOVERY 113577 from YE2024 LOSS -732476
+bud_wzc_zilverbos_zelzate_equity_jr2025_statutory,vzw_wzc_zilverbos_zelzate,2025,6050428,,,CW YE2025 Eigen vermogen,src_wzc_zilverbos_zelzate_jr2025_cw,medium,tick2026; equity DROP 6050428 -2.59pct vs YE2024 6211024
+bud_wzc_zilverbos_zelzate_bruto_jr2025_statutory,vzw_wzc_zilverbos_zelzate,2025,7364283,,,CW YE2025 Brutomarge,src_wzc_zilverbos_zelzate_jr2025_cw,medium,tick2026; bruto JUMP 7364283 +8.53pct vs YE2024 6785295
+bud_wzc_zilverbos_zelzate_fte_jr2025_statutory,vzw_wzc_zilverbos_zelzate,2025,101.4,,,CW social-balance FTE,src_wzc_zilverbos_zelzate_jr2025_cw,medium,tick2026; YE2025 FTE 101.4
