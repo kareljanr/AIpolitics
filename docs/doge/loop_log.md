@@ -21612,3 +21612,11 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_sirocco_connected_28_75m_dividend_1_50m_wow_15pct_l5 (**ready**, human-send only)
 - Next every-10 **1850**. Next: rq_1841 (Electrastar/Ornoi/Perwez-if-200 / AGB / Dijk92 / FARO).
 
+## Tick 1841 - 2026-08-25T17:55:00Z - rq_1841 Electrastar NV (dividend JUMP 6.40m vs PnL 0.11m / equity strip)
+
+- Unit: **rq_1841** leftover dual residual after Sirocco every-10; preferred AGB Bornem JR2024; Dijk92/Enebra CDN **403**; FARO YE2024. Took deferred live **Electrastar NV** (Eneco **100%**; KBO **0877.891.174**; deposit **2025-00521537**). Ornoi/Perwez deferred.
+- Primary (strong, NBB C-cap [2025-00521537](http://cdn.staatsbladmonitor.be/2025pdf/2025-00521537.pdf) CDN 200 / 45p 438738 bytes; AV **01.09.2025**; YE **01.04.2024-31.03.2025**; Deloitte/Bogaerts): assets DROP **EUR8,518,605**; MVA net DROP **EUR380,445** (gross **27.35m**); omzet DROP **EUR1,914,768**; expl DROP **EUR169,855**; PnL DROP **EUR111,459**; dividend JUMP **EUR6,400,000** (~57× PnL); equity DROP **EUR368,516** (was **6,657,057**); connected ST recv **EUR7,497,550** / debt JUMP **EUR6,402,975**; cash **empty**; milieu **EUR1,635,825**; VTE empty; sold related deelneming **EUR19,000**.
+- Wrote: entities nv_electrastar; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1841=done + rq_1842 spawned; loop_state ticks=1841; FOI draft gap_electrastar_dividend_6_40m_pnl_0_11m_equity_strip_l5.md
+- FOI opened: gap_electrastar_dividend_6_40m_pnl_0_11m_equity_strip_l5 (**ready**, human-send only)
+- NOT every-10 (next **1850**). Next: rq_1842 (Ornoi/Perwez-if-200 / AGB / Dijk92 / FARO).
+
