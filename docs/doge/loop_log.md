@@ -21202,3 +21202,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities nv_maisondieu; commitments (envelope Unknown); foi_queue ready; research_queue rq_1788=blocked_foi + rq_1789 spawned; loop_state ticks=1788; FOI draft gap_maisondieu_jr2025_cdn_opaque_l5.md
 - FOI opened: gap_maisondieu_jr2025_cdn_opaque_l5 (**ready**, not sent)
 - Next: rq_1789 — AGB/NSZ-if-200/Bosgroep/MaisonDieu-if-CDN/unused-Vivalto; **every-10 at 1790 MUST**
+
+### 2026-08-24T23:15:00Z — tick 1789
+- Unit: rq_1789 — **Brembloem VZW Stopgezet 2018** (ghost JR2025 hunt closed)
+- Found: Preferred AGB/NSZ/Dijk92/APEFE/FARO/MaisonDieu still blocked or opaque. Honest KBO check: **BREMBLOEM WOON-EN ZORGCENTRUM VZW** KBO **0863.576.449** is **Stopgezet** since **25.09.2018** (Sluiting van vereffening); 0 VE; bestuurder Vivalto Home Belgium. Vivalto brand Brembloem at Patrijzenstraat 112 operates via **De Molen NV** (Stuivenberg) — already mined. **No JR2025 euros invented / no FOI for liquidated VZW.** Closes multi-tick dead-end.
+- Wrote: sources (+3); entities vzw_brembloem; commitments closed; research_queue rq_1789=done + rq_1790 EVERY-10 spawned; loop_state ticks=1789
+- FOI: none new (demolen/immo FOIs remain for dual-site opacity)
+- Next: rq_1790 — **EVERY-10 MUST** progress % + waste top10
