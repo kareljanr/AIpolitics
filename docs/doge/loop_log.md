@@ -22765,3 +22765,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next every-10 is 1980**). Next: rq_1972 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
 
+## Tick 1972 - 2026-08-23T20:15:00Z - rq_1972 LOGIPOLE (assets JUMP 7.378m / omzet JUMP 24.815m / charges 24.808m / pnl 0 / Strong)
+
+- Unit: **rq_1972** leftover dual after **rq_1971 BEP NAMUR**. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **LOGIPOLE** YE2025 (KBO **0801.043.222**; Boulevard Fulgence Masson 5 Mons; hospital-logistics IGS dual **HELORA + Gabrielle Passelecq**; Geothermia target 2028). Do not redo BEP NAMUR/IBH/BEP Crematorium/BEP Expansion/IEG/CENEO/CISCH/HELORA/iMio/Passelecq/IPFBW/IGRETEC/Aquiris/SPGE/IRE*/FANC/SCK/EURIDICE/BRUGEL/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92/AIEG/Synergrid.
+- Found: Strong [Mons AG 26.06.2026 comptes PDF](https://www.mons.be/fr/ma-commune/vie-politique/intercommunales/logipole/logipole/ag-du-26-juin-2026/publiable-ago7-a3-comptes-relatifs-a-lexercice-2025-et-regles-devaluation.pdf) + [note synthese](https://www.mons.be/fr/ma-commune/vie-politique/intercommunales/logipole/logipole/ag-du-26-juin-2026/publiable-ago7-note-de-synthese.pdf) + Medium [Companyweb NL](https://www.companyweb.be/nl/0801043222/logipole)/[EN](https://www.companyweb.be/en/0801043222/logipole) + Strong KBO: assets **EUR7,378,468** (**JUMP**); equity **EUR8,500**; pnl **EUR0** (cost-centre recharge); charges expl **EUR24,808,349**; omzet **EUR24,815,052** (**JUMP** vs stub YE2024); bruto **EUR13,486,590** (**DROP −34.62%**); FTE **225.9** (**DROP** vs 251.6); cash **EUR625,628**; fournisseurs **EUR1,893,988**; neerlegging **03.07.2026**.
+- Wrote: sources (+5); budgets (+8); commitments (+1); leaderboard (+1); entities (+1 igs_logipole); foi + draft gap_logipole_nbb_pdf_partner_recharge_geothermia_matrix_l5; rq_1972=done + rq_1973 open; loop_state ticks=1972; raw PDFs saved.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next every-10 is 1980**). Next: rq_1973 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ).
+
