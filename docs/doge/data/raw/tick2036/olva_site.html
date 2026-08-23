@@ -1,0 +1,3958 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl-nl" lang="nl-nl" dir="ltr" >
+
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
+
+	<base href="https://www.olvantwerpen.be/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="wzc, woonzorgcentrum, OLV Antwerpen, onze-lieve-vrouw, Antwerpen, hartje Antwerpen, bewoners, residentiële zorg, kortverblijf, crisisopvang, assistentiewoning, Pieter van Hobokenstraat, 2000 Antwerpen, 2000" />
+	<meta name="author" content="LDL" />
+	<meta name="description" content="Woonzorgcentrum OLV Antwerpen" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>wzc OLV Antwerpen</title>
+	<link href="/templates/artis/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/media/jui/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="/media/jui/css/bootstrap-responsive.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_favsocial/theme/css/favsocial.css" rel="stylesheet" type="text/css" />
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_favpromote/theme/bootstrap/favth-bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_favpromote/theme/css/favpromote.css" rel="stylesheet" type="text/css" />
+	<link href="//use.fontawesome.com/releases/v5.1.0/css/all.css" rel="stylesheet" type="text/css" />
+	<link href="//fonts.googleapis.com/css?family=Roboto:400" rel="stylesheet" type="text/css" />
+	<link href="/media/jui/css/chosen.css?66c2f33b28e93310269dd87705b0e532" rel="stylesheet" type="text/css" />
+	<link href="/media/com_finder/css/finder.css?66c2f33b28e93310269dd87705b0e532" rel="stylesheet" type="text/css" />
+	<script src="/media/jui/js/jquery.min.js?66c2f33b28e93310269dd87705b0e532" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?66c2f33b28e93310269dd87705b0e532" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?66c2f33b28e93310269dd87705b0e532" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?66c2f33b28e93310269dd87705b0e532" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?66c2f33b28e93310269dd87705b0e532" type="text/javascript"></script>
+	<script src="/modules/mod_favpromote/theme/bootstrap/favth-bootstrap.js" type="text/javascript"></script>
+	<script src="/modules/mod_favpromote/theme/js/viewportchecker/viewportchecker.js" type="text/javascript"></script>
+	<script src="/media/jui/js/chosen.jquery.min.js?66c2f33b28e93310269dd87705b0e532" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.autocomplete.min.js?66c2f33b28e93310269dd87705b0e532" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	jQuery(function ($) {
+		initChosen();
+		$("body").on("subform-row-add", initChosen);
+
+		function initChosen(event, container)
+		{
+			container = container || document;
+			$(container).find(".advancedSelect").chosen({"disable_search_threshold":10,"search_contains":true,"allow_single_deselect":true,"placeholder_text_multiple":"Type or select some options","placeholder_text_single":"Selecteer een optie","no_results_text":"geen overeenkomende resultaten"});
+		}
+	});
+	
+jQuery(document).ready(function() {
+	var value, searchword = jQuery('#mod-finder-searchword144');
+
+		// Get the current value.
+		value = searchword.val();
+
+		// If the current value equals the default value, clear it.
+		searchword.on('focus', function ()
+		{
+			var el = jQuery(this);
+
+			if (el.val() === 'Zoeken...')
+			{
+				el.val('');
+			}
+		});
+
+		// If the current value is empty, set the previous value.
+		searchword.on('blur', function ()
+		{
+			var el = jQuery(this);
+
+			if (!el.val())
+			{
+				el.val(value);
+			}
+		});
+
+		jQuery('#mod-finder-searchform144').on('submit', function (e)
+		{
+			e.stopPropagation();
+			var advanced = jQuery('#mod-finder-advanced144');
+
+			// Disable select boxes with no value selected.
+			if (advanced.length)
+			{
+				advanced.find('select').each(function (index, el)
+				{
+					var el = jQuery(el);
+
+					if (!el.val())
+					{
+						el.attr('disabled', 'disabled');
+					}
+				});
+			}
+		});
+	var suggest = jQuery('#mod-finder-searchword144').autocomplete({
+		serviceUrl: '/component/finder/?task=suggestions.suggest&amp;format=json&amp;tmpl=component',
+		paramName: 'q',
+		minChars: 1,
+		maxHeight: 400,
+		width: 300,
+		zIndex: 9999,
+		deferRequestBy: 500
+	});});
+	</script>
+
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- STYLESHEETS -->
+
+  <!-- icons -->
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css" />
+  <!-- admin -->
+  <link rel="stylesheet" href="/templates/artis/admin/admin.css" type="text/css" />
+  <!-- template -->
+  <link rel="stylesheet" href="/templates/artis/css/template.css" type="text/css" />
+  <!-- style -->
+  <link rel="stylesheet" href="/templates/artis/css/style.css" type="text/css" />
+  <!-- styles -->
+  <link rel="stylesheet" href="/templates/artis/css/styles/style5.css" type="text/css" />
+  <!-- custom -->
+  <link rel="stylesheet" href="/templates/artis/css/custom.css" type="text/css" />
+
+  <!-- PARAMETERS -->
+	
+
+<style type="text/css">
+
+  a { color: #FD6250; }
+  a:hover, a:focus { color: #444; outline: none; }
+  #fav-headerwrap li.active a,
+  #fav-headerwrap li.active span.nav-header,
+  #fav-headerwrap li a:hover,
+  #fav-headerwrap li a:focus,
+  #fav-headerwrap span.nav-header:hover,
+  #fav-headerwrap span.nav-header:focus {
+    color: #FD6250;
+    background-color: transparent;
+  }
+  #fav-headerwrap .favnav .navigation .nav .nav-child > .active > a,
+  #fav-headerwrap .favnav .navigation .nav .nav-child > li > a:hover,
+  #fav-headerwrap .favnav .navigation .nav .nav-child > .active > span.nav-header,
+  #fav-headerwrap .favnav .navigation .nav .nav-child > li > span.nav-header:hover {
+    color: #FD6250;
+  }
+  #fav-headerwrap .favnav .navigation li a[class^="fa-"]:before,
+  #fav-headerwrap .favnav .navigation li a[class*=" fa-"]:before,
+  #fav-headerwrap .favnav .navigation li span.nav-header[class^="fa-"]:before,
+  #fav-headerwrap .favnav .navigation li span.nav-header[class*=" fa-"]:before {
+    color: #FD6250;
+  }
+  #fav-headerwrap .navigation .nav-child:before {
+    border-right: 7px solid transparent;
+    border-bottom: 7px solid #FD6250;
+    border-left: 7px solid transparent;
+    border-bottom-color: #FD6250;
+    content: '';
+  }
+  #fav-headerwrap .navigation .nav-child:after {
+    border-right: 6px solid transparent;
+    border-bottom: 6px solid #FD6250;
+    border-left: 6px solid transparent;
+    content: '';
+  }
+  #fav-headerwrap .navigation .nav-child li > ul:before {
+    border-bottom: 7px solid transparent;
+    border-right: 7px solid #FD6250;
+    border-top: 7px solid transparent;
+  }
+  #fav-headerwrap .navigation .nav-child li > ul:after {
+    border-top: 6px solid transparent;
+    border-right: 6px solid #FD6250;
+    border-bottom: 6px solid transparent;
+  }
+  #fav-headerwrap.fav-light li.active a,
+  #fav-headerwrap.fav-light li.active span.nav-header,
+  #fav-headerwrap.fav-light li a:hover,
+  #fav-headerwrap.fav-light li a:focus,
+  #fav-headerwrap.fav-light span.nav-header:hover,
+  #fav-headerwrap.fav-light span.nav-header:focus {
+    color: #FD6250;
+    background-color: transparent;
+  }
+  #fav-headerwrap.fav-light .favnav .navigation .nav .nav-child > .active > a,
+  #fav-headerwrap.fav-light .favnav .navigation .nav .nav-child > li > a:hover,
+  #fav-headerwrap.fav-light .favnav .navigation .nav .nav-child > .active > span.nav-header,
+  #fav-headerwrap.fav-light .favnav .navigation .nav .nav-child > li > span.nav-header:hover {
+    color: #FD6250;
+  }
+  #fav-headerwrap.fav-light .favnav .navigation li a[class^="fa-"]:before,
+  #fav-headerwrap.fav-light .favnav .navigation li a[class*=" fa-"]:before,
+  #fav-headerwrap.fav-light .favnav .navigation li span.nav-header[class^="fa-"]:before,
+  #fav-headerwrap.fav-light .favnav .navigation li span.nav-header[class*=" fa-"]:before {
+    color: #FD6250;
+  }
+  #fav-headerwrap.fav-light .navigation .nav .nav-child > .active > a,
+  #fav-headerwrap.fav-light .navigation .nav .nav-child > li > a:hover,
+  #fav-headerwrap.fav-light .navigation .nav .nav-child > .active > span.nav-header,
+  #fav-headerwrap.fav-light .navigation .nav .nav-child > li > span.nav-header:hover {
+    color: #FD6250;
+  }
+  #fav-headerwrap.fav-dark li.active a,
+  #fav-headerwrap.fav-dark li.active span.nav-header,
+  #fav-headerwrap.fav-dark li a:hover,
+  #fav-headerwrap.fav-dark li a:focus,
+  #fav-headerwrap.fav-dark span.nav-header:hover,
+  #fav-headerwrap.fav-dark span.nav-header:focus {
+    color: #FD6250;
+    background-color: transparent;
+  }
+  #fav-headerwrap.fav-dark .favnav .navigation .nav .nav-child > .active > a,
+  #fav-headerwrap.fav-dark .favnav .navigation .nav .nav-child > li > a:hover,
+  #fav-headerwrap.fav-dark .favnav .navigation .nav .nav-child > .active > span.nav-header,
+  #fav-headerwrap.fav-dark .favnav .navigation .nav .nav-child > li > span.nav-header:hover {
+    color: #FD6250;
+  }
+  #fav-headerwrap.fav-dark .favnav .navigation li a[class^="fa-"]:before,
+  #fav-headerwrap.fav-dark .favnav .navigation li a[class*=" fa-"]:before,
+  #fav-headerwrap.fav-dark .favnav .navigation li span.nav-header[class^="fa-"]:before,
+  #fav-headerwrap.fav-dark .favnav .navigation li span.nav-header[class*=" fa-"]:before {
+    color: #FD6250;
+  }
+  #fav-headerwrap.fav-dark .navigation .nav .nav-child > .active > a,
+  #fav-headerwrap.fav-dark .navigation .nav .nav-child > li > a:hover,
+  #fav-headerwrap.fav-dark .navigation .nav .nav-child > .active > span.nav-header,
+  #fav-headerwrap.fav-dark .navigation .nav .nav-child > li > span.nav-header:hover {
+    color: #FD6250;
+  }
+  #fav-container .favnav.navstyle .navigation .nav > .active > a,
+  #fav-container .favnav.navstyle .navigation .nav > li > a:hover,
+  #fav-container .favnav.navstyle .navigation .nav > li > a:focus,
+  #fav-container .favnav.navstyle .navigation li.active span.nav-header,
+  #fav-container .favnav.navstyle .navigation li span.nav-header:hover,
+  #fav-container .favnav.navstyle .navigation li span.nav-header:focus,
+  #fav-container .favnav.navstyle .navigation .nav > .active > span.nav-header,
+  #fav-container .favnav.navstyle .navigation .nav > li > span.nav-header:hover,
+  #fav-container .favnav.navstyle .navigation .nav > li > span.nav-header:focus {
+    border: 2px solid #FD6250;
+    color: #fff !important;
+  }
+  .favnav.navstyle-2 .navigation .nav > .active > a,
+  .favnav.navstyle-2 .navigation .nav > li > a:hover,
+  .favnav.navstyle-2 .navigation .nav > li > a:focus,
+  .favnav.navstyle-2 .navigation li.active span.nav-header,
+  .favnav.navstyle-2 .navigation li span.nav-header:hover,
+  .favnav.navstyle-2 .navigation li span.nav-header:focus,
+  .favnav.navstyle-2 .navigation .nav > .active > span.nav-header,
+  .favnav.navstyle-2 .navigation .nav > li > span.nav-header:hover,
+  .favnav.navstyle-2 .navigation .nav > li > span.nav-header:focus {
+    background-color: #FD6250 !important;
+    color: #fff !important;
+  }
+  .favnav.navstyle-2 .navigation li a[class^="fa-"]:hover:before,
+  .favnav.navstyle-2 .navigation li a[class*=" fa-"]:hover:before,
+  .favnav.navstyle-2 .navigation li a[class^="fa-"]:focus:before,
+  .favnav.navstyle-2 .navigation li a[class*=" fa-"]:focus:before,
+  .favnav.navstyle-2 .navigation li.active a[class^="fa-"]:before,
+  .favnav.navstyle-2 .navigation li.active a[class*=" fa-"]:before,
+  .favnav.navstyle-2 .navigation li span.nav-header[class^="fa-"]:hover:before,
+  .favnav.navstyle-2 .navigation li span.nav-header[class*=" fa-"]:hover:before,
+  .favnav.navstyle-2 .navigation li span.nav-header[class^="fa-"]:focus:before,
+  .favnav.navstyle-2 .navigation li span.nav-header[class*=" fa-"]:focus:before,
+  .favnav.navstyle-2 .navigation li.active span.nav-header[class^="fa-"]:before,
+  .favnav.navstyle-2 .navigation li.active span.nav-header[class*=" fa-"]:before {
+    color: #fff !important;
+  }
+  .favnav.navstyle-2 .navigation ul.nav-child li a[class^="fa-"]:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li a[class*=" fa-"]:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li a[class^="fa-"]:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li a[class*=" fa-"]:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li a[class^="fa-"]:hover:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li a[class*=" fa-"]:hover:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li a[class^="fa-"]:focus:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li a[class*=" fa-"]:focus:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li.active a[class^="fa-"]:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li.active a[class*=" fa-"]:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class^="fa-"]:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class*=" fa-"]:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class^="fa-"]:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class*=" fa-"]:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class^="fa-"]:hover:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class*=" fa-"]:hover:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class^="fa-"]:focus:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class*=" fa-"]:focus:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li.active span.nav-header[class^="fa-"]:before,
+  .favnav.navstyle-2 .navigation ul.nav-child li.active span.nav-header[class*=" fa-"]:before {
+    color: #FD6250 !important;
+  }
+  .favnav.navstyle-3 .navigation .nav > .active > a,
+  .favnav.navstyle-3 .navigation .nav > li > a:hover,
+  .favnav.navstyle-3 .navigation .nav > li > a:focus,
+  .favnav.navstyle-3 .navigation li.active span.nav-header,
+  .favnav.navstyle-3 .navigation li span.nav-header:hover,
+  .favnav.navstyle-3 .navigation li span.nav-header:focus,
+  .favnav.navstyle-3 .navigation .nav > .active > span.nav-header,
+  .favnav.navstyle-3 .navigation .nav > li > span.nav-header:hover,
+  .favnav.navstyle-3 .navigation .nav > li > span.nav-header:focus {
+    border: 2px solid #fff;
+    color: #fff !important;
+  }
+  .favnav.navstyle-4 .navigation .nav > .active > a,
+  .favnav.navstyle-4 .navigation .nav > li > a:hover,
+  .favnav.navstyle-4 .navigation .nav > li > a:focus,
+  .favnav.navstyle-4 .navigation li.active span.nav-header,
+  .favnav.navstyle-4 .navigation ul.nav li span.nav-header:hover,
+  .favnav.navstyle-4 .navigation ul.nav li span.nav-header:focus,
+  .favnav.navstyle-4 .navigation .nav > .active > span.nav-header,
+  .favnav.navstyle-4 .navigation .nav > li > span.nav-header:hover,
+  .favnav.navstyle-4 .navigation .nav > li > span.nav-header:focus {
+    border-bottom: 2px solid #FD6250;
+    color: #fff !important;
+  }
+  .favnav.navstyle-5 .navigation .nav > .active > a,
+  .favnav.navstyle-5 .navigation .nav > li > a:hover,
+  .favnav.navstyle-5 .navigation .nav > li > a:focus,
+  .favnav.navstyle-5 .navigation li.active span.nav-header,
+  .favnav.navstyle-5 .navigation ul.nav li span.nav-header:hover,
+  .favnav.navstyle-5 .navigation ul.nav li span.nav-header:focus,
+  .favnav.navstyle-5 .navigation .nav > .active > span.nav-header,
+  .favnav.navstyle-5 .navigation .nav > li > span.nav-header:hover,
+  .favnav.navstyle-5 .navigation .nav > li > span.nav-header:focus {
+    border-top: 2px solid #FD6250;
+    color: #fff !important;
+  }
+  .favnav.navstyle-6 .navigation .nav > .active > a,
+  .favnav.navstyle-6 .navigation .nav > li > a:hover,
+  .favnav.navstyle-6 .navigation .nav > li > a:focus,
+  .favnav.navstyle-6 .navigation li.active span.nav-header,
+  .favnav.navstyle-6 .navigation ul.nav li span.nav-header:hover,
+  .favnav.navstyle-6 .navigation ul.nav li span.nav-header:focus,
+  .favnav.navstyle-6 .navigation .nav > .active > span.nav-header,
+  .favnav.navstyle-6 .navigation .nav > li > span.nav-header:hover,
+  .favnav.navstyle-6 .navigation .nav > li > span.nav-header:focus {
+    border-top: 2px solid #FD6250;
+    border-bottom: 2px solid #FD6250;
+    color: #fff !important;
+  }
+  .favnav.navstyle-7 .navigation .nav > .active > a,
+  .favnav.navstyle-7 .navigation .nav > li > a:hover,
+  .favnav.navstyle-7 .navigation .nav > li > a:focus,
+  .favnav.navstyle-7 .navigation li.active span.nav-header,
+  .favnav.navstyle-7 .navigation ul.nav li span.nav-header:hover,
+  .favnav.navstyle-7 .navigation ul.nav li span.nav-header:focus,
+  .favnav.navstyle-7 .navigation .nav > .active > span.nav-header,
+  .favnav.navstyle-7 .navigation .nav > li > span.nav-header:hover,
+  .favnav.navstyle-7 .navigation .nav > li > span.nav-header:focus {
+    border-left: 2px solid #FD6250;
+    border-right: 2px solid #FD6250;
+    color: #fff !important;
+  }
+  #fav-headerwrap.fav-light .favnav.navstyle .navigation .nav > .active > a,
+  #fav-headerwrap.fav-light .favnav.navstyle .navigation .nav > li > a:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle .navigation .nav > li > a:focus,
+  #fav-headerwrap.fav-light .favnav.navstyle .navigation li.active span.nav-header,
+  #fav-headerwrap.fav-light .favnav.navstyle .navigation li span.nav-header:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle .navigation li span.nav-header:focus,
+  #fav-headerwrap.fav-light .favnav.navstyle .navigation .nav > .active > span.nav-header,
+  #fav-headerwrap.fav-light .favnav.navstyle .navigation .nav > li > span.nav-header:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle .navigation .nav > li > span.nav-header:focus {
+    border: 2px solid #FD6250;
+    color: #444 !important;
+  }
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation .nav > .active > a,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation .nav > li > a:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation .nav > li > a:focus,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation li.active span.nav-header,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation li span.nav-header:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation li span.nav-header:focus,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation .nav > .active > span.nav-header,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation .nav > li > span.nav-header:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation .nav > li > span.nav-header:focus {
+    background-color: #FD6250 !important;
+    color: #fff !important;
+  }
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation li a[class^="fa-"]:hover:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation li a[class*=" fa-"]:hover:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation li a[class^="fa-"]:focus:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation li a[class*=" fa-"]:focus:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation li.active a[class^="fa-"]:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation li.active a[class*=" fa-"]:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation li span.nav-header[class^="fa-"]:hover:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation li span.nav-header[class*=" fa-"]:hover:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation li span.nav-header[class^="fa-"]:focus:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation li span.nav-header[class*=" fa-"]:focus:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation li.active span.nav-header[class^="fa-"]:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation li.active span.nav-header[class*=" fa-"]:before {
+    color: #fff !important;
+  }
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li a[class^="fa-"]:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li a[class*=" fa-"]:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li a[class^="fa-"]:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li a[class*=" fa-"]:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li a[class^="fa-"]:hover:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li a[class*=" fa-"]:hover:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li a[class^="fa-"]:focus:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li a[class*=" fa-"]:focus:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li.active a[class^="fa-"]:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li.active a[class*=" fa-"]:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class^="fa-"]:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class*=" fa-"]:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class^="fa-"]:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class*=" fa-"]:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class^="fa-"]:hover:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class*=" fa-"]:hover:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class^="fa-"]:focus:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class*=" fa-"]:focus:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li.active span.nav-header[class^="fa-"]:before,
+  #fav-headerwrap.fav-light .favnav.navstyle-2 .navigation ul.nav-child li.active span.nav-header[class*=" fa-"]:before {
+    color: #FD6250 !important;
+  }
+  #fav-headerwrap.fav-light .favnav.navstyle-3 .navigation .nav > .active > a,
+  #fav-headerwrap.fav-light .favnav.navstyle-3 .navigation .nav > li > a:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle-3 .navigation .nav > li > a:focus,
+  #fav-headerwrap.fav-light .favnav.navstyle-3 .navigation li.active span.nav-header,
+  #fav-headerwrap.fav-light .favnav.navstyle-3 .navigation li span.nav-header:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle-3 .navigation li span.nav-header:focus,
+  #fav-headerwrap.fav-light .favnav.navstyle-3 .navigation .nav > .active > span.nav-header,
+  #fav-headerwrap.fav-light .favnav.navstyle-3 .navigation .nav > li > span.nav-header:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle-3 .navigation .nav > li > span.nav-header:focus {
+    border: 2px solid #444;
+    color: #444 !important;
+  }
+  #fav-headerwrap.fav-light .favnav.navstyle-4 .navigation .nav > .active > a,
+  #fav-headerwrap.fav-light .favnav.navstyle-4 .navigation .nav > li > a:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle-4 .navigation .nav > li > a:focus,
+  #fav-headerwrap.fav-light .favnav.navstyle-4 .navigation li.active span.nav-header,
+  #fav-headerwrap.fav-light .favnav.navstyle-4 .navigation ul.nav li span.nav-header:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle-4 .navigation ul.nav li span.nav-header:focus,
+  #fav-headerwrap.fav-light .favnav.navstyle-4 .navigation .nav > .active > span.nav-header,
+  #fav-headerwrap.fav-light .favnav.navstyle-4 .navigation .nav > li > span.nav-header:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle-4 .navigation .nav > li > span.nav-header:focus {
+    border-bottom: 2px solid #FD6250;
+    color: #444 !important;
+  }
+  #fav-headerwrap.fav-light .favnav.navstyle-5 .navigation .nav > .active > a,
+  #fav-headerwrap.fav-light .favnav.navstyle-5 .navigation .nav > li > a:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle-5 .navigation .nav > li > a:focus,
+  #fav-headerwrap.fav-light .favnav.navstyle-5 .navigation li.active span.nav-header,
+  #fav-headerwrap.fav-light .favnav.navstyle-5 .navigation ul.nav li span.nav-header:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle-5 .navigation ul.nav li span.nav-header:focus,
+  #fav-headerwrap.fav-light .favnav.navstyle-5 .navigation .nav > .active > span.nav-header,
+  #fav-headerwrap.fav-light .favnav.navstyle-5 .navigation .nav > li > span.nav-header:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle-5 .navigation .nav > li > span.nav-header:focus {
+    border-top: 2px solid #FD6250;
+    color: #444 !important;
+  }
+  #fav-headerwrap.fav-light .favnav.navstyle-6 .navigation .nav > .active > a,
+  #fav-headerwrap.fav-light .favnav.navstyle-6 .navigation .nav > li > a:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle-6 .navigation .nav > li > a:focus,
+  #fav-headerwrap.fav-light .favnav.navstyle-6 .navigation li.active span.nav-header,
+  #fav-headerwrap.fav-light .favnav.navstyle-6 .navigation ul.nav li span.nav-header:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle-6 .navigation ul.nav li span.nav-header:focus,
+  #fav-headerwrap.fav-light .favnav.navstyle-6 .navigation .nav > .active > span.nav-header,
+  #fav-headerwrap.fav-light .favnav.navstyle-6 .navigation .nav > li > span.nav-header:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle-6 .navigation .nav > li > span.nav-header:focus {
+    border-top: 2px solid #FD6250;
+    border-bottom: 2px solid #FD6250;
+    color: #444 !important;
+  }
+  #fav-headerwrap.fav-light .favnav.navstyle-7 .navigation .nav > .active > a,
+  #fav-headerwrap.fav-light .favnav.navstyle-7 .navigation .nav > li > a:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle-7 .navigation .nav > li > a:focus,
+  #fav-headerwrap.fav-light .favnav.navstyle-7 .navigation li.active span.nav-header,
+  #fav-headerwrap.fav-light .favnav.navstyle-7 .navigation ul.nav li span.nav-header:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle-7 .navigation ul.nav li span.nav-header:focus,
+  #fav-headerwrap.fav-light .favnav.navstyle-7 .navigation .nav > .active > span.nav-header,
+  #fav-headerwrap.fav-light .favnav.navstyle-7 .navigation .nav > li > span.nav-header:hover,
+  #fav-headerwrap.fav-light .favnav.navstyle-7 .navigation .nav > li > span.nav-header:focus {
+    border-left: 2px solid #FD6250;
+    border-right: 2px solid #FD6250;
+    color: #444 !important;
+  }
+  #fav-headerwrap.fav-dark .favnav.navstyle .navigation .nav > .active > a,
+  #fav-headerwrap.fav-dark .favnav.navstyle .navigation .nav > li > a:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle .navigation .nav > li > a:focus,
+  #fav-headerwrap.fav-dark .favnav.navstyle .navigation li.active span.nav-header,
+  #fav-headerwrap.fav-dark .favnav.navstyle .navigation li span.nav-header:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle .navigation li span.nav-header:focus,
+  #fav-headerwrap.fav-dark .favnav.navstyle .navigation .nav > .active > span.nav-header,
+  #fav-headerwrap.fav-dark .favnav.navstyle .navigation .nav > li > span.nav-header:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle .navigation .nav > li > span.nav-header:focus {
+    border: 2px solid #FD6250;
+    color: #fff !important;
+  }
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation .nav > .active > a,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation .nav > li > a:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation .nav > li > a:focus,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation li.active span.nav-header,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation li span.nav-header:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation li span.nav-header:focus,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation .nav > .active > span.nav-header,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation .nav > li > span.nav-header:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation .nav > li > span.nav-header:focus {
+    background-color: #FD6250 !important;
+    color: #fff !important;
+  }
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation li a[class^="fa-"]:hover:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation li a[class*=" fa-"]:hover:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation li a[class^="fa-"]:focus:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation li a[class*=" fa-"]:focus:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation li.active a[class^="fa-"]:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation li.active a[class*=" fa-"]:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation li span.nav-header[class^="fa-"]:hover:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation li span.nav-header[class*=" fa-"]:hover:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation li span.nav-header[class^="fa-"]:focus:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation li span.nav-header[class*=" fa-"]:focus:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation li.active span.nav-header[class^="fa-"]:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation li.active span.nav-header[class*=" fa-"]:before {
+    color: #fff !important;
+  }
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li a[class^="fa-"]:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li a[class*=" fa-"]:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li a[class^="fa-"]:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li a[class*=" fa-"]:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li a[class^="fa-"]:hover:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li a[class*=" fa-"]:hover:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li a[class^="fa-"]:focus:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li a[class*=" fa-"]:focus:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li.active a[class^="fa-"]:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li.active a[class*=" fa-"]:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class^="fa-"]:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class*=" fa-"]:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class^="fa-"]:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class*=" fa-"]:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class^="fa-"]:hover:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class*=" fa-"]:hover:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class^="fa-"]:focus:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li span.nav-header[class*=" fa-"]:focus:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li.active span.nav-header[class^="fa-"]:before,
+  #fav-headerwrap.fav-dark .favnav.navstyle-2 .navigation ul.nav-child li.active span.nav-header[class*=" fa-"]:before {
+    color: #FD6250 !important;
+  }
+  #fav-headerwrap.fav-dark .favnav.navstyle-3 .navigation .nav > .active > a,
+  #fav-headerwrap.fav-dark .favnav.navstyle-3 .navigation .nav > li > a:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle-3 .navigation .nav > li > a:focus,
+  #fav-headerwrap.fav-dark .favnav.navstyle-3 .navigation li.active span.nav-header,
+  #fav-headerwrap.fav-dark .favnav.navstyle-3 .navigation li span.nav-header:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle-3 .navigation li span.nav-header:focus,
+  #fav-headerwrap.fav-dark .favnav.navstyle-3 .navigation .nav > .active > span.nav-header,
+  #fav-headerwrap.fav-dark .favnav.navstyle-3 .navigation .nav > li > span.nav-header:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle-3 .navigation .nav > li > span.nav-header:focus {
+    border: 2px solid #fff;
+    color: #fff !important;
+  }
+  #fav-headerwrap.fav-dark .favnav.navstyle-4 .navigation .nav > .active > a,
+  #fav-headerwrap.fav-dark .favnav.navstyle-4 .navigation .nav > li > a:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle-4 .navigation .nav > li > a:focus,
+  #fav-headerwrap.fav-dark .favnav.navstyle-4 .navigation li.active span.nav-header,
+  #fav-headerwrap.fav-dark .favnav.navstyle-4 .navigation ul.nav li span.nav-header:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle-4 .navigation ul.nav li span.nav-header:focus,
+  #fav-headerwrap.fav-dark .favnav.navstyle-4 .navigation .nav > .active > span.nav-header,
+  #fav-headerwrap.fav-dark .favnav.navstyle-4 .navigation .nav > li > span.nav-header:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle-4 .navigation .nav > li > span.nav-header:focus {
+    border-bottom: 2px solid #FD6250;
+    color: #fff !important;
+  }
+  #fav-headerwrap.fav-dark .favnav.navstyle-5 .navigation .nav > .active > a,
+  #fav-headerwrap.fav-dark .favnav.navstyle-5 .navigation .nav > li > a:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle-5 .navigation .nav > li > a:focus,
+  #fav-headerwrap.fav-dark .favnav.navstyle-5 .navigation li.active span.nav-header,
+  #fav-headerwrap.fav-dark .favnav.navstyle-5 .navigation ul.nav li span.nav-header:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle-5 .navigation ul.nav li span.nav-header:focus,
+  #fav-headerwrap.fav-dark .favnav.navstyle-5 .navigation .nav > .active > span.nav-header,
+  #fav-headerwrap.fav-dark .favnav.navstyle-5 .navigation .nav > li > span.nav-header:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle-5 .navigation .nav > li > span.nav-header:focus {
+    border-top: 2px solid #FD6250;
+    color: #fff !important;
+  }
+  #fav-headerwrap.fav-dark .favnav.navstyle-6 .navigation .nav > .active > a,
+  #fav-headerwrap.fav-dark .favnav.navstyle-6 .navigation .nav > li > a:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle-6 .navigation .nav > li > a:focus,
+  #fav-headerwrap.fav-dark .favnav.navstyle-6 .navigation li.active span.nav-header,
+  #fav-headerwrap.fav-dark .favnav.navstyle-6 .navigation ul.nav li span.nav-header:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle-6 .navigation ul.nav li span.nav-header:focus,
+  #fav-headerwrap.fav-dark .favnav.navstyle-6 .navigation .nav > .active > span.nav-header,
+  #fav-headerwrap.fav-dark .favnav.navstyle-6 .navigation .nav > li > span.nav-header:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle-6 .navigation .nav > li > span.nav-header:focus {
+    border-top: 2px solid #FD6250;
+    border-bottom: 2px solid #FD6250;
+    color: #fff !important;
+  }
+  #fav-headerwrap.fav-dark .favnav.navstyle-7 .navigation .nav > .active > a,
+  #fav-headerwrap.fav-dark .favnav.navstyle-7 .navigation .nav > li > a:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle-7 .navigation .nav > li > a:focus,
+  #fav-headerwrap.fav-dark .favnav.navstyle-7 .navigation li.active span.nav-header,
+  #fav-headerwrap.fav-dark .favnav.navstyle-7 .navigation ul.nav li span.nav-header:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle-7 .navigation ul.nav li span.nav-header:focus,
+  #fav-headerwrap.fav-dark .favnav.navstyle-7 .navigation .nav > .active > span.nav-header,
+  #fav-headerwrap.fav-dark .favnav.navstyle-7 .navigation .nav > li > span.nav-header:hover,
+  #fav-headerwrap.fav-dark .favnav.navstyle-7 .navigation .nav > li > span.nav-header:focus {
+    border-left: 2px solid #FD6250;
+    border-right: 2px solid #FD6250;
+    color: #fff !important;
+  }
+  ul.menubasic li a,
+  ul.menubasic li span.nav-header,
+  ul.menuarrow li a,
+  ul.menuarrow li span.nav-header,
+  ul.menuside li a,
+  ul.menuside li span.nav-header,
+  ul.menuline li a,
+  ul.menuline li span.nav-header {
+    color: #888 !important;
+  }
+  ul.menubasic li a:hover,
+  ul.menubasic li a:focus,
+  ul.menubasic li.current a,
+  ul.menubasic li.current ul a:hover,
+  ul.menubasic li.current ul a:focus,
+  ul.menubasic li span.nav-header:hover,
+  ul.menubasic li span.nav-header:focus,
+  ul.menubasic li.current span.nav-header,
+  ul.menubasic li.current ul span.nav-header:hover,
+  ul.menubasic li.current ul span.nav-header:focus {
+    color: #fff !important;
+    background-color: #FD6250;
+  }
+  ul.menuarrow li a:hover,
+  ul.menuarrow li a:focus,
+  ul.menuarrow li.current a,
+  ul.menuarrow li.current ul a:hover,
+  ul.menuarrow li.current ul a:focus,
+  ul.menuarrow li span.nav-header:hover,
+  ul.menuarrow li span.nav-header:focus,
+  ul.menuarrow li.current span.nav-header,
+  ul.menuarrow li.current ul span.nav-header:hover,
+  ul.menuarrow li.current ul span.nav-header:focus {
+    color: #FD6250;
+    background-color: transparent;
+  }
+  ul.menuarrow li a:hover:before,
+  ul.menuarrow li a:focus:before,
+  ul.menuarrow li.current a:before,
+  ul.menuarrow li.current ul a:hover:before,
+  ul.menuarrow li.current ul a:focus:before,
+  ul.menuarrow li span.nav-header:hover:before,
+  ul.menuarrow li span.nav-header:focus:before,
+  ul.menuarrow li.current span.nav-header:before,
+  ul.menuarrow li.current ul span.nav-header:hover:before,
+  ul.menuarrow li.current ul span.nav-header:focus:before {
+    color: #FD6250;
+  }
+  ul.menuside li a:hover,
+  ul.menuside li a:focus,
+  ul.menuside li.current a,
+  ul.menuside li.current ul a:hover,
+  ul.menuside li.current ul a:focus,
+  ul.menuside li span.nav-header:hover,
+  ul.menuside li span.nav-header:focus,
+  ul.menuside li.current span.nav-header,
+  ul.menuside li.current ul span.nav-header:hover,
+  ul.menuside li.current ul span.nav-header:focus {
+    color: #FD6250;
+    border-left: 5px solid #FD6250;
+    background-color: transparent;
+  }
+  ul.menuline li a:hover,
+  ul.menuline li a:focus,
+  ul.menuline li.current a,
+  ul.menuline li.current ul a:hover,
+  ul.menuline li.current ul a:focus,
+  ul.menuline li span.nav-header:hover,
+  ul.menuline li span.nav-header:focus,
+  ul.menuline li.current span.nav-header,
+  ul.menuline li.current ul span.nav-header:hover,
+  ul.menuline li.current ul span.nav-header:focus {
+    color: #444;
+    border-bottom: 1px solid #FD6250;
+    background-color: transparent;
+  }
+  ul.menuline li a:hover:before,
+  ul.menuline li a:focus:before,
+  ul.menuline li.current a:before,
+  ul.menuline li.current ul a:hover:before,
+  ul.menuline li.current ul a:focus:before,
+  ul.menuline li span.nav-header:hover:before,
+  ul.menuline li span.nav-header:focus:before,
+  ul.menuline li.current span.nav-header:before,
+  ul.menuline li.current ul span.nav-header:hover:before,
+  ul.menuline li.current ul span.nav-header:focus:before {
+    color: #FD6250;
+  }
+  ul.menubasic.menu-clear li a,
+  ul.menubasic.menu-clear li span.nav-header,
+  ul.menuarrow.menu-clear li a,
+  ul.menuarrow.menu-clear li span.nav-header,
+  ul.menuside.menu-clear li a,
+  ul.menuside.menu-clear li span.nav-header,
+  ul.menuline.menu-clear li a,
+  ul.menuline.menu-clear li span.nav-header {
+    color: #FFF !important;
+  }
+  ul.menubasic.menu-clear {
+    border: 1px solid #444;
+  }
+  ul.menubasic.menu-clear li a,
+  ul.menubasic.menu-clear li span.nav-header {
+    border-bottom: 1px solid #444;
+  }
+  ul.menuarrow.menu-clear li a:hover,
+  ul.menuarrow.menu-clear li a:focus,
+  ul.menuarrow.menu-clear li span.nav-header:hover,
+  ul.menuarrow.menu-clear li span.nav-header:focus {
+    color: #FD6250 !important;
+  }
+  ul.menuarrow.menu-clear li a::before,
+  ul.menuarrow.menu-clear li span.nav-header::before {
+    color: #FD6250;
+  }
+  ul.menuarrow.menu-clear li a:hover:before,
+  ul.menuarrow.menu-clear li a:focus:before,
+  ul.menuarrow.menu-clear li span.nav-header:hover:before,
+  ul.menuarrow.menu-clear li span.nav-header:focus:before {
+    color: #FFF;
+  }
+  ul.menuside.menu-clear li a,
+  ul.menuside.menu-clear li span.nav-header {
+    border-left: 5px solid #FD6250;
+  }
+  ul.menuside.menu-clear li a:hover,
+  ul.menuside.menu-clear li a:focus,
+  ul.menuside.menu-clear li span.nav-header:hover,
+  ul.menuside.menu-clear li span.nav-header:focus {
+    color: #FD6250 !important;
+    border-left: 5px solid #FFF;
+  }
+  ul.menuline.menu-clear li a,
+  ul.menuline.menu-clear li span.nav-header {
+    border-bottom: 1px solid #444;
+  }
+  ul.menuline.menu-clear li a::before,
+  ul.menuline.menu-clear li span.nav-header::before {
+    color: #FD6250;
+  }
+  ul.menuline.menu-clear li a:hover,
+  ul.menuline.menu-clear li a:focus,
+  ul.menuline.menu-clear li span.nav-header:hover,
+  ul.menuline.menu-clear li span.nav-header:focus {
+    color: #FFF;
+    border-bottom: 1px solid #FD6250;
+  }
+  ul.menubasic.menu-dark li a,
+  ul.menubasic.menu-dark li span.nav-header,
+  ul.menuarrow.menu-dark li a,
+  ul.menuarrow.menu-dark li span.nav-header,
+  ul.menuside.menu-dark li a,
+  ul.menuside.menu-dark li span.nav-header,
+  ul.menuline.menu-dark li a,
+  ul.menuline.menu-dark li span.nav-header {
+    color: #FFF !important;
+  }
+  ul.menuarrow.menu-dark li a:hover,
+  ul.menuarrow.menu-dark li a:focus,
+  ul.menuarrow.menu-dark li span.nav-header:hover,
+  ul.menuarrow.menu-dark li span.nav-header:focus {
+    color: #FD6250 !important;
+  }
+  ul.menuarrow.menu-dark li a::before,
+  ul.menuarrow.menu-dark li span.nav-header::before {
+    color: #FD6250;
+  }
+  ul.menuarrow.menu-dark li a:hover:before,
+  ul.menuarrow.menu-dark li a:focus:before,
+  ul.menuarrow.menu-dark li span.nav-header:hover:before,
+  ul.menuarrow.menu-dark li span.nav-header:focus:before {
+    color: #FFF;
+  }
+  ul.menuside.menu-dark li a,
+  ul.menuside.menu-dark li span.nav-header {
+    border-left: 5px solid #FD6250;
+  }
+  ul.menuside.menu-dark li a:hover,
+  ul.menuside.menu-dark li a:focus,
+  ul.menuside.menu-dark li span.nav-header:hover,
+  ul.menuside.menu-dark li span.nav-header:focus {
+    color: #FD6250 !important;
+    border-left: 5px solid #FFF;
+  }
+  ul.menuline.menu-dark li a:hover,
+  ul.menuline.menu-dark li a:focus,
+  ul.menuline.menu-dark li span.nav-header:hover,
+  ul.menuline.menu-dark li span.nav-header:focus {
+    color: #fff !important;
+    border-bottom: 1px solid #FD6250;
+  }
+  ul.menubasic.menu-color li a,
+  ul.menubasic.menu-color li span.nav-header {
+    border-bottom: 1px solid rgba(17, 17, 17, 0.27);
+  }
+  ul.menubasic.menu-color {
+    border: 1px solid rgba(17, 17, 17, 0.27);
+  }
+  ul.menuarrow.menu-color li a,
+  ul.menuarrow.menu-color li span.nav-header {
+    color: #FFF !important;
+  }
+  ul.menuarrow.menu-color li a:hover,
+  ul.menuarrow.menu-color li a:focus,
+  ul.menuarrow.menu-color li span.nav-header:hover,
+  ul.menuarrow.menu-color li span.nav-header:focus {
+    color: rgba(17, 17, 17, 0.47) !important;
+  }
+  ul.menuarrow.menu-color li a::before,
+  ul.menuarrow.menu-color li span.nav-header::before {
+    color: rgba(17, 17, 17, 0.47);
+  }
+  ul.menuarrow.menu-color li a:hover::before,
+  ul.menuarrow.menu-color li a:focus::before,
+  ul.menuarrow.menu-color li span.nav-header:hover::before,
+  ul.menuarrow.menu-color li span.nav-header:focus::before {
+    color: #FFF;
+  }
+  ul.menuside.menu-color li a,
+  ul.menuside.menu-color li span.nav-header {
+    color: #FFF !important;
+    border-left: 5px solid rgba(17, 17, 17, 0.47);
+  }
+  ul.menuside.menu-color li a:hover,
+  ul.menuside.menu-color li a:focus,
+  ul.menuside.menu-color li span.nav-header:hover,
+  ul.menuside.menu-color li span.nav-header:focus {
+    color: rgba(17, 17, 17, 0.47) !important;
+  }
+  ul.menuside.menu-color li a:hover,
+  ul.menuside.menu-color li a:focus,
+  ul.menuside.menu-color li.current a,
+  ul.menuside.menu-color li.current ul a:hover,
+  ul.menuside.menu-color li.current ul a:focus,
+  ul.menuside.menu-color li span.nav-header:hover,
+  ul.menuside.menu-color li span.nav-header:focus,
+  ul.menuside.menu-color li.current span.nav-header,
+  ul.menuside.menu-color li.current ul span.nav-header:hover,
+  ul.menuside.menu-color li.current ul span.nav-header:focus {
+    border-left: 5px solid #FFF;
+  }
+  ul.menuline.menu-color li a,
+  ul.menuline.menu-color li span.nav-header {
+    color: #FFF !important;
+    border-bottom: 1px solid rgba(17, 17, 17, 0.27);
+  }
+  ul.menuline.menu-color li a:hover,
+  ul.menuline.menu-color li a:focus,
+  ul.menuline.menu-color li span.nav-header:hover,
+  ul.menuline.menu-color li span.nav-header:focus {
+    color: rgba(17, 17, 17, 0.47) !important;
+  }
+  ul.menuline.menu-color li a:hover,
+  ul.menuline.menu-color li a:focus,
+  ul.menuline.menu-color li.current a,
+  ul.menuline.menu-color li.current ul a:hover,
+  ul.menuline.menu-color li.current ul a:focus,
+  ul.menuline.menu-color li span.nav-header:hover,
+  ul.menuline.menu-color li span.nav-header:focus,
+  ul.menuline.menu-color li.current span.nav-header,
+  ul.menuline.menu-color li.current ul span.nav-header:hover,
+  ul.menuline.menu-color li.current ul span.nav-header:focus {
+    border-bottom: 1px solid #FFF;
+  }
+  ul.menuline.menu-color li a::before,
+  ul.menuline.menu-color li span.nav-header::before {
+    color: rgba(17, 17, 17, 0.47);
+  }
+  ul.menuline.menu-color li a:hover::before,
+  ul.menuline.menu-color li span.nav-header:hover::before,
+  ul.menuline.menu-color li a:focus::before,
+  ul.menuline.menu-color li span.nav-header:focus::before {
+    color: #FFF;
+  }
+  ul.menuhorizontal li a,
+  ul.menuhorizontal li span.nav-header {
+    color: #333 !important;
+  }
+  ul.menuhorizontal li.active a,
+  ul.menuhorizontal li a:hover,
+  ul.menuhorizontal li a:focus,
+  ul.menuhorizontal li:hover a,
+  ul.menuhorizontal li:focus a,
+  ul.menuhorizontal li span.nav-header:hover,
+  ul.menuhorizontal li span.nav-header:focus,
+  ul.menuhorizontal li.active span.nav-header,
+  ul.menuhorizontal li:hover span.nav-header,
+  ul.menuhorizontal li:focus span.nav-header {
+    color: #FD6250 !important;
+    background-color: transparent;
+  }
+  ul.menuhorizontal.menu-clear li a,
+  ul.menuhorizontal.menu-clear li span.nav-header {
+    color: #fff !important;
+  }
+  ul.menuhorizontal.menu-clear li.active a,
+  ul.menuhorizontal.menu-clear li a:hover,
+  ul.menuhorizontal.menu-clear li a:focus,
+  ul.menuhorizontal.menu-clear li:hover a,
+  ul.menuhorizontal.menu-clear li:focus a,
+  ul.menuhorizontal.menu-clear li span.nav-header:hover,
+  ul.menuhorizontal.menu-clear li span.nav-header:focus,
+  ul.menuhorizontal.menu-clear li.active span.nav-header,
+  ul.menuhorizontal.menu-clear li:hover span.nav-header,
+  ul.menuhorizontal.menu-clear li:focus span.nav-header {
+    color: #FD6250 !important;
+  }
+  ul.menuhorizontal.menu-clear li a:before,
+  ul.menuhorizontal.menu-clear li span.nav-header:before {
+    color: #fff;
+  }
+  ul.menuhorizontal.menu-clear li.active a:before,
+  ul.menuhorizontal.menu-clear li a:hover:before,
+  ul.menuhorizontal.menu-clear li a:focus:before,
+  ul.menuhorizontal.menu-clear li:hover a:before,
+  ul.menuhorizontal.menu-clear li:focus a:before,
+  ul.menuhorizontal.menu-clear li span.nav-header:hover:before,
+  ul.menuhorizontal.menu-clear li span.nav-header:focus:before,
+  ul.menuhorizontal.menu-clear li.active span.nav-header:before,
+  ul.menuhorizontal.menu-clear li:hover span.nav-header:before,
+  ul.menuhorizontal.menu-clear li:focus span.nav-header:before {
+    color: #FD6250 !important;
+  }
+  ul.menuhorizontal.menu-dark li a,
+  ul.menuhorizontal.menu-dark li span.nav-header {
+    color: #eee !important;
+  }
+  ul.menuhorizontal.menu-dark li.active a,
+  ul.menuhorizontal.menu-dark li a:hover,
+  ul.menuhorizontal.menu-dark li a:focus,
+  ul.menuhorizontal.menu-dark li:hover a,
+  ul.menuhorizontal.menu-dark li:focus a,
+  ul.menuhorizontal.menu-dark li span.nav-header:hover,
+  ul.menuhorizontal.menu-dark li span.nav-header:focus,
+  ul.menuhorizontal.menu-dark li.active span.nav-header,
+  ul.menuhorizontal.menu-dark li:hover span.nav-header,
+  ul.menuhorizontal.menu-dark li:focus span.nav-header {
+    color: #FD6250 !important;
+  }
+  ul.menuhorizontal.menu-dark li a:before,
+  ul.menuhorizontal.menu-dark li span.nav-header:before {
+    color: #eee;
+  }
+  ul.menuhorizontal.menu-dark li.active a:before,
+  ul.menuhorizontal.menu-dark li a:hover:before,
+  ul.menuhorizontal.menu-dark li a:focus:before,
+  ul.menuhorizontal.menu-dark li:hover a:before,
+  ul.menuhorizontal.menu-dark li:focus a:before,
+  ul.menuhorizontal.menu-dark li span.nav-header:hover:before,
+  ul.menuhorizontal.menu-dark li span.nav-header:focus:before,
+  ul.menuhorizontal.menu-dark li.active span.nav-header:before,
+  ul.menuhorizontal.menu-dark li:hover span.nav-header:before,
+  ul.menuhorizontal.menu-dark li:focus span.nav-header:before {
+    color: #FD6250 !important;
+  }
+  ul.menuhorizontal.pull-right li.active a,
+  ul.menuhorizontal.pull-right li a:hover,
+  ul.menuhorizontal.pull-right li a:focus,
+  ul.menuhorizontal.pull-right li:hover a,
+  ul.menuhorizontal.pull-right li:focus a,
+  ul.menuhorizontal.pull-right li span.nav-header:hover,
+  ul.menuhorizontal.pull-right li span.nav-header:focus,
+  ul.menuhorizontal.pull-right li.active span.nav-header,
+  ul.menuhorizontal.pull-right li:hover span.nav-header,
+  ul.menuhorizontal.pull-right li:focus span.nav-header {
+    color: #FD6250;
+    background-color: transparent;
+  }
+  #fav-topbar ul.nav li a:hover,
+  #fav-topbar ul.nav li a:focus {
+    color: #FD6250 !important;
+  }
+  #fav-topbar ul.nav li a:before {
+    color: #FD6250;
+  }
+  @media (max-width: 768px) {
+
+    #fav-topbar {
+      background-color: #FFF;
+      color: #444 !important;
+    }
+    #fav-topbar ul.nav li a {
+      color: #444 !important;
+    }
+
+  }
+  #fav-introwrap .moduletable a {
+    color: #FD6250;
+  }
+  #fav-introwrap .moduletable a:hover,
+  #fav-introwrap .moduletable a:focus {
+    color: #333;
+  }
+  #fav-slide,
+  #fav-slide h1,
+  #fav-slide h2,
+  #fav-slide h3,
+  #fav-slide h4,
+  #fav-slide h5,
+  #fav-slide h6,
+  #fav-slide p,
+  #fav-slide a {
+    color: #FFF;
+  }
+  #fav-slide a:focus,
+  #fav-slide a:hover {
+    color: #DDD;
+  }
+  #fav-breadcrumbswrap {
+    color: #FFF;
+  }
+  #fav-breadcrumbs,
+  #fav-breadcrumbs h1,
+  #fav-breadcrumbs h2,
+  #fav-breadcrumbs h3,
+  #fav-breadcrumbs h4,
+  #fav-breadcrumbs h5,
+  #fav-breadcrumbs h6,
+  #fav-breadcrumbs p,
+  #fav-breadcrumbs a {
+    color: #FFF;
+  }
+  #fav-breadcrumbs a:focus,
+  #fav-breadcrumbs a:hover {
+    color: #FD6250;
+  }
+  #fav-breadcrumbs .moduletable li,
+  #fav-breadcrumbs div[class^="moduletable-"] li,
+  #fav-breadcrumbs div[class*=" moduletable-"] li {
+    text-shadow: none;
+    color: #FD6250;
+  }
+  #fav-breadcrumbs .breadcrumb > li > .divider {
+    color: #FFF;
+  }
+  a.backtop i {
+    background-color: #FD6250;
+    color: #FFFFFF;
+  }
+  #fav-primewrap .moduletable a,
+  #fav-screenwrap .moduletable a,
+  #fav-maintopwrap .moduletable a,
+  #fav-mainwrap a,
+  #fav-mainbottomwrap .moduletable a,
+  #fav-basewrap .moduletable a,
+  #fav-debugwrap .moduletable a {
+    color: #FD6250;
+  }
+  #fav-primewrap .moduletable a:hover,
+  #fav-primewrap .moduletable a:focus,
+  #fav-screenwrap .moduletable a:hover,
+  #fav-screenwrap .moduletable a:focus,
+  #fav-maintopwrap .moduletable a:hover,
+  #fav-maintopwrap .moduletable a:focus,
+  #fav-mainwrap a:hover,
+  #fav-mainwrap a:focus,
+  #fav-mainbottomwrap .moduletable a:hover,
+  #fav-mainbottomwrap .moduletable a:focus,
+  #fav-basewrap .moduletable a:hover,
+  #fav-basewrap .moduletable a:focus {
+    color: #333;
+  }
+  #fav-topbar .moduletable a,
+  #fav-promo .moduletable a,
+  #fav-feature .moduletable a,
+  #fav-top .moduletable a,
+  #fav-bottom .moduletable a,
+  #fav-user .moduletable a,
+  #fav-copyright .moduletable a {
+    color: #FD6250;
+  }
+  #fav-topbar .moduletable a:focus,
+  #fav-topbar .moduletable a:hover,
+  #fav-promo .moduletable a:focus,
+  #fav-promo .moduletable a:hover,
+  #fav-feature .moduletable a:focus,
+  #fav-feature .moduletable a:hover,
+  #fav-top .moduletable a:focus,
+  #fav-top .moduletable a:hover,
+  #fav-bottom .moduletable a:focus,
+  #fav-bottom .moduletable a:hover,
+  #fav-user .moduletable a:focus,
+  #fav-user .moduletable a:hover,
+  #fav-copyright .moduletable a:focus,
+  #fav-copyright .moduletable a:hover {
+    color: #DDD;
+  }
+  #fav-noticewrap,
+  #fav-leadwrap,
+  #fav-focuswrap,
+  #fav-blockwrap {
+    background-color: #FD6250;
+  }
+  .page-header h2 a:hover,
+  h2.item-title a:hover,
+  div.categories-list h3 a:hover,
+  div.newsfeed h2 a:hover,
+  div.newsfeed-category h2 a:hover {
+    color: #FD6250 !important;
+  }
+  .page-header h2 a,
+  h2.item-title a,
+  div.categories-list h3 a,
+  div.newsfeed h2 a,
+  div.newsfeed-category h2 a {
+    color: #444 !important;
+  }
+  .moduletable .custom h3,
+  div[class^="moduletable-"] div[class^="custom-"] h3,
+  div[class^="moduletable-"] div[class*=" custom-"] h3,
+  div[class*=" moduletable-"] div[class^="custom-"] h3,
+  div[class*=" moduletable-"] div[class*=" custom-"] h3 {
+    color: inherit;
+  }
+  .moduletable h3 [class^="fa fa-"],
+  .moduletable h3 [class*=" fa fa-"] {
+    background-color: #FD6250;
+    color: #fff;
+  }
+  div.hikashop_container .hikashop_category_name a,
+  div.hikashop_subcontainer span.hikashop_product_name a {
+    color: #444 !important;
+  }
+  div.hikashop_container .hikashop_category_name a:hover,
+  div.hikashop_container .hikashop_category_name a:focus,
+  div.hikashop_subcontainer span.hikashop_product_name a:hover,
+  div.hikashop_subcontainer span.hikashop_product_name a:focus {
+    color: #FD6250 !important;
+  }
+  .hikashop_product_characteristics_table a {
+    color: #444 !important;
+  }
+  #fav-container .btn,
+  .pager .next a,
+  .pager .previous a {
+    color: #FFF !important;
+    background-color: #FD6250 !important;
+    border: 2px solid transparent !important;
+  }
+  #fav-container .btn:hover,
+  #fav-container .btn:focus {
+    color: #fff !important;
+    background-color: transparent !important;
+    border: 2px solid #FD6250 !important;
+    box-shadow: none;
+  }
+  .pager .next a:hover,
+  .pager .previous a:hover,
+  .pager .next a:focus,
+  .pager .previous a:focus {
+    color: #333 !important;
+    background-color: transparent !important;
+    border: 2px solid #FD6250 !important;
+    box-shadow: none;
+  }
+  #fav-container .btn-primary {
+    color: #FFF !important;
+    background-color: #FD6250 !important;
+    border: 2px solid transparent !important;
+    background-image: none;
+  }
+  #fav-container .btn-primary:hover,
+  #fav-container .btn-primary:focus {
+    color: #FFF !important;
+    background-color: #222 !important;
+    border: 2px solid transparent !important;
+  }
+  #fav-container .btn-group .btn.dropdown-toggle:hover,
+  #fav-container .btn-group .btn.dropdown-toggle:focus {
+    color: #FFF !important;
+    border: 2px solid #FD6250 !important;
+    background-color: #FD6250 !important;
+  }
+  .pull-right > .dropdown-menu li a {
+    color: #333 !important;
+  }
+  .pull-right > .dropdown-menu li a:hover,
+  .pull-right > .dropdown-menu li a:focus {
+    color: #FD6250 !important;
+  }
+  #fav-container .moduletablefavstyle .fav-search a.btn.dropdown-toggle:hover,
+  #fav-container .moduletablefavstyle .fav-search a.btn.dropdown-toggle:focus,
+  #fav-container .moduletable.favstyle .fav-search a.btn.dropdown-toggle:hover,
+  #fav-container .moduletable.favstyle .fav-search a.btn.dropdown-toggle:focus,
+  #fav-container .moduletablefavstyle .fav-search a.btn.dropdown-toggle:hover i,
+  #fav-container .moduletable.favstyle .fav-search a.btn.dropdown-toggle:focus i,
+  #fav-container .moduletablefavstyle .fav-search a.dropdown-toggle i,
+  #fav-container .moduletable.favstyle .fav-search a.dropdown-toggle i {
+    color: #FFF !important;
+    background-color: #FD6250 !important;
+  }
+  .hikashop_cart_input_button,
+  a.hikashop_cart_button,
+  .hikashop_categories_listing_main .btn {
+    color: #FFF;
+    background-color: #FD6250 !important;
+    border: 2px solid transparent;
+  }
+  #fav-containerwrap .hikashop_product_stock .btn.button.hikashop_cart_input_button:hover,
+  #fav-containerwrap .hikashop_product_stock .btn.button.hikashop_cart_input_button:focus,
+  #fav-containerwrap .hikashop_product_stock a.hikashop_cart_button:hover,
+  #fav-containerwrap .hikashop_product_stock a.hikashop_cart_button:focus,
+  #fav-containerwrap .hikashop_module .hikashop_cart_input_button:hover,
+  #fav-containerwrap .hikashop_module .hikashop_cart_input_button:focus,
+  #fav-containerwrap .hikashop_module a.hikashop_cart_button:hover,
+  #fav-containerwrap .hikashop_module a.hikashop_cart_button:focus,
+  #fav-containerwrap .hikashop_cart_input_button:hover,
+  #fav-containerwrap .hikashop_cart_input_button:focus,
+  #fav-containerwrap a.hikashop_cart_button:hover,
+  #fav-containerwrap a.hikashop_cart_button:focus {
+    color: #333 !important;
+    background-color: transparent !important;
+    border: 2px solid #FD6250 !important;
+    box-shadow: none !important;
+    text-shadow: none;
+  }
+  .hikashop_categories_listing_main .btn {
+    color: #fff;
+    background-color: #333;
+  }
+  .hikashop_categories_listing_main .btn:hover,
+  .hikashop_categories_listing_main .btn:focus  {
+    box-shadow: none !important;
+  }
+  #hikashop_checkout_login #form-login-submit .btn-primary,
+  .hikashop_cart_input_button,
+  a.hikashop_cart_button,
+  .hikashop_product_stock a.hikashop_cart_button {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+  }
+  #hikashop_checkout_login #form-login-submit .btn-primary:hover,
+  #hikashop_checkout_login #form-login-submit .btn-primary:focus,
+  #hikashop_checkout_login_left_part input.btn:hover,
+  #hikashop_checkout_login_left_part input.btn:focus,
+  #hikashop_checkout_login_right_part input.btn:hover,
+  #hikashop_checkout_login_right_part input.btn:focus {
+    box-shadow: none !important;
+  }
+  .btn-group > .btn:first-child {
+    margin-left: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+  }
+  .btn-group > .btn:last-child, .btn-group > .dropdown-toggle {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+  }
+  #fav-container .btn-info,
+  #fav-container .btn-info:link,
+  #fav-container .btn-info:visited {
+    color: #ffffff !important;
+    background-color: #5bc0de !important;
+    background-image: none;
+    border: 2px solid transparent !important;
+  }
+  #fav-container .btn-info:hover,
+  #fav-container .btn-info:focus,
+  #fav-container .btn-info:active,
+  #fav-container .btn-info.active {
+    color: #444 !important;
+    background-color: rgba(255,255,255,0.4) !important;
+    border: 2px solid #5bc0de !important;
+  }
+  #fav-container .btn-info.disabled,
+  #fav-container .btn-info[disabled],
+  #fav-container fieldset[disabled] .btn-info,
+  #fav-container .btn-info.disabled:hover,
+  #fav-container .btn-info[disabled]:hover,
+  #fav-container fieldset[disabled] .btn-info:hover,
+  #fav-container .btn-info.disabled:focus,
+  #fav-container .btn-info[disabled]:focus,
+  #fav-container fieldset[disabled] .btn-info:focus,
+  #fav-container .btn-info.disabled:active,
+  #fav-container .btn-info[disabled]:active,
+  #fav-container fieldset[disabled] .btn-info:active,
+  #fav-container .btn-info.disabled.active,
+  #fav-container .btn-info[disabled].active,
+  #fav-container fieldset[disabled] .btn-info.active {
+    background-color: #5bc0de;
+    border-color: #5bc0de;
+  }
+  #fav-container .btn-success,
+  #fav-container .btn-success:link,
+  #fav-container .btn-success:visited {
+    color: #ffffff !important;
+    background-color: #5cb85c !important;
+    background-image: none;
+    border: 2px solid transparent !important;
+  }
+  #fav-container .btn-success:hover,
+  #fav-container .btn-success:focus,
+  #fav-container .btn-success:active,
+  #fav-container .btn-success.active {
+    color: #444 !important;
+    background-color: rgba(255,255,255,0.4) !important;
+    border: 2px solid #5cb85c !important;
+  }
+  #fav-container .btn-success.disabled,
+  #fav-container .btn-success[disabled],
+  #fav-container fieldset[disabled] .btn-success,
+  #fav-container .btn-success.disabled:hover,
+  #fav-container .btn-success[disabled]:hover,
+  #fav-container fieldset[disabled] .btn-success:hover,
+  #fav-container .btn-success.disabled:focus,
+  #fav-container .btn-success[disabled]:focus,
+  #fav-container fieldset[disabled] .btn-success:focus,
+  #fav-container .btn-success.disabled:active,
+  #fav-container .btn-success[disabled]:active,
+  #fav-container fieldset[disabled] .btn-success:active,
+  #fav-container .btn-success.disabled.active,
+  #fav-container .btn-success[disabled].active,
+  #fav-container fieldset[disabled] .btn-success.active {
+    background-color: #5cb85c !important;
+    border-color: #5cb85c !important;
+  }
+  #fav-container .btn-warning,
+  #fav-container .btn-warning:link,
+  #fav-container .btn-warning:visited {
+    color: #ffffff !important;
+    background-color: #f0ad4e !important;
+    background-image: none;
+    border: 2px solid transparent !important;
+  }
+  #fav-container .btn-warning:hover,
+  #fav-container .btn-warning:focus,
+  #fav-container .btn-warning:active,
+  #fav-container .btn-warning.active {
+    color: #444 !important;
+    background-color: rgba(255,255,255,0.4) !important;
+    border: 2px solid #f0ad4e !important;
+  }
+  #fav-container .btn-warning.disabled,
+  #fav-container .btn-warning[disabled],
+  #fav-container fieldset[disabled] .btn-warning,
+  #fav-container .btn-warning.disabled:hover,
+  #fav-container .btn-warning[disabled]:hover,
+  #fav-container fieldset[disabled] .btn-warning:hover,
+  #fav-container .btn-warning.disabled:focus,
+  #fav-container .btn-warning[disabled]:focus,
+  #fav-container fieldset[disabled] .btn-warning:focus,
+  #fav-container .btn-warning.disabled:active,
+  #fav-container .btn-warning[disabled]:active,
+  #fav-container fieldset[disabled] .btn-warning:active,
+  #fav-container .btn-warning.disabled.active,
+  #fav-container .btn-warning[disabled].active,
+  #fav-container fieldset[disabled] .btn-warning.active {
+    background-color: #f0ad4e !important;
+    border-color: #f0ad4e !important;
+  }
+  #fav-container .btn-danger,
+  #fav-container .btn-danger:link,
+  #fav-container .btn-danger:visited {
+    color: #ffffff !important;
+    background-color: #d9534f !important;
+    background-image: none;
+    border: 2px solid transparent !important;
+  }
+  #fav-container .btn-danger:hover,
+  #fav-container .btn-danger:focus,
+  #fav-container .btn-danger:active,
+  #fav-container .btn-danger.active {
+    color: #444 !important;
+    background-color: rgba(255,255,255,0.4) !important;
+    border: 2px solid #d9534f !important;
+  }
+  #fav-container .btn-danger.disabled,
+  #fav-container .btn-danger[disabled],
+  #fav-container fieldset[disabled] .btn-danger,
+  #fav-container .btn-danger.disabled:hover,
+  #fav-container .btn-danger[disabled]:hover,
+  #fav-container fieldset[disabled] .btn-danger:hover,
+  #fav-container .btn-danger.disabled:focus,
+  #fav-container .btn-danger[disabled]:focus,
+  #fav-container fieldset[disabled] .btn-danger:focus,
+  #fav-container .btn-danger.disabled:active,
+  #fav-container .btn-danger[disabled]:active,
+  #fav-container fieldset[disabled] .btn-danger:active,
+  #fav-container .btn-danger.disabled.active,
+  #fav-container .btn-danger[disabled].active,
+  #fav-container fieldset[disabled] .btn-danger.active {
+    background-color: #d9534f !important;
+    border-color: #d9534f !important;
+  }
+  #fav-container .btn-inverse,
+  #fav-container .btn-inverse:link,
+  #fav-container .btn-inverse:visited {
+    color: #ffffff !important;
+    background-color: #363636 !important;
+    background-image: none;
+    border: 2px solid transparent !important;
+  }
+  #fav-container .btn-inverse:hover,
+  #fav-container .btn-inverse:focus,
+  #fav-container .btn-inverse:active,
+  #fav-container .btn-inverse.active {
+    color: #444 !important;
+    background-color: rgba(255,255,255,0.4) !important;
+    border: 2px solid #363636 !important;
+  }
+  .pagination ul li a,
+  .pagination ul > .disabled > a,
+  .pagination ul > .active > a,
+  .pagination ul > .disabled > a:hover,
+  .pagination ul > .disabled > a:focus,
+  .pagination ul > .active > a:hover,
+  .pagination ul > .active > a:focus,
+  .hikashop_products_pagination .list-footer .pagenav,
+  .hikashop_subcategories_pagination .list-footer .pagenav {
+    color: #FFF !important;
+    background-color: #FD6250;
+    border: 2px solid transparent;
+  }
+  .pagination ul li a:hover,
+  .pagination ul li.active a,
+  .pagination ul li.active a:hover,
+  .pagination ul li.active a:focus,
+  .hikashop_products_pagination .list-footer span.pagenav,
+  .hikashop_subcategories_pagination .list-footer span.pagenav,
+  .hikashop_products_pagination .list-footer a.pagenav:hover,
+  .hikashop_products_pagination .list-footer a.pagenav:focus,
+  .hikashop_subcategories_pagination .list-footer a.pagenav:hover,
+  .hikashop_subcategories_pagination .list-footer a.pagenav:focus,
+  .hikashop_module .hikashop_products_pagination .list-footer span.pagenav,
+  .hikashop_module .hikashop_subcategories_pagination .list-footer span.pagenav,
+  .hikashop_module .hikashop_products_pagination .list-footer a.pagenav:hover,
+  .hikashop_module .hikashop_products_pagination .list-footer a.pagenav:focus,
+  .hikashop_module .hikashop_subcategories_pagination .list-footer a.pagenav:hover,
+  .hikashop_module .hikashop_subcategories_pagination .list-footer a.pagenav:focus {
+    color: #333 !important;
+    background-color: #fff;
+    border: 2px solid #FD6250;
+    box-shadow: none;
+  }
+  .pagination ul > .disabled > a,
+  .pagination ul > .disabled > a:hover,
+  .pagination ul > .disabled > a:focus {
+    border: 2px solid transparent !important;
+  }
+  #fav-intro .btn:hover,
+  #fav-intro .btn:focus,
+  #fav-prime .btn:hover,
+  #fav-prime .btn:focus,
+  #fav-screen .btn:hover,
+  #fav-screen .btn:focus,
+  #fav-maintop .btn:hover,
+  #fav-maintop .btn:focus,
+  #fav-main .btn:hover,
+  #fav-main .btn:focus,
+  #fav-mainbottom .btn:hover,
+  #fav-mainbottom .btn:focus,
+  #fav-base .btn:hover,
+  #fav-base .btn:focus,
+  #fav-debug .btn:hover,
+  #fav-debug .btn:focus {
+    color: #333 !important;
+  }
+  .moduletable-sfx13 .btn:hover,
+  .moduletable-sfx13 .btn:focus,
+  .moduletable-sfx14 .btn:hover,
+  .moduletable-sfx14 .btn:focus,
+  .moduletable-sfx15 .btn:hover,
+  .moduletable-sfx15 .btn:focus,
+  .moduletable-sfx16 .btn:hover,
+  .moduletable-sfx16 .btn:focus,
+  .moduletable-sfx17 .btn:hover,
+  .moduletable-sfx17 .btn:focus,
+  .moduletable-sfx18 .btn:hover,
+  .moduletable-sfx18 .btn:focus,
+  .moduletable-sfx19 .btn:hover,
+  .moduletable-sfx19 .btn:focus,
+  .moduletable-sfx20 .btn:hover,
+  .moduletable-sfx20 .btn:focus {
+    color: #333 !important;
+  }
+  #fav-advert .btn,
+  #fav-lead .btn,
+  #fav-focus .btn,
+  #fav-block .btn,
+  .moduletable-sfx21 .btn,
+  .moduletable-sfx22 .btn,
+  .moduletable-sfx23 .btn,
+  .moduletable-sfx24 .btn {
+    background-color: rgba(17, 17, 17, 0.47) !important;
+    color: #FFF !important;
+    border: 2px solid transparent !important;
+  }
+  #fav-advert .btn:hover,
+  #fav-advert .btn:focus,
+  #fav-lead .btn:hover,
+  #fav-lead .btn:focus,
+  #fav-focus .btn:hover,
+  #fav-focus .btn:focus,
+  #fav-block .btn:hover,
+  #fav-block .btn:focus,
+  .moduletable-sfx21 .btn:hover,
+  .moduletable-sfx21 .btn:focus,
+  .moduletable-sfx22 .btn:hover,
+  .moduletable-sfx22 .btn:focus,
+  .moduletable-sfx23 .btn:hover,
+  .moduletable-sfx23 .btn:focus,
+  .moduletable-sfx24 .btn:hover,
+  .moduletable-sfx24 .btn:focus {
+    background-color: transparent !important;
+    color: #FFF !important;
+    border: 2px solid rgba(17, 17, 17, 0.47) !important;
+  }
+  #fav-intro .btn-primary:hover,
+  #fav-intro .btn-primary:focus,
+  #fav-prime .btn-primary:hover,
+  #fav-prime .btn-primary:focus,
+  #fav-screen .btn-primary:hover,
+  #fav-screen .btn-primary:focus,
+  #fav-maintop .btn-primary:hover,
+  #fav-maintop .btn-primary:focus,
+  #fav-main .btn-primary:hover,
+  #fav-main .btn-primary:focus,
+  #fav-mainbottom .btn-primary:hover,
+  #fav-mainbottom .btn-primary:focus,
+  #fav-base .btn-primary:hover,
+  #fav-base .btn-primary:focus,
+  #fav-debug .btn-primary:hover,
+  #fav-debug .btn-primary:focus {
+    color: #fff !important;
+  }
+  .moduletable-sfx13 .btn-primary:hover,
+  .moduletable-sfx13 .btn-primary:focus,
+  .moduletable-sfx14 .btn-primary:hover,
+  .moduletable-sfx14 .btn-primary:focus,
+  .moduletable-sfx15 .btn-primary:hover,
+  .moduletable-sfx15 .btn-primary:focus,
+  .moduletable-sfx16 .btn-primary:hover,
+  .moduletable-sfx16 .btn-primary:focus,
+  .moduletable-sfx17 .btn-primary:hover,
+  .moduletable-sfx17 .btn-primary:focus,
+  .moduletable-sfx18 .btn-primary:hover,
+  .moduletable-sfx18 .btn-primary:focus,
+  .moduletable-sfx19 .btn-primary:hover,
+  .moduletable-sfx19 .btn-primary:focus,
+  .moduletable-sfx20 .btn-primary:hover,
+  .moduletable-sfx20 .btn-primary:focus {
+    color: #fff !important;
+  }
+  #fav-topbar .btn-primary:hover,
+  #fav-topbar .btn-primary:focus,
+  #fav-promo .btn-primary:hover,
+  #fav-promo .btn-primary:focus,
+  #fav-feature .btn-primary:hover,
+  #fav-feature .btn-primary:focus,
+  #fav-top .btn-primary:hover,
+  #fav-top .btn-primary:focus,
+  #fav-bottom .btn-primary:hover,
+  #fav-bottom .btn-primary:focus,
+  #fav-user .btn-primary:hover,
+  #fav-user .btn-primary:focus,
+  #fav-copyright .btn-primary:hover,
+  #fav-copyright .btn-primary:focus {
+    background-color: rgba(17, 17, 17, 0.67) !important;
+  }
+  #fav-showcase .btn-primary:hover,
+  #fav-showcase .btn-primary:focus,
+  #fav-portfolio .btn-primary:hover,
+  #fav-portfolio .btn-primary:focus,
+  #fav-note .btn-primary:hover,
+  #fav-note .btn-primary:focus,
+  #fav-footer .btn-primary:hover,
+  #fav-footer .btn-primary:focus,
+  #fav-advert .btn-primary:hover,
+  #fav-advert .btn-primary:focus,
+  #fav-lead .btn-primary:hover,
+  #fav-lead .btn-primary:focus,
+  #fav-focus .btn-primary:hover,
+  #fav-focus .btn-primary:focus,
+  #fav-block .btn-primary:hover,
+  #fav-block .btn-primary:focus {
+    color: #333 !important;
+    background-color: #fff !important;
+    border: 2px solid transparent !important;
+  }
+  .moduletable-sfx21 .btn-primary:hover,
+  .moduletable-sfx21 .btn-primary:focus,
+  .moduletable-sfx22 .btn-primary:hover,
+  .moduletable-sfx22 .btn-primary:focus,
+  .moduletable-sfx23 .btn-primary:hover,
+  .moduletable-sfx23 .btn-primary:focus,
+  .moduletable-sfx24 .btn-primary:hover,
+  .moduletable-sfx24 .btn-primary:focus,
+  .moduletable-sfx33 .btn-primary:hover,
+  .moduletable-sfx33 .btn-primary:focus,
+  .moduletable-sfx34 .btn-primary:hover,
+  .moduletable-sfx34 .btn-primary:focus,
+  .moduletable-sfx35 .btn-primary:hover,
+  .moduletable-sfx35 .btn-primary:focus,
+  .moduletable-sfx36 .btn-primary:hover,
+  .moduletable-sfx36 .btn-primary:focus {
+    color: #333 !important;
+    background-color: #fff !important;
+    border: 2px solid transparent !important;
+  }
+  .moduletable-sfx17,
+  .moduletable-sfx18,
+  .moduletable-sfx19,
+  .moduletable-sfx20,
+  .moduletable-sfx29,
+  .moduletable-sfx30,
+  .moduletable-sfx31,
+  .moduletable-sfx32,
+  .moduletable-sfx2 h3,
+  .moduletable-sfx4 h3,
+  .moduletable-sfx6 h3,
+  .moduletable-sfx8 h3,
+  .moduletable-sfx10 h3,
+  .moduletable-sfx12 h3,
+  .moduletable-sfx14 h3,
+  .moduletable-sfx16 h3,
+  .moduletable-sfx18 h3,
+  .moduletable-sfx20 h3,
+  .moduletable-sfx26 h3,
+  .moduletable-sfx28 h3,
+  .moduletable-sfx30 h3,
+  .moduletable-sfx32 h3,
+  .moduletable-sfx34 h3,
+  .moduletable-sfx36 h3 {
+    border-color: #FD6250;
+    border-width: 2px;
+  }
+  .moduletable h3 [class^="fa fa-"],
+  .moduletable h3 [class*=" fa fa-"],
+  div[class^="moduletable-"] h3 [class^="fa fa-"],
+  div[class^="moduletable-"] h3 [class*=" fa fa-"],
+  div[class*=" moduletable-"] h3 [class^="fa fa-"],
+  div[class*=" moduletable-"] h3 [class*=" fa fa-"] {
+    border-color: #FD6250;
+    border-width: 2px;
+    color: inherit;
+  }
+  .moduletable-sfx3 h3 i,
+  .moduletable-sfx4 h3 i,
+  .moduletable-sfx7 h3 i,
+  .moduletable-sfx8 h3 i,
+  .moduletable-sfx11 h3 i,
+  .moduletable-sfx12 h3 i,
+  .moduletable-sfx15 h3 i,
+  .moduletable-sfx16 h3 i,
+  .moduletable-sfx19 h3 i,
+  .moduletable-sfx20 h3 i,
+  .moduletable-sfx27 h3 i,
+  .moduletable-sfx28 h3 i,
+  .moduletable-sfx31 h3 i,
+  .moduletable-sfx32 h3 i,
+  .moduletable-sfx35 h3 i,
+  .moduletable-sfx36 h3 i {
+    background-color: #FD6250;
+    color: #FFF !important;
+  }
+  .moduletable-sfx23 h3 i,
+  .moduletable-sfx24 h3 i {
+    background-color: #FFF;
+    color: #FD6250 !important;
+  }
+  .moduletable-sfx13 h3 i,
+  .moduletable-sfx14 h3 i,
+  .moduletable-sfx17 h3 i,
+  .moduletable-sfx18 h3 i {
+    color: #FD6250 !important;
+    background-color: transparent;
+  }
+  .moduletable-sfx21,
+  .moduletable-sfx22,
+  .moduletable-sfx23,
+  .moduletable-sfx24 {
+    background-color: #FD6250;
+  }
+  .moduletable-sfx1 a,
+  .moduletable-sfx2 a,
+  .moduletable-sfx3 a,
+  .moduletable-sfx4 a,
+  .moduletable-sfx5 a,
+  .moduletable-sfx6 a,
+  .moduletable-sfx7 a,
+  .moduletable-sfx8 a {
+    color: #FD6250;
+  }
+  .moduletable-sfx1 a:hover,
+  .moduletable-sfx1 a:focus,
+  .moduletable-sfx2 a:hover,
+  .moduletable-sfx2 a:focus,
+  .moduletable-sfx3 a:hover,
+  .moduletable-sfx3 a:focus,
+  .moduletable-sfx4 a:hover,
+  .moduletable-sfx4 a:focus,
+  .moduletable-sfx5 a:hover,
+  .moduletable-sfx5 a:focus,
+  .moduletable-sfx6 a:hover,
+  .moduletable-sfx6 a:focus,
+  .moduletable-sfx7 a:hover,
+  .moduletable-sfx7 a:focus,
+  .moduletable-sfx8 a:hover,
+  .moduletable-sfx8 a:focus {
+    color: #444;
+  }
+  .moduletable-sfx13 a,
+  .moduletable-sfx14 a,
+  .moduletable-sfx15 a,
+  .moduletable-sfx16 a,
+  .moduletable-sfx17 a,
+  .moduletable-sfx18 a,
+  .moduletable-sfx19 a,
+  .moduletable-sfx20 a,
+  .moduletable-sfx25 a,
+  .moduletable-sfx26 a,
+  .moduletable-sfx27 a,
+  .moduletable-sfx28 a,
+  .moduletable-sfx29 a,
+  .moduletable-sfx30 a,
+  .moduletable-sfx31 a,
+  .moduletable-sfx32 a,
+  .moduletable-sfx33 a,
+  .moduletable-sfx34 a,
+  .moduletable-sfx35 a,
+  .moduletable-sfx36 a {
+    color: #FD6250;
+  }
+  .moduletable-sfx13 a:hover,
+  .moduletable-sfx13 a:focus,
+  .moduletable-sfx14 a:hover,
+  .moduletable-sfx14 a:focus,
+  .moduletable-sfx15 a:hover,
+  .moduletable-sfx15 a:focus,
+  .moduletable-sfx16 a:hover,
+  .moduletable-sfx16 a:focus,
+  .moduletable-sfx17 a:hover,
+  .moduletable-sfx17 a:focus,
+  .moduletable-sfx18 a:hover,
+  .moduletable-sfx18 a:focus,
+  .moduletable-sfx19 a:hover,
+  .moduletable-sfx19 a:focus,
+  .moduletable-sfx20 a:hover,
+  .moduletable-sfx20 a:focus {
+    color: #444;
+  }
+  .moduletable-sfx21 a:hover,
+  .moduletable-sfx21 a:focus,
+  .moduletable-sfx22 a:hover,
+  .moduletable-sfx22 a:focus,
+  .moduletable-sfx23 a:hover,
+  .moduletable-sfx23 a:focus,
+  .moduletable-sfx24 a:hover,
+  .moduletable-sfx24 a:focus,
+  .moduletable-sfx25 a:hover,
+  .moduletable-sfx25 a:focus,
+  .moduletable-sfx26 a:hover,
+  .moduletable-sfx26 a:focus,
+  .moduletable-sfx27 a:hover,
+  .moduletable-sfx27 a:focus,
+  .moduletable-sfx28 a:hover,
+  .moduletable-sfx28 a:focus,
+  .moduletable-sfx29 a:hover,
+  .moduletable-sfx29 a:focus {
+    color: #fff;
+  }
+  .moduletable-sfx30 a:hover,
+  .moduletable-sfx30 a:focus,
+  .moduletable-sfx31 a:hover,
+  .moduletable-sfx31 a:focus,
+  .moduletable-sfx32 a:hover,
+  .moduletable-sfx32 a:focus,
+  .moduletable-sfx33 a:hover,
+  .moduletable-sfx33 a:focus,
+  .moduletable-sfx34 a:hover,
+  .moduletable-sfx34 a:focus,
+  .moduletable-sfx35 a:hover,
+  .moduletable-sfx35 a:focus,
+  .moduletable-sfx36 a:hover,
+  .moduletable-sfx36 a:focus {
+    color: #fff;
+  }
+  .favnav-styles-demo .favnav li.active a,
+  .favnav-styles-demo .favnav li a:hover,
+  .favnav-styles-demo .favnav li a:focus {
+    color: #FD6250 !important;
+    background-color: transparent;
+  }
+  .favnav-styles-demo .favnav .navigation li a[class^="fa-"]:before,
+  .favnav-styles-demo .favnav .navigation li a[class*=" fa-"]:before {
+    color: #FD6250 !important;
+  }
+  .img-polaroid,
+  .item-image img,
+  .img-polaroid-clear,
+  .img-polaroid-dark,
+  .img-polaroid-color {
+    padding: 4px;
+    border: 1px solid transparent;
+  }
+  .img-polaroid,
+  .item-image img,
+  .fav-tags-img {
+    background-color: #DDD;
+  }
+  .img-polaroid-dark {
+    background-color: #FFF;
+  }
+  .img-polaroid-clear {
+    background-color: rgba(17, 17, 17, 0.67);
+  }
+  blockquote {
+    border-color: #FD6250;
+  }
+  blockquote.blockquote-dark {
+    border-color: #FD6250;
+  }
+  pre, code {
+    border: 1px solid #E2E2E2;
+    background-color: #F2F2F2;
+  }
+  .muted {
+    color: #999 !important;
+  }
+  .text-warning {
+    color: #C09853 !important;
+  }
+  .text-error {
+    color: #B94A48 !important;
+  }
+  .text-info {
+    color: #3A87AD !important;
+  }
+  .text-success {
+    color: #468847 !important;
+  }
+  ul.list-square li:before {
+    background-color: #FD6250;
+    color: #fff;
+  }
+  ol.list-square li:before {
+    color: #fff;
+    background: none repeat scroll 0% 0% #FD6250;
+  }
+  ul.list-circle li:before {
+    background-color: #FD6250;
+    color: #fff;
+  }
+  ol.list-circle li:before {
+    color: #fff;
+    background: none repeat scroll 0% 0% #FD6250;
+  }
+  ul.dropdown-menu a:hover {
+    color: #FD6250;
+  }
+  .btn-group.open .btn.dropdown-toggle {
+    background-color: #FD6250;
+  }
+  #fav-container div.tag-category ul.thumbnails h3 a,
+  #fav-container .label-info[href],
+  #fav-container .badge-info[href] {
+    background-color: #FD6250 !important;
+    color: #fff !important;
+  }
+  #fav-container div.tag-category ul.thumbnails h3 a:hover,
+  #fav-container div.tag-category ul.thumbnails h3 a:focus,
+  #fav-container .label-info[href]:hover,
+  #fav-container .label-info[href]:focus,
+  #fav-container .badge-info[href]:hover,
+  #fav-container .badge-info[href]:focus {
+    background-color: #222 !important;
+    color: #fff !important;
+  }
+  ul.tags li a {
+    color: #FD6250;
+  }
+  .badge-info {
+    background-color: #FD6250;
+  }
+  #fav-container #fav-language a.btn.dropdown-toggle,
+  #fav-container #fav-language-demo a.btn.dropdown-toggle {
+    color: #FFF !important;
+    border: 2px solid transparent !important;
+  }
+  #fav-container #fav-language a.btn.dropdown-toggle:hover,
+  #fav-container #fav-language-demo a.btn.dropdown-toggle:hover,
+  #fav-container #fav-language a.btn.dropdown-toggle:focus,
+  #fav-container #fav-language-demo a.btn.dropdown-toggle:focus {
+    background-color: transparent !important;
+    color: #FFF !important;
+    border: 2px solid #FD6250 !important;
+  }
+  #fav-container #fav-language a.btn.dropdown-toggle span.caret,
+  #fav-container #fav-language-demo a.btn.dropdown-toggle span.caret {
+    border-top: 4px solid #FFF;
+  }
+  #fav-container #fav-language a.btn.dropdown-toggle:hover span.caret,
+  #fav-container #fav-language-demo a.btn.dropdown-toggle:hover span.caret,
+  #fav-container #fav-language a.btn.dropdown-toggle:focus span.caret,
+  #fav-container #fav-language-demo a.btn.dropdown-toggle:focus span.caret {
+    border-top: 4px solid #FFF;
+  }
+  #fav-container #fav-language ul.dropdown-menu li a:hover,
+  #fav-container #fav-language-demo ul.dropdown-menu li a:hover,
+  #fav-container #fav-language ul.dropdown-menu li a:focus,
+  #fav-container #fav-language-demo ul.dropdown-menu li a:focus {
+    color: #FD6250;
+  }
+  @media (max-width: 768px) {
+
+    #fav-container #fav-language a.btn.dropdown-toggle,
+    #fav-container #fav-language-demo a.btn.dropdown-toggle {
+      color: #444 !important;
+    }
+    #fav-container #fav-language a.btn.dropdown-toggle:hover,
+    #fav-container #fav-language-demo a.btn.dropdown-toggle:hover,
+    #fav-container #fav-language a.btn.dropdown-toggle:focus,
+    #fav-container #fav-language-demo a.btn.dropdown-toggle:focus {
+      background-color: transparent !important;
+      color: #444 !important;
+      border: 2px solid transparent !important;
+    }
+    #fav-container #fav-language,
+    #fav-container #fav-language-demo {
+      border-bottom: 1px solid #DDD !important;
+    }
+    #fav-container #fav-language ul.dropdown-menu,
+    #fav-container #fav-language-demo ul.dropdown-menu {
+      border-top: 1px solid #DDD !important;
+    }
+    #fav-container #fav-language a.btn.dropdown-toggle span.caret,
+    #fav-container #fav-language-demo a.btn.dropdown-toggle span.caret {
+      border-top: 4px solid #444;
+    }
+    #fav-container #fav-language a.btn.dropdown-toggle:hover span.caret,
+    #fav-container #fav-language-demo a.btn.dropdown-toggle:hover span.caret,
+    #fav-container #fav-language a.btn.dropdown-toggle:focus span.caret,
+    #fav-container #fav-language-demo a.btn.dropdown-toggle:focus span.caret {
+      border-top: 4px solid #444;
+    }
+
+  }
+  div.newsfeed h2 a:hover,
+  div.newsfeed-category h2 a:hover {
+    color: #FD6250;
+  }
+  .moduletablefavstyle .fav-search .nav > li > a:hover {
+    background-color: #333;
+  }
+  .moduletablefavstyle .fav-search .nav > li > a:focus {
+    background-color: #FD6250;
+    box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.2) inset, 0px 1px 2px rgba(0, 0, 0, 0.05);
+  }
+  div.search #searchForm button.btn.hasTooltip {
+    padding: 10px 14px;
+  }
+  #fav-search-advanced-fields .accordion-heading a.accordion-toggle {
+    color: #FFF !important;
+    background-color: #FD6250;
+    border: 2px solid transparent !important;
+    padding: 10px 18px 9px;
+  }
+  #fav-search-advanced-fields .accordion-heading a.accordion-toggle:hover,
+  #fav-search-advanced-fields .accordion-heading a.accordion-toggle:focus {
+    color: #333 !important;
+    background-color: transparent;
+    border: 2px solid #FD6250 !important;
+    box-shadow: none;
+  }
+  .moduletablefavstyle .fav-search a.btn.dropdown-toggle:hover,
+  .moduletablefavstyle .fav-search a.btn.dropdown-toggle:focus,
+  .moduletable.favstyle .fav-search a.btn.dropdown-toggle:hover,
+  .moduletable.favstyle .fav-search a.btn.dropdown-toggle:focus,
+  .moduletablefavstyle .fav-search a.btn.dropdown-toggle:hover i,
+  .moduletable.favstyle .fav-search a.btn.dropdown-toggle:focus i,
+  .moduletablefavstyle .fav-search a.dropdown-toggle i,
+  .moduletable.favstyle .fav-search a.dropdown-toggle i {
+    color: #FFF !important;
+    background-color: #FD6250;
+  }
+
+  @media (max-width: 768px) {
+
+    .moduletablefavstyle.pull-left .fav-search a.btn.dropdown-toggle i {
+      color: #FD6250;
+    }
+    .moduletablefavstyle .fav-search a.btn.dropdown-toggle,
+    .moduletablefavstyle .fav-search a.btn.dropdown-toggle:hover,
+    .moduletablefavstyle .fav-search a.btn.dropdown-toggle:focus {
+      background-color: #FD6250 !important;
+    }
+
+  }
+  .chzn-container-single a.chzn-single {
+    color: #333 !important;
+  }
+  div.categories-list a.btn .icon-plus:hover,
+  div.categories-list a.btn .icon-plus:focus,
+  div.categories-list a.btn .icon-minus:hover,
+  div.categories-list a.btn .icon-minus:focus,
+  div.categories-list h3.page-header.item-title a,
+  div.cat-children h3.page-header.item-title a,
+  div.categories-list h3.page-header.item-title a:hover .icon-plus,
+  div.categories-list h3.page-header.item-title a:focus .icon-plus,
+  div.cat-children h3.page-header.item-title a:hover .icon-plus,
+  div.cat-children h3.page-header.item-title a:focus .icon-plus,
+  div.categories-list h3.page-header.item-title a:hover .icon-minus,
+  div.categories-list h3.page-header.item-title a:focus .icon-minus,
+  div.cat-children h3.page-header.item-title a:hover .icon-minus,
+  div.cat-children h3.page-header.item-title a:focus .icon-minus {
+    color: #333 !important;
+  }
+  div.categories-list h3.page-header.item-title a:hover,
+  div.categories-list h3.page-header.item-title a:focus,
+  div.cat-children h3.page-header.item-title a:hover,
+  div.cat-children h3.page-header.item-title a:focus {
+    color: #FD6250 !important;
+  }
+  ul.mostread li a::before,
+  ul[class^="mostread-"] li a::before,
+  ul[class*=" mostread-"] li a::before {
+    color: #999;
+  }
+  span.hikashop_product_price,
+  .hikashop_checkout_cart_additional,
+  .hikashop_checkout_cart_payment,
+  .hikashop_checkout_cart_coupon,
+  .hikashop_checkout_cart_additional,
+  span.hikashop_checkout_cart_final_total {
+    color: #FD6250;
+  }
+  .hikashop_product_discount {
+    background-color: #FD6250;
+    color: #fff;
+  }
+  .hikashop_subcategories h4 a:hover,
+  .hikashop_subcategories h4 a:focus {
+    color: #FD6250;
+  }
+  .hikashop_module a:hover,
+  .hikashop_module a:focus {
+    color: #FD6250 !important;
+  }
+  #hikashop_cart a:hover {
+    color: #FD6250;
+  }
+  #hikashop_cart th {
+    border-bottom: 1px solid #FD6250;
+  }
+  #hikashop_cart .hikashop_cart_module_product_name_value a {
+    color: #444;
+  }
+  #hikashop_cart .hikashop_cart_module_product_name_value a:hover,
+  #hikashop_cart .hikashop_cart_module_product_name_value a:focus {
+    color: #FD6250;
+  }
+  #hikashop_cart .hikashop_cart_input_button:hover,
+  #hikashop_cart .hikashop_cart_input_button:focus {
+    color: #444 !important;
+  }
+  span.hikashop_product_price_full {
+    color: #444;
+  }
+  .favcartfavstyle #hikashop_cart_module #hikashop_cart,
+  .favcart.favstyle #hikashop_cart_module #hikashop_cart {
+    color: #333;
+  }
+  @media (max-width: 768px) {
+
+    #hikashop_cart a {
+      color: #444;
+    }
+    #hikashop_cart a:hover {
+      color: #FD6250;
+    }
+    .favcartfavstyle.pull-right #hikashop_cart_module a.btn.dropdown-toggle i,
+    .favcart.favstyle.pull-right #hikashop_cart_module a.btn.dropdown-toggle i,
+    .favcartfavstyle.pull-left #hikashop_cart_module a.btn.dropdown-toggle i,
+    .favcart.favstyle.pull-left #hikashop_cart_module a.btn.dropdown-toggle i {
+      color: #FD6250;
+    }
+    #hikashop_cart .hikashop_cart_module_product_name_value a:hover {
+      color: #FD6250;
+    }
+    .favcartfavstyle.pull-right #hikashop_cart_module a.btn.dropdown-toggle:hover,
+    .favcartfavstyle.pull-right #hikashop_cart_module a.btn.dropdown-toggle:focus {
+      border-color: transparent !important;
+    }
+    .favcartfavstyle #hikashop_cart_module .dropdown-menu,
+    .favcart.favstyle #hikashop_cart_module .dropdown-menu {
+      border-left: none;
+      border-right: none;
+    }
+    .favcartfavstyle.pull-right #hikashop_cart_module {
+      border-bottom: 1px solid #DDD !important;
+    }
+
+  }
+  #fav-containerwrap .hikashop_currency_module .chzn-container-single .chzn-single {
+    color: #FFF !important;
+  }
+  #fav-containerwrap .hikashop_currency_module .chzn-container .chzn-results li.active-result:hover,
+  #fav-containerwrap .hikashop_currency_module .chzn-container .chzn-results li.active-result:focus,
+  #fav-containerwrap .hikashop_currency_module .chzn-container .chzn-results li.active-result.result-selected {
+    color: #FD6250;
+  }
+  #fav-containerwrap .hikashop_currency_module .chzn-container:hover,
+  #fav-containerwrap .hikashop_currency_module .chzn-container:focus,
+  #fav-containerwrap .hikashop_currency_module .chzn-container a:hover,
+  #fav-containerwrap .hikashop_currency_module .chzn-container a:focus,
+  #fav-containerwrap .hikashop_currency_module .chzn-container:hover span,
+  #fav-containerwrap .hikashop_currency_module .chzn-container:focus span,
+  #fav-containerwrap .hikashop_currency_module .chzn-container a:hover span,
+  #fav-containerwrap .hikashop_currency_module .chzn-container a:focus span, {
+    background-color: transparent;
+    color: #FFF;
+  }
+  #fav-containerwrap .hikashop_currency_module .chzn-container .chzn-results li.active-result {
+    background-color: #FFF;
+    color: #333;
+  }
+  #fav-containerwrap .hikashop_currency_module .chzn-container-single .chzn-single {
+    border: 2px solid transparent;
+  }
+  #fav-containerwrap .hikashop_currency_module .chzn-container-single .chzn-single:hover,
+  #fav-containerwrap .hikashop_currency_module .chzn-container-single .chzn-single:focus {
+    border: 2px solid #FD6250;
+  }
+  @media (max-width: 768px) {
+
+    #fav-containerwrap .hikashop_currency_module .chzn-container-single .chzn-single {
+      color: #333 !important;
+    }
+    #fav-containerwrap .hikashop_currency_module .chzn-container-single .chzn-single:hover,
+    #fav-containerwrap .hikashop_currency_module .chzn-container-single .chzn-single:focus {
+      border: 2px solid transparent;
+    }
+    #fav-containerwrap .hikashop_currency_module .chzn-container .chzn-results {
+      border-top: 1px solid #ddd;
+    }
+    #fav-containerwrap .hikashop_currency_module .chzn-container {
+      border-bottom: 1px solid #ddd;
+    }
+
+  }
+  #hikashop_checkout_cart thead {
+    background-color: #FD6250;
+  }
+  p.hikashop_cart_product_name a {
+    color: #FD6250;
+  }
+  #hikashop_checkout_page .btn.btn-radio.active.btn-primary,
+  #hikashop_checkout_page .btn.btn-radio.active.btn-primary:hover,
+  #hikashop_checkout_page .btn.btn-radio.active.btn-primary:focus {
+    box-shadow: none;
+    background-color: #333;
+  }
+  .hikashop_checkout_cart_shipping,
+  .hikashop_checkout_cart_subtotal {
+    color: #333;
+  }
+  #hikashop_checkout_login a.btn:hover i,
+  #hikashop_checkout_login a.btn:focus i,
+  #hikashop_checkout_login a.btn i:hover,
+  #hikashop_checkout_login a.btn i:focus {
+    color: #333 !important;
+  }
+  .hikashop_cpanel_icon_table:hover .hikashop_cpanel_button_description {
+    color: #FD6250;
+  }
+  #hikashop_order_listing a,
+  #hikashop_order_listing a,
+  #hikashop_download_listing a,
+  #hikashop_download_listing a,
+  #hikashop_carts_listing div.toolbar a:hover,
+  #hikashop_affiliate_main div.toolbar a:hover,
+  #hikashop_address_listing div.toolbar a:hover,
+  #hikashop_order_listing div.toolbar a:hover,
+  #hikashop_order_listing span.icon-32-back,
+  #hikashop_order_back_button span.icon-32-back,
+  #hikashop_download_listing div.toolbar a:hover,
+  #hikashop_download_listing span.icon-32-back,
+  #hikashop_download_back_button span.icon-32-back,
+  #hikashop_address_listing span.icon-32-back,
+  #hikashop_new_address_popup span.icon-32-new,
+  #hikashop_order_listing span.icon-32-back:hover,
+  #hikashop_order_listing span.icon-32-back:focus,
+  #hikashop_order_back_button span.icon-32-back:hover,
+  #hikashop_order_back_button span.icon-32-back:focus,
+  #hikashop_download_listing span.icon-32-back:hover,
+  #hikashop_download_listing span.icon-32-back:focus,
+  #hikashop_download_back_button span.icon-32-back:hover,
+  #hikashop_download_back_button span.icon-32-back:focus,
+  #hikashop_address_listing span.icon-32-back:hover,
+  #hikashop_address_listing span.icon-32-back:focus,
+  #hikashop_new_address_popup span.icon-32-new:hover,
+  #hikashop_new_address_popup span.icon-32-new:focus,
+  #htmlfieldset_products .hikashop_order_product_name:hover {
+    color: #FD6250;
+  }
+  td.hikashop_order_number_value a,
+  td.hikashop_download_number_value a {
+    color: #FD6250 !important;
+  }
+  .hikashop_categories_listing_main a:hover,
+  .hikashop_categories_listing_main a:focus {
+    color: #FD6250;
+  }
+  .favstyle div[id^="favcontent-readmore"] a.btn,
+  .favstyle div[id*=" favcontent-readmore"] a.btn {
+    background-color: #FD6250 !important;
+  }
+  .favstyle div[id^="favteam"] a,
+  .favstyle div[id*=" favteam"] a,
+  .favstyle div[id^="favteam"] a:hover,
+  .favstyle div[id*=" favteam"] a:hover,
+  .favstyle div[id^="favteam"] a:focus,
+  .favstyle div[id*=" favteam"] a:focus {
+    color: #FD6250 !important;
+  }
+  .favstyle p[class^="favteam-contact-"] i,
+  .favstyle p[class*=" favteam-contact-"] i {
+    color: #FD6250 !important;
+  }
+  .favstyle #favteam-overlay.overlay-dark li[class^="favteam-icon"] i,
+  .favstyle #favteam-overlay.overlay-dark li[class*=" favteam-icon"] i {
+    background-color: #FD6250 !important;
+  }
+  .favstyle div[id^="favshowcase-readmore"] a.btn,
+  .favstyle div[id*=" favshowcase-readmore"] a.btn {
+    background-color: #FD6250 !important;
+  }
+  .favstyle div[id^="favshowcase-readmore"] a.btn:hover,
+  .favstyle div[id*=" favshowcase-readmore"] a.btn:hover,
+  .favstyle div[id^="favshowcase-readmore"] a.btn:focus,
+  .favstyle div[id*=" favshowcase-readmore"] a.btn:focus {
+    background-color: transparent !important;
+    box-shadow: none;
+  }
+  .favstyle a#favportfolio-zoom {
+    border-color: transparent #FD6250 #FD6250 transparent !important;
+  }
+  .favstyle div[id^="favpromote-box"] h4[id^="favpromote-title"],
+  .favstyle div[id^="favpromote-box"] h4[id*=" favpromote-title"] {
+    background-color: #FD6250 !important;
+  }
+  .favstyle div.favglyph-description-center h2 a {
+    color: #FD6250 !important;
+  }
+  .favstyle div.favglyph-icon-center div#favglyph-icon {
+    border: 1px solid #FD6250 !important;
+  }
+  .favstyle div[id^="favglyph-icon"] i,
+  .favstyle div[id*=" favglyph-icon"] i {
+    background-color: #FD6250 !important;
+  }
+  .favstyle div.favglyph-text-center h2 a {
+    color: #FD6250 !important;
+  }
+  .favstyle div[id^="faveffects-icon"],
+  .favstyle div[id*=" faveffects-icon"] {
+    background-color: rgba(17,17,17,0.2) !important;
+    border-color: #FD6250 !important;
+  }
+  .favstyle div[id^="favsocial"] a,
+  .favstyle div[id*=" favsocial"] a {
+    background-color: #FD6250 !important;
+  }
+  @media (min-width: 1200px) {
+    #fav-container.fav-fixed {
+      margin-top: 400px;
+    }
+  }
+  .favnav .navigation .nav a,
+  .favnav .navigation .nav > li > a,
+  .favnav .navigation .nav .nav-child a,
+  .favnav .navigation .nav span.nav-header,
+  .favnav .navigation .nav > li > span.nav-header,
+  .favnav .navigation .nav .nav-child span.nav-header,
+  .favnav .navigation ul.nav li span.nav-header {
+    text-transform: none;
+  }
+  .moduletable h3,
+  div[class^="moduletable-"] h3,
+  div[class*=" moduletable-"] h3,
+  .page-header h2,
+  h2.item-title,
+  .componentheading,
+  #member-profile legend,
+  div.tag-category ul h3,
+  div.contact-category h2,
+  div.newsfeed h2,
+  div.newsfeed-category h2,
+  .hikashop_product_top_part h1,
+  .hikashop_category_information h2,
+  #hikashop_checkout_page h1,
+  #hikashop_checkout_login_left_part h2,
+  #hikashop_checkout_login_right_part h2,
+  #hikashop_checkout_login_right_part h3,
+  #hikashop_checkout_page fieldset legend,
+  #hikashop_cpanel_title h1,
+  #hikashop_carts_listing .header h1,
+  #hikashop_affiliate_main .header h1,
+  #hikashop_address_listing .header h1,
+  #hikashop_order_listing .header h1,
+  #hikashop_download_listing fieldset h1,
+  #hikashop_order_main fieldset h1 {
+    font-size: 20px;
+  }
+  .hikashop_product_top_part h1 {
+    font-size: 20px !important;
+  }
+  .moduletable h3,
+  div[class^="moduletable-"] h3,
+  div[class*=" moduletable-"] h3,
+  .page-header h2,
+  h2.item-title,
+  .componentheading,
+  #member-profile legend,
+  div.tag-category ul h3,
+  div.contact-category h2,
+  div.newsfeed h2,
+  div.newsfeed-category h2,
+  .hikashop_product_top_part h1,
+  .hikashop_category_information h2,
+  #hikashop_checkout_page h1,
+  #hikashop_checkout_login_left_part h2,
+  #hikashop_checkout_login_right_part h2,
+  #hikashop_checkout_login_right_part h3,
+  #hikashop_checkout_page fieldset legend,
+  #hikashop_cpanel_title h1,
+  #hikashop_carts_listing .header h1,
+  #hikashop_affiliate_main .header h1,
+  #hikashop_address_listing .header h1,
+  #hikashop_order_listing .header h1,
+  #hikashop_download_listing fieldset h1,
+  #hikashop_order_main fieldset h1,
+  div.hikashop_container .hikashop_category_name a,
+  div.hikashop_subcontainer span.hikashop_product_name a {
+    font-family: 'montserrat', sans-serif;
+  }
+  .moduletable h3,
+  div[class^="moduletable-"] h3,
+  div[class*=" moduletable-"] h3,
+  .page-header h2,
+  h2.item-title,
+  .componentheading,
+  #member-profile legend,
+  div.tag-category ul h3,
+  div.contact-category h2,
+  div.newsfeed h2,
+  div.newsfeed-category h2,
+  .hikashop_product_top_part h1,
+  .hikashop_category_information h2,
+  #hikashop_checkout_page h1,
+  #hikashop_checkout_login_left_part h2,
+  #hikashop_checkout_login_right_part h2,
+  #hikashop_checkout_login_right_part h3,
+  #hikashop_checkout_page fieldset legend,
+  #hikashop_cpanel_title h1,
+  #hikashop_carts_listing .header h1,
+  #hikashop_affiliate_main .header h1,
+  #hikashop_address_listing .header h1,
+  #hikashop_order_listing .header h1,
+  #hikashop_download_listing fieldset h1,
+  #hikashop_order_main fieldset h1 {
+    text-align: left;
+  }
+  .moduletable h3,
+  div[class^="moduletable-"] h3,
+  div[class*=" moduletable-"] h3,
+  .page-header h2,
+  h2.item-title,
+  .componentheading,
+  #member-profile legend,
+  div.tag-category ul h3,
+  div.contact-category h2,
+  div.newsfeed h2,
+  div.newsfeed-category h2,
+  .hikashop_product_top_part h1,
+  .hikashop_category_information h2,
+  #hikashop_checkout_page h1,
+  #hikashop_checkout_login_left_part h2,
+  #hikashop_checkout_login_right_part h2,
+  #hikashop_checkout_login_right_part h3,
+  #hikashop_checkout_page fieldset legend,
+  #hikashop_cpanel_title h1,
+  #hikashop_carts_listing .header h1,
+  #hikashop_affiliate_main .header h1,
+  #hikashop_address_listing .header h1,
+  #hikashop_order_listing .header h1,
+  #hikashop_download_listing fieldset h1,
+  #hikashop_order_main fieldset h1,
+  div.hikashop_container .hikashop_category_name a,
+  div.hikashop_subcontainer span.hikashop_product_name a {
+    text-transform: uppercase;
+  }
+  .moduletable h4.fav-subtitle,
+  [class^="moduletable-"] h4.fav-subtitle,
+  [class*=" moduletable-"] h4.fav-subtitle {
+    color: #3B3B3B;
+  }
+  .moduletable h4.fav-subtitle,
+  [class^="moduletable-"] h4.fav-subtitle,
+  [class*=" moduletable-"] h4.fav-subtitle {
+    font-size: 14px;
+  }
+  .moduletable h4.fav-subtitle,
+  [class^="moduletable-"] h4.fav-subtitle,
+  [class*=" moduletable-"] h4.fav-subtitle {
+    font-family: 'lato', sans-serif;
+  }
+  .moduletable h4.fav-subtitle,
+  [class^="moduletable-"] h4.fav-subtitle,
+  [class*=" moduletable-"] h4.fav-subtitle {
+    text-align: left;
+  }
+  .moduletable h4.fav-subtitle,
+  [class^="moduletable-"] h4.fav-subtitle,
+  [class*=" moduletable-"] h4.fav-subtitle {
+    text-transform: none;
+  }
+  .moduletable h3 {
+    color: #FD6250;
+  }
+  .moduletable h3 [class^="fa fa-"],
+  .moduletable h3 [class*=" fa fa-"] {
+    color: #303030;
+  }
+  .moduletable h3 [class^="fa fa-"],
+  .moduletable h3 [class*=" fa fa-"],
+  [class^="moduletable-"] h3 [class^="fa fa-"],
+  [class^="moduletable-"] h3 [class*=" fa fa-"],
+  [class*=" moduletable-"] h3 [class^="fa fa-"],
+  [class*=" moduletable-"] h3 [class*=" fa fa-"] {
+    font-size: 20px;
+  }
+  .btn,
+  .btn-primary,
+  .pager .next a,
+  .pager .previous a,
+  .hikashop_cart_input_button,
+  .hikashop_categories_listing_main .btn,
+  a.hikashop_cart_button,
+  .hikashop_cart_input_button,
+  a.hikashop_cart_button,
+  .hikashop_product_stock .btn.button.hikashop_cart_input_button,
+  .hikashop_product_stock a.hikashop_cart_button {
+    font-family: 'lato', sans-serif;
+  }
+  .btn,
+  .btn-primary,
+  .pager .next a,
+  .pager .previous a,
+  .hikashop_cart_input_button,
+  .hikashop_categories_listing_main .btn,
+  a.hikashop_cart_button,
+  .hikashop_cart_input_button,
+  a.hikashop_cart_button,
+  .hikashop_product_stock .btn.button.hikashop_cart_input_button,
+  .hikashop_product_stock a.hikashop_cart_button {
+    text-transform: lowercase;
+  }
+  ul.menubasic li a,
+  ul.menuarrow li a,
+  ul.menuside li a,
+  ul.menuline li a,
+  ul.menubasic li span.nav-header,
+  ul.menuarrow li span.nav-header,
+  ul.menuside li span.nav-header,
+  ul.menuline li span.nav-header  {
+    text-transform: uppercase;
+  }
+  ul.menuhorizontal li a,
+  ul.menuhorizontal-right li a,
+  ul.menuhorizontal li span.nav-header,
+  ul.menuhorizontal-right li span.nav-header  {
+    text-transform: none;
+  }
+  #fav-offlinewrap {
+    background-repeat: no-repeat; background-attachment: fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;;
+  }
+  #fav-containerwrap {
+    background-image: url(/images/hoofdmap/background/headerpeople.jpg);
+  }
+  #fav-containerwrap {
+    background-repeat: no-repeat; background-attachment: fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;;
+  }
+  #fav-containerwrap {
+    background-color: #F2F2F2;
+  }
+  #fav-noticewrap a {
+    color: #F2F2F2;
+  }
+  #fav-noticewrap a:hover {
+    color: #FFFFFF;
+  }
+  #fav-topbarwrap {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-slidewrap {
+    background-repeat: no-repeat; background-attachment: fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;;
+  }
+  #fav-introwrap {
+    background-repeat: no-repeat; background-attachment: fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;;
+  }
+  #fav-leadwrap {
+    background-repeat: no-repeat; background-attachment: fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;;
+  }
+  #fav-leadwrap p {
+    color: #FFFFFF;
+  }
+  #fav-leadwrap a {
+    color: #FFFFFF;
+  }
+  #fav-leadwrap a:hover {
+    color: #EBEBEB;
+  }
+  #fav-promowrap {
+    background-repeat: no-repeat; background-attachment: fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;;
+  }
+  #fav-promowrap {
+    background-color: #FFFFFF;
+  }
+  #fav-primewrap {
+    background-repeat: no-repeat; background-attachment: fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;;
+  }
+  #fav-primewrap {
+    background-color: #FFFFFF;
+  }
+  #fav-showcasewrap {
+    background-repeat: no-repeat; background-attachment: fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;;
+  }
+  #fav-featurewrap {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-focuswrap {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-portfoliowrap {
+    background-repeat: no-repeat; background-attachment: fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;;
+  }
+  #fav-screenwrap {
+    background-repeat: no-repeat; background-attachment: fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;;
+  }
+  #fav-topwrap {
+    background-repeat: no-repeat; background-attachment: fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;;
+  }
+  #fav-maintopwrap {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-maintopwrap .moduletable h3,
+  #fav-maintopwrap div[class^="moduletable-"] h3,
+  #fav-maintopwrap div[class*=" moduletable-"] h3 {
+    color: #FB6457;
+  }
+  #fav-mainbottomwrap {
+    background-repeat: no-repeat; background-attachment: fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;;
+  }
+  #fav-mainbottomwrap {
+    background-color: #FFFFFF;
+  }
+  #fav-mainbottomwrap .moduletable h3,
+  #fav-mainbottomwrap div[class^="moduletable-"] h3,
+  #fav-mainbottomwrap div[class*=" moduletable-"] h3 {
+    color: #FB6457;
+  }
+  #fav-bottomwrap {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-notewrap {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-basewrap {
+    background-repeat: no-repeat; background-attachment: fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;;
+  }
+  #fav-basewrap {
+    background-color: #FFFFFF;
+  }
+  #fav-basewrap .moduletable h3,
+  #fav-basewrap div[class^="moduletable-"] h3,
+  #fav-basewrap div[class*=" moduletable-"] h3 {
+    color: #FB6457;
+  }
+  #fav-blockwrap {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-blockwrap {
+    background-color: #FFFFFF;
+  }
+  #fav-userwrap {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-footerwrap {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-footerwrap {
+    background-color: #171717;
+  }
+  #fav-footerwrap p {
+    color: #FFFFFF;
+  }
+  #fav-footerwrap .moduletable h3,
+  #fav-footerwrap div[class^="moduletable-"] h3,
+  #fav-footerwrap div[class*=" moduletable-"] h3 {
+    color: #FFFFFF;
+  }
+  #fav-footerwrap a {
+    color: #FF5314;
+  }
+  #fav-footerwrap a:hover {
+    color: #FFAE36;
+  }
+  .text-logo,
+  .text-logo:hover,
+  .text-logo:focus {
+    color: #FD6250;
+  }
+  .text-logo {
+    font-size: 9px;
+  }
+  .text-logo {
+    font-family: 'lato', sans-serif;
+    font-weight: 400;
+  }
+  .text-logo {
+    line-height: 14px ;
+  }
+  .text-logo {
+    padding: 1%;
+  }
+  .slogan {
+    color: #FD6250;
+  }
+  .slogan {
+    font-size: 10px;
+  }
+  @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+      .show_retina_logo { display: block; }
+      .default_logo, .media_logo, .text_logo { display: none;}
+  }
+  .retina-logo {
+    height: 80px;
+  }
+  .retina-logo {
+    width: 450px;
+  }
+  .retina-logo {
+    padding: 0px;
+  }
+  .retina-logo {
+    margin: 0px;
+  }
+  @media (max-width: 768px) {
+    #fav-navbar ul.nav-child {
+      display: none;
+    }
+  }
+  @media (max-width: 480px) {
+    #fav-main img,
+    .moduletable .custom img,
+    div[class^="moduletable-"] div[class^="custom-"] img,
+    div[class*=" moduletable-"] div[class*=" custom-"] img,
+    .img-left,
+    .img-right {
+      display: inline-base;
+    }
+  }
+
+</style>
+
+  <!-- GOOGLE FONT -->
+
+  <!-- title -->
+  <link href='//fonts.googleapis.com/css?family=montserrat:700normal' rel='stylesheet' type='text/css' />
+
+  <!-- subtitle -->
+  <link href='//fonts.googleapis.com/css?family=lato:400normal' rel='stylesheet' type='text/css' />
+
+  <!-- navigation -->
+  <link href='//fonts.googleapis.com/css?family=:400normal' rel='stylesheet' type='text/css' />
+
+  <!-- buttons -->
+  <link href='//fonts.googleapis.com/css?family=lato:400normal' rel='stylesheet' type='text/css' />
+
+  <!-- horizontal menu -->
+  <link href='//fonts.googleapis.com/css?family=:400normal' rel='stylesheet' type='text/css' />
+
+  <!-- text logo -->
+  <link href='//fonts.googleapis.com/css?family=lato:400italic' rel='stylesheet' type='text/css' />
+
+  <!-- default -->
+  <link href='//fonts.googleapis.com/css?family=Lato:400,700|Roboto:400' rel='stylesheet' type='text/css'>
+
+  <!-- GOOGLE ANALYTICS TRACKING CODE -->
+  <script type="text/javascript">  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-80771246-5');
+
+</script>
+  <!-- BACKTOP -->
+	<script src="/templates/artis/js/backtop/backtop.js"></script>
+
+  <!-- HEADER -->
+  <script src="/templates/artis/js/header/favheader.js"></script>
+
+</head>
+
+<body>
+
+  <div id="fav-containerwrap" class="clearfix">
+    <div class="fav-transparent fav-wrap">
+
+  	  <!-- NAVBAR -->
+  	  <div id="fav-navbarwrap" class="container-fluid">
+  			<div class="row-fluid">
+  				<div id="fav-navbar" class="clearfix">
+  					<div class="navbar">
+  						<div class="navbar-inner">
+
+                <div id="fav-logomobile" class="clearfix">
+                                                                                            <h1 class="show-retina-logo">
+                      <a class="retina-logo" href="/">
+                        <img src="/images/hoofdmap/logo/LogoOLVAmetslogan2.png" style="border:0; margin:0px; padding:0px;" width="450px" alt="Fav template" />
+                      </a>
+                    </h1>
+                                                    </div>
+
+                <div id="fav-navbar-btn" class="clearfix">
+    							<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+
+                    
+    								<span class="icon-bar"></span>
+    								<span class="icon-bar"></span>
+    								<span class="icon-bar"></span>
+    							</a>
+                </div>
+
+  							<div class="nav-collapse collapse">
+  								  									<div id="fav-navbar-collapse" class="span12">
+  												<div class="moduletable">
+						
+<div class="finder">
+	<form id="mod-finder-searchform144" action="/zoek-nu" method="get" class="form-search" role="search">
+		<button class="btn btn-primary hasTooltip  finder" type="submit" title="Ga"><span class="icon-search icon-white"></span>Zoeken</button><br /><label for="mod-finder-searchword144" class="element-invisible finder">Zoeken</label><input type="text" name="q" id="mod-finder-searchword144" class="search-query input-medium" size="65" value="" placeholder="Zoeken..."/>
+							</form>
+</div>
+		</div>
+	
+  									</div>
+  								  							</div>
+
+  						</div>
+  					</div>
+  				</div>
+  			</div>
+  	  </div>
+
+  		<div id="fav-container" class="fav-fixed navstyle-icon-vertical">
+
+        <!-- NOTICE -->
+  			
+        <!-- TOPBAR -->
+        
+        
+        <!-- HEADER -->
+        <div class="container-fluid fav-fixed fav-light" id="fav-headerwrap">
+          <div class="row-fluid">
+
+              <div id="fav-header" class="span12 clearfix">
+
+                <div id="fav-logo" class="span3">
+                                                                                            <h1 class="show-retina-logo">
+                      <a class="retina-logo" href="/">
+                        <img src="/images/hoofdmap/logo/LogoOLVAmetslogan2.png" style="border:0; margin:0px; padding:0px;" width="450px" alt="Fav template" />
+                      </a>
+                    </h1>
+                                                    </div>
+
+                                        <div id="fav-nav" class="span9">
+                        <div class="favnav navstyle navstyle-icon-vertical">
+                          <div class="navigation">
+                            		<div class="moduletable">
+						
+<div class="finder">
+	<form id="mod-finder-searchform144" action="/zoek-nu" method="get" class="form-search" role="search">
+		<button class="btn btn-primary hasTooltip  finder" type="submit" title="Ga"><span class="icon-search icon-white"></span>Zoeken</button><br /><label for="mod-finder-searchword144" class="element-invisible finder">Zoeken</label><input type="text" name="q" id="mod-finder-searchword144" class="search-query input-medium" size="65" value="" placeholder="Zoeken..."/>
+							</form>
+</div>
+		</div>
+	
+                          </div>
+                        </div>
+                      </div>
+                  
+              </div>
+
+          </div>
+        </div>
+
+        <!-- SLIDE -->
+        
+  			<!-- INTRO -->
+  			
+  			
+        <!-- LEAD -->
+        
+        
+        <!-- BREADCRUMBS -->
+        
+  			<!-- PROMO -->
+        
+                  
+          <div class="container-fluid" id="fav-promowrap">
+            <div class="fav-transparent">
+              <div class="row-fluid">
+                <div id="fav-promo" class="clearfix">
+
+                                      
+                        <div id="fav-promo1" class="span12">
+
+                          <div class="moduletable" >
+<ul itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb">
+			<li class="active">
+			U bevindt zich hier: &#160;
+		</li>
+	
+				<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="active">
+				<span itemprop="name">
+					Home				</span>
+				<meta itemprop="position" content="1">
+			</li>
+		</ul>
+</div><div class="moduletable" ><h3>Welkom op onze website</h3>
+
+<div class="custom"  >
+	<section>
+<p><span style="font-family: helvetica; font-size: 12pt; color: #000000;">Van harte welkom op de webstek van woonzorgcentrum Onze-Lieve-Vrouw van Antwerpen, kortweg OLV Antwerpen.</span></p>
+<p><span style="color: #000000;"><span style="font-weight: 400; font-family: helvetica; font-size: 12pt;">OLV Antwer</span><span style="font-weight: 400; font-family: helvetica; font-size: 12pt;">pe</span><span style="font-weight: 400; font-family: helvetica; font-size: 12pt;">n is een woonzorgcentrum in hartje Antwerpen dat een thuis biedt aan 170 bewoners. Daarnaast kunnen 10 gasten er genieten van een kortverblijf. Er wordt tevens 1 kamer gereserveerd voor crisisopvang. Nachtzorg is bij ons ook mogelijk. Verder is er een dagverzorgingscentrum actief voor maximum 15 dagbezoekers. Tenslotte zijn er nog 26 assistentiewoningen. En dan onze buurtwerking niet te vergeten.</span></span></p>
+<p><span style="font-weight: 400; font-family: helvetica; font-size: 12pt; color: #000000;">Op deze webstek vindt u alle nodige informatie over ons woonzorgcentrum. Surf gerust eens rond op onze webstek en als u nog vragen hebt, kan u steeds terecht bij onze sociale dienst.</span></p>
+<p>&nbsp;</p>
+</section></div>
+</div><div class="moduletable" ><h3>Algemene informatie</h3>
+  <style type="text/css">
+
+    .favpromote1-15548:hover { background-color: #FD6250; }
+    .favpromote2-15548:hover { background-color: #FD6250; }
+    .favpromote3-15548:hover { background-color: #FD6250; }
+    .favpromote4-15548:hover { background-color: #FD6250; }
+    .favpromote5-15548:hover { background-color: #FD6250; }
+    .favpromote6-15548:hover { background-color: #FD6250; }
+
+  </style>
+
+  
+  <script type="text/javascript">
+    jQuery(document).ready(function() {
+    jQuery('#favpromote-15548 .layout-effect').addClass("favhide").viewportChecker({
+      classToAdd: 'favshow layout-effect6', // Class to add to the elements when they are visible
+      offset: 100
+      });
+    });
+  </script>
+
+  
+<div id="favpromote-15548" class="favth-row">
+
+  
+    <div class="favpromote favth-col-lg-2-4 favth-col-md-4 favth-col-sm-6 favth-col-xs-12">
+
+      <div id="favpromote-box1"
+        class="favpromote1-15548 layout-effect"
+        style="border: 1px solid #DDDDDD;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        border-radius: 8px;">
+
+        <div id="favpromote-image1"
+              style="height:100%; text-align: center;">
+
+          
+            <a href="http://www.olvantwerpen.be/over-ons" target="_self" >
+
+                          <img src="/images/hoofdmap/menubeelden/home/onthaal.jpg"
+              alt=""/>
+            
+            </a>
+
+          
+        </div>
+
+        <p id="favpromote-text1"
+          style="color: #444444;
+                font-size: 13px;
+                line-height: 1.5em;
+                text-align: justify;">
+                  Klik voor meer info        </p>
+
+        <h4 id="favpromote-title1"
+            style="color: #FFFFFF;
+                background-color: #FD6250;
+                font-family: Roboto;
+                font-weight: 400;
+                font-style: normal;
+                padding: 12px 20px;
+                font-size: 14px;
+                line-height: 1.2em;
+                text-align: center;
+                margin-bottom:0;">
+            <i class="fa-kaal"
+              style="color: #FFFFFF;
+                    font-size: 14px;
+                    vertical-align: middle;
+                    padding-right: 0.4em;"></i>
+
+          
+            <a href="http://www.olvantwerpen.be/over-ons" target="_self"
+                    style="color: #FFFFFF;">
+
+              Over OLV Antwerpen
+            </a>
+
+          
+        </h4>
+
+      </div>
+
+    </div>
+
+  
+    <div class="favpromote favth-col-lg-2-4 favth-col-md-4 favth-col-sm-6 favth-col-xs-12">
+
+      <div id="favpromote-box2"
+        class="favpromote2-15548 layout-effect"
+        style="border: 1px solid #DDDDDD;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        border-radius: 8px;">
+
+        <div id="favpromote-image2"
+              style="height:100%; text-align: center;">
+
+          
+            <a href="http://www.olvantwerpen.be/zorg-en-dienstverlening" target="_self" >
+
+                          <img src="/images/hoofdmap/menubeelden/home/zorgendienstverlening.jpg"
+              alt=""/>
+            
+            </a>
+
+          
+        </div>
+
+        <p id="favpromote-text2"
+          style="color: #444444;
+                font-size: 13px;
+                line-height: 1.5em;
+                text-align: justify;">
+                  Klik voor meer info        </p>
+
+        <h4 id="favpromote-title2"
+            style="color: #FFFFFF;
+                background-color: #FD6250;
+                font-family: Roboto;
+                font-weight: 400;
+                font-style: normal;
+                padding: 12px 20px;
+                font-size: 14px;
+                line-height: 1.2em;
+                text-align: center;
+                margin-bottom:0;">
+            <i class="fa-kaal"
+              style="color: #FFFFFF;
+                    font-size: 14px;
+                    vertical-align: middle;
+                    padding-right: 0.4em;"></i>
+
+          
+            <a href="http://www.olvantwerpen.be/zorg-en-dienstverlening" target="_self"
+                    style="color: #FFFFFF;">
+
+              Zorg en dienstverlening
+            </a>
+
+          
+        </h4>
+
+      </div>
+
+    </div>
+
+  
+    <div class="favpromote favth-col-lg-2-4 favth-col-md-4 favth-col-sm-6 favth-col-xs-12">
+
+      <div id="favpromote-box3"
+        class="favpromote3-15548 layout-effect"
+        style="border: 1px solid #DDDDDD;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        border-radius: 8px;">
+
+        <div id="favpromote-image3"
+              style="height:100%; text-align: center;">
+
+          
+            <a href="http://www.olvantwerpen.be/verblijf-en-bezoek" target="_self" >
+
+                          <img src="/images/hoofdmap/menubeelden/home/verblijfenleven.jpg"
+              alt=""/>
+            
+            </a>
+
+          
+        </div>
+
+        <p id="favpromote-text3"
+          style="color: #444444;
+                font-size: 13px;
+                line-height: 1.5em;
+                text-align: justify;">
+                  Klik voor meer info        </p>
+
+        <h4 id="favpromote-title3"
+            style="color: #FFFFFF;
+                background-color: #FD6250;
+                font-family: Roboto;
+                font-weight: 400;
+                font-style: normal;
+                padding: 12px 20px;
+                font-size: 14px;
+                line-height: 1.2em;
+                text-align: center;
+                margin-bottom:0;">
+            <i class="fa-kaal"
+              style="color: #FFFFFF;
+                    font-size: 14px;
+                    vertical-align: middle;
+                    padding-right: 0.4em;"></i>
+
+          
+            <a href="http://www.olvantwerpen.be/verblijf-en-bezoek" target="_self"
+                    style="color: #FFFFFF;">
+
+              Verblijf en leven in huis
+            </a>
+
+          
+        </h4>
+
+      </div>
+
+    </div>
+
+  
+    <div class="favpromote favth-col-lg-2-4 favth-col-md-4 favth-col-sm-6 favth-col-xs-12">
+
+      <div id="favpromote-box4"
+        class="favpromote4-15548 layout-effect"
+        style="border: 1px solid #DDDDDD;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        border-radius: 8px;">
+
+        <div id="favpromote-image4"
+              style="height:100%; text-align: center;">
+
+          
+            <a href="http://www.olvantwerpen.be/werken-en-leren" target="_self" >
+
+                          <img src="/images/hoofdmap/menubeelden/werkenenlerenblokken/olva-alswerkgever.jpg"
+              alt=""/>
+            
+            </a>
+
+          
+        </div>
+
+        <p id="favpromote-text4"
+          style="color: #444444;
+                font-size: 13px;
+                line-height: 1.5em;
+                text-align: justify;">
+                  Klik voor meer info        </p>
+
+        <h4 id="favpromote-title4"
+            style="color: #FFFFFF;
+                background-color: #FD6250;
+                font-family: Roboto;
+                font-weight: 400;
+                font-style: normal;
+                padding: 12px 20px;
+                font-size: 14px;
+                line-height: 1.2em;
+                text-align: center;
+                margin-bottom:0;">
+            <i class="fa-kaal"
+              style="color: #FFFFFF;
+                    font-size: 14px;
+                    vertical-align: middle;
+                    padding-right: 0.4em;"></i>
+
+          
+            <a href="http://www.olvantwerpen.be/werken-en-leren" target="_self"
+                    style="color: #FFFFFF;">
+
+              Werken, leren en vrijwilligerswerk
+            </a>
+
+          
+        </h4>
+
+      </div>
+
+    </div>
+
+  
+    <div class="favpromote favth-col-lg-2-4 favth-col-md-4 favth-col-sm-6 favth-col-xs-12">
+
+      <div id="favpromote-box5"
+        class="favpromote5-15548 layout-effect"
+        style="border: 1px solid #DDDDDD;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        border-radius: 8px;">
+
+        <div id="favpromote-image5"
+              style="height:100%; text-align: center;">
+
+          
+            <a href="http://www.olvantwerpen.be/kwaliteit-en-inspraak" target="_self" >
+
+                          <img src="/images/hoofdmap/menubeelden/home/kwaliteiteninspraak.jpg"
+              alt=""/>
+            
+            </a>
+
+          
+        </div>
+
+        <p id="favpromote-text5"
+          style="color: #444444;
+                font-size: 13px;
+                line-height: 1.5em;
+                text-align: justify;">
+                  Klik voor meer info        </p>
+
+        <h4 id="favpromote-title5"
+            style="color: #FFFFFF;
+                background-color: #FD6250;
+                font-family: Roboto;
+                font-weight: 400;
+                font-style: normal;
+                padding: 12px 20px;
+                font-size: 14px;
+                line-height: 1.2em;
+                text-align: center;
+                margin-bottom:0;">
+            <i class="fa-kaal"
+              style="color: #FFFFFF;
+                    font-size: 14px;
+                    vertical-align: middle;
+                    padding-right: 0.4em;"></i>
+
+          
+            <a href="http://www.olvantwerpen.be/kwaliteit-en-inspraak" target="_self"
+                    style="color: #FFFFFF;">
+
+              Kwaliteit en inspraak
+            </a>
+
+          
+        </h4>
+
+      </div>
+
+    </div>
+
+  
+</div>
+</div>
+
+                        </div>
+
+                                                                                                                                                                                                                                    
+                </div>
+              </div>
+            </div>
+          </div>
+
+        
+        <!-- PRIME -->
+        
+        
+  			<!-- SHOWCASE -->
+        
+        
+        <!-- FEATURE -->
+        
+        
+        <!-- FOCUS -->
+        
+        
+        <!-- PORTFOLIO -->
+        
+        
+        <!-- SCREEN -->
+        
+        
+  			<!-- TOP -->
+        
+        
+  			<!-- MAINTOP -->
+  			
+          <div class="container-fluid" id="fav-maintopwrap">
+            <div class="fav-transparent">
+              <div class="row-fluid">
+
+                  
+                  
+                    <div id="fav-maintop" class="clearfix">
+                                                <div id="fav-maintop1"
+                            class="span12">
+
+                            <div class="moduletable" ><h3>OP VERKENNING ...</h3>
+  <style type="text/css">
+
+    .favpromote1-19245:hover { background-color: #FD6250; }
+    .favpromote2-19245:hover { background-color: #FD6250; }
+    .favpromote3-19245:hover { background-color: #FD6250; }
+    .favpromote4-19245:hover { background-color: #FD6250; }
+    .favpromote5-19245:hover { background-color: #FD6250; }
+    .favpromote6-19245:hover { background-color: #FD6250; }
+
+  </style>
+
+  
+  <script type="text/javascript">
+    jQuery(document).ready(function() {
+    jQuery('#favpromote-19245 .layout-effect').addClass("favhide").viewportChecker({
+      classToAdd: 'favshow layout-effect6', // Class to add to the elements when they are visible
+      offset: 100
+      });
+    });
+  </script>
+
+  
+<div id="favpromote-19245" class="favth-row">
+
+  
+</div>
+</div>
+
+                          </div>
+                                                                                                  </div>
+                  
+              </div>
+            </div>
+          </div>
+
+        
+  			<!-- MAIN -->
+        <div class="container-fluid component-light" id="fav-mainwrap">
+  				<div class="row-fluid">
+
+  						<div id="fav-main" class="clearfix">
+
+  							  								<div id="fav-maincontent" class="span12">
+  									<div id="system-message-container">
+	</div>
+
+  									<div class="item-page" itemscope itemtype="https://schema.org/Article">
+	<meta itemprop="inLanguage" content="nl-NL" />
+	
+		
+						
+	<div class="fav-article-details">
+
+		
+		
+	</div>
+
+				
+								<div itemprop="articleBody">
+		<p style="margin: 6px 0px; font-family: Helvetica, Arial, sans-serif; color: #1c1e21; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: #ffffff;">Indien u al vertrouwd bent met ons woonzorgcentrum, onze assistentiewoningen, het centrum voor kortverblijf</p>
+<p style="margin: 6px 0px; font-family: Helvetica, Arial, sans-serif; color: #1c1e21; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: #ffffff;">of het dagverzorgingscentrum kan u via de onderstaande knoppen de meest praktische informatie raadplegen.</p>
+<p style="margin: 6px 0px; font-family: Helvetica, Arial, sans-serif; color: #1c1e21; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: #ffffff;"><br />Is er informatie die u niet meteen vindt? Geen probleem ! Zoek via algemene informatie of gebruik de zoekfunctie.</p>	</div>
+
+	<div class="fav-article-details-below">
+
+		
+	</div>
+
+							</div>
+
+  								</div>
+  							
+  						</div>
+
+  				</div>
+  			</div>
+
+  			<!-- MAINBOTTOM -->
+  			
+  			<!-- BOTTOM -->
+        
+        
+        <!-- NOTE -->
+        
+        
+        <!-- BASE -->
+        
+        
+        <!-- BLOCK -->
+        
+                  
+          <div class="container-fluid" id="fav-blockwrap">
+            <div class="fav-transparent">
+              <div class="row-fluid">
+                <div id="fav-block" class="clearfix">
+
+                                      
+                        <div id="fav-block1" class="span12">
+
+                          <div class="moduletable" ><h3>VEELGEVRAAGDE PRAKTISCHE INFORMATIE</h3>
+  <style type="text/css">
+
+    .favpromote1-18005:hover { background-color: #FD6250; }
+    .favpromote2-18005:hover { background-color: #FD6250; }
+    .favpromote3-18005:hover { background-color: #FD6250; }
+    .favpromote4-18005:hover { background-color: #FD6250; }
+    .favpromote5-18005:hover { background-color: #FD6250; }
+    .favpromote6-18005:hover { background-color: #FD6250; }
+
+  </style>
+
+  
+  <script type="text/javascript">
+    jQuery(document).ready(function() {
+    jQuery('#favpromote-18005 .layout-effect').addClass("favhide").viewportChecker({
+      classToAdd: 'favshow layout-effect6', // Class to add to the elements when they are visible
+      offset: 100
+      });
+    });
+  </script>
+
+  
+<div id="favpromote-18005" class="favth-row">
+
+  
+    <div class="favpromote favth-col-lg-6 favth-col-md-6 favth-col-sm-6 favth-col-xs-12">
+
+      <div id="favpromote-box1"
+        class="favpromote1-18005 layout-effect"
+        style="border: 1px solid #DDDDDD;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        border-radius: 8px;">
+
+        <div id="favpromote-image1"
+              style="height:100%; text-align: center;">
+
+          
+            <a href="http://www.olvantwerpen.be/weekmenu" target="_self" >
+
+                          <img src="/images/hoofdmap/menubeelden/home/weekblur.png"
+              alt=""/>
+            
+            </a>
+
+          
+        </div>
+
+        <p id="favpromote-text1"
+          style="color: #444444;
+                font-size: 13px;
+                line-height: 1.5em;
+                text-align: justify;">
+                  Klik om het menu te openen        </p>
+
+        <h4 id="favpromote-title1"
+            style="color: #FFFFFF;
+                background-color: #FD6250;
+                font-family: Roboto;
+                font-weight: 400;
+                font-style: normal;
+                padding: 12px 20px;
+                font-size: 14px;
+                line-height: 1.2em;
+                text-align: center;
+                margin-bottom:0;">
+            <i class="fa-kaal"
+              style="color: #FFFFFF;
+                    font-size: 14px;
+                    vertical-align: bottom;
+                    padding-right: 0.4em;"></i>
+
+          
+            <a href="http://www.olvantwerpen.be/weekmenu" target="_self"
+                    style="color: #FFFFFF;">
+
+              Weekmenu
+            </a>
+
+          
+        </h4>
+
+      </div>
+
+    </div>
+
+  
+    <div class="favpromote favth-col-lg-6 favth-col-md-6 favth-col-sm-6 favth-col-xs-12">
+
+      <div id="favpromote-box2"
+        class="favpromote2-18005 layout-effect"
+        style="border: 1px solid #DDDDDD;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        border-radius: 8px;">
+
+        <div id="favpromote-image2"
+              style="height:100%; text-align: center;">
+
+          
+            <a href="https://www.olvantwerpen.be/images/hoofdmap/pdf/kalender.pdf" target="_self" >
+
+                          <img src="/images/hoofdmap/menubeelden/home/kalender.png"
+              alt=""/>
+            
+            </a>
+
+          
+        </div>
+
+        <p id="favpromote-text2"
+          style="color: #444444;
+                font-size: 13px;
+                line-height: 1.5em;
+                text-align: justify;">
+                  Raadpleeg hier onze activiteitenkalender        </p>
+
+        <h4 id="favpromote-title2"
+            style="color: #FFFFFF;
+                background-color: #FD6250;
+                font-family: Roboto;
+                font-weight: 400;
+                font-style: normal;
+                padding: 12px 20px;
+                font-size: 14px;
+                line-height: 1.2em;
+                text-align: center;
+                margin-bottom:0;">
+            <i class="fa-kaal"
+              style="color: #FFFFFF;
+                    font-size: 14px;
+                    vertical-align: bottom;
+                    padding-right: 0.4em;"></i>
+
+          
+            <a href="https://www.olvantwerpen.be/images/hoofdmap/pdf/kalender.pdf" target="_self"
+                    style="color: #FFFFFF;">
+
+              Activiteitenkalender
+            </a>
+
+          
+        </h4>
+
+      </div>
+
+    </div>
+
+  
+</div>
+</div><div class="moduletable" ><h3>Onze troeven</h3>
+  <style type="text/css">
+
+    .favpromote1-18895:hover { background-color: #FD6250; }
+    .favpromote2-18895:hover { background-color: #FD6250; }
+    .favpromote3-18895:hover { background-color: #FD6250; }
+    .favpromote4-18895:hover { background-color: #FD6250; }
+    .favpromote5-18895:hover { background-color: #FD6250; }
+    .favpromote6-18895:hover { background-color: #FD6250; }
+
+  </style>
+
+  
+  <script type="text/javascript">
+    jQuery(document).ready(function() {
+    jQuery('#favpromote-18895 .layout-effect').addClass("favhide").viewportChecker({
+      classToAdd: 'favshow layout-effect6', // Class to add to the elements when they are visible
+      offset: 100
+      });
+    });
+  </script>
+
+  
+<div id="favpromote-18895" class="favth-row">
+
+  
+</div>
+</div>
+  <style type="text/css">
+
+    .favpromote1-14003:hover { background-color: #FD6250; }
+    .favpromote2-14003:hover { background-color: #FD6250; }
+    .favpromote3-14003:hover { background-color: #FD6250; }
+    .favpromote4-14003:hover { background-color: #FD6250; }
+    .favpromote5-14003:hover { background-color: #FD6250; }
+    .favpromote6-14003:hover { background-color: #FD6250; }
+
+  </style>
+
+  
+  <script type="text/javascript">
+    jQuery(document).ready(function() {
+    jQuery('#favpromote-14003 .layout-effect').addClass("favhide").viewportChecker({
+      classToAdd: 'favshow layout-effect6', // Class to add to the elements when they are visible
+      offset: 100
+      });
+    });
+  </script>
+
+  
+<div id="favpromote-14003" class="favth-row">
+
+  
+    <div class="favpromote favth-col-lg-3 favth-col-md-3 favth-col-sm-6 favth-col-xs-12">
+
+      <div id="favpromote-box1"
+        class="favpromote1-14003 layout-effect"
+        style="border: 1px solid #DDDDDD;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        border-radius: 8px;">
+
+        <div id="favpromote-image1"
+              style="height:100%; text-align: center;">
+
+          
+            <a href="http://www.olvantwerpen.be/verblijf-en-bezoek/fixatievrij-beleid" target="_self" >
+
+                          <img src="/images/hoofdmap/menubeelden/verblijfenbezoek/fixatievrijbeleid.jpg"
+              alt=""/>
+            
+            </a>
+
+          
+        </div>
+
+        <p id="favpromote-text1"
+          style="color: #444444;
+                font-size: 13px;
+                line-height: 1.5em;
+                text-align: justify;">
+                  Klik voor meer info        </p>
+
+        <h4 id="favpromote-title1"
+            style="color: #FFFFFF;
+                background-color: #FD6250;
+                font-family: Roboto;
+                font-weight: 400;
+                font-style: normal;
+                padding: 12px 20px;
+                font-size: 14px;
+                line-height: 1.2em;
+                text-align: center;
+                margin-bottom:0;">
+            <i class="fa-kaal"
+              style="color: #FFFFFF;
+                    font-size: 14px;
+                    vertical-align: bottom;
+                    padding-right: 0.4em;"></i>
+
+          
+            <a href="http://www.olvantwerpen.be/verblijf-en-bezoek/fixatievrij-beleid" target="_self"
+                    style="color: #FFFFFF;">
+
+              Fixatievrij beleid
+            </a>
+
+          
+        </h4>
+
+      </div>
+
+    </div>
+
+  
+    <div class="favpromote favth-col-lg-3 favth-col-md-3 favth-col-sm-6 favth-col-xs-12">
+
+      <div id="favpromote-box2"
+        class="favpromote2-14003 layout-effect"
+        style="border: 1px solid #DDDDDD;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        border-radius: 8px;">
+
+        <div id="favpromote-image2"
+              style="height:100%; text-align: center;">
+
+          
+            <a href="http://www.olvantwerpen.be/verblijf-en-bezoek/omgeving" target="_self" >
+
+                          <img src="/images/hoofdmap/menubeelden/verblijfenbezoek/omgevingolva.JPG"
+              alt=""/>
+            
+            </a>
+
+          
+        </div>
+
+        <p id="favpromote-text2"
+          style="color: #444444;
+                font-size: 13px;
+                line-height: 1.5em;
+                text-align: justify;">
+                  Klik voor meer info        </p>
+
+        <h4 id="favpromote-title2"
+            style="color: #FFFFFF;
+                background-color: #FD6250;
+                font-family: Roboto;
+                font-weight: 400;
+                font-style: normal;
+                padding: 12px 20px;
+                font-size: 14px;
+                line-height: 1.2em;
+                text-align: center;
+                margin-bottom:0;">
+            <i class="fa-kaal"
+              style="color: #FFFFFF;
+                    font-size: 14px;
+                    vertical-align: bottom;
+                    padding-right: 0.4em;"></i>
+
+          
+            <a href="http://www.olvantwerpen.be/verblijf-en-bezoek/omgeving" target="_self"
+                    style="color: #FFFFFF;">
+
+              Omgeving
+            </a>
+
+          
+        </h4>
+
+      </div>
+
+    </div>
+
+  
+    <div class="favpromote favth-col-lg-3 favth-col-md-3 favth-col-sm-6 favth-col-xs-12">
+
+      <div id="favpromote-box3"
+        class="favpromote3-14003 layout-effect"
+        style="border: 1px solid #DDDDDD;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        border-radius: 8px;">
+
+        <div id="favpromote-image3"
+              style="height:100%; text-align: center;">
+
+          
+            <a href="http://www.olvantwerpen.be/verblijf-en-bezoek/palliatie-en-euthanasie" target="_self" >
+
+                          <img src="/images/hoofdmap/menubeelden/verblijfenbezoek/palliatieeneuthanasie.jpg"
+              alt=""/>
+            
+            </a>
+
+          
+        </div>
+
+        <p id="favpromote-text3"
+          style="color: #444444;
+                font-size: 13px;
+                line-height: 1.5em;
+                text-align: justify;">
+                  Klik voor meer info        </p>
+
+        <h4 id="favpromote-title3"
+            style="color: #FFFFFF;
+                background-color: #FD6250;
+                font-family: Roboto;
+                font-weight: 400;
+                font-style: normal;
+                padding: 12px 20px;
+                font-size: 14px;
+                line-height: 1.2em;
+                text-align: center;
+                margin-bottom:0;">
+            <i class="fa-kaal"
+              style="color: #FFFFFF;
+                    font-size: 14px;
+                    vertical-align: bottom;
+                    padding-right: 0.4em;"></i>
+
+          
+            <a href="http://www.olvantwerpen.be/verblijf-en-bezoek/palliatie-en-euthanasie" target="_self"
+                    style="color: #FFFFFF;">
+
+              Comfortzorg
+            </a>
+
+          
+        </h4>
+
+      </div>
+
+    </div>
+
+  
+    <div class="favpromote favth-col-lg-3 favth-col-md-3 favth-col-sm-6 favth-col-xs-12">
+
+      <div id="favpromote-box4"
+        class="favpromote4-14003 layout-effect"
+        style="border: 1px solid #DDDDDD;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        border-radius: 8px;">
+
+        <div id="favpromote-image4"
+              style="height:100%; text-align: center;">
+
+          
+            <a href="http://www.olvantwerpen.be/verblijf-en-bezoek/voedingszorg" target="_blank" >
+
+                          <img src="/images/hoofdmap/menubeelden/verblijfenbezoek/voedingszorg.jpg"
+              alt=""/>
+            
+            </a>
+
+          
+        </div>
+
+        <p id="favpromote-text4"
+          style="color: #444444;
+                font-size: 13px;
+                line-height: 1.5em;
+                text-align: justify;">
+                  Klik voor meer info        </p>
+
+        <h4 id="favpromote-title4"
+            style="color: #FFFFFF;
+                background-color: #FD6250;
+                font-family: Roboto;
+                font-weight: 400;
+                font-style: normal;
+                padding: 12px 20px;
+                font-size: 14px;
+                line-height: 1.2em;
+                text-align: center;
+                margin-bottom:0;">
+            <i class="fa-kaal"
+              style="color: #FFFFFF;
+                    font-size: 14px;
+                    vertical-align: bottom;
+                    padding-right: 0.4em;"></i>
+
+          
+            <a href="http://www.olvantwerpen.be/verblijf-en-bezoek/voedingszorg" target="_blank"
+                    style="color: #FFFFFF;">
+
+              Voedingszorg
+            </a>
+
+          
+        </h4>
+
+      </div>
+
+    </div>
+
+  
+</div>
+
+
+                        </div>
+
+                                                                                                                                                                                                                                    
+                </div>
+              </div>
+            </div>
+          </div>
+
+        
+        <!-- USER -->
+        
+        
+  			<!-- FOOTER -->
+        
+                  
+          <div class="container-fluid" id="fav-footerwrap">
+            <div class="fav-transparent">
+              <div class="row-fluid">
+                <div id="fav-footer" class="clearfix">
+
+                                      
+                        <div id="fav-footer1" class="span3">
+
+                          <div class="moduletable" >
+
+<div class="custom"  >
+	<div><strong><span style="font-size: 8pt; color: #ffffff;">ADRES</span></strong></div>
+<div>&nbsp;</div>
+<div><span style="color: #ffffff;"><span style="font-size: 10.6667px;"><img src="/images/hoofdmap/icons/locationgrijswit.png" alt="locationgrijswit" width="8" height="12" style="margin: 5px 10px 60px 0px; float: left;" />Pieter Van Hobokenstraat 3</span></span></div>
+<div><span style="font-size: 8pt; color: #ffffff;">2000 Antwerpen</span></div>
+<div><a href="/verblijf-en-bezoek/bezoek" target="_parent"><span style="font-size: 8pt; color: #ffffff;">Bezoek ons</span></a></div>
+<div><a href="/bereikbaarheid" target="_self" title="Bereikbaarheid"><span style="font-size: 8pt; color: #ffffff;">Bereikbaarheid&nbsp;</span></a></div></div>
+</div>
+
+                        </div>
+
+                                                          
+                        <div id="fav-footer2" class="span3">
+
+                          <div class="moduletable" >
+
+<div class="custom"  >
+	<div><strong><span style="font-size: 8pt; color: #ffffff;">CONTACTEER ONS</span></strong></div>
+<div>&nbsp;</div>
+<div><span style="font-size: 8pt; color: #ffffff;"><img src="/images/hoofdmap/icons/telefoon-grijswit.png" alt="telefoon grijswit" width="12" height="12" style="margin: 2px 10px 0px 0px; float: left;" /></span></div>
+<div><span style="font-size: 8pt; color: #ffffff;"><span style="font-family: verdana, geneva;">03/</span><span style="font-family: verdana, geneva;"><span style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Lucida, sans-serif;">213 66 66</span></span></span></div>
+<div><a href="mailto:info@olvantwerpen.be" target="_blank" rel="noopener noreferrer" title="Mail naar OLV Antwerpen"><img src="/images/hoofdmap/icons/mail-grijswit.png" alt="mail grijswit" width="12" height="12" style="margin: 2px 10px 40px 0px; float: left;" /></a></div>
+<div><span style="color: #ffffff; font-family: verdana, geneva; font-size: 8pt;"><a href="mailto:info@olvantwerpen.be" style="color: #ffffff;">info@olvantwerpen.be</a></span></div>
+<div><a href="/contacteer-ons" target="_self" title="Contacteer ons"><span style="font-size: 8pt; color: #ffffff;">Contacteer ons</span></a></div></div>
+</div>
+
+                        </div>
+
+                                                          
+                        <div id="fav-footer3" class="span3">
+
+                          <div class="moduletable" >
+
+<div class="custom"  >
+	<div><strong><span style="font-size: 8pt; color: #ffffff;">&nbsp; SOCIALE MEDIA</span></strong></div>
+<div>&nbsp;</div>
+<div><span style="font-size: 8pt; color: #ffffff;">&nbsp; Volg ons op</span></div></div>
+</div><div class="moduletable" >
+<div id="favsocial-11880"
+    style="width:100%;">
+
+  <ul id="favsocial-list"
+      class="favsocial-left">
+
+    
+      <li id="favsocial-icon1">
+        <a href="https://twitter.com/olvantwerpen" target="_blank"
+          style="background-color: #00ACED;
+                padding: 0,45em;
+                -webkit-border-radius: 50%;
+                -moz-border-radius: 50%;
+                border-radius: 50%">
+
+          <span class="favsocial">
+            <i class="fa fa-twitter"
+              style="color: #FFFFFF;
+                    font-size: 16px;">
+            </i>
+          </span>
+
+        </a>
+      </li>
+
+    
+      <li id="favsocial-icon2">
+        <a href="https://www.facebook.com/OLVANTWERPEN/" target="_blank"
+          style="background-color: #3B5998;
+                padding: 0,45em;
+                -webkit-border-radius: 50%;
+                -moz-border-radius: 50%;
+                border-radius: 50%">
+
+          <span class="favsocial">
+            <i class="fa fa-facebook"
+              style="color: #FFFFFF;
+                    font-size: 16px;">
+            </i>
+          </span>
+
+        </a>
+      </li>
+
+    
+      <li id="favsocial-icon3">
+        <a href="https://www.linkedin.com/company/3802436/" target="_blank"
+          style="background-color: #007AB9;
+                padding: 0,45em;
+                -webkit-border-radius: 50%;
+                -moz-border-radius: 50%;
+                border-radius: 50%">
+
+          <span class="favsocial">
+            <i class="fa fa-linkedin"
+              style="color: #FFFFFF;
+                    font-size: 16px;">
+            </i>
+          </span>
+
+        </a>
+      </li>
+
+    
+  </ul>
+
+</div>
+</div><div class="moduletable" >
+
+<div class="custom"  >
+	<p><span style="font-size: 8pt; color: #ffffff;">&nbsp; WiFree</span></p></div>
+</div>
+
+                        </div>
+
+                                                          
+                        <div id="fav-footer4" class="span3">
+
+                          <div class="moduletable" >
+
+<div class="custom"  >
+	<p><span style="color: #ffffff;"><strong><span style="font-size: 8pt;">WEBSITE</span></strong></span></p>
+<div><a href="/privacybeleid" target="_blank" title="Privacybeleid wzc OLVAntwerpen"><span style="font-size: 8pt; font-family: verdana, geneva; color: #ffffff;">Privacybeleid</span></a></div>
+<div><span style="font-size: 8pt; font-family: verdana, geneva; color: #ffffff;"><a href="/gebruiksvoorwaarden" target="_blank" rel="noreferrer" style="color: #ffffff;" title="Ga naar de gebruiksvoorwaarden">Gebruiksvoorwaarden</a></span></div></div>
+</div>
+
+                        </div>
+
+                                                                                                                  
+                </div>
+              </div>
+            </div>
+          </div>
+
+        
+  			<!-- COPYRIGHT -->
+  			
+  			<!-- DEBUG -->
+  			
+  			<!-- BACKTOP -->
+  			<div class="container-fluid">
+  				<div class="row-fluid">
+  					  						<div id="fav-backtop" class="span12">
+  							<a href="/" class="backtop" title="BACK TO TOP">
+                  <i class="fa fa-angle-up"></i>
+  							</a>
+  						</div>
+  					  				</div>
+  			</div>
+
+  		</div><!-- /fav-container -->
+
+    </div><!-- /fav-overlay -->
+  </div><!-- /fav-containerwrap -->
+
+<!--[if lte IE 7]><script src="/templates/artis/js/ie6/warning.js"></script><script>window.onload=function(){e("/templates/artis/js/ie6/")}</script><![endif]-->
+</body>
+</html>

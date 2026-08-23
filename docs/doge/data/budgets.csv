@@ -52235,3 +52235,8 @@ bud_wzc_olv_roosdaal_pnl_jr2025_statutory,vzw_wzc_olv_roosdaal,2025,303111,,,CW 
 bud_wzc_olv_roosdaal_equity_jr2025_statutory,vzw_wzc_olv_roosdaal,2025,6832532,,,CW YE2025 Eigen vermogen,src_wzc_olv_roosdaal_jr2025_cw,medium,tick2035; equity JUMP 6832532 +4.64pct vs YE2024 6529421
 bud_wzc_olv_roosdaal_bruto_jr2025_statutory,vzw_wzc_olv_roosdaal,2025,7274401,,,CW YE2025 Brutomarge,src_wzc_olv_roosdaal_jr2025_cw,medium,tick2035; bruto JUMP 7274401 +7.36pct vs YE2024 6775794
 bud_wzc_olv_roosdaal_fte_jr2025_statutory,vzw_wzc_olv_roosdaal,2025,89.3,,,CW social-balance FTE,src_wzc_olv_roosdaal_jr2025_cw,medium,tick2035; YE2025 FTE 89.3 vs YE2024 91.4
+bud_wzc_olva_antwerpen_omzet_jr2025_statutory,vzw_wzc_olva_antwerpen,2025,10810892,,,CW YE2025 omzet / Turnover,src_wzc_olva_antwerpen_jr2025_cw,medium,tick2036; omzet DROP 10810892 -1.87pct vs YE2024 11017242
+bud_wzc_olva_antwerpen_pnl_jr2025_statutory,vzw_wzc_olva_antwerpen,2025,76807,,,CW YE2025 Profit/Loss,src_wzc_olva_antwerpen_jr2025_cw,medium,tick2036; pnl DROP 76807 -91.00pct vs YE2024 853286
+bud_wzc_olva_antwerpen_equity_jr2025_statutory,vzw_wzc_olva_antwerpen,2025,13738639,,,CW YE2025 Eigen vermogen,src_wzc_olva_antwerpen_jr2025_cw,medium,tick2036; equity DROP 13738639 -2.31pct vs YE2024 14063307
+bud_wzc_olva_antwerpen_bruto_jr2025_statutory,vzw_wzc_olva_antwerpen,2025,11254590,,,CW YE2025 Brutomarge,src_wzc_olva_antwerpen_jr2025_cw,medium,tick2036; bruto DROP 11254590 -2.44pct vs YE2024 11536044
+bud_wzc_olva_antwerpen_fte_jr2025_statutory,vzw_wzc_olva_antwerpen,2025,143.4,,,CW social-balance FTE,src_wzc_olva_antwerpen_jr2025_cw,medium,tick2036; YE2025 FTE 143.4

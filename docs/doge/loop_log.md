@@ -23340,3 +23340,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_olv_roosdaal); foi + draft gap_wzc_olv_roosdaal_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2035=done + rq_2036 open; loop_state ticks=2035; raw under docs/doge/data/raw/tick2035/.
 - FOI: **ready not sent** (human-gated; info@wzc-olv-roosdaal.be).
 - NOT every-10 (**next every-10 is 2040**). Next: rq_2036 (AGB/FARO-if-YE2025 / AIESH-REW / OLVA-Triest / unused DSO-IGS-HVZ).
+
+
+## Tick 2036 - 2026-08-24T13:40:00Z - rq_2036 OLVA Antwerpen (omzet DROP 10.81m / pnl DROP 77k / Medium)
+
+- Unit: **rq_2036** leftover dual after **rq_2035 WZC OLV Roosdaal**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **OLVA Antwerpen** YE2025 (KBO **0430.977.136**; Pieter van Hobokenstraat 3 Antwerpen; **WZC VZW**). Do not redo OLV Roosdaal/Sint-Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara/PC Gent-Sleidinge/AZ Rivierenland/AZ Zeno/HH Tienen/Heilig Hart Leuven/Sint-Trudo/Sint-Andries/Heilig Hart Lier/Vlaamse Zorgkas/OLVT/AZ Oostende.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR10,810,892** DROP −1.87%; pnl **EUR76,807** DROP −91.00%; equity **EUR13,738,639** DROP −2.31%; bruto **EUR11,254,590** DROP −2.44%; FTE **143.4**; neerlegging **19.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email info@olvantwerpen.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1); entities (+1 vzw_wzc_olva_antwerpen); foi + draft gap_wzc_olva_antwerpen_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2036=done + rq_2037 open; loop_state ticks=2036; raw under docs/doge/data/raw/tick2036/.
+- FOI: **ready not sent** (human-gated; info@olvantwerpen.be).
+- NOT every-10 (**next every-10 is 2040**). Next: rq_2037 (AGB/FARO-if-YE2025 / AIESH-REW / Kanunnik Triest / unused DSO-IGS-HVZ).
