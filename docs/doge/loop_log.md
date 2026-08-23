@@ -22106,3 +22106,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_zkracht_nbb_pdf_assets_share_fva_l5; rq_1898=done + rq_1899 open; loop_state ticks=1898.
 - FOI opened: NBB PDF + assets/share % / FVA for pnl DROP (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1900**). Next: rq_1899 (AGB/Dijk92-if-200 / FARO-if-YE2025 / Limburg Wind CV / Fairville / other HVZ-IGS).
+
+
+## Tick 1899 - 2026-08-26T20:45:00Z - rq_1899 Limburg Wind CV (equity 21.5m / pnl 0.67m / Medium)
+
+- Unit: **rq_1899** leftover dual after Z-Kracht. Prefer NON-Eneco live. Hunt: AGB Bornem still **JR2024-only**; Dijk92 CDN **403**; FARO NBB YE2025 unpublished. Took leftover **Limburg Wind CV** (KBO **0825.735.660**; Herkenrodesingel 14 Hasselt **Nuhma seat**; erkende burgercoöperatie; bestuurders **Aspiravi + LRM Beheer**; distinct from already-mined Limburg Win(d)t NV / Lommel Win(d)t NV).
+- Primary hunt: NBB CDN deposit unresolved; Upswitch empty this tick. **Medium** euros from [Companyweb](https://www.companyweb.be/nl/0825735660/limburg-wind) + KBO (neerlegging **27.06.2026**; YE **31.12.2025**): omzet **empty**; bruto **NEG EUR-145,866**; PnL **EUR674,124**; equity **EUR21,486,884**; FTE **0**; assets **Unknown**.
+- Wrote: sources (+2); budgets (+4); commitments (+1); leaderboard (+1); entities (+1); foi + draft gap_lwind_nbb_pdf_assets_share_fva_l5; rq_1899=done + rq_1900 open (EVERY-10); loop_state ticks=1899.
+- FOI opened: NBB PDF + assets/vennoten / plant recon (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1900**). Next: rq_1900 MUST refresh progress+waste top10 then hole-fill (Fairville/WEP/HyoffGreen if live).

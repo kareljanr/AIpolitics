@@ -51449,3 +51449,7 @@ bud_zkracht_bruto_jr2025,nv_zkracht,2025,-147024,,,CW NBB-derived 9900 NEG,src_z
 bud_zkracht_pnl_jr2025,nv_zkracht,2025,4315764,,,CW NBB-derived 9904,src_zkracht_jr2025_cw,medium,tick1898; YE2025 pnl 4315764 DROP -76.51pct vs 18.37m
 bud_zkracht_equity_jr2025,nv_zkracht,2025,124618951,,,CW NBB-derived 10/15,src_zkracht_jr2025_cw,medium,tick1898; YE2025 equity 124618951 JUMP +4.33pct
 bud_zkracht_fte_jr2025,nv_zkracht,2025,0,,,CW NBB-derived FTE,src_zkracht_jr2025_cw,medium,tick1898; YE2025 FTE 0 holding shell
+bud_lwind_bruto_jr2025,cv_lwind,2025,-145866,,,CW NBB-derived 9900 NEG,src_lwind_jr2025_cw,medium,tick1899; YE2025 bruto NEG -145866
+bud_lwind_pnl_jr2025,cv_lwind,2025,674124,,,CW NBB-derived 9904,src_lwind_jr2025_cw,medium,tick1899; YE2025 pnl 674124 JUMP +7.02pct
+bud_lwind_equity_jr2025,cv_lwind,2025,21486884,,,CW NBB-derived 10/15,src_lwind_jr2025_cw,medium,tick1899; YE2025 equity 21486884 JUMP +0.99pct
+bud_lwind_fte_jr2025,cv_lwind,2025,0,,,CW NBB-derived FTE,src_lwind_jr2025_cw,medium,tick1899; YE2025 FTE 0 citizen coop shell
