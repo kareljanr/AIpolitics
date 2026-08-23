@@ -23519,3 +23519,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.55); entities (+1 vzw_wzc_walfergem); foi + draft gap_walfergem_nbb_pdf_assets_debt_pnl_drop_equity_jump_matrix_l5; rq_2053=done + rq_2054 open; loop_state ticks=2053; raw under docs/doge/data/raw/tick2053/.
 - FOI: **ready not sent** (human-gated; info@walfergem.be).
 - NOT every-10 (**next every-10 is 2060**). Next: rq_2054 (AGB/FARO-if-YE2025 / AIESH-REW / Ganspoel deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2054 - 2026-08-24T18:35:00Z - rq_2054 Seniorenzorg Lendelede (omzet JUMP 6.68m / pnl JUMP 0.41m / Medium)
+
+- Unit: **rq_2054** leftover dual after **rq_2053 Walfergem**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took deferred leftover **Seniorenzorg St-Vincentius Lendelede** YE2025 (KBO **0461.511.449**; Izegemsestraat 14 Lendelede; West-Vlaanderen **VZW** WZC / **1 VE**). Centrum Ganspoel / Huize Westerhauwe YE2025 may still be live — deferred. Do not redo Walfergem/Ter Berk/Van Lierde/Hof ter Waarbeek/Huize Vincent/Ter Kimme/Integro/Curando/AGB Bornem/De Verlosser/Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/C.W.Z.C. Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Sint-Jozef Rumst/Veilige Have/Witte Meren.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR6,678,491** JUMP +5.72%; pnl **EUR410,246** JUMP +79.27%; equity **EUR8,894,294** JUMP +2.19%; bruto **EUR6,864,614** JUMP +6.73%; FTE **83.5**; neerlegging **01.07.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; email directie@seniorenzorglendelede.be (Departement Zorg repertorium).
+- Wrote: sources (+6); budgets (+5); commitments (+1); leaderboard (+1 pi 4.7); entities (+1 vzw_seniorenzorg_st_vincentius_lendelede); foi + draft gap_lendelede_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2054=done + rq_2055 open; loop_state ticks=2054; raw under docs/doge/data/raw/tick2054/.
+- FOI: **ready not sent** (human-gated; directie@seniorenzorglendelede.be).
+- NOT every-10 (**next every-10 is 2060**). Next: rq_2055 (AGB/FARO-if-YE2025 / AIESH-REW / Ganspoel-Westerhauwe if live / unused DSO-IGS-HVZ-WZC-psych).

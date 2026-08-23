@@ -52327,3 +52327,8 @@ bud_walfergem_pnl_jr2025_statutory,vzw_wzc_walfergem,2025,947077,,,CW YE2025 Pro
 bud_walfergem_equity_jr2025_statutory,vzw_wzc_walfergem,2025,4258074,,,CW YE2025 Eigen vermogen / Equity,src_walfergem_jr2025_cw_en,medium,tick2053; equity JUMP 4258074 +28.60pct vs YE2024 3310998
 bud_walfergem_bruto_jr2025_statutory,vzw_wzc_walfergem,2025,6540292,,,CW YE2025 Brutomarge / Gross margin,src_walfergem_jr2025_cw_en,medium,tick2053; bruto DROP 6540292 -1.86pct vs YE2024 6664407
 bud_walfergem_fte_jr2025_statutory,vzw_wzc_walfergem,2025,76,,,CW social-balance FTE,src_walfergem_jr2025_cw_en,medium,tick2053; YE2025 FTE 76
+bud_lendelede_omzet_jr2025_statutory,vzw_seniorenzorg_st_vincentius_lendelede,2025,6678491,,,CW YE2025 omzet / Turnover,src_lendelede_jr2025_cw_en,medium,tick2054; omzet JUMP 6678491 +5.72pct vs YE2024 6317326
+bud_lendelede_pnl_jr2025_statutory,vzw_seniorenzorg_st_vincentius_lendelede,2025,410246,,,CW YE2025 Profit/Loss,src_lendelede_jr2025_cw_en,medium,tick2054; pnl JUMP 410246 +79.27pct vs YE2024 228837
+bud_lendelede_equity_jr2025_statutory,vzw_seniorenzorg_st_vincentius_lendelede,2025,8894294,,,CW YE2025 Eigen vermogen / Equity,src_lendelede_jr2025_cw_en,medium,tick2054; equity JUMP 8894294 +2.19pct vs YE2024 8703474
+bud_lendelede_bruto_jr2025_statutory,vzw_seniorenzorg_st_vincentius_lendelede,2025,6864614,,,CW YE2025 Brutomarge / Gross margin,src_lendelede_jr2025_cw_en,medium,tick2054; bruto JUMP 6864614 +6.73pct vs YE2024 6431980
+bud_lendelede_fte_jr2025_statutory,vzw_seniorenzorg_st_vincentius_lendelede,2025,83.5,,,CW social-balance FTE,src_lendelede_jr2025_cw_en,medium,tick2054; YE2025 FTE 83.5
