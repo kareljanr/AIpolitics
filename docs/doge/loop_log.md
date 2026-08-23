@@ -23421,3 +23421,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.1); entities (+1 vzw_zorggroep_zusters_van_berlaar); foi + draft gap_zusters_berlaar_nbb_pdf_assets_debt_subsidy_matrix_l5; rq_2043=done + rq_2044 open; loop_state ticks=2043; raw under docs/doge/data/raw/tick2043/.
 - FOI: **ready not sent** (human-gated; info@zusters-berlaar.be).
 - NOT every-10 (**next every-10 is 2050**). Next: rq_2044 (AGB/FARO-if-YE2025 / AIESH-REW / De Verlosser deferred / unused DSO-IGS-HVZ-WZC-psych).
+
+
+## Tick 2044 - 2026-08-24T15:40:00Z - rq_2044 WZC De Verlosser Dilbeek (omzet JUMP 3.02m / pnl JUMP 94k / Medium)
+
+- Unit: **rq_2044** leftover dual after **rq_2043 Zorggroep Zusters van Berlaar**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (CW last balance 2024); AIESH/REW still YE2024. Took deferred leftover **WZC De Verlosser Dilbeek** YE2025 (KBO **0446.340.946**; Brusselstraat 647 Dilbeek / Sint-Ulriks-Kapelle; VZW WZC / 1 VE / ~56 beds). Do not redo Zorggroep Zusters van Berlaar/Psychogeriatrisch/De Linde/Samen Ouder/C.W.Z.C. Zonhoven/Orelia/Kanunnik Triest/OLVA/Roosdaal/Bernardus Assenede/Cassiers/OLV Lourdes/St Vincentius Antwerpen/Sint-Jozef Rillaar/Karus/De Foyer/Ternat/Zilverbos/Mayerhof/Evara/Multiversum/Maria Rustoord/PPC Pittem/WZC Sint-Vincentius Avelgem/PC Sint-Hiëronymus/WZC Sint-Barbara/PC Gent-Sleidinge/Molenheide/Veilige Have/Witte Meren.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR3,015,833** JUMP +7.34%; pnl **EUR94,194** JUMP +44.71%; equity **EUR1,690,969** JUMP +5.74%; bruto **EUR2,248,348** DROP −3.39%; FTE **31**; neerlegging **19.06.2026**. Assets/debt Unknown. Medium confidence. Strong KBO Actief VZW 1 VE; site email info@wzcdeverlosser.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.3); entities (+1 vzw_wzc_de_verlosser_dilbeek); foi + draft gap_wzc_de_verlosser_dilbeek_nbb_pdf_assets_debt_pnl_jump_matrix_l5; rq_2044=done + rq_2045 open; loop_state ticks=2044; raw under docs/doge/data/raw/tick2044/.
+- FOI: **ready not sent** (human-gated; info@wzcdeverlosser.be).
+- NOT every-10 (**next every-10 is 2050**). Next: rq_2045 (AGB/FARO-if-YE2025 / AIESH-REW / unused DSO-IGS-HVZ-WZC-psych).
