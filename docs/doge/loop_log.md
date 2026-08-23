@@ -22578,3 +22578,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); budgets (+8); commitments (+1); leaderboard (+1); entities (+1 nv_hydria); foi + draft gap_hydria_nbb_pdf_debt_vivaqua_assain_matrix_l5; rq_1952=done + rq_1953 open; loop_state ticks=1952.
 - FOI opened: NBB PDF + debt/cash + Vivaqua assainissement redevance matrix + NEG bruto (**ready**, human-send only).
 - NOT every-10 (**next every-10 is 1960**). Next: rq_1953 (AGB/FARO-if-YE2025 / AIESH-REW-if-YE2025 / Bosgroep-IOED / otherHVZ-IGS).
+
+## Tick 1953 - 2026-08-27T23:15:00Z - rq_1953 BRUGEL (vereffend 6.38m / pers 4.89m / Strong)
+
+- Unit: **rq_1953** leftover dual after Hydria. Prefer NON-Eneco live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024**. Took leftover **BRUGEL** (KBO **0806.001.011**; Sterrenkundelaan 14 Sint-Joost; BCR energy+water regulator; openbare instelling). Do not redo Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V. EURIDICE YE2025 CW live deferred.
+- Primary: official [BRUGEL Jaarverslag 2025 PDF](https://brugel.brussels/publication/document/verslagen/2026/nl/20260520_Jaarverslag_2025.pdf) uitvoeringsrekening 31.12.2025 (**Strong**; not yet CoA-audited; statutory JR sent Parlement/Rekenhof 20.04.2026) + Strong KBO: vereffend **EUR6,384,194** (98%); vastgelegd **EUR6,295,324** (99%); pers **EUR4,886,195**; energie **EUR4,981,968**; water **EUR1,402,226**; FTE **40**.
+- Wrote: sources (+2); budgets (+7); commitments (+1); leaderboard (+1); entities (+1 brugel); foi + draft gap_brugel_statutory_jr2025_coa_assets_gsc_mfc_l5; raw PDF; rq_1953=done + rq_1954 open; loop_state ticks=1953.
+- FOI opened: statutory JR + CoA + assets + GSC/MFC (**ready**, human-send only).
+- NOT every-10 (**next every-10 is 1960**). Next: rq_1954 (AGB/FARO-if-YE2025 / AIESH-REW / EURIDICE-if-unused / otherHVZ-IGS).

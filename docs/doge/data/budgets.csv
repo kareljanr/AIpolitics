@@ -51773,3 +51773,10 @@ bud_hydria_assets_jr2025,nv_hydria,2025,300554368,,,Upswitch NBB-derived total a
 bud_hydria_ebitda_jr2025,nv_hydria,2025,15600944,,,Upswitch NBB-derived EBITDA YE2025,src_hydria_jr2025_upswitch,medium,tick1952; ~34.6pct of omzet
 bud_hydria_kapitaal_kbo,nv_hydria,2025,182194633,,,KBO registered capital,src_hydria_kbo,strong,tick1952; KBO kapitaal 182194633
 bud_hydria_fte_jr2025,nv_hydria,2025,67,,,CW NBB-derived FTE 67.2 (rounded display 67),src_hydria_jr2025_cw,medium,tick1952; exact FTE 67.2; not euros — headcount proxy row
+bud_brugel_vereffend_jr2025,brugel,2025,6384194,,,Official JR2025 uitvoeringsrekening total vereffeningen,src_brugel_jr2025_official,strong,tick1953; 98pct of aangepast 6521000; not yet CoA-audited
+bud_brugel_vastgelegd_jr2025,brugel,2025,6295324,,,Official JR2025 total vastleggingen/betrokken,src_brugel_jr2025_official,strong,tick1953; 99pct of aangepast 6345000
+bud_brugel_personeel_jr2025,brugel,2025,4886195,,,Official JR2025 personeelsuitgaven vereffend=vastgelegd,src_brugel_jr2025_official,strong,tick1953; 100pct; dominant cost line
+bud_brugel_werking_jr2025,brugel,2025,1109058,,,Official JR2025 werking vereffend,src_brugel_jr2025_official,strong,tick1953; vastgelegd 1054622
+bud_brugel_energie_jr2025,brugel,2025,4981968,,,Official JR2025 energie sector vereffend,src_brugel_jr2025_official,strong,tick1953; vastgelegd 4910254
+bud_brugel_water_jr2025,brugel,2025,1402226,,,Official JR2025 water sector vereffend,src_brugel_jr2025_official,strong,tick1953; vastgelegd 1385070; dual Vivaqua/Hydria regulation
+bud_brugel_fte_jr2025,brugel,2025,40,,,Official JR2025 kerncijfers medewerkers,src_brugel_jr2025_official,strong,tick1953; 40 medewerkers; not euros — headcount proxy
