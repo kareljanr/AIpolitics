@@ -21579,3 +21579,11 @@ Append-only. Each tick adds a short entry.
 - FOI opened: gap_enebra_jr2025_nbb_cdn_403_l5 (**ready**, human-send only)
 - NOT every-10 (next **1840**). Next: rq_1837 (Eneco Wind BE-if-200 / AGB / Dijk92 / FARO / IGS).
 
+## Tick 1837 - 2026-08-25T16:15:00Z - rq_1837 Stroomvloed Wind BV (EnDev-R FVA 0.59m / BE guarantee 0.36m)
+
+- Unit: **rq_1837** leftover dual residual after Enebra FOI; preferred AGB Bornem JR2024; Dijk92/Enebra/APEFE/NSZ CDN **403**; FARO YE2024. Eneco Wind Belgium deposit hunt unresolved. Took leftover **Stroomvloed Wind BV** (Nazareth EnDev-R dual daughter; KBO **0785.429.685**; parent Stroomvloed CV 100%).
+- Primary (strong, NBB VKT-inb [2026-00256599](http://cdn.staatsbladmonitor.be/2026pdf/2026-00256599.pdf) CDN 200 / 19p 59028 bytes; AV **13.06.2026**): assets DROP **EUR651,719**; FVA DROP **EUR586,447** (EnDev-R **12.5%** / 100,125 sh; mutatie **-48,390**); bruto NEG **EUR15,305**; expl **-EUR16,086**; fin opbr DROP **EUR27,867**; PnL LOSS flip **EUR5,304**; debt **EUR544,820** (LT bank **319,479**; LT other **163,684**); BE overheidsgewaarborgd **EUR363,659**; equity **EUR106,898** (inbreng JUMP **150,000**; overgedragen verlies **43,102**); cash DROP **EUR15,523**; pand max **EUR573,000**; continuity note (parent support); omzet empty; dividend **0**.
+- Wrote: entities bv_stroomvloed_wind; sources (+3); budgets (+10); commitments (+3); leaderboard; foi_queue ready; research_queue rq_1837=done + rq_1838 spawned; loop_state ticks=1837; FOI draft gap_swind_endevr_0_59m_be_guarantee_0_36m_loss_5k_l5.md
+- FOI opened: gap_swind_endevr_0_59m_be_guarantee_0_36m_loss_5k_l5 (**ready**, human-send only)
+- NOT every-10 (next **1840**). Next: rq_1838 (Eneco Wind BE-if-200 / AGB / Dijk92 / FARO).
+
