@@ -21195,3 +21195,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+3); entities bv_couros; budgets (+14); commitments; leaderboard; foi_queue ready; research_queue rq_1787=done + rq_1788 spawned; loop_state ticks=1787; FOI draft gap_couros_marge_4_81m_staff_2_98m_leasing_10_02m_l5.md
 - FOI opened: gap_couros_marge_4_81m_staff_2_98m_leasing_10_02m_l5 (**ready**, not sent)
 - Next: rq_1788 — MaisonDieu-if-200 / AGB / NSZ-if-200 / unused-Vivalto; every-10 at 1790
+
+### 2026-08-24T22:55:00Z — tick 1788
+- Unit: rq_1788 — **MAISON DIEU / Le Marronnier SA** (Antheit-Wanze / Vivalto; CDN opaque stall)
+- Found: Preferred AGB Bornem still JR2024; NSZ/Dijk92/APEFE prior CDN **403**; Brembloem VZW still no JR2025. Took leftover **MAISON DE REPOS DE LA MAISON DIEU SA** (brands Maison Dieu + Le Marronnier; KBO **0428.080.497**). Northdata lists YE2025 annual report **2026-06-04** but SBM CDN deposit id **not found** after honest sweep (consult.cbso SPA; companyweb no id; ranges 00136-00140/00176/00180/00272). **No YE2025 euros invented.** FOI-ready for primary NBB PDF + dual-site split.
+- Wrote: sources (+3); entities nv_maisondieu; commitments (envelope Unknown); foi_queue ready; research_queue rq_1788=blocked_foi + rq_1789 spawned; loop_state ticks=1788; FOI draft gap_maisondieu_jr2025_cdn_opaque_l5.md
+- FOI opened: gap_maisondieu_jr2025_cdn_opaque_l5 (**ready**, not sent)
+- Next: rq_1789 — AGB/NSZ-if-200/Bosgroep/MaisonDieu-if-CDN/unused-Vivalto; **every-10 at 1790 MUST**
