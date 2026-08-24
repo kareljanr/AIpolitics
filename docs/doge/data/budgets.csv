@@ -53892,3 +53892,8 @@ bud_tmk_pnl_jr2025_statutory,vzw_thomas_more_kempen_geel,2025,5229721,,,statutor
 bud_tmk_equity_jr2025_statutory,vzw_thomas_more_kempen_geel,2025,82724640,,,statutory_accounts,src_tmk_jr2025_cw_en,medium,tick2305; YE2025 equity JUMP 82724640 (+7.16%)
 bud_tmk_omzet_jr2024_statutory_cmp,vzw_thomas_more_kempen_geel,2024,80642448,,,statutory_accounts,src_tmk_jr2025_cw_en,medium,tick2305; YE2024 omzet comparative
 bud_tmk_pnl_jr2024_statutory_cmp,vzw_thomas_more_kempen_geel,2024,6425642,,,statutory_accounts,src_tmk_jr2025_cw_en,medium,tick2305; YE2024 pnl comparative
+bud_alvinnenberg_bruto_jr2025_statutory,vzw_alvinnenberg_leuven,2025,9383673,9383673,9383673,CW bruto YE2025 primary (~8.39x omzet),src_alvinnenberg_jr2025_cw_en,medium,tick2306; bruto 9383673
+bud_alvinnenberg_omzet_jr2025_statutory,vzw_alvinnenberg_leuven,2025,1118535,1118535,1118535,CW omzet YE2025,src_alvinnenberg_jr2025_cw_en,medium,tick2306; omzet 1118535
+bud_alvinnenberg_pnl_jr2025_statutory,vzw_alvinnenberg_leuven,2025,21262,21262,21262,CW pnl YE2025 DROP -97%,src_alvinnenberg_jr2025_cw_en,medium,tick2306; pnl 21262 vs 737745
+bud_alvinnenberg_equity_jr2025_statutory,vzw_alvinnenberg_leuven,2025,8224819,8224819,8224819,CW equity YE2025,src_alvinnenberg_jr2025_cw_en,medium,tick2306; equity 8224819
+bud_alvinnenberg_fte_jr2025_statutory,vzw_alvinnenberg_leuven,2025,117.6,117.6,117.6,CW FTE YE2025,src_alvinnenberg_jr2025_cw_en,medium,tick2306; FTE 117.6

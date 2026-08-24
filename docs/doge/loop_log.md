@@ -26368,3 +26368,10 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN+FR YE2025 — omzet **EUR80079671** DROP −0.7%; bruto **EUR75915417**; pnl **EUR5229721** DROP −18.61%; equity **EUR82724640** JUMP +7.16%; FTE **217.5**; filed **31.03.2026**. KBO Strong **4 VE** Geel RSZ **85.402**. Assets/debt Unknown.
 - Wrote: sources (+6); budgets (+6); commitments (+1); leaderboard (+1 pi 5.4); entities (+1); foi + draft gap_tmk_nbb_pdf_assets_debt_vl_sub_omzet_80_08m_pnl_drop_18pct_fte_jump_he_matrix_l5 ready NOT sent.
 - NOT every-10 (last **2300**; next **2310**). Next: rq_2306.
+
+### 2026-08-27T19:45:00Z - tick 2306 - rq_2306 Alvinnenberg Leuven (bruto 9.38m / omzet 1.12m ~8.39x / pnl DROP -97% / Medium)
+
+- Unit: **rq_2306** leftover dual after **rq_2305 TM Kempen**. Stalls YE2024. Took FREE VAPH **Alvinnenberg VZW** YE2025 (KBO **0434.390.150**; Leuven; RSZ **87.202**).
+- Found: omzet **EUR1118535** DROP -0.4%; bruto **EUR9383673** (~**8.39x**); pnl **EUR21262** DROP -97.12% vs EUR737745; equity **EUR8224819**; FTE **117.6**; filed **10.07.2026**. Medium. FOI via directie@alvinnenberg.be.
+- Wrote: APPEND sources/budgets/commitments/leaderboard/entities/foi; draft gap_alvinnenberg_nbb_pdf_assets_debt_bruto_gt_omzet_8_39x_pnl_drop_97pct_fte_jump_vaph_matrix_l5; rq_2306=done + rq_2307 open; ticks=2306.
+- FOI ready not sent. NOT every-10 (last 2300; next 2310).
