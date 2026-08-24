@@ -54032,3 +54032,8 @@ bud_eepos_pnl_jr2025_bbc,vzw_het_eepos_laakdal,2025,471677,471677,471677,BBC J5 
 bud_eepos_equity_jr2025_bbc,vzw_het_eepos_laakdal,2025,3060522,3060522,3060522,BBC J4 nettoactief YE2025,src_eepos_jr2025_bbc_pdf,strong,tick2328; Strong
 bud_eepos_assets_jr2025_bbc,vzw_het_eepos_laakdal,2025,4890405,4890405,4890405,BBC J4 activa YE2025,src_eepos_jr2025_bbc_pdf,strong,tick2328; Strong; cash 2749412; debt LT 895167
 bud_eepos_personnel_jr2025_bbc,vzw_het_eepos_laakdal,2025,5310275,5310275,5310275,BBC J5 bezoldigingen YE2025,src_eepos_jr2025_bbc_pdf,strong,tick2328; Strong
+bud_pleegzorg_ovl_bruto_jr2025_statutory,vzw_pleegzorg_oost_vlaanderen,2025,22643949,22643949,22643949,CW bruto YE2025 primary (omzet empty),src_pleegzorg_ovl_jr2025_cw_en,medium,tick2329; JUMP +13.52% vs 19947818
+bud_pleegzorg_ovl_pnl_jr2025_statutory,vzw_pleegzorg_oost_vlaanderen,2025,449825,449825,449825,CW pnl YE2025 DROP,src_pleegzorg_ovl_jr2025_cw_en,medium,tick2329; DROP -17.14% vs 542896
+bud_pleegzorg_ovl_equity_jr2025_statutory,vzw_pleegzorg_oost_vlaanderen,2025,10113586,10113586,10113586,CW equity YE2025 JUMP,src_pleegzorg_ovl_jr2025_cw_en,medium,tick2329; JUMP +4.24% vs 9702370
+bud_pleegzorg_ovl_fte_jr2025_statutory,vzw_pleegzorg_oost_vlaanderen,2025,278.6,278.6,278.6,CW FTE 278.6,src_pleegzorg_ovl_jr2025_cw_en,medium,tick2329; JUMP vs 257.9
+bud_pleegzorg_ovl_bruto_jr2024_statutory_cmp,vzw_pleegzorg_oost_vlaanderen,2024,19947818,19947818,19947818,CW bruto YE2024 cmp,src_pleegzorg_ovl_jr2025_cw_en,medium,tick2329; cmp

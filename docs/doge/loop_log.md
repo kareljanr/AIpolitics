@@ -26612,3 +26612,12 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN+FR YE2025 — omzet **EUR1683253** JUMP +4.55%; bruto **EUR11487628** JUMP +8% (~**6.82x**); pnl **EUR470626** JUMP +26.88%; equity **EUR8134829** JUMP +6.19%; FTE **134.9**; neerlegging **16.06.2026**. Strong KBO. Assets/debt Unknown. Medium. FOI info@mivalti.be.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.95); entities (+1); foi ready; rq_2329=done + rq_2330 open (EVERY-10 next); loop_state=2329.
 - FOI: **ready not sent**. Next EVERY-10 **2330**. Next: rq_2330.
+
+## tick 2329 — 2026-08-28T00:40:00Z — rq_2329 Pleegzorg Oost-Vlaanderen YE2025
+
+- **Unit:** leftover dual Flemish foster-care VZW Pleegzorg Oost-Vlaanderen (KBO 0536.817.992) Gent after Het Eepos@2328.
+- **Primary €:** bruto **EUR22643949** (omzet empty); Medium CW; PI **6.45**.
+- **Also:** pnl DROP EUR449825 (−17.14%); equity JUMP EUR10113586; FTE JUMP 278.6; filed 03.06.2026; 5 VE RSZ 88.992.
+- **Writes:** entities/sources/budgets/commitments/leaderboard + FOI gap_pleegzorg_ovl_nbb_pdf_assets_debt_empty_omzet_bruto_22_64m_pnl_drop_fte_jump_jeugdhulp_matrix_l5 ready NOT sent.
+- **Stalls:** AGB Bornem JR2024; FARO/AIESH/Citeco YE2024.
+- **Next:** rq_2330 EVERY-10 open; next EVERY-10 **2330**.
