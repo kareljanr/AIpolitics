@@ -24218,3 +24218,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.8); entities (+1 asbl_le_chateau_vert_huy); foi + draft gap_chateau_vert_nbb_pdf_assets_debt_omzet_empty_pnl_jump_matrix_l5; rq_2127=done + rq_2128 open; loop_state ticks=2127; raw docs/doge/data/raw/tick2127/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2120**; next **2130**). Next: rq_2128 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+
+## Tick 2128 - 2026-08-25T12:55:00Z - rq_2128 Zorghome De Fakkel Roeselare RACE-RECOVER (omzet JUMP 19.64m / equity JUMP +828% / Medium)
+
+- Unit: **rq_2128** race-recover after concurrent agents took **rq_2126 SLG Wallonie** + **rq_2127 Le Chateau Vert**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Recovered unused leftover **Zorghome De Fakkel BV** YE2025 (KBO **0865.574.649**; Hoveniersstraat 15 Roeselare Rumbeke; **BV** NACE **87.101/87.301** / **6 VE**; Armonea/Colisee Remy Yves path). CSV/entity/leaderboard/FOI-queue rows already landed via race into tick2127 commit; this tick fixes queue ownership + FOI draft + raw + loop_state. Do not redo SLG Wallonie/Chateau Vert/Famifamenne/Le Castel/RSW/Sebrechts/Armonea holding. Restel Flats + L'Orchidee deferred live YE2025.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR19637342** JUMP +94.8% vs YE2024 EUR10080939; bruto **EUR13383296** JUMP +90.24%; pnl **EUR412463** JUMP +30.53%; equity **EUR6281446** JUMP +828.25% vs YE2024 EUR676698; FTE **212.7** JUMP vs 119.2; neerlegging **14.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@armonea.be.
+- Wrote: fixed rq_2126 entity→srl_slg_wallonie; rq_2128=done Fakkel + rq_2129 open; loop_state ticks=2128; FOI draft + raw tick2126 restored; sources/budgets/commitments/leaderboard/entities already present.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2120**; next **2130**). Next: rq_2129 (AGB/FARO-if-YE2025 / AIESH-REW / Restel Flats / unused IGS-DSO-WZC-MRS).
