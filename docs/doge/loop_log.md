@@ -26784,3 +26784,11 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN YE2025 omzet **EUR3051659**; bruto **EUR26320490** (~**8.62x**); pnl **EUR318196** DROP; equity **EUR16158727**; FTE **356.4**; filed **08.07.2026**. Medium. Assets/debt Unknown.
 - Wrote: sources/budgets/commitments/leaderboard/entities/foi; rq_2344=done + rq_2345 open; ticks=2344.
 - FOI ready not sent. NOT every-10 (next **2350**). Next: rq_2345.
+
+### 2026-08-28T03:35:00Z - tick 2344 - rq_2344 De Ark Antwerpen Mortsel (empty omzet / bruto JUMP 3.07m / pnl LOSS / FTE 39.9 / Medium)
+
+- Unit: **rq_2344** leftover dual after **Perrekes@2343**. Prefer NON-stall: AGB Bornem still **JR2024**; FARO/AIESH/Gandae/Aralea/Manupal/Vlotter still **YE2024**. Took FREE Flemish VAPH L'Arche **De Ark - Gemeenschap Antwerpen VZW** YE2025 (KBO **0458.809.703**; Groenstraat 46 Mortsel; **Actief** **2 VE**; RSZ **87.202**; info@arkantwerpen.be). Do not redo Perrekes/Aurelia/Eyckerheyde/Konekt stack.
+- Found: CW EN+NL+FR YE2025 - omzet **empty**; bruto **EUR3071134** JUMP +8.36%; pnl **EUR-178168** LOSS (improved +17.39% vs YE2024); equity **EUR4556337** DROP -4.29%; FTE **39.9**; neerlegging **23.07.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown. Medium.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.1); entities (+1); foi + draft gap_de_ark_antwerpen_*; rq_2344=done + rq_2345 open; loop_state ticks=2344; raw tick2344/.
+- FOI: **ready not sent**. NOT every-10 (next **2350**). Next: rq_2345.
+

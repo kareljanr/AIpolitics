@@ -54119,3 +54119,7 @@ bud_blijdorp_bruto_jr2025_statutory,vzw_blijdorp_buggenhout,2025,26320490,263204
 bud_blijdorp_pnl_jr2025_statutory,vzw_blijdorp_buggenhout,2025,318196,318196,318196,CW statutory pnl YE2025 DROP -31.91%,src_blijdorp_jr2025_cw_en,medium,tick2344
 bud_blijdorp_equity_jr2025_statutory,vzw_blijdorp_buggenhout,2025,16158727,16158727,16158727,CW statutory equity YE2025 JUMP,src_blijdorp_jr2025_cw_en,medium,tick2344
 bud_blijdorp_fte_jr2025_statutory,vzw_blijdorp_buggenhout,2025,356.4,356.4,356.4,CW FTE JUMP 356.4,src_blijdorp_jr2025_cw_en,medium,tick2344
+bud_de_ark_antwerpen_bruto_jr2025_statutory,vzw_de_ark_antwerpen_mortsel,2025,3071134,3071134,3071134,CW statutory bruto_marge YE2025 JUMP,src_de_ark_antwerpen_jr2025_cw_en,medium,tick2344; Medium CW; bruto +8.36% vs 2834317; omzet empty
+bud_de_ark_antwerpen_pnl_jr2025_statutory,vzw_de_ark_antwerpen_mortsel,2025,-178168,-178168,-178168,CW statutory winst/verlies YE2025 LOSS,src_de_ark_antwerpen_jr2025_cw_en,medium,tick2344; Medium CW; LOSS improved +17.39% vs -215675
+bud_de_ark_antwerpen_equity_jr2025_statutory,vzw_de_ark_antwerpen_mortsel,2025,4556337,4556337,4556337,CW statutory eigen_vermogen YE2025 DROP,src_de_ark_antwerpen_jr2025_cw_en,medium,tick2344; Medium CW; equity -4.29% vs 4760681
+bud_de_ark_antwerpen_fte_jr2025_statutory,vzw_de_ark_antwerpen_mortsel,2025,39.9,39.9,39.9,CW social-balance FTE 39.9,src_de_ark_antwerpen_jr2025_cw_en,medium,tick2344; Medium CW; FTE 39.9 vs 39.4
