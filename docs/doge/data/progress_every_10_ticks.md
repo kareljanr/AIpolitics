@@ -35,5 +35,7 @@
 
 ### What improved since tick 2140
 
+- **Post-2150 race-recover (tick2151):** **WZC Annuntiaten Heverlee** omzet JUMP **4.45m** / pnl LOSS flip **−469k** (YE2025 Medium CW; formalized after concurrent opaque ZS took 2149/2150).
+
 - **Residual dual (tick2141-2150):** **Denderrust Dienstengroep** (Stopgezet fusie into campus) · **Groep Sint-Franciscus Brakel** (omzet JUMP 31.0m / pnl FLIP PROFIT) · **Seniors Care-Ion Anderlecht** (omzet JUMP 86.0m / equity DROP / pnl LOSS) · **Zone de secours Dinaphi** (FTE 50 / budget FOI) · **Zone de secours Hainaut-Centre** (FTE 200 / budget FOI) · **Zonnelied Roosdaal** (bruto JUMP 24.0m / pnl DROP) · **Zone de secours Hesbaye** (FTE 20 / budget FOI) · **Zone de secours Wallonie Picarde** (FTE 200 / budget FOI) · **Zone de secours HEMECO** (FTE 50 / budget FOI) · **Zone de secours Val de Sambre** (this tick EVERY-10 — FTE 50; Budget 2026 adopté 27.01.2026 but avis = on-site consultation only; no CW YE kerncijfers; FOI ready).
 - **Blocked still:** AGB Bornem JR2025 unpublished (JR2024 Strong mined) · FARO NBB YE2025 unpublished (YE2024 filing / CW last balance 2024) · AIESH / REW YE2024-only · prior Eneco deposit FOI stack · Walloon ZDS comptes/budget PDFs (Dinaphi/ZHC/Hesbaye/WAPI/HEMECO/VDS FOI-ready).

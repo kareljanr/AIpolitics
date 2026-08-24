@@ -24412,3 +24412,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+6); budgets (+1 FTE-only); commitments (+1); leaderboard (+1 pi 5.25 opacity); entities (+1 zs_val_de_sambre); foi + draft gap_val_de_sambre_budget_jr2025_dotation_commune_fed_matrix_l5; progress_every_10_ticks.md + doge_waste_top10_current.md refreshed; rq_2150=done + rq_2151 open; loop_state ticks=2150; raw docs/doge/data/raw/tick2150/.
 - FOI: **ready not sent** (human-gated).
 - **EVERY-10@2150** (last was 2140; **next 2160**). Pure annual top10 stable (GIP/fossil/cars/cheque). Next: rq_2151 (AGB/FARO-if-YE2025 / AIESH-REW / Vesdre / unused IGS-DSO-WZC-MRS).
+
+## Tick 2151 - 2026-08-25T20:20:00Z - rq_2151 WZC Annuntiaten Heverlee (omzet JUMP 4.45m / pnl LOSS flip -469k / Medium) race-recover
+
+- Unit: **rq_2151** race-recover after concurrent took **rq_2149 HEMECO** + **rq_2150 Val de Sambre EVERY-10** while this agent mined Annuntiaten (CSV rows already landed). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Skipped further opaque ZS-only. Formalized unused leftover **WZC Annuntiaten Heverlee VZW** YE2025 (KBO **0895.366.220**; Naamsesteenweg 355 Leuven/Heverlee; **VZW** NACE **87.101** / **1 VE**; RVT/ROB). Do not redo Val de Sambre/HEMECO/WAPI/Hesbaye/Hainaut-Centre/Dinaphi/Zonnelied/Care-Ion/Groep SF/Denderrust.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR4451395** JUMP +1.74%; bruto **EUR4111540** flat −0.03%; pnl **EUR-469080** LOSS FLIP from YE2024 PROFIT EUR29053; equity **EUR6164731** DROP −7.07%; FTE **55** JUMP vs 51.1; neerlegging **24.06.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@wzc.annuntiaten.be.
+- Wrote: formalized Annuntiaten CSV (sources/budgets/commitments/leaderboard/entities/foi already present); rq_2151=done + rq_2152 open; loop_state ticks=2151; raw docs/doge/data/raw/tick2149/ + tick2151/. EVERY-10 already completed at **2150** (not re-run).
+- FOI: **ready not sent** (human-gated) gap_annuntiaten_heverlee_nbb_pdf_assets_debt_pnl_loss_flip_matrix_l5.
+- NOT every-10 this tick (**last every-10 was 2150**; next **2160**). Next: rq_2152 (AGB/FARO-if-YE2025 / AIESH-REW / Vesdre / unused IGS-DSO-WZC-MRS).
