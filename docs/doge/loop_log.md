@@ -25249,11 +25249,12 @@ Append-only. Each tick adds a short entry.
 
 
 
-## Tick 2220 - 2026-08-26T18:55:00Z - rq_2220 EVERY-10 + NBSW Hasselt (bruto DROP 0.45m / empty omzet / pnl DROP -29% / equity JUMP +8.5% / Medium)
 
-- Unit: **rq_2220 EVERY-10** + leftover dual after **rq_2219 Opnieuw & Co**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024**. Took named FREE leftover **NBSW / Natuur- en Boomgaarden Sociale Werkplaats VZW** YE2025 (KBO **0479.456.845**; Leopold III-straat 8 Hasselt/Vliermaal; **Actief** **1 VE**; RSZ NACE **88.993**; sister of Nationale Boomgaardenstichting). Do not redo Opnieuw/Veerkracht4/Werkmmaat/Constructief/Kringloop/GroepMaatwerk/OptimaT/Odas/Ecoso/ACG stack.
-- EVERY-10: refreshed progress_every_10_ticks.md snapshot **2220** (A–E; inventory budgets 53245+ / commitments 5912+ / leaderboard 8033+ / entities 1943+ / sources 6121+ / FOI ready ~1862) + doge_waste_top10_current.md (pure annual top10 **stable** GIP/fossil/cars/cheque/reporté; NEW residual 2211-2220 noted with **NBSW** as EVERY-10 primary).
-- Found: Companyweb NL+EN+FR YE2025 - omzet **empty/unpublished**; bruto **EUR447973** DROP -5.16% vs YE2024 EUR472345; pnl **EUR122245** DROP -29.07% vs YE2024 EUR172353; equity **EUR1554399** JUMP +8.54%; FTE **8.8**; neerlegging **26.05.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@boomgaardenstichting.be.
-- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.05); entities (+1 vzw_nbsw_hasselt); foi + draft gap_nbsw_nbb_pdf_assets_debt_empty_omzet_bruto_drop_pnl_drop_equity_jump_matrix_l5; progress+top10; rq_2220=done + rq_2221 open; loop_state ticks=2220; raw docs/doge/raw/tick2220/.
+
+## Tick 2221 - 2026-08-26T19:15:00Z - rq_2221 Manus Antwerpen (omzet JUMP 7.66m / pnl DROP -13% / subsidies 4.75m / FTE JUMP / Strong)
+
+- Unit: **rq_2221** leftover dual after **rq_2220 EVERY-10 + NBSW** (concurrent race closed 2220 as 82756478; this tick advanced to next open). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024**. Took named FREE leftover **Manus Antwerpen VZW** YE2025 (KBO **0872.564.290**; Luchthavenlei 7A Deurne; **Actief** **7 VE**; NACE **88.999**). Do not redo NBSW/Opnieuw/Veerkracht4/Werkmmaat/Kringwinkel Antwerpen/ACG stack.
+- Found: **Strong NBB** VOL-VZW deposit **2026-00203915** (filed 26.06.2026; AV 23.06.2026) + CW NL+EN+FR - omzet **EUR7656812** JUMP +1.43% vs YE2024 EUR7548524; bruto CW **EUR9758854** (~1.27x); code73 subsidies **EUR4750724**; pnl **EUR890156** DROP -13.10% vs YE2024 EUR1024362; equity **EUR6558491** JUMP +15.70%; assets **EUR8481817**; debt **EUR1871099** DROP; FTE **208.8** JUMP vs 202.0. Strong KBO 7 VE. FOI via info@manus.tv (subsidy/contract matrix; balans already public).
+- Wrote: sources (+6); budgets (+8); commitments (+1); leaderboard (+1 pi 5.18); entities (+1 vzw_manus_antwerpen); foi + draft gap_manus_antwerpen_subsidy_loonkost_gemeente_contract_matrix_l5; rq_2221=done + rq_2222 open; loop_state ticks=2221; raw docs/doge/raw/tick2221/ (+ NBB PDF).
 - FOI: **ready not sent** (human-gated).
-- EVERY-10 done (**last was 2210**; next **2230**). Next: rq_2221 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
+- NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2222 (AGB/FARO-if-YE2025 / AIESH-REW / unused).

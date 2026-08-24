@@ -1,0 +1,402 @@
+<!doctype html>
+
+<html>
+	<head>
+		<title>
+Accueil
+ | AIESH</title>
+
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="apple-mobile-web-app-status-bar-style" content="default">
+		<meta name="mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-title" content="AIESH">
+		<meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+		<!-- Icon -->
+		<link rel="icon" href="/static/img/aiesh.png">
+
+		<!-- Script -->
+		<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
+		<!-- Bootsrtap -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+
+		<!-- Font awesome for icons -->
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
+
+		<!-- Police ubuntu -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+
+
+		<!-- Tableaux -->
+        <link rel="stylesheet" type="text/css" href="/static/styles/theme.blue.min.css">
+		<script src="/static/scripts/jquery.tablesorter.js"></script>
+		<script src="/static/scripts/jquery.tablesorter.widgets.js"></script>
+		<script src="/static/scripts/parser-input-select.min.js"></script>
+		<script src="/static/scripts/widget-output.min.js"></script>
+
+		<!-- Custom style -->
+		<link rel="stylesheet" type="text/css" href="/static/styles/style.css">
+
+		
+
+
+
+
+	</head>
+
+	<body>
+		<div id="wrapper" class="full_size">
+			<div id="page-content-wrapper" class="full_size">
+
+				<nav class="navbar navbar-expand-xl">
+					<button class="navbar-toggler navbar-light" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Menu">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					<a class="navbar-brand" href="/">
+						<img src="/static/img/aiesh.png" height="70" class="d-inline-block align-top" alt="">
+					</a>
+					<div class="collapse navbar-collapse" id="navbarSupportedContent">
+						<ul class="navbar-nav">
+							<div class="center-height-menu"><li class="nav-item"><a class="nav-link" href="/">Accueil</a></li></div>
+							<div class="center-height-menu">
+								<li class="nav-item dropdown main-menu">
+									<a class="nav-link" href="/a_propos/">A propos de nous</a>
+									<ul class="dropdown-menu dropdown-main">
+										<li><a class="dropdown-item" href="/offres_emploi/">Offres d'emploi</a></li>
+										<li><a class="dropdown-item" href="/a_propos/com_de_presse/">Com. de presse</a></li>
+										<li><a class="sub-menu dropdown-item" href="/a_propos/rapports_annuels/">Rapports annuels de l'AIESH</a></li>
+										<li><a class="dropdown-item" href="/a_propos/plan_adaptation/">Plan d'adaptation</a></li>
+										<li><a class="dropdown-item" href="/a_propos/consultation_publique/">Consultation publique</a></li>
+										<li><a class="dropdown-item" href="/a_propos/scission_partielle/">Opération de scission partielle</a></li>
+										<li><a class="dropdown-item" href="/a_propos/liens/">Liens utiles</a></li>
+									</ul>
+								</li>
+							</div>
+							<div class="center-height-menu">
+								<li class="nav-item dropdown main-menu">
+									<a class="nav-link" href="/consommateurs/">Consommateurs</a>
+									<ul class="dropdown-menu dropdown-main">
+										 <li>
+											<a class="sub-menu dropdown-item" href="/consommateurs/tarifs/">Tarifs</a>
+											<ul class="submenu dropdown-menu">   
+												<li><a class="dropdown-item" href="/consommateurs/tarifs/grd/">Tarifs GRD</a></li>
+												<li><a class="dropdown-item" href="/consommateurs/tarifs/grt/">Tarifs GRT</a></li>												
+												<li><a class="dropdown-item" href="/consommateurs/tarifs/elec_bt/">Prix électricité en basse tension</a></li>
+											</ul>
+										</li>
+										<li>
+											<a class="sub-menu dropdown-item" href="/consommateurs/bihoraire_change_2026/">Le bihoraire change en 2026</a>
+<!-- 											<ul class="submenu dropdown-menu">   
+												<li><a class="dropdown-item" href="/consommateurs/budget_meter/">Un compteur à budget, qu'est ce que c'est ?</a></li>
+												<li><a class="dropdown-item" href="/consommateurs/budget_meter/">Où recharger mon compteur à budget ?</a></li>
+											</ul> -->
+										</li>
+										<li>
+											<a class="sub-menu dropdown-item" href="/consommateurs/impact_2026/">Tarif impact 2026</a>
+<!-- 											<ul class="submenu dropdown-menu">   
+												<li><a class="dropdown-item" href="/consommateurs/budget_meter/">Un compteur à budget, qu'est ce que c'est ?</a></li>
+												<li><a class="dropdown-item" href="/consommateurs/budget_meter/">Où recharger mon compteur à budget ?</a></li>
+											</ul> -->
+										</li>										
+
+										<li>
+											<a class="sub-menu dropdown-item" href="/consommateurs/fournisseur_social/">Fournisseur social</a>
+											<ul class="submenu dropdown-menu">   
+												<li><a class="dropdown-item" href="/consommateurs/fournisseur_social/">Suis-je un client protégé ?</a></li>
+												<li><a class="dropdown-item" href="https://www.creg.be/fr/consommateur/tarifs-et-prix/tarif-social"1>Tarif social</a></li>
+											</ul>
+										</li>
+										<li>
+											<a class="sub-menu dropdown-item" href="/consommateurs/budget_meter/">Compteur à budget</a>
+<!-- 											<ul class="submenu dropdown-menu">   
+												<li><a class="dropdown-item" href="/consommateurs/budget_meter/">Un compteur à budget, qu'est ce que c'est ?</a></li>
+												<li><a class="dropdown-item" href="/consommateurs/budget_meter/">Où recharger mon compteur à budget ?</a></li>
+											</ul> -->
+										</li>
+										<li>
+											<a class="sub-menu dropdown-item" href="/consommateurs/compteurs_communicants/">Compteurs communicants</a>
+											<ul class="submenu dropdown-menu"> 
+
+												<li><a class="dropdown-item" href="/consommateurs/compteurs_communicants_comprendre/">Comprendre le compteur communicant</a></li>
+												<li><a class="dropdown-item" href="">Votre consommation d'énergie</a>
+													<ul class="submenu dropdown-menu"> 
+														<li><a class="dropdown-item" href="https://my-conso.arewal.be/">MyConso</a>
+														<li><a class="dropdown-item" href="https://arewal-myconso-public.s3.eu-west-1.amazonaws.com/	my-conso-manuel-utilisateur.pdf">Manuel d'utilisation MyConso</a></li>												
+													</ul>	
+												</li>										  
+												<li><a class="dropdown-item" href="/consommateurs/compteurs_communicants/">Compteur à pré-paiement</a></li>
+												<li><a class="dropdown-item" href="/static/docs/Activation-Désactivation_port_P1.pdf" target="_blank">Activation/désactivation PORT P1</a></li>
+
+											</ul>
+										</li>
+										<li><a class="dropdown-item" href="/consommateurs/borne_rechargement_voitures/">Bornes de rechargement</a></li>
+											
+											<li><a class="dropdown-item" href="/index/">Relève d'index</a></li>
+										
+										<li><a class="dropdown-item" href="/consommateurs/reprise_couvin/">Transfert Couvin</a></li>
+										<li><a class="dropdown-item" href="/static/docs/conso_slp_tf.txt" target="_blank">Consommation moyenne par slp et timeframe</a></li>
+										<li>
+											<a class="sub-menu dropdown-item" href="/consommateurs/facteur_résidu/">Facteur de résidu</a>
+											<ul class="submenu dropdown-menu">   
+												<li><a class="dropdown-item" href="/consommateurs/facteur_résidu/#2021">2021</a></li>
+												<li><a class="dropdown-item" href="/consommateurs/facteur_résidu/#2020">2020</a></li>
+											</ul>
+										</li>                                
+									</ul>
+								</li>
+							</div>
+							<div class="center-height-menu">
+								<li class="nav-item dropdown main-menu">
+									<a class="nav-link" href="/producteurs/">Producteurs</a>
+									<ul class="dropdown-menu dropdown-main">
+										<li>
+											<a class="sub-menu dropdown-item" href="/producteurs/prosumers/">Prosumers (<=10kVA)</a>
+											<ul class="submenu dropdown-menu">   
+												<li><a class="dropdown-item" href="/producteurs/prosumers/#remboursements">Remboursements</a></li>
+												<li><a class="dropdown-item" href="/producteurs/prosumers/#primes">Primes</a></li>
+												<li><a class="dropdown-item" href="/producteurs/prosumers/#sans_primes">Mettre service, modification ou étendre</a></li>
+												<li><a class="dropdown-item" href="/producteurs/prosumers/#tarif">Tarif</a></li>
+												<li><a class="dropdown-item" href="/producteurs/prosumers/#changement_compteur">Changement de compteur</a></li>
+												<li><a class="dropdown-item" href="https://www.cwape.be/conso/prosumer" target="_blank">Infos sur le site de la CWaPE</a></li>
+												<li><a class="dropdown-item" href="/producteurs/prosumers/#changement_compteur">Installation "plug-and-play"</a></li>
+											</ul>
+										</li>
+										<li><a class="dropdown-item" href="/producteurs/gros_producteurs/">Gros producteurs (>10kVA)</a></li>
+									</ul>
+								</li>
+							</div>
+							<div class="center-height-menu">
+								<li class="nav-item dropdown main-menu">
+									<a class="nav-link" href="/racc/">Raccordements et travaux</a>
+									<ul class="dropdown-menu dropdown-main">
+										<li>
+											<a class="sub-menu dropdown-item" href="/racc/new_racc/">Nouveau raccordement</a>
+											<ul class="submenu dropdown-menu dropdown-left">   
+												<li><a class="dropdown-item" href="/racc/new_racc/demande_contact/">Formulaire de raccordement</a></li>
+												<li><a class="dropdown-item " href="/racc/new_racc/doc/doc/">Documents</a></li>
+												<li><a class="dropdown-item" href="/racc/new_racc/doc/contrat_MT/">Contrat de raccordement MT</a></li>
+											</ul>
+										</li>
+										<li>
+											<a class="sub-menu dropdown-item" href="/racc/modif_racc/">Modification d&#39;un raccordement existant</a>
+											<ul class="submenu dropdown-menu dropdown-left">   
+												<li><a class="dropdown-item" href="/racc/modif_racc/demande_contact/">Formulaire de modification</a></li>
+												<li><a class="dropdown-item " href="/racc/modif_racc/doc/">Documents</a></li>
+											</ul>
+										</li>
+										<li><a class="dropdown-item" href="https://www.cwape.be/node/147?dir=2.3.01" target="_blank">Emménager / déménager</a></li>
+										<li><a class="dropdown-item" href="/static/docs/Demande%20d'étude%20détaillée.pdf" target="_blank">Raccordement supérieur à 56 kVA </a></li>
+									</ul>
+								</li>
+							</div>
+							<div class="center-height-menu">
+								<li class="nav-item dropdown main-menu">
+									<a class="nav-link" href="/coupures/">Pannes et coupures</a>
+									<ul class="dropdown-menu dropdown-main">
+									   <li><a class="dropdown-item" href="/coupures/planifiées/">Coupures planifiées</a></li>
+									   <li><a class="dropdown-item" href="/contact/">Signaler une panne d'électricité</a></li>
+									   <li><a class="dropdown-item" href="/eclairage_public/">Panne d'éclairage public</a></li>
+									   <li><a class="dropdown-item" href="/coupures/délestage/">Plan de pénurie (délestage)</a></li>
+									   <li><a class="dropdown-item" href="/coupures/non_planifiées/">Pannes électriques</a></li>
+									   <li><a class="dropdown-item" href="/coupures/panne_longue_duree/">Panne de longue durée</a></li>						
+									   <li><a class="dropdown-item" href="/coupures/indemnisation/">Demande d'indemnisation</a></li>
+									</ul>
+								</li>
+							</div>
+							<div class="center-height-menu"><li class="nav-item"><a class="nav-link" href="/contact/">Contact</a></li></div>
+							<div class="center-height-menu"><li class="nav-item"><a class="nav-link" href="https://www.facebook.com/AIESHGRD" target="_blank">Suivez-nous<br><img src="/static/img/facebook.png" height="30"></a></li></div>
+						</ul>
+					</div>
+					
+				</nav>
+		  
+
+				 
+					
+				
+				
+
+				<div class="container-fluid" id="links_bar">    
+					<div class="row">
+						<div class="col-md-12 left" style="background-color: lightgrey;">
+							<a href="/" style="margin-left: 20px">Accueil</a>
+							
+						</div>
+					</div>
+				</div>
+
+
+				<div id="id_du_div"></div>
+				<div class="container-fluid" style="padding-left: 0px;padding-right: 0px;min-height: 50%;">           
+					
+
+<div class="row" style="margin-left: 0px;margin-right: 0px;">
+	<div class="col-md-12 background-blue" style="height: 500px;padding-left: 0px;padding-right: 0px;">
+		<img class="background-image" src="/static/img/banner.jpg">
+				<h2 class="title-center-image center title">
+					<label style="margin-bottom: 20px;">Vous n'avez plus d'électricité ?<br><a href="tel:060411010">Appelez le dépannage au 060/41.10.10</a></label><br>
+					<label style="margin-bottom: 20px;">Une panne d'éclairage public ? <br><a class="zoom-hover" href="/eclairage_public/">Signalez-le ici</a></label><br>
+					<label style="margin-bottom: 20px;">Une question ?<br><a href="/cdn-cgi/l/email-protection#edaca4a8bea5d18e81848883999ead8c84889e85c38f88d3">Envoyez-nous un mail à <span class="__cf_email__" data-cfemail="99faf5f0fcf7edead9f8f0fceaf1b7fbfc">[email&#160;protected]</span></a><br>ou<br><a href="tel:060459160">Appelez-nous au 060/45.91.60</a></label><br>
+				</h2>
+	</div>	
+</div>
+
+<div class="row">
+	<div class="col-md-2"></div>
+	<div class="col-md-8">
+		<a href="/a_propos/">
+			<div class="box-lg">
+				<h3><strong>A propos de nous</strong></h3>
+				<label>L'AIESH est un organisme composé par 6 communes dont l'objectif est de distribuer l'électricité à plus de 25000 utilisateurs dans la région du Sud du Hainaut.</label><br>
+				<a href="https://www.facebook.com/AIESHGRD" target="_blank"><img src="./static/img/facebook.png" height="20">  Suivez-nous sur Facebook !</a>
+			</div>
+		</a>
+		
+			<div class="box-lg blink" style="background-color: orange;">
+				<div class="col center" >
+					<h3><a href="/index/" style="color: black;">Pour renseigner vos index par notre site web, c'est par ici !</a></h3>
+				</div>
+			</div>
+			
+		<a href="/a_propos/consultation_publique/">
+			<div class="box-lg"style="background-color: blue;">
+				<h3><strong style="color: white;">Consultation publique du plan d'adaptation AIESH (du 02/05/2026 au 19/06/2026)</strong></h3>
+			</div>
+		</a>
+		
+		
+			<div class="box-lg">
+				<h3><strong style="color: orange;">Passage à l'horaire d'été</strong></h3>
+				<label>
+					A partir du 1 juin et jusqu'au 31 août, nous passons à l'horaire d'été<br>
+					Notre guichet sera donc ouvert du lundi au jeudi de 7h30h à 12h15 et de 13h à 15h (sauf le vendredi 14h).<br>
+					Merci de votre compréhension
+				</label>
+			</div>
+		
+			
+			<div class="box-lg " style="background-color: #ecf024;">
+				<div class="col center" >
+					<h3><strong>Le bihoraire change en 2026</strong></h3>
+					<label><a href="/consommateurs/bihoraire_change_2026/" target="_blank">Consulter la page</a></label>
+				</div>
+			</div>
+			
+			<div class="box-lg " style="background-color: #e9e1b4;">
+				<div class="col center" >
+					<h3><strong>Changement de numéro pour le secteur de Beaumont</strong></h3>
+					<label>Nous vous informons qu'à partir de ce jour, pour toute demande relative au secteur de Beaumont, un nouveau numéro est à votre disposition :
+
+<br>📞 Nouveau numéro : 060/45.91.72<br>
+
+La permanence téléphonique reste inchangée et se tient toujours de 8h00 à 9h00. </label>
+				</div>
+			</div>
+		
+		
+			<a href="/offres_emploi/">
+				<div class="box-lg blink" style="background-color:palegreen;">
+					<h3><strong>Nous recrutons !</strong></h3>
+					<label>Nous sommes actuellement à la recherche de nouvelles recrues pour renforcer notre équipe.<br>
+					Cliquez ici pour consulter toutes nos offres d'emploi.</label>
+				</div>
+			</a>
+			
+
+
+	</div>
+</div>
+
+<div class="row justify-content-center" style="margin-left: 0px;margin-right: 0px;margin-top: 30px;">
+	<div class="col-md-2 box-sm" onclick="window.location.href='/consommateurs/'">
+		<img src="/static/img/home.svg" style="margin: 15px;">
+		<h2>Consommateurs</h2>
+		<label style="margin-top: 20px;">Tarifs<br>Heures pleines / heures creuses<br>Fournisseur social</label>
+	</div>
+	
+	
+	<div class="col-md-2 box-sm" onclick="window.location.href='/producteurs/'">
+		<img src="/static/img/eclair.svg" style="margin: 15px;">
+		<h2>Producteurs</h2>
+		<label style="margin-top: 20px;">Prosumers<br>Gros producteurs<br>...</label>
+	</div>
+	<div class="col-md-2 box-sm" onclick="window.location.href='/racc/'">
+		<img src="/static/img/travaux.svg" style="margin: 15px;">
+		<h2>Raccordements & travaux</h2>
+		<label style="margin-top: 20px;">Nouveau raccordement<br>Modification<br>Emménager</label>
+	</div>
+	
+	
+	<div class="col-md-2 box-sm" onclick="window.location.href='/coupures/'">
+		<img src="/static/img/technicien.svg" style="margin: 15px;">
+		<h2>Pannes & coupures</h2>
+		<label style="margin-top: 20px;">Coupures planifiées<br>Coupures non-planifiées<br>Signaler une panne</label>
+	</div>
+</div>
+
+
+
+				</div>
+			  
+				<footer>
+					<div class="container-fluid">
+						<div class="row justify-content-center">
+							<div class="col-md-2 center">
+								<h4 style="margin-bottom: -7px;">Vous n'avez plus d'électricité ?</h4>
+								<a class="zoom-hover" href="tel:060411010">Appelez le dépannage au 060/41.10.10</a><br>
+								<h4 style="margin-bottom: -7px;margin-top: 20px;">Une panne d'éclairage public ?</h4>
+								<a class="zoom-hover" href="/eclairage_public/">Signalez-le ici</a>
+
+<!-- 								<br><br>
+								Coordonnées<br>
+								Rue du Commerce , 4<br>
+								6470 RANCE<br>
+								R.C.  : Charleroi 19.054<br>
+								TVA : BE0201.712.587<br>
+								IBAN : BE11 0910 0074 8848<br>
+								<a href="https://www.facebook.com/AIESHGRD/" target="_blank" class="zoom-hover">Suivez-nous sur Facebook !</a> -->
+							</div> 
+							
+								<div class="col-md-2 center">
+									<h4>Guichet (Access & Transit)</h4>
+									<h5>Heures d'ouverture</h5>
+									(Horaire d'été jusqu'au 31 août)<br>
+									du lundi au jeudi de 7h30h à 12h15 et de 13h à 15h (sauf le vendredi 14h)<br>
+							
+								<a href="tel:+3260459160" class="zoom-hover">Téléphone : 060/45.91.60</a><br>
+								<a href="/cdn-cgi/l/email-protection#89eae5e0ece7fdfac9e8e0ecfae1a7ebec" class="zoom-hover">Email : <span class="__cf_email__" data-cfemail="ccafa0a5a9a2b8bf8cada5a9bfa4e2aea9">[email&#160;protected]</span></a>
+							</div> 
+
+							<div class="col-md-2 center">
+								<h4>Contact (par secteur)</h4>
+								<!-- <strong>De 8h à 9h uniquement</strong><br>								 -->
+								<strong>De 8h à 9h uniquement pour le secteur NORD</strong><br>
+								<strong>De 7h à 8h uniquement pour le secteur SUD</strong><br>
+								<a href="/contact/secteur/" class="zoom-hover">Cliquez ici</a>
+							</div>  
+							<div class="col-md-2 center">
+								<h4>Coordonnées</h4>
+								Rue du Commerce , 4<br>
+								6470 RANCE<br>
+								R.C.  : Charleroi 19.054<br>
+								TVA : BE0201.712.587<br>
+								IBAN : BE11 0910 0074 8848<br>
+								<a href="https://www.facebook.com/AIESHGRD/" target="_blank" class="zoom-hover">Suivez-nous sur Facebook !</a>
+							</div> 
+
+							<div class="col-md-2 center">
+								<h4>Information</h4>
+								<a href="/static/docs/Privacy%20notice%20AIESH.pdf" class="zoom-hover">Privacy Notice</a>
+							</div>   							               
+						</div>
+					</div>
+				</footer>
+			</div>
+		</div>
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a300aca5f8c3985a',t:'MTc4NzU1Njg2NA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

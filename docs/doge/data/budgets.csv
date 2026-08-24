@@ -53249,3 +53249,11 @@ bud_nbsw_pnl_jr2025_statutory,vzw_nbsw_hasselt,2025,122245,122245,122245,CW stat
 bud_nbsw_equity_jr2025_statutory,vzw_nbsw_hasselt,2025,1554399,1554399,1554399,CW statutory eigen_vermogen / Equity YE2025,src_nbsw_jr2025_cw_en,medium,tick2220; Medium CW; equity JUMP +8.54% vs YE2024 1432154
 bud_nbsw_fte_jr2025_statutory,vzw_nbsw_hasselt,2025,8.8,8.8,8.8,CW social-balance FTE / Employees 8.8,src_nbsw_jr2025_cw_en,medium,tick2220; Medium CW; FTE DROP vs YE2024 9.0; assets/debt Unknown
 bud_nbsw_bruto_jr2024_statutory_cmp,vzw_nbsw_hasselt,2024,472345,472345,472345,CW statutory bruto_marge YE2024 comparative,src_nbsw_jr2025_cw_en,medium,tick2220; YE2024 bruto 472345 comparative for DROP calc
+bud_manus_omzet_jr2025_nbb,vzw_manus_antwerpen,2025,7656812,7656812,7656812,NBB code70 omzet YE2025,src_manus_jr2025_nbb,strong,tick2221; Strong NBB; omzet JUMP +1.43% vs YE2024 7548524
+bud_manus_bruto_jr2025_cw,vzw_manus_antwerpen,2025,9758854,9758854,9758854,CW bruto_marge YE2025 (NBB-derived),src_manus_jr2025_nbb,strong,tick2221; Medium CW bruto; JUMP +4.33% vs YE2024 9353789; ~1.27x omzet
+bud_manus_subsidies_jr2025_nbb,vzw_manus_antwerpen,2025,4750724,4750724,4750724,NBB code73 lidgeld/schenkingen/legaten/subsidies YE2025,src_manus_jr2025_nbb,strong,tick2221; Strong NBB; subsidies JUMP vs YE2024 4639584; ~0.62x omzet
+bud_manus_pnl_jr2025_nbb,vzw_manus_antwerpen,2025,890156,890156,890156,NBB code9904 winst YE2025,src_manus_jr2025_nbb,strong,tick2221; Strong NBB; pnl DROP -13.10% vs YE2024 1024362
+bud_manus_equity_jr2025_nbb,vzw_manus_antwerpen,2025,6558491,6558491,6558491,NBB code10/15 eigen vermogen YE2025,src_manus_jr2025_nbb,strong,tick2221; Strong NBB; equity JUMP +15.70% vs YE2024 5668335
+bud_manus_assets_jr2025_nbb,vzw_manus_antwerpen,2025,8481817,8481817,8481817,NBB code20/58 totaal activa YE2025,src_manus_jr2025_nbb,strong,tick2221; Strong NBB; assets JUMP +11.03% vs YE2024 7639439
+bud_manus_debt_jr2025_nbb,vzw_manus_antwerpen,2025,1871099,1871099,1871099,NBB code17/49 schulden YE2025,src_manus_jr2025_nbb,strong,tick2221; Strong NBB; debt DROP -5.07% vs YE2024 1971104
+bud_manus_fte_jr2025_nbb,vzw_manus_antwerpen,2025,208.8,208.8,208.8,NBB social balance code9087 FTE YE2025,src_manus_jr2025_nbb,strong,tick2221; Strong NBB; FTE JUMP +3.37% vs YE2024 202.0
