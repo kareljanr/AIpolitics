@@ -53666,3 +53666,8 @@ bud_carp_pnl_jr2025_statutory,vzw_carp_philippeville,2025,444368,444368,444368,C
 bud_carp_equity_jr2025_statutory,vzw_carp_philippeville,2025,2790156,2790156,2790156,CW statutory eigen_vermogen YE2025 JUMP,src_carp_jr2025_cw_en,medium,tick2277; Medium CW; equity JUMP +18.7% vs YE2024 2350509
 bud_carp_fte_jr2025_statutory,vzw_carp_philippeville,2025,122.9,122.9,122.9,CW social-balance FTE 122.9,src_carp_jr2025_cw_en,medium,tick2277; Medium CW; FTE 122.9 vs YE2024 122.6
 bud_carp_pnl_jr2024_statutory_cmp,vzw_carp_philippeville,2024,453375,453375,453375,CW statutory pnl YE2024 comparative,src_carp_jr2025_cw_en,medium,tick2277; YE2024 cmp pnl 453375
+bud_amab_omzet_jr2025_statutory,vzw_amab_asse,2025,14179340,14179340,14179340,CW statutory omzet YE2025,src_amab_jr2025_cw_en,medium,tick2277; Medium CW; omzet JUMP +10.18% vs YE2024 12869693
+bud_amab_bruto_jr2025_statutory,vzw_amab_asse,2025,21690724,21690724,21690724,CW statutory bruto_marge YE2025 (~1.53x omzet),src_amab_jr2025_cw_en,medium,tick2277; Medium CW; bruto JUMP +3.65% vs YE2024 20926423; ~1.53x omzet
+bud_amab_pnl_jr2025_statutory,vzw_amab_asse,2025,-447493,-447493,-447493,CW statutory winst/verlies YE2025 LOSS FLIP,src_amab_jr2025_cw_en,medium,tick2277; Medium CW; pnl LOSS FLIP -180.05% vs YE2024 559019
+bud_amab_equity_jr2025_statutory,vzw_amab_asse,2025,17950369,17950369,17950369,CW statutory eigen_vermogen YE2025,src_amab_jr2025_cw_en,medium,tick2277; Medium CW; equity DROP -2.93% vs YE2024 18491679
+bud_amab_fte_jr2025_statutory,vzw_amab_asse,2025,645.1,645.1,645.1,CW social-balance FTE 645.1,src_amab_jr2025_cw_en,medium,tick2277; Medium CW; FTE 645.1 vs YE2024 642.2; assets/debt Unknown

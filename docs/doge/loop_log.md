@@ -25962,3 +25962,13 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2278 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
 
+
+
+
+### 2026-08-27T11:30:00Z - tick 2277 - rq_2277 AMAB Asse (omzet JUMP 14.18m / bruto~1.53x / pnl LOSS FLIP / FTE 645.1 / Medium)
+
+- Unit: **rq_2277** leftover dual after **rq_2276 C.A.R.P.** (+Atelier Saint-Vincent race). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Manupal YE2024. Took FREE Flemish maatwerk **AMAB VZW** YE2025 (KBO **0411.635.039**; Z. 5 Mollem 90 Asse; **Actief** **3 VE**; NACE **88.993** Asse/Beersel/Zaventem). Do not redo CARP/ASV/APAC/Adapta/Atelier85/Forena/Waak/OptimaT stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR14179340** JUMP +10.18% vs YE2024 EUR12869693; bruto **EUR21690724** JUMP +3.65% (~1.53x); pnl **EUR-447493** LOSS FLIP -180.05% vs YE2024 EUR559019; equity **EUR17950369** DROP -2.93%; FTE **645.1** (+0.45% vs 642.2); neerlegging **10.06.2026**. Strong KBO Actief 3 VE VZW info@amab.be. Assets/debt Unknown. Medium.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.80); entities (+1 vzw_amab_asse); foi + draft gap_amab_nbb_pdf_assets_debt_bruto_gt_omzet_1_53x_pnl_loss_flip_matrix_l5; rq_2277=done + rq_2278 open; loop_state ticks=2277; raw docs/doge/data/raw/tick2277/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2278 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Foes-if-YE2025 / unused ETA).
