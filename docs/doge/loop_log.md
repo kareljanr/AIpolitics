@@ -25882,3 +25882,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.95); entities (+1 vzw_la_serre_outil_woluwe); foi + draft gap_serre_nbb_pdf_assets_debt_bruto_gt_omzet_1_51x_eta_matrix_l5; rq_2271=done + rq_2272 open; loop_state ticks=2271; raw docs/doge/raw/tick2271/ + data/raw/tick2271/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2272 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Foes-if-YE2025 / unused ETA).
+
+### 2026-08-27T10:10:00Z - tick 2272 - rq_2272 Fournipac Andenne (omzet DROP 3.71m / equity DROP -45.36% / pnl LOSS WIDEN / FTE 95 / Medium)
+
+- Unit: **rq_2272** leftover dual after **rq_2271 La Serre-Outil**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco still **YE2024**; Groupe Foes still **YE2024**; Heropbeuring still **CW opaque**; Relais Haute Sambre/APN still **YE2024**. Took unused FREE Walloon ETA **Fournipac ASBL/VZW** YE2025 (KBO **0457.234.739**; Rue Géron 14 Andenne; **Actief** **2 VE**; NACE **88.993** AViQ agroalimentaire; VZW form since 23.03.2026). Distinct from mined L\'Atelier Namur@2241 (integration path). Do not redo Serre-Outil/Amis/Hautes/Village n1/Trait/Ouvroir/APRE/Renaitre/Stallbois stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3706571** DROP -4.46% vs YE2024 EUR3879595; bruto **EUR3063961** DROP -7.23% (bruto÷omzet ~0.83x); pnl **EUR-228155** LOSS WIDEN -23.07% vs YE2024 EUR-185379; equity **EUR335681** DROP -45.36%; FTE **95** (-1.14% vs 96.1); neerlegging **25.04.2026**. Strong KBO Actief 2 VE VZW. Assets/debt Unknown. Medium. FOI via info@fournipac.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.45); entities (+1 vzw_fournipac_andenne); foi + draft gap_fournipac_nbb_pdf_assets_debt_equity_drop_45pct_pnl_loss_widen_eta_matrix_l5; rq_2272=done + rq_2273 open; loop_state ticks=2272; raw docs/doge/raw/tick2272/ + data/raw/tick2272/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2273 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
+
