@@ -54047,3 +54047,8 @@ bud_den_brand_bruto_jr2025_statutory,vzw_den_brand_mol,2025,7222348,7222348,7222
 bud_den_brand_pnl_jr2025_statutory,vzw_den_brand_mol,2025,226679,226679,226679,CW statutory winst/verlies YE2025 DROP,src_den_brand_jr2025_cw_en,medium,tick2330; Medium CW; pnl -22.95% vs 294196
 bud_den_brand_equity_jr2025_statutory,vzw_den_brand_mol,2025,5729856,5729856,5729856,CW statutory eigen_vermogen YE2025 JUMP,src_den_brand_jr2025_cw_en,medium,tick2330; Medium CW; equity +3.01% vs 5562533
 bud_den_brand_fte_jr2025_statutory,vzw_den_brand_mol,2025,89.4,89.4,89.4,CW social-balance FTE 89.4 JUMP,src_den_brand_jr2025_cw_en,medium,tick2330; Medium CW; FTE 89.4 vs 84.9
+bud_mivalti_omzet_jr2025_statutory,vzw_mivalti_tielt,2025,1683253,1683253,1683253,CW statutory omzet YE2025 JUMP,src_mivalti_jr2025_cw_en,medium,tick2331; Medium CW; omzet +4.55% vs 1609944
+bud_mivalti_bruto_jr2025_statutory,vzw_mivalti_tielt,2025,11487628,11487628,11487628,CW statutory bruto_marge YE2025 ~6.82x omzet,src_mivalti_jr2025_cw_en,medium,tick2331; Medium CW; bruto +8% vs 10636440; ~6.82x
+bud_mivalti_pnl_jr2025_statutory,vzw_mivalti_tielt,2025,470626,470626,470626,CW statutory winst/verlies YE2025 JUMP,src_mivalti_jr2025_cw_en,medium,tick2331; Medium CW; pnl +26.88% vs 370928
+bud_mivalti_equity_jr2025_statutory,vzw_mivalti_tielt,2025,8134829,8134829,8134829,CW statutory eigen_vermogen YE2025 JUMP,src_mivalti_jr2025_cw_en,medium,tick2331; Medium CW; equity +6.19% vs 7660758
+bud_mivalti_fte_jr2025_statutory,vzw_mivalti_tielt,2025,134.9,134.9,134.9,CW social-balance FTE 134.9,src_mivalti_jr2025_cw_en,medium,tick2331; Medium CW; FTE JUMP vs 133.1

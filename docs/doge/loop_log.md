@@ -26635,3 +26635,19 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN+FR YE2025 — omzet **EUR1683253** JUMP +4.55%; bruto **EUR11487628** JUMP +8% (~**6.82x**); pnl **EUR470626** JUMP +26.88%; equity **EUR8134829** JUMP +6.19%; FTE **134.9**; neerlegging **16.06.2026**. Strong KBO. Assets/debt Unknown. Medium. FOI info@mivalti.be.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.95); entities (+1); foi ready; rq_2330=done + rq_2331 open; loop_state=2330; **progress_every_10_ticks.md** refreshed.
 - FOI: **ready not sent**. EVERY-10@2330 done; next EVERY-10 **2340**. Next: rq_2331.
+
+### 2026-08-24T17:20:00Z - tick 2331 - rq_2331 Mivalti Tielt (bruto JUMP 11.49m / ~6.82x omzet / pnl JUMP +26.88% / FTE JUMP 134.9 / Medium)
+
+- Unit: **rq_2331** leftover dual after **DenBrand@2330** (leftover dual Mivalti YE2025). Prefer NON-stall: AGB Bornem still **JR2024**; FARO/AIESH still **YE2024**. Took FREE Flemish VAPH **Mivalti VZW** YE2025 (KBO **0416.406.548**; Gruuthusestraat 36, 8700 Tielt; **Actief** **2 VE**; RSZ **87.202**; info@mivalti.be). Do not redo Het Eepos/Pleegzorg/Zonnebeke/Ritmica stack.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR1683253** JUMP +4.55%; bruto **EUR11487628** JUMP +8% (~**6.82x**); pnl **EUR470626** JUMP +26.88%; equity **EUR8134829** JUMP +6.19%; FTE **134.9** JUMP; neerlegging **16.06.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown. Medium.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.77); entities (+1); foi + draft gap_mivalti_nbb_pdf_assets_debt_bruto_gt_omzet_6_82x_pnl_jump_vaph_matrix_l5; rq_2331=done + rq_2332 open (EVERY-10); loop_state ticks=2331; raw tick2331/.
+- FOI: **ready not sent**. NOT every-10 (last **2330**; next **2340**). Next: rq_2332.
+
+### 2026-08-28T01:15:00Z - tick 2330 - EVERY-10 + rq_2330 Den Brand Mol (bruto JUMP 7.22m / ~5.68x omzet / pnl DROP / FTE JUMP 89.4 / Medium)
+
+- Unit: **rq_2330 EVERY-10** after **Tandem@2329**. Prefer NON-stall: AGB Bornem still **JR2024**; FARO/AIESH still **YE2024**. Took FREE Flemish VAPH **Den Brand VZW** YE2025 (KBO **0422.073.526**; Spoorwegstraat 27 Mol; **Actief** **18 VE**; RSZ **87.202**; info@denbrand.be). Do not redo Tandem/Mivalti/Pleegzorg/Het Eepos/Zonnebeke stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1270740** JUMP +4.91%; bruto **EUR7222348** JUMP +5.05% (~**5.68x**); pnl **EUR226679** DROP -22.95%; equity **EUR5729856** JUMP +3.01%; FTE **89.4** JUMP; neerlegging **25.06.2026**. Strong KBO Actief 18 VE. Assets/debt Unknown. Medium. FOI via info@denbrand.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.9); entities (+1 vzw_den_brand_mol); foi + draft gap_den_brand_nbb_pdf_assets_debt_bruto_gt_omzet_5_68x_pnl_drop_fte_jump_vaph_matrix_l5; rq_2330=done + rq_2331 open; loop_state ticks=2330; raw docs/doge/data/raw/tick2330/; **EVERY-10** progress_every_10_ticks.md + doge_waste_top10_current.md refreshed.
+- FOI: **ready not sent** (human-gated).
+- **EVERY-10 @ 2330** (last was 2320; next **2340**). Next: rq_2331.
+
