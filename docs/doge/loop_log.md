@@ -24814,3 +24814,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.7); entities (+1 vzw_westlandia_ieper); foi + draft gap_westlandia_nbb_pdf_assets_debt_pnl_jump_bruto_gt_omzet_matrix_l5; rq_2184=done + rq_2185 open; loop_state ticks=2184; raw docs/doge/data/raw/tick2184/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2185 (AGB/FARO-if-YE2025 / AIESH-REW / Weerwerk-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2184 - 2026-08-26T07:20:00Z - rq_2184 InterWest Veurne (omzet JUMP 10.78m / pnl LOSS FLIP -25k from +3.32m / Medium)
+
+- Unit: **rq_2184** leftover dual after **Wase Werkplaats / BWB race**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **InterWest / Maatwerkbedrijf Interwest VZW** YE2025 (KBO **0407.963.885**; Albert I laan 29 Veurne; **VZW** RSZ NACE **88.993** / **4 VE**). Do not redo Wase/BWB/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever/Anima*/emeis.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR10780920** JUMP +3.38% vs YE2024 EUR10428743; bruto **EUR15403841** DROP -1.46% (bruto≫omzet); pnl **EUR-25093** LOSS FLIP vs YE2024 EUR3319507; equity **EUR14224725** JUMP +0.67%; FTE **425.8** DROP vs 438.9; neerlegging **16.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 4 VE. FOI via info@interwest.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.1); entities (+1 vzw_interwest_veurne); foi + draft gap_interwest_nbb_pdf_assets_debt_pnl_loss_flip_bruto_gt_omzet_fte_drop_matrix_l5; rq_2184=done + rq_2185 open; loop_state ticks=2184; raw docs/doge/data/raw/tick2184/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2185 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
