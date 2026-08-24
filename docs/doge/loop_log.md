@@ -25267,3 +25267,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 4.93); entities (+1 vzw_kringwinkel_zov); foi + draft gap_kringwinkel_zov_nbb_pdf_assets_debt_bruto_gt_omzet_equity_jump_pnl_drop_matrix_l5; rq_2222=done + rq_2223 open; loop_state ticks=2222; raw docs/doge/raw/tick2222/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2223 (AGB/FARO-if-YE2025 / AIESH-REW / unused maatwerk-WZC-IGS).
+
+
+## Tick 2222 - 2026-08-26T19:35:00Z - rq_2222 Manus VZW groep (bruto JUMP 3.04m / empty omzet / pnl JUMP +21% / equity JUMP +42% / Medium)
+
+- Unit: **rq_2222** leftover dual after **rq_2221 Manus Antwerpen**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024**. Took named FREE leftover **Manus VZW** (groep) YE2025 (KBO **0808.114.522**; Luchthavenlei 7A Antwerpen — **same address** as Manus Antwerpen; **Actief** **7 VE**; NACE **88.999**). Deferred Heropbeuring (filed 25.06.2026 but CW kern thin). Vlotter still YE2024. Do not redo Manus Antwerpen/NBSW/Opnieuw/Veerkracht4/Werkmmaat/Kringwinkel Antwerpen.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **empty/unpublished**; bruto **EUR3044848** JUMP +8.71% vs YE2024 EUR2800796; pnl **EUR600300** JUMP +21.07% vs YE2024 EUR495811; equity **EUR2039760** JUMP +41.70%; FTE **60.8**; neerlegging **26.06.2026**. Strong KBO Actief 7 VE. Assets/debt Unknown. Medium. Dual note: sister Manus Antwerpen Strong shows pnl DROP -13% on omzet 7.66m. FOI via info@manus.tv.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.90); entities (+1 vzw_manus_groep); foi + draft gap_manus_groep_nbb_pdf_assets_debt_empty_omzet_pnl_jump_equity_jump_matrix_l5; rq_2222=done + rq_2223 open; loop_state ticks=2222; raw docs/doge/raw/tick2222/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2223 (AGB/FARO-if-YE2025 / AIESH-REW / Heropbeuring-or-unused).
