@@ -26504,3 +26504,11 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN+FR — omzet **EUR406928** JUMP +2.92%; bruto **EUR8083623** JUMP +4.17% (~19.86x); pnl **EUR-88717** LOSS; equity **EUR9787469**; FTE **96.6**; filed **22.05.2026**. Medium.
 - Wrote: CSVs + FOI gap_kindervriend_nbb_pdf_assets_debt_bruto_gt_omzet_19_86x_pnl_loss_vaph_mpi_matrix_l5; rq_2319=done + rq_2317 open; ticks=2316.
 - FOI ready not sent. NOT every-10 (next **2320**).
+
+### 2026-08-24T13:16:19Z - tick 2320 - rq_2320 EVERY-10 + Heder Ekeren (bruto JUMP 32.69m / ~17.59x omzet / pnl FLIP / Medium)
+
+- **EVERY-10:** refreshed progress + waste top10.
+- Unit: **rq_2320** finish **in_progress** claim Heder. Prefer NON-stall AGB/FARO **YE2024**. Took FREE VAPH **Heder VZW** YE2025 (KBO **0538.767.692**; Herman Vosstraat 14 Ekeren; NACE **87.201**; FTE **421**). Do not redo Kindervriend/Olo-Rotonde/Havenzate/Iris/Domino stack.
+- Found: CW NL+EN YE2025 - omzet **EUR1858609** JUMP +20.86%; bruto **EUR32694121** JUMP +2.88% (~**17.59x**); pnl **EUR719053** FLIP vs YE2024 LOSS; equity **EUR4170158** JUMP +22.76%; FTE **421.0** DROP; neerlegging **10.07.2026**. Medium. FOI via info@heder.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.6); entities (+1); foi + draft; rq_2320=done + rq_2321 open; EVERY-10 files.
+- FOI: **ready not sent**. **EVERY-10 @2320** (next **2330**). Next: rq_2321.

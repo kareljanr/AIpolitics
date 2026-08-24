@@ -1,0 +1,15 @@
+{
+  "tick": "2320",
+  "unit": "rq_2320",
+  "entity": "vzw_heder_ekeren",
+  "kbo": "0538.767.692",
+  "omzet": 1858609,
+  "bruto": 32694121,
+  "pnl": 719053,
+  "equity": 4170158,
+  "fte": 421.0,
+  "ratio": 17.59,
+  "confidence": "medium",
+  "gap": "gap_heder_nbb_pdf_assets_debt_bruto_gt_omzet_17_59x_pnl_flip_fte_drop_vaph_matrix_l5",
+  "pi": 6.6
+}

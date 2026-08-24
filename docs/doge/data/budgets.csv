@@ -53975,3 +53975,8 @@ bud_kindervriend_pnl_jr2025_statutory,vzw_mpi_de_kindervriend_kortrijk,2025,-887
 bud_kindervriend_equity_jr2025_statutory,vzw_mpi_de_kindervriend_kortrijk,2025,9787469,9787469,9787469,CW equity,src_kindervriend_jr2025_cw_en,medium,tick2319; +1.03% vs 9687910
 bud_kindervriend_fte_jr2025_statutory,vzw_mpi_de_kindervriend_kortrijk,2025,96.6,96.6,96.6,CW FTE 96.6,src_kindervriend_jr2025_cw_en,medium,tick2319; vs 95.9
 bud_kindervriend_pnl_jr2024_cmp,vzw_mpi_de_kindervriend_kortrijk,2024,-86586,-86586,-86586,CW pnl YE2024,src_kindervriend_jr2025_cw_en,medium,tick2319; LOSS -86586
+bud_heder_omzet_jr2025_statutory,vzw_heder_ekeren,2025,1858609,1858609,1858609,CW statutory omzet YE2025 JUMP,src_heder_jr2025_cw_en,medium,tick2320; Medium CW; omzet +20.86% vs 1537768
+bud_heder_bruto_jr2025_statutory,vzw_heder_ekeren,2025,32694121,32694121,32694121,CW statutory bruto_marge YE2025 ~17.59x omzet,src_heder_jr2025_cw_en,medium,tick2320; Medium CW; bruto +2.88% vs 31777356
+bud_heder_pnl_jr2025_statutory,vzw_heder_ekeren,2025,719053,719053,719053,CW statutory winst/verlies YE2025 PROFIT FLIP,src_heder_jr2025_cw_en,medium,tick2320; Medium CW; pnl FLIP vs -128406
+bud_heder_equity_jr2025_statutory,vzw_heder_ekeren,2025,4170158,4170158,4170158,CW statutory eigen_vermogen YE2025 JUMP,src_heder_jr2025_cw_en,medium,tick2320; Medium CW; equity +22.76% vs 3397072
+bud_heder_fte_jr2025_statutory,vzw_heder_ekeren,2025,421,421,421,CW social-balance FTE 421,src_heder_jr2025_cw_en,medium,tick2320; Medium CW; FTE DROP vs 439.1
