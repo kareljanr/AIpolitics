@@ -24779,3 +24779,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.6); entities (+1 vzw_maaat_aalst); foi + draft gap_maaat_nbb_pdf_assets_debt_pnl_jump_omzet_drop_bruto_gt_omzet_matrix_l5; rq_2181=done + rq_2182 open; loop_state ticks=2181; raw docs/doge/data/raw/tick2181/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2182 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2182 - 2026-08-26T06:40:00Z - rq_2182 Groep INTRO Maatwerk (omzet JUMP 8.13m / bruto>omzet / FTE DROP / equity JUMP / Medium)
+
+- Unit: **rq_2182** leftover dual after **rq_2181 MAAAT**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Groep INTRO Maatwerk VZW** YE2025 (KBO **0472.098.703**; Charles Parentéstraat 6 Anderlecht; **VZW** RSZ NACE **88.993** / **24 VE**; absorbed Levanto-Fixit). Do not redo MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever/Anima*/emeis.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR8125120** JUMP +5.12% vs YE2024 EUR7729276; bruto **EUR12149754** JUMP +2.81% (bruto≫omzet); pnl **EUR971754** JUMP +26.32%; equity **EUR4209703** JUMP +29.32%; FTE **274.5** DROP vs 283.5; neerlegging **22.04.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 24 VE. FOI via info@groepintro.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 vzw_groep_intro_maatwerk); foi + draft gap_groep_intro_maatwerk_nbb_pdf_assets_debt_bruto_gt_omzet_fte_drop_equity_jump_matrix_l5; rq_2182=done + rq_2183 open; loop_state ticks=2182; raw docs/doge/data/raw/tick2182/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2183 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
