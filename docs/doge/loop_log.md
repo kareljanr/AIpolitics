@@ -24292,3 +24292,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 6.3); entities (+1 bv_residence_les_peupliers_seneffe); foi + draft gap_peupliers_nbb_pdf_assets_debt_omzet_empty_neg_equity_loss_matrix_l5; rq_2135=done + rq_2136 open; loop_state ticks=2135; raw docs/doge/data/raw/tick2135/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2130**; next **2140**). Next: rq_2136 (AGB/FARO-if-YE2025 / AIESH-REW / Prestige-Esplanade / unused IGS-DSO-WZC-MRS).
+
+## Tick 2136 - 2026-08-25T15:20:00Z - rq_2136 l'Esplanade Ath (omzet JUMP 7.17m / pnl LOSS flip / fusie Les Corolles / Medium)
+
+- Unit: **rq_2136** leftover dual after **rq_2135 Residence Les Peupliers**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO confirmed still **YE2024** (CW last balance 2024); AIESH still **YE2024**; REW still **YE2024**. Took deferred unused leftover **l'Esplanade ASBL Ath** YE2025 (KBO **0409.232.013**; Rue Jean Jaurès 7 Ath; **VZW/ASBL** NACE **87.101/87.301** / **1 VE**; Stopgezet **31.03.2026** Fusie door overneming → **Les Corolles 0440.737.514**). Do not redo Les Peupliers/Comte d'Egmont/CIGB Menen/Ten Rozen/L'Orchidée/Care-Support/Restel Flats/De Fakkel. Deferred live YE2025: Residence Prestige Chaudfontaine + Les Corolles (overnemer).
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR7174459** JUMP +1.14% vs YE2024 EUR7093531; bruto **EUR7656217** JUMP +4.25%; pnl **EUR-26620** LOSS FLIP -212.31% vs YE2024 EUR23701; equity **EUR5124859** DROP -1.93%; FTE **108.3** vs 110.4; neerlegging **02.07.2026**. KBO Strong Stopgezet + fusie (also La Moisson absorbed). Assets/debt Unknown. Medium. FOI via info@esplanade-ath.be (cc Les Corolles).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.5); entities (+1 asbl_lesplanade_ath); foi + draft gap_esplanade_ath_nbb_pdf_assets_debt_pnl_loss_flip_merger_corolles_matrix_l5; rq_2136=done + rq_2137 open; loop_state ticks=2136; raw docs/doge/data/raw/tick2136/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2130**; next **2140**). Next: rq_2137 (AGB/FARO-if-YE2025 / AIESH-REW / Les Corolles / Prestige / unused IGS-DSO-WZC-MRS).
