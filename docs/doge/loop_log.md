@@ -25147,3 +25147,11 @@ Append-only. Each tick adds a short entry.
 ### 2026-08-26T16:05:00Z - tick 2210 race note
 - Concurrent agent closed rq_2210 as EVERY-10 progress-only (f04dea9f) without a unit fill. This agent filled named FREE **ACG** YE2025 Medium atop that + refreshed progress/top10 with ACG as EVERY-10 primary. Both kept. rq_2211 open head updated (ACG no longer FREE). Next every-10 still 2220.
 
+
+## Tick 2211 - 2026-08-26T16:20:00Z - rq_2211 Werkhuizen MIN (bruto DROP 3.06m empty-omzet / pnl LOSS FLIP -247k / Medium)
+
+- Unit: **rq_2211** leftover dual after **rq_2210 EVERY-10 (+ACG race)**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. ACG already filled tick2210 race (omzet DROP 7.49m). Took named FREE leftover **Werkhuizen MIN VZW** YE2025 (KBO **0407.699.908**; Van Cortbeemdelei 382 Deurne; **Actief** **1 VE**; RSZ NACE **88.993**). Do not redo ACG/Noordheuvel/Arcor/Kemphaan/Entiris/Oesterbank/Werkplus/Trianval/Ijsedal/De Kromme Boom/Aarova/Kaliber/MWP Pajottenland/De Winning/Atelier Groot Eiland/Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **empty/unpublished**; bruto **EUR3055393** DROP -3.96% vs YE2024 EUR3181259; pnl **EUR-246925** LOSS FLIP -367.1% vs YE2024 profit EUR92446; equity **EUR565216** DROP -31.02%; FTE **94.3** JUMP vs 93.8; neerlegging **15.07.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@whmin.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.00); entities (+1 vzw_werkhuizen_min_antwerpen); foi + draft gap_werkhuizen_min_nbb_pdf_assets_debt_empty_omzet_bruto_drop_pnl_loss_flip_matrix_l5; rq_2211=done + rq_2212 open; loop_state ticks=2211; raw docs/doge/data/raw/tick2211/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2210**; next **2220**). Next: rq_2212 (AGB/FARO-if-YE2025 / AIESH-REW / unused maatwerk-WZC-IGS).
