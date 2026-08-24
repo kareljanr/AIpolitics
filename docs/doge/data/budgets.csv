@@ -53677,3 +53677,8 @@ bud_inz_pnl_jr2025_statutory,vzw_in_z_genk,2025,-355830,-355830,-355830,CW statu
 bud_inz_equity_jr2025_statutory,vzw_in_z_genk,2025,4491452,4491452,4491452,CW statutory equity YE2025,src_inz_jr2025_cw_en,medium,tick2278; Medium CW; equity DROP 4491452 (-7.53% vs 4857282)
 bud_inz_fte_jr2025_statutory,vzw_in_z_genk,2025,627.5,627.5,627.5,CW social-balance FTE 627.5,src_inz_jr2025_cw_en,medium,tick2278; Medium CW; FTE 627.5 vs YE2024 647.1
 bud_inz_pnl_jr2024_statutory_cmp,vzw_in_z_genk,2024,-15581,-15581,-15581,CW statutory pnl YE2024 comparative,src_inz_jr2025_cw_en,medium,tick2278; YE2024 cmp pnl -15581
+bud_maccent_omzet_jr2025_statutory,vzw_m_accent_eeklo,2025,2747558,2747558,2747558,CW statutory omzet YE2025,src_maccent_jr2025_cw_en,medium,tick2278; Medium CW; omzet JUMP +9.93% vs YE2024 2499264
+bud_maccent_bruto_jr2025_statutory,vzw_m_accent_eeklo,2025,4486626,4486626,4486626,CW statutory bruto_marge YE2025 (~1.63x omzet),src_maccent_jr2025_cw_en,medium,tick2278; Medium CW; bruto JUMP +13.92% vs YE2024 3938259; ~1.63x omzet
+bud_maccent_pnl_jr2025_statutory,vzw_m_accent_eeklo,2025,774084,774084,774084,CW statutory winst/verlies YE2025 JUMP,src_maccent_jr2025_cw_en,medium,tick2278; Medium CW; pnl JUMP +86.62% vs YE2024 414796
+bud_maccent_equity_jr2025_statutory,vzw_m_accent_eeklo,2025,6353816,6353816,6353816,CW statutory eigen_vermogen YE2025,src_maccent_jr2025_cw_en,medium,tick2278; Medium CW; equity JUMP +13.49% vs YE2024 5598652
+bud_maccent_fte_jr2025_statutory,vzw_m_accent_eeklo,2025,91.9,91.9,91.9,CW social-balance FTE 91.9,src_maccent_jr2025_cw_en,medium,tick2278; Medium CW; FTE 91.9 vs YE2024 84.1; assets/debt Unknown

@@ -1,4 +1,4 @@
-# tick 2277 — leftover dual AMAB YE2025 Medium (omzet JUMP 14.18m / bruto~1.53x / pnl LOSS FLIP / FTE 645.1)
+# tick 2278 — leftover dual m-accent YE2025 Medium (omzet JUMP 2.75m / bruto~1.63x / pnl JUMP +87% / FTE 91.9)
 import csv
 import shutil
 from pathlib import Path
@@ -9,36 +9,36 @@ FOI = ROOT / "docs" / "doge" / "foi" / "drafts"
 LOG = ROOT / "docs" / "doge" / "loop_log.md"
 csv.field_size_limit(10_000_000)
 
-TICK = 2277
-UTC = "2026-08-27T11:30:00Z"
+TICK = 2278
+UTC = "2026-08-27T11:45:00Z"
 DATE = "2026-08-27"
-ENTITY = "vzw_amab_asse"
-KBO = "0411.635.039"
-KBO_BARE = "0411635039"
-SRC_EN = "src_amab_jr2025_cw_en"
-GAP = "gap_amab_nbb_pdf_assets_debt_bruto_gt_omzet_1_53x_pnl_loss_flip_matrix_l5"
-COMM = "comm_amab_jr2025_statutory_maatwerk_omzet_14_18m_pnl_loss_flip"
-LB = "lb_amab_omzet_14_18m_bruto_1_53x_pnl_loss_flip_jr2025"
-RQ = "rq_2277"
-RQ_NEXT = "rq_2278"
+ENTITY = "vzw_m_accent_eeklo"
+KBO = "0465.841.411"
+KBO_BARE = "0465841411"
+SRC_EN = "src_maccent_jr2025_cw_en"
+GAP = "gap_maccent_nbb_pdf_assets_debt_bruto_gt_omzet_1_63x_pnl_jump_87pct_matrix_l5"
+COMM = "comm_maccent_jr2025_statutory_maatwerk_omzet_2_75m_pnl_jump"
+LB = "lb_maccent_omzet_2_75m_bruto_1_63x_pnl_jump_87pct_jr2025"
+RQ = "rq_2278"
+RQ_NEXT = "rq_2279"
 
-OMZET = 14179340
-OMZET24 = 12869693
-BRUTO = 21690724
-BRUTO24 = 20926423
-PNL = -447493
-PNL24 = 559019
-EQUITY = 17950369
-EQUITY24 = 18491679
-FTE = 645.1
-FTE24 = 642.2
+OMZET = 2747558
+OMZET24 = 2499264
+BRUTO = 4486626
+BRUTO24 = 3938259
+PNL = 774084
+PNL24 = 414796
+EQUITY = 6353816
+EQUITY24 = 5598652
+FTE = 91.9
+FTE24 = 84.1
 OMZET_PCT = round((OMZET - OMZET24) / OMZET24 * 100, 2)
 BRUTO_PCT = round((BRUTO - BRUTO24) / BRUTO24 * 100, 2)
 PNL_PCT = round((PNL - PNL24) / abs(PNL24) * 100, 2)
 EQUITY_PCT = round((EQUITY - EQUITY24) / EQUITY24 * 100, 2)
 FTE_PCT = round((FTE - FTE24) / FTE24 * 100, 2)
 RATIO = round(BRUTO / OMZET, 2)
-PI = "6.80"
+PI = "5.85"
 
 
 def append_csv(path: Path, rows: list[dict]):
@@ -71,22 +71,22 @@ def update_research_queue():
             found = True
             r["status"] = "done"
             r["title"] = (
-                "leftover dual — AMAB YE2025 Medium "
-                f"(omzet JUMP 14.18m / bruto~{RATIO}x / pnl LOSS FLIP / FTE {FTE})"
+                "leftover dual — m-accent YE2025 Medium "
+                f"(omzet JUMP 2.75m / bruto~{RATIO}x / pnl JUMP / FTE {FTE})"
             )
             r["entity_id"] = ENTITY
             r["blocked_gap_id"] = GAP
             r["updated_utc"] = UTC
             r["notes"] = (
-                f"tick{TICK}; AMAB VZW Asse {KBO} YE2025 Medium CW NL+EN+FR + Strong KBO; "
+                f"tick{TICK}; m-accent VZW Eeklo {KBO} YE2025 Medium CW NL+EN+FR + Strong KBO; "
                 f"omzet JUMP {OMZET} (+{OMZET_PCT}%); bruto JUMP {BRUTO} (~{RATIO}x / +{BRUTO_PCT}%); "
-                f"pnl LOSS FLIP {PNL} ({PNL_PCT}% vs {PNL24}); equity DROP {EQUITY} ({EQUITY_PCT}%); "
-                f"FTE {FTE} (+{FTE_PCT}% vs {FTE24}); 3 VE; NACE 88.993; neerlegging 10.06.2026; "
+                f"pnl JUMP {PNL} ({PNL_PCT}% vs {PNL24}); equity JUMP {EQUITY} ({EQUITY_PCT}%); "
+                f"FTE {FTE} (+{FTE_PCT}% vs {FTE24}); 6 VE; NACE 47.792/47.793 (maatwerk/Kringwinkel); neerlegging 14.07.2026; "
                 f"assets/debt Unknown; FOI {GAP} ready NOT sent; stalls AGB Bornem JR2024 / "
-                f"FARO/AIESH/Citeco/Groupe Foes YE2024; after CARP@2276 (+ASV race); next EVERY-10 2280"
+                f"FARO/AIESH/Citeco/Groupe Foes YE2024; after AMAB@2277  ; next EVERY-10 2280"
             )
             r["instructions"] = (
-                "leftover dual AMAB YE2025 FREE Flemish maatwerk Asse/Beersel/Zaventem after C.A.R.P./ASV; "
+                "leftover dual m-accent YE2025 FREE Flemish maatwerk/Kringwinkel Meetjesland after AMAB; "
                 "preferred AGB/FARO/AIESH/Citeco/Groupe Foes still YE2024"
             )
     assert found
@@ -95,7 +95,7 @@ def update_research_queue():
             {
                 "task_id": RQ_NEXT,
                 "title": (
-                    "leftover dual after AMAB — prefer AGB/FARO-YE2025/AIESH-REW/"
+                    "leftover dual after m-accent — prefer AGB/FARO-YE2025/AIESH-REW/"
                     "Citeco-Groupe Foes-or-unused ETA-VAPH-WZC-maatwerk"
                 ),
                 "sprint": "hole_fill",
@@ -104,13 +104,13 @@ def update_research_queue():
                 "hierarchy_target": "L5",
                 "entity_id": "",
                 "instructions": (
-                    "leftover dual after AMAB YE2025 Medium "
-                    f"(omzet JUMP 14.18m / bruto~{RATIO}x / pnl LOSS FLIP / FTE {FTE}). "
+                    "leftover dual after m-accent YE2025 Medium "
+                    f"(omzet JUMP 2.75m / bruto~{RATIO}x / pnl JUMP / FTE {FTE}). "
                     "Prefer leftover AGB/APB if JR2025 PDF live, else FARO if TRUE NBB YE2025, "
                     "else AIESH/REW if YE2025, else Heropbeuring if NBB/CW euros live, "
                     "else named FREE Citeco if YE2025 / Groupe Foes if YE2025, "
                     "else unused ETA-VAPH-WZC-maatwerk with live sourced euros. "
-                    "Skip AMAB/C.A.R.P./Atelier Saint-Vincent/A.P.A.C./Adapta/Atelier 85/La Gaume/"
+                    "Skip m-accent/C.A.R.P./Atelier Saint-Vincent/A.P.A.C./Adapta/Atelier 85/La Gaume/"
                     "Fournipac/De Enter/Serre-Outil/Amis/Hautes/Village n1/Trait/Ouvroir/APRE stack; "
                     "Relais Haute Sambre/APN/Manupal YE2024; Citeco/Groupe Foes YE2024. "
                     "Do NOT redo IPFBW/Aquiris/SPGE/IRE*/FANC/SCK CEN/EURIDICE/Hydria/Vivaqua/"
@@ -122,7 +122,7 @@ def update_research_queue():
                 "created_utc": UTC,
                 "updated_utc": UTC,
                 "notes": (
-                    f"spawned after tick{TICK} AMAB; FARO/AIESH/Citeco/Groupe Foes YE2024; "
+                    f"spawned after tick{TICK} m-accent; FARO/AIESH/Citeco/Groupe Foes YE2024; "
                     "AGB Bornem JR2024; next every-10 2280"
                 ),
             }
@@ -149,9 +149,9 @@ def write_loop_state():
             "ticks_completed": str(TICK),
             "paused": "no",
             "notes": (
-                f"tick{TICK} leftover dual AMAB {KBO} Medium (omzet JUMP {OMZET} +{OMZET_PCT}%; "
-                f"bruto JUMP {BRUTO} ~{RATIO}x; pnl LOSS FLIP {PNL}; equity DROP {EQUITY}; FTE {FTE}; "
-                f"3 VE Asse/Beersel/Zaventem Flemish maatwerk); after CARP@2276; "
+                f"tick{TICK} leftover dual m-accent {KBO} Medium (omzet JUMP {OMZET} +{OMZET_PCT}%; "
+                f"bruto JUMP {BRUTO} ~{RATIO}x; pnl JUMP {PNL}; equity JUMP {EQUITY}; FTE {FTE}; "
+                f"6 VE Eeklo Meetjesland Kringwinkel maatwerk); after AMAB@2277; "
                 f"AGB Bornem JR2024; FARO/AIESH/Citeco/Groupe Foes YE2024; next {RQ_NEXT}; "
                 f"next EVERY-10 2280; continuous hole_fill"
             ),
@@ -167,28 +167,28 @@ def write_loop_state():
 def write_foi_draft():
     FOI.mkdir(parents=True, exist_ok=True)
     (FOI / f"{GAP}.md").write_text(
-        f"""# FOI draft — AMAB (NBB PDF / bruto~{RATIO}x omzet / pnl LOSS FLIP / Flemish maatwerk)
+        f"""# FOI draft — m-accent (NBB PDF / bruto~{RATIO}x omzet / pnl JUMP / Flemish maatwerk/Kringwinkel)
 
 **gap_id:** `{GAP}`  
 **status:** ready (NOT sent)  
-**entity:** AMAB VZW — KBO **{KBO}** (Actief; Z. 5 Mollem 90, 1730 Asse; **3 VE**; FTE {FTE} CW; NACE **88.993**; Flemish maatwerk Asse/Beersel/Zaventem)  
-**recipient:** info@amab.be · Z. 5 Mollem 90, 1730 Asse (+32 2 356 66 97)  
-**sources:** [CW EN](https://www.companyweb.be/en/{KBO_BARE}/amab) · [CW NL](https://www.companyweb.be/nl/{KBO_BARE}/amab) · [CW FR](https://www.companyweb.be/fr/{KBO_BARE}/amab) · [KBO](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=nl&ondernemingsnummer={KBO_BARE}) · [site](https://www.amab.be/) · [NBB](https://consult.cbso.nbb.be/consult-enterprise/{KBO_BARE})  
+**entity:** m-accent VZW — KBO **{KBO}** (Actief; Slachthuisstraat 2/B, 9900 Eeklo; **6 VE**; FTE {FTE} CW; NACE **47.792/47.793** (Kringwinkel; maatwerk Crevits list); Flemish maatwerk/Kringwinkel Meetjesland)  
+**recipient:** info@m-accent.be · Slachthuisstraat 2/B, 9900 Eeklo (+32 9 377 77 74)  
+**sources:** [CW EN](https://www.companyweb.be/en/{KBO_BARE}/m-accent) · [CW NL](https://www.companyweb.be/nl/{KBO_BARE}/m-accent) · [CW FR](https://www.companyweb.be/fr/{KBO_BARE}/m-accent) · [KBO](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=nl&ondernemingsnummer={KBO_BARE}) · [site](https://www.m-accent.be/) · [NBB](https://consult.cbso.nbb.be/consult-enterprise/{KBO_BARE})  
 **tick:** {TICK}  
 **confidence:** Medium (Strong KBO + Medium CW YE2025; assets/debt Unknown)
 
 ## Context
-- KBO Strong: Actief VZW AMAB; **3 VE**; zetel Z. 5 Mollem 90, 1730 Asse; email info@amab.be; RSZ/BTW NACE **88.993**; begindatum 28.10.1971; sites Asse/Beersel/Zaventem.
-- CW YE2025: omzet **EUR{OMZET:,}** JUMP +{OMZET_PCT}% vs YE2024 EUR{OMZET24:,}; bruto **EUR{BRUTO:,}** JUMP +{BRUTO_PCT}% (~{RATIO}x omzet); pnl **EUR{PNL:,}** LOSS FLIP {PNL_PCT}% vs YE2024 EUR{PNL24:,}; equity **EUR{EQUITY:,}** DROP {EQUITY_PCT}%; FTE **{FTE}** (+{FTE_PCT}% vs {FTE24}); filed **10.06.2026**.
+- KBO Strong: Actief VZW m-accent; **6 VE**; zetel Slachthuisstraat 2/B, 9900 Eeklo; email info@m-accent.be; RSZ/BTW NACE **47.792/47.793** (Kringwinkel; maatwerk Crevits list); begindatum 16.10.1998; sites Eeklo/Maldegem Meetjesland Kringwinkel.
+- CW YE2025: omzet **EUR{OMZET:,}** JUMP +{OMZET_PCT}% vs YE2024 EUR{OMZET24:,}; bruto **EUR{BRUTO:,}** JUMP +{BRUTO_PCT}% (~{RATIO}x omzet); pnl **EUR{PNL:,}** JUMP {PNL_PCT}% vs YE2024 EUR{PNL24:,}; equity **EUR{EQUITY:,}** JUMP +{EQUITY_PCT}%; FTE **{FTE}** (+{FTE_PCT}% vs {FTE24}); filed **14.07.2026**.
 - Preferred stall check this tick: AGB Bornem JR2024; FARO YE2024; AIESH YE2024; Citeco YE2024; Groupe Foes YE2024; Manupal YE2024. After C.A.R.P.@2276 (+Atelier Saint-Vincent race).
 
 ## Brief
 ```text
 [Naam] [Adres] [E-mail] [Datum]
-Aan: AMAB VZW
-via info@amab.be
-Z. 5 Mollem 90, 1730 Asse
-Betreft: Openbaarmaking jaarrekening 2025 AMAB (KBO {KBO})
+Aan: m-accent VZW
+via info@m-accent.be
+Slachthuisstraat 2/B, 9900 Eeklo
+Betreft: Openbaarmaking jaarrekening 2025 m-accent (KBO {KBO})
 
 Geachte,
 
@@ -196,8 +196,8 @@ Op basis van de regels inzake openbaarheid van bestuur (Vlaamse Codex / Vlaamse
 regelgeving sociale economie / maatwerkdecreet) vraag ik mededeling van:
 
 1. NBB/CBSO PDF van de jaarrekening YE2025 (balans + resultaten + bijlage; activa/schulden/cash).
-2. Toelichting bij de overgang naar verlies EUR{PNL} (vs winst EUR{PNL24}, {PNL_PCT}%)
-   ondanks omzet EUR{OMZET} (+{OMZET_PCT}%) en brutomarge EUR{BRUTO} (~{RATIO}x omzet).
+2. Toelichting bij brutomarge EUR{BRUTO} (~{RATIO}x omzet EUR{OMZET}) en winstsprong
+   EUR{PNL} (+{PNL_PCT}% vs EUR{PNL24}) vs publieke maatwerk-loonsubsidies.
 3. Matrix van loonkostensubsidies / maatwerk-tussenkomsten achter FTE {FTE}.
 4. Opsplitsing handelsomzet vs publieke steun YE2024–YE2025 (co-packing / elektro / groen / circulaire).
 5. Schulden LT/KT en liquiditeiten YE2025 (niet gepubliceerd op Companyweb).
@@ -220,11 +220,11 @@ def append_log():
             f"""
 
 
-### 2026-08-27T11:30:00Z - tick 2277 - rq_2277 AMAB Asse (omzet JUMP 14.18m / bruto~{RATIO}x / pnl LOSS FLIP / FTE {FTE} / Medium)
+### 2026-08-27T11:45:00Z - tick 2278 - rq_2278 m-accent Eeklo (omzet JUMP 2.75m / bruto~{RATIO}x / pnl JUMP / FTE {FTE} / Medium)
 
-- Unit: **rq_2277** leftover dual after **rq_2276 C.A.R.P.** (+Atelier Saint-Vincent race). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Manupal YE2024. Took FREE Flemish maatwerk **AMAB VZW** YE2025 (KBO **{KBO}**; Z. 5 Mollem 90 Asse; **Actief** **3 VE**; NACE **88.993** Asse/Beersel/Zaventem). Do not redo CARP/ASV/APAC/Adapta/Atelier85/Forena/Waak/OptimaT stack.
-- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR{OMZET}** JUMP +{OMZET_PCT}% vs YE2024 EUR{OMZET24}; bruto **EUR{BRUTO}** JUMP +{BRUTO_PCT}% (~{RATIO}x); pnl **EUR{PNL}** LOSS FLIP {PNL_PCT}% vs YE2024 EUR{PNL24}; equity **EUR{EQUITY}** DROP {EQUITY_PCT}%; FTE **{FTE}** (+{FTE_PCT}% vs {FTE24}); neerlegging **10.06.2026**. Strong KBO Actief 3 VE VZW info@amab.be. Assets/debt Unknown. Medium.
-- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi {PI}); entities (+1 {ENTITY}); foi + draft {GAP}; rq_2277=done + rq_2278 open; loop_state ticks={TICK}; raw docs/doge/data/raw/tick2277/.
+- Unit: **rq_2278** leftover dual after **rq_2277 AMAB**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Manupal YE2024. Took FREE Flemish maatwerk/Kringwinkel **m-accent VZW** YE2025 (KBO **{KBO}**; Slachthuisstraat 2/B Eeklo; **Actief** **6 VE**; NACE **47.792/47.793** (Kringwinkel; maatwerk Crevits list) Eeklo Meetjesland Kringwinkel). Do not redo AMAB/CARP/ASV/APAC/Adapta/Atelier85/Forena/Waak/OptimaT stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR{OMZET}** JUMP +{OMZET_PCT}% vs YE2024 EUR{OMZET24}; bruto **EUR{BRUTO}** JUMP +{BRUTO_PCT}% (~{RATIO}x); pnl **EUR{PNL}** JUMP {PNL_PCT}% vs YE2024 EUR{PNL24}; equity **EUR{EQUITY}** JUMP +{EQUITY_PCT}%; FTE **{FTE}** (+{FTE_PCT}% vs {FTE24}); neerlegging **14.07.2026**. Strong KBO Actief 6 VE VZW info@m-accent.be. Assets/debt Unknown. Medium.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi {PI}); entities (+1 {ENTITY}); foi + draft {GAP}; rq_2278=done + rq_2279 open; loop_state ticks={TICK}; raw docs/doge/data/raw/tick2278/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2278 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Foes-if-YE2025 / unused ETA).
 """
@@ -233,8 +233,8 @@ def append_log():
 
 
 def main():
-    src_raw = ROOT / "docs" / "doge" / "raw" / "tick2277"
-    dst_raw = DATA / "raw" / "tick2277"
+    src_raw = ROOT / "docs" / "doge" / "raw" / "tick2278"
+    dst_raw = DATA / "raw" / "tick2278"
     dst_raw.mkdir(parents=True, exist_ok=True)
     src_raw.mkdir(parents=True, exist_ok=True)
     for f in dst_raw.glob("*.html"):
@@ -245,61 +245,61 @@ def main():
         DATA / "sources.csv",
         [
             {
-                "source_id": "src_amab_jr2025_cw_nl",
-                "title": "Companyweb NL AMAB YE2025 statutory",
-                "url": f"https://www.companyweb.be/nl/{KBO_BARE}/amab",
+                "source_id": "src_maccent_jr2025_cw_nl",
+                "title": "Companyweb NL m-accent YE2025 statutory",
+                "url": f"https://www.companyweb.be/nl/{KBO_BARE}/m-accent",
                 "publisher": "Companyweb (NBB-derived)",
                 "accessed_date": DATE,
                 "source_class": "secondary_aggregator",
                 "notes": (
-                    f"tick{TICK}; YE2025 omzet JUMP {OMZET} bruto JUMP {BRUTO} pnl LOSS FLIP {PNL} "
-                    f"equity DROP {EQUITY} FTE {FTE}; neerlegging 10.06.2026; assets/debt Unknown; "
-                    f"raw docs/doge/data/raw/tick2277/"
+                    f"tick{TICK}; YE2025 omzet JUMP {OMZET} bruto JUMP {BRUTO} pnl JUMP {PNL} "
+                    f"equity JUMP {EQUITY} FTE {FTE}; neerlegging 14.07.2026; assets/debt Unknown; "
+                    f"raw docs/doge/data/raw/tick2278/"
                 ),
             },
             {
                 "source_id": SRC_EN,
-                "title": "Companyweb EN AMAB YE2025 statutory",
-                "url": f"https://www.companyweb.be/en/{KBO_BARE}/amab",
+                "title": "Companyweb EN m-accent YE2025 statutory",
+                "url": f"https://www.companyweb.be/en/{KBO_BARE}/m-accent",
                 "publisher": "Companyweb (NBB-derived)",
                 "accessed_date": DATE,
                 "source_class": "secondary_aggregator",
                 "notes": (
-                    f"tick{TICK}; EN mirror YE2025 Medium; filed 10-06-2026; Last balance sheet year 2025; "
+                    f"tick{TICK}; EN mirror YE2025 Medium; filed 14-07-2026; Last balance sheet year 2025; "
                     f"Turnover {OMZET} Gross margin {BRUTO} Profit/Loss {PNL} Equity {EQUITY} FTE {FTE}"
                 ),
             },
             {
-                "source_id": "src_amab_jr2025_cw_fr",
-                "title": "Companyweb FR AMAB YE2025 statutory",
-                "url": f"https://www.companyweb.be/fr/{KBO_BARE}/amab",
+                "source_id": "src_maccent_jr2025_cw_fr",
+                "title": "Companyweb FR m-accent YE2025 statutory",
+                "url": f"https://www.companyweb.be/fr/{KBO_BARE}/m-accent",
                 "publisher": "Companyweb (NBB-derived)",
                 "accessed_date": DATE,
                 "source_class": "secondary_aggregator",
                 "notes": f"tick{TICK}; FR mirror; CA {OMZET}; Marge brute {BRUTO}; Benefice {PNL}",
             },
             {
-                "source_id": f"src_amab_kbo_{TICK}",
-                "title": f"KBO AMAB {KBO} Actief Asse 3 VE",
+                "source_id": f"src_maccent_kbo_{TICK}",
+                "title": f"KBO m-accent {KBO} Actief Eeklo 6 VE",
                 "url": f"https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=nl&ondernemingsnummer={KBO_BARE}",
                 "publisher": "KBO FOD Economie",
                 "accessed_date": DATE,
                 "source_class": "official_register",
                 "notes": (
-                    f"tick{TICK}; Actief VZW AMAB; zetel Z. 5 Mollem 90 1730 Asse; "
-                    f"3 VE; NACE 88.993; info@amab.be; begindatum 28.10.1971"
+                    f"tick{TICK}; Actief VZW m-accent; zetel Slachthuisstraat 2/B 9900 Eeklo; "
+                    f"6 VE; NACE 47.792/47.793 (maatwerk/Kringwinkel); info@m-accent.be; begindatum 16.10.1998"
                 ),
             },
             {
-                "source_id": f"src_amab_site_contact_{TICK}",
-                "title": "AMAB FOI channel info@amab.be",
-                "url": "https://www.amab.be/",
-                "publisher": "AMAB VZW",
+                "source_id": f"src_maccent_site_contact_{TICK}",
+                "title": "m-accent FOI channel info@m-accent.be",
+                "url": "https://www.m-accent.be/",
+                "publisher": "m-accent VZW",
                 "accessed_date": DATE,
                 "source_class": "foi_contact",
                 "notes": (
-                    f"tick{TICK}; info@amab.be; +32 2 356 66 97; "
-                    "Z. 5 Mollem 90 Asse; Flemish maatwerk Asse/Beersel/Zaventem"
+                    f"tick{TICK}; info@m-accent.be; +32 9 377 77 74; "
+                    "Slachthuisstraat 2/B Eeklo; Flemish maatwerk/Kringwinkel Meetjesland"
                 ),
             },
         ],
@@ -339,10 +339,10 @@ def main():
                 "amount_eur": str(PNL),
                 "amount_min_eur": str(PNL),
                 "amount_max_eur": str(PNL),
-                "basis": "CW statutory winst/verlies YE2025 LOSS FLIP",
+                "basis": "CW statutory winst/verlies YE2025 JUMP",
                 "source_id": SRC_EN,
                 "confidence": "medium",
-                "notes": f"tick{TICK}; Medium CW; pnl LOSS FLIP {PNL_PCT}% vs YE2024 {PNL24}",
+                "notes": f"tick{TICK}; Medium CW; pnl JUMP {PNL_PCT}% vs YE2024 {PNL24}",
             },
             {
                 "budget_id": "bud_amab_equity_jr2025_statutory",
@@ -354,7 +354,7 @@ def main():
                 "basis": "CW statutory eigen_vermogen YE2025",
                 "source_id": SRC_EN,
                 "confidence": "medium",
-                "notes": f"tick{TICK}; Medium CW; equity DROP {EQUITY_PCT}% vs YE2024 {EQUITY24}",
+                "notes": f"tick{TICK}; Medium CW; equity JUMP +{EQUITY_PCT}% vs YE2024 {EQUITY24}",
             },
             {
                 "budget_id": "bud_amab_fte_jr2025_statutory",
@@ -377,13 +377,13 @@ def main():
             {
                 "commitment_id": COMM,
                 "title": (
-                    "AMAB YE2025 leftover dual "
-                    f"(omzet 14.18m / bruto~{RATIO}x / pnl LOSS FLIP / FTE {FTE} / Medium)"
+                    "m-accent YE2025 leftover dual "
+                    f"(omzet 2.75m / bruto~{RATIO}x / pnl JUMP / FTE {FTE} / Medium)"
                 ),
                 "entity_id": ENTITY,
-                "beneficiary": "maatwerk workers Asse/Beersel/Zaventem / Flemish collectief maatwerk",
-                "legal_basis": f"VZW maatwerk AMAB (KBO {KBO}; Actief; 3 VE; NACE 88.993; Asse)",
-                "decision_date": "2026-06-10",
+                "beneficiary": "maatwerk workers Eeklo Meetjesland Kringwinkel / Flemish collectief maatwerk",
+                "legal_basis": f"VZW maatwerk m-accent (KBO {KBO}; Actief; 6 VE; NACE 47.792/47.793 (maatwerk/Kringwinkel); Eeklo)",
+                "decision_date": "2026-07-14",
                 "start_year": "2025",
                 "end_year": "2025",
                 "total_envelope_eur": str(BRUTO),
@@ -395,17 +395,17 @@ def main():
                 ),
                 "remaining_eur": "0",
                 "status": "active",
-                "evaluation_url": f"https://www.companyweb.be/en/{KBO_BARE}/amab",
-                "stated_goal": "Flemish maatwerk Asse/Beersel/Zaventem (co-packing / electro / green / circular)",
+                "evaluation_url": f"https://www.companyweb.be/en/{KBO_BARE}/m-accent",
+                "stated_goal": "Flemish maatwerk/Kringwinkel Meetjesland (kringwinkel / secondhand retail / social employment)",
                 "cut_option": (
-                    "Publish NBB PDF assets/debt; reconcile LOSS FLIP + bruto>~1.5x omzet vs maatwerk wage-subsidy matrix"
+                    "Publish NBB PDF assets/debt; reconcile bruto>~1.6x omzet + pnl JUMP vs maatwerk wage-subsidy matrix"
                 ),
                 "source_id": SRC_EN,
                 "confidence": "medium",
-                "hierarchy_path": "Vlaanderen>VlaamsBrabant>Asse>AMAB>JR2025_statutory_L5",
+                "hierarchy_path": "Vlaanderen>OostVlaanderen>Eeklo>m-accent>JR2025_statutory_L5",
                 "notes": (
                     f"tick{TICK}; Medium CW; bruto primary envelope {BRUTO} (omzet {OMZET} ~{RATIO}x); "
-                    f"pnl LOSS FLIP {PNL}; equity DROP {EQUITY}; FTE {FTE}; 3 VE; after CARP@2276; "
+                    f"pnl JUMP {PNL}; equity JUMP {EQUITY}; FTE {FTE}; 6 VE; after AMAB@2277; "
                     "AGB Bornem JR2024; FARO/AIESH/Citeco/Groupe Foes YE2024; not TE-additive of 348bn"
                 ),
             }
@@ -418,39 +418,39 @@ def main():
             {
                 "item_id": LB,
                 "name": (
-                    f"AMAB omzet 14.18m / bruto~{RATIO}x / pnl LOSS FLIP / FTE {FTE} "
-                    "(YE2025 Flemish maatwerk Asse)"
+                    f"m-accent omzet 2.75m / bruto~{RATIO}x / pnl JUMP / FTE {FTE} "
+                    "(YE2025 Flemish maatwerk/Kringwinkel Eeklo)"
                 ),
                 "level": "L5",
                 "type": "maatwerk_vzw_statutory",
-                "hierarchy_path": "Vlaanderen>VlaamsBrabant>Asse>AMAB>JR2025",
+                "hierarchy_path": "Vlaanderen>OostVlaanderen>Eeklo>m-accent>JR2025",
                 "annual_cost_eur": str(BRUTO),
                 "total_cost_eur": str(BRUTO),
                 "tco_notes": (
                     f"CW omzet {OMZET} (+{OMZET_PCT}%) / bruto {BRUTO} (~{RATIO}x / +{BRUTO_PCT}%) / "
-                    f"pnl LOSS FLIP {PNL} ({PNL_PCT}%) / equity DROP {EQUITY} ({EQUITY_PCT}%) / "
-                    f"FTE {FTE} (vs {FTE24}) / 3 VE Flemish maatwerk"
+                    f"pnl JUMP {PNL} ({PNL_PCT}%) / equity JUMP {EQUITY} ({EQUITY_PCT}%) / "
+                    f"FTE {FTE} (vs {FTE24}) / 6 VE Flemish maatwerk/Kringwinkel"
                 ),
                 "confidence": "medium",
                 "source_id": SRC_EN,
-                "beneficiaries": "maatwerk workers Asse/Beersel/Zaventem / Flemish collectief maatwerk",
-                "stated_goal": "Flemish maatwerk Asse/Beersel/Zaventem (co-packing/electro/green)",
+                "beneficiaries": "maatwerk workers Eeklo Meetjesland Kringwinkel / Flemish collectief maatwerk",
+                "stated_goal": "Flemish maatwerk/Kringwinkel Meetjesland (kringwinkel/secondhand)",
                 "measured_outcome": (
                     f"omzet JUMP +{OMZET_PCT}%; bruto JUMP +{BRUTO_PCT}% (~{RATIO}x); "
-                    f"pnl LOSS FLIP {PNL_PCT}%; equity DROP {EQUITY_PCT}%; FTE {FTE}; filed 10.06.2026"
+                    f"pnl JUMP {PNL_PCT}%; equity JUMP +{EQUITY_PCT}%; FTE {FTE}; filed 10.06.2026"
                 ),
-                "absurdity_score": "7.6",
-                "cost_score": "7.0",
+                "absurdity_score": "5.8",
+                "cost_score": "4.5",
                 "difficulty": "3.0",
                 "priority_index": PI,
                 "cut_proposal": (
-                    "Publish NBB PDF assets/debt FOI; disclose maatwerk wage-subsidy matrix behind LOSS FLIP despite omzet JUMP"
+                    "Publish NBB PDF assets/debt FOI; disclose maatwerk wage-subsidy matrix behind bruto>~1.6x omzet"
                 ),
                 "status": "open",
                 "struck_reason": "",
                 "notes": (
                     f"tick{TICK}; Medium CW; FOI {GAP}; preferred stalls AGB Bornem JR2024; "
-                    "FARO/AIESH/Citeco/Groupe Foes YE2024; after CARP@2276"
+                    "FARO/AIESH/Citeco/Groupe Foes YE2024; after AMAB@2277"
                 ),
             }
         ],
@@ -461,20 +461,20 @@ def main():
         [
             {
                 "entity_id": ENTITY,
-                "name_nl": "AMAB VZW (Asse / Flemish maatwerk)",
-                "name_fr": "AMAB ASBL (Asse / entreprise de travail adapté flamande)",
-                "name_en": "AMAB adapted-work VZW (Asse Flemish maatwerk)",
+                "name_nl": "m-accent VZW (Eeklo / Flemish maatwerk/Kringwinkel)",
+                "name_fr": "m-accent ASBL (Eeklo / entreprise de travail adapté flamande)",
+                "name_en": "m-accent adapted-work VZW (Eeklo Flemish maatwerk/Kringwinkel)",
                 "level": "parastatal",
                 "parent_id": "sec_flanders",
                 "community_language": "nl",
-                "website": "https://www.amab.be/",
-                "foi_email": "info@amab.be",
-                "foi_postal": "Z. 5 Mollem 90, 1730 Asse",
+                "website": "https://www.m-accent.be/",
+                "foi_email": "info@m-accent.be",
+                "foi_postal": "Slachthuisstraat 2/B, 9900 Eeklo",
                 "notes": (
-                    f"tick{TICK} YE2025 Medium CW NL+EN+FR + Strong KBO {KBO} Actief 3 VE NACE 88.993; "
+                    f"tick{TICK} YE2025 Medium CW NL+EN+FR + Strong KBO {KBO} Actief 6 VE NACE 47.792/47.793 (maatwerk/Kringwinkel); "
                     f"omzet JUMP {OMZET} (+{OMZET_PCT}%) bruto JUMP {BRUTO} (~{RATIO}x / +{BRUTO_PCT}%) "
-                    f"pnl LOSS FLIP {PNL} ({PNL_PCT}%) equity DROP {EQUITY} ({EQUITY_PCT}%) FTE {FTE}; "
-                    f"neerlegging 10.06.2026; assets/debt Unknown; FOI {GAP}; after CARP@2276; "
+                    f"pnl JUMP {PNL} ({PNL_PCT}%) equity JUMP {EQUITY} ({EQUITY_PCT}%) FTE {FTE}; "
+                    f"neerlegging 14.07.2026; assets/debt Unknown; FOI {GAP}; after AMAB@2277; "
                     "AGB Bornem JR2024; FARO/AIESH/Citeco/Groupe Foes YE2024; not TE-additive of 348bn"
                 ),
             }
@@ -486,21 +486,21 @@ def main():
         [
             {
                 "gap_id": GAP,
-                "hierarchy_path": "Vlaanderen>VlaamsBrabant>Asse>AMAB>NBB_PDF_assets_debt_bruto_gt_omzet_1_53x_pnl_loss_flip",
+                "hierarchy_path": "Vlaanderen>OostVlaanderen>Eeklo>m-accent>NBB_PDF_assets_debt_bruto_gt_omzet_1_63x_pnl_jump",
                 "entity_id": ENTITY,
                 "what_is_missing": (
                     f"NBB PDF jaarrekening YE2025 full (assets/debt LT-ST/cash); "
-                    f"omzet EUR{OMZET}; bruto EUR{BRUTO} (~{RATIO}x); pnl LOSS FLIP EUR{PNL} vs EUR{PNL24}; "
-                    f"maatwerk wage-subsidy matrix; FTE {FTE}; activity split co-packing/electro/green/circular"
+                    f"omzet EUR{OMZET}; bruto EUR{BRUTO} (~{RATIO}x); pnl JUMP EUR{PNL} vs EUR{PNL24}; "
+                    f"maatwerk wage-subsidy matrix; FTE {FTE}; activity split kringwinkel/secondhand/circular"
                 ),
                 "why_it_matters": (
-                    f"Medium CW shows Flemish maatwerk VZW (omzet 14.18m / bruto~{RATIO}x / pnl LOSS FLIP / "
-                    f"FTE {FTE}) under collectief maatwerk path; assets/debt unpublished"
+                    f"Medium CW shows Flemish maatwerk/Kringwinkel VZW (omzet 2.75m / bruto~{RATIO}x / pnl JUMP / "
+                    f"FTE {FTE}) under collectief maatwerk / Kringwinkel Meetjesland path; assets/debt unpublished"
                 ),
                 "priority": "8",
-                "recipient_body": "AMAB VZW",
-                "recipient_email": "info@amab.be",
-                "recipient_postal": "Z. 5 Mollem 90, 1730 Asse",
+                "recipient_body": "m-accent VZW",
+                "recipient_email": "info@m-accent.be",
+                "recipient_postal": "Slachthuisstraat 2/B, 9900 Eeklo",
                 "draft_letter_path": f"docs/doge/foi/drafts/{GAP}.md",
                 "status": "ready",
                 "date_ready": DATE,
@@ -514,7 +514,7 @@ def main():
                 "updated_utc": UTC,
                 "notes": (
                     f"tick{TICK}; ready NOT sent; Medium CW + Strong KBO; preferred stall FARO/AIESH/Citeco/Foes YE2024; "
-                    "AGB Bornem JR2024; after CARP@2276; next EVERY-10 2280"
+                    "AGB Bornem JR2024; after AMAB@2277; next EVERY-10 2280"
                 ),
             }
         ],

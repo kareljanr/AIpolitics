@@ -25980,3 +25980,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.80); entities (+1 vzw_in_z_genk); foi + draft gap_inz_nbb_pdf_assets_debt_bruto_gt_omzet_1_67x_pnl_loss_widen_fte_drop_matrix_l5; rq_2278=done + rq_2279 open; loop_state ticks=2278; raw docs/doge/raw/tick2278/ + data/raw/tick2278/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2279 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
+
+
+
+### 2026-08-27T11:45:00Z - tick 2278 - rq_2278 m-accent Eeklo (omzet JUMP 2.75m / bruto~1.63x / pnl JUMP / FTE 91.9 / Medium)
+
+- Unit: **rq_2278** leftover dual after **rq_2277 AMAB**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Manupal YE2024. Took FREE Flemish maatwerk/Kringwinkel **m-accent VZW** YE2025 (KBO **0465.841.411**; Slachthuisstraat 2/B Eeklo; **Actief** **6 VE**; NACE **47.792/47.793** (Kringwinkel; maatwerk Crevits list) Eeklo Meetjesland Kringwinkel). Do not redo AMAB/CARP/ASV/APAC/Adapta/Atelier85/Forena/Waak/OptimaT stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2747558** JUMP +9.93% vs YE2024 EUR2499264; bruto **EUR4486626** JUMP +13.92% (~1.63x); pnl **EUR774084** JUMP 86.62% vs YE2024 EUR414796; equity **EUR6353816** JUMP +13.49%; FTE **91.9** (+9.27% vs 84.1); neerlegging **14.07.2026**. Strong KBO Actief 6 VE VZW info@m-accent.be. Assets/debt Unknown. Medium.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.85); entities (+1 vzw_m_accent_eeklo); foi + draft gap_maccent_nbb_pdf_assets_debt_bruto_gt_omzet_1_63x_pnl_jump_87pct_matrix_l5; rq_2278=done + rq_2279 open; loop_state ticks=2278; raw docs/doge/data/raw/tick2278/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2278 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Foes-if-YE2025 / unused ETA).
