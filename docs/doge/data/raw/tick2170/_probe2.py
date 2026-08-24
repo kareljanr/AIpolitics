@@ -1,23 +1,86 @@
 # -*- coding: utf-8 -*-
-import csv, re, ssl, urllib.request
+import csv
+import re
+import ssl
+import urllib.request
 from pathlib import Path
 
 csv.field_size_limit(10**7)
 ctx = ssl.create_default_context()
 UA = {"User-Agent": "Mozilla/5.0 (compatible; AIpolitics-DOGE/1.0)"}
 out = Path("docs/doge/data/raw/tick2170")
+out.mkdir(parents=True, exist_ok=True)
 
-mined = set()
+text = ""
 for path in [
     "docs/doge/data/entities.csv",
     "docs/doge/data/commitments.csv",
     "docs/doge/data/leaderboard.csv",
 ]:
-    with open(path, newline="", encoding="utf-8", errors="replace") as f:
-        for row in csv.DictReader(f):
-            blob = re.sub(r"[.\s]", "", " ".join(str(v) for v in row.values()))
-            for m in re.findall(r"\d{10}", blob):
-                mined.add(m)
+    text += open(path, encoding="utf-8", errors="replace").read().lower()
+
+
+def is_mined(kbo):
+    d = re.sub(r"\D", "", kbo)
+    dotted = f"{d[:4]}.{d[4:7]}.{d[7:]}"
+    return dotted in text
+
+
+CANDS = [
+    ("0428335615", "wzc_zoetenaard_stekene"),  # guess
+    ("0476543210", "bad"),
+    ("0405443123", "wzc_de_meander"),
+    ("0417568421", "wzc_sint_anna_gent"),
+    ("0424567891", "bad2"),
+    ("0436123456", "bad3"),
+    ("0442789456", "wzc_immaculata"),
+    ("0453891234", "bad4"),
+    ("0464123789", "wzc_de_wingerd"),
+    ("0475234567", "bad5"),
+    ("0486345678", "bad6"),
+    ("0507456789", "bad7"),
+    ("0538567890", "bad8"),
+    ("0549678901", "bad9"),
+    ("0550789012", "bad10"),
+    ("0561890123", "bad11"),
+    ("0572901234", "bad12"),
+    ("0583012345", "bad13"),
+    ("0604123456", "bad14"),
+    ("0615234567", "bad15"),
+    # known plausible from public lists / prior probes
+    ("0405443129", "cand_a"),
+    ("0412881234", "cand_b"),
+    ("0421567890", "cand_c"),
+    ("0432678901", "cand_d"),
+    ("0443789012", "cand_e"),
+    ("0454890123", "cand_f"),
+    ("0465901234", "cand_g"),
+    ("0476012345", "cand_h"),
+    ("0487123456", "cand_i"),
+    ("0508234567", "cand_j"),
+    ("0416528391", "cand_0416528391"),
+    ("0479984011", "cand_0479984011"),
+    ("0441675147", "cand_0441675147"),
+    ("0428471856", "cand_ocura"),
+    ("0433419259", "cand_wezembeek_olv"),
+    ("0479401318", "cand_ter_burg"),
+    ("0454543856", "cand_0454543856"),
+    ("0466266429", "cand_0466266429"),
+    ("0845064196", "slg_ops"),
+    ("0408215439", "cand_0408215439"),
+    ("0417562831", "cand_0417562831"),
+    ("0421567839", "cand_0421567839"),
+    ("0406877485", "dhondt_skip"),
+    ("0435357675", "psychogeriatrisch"),
+    ("0445499422", "curando"),
+    ("0418016550", "st_vincentius_antwerpen"),
+    # more care from northdata-ish guesses
+    ("0400555123", "x1"),
+    ("0401556124", "x2"),
+    ("0402557125", "x3"),
+    ("0403558126", "x4"),
+    ("0404559127", "x5"),
+]
 
 
 def fetch(url, p):
@@ -35,6 +98,7 @@ def fetch(url, p):
 def parse(t):
     yb = {}
     for y, body in re.findall(r"(20\d\d)\s*:\s*\{([^{}]+)\}", t or ""):
+
         def g(k, b=body):
             m = re.search(rf'{k}:\s*"([^"]*)"', b)
             return m.group(1) if m else None
@@ -44,103 +108,40 @@ def parse(t):
     filed = re.search(r"filed on ([0-9-]{10})", t or "")
     title = re.search(r"<title>([^<]+)", t or "")
     last = re.search(r"Last balance sheet year[^0-9]*(\d{4})", t or "", re.I)
-    return yb, fte.group(1) if fte else None, filed.group(1) if filed else None, title.group(1) if title else None, last.group(1) if last else None
+    act = re.search(r"Principal activity</[^>]+>\s*([^<]+)", t or "", re.I)
+    return (
+        yb,
+        fte.group(1) if fte else None,
+        filed.group(1) if filed else None,
+        title.group(1) if title else None,
+        last.group(1) if last else None,
+        (act.group(1).strip() if act else ""),
+    )
 
 
-# Broader WZC/MRS/IGS/HVZ candidates from recent deferred + nearby
-CANDS = [
-    ("0650907810", "ventu"),
-    ("0641760611", "numera"),
-    ("0400371161", "abdij_affligem"),
-    ("0787300696", "melis_skip"),
-    # unused Walloon MRS still YE2024? check anyway
-    ("0416337262", "vrijzicht_check"),
-    ("0414678562", "vander_stokken_check"),
-    ("0418234997", "witte_meren_check"),
-    ("0449425546", "wijtshage_check"),
-    ("0422152314", "sint_barbara_check"),
-    ("0413055989", "sint_jozef_aarschot_check"),
-    ("0448190181", "sint_jozef_rumst_check"),
-    ("0411600692", "maria_check"),
-    ("0453287037", "samen_ouder_check"),
-    ("0410127084", "sint_lodewijk_check"),
-    ("0454090355", "zusters_deinze_check"),
-    ("0417958152", "camillus_check"),
-    ("0445175263", "zilverlinde_check"),
-    ("0452865383", "sint_jozef_ninove_check"),
-    ("0459770496", "augustinus_check"),
-    ("0448033201", "chateau_vert_check"),
-    ("0463758978", "huize_vincent_check"),
-    ("0421903676", "christine_check"),
-    ("0810616132", "molenheide_check"),
-    ("0845064196", "slg_operaties_check"),
-    ("0887690451", "emeis_check"),
-    ("0633687439", "walfergem_check"),
-    ("0500952540", "wznd_check"),
-    ("0861157387", "eycken_check"),
-    ("0865574649", "fakkel_check"),
-    ("0895366220", "annuntiaten_check"),
-    ("0845895824", "hertog_jan_check"),
-    ("0435015702", "lindeboom_check"),
-    ("0446022331", "lork_geel_check"),
-    ("0433440342", "olv_kempen_check"),
-    ("0423571581", "salvator_check"),
-    ("0698940725", "anima_vl_check"),
-    ("0446506836", "avondvrede_check"),
-    ("0469969453", "anima_hold_check"),
-    ("0755822317", "lork_hoeselt_check"),
-    ("0470673890", "zorgsaam_check"),
-    ("0823488131", "thofke_check"),
-    # try more unknown WZC numbers
-    ("0405406887", "x_0405"),
-    ("0412210456", "x_0412"),
-    ("0425123789", "x_0425"),
-    ("0432829147", "x_0432"),
-    ("0438687654", "x_0438"),
-    ("0441675147", "wsr"),
-    ("0453380125", "x_0453"),
-    ("0464822341", "x_0464"),
-    ("0466266429", "helianthus"),
-    ("0475123890", "x_0475"),
-    ("0480566704", "hof_ter_lande"),
-    ("0598966387", "hoeksteen"),
-    ("0685516024", "wzn_edegem"),
-    ("0408123456", "bad"),
-    ("0410958712", "slg_vl"),
-    ("0889421308", "armonea"),
-    # Zone de secours unused?
-    ("0500915820", "zs_guess1"),
-    ("0500916310", "zs_guess2"),
-    ("0500927108", "zs_guess3"),
-    ("0500928000", "zs_guess4"),
-    ("0500914821", "zs_liege"),
-    ("0500913830", "zs_namur"),
-    ("0500912840", "zs_lux"),
-]
-
-strong = []
 for kbo, label in CANDS:
-    st = "MINED" if kbo in mined else "FREE"
-    t = fetch(f"https://www.companyweb.be/en/{kbo}", out / f"{label}_{kbo}_en.html")
-    if not t or "Error 404" in t:
-        if st == "FREE":
-            print(st, kbo, "404")
+    if is_mined(kbo):
+        print("SKIPMINED", kbo, label)
         continue
-    yb, fte, filed, title, last = parse(t)
+    t = fetch(f"https://www.companyweb.be/en/{kbo}", out / f"p2_{label}_{kbo}_en.html")
+    if not t or "Error 404" in t or len(t) < 800:
+        print("404", kbo, label)
+        continue
+    yb, fte, filed, title, last, act = parse(t)
     y5 = yb.get("2025", {})
-    if st != "FREE":
-        continue
-    print(st, kbo, (title or "")[:55], "last", last, "y5", bool(y5))
-    if y5:
-        print(" ", y5, "fte", fte, "filed", filed)
-        omzet = (y5.get("omzet") or "").replace(",", "")
-        bruto = (y5.get("bruto_marge") or "").replace(",", "")
-        o = int(omzet) if omzet.isdigit() else 0
-        b = int(bruto) if bruto.isdigit() else 0
+    careish = any(
+        x in (act or "").lower()
+        for x in ["nursing", "rest", "elderly", "care", "repos", "rust", "woonzorg", "mrs"]
+    )
+    print("FREE", kbo, (title or "")[:55], "last", last, "fte", fte)
+    print("  act", act[:60], "filed", filed, "2025", y5)
+    if last == "2025" and y5:
+        om = (y5.get("omzet") or "").replace(",", "")
+        br = (y5.get("bruto_marge") or "").replace(",", "")
+        try:
+            o = int(om) if om.isdigit() else 0
+            b = int(br) if br.isdigit() else 0
+        except Exception:
+            o = b = 0
         if o >= 200000 or b >= 200000:
-            strong.append((kbo, title, y5, fte, filed))
-            print("  >>> STRONG")
-
-print("\n=== STRONG FREE YE2025 ===")
-for s in strong:
-    print(s[0], (s[1] or "")[:50], s[2], "fte", s[3])
+            print("  >>> CANDIDATE", "CARE" if careish else "other")
