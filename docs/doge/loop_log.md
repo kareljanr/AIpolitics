@@ -24201,3 +24201,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.3); entities (+1 srl_slg_wallonie); foi + draft gap_slg_wallonie_nbb_pdf_assets_debt_merger_jump_loss_matrix_l5; rq_2126=done + rq_2127 open; loop_state ticks=2126; raw docs/doge/data/raw/tick2126/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2120**; next **2130**). Next: rq_2127 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+
+## Tick 2126 - 2026-08-25T12:30:00Z - rq_2126 Zorghome De Fakkel Roeselare (omzet JUMP 19.64m / equity JUMP +828% / Medium)
+
+- Unit: **rq_2126** leftover dual after **rq_2125 Famifamenne**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Zorghome De Fakkel BV** YE2025 (KBO **0865.574.649**; Hoveniersstraat 15 Roeselare Rumbeke; **BV** NACE **87.101/87.301** / **6 VE**; Armonea/Colisee Remy Yves path). Do not redo Famifamenne/Le Castel/RSW/Home Sebrechts/Unite Jolimont/'t Buurthuis/Le Bosquet/Strebo/Entraide/Armonea holding. Restel Flats + L'Orchidee deferred live YE2025.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR19637342** JUMP +94.8% vs YE2024 EUR10080939; bruto **EUR13383296** JUMP +90.24%; pnl **EUR412463** JUMP +30.53%; equity **EUR6281446** JUMP +828.25% vs YE2024 EUR676698; FTE **212.7** JUMP vs 119.2; neerlegging **14.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@armonea.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.6); entities (+1 bv_zorghome_de_fakkel); foi + draft gap_fakkel_nbb_pdf_assets_debt_omzet_jump_equity_jump_matrix_l5; rq_2126=done + rq_2127 open; loop_state ticks=2126; raw docs/doge/data/raw/tick2126/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2120**; next **2130**). Next: rq_2127 (AGB/FARO-if-YE2025 / AIESH-REW / Restel Flats / unused IGS-DSO-WZC-MRS).
+
+## Tick 2127 - 2026-08-25T12:40:00Z - rq_2127 Le Château Vert Huy (bruto JUMP 8.00m / pnl JUMP +584% / omzet empty / Medium)
+
+- Unit: **rq_2127** leftover dual after **rq_2126 SLG Wallonie**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Le Château Vert ASBL** YE2025 (KBO **0448.033.201**; Chemin de Perwez 16 Huy; **ASBL** NACE **87.303** / **2 VE**; AViQ disability residential care). Do not redo SLG Wallonie/Famifamenne/Le Castel/RSW/Sebrechts/Jolimont continuum.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR7999317** JUMP +2.37%; pnl **EUR94047** JUMP +584.48%; equity **EUR4676318** JUMP +5.07%; FTE **111.5**; neerlegging **08.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@chateauvert.be.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.8); entities (+1 asbl_le_chateau_vert_huy); foi + draft gap_chateau_vert_nbb_pdf_assets_debt_omzet_empty_pnl_jump_matrix_l5; rq_2127=done + rq_2128 open; loop_state ticks=2127; raw docs/doge/data/raw/tick2127/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2120**; next **2130**). Next: rq_2128 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
