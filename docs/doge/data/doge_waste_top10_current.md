@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2290** (2026-08-27) · **8127+** leaderboard rows  
+**As-of:** tick **2300** (2026-08-27) · **8142+** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt AGB / scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,17 +27,17 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **university/city balance sheets** · **AGB/zorg dual + IGS/HVZ/CAW/CGG/woonmaatschappij/thuiszorg shells** · **NEW residual 2281-2290:** **Op Maat bruto 2.35m / empty omzet / pnl JUMP / FTE 50.5** (EVERY-10@2290 primary) · **REW omzet 14.72m / bruto~0.6x / PROFIT FLIP** · Village Liegeois · De Sprong · Borgerstein/WEBO · Posthoorn · Mobiel · Ateljee · Die Zukunft · A94 · De Dageraad · prior 2271-2280 Alternatief/AMAB/IN-Z stack retained · Walloon HVZ opacity stack · prior nuclear/Fluxys/Elia/Enodia · **LUWA PPP €590m** · private gambling **€31.5bn** market.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **university/city balance sheets** · **AGB/zorg dual + IGS/HVZ/CAW/CGG/woonmaatschappij/thuiszorg shells** · **NEW residual 2291-2300:** **De Kiem bruto 6.82m / omzet 5.13m ~1.33x / pnl DROP / FTE 66.9** (EVERY-10@2300 primary) · JOMI · De Okkernoot (~5.4x) · De Stobbe · SOBO · Ryhove (~2.2x) · Rozemarijn (~7.0x) · Mo-Clean · NLZ · Labor · Intro Schoonmaak · prior 2281-2290 REW/Op Maat/Buseloc stack retained · Walloon HVZ opacity stack · prior nuclear/Fluxys/Elia/Enodia · **LUWA PPP €590m** · private gambling **€31.5bn** market.
 
-**Change vs tick 2280:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10; Metro3/OWV snowball filtered as stock). Re-verified from leaderboard (corrupt AGB/scoring pi>10 / Metro3 stock / OWV snowball stock filtered off; seed/open TE-FFS rows retained for pure annual ranking). **Major NEW residual 2281-2290 (off pure top10 / dual):** De Dageraad · A94 · Die Zukunft · Ateljee · Posthoorn · Mobiel · Borgerstein/WEBO · De Sprong · Village Liegeois · **REW** · **Op Maat bruto 2.35m / empty omzet / pnl JUMP / FTE 50.5** (EVERY-10@2290 primary). Count NEW since 2280: ~11 residual dual fills. **Prior 2271-2280 stacks retained.** Not TE-additive of ~348bn.
+**Change vs tick 2290:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10; Metro3/OWV snowball filtered as stock). Re-verified from leaderboard (corrupt AGB/scoring pi>10 / Metro3 stock / OWV snowball stock filtered off; seed/open TE-FFS rows retained for pure annual ranking). **Major NEW residual 2291-2300 (off pure top10 / dual):** Intro Schoonmaak · Labor · NLZ · Mo-Clean · Rozemarijn · Ryhove · SOBO · De Stobbe · De Okkernoot · JOMI · **De Kiem bruto 6.82m / omzet 5.13m ~1.33x / pnl DROP / FTE 66.9** (EVERY-10@2300 primary). Count NEW since 2290: ~11 residual dual fills. **Prior 2281-2290 stacks retained.** Not TE-additive of ~348bn.
 
 ### High-absurdity residual (not pure top10)
 
-- **Op Maat** EVERY-10 primary bruto **EUR2.35m** / empty omzet / pnl JUMP **+29%** / FTE **50.5** — Kuurne PAB / persoonlijke assistentie opacity.
-- **REW** omzet **EUR14.72m** / bruto~**0.6x** / pnl PROFIT FLIP / FTE **35** — Wavre municipal DSO unlocked YE2025.
-- **Village Liegeois** bruto **EUR2.25m** / empty omzet / pnl DROP / FTE **58**.
-- **De Sprong** bruto **EUR4.53m** / empty omzet / FTE **111**.
-- **Borgerstein/WEBO** omzet **EUR14.70m** / bruto~**2.62x** / FTE **548**.
-- **Posthoorn** omzet **EUR1.94m** / bruto~**1.51x** / LOSS FLIP / FTE **82**.
-- **Atelier Alternatief** prior EVERY-10 bruto **EUR4.11m** / empty omzet / equity DROP **-30.5%** (retained).
-- **AMAB** / **IN-Z** prior large maatwerk LOSS paths retained.
+- **De Kiem** EVERY-10 primary bruto **EUR6.82m** / omzet **EUR5.13m** ~**1.33x** / pnl DROP **-51%** / FTE **66.9** — Gavere Flemish addiction residential care subsidy opacity.
+- **De Okkernoot** bruto **EUR13.44m** / ~**5.4x** omzet / pnl JUMP / FTE **143.3** — VAPH autism Pajottegem.
+- **Ryhove** bruto **EUR17.67m** / ~**2.2x** omzet / FTE **406.5** — Gent maatwerk.
+- **Rozemarijn** bruto **EUR5.96m** / ~**7.0x** omzet / pnl JUMP **+255%** — VAPH+maatwerk Keerbergen.
+- **NLZ** omzet **EUR11.25m** / bruto~**1.1x** / FTE **287.3** — Mechelen green maatwerk.
+- **SOBO** omzet **EUR2.45m** / bruto~**1.85x** / pnl DROP **-54%** — Brugge maatwerk.
+- **Op Maat** prior EVERY-10 bruto **EUR2.35m** / empty omzet / FTE **50.5** (retained).
+- **REW** prior omzet **EUR14.72m** / PROFIT FLIP (retained).

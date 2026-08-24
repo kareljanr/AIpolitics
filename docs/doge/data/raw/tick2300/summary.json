@@ -1,0 +1,25 @@
+{
+  "tick": "2300",
+  "unit": "rq_2300",
+  "entity": "vzw_de_kiem_gavere",
+  "kbo": "0445.151.311",
+  "every_10": true,
+  "omzet": 5126323,
+  "bruto": 6820218,
+  "pnl": 173737,
+  "equity": 2545514,
+  "fte": 66.9,
+  "ratio_bruto_omzet": 1.33,
+  "confidence": "medium",
+  "gap": "gap_kiem_nbb_pdf_assets_debt_bruto_gt_omzet_1_33x_pnl_drop_fte_jump_matrix_l5",
+  "pi": 5.35,
+  "inventory": {
+    "budgets": 53837,
+    "commitments": 6022,
+    "leaderboard": 8142,
+    "entities": 2046,
+    "sources": 6653,
+    "foi_total": 2023
+  },
+  "foi_ready": 1971
+}

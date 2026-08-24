@@ -26285,3 +26285,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+6); budgets (+6); commitments (+1); leaderboard (+1 pi 4.8); entities (+1 vzw_jomi_jobs_milieu_sint_niklaas); foi + draft gap_jomi_nbb_pdf_assets_debt_empty_omzet_bruto_1_98m_pnl_drop_33pct_fte_jump_matrix_l5; rq_2299=done + rq_2300 open; loop_state ticks=2299; raw docs/doge/data/raw/tick2299/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2300 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk Gandae-if-YE2025).
+
+### 2026-08-27T17:45:00Z - tick 2300 - EVERY-10 + rq_2300 De Kiem Gavere (bruto JUMP 6.82m / ~1.33x omzet / pnl DROP / FTE JUMP 66.9 / Medium)
+
+- **EVERY-10:** refreshed `progress_every_10_ticks.md` (layers A–E of EUR 347.956 bn TE) + `doge_waste_top10_current.md` (top 10 by priority_index; pure annual flow filter). Inventory budgets 53837+ / commitments 6022+ / leaderboard 8142+ / entities 2046+ / sources 6653+ / FOI ready ~1971.
+- Unit: **rq_2300** leftover dual after **JOMI@2299**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/Citeco/Groupe Foes still **YE2024**; Gandae still **YE2024**; Ocura/De Lovie/Haagwinde already mined or YE2024-Stopgezet. Took unused FREE Flemish addiction-care **De Kiem VZW** YE2025 (KBO **0445.151.311**; Vluchtenboerstraat 7A Gavere; **Actief** **8 VE**; RSZ **87.204**; admin@dekiem.be). Do not redo JOMI/De Stobbe/De Okkernoot/SOBO/Ryhove/Rozemarijn/Stroom stack.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR5126323** JUMP +7.89% vs YE2024 EUR4751364; bruto **EUR6820218** JUMP +10.91% (bruto/omzet ~1.33x); pnl **EUR173737** DROP -50.85%; equity **EUR2545514** JUMP +7.31%; FTE **66.9** JUMP (vs 62.9); neerlegging **15.06.2026**. Strong KBO Actief 8 VE VZW. Assets/debt Unknown. Medium. FOI via admin@dekiem.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.35); entities (+1 vzw_de_kiem_gavere); foi + draft gap_kiem_nbb_pdf_assets_debt_bruto_gt_omzet_1_33x_pnl_drop_fte_jump_matrix_l5; progress+waste top10; rq_2300=done + rq_2301 open; loop_state ticks=2300; raw docs/doge/data/raw/tick2300/.
+- FOI: **ready not sent** (human-gated).
+- **EVERY-10 done** (last was 2290; next **2310**). Next: rq_2301 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk Gandae).
+
+#### EVERY-10 brief (A/B/C/D/E)
+- **A:** 100% L0 TE EUR347.956bn Strong
+- **B:** 100% L1 subsector map Strong
+- **C:** ~99% L2 entity totals (order-of-magnitude); stalls AGB Bornem/FARO/AIESH YE2024
+- **D:** ~74-88% generous L5 named; residual dual NOT near-complete of 348bn
+- **E:** ~1971 FOI-ready; answered ~11; partial ~28

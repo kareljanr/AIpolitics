@@ -53836,3 +53836,9 @@ bud_de_okkernoot_pnl_jr2025_statutory,vzw_de_okkernoot_pajottegem,2025,2326835,,
 bud_de_okkernoot_equity_jr2025_statutory,vzw_de_okkernoot_pajottegem,2025,14663706,,,statutory_accounts,src_de_okkernoot_jr2025_cw_en,medium,tick2298; Medium CW; equity JUMP +17.99% vs YE2024 12427489
 bud_de_okkernoot_fte_jr2025_statutory,vzw_de_okkernoot_pajottegem,2025,143.3,,,statutory_accounts,src_de_okkernoot_jr2025_cw_en,medium,tick2298; Medium CW; FTE JUMP 143.3 vs YE2024 126.5; assets/debt Unknown
 bud_de_okkernoot_pnl_jr2024_statutory_cmp,vzw_de_okkernoot_pajottegem,2024,1088580,,,statutory_accounts,src_de_okkernoot_jr2025_cw_en,medium,tick2298; YE2024 pnl 1088580 comparative
+bud_kiem_omzet_jr2025_statutory,vzw_de_kiem_gavere,2025,5126323,,,statutory_accounts,src_kiem_jr2025_cw_en,medium,tick2300; Medium CW; omzet JUMP +7.89% vs YE2024 4751364
+bud_kiem_bruto_jr2025_statutory,vzw_de_kiem_gavere,2025,6820218,,,statutory_accounts,src_kiem_jr2025_cw_en,medium,tick2300; Medium CW; bruto JUMP +10.91% vs YE2024 6149206; bruto/omzet ~1.33x
+bud_kiem_pnl_jr2025_statutory,vzw_de_kiem_gavere,2025,173737,,,statutory_accounts,src_kiem_jr2025_cw_en,medium,tick2300; Medium CW; pnl DROP -50.85% vs YE2024 353491
+bud_kiem_equity_jr2025_statutory,vzw_de_kiem_gavere,2025,2545514,,,statutory_accounts,src_kiem_jr2025_cw_en,medium,tick2300; Medium CW; equity JUMP +7.31% vs YE2024 2372191
+bud_kiem_fte_jr2025_statutory,vzw_de_kiem_gavere,2025,66.9,,,statutory_accounts,src_kiem_jr2025_cw_en,medium,tick2300; Medium CW; FTE JUMP 66.9 vs YE2024 62.9; assets/debt Unknown
+bud_kiem_pnl_jr2024_statutory_cmp,vzw_de_kiem_gavere,2024,353491,,,statutory_accounts,src_kiem_jr2025_cw_en,medium,tick2300; YE2024 pnl 353491 comparative
