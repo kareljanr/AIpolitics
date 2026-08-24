@@ -25737,3 +25737,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.35); entities (+1 vzw_val_du_geer_bassenge); foi + draft gap_vdg_nbb_pdf_assets_debt_pnl_drop_22pct_fte_241_eta_matrix_l5; rq_2258=done + rq_2259 open; loop_state ticks=2258; raw docs/doge/raw/tick2258/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2250**; next **2260**). Next: rq_2259 (AGB/FARO-if-YE2025 / AIESH-REW / unused Erables).
+
+
+## Tick 2259 - 2026-08-27T06:55:00Z - rq_2259 Les Erables Tournai (omzet 4.63m / pnl DROP -89.41% / bruto~1.45x / FTE 180.1 / Medium)
+
+- Unit: **rq_2259** leftover dual after **rq_2258 Val du Geer**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Relais Haute Sambre still **YE2024**. Took named FREE Walloon ETA **Les Erables ASBL (C.A.V.A.)** YE2025 (KBO **0445.138.245**; Rue du Bois des Hospices 5 Tournai; **Actief** **1 VE**; NACE **88.993** AViQ). Do not redo Val du Geer/Nekto/Belair/Corelap stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR4627233** DROP -8.8% vs YE2024 EUR5073655; bruto **EUR6698079** DROP -5.57% (bruto≫omzet ~1.45x); pnl **EUR50897** DROP -89.41% vs YE2024 EUR480586; equity **EUR12024460** DROP -0.12%; FTE **180.1**; neerlegging **09.07.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@leserables.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.15); entities (+1 vzw_les_erables_tournai); foi + draft gap_erables_nbb_pdf_assets_debt_bruto_gt_omzet_1_45x_pnl_drop_89pct_eta_matrix_l5; rq_2259=done + rq_2260 open (EVERY-10); loop_state ticks=2259; raw docs/doge/raw/tick2259/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2250**; next **2260** MUST refresh progress + waste top10). Next: rq_2260.
