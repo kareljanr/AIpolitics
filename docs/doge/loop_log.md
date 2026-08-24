@@ -25845,3 +25845,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.55); entities (+1 vzw_louvroir_bruxelles); foi + draft gap_louvroir_nbb_pdf_assets_debt_bruto_gt_omzet_1_59x_pnl_profit_flip_eta_matrix_l5; rq_2268=done + rq_2269 open; loop_state ticks=2268; raw docs/doge/raw/tick2268/ + data/raw/tick2268/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2260**; next **2270** MUST). Next: rq_2269 (AGB/FARO-if-YE2025 / AIESH-REW / unused ETA-VAPH-WZC-maatwerk).
+
+
+
+### 2026-08-27T09:25:00Z - tick 2269 - rq_2269 Village n°1 Entreprises Braine-le-Château (omzet DROP 12.15m / bruto~1.49x / pnl LOSS FLIP / FTE 609.1 / Medium)
+
+- Unit: **rq_2269** leftover dual after **rq_2268 Trait d'Union + L'Ouvroir race**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024** (0201.712.587); Heropbeuring still **CW opaque**; Relais Haute Sambre/APN still **YE2024**. Took named FREE Walloon ETA **Village n°1 Entreprises ASBL** YE2025 (KBO **0411.648.501**; Avenue Reine Astrid 1 Braine-le-Château; **Actief** **1 VE**; NACE **88.999** AViQ). Deferred FREE **Les Amis des Aveugles** / **Les Hautes Ardennes** (YE2025 live). Do not redo Trait/Ouvroir/APRE/Renaitre/Stallbois stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR12147204** DROP -9.29% vs YE2024 EUR13390903; bruto **EUR18111184** DROP -3.54% (bruto÷omzet ~1.49x); pnl **EUR-255560** LOSS FLIP -768.55% vs YE2024 EUR38226; equity **EUR9034193** DROP -3.78%; FTE **609.1** (-1.5% vs 618.4); neerlegging **17.06.2026**. Strong KBO Actief 1 VE ASBL. Assets/debt Unknown. Medium. FOI via entreprises@levillage1.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.85); entities (+1 vzw_village_n1_entreprises_braine); foi + draft gap_village_n1_nbb_pdf_assets_debt_bruto_gt_omzet_1_49x_pnl_loss_flip_eta_matrix_l5; rq_2269=done + rq_2270 open EVERY-10; loop_state ticks=2269; raw docs/doge/raw/tick2269/ + data/raw/tick2269/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2260**; next **2270 MUST**). Next: rq_2270 EVERY-10 + Amis Aveugles/Hautes Ardennes YE2025.
