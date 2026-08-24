@@ -25134,3 +25134,16 @@ Append-only. Each tick adds a short entry.
 - FOI: none new this tick (prior Noordheuvel/Arcor/Kemphaan… ready not sent).
 - **EVERY-10 done.** Next every-10 **2220**. Next: rq_2211 (AGB/FARO-if-YE2025 / AIESH-REW / ACG-or-unused).
 
+
+## Tick 2210 - 2026-08-26T16:00:00Z - rq_2210 EVERY-10 + ACG Antwerpen (omzet DROP 7.49m / bruto≫omzet ~1.89x / pnl JUMP +69% / Medium)
+
+- Unit: **rq_2210 EVERY-10** after **rq_2209 Noordheuvel**. Refreshed progress_every_10_ticks.md + doge_waste_top10_current.md (top10 stable GIP/fossil/cars; Metro3/OWV stock-filtered). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; REW still **YE2024**. Took named FREE leftover **ACG VZW** YE2025 (KBO **0406.611.726**; Bosuil 138 Deurne; **Actief** **1 VE**; RSZ NACE **88.993**; full name Added value services Co-packing & Greencare). Do not redo Noordheuvel/Arcor/Kemphaan/Entiris/Oesterbank/Werkplus/Trianval/Ijsedal/De Kromme Boom/Aarova/Kaliber/MWP/De Winning/AGE/Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR7487615** DROP -15.9% vs YE2024 EUR8903501; bruto **EUR14175803** JUMP +0.23% (bruto≫omzet ~1.89x); pnl **EUR315317** JUMP +69.13% vs YE2024 EUR186431; equity **EUR18446566** JUMP +1.45%; FTE **372.5** JUMP vs 364.9; neerlegging **12.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@acgfab.be.
+- Wrote: progress+top10; sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 7.00); entities (+1 vzw_acg_antwerpen); foi + draft gap_acg_nbb_pdf_assets_debt_omzet_drop_bruto_gt_omzet_pnl_jump_matrix_l5; rq_2210=done + rq_2211 open; loop_state ticks=2210; raw docs/doge/data/raw/tick2210/.
+- FOI: **ready not sent** (human-gated).
+- **EVERY-10 done** (last was 2200; next **2220**). Next: rq_2211 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
+
+### 2026-08-26T16:05:00Z - tick 2210 race note
+- Concurrent agent closed rq_2210 as EVERY-10 progress-only (f04dea9f) without a unit fill. This agent filled named FREE **ACG** YE2025 Medium atop that + refreshed progress/top10 with ACG as EVERY-10 primary. Both kept. rq_2211 open head updated (ACG no longer FREE). Next every-10 still 2220.
+

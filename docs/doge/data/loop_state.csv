@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T16:00:00Z,rq_2210,2210,no,tick2210 EVERY-10 progress + waste top10 (top10 stable; residual dual 2201-2209 MWP/Aarova/Ijsedal/Werkplus/Oesterbank/Entiris/Kemphaan/Arcor/Noordheuvel); AGB Bornem JR2024; FARO/REW YE2024; ACG deferred; next rq_2211; next every-10 2220; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T16:00:00Z,rq_2210,2210,no,tick2210 EVERY-10 + leftover ACG 0406.611.726 Medium (omzet DROP 7.49m; bruto 14.18m ≫ omzet ~1.89x; pnl JUMP 315k +69%; equity JUMP 18.45m; FTE JUMP 372.5; 1 VE Deurne); AGB Bornem JR2024; FARO/REW YE2024; next rq_2211; next every-10 2220; continuous hole_fill
