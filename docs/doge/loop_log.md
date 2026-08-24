@@ -26142,3 +26142,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.8); entities (+1 vzw_labeur_gent); foi + draft gap_labeur_nbb_pdf_assets_debt_empty_omzet_bruto_2_17m_pnl_jump_fte_drop_matrix_l5; rq_2289=done + rq_2290 open (EVERY-10); loop_state ticks=2289; raw docs/doge/data/raw/tick2289/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2280**; next **2290** THIS NEXT). Next: rq_2290 EVERY-10 + AGB/FARO-if-YE2025 / AIESH-REW / Manupal-if-YE2025 / unused ETA-DSO-IGS.
+
+### 2026-08-27T15:00:00Z - tick 2290 - EVERY-10 + rq_2290 Op Maat Kuurne (bruto JUMP 2.35m / empty omzet / pnl JUMP / FTE 50.5 / Medium)
+
+- Unit: **rq_2290** EVERY-10 mandatory + leftover dual after **rq_2289 REW** (YE2025 unlocked). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Aralea/Manupal/De Ploeg/Vlotter/Buseloc still **YE2024**. Took FREE W-Vl PAB **Op Maat VZW** YE2025 (KBO **0841.138.864**; Twaalfde-Liniestraat 4/1 Kuurne; **Actief** **1 VE**; NACE **88.999**). Do not redo REW/Village Liegeois/De Sprong/Borgerstein/WEBO/Mobiel/Posthoorn stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR2347442** JUMP +10.86% vs YE2024 EUR2117574; pnl **EUR88925** JUMP +29.3% vs YE2024 EUR68775; equity **EUR914553** JUMP +10.77%; FTE **50.5** (vs 46.7); neerlegging **13.06.2026**. Strong KBO Actief 1 VE VZW info@vzwopmaat.be. Assets/debt Unknown. Medium.
+- EVERY-10: refreshed progress_every_10_ticks.md (layers A-E; inventory budgets 53775+/FOI ready ~1957) + doge_waste_top10_current.md (pure annual top10 stable GIP#1; residual 2281-2290 noted incl. REW unlock + Op Maat primary).
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 4.55); entities (+1 vzw_op_maat_kuurne); foi + draft gap_op_maat_*; progress + waste top10; rq_2290=done + rq_2291 open; loop_state ticks=2290; raw docs/doge/data/raw/tick2290/.
+- FOI: **ready not sent** (human-gated).
+- EVERY-10 THIS TICK (**last every-10 was 2280**; next **2300**). Next: rq_2291 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
+
