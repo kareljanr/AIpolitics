@@ -54042,3 +54042,8 @@ bud_tandem_omzet_jr2025_statutory,vzw_tandem_diepenbeek,2025,619036,619036,61903
 bud_tandem_pnl_jr2025_statutory,vzw_tandem_diepenbeek,2025,148672,148672,148672,CW statutory pnl YE2025 PROFIT FLIP,src_tandem_jr2025_cw_en,medium,tick2329; pnl 148672 PROFIT FLIP vs LOSS -125793
 bud_tandem_equity_jr2025_statutory,vzw_tandem_diepenbeek,2025,1854263,1854263,1854263,CW statutory equity YE2025,src_tandem_jr2025_cw_en,medium,tick2329; equity 1854263 JUMP +5.21% vs 1762426
 bud_tandem_fte_jr2025_statutory,vzw_tandem_diepenbeek,2025,52.8,52.8,52.8,CW FTE YE2025,src_tandem_jr2025_cw_en,medium,tick2329; FTE 52.8 vs 51.3
+bud_den_brand_omzet_jr2025_statutory,vzw_den_brand_mol,2025,1270740,1270740,1270740,CW statutory omzet YE2025 JUMP,src_den_brand_jr2025_cw_en,medium,tick2330; Medium CW; omzet +4.91% vs 1211312
+bud_den_brand_bruto_jr2025_statutory,vzw_den_brand_mol,2025,7222348,7222348,7222348,CW statutory bruto_marge YE2025 ~5.68x omzet,src_den_brand_jr2025_cw_en,medium,tick2330; Medium CW; bruto +5.05% vs 6874877
+bud_den_brand_pnl_jr2025_statutory,vzw_den_brand_mol,2025,226679,226679,226679,CW statutory winst/verlies YE2025 DROP,src_den_brand_jr2025_cw_en,medium,tick2330; Medium CW; pnl -22.95% vs 294196
+bud_den_brand_equity_jr2025_statutory,vzw_den_brand_mol,2025,5729856,5729856,5729856,CW statutory eigen_vermogen YE2025 JUMP,src_den_brand_jr2025_cw_en,medium,tick2330; Medium CW; equity +3.01% vs 5562533
+bud_den_brand_fte_jr2025_statutory,vzw_den_brand_mol,2025,89.4,89.4,89.4,CW social-balance FTE 89.4 JUMP,src_den_brand_jr2025_cw_en,medium,tick2330; Medium CW; FTE 89.4 vs 84.9

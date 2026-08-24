@@ -26628,3 +26628,10 @@ Append-only. Each tick adds a short entry.
 - Found: Companyweb NL+EN+FR YE2025 - omzet **EUR619036** JUMP +15.11%; bruto **EUR3920429** JUMP +7.5% (~**6.33x**); pnl **EUR148672** PROFIT FLIP (vs LOSS -125793); equity **EUR1854263** JUMP +5.21%; FTE **52.8**; neerlegging **28.05.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown. Medium. FOI via administratie@tandemvzw.be.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.9); entities (+1); foi + draft gap_tandem_nbb_pdf_assets_debt_bruto_gt_omzet_6_33x_pnl_profit_flip_vaph_matrix_l5; rq_2329=done + rq_2330 open (EVERY-10); loop_state ticks=2329.
 - FOI: **ready not sent**. NOT every-10 (next **2330** THIS next). Next: rq_2330.
+
+### 2026-08-28T01:00:00Z - tick 2330 - EVERY-10 + rq_2330 Mivalti Tielt (omzet JUMP 1.68m / bruto~6.82x / pnl JUMP / FTE 134.9 / Medium)
+
+- Unit: **rq_2330** EVERY-10 + leftover dual after Pleegzorg O-Vl / Tandem. Prefer NON-stall: AGB Bornem JR2024; FARO/AIESH YE2024. Took FREE Flemish VAPH **Mivalti VZW** YE2025 (KBO **0416.406.548**; Gruuthusestraat 36 Tielt; **Actief** **2 VE**; RSZ **87.202**).
+- Found: CW NL+EN+FR YE2025 — omzet **EUR1683253** JUMP +4.55%; bruto **EUR11487628** JUMP +8% (~**6.82x**); pnl **EUR470626** JUMP +26.88%; equity **EUR8134829** JUMP +6.19%; FTE **134.9**; neerlegging **16.06.2026**. Strong KBO. Assets/debt Unknown. Medium. FOI info@mivalti.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.95); entities (+1); foi ready; rq_2330=done + rq_2331 open; loop_state=2330; **progress_every_10_ticks.md** refreshed.
+- FOI: **ready not sent**. EVERY-10@2330 done; next EVERY-10 **2340**. Next: rq_2331.
