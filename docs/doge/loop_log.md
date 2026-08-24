@@ -24519,3 +24519,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.07); entities (+1 vzw_olv_kempen_ravels); foi + draft gap_olv_kempen_nbb_pdf_assets_debt_pnl_loss_narrow_omzet_jump_matrix_l5; progress_every_10_ticks.md + doge_waste_top10_current.md merged (Foyer De Lork + OLV Kempen); rq_2160=done (race with Lork) + rq_2161 open; loop_state ticks=2160; raw docs/doge/data/raw/tick2160/.
 - FOI: **ready not sent** (human-gated).
 - **EVERY-10@2160** (last was 2150; **next 2170**). Layers A/B 100%; C ~99%; D ~74-88%; E ~1786 ready. Pure annual top10 stable. Next: rq_2161 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros).
+
+## Tick 2161 - 2026-08-25T23:40:00Z - rq_2161 Woonzorgnet-Dijleland (omzet JUMP 29.37m / pnl LOSS flip -923k / Medium)
+
+- Unit: **rq_2161** leftover dual after **rq_2160 Foyer De Lork EVERY-10** (loop_state also showed concurrent OLV Kempen as 2160). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took named deferred unused leftover **Woonzorgnet-Dijleland VZW** YE2025 (KBO **0500.952.540**; Wingerdstraat 14 Leuven; **VZW** NACE **87.101** / **5 VE**; **aanbestedende overheid**; Ter Meeren/Keyhof path). Do not redo Foyer De Lork/OLV Kempen/HERTOG JAN/Lindeboom/Epinette/Parc de Forest/Le Hanois/Eycken Brug/Sint-Felix/HVZ stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR29365960** JUMP +1.07%; bruto **EUR30398232** JUMP +0.28%; pnl **EUR-923158** LOSS FLIP from YE2024 PROFIT EUR3354735; equity **EUR34409304** DROP -5.10%; FTE **366.1**; neerlegging **15.08.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@wznd.be (tel 016 28 47 90).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.0); entities (+1 vzw_woonzorgnet_dijleland); foi + draft gap_wznd_nbb_pdf_assets_debt_pnl_loss_flip_persite_matrix_l5; rq_2161=done + rq_2162 open; loop_state ticks=2161; raw docs/doge/data/raw/tick2161/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2162 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
