@@ -6,34 +6,34 @@
 
 ---
 
-## Snapshot at **tick 2370** (2026-08-24)
+## Snapshot at **tick 2380** (2026-08-24)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
-| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 2361-2370 continuum; AGB Bornem / FARO / AIESH still YE2024 stalls; **CAR Bolt unlocked YE2025@2370** |
-| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 2361-2370 residual dual L5 (not near-complete of 348bn):** De Elfjes · De Steijgertjes · De Steijger · Kapelhof · TKDV Het Veer · Wegwijs · SIG · DIGOR · Mozaiek · EVERY-10 primary **CAR Bolt omzet 2.10m / 1.95m kapitaalsubsidies JUMP +83% / pnl DROP -60% / cash DROP -29%** (Strong PDF) |
-| **E. FOI-ready gaps** | **~2054** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2106** |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 2371-2380 continuum; AGB Bornem / FARO / AIESH still YE2024 stalls; **WZC Sint-Vincentius Zulte unlocked YE2025@2380** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 2371-2380 residual dual L5 (not near-complete of 348bn):** Impuls · Buggenhout · Sint-Lievenspoort · Inkendaal · Pulderbos · MKL · NMSC · Heropbeuring · Floordam · EVERY-10 primary **WZC Sint-Vincentius Zulte omzet 6.92m / 73 1.17m / pnl LOSS 0.36m / destin empty** (Strong PDF) |
+| **E. FOI-ready gaps** | **~2064** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2116** |
 
-**Off-TE (do not mix into 348 bn):** federal taxex · company cars/cheque · **AGB/zorg/APB/EVA/IGS dual + WZC/HVZ/VAPH/maatwerk/CAR shells** (**NEW 2361-2370** De Elfjes · De Steijgertjes · De Steijger · Kapelhof · TKDV Het Veer · Wegwijs · SIG · DIGOR · Mozaiek · **CAR Bolt**) · Metro3 · OWV snowball · Hedera.
+**Off-TE (do not mix into 348 bn):** federal taxex · company cars/cheque · **AGB/zorg/APB/EVA/IGS dual + WZC/HVZ/VAPH/maatwerk/CAR shells** (**NEW 2371-2380** Impuls · Buggenhout · Sint-Lievenspoort · Inkendaal · Pulderbos · MKL · NMSC · Heropbeuring · Floordam · **WZC Sint-Vincentius Zulte**) · Metro3 · OWV snowball · Hedera.
 
-### Inventory (tick 2370)
+### Inventory (tick 2380)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | 54314 |
-| commitments.csv | 6107 |
-| leaderboard.csv | 8227 |
-| entities.csv | 2126 |
-| sources.csv | 7049 |
-| FOI ready | 2054 |
+| budgets.csv | 54414 |
+| commitments.csv | 6117 |
+| leaderboard.csv | 8237 |
+| entities.csv | 2136 |
+| sources.csv | 7089 |
+| FOI ready | 2064 |
 | FOI answered | 11 |
 | FOI partial | 28 |
-| FOI total rows | 2106 |
-| research_queue open | rq_2371 after CAR Bolt EVERY-10 (+ rq_116 deferred Q4) |
+| FOI total rows | 2116 |
+| research_queue open | rq_2381 after Sint-Vincentius Zulte EVERY-10 (+ rq_116 deferred Q4) |
 
-### What improved since tick 2360 / last file refresh 2360
+### What improved since tick 2370 / last file refresh 2370
 
-- **Residual dual (tick2361-2370):** same-zetel CAR+KDV+koepel cluster **De Elfjes / De Steijgertjes / De Steijger / Kapelhof / TKDV Het Veer / Wegwijs / SIG / DIGOR / Mozaiek** · EVERY-10 primary **CAR Bolt** (omzet **2.10m** / kapitaalsubsidies JUMP **1.95m +83%** / pnl DROP **−60%** / cash DROP **1.31m −29%** / gebouwen JUMP **3.82m** / Strong official PDF 2026-00073585; RIZIV 96518265; FOI ready). Named Drongen stack now exhausted except leftover Impuls / Buggenhout.
-- **Blocked still:** AGB Bornem JR2025 unpublished · FARO YE2024 · AIESH YE2024 · Gandae/Aralea/Manupal/Vlotter YE2024.
+- **Residual dual (tick2371-2380):** leftover public CAR/hospital/WZC **Impuls / Buggenhout / Sint-Lievenspoort / Inkendaal / Pulderbos / MKL / NMSC / Heropbeuring / Floordam** · EVERY-10 primary **WZC Sint-Vincentius Zulte** (omzet **6.92m** / 73 **1.17m** DROP / pnl LOSS **0.36m** / destin 691 empty / fondsen 13 emptied **672k** / cash JUMP **0.25m +85%** / Strong official PDF 2026-00285601; Departement Zorg HCO 3762; FOI ready). Named+unnamed Drongen CARs exhausted. Steenokkerzeel leftover Floordam+NMSC taken.
+- **Blocked still:** AGB Bornem JR2025 unpublished · FARO YE2024 · AIESH YE2024 · Gandae/Aralea/Manupal/Vlotter YE2024 · Zeepreventorium YE2024.
