@@ -24850,3 +24850,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.5); entities (+1 vzw_mariasteen_hooglede); foi + draft gap_mariasteen_nbb_pdf_assets_debt_pnl_loss_bruto_gt_omzet_equity_drop_matrix_l5; rq_2186=done + rq_2187 open; loop_state ticks=2186; raw docs/doge/data/raw/tick2186/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2187 (AGB/FARO-if-YE2025 / AIESH-REW / Blankedale-Kringwinkel Antwerpen-De Wroeter-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2187 - 2026-08-26T08:20:00Z - rq_2187 Mirto (omzet DROP 6.59m / pnl LOSS -113k / bruto>omzet / Medium)
+
+- Unit: **rq_2187** leftover dual after **De Brug / Mariasteen**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still YE2024-class. Took named FREE leftover **Mirto VZW** YE2025 (KBO **0407.656.257**; Industriepark-Drongen 21 Gent; **VZW** RSZ NACE **88.993** / **4 VE**). Deferred FREE Blankedale / Kringwinkel Antwerpen / De Wroeter. Do not redo Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR6585087** DROP -3.51% vs YE2024 EUR6824280; bruto **EUR10031081** DROP -3.93% (bruto≫omzet); pnl **EUR-113147** LOSS IMPROVED +3.17% vs YE2024 EUR-116848 (3rd consecutive LOSS); equity **EUR5055657** DROP -2.48%; FTE **317.2** DROP vs 321.4; neerlegging **28.05.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 4 VE. FOI via info@mirto.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.8); entities (+1 vzw_mirto_gent); foi + draft gap_mirto_nbb_pdf_assets_debt_pnl_loss_bruto_gt_omzet_equity_drop_matrix_l5; rq_2187=done + rq_2188 open; loop_state ticks=2187; raw docs/doge/data/raw/tick2187/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2188 (AGB/FARO-if-YE2025 / AIESH-REW / Blankedale-Kringwinkel Antwerpen-De Wroeter-or-unused IGS-DSO-WZC-MRS-HVZ).

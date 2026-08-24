@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T08:00:00Z,rq_2186,2186,no,tick2186 leftover MARIASTEEN 0407.079.207 Medium (omzet JUMP 22.93m; bruto 29.77m ≫ omzet; pnl LOSS IMPROVED -222k from -367k; equity DROP 28.0m; FTE JUMP 877.7; 9 VE Hooglede); AGB Bornem JR2024; FARO last balance 2024; AIESH/REW stall; next rq_2187; next every-10 2190; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T08:20:00Z,rq_2187,2187,no,tick2187 leftover MIRTO 0407.656.257 Medium (omzet DROP 6.59m; bruto 10.03m ≫ omzet; pnl LOSS -113k 3rd year; equity DROP 5.06m; FTE DROP 317.2; 4 VE Gent); AGB Bornem JR2024; FARO YE2024; AIESH/REW stall; next rq_2188; next every-10 2190; continuous hole_fill
