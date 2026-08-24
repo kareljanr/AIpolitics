@@ -25465,3 +25465,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.50); entities (+1 vzw_entra_fleurus); foi + draft gap_entra_nbb_pdf_assets_debt_bruto_gt_omzet_eta_aviq_matrix_l5; rq_2235=done + rq_2236 open; loop_state ticks=2235; raw docs/doge/raw/tick2235/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2236 (AGB/FARO-if-YE2025 / AIESH-REW / Enghien-EntrAnam-or-unused).
+
+
+## Tick 2236 - 2026-08-27T00:40:00Z - rq_2236 L'Entraide Enghien (bruto≫omzet ~1.96x / equity JUMP +77% / Medium)
+
+- Unit: **rq_2236** leftover dual after **rq_2235 Entra**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**. Took named FREE leftover **L'Entraide Enghien / ETA Enghien ASBL** YE2025 (KBO **0407.598.255**; Avenue du Commerce 19 Enghien; **Actief** **1 VE**; RSZ NACE **88.993**). Deferred FREE **EntrAnam** / **IN-Z Genk**. Do not redo Entra/Het Rekreatief/Ateliers Tertre/Le Rucher/Travie/SDB stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2363211** JUMP +12.94% vs YE2024 EUR2092441; bruto **EUR4625722** JUMP +6.21% (bruto≫omzet ~1.96x); pnl **EUR153168** JUMP +124.7% vs YE2024 EUR68165; equity **EUR323288** JUMP +77.37%; FTE **123.5** JUMP vs 116.5; neerlegging **23.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via contact@etaenghien.com.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.20); entities (+1 vzw_entraide_enghien); foi + draft gap_enghien_nbb_pdf_assets_debt_bruto_gt_omzet_equity_jump_77pct_eta_matrix_l5; rq_2236=done + rq_2237 open; loop_state ticks=2236; raw docs/doge/raw/tick2236/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2237 (AGB/FARO-if-YE2025 / AIESH-REW / EntrAnam-IN-Z-or-unused).

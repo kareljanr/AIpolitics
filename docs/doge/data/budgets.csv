@@ -53368,3 +53368,9 @@ bud_entra_pnl_jr2025_statutory,vzw_entra_fleurus,2025,579837,579837,579837,CW st
 bud_entra_equity_jr2025_statutory,vzw_entra_fleurus,2025,12873938,12873938,12873938,CW statutory eigen_vermogen YE2025,src_entra_jr2025_cw_en,medium,tick2235; Medium CW; equity JUMP +3.98% vs YE2024 12380612
 bud_entra_fte_jr2025_statutory,vzw_entra_fleurus,2025,885.2,885.2,885.2,CW social-balance FTE 885.2,src_entra_jr2025_cw_en,medium,tick2235; Medium CW; FTE JUMP 885.2 vs YE2024 878.1; assets/debt Unknown
 bud_entra_omzet_jr2024_statutory_cmp,vzw_entra_fleurus,2024,27146011,27146011,27146011,CW statutory omzet YE2024 comparative,src_entra_jr2025_cw_en,medium,tick2235; YE2024 omzet 27146011 comparative
+bud_enghien_bruto_jr2025_statutory,vzw_entraide_enghien,2025,4625722,4625722,4625722,CW statutory bruto_marge YE2025 (primary; bruto≫omzet),src_enghien_jr2025_cw_en,medium,tick2236; Medium CW; bruto JUMP +6.21% vs YE2024 4355191; bruto≫omzet ~1.96x
+bud_enghien_omzet_jr2025_statutory,vzw_entraide_enghien,2025,2363211,2363211,2363211,CW statutory omzet YE2025,src_enghien_jr2025_cw_en,medium,tick2236; Medium CW; omzet JUMP +12.94% vs YE2024 2092441
+bud_enghien_pnl_jr2025_statutory,vzw_entraide_enghien,2025,153168,153168,153168,CW statutory winst/verlies YE2025,src_enghien_jr2025_cw_en,medium,tick2236; Medium CW; pnl JUMP +124.7% vs YE2024 68165
+bud_enghien_equity_jr2025_statutory,vzw_entraide_enghien,2025,323288,323288,323288,CW statutory eigen_vermogen YE2025,src_enghien_jr2025_cw_en,medium,tick2236; Medium CW; equity JUMP +77.37% vs YE2024 182264
+bud_enghien_fte_jr2025_statutory,vzw_entraide_enghien,2025,123.5,123.5,123.5,CW social-balance FTE 123.5,src_enghien_jr2025_cw_en,medium,tick2236; Medium CW; FTE JUMP 123.5 vs YE2024 116.5; assets/debt Unknown
+bud_enghien_omzet_jr2024_statutory_cmp,vzw_entraide_enghien,2024,2092441,2092441,2092441,CW statutory omzet YE2024 comparative,src_enghien_jr2025_cw_en,medium,tick2236; YE2024 omzet 2092441 comparative
