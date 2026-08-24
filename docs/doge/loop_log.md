@@ -25646,3 +25646,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.20); entities (+1 sc_serviplast_bastogne); foi + draft gap_serviplast_nbb_pdf_assets_debt_pnl_loss_deepen_fte_drop_eta_matrix_l5; rq_2249=done + rq_2250 open (EVERY-10); loop_state ticks=2249; raw docs/doge/raw/tick2249/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2240**; next **2250** MUST refresh progress + waste top10). Next: rq_2250.
+
+
+### 2026-08-27T04:40:00Z - tick 2250 - rq_2250 EVERY-10 + Le Saupont Bertrix (omzet 23.12m / pnl DROP -51% / FTE DROP 370.9 / Medium)
+
+- **EVERY-10:** refreshed `progress_every_10_ticks.md` (A **100%** / B **100%** / C **~99%** / D **~74-88%** generous residual dual / E **~1903** FOI-ready) and `doge_waste_top10_current.md` (GIP #1; fossil/cars/cheque/reporté #2-10 stable; Saupont off pure top10). Next every-10: **2260**.
+- Unit: **rq_2250** leftover dual after **rq_2249 Serviplast**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**. Took named FREE Walloon ETA **Le Saupont SC** YE2025 (KBO **0407.713.665**; Rue de Lonnoux 2 Bertrix; **Actief** **2 VE**; NACE **88.993** AViQ). Deferred FREE Les Dauphins. Do not redo Serviplast/Jean Del'Cour/TRAVCO/Pilifs/Jeunes Jardiniers stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR23121199** DROP -0.39% vs YE2024 EUR23210949; bruto **EUR15310544** DROP -3.09%; pnl **EUR187782** DROP -51.15% vs YE2024 EUR384374; equity **EUR12695449** DROP -5.21%; FTE **370.9** DROP vs 382.7; neerlegging **23.07.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown. Medium. FOI via info@saupont.be.
+- Wrote: progress+top10; sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.25); entities (+1 sc_le_saupont_bertrix); foi + draft gap_saupont_nbb_pdf_assets_debt_pnl_drop_51pct_fte_drop_eta_matrix_l5; rq_2250=done + rq_2251 open; loop_state ticks=2250; raw docs/doge/raw/tick2250/.
+- FOI: **ready not sent** (human-gated).
+- EVERY-10@**2250** done. Next: rq_2251 (AGB/FARO-if-YE2025 / AIESH-REW / unused Dauphins). Next every-10 **2260**.
