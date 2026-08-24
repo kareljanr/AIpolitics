@@ -26675,3 +26675,10 @@ Append-only. Each tick adds a short entry.
 - Found: Companyweb NL+EN+FR YE2025 - omzet **EUR500791** JUMP +4.27%; bruto **EUR2864452** JUMP +3.04% (~**5.72x**); pnl **EUR-40024** LOSS FLIP (vs PROFIT 183071); equity **EUR4060369** DROP -2.04%; FTE **32.9** flat; neerlegging **01.07.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via onthaal@viernotelaars.be.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.9); entities (+1); foi + draft gap_vier_notelaars_nbb_pdf_assets_debt_bruto_gt_omzet_5_72x_pnl_loss_flip_vaph_matrix_l5; rq_2332=done + rq_2333 open; loop_state ticks=2332.
 - FOI: **ready not sent**. NOT every-10 (last **2330**; next **2340**). Next: rq_2333.
+
+### 2026-08-24T17:50:00Z - tick 2333 - rq_2333 De Vier Notelaars Schoten (bruto JUMP 2.86m / ~5.72x omzet / pnl LOSS FLIP / FTE 32.9 / Medium)
+
+- Unit: **rq_2333** leftover dual after **Alma@2332**. Prefer NON-stall AGB/FARO/AIESH **YE2024**. Took FREE Flemish VAPH **De Vier Notelaars VZW** YE2025 (KBO **0424.064.895**; Wijtschotbaan 12, 2900 Schoten; **Actief** **1 VE**; RSZ **87.202**; onthaal@viernotelaars.be).
+- Found: CW NL+EN YE2025 - omzet **EUR500791** JUMP +4.27%; bruto **EUR2864452** JUMP +3.04% (~**5.72x**); pnl **EUR-40024** LOSS FLIP; equity **EUR4060369** DROP -2.04%; FTE **32.9**; neerlegging **01.07.2026**. Strong KBO. Assets/debt Unknown. Medium.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.5); entities (+1); foi + draft gap_vier_notelaars_nbb_pdf_assets_debt_bruto_gt_omzet_5_72x_pnl_loss_flip_vaph_matrix_l5; rq_2333=done + rq_2334 open; loop_state ticks=2333; raw tick2333/.
+- FOI: **ready not sent**. NOT every-10 (next **2340**). Next: rq_2334.

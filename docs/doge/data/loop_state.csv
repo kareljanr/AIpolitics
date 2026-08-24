@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T13:45:00Z,rq_2332,2332,no,tick2332 leftover dual Vier Notelaars 0424.064.895 Medium (omzet JUMP 500791; bruto JUMP 2864452 ~5.72x; pnl LOSS FLIP -40024; equity DROP 4060369; FTE 32.9); after DenBrand/Mivalti@2330; AGB/FARO YE2024; next rq_2333; next EVERY-10 2340; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T17:50:00Z,rq_2333,2333,no,tick2333 leftover dual Vier Notelaars 0424.064.895 Medium (omzet JUMP 500791; bruto JUMP 2864452 ~5.72x; pnl LOSS FLIP -40024; equity DROP 4060369; FTE 32.9; 1 VE RSZ 87.202); after Alma@2332; AGB/FARO YE2024; next rq_2334; next EVERY-10 2340
