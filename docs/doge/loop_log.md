@@ -25537,3 +25537,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: EVERY-10 `progress_every_10_ticks.md` + `doge_waste_top10_current.md` (pure top10 stable); sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.25); entities (+1 vzw_eta123_beauraing); foi + draft gap_eta123_nbb_pdf_assets_debt_bruto_gt_omzet_1_51x_pnl_drop_47pct_eta_matrix_l5; rq_2240=done + rq_2241 open; loop_state ticks=2240; raw docs/doge/data/raw/tick2240/.
 - FOI: **ready not sent** (human-gated).
 - EVERY-10@**2240** done. Next: rq_2241 (AGB/FARO-if-YE2025 / AIESH-REW / unused). Next every-10 **2250**.
+
+
+## Tick 2240 - 2026-08-27T02:05:00Z - EVERY-10 + rq_2240 Axedis Wavre-Limal (bruto 4.55m / bruto≫omzet ~1.89x / FTE DROP 162.9 / Medium)
+
+- **EVERY-10:** refreshed `progress_every_10_ticks.md` (A **100%** / B **100%** / C **~99%** / D **~74-88%** generous residual dual / E **~1891** FOI-ready) and `doge_waste_top10_current.md` (GIP #1; fossil/cars/cheque/reporté #2–10 stable; Axedis off pure top10). Next every-10: **2250**.
+- Unit: **rq_2240** leftover dual after **rq_2239 Manufast**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (CW last balance 2024; JV2025 narrative only); AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**. Took FREE unused Walloon Brabant ETA **Axedis ASBL** YE2025 (KBO **0465.786.674**; Rue de la Station 13 Wavre; **Actief** **1 VE**; NACE **88.993**). Do not redo Manufast/Metalgroup/EntrAnam/Enghien/Entra/Ateliers Tertre/Het Rekreatief/Le Rucher stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2408882** JUMP +0.68% vs YE2024 EUR2392511; bruto **EUR4551309** JUMP +2.07% (bruto≫omzet ~1.89x); pnl **EUR79804** JUMP +11.56% vs YE2024 EUR71534; equity **EUR2163267** JUMP +3.37%; FTE **162.9** DROP vs 167.8; neerlegging **23.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@axedis-eta.be.
+- Wrote: progress+top10; sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.10); entities (+1 vzw_axedis_wavre); foi + draft gap_axedis_nbb_pdf_assets_debt_bruto_gt_omzet_1_89x_fte_drop_eta_matrix_l5; rq_2240=done + rq_2241 open; loop_state ticks=2240; raw docs/doge/raw/tick2240/.
+- FOI: **ready not sent** (human-gated).
+- EVERY-10 done. Next: rq_2241 (AGB/FARO-if-YE2025 / AIESH-REW / unused-ETA-VAPH-WZC-maatwerk). Next every-10 **2250**.
