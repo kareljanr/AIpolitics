@@ -26825,3 +26825,10 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN — omzet **EUR4261838**; bruto **EUR39202304** (~**9.2x**); pnl **EUR1955277** JUMP +121%; equity **EUR27357675**; FTE **468.6**; filed **2026-06-24**. Medium. Assets/debt Unknown.
 - Wrote: sources(+5) budgets(+5) commitments(+1) leaderboard(+1 pi 6.85) entities(+1) foi+draft; closed rq_2346; rq_2350=done + rq_2351 open; ticks=2347.
 - FOI: **ready not sent**. NOT every-10 (next **2350**). Next: rq_2351.
+
+### 2026-08-24T20:00:00Z — tick 2351 — rq_2351 De Korenbloem Kortrijk (omzet JUMP 12.56m / pnl LOSS FLIP / FTE 175.9 / Medium)
+
+- Unit: **rq_2351** leftover dual after **Leieborg@2350**. Prefer NON-stall AGB/FARO YE2024. Took FREE Flemish WZC **De Korenbloem VZW** YE2025 (KBO **0418.825.412**; Pieter de Conincklaan 12, 8500 Kortrijk; **Actief** **1 VE Aanbestedende**; RSZ **87.101**; info@dekorenbloem.net).
+- Found: CW NL+EN YE2025 — omzet **EUR12564145** JUMP +2.22%; bruto **EUR12311379**; pnl **EUR-360537** LOSS FLIP; equity **EUR8688763** DROP −4.9%; FTE **175.9** JUMP; neerlegging **03.06.2026**. Strong KBO. Assets/debt Unknown. Medium.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.15); entities (+1); foi + draft gap_korenbloem_nbb_pdf_assets_debt_omzet_12_56m_pnl_loss_flip_wzc_matrix_l5; rq_2351=done + rq_2352 open; loop_state ticks=2351; raw tick2351/.
+- FOI: **ready not sent**. NOT every-10 (next **2360**). Next: rq_2352.

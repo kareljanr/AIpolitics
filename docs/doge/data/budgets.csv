@@ -54148,3 +54148,8 @@ bud_leieborg_bruto_jr2025_statutory,vzw_leieborg_deinze,2025,39202304,39202304,3
 bud_leieborg_pnl_jr2025_statutory,vzw_leieborg_deinze,2025,1955277,1955277,1955277,CW statutory winst/verlies YE2025 JUMP +121%,src_leieborg_jr2025_cw_en,medium,tick2347; JUMP vs 884034
 bud_leieborg_equity_jr2025_statutory,vzw_leieborg_deinze,2025,27357675,27357675,27357675,CW statutory eigen_vermogen YE2025 JUMP,src_leieborg_jr2025_cw_en,medium,tick2347; +6.72% vs 25634305
 bud_leieborg_fte_jr2025_statutory,vzw_leieborg_deinze,2025,468.6,468.6,468.6,CW FTE 468.6,src_leieborg_jr2025_cw_en,medium,tick2347; JUMP vs 453.9
+bud_korenbloem_omzet_jr2025_statutory,vzw_de_korenbloem_kortrijk,2025,12564145,12564145,12564145,CW statutory omzet YE2025 JUMP,src_korenbloem_jr2025_cw_en,medium,tick2351; +2.22% vs 12291695
+bud_korenbloem_bruto_jr2025_statutory,vzw_de_korenbloem_kortrijk,2025,12311379,12311379,12311379,CW statutory bruto_marge YE2025 ~0.98x,src_korenbloem_jr2025_cw_en,medium,tick2351
+bud_korenbloem_pnl_jr2025_statutory,vzw_de_korenbloem_kortrijk,2025,-360537,-360537,-360537,CW statutory winst/verlies YE2025 LOSS FLIP,src_korenbloem_jr2025_cw_en,medium,tick2351; LOSS FLIP vs 73799
+bud_korenbloem_equity_jr2025_statutory,vzw_de_korenbloem_kortrijk,2025,8688763,8688763,8688763,CW statutory eigen_vermogen YE2025 DROP,src_korenbloem_jr2025_cw_en,medium,tick2351
+bud_korenbloem_fte_jr2025_statutory,vzw_de_korenbloem_kortrijk,2025,175.9,175.9,175.9,CW FTE 175.9 JUMP,src_korenbloem_jr2025_cw_en,medium,tick2351
