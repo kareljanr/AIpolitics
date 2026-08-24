@@ -54077,3 +54077,12 @@ bud_wwpa_omzet_jr2025_statutory,vzw_wwpa_de_okkernoot_pajottegem,2025,2488539,24
 bud_wwpa_pnl_jr2025_statutory,vzw_wwpa_de_okkernoot_pajottegem,2025,2326835,2326835,2326835,CW statutory pnl YE2025 JUMP,src_wwpa_jr2025_cw_en,medium,tick2333; pnl 2326835 JUMP +113.75% vs 1088580
 bud_wwpa_equity_jr2025_statutory,vzw_wwpa_de_okkernoot_pajottegem,2025,14663706,14663706,14663706,CW statutory equity YE2025 JUMP,src_wwpa_jr2025_cw_en,medium,tick2333; equity 14663706 JUMP +17.99% vs 12427489
 bud_wwpa_fte_jr2025_statutory,vzw_wwpa_de_okkernoot_pajottegem,2025,143.3,143.3,143.3,CW FTE YE2025 JUMP,src_wwpa_jr2025_cw_en,medium,tick2333; FTE 143.3 JUMP vs 126.5
+bud_konekt_bruto_jr2025_statutory,vzw_konekt_gent,2025,1871902,1871902,1871902,CW statutory bruto_marge YE2025 empty-omzet,src_konekt_jr2025_cw_en,medium,tick2336; +0.1% vs 1870020; omzet empty
+bud_konekt_pnl_jr2025_statutory,vzw_konekt_gent,2025,38075,38075,38075,CW statutory winst/verlies YE2025 DROP,src_konekt_jr2025_cw_en,medium,tick2336; -33% vs 56835
+bud_konekt_equity_jr2025_statutory,vzw_konekt_gent,2025,4726258,4726258,4726258,CW statutory eigen_vermogen YE2025 JUMP,src_konekt_jr2025_cw_en,medium,tick2336; +10.5% vs 4277210
+bud_konekt_fte_jr2025_statutory,vzw_konekt_gent,2025,24.5,24.5,24.5,CW FTE 24.5,src_konekt_jr2025_cw_en,medium,tick2336; DROP vs 25.0
+bud_apojo_omzet_jr2025_statutory,vzw_apojo_aarschot,2025,2657861,2657861,2657861,CW statutory omzet YE2025 JUMP +5.59%,src_apojo_jr2025_cw_en,medium,tick2336; vs 2517119
+bud_apojo_bruto_jr2025_statutory,vzw_apojo_aarschot,2025,20487636,20487636,20487636,CW statutory bruto YE2025 JUMP ~7.71x omzet,src_apojo_jr2025_cw_en,medium,tick2336; primary L5; vs 19481121
+bud_apojo_pnl_jr2025_statutory,vzw_apojo_aarschot,2025,523460,523460,523460,CW statutory pnl YE2025 DROP -21.33%,src_apojo_jr2025_cw_en,medium,tick2336; vs 665381
+bud_apojo_equity_jr2025_statutory,vzw_apojo_aarschot,2025,7966415,7966415,7966415,CW statutory eigen_vermogen YE2025 JUMP +29.13%,src_apojo_jr2025_cw_en,medium,tick2336; vs 6169398
+bud_apojo_fte_jr2025_statutory,vzw_apojo_aarschot,2025,248.2,248.2,248.2,CW social-balance FTE JUMP 248.2,src_apojo_jr2025_cw_en,medium,tick2336; vs 244.6

@@ -26710,3 +26710,10 @@ Append-only. Each tick adds a short entry.
 - Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2488539** JUMP +32.25%; bruto **EUR13441120** JUMP +28.04% (~**5.4x**); pnl **EUR2326835** JUMP +113.75%; equity **EUR14663706** JUMP +17.99%; FTE **143.3** JUMP; neerlegging **09.07.2026**. Strong KBO Actief Aanbestedende. Assets/debt Unknown. Medium. FOI via info@de-okkernoot.be.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.0); entities (+1); foi + draft gap_wwpa_nbb_pdf_assets_debt_bruto_gt_omzet_5_40x_pnl_jump_fte_jump_vaph_matrix_l5; rq_2333=done + rq_2334 open; loop_state ticks=2333.
 - FOI: **ready not sent**. NOT every-10 (next **2340**). Next: rq_2334.
+
+### 2026-08-24T13:50:00Z - tick 2336 - rq_2336 Apojo Aarschot (bruto JUMP 20.49m / ~7.71x omzet / pnl DROP / FTE JUMP 248.2 / Medium)
+
+- Unit: **rq_2336** leftover dual after **WWPA@2335**. Prefer NON-stall: AGB Bornem still **JR2024**; FARO/AIESH still **YE2024**. Took unused FREE Flemish VAPH **Apojo VZW** YE2025 (KBO **0411.972.262**; Langdorpsesteenweg 2, 3200 Aarschot; handelsnaam Huize Eigen Haard; **Actief** **1 VE**; RSZ **87.202**; vaph@apojo.be). Do not redo WWPA/GielsBos/Vier Notelaars/Mivalti/Den Brand stack.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR2657861** JUMP +5.59%; bruto **EUR20487636** JUMP +5.17% (~**7.71x**); pnl **EUR523460** DROP -21.33%; equity **EUR7966415** JUMP +29.13%; FTE **248.2** JUMP; neerlegging **07.07.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via vaph@apojo.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.17); entities (+1); foi + draft gap_apojo_nbb_pdf_assets_debt_bruto_gt_omzet_7_71x_pnl_drop_fte_jump_vaph_matrix_l5; rq_2336=done + rq_2337 open; loop_state ticks=2336.
+- FOI: **ready not sent**. NOT every-10 (last **2330**; next **2340**). Next: rq_2337.
