@@ -53965,3 +53965,7 @@ bud_olo_rotonde_omzet_jr2025_statutory,vzw_olo_rotonde_brasschaat,2025,7014913,7
 bud_olo_rotonde_pnl_jr2025_statutory,vzw_olo_rotonde_brasschaat,2025,1458369,1458369,1458369,CW statutory pnl YE2025 DROP,src_olo_rotonde_jr2025_cw_en,medium,tick2316; pnl 1458369 DROP -9.47% vs 1610841
 bud_olo_rotonde_equity_jr2025_statutory,vzw_olo_rotonde_brasschaat,2025,52557823,52557823,52557823,CW statutory equity YE2025,src_olo_rotonde_jr2025_cw_en,medium,tick2316; equity 52557823 JUMP +1.45% vs 51805076
 bud_olo_rotonde_fte_jr2025_statutory,vzw_olo_rotonde_brasschaat,2025,854.6,854.6,854.6,CW FTE YE2025,src_olo_rotonde_jr2025_cw_en,medium,tick2316; FTE 854.6 vs 834.0
+bud_homevil_bruto_jr2025_statutory,vzw_homevil_vilvoorde,2025,4124105,4124105,4124105,CW bruto YE2025 primary (omzet empty),src_homevil_jr2025_cw_en,medium,tick2318; bruto 4124105
+bud_homevil_pnl_jr2025_statutory,vzw_homevil_vilvoorde,2025,870902,870902,870902,CW pnl YE2025 JUMP +160%,src_homevil_jr2025_cw_en,medium,tick2318; pnl 870902 vs 334982
+bud_homevil_equity_jr2025_statutory,vzw_homevil_vilvoorde,2025,6296387,6296387,6296387,CW equity YE2025,src_homevil_jr2025_cw_en,medium,tick2318; equity 6296387
+bud_homevil_fte_jr2025_statutory,vzw_homevil_vilvoorde,2025,41.1,41.1,41.1,CW FTE YE2025,src_homevil_jr2025_cw_en,medium,tick2318; FTE 41.1 vs 39.6

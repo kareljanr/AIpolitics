@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T13:11:56Z,rq_2316,2316,no,tick2316 leftover dual Olo-Rotonde 0406.677.745 Medium (omzet JUMP 7014913; bruto JUMP 66852480 ~9.53x; pnl DROP 1458369; equity JUMP 52557823; FTE JUMP 854.6); after Havenzate@2315; AGB/FARO YE2024; next rq_2317; next EVERY-10 2320; continuous hole_fill
+main,continuous,hole_fill,2026-08-27T22:40:00Z,rq_2318,2318,no,tick2318 leftover dual Homevil 0420.610.608 Medium (omzet empty; bruto JUMP 4124105; pnl JUMP 870902 159.98%; equity JUMP 6296387; FTE JUMP 41.1; 1 VE Vilvoorde VAPH); after Schoonderhage@2317; AGB Bornem JR2024; FARO/AIESH YE2024; next rq_2319; next EVERY-10 2320; continuous hole_fill

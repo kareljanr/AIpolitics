@@ -26488,3 +26488,11 @@ Append-only. Each tick adds a short entry.
 - Found: Companyweb NL+EN YE2025 - omzet **EUR7014913** JUMP +8.67%; bruto **EUR66852480** JUMP +4.13% (~**9.53x**); pnl **EUR1458369** DROP -9.47%; equity **EUR52557823**; FTE **854.6**; neerlegging **19.06.2026**. Strong KBO. Assets/debt Unknown. Medium. FOI via info@olo-rotonde.be.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.55); entities (+1); foi + draft gap_olo_rotonde_nbb_pdf_assets_debt_bruto_gt_omzet_9_53x_pnl_drop_vaph_matrix_l5; rq_2316=done + rq_2317 open; loop_state ticks=2316.
 - FOI: **ready not sent**. NOT every-10 (next **2320**). Next: rq_2317.
+
+### 2026-08-27T22:40:00Z - tick 2318 - rq_2318 Homevil Vilvoorde (empty omzet / bruto JUMP 4.12m / pnl JUMP +160% / FTE JUMP 41.1 / Medium)
+
+- Unit: **rq_2318** leftover dual after **Schoonderhage@2317** (finish in_progress claim Homevil). Prefer NON-stall: AGB Bornem still **JR2024**; FARO/AIESH still **YE2024**; Manupal/Gandae still **YE2024**. Took FREE Flemish VAPH **Homevil VZW** YE2025 (KBO **0420.610.608**; Kursaalstraat 10, 1800 Vilvoorde; **Actief** **1 VE**; RSZ **87.202**; Aanbestedende overheid; info@homevil.be). Do not redo Schoonderhage/Ons Tehuis-Brabant/Havenzate/Iris/Hejmen/Domino stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **empty**; bruto **EUR4124105** JUMP +16.89% vs YE2024 EUR3528134; pnl **EUR870902** JUMP 159.98% vs YE2024 EUR334982; equity **EUR6296387** JUMP +14.95%; FTE **41.1** JUMP (vs 39.6); neerlegging **08.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@homevil.be.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.25); entities (+1 vzw_homevil_vilvoorde); foi + draft gap_homevil_nbb_pdf_assets_debt_empty_omzet_bruto_4_12m_pnl_jump_160pct_fte_jump_vaph_matrix_l5; rq_2318=done + rq_2319 open; loop_state ticks=2318; raw docs/doge/data/raw/tick2318/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2310**; next **2320**). Next: rq_2319.
