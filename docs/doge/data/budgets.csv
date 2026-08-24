@@ -53915,3 +53915,9 @@ bud_zewopa_equity_jr2025_statutory,vzw_zewopa_lier,2025,-1211742,-1211742,-12117
 bud_zewopa_fte_jr2025_statutory,vzw_zewopa_lier,2025,21.0,21.0,21.0,CW FTE YE2025 DROP,src_zewopa_jr2025_cw_en,medium,tick2309; FTE 21.0 DROP vs 26.9
 bud_zewopa_pnl_jr2024_statutory_cmp,vzw_zewopa_lier,2024,-100456,,,statutory_accounts,src_zewopa_jr2025_cw_en,medium,tick2309; YE2024 pnl LOSS comparative
 bud_zewopa_equity_jr2024_statutory_cmp,vzw_zewopa_lier,2024,-1278181,,,statutory_accounts,src_zewopa_jr2025_cw_en,medium,tick2309; YE2024 equity NEG comparative
+bud_willekom_omzet_jr2025_statutory_empty,vzw_willekom_mechelen,2025,,,,statutory_accounts,src_willekom_jr2025_cw_en,medium,tick2311; omzet unpublished
+bud_willekom_bruto_jr2025_statutory,vzw_willekom_mechelen,2025,3881710,,,statutory_accounts,src_willekom_jr2025_cw_en,medium,tick2311; bruto JUMP +5.41% vs 3682590
+bud_willekom_pnl_jr2025_statutory,vzw_willekom_mechelen,2025,385778,,,statutory_accounts,src_willekom_jr2025_cw_en,medium,tick2311; pnl JUMP +20.01% vs 321448
+bud_willekom_equity_jr2025_statutory,vzw_willekom_mechelen,2025,3119925,,,statutory_accounts,src_willekom_jr2025_cw_en,medium,tick2311; equity JUMP +13.69%
+bud_willekom_fte_jr2025_statutory,vzw_willekom_mechelen,2025,46.1,,,statutory_accounts,src_willekom_jr2025_cw_en,medium,tick2311; FTE 46.1 vs 46.7
+bud_willekom_pnl_jr2024_statutory_cmp,vzw_willekom_mechelen,2024,321448,,,statutory_accounts,src_willekom_jr2025_cw_en,medium,tick2311; YE2024 cmp

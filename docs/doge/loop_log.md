@@ -26412,3 +26412,10 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN+FR YE2025 — omzet **EUR1492730** JUMP +1.76%; bruto **EUR1602575** DROP −14.36%; pnl **EUR67635** PROFIT FLIP (vs LOSS −100456); equity **NEG EUR−1211742** IMPROVING +5.2%; FTE **21** DROP; filed **30.06.2026**. Assets/debt Unknown.
 - Wrote: sources (+6); budgets (+6); commitments (+1); leaderboard (+1 pi 4.9); entities (+1); foi + draft gap_zewopa_nbb_pdf_assets_debt_neg_equity_pnl_profit_flip_fte_drop_vaph_matrix_l5 ready NOT sent.
 - NOT every-10 (last **2300**; next **2310**). Next: rq_2310 (EVERY-10 + leftover dual).
+
+### 2026-08-27T21:00:00Z - tick 2311 - rq_2311 Willekom Mechelen (bruto JUMP 3.88m / empty omzet / pnl JUMP +20% / FTE 46.1 / Medium)
+
+- Unit: **rq_2311** hole-fill while **rq_2310 Havenzate EVERY-10** still in_progress elsewhere. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH still **YE2024**; Gandae still **YE2024**. Took unused FREE Flemish VAPH **Willekom VZW** YE2025 (KBO **0444.960.972**; Lakenmakersstraat 196/A Mechelen; **2 VE**; RSZ **87.201**; info@willekom.be). Do not redo Havenzate/Zewopa/Huis in de Stad/Katrinahof/Alvinnenberg/TMK/Kompas stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR3881710** JUMP +5.41% vs YE2024 EUR3682590; pnl **EUR385778** JUMP +20.01%; equity **EUR3119925** JUMP +13.69%; FTE **46.1** (vs 46.7); neerlegging **08.04.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown. Medium.
+- Wrote: sources (+6); budgets (+6); commitments (+1); leaderboard (+1 pi 4.85); entities (+1 vzw_willekom_mechelen); foi + draft gap_willekom_nbb_pdf_assets_debt_empty_omzet_bruto_3_88m_pnl_jump_vaph_matrix_l5; rq_2311=done + rq_2312 open; loop_state ticks=2311.
+- FOI: **ready not sent**. EVERY-10 may complete via Havenzate@2310; else next **2320**. Next: rq_2312.
