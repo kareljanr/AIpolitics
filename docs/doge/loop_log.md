@@ -25565,3 +25565,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.40); entities (+1 vzw_latelier_namur); foi + draft gap_latelier_nbb_pdf_assets_debt_bruto_gt_omzet_2_07x_pnl_loss_flip_eta_matrix_l5; rq_2241=done + rq_2242 open; loop_state ticks=2241; raw docs/doge/raw/tick2241/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2240**; next **2250**). Next: rq_2242 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
+
+
+## Tick 2242 - 2026-08-27T02:40:00Z - rq_2242 ETA Le Perron Liège (bruto 4.00m / bruto≫omzet ~1.7x / FTE JUMP 90 / Medium)
+
+- Unit: **rq_2242** leftover dual after **rq_2241 L'Atelier**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Jean Gielen still YE2024. Took named FREE Liège ETA **Le Perron ASBL** YE2025 (KBO **0404.225.130**; Boulevard Sainte-Beuve 31A Liège; **Actief** **1 VE**; NACE **88.993** AViQ). Do not redo L'Atelier/Axedis/ETA123/Manufast stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2357524** JUMP +7.36% vs YE2024 EUR2195929; bruto **EUR4004628** JUMP +12% (bruto≫omzet ~1.7x); pnl **EUR330810** JUMP +6.46%; equity **EUR6018954** JUMP +5.53%; FTE **90.0** JUMP vs 88.8; neerlegging **29.04.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@leperron.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.00); entities (+1 vzw_eta_le_perron_liege); foi + draft gap_le_perron_nbb_pdf_assets_debt_bruto_gt_omzet_1_70x_fte_jump_eta_matrix_l5; rq_2242=done + rq_2243 open; loop_state ticks=2242; raw docs/doge/raw/tick2242/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2240**; next **2250**). Next: rq_2243 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
