@@ -25637,3 +25637,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.30); entities (+1 vzw_jean_delcour_grace_hollogne); foi + draft gap_jean_delcour_nbb_pdf_assets_debt_bruto_gt_omzet_1_57x_fte_jump_548_eta_matrix_l5; rq_2248=done + rq_2249 open; loop_state ticks=2248; raw docs/doge/raw/tick2248/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2240**; next **2250**). Next: rq_2249 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
+
+
+## Tick 2249 - 2026-08-27T04:25:00Z - rq_2249 Serviplast Bastogne (omzet 5.85m / pnl LOSS DEEPEN / FTE DROP 144.1 / Medium)
+
+- Unit: **rq_2249** leftover dual after **rq_2248 Jean Del'Cour**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**. Took named FREE Walloon ETA **Serviplast SC** YE2025 (KBO **0416.287.970**; Rue du Marché Couvert 42 Bastogne; **Actief** **2 VE**; NACE **88.993** AViQ). Deferred FREE Le Saupont/Les Dauphins. Do not redo Jean Del'Cour/TRAVCO/Pilifs/Jeunes Jardiniers/La Lumière/APAM stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR5851312** DROP -5.18% vs YE2024 EUR6171128; bruto **EUR3087393** DROP -2.05%; pnl **EUR-353097** LOSS DEEPEN vs YE2024 EUR-322911; equity **EUR4562608** DROP -7.93%; FTE **144.1** DROP vs 157.5; neerlegging **18.05.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown. Medium. FOI via info@serviplast.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.20); entities (+1 sc_serviplast_bastogne); foi + draft gap_serviplast_nbb_pdf_assets_debt_pnl_loss_deepen_fte_drop_eta_matrix_l5; rq_2249=done + rq_2250 open (EVERY-10); loop_state ticks=2249; raw docs/doge/raw/tick2249/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2240**; next **2250** MUST refresh progress + waste top10). Next: rq_2250.
