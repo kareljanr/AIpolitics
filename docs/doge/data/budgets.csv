@@ -53818,3 +53818,5 @@ bud_sobo_pnl_jr2025_statutory,vzw_sobo_werk_brugge,2025,71897,71897,71897,CW pnl
 bud_sobo_equity_jr2025_statutory,vzw_sobo_werk_brugge,2025,1454952,1454952,1454952,CW equity YE2025,src_sobo_jr2025_cw_en,medium,tick2297; equity JUMP +5.2%
 bud_sobo_fte_jr2025_statutory,vzw_sobo_werk_brugge,2025,107.6,107.6,107.6,CW FTE 107.6,src_sobo_jr2025_cw_en,medium,tick2297; FTE JUMP 107.6 vs 107.1
 bud_sobo_pnl_jr2024_statutory_cmp,vzw_sobo_werk_brugge,2024,157239,157239,157239,CW pnl YE2024 cmp,src_sobo_jr2025_cw_en,medium,tick2297; YE2024 157239
+bud_stroom_fte_jr2025_statutory,vzw_stroom_maatwerk_antwerpen,2025,494.9,,,statutory_accounts,src_stroom_jr2025_cw_en,medium,tick2297; Medium CW; FTE JUMP 494.9 vs YE2024 489.0; assets/debt Unknown
+bud_stroom_pnl_jr2024_statutory_cmp,vzw_stroom_maatwerk_antwerpen,2024,440032,,,statutory_accounts,src_stroom_jr2025_cw_en,medium,tick2297; YE2024 pnl 440032 comparative

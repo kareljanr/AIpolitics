@@ -26261,3 +26261,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 4.65); entities (+1 vzw_de_stobbe_antwerpen); foi + draft gap_stobbe_*; rq_2296=done + rq_2297 open; loop_state ticks=2296.
 - FOI: **ready not sent**. NOT every-10 (next **2300**). Next: rq_2297.
 
+
+### 2026-08-27T17:00:00Z - tick 2297 - rq_2297 SOBO@werk Brugge (bruto 4.53m / omzet 2.45m ~1.85x / pnl DROP -54% / Medium)
+
+- Unit: **rq_2297** finish **in_progress** leftover dual after **rq_2296 Ryhove**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Aralea/Manupal/De Ploeg/Vlotter still **YE2024**. **Preferred stall unlocked:** SOBO now **YE2025** (claim notes still said YE2024). Took FREE Flemish maatwerk **SOBO@werk VZW** YE2025 (KBO **0863.423.427**; Pathoekeweg 9 A/7 Brugge; **Actief** **5 VE**; RSZ **88.993**). Do not redo Ryhove/Rozemarijn/Mo-Clean/Den Azalee/NLZ/Labor/Buseloc/Op Maat/REW stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2452992** DROP -1.67% vs YE2024 EUR2494768; bruto **EUR4528313** DROP -1.17% (~**1.85x**); pnl **EUR71897** DROP -54.28% vs YE2024 EUR157239; equity **EUR1454952** JUMP +5.2%; FTE **107.6** (vs 107.1); neerlegging **01.06.2026**. Strong KBO Actief 5 VE VZW. Assets/debt Unknown. Medium. FOI via info@sobo.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.55); entities (+1 vzw_sobo_werk_brugge); foi + draft gap_sobo_nbb_pdf_assets_debt_bruto_gt_omzet_1_85x_pnl_drop_54pct_matrix_l5; rq_2297=done + rq_2298 open; loop_state ticks=2297; raw docs/doge/data/raw/tick2297/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2298 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
