@@ -24905,3 +24905,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.1); entities (+1 vzw_mivas_lier); foi + draft gap_mivas_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_jump_omzet_drop_matrix_l5; rq_2192=done + rq_2193 open; loop_state ticks=2192; raw docs/doge/data/raw/tick2192/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2193 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2193 - 2026-08-26T10:20:00Z - rq_2193 A-kwadraat (omzet JUMP 13.43m / bruto>omzet ~1.9x / Medium)
+
+- Unit: **rq_2193** leftover dual after **rq_2192 Mivas**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still YE2024-class. Took unused leftover **A-kwadraat VZW** YE2025 (KBO **0406.668.540**; Everdongenlaan 27 Turnhout; **VZW** RSZ NACE **88.993** / **5 VE**). Deferred FREE Forena / Kunnig. Do not redo Mivas/Demival/De Wroeter/Kringwinkel Antwerpen/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR13433258** JUMP +9.58% vs YE2024 EUR12258783; bruto **EUR25698142** JUMP +4.87% (bruto≫omzet ~1.91x); pnl **EUR406438** JUMP +9.78%; equity **EUR18020318** JUMP +2%; FTE **614.7** JUMP vs 606.9; neerlegging **30.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 5 VE. FOI via info@a-kwadraat.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.1); entities (+1 vzw_a_kwadraat_turnhout); foi + draft gap_a_kwadraat_nbb_pdf_assets_debt_bruto_gt_omzet_matrix_l5; rq_2193=done + rq_2194 open; loop_state ticks=2193; raw docs/doge/data/raw/tick2193/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2194 (AGB/FARO-if-YE2025 / AIESH-REW / Forena-Kunnig-or-unused IGS-DSO-WZC-MRS-HVZ).
