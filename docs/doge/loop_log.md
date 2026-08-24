@@ -25795,3 +25795,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.05); entities (+1 vzw_sipres_ghlin); foi + draft gap_sipres_nbb_pdf_assets_debt_bruto_gt_omzet_1_67x_eta_matrix_l5; rq_2264=done + rq_2265 open; loop_state ticks=2264; raw docs/doge/raw/tick2264/ + data/raw/tick2264/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2260**; next **2270**). Next: rq_2265 (AGB/FARO-if-YE2025 / AIESH-REW / Stallbois-APRE-Renaitre YE2025).
+
+
+
+### 2026-08-27T08:25:00Z - tick 2265 - rq_2265 Stallbois Etalle (omzet JUMP 4.00m / +4.47% / pnl LOSS NARROW / FTE 95.7 / Medium)
+
+- Unit: **rq_2265** leftover dual after **rq_2264 Sipres**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Relais Haute Sambre/APN still **YE2024**. Took named FREE Walloon ETA **Stallbois SC/CV** YE2025 (KBO **0407.149.877**; Zoning de Belle-Vue 2 Etalle; **Actief** **1 VE**; NACE **88.993** AViQ / Province Luxembourg). Deferred FREE **Brochage Renaitre** / **APRE** (both YE2025 live this tick). Do not redo Sipres/La Lorraine/BW Eupen/AJR/Alteria stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3999436** JUMP +4.47% vs YE2024 EUR3828140; bruto **EUR1795431** JUMP +16.53% (bruto÷omzet ~0.45x); pnl **EUR-174496** LOSS NARROW 9.12% vs YE2024 EUR-192014; equity **EUR3773006** DROP -9.68%; FTE **95.7** (-0.83% vs 96.5); neerlegging **30.06.2026**. Strong KBO Actief 1 VE SC/CV. Assets/debt Unknown. Medium. FOI via info@stallbois.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.95); entities (+1 sc_stallbois_etalle); foi + draft gap_stallbois_nbb_pdf_assets_debt_pnl_loss_narrow_equity_drop_eta_matrix_l5; rq_2265=done + rq_2266 open; loop_state ticks=2265; raw docs/doge/raw/tick2265/ + data/raw/tick2265/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2260**; next **2270**). Next: rq_2266 (AGB/FARO-if-YE2025 / AIESH-REW / APRE-Renaitre YE2025).
