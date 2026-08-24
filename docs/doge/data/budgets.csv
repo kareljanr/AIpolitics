@@ -53820,3 +53820,13 @@ bud_sobo_fte_jr2025_statutory,vzw_sobo_werk_brugge,2025,107.6,107.6,107.6,CW FTE
 bud_sobo_pnl_jr2024_statutory_cmp,vzw_sobo_werk_brugge,2024,157239,157239,157239,CW pnl YE2024 cmp,src_sobo_jr2025_cw_en,medium,tick2297; YE2024 157239
 bud_stroom_fte_jr2025_statutory,vzw_stroom_maatwerk_antwerpen,2025,494.9,,,statutory_accounts,src_stroom_jr2025_cw_en,medium,tick2297; Medium CW; FTE JUMP 494.9 vs YE2024 489.0; assets/debt Unknown
 bud_stroom_pnl_jr2024_statutory_cmp,vzw_stroom_maatwerk_antwerpen,2024,440032,,,statutory_accounts,src_stroom_jr2025_cw_en,medium,tick2297; YE2024 pnl 440032 comparative
+bud_stobbe_bruto_jr2025_statutory,vzw_de_stobbe_antwerpen,2025,2908874,2908874,2908874,CW statutory bruto_marge YE2025 (empty omzet),src_stobbe_jr2025_cw_en,medium,tick2298; Medium CW; bruto +0.84% vs 2884677
+bud_stobbe_pnl_jr2025_statutory,vzw_de_stobbe_antwerpen,2025,199594,199594,199594,CW statutory winst/verlies YE2025 DROP,src_stobbe_jr2025_cw_en,medium,tick2298; Medium CW; pnl -45.9% vs 368920
+bud_stobbe_equity_jr2025_statutory,vzw_de_stobbe_antwerpen,2025,3474700,3474700,3474700,CW statutory eigen_vermogen YE2025 JUMP,src_stobbe_jr2025_cw_en,medium,tick2298; Medium CW; equity +5.58% vs 3291058
+bud_stobbe_fte_jr2025_statutory,vzw_de_stobbe_antwerpen,2025,34.3,34.3,34.3,CW social-balance FTE 34.3,src_stobbe_jr2025_cw_en,medium,tick2298; Medium CW; FTE 34.3 vs 33.6
+bud_jomi_omzet_jr2025_statutory_empty,vzw_jomi_jobs_milieu_sint_niklaas,2025,,,,statutory_accounts,src_jomi_jr2025_cw_en,medium,tick2298; Medium CW; omzet unpublished / empty on CW YE2025
+bud_jomi_bruto_jr2025_statutory,vzw_jomi_jobs_milieu_sint_niklaas,2025,1975037,,,statutory_accounts,src_jomi_jr2025_cw_en,medium,tick2298; Medium CW; bruto JUMP +19.15% vs YE2024 1657656; empty omzet
+bud_jomi_pnl_jr2025_statutory,vzw_jomi_jobs_milieu_sint_niklaas,2025,60113,,,statutory_accounts,src_jomi_jr2025_cw_en,medium,tick2298; Medium CW; pnl DROP -32.96% vs YE2024 89667
+bud_jomi_equity_jr2025_statutory,vzw_jomi_jobs_milieu_sint_niklaas,2025,1463137,,,statutory_accounts,src_jomi_jr2025_cw_en,medium,tick2298; Medium CW; equity JUMP +3.97% vs YE2024 1407273
+bud_jomi_fte_jr2025_statutory,vzw_jomi_jobs_milieu_sint_niklaas,2025,46.2,,,statutory_accounts,src_jomi_jr2025_cw_en,medium,tick2298; Medium CW; FTE JUMP 46.2 vs YE2024 41.1; assets/debt Unknown
+bud_jomi_pnl_jr2024_statutory_cmp,vzw_jomi_jobs_milieu_sint_niklaas,2024,89667,,,statutory_accounts,src_jomi_jr2025_cw_en,medium,tick2298; YE2024 pnl 89667 comparative

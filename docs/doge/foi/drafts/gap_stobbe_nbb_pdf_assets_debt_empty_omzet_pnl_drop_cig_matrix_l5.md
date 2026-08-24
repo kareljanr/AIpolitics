@@ -5,7 +5,7 @@
 **entity:** De Stobbe VZW / CIG De Stobbe — KBO **0435.316.303** (Actief; Julius De Geyterstraat 57, 2020 Antwerpen; FTE 34.3 CW; CIG integrale gezinszorg)  
 **recipient:** destobbe@cigdestobbe.be · Julius De Geyterstraat 57, 2020 Antwerpen  
 **sources:** [CW EN](https://www.companyweb.be/en/0435316303/de-stobbe) · [CW NL](https://www.companyweb.be/nl/0435316303/de-stobbe) · [CW FR](https://www.companyweb.be/fr/0435316303/de-stobbe) · [KBO](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0435316303) · [site](https://www.cigdestobbe.be/) · [NBB](https://consult.cbso.nbb.be/consult-enterprise/0435316303)  
-**tick:** 2295  
+**tick:** 2298  
 **confidence:** Medium (Strong KBO + Medium CW YE2025; assets/debt Unknown)
 
 ## Context

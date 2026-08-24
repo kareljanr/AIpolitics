@@ -26269,3 +26269,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.55); entities (+1 vzw_sobo_werk_brugge); foi + draft gap_sobo_nbb_pdf_assets_debt_bruto_gt_omzet_1_85x_pnl_drop_54pct_matrix_l5; rq_2297=done + rq_2298 open; loop_state ticks=2297; raw docs/doge/data/raw/tick2297/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2298 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
+
+### 2026-08-27T17:15:00Z - tick 2298 - rq_2298 De Stobbe Antwerpen (bruto 2.91m / empty omzet / pnl DROP -46% / Medium)
+
+- Unit: **rq_2298** leftover dual after **rq_2297 SOBO**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**. Took FREE Flemish CIG **De Stobbe VZW** YE2025 (KBO **0435.316.303**; Julius De Geyterstraat 57 Antwerpen; **Actief**; CIG integrale gezinszorg). Do not redo SOBO/Ryhove/Rozemarijn/Mo-Clean/NLZ/Labor stack.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **unpublished**; bruto **EUR2908874** JUMP +0.84% vs YE2024 EUR2884677; pnl **EUR199594** DROP -45.9% vs YE2024 EUR368920; equity **EUR3474700** JUMP +5.58%; FTE **34.3** (vs 33.6); neerlegging **05.06.2026**. Strong KBO Actief VZW. Assets/debt Unknown. Medium. FOI via destobbe@cigdestobbe.be.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 4.65); entities (+1 vzw_de_stobbe_antwerpen); foi + draft gap_stobbe_nbb_pdf_assets_debt_empty_omzet_pnl_drop_cig_matrix_l5; rq_2298=done + rq_2299 open; loop_state ticks=2298; raw docs/doge/data/raw/tick2298/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2299 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
