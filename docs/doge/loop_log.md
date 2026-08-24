@@ -26228,3 +26228,19 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2296 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
 
+
+### 2026-08-27T16:15:00Z - tick 2295 - rq_2295 Rozemarijn Keerbergen (bruto 5.96m / omzet 0.85m ~7.0x / pnl JUMP +255% / Medium)
+
+- Unit: **rq_2295** finish **in_progress** leftover dual after **rq_2294 Mo-Clean**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Aralea/Manupal/De Ploeg/Vlotter still **YE2024**. Took claimed FREE Flemish VAPH/adapted-work **Rozemarijn VZW** YE2025 (KBO **0436.599.077**; Wageman 5 Keerbergen; **Actief** **2 VE**; RSZ **88.993**; Aanbestedende overheid). Do not redo Mo-Clean/Den Azalee/NLZ/Labor/Intro Schoonmaak/Buseloc/Op Maat/REW stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR851570** JUMP +10.15% vs YE2024 EUR773100; bruto **EUR5962647** JUMP +9.4% (~**7.0x**); pnl **EUR209245** JUMP +255.39% vs YE2024 EUR58877; equity **EUR5763526** JUMP +3.11%; FTE **62.2** DROP (vs 63.4); neerlegging **29.06.2026**. Strong KBO Actief 2 VE VZW. Assets/debt Unknown. Medium. FOI via info@vzwrozemarijn.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.8); entities (+1 vzw_rozemarijn_keerbergen); foi + draft gap_rozemarijn_nbb_pdf_assets_debt_bruto_gt_omzet_7_00x_pnl_jump_255pct_vaph_matrix_l5; rq_2295=done + rq_2296 open; loop_state ticks=2295; raw docs/doge/data/raw/tick2295/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2296 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
+
+### 2026-08-27T16:45:00Z - tick 2296 - rq_2296 Ryhove Gent (bruto JUMP 17.67m / ~2.2x omzet / pnl JUMP / FTE JUMP 406.5 / Medium)
+
+- Unit: **rq_2296** leftover dual after **Rozemarijn@2295**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW/Citeco/Groupe Foes still **YE2024**; Gandae/SOBO/APN still **YE2024**. Took unused FREE Flemish maatwerk **Ryhove VZW** YE2025 (KBO **0407.215.007**; Koningsdal 24 Gent; **Actief** **3 VE**; RSZ/BTW **88.993**; info@ryhove.be). Do not redo Rozemarijn/Mo-Clean/Den Azalee/NLZ/Waak/InterWest/BWB/Wroeter/Springplank/Ateljee/Borgerstein stack.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR8047721** JUMP +9.58% vs YE2024 EUR7344248; bruto **EUR17669323** JUMP +9.97% (bruto/omzet ~2.2x); pnl **EUR1330675** JUMP +30.54%; equity **EUR11953407** JUMP +11.56%; FTE **406.5** JUMP (vs 388.5); neerlegging **08.05.2026**. Strong KBO Actief 3 VE VZW. Assets/debt Unknown. Medium. FOI via info@ryhove.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.0); entities (+1 vzw_ryhove_gent); foi + draft gap_ryhove_nbb_pdf_assets_debt_bruto_gt_omzet_2_20x_pnl_jump_fte_jump_matrix_l5; rq_2296=done + rq_2297 open; loop_state ticks=2296; raw docs/doge/data/raw/tick2296/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2297 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk SOBO-Gandae).

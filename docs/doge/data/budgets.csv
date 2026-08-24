@@ -53806,3 +53806,9 @@ bud_rozemarijn_pnl_jr2025_statutory,vzw_rozemarijn_keerbergen,2025,209245,209245
 bud_rozemarijn_equity_jr2025_statutory,vzw_rozemarijn_keerbergen,2025,5763526,5763526,5763526,CW equity YE2025,src_rozemarijn_jr2025_cw_en,medium,tick2295; equity JUMP +3.11% vs 5589811
 bud_rozemarijn_fte_jr2025_statutory,vzw_rozemarijn_keerbergen,2025,62.2,62.2,62.2,CW FTE 62.2,src_rozemarijn_jr2025_cw_en,medium,tick2295; FTE DROP 62.2 vs 63.4
 bud_rozemarijn_pnl_jr2024_statutory_cmp,vzw_rozemarijn_keerbergen,2024,58877,58877,58877,CW pnl YE2024 cmp,src_rozemarijn_jr2025_cw_en,medium,tick2295; YE2024 58877
+bud_ryhove_omzet_jr2025_statutory,vzw_ryhove_gent,2025,8047721,,,statutory_accounts,src_ryhove_jr2025_cw_en,medium,tick2296; Medium CW; omzet JUMP +9.58% vs YE2024 7344248
+bud_ryhove_bruto_jr2025_statutory,vzw_ryhove_gent,2025,17669323,,,statutory_accounts,src_ryhove_jr2025_cw_en,medium,tick2296; Medium CW; bruto JUMP +9.97% vs YE2024 16067213; bruto/omzet ~2.2x
+bud_ryhove_pnl_jr2025_statutory,vzw_ryhove_gent,2025,1330675,,,statutory_accounts,src_ryhove_jr2025_cw_en,medium,tick2296; Medium CW; pnl JUMP +30.54% vs YE2024 1019355
+bud_ryhove_equity_jr2025_statutory,vzw_ryhove_gent,2025,11953407,,,statutory_accounts,src_ryhove_jr2025_cw_en,medium,tick2296; Medium CW; equity JUMP +11.56% vs YE2024 10715133
+bud_ryhove_fte_jr2025_statutory,vzw_ryhove_gent,2025,406.5,,,statutory_accounts,src_ryhove_jr2025_cw_en,medium,tick2296; Medium CW; FTE JUMP 406.5 vs YE2024 388.5; assets/debt Unknown
+bud_ryhove_pnl_jr2024_statutory_cmp,vzw_ryhove_gent,2024,1019355,,,statutory_accounts,src_ryhove_jr2025_cw_en,medium,tick2296; YE2024 pnl 1019355 comparative
