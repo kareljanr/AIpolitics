@@ -25098,3 +25098,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2207 (AGB/FARO-if-YE2025 / AIESH-REW / Kemphaan-Arcor-Noordheuvel-or-unused).
 
+
+## Tick 2207 - 2026-08-26T15:00:00Z - rq_2207 De Kemphaan Hamme (omzet JUMP 2.79m / bruto≫omzet ~1.96x / pnl JUMP +75% / FTE DROP / Medium)
+
+- Unit: **rq_2207** leftover dual after **rq_2206 Entiris**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (CW fetch aborted); REW still **YE2024**. Took named FREE leftover **Maatwerkbedrijf De Kemphaan VZW** YE2025 (KBO **0425.803.472**; Aartstraat 57 Hamme; **Actief** **2 VE**; RSZ NACE **88.993**). Deferred FREE Arcor/Noordheuvel YE2025; Odas still YE2024-only. Do not redo Entiris/Oesterbank/Werkplus/Trianval/Ijsedal/De Kromme Boom/Aarova/Kaliber/MWP Pajottenland/De Winning/Atelier Groot Eiland/Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2792424** JUMP +17.28% vs YE2024 EUR2381029; bruto **EUR5480955** JUMP +8.13% (bruto≫omzet ~1.96x); pnl **EUR440045** JUMP +74.59% vs YE2024 EUR252045; equity **EUR6209306** JUMP +7.52%; FTE **158.1** DROP vs 163.5; neerlegging **12.06.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown. Medium. FOI via info@dekemphaan.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.70); entities (+1 vzw_de_kemphaan_hamme); foi + draft gap_kemphaan_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_jump_fte_drop_matrix_l5; rq_2207=done + rq_2208 open; loop_state ticks=2207; raw docs/doge/data/raw/tick2207/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2208 (AGB/FARO-if-YE2025 / AIESH-REW / Arcor-Noordheuvel-or-unused).
+

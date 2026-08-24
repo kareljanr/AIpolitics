@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T14:40:00Z,rq_2206,2206,no,tick2206 leftover Entiris 0407.841.151 Medium (omzet JUMP 18.93m; bruto 45.24m ≫ omzet ~2.39x; pnl DROP 3.27m -3.87%; equity JUMP 92.29m; FTE JUMP 1448.5; 7 VE Leuven); AGB Bornem JR2024; FARO/REW YE2024; next rq_2207; next every-10 2210; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T15:00:00Z,rq_2207,2207,no,tick2207 leftover Kemphaan 0425.803.472 Medium (omzet JUMP 2.79m; bruto 5.48m ≫ omzet ~1.96x; pnl JUMP 440k +75%; equity JUMP 6.21m; FTE DROP 158.1; 2 VE Hamme); AGB Bornem JR2024; FARO/REW YE2024; next rq_2208; next every-10 2210; continuous hole_fill
