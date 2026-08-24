@@ -25628,3 +25628,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.20); entities (+1 vzw_ate_ensival_verviers); foi + draft gap_ate_ensival_nbb_pdf_assets_debt_bruto_gt_omzet_2_47x_pnl_jump_171pct_fte_drop_eta_matrix_l5; rq_2248=done + rq_2249 open; loop_state ticks=2248; raw docs/doge/raw/tick2248/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2240**; next **2250**). Next: rq_2249 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
+
+
+## Tick 2248 - 2026-08-27T04:10:00Z - rq_2248 Jean Del'Cour Grâce-Hollogne (bruto 21.81m / bruto≫omzet ~1.57x / FTE JUMP 548 / Medium)
+
+- Unit: **rq_2248** leftover dual after **rq_2247 TRAVCO**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Groupe FOES still **YE2024**. Took FREE unused large Walloon ETA **Jean Del'Cour ASBL** YE2025 (KBO **0407.410.490**; Rue de l'Expansion 29 Grâce-Hollogne; **Actief** **4 VE**; NACE **88.993** AViQ). Do not redo TRAVCO/Pilifs/Jeunes Jardiniers/La Lumière/APAM/Jean Gielen/Le Perron/L'Atelier/Axedis/ETA123 stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR13917312** JUMP +2% vs YE2024 EUR13670459; bruto **EUR21813084** JUMP +3% (bruto≫omzet ~1.57x); pnl **EUR189058** JUMP +23%; equity **EUR3135044** JUMP +2%; FTE **548.0** JUMP vs 535.6; neerlegging **05.05.2026**. Strong KBO Actief 4 VE. Assets/debt Unknown. Medium. FOI via info@jean-delcour.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.30); entities (+1 vzw_jean_delcour_grace_hollogne); foi + draft gap_jean_delcour_nbb_pdf_assets_debt_bruto_gt_omzet_1_57x_fte_jump_548_eta_matrix_l5; rq_2248=done + rq_2249 open; loop_state ticks=2248; raw docs/doge/raw/tick2248/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2240**; next **2250**). Next: rq_2249 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
