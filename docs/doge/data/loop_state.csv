@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T13:00:00Z,rq_2201,2201,no,tick2201 leftover MWP Pajottenland 0413.313.535 Medium (omzet JUMP 2.65m; bruto≫omzet ~1.76x 4.66m; pnl JUMP 136k +299%; equity JUMP 2.58m; FTE DROP 125; 1 VE Lennik); AGB Bornem JR2024; FARO/REW YE2024; AIESH 404; next rq_2202; next every-10 2210; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T13:20:00Z,rq_2202,2202,no,tick2202 leftover Kaliber 0407.201.941 Medium (omzet JUMP 6.38m +56%; bruto 10.60m ≫ omzet ~1.66x; pnl LOSS FLIP -155k; equity DROP 6.06m; FTE JUMP 283.7; KEMPA absorbed 30.12.2025; 2 VE Herentals); AGB Bornem JR2024; FARO/REW YE2024; next rq_2203; next every-10 2210; continuous hole_fill

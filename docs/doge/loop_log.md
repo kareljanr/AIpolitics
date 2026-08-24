@@ -25012,3 +25012,11 @@ Append-only. Each tick adds a short entry.
 
 ### 2026-08-26T13:05:00Z — tick 2201 race note
 - Concurrent agent also closed rq_2201 as De Winning Lummen (273bfda2) before/with MWP (e6e687bc). Both YE2025 Medium units kept. rq_2202 open head updated; do not redo either. Next every-10 still 2210.
+
+## Tick 2202 - 2026-08-26T13:20:00Z - rq_2202 Kaliber Herentals (omzet JUMP 6.38m +56% / pnl LOSS FLIP / KEMPA merger / Medium)
+
+- Unit: **rq_2202** leftover dual after **rq_2201 De Winning**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; REW still **YE2024**. Took named FREE leftover **Kaliber VZW** YE2025 (KBO **0407.201.941**; Herenthoutseweg 136 Herentals; **Actief** **2 VE**; RSZ NACE **88.993**; absorbed **KEMPA Products** 30.12.2025). Deferred FREE Kromme Boom. Do not redo De Winning/Atelier Groot Eiland/Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR6384439** JUMP +55.71% vs YE2024 EUR4100185; bruto **EUR10597344** JUMP +12.82% (bruto>omzet ~1.66x); pnl **EUR-154743** LOSS FLIP -145.7% vs YE2024 profit EUR338584; equity **EUR6056883** DROP -3.24%; FTE **283.7** JUMP vs 269.4; neerlegging **11.07.2026**. Strong KBO Actief 2 VE + KEMPA merger. Assets/debt Unknown. Medium. FOI via info@kalibermaatwerk.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.0); entities (+1 vzw_kaliber_herentals); foi + draft gap_kaliber_nbb_pdf_assets_debt_omzet_jump_pnl_loss_flip_kempa_merger_matrix_l5; rq_2202=done + rq_2203 open; loop_state ticks=2202; raw docs/doge/data/raw/tick2202/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2203 (AGB/FARO-if-YE2025 / AIESH-REW / Kromme Boom-or-unused IGS-DSO-WZC-MRS-HVZ).
