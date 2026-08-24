@@ -26277,3 +26277,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 4.65); entities (+1 vzw_de_stobbe_antwerpen); foi + draft gap_stobbe_nbb_pdf_assets_debt_empty_omzet_pnl_drop_cig_matrix_l5; rq_2298=done + rq_2299 open; loop_state ticks=2298; raw docs/doge/data/raw/tick2298/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2299 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
+
+### 2026-08-27T17:30:00Z - tick 2299 - rq_2299 JOMI Jobs & Milieu Sint-Niklaas (bruto JUMP 1.98m / empty omzet / pnl DROP -33% / FTE JUMP 46.2 / Medium)
+
+- Unit: **rq_2299** leftover dual after **De Stobbe@2298**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Gandae still **YE2024**. Took unused FREE Flemish groen-maatwerk **JOMI / Jobs & Milieu VZW** YE2025 (KBO **0465.817.952**; Driegaaienstraat 184 Sint-Niklaas; **Actief** **2 VE**; RSZ **88.993**; BTW **81.300**; info@jomi-vzw.be). Do not redo De Stobbe/SOBO/Ryhove/Rozemarijn/Mo-Clean/Den Azalee/NLZ/Labor/Intro/Buseloc/Ateljee/Borgerstein/Waak/InterWest/BWB/Wroeter/Springplank/Stroom stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR1975037** JUMP +19.15% vs YE2024 EUR1657656; pnl **EUR60113** DROP -32.96% vs YE2024 EUR89667; equity **EUR1463137** JUMP +3.97%; FTE **46.2** JUMP (vs 41.1); neerlegging **09.06.2026**. Strong KBO Actief 2 VE VZW. Assets/debt Unknown. Medium. FOI via info@jomi-vzw.be.
+- Wrote: sources (+6); budgets (+6); commitments (+1); leaderboard (+1 pi 4.8); entities (+1 vzw_jomi_jobs_milieu_sint_niklaas); foi + draft gap_jomi_nbb_pdf_assets_debt_empty_omzet_bruto_1_98m_pnl_drop_33pct_fte_jump_matrix_l5; rq_2299=done + rq_2300 open; loop_state ticks=2299; raw docs/doge/data/raw/tick2299/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2300 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk Gandae-if-YE2025).
