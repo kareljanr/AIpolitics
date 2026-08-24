@@ -24958,3 +24958,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.6); entities (+1 vzw_bwz_zottegem); foi + draft gap_bwz_nbb_pdf_assets_debt_pnl_drop_omzet_drop_matrix_l5; rq_2196=done + rq_2197 open; loop_state ticks=2196; raw docs/doge/data/raw/tick2196/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2197 (AGB/FARO-if-YE2025 / AIESH-REW / De Schakel-BosKat-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+## Tick 2197 - 2026-08-26T11:40:00Z - rq_2197 De Schakel Balen (bruto≫omzet ~7.3x / pnl DROP -49% / Medium)
+
+- Unit: **rq_2197** leftover dual after **rq_2196 BWZ Zottegem**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (NBB YE2024 filed 24.11.2025); REW still **YE2024**. Took named FREE leftover **De Schakel VZW Balen** YE2025 (KBO **0419.461.652**; Schakelveld 20 Balen; **VZW** BTW NACE **87.202** / RSZ NACE **88.993** / **2 VE**). Deferred FREE BosKat / Atelier Groot Eiland. Do not redo BWZ/Kunnig/SW-WEB/Mivas/De Wroeter/Kringwinkel/Bewel/Forena/A-kwadraat/Demival/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1152998** JUMP +5.54% vs YE2024 EUR1092441; bruto **EUR8401955** JUMP +4.38% (bruto≫omzet ~7.29x); pnl **EUR117525** DROP -48.91% vs YE2024 EUR230036; equity **EUR5997414** JUMP +0.37%; FTE **109.1** vs 104.8; neerlegging **16.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 2 VE. FOI via info@vzwdeschakel.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.4); entities (+1 vzw_de_schakel_balen); foi + draft gap_de_schakel_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_drop_matrix_l5; rq_2197=done + rq_2198 open; loop_state ticks=2197; raw docs/doge/data/raw/tick2197/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2198 (AGB/FARO-if-YE2025 / AIESH-REW / BosKat-AGE-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+## Tick 2197 - 2026-08-26T11:40:00Z - rq_2197 De Schakel Balen (omzet JUMP 1.15m / bruto>omzet ~7.3x / pnl DROP -49% / Medium)
+
+- Unit: **rq_2197** leftover dual after **rq_2196 BWZ**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH **404**; REW still **YE2024**. Took named FREE leftover **De Schakel VZW** YE2025 (KBO **0419.461.652**; Schakelveld 20 Balen; **VZW** BTW NACE **87.202** + RSZ NACE **88.993** / **2 VE**). Deferred FREE BosKat / Atelier Groot Eiland. Do not redo BWZ/Bewel/Kunnig/Forena/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel Antwerpen/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1152998** JUMP +5.54% vs YE2024 EUR1092441; bruto **EUR8401955** JUMP +4.38% (bruto>omzet ~7.29x); pnl **EUR117525** DROP -48.91% vs YE2024 EUR230036; equity **EUR5997414** JUMP +0.37%; FTE **109.1** JUMP vs 104.8; neerlegging **16.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 2 VE. FOI via info@vzwdeschakel.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.0); entities (+1 vzw_de_schakel_balen); foi + draft gap_de_schakel_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_drop_matrix_l5; rq_2197=done + rq_2198 open; loop_state ticks=2197; raw docs/doge/data/raw/tick2197/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2198 (AGB/FARO-if-YE2025 / AIESH-REW / BosKat-AGE-or-unused IGS-DSO-WZC-MRS-HVZ).
