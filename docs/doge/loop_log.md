@@ -25020,3 +25020,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.0); entities (+1 vzw_kaliber_herentals); foi + draft gap_kaliber_nbb_pdf_assets_debt_omzet_jump_pnl_loss_flip_kempa_merger_matrix_l5; rq_2202=done + rq_2203 open; loop_state ticks=2202; raw docs/doge/data/raw/tick2202/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2203 (AGB/FARO-if-YE2025 / AIESH-REW / Kromme Boom-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2202 - 2026-08-26T13:20:00Z - rq_2202 Aarova (omzet JUMP 5.62m / bruto≫omzet ~2.09x / pnl LOSS -139k / Medium)
+
+- Unit: **rq_2202** leftover dual after **rq_2201 MWP Pajottenland (+race De Winning)**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (CW laatste balansjaar 2024; NBB YE2024 filed 24.11.2025); AIESH/REW YE2024-class. Took named FREE leftover **Aarova VZW** YE2025 (KBO **0451.263.992**; Industriepark De Bruwaan 85 Oudenaarde; **VZW** RSZ NACE **88.993** / **6 VE**). Deferred FREE Kaliber (YE2024-only) / Oesterbank / Werkhuizen MIN. Do not redo MWP Pajottenland/De Winning/AGE/Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel Antwerpen/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR5621617** JUMP +5.12% vs YE2024 EUR5347759; bruto **EUR11761773** DROP -0.37% (bruto≫omzet ~2.09x); pnl **EUR-139353** LOSS improve +34.4% vs YE2024 EUR-212418; equity **EUR2474538** DROP -6.61%; FTE **306.2** JUMP vs 302.7; neerlegging **30.04.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 6 VE. FOI via info@aarova.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.8); entities (+1 vzw_aarova_oudenaarde); foi + draft gap_aarova_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_loss_matrix_l5; rq_2202=done + rq_2203 open; loop_state ticks=2202; raw docs/doge/data/raw/tick2202/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2203 (AGB/FARO-if-YE2025 / AIESH-REW / Kaliber-if-YE2025-or-unused IGS-DSO-WZC-MRS-HVZ).

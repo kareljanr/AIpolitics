@@ -1,4 +1,4 @@
-# tick2202 writer — Kaliber Herentals YE2025 Medium CW (omzet JUMP +56% / LOSS FLIP / KEMPA merger)
+# tick2202 writer — Aarova YE2025 Medium CW
 import csv
 import json
 from pathlib import Path
@@ -8,23 +8,23 @@ csv.field_size_limit(10**7)
 
 UTC = "2026-08-26T13:20:00Z"
 TICK = "2202"
-ENTITY = "vzw_kaliber_herentals"
-SRC_EN = "src_kaliber_jr2025_cw_en"
-COMM = "comm_kaliber_jr2025_statutory_maatwerk_omzet_jump_pnl_loss_flip_kempa_merger"
-LB = "lb_kaliber_omzet_jump_6_38m_pnl_loss_flip_kempa_merger_jr2025"
-GAP = "gap_kaliber_nbb_pdf_assets_debt_omzet_jump_pnl_loss_flip_kempa_merger_matrix_l5"
+ENTITY = "vzw_aarova_oudenaarde"
+SRC_EN = "src_aarova_jr2025_cw_en"
+COMM = "comm_aarova_jr2025_statutory_maatwerk_bruto_gt_omzet_pnl_loss"
+LB = "lb_aarova_omzet_5_62m_bruto_gt_omzet_pnl_loss_jr2025"
+GAP = "gap_aarova_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_loss_matrix_l5"
 
-OMZET = 6384439
-BRUTO = 10597344
-PNL = -154743
-EQUITY = 6056883
-FTE = 283.7
-OMZET24 = 4100185
-BRUTO24 = 9393390
-PNL24 = 338584
-EQUITY24 = 6259619
-FTE24 = 269.4
-RATIO = round(BRUTO / OMZET, 2)
+OMZET = 5621617
+BRUTO = 11761773
+PNL = -139353
+EQUITY = 2474538
+FTE = 306.2
+OMZET24 = 5347759
+BRUTO24 = 11804879
+PNL24 = -212418
+EQUITY24 = 2649644
+FTE24 = 302.7
+ENVELOPE = OMZET
 
 
 def append_csv(path, rows):
@@ -50,49 +50,49 @@ append_csv(
     "sources.csv",
     [
         {
-            "source_id": "src_kaliber_jr2025_cw_nl",
-            "title": "Companyweb NL Kaliber YE2025 statutory",
-            "url": "https://www.companyweb.be/nl/0407201941/kaliber",
+            "source_id": "src_aarova_jr2025_cw_nl",
+            "title": "Companyweb NL Aarova YE2025 statutory",
+            "url": "https://www.companyweb.be/nl/0451263992/aarova",
             "publisher": "Companyweb (NBB-derived)",
             "accessed_date": "2026-08-26",
             "source_class": "secondary_aggregator",
-            "notes": f"tick{TICK}; YE2025 omzet JUMP {OMZET} bruto JUMP {BRUTO} pnl LOSS FLIP {PNL} equity DROP {EQUITY} FTE JUMP {FTE}; neerlegging 11.07.2026; raw docs/doge/data/raw/tick2202/",
+            "notes": f"tick{TICK}; YE2025 omzet JUMP {OMZET} bruto {BRUTO} pnl LOSS {PNL} equity DROP {EQUITY} FTE {FTE}; neerlegging 30.04.2026; raw docs/doge/data/raw/tick2202/",
         },
         {
             "source_id": SRC_EN,
-            "title": "Companyweb EN Kaliber YE2025 statutory",
-            "url": "https://www.companyweb.be/en/0407201941/kaliber",
+            "title": "Companyweb EN Aarova YE2025 statutory",
+            "url": "https://www.companyweb.be/en/0451263992/aarova",
             "publisher": "Companyweb (NBB-derived)",
             "accessed_date": "2026-08-26",
             "source_class": "secondary_aggregator",
-            "notes": f"tick{TICK}; EN mirror YE2025 Medium; filed 11-07-2026; Turnover {OMZET} Profit/Loss {PNL} Equity {EQUITY} Employees {FTE}",
+            "notes": f"tick{TICK}; EN mirror YE2025 Medium; filed 30-04-2026; Turnover {OMZET} Profit/Loss {PNL} Equity {EQUITY} Gross margin {BRUTO} Employees {FTE}",
         },
         {
-            "source_id": "src_kaliber_jr2025_cw_fr",
-            "title": "Companyweb FR Kaliber YE2025 statutory",
-            "url": "https://www.companyweb.be/fr/0407201941/kaliber",
+            "source_id": "src_aarova_jr2025_cw_fr",
+            "title": "Companyweb FR Aarova YE2025 statutory",
+            "url": "https://www.companyweb.be/fr/0451263992/aarova",
             "publisher": "Companyweb (NBB-derived)",
             "accessed_date": "2026-08-26",
             "source_class": "secondary_aggregator",
-            "notes": f"tick{TICK}; FR mirror YE2025 Medium; Dernier bilan 2025",
+            "notes": f"tick{TICK}; FR mirror YE2025 Medium; CA {OMZET}",
         },
         {
-            "source_id": "src_kaliber_kbo_2202",
-            "title": "KBO Kaliber 0407.201.941 Actief VZW 2 VE Herentals KEMPA merger",
-            "url": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0407201941",
+            "source_id": "src_aarova_kbo_2202",
+            "title": "KBO Aarova 0451.263.992 Actief VZW 6 VE Oudenaarde",
+            "url": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=451263992",
             "publisher": "KBO FOD Economie",
             "accessed_date": "2026-08-26",
             "source_class": "official_register",
-            "notes": "tick2202; Actief VZW; Herenthoutseweg 136 2200 Herentals; 2 VE; RSZ NACE 88.993; absorbed KEMPA Products 0632.634.295 since 30.12.2025",
+            "notes": "tick2202; Actief VZW; Industriepark De Bruwaan 85 9700 Oudenaarde; 6 VE; RSZ NACE 88.993; BTW 18.120/56.111/14.210; dagelijks bestuur De Vleeschouwer Ellen sinds 01.07.2025",
         },
         {
-            "source_id": "src_kaliber_foi_contact_2202",
-            "title": "Kaliber FOI channel info@kalibermaatwerk.be",
-            "url": "https://kalibermaatwerk.be/",
-            "publisher": "Kaliber VZW",
+            "source_id": "src_aarova_foi_contact_2202",
+            "title": "Aarova FOI channel info@aarova.be",
+            "url": "https://www.aarova.be/",
+            "publisher": "Aarova VZW",
             "accessed_date": "2026-08-26",
             "source_class": "foi_contact",
-            "notes": "tick2202; info@kalibermaatwerk.be; +32 14 21 18 04; Herenthoutseweg 136 2200 Herentals",
+            "notes": "tick2202; info@aarova.be / privacy@aarova.be; Industriepark De Bruwaan 85 9700 Oudenaarde; 055 31 13 45",
         },
     ],
 )
@@ -101,7 +101,7 @@ append_csv(
     "budgets.csv",
     [
         {
-            "budget_id": "bud_kaliber_omzet_jr2025_statutory",
+            "budget_id": "bud_aarova_omzet_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
             "amount_eur": str(OMZET),
@@ -110,22 +110,22 @@ append_csv(
             "basis": "CW statutory omzet / Turnover YE2025",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "notes": f"tick{TICK}; Medium CW; omzet JUMP +55.71% vs YE2024 {OMZET24}; KEMPA merger 30.12.2025",
+            "notes": f"tick{TICK}; Medium CW; omzet JUMP +5.12% vs YE2024 {OMZET24}",
         },
         {
-            "budget_id": "bud_kaliber_bruto_jr2025_statutory",
+            "budget_id": "bud_aarova_bruto_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
             "amount_eur": str(BRUTO),
             "amount_min_eur": str(BRUTO),
             "amount_max_eur": str(BRUTO),
-            "basis": "CW statutory bruto_marge / Gross margin YE2025",
+            "basis": "CW statutory bruto_marge / Gross margin YE2025 (bruto≫omzet ~2.09x)",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "notes": f"tick{TICK}; Medium CW; bruto JUMP +12.82% vs YE2024 {BRUTO24}; bruto≫omzet (~{RATIO}x)",
+            "notes": f"tick{TICK}; Medium CW; bruto DROP -0.37% vs YE2024 {BRUTO24}; bruto≫omzet",
         },
         {
-            "budget_id": "bud_kaliber_pnl_jr2025_statutory",
+            "budget_id": "bud_aarova_pnl_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
             "amount_eur": str(PNL),
@@ -134,10 +134,10 @@ append_csv(
             "basis": "CW statutory winst / Profit-Loss after tax YE2025",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "notes": f"tick{TICK}; Medium CW; pnl LOSS FLIP -145.7% vs YE2024 profit {PNL24}",
+            "notes": f"tick{TICK}; Medium CW; pnl LOSS IMPROVE +34.4% vs YE2024 {PNL24} (still negative)",
         },
         {
-            "budget_id": "bud_kaliber_equity_jr2025_statutory",
+            "budget_id": "bud_aarova_equity_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
             "amount_eur": str(EQUITY),
@@ -146,10 +146,10 @@ append_csv(
             "basis": "CW statutory eigen_vermogen / Equity YE2025",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "notes": f"tick{TICK}; Medium CW; equity DROP -3.24% vs YE2024 {EQUITY24}",
+            "notes": f"tick{TICK}; Medium CW; equity DROP -6.61% vs YE2024 {EQUITY24}",
         },
         {
-            "budget_id": "bud_kaliber_fte_jr2025_statutory",
+            "budget_id": "bud_aarova_fte_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
             "amount_eur": str(FTE),
@@ -174,8 +174,6 @@ cash = {
     "2024_pnl": PNL24,
     "2024_equity": EQUITY24,
     "2024_fte": FTE24,
-    "absorbed_kempa": "0632.634.295",
-    "kempa_absorbed_date": "2025-12-30",
 }
 
 append_csv(
@@ -183,24 +181,24 @@ append_csv(
     [
         {
             "commitment_id": COMM,
-            "title": f"Kaliber Herentals YE2025 leftover dual (omzet JUMP 6.38m +56% / pnl LOSS FLIP -155k / KEMPA merger / bruto≫omzet ~{RATIO}x)",
+            "title": "Aarova YE2025 leftover dual (omzet JUMP 5.62m / bruto≫omzet ~2.09x / pnl LOSS -139k)",
             "entity_id": ENTITY,
-            "beneficiary": "maatwerkers / logistics-packaging clients Antwerpen Herentals",
-            "legal_basis": "VZW maatwerk (KBO 0407.201.941; Actief; 2 VE; RSZ NACE 88.993; absorbed KEMPA 0632.634.295 since 30.12.2025)",
-            "decision_date": "2026-07-11",
+            "beneficiary": "maatwerkers / social-economy clients Oudenaarde Vlaamse Ardennen",
+            "legal_basis": "VZW maatwerk (KBO 0451.263.992; Actief; 6 VE; RSZ NACE 88.993)",
+            "decision_date": "2026-04-30",
             "start_year": "2025",
             "end_year": "2025",
-            "total_envelope_eur": str(OMZET),
+            "total_envelope_eur": str(ENVELOPE),
             "cash_by_year": json.dumps(cash, separators=(",", ":")),
             "remaining_eur": "0",
             "status": "active",
-            "evaluation_url": "https://www.companyweb.be/en/0407201941/kaliber",
-            "stated_goal": "Sheltered employment / logistics packaging maatwerk",
-            "cut_option": f"Publish NBB PDF assets/debt FOI; disclose omzet JUMP +56% vs KEMPA merger + LOSS FLIP + bruto~{RATIO}x omzet loonkost matrix",
+            "evaluation_url": "https://www.companyweb.be/en/0451263992/aarova",
+            "stated_goal": "Sheltered employment / maatwerk Oudenaarde",
+            "cut_option": "Publish NBB PDF assets/debt FOI; disclose bruto≫omzet ~2.09x + multi-year pnl LOSS subsidy matrix",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "hierarchy_path": "Vlaanderen>Antwerpen>Herentals>Kaliber>JR2025_statutory_L5",
-            "notes": f"tick{TICK}; Medium CW; omzet primary envelope; omzet JUMP +56% + LOSS FLIP + KEMPA merger primary absurdity; assets/debt Unknown; preferred AGB Bornem JR2024; FARO/REW YE2024; Kromme Boom FREE deferred; not TE-additive of 348bn",
+            "hierarchy_path": "Vlaanderen>OostVlaanderen>Oudenaarde>Aarova>JR2025_statutory_L5",
+            "notes": "tick2202; Medium CW; omzet primary envelope; bruto≫omzet ~2.09x + pnl LOSS while FTE JUMP primary absurdity; assets/debt Unknown; preferred AGB Bornem JR2024; FARO YE2024; not TE-additive of 348bn",
         }
     ],
 )
@@ -210,26 +208,26 @@ append_csv(
     [
         {
             "item_id": LB,
-            "name": f"Kaliber omzet JUMP 6.38m +56% / pnl LOSS FLIP -155k / KEMPA merger / bruto≫omzet ~{RATIO}x (YE2025)",
+            "name": "Aarova omzet JUMP 5.62m / bruto≫omzet ~2.09x / pnl LOSS -139k (YE2025)",
             "level": "L5",
-            "type": "maatwerk_vzw_statutory_merged",
-            "hierarchy_path": "Vlaanderen>Antwerpen>Herentals>Kaliber>JR2025",
-            "annual_cost_eur": str(OMZET),
-            "total_cost_eur": str(OMZET),
-            "tco_notes": f"CW omzet JUMP envelope 6.38m (+56%) / bruto 10.60m ≫ omzet (~{RATIO}x) / pnl LOSS FLIP -155k from YE2024 profit 339k / equity DROP 6.06m / FTE JUMP 283.7; KEMPA Products absorbed 30.12.2025; assets/debt Unknown pending NBB PDF",
+            "type": "maatwerk_vzw_statutory",
+            "hierarchy_path": "Vlaanderen>OostVlaanderen>Oudenaarde>Aarova>JR2025",
+            "annual_cost_eur": str(ENVELOPE),
+            "total_cost_eur": str(ENVELOPE),
+            "tco_notes": "CW omzet JUMP envelope 5.62m / bruto 11.76m ≫omzet ~2.09x / pnl LOSS -139k improve from YE2024 -212k / equity DROP 2.47m / FTE JUMP 306.2; VL maatwerk Oudenaarde; assets/debt Unknown pending NBB PDF",
             "confidence": "medium",
             "source_id": SRC_EN,
-            "beneficiaries": "maatwerkers Herentals / public loonkost path",
-            "stated_goal": "Sheltered employment maatwerk logistics",
-            "measured_outcome": "omzet JUMP +55.7%; bruto JUMP +12.8%; pnl LOSS FLIP -145.7%; equity DROP -3.2%; FTE JUMP +5.3%; KEMPA merger YE2025",
-            "absurdity_score": "7.8",
-            "cost_score": "5.3",
+            "beneficiaries": "maatwerkers Oudenaarde / VDAB-ESF path / commercial clients",
+            "stated_goal": "Sheltered employment maatwerk Oudenaarde",
+            "measured_outcome": "omzet JUMP +5.1%; bruto≫omzet ~2.09x; pnl LOSS improve 34%; equity DROP -6.6%; FTE JUMP +1.2%",
+            "absurdity_score": "7.6",
+            "cost_score": "5.1",
             "difficulty": "3.0",
-            "priority_index": "7.0",
-            "cut_proposal": f"Publish NBB PDF assets/debt/cash FOI; disclose omzet JUMP +56% KEMPA contribution + LOSS FLIP path + bruto~{RATIO}x omzet loonkost split",
+            "priority_index": "6.8",
+            "cut_proposal": "Publish NBB PDF assets/debt/cash FOI; disclose bruto≫omzet + multi-year LOSS path; VDAB/ESF/gemeente subsidy split",
             "status": "open",
             "struck_reason": "",
-            "notes": f"tick{TICK}; Medium CW; FOI {GAP}; stall FARO/REW YE2024; Herentals maatwerk dual after De Winning/Groep Talent/BosKat; Kromme Boom deferred",
+            "notes": f"tick{TICK} primary; Medium CW; FOI {GAP}; stall FARO YE2024; VL maatwerk dual after MWP/De Winning",
         }
     ],
 )
@@ -239,16 +237,16 @@ append_csv(
     [
         {
             "entity_id": ENTITY,
-            "name_nl": "Kaliber VZW (Herentals; KEMPA-fusie)",
-            "name_fr": "Kaliber ASBL (Herentals; fusion KEMPA)",
-            "name_en": "Kaliber sheltered workshop (Herentals; KEMPA merger)",
+            "name_nl": "Aarova VZW (maatwerk / Oudenaarde)",
+            "name_fr": "Aarova ASBL (entreprise de travail adapté / Audenarde)",
+            "name_en": "Aarova sheltered workshop (Oudenaarde)",
             "level": "parastatal",
             "parent_id": "sec_flanders",
             "community_language": "nl",
-            "website": "https://kalibermaatwerk.be/",
-            "foi_email": "info@kalibermaatwerk.be",
-            "foi_postal": "Herenthoutseweg 136, 2200 Herentals",
-            "notes": f"tick{TICK} YE2025 Medium CW NL+EN+FR + Strong KBO 0407.201.941 Actief VZW 2 VE RSZ NACE 88.993; absorbed KEMPA 0632.634.295 since 30.12.2025; omzet JUMP {OMZET} bruto {BRUTO} (≫omzet ~{RATIO}x) pnl LOSS FLIP {PNL} vs YE2024 {PNL24} equity DROP {EQUITY} FTE JUMP {FTE}; neerlegging 11.07.2026; assets/debt Unknown; FOI {GAP}; preferred AGB Bornem JR2024; FARO/REW YE2024; not TE-additive of 348bn",
+            "website": "https://www.aarova.be/",
+            "foi_email": "info@aarova.be",
+            "foi_postal": "Industriepark De Bruwaan 85, 9700 Oudenaarde",
+            "notes": f"tick{TICK} YE2025 Medium CW NL+EN+FR + Strong KBO 0451.263.992 Actief VZW 6 VE RSZ NACE 88.993; omzet JUMP {OMZET} bruto {BRUTO}≫omzet pnl LOSS {PNL} vs YE2024 {PNL24} equity DROP {EQUITY} FTE JUMP {FTE}; neerlegging 30.04.2026; assets/debt Unknown; FOI {GAP}; preferred AGB Bornem JR2024; FARO YE2024; not TE-additive of 348bn",
         }
     ],
 )
@@ -258,14 +256,14 @@ append_csv(
     [
         {
             "gap_id": GAP,
-            "hierarchy_path": "Vlaanderen>Antwerpen>Herentals>Kaliber>NBB_PDF_assets_debt_omzet_jump_kempa",
+            "hierarchy_path": "Vlaanderen>OostVlaanderen>Oudenaarde>Aarova>NBB_PDF_assets_debt_bruto_gt_omzet",
             "entity_id": ENTITY,
-            "what_is_missing": f"NBB PDF jaarrekening YE2025 full (assets/debt LT-ST/cash/balanstotaal); omzet JUMP EUR{OMZET} vs YE2024 EUR{OMZET24} (+56%) KEMPA Products 0632.634.295 fusion contribution (30.12.2025); pnl LOSS FLIP EUR{PNL} vs YE2024 profit EUR{PNL24}; bruto EUR{BRUTO} ≫ omzet (~{RATIO}x) loonkostsubsidie matrix; FTE JUMP {FTE24}->{FTE}; 2 VE cost allocation",
-            "why_it_matters": f"Medium CW shows Herentals maatwerk VZW with omzet JUMP +56% and pnl LOSS FLIP after absorbing KEMPA under bruto~{RATIO}x omzet public subsidy path while assets/debt unpublished",
+            "what_is_missing": f"NBB PDF jaarrekening YE2025 full (assets/debt LT-ST/cash/balanstotaal); bruto EUR{BRUTO} vs omzet EUR{OMZET} (~2.09x); pnl LOSS EUR{PNL} vs YE2024 EUR{PNL24} (improve 34% still negative); FTE JUMP {FTE24}->{FTE}; VDAB/ESF/gemeente/provincie subsidy matrix",
+            "why_it_matters": "Medium CW shows VL maatwerk VZW with bruto≫omzet ~2.09x and multi-year pnl LOSS while FTE JUMP — public subsidy path opaque",
             "priority": "8",
-            "recipient_body": "Kaliber VZW",
-            "recipient_email": "info@kalibermaatwerk.be",
-            "recipient_postal": "Herenthoutseweg 136, 2200 Herentals",
+            "recipient_body": "Aarova VZW",
+            "recipient_email": "info@aarova.be",
+            "recipient_postal": "Industriepark De Bruwaan 85, 9700 Oudenaarde",
             "draft_letter_path": f"docs/doge/foi/drafts/{GAP}.md",
             "status": "ready",
             "date_ready": "2026-08-26",
@@ -277,7 +275,7 @@ append_csv(
             "linked_leaderboard_id": LB,
             "created_utc": UTC,
             "updated_utc": UTC,
-            "notes": f"tick{TICK}; ready NOT sent; Medium CW + Strong KBO; KEMPA merger; next every-10 2210",
+            "notes": f"tick{TICK}; ready NOT sent; Medium CW + Strong KBO; next every-10 2210",
         }
     ],
 )
@@ -295,10 +293,20 @@ for row in rows:
         row["entity_id"] = ENTITY
         row["updated_utc"] = UTC
         row["blocked_gap_id"] = GAP
-        row["title"] = "leftover dual — Kaliber YE2025 Medium (omzet JUMP 6.38m +56% / pnl LOSS FLIP / KEMPA merger)"
+        row["title"] = (
+            "leftover dual — Aarova YE2025 Medium (omzet JUMP 5.62m / bruto≫omzet ~2.09x / pnl LOSS -139k)"
+        )
         row["notes"] = (
-            "tick2202; Kaliber 0407.201.941 YE2025 Medium CW; KEMPA absorbed 30.12.2025; "
-            "AGB Bornem JR2024; FARO/REW YE2024; Kromme Boom FREE deferred; next rq_2203; every-10 next 2210"
+            "tick2202; Aarova 0451.263.992 YE2025 Medium CW; AGB Bornem JR2024; FARO YE2024; "
+            "next rq_2203; every-10 next 2210"
+        )
+        row["instructions"] = (
+            "Tick 2202 after concurrent tick2201 race MWP Pajottenland + De Winning. Prefer leftover AGB/APB if JR2025 PDF live, "
+            "else FARO if TRUE NBB YE2025, else AIESH/REW if YE2025, else unused IGS/DSO/water/nuclear/HVZ/WZC/MRS "
+            "(Aarova 0451.263.992 YE2025 FREE taken). Do NOT redo MWP Pajottenland, De Winning, Atelier Groot Eiland, Groep Talent, "
+            "BosKat, De Schakel, BWZ, Bewel, Forena, Kunnig, A-kwadraat, SW-WEB, Mivas, Demival, De Wroeter, Kringwinkel Antwerpen, "
+            "Blankedale, Mirto, Mariasteen, De Brug, Weerwerk, InterWest, Westlandia, BWB, Wase, Groep INTRO, MAAAT, "
+            "WAAK SW, Waak, Stijn, Stroom, Springplank."
         )
         found = True
         break
@@ -309,22 +317,25 @@ if not any(r.get("task_id") == "rq_2203" for r in rows):
     rows.append(
         {
             "task_id": "rq_2203",
-            "title": "leftover dual hole-fill after Kaliber — prefer AGB/FARO-YE2025/AIESH-REW/unused IGS-DSO-WZC-MRS-HVZ",
+            "title": "leftover dual hole-fill after Aarova — prefer AGB/FARO-YE2025/AIESH-REW/unused IGS-DSO-WZC-MRS-HVZ",
             "sprint": "hole_fill",
             "priority": "8",
             "status": "open",
             "hierarchy_target": "L5",
             "entity_id": "",
             "instructions": (
-                "Tick 2203 after Kaliber Herentals YE2025 Medium (omzet JUMP 6.38m +56% / pnl LOSS FLIP -155k / KEMPA merger / bruto≫omzet). "
+                "Tick 2203 after Aarova YE2025 Medium (omzet JUMP 5.62m / bruto≫omzet ~2.09x / pnl LOSS -139k / FTE JUMP). "
                 "Prefer leftover AGB/APB if JR2025 PDF live, else FARO if TRUE NBB YE2025, else AIESH/REW if YE2025, else unused IGS/DSO/water/nuclear/HVZ/WZC/MRS "
-                "(De Kromme Boom 0454.426.489 YE2025 FREE equity NEG). "
-                "Do NOT redo Kaliber, De Winning, Atelier Groot Eiland, Groep Talent, BosKat, De Schakel, BWZ, Bewel, Forena, Kunnig, A-kwadraat, SW-WEB, Mivas, Demival, De Wroeter, Kringwinkel Antwerpen, Blankedale, Mirto, Mariasteen, De Brug, Weerwerk, InterWest, Westlandia, BWB, Wase, Groep INTRO, MAAAT, WAAK SW, Waak, Stijn, Stroom, Springplank, Creat CV, Farys Solar, Senes, Orpimmo, Langerheide, Cur@-Z, Het Dorp, De Vlietoever, IPFBW, Aquiris, SPGE, IRE*, FANC, SCK CEN, EURIDICE, Hydria, Vivaqua, Belgoprocess, Laborelec, CILE, NIRAS, Bel V, Dijk92, Synergrid, AIEG, Synatom, Atrias, RESA, Enodia, Fluxys*, ETB, Elia, BNO, SWDE, BRUGEL."
+                "(FREE: Kaliber YE2024-only stall / Oesterbank/Werkhuizen MIN/Trianval/Noordheuvel/Arcor/ACG/Entiris/Odas/Kemphaan/…). "
+                "Do NOT redo Aarova, MWP Pajottenland, De Winning, Atelier Groot Eiland, Groep Talent, BosKat, De Schakel, BWZ, Bewel, Forena, Kunnig, "
+                "A-kwadraat, SW-WEB, Mivas, Demival, De Wroeter, Kringwinkel Antwerpen, Blankedale, Mirto, Mariasteen, De Brug, "
+                "Weerwerk, InterWest, Westlandia, BWB, Wase, Groep INTRO, MAAAT, WAAK SW, Waak, Stijn, Stroom, Springplank, "
+                "Creat CV, Farys Solar, Senes, Orpimmo, Langerheide, Cur@-Z, Het Dorp, De Vlietoever."
             ),
             "blocked_gap_id": "",
             "created_utc": UTC,
             "updated_utc": UTC,
-            "notes": "spawned after tick2202 Kaliber; FARO/REW still YE2024; next every-10 2210",
+            "notes": "spawned after tick2202 Aarova; FARO still YE2024; next every-10 2210",
         }
     )
 
@@ -348,8 +359,8 @@ rows[0] = {
     "ticks_completed": "2202",
     "paused": "no",
     "notes": (
-        f"tick2202 leftover Kaliber 0407.201.941 Medium (omzet JUMP 6.38m +56%; bruto 10.60m ≫ omzet ~{RATIO}x; pnl LOSS FLIP -155k; "
-        "equity DROP 6.06m; FTE JUMP 283.7; KEMPA absorbed 30.12.2025; 2 VE Herentals); AGB Bornem JR2024; FARO/REW YE2024; "
+        "tick2202 leftover Aarova 0451.263.992 Medium (omzet JUMP 5.62m; bruto≫omzet ~2.09x 11.76m; "
+        "pnl LOSS -139k improve 34%; equity DROP 2.47m; FTE JUMP 306.2; 6 VE Oudenaarde); AGB Bornem JR2024; FARO YE2024; "
         "next rq_2203; next every-10 2210; continuous hole_fill"
     ),
 }
