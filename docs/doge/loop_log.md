@@ -25728,3 +25728,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.00); entities (+1 vzw_val_du_geer_bassenge); foi + draft gap_val_du_geer_nbb_pdf_assets_debt_pnl_drop_22pct_eta_matrix_l5; rq_2258=done + rq_2259 open; loop_state ticks=2258; raw docs/doge/data/raw/tick2258/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2250**; next **2260**). Next: rq_2259 (AGB/FARO-if-YE2025 / AIESH-REW / unused Les Erables); at **2260** MUST refresh progress + waste top10 then hole-fill.
+
+
+## Tick 2258 - 2026-08-27T06:40:00Z - rq_2258 Val du Geer Bassenge (omzet 10.75m / pnl DROP -21.9% / FTE 241.4 / Medium)
+
+- Unit: **rq_2258** leftover dual after **rq_2257 Nekto**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Relais Haute Sambre still **YE2024**. Took named FREE Walloon ETA **Val du Geer ASBL** YE2025 (KBO **0407.841.646**; Rue de la Cerisaie 8 Bassenge; **Actief** **4 VE**; NACE **88.993** AViQ). Deferred FREE Les Erables. Do not redo Nekto/Belair/Corelap/Cambier stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR10750401** DROP -0.67% vs YE2024 EUR10822629; bruto **EUR10374789** JUMP +4.36% (bruto/omzet ~0.97x); pnl **EUR66091** DROP -21.9% vs YE2024 EUR84628; equity **EUR9460222** JUMP +0.24%; FTE **241.4**; neerlegging **09.06.2026**. Strong KBO Actief 4 VE. Assets/debt Unknown. Medium. FOI via info@valdugeer.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.35); entities (+1 vzw_val_du_geer_bassenge); foi + draft gap_vdg_nbb_pdf_assets_debt_pnl_drop_22pct_fte_241_eta_matrix_l5; rq_2258=done + rq_2259 open; loop_state ticks=2258; raw docs/doge/raw/tick2258/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2250**; next **2260**). Next: rq_2259 (AGB/FARO-if-YE2025 / AIESH-REW / unused Erables).
