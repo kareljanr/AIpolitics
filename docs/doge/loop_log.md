@@ -24887,3 +24887,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.7); entities (+1 vzw_de_wroeter_hasselt); foi + draft gap_de_wroeter_nbb_pdf_assets_debt_pnl_drop_bruto_gt_omzet_fte_jump_matrix_l5; progress+top10; rq_2190=done + rq_2191 open; loop_state ticks=2190; raw docs/doge/data/raw/tick2190/.
 - FOI: **ready not sent** (human-gated).
 - EVERY-10 done (**last every-10 was 2180**; next **2200**). Next: rq_2191 (AGB/FARO-if-YE2025 / AIESH-REW / Demival-Mivas-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2191 - 2026-08-26T09:40:00Z - rq_2191 Demival (omzet JUMP 14.76m / pnl FLIP +381k from LOSS -1.01m / Medium)
+
+- Unit: **rq_2191** leftover dual after **rq_2190 De Wroeter**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still YE2024-class. Took named FREE leftover **Demival VZW** YE2025 (KBO **0407.409.007**; Machelenstraat 169 Deinze; **VZW** RSZ NACE **88.993** / **1 VE**). Deferred FREE Mivas. Do not redo De Wroeter/Kringwinkel Antwerpen/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR14762543** JUMP +6.81% vs YE2024 EUR13820870; bruto **EUR17592947** DROP -13.51% (bruto≫omzet); pnl **EUR380811** FLIP from YE2024 LOSS EUR-1005408; equity **EUR13821531** JUMP +2.73%; FTE **449** DROP vs 474.1; neerlegging **01.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 1 VE. FOI via info@demival.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.4); entities (+1 vzw_demival_deinze); foi + draft gap_demival_nbb_pdf_assets_debt_pnl_flip_bruto_gt_omzet_fte_drop_matrix_l5; rq_2191=done + rq_2192 open; loop_state ticks=2191; raw docs/doge/data/raw/tick2191/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2192 (AGB/FARO-if-YE2025 / AIESH-REW / Mivas-or-unused IGS-DSO-WZC-MRS-HVZ).
