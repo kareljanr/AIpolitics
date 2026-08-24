@@ -24340,3 +24340,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.0); entities (+1 asbl_denderrust_dienstengroep); foi + draft gap_denderrust_dienstengroep_nbb_pdf_assets_debt_omzet_serviceflat_absorption_matrix_l5; rq_2141=done + rq_2142 open; loop_state ticks=2141; raw docs/doge/data/raw/tick2141/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2140**; next **2150**). Next: rq_2142 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+## Tick 2142 - 2026-08-25T17:20:00Z - rq_2142 Groep Sint-Franciscus Brakel (omzet JUMP 31.0m / pnl FLIP PROFIT / bruto JUMP 32.9m / Medium)
+
+- Unit: **rq_2142** leftover dual after **rq_2141 Denderrust Dienstengroep** (race: concurrent closed 2141 as Dienstengroep while this agent had preferred FARO/AIESH/REW still YE2024). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Groep van Voorzieningen Sint-Franciscus VZW** YE2025 (KBO **0412.763.704**; St.-Martensstraat 3 Brakel; **VZW** NACE **87.101/87.301/87.302/88.102** / **5 VE**; **aanbestedende overheid**; campuses Brakel/Oosterzele/Haaltert). Do not redo Dienstengroep/Denderrust/En Famille/Prestige/Corolles/Esplanade/Peupliers/Comte d'Egmont/CIGB/Ten Rozen/MPC Sint-Franciscus Roosdaal/Zilverlinde Olen.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR30982834** JUMP +4.54% vs YE2024 EUR29637372; bruto **EUR32903309** JUMP +4.17% vs YE2024 EUR31584808; pnl **EUR164386** FLIP PROFIT +167.04% vs YE2024 LOSS EUR-245197; equity **EUR25153623** DROP -0.45%; FTE **416** DROP vs 427.4; neerlegging **24.06.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info.sft@groepsf.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.4); entities (+1 vzw_groep_sint_franciscus_brakel); foi + draft gap_groep_sint_franciscus_nbb_pdf_assets_debt_pnl_flip_omzet_jump_matrix_l5; rq_2142=done + rq_2143 open; loop_state ticks=2142; raw docs/doge/data/raw/tick2141/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2140**; next **2150**). Next: rq_2143 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
