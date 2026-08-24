@@ -26777,3 +26777,10 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN+FR — omzet **empty**; bruto **EUR4070474** JUMP +7.7%; pnl **EUR74757** JUMP +435.66%; equity **EUR1701564**; FTE **55.1**; neerlegging **19.06.2026**. Strong KBO. Assets/debt Unknown. Medium.
 - Wrote: sources(+5) budgets(+4) ents(+1) comm(+1) lb(+1 pi 5.15) foi(+1); closed rq_2342 Aurelia; rq_2343=done + rq_2344 open; ticks=2343.
 - FOI ready NOT sent. NOT every-10 (last **2340**; next **2350**). Next: rq_2344.
+
+### 2026-08-24T14:15:00Z - tick 2344 - rq_2344 Blijdorp Buggenhout (bruto JUMP 26.32m / ~8.62x omzet / pnl DROP / FTE JUMP 356.4 / Medium)
+
+- Unit: **rq_2344** after **Perrekes@2343**. NON-stall AGB/FARO YE2024. FREE VAPH **Blijdorp VZW** YE2025 (KBO **0409.371.771**; Aanbestedende 8 VE; buggenhout@blijdorp.be).
+- Found: CW NL+EN YE2025 omzet **EUR3051659**; bruto **EUR26320490** (~**8.62x**); pnl **EUR318196** DROP; equity **EUR16158727**; FTE **356.4**; filed **08.07.2026**. Medium. Assets/debt Unknown.
+- Wrote: sources/budgets/commitments/leaderboard/entities/foi; rq_2344=done + rq_2345 open; ticks=2344.
+- FOI ready not sent. NOT every-10 (next **2350**). Next: rq_2345.

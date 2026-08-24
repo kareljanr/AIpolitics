@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-28T03:20:00Z,rq_2343,2343,no,tick2343 leftover dual Huis Perrekes 0444.947.611 Medium (omzet empty; bruto JUMP 4070474; pnl JUMP 74757 +435.66%; equity JUMP 1701564; FTE JUMP 55.1; 2 VE Aanbestedende RSZ 87.301); after Aurelia@2342; AGB/FARO YE2024; next rq_2344; next EVERY-10 2350; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T14:15:00Z,rq_2344,2344,no,tick2344 leftover dual Blijdorp 0409.371.771 Medium (omzet JUMP 3051659; bruto JUMP 26320490 ~8.62x; pnl DROP 318196; equity JUMP 16158727; FTE JUMP 356.4; 8 VE Aanbestedende); after Perrekes@2343; AGB/FARO YE2024; next rq_2345; next EVERY-10 2350

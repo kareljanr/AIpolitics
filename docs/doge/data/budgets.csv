@@ -54114,3 +54114,8 @@ bud_perrekes_bruto_jr2025_statutory,vzw_huis_perrekes_geel,2025,4070474,4070474,
 bud_perrekes_pnl_jr2025_statutory,vzw_huis_perrekes_geel,2025,74757,74757,74757,CW statutory winst/verlies YE2025 JUMP,src_perrekes_jr2025_cw_en,medium,tick2343; pnl +435.66% vs 13956
 bud_perrekes_equity_jr2025_statutory,vzw_huis_perrekes_geel,2025,1701564,1701564,1701564,CW statutory eigen_vermogen YE2025 JUMP,src_perrekes_jr2025_cw_en,medium,tick2343; equity +3.09% vs 1650487
 bud_perrekes_fte_jr2025_statutory,vzw_huis_perrekes_geel,2025,55.1,55.1,55.1,CW social-balance FTE 55.1,src_perrekes_jr2025_cw_en,medium,tick2343; FTE JUMP vs 54.8
+bud_blijdorp_omzet_jr2025_statutory,vzw_blijdorp_buggenhout,2025,3051659,3051659,3051659,CW statutory omzet YE2025 JUMP +4.71%,src_blijdorp_jr2025_cw_en,medium,tick2344; vs 2914528
+bud_blijdorp_bruto_jr2025_statutory,vzw_blijdorp_buggenhout,2025,26320490,26320490,26320490,CW statutory bruto YE2025 ~8.62x omzet,src_blijdorp_jr2025_cw_en,medium,tick2344; primary L5
+bud_blijdorp_pnl_jr2025_statutory,vzw_blijdorp_buggenhout,2025,318196,318196,318196,CW statutory pnl YE2025 DROP -31.91%,src_blijdorp_jr2025_cw_en,medium,tick2344
+bud_blijdorp_equity_jr2025_statutory,vzw_blijdorp_buggenhout,2025,16158727,16158727,16158727,CW statutory equity YE2025 JUMP,src_blijdorp_jr2025_cw_en,medium,tick2344
+bud_blijdorp_fte_jr2025_statutory,vzw_blijdorp_buggenhout,2025,356.4,356.4,356.4,CW FTE JUMP 356.4,src_blijdorp_jr2025_cw_en,medium,tick2344
