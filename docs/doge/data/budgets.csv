@@ -53913,3 +53913,5 @@ bud_zewopa_bruto_jr2025_statutory,vzw_zewopa_lier,2025,1602575,1602575,1602575,C
 bud_zewopa_pnl_jr2025_statutory,vzw_zewopa_lier,2025,67635,67635,67635,CW statutory pnl YE2025 FLIP from LOSS,src_zewopa_jr2025_cw_en,medium,tick2309; pnl FLIP 67635 vs YE2024 LOSS -100456
 bud_zewopa_equity_jr2025_statutory,vzw_zewopa_lier,2025,-1211742,-1211742,-1211742,CW statutory equity YE2025 NEGATIVE,src_zewopa_jr2025_cw_en,medium,tick2309; equity NEG -1211742 improving vs -1278181
 bud_zewopa_fte_jr2025_statutory,vzw_zewopa_lier,2025,21.0,21.0,21.0,CW FTE YE2025 DROP,src_zewopa_jr2025_cw_en,medium,tick2309; FTE 21.0 DROP vs 26.9
+bud_zewopa_pnl_jr2024_statutory_cmp,vzw_zewopa_lier,2024,-100456,,,statutory_accounts,src_zewopa_jr2025_cw_en,medium,tick2309; YE2024 pnl LOSS comparative
+bud_zewopa_equity_jr2024_statutory_cmp,vzw_zewopa_lier,2024,-1278181,,,statutory_accounts,src_zewopa_jr2025_cw_en,medium,tick2309; YE2024 equity NEG comparative

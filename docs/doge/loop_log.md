@@ -26406,3 +26406,9 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.35); entities (+1 vzw_zewopa_lier); foi + draft gap_zewopa_nbb_pdf_assets_debt_neg_equity_1_21m_pnl_flip_bruto_drop_fte_drop_vaph_matrix_l5; rq_2309=done + rq_2310 open (EVERY-10 due); loop_state ticks=2309; raw docs/doge/data/raw/tick2309/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next EVERY-10 is 2310** = next open). Next: rq_2310.
+
+### 2026-08-27T20:30:00Z - tick 2309 - rq_2309 Zewopa Lier (omzet 1.49m / NEG equity 1.21m / pnl PROFIT FLIP / FTE DROP 21 / Medium)
+- Unit: **rq_2309** leftover dual after **Huis in de Stad@2308**. Prefer NON-stall: AGB/FARO/AIESH/Citeco/Groupe Foes/Aralea/Manupal/De Ploeg/Vlotter/Gandae still **YE2024**. Took FREE YE2025 **Zewopa** (KBO **0421.896.748**) — VAPH inclusief wonen / motor disability Lier.
+- Found: CW NL+EN+FR YE2025 — omzet **EUR1492730** JUMP +1.76%; bruto **EUR1602575** DROP −14.36%; pnl **EUR67635** PROFIT FLIP (vs LOSS −100456); equity **NEG EUR−1211742** IMPROVING +5.2%; FTE **21** DROP; filed **30.06.2026**. Assets/debt Unknown.
+- Wrote: sources (+6); budgets (+6); commitments (+1); leaderboard (+1 pi 4.9); entities (+1); foi + draft gap_zewopa_nbb_pdf_assets_debt_neg_equity_pnl_profit_flip_fte_drop_vaph_matrix_l5 ready NOT sent.
+- NOT every-10 (last **2300**; next **2310**). Next: rq_2310 (EVERY-10 + leftover dual).
