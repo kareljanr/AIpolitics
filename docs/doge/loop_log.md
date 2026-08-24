@@ -25528,3 +25528,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.30); entities (+1 vzw_manufast_abp_brussel); foi + draft gap_manufast_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_loss_flip_eta_matrix_l5; rq_2239=done + rq_2240 open (EVERY-10); loop_state ticks=2239; raw docs/doge/raw/tick2239/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2230**; next **2240** MUST refresh progress + waste top10 then hole-fill). Next: rq_2240.
+
+
+### 2026-08-27T02:10:00Z — tick 2240 — rq_2240 EVERY-10 + ETA 123 Beauraing (bruto 10.30m / ~1.51x / pnl DROP -47% / Medium)
+
+- Unit: **rq_2240** EVERY-10 mandatory + leftover dual after **rq_2239 Manufast**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Senes already mined. Took FREE unused Walloon ETA **ETA 123 / Atelier protégé de Beauraing ASBL** YE2025 (KBO **0407.845.903**; rue de Rochefort 201 Beauraing; **Actief** **1 VE**; NACE **88.993** AViQ). Do not redo Manufast/Metalgroup/EntrAnam/Enghien/Entra/Ateliers Tertre stack.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR6827815** JUMP +17.95% vs YE2024 EUR5788729; bruto **EUR10297128** JUMP +5.88% (bruto≫omzet ~1.51x); pnl **EUR941729** DROP -47.13% vs YE2024 EUR1781296; equity **EUR10182232** JUMP +9.66%; FTE **267.9** JUMP vs 252.0; neerlegging **17.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via secretariat@eta123.be.
+- Wrote: EVERY-10 `progress_every_10_ticks.md` + `doge_waste_top10_current.md` (pure top10 stable); sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.25); entities (+1 vzw_eta123_beauraing); foi + draft gap_eta123_nbb_pdf_assets_debt_bruto_gt_omzet_1_51x_pnl_drop_47pct_eta_matrix_l5; rq_2240=done + rq_2241 open; loop_state ticks=2240; raw docs/doge/data/raw/tick2240/.
+- FOI: **ready not sent** (human-gated).
+- EVERY-10@**2240** done. Next: rq_2241 (AGB/FARO-if-YE2025 / AIESH-REW / unused). Next every-10 **2250**.
