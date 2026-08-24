@@ -25805,3 +25805,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.95); entities (+1 sc_stallbois_etalle); foi + draft gap_stallbois_nbb_pdf_assets_debt_pnl_loss_narrow_equity_drop_eta_matrix_l5; rq_2265=done + rq_2266 open; loop_state ticks=2265; raw docs/doge/raw/tick2265/ + data/raw/tick2265/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2260**; next **2270**). Next: rq_2266 (AGB/FARO-if-YE2025 / AIESH-REW / APRE-Renaitre YE2025).
+
+
+
+### 2026-08-27T08:40:00Z - tick 2266 - rq_2266 Brochage Renaitre Evere (omzet JUMP 3.16m / bruto~1.78x / pnl LOSS WIDEN / FTE 159.2 / Medium)
+
+- Unit: **rq_2266** leftover dual after **rq_2265 Stallbois**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (CW last balansjaar 2024); AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Relais Haute Sambre/APN still **YE2024**. Took named FREE Brussels ETA **Brochage Renaitre ASBL** YE2025 (KBO **0407.851.148**; Stroobantsstraat 48 C/D Evere; **Actief** **1 VE**; NACE **88.993** PHARE / bookbinding). Deferred FREE **APRE** YE2025 (0407.598.354). Do not redo Stallbois/Sipres/La Lorraine/BW Eupen/AJR/Alteria stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3160438** JUMP +5.95% vs YE2024 EUR2982859; bruto **EUR5629467** JUMP +24.07% (bruto÷omzet ~1.78x); pnl **EUR-575836** LOSS WIDEN +163.13% vs YE2024 EUR-218840; equity **EUR20384054** DROP -3.01%; FTE **159.2** (+2.25% vs 155.7); neerlegging **03.07.2026**. Strong KBO Actief 1 VE ASBL. Assets/debt Unknown. Medium. FOI via info@brochage-renaitre.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.25); entities (+1 vzw_brochage_renaitre_evere); foi + draft gap_renaitre_nbb_pdf_assets_debt_bruto_gt_omzet_1_78x_pnl_loss_widen_eta_matrix_l5; rq_2266=done + rq_2267 open; loop_state ticks=2266; raw docs/doge/raw/tick2266/ + data/raw/tick2266/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2260**; next **2270**). Next: rq_2267 (AGB/FARO-if-YE2025 / AIESH-REW / APRE YE2025).
