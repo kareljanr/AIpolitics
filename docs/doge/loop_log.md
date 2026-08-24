@@ -25258,3 +25258,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+6); budgets (+8); commitments (+1); leaderboard (+1 pi 5.18); entities (+1 vzw_manus_antwerpen); foi + draft gap_manus_antwerpen_subsidy_loonkost_gemeente_contract_matrix_l5; rq_2221=done + rq_2222 open; loop_state ticks=2221; raw docs/doge/raw/tick2221/ (+ NBB PDF).
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2222 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
+
+
+## Tick 2222 - 2026-08-26T19:25:00Z - rq_2222 Kringwinkel Zuid-Oost-Vlaanderen (omzet 3.86m / bruto≫omzet ~1.60x / equity JUMP +10.8% / Medium)
+
+- Unit: **rq_2222** leftover dual after **rq_2221 Manus** (race: this agent first probed KZOV as rq_2221 but Manus committed first — rebased to rq_2222). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024-class**. Took named FREE leftover **Kringwinkel Zuid-Oost-Vlaanderen VZW** YE2025 (KBO **0466.159.432**; Gaverstraat 35 Geraardsbergen KBO zetel; hoofdzetel Ronse; **Actief** **10 VE**; RSZ NACE **88.993** / BTW **47.793**). Do not redo Manus/NBSW/Opnieuw&Co/Deltagroep/Groep Maatwerk/Odas/OptimaT/Constructief/Werkmmaat/Veerkracht4/ACG stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3857860** flat +0.15% vs YE2024 EUR3851895; bruto **EUR6163360** JUMP +4.34% (bruto≫omzet ~1.60x); pnl **EUR506445** DROP -7.27% vs YE2024 EUR546170; equity **EUR5180878** JUMP +10.83%; FTE **136.6** JUMP vs 131.5; neerlegging **28.05.2026**. Strong KBO Actief 10 VE. Assets/debt Unknown. Medium. FOI via info@kwzov.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 4.93); entities (+1 vzw_kringwinkel_zov); foi + draft gap_kringwinkel_zov_nbb_pdf_assets_debt_bruto_gt_omzet_equity_jump_pnl_drop_matrix_l5; rq_2222=done + rq_2223 open; loop_state ticks=2222; raw docs/doge/raw/tick2222/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2223 (AGB/FARO-if-YE2025 / AIESH-REW / unused maatwerk-WZC-IGS).
