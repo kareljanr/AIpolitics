@@ -25710,3 +25710,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.90); entities (+1 vzw_belair_marche); foi + draft gap_belair_nbb_pdf_assets_debt_empty_omzet_pnl_drop_73pct_eta_matrix_l5; rq_2256=done + rq_2257 open; loop_state ticks=2256; raw docs/doge/raw/tick2256/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2250**; next **2260**). Next: rq_2257 (AGB/FARO-if-YE2025 / AIESH-REW / unused Nekto).
+
+
+## Tick 2257 - 2026-08-27T06:25:00Z - rq_2257 Nekto Soignies (bruto 12.59m / ~1.67x / pnl LOSS DEEPEN / FTE 310.6 / Medium)
+
+- Unit: **rq_2257** leftover dual after **rq_2256 Belair**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Relais Haute Sambre still **YE2024**. Took named FREE Walloon ETA **Nekto ASBL** YE2025 (KBO **0407.695.453**; Chemin du Clypot 3 Soignies/Neufvilles; **Actief** **2 VE**; NACE **88.993** AViQ). Deferred FREE Val du Geer/Les Erables. Do not redo Belair/Corelap/Cambier/Gaillettes stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR7545708** JUMP +1.03% vs YE2024 EUR7468888; bruto **EUR12592290** JUMP +7.95% (bruto≫omzet ~1.67x); pnl **EUR-172066** LOSS DEEPEN vs YE2024 EUR-118224; equity **EUR5269578** DROP -3.3%; FTE **310.6**; neerlegging **12.06.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown. Medium. FOI via contact@nekto.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.40); entities (+1 vzw_nekto_soignies); foi + draft gap_nekto_nbb_pdf_assets_debt_bruto_gt_omzet_1_67x_pnl_loss_deepen_eta_matrix_l5; rq_2257=done + rq_2258 open; loop_state ticks=2257; raw docs/doge/raw/tick2257/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2250**; next **2260**). Next: rq_2258 (AGB/FARO-if-YE2025 / AIESH-REW / unused Val du Geer).

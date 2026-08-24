@@ -53517,3 +53517,9 @@ bud_belair_pnl_jr2025_statutory,vzw_belair_marche,2025,30342,30342,30342,CW stat
 bud_belair_equity_jr2025_statutory,vzw_belair_marche,2025,1997569,1997569,1997569,CW statutory eigen_vermogen YE2025,src_belair_jr2025_cw_en,medium,tick2256; Medium CW; equity JUMP +1.54% vs YE2024 1967226
 bud_belair_fte_jr2025_statutory,vzw_belair_marche,2025,83.1,83.1,83.1,CW social-balance FTE 83.1,src_belair_jr2025_cw_en,medium,tick2256; Medium CW; FTE 83.1; YE2024 FTE Unknown on CW page; assets/debt Unknown
 bud_belair_pnl_jr2024_statutory_cmp,vzw_belair_marche,2024,112047,112047,112047,CW statutory winst YE2024 comparative,src_belair_jr2025_cw_en,medium,tick2256; YE2024 pnl 112047 comparative (pre DROP -73%)
+bud_nekto_bruto_jr2025_statutory,vzw_nekto_soignies,2025,12592290,12592290,12592290,CW statutory bruto_marge YE2025,src_nekto_jr2025_cw_en,medium,tick2257; Medium CW; bruto JUMP +7.95%; bruto≫omzet ~1.67x (primary envelope)
+bud_nekto_omzet_jr2025_statutory,vzw_nekto_soignies,2025,7545708,7545708,7545708,CW statutory omzet YE2025,src_nekto_jr2025_cw_en,medium,tick2257; Medium CW; omzet JUMP +1.03% vs YE2024 7468888
+bud_nekto_pnl_jr2025_statutory,vzw_nekto_soignies,2025,-172066,-172066,-172066,CW statutory winst/verlies YE2025,src_nekto_jr2025_cw_en,medium,tick2257; Medium CW; pnl LOSS DEEPEN vs YE2024 -118224 (delta -53842)
+bud_nekto_equity_jr2025_statutory,vzw_nekto_soignies,2025,5269578,5269578,5269578,CW statutory eigen_vermogen YE2025,src_nekto_jr2025_cw_en,medium,tick2257; Medium CW; equity DROP -3.3% vs YE2024 5449324
+bud_nekto_fte_jr2025_statutory,vzw_nekto_soignies,2025,310.6,310.6,310.6,CW social-balance FTE 310.6,src_nekto_jr2025_cw_en,medium,tick2257; Medium CW; FTE 310.6; YE2024 FTE Unknown on CW page; assets/debt Unknown
+bud_nekto_pnl_jr2024_statutory_cmp,vzw_nekto_soignies,2024,-118224,-118224,-118224,CW statutory winst YE2024 comparative,src_nekto_jr2025_cw_en,medium,tick2257; YE2024 pnl -118224 comparative (pre LOSS DEEPEN)
