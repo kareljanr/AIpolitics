@@ -25029,3 +25029,6 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.8); entities (+1 vzw_aarova_oudenaarde); foi + draft gap_aarova_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_loss_matrix_l5; rq_2202=done + rq_2203 open; loop_state ticks=2202; raw docs/doge/data/raw/tick2202/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2203 (AGB/FARO-if-YE2025 / AIESH-REW / Kaliber-if-YE2025-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+### 2026-08-26T13:25:00Z - tick 2202 race note
+- Concurrent agent also closed rq_2202 as Kaliber Herentals YE2025 Medium (96e06c0c; omzet JUMP 6.38m +56% / pnl LOSS FLIP / KEMPA merger) before/with Aarova (e2e90dd4). Both YE2025 Medium units kept. rq_2203 open head updated; do not redo either. Next every-10 still 2210.
