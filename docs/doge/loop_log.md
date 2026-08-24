@@ -24388,3 +24388,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+1 FTE-only); commitments (+1); leaderboard (+1 pi 4.9 opacity); entities (+1 zs_hesbaye); foi + draft gap_hesbaye_budget_jr2025_dotation_commune_fed_matrix_l5; rq_2147=done + rq_2148 open; loop_state ticks=2147; raw docs/doge/data/raw/tick2147/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2140**; next **2150**). Next: rq_2148 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+## Tick 2148 - 2026-08-25T19:20:00Z - rq_2148 Zone de secours Wallonie Picarde (FTE 200 / budget Unknown FOI / Medium)
+
+- Unit: **rq_2148** leftover dual after **rq_2147 Hesbaye** (race: concurrent closed 2147 as Hesbaye before this fire). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW(0644.638.937) still **YE2024**. Took unused leftover **Zone de Secours Wallonie Picarde** (KBO **0500.915.621**; Chaussée de Lille 422 Tournai/Orcq; **Hulpverleningszone** / **8 VE**; NACE **84.250**; 19 communes). Do not redo Hesbaye/Hainaut-Centre/Dinaphi/Zonnelied/Care-Ion/Groep SF/Flemish HVZ stack.
+- Found: Strong KBO Actief + Medium CW FTE **200**; **no** CW/NBB YE kerncijfers (omzet/bruto/pnl/equity/budget **Unknown**). FOI via info@zswapi.be for comptes 2025 + budget 2026 + communal/federal dotations. No invented euros.
+- Wrote: sources (+5); budgets (+1 FTE-only); commitments (+1); leaderboard (+1 pi 5.3 opacity); entities (+1 zs_wallonie_picarde); foi + draft gap_wapi_budget_jr2025_dotation_commune_fed_matrix_l5; rq_2148=done + rq_2149 open; loop_state ticks=2148; raw docs/doge/data/raw/tick2148/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2140**; next **2150**). Next: rq_2149 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
