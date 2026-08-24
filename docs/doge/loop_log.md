@@ -26202,3 +26202,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.05); entities (+1 vzw_natuur_en_landschapszorg_mechelen); foi + draft gap_nlz_nbb_pdf_assets_debt_omzet_jump_11_25m_bruto_1_10x_pnl_drop_fte_jump_matrix_l5; rq_2293=done + rq_2294 open; loop_state ticks=2293; raw docs/doge/data/raw/tick2293/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2294 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-maatwerk Rozemarijn-SOBO-Gandae).
+
+### 2026-08-27T16:00:00Z - tick 2294 - rq_2294 Mo-Clean Sint-Niklaas (bruto 2.16m / empty omzet / pnl LOSS FLIP / equity DROP -45% / fusion Stopgezet / Medium)
+
+- Unit: **rq_2294** leftover dual after **rq_2293 NLZ Mechelen**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Aralea/Manupal/De Ploeg/Vlotter still **YE2024**. Took FREE Flemish maatwerk **Mo-Clean VZW** YE2025 final filing (KBO **0453.129.362**; Klein-Hulststraat 6 Sint-Niklaas; **Stopgezet** 01.01.2026 Fusie door overneming → Den Azalee **0456.719.748**; **1 VE**). Do not redo NLZ/Labor/Intro Schoonmaak/Den Azalee/Buseloc/Op Maat/REW stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR2160004** DROP -4.29% vs YE2024 EUR2256865; pnl **EUR-138224** LOSS FLIP vs YE2024 EUR27907; equity **EUR195665** DROP -45.06%; FTE **60.0** (vs 58.9); neerlegging **08.07.2026**. Strong KBO Stopgezet 1 VE VZW. Assets/debt Unknown. Medium. FOI via successor info@vzwdenazalee.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.55); entities (+1 vzw_mo_clean_sint_niklaas); foi + draft gap_mo_clean_nbb_pdf_assets_debt_empty_omzet_bruto_2_16m_pnl_loss_flip_equity_drop_45pct_fusion_matrix_l5; rq_2294=done + rq_2295 open; loop_state ticks=2294; raw docs/doge/data/raw/tick2294/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2295 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).

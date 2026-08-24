@@ -53795,3 +53795,8 @@ bud_nlz_pnl_jr2025_statutory,vzw_natuur_en_landschapszorg_mechelen,2025,249691,2
 bud_nlz_equity_jr2025_statutory,vzw_natuur_en_landschapszorg_mechelen,2025,4718485,4718485,4718485,CW equity YE2025 JUMP,src_nlz_jr2025_cw_en,medium,tick2293; equity JUMP +5.91% vs 4455220
 bud_nlz_fte_jr2025_statutory,vzw_natuur_en_landschapszorg_mechelen,2025,287.3,287.3,287.3,CW FTE 287.3,src_nlz_jr2025_cw_en,medium,tick2293; FTE JUMP 287.3 vs 272.0
 bud_nlz_pnl_jr2024_statutory_cmp,vzw_natuur_en_landschapszorg_mechelen,2024,273592,273592,273592,CW pnl YE2024 cmp,src_nlz_jr2025_cw_en,medium,tick2293; YE2024 pnl 273592
+bud_mo_clean_bruto_jr2025_statutory,vzw_mo_clean_sint_niklaas,2025,2160004,2160004,2160004,CW statutory bruto YE2025 (omzet unpublished; final year pre-fusion),src_mo_clean_jr2025_cw_en,medium,tick2294; bruto 2160004 DROP -4.29% vs 2256865; empty omzet; Stopgezet
+bud_mo_clean_pnl_jr2025_statutory,vzw_mo_clean_sint_niklaas,2025,-138224,-138224,-138224,CW statutory pnl YE2025 LOSS FLIP,src_mo_clean_jr2025_cw_en,medium,tick2294; pnl -138224 LOSS FLIP vs YE2024 27907
+bud_mo_clean_equity_jr2025_statutory,vzw_mo_clean_sint_niklaas,2025,195665,195665,195665,CW statutory equity YE2025,src_mo_clean_jr2025_cw_en,medium,tick2294; equity 195665 DROP -45.06% vs 356155
+bud_mo_clean_fte_jr2025_statutory,vzw_mo_clean_sint_niklaas,2025,60.0,60.0,60.0,CW FTE YE2025,src_mo_clean_jr2025_cw_en,medium,tick2294; FTE 60.0 vs 58.9
+bud_mo_clean_pnl_jr2024_statutory_cmp,vzw_mo_clean_sint_niklaas,2024,27907,27907,27907,CW pnl YE2024 comparative,src_mo_clean_jr2025_cw_en,medium,tick2294; YE2024 pnl 27907 comparative (pre LOSS FLIP)
