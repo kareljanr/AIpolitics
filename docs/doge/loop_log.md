@@ -26544,3 +26544,12 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN+FR — omzet **EUR740845** JUMP +5.31%; bruto **EUR5780489** JUMP +9.08% (~7.8x); pnl **EUR539105** JUMP +5.47%; equity **EUR6458105**; FTE **64.6**; filed **12.06.2026**. Medium.
 - Wrote: CSVs + FOI gap_humival_nbb_pdf_assets_debt_bruto_gt_omzet_7_80x_pnl_jump_vaph_matrix_l5; rq_2321=done + rq_2322 open; ticks=2321.
 - FOI ready not sent. NOT every-10 (next **2330**).
+
+## tick 2322 — 2026-08-27T23:40:00Z — rq_2322 L'entre D'eux MSP YE2025
+
+- **Unit:** leftover dual Walloon MSP ASBL L'entre D'eux (KBO 0550.649.006) Nandrin after Humival@2321.
+- **Primary €:** omzet **EUR1532456**; Medium CW; PI **5.25**.
+- **Also:** equity NEG FLIP EUR-28699; pnl LOSS deepen EUR-90887; bruto EUR1316446; FTE 19.1; filed 01.08.2026.
+- **Writes:** entities/sources/budgets/commitments/leaderboard + FOI `gap_entre_deux_nbb_pdf_assets_debt_neg_equity_pnl_loss_deepen_msp_matrix_l5` ready NOT sent.
+- **Stalls:** AGB Bornem JR2024; FARO/AIESH/Citeco YE2024.
+- **Next:** rq_2322 open; next EVERY-10 **2330**.

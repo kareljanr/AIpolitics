@@ -53991,3 +53991,9 @@ bud_humival_pnl_jr2025_statutory,vzw_humival_lievegem,2025,539105,539105,539105,
 bud_humival_equity_jr2025_statutory,vzw_humival_lievegem,2025,6458105,6458105,6458105,CW equity YE2025,src_humival_jr2025_cw_en,medium,tick2321; +8.49%
 bud_humival_fte_jr2025_statutory,vzw_humival_lievegem,2025,64.6,64.6,64.6,CW FTE 64.6,src_humival_jr2025_cw_en,medium,tick2321; assets/debt Unknown
 bud_humival_pnl_jr2024_cmp,vzw_humival_lievegem,2024,511155,511155,511155,CW pnl YE2024,src_humival_jr2025_cw_en,medium,tick2321; 511155
+bud_entre_deux_omzet_jr2025_statutory,asbl_entre_deux_msp_nandrin,2025,1532456,1532456,1532456,CW statutory omzet YE2025 primary,src_entre_deux_jr2025_cw_en,medium,tick2322; DROP -5.74% vs 1625849
+bud_entre_deux_bruto_jr2025_statutory,asbl_entre_deux_msp_nandrin,2025,1316446,1316446,1316446,CW bruto YE2025,src_entre_deux_jr2025_cw_en,medium,tick2322; DROP -2.06% vs 1344125
+bud_entre_deux_pnl_jr2025_statutory,asbl_entre_deux_msp_nandrin,2025,-90887,-90887,-90887,CW pnl YE2025 LOSS deepen,src_entre_deux_jr2025_cw_en,medium,tick2322; LOSS deepen -47.2% vs -61745
+bud_entre_deux_equity_jr2025_statutory,asbl_entre_deux_msp_nandrin,2025,-28699,-28699,-28699,CW equity YE2025 NEG FLIP,src_entre_deux_jr2025_cw_en,medium,tick2322; NEG FLIP vs YE2024 +62188
+bud_entre_deux_fte_jr2025_statutory,asbl_entre_deux_msp_nandrin,2025,19.1,19.1,19.1,CW FTE 19.1,src_entre_deux_jr2025_cw_en,medium,tick2322; vs 18.0
+bud_entre_deux_equity_jr2024_statutory_cmp,asbl_entre_deux_msp_nandrin,2024,62188,62188,62188,CW equity YE2024 cmp pre NEG FLIP,src_entre_deux_jr2025_cw_en,medium,tick2322; cmp
