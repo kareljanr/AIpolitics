@@ -24660,3 +24660,21 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2172 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ; optional Ben Woonzorgnetwerk if YE2025).
 
+
+
+## Tick 2171 - 2026-08-26T03:00:00Z - rq_2171 De Vlietoever WZC Bornem (omzet JUMP 13.3m / pnl LOSS IMPROVED -226k / equity DROP / Medium)
+
+- Unit: **rq_2171** leftover dual after **rq_2170 EVERY-10 + Abdij Affligem**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Melis Home already mined/micro. Took unused leftover **De Vlietoever WZC BV** YE2025 (KBO **0898.596.122**; Egied De Jonghestraat 74 Bornem/Wintam; **BV** NACE **87.101** RVT / **2 VE**; CuraCare). Do not redo Affligem/Aaigem/Sint Lodewijk/Lork Hoeselt/Anima stack/Avondvrede/Zorg-Saam/Sint-Bernardus/Ruggeveld/Salvator/Mater Dei/Sint-Carolus/Stuyvenberg.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR13320285** JUMP +7.56% vs YE2024 EUR12384152; bruto **EUR8990392** JUMP +14.86%; pnl **EUR-226420** LOSS IMPROVED vs YE2024 EUR-940240; equity **EUR1427775** DROP -13.69% vs YE2024 EUR1654194; FTE **124.3**; neerlegging **17.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief BV 2 VE NACE 87.101. FOI via info.vlietoever@cura-care.be (tel 03 889 37 99). Dual AGB Bornem still JR2024.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.0); entities (+1 bv_de_vlietoever_wzc_bornem); foi + draft gap_vlietoever_nbb_pdf_assets_debt_pnl_loss_equity_drop_cura_matrix_l5; rq_2171=done + rq_2172 open; loop_state ticks=2171; raw docs/doge/data/raw/tick2171/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2172 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
+## Tick 2172 - 2026-08-26T03:20:00Z - rq_2172 Zorgnetwerk Cur@-Z (omzet JUMP 18.0m / pnl DROP -63% / FTE JUMP / Medium)
+
+- Unit: **rq_2172** leftover dual after **rq_2171** (Het Dorp / De Vlietoever race). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Ben Woonzorgnetwerk already mined concurrent. Took unused leftover **Zorgnetwerk Cur@-Z VZW** YE2025 (KBO **0433.217.935**; Kwaremontplein 41 Kluisbergen; **VZW** NACE **87.101** RVT / **3 VE**; sites Sint-Franciscus/Haagwinde/Casteelbosch). Do not redo Het Dorp/De Vlietoever/Abdij/Aaigem/Ben/Sint Lodewijk/Lork Hoeselt/Anima/Zorg-Saam/emeis.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR17978378** JUMP +47.52% vs YE2024 EUR12186670; bruto **EUR18458106** JUMP +35.35%; pnl **EUR171555** DROP -63.08% vs YE2024 EUR464714; equity **EUR9245699** JUMP +38.00%; FTE **246.4** (vs 185.7); neerlegging **11.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW + email klaus.vanhoecke@cura-z.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.8); entities (+1 vzw_zorgnetwerk_curaz); foi + draft gap_curaz_nbb_pdf_assets_debt_omzet_jump_pnl_drop_fte_jump_matrix_l5; rq_2172=done + rq_2173 open; loop_state ticks=2172; raw docs/doge/data/raw/tick2172/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2173 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+

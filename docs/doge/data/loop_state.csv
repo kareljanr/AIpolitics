@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T03:00:00Z,rq_2171,2171,no,tick2171 leftover Het Dorp 0835.884.236 Medium (omzet empty; bruto -3.6k; pnl -3.6k; equity NEG -12.0m; FTE 50; emeis board 0887.690.451); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2172; next every-10 2180; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T03:20:00Z,rq_2172,2172,no,tick2172 leftover Cur@-Z 0433.217.935 Medium (omzet JUMP 18.0m +47.5%; bruto JUMP 18.5m; pnl DROP 172k -63%; equity JUMP 9.25m; FTE JUMP 246.4; 3 VE RVT); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2173; next every-10 2180; continuous hole_fill
