@@ -1,0 +1,15 @@
+{
+  "tick": "2347",
+  "unit": "rq_2347",
+  "entity": "vzw_de_korenbloem_kortrijk",
+  "kbo": "0418.825.412",
+  "omzet": 12564145,
+  "bruto": 12311379,
+  "pnl": -360537,
+  "equity": 8688763,
+  "fte": 175.9,
+  "confidence": "medium",
+  "gap": "gap_korenbloem_nbb_pdf_assets_debt_omzet_12_56m_pnl_loss_flip_wzc_matrix_l5",
+  "pi": 6.15,
+  "repair": true
+}
