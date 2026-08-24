@@ -24528,3 +24528,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2162 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
 
+
+
+## Tick 2162 - 2026-08-26T00:00:00Z - rq_2162 Boterlaarhof Deurne (bruto JUMP 4.66m / omzet empty / pnl DROP / Medium)
+
+- Unit: **rq_2162** leftover dual after **rq_2161 Woonzorgnet-Dijleland** (concurrent closed preferred WZND before this agent). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024** (FREE but no YE2025); REW still **YE2024**. Took unused leftover **Boterlaarhof BV** YE2025 (KBO **0412.886.636**; Boterlaarbaan 11 Antwerpen/Deurne; **BV** NACE **87.101** / **1 VE**; De Zorgfamilie). Do not redo WZND/Foyer De Lork/OLV Kempen/HERTOG JAN/Lindeboom/Epinette/Parc de Forest/Le Hanois/Eycken Brug/Sint-Felix/HVZ stack/Veilige Have/Molenheide/Rumst.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR4659031** JUMP +6.03% vs YE2024 EUR4394215; pnl **EUR66370** DROP -17.67% vs YE2024 EUR80613; equity **EUR1203689** JUMP +5.84%; FTE **61.3**; neerlegging **13.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief BV. FOI via vragen@dezorgfamilie.be (tel 03 380 12 12).
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 bv_boterlaarhof_deurne); foi + draft gap_boterlaarhof_nbb_pdf_assets_debt_omzet_empty_bruto_jump_matrix_l5; rq_2162=done + rq_2163 open; loop_state ticks=2162; raw docs/doge/data/raw/tick2162/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2163 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros).
