@@ -6,34 +6,34 @@
 
 ---
 
-## Snapshot at **tick 2160** (2026-08-25)
+## Snapshot at **tick 2170** (2026-08-26)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
-| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 2151-2160 WZC/MRS + Walloon HVZ opacity continuum after 2150 Val de Sambre |
-| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 2151-2160 is residual dual L5 (not near-complete of 348bn):** **Annuntiaten Heverlee** omzet JUMP **4.45m** / pnl LOSS flip · **Vesdre / Brabant wallon / Hainaut-Est** FTE-only FOI · **Eycken Brug** omzet JUMP **5.90m** · **Le Hanois** bruto JUMP **2.47m** · **Parc de Forest** omzet DROP **880k** / equity NEG · **Epinette** omzet **171k** / pnl LOSS flip **-1.33m** · **De Lindeboom** omzet **25.26m** / pnl LOSS flip · **HERTOG JAN** bruto JUMP **4.01m** · **Foyer De Lork** omzet JUMP **153.5m** / pnl LOSS **-1.74m** (EVERY-10 primary) · **Home OLV van de Kempen Ravels** omzet JUMP **8.92m** / pnl LOSS narrow **-150k** (race-recover) Medium |
-| **E. FOI-ready gaps** | **~1786** drafts ready | Human send only; answered **~11**; partial **~28**; total FOI rows **~1838** |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 2161-2170 WZC/MRS/Anima/heritage continuum after 2160 Foyer De Lork / OLV Kempen |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 2161-2170 is residual dual L5 (not near-complete of 348bn):** **Salvator Hasselt** omzet JUMP **18.23m** / pnl LOSS flip · **Residentie Ruggeveld** bruto JUMP **4.62m** · **WZC Sint-Bernardus De Panne** omzet JUMP **8.49m** / pnl DROP −50% · **Zorg-Saam ZKJ** omzet JUMP **135.9m** / pnl DROP −30.6% · **'t Hofke Puurs** bruto collapse / equity NEG · **Anima Vlaanderen** omzet JUMP **64.67m** / DEEPER LOSS / equity NEG · **Avondvrede** omzet DROP **2.20m** / LOSS flip · **Anima NV hold** omzet JUMP **2.45m** / pnl JUMP **2.06m** / equity **69.5m** · **Lork Hoeselt BV** bruto JUMP **785k** / equity NEG · **Sint Lodewijk Schilde** omzet JUMP **8.43m** / pnl DROP −65% · **Sint-Vincentius Aaigem** bruto JUMP **743k** / pnl LOSS flip (dual shell) · **Abdij Affligem** omzet DROP **565k** / pnl DROP −67% (EVERY-10 primary) Medium |
+| **E. FOI-ready gaps** | **~1799** drafts ready | Human send only; answered **~11**; partial **~28**; total FOI rows **~1851** |
 
-**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/thuiszorg/property/renewable/energy/nuclear/water/forest/hospital/psych/creche/disability shells** (**NEW 2151-2160** Annuntiaten · Vesdre · Brabant wallon · Hainaut-Est · Eycken Brug · Le Hanois · Parc de Forest · Epinette · De Lindeboom · HERTOG JAN · **Foyer De Lork** · **OLV Kempen Ravels** · prior 2141-2150 / 2131-2140 stacks retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs hospital IGS/ASBL path possible; Medium aggregators pending NBB PDF.**
+**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque/EIWT · lottery · Tax Shelter · private PPP · equity injections · reform savings paths · **gross financing / OLO** · **debt principal repay** · **SAFE loans EUR8.34bn BE** · **Entity II HermReg soldes EUR7.9bn** · **VL/WAL/FWB/BCR debt stocks** · **Hedera CAP EUR15bn** · **MOG II / PE Island multi-bn grid** · **Metro3 multi-bn** · **university/city balance sheets** · **AGB/zorg/APB/EVA/IGS/NV/cv dual + commercial WZC/HVZ/thuiszorg/property/renewable/energy/nuclear/water/forest/hospital/psych/creche/disability/heritage shells** (**NEW 2161-2170** Salvator · Ruggeveld · Sint-Bernardus De Panne · Zorg-Saam · 't Hofke · Anima VL · Avondvrede · Anima hold · Lork Hoeselt · Sint Lodewijk · Aaigem dual · **Abdij Affligem** · prior 2151-2160 stacks retained) · **LUWA PPP EUR590m** · private gambling **EUR31.5bn** market. **Double-count vs hospital IGS/ASBL path possible; Medium aggregators pending NBB PDF.**
 
-### Inventory (tick 2160)
+### Inventory (tick 2170)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | 52860 |
-| commitments.csv | 5836 |
-| leaderboard.csv | 7957 |
-| entities.csv | 1867 |
-| sources.csv | 5740 |
-| FOI ready | 1786 |
+| budgets.csv | 52925 |
+| commitments.csv | 5850 |
+| leaderboard.csv | 7971 |
+| entities.csv | 1881 |
+| sources.csv | 5810 |
+| FOI ready | 1800 |
 | FOI answered | 11 |
 | FOI partial | 28 |
-| FOI total rows | 1838 |
-| research_queue open | rq_2161 after progress |
+| FOI total rows | 1852 |
+| research_queue open | rq_2171 after progress |
 
-### What improved since tick 2150
+### What improved since tick 2160
 
-- **Residual dual (tick2151-2160):** **WZC Annuntiaten Heverlee** (omzet JUMP 4.45m / pnl LOSS flip) · **ZS Vesdre** (FTE 100 FOI) · **ZS Brabant wallon** (FTE 200 FOI) · **ZS Hainaut-Est** (FTE 200 FOI) · **WZC d'Eycken Brug** (omzet JUMP 5.90m) · **MRS Le Hanois** (bruto JUMP 2.47m / Belle Chasse absorbed) · **MRS Parc de Forest** (omzet DROP 880k / equity NEG) · **Seniorie de l'Epinette** (omzet 171k / pnl LOSS flip -1.33m / equity DROP -50%) · **De Lindeboom Knokke** (omzet 25.26m / pnl LOSS flip / OLVO) · **HERTOG JAN Kortenberg** (bruto JUMP 4.01m / omzet empty) · **Foyer De Lork Geel** (EVERY-10 primary — omzet JUMP **153.5m**; pnl LOSS **-1.74m**; equity DROP **-15%**; FTE **1541**; 34 VE) · **Home OLV van de Kempen Ravels** (race-recover — omzet JUMP **8.92m** +16.6%; bruto JUMP **7.55m**; pnl LOSS narrow **-150k**; equity DROP **7.24m**; FTE JUMP **90.6**; Medium CW; FOI ready).
-- **Blocked still:** AGB Bornem JR2025 unpublished (JR2024 Strong mined) · FARO NBB YE2025 unpublished (YE2024 filing / CW last balance 2024; JV2025 activity report only) · AIESH / REW YE2024-only · Hof ter Lande Vorselaar YE2024-only (probed race-recover) · prior Eneco deposit FOI stack · Walloon ZDS comptes/budget PDFs (Dinaphi/ZHC/Hesbaye/WAPI/HEMECO/VDS/Vesdre/BW/Hainaut-Est FOI-ready).
+- **Residual dual (tick2161-2170):** **Salvator Welzijnscentrum Hasselt** (omzet JUMP 18.23m / LOSS flip) · **Residentie Ruggeveld** (bruto JUMP 4.62m / pnl FLIP PROFIT) · **WZC Sint-Bernardus De Panne** (omzet JUMP 8.49m / pnl DROP −50%) · **Zorg-Saam Zusters Kindsheid Jesu** (omzet JUMP 135.9m / pnl DROP −30.6% / 1707 FTE) · **'t Hofke Puurs** (bruto collapse / equity NEG) · **Anima Vlaanderen** (omzet JUMP 64.67m / DEEPER LOSS / equity NEG) · **Rusthuis Avondvrede** (omzet DROP 2.20m / LOSS flip) · **Anima NV holding** (omzet JUMP 2.45m / pnl JUMP 2.06m / equity 69.5m) · **WZC Foyer De Lork Hoeselt BV** (bruto JUMP 785k / equity NEG / Care Property RE shell) · **Zorgcentrum Sint Lodewijk Schilde** (omzet JUMP 8.43m / pnl DROP −65%) · **Sint-Vincentius Aaigem** dual shell (bruto JUMP 743k / pnl LOSS flip / related WZC YE2024) · **Abdij Affligem** (EVERY-10 primary — omzet DROP **565k** −15.4%; bruto DROP **335k**; pnl DROP **43k** −67%; equity JUMP **6.15m**; FTE **2.8**; heritage VZW wine/flour; Medium CW; FOI ready).
+- **Blocked still:** AGB Bornem JR2025 unpublished (JR2024 Strong mined) · FARO NBB YE2025 unpublished (YE2024 filing / CW last balance 2024; JV2025 activity report only) · AIESH / REW YE2024-only · Hof ter Lande Vorselaar YE2024-only · Melis Home skip (retail NACE 47, not care) · Residentie Oudenburg skip (NACE 68 RE) · Walloon ZDS comptes/budget PDFs FOI-ready stack retained.

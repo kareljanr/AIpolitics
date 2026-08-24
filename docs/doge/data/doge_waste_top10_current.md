@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2160** (2026-08-25) · **7957** leaderboard rows  
+**As-of:** tick **2170** (2026-08-26) · **7971** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt AGB / scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,14 +27,15 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **university/city balance sheets** · **AGB/zorg dual + IGS/HVZ/CAW/CGG/woonmaatschappij/thuiszorg shells** · **NEW residual 2151-2160:** **Foyer De Lork omzet 153.5m** · **De Lindeboom omzet 25.26m** · **OLV Kempen omzet 8.92m** · **Eycken Brug omzet 5.90m** · **Annuntiaten omzet 4.45m** · **HERTOG JAN bruto 4.01m** · **Epinette pnl LOSS -1.33m** · **Parc de Forest equity NEG** · Walloon HVZ opacity stack (**Vesdre / Brabant wallon / Hainaut-Est** + prior Dinaphi/ZHC/Hesbaye/WAPI/HEMECO/Val de Sambre FTE-only FOI) · prior 2141-2150 Care-Ion/Groep SF/Zonnelied/Denderrust stack retained · prior nuclear/Fluxys/Elia/Enodia/RESA · **LUWA PPP €590m** · private gambling **€31.5bn** market.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **university/city balance sheets** · **AGB/zorg dual + IGS/HVZ/CAW/CGG/woonmaatschappij/thuiszorg shells** · **NEW residual 2161-2170:** **Zorg-Saam omzet 135.9m** · **Anima Vlaanderen omzet 64.67m** · **Salvator omzet 18.23m** · **Sint-Bernardus De Panne omzet 8.49m** · **Sint Lodewijk omzet 8.43m** · **Anima hold equity 69.5m** · **Abdij Affligem omzet 565k** (EVERY-10@2170 primary) · prior 2151-2160 Foyer De Lork/Lindeboom/OLV Kempen stack retained · Walloon HVZ opacity stack retained · prior nuclear/Fluxys/Elia/Enodia/RESA · **LUWA PPP €590m** · private gambling **€31.5bn** market.
 
-**Change vs tick 2150:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10; Metro3/OWV filtered as stock). Re-verified from leaderboard (corrupt AGB/scoring pi>10 / Metro3 stock / OWV snowball stock filtered off; seed/open TE-FFS rows retained for pure annual ranking). **Major NEW residual 2151-2160 (off pure top10 / dual):** Annuntiaten · Vesdre · Brabant wallon · Hainaut-Est · Eycken Brug · Le Hanois · Parc de Forest · Epinette · De Lindeboom · HERTOG JAN · **Foyer De Lork omzet 153.5m** (EVERY-10@2160 primary) · **OLV van de Kempen Ravels omzet 8.92m** (race-recover). Count NEW since 2150: 12 residual dual fills. **Prior 2141-2150 + 2131-2140 stacks retained.** Not TE-additive of ~348bn.
+**Change vs tick 2160:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10; Metro3/OWV filtered as stock). Re-verified from leaderboard (corrupt AGB/scoring pi>10 / Metro3 stock / OWV snowball stock filtered off; seed/open TE-FFS rows retained for pure annual ranking). **Major NEW residual 2161-2170 (off pure top10 / dual):** Salvator · Ruggeveld · Sint-Bernardus De Panne · Zorg-Saam · 't Hofke · Anima VL · Avondvrede · Anima hold · Lork Hoeselt · Sint Lodewijk · Aaigem dual · **Abdij Affligem omzet DROP 565k** (EVERY-10@2170 primary). Count NEW since 2160: 12 residual dual fills. **Prior 2151-2160 + 2141-2150 stacks retained.** Not TE-additive of ~348bn.
 
 ### High-absurdity residual (not pure top10)
 
-- **Foyer De Lork** sustained LOSS path (−1.74m YE2025 after −3.48m YE2024) on **EUR153.5m** omzet / **1541 FTE** / **34 VE** — NBB PDF + per-site matrix FOI.
-- **OLV Kempen Ravels** LOSS narrow −150k despite omzet JUMP +16.6% / FTE JUMP 90.6 — NBB PDF assets/debt FOI.
-- **Lindeboom** LOSS flip after profit + OLVO Departement Zorg intake ban.
-- **Epinette** LOSS flip −1.33m / equity −50% / thin omzet vs FTE 50 (branch-cession residual).
-- Walloon **ZS** stack (BW / Vesdre / Hainaut-Est / …) FTE-only budget opacity.
+- **Zorg-Saam ZKJ** pnl DROP −30.6% on **EUR135.9m** omzet / **1707 FTE** / **16 VE** — NBB PDF + sector matrix FOI.
+- **Anima Vlaanderen** DEEPER LOSS −1.42m / equity NEG on **EUR64.7m** omzet despite hold profit — related-party FOI.
+- **Sint Lodewijk Schilde** pnl DROP −65% despite omzet JUMP — NBB PDF assets/debt FOI.
+- **Aaigem dual shell** bruto 743k / FTE 0 vs operating WZC YE2024 LOSS −1.09m — related-party FOI.
+- **Abdij Affligem** pnl DROP −67% / omzet DROP −15% with **EUR6.15m** equity — subsidy vs wine/flour FOI.
+- Walloon **ZS** stack FTE-only budget opacity retained.

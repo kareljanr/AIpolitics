@@ -24641,3 +24641,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.0); entities (+1 vzw_sint_vincentius_aaigem); foi + draft gap_sint_vincentius_aaigem_nbb_pdf_assets_debt_omzet_empty_pnl_flip_related_wzc_matrix_l5; rq_2169=done + rq_2170 open (EVERY-10); loop_state ticks=2169; raw docs/doge/data/raw/tick2169/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2170 EVERY-10 progress+top10 THEN leftover (AGB/FARO-if-YE2025 / AIESH-REW / Melis-or-Affligem / unused IGS-DSO-WZC-MRS).
+
+## Tick 2170 - 2026-08-26T02:40:00Z - EVERY-10 + rq_2170 Abdij Affligem (omzet DROP 565k / pnl DROP -67% / Medium)
+
+- Unit: **rq_2170 EVERY-10** + leftover dual after **rq_2169 Sint-Vincentius Aaigem**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Skipped Melis Home 0787.300.696 (retail NACE 47 not care); Residentie Oudenburg NACE 68 RE; Ventu consulting. Took named deferred unused leftover **Abdij Affligem VZW** YE2025 (KBO **0400.371.161**; Abdijstraat 6 Affligem; **VZW** RSZ **94.999** / BTW wine+flour / **1 VE**). Do not redo Aaigem/Sint Lodewijk/Lork Hoeselt/Anima stack/Zorg-Saam/Sint-Bernardus/Ruggeveld/Salvator.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR564963** DROP -15.37% vs YE2024 EUR667571; bruto **EUR335127** DROP -27.72%; pnl **EUR42658** DROP -66.52% vs YE2024 EUR127418; equity **EUR6149175** JUMP +0.70%; FTE **2.8**; neerlegging **02.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW. FOI via info@abdijaffligem.be (tel 053 66 70 25).
+- EVERY-10: refreshed `progress_every_10_ticks.md` (tick 2170 snapshot; layers A–E; inventory budgets 52925 / lb 7971 / FOI ready ~1800) + `doge_waste_top10_current.md` (pure annual top10 stable GIP/fossil/cars/cheque; NEW residual 2161-2170 note).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.4); entities (+1 vzw_abdij_affligem); foi + draft gap_abdij_affligem_nbb_pdf_assets_debt_omzet_drop_pnl_drop_subsidy_matrix_l5; rq_2170=done + rq_2171 open; loop_state ticks=2170; raw docs/doge/data/raw/tick2170/.
+- FOI: **ready not sent** (human-gated).
+- EVERY-10 done (**last every-10 was 2160**; next **2180**). Next: rq_2171 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
