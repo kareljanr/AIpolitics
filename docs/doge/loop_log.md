@@ -25746,3 +25746,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.15); entities (+1 vzw_les_erables_tournai); foi + draft gap_erables_nbb_pdf_assets_debt_bruto_gt_omzet_1_45x_pnl_drop_89pct_eta_matrix_l5; rq_2259=done + rq_2260 open (EVERY-10); loop_state ticks=2259; raw docs/doge/raw/tick2259/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2250**; next **2260** MUST refresh progress + waste top10). Next: rq_2260.
+
+
+### 2026-08-27T07:10:00Z - tick 2260 - rq_2260 EVERY-10 + Alteria Colfontaine (omzet 3.12m / pnl DROP -87.72% / bruto~1.72x / FTE 212.4 / Medium)
+
+- **EVERY-10:** refreshed `progress_every_10_ticks.md` (A **100%** / B **100%** / C **~99%** / D **~74-88%** generous residual dual / E **~1914** FOI-ready) and `doge_waste_top10_current.md` (GIP #1; fossil/cars/cheque/reporté #2-10 stable; Alteria off pure top10). Next every-10: **2270**.
+- Unit: **rq_2260** leftover dual after **rq_2259 Les Erables**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Relais Haute Sambre/Sipres/APN/Stallbois still **YE2024**. Took named FREE Walloon ETA **Alteria ASBL** YE2025 (KBO **0476.855.364**; Rue Grande 5-7 Colfontaine; **Actief** **1 VE**; NACE **88.993** AViQ). Do not redo Les Erables/Val du Geer/Nekto/Belair stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3115001** JUMP +2.94% vs YE2024 EUR3026171; bruto **EUR5351920** JUMP +8.28% (bruto≫omzet ~1.72x); pnl **EUR72779** DROP -87.72% vs YE2024 EUR592478; equity **EUR1966154** JUMP +3.73%; FTE **212.4**; neerlegging **08.07.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@eta-alteria.be.
+- Wrote: progress+top10; sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.10); entities (+1 vzw_alteria_colfontaine); foi + draft gap_alteria_nbb_pdf_assets_debt_bruto_gt_omzet_1_72x_pnl_drop_88pct_eta_matrix_l5; rq_2260=done + rq_2261 open; loop_state ticks=2260; raw docs/doge/raw/tick2260/.
+- FOI: **ready not sent** (human-gated).
+- EVERY-10@**2260** done. Next: rq_2261 (AGB/FARO-if-YE2025 / AIESH-REW / unused). Next every-10 **2270**.
