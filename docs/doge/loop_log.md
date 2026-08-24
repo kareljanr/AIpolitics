@@ -25040,3 +25040,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.7); entities (+1 vzw_de_kromme_boom_gent); foi + draft gap_kromme_boom_nbb_pdf_assets_debt_equity_neg_flip_pnl_loss_matrix_l5; rq_2203=done + rq_2204 open; loop_state ticks=2203; raw docs/doge/data/raw/tick2203/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2204 (AGB/FARO-if-YE2025 / AIESH-REW / Oesterbank-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+## Tick 2203 - 2026-08-26T13:40:00Z - rq_2203 Ijsedal Overijse (omzet JUMP 3.20m / bruto≫omzet ~1.75x / pnl LOSS FLIP -78k / Medium)
+
+- Unit: **rq_2203** leftover dual after **rq_2202 Aarova (+race Kaliber)**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (CW laatste balansjaar 2024; filed 24.11.2025); AIESH/REW **404**/YE2024-class. Took named FREE leftover **IJSEDAL Maatwerkbedrijf VZW** YE2025 (KBO **0407.602.017**; Schavei 75 Overijse; **Actief** **1 VE**; RSZ NACE **88.993**). Deferred FREE Kromme Boom YE2025 / Werkplus YE2025. Do not redo Aarova/Kaliber/MWP Pajottenland/De Winning/AGE/Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3201710** JUMP +4.24% vs YE2024 EUR3071579; bruto **EUR5617556** JUMP +4.4% (bruto≫omzet ~1.75x); pnl **EUR-77982** LOSS FLIP -183.98% vs YE2024 profit EUR92856; equity **EUR2829539** DROP -3.5%; FTE **150.3** JUMP vs 144.1; neerlegging **08.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 1 VE. FOI via info@ijsedal.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.0); entities (+1 vzw_ijsedal_maatwerk_overijse); foi + draft gap_ijsedal_nbb_pdf_assets_debt_omzet_pnl_loss_flip_bruto_gt_omzet_matrix_l5; rq_2203=done + rq_2204 open; loop_state ticks=2203; raw docs/doge/data/raw/tick2203/.
+- FOI: **ready NOT sent** (human-gated).
+- Next: rq_2204 leftover dual (prefer AGB/FARO-YE2025/AIESH-REW else FREE Kromme Boom/Werkplus/maatwerk-WZC-IGS). **Next every-10 is 2210**.
+
+### 2026-08-26T13:45:00Z - tick 2203 race note
+- Concurrent agent also closed rq_2203 as De Kromme Boom Gent YE2025 Medium (877e9a32; omzet 1.20m / equity NEG FLIP -79k / pnl LOSS IMPROVED) before/with Ijsedal. Both YE2025 Medium units kept. rq_2204 open head updated; do not redo either. Next every-10 still 2210.

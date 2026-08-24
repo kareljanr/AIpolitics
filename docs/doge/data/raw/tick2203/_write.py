@@ -1,4 +1,4 @@
-# tick2203 writer — De Kromme Boom Gent YE2025 Medium CW (equity NEG FLIP)
+# tick2203 writer — Ijsedal Maatwerkbedrijf YE2025 Medium CW
 import csv
 import json
 from pathlib import Path
@@ -8,21 +8,23 @@ csv.field_size_limit(10**7)
 
 UTC = "2026-08-26T13:40:00Z"
 TICK = "2203"
-ENTITY = "vzw_de_kromme_boom_gent"
-SRC_EN = "src_kromme_boom_jr2025_cw_en"
-COMM = "comm_kromme_boom_jr2025_statutory_maatwerk_equity_neg_flip_pnl_loss"
-LB = "lb_kromme_boom_omzet_1_20m_equity_neg_flip_pnl_loss_jr2025"
-GAP = "gap_kromme_boom_nbb_pdf_assets_debt_equity_neg_flip_pnl_loss_matrix_l5"
+ENTITY = "vzw_ijsedal_maatwerk_overijse"
+SRC_EN = "src_ijsedal_jr2025_cw_en"
+COMM = "comm_ijsedal_jr2025_statutory_maatwerk_pnl_loss_flip_bruto_gt_omzet"
+LB = "lb_ijsedal_omzet_3_20m_pnl_loss_flip_bruto_gt_omzet_jr2025"
+GAP = "gap_ijsedal_nbb_pdf_assets_debt_omzet_pnl_loss_flip_bruto_gt_omzet_matrix_l5"
 
-OMZET = 1195537
-BRUTO = 996352
-PNL = -86344
-EQUITY = -78999
-FTE = 27.5
-BRUTO24 = 877185
-PNL24 = -155302
-EQUITY24 = 7345
-FTE24 = 26.2
+OMZET = 3201710
+BRUTO = 5617556
+PNL = -77982
+EQUITY = 2829539
+FTE = 150.3
+OMZET24 = 3071579
+BRUTO24 = 5380730
+PNL24 = 92856
+EQUITY24 = 2932146
+FTE24 = 144.1
+ENVELOPE = OMZET
 
 
 def append_csv(path, rows):
@@ -48,49 +50,49 @@ append_csv(
     "sources.csv",
     [
         {
-            "source_id": "src_kromme_boom_jr2025_cw_nl",
-            "title": "Companyweb NL De Kromme Boom YE2025 statutory",
-            "url": "https://www.companyweb.be/nl/0454426489/maatwerkbedrijf-de-kromme-boom",
+            "source_id": "src_ijsedal_jr2025_cw_nl",
+            "title": "Companyweb NL Ijsedal Maatwerkbedrijf YE2025 statutory",
+            "url": "https://www.companyweb.be/nl/0407602017/ijsedal-maatwerkbedrijf",
             "publisher": "Companyweb (NBB-derived)",
             "accessed_date": "2026-08-26",
             "source_class": "secondary_aggregator",
-            "notes": f"tick{TICK}; YE2025 omzet {OMZET} bruto JUMP {BRUTO} pnl LOSS IMPROVED {PNL} equity NEG FLIP {EQUITY} FTE JUMP {FTE}; neerlegging 12.06.2026; prior omzet unpublished on CW; raw docs/doge/data/raw/tick2203/",
+            "notes": f"tick{TICK}; YE2025 omzet JUMP {OMZET} bruto {BRUTO} pnl LOSS FLIP {PNL} equity DROP {EQUITY} FTE {FTE}; neerlegging 08.06.2026; raw docs/doge/data/raw/tick2203/",
         },
         {
             "source_id": SRC_EN,
-            "title": "Companyweb EN De Kromme Boom YE2025 statutory",
-            "url": "https://www.companyweb.be/en/0454426489/maatwerkbedrijf-de-kromme-boom",
+            "title": "Companyweb EN Ijsedal Maatwerkbedrijf YE2025 statutory",
+            "url": "https://www.companyweb.be/en/0407602017/ijsedal-maatwerkbedrijf",
             "publisher": "Companyweb (NBB-derived)",
             "accessed_date": "2026-08-26",
             "source_class": "secondary_aggregator",
-            "notes": f"tick{TICK}; EN mirror YE2025 Medium; filed 12-06-2026; Turnover {OMZET} Profit/Loss {PNL} Equity {EQUITY} Employees {FTE}",
+            "notes": f"tick{TICK}; EN mirror YE2025 Medium; filed 08-06-2026; Turnover {OMZET} Profit/Loss {PNL} Equity {EQUITY} Gross margin {BRUTO} Employees {FTE}",
         },
         {
-            "source_id": "src_kromme_boom_jr2025_cw_fr",
-            "title": "Companyweb FR De Kromme Boom YE2025 statutory",
-            "url": "https://www.companyweb.be/fr/0454426489/maatwerkbedrijf-de-kromme-boom",
+            "source_id": "src_ijsedal_jr2025_cw_fr",
+            "title": "Companyweb FR Ijsedal Maatwerkbedrijf YE2025 statutory",
+            "url": "https://www.companyweb.be/fr/0407602017/ijsedal-maatwerkbedrijf",
             "publisher": "Companyweb (NBB-derived)",
             "accessed_date": "2026-08-26",
             "source_class": "secondary_aggregator",
-            "notes": f"tick{TICK}; FR mirror YE2025 Medium; Dernier bilan 2025",
+            "notes": f"tick{TICK}; FR mirror YE2025 Medium; CA {OMZET}",
         },
         {
-            "source_id": "src_kromme_boom_kbo_2203",
-            "title": "KBO De Kromme Boom 0454.426.489 Actief VZW 4 VE Gent",
-            "url": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0454426489",
+            "source_id": "src_ijsedal_kbo_2203",
+            "title": "KBO Ijsedal 0407.602.017 Actief VZW 1 VE Overijse",
+            "url": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=407602017",
             "publisher": "KBO FOD Economie",
             "accessed_date": "2026-08-26",
             "source_class": "official_register",
-            "notes": "tick2203; Actief VZW Maatwerkbedrijf De Kromme Boom; Eikstraat 81 9041 Gent; 4 VE; RSZ NACE 88.993; BTW farming/groothandel",
+            "notes": "tick2203; Actief VZW sinds 29.12.1969; Schavei 75 3090 Overijse; 1 VE; RSZ NACE 88.993; BTW sinds 01.01.1971; 7 bestuurders",
         },
         {
-            "source_id": "src_kromme_boom_foi_contact_2203",
-            "title": "De Kromme Boom FOI channel dekrommeboom@telenet.be",
-            "url": "https://www.desocialekaart.be/de-kromme-boom-sociale-werkplaats-533686",
-            "publisher": "Sociale Kaart / De Kromme Boom VZW",
+            "source_id": "src_ijsedal_foi_contact_2203",
+            "title": "Ijsedal FOI channel info@ijsedal.be",
+            "url": "https://www.ijsedal.be/",
+            "publisher": "IJSEDAL Maatwerkbedrijf VZW",
             "accessed_date": "2026-08-26",
             "source_class": "foi_contact",
-            "notes": "tick2203; dekrommeboom@telenet.be; 09 251 64 54; Eikstraat 81 9041 Oostakker; site www.dekrommeboom.be",
+            "notes": "tick2203; info@ijsedal.be / alissa.stouffs@ijsedal.be; Schavei 75 3090 Overijse; 02 686 09 20",
         },
     ],
 )
@@ -99,7 +101,7 @@ append_csv(
     "budgets.csv",
     [
         {
-            "budget_id": "bud_kromme_boom_omzet_jr2025_statutory",
+            "budget_id": "bud_ijsedal_omzet_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
             "amount_eur": str(OMZET),
@@ -108,22 +110,22 @@ append_csv(
             "basis": "CW statutory omzet / Turnover YE2025",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "notes": f"tick{TICK}; Medium CW; prior-year omzet unpublished on CW",
+            "notes": f"tick{TICK}; Medium CW; omzet JUMP +4.24% vs YE2024 {OMZET24}",
         },
         {
-            "budget_id": "bud_kromme_boom_bruto_jr2025_statutory",
+            "budget_id": "bud_ijsedal_bruto_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
             "amount_eur": str(BRUTO),
             "amount_min_eur": str(BRUTO),
             "amount_max_eur": str(BRUTO),
-            "basis": "CW statutory bruto_marge / Gross margin YE2025",
+            "basis": "CW statutory bruto_marge / Gross margin YE2025 (bruto≫omzet ~1.75x)",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "notes": f"tick{TICK}; Medium CW; bruto JUMP +13.59% vs YE2024 {BRUTO24}",
+            "notes": f"tick{TICK}; Medium CW; bruto JUMP +4.4% vs YE2024 {BRUTO24}; bruto≫omzet",
         },
         {
-            "budget_id": "bud_kromme_boom_pnl_jr2025_statutory",
+            "budget_id": "bud_ijsedal_pnl_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
             "amount_eur": str(PNL),
@@ -132,10 +134,10 @@ append_csv(
             "basis": "CW statutory winst / Profit-Loss after tax YE2025",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "notes": f"tick{TICK}; Medium CW; pnl LOSS IMPROVED +44.4% vs YE2024 {PNL24}",
+            "notes": f"tick{TICK}; Medium CW; pnl LOSS FLIP -183.98% vs YE2024 profit {PNL24}",
         },
         {
-            "budget_id": "bud_kromme_boom_equity_jr2025_statutory",
+            "budget_id": "bud_ijsedal_equity_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
             "amount_eur": str(EQUITY),
@@ -144,10 +146,10 @@ append_csv(
             "basis": "CW statutory eigen_vermogen / Equity YE2025",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "notes": f"tick{TICK}; Medium CW; equity NEG FLIP vs YE2024 {EQUITY24}",
+            "notes": f"tick{TICK}; Medium CW; equity DROP -3.5% vs YE2024 {EQUITY24}",
         },
         {
-            "budget_id": "bud_kromme_boom_fte_jr2025_statutory",
+            "budget_id": "bud_ijsedal_fte_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
             "amount_eur": str(FTE),
@@ -167,11 +169,11 @@ cash = {
     "2025_pnl": PNL,
     "2025_equity": EQUITY,
     "2025_fte": FTE,
+    "2024_omzet": OMZET24,
     "2024_bruto": BRUTO24,
     "2024_pnl": PNL24,
     "2024_equity": EQUITY24,
     "2024_fte": FTE24,
-    "2024_omzet": None,
 }
 
 append_csv(
@@ -179,24 +181,24 @@ append_csv(
     [
         {
             "commitment_id": COMM,
-            "title": "De Kromme Boom Gent YE2025 leftover dual (omzet 1.20m / equity NEG FLIP -79k / pnl LOSS IMPROVED -86k)",
+            "title": "Ijsedal YE2025 leftover dual (omzet JUMP 3.20m / bruto≫omzet ~1.75x / pnl LOSS FLIP -78k)",
             "entity_id": ENTITY,
-            "beneficiary": "maatwerkers / mushroom farming clients Oost-Vlaanderen Gent Oostakker",
-            "legal_basis": "VZW maatwerk (KBO 0454.426.489; Actief; 4 VE; RSZ NACE 88.993; BTW farming/groothandel)",
-            "decision_date": "2026-06-12",
+            "beneficiary": "maatwerkers / social-economy clients Overijse Vlaams-Brabant",
+            "legal_basis": "VZW maatwerk (KBO 0407.602.017; Actief; 1 VE; RSZ NACE 88.993)",
+            "decision_date": "2026-06-08",
             "start_year": "2025",
             "end_year": "2025",
-            "total_envelope_eur": str(OMZET),
+            "total_envelope_eur": str(ENVELOPE),
             "cash_by_year": json.dumps(cash, separators=(",", ":")),
             "remaining_eur": "0",
             "status": "active",
-            "evaluation_url": "https://www.companyweb.be/en/0454426489/maatwerkbedrijf-de-kromme-boom",
-            "stated_goal": "Sheltered employment / circular oyster-mushroom farming maatwerk",
-            "cut_option": "Publish NBB PDF assets/debt FOI; disclose equity NEG FLIP continuity and persistent LOSS subsidy path",
+            "evaluation_url": "https://www.companyweb.be/en/0407602017/ijsedal-maatwerkbedrijf",
+            "stated_goal": "Sheltered employment / maatwerk Overijse",
+            "cut_option": "Publish NBB PDF assets/debt FOI; disclose bruto≫omzet ~1.75x + LOSS FLIP subsidy matrix",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "hierarchy_path": "Vlaanderen>OostVlaanderen>Gent>DeKrommeBoom>JR2025_statutory_L5",
-            "notes": "tick2203; Medium CW; omzet primary envelope; equity NEG FLIP primary absurdity; prior omzet unpublished; assets/debt Unknown; preferred AGB Bornem JR2024; FARO/REW YE2024; not TE-additive of 348bn",
+            "hierarchy_path": "Vlaanderen>VlaamsBrabant>Overijse>Ijsedal>JR2025_statutory_L5",
+            "notes": "tick2203; Medium CW; omzet primary envelope; bruto≫omzet ~1.75x + pnl LOSS FLIP while FTE JUMP primary absurdity; assets/debt Unknown; preferred AGB Bornem JR2024; FARO YE2024; AIESH/REW 404/YE2024; not TE-additive of 348bn",
         }
     ],
 )
@@ -206,26 +208,26 @@ append_csv(
     [
         {
             "item_id": LB,
-            "name": "De Kromme Boom omzet 1.20m / equity NEG FLIP -79k / pnl LOSS IMPROVED -86k (YE2025)",
+            "name": "Ijsedal omzet JUMP 3.20m / bruto≫omzet ~1.75x / pnl LOSS FLIP -78k (YE2025)",
             "level": "L5",
             "type": "maatwerk_vzw_statutory",
-            "hierarchy_path": "Vlaanderen>OostVlaanderen>Gent>DeKrommeBoom>JR2025",
-            "annual_cost_eur": str(OMZET),
-            "total_cost_eur": str(OMZET),
-            "tco_notes": "CW omzet envelope 1.20m / bruto 1.00m / pnl LOSS IMPROVED -86k from YE2024 -155k / equity NEG FLIP -79k from +7k / FTE 27.5; Gent oyster-mushroom maatwerk; assets/debt Unknown pending NBB PDF",
+            "hierarchy_path": "Vlaanderen>VlaamsBrabant>Overijse>Ijsedal>JR2025",
+            "annual_cost_eur": str(ENVELOPE),
+            "total_cost_eur": str(ENVELOPE),
+            "tco_notes": "CW omzet JUMP envelope 3.20m / bruto 5.62m ≫omzet ~1.75x / pnl LOSS FLIP -78k from YE2024 +93k / equity DROP 2.83m / FTE JUMP 150.3; VL maatwerk Overijse; assets/debt Unknown pending NBB PDF",
             "confidence": "medium",
             "source_id": SRC_EN,
-            "beneficiaries": "maatwerkers Gent Oostakker / public loonkost path",
-            "stated_goal": "Sheltered employment + circular mushroom farming",
-            "measured_outcome": "omzet 1.20m (prior unpublished); bruto JUMP +13.6%; pnl LOSS IMPROVED +44.4%; equity NEG FLIP; FTE JUMP +5.0%",
-            "absurdity_score": "8.0",
-            "cost_score": "3.8",
+            "beneficiaries": "maatwerkers Overijse / VDAB-ESF path / commercial clients",
+            "stated_goal": "Sheltered employment maatwerk Overijse",
+            "measured_outcome": "omzet JUMP +4.2%; bruto≫omzet ~1.75x; pnl LOSS FLIP -184%; equity DROP -3.5%; FTE JUMP +4.3%",
+            "absurdity_score": "7.9",
+            "cost_score": "4.8",
             "difficulty": "3.0",
-            "priority_index": "6.7",
-            "cut_proposal": "Publish NBB PDF assets/debt/cash FOI; disclose equity NEG FLIP continuity + persistent LOSS under public subsidy path",
+            "priority_index": "7.0",
+            "cut_proposal": "Publish NBB PDF assets/debt/cash FOI; disclose bruto≫omzet + LOSS FLIP path; VDAB/ESF/gemeente subsidy split",
             "status": "open",
             "struck_reason": "",
-            "notes": f"tick{TICK}; Medium CW; FOI {GAP}; stall FARO/REW YE2024; Gent maatwerk dual after Kaliber/Aarova/De Winning",
+            "notes": f"tick{TICK} primary; Medium CW; FOI {GAP}; stall FARO YE2024 AIESH/REW; VL maatwerk dual after Aarova/Kaliber",
         }
     ],
 )
@@ -235,16 +237,16 @@ append_csv(
     [
         {
             "entity_id": ENTITY,
-            "name_nl": "Maatwerkbedrijf De Kromme Boom VZW (Gent Oostakker)",
-            "name_fr": "Maatwerkbedrijf De Kromme Boom ASBL (Gand)",
-            "name_en": "De Kromme Boom sheltered workshop / mushroom farm (Ghent)",
+            "name_nl": "IJSEDAL Maatwerkbedrijf VZW (Overijse)",
+            "name_fr": "IJSEDAL entreprise de travail adapté ASBL (Overijse)",
+            "name_en": "Ijsedal sheltered workshop (Overijse)",
             "level": "parastatal",
             "parent_id": "sec_flanders",
             "community_language": "nl",
-            "website": "https://www.dekrommeboom.be/",
-            "foi_email": "dekrommeboom@telenet.be",
-            "foi_postal": "Eikstraat 81, 9041 Gent",
-            "notes": f"tick{TICK} YE2025 Medium CW NL+EN+FR + Strong KBO 0454.426.489 Actief VZW 4 VE RSZ NACE 88.993; omzet {OMZET} bruto JUMP {BRUTO} pnl LOSS IMPROVED {PNL} vs YE2024 {PNL24} equity NEG FLIP {EQUITY} vs {EQUITY24} FTE JUMP {FTE}; neerlegging 12.06.2026; assets/debt Unknown; FOI {GAP}; preferred AGB Bornem JR2024; FARO/REW YE2024; not TE-additive of 348bn",
+            "website": "https://www.ijsedal.be/",
+            "foi_email": "info@ijsedal.be",
+            "foi_postal": "Schavei 75, 3090 Overijse",
+            "notes": f"tick{TICK} YE2025 Medium CW NL+EN+FR + Strong KBO 0407.602.017 Actief VZW 1 VE RSZ NACE 88.993; omzet JUMP {OMZET} bruto {BRUTO}≫omzet pnl LOSS FLIP {PNL} vs YE2024 profit {PNL24} equity DROP {EQUITY} FTE JUMP {FTE}; neerlegging 08.06.2026; assets/debt Unknown; FOI {GAP}; preferred AGB Bornem JR2024; FARO YE2024; AIESH/REW 404/YE2024; not TE-additive of 348bn",
         }
     ],
 )
@@ -254,14 +256,14 @@ append_csv(
     [
         {
             "gap_id": GAP,
-            "hierarchy_path": "Vlaanderen>OostVlaanderen>Gent>DeKrommeBoom>NBB_PDF_assets_debt_equity_neg_flip",
+            "hierarchy_path": "Vlaanderen>VlaamsBrabant>Overijse>Ijsedal>NBB_PDF_assets_debt_pnl_loss_flip",
             "entity_id": ENTITY,
-            "what_is_missing": f"NBB PDF jaarrekening YE2025 full (assets/debt LT-ST/cash/balanstotaal); equity NEG FLIP EUR{EQUITY} vs YE2024 EUR{EQUITY24}; pnl LOSS EUR{PNL} vs YE2024 EUR{PNL24}; omzet EUR{OMZET} (prior years unpublished on CW); bruto EUR{BRUTO}; FTE JUMP {FTE24}->{FTE}; loonkostsubsidie/Actiris/ESF/gemeente matrix; 4 VE cost allocation",
-            "why_it_matters": "Medium CW shows Gent maatwerk VZW with equity NEG FLIP and multi-year LOSS under public subsidy path while assets/debt unpublished",
+            "what_is_missing": f"NBB PDF jaarrekening YE2025 full (assets/debt LT-ST/cash/balanstotaal); bruto EUR{BRUTO} vs omzet EUR{OMZET} (~1.75x); pnl LOSS FLIP EUR{PNL} vs YE2024 profit EUR{PNL24} (-183.98%); FTE JUMP {FTE24}->{FTE}; VDAB/ESF/gemeente/provincie subsidy matrix",
+            "why_it_matters": "Medium CW shows VL maatwerk VZW with bruto≫omzet ~1.75x and pnl LOSS FLIP while FTE JUMP — public subsidy path opaque",
             "priority": "8",
-            "recipient_body": "Maatwerkbedrijf De Kromme Boom VZW",
-            "recipient_email": "dekrommeboom@telenet.be",
-            "recipient_postal": "Eikstraat 81, 9041 Gent",
+            "recipient_body": "IJSEDAL Maatwerkbedrijf VZW",
+            "recipient_email": "info@ijsedal.be",
+            "recipient_postal": "Schavei 75, 3090 Overijse",
             "draft_letter_path": f"docs/doge/foi/drafts/{GAP}.md",
             "status": "ready",
             "date_ready": "2026-08-26",
@@ -291,10 +293,20 @@ for row in rows:
         row["entity_id"] = ENTITY
         row["updated_utc"] = UTC
         row["blocked_gap_id"] = GAP
-        row["title"] = "leftover dual — De Kromme Boom YE2025 Medium (omzet 1.20m / equity NEG FLIP -79k / pnl LOSS IMPROVED)"
+        row["title"] = (
+            "leftover dual — Ijsedal YE2025 Medium (omzet JUMP 3.20m / bruto≫omzet ~1.75x / pnl LOSS FLIP -78k)"
+        )
         row["notes"] = (
-            "tick2203; De Kromme Boom 0454.426.489 YE2025 Medium CW; AGB Bornem JR2024; FARO/REW YE2024; "
-            "next rq_2204; every-10 next 2210"
+            "tick2203; Ijsedal 0407.602.017 YE2025 Medium CW; AGB Bornem JR2024; FARO YE2024; "
+            "AIESH/REW 404/YE2024; next rq_2204; every-10 next 2210"
+        )
+        row["instructions"] = (
+            "Tick 2203 after Aarova (+race Kaliber). Prefer leftover AGB/APB if JR2025 PDF live, "
+            "else FARO if TRUE NBB YE2025, else AIESH/REW if YE2025, else unused IGS/DSO/water/nuclear/HVZ/WZC/MRS/maatwerk "
+            "(Ijsedal 0407.602.017 YE2025 FREE taken). Do NOT redo Ijsedal, Aarova, Kaliber, MWP Pajottenland, De Winning, "
+            "Atelier Groot Eiland, Groep Talent, BosKat, De Schakel, BWZ, Bewel, Forena, Kunnig, A-kwadraat, SW-WEB, "
+            "Mivas, Demival, De Wroeter, Kringwinkel Antwerpen, Blankedale, Mirto, Mariasteen, De Brug, Weerwerk, "
+            "InterWest, Westlandia, BWB, Wase, Groep INTRO, MAAAT, WAAK SW, Waak, Stijn, Stroom, Springplank."
         )
         found = True
         break
@@ -305,22 +317,26 @@ if not any(r.get("task_id") == "rq_2204" for r in rows):
     rows.append(
         {
             "task_id": "rq_2204",
-            "title": "leftover dual hole-fill after De Kromme Boom — prefer AGB/FARO-YE2025/AIESH-REW/unused IGS-DSO-WZC-MRS-HVZ",
+            "title": "leftover dual hole-fill after Ijsedal — prefer AGB/FARO-YE2025/AIESH-REW/unused maatwerk-WZC-IGS",
             "sprint": "hole_fill",
             "priority": "8",
             "status": "open",
             "hierarchy_target": "L5",
             "entity_id": "",
             "instructions": (
-                "Tick 2204 after De Kromme Boom Gent YE2025 Medium (omzet 1.20m / equity NEG FLIP -79k / pnl LOSS IMPROVED -86k). "
-                "Prefer leftover AGB/APB if JR2025 PDF live, else FARO if TRUE NBB YE2025, else AIESH/REW if YE2025, else unused IGS/DSO/water/nuclear/HVZ/WZC/MRS "
-                "(FREE: Oesterbank/Werkhuizen MIN/Trianval/Noordheuvel/Arcor/ACG/Entiris/Odas/Kemphaan). "
-                "Do NOT redo De Kromme Boom, Aarova, Kaliber, MWP Pajottenland, De Winning, Atelier Groot Eiland, Groep Talent, BosKat, De Schakel, BWZ, Bewel, Forena, Kunnig, A-kwadraat, SW-WEB, Mivas, Demival, De Wroeter, Kringwinkel Antwerpen, Blankedale, Mirto, Mariasteen, De Brug, Weerwerk, InterWest, Westlandia, BWB, Wase, Groep INTRO, MAAAT, WAAK SW, Waak, Stijn, Stroom, Springplank, Creat CV, Farys Solar, Senes, Orpimmo, Langerheide, Cur@-Z, Het Dorp, De Vlietoever, IPFBW, Aquiris, SPGE, IRE*, FANC, SCK CEN, EURIDICE, Hydria, Vivaqua, Belgoprocess, Laborelec, CILE, NIRAS, Bel V, Dijk92, Synergrid, AIEG, Synatom, Atrias, RESA, Enodia, Fluxys*, ETB, Elia, BNO, SWDE, BRUGEL."
+                "Tick 2204 after Ijsedal YE2025 Medium (omzet JUMP 3.20m / bruto≫omzet ~1.75x / pnl LOSS FLIP -78k / FTE JUMP). "
+                "Prefer leftover AGB/APB if JR2025 PDF live, else FARO if TRUE NBB YE2025, else AIESH/REW if YE2025, else unused "
+                "maatwerk/WZC/IGS/DSO (FREE: Kromme Boom YE2025 / Werkplus YE2025 empty-omzet / Oesterbank/Werkhuizen MIN/…). "
+                "Do NOT redo Ijsedal, Aarova, Kaliber, MWP Pajottenland, De Winning, Atelier Groot Eiland, Groep Talent, BosKat, "
+                "De Schakel, BWZ, Bewel, Forena, Kunnig, A-kwadraat, SW-WEB, Mivas, Demival, De Wroeter, Kringwinkel Antwerpen, "
+                "Blankedale, Mirto, Mariasteen, De Brug, Weerwerk, InterWest, Westlandia, BWB, Wase, Groep INTRO, MAAAT, "
+                "WAAK SW, Waak, Stijn, Stroom, Springplank, Creat CV, Farys Solar, Senes, Orpimmo, Langerheide, Cur@-Z, "
+                "Het Dorp, De Vlietoever. Vlotter/De Ploeg still YE2024 — skip unless YE2025 appears."
             ),
             "blocked_gap_id": "",
             "created_utc": UTC,
             "updated_utc": UTC,
-            "notes": "spawned after tick2203 De Kromme Boom; FARO/REW still YE2024; next every-10 2210",
+            "notes": "spawned after tick2203 Ijsedal; FARO still YE2024; AIESH/REW 404/YE2024; next every-10 2210",
         }
     )
 
@@ -344,9 +360,9 @@ rows[0] = {
     "ticks_completed": "2203",
     "paused": "no",
     "notes": (
-        "tick2203 leftover De Kromme Boom 0454.426.489 Medium (omzet 1.20m; bruto JUMP 1.00m; pnl LOSS IMPROVED -86k; "
-        "equity NEG FLIP -79k; FTE JUMP 27.5; 4 VE Gent); AGB Bornem JR2024; FARO/REW YE2024; "
-        "next rq_2204; next every-10 2210; continuous hole_fill"
+        "tick2203 leftover Ijsedal 0407.602.017 Medium (omzet JUMP 3.20m; bruto≫omzet ~1.75x 5.62m; "
+        "pnl LOSS FLIP -78k; equity DROP 2.83m; FTE JUMP 150.3; 1 VE Overijse); AGB Bornem JR2024; FARO YE2024; "
+        "AIESH/REW 404/YE2024; next rq_2204; next every-10 2210; continuous hole_fill"
     ),
 }
 with ls_path.open("w", newline="", encoding="utf-8") as f:
