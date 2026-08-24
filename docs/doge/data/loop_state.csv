@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-28T00:05:00Z,rq_2326,2326,no,tick2326 leftover dual Zorgcentrum Sint-Jozef Zonnebeke 0450.265.783 Medium (omzet JUMP 7250810; bruto JUMP 7157383; pnl JUMP 268729 +68.64%; equity JUMP 4943062; FTE 101.0; 1 VE WZC Zonnebeke); after aPart@2325; AGB Bornem JR2024; FARO/AIESH/Citeco YE2024; next rq_2327; next EVERY-10 2330
+main,continuous,hole_fill,2026-08-28T00:20:00Z,rq_2325,2325,no,tick2325 leftover dual Het Eepos 0886.198.829 Strong BBC (opbrengsten JUMP 6967405; subsidies 5812130; pnl 471677; equity JUMP 3060522; assets 4890405; debt LT 895167; Laakdal VAPH welzijnsvereniging); after Ritmica@2324; AGB/FARO YE2024; next rq_2326; next EVERY-10 2330
