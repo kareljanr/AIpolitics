@@ -24975,3 +24975,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.8); entities (+1 vzw_boskat_herentals); foi + draft gap_boskat_nbb_pdf_assets_debt_pnl_loss_flip_stopgezet_fusie_groep_talent_matrix_l5; rq_2198=done + rq_2199 open; loop_state ticks=2198; raw docs/doge/data/raw/tick2198/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2199 (AGB/FARO-if-YE2025 / AIESH-REW / Atelier Groot Eiland-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2199 - 2026-08-26T12:20:00Z - rq_2199 Atelier Groot Eiland (bruto JUMP 2.93m / empty omzet / equity DROP / Medium)
+
+- Unit: **rq_2199** leftover dual after **rq_2198 BosKat**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024** (0644.638.937). Took named FREE leftover **Atelier Groot Eiland VZW** YE2025 (KBO **0430.686.037**; Henegouwenkaai 29 Molenbeek; **VZW** Actief **4 VE**; RSZ NACE **88.993** / BTW **01.130/56.111/56.112**). Do not redo BosKat/De Schakel/BWZ/Bewel/Kunnig/Forena/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel Antwerpen/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **empty** (not published); bruto **EUR2934111** JUMP +7.89% vs YE2024 EUR2719635; pnl **EUR23906** JUMP +263.14% vs YE2024 EUR6583; equity **EUR1014772** DROP -5.09%; FTE **53.6** DROP vs 55.4; neerlegging **24.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 4 VE. FOI via info@grooteiland.brussels.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.9); entities (+1 vzw_atelier_groot_eiland_molenbeek); foi + draft gap_age_nbb_pdf_assets_debt_empty_omzet_bruto_jump_equity_drop_subsidy_matrix_l5; rq_2199=done + rq_2200 open; loop_state ticks=2199; raw docs/doge/data/raw/tick2199/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2200 (EVERY-10 refresh progress+top10 then AGB/FARO-if-YE2025 / AIESH-REW / Groep Talent-or-unused IGS-DSO-WZC-MRS-HVZ).
