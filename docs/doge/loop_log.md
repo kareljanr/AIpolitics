@@ -24404,3 +24404,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+1 FTE-only); commitments (+1); leaderboard (+1 pi 5.2 opacity); entities (+1 zs_hemeco); foi + draft gap_hemeco_budget_jr2025_dotation_commune_fed_matrix_l5; rq_2149=done + rq_2150 open; loop_state ticks=2149; raw docs/doge/data/raw/tick2149/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2140**; next **2150**). Next: rq_2150 (AGB/FARO-if-YE2025 / AIESH-REW / Val de Sambre / unused IGS-DSO-WZC-MRS).
+
+## Tick 2150 - 2026-08-25T20:00:00Z - rq_2150 EVERY-10 Zone de secours Val de Sambre (FTE 50 / Budget 2026 on-site FOI / Medium)
+
+- Unit: **rq_2150** EVERY-10 + leftover dual after **rq_2149 HEMECO**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took named deferred unused leftover **Zone de secours Val de Sambre** (KBO **0500.927.004**; Rue de la Vacherie 78 Sambreville; **Hulpverleningszone** / **3 VE**; NACE **84.250**; 6 communes). Do not redo HEMECO/WAPI/Hesbaye/ZHC/Dinaphi/Zonnelied/Care-Ion/Groep SF/Flemish HVZ stack.
+- Found: Strong KBO Actief + Medium CW FTE **50**; **no** CW/NBB YE kerncijfers. Official **Avis Budget 2026** (adopté Conseil 27.01.2026) published — **on-site consultation only**, **no euro figures** in PDF. FOI via info@zonevaldesambre.be / facturation@ for comptes 2025 + budget 2026 PDF + communal/federal dotations. No invented euros.
+- Wrote: sources (+6); budgets (+1 FTE-only); commitments (+1); leaderboard (+1 pi 5.25 opacity); entities (+1 zs_val_de_sambre); foi + draft gap_val_de_sambre_budget_jr2025_dotation_commune_fed_matrix_l5; progress_every_10_ticks.md + doge_waste_top10_current.md refreshed; rq_2150=done + rq_2151 open; loop_state ticks=2150; raw docs/doge/data/raw/tick2150/.
+- FOI: **ready not sent** (human-gated).
+- **EVERY-10@2150** (last was 2140; **next 2160**). Pure annual top10 stable (GIP/fossil/cars/cheque). Next: rq_2151 (AGB/FARO-if-YE2025 / AIESH-REW / Vesdre / unused IGS-DSO-WZC-MRS).
