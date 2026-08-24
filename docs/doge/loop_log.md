@@ -25592,3 +25592,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.25); entities (+1 vzw_eta_la_lumiere_liege); foi + draft gap_la_lumiere_nbb_pdf_assets_debt_bruto_gt_omzet_2_37x_pnl_loss_deepen_eta_matrix_l5; rq_2244=done + rq_2245 open; loop_state ticks=2244; raw docs/doge/raw/tick2244/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2240**; next **2250**). Next: rq_2245 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
+
+
+## Tick 2245 - 2026-08-27T03:25:00Z - rq_2245 Les Jeunes Jardiniers Uccle (bruto 4.78m / bruto≫omzet ~1.97x / pnl LOSS FLIP / equity DROP -52% / Medium)
+
+- Unit: **rq_2245** leftover dual after **rq_2244 La Lumière**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**. Took FREE unused Brussels ETA **Les Jeunes Jardiniers ASBL** YE2025 (KBO **0414.842.571**; Chaussée d'Alsemberg 1393 Uccle; **Actief** **1 VE**; NACE **88.993** PHARE/COCOF). Deferred FREE TRAVCO/Pilifs. Do not redo La Lumière/APAM/Jean Gielen/Le Perron/L'Atelier/Axedis/ETA123 stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2426594** JUMP +16.51% vs YE2024 EUR2082684; bruto **EUR4781722** JUMP +1.29% (bruto≫omzet ~1.97x); pnl **EUR-157194** LOSS FLIP vs YE2024 profit EUR49819; equity **EUR136133** DROP -52.28% vs YE2024 EUR285294; FTE **140.5** JUMP vs 139.7; neerlegging **27.07.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@lesjeunesjardiniers.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.30); entities (+1 vzw_jeunes_jardiniers_uccle); foi + draft gap_jeunes_jardiniers_nbb_pdf_assets_debt_bruto_gt_omzet_1_97x_pnl_loss_flip_equity_drop_eta_matrix_l5; rq_2245=done + rq_2246 open; loop_state ticks=2245; raw docs/doge/raw/tick2245/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2240**; next **2250**). Next: rq_2246 (AGB/FARO-if-YE2025 / AIESH-REW / unused TRAVCO-Pilifs).
