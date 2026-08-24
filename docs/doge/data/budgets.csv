@@ -53671,3 +53671,9 @@ bud_amab_bruto_jr2025_statutory,vzw_amab_asse,2025,21690724,21690724,21690724,CW
 bud_amab_pnl_jr2025_statutory,vzw_amab_asse,2025,-447493,-447493,-447493,CW statutory winst/verlies YE2025 LOSS FLIP,src_amab_jr2025_cw_en,medium,tick2277; Medium CW; pnl LOSS FLIP -180.05% vs YE2024 559019
 bud_amab_equity_jr2025_statutory,vzw_amab_asse,2025,17950369,17950369,17950369,CW statutory eigen_vermogen YE2025,src_amab_jr2025_cw_en,medium,tick2277; Medium CW; equity DROP -2.93% vs YE2024 18491679
 bud_amab_fte_jr2025_statutory,vzw_amab_asse,2025,645.1,645.1,645.1,CW social-balance FTE 645.1,src_amab_jr2025_cw_en,medium,tick2277; Medium CW; FTE 645.1 vs YE2024 642.2; assets/debt Unknown
+bud_inz_omzet_jr2025_statutory,vzw_in_z_genk,2025,14355222,14355222,14355222,CW statutory omzet YE2025,src_inz_jr2025_cw_en,medium,tick2278; Medium CW; omzet JUMP 14355222 (+5.38% vs 13622265)
+bud_inz_bruto_jr2025_statutory,vzw_in_z_genk,2025,24032922,24032922,24032922,CW statutory bruto YE2025,src_inz_jr2025_cw_en,medium,tick2278; Medium CW; bruto JUMP 24032922 (~1.67x omzet / +3.36% vs 23250794)
+bud_inz_pnl_jr2025_statutory,vzw_in_z_genk,2025,-355830,-355830,-355830,CW statutory pnl YE2025,src_inz_jr2025_cw_en,medium,tick2278; Medium CW; pnl LOSS WIDEN -355830 (< -1000% vs YE2024 -15581)
+bud_inz_equity_jr2025_statutory,vzw_in_z_genk,2025,4491452,4491452,4491452,CW statutory equity YE2025,src_inz_jr2025_cw_en,medium,tick2278; Medium CW; equity DROP 4491452 (-7.53% vs 4857282)
+bud_inz_fte_jr2025_statutory,vzw_in_z_genk,2025,627.5,627.5,627.5,CW social-balance FTE 627.5,src_inz_jr2025_cw_en,medium,tick2278; Medium CW; FTE 627.5 vs YE2024 647.1
+bud_inz_pnl_jr2024_statutory_cmp,vzw_in_z_genk,2024,-15581,-15581,-15581,CW statutory pnl YE2024 comparative,src_inz_jr2025_cw_en,medium,tick2278; YE2024 cmp pnl -15581

@@ -25972,3 +25972,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.80); entities (+1 vzw_amab_asse); foi + draft gap_amab_nbb_pdf_assets_debt_bruto_gt_omzet_1_53x_pnl_loss_flip_matrix_l5; rq_2277=done + rq_2278 open; loop_state ticks=2277; raw docs/doge/data/raw/tick2277/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2278 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Foes-if-YE2025 / unused ETA).
+
+### 2026-08-27T11:35:00Z - tick 2278 - rq_2278 IN-Z Genk (omzet JUMP 14.36m / bruto~1.67x / pnl LOSS WIDEN -0.36m / FTE 627.5 / Medium)
+
+- Unit: **rq_2278** leftover dual after **rq_2277 C.A.R.P.** Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco still **YE2024**; Groupe Foes still **YE2024**; Heropbeuring still **CW opaque**. Took unused FREE Flemish social-economy / maatwerk-adjacent **IN-Z VZW** YE2025 (KBO **0457.521.086**; Welzijnscampus 5 bus 11 Genk; **Actief** **10 VE**; NACE **88.999** aanbestedende overheid; thuishulp/buurtdiensten). Do not redo C.A.R.P./A.P.A.C./Adapta/Atelier 85/La Gaume/De Enter/Fournipac/Saint-Vincent stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR14355222** JUMP +5.38% vs YE2024 EUR13622265; bruto **EUR24032922** JUMP +3.36% (bruto÷omzet ~1.67x); pnl **EUR-355830** LOSS WIDEN (< -1000% vs YE2024 EUR-15581); equity **EUR4491452** DROP -7.53%; FTE **627.5** (vs 647.1); neerlegging **31.07.2026**. Strong KBO Actief 10 VE VZW. Assets/debt Unknown. Medium. FOI via info@in-z.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.80); entities (+1 vzw_in_z_genk); foi + draft gap_inz_nbb_pdf_assets_debt_bruto_gt_omzet_1_67x_pnl_loss_widen_fte_drop_matrix_l5; rq_2278=done + rq_2279 open; loop_state ticks=2278; raw docs/doge/raw/tick2278/ + data/raw/tick2278/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2279 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
