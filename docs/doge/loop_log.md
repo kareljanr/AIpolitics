@@ -25155,3 +25155,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.00); entities (+1 vzw_werkhuizen_min_antwerpen); foi + draft gap_werkhuizen_min_nbb_pdf_assets_debt_empty_omzet_bruto_drop_pnl_loss_flip_matrix_l5; rq_2211=done + rq_2212 open; loop_state ticks=2211; raw docs/doge/data/raw/tick2211/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2210**; next **2220**). Next: rq_2212 (AGB/FARO-if-YE2025 / AIESH-REW / unused maatwerk-WZC-IGS).
+
+## Tick 2212 - 2026-08-26T16:40:00Z - rq_2212 Ecoso Mechelen (omzet JUMP 5.62m / pnl DROP -95% / 17 VE / Medium)
+
+- Unit: **rq_2212** leftover dual after **rq_2211 Werkhuizen Min**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; REW still **YE2024**. Took named FREE leftover **Ecoso VZW** YE2025 (KBO **0629.934.529**; Oude Baan 1F Mechelen; **Actief** **17 VE**; RSZ NACE **88.993**). Deferred Vlotter Facilities (YE2024-only). Do not redo Werkhuizen Min/ACG/Noordheuvel/Arcor/Kemphaan/Entiris/Oesterbank/NLZ.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR5616998** JUMP +8.78% vs YE2024 EUR5163556; bruto **EUR7662595** JUMP +2.19% (~1.36x); pnl **EUR13789** DROP -94.98% vs YE2024 EUR274534; equity **EUR7150781** JUMP +0.19%; FTE **175.7** JUMP vs 170.9; neerlegging **02.07.2026**. Strong KBO Actief 17 VE. Assets/debt Unknown. Medium. FOI via info@ecoso.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.90); entities (+1 vzw_ecoso_mechelen); foi + draft gap_ecoso_nbb_pdf_assets_debt_pnl_drop_95pct_17ve_matrix_l5; rq_2212=done + rq_2213 open; loop_state ticks=2212; raw docs/doge/data/raw/tick2212/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2210**; next **2220**). Next: rq_2213 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
+
