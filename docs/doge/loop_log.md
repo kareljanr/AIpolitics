@@ -25866,3 +25866,9 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress+top10; sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.55); entities (+1 vzw_amis_des_aveugles_mons); foi + draft gap_amis_nbb_pdf_assets_debt_bruto_gt_omzet_3_40x_pnl_loss_4_74m_eta_matrix_l5; rq_2270=done + rq_2271 open; loop_state ticks=2270; raw docs/doge/raw/tick2270/ + data/raw/tick2270/.
 - FOI: **ready not sent** (human-gated).
 - **EVERY-10 done** (last was 2260; next **2280**). Next: rq_2271 (AGB/FARO-if-YE2025 / AIESH-REW / Hautes Ardennes YE2025).
+
+### 2026-08-27T09:45:00Z - tick 2270 reconcile — Hautes Ardennes FOI draft + progress/rq_2271 fix (after Amis primary race)
+
+- Concurrent fire claimed **rq_2270 Amis des Aveugles** as EVERY-10 primary (pushed f0b01aac). Parallel Hautes Ardennes YE2025 fill (bruto **EUR12661084** ~**4.11x** / pnl DROP **-84.32%** / FTE **220.6** / Medium) already landed in same commit CSVs.
+- This reconcile: FOI draft gap_hautes_ardennes_... ready NOT sent; progress+top10 credit Amis primary + Hautes race fill; **rq_2271** retargeted after Amis (do not redo Hautes/Amis).
+- Next: rq_2271 (AGB/FARO-if-YE2025 / AIESH-REW / unused ETA-VAPH-WZC). Next EVERY-10 **2280**.
