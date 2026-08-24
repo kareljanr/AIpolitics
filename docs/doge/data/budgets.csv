@@ -54057,3 +54057,8 @@ bud_alma_bruto_jr2025_statutory,vzw_alma_leuven,2025,6387062,6387062,6387062,CW 
 bud_alma_pnl_jr2025_statutory,vzw_alma_leuven,2025,976254,976254,976254,CW pnl YE2025 DROP,src_alma_jr2025_cw_en,medium,tick2332; -13.41%
 bud_alma_equity_jr2025_statutory,vzw_alma_leuven,2025,4498163,4498163,4498163,CW equity YE2025,src_alma_jr2025_cw_en,medium,tick2332; +27.72%
 bud_alma_fte_jr2025_statutory,vzw_alma_leuven,2025,96.2,96.2,96.2,CW FTE YE2025,src_alma_jr2025_cw_en,medium,tick2332; vs 83.0
+bud_vier_notelaars_omzet_jr2025_statutory,vzw_de_vier_notelaars_schoten,2025,500791,500791,500791,CW statutory omzet YE2025 JUMP +4.27%,src_vier_notelaars_jr2025_cw_en,medium,tick2332; Medium CW; vs YE2024 480298
+bud_vier_notelaars_bruto_jr2025_statutory,vzw_de_vier_notelaars_schoten,2025,2864452,2864452,2864452,CW statutory bruto YE2025 JUMP ~5.72x omzet,src_vier_notelaars_jr2025_cw_en,medium,tick2332; Medium CW; primary L5 envelope; vs YE2024 2780033
+bud_vier_notelaars_pnl_jr2025_statutory,vzw_de_vier_notelaars_schoten,2025,-40024,-40024,-40024,CW statutory pnl YE2025 LOSS FLIP,src_vier_notelaars_jr2025_cw_en,medium,tick2332; Medium CW; vs YE2024 PROFIT 183071
+bud_vier_notelaars_equity_jr2025_statutory,vzw_de_vier_notelaars_schoten,2025,4060369,4060369,4060369,CW statutory eigen_vermogen YE2025 DROP,src_vier_notelaars_jr2025_cw_en,medium,tick2332; Medium CW; equity -2.04% vs 4145049
+bud_vier_notelaars_fte_jr2025_statutory,vzw_de_vier_notelaars_schoten,2025,32.9,32.9,32.9,CW social-balance FTE 32.9 flat,src_vier_notelaars_jr2025_cw_en,medium,tick2332; Medium CW; FTE flat vs 32.9
