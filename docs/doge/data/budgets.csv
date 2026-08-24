@@ -54090,3 +54090,8 @@ bud_cirkel_lokeren_bruto_jr2025_statutory,vzw_de_cirkel_lokeren,2025,2375418,237
 bud_cirkel_lokeren_pnl_jr2025_statutory,vzw_de_cirkel_lokeren,2025,188524,188524,188524,CW statutory winst/verlies YE2025 JUMP,src_cirkel_lokeren_jr2025_cw_en,medium,tick2338; pnl +32.33% vs 142468
 bud_cirkel_lokeren_equity_jr2025_statutory,vzw_de_cirkel_lokeren,2025,3118706,3118706,3118706,CW statutory eigen_vermogen YE2025 JUMP,src_cirkel_lokeren_jr2025_cw_en,medium,tick2338; equity +6.16% vs 2937731
 bud_cirkel_lokeren_fte_jr2025_statutory,vzw_de_cirkel_lokeren,2025,54.3,54.3,54.3,CW social-balance FTE 54.3,src_cirkel_lokeren_jr2025_cw_en,medium,tick2338; FTE JUMP vs 51.0
+bud_wieltjesgracht_omzet_jr2025_statutory,vzw_wieltjesgracht_ieper,2025,8274389,8274389,8274389,CW statutory omzet YE2025 JUMP,src_wieltjesgracht_jr2025_cw_en,medium,tick2337; +5.03% vs 7878433
+bud_wieltjesgracht_bruto_jr2025_statutory,vzw_wieltjesgracht_ieper,2025,6996976,6996976,6996976,CW statutory bruto_marge YE2025 JUMP,src_wieltjesgracht_jr2025_cw_en,medium,tick2337; +5.56% vs 6628182
+bud_wieltjesgracht_pnl_jr2025_statutory,vzw_wieltjesgracht_ieper,2025,67949,67949,67949,CW statutory winst/verlies YE2025 DROP -76.5%,src_wieltjesgracht_jr2025_cw_en,medium,tick2337; DROP vs 289183
+bud_wieltjesgracht_equity_jr2025_statutory,vzw_wieltjesgracht_ieper,2025,863772,863772,863772,CW statutory eigen_vermogen YE2025 JUMP,src_wieltjesgracht_jr2025_cw_en,medium,tick2337; +2.2% vs 845201
+bud_wieltjesgracht_fte_jr2025_statutory,vzw_wieltjesgracht_ieper,2025,101.3,101.3,101.3,CW FTE 101.3 JUMP,src_wieltjesgracht_jr2025_cw_en,medium,tick2337; vs 94.1

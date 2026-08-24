@@ -26724,3 +26724,14 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN+FR — omzet empty; bruto EUR2375418; pnl EUR188524 (+32.33%); equity EUR3118706; FTE 54.3; filed 16.06.2026. Medium.
 - Wrote: sources(+5) budgets(+4) ents(+1) comm(+1) lb(+1) foi(+1); rq_2338=done + rq_2339 open; ticks=2338.
 - FOI ready NOT sent. NOT every-10 (next **2340**). Next: rq_2339.
+
+### 2026-08-24T18:25:00Z — tick 2337 CSV repair — rq_2337 Wieltjesgracht (omzet JUMP 8.27m / pnl DROP -76.5% / Medium)
+
+- Re-applied missing CSV fills after race (queue already marked done). Entity/budgets/commitments/LB/FOI/sources/state now present. FOI ready NOT sent. Next rq_2338.
+
+### 2026-08-28T02:30:00Z - tick 2336 - rq_2336 De Cirkel Lokeren (bruto JUMP 2.38m / empty omzet / pnl JUMP +32% / Medium)
+
+- Unit: **rq_2336** finish **in_progress** leftover dual De Cirkel maatwerk after WWPA. Prefer NON-stall: AGB Bornem JR2024; FARO/AIESH YE2024. Took FREE Flemish maatwerk **De Cirkel VZW** YE2025 (KBO **0470.413.079**; Bobijnerslaan 3 Lokeren; **Actief**).
+- Found: CW NL+EN+FR YE2025 — omzet **unpublished**; bruto **EUR2375418** JUMP +7.8%; pnl **EUR188524** JUMP +32.33%; equity **EUR3118706** JUMP +6.16%; FTE **54.3** JUMP; neerlegging **16.06.2026**. Strong KBO. Assets/debt Unknown. Medium. FOI info@kringwinkeldecirkel.be.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 4.25); entities (+1); foi ready; rq_2336=done + rq_2337 open; loop_state=2336.
+- FOI: **ready not sent**. Next EVERY-10 **2340**. Next: rq_2337.
