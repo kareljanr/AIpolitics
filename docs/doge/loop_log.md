@@ -25674,3 +25674,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.70); entities (+1 vzw_moulin_hunelle_chievres); foi + draft gap_hunelle_nbb_pdf_assets_debt_bruto_gt_omzet_1_70x_pnl_loss_flip_eta_matrix_l5; rq_2252=done + rq_2253 open; loop_state ticks=2252; raw docs/doge/raw/tick2252/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2250**; next **2260**). Next: rq_2253 (AGB/FARO-if-YE2025 / AIESH-REW / unused Gaillettes).
+
+
+## Tick 2253 - 2026-08-27T05:25:00Z - rq_2253 Les Gaillettes Herve (bruto 8.02m / ~2.03x / pnl DROP -82.03% / FTE 222.9 / Medium)
+
+- Unit: **rq_2253** leftover dual after **rq_2252 Hunelle**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Sipres/APN still **YE2024**. Took named FREE Walloon ETA **Atelier Les Gaillettes ASBL** YE2025 (KBO **0408.044.059**; Rue de Maestricht 43 Herve/Battice; **Actief** **2 VE**; NACE **88.993** AViQ). Deferred FREE Relais Haute Sambre. Do not redo Hunelle/Dauphins/Saupont/Serviplast stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3942482** flat (-0.12% vs YE2024 EUR3947106); bruto **EUR8020283** JUMP +4.19% (bruto≫omzet ~2.03x); pnl **EUR365574** DROP -82.03% vs YE2024 EUR2033921; equity **EUR5742782** JUMP +6.56%; FTE **222.9**; neerlegging **07.08.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown. Medium. FOI via secretariat@lesgaillettes.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.20); entities (+1 vzw_gaillettes_herve); foi + draft gap_gaillettes_nbb_pdf_assets_debt_bruto_gt_omzet_2_03x_pnl_drop_82pct_eta_matrix_l5; rq_2253=done + rq_2254 open; loop_state ticks=2253; raw docs/doge/raw/tick2253/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2250**; next **2260**). Next: rq_2254 (AGB/FARO-if-YE2025 / AIESH-REW / unused Relais Haute Sambre).
