@@ -24554,3 +24554,20 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2164 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
 
+
+
+## Tick 2163 - 2026-08-26T00:20:00Z - rq_2163 WZC Sint-Bernardus De Panne (omzet JUMP 8.49m / pnl DROP -50% / Medium)
+
+- Unit: **rq_2163** leftover dual after **rq_2162 Boterlaarhof / Salvator race**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024** (FREE but no YE2025); REW still **YE2024**. Took unused leftover **WZC Sint-Bernardus VZW** YE2025 (KBO **0432.582.485**; Koninklijke Baan 18 De Panne; **VZW** NACE **87.101** / **1 VE**; site sint-bernardus.be). Do not redo Salvator/Boterlaarhof/WZND/Foyer De Lork/OLV Kempen/HERTOG JAN/Lindeboom/Epinette/Parc de Forest/Le Hanois/Eycken Brug/Sint-Felix/HVZ stack/mined Sint-Bernardus 0445.106.274/Home Vrijzicht.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR8489271** JUMP +3.66% vs YE2024 EUR8189802; bruto **EUR8882788** JUMP +2.96%; pnl **EUR40101** DROP -50.0% vs YE2024 EUR80165; equity **EUR8134230** DROP -0.30%; FTE **111.6**; neerlegging **24.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 1 VE. FOI via info@sint-bernardus.be (tel 058 41 11 33).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.1); entities (+1 vzw_wzc_sint_bernardus_de_panne); foi + draft gap_sint_bernardus_de_panne_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2163=done + rq_2164 open; loop_state ticks=2163; raw docs/doge/data/raw/tick2163/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2164 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros; optional Residentie Oudenburg if NACE care / Lork Hoeselt BV empty-omzet).
+
+## Tick 2163 - 2026-08-26T00:20:00Z - rq_2163 WZC Sint-Bernardus De Panne (omzet JUMP 8.49m / pnl DROP -50% / Medium) race-recover
+
+- Unit: **rq_2163** race-recover after concurrent also closed **rq_2163 Residentie Ruggeveld** (CSV rows already landed). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH/REW still **YE2024**. Took unused leftover **WZC Sint-Bernardus VZW** YE2025 (KBO **0432.582.485**; Koninklijke Baan 18 De Panne; **VZW** NACE **87.101** / **1 VE**). Do not redo Ruggeveld/Salvator/Boterlaarhof/WZND/Foyer De Lork/OLV Kempen/HERTOG JAN/Lindeboom.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR8489271** JUMP +3.66%; bruto **EUR8882788** JUMP +2.96%; pnl **EUR40101** DROP -50.0%; equity **EUR8134230** DROP -0.30%; FTE **111.6**; neerlegging **24.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@sint-bernardus.be (tel 058 41 11 33).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.1); entities (+1); foi + draft; rq_2163=done (race with Ruggeveld) + rq_2164 open; loop_state ticks=2163; raw docs/doge/data/raw/tick2163/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2164 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
