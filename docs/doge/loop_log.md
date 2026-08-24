@@ -25089,3 +25089,12 @@ Append-only. Each tick adds a short entry.
 
 ### 2026-08-26T14:25:00Z - tick 2205 race/fix note
 - Concurrent agent closed rq_2205 as De Oesterbank YE2025 Medium (14cba3ea) with same sourced euros. KBO Strong shows **3 VE** (not 2); FOI contact aligned to **info@oesterbank.be** (site footer). Both race log lines kept. Do not redo Oesterbank. Next: rq_2206 FREE Werkhuizen MIN YE2025 deferred. Next every-10 still **2210**.
+
+## Tick 2206 - 2026-08-26T14:40:00Z - rq_2206 Entiris Leuven (omzet JUMP 18.93m / bruto≫omzet ~2.39x / equity JUMP 92.3m / pnl DROP / Medium)
+
+- Unit: **rq_2206** leftover dual after **rq_2205 Oesterbank**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (CW fetch aborted/prior YE2024); REW still **YE2024**. Took named FREE leftover **Entiris VZW** YE2025 (KBO **0407.841.151**; Zavelstraat 45 Leuven; **Actief** **7 VE**; RSZ NACE **88.993**). Deferred FREE Kemphaan/Arcor/Noordheuvel YE2025; Odas still YE2024-only. Do not redo Oesterbank/Werkplus/Trianval/Ijsedal/De Kromme Boom/Aarova/Kaliber/MWP Pajottenland/De Winning/Atelier Groot Eiland/Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR18927215** JUMP +6.46% vs YE2024 EUR17779342; bruto **EUR45242707** JUMP +1.06% (bruto≫omzet ~2.39x); pnl **EUR3265873** DROP -3.87% vs YE2024 EUR3397305; equity **EUR92293922** JUMP +3.59%; FTE **1448.5** JUMP vs 1434.3; neerlegging **18.06.2026**. Strong KBO Actief 7 VE. Assets/debt Unknown. Medium. FOI via info@entiris.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.70); entities (+1 vzw_entiris_leuven); foi + draft gap_entiris_nbb_pdf_assets_debt_bruto_gt_omzet_equity_92m_pnl_drop_matrix_l5; rq_2206=done + rq_2207 open; loop_state ticks=2206; raw docs/doge/data/raw/tick2206/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2207 (AGB/FARO-if-YE2025 / AIESH-REW / Kemphaan-Arcor-Noordheuvel-or-unused).
+

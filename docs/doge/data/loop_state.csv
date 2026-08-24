@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T14:20:00Z,rq_2205,2205,no,tick2205 leftover Oesterbank 0407.762.165 Medium (omzet JUMP 7.31m; bruto 13.80m ≫ omzet ~1.89x; pnl JUMP 285k +237%; equity JUMP 6.12m; FTE DROP 366.8; 3 VE Oostende); AGB Bornem JR2024; FARO/REW YE2024; next rq_2206; next every-10 2210; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T14:40:00Z,rq_2206,2206,no,tick2206 leftover Entiris 0407.841.151 Medium (omzet JUMP 18.93m; bruto 45.24m ≫ omzet ~2.39x; pnl DROP 3.27m -3.87%; equity JUMP 92.29m; FTE JUMP 1448.5; 7 VE Leuven); AGB Bornem JR2024; FARO/REW YE2024; next rq_2207; next every-10 2210; continuous hole_fill
