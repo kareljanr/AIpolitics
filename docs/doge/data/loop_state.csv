@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T13:16:19Z,rq_2320,2320,no,tick2320 EVERY-10 + leftover dual Heder 0538.767.692 Medium (omzet JUMP 1858609; bruto JUMP 32694121 ~17.59x; pnl FLIP 719053; equity JUMP 4170158; FTE DROP 421.0); after Kindervriend@2319; AGB/FARO YE2024; next rq_2321; next EVERY-10 2330; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T13:18:12Z,rq_2320,2320,no,tick2320 EVERY-10 leftover dual Sint-Jozef Aarschot 0413.055.989 Medium (omzet JUMP 10734847; bruto JUMP 11332671 ~1.06x; pnl DROP 952540; equity JUMP 13630949; FTE JUMP 129.6); after Kindervriend@2319; AGB/FARO/AIESH YE2024; next rq_2321; next EVERY-10 2330; continuous hole_fill

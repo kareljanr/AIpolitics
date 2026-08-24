@@ -26520,3 +26520,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.7); entities (+1 vzw_heder_ekeren); foi + draft gap_heder_nbb_pdf_assets_debt_bruto_gt_omzet_17_59x_pnl_flip_vaph_matrix_l5; rq_2320=done + rq_2321 open; loop_state ticks=2320; **progress_every_10_ticks.md** + **doge_waste_top10_current.md** refreshed; raw docs/doge/data/raw/tick2320/.
 - FOI: **ready not sent** (human-gated).
 - EVERY-10@2320 done; next EVERY-10 **2330**. Next: rq_2321 (AGB/FARO-if-YE2025 / unused ETA-VAPH-WZC-maatwerk).
+
+### 2026-08-24T13:18:12Z - tick 2320 - rq_2320 EVERY-10 + WZC Sint-Jozef Aarschot (omzet JUMP 10.73m / equity JUMP +7% / Medium)
+
+- **EVERY-10:** refreshed `progress_every_10_ticks.md` + `doge_waste_top10_current.md`. Inventory budgets 53986+ / commitments 6051+ / leaderboard 8171+ / entities 2073+ / sources 6799+ / FOI ready ~2000.
+- Unit: **rq_2320** EVERY-10 + leftover dual after **Kindervriend@2319**. Prefer NON-stall: AGB Bornem still **JR2024**; FARO/AIESH/REW still **YE2024**; Gandae/Aralea/Manupal/De Ploeg/Vlotter still **YE2024**. Took unused FREE Flemish WZC **Sint-Jozef VZW** YE2025 (KBO **0413.055.989**; Diestsesteenweg 488 Aarschot-Rillaar; **Actief** **1 VE**; Aanbestedende; RSZ **87.101**). Do not redo Kindervriend/Schoonderhage/Homevil/Havenzate/Iris/Hejmen/Domino/M HKA stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR10734847** JUMP +3.9%; bruto **EUR11332671** JUMP +3.59% (~**1.06x**); pnl **EUR952540** DROP -1.72%; equity **EUR13630949** JUMP +7%; FTE **129.6**; neerlegging **13.07.2026**. Strong KBO Actief 1 VE Aanbestedende. Assets/debt Unknown. Medium. FOI via info@sintjozefrillaar.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.3); entities (+1 vzw_wzc_sint_jozef_aarschot_rillaar); foi + draft gap_sint_jozef_aarschot_nbb_pdf_assets_debt_omzet_10_73m_equity_jump_wzc_matrix_l5; rq_2320=done + rq_2321 open; loop_state ticks=2320; raw docs/doge/data/raw/tick2320/; EVERY-10 progress+waste.
+- FOI: **ready not sent** (human-gated).
+- **EVERY-10 @ 2320** (last was 2310; next **2330**). Next: rq_2321.

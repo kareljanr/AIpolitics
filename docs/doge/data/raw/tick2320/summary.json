@@ -1,15 +1,16 @@
 {
   "tick": "2320",
   "unit": "rq_2320",
-  "entity": "vzw_heder_ekeren",
-  "kbo": "0538.767.692",
-  "omzet": 1858609,
-  "bruto": 32694121,
-  "pnl": 719053,
-  "equity": 4170158,
-  "fte": 421.0,
-  "ratio": 17.59,
+  "entity": "vzw_wzc_sint_jozef_aarschot_rillaar",
+  "kbo": "0413.055.989",
+  "omzet": 10734847,
+  "bruto": 11332671,
+  "pnl": 952540,
+  "equity": 13630949,
+  "fte": 129.6,
+  "ratio": 1.06,
   "confidence": "medium",
-  "gap": "gap_heder_nbb_pdf_assets_debt_bruto_gt_omzet_17_59x_pnl_flip_fte_drop_vaph_matrix_l5",
-  "pi": 6.6
+  "gap": "gap_sint_jozef_aarschot_nbb_pdf_assets_debt_omzet_10_73m_equity_jump_wzc_matrix_l5",
+  "pi": 5.3,
+  "every_10": true
 }
