@@ -26178,3 +26178,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.0); entities (+1 vzw_groep_intro_schoonmaak); foi + draft gap_intro_schoonmaak_nbb_pdf_assets_debt_empty_omzet_bruto_0_89m_pnl_loss_flip_equity_drop_matrix_l5; rq_2291=done + rq_2292 open; loop_state ticks=2291; raw docs/doge/data/raw/tick2291/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2292 (AGB/FARO-if-YE2025 / AIESH / Manupal-Vlotter-De Ploeg-if-YE2025 / unused ETA-DSO-IGS).
+
+### 2026-08-27T15:30:00Z - tick 2292 - rq_2292 Labor Arbeidskansen As (omzet JUMP 4.28m / pnl LOSS FLIP -1.41m / equity DROP -27% / FTE 144 / Medium)
+
+- Unit: **rq_2292** leftover dual after **rq_2291 Intro Schoonmaak**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Aralea/Manupal/De Ploeg/Vlotter still **YE2024**. Took FREE Flemish maatwerk **Labor Arbeidskansen VZW** YE2025 (KBO **0432.385.616**; Bilzerweg 88 As; NACE **88.993**). Do not redo Intro Schoonmaak/Op Maat/REW/Buseloc/Village Liegeois/De Sprong stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR4277919** JUMP +58.58% vs YE2024 EUR2697698; bruto **EUR4812113** DROP -3.77% (~1.12x); pnl **EUR-1408630** LOSS FLIP -390.13% vs YE2024 EUR+485525; equity **EUR3899262** DROP -26.63%; FTE **144** (vs 120.2); neerlegging **03.07.2026**. Strong KBO Actief VZW info@arbeidskansen.be. Assets/debt Unknown. Medium.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.15); entities (+1 vzw_labor_arbeidskansen_as); foi + draft gap_labor_*; rq_2292=done + rq_2293 open; loop_state ticks=2292; raw docs/doge/data/raw/tick2292/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2293 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
+

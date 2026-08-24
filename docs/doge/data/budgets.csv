@@ -53784,3 +53784,8 @@ bud_intro_schoonmaak_pnl_jr2025_statutory,vzw_groep_intro_schoonmaak,2025,-12145
 bud_intro_schoonmaak_equity_jr2025_statutory,vzw_groep_intro_schoonmaak,2025,382077,382077,382077,CW equity YE2025 DROP,src_intro_schoonmaak_jr2025_cw_en,medium,tick2291; equity DROP -24.12% vs 503533
 bud_intro_schoonmaak_fte_jr2025_statutory,vzw_groep_intro_schoonmaak,2025,22.1,22.1,22.1,CW FTE 22.1,src_intro_schoonmaak_jr2025_cw_en,medium,tick2291; FTE JUMP 22.1 vs 21.3
 bud_intro_schoonmaak_pnl_jr2024_statutory_cmp,vzw_groep_intro_schoonmaak,2024,11731,11731,11731,CW pnl YE2024 cmp,src_intro_schoonmaak_jr2025_cw_en,medium,tick2291; YE2024 pnl 11731
+bud_labor_omzet_jr2025_statutory,vzw_labor_arbeidskansen_as,2025,4277919,4277919,4277919,CW statutory omzet YE2025 JUMP,src_labor_jr2025_cw_en,medium,tick2292; Medium CW; omzet JUMP +58.58% vs YE2024 2697698
+bud_labor_bruto_jr2025_statutory,vzw_labor_arbeidskansen_as,2025,4812113,4812113,4812113,CW statutory bruto_marge YE2025 DROP,src_labor_jr2025_cw_en,medium,tick2292; Medium CW; bruto DROP -3.77% vs YE2024 5000528; bruto~omzet ~1.12x
+bud_labor_pnl_jr2025_statutory,vzw_labor_arbeidskansen_as,2025,-1408630,-1408630,-1408630,CW statutory winst/verlies YE2025 LOSS FLIP,src_labor_jr2025_cw_en,medium,tick2292; Medium CW; pnl LOSS FLIP -390.13% vs YE2024 +485525
+bud_labor_equity_jr2025_statutory,vzw_labor_arbeidskansen_as,2025,3899262,3899262,3899262,CW statutory eigen_vermogen YE2025 DROP,src_labor_jr2025_cw_en,medium,tick2292; Medium CW; equity DROP -26.63% vs YE2024 5314515
+bud_labor_fte_jr2025_statutory,vzw_labor_arbeidskansen_as,2025,144,144,144,CW social-balance FTE 144,src_labor_jr2025_cw_en,medium,tick2292; Medium CW; FTE 144 vs YE2024 120.2; assets/debt Unknown
