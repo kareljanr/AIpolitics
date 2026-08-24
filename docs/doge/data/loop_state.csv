@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T14:25:00Z,rq_2348,2348,no,tick2348 leftover dual Oostrem 0409.806.786 Medium (omzet JUMP 1622068; bruto JUMP 9015150 ~5.56x; pnl PROFIT FLIP 62715; equity JUMP 6378433; FTE JUMP 102.9); after Korenbloem@2347; AGB/FARO YE2024; next rq_2349; next EVERY-10 2350
+main,continuous,hole_fill,2026-08-24T19:55:00Z,rq_2349,2349,no,tick2349 leftover dual Helan Huishoudhulp 0877.059.944 Medium (omzet JUMP 115152498; pnl JUMP 1107433 +690%; FTE 2809.4); next rq_2350; next EVERY-10 2350

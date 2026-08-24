@@ -54138,3 +54138,8 @@ bud_oostrem_bruto_jr2025_statutory,vzw_oostrem_herent,2025,9015150,9015150,90151
 bud_oostrem_pnl_jr2025_statutory,vzw_oostrem_herent,2025,62715,62715,62715,CW statutory pnl YE2025 PROFIT FLIP,src_oostrem_jr2025_cw_en,medium,tick2348; vs LOSS -399040
 bud_oostrem_equity_jr2025_statutory,vzw_oostrem_herent,2025,6378433,6378433,6378433,CW statutory equity YE2025 JUMP +1.42%,src_oostrem_jr2025_cw_en,medium,tick2348; vs 6289316
 bud_oostrem_fte_jr2025_statutory,vzw_oostrem_herent,2025,102.9,102.9,102.9,CW FTE JUMP 102.9,src_oostrem_jr2025_cw_en,medium,tick2348; vs 100.3
+bud_helan_hh_omzet_jr2025_statutory,vzw_helan_huishoudhulp_antwerpen,2025,115152498,115152498,115152498,CW omzet YE2025 JUMP,src_helan_hh_jr2025_cw_en,medium,tick2349; Medium CW
+bud_helan_hh_bruto_jr2025_statutory,vzw_helan_huishoudhulp_antwerpen,2025,109290854,109290854,109290854,CW bruto YE2025 JUMP,src_helan_hh_jr2025_cw_en,medium,tick2349; Medium CW
+bud_helan_hh_pnl_jr2025_statutory,vzw_helan_huishoudhulp_antwerpen,2025,1107433,1107433,1107433,CW pnl YE2025 JUMP +690%,src_helan_hh_jr2025_cw_en,medium,tick2349; Medium CW
+bud_helan_hh_equity_jr2025_statutory,vzw_helan_huishoudhulp_antwerpen,2025,9642741,9642741,9642741,CW equity YE2025 JUMP,src_helan_hh_jr2025_cw_en,medium,tick2349; Medium CW
+bud_helan_hh_fte_jr2025_statutory,vzw_helan_huishoudhulp_antwerpen,2025,2809.4,2809.4,2809.4,CW FTE YE2025 JUMP,src_helan_hh_jr2025_cw_en,medium,tick2349; Medium CW

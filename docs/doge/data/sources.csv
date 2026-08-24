@@ -6954,3 +6954,7 @@ src_oostrem_jr2025_cw_en,Companyweb EN Oostrem YE2025,https://www.companyweb.be/
 src_oostrem_kbo,KBO Oostrem 0409.806.786,https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0409806786,KBO FOD Economie,2026-08-24,official_register,"tick2348; Strong KBO Actief VZW; RSZ 87.202; Oostremstraat 26, 3020 Herent"
 src_oostrem_site_contact,Oostrem FOI info@oostrem.be,https://www.oostrem.be,Oostrem VZW,2026-08-24,foi_contact,tick2348; info@oostrem.be; T 016 23 15 45
 src_oostrem_nbb_consult,NBB CBSO consult Oostrem,https://consult.cbso.nbb.be/consult-enterprise/0409806786,NBB,2026-08-24,official_register,tick2348; PDF pending FOI
+src_helan_hh_jr2025_cw_nl,Companyweb NL Helan Huishoudhulp YE2025,https://www.companyweb.be/nl/0877059944/helan-huishoudhulp,Companyweb (NBB-derived),2026-08-24,secondary_aggregator,tick2349; omzet 115152498 bruto 109290854 pnl JUMP 1107433 FTE 2809.4
+src_helan_hh_jr2025_cw_en,Companyweb EN Helan Huishoudhulp YE2025,https://www.companyweb.be/en/0877059944/helan-huishoudhulp,Companyweb (NBB-derived),2026-08-24,secondary_aggregator,tick2349; EN Medium filed 25-06-2026
+src_helan_hh_kbo_2349,KBO Helan Huishoudhulp 0877.059.944,https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0877059944,KBO FOD Economie,2026-08-24,official_register,tick2349; Actief VZW dienstencheques
+src_helan_hh_site_2349,Helan Huishoudhulp contact,https://www.helan.be/nl/contacteer-ons/huishoudhulp/,Helan,2026-08-24,foi_contact,tick2349; Boomsesteenweg 5 2610 Antwerpen; T 02 218 22 22

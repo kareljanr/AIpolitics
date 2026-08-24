@@ -1,0 +1,15 @@
+{
+  "tick": "2346",
+  "unit": "rq_2346",
+  "entity": "vzw_staf_leuven",
+  "kbo": "0431.333.660",
+  "omzet": 74103,
+  "bruto": 5047619,
+  "pnl": 156705,
+  "equity": 2593536,
+  "fte": 61.4,
+  "ratio": 68.12,
+  "confidence": "medium",
+  "gap": "gap_staf_nbb_pdf_assets_debt_bruto_gt_omzet_68x_pnl_flip_vaph_dagcentrum_matrix_l5",
+  "pi": 6.58
+}

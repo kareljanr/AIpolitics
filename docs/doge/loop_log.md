@@ -26813,3 +26813,8 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN YE2025 omzet **EUR1622068**; bruto **EUR9015150** (~**5.56x**); pnl **EUR62715** PROFIT FLIP; equity **EUR6378433**; FTE **102.9**; filed **02.06.2026**. Medium.
 - Wrote: CSVs+FOI; rq_2348=done + rq_2349 open; ticks=2348.
 - FOI ready not sent. NOT every-10 (next **2350**). Next: rq_2349.
+
+### 2026-08-24T19:55:00Z - tick 2349 - rq_2349 Helan Huishoudhulp (omzet JUMP 115.15m / pnl JUMP +690% / FTE 2809 / Medium)
+- Unit: **rq_2349** FREE Helan Huishoudhulp YE2025 KBO 0877.059.944 dienstencheques.
+- Found: omzet EUR115152498 (+13%); bruto EUR109290854; pnl EUR1107433 (+690.65%); equity EUR9642741; FTE 2809.4; filed 25.06.2026. Medium.
+- Wrote CSVs+FOI ready not sent; next rq_2350; EVERY-10 next 2350.
