@@ -24682,3 +24682,12 @@ Append-only. Each tick adds a short entry.
 - Confirmed CSV rows already on main for **De Vlietoever WZC** (rq_2171) alongside race Het Dorp entity + later **rq_2172 Cur@-Z**.
 - Added missing FOI draft gap_vlietoever_nbb_pdf_assets_debt_pnl_loss_equity_drop_cura_matrix_l5.md + CW/KBO raw mirrors under docs/doge/data/raw/tick2171/.
 - FOI status remains **ready not sent**. Next open head: **rq_2173**. Next every-10: **2180**.
+
+## Tick 2173 - 2026-08-26T03:40:00Z - rq_2173 Langerheide WZC Haacht (omzet DROP 1.84m / pnl JUMP +60% / Medium)
+
+- Unit: **rq_2173** leftover dual after **rq_2172 Cur@-Z**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Langerheide Woon En Zorgcentrum VZW** YE2025 (KBO **0864.332.554**; Langerheide 7 Haacht; **VZW** NACE **87.301** ROB / **1 VE**). Do not redo Cur@-Z/Het Dorp/De Vlietoever/Abdij Affligem/Aaigem/Anima*/Zorg-Saam/Ben/Sint Lodewijk/Lork Hoeselt/emeis.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1842966** DROP -1.60% vs YE2024 EUR1873019; bruto **EUR3143509** JUMP +1.76% (bruto>omzet); pnl **EUR106076** JUMP +60.42% vs YE2024 EUR66122; equity **EUR931790** JUMP +12.85%; FTE **43.2**; neerlegging **04.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 1 VE NACE 87.301. FOI postal Langerheide 7 / tel +32 16 60 01 04 (KBO email empty).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.4); entities (+1 vzw_wzc_langerheide_haacht); foi + draft gap_langerheide_nbb_pdf_assets_debt_omzet_drop_pnl_jump_bruto_gt_omzet_matrix_l5; rq_2173=done + rq_2174 open; loop_state ticks=2173; raw docs/doge/data/raw/tick2173/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2174 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
