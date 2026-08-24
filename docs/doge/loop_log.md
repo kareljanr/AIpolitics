@@ -26187,3 +26187,9 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2293 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
 
+
+### 2026-08-27T15:45:00Z - FOI seal Buseloc Peer (gap draft missing after 2290 race)
+
+- Sealed missing FOI draft `gap_buseloc_nbb_pdf_assets_debt_empty_omzet_bruto_3_17m_pnl_jump_370pct_matrix_l5.md` for Buseloc YE2025 (bruto **EUR3.17m** / empty omzet / pnl JUMP **+370%** / FTE **83.4**; KBO 0433.160.527) already in CSVs from 2290 race with Op Maat EVERY-10.
+- Progress note: Buseloc removed from YE2024 stall list (unlocked YE2025).
+- FOI: **ready not sent** (human-gated). Next every-10: **2300**.
