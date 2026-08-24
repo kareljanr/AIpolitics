@@ -52974,3 +52974,8 @@ bud_creat_cv_bruto_jr2025_statutory,cv_creat_farys,2025,349506,349506,349506,CW 
 bud_creat_cv_pnl_jr2025_statutory,cv_creat_farys,2025,179023,179023,179023,CW statutory winst / Profit-Loss after tax YE2025,src_creat_cv_jr2025_cw_en,medium,tick2177; Medium CW; pnl DROP -11.11% vs YE2024 201403
 bud_creat_cv_equity_jr2025_statutory,cv_creat_farys,2025,1994141,1994141,1994141,CW statutory eigen_vermogen / Equity YE2025,src_creat_cv_jr2025_cw_en,medium,tick2177; Medium CW; equity JUMP +10.37% vs YE2024 1806748
 bud_creat_cv_fte_jr2025_statutory,cv_creat_farys,2025,0,0,0,CW social-balance FTE / Employees 0,src_creat_cv_jr2025_cw_en,medium,tick2177; Medium CW; FTE 0; assets/debt Unknown
+bud_waak_omzet_jr2025_statutory,vzw_waak_maatwerk,2025,37663381,37663381,37663381,CW statutory omzet / Turnover YE2025,src_waak_jr2025_cw_en,medium,tick2178; Medium CW; omzet JUMP +3.04% vs YE2024 36553945
+bud_waak_bruto_jr2025_statutory,vzw_waak_maatwerk,2025,55169684,55169684,55169684,CW statutory bruto_marge / Gross margin YE2025,src_waak_jr2025_cw_en,medium,tick2178; Medium CW; bruto JUMP +9.97% vs YE2024 50166860; bruto≫omzet
+bud_waak_pnl_jr2025_statutory,vzw_waak_maatwerk,2025,-386787,-386787,-386787,CW statutory winst / Profit-Loss after tax YE2025,src_waak_jr2025_cw_en,medium,tick2178; Medium CW; pnl DEEPER LOSS vs YE2024 -363789
+bud_waak_equity_jr2025_statutory,vzw_waak_maatwerk,2025,44039284,44039284,44039284,CW statutory eigen_vermogen / Equity YE2025,src_waak_jr2025_cw_en,medium,tick2178; Medium CW; equity DROP -1.11% vs YE2024 44534261
+bud_waak_fte_jr2025_statutory,vzw_waak_maatwerk,2025,1592.1,1592.1,1592.1,CW social-balance FTE / Employees 1592.1,src_waak_jr2025_cw_en,medium,tick2178; Medium CW; FTE DROP vs YE2024 1643.2; assets/debt Unknown

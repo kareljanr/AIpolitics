@@ -24742,3 +24742,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.8); entities (+1 cv_creat_farys); foi + draft gap_creat_cv_nbb_pdf_assets_debt_omzet_50m_bruto_thin_fte0_matrix_l5; rq_2177=done + rq_2178 open; loop_state ticks=2177; raw docs/doge/data/raw/tick2177/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2178 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2178 - 2026-08-26T05:20:00Z - rq_2178 Waak Maatwerk (omzet JUMP 37.7m / pnl LOSS -387k / bruto>omzet / FTE DROP / Medium)
+
+- Unit: **rq_2178** leftover dual after **Stroom / Creat CV**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took named FREE leftover **Waak Maatwerkbedrijf VZW** YE2025 (KBO **0439.993.582**; Heirweg 125 Kuurne; **VZW** NACE **88.993** / **3 VE**). Deferred FREE Stijn 0439.452.461. Do not redo Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever/Anima*/emeis.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR37663381** JUMP +3.04% vs YE2024 EUR36553945; bruto **EUR55169684** JUMP +9.97% (bruto≫omzet); pnl **EUR-386787** DEEPER LOSS vs YE2024 EUR-363789; equity **EUR44039284** DROP -1.11%; FTE **1592.1** DROP vs 1643.2; neerlegging **15.05.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 3 VE. FOI via info@waak.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.4); entities (+1 vzw_waak_maatwerk); foi + draft gap_waak_nbb_pdf_assets_debt_pnl_loss_bruto_gt_omzet_fte_drop_matrix_l5; rq_2178=done + rq_2179 open; loop_state ticks=2178; raw docs/doge/data/raw/tick2178/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2179 (AGB/FARO-if-YE2025 / AIESH-REW / Stijn-or-unused IGS-DSO-WZC-MRS-HVZ).
