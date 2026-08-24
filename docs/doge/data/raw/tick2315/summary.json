@@ -1,0 +1,12 @@
+{
+  "tick": "2315",
+  "entity_id": "vzw_havenzate_veurne",
+  "omzet": 851063,
+  "bruto": 4693201,
+  "pnl": 594899,
+  "equity": 6750403,
+  "fte": 47.7,
+  "ratio": 5.51,
+  "gap_id": "gap_havenzate_nbb_pdf_assets_debt_bruto_gt_omzet_5_51x_pnl_drop_4pct_equity_jump_vaph_matrix_l5",
+  "confidence": "medium"
+}

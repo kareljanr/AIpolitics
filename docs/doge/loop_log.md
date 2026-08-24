@@ -26459,3 +26459,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.1); entities (+1 vzw_iris_kontich); foi + draft gap_iris_kontich_nbb_pdf_assets_debt_bruto_gt_omzet_7_70x_pnl_drop_72pct_vaph_matrix_l5; rq_2314=done + rq_2315 open; loop_state ticks=2314; raw docs/doge/data/raw/tick2314/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**next EVERY-10 2320**). Next: rq_2315.
+
+### 2026-08-27T22:00:00Z - tick 2315 - rq_2315 Havenzate Veurne (bruto 4.69m / omzet 0.85m ~5.51x / pnl DROP -4% / Medium)
+
+- Unit: **rq_2315** leftover dual. Stalls AGB/FARO YE2024. Took FREE VAPH **Havenzate** YE2025 KBO **0407.671.895** (Veurne; 2 VE; RSZ 87.202).
+- Found: CW YE2025 omzet **EUR851063** JUMP +7.95%; bruto **EUR4693201** (~**5.51x**); pnl **EUR594899** DROP -4.08%; equity **EUR6750403** JUMP +11.2%; FTE **47.7**; filed **14.07.2026**. Medium.
+- Wrote: sources/budgets/commitments/leaderboard/entities/foi; rq_2315=done + rq_2316 open; ticks=2315.
+- FOI ready not sent. NOT every-10 (next **2320**). Next: rq_2316.

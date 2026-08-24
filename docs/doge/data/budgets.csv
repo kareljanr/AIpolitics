@@ -53943,3 +53943,8 @@ bud_iris_kontich_omzet_jr2025_statutory,vzw_iris_kontich,2025,224127,224127,2241
 bud_iris_kontich_pnl_jr2025_statutory,vzw_iris_kontich,2025,10077,10077,10077,CW statutory pnl YE2025 DROP,src_iris_kontich_jr2025_cw_en,medium,tick2314; pnl 10077 DROP -72.45% vs YE2024 36574
 bud_iris_kontich_equity_jr2025_statutory,vzw_iris_kontich,2025,3502266,3502266,3502266,CW statutory equity YE2025,src_iris_kontich_jr2025_cw_en,medium,tick2314; equity 3502266 JUMP +0.29% vs 3492189
 bud_iris_kontich_fte_jr2025_statutory,vzw_iris_kontich,2025,22.1,22.1,22.1,CW FTE YE2025,src_iris_kontich_jr2025_cw_en,medium,tick2314; FTE 22.1 vs 19.0
+bud_havenzate_omzet_jr2025_statutory,vzw_havenzate_veurne,2025,851063,851063,851063,CW omzet YE2025,src_havenzate_jr2025_cw_en,medium,tick2315; +7.95% vs 788387
+bud_havenzate_bruto_jr2025_statutory,vzw_havenzate_veurne,2025,4693201,4693201,4693201,CW bruto ~5.51x,src_havenzate_jr2025_cw_en,medium,tick2315; +7.54%
+bud_havenzate_pnl_jr2025_statutory,vzw_havenzate_veurne,2025,594899,594899,594899,CW pnl,src_havenzate_jr2025_cw_en,medium,tick2315; DROP -4.08%
+bud_havenzate_equity_jr2025_statutory,vzw_havenzate_veurne,2025,6750403,6750403,6750403,CW equity,src_havenzate_jr2025_cw_en,medium,tick2315; JUMP +11.2%
+bud_havenzate_fte_jr2025_statutory,vzw_havenzate_veurne,2025,47.7,47.7,47.7,CW FTE 47.7,src_havenzate_jr2025_cw_en,medium,tick2315; assets/debt Unknown

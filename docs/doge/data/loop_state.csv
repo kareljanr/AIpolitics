@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T13:06:15Z,rq_2314,2314,no,tick2314 leftover dual Iris Kontich 0419.665.154 Medium (omzet 224127; bruto JUMP 1725182 ~7.7x; pnl DROP 10077 -72.45%; equity JUMP 3502266; FTE JUMP 22.1; 1 VE VAPH Kontich); after Hejmen@2313; AGB/FARO YE2024; next rq_2315; next EVERY-10 2320; continuous hole_fill
+main,continuous,hole_fill,2026-08-27T22:00:00Z,rq_2315,2315,no,tick2315 leftover dual Havenzate 0407.671.895 Medium (omzet JUMP 851063; bruto JUMP 4693201 ~5.51x; pnl DROP 594899; equity JUMP 6750403; FTE 47.7; 2 VE Veurne VAPH); AGB Bornem JR2024; FARO/AIESH YE2024; next rq_2316; next EVERY-10 2320
