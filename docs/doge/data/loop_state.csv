@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T18:45:00Z,rq_2342,2342,no,tick2342 leftover dual Aurelia 0878.745.863 Medium (omzet JUMP 6280971; bruto JUMP 6339122 ~1.01x; pnl JUMP 142185; equity JUMP 1291057; FTE 81.6; 2 VE RSZ 88.101); after Eyckerheyde@2341; unlocked YE2025; next rq_2343; next EVERY-10 2350
+main,continuous,hole_fill,2026-08-24T19:05:00Z,rq_2342,2342,no,tick2342 leftover dual Aurelia 0878.745.863 Medium (omzet JUMP 6280971; bruto JUMP 6339122 ~1.01x; pnl JUMP 142185 +95.71%; equity JUMP 1291057; FTE 81.6; 2 VE RSZ 88.101); after Eyckerheyde@2341; AGB/FARO/Gandae/Aralea YE2024; next rq_2343; next EVERY-10 2350
