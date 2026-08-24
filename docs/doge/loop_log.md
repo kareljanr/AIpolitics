@@ -25909,3 +25909,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.05); entities (+1 sc_pepinieres_la_gaume_tintigny); foi + draft gap_la_gaume_nbb_pdf_assets_debt_equity_drop_14pct_pnl_loss_narrow_eta_matrix_l5; rq_2273=done + rq_2274 open; loop_state ticks=2273; raw docs/doge/raw/tick2273/ + data/raw/tick2273/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2274 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
+
+
+
+### 2026-08-27T10:40:00Z - tick 2274 - rq_2274 Atelier 85 Florennes (omzet JUMP 7.86m / bruto~1.02x / pnl DROP -3.23% / FTE 174.3 / Medium)
+
+- Unit: **rq_2274** leftover dual after **rq_2273 Pépinières La Gaume**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**. Took named FREE Walloon ETA **Atelier 85 ASBL** YE2025 (KBO **0402.582.662**; Rue de Mettet 127 Florennes; **Actief** **3 VE**; NACE **88.993** AViQ) — unlocked from prior YE2024 stall. Deferred Adapta/Criquelion/Roseau Vert. Do not redo La Gaume/Fournipac/De Enter/Serre-Outil/Amis/Hautes stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR7857010** JUMP +14.0% vs YE2024 EUR6891990; bruto **EUR7985780** JUMP +3.71% (bruto÷omzet ~1.02x); pnl **EUR1064607** DROP -3.23% vs YE2024 EUR1100107; equity **EUR13333204** JUMP +8.1%; FTE **174.3** (+0.35% vs 173.7); neerlegging **02.06.2026**. Strong KBO Actief 3 VE ASBL. Assets/debt Unknown. Medium. FOI via info@atelier85.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.15); entities (+1 vzw_atelier_85_florennes); foi + draft gap_atelier85_nbb_pdf_assets_debt_omzet_7_86m_bruto_gt_omzet_1_02x_eta_matrix_l5; rq_2274=done + rq_2275 open; loop_state ticks=2274; raw docs/doge/raw/tick2274/ + data/raw/tick2274/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2275 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Foes-if-YE2025 / unused ETA).
