@@ -26047,3 +26047,29 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.86); entities (+1 vzw_die_zukunft_amel); foi + draft gap_die_zukunft_nbb_pdf_assets_debt_bruto_gt_omzet_1_78x_pnl_jump_fte_drop_eta_matrix_l5; rq_2282=done + rq_2283 open; loop_state ticks=2282; raw docs/doge/data/raw/tick2282/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2280**; next **2290**). Next: rq_2283 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA Roseau Vert-Ateliers Mons / unused maatwerk WEBO-De Sprong).
+
+### 2026-08-27T13:00:00Z - tick 2282 - rq_2282 TWI Zaventem (bruto JUMP 5.01m / empty omzet / pnl LOSS DEEPEN -0.91m / equity DROP -49.6% / FTE 144.3 / Medium)
+
+- Unit: **rq_2282** leftover dual after **rq_2281 Ateliers du 94 / De Dageraad race**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Citeco/Groupe Foes still **YE2024**; Aralea/Manupal/Posthoorn/De Ploeg/Vlotter/Buseloc still **YE2024**. Took FREE Flemish maatwerk **TWI VZW** YE2025 (KBO **0454.926.733**; Lozenberg 9 Zaventem/Sint-Stevens-Woluwe; **Actief** **2 VE**; NACE **88.993**). Do not redo De Dageraad/Ateliers du 94/eurakor/Alternatief/Reset/Ateliers Avenir/IN-Z/m-accent/AMAB stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR5013452** JUMP +0.29% vs YE2024 EUR4998826; pnl **EUR-911510** LOSS DEEPEN -151.66% vs YE2024 EUR-362202; equity **EUR934214** DROP -49.6%; FTE **144.3** (vs 146.7); neerlegging **25.06.2026**. Strong KBO Actief 2 VE VZW info@twi.brussels. Assets/debt Unknown. Medium.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 6.05); entities (+1 vzw_twi_zaventem); foi + draft gap_twi_nbb_pdf_assets_debt_empty_omzet_pnl_loss_deepen_equity_drop_49pct_matrix_l5; rq_2282=done + rq_2283 open; loop_state ticks=2282; raw docs/doge/data/raw/tick2282/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2280**; next **2290**). Next: rq_2283 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused DSO-water-nuclear-IGS-HVZ / unused ETA-VAPH-WZC-maatwerk).
+
+
+
+### 2026-08-27T13:15:00Z - tick 2283 - rq_2283 Ateljee Gent (omzet JUMP 10.66m / bruto~1.83x / pnl LOSS FLIP / FTE JUMP 478.6 / Medium)
+
+- Unit: **rq_2283** leftover dual after **rq_2282 Die Zukunft**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Citeco still **YE2024**; Groupe Foes still **YE2024**; Manupal/Aralea/Posthoorn/Vlotter/Buseloc still **YE2024**; Heropbeuring still **CW opaque**. Took unused FREE Flemish maatwerk / Kringwinkel **Ateljee VZW** YE2025 (KBO **0430.839.554**; Getouwstraat 11 Gent; **Actief** **19 VE**; NACE **88.993**; restructuring pub 11.04.2025). Do not redo Die Zukunft/De Dageraad/Ateliers du 94/Den Azalee/eurakor/Ateliers de l'Avenir/IN-Z/m-accent/AMAB/Atelier Alternatief stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR10664761** JUMP +21.66% vs YE2024 EUR8765694; bruto **EUR19503939** JUMP +30.34% (bruto÷omzet ~1.83x); pnl **EUR-860427** LOSS FLIP (< -1000% vs YE2024 EUR37727); equity **EUR8129150** DROP -3.24%; FTE **478.6** JUMP (vs 355.2 +34.7%); neerlegging **30.06.2026**. Strong KBO Actief 19 VE VZW. Assets/debt Unknown. Medium. FOI via info@ateljeevzw.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.70); entities (+1 vzw_ateljee_gent); foi + draft gap_ateljee_nbb_pdf_assets_debt_omzet_jump_10_66m_pnl_loss_flip_fte_jump_matrix_l5; rq_2283=done + rq_2284 open; loop_state ticks=2282; raw docs/doge/data/raw/tick2283/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2280**; next **2290**). Next: rq_2283 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
+
+### 2026-08-27T13:00:00Z - tick 2282 - rq_2282 Die Zukunft Amel (omzet JUMP 1.28m / bruto~1.78x / pnl JUMP / FTE DROP 73.5 / Medium)
+
+- Unit: **rq_2282** leftover dual after **rq_2281 A94 / De Dageraad race**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Citeco/Groupe Foes still **YE2024**; Manupal/Posthoorn/De Ploeg/Vlotter/Buseloc still **YE2024**; Heropbeuring still **CW opaque**. Took unused FREE Ostbelgien EWETA **Die Zukunft VoG** YE2025 (KBO **0412.748.262**; Meyerode Jäseberg 12 Amel; **Actief** **1 VE**; NACE **88.993**; municipal board Amel/Büllingen/Burg-Reuland/Bütgenbach/Sankt-Vith; info@zukunft.be). Do not redo A94/De Dageraad/eurakor/Alternatief/Reset/Ateliers Avenir/IN-Z/m-accent/AMAB/C.A.R.P./BW Eupen@2262 (distinct 0412.778.847).
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1278800** JUMP +4.49% vs YE2024 EUR1223791; bruto **EUR2280706** JUMP +4.45% (bruto÷omzet ~1.78x); pnl **EUR134370** JUMP +116.87% vs YE2024 EUR61958; equity **EUR2728815** JUMP +2.03%; FTE **73.5** DROP (vs 77.6); neerlegging **08.05.2026**. Strong KBO Actief 1 VE VZW. Assets/debt Unknown. Medium. FOI via info@zukunft.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 4.8); entities (+1 vzw_die_zukunft_amel); foi + draft gap_die_zukunft_nbb_pdf_assets_debt_bruto_gt_omzet_1_78x_pnl_jump_fte_drop_eta_matrix_l5; rq_2282=done + rq_2283 open; loop_state ticks=2282; raw docs/doge/data/raw/tick2282/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2280**; next **2290**). Next: rq_2283 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA Roseau Vert-Ateliers Mons-Village Liégeois / unused DSO-water-IGS-HVZ).

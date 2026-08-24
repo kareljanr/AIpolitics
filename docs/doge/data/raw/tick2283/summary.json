@@ -1,0 +1,21 @@
+{
+  "tick": "2283",
+  "unit": "rq_2283",
+  "entity": "vzw_ateljee_gent",
+  "kbo": "0430.839.554",
+  "omzet": 10664761,
+  "bruto": 19503939,
+  "pnl": -860427,
+  "equity": 8129150,
+  "fte": 478.6,
+  "ratio_bruto_omzet": 1.83,
+  "confidence": "medium",
+  "gap": "gap_ateljee_nbb_pdf_assets_debt_omzet_jump_10_66m_pnl_loss_flip_fte_jump_matrix_l5",
+  "sources": [
+    "src_ateljee_jr2025_cw_en",
+    "src_ateljee_jr2025_cw_nl",
+    "src_ateljee_jr2025_cw_fr",
+    "src_ateljee_kbo_0430839554",
+    "src_ateljee_site_contact_2283"
+  ]
+}
