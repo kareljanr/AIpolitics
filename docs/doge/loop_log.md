@@ -26023,3 +26023,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.18); entities (+1 vzw_atelier_alternatief_genk); foi + draft gap_alternatief_nbb_pdf_assets_debt_empty_omzet_equity_drop_30pct_pnl_loss_narrow_matrix_l5; progress + waste top10; rq_2280=done + rq_2281 open; loop_state ticks=2280; raw docs/doge/data/raw/tick2280/.
 - FOI: **ready not sent** (human-gated).
 - EVERY-10 THIS TICK (**last every-10 was 2270**; next **2290**). Next: rq_2281 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
+
+### 2026-08-27T12:45:00Z - tick 2281 - rq_2281 De Dageraad Kontich (bruto DROP 2.03m / empty omzet / pnl LOSS FLIP / equity DROP / FTE 58.8 / Medium)
+
+- Unit: **rq_2281** leftover dual after **rq_2280 eurakor/Alternatief**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Aralea/Manupal/Posthoorn/De Ploeg/Vlotter/Buseloc still **YE2024**. Took FREE Flemish maatwerk **De Dageraad VZW** YE2025 (KBO **0412.607.613**; Heiveldekens 7 Kontich; **Actief** **1 VE**; NACE **88.993/18.130** zeefdruk/gravering/signalisatie). Do not redo eurakor/Alternatief/Reset/Ateliers Avenir/IN-Z/m-accent/AMAB stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR2029973** DROP -6.28% vs YE2024 EUR2165889; pnl **EUR-98756** LOSS FLIP -170.87% vs YE2024 EUR139346; equity **EUR2030934** DROP -4.28%; FTE **58.8** (vs 60.1); neerlegging **03.07.2026**. Strong KBO Actief 1 VE VZW directie@de-dageraad.be. Assets/debt Unknown. Medium.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.07); entities (+1 vzw_de_dageraad_kontich); foi + draft gap_dageraad_nbb_pdf_assets_debt_empty_omzet_pnl_loss_flip_equity_drop_matrix_l5; rq_2281=done + rq_2282 open; loop_state ticks=2281; raw docs/doge/data/raw/tick2281/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2280**; next **2290**). Next: rq_2282 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
