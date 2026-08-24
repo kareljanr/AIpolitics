@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-28T00:10:00Z,rq_2324,2324,no,tick2324 leftover dual Ritmica 0408.389.794 Medium (omzet JUMP 168625; bruto JUMP 4643269 ~27.54x; pnl LOSS -53443; equity DROP 751941; FTE JUMP 64.7; 3 VE Hove VAPH); after Dominiek@2323; AGB Bornem JR2024; FARO/AIESH YE2024; next rq_2325; next EVERY-10 2330; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T13:29:14Z,rq_2325,2325,no,tick2325 leftover dual Ithaka 0448.387.646 Medium (omzet empty; bruto JUMP 1680736; pnl LOSS FLIP -29736; equity DROP 1029376; FTE 20.8); after Ritmica@2324; AGB/FARO YE2024; next rq_2326; next EVERY-10 2330; continuous hole_fill

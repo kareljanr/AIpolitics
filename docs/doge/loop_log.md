@@ -26568,3 +26568,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.55); entities (+1 vzw_dominiek_savio_hooglede); foi + draft gap_dominiek_savio_nbb_pdf_assets_debt_bruto_gt_omzet_7_08x_pnl_profit_flip_fte_drop_vaph_matrix_l5; rq_2323=done + rq_2324 open; loop_state ticks=2323; raw docs/doge/data/raw/tick2323/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2320**; next **2330**). Next: rq_2324.
+
+### 2026-08-24T13:29:14Z - tick 2325 - rq_2325 Ithaka Oostende (empty omzet / bruto JUMP 1.68m / pnl LOSS FLIP / Medium)
+
+- Unit: **rq_2325** leftover dual after **Ritmica@2324**. Prefer NON-stall: AGB Bornem still **JR2024**; FARO/AIESH still **YE2024**. Took unused FREE Flemish VAPH **Ithaka VZW** YE2025 (KBO **0448.387.646**; Kaaistraat 35 Oostende; **Actief**; dagcentra mentale handicap; info@vzw-ithaka.be). Do not redo Ritmica/Dominiek Savio/Merlijn/Humival/Heder/Kindervriend stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **empty**; bruto **EUR1680736** JUMP +5.17%; pnl **EUR-29736** LOSS FLIP; equity **EUR1029376** DROP -3.92%; FTE **20.8**; neerlegging **18.06.2026**. Strong KBO Actief. Assets/debt Unknown. Medium. FOI via info@vzw-ithaka.be.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 4.9); entities (+1); foi + draft gap_ithaka_nbb_pdf_assets_debt_empty_omzet_bruto_1_68m_pnl_loss_flip_vaph_matrix_l5; rq_2325=done + rq_2326 open; loop_state ticks=2325.
+- FOI: **ready not sent**. NOT every-10 (next **2330**). Next: rq_2326.

@@ -54011,3 +54011,12 @@ bud_dominiek_savio_omzet_jr2025_statutory,vzw_dominiek_savio_hooglede,2025,49701
 bud_dominiek_savio_pnl_jr2025_statutory,vzw_dominiek_savio_hooglede,2025,1045976,1045976,1045976,CW pnl YE2025 PROFIT FLIP,src_dominiek_savio_jr2025_cw_en,medium,tick2323; pnl 1045976 vs -45562
 bud_dominiek_savio_equity_jr2025_statutory,vzw_dominiek_savio_hooglede,2025,30307987,30307987,30307987,CW equity YE2025,src_dominiek_savio_jr2025_cw_en,medium,tick2323; equity 30307987
 bud_dominiek_savio_fte_jr2025_statutory,vzw_dominiek_savio_hooglede,2025,447.2,447.2,447.2,CW FTE YE2025,src_dominiek_savio_jr2025_cw_en,medium,tick2323; FTE 447.2 vs 450.5
+bud_apart_omzet_jr2025_statutory,vzw_apart_gent,2025,20940,20940,20940,CW statutory omzet YE2025 DROP,src_apart_jr2025_cw_en,medium,tick2325; Medium CW; omzet -21.51% vs 26679
+bud_apart_bruto_jr2025_statutory,vzw_apart_gent,2025,8787800,8787800,8787800,CW statutory bruto_marge YE2025 ~419.67x omzet,src_apart_jr2025_cw_en,medium,tick2325; Medium CW; bruto +5.19% vs 8354144
+bud_apart_pnl_jr2025_statutory,vzw_apart_gent,2025,3607,3607,3607,CW statutory winst/verlies YE2025 DROP -99.58%,src_apart_jr2025_cw_en,medium,tick2325; Medium CW; pnl DROP vs 856164
+bud_apart_equity_jr2025_statutory,vzw_apart_gent,2025,4025991,4025991,4025991,CW statutory eigen_vermogen YE2025,src_apart_jr2025_cw_en,medium,tick2325; Medium CW; equity -0.27% vs 4037002
+bud_apart_fte_jr2025_statutory,vzw_apart_gent,2025,115.7,115.7,115.7,CW social-balance FTE 115.7,src_apart_jr2025_cw_en,medium,tick2325; Medium CW; FTE JUMP vs 110.8
+bud_ithaka_bruto_jr2025_statutory,vzw_ithaka_oostende,2025,1680736,1680736,1680736,CW statutory bruto YE2025 primary (omzet unpublished),src_ithaka_jr2025_cw_en,medium,tick2325; bruto 1680736 JUMP +5.17% vs 1598151
+bud_ithaka_pnl_jr2025_statutory,vzw_ithaka_oostende,2025,-29736,-29736,-29736,CW statutory pnl YE2025 LOSS FLIP,src_ithaka_jr2025_cw_en,medium,tick2325; pnl -29736 LOSS FLIP vs profit 116416
+bud_ithaka_equity_jr2025_statutory,vzw_ithaka_oostende,2025,1029376,1029376,1029376,CW statutory equity YE2025 DROP,src_ithaka_jr2025_cw_en,medium,tick2325; equity 1029376 DROP -3.92% vs 1071386
+bud_ithaka_fte_jr2025_statutory,vzw_ithaka_oostende,2025,20.8,20.8,20.8,CW FTE YE2025,src_ithaka_jr2025_cw_en,medium,tick2325; FTE 20.8 vs 20.2
