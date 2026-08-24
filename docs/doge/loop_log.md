@@ -24940,3 +24940,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.7); entities (+1 vzw_kunnig_operations_antwerpen); foi + draft gap_kunnig_ops_nbb_pdf_assets_debt_bruto_gt_omzet_holding_matrix_l5; rq_2195=done + rq_2196 open; loop_state ticks=2195; raw docs/doge/data/raw/tick2195/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2196 (AGB/FARO-if-YE2025 / AIESH-REW / BWZ-De Schakel-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2195 - 2026-08-26T11:00:00Z - rq_2195 Bewel (omzet JUMP 28.64m / bruto>omzet ~2.3x / pnl JUMP +241% / Medium)
+
+- Unit: **rq_2195** leftover dual after **rq_2194 Forena**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still YE2024-class. Named FREE Kunnig already mined. Took unused leftover **Bewel VZW** YE2025 (KBO **0407.229.358**; Ginderoverstraat 143 Diepenbeek; **VZW** RSZ NACE **88.993** / **9 VE**). Deferred FREE Pajottenland / BW Zottegem. Do not redo Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel Antwerpen/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR28644666** JUMP +14.6% vs YE2024 EUR24995886; bruto **EUR66776088** JUMP +9.16% (bruto≫omzet ~2.33x); pnl **EUR2877726** JUMP +240.93% vs YE2024 EUR844089; equity **EUR37352223** JUMP +8.21%; FTE **2015.6** JUMP vs 1971.5; neerlegging **09.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 9 VE. FOI via info@bewel.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.8); entities (+1 vzw_bewel_diepenbeek); foi + draft gap_bewel_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_jump_matrix_l5; rq_2195=done + rq_2196 open; loop_state ticks=2195; raw docs/doge/data/raw/tick2195/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2196 (AGB/FARO-if-YE2025 / AIESH-REW / Pajottenland-BW Zottegem-or-unused IGS-DSO-WZC-MRS-HVZ).
