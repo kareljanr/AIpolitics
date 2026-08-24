@@ -24106,3 +24106,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.7); entities (+1 asbl_la_charmille_pont_a_celles); foi + draft gap_la_charmille_pac_nbb_pdf_assets_debt_pnl_loss_equity_flip_matrix_l5; rq_2117=done + rq_2118 open; loop_state ticks=2117; raw docs/doge/data/raw/tick2117/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (last **2110**; next **2120**). Next: rq_2118 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+
+## Tick 2118 - 2026-08-25T09:55:00Z - rq_2118 Entraide Fraternelle Jolimont (omzet JUMP 28.73m / pnl DROP 1.70m −24% / Medium)
+
+- Unit: **rq_2118** leftover dual after **rq_2117 La Charmille Pont-à-Celles**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Entraide Fraternelle Jolimont** YE2025 (KBO **0407.699.017**; Rue Ferrer(PAU) 159 La Louvière; **VZW/ASBL** NACE **87.101/87.301** / **6 VE**; **Groupe Jolimont** Pôle Senior multi-site; Aanbestedende overheid). Do not redo La Charmille/Les Charmilles Sambreville/Les Sittelles/Les Buissons/Résidence 3/Elisabeth Aan Zee/XXe Août/Ninove/Zilverlinde/Sint-Camillus/IDELUX*/INTRADEL/ORES SC/Korian holding/AGB Bornem.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR28734828** JUMP +3.43%; bruto **EUR31503767** JUMP +2.21%; pnl **EUR1703142** DROP −24.37% vs YE2024 EUR2251893; equity **EUR32305838** JUMP +10.59% vs YE2024 EUR29212613; FTE **372.8** (YoY Unknown); neerlegging **10.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via secretariat.general@jolimont.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.2); entities (+1 asbl_entraide_fraternelle_jolimont); foi + draft gap_entraide_jolimont_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2118=done + rq_2119 open; loop_state ticks=2118; raw docs/doge/data/raw/tick2118/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2110**; next **2120**). Next: rq_2119 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
