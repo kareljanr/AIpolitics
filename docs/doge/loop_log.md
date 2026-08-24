@@ -24462,3 +24462,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2150**; next **2160**). Next: rq_2157 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS; Parc de Forest Ixelles 0452.587.548 YE2026 deferred).
 
+
+
+## Tick 2157 - 2026-08-25T22:20:00Z - rq_2157 MRS Parc de Forest Ixelles (omzet DROP 880k / pnl JUMP +331% / equity NEG -385k / Medium)
+
+- Unit: **rq_2157** leftover dual after **rq_2156 MRS Le Hanois**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Skipped deferred opaque ZS Hainaut-Est 0500.915.819 (FTE 200, same opacity class). Took deferred unused leftover **Maison de Repos du Parc de Forest BV** YE2026 (KBO **0452.587.548**; Generaal Jacqueslaan 100 Ixelles seat; site Rue Antoine Bréart 131 Saint-Gilles; **BV/SRL** NACE **87.301** / **1 VE**; commercial **RESIDENCE DU PARC**; fiscal YE ends **30.04**). Do not redo Le Hanois/Eycken Brug/Sint-Felix/Annuntiaten/Brabant wallon/Vesdre/Val de Sambre/HEMECO/WAPI/Hesbaye/Hainaut-Centre/Dinaphi/Zonnelied/Care-Ion/Groep SF/Solidum stack.
+- Found: Companyweb NL+EN+FR YE2026 - omzet **EUR880253** DROP -9.5% vs YE2025 EUR972603; bruto **EUR488720** DROP -4.19%; pnl **EUR61950** JUMP +330.86% vs YE2025 EUR14378; equity **EUR-385222** NEG improved +13.85% vs YE2025 EUR-447172; FTE **12**; neerlegging **20.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief BV 1 VE. FOI via resduparc@hotmail.fr.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.6); entities (+1 bv_mrs_parc_de_forest_ixelles); foi + draft gap_parc_de_forest_nbb_pdf_assets_debt_negative_equity_omzet_drop_matrix_l5; rq_2157=done + rq_2158 open; loop_state ticks=2157; raw docs/doge/data/raw/tick2157/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2150**; next **2160**). Next: rq_2158 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros; prefer sourced € over opaque ZS).
