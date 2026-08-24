@@ -1,0 +1,14 @@
+{
+  "tick": "2295",
+  "unit": "rq_2295",
+  "entity": "vzw_rozemarijn_keerbergen",
+  "kbo": "0436.599.077",
+  "omzet": 851570,
+  "bruto": 5962647,
+  "pnl": 209245,
+  "equity": 5763526,
+  "fte": 62.2,
+  "ratio": 7.0,
+  "confidence": "medium",
+  "gap": "gap_rozemarijn_nbb_pdf_assets_debt_bruto_gt_omzet_7x_pnl_jump_255pct_vaph_matrix_l5"
+}

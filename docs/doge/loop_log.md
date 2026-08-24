@@ -26210,3 +26210,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.55); entities (+1 vzw_mo_clean_sint_niklaas); foi + draft gap_mo_clean_nbb_pdf_assets_debt_empty_omzet_bruto_2_16m_pnl_loss_flip_equity_drop_45pct_fusion_matrix_l5; rq_2294=done + rq_2295 open; loop_state ticks=2294; raw docs/doge/data/raw/tick2294/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2295 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
+
+
+### 2026-08-27T16:15:00Z - tick 2295 - rq_2295 Rozemarijn Keerbergen (omzet JUMP 0.85m / bruto~7.0x / pnl JUMP +255% / FTE 62.2 / Medium)
+
+- Unit: **rq_2295** leftover dual after **rq_2294 Mo-Clean**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Aralea/Manupal still **YE2024**. Took unused FREE VAPH+maatwerk **Rozemarijn VZW** YE2025 (KBO **0436.599.077**; Wageman 5 Keerbergen; **Actief** **2 VE**; RSZ **88.993**; aanbestedende overheid). Do not redo Mo-Clean/NLZ/Labor/Intro Schoonmaak/Op Maat/Den Azalee stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR851570** JUMP +10.15% vs YE2024 EUR773100; bruto **EUR5962647** JUMP +9.4% (bruto÷omzet ~7.0x); pnl **EUR209245** JUMP +255.39% vs YE2024 EUR58877; equity **EUR5763526** JUMP +3.11%; FTE **62.2** DROP (vs 63.4); neerlegging **29.06.2026**. Strong KBO Actief 2 VE VZW. Assets/debt Unknown. Medium. FOI via info@vzwrozemarijn.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.35); entities (+1 vzw_rozemarijn_keerbergen); foi + draft gap_rozemarijn_nbb_pdf_assets_debt_bruto_gt_omzet_7x_pnl_jump_255pct_vaph_matrix_l5; rq_2295=done + rq_2296 open; loop_state ticks=2295; raw docs/doge/data/raw/tick2295/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2296 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-maatwerk SOBO-Gandae).

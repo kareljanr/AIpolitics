@@ -53800,3 +53800,9 @@ bud_mo_clean_pnl_jr2025_statutory,vzw_mo_clean_sint_niklaas,2025,-138224,-138224
 bud_mo_clean_equity_jr2025_statutory,vzw_mo_clean_sint_niklaas,2025,195665,195665,195665,CW statutory equity YE2025,src_mo_clean_jr2025_cw_en,medium,tick2294; equity 195665 DROP -45.06% vs 356155
 bud_mo_clean_fte_jr2025_statutory,vzw_mo_clean_sint_niklaas,2025,60.0,60.0,60.0,CW FTE YE2025,src_mo_clean_jr2025_cw_en,medium,tick2294; FTE 60.0 vs 58.9
 bud_mo_clean_pnl_jr2024_statutory_cmp,vzw_mo_clean_sint_niklaas,2024,27907,27907,27907,CW pnl YE2024 comparative,src_mo_clean_jr2025_cw_en,medium,tick2294; YE2024 pnl 27907 comparative (pre LOSS FLIP)
+bud_rozemarijn_omzet_jr2025_statutory,vzw_rozemarijn_keerbergen,2025,851570,851570,851570,CW omzet YE2025,src_rozemarijn_jr2025_cw_en,medium,tick2295; omzet JUMP +10.15% vs 773100
+bud_rozemarijn_bruto_jr2025_statutory,vzw_rozemarijn_keerbergen,2025,5962647,5962647,5962647,CW bruto YE2025 (~7.0x),src_rozemarijn_jr2025_cw_en,medium,tick2295; bruto JUMP +9.4%; bruto÷omzet ~7.0x
+bud_rozemarijn_pnl_jr2025_statutory,vzw_rozemarijn_keerbergen,2025,209245,209245,209245,CW pnl YE2025 JUMP,src_rozemarijn_jr2025_cw_en,medium,tick2295; pnl JUMP +255.39% vs 58877
+bud_rozemarijn_equity_jr2025_statutory,vzw_rozemarijn_keerbergen,2025,5763526,5763526,5763526,CW equity YE2025,src_rozemarijn_jr2025_cw_en,medium,tick2295; equity JUMP +3.11% vs 5589811
+bud_rozemarijn_fte_jr2025_statutory,vzw_rozemarijn_keerbergen,2025,62.2,62.2,62.2,CW FTE 62.2,src_rozemarijn_jr2025_cw_en,medium,tick2295; FTE DROP 62.2 vs 63.4
+bud_rozemarijn_pnl_jr2024_statutory_cmp,vzw_rozemarijn_keerbergen,2024,58877,58877,58877,CW pnl YE2024 cmp,src_rozemarijn_jr2025_cw_en,medium,tick2295; YE2024 58877
