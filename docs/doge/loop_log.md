@@ -25276,3 +25276,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.90); entities (+1 vzw_manus_groep); foi + draft gap_manus_groep_nbb_pdf_assets_debt_empty_omzet_pnl_jump_equity_jump_matrix_l5; rq_2222=done + rq_2223 open; loop_state ticks=2222; raw docs/doge/raw/tick2222/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2223 (AGB/FARO-if-YE2025 / AIESH-REW / Heropbeuring-or-unused).
+
+## Tick 2223 - 2026-08-26T19:45:00Z - rq_2223 Kringwinkel Maasland (omzet JUMP 3.18m / bruto≫omzet ~1.81x / pnl DROP -24.7% / Medium)
+
+- Unit: **rq_2223** leftover dual after **rq_2222 Kringwinkel ZOV**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took named FREE leftover **De Kringwinkel Maasland VZW** YE2025 (KBO **0417.701.992**; Boorsemstraat 2 Maasmechelen; **Actief** **10 VE**; RSZ NACE **88.993** / BTW **47.792**). Deferred FREE Midwest/Reset/Azalee/Vites/Stroom. Do not redo ZOV/NBSW/Opnieuw&Co/Deltagroep/Manus/ACG/Groep Maatwerk stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3184457** JUMP +5.49% vs YE2024 EUR3018677; bruto **EUR5753438** JUMP +11.04% (bruto≫omzet ~1.81x); pnl **EUR227945** DROP -24.70% vs YE2024 EUR302701; equity **EUR5956845** JUMP +3.66%; FTE **135.7**; neerlegging **31.07.2026**. Strong KBO Actief 10 VE. Assets/debt Unknown. Medium. FOI via info@kringwinkel.com.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.04); entities (+1 vzw_kringwinkel_maasland); foi + draft gap_kringwinkel_maasland_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_drop_equity_jump_matrix_l5; rq_2223=done + rq_2224 open; loop_state ticks=2223; raw docs/doge/raw/tick2223/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2224 (AGB/FARO-if-YE2025 / AIESH-REW / unused maatwerk-WZC-IGS).
