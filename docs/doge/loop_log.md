@@ -24488,3 +24488,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2150**; next **2160**). Next: rq_2159 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros).
 
+## Tick 2159 - 2026-08-25T23:00:00Z - rq_2159 De Lindeboom Knokke (omzet 25.26m / pnl LOSS flip -170k / OLVO supervision / Medium)
+
+- Unit: **rq_2159** leftover dual after **rq_2158 Seniorie de l'Epinette**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **De Lindeboom VZW** YE2025 (KBO **0435.015.702**; Bremlaan 5 Knokke-Heist; **VZW** NACE **87.101/87.301** / **8 VE**; **aanbestedende overheid**; multi-site incl. OLVO Kursaalstraat). Do not redo Epinette/Parc de Forest/Le Hanois/Eycken Brug/Sint-Felix/Annuntiaten/Brabant wallon/Vesdre/Hainaut-Est/Val de Sambre/HEMECO/WAPI/Hesbaye/ZHC/Dinaphi/Care-Ion/Groep SF/De Foyer/Psychogeriatrisch/OLV Bornem/Veilige Have/Molenheide/De Verlosser/Sint-Jozef Rumst.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR25261224** DROP -0.51%; bruto **EUR22613680** DROP -5.39%; pnl **EUR-170090** LOSS FLIP from YE2024 PROFIT EUR1208976; equity **EUR26648267** DROP -1.05%; FTE **290.9**; neerlegging **31.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@lindeboom.be (cc wzc.olvo@lindeboom.be). OLVO heightened-supervision/intake-ban press context noted (no invented euros).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.45); entities (+1 vzw_de_lindeboom_knokke); foi + draft gap_lindeboom_nbb_pdf_assets_debt_pnl_loss_flip_olvo_supervision_matrix_l5; rq_2159=done + rq_2160 open EVERY-10; loop_state ticks=2159; raw docs/doge/data/raw/tick2159/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 this tick (**last every-10 was 2150**; **next rq_2160=2160 EVERY-10**). Next: rq_2160 (progress+top10 + AGB/FARO-if-YE2025 / AIESH-REW / unused).
+
