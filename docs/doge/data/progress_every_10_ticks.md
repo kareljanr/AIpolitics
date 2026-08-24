@@ -6,34 +6,34 @@
 
 ---
 
-## Snapshot at **tick 2330** (2026-08-24)
+## Snapshot at **tick 2340** (2026-08-24)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
-| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 2321-2330 continuum; AGB Bornem / FARO / AIESH still YE2024 stalls; **Mivalti unlocked YE2025@2330** (CSV fill after phantom commits) |
-| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 2321-2330 is residual dual L5 (not near-complete of 348bn):** Heder · Humival · Merlijn · Dominiek Savio · L'entre D'eux · Ritmica · Ithaka · Zonnebeke · Het Eepos · Tandem · Pleegzorg · EVERY-10 primary **Mivalti bruto 11.49m / ~6.82x omzet / FTE 134.9** (Medium CW) |
-| **E. FOI-ready gaps** | **~2014** drafts ready | Human send only; answered **~11**; partial **~28**; total FOI rows **~2066** |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 2331-2340 continuum; AGB Bornem / FARO / AIESH still YE2024 stalls; **Konekt unlocked YE2025@2340** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 2331-2340 residual dual L5 (not near-complete of 348bn):** Vier Notelaars · Alma · GielsBos · WWPA · Apojo · Wieltjesgracht · De Cirkel · OZC Sint-Vincentius · EVERY-10 primary **Konekt empty omzet / bruto 1.87m / pnl DROP / FTE 24.5** (Medium CW) |
+| **E. FOI-ready gaps** | **~2024** drafts ready | Human send only; answered **~11**; partial **~28**; total FOI rows **~2076** |
 
-**Off-TE (do not mix into 348 bn):** federal taxex **EUR 29.7bn+** · company cars/cheque · **AGB/zorg/APB/EVA/IGS dual + WZC/HVZ/VAPH/maatwerk shells** (**NEW 2321-2330** Heder · Humival · Merlijn · Savio · Ritmica · Ithaka · Zonnebeke · Eepos · Tandem · Pleegzorg · **Mivalti**) · Metro3 · OWV snowball · Hedera · LUWA PPP · private gambling market.
+**Off-TE (do not mix into 348 bn):** federal taxex · company cars/cheque · **AGB/zorg/APB/EVA/IGS dual + WZC/HVZ/VAPH/maatwerk shells** (**NEW 2331-2340** Vier Notelaars · Alma · GielsBos · WWPA · Apojo · Wieltjesgracht · De Cirkel · OZC · **Konekt**) · Metro3 · OWV snowball · Hedera.
 
-### Inventory (tick 2330)
+### Inventory (tick 2340)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | 54053+ |
-| commitments.csv | 6066+ |
-| leaderboard.csv | 8186+ |
-| entities.csv | 2086+ |
-| sources.csv | 6865+ |
-| FOI ready | ~2014 |
+| budgets.csv | 54101+ |
+| commitments.csv | 6076+ |
+| leaderboard.csv | 8196+ |
+| entities.csv | 2096+ |
+| sources.csv | 6916+ |
+| FOI ready | ~2024 |
 | FOI answered | 11 |
 | FOI partial | 28 |
-| FOI total rows | ~2066 |
-| research_queue open | rq_2331 after Mivalti EVERY-10 (+ rq_116 deferred Q4) |
+| FOI total rows | ~2076 |
+| research_queue open | rq_2341 after Konekt EVERY-10 (+ rq_116 deferred Q4) |
 
-### What improved since tick 2320
+### What improved since tick 2330
 
-- **Residual dual (tick2321-2330):** **Heder** · **Humival** · **Merlijn** (~24x) · **Dominiek Savio** · **L'entre D'eux** · **Ritmica** · **Ithaka** · **Zonnebeke** · **Het Eepos** · **Tandem** · **Pleegzorg** · EVERY-10 primary **Mivalti** (bruto **11.49m** / ~**6.82x** / FTE **134.9**; Medium CW; FOI ready; CSV fill).
+- **Residual dual (tick2331-2340):** **Vier Notelaars** · **Alma** · **GielsBos** (~7.8x) · **WWPA** · **Apojo** · **Wieltjesgracht** · **De Cirkel** · **OZC Sint-Vincentius** · EVERY-10 primary **Konekt** (empty omzet / bruto **1.87m** / pnl DROP / FTE **24.5**; Medium CW; Aanbestedende overheid; FOI ready).
 - **Blocked still:** AGB Bornem JR2025 unpublished · FARO YE2024 · AIESH YE2024 · REW YE2024 · Gandae/Aralea/Manupal/Vlotter YE2024.

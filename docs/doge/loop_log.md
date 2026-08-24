@@ -26740,3 +26740,11 @@ Append-only. Each tick adds a short entry.
 - Unit: **rq_2339** after De Cirkel@2338. Took FREE VAPH **OZC Sint-Vincentius** YE2025 (KBO **0410.925.256**).
 - Found: CW omzet **EUR2565580**; bruto **EUR19670361** (~**7.67x**); pnl **EUR1788020** DROP; equity **EUR26682188**; FTE **221.1**; filed **28.05.2026**. Medium.
 - Wrote: CSVs+FOI; rq_2339=done + rq_2340 open; ticks=2339. FOI ready not sent. Next EVERY-10 **2340**.
+
+### 2026-08-24T18:45:00Z - tick 2340 - EVERY-10 + rq_2340 Konekt Gent (empty omzet / bruto JUMP 1.87m / pnl DROP -33% / FTE 24.5 / Medium)
+
+- **EVERY-10:** refreshed progress_every_10_ticks.md + doge_waste_top10_current.md (inventory budgets 54101+ FOI ready ~2024).
+- Unit: **rq_2340** EVERY-10 + leftover dual after **OZC@2339**. Prefer NON-stall AGB/FARO/Gandae **YE2024**. Took FREE Flemish **Konekt VZW** YE2025 (KBO **0524.936.680**; Aanbestedende overheid; 4 VE; info@konekt.be) — CSVs already sourced; closed FOI draft.
+- Found: CW YE2025 - omzet **empty**; bruto **EUR1871902**; pnl **EUR38075** DROP -33%; equity **EUR4726258**; FTE **24.5**; filed **23.03.2026**. Medium.
+- Wrote: EVERY-10 docs; FOI draft gap_konekt_nbb_pdf_assets_debt_empty_omzet_bruto_1_87m_pnl_drop_vaph_inclusion_matrix_l5; rq_2340=done + rq_2341 open; loop_state ticks=2340; raw tick2340/.
+- FOI: **ready not sent**. **EVERY-10 @2340** (next **2350**). Next: rq_2341.

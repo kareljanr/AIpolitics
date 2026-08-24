@@ -1,8 +1,8 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2330** (2026-08-24) · **8186+** leaderboard rows  
-**Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt AGB / scoring anomalies with pi>10 excluded**  
-**Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
+**As-of:** tick **2340** (2026-08-24) · **8196+** leaderboard rows  
+**Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt scoring anomalies with pi>10 excluded**  
+**Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
 
 **This is a prioritisation for cuts/review**, not a claim that these euros are illegal.
@@ -24,15 +24,14 @@
 | 9 | `lb_bcr_annexe2_reporte_wave` | BCR Annexe2 reporté wave systemic 2026 | **300.60 m** | 9.0 | 9.0 | 3 | **8.4** | Strong CoA wave: OAA consol reporté |
 | 10 | `lb_dual_cars_ssc_taxex` | Dual company car CO2 SSC under-collection vs taxex | **278.52 m** | 8.5 | 9.5 | 6 | **8.4** | Strong dual: SSC CO2 278m + cum gap |
 
-**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2321-2330:** **Mivalti bruto 11.49m / ~6.82x** (EVERY-10@2330) · Merlijn ~24x · Kindervriend · Tandem · Het Eepos · Dominiek Savio · Pleegzorg · Ritmica · Ithaka.
+**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2331-2340:** **Konekt empty omzet / bruto 1.87m** (EVERY-10@2340) · OZC Sint-Vincentius ~7.67x · GielsBos ~7.8x · Apojo ~7.71x · WWPA · Vier Notelaars · De Cirkel · Wieltjesgracht.
 
-**Change vs tick 2320:** pure annual top10 **stable**. **Major NEW residual 2321-2330:** Mivalti EVERY-10 primary + Merlijn bruto≫omzet ~24x + Tandem/Eepos/Savio/Pleegzorg/Ritmica/Ithaka stack. Not TE-additive of ~348bn.
+**Change vs tick 2330:** pure annual top10 **stable**. **Major NEW residual 2331-2340:** Konekt EVERY-10 primary + OZC/GielsBos/Apojo bruto≫omzet stack. Not TE-additive of ~348bn.
 
 ### High-absurdity residual (not pure top10)
 
-- **Mivalti** EVERY-10 primary bruto **EUR11.49m** / ~**6.82x** omzet / FTE **134.9** — Tielt VAPH opacity.
-- **Merlijn** bruto **EUR3.68m** / ~**23.98x** omzet / FTE JUMP.
-- **Kindervriend** bruto **EUR8.08m** / ~**19.86x** / pnl LOSS.
-- **Tandem** bruto **EUR3.92m** / ~**6.33x** / pnl PROFIT FLIP.
-- **Het Eepos** opbrengsten **EUR6.97m** / subsidies **EUR5.81m** (Strong BBC).
-- **Dominiek Savio** bruto **EUR35.19m** / ~**7.08x** / pnl PROFIT FLIP.
+- **Konekt** EVERY-10 primary empty omzet / bruto **EUR1.87m** / pnl DROP / FTE **24.5** — Gent inclusion Aanbestedende.
+- **OZC Sint-Vincentius** bruto **EUR19.67m** / ~**7.67x** / pnl DROP.
+- **GielsBos** bruto **EUR41.72m** / ~**7.80x** / FTE **509**.
+- **Apojo** bruto **EUR20.49m** / ~**7.71x** / pnl DROP.
+- **Vier Notelaars** bruto **EUR2.86m** / ~**5.72x** / pnl LOSS FLIP.

@@ -1,0 +1,15 @@
+{
+  "tick": "2340",
+  "unit": "rq_2340",
+  "entity": "vzw_konekt_gent",
+  "kbo": "0524.936.680",
+  "omzet": null,
+  "bruto": 1871902,
+  "pnl": 38075,
+  "equity": 4726258,
+  "fte": 24.5,
+  "confidence": "medium",
+  "gap": "gap_konekt_nbb_pdf_assets_debt_empty_omzet_bruto_1_87m_pnl_drop_vaph_inclusion_matrix_l5",
+  "pi": 5.18,
+  "every10": true
+}

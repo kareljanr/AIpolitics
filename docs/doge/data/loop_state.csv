@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-28T02:45:00Z,rq_2338,2338,no,tick2338 leftover dual De Cirkel Lokeren 0470.413.079 Medium (omzet empty; bruto JUMP 2375418; pnl JUMP 188524; equity JUMP 3118706; FTE JUMP 54.3; 3 VE RSZ 88.993); after Wieltjesgracht@2337; AGB/FARO YE2024; next rq_2339; next EVERY-10 2340; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T18:45:00Z,rq_2340,2340,no,tick2340 EVERY-10 leftover dual Konekt 0524.936.680 Medium (omzet empty; bruto 1871902; pnl DROP 38075; equity JUMP 4726258; FTE 24.5; 4 VE Aanbestedende); after OZC@2339; AGB/FARO YE2024; progress+waste refreshed; next rq_2341; next EVERY-10 2350
