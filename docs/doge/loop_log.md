@@ -24823,3 +24823,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.1); entities (+1 vzw_interwest_veurne); foi + draft gap_interwest_nbb_pdf_assets_debt_pnl_loss_flip_bruto_gt_omzet_fte_drop_matrix_l5; rq_2184=done + rq_2185 open; loop_state ticks=2184; raw docs/doge/data/raw/tick2184/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2185 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2185 - 2026-08-26T07:40:00Z - rq_2185 Weerwerk Gent (omzet JUMP 5.54m / pnl JUMP 197k / bruto>omzet / equity JUMP / Medium)
+
+- Unit: **rq_2185** leftover dual after **InterWest / Westlandia**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (CW Laatste balansjaar 2024; neerlegging 24.11.2025); AIESH/REW still **YE2024**. Took deferred FREE leftover **Weerwerk VZW** YE2025 (KBO **0465.104.904**; Gaardeniersweg 80 Gent; **VZW** RSZ NACE **88.993** / **3 VE**). Do not redo Westlandia/InterWest/Wase Werkplaats/BWB/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever/Anima*/emeis.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR5535667** JUMP +2.39% vs YE2024 EUR5406622; bruto **EUR9125341** JUMP +4.79% (bruto≫omzet); pnl **EUR197410** JUMP +168.9% vs YE2024 EUR73414; equity **EUR1841558** JUMP +38.53%; FTE **205.3** JUMP vs 200.4; neerlegging **03.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 3 VE. FOI via info@weerwerk.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_weerwerk_gent); foi + draft gap_weerwerk_nbb_pdf_assets_debt_bruto_gt_omzet_equity_jump_matrix_l5; rq_2185=done + rq_2186 open; loop_state ticks=2185; raw docs/doge/data/raw/tick2185/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2186 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
