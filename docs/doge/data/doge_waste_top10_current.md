@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2330** (2026-08-28) · **8184+** leaderboard rows  
+**As-of:** tick **2330** (2026-08-24) · **8186+** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt AGB / scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -24,17 +24,15 @@
 | 9 | `lb_bcr_annexe2_reporte_wave` | BCR Annexe2 reporté wave systemic 2026 | **300.60 m** | 9.0 | 9.0 | 3 | **8.4** | Strong CoA wave: OAA consol reporté |
 | 10 | `lb_dual_cars_ssc_taxex` | Dual company car CO2 SSC under-collection vs taxex | **278.52 m** | 8.5 | 9.5 | 6 | **8.4** | Strong dual: SSC CO2 278m + cum gap |
 
-**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2321-2330:** **Den Brand bruto 7.22m / ~5.68x** (EVERY-10@2330) · Merlijn ~23.98x · Dominiek Savio · Pleegzorg OVl/WVL · Tandem · Mivalti · Het Eepos Strong BBC · Zonnebeke · Ithaka · Ritmica · Humival.
+**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2321-2330:** **Mivalti bruto 11.49m / ~6.82x** (EVERY-10@2330) · Merlijn ~24x · Kindervriend · Tandem · Het Eepos · Dominiek Savio · Pleegzorg · Ritmica · Ithaka.
 
-**Change vs tick 2320:** pure annual top10 **stable**. **Major NEW residual 2321-2330:** Den Brand EVERY-10 primary + Merlijn bruto≫omzet ~23.98x + Dominiek Savio / Pleegzorg / Tandem / Mivalti / Het Eepos stack. Not TE-additive of ~348bn.
+**Change vs tick 2320:** pure annual top10 **stable**. **Major NEW residual 2321-2330:** Mivalti EVERY-10 primary + Merlijn bruto≫omzet ~24x + Tandem/Eepos/Savio/Pleegzorg/Ritmica/Ithaka stack. Not TE-additive of ~348bn.
 
 ### High-absurdity residual (not pure top10)
 
-- **Den Brand** EVERY-10 primary bruto **EUR7.22m** / ~**5.68x** omzet / pnl DROP / FTE **89.4** — Mol VAPH opacity.
-- **Merlijn** bruto **EUR3.68m** / ~**23.98x** omzet / omzet DROP / FTE JUMP.
-- **Dominiek Savio** bruto **EUR35.19m** / ~**7.08x** / pnl PROFIT FLIP.
-- **Pleegzorg O-Vl** empty omzet / bruto **EUR22.64m** / FTE JUMP **278.6**.
-- **Pleegzorg WVL** empty omzet / bruto **EUR18.22m** / pnl DROP.
+- **Mivalti** EVERY-10 primary bruto **EUR11.49m** / ~**6.82x** omzet / FTE **134.9** — Tielt VAPH opacity.
+- **Merlijn** bruto **EUR3.68m** / ~**23.98x** omzet / FTE JUMP.
+- **Kindervriend** bruto **EUR8.08m** / ~**19.86x** / pnl LOSS.
 - **Tandem** bruto **EUR3.92m** / ~**6.33x** / pnl PROFIT FLIP.
-- **Mivalti** bruto **EUR11.49m** / ~**6.82x** / pnl JUMP.
-- **Het Eepos** Strong BBC opbrengsten **EUR6.97m** / subsidies **EUR5.81m**.
+- **Het Eepos** opbrengsten **EUR6.97m** / subsidies **EUR5.81m** (Strong BBC).
+- **Dominiek Savio** bruto **EUR35.19m** / ~**7.08x** / pnl PROFIT FLIP.

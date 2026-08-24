@@ -1,0 +1,16 @@
+{
+  "tick": "2330",
+  "unit": "rq_2330",
+  "entity": "vzw_mivalti_tielt",
+  "kbo": "0416.406.548",
+  "omzet": 1683253,
+  "bruto": 11487628,
+  "pnl": 470626,
+  "equity": 8134690,
+  "fte": 134.9,
+  "ratio": 6.82,
+  "confidence": "medium",
+  "gap": "gap_mivalti_nbb_pdf_assets_debt_bruto_gt_omzet_6_82x_pnl_jump_vaph_matrix_l5",
+  "pi": 5.8,
+  "every_10": true
+}

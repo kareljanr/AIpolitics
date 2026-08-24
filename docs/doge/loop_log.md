@@ -26651,3 +26651,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - **EVERY-10 @ 2330** (last was 2320; next **2340**). Next: rq_2331.
 
+
+### 2026-08-24T13:39:00Z - tick 2330 - rq_2330 EVERY-10 + Mivalti Tielt (bruto JUMP 11.49m / ~6.82x omzet / Medium)
+
+- **EVERY-10:** refreshed `progress_every_10_ticks.md` + `doge_waste_top10_current.md`. Inventory budgets 54053+ / commitments 6066+ / leaderboard 8186+ / entities 2086+ / sources 6865+ / FOI ready ~2014.
+- Unit: **rq_2330** EVERY-10 + leftover dual. Prefer NON-stall: AGB Bornem still **JR2024**; FARO/AIESH still **YE2024**. Took preferred FREE Flemish VAPH **Mivalti VZW** YE2025 (KBO **0416.406.548**; Gruuthusestraat 36 Tielt; **Actief** **2 VE**; RSZ **87.202**; info@mivalti.be) — CSV fill after prior phantom Mivalti commits. Do not redo Tandem/Het Eepos/Pleegzorg/Zonnebeke/Ithaka/Merlijn stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1683253** JUMP +4.55%; bruto **EUR11487628** JUMP +8% (~**6.82x**); pnl **EUR470626** JUMP +26.88%; equity **EUR8134690** JUMP +6.19%; FTE **134.9**; neerlegging **16.06.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown on CW. Medium. FOI via info@mivalti.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.8); entities (+1 vzw_mivalti_tielt); foi + draft gap_mivalti_nbb_pdf_assets_debt_bruto_gt_omzet_6_82x_pnl_jump_vaph_matrix_l5; rq_2330=done + rq_2331 open; loop_state ticks=2330; raw docs/doge/data/raw/tick2330/; EVERY-10 progress+waste.
+- FOI: **ready not sent** (human-gated).
+- **EVERY-10 @ 2330** (last was 2320; next **2340**). Next: rq_2331.

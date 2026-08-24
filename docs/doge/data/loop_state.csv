@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T17:20:00Z,rq_2331,2331,no,tick2331 leftover dual Mivalti 0416.406.548 Medium (omzet JUMP 1683253; bruto JUMP 11487628 ~6.82x; pnl JUMP 470626; equity JUMP 8134829; FTE JUMP 134.9; 2 VE RSZ 87.202); after Den Brand@2330; AGB/FARO/AIESH YE2024; next rq_2332 EVERY-10
+main,continuous,hole_fill,2026-08-24T13:39:00Z,rq_2330,2330,no,tick2330 EVERY-10 leftover dual Mivalti 0416.406.548 Medium (omzet JUMP 1683253; bruto JUMP 11487628 ~6.82x; pnl JUMP 470626; equity JUMP 8134690; FTE 134.9); AGB/FARO YE2024; next rq_2331; next EVERY-10 2340; continuous hole_fill
