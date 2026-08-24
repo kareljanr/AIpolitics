@@ -24708,3 +24708,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.9); entities (+1 bv_senes_wzc); foi + draft gap_senes_nbb_pdf_assets_debt_pnl_loss_flip_equity_drop_orpimmo_matrix_l5; rq_2175=done + rq_2176 open; loop_state ticks=2175; raw docs/doge/data/raw/tick2175/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2176 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
+## Tick 2176 - 2026-08-26T04:40:00Z - rq_2176 De Springplank (omzet JUMP 3.78m / pnl LOSS FLIP -209k / Medium)
+
+- Unit: **rq_2176** leftover dual after **rq_2175 Senes**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Skipped Residentie Oudenburg NACE 68 RE brokerage; Melis Home micro retail. Took unused leftover **Maatwerkbedrijf De Springplank VZW** YE2025 (KBO **0465.794.592**; Stadsheide 6 Hasselt; **VZW** RSZ NACE **88.993** beschutte werkplaats / **12 VE**). Do not redo Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever/Abdij/Aaigem/Anima*/Zorg-Saam/emeis.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3780123** JUMP +7.15% vs YE2024 EUR3527727; bruto **EUR5988844** JUMP +0.48%; pnl **EUR-208710** LOSS FLIP vs YE2024 EUR204752; equity **EUR3748866** DROP -5.62% vs YE2024 EUR3972097; FTE **148.8**; neerlegging **06.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 12 VE. FOI via info@okazi.be (tel 011 27 35 75 Sociale Kaart Medium).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.5); entities (+1 vzw_maatwerk_de_springplank); foi + draft gap_springplank_nbb_pdf_assets_debt_pnl_loss_flip_equity_drop_matrix_l5; rq_2176=done + rq_2177 open; loop_state ticks=2176; raw docs/doge/data/raw/tick2176/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2177 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
