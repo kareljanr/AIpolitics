@@ -24624,3 +24624,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 4.8); entities (+1 bv_wzc_foyer_de_lork_hoeselt); foi + draft gap_lork_hoeselt_nbb_pdf_assets_debt_omzet_empty_bruto_jump_equity_neg_matrix_l5; rq_2168=done + rq_2169 open; loop_state ticks=2168; raw docs/doge/data/raw/tick2168/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2169 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
+### 2026-08-26T02:00:00Z — tick 2168
+- Unit: **rq_2168** race-recover leftover dual after **rq_2167 Anima NV holding** (concurrent also closed **rq_2168 Lork Hoeselt**). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Skipped Residentie Oudenburg 0450.755.634 (YE2025 omzet 12.9m but NACE **55** hospitality). Took unused leftover **Zorgcentrum Sint Lodewijk VZW** YE2025 (KBO **0410.127.084**; Kerkstraat 61 Schilde; **VZW** NACE **87.101** RVT / **1 VE**). Deferred FREE YE2025 Sint-Vincentius Aaigem 0644.843.825 + Melis Home 0787.300.696. Do not redo Anima hold/Avondvrede/Anima Vlaanderen/t Hofke/Zorg-Saam/Sint-Bernardus/Ruggeveld/Salvator.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR8433732** JUMP +5.70% vs YE2024 EUR7979173; bruto **EUR8553797** JUMP +1.48%; pnl **EUR169197** DROP -65.03% vs YE2024 EUR483844; equity **EUR12565130** JUMP +1.30%; FTE **120.7**; neerlegging **03.08.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 1 VE NACE 87.101. FOI via info@rvtsintlodewijk.be (tel 03 658 85 22).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.5); entities (+1 vzw_zorgcentrum_sint_lodewijk_schilde); foi + draft gap_sint_lodewijk_schilde_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2168=done + rq_2169 open; loop_state ticks=2168; raw docs/doge/data/raw/tick2168/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2169 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS; optional Aaigem/Melis).
+
