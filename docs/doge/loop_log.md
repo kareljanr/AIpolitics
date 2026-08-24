@@ -26383,3 +26383,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.4); entities (+1 vzw_katrinahof_antwerpen); foi + draft gap_katrinahof_nbb_pdf_assets_debt_bruto_gt_omzet_10_47x_pnl_drop_93pct_vaph_matrix_l5; rq_2307=done + rq_2308 open; loop_state ticks=2307; raw docs/doge/data/raw/tick2307/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2300**; next **2310**). Next: rq_2308.
+
+### 2026-08-27T20:15:00Z - tick 2308 - rq_2308 Huis in de Stad Tienen (bruto JUMP 10.65m / ~7.81x omzet / pnl JUMP +85% / FTE 122.2 / Medium)
+
+- Unit: **rq_2308** hole-fill while **rq_2307 Domino** still in_progress elsewhere. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH still **YE2024**; Gandae still **YE2024**. Took unused FREE Flemish VAPH **Huis in de Stad VZW** YE2025 (KBO **0407.637.748**; Hamelendreef 60 Tienen; **3 VE**; RSZ **87.202**; aanbestedende overheid; info@huisindestad.be). Do not redo Domino/Alvinnenberg/TMK/Kompas/Levensvreugde/Voluit/Havinet stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1362831** +0.1%; bruto **EUR10650107** JUMP +3.31% (~7.81x); pnl **EUR589003** JUMP +84.79%; equity **EUR9264665** JUMP +5.33%; FTE **122.2** (vs 124.0); neerlegging **30.06.2026**. Strong KBO Actief 3 VE. Assets/debt Unknown. Medium.
+- Wrote: sources (+6); budgets (+6); commitments (+1); leaderboard (+1 pi 6.25); entities (+1 vzw_huis_in_de_stad_tienen); foi + draft gap_huis_stad_nbb_pdf_assets_debt_bruto_gt_omzet_7_81x_pnl_jump_vaph_matrix_l5; rq_2308=done + rq_2309 open; loop_state ticks=2308.
+- FOI: **ready not sent**. NOT every-10 (next **2310**). Next: rq_2309.

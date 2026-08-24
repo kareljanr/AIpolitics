@@ -53902,3 +53902,9 @@ bud_katrinahof_omzet_jr2025_statutory,vzw_katrinahof_antwerpen,2025,1067123,1067
 bud_katrinahof_pnl_jr2025_statutory,vzw_katrinahof_antwerpen,2025,11440,11440,11440,CW statutory pnl YE2025 DROP,src_katrinahof_jr2025_cw_en,medium,tick2307; pnl 11440 DROP -92.98% vs YE2024 162968
 bud_katrinahof_equity_jr2025_statutory,vzw_katrinahof_antwerpen,2025,6810399,6810399,6810399,CW statutory equity YE2025 DROP,src_katrinahof_jr2025_cw_en,medium,tick2307; equity 6810399 DROP -1.2% vs 6893223
 bud_katrinahof_fte_jr2025_statutory,vzw_katrinahof_antwerpen,2025,141.8,141.8,141.8,CW FTE YE2025,src_katrinahof_jr2025_cw_en,medium,tick2307; FTE 141.8 vs 138.4
+bud_huis_stad_omzet_jr2025_statutory,vzw_huis_in_de_stad_tienen,2025,1362831,,,statutory_accounts,src_huis_stad_jr2025_cw_en,medium,tick2308; omzet +0.1%
+bud_huis_stad_bruto_jr2025_statutory,vzw_huis_in_de_stad_tienen,2025,10650107,,,statutory_accounts,src_huis_stad_jr2025_cw_en,medium,tick2308; bruto ~7.81x
+bud_huis_stad_pnl_jr2025_statutory,vzw_huis_in_de_stad_tienen,2025,589003,,,statutory_accounts,src_huis_stad_jr2025_cw_en,medium,tick2308; pnl JUMP +84.79%
+bud_huis_stad_equity_jr2025_statutory,vzw_huis_in_de_stad_tienen,2025,9264665,,,statutory_accounts,src_huis_stad_jr2025_cw_en,medium,tick2308; equity JUMP +5.33%
+bud_huis_stad_fte_jr2025_statutory,vzw_huis_in_de_stad_tienen,2025,122.2,,,statutory_accounts,src_huis_stad_jr2025_cw_en,medium,tick2308; FTE 122.2
+bud_huis_stad_pnl_jr2024_statutory_cmp,vzw_huis_in_de_stad_tienen,2024,318745,,,statutory_accounts,src_huis_stad_jr2025_cw_en,medium,tick2308; YE2024 cmp
