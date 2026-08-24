@@ -24308,3 +24308,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.2); entities (+1 asbl_les_corolles_tournai); foi + draft gap_les_corolles_nbb_pdf_assets_debt_merger_absorption_esplanade_moisson_matrix_l5; rq_2137=done + rq_2138 open; loop_state ticks=2137; raw docs/doge/data/raw/tick2137/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2130**; next **2140**). Next: rq_2138 (AGB/FARO-if-YE2025 / AIESH-REW / Prestige / unused IGS-DSO-WZC-MRS).
+
+## Tick 2138 - 2026-08-25T16:00:00Z - rq_2138 Residence Prestige Chaudfontaine (bruto JUMP 3.70m / pnl PROFIT flip / thin equity / Medium)
+
+- Unit: **rq_2138** race-recover after concurrent took **rq_2137 Les Corolles**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took deferred unused leftover **Residence Prestige SC** YE2025 (KBO **0416.528.391**; Voie de Liège 150 Chaudfontaine; **CV/SC** NACE **87.301** / **1 VE**; private MRS coop). Do not redo Les Corolles/l'Esplanade/Les Peupliers/Comte d'Egmont/CIGB Menen/Ten Rozen/L'Orchidée/Care-Support/Restel Flats/De Fakkel.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR3700707** JUMP +17.76% vs YE2024 EUR3142656; pnl **EUR57786** PROFIT FLIP +130.52% vs YE2024 LOSS EUR-189310; equity **EUR277599** JUMP +26.29% thin (~7.5pct bruto); FTE **60.6**; neerlegging **04.08.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@residence-prestige.be (commune listing).
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.8); entities (+1 sc_residence_prestige_chaudfontaine); foi + draft gap_prestige_chaudfontaine_nbb_pdf_assets_debt_omzet_empty_pnl_profit_flip_thin_equity_matrix_l5; rq_2138=done + rq_2139 open; loop_state ticks=2138; raw docs/doge/data/raw/tick2138/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2130**; next **2140**). Next: rq_2139 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
