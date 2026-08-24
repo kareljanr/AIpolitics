@@ -24751,3 +24751,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.4); entities (+1 vzw_waak_maatwerk); foi + draft gap_waak_nbb_pdf_assets_debt_pnl_loss_bruto_gt_omzet_fte_drop_matrix_l5; rq_2178=done + rq_2179 open; loop_state ticks=2178; raw docs/doge/data/raw/tick2178/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2179 (AGB/FARO-if-YE2025 / AIESH-REW / Stijn-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2179 - 2026-08-26T05:40:00Z - rq_2179 Stijn VZW (bruto JUMP 128m ≫ omzet 22.7m / pnl DROP 5.08m / Medium)
+
+- Unit: **rq_2179** leftover dual after **rq_2178 Waak**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took named FREE leftover **Stijn VZW** YE2025 (KBO **0439.452.461**; Kempische steenweg 555 Hasselt; **VZW** NACE **88.104** / **36 VE**; **aanbestedende overheid**; same zetel mined Integro). Do not redo Waak/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever/Anima*/emeis/Integro.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR22746378** JUMP +2.79%; bruto **EUR128036084** JUMP +6.74% (bruto≫omzet ×5.6); pnl **EUR5079250** DROP -8.9% vs YE2024 EUR5575225; equity **EUR59569328** JUMP +6.73%; FTE **1611.2**; neerlegging **19.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 36 VE + aanbestedende. FOI via info@stijn.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.4); entities (+1 vzw_stijn_hasselt); foi + draft gap_stijn_nbb_pdf_assets_debt_bruto_128m_vs_omzet_22m_vaph_matrix_l5; rq_2179=done + rq_2180 open (EVERY-10); loop_state ticks=2179; raw docs/doge/data/raw/tick2179/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2180 EVERY-10 then leftover (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
