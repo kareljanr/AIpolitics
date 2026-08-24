@@ -26090,3 +26090,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2280**; next **2290**). Next: rq_2286 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused DSO-water-nuclear-IGS-HVZ / unused ETA-VAPH-WZC-maatwerk).
 
+
+
+### 2026-08-27T14:00:00Z - tick 2286 - rq_2286 Borgerstein/WEBO Sint-Katelijne-Waver (omzet JUMP 14.70m / bruto~2.62x / pnl DROP / FTE 548.1 / Medium)
+
+- Unit: **rq_2286** leftover dual after **rq_2285 Mobiel** / **rq_2284 De Posthoorn**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Citeco still **YE2024**; Groupe Foes still **YE2024**; Manupal/Aralea/Posthoorn/Vlotter/Buseloc/De Sprong still **YE2024**; Heropbeuring still **CW opaque**. Took unused FREE Flemish VAPH+maatwerk **Borgerstein VZW / maatwerkbedrijf WEBO** YE2025 (KBO **0413.895.535**; Kapelweg 7 Sint-Katelijne-Waver; **Actief** **3 VE**; RSZ **87.202** + BTW **88.993**; Aanbestedende overheid). Do not redo Mobiel/Posthoorn/Ateljee/Die Zukunft/De Dageraad/Ateliers du 94/Den Azalee/eurakor/Ateliers de l'Avenir/IN-Z/m-accent/AMAB/Atelier Alternatief/TWI stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR14704588** JUMP +1.27% vs YE2024 EUR14520891; bruto **EUR38569987** JUMP +3.46% (bruto÷omzet ~2.62x); pnl **EUR539219** DROP -21.42% vs YE2024 EUR686170; equity **EUR38483521** JUMP +0.79%; FTE **548.1** (vs 542.2); neerlegging **23.05.2026**. Strong KBO Actief 3 VE VZW. Assets/debt Unknown. Medium. FOI via info.webo@borgerstein.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.2); entities (+1 vzw_borgerstein_webo_sint_katelijne_waver); foi + draft gap_borgerstein_nbb_pdf_assets_debt_bruto_2_62x_omzet_14_70m_pnl_drop_vaph_maatwerk_matrix_l5; rq_2286=done + rq_2287 open; loop_state ticks=2284; raw docs/doge/data/raw/tick2286/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2280**; next **2290**). Next: rq_2287 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk Sterpunt-Labeur-Orbit-Ateliers Mons).

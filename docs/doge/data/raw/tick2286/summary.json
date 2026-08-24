@@ -1,0 +1,21 @@
+{
+  "tick": "2286",
+  "unit": "rq_2286",
+  "entity": "vzw_borgerstein_webo_sint_katelijne_waver",
+  "kbo": "0413.895.535",
+  "omzet": 14704588,
+  "bruto": 38569987,
+  "pnl": 539219,
+  "equity": 38483521,
+  "fte": 548.1,
+  "ratio_bruto_omzet": 2.62,
+  "confidence": "medium",
+  "gap": "gap_borgerstein_nbb_pdf_assets_debt_bruto_2_62x_omzet_14_70m_pnl_drop_vaph_maatwerk_matrix_l5",
+  "sources": [
+    "src_borgerstein_jr2025_cw_en",
+    "src_borgerstein_jr2025_cw_nl",
+    "src_borgerstein_jr2025_cw_fr",
+    "src_borgerstein_kbo_0413895535",
+    "src_borgerstein_webo_site_contact_2284"
+  ]
+}
