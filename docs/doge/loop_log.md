@@ -25206,3 +25206,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.90); entities (+1 vzw_kringloopwinkel_deltagroep); foi + draft gap_kringloop_deltagroep_nbb_pdf_assets_debt_pnl_drop_bruto_gt_omzet_fte_jump_matrix_l5; rq_2216=done + rq_2217 open; loop_state ticks=2216; raw docs/doge/data/raw/tick2216/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2210**; next **2220**). Next: rq_2217 (AGB/FARO-if-YE2025 / AIESH-REW / Mobiel-or-unused).
+
+## Tick 2217 - 2026-08-26T18:00:00Z - rq_2217 Werkmmaat Antwerpen (bruto JUMP 3.24m / empty omzet / pnl JUMP +602% / equity JUMP +47% / Medium)
+
+- Unit: **rq_2217** leftover dual. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; REW still **YE2024**. Took named FREE leftover **Werkmmaat VZW** YE2025 (KBO **0817.381.683**; Vosstraat 323 Antwerpen; **Actief** **10 VE**; RSZ NACE **88.993**). Deferred FREE Veerkracht 4 / Opnieuw&Co. Do not redo Constructief/Groep Maatwerk/OptimaT/Odas/Ecoso/Werkhuizen Min/ACG.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **empty/unpublished**; bruto **EUR3236013** JUMP +25.81% vs YE2024 EUR2572213; pnl **EUR535180** JUMP +601.77% vs YE2024 EUR76261; equity **EUR1670067** JUMP +46.52%; FTE **60.1** DROP vs 62.3; neerlegging **26.06.2026**. Strong KBO Actief 10 VE. Assets/debt Unknown. Medium. FOI via info@werkmmaat.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.10); entities (+1 vzw_werkmmaat_antwerpen); foi + draft gap_werkmmaat_nbb_pdf_assets_debt_empty_omzet_pnl_jump_equity_jump_matrix_l5; rq_2217=done + rq_2218 open; loop_state; raw docs/doge/data/raw/tick2217/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2210**; next **2220**). Next: rq_2218.
+
