@@ -1,14 +1,15 @@
 {
   "tick": "2304",
   "unit": "rq_2304",
-  "entity": "vzw_levensvreugde_verblijven_aalst",
-  "kbo": "0441.398.401",
-  "omzet": 2133748,
-  "bruto": 12474923,
-  "pnl": 232887,
-  "equity": 8353853,
-  "fte": 161.8,
-  "ratio_bruto_omzet": 5.85,
+  "entity": "vzw_bc_sint_elisabeth_peer",
+  "kbo": "0418.714.851",
+  "omzet": 2239635,
+  "bruto": 26440267,
+  "pnl": 1561422,
+  "equity": 22964375,
+  "fte": 303.6,
+  "ratio": 11.81,
   "confidence": "medium",
-  "gap": "gap_levensvreugde_nbb_pdf_assets_debt_bruto_gt_omzet_5_85x_pnl_jump_vaph_matrix_l5"
+  "gap": "gap_bc_elisabeth_nbb_pdf_assets_debt_bruto_gt_omzet_11_8x_pnl_drop_70pct_equity_jump_vaph_matrix_l5",
+  "pi": 6.45
 }

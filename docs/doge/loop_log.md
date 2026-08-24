@@ -26346,3 +26346,19 @@ Append-only. Each tick adds a short entry.
 - Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3126386** DROP -1.78%; bruto **EUR22531340** JUMP +8.97% (~7.21x); pnl **EUR1840636** JUMP +70.1%; equity **EUR7253636** JUMP +32.15%; FTE **253.9** JUMP (vs 245.1); neerlegging **01.07.2026**. Strong KBO Actief 12 VE. Assets/debt Unknown. Medium.
 - Wrote: sources/budgets/commitments/leaderboard/entities/foi; rq_2304=done + rq_2305 open; loop_state ticks=2304.
 - FOI: **ready not sent**. NOT every-10 (next **2310**). Next: rq_2305.
+
+### 2026-08-24T12:48:31Z - tick 2304 - rq_2304 BC Sint-Elisabeth Peer (bruto JUMP 26.44m / ~11.81x omzet / pnl DROP -70% / Medium)
+
+- Unit: **rq_2304** leftover dual after **Voluit@2303**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Gandae still **YE2024**. Took unused FREE Flemish VAPH **Begeleidingscentrum Sint-Elisabeth VZW** YE2025 (KBO **0418.714.851**; Sint-Elisabethlaan 20 Peer; **Actief** **2 VE**; NACE **87.201**; Aanbestedende overheid; VAPH). Do not redo Voluit/MLP/Havinet/De Kiem/MPI Oosterlo/JOMI/De Okkernoot/SOBO/Ryhove/TMMA stack. DISTINCT Sint-Elisabeths Dal Zoutleeuw.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR2239635** JUMP +5.47% vs YE2024 EUR2123518; bruto **EUR26440267** JUMP +3.14% (~**11.81x**); pnl **EUR1561422** DROP -70.19% vs YE2024 EUR5238400; equity **EUR22964375** JUMP +6.17%; FTE **303.6** (vs 297.8); neerlegging **22.06.2026**. Strong KBO Actief 2 VE VZW. Assets/debt Unknown. Medium. FOI via info@bc-elisabeth.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.45); entities (+1 vzw_bc_sint_elisabeth_peer); foi + draft gap_bc_elisabeth_nbb_pdf_assets_debt_bruto_gt_omzet_11_8x_pnl_drop_70pct_equity_jump_vaph_matrix_l5; rq_2304=done + rq_2305 open; loop_state ticks=2304; raw docs/doge/data/raw/tick2304/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2300**; next **2310**). Next: rq_2305 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk / TM Kempen-if-unused).
+
+### 2026-08-24T12:48:35Z - tick 2304 - rq_2304 BC Sint-Elisabeth Peer (bruto JUMP 26.44m / ~11.81x omzet / pnl DROP -70% / Medium)
+
+- Unit: **rq_2304** leftover dual after **Voluit@2303**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Gandae still **YE2024**. Took unused FREE Flemish VAPH **Begeleidingscentrum Sint-Elisabeth VZW** YE2025 (KBO **0418.714.851**; Sint-Elisabethlaan 20 Peer; **Actief** **2 VE**; NACE **87.201**; Aanbestedende overheid; VAPH). Do not redo Voluit/MLP/Havinet/De Kiem/MPI Oosterlo/JOMI/De Okkernoot/SOBO/Ryhove/TMMA stack. DISTINCT Sint-Elisabeths Dal Zoutleeuw.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR2239635** JUMP +5.47% vs YE2024 EUR2123518; bruto **EUR26440267** JUMP +3.14% (~**11.81x**); pnl **EUR1561422** DROP -70.19% vs YE2024 EUR5238400; equity **EUR22964375** JUMP +6.17%; FTE **303.6** (vs 297.8); neerlegging **22.06.2026**. Strong KBO Actief 2 VE VZW. Assets/debt Unknown. Medium. FOI via info@bc-elisabeth.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.45); entities (+1 vzw_bc_sint_elisabeth_peer); foi + draft gap_bc_elisabeth_nbb_pdf_assets_debt_bruto_gt_omzet_11_8x_pnl_drop_70pct_equity_jump_vaph_matrix_l5; rq_2304=done + rq_2305 open; loop_state ticks=2304; raw docs/doge/data/raw/tick2304/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2300**; next **2310**). Next: rq_2305 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk / TM Kempen-if-unused).

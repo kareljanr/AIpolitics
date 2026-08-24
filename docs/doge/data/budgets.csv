@@ -53881,3 +53881,8 @@ bud_levensvreugde_pnl_jr2025_statutory,vzw_levensvreugde_verblijven_aalst,2025,2
 bud_levensvreugde_equity_jr2025_statutory,vzw_levensvreugde_verblijven_aalst,2025,8353853,,,statutory_accounts,src_levensvreugde_jr2025_cw_en,medium,tick2304; Medium CW; equity JUMP +2.33% vs YE2024 8163688
 bud_levensvreugde_fte_jr2025_statutory,vzw_levensvreugde_verblijven_aalst,2025,161.8,,,statutory_accounts,src_levensvreugde_jr2025_cw_en,medium,tick2304; Medium CW; FTE JUMP 161.8 vs YE2024 155.6; assets/debt Unknown
 bud_levensvreugde_pnl_jr2024_statutory_cmp,vzw_levensvreugde_verblijven_aalst,2024,177332,,,statutory_accounts,src_levensvreugde_jr2025_cw_en,medium,tick2304; YE2024 pnl 177332 comparative
+bud_bc_elisabeth_bruto_jr2025_statutory,vzw_bc_sint_elisabeth_peer,2025,26440267,26440267,26440267,CW statutory bruto YE2025 primary envelope (~11.81x omzet),src_bc_elisabeth_jr2025_cw_en,medium,tick2304; bruto 26440267 JUMP +3.14% vs 25635405; ~11.81x omzet 2239635
+bud_bc_elisabeth_omzet_jr2025_statutory,vzw_bc_sint_elisabeth_peer,2025,2239635,2239635,2239635,CW statutory omzet YE2025,src_bc_elisabeth_jr2025_cw_en,medium,tick2304; omzet 2239635 JUMP +5.47% vs 2123518
+bud_bc_elisabeth_pnl_jr2025_statutory,vzw_bc_sint_elisabeth_peer,2025,1561422,1561422,1561422,CW statutory pnl YE2025 DROP,src_bc_elisabeth_jr2025_cw_en,medium,tick2304; pnl 1561422 DROP -70.19% vs YE2024 5238400
+bud_bc_elisabeth_equity_jr2025_statutory,vzw_bc_sint_elisabeth_peer,2025,22964375,22964375,22964375,CW statutory equity YE2025 JUMP,src_bc_elisabeth_jr2025_cw_en,medium,tick2304; equity 22964375 JUMP +6.17% vs 21629892
+bud_bc_elisabeth_fte_jr2025_statutory,vzw_bc_sint_elisabeth_peer,2025,303.6,303.6,303.6,CW FTE YE2025,src_bc_elisabeth_jr2025_cw_en,medium,tick2304; FTE 303.6 vs 297.8
