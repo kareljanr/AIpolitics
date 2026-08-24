@@ -24932,3 +24932,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.5); entities (+1 vzw_forena_menen); foi + draft gap_forena_nbb_pdf_assets_debt_fte_jump_pnl_drop_bruto_gt_omzet_matrix_l5; rq_2194=done + rq_2195 open; loop_state ticks=2194; raw docs/doge/data/raw/tick2194/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2195 (AGB/FARO-if-YE2025 / AIESH-REW / Kunnig-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+## Tick 2195 - 2026-08-26T11:00:00Z - rq_2195 Kunnig Operations (omzet JUMP 4.35m / bruto≫omzet ~1.95x / pnl JUMP +49% / Medium)
+
+- Unit: **rq_2195** leftover dual after **rq_2194 Forena**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took named FREE leftover **Kunnig Operations VZW** YE2025 (KBO **0404.745.465**; Kielsbroek 2 Antwerpen; **VZW** RSZ NACE **88.993** / **2 VE**). Deferred FREE BWZ Zottegem / De Schakel Balen / BosKat / Atelier Groot Eiland. Do not redo Forena/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel Antwerpen/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR4345803** JUMP +6.25% vs YE2024 EUR4090159; bruto **EUR8476863** JUMP +3.55% (bruto≫omzet ~1.95x); pnl **EUR345461** JUMP +48.87% vs YE2024 EUR232063; equity **EUR9921695** JUMP +2.9%; FTE **241.1** DROP vs 242.6; neerlegging **08.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 2 VE (dual holding 0627.884.760). FOI via info@kunnig.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.7); entities (+1 vzw_kunnig_operations_antwerpen); foi + draft gap_kunnig_ops_nbb_pdf_assets_debt_bruto_gt_omzet_holding_matrix_l5; rq_2195=done + rq_2196 open; loop_state ticks=2195; raw docs/doge/data/raw/tick2195/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2196 (AGB/FARO-if-YE2025 / AIESH-REW / BWZ-De Schakel-or-unused IGS-DSO-WZC-MRS-HVZ).

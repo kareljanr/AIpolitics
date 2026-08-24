@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T10:40:00Z,rq_2194,2194,no,tick2194 leftover FORENA 0425.410.920 Medium (omzet JUMP 16.30m; bruto 27.87m ≫ omzet; pnl DROP 650k -32%; equity JUMP 20.1m; FTE JUMP 708.7 from 564.6 +25.5%; 2 VE Menen); AGB Bornem JR2024; FARO YE2024; AIESH/REW stall; next rq_2195; next every-10 2200; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T11:00:00Z,rq_2195,2195,no,tick2195 leftover Kunnig Operations 0404.745.465 Medium (omzet JUMP 4.35m; bruto 8.48m ≫ omzet ~1.95x; pnl JUMP 345k +49%; equity JUMP 9.92m; FTE DROP 241.1; 2 VE Antwerpen); AGB Bornem JR2024; FARO YE2024; AIESH/REW stall; next rq_2196; next every-10 2200; continuous hole_fill
