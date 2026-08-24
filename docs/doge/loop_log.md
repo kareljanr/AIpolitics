@@ -26125,3 +26125,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.05); entities (+1 vzw_village_liegeois_seraing); foi + draft gap_village_liegeois_nbb_pdf_assets_debt_empty_omzet_bruto_2_25m_pnl_drop_fte_jump_eta_matrix_l5; rq_2288=done + rq_2289 open; loop_state ticks=2288; raw docs/doge/data/raw/tick2288/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2280**; next **2290**). Next: rq_2289 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused DSO-water-IGS-HVZ / unused ETA Roseau Vert-Ateliers Mons-Monceau / unused maatwerk De Sprong-Aralea).
+
+
+### 2026-08-27T14:45:00Z - tick 2289 - rq_2289 REW Wavre (omzet JUMP 14.72m / bruto~0.6x / pnl PROFIT FLIP / FTE 35.0 / Medium)
+
+- Unit: **rq_2289** leftover dual after **rq_2288 Village Liegeois** / **rq_2287 De Sprong**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco still **YE2024**; Groupe Foes still **YE2024**. **REW preferred dual NOW YE2025** (CW last balance sheet year **2025**; prior ticks incorrectly still YE2024). Took unused FREE Walloon municipal electricity DSO **REW / Reseau d'energies de Wavre** YE2025 (KBO **0644.638.937**; Rue Provinciale 265 Wavre; **Actief** **1 VE**; RSZ **35.140**; Aanbestedende overheid; Synergrid member dual AIEG/AIESH). Do not redo Village Liegeois/De Sprong/Borgerstein/WEBO/Mobiel/Posthoorn/Ateljee/Die Zukunft/De Dageraad/Ateliers du 94/Village n1/Amis des Aveugles/AIEG stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR14717850** JUMP +11.31% vs YE2024 EUR13221985; bruto **EUR8850569** JUMP +17.81% (bruto÷omzet ~0.6x); pnl **EUR196086** PROFIT FLIP vs YE2024 LOSS EUR-255744; equity **EUR61985489** JUMP +0.32%; FTE **35.0** (vs 32.0); FAQ filing text lags **11-12-2025** / omzet 13.22m YE2024 — Medium. Strong KBO Actief 1 VE SC. Assets/debt Unknown. FOI via officiel.ic-rew@grdwavre.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.85); entities (+1 igs_rew_wavre); foi + draft gap_rew_nbb_pdf_assets_debt_omzet_14_72m_pnl_profit_flip_fte_jump_dso_matrix_l5; rq_2289=done + rq_2290 open (EVERY-10); loop_state ticks=2289; raw docs/doge/data/raw/tick2289/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2280**; next **2290 MUST** refresh progress + waste top10 then hole-fill one unit). Next: rq_2290 EVERY-10 + AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused DSO-IGS-HVZ-ETA-maatwerk.

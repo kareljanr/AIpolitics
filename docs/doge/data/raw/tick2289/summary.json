@@ -1,0 +1,21 @@
+{
+  "tick": "2289",
+  "unit": "rq_2289",
+  "entity": "igs_rew_wavre",
+  "kbo": "0644.638.937",
+  "omzet": 14717850,
+  "bruto": 8850569,
+  "pnl": 196086,
+  "equity": 61985489,
+  "fte": 35.0,
+  "ratio_bruto_omzet": 0.6,
+  "confidence": "medium",
+  "gap": "gap_rew_nbb_pdf_assets_debt_omzet_14_72m_pnl_profit_flip_fte_jump_dso_matrix_l5",
+  "sources": [
+    "src_rew_jr2025_cw_en",
+    "src_rew_jr2025_cw_nl",
+    "src_rew_jr2025_cw_fr",
+    "src_rew_kbo_0644638937",
+    "src_rew_site_foi_2289"
+  ]
+}
