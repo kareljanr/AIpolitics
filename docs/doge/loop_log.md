@@ -26081,3 +26081,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 4.9); entities (+1 vzw_de_posthoorn_beringen); foi + draft gap_posthoorn_nbb_pdf_assets_debt_bruto_gt_omzet_1_51x_pnl_loss_flip_fte_drop_matrix_l5; rq_2284=done + rq_2285 open; loop_state ticks=2284; raw docs/doge/data/raw/tick2284/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2280**; next **2290**). Next: rq_2285 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA Roseau Vert-Ateliers Mons / Manupal-Vlotter-Buseloc-if-YE2025).
+
+### 2026-08-27T13:45:00Z - tick 2285 - rq_2285 Mobiel Sociale Werkplaats Kortrijk (bruto JUMP 1.65m / empty omzet / pnl PROFIT FLIP / equity JUMP / FTE 34 / Medium)
+
+- Unit: **rq_2285** leftover dual after **rq_2284 De Posthoorn** (concurrent race claimed 2284; this fire takes next open). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**. Took FREE Flemish maatwerk **Mobiel Sociale Werkplaats VZW** YE2025 (KBO **0860.293.493**; Minister Tacklaan 57 Kortrijk; NACE **88.993** fietsencentrum/Deltagroep). Do not redo Posthoorn/Ateljee/TWI/Die Zukunft/De Dageraad/Ateliers du 94 stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR1650782** JUMP +10.19% vs YE2024 EUR1498125; pnl **EUR49126** PROFIT FLIP +213.45% vs YE2024 EUR-43301; equity **EUR156824** JUMP +16.24%; FTE **34** (vs 31.4); neerlegging **02.07.2026**. Strong KBO Actief VZW info@mobiel.be. Assets/debt Unknown. Medium.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 4.60); entities (+1 vzw_mobiel_sociale_werkplaats_kortrijk); foi + draft gap_mobiel_*; restored orphaned TWI FOI draft; rq_2285=done + rq_2286 open; loop_state ticks=2285; raw docs/doge/data/raw/tick2284/ (research window; remapped to 2285 after Posthoorn race).
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2280**; next **2290**). Next: rq_2286 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused DSO-water-nuclear-IGS-HVZ / unused ETA-VAPH-WZC-maatwerk).
+
