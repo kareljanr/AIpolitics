@@ -24615,3 +24615,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.7); entities (+1 nv_anima); foi + draft gap_anima_hold_nbb_pdf_assets_debt_related_party_dividend_matrix_l5; rq_2167=done + rq_2168 open; loop_state ticks=2167; raw docs/doge/data/raw/tick2167/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2168 (AGB/FARO-if-YE2025 / AIESH-REW / Lork Hoeselt-if-unused / unused IGS-DSO-WZC-MRS).
+
+
+## Tick 2168 - 2026-08-26T02:00:00Z - rq_2168 WZC Foyer De Lork Hoeselt (bruto JUMP 785k / omzet empty / equity NEG / Medium)
+
+- Unit: **rq_2168** leftover dual after **rq_2167 Anima NV hold**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took named deferred unused leftover **WZC Foyer De Lork Hoeselt BV** YE2025 (KBO **0755.822.317**; Horstebaan 3 Schoten; **BV** NACE **68.201** / **1 VE**; bestuurder Care Property **0456.378.070**). DISTINCT mined Foyer De Lork VZW Geel. Do not redo Anima hold/Avondvrede/Anima Vlaanderen/t Hofke/Zorg-Saam/Sint-Bernardus/Ruggeveld/Salvator/Boterlaarhof/WZND/Foyer De Lork VZW.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR785637** JUMP from YE2024 EUR-4514; pnl **EUR-87190** DEEPER LOSS vs YE2024 EUR-12055; equity **EUR-126400** NEG WORSENING vs YE2024 EUR-39210; FTE **0**; neerlegging **13.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief BV. FOI via info@carepropertyinvest.be / info@foyerdelork.be.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 4.8); entities (+1 bv_wzc_foyer_de_lork_hoeselt); foi + draft gap_lork_hoeselt_nbb_pdf_assets_debt_omzet_empty_bruto_jump_equity_neg_matrix_l5; rq_2168=done + rq_2169 open; loop_state ticks=2168; raw docs/doge/data/raw/tick2168/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2169 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
