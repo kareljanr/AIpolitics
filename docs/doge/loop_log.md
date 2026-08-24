@@ -24372,3 +24372,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+1 FTE-only); commitments (+1); leaderboard (+1 pi 5.6 opacity); entities (+1 zs_hainaut_centre); foi + draft gap_zhc_hainaut_centre_budget_jr2025_dotation_commune_fed_matrix_l5; rq_2145=done + rq_2146 open; loop_state ticks=2145; raw docs/doge/data/raw/tick2145/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2140**; next **2150**). Next: rq_2146 (AGB/FARO-if-YE2025 / AIESH-REW / Hesbaye / unused).
+
+## Tick 2146 - 2026-08-25T18:40:00Z - rq_2146 Zonnelied Roosdaal (bruto JUMP 24.0m / omzet 3.34m / pnl DROP -53.7% / Medium) race-recover
+
+- Unit: **rq_2146** race-recover after concurrent took **rq_2144 Dinaphi** + **rq_2145 Hainaut-Centre** while this agent mined Zonnelied (CSV rows already landed via workspace thrash). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW (**0644.638.937** Réseau d'Énergies de Wavre) still **YE2024**. Formalized unused leftover **Zonnelied VZW** YE2025 (KBO **0420.607.638**; Kloosterstraat 7 Roosdaal; **VZW** NACE **87.202** / **14 VE**; **aanbestedende overheid**; disability residential care). Do not redo Dinaphi/Hainaut-Centre/Seniors Care-Ion/Groep Sint-Franciscus/Denderrust/MPC Sint-Franciscus Roosdaal/Lidwina Mol/De Foyer.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3337663** −0.92% vs YE2024 EUR3368550; bruto **EUR24012522** JUMP +4.60%; pnl **EUR897597** DROP −53.74% vs YE2024 EUR1940336; equity **EUR23673481** JUMP +4.48%; FTE **296.9** JUMP vs 277.6; neerlegging **19.06.2026**. KBO Strong Actief VZW 14 VE aanbestedende overheid. Assets/debt Unknown. Medium. FOI via info@zonnelied.be.
+- Wrote: FOI draft gap_zonnelied_nbb_pdf_assets_debt_bruto_vs_omzet_pnl_drop_matrix_l5 (CSV sources/budgets/commitments/leaderboard/entities/foi_queue already present from thrash); rq_2146=done + rq_2147 open; loop_state ticks=2146; raw docs/doge/data/raw/tick2144/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2140**; next **2150**). Next: rq_2147 (AGB/FARO-if-YE2025 / AIESH-REW / Hesbaye / unused IGS-DSO-WZC-MRS).
