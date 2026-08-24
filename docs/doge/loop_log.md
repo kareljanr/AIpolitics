@@ -25359,10 +25359,10 @@ Append-only. Each tick adds a short entry.
 - NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2228 (AGB/FARO-if-YE2025 / AIESH-REW / Heropbeuring-ViTeSBE-DeOever-or-unused).
 
 
-## Tick 2228 - 2026-08-26T21:35:00Z - rq_2228 ViTeS BE (omzet JUMP 1.04m / pnl LOSS FLIP / equity JUMP +15% / Medium)
+## Tick 2228 - 2026-08-26T21:35:00Z - rq_2228 ViTeS BE (omzet JUMP 1.04m / pnl PROFIT FLIP +110k / equity JUMP / Medium)
 
-- Unit: **rq_2228** leftover dual after **rq_2227 Kringwinkel Midwest**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024**; Heropbeuring still **CW opaque**. Took named FREE leftover **ViTeS BE VZW** YE2025 (KBO **0466.637.997**; Bergense Steenweg 95 Anderlecht; **Actief** **3 VE**; NACE **88.999/47.792**) — sister dual of ViTeS. Deferred De Oever YE2025. Do not redo Midwest/ViTeS/Reset/Kringwinkel West/Manus stack.
-- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1042666** JUMP +29.88% vs YE2024 EUR802813; bruto **EUR697994** JUMP +41.51%; pnl **EUR109606** LOSS FLIP vs YE2024 EUR-92515; equity **EUR832052** JUMP +15.17%; FTE **11.8**; neerlegging **03.07.2026**. Strong KBO Actief 3 VE. Assets/debt Unknown. Medium. FOI via info@vites.be.
-- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.50); entities (+1 vzw_vites_be); foi + draft gap_vites_be_nbb_pdf_assets_debt_pnl_loss_flip_related_party_matrix_l5; rq_2228=done + rq_2229 open; loop_state ticks=2228; raw docs/doge/raw/tick2228/.
+- Unit: **rq_2228** leftover dual after **rq_2227 Kringwinkel Midwest**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (narrative JV2025 PDF only — NBB/CW YE2024); AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**. Took named FREE leftover **ViTeS BE VZW** YE2025 (KBO **0466.637.997**; Bergense Steenweg 95 Anderlecht; **Actief** **3 VE**; NACE **88.999/47.792/47.793**) — named prefer in rq_2228. Deferred De Oever YE2025. DISTINCT from VITeS Leuven 0431.067.802. Do not redo Midwest/ViTeS Leuven/Reset/Den Azalee/Kringwinkel West/Maasland/ZOV/Manus stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1042666** JUMP +29.88% vs YE2024 EUR802813; bruto **EUR697994** JUMP +41.51% (bruto/omzet ~0.67x); pnl **EUR109606** PROFIT FLIP vs YE2024 LOSS EUR-92515; equity **EUR832052** JUMP +15.17%; FTE **11.8**; neerlegging **03.07.2026**. Strong KBO Actief 3 VE. Assets/debt Unknown. Medium. FOI via info@vites.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.80); entities (+1 vzw_vites_be); foi + draft gap_vites_be_nbb_pdf_assets_debt_dual_leuven_pnl_flip_matrix_l5; rq_2228=done + rq_2229 open; loop_state ticks=2228; raw docs/doge/raw/tick2228/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2229 (AGB/FARO-if-YE2025 / AIESH-REW / Heropbeuring-DeOever-or-unused).
