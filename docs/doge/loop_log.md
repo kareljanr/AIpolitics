@@ -25891,3 +25891,13 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2273 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
 
+
+
+
+### 2026-08-27T10:10:00Z - tick 2272 - rq_2272 De Enter Brecht (bruto JUMP 4.09m / empty omzet / pnl DROP -64.35% / FTE 92.7 / Medium)
+
+- Unit: **rq_2272** leftover dual after **rq_2271 La Serre-Outil**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**. Took FREE Flemish maatwerk **De Enter VZW** YE2025 (KBO **0472.926.270**; Bethaniënlei 5 Brecht; **Actief** **7 VE**; NACE **88.993** / Kringwinkel De Cirkel). Do not redo Serre-Outil/Amis/Hautes/Village n1/Trait/Ouvroir/APRE/Wase/ACG/Werkmmaat stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR4090845** JUMP +16.75% vs YE2024 EUR3504061; pnl **EUR92802** DROP -64.35% vs YE2024 EUR260336; equity **EUR1981961** JUMP +4.91%; FTE **92.7** (+16.9% vs 79.3); neerlegging **01.07.2026**. Strong KBO Actief 7 VE VZW. Assets/debt Unknown. Medium. FOI via de.cirkel@de-cirkel.net.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.85); entities (+1 vzw_de_enter_brecht); foi + draft gap_enter_nbb_pdf_assets_debt_empty_omzet_bruto_4_09m_pnl_drop_64pct_matrix_l5; rq_2272=done + rq_2273 open; loop_state ticks=2272; raw docs/doge/raw/tick2272/ + data/raw/tick2272/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2273 (AGB/FARO-if-YE2025 / AIESH-REW / unused ETA-VAPH-WZC-maatwerk).
