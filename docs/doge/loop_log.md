@@ -25953,3 +25953,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.90); entities (+1 vzw_atelier_saint_vincent_rochefort); foi + draft gap_asv_nbb_pdf_assets_debt_empty_omzet_bruto_2_89m_pnl_loss_narrow_eta_matrix_l5; rq_2276=done + rq_2277 open; loop_state ticks=2276; raw docs/doge/data/raw/tick2276/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2277 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Foes-if-YE2025 / unused ETA).
+
+### 2026-08-27T11:20:00Z - tick 2277 - rq_2277 C.A.R.P. Philippeville (omzet JUMP 3.21m / bruto~1.63x / equity JUMP +18.7% / FTE 122.9 / Medium)
+
+- Unit: **rq_2277** leftover dual after **rq_2276 Atelier Saint-Vincent** (concurrent race claimed 2276; this fire takes next open). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco still **YE2024**; Groupe Foes still **YE2024**; Heropbeuring still **CW opaque**. Took unused FREE Walloon ETA **C.A.R.P. ASBL** YE2025 (KBO **0407.844.715**; Rue de la Gendarmerie 38 Philippeville; **Actief** **2 VE**; NACE **88.993** AViQ; 2e site Walcourt). Do not redo Atelier Saint-Vincent/A.P.A.C./Adapta/Atelier85/La Gaume/De Enter/Fournipac/Le Rucher/Metalgroup stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3210854** JUMP +7.47% vs YE2024 EUR2987736; bruto **EUR5240486** JUMP +6.96% (bruto÷omzet ~1.63x); pnl **EUR444368** DROP -1.99% vs YE2024 EUR453375; equity **EUR2790156** JUMP +18.7%; FTE **122.9** (vs 122.6); neerlegging **16.07.2026**. Strong KBO Actief 2 VE ASBL. Assets/debt Unknown. Medium. FOI via marisa.pleitinckx@lecarp.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.65); entities (+1 vzw_carp_philippeville); foi + draft gap_carp_nbb_pdf_assets_debt_bruto_gt_omzet_1_63x_equity_jump_19pct_eta_matrix_l5; rq_2277=done + rq_2278 open; loop_state ticks=2277; raw docs/doge/raw/tick2276/ + data/raw/tick2276/ (research window).
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2278 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
+

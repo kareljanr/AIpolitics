@@ -53660,3 +53660,9 @@ bud_asv_pnl_jr2025_statutory,vzw_atelier_saint_vincent_rochefort,2025,-30831,-30
 bud_asv_equity_jr2025_statutory,vzw_atelier_saint_vincent_rochefort,2025,2395817,2395817,2395817,CW statutory eigen_vermogen YE2025,src_asv_jr2025_cw_en,medium,tick2276; Medium CW; equity DROP -1.65% vs YE2024 2436009
 bud_asv_fte_jr2025_statutory,vzw_atelier_saint_vincent_rochefort,2025,75.2,75.2,75.2,CW social-balance FTE 75.2,src_asv_jr2025_cw_en,medium,tick2276; Medium CW; FTE 75.2 vs YE2024 69.6; assets/debt Unknown
 bud_asv_pnl_jr2024_statutory_cmp,vzw_atelier_saint_vincent_rochefort,2024,-114469,-114469,-114469,CW statutory pnl YE2024 comparative,src_asv_jr2025_cw_en,medium,tick2276; YE2024 pnl -114469 comparative (pre LOSS NARROW +73.07%)
+bud_carp_omzet_jr2025_statutory,vzw_carp_philippeville,2025,3210854,3210854,3210854,CW statutory omzet YE2025 JUMP,src_carp_jr2025_cw_en,medium,tick2277; Medium CW; omzet JUMP +7.47% vs YE2024 2987736
+bud_carp_bruto_jr2025_statutory,vzw_carp_philippeville,2025,5240486,5240486,5240486,CW statutory bruto_marge YE2025 (~1.63x omzet),src_carp_jr2025_cw_en,medium,tick2277; Medium CW; bruto JUMP +6.96% vs YE2024 4899588; bruto/omzet ~1.63x
+bud_carp_pnl_jr2025_statutory,vzw_carp_philippeville,2025,444368,444368,444368,CW statutory winst/verlies YE2025 DROP,src_carp_jr2025_cw_en,medium,tick2277; Medium CW; pnl DROP -1.99% vs YE2024 453375
+bud_carp_equity_jr2025_statutory,vzw_carp_philippeville,2025,2790156,2790156,2790156,CW statutory eigen_vermogen YE2025 JUMP,src_carp_jr2025_cw_en,medium,tick2277; Medium CW; equity JUMP +18.7% vs YE2024 2350509
+bud_carp_fte_jr2025_statutory,vzw_carp_philippeville,2025,122.9,122.9,122.9,CW social-balance FTE 122.9,src_carp_jr2025_cw_en,medium,tick2277; Medium CW; FTE 122.9 vs YE2024 122.6
+bud_carp_pnl_jr2024_statutory_cmp,vzw_carp_philippeville,2024,453375,453375,453375,CW statutory pnl YE2024 comparative,src_carp_jr2025_cw_en,medium,tick2277; YE2024 cmp pnl 453375
