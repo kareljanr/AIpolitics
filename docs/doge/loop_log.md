@@ -24877,3 +24877,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.8); entities (+1 vzw_kringwinkel_antwerpen); foi + draft gap_kringwinkel_antwerpen_nbb_pdf_assets_debt_pnl_loss_flip_equity_drop_matrix_l5; rq_2189=done + rq_2190 open EVERY-10; loop_state ticks=2189; raw docs/doge/data/raw/tick2189/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2190 EVERY-10 (AGB/FARO-if-YE2025 / AIESH-REW / De Wroeter-Demival-Mivas-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2190 - 2026-08-26T09:20:00Z - rq_2190 EVERY-10 + De Wroeter (omzet JUMP 5.06m / pnl DROP -64% / Medium)
+
+- Unit: **rq_2190 EVERY-10** leftover dual after **rq_2189 Kringwinkel Antwerpen**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still YE2024-class. Took named FREE leftover **De Wroeter Maatwerkbedrijf VZW** YE2025 (KBO **0433.138.454**; St.-Rochusstraat 8 Hasselt; **VZW** RSZ NACE **88.993** / **5 VE**). Deferred FREE Demival / Mivas. Do not redo Kringwinkel Antwerpen/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR5057412** JUMP +7.73% vs YE2024 EUR4694503; bruto **EUR7067728** JUMP +6.63% (bruto≫omzet); pnl **EUR99403** DROP -63.64% vs YE2024 EUR273357; equity **EUR3886825** DROP -0.26%; FTE **175.2** JUMP vs 161.5; neerlegging **18.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 5 VE. FOI via info@dewroeter.be.
+- EVERY-10: refreshed progress_every_10_ticks.md (tick 2190 snapshot; layers A-E; inventory budgets 53050+ / lb 7996+ / FOI ready ~1825) + doge_waste_top10_current.md (pure annual top10 stable GIP/fossil/cars/cheque; NEW residual 2181-2190 note incl. Kringwinkel Antwerpen LOSS FLIP -1.05m / Blankedale bruto~2x / Mariasteen 22.93m / De Wroeter).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.7); entities (+1 vzw_de_wroeter_hasselt); foi + draft gap_de_wroeter_nbb_pdf_assets_debt_pnl_drop_bruto_gt_omzet_fte_jump_matrix_l5; progress+top10; rq_2190=done + rq_2191 open; loop_state ticks=2190; raw docs/doge/data/raw/tick2190/.
+- FOI: **ready not sent** (human-gated).
+- EVERY-10 done (**last every-10 was 2180**; next **2200**). Next: rq_2191 (AGB/FARO-if-YE2025 / AIESH-REW / Demival-Mivas-or-unused IGS-DSO-WZC-MRS-HVZ).

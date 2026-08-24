@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2180** (2026-08-26) · **7983+** leaderboard rows  
+**As-of:** tick **2190** (2026-08-26) · **7996+** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt AGB / scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,15 +27,16 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **university/city balance sheets** · **AGB/zorg dual + IGS/HVZ/CAW/CGG/woonmaatschappij/thuiszorg shells** · **NEW residual 2171-2180:** **Stijn bruto 128.0m** · **Creat CV omzet 50.2m** · **Waak omzet 37.7m** · **Orpimmo equity 70.0m** · **Cur@-Z omzet 18.0m** · **Vlietoever omzet 13.3m** · **WAAK SW omzet 4.32m** (EVERY-10@2180 primary) · Farys Solar / Senes / Springplank / Stroom / Langerheide / Het Dorp · prior 2161-2170 Zorg-Saam / Anima / WZND / Affligem stack retained · Walloon HVZ opacity stack · prior nuclear/Fluxys/Elia/Enodia/RESA · **LUWA PPP €590m** · private gambling **€31.5bn** market.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **university/city balance sheets** · **AGB/zorg dual + IGS/HVZ/CAW/CGG/woonmaatschappij/thuiszorg shells** · **NEW residual 2181-2190:** **Mariasteen omzet 22.93m** · **Westlandia omzet 20.18m** · **Kringwinkel Antwerpen LOSS FLIP −1.05m** · **Blankedale bruto~2× 12.93m** · **De Brug 12.64m** · **Wase 13.06m** · **De Wroeter omzet 5.06m** (EVERY-10@2190 primary) · Mirto / Weerwerk / InterWest / BWB / Groep INTRO / MAAAT · prior 2171-2180 Stijn/Creat/Waak/Orpimmo stack retained · Walloon HVZ opacity stack · prior nuclear/Fluxys/Elia/Enodia/RESA · **LUWA PPP €590m** · private gambling **€31.5bn** market.
 
-**Change vs tick 2170:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10; Metro3/OWV filtered as stock). Re-verified from leaderboard (corrupt AGB/scoring pi>10 / Metro3 stock / OWV snowball stock filtered off; seed/open TE-FFS rows retained for pure annual ranking). **Major NEW residual 2171-2180 (off pure top10 / dual):** Het Dorp · Vlietoever · Cur@-Z · Langerheide · **Orpimmo equity FLIP 70.0m** · Senes · Farys Solar · Springplank · Stroom · **Creat CV omzet 50.2m** · **Waak omzet 37.7m** · **Stijn bruto 128.0m** · **WAAK SW omzet 4.32m** (EVERY-10@2180 primary). Count NEW since 2170: ~13 residual dual fills. **Prior 2161-2170 + 2151-2160 stacks retained.** Not TE-additive of ~348bn.
+**Change vs tick 2180:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10; OWV snowball filtered as stock). Re-verified from leaderboard (corrupt AGB/scoring pi>10 / Metro3 stock / OWV snowball stock filtered off; seed/open TE-FFS rows retained for pure annual ranking). **Major NEW residual 2181-2190 (off pure top10 / dual):** MAAAT · Groep INTRO · Wase · BWB · Westlandia · InterWest · Weerwerk · Mariasteen · De Brug · Mirto · Blankedale · **Kringwinkel Antwerpen LOSS FLIP −1.05m** · **De Wroeter omzet 5.06m** (EVERY-10@2190 primary). Count NEW since 2180: ~13 residual dual fills. **Prior 2171-2180 + 2161-2170 stacks retained.** Not TE-additive of ~348bn.
 
 ### High-absurdity residual (not pure top10)
 
-- **Stijn** bruto **EUR128.0m** ≫ omzet **EUR22.7m** (×5.6) / **1611 FTE** / **36 VE** — VAPH/PVF matrix FOI.
-- **Creat CV / Farys cvba** omzet **EUR50.2m** with bruto thin **EUR350k** / **FTE 0** — pass-through trading shell.
-- **Waak** bruto≫omzet on **EUR37.7m** omzet / pnl DEEPER LOSS / **1592 FTE** — loonkostsubsidie opacity.
-- **ORPIMMO** equity JUMP FLIP to **EUR70.0m** while pnl LOSS **−EUR28.7m** / emeis board.
-- **WAAK SW** sister dual omzet **EUR4.32m** / pnl JUMP **EUR430k** — related-party vs Waak parent FOI.
+- **Kringwinkel Antwerpen / DKA** pnl LOSS FLIP **−EUR1.05m** from +370k / equity DROP **−23%** / FTE JUMP **407** / **16 VE**.
+- **Blankedale** bruto **~2×** omzet on **EUR12.93m** / pnl DROP **−62%** / **776 FTE**.
+- **Mariasteen** omzet **EUR22.93m** / persistent LOSS IMPROVED **−EUR222k** / **878 FTE** / **9 VE**.
+- **Westlandia** omzet JUMP **EUR20.18m** / pnl JUMP **+102%** / bruto≫omzet / **708 FTE**.
+- **De Wroeter** EVERY-10 primary omzet JUMP **EUR5.06m** / pnl DROP **−64%** / FTE JUMP **175** — loonkostsubsidie opacity.
+- **Stijn** bruto **EUR128.0m** ≫ omzet **EUR22.7m** (prior 2171-2180 retained).
 - Walloon **ZS** stack (BW / Vesdre / Hainaut-Est / …) FTE-only budget opacity.
