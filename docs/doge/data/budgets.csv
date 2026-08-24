@@ -53310,3 +53310,9 @@ bud_kw_midwest_pnl_jr2025_statutory,vzw_kringwinkel_midwest,2025,-174600,-174600
 bud_kw_midwest_equity_jr2025_statutory,vzw_kringwinkel_midwest,2025,4249386,4249386,4249386,CW statutory eigen_vermogen YE2025,src_kw_midwest_jr2025_cw_en,medium,tick2227; Medium CW; equity DROP -3.95% vs YE2024 4423985
 bud_kw_midwest_fte_jr2025_statutory,vzw_kringwinkel_midwest,2025,133.2,133.2,133.2,CW social-balance FTE 133.2,src_kw_midwest_jr2025_cw_en,medium,tick2227; Medium CW; FTE JUMP +9.18% vs YE2024 122.0; assets/debt Unknown
 bud_kw_midwest_omzet_jr2024_statutory_cmp,vzw_kringwinkel_midwest,2024,2894433,2894433,2894433,CW statutory omzet YE2024 comparative,src_kw_midwest_jr2025_cw_en,medium,tick2227; YE2024 omzet 2894433 comparative
+bud_vites_be_omzet_jr2025_statutory,vzw_vites_be,2025,1042666,1042666,1042666,CW statutory omzet YE2025,src_vites_be_jr2025_cw_en,medium,tick2228; Medium CW; omzet JUMP +29.88% vs YE2024 802813
+bud_vites_be_bruto_jr2025_statutory,vzw_vites_be,2025,697994,697994,697994,CW statutory bruto_marge YE2025,src_vites_be_jr2025_cw_en,medium,tick2228; Medium CW; bruto JUMP +41.51% vs YE2024 493248; bruto/omzet ~0.67x
+bud_vites_be_pnl_jr2025_statutory,vzw_vites_be,2025,109606,109606,109606,CW statutory winst/verlies YE2025,src_vites_be_jr2025_cw_en,medium,tick2228; Medium CW; pnl PROFIT FLIP vs YE2024 LOSS -92515
+bud_vites_be_equity_jr2025_statutory,vzw_vites_be,2025,832052,832052,832052,CW statutory eigen_vermogen YE2025,src_vites_be_jr2025_cw_en,medium,tick2228; Medium CW; equity JUMP +15.17% vs YE2024 722446
+bud_vites_be_fte_jr2025_statutory,vzw_vites_be,2025,11.8,11.8,11.8,CW social-balance FTE 11.8,src_vites_be_jr2025_cw_en,medium,tick2228; Medium CW; FTE 11.8 vs YE2024 ~12.0; assets/debt Unknown
+bud_vites_be_omzet_jr2024_statutory_cmp,vzw_vites_be,2024,802813,802813,802813,CW statutory omzet YE2024 comparative,src_vites_be_jr2025_cw_en,medium,tick2228; YE2024 omzet 802813 comparative
