@@ -24597,3 +24597,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.1); entities (+1 nv_anima_vlaanderen); foi + draft gap_anima_vl_nbb_pdf_assets_debt_pnl_deeper_loss_equity_neg_matrix_l5; rq_2165=done + rq_2166 open; loop_state ticks=2165; raw docs/doge/data/raw/tick2165/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2166 (AGB/FARO-if-YE2025 / AIESH-REW / Avondvrede-if-unused / unused IGS-DSO-WZC-MRS live euros).
+
+## Tick 2166 - 2026-08-26T01:20:00Z - rq_2166 Rusthuis Avondvrede (omzet DROP 2.20m / pnl LOSS FLIP -26k / Medium)
+
+- Unit: **rq_2166** leftover dual after **rq_2165 't Hofke / Anima Vlaanderen race**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (balansjaar 2024 / neergelegd 24-11-2025); AIESH still **YE2024**; REW still **YE2024**. Took deferred leftover **Rusthuis Avondvrede NV** YE2025 (KBO **0446.506.836**; zetel Zandvoortstraat 27 Mechelen; site Boechout; **NV** NACE **87.101** RVT / **1 VE**; Anima sibling of Anima Vlaanderen). Do not redo Anima Vlaanderen/'t Hofke/Zorg-Saam/Sint-Bernardus/Ruggeveld/Salvator/Boterlaarhof/WZND/Foyer De Lork/OLV Kempen.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2199837** DROP -7.07% vs YE2024 EUR2367080; bruto **EUR1834588** DROP -0.79%; pnl **EUR-26205** LOSS FLIP vs YE2024 EUR+95524; equity **EUR211466** DROP -11.03%; FTE **22.4**; neerlegging **03.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief NV 1 VE. FOI via info@animagroup.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.0); entities (+1 nv_rusthuis_avondvrede); foi + draft gap_avondvrede_nbb_pdf_assets_debt_pnl_loss_flip_omzet_drop_matrix_l5; rq_2166=done + rq_2167 open; loop_state ticks=2166; raw docs/doge/data/raw/tick2166/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2167 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS; optional Anima hold 0469.969.453).
+
