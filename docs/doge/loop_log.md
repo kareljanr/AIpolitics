@@ -26419,3 +26419,19 @@ Append-only. Each tick adds a short entry.
 - Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR3881710** JUMP +5.41% vs YE2024 EUR3682590; pnl **EUR385778** JUMP +20.01%; equity **EUR3119925** JUMP +13.69%; FTE **46.1** (vs 46.7); neerlegging **08.04.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown. Medium.
 - Wrote: sources (+6); budgets (+6); commitments (+1); leaderboard (+1 pi 4.85); entities (+1 vzw_willekom_mechelen); foi + draft gap_willekom_nbb_pdf_assets_debt_empty_omzet_bruto_3_88m_pnl_jump_vaph_matrix_l5; rq_2311=done + rq_2312 open; loop_state ticks=2311.
 - FOI: **ready not sent**. EVERY-10 may complete via Havenzate@2310; else next **2320**. Next: rq_2312.
+
+
+### 2026-08-27T20:45:00Z - tick 2310 - EVERY-10 + rq_2312 M HKA Antwerpen (bruto DROP 5.63m / ~7.2x omzet / pnl LOSS FLIP / equity DROP -39% / Medium)
+
+- NOT every-10 (last 2310 Domino/Havenzate race): `progress_every_10_ticks.md` (layers A-E of EUR 347.956 bn TE) + `doge_waste_top10_current.md` (top 10 by priority_index; pure annual flow filter). Inventory budgets 53920+ / commitments 6037+ / leaderboard 8157+ / entities 2061+ / sources 6733+ / FOI ready ~1986.
+- Unit: **rq_2312** leftover dual after **Willekom@2311**. Prefer NON-stall: AGB Bornem **JR2024**; FARO/AIESH **YE2024**; Gandae **YE2024**. Took FREE VL museum **M HKA** YE2025 (KBO **0431.750.859**; 1 VE; RSZ **91.210**; Aanbestedende; info@muhka.be). Do not redo Zewopa/Huis/Katrinahof/Alvinnenberg/TM Kempen/TMMA/Kompas/Voluit/Havinet/MPI Oosterlo stack.
+- Found: CW NL+EN+FR YE2025 — omzet **EUR781477** JUMP +18.85%; bruto **EUR5625375** DROP -9.74% (~7.2x); pnl **EUR-579191** LOSS FLIP; equity **EUR1082169** DROP -38.76%; FTE **86.0** JUMP; filed **09.04.2026**. Medium. Assets/debt Unknown.
+- Wrote: sources(+5) budgets(+6) commitments(+1) leaderboard(+1 pi 6.95) entities(+1) foi+draft gap_mhka_nbb_pdf_assets_debt_bruto_gt_omzet_7_20x_pnl_loss_flip_equity_drop_39pct_vl_museum_matrix_l5; rq_2312=done + rq_2313 open; ticks=2310.
+- FOI: **ready not sent**. NOT every-10 (last 2300; next **2320**).
+
+#### EVERY-10 brief (A/B/C/D/E)
+- **A:** 100% L0 TE EUR347.956bn Strong
+- **B:** 100% L1 subsector map Strong
+- **C:** ~99% L2 entity totals; stalls AGB Bornem/FARO/AIESH YE2024
+- **D:** ~74-88% generous L5 named; residual dual NOT near-complete of 348bn
+- **E:** ~1986 FOI-ready; answered ~11; partial ~28

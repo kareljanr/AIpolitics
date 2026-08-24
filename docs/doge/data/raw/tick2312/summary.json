@@ -1,0 +1,13 @@
+{
+  "tick": "2312",
+  "every10": true,
+  "unit": "rq_2312",
+  "entity": "vzw_mhka_antwerpen",
+  "omzet": 781477,
+  "bruto": 5625375,
+  "pnl": -579191,
+  "equity": 1082169,
+  "fte": 86.0,
+  "ratio": 7.2,
+  "gap": "gap_mhka_nbb_pdf_assets_debt_bruto_gt_omzet_7_20x_pnl_loss_flip_equity_drop_39pct_vl_museum_matrix_l5"
+}

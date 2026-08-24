@@ -53921,3 +53921,9 @@ bud_willekom_pnl_jr2025_statutory,vzw_willekom_mechelen,2025,385778,,,statutory_
 bud_willekom_equity_jr2025_statutory,vzw_willekom_mechelen,2025,3119925,,,statutory_accounts,src_willekom_jr2025_cw_en,medium,tick2311; equity JUMP +13.69%
 bud_willekom_fte_jr2025_statutory,vzw_willekom_mechelen,2025,46.1,,,statutory_accounts,src_willekom_jr2025_cw_en,medium,tick2311; FTE 46.1 vs 46.7
 bud_willekom_pnl_jr2024_statutory_cmp,vzw_willekom_mechelen,2024,321448,,,statutory_accounts,src_willekom_jr2025_cw_en,medium,tick2311; YE2024 cmp
+bud_mhka_omzet_jr2025_statutory,vzw_mhka_antwerpen,2025,781477,781477,781477,CW omzet YE2025,src_mhka_jr2025_cw_en,medium,tick2312; JUMP +18.85% vs 657545
+bud_mhka_bruto_jr2025_statutory,vzw_mhka_antwerpen,2025,5625375,5625375,5625375,CW bruto YE2025 (~7.2x),src_mhka_jr2025_cw_en,medium,tick2312; DROP -9.74% vs 6232737
+bud_mhka_pnl_jr2025_statutory,vzw_mhka_antwerpen,2025,-579191,-579191,-579191,CW pnl LOSS FLIP,src_mhka_jr2025_cw_en,medium,tick2312; vs PROFIT 767102
+bud_mhka_equity_jr2025_statutory,vzw_mhka_antwerpen,2025,1082169,1082169,1082169,CW equity DROP,src_mhka_jr2025_cw_en,medium,tick2312; DROP -38.76% vs 1767184
+bud_mhka_fte_jr2025_statutory,vzw_mhka_antwerpen,2025,86.0,86.0,86.0,CW FTE 86.0,src_mhka_jr2025_cw_en,medium,tick2312; JUMP vs 71.1
+bud_mhka_pnl_jr2024_statutory_cmp,vzw_mhka_antwerpen,2024,767102,767102,767102,CW pnl YE2024 cmp,src_mhka_jr2025_cw_en,medium,tick2312; PROFIT 767102
