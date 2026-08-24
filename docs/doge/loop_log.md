@@ -26866,3 +26866,10 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN YE2025 - omzet **EUR961851** JUMP +12.91%; bruto **EUR16858189** JUMP +4.34% (~**17.53x**); pnl **EUR-360765** LOSS JUMP; equity **EUR5713999** DROP; FTE **209.1**; neerlegging **01.07.2026**. Strong KBO. Assets/debt Unknown. Medium.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.4); entities (+1); foi + draft gap_adem_nbb_pdf_assets_debt_bruto_gt_omzet_17_53x_pnl_loss_jump_vaph_matrix_l5; rq_2354=done + rq_2355 open; loop_state ticks=2354.
 - FOI: **ready not sent**. NOT every-10 (next **2360**). Next: rq_2355.
+
+### 2026-08-24T20:54:00Z - tick 2355 - rq_2355 CAR Ter Kouter Drongen (omzet JUMP 3.99m / pnl DROP / 900k bestemde fondsen / Strong PDF)
+
+- Unit: **rq_2355** leftover dual after **Adem@2354**. Prefer NON-stall AGB/FARO YE2025: AGB Bornem still **JR2024**; FARO/AIESH/Gandae/Aralea/Manupal/Vlotter still **YE2024** (no live 2026pdf). Took FREE Flemish **CAR Ter Kouter VZW** YE2025 (KBO **0408.203.219**; Kloosterstraat 6, 9031 Drongen; **Actief** **1 VE**; RSZ **86.905**; leftover of mined Deinze **Leieborg@2350** + dual CAR/NAH/KDV De Elfjes; stefaan.singelee@terkouter.be). Do not redo Adem/MFC Combo/De Branding/Korenbloem/Leieborg stack.
+- Found: official NBB VKT-VZW PDF deposit **2026-00205838** (47977 B / 12p; AV **29.05.2026**; neerlegging **24.06.2026**) — omzet **EUR3991124** JUMP +3.41%; bruto **EUR4316511** JUMP +2.04% (~**1.08x**); pnl **EUR51587** DROP −10.85%; equity **EUR5040149** DROP −0.22%; assets **EUR5565593**; debt **EUR525444** JUMP +7.01%; FTE **46.8** DROP; code 73 **EUR780029**; kapitaalsubsidies **EUR2273709**; destin 691 **EUR900000**. Strong KBO + Strong PDF. Medium-not-used (no CW euros).
+- Wrote: sources (+4); budgets (+9); commitments (+1); leaderboard (+1 pi 5.20); entities (+1 vzw_car_ter_kouter_drongen); foi + draft `gap_terkouter_riziv_vl_matrix_900k_bestemde_fondsen_kapitaalsubsidies_2_27m_car_l5`; rq_2355=done + rq_2356 open; loop_state ticks=2355; raw tick2355/ untracked.
+- FOI: **ready not sent**. NOT every-10 (next **2360**). Next: rq_2356.
