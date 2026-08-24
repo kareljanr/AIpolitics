@@ -1,0 +1,15 @@
+{
+  "tick": "2314",
+  "unit": "rq_2314",
+  "entity": "vzw_iris_kontich",
+  "kbo": "0419.665.154",
+  "omzet": 224127,
+  "bruto": 1725182,
+  "pnl": 10077,
+  "equity": 3502266,
+  "fte": 22.1,
+  "ratio": 7.7,
+  "confidence": "medium",
+  "gap": "gap_iris_kontich_nbb_pdf_assets_debt_bruto_gt_omzet_7_70x_pnl_drop_72pct_vaph_matrix_l5",
+  "pi": 5.1
+}

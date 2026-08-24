@@ -26451,3 +26451,11 @@ Append-only. Each tick adds a short entry.
 - Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR2696639** JUMP +4.38%; pnl **EUR166418** DROP -4%; equity **EUR2887744** JUMP +5.65%; FTE **32.1** (vs 32.8); neerlegging **30.06.2026**. Strong KBO Actief 3 VE. Assets/debt Unknown. Medium.
 - Wrote: sources (+6); budgets (+6); commitments (+1); leaderboard (+1 pi 4.5); entities (+1 vzw_hejmen_leuven); foi + draft gap_hejmen_nbb_pdf_assets_debt_empty_omzet_bruto_2_70m_pnl_drop_vaph_matrix_l5; rq_2313=done + rq_2314 open; loop_state ticks=2313.
 - FOI: **ready not sent**. NOT every-10 (next **2320**). Next: rq_2314.
+
+### 2026-08-24T13:06:15Z - tick 2314 - rq_2314 Iris Kontich (bruto JUMP 1.73m / ~7.7x omzet / pnl DROP -72% / Medium)
+
+- Unit: **rq_2314** leftover dual after **Hejmen@2313**. Prefer NON-stall: AGB Bornem still **JR2024**; FARO still **YE2024**. Took unused FREE Flemish VAPH **Iris / Huize Iris VZW** YE2025 (KBO **0419.665.154**; Reepkenslei 53 Kontich; **Actief** **1 VE**; NACE **87.202**). Do not redo Hejmen/Willekom/Zewopa/Domino/M HKA stack.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR224127**; bruto **EUR1725182** JUMP +3.62% (~**7.7x**); pnl **EUR10077** DROP -72.45%; equity **EUR3502266**; FTE **22.1**; neerlegging **09.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@huize-iris.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.1); entities (+1 vzw_iris_kontich); foi + draft gap_iris_kontich_nbb_pdf_assets_debt_bruto_gt_omzet_7_70x_pnl_drop_72pct_vaph_matrix_l5; rq_2314=done + rq_2315 open; loop_state ticks=2314; raw docs/doge/data/raw/tick2314/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next EVERY-10 2320**). Next: rq_2315.

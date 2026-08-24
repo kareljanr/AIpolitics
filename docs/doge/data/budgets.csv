@@ -53938,3 +53938,8 @@ bud_hejmen_pnl_jr2025_statutory,vzw_hejmen_leuven,2025,166418,,,statutory_accoun
 bud_hejmen_equity_jr2025_statutory,vzw_hejmen_leuven,2025,2887744,,,statutory_accounts,src_hejmen_jr2025_cw_en,medium,tick2313; equity JUMP +5.65%
 bud_hejmen_fte_jr2025_statutory,vzw_hejmen_leuven,2025,32.1,,,statutory_accounts,src_hejmen_jr2025_cw_en,medium,tick2313; FTE 32.1 vs 32.8
 bud_hejmen_pnl_jr2024_statutory_cmp,vzw_hejmen_leuven,2024,173356,,,statutory_accounts,src_hejmen_jr2025_cw_en,medium,tick2313; YE2024 cmp
+bud_iris_kontich_bruto_jr2025_statutory,vzw_iris_kontich,2025,1725182,1725182,1725182,CW statutory bruto YE2025 primary envelope (~7.7x omzet),src_iris_kontich_jr2025_cw_en,medium,tick2314; bruto 1725182 JUMP +3.62% vs 1664837; ~7.7x omzet 224127
+bud_iris_kontich_omzet_jr2025_statutory,vzw_iris_kontich,2025,224127,224127,224127,CW statutory omzet YE2025,src_iris_kontich_jr2025_cw_en,medium,tick2314; omzet 224127; YE2024 omzet unpublished in CW table
+bud_iris_kontich_pnl_jr2025_statutory,vzw_iris_kontich,2025,10077,10077,10077,CW statutory pnl YE2025 DROP,src_iris_kontich_jr2025_cw_en,medium,tick2314; pnl 10077 DROP -72.45% vs YE2024 36574
+bud_iris_kontich_equity_jr2025_statutory,vzw_iris_kontich,2025,3502266,3502266,3502266,CW statutory equity YE2025,src_iris_kontich_jr2025_cw_en,medium,tick2314; equity 3502266 JUMP +0.29% vs 3492189
+bud_iris_kontich_fte_jr2025_statutory,vzw_iris_kontich,2025,22.1,22.1,22.1,CW FTE YE2025,src_iris_kontich_jr2025_cw_en,medium,tick2314; FTE 22.1 vs 19.0
