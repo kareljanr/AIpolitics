@@ -24348,3 +24348,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.4); entities (+1 vzw_groep_sint_franciscus_brakel); foi + draft gap_groep_sint_franciscus_nbb_pdf_assets_debt_pnl_flip_omzet_jump_matrix_l5; rq_2142=done + rq_2143 open; loop_state ticks=2142; raw docs/doge/data/raw/tick2141/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2140**; next **2150**). Next: rq_2143 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+## Tick 2143 - 2026-08-25T17:40:00Z - rq_2143 Seniors Care-Ion Anderlecht (omzet JUMP 86.0m / equity DROP -79.7% / pnl LOSS -5.07m / Medium)
+
+- Unit: **rq_2143** leftover dual after **rq_2142 Groep Sint-Franciscus Brakel**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Seniors Care-Ion BV** YE2025 (KBO **0422.923.859**; Ninoofse Steenweg 534 Anderlecht; **BV/SRL** NACE **87.301/87.101** / **19 VE**; Care-Ion multi-site MRS/WZC). Do not redo Groep Sint-Franciscus/Denderrust/En Famille/Prestige/Corolles/Esplanade/Peupliers/Comte d'Egmont/CIGB/Ten Rozen/Care-Support/emeis holding/Armonea holding.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR85993318** JUMP +1.81% vs YE2024 EUR84465840; bruto **EUR54607136** JUMP +1.99%; pnl **EUR-5073803** LOSS NARROW +25.32% vs YE2024 EUR-6794354; equity **EUR1290120** DROP -79.73%; FTE **873.8** vs 924.9; neerlegging **11.07.2026**. KBO Strong Actief BV 19 VE. Assets/debt Unknown. Medium. FOI via info@care-ion.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.6); entities (+1 bv_seniors_care_ion_anderlecht); foi + draft gap_care_ion_nbb_pdf_assets_debt_equity_collapse_pnl_loss_matrix_l5; rq_2143=done + rq_2144 open; loop_state ticks=2143; raw docs/doge/data/raw/tick2143/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2140**; next **2150**). Next: rq_2144 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
