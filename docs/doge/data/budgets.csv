@@ -53765,3 +53765,8 @@ bud_rew_pnl_jr2025_statutory,igs_rew_wavre,2025,196086,196086,196086,CW statutor
 bud_rew_equity_jr2025_statutory,igs_rew_wavre,2025,61985489,61985489,61985489,CW statutory eigen_vermogen YE2025 equity JUMP,src_rew_jr2025_cw_en,medium,tick2289; Medium CW; equity JUMP +0.32% vs YE2024 61789403
 bud_rew_fte_jr2025_statutory,igs_rew_wavre,2025,35.0,35.0,35.0,CW social-balance FTE 35.0,src_rew_jr2025_cw_en,medium,tick2289; Medium CW; FTE 35.0 vs YE2024 32.0; assets/debt Unknown; Walloon municipal DSO
 bud_rew_pnl_jr2024_statutory_cmp,igs_rew_wavre,2024,-255744,-255744,-255744,CW statutory pnl YE2024 comparative LOSS,src_rew_jr2025_cw_en,medium,tick2289; YE2024 pnl LOSS -255744 comparative (pre PROFIT FLIP)
+bud_labeur_bruto_jr2025_statutory,vzw_labeur_gent,2025,2169142,2169142,2169142,CW statutory bruto YE2025 (omzet unpublished),src_labeur_jr2025_cw_en,medium,tick2289; bruto 2169142 DROP -1.89% vs 2210913; empty omzet
+bud_labeur_pnl_jr2025_statutory,vzw_labeur_gent,2025,63726,63726,63726,CW statutory pnl YE2025 JUMP +201%,src_labeur_jr2025_cw_en,medium,tick2289; pnl 63726 JUMP +201.02% vs 21170
+bud_labeur_equity_jr2025_statutory,vzw_labeur_gent,2025,268300,268300,268300,CW statutory equity YE2025,src_labeur_jr2025_cw_en,medium,tick2289; equity 268300 JUMP +25.81% vs 213255
+bud_labeur_fte_jr2025_statutory,vzw_labeur_gent,2025,49.6,49.6,49.6,CW FTE YE2025,src_labeur_jr2025_cw_en,medium,tick2289; FTE 49.6 DROP vs 54.7
+bud_labeur_pnl_jr2024_statutory_cmp,vzw_labeur_gent,2024,21170,21170,21170,CW pnl YE2024 comparative,src_labeur_jr2025_cw_en,medium,tick2289; YE2024 pnl 21170 comparative

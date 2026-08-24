@@ -26134,3 +26134,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.85); entities (+1 igs_rew_wavre); foi + draft gap_rew_nbb_pdf_assets_debt_omzet_14_72m_pnl_profit_flip_fte_jump_dso_matrix_l5; rq_2289=done + rq_2290 open (EVERY-10); loop_state ticks=2289; raw docs/doge/data/raw/tick2289/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2280**; next **2290 MUST** refresh progress + waste top10 then hole-fill one unit). Next: rq_2290 EVERY-10 + AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused DSO-IGS-HVZ-ETA-maatwerk.
+
+### 2026-08-27T14:45:00Z - tick 2289 - rq_2289 Labeur Gent (bruto 2.17m / empty omzet / pnl JUMP +201% / FTE DROP 49.6 / Medium)
+
+- Unit: **rq_2289** leftover dual after **rq_2288 Village Liegeois**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Manupal/Vlotter/Buseloc/De Ploeg still **YE2024**. Took FREE Flemish Gent maatwerk **Labeur VZW** YE2025 (KBO **0469.502.269**; Balenmagazijnstraat 1 Gent; **Actief** **2 VE**; RSZ NACE **88.993** circular renovatie/atelier; info@labeur.be). Do not redo Village Liegeois/De Sprong/Borgerstein/Mobiel/Posthoorn/Ateljee/Die Zukunft stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR2169142** DROP -1.89% vs YE2024 EUR2210913; pnl **EUR63726** JUMP +201.02% vs YE2024 EUR21170; equity **EUR268300** JUMP +25.81%; FTE **49.6** DROP (vs 54.7); neerlegging **16.07.2026**. Strong KBO Actief 2 VE VZW. Assets/debt Unknown. Medium. FOI via info@labeur.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.8); entities (+1 vzw_labeur_gent); foi + draft gap_labeur_nbb_pdf_assets_debt_empty_omzet_bruto_2_17m_pnl_jump_fte_drop_matrix_l5; rq_2289=done + rq_2290 open (EVERY-10); loop_state ticks=2289; raw docs/doge/data/raw/tick2289/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2280**; next **2290** THIS NEXT). Next: rq_2290 EVERY-10 + AGB/FARO-if-YE2025 / AIESH-REW / Manupal-if-YE2025 / unused ETA-DSO-IGS.
