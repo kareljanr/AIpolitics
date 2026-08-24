@@ -53281,3 +53281,8 @@ bud_manus_bxl_assets_jr2025_nbb,vzw_manus_bxl,2025,2495982,2495982,2495982,NBB c
 bud_manus_bxl_debt_jr2025_nbb,vzw_manus_bxl,2025,1515849,1515849,1515849,NBB code17/49 schulden YE2025,src_manus_bxl_jr2025_nbb,strong,tick2223; Strong NBB; debt DROP -3.87% vs YE2024 1576838
 bud_manus_bxl_staff_jr2025_nbb,vzw_manus_bxl,2025,2303691,2303691,2303691,NBB code62 bezoldigingen YE2025,src_manus_bxl_jr2025_nbb,strong,tick2223; Strong NBB; staff costs JUMP vs YE2024 2154516
 bud_manus_bxl_fte_jr2025_nbb,vzw_manus_bxl,2025,59.8,59.8,59.8,NBB code9087 FTE YE2025,src_manus_bxl_jr2025_nbb,strong,tick2223; Strong NBB; FTE JUMP +7.36% vs YE2024 55.7
+bud_kw_west_bruto_jr2025_statutory,vzw_kringwinkel_west,2025,2125485,2125485,2125485,CW statutory bruto_marge YE2025 (omzet unpublished),src_kw_west_jr2025_cw_en,medium,tick2224; Medium CW; bruto JUMP +15.34% vs YE2024 1842793; primary envelope
+bud_kw_west_pnl_jr2025_statutory,vzw_kringwinkel_west,2025,-144804,-144804,-144804,CW statutory winst/verlies YE2025,src_kw_west_jr2025_cw_en,medium,tick2224; Medium CW; LOSS NARROW +44.52% vs YE2024 -260994 (less negative)
+bud_kw_west_equity_jr2025_statutory,vzw_kringwinkel_west,2025,1175497,1175497,1175497,CW statutory eigen_vermogen YE2025,src_kw_west_jr2025_cw_en,medium,tick2224; Medium CW; equity DROP -3.20% vs YE2024 1214387
+bud_kw_west_fte_jr2025_statutory,vzw_kringwinkel_west,2025,64.6,64.6,64.6,CW social-balance FTE 64.6,src_kw_west_jr2025_cw_en,medium,tick2224; Medium CW; FTE JUMP +5.56% vs YE2024 61.2; assets/debt Unknown
+bud_kw_west_bruto_jr2024_statutory_cmp,vzw_kringwinkel_west,2024,1842793,1842793,1842793,CW statutory bruto_marge YE2024 comparative,src_kw_west_jr2025_cw_en,medium,tick2224; YE2024 bruto 1842793 comparative

@@ -25293,3 +25293,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+6); budgets (+7); commitments (+1); leaderboard (+1 pi 7.00); entities (+1 vzw_manus_bxl); foi + draft gap_manus_bxl_nbb_subsidy_empty_omzet_pnl_drop_94pct_fte_jump_matrix_l5; rq_2223=done + rq_2224 open; loop_state ticks=2223; raw docs/doge/raw/tick2223/ (+ NBB PDF).
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2224 (AGB/FARO-if-YE2025 / AIESH-REW / Heropbeuring-if-euros / unused).
+
+
+## Tick 2224 - 2026-08-26T20:15:00Z - rq_2224 Kringwinkel West (bruto JUMP 2.13m / empty omzet / LOSS NARROW -145k / equity DROP / Medium)
+
+- Unit: **rq_2224** leftover dual after **rq_2223 Manus BXL** (+Maasland race). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024**; Heropbeuring still **CW opaque**. Took named FREE leftover **Kringwinkel West VZW** YE2025 (KBO **0461.050.502**; Steverlyncklaan 8 Ieper; **Actief** **7 VE**; RSZ NACE **88.993**; BTW **47.792**). NOT InterWest. Do not redo Manus BXL/groep/Antwerpen/NBSW/Opnieuw/Kringwinkel ZOV/Maasland/Antwerpen.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **empty/unpublished**; bruto **EUR2125485** JUMP +15.34% vs YE2024 EUR1842793; pnl **EUR-144804** LOSS NARROW vs YE2024 EUR-260994; equity **EUR1175497** DROP -3.20%; FTE **64.6** JUMP vs 61.2; neerlegging **07.07.2026**. Strong KBO Actief 7 VE. Assets/debt Unknown. Medium. FOI via info@kringwinkelwest.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.80); entities (+1 vzw_kringwinkel_west); foi + draft gap_kringwinkel_west_nbb_pdf_assets_debt_empty_omzet_loss_narrow_equity_drop_matrix_l5; rq_2224=done + rq_2225 open; loop_state ticks=2224; raw docs/doge/raw/tick2224/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2225 (AGB/FARO-if-YE2025 / AIESH-REW / Heropbeuring-if-euros / unused).
