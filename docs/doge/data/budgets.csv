@@ -53812,3 +53812,9 @@ bud_ryhove_pnl_jr2025_statutory,vzw_ryhove_gent,2025,1330675,,,statutory_account
 bud_ryhove_equity_jr2025_statutory,vzw_ryhove_gent,2025,11953407,,,statutory_accounts,src_ryhove_jr2025_cw_en,medium,tick2296; Medium CW; equity JUMP +11.56% vs YE2024 10715133
 bud_ryhove_fte_jr2025_statutory,vzw_ryhove_gent,2025,406.5,,,statutory_accounts,src_ryhove_jr2025_cw_en,medium,tick2296; Medium CW; FTE JUMP 406.5 vs YE2024 388.5; assets/debt Unknown
 bud_ryhove_pnl_jr2024_statutory_cmp,vzw_ryhove_gent,2024,1019355,,,statutory_accounts,src_ryhove_jr2025_cw_en,medium,tick2296; YE2024 pnl 1019355 comparative
+bud_sobo_omzet_jr2025_statutory,vzw_sobo_werk_brugge,2025,2452992,2452992,2452992,CW omzet YE2025,src_sobo_jr2025_cw_en,medium,tick2297; omzet DROP -1.67% vs 2494768
+bud_sobo_bruto_jr2025_statutory,vzw_sobo_werk_brugge,2025,4528313,4528313,4528313,CW bruto YE2025 (~1.85x),src_sobo_jr2025_cw_en,medium,tick2297; bruto DROP -1.17%
+bud_sobo_pnl_jr2025_statutory,vzw_sobo_werk_brugge,2025,71897,71897,71897,CW pnl YE2025 DROP,src_sobo_jr2025_cw_en,medium,tick2297; pnl DROP -54.28% vs 157239
+bud_sobo_equity_jr2025_statutory,vzw_sobo_werk_brugge,2025,1454952,1454952,1454952,CW equity YE2025,src_sobo_jr2025_cw_en,medium,tick2297; equity JUMP +5.2%
+bud_sobo_fte_jr2025_statutory,vzw_sobo_werk_brugge,2025,107.6,107.6,107.6,CW FTE 107.6,src_sobo_jr2025_cw_en,medium,tick2297; FTE JUMP 107.6 vs 107.1
+bud_sobo_pnl_jr2024_statutory_cmp,vzw_sobo_werk_brugge,2024,157239,157239,157239,CW pnl YE2024 cmp,src_sobo_jr2025_cw_en,medium,tick2297; YE2024 157239

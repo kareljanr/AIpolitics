@@ -26244,3 +26244,20 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.0); entities (+1 vzw_ryhove_gent); foi + draft gap_ryhove_nbb_pdf_assets_debt_bruto_gt_omzet_2_20x_pnl_jump_fte_jump_matrix_l5; rq_2296=done + rq_2297 open; loop_state ticks=2296; raw docs/doge/data/raw/tick2296/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2297 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk SOBO-Gandae).
+
+
+### 2026-08-27T17:00:00Z - tick 2297 - rq_2297 SOBO@werk Brugge (omzet DROP 2.45m / bruto~1.85x / pnl DROP -54% / FTE 107.6 / Medium)
+
+- Unit: **rq_2297** leftover dual after **rq_2296 Ryhove**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**. Took unused FREE Flemish maatwerk **SOBO@werk VZW** YE2025 (KBO **0863.423.427**; Pathoekeweg 9 A/7 Brugge; **Actief** **5 VE**; RSZ **88.993**). Do not redo Ryhove/Rozemarijn/Mo-Clean/NLZ/Labor/Intro Schoonmaak/Op Maat stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2452992** DROP -1.67%; bruto **EUR4528313** (~1.85x); pnl **EUR71897** DROP -54.28%; equity **EUR1454952** JUMP +5.2%; FTE **107.6**; neerlegging **01.06.2026**. Strong KBO Actief 5 VE VZW. Assets/debt Unknown. Medium. FOI via info@sobo.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.15); entities (+1 vzw_sobo_werk_brugge); foi + draft gap_sobo_nbb_pdf_assets_debt_omzet_2_45m_bruto_1_85x_pnl_drop_54pct_matrix_l5; rq_2297=done + rq_2298 open; loop_state ticks=2297; raw docs/doge/data/raw/tick2297/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2298 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-maatwerk Gandae).
+
+### 2026-08-27T16:30:00Z - tick 2296 - rq_2296 De Stobbe Antwerpen (bruto JUMP 2.91m / empty omzet / pnl DROP -46% / FTE 34.3 / Medium)
+
+- Unit: **rq_2296** leftover dual after **rq_2295 Rozemarijn** (race claimed 2295; this fire finishes next open/in_progress). Prefer NON-stall live: AGB Bornem/FARO/AIESH/Citeco/Groupe Foes still **YE2024**. Took FREE Antwerp CIG **De Stobbe VZW** YE2025 (KBO **0435.316.303**). Do not redo Rozemarijn/Mo-Clean/NLZ/Labor stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR2908874** JUMP +0.84%; pnl **EUR199594** DROP -45.9%; equity **EUR3474700** JUMP +5.58%; FTE **34.3**; neerlegging **05.06.2026**. Strong KBO Actief destobbe@cigdestobbe.be. Assets/debt Unknown. Medium.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 4.65); entities (+1 vzw_de_stobbe_antwerpen); foi + draft gap_stobbe_*; rq_2296=done + rq_2297 open; loop_state ticks=2296.
+- FOI: **ready not sent**. NOT every-10 (next **2300**). Next: rq_2297.
+
