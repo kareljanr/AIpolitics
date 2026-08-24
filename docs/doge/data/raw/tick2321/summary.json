@@ -1,8 +1,12 @@
 {
   "tick": "2321",
-  "entity": "vzw_humival_lievegem",
+  "entity_id": "vzw_humival_lievegem",
   "omzet": 740845,
   "bruto": 5780489,
   "pnl": 539105,
-  "ratio": 7.8
+  "equity": 6458105,
+  "fte": 64.6,
+  "ratio": 7.8,
+  "gap_id": "gap_humival_nbb_pdf_assets_debt_bruto_gt_omzet_7_80x_pnl_jump_vaph_matrix_l5",
+  "confidence": "medium"
 }

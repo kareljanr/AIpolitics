@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T13:19:47Z,rq_2320,2320,no,tick2320 EVERY-10 Sint-Jozef 0413.055.989 Medium COMPLETE on fe8818c7; phantom Humival@296abf6b left loop_state-only without CSVs — rewind to 2320; Heder data retained; next rq_2321 open; next EVERY-10 2330
+main,continuous,hole_fill,2026-08-27T23:30:00Z,rq_2321,2321,no,tick2321 leftover dual Humival 0416.237.589 Medium (omzet JUMP 740845; bruto JUMP 5780489 ~7.8x; pnl JUMP 539105; equity JUMP 6458105; FTE 64.6; 1 VE Lievegem VAPH); after Heder EVERY-10@2320; AGB/FARO YE2024; next rq_2322; next EVERY-10 2330

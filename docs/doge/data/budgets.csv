@@ -53985,3 +53985,8 @@ bud_sint_jozef_aarschot_bruto_jr2025_statutory,vzw_wzc_sint_jozef_aarschot_rilla
 bud_sint_jozef_aarschot_pnl_jr2025_statutory,vzw_wzc_sint_jozef_aarschot_rillaar,2025,952540,952540,952540,CW statutory pnl YE2025 DROP,src_sint_jozef_aarschot_jr2025_cw_en,medium,tick2320; pnl 952540 DROP -1.72% vs 969193
 bud_sint_jozef_aarschot_equity_jr2025_statutory,vzw_wzc_sint_jozef_aarschot_rillaar,2025,13630949,13630949,13630949,CW statutory equity YE2025 JUMP,src_sint_jozef_aarschot_jr2025_cw_en,medium,tick2320; equity 13630949 JUMP +7% vs 12738863
 bud_sint_jozef_aarschot_fte_jr2025_statutory,vzw_wzc_sint_jozef_aarschot_rillaar,2025,129.6,129.6,129.6,CW FTE YE2025,src_sint_jozef_aarschot_jr2025_cw_en,medium,tick2320; FTE 129.6 vs 125.3
+bud_humival_omzet_jr2025_statutory,vzw_humival_lievegem,2025,740845,740845,740845,CW omzet YE2025,src_humival_jr2025_cw_en,medium,tick2321; +5.31% vs 703476
+bud_humival_bruto_jr2025_statutory,vzw_humival_lievegem,2025,5780489,5780489,5780489,CW bruto ~7.8x,src_humival_jr2025_cw_en,medium,tick2321; +9.08%; ~7.8x
+bud_humival_pnl_jr2025_statutory,vzw_humival_lievegem,2025,539105,539105,539105,CW pnl YE2025,src_humival_jr2025_cw_en,medium,tick2321; +5.47%
+bud_humival_equity_jr2025_statutory,vzw_humival_lievegem,2025,6458105,6458105,6458105,CW equity YE2025,src_humival_jr2025_cw_en,medium,tick2321; +8.49%
+bud_humival_fte_jr2025_statutory,vzw_humival_lievegem,2025,64.6,64.6,64.6,CW FTE 64.6,src_humival_jr2025_cw_en,medium,tick2321; assets/debt Unknown

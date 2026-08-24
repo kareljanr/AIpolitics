@@ -26529,3 +26529,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.3); entities (+1 vzw_wzc_sint_jozef_aarschot_rillaar); foi + draft gap_sint_jozef_aarschot_nbb_pdf_assets_debt_omzet_10_73m_equity_jump_wzc_matrix_l5; rq_2320=done + rq_2321 open; loop_state ticks=2320; raw docs/doge/data/raw/tick2320/; EVERY-10 progress+waste.
 - FOI: **ready not sent** (human-gated).
 - **EVERY-10 @ 2320** (last was 2310; next **2330**). Next: rq_2321.
+
+### 2026-08-27T23:30:00Z - tick 2321 - rq_2321 Humival Lievegem (bruto 5.78m / omzet 0.74m ~7.8x / pnl JUMP / Medium)
+
+- Unit: **rq_2321** after **Heder EVERY-10@2320**. Stalls AGB/FARO YE2024. Took FREE VAPH **Humival** YE2025 KBO **0416.237.589** (Lievegem; 1 VE; RSZ 87.202).
+- Found: CW YE2025 omzet **EUR740845** JUMP +5.31%; bruto **EUR5780489** (~**7.8x**); pnl **EUR539105** JUMP +5.47%; equity **EUR6458105** JUMP +8.49%; FTE **64.6**; filed **12.06.2026**. Medium.
+- Wrote: CSVs + FOI gap_humival_nbb_pdf_assets_debt_bruto_gt_omzet_7_80x_pnl_jump_vaph_matrix_l5; rq_2321=done + rq_2322 open; ticks=2321.
+- FOI ready not sent. NOT every-10 (next **2330**). Next: rq_2322.
