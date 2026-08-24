@@ -25429,3 +25429,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.30); entities (+1 vzw_le_rucher_leuze); foi + draft gap_le_rucher_nbb_pdf_assets_debt_pnl_loss_flip_bruto_gt_omzet_aviq_matrix_l5; rq_2233=done + rq_2234 open; loop_state ticks=2233; raw docs/doge/raw/tick2233/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2234 (AGB/FARO-if-YE2025 / AIESH-REW / unused-VAPH-WZC-maatwerk).
+
+
+## Tick 2233 - 2026-08-26T23:25:00Z - rq_2233 Le Rucher Leuze (bruto 7.62m / bruto≫omzet ~2.03x / pnl LOSS FLIP / Medium)
+
+- Unit: **rq_2233** leftover dual after **rq_2232 SDB**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**. Named prefer **Travie** already raced@**2230** with Kiemkracht — skipped redo. Took remaining named FREE **Le Rucher ASBL** YE2025 (KBO **0860.345.458**; ZI de l'Europe Leuze-en-Hainaut; **Actief** **1 VE**; NACE **88.993** ETA). Do not redo Travie/SDB/De Vleugels/Kiemkracht stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3749862** DROP -12.65% vs YE2024 EUR4292711; bruto **EUR7621283** DROP -3.72% (bruto≫omzet ~2.03x); pnl **EUR-193735** LOSS FLIP vs YE2024 profit EUR34160; equity **EUR8786823** DROP -2.79%; FTE **245.6** DROP vs 254.8; neerlegging **25.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via contact@lerucher.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.30); entities (+1 vzw_le_rucher_leuze); foi + draft gap_le_rucher_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_loss_flip_eta_matrix_l5; rq_2233=done + rq_2234 open; loop_state ticks=2233; raw docs/doge/raw/tick2233/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2234 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
