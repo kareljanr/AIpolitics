@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T20:15:00Z,rq_2353,2352,no,tick2352 leftover dual MFC Combo 0839.782.745 Medium (empty omzet; bruto 4461186; pnl DROP 37849 -75.34%; equity 2597315; FTE 54.4; 7 VE RSZ 87.991); after Korenbloem@2351; AGB/FARO YE2024; next rq_2354; next EVERY-10 2360
+main,continuous,hole_fill,2026-08-24T20:20:00Z,rq_2354,2354,no,tick2354 leftover dual Adem 0410.147.375 Medium (omzet JUMP 961851; bruto JUMP 16858189 ~17.53x; pnl LOSS JUMP -360765; equity DROP 5713999; FTE 209.1; 3 VE RSZ 87.201); after MFC Combo@2353; AGB/FARO YE2024; next rq_2355; next EVERY-10 2360

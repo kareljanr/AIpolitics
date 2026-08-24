@@ -6979,3 +6979,8 @@ src_mfc_combo_jr2025_cw_en,Companyweb EN MFC Combo YE2025,https://www.companyweb
 src_mfc_combo_jr2025_cw_fr,Companyweb FR MFC Combo YE2025,https://www.companyweb.be/fr/0839782745/combo,Companyweb (NBB-derived),2026-08-24,secondary_aggregator,tick2352; FR mirror
 src_mfc_combo_kbo_2352,KBO MFC Combo 0839.782.745,https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0839782745,KBO FOD Economie,2026-08-24,official_register,"tick2352; Strong KBO Actief 7 VE RSZ 87.991; Parkstraat 185, 3000 Leuven; info@mfccombo.be"
 src_mfc_combo_site_2352,MFC Combo FOI info@mfccombo.be,https://www.mfccombo.be/contacteer-ons/,MFC Combo VZW,2026-08-24,foi_contact,tick2352; info@mfccombo.be
+src_adem_jr2025_cw_nl,Companyweb NL Adem YE2025,https://www.companyweb.be/nl/0410147375/adem,Companyweb (NBB-derived),2026-08-24,secondary_aggregator,tick2354; omzet 961851 bruto 16858189 ~17.53x pnl -360765
+src_adem_jr2025_cw_en,Companyweb EN Adem YE2025,https://www.companyweb.be/en/0410147375/adem,Companyweb (NBB-derived),2026-08-24,secondary_aggregator,tick2354; EN Medium
+src_adem_jr2025_cw_fr,Companyweb FR Adem YE2025,https://www.companyweb.be/fr/0410147375/adem,Companyweb (NBB-derived),2026-08-24,secondary_aggregator,tick2354; FR mirror
+src_adem_kbo_2354,KBO Adem 0410.147.375,https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0410147375,KBO FOD Economie,2026-08-24,official_register,tick2354; Strong KBO Actief 3 VE RSZ 87.201
+src_adem_site_2354,Adem FOI contact,https://ademvzw.be,Adem VZW,2026-08-24,foi_contact,tick2354; info@ademvzw.be

@@ -54162,3 +54162,8 @@ bud_mfc_combo_bruto_jr2025_statutory,vzw_mfc_combo_leuven,2025,4461186,4461186,4
 bud_mfc_combo_pnl_jr2025_statutory,vzw_mfc_combo_leuven,2025,37849,37849,37849,CW statutory winst/verlies YE2025 DROP -75.34%,src_mfc_combo_jr2025_cw_en,medium,tick2352; DROP vs YE2024 153514
 bud_mfc_combo_equity_jr2025_statutory,vzw_mfc_combo_leuven,2025,2597315,2597315,2597315,CW statutory eigen_vermogen YE2025 DROP -0.07%,src_mfc_combo_jr2025_cw_en,medium,tick2352; vs YE2024 2599092
 bud_mfc_combo_fte_jr2025_statutory,vzw_mfc_combo_leuven,2025,54.4,54.4,54.4,CW FTE 54.4,src_mfc_combo_jr2025_cw_en,medium,tick2352; vs YE2024 54.6
+bud_adem_omzet_jr2025_statutory,vzw_adem_bierbeek,2025,961851,961851,961851,CW statutory omzet YE2025 JUMP,src_adem_jr2025_cw_en,medium,tick2354
+bud_adem_bruto_jr2025_statutory,vzw_adem_bierbeek,2025,16858189,16858189,16858189,CW bruto ~17.53x,src_adem_jr2025_cw_en,medium,tick2354
+bud_adem_pnl_jr2025_statutory,vzw_adem_bierbeek,2025,-360765,-360765,-360765,CW pnl LOSS JUMP,src_adem_jr2025_cw_en,medium,tick2354
+bud_adem_equity_jr2025_statutory,vzw_adem_bierbeek,2025,5713999,5713999,5713999,CW equity DROP,src_adem_jr2025_cw_en,medium,tick2354
+bud_adem_fte_jr2025_statutory,vzw_adem_bierbeek,2025,209.1,209.1,209.1,CW FTE 209.1,src_adem_jr2025_cw_en,medium,tick2354

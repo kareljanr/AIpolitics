@@ -26859,3 +26859,10 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN+FR — omzet **empty**; bruto **EUR4461186** JUMP +1.15%; pnl **EUR37849** DROP -75.34%; equity **EUR2597315**; FTE **54.4**; neerlegging **10.06.2026**. Strong KBO. Assets/debt Unknown. Medium.
 - Wrote: sources(+5) budgets(+4) commitments(+1) leaderboard(+1 pi 5.17) entities(+1) foi+draft; rq_2353=done + rq_2354 open; ticks=2352.
 - FOI: **ready not sent**. NOT every-10 (next **2360**). Next: rq_2354.
+
+### 2026-08-24T20:20:00Z - tick 2354 - rq_2354 Adem Bierbeek (bruto JUMP 16.86m / ~17.53x omzet / pnl LOSS JUMP / FTE 209.1 / Medium)
+
+- Unit: **rq_2354** leftover dual after **MFC Combo@2353**. Prefer NON-stall AGB/FARO/Gandae YE2024. Took FREE VAPH **Adem VZW** YE2025 (KBO **0410.147.375**; Klein Park 1, 3360 Bierbeek; **3 VE**; RSZ **87.201**; info@ademvzw.be).
+- Found: CW NL+EN YE2025 - omzet **EUR961851** JUMP +12.91%; bruto **EUR16858189** JUMP +4.34% (~**17.53x**); pnl **EUR-360765** LOSS JUMP; equity **EUR5713999** DROP; FTE **209.1**; neerlegging **01.07.2026**. Strong KBO. Assets/debt Unknown. Medium.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.4); entities (+1); foi + draft gap_adem_nbb_pdf_assets_debt_bruto_gt_omzet_17_53x_pnl_loss_jump_vaph_matrix_l5; rq_2354=done + rq_2355 open; loop_state ticks=2354.
+- FOI: **ready not sent**. NOT every-10 (next **2360**). Next: rq_2355.
