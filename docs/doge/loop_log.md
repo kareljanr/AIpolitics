@@ -25164,3 +25164,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2210**; next **2220**). Next: rq_2213 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
 
+
+## Tick 2213 - 2026-08-26T16:55:00Z - rq_2213 Odas Brugge (omzet JUMP 11.34m / bruto≫omzet ~1.72x / pnl LOSS NARROW -285k / Medium)
+
+- Unit: **rq_2213** leftover dual after **rq_2212 Ecoso**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **404/YE2024-class**; REW still **YE2024**. Took named FREE leftover **Odas VZW** YE2025 (KBO **0407.201.149**; Pathoekeweg 11G Brugge; **Actief** **8 VE**; RSZ NACE **88.993**) — previously deferred as YE2024-only, now live. Deferred FREE Groep Maatwerk **0421.292.675** YE2025. Do not redo Ecoso/Werkhuizen MIN/ACG/Noordheuvel/Arcor/Kemphaan/Entiris/Oesterbank/Werkplus/Trianval/Ijsedal/Aarova/MWP/AGE stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR11339072** JUMP +12.36% vs YE2024 EUR10091970; bruto **EUR19484424** JUMP +10.0% (bruto≫omzet ~1.72x); pnl **EUR-285014** LOSS NARROW +52.09% vs YE2024 EUR-594866; equity **EUR11259247** DROP -3.15%; FTE **518.1** DROP vs 521.6; neerlegging **05.06.2026**. Strong KBO Actief 8 VE. Assets/debt Unknown. Medium. FOI via info@odas.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.90); entities (+1 vzw_odas_brugge); foi + draft gap_odas_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_loss_narrow_equity_drop_matrix_l5; rq_2213=done + rq_2214 open; loop_state ticks=2213; raw docs/doge/data/raw/tick2213/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2210**; next **2220**). Next: rq_2214 (AGB/FARO-if-YE2025 / AIESH-REW / GroepMaatwerk-or-unused).
