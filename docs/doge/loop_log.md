@@ -24436,3 +24436,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+1 FTE-only); commitments (+1); leaderboard (+1 pi 5.7 opacity); entities (+1 zs_brabant_wallon); foi + draft gap_brabant_wallon_budget_jr2025_dotation_commune_fed_matrix_l5; rq_2153=done + rq_2154 open; loop_state ticks=2153; raw docs/doge/data/raw/tick2153/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2150**; next **2160**). Next: rq_2154 (AGB/FARO-if-YE2025 / AIESH-REW / Hainaut-Est / unused).
+
+## Tick 2154 - 2026-08-25T21:20:00Z - rq_2154 WZC Sint-Felix Pajottegem (omzet JUMP 4.94m / pnl JUMP +131% / equity JUMP +81% / Medium)
+
+- Unit: **rq_2154** leftover dual after **rq_2153 Zone de secours Brabant wallon** (opaque ZS FTE-only). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Skipped deferred opaque ZS Hainaut-Est 0500.915.819 (FTE 200, same opacity class). Took unused leftover **WoonZorgcentrum Sint-Felix VZW** YE2025 (KBO **0409.583.092**; Lindestraat 3 Pajottegem/Herne; **VZW** NACE **87.101** / **1 VE**; Solidum Groep). Do not redo Brabant wallon/Vesdre/Annuntiaten/Val de Sambre/HEMECO/WAPI/Hesbaye/Hainaut-Centre/Dinaphi/Zonnelied/Care-Ion/Groep SF/Sint-Augustinus Halle/Vander Stokken/Hof ter Waarbeek/Sint-Carolus Ternat/Van Lierde/OLV Lourdes.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR4943135** JUMP +1.11% vs YE2024 EUR4889080; bruto **EUR4529268** JUMP +3.40%; pnl **EUR370966** JUMP +131.25% vs YE2024 EUR160421; equity **EUR1894755** JUMP +80.81%; FTE **48.5** JUMP vs 48.1; neerlegging **02.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via wzc@sintfelix.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.8); entities (+1 vzw_wzc_sint_felix_pajottegem); foi + draft gap_sint_felix_nbb_pdf_assets_debt_pnl_equity_jump_matrix_l5; rq_2154=done + rq_2155 open; loop_state ticks=2154; raw docs/doge/data/raw/tick2154/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2150**; next **2160**). Next: rq_2155 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros; prefer sourced € over opaque ZS).
