@@ -26116,3 +26116,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.75); entities (+1 vzw_de_sprong_meerhout); foi + draft gap_desprong_nbb_pdf_assets_debt_empty_omzet_bruto_4_53m_pnl_drop_fte_jump_matrix_l5; rq_2286=done + rq_2287 open; loop_state ticks=2286; raw docs/doge/data/raw/tick2286/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2280**; next **2290**). Next: rq_2287 (AGB/FARO-if-YE2025 / AIESH-REW / Manupal-Vlotter-Buseloc-if-YE2025 / unused ETA).
+
+
+### 2026-08-27T14:30:00Z - tick 2288 - rq_2288 Village Liegeois Seraing (empty omzet / bruto JUMP 2.25m / pnl DROP / FTE JUMP 58.0 / Medium)
+
+- Unit: **rq_2288** leftover dual after **rq_2287 De Sprong** / **rq_2286 Borgerstein/WEBO**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Citeco still **YE2024**; Groupe Foes still **YE2024**; Aralea/Manupal/Vlotter/Buseloc/De Sprong still **YE2024**. Took unused FREE Walloon ETA **Village Liegeois Marie-Reine Prignon ASBL** YE2025 (KBO **0430.721.768**; Rue du Teris 25 Seraing; **Actief** **1 VE**; NACE **88.993**; abbrev C.A.P.V.A.L. Village n05 Reine Fabiola). Do not redo De Sprong/Borgerstein/WEBO/Mobiel/Posthoorn/Ateljee/Die Zukunft/Village n1 Braine@2269/Amis des Aveugles@2270 stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR2254026** JUMP +7.79% vs YE2024 EUR2091194; pnl **EUR177921** DROP -6.87% vs YE2024 EUR191047; equity **EUR2552242** JUMP +6.63%; FTE **58.0** JUMP (vs 54.5); neerlegging **23.06.2026**. Strong KBO Actief 1 VE ASBL. Assets/debt Unknown. Medium. FOI via info@villageliegeois.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.05); entities (+1 vzw_village_liegeois_seraing); foi + draft gap_village_liegeois_nbb_pdf_assets_debt_empty_omzet_bruto_2_25m_pnl_drop_fte_jump_eta_matrix_l5; rq_2288=done + rq_2289 open; loop_state ticks=2288; raw docs/doge/data/raw/tick2288/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2280**; next **2290**). Next: rq_2289 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused DSO-water-IGS-HVZ / unused ETA Roseau Vert-Ateliers Mons-Monceau / unused maatwerk De Sprong-Aralea).

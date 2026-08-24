@@ -1,0 +1,20 @@
+{
+  "tick": "2288",
+  "unit": "rq_2288",
+  "entity": "vzw_village_liegeois_seraing",
+  "kbo": "0430.721.768",
+  "omzet": null,
+  "bruto": 2254026,
+  "pnl": 177921,
+  "equity": 2552242,
+  "fte": 58.0,
+  "confidence": "medium",
+  "gap": "gap_village_liegeois_nbb_pdf_assets_debt_empty_omzet_bruto_2_25m_pnl_drop_fte_jump_eta_matrix_l5",
+  "sources": [
+    "src_village_liegeois_jr2025_cw_en",
+    "src_village_liegeois_jr2025_cw_nl",
+    "src_village_liegeois_jr2025_cw_fr",
+    "src_village_liegeois_kbo_0430721768",
+    "src_village_liegeois_site_contact_2288"
+  ]
+}
