@@ -24832,3 +24832,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_weerwerk_gent); foi + draft gap_weerwerk_nbb_pdf_assets_debt_bruto_gt_omzet_equity_jump_matrix_l5; rq_2185=done + rq_2186 open; loop_state ticks=2185; raw docs/doge/data/raw/tick2185/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2186 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2186 - 2026-08-26T08:00:00Z - rq_2186 De Brug Mortsel (omzet JUMP 12.64m / pnl LOSS FLIP -254k / bruto>omzet / Medium)
+
+- Unit: **rq_2186** leftover dual after **rq_2185 Weerwerk**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (CW Laatste balansjaar 2024; neerlegging 24.11.2025); AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **De Brug VZW** YE2025 (KBO **0408.347.828**; Waesdonckstraat 1 Mortsel; **VZW** RSZ NACE **88.993** / **1 VE**). Do not redo Weerwerk/Westlandia/InterWest/Wase Werkplaats/BWB/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever/Anima*/emeis.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR12637954** JUMP +0.73% vs YE2024 EUR12546205; bruto **EUR13046815** JUMP +2.15% (bruto>omzet); pnl **EUR-253528** LOSS FLIP vs YE2024 EUR98717; equity **EUR24599275** DROP -1.13%; FTE **341.3** JUMP vs 333; neerlegging **07.04.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 1 VE. FOI via info@debrug.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.2); entities (+1 vzw_de_brug_mortsel); foi + draft gap_de_brug_nbb_pdf_assets_debt_pnl_loss_flip_bruto_gt_omzet_matrix_l5; rq_2186=done + rq_2187 open; loop_state ticks=2186; raw docs/doge/data/raw/tick2186/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2187 (AGB/FARO-if-YE2025 / AIESH-REW / Mirto-or-unused IGS-DSO-WZC-MRS-HVZ).

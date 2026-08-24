@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T07:40:00Z,rq_2185,2185,no,tick2185 leftover WEERWERK 0465.104.904 Medium (omzet JUMP 5.54m; bruto 9.13m ≫ omzet; pnl JUMP 197k +168.9%; equity JUMP 1.84m +38.5%; FTE JUMP 205.3; 3 VE Gent); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2186; next every-10 2190; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T08:00:00Z,rq_2186,2186,no,tick2186 leftover DE BRUG 0408.347.828 Medium (omzet JUMP 12.64m; bruto 13.05m > omzet; pnl LOSS FLIP -254k from +99k; equity DROP 24.60m; FTE JUMP 341.3; 1 VE Mortsel); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2187; next every-10 2190; continuous hole_fill
