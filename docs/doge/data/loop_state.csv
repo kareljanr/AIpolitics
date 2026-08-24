@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-28T01:45:00Z,rq_2334,2334,no,tick2334 leftover dual Het GielsBos 0408.318.233 Medium (omzet JUMP 5351872; bruto JUMP 41720205 ~7.80x); after Vier Notelaars@2333 (bruto 2864452 ~5.72x pnl LOSS FLIP); AGB/FARO YE2024; next rq_2335; next EVERY-10 2340
+main,continuous,hole_fill,2026-08-24T18:05:00Z,rq_2335,2335,no,tick2335 leftover dual WonenWerken Autisme 0443.397.688 Medium (omzet JUMP 2488539; bruto JUMP 13441120 ~5.4x; pnl JUMP 2326835; equity JUMP 14663706; FTE JUMP 143.3; 1 VE Aanbestedende); after GielsBos@2334; AGB/FARO YE2024; next rq_2336; next EVERY-10 2340
