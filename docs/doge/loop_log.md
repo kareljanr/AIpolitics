@@ -26039,3 +26039,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.0); entities (+1 vzw_ateliers_du_94_la_louviere); foi + draft gap_a94_nbb_pdf_assets_debt_empty_omzet_bruto_2_56m_pnl_loss_flip_eta_care_matrix_l5; rq_2281=done + rq_2282 open; loop_state ticks=2281; raw docs/doge/data/raw/tick2281/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2280**; next **2290**). Next: rq_2282 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA Die Zukunft-Roseau Vert-Ateliers Mons-Village Liégeois-Monceau / unused DSO-water-IGS-HVZ).
+
+### 2026-08-27T13:00:00Z - tick 2282 - rq_2282 Die Zukunft Amel (omzet JUMP 1.28m / bruto~1.78x / pnl JUMP / FTE DROP 73.5 / Medium)
+
+- Unit: **rq_2282** leftover dual after **rq_2281 De Dageraad / Ateliers du 94 / Den Azalee**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Aralea/Manupal/Posthoorn/De Ploeg/Vlotter/Buseloc still **YE2024**. Took FREE Ostbelgien ETA **Die Zukunft VZW** YE2025 (KBO **0412.748.262**; Meyerode Jaseberg 12 Amel; **Actief** **1 VE**; NACE **88.993** DG Beschutzende Werkstatte). Do not redo Dageraad/A94/Azalee/eurakor/Alternatief/Reset/Ateliers Avenir stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1278800** JUMP +4.49% vs YE2024 EUR1223791; bruto **EUR2280706** JUMP +4.45% (~1.78x); pnl **EUR134370** JUMP +116.87% vs YE2024 EUR61958; equity **EUR2728815** JUMP +2.03%; FTE **73.5** (vs 77.6); neerlegging **08.05.2026**. Strong KBO Actief 1 VE VZW info@zukunft.be. Assets/debt Unknown. Medium.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.86); entities (+1 vzw_die_zukunft_amel); foi + draft gap_die_zukunft_nbb_pdf_assets_debt_bruto_gt_omzet_1_78x_pnl_jump_fte_drop_eta_matrix_l5; rq_2282=done + rq_2283 open; loop_state ticks=2282; raw docs/doge/data/raw/tick2282/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2280**; next **2290**). Next: rq_2283 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA Roseau Vert-Ateliers Mons / unused maatwerk WEBO-De Sprong).
