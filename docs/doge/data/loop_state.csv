@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T13:25:00Z,rq_2202,2202,no,tick2202 leftover Aarova 0451.263.992 Medium (omzet JUMP 5.62m; bruto≫omzet ~2.09x 11.76m; pnl LOSS -139k; equity DROP 2.47m; FTE JUMP 306.2; 6 VE) +race Kaliber YE2025 Medium; AGB Bornem JR2024; FARO YE2024; next rq_2203; next every-10 2210; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T13:40:00Z,rq_2203,2203,no,tick2203 leftover De Kromme Boom 0454.426.489 Medium (omzet 1.20m; bruto JUMP 1.00m; pnl LOSS IMPROVED -86k; equity NEG FLIP -79k; FTE JUMP 27.5; 4 VE Gent); AGB Bornem JR2024; FARO/REW YE2024; next rq_2204; next every-10 2210; continuous hole_fill

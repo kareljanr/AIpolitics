@@ -25032,3 +25032,11 @@ Append-only. Each tick adds a short entry.
 
 ### 2026-08-26T13:25:00Z - tick 2202 race note
 - Concurrent agent also closed rq_2202 as Kaliber Herentals YE2025 Medium (96e06c0c; omzet JUMP 6.38m +56% / pnl LOSS FLIP / KEMPA merger) before/with Aarova (e2e90dd4). Both YE2025 Medium units kept. rq_2203 open head updated; do not redo either. Next every-10 still 2210.
+
+## Tick 2203 - 2026-08-26T13:40:00Z - rq_2203 De Kromme Boom (omzet 1.20m / equity NEG FLIP -79k / pnl LOSS IMPROVED / Medium)
+
+- Unit: **rq_2203** leftover dual after **rq_2202 Aarova/Kaliber race**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; REW still **YE2024**. Took named FREE leftover **Maatwerkbedrijf De Kromme Boom VZW** YE2025 (KBO **0454.426.489**; Eikstraat 81 Gent Oostakker; **Actief** **4 VE**; RSZ NACE **88.993**). Do not redo Aarova/Kaliber/MWP Pajottenland/De Winning/Atelier Groot Eiland/Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1195537** (prior unpublished on CW); bruto **EUR996352** JUMP +13.59% vs YE2024 EUR877185; pnl **EUR-86344** LOSS IMPROVED +44.4% vs YE2024 EUR-155302; equity **EUR-78999** NEG FLIP from YE2024 EUR+7345; FTE **27.5** JUMP vs 26.2; neerlegging **12.06.2026**. Strong KBO Actief 4 VE. Assets/debt Unknown. Medium. FOI via dekrommeboom@telenet.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.7); entities (+1 vzw_de_kromme_boom_gent); foi + draft gap_kromme_boom_nbb_pdf_assets_debt_equity_neg_flip_pnl_loss_matrix_l5; rq_2203=done + rq_2204 open; loop_state ticks=2203; raw docs/doge/data/raw/tick2203/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2204 (AGB/FARO-if-YE2025 / AIESH-REW / Oesterbank-or-unused IGS-DSO-WZC-MRS-HVZ).
