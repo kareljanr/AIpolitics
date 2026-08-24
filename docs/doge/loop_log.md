@@ -25067,3 +25067,6 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.8); entities (+1 vzw_werkplus_maatwerk_waregem); foi + draft gap_werkplus_nbb_pdf_assets_debt_empty_omzet_pnl_drop_matrix_l5; rq_2204=done + rq_2205 open; loop_state ticks=2204; raw docs/doge/data/raw/tick2204/.
 - FOI: **ready NOT sent** (human-gated).
 - NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2205 (AGB/FARO-if-YE2025 / AIESH-REW / Oesterbank-if-YE2025-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+### 2026-08-26T14:05:00Z — tick 2204 race note
+- Concurrent agent also closed rq_2204 as Trianval Wetteren YE2025 Medium (255702be; omzet JUMP 6.10m / bruto≫omzet ~1.74x / pnl JUMP +92%) before/with Werkplus (1ac1a39c). Both YE2025 Medium units kept. rq_2205 open head updated; do not redo either. Next every-10 still 2210.
