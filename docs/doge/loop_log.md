@@ -24725,3 +24725,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.1); entities (+1 bv_farys_solar); foi + draft gap_farys_solar_nbb_pdf_assets_debt_nace_nonrenewable_solar_name_matrix_l5; rq_2176=done + rq_2177 open; loop_state ticks=2176; raw docs/doge/data/raw/tick2176/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2177 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
+## Tick 2177 - 2026-08-26T05:00:00Z - rq_2177 Stroom Maatwerk (omzet JUMP 9.20m / bruto 19.5m / FTE 495 / Medium)
+
+- Unit: **rq_2177** leftover dual after **rq_2176 Springplank / Farys Solar race**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (NBB); AIESH still **YE2024** (CW last balance 2024 / filed 17-07-2025); REW still **YE2024** (CW last balance 2024 / filed 11-12-2025). Took unused leftover **Stroom Maatwerk VZW** YE2025 (KBO **0407.839.369**; Winterling 3-7 Merksem/Antwerpen; **VZW** RSZ NACE **88.993** / BTW **88.999** / **2 VE**). Deferred FREE **Waak** 0439.993.582 (omzet 37.7m / pnl LOSS -387k / FTE 1592) + **Stijn** 0439.452.461 (omzet 22.7m / pnl 5.08m / FTE 1611). Do not redo Springplank/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever/Abdij/Aaigem/Anima*/Zorg-Saam/emeis.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR9196890** JUMP +5.5% vs YE2024 EUR8717106; bruto **EUR19463745** JUMP +4.5%; pnl **EUR437325** flat -0.62% vs YE2024 EUR440032; equity **EUR27798223** JUMP +1.35%; FTE **494.9**; neerlegging **08.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 2 VE. FOI via info@stroommaatwerk.be (tel 03 646 94 64).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_maatwerk_stroom); foi + draft gap_stroom_maatwerk_nbb_pdf_assets_debt_bruto_gt_omzet_subsidy_matrix_l5; rq_2177=done + rq_2178 open; loop_state ticks=2177; raw docs/doge/data/raw/tick2177/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2178 (AGB/FARO-if-YE2025 / AIESH-REW / Waak-or-Stijn / unused IGS-DSO-WZC-MRS-HVZ).
