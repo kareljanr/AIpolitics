@@ -25756,3 +25756,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress+top10; sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.10); entities (+1 vzw_alteria_colfontaine); foi + draft gap_alteria_nbb_pdf_assets_debt_bruto_gt_omzet_1_72x_pnl_drop_88pct_eta_matrix_l5; rq_2260=done + rq_2261 open; loop_state ticks=2260; raw docs/doge/raw/tick2260/.
 - FOI: **ready not sent** (human-gated).
 - EVERY-10@**2260** done. Next: rq_2261 (AGB/FARO-if-YE2025 / AIESH-REW / unused). Next every-10 **2270**.
+
+
+### 2026-08-27T07:25:00Z - tick 2261 - rq_2261 AJR Lobbes (omzet DROP 18.02m / -21.27% / pnl DROP -87.0% / FTE 292 / Medium)
+
+- Unit: **rq_2261** leftover dual after **rq_2260 Alteria**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; La Lorraine / BW Eupen still **YE2024**; Relais Haute Sambre/Sipres/APN/Stallbois still **YE2024**. Took named FREE Walloon ETA **AJR / Atelier Jean Regniers ASBL** YE2025 (KBO **0407.410.391**; Rue Evelyn Drory 5 Lobbes; **Actief** **1 VE**; NACE **88.993** AViQ). Do not redo Alteria/Les Erables/Val du Geer/Nekto/Belair/Corelap/Cambier stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR18015589** DROP -21.27% vs YE2024 EUR22884000; bruto **EUR11541367** DROP -13.95% (bruto/omzet ~0.64x); pnl **EUR96680** DROP -87.0% vs YE2024 EUR743761; equity **EUR4644312** JUMP +1.24%; FTE **292** (-5.23% vs 308.1); neerlegging **08.07.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via marketing@ajregniers.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.85); entities (+1 vzw_ajr_lobbes); foi + draft gap_ajr_nbb_pdf_assets_debt_omzet_drop_21pct_pnl_drop_87pct_eta_matrix_l5; rq_2261=done + rq_2262 open; loop_state ticks=2261; raw docs/doge/raw/tick2261/ + data/raw/tick2261/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2260**; next **2270**). Next: rq_2262 (AGB/FARO-if-YE2025 / AIESH-REW / unused La Lorraine-if-YE2025).

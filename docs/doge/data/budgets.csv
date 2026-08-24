@@ -53546,3 +53546,9 @@ bud_alteria_pnl_jr2025_statutory,vzw_alteria_colfontaine,2025,72779,72779,72779,
 bud_alteria_equity_jr2025_statutory,vzw_alteria_colfontaine,2025,1966154,1966154,1966154,CW statutory eigen_vermogen YE2025,src_alteria_jr2025_cw_en,medium,tick2260; Medium CW; equity JUMP +3.73% vs YE2024 1895513
 bud_alteria_fte_jr2025_statutory,vzw_alteria_colfontaine,2025,212.4,212.4,212.4,CW social-balance FTE 212.4,src_alteria_jr2025_cw_en,medium,tick2260; Medium CW; FTE 212.4; YE2024 FTE Unknown on CW page; assets/debt Unknown
 bud_alteria_pnl_jr2024_statutory_cmp,vzw_alteria_colfontaine,2024,592478,592478,592478,CW statutory winst YE2024 comparative,src_alteria_jr2025_cw_en,medium,tick2260; YE2024 pnl 592478 comparative (pre DROP -88%)
+bud_ajr_omzet_jr2025_statutory,vzw_ajr_lobbes,2025,18015589,18015589,18015589,CW statutory omzet YE2025,src_ajr_jr2025_cw_en,medium,tick2261; Medium CW; omzet DROP -21.27% vs YE2024 22884000 (primary envelope)
+bud_ajr_bruto_jr2025_statutory,vzw_ajr_lobbes,2025,11541367,11541367,11541367,CW statutory bruto_marge YE2025,src_ajr_jr2025_cw_en,medium,tick2261; Medium CW; bruto DROP -13.95%; bruto/omzet ~0.64x
+bud_ajr_pnl_jr2025_statutory,vzw_ajr_lobbes,2025,96680,96680,96680,CW statutory winst/verlies YE2025,src_ajr_jr2025_cw_en,medium,tick2261; Medium CW; pnl DROP -87.0% vs YE2024 743761
+bud_ajr_equity_jr2025_statutory,vzw_ajr_lobbes,2025,4644312,4644312,4644312,CW statutory eigen_vermogen YE2025,src_ajr_jr2025_cw_en,medium,tick2261; Medium CW; equity JUMP +1.24% vs YE2024 4587623
+bud_ajr_fte_jr2025_statutory,vzw_ajr_lobbes,2025,292,292,292,CW social-balance FTE 292,src_ajr_jr2025_cw_en,medium,tick2261; Medium CW; FTE 292 vs YE2024 308.1; assets/debt Unknown
+bud_ajr_pnl_jr2024_statutory_cmp,vzw_ajr_lobbes,2024,743761,743761,743761,CW statutory winst YE2024 comparative,src_ajr_jr2025_cw_en,medium,tick2261; YE2024 pnl 743761 comparative (pre DROP -87%)
