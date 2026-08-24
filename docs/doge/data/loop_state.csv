@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-27T22:00:00Z,rq_2315,2315,no,tick2315 leftover dual Havenzate 0407.671.895 Medium (omzet JUMP 851063; bruto JUMP 4693201 ~5.51x; pnl DROP 594899; equity JUMP 6750403; FTE 47.7; 2 VE Veurne VAPH); AGB Bornem JR2024; FARO/AIESH YE2024; next rq_2316; next EVERY-10 2320
+main,continuous,hole_fill,2026-08-27T22:15:00Z,rq_2316,2316,no,tick2316 leftover dual Ons Tehuis-Brabant 0413.336.103 Medium (omzet JUMP 1820095 +18.01%; bruto JUMP 10405932 ~5.72x; pnl JUMP 1089571 +87.8%; equity JUMP 13305684; FTE 118.5; 1 VE Kampenhout VAPH); after Havenzate@2315; AGB Bornem JR2024; FARO/AIESH YE2024; next rq_2317; next EVERY-10 2320; continuous hole_fill

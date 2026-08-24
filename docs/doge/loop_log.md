@@ -26466,3 +26466,10 @@ Append-only. Each tick adds a short entry.
 - Found: CW YE2025 omzet **EUR851063** JUMP +7.95%; bruto **EUR4693201** (~**5.51x**); pnl **EUR594899** DROP -4.08%; equity **EUR6750403** JUMP +11.2%; FTE **47.7**; filed **14.07.2026**. Medium.
 - Wrote: sources/budgets/commitments/leaderboard/entities/foi; rq_2315=done + rq_2316 open; ticks=2315.
 - FOI ready not sent. NOT every-10 (next **2320**). Next: rq_2316.
+
+### 2026-08-27T22:15:00Z - tick 2316 - rq_2316 Ons Tehuis-Brabant Kampenhout (bruto JUMP 10.41m / ~5.72x omzet / pnl JUMP +88% / FTE 118.5 / Medium)
+
+- Unit: **rq_2316** leftover dual after **Havenzate@2315**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH still **YE2024**; Gandae still **YE2024**. Took unused FREE Flemish VAPH **Ons Tehuis-Brabant VZW** YE2025 (KBO **0413.336.103**; Perksesteenweg 126, 1910 Kampenhout; **1 VE**; RSZ **87.202**; aanbestedende overheid; info@otbvzw.be). Do not redo Havenzate/Hejmen/Willekom/Iris/Huis in de Stad/Katrinahof stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1820095** JUMP +18.01%; bruto **EUR10405932** JUMP +5.55% (~5.72x); pnl **EUR1089571** JUMP +87.8%; equity **EUR13305684** JUMP +7.85%; FTE **118.5** (vs 118.0); neerlegging **07.07.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium.
+- Wrote: sources (+6); budgets (+6); commitments (+1); leaderboard (+1 pi 5.85); entities (+1 vzw_ons_tehuis_brabant); foi + draft gap_otb_nbb_pdf_assets_debt_bruto_gt_omzet_5_72x_pnl_jump_88pct_vaph_matrix_l5; rq_2316=done + rq_2317 open; loop_state ticks=2316.
+- FOI: **ready not sent**. NOT every-10 (next **2320**). Next: rq_2317.

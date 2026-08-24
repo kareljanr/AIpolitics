@@ -53948,3 +53948,9 @@ bud_havenzate_bruto_jr2025_statutory,vzw_havenzate_veurne,2025,4693201,4693201,4
 bud_havenzate_pnl_jr2025_statutory,vzw_havenzate_veurne,2025,594899,594899,594899,CW pnl,src_havenzate_jr2025_cw_en,medium,tick2315; DROP -4.08%
 bud_havenzate_equity_jr2025_statutory,vzw_havenzate_veurne,2025,6750403,6750403,6750403,CW equity,src_havenzate_jr2025_cw_en,medium,tick2315; JUMP +11.2%
 bud_havenzate_fte_jr2025_statutory,vzw_havenzate_veurne,2025,47.7,47.7,47.7,CW FTE 47.7,src_havenzate_jr2025_cw_en,medium,tick2315; assets/debt Unknown
+bud_otb_omzet_jr2025_statutory,vzw_ons_tehuis_brabant,2025,1820095,,,statutory_accounts,src_otb_jr2025_cw_en,medium,tick2316; omzet JUMP +18.01% vs 1542304
+bud_otb_bruto_jr2025_statutory,vzw_ons_tehuis_brabant,2025,10405932,,,statutory_accounts,src_otb_jr2025_cw_en,medium,tick2316; bruto JUMP +5.55% ~5.72x
+bud_otb_pnl_jr2025_statutory,vzw_ons_tehuis_brabant,2025,1089571,,,statutory_accounts,src_otb_jr2025_cw_en,medium,tick2316; pnl JUMP +87.8% vs 580167
+bud_otb_equity_jr2025_statutory,vzw_ons_tehuis_brabant,2025,13305684,,,statutory_accounts,src_otb_jr2025_cw_en,medium,tick2316; equity JUMP +7.85%
+bud_otb_fte_jr2025_statutory,vzw_ons_tehuis_brabant,2025,118.5,,,statutory_accounts,src_otb_jr2025_cw_en,medium,tick2316; FTE 118.5 vs 118.0
+bud_otb_pnl_jr2024_statutory_cmp,vzw_ons_tehuis_brabant,2024,580167,,,statutory_accounts,src_otb_jr2025_cw_en,medium,tick2316; YE2024 cmp
