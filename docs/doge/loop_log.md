@@ -24770,3 +24770,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.9); entities (+1 vzw_waak_sw); foi + draft gap_waak_sw_nbb_pdf_assets_debt_omzet_related_waak_parent_matrix_l5; rq_2180=done + rq_2181 open; loop_state ticks=2180; raw docs/doge/data/raw/tick2180/.
 - FOI: **ready not sent** (human-gated).
 - EVERY-10 done (**last every-10 was 2170**; next **2190**). Next: rq_2181 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2181 - 2026-08-26T06:20:00Z - rq_2181 MAAAT Aalst (pnl JUMP 1.79m / omzet DROP 3.65m / bruto>omzet / Medium)
+
+- Unit: **rq_2181** leftover dual after **rq_2180 EVERY-10 WAAK SW**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **MAAAT VZW** YE2025 (KBO **0407.766.422**; Wijngaardveld 7 Aalst; **VZW** NACE **88.993** / **1 VE**). Do not redo WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever/Anima*/emeis.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3645749** DROP -12.16% vs YE2024 EUR4150649; bruto **EUR6595759** DROP -1.54% (bruto≫omzet); pnl **EUR1785300** JUMP >1000% vs YE2024 EUR83141; equity **EUR11278293** JUMP +18.7%; FTE **186.8**; neerlegging **16.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 1 VE. FOI via info@maaat.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.6); entities (+1 vzw_maaat_aalst); foi + draft gap_maaat_nbb_pdf_assets_debt_pnl_jump_omzet_drop_bruto_gt_omzet_matrix_l5; rq_2181=done + rq_2182 open; loop_state ticks=2181; raw docs/doge/data/raw/tick2181/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2182 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
