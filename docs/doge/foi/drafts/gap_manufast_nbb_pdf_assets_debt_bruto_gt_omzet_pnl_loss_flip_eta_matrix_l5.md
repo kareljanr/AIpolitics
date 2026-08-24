@@ -5,13 +5,13 @@
 **entity:** Manufast-ABP ASBL — KBO **0409.118.977** (Actief; Chaussée de Gand 1434, 1082 Berchem-Sainte-Agathe; **1 VE**; FTE 234.0 CW; NACE **88.993**; Brussels CoCoF ETA)  
 **recipient:** info@manufast.be · Chaussée de Gand 1434, 1082 Brussels  
 **sources:** [CW EN](https://www.companyweb.be/en/0409118977/manufast-abp-entreprise-de-travail-adapte) · [CW NL](https://www.companyweb.be/nl/0409118977/manufast-abp-entreprise-de-travail-adapte) · [CW FR](https://www.companyweb.be/fr/0409118977/manufast-abp-entreprise-de-travail-adapte) · [KBO](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0409118977) · [site](https://www.manufast.be/)  
-**tick:** 2238  
+**tick:** 2239  
 **confidence:** Medium (Strong KBO + Medium CW YE2025; assets/debt Unknown)
 
 ## Context
 - KBO Strong: Actief ASBL; **1 VE**; zetel Chaussée de Gand Berchem-Sainte-Agathe; NACE **88.993**.
 - CW YE2025: omzet **EUR3,337,881** JUMP +1.41% vs YE2024 EUR3,291,617; bruto **EUR6,254,925** JUMP +4.29% (bruto≫omzet ~1.87x); pnl **EUR-299,652** LOSS FLIP vs YE2024 profit EUR949,872; equity **EUR1,363,356** DROP −27.53%; FTE **234.0** DROP vs 248.0; filed **16.07.2026**. Note YE2023 omzet ~EUR7.94m / FTE 357.6 (structural shrink).
-- Preferred stall: AGB Bornem JR2024; FARO/AIESH/REW YE2024; Heropbeuring CW opaque.
+- Preferred stall: AGB Bornem JR2024; FARO/AIESH/REW YE2024; Heropbeuring CW opaque. After Metalgroup@2238.
 
 ## Brief
 ```text
