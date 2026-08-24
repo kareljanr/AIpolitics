@@ -24868,3 +24868,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.2); entities (+1 vzw_blankedale_tienen); foi + draft gap_blankedale_nbb_pdf_assets_debt_pnl_drop_bruto_gt_omzet_matrix_l5; rq_2188=done + rq_2189 open; loop_state ticks=2188; raw docs/doge/data/raw/tick2188/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2189 (AGB/FARO-if-YE2025 / AIESH-REW / Kringwinkel Antwerpen-De Wroeter-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2189 - 2026-08-26T09:00:00Z - rq_2189 Kringwinkel Antwerpen (omzet JUMP 13.39m / pnl LOSS FLIP -1.05m / Medium)
+
+- Unit: **rq_2189** leftover dual after **rq_2188 Blankedale**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still YE2024-class. Took named FREE leftover **De Kringwinkel Antwerpen VZW (DKA)** YE2025 (KBO **0442.423.037**; Deurnsebaan 52 Antwerpen; **VZW** RSZ NACE **88.993** / **16 VE**). Deferred FREE De Wroeter / Demival / Mivas. Do not redo Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR13392667** JUMP +10.36% vs YE2024 EUR12135291; bruto **EUR17680883** JUMP +4.47% (bruto≫omzet); pnl **EUR-1051340** LOSS FLIP vs YE2024 EUR+370212; equity **EUR3545202** DROP -23.29%; FTE **407** JUMP vs 365.5; neerlegging **26.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 16 VE DKA. FOI via info@dekringwinkelantwerpen.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.8); entities (+1 vzw_kringwinkel_antwerpen); foi + draft gap_kringwinkel_antwerpen_nbb_pdf_assets_debt_pnl_loss_flip_equity_drop_matrix_l5; rq_2189=done + rq_2190 open EVERY-10; loop_state ticks=2189; raw docs/doge/data/raw/tick2189/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2190 EVERY-10 (AGB/FARO-if-YE2025 / AIESH-REW / De Wroeter-Demival-Mivas-or-unused IGS-DSO-WZC-MRS-HVZ).
