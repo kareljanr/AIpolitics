@@ -54072,3 +54072,8 @@ bud_ww_autisme_bruto_jr2025_statutory,vzw_wonen_werken_autisme_pajottegem,2025,1
 bud_ww_autisme_pnl_jr2025_statutory,vzw_wonen_werken_autisme_pajottegem,2025,2326835,2326835,2326835,CW statutory winst/verlies YE2025 JUMP,src_ww_autisme_jr2025_cw_en,medium,tick2335; +113.75% vs 1088580
 bud_ww_autisme_equity_jr2025_statutory,vzw_wonen_werken_autisme_pajottegem,2025,14663706,14663706,14663706,CW statutory eigen_vermogen YE2025 JUMP,src_ww_autisme_jr2025_cw_en,medium,tick2335; +17.99% vs 12427489
 bud_ww_autisme_fte_jr2025_statutory,vzw_wonen_werken_autisme_pajottegem,2025,143.3,143.3,143.3,CW FTE 143.3,src_ww_autisme_jr2025_cw_en,medium,tick2335; FTE JUMP vs 126.5
+bud_wwpa_bruto_jr2025_statutory,vzw_wwpa_de_okkernoot_pajottegem,2025,13441120,13441120,13441120,CW statutory bruto YE2025 primary (~5.4x omzet),src_wwpa_jr2025_cw_en,medium,tick2333; bruto 13441120 JUMP +28.04% vs 10497948
+bud_wwpa_omzet_jr2025_statutory,vzw_wwpa_de_okkernoot_pajottegem,2025,2488539,2488539,2488539,CW statutory omzet YE2025 JUMP,src_wwpa_jr2025_cw_en,medium,tick2333; omzet 2488539 JUMP +32.25% vs 1881671
+bud_wwpa_pnl_jr2025_statutory,vzw_wwpa_de_okkernoot_pajottegem,2025,2326835,2326835,2326835,CW statutory pnl YE2025 JUMP,src_wwpa_jr2025_cw_en,medium,tick2333; pnl 2326835 JUMP +113.75% vs 1088580
+bud_wwpa_equity_jr2025_statutory,vzw_wwpa_de_okkernoot_pajottegem,2025,14663706,14663706,14663706,CW statutory equity YE2025 JUMP,src_wwpa_jr2025_cw_en,medium,tick2333; equity 14663706 JUMP +17.99% vs 12427489
+bud_wwpa_fte_jr2025_statutory,vzw_wwpa_de_okkernoot_pajottegem,2025,143.3,143.3,143.3,CW FTE YE2025 JUMP,src_wwpa_jr2025_cw_en,medium,tick2333; FTE 143.3 JUMP vs 126.5
