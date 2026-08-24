@@ -25665,3 +25665,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.90); entities (+1 vzw_les_dauphins_gembloux); foi + draft gap_dauphins_gembloux_nbb_pdf_assets_debt_pnl_loss_flip_eta_matrix_l5; rq_2251=done + rq_2252 open; loop_state ticks=2251; raw docs/doge/data/raw/tick2251/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2250**; next **2260**). Next: rq_2252 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
+
+
+## Tick 2252 - 2026-08-27T05:10:00Z - rq_2252 Le Moulin de la Hunelle Chièvres (omzet 2.05m / bruto~1.7x / pnl LOSS FLIP / FTE 111.4 / Medium)
+
+- Unit: **rq_2252** leftover dual after **rq_2251 Les Dauphins**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Sipres/APN still **YE2024**. Took named FREE Walloon ETA **Le Moulin de la Hunelle ASBL** YE2025 (KBO **0411.558.033**; Rue d'Ath 90 Chièvres; **Actief** **2 VE**; NACE **88.993** AViQ / Hainaut). Deferred FREE Les Gaillettes. Do not redo Dauphins/Saupont/Serviplast/Jean Del'Cour stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2045841** DROP -2.83% vs YE2024 EUR2105324; bruto **EUR3467890** DROP -7.33% (bruto≫omzet ~1.7x); pnl **EUR-18963** LOSS FLIP vs YE2024 profit EUR82461; equity **EUR6458761** DROP -0.29%; FTE **111.4**; neerlegging **01.07.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown. Medium. FOI via info@hunelle.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.70); entities (+1 vzw_moulin_hunelle_chievres); foi + draft gap_hunelle_nbb_pdf_assets_debt_bruto_gt_omzet_1_70x_pnl_loss_flip_eta_matrix_l5; rq_2252=done + rq_2253 open; loop_state ticks=2252; raw docs/doge/raw/tick2252/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2250**; next **2260**). Next: rq_2253 (AGB/FARO-if-YE2025 / AIESH-REW / unused Gaillettes).
