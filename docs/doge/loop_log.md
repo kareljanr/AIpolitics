@@ -24428,3 +24428,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+1 FTE-only); commitments (+1); leaderboard (+1 pi 5.45 opacity); entities (+1 zs_vesdre); foi + draft gap_vesdre_budget_jr2025_dotation_commune_fed_matrix_l5; rq_2152=done + rq_2153 open; loop_state ticks=2152; raw docs/doge/data/raw/tick2152/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2150**; next **2160**). Next: rq_2153 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+## Tick 2153 - 2026-08-25T21:00:00Z - rq_2153 Zone de secours du Brabant wallon (FTE 200 / budget Unknown FOI / Medium)
+
+- Unit: **rq_2153** leftover dual after **rq_2152 Vesdre**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Zone de secours du Brabant wallon** (KBO **0500.915.423**; Chaussée des Collines 52/5 Wavre; **Hulpverleningszone** / **7 VE**; NACE **84.250**; province-wide **27 communes**). Deferred Hainaut-Est 0500.915.819 (FTE 200 probed). Do not redo Vesdre/Annuntiaten/Val de Sambre/HEMECO/WAPI/Hesbaye/ZHC/Dinaphi/Flemish HVZ stack.
+- Found: Strong KBO Actief + Medium CW FTE **200**; **no** CW/NBB YE kerncijfers (Laatste balansjaar N/A; omzet/bruto/pnl/equity/budget **Unknown**). FOI via zonedesecours@incendiebw.be. No invented euros.
+- Wrote: sources (+5); budgets (+1 FTE-only); commitments (+1); leaderboard (+1 pi 5.7 opacity); entities (+1 zs_brabant_wallon); foi + draft gap_brabant_wallon_budget_jr2025_dotation_commune_fed_matrix_l5; rq_2153=done + rq_2154 open; loop_state ticks=2153; raw docs/doge/data/raw/tick2153/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2150**; next **2160**). Next: rq_2154 (AGB/FARO-if-YE2025 / AIESH-REW / Hainaut-Est / unused).
