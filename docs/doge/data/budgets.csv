@@ -53847,3 +53847,9 @@ bud_mpi_oosterlo_omzet_jr2025_statutory,vzw_mpi_oosterlo_geel,2025,2763794,27637
 bud_mpi_oosterlo_pnl_jr2025_statutory,vzw_mpi_oosterlo_geel,2025,172880,172880,172880,CW statutory pnl YE2025 DROP,src_mpi_oosterlo_jr2025_cw_en,medium,tick2300; pnl 172880 DROP -72.17% vs YE2024 621237
 bud_mpi_oosterlo_equity_jr2025_statutory,vzw_mpi_oosterlo_geel,2025,20252849,20252849,20252849,CW statutory equity YE2025 JUMP,src_mpi_oosterlo_jr2025_cw_en,medium,tick2300; equity 20252849 JUMP +21.91% vs 16612538
 bud_mpi_oosterlo_fte_jr2025_statutory,vzw_mpi_oosterlo_geel,2025,371.6,371.6,371.6,CW FTE YE2025,src_mpi_oosterlo_jr2025_cw_en,medium,tick2300; FTE 371.6 vs 362.5
+bud_havinet_omzet_jr2025_statutory,vzw_havinet_grimbergen,2025,4242068,,,statutory_accounts,src_havinet_jr2025_cw_en,medium,tick2301; Medium CW; omzet JUMP +2.66% vs YE2024 4132111
+bud_havinet_bruto_jr2025_statutory,vzw_havinet_grimbergen,2025,29388752,,,statutory_accounts,src_havinet_jr2025_cw_en,medium,tick2301; Medium CW; bruto JUMP +4.41% vs YE2024 28148555; bruto/omzet ~6.93x
+bud_havinet_pnl_jr2025_statutory,vzw_havinet_grimbergen,2025,870523,,,statutory_accounts,src_havinet_jr2025_cw_en,medium,tick2301; Medium CW; pnl JUMP +9.99% vs YE2024 791466
+bud_havinet_equity_jr2025_statutory,vzw_havinet_grimbergen,2025,31190394,,,statutory_accounts,src_havinet_jr2025_cw_en,medium,tick2301; Medium CW; equity JUMP +6.09% vs YE2024 29399852
+bud_havinet_fte_jr2025_statutory,vzw_havinet_grimbergen,2025,365.9,,,statutory_accounts,src_havinet_jr2025_cw_en,medium,tick2301; Medium CW; FTE DROP 365.9 vs YE2024 372.2; assets/debt Unknown
+bud_havinet_pnl_jr2024_statutory_cmp,vzw_havinet_grimbergen,2024,791466,,,statutory_accounts,src_havinet_jr2025_cw_en,medium,tick2301; YE2024 pnl 791466 comparative

@@ -26309,3 +26309,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.45); entities (+1 vzw_mpi_oosterlo_geel); foi + draft gap_mpi_oosterlo_nbb_pdf_assets_debt_bruto_gt_omzet_10_7x_pnl_drop_72pct_equity_jump_vaph_matrix_l5; rq_2300=done + rq_2301 open; loop_state ticks=2300; raw docs/doge/data/raw/tick2300/; **EVERY-10** refreshed `progress_every_10_ticks.md` + `doge_waste_top10_current.md`.
 - FOI: **ready not sent** (human-gated).
 - **EVERY-10 @ 2300** (last was 2290; next **2310**). Next: rq_2301 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
+
+### 2026-08-27T18:15:00Z - tick 2301 - rq_2301 Havinet Grimbergen (bruto JUMP 29.39m / ~6.93x omzet / pnl JUMP / FTE DROP 365.9 / Medium)
+
+- Unit: **rq_2301** leftover dual after **De Kiem EVERY-10@2300** (took over stale in_progress claim). Prefer NON-stall: AGB Bornem still **JR2024**; FARO/AIESH/Citeco/Groupe Foes/Gandae still **YE2024**. Took FREE Flemish VAPH dual **Havinet VZW** YE2025 (KBO **0642.602.234**; Schildpadstraat 30 Grimbergen; **Actief** **11 VE**; RSZ **87.202**; absorbed Eigen Thuis+Zonnestraal+De Valier; info@havinet.be). Do not redo De Kiem/JOMI/De Stobbe/De Okkernoot/SOBO/Ryhove/Entiris/Mirto/Blankedale/Werkmmaat stack.
+- Found: Companyweb EN YE2025 - omzet **EUR4242068** JUMP +2.66%; bruto **EUR29388752** JUMP +4.41% (~6.93x); pnl **EUR870523** JUMP +9.99%; equity **EUR31190394** JUMP +6.09%; FTE **365.9** DROP (vs 372.2); neerlegging **17.07.2026**. Strong KBO Actief 11 VE. Assets/debt Unknown. Medium. FOI via info@havinet.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 7.15); entities (+1 vzw_havinet_grimbergen); foi + draft gap_havinet_nbb_pdf_assets_debt_bruto_gt_omzet_6_93x_pnl_jump_vaph_matrix_l5; rq_2301=done + rq_2302 open; loop_state ticks=2301; raw docs/doge/data/raw/tick2301/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2300**; next **2310**). Next: rq_2302.

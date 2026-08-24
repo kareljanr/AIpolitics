@@ -1,0 +1,14 @@
+{
+  "tick": "2301",
+  "unit": "rq_2301",
+  "entity": "vzw_havinet_grimbergen",
+  "kbo": "0642.602.234",
+  "omzet": 4242068,
+  "bruto": 29388752,
+  "pnl": 870523,
+  "equity": 31190394,
+  "fte": 365.9,
+  "ratio_bruto_omzet": 6.93,
+  "confidence": "medium",
+  "gap": "gap_havinet_nbb_pdf_assets_debt_bruto_gt_omzet_6_93x_pnl_jump_vaph_matrix_l5"
+}
