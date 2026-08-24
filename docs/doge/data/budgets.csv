@@ -54020,3 +54020,9 @@ bud_ithaka_bruto_jr2025_statutory,vzw_ithaka_oostende,2025,1680736,1680736,16807
 bud_ithaka_pnl_jr2025_statutory,vzw_ithaka_oostende,2025,-29736,-29736,-29736,CW statutory pnl YE2025 LOSS FLIP,src_ithaka_jr2025_cw_en,medium,tick2325; pnl -29736 LOSS FLIP vs profit 116416
 bud_ithaka_equity_jr2025_statutory,vzw_ithaka_oostende,2025,1029376,1029376,1029376,CW statutory equity YE2025 DROP,src_ithaka_jr2025_cw_en,medium,tick2325; equity 1029376 DROP -3.92% vs 1071386
 bud_ithaka_fte_jr2025_statutory,vzw_ithaka_oostende,2025,20.8,20.8,20.8,CW FTE YE2025,src_ithaka_jr2025_cw_en,medium,tick2325; FTE 20.8 vs 20.2
+bud_zonnebeke_sj_omzet_jr2025_statutory,vzw_zorgcentrum_sint_jozef_zonnebeke,2025,7250810,7250810,7250810,CW statutory omzet YE2025 primary WZC,src_zonnebeke_sint_jozef_jr2025_cw_en,medium,tick2326; +2.16% vs 7097174
+bud_zonnebeke_sj_bruto_jr2025_statutory,vzw_zorgcentrum_sint_jozef_zonnebeke,2025,7157383,7157383,7157383,CW bruto YE2025,src_zonnebeke_sint_jozef_jr2025_cw_en,medium,tick2326; +3.19% vs 6936065
+bud_zonnebeke_sj_pnl_jr2025_statutory,vzw_zorgcentrum_sint_jozef_zonnebeke,2025,268729,268729,268729,CW pnl YE2025 JUMP,src_zonnebeke_sint_jozef_jr2025_cw_en,medium,tick2326; +68.64% vs 159351
+bud_zonnebeke_sj_equity_jr2025_statutory,vzw_zorgcentrum_sint_jozef_zonnebeke,2025,4943062,4943062,4943062,CW equity YE2025,src_zonnebeke_sint_jozef_jr2025_cw_en,medium,tick2326; +5.72% vs 4675412
+bud_zonnebeke_sj_fte_jr2025_statutory,vzw_zorgcentrum_sint_jozef_zonnebeke,2025,101.0,101.0,101.0,CW FTE 101.0,src_zonnebeke_sint_jozef_jr2025_cw_en,medium,tick2326; vs 98.2
+bud_zonnebeke_sj_pnl_jr2024_statutory_cmp,vzw_zorgcentrum_sint_jozef_zonnebeke,2024,159351,159351,159351,CW pnl YE2024 cmp,src_zonnebeke_sint_jozef_jr2025_cw_en,medium,tick2326; cmp

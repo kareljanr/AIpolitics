@@ -26575,3 +26575,12 @@ Append-only. Each tick adds a short entry.
 - Found: Companyweb NL+EN+FR YE2025 - omzet **empty**; bruto **EUR1680736** JUMP +5.17%; pnl **EUR-29736** LOSS FLIP; equity **EUR1029376** DROP -3.92%; FTE **20.8**; neerlegging **18.06.2026**. Strong KBO Actief. Assets/debt Unknown. Medium. FOI via info@vzw-ithaka.be.
 - Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 4.9); entities (+1); foi + draft gap_ithaka_nbb_pdf_assets_debt_empty_omzet_bruto_1_68m_pnl_loss_flip_vaph_matrix_l5; rq_2325=done + rq_2326 open; loop_state ticks=2325.
 - FOI: **ready not sent**. NOT every-10 (next **2330**). Next: rq_2326.
+
+## tick 2326 — 2026-08-28T00:05:00Z — rq_2326 Zonnebeke Sint-Jozef YE2025
+
+- **Unit:** leftover dual WZC VZW Zorgcentrum Sint-Jozef (KBO 0450.265.783) Zonnebeke after aPart@2325.
+- **Primary €:** omzet **EUR7250810**; Medium CW; PI **4.55**.
+- **Also:** pnl JUMP EUR268729 (+68.64%); bruto EUR7157383; equity EUR4943062; FTE 101.0; filed 04.06.2026.
+- **Writes:** entities/sources/budgets/commitments/leaderboard + FOI `gap_zonnebeke_sint_jozef_nbb_pdf_assets_debt_omzet_7_25m_pnl_jump_wzc_matrix_l5` ready NOT sent.
+- **Stalls:** AGB Bornem JR2024; FARO/AIESH/Citeco YE2024.
+- **Next:** rq_2327 open; next EVERY-10 **2330**.
