@@ -25456,3 +25456,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.90); entities (+1 vzw_het_rekreatief_wilrijk); foi + draft gap_het_rekreatief_nbb_pdf_assets_debt_empty_omzet_pnl_profit_flip_matrix_l5; rq_2235=done + rq_2236 open; loop_state ticks=2235; raw docs/doge/raw/tick2235/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2236 (AGB/FARO-if-YE2025 / AIESH-REW / unused-VAPH-WZC-maatwerk).
+
+
+## Tick 2235 - 2026-08-27T00:15:00Z - rq_2235 Entra Fleurus (omzet JUMP 28.61m / bruto 35.33m ~1.23x / FTE 885 / Medium)
+
+- Unit: **rq_2235** leftover dual after **rq_2234 Ateliers de Tertre**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Gandae/NLZ already mined. Took FREE unused Walloon ETA **Entra ASBL / Entraide par le Travail** YE2025 (KBO **0406.645.972**; Rue du Tilloi 11 Fleurus/Heppignies; **Actief** **1 VE**; NACE **88.993**; largest Walloon ETA). Deferred FREE **Enghien** / **EntrAnam**. Do not redo Ateliers Tertre/Le Rucher/Travie/SDB stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR28614682** JUMP +5.41% vs YE2024 EUR27146011; bruto **EUR35333600** JUMP +0.30% (bruto≫omzet ~1.23x); pnl **EUR579837** DROP -2.17% vs YE2024 EUR592708; equity **EUR12873938** JUMP +3.98%; FTE **885.2** JUMP vs 878.1; neerlegging **30.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via scm@entra.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.50); entities (+1 vzw_entra_fleurus); foi + draft gap_entra_nbb_pdf_assets_debt_bruto_gt_omzet_eta_aviq_matrix_l5; rq_2235=done + rq_2236 open; loop_state ticks=2235; raw docs/doge/raw/tick2235/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2236 (AGB/FARO-if-YE2025 / AIESH-REW / Enghien-EntrAnam-or-unused).
