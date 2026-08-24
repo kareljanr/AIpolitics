@@ -1,0 +1,16 @@
+{
+  "tick": "2342",
+  "unit": "rq_2342",
+  "entity": "vzw_aurelia_kortrijk",
+  "kbo": "0878.745.863",
+  "omzet": 6280971,
+  "bruto": 6339122,
+  "pnl": 142185,
+  "equity": 1291057,
+  "fte": 81.6,
+  "ratio": 1.01,
+  "confidence": "medium",
+  "gap": "gap_aurelia_nbb_pdf_assets_debt_omzet_6_28m_pnl_jump_home_care_matrix_l5",
+  "pi": 4.35,
+  "every10": true
+}
