@@ -24396,3 +24396,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+1 FTE-only); commitments (+1); leaderboard (+1 pi 5.3 opacity); entities (+1 zs_wallonie_picarde); foi + draft gap_wapi_budget_jr2025_dotation_commune_fed_matrix_l5; rq_2148=done + rq_2149 open; loop_state ticks=2148; raw docs/doge/data/raw/tick2148/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2140**; next **2150**). Next: rq_2149 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+## Tick 2149 - 2026-08-25T19:40:00Z - rq_2149 Zone de secours HEMECO (FTE 50 / budget Unknown FOI / Medium)
+
+- Unit: **rq_2149** leftover dual after **rq_2148 Wallonie Picarde** (race: concurrent closed 2148 as WAPI while this fire probed HEMECO). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Zone de secours HEMECO** (KBO **0500.916.710**; Rue de la Mairie 30 Huy; **Hulpverleningszone** / **2 VE**; NACE **84.250**; aanbestedende overheid; 15 communes Hesbaye-Meuse-Condroz). Deferred Val de Sambre 0500.927.004 (same opacity class). Do not redo WAPI/Hesbaye/Hainaut-Centre/Dinaphi/Zonnelied/Flemish HVZ stack.
+- Found: Strong KBO Actief + Medium CW FTE **50**; **no** CW/NBB YE kerncijfers (Laatste balansjaar N/A; omzet/bruto/pnl/equity/budget **Unknown**). FOI via info@zshemeco.be for comptes 2025 + budget 2026 + communal/federal dotations. No invented euros.
+- Wrote: sources (+5); budgets (+1 FTE-only); commitments (+1); leaderboard (+1 pi 5.2 opacity); entities (+1 zs_hemeco); foi + draft gap_hemeco_budget_jr2025_dotation_commune_fed_matrix_l5; rq_2149=done + rq_2150 open; loop_state ticks=2149; raw docs/doge/data/raw/tick2149/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2140**; next **2150**). Next: rq_2150 (AGB/FARO-if-YE2025 / AIESH-REW / Val de Sambre / unused IGS-DSO-WZC-MRS).
