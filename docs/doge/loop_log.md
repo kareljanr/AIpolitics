@@ -24914,3 +24914,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.1); entities (+1 vzw_a_kwadraat_turnhout); foi + draft gap_a_kwadraat_nbb_pdf_assets_debt_bruto_gt_omzet_matrix_l5; rq_2193=done + rq_2194 open; loop_state ticks=2193; raw docs/doge/data/raw/tick2193/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2194 (AGB/FARO-if-YE2025 / AIESH-REW / Forena-Kunnig-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2193 - 2026-08-26T10:20:00Z - rq_2193 SW-WEB Turnhout (omzet JUMP 5.72m / pnl LOSS DEEPEN -1.53m / equity DROP -43% / Medium)
+
+- Unit: **rq_2193** leftover dual after **rq_2192 Mivas**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024** (0644.638.937). Took unused leftover **Sociale Werkplaatsen - WEB / SW-WEB VZW** YE2025 (KBO **0465.707.391**; Steenweg op Tielen 70 Turnhout; **VZW** RSZ NACE **88.993** / **7 VE**). Deferred FREE **BWZ Zottegem** 0407.657.148 (omzet 10.16m) / **De Schakel Balen** 0419.461.652 (bruto≫omzet ~7x) / BosKat / Atelier Groot Eiland. Do not redo Mivas/Demival/De Wroeter/Kringwinkel Antwerpen/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR5723867** JUMP +15.78% vs YE2024 EUR4943779; bruto **EUR7553796** JUMP +7.37% (bruto≫omzet); pnl **EUR-1527550** LOSS DEEPEN -266.43% vs YE2024 EUR-416876; equity **EUR2030983** DROP -43.25%; FTE **206.1** JUMP vs 172.3; neerlegging **30.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 7 VE (info@webwerkt.be). FOI via info@webwerkt.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.8); entities (+1 vzw_sw_web_turnhout); foi + draft gap_sw_web_nbb_pdf_assets_debt_pnl_loss_deepen_equity_drop_bruto_gt_omzet_fte_jump_matrix_l5; rq_2193=done + rq_2194 open; loop_state ticks=2193; raw docs/doge/data/raw/tick2193/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2194 (AGB/FARO-if-YE2025 / AIESH-REW / BWZ-De Schakel-or-unused IGS-DSO-WZC-MRS-HVZ).
