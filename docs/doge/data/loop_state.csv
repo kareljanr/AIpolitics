@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T02:05:00Z,rq_2168,2168,no,tick2168 race-recover Sint Lodewijk Schilde 0410.127.084 Medium (omzet JUMP 8.43m; pnl DROP 169k -65%; equity JUMP 12.57m; FTE 120.7) + concurrent Lork Hoeselt; AGB Bornem JR2024; FARO/AIESH/REW YE2024; Aaigem/Melis FREE deferred; next rq_2169; next every-10 2170; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T02:20:00Z,rq_2169,2169,no,tick2169 leftover Sint-Vincentius Aaigem 0644.843.825 Medium (bruto JUMP 743k; omzet empty; pnl LOSS FLIP 97.8k; equity JUMP 4.25m; FTE 0; dual WZC 0422620585); AGB Bornem JR2024; FARO/AIESH/REW YE2024; Melis FREE deferred; next rq_2170; EVERY-10 at 2170; continuous hole_fill
