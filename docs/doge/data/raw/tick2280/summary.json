@@ -1,0 +1,21 @@
+{
+  "tick": "2280",
+  "unit": "rq_2280",
+  "entity": "sc_eurakor_leuze",
+  "kbo": "0407.408.512",
+  "omzet": 6440876,
+  "bruto": 3320061,
+  "pnl": 40244,
+  "equity": 1992699,
+  "fte": 206.5,
+  "ratio_bruto_omzet": 0.52,
+  "confidence": "medium",
+  "gap": "gap_eurakor_nbb_pdf_assets_debt_omzet_drop_6_44m_pnl_drop_85pct_eta_matrix_l5",
+  "sources": [
+    "src_eurakor_jr2025_cw_en",
+    "src_eurakor_jr2025_cw_nl",
+    "src_eurakor_jr2025_cw_fr",
+    "src_eurakor_kbo_0407408512",
+    "src_eurakor_site_contact_2280"
+  ]
+}

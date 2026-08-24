@@ -25998,3 +25998,19 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.10); entities (+1 vzw_ateliers_de_lavenir_grace_hollogne); foi + draft gap_ateliers_avenir_nbb_pdf_assets_debt_omzet_jump_6_73m_pnl_loss_widen_equity_drop_eta_matrix_l5; rq_2279=done + rq_2280 open (EVERY-10); loop_state ticks=2279; raw docs/doge/data/raw/tick2279/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2280 (EVERY-10 progress refresh + AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
+
+### 2026-08-27T12:30:00Z - tick 2280 - rq_2280 EVERY-10 + eurakor Leuze (omzet DROP 6.44m / pnl DROP -85% / FTE JUMP 206.5 / Medium)
+
+- Unit: **rq_2280** EVERY-10 mandatory + leftover dual after **rq_2279 Ateliers de l'Avenir**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (CW Laatste balansjaar 2024; neerlegging 24.11.2025); AIESH still **YE2024** (0201.712.587; neerlegging 17.07.2025); REW still **YE2024**; Citeco/Groupe Foes still **YE2024**; Manupal still **YE2024**; Heropbeuring still **CW opaque**. Took unused FREE Walloon ETA **eurakor SC** YE2025 (KBO **0407.408.512**; Zone industrielle de l'Europe(L) II 3-9 Leuze-en-Hainaut; **Actief** **2 VE SC**; NACE **88.993** AViQ packaging/logistics/green; DISTINCT Le Rucher@2233 same zone). Do not redo Ateliers de l'Avenir/IN-Z/m-accent/AMAB/C.A.R.P./A.P.A.C./Le Rucher/Metalgroup stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR6440876** DROP -9.67% vs YE2024 EUR7130470; bruto **EUR3320061** DROP -1.72% (bruto÷omzet ~0.52x); pnl **EUR40244** DROP -84.58% vs YE2024 EUR260922; equity **EUR1992699** DROP -2.89%; FTE **206.5** JUMP (vs 196.2); neerlegging **30.07.2026**. Strong KBO Actief 2 VE SC. Assets/debt Unknown. Medium. FOI via info@eurakor.com.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.25); entities (+1 sc_eurakor_leuze); foi + draft gap_eurakor_nbb_pdf_assets_debt_omzet_drop_6_44m_pnl_drop_85pct_eta_matrix_l5; rq_2280=done + rq_2281 open; loop_state ticks=2280; raw docs/doge/data/raw/tick2280/.
+- FOI: **ready not sent** (human-gated).
+- EVERY-10: refreshed `progress_every_10_ticks.md` + `doge_waste_top10_current.md` from on-disk CSVs. TE denom €347.956 bn.
+  - **A L0:** **100%**
+  - **B L1:** **100%**
+  - **C L2:** **~99%**
+  - **D L5:** **~74-88%** generous (residual dual gain 2271-2280; not near-complete of 348bn)
+  - **E FOI-ready:** **~1941** drafts ready (answered ~11; partial ~28; total ~1993)
+  - Pure annual waste top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10).
+- Inventory: budgets 53695 · commitments 5990 · leaderboard 8111 · entities 2019 · sources 6510 · FOI ready 1941.
+- Next: rq_2281 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk). Next EVERY-10 **2290**.

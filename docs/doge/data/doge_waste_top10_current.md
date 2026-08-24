@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2270** (2026-08-27) · **8096+** leaderboard rows  
+**As-of:** tick **2280** (2026-08-27) · **8111+** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt AGB / scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,23 +27,21 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **university/city balance sheets** · **AGB/zorg dual + IGS/HVZ/CAW/CGG/woonmaatschappij/thuiszorg shells** · **NEW residual 2261-2270:** **Amis des Aveugles bruto 6.40m / omzet 1.88m / bruto~3.40× / pnl LOSS −4.74m / equity 39.2m / FTE 172.9** (EVERY-10@2270 primary) · **Hautes Ardennes bruto 12.66m / omzet 3.08m / bruto~4.11× / pnl DROP −84% / FTE 220.6** (same-tick race fill) · **Village n°1 bruto 18.11m / ~1.49× / LOSS FLIP / FTE 609.1** · **Trait d'Union bruto 11.74m / ~2.19× / pnl DROP −55%** · **AJR omzet 18.02m DROP −21% / pnl DROP −87%** · **Brochage Renaitre bruto 5.63m / ~1.78× / LOSS WIDEN** · **La Lorraine / Sipres / Stallbois / BW Eupen / APRE / L'Ouvroir** · prior 2251-2260 Alteria/Nekto/Val du Geer/Les Erables stack retained · Walloon HVZ opacity stack · prior nuclear/Fluxys/Elia/Enodia/RESA · **LUWA PPP €590m** · private gambling **€31.5bn** market.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **university/city balance sheets** · **AGB/zorg dual + IGS/HVZ/CAW/CGG/woonmaatschappij/thuiszorg shells** · **NEW residual 2271-2280:** **eurakor omzet 6.44m DROP −9.67% / bruto~0.52× / pnl DROP −85% / FTE JUMP 206.5** (EVERY-10@2280 primary) · **Ateliers de l'Avenir omzet 6.73m / pnl LOSS WIDEN / equity DROP −4.5% / FTE 144.8** · **IN-Z omzet 14.36m / bruto~1.67× / LOSS WIDEN / FTE 627.5** · **AMAB omzet 14.18m / bruto~1.53× / LOSS FLIP / FTE 645.1** · **m-accent / C.A.R.P. / A.P.A.C. / Atelier 85 / Fournipac / La Gaume / Adapta / Saint-Vincent / De Enter / Serre-Outil** · prior 2261-2270 Amis/Hautes/Village n1 stack retained · Walloon HVZ opacity stack · prior nuclear/Fluxys/Elia/Enodia/RESA · **LUWA PPP €590m** · private gambling **€31.5bn** market.
 
-**Change vs tick 2260:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10; Metro3/OWV snowball filtered as stock). Re-verified from leaderboard (corrupt AGB/scoring pi>10 / Metro3 stock / OWV snowball stock filtered off; seed/open TE-FFS rows retained for pure annual ranking). Tie-break among pi=8.5 puts fossil accises ahead of company cars by annual €; among pi=8.4 dual cars falls to #10 by annual €. **Major NEW residual 2261-2270 (off pure top10 / dual):** AJR · BW Eupen · La Lorraine · Sipres · Stallbois · Renaitre · APRE · Trait · Ouvroir · Village n1 · **Amis des Aveugles bruto 6.40m / ~3.40× / pnl LOSS −4.74m** (EVERY-10@2270 primary) · **Hautes Ardennes bruto 12.66m / ~4.11× / pnl DROP −84%** (race fill). Count NEW since 2260: ~12 residual dual fills. **Prior 2251-2260 + 2241-2250 stacks retained.** Not TE-additive of ~348bn.
+**Change vs tick 2270:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10; Metro3/OWV snowball filtered as stock). Re-verified from leaderboard (corrupt AGB/scoring pi>10 / Metro3 stock / OWV snowball stock filtered off; seed/open TE-FFS rows retained for pure annual ranking). Tie-break among pi=8.5 puts fossil accises ahead of company cars by annual €; among pi=8.4 dual cars falls to #10 by annual €. **Major NEW residual 2271-2280 (off pure top10 / dual):** Serre-Outil · De Enter · Fournipac · La Gaume · Atelier 85 · Adapta · APAC · Saint-Vincent · CARP · AMAB · IN-Z · m-accent · Ateliers de l'Avenir · **eurakor omzet 6.44m DROP −9.67% / pnl DROP −85% / FTE JUMP 206.5** (EVERY-10@2280 primary). Count NEW since 2270: ~14 residual dual fills. **Prior 2261-2270 + 2251-2260 stacks retained.** Not TE-additive of ~348bn.
 
 ### High-absurdity residual (not pure top10)
 
-- **Amis des Aveugles** EVERY-10 primary bruto **EUR6.40m** / omzet **EUR1.88m** (~**3.40×**) / pnl LOSS **-4.74m** / equity **EUR39.2m** / FTE **172.9** — Mons blind-care + ETA subsidy opacity.
-- **Hautes Ardennes** race fill bruto **EUR12.66m** / omzet **EUR3.08m** (~**4.11×**) / pnl DROP **-84%** / FTE **220.6** — Vielsalm ETA+care + AViQ subsidy opacity.
-- **Village n°1** bruto **EUR18.11m** / omzet **EUR12.15m** (~**1.49×**) / pnl LOSS FLIP / FTE **609.1**.
-- **AJR** omzet **EUR18.02m** DROP **-21%** / pnl DROP **-87%** / FTE **292**.
-- **Trait d'Union** bruto **EUR11.74m** / omzet **EUR5.37m** (~**2.19×**) / pnl DROP **-55%** / FTE **328.2**.
-- **Brochage Renaitre** bruto **EUR5.63m** / ~**1.78×** / pnl LOSS WIDEN / FTE **159.2**.
-- **La Lorraine** bruto **EUR5.47m** / empty omzet / pnl DROP **-56%** / FTE **156.5**.
-- **Sipres** bruto **EUR4.23m** / ~**1.67×** / FTE **114.4**.
-- **Stallbois** omzet **EUR4.00m** / LOSS NARROW / equity DROP / FTE **95.7**.
-- **BW Eupen** omzet **EUR2.17m** / bruto~**2.05×** / LOSS NARROW / FTE **128**.
-- **APRE** bruto **EUR2.02m** / empty omzet / PROFIT FLIP / FTE **95.7**.
-- **L'Ouvroir** bruto **EUR1.26m** / ~**1.59×** / PROFIT FLIP / FTE **41.3**.
-- **Alteria** prior EVERY-10 omzet **EUR3.12m** / bruto~**1.72×** / pnl DROP **-88%** / FTE **212.4** (retained).
+- **eurakor** EVERY-10 primary omzet **EUR6.44m** DROP **-9.67%** / bruto **EUR3.32m** (~**0.52×**) / pnl DROP **-84.58%** / equity DROP **-2.89%** / FTE JUMP **206.5** — Leuze ETA packaging/logistics + AViQ subsidy opacity.
+- **Ateliers de l'Avenir** omzet **EUR6.73m** JUMP / pnl LOSS WIDEN **-0.40m** / equity DROP **-4.5%** / FTE **144.8**.
+- **IN-Z** omzet **EUR14.36m** / bruto~**1.67×** / pnl LOSS WIDEN / FTE **627.5**.
+- **AMAB** omzet **EUR14.18m** / bruto~**1.53×** / pnl LOSS FLIP / FTE **645.1**.
+- **Fournipac** omzet **EUR3.71m** / equity DROP **-45%** / LOSS WIDEN / FTE **95**.
+- **A.P.A.C.** bruto **EUR3.15m** / empty omzet / pnl DROP **-67%** / FTE **89**.
+- **De Enter** bruto **EUR4.09m** / empty omzet / pnl DROP **-64%** / FTE **92.7**.
+- **C.A.R.P.** omzet **EUR3.21m** / bruto~**1.63×** / equity JUMP / FTE **122.9**.
+- **Atelier 85** omzet **EUR7.86m** / bruto~**1.02×** / FTE **174.3**.
+- **Amis des Aveugles** prior EVERY-10 bruto **EUR6.40m** / ~**3.40×** / pnl LOSS **-4.74m** / FTE **172.9** (retained).
+- **Hautes Ardennes** prior bruto **EUR12.66m** / ~**4.11×** / pnl DROP **-84%** / FTE **220.6** (retained).
 - Walloon **ZS** stack FTE-only budget opacity.
