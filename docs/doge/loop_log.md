@@ -25574,3 +25574,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.00); entities (+1 vzw_eta_le_perron_liege); foi + draft gap_le_perron_nbb_pdf_assets_debt_bruto_gt_omzet_1_70x_fte_jump_eta_matrix_l5; rq_2242=done + rq_2243 open; loop_state ticks=2242; raw docs/doge/raw/tick2242/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2240**; next **2250**). Next: rq_2243 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
+
+
+## Tick 2243 - 2026-08-27T02:55:00Z - rq_2243 APAM Uccle (bruto 6.13m / bruto≫omzet ~3.08x / pnl PROFIT FLIP / Medium)
+
+- Unit: **rq_2243** leftover dual after **rq_2242 Le Perron**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Jean Gielen already mined@race. Took FREE unused Brussels ETA **APAM ASBL** YE2025 (KBO **0406.772.468**; Chaussée de Drogenbos 130 Uccle; **Actief** **2 VE**; NACE **88.993** PHARE). Do not redo Le Perron/L'Atelier/Axedis/ETA123/Jean Gielen/Manufast stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1989997** DROP -5.09% vs YE2024 EUR2096740; bruto **EUR6131223** JUMP +4.49% (bruto≫omzet ~3.08x); pnl **EUR268707** PROFIT FLIP vs YE2024 loss EUR-3049; equity **EUR3214666** JUMP +8.12%; FTE **184.1** JUMP vs 172.8; neerlegging **03.07.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown. Medium. FOI via info@apam.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.30); entities (+1 vzw_apam_uccle); foi + draft gap_apam_nbb_pdf_assets_debt_bruto_gt_omzet_3_08x_pnl_profit_flip_eta_matrix_l5; rq_2243=done + rq_2244 open; loop_state ticks=2243; raw docs/doge/raw/tick2243/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2240**; next **2250**). Next: rq_2244 (AGB/FARO-if-YE2025 / AIESH-REW / unused).

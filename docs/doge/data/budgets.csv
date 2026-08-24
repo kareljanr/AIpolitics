@@ -53428,3 +53428,9 @@ bud_le_perron_pnl_jr2025_statutory,vzw_eta_le_perron_liege,2025,330810,330810,33
 bud_le_perron_equity_jr2025_statutory,vzw_eta_le_perron_liege,2025,6018954,6018954,6018954,CW statutory eigen_vermogen YE2025,src_le_perron_jr2025_cw_en,medium,tick2242; Medium CW; equity JUMP +5.53% vs YE2024 5703795
 bud_le_perron_fte_jr2025_statutory,vzw_eta_le_perron_liege,2025,90.0,90.0,90.0,CW social-balance FTE 90,src_le_perron_jr2025_cw_en,medium,tick2242; Medium CW; FTE JUMP 90.0 vs YE2024 88.8; assets/debt Unknown
 bud_le_perron_fte_jr2024_statutory_cmp,vzw_eta_le_perron_liege,2024,88.8,88.8,88.8,CW social-balance FTE YE2024 comparative,src_le_perron_jr2025_cw_en,medium,tick2242; YE2024 FTE 88.8 comparative (pre JUMP)
+bud_apam_bruto_jr2025_statutory,vzw_apam_uccle,2025,6131223,6131223,6131223,CW statutory bruto_marge YE2025 (primary; bruto≫omzet),src_apam_jr2025_cw_en,medium,tick2243; Medium CW; bruto JUMP +4.49% vs YE2024 5867908; bruto≫omzet ~3.08x
+bud_apam_omzet_jr2025_statutory,vzw_apam_uccle,2025,1989997,1989997,1989997,CW statutory omzet YE2025,src_apam_jr2025_cw_en,medium,tick2243; Medium CW; omzet DROP -5.09% vs YE2024 2096740
+bud_apam_pnl_jr2025_statutory,vzw_apam_uccle,2025,268707,268707,268707,CW statutory pnl YE2025 PROFIT FLIP,src_apam_jr2025_cw_en,medium,tick2243; Medium CW; pnl PROFIT FLIP 268707 vs YE2024 loss -3049
+bud_apam_equity_jr2025_statutory,vzw_apam_uccle,2025,3214666,3214666,3214666,CW statutory eigen_vermogen YE2025,src_apam_jr2025_cw_en,medium,tick2243; Medium CW; equity JUMP +8.12% vs YE2024 2973275
+bud_apam_fte_jr2025_statutory,vzw_apam_uccle,2025,184.1,184.1,184.1,CW social-balance FTE 184.1,src_apam_jr2025_cw_en,medium,tick2243; Medium CW; FTE JUMP 184.1 vs YE2024 172.8; assets/debt Unknown
+bud_apam_fte_jr2024_statutory_cmp,vzw_apam_uccle,2024,172.8,172.8,172.8,CW social-balance FTE YE2024 comparative,src_apam_jr2025_cw_en,medium,tick2243; YE2024 FTE 172.8 comparative (pre JUMP)
