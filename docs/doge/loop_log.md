@@ -24678,3 +24678,7 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2173 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
 
+### 2026-08-26T03:25:00Z - tick 2171 FOI/raw finalize (De Vlietoever)
+- Confirmed CSV rows already on main for **De Vlietoever WZC** (rq_2171) alongside race Het Dorp entity + later **rq_2172 Cur@-Z**.
+- Added missing FOI draft gap_vlietoever_nbb_pdf_assets_debt_pnl_loss_equity_drop_cura_matrix_l5.md + CW/KBO raw mirrors under docs/doge/data/raw/tick2171/.
+- FOI status remains **ready not sent**. Next open head: **rq_2173**. Next every-10: **2180**.

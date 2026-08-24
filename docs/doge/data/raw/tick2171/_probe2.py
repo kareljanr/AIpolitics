@@ -1,23 +1,28 @@
 # -*- coding: utf-8 -*-
-import csv, re, ssl, urllib.request
+"""Probe named FREE WZC/MRS candidates from web + deferred list."""
+import re
+import ssl
+import urllib.request
 from pathlib import Path
 
-csv.field_size_limit(10**7)
 ctx = ssl.create_default_context()
 UA = {"User-Agent": "Mozilla/5.0 (compatible; AIpolitics-DOGE/1.0)"}
 out = Path("docs/doge/data/raw/tick2171")
+out.mkdir(parents=True, exist_ok=True)
 
-mined = set()
+text = ""
 for path in [
     "docs/doge/data/entities.csv",
     "docs/doge/data/commitments.csv",
     "docs/doge/data/leaderboard.csv",
 ]:
-    with open(path, newline="", encoding="utf-8", errors="replace") as f:
-        for row in csv.DictReader(f):
-            blob = re.sub(r"[.\s]", "", " ".join(str(v) for v in row.values()))
-            for m in re.findall(r"\d{10}", blob):
-                mined.add(m)
+    text += open(path, encoding="utf-8", errors="replace").read().lower()
+blob = re.sub(r"[.\s]", "", text)
+
+
+def is_mined(kbo):
+    d = re.sub(r"\D", "", kbo)
+    return d in blob
 
 
 def fetch(url, p):
@@ -35,6 +40,7 @@ def fetch(url, p):
 def parse(t):
     yb = {}
     for y, body in re.findall(r"(20\d\d)\s*:\s*\{([^{}]+)\}", t or ""):
+
         def g(k, b=body):
             m = re.search(rf'{k}:\s*"([^"]*)"', b)
             return m.group(1) if m else None
@@ -44,117 +50,200 @@ def parse(t):
     filed = re.search(r"filed on ([0-9-]{10})", t or "")
     title = re.search(r"<title>([^<]+)", t or "")
     last = re.search(r"Last balance sheet year[^0-9]*(\d{4})", t or "", re.I)
-    return yb, fte.group(1) if fte else None, filed.group(1) if filed else None, title.group(1) if title else None, last.group(1) if last else None
+    act = re.search(r"Principal activity</[^>]+>\s*([^<]+)", t or "", re.I)
+    return (
+        yb,
+        fte.group(1) if fte else None,
+        filed.group(1) if filed else None,
+        title.group(1) if title else None,
+        last.group(1) if last else None,
+        (act.group(1).strip() if act else ""),
+    )
+
+
+def euro(s):
+    if not s:
+        return None
+    s = s.replace("\xa0", "").replace(" ", "").replace(".", "").replace(",", "")
+    try:
+        return int(s)
+    except Exception:
+        return None
 
 
 CANDS = [
-    ("0416493254", "ben_woonzorgnetwerk"),
+    ("0424236725", "sint_antonius_spl"),
+    ("0410142031", "olv_lourdes_kortenberg"),
     ("0835884236", "woonzorg_het_dorp"),
-    ("0410219433", "haagwinde"),
+    ("0452587548", "parc_de_forest"),
+    ("0422620585", "cobrha"),
+    ("0787300696", "melis_home"),
     ("0480566704", "hof_ter_lande"),
+    ("0410219433", "haagwinde"),
     ("0443249616", "stil_geluk"),
-    ("0685516024", "wzn_edegem"),
+    ("0406877485", "dhondt"),
+    ("0539934860", "passerinette"),
+    ("0507866165", "ry_chevreuil"),
     ("0883694744", "seigneurie"),
     ("0808910714", "bethanie"),
     ("0808928827", "le_progres"),
-    ("0507866165", "ry_chevreuil"),
-    ("0539934860", "passerinette"),
-    ("0466266429", "helianthus"),
-    ("0441675147", "wsr"),
-    ("0598966387", "hoeksteen"),
-    # more WZC networks
-    ("0401785654", "cand_a"),
-    ("0412785654", "cand_b"),
-    ("0423785654", "cand_c"),
-    ("0434785654", "cand_d"),
-    ("0445785654", "cand_e"),
-    ("0456785654", "cand_f"),
-    ("0467785654", "cand_g"),
-    ("0478785654", "cand_h"),
-    ("0489785654", "cand_i"),
-    ("0402789123", "cand_j"),
-    ("0413789123", "cand_k"),
-    ("0424789123", "cand_l"),
-    ("0435789123", "cand_m"),
-    ("0446789123", "cand_n"),
-    ("0457789123", "cand_o"),
-    ("0468789123", "cand_p"),
-    ("0479789123", "cand_q"),
-    ("0403794561", "cand_r"),
-    ("0414794561", "cand_s"),
-    ("0425794561", "cand_t"),
-    ("0436794561", "cand_u"),
-    ("0447794561", "cand_v"),
-    ("0458794561", "cand_w"),
-    ("0469794561", "cand_x"),
-    ("0404812345", "cand_y"),
-    ("0415812345", "cand_z"),
-    # Idewa / water leftovers
-    ("0201305123", "idewa_guess"),
-    ("0204567890", "water_guess"),
-    ("0408226993", "x_hop"),
-    ("0880226993", "man_in_motion"),
-    ("0883790853", "hop"),
-    ("0644497395", "prinsenhof_check"),
-    ("0416493254", "ben2"),
-    # Novadia group?
-    ("0640123456", "nova_guess"),
-    ("0830123456", "x0830"),
-    ("0840123456", "x0840"),
-    ("0850123456", "x0850"),
-    ("0860123456", "x0860"),
-    ("0870123456", "x0870"),
-    ("0880123456", "x0880"),
-    ("0890123456", "x0890"),
-    # known Flemish WZC from repertorium-style
-    ("0400371161", "abdij_mined"),
-    ("0420607638", "zonnelied_check"),
-    ("0412763704", "groep_sf_check"),
-    ("0419333572", "denderrust_check"),
-    ("0409698009", "denderrust_dg_check"),
-    ("0458352318", "orchidee_check"),
-    ("0440737514", "corolles_check"),
-    ("0409232013", "esplanade_check"),
-    ("0416528391", "prestige_check"),
-    ("0479984011", "peupliers_check"),
-    ("0454712838", "egmont_check"),
-    ("0466114791", "en_famille_check"),
-    ("0422923859", "careion_check"),
-    ("0413550491", "restel_check"),
-    ("0415850084", "mpc_check"),
-    ("0827850260", "caresupport_check"),
-    ("0446222962", "olv_armen_check"),
-    ("0414747056", "cigb_check"),
-    ("0475400760", "famifamenne_check"),
-    ("0427821963", "slg_wallonie_check"),
-    ("0442694142", "sebrechts_check"),
-    ("0459540765", "rsw_check"),
-    ("0462316153", "castel_check"),
-    ("0452587548", "parc_forest_check"),
-    ("0421479153", "hanois_check"),
-    ("0447771695", "epinette_check"),
-    ("0435565236", "buurthuis_check"),
-    ("0748968276", "jolimont_check"),
+    # more from companyweb search patterns / known Flanders WZC
+    ("0417568421", "sint_anna_guess"),
+    ("0421567890", "bad"),
+    ("0436123456", "bad2"),
+    ("0405443123", "meander_guess"),
+    ("0410142031", "olv_lourdes"),
+    ("0428335610", "zoet_guess"),
+    ("0412881234", "bad3"),
+    ("0453891234", "bad4"),
+    ("0464123789", "wingerd_guess"),
+    ("0475234567", "bad5"),
+    ("0408215430", "bad6"),
+    ("0419.528.741".replace(".", ""), "cand"),
+    ("0425.123.789".replace(".", ""), "cand2"),
+    ("0432.829.147".replace(".", ""), "cand3"),
+    ("0438.687.654".replace(".", ""), "cand4"),
+    ("0439.528.714".replace(".", ""), "cand5"),
+    ("0452.187.639".replace(".", ""), "cand6"),
+    ("0453.380.125".replace(".", ""), "cand7"),
+    ("0464.822.341".replace(".", ""), "cand8"),
+    ("0471.865.204".replace(".", ""), "cand9"),
+    ("0472.185.639".replace(".", ""), "cand10"),
+    ("0475.123.890".replace(".", ""), "cand11"),
+    ("0548.216.379".replace(".", ""), "cand12"),
+    # real known WZCs
+    ("0405.406.887".replace(".", ""), "x"),
+    ("0412.210.456".replace(".", ""), "x2"),
+    ("0417.562.831".replace(".", ""), "x3"),
+    ("0421.560.839".replace(".", ""), "x4"),
+    ("0428.471.856".replace(".", ""), "ocura2"),
+    ("0435.357.675".replace(".", ""), "psycho"),
+    ("0445.499.422".replace(".", ""), "curando"),
+    ("0454.543.856".replace(".", ""), "x5"),
+    ("0479.401.318".replace(".", ""), "terburg"),
+    ("0845.064.196".replace(".", ""), "slgops"),
+    # Walloon / more
+    ("0416.116.637".replace(".", ""), "charmille"),  # may be mined
+    ("0440.737.514".replace(".", ""), "corolles"),
+    ("0458.352.318".replace(".", ""), "orchidee"),
+    ("0466.114.791".replace(".", ""), "en_famille"),
+    ("0479.984.011".replace(".", ""), "peupliers"),
+    ("0416.528.391".replace(".", ""), "prestige"),
+    # fresh guesses from common WZC names
+    ("0408.123.456".replace(".", ""), "bad7"),
+    ("0410.987.654".replace(".", ""), "bad8"),
+    ("0415.850.084".replace(".", ""), "mpc_franciscus"),  # likely mined
+    ("0420.607.638".replace(".", ""), "zonnelied"),
+    ("0419.333.572".replace(".", ""), "denderrust"),
+    ("0409.698.009".replace(".", ""), "denderrust_dg"),
+    ("0412.763.704".replace(".", ""), "gvo_franciscus"),
+    ("0422.923.859".replace(".", ""), "seniors_care_ion"),
+    ("0447.771.695".replace(".", ""), "epinette"),
+    ("0823.488.131".replace(".", ""), "thofke"),
+    ("0470.673.890".replace(".", ""), "zorgsaam"),
+    ("0446.506.836".replace(".", ""), "avondvrede"),
+    ("0469.969.453".replace(".", ""), "anima"),
+    ("0698.940.725".replace(".", ""), "anima_vl"),
+    ("0755.822.317".replace(".", ""), "lork_hoeselt"),
+    ("0644.843.825".replace(".", ""), "aaigem"),
+    ("0400.371.161".replace(".", ""), "affligem"),
+    ("0410.127.084".replace(".", ""), "sint_lodewijk"),
+    # additional Flanders WZC from public lists
+    ("0407.355.940".replace(".", ""), "wzc_a"),
+    ("0411.234.567".replace(".", ""), "bad9"),
+    ("0413.789.012".replace(".", ""), "bad10"),
+    ("0418.456.789".replace(".", ""), "bad11"),
+    ("0424.236.725".replace(".", ""), "sint_antonius2"),
+    ("0426.789.012".replace(".", ""), "bad12"),
+    ("0429.012.345".replace(".", ""), "bad13"),
+    ("0431.234.567".replace(".", ""), "bad14"),
+    ("0436.789.012".replace(".", ""), "bad15"),
+    ("0441.234.567".replace(".", ""), "bad16"),
+    ("0444.567.890".replace(".", ""), "bad17"),
+    ("0448.901.234".replace(".", ""), "bad18"),
+    ("0450.123.456".replace(".", ""), "bad19"),
+    ("0455.678.901".replace(".", ""), "bad20"),
+    ("0459.012.345".replace(".", ""), "bad21"),
+    ("0461.234.567".replace(".", ""), "bad22"),
+    ("0465.678.901".replace(".", ""), "bad23"),
+    ("0468.901.234".replace(".", ""), "bad24"),
+    ("0472.345.678".replace(".", ""), "bad25"),
+    ("0476.789.012".replace(".", ""), "bad26"),
+    ("0480.123.456".replace(".", ""), "bad27"),
+    ("0484.567.890".replace(".", ""), "bad28"),
+    ("0488.901.234".replace(".", ""), "bad29"),
+    ("0492.345.678".replace(".", ""), "bad30"),
+    # known from care directories / sites
+    ("0405.311.530".replace(".", ""), "elisabeth_aan_zee"),
+    ("0412.640.671".replace(".", ""), "residence_3"),
+    ("0443.082.637".replace(".", ""), "xxe_aout"),
+    ("0466.961.859".replace(".", ""), "les_buissons"),
+    ("0451.031.489".replace(".", ""), "sittelles"),
+    ("0457.649.265".replace(".", ""), "charmilles"),
+    ("0407.699.017".replace(".", ""), "entraide"),
+    ("0899.812.184".replace(".", ""), "strebo"),
+    ("0463.961.490".replace(".", ""), "bosquet"),
+    ("0748.968.276".replace(".", ""), "unite_jolimont"),
+    ("0435.565.236".replace(".", ""), "buurthuis"),
+    ("0442.694.142".replace(".", ""), "sebrechts"),
+    ("0459.540.765".replace(".", ""), "rsw"),
+    ("0462.316.153".replace(".", ""), "le_castel"),
+    ("0475.400.760".replace(".", ""), "famifamenne"),
+    ("0427.821.963".replace(".", ""), "slg_wallonie"),
+    ("0865.574.649".replace(".", ""), "fakkel"),
+    ("0448.033.201".replace(".", ""), "chateau_vert"),
+    ("0827.850.260".replace(".", ""), "care_support"),
+    ("0446.222.962".replace(".", ""), "olv_armen"),
+    ("0414.747.056".replace(".", ""), "cigb"),
+    ("0454.712.838".replace(".", ""), "comte_egmont"),
 ]
 
+print("=== PROBE2 ===")
+hits = []
+seen = set()
 for kbo, label in CANDS:
-    st = "MINED" if kbo in mined else "FREE"
-    if st == "MINED" and label.endswith("_check"):
+    kbo = re.sub(r"\D", "", kbo).zfill(10)[-10:]
+    if kbo in seen:
         continue
-    t = fetch(f"https://www.companyweb.be/en/{kbo}", out / f"{label}_{kbo}_en.html")
-    if not t or "Error 404" in t:
-        if st == "FREE":
-            print(st, kbo, label, "404")
+    seen.add(kbo)
+    if is_mined(kbo):
+        print("SKIPMINED", kbo, label)
         continue
-    yb, fte, filed, title, last = parse(t)
+    t = fetch(f"https://www.companyweb.be/en/{kbo}", out / f"p2_{label}_{kbo}_en.html")
+    if not t or "Error 404" in t or len(t) < 800:
+        print("404", kbo, label)
+        continue
+    yb, fte, filed, title, last, act = parse(t)
     y5 = yb.get("2025", {})
-    if st == "FREE":
-        print(st, kbo, (title or "")[:55], "last", last)
-        if y5:
-            print(" ", y5, "fte", fte, "filed", filed)
-            omzet = (y5.get("omzet") or "").replace(",", "")
-            bruto = (y5.get("bruto_marge") or "").replace(",", "")
-            o = int(omzet) if omzet.isdigit() else 0
-            b = int(bruto) if bruto.isdigit() else 0
-            if o >= 150000 or b >= 150000:
-                print("  >>> STRONG")
+    om = euro(y5.get("omzet"))
+    br = euro(y5.get("bruto_marge"))
+    pnl = euro(y5.get("winst"))
+    eq = euro(y5.get("eigen_vermogen"))
+    care = any(
+        x in ((title or "") + " " + act).lower()
+        for x in [
+            "woonzorg",
+            "wzc",
+            "rusthuis",
+            "nursing",
+            "repos",
+            "mrs",
+            "residence",
+            "zorg",
+            "elderly",
+            "rest home",
+            "maison de repos",
+        ]
+    )
+    print(
+        f"FREE {kbo} last={last} {(title or '')[:60]} care={care} fte={fte} filed={filed}"
+    )
+    print(f"  act={act[:70]}")
+    print(f"  2025 omzet={om} bruto={br} pnl={pnl} eq={eq}")
+    if last == "2025" and ((om or 0) + (br or 0) >= 150000):
+        hits.append((kbo, label, title, act, om, br, pnl, eq, fte, filed, care))
+        print("  >>> HIT")
+
+print("\n=== HITS ===")
+for h in hits:
+    print(h)
