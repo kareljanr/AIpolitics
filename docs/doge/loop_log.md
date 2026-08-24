@@ -25825,3 +25825,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.60); entities (+1 vzw_apre_forest); foi + draft gap_apre_nbb_pdf_assets_debt_empty_omzet_pnl_profit_flip_eta_matrix_l5; rq_2267=done + rq_2268 open; loop_state ticks=2267; raw docs/doge/raw/tick2267/ + data/raw/tick2267/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2260**; next **2270**). Next: rq_2268 (AGB/FARO-if-YE2025 / AIESH-REW / unused ETA-VAPH-WZC-maatwerk).
+
+
+
+### 2026-08-27T09:10:00Z - tick 2268 - rq_2268 Le Trait d'Union Mouscron (omzet JUMP 5.37m / bruto~2.19x / pnl DROP -54.5% / FTE 328.2 / Medium)
+
+- Unit: **rq_2268** leftover dual after **rq_2267 APRE**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024** (0201.712.587); REW stall **opaque**; Heropbeuring still **CW opaque**; Relais Haute Sambre/APN still **YE2024**. Took FREE Walloon ETA **Le Trait d'Union ASBL** YE2025 (KBO **0407.638.243**; Boulevard de l'Eurozone 3 Mouscron; **Actief** **3 VE**; NACE **88.999**/88.993 AViQ). Deferred FREE **Village n°1** / **Les Amis des Aveugles** / **Les Hautes Ardennes** (YE2025 live). Do not redo APRE/Renaitre/Stallbois/Sipres/La Lorraine/BW Eupen/AJR/Alteria stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR5369612** JUMP +0.52% vs YE2024 EUR5341617; bruto **EUR11743773** DROP -2.38% (bruto÷omzet ~2.19x); pnl **EUR272985** DROP -54.5% vs YE2024 EUR599933; equity **EUR9700116** JUMP +2.48%; FTE **328.2** (+3.6% vs 316.8); neerlegging **24.07.2026**. Strong KBO Actief 3 VE ASBL. Assets/debt Unknown. Medium. FOI via info@traitunion.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.55); entities (+1 vzw_le_trait_dunion_mouscron); foi + draft gap_trait_nbb_pdf_assets_debt_bruto_gt_omzet_2_19x_pnl_drop_55pct_eta_matrix_l5; rq_2268=done + rq_2269 open; loop_state ticks=2268; raw docs/doge/raw/tick2268/ + data/raw/tick2268/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2260**; next **2270**). Next: rq_2269 (AGB/FARO-if-YE2025 / AIESH-REW / Village n1-Amis Aveugles-Hautes Ardennes YE2025).
