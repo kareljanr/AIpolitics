@@ -53830,3 +53830,9 @@ bud_jomi_pnl_jr2025_statutory,vzw_jomi_jobs_milieu_sint_niklaas,2025,60113,,,sta
 bud_jomi_equity_jr2025_statutory,vzw_jomi_jobs_milieu_sint_niklaas,2025,1463137,,,statutory_accounts,src_jomi_jr2025_cw_en,medium,tick2298; Medium CW; equity JUMP +3.97% vs YE2024 1407273
 bud_jomi_fte_jr2025_statutory,vzw_jomi_jobs_milieu_sint_niklaas,2025,46.2,,,statutory_accounts,src_jomi_jr2025_cw_en,medium,tick2298; Medium CW; FTE JUMP 46.2 vs YE2024 41.1; assets/debt Unknown
 bud_jomi_pnl_jr2024_statutory_cmp,vzw_jomi_jobs_milieu_sint_niklaas,2024,89667,,,statutory_accounts,src_jomi_jr2025_cw_en,medium,tick2298; YE2024 pnl 89667 comparative
+bud_de_okkernoot_omzet_jr2025_statutory,vzw_de_okkernoot_pajottegem,2025,2488539,,,statutory_accounts,src_de_okkernoot_jr2025_cw_en,medium,tick2298; Medium CW; omzet JUMP +32.25% vs YE2024 1881671
+bud_de_okkernoot_bruto_jr2025_statutory,vzw_de_okkernoot_pajottegem,2025,13441120,,,statutory_accounts,src_de_okkernoot_jr2025_cw_en,medium,tick2298; Medium CW; bruto JUMP +28.04% vs YE2024 10497948; bruto/omzet ~5.4x
+bud_de_okkernoot_pnl_jr2025_statutory,vzw_de_okkernoot_pajottegem,2025,2326835,,,statutory_accounts,src_de_okkernoot_jr2025_cw_en,medium,tick2298; Medium CW; pnl JUMP +113.75% vs YE2024 1088580
+bud_de_okkernoot_equity_jr2025_statutory,vzw_de_okkernoot_pajottegem,2025,14663706,,,statutory_accounts,src_de_okkernoot_jr2025_cw_en,medium,tick2298; Medium CW; equity JUMP +17.99% vs YE2024 12427489
+bud_de_okkernoot_fte_jr2025_statutory,vzw_de_okkernoot_pajottegem,2025,143.3,,,statutory_accounts,src_de_okkernoot_jr2025_cw_en,medium,tick2298; Medium CW; FTE JUMP 143.3 vs YE2024 126.5; assets/debt Unknown
+bud_de_okkernoot_pnl_jr2024_statutory_cmp,vzw_de_okkernoot_pajottegem,2024,1088580,,,statutory_accounts,src_de_okkernoot_jr2025_cw_en,medium,tick2298; YE2024 pnl 1088580 comparative

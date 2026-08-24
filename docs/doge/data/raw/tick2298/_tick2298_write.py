@@ -1,368 +1,150 @@
-﻿# tick2298: JOMI Jobs & Milieu Sint-Niklaas YE2025 leftover dual Medium (after SOBO@2297)
+﻿# tick2298: De Okkernoot / Wonen en Werken Autisme YE2025 leftover dual Medium
 from pathlib import Path
-import csv
-import json
-
+import csv, json
 csv.field_size_limit(10_000_000)
 root = Path(r"C:\Users\karel\dev\AIpolitics")
 data = root / "docs/doge/data"
 raw = data / "raw" / "tick2298"
 raw.mkdir(parents=True, exist_ok=True)
 
-TICK = "2298"
-UTC = "2026-08-27T17:15:00Z"
-ENTITY = "vzw_jomi_jobs_milieu_sint_niklaas"
-KBO = "0465.817.952"
-KBO_DIGITS = "0465817952"
+TICK, UTC = "2298", "2026-08-27T17:30:00Z"
+ENTITY, KBO, KBO_DIGITS = "vzw_de_okkernoot_pajottegem", "0443.397.688", "0443397688"
+OMZET, BRUTO, PNL, EQUITY, FTE = 2488539, 13441120, 2326835, 14663706, 143.3
+OMZET24, BRUTO24, PNL24, EQUITY24, FTE24 = 1881671, 10497948, 1088580, 12427489, 126.5
+RATIO = round(BRUTO / OMZET, 2)  # 5.4
+GAP = "gap_de_okkernoot_nbb_pdf_assets_debt_bruto_gt_omzet_5_40x_pnl_jump_vaph_matrix_l5"
+LB = "lb_de_okkernoot_bruto_13_44m_omzet_2_49m_5_40x_pnl_jump_fte_jump_jr2025"
+COMM = "comm_de_okkernoot_jr2025_statutory_vaph_bruto_13_44m_5_40x_pnl_jump"
+RQ, RQ_NEXT = "rq_2298", "rq_2299"
+SRC_EN, SRC_NL, SRC_FR = "src_de_okkernoot_jr2025_cw_en", "src_de_okkernoot_jr2025_cw_nl", "src_de_okkernoot_jr2025_cw_fr"
+SRC_KBO, SRC_SITE = "src_de_okkernoot_kbo_0443397688", "src_de_okkernoot_site_contact_2298"
+ABS, COST, DIFF, PI = 7.2, 6.2, 3.0, round((7.2 + 6.2) / 2, 2)
 
-OMZET = None  # unpublished
-BRUTO = 1975037
-PNL = 60113
-EQUITY = 1463137
-FTE = 46.2
-BRUTO_2024 = 1657656
-PNL_2024 = 89667
-EQUITY_2024 = 1407273
-FTE_2024 = 41.1
-
-GAP = "gap_jomi_nbb_pdf_assets_debt_empty_omzet_bruto_1_98m_pnl_drop_33pct_fte_jump_matrix_l5"
-LB = "lb_jomi_bruto_1_98m_empty_omzet_pnl_drop_fte_jump_jr2025"
-COMM = "comm_jomi_jr2025_statutory_maatwerk_bruto_1_98m_empty_omzet_pnl_drop"
-RQ = "rq_2298"
-RQ_NEXT = "rq_2299"
-
-SRC_EN = "src_jomi_jr2025_cw_en"
-SRC_NL = "src_jomi_jr2025_cw_nl"
-SRC_FR = "src_jomi_jr2025_cw_fr"
-SRC_KBO = "src_jomi_kbo_0465817952"
-SRC_SITE = "src_jomi_site_contact_2298"
-SRC_NBB = "src_jomi_nbb_consult_0465817952"
-
-ABS, COST, DIFF = 5.0, 4.6, 3.0
-PI = round((ABS + COST) / 2, 2)  # 4.8
-
-
-def append_csv(path: Path, rows: list[dict], id_key: str):
+def append_csv(path, rows, id_key):
     with path.open(encoding="utf-8", newline="") as f:
         reader = csv.DictReader(f)
-        fieldnames = reader.fieldnames
-        existing = list(reader)
+        fieldnames, existing = reader.fieldnames, list(reader)
     have = {r.get(id_key) for r in existing}
     new = [r for r in rows if r.get(id_key) not in have]
     if not new:
-        print(path.name, "already")
-        return
+        print(path.name, "already"); return
     with path.open("a", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
         for r in new:
             w.writerow({k: r.get(k, "") for k in fieldnames})
     print(path.name, "+", len(new))
 
-
-def upsert_research_queue():
+def upsert_rq():
     path = data / "research_queue.csv"
     with path.open(encoding="utf-8", newline="") as f:
         reader = csv.DictReader(f)
-        fieldnames = reader.fieldnames
-        rows = list(reader)
+        fieldnames, rows = reader.fieldnames, list(reader)
     found = False
     for r in rows:
         if r["task_id"] == RQ:
-            st = r.get("status")
-            eid = (r.get("entity_id") or "").strip()
-            if st == "done" and eid and eid != ENTITY:
-                raise SystemExit(f"{RQ} already done by other entity={eid}")
-            if st == "done" and eid == ENTITY:
-                print(f"{RQ} already done self")
-                found = True
-                break
-            if st == "in_progress" and eid and eid != ENTITY:
-                raise SystemExit(f"{RQ} race-locked by entity={eid}")
-            r["status"] = "done"
-            r["entity_id"] = ENTITY
-            r["updated_utc"] = UTC
-            r["blocked_gap_id"] = GAP
-            r["title"] = (
-                f"leftover dual — JOMI YE2025 Medium (bruto JUMP {BRUTO/1e6:.2f}m / empty omzet / "
-                f"pnl DROP -33% / FTE JUMP {FTE})"
-            )
-            r["notes"] = (
-                f"tick{TICK}: JOMI Jobs&Milieu YE2025 Medium (empty omzet; bruto JUMP {BRUTO} +19.15%; "
-                f"pnl DROP {PNL} -32.96%; equity JUMP {EQUITY}; FTE JUMP {FTE}; 2 VE Sint-Niklaas groen-maatwerk); "
-                f"FOI {GAP} ready not sent; after SOBO@2297; stalls AGB Bornem JR2024 / FARO/AIESH/Citeco/Groupe Foes YE2024; "
-                f"Gandae YE2024; next EVERY-10 2300"
-            )
+            r.update({
+                "status": "done", "entity_id": ENTITY, "updated_utc": UTC, "blocked_gap_id": GAP,
+                "title": f"leftover dual — De Okkernoot YE2025 Medium (bruto JUMP {BRUTO/1e6:.2f}m / ~{RATIO}x omzet / pnl JUMP / FTE JUMP {FTE})",
+                "notes": f"tick{TICK}: De Okkernoot/WonenWerkenAutisme YE2025 Medium (omzet JUMP {OMZET} +32.25%; bruto JUMP {BRUTO} ~{RATIO}x; pnl JUMP {PNL} +113.75%; equity JUMP {EQUITY}; FTE JUMP {FTE}; 1 VE VAPH autism Pajottegem); FOI {GAP} ready not sent; after SOBO@2297; stalls AGB/FARO/AIESH YE2024",
+            })
             found = True
             break
     if not found:
-        raise SystemExit(f"missing {RQ}")
+        raise SystemExit("missing " + RQ)
     if not any(r["task_id"] == RQ_NEXT for r in rows):
         rows.append({
             "task_id": RQ_NEXT,
-            "title": (
-                "leftover dual after JOMI — prefer AGB/FARO-YE2025/AIESH/"
-                "Citeco-Groupe Foes-or-unused ETA-VAPH-WZC-maatwerk"
-            ),
-            "sprint": "hole_fill",
-            "priority": "8",
-            "status": "open",
-            "hierarchy_target": "L5",
-            "entity_id": "",
-            "instructions": (
-                f"leftover dual after JOMI YE2025 Medium (bruto JUMP {BRUTO/1e6:.2f}m / empty omzet / "
-                f"pnl DROP -33% / FTE JUMP {FTE}). Prefer leftover dual: AGB Bornem/APB → "
-                "FARO/AIESH if YE2025 → Citeco/Groupe Foes if YE2025 → unused DSO/water/nuclear/IGS/HVZ "
-                "or FREE ETA-VAPH-WZC-maatwerk (Gandae if YE2025). "
-                "Do NOT redo JOMI/SOBO/Ryhove/Rozemarijn/Mo-Clean/Den Azalee/NLZ/Labor/"
-                "Intro/Buseloc/Ateljee/Borgerstein/Waak/InterWest/BWB/Wroeter/Springplank/Stroom stack."
-            ),
-            "blocked_gap_id": "",
-            "created_utc": UTC,
-            "updated_utc": UTC,
-            "notes": (
-                f"spawned after tick{TICK} JOMI; FARO/AIESH/Citeco/Groupe Foes YE2024; "
-                "AGB Bornem JR2024; Gandae YE2024; next EVERY-10 2300"
-            ),
+            "title": "leftover dual after De Okkernoot — prefer AGB/FARO-YE2025/AIESH/Citeco-Groupe Foes-or-unused ETA-VAPH-WZC-maatwerk",
+            "sprint": "hole_fill", "priority": "8", "status": "open", "hierarchy_target": "L5", "entity_id": "",
+            "instructions": f"leftover dual after De Okkernoot YE2025 Medium (omzet JUMP {OMZET/1e6:.2f}m / bruto~{RATIO}x / pnl JUMP). Prefer AGB/FARO if YE2025 else unused ETA-VAPH-WZC-maatwerk (Gandae YE2024). Do NOT redo De Okkernoot/SOBO/Ryhove/Rozemarijn/Mo-Clean/NLZ/Entiris/A-kwadraat/OptimaT stack.",
+            "blocked_gap_id": "", "created_utc": UTC, "updated_utc": UTC,
+            "notes": f"spawned after tick{TICK} De Okkernoot; FARO/AIESH/Citeco/Groupe Foes YE2024; AGB Bornem JR2024; next EVERY-10 2300",
         })
         print("rq_next spawned", RQ_NEXT)
     with path.open("w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=fieldnames)
-        w.writeheader()
-        w.writerows(rows)
+        w = csv.DictWriter(f, fieldnames=fieldnames); w.writeheader(); w.writerows(rows)
     print("research_queue updated")
 
-
 append_csv(data / "sources.csv", [
-    {
-        "source_id": SRC_EN,
-        "title": "JOMI Jobs & Milieu YE2025 Companyweb EN",
-        "url": f"https://www.companyweb.be/en/{KBO_DIGITS}/jobs-milieu",
-        "publisher": "Companyweb",
-        "accessed_date": "2026-08-27",
-        "source_class": "company_register_aggregator",
-        "notes": f"tick{TICK}; Medium CW EN YE2025; empty omzet; bruto {BRUTO} pnl {PNL} equity {EQUITY} FTE {FTE}; filed 09.06.2026; assets/debt Unknown; Sint-Niklaas groen maatwerk",
-    },
-    {
-        "source_id": SRC_NL,
-        "title": "JOMI Jobs & Milieu YE2025 Companyweb NL",
-        "url": f"https://www.companyweb.be/nl/{KBO_DIGITS}/jobs-milieu",
-        "publisher": "Companyweb",
-        "accessed_date": "2026-08-27",
-        "source_class": "company_register_aggregator",
-        "notes": f"tick{TICK}; Medium CW NL corroboration YE2025; laatste balansjaar 2025; neerlegging 09.06.2026; Middelgroot {FTE} FTE; NACE beschutte/sociale werkplaatsen; omzet unpublished",
-    },
-    {
-        "source_id": SRC_FR,
-        "title": "JOMI Jobs & Milieu YE2025 Companyweb FR",
-        "url": f"https://www.companyweb.be/fr/{KBO_DIGITS}/jobs-milieu",
-        "publisher": "Companyweb",
-        "accessed_date": "2026-08-27",
-        "source_class": "company_register_aggregator",
-        "notes": f"tick{TICK}; Medium CW FR corroboration YE2025; CA non publié; marge brute {BRUTO}; FTE {FTE}",
-    },
-    {
-        "source_id": SRC_KBO,
-        "title": f"KBO JOMI Jobs & Milieu {KBO}",
-        "url": f"https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=nl&ondernemingsnummer={KBO_DIGITS}",
-        "publisher": "FOD Economie KBO",
-        "accessed_date": "2026-08-27",
-        "source_class": "official_register",
-        "notes": f"tick{TICK}; Strong KBO Actief VZW Jobs & Milieu / afk JOMI sinds 27.01.1999; 2 VE; Driegaaienstraat 184 9100 Sint-Niklaas; RSZ NACE 88.993; BTW NACE 81.300 landschapsverzorging; jaarvergadering mei",
-    },
-    {
-        "source_id": SRC_SITE,
-        "title": "JOMI FOI channel info@jomi-vzw.be",
-        "url": "https://www.doeners.be/aanbod/jobs-en-milieu-vzw",
-        "publisher": "Doeners / JOMI listing",
-        "accessed_date": "2026-08-27",
-        "source_class": "foi_contact",
-        "notes": f"tick{TICK}; info@jomi-vzw.be; T 03 776 10 59; Driegaaienstraat 184 9100 Sint-Niklaas; BE {KBO}",
-    },
-    {
-        "source_id": SRC_NBB,
-        "title": "NBB CBSO consult JOMI 0465817952",
-        "url": f"https://consult.cbso.nbb.be/consult-enterprise/{KBO_DIGITS}",
-        "publisher": "NBB CBSO",
-        "accessed_date": "2026-08-27",
-        "source_class": "official_register",
-        "notes": f"tick{TICK}; NBB consult portal for statutory PDF; CW cites filing 09.06.2026; full PDF assets/debt still FOI",
-    },
+    {"source_id": SRC_EN, "title": "De Okkernoot YE2025 Companyweb EN", "url": f"https://www.companyweb.be/en/{KBO_DIGITS}", "publisher": "Companyweb", "accessed_date": "2026-08-27", "source_class": "company_register_aggregator", "notes": f"tick{TICK}; Medium CW EN YE2025; omzet {OMZET} bruto {BRUTO} pnl {PNL} equity {EQUITY} FTE {FTE}; filed 09.07.2026; assets/debt Unknown"},
+    {"source_id": SRC_NL, "title": "De Okkernoot YE2025 Companyweb NL", "url": f"https://www.companyweb.be/nl/{KBO_DIGITS}/wonen-en-werken-voor-personen-met-autisme", "publisher": "Companyweb", "accessed_date": "2026-08-27", "source_class": "company_register_aggregator", "notes": f"tick{TICK}; Medium CW NL corroboration YE2025; laatste balansjaar 2025; neerlegging 09.07.2026; Groot {FTE} FTE"},
+    {"source_id": SRC_FR, "title": "De Okkernoot YE2025 Companyweb FR", "url": f"https://www.companyweb.be/fr/{KBO_DIGITS}", "publisher": "Companyweb", "accessed_date": "2026-08-27", "source_class": "company_register_aggregator", "notes": f"tick{TICK}; Medium CW FR corroboration YE2025; ASBL Actif; CA {OMZET}; marge brute {BRUTO}; benefice {PNL}"},
+    {"source_id": SRC_KBO, "title": f"KBO Wonen en Werken Autisme / De Okkernoot {KBO}", "url": f"https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=nl&ondernemingsnummer={KBO_DIGITS}", "publisher": "FOD Economie KBO", "accessed_date": "2026-08-27", "source_class": "official_register", "notes": f"tick{TICK}; Strong KBO Actief VZW sinds 22.09.1990; 1 VE; Repingestraat 12 1570 Pajottegem sinds 01.01.2025; RSZ 87.202 / BTW 87.201+87.202; aanbestedende overheid"},
+    {"source_id": SRC_SITE, "title": "De Okkernoot FOI channel info@de-okkernoot.be", "url": "https://www.de-okkernoot.be/", "publisher": "De Okkernoot VZW", "accessed_date": "2026-08-27", "source_class": "foi_contact", "notes": f"tick{TICK}; info@de-okkernoot.be; +32 54 56 74 53; Repingestraat 12 Vollezele/Pajottegem; VAPH autism care"},
 ], "source_id")
 
 append_csv(data / "budgets.csv", [
-    {"budget_id": "bud_jomi_omzet_jr2025_statutory_empty", "entity_id": ENTITY, "year": "2025", "amount_eur": "", "amount_min_eur": "", "amount_max_eur": "", "basis": "statutory_accounts", "source_id": SRC_EN, "confidence": "medium", "notes": f"tick{TICK}; Medium CW; omzet unpublished / empty on CW YE2025"},
-    {"budget_id": "bud_jomi_bruto_jr2025_statutory", "entity_id": ENTITY, "year": "2025", "amount_eur": str(BRUTO), "amount_min_eur": "", "amount_max_eur": "", "basis": "statutory_accounts", "source_id": SRC_EN, "confidence": "medium", "notes": f"tick{TICK}; Medium CW; bruto JUMP +19.15% vs YE2024 {BRUTO_2024}; empty omzet"},
-    {"budget_id": "bud_jomi_pnl_jr2025_statutory", "entity_id": ENTITY, "year": "2025", "amount_eur": str(PNL), "amount_min_eur": "", "amount_max_eur": "", "basis": "statutory_accounts", "source_id": SRC_EN, "confidence": "medium", "notes": f"tick{TICK}; Medium CW; pnl DROP -32.96% vs YE2024 {PNL_2024}"},
-    {"budget_id": "bud_jomi_equity_jr2025_statutory", "entity_id": ENTITY, "year": "2025", "amount_eur": str(EQUITY), "amount_min_eur": "", "amount_max_eur": "", "basis": "statutory_accounts", "source_id": SRC_EN, "confidence": "medium", "notes": f"tick{TICK}; Medium CW; equity JUMP +3.97% vs YE2024 {EQUITY_2024}"},
-    {"budget_id": "bud_jomi_fte_jr2025_statutory", "entity_id": ENTITY, "year": "2025", "amount_eur": str(FTE), "amount_min_eur": "", "amount_max_eur": "", "basis": "statutory_accounts", "source_id": SRC_EN, "confidence": "medium", "notes": f"tick{TICK}; Medium CW; FTE JUMP {FTE} vs YE2024 {FTE_2024}; assets/debt Unknown"},
-    {"budget_id": "bud_jomi_pnl_jr2024_statutory_cmp", "entity_id": ENTITY, "year": "2024", "amount_eur": str(PNL_2024), "amount_min_eur": "", "amount_max_eur": "", "basis": "statutory_accounts", "source_id": SRC_EN, "confidence": "medium", "notes": f"tick{TICK}; YE2024 pnl {PNL_2024} comparative"},
+    {"budget_id": "bud_de_okkernoot_omzet_jr2025_statutory", "entity_id": ENTITY, "year": "2025", "amount_eur": str(OMZET), "amount_min_eur": "", "amount_max_eur": "", "basis": "statutory_accounts", "source_id": SRC_EN, "confidence": "medium", "notes": f"tick{TICK}; Medium CW; omzet JUMP +32.25% vs YE2024 {OMZET24}"},
+    {"budget_id": "bud_de_okkernoot_bruto_jr2025_statutory", "entity_id": ENTITY, "year": "2025", "amount_eur": str(BRUTO), "amount_min_eur": "", "amount_max_eur": "", "basis": "statutory_accounts", "source_id": SRC_EN, "confidence": "medium", "notes": f"tick{TICK}; Medium CW; bruto JUMP +28.04% vs YE2024 {BRUTO24}; bruto/omzet ~{RATIO}x"},
+    {"budget_id": "bud_de_okkernoot_pnl_jr2025_statutory", "entity_id": ENTITY, "year": "2025", "amount_eur": str(PNL), "amount_min_eur": "", "amount_max_eur": "", "basis": "statutory_accounts", "source_id": SRC_EN, "confidence": "medium", "notes": f"tick{TICK}; Medium CW; pnl JUMP +113.75% vs YE2024 {PNL24}"},
+    {"budget_id": "bud_de_okkernoot_equity_jr2025_statutory", "entity_id": ENTITY, "year": "2025", "amount_eur": str(EQUITY), "amount_min_eur": "", "amount_max_eur": "", "basis": "statutory_accounts", "source_id": SRC_EN, "confidence": "medium", "notes": f"tick{TICK}; Medium CW; equity JUMP +17.99% vs YE2024 {EQUITY24}"},
+    {"budget_id": "bud_de_okkernoot_fte_jr2025_statutory", "entity_id": ENTITY, "year": "2025", "amount_eur": str(FTE), "amount_min_eur": "", "amount_max_eur": "", "basis": "statutory_accounts", "source_id": SRC_EN, "confidence": "medium", "notes": f"tick{TICK}; Medium CW; FTE JUMP {FTE} vs YE2024 {FTE24}; assets/debt Unknown"},
+    {"budget_id": "bud_de_okkernoot_pnl_jr2024_statutory_cmp", "entity_id": ENTITY, "year": "2024", "amount_eur": str(PNL24), "amount_min_eur": "", "amount_max_eur": "", "basis": "statutory_accounts", "source_id": SRC_EN, "confidence": "medium", "notes": f"tick{TICK}; YE2024 pnl {PNL24} comparative"},
 ], "budget_id")
 
-cash = json.dumps({
-    "2025_omzet": None, "2025_bruto": BRUTO, "2025_pnl": PNL, "2025_equity": EQUITY, "2025_fte": FTE,
-    "2024_bruto": BRUTO_2024, "2024_pnl": PNL_2024, "2024_equity": EQUITY_2024, "2024_fte": FTE_2024,
-}, separators=(",", ":"))
+cash = json.dumps({"2025_omzet": OMZET, "2025_bruto": BRUTO, "2025_pnl": PNL, "2025_equity": EQUITY, "2025_fte": FTE, "2024_omzet": OMZET24, "2024_bruto": BRUTO24, "2024_pnl": PNL24, "2024_equity": EQUITY24, "2024_fte": FTE24}, separators=(",", ":"))
+append_csv(data / "commitments.csv", [{"commitment_id": COMM, "title": f"De Okkernoot YE2025 leftover dual (bruto {BRUTO/1e6:.2f}m / ~{RATIO}x omzet / pnl JUMP / FTE JUMP {FTE} / Medium)", "entity_id": ENTITY, "beneficiary": "VAPH autism / mental-disability clients Pajottenland", "legal_basis": f"VZW Wonen en Werken voor personen met Autisme / De Okkernoot (KBO {KBO}; Actief; 1 VE; RSZ 87.202; aanbestedende overheid)", "decision_date": "2026-07-09", "start_year": "2025", "end_year": "2025", "total_envelope_eur": str(BRUTO), "cash_by_year": cash, "remaining_eur": "0", "status": "active", "evaluation_url": f"https://www.companyweb.be/en/{KBO_DIGITS}", "stated_goal": "Flemish VAPH residential + day support autism / inclusive employment Pajottegem", "cut_option": f"Publish NBB PDF assets/debt; disclose VAPH matrix behind bruto~{RATIO}x omzet", "source_id": SRC_EN, "confidence": "medium", "hierarchy_path": "Vlaanderen>Vlaams_Brabant>Pajottegem>DeOkkernoot>JR2025_statutory_L5", "notes": f"tick{TICK}; Medium CW; bruto primary {BRUTO}; omzet {OMZET} ~{RATIO}x; FOI {GAP}; not TE-additive"}], "commitment_id")
 
-append_csv(data / "commitments.csv", [{
-    "commitment_id": COMM,
-    "title": f"JOMI YE2025 leftover dual (bruto {BRUTO/1e6:.2f}m / empty omzet / pnl DROP / FTE JUMP {FTE} / Medium)",
-    "entity_id": ENTITY,
-    "beneficiary": "Maatwerkers Sint-Niklaas / JOMI green adapted-work path",
-    "legal_basis": f"VZW Jobs & Milieu / JOMI (KBO {KBO}; Actief; 2 VE; RSZ 88.993; BTW 81.300; Sint-Niklaas)",
-    "decision_date": "2026-06-09",
-    "start_year": "2025",
-    "end_year": "2025",
-    "total_envelope_eur": str(BRUTO),
-    "cash_by_year": cash,
-    "remaining_eur": "0",
-    "status": "active",
-    "evaluation_url": f"https://www.companyweb.be/en/{KBO_DIGITS}/jobs-milieu",
-    "stated_goal": "Flemish maatwerk / green landscaping inclusive employment Sint-Niklaas",
-    "cut_option": "Publish NBB PDF assets/debt; disclose omzet + Vlaamse maatwerk matrix behind empty-omzet bruto 1.98m and FTE 46.2",
-    "source_id": SRC_EN,
-    "confidence": "medium",
-    "hierarchy_path": "Vlaanderen>Oost-Vlaanderen>Sint-Niklaas>JOMI>JR2025_statutory_L5",
-    "notes": f"tick{TICK}; Medium CW; bruto primary {BRUTO}; empty omzet; FOI {GAP}; not TE-additive; DISTINCT Mo-Clean/Den Azalee (board link only)",
-}], "commitment_id")
+append_csv(data / "leaderboard.csv", [{"item_id": LB, "name": f"De Okkernoot bruto {BRUTO/1e6:.2f}m / omzet {OMZET/1e6:.2f}m ~{RATIO}x / pnl JUMP +114% / FTE JUMP {FTE} (YE2025 VAPH autism)", "level": "L5", "type": "vaph_vzw_statutory", "hierarchy_path": "Vlaanderen>Vlaams_Brabant>Pajottegem>DeOkkernoot>JR2025", "annual_cost_eur": str(BRUTO), "total_cost_eur": str(BRUTO), "tco_notes": f"CW omzet JUMP {OMZET} (+32.25%) / bruto JUMP {BRUTO} (+28.04%; ~{RATIO}x) / pnl JUMP {PNL} (+113.75%) / equity JUMP {EQUITY} (+17.99%) / FTE JUMP {FTE} (vs {FTE24}) / 1 VE VAPH autism", "confidence": "medium", "source_id": SRC_EN, "beneficiaries": "VAPH autism / mental-disability clients Vollezele-Halle-Herne belt", "stated_goal": "Inclusive residential + day support autism spectrum", "measured_outcome": f"omzet JUMP +32.25%; bruto JUMP +28.04% (~{RATIO}x); pnl JUMP +113.75%; equity JUMP +17.99%; FTE JUMP {FTE}; filed 09.07.2026", "absurdity_score": str(ABS), "cost_score": str(COST), "difficulty": str(DIFF), "priority_index": str(PI), "cut_proposal": f"Publish NBB PDF assets/debt/cash FOI; disclose VAPH matrix behind bruto>~{RATIO}x omzet", "status": "open", "struck_reason": "", "notes": f"tick{TICK}; Medium CW; FOI {GAP}; after SOBO@2297; AGB/FARO/AIESH YE2024"}], "item_id")
 
-append_csv(data / "leaderboard.csv", [{
-    "item_id": LB,
-    "name": f"JOMI bruto {BRUTO/1e6:.2f}m / empty omzet / pnl DROP -33% / FTE JUMP {FTE} (YE2025 Sint-Niklaas maatwerk)",
-    "level": "L5",
-    "type": "maatwerk_vzw_statutory",
-    "hierarchy_path": "Vlaanderen>Oost-Vlaanderen>Sint-Niklaas>JOMI>JR2025",
-    "annual_cost_eur": str(BRUTO),
-    "total_cost_eur": str(BRUTO),
-    "tco_notes": f"CW empty omzet / bruto JUMP {BRUTO} (+19.15%) / pnl DROP {PNL} (-32.96%) / equity JUMP {EQUITY} (+3.97%) / FTE JUMP {FTE} (vs {FTE_2024}) / 2 VE",
-    "confidence": "medium",
-    "source_id": SRC_EN,
-    "beneficiaries": "Maatwerkers Sint-Niklaas green/landscaping adapted work",
-    "stated_goal": "Flemish maatwerkbedrijf / inclusive green employment Sint-Niklaas",
-    "measured_outcome": f"empty omzet; bruto JUMP +19.15%; pnl DROP -32.96%; equity JUMP +3.97%; FTE JUMP {FTE}; filed 09.06.2026",
-    "absurdity_score": str(ABS),
-    "cost_score": str(COST),
-    "difficulty": str(DIFF),
-    "priority_index": str(PI),
-    "cut_proposal": f"Publish NBB PDF assets/debt/cash FOI; disclose omzet + Vlaamse maatwerk matrix behind empty-omzet bruto {BRUTO/1e6:.2f}m + FTE {FTE}",
-    "status": "open",
-    "struck_reason": "",
-    "notes": f"tick{TICK}; Medium CW NL+EN+FR + Strong KBO; FOI {GAP}; after SOBO@2297; AGB/FARO/AIESH YE2024; DISTINCT Mo-Clean/Den Azalee",
-}], "item_id")
+append_csv(data / "entities.csv", [{"entity_id": ENTITY, "name_nl": "De Okkernoot / Wonen en Werken voor personen met Autisme VZW (Pajottegem)", "name_fr": "De Okkernoot / Habiter et travailler pour personnes avec autisme ASBL (Pajottegem)", "name_en": "De Okkernoot autism care ASBL (Pajottegem VAPH)", "level": "parastatal", "parent_id": "sec_flanders", "community_language": "nl", "website": "https://www.de-okkernoot.be/", "foi_email": "info@de-okkernoot.be", "foi_postal": "Repingestraat 12, 1570 Pajottegem", "notes": f"tick{TICK} YE2025 Medium CW NL+EN+FR + Strong KBO {KBO} Actief 1 VE VZW RSZ 87.202; omzet JUMP {OMZET} bruto JUMP {BRUTO} (~{RATIO}x) pnl JUMP {PNL} equity JUMP {EQUITY} FTE JUMP {FTE}; neerlegging 09.07.2026; FOI {GAP}; aanbestedende overheid; after SOBO@2297; not TE-additive"}], "entity_id")
 
-append_csv(data / "entities.csv", [{
-    "entity_id": ENTITY,
-    "name_nl": "JOMI / Jobs & Milieu VZW (Sint-Niklaas / Vlaams groen-maatwerk)",
-    "name_fr": "JOMI / Jobs & Milieu ASBL (Saint-Nicolas / entreprise de travail adapte verte flamande)",
-    "name_en": "JOMI / Jobs & Milieu adapted-work ASBL (Sint-Niklaas Flemish green maatwerk)",
-    "level": "parastatal",
-    "parent_id": "sec_flanders",
-    "community_language": "nl",
-    "website": "https://www.doeners.be/aanbod/jobs-en-milieu-vzw",
-    "foi_email": "info@jomi-vzw.be",
-    "foi_postal": "Driegaaienstraat 184, 9100 Sint-Niklaas",
-    "notes": f"tick{TICK} YE2025 Medium CW NL+EN+FR + Strong KBO {KBO} Actief 2 VE VZW RSZ 88.993 BTW 81.300; empty omzet; bruto JUMP {BRUTO} pnl DROP {PNL} equity JUMP {EQUITY} FTE JUMP {FTE}; neerlegging 09.06.2026; FOI {GAP}; after SOBO@2297; DISTINCT Mo-Clean/Den Azalee; not TE-additive",
-}], "entity_id")
+append_csv(data / "foi_queue.csv", [{"gap_id": GAP, "hierarchy_path": "Vlaanderen>Vlaams_Brabant>Pajottegem>DeOkkernoot>NBB_PDF_assets_debt_bruto_gt_omzet_5_40x_pnl_jump_vaph", "entity_id": ENTITY, "what_is_missing": f"NBB PDF YE2025 full (assets/debt/cash); omzet EUR{OMZET}; bruto EUR{BRUTO} (~{RATIO}x); pnl JUMP EUR{PNL}; FTE JUMP {FTE}; VAPH subsidy matrix", "why_it_matters": f"Medium CW shows VAPH autism VZW (bruto {BRUTO/1e6:.1f}m ~{RATIO}x omzet / pnl JUMP +114% / FTE JUMP); assets/debt unpublished", "priority": "8", "recipient_body": "De Okkernoot / Wonen en Werken voor personen met Autisme VZW", "recipient_email": "info@de-okkernoot.be", "recipient_postal": "Repingestraat 12, 1570 Pajottegem", "draft_letter_path": f"docs/doge/foi/drafts/{GAP}.md", "status": "ready", "date_ready": "2026-08-27", "date_sent": "", "date_due": "", "date_answered": "", "response_summary": "", "linked_commitment_id": COMM, "linked_leaderboard_id": LB, "created_utc": UTC, "updated_utc": UTC, "notes": f"tick{TICK}; ready NOT sent; Medium CW + Strong KBO; after SOBO@2297"}], "gap_id")
 
-append_csv(data / "foi_queue.csv", [{
-    "gap_id": GAP,
-    "hierarchy_path": "Vlaanderen>Oost-Vlaanderen>Sint-Niklaas>JOMI>NBB_PDF_assets_debt_empty_omzet_bruto_1_98m_pnl_drop_fte_jump",
-    "entity_id": ENTITY,
-    "what_is_missing": f"NBB PDF YE2025 full (assets/debt/cash); empty omzet vs bruto EUR{BRUTO}; pnl DROP EUR{PNL}; FTE JUMP {FTE}; Vlaamse maatwerk subsidy matrix",
-    "why_it_matters": f"Medium CW shows Sint-Niklaas green maatwerk VZW (bruto {BRUTO/1e6:.2f}m / empty omzet / pnl DROP -33% / FTE JUMP to {FTE}); assets/debt unpublished; public maatwerk subsidy opacity",
-    "priority": "8",
-    "recipient_body": "Jobs & Milieu VZW (JOMI)",
-    "recipient_email": "info@jomi-vzw.be",
-    "recipient_postal": "Driegaaienstraat 184, 9100 Sint-Niklaas",
-    "draft_letter_path": f"docs/doge/foi/drafts/{GAP}.md",
-    "status": "ready",
-    "date_ready": "2026-08-27",
-    "date_sent": "",
-    "date_due": "",
-    "date_answered": "",
-    "response_summary": "",
-    "linked_commitment_id": COMM,
-    "linked_leaderboard_id": LB,
-    "created_utc": UTC,
-    "updated_utc": UTC,
-    "notes": f"tick{TICK}; ready NOT sent; Medium CW NL+EN+FR + Strong KBO; after SOBO@2297",
-}], "gap_id")
-
-upsert_research_queue()
-
-(data / "loop_state.csv").write_text(
-    "state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes\n"
-    + f"main,continuous,hole_fill,{UTC},{RQ},{TICK},no,tick{TICK} leftover dual JOMI {KBO} Medium (empty omzet; bruto JUMP {BRUTO} +19.15%; pnl DROP {PNL} -32.96%; equity JUMP {EQUITY}; FTE JUMP {FTE}; 2 VE Sint-Niklaas groen-maatwerk); after SOBO@2297; AGB Bornem JR2024; FARO/AIESH YE2024; Gandae YE2024; next {RQ_NEXT}; next EVERY-10 2300; continuous hole_fill\n",
-    encoding="utf-8",
-)
-print("loop_state ok")
-
-(raw / "summary.json").write_text(json.dumps({
-    "tick": TICK, "unit": RQ, "entity": ENTITY, "kbo": KBO,
-    "omzet": None, "bruto": BRUTO, "pnl": PNL, "equity": EQUITY, "fte": FTE,
-    "confidence": "medium", "gap": GAP, "pi": PI,
-}, indent=2), encoding="utf-8")
-(raw / "cw_en_excerpt.txt").write_text(
-    f"JOMI YE2025 empty omzet bruto {BRUTO} pnl {PNL} equity {EQUITY} FTE {FTE} filed 09.06.2026 info@jomi-vzw.be\n",
-    encoding="utf-8",
-)
-(raw / "_tick2298_write.py").write_text(Path(__file__).read_text(encoding="utf-8") if False else "", encoding="utf-8")
-
-log_path = root / "docs/doge/loop_log.md"
+upsert_rq()
+(data / "loop_state.csv").write_text("state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes\n" + f"main,continuous,hole_fill,{UTC},{RQ},{TICK},no,tick{TICK} leftover dual De Okkernoot {KBO} Medium (omzet JUMP {OMZET} +32.25%; bruto JUMP {BRUTO} ~{RATIO}x; pnl JUMP {PNL} +113.75%; equity JUMP {EQUITY} +17.99%; FTE JUMP {FTE}; 1 VE VAPH autism Pajottegem); after SOBO@2297; AGB Bornem JR2024; FARO/AIESH YE2024; next {RQ_NEXT}; next EVERY-10 2300; continuous hole_fill\n", encoding="utf-8")
+(raw / "summary.json").write_text(json.dumps({"tick": TICK, "unit": RQ, "entity": ENTITY, "kbo": KBO, "omzet": OMZET, "bruto": BRUTO, "pnl": PNL, "equity": EQUITY, "fte": FTE, "ratio_bruto_omzet": RATIO, "confidence": "medium", "gap": GAP}, indent=2), encoding="utf-8")
+(raw / "cw_en_excerpt.txt").write_text(f"De Okkernoot YE2025 omzet {OMZET} bruto {BRUTO} (~{RATIO}x) pnl {PNL} equity {EQUITY} FTE {FTE} filed 09.07.2026 info@de-okkernoot.be\n", encoding="utf-8")
+log = root / "docs/doge/loop_log.md"
 entry = f"""
-### {UTC} - tick {TICK} - {RQ} JOMI Jobs & Milieu Sint-Niklaas (bruto JUMP {BRUTO/1e6:.2f}m / empty omzet / pnl DROP -33% / FTE JUMP {FTE} / Medium)
+### {UTC} - tick {TICK} - {RQ} De Okkernoot Pajottegem (bruto JUMP {BRUTO/1e6:.2f}m / ~{RATIO}x omzet / pnl JUMP / FTE JUMP {FTE} / Medium)
 
-- Unit: **{RQ}** leftover dual after **SOBO@2297**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Gandae still **YE2024**. Took unused FREE Flemish groen-maatwerk **JOMI / Jobs & Milieu VZW** YE2025 (KBO **{KBO}**; Driegaaienstraat 184 Sint-Niklaas; **Actief** **2 VE**; RSZ **88.993**; BTW **81.300**; info@jomi-vzw.be). Do not redo SOBO/Ryhove/Rozemarijn/Mo-Clean/Den Azalee/NLZ/Labor/Intro/Buseloc/Ateljee/Borgerstein/Waak/InterWest/BWB/Wroeter/Springplank/Stroom stack.
-- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR{BRUTO}** JUMP +19.15% vs YE2024 EUR{BRUTO_2024}; pnl **EUR{PNL}** DROP -32.96% vs YE2024 EUR{PNL_2024}; equity **EUR{EQUITY}** JUMP +3.97%; FTE **{FTE}** JUMP (vs {FTE_2024}); neerlegging **09.06.2026**. Strong KBO Actief 2 VE VZW. Assets/debt Unknown. Medium. FOI via info@jomi-vzw.be.
-- Wrote: sources (+6); budgets (+6); commitments (+1); leaderboard (+1 pi {PI}); entities (+1 {ENTITY}); foi + draft {GAP}; {RQ}=done + {RQ_NEXT} open; loop_state ticks={TICK}; raw docs/doge/data/raw/tick{TICK}/.
+- Unit: **{RQ}** leftover dual after **SOBO@2297**. Prefer NON-stall: AGB Bornem still **JR2024**; FARO/AIESH/Citeco/Groupe Foes still **YE2024**; Gandae YE2024. Took FREE Flemish VAPH autism dual **De Okkernoot / Wonen en Werken voor personen met Autisme VZW** YE2025 (KBO **{KBO}**; Repingestraat 12 Pajottegem; **Actief** **1 VE**; RSZ **87.202**; info@de-okkernoot.be). Do not redo SOBO/Ryhove/Rozemarijn/Mo-Clean/Entiris/A-kwadraat/OptimaT stack.
+- Found: Companyweb EN YE2025 - omzet **EUR{OMZET}** JUMP +32.25%; bruto **EUR{BRUTO}** JUMP +28.04% (~{RATIO}x); pnl **EUR{PNL}** JUMP +113.75%; equity **EUR{EQUITY}** JUMP +17.99%; FTE **{FTE}** JUMP; neerlegging **09.07.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@de-okkernoot.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi {PI}); entities (+1 {ENTITY}); foi + draft {GAP}; {RQ}=done + {RQ_NEXT} open; loop_state ticks={TICK}; raw docs/doge/data/raw/tick{TICK}/.
 - FOI: **ready not sent** (human-gated).
-- NOT every-10 (**last every-10 was 2290**; next **2300**). Next: {RQ_NEXT} (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk Gandae-if-YE2025).
+- NOT every-10 (**last every-10 was 2290**; next **2300**). Next: {RQ_NEXT}.
 """
-text = log_path.read_text(encoding="utf-8")
+text = log.read_text(encoding="utf-8")
 if f"tick {TICK} - {RQ}" not in text:
-    log_path.write_text(text.rstrip() + "\n" + entry, encoding="utf-8")
-    print("loop_log ok")
-else:
-    print("loop_log already")
-
-(root / "docs/doge/foi/drafts" / f"{GAP}.md").write_text(f"""# FOI draft — JOMI Jobs & Milieu (NBB PDF / empty omzet / bruto 1.98m / pnl DROP -33%)
+    log.write_text(text.rstrip() + "\n" + entry, encoding="utf-8"); print("loop_log ok")
+(root / "docs/doge/foi/drafts" / f"{GAP}.md").write_text(f"""# FOI draft — De Okkernoot (NBB PDF / bruto~{RATIO}x omzet / pnl JUMP / VAPH)
 
 **gap_id:** `{GAP}`  
 **status:** ready (NOT sent)  
-**entity:** Jobs & Milieu VZW (JOMI) — KBO **{KBO}** (Actief; Driegaaienstraat 184, 9100 Sint-Niklaas; **2 VE**; FTE {FTE} CW; RSZ **88.993**; BTW **81.300**)  
-**recipient:** info@jomi-vzw.be · Driegaaienstraat 184, 9100 Sint-Niklaas (T 03 776 10 59)  
-**sources:** [CW EN](https://www.companyweb.be/en/{KBO_DIGITS}/jobs-milieu) · [CW NL](https://www.companyweb.be/nl/{KBO_DIGITS}/jobs-milieu) · [CW FR](https://www.companyweb.be/fr/{KBO_DIGITS}/jobs-milieu) · [KBO](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=nl&ondernemingsnummer={KBO_DIGITS}) · [NBB](https://consult.cbso.nbb.be/consult-enterprise/{KBO_DIGITS}) · [contact listing](https://www.doeners.be/aanbod/jobs-en-milieu-vzw)  
+**entity:** Wonen en Werken voor personen met Autisme VZW / De Okkernoot — KBO **{KBO}** (Actief; Repingestraat 12, 1570 Pajottegem; **1 VE**; FTE {FTE}; RSZ **87.202**; VAPH autism)  
+**recipient:** info@de-okkernoot.be · Repingestraat 12, 1570 Pajottegem (+32 54 56 74 53)  
+**sources:** [CW EN](https://www.companyweb.be/en/{KBO_DIGITS}) · [KBO](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=nl&ondernemingsnummer={KBO_DIGITS}) · [site](https://www.de-okkernoot.be/)  
 **tick:** {TICK}  
-**confidence:** Medium (Strong KBO + Medium CW NL+EN+FR YE2025; assets/debt Unknown)
+**confidence:** Medium (Strong KBO + Medium CW YE2025; assets/debt Unknown)
 
 ## Context
-- KBO Strong: Actief VZW **Jobs & Milieu** / afk **JOMI** sinds **27.01.1999**; **2 VE**; zetel Driegaaienstraat 184, 9100 Sint-Niklaas; RSZ NACE **88.993**; BTW NACE **81.300** landschapsverzorging.
-- CW YE2025: omzet **unpublished**; bruto **EUR{BRUTO:,}** JUMP +19.15%; pnl **EUR{PNL:,}** DROP −32.96%; equity **EUR{EQUITY:,}** JUMP +3.97%; FTE **{FTE}**; filed **09.06.2026**.
-- Preferred stalls: AGB Bornem JR2024; FARO/AIESH/Citeco/Groupe Foes YE2024; Gandae YE2024. After SOBO@2297. DISTINCT Mo-Clean/Den Azalee (board link only).
+- KBO Strong: Actief VZW sinds **22.09.1990**; **1 VE**; zetel Repingestraat 12, 1570 Pajottegem; RSZ **87.202**; aanbestedende overheid.
+- CW YE2025: omzet **EUR{OMZET:,}** JUMP +32.25%; bruto **EUR{BRUTO:,}** JUMP +28.04% (~{RATIO}x); pnl **EUR{PNL:,}** JUMP +113.75%; equity **EUR{EQUITY:,}**; FTE **{FTE}**; filed **09.07.2026**.
+- Preferred stalls: AGB Bornem JR2024; FARO/AIESH YE2024. After SOBO@2297.
 
 ## Brief
 ```text
 [Naam] [Adres] [E-mail] [Datum]
-Aan: Jobs & Milieu VZW (JOMI)
-via info@jomi-vzw.be
-Driegaaienstraat 184, 9100 Sint-Niklaas
-Betreft: Openbaarmaking jaarrekening 2025 JOMI (KBO {KBO})
+Aan: De Okkernoot / Wonen en Werken voor personen met Autisme VZW
+via info@de-okkernoot.be
+Repingestraat 12, 1570 Pajottegem
+Betreft: Openbaarmaking jaarrekening 2025 (KBO {KBO})
 
 Geachte,
 
-Op grond van de toepasselijke regels inzake openbaarheid van bestuur
-(Vlaams Bestuursdecreet e.a.), vraag ik openbaarmaking van:
+Op grond van openbaarheid van bestuur (Vlaams Bestuursdecreet), vraag ik:
 
-1. NBB/CBSO PDF van de jaarrekening YE2025 (balans + resultaten + bijlage; activa/schulden/cash).
-2. Toelichting bij unpublished omzet naast bruto JUMP EUR{BRUTO} (+19.15%),
-   pnl DROP EUR{PNL} (−32.96%) en FTE JUMP {FTE} (vs {FTE_2024}).
-3. Overzicht van Vlaamse maatwerktoelagen achter personeelskosten (FTE {FTE}).
+1. NBB/CBSO PDF jaarrekening YE2025 (balans + resultaten; activa/schulden/cash).
+2. Toelichting omzet JUMP EUR{OMZET} naast bruto EUR{BRUTO} (~{RATIO}x), pnl JUMP EUR{PNL}, FTE JUMP {FTE}.
+3. Overzicht VAPH-vergoedingen achter bruto~{RATIO}x omzet YE2025.
 4. Schulden LT/KT en liquide middelen YE2025.
 
-Periode YE2025 (+ vergelijking YE2024). Ref: {GAP}
+Periode YE2025 (+ YE2024). Ref: {GAP}
 
 Met vriendelijke groeten,
 [Naam]
 ```
 - [x] ready NOT sent (human-gated)
 """, encoding="utf-8")
-print("DONE tick", TICK, "pi", PI, "bruto", BRUTO)
+print("DONE", TICK, "pi", PI, "bruto", BRUTO)
