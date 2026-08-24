@@ -26390,3 +26390,19 @@ Append-only. Each tick adds a short entry.
 - Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1362831** +0.1%; bruto **EUR10650107** JUMP +3.31% (~7.81x); pnl **EUR589003** JUMP +84.79%; equity **EUR9264665** JUMP +5.33%; FTE **122.2** (vs 124.0); neerlegging **30.06.2026**. Strong KBO Actief 3 VE. Assets/debt Unknown. Medium.
 - Wrote: sources (+6); budgets (+6); commitments (+1); leaderboard (+1 pi 6.25); entities (+1 vzw_huis_in_de_stad_tienen); foi + draft gap_huis_stad_nbb_pdf_assets_debt_bruto_gt_omzet_7_81x_pnl_jump_vaph_matrix_l5; rq_2308=done + rq_2309 open; loop_state ticks=2308.
 - FOI: **ready not sent**. NOT every-10 (next **2310**). Next: rq_2309.
+
+### 2026-08-24T12:56:51Z - tick 2309 - rq_2309 Zewopa Lier (NEG equity -1.21m / pnl FLIP / omzet 1.49m / Medium)
+
+- Unit: **rq_2309** leftover dual after **Huis in de Stad@2308**. Prefer NON-stall: AGB Bornem still **JR2024**; FARO still **YE2024**. Took unused FREE Flemish VAPH inclusive-housing **Zewopa VZW** YE2025 (KBO **0421.896.748**; Florent Van Cauwenberghstraat 1 Lier; **Actief** **6 VE**; NACE **87.304**). Do not redo Huis in de Stad/Katrinahof/Alvinnenberg/TM Kempen stack.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR1492730** JUMP +1.76%; bruto **EUR1602575** DROP -14.36%; pnl **EUR67635** FLIP vs YE2024 LOSS EUR-100456; equity **NEG EUR-1211742**; FTE **21.0** DROP; neerlegging **30.06.2026**. Strong KBO Actief 6 VE. Assets/debt Unknown. Medium. FOI via melding@zewopa.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.35); entities (+1 vzw_zewopa_lier); foi + draft gap_zewopa_nbb_pdf_assets_debt_neg_equity_1_21m_pnl_flip_bruto_drop_fte_drop_vaph_matrix_l5; rq_2309=done + rq_2310 open (EVERY-10 due); loop_state ticks=2309; raw docs/doge/data/raw/tick2309/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next EVERY-10 is 2310** = next open). Next: rq_2310.
+
+### 2026-08-24T12:56:51Z - tick 2309 - rq_2309 Zewopa Lier (NEG equity -1.21m / pnl FLIP / omzet 1.49m / Medium)
+
+- Unit: **rq_2309** leftover dual after **Huis in de Stad@2308**. Prefer NON-stall: AGB Bornem still **JR2024**; FARO still **YE2024**. Took unused FREE Flemish VAPH inclusive-housing **Zewopa VZW** YE2025 (KBO **0421.896.748**; Florent Van Cauwenberghstraat 1 Lier; **Actief** **6 VE**; NACE **87.304**). Do not redo Huis in de Stad/Katrinahof/Alvinnenberg/TM Kempen stack.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR1492730** JUMP +1.76%; bruto **EUR1602575** DROP -14.36%; pnl **EUR67635** FLIP vs YE2024 LOSS EUR-100456; equity **NEG EUR-1211742**; FTE **21.0** DROP; neerlegging **30.06.2026**. Strong KBO Actief 6 VE. Assets/debt Unknown. Medium. FOI via melding@zewopa.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.35); entities (+1 vzw_zewopa_lier); foi + draft gap_zewopa_nbb_pdf_assets_debt_neg_equity_1_21m_pnl_flip_bruto_drop_fte_drop_vaph_matrix_l5; rq_2309=done + rq_2310 open (EVERY-10 due); loop_state ticks=2309; raw docs/doge/data/raw/tick2309/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**next EVERY-10 is 2310** = next open). Next: rq_2310.

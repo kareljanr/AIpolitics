@@ -53908,3 +53908,8 @@ bud_huis_stad_pnl_jr2025_statutory,vzw_huis_in_de_stad_tienen,2025,589003,,,stat
 bud_huis_stad_equity_jr2025_statutory,vzw_huis_in_de_stad_tienen,2025,9264665,,,statutory_accounts,src_huis_stad_jr2025_cw_en,medium,tick2308; equity JUMP +5.33%
 bud_huis_stad_fte_jr2025_statutory,vzw_huis_in_de_stad_tienen,2025,122.2,,,statutory_accounts,src_huis_stad_jr2025_cw_en,medium,tick2308; FTE 122.2
 bud_huis_stad_pnl_jr2024_statutory_cmp,vzw_huis_in_de_stad_tienen,2024,318745,,,statutory_accounts,src_huis_stad_jr2025_cw_en,medium,tick2308; YE2024 cmp
+bud_zewopa_omzet_jr2025_statutory,vzw_zewopa_lier,2025,1492730,1492730,1492730,CW statutory omzet YE2025 primary envelope,src_zewopa_jr2025_cw_en,medium,tick2309; omzet 1492730 JUMP +1.76% vs 1466924
+bud_zewopa_bruto_jr2025_statutory,vzw_zewopa_lier,2025,1602575,1602575,1602575,CW statutory bruto YE2025 (~1.07x omzet),src_zewopa_jr2025_cw_en,medium,tick2309; bruto 1602575 DROP -14.36% vs 1871278
+bud_zewopa_pnl_jr2025_statutory,vzw_zewopa_lier,2025,67635,67635,67635,CW statutory pnl YE2025 FLIP from LOSS,src_zewopa_jr2025_cw_en,medium,tick2309; pnl FLIP 67635 vs YE2024 LOSS -100456
+bud_zewopa_equity_jr2025_statutory,vzw_zewopa_lier,2025,-1211742,-1211742,-1211742,CW statutory equity YE2025 NEGATIVE,src_zewopa_jr2025_cw_en,medium,tick2309; equity NEG -1211742 improving vs -1278181
+bud_zewopa_fte_jr2025_statutory,vzw_zewopa_lier,2025,21.0,21.0,21.0,CW FTE YE2025 DROP,src_zewopa_jr2025_cw_en,medium,tick2309; FTE 21.0 DROP vs 26.9

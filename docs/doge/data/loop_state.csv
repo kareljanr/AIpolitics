@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-27T20:15:00Z,rq_2308,2308,no,tick2308 leftover dual Huis in de Stad 0407.637.748 Medium (omzet 1362831; bruto JUMP 10650107 ~7.81x; pnl JUMP 589003 +84.79%; equity JUMP 9264665; FTE 122.2; 3 VE Tienen VAPH); Domino@2307 may still be in_progress; AGB Bornem JR2024; FARO/AIESH YE2024; next rq_2309; next EVERY-10 2310; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T12:56:51Z,rq_2309,2309,no,tick2309 leftover dual Zewopa 0421.896.748 Medium (omzet JUMP 1492730; bruto DROP 1602575; pnl FLIP 67635; equity NEG -1211742; FTE DROP 21.0; 6 VE Lier VAPH); after Huis in de Stad@2308; AGB/FARO YE2024; next rq_2310; next EVERY-10 2310; continuous hole_fill

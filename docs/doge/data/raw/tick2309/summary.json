@@ -1,0 +1,15 @@
+{
+  "tick": "2309",
+  "unit": "rq_2309",
+  "entity": "vzw_zewopa_lier",
+  "kbo": "0421.896.748",
+  "omzet": 1492730,
+  "bruto": 1602575,
+  "pnl": 67635,
+  "equity": -1211742,
+  "fte": 21.0,
+  "ratio": 1.07,
+  "confidence": "medium",
+  "gap": "gap_zewopa_nbb_pdf_assets_debt_neg_equity_1_21m_pnl_flip_bruto_drop_fte_drop_vaph_matrix_l5",
+  "pi": 5.35
+}
