@@ -1,9 +1,9 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2340** (2026-08-24) · **8196+** leaderboard rows  
+**As-of:** tick **2360** (2026-08-24) · **8217** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
-**cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
+**cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5
 
 **This is a prioritisation for cuts/review**, not a claim that these euros are illegal.
 
@@ -24,14 +24,15 @@
 | 9 | `lb_bcr_annexe2_reporte_wave` | BCR Annexe2 reporté wave systemic 2026 | **300.60 m** | 9.0 | 9.0 | 3 | **8.4** | Strong CoA wave: OAA consol reporté |
 | 10 | `lb_dual_cars_ssc_taxex` | Dual company car CO2 SSC under-collection vs taxex | **278.52 m** | 8.5 | 9.5 | 6 | **8.4** | Strong dual: SSC CO2 278m + cum gap |
 
-**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2331-2340:** **Konekt empty omzet / bruto 1.87m** (EVERY-10@2340) · OZC Sint-Vincentius ~7.67x · GielsBos ~7.8x · Apojo ~7.71x · WWPA · Vier Notelaars · De Cirkel · Wieltjesgracht.
+**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2341-2360:** **CAR Noordhoek omzet 2.07m / pnl DROP -76% / 1.50m kapitaalsubsidies** (EVERY-10@2360 Strong PDF) · Oostakker 90k destin · Stappie 130k destin · 't Vlot 260k destin · Het Veer 270k destin · Ter Kouter 900k destin · Adem ~17.53x · De Branding ~6.58x · Staf ~68x · Leieborg ~9.2x · Helan HH 115m.
 
-**Change vs tick 2330:** pure annual top10 **stable**. **Major NEW residual 2331-2340:** Konekt EVERY-10 primary + OZC/GielsBos/Apojo bruto≫omzet stack. Not TE-additive of ~348bn.
+**Change vs tick 2340:** pure annual top10 **stable**. **Major NEW residual 2341-2360:** Noordhoek EVERY-10 primary + same-zetel CAR cluster (Ter Kouter→Oostakker) + Helan/Leieborg/Staf/Adem bruto≫omzet stack. Not TE-additive of ~348bn.
 
 ### High-absurdity residual (not pure top10)
 
-- **Konekt** EVERY-10 primary empty omzet / bruto **EUR1.87m** / pnl DROP / FTE **24.5** — Gent inclusion Aanbestedende.
-- **OZC Sint-Vincentius** bruto **EUR19.67m** / ~**7.67x** / pnl DROP.
-- **GielsBos** bruto **EUR41.72m** / ~**7.80x** / FTE **509**.
-- **Apojo** bruto **EUR20.49m** / ~**7.71x** / pnl DROP.
-- **Vier Notelaars** bruto **EUR2.86m** / ~**5.72x** / pnl LOSS FLIP.
+- **CAR Noordhoek** EVERY-10 primary omzet **EUR2.07m** / pnl DROP **−76%** / kapitaalsubsidies **EUR1.50m** / cash **EUR1.57m** / FTE **25.8** — Torhout St. Rembert Aanbestedende.
+- **Helan Huishoudhulp** omzet **EUR115.15m** / pnl JUMP +690% / FTE **2809**.
+- **Staf Leuven** bruto **EUR5.05m** / ~**68.12x** / pnl PROFIT FLIP.
+- **Adem** bruto **EUR16.86m** / ~**17.53x** / pnl LOSS JUMP.
+- **Leieborg** bruto **EUR39.20m** / ~**9.2x** / FTE **468.6**.
+- **CAR Ter Kouter** destin lock **EUR900k** vs pnl **EUR52k**.
