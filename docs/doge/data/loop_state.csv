@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-28T03:35:00Z,rq_2344,2344,no,tick2344 leftover dual De Ark Antwerpen 0458.809.703 Medium (omzet empty; bruto JUMP 3071134; pnl LOSS -178168; equity DROP 4556337; FTE 39.9; 2 VE Mortsel VAPH L'Arche); after Perrekes@2343; AGB/FARO YE2024; next rq_2345; next EVERY-10 2350
+main,continuous,hole_fill,2026-08-24T19:30:00Z,rq_2346,2345,no,tick2345 leftover dual Staf 0431.333.660 Medium (omzet 74103; bruto 5047619 ~68.12x; pnl PROFIT FLIP 156705; equity 2593536; FTE 61.4; 4 VE RSZ 88.106); after Blijdorp@2344; AGB/FARO YE2024; next rq_2347; next EVERY-10 2350

@@ -54123,3 +54123,13 @@ bud_de_ark_antwerpen_bruto_jr2025_statutory,vzw_de_ark_antwerpen_mortsel,2025,30
 bud_de_ark_antwerpen_pnl_jr2025_statutory,vzw_de_ark_antwerpen_mortsel,2025,-178168,-178168,-178168,CW statutory winst/verlies YE2025 LOSS,src_de_ark_antwerpen_jr2025_cw_en,medium,tick2344; Medium CW; LOSS improved +17.39% vs -215675
 bud_de_ark_antwerpen_equity_jr2025_statutory,vzw_de_ark_antwerpen_mortsel,2025,4556337,4556337,4556337,CW statutory eigen_vermogen YE2025 DROP,src_de_ark_antwerpen_jr2025_cw_en,medium,tick2344; Medium CW; equity -4.29% vs 4760681
 bud_de_ark_antwerpen_fte_jr2025_statutory,vzw_de_ark_antwerpen_mortsel,2025,39.9,39.9,39.9,CW social-balance FTE 39.9,src_de_ark_antwerpen_jr2025_cw_en,medium,tick2344; Medium CW; FTE 39.9 vs 39.4
+bud_de_lier_omzet_jr2025_statutory,vzw_de_lier_lier,2025,208800,208800,208800,CW statutory omzet YE2025 JUMP,src_de_lier_jr2025_cw_en,medium,tick2345; +0.38% vs 208000
+bud_de_lier_bruto_jr2025_statutory,vzw_de_lier_lier,2025,2970446,2970446,2970446,CW statutory bruto_marge YE2025 ~14.23x,src_de_lier_jr2025_cw_en,medium,tick2345; +2.74% vs 2891284
+bud_de_lier_pnl_jr2025_statutory,vzw_de_lier_lier,2025,196270,196270,196270,CW statutory winst/verlies YE2025 JUMP,src_de_lier_jr2025_cw_en,medium,tick2345; +3.55% vs 189533
+bud_de_lier_equity_jr2025_statutory,vzw_de_lier_lier,2025,2426082,2426082,2426082,CW statutory eigen_vermogen YE2025 JUMP,src_de_lier_jr2025_cw_en,medium,tick2345; +7.97% vs 2247082
+bud_de_lier_fte_jr2025_statutory,vzw_de_lier_lier,2025,34.9,34.9,34.9,CW FTE 34.9,src_de_lier_jr2025_cw_en,medium,tick2345; FTE JUMP vs 32.9
+bud_staf_omzet_jr2025_statutory,vzw_staf_leuven,2025,74103,74103,74103,CW statutory omzet YE2025 JUMP +33.22%,src_staf_jr2025_cw_en,medium,tick2345; +33.22% vs 55626
+bud_staf_bruto_jr2025_statutory,vzw_staf_leuven,2025,5047619,5047619,5047619,CW statutory bruto_marge YE2025 ~68.12x omzet,src_staf_jr2025_cw_en,medium,tick2345; ~68.12x omzet
+bud_staf_pnl_jr2025_statutory,vzw_staf_leuven,2025,156705,156705,156705,CW statutory winst/verlies YE2025 PROFIT FLIP,src_staf_jr2025_cw_en,medium,tick2345; FLIP vs -2708
+bud_staf_equity_jr2025_statutory,vzw_staf_leuven,2025,2593536,2593536,2593536,CW statutory eigen_vermogen YE2025 JUMP,src_staf_jr2025_cw_en,medium,tick2345; +6.43%
+bud_staf_fte_jr2025_statutory,vzw_staf_leuven,2025,61.4,61.4,61.4,CW FTE 61.4,src_staf_jr2025_cw_en,medium,tick2345; JUMP vs 58.7

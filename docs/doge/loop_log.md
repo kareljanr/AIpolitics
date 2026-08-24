@@ -26792,3 +26792,17 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.1); entities (+1); foi + draft gap_de_ark_antwerpen_*; rq_2344=done + rq_2345 open; loop_state ticks=2344; raw tick2344/.
 - FOI: **ready not sent**. NOT every-10 (next **2350**). Next: rq_2345.
 
+
+### 2026-08-24T19:50:00Z - tick 2345 - rq_2345 De Lier Lier (bruto JUMP 2.97m / ~14.23x omzet / pnl JUMP / FTE 34.9 / Medium)
+
+- Unit: **rq_2345** leftover dual after **De Korenbloem@2345**. Prefer NON-stall: AGB Bornem / FARO / AIESH still **YE2024**; Gandae/Aralea/Manupal/Vlotter still YE2024. Took FREE Flemish VAPH **De Lier VZW** YE2025 (KBO **0420.126.202**; Berlarij 61, 2500 Lier; **Actief** **1 VE**; RSZ **87.202**; info@deliervzw.be). Do not redo Korenbloem/Blijdorp/De Ark/Perrekes/Aurelia stack.
+- Found: CW NL+EN YE2025 - omzet **EUR208800** JUMP +0.38%; bruto **EUR2970446** JUMP +2.74% (~**14.23x**); pnl **EUR196270** JUMP +3.55%; equity **EUR2426082** JUMP +7.97%; FTE **34.9** JUMP; neerlegging **23.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.68); entities (+1); foi + draft gap_de_lier_nbb_pdf_assets_debt_bruto_gt_omzet_14_23x_pnl_jump_vaph_matrix_l5; rq_2345=done + rq_2346 open; loop_state ticks=2345; raw tick2345/.
+- FOI: **ready not sent**. NOT every-10 (next **2350**). Next: rq_2346.
+
+### 2026-08-24T19:30:00Z - tick 2345 - rq_2346 Staf Leuven (bruto JUMP 5.05m / ~68.12x omzet / pnl PROFIT FLIP / FTE 61.4 / Medium)
+
+- Unit: **rq_2346** leftover dual after Blijdorp@2344. Prefer NON-stall AGB/FARO YE2024. Took FREE VAPH dagcentrum **Staf VZW** YE2025 (KBO **0431.333.660**; Prins-Regentplein 13, 3010 Leuven; 4 VE; RSZ 88.106; info@wijzijnstaf.be).
+- Found: CW NL+EN+FR — omzet **EUR74103**; bruto **EUR5047619** (~**68.12x**); pnl **EUR156705** PROFIT FLIP; equity **EUR2593536**; FTE **61.4**; filed **2026-07-14**. Medium. Assets/debt Unknown.
+- Wrote: sources(+5) budgets(+5) commitments(+1) leaderboard(+1 pi 6.85) entities(+1) foi+draft; rq_2346=done + rq_2347 open; ticks=2345.
+- FOI: **ready not sent**. NOT every-10 (next **2350**). Next: rq_2347.
