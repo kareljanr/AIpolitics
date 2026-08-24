@@ -24251,3 +24251,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.5); entities (+1 bv_care_support_houthalen); foi + draft gap_care_support_nbb_pdf_assets_debt_omzet_empty_pnl_jump_matrix_l5; progress_every_10_ticks.md + doge_waste_top10_current.md refreshed; rq_2130=done + rq_2131 open; loop_state ticks=2130; raw docs/doge/data/raw/tick2130/.
 - FOI: **ready not sent** (human-gated).
 - **EVERY-10@2130** (last was 2120; **next 2140**). Pure annual top10 stable (GIP/fossil/cars/cheque). Next: rq_2131 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+
+## Tick 2131 - 2026-08-25T13:45:00Z - rq_2131 L'Orchidée Ittre (omzet JUMP 4.47m / thin equity 0.20m / Medium)
+
+- Unit: **rq_2131** leftover dual after **rq_2130 Care-Support EVERY-10**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took deferred unused leftover **L'Orchidée ASBL Ittre** YE2025 (KBO **0458.352.318**; Rue des Rabots 27 Ittre; **VZW/ASBL** NACE **87.301** / **1 VE**; Armonea/Colisée Remy Yves path). Do not redo Care-Support/Restel Flats/De Fakkel/MPC Sint-Franciscus/Famifamenne/SLG Wallonie/Armonea holding.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR4468744** JUMP +9.32% vs YE2024 EUR4087776; bruto **EUR4201164** JUMP +5.18%; pnl **EUR101039** DROP -5.77%; equity **EUR202028** JUMP +100.05% (thin ~4.5pct of omzet; YE2023 negative); FTE **66.5** vs 64.8; neerlegging **01.08.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via orchidee.admin@armonea.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.8); entities (+1 asbl_lorchidee_ittre); foi + draft gap_lorchidee_ittre_nbb_pdf_assets_debt_thin_equity_omzet_jump_matrix_l5; rq_2131=done + rq_2132 open; loop_state ticks=2131; raw docs/doge/data/raw/tick2131/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2130**; next **2140**). Next: rq_2132 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
