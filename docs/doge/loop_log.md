@@ -24235,3 +24235,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.4); entities (+1 vzw_mpc_sint_franciscus_roosdaal); foi + draft gap_mpc_sint_franciscus_nbb_pdf_assets_debt_pnl_drop_bruto_matrix_l5; rq_2129=done + rq_2130 open EVERY-10; loop_state ticks=2129; raw docs/doge/data/raw/tick2128/mpc_*.html.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 this tick (**next rq_2130=2130 EVERY-10**). Next: rq_2130 (progress+top10 + AGB/FARO-if-YE2025 / AIESH-REW / unused).
+
+## Tick 2129 - 2026-08-25T13:10:00Z - rq_2129 Restel Flats Mechelen (omzet JUMP 57.23m / LOSS narrow -0.25m / Medium)
+
+- Unit: **rq_2129** leftover dual after **rq_2128 Zorghome De Fakkel**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took deferred unused leftover **Restel Flats BV** YE2025 (KBO **0413.550.491**; Stationsstraat 102 Mechelen; **BV** NACE **87.101/87.302/87.301** / **10 VE**; Armonea/Colisee Remy Yves path; Citadelle Mosane absorbed 07.10.2024). Do not redo Fakkel/SLG Wallonie/Chateau Vert/Famifamenne/Le Castel/RSW/Sebrechts/Armonea holding. Concurrent race also landed MPC Sint-Franciscus as alternate tick2129 — both kept; Orchidee still deferred.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR57228405** JUMP +7.65% vs YE2024 EUR53160885; bruto **EUR44532935** JUMP +1.82%; pnl **EUR-245023** LOSS IMPROVE 87.06% vs YE2024 EUR-1893439; equity **EUR19115227** DROP -1.27%; FTE **714.6** vs 719.8; neerlegging **15.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@armonea.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.1); entities (+1 bv_restel_flats); foi + draft gap_restel_flats_nbb_pdf_assets_debt_omzet_jump_loss_narrow_matrix_l5; rq_2129=done + rq_2130 open (EVERY-10); loop_state ticks=2129; raw docs/doge/data/raw/tick2129/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2120**; next **2130** MUST refresh progress + waste top10). Next: rq_2130 EVERY-10 (AGB/FARO-if-YE2025 / AIESH-REW / L'Orchidee / unused IGS-DSO-WZC-MRS).
