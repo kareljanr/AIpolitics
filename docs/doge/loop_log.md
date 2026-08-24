@@ -24193,3 +24193,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.4); entities (+1 nv_famifamenne); foi + draft gap_famifamenne_nbb_pdf_assets_debt_omzet_jump_fte_jump_matrix_l5; rq_2125=done + rq_2126 open; loop_state ticks=2125; raw docs/doge/data/raw/tick2125/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2120**; next **2130**). Next: rq_2126 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+## Tick 2126 - 2026-08-25T12:20:00Z - rq_2126 SLG Wallonie Namur (omzet JUMP 44.73m / FTE JUMP 78→545 / LOSS -1.21m / Medium)
+
+- Unit: **rq_2126** leftover dual after **rq_2125 Famifamenne**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **SLG Wallonie SRL** YE2025 (KBO **0427.821.963**; Rue des VII Voyes 9 Namur; **BV/SRL** NACE **87.101/87.302** / **2 VE**; Korian path; mid-2025 absorption of 7 Walloon MRS). Do not redo Famifamenne/Le Castel/RSW/Home Sebrechts/Unite/'t Buurthuis/Le Bosquet/Strebo/Entraide/SLG Operaties VL/Korian holding/Armonea holding.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR44731152** JUMP +549.26% vs YE2024 EUR6889604; bruto **EUR27100572** JUMP +437.84%; pnl **EUR-1210267** LOSS WIDEN vs YE2024 EUR-21853; equity **EUR8741449** JUMP +577.14%; FTE **545.3** JUMP vs 78.1; neerlegging **28.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@korian.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.3); entities (+1 srl_slg_wallonie); foi + draft gap_slg_wallonie_nbb_pdf_assets_debt_merger_jump_loss_matrix_l5; rq_2126=done + rq_2127 open; loop_state ticks=2126; raw docs/doge/data/raw/tick2126/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2120**; next **2130**). Next: rq_2127 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
