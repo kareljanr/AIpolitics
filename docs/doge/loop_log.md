@@ -25051,3 +25051,11 @@ Append-only. Each tick adds a short entry.
 
 ### 2026-08-26T13:45:00Z - tick 2203 race note
 - Concurrent agent also closed rq_2203 as De Kromme Boom Gent YE2025 Medium (877e9a32; omzet 1.20m / equity NEG FLIP -79k / pnl LOSS IMPROVED) before/with Ijsedal. Both YE2025 Medium units kept. rq_2204 open head updated; do not redo either. Next every-10 still 2210.
+
+## Tick 2204 - 2026-08-26T14:00:00Z - rq_2204 Trianval Wetteren (omzet JUMP 6.10m / bruto>omzet ~1.74x / pnl JUMP +92% / Medium)
+
+- Unit: **rq_2204** leftover dual after **rq_2203 Ijsedal/Kromme Boom**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; REW still **YE2024**. Took named FREE leftover **Trianval VZW** YE2025 (KBO **0419.052.074**; Biezeweg 8 Wetteren; **Actief** **3 VE**; RSZ NACE **88.993**). Do not redo Ijsedal/De Kromme Boom/Aarova/Kaliber/MWP Pajottenland/De Winning/Atelier Groot Eiland/Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR6103169** JUMP +18.7% vs YE2024 EUR5141842; bruto **EUR10640408** JUMP +14.25% (bruto>omzet ~1.74x); pnl **EUR748211** JUMP +91.54% vs YE2024 EUR390627; equity **EUR15150698** JUMP +5.26%; FTE **255.3** JUMP vs 248.1; neerlegging **01.05.2026**. Strong KBO Actief 3 VE. Assets/debt Unknown. Medium. FOI via info@trianval.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.6); entities (+1 vzw_trianval_wetteren); foi + draft gap_trianval_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_jump_matrix_l5; rq_2204=done + rq_2205 open; loop_state ticks=2204; raw docs/doge/data/raw/tick2204/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2205 (AGB/FARO-if-YE2025 / AIESH-REW / Oesterbank-or-unused IGS-DSO-WZC-MRS-HVZ).
