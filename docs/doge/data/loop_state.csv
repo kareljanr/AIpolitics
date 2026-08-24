@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T18:00:00Z,rq_2217,2217,no,tick2217 leftover Werkmmaat 0817.381.683 Medium (bruto JUMP 3.24m; omzet empty; pnl JUMP 535k +602%; equity JUMP 1.67m +47%; FTE DROP 60.1; 10 VE Antwerpen); AGB Bornem JR2024; FARO/REW YE2024; next rq_2218; next every-10 2220; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T18:20:00Z,rq_2218,2218,no,tick2218 leftover Veerkracht4 0452.454.124 Medium (bruto JUMP 3.76m; omzet empty; pnl JUMP 477k +72%; equity JUMP 2.88m +20%; FTE JUMP 82.6; 1 VE Menen); AGB Bornem JR2024; FARO/REW YE2024; next rq_2219; next every-10 2220; continuous hole_fill

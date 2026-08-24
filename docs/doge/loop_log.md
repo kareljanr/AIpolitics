@@ -25215,3 +25215,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2210**; next **2220**). Next: rq_2218.
 
+
+## Tick 2218 - 2026-08-26T18:20:00Z - rq_2218 Veerkracht 4 Menen (bruto JUMP 3.76m / empty omzet / pnl JUMP +72% / equity JUMP +20% / Medium)
+
+- Unit: **rq_2218** leftover dual after Werkmmaat. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; REW still **YE2024**. Took named FREE leftover **Veerkracht 4 VZW** YE2025 (KBO **0452.454.124**; Bruggestraat 465 Menen; **Actief** **1 VE**; RSZ NACE **88.993**). Deferred FREE Opnieuw&Co. Do not redo Werkmmaat/Constructief/Groep Maatwerk/OptimaT/Odas/Ecoso/Forena.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **empty/unpublished**; bruto **EUR3764584** JUMP +20.62% vs YE2024 EUR3121096; pnl **EUR477239** JUMP +71.89% vs YE2024 EUR277650; equity **EUR2883926** JUMP +20.09%; FTE **82.6** JUMP vs 79.5; neerlegging **23.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@veerkracht4.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.90); entities (+1 vzw_veerkracht4_menen); foi + draft gap_veerkracht4_nbb_pdf_assets_debt_empty_omzet_pnl_jump_equity_jump_matrix_l5; rq_2218=done + rq_2219 open; loop_state; raw docs/doge/data/raw/tick2218/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2210**; next **2220**). Next: rq_2219.
+
