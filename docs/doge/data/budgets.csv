@@ -53749,3 +53749,8 @@ bud_de_sprong_bruto_jr2025_statutory,vzw_de_sprong_meerhout,2025,4526068,4526068
 bud_de_sprong_pnl_jr2025_statutory,vzw_de_sprong_meerhout,2025,56628,56628,56628,CW statutory winst/verlies YE2025 DROP,src_de_sprong_jr2025_cw_en,medium,tick2287; Medium CW; pnl DROP -3.62% vs YE2024 58754
 bud_de_sprong_equity_jr2025_statutory,vzw_de_sprong_meerhout,2025,2621748,2621748,2621748,CW statutory eigen_vermogen YE2025 JUMP,src_de_sprong_jr2025_cw_en,medium,tick2287; Medium CW; equity JUMP +1.82% vs YE2024 2574854
 bud_de_sprong_fte_jr2025_statutory,vzw_de_sprong_meerhout,2025,110.9,110.9,110.9,CW social-balance FTE 110.9,src_de_sprong_jr2025_cw_en,medium,tick2287; Medium CW; FTE 110.9 vs YE2024 106.4; assets/debt Unknown
+bud_desprong_bruto_jr2025_statutory,vzw_de_sprong_meerhout,2025,4526068,4526068,4526068,CW statutory bruto YE2025 (omzet unpublished),src_desprong_jr2025_cw_en,medium,tick2286; bruto 4526068 JUMP +6.88% vs 4234619; empty omzet
+bud_desprong_pnl_jr2025_statutory,vzw_de_sprong_meerhout,2025,56628,56628,56628,CW statutory pnl YE2025,src_desprong_jr2025_cw_en,medium,tick2286; pnl 56628 DROP -3.62% vs 58754
+bud_desprong_equity_jr2025_statutory,vzw_de_sprong_meerhout,2025,2621748,2621748,2621748,CW statutory equity YE2025,src_desprong_jr2025_cw_en,medium,tick2286; equity 2621748 JUMP +1.82% vs 2574854
+bud_desprong_fte_jr2025_statutory,vzw_de_sprong_meerhout,2025,110.9,110.9,110.9,CW FTE YE2025,src_desprong_jr2025_cw_en,medium,tick2286; FTE 110.9 JUMP vs 106.4
+bud_desprong_pnl_jr2024_statutory_cmp,vzw_de_sprong_meerhout,2024,58754,58754,58754,CW pnl YE2024 comparative,src_desprong_jr2025_cw_en,medium,tick2286; YE2024 pnl 58754 comparative
