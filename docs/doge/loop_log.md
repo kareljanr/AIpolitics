@@ -24316,3 +24316,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.8); entities (+1 sc_residence_prestige_chaudfontaine); foi + draft gap_prestige_chaudfontaine_nbb_pdf_assets_debt_omzet_empty_pnl_profit_flip_thin_equity_matrix_l5; rq_2138=done + rq_2139 open; loop_state ticks=2138; raw docs/doge/data/raw/tick2138/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2130**; next **2140**). Next: rq_2139 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+## Tick 2139 - 2026-08-25T16:20:00Z - rq_2139 Maison De Repos En Famille Vaux (bruto JUMP 1.03m / pnl FLIP LOSS -19k / Medium)
+
+- Unit: **rq_2139** leftover dual after **rq_2138 Residence Prestige** (race: concurrent took Prestige as 2138). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; La Moisson absorbed blocked. Took unused leftover **Maison De Repos En Famille SRL** YE2025 (KBO **0466.114.791**; Salvacourt 11 Vaux-sur-Sûre; **BV/SRL** NACE **87.301** / **1 VE**; **aanbestedende overheid**). Do not redo Prestige/Corolles/Esplanade/Les Peupliers/Comte d'Egmont/CIGB/Ten Rozen/L'Orchidée/La Moisson.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR1033029** JUMP +4.55% vs YE2024 EUR988068; pnl **EUR-19390** FLIP LOSS from YE2024 PROFIT EUR9411; equity **EUR197533** DROP -8.94%; FTE **12.9** vs 13.4; neerlegging **16.04.2026**. KBO Strong Actief + aanbestedende overheid. Assets/debt Unknown. Medium. FOI via info@residenceenfamille.be.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.3); entities (+1 srl_maison_de_repos_en_famille_vaux); foi + draft gap_en_famille_vaux_nbb_pdf_assets_debt_omzet_empty_pnl_flip_loss_matrix_l5; rq_2139=done + rq_2140 open EVERY-10; loop_state ticks=2139; raw docs/doge/data/raw/tick2139/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 this tick (**next rq_2140=2140 EVERY-10** must refresh progress+top10). Next: rq_2140 (progress+top10 + AGB/FARO-if-YE2025 / AIESH-REW / unused).
