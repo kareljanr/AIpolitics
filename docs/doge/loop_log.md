@@ -25937,3 +25937,9 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.70); entities (+1 vzw_apac_manage); foi + draft gap_apac_nbb_pdf_assets_debt_empty_omzet_bruto_3_15m_pnl_drop_67pct_eta_matrix_l5; rq_2275=done + rq_2276 open; loop_state ticks=2275; raw docs/doge/raw/tick2275/ + data/raw/tick2275/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2276 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Foes-if-YE2025 / unused ETA).
+
+### 2026-08-27T11:00:00Z - tick 2275 reconcile - Adapta FOI draft + rq_2276 fix (after A.P.A.C. primary race)
+
+- Concurrent fire claimed **rq_2275 A.P.A.C.** as primary (pushed a062097a). Parallel Adapta YE2025 fill (bruto **EUR1940340** empty omzet / pnl LOSS FLIP **-42542** / FTE **63.8** / Medium) already landed in same-commit-window CSVs.
+- This reconcile: FOI draft gap_adapta_nbb_pdf_assets_debt_empty_omzet_pnl_loss_flip_eta_matrix_l5 ready NOT sent; **rq_2276** retargeted after A.P.A.C. primary (+ Adapta race). Do not redo A.P.A.C./Adapta.
+- Next: rq_2276 (AGB/FARO-if-YE2025 / AIESH-REW / unused ETA Criquelion-if-YE2025). Next EVERY-10 **2280**.
