@@ -26323,3 +26323,11 @@ Append-only. Each tick adds a short entry.
 - Found: omzet EUR94059; bruto EUR198928 ~2.11x; pnl EUR-52677 LOSS FLIP; equity EUR50225 DROP -51%; FTE 5.0; filed 03.06.2026. Medium.
 - Wrote: CSVs + FOI gap_mlp_nbb_pdf_assets_debt_bruto_gt_omzet_2_11x_pnl_loss_flip_equity_drop_51pct_matrix_l5; rq_2302=done + rq_2303 open; ticks=2302.
 - FOI ready not sent. NOT every-10 (last 2300; next 2310).
+
+### 2026-08-24T12:44:54Z - tick 2302 - rq_2302 Thomas More Mechelen-Antwerpen (omzet JUMP 92.12m / pnl JUMP +16% / equity 82.59m / Medium)
+
+- Unit: **rq_2302** finish **in_progress** leftover dual after **Havinet@2301** (claim notes: Thomas More MA). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Gandae still **YE2024**. Took claimed FREE VL hogeschool **Thomas More Mechelen-Antwerpen VZW** YE2025 (KBO **0455.411.733**; Zandpoortvest 60 Mechelen; **Actief** **11 VE**; NACE **85.402**; Aanbestedende overheid). Do not redo Havinet/De Kiem/JOMI/De Stobbe/De Okkernoot/SOBO/Ryhove/MPI Oosterlo stack. DISTINCT Thomas More Kempen.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR92122094** JUMP +5.57% vs YE2024 EUR87258066; bruto **EUR85855378** JUMP +5.83% (~**0.93x**); pnl **EUR6481920** JUMP +16.21% vs YE2024 EUR5577807; equity **EUR82591264** JUMP +7.31%; FTE **259.0** (vs 247.0); neerlegging **01.04.2026**. Strong KBO Actief 11 VE VZW. Assets/debt Unknown. Medium. FOI via info@thomasmore.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.9); entities (+1 vzw_thomas_more_mechelen_antwerpen); foi + draft gap_tmma_nbb_pdf_assets_debt_omzet_92_12m_pnl_jump_equity_82_59m_fte_opacity_he_matrix_l5; rq_2302=done + rq_2303 open; loop_state ticks=2302; raw docs/doge/data/raw/tick2302/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2300**; next **2310**). Next: rq_2303 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk / TM Kempen-if-unused).

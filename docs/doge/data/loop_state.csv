@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-27T18:30:00Z,rq_2302,2302,no,tick2302 MLP 0765.569.332 Medium (bruto 198928 ~2.11x; pnl LOSS FLIP -52677; equity DROP 50225); after Havinet@2301; next rq_2303; next every-10 2310
+main,continuous,hole_fill,2026-08-24T12:44:54Z,rq_2302,2302,no,tick2302 leftover dual TMMA 0455.411.733 Medium (omzet JUMP 92122094 +5.57%; bruto JUMP 85855378 ~0.93x; pnl JUMP 6481920 +16.21%; equity JUMP 82591264; FTE JUMP 259.0; 11 VE hogeschool Mechelen-Antwerpen); after Havinet@2301; AGB Bornem JR2024; FARO/AIESH YE2024; next rq_2303; next EVERY-10 2310; continuous hole_fill

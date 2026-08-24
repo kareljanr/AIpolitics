@@ -53858,3 +53858,8 @@ bud_mlp_omzet_jr2025_statutory,vzw_mlp_maakleerplek_leuven,2025,94059,94059,9405
 bud_mlp_pnl_jr2025_statutory,vzw_mlp_maakleerplek_leuven,2025,-52677,-52677,-52677,CW pnl LOSS FLIP,src_mlp_jr2025_cw_en,medium,tick2302
 bud_mlp_equity_jr2025_statutory,vzw_mlp_maakleerplek_leuven,2025,50225,50225,50225,CW equity YE2025,src_mlp_jr2025_cw_en,medium,tick2302
 bud_mlp_fte_jr2025_statutory,vzw_mlp_maakleerplek_leuven,2025,5.0,5.0,5.0,CW FTE,src_mlp_jr2025_cw_en,medium,tick2302
+bud_tmma_omzet_jr2025_statutory,vzw_thomas_more_mechelen_antwerpen,2025,92122094,92122094,92122094,CW statutory omzet YE2025 primary envelope (VL-subsidised HE),src_tmma_jr2025_cw_en,medium,tick2302; omzet 92122094 JUMP +5.57% vs 87258066
+bud_tmma_bruto_jr2025_statutory,vzw_thomas_more_mechelen_antwerpen,2025,85855378,85855378,85855378,CW statutory bruto YE2025 (~0.93x omzet),src_tmma_jr2025_cw_en,medium,tick2302; bruto 85855378 JUMP +5.83% vs 81128349; ~0.93x omzet
+bud_tmma_pnl_jr2025_statutory,vzw_thomas_more_mechelen_antwerpen,2025,6481920,6481920,6481920,CW statutory pnl YE2025 JUMP,src_tmma_jr2025_cw_en,medium,tick2302; pnl 6481920 JUMP +16.21% vs YE2024 5577807
+bud_tmma_equity_jr2025_statutory,vzw_thomas_more_mechelen_antwerpen,2025,82591264,82591264,82591264,CW statutory equity YE2025 JUMP,src_tmma_jr2025_cw_en,medium,tick2302; equity 82591264 JUMP +7.31% vs 76965294
+bud_tmma_fte_jr2025_statutory,vzw_thomas_more_mechelen_antwerpen,2025,259.0,259.0,259.0,CW FTE YE2025 (may undercount vs campus headcount),src_tmma_jr2025_cw_en,medium,tick2302; FTE 259.0 vs 247.0; reconcile vs full academic/admin headcount FOI
