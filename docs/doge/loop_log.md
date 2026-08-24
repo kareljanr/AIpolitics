@@ -25556,3 +25556,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2240**; next **2250**). Next: rq_2242 (AGB/FARO-if-YE2025 / AIESH-REW / Le Perron-IN-Z-or-unused).
 
+
+
+## Tick 2241 - 2026-08-27T02:25:00Z - rq_2241 L'Atelier Namur (bruto 12.09m / bruto≫omzet ~2.07x / pnl LOSS FLIP / Medium)
+
+- Unit: **rq_2241** leftover dual after **rq_2240 Axedis**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; ETA 123 Beauraing / Axedis / Senes already mined. Took FREE unused Namur ETA **L'Atelier ASBL** YE2025 (KBO **0407.884.307**; Rue des Pieds d'Alouette 51-53 Namur/Naninne; **Actief** **1 VE**; NACE **88.993** AViQ). Do not redo Axedis/ETA123/Manufast/Metalgroup/EntrAnam stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR5845927** JUMP +0.75% vs YE2024 EUR5802371; bruto **EUR12091076** JUMP +1.62% (bruto≫omzet ~2.07x); pnl **EUR-64415** LOSS FLIP vs YE2024 profit EUR50410; equity **EUR6288893** DROP -2.25%; FTE **324.7** DROP vs 326.6; neerlegging **27.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@atelier-namur.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.40); entities (+1 vzw_latelier_namur); foi + draft gap_latelier_nbb_pdf_assets_debt_bruto_gt_omzet_2_07x_pnl_loss_flip_eta_matrix_l5; rq_2241=done + rq_2242 open; loop_state ticks=2241; raw docs/doge/raw/tick2241/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2240**; next **2250**). Next: rq_2242 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
