@@ -25385,3 +25385,22 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.50); entities (+1 vzw_kiemkracht_hamme); foi + draft gap_kiemkracht_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_drop_75pct_matrix_l5; rq_2230=done + rq_2231 open; loop_state ticks=2230; raw docs/doge/raw/tick2230/.
 - FOI: **ready not sent** (human-gated).
 - Next: rq_2231 (AGB/FARO-if-YE2025 / AIESH-REW / Heropbeuring-or-unused).
+
+
+## Tick 2230 - 2026-08-26T22:15:00Z - rq_2230 EVERY-10 + Travie (bruto 11.39m / ~2.84x omzet / pnl DROP -89% / Medium)
+
+- Unit: **rq_2230** EVERY-10 + leftover dual after **rq_2229 De Oever**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW probe **404**/YE2024-class; Heropbeuring filed 25.06.2026 but **CW kern opaque** (FTE-only). Took named FREE leftover **Travie VZW** YE2025 (KBO **0420.015.938**; Vaartdijk 40 Anderlecht; **Actief** **1 VE**; NACE **88.993/88.995** maatwerk/ETA). Do not redo De Oever/ViTeS BE/Midwest/ViTeS/Reset/Manus stack.
+- EVERY-10: refreshed `progress_every_10_ticks.md` (tick 2230 snapshot; **A 100% / B 100% / C ~99% / D ~74-88% / E ~1877 FOI-ready**; inventory budgets 53328+ / lb 8047+) + `doge_waste_top10_current.md` (pure annual top10 **stable** GIP/fossil/cars/cheque/reporté; NEW residual 2221-2230 note incl. Travie EVERY-10 primary).
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR4014674** DROP -4.4% vs YE2024 EUR4199547; bruto **EUR11394051** flat -0.3% (bruto≫omzet ~**2.84x**); pnl **EUR36871** DROP -89.34% vs YE2024 EUR345798; equity **EUR5979074** DROP -1.17%; FTE **496.0** JUMP vs 493.0; neerlegging **10.07.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via contact@travie.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.46); entities (+1 vzw_travie_anderlecht); foi + draft gap_travie_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_drop_89pct_matrix_l5; rq_2230=done + rq_2231 open; loop_state ticks=2230; raw docs/doge/raw/tick2230/; EVERY-10 files refreshed.
+- FOI: **ready not sent** (human-gated).
+- Next: rq_2231 (AGB/FARO-if-YE2025 / AIESH-REW / Heropbeuring-or-unused). Next every-10 **2240**.
+
+
+## Tick 2231 - 2026-08-26T22:45:00Z - rq_2231 De Vleugels Houthulst (bruto JUMP 35.11m / bruto≫omzet ~7.37x / equity JUMP 35.35m / Medium)
+
+- Unit: **rq_2231** leftover dual after **rq_2230 Kiemkracht**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**. Took FREE leftover **De Vleugels VZW** YE2025 (KBO **0431.408.290**; Stokstraat 1 Houthulst; **Actief** **7 VE**; NACE **87.202**; aanbestedende overheid / VAPH). Deferred FREE **SDB** / **Travie** / **Le Rucher** YE2025. Do not redo Kiemkracht/De Oever/ViTeS stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR4766566** JUMP +3.52% vs YE2024 EUR4604287; bruto **EUR35113710** JUMP +3.63% (bruto≫omzet ~7.37x); pnl **EUR2297992** JUMP +23% vs YE2024 EUR1868258; equity **EUR35353015** JUMP +6.86%; FTE **442.8** JUMP vs 434.8; neerlegging **01.07.2026**. Strong KBO Actief 7 VE aanbestedende overheid. Assets/debt Unknown. Medium. FOI via info@devleugels.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.90); entities (+1 vzw_de_vleugels_houthulst); foi + draft gap_de_vleugels_nbb_pdf_assets_debt_bruto_gt_omzet_7_37x_vaph_matrix_l5; rq_2231=done + rq_2232 open; loop_state ticks=2231; raw docs/doge/raw/tick2231/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2232 (AGB/FARO-if-YE2025 / AIESH-REW / SDB-Travie-Rucher-or-unused).
