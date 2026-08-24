@@ -25198,3 +25198,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2210**; next **2220**). Next: rq_2217 (AGB/FARO-if-YE2025 / AIESH-REW / Mobiel-Opnieuw-or-unused).
 
+
+## Tick 2216 - 2026-08-26T17:45:00Z - rq_2216 Kringloopwinkel Deltagroep (omzet JUMP 7.08m / bruto≫omzet ~1.44x / pnl DROP -76% / FTE JUMP / Medium)
+
+- Unit: **rq_2216** leftover dual after **rq_2215 Groep Maatwerk (+race Constructief)**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH probe thin/404-class; REW still **YE2024**. Took named FREE leftover **De Kringloopwinkel Deltagroep VZW** YE2025 (KBO **0455.224.265**; Warande(Heu) 9 Kortrijk; **Actief** **12 VE**; RSZ NACE **88.993** / BTW **47.792**) — Constructief sister. Do not redo Constructief/Groep Maatwerk/OptimaT/Odas/Ecoso/Werkhuizen MIN/ACG/Noordheuvel/Arcor/Kemphaan/Entiris/Oesterbank/Werkplus/Trianval/Ijsedal/Aarova/MWP/AGE stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR7084153** JUMP +4.73% vs YE2024 EUR6764072; bruto **EUR10211363** JUMP +6.79% (bruto≫omzet ~1.44x); pnl **EUR61321** DROP -75.52% vs YE2024 EUR250522; equity **EUR7022047** DROP -0.79%; FTE **234.3** JUMP vs 215.9; neerlegging **10.06.2026**. Strong KBO Actief 12 VE. Assets/debt Unknown. Medium. FOI via info@deltagroep.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.90); entities (+1 vzw_kringloopwinkel_deltagroep); foi + draft gap_kringloop_deltagroep_nbb_pdf_assets_debt_pnl_drop_bruto_gt_omzet_fte_jump_matrix_l5; rq_2216=done + rq_2217 open; loop_state ticks=2216; raw docs/doge/data/raw/tick2216/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2210**; next **2220**). Next: rq_2217 (AGB/FARO-if-YE2025 / AIESH-REW / Mobiel-or-unused).
