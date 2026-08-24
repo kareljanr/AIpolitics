@@ -24124,3 +24124,13 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (last **2110**; next **2120**). Next: rq_2120 every-10 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
 
+
+## Tick 2120 - 2026-08-25T10:25:00Z - rq_2120 EVERY-10 Le Bosquet Jolimont (omzet JUMP 3.88m / pnl FLIP / bruto 9.95m / Medium)
+
+- Unit: **rq_2120** EVERY-10 after **rq_2119 Strebo Services**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **ASBL Le Bosquet** YE2025 (KBO **0463.961.490**; Rue Ferrer(PAU) 159 La Louviere; **ASBL** NACE **88.911/86.109** / **13 VE**; aanbestedende overheid; Jolimont Pole Enfance creches). Do not redo Strebo/Entraide/La Charmille/Charmilles/Sittelles/Buissons/Residence 3/Elisabeth Aan Zee/XXe Aout/Ninove.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3879202** JUMP +10.65%; bruto **EUR9949859** JUMP +18.01%; pnl **EUR49091** FLIP from YE2024 LOSS EUR-327448; equity **EUR5057760** JUMP +29.96%; FTE **161.4** JUMP vs 136.3; neerlegging **10.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via secretariat.general@jolimont.be.
+- Progress: refreshed **progress_every_10_ticks.md** (tick 2120) + **doge_waste_top10_current.md** (top10 stable; NEW residual 2111-2120 stack).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.9); entities (+1 asbl_le_bosquet_jolimont); foi + draft gap_le_bosquet_nbb_pdf_assets_debt_pnl_flip_bruto_matrix_l5; progress+top10; rq_2120=done + rq_2121 open; loop_state ticks=2120; raw docs/doge/data/raw/tick2120/.
+- FOI: **ready not sent** (human-gated).
+- EVERY-10 done (last **2110**; next **2130**). Next: rq_2121 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
