@@ -24356,3 +24356,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.6); entities (+1 bv_seniors_care_ion_anderlecht); foi + draft gap_care_ion_nbb_pdf_assets_debt_equity_collapse_pnl_loss_matrix_l5; rq_2143=done + rq_2144 open; loop_state ticks=2143; raw docs/doge/data/raw/tick2143/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2140**; next **2150**). Next: rq_2144 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+## Tick 2144 - 2026-08-25T18:00:00Z - rq_2144 Zone de secours Dinaphi (FTE 50 / budget Unknown FOI / Medium)
+
+- Unit: **rq_2144** leftover dual after **rq_2143 Seniors Care-Ion** (race: concurrent closed 2142–2143 as Groep SF + Care-Ion). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Zone de secours Dinaphi** (KBO **0500.927.301**; Rue de Dinant 146 Beauraing; **Hulpverleningszone** / **13 VE**; 22 communes Namur sud). Do not redo Care-Ion/Groep Sint-Franciscus/Denderrust/Flemish HVZ stack/Brandweerzone Antwerpen.
+- Found: Strong KBO Actief + Medium CW FTE **50**; **no** CW/NBB YE kerncijfers (omzet/bruto/pnl/equity/budget **Unknown**). FOI via info@zsdinaphi.be for comptes 2025 + budget 2026 + communal/federal dotations. No invented euros.
+- Wrote: sources (+5); budgets (+1 FTE-only); commitments (+1); leaderboard (+1 pi 5.2 opacity); entities (+1 zs_dinaphi); foi + draft gap_dinaphi_budget_jr2025_dotation_commune_fed_matrix_l5; rq_2144=done + rq_2145 open; loop_state ticks=2144; raw docs/doge/data/raw/tick2144/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2140**; next **2150**). Next: rq_2145 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
