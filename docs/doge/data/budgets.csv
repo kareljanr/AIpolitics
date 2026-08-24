@@ -53969,3 +53969,9 @@ bud_homevil_bruto_jr2025_statutory,vzw_homevil_vilvoorde,2025,4124105,4124105,41
 bud_homevil_pnl_jr2025_statutory,vzw_homevil_vilvoorde,2025,870902,870902,870902,CW pnl YE2025 JUMP +160%,src_homevil_jr2025_cw_en,medium,tick2318; pnl 870902 vs 334982
 bud_homevil_equity_jr2025_statutory,vzw_homevil_vilvoorde,2025,6296387,6296387,6296387,CW equity YE2025,src_homevil_jr2025_cw_en,medium,tick2318; equity 6296387
 bud_homevil_fte_jr2025_statutory,vzw_homevil_vilvoorde,2025,41.1,41.1,41.1,CW FTE YE2025,src_homevil_jr2025_cw_en,medium,tick2318; FTE 41.1 vs 39.6
+bud_kindervriend_omzet_jr2025_statutory,vzw_mpi_de_kindervriend_kortrijk,2025,406928,406928,406928,CW omzet YE2025,src_kindervriend_jr2025_cw_en,medium,tick2319; +2.92% vs 395371
+bud_kindervriend_bruto_jr2025_statutory,vzw_mpi_de_kindervriend_kortrijk,2025,8083623,8083623,8083623,CW bruto (~19.86x),src_kindervriend_jr2025_cw_en,medium,tick2319; +4.17% vs 7759676
+bud_kindervriend_pnl_jr2025_statutory,vzw_mpi_de_kindervriend_kortrijk,2025,-88717,-88717,-88717,CW pnl LOSS,src_kindervriend_jr2025_cw_en,medium,tick2319; vs -86586
+bud_kindervriend_equity_jr2025_statutory,vzw_mpi_de_kindervriend_kortrijk,2025,9787469,9787469,9787469,CW equity,src_kindervriend_jr2025_cw_en,medium,tick2319; +1.03% vs 9687910
+bud_kindervriend_fte_jr2025_statutory,vzw_mpi_de_kindervriend_kortrijk,2025,96.6,96.6,96.6,CW FTE 96.6,src_kindervriend_jr2025_cw_en,medium,tick2319; vs 95.9
+bud_kindervriend_pnl_jr2024_cmp,vzw_mpi_de_kindervriend_kortrijk,2024,-86586,-86586,-86586,CW pnl YE2024,src_kindervriend_jr2025_cw_en,medium,tick2319; LOSS -86586

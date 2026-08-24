@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-27T22:40:00Z,rq_2318,2318,no,tick2318 leftover dual Homevil 0420.610.608 Medium (omzet empty; bruto JUMP 4124105; pnl JUMP 870902 159.98%; equity JUMP 6296387; FTE JUMP 41.1; 1 VE Vilvoorde VAPH); after Schoonderhage@2317; AGB Bornem JR2024; FARO/AIESH YE2024; next rq_2319; next EVERY-10 2320; continuous hole_fill
+main,continuous,hole_fill,2026-08-27T23:00:00Z,rq_2319,2316,no,tick2319 leftover dual Kindervriend 0409.988.514 Medium (omzet JUMP 406928; bruto JUMP 8083623 ~19.86x; pnl LOSS -88717; equity JUMP 9787469; FTE 96.6); after Homevil@2318; AGB/FARO/AIESH YE2024; next rq_2317; next EVERY-10 2320

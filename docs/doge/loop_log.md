@@ -26496,3 +26496,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.25); entities (+1 vzw_homevil_vilvoorde); foi + draft gap_homevil_nbb_pdf_assets_debt_empty_omzet_bruto_4_12m_pnl_jump_160pct_fte_jump_vaph_matrix_l5; rq_2318=done + rq_2319 open; loop_state ticks=2318; raw docs/doge/data/raw/tick2318/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2310**; next **2320**). Next: rq_2319.
+
+
+### 2026-08-27T22:15:00Z - tick 2316 - rq_2319 MPI De Kindervriend (bruto JUMP 8.08m / ~19.86x omzet / pnl LOSS / FTE 96.6 / Medium)
+
+- Unit: **rq_2319** after **Homevil@2318**. Stalls AGB/FARO/AIESH YE2024. Took FREE VAPH MPI **De Kindervriend** YE2025 (KBO **0409.988.514**; 3 VE; RSZ **87.201**; mpi@kindervriend.be).
+- Found: CW NL+EN+FR — omzet **EUR406928** JUMP +2.92%; bruto **EUR8083623** JUMP +4.17% (~19.86x); pnl **EUR-88717** LOSS; equity **EUR9787469**; FTE **96.6**; filed **22.05.2026**. Medium.
+- Wrote: CSVs + FOI gap_kindervriend_nbb_pdf_assets_debt_bruto_gt_omzet_19_86x_pnl_loss_vaph_mpi_matrix_l5; rq_2319=done + rq_2317 open; ticks=2316.
+- FOI ready not sent. NOT every-10 (next **2320**).
