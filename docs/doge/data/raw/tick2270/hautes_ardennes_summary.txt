@@ -1,0 +1,12 @@
+tick2270 Les Hautes Ardennes YE2025
+KBO 0407.574.994 Actief 5 VE Place des Chasseurs Ardennais 32 6690 Vielsalm NACE 88.993
+CW EN/NL/FR YE2025 filed 25.07.2026
+omzet 3083922 (+8.14% vs 2851699)
+bruto 12661084 (+3.94% vs 12181618) bruto/omzet ~4.11x
+pnl 62241 (-84.32% vs 396823)
+equity 8488313 (+6.28% vs 7987112)
+FTE 220.6 (vs 218.8)
+assets/debt Unknown Medium CW + Strong KBO
+FOI eta@leshautesardennes.be ready NOT sent
+EVERY-10 after Village n1@2269; stalls FARO/AIESH YE2024; AGB Bornem JR2024
+deferred Amis Aveugles 0406.579.854 YE2025

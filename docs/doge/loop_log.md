@@ -25855,3 +25855,14 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.85); entities (+1 vzw_village_n1_entreprises_braine); foi + draft gap_village_n1_nbb_pdf_assets_debt_bruto_gt_omzet_1_49x_pnl_loss_flip_eta_matrix_l5; rq_2269=done + rq_2270 open EVERY-10; loop_state ticks=2269; raw docs/doge/raw/tick2269/ + data/raw/tick2269/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2260**; next **2270 MUST**). Next: rq_2270 EVERY-10 + Amis Aveugles/Hautes Ardennes YE2025.
+
+
+
+### 2026-08-27T09:40:00Z - tick 2270 - EVERY-10 + rq_2270 Amis des Aveugles Mons (omzet JUMP 1.88m / bruto~3.4x / pnl LOSS -4.74m / equity 39.2m / Medium)
+
+- **EVERY-10:** refreshed `progress_every_10_ticks.md` (layers A–E @2270) + `doge_waste_top10_current.md` (top10 stable; NEW residual 2261-2270 noted off pure top10).
+- Unit: **rq_2270** leftover dual after **rq_2269 Village n°1**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Heropbeuring still **CW opaque**; Relais Haute Sambre/APN still **YE2024**. Took named FREE **Amis des Aveugles / Vrienden der Blinden ASBL** YE2025 (KBO **0406.579.854**; Rue de la Barrière 37 Mons; **Actief** **7 VE**; NACE **88.993** AViQ/federal blind-care + Ateliers de Mons ETA). Deferred FREE **Les Hautes Ardennes** YE2025. Do not redo Village n1/Trait/Ouvroir/APRE/Renaitre stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1882853** JUMP +18.26% vs YE2024 EUR1592187; bruto **EUR6398659** DROP -8.05% (bruto÷omzet ~3.4x); pnl **EUR-4744990** LOSS WIDEN +4.14% vs YE2024 EUR-4556387; equity **EUR39171129** JUMP +3.41%; FTE **172.9** (-0.29% vs 173.4); neerlegging **29.07.2026**. Strong KBO Actief 7 VE ASBL. Assets/debt Unknown. Medium. FOI via info@amisdesaveugles.org.
+- Wrote: progress+top10; sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.55); entities (+1 vzw_amis_des_aveugles_mons); foi + draft gap_amis_nbb_pdf_assets_debt_bruto_gt_omzet_3_40x_pnl_loss_4_74m_eta_matrix_l5; rq_2270=done + rq_2271 open; loop_state ticks=2270; raw docs/doge/raw/tick2270/ + data/raw/tick2270/.
+- FOI: **ready not sent** (human-gated).
+- **EVERY-10 done** (last was 2260; next **2280**). Next: rq_2271 (AGB/FARO-if-YE2025 / AIESH-REW / Hautes Ardennes YE2025).
