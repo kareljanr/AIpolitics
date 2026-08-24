@@ -24537,3 +24537,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 bv_boterlaarhof_deurne); foi + draft gap_boterlaarhof_nbb_pdf_assets_debt_omzet_empty_bruto_jump_matrix_l5; rq_2162=done + rq_2163 open; loop_state ticks=2162; raw docs/doge/data/raw/tick2162/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2163 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros).
+
+## Tick 2162 - 2026-08-26T00:00:00Z - rq_2162 Salvator Welzijnscentrum Hasselt (omzet JUMP 18.23m / pnl LOSS flip -506k / Medium) race-recover
+
+- Unit: **rq_2162** race-recover after concurrent closed **rq_2162 Boterlaarhof Deurne** (CSV rows already landed). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Hof ter Lande YE2024 skipped. Took unused leftover **Salvator Welzijnscentrum VZW** YE2025 (KBO **0423.571.581**; Ekkelgaarden 17/101 Hasselt; **VZW** NACE **87.101** / **1 VE**). Do not redo Boterlaarhof/WZND/Foyer De Lork/OLV Kempen/HERTOG JAN/Lindeboom/Epinette.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR18233452** JUMP +2.47%; bruto **EUR16096582** DROP -1.89%; pnl **EUR-505732** LOSS FLIP from YE2024 PROFIT EUR1209492; equity **EUR13414850** DROP -3.37%; FTE **203.2**; neerlegging **12.08.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@salvator.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.0); entities (+1 vzw_salvator_welzijnscentrum_hasselt); foi + draft gap_salvator_nbb_pdf_assets_debt_pnl_loss_flip_matrix_l5; rq_2162=done (race with Boterlaarhof) + rq_2163 open; loop_state ticks=2162; raw docs/doge/data/raw/tick2162/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2163 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
+
