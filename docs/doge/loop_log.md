@@ -25547,3 +25547,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress+top10; sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.10); entities (+1 vzw_axedis_wavre); foi + draft gap_axedis_nbb_pdf_assets_debt_bruto_gt_omzet_1_89x_fte_drop_eta_matrix_l5; rq_2240=done + rq_2241 open; loop_state ticks=2240; raw docs/doge/raw/tick2240/.
 - FOI: **ready not sent** (human-gated).
 - EVERY-10 done. Next: rq_2241 (AGB/FARO-if-YE2025 / AIESH-REW / unused-ETA-VAPH-WZC-maatwerk). Next every-10 **2250**.
+
+### 2026-08-27T02:25:00Z - tick 2241 - rq_2241 ETA Jean Gielen Waremme (bruto 5.95m / equity JUMP +54% / Medium)
+
+- Unit: **rq_2241** leftover dual after **rq_2240 Axedis**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**. Took named FREE unused Walloon ETA **ETA Jean Gielen ASBL** YE2025 (KBO **0407.850.653**; Chaussée Romaine 178 Waremme; **Actief** **1 VE**; NACE **88.993** AViQ). Do not redo Axedis/Manufast/Metalgroup/EntrAnam/Enghien/Entra/ETA123 stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR4921661** JUMP +17.12% vs YE2024 EUR4202291; bruto **EUR5954785** DROP -2.27% (bruto≫omzet ~1.21x); pnl **EUR902861** JUMP +8.11% vs YE2024 EUR835157; equity **EUR2457459** JUMP +54.12% vs YE2024 EUR1594509; FTE **157.6** JUMP vs 154.2; neerlegging **26.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@jeangielen.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.00); entities (+1 vzw_jean_gielen_waremme); foi + draft gap_jean_gielen_nbb_pdf_assets_debt_equity_jump_54pct_eta_matrix_l5; rq_2241=done + rq_2242 open; loop_state ticks=2241; raw docs/doge/raw/tick2241/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2240**; next **2250**). Next: rq_2242 (AGB/FARO-if-YE2025 / AIESH-REW / Le Perron-IN-Z-or-unused).
+
