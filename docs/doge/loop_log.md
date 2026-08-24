@@ -25420,3 +25420,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.20); entities (+1 vzw_sdb_sint_truiden); foi + draft gap_sdb_nbb_pdf_assets_debt_pnl_profit_flip_equity_jump_dienstencheque_matrix_l5; rq_2232=done + rq_2233 open; loop_state ticks=2232; raw docs/doge/raw/tick2232/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2233 (AGB/FARO-if-YE2025 / AIESH-REW / Travie-Rucher-or-unused).
+
+
+## Tick 2233 - 2026-08-26T23:25:00Z - rq_2233 Le Rucher Leuze (omzet DROP 3.75m / pnl LOSS FLIP / bruto≫omzet ~2.03x / Medium)
+
+- Unit: **rq_2233** leftover dual after **rq_2232 SDB**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**. Travie race@2230 already done; Waak/Stroom/Stijn already mapped. Took named FREE leftover **Le Rucher ASBL / ETA** YE2025 (KBO **0860.345.458**; Zone industrielle de l'Europe(L) 1 Leuze-en-Hainaut; **Actief** **1 VE**; NACE **88.993** AViQ ETA) — named prefer in rq_2233. Do not redo SDB/Travie/De Vleugels/Kiemkracht/De Oever/ViTeS/Waak stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3749862** DROP -12.65% vs YE2024 EUR4292711; bruto **EUR7621283** DROP -3.72% (bruto≫omzet ~2.03x); pnl **EUR-193735** LOSS FLIP vs YE2024 profit EUR34160; equity **EUR8786823** DROP -2.79%; FTE **245.6** DROP vs 254.8; neerlegging **25.06.2026**. Strong KBO Actief 1 VE; contact@lerucher.be. Assets/debt Unknown. Medium. FOI via contact@lerucher.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.30); entities (+1 vzw_le_rucher_leuze); foi + draft gap_le_rucher_nbb_pdf_assets_debt_pnl_loss_flip_bruto_gt_omzet_aviq_matrix_l5; rq_2233=done + rq_2234 open; loop_state ticks=2233; raw docs/doge/raw/tick2233/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2234 (AGB/FARO-if-YE2025 / AIESH-REW / unused-VAPH-WZC-maatwerk).
