@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2200** (2026-08-26) · **8008+** leaderboard rows  
+**As-of:** tick **2210** (2026-08-26) · **8022+** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt AGB / scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
@@ -27,17 +27,18 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **university/city balance sheets** · **AGB/zorg dual + IGS/HVZ/CAW/CGG/woonmaatschappij/thuiszorg shells** · **NEW residual 2191-2200:** **Bewel omzet 28.64m / bruto~2.3×** · **Forena omzet 16.30m** · **Demival 14.76m** · **A-kwadraat 13.43m** · **De Schakel bruto~7.3×** · **Groep Talent 6.24m** · **BosKat LOSS FLIP / Stopgezet fusie** · **Atelier Groot Eiland bruto 2.93m empty omzet** (EVERY-10@2200 primary) · prior 2181-2190 Mariasteen/Westlandia/Kringwinkel/Blankedale/De Wroeter stack retained · Walloon HVZ opacity stack · prior nuclear/Fluxys/Elia/Enodia/RESA · **LUWA PPP €590m** · private gambling **€31.5bn** market.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **university/city balance sheets** · **AGB/zorg dual + IGS/HVZ/CAW/CGG/woonmaatschappij/thuiszorg shells** · **NEW residual 2201-2210:** **Entiris omzet 18.93m / bruto~2.39× / equity 92.3m** · **Oesterbank 7.31m** · **Aarova 5.62m** · **Arcor bruto 4.06m empty omzet** · **Ijsedal 3.20m LOSS FLIP** · **Kemphaan 2.79m** · **Werkplus 2.69m empty omzet** · **MWP Pajottenland 2.65m** · **Noordheuvel 2.57m LOSS FLIP** · prior 2191-2200 Demival/Bewel/De Schakel/Groep Talent/AGE stack retained · Walloon HVZ opacity stack · prior nuclear/Fluxys/Elia/Enodia/RESA · **LUWA PPP €590m** · private gambling **€31.5bn** market.
 
-**Change vs tick 2190:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10; Metro3/OWV snowball filtered as stock). Re-verified from leaderboard (corrupt AGB/scoring pi>10 / Metro3 stock / OWV snowball stock filtered off; seed/open TE-FFS rows retained for pure annual ranking). **Major NEW residual 2191-2200 (off pure top10 / dual):** Demival · Mivas · SW-WEB · A-kwadraat · Forena · Kunnig · Bewel · BWZ · De Schakel · BosKat · Groep Talent · **Atelier Groot Eiland bruto 2.93m / empty omzet / pnl JUMP +263%** (EVERY-10@2200 primary). Count NEW since 2190: ~12 residual dual fills. **Prior 2181-2190 + 2171-2180 stacks retained.** Not TE-additive of ~348bn.
+**Change vs tick 2200:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10; Metro3/OWV snowball filtered as stock). Re-verified from leaderboard (corrupt AGB/scoring pi>10 / Metro3 stock / OWV snowball stock filtered off; seed/open TE-FFS rows retained for pure annual ranking). **Major NEW residual 2201-2210 (off pure top10 / dual):** MWP Pajottenland · Aarova · Ijsedal · Werkplus · Oesterbank · Entiris · Kemphaan · Arcor · Noordheuvel. Count NEW since 2200: ~9 residual dual fills. **Prior 2191-2200 + 2181-2190 stacks retained.** Not TE-additive of ~348bn.
 
 ### High-absurdity residual (not pure top10)
 
-- **De Schakel Balen** bruto **~7.3×** omzet on **EUR1.15m** / pnl DROP **−49%** / dual NACE 87.202/88.993.
-- **Bewel** omzet **EUR28.64m** / bruto **~2.3×** / pnl JUMP **+241%** / **2016 FTE**.
-- **BosKat** empty omzet / bruto **EUR3.28m** / pnl LOSS FLIP **−EUR207k** then **Stopgezet fusie** into Groep Talent.
-- **Groep Talent** omzet **EUR6.24m** / bruto~**1.48×** / pnl DROP **−31%** / **13 VE** absorber of BosKat/BOSPAD/TWERK.
-- **Atelier Groot Eiland** EVERY-10 primary bruto JUMP **EUR2.93m** / **empty omzet** / pnl JUMP **+263%** / equity DROP / FTE DROP **53.6** — Brussels maatwerk+urban farming subsidy opacity.
-- **SW-WEB** pnl LOSS DEEPEN **−EUR1.53m** / equity DROP **−43%**.
+- **Entiris Leuven** omzet **EUR18.93m** / bruto **~2.39×** / equity JUMP **EUR92.3m** / pnl DROP / **7 VE**.
+- **De Schakel Balen** bruto **~7.3×** omzet on **EUR1.15m** / pnl DROP **−49%** (prior retained).
+- **Arcor Ronse** bruto **EUR4.06m** / **empty omzet** YE2025+YE2024 / pnl JUMP **+75%** / equity DROP.
+- **Noordheuvel Brasschaat** omzet **EUR2.57m** / bruto **~2.00×** / pnl LOSS FLIP **−EUR1.4k**.
+- **Ijsedal** omzet **EUR3.20m** / bruto **~1.75×** / pnl LOSS FLIP **−EUR78k**.
+- **Werkplus** bruto **EUR2.69m** / empty omzet / pnl DROP **−71%**.
+- **Oesterbank** omzet **EUR7.31m** / bruto **~1.89×** / pnl JUMP **+237%** / FTE DROP.
 - **Stijn** bruto **EUR128.0m** ≫ omzet **EUR22.7m** (prior retained).
 - Walloon **ZS** stack FTE-only budget opacity.

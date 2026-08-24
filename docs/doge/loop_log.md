@@ -25125,3 +25125,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2210 EVERY-10 (AGB/FARO-if-YE2025 / AIESH-REW / ACG-or-unused).
 
+
+## Tick 2210 - 2026-08-26T16:00:00Z - rq_2210 EVERY-10 progress coverage % + waste top10
+
+- Unit: **rq_2210 EVERY-10** after **rq_2209 Noordheuvel**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW stalled. **No new entity** this tick (ACG still unnamed FREE / Odas YE2024). Do not redo Noordheuvel/Arcor/Kemphaan/Entiris/Oesterbank/Werkplus/Ijsedal/Aarova/MWP/AGE stack.
+- Found: inventory budgets **53182** / commitments **5901** / leaderboard **8022** / entities **1932** / sources **6066** / FOI ready **~1851** / answered **11** / partial **28** / FOI total **~1903**. Pure annual waste **top10 stable** (GIP 8.7 · fossil direct 8.55 · cars/cheque/reporté band 8.4–8.5). Residual dual **2201-2209** off pure top10: Entiris 18.93m · Oesterbank 7.31m · Aarova 5.62m · Arcor bruto 4.06m empty-omzet · Ijsedal 3.20m LOSS FLIP · Kemphaan 2.79m · Werkplus 2.69m · MWP 2.65m · Noordheuvel 2.57m LOSS FLIP.
+- Wrote: progress_every_10_ticks.md (layers A–E @2210); doge_waste_top10_current.md; rq_2210=done + rq_2211 open; loop_state ticks=2210.
+- FOI: none new this tick (prior Noordheuvel/Arcor/Kemphaan… ready not sent).
+- **EVERY-10 done.** Next every-10 **2220**. Next: rq_2211 (AGB/FARO-if-YE2025 / AIESH-REW / ACG-or-unused).
+

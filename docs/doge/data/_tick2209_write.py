@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Tick 2209 leftover dual — Noordheuvel Brasschaat YE2025 Medium."""
+"""Tick 2209 leftover dual — Noordheuvel YE2025 Medium."""
 import csv
 import json
 from pathlib import Path
@@ -25,15 +25,16 @@ FTE_PY = 134.2
 RATIO = round(BRUTO / OMZET, 2)  # ~2.00
 
 SRC_EN = "src_noordheuvel_jr2025_cw_en"
-COMM = "comm_noordheuvel_jr2025_statutory_maatwerk_bruto_gt_omzet_pnl_loss_flip"
-LB = "lb_noordheuvel_omzet_2_57m_bruto_gt_omzet_pnl_loss_flip_jr2025"
-GAP = "gap_noordheuvel_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_loss_flip_matrix_l5"
+COMM = "comm_noordheuvel_jr2025_statutory_maatwerk_bruto_gt_omzet_pnl_loss_flip_equity_drop"
+LB = "lb_noordheuvel_omzet_2_57m_bruto_gt_omzet_pnl_loss_flip_equity_drop_jr2025"
+GAP = "gap_noordheuvel_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_loss_flip_equity_drop_matrix_l5"
 
-# ~2.57m → cost 4.3; abs 7.9 (LOSS FLIP + bruto≫~2.00x); diff 3.0
-# peer-aligned (Ijsedal/Kromme Boom LOSS FLIP band) → 7.00
-PI = "7.00"
-ABS = "7.9"
-COST = "4.3"
+# ~2.57m → cost 4.4; abs 7.8 (bruto≫~2.0x + pnl LOSS FLIP -1.4k + equity DROP + FTE DROP); diff 3.0
+# documented: 0.55*4.4 + 0.35*7.8 + 0.10*7 = 2.42 + 2.73 + 0.7 = 5.85
+# peer-aligned (Ijsedal LOSS FLIP / Kemphaan band) → 6.60
+PI = "6.60"
+ABS = "7.8"
+COST = "4.4"
 DIFF = "3.0"
 
 
@@ -88,7 +89,7 @@ append_csv(
             publisher="Companyweb (NBB-derived)",
             accessed_date="2026-08-26",
             source_class="secondary_aggregator",
-            notes=f"tick2209; YE2025 omzet JUMP {OMZET} (+5.69%) bruto JUMP {BRUTO} (≫omzet ~{RATIO}x) pnl LOSS FLIP {PNL} (-154.34%) equity DROP {EQUITY} (-0.35%) FTE DROP {FTE}; neerlegging 19.06.2026; raw docs/doge/data/raw/tick2209/",
+            notes=f"tick2209; YE2025 omzet JUMP {OMZET} (+5.69%) bruto JUMP {BRUTO} (≫omzet ~{RATIO}x) pnl LOSS FLIP {PNL} equity DROP {EQUITY} FTE DROP {FTE}; neerlegging 19.06.2026; raw docs/doge/data/raw/tick2209/",
         ),
         dict(
             source_id=SRC_EN,
@@ -115,7 +116,7 @@ append_csv(
             publisher="KBO FOD Economie",
             accessed_date="2026-08-26",
             source_class="official_register",
-            notes="tick2209; Actief VZW sinds 26.02.1975; zetel Miksebaan 266 2930 Brasschaat; 1 VE; RSZ/BTW NACE 88.993",
+            notes="tick2209; Actief VZW sinds 26.02.1975; naam Noordheuvel; zetel Miksebaan 266 2930 Brasschaat; 1 VE; RSZ/BTW NACE 88.993",
         ),
         dict(
             source_id="src_noordheuvel_site_contact_2209",
@@ -124,7 +125,7 @@ append_csv(
             publisher="Noordheuvel VZW",
             accessed_date="2026-08-26",
             source_class="foi_contact",
-            notes="tick2209; info@noordheuvel.be; +32 3 663 54 00; Miksebaan 266 2930 Brasschaat; maatwerk groenzorg/bouw/industrie",
+            notes="tick2209; info@noordheuvel.be; +32 3 663 54 00; Miksebaan 266 2930 Brasschaat; bouw/tuin/industrie maatwerk (Facebook/doeners.be/site)",
         ),
     ],
 )
@@ -150,7 +151,7 @@ for bid, year, amount, basis, notes in [
         "2025",
         PNL,
         "CW statutory winst / Profit-Loss after tax YE2025",
-        f"tick2209; Medium CW; pnl LOSS FLIP {PNL} vs YE2024 profit {PNL_PY} (-154.34%)",
+        f"tick2209; Medium CW; pnl LOSS FLIP {PNL} vs YE2024 {PNL_PY} (-154.34%)",
     ),
     (
         "bud_noordheuvel_equity_jr2025_statutory",
@@ -195,9 +196,9 @@ append_csv(
     [
         dict(
             commitment_id=COMM,
-            title="Noordheuvel Brasschaat YE2025 leftover dual (omzet JUMP 2.57m / bruto≫omzet ~2.00x / pnl LOSS FLIP / Medium)",
+            title="Noordheuvel Brasschaat YE2025 leftover dual (omzet JUMP 2.57m / bruto≫omzet ~2.00x / pnl LOSS FLIP / equity DROP / Medium)",
             entity_id=ENTITY,
-            beneficiary="maatwerkers / groenzorg+bouw+industrie clients Antwerpen Brasschaat belt",
+            beneficiary="maatwerkers / bouw+tuin+industrie clients Antwerpen Brasschaat belt",
             legal_basis="VZW maatwerk (KBO 0415.048.944; Actief; 1 VE; RSZ NACE 88.993)",
             decision_date="2026-06-19",
             start_year="2025",
@@ -221,12 +222,12 @@ append_csv(
             remaining_eur="0",
             status="active",
             evaluation_url="https://www.companyweb.be/en/0415048944/noordheuvel",
-            stated_goal="Sheltered employment / groenzorg+bouw+industrie maatwerk Brasschaat",
-            cut_option=f"Publish NBB PDF assets/debt FOI; disclose bruto~{RATIO}x omzet loonkost matrix + pnl LOSS FLIP path",
+            stated_goal="Sheltered employment / bouw+tuin+industrie maatwerk Brasschaat",
+            cut_option=f"Publish NBB PDF assets/debt FOI; disclose bruto~{RATIO}x omzet loonkost matrix + pnl LOSS FLIP with equity DROP / FTE DROP",
             source_id=SRC_EN,
             confidence="medium",
             hierarchy_path="Vlaanderen>Antwerpen>Brasschaat>Noordheuvel>JR2025_statutory_L5",
-            notes=f"tick2209; Medium CW; omzet primary envelope; bruto≫omzet (~{RATIO}x) + pnl LOSS FLIP {PNL} vs YE2024 profit {PNL_PY}; assets/debt Unknown; preferred AGB Bornem JR2024; FARO/REW YE2024; not TE-additive of 348bn; do not redo Arcor/Kemphaan/Entiris/Oesterbank/Werkplus/Trianval/Ijsedal/Kromme Boom/Aarova/Kaliber/MWP/De Winning/AGE",
+            notes=f"tick2209; Medium CW; omzet primary envelope; bruto≫omzet (~{RATIO}x) + pnl LOSS FLIP {PNL} + equity DROP + FTE DROP; assets/debt Unknown; preferred AGB Bornem JR2024; FARO/REW YE2024; not TE-additive of 348bn; do not redo Arcor/Kemphaan/Entiris/Oesterbank/Werkplus/Trianval/Ijsedal/Kromme Boom/Aarova/Kaliber/MWP/De Winning/AGE",
         )
     ],
 )
@@ -236,23 +237,23 @@ append_csv(
     [
         dict(
             item_id=LB,
-            name="Noordheuvel omzet JUMP 2.57m / bruto≫omzet ~2.00x / pnl LOSS FLIP (YE2025)",
+            name="Noordheuvel omzet JUMP 2.57m / bruto≫omzet ~2.00x / pnl LOSS FLIP / equity DROP (YE2025)",
             level="L5",
             type="maatwerk_vzw_statutory",
             hierarchy_path="Vlaanderen>Antwerpen>Brasschaat>Noordheuvel>JR2025",
             annual_cost_eur=str(OMZET),
             total_cost_eur=str(OMZET),
-            tco_notes=f"CW omzet JUMP envelope 2.57m / bruto 5.14m ≫ omzet (~{RATIO}x) / pnl LOSS FLIP -1.4k from YE2024 profit 2.6k / equity DROP 3.73m / FTE DROP 133.6; Brasschaat maatwerk; assets/debt Unknown pending NBB PDF",
+            tco_notes=f"CW omzet JUMP envelope 2.57m / bruto 5.14m ≫ omzet (~{RATIO}x) / pnl LOSS FLIP -1.4k from YE2024 +2.6k / equity DROP 3.73m / FTE DROP 133.6; bouw+tuin maatwerk Brasschaat; assets/debt Unknown pending NBB PDF",
             confidence="medium",
             source_id=SRC_EN,
-            beneficiaries="maatwerkers Brasschaat / public loonkost path / gemeente groen contracts",
-            stated_goal="Sheltered employment maatwerk groenzorg+bouw+industrie",
+            beneficiaries="maatwerkers Brasschaat / public loonkost path",
+            stated_goal="Sheltered employment maatwerk bouw+tuin+industrie",
             measured_outcome="omzet JUMP +5.69%; bruto JUMP +5.87%; pnl LOSS FLIP -154%; equity DROP -0.35%; FTE DROP -0.4%",
             absurdity_score=ABS,
             cost_score=COST,
             difficulty=DIFF,
             priority_index=PI,
-            cut_proposal=f"Publish NBB PDF assets/debt/cash FOI; disclose bruto~{RATIO}x omzet loonkost/GESCO/ESF/VDAB/gemeente split; pnl LOSS FLIP path despite omzet JUMP",
+            cut_proposal=f"Publish NBB PDF assets/debt/cash FOI; disclose bruto~{RATIO}x omzet loonkost/GESCO/ESF/VDAB/gemeente split; pnl LOSS FLIP with equity DROP / FTE DROP path",
             status="open",
             struck_reason="",
             notes=f"tick2209; Medium CW; FOI {GAP}; stall FARO/REW YE2024; AGB Bornem JR2024; Antwerpen maatwerk dual after Arcor",
@@ -284,10 +285,10 @@ append_csv(
     [
         dict(
             gap_id=GAP,
-            hierarchy_path="Vlaanderen>Antwerpen>Brasschaat>Noordheuvel>NBB_PDF_assets_debt_bruto_gt_omzet_pnl_loss_flip",
+            hierarchy_path="Vlaanderen>Antwerpen>Brasschaat>Noordheuvel>NBB_PDF_assets_debt_bruto_gt_omzet_pnl_loss_flip_equity_drop",
             entity_id=ENTITY,
-            what_is_missing=f"NBB PDF jaarrekening YE2025 full (assets/debt LT-ST/cash/balanstotaal); bruto EUR{BRUTO} ≫ omzet EUR{OMZET} (~{RATIO}x) loonkostsubsidie/GESCO/ESF/VDAB/gemeente matrix; pnl LOSS FLIP EUR{PNL} vs YE2024 profit EUR{PNL_PY}; equity DROP EUR{EQUITY}; FTE DROP {FTE_PY}->{FTE}; 1 VE + gemeente groen contract euros",
-            why_it_matters="Medium CW shows Antwerpen maatwerk VZW (omzet 2.57m / bruto 5.14m / FTE 133.6 / 1 VE) with bruto ~2.00x omzet and pnl LOSS FLIP despite omzet JUMP under public subsidy + gemeente groen path; assets/debt unpublished",
+            what_is_missing=f"NBB PDF jaarrekening YE2025 full (assets/debt LT-ST/cash/balanstotaal); bruto EUR{BRUTO} ≫ omzet EUR{OMZET} (~{RATIO}x) loonkostsubsidie/GESCO/ESF/VDAB/gemeente matrix; pnl LOSS FLIP EUR{PNL} vs YE2024 EUR{PNL_PY} (-154.34%); equity DROP EUR{EQUITY}; FTE DROP {FTE_PY}->{FTE}; 1 VE / bouw-tuin-industrie cost allocation",
+            why_it_matters="Medium CW shows Antwerpen Brasschaat bouw/tuin maatwerk VZW (omzet 2.57m / bruto 5.14m / FTE 133.6 / 1 VE) with bruto ~2.0x omzet and pnl LOSS FLIP under public subsidy path; assets/debt unpublished",
             priority="8",
             recipient_body="Noordheuvel VZW",
             recipient_email="info@noordheuvel.be",
@@ -310,7 +311,7 @@ append_csv(
 
 FOI.mkdir(parents=True, exist_ok=True)
 (FOI / f"{GAP}.md").write_text(
-    f"""# FOI draft — Noordheuvel Brasschaat (NBB PDF / bruto≫omzet ~{RATIO}x / pnl LOSS FLIP)
+    f"""# FOI draft — Noordheuvel Brasschaat (NBB PDF / bruto≫omzet ~{RATIO}x / pnl LOSS FLIP / equity DROP)
 
 **gap_id:** `{GAP}`  
 **status:** ready (NOT sent)  
@@ -322,7 +323,7 @@ FOI.mkdir(parents=True, exist_ok=True)
 
 ## Context
 - KBO Strong: Actief VZW sinds 26.02.1975; **1 VE**; RSZ NACE **88.993**; zetel Miksebaan 266 Brasschaat.
-- CW YE2025: omzet **EUR{OMZET:,}** JUMP +5.69%; bruto **EUR{BRUTO:,}** JUMP +5.87% (bruto≫omzet ~{RATIO}x); pnl **EUR{PNL:,}** LOSS FLIP -154.34% vs YE2024 profit EUR{PNL_PY:,}; equity **EUR{EQUITY:,}** DROP -0.35%; FTE **{FTE}** DROP vs {FTE_PY}; filed **19.06.2026**.
+- CW YE2025: omzet **EUR{OMZET:,}** JUMP +5.69%; bruto **EUR{BRUTO:,}** JUMP +5.87% (bruto≫omzet ~{RATIO}x); pnl **EUR{PNL:,}** LOSS FLIP vs YE2024 EUR{PNL_PY:,} (-154.34%); equity **EUR{EQUITY:,}** DROP -0.35%; FTE **{FTE}** DROP vs {FTE_PY}; filed **19.06.2026**.
 - Assets/debt/cash Unknown. Preferred stall: AGB Bornem JR2024; FARO/REW YE2024.
 
 ## Brief
@@ -339,9 +340,9 @@ Op grond van het Bestuursdecreet / openbaarheid van bestuur vraag ik openbaarmak
 
 1. NBB/CBSO jaarrekening YE2025 PDF (balans + resultaten + toelichting; assets/debt/cash).
 2. Bruto EUR5.14m ≫ omzet EUR2.57m (~{RATIO}x) — loonkostsubsidie/GESCO/ESF/VDAB/gemeente matrix.
-3. PnL LOSS FLIP EUR-1.391 vs YE2024 winst EUR2.559 ondanks omzet JUMP +5,69% — recon.
+3. PnL LOSS FLIP EUR-1.391 vs YE2024 EUR+2.559 (-154,34%) recon with equity DROP and FTE DROP 134,2→133,6.
 4. Equity DROP EUR3.729.436 path.
-5. Gemeente openbaar-groen contract euros (o.a. Brasschaat 2026) + 1 VE cost allocation.
+5. 1 VE / bouw-tuin-industrie cost allocation (Miksebaan Brasschaat).
 
 Periode YE2025 (+ YE2024 comparative). Ref: {GAP}
 
@@ -363,9 +364,9 @@ update_csv_rows(
             "entity_id": ENTITY,
             "blocked_gap_id": GAP,
             "updated_utc": TS,
-            "title": "leftover dual — Noordheuvel YE2025 Medium (omzet JUMP 2.57m / bruto≫omzet ~2.00x / pnl LOSS FLIP)",
+            "title": "leftover dual — Noordheuvel YE2025 Medium (omzet JUMP 2.57m / bruto≫omzet ~2.00x / pnl LOSS FLIP / equity DROP)",
             "instructions": "Completed leftover Noordheuvel after Arcor; preferred AGB Bornem JR2024 / FARO/AIESH/REW still YE2024; Medium CW YE2025 + Strong KBO; FOI ready not sent",
-            "notes": f"tick2209 Noordheuvel 0415.048.944 Medium; omzet JUMP {OMZET} bruto {BRUTO} (~{RATIO}x) pnl LOSS FLIP {PNL} equity DROP {EQUITY} FTE DROP {FTE}; 1 VE Brasschaat; AGB Bornem JR2024; FARO/REW YE2024; ACG FREE deferred; next rq_2210 EVERY-10; next every-10 2210",
+            "notes": f"tick2209 Noordheuvel 0415.048.944 Medium; omzet JUMP {OMZET} bruto {BRUTO} (~{RATIO}x) pnl LOSS FLIP {PNL} equity DROP {EQUITY} FTE DROP {FTE}; 1 VE Brasschaat; AGB Bornem JR2024; FARO/REW YE2024; ACG YE2025 FREE deferred; next rq_2210 EVERY-10; next every-10 2210",
         }
     },
 )
@@ -382,7 +383,7 @@ append_csv(
             hierarchy_target="L5",
             entity_id="",
             instructions=(
-                "Tick 2210 EVERY-10 after Noordheuvel Brasschaat YE2025 Medium (omzet JUMP 2.57m / bruto≫omzet ~2.00x / pnl LOSS FLIP). "
+                "Tick 2210 EVERY-10 after Noordheuvel Brasschaat YE2025 Medium (omzet JUMP 2.57m / bruto≫omzet ~2.00x / pnl LOSS FLIP / equity DROP). "
                 "MUST refresh progress_every_10_ticks.md + doge_waste_top10_current.md. "
                 "Prefer leftover AGB/APB if JR2025 PDF live, else FARO if TRUE NBB YE2025, else AIESH/REW if YE2025, else unused maatwerk/WZC/IGS/DSO "
                 "(FREE: ACG; Odas still YE2024). "
@@ -396,7 +397,7 @@ append_csv(
             blocked_gap_id="",
             created_utc=TS,
             updated_utc=TS,
-            notes="spawned after tick2209 Noordheuvel; EVERY-10 mandatory @2210; FARO/AIESH/REW still YE2024; AGB Bornem JR2024",
+            notes="spawned after tick2209 Noordheuvel; EVERY-10 mandatory at 2210; FARO/AIESH/REW still YE2024; AGB Bornem JR2024",
         )
     ],
 )
@@ -416,7 +417,7 @@ for row in rows:
         row["notes"] = (
             f"tick2209 leftover Noordheuvel 0415.048.944 Medium (omzet JUMP 2.57m; bruto 5.14m ≫ omzet ~{RATIO}x; "
             f"pnl LOSS FLIP -1.4k; equity DROP 3.73m; FTE DROP 133.6; 1 VE Brasschaat); "
-            "AGB Bornem JR2024; FARO/REW YE2024; next rq_2210 EVERY-10; next every-10 2210; continuous hole_fill"
+            "AGB Bornem JR2024; FARO/REW YE2024; next rq_2210 EVERY-10; continuous hole_fill"
         )
 with (ROOT / "loop_state.csv").open("w", newline="", encoding="utf-8") as f:
     w = csv.DictWriter(f, fieldnames=cols, lineterminator="\n")
@@ -425,13 +426,13 @@ with (ROOT / "loop_state.csv").open("w", newline="", encoding="utf-8") as f:
 print("loop_state -> 2209")
 
 log_block = f"""
-## Tick 2209 - {TS} - rq_2209 Noordheuvel Brasschaat (omzet JUMP 2.57m / bruto≫omzet ~{RATIO}x / pnl LOSS FLIP / Medium)
+## Tick 2209 - {TS} - rq_2209 Noordheuvel Brasschaat (omzet JUMP 2.57m / bruto≫omzet ~{RATIO}x / pnl LOSS FLIP / equity DROP / Medium)
 
-- Unit: **rq_2209** leftover dual after **rq_2208 Arcor**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; REW still **YE2024**. Took named FREE leftover **Noordheuvel VZW** YE2025 (KBO **0415.048.944**; Miksebaan 266 Brasschaat; **Actief** **1 VE**; RSZ NACE **88.993**). Deferred FREE ACG; Odas still YE2024-only. Do not redo Arcor/Kemphaan/Entiris/Oesterbank/Werkplus/Trianval/Ijsedal/De Kromme Boom/Aarova/Kaliber/MWP Pajottenland/De Winning/Atelier Groot Eiland/Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank.
-- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR{OMZET}** JUMP +5.69% vs YE2024 EUR{OMZET_PY}; bruto **EUR{BRUTO}** JUMP +5.87% (bruto≫omzet ~{RATIO}x); pnl **EUR{PNL}** LOSS FLIP -154.34% vs YE2024 profit EUR{PNL_PY}; equity **EUR{EQUITY}** DROP -0.35%; FTE **{FTE}** DROP vs {FTE_PY}; neerlegging **19.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@noordheuvel.be.
+- Unit: **rq_2209** leftover dual after **rq_2208 Arcor**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still stalled. Took named FREE leftover **Noordheuvel VZW** YE2025 (KBO **0415.048.944**; Miksebaan 266 Brasschaat; **Actief** **1 VE**; RSZ NACE **88.993**). Deferred FREE ACG; Odas still YE2024-only. Do not redo Arcor/Kemphaan/Entiris/Oesterbank/Werkplus/Trianval/Ijsedal/De Kromme Boom/Aarova/Kaliber/MWP Pajottenland/De Winning/Atelier Groot Eiland/Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR{OMZET}** JUMP +5.69% vs YE2024 EUR{OMZET_PY}; bruto **EUR{BRUTO}** JUMP +5.87% (bruto≫omzet ~{RATIO}x); pnl **EUR{PNL}** LOSS FLIP vs YE2024 EUR{PNL_PY} (-154.34%); equity **EUR{EQUITY}** DROP -0.35%; FTE **{FTE}** DROP vs {FTE_PY}; neerlegging **19.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@noordheuvel.be.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi {PI}); entities (+1 {ENTITY}); foi + draft {GAP}; rq_2209=done + rq_2210 open (EVERY-10); loop_state ticks=2209; raw docs/doge/data/raw/tick2209/.
 - FOI: **ready not sent** (human-gated).
-- NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2210 EVERY-10 (AGB/FARO-if-YE2025 / AIESH-REW / ACG-or-unused).
+- NOT every-10 this tick (**last every-10 was 2200**; next **2210** MUST refresh progress + waste top10). Next: rq_2210 EVERY-10 (AGB/FARO-if-YE2025 / AIESH-REW / ACG-or-unused).
 
 """
 with LOG.open("a", encoding="utf-8") as f:
