@@ -24806,3 +24806,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 vzw_bwb_londerzeel); foi + draft gap_bwb_nbb_pdf_assets_debt_pnl_drop_omzet_jump_bruto_gt_omzet_matrix_l5; rq_2183=done + rq_2184 open; loop_state ticks=2183; raw docs/doge/data/raw/tick2183/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2184 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
+## Tick 2184 - 2026-08-26T07:20:00Z - rq_2184 Westlandia (omzet JUMP 20.18m / pnl JUMP +102% / bruto>omzet / FTE 708 / Medium)
+
+- Unit: **rq_2184** leftover dual after **rq_2183 BWB/Wase race**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Westlandia VZW** YE2025 (KBO **0407.768.895**; Dehemlaan 1 Ieper; **VZW** NACE **88.993** / **4 VE**). Deferred FREE **Weerwerk** 0465.104.904 (omzet 5.54m / pnl JUMP 197k / FTE 205). Do not redo BWB/Wase Werkplaats/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever/Anima*/emeis.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR20179678** JUMP +9.25% vs YE2024 EUR18471578; bruto **EUR28739117** JUMP +3.95% (bruto≫omzet); pnl **EUR1633039** JUMP +101.88% vs YE2024 EUR808926; equity **EUR35038860** JUMP +4.65%; FTE **707.6** JUMP vs 697.9; neerlegging **05.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 4 VE. FOI via info@westlandia.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.7); entities (+1 vzw_westlandia_ieper); foi + draft gap_westlandia_nbb_pdf_assets_debt_pnl_jump_bruto_gt_omzet_matrix_l5; rq_2184=done + rq_2185 open; loop_state ticks=2184; raw docs/doge/data/raw/tick2184/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2185 (AGB/FARO-if-YE2025 / AIESH-REW / Weerwerk-or-unused IGS-DSO-WZC-MRS-HVZ).
