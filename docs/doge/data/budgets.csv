@@ -53298,3 +53298,9 @@ bud_reset_pnl_jr2025_statutory,vzw_reset_genk,2025,19665,19665,19665,CW statutor
 bud_reset_equity_jr2025_statutory,vzw_reset_genk,2025,8275359,8275359,8275359,CW statutory eigen_vermogen YE2025,src_reset_jr2025_cw_en,medium,tick2225; Medium CW; equity DROP -0.45% vs YE2024 8313051
 bud_reset_fte_jr2025_statutory,vzw_reset_genk,2025,201.0,201.0,201.0,CW social-balance FTE 201,src_reset_jr2025_cw_en,medium,tick2225; Medium CW; FTE 201.0; YE2024 FTE Unknown on free CW; assets/debt Unknown
 bud_reset_omzet_jr2024_statutory_cmp,vzw_reset_genk,2024,5450363,5450363,5450363,CW statutory omzet YE2024 comparative,src_reset_jr2025_cw_en,medium,tick2225; YE2024 omzet 5450363 comparative
+bud_vites_omzet_jr2025_cw,vzw_vites_leuven,2025,14044208,14044208,14044208,CW code70 omzet YE2025,src_vites_jr2025_cw_nl,medium,tick2226; Medium CW; omzet JUMP +8.39% vs YE2024 12957216; primary envelope
+bud_vites_bruto_jr2025_cw,vzw_vites_leuven,2025,24007757,24007757,24007757,CW code9900 brutomarge YE2025,src_vites_jr2025_cw_nl,medium,tick2226; Medium CW; bruto JUMP +6.62% vs YE2024 22516666; bruto≫omzet ~1.71x
+bud_vites_pnl_jr2025_cw,vzw_vites_leuven,2025,1067155,1067155,1067155,CW code9904 winst YE2025,src_vites_jr2025_cw_nl,medium,tick2226; Medium CW; pnl DROP −29.80% vs YE2024 1520209
+bud_vites_equity_jr2025_cw,vzw_vites_leuven,2025,31241325,31241325,31241325,CW code10/15 eigen vermogen YE2025,src_vites_jr2025_cw_nl,medium,tick2226; Medium CW; equity JUMP +3.43% vs YE2024 30206512
+bud_vites_fte_jr2025_cw,vzw_vites_leuven,2025,529.8,529.8,529.8,CW FTE YE2025,src_vites_jr2025_cw_nl,medium,tick2226; Medium CW; FTE JUMP vs YE2024 507.4
+bud_vites_omzet_jr2024_cw,vzw_vites_leuven,2024,12957216,12957216,12957216,CW code70 omzet YE2024 comparative,src_vites_jr2025_cw_nl,medium,tick2226; Medium CW YoY base
