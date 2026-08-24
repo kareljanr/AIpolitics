@@ -1,0 +1,14 @@
+{
+  "tick": "2296",
+  "unit": "rq_2296",
+  "entity": "vzw_ryhove_gent",
+  "kbo": "0407.215.007",
+  "omzet": 8047721,
+  "bruto": 17669323,
+  "pnl": 1330675,
+  "equity": 11953407,
+  "fte": 406.5,
+  "ratio_bruto_omzet": 2.2,
+  "confidence": "medium",
+  "gap": "gap_ryhove_nbb_pdf_assets_debt_bruto_gt_omzet_2_20x_pnl_jump_fte_jump_matrix_l5"
+}
