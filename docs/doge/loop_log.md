@@ -26099,3 +26099,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.2); entities (+1 vzw_borgerstein_webo_sint_katelijne_waver); foi + draft gap_borgerstein_nbb_pdf_assets_debt_bruto_2_62x_omzet_14_70m_pnl_drop_vaph_maatwerk_matrix_l5; rq_2286=done + rq_2287 open; loop_state ticks=2284; raw docs/doge/data/raw/tick2286/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2280**; next **2290**). Next: rq_2287 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk Sterpunt-Labeur-Orbit-Ateliers Mons).
+
+### 2026-08-27T14:15:00Z - tick 2287 - rq_2287 De Sprong Meerhout (bruto JUMP 4.53m / empty omzet / pnl DROP / equity JUMP / FTE 110.9 / Medium)
+
+- Unit: **rq_2287** leftover dual after **rq_2286 Borgerstein/WEBO**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Aralea/Manupal/De Ploeg/Vlotter/Buseloc still **YE2024**. Took FREE Kempens maatwerk **De Sprong VZW** YE2025 (KBO **0466.328.686**; Vaartstraat 1 Meerhout; **Actief** **9 VE**; NACE **88.993**; aanbestedende overheid). Do not redo Borgerstein/WEBO/Mobiel/Posthoorn/Ateljee/TWI/Die Zukunft stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR4526068** JUMP +6.88% vs YE2024 EUR4234619; pnl **EUR56628** DROP -3.62% vs YE2024 EUR58754; equity **EUR2621748** JUMP +1.82%; FTE **110.9** (vs 106.4); neerlegging **20.06.2026**. Strong KBO Actief 9 VE VZW info@desprongvzw.be. Assets/debt Unknown. Medium.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.10); entities (+1 vzw_de_sprong_meerhout); foi + draft gap_de_sprong_nbb_pdf_assets_debt_empty_omzet_bruto_jump_pnl_drop_matrix_l5; rq_2287=done + rq_2288 open; loop_state ticks=2287; raw docs/doge/data/raw/tick2287/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2280**; next **2290**). Next: rq_2288 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused DSO-water-nuclear-IGS-HVZ / unused ETA-VAPH-WZC-maatwerk).
+
