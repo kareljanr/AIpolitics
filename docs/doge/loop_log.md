@@ -25492,3 +25492,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.40); entities (+1 vzw_entranam); foi + draft gap_entranam_nbb_pdf_assets_debt_bruto_gt_omzet_1_83x_pnl_loss_deepen_eta_matrix_l5; rq_2237=done + rq_2238 open; loop_state ticks=2237; raw docs/doge/raw/tick2237/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2238 (AGB/FARO-if-YE2025 / AIESH-REW / unused-ETA-VAPH-WZC-maatwerk).
+
+
+## Tick 2237 - 2026-08-27T01:05:00Z - rq_2237 EntrAnam Fernelmont (bruto 7.66m / bruto≫omzet ~1.83x / pnl LOSS DEEPEN / Medium)
+
+- Unit: **rq_2237** leftover dual after **rq_2236 Enghien**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**. Took named FREE **EntrAnam ASBL / L'Entraide par le Travail de Namur** YE2025 (KBO **0407.273.801**; Rue du Tronquoy 10 Fernelmont; **Actief** **1 VE**; NACE **88.993**) — named prefer in rq_2237. DISTINCT from Enghien/Entra Fleurus. Do not redo Enghien/Entra/Ateliers Tertre stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR4197245** DROP -3.36% vs YE2024 EUR4343098; bruto **EUR7663710** DROP -1.93% (bruto≫omzet ~1.83x); pnl **EUR-301095** LOSS DEEPEN vs YE2024 EUR-71506; equity **EUR7865533** DROP -4.13%; FTE **233.7**; neerlegging **21.05.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@entranam.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.30); entities (+1 vzw_entranam_fernelmont); foi + draft gap_entranam_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_loss_deepen_eta_matrix_l5; rq_2237=done + rq_2238 open; loop_state ticks=2237; raw docs/doge/raw/tick2237/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2238 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
