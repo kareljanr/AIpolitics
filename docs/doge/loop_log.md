@@ -24512,3 +24512,10 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - **EVERY-10@2160** (last was 2150; **next 2170**). Pure annual top10 stable (GIP/fossil/cars/cheque). Next: rq_2161 (AGB/FARO-if-YE2025 / AIESH-REW / WZND-if-unused / unused IGS-DSO-WZC-MRS).
 
+## Tick 2160 - 2026-08-25T23:20:00Z - rq_2160 EVERY-10 Home OLV van de Kempen Ravels (omzet JUMP 8.92m / pnl LOSS narrow -150k / Medium) race-recover
+
+- Unit: **rq_2160** race-recover after concurrent also closed **rq_2160 Foyer De Lork Geel** EVERY-10 (CSV rows for Lork already landed). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Hof ter Lande Vorselaar probed **YE2024-only**. Took unused leftover **Home O.-L.-Vrouw van de Kempen VZW** YE2025 (KBO **0433.440.342**; O.L.Vrouwstraat 3 Ravels; **VZW** ROB / **1 VE**; site wzc-ravels.be). Do not redo Foyer De Lork/Hertog Jan/Lindeboom/Epinette/Parc de Forest/Le Hanois/Eycken Brug/Annuntiaten/Walloon ZS stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR8918056** JUMP +16.63%; bruto **EUR7548680** JUMP +17.5%; pnl **EUR-149810** LOSS NARROW from YE2024 LOSS EUR-570269; equity **EUR7242263** DROP -2.56%; FTE **90.6** JUMP vs 81.1; neerlegging **17.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@wzc-ravels.be (tel 014 65 85 63).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.07); entities (+1 vzw_olv_kempen_ravels); foi + draft gap_olv_kempen_nbb_pdf_assets_debt_pnl_loss_narrow_omzet_jump_matrix_l5; progress_every_10_ticks.md + doge_waste_top10_current.md merged (Foyer De Lork + OLV Kempen); rq_2160=done (race with Lork) + rq_2161 open; loop_state ticks=2160; raw docs/doge/data/raw/tick2160/.
+- FOI: **ready not sent** (human-gated).
+- **EVERY-10@2160** (last was 2150; **next 2170**). Layers A/B 100%; C ~99%; D ~74-88%; E ~1786 ready. Pure annual top10 stable. Next: rq_2161 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros).
