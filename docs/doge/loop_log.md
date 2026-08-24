@@ -24115,3 +24115,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.2); entities (+1 asbl_entraide_fraternelle_jolimont); foi + draft gap_entraide_jolimont_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2118=done + rq_2119 open; loop_state ticks=2118; raw docs/doge/data/raw/tick2118/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2110**; next **2120**). Next: rq_2119 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+## Tick 2119 - 2026-08-25T10:10:00Z - rq_2119 Strebo Services Jolimont (omzet JUMP 2.41m / pnl DROP 8.9k near-zero -86% / Medium)
+
+- Unit: **rq_2119** leftover dual after **rq_2118 Entraide Fraternelle Jolimont**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Strebo Services** YE2025 (KBO **0899.812.184**; Rue Ferrer(PAU) 159 La Louviere; **SRL/BV** NACE **87.101/87.301** / **2 VE**; aanbestedende overheid; Jolimont Pole Senior Le Rambour + Le Planty). Do not redo Entraide/La Charmille/Charmilles Sambreville/Sittelles/Buissons/Residence 3/Elisabeth Aan Zee/XXe Aout/Ninove/Zilverlinde/Sint-Camillus/IDELUX*/INTRADEL/ORES SC.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2407319** JUMP +5.88%; bruto **EUR2252638** JUMP +7.16%; pnl **EUR8892** DROP -86.06% vs YE2024 EUR63787 (near-zero); equity **EUR453285** JUMP +1.66%; FTE **26.5** JUMP vs 25.8; neerlegging **10.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via secretariat.general@jolimont.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.9); entities (+1 bv_strebo_services_jolimont); foi + draft gap_strebo_nbb_pdf_assets_debt_pnl_drop_near_zero_matrix_l5; rq_2119=done + rq_2120 open (every-10); loop_state ticks=2119; raw docs/doge/data/raw/tick2119/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (last **2110**; next **2120**). Next: rq_2120 every-10 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
