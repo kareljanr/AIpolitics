@@ -25284,3 +25284,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.04); entities (+1 vzw_kringwinkel_maasland); foi + draft gap_kringwinkel_maasland_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_drop_equity_jump_matrix_l5; rq_2223=done + rq_2224 open; loop_state ticks=2223; raw docs/doge/raw/tick2223/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2224 (AGB/FARO-if-YE2025 / AIESH-REW / unused maatwerk-WZC-IGS).
+
+
+## Tick 2223 - 2026-08-26T19:55:00Z - rq_2223 Manus BXL (bruto JUMP 2.37m / empty omzet / pnl DROP -94% / FTE JUMP / Strong)
+
+- Unit: **rq_2223** leftover dual after **rq_2222 Manus VZW groep** (+KZOV race). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024**; Heropbeuring filed but **CW kern opaque/N/A**. Took named FREE leftover **Manus BXL VZW** YE2025 (KBO **0828.752.657**; Nestor Martinstraat 313-315 Sint-Agatha-Berchem; **Actief** **7 VE**; NACE **88.999**). Do not redo Manus groep/Manus Antwerpen/NBSW/Opnieuw/Stroom/Kringwinkel ZOV.
+- Found: **Strong NBB** VKT-VZW deposit **2026-00203914** (filed 26.06.2026; AV 23.06.2026) + CW NL+EN+FR - omzet **empty**; bruto **EUR2366024** JUMP +2.09% vs YE2024 EUR2317563; pnl **EUR10308** DROP -93.88% vs YE2024 EUR168389; equity **EUR980133**; assets **EUR2495982**; debt **EUR1515849**; FTE **59.8** JUMP vs 55.7; op-loss flip 9901 EUR-6748. Strong KBO 7 VE. FOI via info@manus.tv.
+- Wrote: sources (+6); budgets (+7); commitments (+1); leaderboard (+1 pi 7.00); entities (+1 vzw_manus_bxl); foi + draft gap_manus_bxl_nbb_subsidy_empty_omzet_pnl_drop_94pct_fte_jump_matrix_l5; rq_2223=done + rq_2224 open; loop_state ticks=2223; raw docs/doge/raw/tick2223/ (+ NBB PDF).
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2224 (AGB/FARO-if-YE2025 / AIESH-REW / Heropbeuring-if-euros / unused).
