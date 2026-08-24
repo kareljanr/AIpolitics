@@ -25086,3 +25086,6 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.9); entities (+1 vzw_de_oesterbank_oostende); foi + draft gap_oesterbank_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_jump_matrix_l5; rq_2205=done + rq_2206 open; loop_state ticks=2205; raw docs/doge/data/raw/tick2205/.
 - FOI: **ready NOT sent** (human-gated).
 - NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2206 (AGB/FARO-if-YE2025 / AIESH-REW / Werkhuizen-MIN-YE2025-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+### 2026-08-26T14:25:00Z - tick 2205 race/fix note
+- Concurrent agent closed rq_2205 as De Oesterbank YE2025 Medium (14cba3ea) with same sourced euros. KBO Strong shows **3 VE** (not 2); FOI contact aligned to **info@oesterbank.be** (site footer). Both race log lines kept. Do not redo Oesterbank. Next: rq_2206 FREE Werkhuizen MIN YE2025 deferred. Next every-10 still **2210**.
