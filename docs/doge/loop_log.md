@@ -26621,3 +26621,10 @@ Append-only. Each tick adds a short entry.
 - **Writes:** entities/sources/budgets/commitments/leaderboard + FOI gap_pleegzorg_ovl_nbb_pdf_assets_debt_empty_omzet_bruto_22_64m_pnl_drop_fte_jump_jeugdhulp_matrix_l5 ready NOT sent.
 - **Stalls:** AGB Bornem JR2024; FARO/AIESH/Citeco YE2024.
 - **Next:** rq_2330 EVERY-10 open; next EVERY-10 **2330**.
+
+### 2026-08-24T13:34:01Z - tick 2329 - rq_2329 Tandem Diepenbeek (bruto JUMP 3.92m / ~6.33x omzet / pnl PROFIT FLIP / Medium)
+
+- Unit: **rq_2329** leftover dual after **Het Eepos@2328**. Prefer NON-stall: AGB Bornem still **JR2024**; FARO/AIESH still **YE2024**. Took unused FREE Flemish VAPH **Tandem VZW** YE2025 (KBO **0428.708.623**; Onze-Lieve-Vrouwstraat 18 Diepenbeek; **Actief** **2 VE**; RSZ **88.993**; administratie@tandemvzw.be). Do not redo Het Eepos/Mivalti/Zonnebeke/Ithaka/Ritmica stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR619036** JUMP +15.11%; bruto **EUR3920429** JUMP +7.5% (~**6.33x**); pnl **EUR148672** PROFIT FLIP (vs LOSS -125793); equity **EUR1854263** JUMP +5.21%; FTE **52.8**; neerlegging **28.05.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown. Medium. FOI via administratie@tandemvzw.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.9); entities (+1); foi + draft gap_tandem_nbb_pdf_assets_debt_bruto_gt_omzet_6_33x_pnl_profit_flip_vaph_matrix_l5; rq_2329=done + rq_2330 open (EVERY-10); loop_state ticks=2329.
+- FOI: **ready not sent**. NOT every-10 (next **2330** THIS next). Next: rq_2330.

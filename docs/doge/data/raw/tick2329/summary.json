@@ -1,0 +1,15 @@
+{
+  "tick": "2329",
+  "unit": "rq_2329",
+  "entity": "vzw_tandem_diepenbeek",
+  "kbo": "0428.708.623",
+  "omzet": 619036,
+  "bruto": 3920429,
+  "pnl": 148672,
+  "equity": 1854263,
+  "fte": 52.8,
+  "ratio": 6.33,
+  "confidence": "medium",
+  "gap": "gap_tandem_nbb_pdf_assets_debt_bruto_gt_omzet_6_33x_pnl_profit_flip_vaph_matrix_l5",
+  "pi": 4.9
+}
