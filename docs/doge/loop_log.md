@@ -25447,3 +25447,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.50); entities (+1 vzw_ateliers_de_tertre); foi + draft gap_ateliers_tertre_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_drop_97pct_eta_matrix_l5; rq_2234=done + rq_2235 open; loop_state ticks=2234; raw docs/doge/raw/tick2234/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2235 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
+
+
+## Tick 2235 - 2026-08-27T00:10:00Z - rq_2235 Het Rekreatief Wilrijk (bruto JUMP 2.42m / empty omzet / pnl PROFIT FLIP / Medium)
+
+- Unit: **rq_2235** leftover dual after **rq_2234 Ateliers de Tertre** (race took 2234). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (CW last balance 2024; NBB YE2025 unpublished); AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**. Stroom Maatwerk already mined — skipped. Took FREE unused leftover **Het Rekreatief VZW** YE2025 (KBO **0445.687.284**; Doornstraat 600 Wilrijk; **Actief** **2 VE**; NACE **88.993** collectief maatwerk / Villa Mariënborgh + groendienst). Do not redo Ateliers/Le Rucher/Travie/SDB/De Vleugels/Kiemkracht/De Oever/Stroom stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **empty/unpublished**; bruto **EUR2420426** JUMP +28.04% vs YE2024 EUR1890365; pnl **EUR75336** PROFIT FLIP vs YE2024 LOSS EUR-107458; equity **EUR545451** JUMP +15.37%; FTE **57.4** JUMP vs 54.9; neerlegging **23.07.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown. Medium. FOI via info@rekreatief.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.90); entities (+1 vzw_het_rekreatief_wilrijk); foi + draft gap_het_rekreatief_nbb_pdf_assets_debt_empty_omzet_pnl_profit_flip_matrix_l5; rq_2235=done + rq_2236 open; loop_state ticks=2235; raw docs/doge/raw/tick2235/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2236 (AGB/FARO-if-YE2025 / AIESH-REW / unused-VAPH-WZC-maatwerk).
