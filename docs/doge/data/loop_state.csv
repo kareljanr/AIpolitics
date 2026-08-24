@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T18:05:00Z,rq_2335,2335,no,tick2335 leftover dual WonenWerken Autisme 0443.397.688 Medium (omzet JUMP 2488539; bruto JUMP 13441120 ~5.4x; pnl JUMP 2326835; equity JUMP 14663706; FTE JUMP 143.3; 1 VE Aanbestedende); after GielsBos@2334; AGB/FARO YE2024; next rq_2336; next EVERY-10 2340
+main,continuous,hole_fill,2026-08-24T13:45:00Z,rq_2333,2333,no,tick2333 leftover dual WWPA 0443.397.688 Medium (omzet JUMP 2488539; bruto JUMP 13441120 ~5.4x; pnl JUMP 2326835; equity JUMP 14663706; FTE JUMP 143.3); after Alma@2332; AGB/FARO YE2024; next rq_2334; next EVERY-10 2340; continuous hole_fill

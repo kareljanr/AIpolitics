@@ -26703,3 +26703,10 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN+FR YE2025 — omzet **unpublished**; bruto **EUR1871902** (+0.1%); pnl **EUR38075** DROP -33.01%; equity **EUR4726258** JUMP +10.5%; FTE **24.5**; neerlegging **23.03.2026**. Strong KBO. Donorinfo 2024 overheidssubsidies ~EUR1.98m (context). Assets/debt Unknown. Medium. FOI info@konekt.be.
 - Wrote: sources (+6); budgets (+4); commitments (+1); leaderboard (+1 pi 4.35); entities (+1 vzw_konekt_gent); foi + draft gap_konekt_*; rq_2335=done + rq_2336 open; loop_state=2335.
 - FOI: **ready not sent**. Next EVERY-10 **2340**. Next: rq_2336.
+
+### 2026-08-24T13:45:00Z - tick 2333 - rq_2333 WWPA/De Okkernoot Pajottegem (bruto JUMP 13.44m / ~5.4x omzet / pnl JUMP +114% / Medium)
+
+- Unit: **rq_2333** leftover dual after **Alma@2332**. Prefer NON-stall: AGB Bornem still **JR2024**; FARO/AIESH still **YE2024**; Gandae/Aralea/Manupal/Vlotter still **YE2024**. Took unused FREE Flemish VAPH **WWPA / De Okkernoot VZW** YE2025 (KBO **0443.397.688**; Repingestraat 12 Pajottegem; **Actief** **1 VE**; **Aanbestedende**; info@de-okkernoot.be). Do not redo Alma/Mivalti/Den Brand/Tandem/Het Eepos/Vier Notelaars stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2488539** JUMP +32.25%; bruto **EUR13441120** JUMP +28.04% (~**5.4x**); pnl **EUR2326835** JUMP +113.75%; equity **EUR14663706** JUMP +17.99%; FTE **143.3** JUMP; neerlegging **09.07.2026**. Strong KBO Actief Aanbestedende. Assets/debt Unknown. Medium. FOI via info@de-okkernoot.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.0); entities (+1); foi + draft gap_wwpa_nbb_pdf_assets_debt_bruto_gt_omzet_5_40x_pnl_jump_fte_jump_vaph_matrix_l5; rq_2333=done + rq_2334 open; loop_state ticks=2333.
+- FOI: **ready not sent**. NOT every-10 (next **2340**). Next: rq_2334.
