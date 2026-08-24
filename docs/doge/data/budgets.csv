@@ -54086,3 +54086,7 @@ bud_apojo_bruto_jr2025_statutory,vzw_apojo_aarschot,2025,20487636,20487636,20487
 bud_apojo_pnl_jr2025_statutory,vzw_apojo_aarschot,2025,523460,523460,523460,CW statutory pnl YE2025 DROP -21.33%,src_apojo_jr2025_cw_en,medium,tick2336; vs 665381
 bud_apojo_equity_jr2025_statutory,vzw_apojo_aarschot,2025,7966415,7966415,7966415,CW statutory eigen_vermogen YE2025 JUMP +29.13%,src_apojo_jr2025_cw_en,medium,tick2336; vs 6169398
 bud_apojo_fte_jr2025_statutory,vzw_apojo_aarschot,2025,248.2,248.2,248.2,CW social-balance FTE JUMP 248.2,src_apojo_jr2025_cw_en,medium,tick2336; vs 244.6
+bud_cirkel_lokeren_bruto_jr2025_statutory,vzw_de_cirkel_lokeren,2025,2375418,2375418,2375418,CW statutory bruto_marge YE2025 JUMP empty-omzet,src_cirkel_lokeren_jr2025_cw_en,medium,tick2338; bruto +7.8% vs 2203456; omzet empty
+bud_cirkel_lokeren_pnl_jr2025_statutory,vzw_de_cirkel_lokeren,2025,188524,188524,188524,CW statutory winst/verlies YE2025 JUMP,src_cirkel_lokeren_jr2025_cw_en,medium,tick2338; pnl +32.33% vs 142468
+bud_cirkel_lokeren_equity_jr2025_statutory,vzw_de_cirkel_lokeren,2025,3118706,3118706,3118706,CW statutory eigen_vermogen YE2025 JUMP,src_cirkel_lokeren_jr2025_cw_en,medium,tick2338; equity +6.16% vs 2937731
+bud_cirkel_lokeren_fte_jr2025_statutory,vzw_de_cirkel_lokeren,2025,54.3,54.3,54.3,CW social-balance FTE 54.3,src_cirkel_lokeren_jr2025_cw_en,medium,tick2338; FTE JUMP vs 51.0

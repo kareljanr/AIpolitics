@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T13:50:00Z,rq_2336,2336,no,tick2336 leftover dual Apojo 0411.972.262 Medium (omzet JUMP 2657861; bruto JUMP 20487636 ~7.71x; pnl DROP 523460; equity JUMP 7966415; FTE JUMP 248.2); after WWPA@2335; AGB/FARO YE2024; next rq_2337; next EVERY-10 2340; continuous hole_fill
+main,continuous,hole_fill,2026-08-28T02:45:00Z,rq_2338,2338,no,tick2338 leftover dual De Cirkel Lokeren 0470.413.079 Medium (omzet empty; bruto JUMP 2375418; pnl JUMP 188524; equity JUMP 3118706; FTE JUMP 54.3; 3 VE RSZ 88.993); AGB/FARO YE2024; next rq_2339; next EVERY-10 2340; continuous hole_fill

@@ -26717,3 +26717,10 @@ Append-only. Each tick adds a short entry.
 - Found: Companyweb NL+EN YE2025 - omzet **EUR2657861** JUMP +5.59%; bruto **EUR20487636** JUMP +5.17% (~**7.71x**); pnl **EUR523460** DROP -21.33%; equity **EUR7966415** JUMP +29.13%; FTE **248.2** JUMP; neerlegging **07.07.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via vaph@apojo.be.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.17); entities (+1); foi + draft gap_apojo_nbb_pdf_assets_debt_bruto_gt_omzet_7_71x_pnl_drop_fte_jump_vaph_matrix_l5; rq_2336=done + rq_2337 open; loop_state ticks=2336.
 - FOI: **ready not sent**. NOT every-10 (last **2330**; next **2340**). Next: rq_2337.
+
+### 2026-08-28T02:45:00Z - tick 2338 - rq_2338 De Cirkel Lokeren (empty omzet / bruto JUMP 2.38m / pnl JUMP +32% / FTE 54.3 / Medium)
+
+- Unit: **rq_2338**. Stalls AGB/FARO YE2024. Took FREE maatwerk **De Cirkel Lokeren** YE2025 KBO **0470.413.079** (3 VE; RSZ 88.993; info@kringwinkeldecirkel.be). DISTINCT De Enter Brecht.
+- Found: CW NL+EN+FR — omzet empty; bruto EUR2375418; pnl EUR188524 (+32.33%); equity EUR3118706; FTE 54.3; filed 16.06.2026. Medium.
+- Wrote: sources(+5) budgets(+4) ents(+1) comm(+1) lb(+1) foi(+1); rq_2338=done + rq_2339 open; ticks=2338.
+- FOI ready NOT sent. NOT every-10 (next **2340**). Next: rq_2339.
