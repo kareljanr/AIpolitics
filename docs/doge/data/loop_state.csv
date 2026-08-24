@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T20:00:00Z,rq_2351,2351,no,tick2351 leftover dual De Korenbloem 0418.825.412 Medium (omzet JUMP 12564145; bruto JUMP 12311379; pnl LOSS FLIP -360537; equity DROP 8688763; FTE JUMP 175.9; 1 VE Aanbestedende RSZ 87.101); after Leieborg@2350; AGB/FARO YE2024; next rq_2352; next EVERY-10 2360
+main,continuous,hole_fill,2026-08-24T20:10:00Z,rq_2352,2352,no,tick2352 leftover dual De Branding WAAK 0441.399.092 Medium (omzet JUMP 3507384; bruto JUMP 23068203 ~6.58x; pnl DROP 717178; equity JUMP 13121232; FTE JUMP 277.5; 7 VE Aanbestedende); after Korenbloem@2351; AGB/FARO YE2024; next rq_2353; next EVERY-10 2360

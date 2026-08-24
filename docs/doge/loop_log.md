@@ -26832,3 +26832,17 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN YE2025 — omzet **EUR12564145** JUMP +2.22%; bruto **EUR12311379**; pnl **EUR-360537** LOSS FLIP; equity **EUR8688763** DROP −4.9%; FTE **175.9** JUMP; neerlegging **03.06.2026**. Strong KBO. Assets/debt Unknown. Medium.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.15); entities (+1); foi + draft gap_korenbloem_nbb_pdf_assets_debt_omzet_12_56m_pnl_loss_flip_wzc_matrix_l5; rq_2351=done + rq_2352 open; loop_state ticks=2351; raw tick2351/.
 - FOI: **ready not sent**. NOT every-10 (next **2360**). Next: rq_2352.
+
+### 2026-08-28T04:00:00Z - tick 2349 - rq_2349 De Korenbloem Kortrijk CSV orphan fill (omzet JUMP 12.56m / pnl LOSS FLIP / FTE JUMP 175.9 / Medium)
+
+- Unit: **rq_2349** CSV orphan fill after **Oostrem@2348** — queue **rq_2347** was marked done without CSV rows. Prefer NON-stall AGB/FARO **YE2024**. Flemish WZC **De Korenbloem VZW** YE2025 (KBO **0418.825.412**; Pieter de Conincklaan 12 Kortrijk; **Actief** **1 VE** Aanbestedende; RSZ **87.101**; info@dekorenbloem.net).
+- Found: CW EN+NL YE2025 - omzet **EUR12564145** JUMP +2.22%; bruto **EUR12311379**; pnl **EUR-360537** LOSS FLIP (vs profit EUR73799); equity **EUR8688763** DROP -4.9%; FTE **175.9** JUMP; neerlegging **03.06.2026**. Strong KBO. Assets/debt Unknown. Medium.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.2); entities (+1); foi_queue ready; rq_2349=done + rq_2350 EVERY-10 open; loop_state ticks=2349; raw tick2347/cw_summary_fill.json.
+- FOI: **ready not sent**. Next **EVERY-10 @2350**. Next: rq_2350.
+
+### 2026-08-24T20:10:00Z - tick 2352 - rq_2352 De Branding WAAK Kuurne (bruto JUMP 23.07m / ~6.58x omzet / pnl DROP / FTE JUMP 277.5 / Medium)
+
+- Unit: **rq_2352** leftover dual after **Korenbloem@2351**. Prefer NON-stall: AGB Bornem still **JR2024**; FARO/AIESH/Gandae/Aralea/Manupal/Vlotter still **YE2024**. Took FREE Flemish VAPH **de branding WAAK VZW** YE2025 (KBO **0441.399.092**; Heirweg 125, 8520 Kuurne; **Actief** **7 VE**; Aanbestedende; RSZ **87.202**; info@debranding.be) — WAAK maatwerk dual same zetel. Do not redo Korenbloem/Leieborg/Helan HH/Oostrem stack.
+- Found: CW NL+EN+FR YE2025 - omzet **EUR3507384** JUMP +6.06%; bruto **EUR23068203** JUMP +11.19% (~**6.58x**); pnl **EUR717178** DROP -20.88%; equity **EUR13121232** JUMP +4.29%; FTE **277.5** JUMP; neerlegging **14.05.2026**. Strong KBO. Assets/debt Unknown. Medium.
+- Wrote: sources (+6); budgets (+5); commitments (+1); leaderboard (+1 pi 6.35); entities (+1); foi + draft `gap_de_branding_waak_nbb_pdf_assets_debt_bruto_gt_omzet_6_58x_pnl_drop_fte_jump_vaph_matrix_l5`; rq_2352=done + rq_2353 open; loop_state ticks=2352.
+- FOI: **ready not sent**. NOT every-10 (next **2360**). Next: rq_2353.

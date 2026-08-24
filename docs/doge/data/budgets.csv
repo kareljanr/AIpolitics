@@ -54153,3 +54153,8 @@ bud_korenbloem_bruto_jr2025_statutory,vzw_de_korenbloem_kortrijk,2025,12311379,1
 bud_korenbloem_pnl_jr2025_statutory,vzw_de_korenbloem_kortrijk,2025,-360537,-360537,-360537,CW statutory winst/verlies YE2025 LOSS FLIP,src_korenbloem_jr2025_cw_en,medium,tick2351; LOSS FLIP vs 73799
 bud_korenbloem_equity_jr2025_statutory,vzw_de_korenbloem_kortrijk,2025,8688763,8688763,8688763,CW statutory eigen_vermogen YE2025 DROP,src_korenbloem_jr2025_cw_en,medium,tick2351
 bud_korenbloem_fte_jr2025_statutory,vzw_de_korenbloem_kortrijk,2025,175.9,175.9,175.9,CW FTE 175.9 JUMP,src_korenbloem_jr2025_cw_en,medium,tick2351
+bud_de_branding_waak_omzet_jr2025_statutory,vzw_de_branding_waak_kuurne,2025,3507384,3507384,3507384,CW statutory omzet YE2025 JUMP +6.06%,src_de_branding_waak_jr2025_cw_en,medium,tick2352; vs 3307036
+bud_de_branding_waak_bruto_jr2025_statutory,vzw_de_branding_waak_kuurne,2025,23068203,23068203,23068203,CW statutory bruto YE2025 ~6.58x omzet,src_de_branding_waak_jr2025_cw_en,medium,tick2352; primary L5
+bud_de_branding_waak_pnl_jr2025_statutory,vzw_de_branding_waak_kuurne,2025,717178,717178,717178,CW statutory pnl YE2025 DROP -20.88%,src_de_branding_waak_jr2025_cw_en,medium,tick2352
+bud_de_branding_waak_equity_jr2025_statutory,vzw_de_branding_waak_kuurne,2025,13121232,13121232,13121232,CW statutory equity YE2025 JUMP +4.29%,src_de_branding_waak_jr2025_cw_en,medium,tick2352
+bud_de_branding_waak_fte_jr2025_statutory,vzw_de_branding_waak_kuurne,2025,277.5,277.5,277.5,CW FTE JUMP 277.5,src_de_branding_waak_jr2025_cw_en,medium,tick2352; vs 263
