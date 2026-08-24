@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T13:00:00Z,rq_2201,2201,no,tick2201 leftover De Winning 0465.903.173 Medium (omzet JUMP 7.96m; bruto 11.46m ≫ omzet ~1.44x; pnl JUMP 1.76m +109%; equity JUMP 3.59m +87%; FTE 281.5; 5 VE Lummen); AGB Bornem JR2024; FARO/REW YE2024; next rq_2202; next every-10 2210; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T13:00:00Z,rq_2201,2201,no,tick2201 leftover MWP Pajottenland 0413.313.535 Medium (omzet JUMP 2.65m; bruto≫omzet ~1.76x 4.66m; pnl JUMP 136k +299%; equity JUMP 2.58m; FTE DROP 125; 1 VE Lennik); AGB Bornem JR2024; FARO/REW YE2024; AIESH 404; next rq_2202; next every-10 2210; continuous hole_fill

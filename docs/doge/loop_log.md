@@ -25000,3 +25000,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.9); entities (+1 vzw_de_winning_maatwerk_lummen); foi + draft gap_de_winning_nbb_pdf_assets_debt_equity_jump_pnl_jump_bruto_gt_omzet_matrix_l5; rq_2201=done + rq_2202 open; loop_state ticks=2201; raw docs/doge/data/raw/tick2201/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2202 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2201 - 2026-08-26T13:00:00Z - rq_2201 MWP Pajottenland (omzet JUMP 2.65m / bruto≫omzet ~1.76x / pnl JUMP +299% / Medium)
+
+- Unit: **rq_2201** leftover dual after **rq_2200 EVERY-10 Atelier Groot Eiland**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; REW still **YE2024**; AIESH **404**. Took named FREE leftover **Maatwerkbedrijf Pajottenland / MWP VZW** YE2025 (KBO **0413.313.535**; Luitenant Jacopsstraat 11 Lennik; **VZW** RSZ/BTW NACE **88.993** / **1 VE**; deferred FREE Kaliber/Aarova/Oesterbank/Werkhuizen MIN). Do not redo AGE/Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2653635** JUMP +5.42% vs YE2024 EUR2517102; bruto **EUR4659880** DROP -0.24% (bruto≫omzet ~1.76x); pnl **EUR135947** JUMP +298.64% vs YE2024 EUR34103; equity **EUR2578716** JUMP +5.57%; FTE **125** DROP vs 129.7; neerlegging **04.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 1 VE. FOI via mwpajot@mwpajot.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.5); entities (+1 vzw_mwp_pajottenland); foi + draft gap_mwp_pajottenland_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_jump_matrix_l5; rq_2201=done + rq_2202 open; loop_state ticks=2201; raw docs/doge/data/raw/tick2201/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2202 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
