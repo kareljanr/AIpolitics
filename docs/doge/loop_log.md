@@ -24733,3 +24733,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_maatwerk_stroom); foi + draft gap_stroom_maatwerk_nbb_pdf_assets_debt_bruto_gt_omzet_subsidy_matrix_l5; rq_2177=done + rq_2178 open; loop_state ticks=2177; raw docs/doge/data/raw/tick2177/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2178 (AGB/FARO-if-YE2025 / AIESH-REW / Waak-or-Stijn / unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2177 - 2026-08-26T05:00:00Z - rq_2177 Creat CV / Farys cvba (omzet JUMP 50.2m / bruto thin 350k / FTE 0 / Medium)
+
+- Unit: **rq_2177** leftover dual after **rq_2176 Farys Solar / Springplank race**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Creat CV** YE2025 (KBO **0554.887.312**; Stropstraat 1 Gent; **CV** NACE **46.190** / **1 VE**; handelsnaam **Farys cvba**; **aanbestedende overheid**; same zetel Farys OV + Farys Solar). DISTINCT mined Creat Services dv 0692.624.441. Do not redo Farys Solar/Springplank/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever/Anima*/emeis/Farys OV.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR50163334** JUMP +20.89% vs YE2024 EUR41495913; bruto **EUR349506** DROP -2.33% (thin 0.7pct of omzet); pnl **EUR179023** DROP -11.11%; equity **EUR1994141** JUMP +10.37%; FTE **0**; neerlegging **18.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief CV + aanbestedende + secretariaat@creat.be. FOI via secretariaat@creat.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.8); entities (+1 cv_creat_farys); foi + draft gap_creat_cv_nbb_pdf_assets_debt_omzet_50m_bruto_thin_fte0_matrix_l5; rq_2177=done + rq_2178 open; loop_state ticks=2177; raw docs/doge/data/raw/tick2177/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2178 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
