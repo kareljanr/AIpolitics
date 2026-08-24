@@ -24992,3 +24992,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress+top10; sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 6.5); entities (+1 vzw_atelier_groot_eiland); foi + draft gap_atelier_groot_eiland_nbb_pdf_assets_debt_empty_omzet_pnl_jump_matrix_l5; rq_2200=done + rq_2201 open; loop_state ticks=2200; raw docs/doge/data/raw/tick2200/.
 - FOI: **ready not sent** (human-gated).
 - **EVERY-10 done** (last was 2190; next **2210**). Next: rq_2201 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
+## Tick 2201 - 2026-08-26T13:00:00Z - rq_2201 De Winning Maatwerk (omzet JUMP 7.96m / equity JUMP +87% / pnl JUMP +109% / Medium)
+
+- Unit: **rq_2201** leftover dual after **rq_2200 Atelier Groot Eiland**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; REW still **YE2024**. Took named FREE leftover **De Winning Maatwerk VZW** YE2025 (KBO **0465.903.173**; St.-Ferdinandstraat 1 Lummen; **Actief** **5 VE**; RSZ NACE **88.993**). Do not redo Atelier Groot Eiland/Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR7961603** JUMP +27.06% vs YE2024 EUR6265903; bruto **EUR11461879** JUMP +10.86% (bruto>omzet ~1.44x); pnl **EUR1762111** JUMP +108.8% vs YE2024 EUR843942; equity **EUR3585952** JUMP +86.96%; FTE **281.5** JUMP vs 280.3; neerlegging **25.06.2026**. Strong KBO Actief 5 VE. Assets/debt Unknown. Medium. FOI via info@dewinning.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.9); entities (+1 vzw_de_winning_maatwerk_lummen); foi + draft gap_de_winning_nbb_pdf_assets_debt_equity_jump_pnl_jump_bruto_gt_omzet_matrix_l5; rq_2201=done + rq_2202 open; loop_state ticks=2201; raw docs/doge/data/raw/tick2201/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2202 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).

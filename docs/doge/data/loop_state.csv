@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T12:40:00Z,rq_2200,2200,no,tick2200 EVERY-10 leftover Atelier Groot Eiland 0430.686.037 Medium (bruto JUMP 2.93m; omzet empty; pnl JUMP 24k +263%; equity DROP 1.01m; FTE DROP 53.6; 4 VE Molenbeek); progress+top10 refreshed; AGB Bornem JR2024; FARO/REW YE2024; next rq_2201; next every-10 2210; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T13:00:00Z,rq_2201,2201,no,tick2201 leftover De Winning 0465.903.173 Medium (omzet JUMP 7.96m; bruto 11.46m ≫ omzet ~1.44x; pnl JUMP 1.76m +109%; equity JUMP 3.59m +87%; FTE 281.5; 5 VE Lummen); AGB Bornem JR2024; FARO/REW YE2024; next rq_2202; next every-10 2210; continuous hole_fill
