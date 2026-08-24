@@ -24760,3 +24760,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.4); entities (+1 vzw_stijn_hasselt); foi + draft gap_stijn_nbb_pdf_assets_debt_bruto_128m_vs_omzet_22m_vaph_matrix_l5; rq_2179=done + rq_2180 open (EVERY-10); loop_state ticks=2179; raw docs/doge/data/raw/tick2179/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2180 EVERY-10 then leftover (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2180 - 2026-08-26T06:00:00Z - EVERY-10 + rq_2180 WAAK SW (omzet 4.32m / pnl JUMP 430k / Waak sister / Medium)
+
+- Unit: **rq_2180 EVERY-10** + leftover dual after **rq_2179 Stijn**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **WAAK SW / Waak Maatwerkbedrijf WSW VZW** YE2025 (KBO **0457.351.040**; Heirweg 125 Kuurne; **VZW** NACE **88.993** / **1 VE**; sister of mined Waak parent **0439.993.582**). Do not redo Stijn/Waak/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever/Anima*/emeis/Integro.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR4320994** (YE2024 omzet unpublished); bruto **EUR2842358** JUMP +6.79%; pnl **EUR429634** JUMP +9.24%; equity **EUR4927322** JUMP +9.37%; FTE **61.3**; neerlegging **13.05.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW + same board as Waak parent. FOI via info@waak.be.
+- EVERY-10: refreshed progress_every_10_ticks.md (tick 2180 snapshot; layers A–E; inventory budgets 52985+ / lb 7983+ / FOI ready ~1812) + doge_waste_top10_current.md (pure annual top10 stable GIP/fossil/cars/cheque; NEW residual 2171-2180 note incl. Stijn 128m / Creat 50.2m / Waak 37.7m / WAAK SW).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.9); entities (+1 vzw_waak_sw); foi + draft gap_waak_sw_nbb_pdf_assets_debt_omzet_related_waak_parent_matrix_l5; rq_2180=done + rq_2181 open; loop_state ticks=2180; raw docs/doge/data/raw/tick2180/.
+- FOI: **ready not sent** (human-gated).
+- EVERY-10 done (**last every-10 was 2170**; next **2190**). Next: rq_2181 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
