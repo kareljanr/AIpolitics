@@ -26193,3 +26193,12 @@ Append-only. Each tick adds a short entry.
 - Sealed missing FOI draft `gap_buseloc_nbb_pdf_assets_debt_empty_omzet_bruto_3_17m_pnl_jump_370pct_matrix_l5.md` for Buseloc YE2025 (bruto **EUR3.17m** / empty omzet / pnl JUMP **+370%** / FTE **83.4**; KBO 0433.160.527) already in CSVs from 2290 race with Op Maat EVERY-10.
 - Progress note: Buseloc removed from YE2024 stall list (unlocked YE2025).
 - FOI: **ready not sent** (human-gated). Next every-10: **2300**.
+
+
+### 2026-08-27T15:45:00Z - tick 2293 - rq_2293 Natuur en Landschapszorg Mechelen (omzet JUMP 11.25m / bruto~1.1x / pnl DROP / FTE JUMP 287.3 / Medium)
+
+- Unit: **rq_2293** leftover dual after **rq_2292 Labor**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Aralea/Manupal still **YE2024**. Took unused FREE Flemish green maatwerk **Natuur en Landschapszorg VZW** YE2025 (KBO **0466.855.258**; Coxiestraat 11 Mechelen; **Actief** **26 VE**; RSZ **88.993**). Do not redo Labor/Intro Schoonmaak/Op Maat/REW/Labeur/Village Liegeois/De Sprong/Borgerstein/Entiris/Ecoso/De Brug/BWZ stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR11253498** JUMP +14.54% vs YE2024 EUR9825259; bruto **EUR12338297** JUMP +14.72% (~1.1x); pnl **EUR249691** DROP -8.74% vs YE2024 EUR273592; equity **EUR4718485** JUMP +5.91%; FTE **287.3** JUMP (vs 272.0); neerlegging **21.05.2026**. Strong KBO Actief 26 VE VZW. Assets/debt Unknown. Medium. FOI via info@natuurenlandschapszorg.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.05); entities (+1 vzw_natuur_en_landschapszorg_mechelen); foi + draft gap_nlz_nbb_pdf_assets_debt_omzet_jump_11_25m_bruto_1_10x_pnl_drop_fte_jump_matrix_l5; rq_2293=done + rq_2294 open; loop_state ticks=2293; raw docs/doge/data/raw/tick2293/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2294 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-maatwerk Rozemarijn-SOBO-Gandae).

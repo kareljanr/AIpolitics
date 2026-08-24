@@ -53789,3 +53789,9 @@ bud_labor_bruto_jr2025_statutory,vzw_labor_arbeidskansen_as,2025,4812113,4812113
 bud_labor_pnl_jr2025_statutory,vzw_labor_arbeidskansen_as,2025,-1408630,-1408630,-1408630,CW statutory winst/verlies YE2025 LOSS FLIP,src_labor_jr2025_cw_en,medium,tick2292; Medium CW; pnl LOSS FLIP -390.13% vs YE2024 +485525
 bud_labor_equity_jr2025_statutory,vzw_labor_arbeidskansen_as,2025,3899262,3899262,3899262,CW statutory eigen_vermogen YE2025 DROP,src_labor_jr2025_cw_en,medium,tick2292; Medium CW; equity DROP -26.63% vs YE2024 5314515
 bud_labor_fte_jr2025_statutory,vzw_labor_arbeidskansen_as,2025,144,144,144,CW social-balance FTE 144,src_labor_jr2025_cw_en,medium,tick2292; Medium CW; FTE 144 vs YE2024 120.2; assets/debt Unknown
+bud_nlz_omzet_jr2025_statutory,vzw_natuur_en_landschapszorg_mechelen,2025,11253498,11253498,11253498,CW omzet YE2025,src_nlz_jr2025_cw_en,medium,tick2293; omzet JUMP +14.54% vs 9825259
+bud_nlz_bruto_jr2025_statutory,vzw_natuur_en_landschapszorg_mechelen,2025,12338297,12338297,12338297,CW bruto YE2025 (~1.1x),src_nlz_jr2025_cw_en,medium,tick2293; bruto JUMP +14.72% vs 10754988
+bud_nlz_pnl_jr2025_statutory,vzw_natuur_en_landschapszorg_mechelen,2025,249691,249691,249691,CW pnl YE2025 DROP,src_nlz_jr2025_cw_en,medium,tick2293; pnl DROP -8.74% vs 273592
+bud_nlz_equity_jr2025_statutory,vzw_natuur_en_landschapszorg_mechelen,2025,4718485,4718485,4718485,CW equity YE2025 JUMP,src_nlz_jr2025_cw_en,medium,tick2293; equity JUMP +5.91% vs 4455220
+bud_nlz_fte_jr2025_statutory,vzw_natuur_en_landschapszorg_mechelen,2025,287.3,287.3,287.3,CW FTE 287.3,src_nlz_jr2025_cw_en,medium,tick2293; FTE JUMP 287.3 vs 272.0
+bud_nlz_pnl_jr2024_statutory_cmp,vzw_natuur_en_landschapszorg_mechelen,2024,273592,273592,273592,CW pnl YE2024 cmp,src_nlz_jr2025_cw_en,medium,tick2293; YE2024 pnl 273592
