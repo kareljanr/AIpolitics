@@ -5,7 +5,7 @@
 **entity:** Zorgcampus Denderrust VZW — KBO **0419.333.572** (Actief; Alfons De Cockstraat 12A, 9310 Aalst; aanbestedende overheid)  
 **recipient:** administratie@denderrust.be · Alfons De Cockstraat 12A, 9310 Aalst · cc Agentschap Zorg en Gezondheid / Stad Aalst  
 **sources:** [CW NL](https://www.companyweb.be/nl/0419333572/zorgcampus-denderrust) · [CW EN](https://www.companyweb.be/en/0419333572/zorgcampus-denderrust) · [CW FR](https://www.companyweb.be/fr/0419333572/zorgcampus-denderrust) · [KBO](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=nl&ondernemingsnummer=0419333572) · [NBB](https://consult.cbso.nbb.be/consult-enterprise/0419333572) · [site](https://www.denderrust.be/) · [contact](https://www.denderrust.be/contact/)  
-**tick:** 2139  
+**tick:** 2140  
 **confidence:** Medium (CW NL+EN+FR YE2025; assets/debt Unknown; KBO Strong; aanbestedende overheid)
 
 ## Context
