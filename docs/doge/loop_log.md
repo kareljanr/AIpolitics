@@ -26339,3 +26339,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.8); entities (+1 vzw_voluit_evergem); foi + draft gap_voluit_nbb_pdf_assets_debt_bruto_gt_omzet_7_4x_pnl_drop_41pct_fte_jump_vaph_matrix_l5; rq_2303=done + rq_2304 open; loop_state ticks=2303; raw docs/doge/data/raw/tick2303/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2300**; next **2310**). Next: rq_2304 (AGB/FARO-if-YE2025 / AIESH / unused ETA-VAPH-WZC-maatwerk).
+
+### 2026-08-27T19:15:00Z - tick 2304 - rq_2304 Kompas VAPH Gent (bruto JUMP 22.53m / ~7.21x omzet / pnl JUMP +70% / FTE JUMP 253.9 / Medium)
+
+- Unit: **rq_2304** leftover dual after **Levensvreugde@2303**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH still **YE2024**. Took unused FREE Flemish VAPH **Kompas VZW** YE2025 (KBO **0443.255.356**; Botestraat 131-133 Gent; **12 VE**; RSZ **87.202**; caroline.schelstraete@vzwkompas.be). DISTINCT GGZ zw_kompas@1647.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3126386** DROP -1.78%; bruto **EUR22531340** JUMP +8.97% (~7.21x); pnl **EUR1840636** JUMP +70.1%; equity **EUR7253636** JUMP +32.15%; FTE **253.9** JUMP (vs 245.1); neerlegging **01.07.2026**. Strong KBO Actief 12 VE. Assets/debt Unknown. Medium.
+- Wrote: sources/budgets/commitments/leaderboard/entities/foi; rq_2304=done + rq_2305 open; loop_state ticks=2304.
+- FOI: **ready not sent**. NOT every-10 (next **2310**). Next: rq_2305.

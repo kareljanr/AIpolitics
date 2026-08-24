@@ -53869,3 +53869,9 @@ bud_voluit_pnl_jr2025_statutory,vzw_voluit_evergem,2025,320032,,,statutory_accou
 bud_voluit_equity_jr2025_statutory,vzw_voluit_evergem,2025,7512588,,,statutory_accounts,src_voluit_jr2025_cw_en,medium,tick2303; Medium CW; equity JUMP +3.1% vs YE2024 7286565
 bud_voluit_fte_jr2025_statutory,vzw_voluit_evergem,2025,206.2,,,statutory_accounts,src_voluit_jr2025_cw_en,medium,tick2303; Medium CW; FTE JUMP 206.2 vs YE2024 198.7; assets/debt Unknown
 bud_voluit_pnl_jr2024_statutory_cmp,vzw_voluit_evergem,2024,546023,,,statutory_accounts,src_voluit_jr2025_cw_en,medium,tick2303; YE2024 pnl 546023 comparative
+bud_kompas_vaph_omzet_jr2025_statutory,vzw_kompas_vaph_gent,2025,3126386,,,statutory_accounts,src_kompas_vaph_jr2025_cw_en,medium,tick2304; omzet DROP -1.78% vs 3183144
+bud_kompas_vaph_bruto_jr2025_statutory,vzw_kompas_vaph_gent,2025,22531340,,,statutory_accounts,src_kompas_vaph_jr2025_cw_en,medium,tick2304; bruto JUMP +8.97% ~7.21x
+bud_kompas_vaph_pnl_jr2025_statutory,vzw_kompas_vaph_gent,2025,1840636,,,statutory_accounts,src_kompas_vaph_jr2025_cw_en,medium,tick2304; pnl JUMP +70.1%
+bud_kompas_vaph_equity_jr2025_statutory,vzw_kompas_vaph_gent,2025,7253636,,,statutory_accounts,src_kompas_vaph_jr2025_cw_en,medium,tick2304; equity JUMP +32.15%
+bud_kompas_vaph_fte_jr2025_statutory,vzw_kompas_vaph_gent,2025,253.9,,,statutory_accounts,src_kompas_vaph_jr2025_cw_en,medium,tick2304; FTE JUMP 253.9 vs 245.1
+bud_kompas_vaph_pnl_jr2024_statutory_cmp,vzw_kompas_vaph_gent,2024,1082122,,,statutory_accounts,src_kompas_vaph_jr2025_cw_en,medium,tick2304; YE2024 pnl cmp
