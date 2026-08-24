@@ -1,25 +1,15 @@
 {
   "tick": "2300",
   "unit": "rq_2300",
-  "entity": "vzw_de_kiem_gavere",
-  "kbo": "0445.151.311",
-  "every_10": true,
-  "omzet": 5126323,
-  "bruto": 6820218,
-  "pnl": 173737,
-  "equity": 2545514,
-  "fte": 66.9,
-  "ratio_bruto_omzet": 1.33,
+  "entity": "vzw_mpi_oosterlo_geel",
+  "kbo": "0414.326.293",
+  "omzet": 2763794,
+  "bruto": 29463527,
+  "pnl": 172880,
+  "equity": 20252849,
+  "fte": 371.6,
+  "ratio": 10.66,
   "confidence": "medium",
-  "gap": "gap_kiem_nbb_pdf_assets_debt_bruto_gt_omzet_1_33x_pnl_drop_fte_jump_matrix_l5",
-  "pi": 5.35,
-  "inventory": {
-    "budgets": 53837,
-    "commitments": 6022,
-    "leaderboard": 8142,
-    "entities": 2046,
-    "sources": 6653,
-    "foi_total": 2023
-  },
-  "foi_ready": 1971
+  "gap": "gap_mpi_oosterlo_nbb_pdf_assets_debt_bruto_gt_omzet_10_7x_pnl_drop_72pct_equity_jump_vaph_matrix_l5",
+  "pi": 6.45
 }

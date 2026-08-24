@@ -26301,3 +26301,11 @@ Append-only. Each tick adds a short entry.
 - **C:** ~99% L2 entity totals (order-of-magnitude); stalls AGB Bornem/FARO/AIESH YE2024
 - **D:** ~74-88% generous L5 named; residual dual NOT near-complete of 348bn
 - **E:** ~1971 FOI-ready; answered ~11; partial ~28
+
+### 2026-08-24T12:40:40Z - tick 2300 - rq_2300 EVERY-10 + MPI Oosterlo Geel (bruto 29.46m / omzet 2.76m ~10.66x / pnl DROP -72% / Medium)
+
+- Unit: **rq_2300** EVERY-10 + leftover dual after **JOMI@2299**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Gandae still **YE2024**. Took unused FREE Flemish VAPH MPI **MPI Oosterlo VZW** YE2025 (KBO **0414.326.293**; Eindhoutseweg 25 Geel; **Actief** **1 VE**; NACE **87.201**; Aanbestedende overheid; VAPH-recognised). Do not redo JOMI/De Stobbe/SOBO/Ryhove/Rozemarijn/Mo-Clean/Den Azalee/NLZ/De Okkernoot/Labor/Intro/Buseloc/Ateljee/Borgerstein/Waak/InterWest stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2763794** JUMP +1.62% vs YE2024 EUR2719687; bruto **EUR29463527** JUMP +6.69% (~**10.66x**); pnl **EUR172880** DROP -72.17% vs YE2024 EUR621237; equity **EUR20252849** JUMP +21.91%; FTE **371.6** (vs 362.5); neerlegging **02.07.2026**. Strong KBO Actief 1 VE VZW. Assets/debt Unknown. Medium. FOI via info@mpi-oosterlo.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.45); entities (+1 vzw_mpi_oosterlo_geel); foi + draft gap_mpi_oosterlo_nbb_pdf_assets_debt_bruto_gt_omzet_10_7x_pnl_drop_72pct_equity_jump_vaph_matrix_l5; rq_2300=done + rq_2301 open; loop_state ticks=2300; raw docs/doge/data/raw/tick2300/; **EVERY-10** refreshed `progress_every_10_ticks.md` + `doge_waste_top10_current.md`.
+- FOI: **ready not sent** (human-gated).
+- **EVERY-10 @ 2300** (last was 2290; next **2310**). Next: rq_2301 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
