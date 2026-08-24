@@ -24716,3 +24716,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.5); entities (+1 vzw_maatwerk_de_springplank); foi + draft gap_springplank_nbb_pdf_assets_debt_pnl_loss_flip_equity_drop_matrix_l5; rq_2176=done + rq_2177 open; loop_state ticks=2176; raw docs/doge/data/raw/tick2176/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2177 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2176 - 2026-08-26T04:40:00Z - rq_2176 Farys Solar (omzet JUMP 1.12m / pnl JUMP +134% / NACE non-renewable / Medium)
+
+- Unit: **rq_2176** leftover dual after **rq_2175 Senes**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Farys Solar BV** YE2025 (KBO **0886.870.604**; Stropstraat 1 Gent; **BV** NACE **35.110** non-renewable / **1 VE**; handelsnaam Vanbo Solar Invest; **aanbestedende overheid**; same zetel Farys OV). Do not redo Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever/Abdij/Aaigem/Anima*/emeis/Farys OV.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1117192** JUMP +18.79% vs YE2024 EUR940475; bruto **EUR837933** JUMP +28.47%; pnl **EUR263038** JUMP +134.38% vs YE2024 EUR112229; equity **EUR4828566** JUMP +5.76%; FTE **1**; neerlegging **18.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief BV + aanbestedende. FOI via info@farys.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.1); entities (+1 bv_farys_solar); foi + draft gap_farys_solar_nbb_pdf_assets_debt_nace_nonrenewable_solar_name_matrix_l5; rq_2176=done + rq_2177 open; loop_state ticks=2176; raw docs/doge/data/raw/tick2176/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2177 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
