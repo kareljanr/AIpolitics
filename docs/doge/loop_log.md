@@ -26584,3 +26584,10 @@ Append-only. Each tick adds a short entry.
 - **Writes:** entities/sources/budgets/commitments/leaderboard + FOI `gap_zonnebeke_sint_jozef_nbb_pdf_assets_debt_omzet_7_25m_pnl_jump_wzc_matrix_l5` ready NOT sent.
 - **Stalls:** AGB Bornem JR2024; FARO/AIESH/Citeco YE2024.
 - **Next:** rq_2327 open; next EVERY-10 **2330**.
+
+### 2026-08-24T16:30:00Z - tick 2327 - rq_2327 Pleegzorg West-Vlaanderen (empty omzet / bruto JUMP 18.22m / pnl DROP -21.35% / FTE JUMP 200.8 / Medium)
+
+- Unit: **rq_2327** leftover dual after Zonnebeke@2326 / race-orphan close. Prefer NON-stall AGB/FARO/AIESH **YE2024**. Registered FREE Flemish provincial **Pleegzorg West-Vlaanderen VZW** YE2025 already sourced in CSVs (KBO **0535.592.230**; Moorseelsesteenweg 133, 8800 Roeselare; **Actief** **7 VE**; RSZ **88.992**; info@pleegzorgwvl.be) + closed missing FOI draft.
+- Found (CW NL+EN+FR YE2025): omzet **empty**; bruto **EUR18219803** JUMP +9.94%; pnl **EUR1449154** DROP -21.35%; equity **EUR12076517** JUMP +13.32%; FTE **200.8** JUMP; neerlegging **09.06.2026**. Strong KBO. Assets/debt Unknown. Medium.
+- Wrote: FOI draft gap_pleegzorg_wvl_nbb_pdf_assets_debt_empty_omzet_bruto_18_22m_pnl_drop_fte_jump_jeugdhulp_matrix_l5; rq_2327=done + rq_2328 open; loop_state ticks=2327; raw tick2327/ (CSVs sources/budgets/commitments/leaderboard/entities/foi_queue already present from prior orphan write).
+- FOI: **ready not sent**. NOT every-10 (next **2330**). Next: rq_2328.

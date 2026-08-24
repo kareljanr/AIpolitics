@@ -1,0 +1,15 @@
+{
+  "tick": "2327",
+  "unit": "rq_2327",
+  "entity": "vzw_pleegzorg_west_vlaanderen",
+  "kbo": "0535.592.230",
+  "omzet": null,
+  "bruto": 18219803,
+  "pnl": 1449154,
+  "equity": 12076517,
+  "fte": 200.8,
+  "confidence": "medium",
+  "gap": "gap_pleegzorg_wvl_nbb_pdf_assets_debt_empty_omzet_bruto_18_22m_pnl_drop_fte_jump_jeugdhulp_matrix_l5",
+  "pi": 6.99,
+  "note": "orphan CSV close + FOI draft"
+}
