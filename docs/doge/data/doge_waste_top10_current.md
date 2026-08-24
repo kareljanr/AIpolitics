@@ -1,12 +1,11 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2300** (2026-08-24) · **8143+** leaderboard rows  
+**As-of:** tick **2310** (2026-08-24) · **8159+** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt AGB / scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
 
-**This is a prioritisation for cuts/review**, not a claim that these euros are illegal.  
-Large structural TE/FFS score high on **cost** even when “absurdity” is moderate.
+**This is a prioritisation for cuts/review**, not a claim that these euros are illegal.
 
 ---
 
@@ -25,19 +24,15 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 | 9 | `lb_bcr_annexe2_reporte_wave` | BCR Annexe2 reporté wave systemic 2026 | **300.60 m** | 9.0 | 9.0 | 3 | **8.4** | Strong CoA wave: OAA consol reporté |
 | 10 | `lb_dual_cars_ssc_taxex` | Dual company car CO2 SSC under-collection vs taxex | **278.52 m** | 8.5 | 9.5 | 6 | **8.4** | Strong dual: SSC CO2 278m + cum gap |
 
-**GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
-**Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **university/city balance sheets** · **AGB/zorg dual + IGS/HVZ/CAW/CGG/woonmaatschappij/thuiszorg shells** · **NEW residual 2291-2300:** **MPI Oosterlo bruto 29.46m / omzet 2.76m ~10.66x / pnl DROP -72% / FTE 371.6** (EVERY-10@2300 primary) · JOMI · De Okkernoot · SOBO · Ryhove · Rozemarijn · Mo-Clean · NLZ · Labor · Intro Schoonmaak · prior 2281-2290 REW/Op Maat/Buseloc stack retained · Walloon HVZ opacity stack · prior nuclear/Fluxys/Elia/Enodia · **LUWA PPP €590m** · private gambling **€31.5bn** market.
+**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2301-2310:** **Domino omzet 21.26m / pnl DROP -49%** (EVERY-10@2310) · Zewopa NEG equity · Katrinahof · Alvinnenberg · BC Sint-Elisabeth · Huis in de Stad · Voluit · TMMA/TM Kempen · Havinet · Willekom.
 
-**Change vs tick 2290:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10; Metro3/OWV snowball filtered as stock). Re-verified from leaderboard (corrupt AGB/scoring pi>10 / Metro3 stock / OWV snowball stock filtered off; seed/open TE-FFS rows retained for pure annual ranking). **Major NEW residual 2291-2300 (off pure top10 / dual):** Intro Schoonmaak · Labor · NLZ · Mo-Clean · Rozemarijn · Ryhove · SOBO · De Okkernoot · JOMI · **MPI Oosterlo bruto 29.46m / omzet 2.76m ~10.66x / pnl DROP -72% / FTE 371.6** (EVERY-10@2300 primary). Count NEW since 2290: ~10 residual dual fills. **Prior 2281-2290 stacks retained.** Not TE-additive of ~348bn.
+**Change vs tick 2300:** pure annual top10 **stable**. **Major NEW residual 2301-2310:** Domino EVERY-10 primary + Zewopa NEG equity + Katrinahof/Alvinnenberg/BC Sint-Elisabeth/Huis in de Stad/Voluit/Havinet/TMMA stack. Not TE-additive of ~348bn.
 
 ### High-absurdity residual (not pure top10)
 
-- **MPI Oosterlo** EVERY-10 primary bruto **EUR29.46m** / omzet **EUR2.76m** ~**10.66x** / pnl DROP **-72%** / equity JUMP **+22%** / FTE **371.6** — Geel VAPH MPI opacity.
-- **De Okkernoot** bruto **EUR13.44m** / ~**5.4x** omzet / pnl JUMP / FTE **143.3**.
-- **Ryhove** bruto **EUR17.67m** / ~**2.2x** omzet / FTE **406.5**.
-- **Rozemarijn** bruto **EUR5.96m** / ~**7.0x** omzet / pnl JUMP **+255%**.
-- **SOBO@werk** bruto **EUR4.53m** / ~**1.85x** / pnl DROP **-54%**.
-- **JOMI** bruto **EUR1.98m** / empty omzet / pnl DROP **-33%**.
-- **Op Maat** prior EVERY-10 bruto **EUR2.35m** / empty omzet / pnl JUMP (retained).
-- **REW** prior omzet **EUR14.72m** / bruto~**0.6x** / PROFIT FLIP (retained).
+- **Domino** EVERY-10 primary omzet **EUR21.26m** / pnl DROP **-49%** / FTE **230.4** — Gent WZC opacity.
+- **Zewopa** NEG equity **−EUR1.21m** / pnl FLIP / omzet **1.49m**.
+- **Katrinahof** bruto **EUR11.18m** / ~**10.5x** omzet / pnl DROP **-93%**.
+- **BC Sint-Elisabeth** bruto **EUR26.44m** / ~**11.8x** omzet / pnl DROP **-70%**.
+- **Alvinnenberg** bruto **EUR9.38m** / ~**8.4x** / pnl DROP **-97%**.
+- **Huis in de Stad** bruto **EUR10.65m** / ~**7.8x** / pnl JUMP **+85%**.

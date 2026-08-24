@@ -53927,3 +53927,8 @@ bud_mhka_pnl_jr2025_statutory,vzw_mhka_antwerpen,2025,-579191,-579191,-579191,CW
 bud_mhka_equity_jr2025_statutory,vzw_mhka_antwerpen,2025,1082169,1082169,1082169,CW equity DROP,src_mhka_jr2025_cw_en,medium,tick2312; DROP -38.76% vs 1767184
 bud_mhka_fte_jr2025_statutory,vzw_mhka_antwerpen,2025,86.0,86.0,86.0,CW FTE 86.0,src_mhka_jr2025_cw_en,medium,tick2312; JUMP vs 71.1
 bud_mhka_pnl_jr2024_statutory_cmp,vzw_mhka_antwerpen,2024,767102,767102,767102,CW pnl YE2024 cmp,src_mhka_jr2025_cw_en,medium,tick2312; PROFIT 767102
+bud_domino_omzet_jr2025_statutory,vzw_domino_gent,2025,21255348,21255348,21255348,CW statutory omzet YE2025 primary envelope (WZC),src_domino_jr2025_cw_en,medium,tick2310; omzet 21255348 JUMP +2.27% vs 20783221
+bud_domino_bruto_jr2025_statutory,vzw_domino_gent,2025,16636876,16636876,16636876,CW statutory bruto YE2025 (~0.78x omzet),src_domino_jr2025_cw_en,medium,tick2310; bruto 16636876 JUMP +3.03% vs 16147984
+bud_domino_pnl_jr2025_statutory,vzw_domino_gent,2025,484409,484409,484409,CW statutory pnl YE2025 DROP,src_domino_jr2025_cw_en,medium,tick2310; pnl 484409 DROP -48.93% vs YE2024 948500
+bud_domino_equity_jr2025_statutory,vzw_domino_gent,2025,11317845,11317845,11317845,CW statutory equity YE2025,src_domino_jr2025_cw_en,medium,tick2310; equity 11317845 JUMP +0.07% vs 11310247
+bud_domino_fte_jr2025_statutory,vzw_domino_gent,2025,230.4,230.4,230.4,CW FTE YE2025,src_domino_jr2025_cw_en,medium,tick2310; FTE 230.4 vs 229.7

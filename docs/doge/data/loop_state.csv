@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-27T21:15:00Z,rq_2312,2312,no,tick2312 M HKA 0431.750.859 Medium (omzet JUMP 781477; bruto DROP 5625375 ~7.2x; pnl LOSS FLIP -579191; equity DROP 1082169; FTE JUMP 86.0); after Willekom@2311; AGB/FARO/AIESH YE2024; next rq_2313; next EVERY-10 2320; continuous hole_fill
+main,continuous,hole_fill,2026-08-24T13:02:06Z,rq_2310,2312,no,tick2310 EVERY-10 + leftover dual Domino 0407.693.770 Medium (omzet JUMP 21255348; bruto JUMP 16636876; pnl DROP 484409 -48.93%; equity JUMP 11317845; FTE JUMP 230.4; 6 VE Gent WZC); after Zewopa@2309; AGB/FARO YE2024; next rq_2312; next EVERY-10 2320; continuous hole_fill

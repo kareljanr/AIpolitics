@@ -26435,3 +26435,12 @@ Append-only. Each tick adds a short entry.
 - **C:** ~99% L2 entity totals; stalls AGB Bornem/FARO/AIESH YE2024
 - **D:** ~74-88% generous L5 named; residual dual NOT near-complete of 348bn
 - **E:** ~1986 FOI-ready; answered ~11; partial ~28
+
+### 2026-08-24T13:02:06Z - tick 2310 - rq_2310 EVERY-10 + Domino Gent (omzet JUMP 21.26m / pnl DROP -49% / Medium)
+
+- **EVERY-10:** refreshed `progress_every_10_ticks.md` + `doge_waste_top10_current.md`. Inventory budgets 53927+ / commitments 6039+ / leaderboard 8159+ / entities 2062+ / sources 6741+ / FOI ready ~1988.
+- Unit: **rq_2310** finish **in_progress** EVERY-10 claim (Domino Gent). Prefer NON-stall: AGB Bornem still **JR2024**; FARO still **YE2024**. Took claimed FREE Flemish WZC **Domino VZW** YE2025 (KBO **0407.693.770**; Tichelrei 3 Gent; **Actief** **6 VE**; NACE **87.301**). Do not redo Zewopa/Willekom/Huis in de Stad/Katrinahof stack.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR21255348** JUMP +2.27%; bruto **EUR16636876** JUMP +3.03%; pnl **EUR484409** DROP -48.93%; equity **EUR11317845**; FTE **230.4**; neerlegging **24.06.2026**. Strong KBO Actief 6 VE. Assets/debt Unknown. Medium. FOI via info@dominovzw.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.9); entities (+1 vzw_domino_gent); foi + draft gap_domino_nbb_pdf_assets_debt_omzet_21_26m_pnl_drop_49pct_wzc_matrix_l5; rq_2310=done; loop_state; raw docs/doge/data/raw/tick2310/; EVERY-10 progress+waste.
+- FOI: **ready not sent** (human-gated).
+- **EVERY-10 @ 2310** (last was 2300; next **2320**). Next: rq_2312.
