@@ -1,0 +1,46 @@
+{
+  "entity": "C.A.R.P. / Centre d Adaptation et de Reclassement professionnel",
+  "kbo": "0407.844.715",
+  "tick": 2276,
+  "ye": 2025,
+  "sourced": {
+    "omzet": 3210854,
+    "omzet_yoy_pct": 7.47,
+    "bruto": 5240486,
+    "bruto_yoy_pct": 6.96,
+    "bruto_over_omzet": 1.632,
+    "pnl": 444368,
+    "pnl_yoy_pct": -1.99,
+    "equity": 2790156,
+    "equity_yoy_pct": 18.7,
+    "fte": 122.9,
+    "fte_prior": 122.6,
+    "filed": "2026-07-16",
+    "ve": 2,
+    "nace_rsz": "88.993",
+    "confidence": "medium",
+    "sources": [
+      "cw_nl",
+      "cw_en",
+      "cw_fr",
+      "kbo"
+    ]
+  },
+  "stalls": [
+    "AGB Bornem JR2024",
+    "FARO YE2024",
+    "AIESH YE2024",
+    "Citeco YE2024",
+    "Groupe Foes YE2024"
+  ],
+  "do_not_redo": [
+    "APAC",
+    "Adapta",
+    "Atelier85",
+    "La Gaume",
+    "De Enter",
+    "Fournipac",
+    "Le Rucher",
+    "Metalgroup"
+  ]
+}

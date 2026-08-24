@@ -25943,3 +25943,13 @@ Append-only. Each tick adds a short entry.
 - Concurrent fire claimed **rq_2275 A.P.A.C.** as primary (pushed a062097a). Parallel Adapta YE2025 fill (bruto **EUR1940340** empty omzet / pnl LOSS FLIP **-42542** / FTE **63.8** / Medium) already landed in same-commit-window CSVs.
 - This reconcile: FOI draft gap_adapta_nbb_pdf_assets_debt_empty_omzet_pnl_loss_flip_eta_matrix_l5 ready NOT sent; **rq_2276** retargeted after A.P.A.C. primary (+ Adapta race). Do not redo A.P.A.C./Adapta.
 - Next: rq_2276 (AGB/FARO-if-YE2025 / AIESH-REW / unused ETA Criquelion-if-YE2025). Next EVERY-10 **2280**.
+
+
+
+### 2026-08-27T11:10:00Z - tick 2276 - rq_2276 Atelier Saint-Vincent Rochefort (bruto JUMP 2.89m / empty omzet / pnl LOSS NARROW / FTE 75.2 / Medium)
+
+- Unit: **rq_2276** leftover dual after **rq_2275 A.P.A.C./Adapta**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Relais Haute Sambre/APN still **YE2024**; Heropbeuring CW opaque. Took FREE Walloon ETA **Atelier Saint-Vincent ASBL** YE2025 (KBO **0414.231.471**; Rue du Tige 44 Rochefort; **Actief** **1 VE**; NACE **88.993**/**96.101** AViQ industrial laundry/workwear). Do not redo APAC/Adapta/Atelier85/La Gaume/Fournipac/Amis/Hautes stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR2891462** JUMP +9.69% vs YE2024 EUR2635998; pnl **EUR-30831** LOSS NARROW +73.07% vs YE2024 EUR-114469; equity **EUR2395817** DROP -1.65%; FTE **75.2** (+8.05% vs 69.6); neerlegging **11.05.2026**. Strong KBO Actief 1 VE ASBL. Assets/debt Unknown. Medium. FOI postal +32 84 21 17 77 (no published email).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.90); entities (+1 vzw_atelier_saint_vincent_rochefort); foi + draft gap_asv_nbb_pdf_assets_debt_empty_omzet_bruto_2_89m_pnl_loss_narrow_eta_matrix_l5; rq_2276=done + rq_2277 open; loop_state ticks=2276; raw docs/doge/data/raw/tick2276/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2277 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Foes-if-YE2025 / unused ETA).
