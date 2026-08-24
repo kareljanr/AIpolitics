@@ -26591,3 +26591,17 @@ Append-only. Each tick adds a short entry.
 - Found (CW NL+EN+FR YE2025): omzet **empty**; bruto **EUR18219803** JUMP +9.94%; pnl **EUR1449154** DROP -21.35%; equity **EUR12076517** JUMP +13.32%; FTE **200.8** JUMP; neerlegging **09.06.2026**. Strong KBO. Assets/debt Unknown. Medium.
 - Wrote: FOI draft gap_pleegzorg_wvl_nbb_pdf_assets_debt_empty_omzet_bruto_18_22m_pnl_drop_fte_jump_jeugdhulp_matrix_l5; rq_2327=done + rq_2328 open; loop_state ticks=2327; raw tick2327/ (CSVs sources/budgets/commitments/leaderboard/entities/foi_queue already present from prior orphan write).
 - FOI: **ready not sent**. NOT every-10 (next **2330**). Next: rq_2328.
+
+### 2026-08-28T00:30:00Z - tick 2328 - rq_2328 Het Eepos Laakdal (opbrengsten 6.97m / subsidies 5.81m / pnl 0.47m / Strong)
+
+- Unit: **rq_2328** leftover dual. Stalls AGB/FARO YE2024. Took FREE VAPH welzijnsvereniging **Het Eepos** YE2025 BBC (KBO **0886.198.829**).
+- Found: official BBC JR2025 — opbrengsten **EUR6967405**; subsidies **EUR5812130** (~83%); overschot **EUR471677**; assets **EUR4890405**; debt LT **EUR895167**; equity **EUR3060522**. Strong.
+- Wrote: CSVs + FOI; rq_2328=done + rq_2329 open; ticks=2328.
+- FOI ready not sent. NOT every-10 (next **2330**). Next: rq_2329.
+
+### 2026-08-28T00:35:00Z - tick 2327 - rq_2327 Mivalti Tielt (omzet JUMP 1.68m / bruto~6.82x / pnl JUMP / FTE 134.9 / Medium)
+
+- Unit: **rq_2327** leftover dual after **rq_2326 WZC Sint-Jozef Zonnebeke**. Prefer NON-stall: AGB Bornem JR2024; FARO/AIESH/Aralea YE2024; Het Eepos CW N/A. Took FREE Flemish VAPH **Mivalti VZW** YE2025 (KBO **0416.406.548**; Gruuthusestraat 36 Tielt; **Actief** **2 VE**; RSZ **87.202**).
+- Found: CW NL+EN+FR YE2025 — omzet **EUR1683253** JUMP +4.55%; bruto **EUR11487628** JUMP +8% (~**6.82x**); pnl **EUR470626** JUMP +26.88%; equity **EUR8134829** JUMP +6.19%; FTE **134.9**; neerlegging **16.06.2026**. Strong KBO. Assets/debt Unknown. Medium. FOI via info@mivalti.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.95); entities (+1 vzw_mivalti_tielt); foi + draft gap_mivalti_*; rq_2327=done + rq_2328 open; loop_state ticks=2327.
+- FOI: **ready not sent**. NOT every-10 (next **2330**). Next: rq_2328.

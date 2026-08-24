@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T16:30:00Z,rq_2327,2327,no,tick2327 leftover dual Pleegzorg WVL 0535.592.230 Medium (omzet empty; bruto JUMP 18219803; pnl DROP 1449154; equity JUMP 12076517; FTE JUMP 200.8; 7 VE RSZ 88.992); FOI draft closed; AGB/FARO/AIESH YE2024; next rq_2328; next EVERY-10 2330
+main,continuous,hole_fill,2026-08-28T00:30:00Z,rq_2328,2328,no,tick2328 leftover dual Het Eepos 0886.198.829 Strong BBC (opbrengsten 6967405; subsidies 5812130; pnl 471677; equity 3060522; assets 4890405; debt LT 895167; Laakdal VAPH); AGB/FARO YE2024; next rq_2329; next EVERY-10 2330

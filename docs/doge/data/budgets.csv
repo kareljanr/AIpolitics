@@ -54026,3 +54026,9 @@ bud_zonnebeke_sj_pnl_jr2025_statutory,vzw_zorgcentrum_sint_jozef_zonnebeke,2025,
 bud_zonnebeke_sj_equity_jr2025_statutory,vzw_zorgcentrum_sint_jozef_zonnebeke,2025,4943062,4943062,4943062,CW equity YE2025,src_zonnebeke_sint_jozef_jr2025_cw_en,medium,tick2326; +5.72% vs 4675412
 bud_zonnebeke_sj_fte_jr2025_statutory,vzw_zorgcentrum_sint_jozef_zonnebeke,2025,101.0,101.0,101.0,CW FTE 101.0,src_zonnebeke_sint_jozef_jr2025_cw_en,medium,tick2326; vs 98.2
 bud_zonnebeke_sj_pnl_jr2024_statutory_cmp,vzw_zorgcentrum_sint_jozef_zonnebeke,2024,159351,159351,159351,CW pnl YE2024 cmp,src_zonnebeke_sint_jozef_jr2025_cw_en,medium,tick2326; cmp
+bud_eepos_opbrengsten_jr2025_bbc,vzw_het_eepos_laakdal,2025,6967405,6967405,6967405,BBC J5 opbrengsten YE2025,src_eepos_jr2025_bbc_pdf,strong,tick2328; Strong BBC
+bud_eepos_subsidies_jr2025_bbc,vzw_het_eepos_laakdal,2025,5812130,5812130,5812130,BBC J5 werkingssubsidies YE2025,src_eepos_jr2025_bbc_pdf,strong,tick2328; Strong; ~83% of revenue
+bud_eepos_pnl_jr2025_bbc,vzw_het_eepos_laakdal,2025,471677,471677,471677,BBC J5 overschot YE2025,src_eepos_jr2025_bbc_pdf,strong,tick2328; Strong; exploit saldo J2 530919
+bud_eepos_equity_jr2025_bbc,vzw_het_eepos_laakdal,2025,3060522,3060522,3060522,BBC J4 nettoactief YE2025,src_eepos_jr2025_bbc_pdf,strong,tick2328; Strong
+bud_eepos_assets_jr2025_bbc,vzw_het_eepos_laakdal,2025,4890405,4890405,4890405,BBC J4 activa YE2025,src_eepos_jr2025_bbc_pdf,strong,tick2328; Strong; cash 2749412; debt LT 895167
+bud_eepos_personnel_jr2025_bbc,vzw_het_eepos_laakdal,2025,5310275,5310275,5310275,BBC J5 bezoldigingen YE2025,src_eepos_jr2025_bbc_pdf,strong,tick2328; Strong
