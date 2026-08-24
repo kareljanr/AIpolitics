@@ -24444,3 +24444,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.8); entities (+1 vzw_wzc_sint_felix_pajottegem); foi + draft gap_sint_felix_nbb_pdf_assets_debt_pnl_equity_jump_matrix_l5; rq_2154=done + rq_2155 open; loop_state ticks=2154; raw docs/doge/data/raw/tick2154/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2150**; next **2160**). Next: rq_2155 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros; prefer sourced € over opaque ZS).
+
+## Tick 2155 - 2026-08-25T21:40:00Z - rq_2155 WZC d'Eycken Brug Bierbeek (omzet JUMP 5.90m / pnl JUMP +643% / FTE DROP 63.2 / Medium)
+
+- Unit: **rq_2155** leftover dual after **rq_2154 WZC Sint-Felix Pajottegem**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Skipped deferred opaque ZS Hainaut-Est 0500.915.819 (FTE 200, same opacity class). Took unused leftover **Woonzorgcentrum d'Eycken Brug VZW** YE2025 (KBO **0861.157.387**; Bergenlaan 5 Bierbeek; **VZW** NACE **87.301** / **1 VE**; Solidum Groep + OCMW Bierbeek PPS). Do not redo Sint-Felix/Brabant wallon/Vesdre/Annuntiaten/Val de Sambre/HEMECO/WAPI/Hesbaye/Hainaut-Centre/Dinaphi/Zonnelied/Care-Ion/Groep SF/Sint-Augustinus Halle/Vander Stokken/Hof ter Waarbeek/Sint-Carolus Ternat/Van Lierde/OLV Lourdes.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR5899139** JUMP +1.85% vs YE2024 EUR5791906; bruto **EUR5348995** JUMP +4.71%; pnl **EUR653314** JUMP +643.2% vs YE2024 EUR87906; equity **EUR3504322** JUMP +14.16%; FTE **63.2** DROP vs 69.3; neerlegging **02.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW. FOI via algemeen@deyckenbrug.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.2); entities (+1 vzw_wzc_eycken_brug_bierbeek); foi + draft gap_eycken_brug_nbb_pdf_assets_debt_pnl_jump_643pct_fte_drop_matrix_l5; rq_2155=done + rq_2156 open; loop_state ticks=2155; raw docs/doge/data/raw/tick2155/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2150**; next **2160**). Next: rq_2156 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros; prefer sourced € over opaque ZS).
+
