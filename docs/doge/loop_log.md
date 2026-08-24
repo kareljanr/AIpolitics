@@ -25619,3 +25619,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.10); entities (+1 vzw_travco_anderlecht); foi + draft gap_travco_nbb_pdf_assets_debt_empty_omzet_pnl_profit_flip_eta_matrix_l5; rq_2247=done + rq_2248 open; loop_state ticks=2247; raw docs/doge/raw/tick2247/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2240**; next **2250**). Next: rq_2248 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
+
+
+## Tick 2248 - 2026-08-27T04:10:00Z - rq_2248 ATE Ensival Verviers (bruto 3.99m / bruto≫omzet ~2.47x / pnl JUMP +171% / FTE DROP / Medium)
+
+- Unit: **rq_2248** leftover dual after **rq_2247 TRAVCO**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Groupe FOES still **YE2024**. Took named FREE Walloon ETA **ATE-Les Ateliers d'Ensival ASBL** YE2025 (KBO **0407.637.451**; Rue des Weines 65 Verviers; **Actief** **1 VE**; NACE **88.993** AViQ). Do not redo TRAVCO/Pilifs/Jeunes Jardiniers/La Lumière/APAM/Jean Gielen/Le Perron/L'Atelier/Axedis/ETA123 stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1617935** JUMP +2.3% vs YE2024 EUR1581578; bruto **EUR3989520** DROP -0.84% (bruto≫omzet ~2.47x); pnl **EUR351372** JUMP +171.33% vs YE2024 EUR129498; equity **EUR3905723** JUMP +9.7%; FTE **83.0** DROP vs 90.0; neerlegging **17.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@ate-ensival.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.20); entities (+1 vzw_ate_ensival_verviers); foi + draft gap_ate_ensival_nbb_pdf_assets_debt_bruto_gt_omzet_2_47x_pnl_jump_171pct_fte_drop_eta_matrix_l5; rq_2248=done + rq_2249 open; loop_state ticks=2248; raw docs/doge/raw/tick2248/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2240**; next **2250**). Next: rq_2249 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
