@@ -53954,3 +53954,9 @@ bud_otb_pnl_jr2025_statutory,vzw_ons_tehuis_brabant,2025,1089571,,,statutory_acc
 bud_otb_equity_jr2025_statutory,vzw_ons_tehuis_brabant,2025,13305684,,,statutory_accounts,src_otb_jr2025_cw_en,medium,tick2316; equity JUMP +7.85%
 bud_otb_fte_jr2025_statutory,vzw_ons_tehuis_brabant,2025,118.5,,,statutory_accounts,src_otb_jr2025_cw_en,medium,tick2316; FTE 118.5 vs 118.0
 bud_otb_pnl_jr2024_statutory_cmp,vzw_ons_tehuis_brabant,2024,580167,,,statutory_accounts,src_otb_jr2025_cw_en,medium,tick2316; YE2024 cmp
+bud_schoonderhage_omzet_jr2025_statutory,vzw_schoonderhage_ninove,2025,2274107,2274107,2274107,CW statutory omzet YE2025,src_schoonderhage_jr2025_cw_en,medium,tick2317; +1.26% vs 2245768
+bud_schoonderhage_bruto_jr2025_statutory,vzw_schoonderhage_ninove,2025,15102142,15102142,15102142,CW bruto YE2025 (~6.64x),src_schoonderhage_jr2025_cw_en,medium,tick2317; +1.62% vs 14860759
+bud_schoonderhage_pnl_jr2025_statutory,vzw_schoonderhage_ninove,2025,281166,281166,281166,CW pnl YE2025 JUMP,src_schoonderhage_jr2025_cw_en,medium,tick2317; +24.06% vs 226641
+bud_schoonderhage_equity_jr2025_statutory,vzw_schoonderhage_ninove,2025,8380398,8380398,8380398,CW equity YE2025,src_schoonderhage_jr2025_cw_en,medium,tick2317; +0.25% vs 8359600
+bud_schoonderhage_fte_jr2025_statutory,vzw_schoonderhage_ninove,2025,196.3,196.3,196.3,CW FTE 196.3,src_schoonderhage_jr2025_cw_en,medium,tick2317; vs 198.6
+bud_schoonderhage_bruto_jr2024_statutory_cmp,vzw_schoonderhage_ninove,2024,14860759,14860759,14860759,CW bruto YE2024 cmp,src_schoonderhage_jr2025_cw_en,medium,tick2317; cmp

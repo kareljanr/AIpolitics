@@ -26473,3 +26473,11 @@ Append-only. Each tick adds a short entry.
 - Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1820095** JUMP +18.01%; bruto **EUR10405932** JUMP +5.55% (~5.72x); pnl **EUR1089571** JUMP +87.8%; equity **EUR13305684** JUMP +7.85%; FTE **118.5** (vs 118.0); neerlegging **07.07.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium.
 - Wrote: sources (+6); budgets (+6); commitments (+1); leaderboard (+1 pi 5.85); entities (+1 vzw_ons_tehuis_brabant); foi + draft gap_otb_nbb_pdf_assets_debt_bruto_gt_omzet_5_72x_pnl_jump_88pct_vaph_matrix_l5; rq_2316=done + rq_2317 open; loop_state ticks=2316.
 - FOI: **ready not sent**. NOT every-10 (next **2320**). Next: rq_2317.
+
+## tick 2317 — 2026-08-27T22:05:00Z — rq_2317 Schoonderhage YE2025
+
+- **Unit:** leftover dual VAPH VZW Schoonderhage (KBO 0419.635.460) after Ons Tehuis-Brabant@2316.
+- **Primary €:** bruto **EUR15102142** (~**6.64x** omzet EUR2274107); Medium CW; PI **6.18**.
+- **Also:** pnl JUMP EUR281166 (+24.06%); equity EUR8380398; FTE 196.3; filed 02.07.2026; 14 VE RSZ 87.202.
+- **Writes:** entities/sources/budgets/commitments/leaderboard + FOI `gap_schoonderhage_nbb_pdf_assets_debt_bruto_gt_omzet_6_64x_vaph_matrix_l5` ready NOT sent.
+- **Next:** rq_2317 open; next EVERY-10 **2320**.
