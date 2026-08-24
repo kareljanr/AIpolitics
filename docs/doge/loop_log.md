@@ -25501,3 +25501,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.30); entities (+1 vzw_entranam_fernelmont); foi + draft gap_entranam_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_loss_deepen_eta_matrix_l5; rq_2237=done + rq_2238 open; loop_state ticks=2237; raw docs/doge/raw/tick2237/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2238 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
+
+
+## Tick 2238 - 2026-08-27T01:25:00Z - rq_2238 Metalgroup ETA Charleroi (bruto 6.62m / bruto≫omzet ~2.22x / pnl DROP -69% / Medium)
+
+- Unit: **rq_2238** leftover dual after **rq_2237 EntrAnam**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **NBB YE2024** (JV2025 already mapped — skip redo); AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**. Took FREE unused Walloon ETA **ASBL Metalgroup ETA** YE2025 (KBO **0407.623.001**; Rue du Débarcadère 61 Charleroi/Marcinelle; **Actief** **1 VE**; NACE **88.993**). Do not redo EntrAnam/Enghien/Entra/Ateliers Tertre/Le Rucher/Het Rekreatief stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2987007** JUMP +12.94% vs YE2024 EUR2644698; bruto **EUR6616725** JUMP +8.06% (bruto≫omzet ~2.22x); pnl **EUR62047** DROP -69.33% vs YE2024 EUR202314; equity **EUR5412773** JUMP +0.99%; FTE **172.4** JUMP vs 163.7; neerlegging **22.06.2026**. Strong KBO Actief 1 VE aanbestedende overheid. Assets/debt Unknown. Medium. FOI via info@metalgroup.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.20); entities (+1 vzw_metalgroup_eta_charleroi); foi + draft gap_metalgroup_nbb_pdf_assets_debt_bruto_gt_omzet_2_21x_pnl_drop_69pct_eta_matrix_l5; rq_2238=done + rq_2239 open; loop_state ticks=2238; raw docs/doge/raw/tick2238/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2239 (AGB/FARO-if-NBB-YE2025 / AIESH-REW / unused).
