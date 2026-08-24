@@ -1,0 +1,14 @@
+{
+  "tick": "2303",
+  "unit": "rq_2303",
+  "entity": "vzw_voluit_evergem",
+  "kbo": "0420.982.473",
+  "omzet": 2268150,
+  "bruto": 16778853,
+  "pnl": 320032,
+  "equity": 7512588,
+  "fte": 206.2,
+  "ratio_bruto_omzet": 7.4,
+  "confidence": "medium",
+  "gap": "gap_voluit_nbb_pdf_assets_debt_bruto_gt_omzet_7_4x_pnl_drop_41pct_fte_jump_vaph_matrix_l5"
+}

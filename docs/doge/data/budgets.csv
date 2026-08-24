@@ -53863,3 +53863,9 @@ bud_tmma_bruto_jr2025_statutory,vzw_thomas_more_mechelen_antwerpen,2025,85855378
 bud_tmma_pnl_jr2025_statutory,vzw_thomas_more_mechelen_antwerpen,2025,6481920,6481920,6481920,CW statutory pnl YE2025 JUMP,src_tmma_jr2025_cw_en,medium,tick2302; pnl 6481920 JUMP +16.21% vs YE2024 5577807
 bud_tmma_equity_jr2025_statutory,vzw_thomas_more_mechelen_antwerpen,2025,82591264,82591264,82591264,CW statutory equity YE2025 JUMP,src_tmma_jr2025_cw_en,medium,tick2302; equity 82591264 JUMP +7.31% vs 76965294
 bud_tmma_fte_jr2025_statutory,vzw_thomas_more_mechelen_antwerpen,2025,259.0,259.0,259.0,CW FTE YE2025 (may undercount vs campus headcount),src_tmma_jr2025_cw_en,medium,tick2302; FTE 259.0 vs 247.0; reconcile vs full academic/admin headcount FOI
+bud_voluit_omzet_jr2025_statutory,vzw_voluit_evergem,2025,2268150,,,statutory_accounts,src_voluit_jr2025_cw_en,medium,tick2303; Medium CW; omzet DROP -1.8% vs YE2024 2309634
+bud_voluit_bruto_jr2025_statutory,vzw_voluit_evergem,2025,16778853,,,statutory_accounts,src_voluit_jr2025_cw_en,medium,tick2303; Medium CW; bruto JUMP +6.66% vs YE2024 15730843; bruto/omzet ~7.4x
+bud_voluit_pnl_jr2025_statutory,vzw_voluit_evergem,2025,320032,,,statutory_accounts,src_voluit_jr2025_cw_en,medium,tick2303; Medium CW; pnl DROP -41.39% vs YE2024 546023
+bud_voluit_equity_jr2025_statutory,vzw_voluit_evergem,2025,7512588,,,statutory_accounts,src_voluit_jr2025_cw_en,medium,tick2303; Medium CW; equity JUMP +3.1% vs YE2024 7286565
+bud_voluit_fte_jr2025_statutory,vzw_voluit_evergem,2025,206.2,,,statutory_accounts,src_voluit_jr2025_cw_en,medium,tick2303; Medium CW; FTE JUMP 206.2 vs YE2024 198.7; assets/debt Unknown
+bud_voluit_pnl_jr2024_statutory_cmp,vzw_voluit_evergem,2024,546023,,,statutory_accounts,src_voluit_jr2025_cw_en,medium,tick2303; YE2024 pnl 546023 comparative

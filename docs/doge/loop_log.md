@@ -26331,3 +26331,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.9); entities (+1 vzw_thomas_more_mechelen_antwerpen); foi + draft gap_tmma_nbb_pdf_assets_debt_omzet_92_12m_pnl_jump_equity_82_59m_fte_opacity_he_matrix_l5; rq_2302=done + rq_2303 open; loop_state ticks=2302; raw docs/doge/data/raw/tick2302/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2300**; next **2310**). Next: rq_2303 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk / TM Kempen-if-unused).
+
+### 2026-08-27T18:45:00Z - tick 2303 - rq_2303 Voluit Evergem (bruto JUMP 16.78m / ~7.4x omzet / pnl DROP -41% / FTE JUMP 206.2 / Medium)
+
+- Unit: **rq_2303** leftover dual after **MLP@2302**. Prefer NON-stall: AGB Bornem still **JR2024**; FARO/AIESH/Citeco/Groupe Foes/Gandae still **YE2024**. Took FREE Flemish VAPH **Voluit VZW** YE2025 (KBO **0420.982.473**; Kramershoek 39, 9940 Evergem; **Actief** **7 VE**; RSZ **87.202**; aanbestedende overheid; info@voluit.be). Do not redo MLP/Havinet/De Kiem/MPI Oosterlo/JOMI/De Stobbe/De Okkernoot/SOBO/Lidwina/Zonnelied stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2268150** DROP -1.8% vs YE2024 EUR2309634; bruto **EUR16778853** JUMP +6.66% (~**7.4x**); pnl **EUR320032** DROP -41.39% vs YE2024 EUR546023; equity **EUR7512588** JUMP +3.1%; FTE **206.2** JUMP (vs 198.7); neerlegging **16.06.2026**. Strong KBO Actief 7 VE. Assets/debt Unknown. Medium. FOI via info@voluit.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.8); entities (+1 vzw_voluit_evergem); foi + draft gap_voluit_nbb_pdf_assets_debt_bruto_gt_omzet_7_4x_pnl_drop_41pct_fte_jump_vaph_matrix_l5; rq_2303=done + rq_2304 open; loop_state ticks=2303; raw docs/doge/data/raw/tick2303/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2300**; next **2310**). Next: rq_2304 (AGB/FARO-if-YE2025 / AIESH / unused ETA-VAPH-WZC-maatwerk).
