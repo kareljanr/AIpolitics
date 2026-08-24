@@ -53886,3 +53886,9 @@ bud_bc_elisabeth_omzet_jr2025_statutory,vzw_bc_sint_elisabeth_peer,2025,2239635,
 bud_bc_elisabeth_pnl_jr2025_statutory,vzw_bc_sint_elisabeth_peer,2025,1561422,1561422,1561422,CW statutory pnl YE2025 DROP,src_bc_elisabeth_jr2025_cw_en,medium,tick2304; pnl 1561422 DROP -70.19% vs YE2024 5238400
 bud_bc_elisabeth_equity_jr2025_statutory,vzw_bc_sint_elisabeth_peer,2025,22964375,22964375,22964375,CW statutory equity YE2025 JUMP,src_bc_elisabeth_jr2025_cw_en,medium,tick2304; equity 22964375 JUMP +6.17% vs 21629892
 bud_bc_elisabeth_fte_jr2025_statutory,vzw_bc_sint_elisabeth_peer,2025,303.6,303.6,303.6,CW FTE YE2025,src_bc_elisabeth_jr2025_cw_en,medium,tick2304; FTE 303.6 vs 297.8
+bud_tmk_omzet_jr2025_statutory,vzw_thomas_more_kempen_geel,2025,80079671,,,statutory_accounts,src_tmk_jr2025_cw_en,medium,tick2305; YE2025 omzet DROP 80079671 (-0.7% vs 80642448)
+bud_tmk_bruto_jr2025_statutory,vzw_thomas_more_kempen_geel,2025,75915417,,,statutory_accounts,src_tmk_jr2025_cw_en,medium,tick2305; YE2025 bruto JUMP 75915417 (+0.86%)
+bud_tmk_pnl_jr2025_statutory,vzw_thomas_more_kempen_geel,2025,5229721,,,statutory_accounts,src_tmk_jr2025_cw_en,medium,tick2305; YE2025 pnl DROP 5229721 (-18.61% vs 6425642)
+bud_tmk_equity_jr2025_statutory,vzw_thomas_more_kempen_geel,2025,82724640,,,statutory_accounts,src_tmk_jr2025_cw_en,medium,tick2305; YE2025 equity JUMP 82724640 (+7.16%)
+bud_tmk_omzet_jr2024_statutory_cmp,vzw_thomas_more_kempen_geel,2024,80642448,,,statutory_accounts,src_tmk_jr2025_cw_en,medium,tick2305; YE2024 omzet comparative
+bud_tmk_pnl_jr2024_statutory_cmp,vzw_thomas_more_kempen_geel,2024,6425642,,,statutory_accounts,src_tmk_jr2025_cw_en,medium,tick2305; YE2024 pnl comparative

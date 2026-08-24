@@ -26362,3 +26362,9 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.45); entities (+1 vzw_bc_sint_elisabeth_peer); foi + draft gap_bc_elisabeth_nbb_pdf_assets_debt_bruto_gt_omzet_11_8x_pnl_drop_70pct_equity_jump_vaph_matrix_l5; rq_2304=done + rq_2305 open; loop_state ticks=2304; raw docs/doge/data/raw/tick2304/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2300**; next **2310**). Next: rq_2305 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk / TM Kempen-if-unused).
+
+### 2026-08-27T19:30:00Z - tick 2305 - rq_2305 Thomas More Kempen (omzet DROP 80.08m / pnl DROP -18.6% / FTE JUMP 217.5 / Medium)
+- Unit: **rq_2305** leftover dual after **Kompas@2304**. Prefer NON-stall: AGB/FARO/AIESH/Citeco/Groupe Foes/Aralea/Manupal/De Ploeg/Vlotter/Gandae still **YE2024**. Took FREE YE2025 **Thomas More Kempen** (KBO **0409.667.028**) — sibling of TMMA@2302.
+- Found: CW NL+EN+FR YE2025 — omzet **EUR80079671** DROP −0.7%; bruto **EUR75915417**; pnl **EUR5229721** DROP −18.61%; equity **EUR82724640** JUMP +7.16%; FTE **217.5**; filed **31.03.2026**. KBO Strong **4 VE** Geel RSZ **85.402**. Assets/debt Unknown.
+- Wrote: sources (+6); budgets (+6); commitments (+1); leaderboard (+1 pi 5.4); entities (+1); foi + draft gap_tmk_nbb_pdf_assets_debt_vl_sub_omzet_80_08m_pnl_drop_18pct_fte_jump_he_matrix_l5 ready NOT sent.
+- NOT every-10 (last **2300**; next **2310**). Next: rq_2306.
