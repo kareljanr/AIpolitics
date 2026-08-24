@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T11:00:00Z,rq_2195,2195,no,tick2195 leftover BEWEL 0407.229.358 Medium (omzet JUMP 28.64m; bruto 66.78m ≫ omzet ~2.33x; pnl JUMP 2.88m +241%; equity JUMP 37.4m; FTE JUMP 2015.6; 9 VE Diepenbeek); AGB Bornem JR2024; FARO YE2024; AIESH/REW stall; next rq_2196; next every-10 2200; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T11:20:00Z,rq_2196,2196,no,tick2196 leftover BWZ 0407.657.148 Medium (omzet DROP 10.16m -7.2%; bruto DROP 9.04m; pnl DROP 121k -41%; equity JUMP 5.96m; FTE 250.6; 1 VE Zottegem); AGB Bornem JR2024; FARO YE2024; AIESH 404/REW YE2024 stall; next rq_2197; next every-10 2200; continuous hole_fill
