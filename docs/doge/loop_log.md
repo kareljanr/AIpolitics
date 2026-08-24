@@ -24136,7 +24136,7 @@ Append-only. Each tick adds a short entry.
 
 
 
-## Tick 2121 - 2026-08-25T10:40:00Z - rq_2121 Unite Jolimont (bruto DROP 26.3k / pnl FLIP 11.1k / FTE Micro 0 / Medium)
+## Tick 2121 RACE-NOTE - Unité Jolimont draft collided with concurrent 't Buurthuis; recovered as tick 2122
 
 - Unit: **rq_2121** leftover dual after **rq_2120 Le Bosquet**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Unite Jolimont** YE2025 (KBO **0748.968.276**; Rue Ferrer(PAU) 159 La Louviere; **ASBL** NACE **87.101/86.109/88.911** / **0 VE**; aanbestedende overheid; Jolimont hospital-MRS wind-down). Do not redo Le Bosquet/Strebo/Entraide/La Charmille/Charmilles/Sittelles/Buissons/Residence 3/Elisabeth Aan Zee/XXe Aout/Ninove.
 - Found: Companyweb NL+EN+FR YE2025 - bruto **EUR26298** DROP -98.14% vs YE2024 EUR1415916; pnl **EUR11109** FLIP from YE2024 LOSS EUR-327626; equity **EUR78367** JUMP +16.52%; omzet YE2025 **unpublished** (YE2024 EUR1510548); FTE **Micro 0** (was 13.7); neerlegging **26.06.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via secretariat.general@jolimont.be.
@@ -24152,3 +24152,10 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (last **2120**; next **2130**). Next: rq_2122 (AGB/FARO-if-YE2025 / AIESH-REW / RSW / unused IGS-DSO-WZC-MRS).
 
+## Tick 2122 - 2026-08-25T10:55:00Z - rq_2122 Unité Jolimont (bruto DROP 26.3k / pnl FLIP 11.1k / FTE Micro 0 / Medium)
+
+- Unit: **rq_2122** leftover dual after **rq_2121 't Buurthuis** (race: concurrent agent took rq_2121; this tick recovers Unité Jolimont research). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Unité Jolimont** YE2025 (KBO **0748.968.276**; Rue Ferrer(PAU) 159 La Louvière; **ASBL** NACE **87.101/86.109/88.911** / **0 VE**; aanbestedende overheid; Jolimont hospital-MRS wind-down). Do not redo 't Buurthuis/Le Bosquet/Strebo/Entraide/La Charmille/Charmilles/Sittelles/Buissons/Residence 3/Elisabeth Aan Zee/XXe Août/Ninove.
+- Found: Companyweb NL+EN+FR YE2025 - bruto **EUR26298** DROP -98.14% vs YE2024 EUR1415916; pnl **EUR11109** FLIP from YE2024 LOSS EUR-327626; equity **EUR78367** JUMP +16.52%; omzet YE2025 **unpublished** (YE2024 EUR1510548); FTE **Micro 0** (was 13.7); neerlegging **26.06.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via secretariat.general@jolimont.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.8); entities (+1 asbl_unite_jolimont); foi + draft gap_unite_jolimont_nbb_pdf_assets_debt_winddown_bruto_drop_pnl_flip_matrix_l5; rq_2122=done + rq_2123 open; loop_state ticks=2122; raw docs/doge/data/raw/tick2122/; deduped duplicate rq_2122 open row.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2120**; next **2130**). Next: rq_2123 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
