@@ -25375,3 +25375,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.20); entities (+1 vzw_de_oever_hasselt); foi + draft gap_de_oever_nbb_pdf_assets_debt_empty_omzet_pnl_drop_97pct_matrix_l5; rq_2229=done + rq_2230 open (EVERY-10); loop_state ticks=2229; raw docs/doge/raw/tick2229/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2220**; next **2230** THIS next tick). Next: rq_2230 EVERY-10 + (AGB/FARO-if-YE2025 / AIESH-REW / Heropbeuring-or-unused).
+
+
+## Tick 2230 - 2026-08-26T22:20:00Z - rq_2230 EVERY-10 + Kiemkracht Hamme (omzet JUMP 13.26m / bruto≫omzet ~1.41x / pnl DROP -75% / Medium)
+
+- Unit: **rq_2230** EVERY-10 FIRST + leftover dual after **rq_2229 De Oever**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (narrative JV2025 only); AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**. Took FREE leftover **Kiemkracht VZW** YE2025 (KBO **0454.343.743**; Zwaarveld 57 Hamme; **Actief** **13 VE**; RSZ/BTW NACE **88.993**) — DISTINCT De Kemphaan Hamme. Do not redo De Oever/ViTeS BE/Midwest/ViTeS/Reset/Manus stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR13257892** JUMP +9.00% vs YE2024 EUR12162919; bruto **EUR18730949** JUMP +8.56% (bruto≫omzet ~1.41x); pnl **EUR322935** DROP -75.09% vs YE2024 EUR1296587; equity **EUR9211065** JUMP +3.56%; FTE **404.4** JUMP vs 370.4; neerlegging **16.06.2026**. Strong KBO Actief 13 VE; Pro Natura absorb 01.01.2023. Assets/debt Unknown. Medium. FOI via info@kiemkracht.org.
+- EVERY-10: refreshed `progress_every_10_ticks.md` + `doge_waste_top10_current.md` (A–E; pure top10 stable; NEW residual 2221-2230 + Kiemkracht primary). Next every-10 **2240**.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.50); entities (+1 vzw_kiemkracht_hamme); foi + draft gap_kiemkracht_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_drop_75pct_matrix_l5; rq_2230=done + rq_2231 open; loop_state ticks=2230; raw docs/doge/raw/tick2230/.
+- FOI: **ready not sent** (human-gated).
+- Next: rq_2231 (AGB/FARO-if-YE2025 / AIESH-REW / Heropbeuring-or-unused).

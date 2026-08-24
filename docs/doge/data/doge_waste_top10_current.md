@@ -1,8 +1,8 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2220** (2026-08-26) · **8034+** leaderboard rows  
+**As-of:** tick **2230** (2026-08-26) · **8047+** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt AGB / scoring anomalies with pi>10 excluded**  
-**Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
+**Formula:** `0.55×cost_score + 0.35×absurdity + 0.10×(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5  
 
 **This is a prioritisation for cuts/review**, not a claim that these euros are illegal.  
@@ -27,19 +27,19 @@ Large structural TE/FFS score high on **cost** even when “absurdity” is mode
 
 **GIP honesty:** #1 ranks high on **governance absurdity × volume steered**, not as a claim that €2.5bn is discretionary waste. Prefer FOI VEK/encours/public exec report.  
 **Cheque honesty:** annual € tracks **layer B TE** (~€1.07bn CoA) for fiscal ranking. Face (~€3.55bn) is mostly wages. Pure waste (admin + restricted-spend DWL) is a **smaller band**.  
-**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **university/city balance sheets** · **AGB/zorg dual + IGS/HVZ/CAW/CGG/woonmaatschappij/thuiszorg shells** · **NEW residual 2211-2220:** **OptimaT bruto~3.54× / equity 39.4m** · **Odas omzet 11.34m** · **Kringloop Deltagroep 7.08m** · **Opnieuw & Co 6.45m** · **Werkmmaat pnl JUMP +602%** · **NBSW bruto DROP 0.45m / pnl DROP -29% / omzet empty** (EVERY-10@2220 primary) · prior 2201-2210 Entiris/ACG/Oesterbank/Arcor/Noordheuvel stack retained · Walloon HVZ opacity stack · prior nuclear/Fluxys/Elia/Enodia/RESA · **LUWA PPP €590m** · private gambling **€31.5bn** market.
+**Stock filter (off pure annual top10):** Metro3 overrun/gap · OWV snowball **€27bn** eoy2083 · Hedera CAP · VL/WAL/FWB/BCR debt stocks · federal unconsol debt · **Defence eng / SAFE loans €8.34bn** · **EU GNI / MFF** · **Entity II HermReg €7.9bn** · **illness €14.2bn / RIZIV €41.3bn** · **SS spend €140bn class** · **MOG II €7–8bn** CAPEX · **university/city balance sheets** · **AGB/zorg dual + IGS/HVZ/CAW/CGG/woonmaatschappij/thuiszorg shells** · **NEW residual 2221-2230:** **ViTeS omzet 14.04m / FTE 529.8** · **Kiemkracht omzet 13.26m / pnl DROP -75%** (EVERY-10@2230 primary) · **De Oever bruto 10.22m / pnl DROP -97%** · **Reset pnl DROP -85%** · **Manus BXL pnl DROP -94%** · prior 2211-2220 OptimaT/Odas/Deltagroep/NBSW stack retained · Walloon HVZ opacity stack · prior nuclear/Fluxys/Elia/Enodia/RESA · **LUWA PPP €590m** · private gambling **€31.5bn** market.
 
-**Change vs tick 2210:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10; Metro3/OWV snowball filtered as stock). Re-verified from leaderboard (corrupt AGB/scoring pi>10 / Metro3 stock / OWV snowball stock filtered off; seed/open TE-FFS rows retained for pure annual ranking). **Major NEW residual 2211-2220 (off pure top10 / dual):** Werkhuizen MIN · Ecoso · Odas · OptimaT · Groep Maatwerk · Constructief · Kringloop Deltagroep · Werkmmaat · Veerkracht 4 · Opnieuw & Co · **NBSW bruto DROP 0.45m / pnl DROP -29% / equity JUMP / omzet empty** (EVERY-10@2220 primary). Count NEW since 2210: ~11 residual dual fills. **Prior 2201-2210 + 2191-2200 stacks retained.** Not TE-additive of ~348bn.
+**Change vs tick 2220:** pure annual top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10; Metro3/OWV snowball filtered as stock). Re-verified from leaderboard (corrupt AGB/scoring pi>10 / Metro3 stock / OWV snowball stock filtered off; seed/open TE-FFS rows retained for pure annual ranking). **Major NEW residual 2221-2230 (off pure top10 / dual):** Manus Antwerpen · Manus groep · Kringwinkel ZOV · Manus BXL · Kringwinkel Maasland · Kringwinkel West · Den Azalee · Reset · ViTeS · Midwest · ViTeS BE · De Oever · **Kiemkracht omzet JUMP 13.26m / bruto≫omzet ~1.41x / pnl DROP -75% / FTE JUMP 404.4** (EVERY-10@2230 primary). Count NEW since 2220: ~13 residual dual fills. **Prior 2211-2220 + 2201-2210 stacks retained.** Not TE-additive of ~348bn.
 
 ### High-absurdity residual (not pure top10)
 
-- **OptimaT** bruto **~3.54×** omzet / equity JUMP **EUR39.4m** / FTE **788.8**.
-- **Odas** omzet **EUR11.34m** / bruto **~1.72×** / pnl LOSS NARROW.
-- **Kringloop Deltagroep** omzet **EUR7.08m** / pnl DROP **-76%** / FTE JUMP.
-- **Opnieuw & Co** omzet **EUR6.45m** / bruto **~1.43×** / pnl DROP **-19%** / equity JUMP.
-- **Werkmmaat** empty omzet / bruto **EUR3.24m** / pnl JUMP **+602%**.
-- **NBSW** EVERY-10 primary bruto DROP **EUR0.45m (−5.2%)** / pnl DROP **-29%** / equity JUMP **+8.5%** / omzet empty / FTE DROP **8.8** — Hasselt boomgaard maatwerk subsidy opacity.
+- **Kiemkracht** EVERY-10 primary omzet JUMP **EUR13.26m (+9%)** / bruto≫omzet **~1.41x** / pnl DROP **-75%** / FTE JUMP **404.4** — Hamme maatwerk+Kringwinkel subsidy opacity.
+- **De Oever** bruto **EUR10.22m** / empty omzet / pnl DROP **-97%** / FTE **126.9**.
+- **ViTeS Leuven** omzet **EUR14.04m** / bruto **~1.71x** / pnl DROP **-30%** / FTE **529.8**.
+- **Reset Genk** omzet **EUR6.05m** / bruto **~1.47x** / pnl DROP **-85%**.
+- **Manus BXL** bruto **EUR2.37m** / empty omzet / pnl DROP **-94%**.
+- **Kringwinkel Midwest** omzet **EUR3.26m** / pnl LOSS FLIP **-175k**.
+- **OptimaT** bruto **~3.54×** omzet / equity JUMP **EUR39.4m** (prior retained).
 - **Entiris** omzet **EUR18.93m** / equity JUMP **EUR92.3m** (prior retained).
 - **ACG** omzet DROP **EUR7.49m** / bruto **~1.89×** / pnl JUMP **+69%** (prior retained).
-- **De Schakel Balen** bruto **~7.3×** omzet (prior retained).
 - Walloon **ZS** stack FTE-only budget opacity.
