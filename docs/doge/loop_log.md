@@ -25411,3 +25411,12 @@ Append-only. Each tick adds a short entry.
 - Race: concurrent agents — **Kiemkracht** committed as official EVERY-10@2230; this agent filled **Travie** YE2025 Medium (bruto 11.39m / ~2.84x / pnl DROP -89% / FTE 496) with FOI ready; De Vleugels closed rq_2231.
 - Merged Travie + De Vleugels into `progress_every_10_ticks.md` + `doge_waste_top10_current.md` (Kiemkracht remains EVERY-10 primary). FOI draft `gap_travie_...` ready not sent.
 - Next: rq_2232 (AGB/FARO-if-YE2025 / AIESH-REW / SDB-Rucher-or-unused). Next every-10 **2240**.
+
+
+## Tick 2232 - 2026-08-26T23:05:00Z - rq_2232 SDB Sint-Truiden (omzet JUMP 9.36m / pnl PROFIT FLIP / equity JUMP +57% / Medium)
+
+- Unit: **rq_2232** leftover dual after **rq_2231 De Vleugels**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**. Took named FREE leftover **SDB VZW / Sociaal Dienstenchequebedrijf** YE2025 (KBO **0665.861.844**; Diesterstraat 27/11 Sint-Truiden; **Actief** **8 VE**; NACE **88.999**) — named prefer in rq_2232. Deferred FREE **Travie** / **Le Rucher** YE2025. Do not redo De Vleugels/Kiemkracht/De Oever/ViTeS stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR9359256** JUMP +15.07% vs YE2024 EUR8133636; bruto **EUR9589392** JUMP +23.09%; pnl **EUR310590** PROFIT FLIP vs YE2024 LOSS EUR-115565; equity **EUR1684585** JUMP +57.36%; FTE **241.9** JUMP vs 214.9; neerlegging **28.04.2026**. Strong KBO Actief 8 VE; info@vzw-sdbe.be. Assets/debt Unknown. Medium. FOI via info@vzw-sdbe.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.20); entities (+1 vzw_sdb_sint_truiden); foi + draft gap_sdb_nbb_pdf_assets_debt_pnl_profit_flip_equity_jump_dienstencheque_matrix_l5; rq_2232=done + rq_2233 open; loop_state ticks=2232; raw docs/doge/raw/tick2232/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2233 (AGB/FARO-if-YE2025 / AIESH-REW / Travie-Rucher-or-unused).
