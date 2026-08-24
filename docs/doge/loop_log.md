@@ -24651,3 +24651,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - EVERY-10 done (**last every-10 was 2160**; next **2180**). Next: rq_2171 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
 
+
+## Tick 2171 - 2026-08-26T03:00:00Z - rq_2171 Woonzorg Het Dorp (omzet empty / FTE 50 / equity NEG -12.0m / Medium)
+
+- Unit: **rq_2171** leftover dual after **rq_2170 EVERY-10 Abdij Affligem**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Skipped Melis retail; Ventu consulting; Hof ter Lande/Stil Geluk/WZN Edegem YE2024/opaque. Took unused leftover **Woonzorg Het Dorp VZW** YE2025 (KBO **0835.884.236**; Alsembergsesteenweg 1037 Ukkel; **VZW** 0 VE; bestuurder **emeis Belgium 0887.690.451**). Do not redo Abdij/Aaigem/Sint Lodewijk/Lork Hoeselt/Anima/Zorg-Saam/emeis Belgium hold.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished** (vs YE2024 EUR4327853); bruto **EUR-3557** collapse; pnl **EUR-3557** (narrowed from YE2024 LOSS EUR-2305763); equity **EUR-11976420** NEG flat; FTE **50**; neerlegging **08.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW + emeis board. FOI via hetdorp@emeis.com.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.3); entities (+1 vzw_woonzorg_het_dorp); foi + draft gap_het_dorp_nbb_pdf_assets_debt_omzet_empty_fte50_equity_neg_emeis_matrix_l5; rq_2171=done + rq_2172 open; loop_state ticks=2171; raw docs/doge/data/raw/tick2171/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2172 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ; optional Ben Woonzorgnetwerk if YE2025).
+
