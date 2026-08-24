@@ -25070,3 +25070,19 @@ Append-only. Each tick adds a short entry.
 
 ### 2026-08-26T14:05:00Z — tick 2204 race note
 - Concurrent agent also closed rq_2204 as Trianval Wetteren YE2025 Medium (255702be; omzet JUMP 6.10m / bruto≫omzet ~1.74x / pnl JUMP +92%) before/with Werkplus (1ac1a39c). Both YE2025 Medium units kept. rq_2205 open head updated; do not redo either. Next every-10 still 2210.
+
+## Tick 2205 - 2026-08-26T14:20:00Z - rq_2205 De Oesterbank (omzet JUMP 7.31m / bruto>omzet ~1.89x / pnl JUMP +237% / FTE DROP / Medium)
+
+- Unit: **rq_2205** leftover dual after **rq_2204 Werkplus/Trianval race**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; REW still **YE2024**. Took named FREE leftover **De Oesterbank VZW** YE2025 (KBO **0407.762.165**; Vaartblekersstraat 15 Oostende; **Actief** **2 VE**; RSZ NACE **88.993**). Do not redo Werkplus/Trianval/Ijsedal/De Kromme Boom/Aarova/Kaliber/MWP Pajottenland/De Winning/Atelier Groot Eiland/Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR7314640** JUMP +4.28% vs YE2024 EUR7014758; bruto **EUR13796290** JUMP +5.34% (bruto>omzet ~1.89x); pnl **EUR285185** JUMP +236.52% vs YE2024 EUR84745; equity **EUR6122570** JUMP +4.24%; FTE **366.8** DROP vs 379.6; neerlegging **16.07.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown. Medium. FOI via info@deoesterbank.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.9); entities (+1 vzw_de_oesterbank_oostende); foi + draft gap_oesterbank_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_jump_fte_drop_matrix_l5; rq_2205=done + rq_2206 open; loop_state ticks=2205; raw docs/doge/data/raw/tick2205/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2206 (AGB/FARO-if-YE2025 / AIESH-REW / Entiris-Odas-or-unused).
+
+## Tick 2205 - 2026-08-26T14:20:00Z - rq_2205 Oesterbank Oostende (omzet JUMP 7.31m / bruto>>omzet ~1.89x / pnl JUMP +237% / Medium)
+
+- Unit: **rq_2205** leftover dual after **rq_2204 Werkplus (+race Trianval)**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took named FREE leftover **De Oesterbank VZW** YE2025 (KBO **0407.762.165**; Vaartblekersstraat 15 Oostende; **Actief** **3 VE**; RSZ NACE **88.993**). Deferred FREE Werkhuizen MIN YE2025. Do not redo Werkplus/Trianval/Ijsedal/De Kromme Boom/Aarova/Kaliber/MWP Pajottenland/De Winning/Atelier Groot Eiland/Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR7314640** JUMP +4.28% vs YE2024 EUR7014758; bruto **EUR13796290** JUMP +5.34% (bruto>>omzet ~1.89x); pnl **EUR285185** JUMP +236.52% vs YE2024 EUR84745; equity **EUR6122570** JUMP +4.24%; FTE **366.8** DROP vs 379.6; neerlegging **16.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 3 VE. FOI via info@oesterbank.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.9); entities (+1 vzw_de_oesterbank_oostende); foi + draft gap_oesterbank_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_jump_matrix_l5; rq_2205=done + rq_2206 open; loop_state ticks=2205; raw docs/doge/data/raw/tick2205/.
+- FOI: **ready NOT sent** (human-gated).
+- NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2206 (AGB/FARO-if-YE2025 / AIESH-REW / Werkhuizen-MIN-YE2025-or-unused IGS-DSO-WZC-MRS-HVZ).
