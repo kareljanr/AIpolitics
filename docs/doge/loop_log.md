@@ -25312,3 +25312,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2225 (AGB/FARO-if-YE2025 / AIESH-REW / Heropbeuring-if-euros / unused).
 
+
+
+## Tick 2225 - 2026-08-26T20:35:00Z - rq_2225 Reset Genk (omzet JUMP 6.05m / bruto≫omzet ~1.47x / pnl DROP -85% / Medium)
+
+- Unit: **rq_2225** leftover dual after **rq_2224 Den Azalee** (+Kringwinkel West race). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024**; Heropbeuring still **CW opaque**. Took named FREE leftover **Reset VZW** YE2025 (KBO **0460.015.174**; Bosdel 36 Genk; **Actief** **12 VE**; RSZ NACE **88.993**) — named prefer in rq_2225 (ViTeS/Reset). Do not redo Den Azalee/Kringwinkel West/Manus stack/NBSW/Opnieuw/ZOV/Maasland.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR6054875** JUMP +11.09% vs YE2024 EUR5450363; bruto **EUR8910909** JUMP +7.75% (bruto≫omzet ~1.47x); pnl **EUR19665** DROP -85.37% vs YE2024 EUR134396; equity **EUR8275359** DROP -0.45%; FTE **201**; neerlegging **02.07.2026**. Strong KBO Actief 12 VE. Assets/debt Unknown. Medium. FOI via info@vzwreset.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.90); entities (+1 vzw_reset_genk); foi + draft gap_reset_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_drop_85pct_matrix_l5; rq_2225=done + rq_2226 open; loop_state ticks=2225; raw docs/doge/raw/tick2225/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2226 (AGB/FARO-if-YE2025 / AIESH-REW / Heropbeuring-if-euros / ViTeS-Aralea-or-unused).

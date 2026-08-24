@@ -53292,3 +53292,9 @@ bud_den_azalee_pnl_jr2025_cw,vzw_den_azalee_sint_niklaas,2025,340447,340447,3404
 bud_den_azalee_equity_jr2025_cw,vzw_den_azalee_sint_niklaas,2025,15538237,15538237,15538237,CW code10/15 eigen vermogen YE2025,src_den_azalee_jr2025_cw_nl,medium,tick2224; Medium CW; equity JUMP +2.46% vs YE2024 15165370
 bud_den_azalee_fte_jr2025_cw,vzw_den_azalee_sint_niklaas,2025,188.2,188.2,188.2,CW FTE YE2025,src_den_azalee_jr2025_cw_nl,medium,tick2224; Medium CW; FTE JUMP vs YE2024 184.6
 bud_den_azalee_omzet_jr2024_cw,vzw_den_azalee_sint_niklaas,2024,4525519,4525519,4525519,CW code70 omzet YE2024 comparative,src_den_azalee_jr2025_cw_nl,medium,tick2224; Medium CW YoY base
+bud_reset_omzet_jr2025_statutory,vzw_reset_genk,2025,6054875,6054875,6054875,CW statutory omzet YE2025,src_reset_jr2025_cw_en,medium,tick2225; Medium CW; omzet JUMP +11.09% vs YE2024 5450363; primary published sales
+bud_reset_bruto_jr2025_statutory,vzw_reset_genk,2025,8910909,8910909,8910909,CW statutory bruto_marge YE2025,src_reset_jr2025_cw_en,medium,tick2225; Medium CW; bruto JUMP +7.75% vs YE2024 8270329; bruto≫omzet ~1.47x
+bud_reset_pnl_jr2025_statutory,vzw_reset_genk,2025,19665,19665,19665,CW statutory winst YE2025,src_reset_jr2025_cw_en,medium,tick2225; Medium CW; pnl DROP -85.37% vs YE2024 134396
+bud_reset_equity_jr2025_statutory,vzw_reset_genk,2025,8275359,8275359,8275359,CW statutory eigen_vermogen YE2025,src_reset_jr2025_cw_en,medium,tick2225; Medium CW; equity DROP -0.45% vs YE2024 8313051
+bud_reset_fte_jr2025_statutory,vzw_reset_genk,2025,201.0,201.0,201.0,CW social-balance FTE 201,src_reset_jr2025_cw_en,medium,tick2225; Medium CW; FTE 201.0; YE2024 FTE Unknown on free CW; assets/debt Unknown
+bud_reset_omzet_jr2024_statutory_cmp,vzw_reset_genk,2024,5450363,5450363,5450363,CW statutory omzet YE2024 comparative,src_reset_jr2025_cw_en,medium,tick2225; YE2024 omzet 5450363 comparative
