@@ -25366,3 +25366,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.80); entities (+1 vzw_vites_be); foi + draft gap_vites_be_nbb_pdf_assets_debt_dual_leuven_pnl_flip_matrix_l5; rq_2228=done + rq_2229 open; loop_state ticks=2228; raw docs/doge/raw/tick2228/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2229 (AGB/FARO-if-YE2025 / AIESH-REW / Heropbeuring-DeOever-or-unused).
+
+
+## Tick 2229 - 2026-08-26T21:55:00Z - rq_2229 De Oever Hasselt (bruto JUMP 10.22m / empty omzet / pnl DROP -97% / Medium)
+
+- Unit: **rq_2229** leftover dual after **rq_2228 ViTeS BE**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still **YE2024**; Heropbeuring still **CW opaque**. Took named FREE leftover **De Oever VZW** YE2025 (KBO **0413.895.634**; Smetstraat 19 Hasselt; **Actief** **9 VE**; NACE **87.991/87.901** integrale jeugdhulp) — named prefer in rq_2229. Do not redo ViTeS BE/Midwest/ViTeS/Reset/Manus stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **empty/unpublished**; bruto **EUR10224653** JUMP +2.91% vs YE2024 EUR9935070; pnl **EUR22395** DROP -96.86% vs YE2024 EUR712453; equity **EUR7314516** JUMP +0.26%; FTE **126.9** JUMP vs 124.3; neerlegging **27.06.2026**. Strong KBO Actief 9 VE. Assets/debt Unknown. Medium. FOI via directie@deoever.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.20); entities (+1 vzw_de_oever_hasselt); foi + draft gap_de_oever_nbb_pdf_assets_debt_empty_omzet_pnl_drop_97pct_matrix_l5; rq_2229=done + rq_2230 open (EVERY-10); loop_state ticks=2229; raw docs/doge/raw/tick2229/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2220**; next **2230** THIS next tick). Next: rq_2230 EVERY-10 + (AGB/FARO-if-YE2025 / AIESH-REW / Heropbeuring-or-unused).

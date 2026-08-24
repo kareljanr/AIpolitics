@@ -53316,3 +53316,8 @@ bud_vites_be_pnl_jr2025_statutory,vzw_vites_be,2025,109606,109606,109606,CW stat
 bud_vites_be_equity_jr2025_statutory,vzw_vites_be,2025,832052,832052,832052,CW statutory eigen_vermogen YE2025,src_vites_be_jr2025_cw_en,medium,tick2228; Medium CW; equity JUMP +15.17% vs YE2024 722446
 bud_vites_be_fte_jr2025_statutory,vzw_vites_be,2025,11.8,11.8,11.8,CW social-balance FTE 11.8,src_vites_be_jr2025_cw_en,medium,tick2228; Medium CW; FTE 11.8 vs YE2024 ~12.0; assets/debt Unknown
 bud_vites_be_omzet_jr2024_statutory_cmp,vzw_vites_be,2024,802813,802813,802813,CW statutory omzet YE2024 comparative,src_vites_be_jr2025_cw_en,medium,tick2228; YE2024 omzet 802813 comparative
+bud_de_oever_bruto_jr2025_statutory,vzw_de_oever_hasselt,2025,10224653,10224653,10224653,CW statutory bruto_marge YE2025 (omzet unpublished),src_de_oever_jr2025_cw_en,medium,tick2229; Medium CW; bruto JUMP +2.91% vs YE2024 9935070; primary envelope
+bud_de_oever_pnl_jr2025_statutory,vzw_de_oever_hasselt,2025,22395,22395,22395,CW statutory winst YE2025,src_de_oever_jr2025_cw_en,medium,tick2229; Medium CW; pnl DROP -96.86% vs YE2024 712453
+bud_de_oever_equity_jr2025_statutory,vzw_de_oever_hasselt,2025,7314516,7314516,7314516,CW statutory eigen_vermogen YE2025,src_de_oever_jr2025_cw_en,medium,tick2229; Medium CW; equity JUMP +0.26% vs YE2024 7295591
+bud_de_oever_fte_jr2025_statutory,vzw_de_oever_hasselt,2025,126.9,126.9,126.9,CW social-balance FTE 126.9,src_de_oever_jr2025_cw_en,medium,tick2229; Medium CW; FTE JUMP +2.09% vs YE2024 124.3; assets/debt Unknown
+bud_de_oever_bruto_jr2024_statutory_cmp,vzw_de_oever_hasselt,2024,9935070,9935070,9935070,CW statutory bruto_marge YE2024 comparative,src_de_oever_jr2025_cw_en,medium,tick2229; YE2024 bruto 9935070 comparative
