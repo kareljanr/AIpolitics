@@ -24580,3 +24580,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.7); entities (+1 vzw_zorg_saam_zusters_kindsheid_jesu); foi + draft gap_zorg_saam_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2164=done + rq_2165 open; loop_state ticks=2164; raw docs/doge/data/raw/tick2164/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2165 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros; optional Lork Hoeselt BV empty-omzet).
+
+## Tick 2165 - 2026-08-26T01:00:00Z - rq_2165 \'t Hofke Puurs (bruto DROP 7.7k / omzet empty / equity NEG -560k / Medium)
+
+- Unit: **rq_2165** leftover dual after **rq_2164 Zorg-Saam ZKJ**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Skipped WZC Foyer De Lork Hoeselt BV 0755.822.317 (YE2025 live but NACE **68.201** RE shell — same skip as Residentie Oudenburg). Took unused leftover **\'t Hofke VZW** YE2025 (KBO **0823.488.131**; Lippeloseweg 58 Puurs-Sint-Amands; **VZW** NACE **87.101** RVT / **0 VE**; residual vs Sauvegarde/Skobbegaar/Cura Care). Do not redo Zorg-Saam/Sint-Bernardus/Ruggeveld/Salvator/Boterlaarhof/WZND/Foyer De Lork Geel/OLV Kempen.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR7664** DROP -87.77% vs YE2024 EUR62677 (collapsed from YE2023 EUR2090980); pnl **EUR-87076** LOSS NARROW; equity **EUR-559511** NEG deepen -18.43%; FTE **0**; neerlegging **07.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 0 VE. FOI via info.sauvegarde@cura-care.be (tel 03 500 83 36).
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_t_hofke_puurs); foi + draft gap_t_hofke_nbb_pdf_assets_debt_omzet_empty_bruto_collapse_equity_neg_matrix_l5; rq_2165=done + rq_2166 open; loop_state ticks=2165; raw docs/doge/data/raw/tick2165/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2166 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros).

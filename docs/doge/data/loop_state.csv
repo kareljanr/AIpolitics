@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T00:40:00Z,rq_2164,2164,no,tick2164 leftover Zorg-Saam ZKJ 0470.673.890 Medium (omzet JUMP 135.9m; pnl DROP -30.6%; equity 91.4m; FTE 1707; 16 VE aanbestedende overheid); AGB Bornem JR2024; FARO/AIESH/REW YE2024; Residentie Oudenburg skipped NACE 55/68; next rq_2165; next every-10 2170; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T01:00:00Z,rq_2165,2165,no,tick2165 leftover 't Hofke Puurs 0823.488.131 Medium (omzet empty; bruto DROP 7.7k; pnl LOSS -87k; equity NEG -560k; FTE 0; 0 VE NACE 87.101); AGB Bornem JR2024; FARO/AIESH/REW YE2024; skipped Lork Hoeselt BV NACE 68; next rq_2166; next every-10 2170; continuous hole_fill
