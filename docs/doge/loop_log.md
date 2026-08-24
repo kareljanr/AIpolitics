@@ -26444,3 +26444,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.9); entities (+1 vzw_domino_gent); foi + draft gap_domino_nbb_pdf_assets_debt_omzet_21_26m_pnl_drop_49pct_wzc_matrix_l5; rq_2310=done; loop_state; raw docs/doge/data/raw/tick2310/; EVERY-10 progress+waste.
 - FOI: **ready not sent** (human-gated).
 - **EVERY-10 @ 2310** (last was 2300; next **2320**). Next: rq_2312.
+
+### 2026-08-27T21:30:00Z - tick 2313 - rq_2313 Hejmen Leuven (bruto JUMP 2.70m / empty omzet / pnl DROP -4% / FTE 32.1 / Medium)
+
+- Unit: **rq_2313** leftover dual after **Willekom@2311**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO/AIESH still **YE2024**; Gandae still **YE2024**. Took unused FREE Flemish VAPH **Hejmen VZW** YE2025 (KBO **0426.383.987**; s-Hertogenlaan 62, 3000 Leuven; **3 VE**; RSZ **87.202**; info@hejmen.be). Do not redo Willekom/Zewopa/Huis in de Stad/Katrinahof/Alvinnenberg/TMK/Kompas stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR2696639** JUMP +4.38%; pnl **EUR166418** DROP -4%; equity **EUR2887744** JUMP +5.65%; FTE **32.1** (vs 32.8); neerlegging **30.06.2026**. Strong KBO Actief 3 VE. Assets/debt Unknown. Medium.
+- Wrote: sources (+6); budgets (+6); commitments (+1); leaderboard (+1 pi 4.5); entities (+1 vzw_hejmen_leuven); foi + draft gap_hejmen_nbb_pdf_assets_debt_empty_omzet_bruto_2_70m_pnl_drop_vaph_matrix_l5; rq_2313=done + rq_2314 open; loop_state ticks=2313.
+- FOI: **ready not sent**. NOT every-10 (next **2320**). Next: rq_2314.

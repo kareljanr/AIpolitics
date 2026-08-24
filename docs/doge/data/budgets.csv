@@ -53932,3 +53932,9 @@ bud_domino_bruto_jr2025_statutory,vzw_domino_gent,2025,16636876,16636876,1663687
 bud_domino_pnl_jr2025_statutory,vzw_domino_gent,2025,484409,484409,484409,CW statutory pnl YE2025 DROP,src_domino_jr2025_cw_en,medium,tick2310; pnl 484409 DROP -48.93% vs YE2024 948500
 bud_domino_equity_jr2025_statutory,vzw_domino_gent,2025,11317845,11317845,11317845,CW statutory equity YE2025,src_domino_jr2025_cw_en,medium,tick2310; equity 11317845 JUMP +0.07% vs 11310247
 bud_domino_fte_jr2025_statutory,vzw_domino_gent,2025,230.4,230.4,230.4,CW FTE YE2025,src_domino_jr2025_cw_en,medium,tick2310; FTE 230.4 vs 229.7
+bud_hejmen_omzet_jr2025_statutory_empty,vzw_hejmen_leuven,2025,,,,statutory_accounts,src_hejmen_jr2025_cw_en,medium,tick2313; omzet unpublished
+bud_hejmen_bruto_jr2025_statutory,vzw_hejmen_leuven,2025,2696639,,,statutory_accounts,src_hejmen_jr2025_cw_en,medium,tick2313; bruto JUMP +4.38% vs 2583385
+bud_hejmen_pnl_jr2025_statutory,vzw_hejmen_leuven,2025,166418,,,statutory_accounts,src_hejmen_jr2025_cw_en,medium,tick2313; pnl DROP -4% vs 173356
+bud_hejmen_equity_jr2025_statutory,vzw_hejmen_leuven,2025,2887744,,,statutory_accounts,src_hejmen_jr2025_cw_en,medium,tick2313; equity JUMP +5.65%
+bud_hejmen_fte_jr2025_statutory,vzw_hejmen_leuven,2025,32.1,,,statutory_accounts,src_hejmen_jr2025_cw_en,medium,tick2313; FTE 32.1 vs 32.8
+bud_hejmen_pnl_jr2024_statutory_cmp,vzw_hejmen_leuven,2024,173356,,,statutory_accounts,src_hejmen_jr2025_cw_en,medium,tick2313; YE2024 cmp
