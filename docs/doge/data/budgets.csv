@@ -54062,3 +54062,8 @@ bud_vier_notelaars_bruto_jr2025_statutory,vzw_de_vier_notelaars_schoten,2025,286
 bud_vier_notelaars_pnl_jr2025_statutory,vzw_de_vier_notelaars_schoten,2025,-40024,-40024,-40024,CW statutory pnl YE2025 LOSS FLIP,src_vier_notelaars_jr2025_cw_en,medium,tick2332; Medium CW; vs YE2024 PROFIT 183071
 bud_vier_notelaars_equity_jr2025_statutory,vzw_de_vier_notelaars_schoten,2025,4060369,4060369,4060369,CW statutory eigen_vermogen YE2025 DROP,src_vier_notelaars_jr2025_cw_en,medium,tick2332; Medium CW; equity -2.04% vs 4145049
 bud_vier_notelaars_fte_jr2025_statutory,vzw_de_vier_notelaars_schoten,2025,32.9,32.9,32.9,CW social-balance FTE 32.9 flat,src_vier_notelaars_jr2025_cw_en,medium,tick2332; Medium CW; FTE flat vs 32.9
+bud_gielsbos_omzet_jr2025_statutory,vzw_het_gielsbos_lille,2025,5351872,5351872,5351872,CW statutory omzet YE2025 JUMP,src_gielsbos_jr2025_cw_en,medium,tick2334; Medium CW; omzet +3.71% vs 5160465
+bud_gielsbos_bruto_jr2025_statutory,vzw_het_gielsbos_lille,2025,41720205,41720205,41720205,CW statutory bruto_marge YE2025 ~7.80x omzet,src_gielsbos_jr2025_cw_en,medium,tick2334; Medium CW; bruto +2.13% vs 40850817
+bud_gielsbos_pnl_jr2025_statutory,vzw_het_gielsbos_lille,2025,1613061,1613061,1613061,CW statutory winst/verlies YE2025 JUMP,src_gielsbos_jr2025_cw_en,medium,tick2334; Medium CW; pnl +14.35% vs 1410671
+bud_gielsbos_equity_jr2025_statutory,vzw_het_gielsbos_lille,2025,38121725,38121725,38121725,CW statutory eigen_vermogen YE2025 JUMP,src_gielsbos_jr2025_cw_en,medium,tick2334; Medium CW; equity +4.04% vs 36640735
+bud_gielsbos_fte_jr2025_statutory,vzw_het_gielsbos_lille,2025,509.3,509.3,509.3,CW social-balance FTE 509.3,src_gielsbos_jr2025_cw_en,medium,tick2334; Medium CW; FTE 509.3 vs 510.7

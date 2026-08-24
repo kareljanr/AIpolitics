@@ -10,7 +10,7 @@
 
 ## Context
 - CW YE2025: omzet **EUR5,351,872** JUMP +3.71%; bruto **EUR41,720,205** JUMP +2.13% (~**7.80x**); pnl **EUR1,613,061** JUMP +14.35%; equity **EUR38,121,725** JUMP +4.04%; FTE **509.3**; filed **13.06.2026**.
-- After Mivalti@2331 / Den Brand EVERY-10@2330. Stalls: AGB Bornem JR2024; FARO/AIESH/Gandae/Aralea/Manupal/Vlotter YE2024.
+- After Den Brand EVERY-10@2330. Stalls: AGB Bornem JR2024; FARO/AIESH/Gandae/Aralea/Manupal/Vlotter YE2024.
 
 ## Brief
 ```text

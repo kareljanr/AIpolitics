@@ -26682,3 +26682,10 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN YE2025 - omzet **EUR500791** JUMP +4.27%; bruto **EUR2864452** JUMP +3.04% (~**5.72x**); pnl **EUR-40024** LOSS FLIP; equity **EUR4060369** DROP -2.04%; FTE **32.9**; neerlegging **01.07.2026**. Strong KBO. Assets/debt Unknown. Medium.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.5); entities (+1); foi + draft gap_vier_notelaars_nbb_pdf_assets_debt_bruto_gt_omzet_5_72x_pnl_loss_flip_vaph_matrix_l5; rq_2333=done + rq_2334 open; loop_state ticks=2333; raw tick2333/.
 - FOI: **ready not sent**. NOT every-10 (next **2340**). Next: rq_2334.
+
+### 2026-08-28T01:50:00Z - tick 2334 - rq_2334 Het GielsBos Lille (bruto JUMP 41.72m / ~7.80x omzet / pnl JUMP / FTE 509.3 / Medium)
+
+- Unit: **rq_2334** leftover dual after Vier Notelaars@2333. Stalls AGB Bornem / FARO / AIESH / Gandae / Aralea / Manupal / Vlotter still **YE2024**. Took FREE Flemish VAPH **Het GielsBos VZW** YE2025 (KBO **0408.318.233**; Vosselaarseweg 1, 2275 Lille; **Actief** **7 VE**; Aanbestedende; RSZ **87.202**; info@hetgielsbos.be).
+- Found (CW NL+EN YE2025): omzet **EUR5351872** JUMP +3.71%; bruto **EUR41720205** JUMP +2.13% (~**7.80x**); pnl **EUR1613061** JUMP +14.35%; equity **EUR38121725** JUMP +4.04%; FTE **509.3**; neerlegging **13.06.2026**. Strong KBO. Assets/debt Unknown. Medium.
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1 pi 6.00); entities (+1 vzw_het_gielsbos_lille); foi + draft `gap_gielsbos_nbb_pdf_assets_debt_bruto_gt_omzet_7_80x_pnl_jump_vaph_matrix_l5`; rq_2334=done + rq_2335 open; loop_state ticks=2334.
+- FOI: **ready not sent**. NOT every-10 (next **2340**). Next: rq_2333.
