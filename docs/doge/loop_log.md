@@ -26748,3 +26748,10 @@ Append-only. Each tick adds a short entry.
 - Found: CW YE2025 - omzet **empty**; bruto **EUR1871902**; pnl **EUR38075** DROP -33%; equity **EUR4726258**; FTE **24.5**; filed **23.03.2026**. Medium.
 - Wrote: EVERY-10 docs; FOI draft gap_konekt_nbb_pdf_assets_debt_empty_omzet_bruto_1_87m_pnl_drop_vaph_inclusion_matrix_l5; rq_2340=done + rq_2341 open; loop_state ticks=2340; raw tick2340/.
 - FOI: **ready not sent**. **EVERY-10 @2340** (next **2350**). Next: rq_2341.
+
+### 2026-08-28T02:20:00Z - tick 2341 - rq_2341 Huize Eyckerheyde Bornem (bruto JUMP 9.74m / ~7.89x omzet / pnl JUMP / FTE JUMP 121.9 / Medium)
+
+- Unit: **rq_2341** leftover dual after Konekt EVERY-10@2340. Stalls AGB Bornem / FARO / AIESH / Gandae / Aralea / Manupal / Vlotter still **YE2024**. Took FREE Flemish VAPH **Huize Eyckerheyde VZW** YE2025 (KBO **0424.829.019**; Koningin Astridlaan 3, 2880 Bornem; RSZ **87.202**; secretariaat@eyckerheyde.be).
+- Found (CW NL+EN YE2025): omzet **EUR1234247** DROP -3.08%; bruto **EUR9742289** JUMP +7.02% (~**7.89x**); pnl **EUR408164** JUMP +9.48%; equity **EUR6020250** JUMP +4.45%; FTE **121.9** JUMP; neerlegging **22.06.2026**. Strong KBO. Assets/debt Unknown. Medium.
+- Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1 pi 4.94); entities (+1 vzw_huize_eyckerheyde_bornem); foi + draft `gap_eyckerheyde_nbb_pdf_assets_debt_bruto_gt_omzet_7_89x_pnl_jump_vaph_matrix_l5`; rq_2341=done + rq_2342 open; loop_state ticks=2341.
+- FOI: **ready not sent**. NOT every-10 (next **2350**). Next: rq_2342.

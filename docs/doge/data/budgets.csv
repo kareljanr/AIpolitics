@@ -54100,3 +54100,8 @@ bud_ozc_sv_omzet_jr2025_statutory,vzw_ozc_sint_vincentius_geraardsbergen,2025,25
 bud_ozc_sv_pnl_jr2025_statutory,vzw_ozc_sint_vincentius_geraardsbergen,2025,1788020,1788020,1788020,CW pnl DROP,src_ozc_sv_jr2025_cw_en,medium,tick2339
 bud_ozc_sv_equity_jr2025_statutory,vzw_ozc_sint_vincentius_geraardsbergen,2025,26682188,26682188,26682188,CW equity,src_ozc_sv_jr2025_cw_en,medium,tick2339
 bud_ozc_sv_fte_jr2025_statutory,vzw_ozc_sint_vincentius_geraardsbergen,2025,221.1,221.1,221.1,CW FTE,src_ozc_sv_jr2025_cw_en,medium,tick2339
+bud_eyckerheyde_omzet_jr2025_statutory,vzw_huize_eyckerheyde_bornem,2025,1234247,1234247,1234247,CW statutory omzet YE2025 DROP,src_eyckerheyde_jr2025_cw_en,medium,tick2341; Medium CW; omzet -3.08% vs 1273435
+bud_eyckerheyde_bruto_jr2025_statutory,vzw_huize_eyckerheyde_bornem,2025,9742289,9742289,9742289,CW statutory bruto_marge YE2025 ~7.89x omzet,src_eyckerheyde_jr2025_cw_en,medium,tick2341; Medium CW; bruto +7.02% vs 9103102
+bud_eyckerheyde_pnl_jr2025_statutory,vzw_huize_eyckerheyde_bornem,2025,408164,408164,408164,CW statutory winst/verlies YE2025 JUMP,src_eyckerheyde_jr2025_cw_en,medium,tick2341; Medium CW; pnl +9.48% vs 372826
+bud_eyckerheyde_equity_jr2025_statutory,vzw_huize_eyckerheyde_bornem,2025,6020250,6020250,6020250,CW statutory eigen_vermogen YE2025 JUMP,src_eyckerheyde_jr2025_cw_en,medium,tick2341; Medium CW; equity +4.45% vs 5763939
+bud_eyckerheyde_fte_jr2025_statutory,vzw_huize_eyckerheyde_bornem,2025,121.9,121.9,121.9,CW social-balance FTE 121.9,src_eyckerheyde_jr2025_cw_en,medium,tick2341; Medium CW; FTE 121.9 vs 115.9

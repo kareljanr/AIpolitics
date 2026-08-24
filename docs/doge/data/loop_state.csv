@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T18:45:00Z,rq_2340,2340,no,tick2340 EVERY-10 leftover dual Konekt 0524.936.680 Medium (omzet empty; bruto 1871902; pnl DROP 38075; equity JUMP 4726258; FTE 24.5; 4 VE Aanbestedende); after OZC@2339; AGB/FARO YE2024; progress+waste refreshed; next rq_2341; next EVERY-10 2350
+main,continuous,hole_fill,2026-08-28T02:20:00Z,rq_2341,2341,no,tick2341 leftover dual Huize Eyckerheyde 0424.829.019 Medium (omzet DROP 1234247; bruto JUMP 9742289 ~7.89x; pnl JUMP 408164; equity JUMP 6020250; FTE JUMP 121.9; Bornem VAPH); after Konekt EVERY-10@2340; AGB/FARO YE2024; next rq_2342; next EVERY-10 2350
