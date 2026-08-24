@@ -24284,3 +24284,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.5); entities (+1 nv_mrs_comte_degmont_chievres); foi + draft gap_comte_degmont_nbb_pdf_assets_debt_omzet_empty_loss_widen_thin_equity_matrix_l5; rq_2134=done + rq_2135 open; loop_state ticks=2134; raw docs/doge/data/raw/tick2134/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2130**; next **2140**). Next: rq_2135 (AGB/FARO-if-YE2025 / AIESH-REW / Prestige-Peupliers-Esplanade / unused IGS-DSO-WZC-MRS).
+
+## Tick 2135 - 2026-08-25T15:00:00Z - rq_2135 Residence Les Peupliers Seneffe (bruto JUMP 3.17m / equity NEG -778k / Medium)
+
+- Unit: **rq_2135** leftover dual after **rq_2134 MRS Comte d'Egmont**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (glossy jaarverslag 2025 online but CW/NBB last balance **2024**); AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Residence Les Peupliers BV** YE2025 (KBO **0479.984.011**; Avenue de la Motte Baraffe 6 Seneffe; **BV/SRL** NACE **87.301** / **1 VE**; private MRS). Do not redo Comte d'Egmont/CIGB Menen/Ten Rozen/L'Orchidée/Care-Support/Restel Flats/De Fakkel. Deferred live YE2025: Residence Prestige / l'Esplanade Ath.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR3170222** JUMP +4.41% vs YE2024 EUR3036336; pnl **EUR-296036** LOSS NARROW +21.61% vs YE2024 EUR-377649; equity **EUR-778327** NEG DEEPEN -61.38% vs YE2024 EUR-482292; FTE **51.1** vs 50.7; neerlegging **13.08.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via residencelespeuplierssprl@hotmail.com.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 6.3); entities (+1 bv_residence_les_peupliers_seneffe); foi + draft gap_peupliers_nbb_pdf_assets_debt_omzet_empty_neg_equity_loss_matrix_l5; rq_2135=done + rq_2136 open; loop_state ticks=2135; raw docs/doge/data/raw/tick2135/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2130**; next **2140**). Next: rq_2136 (AGB/FARO-if-YE2025 / AIESH-REW / Prestige-Esplanade / unused IGS-DSO-WZC-MRS).
