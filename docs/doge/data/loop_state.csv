@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T07:00:00Z,rq_2183,2183,no,tick2183 leftover WASE WERKPLAATS 0406.769.993 Medium (omzet JUMP 13.06m; bruto 28.0m ≫ omzet; pnl LOSS improving -466k; equity DROP 10.63m; FTE JUMP 761.6; 4 VE Temse); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2184; next every-10 2190; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T07:00:00Z,rq_2183,2183,no,tick2183 leftover BWB 0407.642.104 Medium (omzet JUMP 6.00m; bruto 10.56m ≫ omzet; pnl DROP 111k -43%; equity JUMP 7.12m; FTE JUMP 295.7; NACE 88.993; 1 VE Londerzeel); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2184; next every-10 2190; continuous hole_fill

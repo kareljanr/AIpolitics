@@ -1,4 +1,4 @@
-# tick 2183 — Wase Werkplaats YE2025 Medium CW after Groep INTRO Maatwerk
+# tick 2183 — BWB Londerzeel YE2025 Medium CW after Groep INTRO
 import csv
 from pathlib import Path
 
@@ -7,11 +7,11 @@ DATA = ROOT / "docs" / "doge" / "data"
 csv.field_size_limit(10_000_000)
 
 UTC = "2026-08-26T07:00:00Z"
-ENTITY = "vzw_wase_werkplaats"
-GAP = "gap_wase_werkplaats_nbb_pdf_assets_debt_pnl_loss_bruto_gt_omzet_fte_jump_matrix_l5"
-COMM = "comm_wase_werkplaats_jr2025_statutory_omzet_jump_bruto_gt_omzet_pnl_loss"
-LB = "lb_wase_werkplaats_omzet_jump_13_06m_bruto_28m_pnl_loss_improving_jr2025"
-SRC_EN = "src_wase_werkplaats_jr2025_cw_en"
+ENTITY = "vzw_bwb_londerzeel"
+GAP = "gap_bwb_nbb_pdf_assets_debt_pnl_drop_omzet_jump_bruto_gt_omzet_matrix_l5"
+COMM = "comm_bwb_jr2025_statutory_maatwerk_omzet_jump_pnl_drop"
+LB = "lb_bwb_omzet_jump_6_00m_pnl_drop_bruto_gt_omzet_jr2025"
+SRC_EN = "src_bwb_jr2025_cw_en"
 
 
 def append_rows(path, rows):
@@ -42,20 +42,20 @@ def update_rq():
         if row.get("task_id") == "rq_2183":
             row = dict(row)
             row["title"] = (
-                "leftover dual — Wase Werkplaats YE2025 Medium "
-                "(omzet JUMP 13.06m / bruto 28.0m ≫ omzet / pnl LOSS improving / FTE JUMP)"
+                "leftover dual — BWB Londerzeel YE2025 Medium "
+                "(omzet JUMP 6.00m / pnl DROP -43% / bruto>omzet)"
             )
             row["status"] = "done"
             row["entity_id"] = ENTITY
             row["instructions"] = (
-                "Completed leftover Wase Werkplaats after Groep INTRO; preferred AGB Bornem JR2024 / "
+                "Completed leftover BWB after Groep INTRO; preferred AGB Bornem JR2024 / "
                 "FARO/AIESH/REW still YE2024; Medium CW YE2025 + Strong KBO; FOI ready not sent"
             )
             row["blocked_gap_id"] = GAP
             row["updated_utc"] = UTC
             row["notes"] = (
-                "tick2183 Wase Werkplaats 0406.769.993 Medium; omzet JUMP 13059679 bruto 27984893 "
-                "pnl LOSS improving -465728 equity DROP 10625410 FTE JUMP 761.6; 4 VE Temse; "
+                "tick2183 BWB 0407.642.104 Medium; omzet JUMP 6000571 bruto 10555433 "
+                "pnl DROP 110515 equity JUMP 7121604 FTE JUMP 295.7; NACE 88.993; 1 VE Londerzeel; "
                 "AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2184; next every-10 2190"
             )
         out.append(row)
@@ -64,7 +64,7 @@ def update_rq():
             {
                 "task_id": "rq_2184",
                 "title": (
-                    "leftover dual hole-fill after Wase Werkplaats — prefer "
+                    "leftover dual hole-fill after BWB — prefer "
                     "AGB/FARO-YE2025/AIESH-REW/unused IGS-DSO-WZC-MRS-HVZ"
                 ),
                 "sprint": "hole_fill",
@@ -73,16 +73,16 @@ def update_rq():
                 "hierarchy_target": "L5",
                 "entity_id": "",
                 "instructions": (
-                    "Tick 2184 after Wase Werkplaats YE2025 Medium (omzet JUMP 13.06m / bruto 28m ≫ "
-                    "omzet / pnl LOSS improving). Prefer leftover AGB/APB if JR2025 PDF live, else FARO if "
-                    "TRUE NBB YE2025, else AIESH/REW if YE2025, else unused IGS/DSO/WZC/MRS/HVZ. Do NOT redo "
-                    "Wase Werkplaats/Groep INTRO Maatwerk/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/"
-                    "Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever/Anima*/emeis."
+                    "Tick 2184 after BWB Londerzeel YE2025 Medium (omzet JUMP 6.00m / pnl DROP -43% / "
+                    "bruto>omzet). Prefer leftover AGB/APB if JR2025 PDF live, else FARO if TRUE NBB YE2025, "
+                    "else AIESH/REW if YE2025, else unused IGS/DSO/WZC/MRS/HVZ. Do NOT redo BWB/"
+                    "Groep INTRO Maatwerk/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/"
+                    "Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever/Anima*/emeis."
                 ),
                 "blocked_gap_id": "",
                 "created_utc": UTC,
                 "updated_utc": UTC,
-                "notes": "spawned after tick2183 Wase Werkplaats; FARO/AIESH/REW still YE2024; next every-10 2190",
+                "notes": "spawned after tick2183 BWB; FARO/AIESH/REW still YE2024; next every-10 2190",
             }
         )
         print("SPAWN rq_2184")
@@ -108,8 +108,8 @@ def update_loop_state():
         "ticks_completed": "2183",
         "paused": "no",
         "notes": (
-            "tick2183 leftover WASE WERKPLAATS 0406.769.993 Medium (omzet JUMP 13.06m; "
-            "bruto 28.0m ≫ omzet; pnl LOSS improving -466k; equity DROP 10.63m; FTE JUMP 761.6; 4 VE Temse); "
+            "tick2183 leftover BWB 0407.642.104 Medium (omzet JUMP 6.00m; bruto 10.56m ≫ omzet; "
+            "pnl DROP 111k -43%; equity JUMP 7.12m; FTE JUMP 295.7; NACE 88.993; 1 VE Londerzeel); "
             "AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2184; next every-10 2190; continuous hole_fill"
         ),
     }
@@ -125,19 +125,19 @@ append_rows(
     [
         {
             "entity_id": ENTITY,
-            "name_nl": "Wase Werkplaats VZW (Temse / maatwerk)",
-            "name_fr": "Wase Werkplaats ASBL (Temse / travail adapté)",
-            "name_en": "Wase Werkplaats non-profit (Temse / sheltered workshop)",
+            "name_nl": "maatWERKbedrijf BWB VZW (Londerzeel / B.W. Bouchout)",
+            "name_fr": "maatWERKbedrijf BWB ASBL (Londerzeel / B.W. Bouchout)",
+            "name_en": "BWB sheltered workshop non-profit (Londerzeel)",
             "level": "parastatal",
             "parent_id": "sec_flanders",
             "community_language": "nl",
-            "website": "https://www.wasewerkplaats.be",
-            "foi_email": "boekhouding@wasewerkplaats.be",
-            "foi_postal": "Kapelanielaan 20, 9140 Temse",
+            "website": "https://maatwerkbedrijfbwb.be",
+            "foi_email": "info@maatwerkbedrijfbwb.be",
+            "foi_postal": "Nijverheidsstraat 15/2, 1840 Londerzeel",
             "notes": (
-                "tick2183 YE2025 Medium CW NL+EN+FR + Strong KBO 0406.769.993 Actief VZW 4 VE "
-                "RSZ NACE 88.993; omzet JUMP 13059679 bruto JUMP 27984893 (≫omzet) pnl LOSS improving "
-                "-465728 equity DROP 10625410 FTE JUMP 761.6; neerlegging 19.06.2026; assets/debt Unknown; "
+                "tick2183 YE2025 Medium CW NL+EN+FR + Strong KBO 0407.642.104 Actief VZW 1 VE "
+                "NACE 88.993; omzet JUMP 6000571 bruto DROP 10555433 (≫omzet) pnl DROP 110515 "
+                "equity JUMP 7121604 FTE JUMP 295.7; neerlegging 21.07.2026; assets/debt Unknown; "
                 f"FOI {GAP}; preferred AGB Bornem JR2024; FARO/AIESH/REW YE2024; not TE-additive of 348bn"
             ),
         }
@@ -148,62 +148,59 @@ append_rows(
     DATA / "sources.csv",
     [
         {
-            "source_id": "src_wase_werkplaats_jr2025_cw_nl",
-            "title": "Companyweb NL Wase Werkplaats YE2025 statutory",
-            "url": "https://www.companyweb.be/nl/0406769993/wase-werkplaats",
+            "source_id": "src_bwb_jr2025_cw_nl",
+            "title": "Companyweb NL maatWERKbedrijf BWB YE2025 statutory",
+            "url": "https://www.companyweb.be/nl/0407642104/maatwerkbedrijf-bwb",
             "publisher": "Companyweb (NBB-derived)",
             "accessed_date": "2026-08-26",
             "source_class": "secondary_aggregator",
             "notes": (
-                "tick2183; YE2025 omzet JUMP 13059679 bruto 27984893 pnl LOSS improving -465728 "
-                "equity DROP 10625410 FTE JUMP 761.6; neerlegging 19.06.2026; "
+                "tick2183; YE2025 omzet JUMP 6000571 bruto 10555433 pnl DROP 110515 "
+                "equity JUMP 7121604 FTE JUMP 295.7; neerlegging 21.07.2026; "
                 "raw docs/doge/data/raw/tick2183/"
             ),
         },
         {
             "source_id": SRC_EN,
-            "title": "Companyweb EN Wase Werkplaats YE2025 statutory",
-            "url": "https://www.companyweb.be/en/0406769993/wase-werkplaats",
+            "title": "Companyweb EN maatWERKbedrijf BWB YE2025 statutory",
+            "url": "https://www.companyweb.be/en/0407642104/maatwerkbedrijf-bwb",
             "publisher": "Companyweb (NBB-derived)",
             "accessed_date": "2026-08-26",
             "source_class": "secondary_aggregator",
             "notes": (
-                "tick2183; EN mirror YE2025 Medium; filed 19-06-2026; Last balance sheet year 2025; "
-                "Turnover 13059679 Profit/Loss -465728 Equity 10625410 Employees 761.6"
+                "tick2183; EN mirror YE2025 Medium; filed 21-07-2026; Last balance sheet year 2025; "
+                "Turnover 6000571 Profit/Loss 110515 Equity 7121604 Employees 295.7"
             ),
         },
         {
-            "source_id": "src_wase_werkplaats_jr2025_cw_fr",
-            "title": "Companyweb FR Wase Werkplaats YE2025 statutory",
-            "url": "https://www.companyweb.be/fr/0406769993/wase-werkplaats",
+            "source_id": "src_bwb_jr2025_cw_fr",
+            "title": "Companyweb FR maatWERKbedrijf BWB YE2025 statutory",
+            "url": "https://www.companyweb.be/fr/0407642104",
             "publisher": "Companyweb (NBB-derived)",
             "accessed_date": "2026-08-26",
             "source_class": "secondary_aggregator",
             "notes": "tick2183; FR mirror YE2025 Medium; Dernier bilan 2025",
         },
         {
-            "source_id": "src_wase_werkplaats_kbo_2183",
-            "title": "KBO Wase Werkplaats 0406.769.993 Actief VZW Temse 4 VE",
-            "url": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0406769993",
+            "source_id": "src_bwb_kbo_2183",
+            "title": "KBO maatWERKbedrijf BWB 0407.642.104 Actief VZW Londerzeel",
+            "url": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0407642104",
             "publisher": "KBO FOD Economie",
             "accessed_date": "2026-08-26",
             "source_class": "official_register",
             "notes": (
-                "tick2183; Actief VZW; Kapelanielaan 20 9140 Temse; 4 VE; RSZ NACE 88.993; "
-                "aannemer erkenning; KBO email empty"
+                "tick2183; Actief VZW; Nijverheidsstraat 15 bus 2 1840 Londerzeel; 1 VE; "
+                "NACE 88.993; afkorting B.W. Bouchout; KBO email empty"
             ),
         },
         {
-            "source_id": "src_wase_werkplaats_foi_contact_2183",
-            "title": "Wase Werkplaats FOI channel boekhouding@wasewerkplaats.be",
-            "url": "https://www.wasewerkplaats.be/nl/contact",
-            "publisher": "Wase Werkplaats",
+            "source_id": "src_bwb_foi_contact_2183",
+            "title": "BWB FOI channel info@maatwerkbedrijfbwb.be",
+            "url": "https://maatwerkbedrijfbwb.be/",
+            "publisher": "maatWERKbedrijf BWB VZW",
             "accessed_date": "2026-08-26",
             "source_class": "foi_contact",
-            "notes": (
-                "tick2183; boekhouding@wasewerkplaats.be; also info@wasewerkplaats.be (Sociale Kaart); "
-                "+32 3 710 95 12; Kapelanielaan 20 9140 Temse"
-            ),
+            "notes": "tick2183; info@maatwerkbedrijfbwb.be; 052 52 27 00; Nijverheidsstraat 15/2 1840 Londerzeel",
         },
     ],
 )
@@ -212,64 +209,64 @@ append_rows(
     DATA / "budgets.csv",
     [
         {
-            "budget_id": "bud_wase_werkplaats_omzet_jr2025_statutory",
+            "budget_id": "bud_bwb_omzet_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
-            "amount_eur": "13059679",
-            "amount_min_eur": "13059679",
-            "amount_max_eur": "13059679",
+            "amount_eur": "6000571",
+            "amount_min_eur": "6000571",
+            "amount_max_eur": "6000571",
             "basis": "CW statutory omzet / Turnover YE2025",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "notes": "tick2183; Medium CW; omzet JUMP +7.58% vs YE2024 12139158",
+            "notes": "tick2183; Medium CW; omzet JUMP +6.84% vs YE2024 5616428",
         },
         {
-            "budget_id": "bud_wase_werkplaats_bruto_jr2025_statutory",
+            "budget_id": "bud_bwb_bruto_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
-            "amount_eur": "27984893",
-            "amount_min_eur": "27984893",
-            "amount_max_eur": "27984893",
+            "amount_eur": "10555433",
+            "amount_min_eur": "10555433",
+            "amount_max_eur": "10555433",
             "basis": "CW statutory bruto_marge / Gross margin YE2025",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "notes": "tick2183; Medium CW; bruto JUMP +7.68% vs YE2024 25989822; bruto≫omzet",
+            "notes": "tick2183; Medium CW; bruto DROP -2.64% vs YE2024 10841610; bruto≫omzet",
         },
         {
-            "budget_id": "bud_wase_werkplaats_pnl_jr2025_statutory",
+            "budget_id": "bud_bwb_pnl_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
-            "amount_eur": "-465728",
-            "amount_min_eur": "-465728",
-            "amount_max_eur": "-465728",
+            "amount_eur": "110515",
+            "amount_min_eur": "110515",
+            "amount_max_eur": "110515",
             "basis": "CW statutory winst / Profit-Loss after tax YE2025",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "notes": "tick2183; Medium CW; pnl LOSS improving 68.1% vs YE2024 -1459915",
+            "notes": "tick2183; Medium CW; pnl DROP -43.18% vs YE2024 194484",
         },
         {
-            "budget_id": "bud_wase_werkplaats_equity_jr2025_statutory",
+            "budget_id": "bud_bwb_equity_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
-            "amount_eur": "10625410",
-            "amount_min_eur": "10625410",
-            "amount_max_eur": "10625410",
+            "amount_eur": "7121604",
+            "amount_min_eur": "7121604",
+            "amount_max_eur": "7121604",
             "basis": "CW statutory eigen_vermogen / Equity YE2025",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "notes": "tick2183; Medium CW; equity DROP -3.93% vs YE2024 11059719",
+            "notes": "tick2183; Medium CW; equity JUMP +1.28% vs YE2024 7031483",
         },
         {
-            "budget_id": "bud_wase_werkplaats_fte_jr2025_statutory",
+            "budget_id": "bud_bwb_fte_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
-            "amount_eur": "761.6",
-            "amount_min_eur": "761.6",
-            "amount_max_eur": "761.6",
-            "basis": "CW social-balance FTE / Employees 761.6",
+            "amount_eur": "295.7",
+            "amount_min_eur": "295.7",
+            "amount_max_eur": "295.7",
+            "basis": "CW social-balance FTE / Employees 295.7",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "notes": "tick2183; Medium CW; FTE JUMP vs YE2024 743.2; assets/debt Unknown",
+            "notes": "tick2183; Medium CW; FTE JUMP vs YE2024 288.5; assets/debt Unknown",
         },
     ],
 )
@@ -280,36 +277,35 @@ append_rows(
         {
             "commitment_id": COMM,
             "title": (
-                "Wase Werkplaats YE2025 leftover dual "
-                "(omzet JUMP 13.06m / bruto 28m ≫ omzet / pnl LOSS improving)"
+                "BWB Londerzeel YE2025 leftover dual "
+                "(omzet JUMP 6.00m / pnl DROP -43% / bruto>omzet)"
             ),
             "entity_id": ENTITY,
-            "beneficiary": "maatwerkers / social-economy clients Waasland multi-site",
-            "legal_basis": "VZW maatwerk (KBO 0406.769.993; Actief; 4 VE; RSZ NACE 88.993)",
-            "decision_date": "2026-06-19",
+            "beneficiary": "maatwerkers / social-economy clients Vlaams-Brabant Londerzeel",
+            "legal_basis": "VZW maatwerk (KBO 0407.642.104; Actief; 1 VE; NACE 88.993)",
+            "decision_date": "2026-07-21",
             "start_year": "2025",
             "end_year": "2025",
-            "total_envelope_eur": "13059679",
+            "total_envelope_eur": "6000571",
             "cash_by_year": (
-                '{"2025_omzet":13059679,"2025_bruto":27984893,"2025_pnl":-465728,"2025_equity":10625410,'
-                '"2025_fte":761.6,"2024_omzet":12139158,"2024_bruto":25989822,"2024_pnl":-1459915,'
-                '"2024_equity":11059719,"2024_fte":743.2}'
+                '{"2025_omzet":6000571,"2025_bruto":10555433,"2025_pnl":110515,"2025_equity":7121604,'
+                '"2025_fte":295.7,"2024_omzet":5616428,"2024_bruto":10841610,"2024_pnl":194484,'
+                '"2024_equity":7031483,"2024_fte":288.5}'
             ),
             "remaining_eur": "0",
             "status": "active",
-            "evaluation_url": "https://www.companyweb.be/en/0406769993/wase-werkplaats",
+            "evaluation_url": "https://www.companyweb.be/en/0407642104/maatwerkbedrijf-bwb",
             "stated_goal": "Sheltered employment / maatwerk for hard-to-place workers",
             "cut_option": (
                 "Publish NBB PDF assets/debt FOI; disclose loonkostsubsidie matrix behind bruto≫omzet; "
-                "map multi-year loss path despite FTE JUMP"
+                "explain pnl DROP with omzet+FTE JUMP"
             ),
             "source_id": SRC_EN,
             "confidence": "medium",
-            "hierarchy_path": "Vlaanderen>Waasland>Temse>WaseWerkplaats>JR2025_statutory_L5",
+            "hierarchy_path": "Vlaanderen>VlaamsBrabant>Londerzeel>BWB>JR2025_statutory_L5",
             "notes": (
-                "tick2183; Medium CW; omzet primary envelope; bruto≫omzet; pnl LOSS improving; "
-                "FTE JUMP with equity DROP; assets/debt Unknown; preferred AGB Bornem JR2024; "
-                "FARO/AIESH/REW YE2024; not TE-additive"
+                "tick2183; Medium CW; omzet primary envelope; bruto≫omzet; pnl DROP primary absurdity; "
+                "assets/debt Unknown; preferred AGB Bornem JR2024; FARO/AIESH/REW YE2024; not TE-additive"
             ),
         }
     ],
@@ -320,34 +316,34 @@ append_rows(
     [
         {
             "item_id": LB,
-            "name": "Wase Werkplaats omzet JUMP 13.06m / bruto 28m ≫ omzet / pnl LOSS improving (YE2025)",
+            "name": "BWB omzet JUMP 6.00m / pnl DROP -43% / bruto>omzet (YE2025)",
             "level": "L5",
             "type": "maatwerk_vzw_statutory",
-            "hierarchy_path": "Vlaanderen>Waasland>Temse>WaseWerkplaats>JR2025",
-            "annual_cost_eur": "13059679",
-            "total_cost_eur": "13059679",
+            "hierarchy_path": "Vlaanderen>VlaamsBrabant>Londerzeel>BWB>JR2025",
+            "annual_cost_eur": "6000571",
+            "total_cost_eur": "6000571",
             "tco_notes": (
-                "CW omzet JUMP envelope 13.06m / bruto 28.0m ≫ omzet / pnl LOSS improving -466k / "
-                "equity DROP 10.63m / FTE JUMP 761.6; 4 VE; wage-cost subsidies opaque; assets/debt Unknown pending NBB PDF"
+                "CW omzet JUMP envelope 6.00m / bruto 10.56m ≫ omzet / pnl DROP 111k -43% / "
+                "equity 7.12m / FTE JUMP 295.7; wage-cost subsidies opaque; assets/debt Unknown pending NBB PDF"
             ),
             "confidence": "medium",
             "source_id": SRC_EN,
-            "beneficiaries": "maatwerkers Waasland / public loonkostsubsidie path",
+            "beneficiaries": "maatwerkers Vlaams-Brabant / public loonkostsubsidie path",
             "stated_goal": "Sheltered employment maatwerk",
-            "measured_outcome": "omzet JUMP +7.6%; bruto JUMP +7.7%; pnl LOSS improving 68%; equity DROP; FTE JUMP",
-            "absurdity_score": "6.4",
-            "cost_score": "5.6",
+            "measured_outcome": "omzet JUMP +6.8%; bruto DROP -2.6%; pnl DROP -43%; FTE JUMP +2.5%",
+            "absurdity_score": "6.0",
+            "cost_score": "4.8",
             "difficulty": "3.0",
-            "priority_index": "6.0",
+            "priority_index": "5.4",
             "cut_proposal": (
-                "Publish NBB PDF assets/debt/cash FOI; disclose loonkostsubsidie/VDAB/ESF split; "
-                "map multi-year loss + FTE JUMP path"
+                "Publish NBB PDF assets/debt/cash FOI; disclose loonkostsubsidie/GESCO/ESF split; "
+                "explain pnl DROP with omzet+FTE JUMP"
             ),
             "status": "open",
             "struck_reason": "",
             "notes": (
                 f"tick2183; Medium CW; FOI {GAP}; stall FARO/AIESH/REW YE2024; "
-                "Waasland maatwerk dual after Groep INTRO"
+                "maatwerk dual after Groep INTRO/MAAAT"
             ),
         }
     ],
@@ -358,22 +354,22 @@ append_rows(
     [
         {
             "gap_id": GAP,
-            "hierarchy_path": "Vlaanderen>Waasland>Temse>WaseWerkplaats>NBB_PDF_assets_debt_bruto",
+            "hierarchy_path": "Vlaanderen>VlaamsBrabant>Londerzeel>BWB>NBB_PDF_assets_debt_pnl_drop",
             "entity_id": ENTITY,
             "what_is_missing": (
                 "NBB PDF jaarrekening YE2025 full (assets/debt LT-ST/cash/balanstotaal); "
-                "bruto EUR28.0m ≫ omzet EUR13.06m loonkostsubsidie/GESCO/ESF/VDAB matrix; "
-                "multi-year pnl LOSS path (-1.46m YE2024 → -0.47m YE2025) with FTE JUMP 743.2→761.6; "
-                "equity DROP path; per-VE / top-10 opdrachtgevers + aannemer recognition residual"
+                "pnl DROP EUR110515 (-43%) vs omzet JUMP +6.84% + FTE JUMP recon; "
+                "bruto EUR10.56m ≫ omzet EUR6.00m loonkostsubsidie/GESCO/ESF/VDAB matrix; "
+                "top-10 opdrachtgevers public vs private offtake"
             ),
             "why_it_matters": (
-                "Medium CW shows large Waasland maatwerk VZW with EUR13.06m omzet, subsidy-inflated bruto "
-                "EUR28.0m, persistent LOSS despite FTE JUMP — balanstotaal/assets/debt unpublished"
+                "Medium CW shows Londerzeel maatwerk VZW with omzet JUMP and FTE JUMP while pnl DROPs "
+                "43% under subsidy-inflated bruto — balanstotaal/assets/debt unpublished"
             ),
             "priority": "8",
-            "recipient_body": "Wase Werkplaats VZW",
-            "recipient_email": "boekhouding@wasewerkplaats.be",
-            "recipient_postal": "Kapelanielaan 20, 9140 Temse",
+            "recipient_body": "maatWERKbedrijf BWB VZW",
+            "recipient_email": "info@maatwerkbedrijfbwb.be",
+            "recipient_postal": "Nijverheidsstraat 15/2, 1840 Londerzeel",
             "draft_letter_path": f"docs/doge/foi/drafts/{GAP}.md",
             "status": "ready",
             "date_ready": "2026-08-26",
