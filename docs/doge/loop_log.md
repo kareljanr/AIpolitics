@@ -25656,3 +25656,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: progress+top10; sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.25); entities (+1 sc_le_saupont_bertrix); foi + draft gap_saupont_nbb_pdf_assets_debt_pnl_drop_51pct_fte_drop_eta_matrix_l5; rq_2250=done + rq_2251 open; loop_state ticks=2250; raw docs/doge/raw/tick2250/.
 - FOI: **ready not sent** (human-gated).
 - EVERY-10@**2250** done. Next: rq_2251 (AGB/FARO-if-YE2025 / AIESH-REW / unused Dauphins). Next every-10 **2260**.
+
+
+## Tick 2251 - 2026-08-27T04:55:00Z - rq_2251 Les Dauphins Gembloux (omzet 3.37m / pnl LOSS FLIP / bruto~1.27x / FTE 110.1 / Medium)
+
+- Unit: **rq_2251** leftover dual after **rq_2250 Le Saupont**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Dauphins Visé still **CW N/A**. Took named FREE Walloon ETA **Les Dauphins ASBL** YE2025 (KBO **0429.051.883**; Rue des Praules 13 Gembloux; **Actief** **2 VE**; NACE **88.993** AViQ). Do not redo Saupont/Serviplast/Jean Del'Cour/TRAVCO/Pilifs stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3370669** JUMP +1.23% vs YE2024 EUR3329859; bruto **EUR4274364** JUMP +4.16% (bruto≫omzet ~1.27x); pnl **EUR-44270** LOSS FLIP vs YE2024 profit EUR25835; equity **EUR3401876** DROP -1.64%; FTE **110.1**; neerlegging **02.07.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown. Medium. FOI via secretariat@lesdauphins.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.90); entities (+1 vzw_les_dauphins_gembloux); foi + draft gap_dauphins_gembloux_nbb_pdf_assets_debt_pnl_loss_flip_eta_matrix_l5; rq_2251=done + rq_2252 open; loop_state ticks=2251; raw docs/doge/data/raw/tick2251/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2250**; next **2260**). Next: rq_2252 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
