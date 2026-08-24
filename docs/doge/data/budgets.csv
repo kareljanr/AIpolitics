@@ -54158,3 +54158,7 @@ bud_de_branding_waak_bruto_jr2025_statutory,vzw_de_branding_waak_kuurne,2025,230
 bud_de_branding_waak_pnl_jr2025_statutory,vzw_de_branding_waak_kuurne,2025,717178,717178,717178,CW statutory pnl YE2025 DROP -20.88%,src_de_branding_waak_jr2025_cw_en,medium,tick2352
 bud_de_branding_waak_equity_jr2025_statutory,vzw_de_branding_waak_kuurne,2025,13121232,13121232,13121232,CW statutory equity YE2025 JUMP +4.29%,src_de_branding_waak_jr2025_cw_en,medium,tick2352
 bud_de_branding_waak_fte_jr2025_statutory,vzw_de_branding_waak_kuurne,2025,277.5,277.5,277.5,CW FTE JUMP 277.5,src_de_branding_waak_jr2025_cw_en,medium,tick2352; vs 263
+bud_mfc_combo_bruto_jr2025_statutory,vzw_mfc_combo_leuven,2025,4461186,4461186,4461186,CW statutory bruto_marge YE2025 JUMP +1.15% (omzet empty),src_mfc_combo_jr2025_cw_en,medium,tick2352; empty omzet; vs YE2024 4410405
+bud_mfc_combo_pnl_jr2025_statutory,vzw_mfc_combo_leuven,2025,37849,37849,37849,CW statutory winst/verlies YE2025 DROP -75.34%,src_mfc_combo_jr2025_cw_en,medium,tick2352; DROP vs YE2024 153514
+bud_mfc_combo_equity_jr2025_statutory,vzw_mfc_combo_leuven,2025,2597315,2597315,2597315,CW statutory eigen_vermogen YE2025 DROP -0.07%,src_mfc_combo_jr2025_cw_en,medium,tick2352; vs YE2024 2599092
+bud_mfc_combo_fte_jr2025_statutory,vzw_mfc_combo_leuven,2025,54.4,54.4,54.4,CW FTE 54.4,src_mfc_combo_jr2025_cw_en,medium,tick2352; vs YE2024 54.6

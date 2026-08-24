@@ -26846,3 +26846,16 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN+FR YE2025 - omzet **EUR3507384** JUMP +6.06%; bruto **EUR23068203** JUMP +11.19% (~**6.58x**); pnl **EUR717178** DROP -20.88%; equity **EUR13121232** JUMP +4.29%; FTE **277.5** JUMP; neerlegging **14.05.2026**. Strong KBO. Assets/debt Unknown. Medium.
 - Wrote: sources (+6); budgets (+5); commitments (+1); leaderboard (+1 pi 6.35); entities (+1); foi + draft `gap_de_branding_waak_nbb_pdf_assets_debt_bruto_gt_omzet_6_58x_pnl_drop_fte_jump_vaph_matrix_l5`; rq_2352=done + rq_2353 open; loop_state ticks=2352.
 - FOI: **ready not sent**. NOT every-10 (next **2360**). Next: rq_2353.
+
+### 2026-08-28T04:22:00Z — tick 2350 catch-up EVERY-10 (after Korenbloem@2351 / ticks drifted to 2352)
+
+- **EVERY-10 catch-up:** refreshed progress_every_10_ticks.md + doge_waste_top10_current.md (inventory from on-disk CSVs; FOI ready counted live).
+- Primary residual already closed: **rq_2351 De Korenbloem** YE2025 Medium (omzet 12.56m / pnl LOSS FLIP / FTE 175.9).
+- Next EVERY-10 **2360**. Next open: rq_2352 (in_progress LOCK by concurrent agent — do not steal).
+
+### 2026-08-24T20:15:00Z - tick 2352 - rq_2353 MFC Combo Leuven (empty omzet / bruto JUMP 4.46m / pnl DROP -75% / FTE 54.4 / Medium)
+
+- Unit: **rq_2353** leftover dual after Korenbloem@2351. Prefer NON-stall AGB/FARO YE2024. Took FREE Flemish VAPH/jeugdhulp **MFC Combo VZW** YE2025 (KBO **0839.782.745**; Parkstraat 185, 3000 Leuven; **Actief** **7 VE**; RSZ **87.991**; info@mfccombo.be). Do not redo Korenbloem/Leieborg/Helan/Staf/De Ark stack.
+- Found: CW NL+EN+FR — omzet **empty**; bruto **EUR4461186** JUMP +1.15%; pnl **EUR37849** DROP -75.34%; equity **EUR2597315**; FTE **54.4**; neerlegging **10.06.2026**. Strong KBO. Assets/debt Unknown. Medium.
+- Wrote: sources(+5) budgets(+4) commitments(+1) leaderboard(+1 pi 5.17) entities(+1) foi+draft; rq_2353=done + rq_2354 open; ticks=2352.
+- FOI: **ready not sent**. NOT every-10 (next **2360**). Next: rq_2354.
