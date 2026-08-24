@@ -24175,3 +24175,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.0); entities (+1 sa_rsw_residence_seniors_westland); foi + draft gap_rsw_nbb_pdf_assets_debt_pnl_flip_loss_equity_drop_matrix_l5; rq_2124=done + rq_2125 open; loop_state ticks=2124; raw docs/doge/data/raw/tick2124/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2120**; next **2130**). Next: rq_2125 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+## Tick 2124 - 2026-08-25T11:25:00Z - rq_2124 Residence Le Castel Ham-sur-Heure (bruto JUMP 3.76m / pnl JUMP +79% / equity DROP -30% / Medium)
+
+- Unit: **rq_2124** leftover dual after **rq_2123 Home Sebrechts**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Residence Le Castel NV** YE2025 (KBO **0462.316.153**; Allee des Ecureuils 60 Ham-sur-Heure; **NV/SA** NACE **87.301** / **1 VE**). Do not redo Home Sebrechts/Unite/'t Buurthuis/Le Bosquet/Strebo/Entraide/Armonea/RSW.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR3764669** JUMP +10.78% (primary); pnl **EUR426911** JUMP +78.73%; equity **EUR1129091** DROP -29.53%; FTE **44.9** DROP vs 46.6; neerlegging **23.06.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@residencelecastel.be.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 6.1); entities (+1 nv_residence_le_castel); foi + draft gap_le_castel_nbb_pdf_assets_debt_pnl_jump_equity_drop_matrix_l5; rq_2124=done + rq_2125 open; loop_state ticks=2124; raw docs/doge/data/raw/tick2124/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (last **2120**; next **2130**). Next: rq_2125 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+

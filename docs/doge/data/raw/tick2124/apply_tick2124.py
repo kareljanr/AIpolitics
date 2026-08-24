@@ -53,7 +53,16 @@ for s in [
         "publisher": "KBO FOD Economie",
         "accessed_date": "2026-08-25",
         "source_class": "official_register",
-        "notes": "tick2124; Actief NV/SA; Allee des Ecureuils(HSH) 60 6120 Ham-sur-Heure-Nalinnes; 1 VE; NACE 87.301; kapitaal 62000; bestuurders Beelen Stephanie + Vallery Benedicte sinds 28.03.2025; email/web empty",
+        "notes": "tick2124; Actief NV/SA; Allee des Ecureuils(HSH) 60 6120 Ham-sur-Heure-Nalinnes; 1 VE; NACE 87.301; kapitaal 62000; bestuurders Beelen Stephanie + Vallery Benedicte sinds 28.03.2025; email/web empty in KBO",
+    },
+    {
+        "source_id": "src_le_castel_contact_2124",
+        "title": "Residence Le Castel FOI contact info@residencelecastel.be (Hainaut DI)",
+        "url": "https://websoc.hainaut.be/DI00296.htm",
+        "publisher": "Province de Hainaut / websoc",
+        "accessed_date": "2026-08-25",
+        "source_class": "official_register",
+        "notes": "tick2124; Tel 071/214394; Mail info@residencelecastel.be; siege Allee des Ecureuils 60 6120 Ham-sur-Heure",
     },
 ]:
     append_csv("docs/doge/data/sources.csv", s)
