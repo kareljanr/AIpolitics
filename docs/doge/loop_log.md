@@ -26605,3 +26605,10 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN+FR YE2025 — omzet **EUR1683253** JUMP +4.55%; bruto **EUR11487628** JUMP +8% (~**6.82x**); pnl **EUR470626** JUMP +26.88%; equity **EUR8134829** JUMP +6.19%; FTE **134.9**; neerlegging **16.06.2026**. Strong KBO. Assets/debt Unknown. Medium. FOI via info@mivalti.be.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.95); entities (+1 vzw_mivalti_tielt); foi + draft gap_mivalti_*; rq_2327=done + rq_2328 open; loop_state ticks=2327.
 - FOI: **ready not sent**. NOT every-10 (next **2330**). Next: rq_2328.
+
+### 2026-08-28T00:45:00Z - tick 2329 - rq_2329 Mivalti Tielt (omzet JUMP 1.68m / bruto~6.82x / pnl JUMP / FTE 134.9 / Medium)
+
+- Unit: **rq_2329** leftover dual after **rq_2328 Het Eepos**. Prefer NON-stall: AGB Bornem JR2024; FARO/AIESH/Aralea YE2024. Took FREE Flemish VAPH **Mivalti VZW** YE2025 (KBO **0416.406.548**; Gruuthusestraat 36 Tielt; **Actief** **2 VE**; RSZ **87.202**).
+- Found: CW NL+EN+FR YE2025 — omzet **EUR1683253** JUMP +4.55%; bruto **EUR11487628** JUMP +8% (~**6.82x**); pnl **EUR470626** JUMP +26.88%; equity **EUR8134829** JUMP +6.19%; FTE **134.9**; neerlegging **16.06.2026**. Strong KBO. Assets/debt Unknown. Medium. FOI info@mivalti.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.95); entities (+1); foi ready; rq_2329=done + rq_2330 open (EVERY-10 next); loop_state=2329.
+- FOI: **ready not sent**. Next EVERY-10 **2330**. Next: rq_2330.
