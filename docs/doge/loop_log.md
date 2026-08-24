@@ -25815,3 +25815,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.25); entities (+1 vzw_brochage_renaitre_evere); foi + draft gap_renaitre_nbb_pdf_assets_debt_bruto_gt_omzet_1_78x_pnl_loss_widen_eta_matrix_l5; rq_2266=done + rq_2267 open; loop_state ticks=2266; raw docs/doge/raw/tick2266/ + data/raw/tick2266/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2260**; next **2270**). Next: rq_2267 (AGB/FARO-if-YE2025 / AIESH-REW / APRE YE2025).
+
+
+
+### 2026-08-27T08:55:00Z - tick 2267 - rq_2267 APRE Forest/Vorst (bruto DROP 2.02m / empty omzet / pnl PROFIT FLIP / FTE 95.7 / Medium)
+
+- Unit: **rq_2267** leftover dual after **rq_2266 Brochage Renaitre**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024** (0201.712.587); REW still **YE2024**; Heropbeuring still **CW opaque**; Relais Haute Sambre/APN still **YE2024**. Took named FREE Brussels ETA **APRE ASBL** YE2025 (KBO **0407.598.354**; Neerstalse Steenweg 178 Vorst; **Actief** **1 VE**; NACE **88.999** PHARE / epilepsy adapted work). Do not redo Renaitre/Stallbois/Sipres/La Lorraine/BW Eupen/AJR/Alteria stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR2015380** DROP -3.8% vs YE2024 EUR2094904; pnl **EUR112223** PROFIT FLIP +443.61% vs YE2024 EUR-32660; equity **EUR716631** JUMP +5.44%; FTE **95.7** (-4.2% vs 99.9); neerlegging **29.07.2026**. Strong KBO Actief 1 VE ASBL. Assets/debt Unknown. Medium. FOI via contact@apreservices.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.60); entities (+1 vzw_apre_forest); foi + draft gap_apre_nbb_pdf_assets_debt_empty_omzet_pnl_profit_flip_eta_matrix_l5; rq_2267=done + rq_2268 open; loop_state ticks=2267; raw docs/doge/raw/tick2267/ + data/raw/tick2267/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2260**; next **2270**). Next: rq_2268 (AGB/FARO-if-YE2025 / AIESH-REW / unused ETA-VAPH-WZC-maatwerk).
