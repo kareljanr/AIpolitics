@@ -24504,3 +24504,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 this tick (**last every-10 was 2150**; next **2160** — MUST refresh progress + top10 then hole-fill). Next: rq_2160 EVERY-10 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros).
 
+## Tick 2160 - 2026-08-25T23:20:00Z - rq_2160 EVERY-10 Foyer De Lork (omzet JUMP 153.5m / pnl LOSS -1.74m / equity DROP -15% / Medium)
+
+- Unit: **rq_2160** EVERY-10 + leftover dual after **rq_2159 Lindeboom / HERTOG JAN race**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Foyer De Lork VZW** YE2025 (KBO **0446.022.331**; Hazenhout 1D Geel; **VZW** NACE **87.101/87.301** / **34 VE**; Limburg-belt zorgkoepel). Deferred live unused **Woonzorgnet-Dijleland** 0500.952.540 YE2025. Do not redo Lindeboom/HERTOG JAN/Epinette/Parc de Forest/Le Hanois/Eycken Brug/Sint-Felix/Annuntiaten/HVZ stack/De Linde Lievegem/Huize Sint-Jozef Ieper/Ocura/Ninove.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR153485994** JUMP +7.28%; bruto **EUR108293805** JUMP +5.58%; pnl **EUR-1743649** LOSS narrowed vs YE2024 LOSS EUR-3476500; equity **EUR10310740** DROP -15.09%; FTE **1540.9**; neerlegging **28.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@foyerdelork.be (KBO email empty; site 503; tel 014/25 77 25).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.1); entities (+1 vzw_foyer_de_lork_geel); foi + draft gap_foyer_de_lork_nbb_pdf_assets_debt_pnl_loss_equity_drop_persite_matrix_l5; **progress_every_10_ticks.md + doge_waste_top10_current.md refreshed**; rq_2160=done + rq_2161 open; loop_state ticks=2160; raw docs/doge/data/raw/tick2160/.
+- FOI: **ready not sent** (human-gated).
+- **EVERY-10@2160** (last was 2150; **next 2170**). Pure annual top10 stable (GIP/fossil/cars/cheque). Next: rq_2161 (AGB/FARO-if-YE2025 / AIESH-REW / WZND-if-unused / unused IGS-DSO-WZC-MRS).
+
