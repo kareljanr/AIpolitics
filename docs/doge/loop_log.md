@@ -24134,3 +24134,21 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - EVERY-10 done (last **2110**; next **2130**). Next: rq_2121 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
 
+
+
+## Tick 2121 - 2026-08-25T10:40:00Z - rq_2121 Unite Jolimont (bruto DROP 26.3k / pnl FLIP 11.1k / FTE Micro 0 / Medium)
+
+- Unit: **rq_2121** leftover dual after **rq_2120 Le Bosquet**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Unite Jolimont** YE2025 (KBO **0748.968.276**; Rue Ferrer(PAU) 159 La Louviere; **ASBL** NACE **87.101/86.109/88.911** / **0 VE**; aanbestedende overheid; Jolimont hospital-MRS wind-down). Do not redo Le Bosquet/Strebo/Entraide/La Charmille/Charmilles/Sittelles/Buissons/Residence 3/Elisabeth Aan Zee/XXe Aout/Ninove.
+- Found: Companyweb NL+EN+FR YE2025 - bruto **EUR26298** DROP -98.14% vs YE2024 EUR1415916; pnl **EUR11109** FLIP from YE2024 LOSS EUR-327626; equity **EUR78367** JUMP +16.52%; omzet YE2025 **unpublished** (YE2024 EUR1510548); FTE **Micro 0** (was 13.7); neerlegging **26.06.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via secretariat.general@jolimont.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.8); entities (+1 asbl_unite_jolimont); foi + draft gap_unite_jolimont_nbb_pdf_assets_debt_winddown_bruto_drop_pnl_flip_matrix_l5; rq_2121=done + rq_2122 open; loop_state ticks=2121; raw docs/doge/data/raw/tick2121/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2120**; next **2130**). Next: rq_2122 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+## Tick 2121 - 2026-08-25T10:40:00Z - rq_2121 't Buurthuis Uccle (ops emptied / equity NEG 16.71m / last omzet 8.46m / Medium)
+
+- Unit: **rq_2121** leftover dual after **rq_2120 Le Bosquet**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **VZW 't Buurthuis** YE2025 (KBO **0435.565.236**; Alsembergsesteenweg 1037 Uccle; **VZW** NACE **87.301** / **0 VE**; emeis Belgium bestuurder **0887.690.451** path). Do not redo Le Bosquet/Strebo/Entraide/La Charmille/emeis holding.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished** (YE2024 last ops **EUR8462461**); bruto **EUR-3557**; pnl **EUR-3557** near-zero vs YE2024 LOSS EUR-4030069; equity **NEG EUR-16709239**; FTE **empty** (YE2024 102.3); neerlegging **08.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via senior.westland@emeis.com. RSW SA deferred.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.1); entities (+1 vzw_t_buurthuis_uccle); foi + draft gap_buurthuis_nbb_pdf_assets_debt_ops_empty_neg_equity_matrix_l5; rq_2121=done + rq_2122 open; loop_state ticks=2121; raw docs/doge/data/raw/tick2121/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (last **2120**; next **2130**). Next: rq_2122 (AGB/FARO-if-YE2025 / AIESH-REW / RSW / unused IGS-DSO-WZC-MRS).
+
