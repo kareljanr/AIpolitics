@@ -1,0 +1,13 @@
+{
+  "tick": "2281",
+  "unit": "rq_2281",
+  "entity": "vzw_ateliers_du_94_la_louviere",
+  "kbo": "0407.601.522",
+  "omzet": null,
+  "bruto": 2561027,
+  "pnl": -23078,
+  "equity": 4030267,
+  "fte": 30.8,
+  "confidence": "medium",
+  "gap": "gap_a94_nbb_pdf_assets_debt_empty_omzet_bruto_2_56m_pnl_loss_flip_eta_care_matrix_l5"
+}
