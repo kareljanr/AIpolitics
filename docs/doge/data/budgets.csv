@@ -54143,3 +54143,8 @@ bud_helan_hh_bruto_jr2025_statutory,vzw_helan_huishoudhulp_antwerpen,2025,109290
 bud_helan_hh_pnl_jr2025_statutory,vzw_helan_huishoudhulp_antwerpen,2025,1107433,1107433,1107433,CW pnl YE2025 JUMP +690%,src_helan_hh_jr2025_cw_en,medium,tick2349; Medium CW
 bud_helan_hh_equity_jr2025_statutory,vzw_helan_huishoudhulp_antwerpen,2025,9642741,9642741,9642741,CW equity YE2025 JUMP,src_helan_hh_jr2025_cw_en,medium,tick2349; Medium CW
 bud_helan_hh_fte_jr2025_statutory,vzw_helan_huishoudhulp_antwerpen,2025,2809.4,2809.4,2809.4,CW FTE YE2025 JUMP,src_helan_hh_jr2025_cw_en,medium,tick2349; Medium CW
+bud_leieborg_omzet_jr2025_statutory,vzw_leieborg_deinze,2025,4261838,4261838,4261838,CW statutory omzet YE2025 JUMP +10.31%,src_leieborg_jr2025_cw_en,medium,tick2347; +10.31% vs 3863394
+bud_leieborg_bruto_jr2025_statutory,vzw_leieborg_deinze,2025,39202304,39202304,39202304,CW statutory bruto_marge YE2025 ~9.2x omzet,src_leieborg_jr2025_cw_en,medium,tick2347; +8.39% vs 36167501; ~9.2x
+bud_leieborg_pnl_jr2025_statutory,vzw_leieborg_deinze,2025,1955277,1955277,1955277,CW statutory winst/verlies YE2025 JUMP +121%,src_leieborg_jr2025_cw_en,medium,tick2347; JUMP vs 884034
+bud_leieborg_equity_jr2025_statutory,vzw_leieborg_deinze,2025,27357675,27357675,27357675,CW statutory eigen_vermogen YE2025 JUMP,src_leieborg_jr2025_cw_en,medium,tick2347; +6.72% vs 25634305
+bud_leieborg_fte_jr2025_statutory,vzw_leieborg_deinze,2025,468.6,468.6,468.6,CW FTE 468.6,src_leieborg_jr2025_cw_en,medium,tick2347; JUMP vs 453.9

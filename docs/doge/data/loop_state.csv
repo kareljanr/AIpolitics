@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T19:55:00Z,rq_2349,2349,no,tick2349 leftover dual Helan Huishoudhulp 0877.059.944 Medium (omzet JUMP 115152498; pnl JUMP 1107433 +690%; FTE 2809.4); next rq_2350; next EVERY-10 2350
+main,continuous,hole_fill,2026-08-24T19:45:00Z,rq_2350,2347,no,tick2347 leftover dual Leieborg 0418.832.835 Medium (omzet 4261838; bruto 39202304 ~9.2x; pnl JUMP 1955277; equity 27357675; FTE 468.6; 8 VE Aanbestedende RSZ 87.201); closed stuck Staf rq_2346; AGB/FARO YE2024; next rq_2351; next EVERY-10 2350

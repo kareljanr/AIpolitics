@@ -26818,3 +26818,10 @@ Append-only. Each tick adds a short entry.
 - Unit: **rq_2349** FREE Helan Huishoudhulp YE2025 KBO 0877.059.944 dienstencheques.
 - Found: omzet EUR115152498 (+13%); bruto EUR109290854; pnl EUR1107433 (+690.65%); equity EUR9642741; FTE 2809.4; filed 25.06.2026. Medium.
 - Wrote CSVs+FOI ready not sent; next rq_2350; EVERY-10 next 2350.
+
+### 2026-08-24T19:45:00Z - tick 2347 - rq_2350 Leieborg Deinze (bruto JUMP 39.20m / ~9.2x omzet / pnl JUMP +121% / FTE 468.6 / Medium)
+
+- Unit: **rq_2350** leftover dual after De Korenbloem@2346 (also closed stuck **rq_2346 Staf in_progress**). Prefer NON-stall AGB/FARO YE2024. Took FREE VAPH **Leieborg VZW** YE2025 (KBO **0418.832.835**; Leernsesteenweg 53, 9800 Deinze; 8 VE Aanbestedende; RSZ 87.201; info@leieborg.be).
+- Found: CW NL+EN — omzet **EUR4261838**; bruto **EUR39202304** (~**9.2x**); pnl **EUR1955277** JUMP +121%; equity **EUR27357675**; FTE **468.6**; filed **2026-06-24**. Medium. Assets/debt Unknown.
+- Wrote: sources(+5) budgets(+5) commitments(+1) leaderboard(+1 pi 6.85) entities(+1) foi+draft; closed rq_2346; rq_2350=done + rq_2351 open; ticks=2347.
+- FOI: **ready not sent**. NOT every-10 (next **2350**). Next: rq_2351.
