@@ -24227,3 +24227,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: fixed rq_2126 entity→srl_slg_wallonie; rq_2128=done Fakkel + rq_2129 open; loop_state ticks=2128; FOI draft + raw tick2126 restored; sources/budgets/commitments/leaderboard/entities already present.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2120**; next **2130**). Next: rq_2129 (AGB/FARO-if-YE2025 / AIESH-REW / Restel Flats / unused IGS-DSO-WZC-MRS).
+
+## Tick 2129 - 2026-08-25T13:10:00Z - rq_2129 MPC Sint-Franciscus Roosdaal (bruto JUMP 29.41m / pnl DROP −22% / Medium)
+
+- Unit: **rq_2129** leftover dual after **rq_2128 Zorghome De Fakkel** (race: concurrent took 2128). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **MPC Sint-Franciscus VZW** YE2025 (KBO **0415.850.084**; Lostraat 175 Roosdaal; **VZW** NACE **87.201** / **8 VE**; VAPH disability residential; aanbestedende overheid). Do not redo De Fakkel/Château Vert/SLG Wallonie/Famifamenne/PC Gent-Sleidinge/Begralim Tongeren campus.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2011499** JUMP +6.09%; bruto **EUR29406881** JUMP +6.6% (primary); pnl **EUR1170348** DROP -21.56%; equity **EUR16535902** JUMP +5.41%; FTE **365.1** JUMP vs 347.7; neerlegging **16.06.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@mpc-sintfranciscus.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.4); entities (+1 vzw_mpc_sint_franciscus_roosdaal); foi + draft gap_mpc_sint_franciscus_nbb_pdf_assets_debt_pnl_drop_bruto_matrix_l5; rq_2129=done + rq_2130 open EVERY-10; loop_state ticks=2129; raw docs/doge/data/raw/tick2128/mpc_*.html.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 this tick (**next rq_2130=2130 EVERY-10**). Next: rq_2130 (progress+top10 + AGB/FARO-if-YE2025 / AIESH-REW / unused).
