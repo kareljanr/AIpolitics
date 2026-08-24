@@ -25009,3 +25009,6 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.5); entities (+1 vzw_mwp_pajottenland); foi + draft gap_mwp_pajottenland_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_jump_matrix_l5; rq_2201=done + rq_2202 open; loop_state ticks=2201; raw docs/doge/data/raw/tick2201/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2202 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
+### 2026-08-26T13:05:00Z — tick 2201 race note
+- Concurrent agent also closed rq_2201 as De Winning Lummen (273bfda2) before/with MWP (e6e687bc). Both YE2025 Medium units kept. rq_2202 open head updated; do not redo either. Next every-10 still 2210.
