@@ -24453,3 +24453,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2150**; next **2160**). Next: rq_2156 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros; prefer sourced € over opaque ZS).
 
+
+## Tick 2156 - 2026-08-25T22:00:00Z - rq_2156 MRS Le Hanois Fontaine-l'Évêque (bruto JUMP 2.47m / omzet empty / Belle Chasse absorbed / Medium)
+
+- Unit: **rq_2156** leftover dual after **rq_2155 WZC d'Eycken Brug Bierbeek**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Skipped deferred opaque ZS Hainaut-Est 0500.915.819 (FTE 200, same opacity class). Took unused leftover **Maison de Repos et de Soins Le Hanois BV** YE2025 (KBO **0421.479.153**; Rue du Hanois 1 Fontaine-l'Évêque; **BV/SRL** NACE **87.301** / **2 VE**; absorbed Château Belle Chasse **0454.971.669** since **28.01.2026**). Do not redo Eycken Brug/Sint-Felix/Brabant wallon/Vesdre/Annuntiaten/Val de Sambre/HEMECO/WAPI/Hesbaye/Hainaut-Centre/Dinaphi/Zonnelied/Care-Ion/Groep SF/Solidum stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR2472077** JUMP +5.84% vs YE2024 EUR2335656; pnl **EUR53631** JUMP +1.23%; equity **EUR3383175** JUMP +1.61%; FTE **39** JUMP vs 37; neerlegging **28.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief BV 2 VE. FOI via direction@lehanois.be (+ info@bellechasse.be site).
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 bv_mrs_le_hanois_fontaine_leveque); foi + draft gap_le_hanois_nbb_pdf_assets_debt_omzet_empty_bellechasse_absorption_matrix_l5; rq_2156=done + rq_2157 open; loop_state ticks=2156; raw docs/doge/data/raw/tick2156/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2150**; next **2160**). Next: rq_2157 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS; Parc de Forest Ixelles 0452.587.548 YE2026 deferred).
+
