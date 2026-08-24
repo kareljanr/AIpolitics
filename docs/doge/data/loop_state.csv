@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T01:20:00Z,rq_2166,2166,no,tick2166 leftover Rusthuis Avondvrede 0446.506.836 Medium (omzet DROP 2.20m; pnl LOSS FLIP -26k; equity DROP 211k; FTE 22.4; 1 VE Anima Boechout); AGB Bornem JR2024; FARO/AIESH/REW YE2024; Anima hold FREE deferred; next rq_2167; next every-10 2170; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T01:40:00Z,rq_2167,2167,no,tick2167 leftover Anima NV hold 0469.969.453 Medium (omzet JUMP 2.45m; pnl JUMP 2.06m; equity JUMP 69.5m; FTE 1.2; NACE 64.210); AGB Bornem JR2024; FARO/AIESH/REW YE2024; Lork Hoeselt FREE deferred; next rq_2168; next every-10 2170; continuous hole_fill

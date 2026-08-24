@@ -24606,3 +24606,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2167 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS; optional Anima hold 0469.969.453).
 
+
+
+## Tick 2167 - 2026-08-26T01:40:00Z - rq_2167 Anima NV holding (omzet JUMP 2.45m / pnl JUMP 2.06m / equity 69.5m / Medium)
+
+- Unit: **rq_2167** leftover dual after **rq_2166 Avondvrede**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took named deferred unused leftover **Anima NV** holding YE2025 (KBO **0469.969.453**; Zandvoortstraat 27 Mechelen; **NV** NACE **64.210** / **1 VE**; commercial Anima Health & Care). Deferred FREE **Lork Hoeselt** BV. Do not redo Avondvrede/Anima Vlaanderen/t Hofke/Zorg-Saam/Sint-Bernardus De Panne/Ruggeveld/Salvator/Boterlaarhof/WZND/Foyer De Lork.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2446909** JUMP +31.47% vs YE2024 EUR1861143; bruto **EUR1328972** JUMP +46.32%; pnl **EUR2057209** JUMP +42.27%; equity **EUR69520927** JUMP +3.05%; FTE **1.2**; neerlegging **10.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief NV holding + KBO email info@animagroup.be. Contrast: Anima Vlaanderen LOSS + Avondvrede FLIP LOSS — related-party FOI.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.7); entities (+1 nv_anima); foi + draft gap_anima_hold_nbb_pdf_assets_debt_related_party_dividend_matrix_l5; rq_2167=done + rq_2168 open; loop_state ticks=2167; raw docs/doge/data/raw/tick2167/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2168 (AGB/FARO-if-YE2025 / AIESH-REW / Lork Hoeselt-if-unused / unused IGS-DSO-WZC-MRS).
