@@ -24380,3 +24380,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: FOI draft gap_zonnelied_nbb_pdf_assets_debt_bruto_vs_omzet_pnl_drop_matrix_l5 (CSV sources/budgets/commitments/leaderboard/entities/foi_queue already present from thrash); rq_2146=done + rq_2147 open; loop_state ticks=2146; raw docs/doge/data/raw/tick2144/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2140**; next **2150**). Next: rq_2147 (AGB/FARO-if-YE2025 / AIESH-REW / Hesbaye / unused IGS-DSO-WZC-MRS).
+
+## Tick 2147 - 2026-08-25T19:00:00Z - rq_2147 Zone de secours Hesbaye (FTE 20 / budget Unknown FOI / Medium)
+
+- Unit: **rq_2147** leftover dual after **rq_2146 Zonnelied**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took named deferred unused leftover **Zone de secours Hesbaye** (KBO **0500.916.512**; Rue Joseph Wauters 65 Hannut; **Hulpverleningszone** / **2 VE**; NACE **84.250**; aanbestedende overheid; 13 communes). Do not redo Zonnelied/Hainaut-Centre/Dinaphi/Care-Ion/Groep SF/Flemish HVZ stack.
+- Found: Strong KBO Actief + Medium CW FTE **20**; **no** CW/NBB YE kerncijfers (omzet/bruto/pnl/equity/budget **Unknown**). FOI via info@pompiershesbaye.be for comptes 2025 + budget 2026 + communal/federal dotations. No invented euros.
+- Wrote: sources (+5); budgets (+1 FTE-only); commitments (+1); leaderboard (+1 pi 4.9 opacity); entities (+1 zs_hesbaye); foi + draft gap_hesbaye_budget_jr2025_dotation_commune_fed_matrix_l5; rq_2147=done + rq_2148 open; loop_state ticks=2147; raw docs/doge/data/raw/tick2147/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2140**; next **2150**). Next: rq_2148 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
