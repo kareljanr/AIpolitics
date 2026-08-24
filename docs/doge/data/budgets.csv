@@ -53875,3 +53875,9 @@ bud_kompas_vaph_pnl_jr2025_statutory,vzw_kompas_vaph_gent,2025,1840636,,,statuto
 bud_kompas_vaph_equity_jr2025_statutory,vzw_kompas_vaph_gent,2025,7253636,,,statutory_accounts,src_kompas_vaph_jr2025_cw_en,medium,tick2304; equity JUMP +32.15%
 bud_kompas_vaph_fte_jr2025_statutory,vzw_kompas_vaph_gent,2025,253.9,,,statutory_accounts,src_kompas_vaph_jr2025_cw_en,medium,tick2304; FTE JUMP 253.9 vs 245.1
 bud_kompas_vaph_pnl_jr2024_statutory_cmp,vzw_kompas_vaph_gent,2024,1082122,,,statutory_accounts,src_kompas_vaph_jr2025_cw_en,medium,tick2304; YE2024 pnl cmp
+bud_levensvreugde_omzet_jr2025_statutory,vzw_levensvreugde_verblijven_aalst,2025,2133748,,,statutory_accounts,src_levensvreugde_jr2025_cw_en,medium,tick2304; Medium CW; omzet JUMP +5.8% vs YE2024 2016766
+bud_levensvreugde_bruto_jr2025_statutory,vzw_levensvreugde_verblijven_aalst,2025,12474923,,,statutory_accounts,src_levensvreugde_jr2025_cw_en,medium,tick2304; Medium CW; bruto JUMP +8.31% vs YE2024 11518261; bruto/omzet ~5.85x
+bud_levensvreugde_pnl_jr2025_statutory,vzw_levensvreugde_verblijven_aalst,2025,232887,,,statutory_accounts,src_levensvreugde_jr2025_cw_en,medium,tick2304; Medium CW; pnl JUMP +31.33% vs YE2024 177332
+bud_levensvreugde_equity_jr2025_statutory,vzw_levensvreugde_verblijven_aalst,2025,8353853,,,statutory_accounts,src_levensvreugde_jr2025_cw_en,medium,tick2304; Medium CW; equity JUMP +2.33% vs YE2024 8163688
+bud_levensvreugde_fte_jr2025_statutory,vzw_levensvreugde_verblijven_aalst,2025,161.8,,,statutory_accounts,src_levensvreugde_jr2025_cw_en,medium,tick2304; Medium CW; FTE JUMP 161.8 vs YE2024 155.6; assets/debt Unknown
+bud_levensvreugde_pnl_jr2024_statutory_cmp,vzw_levensvreugde_verblijven_aalst,2024,177332,,,statutory_accounts,src_levensvreugde_jr2025_cw_en,medium,tick2304; YE2024 pnl 177332 comparative

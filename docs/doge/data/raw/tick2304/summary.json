@@ -1,1 +1,14 @@
-{"tick":"2304","entity":"vzw_kompas_vaph_gent","bruto":22531340,"ratio":7.21,"confidence":"medium"}
+{
+  "tick": "2304",
+  "unit": "rq_2304",
+  "entity": "vzw_levensvreugde_verblijven_aalst",
+  "kbo": "0441.398.401",
+  "omzet": 2133748,
+  "bruto": 12474923,
+  "pnl": 232887,
+  "equity": 8353853,
+  "fte": 161.8,
+  "ratio_bruto_omzet": 5.85,
+  "confidence": "medium",
+  "gap": "gap_levensvreugde_nbb_pdf_assets_debt_bruto_gt_omzet_5_85x_pnl_jump_vaph_matrix_l5"
+}
