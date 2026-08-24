@@ -24496,3 +24496,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 this tick (**last every-10 was 2150**; **next rq_2160=2160 EVERY-10**). Next: rq_2160 (progress+top10 + AGB/FARO-if-YE2025 / AIESH-REW / unused).
 
+## Tick 2159 - 2026-08-25T23:00:00Z - rq_2159 HERTOG JAN Kortenberg (bruto JUMP 4.01m / omzet empty / pnl thin 5.9k / Medium) race-recover
+
+- Unit: **rq_2159** race-recover after concurrent also closed **rq_2159 De Lindeboom Knokke** (CSV rows already landed). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **HERTOG JAN VZW** YE2025 (KBO **0845.895.824**; Leuvensesteenweg 348 Kortenberg; **VZW** NACE **87.301** / **1 VE**; commercial Residentie Hertog Jan). Do not redo Epinette/Parc de Forest/Le Hanois/Eycken Brug/Sint-Felix/Annuntiaten/Brabant wallon/Vesdre/Hainaut-Est/Val de Sambre/HEMECO/WAPI/Hesbaye/ZHC/Dinaphi/Care-Ion/Groep SF/De Foyer/Psychogeriatrisch/OLV Bornem/Veilige Have/Molenheide/De Verlosser/Sint-Jozef Rumst/Ocura/Gravenkasteel/Kanunnik Triest/De Linde Lievegem/Huize Sint-Jozef Ieper/Rusthuis Sint Jozef Ninove/OLV Lourdes Kortenberg.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR4011594** JUMP +8.92% vs YE2024 EUR3682990; pnl **EUR5888** JUMP +5.55% vs YE2024 EUR5578; equity **EUR1070369** JUMP +0.55%; FTE **51.8** JUMP vs 49.1; neerlegging **25.06.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@residentiehertogjan.be (tel 02 502 03 33).
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.55); entities (+1 vzw_hertog_jan_kortenberg); foi + draft gap_hertog_jan_nbb_pdf_assets_debt_omzet_empty_bruto_jump_matrix_l5; rq_2159=done (race with Lindeboom) + rq_2160 open EVERY-10; loop_state ticks=2159; raw docs/doge/data/raw/tick2159/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 this tick (**last every-10 was 2150**; next **2160** — MUST refresh progress + top10 then hole-fill). Next: rq_2160 EVERY-10 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros).
+
