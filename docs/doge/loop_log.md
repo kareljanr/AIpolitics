@@ -24471,3 +24471,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.6); entities (+1 bv_mrs_parc_de_forest_ixelles); foi + draft gap_parc_de_forest_nbb_pdf_assets_debt_negative_equity_omzet_drop_matrix_l5; rq_2157=done + rq_2158 open; loop_state ticks=2157; raw docs/doge/data/raw/tick2157/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2150**; next **2160**). Next: rq_2158 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros; prefer sourced € over opaque ZS).
+
+## Tick 2154 - 2026-08-25T21:20:00Z - rq_2154 Zone de secours Hainaut-Est (FTE 200 / budget Unknown FOI / Medium)
+
+- Unit: **rq_2154** leftover dual after **rq_2153 ZS Brabant wallon**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took named deferred unused leftover **Zone de secours Hainaut-Est (ZOHE)** (KBO **0500.915.819**; Rue de la Tombe 112 Charleroi/Marcinelle; **Hulpverleningszone** / **6 VE**; NACE **84.250**; **22 communes**). Do not redo Brabant wallon/Vesdre/Annuntiaten/Val de Sambre/HEMECO/WAPI/Hesbaye/ZHC/Dinaphi/Flemish HVZ stack.
+- Found: Strong KBO Actief + Medium CW FTE **200**; **no** CW/NBB YE kerncijfers (Laatste balansjaar N/A; omzet/bruto/pnl/equity/budget **Unknown**). Official ZOHE site confirms 22 communes + FOI **finances@zohe.be** / info@zohe.be. Weak press ~60m budget 2025 **not booked** (no invented euros).
+- Wrote: sources (+5); budgets (+1 FTE-only); commitments (+1); leaderboard (+1 pi 5.75 opacity); entities (+1 zs_hainaut_est); foi + draft gap_hainaut_est_budget_jr2025_dotation_commune_fed_matrix_l5; rq_2154=done + rq_2155 open; loop_state ticks=2154; raw docs/doge/data/raw/tick2154/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2150**; next **2160**). Next: rq_2155 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
