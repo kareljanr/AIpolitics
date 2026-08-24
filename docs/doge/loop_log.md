@@ -25189,3 +25189,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.50); entities (+1 vzw_groep_maatwerk_tienen); foi + draft gap_groep_maatwerk_nbb_pdf_assets_debt_pnl_loss_flip_bruto_gt_omzet_matrix_l5; rq_2215=done + rq_2216 open; loop_state ticks=2215; raw docs/doge/data/raw/tick2215/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2210**; next **2220**). Next: rq_2216 (AGB/FARO-if-YE2025 / AIESH-REW / unused maatwerk-WZC-IGS).
+
+## Tick 2216 - 2026-08-26T17:40:00Z - rq_2216 Constructief Kortrijk (omzet JUMP 2.11m / pnl JUMP +293% / bruto≫omzet ~1.53x / Medium)
+
+- Unit: **rq_2216** leftover dual after **rq_2214 OptimaT**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; REW still **YE2024**. Took named FREE leftover **Constructief VZW** YE2025 (KBO **0465.225.262**; Warande 7 Kortrijk; **Actief** **1 VE**; RSZ NACE **88.993**; Deltagroep). Do not redo Groep Maatwerk/OptimaT/Odas/Ecoso/Werkhuizen Min/ACG/Noordheuvel/Arcor/Kemphaan/Entiris/Oesterbank.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2105615** JUMP +6.06% vs YE2024 EUR1985393; bruto **EUR3211582** JUMP +9.01% (~1.53x); pnl **EUR21198** JUMP +292.96% vs YE2024 EUR5394; equity **EUR955953** DROP -2.44%; FTE **86.8** JUMP vs 80.4; neerlegging **09.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@vzwconstructief.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.70); entities (+1 vzw_constructief_kortrijk); foi + draft gap_constructief_nbb_pdf_assets_debt_pnl_jump_bruto_gt_omzet_matrix_l5; rq_2216=done + rq_2217 open; loop_state ticks=2215; raw docs/doge/data/raw/tick2216/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2210**; next **2220**). Next: rq_2217 (AGB/FARO-if-YE2025 / AIESH-REW / Mobiel-Opnieuw-or-unused).
+
