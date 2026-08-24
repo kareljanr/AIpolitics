@@ -53997,3 +53997,8 @@ bud_entre_deux_pnl_jr2025_statutory,asbl_entre_deux_msp_nandrin,2025,-90887,-908
 bud_entre_deux_equity_jr2025_statutory,asbl_entre_deux_msp_nandrin,2025,-28699,-28699,-28699,CW equity YE2025 NEG FLIP,src_entre_deux_jr2025_cw_en,medium,tick2322; NEG FLIP vs YE2024 +62188
 bud_entre_deux_fte_jr2025_statutory,asbl_entre_deux_msp_nandrin,2025,19.1,19.1,19.1,CW FTE 19.1,src_entre_deux_jr2025_cw_en,medium,tick2322; vs 18.0
 bud_entre_deux_equity_jr2024_statutory_cmp,asbl_entre_deux_msp_nandrin,2024,62188,62188,62188,CW equity YE2024 cmp pre NEG FLIP,src_entre_deux_jr2025_cw_en,medium,tick2322; cmp
+bud_merlijn_bruto_jr2025_statutory,vzw_mfc_merlijn_antwerpen,2025,3680197,3680197,3680197,CW statutory bruto YE2025 primary (~23.98x omzet),src_merlijn_jr2025_cw_en,medium,tick2322; bruto 3680197 JUMP +13.2% vs 3250941
+bud_merlijn_omzet_jr2025_statutory,vzw_mfc_merlijn_antwerpen,2025,153474,153474,153474,CW statutory omzet YE2025 DROP,src_merlijn_jr2025_cw_en,medium,tick2322; omzet 153474 DROP -24.11% vs 202219
+bud_merlijn_pnl_jr2025_statutory,vzw_mfc_merlijn_antwerpen,2025,134838,134838,134838,CW statutory pnl YE2025 DROP,src_merlijn_jr2025_cw_en,medium,tick2322; pnl 134838 DROP -7.3% vs 145460
+bud_merlijn_equity_jr2025_statutory,vzw_mfc_merlijn_antwerpen,2025,1529721,1529721,1529721,CW statutory equity YE2025,src_merlijn_jr2025_cw_en,medium,tick2322; equity 1529721 JUMP +6.28% vs 1439344
+bud_merlijn_fte_jr2025_statutory,vzw_mfc_merlijn_antwerpen,2025,51.4,51.4,51.4,CW FTE YE2025 JUMP,src_merlijn_jr2025_cw_en,medium,tick2322; FTE 51.4 JUMP vs 42.3

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-27T23:40:00Z,rq_2322,2322,no,tick2322 leftover dual L'entre D'eux MSP 0550.649.006 Medium (omzet DROP 1532456; bruto 1316446; pnl LOSS deepen -90887; equity NEG FLIP -28699; FTE 19.1; 1 VE Walloon MSP Nandrin); after Humival@2321; AGB Bornem JR2024; FARO/AIESH/Citeco YE2024; next rq_2323; next EVERY-10 2330
+main,continuous,hole_fill,2026-08-24T13:25:09Z,rq_2322,2322,no,tick2322 leftover dual Merlijn 0420.408.688 Medium (omzet DROP 153474; bruto JUMP 3680197 ~23.98x; pnl DROP 134838; equity JUMP 1529721; FTE JUMP 51.4); after Humival@2321; AGB/FARO YE2024; next rq_2323; next EVERY-10 2330; continuous hole_fill

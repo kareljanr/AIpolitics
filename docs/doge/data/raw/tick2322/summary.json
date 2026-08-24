@@ -1,0 +1,15 @@
+{
+  "tick": "2322",
+  "unit": "rq_2322",
+  "entity": "vzw_mfc_merlijn_antwerpen",
+  "kbo": "0420.408.688",
+  "omzet": 153474,
+  "bruto": 3680197,
+  "pnl": 134838,
+  "equity": 1529721,
+  "fte": 51.4,
+  "ratio": 23.98,
+  "confidence": "medium",
+  "gap": "gap_merlijn_nbb_pdf_assets_debt_bruto_gt_omzet_23_98x_omzet_drop_fte_jump_vaph_mfc_matrix_l5",
+  "pi": 5.3
+}

@@ -26553,3 +26553,10 @@ Append-only. Each tick adds a short entry.
 - **Writes:** entities/sources/budgets/commitments/leaderboard + FOI `gap_entre_deux_nbb_pdf_assets_debt_neg_equity_pnl_loss_deepen_msp_matrix_l5` ready NOT sent.
 - **Stalls:** AGB Bornem JR2024; FARO/AIESH/Citeco YE2024.
 - **Next:** rq_2322 open; next EVERY-10 **2330**.
+
+### 2026-08-24T13:25:09Z - tick 2322 - rq_2322 MFC Merlijn Antwerpen (bruto JUMP 3.68m / ~23.98x omzet / FTE JUMP 51.4 / Medium)
+
+- Unit: **rq_2322** leftover dual after **Humival@2321**. Prefer NON-stall: AGB Bornem still **JR2024**; FARO/AIESH still **YE2024**. Took unused FREE Flemish VAPH **MFC Merlijn VZW** YE2025 (KBO **0420.408.688**; Schotensesteenweg 258 Deurne; **Actief** **1 VE**; RSZ **88.911**; info@merlijnvzw.be). Do not redo Humival/Heder/Kindervriend/Homevil/Schoonderhage/Sint-Jozef stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR153474** DROP -24.11%; bruto **EUR3680197** JUMP +13.2% (~**23.98x**); pnl **EUR134838** DROP -7.3%; equity **EUR1529721** JUMP +6.28%; FTE **51.4** JUMP; neerlegging **17.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@merlijnvzw.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.3); entities (+1); foi + draft gap_merlijn_nbb_pdf_assets_debt_bruto_gt_omzet_23_98x_omzet_drop_fte_jump_vaph_mfc_matrix_l5; rq_2322=done + rq_2323 open; loop_state ticks=2322.
+- FOI: **ready not sent**. NOT every-10 (next **2330**). Next: rq_2323.
