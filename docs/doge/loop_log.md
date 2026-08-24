@@ -24420,3 +24420,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: formalized Annuntiaten CSV (sources/budgets/commitments/leaderboard/entities/foi already present); rq_2151=done + rq_2152 open; loop_state ticks=2151; raw docs/doge/data/raw/tick2149/ + tick2151/. EVERY-10 already completed at **2150** (not re-run).
 - FOI: **ready not sent** (human-gated) gap_annuntiaten_heverlee_nbb_pdf_assets_debt_pnl_loss_flip_matrix_l5.
 - NOT every-10 this tick (**last every-10 was 2150**; next **2160**). Next: rq_2152 (AGB/FARO-if-YE2025 / AIESH-REW / Vesdre / unused IGS-DSO-WZC-MRS).
+
+## Tick 2152 - 2026-08-25T20:40:00Z - rq_2152 Zone de secours Vesdre-Hoëgne & Plateau (FTE 100 / budget Unknown FOI / Medium)
+
+- Unit: **rq_2152** leftover dual after **rq_2151 WZC Annuntiaten Heverlee** (race: concurrent closed 2151 as Annuntiaten while this fire probed Vesdre). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took named deferred unused leftover **Zone de secours Vesdre – Hoëgne & Plateau (VHP)** (KBO **0500.916.908**; Rue Simon Lobet 36 Verviers; **Hulpverleningszone** / **10 VE**; NACE **84.250**; aanbestedende overheid; ~19 communes). Do not redo Annuntiaten/Val de Sambre/HEMECO/WAPI/Hesbaye/ZHC/Dinaphi/Flemish HVZ stack.
+- Found: Strong KBO Actief + Medium CW FTE **100**; **no** CW/NBB YE kerncijfers (Laatste balansjaar N/A; omzet/bruto/pnl/equity/budget **Unknown**). KBO email info@zone-vhp.be; FOI also facturation@ / compta@. No invented euros.
+- Wrote: sources (+5); budgets (+1 FTE-only); commitments (+1); leaderboard (+1 pi 5.45 opacity); entities (+1 zs_vesdre); foi + draft gap_vesdre_budget_jr2025_dotation_commune_fed_matrix_l5; rq_2152=done + rq_2153 open; loop_state ticks=2152; raw docs/doge/data/raw/tick2152/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2150**; next **2160**). Next: rq_2153 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
