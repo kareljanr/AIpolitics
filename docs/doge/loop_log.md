@@ -25835,3 +25835,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.55); entities (+1 vzw_le_trait_dunion_mouscron); foi + draft gap_trait_nbb_pdf_assets_debt_bruto_gt_omzet_2_19x_pnl_drop_55pct_eta_matrix_l5; rq_2268=done + rq_2269 open; loop_state ticks=2268; raw docs/doge/raw/tick2268/ + data/raw/tick2268/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2260**; next **2270**). Next: rq_2269 (AGB/FARO-if-YE2025 / AIESH-REW / Village n1-Amis Aveugles-Hautes Ardennes YE2025).
+
+
+
+### 2026-08-27T09:10:00Z - tick 2268 - rq_2268 L'Ouvroir Bruxelles (omzet DROP 0.80m / bruto~1.59x / pnl PROFIT FLIP / FTE 41.3 / Medium)
+
+- Unit: **rq_2268** leftover dual after **rq_2267 APRE**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (CW last balansjaar 2024; reconfirmed this tick); AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Relais Haute Sambre/APN still **YE2024**. Took unused FREE Brussels ETA **L'Ouvroir ASBL** YE2025 (KBO **0407.722.573**; Bodegemstraat 78-82A Bruxelles; **Actief** **1 VE**; NACE **88.993** PHARE / bookbinding-mailing). Do not redo APRE/Renaitre/Stallbois/Sipres/La Lorraine stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR796261** DROP -2.51% vs YE2024 EUR816763; bruto **EUR1262350** JUMP +3.07% (bruto÷omzet ~1.59x); pnl **EUR63141** PROFIT FLIP +258.71% vs YE2024 EUR-39784; equity **EUR2286584** JUMP +0.08%; FTE **41.3** (-6.35% vs 44.1); neerlegging **03.07.2026**. Strong KBO Actief 1 VE ASBL. Assets/debt Unknown. Medium. FOI via louvroir@louvroir.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.55); entities (+1 vzw_louvroir_bruxelles); foi + draft gap_louvroir_nbb_pdf_assets_debt_bruto_gt_omzet_1_59x_pnl_profit_flip_eta_matrix_l5; rq_2268=done + rq_2269 open; loop_state ticks=2268; raw docs/doge/raw/tick2268/ + data/raw/tick2268/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2260**; next **2270** MUST). Next: rq_2269 (AGB/FARO-if-YE2025 / AIESH-REW / unused ETA-VAPH-WZC-maatwerk).
