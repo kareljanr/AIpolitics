@@ -26317,3 +26317,9 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 7.15); entities (+1 vzw_havinet_grimbergen); foi + draft gap_havinet_nbb_pdf_assets_debt_bruto_gt_omzet_6_93x_pnl_jump_vaph_matrix_l5; rq_2301=done + rq_2302 open; loop_state ticks=2301; raw docs/doge/data/raw/tick2301/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2300**; next **2310**). Next: rq_2302.
+
+### 2026-08-27T18:30:00Z - tick 2302 - rq_2302 MLP maakleerplek Leuven (bruto 0.20m ~2.11x / pnl LOSS FLIP / equity DROP -51% / Medium)
+- Unit: **rq_2302** after Havinet@2301. Stalls YE2024. Took FREE **MLP** YE2025 KBO **0765.569.332**.
+- Found: omzet EUR94059; bruto EUR198928 ~2.11x; pnl EUR-52677 LOSS FLIP; equity EUR50225 DROP -51%; FTE 5.0; filed 03.06.2026. Medium.
+- Wrote: CSVs + FOI gap_mlp_nbb_pdf_assets_debt_bruto_gt_omzet_2_11x_pnl_loss_flip_equity_drop_51pct_matrix_l5; rq_2302=done + rq_2303 open; ticks=2302.
+- FOI ready not sent. NOT every-10 (last 2300; next 2310).
