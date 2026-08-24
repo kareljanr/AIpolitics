@@ -1,0 +1,80 @@
+{
+2025                    :{
+                    winst: "740.431",
+                    eigen_vermogen: "3.349.221",
+                    bruto_marge: "8.376.737",
+                    omzet: "8.948.237",
+                    currency: "euro",
+                    },
+2024                    :{
+                    winst: "720.572",
+                    eigen_vermogen: "2.819.641",
+                    bruto_marge: "8.195.693",
+                    omzet: "9.046.991",
+                    currency: "euro",
+                    },
+2023                    :{
+                    winst: "254.687",
+                    eigen_vermogen: "2.309.921",
+                    bruto_marge: "7.656.226",
+                    omzet: "8.676.722",
+                    currency: "euro",
+                    },
+2022                    :{
+                    winst: "231.912",
+                    eigen_vermogen: "2.266.085",
+                    bruto_marge: "7.459.708",
+                    omzet: "8.033.734",
+                    currency: "euro",
+                    },
+2021                    :{
+                    winst: "212.174",
+                    eigen_vermogen: "2.245.025",
+                    bruto_marge: "6.673.589",
+                    omzet: "7.195.671",
+                    currency: "euro",
+                    },
+2020                    :{
+                    winst: "406.269",
+                    eigen_vermogen: "2.243.703",
+                    bruto_marge: "6.629.812",
+                    omzet: "7.069.681",
+                    currency: "euro",
+                    },
+2019                    :{
+                    winst: "336.167",
+                    eigen_vermogen: "2.048.285",
+                    bruto_marge: "6.426.696",
+                    omzet: "7.028.077",
+                    currency: "euro",
+                    },
+2018                    :{
+                    winst: "307.774",
+                    eigen_vermogen: "1.926.259",
+                    bruto_marge: "6.284.992",
+                    omzet: "6.745.534",
+                    currency: "euro",
+                    },
+2017                    :{
+                    winst: "144.433",
+                    eigen_vermogen: "1.885.711",
+                    bruto_marge: "6.112.640",
+                    omzet: "6.647.428",
+                    currency: "euro",
+                    },
+2016                    :{
+                    winst: "227.822",
+                    eigen_vermogen: "2.008.504",
+                    bruto_marge: "5.928.882",
+                    omzet: "6.475.551",
+                    currency: "euro",
+                    },
+            }
+                        
+    window.cw.productPages = {
+  "company-information": "/nl/product/bedrijfsinformatie",
+  "monitoring": "/nl/product/monitoring",
+  "prospecting": "/nl/product/prospecteren",
+  "international": "/nl/product/internationaal",
+  "compliance-and-fraud-prevention": "/nl/product/compliance-en-fraudepreventie"
+};

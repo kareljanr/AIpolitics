@@ -25765,3 +25765,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.85); entities (+1 vzw_ajr_lobbes); foi + draft gap_ajr_nbb_pdf_assets_debt_omzet_drop_21pct_pnl_drop_87pct_eta_matrix_l5; rq_2261=done + rq_2262 open; loop_state ticks=2261; raw docs/doge/raw/tick2261/ + data/raw/tick2261/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2260**; next **2270**). Next: rq_2262 (AGB/FARO-if-YE2025 / AIESH-REW / unused La Lorraine-if-YE2025).
+
+
+
+### 2026-08-27T07:40:00Z - tick 2262 - rq_2262 BW Eupen (omzet JUMP 2.17m / +17.5% / bruto~2.05x / pnl LOSS NARROW / FTE 128 / Medium)
+
+- Unit: **rq_2262** leftover dual after **rq_2261 AJR**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Relais Haute Sambre/Sipres/APN/Stallbois still **YE2024**. Took named FREE DG ETA **BW Eupen / Beschützende Werkstätte Eupen und Umgebung ASBL** YE2025 (KBO **0412.778.847**; Gewerbestrasse 13 Eupen; **Actief** **1 VE**; NACE **88.993**). Deferred FREE **La Lorraine Services** YE2025 (KBO 0412.131.719). Do not redo AJR/Alteria/Les Erables/Val du Geer/Nekto/Belair/Corelap stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2165804** JUMP +17.5% vs YE2024 EUR1843209; bruto **EUR4442051** JUMP +12.79% (bruto/omzet ~2.05x); pnl **EUR-22080** LOSS NARROW 55.37% vs YE2024 EUR-49473; equity **EUR3599551** DROP -4.08%; FTE **128** (+5.44% vs 121.4); neerlegging **23.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@bweupen.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.05); entities (+1 vzw_bw_eupen); foi + draft gap_bw_eupen_nbb_pdf_assets_debt_bruto_gt_omzet_2_05x_pnl_loss_narrow_eta_matrix_l5; rq_2262=done + rq_2263 open; loop_state ticks=2262; raw docs/doge/raw/tick2262/ + data/raw/tick2262/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2260**; next **2270**). Next: rq_2263 (AGB/FARO-if-YE2025 / AIESH-REW / unused La Lorraine YE2025).
