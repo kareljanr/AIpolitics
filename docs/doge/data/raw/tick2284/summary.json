@@ -1,0 +1,5 @@
+{
+  "tick": "2284", "unit": "rq_2284", "entity": "vzw_de_posthoorn_beringen", "kbo": "0429.827.388",
+  "omzet": 1935730, "bruto": 2916026, "pnl": -36106, "equity": 4214334,
+  "fte": 82.3, "ratio": 1.51, "confidence": "medium", "gap": "gap_posthoorn_nbb_pdf_assets_debt_bruto_gt_omzet_1_51x_pnl_loss_flip_fte_drop_matrix_l5"
+}

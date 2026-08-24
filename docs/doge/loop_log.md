@@ -26073,3 +26073,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 4.8); entities (+1 vzw_die_zukunft_amel); foi + draft gap_die_zukunft_nbb_pdf_assets_debt_bruto_gt_omzet_1_78x_pnl_jump_fte_drop_eta_matrix_l5; rq_2282=done + rq_2283 open; loop_state ticks=2282; raw docs/doge/data/raw/tick2282/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2280**; next **2290**). Next: rq_2283 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA Roseau Vert-Ateliers Mons-Village Liégeois / unused DSO-water-IGS-HVZ).
+
+### 2026-08-27T13:30:00Z - tick 2284 - rq_2284 De Posthoorn Beringen (omzet 1.94m / bruto~1.51x / pnl LOSS FLIP / FTE DROP 82.3 / Medium)
+
+- Unit: **rq_2284** leftover dual after **rq_2283 Ateljee** (loop_state lag fixed: 2283 already on remote). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**. **Preferred stall unlocked:** De Posthoorn now **YE2025** (was YE2024 as of 2280). Took FREE Flemish maatwerk **De Posthoorn Beringen VZW** YE2025 (KBO **0429.827.388**; Koolmijnlaan 141 Beringen; **Actief** **2 VE**; NACE **88.993** bakery/green/atelier/taverne; DG Pieter Decelle). Do not redo Ateljee/Die Zukunft/TWI/A94/De Dageraad/eurakor/Alternatief/IN-Z/m-accent/AMAB stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1935730** DROP -0.44% vs YE2024 EUR1944233; bruto **EUR2916026** DROP -1.58% (bruto÷omzet ~1.51x); pnl **EUR-36106** LOSS FLIP -160.73% vs YE2024 EUR59451; equity **EUR4214334** DROP -1.87%; FTE **82.3** DROP (vs 85.9); neerlegging **05.06.2026**. Strong KBO Actief 2 VE VZW. Assets/debt Unknown. Medium. FOI via info@posthoorn.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 4.9); entities (+1 vzw_de_posthoorn_beringen); foi + draft gap_posthoorn_nbb_pdf_assets_debt_bruto_gt_omzet_1_51x_pnl_loss_flip_fte_drop_matrix_l5; rq_2284=done + rq_2285 open; loop_state ticks=2284; raw docs/doge/data/raw/tick2284/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2280**; next **2290**). Next: rq_2285 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA Roseau Vert-Ateliers Mons / Manupal-Vlotter-Buseloc-if-YE2025).
