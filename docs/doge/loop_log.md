@@ -25610,3 +25610,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.10); entities (+1 vzw_ferme_nos_pilifs_bruxelles); foi + draft gap_pilifs_nbb_pdf_assets_debt_bruto_gt_omzet_1_43x_pnl_jump_401pct_fte_jump_eta_matrix_l5; rq_2246=done + rq_2247 open; loop_state ticks=2246; raw docs/doge/raw/tick2246/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2240**; next **2250**). Next: rq_2247 (AGB/FARO-if-YE2025 / AIESH-REW / unused TRAVCO).
+
+
+## Tick 2247 - 2026-08-27T03:55:00Z - rq_2247 TRAVCO Anderlecht (bruto 3.57m / empty omzet / pnl PROFIT FLIP / Medium)
+
+- Unit: **rq_2247** leftover dual after **rq_2246 Pilifs**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**. Took named FREE Brussels ETA **TRAVCO ASBL** YE2025 (KBO **0428.335.073**; Quai Fernand Demets 28 Anderlecht / Rue de la Technologie 109 Ganshoren; **Actief** **1 VE**; NACE **88.993** PHARE/COCOF). Do not redo Pilifs/Jeunes Jardiniers/La Lumière/APAM/Jean Gielen/Le Perron/L'Atelier/Axedis/ETA123 stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR3570097** JUMP +4.98% vs YE2024 EUR3400776; pnl **EUR22942** PROFIT FLIP vs YE2024 loss EUR-314919; equity **EUR670527** flat; FTE **125.1** JUMP vs 124.8; neerlegging **15.07.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@travco.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.10); entities (+1 vzw_travco_anderlecht); foi + draft gap_travco_nbb_pdf_assets_debt_empty_omzet_pnl_profit_flip_eta_matrix_l5; rq_2247=done + rq_2248 open; loop_state ticks=2247; raw docs/doge/raw/tick2247/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2240**; next **2250**). Next: rq_2248 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
