@@ -25172,3 +25172,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.90); entities (+1 vzw_odas_brugge); foi + draft gap_odas_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_loss_narrow_equity_drop_matrix_l5; rq_2213=done + rq_2214 open; loop_state ticks=2213; raw docs/doge/data/raw/tick2213/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2210**; next **2220**). Next: rq_2214 (AGB/FARO-if-YE2025 / AIESH-REW / GroepMaatwerk-or-unused).
+
+## Tick 2214 - 2026-08-26T17:10:00Z - rq_2214 OptimaT / Huize Tordale (omzet JUMP 11.92m / bruto≫omzet ~3.54x / equity JUMP 39.4m / Medium)
+
+- Unit: **rq_2214** leftover dual after **rq_2212 Ecoso**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; REW still **YE2024**. Took named FREE leftover **Huize Tordale VZW trading OptimaT** YE2025 (KBO **0429.649.325**; Bruggestraat 39 Torhout / Kortemarkstraat 86 Lichtervelde; **Actief** **4 VE**; RSZ NACE **88.993**). Do not redo Odas/Ecoso/Werkhuizen Min/ACG/Noordheuvel/Arcor/Kemphaan/Entiris/Oesterbank.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR11922984** JUMP +2.41% vs YE2024 EUR11642334; bruto **EUR42257913** JUMP +6.75% (bruto≫omzet ~3.54x); pnl **EUR1910921** JUMP +13.7% vs YE2024 EUR1680717; equity **EUR39412585** JUMP +3.75%; FTE **788.8** JUMP vs 780.1; neerlegging **09.06.2026**. Strong KBO Actief 4 VE. Assets/debt Unknown. Medium. FOI via info@optimat.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 7.20); entities (+1 vzw_optimat_huize_tordale); foi + draft gap_optimat_nbb_pdf_assets_debt_bruto_gt_omzet_3_54x_matrix_l5; rq_2214=done + rq_2215 open; loop_state ticks=2213; raw docs/doge/data/raw/tick2214/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2210**; next **2220**). Next: rq_2215 (AGB/FARO-if-YE2025 / AIESH-REW / Manus-Constructief-or-unused).
+
