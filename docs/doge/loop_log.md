@@ -25302,3 +25302,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.80); entities (+1 vzw_kringwinkel_west); foi + draft gap_kringwinkel_west_nbb_pdf_assets_debt_empty_omzet_loss_narrow_equity_drop_matrix_l5; rq_2224=done + rq_2225 open; loop_state ticks=2224; raw docs/doge/raw/tick2224/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2225 (AGB/FARO-if-YE2025 / AIESH-REW / Heropbeuring-if-euros / unused).
+
+
+## Tick 2224 - 2026-08-26T20:10:00Z - rq_2224 Den Azalee Sint-Niklaas (omzet JUMP 4.66m / bruto≫omzet ~1.85x / pnl DROP -52.2% / equity JUMP / Medium)
+
+- Unit: **rq_2224** leftover dual after **rq_2223 Manus BXL** (+Maasland race). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Heropbeuring filed 25.06.2026 but **CW kern opaque**. Took named FREE leftover **Den Azalee VZW** YE2025 (KBO **0456.719.748**; Nobels-Peelmanstraat 17 Sint-Niklaas; **Actief** **10 VE**; RSZ/BTW NACE **88.993**). Deferred FREE ViTeS/Reset/Midwest (YE2024). Do not redo Manus BXL/groep/Antwerpen/Maasland/ZOV/NBSW/Opnieuw&Co/Deltagroep/ACG.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR4655785** JUMP +2.88% vs YE2024 EUR4525519; bruto **EUR8596346** flat -0.34% (bruto≫omzet ~1.85x); pnl **EUR340447** DROP -52.17% vs YE2024 EUR711844; equity **EUR15538237** JUMP +2.46%; FTE **188.2** vs 184.6; neerlegging **04.07.2026**. Strong KBO Actief 10 VE; Mo-Clean absorb 01.01.2026. Assets/debt Unknown. Medium. FOI via info@vzwdenazalee.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.85); entities (+1 vzw_den_azalee_sint_niklaas); foi + draft gap_den_azalee_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_drop_52pct_equity_jump_matrix_l5; rq_2224=done + rq_2225 open; loop_state ticks=2224; raw docs/doge/raw/tick2224/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2225 (AGB/FARO-if-YE2025 / AIESH-REW / Heropbeuring-if-euros / unused).
+

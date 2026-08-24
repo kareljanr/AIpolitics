@@ -53286,3 +53286,9 @@ bud_kw_west_pnl_jr2025_statutory,vzw_kringwinkel_west,2025,-144804,-144804,-1448
 bud_kw_west_equity_jr2025_statutory,vzw_kringwinkel_west,2025,1175497,1175497,1175497,CW statutory eigen_vermogen YE2025,src_kw_west_jr2025_cw_en,medium,tick2224; Medium CW; equity DROP -3.20% vs YE2024 1214387
 bud_kw_west_fte_jr2025_statutory,vzw_kringwinkel_west,2025,64.6,64.6,64.6,CW social-balance FTE 64.6,src_kw_west_jr2025_cw_en,medium,tick2224; Medium CW; FTE JUMP +5.56% vs YE2024 61.2; assets/debt Unknown
 bud_kw_west_bruto_jr2024_statutory_cmp,vzw_kringwinkel_west,2024,1842793,1842793,1842793,CW statutory bruto_marge YE2024 comparative,src_kw_west_jr2025_cw_en,medium,tick2224; YE2024 bruto 1842793 comparative
+bud_den_azalee_omzet_jr2025_cw,vzw_den_azalee_sint_niklaas,2025,4655785,4655785,4655785,CW code70 omzet YE2025,src_den_azalee_jr2025_cw_nl,medium,tick2224; Medium CW; omzet JUMP +2.88% vs YE2024 4525519; primary envelope
+bud_den_azalee_bruto_jr2025_cw,vzw_den_azalee_sint_niklaas,2025,8596346,8596346,8596346,CW code9900 brutomarge YE2025,src_den_azalee_jr2025_cw_nl,medium,tick2224; Medium CW; bruto flat −0.34% vs YE2024 8625512; bruto≫omzet ~1.85x
+bud_den_azalee_pnl_jr2025_cw,vzw_den_azalee_sint_niklaas,2025,340447,340447,340447,CW code9904 winst YE2025,src_den_azalee_jr2025_cw_nl,medium,tick2224; Medium CW; pnl DROP −52.17% vs YE2024 711844
+bud_den_azalee_equity_jr2025_cw,vzw_den_azalee_sint_niklaas,2025,15538237,15538237,15538237,CW code10/15 eigen vermogen YE2025,src_den_azalee_jr2025_cw_nl,medium,tick2224; Medium CW; equity JUMP +2.46% vs YE2024 15165370
+bud_den_azalee_fte_jr2025_cw,vzw_den_azalee_sint_niklaas,2025,188.2,188.2,188.2,CW FTE YE2025,src_den_azalee_jr2025_cw_nl,medium,tick2224; Medium CW; FTE JUMP vs YE2024 184.6
+bud_den_azalee_omzet_jr2024_cw,vzw_den_azalee_sint_niklaas,2024,4525519,4525519,4525519,CW code70 omzet YE2024 comparative,src_den_azalee_jr2025_cw_nl,medium,tick2224; Medium CW YoY base
