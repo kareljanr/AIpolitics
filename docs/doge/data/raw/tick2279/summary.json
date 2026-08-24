@@ -1,0 +1,21 @@
+{
+  "tick": "2279",
+  "unit": "rq_2279",
+  "entity": "vzw_ateliers_de_lavenir_grace_hollogne",
+  "kbo": "0427.352.306",
+  "omzet": 6727179,
+  "bruto": 7139239,
+  "pnl": -397392,
+  "equity": 11347959,
+  "fte": 144.8,
+  "ratio_bruto_omzet": 1.06,
+  "confidence": "medium",
+  "gap": "gap_ateliers_avenir_nbb_pdf_assets_debt_omzet_jump_6_73m_pnl_loss_widen_equity_drop_eta_matrix_l5",
+  "sources": [
+    "src_ateliers_avenir_jr2025_cw_en",
+    "src_ateliers_avenir_jr2025_cw_nl",
+    "src_ateliers_avenir_jr2025_cw_fr",
+    "src_ateliers_avenir_kbo_0427352306",
+    "src_ateliers_avenir_site_contact_2279"
+  ]
+}

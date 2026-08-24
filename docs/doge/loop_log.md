@@ -25990,3 +25990,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.85); entities (+1 vzw_m_accent_eeklo); foi + draft gap_maccent_nbb_pdf_assets_debt_bruto_gt_omzet_1_63x_pnl_jump_87pct_matrix_l5; rq_2278=done + rq_2279 open; loop_state ticks=2278; raw docs/doge/data/raw/tick2278/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2278 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Foes-if-YE2025 / unused ETA).
+
+### 2026-08-27T12:00:00Z - tick 2279 - rq_2279 Les Ateliers de l'Avenir Grace-Hollogne (omzet JUMP 6.73m / bruto~1.06x / pnl LOSS WIDEN -0.40m / equity DROP -4.5% / FTE 144.8 / Medium)
+
+- Unit: **rq_2279** leftover dual after **rq_2278 IN-Z/m-accent**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024** (0201.712.587); Citeco still **YE2024**; Groupe Foes still **YE2024**; Relais Haute Sambre still **YE2024**; Heropbeuring still **CW opaque**. Took unused FREE Walloon ETA **Les Ateliers de l'Avenir ASBL** YE2025 (KBO **0427.352.306**; Rue de l'Avenir 75 Grace-Hollogne; **Actief** **1 VE**; NACE **88.993** AViQ wood/ossature/paletterie deaf-inclusion; absorbed 0460.282.816 19.03.2024). Do not redo IN-Z/m-accent/AMAB/C.A.R.P./A.P.A.C./Adapta/Atelier 85/La Gaume/Metalgroup stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR6727179** JUMP +16.21% vs YE2024 EUR5789017; bruto **EUR7139239** JUMP +5.39% (bruto÷omzet ~1.06x); pnl **EUR-397392** LOSS WIDEN -165.02% vs YE2024 EUR-149951; equity **EUR11347959** DROP -4.5%; FTE **144.8** (vs 142.9); neerlegging **06.07.2026**. Strong KBO Actief 1 VE ASBL. Assets/debt Unknown. Medium. FOI via commercial@ateliersdelavenir.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.10); entities (+1 vzw_ateliers_de_lavenir_grace_hollogne); foi + draft gap_ateliers_avenir_nbb_pdf_assets_debt_omzet_jump_6_73m_pnl_loss_widen_equity_drop_eta_matrix_l5; rq_2279=done + rq_2280 open (EVERY-10); loop_state ticks=2279; raw docs/doge/data/raw/tick2279/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2280 (EVERY-10 progress refresh + AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
