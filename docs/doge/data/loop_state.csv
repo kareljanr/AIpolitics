@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T15:20:00Z,rq_2208,2208,no,tick2208 leftover Arcor 0410.962.274 Medium (bruto JUMP 4.06m; omzet empty YE2025+YE2024; pnl JUMP 44k +75%; equity DROP 3.63m; FTE DROP 116.3; 1 VE Ronse); AGB Bornem JR2024; FARO/REW YE2024; next rq_2209; next every-10 2210; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T15:40:00Z,rq_2209,2209,no,tick2209 leftover Noordheuvel 0415.048.944 Medium (omzet JUMP 2.57m; bruto 5.14m ≫ omzet ~2.0x; pnl LOSS FLIP -1.4k; equity DROP 3.73m; FTE DROP 133.6; 1 VE Brasschaat); AGB Bornem JR2024; FARO/REW YE2024; next rq_2210 EVERY-10; next every-10 2210; continuous hole_fill

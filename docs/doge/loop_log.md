@@ -25116,3 +25116,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2209 (AGB/FARO-if-YE2025 / AIESH-REW / Noordheuvel-or-unused).
 
+
+## Tick 2209 - 2026-08-26T15:40:00Z - rq_2209 Noordheuvel Brasschaat (omzet JUMP 2.57m / bruto≫omzet ~2.0x / pnl LOSS FLIP / Medium)
+
+- Unit: **rq_2209** leftover dual after **rq_2208 Arcor**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; REW still **YE2024**. Took named FREE leftover **Noordheuvel VZW** YE2025 (KBO **0415.048.944**; Miksebaan 266 Brasschaat; **Actief** **1 VE**; RSZ NACE **88.993**). Deferred FREE ACG; Odas still YE2024-only. Do not redo Arcor/Kemphaan/Entiris/Oesterbank/Werkplus/Trianval/Ijsedal/De Kromme Boom/Aarova/Kaliber/MWP Pajottenland/De Winning/Atelier Groot Eiland/Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2565700** JUMP +5.69% vs YE2024 EUR2427634; bruto **EUR5137245** JUMP +5.87% (bruto≫omzet ~2.0x); pnl **EUR-1391** LOSS FLIP -154.34% vs YE2024 profit EUR2559; equity **EUR3729436** DROP -0.35%; FTE **133.6** DROP vs 134.2; neerlegging **19.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@noordheuvel.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 7.00); entities (+1 vzw_noordheuvel_brasschaat); foi + draft gap_noordheuvel_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_loss_flip_matrix_l5; rq_2209=done + rq_2210 open (EVERY-10); loop_state ticks=2209; raw docs/doge/data/raw/tick2209/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2210 EVERY-10 (AGB/FARO-if-YE2025 / AIESH-REW / ACG-or-unused).
+
