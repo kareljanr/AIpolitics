@@ -24896,3 +24896,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.4); entities (+1 vzw_demival_deinze); foi + draft gap_demival_nbb_pdf_assets_debt_pnl_flip_bruto_gt_omzet_fte_drop_matrix_l5; rq_2191=done + rq_2192 open; loop_state ticks=2191; raw docs/doge/data/raw/tick2191/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2192 (AGB/FARO-if-YE2025 / AIESH-REW / Mivas-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2192 - 2026-08-26T10:00:00Z - rq_2192 Mivas (omzet DROP 11.59m / pnl JUMP +117% / bruto>omzet ~2.1x / Medium)
+
+- Unit: **rq_2192** leftover dual after **rq_2191 Demival**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still YE2024-class. Took named FREE leftover **Mivas VZW** YE2025 (KBO **0407.597.958**; Plaslaar 41 Lier; **VZW** RSZ NACE **88.993** / **7 VE**). Do not redo Demival/De Wroeter/Kringwinkel Antwerpen/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR11593122** DROP -6.6% vs YE2024 EUR12412386; bruto **EUR24404242** DROP -1.96% (bruto≫omzet ~2.1x); pnl **EUR411958** JUMP +117.36% vs YE2024 EUR189529; equity **EUR28104207** JUMP +2.25%; FTE **634.6** DROP vs 641; neerlegging **24.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 7 VE. FOI via mailbox@mivas.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.3); entities (+1 vzw_mivas_lier); foi + draft gap_mivas_nbb_pdf_assets_debt_pnl_jump_bruto_gt_omzet_matrix_l5; rq_2192=done + rq_2193 open; loop_state ticks=2192; raw docs/doge/data/raw/tick2192/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2193 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).

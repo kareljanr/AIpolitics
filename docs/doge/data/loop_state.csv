@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T09:40:00Z,rq_2191,2191,no,tick2191 leftover DEMIVAL 0407.409.007 Medium (omzet JUMP 14.76m; bruto 17.59m ≫ omzet; pnl FLIP +381k from YE2024 LOSS -1.01m; equity JUMP 13.82m; FTE DROP 449; 1 VE Deinze); AGB Bornem JR2024; FARO YE2024; AIESH/REW stall; next rq_2192; next every-10 2200; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T10:00:00Z,rq_2192,2192,no,tick2192 leftover MIVAS 0407.597.958 Medium (omzet DROP 11.59m; bruto 24.40m ≫ omzet ~2.1x; pnl JUMP 412k +117% from 190k; equity JUMP 28.10m; FTE DROP 634.6; 7 VE Lier); AGB Bornem JR2024; FARO YE2024; AIESH/REW stall; next rq_2193; next every-10 2200; continuous hole_fill
