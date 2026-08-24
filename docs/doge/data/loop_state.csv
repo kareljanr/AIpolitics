@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T14:00:00Z,rq_2204,2204,no,tick2204 leftover Trianval 0419.052.074 Medium (omzet JUMP 6.10m; bruto 10.64m ≫ omzet ~1.74x; pnl JUMP 748k +92%; equity JUMP 15.15m; FTE JUMP 255.3; 3 VE Wetteren); AGB Bornem JR2024; FARO/REW YE2024; next rq_2205; next every-10 2210; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T14:00:00Z,rq_2204,2204,no,tick2204 leftover Werkplus 0466.950.179 Medium (omzet empty; bruto JUMP 2.69m; pnl DROP -71% 91.9k; equity JUMP 2.46m; FTE JUMP 62.8; 1 VE Waregem); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2205; next every-10 2210; continuous hole_fill

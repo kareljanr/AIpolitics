@@ -25059,3 +25059,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.6); entities (+1 vzw_trianval_wetteren); foi + draft gap_trianval_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_jump_matrix_l5; rq_2204=done + rq_2205 open; loop_state ticks=2204; raw docs/doge/data/raw/tick2204/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2205 (AGB/FARO-if-YE2025 / AIESH-REW / Oesterbank-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+## Tick 2204 — 2026-08-26T14:00:00Z — rq_2204 Werkplus Waregem (bruto 2.69m empty-omzet / pnl DROP -71% / Medium)
+
+- Unit: **rq_2204** leftover dual after **rq_2203 Ijsedal (+race De Kromme Boom)**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (CW laatste balansjaar 2024); AIESH still **YE2024**; REW CW 404/YE2024-class. Took named FREE leftover **Werkplus Maatwerk VZW** YE2025 (KBO **0466.950.179**; Windhoek 17 Waregem; **Actief** **1 VE**; RSZ NACE **88.993**). Deferred Oesterbank (YE2024-only) / Werkhuizen MIN. Do not redo Ijsedal/De Kromme Boom/Aarova/Kaliber/MWP Pajottenland/De Winning/AGE/Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **empty/unpublished**; bruto **EUR2691553** JUMP +1.06% vs YE2024 EUR2663252; pnl **EUR91880** DROP -70.86% vs YE2024 EUR315287; equity **EUR2457096** JUMP +3.88%; FTE **62.8** JUMP vs 60.4; neerlegging **27.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 1 VE. FOI via info@werkplus.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.8); entities (+1 vzw_werkplus_maatwerk_waregem); foi + draft gap_werkplus_nbb_pdf_assets_debt_empty_omzet_pnl_drop_matrix_l5; rq_2204=done + rq_2205 open; loop_state ticks=2204; raw docs/doge/data/raw/tick2204/.
+- FOI: **ready NOT sent** (human-gated).
+- NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2205 (AGB/FARO-if-YE2025 / AIESH-REW / Oesterbank-if-YE2025-or-unused IGS-DSO-WZC-MRS-HVZ).

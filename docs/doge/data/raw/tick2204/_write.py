@@ -1,4 +1,4 @@
-# tick2204 writer — Trianval Wetteren YE2025 Medium CW
+# tick2204 writer — Werkplus Maatwerk YE2025 Medium CW (empty omzet / bruto 2.69m / pnl DROP -71%)
 import csv
 import json
 from pathlib import Path
@@ -8,23 +8,21 @@ csv.field_size_limit(10**7)
 
 UTC = "2026-08-26T14:00:00Z"
 TICK = "2204"
-ENTITY = "vzw_trianval_wetteren"
-SRC_EN = "src_trianval_jr2025_cw_en"
-COMM = "comm_trianval_jr2025_statutory_maatwerk_bruto_gt_omzet_pnl_jump"
-LB = "lb_trianval_omzet_jump_6_10m_bruto_gt_omzet_pnl_jump_92pct_jr2025"
-GAP = "gap_trianval_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_jump_matrix_l5"
+ENTITY = "vzw_werkplus_maatwerk_waregem"
+SRC_EN = "src_werkplus_jr2025_cw_en"
+COMM = "comm_werkplus_jr2025_statutory_maatwerk_empty_omzet_pnl_drop"
+LB = "lb_werkplus_bruto_2_69m_empty_omzet_pnl_drop_jr2025"
+GAP = "gap_werkplus_nbb_pdf_assets_debt_empty_omzet_pnl_drop_matrix_l5"
 
-OMZET = 6103169
-BRUTO = 10640408
-PNL = 748211
-EQUITY = 15150698
-FTE = 255.3
-OMZET24 = 5141842
-BRUTO24 = 9312994
-PNL24 = 390627
-EQUITY24 = 14393864
-FTE24 = 248.1
-RATIO = round(BRUTO / OMZET, 2)
+BRUTO = 2691553
+PNL = 91880
+EQUITY = 2457096
+FTE = 62.8
+BRUTO24 = 2663252
+PNL24 = 315287
+EQUITY24 = 2365216
+FTE24 = 60.4
+ENVELOPE = BRUTO  # omzet empty → bruto primary envelope
 
 
 def append_csv(path, rows):
@@ -50,49 +48,49 @@ append_csv(
     "sources.csv",
     [
         {
-            "source_id": "src_trianval_jr2025_cw_nl",
-            "title": "Companyweb NL Trianval YE2025 statutory",
-            "url": "https://www.companyweb.be/nl/0419052074/trianval",
+            "source_id": "src_werkplus_jr2025_cw_nl",
+            "title": "Companyweb NL Werkplus Maatwerk YE2025 statutory",
+            "url": "https://www.companyweb.be/nl/0466950179/werkplus-maatwerk",
             "publisher": "Companyweb (NBB-derived)",
             "accessed_date": "2026-08-26",
             "source_class": "secondary_aggregator",
-            "notes": f"tick{TICK}; YE2025 omzet JUMP {OMZET} bruto JUMP {BRUTO} pnl JUMP {PNL} equity JUMP {EQUITY} FTE JUMP {FTE}; neerlegging 01.05.2026; raw docs/doge/data/raw/tick2204/",
+            "notes": f"tick{TICK}; YE2025 empty omzet; bruto JUMP {BRUTO} pnl DROP {PNL} equity JUMP {EQUITY} FTE {FTE}; neerlegging 27.06.2026; raw docs/doge/data/raw/tick2204/",
         },
         {
             "source_id": SRC_EN,
-            "title": "Companyweb EN Trianval YE2025 statutory",
-            "url": "https://www.companyweb.be/en/0419052074/trianval",
+            "title": "Companyweb EN Werkplus Maatwerk YE2025 statutory",
+            "url": "https://www.companyweb.be/en/0466950179/werkplus-maatwerk",
             "publisher": "Companyweb (NBB-derived)",
             "accessed_date": "2026-08-26",
             "source_class": "secondary_aggregator",
-            "notes": f"tick{TICK}; EN mirror YE2025 Medium; filed 01-05-2026; Turnover {OMZET} Profit/Loss {PNL} Equity {EQUITY} Employees {FTE}",
+            "notes": f"tick{TICK}; EN mirror YE2025 Medium; filed 27-06-2026; Turnover empty; Profit/Loss {PNL}; Equity {EQUITY}; Gross margin {BRUTO}; Employees {FTE}",
         },
         {
-            "source_id": "src_trianval_jr2025_cw_fr",
-            "title": "Companyweb FR Trianval YE2025 statutory",
-            "url": "https://www.companyweb.be/fr/0419052074/trianval",
+            "source_id": "src_werkplus_jr2025_cw_fr",
+            "title": "Companyweb FR Werkplus Maatwerk YE2025 statutory",
+            "url": "https://www.companyweb.be/fr/0466950179/werkplus-maatwerk",
             "publisher": "Companyweb (NBB-derived)",
             "accessed_date": "2026-08-26",
             "source_class": "secondary_aggregator",
-            "notes": f"tick{TICK}; FR mirror YE2025 Medium; Dernier bilan 2025",
+            "notes": f"tick{TICK}; FR mirror YE2025 Medium; CA unpublished; marge brute {BRUTO}",
         },
         {
-            "source_id": "src_trianval_kbo_2204",
-            "title": "KBO Trianval 0419.052.074 Actief VZW 3 VE Wetteren",
-            "url": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0419052074",
+            "source_id": "src_werkplus_kbo_2204",
+            "title": "KBO Werkplus 0466.950.179 Actief VZW 1 VE Waregem",
+            "url": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0466950179",
             "publisher": "KBO FOD Economie",
             "accessed_date": "2026-08-26",
             "source_class": "official_register",
-            "notes": "tick2204; Actief VZW; Biezeweg 8 9230 Wetteren; 3 VE; RSZ NACE 88.993",
+            "notes": "tick2204; Actief VZW sinds 27.09.1999; Windhoek 17 8790 Waregem; 1 VE; RSZ NACE 88.993; info@werkplus.be; tel 056613438",
         },
         {
-            "source_id": "src_trianval_foi_contact_2204",
-            "title": "Trianval FOI channel info@trianval.be",
-            "url": "https://trianval.be/contact/",
-            "publisher": "Trianval VZW",
+            "source_id": "src_werkplus_foi_contact_2204",
+            "title": "Werkplus FOI channel info@werkplus.be",
+            "url": "https://www.werkplus.be/",
+            "publisher": "Werkplus Maatwerk VZW",
             "accessed_date": "2026-08-26",
             "source_class": "foi_contact",
-            "notes": "tick2204; info@trianval.be; 09 252 28 69; Biezeweg 8 9230 Wetteren",
+            "notes": "tick2204; info@werkplus.be; Windhoek 17 8790 Waregem; 056 61 34 38",
         },
     ],
 )
@@ -101,31 +99,19 @@ append_csv(
     "budgets.csv",
     [
         {
-            "budget_id": "bud_trianval_omzet_jr2025_statutory",
-            "entity_id": ENTITY,
-            "year": "2025",
-            "amount_eur": str(OMZET),
-            "amount_min_eur": str(OMZET),
-            "amount_max_eur": str(OMZET),
-            "basis": "CW statutory omzet / Turnover YE2025",
-            "source_id": SRC_EN,
-            "confidence": "medium",
-            "notes": f"tick{TICK}; Medium CW; omzet JUMP +18.7% vs YE2024 {OMZET24}",
-        },
-        {
-            "budget_id": "bud_trianval_bruto_jr2025_statutory",
+            "budget_id": "bud_werkplus_bruto_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
             "amount_eur": str(BRUTO),
             "amount_min_eur": str(BRUTO),
             "amount_max_eur": str(BRUTO),
-            "basis": "CW statutory bruto_marge / Gross margin YE2025",
+            "basis": "CW statutory bruto_marge / Gross margin YE2025 (omzet empty → bruto envelope)",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "notes": f"tick{TICK}; Medium CW; bruto JUMP +14.25% vs YE2024 {BRUTO24}; bruto≫omzet (~{RATIO}x)",
+            "notes": f"tick{TICK}; Medium CW; bruto JUMP +1.06% vs YE2024 {BRUTO24}; omzet unpublished",
         },
         {
-            "budget_id": "bud_trianval_pnl_jr2025_statutory",
+            "budget_id": "bud_werkplus_pnl_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
             "amount_eur": str(PNL),
@@ -134,10 +120,10 @@ append_csv(
             "basis": "CW statutory winst / Profit-Loss after tax YE2025",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "notes": f"tick{TICK}; Medium CW; pnl JUMP +91.54% vs YE2024 {PNL24}",
+            "notes": f"tick{TICK}; Medium CW; pnl DROP -70.86% vs YE2024 {PNL24}",
         },
         {
-            "budget_id": "bud_trianval_equity_jr2025_statutory",
+            "budget_id": "bud_werkplus_equity_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
             "amount_eur": str(EQUITY),
@@ -146,10 +132,10 @@ append_csv(
             "basis": "CW statutory eigen_vermogen / Equity YE2025",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "notes": f"tick{TICK}; Medium CW; equity JUMP +5.26% vs YE2024 {EQUITY24}",
+            "notes": f"tick{TICK}; Medium CW; equity JUMP +3.88% vs YE2024 {EQUITY24}",
         },
         {
-            "budget_id": "bud_trianval_fte_jr2025_statutory",
+            "budget_id": "bud_werkplus_fte_jr2025_statutory",
             "entity_id": ENTITY,
             "year": "2025",
             "amount_eur": str(FTE),
@@ -158,18 +144,29 @@ append_csv(
             "basis": f"CW social-balance FTE / Employees {FTE}",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "notes": f"tick{TICK}; Medium CW; FTE JUMP vs YE2024 {FTE24}; assets/debt Unknown",
+            "notes": f"tick{TICK}; Medium CW; FTE JUMP vs YE2024 {FTE24}; assets/debt Unknown; omzet empty",
+        },
+        {
+            "budget_id": "bud_werkplus_omzet_jr2025_empty",
+            "entity_id": ENTITY,
+            "year": "2025",
+            "amount_eur": "Unknown",
+            "amount_min_eur": "",
+            "amount_max_eur": "",
+            "basis": "CW FAQ: omzet / Turnover unpublished at latest deposit",
+            "source_id": SRC_EN,
+            "confidence": "medium",
+            "notes": f"tick{TICK}; Medium CW; empty omzet confirmed NL+EN+FR; bruto {BRUTO} used as envelope",
         },
     ],
 )
 
 cash = {
-    "2025_omzet": OMZET,
+    "2025_omzet": "empty",
     "2025_bruto": BRUTO,
     "2025_pnl": PNL,
     "2025_equity": EQUITY,
     "2025_fte": FTE,
-    "2024_omzet": OMZET24,
     "2024_bruto": BRUTO24,
     "2024_pnl": PNL24,
     "2024_equity": EQUITY24,
@@ -181,24 +178,24 @@ append_csv(
     [
         {
             "commitment_id": COMM,
-            "title": f"Trianval Wetteren YE2025 leftover dual (omzet JUMP 6.10m / bruto≫omzet ~{RATIO}x / pnl JUMP +92%)",
+            "title": "Werkplus YE2025 leftover dual (bruto 2.69m empty-omzet / pnl DROP -71%)",
             "entity_id": ENTITY,
-            "beneficiary": "maatwerkers / packaging-assembly clients Oost-Vlaanderen Wetteren",
-            "legal_basis": "VZW maatwerk (KBO 0419.052.074; Actief; 3 VE; RSZ NACE 88.993)",
-            "decision_date": "2026-05-01",
+            "beneficiary": "maatwerkers / social-economy clients Waregem West-Vlaanderen",
+            "legal_basis": "VZW maatwerk (KBO 0466.950.179; Actief; 1 VE; RSZ NACE 88.993)",
+            "decision_date": "2026-06-27",
             "start_year": "2025",
             "end_year": "2025",
-            "total_envelope_eur": str(OMZET),
+            "total_envelope_eur": str(ENVELOPE),
             "cash_by_year": json.dumps(cash, separators=(",", ":")),
             "remaining_eur": "0",
             "status": "active",
-            "evaluation_url": "https://www.companyweb.be/en/0419052074/trianval",
-            "stated_goal": "Sheltered employment / industrial packaging maatwerk",
-            "cut_option": f"Publish NBB PDF assets/debt FOI; disclose bruto~{RATIO}x omzet loonkost matrix + pnl JUMP +92%",
+            "evaluation_url": "https://www.companyweb.be/en/0466950179/werkplus-maatwerk",
+            "stated_goal": "Sheltered employment / maatwerk Waregem",
+            "cut_option": "Publish NBB PDF assets/debt/omzet FOI; disclose empty-omzet + pnl DROP -71% subsidy matrix",
             "source_id": SRC_EN,
             "confidence": "medium",
-            "hierarchy_path": "Vlaanderen>OostVlaanderen>Wetteren>Trianval>JR2025_statutory_L5",
-            "notes": f"tick{TICK}; Medium CW; omzet primary envelope; bruto≫omzet (~{RATIO}x) + pnl JUMP +92% primary absurdity; assets/debt Unknown; preferred AGB Bornem JR2024; FARO/REW YE2024; not TE-additive of 348bn",
+            "hierarchy_path": "Vlaanderen>WestVlaanderen>Waregem>Werkplus>JR2025_statutory_L5",
+            "notes": "tick2204; Medium CW; bruto primary envelope (omzet empty); pnl DROP -70.86% while FTE JUMP primary absurdity; assets/debt Unknown; preferred AGB Bornem JR2024; FARO/AIESH/REW YE2024; not TE-additive of 348bn",
         }
     ],
 )
@@ -208,26 +205,26 @@ append_csv(
     [
         {
             "item_id": LB,
-            "name": f"Trianval omzet JUMP 6.10m / bruto≫omzet ~{RATIO}x / pnl JUMP +92% (YE2025)",
+            "name": "Werkplus bruto 2.69m empty-omzet / pnl DROP -71% (YE2025)",
             "level": "L5",
             "type": "maatwerk_vzw_statutory",
-            "hierarchy_path": "Vlaanderen>OostVlaanderen>Wetteren>Trianval>JR2025",
-            "annual_cost_eur": str(OMZET),
-            "total_cost_eur": str(OMZET),
-            "tco_notes": f"CW omzet JUMP envelope 6.10m / bruto 10.64m ≫ omzet (~{RATIO}x) / pnl JUMP 748k +92% from YE2024 391k / equity JUMP 15.15m / FTE JUMP 255.3; Wetteren maatwerk; assets/debt Unknown pending NBB PDF",
+            "hierarchy_path": "Vlaanderen>WestVlaanderen>Waregem>Werkplus>JR2025",
+            "annual_cost_eur": str(ENVELOPE),
+            "total_cost_eur": str(ENVELOPE),
+            "tco_notes": "CW bruto envelope 2.69m / omzet empty / pnl DROP 91.9k from YE2024 315k (-71%) / equity JUMP 2.46m / FTE JUMP 62.8; VL maatwerk Waregem; assets/debt Unknown pending NBB PDF",
             "confidence": "medium",
             "source_id": SRC_EN,
-            "beneficiaries": "maatwerkers Wetteren / public loonkost path",
-            "stated_goal": "Sheltered employment maatwerk",
-            "measured_outcome": "omzet JUMP +18.7%; bruto JUMP +14.3%; pnl JUMP +91.5%; equity JUMP +5.3%; FTE JUMP +2.9%",
-            "absurdity_score": "7.2",
-            "cost_score": "5.3",
+            "beneficiaries": "maatwerkers Waregem / VDAB-ESF path / commercial clients",
+            "stated_goal": "Sheltered employment maatwerk Waregem",
+            "measured_outcome": "omzet empty; bruto +1.1%; pnl DROP -70.9%; equity JUMP +3.9%; FTE JUMP +4.0%",
+            "absurdity_score": "7.6",
+            "cost_score": "4.5",
             "difficulty": "3.0",
-            "priority_index": "6.6",
-            "cut_proposal": f"Publish NBB PDF assets/debt/cash FOI; disclose bruto~{RATIO}x omzet loonkost/GESCO/ESF split; pnl JUMP path",
+            "priority_index": "6.8",
+            "cut_proposal": "Publish NBB PDF assets/debt/cash/omzet FOI; disclose empty-omzet + pnl DROP path; VDAB/ESF/gemeente subsidy split",
             "status": "open",
             "struck_reason": "",
-            "notes": f"tick{TICK}; Medium CW; FOI {GAP}; stall FARO/REW YE2024; Oost-Vlaanderen maatwerk dual after Ijsedal/Kromme Boom/Aarova",
+            "notes": f"tick{TICK} primary; Medium CW; FOI {GAP}; stall FARO/AIESH/REW YE2024; VL maatwerk dual after Ijsedal/Kromme Boom",
         }
     ],
 )
@@ -237,16 +234,16 @@ append_csv(
     [
         {
             "entity_id": ENTITY,
-            "name_nl": "Trianval VZW (Wetteren)",
-            "name_fr": "Trianval ASBL (Wetteren)",
-            "name_en": "Trianval sheltered workshop non-profit (Wetteren)",
+            "name_nl": "Werkplus Maatwerk VZW (Waregem)",
+            "name_fr": "Werkplus entreprise de travail adapté ASBL (Waregem)",
+            "name_en": "Werkplus sheltered workshop (Waregem)",
             "level": "parastatal",
             "parent_id": "sec_flanders",
             "community_language": "nl",
-            "website": "https://trianval.be/",
-            "foi_email": "info@trianval.be",
-            "foi_postal": "Biezeweg 8, 9230 Wetteren",
-            "notes": f"tick{TICK} YE2025 Medium CW NL+EN+FR + Strong KBO 0419.052.074 Actief VZW 3 VE RSZ NACE 88.993; omzet JUMP {OMZET} bruto {BRUTO} (≫omzet ~{RATIO}x) pnl JUMP {PNL} vs YE2024 {PNL24} equity JUMP {EQUITY} FTE JUMP {FTE}; neerlegging 01.05.2026; assets/debt Unknown; FOI {GAP}; preferred AGB Bornem JR2024; FARO/REW YE2024; not TE-additive of 348bn",
+            "website": "https://www.werkplus.be/",
+            "foi_email": "info@werkplus.be",
+            "foi_postal": "Windhoek 17, 8790 Waregem",
+            "notes": f"tick{TICK} YE2025 Medium CW NL+EN+FR + Strong KBO 0466.950.179 Actief VZW 1 VE RSZ NACE 88.993; omzet empty bruto JUMP {BRUTO} pnl DROP {PNL} vs YE2024 {PNL24} equity JUMP {EQUITY} FTE JUMP {FTE}; neerlegging 27.06.2026; assets/debt Unknown; FOI {GAP}; preferred AGB Bornem JR2024; FARO/AIESH/REW YE2024; not TE-additive of 348bn",
         }
     ],
 )
@@ -256,14 +253,14 @@ append_csv(
     [
         {
             "gap_id": GAP,
-            "hierarchy_path": "Vlaanderen>OostVlaanderen>Wetteren>Trianval>NBB_PDF_assets_debt_bruto_gt_omzet",
+            "hierarchy_path": "Vlaanderen>WestVlaanderen>Waregem>Werkplus>NBB_PDF_assets_debt_empty_omzet_pnl_drop",
             "entity_id": ENTITY,
-            "what_is_missing": f"NBB PDF jaarrekening YE2025 full (assets/debt LT-ST/cash/balanstotaal); bruto EUR{BRUTO} ≫ omzet EUR{OMZET} (~{RATIO}x) loonkostsubsidie/GESCO/ESF/VDAB/gemeente matrix; pnl JUMP EUR{PNL} vs YE2024 EUR{PNL24} (+92%); equity JUMP EUR{EQUITY}; FTE JUMP {FTE24}->{FTE}; 3 VE cost allocation",
-            "why_it_matters": f"Medium CW shows Wetteren maatwerk VZW with bruto ~{RATIO}x omzet and pnl JUMP +92% under public subsidy path while assets/debt unpublished",
+            "what_is_missing": f"NBB PDF jaarrekening YE2025 full (assets/debt LT-ST/cash/balanstotaal/omzet code70); empty/unpublished omzet vs bruto EUR{BRUTO}; pnl DROP EUR{PNL} vs YE2024 EUR{PNL24} (-70.86%); FTE JUMP {FTE24}->{FTE}; VDAB/ESF/gemeente/provincie subsidy matrix",
+            "why_it_matters": "Medium CW shows VL maatwerk VZW with empty omzet and pnl DROP -71% while FTE JUMP — public subsidy path opaque",
             "priority": "8",
-            "recipient_body": "Trianval VZW",
-            "recipient_email": "info@trianval.be",
-            "recipient_postal": "Biezeweg 8, 9230 Wetteren",
+            "recipient_body": "Werkplus Maatwerk VZW",
+            "recipient_email": "info@werkplus.be",
+            "recipient_postal": "Windhoek 17, 8790 Waregem",
             "draft_letter_path": f"docs/doge/foi/drafts/{GAP}.md",
             "status": "ready",
             "date_ready": "2026-08-26",
@@ -293,10 +290,20 @@ for row in rows:
         row["entity_id"] = ENTITY
         row["updated_utc"] = UTC
         row["blocked_gap_id"] = GAP
-        row["title"] = f"leftover dual — Trianval YE2025 Medium (omzet JUMP 6.10m / bruto≫omzet ~{RATIO}x / pnl JUMP +92%)"
+        row["title"] = (
+            "leftover dual — Werkplus YE2025 Medium (bruto 2.69m empty-omzet / pnl DROP -71%)"
+        )
         row["notes"] = (
-            "tick2204; Trianval 0419.052.074 YE2025 Medium CW; AGB Bornem JR2024; FARO/REW YE2024; "
+            "tick2204; Werkplus 0466.950.179 YE2025 Medium CW; AGB Bornem JR2024; FARO/AIESH/REW YE2024; "
             "next rq_2205; every-10 next 2210"
+        )
+        row["instructions"] = (
+            "Tick 2204 after Ijsedal (+race De Kromme Boom). Prefer leftover AGB/APB if JR2025 PDF live, "
+            "else FARO if TRUE NBB YE2025, else AIESH/REW if YE2025, else unused IGS/DSO/water/nuclear/HVZ/WZC/MRS/maatwerk "
+            "(Werkplus 0466.950.179 YE2025 FREE taken). Do NOT redo Werkplus, Ijsedal, De Kromme Boom, Aarova, Kaliber, "
+            "MWP Pajottenland, De Winning, Atelier Groot Eiland, Groep Talent, BosKat, De Schakel, BWZ, Bewel, Forena, "
+            "Kunnig, A-kwadraat, SW-WEB, Mivas, Demival, De Wroeter, Kringwinkel Antwerpen, Blankedale, Mirto, Mariasteen, "
+            "De Brug, Weerwerk, InterWest, Westlandia, BWB, Wase, Groep INTRO, MAAAT, WAAK SW, Waak, Stijn, Stroom, Springplank."
         )
         found = True
         break
@@ -307,22 +314,25 @@ if not any(r.get("task_id") == "rq_2205" for r in rows):
     rows.append(
         {
             "task_id": "rq_2205",
-            "title": "leftover dual hole-fill after Trianval — prefer AGB/FARO-YE2025/AIESH-REW/unused IGS-DSO-WZC-MRS-HVZ",
+            "title": "leftover dual hole-fill after Werkplus — prefer AGB/FARO-YE2025/AIESH-REW/unused maatwerk-WZC-IGS",
             "sprint": "hole_fill",
             "priority": "8",
             "status": "open",
             "hierarchy_target": "L5",
             "entity_id": "",
             "instructions": (
-                "Tick 2205 after Trianval Wetteren YE2025 Medium (omzet JUMP 6.10m / bruto≫omzet ~1.74x / pnl JUMP +92% / FTE 255). "
-                "Prefer leftover AGB/APB if JR2025 PDF live, else FARO if TRUE NBB YE2025, else AIESH/REW if YE2025, else unused IGS/DSO/water/nuclear/HVZ/WZC/MRS "
-                "(FREE: Oesterbank/Noordheuvel/Arcor/ACG/Entiris/Odas/Kemphaan). "
-                "Do NOT redo Trianval, Ijsedal, De Kromme Boom, Aarova, Kaliber, MWP Pajottenland, De Winning, Atelier Groot Eiland, Groep Talent, BosKat, De Schakel, BWZ, Bewel, Forena, Kunnig, A-kwadraat, SW-WEB, Mivas, Demival, De Wroeter, Kringwinkel Antwerpen, Blankedale, Mirto, Mariasteen, De Brug, Weerwerk, InterWest, Westlandia, BWB, Wase, Groep INTRO, MAAAT, WAAK SW, Waak, Stijn, Stroom, Springplank, Creat CV, Farys Solar, Senes, Orpimmo, Langerheide, Cur@-Z, Het Dorp, De Vlietoever, IPFBW, Aquiris, SPGE, IRE*, FANC, SCK CEN, EURIDICE, Hydria, Vivaqua, Belgoprocess, Laborelec, CILE, NIRAS, Bel V, Dijk92, Synergrid, AIEG, Synatom, Atrias, RESA, Enodia, Fluxys*, ETB, Elia, BNO, SWDE, BRUGEL."
+                "Tick 2205 after Werkplus YE2025 Medium (bruto 2.69m empty-omzet / pnl DROP -71% / FTE JUMP). "
+                "Prefer leftover AGB/APB if JR2025 PDF live, else FARO if TRUE NBB YE2025, else AIESH/REW if YE2025, else unused "
+                "maatwerk/WZC/IGS/DSO (FREE: Oesterbank if YE2025 / Werkhuizen MIN / other unused maatwerk-WZC-IGS). "
+                "Do NOT redo Werkplus, Ijsedal, De Kromme Boom, Aarova, Kaliber, MWP Pajottenland, De Winning, Atelier Groot Eiland, "
+                "Groep Talent, BosKat, De Schakel, BWZ, Bewel, Forena, Kunnig, A-kwadraat, SW-WEB, Mivas, Demival, De Wroeter, "
+                "Kringwinkel Antwerpen, Blankedale, Mirto, Mariasteen, De Brug, Weerwerk, InterWest, Westlandia, BWB, Wase, "
+                "Groep INTRO, MAAAT, WAAK SW, Waak, Stijn, Stroom, Springplank. Vlotter/De Ploeg/Oesterbank still YE2024 — skip unless YE2025."
             ),
             "blocked_gap_id": "",
             "created_utc": UTC,
             "updated_utc": UTC,
-            "notes": "spawned after tick2204 Trianval; FARO/REW still YE2024; next every-10 2210",
+            "notes": "spawned after tick2204 Werkplus; FARO/AIESH/REW still YE2024; next every-10 2210",
         }
     )
 
@@ -346,8 +356,8 @@ rows[0] = {
     "ticks_completed": "2204",
     "paused": "no",
     "notes": (
-        f"tick2204 leftover Trianval 0419.052.074 Medium (omzet JUMP 6.10m; bruto 10.64m ≫ omzet ~{RATIO}x; pnl JUMP 748k +92%; "
-        "equity JUMP 15.15m; FTE JUMP 255.3; 3 VE Wetteren); AGB Bornem JR2024; FARO/REW YE2024; "
+        "tick2204 leftover Werkplus 0466.950.179 Medium (omzet empty; bruto JUMP 2.69m; "
+        "pnl DROP -71% 91.9k; equity JUMP 2.46m; FTE JUMP 62.8; 1 VE Waregem); AGB Bornem JR2024; FARO/AIESH/REW YE2024; "
         "next rq_2205; next every-10 2210; continuous hole_fill"
     ),
 }
