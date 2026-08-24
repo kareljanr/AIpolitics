@@ -24268,3 +24268,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 vzw_olv_maagd_der_armen_aalst); foi + draft gap_maagd_der_armen_nbb_pdf_assets_debt_omzet_jump_pnl_jump_matrix_l5; rq_2132=done + rq_2133 open; loop_state ticks=2132; raw docs/doge/data/raw/tick2132/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2130**; next **2140**). Next: rq_2133 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+## Tick 2133 - 2026-08-25T14:20:00Z - rq_2133 C.I.G.B. Menen (omzet JUMP 35.15m / pnl LOSS flip -75k / Medium)
+
+- Unit: **rq_2133** leftover dual after **rq_2132 OLV Maagd Der Armen / Ten Rozen**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **C.I.G.B. VZW** YE2025 (KBO **0414.747.056**; Benediktinessenstraat 9 Menen; **VZW** psychiatrische ziekenhuizen / **2 VE**; PC Menen + Huize Ter Walle). Do not redo Ten Rozen/L'Orchidée/Care-Support/Restel Flats/De Fakkel/SLG Wallonie/Famifamenne/MPC Sint-Franciscus/Armonea holding/PC Gent-Sleidinge/Sint-Hiëronymus.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR35153897** JUMP +5.7% vs YE2024 EUR33258491; bruto **EUR30658841** JUMP +4.3%; pnl **EUR-74821** LOSS FLIP -110.03% vs YE2024 EUR745951; equity **EUR25810986** DROP -1.9%; FTE **371.5** vs 367.6; neerlegging **30.06.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@pcmenen.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.1); entities (+1 vzw_cigb_menen); foi + draft gap_cigb_menen_nbb_pdf_assets_debt_pnl_loss_flip_omzet_jump_matrix_l5; rq_2133=done + rq_2134 open; loop_state ticks=2133; raw docs/doge/data/raw/tick2133/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2130**; next **2140**). Next: rq_2134 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
