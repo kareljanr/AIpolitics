@@ -24588,3 +24588,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.2); entities (+1 vzw_t_hofke_puurs); foi + draft gap_t_hofke_nbb_pdf_assets_debt_omzet_empty_bruto_collapse_equity_neg_matrix_l5; rq_2165=done + rq_2166 open; loop_state ticks=2165; raw docs/doge/data/raw/tick2165/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2166 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros).
+
+
+## Tick 2165 - 2026-08-26T01:00:00Z - rq_2165 Anima Vlaanderen (omzet JUMP 64.67m / pnl DEEPER LOSS -1.42m / equity NEG / Medium) race-recover
+
+- Unit: **rq_2165** race-recover after concurrent also closed **rq_2165 t Hofke Puurs** (CSV rows for Hofke already landed) + leftover dual after **rq_2164 Zorg-Saam**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Skipped Residentie Oudenburg NACE 68 private RE; Lork Hoeselt BV empty-omzet Care Property RE fallback deferred. Took unused leftover **Anima Vlaanderen NV** YE2025 (KBO **0698.940.725**; Zandvoortstraat 27 Mechelen; **NV** NACE **87.301/87.302** / **11 VE**; Anima Group). Deferred FREE YE2025 **Avondvrede** 0446.506.836 + Anima hold 0469.969.453. Do not redo Zorg-Saam/Sint-Bernardus De Panne/Ruggeveld/Salvator/Boterlaarhof/WZND/Foyer De Lork/OLV Kempen/HERTOG JAN/Lindeboom.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR64669756** JUMP +9.11% vs YE2024 EUR59268776; bruto **EUR43507548** JUMP +8.21%; pnl **EUR-1421442** DEEPER LOSS vs YE2024 LOSS EUR-258694; equity **EUR-888180** FLIP NEG from YE2024 EUR533262; FTE **599.5**; neerlegging **04.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief NV 11 VE. FOI via info@animagroup.be (tel 015 28 77 40).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.1); entities (+1 nv_anima_vlaanderen); foi + draft gap_anima_vl_nbb_pdf_assets_debt_pnl_deeper_loss_equity_neg_matrix_l5; rq_2165=done + rq_2166 open; loop_state ticks=2165; raw docs/doge/data/raw/tick2165/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2166 (AGB/FARO-if-YE2025 / AIESH-REW / Avondvrede-if-unused / unused IGS-DSO-WZC-MRS live euros).

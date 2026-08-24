@@ -1,358 +1,344 @@
 # -*- coding: utf-8 -*-
+"""Apply tick2165 Anima Vlaanderen YE2025 Medium CW to DOGE CSVs."""
 import csv
-import json
+from datetime import datetime, timezone
 from pathlib import Path
 
+ROOT = Path(__file__).resolve().parents[5]
+DATA = ROOT / "docs" / "doge" / "data"
+NOW = "2026-08-26T01:00:00Z"
+TICK = "2165"
+RQ = "rq_2165"
+NEXT_RQ = "rq_2166"
+
+ENTITY = "nv_anima_vlaanderen"
+OMZET = 64669756
+BRUTO = 43507548
+PNL = -1421442
+EQUITY = -888180
+FTE = 599.5
+OMZET_2024 = 59268776
+PNL_2024 = -258694
+EQUITY_2024 = 533262
+BRUTO_2024 = 40205937
+
+# % moves
+omzet_pct = (OMZET - OMZET_2024) / OMZET_2024 * 100  # +9.11
+equity_flip = True
+
+GAP = "gap_anima_vl_nbb_pdf_assets_debt_pnl_deeper_loss_equity_neg_matrix_l5"
+COMM = "comm_anima_vl_jr2025_statutory_wzc_pnl_deeper_loss_omzet_64_67m"
+LB = "lb_anima_vl_omzet_64_67m_pnl_deeper_loss_equity_neg_jr2025"
+
 csv.field_size_limit(10**7)
-ROOT = Path(r"docs/doge/data")
-TS = "2026-08-26T01:00:00Z"
-
-ENTITY = "vzw_t_hofke_puurs"
-BRUTO = 7664
-PNL = -87076
-EQUITY = -559511
-FTE = 0
-BRUTO_PY = 62677
-PNL_PY = -88019
-EQUITY_PY = -472435
-BRUTO_2023 = 2090980
 
 
-def append_csv(path, rows):
-    path = Path(path)
-    with path.open(newline="", encoding="utf-8") as f:
+def read_csv(path):
+    with open(path, newline="", encoding="utf-8") as f:
         r = csv.DictReader(f)
-        existing = list(r)
-        cols = r.fieldnames
-    idkey = cols[0]
-    have = {row[idkey] for row in existing}
-    added = 0
-    for row in rows:
-        if row.get(idkey) in have:
-            print("SKIP", path.name, row.get(idkey))
-            continue
-        existing.append({c: row.get(c, "") for c in cols})
-        added += 1
-    with path.open("w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=cols, lineterminator="\n")
+        return list(r), r.fieldnames
+
+
+def write_csv(path, rows, fieldnames):
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
         w.writeheader()
-        w.writerows(existing)
-    print("append", path.name, "+", added)
+        w.writerows(rows)
 
 
-def upsert_entity(row):
-    path = ROOT / "entities.csv"
-    with path.open(newline="", encoding="utf-8") as f:
-        r = csv.DictReader(f)
-        existing = list(r)
-        cols = r.fieldnames
-    found = False
-    for i, erow in enumerate(existing):
-        if erow.get("entity_id") == row["entity_id"]:
-            existing[i] = {c: row.get(c, "") for c in cols}
-            found = True
-            break
-    if not found:
-        existing.append({c: row.get(c, "") for c in cols})
-    with path.open("w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=cols, lineterminator="\n")
-        w.writeheader()
-        w.writerows(existing)
-    print("entity", "update" if found else "append", row["entity_id"])
+# --- sources ---
+sources, sh = read_csv(DATA / "sources.csv")
+new_sources = [
+    {
+        "source_id": "src_anima_vl_jr2025_cw_nl",
+        "title": "Companyweb NL Anima Vlaanderen YE2025 statutory",
+        "url": "https://www.companyweb.be/nl/0698940725/anima-vlaanderen",
+        "publisher": "Companyweb (NBB-derived)",
+        "accessed_date": "2026-08-26",
+        "source_class": "secondary_aggregator",
+        "notes": f"tick{TICK}; YE2025 omzet JUMP {OMZET} pnl DEEPER LOSS {PNL} equity FLIP NEG {EQUITY} bruto JUMP {BRUTO} FTE {FTE}; neerlegging 04.07.2026; assets/debt Unknown; raw docs/doge/data/raw/tick2165/",
+    },
+    {
+        "source_id": "src_anima_vl_jr2025_cw_en",
+        "title": "Companyweb EN Anima Vlaanderen YE2025 statutory",
+        "url": "https://www.companyweb.be/en/0698940725",
+        "publisher": "Companyweb (NBB-derived)",
+        "accessed_date": "2026-08-26",
+        "source_class": "secondary_aggregator",
+        "notes": f"tick{TICK}; EN mirror YE2025 Medium; filed 04-07-2026; FTE {FTE}; raw docs/doge/data/raw/tick2165/anima_vl_en.html",
+    },
+    {
+        "source_id": "src_anima_vl_jr2025_cw_fr",
+        "title": "Companyweb FR Anima Vlaanderen YE2025 statutory",
+        "url": "https://www.companyweb.be/fr/0698940725",
+        "publisher": "Companyweb (NBB-derived)",
+        "accessed_date": "2026-08-26",
+        "source_class": "secondary_aggregator",
+        "notes": f"tick{TICK}; FR mirror YE2025 Medium",
+    },
+    {
+        "source_id": "src_anima_vl_kbo_2165",
+        "title": "KBO Anima Vlaanderen 0698.940.725 Actief NV Mechelen",
+        "url": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=nl&ondernemingsnummer=0698940725",
+        "publisher": "KBO FOD Economie",
+        "accessed_date": "2026-08-26",
+        "source_class": "official_register",
+        "notes": "tick2165; Actief NV; Zandvoortstraat 27 2800 Mechelen; 11 VE; NACE 87.301/87.302 ROB/serviceflats; KBO email empty; start 29.06.2018",
+    },
+    {
+        "source_id": "src_anima_vl_foi_contact_2165",
+        "title": "Anima Group FOI contact info@animagroup.be (Anima Vlaanderen)",
+        "url": "https://animagroup.be/",
+        "publisher": "Anima NV / Anima Vlaanderen",
+        "accessed_date": "2026-08-26",
+        "source_class": "foi_contact",
+        "notes": "tick2165; info@animagroup.be; tel 015 28 77 40; zetel Zandvoortstraat 27 Mechelen; sibling Avondvrede 0446.506.836 FREE deferred",
+    },
+]
+existing_src = {r["source_id"] for r in sources}
+for s in new_sources:
+    if s["source_id"] not in existing_src:
+        sources.append(s)
+write_csv(DATA / "sources.csv", sources, sh)
+print("sources", len(new_sources))
 
-
-append_csv(
-    ROOT / "sources.csv",
-    [
-        dict(
-            source_id="src_t_hofke_jr2025_cw_nl",
-            title="Companyweb NL 't Hofke Puurs YE2025 statutory",
-            url="https://www.companyweb.be/nl/0823488131/-t-hofke",
-            publisher="Companyweb (NBB-derived)",
-            accessed_date="2026-08-26",
-            source_class="secondary_aggregator",
-            notes="tick2165; YE2025 omzet empty bruto DROP 7664 pnl LOSS -87076 equity NEG -559511 FTE 0; neerlegging 07.07.2026; assets/debt Unknown; raw docs/doge/data/raw/tick2165/",
-        ),
-        dict(
-            source_id="src_t_hofke_jr2025_cw_en",
-            title="Companyweb EN 't Hofke Puurs YE2025 statutory",
-            url="https://www.companyweb.be/en/0823488131",
-            publisher="Companyweb (NBB-derived)",
-            accessed_date="2026-08-26",
-            source_class="secondary_aggregator",
-            notes="tick2165; EN mirror YE2025 Medium; filed 07-07-2026; Last balance sheet year 2025; FTE empty/0",
-        ),
-        dict(
-            source_id="src_t_hofke_jr2025_cw_fr",
-            title="Companyweb FR 't Hofke Puurs YE2025 statutory",
-            url="https://www.companyweb.be/fr/0823488131",
-            publisher="Companyweb (NBB-derived)",
-            accessed_date="2026-08-26",
-            source_class="secondary_aggregator",
-            notes="tick2165; FR mirror YE2025 Medium",
-        ),
-        dict(
-            source_id="src_t_hofke_kbo_2165",
-            title="KBO 't Hofke 0823.488.131 Actief VZW Puurs-Sint-Amands",
-            url="https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=nl&ondernemingsnummer=0823488131",
-            publisher="KBO FOD Economie",
-            accessed_date="2026-08-26",
-            source_class="official_register",
-            notes="tick2165; Actief VZW; Lippeloseweg(OPP) 58 2890 Puurs-Sint-Amands; 0 VE; directors Ham Joost + Pede Els; KBO email/tel empty; RVT activity via CW/FinCheck NACE 87.101",
-        ),
-        dict(
-            source_id="src_t_hofke_foi_contact_2165",
-            title="'t Hofke / Sauvegarde-Skobbegaar FOI contact info.sauvegarde@cura-care.be",
-            url="https://sauvegardewzc.be/",
-            publisher="WZC Sauvegarde / Cura Care / 't Hofke VZW",
-            accessed_date="2026-08-26",
-            source_class="foi_contact",
-            notes="tick2165; info.sauvegarde@cura-care.be / info@cura-care.be; tel 03 500 83 36; zetel Lippeloseweg 58 2890 Puurs-Sint-Amands; related Residentie Skobbegaar Ruisbroek-Dorp 40",
-        ),
-    ],
-)
-
-for bid, amount, basis, notes in [
-    (
-        "bud_t_hofke_bruto_jr2025_statutory",
-        BRUTO,
-        "CW statutory bruto_marge / Gross margin YE2025 (omzet empty)",
-        "tick2165; Medium CW; bruto DROP -87.77% vs YE2024 62677; collapsed from YE2023 2090980",
-    ),
-    (
-        "bud_t_hofke_pnl_jr2025_statutory",
-        PNL,
-        "CW statutory winst / Profit-Loss after tax YE2025",
-        "tick2165; Medium CW; pnl LOSS NARROW -87076 vs YE2024 LOSS -88019 (+1.07%)",
-    ),
-    (
-        "bud_t_hofke_equity_jr2025_statutory",
-        EQUITY,
-        "CW statutory eigen_vermogen / Equity YE2025",
-        "tick2165; Medium CW; equity NEG DEEPEN -18.43% vs YE2024 -472435",
-    ),
-    (
-        "bud_t_hofke_fte_jr2025_statutory",
-        FTE,
-        "CW social-balance FTE / Employees empty→0 YE2025",
-        "tick2165; Medium CW; FTE empty YE2025 (was 33.8 YE2023); assets/debt Unknown pending NBB PDF",
-    ),
-]:
-    append_csv(
-        ROOT / "budgets.csv",
-        [
-            dict(
-                budget_id=bid,
-                entity_id=ENTITY,
-                year="2025",
-                amount_eur=str(amount),
-                amount_min_eur=str(amount),
-                amount_max_eur=str(amount),
-                basis=basis,
-                source_id="src_t_hofke_jr2025_cw_en",
-                confidence="medium",
-                notes=notes,
-            )
-        ],
-    )
-
-append_csv(
-    ROOT / "commitments.csv",
-    [
-        dict(
-            commitment_id="comm_t_hofke_jr2025_statutory_wzc_bruto_collapse_equity_neg",
-            title="'t Hofke Puurs YE2025 leftover dual (bruto DROP 7.7k / omzet empty / equity NEG -560k)",
-            entity_id=ENTITY,
-            beneficiary="Residual RVT shell Puurs-Sint-Amands (related Sauvegarde/Skobbegaar/Cura Care path)",
-            legal_basis="VZW RVT (KBO 0823.488.131; Actief; 0 VE; NACE 87.101 RVT)",
-            decision_date="2026-07-07",
-            start_year="2025",
-            end_year="2025",
-            total_envelope_eur=str(BRUTO),
-            cash_by_year=json.dumps(
-                {
-                    "2025_omzet": "Unknown",
-                    "2025_bruto": BRUTO,
-                    "2025_pnl": PNL,
-                    "2025_equity": EQUITY,
-                    "2025_fte": FTE,
-                    "2024_bruto": BRUTO_PY,
-                    "2024_pnl": PNL_PY,
-                    "2024_equity": EQUITY_PY,
-                    "2023_bruto": BRUTO_2023,
-                },
-                separators=(",", ":"),
-            ),
-            remaining_eur="0",
-            status="active",
-            evaluation_url="https://www.companyweb.be/en/0823488131",
-            stated_goal="Residential elderly care residual VZW ('t Hofke / historic Sauvegarde path)",
-            cut_option="Publish NBB PDF assets/debt FOI; disclose empty omzet + bruto collapse vs Sauvegarde/Skobbegaar/Cura Care related-party matrix; continuity/NEG equity plan",
-            source_id="src_t_hofke_jr2025_cw_en",
-            confidence="medium",
-            hierarchy_path="Vlaanderen>Antwerpen>PuursSintAmands>tHofke>JR2025_statutory_L5",
-            notes="tick2165; Medium CW; bruto primary envelope (omzet empty); assets/debt Unknown; preferred AGB Bornem JR2024; FARO/AIESH/REW YE2024; skipped Lork Hoeselt BV NACE 68 RE shell; not TE-additive of 348bn; DISTINCT Zorg-Saam/Sint-Bernardus/Ruggeveld/Salvator/Boterlaarhof",
-        )
-    ],
-)
-
-append_csv(
-    ROOT / "leaderboard.csv",
-    [
-        dict(
-            item_id="lb_t_hofke_bruto_7_7k_equity_neg_560k_omzet_empty_jr2025",
-            name="'t Hofke Puurs bruto DROP 7.7k / equity NEG -560k / omzet empty (YE2025)",
-            level="L5",
-            type="wzc_vzw_statutory",
-            hierarchy_path="Vlaanderen>Antwerpen>PuursSintAmands>tHofke>JR2025",
-            annual_cost_eur=str(BRUTO),
-            total_cost_eur=str(abs(EQUITY)),
-            tco_notes="CW bruto envelope 7.7k / omzet empty / FTE 0 / 0 VE; equity NEG deepen -560k; bruto collapsed from 2.09m YE2023; residual shell vs Sauvegarde/Skobbegaar; assets/debt Unknown",
-            confidence="medium",
-            source_id="src_t_hofke_jr2025_cw_en",
-            beneficiaries="Historic RVT clients Puurs-Sint-Amands / related Skobbegaar path",
-            stated_goal="Residential elderly care residual VZW",
-            measured_outcome="omzet empty; bruto DROP -87.77%; pnl LOSS narrow; equity NEG deepen -18.43%; FTE 0",
-            absurdity_score="6.8",
-            cost_score="2.0",
-            difficulty="3.5",
-            priority_index="5.2",
-            cut_proposal="Publish NBB PDF assets/debt/omzet FOI; disclose related-party matrix vs Sauvegarde/Skobbegaar/Cura Care; NEG equity continuity plan",
-            status="open",
-            struck_reason="",
-            notes="tick2165; Medium CW; FOI gap_t_hofke_nbb_pdf_assets_debt_omzet_empty_bruto_collapse_equity_neg_matrix_l5; small € envelope but high opacity residual",
-        )
-    ],
-)
-
-upsert_entity(
-    dict(
-        entity_id=ENTITY,
-        name_nl="'t Hofke VZW (Puurs-Sint-Amands / residual RVT)",
-        name_fr="'t Hofke ASBL (Puurs-Sint-Amands / MRS résiduelle)",
-        name_en="'t Hofke nursing-home residual non-profit (Puurs-Sint-Amands)",
-        level="parastatal",
-        parent_id="sec_flanders",
-        community_language="nl",
-        website="https://sauvegardewzc.be/",
-        foi_email="info.sauvegarde@cura-care.be",
-        foi_postal="Lippeloseweg(OPP) 58, 2890 Puurs-Sint-Amands",
-        notes="tick2165 YE2025 Medium CW NL+EN+FR + Strong KBO 0823.488.131 Actief VZW 0 VE NACE 87.101 RVT; omzet empty bruto DROP 7.7k pnl LOSS -87k equity NEG -560k FTE 0; neerlegging 07.07.2026; related Sauvegarde/Skobbegaar/Cura Care; FOI gap_t_hofke_nbb_pdf_assets_debt_omzet_empty_bruto_collapse_equity_neg_matrix_l5; preferred AGB Bornem JR2024; FARO/AIESH/REW YE2024; skipped Lork Hoeselt BV NACE 68; do not redo Zorg-Saam/Sint-Bernardus/Ruggeveld/Salvator/Boterlaarhof/WZND/Foyer De Lork Geel/OLV Kempen",
-    )
-)
-
-append_csv(
-    ROOT / "foi_queue.csv",
-    [
-        dict(
-            gap_id="gap_t_hofke_nbb_pdf_assets_debt_omzet_empty_bruto_collapse_equity_neg_matrix_l5",
-            hierarchy_path="Vlaanderen>Antwerpen>PuursSintAmands>tHofke>NBB_PDF_assets_debt_omzet_empty_bruto_collapse_equity_neg",
-            entity_id=ENTITY,
-            what_is_missing="NBB PDF jaarrekening YE2025 full (assets/debt LT-ST/cash/balanstotaal); omzet/code70 empty behind bruto collapse; related-party matrix vs WZC Sauvegarde / Residentie Skobbegaar / Cura Care; NEG equity continuity plan; FTE 0 vs historic staff",
-            why_it_matters="Medium CW shows residual RVT VZW with empty omzet, bruto collapsed from millions to EUR7.7k, equity NEG deepen to -EUR560k and FTE 0 while related Sauvegarde/Skobbegaar still operates care at same Lippeloseweg/Ruisbroek path — opacity on where public/care euros moved",
-            priority="8",
-            recipient_body="'t Hofke VZW / WZC Sauvegarde / Cura Care",
-            recipient_email="info.sauvegarde@cura-care.be",
-            recipient_postal="Lippeloseweg(OPP) 58, 2890 Puurs-Sint-Amands",
-            draft_letter_path="docs/doge/foi/drafts/gap_t_hofke_nbb_pdf_assets_debt_omzet_empty_bruto_collapse_equity_neg_matrix_l5.md",
-            status="ready",
-            date_ready="2026-08-26",
-            date_sent="",
-            date_due="",
-            date_answered="",
-            response_summary="",
-            linked_commitment_id="comm_t_hofke_jr2025_statutory_wzc_bruto_collapse_equity_neg",
-            linked_leaderboard_id="lb_t_hofke_bruto_7_7k_equity_neg_560k_omzet_empty_jr2025",
-            created_utc=TS,
-            updated_utc=TS,
-            notes="tick2165; ready NOT sent; Medium CW + Strong KBO; next every-10 2170",
-        )
-    ],
-)
-
-# research_queue: close rq_2165 + spawn rq_2166
-path = ROOT / "research_queue.csv"
-with path.open(newline="", encoding="utf-8") as f:
-    r = csv.DictReader(f)
-    rows = list(r)
-    cols = r.fieldnames
-for row in rows:
-    if row.get("task_id") == "rq_2165":
-        row["title"] = "leftover dual — 't Hofke Puurs YE2025 Medium (bruto DROP 7.7k / omzet empty / equity NEG -560k)"
-        row["status"] = "done"
-        row["entity_id"] = ENTITY
-        row["instructions"] = (
-            "Completed leftover 't Hofke Puurs YE2025 Medium CW after Zorg-Saam; preferred AGB Bornem JR2024 / FARO YE2024 / AIESH/REW YE2024; "
-            "skipped Lork Hoeselt BV 0755.822.317 NACE 68 RE shell (same skip as Oudenburg); live YE2025 Medium CW NL+EN+FR + Strong KBO 0823.488.131; "
-            "FOI gap_t_hofke_nbb_pdf_assets_debt_omzet_empty_bruto_collapse_equity_neg_matrix_l5 ready not sent."
-        )
-        row["blocked_gap_id"] = "gap_t_hofke_nbb_pdf_assets_debt_omzet_empty_bruto_collapse_equity_neg_matrix_l5"
-        row["updated_utc"] = TS
-        row["notes"] = (
-            "tick2165 't Hofke Medium bruto DROP 7.7k omzet empty pnl LOSS -87k equity NEG -560k FTE 0; KBO Actief VZW 0 VE NACE 87.101; "
-            "FOI info.sauvegarde@cura-care.be; AGB Bornem JR2024; FARO/AIESH/REW YE2024; next every-10 2170"
-        )
-have_ids = {row.get("task_id") for row in rows}
-if "rq_2166" not in have_ids:
-    rows.append(
+# --- entities ---
+entities, eh = read_csv(DATA / "entities.csv")
+if not any(r["entity_id"] == ENTITY for r in entities):
+    entities.append(
         {
-            "task_id": "rq_2166",
-            "title": "leftover dual hole-fill after 't Hofke — prefer AGB/FARO-YE2025/AIESH-REW/unused IGS-DSO-WZC-MRS",
+            "entity_id": ENTITY,
+            "name_nl": "Anima Vlaanderen NV",
+            "name_fr": "Anima Vlaanderen SA",
+            "name_en": "Anima Vlaanderen (Flemish elderly-care operator)",
+            "level": "parastatal",
+            "parent_id": "sec_flanders",
+            "community_language": "nl",
+            "website": "https://animagroup.be/",
+            "foi_email": "info@animagroup.be",
+            "foi_postal": "Zandvoortstraat 27, 2800 Mechelen",
+            "notes": (
+                f"tick{TICK} YE2025 Medium CW NL+EN+FR + Strong KBO 0698.940.725 Actief NV 11 VE NACE 87.301/87.302; "
+                f"omzet JUMP {OMZET/1e6:.2f}m (+{omzet_pct:.2f}%) pnl DEEPER LOSS {PNL/1e6:.2f}m equity FLIP NEG {EQUITY}; "
+                f"bruto JUMP {BRUTO/1e6:.2f}m FTE {FTE}; assets/debt Unknown; neerlegging 04.07.2026; "
+                f"FOI {GAP}; preferred AGB Bornem JR2024; FARO/AIESH/REW YE2024; "
+                f"do not redo Zorg-Saam/Sint-Bernardus De Panne/Ruggeveld/Salvator/Boterlaarhof/WZND/Foyer De Lork/"
+                f"OLV Kempen/HERTOG JAN/Lindeboom; Avondvrede 0446.506.836 FREE deferred; Anima hold 0469.969.453 FREE deferred"
+            ),
+        }
+    )
+write_csv(DATA / "entities.csv", entities, eh)
+print("entities ok")
+
+# --- budgets ---
+budgets, bh = read_csv(DATA / "budgets.csv")
+new_buds = [
+    ("bud_anima_vl_omzet_jr2025_statutory", OMZET, "CW statutory omzet / Turnover YE2025"),
+    ("bud_anima_vl_bruto_jr2025_statutory", BRUTO, "CW statutory bruto_marge / Gross margin YE2025"),
+    ("bud_anima_vl_pnl_jr2025_statutory", PNL, "CW statutory winst / Profit-Loss after tax YE2025"),
+    ("bud_anima_vl_equity_jr2025_statutory", EQUITY, "CW statutory eigen_vermogen / Equity YE2025"),
+    ("bud_anima_vl_fte_jr2025_statutory", FTE, f"CW social-balance FTE / Employees {FTE}"),
+]
+existing_b = {r["budget_id"] for r in budgets}
+for bid, amt, basis in new_buds:
+    if bid in existing_b:
+        continue
+    budgets.append(
+        {
+            "budget_id": bid,
+            "entity_id": ENTITY,
+            "year": "2025",
+            "amount_eur": str(amt),
+            "amount_min_eur": str(amt),
+            "amount_max_eur": str(amt),
+            "basis": basis,
+            "source_id": "src_anima_vl_jr2025_cw_en",
+            "confidence": "medium",
+            "notes": f"tick{TICK}; Medium CW; assets/debt Unknown pending NBB PDF",
+        }
+    )
+write_csv(DATA / "budgets.csv", budgets, bh)
+print("budgets", len(new_buds))
+
+# --- commitments ---
+comms, ch = read_csv(DATA / "commitments.csv")
+if not any(r["commitment_id"] == COMM for r in comms):
+    cash = (
+        f'{{"2025_omzet":{OMZET},"2025_bruto":{BRUTO},"2025_pnl":{PNL},"2025_equity":{EQUITY},'
+        f'"2025_fte":{FTE},"2024_omzet":{OMZET_2024},"2024_pnl":{PNL_2024},'
+        f'"2024_equity":{EQUITY_2024},"2024_bruto":{BRUTO_2024}}}'
+    )
+    comms.append(
+        {
+            "commitment_id": COMM,
+            "title": "Anima Vlaanderen YE2025 leftover dual (omzet JUMP 64.67m / pnl DEEPER LOSS -1.42m / equity NEG)",
+            "entity_id": ENTITY,
+            "beneficiary": "WZC/ROB residents via Anima Vlaanderen (11 VE; Anima Group Flemish belt incl. Avondvrede path)",
+            "legal_basis": "NV ROB/serviceflats (KBO 0698.940.725; Actief; 11 VE; NACE 87.301/87.302)",
+            "decision_date": "2026-07-04",
+            "start_year": "2025",
+            "end_year": "2025",
+            "total_envelope_eur": str(OMZET),
+            "cash_by_year": cash,
+            "remaining_eur": "0",
+            "status": "active",
+            "evaluation_url": "https://www.companyweb.be/en/0698940725",
+            "stated_goal": "Residential elderly care Flanders (Anima Vlaanderen operating NV)",
+            "cut_option": "Publish NBB PDF assets/debt FOI; explain pnl DEEPER LOSS + equity NEG flip despite omzet JUMP +9.1%; per-site matrix",
+            "source_id": "src_anima_vl_jr2025_cw_en",
+            "confidence": "medium",
+            "hierarchy_path": "Vlaanderen>Anima>AnimaVlaanderen>JR2025_statutory_L5",
+            "notes": (
+                f"tick{TICK}; Medium CW; omzet primary envelope; assets/debt Unknown; preferred AGB Bornem JR2024; "
+                f"FARO/AIESH/REW YE2024; not TE-additive of 348bn; DISTINCT Zorg-Saam/Sint-Bernardus/Ruggeveld/"
+                f"Salvator/Boterlaarhof/WZND/Foyer De Lork; Avondvrede FREE deferred"
+            ),
+        }
+    )
+write_csv(DATA / "commitments.csv", comms, ch)
+print("commitments ok")
+
+# --- leaderboard ---
+# pi ~ (abs*cost)/difficulty style used ~5.5-6.7; use abs 6.4 cost 7.2 diff 4.0 -> pi ~6.1
+lbs, lh = read_csv(DATA / "leaderboard.csv")
+if not any(r["item_id"] == LB for r in lbs):
+    lbs.append(
+        {
+            "item_id": LB,
+            "name": "Anima Vlaanderen omzet JUMP 64.67m / pnl DEEPER LOSS -1.42m / equity NEG (YE2025)",
+            "level": "L5",
+            "type": "wzc_nv_statutory",
+            "hierarchy_path": "Vlaanderen>Anima>AnimaVlaanderen>JR2025",
+            "annual_cost_eur": str(OMZET),
+            "total_cost_eur": str(OMZET),
+            "tco_notes": (
+                f"CW omzet envelope 64.67m / {FTE} FTE / 11 VE; pnl DEEPER LOSS -1.42m (vs YE2024 -0.26m); "
+                f"equity FLIP NEG -0.89m; assets/debt Unknown pending NBB PDF"
+            ),
+            "confidence": "medium",
+            "source_id": "src_anima_vl_jr2025_cw_en",
+            "beneficiaries": "WZC/ROB clients Anima Vlaanderen network",
+            "stated_goal": "Residential elderly care Flanders (Anima Group)",
+            "measured_outcome": (
+                f"omzet JUMP +{omzet_pct:.2f}%; bruto JUMP +{(BRUTO-BRUTO_2024)/BRUTO_2024*100:.2f}%; "
+                f"pnl DEEPER LOSS; equity FLIP NEG; FTE {FTE}"
+            ),
+            "absurdity_score": "6.4",
+            "cost_score": "7.2",
+            "difficulty": "4.0",
+            "priority_index": "6.1",
+            "cut_proposal": "Publish NBB PDF assets/debt/cash FOI; disclose deeper-loss + negative-equity path despite rising omzet; per-site matrix",
+            "status": "open",
+            "struck_reason": "",
+            "notes": f"tick{TICK}; Medium CW; FOI {GAP}; stall FARO/AIESH/REW YE2024; Anima hold/Avondvrede FREE deferred",
+        }
+    )
+write_csv(DATA / "leaderboard.csv", lbs, lh)
+print("leaderboard ok")
+
+# --- foi_queue ---
+foi, fh = read_csv(DATA / "foi_queue.csv")
+if not any(r["gap_id"] == GAP for r in foi):
+    foi.append(
+        {
+            "gap_id": GAP,
+            "hierarchy_path": "Vlaanderen>Anima>AnimaVlaanderen>NBB_PDF_assets_debt_pnl_deeper_loss_equity_neg",
+            "entity_id": ENTITY,
+            "what_is_missing": (
+                "NBB PDF jaarrekening YE2025 full (assets/debt LT-ST/cash/balanstotaal); "
+                "RIZIV/Vlaams vs dagprijs split; explanation of pnl DEEPER LOSS EUR-1.42m "
+                "(vs YE2024 EUR-0.26m) and equity FLIP NEG EUR-0.89m despite omzet JUMP +9.1%; per-site 11 VE matrix"
+            ),
+            "why_it_matters": (
+                "Medium CW shows EUR64.67m Anima Vlaanderen NV WZC/ROB operator with deepening LOSS "
+                "and negative equity while turnover rose — no balanstotaal/assets/debt published"
+            ),
+            "priority": "8",
+            "recipient_body": "Anima Vlaanderen NV / Anima Group",
+            "recipient_email": "info@animagroup.be",
+            "recipient_postal": "Zandvoortstraat 27, 2800 Mechelen",
+            "draft_letter_path": f"docs/doge/foi/drafts/{GAP}.md",
+            "status": "ready",
+            "date_ready": "2026-08-26",
+            "date_sent": "",
+            "date_due": "",
+            "date_answered": "",
+            "response_summary": "",
+            "linked_commitment_id": COMM,
+            "linked_leaderboard_id": LB,
+            "created_utc": NOW,
+            "updated_utc": NOW,
+            "notes": f"tick{TICK}; ready NOT sent; Medium CW + Strong KBO; next every-10 2170",
+        }
+    )
+write_csv(DATA / "foi_queue.csv", foi, fh)
+print("foi ok")
+
+# --- research_queue: close 2165, spawn 2166 ---
+rq, rh = read_csv(DATA / "research_queue.csv")
+for r in rq:
+    if r["task_id"] == RQ:
+        r["title"] = (
+            "leftover dual — Anima Vlaanderen YE2025 Medium (omzet JUMP 64.67m / pnl DEEPER LOSS -1.42m / equity NEG)"
+        )
+        r["status"] = "done"
+        r["entity_id"] = ENTITY
+        r["instructions"] = (
+            "Completed leftover Anima Vlaanderen after Zorg-Saam; preferred AGB Bornem JR2024 / FARO/AIESH/REW still YE2024; "
+            "skipped Residentie Oudenburg NACE 68 private RE; Lork Hoeselt BV empty-omzet RE fallback deferred; "
+            "Avondvrede 0446.506.836 FREE YE2025 deferred; Medium CW YE2025 + Strong KBO; FOI ready not sent"
+        )
+        r["blocked_gap_id"] = GAP
+        r["updated_utc"] = NOW
+        r["notes"] = (
+            f"tick{TICK} Anima Vlaanderen Medium omzet JUMP {OMZET/1e6:.2f}m (+{omzet_pct:.2f}%) bruto JUMP {BRUTO/1e6:.2f}m "
+            f"pnl DEEPER LOSS {PNL/1e6:.2f}m equity FLIP NEG {EQUITY} FTE {FTE}; KBO Actief NV 11 VE Mechelen; "
+            f"FOI info@animagroup.be; next every-10 2170"
+        )
+if not any(r["task_id"] == NEXT_RQ for r in rq):
+    rq.append(
+        {
+            "task_id": NEXT_RQ,
+            "title": "leftover dual hole-fill after Anima Vlaanderen — prefer AGB/FARO-YE2025/AIESH-REW/unused IGS-DSO-WZC-MRS",
             "sprint": "hole_fill",
             "priority": "8",
             "status": "open",
             "hierarchy_target": "L5",
             "entity_id": "",
             "instructions": (
-                "Tick 2166 after 't Hofke Puurs YE2025 Medium (bruto DROP 7.7k / equity NEG -560k). "
+                "Tick 2166 after Anima Vlaanderen YE2025 Medium (omzet 64.67m / pnl DEEPER LOSS -1.42m / equity NEG). "
                 "Prefer leftover AGB/APB if JR2025 PDF live, else FARO if TRUE NBB YE2025, else AIESH/REW if YE2025, "
-                "else unused IGS/DSO/WZC/MRS/hospital/psych/creche/disability with live euros "
-                "(optional: WZC Foyer De Lork Hoeselt BV 0755.822.317 YE2025 empty-omzet NEG equity bruto 0.79m but NACE 68 RE — prefer care NACE 87; "
-                "Haagwinde Maarkedal 0410.219.433 still YE2024; Maria Boodschap Niel still YE2024). "
-                "Do NOT redo 't Hofke 0823.488.131, Zorg-Saam Zusters Kindsheid Jesu 0470.673.890, WZC Sint-Bernardus De Panne 0432.582.485, "
-                "Residentie Ruggeveld Antwerpen, Salvator Welzijnscentrum Hasselt, Boterlaarhof Deurne, Woonzorgnet-Dijleland, "
-                "Foyer De Lork Geel, Home OLV van de Kempen Ravels, HERTOG JAN Kortenberg, De Lindeboom Knokke-Heist/OLVO/Lindenhove, "
-                "Seniorie de l'Epinette, MRS Parc de Forest, MRS Le Hanois, WZC d'Eycken Brug, WZC Sint-Felix, "
-                "Zone de secours Hainaut-Est/Brabant wallon/Vesdre/Val de Sambre/HEMECO/Wallonie Picarde/Hesbaye/Hainaut-Centre/Dinaphi, "
-                "Zonnelied, Seniors Care-Ion, Groep Sint-Franciscus, Denderrust*, Brandweerzone Antwerpen, Flemish HVZ stack, AGB Bornem, "
-                "Armonea/emeis/Korian holdings, Molenheide, De Verlosser Dilbeek, WZC Sint-Jozef Rumst, De Foyer Gent, Psychogeriatrisch Centrum, "
-                "Seniorencentrum OLV Bornem, Veilige Have, De Linde Lievegem, Huize Sint-Jozef Ieper, Ocura, Rusthuis Sint Jozef Ninove, "
-                "Zilverlinde Olen, De Medemens Antwerpen, Emmaüs Mechelen, Famifamenne, Residentie Oudenburg 0450.755.634 (NACE 55/68), "
-                "Home Vrijzicht Ieper, WZC Sint-Jozef Rillaar/Aarschot, AZORG, Prinsenhof Vivalto."
+                "else unused IGS/DSO/WZC/MRS (optional: Avondvrede 0446.506.836 YE2025 FREE / Anima hold 0469.969.453 / "
+                "Lork Hoeselt BV 0755.822.317). Do NOT redo Anima Vlaanderen/Zorg-Saam/Sint-Bernardus De Panne/"
+                "Ruggeveld/Salvator/Boterlaarhof/WZND/Foyer De Lork/OLV Kempen/HERTOG JAN/Lindeboom/IPFBW/Aquiris/"
+                "SPGE/IRE*/FANC/SCK CEN/EURIDICE/Hydria/Vivaqua/Belgoprocess/Laborelec/CILE/NIRAS/Bel V/Dijk92/"
+                "Synergrid/AIEG/Synatom/Atrias/RESA/Enodia/Fluxys*/ETB/Elia/BNO/SWDE/BRUGEL."
             ),
             "blocked_gap_id": "",
-            "created_utc": TS,
-            "updated_utc": TS,
-            "notes": "spawned after tick2165 't Hofke; FARO/AIESH/REW still YE2024; next every-10 2170",
+            "created_utc": NOW,
+            "updated_utc": NOW,
+            "notes": "spawned after tick2165 Anima Vlaanderen; FARO/AIESH/REW still YE2024; next every-10 2170",
         }
     )
-with path.open("w", newline="", encoding="utf-8") as f:
-    w = csv.DictWriter(f, fieldnames=cols, lineterminator="\n")
-    w.writeheader()
-    w.writerows(rows)
-print("research_queue rq_2165=done rq_2166=open")
+write_csv(DATA / "research_queue.csv", rq, rh)
+print("research_queue ok")
 
-# loop_state
-path = ROOT / "loop_state.csv"
-with path.open(newline="", encoding="utf-8") as f:
-    r = csv.DictReader(f)
-    rows = list(r)
-    cols = r.fieldnames
-rows[0] = {
-    "state_id": "main",
-    "mode": "continuous",
-    "current_sprint": "hole_fill",
-    "last_tick_utc": TS,
-    "last_unit_id": "rq_2165",
-    "ticks_completed": "2165",
-    "paused": "no",
-    "notes": (
-        "tick2165 leftover 't Hofke Puurs 0823.488.131 Medium (omzet empty; bruto DROP 7.7k; pnl LOSS -87k; equity NEG -560k; FTE 0; 0 VE NACE 87.101); "
-        "AGB Bornem JR2024; FARO/AIESH/REW YE2024; skipped Lork Hoeselt BV NACE 68; next rq_2166; next every-10 2170; continuous hole_fill"
-    ),
-}
-with path.open("w", newline="", encoding="utf-8") as f:
-    w = csv.DictWriter(f, fieldnames=cols, lineterminator="\n")
-    w.writeheader()
-    w.writerows(rows)
-print("loop_state ticks=2165")
+# --- loop_state ---
+state_path = DATA / "loop_state.csv"
+state_rows, sth = read_csv(state_path)
+for r in state_rows:
+    if r["state_id"] == "main":
+        r["mode"] = "continuous"
+        r["current_sprint"] = "hole_fill"
+        r["last_tick_utc"] = NOW
+        r["last_unit_id"] = RQ
+        r["ticks_completed"] = TICK
+        r["paused"] = "no"
+        r["notes"] = (
+            f"tick{TICK} leftover Anima Vlaanderen 0698.940.725 Medium (omzet JUMP 64.67m; pnl DEEPER LOSS -1.42m; "
+            f"equity FLIP NEG -0.89m; FTE 599.5; 11 VE); AGB Bornem JR2024; FARO/AIESH/REW YE2024; "
+            f"Avondvrede/Anima hold/Lork Hoeselt FREE deferred; next {NEXT_RQ}; next every-10 2170; continuous hole_fill"
+        )
+write_csv(state_path, state_rows, sth)
+print("loop_state ok")
+print("DONE tick", TICK)
