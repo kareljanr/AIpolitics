@@ -6,34 +6,34 @@
 
 ---
 
-## Snapshot at **tick 2360** (2026-08-24)
+## Snapshot at **tick 2370** (2026-08-24)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
-| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 2341-2360 continuum; AGB Bornem / FARO / AIESH still YE2024 stalls; **Noordhoek unlocked YE2025@2360** |
-| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 2341-2360 residual dual L5 (not near-complete of 348bn):** Huize Eyckerheyde · Aurelia · Huis Perrekes · Blijdorp/De Ark · De Lier · Staf · Oostrem · Helan HH · Leieborg · Korenbloem · De Branding · MFC Combo · Adem · Ter Kouter · Het Veer · 't Vlot · Stappie · Oostakker · EVERY-10 primary **Noordhoek omzet 2.07m / pnl DROP -76% / 1.50m kapitaalsubsidies** (Strong PDF) |
-| **E. FOI-ready gaps** | **~2044** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2096** |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 2361-2370 continuum; AGB Bornem / FARO / AIESH still YE2024 stalls; **CAR Bolt unlocked YE2025@2370** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 2361-2370 residual dual L5 (not near-complete of 348bn):** De Elfjes · De Steijgertjes · De Steijger · Kapelhof · TKDV Het Veer · Wegwijs · SIG · DIGOR · Mozaiek · EVERY-10 primary **CAR Bolt omzet 2.10m / 1.95m kapitaalsubsidies JUMP +83% / pnl DROP -60% / cash DROP -29%** (Strong PDF) |
+| **E. FOI-ready gaps** | **~2054** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2106** |
 
-**Off-TE (do not mix into 348 bn):** federal taxex · company cars/cheque · **AGB/zorg/APB/EVA/IGS dual + WZC/HVZ/VAPH/maatwerk/CAR shells** (**NEW 2341-2360** Eyckerheyde · Aurelia · Perrekes · Blijdorp/De Ark · De Lier · Staf · Oostrem · Helan HH · Leieborg · Korenbloem · De Branding · MFC Combo · Adem · Ter Kouter · Het Veer · 't Vlot · Stappie · Oostakker · **Noordhoek**) · Metro3 · OWV snowball · Hedera.
+**Off-TE (do not mix into 348 bn):** federal taxex · company cars/cheque · **AGB/zorg/APB/EVA/IGS dual + WZC/HVZ/VAPH/maatwerk/CAR shells** (**NEW 2361-2370** De Elfjes · De Steijgertjes · De Steijger · Kapelhof · TKDV Het Veer · Wegwijs · SIG · DIGOR · Mozaiek · **CAR Bolt**) · Metro3 · OWV snowball · Hedera.
 
-### Inventory (tick 2360)
+### Inventory (tick 2370)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | 54222 |
-| commitments.csv | 6097 |
-| leaderboard.csv | 8217 |
-| entities.csv | 2116 |
-| sources.csv | 7009 |
-| FOI ready | 2044 |
+| budgets.csv | 54314 |
+| commitments.csv | 6107 |
+| leaderboard.csv | 8227 |
+| entities.csv | 2126 |
+| sources.csv | 7049 |
+| FOI ready | 2054 |
 | FOI answered | 11 |
 | FOI partial | 28 |
-| FOI total rows | 2096 |
-| research_queue open | rq_2361 after Noordhoek EVERY-10 (+ rq_116 deferred Q4) |
+| FOI total rows | 2106 |
+| research_queue open | rq_2371 after CAR Bolt EVERY-10 (+ rq_116 deferred Q4) |
 
-### What improved since tick 2350 / last file refresh 2340
+### What improved since tick 2360 / last file refresh 2360
 
-- **Residual dual (tick2341-2360):** **Huize Eyckerheyde** · **Aurelia** · **Huis Perrekes** · **Blijdorp/De Ark** · **De Lier** · **Staf** · **Oostrem** · **Helan HH** · **Leieborg** · **Korenbloem** · **De Branding** · **MFC Combo** · **Adem** · same-zetel CAR cluster **Ter Kouter / Het Veer / 't Vlot / Stappie / Oostakker** · EVERY-10 primary **CAR Noordhoek** (omzet **2.07m** / pnl DROP **−76%** / kapitaalsubsidies **1.50m** / cash **1.57m** / Strong official PDF 2026-00073519; Aanbestedende; FOI ready).
+- **Residual dual (tick2361-2370):** same-zetel CAR+KDV+koepel cluster **De Elfjes / De Steijgertjes / De Steijger / Kapelhof / TKDV Het Veer / Wegwijs / SIG / DIGOR / Mozaiek** · EVERY-10 primary **CAR Bolt** (omzet **2.10m** / kapitaalsubsidies JUMP **1.95m +83%** / pnl DROP **−60%** / cash DROP **1.31m −29%** / gebouwen JUMP **3.82m** / Strong official PDF 2026-00073585; RIZIV 96518265; FOI ready). Named Drongen stack now exhausted except leftover Impuls / Buggenhout.
 - **Blocked still:** AGB Bornem JR2025 unpublished · FARO YE2024 · AIESH YE2024 · Gandae/Aralea/Manupal/Vlotter YE2024.
