@@ -24260,3 +24260,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.8); entities (+1 asbl_lorchidee_ittre); foi + draft gap_lorchidee_ittre_nbb_pdf_assets_debt_thin_equity_omzet_jump_matrix_l5; rq_2131=done + rq_2132 open; loop_state ticks=2131; raw docs/doge/data/raw/tick2131/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2130**; next **2140**). Next: rq_2132 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+## Tick 2132 - 2026-08-25T14:00:00Z - rq_2132 OLV Maagd Der Armen / Ten Rozen Aalst (omzet JUMP 6.91m / pnl JUMP 0.86m / Medium)
+
+- Unit: **rq_2132** leftover dual after **rq_2131 L'Orchidée Ittre**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Onze-Lieve-Vrouw Maagd Der Armen VZW** YE2025 (KBO **0446.222.962**; Rozendreef 190 Aalst; **VZW** NACE **87.301** / **1 VE**; commercial name Beheerder van Rusthuis O.L.V. Ten Rozen). Do not redo L'Orchidée/Care-Support/Restel Flats/De Fakkel/SLG Wallonie/Famifamenne/MPC Sint-Franciscus/Armonea holding.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR6906734** JUMP +8.33% vs YE2024 EUR6375644; bruto **EUR7122013** JUMP +8.3%; pnl **EUR863354** JUMP +41.12%; equity **EUR5617266** JUMP +17.4%; FTE **92.1** vs 88.3; neerlegging **03.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@wzctenrozen.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 vzw_olv_maagd_der_armen_aalst); foi + draft gap_maagd_der_armen_nbb_pdf_assets_debt_omzet_jump_pnl_jump_matrix_l5; rq_2132=done + rq_2133 open; loop_state ticks=2132; raw docs/doge/data/raw/tick2132/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2130**; next **2140**). Next: rq_2133 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
