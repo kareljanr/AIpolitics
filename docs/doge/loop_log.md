@@ -25404,3 +25404,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.90); entities (+1 vzw_de_vleugels_houthulst); foi + draft gap_de_vleugels_nbb_pdf_assets_debt_bruto_gt_omzet_7_37x_vaph_matrix_l5; rq_2231=done + rq_2232 open; loop_state ticks=2231; raw docs/doge/raw/tick2231/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2232 (AGB/FARO-if-YE2025 / AIESH-REW / SDB-Travie-Rucher-or-unused).
+
+
+## Tick 2230 race merge - 2026-08-26T22:50:00Z - Travie dual absorbed + EVERY-10 merge
+
+- Race: concurrent agents — **Kiemkracht** committed as official EVERY-10@2230; this agent filled **Travie** YE2025 Medium (bruto 11.39m / ~2.84x / pnl DROP -89% / FTE 496) with FOI ready; De Vleugels closed rq_2231.
+- Merged Travie + De Vleugels into `progress_every_10_ticks.md` + `doge_waste_top10_current.md` (Kiemkracht remains EVERY-10 primary). FOI draft `gap_travie_...` ready not sent.
+- Next: rq_2232 (AGB/FARO-if-YE2025 / AIESH-REW / SDB-Rucher-or-unused). Next every-10 **2240**.
