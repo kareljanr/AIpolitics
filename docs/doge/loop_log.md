@@ -26375,3 +26375,11 @@ Append-only. Each tick adds a short entry.
 - Found: omzet **EUR1118535** DROP -0.4%; bruto **EUR9383673** (~**8.39x**); pnl **EUR21262** DROP -97.12% vs EUR737745; equity **EUR8224819**; FTE **117.6**; filed **10.07.2026**. Medium. FOI via directie@alvinnenberg.be.
 - Wrote: APPEND sources/budgets/commitments/leaderboard/entities/foi; draft gap_alvinnenberg_nbb_pdf_assets_debt_bruto_gt_omzet_8_39x_pnl_drop_97pct_fte_jump_vaph_matrix_l5; rq_2306=done + rq_2307 open; ticks=2306.
 - FOI ready not sent. NOT every-10 (last 2300; next 2310).
+
+### 2026-08-24T12:53:01Z - tick 2307 - rq_2307 Katrinahof Antwerpen (bruto JUMP 11.18m / ~10.47x omzet / pnl DROP -93% / Medium)
+
+- Unit: **rq_2307** leftover dual after **Alvinnenberg@2306**. Prefer NON-stall: AGB Bornem still **JR2024**; FARO still **YE2024**; AIESH still **YE2024**. Took unused FREE Flemish VAPH **VZW Katrinahof** YE2025 (KBO **0414.830.792**; Fromentinstraat 1 Antwerpen; **Actief** **2 VE**; NACE **87.201**). Do not redo Alvinnenberg/TM Kempen/BC Sint-Elisabeth/Voluit/Kompas/Havinet stack. DISTINCT Katrinahof Scholen.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR1067123** JUMP +3.39%; bruto **EUR11176535** JUMP +6.78% (~**10.47x**); pnl **EUR11440** DROP -92.98%; equity **EUR6810399** DROP -1.2%; FTE **141.8**; neerlegging **02.06.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown. Medium. FOI via info@katrinahof.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.4); entities (+1 vzw_katrinahof_antwerpen); foi + draft gap_katrinahof_nbb_pdf_assets_debt_bruto_gt_omzet_10_47x_pnl_drop_93pct_vaph_matrix_l5; rq_2307=done + rq_2308 open; loop_state ticks=2307; raw docs/doge/data/raw/tick2307/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2300**; next **2310**). Next: rq_2308.

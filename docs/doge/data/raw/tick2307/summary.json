@@ -1,0 +1,15 @@
+{
+  "tick": "2307",
+  "unit": "rq_2307",
+  "entity": "vzw_katrinahof_antwerpen",
+  "kbo": "0414.830.792",
+  "omzet": 1067123,
+  "bruto": 11176535,
+  "pnl": 11440,
+  "equity": 6810399,
+  "fte": 141.8,
+  "ratio": 10.47,
+  "confidence": "medium",
+  "gap": "gap_katrinahof_nbb_pdf_assets_debt_bruto_gt_omzet_10_47x_pnl_drop_93pct_vaph_matrix_l5",
+  "pi": 6.4
+}

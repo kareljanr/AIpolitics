@@ -53897,3 +53897,8 @@ bud_alvinnenberg_omzet_jr2025_statutory,vzw_alvinnenberg_leuven,2025,1118535,111
 bud_alvinnenberg_pnl_jr2025_statutory,vzw_alvinnenberg_leuven,2025,21262,21262,21262,CW pnl YE2025 DROP -97%,src_alvinnenberg_jr2025_cw_en,medium,tick2306; pnl 21262 vs 737745
 bud_alvinnenberg_equity_jr2025_statutory,vzw_alvinnenberg_leuven,2025,8224819,8224819,8224819,CW equity YE2025,src_alvinnenberg_jr2025_cw_en,medium,tick2306; equity 8224819
 bud_alvinnenberg_fte_jr2025_statutory,vzw_alvinnenberg_leuven,2025,117.6,117.6,117.6,CW FTE YE2025,src_alvinnenberg_jr2025_cw_en,medium,tick2306; FTE 117.6
+bud_katrinahof_bruto_jr2025_statutory,vzw_katrinahof_antwerpen,2025,11176535,11176535,11176535,CW statutory bruto YE2025 primary envelope (~10.47x omzet),src_katrinahof_jr2025_cw_en,medium,tick2307; bruto 11176535 JUMP +6.78% vs 10466910; ~10.47x omzet 1067123
+bud_katrinahof_omzet_jr2025_statutory,vzw_katrinahof_antwerpen,2025,1067123,1067123,1067123,CW statutory omzet YE2025,src_katrinahof_jr2025_cw_en,medium,tick2307; omzet 1067123 JUMP +3.39% vs 1032089
+bud_katrinahof_pnl_jr2025_statutory,vzw_katrinahof_antwerpen,2025,11440,11440,11440,CW statutory pnl YE2025 DROP,src_katrinahof_jr2025_cw_en,medium,tick2307; pnl 11440 DROP -92.98% vs YE2024 162968
+bud_katrinahof_equity_jr2025_statutory,vzw_katrinahof_antwerpen,2025,6810399,6810399,6810399,CW statutory equity YE2025 DROP,src_katrinahof_jr2025_cw_en,medium,tick2307; equity 6810399 DROP -1.2% vs 6893223
+bud_katrinahof_fte_jr2025_statutory,vzw_katrinahof_antwerpen,2025,141.8,141.8,141.8,CW FTE YE2025,src_katrinahof_jr2025_cw_en,medium,tick2307; FTE 141.8 vs 138.4
