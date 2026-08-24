@@ -26735,3 +26735,8 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN+FR YE2025 — omzet **unpublished**; bruto **EUR2375418** JUMP +7.8%; pnl **EUR188524** JUMP +32.33%; equity **EUR3118706** JUMP +6.16%; FTE **54.3** JUMP; neerlegging **16.06.2026**. Strong KBO. Assets/debt Unknown. Medium. FOI info@kringwinkeldecirkel.be.
 - Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 4.25); entities (+1); foi ready; rq_2336=done + rq_2337 open; loop_state=2336.
 - FOI: **ready not sent**. Next EVERY-10 **2340**. Next: rq_2337.
+
+### 2026-08-24T18:30:00Z - tick 2339 - rq_2339 OZC Sint-Vincentius (bruto 19.67m / ~7.67x / pnl DROP / Medium)
+- Unit: **rq_2339** after De Cirkel@2338. Took FREE VAPH **OZC Sint-Vincentius** YE2025 (KBO **0410.925.256**).
+- Found: CW omzet **EUR2565580**; bruto **EUR19670361** (~**7.67x**); pnl **EUR1788020** DROP; equity **EUR26682188**; FTE **221.1**; filed **28.05.2026**. Medium.
+- Wrote: CSVs+FOI; rq_2339=done + rq_2340 open; ticks=2339. FOI ready not sent. Next EVERY-10 **2340**.

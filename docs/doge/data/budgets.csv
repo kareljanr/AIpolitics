@@ -54095,3 +54095,8 @@ bud_wieltjesgracht_bruto_jr2025_statutory,vzw_wieltjesgracht_ieper,2025,6996976,
 bud_wieltjesgracht_pnl_jr2025_statutory,vzw_wieltjesgracht_ieper,2025,67949,67949,67949,CW statutory winst/verlies YE2025 DROP -76.5%,src_wieltjesgracht_jr2025_cw_en,medium,tick2337; DROP vs 289183
 bud_wieltjesgracht_equity_jr2025_statutory,vzw_wieltjesgracht_ieper,2025,863772,863772,863772,CW statutory eigen_vermogen YE2025 JUMP,src_wieltjesgracht_jr2025_cw_en,medium,tick2337; +2.2% vs 845201
 bud_wieltjesgracht_fte_jr2025_statutory,vzw_wieltjesgracht_ieper,2025,101.3,101.3,101.3,CW FTE 101.3 JUMP,src_wieltjesgracht_jr2025_cw_en,medium,tick2337; vs 94.1
+bud_ozc_sv_bruto_jr2025_statutory,vzw_ozc_sint_vincentius_geraardsbergen,2025,19670361,19670361,19670361,CW bruto ~7.67x,src_ozc_sv_jr2025_cw_en,medium,tick2339
+bud_ozc_sv_omzet_jr2025_statutory,vzw_ozc_sint_vincentius_geraardsbergen,2025,2565580,2565580,2565580,CW omzet,src_ozc_sv_jr2025_cw_en,medium,tick2339
+bud_ozc_sv_pnl_jr2025_statutory,vzw_ozc_sint_vincentius_geraardsbergen,2025,1788020,1788020,1788020,CW pnl DROP,src_ozc_sv_jr2025_cw_en,medium,tick2339
+bud_ozc_sv_equity_jr2025_statutory,vzw_ozc_sint_vincentius_geraardsbergen,2025,26682188,26682188,26682188,CW equity,src_ozc_sv_jr2025_cw_en,medium,tick2339
+bud_ozc_sv_fte_jr2025_statutory,vzw_ozc_sint_vincentius_geraardsbergen,2025,221.1,221.1,221.1,CW FTE,src_ozc_sv_jr2025_cw_en,medium,tick2339
