@@ -24984,3 +24984,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.6); entities (+1 vzw_groep_talent_herentals); foi + draft gap_groep_talent_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_drop_boskat_merger_matrix_l5; rq_2199=done + rq_2200 open EVERY-10; loop_state ticks=2199; raw docs/doge/data/raw/tick2199/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2200 (EVERY-10 refresh progress+top10 then AGB/FARO-if-YE2025 / AIESH-REW / AGE-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+## Tick 2200 - 2026-08-26T12:40:00Z - rq_2200 EVERY-10 + Atelier Groot Eiland (bruto JUMP 2.93m / empty omzet / pnl JUMP +263% / Medium)
+
+- Unit: **rq_2200 EVERY-10** after **rq_2199 Groep Talent**. Refreshed progress_every_10_ticks.md + doge_waste_top10_current.md (top10 stable GIP/fossil/cars; Metro3/OWV stock-filtered). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; REW still **YE2024**. Took named FREE leftover **Atelier Groot Eiland VZW** YE2025 (KBO **0430.686.037**; Henegouwenkaai 29 Molenbeek; **Actief** **4 VE**; RSZ NACE **88.993**). Do not redo Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **empty**; bruto **EUR2934111** JUMP +7.89% vs YE2024 EUR2719635; pnl **EUR23906** JUMP +263.14% vs YE2024 EUR6583; equity **EUR1014772** DROP -5.09%; FTE **53.6** DROP vs 55.4; neerlegging **24.06.2026**. Strong KBO Actief 4 VE. Assets/debt Unknown. Medium. FOI via info@grooteiland.brussels.
+- Wrote: progress+top10; sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 6.5); entities (+1 vzw_atelier_groot_eiland); foi + draft gap_atelier_groot_eiland_nbb_pdf_assets_debt_empty_omzet_pnl_jump_matrix_l5; rq_2200=done + rq_2201 open; loop_state ticks=2200; raw docs/doge/data/raw/tick2200/.
+- FOI: **ready not sent** (human-gated).
+- **EVERY-10 done** (last was 2190; next **2210**). Next: rq_2201 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
