@@ -1,0 +1,1466 @@
+<!DOCTYPE html>
+<html lang="nl" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+  <meta charset="utf-8" />
+<noscript><style>form.antibot > * { display: none !important; } form.antibot noscript { display: block !important; }</style>
+</noscript><style>/* @see https://github.com/aFarkas/lazysizes#broken-image-symbol */.js img.lazyload:not([src]) { visibility: hidden; }/* @see https://github.com/aFarkas/lazysizes#automatically-setting-the-sizes-attribute */.js img.lazyloaded[data-sizes=auto] { display: block; width: 100%; }</style>
+<meta name="description" content="We zijn een mensgedreven organisatie die tewerkstelling creëert voor mensen voor wie een job in het reguliere arbeidscircuit niet altijd mogelijk is. We gaan voor werk op maat, met focus op zelfontplooiing. En die tewerkstelling moet duurzaam zijn. Hoe doen we dat? We vereenvoudigen arbeidsprocessen en bieden gespecialiseerde ondersteuning op sociaal vlak." />
+<link rel="canonical" href="https://mariasteen.be/" />
+<meta name="robots" content="index, follow" />
+<link rel="shortlink" href="https://mariasteen.be/" />
+<link rel="image_src" href="/themes/custom/mariasteen/opengraph.png" />
+<meta property="og:site_name" content="Mariasteen" />
+<meta property="og:url" content="https://mariasteen.be/home" />
+<meta property="og:title" content="Home" />
+<meta property="og:image" content="https://mariasteen.be/themes/custom/mariasteen/opengraph.png" />
+<meta property="og:image:url" content="https://mariasteen.be/themes/custom/mariasteen/opengraph.png" />
+<meta property="og:image:secure_url" content="https://mariasteen.be/themes/custom/mariasteen/opengraph.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="Mariasteen" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/mariasteen/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="nl" href="https://mariasteen.be/" />
+
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+
+      gtag('consent', 'default', {
+        ad_storage: "denied",
+        ad_user_data: "denied", 
+        ad_personalization: "denied",
+        analytics_storage: "denied",
+        functionality_storage: "denied",
+        personalization_storage: "denied",
+        security_storage: "granted",
+        wait_for_update: 2000,
+      });
+
+      gtag("set", "ads_data_redaction", true);
+    </script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-WKCSZ8P');</script>
+      <!-- End Google Tag Manager -->
+    <script>
+      //update consent mode if already given
+      if(localStorage.getItem('consentMode') != null) {
+        updateConsentMode(JSON.parse(localStorage.getItem('consentMode')));
+      }
+      
+      document.addEventListener('click', function(event) {
+        // Check if the clicked element has the class 'eu-cookie-compliance-agree-button'
+        if (event.target.classList.contains('eu-cookie-compliance-agree-button')) {
+          var consentMode = {
+            ad_storage: 'granted',
+            ad_user_data: 'granted',
+            ad_personalization: 'granted',
+            analytics_storage: 'granted',
+            functionality_storage: 'granted',
+            personalization_storage: 'granted',
+            security_storage: 'granted',
+          };
+
+          updateConsentMode(consentMode);
+        }
+
+        // Check if the clicked element has the class 'eu-cookie-compliance-disagree-button'
+        if (event.target.classList.contains('eu-cookie-compliance-disagree-button')) {
+          var consentMode = {
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied',
+            analytics_storage: 'denied',
+            functionality_storage: 'denied',
+            personalization_storage: 'denied',
+            security_storage: 'granted',
+          };
+
+          updateConsentMode(consentMode);
+
+          // Uncheck manually because not correctly done by module
+          var categoryCheckboxes = document.querySelectorAll('.eu-cookie-compliance-category input[type="checkbox"]');
+          categoryCheckboxes.forEach(function(checkbox) {
+            checkbox.checked = false;
+          });
+        }
+
+        // Check if the clicked element has the class 'eu-cookie-compliance-save-preferences-button'
+        if (event.target.classList.contains('eu-cookie-compliance-save-preferences-button')) {
+          var acceptedCookies = [];
+          var checkboxElements = document.querySelectorAll('.eu-cookie-compliance-category .form-type__checkbox > .form-checkbox:checked');
+
+          checkboxElements.forEach(function(checkbox) {
+            acceptedCookies.push(checkbox.value);
+          });
+
+          var consentMode = {
+            ad_storage: acceptedCookies.includes('marketing_cookies') ? 'granted' : 'denied',
+            ad_user_data: acceptedCookies.includes('marketing_cookies') ? 'granted' : 'denied',
+            ad_personalization: acceptedCookies.includes('marketing_cookies') ? 'granted' : 'denied',
+            analytics_storage: acceptedCookies.includes('analytical_cookies') ? 'granted' : 'denied',
+            functionality_storage: acceptedCookies.includes('functional_cookies') ? 'granted' : 'denied',
+            personalization_storage: acceptedCookies.includes('functional_cookies') ? 'granted' : 'denied',
+            security_storage: acceptedCookies.includes('necessary_cookies') ? 'granted' : 'denied',
+          };
+
+          updateConsentMode(consentMode);
+        }
+      });
+
+      function updateConsentMode(consentMode) {
+        gtag('consent', 'update', consentMode);
+        localStorage.setItem('consentMode', JSON.stringify(consentMode));
+      }
+    </script>
+    <title>Jouw bedrijf. Sociaal. | Mariasteen</title>
+    <link rel="stylesheet" media="all" href="/sites/mariasteen/files/css/css_cjGfHkGBetrEsK56zS6JUN7zuiBOzmx3RXv6n_y0Odk.css?delta=0&amp;language=nl&amp;theme=mariasteen&amp;include=eJx9T9FOAzEM-6HSftIpbb27sLapkpZtfD13MLEhEC-x49iyQq90XYpQhgZ6cD82lRihjtrgKCPc0Z9Eq8NcksiZsUPthaklhL_EJZLCbdQaRzKEb_aSzFwlZbIBtHBoz_tpT9-iXJ81Q0Ea_P7DaIXT2XVSWpX6ZiHr7FT8Q_Gz9RkL24bs7LbH6lfdG-Ni4XP6KnkWuAvi8WC4o98bK9rwGYO4mB-yrv_YKsxo_X0_xgdjBI1d" />
+<link rel="stylesheet" media="all" href="/sites/mariasteen/files/css/css_Fg9w_gdbF5rhZfWDYre3n3x6niAPbjrz8RcCL1fS30Q.css?delta=1&amp;language=nl&amp;theme=mariasteen&amp;include=eJx9T9FOAzEM-6HSftIpbb27sLapkpZtfD13MLEhEC-x49iyQq90XYpQhgZ6cD82lRihjtrgKCPc0Z9Eq8NcksiZsUPthaklhL_EJZLCbdQaRzKEb_aSzFwlZbIBtHBoz_tpT9-iXJ81Q0Ea_P7DaIXT2XVSWpX6ZiHr7FT8Q_Gz9RkL24bs7LbH6lfdG-Ni4XP6KnkWuAvi8WC4o98bK9rwGYO4mB-yrv_YKsxo_X0_xgdjBI1d" />
+<link rel="stylesheet" media="all" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css" />
+
+      
+
+        <link rel="apple-touch-icon" sizes="57x57" href="/themes/custom/mariasteen/assets/favicons/apple-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="60x60" href="/themes/custom/mariasteen/assets/favicons/apple-icon-60x60.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/themes/custom/mariasteen/assets/favicons/apple-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="76x76" href="/themes/custom/mariasteen/assets/favicons/apple-icon-76x76.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/themes/custom/mariasteen/assets/favicons/apple-icon-114x114.png" />
+        <link rel="apple-touch-icon" sizes="120x120" href="/themes/custom/mariasteen/assets/favicons/apple-icon-120x120.png" />
+        <link rel="apple-touch-icon" sizes="144x144" href="/themes/custom/mariasteen/assets/favicons/apple-icon-144x144.png" />
+        <link rel="apple-touch-icon" sizes="152x152" href="/themes/custom/mariasteen/assets/favicons/apple-icon-152x152.png" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/mariasteen/assets/favicons/apple-icon-180x180.png" />
+        <link rel="icon" type="image/png" sizes="192x192" href="/themes/custom/mariasteen/assets/favicons/android-icon-192x192.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/themes/custom/mariasteen/assets/favicons/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="96x96" href="/themes/custom/mariasteen/assets/favicons/favicon-96x96.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/themes/custom/mariasteen/assets/favicons/favicon-16x16.png" />
+        <link rel="manifest" href="/themes/custom/mariasteen/assets/favicons/manifest.json" />
+        <meta name="msapplication-TileColor" content="#ffffff" />
+        <meta name="msapplication-TileImage" content="/themes/custom/mariasteen/assets/favicons/ms-icon-144x144.png" />
+        <meta name="theme-color" content="#ffffff" />
+      </head>
+      <body class="frontpage page-type--homepage">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-WKCSZ8P
+          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+          <!-- End Google Tag Manager (noscript) -->
+          
+        
+          <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<div class="wrapper page" id="wrapper">
+	<div id="general_content">
+		
+<header  class="region region--header header">
+	<div class="header__secondary">
+		<div class="container">
+			<div class="row header__secondary-row">
+				<div class="header__secondary-nav col">
+											<div id="block-secondary-navigation" class="block navigation block--menu block--system block--system-menu-blocksecondary-navigation menu--secondary-navigation">
+	
+	<nav role="navigation" class="navigation">
+					
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/over-mariasteen" data-drupal-link-system-path="node/34">Over Mariasteen</a>
+              </li>
+                <li class="menu-item">
+        <a href="/werken-bij-mariasteen" data-drupal-link-system-path="node/33">Werken bij Mariasteen</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://mariasteen.hro.be/">Vacatures</a>
+              </li>
+                <li class="menu-item">
+        <a href="/tevreden-klanten" data-drupal-link-system-path="node/30">Referenties</a>
+              </li>
+                <li class="menu-item">
+        <a href="/nieuws" data-drupal-link-system-path="node/16">Nieuws</a>
+              </li>
+                <li class="menu-item">
+        <a href="/contacteer-ons" data-drupal-link-system-path="node/26">Contacteer ons</a>
+              </li>
+        </ul>
+  
+
+
+			</nav>
+</div>
+
+									</div>
+				<div class="header__search col">
+					
+<div class="views-exposed-form block block--views block--views-exposed-filter-blocksite-search-site-search-overview" data-drupal-selector="views-exposed-form-site-search-site-search-overview" id="block-site-search">
+	
+	<form action="/zoeken" method="get" id="views-exposed-form-site-search-site-search-overview" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-search-api-fulltext form-item-search-api-fulltext form-no-label">
+        <input placeholder="ZOEKEN" data-drupal-selector="edit-search-api-fulltext" type="text" id="edit-search-api-fulltext" name="search_api_fulltext" value="" size="30" maxlength="128" class="form-text" />
+
+          <button class="search-api-button js-search-api-button"><i class="icon-search"></i></button>
+</div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+<div class="button--self button js-form-submit form-submit" >
+	<input type="submit"  data-drupal-selector="edit-submit-site-search" type="submit" id="edit-submit-site-search" value="Toepassen" class="button js-form-submit form-submit"/>
+</div>
+</div>
+
+</div>
+
+</form>
+
+</div>
+
+				</div>
+				<div class="header__language-switch col">
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="header__main">
+		<div class="container">
+			<div class="row header__main-row">
+				<div class="header__logo col">
+					<a class='logo' href='https://mariasteen.be/'>
+    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="183.81" height="80" viewBox="0 0 2388.07 1016.34">
+      <path style="fill: #0071ce;"
+          d="M711.86,960.2c-31.38,0-62.78,9.6-69.78,12.17-10.36-6.61-26.22-12.17-49.48-12.17s-51.31,3.68-69.4,7.38c-22.54,4.79-34,8.86-34,22.51V1158.7l64.26,0v-153.5c3.67-.75,19.56-3.35,31-3.35,14.41,0,22.9,6.3,22.9,25.83v131H672V1005.23c3.34-.75,17.37-3.35,29.2-3.35,14.38,0,24.35,6.3,24.35,25.83v131h64.26V1018.49C789.77,970.55,759.1,960.2,711.86,960.2Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;"
+          d="M988.94,971.28c-12.93-7.4-31.41-11.08-57.24-11.08-40.59,0-76.44,11.08-83.43,13.64-3,1.13-4.8,2.6-4.8,5.93a26.57,26.57,0,0,0,.74,4.42l5.91,25.09c.74,2.6,1.84,3.69,4.06,3.69a14.74,14.74,0,0,0,3.7-.76c8.11-2.18,36.53-9.59,59.42-9.59,11.08,0,19.58,1.13,24.35,3.37,6.66,3.29,7.79,9.21,7.79,18.42v7.75l-62.77,10c-24.36,3.67-55.76,11.07-55.76,57.57,0,57.19,45.79,63.84,91.57,63.84,22.14,0,39.13-1.47,53.88-4.8,25.11-5.91,36.94-10.34,36.94-39.12V1018.87C1013.3,997.84,1007,981.24,988.94,971.28Zm-38.77,149.8a124.14,124.14,0,0,1-26.62,3.33c-12.52,0-30.61-3-30.61-25.48,0-20.63,10.69-23.22,24-25.45l33.23-5.16Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;"
+          d="M1169.22,960.93h-6.28a341.74,341.74,0,0,0-65.33,6.65c-21.79,4.79-33.61,8.86-33.61,22.13v169h64.24V1010.4c3.34-.77,21.39-2.95,42.09-2.95,7.37,0,7.37-4,7.37-8.52V969.05c0-3-.7-4.76-1.83-5.89C1174.39,961.68,1172.57,960.93,1169.22,960.93Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;" d="M1282.26,976.44c0-3.32-2.58-5.53-5.92-5.53h-52c-3.69,0-6.31,2.21-6.31,5.53v182.29h64.26Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;"
+          d="M1229.84,946.19h40.62c7.74,0,11.44-3,11.44-11.08V892.32c0-8.12-3.7-11.07-11.44-11.07h-40.62c-7.75,0-11.44,3-11.44,11.07v42.79C1218.4,943.24,1222.09,946.19,1229.84,946.19Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;"
+          d="M1488.72,971.28c-13-7.4-31.41-11.08-57.24-11.08-40.62,0-76.43,11.08-83.43,13.64-3,1.13-4.79,2.6-4.79,5.93a24.8,24.8,0,0,0,.75,4.42l5.87,25.09c.75,2.6,1.87,3.69,4.08,3.69a14,14,0,0,0,3.66-.76c8.13-2.18,36.58-9.59,59.46-9.59,11.09,0,19.58,1.13,24.37,3.37,6.64,3.29,7.72,9.21,7.72,18.42v7.75l-62.75,10c-24.36,3.67-55.72,11.07-55.72,57.57,0,57.19,45.74,63.84,91.55,63.84,22.15,0,39.1-1.47,53.9-4.8,25.1-5.91,36.93-10.34,36.93-39.12V1018.87C1513.08,997.84,1506.81,981.24,1488.72,971.28Zm-38.8,149.8a123.79,123.79,0,0,1-26.57,3.33c-12.54,0-30.63-3-30.63-25.48,0-20.63,10.69-23.22,24-25.45l33.22-5.16Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;"
+          d="M1660.13,1038.8c-17.71-3.32-33.59-4.07-33.59-21,0-14.79,16.24-16.64,27-16.64,18.45,0,38,4.07,41,4.83,5.53,1.07,7.76-.76,8.49-4.11l4.79-26.56a5.81,5.81,0,0,0-4.44-6.65c-8.09-2.58-31-8.47-59.8-8.47-32.48,0-81.22,5.56-81.22,62,0,50.18,32.5,56.1,58,60.87l4,.76c17,3.3,25.1,5.19,25.1,19.91,0,14.4-13.66,18.09-25.85,18.09-21,0-45.76-7-51.32-8.12a11.46,11.46,0,0,0-3-.38,4.32,4.32,0,0,0-4.42,3.68l-4.8,27a19.2,19.2,0,0,0-.36,3.3c0,4.44,2.57,5.17,3.7,5.55,7.36,2.22,38,10.31,69.39,10.31,46.15,0,81.23-16.21,81.23-64.56C1714,1052.45,1686.35,1043.58,1660.13,1038.8Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;"
+          d="M1876.22,1118.48c-.75-2.91-1.13-4.39-4.43-4.39a12.5,12.5,0,0,0-3,.35c-7.75,1.13-12.91,2.23-22.53,2.23-18.82,0-22.14-8.88-22.14-21.79V1010.4h45.78c3.33,0,5.9-2.22,5.9-5.55v-34.3c0-3.32-2.57-5.53-5.9-5.53h-45.78V906.33c0-4.78-2.58-12.91-10-11.1l-46.9,12.58c-5.51,1.48-7.37,4.05-7.37,10v181.17c0,46.17,23.62,62.72,69.41,62.72,25.85,0,42.46-5.17,46.89-6.61,4-1.47,5.53-3.33,5.53-6.65a16.63,16.63,0,0,0-.38-3.69Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;"
+          d="M2007,960.2c-71.27,0-94.89,28-94.89,102.94,0,75.65,33.23,100.39,105.23,100.39,33.22,0,58.68-8.14,69.77-12.56,2.59-1.1,4.43-3,4.43-6.27a16.89,16.89,0,0,0-.37-3.68l-5.17-23.25c-1.12-4.06-2.93-4.8-5.53-4.8a8.46,8.46,0,0,0-2.58.36c-11.44,3-28.07,8.5-49.12,8.5-15.87,0-27.32-1.87-35.8-5.92-11.82-5.52-17-14.39-17-28.38h114.82c8.49,0,10-5.58,10-11.09v-17.68c0-34.35-5.16-59-20.29-75.32C2066.06,968,2043.17,960.2,2007,960.2Zm31,90.42h-62c0-10.74,0-18.83,1.48-27,2.2-14.38,9.59-21.78,30.66-21.78,15.48,0,24.72,5.92,28.05,23.62a110.74,110.74,0,0,1,1.84,20.29Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;"
+          d="M2230.46,960.2c-71.26,0-94.88,28-94.88,102.94,0,75.65,33.22,100.39,105.24,100.39,33.19,0,58.7-8.14,69.76-12.56,2.59-1.1,4.44-3,4.44-6.27a16.89,16.89,0,0,0-.37-3.68l-5.19-23.25c-1.09-4.06-2.94-4.8-5.52-4.8a8.61,8.61,0,0,0-2.6.36c-11.44,3-28.06,8.5-49.09,8.5-15.89,0-27.34-1.87-35.81-5.92-11.81-5.52-17-14.39-17-28.38h114.82c8.48,0,10-5.58,10-11.09v-17.68c0-34.35-5.17-59-20.3-75.32C2289.52,968,2266.65,960.2,2230.46,960.2Zm31,90.42h-62c0-10.74,0-18.83,1.46-27,2.22-14.38,9.6-21.78,30.65-21.78,15.5,0,24.73,5.92,28,23.62a108.1,108.1,0,0,1,1.85,20.29Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;"
+          d="M2471.3,960.2c-23.62,0-50.19,3.68-68.65,7.38-22.54,4.45-34,8.86-34,22.51v168.64h64.25v-153.5c3.32-.75,17.34-3.35,29.16-3.35,14.4,0,22.15,6.3,22.15,25.83v131h64.61V1018.49C2548.84,970.55,2518.56,960.2,2471.3,960.2Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;" d="M160.77,147.2V806.8h82.12V162.61C202.16,154.44,173.22,149.33,160.77,147.2Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;" d="M489.22,404V806.8h82.12V420C544,414.2,516.53,408.87,489.22,404Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;" d="M817.74,489.36V806.8h82V524.29C874,511.79,846.45,500.15,817.74,489.36Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #00a7e1;"
+          d="M242.89,162.61V806.8H407.11V390.5c53.81,8.09,109.19,17.85,164.23,29.47V806.8H735.56V461.6c58.91,17.9,114.61,38.67,164.21,62.69V806.8H1064V453C831.25,293.9,422.56,198.62,242.89,162.61Z"
+          transform="translate(-160.77 -147.2)" />
+  </svg>
+ 
+
+  </a>
+				</div>
+				<div class="header__main-nav col">
+											
+<div id="block-mariasteen-mainnavigation" class="block navigation block--menu block--system block--system-menu-blockmain menu--main">
+	
+	<nav role="navigation" class="navigation navbar-nav">
+					
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/diensten/metaal" data-drupal-link-system-path="taxonomy/term/1">Metaal</a>
+              </li>
+                <li class="menu-item">
+        <a href="/diensten/hout" data-drupal-link-system-path="taxonomy/term/2">Hout</a>
+              </li>
+                <li class="menu-item">
+        <a href="/diensten/industriele-activiteiten" data-drupal-link-system-path="taxonomy/term/3">Industrie</a>
+              </li>
+                <li class="menu-item">
+        <a href="/diensten/groendienst" data-drupal-link-system-path="taxonomy/term/5">Groen</a>
+              </li>
+                <li class="menu-item">
+        <a href="/diensten/hulp-jouw-bedrijf/poetsen" data-drupal-link-system-path="node/70">Poets</a>
+              </li>
+                <li class="menu-item">
+        <a href="/diensten/hulp-jouw-bedrijf/schilderwerken" data-drupal-link-system-path="node/72">Schilder</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://mariasteen.be/diensten/enclave">Enclave</a>
+              </li>
+                <li class="menu-item">
+        <a href="/diensten/duurzaamheid" data-drupal-link-system-path="taxonomy/term/4">Duurzaamheid</a>
+              </li>
+                <li class="menu-item">
+        <a href="/diensten/horeca-met-een-hart" data-drupal-link-system-path="taxonomy/term/6">Horeca</a>
+              </li>
+        </ul>
+  
+
+
+			</nav>
+</div>
+
+									</div>
+				<div class="header__menu-toggle col">
+					<button class="hamburger hamburger--squeeze js-menu-toggle" aria-label="menu-toggle" type="button">
+						<span class="hamburger-box">
+							<span class="hamburger-inner"></span>
+						</span>
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+
+
+		<main id="content" class="js-intro">
+			
+			  <div id="region--content" class="region region--content">
+    
+<div id="block-mariasteen-mainpagecontent" class="block block--system block--system-main-block">
+	
+	
+<div  class="node node--homepage node--type--homepage node__full node--homepage__full">
+    <div class="container">
+        <section class="node--homepage__intro js-homepage-intro">
+                <picture>
+                  <source srcset="/sites/mariasteen/files/styles/width_2200/public/uploads/homepages/intro_images/home-03_1.jpg?itok=xgKCHaQK 1x" media="all and (min-width: 1600px)" type="image/jpeg" width="2200" height="769"/>
+              <source srcset="/sites/mariasteen/files/styles/width_2200/public/uploads/homepages/intro_images/home-03_1.jpg?itok=xgKCHaQK 1x" media="all and (min-width: 1440px) and (max-width: 1599px)" type="image/jpeg" width="2200" height="769"/>
+              <source srcset="/sites/mariasteen/files/styles/width_2200/public/uploads/homepages/intro_images/home-03_1.jpg?itok=xgKCHaQK 1x" media="all and (min-width: 1200px) and (max-width: 1439px)" type="image/jpeg" width="2200" height="769"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1600/public/uploads/homepages/intro_images/home-03_1.jpg?itok=1XB1j0xR 1x" media="all and (min-width: 992px) and (max-width: 1199px)" type="image/jpeg" width="1600" height="559"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1600/public/uploads/homepages/intro_images/home-03_1.jpg?itok=1XB1j0xR 1x" media="all and (min-width: 768px) and (max-width: 991px)" type="image/jpeg" width="1600" height="559"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1440/public/uploads/homepages/intro_images/home-03_1.jpg?itok=Of_T7Q9u 1x" media="all and (min-width: 568px) and (max-width: 767px)" type="image/jpeg" width="1440" height="503"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1440/public/uploads/homepages/intro_images/home-03_1.jpg?itok=Of_T7Q9u 1x" type="image/jpeg" width="1440" height="503"/>
+                  <img loading="eager" width="2200" height="769" src="/sites/mariasteen/files/styles/width_2200/public/uploads/homepages/intro_images/home-03_1.jpg?itok=xgKCHaQK" alt="" />
+
+  </picture>
+
+
+
+            <div class="node--homepage__intro--wrapper">
+                <div class="node--homepage__intro--title">
+                                            <h1>
+                            Jouw bedrijf.<br />
+Sociaal.
+                        </h1>
+                                    </div>
+        
+                <div class="node--homepage__intro--text">
+                                                                <div>
+                            <a class="button--primary" href="#appointment-popup">Maak een afspraak</a>
+                        </div>  
+                                                    
+                </div>
+                
+            </div>
+        
+            
+            <div class="node--homepage__intro--search">
+                
+
+
+<div id="block-search-bar-services" class="block block--block-content block--block-contentc93cb707-561a-4169-9ab2-9a82aa615154 block-search-bar-services">
+		<div class="block-search-bar-services--dropdown">
+		<label>
+			Ik ben op zoek naar
+		</label>
+		<select>
+							<option value="1_1__/diensten/metaal" data-link="/diensten/metaal">
+					aluminium
+				</option>
+							<option value="1_2__/diensten/metaal" data-link="/diensten/metaal">
+					co-engineering
+				</option>
+							<option value="8_0__/diensten/hulp-jouw-bedrijf/schilderwerken-2" data-link="/diensten/hulp-jouw-bedrijf/schilderwerken-2">
+					Enclave
+				</option>
+							<option value="9_0__/diensten/hulp-jouw-bedrijf/poetsen-2" data-link="/diensten/hulp-jouw-bedrijf/poetsen-2">
+					Enclave
+				</option>
+							<option value="5_0__/diensten/groendienst" data-link="/diensten/groendienst">
+					Groendienst
+				</option>
+							<option value="6_0__/diensten/horeca-met-een-hart" data-link="/diensten/horeca-met-een-hart">
+					Horeca
+				</option>
+							<option value="2_0__/diensten/hout" data-link="/diensten/hout">
+					Houtbewerking
+				</option>
+							<option value="1_0__/diensten/metaal" data-link="/diensten/metaal">
+					Metaalbewerking
+				</option>
+							<option value="3_0__/diensten/industriele-activiteiten" data-link="/diensten/industriele-activiteiten">
+					Montage
+				</option>
+							<option value="7_0__/diensten/hulp-jouw-bedrijf/enclave" data-link="/diensten/hulp-jouw-bedrijf/enclave">
+					Poetsdienst
+				</option>
+							<option value="7_1__/diensten/hulp-jouw-bedrijf/enclave" data-link="/diensten/hulp-jouw-bedrijf/enclave">
+					Schilder- &amp; kluswerken
+				</option>
+							<option value="3_2__/diensten/industriele-activiteiten" data-link="/diensten/industriele-activiteiten">
+					Verlijmen
+				</option>
+							<option value="3_1__/diensten/industriele-activiteiten" data-link="/diensten/industriele-activiteiten">
+					Verpakking
+				</option>
+							<option value="7_2__/diensten/hulp-jouw-bedrijf/enclave" data-link="/diensten/hulp-jouw-bedrijf/enclave">
+					Verpakking
+				</option>
+					</select>
+	</div>
+	<a class="block-search-bar-services--button js-bind-selectize-button" href="/diensten/metaal">
+		<div>
+			Toon aanbod op maat <i class="icon-arrow-right"></i>
+		</div>
+		
+	</a>
+</div>
+
+            </div>
+            
+        </section>    
+    </div>
+	
+
+<div id="field-pg-layout-start"  class="field field--entity-reference-revisions field-pg-layout">
+			
+	<section class="paragraph-id--396 paragraph space-top-md space-bottom-md paragraph--image-text-simple paragraph--default paragraph-image_text_simple--default image-text-simple  wow fadeIn" data-wow-duration="0.6s">
+		<div class="container">
+			<div class="wrapper mw-1200">
+				<div class="image-text-simple__row">
+					<div class="image-text-simple__col image-text-simple__col--image col-left wow fadeIn" data-wow-duration="0.5s">
+						  <img loading="lazy" src="/sites/mariasteen/files/styles/square_350x350/public/uploads/paragraphs/image_text_simple/pg_image_field/Beeld%20voor%20bij%203%20panelen%20enclaves_1.JPG?h=5f62bdfc&amp;itok=609SRVR0" width="350" height="350" alt="" />
+
+
+
+					</div>
+					<div class="image-text-simple__col  image-text-simple__col--text col-right wow fadeIn" data-wow-duration="0.5s">
+						<div>
+															<h2 class="image-text-simple__title heading4 wow fadeIn" data-wow-delay="0.5s">Maatwerkbedrijf Mariasteen</h2>
+																						<div class=" wow fadeIn" data-wow-delay="0.5s">
+									<p>We zijn een <strong>mensgedreven</strong> organisatie die tewerkstelling creëert voor mensen voor wie een job in het reguliere arbeidscircuit niet altijd mogelijk is. We gaan voor <strong>w</strong><strong>erk op maat</strong>, met focus op zelfontplooiing. En die tewerkstelling moet duurzaam zijn. Hoe doen we dat? We vereenvoudigen arbeidsprocessen en bieden gespecialiseerde ondersteuning op sociaal vlak.</p>
+<p>We pionieren op vlak van <strong>assistieve technologie</strong> en we zijn een <strong>gewaardeerde zakenpartner</strong> voor veel gerenommeerde bedrijven in verschillende sectoren.</p>
+<p>Diverse&nbsp;<strong>diensten</strong> (groen, schilder en klus, poetsen) aan overheden en social-profit organisaties zijn een deel van ons aanbod. En voor particulieren én bedrijven hebben we een brede waaier aan&nbsp;<strong>horeca-services</strong>.</p>
+<p>Dit alles gaat gepaard met&nbsp;<strong>respect voor mens en milieu</strong>. Dit zijn onze belangrijkste waarden, al sinds 1963.</p>
+
+								</div>
+							
+															<div class="image-text-simple__link-container wow fadeIn" data-wow-delay="0.5s">
+							
+																	<div class="image-text-simple__link">
+										<div class="button--primary">
+											
+										</div>
+									</div>
+								
+								
+													</div>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+			
+	<section class="paragraph-id--445 paragraph space-top-md space-bottom-md paragraph--layout-image-text paragraph--default paragraph-layout_image_text--default layout-image-text  wow fadeInUp" data-wow-duration="0.6s">
+		<div class="container bg--primary">
+			<div class="wrapper mw-1900">
+				<div class="layout-image-text__row">
+					<div class="layout-image-text__col layout-image-text__col--image col-left wow fadeInUp" data-wow-duration="1s">
+						    <picture>
+                  <source srcset="/sites/mariasteen/files/styles/width_2200/public/uploads/paragraphs/layout_image_text/pg_image_field/Untitled-1.jpg?itok=Tq1nrOx6 1x" media="all and (min-width: 1600px)" type="image/jpeg" width="2200" height="2235"/>
+              <source srcset="/sites/mariasteen/files/styles/width_2200/public/uploads/paragraphs/layout_image_text/pg_image_field/Untitled-1.jpg?itok=Tq1nrOx6 1x" media="all and (min-width: 1440px) and (max-width: 1599px)" type="image/jpeg" width="2200" height="2235"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1600/public/uploads/paragraphs/layout_image_text/pg_image_field/Untitled-1.jpg?itok=9xzkUjxq 1x" media="all and (min-width: 1200px) and (max-width: 1439px)" type="image/jpeg" width="765" height="777"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1600/public/uploads/paragraphs/layout_image_text/pg_image_field/Untitled-1.jpg?itok=9xzkUjxq 1x" media="all and (min-width: 992px) and (max-width: 1199px)" type="image/jpeg" width="765" height="777"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1440/public/uploads/paragraphs/layout_image_text/pg_image_field/Untitled-1.jpg?itok=CiF15BmX 1x" media="all and (min-width: 768px) and (max-width: 991px)" type="image/jpeg" width="765" height="777"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1440/public/uploads/paragraphs/layout_image_text/pg_image_field/Untitled-1.jpg?itok=CiF15BmX 1x" media="all and (min-width: 568px) and (max-width: 767px)" type="image/jpeg" width="765" height="777"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1200/public/uploads/paragraphs/layout_image_text/pg_image_field/Untitled-1.jpg?itok=Garto12m 1x" type="image/jpeg" width="765" height="777"/>
+                  <img loading="eager" width="765" height="777" src="/sites/mariasteen/files/styles/width_1200/public/uploads/paragraphs/layout_image_text/pg_image_field/Untitled-1.jpg?itok=Garto12m" alt="" />
+
+  </picture>
+
+
+					</div>
+					<div class="layout-image-text__col  layout-image-text__col--text col-right wow fadeInUp" data-wow-duration="1.0s">
+													<h2 class="layout-image-text__title wow fadeIn" data-wow-delay="0.1s">Jobdag gemist? Geen nood!</h2>
+																			<div class=" wow fadeIn" data-wow-delay="0.5s">
+								<p>Ben jij op zoek naar <strong>werk op maat</strong> in een <strong>warme, mensgerichte organisatie</strong>?<br>Bij <strong>Mariasteen</strong> geloven we dat iedereen talent heeft. Kom langs voor een <strong>babbel en rondleiding</strong>, ontmoet onze <strong>maatwerkers en maatwerkcoaches</strong> en ontdek het <strong>kloppend hart van onze organisatie</strong>. Na je bezoek zal je zien: werken bij Mariasteen is écht anders.</p>
+<p>Wij bieden:</p>
+<ul>
+<li><strong>jobs met betekenis</strong> – werk dat je met <strong>100% goesting</strong> doet.</li>
+<li>een <strong>werkweek van 4,5 dagen</strong>,</li>
+<li>een <strong>uitstekende work-life balans</strong>,</li>
+<li>en <strong>meer dan 1000 collega’s</strong> die elke dag samen het verschil maken.</li>
+</ul>
+<p>Wij creëren <strong>kansen voor mensen met een afstand tot de arbeidsmarkt</strong> en bouwen aan een samenleving waarin <strong>iedereen meetelt</strong>.</p>
+<p><br>Wil jij meewerken aan die impact? <strong>Neem contact op </strong><a class="decorated-link cursor-pointer" href="mailto:jobs@mariasteen.be" rel="noopener">jobs@mariasteen.be</a><a class="decorated-link cursor-pointer" rel="noopener"> &nbsp;</a>051 230 811</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+							</div>
+																			<div class="layout-image-text__link wow fadeIn" data-wow-delay="0.1s">
+								<div class="button--fill">
+									<a href="/jobdag-gemist" >
+										Meer info
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+		</div>
+
+			</section>
+
+			
+	<section class="paragraph-id--462 paragraph space-top-md space-bottom-md paragraph--image-text-simple paragraph--default paragraph-image_text_simple--default image-text-simple  wow fadeIn" data-wow-duration="0.6s">
+		<div class="container">
+			<div class="wrapper mw-1200">
+				<div class="image-text-simple__row">
+					<div class="image-text-simple__col image-text-simple__col--image col-left wow fadeIn" data-wow-duration="0.5s">
+						  <img loading="lazy" src="/sites/mariasteen/files/styles/square_350x350/public/uploads/paragraphs/image_text_simple/pg_image_field/onestopsho.png?h=048f1952&amp;itok=H7T1Q2Ey" width="350" height="350" alt="" />
+
+
+
+					</div>
+					<div class="image-text-simple__col  image-text-simple__col--text col-right wow fadeIn" data-wow-duration="0.5s">
+						<div>
+															<h2 class="image-text-simple__title heading4 wow fadeIn" data-wow-delay="0.5s">One stop shop </h2>
+																						<div class=" wow fadeIn" data-wow-delay="0.5s">
+									<p>Mariasteen ondersteunt klanten zowel bij ontwikkeling, productie als verpakking van eindproduct. Dit doen we in onze vestigingen Hooglede-Gits, Roeselare en Tielt. Onze bedrijfsvideo geeft je direct een idee van onze talrijke mogelijkheden. Focus ligt niet enkel op seriewerk, we hebben ook de nodige know-how en expertise voor projectwerk en kleine reeksen. Vragen na het bekijken van deze video? Neem contact op met ons!&nbsp;</p>
+
+								</div>
+							
+															<div class="image-text-simple__link-container wow fadeIn" data-wow-delay="0.5s">
+							
+																	<div class="image-text-simple__link">
+										<div class="button--primary">
+											<a href="https://www.youtube.com/@mariasteen2542">Mariasteen in beeld (youtube) </a>
+										</div>
+									</div>
+								
+								
+													</div>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+			
+	<section class="paragraph-id--428 paragraph space-top-md space-bottom-md paragraph--layout-video paragraph--default paragraph-layout_video--default layout-video">
+		<div class="container">
+			<div class="layout-video__row">
+				<div class="layout-video__video-wrapper wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="0.5s">
+					
+																
+										
+						    <picture>
+                  <source srcset="/sites/mariasteen/files/styles/width_2200/public/uploads/paragraphs/layout_video/video_poster_image/Mariasteen_afwerking.00_01_28_24.Still002-min.jpg?itok=FGa2DNao 1x" media="all and (min-width: 1600px)" type="image/jpeg" width="2200" height="1238"/>
+              <source srcset="/sites/mariasteen/files/styles/width_2200/public/uploads/paragraphs/layout_video/video_poster_image/Mariasteen_afwerking.00_01_28_24.Still002-min.jpg?itok=FGa2DNao 1x" media="all and (min-width: 1440px) and (max-width: 1599px)" type="image/jpeg" width="2200" height="1238"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1600/public/uploads/paragraphs/layout_video/video_poster_image/Mariasteen_afwerking.00_01_28_24.Still002-min.jpg?itok=I1qMMdED 1x" media="all and (min-width: 1200px) and (max-width: 1439px)" type="image/jpeg" width="1600" height="900"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1600/public/uploads/paragraphs/layout_video/video_poster_image/Mariasteen_afwerking.00_01_28_24.Still002-min.jpg?itok=I1qMMdED 1x" media="all and (min-width: 992px) and (max-width: 1199px)" type="image/jpeg" width="1600" height="900"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1440/public/uploads/paragraphs/layout_video/video_poster_image/Mariasteen_afwerking.00_01_28_24.Still002-min.jpg?itok=Mwr2L1OV 1x" media="all and (min-width: 768px) and (max-width: 991px)" type="image/jpeg" width="1440" height="810"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1440/public/uploads/paragraphs/layout_video/video_poster_image/Mariasteen_afwerking.00_01_28_24.Still002-min.jpg?itok=Mwr2L1OV 1x" media="all and (min-width: 568px) and (max-width: 767px)" type="image/jpeg" width="1440" height="810"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1200/public/uploads/paragraphs/layout_video/video_poster_image/Mariasteen_afwerking.00_01_28_24.Still002-min.jpg?itok=qyHPHhax 1x" type="image/jpeg" width="1200" height="675"/>
+                  <img loading="eager" width="1200" height="675" src="/sites/mariasteen/files/styles/width_1200/public/uploads/paragraphs/layout_video/video_poster_image/Mariasteen_afwerking.00_01_28_24.Still002-min.jpg?itok=qyHPHhax" alt="" />
+
+  </picture>
+
+
+						<div class="wow fadeInUp" data-wow-duration="0.7s">
+							<a class="layout-video__video-wrapper__button " href="/sites/mariasteen/files/uploads/paragraphs/layout_video/pg_video_field/RPT_covatti_4werk___mariasteen%20%28360p%29.mp4" data-fancybox >
+							<i class="icon-play"></i>
+							<span>Watch video</span>
+							</a>
+						</div>
+
+										
+					
+				</div>
+				
+				<div class="layout-video__content wow fadeIn" data-wow-delay="0.5s">
+											<h2>Rapid prototyping -3D printing</h2>
+										<p>Human centered production @mariasteen wordt o.m. bereikt door rapid prototyping.&nbsp; Hulpstukken en ondersteunende tools worden op maat van de medewerker gemaakt.&nbsp; Deze maken het werk makkelijker én efficienter.&nbsp; Onze eigen R&amp;D dienst ontwerpt dit én kan dit - met onze eigen 3D printers en lassercutter - binnen de 24 uren operationeel op de werkvloer inzetten.&nbsp;</p>
+<p>Bekijk zeker eens onze eerste 100 toepassingen in pdf hieronder.</p>
+
+					
+					
+				</div>
+			</div>
+		</div>
+	</section>
+
+			
+	<div class="paragraph-id--134 paragraph space-top-md space-bottom-md bg--highlight paragraph--layout-container paragraph--default paragraph-layout_container--default layout-container">
+		<div class="container">
+			
+							<div class="layout-container__block">
+
+
+<section id="block-services-cards" class="block block--block-content block--block-content1c866df5-ce7d-4837-969a-8118519a8646 paragraph paragraph--layout-cards paragraph--default paragraph-layout_cards--default layout-cards">
+		<div class="mw-1200">
+					
+			<h2 class="layout-cards__title heading1 primary-color">We helpen jou bij</h2>
+			
+				<div class="isotope-grid-services-cards layout-cards__items">
+			<div class="views-element-container">    <article class="paragraph paragraph--layout-card paragraph--default paragraph-layout_card--default layout-card isotope-item">
+    <a class="layout-card__inner" href="/diensten/metaal">
+        <div class="layout-card__image">
+              <img loading="lazy" src="/sites/mariasteen/files/styles/card_image/public/uploads/services/intro_images/metaal.jpg?h=8e3982e9&amp;itok=ZRgZifp6" width="580" height="440" alt="Metaalbewerking bij Mariasteen" title="Metaalbewerking bij Mariasteen" />
+
+
+
+        </div>
+        <div class="layout-card__content">
+            <h3 class="layout-card__title heading4">
+
+<div class="field field--string name">
+            <div class="field__item">
+        Metaal
+      </div>
+      </div>
+</h3>
+            <p>Mariasteen: jouw totaaloplossing voor maat- en seriewerk in aluminium, staal en inox. Van co-engineering tot afgewerkt product.</p>
+<p>Samenwerken met ons, dat betekent het beste uit je product halen en een sociaal toegevoegde waarde creëren.</p>
+
+            <i class="icon-long-arrow-right primary-color--light"></i>
+        </div>
+    </a>
+</article><article class="paragraph paragraph--layout-card paragraph--default paragraph-layout_card--default layout-card isotope-item">
+    <a class="layout-card__inner" href="/diensten/hout">
+        <div class="layout-card__image">
+              <img loading="lazy" src="/sites/mariasteen/files/styles/card_image/public/uploads/services/intro_images/HOUT%20High%20Res%20%288%29.jpg?h=c2bbec2d&amp;itok=rLQ5pBTn" width="580" height="440" alt="" />
+
+
+
+        </div>
+        <div class="layout-card__content">
+            <h3 class="layout-card__title heading4">
+
+<div class="field field--string name">
+            <div class="field__item">
+        Hout
+      </div>
+      </div>
+</h3>
+            <p>Mariasteen heeft een sterke reputatie als&nbsp;producent van verschillende houtproducten, zoals pallets, bodems, houten kisten, verpakkingsmateriaal en meer.</p>
+<p>We bieden kwalitatieve maatoplossingen, just in time.</p>
+
+            <i class="icon-long-arrow-right primary-color--light"></i>
+        </div>
+    </a>
+</article><article class="paragraph paragraph--layout-card paragraph--default paragraph-layout_card--default layout-card isotope-item">
+    <a class="layout-card__inner" href="/diensten/industriele-activiteiten">
+        <div class="layout-card__image">
+              <img loading="lazy" src="/sites/mariasteen/files/styles/card_image/public/uploads/services/intro_images/assemblage.jpg?h=19c2a7d5&amp;itok=XF61AFar" width="580" height="440" alt="" />
+
+
+
+        </div>
+        <div class="layout-card__content">
+            <h3 class="layout-card__title heading4">
+
+<div class="field field--string name">
+            <div class="field__item">
+        Industriële activiteiten
+      </div>
+      </div>
+</h3>
+            <p>Onze specialisaties?&nbsp; Zowel eenvoudige als complexe montage- of assemblageopdrachten.</p>
+<p>&nbsp;</p>
+
+            <i class="icon-long-arrow-right primary-color--light"></i>
+        </div>
+    </a>
+</article><article class="paragraph paragraph--layout-card paragraph--default paragraph-layout_card--default layout-card isotope-item">
+    <a class="layout-card__inner" href="/diensten/groendienst">
+        <div class="layout-card__image">
+              <img loading="lazy" src="/sites/mariasteen/files/styles/card_image/public/uploads/services/intro_images/IMG_0176.JPG?h=d318f057&amp;itok=lz9_ooZk" width="580" height="440" alt="groendienst Mariasteen" title="groendienst Mariasteen" />
+
+
+
+        </div>
+        <div class="layout-card__content">
+            <h3 class="layout-card__title heading4">
+
+<div class="field field--string name">
+            <div class="field__item">
+        Groendienst
+      </div>
+      </div>
+</h3>
+            <p>Groene vingers, passie voor de job en respect voor het milieu!</p>
+<p>&nbsp;</p>
+
+            <i class="icon-long-arrow-right primary-color--light"></i>
+        </div>
+    </a>
+</article><article class="paragraph paragraph--layout-card paragraph--default paragraph-layout_card--default layout-card isotope-item">
+    <a class="layout-card__inner" href="/diensten/hulp-jouw-bedrijf/enclave">
+        <div class="layout-card__image">
+              <img loading="lazy" src="/sites/mariasteen/files/styles/card_image/public/uploads/services/intro_images/enclave_0.jpg?h=9d48492c&amp;itok=miVYIHmD" width="580" height="440" alt="hulp in jouw bedrijf Mariasteen" title="hulp in jouw bedrijf Mariasteen" />
+
+
+
+        </div>
+        <div class="layout-card__content">
+            <h3 class="layout-card__title heading4">
+
+<div class="field field--string name">
+            <div class="field__item">
+        Hulp in jouw bedrijf
+      </div>
+      </div>
+</h3>
+            <p>Wij komen ook meehelpen op jouw werkvloer!</p>
+<p>Dan komt een maatwerkcoach met 5 medewerkers je ondersteunen in jouw productieproces.</p>
+
+            <i class="icon-long-arrow-right primary-color--light"></i>
+        </div>
+    </a>
+</article><article class="paragraph paragraph--layout-card paragraph--default paragraph-layout_card--default layout-card isotope-item">
+    <a class="layout-card__inner" href="/diensten/duurzaamheid">
+        <div class="layout-card__image">
+              <img loading="lazy" src="/sites/mariasteen/files/styles/card_image/public/uploads/services/intro_images/sdg.jpg?h=cb8a8424&amp;itok=4_24ow3w" width="580" height="440" alt="" />
+
+
+
+        </div>
+        <div class="layout-card__content">
+            <h3 class="layout-card__title heading4">
+
+<div class="field field--string name">
+            <div class="field__item">
+        Duurzaamheid
+      </div>
+      </div>
+</h3>
+            <p>Duurzaamheid staat centraal in alles wat we doen. &nbsp;Als een van onze 10 strategische speerpunten nemen we verantwoordelijkheid van onze bedrijfsvoering op mens en milieu. &nbsp;We streven naar duurzame oplossingen, efficiente processen en bewuste keuze die bijdragen aan een betere toekomst. &nbsp;Samen werken we aan een duurzame wereld.&nbsp;</p>
+
+            <i class="icon-long-arrow-right primary-color--light"></i>
+        </div>
+    </a>
+</article>
+  <div class="button--primary isotope-item">
+    <a href="/diensten">Bekijk alle diensten</a>
+  </div>
+
+
+</div>
+
+		</div>
+
+		
+	</div>
+	
+</section>
+</div>
+					</div>
+	</div>
+
+			
+	<div class="paragraph-id--110 paragraph space-top-md space-bottom-md paragraph--layout-image paragraph--default paragraph-layout_image--default layout-image mw-1900">
+		<div class="layout-image__image wow fadeIn" data-wow-duration="1.5s">
+			    <picture>
+                  <source srcset="/sites/mariasteen/files/styles/width_2200/public/uploads/paragraphs/layout_image/pg_image_field/DSC00649.JPG?itok=d7u6gHOd 1x" media="all and (min-width: 1600px)" type="image/jpeg" width="2200" height="1650"/>
+              <source srcset="/sites/mariasteen/files/styles/width_2200/public/uploads/paragraphs/layout_image/pg_image_field/DSC00649.JPG?itok=d7u6gHOd 1x" media="all and (min-width: 1440px) and (max-width: 1599px)" type="image/jpeg" width="2200" height="1650"/>
+              <source srcset="/sites/mariasteen/files/styles/width_2200/public/uploads/paragraphs/layout_image/pg_image_field/DSC00649.JPG?itok=d7u6gHOd 1x" media="all and (min-width: 1200px) and (max-width: 1439px)" type="image/jpeg" width="2200" height="1650"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1600/public/uploads/paragraphs/layout_image/pg_image_field/DSC00649.JPG?itok=mD2Cs6ZC 1x" media="all and (min-width: 992px) and (max-width: 1199px)" type="image/jpeg" width="1600" height="1200"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1600/public/uploads/paragraphs/layout_image/pg_image_field/DSC00649.JPG?itok=mD2Cs6ZC 1x" media="all and (min-width: 768px) and (max-width: 991px)" type="image/jpeg" width="1600" height="1200"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1440/public/uploads/paragraphs/layout_image/pg_image_field/DSC00649.JPG?itok=VL20mxpO 1x" media="all and (min-width: 568px) and (max-width: 767px)" type="image/jpeg" width="1440" height="1080"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1440/public/uploads/paragraphs/layout_image/pg_image_field/DSC00649.JPG?itok=VL20mxpO 1x" type="image/jpeg" width="1440" height="1080"/>
+                  <img loading="eager" width="2200" height="1650" src="/sites/mariasteen/files/styles/width_2200/public/uploads/paragraphs/layout_image/pg_image_field/DSC00649.JPG?itok=d7u6gHOd" alt="" />
+
+  </picture>
+
+
+		</div>
+		
+			</div>
+
+			
+	<div class="paragraph-id--133 paragraph space-top-md space-bottom-md bg--default paragraph--layout-container paragraph--default paragraph-layout_container--default layout-container">
+		<div class="container">
+			
+							<div class="layout-container__block">
+<section id="block-news-recent-two" class="block block--block-content block--block-content6fbba935-35cb-4f46-8651-fac040ddc114">
+	<div class="mw-1200">
+					<div class="block--news-recent-two__title">
+				
+					<h2 class="heading1 primary-color">Heet van de naald</h2>
+				
+			</div>
+				
+		<div class="block--news-recent-two__content">
+			<div class="views-element-container"><div class="view view-news view-id-news view-display-id-news_recent_two js-view-dom-id-520dfa7778453298c247ccfff194deb436b0e9080cb38e146777852feb381ffa">
+  
+    
+      
+      <div class="view-content">
+        
+
+<article  class="node node--news-item node--type--news-item node__recent node--news-item__recent wow fadeIn col-lg-6 col-md-6 col-sm-12 col-12 fadeInUp">
+    <div class="node--news-item__recent--image">
+          <img loading="lazy" src="/sites/mariasteen/files/styles/rectangle_500x400/public/uploads/news_items/intro_images/Webite%20layout-001_1.png?h=91795f13&amp;itok=JXh_-kfl" width="500" height="400" alt="" />
+
+
+
+
+        <div class="node--news-item__recent--date">
+            <span>
+                11 februari 2026
+            </span>
+        </div>
+    </div>
+
+    <div class="node--news-item__recent--content">
+        <h3 class="heading4">
+            Ontbijt &amp; netwerkevent
+        </h3>
+        
+    </div>
+
+    <div class="node--news-item__recent--link">
+        <div class="button--primary">
+            <a href="/nieuws">Bekijk alle nieuwsberichten</a>
+        </div>
+    </div>
+
+    
+</article>
+
+
+
+<article  class="node node--news-item node--type--news-item node__recent node--news-item__recent wow fadeIn col-lg-6 col-md-6 col-sm-12 col-12 fadeInUp">
+    <div class="node--news-item__recent--image">
+          <img loading="lazy" src="/sites/mariasteen/files/styles/rectangle_500x400/public/uploads/news_items/intro_images/Voka%20charter%20duurzaam%20ondernemen.jpg?h=71976bb4&amp;itok=xx1BJVka" width="500" height="400" alt="3 medewerkers van Mariasteen tonen met trots hun behaalde award in het kader van het Voka Charter Duurzaam Ondernemen." title="Voka Charter Duurzaam Ondernemen" />
+
+
+
+
+        <div class="node--news-item__recent--date">
+            <span>
+                27 juni 2025
+            </span>
+        </div>
+    </div>
+
+    <div class="node--news-item__recent--content">
+        <h3 class="heading4">
+            Trots op 16e erkenning Voka Charter Duurzaam Ondernemen
+        </h3>
+        <p><span>Het is geen toeval dat we 16 jaar opeenvolgend deze award in ontvangst mogen nemen. Duurzaam ondernemen zit in ons DNA. Onze focus lag afgelopen werkjaar vooral op:</span><br><span>🔹 Optimalisatie van ons HR-databeheer</span><br><span>🔹 Uitbreiding van ons leercentrum I-Ona</span><br><span>🔹 Een vernieuwde onthaalbrochure voor een warme welkom</span><br><span>🔹 Energieaudits &amp; bijkomende groene energie</span><br><span>🔹 Innovatietrajecten rond productieplanning en circulaire economie</span><br><span>Wat ons extra motiveert? Te zien dat ook veel van onze klanten</span><span class="white-space-pre"> </span><span>en leveranciers</span><span class="white-space-pre"> </span><span>mee hun schouders zetten onder dit duurzaam engagement.</span><br><span>💚 Samen maken we écht het verschil. Dank aan</span><span class="white-space-pre"> </span><a class="mgFkhbNCAguTzbjLozeYRagsCtabmGnDJw " href="https://www.linkedin.com/company/voka---kamer-van-koophandel-west-vlaanderen/" target="_self"><span><strong>Voka - Kamer van Koophandel West-Vlaanderen</strong></span></a><span class="white-space-pre"> </span><span>en alle partners voor het delen van deze duurzame ambitie.</span><br><a class="mgFkhbNCAguTzbjLozeYRagsCtabmGnDJw " href="https://www.linkedin.com/search/results/all/?keywords=%23vokacharter&amp;origin=HASH_TAG_FROM_FEED"><span class="visually-hidden"><strong>hashtag</strong></span></a></p>
+
+    </div>
+
+    <div class="node--news-item__recent--link">
+        <div class="button--primary">
+            <a href="/nieuws">Bekijk alle nieuwsberichten</a>
+        </div>
+    </div>
+
+    
+</article>
+
+
+    </div>
+  
+          </div>
+</div>
+
+					</div>
+	</div>
+	
+	
+</section>
+</div>
+					</div>
+	</div>
+
+			
+	<section class="paragraph-id--111 paragraph space-top-md space-bottom-md paragraph--layout-image-text paragraph--default paragraph-layout_image_text--default layout-image-text  wow fadeInUp" data-wow-duration="0.6s">
+		<div class="container bg--primary">
+			<div class="wrapper mw-1900">
+				<div class="layout-image-text__row">
+					<div class="layout-image-text__col layout-image-text__col--image col-right wow fadeInUp" data-wow-duration="1s">
+						    <picture>
+                  <source srcset="/sites/mariasteen/files/styles/width_2200/public/uploads/paragraphs/layout_image_text/pg_image_field/HiresC%20Mariasteen_WAL0382.jpg?itok=z9P_puvw 1x" media="all and (min-width: 1600px)" type="image/jpeg" width="2200" height="1466"/>
+              <source srcset="/sites/mariasteen/files/styles/width_2200/public/uploads/paragraphs/layout_image_text/pg_image_field/HiresC%20Mariasteen_WAL0382.jpg?itok=z9P_puvw 1x" media="all and (min-width: 1440px) and (max-width: 1599px)" type="image/jpeg" width="2200" height="1466"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1600/public/uploads/paragraphs/layout_image_text/pg_image_field/HiresC%20Mariasteen_WAL0382.jpg?itok=QdR0DEQf 1x" media="all and (min-width: 1200px) and (max-width: 1439px)" type="image/jpeg" width="1181" height="787"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1600/public/uploads/paragraphs/layout_image_text/pg_image_field/HiresC%20Mariasteen_WAL0382.jpg?itok=QdR0DEQf 1x" media="all and (min-width: 992px) and (max-width: 1199px)" type="image/jpeg" width="1181" height="787"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1440/public/uploads/paragraphs/layout_image_text/pg_image_field/HiresC%20Mariasteen_WAL0382.jpg?itok=1WMdz5DB 1x" media="all and (min-width: 768px) and (max-width: 991px)" type="image/jpeg" width="1181" height="787"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1440/public/uploads/paragraphs/layout_image_text/pg_image_field/HiresC%20Mariasteen_WAL0382.jpg?itok=1WMdz5DB 1x" media="all and (min-width: 568px) and (max-width: 767px)" type="image/jpeg" width="1181" height="787"/>
+              <source srcset="/sites/mariasteen/files/styles/width_1200/public/uploads/paragraphs/layout_image_text/pg_image_field/HiresC%20Mariasteen_WAL0382.jpg?itok=5quPA2Qk 1x" type="image/jpeg" width="1181" height="787"/>
+                  <img loading="eager" width="1181" height="787" src="/sites/mariasteen/files/styles/width_1200/public/uploads/paragraphs/layout_image_text/pg_image_field/HiresC%20Mariasteen_WAL0382.jpg?itok=5quPA2Qk" alt="" />
+
+  </picture>
+
+
+					</div>
+					<div class="layout-image-text__col  layout-image-text__col--text col-left wow fadeInUp" data-wow-duration="1.0s">
+													<h2 class="layout-image-text__title wow fadeIn" data-wow-delay="0.1s">Ons bedrijf. Dat moet je zien.</h2>
+																			<div class=" wow fadeIn" data-wow-delay="0.5s">
+								<p>Benieuwd naar onze organisatie? We nodigen je graag uit op onze site om te ontdekken hoe we werken en waarvoor we staan. Want een goede samenwerking begint met een geweldige eerste indruk en een jatte koffie.</p>
+
+							</div>
+																			<div class="layout-image-text__link wow fadeIn" data-wow-delay="0.1s">
+								<div class="button--fill">
+									<a href="/contacteer-ons" >
+										Maak een afspraak
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+		</div>
+
+			</section>
+
+			
+	<div class="paragraph-id--112 paragraph space-top-md space-bottom-md bg--default paragraph--layout-container paragraph--default paragraph-layout_container--default layout-container">
+		<div class="container">
+			
+							<div class="layout-container__block">
+
+
+<section id="block-customers" class="block block--block-content block--block-contentc47f470b-367f-43f2-bd93-d8cb1daa652b block-customers">
+
+            <div class="block-customers--title">
+            
+            <h2 class="primary-color">Je bent in goed gezelschap</h2>
+            
+        </div>
+        <div class="block-customers--logos slick-customers-slider wow fadeIn">
+        
+<a  class="node node--reference node--type--reference node__logo node--reference__logo" href="/tevreden-klanten/jori">
+	  <img loading="lazy" src="/sites/mariasteen/files/styles/medium/public/uploads/references/logos/NEW_LOGO_JORI_63_SHORT_HORIZ_without_bleed_en-tete%20uniquement.jpg?itok=16XKJju0" width="220" height="83" alt="" title="Jori Design Meubelen" />
+
+
+
+</a>
+<a  class="node node--reference node--type--reference node__logo node--reference__logo" href="/tevreden-klanten/hydro">
+	  <img loading="lazy" src="/sites/mariasteen/files/styles/medium/public/uploads/references/logos/hydro.png?itok=VnVcAc4s" width="220" height="156" alt="" title="Hydro Aluminium Extrusie Concern" />
+
+
+
+</a>
+<a  class="node node--reference node--type--reference node__logo node--reference__logo" href="/tevreden-klanten/westvlees">
+	  <img loading="lazy" src="/sites/mariasteen/files/styles/medium/public/uploads/references/logos/westvlees-block%26name%20CMYK.jpg?itok=pwOC9_oa" width="220" height="78" alt="" />
+
+
+
+</a>
+<a  class="node node--reference node--type--reference node__logo node--reference__logo" href="/tevreden-klanten/ardo">
+	  <img loading="lazy" src="/sites/mariasteen/files/styles/medium/public/uploads/references/logos/ardo_0.jpeg?itok=0wEy3-lo" width="220" height="115" alt="" />
+
+
+
+</a>
+<a  class="node node--reference node--type--reference node__logo node--reference__logo" href="/tevreden-klanten/pleegzorg-west-vlaanderen">
+	  <img loading="lazy" src="/sites/mariasteen/files/styles/medium/public/uploads/references/logos/logo_pleegzorg_vlaanderen.png?itok=QDSdfB5h" width="220" height="208" alt="" />
+
+
+
+</a>
+<a  class="node node--reference node--type--reference node__logo node--reference__logo" href="/tevreden-klanten/reo-veiling">
+	  <img loading="lazy" src="/sites/mariasteen/files/styles/medium/public/uploads/references/logos/REO_VEILING.png?itok=mzG79GXc" width="210" height="123" alt="" />
+
+
+
+</a>
+<a  class="node node--reference node--type--reference node__logo node--reference__logo" href="/tevreden-klanten/heyer">
+	  <img loading="lazy" src="/sites/mariasteen/files/styles/medium/public/uploads/references/logos/logo-h_4.jpg?itok=-hcvIIor" width="208" height="220" alt="" />
+
+
+
+</a>
+    </div>
+
+
+            <div class="block-customers--link">
+            <a class="button--primary" href="/tevreden-klanten">Lees de cases van bestaande klanten</a>
+        </div>
+    
+
+</section>
+</div>
+					</div>
+	</div>
+
+			
+	<section class="paragraph-id--456 paragraph space-top-md space-bottom-md paragraph--image-text-simple paragraph--default paragraph-image_text_simple--default image-text-simple  wow fadeIn" data-wow-duration="0.6s">
+		<div class="container">
+			<div class="wrapper mw-1200">
+				<div class="image-text-simple__row">
+					<div class="image-text-simple__col image-text-simple__col--image col-left wow fadeIn" data-wow-duration="0.5s">
+						  <img loading="lazy" src="/sites/mariasteen/files/styles/square_350x350/public/uploads/paragraphs/image_text_simple/pg_image_field/Presentatie1.jpg?h=c673cd1c&amp;itok=_MdbX-tq" width="350" height="350" alt="" />
+
+
+
+					</div>
+					<div class="image-text-simple__col  image-text-simple__col--text col-right wow fadeIn" data-wow-duration="0.5s">
+						<div>
+																						<div class=" wow fadeIn" data-wow-delay="0.5s">
+									<p>Een aantal innovatieprojecten wordt uitgevoerd met de steun van WSE Vlaanderen. Duurzaam ondernemen. Opleidingssteun ontvingen we vanwege de Europese Unie.</p>
+
+								</div>
+							
+															<div class="image-text-simple__link-container wow fadeIn" data-wow-delay="0.5s">
+							
+																	<div class="image-text-simple__link">
+										<div class="button--primary">
+											
+										</div>
+									</div>
+								
+								
+													</div>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	</div>
+
+</div>
+
+
+</div>
+
+  </div>
+
+			
+<div id="block-appointment-popup" class="block block--block-content block--block-content3bc8e1f9-1aa1-45ad-ad5a-346d29d5f50b block-appointment-popup">
+	<div class="block-appointment-popup--wrapper">
+		
+		
+		<div>
+			<div class="block-appointment-popup--wrapper__form">
+				
+
+
+<form class="webform-submission-form webform-submission-add-form webform-submission-appointment-popup-form webform-submission-appointment-popup-add-form webform-submission-appointment-popup-node-13-form webform-submission-appointment-popup-node-13-add-form js-webform-details-toggle webform-details-toggle antibot" data-drupal-selector="webform-submission-appointment-popup-node-13-add-form" data-action="/" action="/antibot" method="post" id="webform-submission-appointment-popup-node-13-add-form" accept-charset="UTF-8">
+  
+  <noscript>
+  <div class="antibot-no-js antibot-message antibot-message-warning">JavaScript moet ingeschakeld zijn om dit formulier te kunnen gebruiken.</div>
+</noscript>
+<div class="js-form-item form-item js-form-type-email form-type-email js-form-item-email form-item-email">
+      <label for="edit-email" class="js-form-required form-required">E-mail</label>
+        <input data-drupal-selector="edit-email" type="email" id="edit-email" name="email" value="" size="60" maxlength="254" class="form-email required" required="required" aria-required="true" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name">
+      <label for="edit-name">Naam en voornaam (optioneel)</label>
+        <input data-drupal-selector="edit-name" type="text" id="edit-name" name="name" value="" size="60" maxlength="255" class="form-text" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-telephone form-item-telephone">
+      <label for="edit-telephone" class="js-form-required form-required">Telefoon</label>
+        <input data-drupal-selector="edit-telephone" type="text" id="edit-telephone" name="telephone" value="" size="60" maxlength="255" class="form-text required" required="required" aria-required="true" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-textarea form-type-textarea js-form-item-message form-item-message">
+      <label for="edit-message" class="js-form-required form-required">Extra opmerkingen?</label>
+        <div>
+  <textarea data-drupal-selector="edit-message" id="edit-message" name="message" rows="3" cols="60" class="form-textarea required" required="required" aria-required="true"></textarea>
+</div>
+
+        </div>
+<div class="js-form-item form__item js-form-type-checkbox form-type__checkbox js-form-item-privacy form__item__privacy">
+      
+  <input data-drupal-selector="edit-privacy" type="checkbox" id="edit-privacy" name="privacy" value="1" class="form-checkbox required" required="required" aria-required="true" />
+
+  <label class="cbx">
+    <span>
+      <svg width="12px" height="10px" viewbox="0 0 12 10">
+      <polyline points="1.5 6 4.5 9 10.5 1"></polyline>
+      </svg>
+    </span>
+  </label>
+
+        <label for="edit-privacy" class="option js-form-required form-required">Ik heb de <a href="/disclaimer">privacy voorwaarden</a> gelezen en ga akkoord met de voorziene inhoud.</label>
+      </div>
+<div data-drupal-selector="edit-actions" class="form-actions webform-actions js-form-wrapper form-wrapper" id="edit-actions--2">
+<div class="button--self webform-button--submit button button--primary js-form-submit form-submit" >
+	<input type="submit"  class="webform-button--submit button button--primary js-form-submit form-submit" data-twig-suggestion="appointment_popup" data-drupal-selector="edit-actions-submit" type="submit" id="edit-actions-submit" name="op" value="Maak een afspraak"/>
+</div>
+
+</div>
+<input data-twig-suggestion="appointment_popup" data-drupal-selector="edit-antibot-key" type="hidden" name="antibot_key" value="" />
+<input autocomplete="off" data-twig-suggestion="appointment_popup" data-drupal-selector="form-ascafghuwsklfrz89mvz-hiibscmkcvrw-npakc9tg" type="hidden" name="form_build_id" value="form-asCafgHuWSklfrz89mvz_hIiBscmKcvrw_-nPaKC9Tg" />
+<input data-twig-suggestion="appointment_popup" data-drupal-selector="edit-webform-submission-appointment-popup-node-13-add-form" type="hidden" name="form_id" value="webform_submission_appointment_popup_node_13_add_form" />
+<div class="url-textfield js-form-wrapper form-wrapper" style="display: none !important;"><div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-url form-item-url">
+      <label for="edit-url">Laat dit veld leeg</label>
+        <input autocomplete="off" data-twig-suggestion="appointment_popup" data-drupal-selector="edit-url" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" class="form-text" />
+
+        </div>
+</div>
+
+
+  
+</form>
+
+			</div>
+			<div class="block-appointment-popup--wrapper__content">
+				<div class="blobs">
+					<div class="blob blob--1"></div>
+					<div class="blob blob--2"></div>
+				</div>
+				<div class="fingerprint">
+					<img src="/themes/custom/mariasteen/assets/images/fingerprint.svg" alt="fingerprint" />
+				</div>
+				
+				
+									
+					<h2 class="heading1">Een afspraak maken</h2>
+					
+								<div class="block-appointment-popup--wrapper__text heading4">
+											<p>We wensen je graag veel meer te vertellen. Heb je een specifieke vraag? Bel ons gerust even op.</p>
+
+										
+				</div>
+									<a href="tel:+32 51 23 08 11" class=" button block-appointment-popup--wrapper__phone heading4">
+						+32 51 23 08 11
+					</a>
+								
+			</div>
+			
+		</div>
+
+		<button class="js-close-appointment-popup ">
+			sluiten <i class="icon-close"></i>
+		</button>
+		
+	</div>
+	
+</div>
+
+		</main>
+	</div>
+
+	
+<footer  class="region region--footer footer paragraph space-bottom-sm space-top-sm">
+		<div class="paragraph bg--highlight footer__top-block">
+			<div class="footer__top-block--navigation">
+				<div class=" footer__top-block--navigation__secondary footer__top-block--navigation__col">
+					<div id="block-footer-secondary-navigation" class="block navigation block--menu block--system block--system-menu-blocksecondary-navigation menu--secondary-navigation">
+			
+		<span class="heading3 primary-color">Navigeer door onze site</span>
+		
+	
+	<nav role="navigation" class="navigation">
+					
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/over-mariasteen" data-drupal-link-system-path="node/34">Over Mariasteen</a>
+              </li>
+                <li class="menu-item">
+        <a href="/werken-bij-mariasteen" data-drupal-link-system-path="node/33">Werken bij Mariasteen</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://mariasteen.hro.be/">Vacatures</a>
+              </li>
+                <li class="menu-item">
+        <a href="/tevreden-klanten" data-drupal-link-system-path="node/30">Referenties</a>
+              </li>
+                <li class="menu-item">
+        <a href="/nieuws" data-drupal-link-system-path="node/16">Nieuws</a>
+              </li>
+                <li class="menu-item">
+        <a href="/contacteer-ons" data-drupal-link-system-path="node/26">Contacteer ons</a>
+              </li>
+        </ul>
+  
+
+
+			</nav>
+</div>
+
+				</div>
+				<div class=" footer__top-block--navigation__main footer__top-block--navigation__col">
+					
+<div id="block-footer-main-navigation" class="block navigation block--menu block--system block--system-menu-blockmain menu--main">
+			
+		<span class="heading3 primary-color">Je kan bij ons terecht voor</span>
+		
+	
+	<nav role="navigation" class="navigation navbar-nav">
+					
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/diensten/metaal" data-drupal-link-system-path="taxonomy/term/1">Metaal</a>
+              </li>
+                <li class="menu-item">
+        <a href="/diensten/hout" data-drupal-link-system-path="taxonomy/term/2">Hout</a>
+              </li>
+                <li class="menu-item">
+        <a href="/diensten/industriele-activiteiten" data-drupal-link-system-path="taxonomy/term/3">Industrie</a>
+              </li>
+                <li class="menu-item">
+        <a href="/diensten/groendienst" data-drupal-link-system-path="taxonomy/term/5">Groen</a>
+              </li>
+                <li class="menu-item">
+        <a href="/diensten/hulp-jouw-bedrijf/poetsen" data-drupal-link-system-path="node/70">Poets</a>
+              </li>
+                <li class="menu-item">
+        <a href="/diensten/hulp-jouw-bedrijf/schilderwerken" data-drupal-link-system-path="node/72">Schilder</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://mariasteen.be/diensten/enclave">Enclave</a>
+              </li>
+                <li class="menu-item">
+        <a href="/diensten/duurzaamheid" data-drupal-link-system-path="taxonomy/term/4">Duurzaamheid</a>
+              </li>
+                <li class="menu-item">
+        <a href="/diensten/horeca-met-een-hart" data-drupal-link-system-path="taxonomy/term/6">Horeca</a>
+              </li>
+        </ul>
+  
+
+
+			</nav>
+</div>
+
+				</div>
+				<div class=" footer__top-block--navigation__contact footer__top-block--navigation__col">
+					<div>
+						<a class='logo' href='https://mariasteen.be/'>
+    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="183.81" height="80" viewBox="0 0 2388.07 1016.34">
+      <path style="fill: #0071ce;"
+          d="M711.86,960.2c-31.38,0-62.78,9.6-69.78,12.17-10.36-6.61-26.22-12.17-49.48-12.17s-51.31,3.68-69.4,7.38c-22.54,4.79-34,8.86-34,22.51V1158.7l64.26,0v-153.5c3.67-.75,19.56-3.35,31-3.35,14.41,0,22.9,6.3,22.9,25.83v131H672V1005.23c3.34-.75,17.37-3.35,29.2-3.35,14.38,0,24.35,6.3,24.35,25.83v131h64.26V1018.49C789.77,970.55,759.1,960.2,711.86,960.2Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;"
+          d="M988.94,971.28c-12.93-7.4-31.41-11.08-57.24-11.08-40.59,0-76.44,11.08-83.43,13.64-3,1.13-4.8,2.6-4.8,5.93a26.57,26.57,0,0,0,.74,4.42l5.91,25.09c.74,2.6,1.84,3.69,4.06,3.69a14.74,14.74,0,0,0,3.7-.76c8.11-2.18,36.53-9.59,59.42-9.59,11.08,0,19.58,1.13,24.35,3.37,6.66,3.29,7.79,9.21,7.79,18.42v7.75l-62.77,10c-24.36,3.67-55.76,11.07-55.76,57.57,0,57.19,45.79,63.84,91.57,63.84,22.14,0,39.13-1.47,53.88-4.8,25.11-5.91,36.94-10.34,36.94-39.12V1018.87C1013.3,997.84,1007,981.24,988.94,971.28Zm-38.77,149.8a124.14,124.14,0,0,1-26.62,3.33c-12.52,0-30.61-3-30.61-25.48,0-20.63,10.69-23.22,24-25.45l33.23-5.16Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;"
+          d="M1169.22,960.93h-6.28a341.74,341.74,0,0,0-65.33,6.65c-21.79,4.79-33.61,8.86-33.61,22.13v169h64.24V1010.4c3.34-.77,21.39-2.95,42.09-2.95,7.37,0,7.37-4,7.37-8.52V969.05c0-3-.7-4.76-1.83-5.89C1174.39,961.68,1172.57,960.93,1169.22,960.93Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;" d="M1282.26,976.44c0-3.32-2.58-5.53-5.92-5.53h-52c-3.69,0-6.31,2.21-6.31,5.53v182.29h64.26Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;"
+          d="M1229.84,946.19h40.62c7.74,0,11.44-3,11.44-11.08V892.32c0-8.12-3.7-11.07-11.44-11.07h-40.62c-7.75,0-11.44,3-11.44,11.07v42.79C1218.4,943.24,1222.09,946.19,1229.84,946.19Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;"
+          d="M1488.72,971.28c-13-7.4-31.41-11.08-57.24-11.08-40.62,0-76.43,11.08-83.43,13.64-3,1.13-4.79,2.6-4.79,5.93a24.8,24.8,0,0,0,.75,4.42l5.87,25.09c.75,2.6,1.87,3.69,4.08,3.69a14,14,0,0,0,3.66-.76c8.13-2.18,36.58-9.59,59.46-9.59,11.09,0,19.58,1.13,24.37,3.37,6.64,3.29,7.72,9.21,7.72,18.42v7.75l-62.75,10c-24.36,3.67-55.72,11.07-55.72,57.57,0,57.19,45.74,63.84,91.55,63.84,22.15,0,39.1-1.47,53.9-4.8,25.1-5.91,36.93-10.34,36.93-39.12V1018.87C1513.08,997.84,1506.81,981.24,1488.72,971.28Zm-38.8,149.8a123.79,123.79,0,0,1-26.57,3.33c-12.54,0-30.63-3-30.63-25.48,0-20.63,10.69-23.22,24-25.45l33.22-5.16Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;"
+          d="M1660.13,1038.8c-17.71-3.32-33.59-4.07-33.59-21,0-14.79,16.24-16.64,27-16.64,18.45,0,38,4.07,41,4.83,5.53,1.07,7.76-.76,8.49-4.11l4.79-26.56a5.81,5.81,0,0,0-4.44-6.65c-8.09-2.58-31-8.47-59.8-8.47-32.48,0-81.22,5.56-81.22,62,0,50.18,32.5,56.1,58,60.87l4,.76c17,3.3,25.1,5.19,25.1,19.91,0,14.4-13.66,18.09-25.85,18.09-21,0-45.76-7-51.32-8.12a11.46,11.46,0,0,0-3-.38,4.32,4.32,0,0,0-4.42,3.68l-4.8,27a19.2,19.2,0,0,0-.36,3.3c0,4.44,2.57,5.17,3.7,5.55,7.36,2.22,38,10.31,69.39,10.31,46.15,0,81.23-16.21,81.23-64.56C1714,1052.45,1686.35,1043.58,1660.13,1038.8Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;"
+          d="M1876.22,1118.48c-.75-2.91-1.13-4.39-4.43-4.39a12.5,12.5,0,0,0-3,.35c-7.75,1.13-12.91,2.23-22.53,2.23-18.82,0-22.14-8.88-22.14-21.79V1010.4h45.78c3.33,0,5.9-2.22,5.9-5.55v-34.3c0-3.32-2.57-5.53-5.9-5.53h-45.78V906.33c0-4.78-2.58-12.91-10-11.1l-46.9,12.58c-5.51,1.48-7.37,4.05-7.37,10v181.17c0,46.17,23.62,62.72,69.41,62.72,25.85,0,42.46-5.17,46.89-6.61,4-1.47,5.53-3.33,5.53-6.65a16.63,16.63,0,0,0-.38-3.69Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;"
+          d="M2007,960.2c-71.27,0-94.89,28-94.89,102.94,0,75.65,33.23,100.39,105.23,100.39,33.22,0,58.68-8.14,69.77-12.56,2.59-1.1,4.43-3,4.43-6.27a16.89,16.89,0,0,0-.37-3.68l-5.17-23.25c-1.12-4.06-2.93-4.8-5.53-4.8a8.46,8.46,0,0,0-2.58.36c-11.44,3-28.07,8.5-49.12,8.5-15.87,0-27.32-1.87-35.8-5.92-11.82-5.52-17-14.39-17-28.38h114.82c8.49,0,10-5.58,10-11.09v-17.68c0-34.35-5.16-59-20.29-75.32C2066.06,968,2043.17,960.2,2007,960.2Zm31,90.42h-62c0-10.74,0-18.83,1.48-27,2.2-14.38,9.59-21.78,30.66-21.78,15.48,0,24.72,5.92,28.05,23.62a110.74,110.74,0,0,1,1.84,20.29Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;"
+          d="M2230.46,960.2c-71.26,0-94.88,28-94.88,102.94,0,75.65,33.22,100.39,105.24,100.39,33.19,0,58.7-8.14,69.76-12.56,2.59-1.1,4.44-3,4.44-6.27a16.89,16.89,0,0,0-.37-3.68l-5.19-23.25c-1.09-4.06-2.94-4.8-5.52-4.8a8.61,8.61,0,0,0-2.6.36c-11.44,3-28.06,8.5-49.09,8.5-15.89,0-27.34-1.87-35.81-5.92-11.81-5.52-17-14.39-17-28.38h114.82c8.48,0,10-5.58,10-11.09v-17.68c0-34.35-5.17-59-20.3-75.32C2289.52,968,2266.65,960.2,2230.46,960.2Zm31,90.42h-62c0-10.74,0-18.83,1.46-27,2.22-14.38,9.6-21.78,30.65-21.78,15.5,0,24.73,5.92,28,23.62a108.1,108.1,0,0,1,1.85,20.29Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;"
+          d="M2471.3,960.2c-23.62,0-50.19,3.68-68.65,7.38-22.54,4.45-34,8.86-34,22.51v168.64h64.25v-153.5c3.32-.75,17.34-3.35,29.16-3.35,14.4,0,22.15,6.3,22.15,25.83v131h64.61V1018.49C2548.84,970.55,2518.56,960.2,2471.3,960.2Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;" d="M160.77,147.2V806.8h82.12V162.61C202.16,154.44,173.22,149.33,160.77,147.2Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;" d="M489.22,404V806.8h82.12V420C544,414.2,516.53,408.87,489.22,404Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #0071ce;" d="M817.74,489.36V806.8h82V524.29C874,511.79,846.45,500.15,817.74,489.36Z"
+          transform="translate(-160.77 -147.2)" />
+      <path style="fill: #00a7e1;"
+          d="M242.89,162.61V806.8H407.11V390.5c53.81,8.09,109.19,17.85,164.23,29.47V806.8H735.56V461.6c58.91,17.9,114.61,38.67,164.21,62.69V806.8H1064V453C831.25,293.9,422.56,198.62,242.89,162.61Z"
+          transform="translate(-160.77 -147.2)" />
+  </svg>
+ 
+
+  </a>
+						
+<div id="block-contact-block" class="block block--block-content block--block-contentf53679b1-d104-4ebb-a800-ae803963b50b">
+	
+	
+
+<div class="field field--text-with-summary body">
+            <div class="field__item">
+        <p><strong>Mariasteen</strong></p>
+<p><strong>Administratieve dienst</strong>&nbsp;<br>Koolskampstraat 39B&nbsp;<br>8830 Hooglede-Gits</p>
+<p><a href="tel:+3251230811">+32 51 23 08 11</a><br><a href="mailto:info@mariasteen.be">info@mariasteen.be</a></p>
+<p><u>BE 0407 079 207</u></p>
+
+      </div>
+      </div>
+
+</div>
+
+						
+<div id="block-socials-block" class="block block--block-content block--block-contentbdd42035-6521-4dd1-b513-01d457eb7910 block-socials">
+				<a href="https://be.linkedin.com/company/mariasteen-vzw" target="_blank"><i class="icon-linkedin-squared"></i></a>
+				<a href="https://www.facebook.com/Mariasteen-vzw-484020708607736/" target="_blank"><i class="icon-facebook"></i></a>
+					<a href="https://www.instagram.com/mariasteen_vzw/" target="_blank"><i class="icon-instagram"></i></a>
+	</div>
+
+					</div>
+					
+				</div>
+			</div>
+
+			<div class="footer__top-block--partners">
+				
+<div id="block-partners-block" class="block block--block-content block--block-content4c55c227-6005-4591-b1db-c1da8364decf">
+	
+	
+
+<div class="field field--entity-reference-revisions field-general-partner">
+            <div class="field__item">
+        
+
+	<a class="paragraph-id--135 paragraph paragraph--image-link paragraph--default paragraph-image_link--default" href="https://www.gidts.be/" >
+		  <img loading="lazy" src="/sites/mariasteen/files/styles/width_130/public/uploads/paragraphs/image_link/pg_image_field/3f7513402b0d892953a8368c72fcdae9391e24cc.png?itok=XT45IxxR" width="130" height="83" alt="" />
+
+
+
+	</a>
+
+      </div>
+      </div>
+
+
+<div class="field field--text-long field-text">
+            <div class="field__item">
+        <p>Ontdek onze<br><br>
+horeca zaken</p>
+
+      </div>
+      </div>
+
+
+<div class="field field--entity-reference-revisions field-partners">
+      <div class="field__items">
+              <div class="field__item">
+          
+
+	<a class="paragraph-id--137 paragraph paragraph--image-link paragraph--default paragraph-image_link--default" href="/diensten/horeca-met-een-hart" >
+		  <img loading="lazy" src="/sites/mariasteen/files/styles/width_130/public/uploads/paragraphs/image_link/pg_image_field/DOM%20logo.png?itok=IS9nnGKk" width="130" height="19" alt="" />
+
+
+
+	</a>
+
+        </div>
+              <div class="field__item">
+          
+
+	<a class="paragraph-id--138 paragraph paragraph--image-link paragraph--default paragraph-image_link--default" href="/diensten/horeca-met-een-hart" >
+		  <img loading="lazy" src="/sites/mariasteen/files/styles/width_130/public/uploads/paragraphs/image_link/pg_image_field/HTK%20logo.png?itok=FTBqklNN" width="130" height="74" alt="" />
+
+
+
+	</a>
+
+        </div>
+              <div class="field__item">
+          
+
+	<a class="paragraph-id--139 paragraph paragraph--image-link paragraph--default paragraph-image_link--default" href="/diensten/horeca-met-een-hart" >
+		  <img loading="lazy" src="/sites/mariasteen/files/styles/width_130/public/uploads/paragraphs/image_link/pg_image_field/Middelpunt%20logo.png?itok=CVBDFNZl" width="130" height="17" alt="" />
+
+
+
+	</a>
+
+        </div>
+              <div class="field__item">
+          
+
+	<a class="paragraph-id--403 paragraph paragraph--image-link paragraph--default paragraph-image_link--default" href="/diensten/horeca-met-een-hart" >
+		  <img loading="lazy" src="/sites/mariasteen/files/styles/width_130/public/uploads/paragraphs/image_link/pg_image_field/MOLENDRIES%20logo_0.png?itok=edP4E5ps" width="130" height="51" alt="" />
+
+
+
+	</a>
+
+        </div>
+          </div>
+  </div>
+
+</div>
+
+			</div>
+			
+			
+		</div>
+		
+		<div class="footer__bottom-block paragraph space-top-sm">
+			<div class="footer__bottom-block--hannibal">
+				© 2026 Mariasteen
+			</div>
+			<div class="footer__bottom-block--links">
+				
+<div id="block-links-block" class="block block--block-content block--block-content5b8079cf-782e-43c2-9a15-77a34f0a88a6 block-links">
+	
+	<a href="/privacy-policy">Privacy Policy</a>
+	<a href="/cookie-policy">Cookie Policy</a>
+	<a href="https://whistleblowersoftware.com/secure/groepgidts">Klokkenluider</a>
+</div>
+
+			</div>
+			<button type="button" class="eu-cookie-withdraw-tab">
+				<span>
+					Privacy-instellingen
+				</span>
+			</button>
+			<div class="footer__bottom-block--dev">
+				Conquered by <a href="https://www.hannibal.be" target="_blank" title="@title">Hannibal</a> &amp; <a href="https://www.uruku.be" target="_blank" title="@title">Uruku</a>
+			</div>
+		</div>
+
+		
+</footer>
+
+</div>
+
+  </div>
+
+        
+      <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/13","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"nl"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyFUO1yxCAIfCGrj5RZI5fQU3HE3NfTV9ubXjLttH92cVkQwDtuUxQEqg6v2La1ivdUDXJjL8092Z6kJkPbNIucmTqlEhl5JvebOHlUMityZg8l9x29zaom4nF3A0xCZWgjyg6lCOeWKLe9PIr271Nvf_dy22us0qQcbBV5oal_G2JfZpdQijQ3fhzcGnk-m4KKpaKs6kLdCqJ9KXbLZfORdaVg9N7L0tdoF6aruk-045AHIUnYIpkr-XE-92TbRxhr2kANHNUqLv-bmizLH70SqWL5mR_wATzXwJE","theme":"mariasteen","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/zoeken":true},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-flow\u0022\u003E\n              \u003Cdiv class=\u0022sk-flow-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-flow-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-flow-dot\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":false,"alwaysFullscreen":true,"throbberPosition":"body"},"lazy":{"lazysizes":{"lazyClass":"lazyload","loadedClass":"lazyloaded","loadingClass":"lazyloading","preloadClass":"lazypreload","errorClass":"lazyerror","autosizesClass":"lazyautosizes","srcAttr":"data-src","srcsetAttr":"data-srcset","sizesAttr":"data-sizes","minSize":40,"customMedia":[],"init":true,"expFactor":1.5,"hFac":0.8,"loadMode":2,"loadHidden":true,"ricTimeout":0,"throttleDelay":125,"plugins":[]},"placeholderSrc":"\/themes\/custom\/mariasteen\/assets\/loaders\/lazy.gif","preferNative":false,"minified":true,"libraryPath":"\/libraries\/lazysizes"},"eu_cookie_compliance":{"cookie_policy_version":"2.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--categories cookie-banner\u0022\u003E\n\n\t\u003Cdiv class=\u0022cookie-banner__content\u0022\u003E\n\t\t\u003Cdiv class=\u0022cookie-banner__content__message\u0022\u003E\n\t\t\t\u003Ch2\u003ECookie\u0026nbsp;policy\u003C\/h2\u003E\n\u003Cp\u003EWe gebruiken cookies op deze site om uw gebruikerservaring te verbeteren.\u003C\/p\u003E\n\n\t\t\u003C\/div\u003E\n\n\t\t\u003Cdiv class=\u0022cookie-banner__buttons\u0022\u003E\n\t\t\t\u003Cbutton type=\u0022button\u0022 class=\u0022disagree-button eu-cookie-compliance-disagree-button find-more-button eu-cookie-compliance-more-button\u0022\u003EToestemming intrekken\u003C\/button\u003E\n\n\t\t\t\t\t\t\t\u003Cinput type=\u0022checkbox\u0022 name=\u0022show-settings\u0022 id=\u0022show-cookie-settings\u0022 class=\u0022hidden\u0022\u003E\n\t\t\t\t\u003Clabel class=\u0022option\u0022 for=\u0022show-cookie-settings\u0022\u003E\n\t\t\t\t\tCookie settings\n\t\t\t\t\u003C\/label\u003E\n\n\t\t\t\t\u003Cdiv class=\u0022cookie-settings js-cookie-settings cookie-banner-settings\u0022\u003E\n\t\t\t\t\t\u003Cdiv class=\u0022cookie-banner-settings__wrapper\u0022\u003E\n\t\t\t\t\t\t\u003Cdiv class=\u0022cookie-banner-settings__card\u0022\u003E\n\t\t\t\t\t\t\t\u003Clabel class=\u0022js-close-cookie-banner\u0022 for=\u0022show-cookie-settings\u0022 id=\u0022show-cookie-settings\u0022\u003ECLOSE\u003C\/label\u003E\n\t\t\t\t\t\t\t\u003Cdiv id=\u0022eu-cookie-compliance-categories\u0022 class=\u0022eu-cookie-compliance-categories\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022eu-cookie-compliance-category cookie-banner-settings__category\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022js-form-item form-item js-form-type-checkbox form-type__checkbox  form-disabled  \u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-necessary_cookies\u0022 class=\u0022form-checkbox\u0022 value=\u0022necessary_cookies\u0022  checked   disabled \u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Clabel class=\u0022cbx\u0022 for=\u0022cookie-category-necessary_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cspan\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Csvg width=\u002212px\u0022 height=\u002210px\u0022 viewbox=\u00220 0 12 10\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cpolyline points=\u00221.5 6 4.5 9 10.5 1\u0022\u003E\u003C\/polyline\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/svg\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/span\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Clabel for=\u0022cookie-category-necessary_cookies\u0022 class=\u0022option\u0022\u003ENoodzakelijke cookies\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Clabel class=\u0022info-icon\u0022 for=\u0022cookie-category-descriptionnecessary_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cspan\u003Ei\u003C\/span\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022eu-cookie-compliance-category-description cookie-banner-settings__category__description\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cinput type=\u0022checkbox\u0022 id=\u0022cookie-category-descriptionnecessary_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022info-text\u0022\u003EDeze cookies zijn onmisbaar voor het bezoeken van onze website en het gebruik van bepaalde onderdelen van de websites. Zo kunt u bijvoorbeeld navigeren tussen de verschillende onderdelen van de website of formulieren invullen. Als je deze cookies weigert, zullen bepaalde onderdelen van de website niet of niet optimaal werken.\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022eu-cookie-compliance-category cookie-banner-settings__category\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022js-form-item form-item js-form-type-checkbox form-type__checkbox  \u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-functional_cookies\u0022 class=\u0022form-checkbox\u0022 value=\u0022functional_cookies\u0022  \u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Clabel class=\u0022cbx\u0022 for=\u0022cookie-category-functional_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cspan\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Csvg width=\u002212px\u0022 height=\u002210px\u0022 viewbox=\u00220 0 12 10\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cpolyline points=\u00221.5 6 4.5 9 10.5 1\u0022\u003E\u003C\/polyline\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/svg\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/span\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Clabel for=\u0022cookie-category-functional_cookies\u0022 class=\u0022option\u0022\u003EFunctionele cookies\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Clabel class=\u0022info-icon\u0022 for=\u0022cookie-category-descriptionfunctional_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cspan\u003Ei\u003C\/span\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022eu-cookie-compliance-category-description cookie-banner-settings__category__description\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cinput type=\u0022checkbox\u0022 id=\u0022cookie-category-descriptionfunctional_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022info-text\u0022\u003EFunctionele cookies maken het voor onze websites en apps gemakkelijker om te werken, maken ze prettiger voor bezoekers en zorgen ervoor dat je een meer gepersonaliseerde browse-ervaring hebt.\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022eu-cookie-compliance-category cookie-banner-settings__category\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022js-form-item form-item js-form-type-checkbox form-type__checkbox  \u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-analytical_cookies\u0022 class=\u0022form-checkbox\u0022 value=\u0022analytical_cookies\u0022  \u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Clabel class=\u0022cbx\u0022 for=\u0022cookie-category-analytical_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cspan\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Csvg width=\u002212px\u0022 height=\u002210px\u0022 viewbox=\u00220 0 12 10\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cpolyline points=\u00221.5 6 4.5 9 10.5 1\u0022\u003E\u003C\/polyline\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/svg\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/span\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Clabel for=\u0022cookie-category-analytical_cookies\u0022 class=\u0022option\u0022\u003EAnalytische cookies\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Clabel class=\u0022info-icon\u0022 for=\u0022cookie-category-descriptionanalytical_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cspan\u003Ei\u003C\/span\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022eu-cookie-compliance-category-description cookie-banner-settings__category__description\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cinput type=\u0022checkbox\u0022 id=\u0022cookie-category-descriptionanalytical_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022info-text\u0022\u003EAnalytische cookies houden bij hoe gebruikers de website bereiken, interactie mee hebben en er zich op verplaatsen. Deze cookies laten ons weten welke functies op de website het beste werken en welke functies kunnen worden verbeterd.\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022eu-cookie-compliance-category cookie-banner-settings__category\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022js-form-item form-item js-form-type-checkbox form-type__checkbox  \u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-marketing_cookies\u0022 class=\u0022form-checkbox\u0022 value=\u0022marketing_cookies\u0022  \u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Clabel class=\u0022cbx\u0022 for=\u0022cookie-category-marketing_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cspan\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Csvg width=\u002212px\u0022 height=\u002210px\u0022 viewbox=\u00220 0 12 10\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cpolyline points=\u00221.5 6 4.5 9 10.5 1\u0022\u003E\u003C\/polyline\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/svg\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/span\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Clabel for=\u0022cookie-category-marketing_cookies\u0022 class=\u0022option\u0022\u003EMarketing cookies\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Clabel class=\u0022info-icon\u0022 for=\u0022cookie-category-descriptionmarketing_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cspan\u003Ei\u003C\/span\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022eu-cookie-compliance-category-description cookie-banner-settings__category__description\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cinput type=\u0022checkbox\u0022 id=\u0022cookie-category-descriptionmarketing_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022info-text\u0022\u003EDeze cookies gebruiken we om je surfgedrag op onze site in te zetten voor onze eigen marketing doeleinden. Zo kan je dankzij deze cookies advertenties zien voor onze producten en diensten op andere websites en apps.\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\n\t\t\t\t\t\t\t\u003Cdiv class=\u0022cookie-banner__buttons\u0022\u003E\n\t\t\t\t\t\t\t\t\u003Cbutton type=\u0022button\u0022 class=\u0022disagree-button eu-cookie-compliance-disagree-button find-more-button eu-cookie-compliance-more-button\u0022\u003EToestemming intrekken\u003C\/button\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022eu-cookie-compliance-categories-buttons\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-compliance-save-preferences-button preferences-button\u0022\u003EVoorkeuren opslaan\u003C\/button\u003E\n\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-compliance-agree-button agree-button eu-cookie-compliance-default-button\u0022\u003E\n\t\t\t\t\t\t\t\t\tIk accepteer alle cookies\n\t\t\t\t\t\t\t\t\u003C\/button\u003E\n\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\u003C\/div\u003E\n\n\n\t\t\t\n\t\t\t\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-compliance-agree-button agree-button eu-cookie-compliance-default-button\u0022\u003E\n\t\t\t\tIk accepteer alle cookies\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\n\t\u003C\/div\u003E\n\n\u003C\/div\u003E\n\n\n\t\u003Cbutton type=\u0022button\u0022 class=\u0022hidden eu-cookie-withdraw-tab\u0022\u003EPrivacy-instellingen\u003C\/button\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--categories cookie-banner\u0022\u003E\n\n\t\u003Cdiv class=\u0022cookie-banner__content\u0022\u003E\n\t\t\u003Cdiv class=\u0022cookie-banner__content__message\u0022\u003E\n\t\t\t\n\t\t\u003C\/div\u003E\n\n\t\t\u003Cdiv class=\u0022cookie-banner__buttons\u0022\u003E\n\t\t\t\u003Cbutton type=\u0022button\u0022 class=\u0022disagree-button eu-cookie-compliance-disagree-button find-more-button eu-cookie-compliance-more-button\u0022\u003EToestemming intrekken\u003C\/button\u003E\n\n\t\t\t\t\t\t\t\u003Cinput type=\u0022checkbox\u0022 name=\u0022show-settings\u0022 id=\u0022show-cookie-settings\u0022 class=\u0022hidden\u0022\u003E\n\t\t\t\t\u003Clabel class=\u0022option\u0022 for=\u0022show-cookie-settings\u0022\u003E\n\t\t\t\t\tCookie settings\n\t\t\t\t\u003C\/label\u003E\n\n\t\t\t\t\u003Cdiv class=\u0022cookie-settings js-cookie-settings cookie-banner-settings\u0022\u003E\n\t\t\t\t\t\u003Cdiv class=\u0022cookie-banner-settings__wrapper\u0022\u003E\n\t\t\t\t\t\t\u003Cdiv class=\u0022cookie-banner-settings__card\u0022\u003E\n\t\t\t\t\t\t\t\u003Clabel class=\u0022js-close-cookie-banner\u0022 for=\u0022show-cookie-settings\u0022 id=\u0022show-cookie-settings\u0022\u003ECLOSE\u003C\/label\u003E\n\t\t\t\t\t\t\t\u003Cdiv id=\u0022eu-cookie-compliance-categories\u0022 class=\u0022eu-cookie-compliance-categories\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022eu-cookie-compliance-category cookie-banner-settings__category\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022js-form-item form-item js-form-type-checkbox form-type__checkbox  form-disabled  \u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-necessary_cookies\u0022 class=\u0022form-checkbox\u0022 value=\u0022necessary_cookies\u0022  checked   disabled \u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Clabel class=\u0022cbx\u0022 for=\u0022cookie-category-necessary_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cspan\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Csvg width=\u002212px\u0022 height=\u002210px\u0022 viewbox=\u00220 0 12 10\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cpolyline points=\u00221.5 6 4.5 9 10.5 1\u0022\u003E\u003C\/polyline\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/svg\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/span\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Clabel for=\u0022cookie-category-necessary_cookies\u0022 class=\u0022option\u0022\u003ENoodzakelijke cookies\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Clabel class=\u0022info-icon\u0022 for=\u0022cookie-category-descriptionnecessary_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cspan\u003Ei\u003C\/span\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022eu-cookie-compliance-category-description cookie-banner-settings__category__description\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cinput type=\u0022checkbox\u0022 id=\u0022cookie-category-descriptionnecessary_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022info-text\u0022\u003EDeze cookies zijn onmisbaar voor het bezoeken van onze website en het gebruik van bepaalde onderdelen van de websites. Zo kunt u bijvoorbeeld navigeren tussen de verschillende onderdelen van de website of formulieren invullen. Als je deze cookies weigert, zullen bepaalde onderdelen van de website niet of niet optimaal werken.\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022eu-cookie-compliance-category cookie-banner-settings__category\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022js-form-item form-item js-form-type-checkbox form-type__checkbox  \u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-functional_cookies\u0022 class=\u0022form-checkbox\u0022 value=\u0022functional_cookies\u0022  \u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Clabel class=\u0022cbx\u0022 for=\u0022cookie-category-functional_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cspan\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Csvg width=\u002212px\u0022 height=\u002210px\u0022 viewbox=\u00220 0 12 10\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cpolyline points=\u00221.5 6 4.5 9 10.5 1\u0022\u003E\u003C\/polyline\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/svg\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/span\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Clabel for=\u0022cookie-category-functional_cookies\u0022 class=\u0022option\u0022\u003EFunctionele cookies\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Clabel class=\u0022info-icon\u0022 for=\u0022cookie-category-descriptionfunctional_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cspan\u003Ei\u003C\/span\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022eu-cookie-compliance-category-description cookie-banner-settings__category__description\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cinput type=\u0022checkbox\u0022 id=\u0022cookie-category-descriptionfunctional_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022info-text\u0022\u003EFunctionele cookies maken het voor onze websites en apps gemakkelijker om te werken, maken ze prettiger voor bezoekers en zorgen ervoor dat je een meer gepersonaliseerde browse-ervaring hebt.\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022eu-cookie-compliance-category cookie-banner-settings__category\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022js-form-item form-item js-form-type-checkbox form-type__checkbox  \u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-analytical_cookies\u0022 class=\u0022form-checkbox\u0022 value=\u0022analytical_cookies\u0022  \u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Clabel class=\u0022cbx\u0022 for=\u0022cookie-category-analytical_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cspan\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Csvg width=\u002212px\u0022 height=\u002210px\u0022 viewbox=\u00220 0 12 10\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cpolyline points=\u00221.5 6 4.5 9 10.5 1\u0022\u003E\u003C\/polyline\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/svg\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/span\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Clabel for=\u0022cookie-category-analytical_cookies\u0022 class=\u0022option\u0022\u003EAnalytische cookies\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Clabel class=\u0022info-icon\u0022 for=\u0022cookie-category-descriptionanalytical_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cspan\u003Ei\u003C\/span\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022eu-cookie-compliance-category-description cookie-banner-settings__category__description\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cinput type=\u0022checkbox\u0022 id=\u0022cookie-category-descriptionanalytical_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022info-text\u0022\u003EAnalytische cookies houden bij hoe gebruikers de website bereiken, interactie mee hebben en er zich op verplaatsen. Deze cookies laten ons weten welke functies op de website het beste werken en welke functies kunnen worden verbeterd.\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022eu-cookie-compliance-category cookie-banner-settings__category\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022js-form-item form-item js-form-type-checkbox form-type__checkbox  \u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-marketing_cookies\u0022 class=\u0022form-checkbox\u0022 value=\u0022marketing_cookies\u0022  \u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Clabel class=\u0022cbx\u0022 for=\u0022cookie-category-marketing_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cspan\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Csvg width=\u002212px\u0022 height=\u002210px\u0022 viewbox=\u00220 0 12 10\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cpolyline points=\u00221.5 6 4.5 9 10.5 1\u0022\u003E\u003C\/polyline\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/svg\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/span\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003Clabel for=\u0022cookie-category-marketing_cookies\u0022 class=\u0022option\u0022\u003EMarketing cookies\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Clabel class=\u0022info-icon\u0022 for=\u0022cookie-category-descriptionmarketing_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cspan\u003Ei\u003C\/span\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/label\u003E\n\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022eu-cookie-compliance-category-description cookie-banner-settings__category__description\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cinput type=\u0022checkbox\u0022 id=\u0022cookie-category-descriptionmarketing_cookies\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022info-text\u0022\u003EDeze cookies gebruiken we om je surfgedrag op onze site in te zetten voor onze eigen marketing doeleinden. Zo kan je dankzij deze cookies advertenties zien voor onze producten en diensten op andere websites en apps.\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\n\t\t\t\t\t\t\t\u003Cdiv class=\u0022cookie-banner__buttons\u0022\u003E\n\t\t\t\t\t\t\t\t\u003Cbutton type=\u0022button\u0022 class=\u0022disagree-button eu-cookie-compliance-disagree-button find-more-button eu-cookie-compliance-more-button\u0022\u003EToestemming intrekken\u003C\/button\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cdiv class=\u0022eu-cookie-compliance-categories-buttons\u0022\u003E\n\t\t\t\t\t\t\t\t\t\t\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-compliance-save-preferences-button preferences-button\u0022\u003EVoorkeuren opslaan\u003C\/button\u003E\n\t\t\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-compliance-agree-button agree-button eu-cookie-compliance-default-button\u0022\u003E\n\t\t\t\t\t\t\t\t\tIk accepteer alle cookies\n\t\t\t\t\t\t\t\t\u003C\/button\u003E\n\t\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\t\u003C\/div\u003E\n\t\t\t\t\u003C\/div\u003E\n\n\n\t\t\t\n\t\t\t\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-compliance-agree-button agree-button eu-cookie-compliance-default-button\u0022\u003E\n\t\t\t\tIk accepteer alle cookies\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\n\t\u003C\/div\u003E\n\n\u003C\/div\u003E\n\n\n\t\u003Cbutton type=\u0022button\u0022 class=\u0022hidden eu-cookie-withdraw-tab\u0022\u003EPrivacy-instellingen\u003C\/button\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":true,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"nl","store_consent":false,"better_support_for_screen_readers":true,"cookie_name":"","reload_page":true,"domain":"","domain_all_sites":true,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":1,"disagree_do_not_show_popup":true,"method":"categories","automatic_cookies_removal":true,"allowed_cookies":"functional_cookies:*","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy-instellingen\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Cp\u003EThis website uses cookies to enhance your experience on our website\u003C\/p\u003E\n\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button \u0022\u003EToestemming intrekken\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":true,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":true,"cookie_categories":["necessary_cookies","functional_cookies","analytical_cookies","marketing_cookies"],"cookie_categories_details":{"necessary_cookies":{"uuid":"a9e1a886-aa0c-44f6-8c6f-32d4b7b7840c","langcode":"nl","status":true,"dependencies":[],"id":"necessary_cookies","label":"Noodzakelijke cookies","description":"Deze cookies zijn onmisbaar voor het bezoeken van onze website en het gebruik van bepaalde onderdelen van de websites. Zo kunt u bijvoorbeeld navigeren tussen de verschillende onderdelen van de website of formulieren invullen. Als je deze cookies weigert, zullen bepaalde onderdelen van de website niet of niet optimaal werken.","checkbox_default_state":"required","weight":-9},"functional_cookies":{"uuid":"0b5af6df-8c83-4dc4-b208-a95eaa3ba74f","langcode":"nl","status":true,"dependencies":[],"id":"functional_cookies","label":"Functionele cookies","description":"Functionele cookies maken het voor onze websites en apps gemakkelijker om te werken, maken ze prettiger voor bezoekers en zorgen ervoor dat je een meer gepersonaliseerde browse-ervaring hebt.","checkbox_default_state":"unchecked","weight":-8},"analytical_cookies":{"uuid":"41a0df0f-7da2-4a1e-b5e1-14beb7a7cb2c","langcode":"nl","status":true,"dependencies":[],"id":"analytical_cookies","label":"Analytische cookies","description":"Analytische cookies houden bij hoe gebruikers de website bereiken, interactie mee hebben en er zich op verplaatsen. Deze cookies laten ons weten welke functies op de website het beste werken en welke functies kunnen worden verbeterd.","checkbox_default_state":"unchecked","weight":-7},"marketing_cookies":{"uuid":"19c7a5ca-f51e-444c-9040-778408639ac6","langcode":"nl","status":true,"dependencies":[],"id":"marketing_cookies","label":"Marketing cookies","description":"Deze cookies gebruiken we om je surfgedrag op onze site in te zetten voor onze eigen marketing doeleinden. Zo kan je dankzij deze cookies advertenties zien voor onze producten en diensten op andere websites en apps.","checkbox_default_state":"unchecked","weight":-6}},"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":true,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"close_banner","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true,"unverified_scripts":[]},"antibot":{"forms":{"webform-submission-appointment-popup-node-13-add-form":{"id":"webform-submission-appointment-popup-node-13-add-form","key":"MIYuDpBeflwttCpo2A5BFRYR21OHfyJZIe9EDKrt94M"}}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:d7cb726e3cf3673634176c86ec10ffccaf5e64ed72eb081ceb405b2a599155ee":{"view_name":"services","view_display_id":"services_cards","view_args":"","view_path":"\/taxonomy\/term\/1","view_base_path":null,"view_dom_id":"d7cb726e3cf3673634176c86ec10ffccaf5e64ed72eb081ceb405b2a599155ee","pager_element":0}}},"user":{"uid":0,"permissionsHash":"778f82eff581b02c404919a9e387289d17f45b3061083fb71c67d3c7893cba63"}}</script>
+<script src="/sites/mariasteen/files/js/js_TuW3bTw7-yIPdjYfKpCMEIUIqCOz_K2vd8oHDJKatEo.js?scope=footer&amp;delta=0&amp;language=nl&amp;theme=mariasteen&amp;include=eJyFT1sOwjAMu1DVHmlKN7MF2mZqwnicnhVNYggQP3biOFFMR7p2SWhADfSqvU1VYkR1VIyjWNjYH6Rmh3PXi5wYK-U5MZUe4ZvoEt1voYHLVJnUgBJonoWLZRTby5EU-_6wXrhFue41VjGZ32yVyohuojKk9d_dQJHQG9_f3Jq4P7mFcdHwRN9iuwtiSxY29utqe88PMOKkXmnBX5PJOKbftgxVGj_nDR4AH5k7"></script>
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="/sites/mariasteen/files/js/js_GNI92bpJCYeRXchgXYeIQ8OH0NBvbw4iRJKzlTABjuc.js?scope=footer&amp;delta=2&amp;language=nl&amp;theme=mariasteen&amp;include=eJyFT1sOwjAMu1DVHmlKN7MF2mZqwnicnhVNYggQP3biOFFMR7p2SWhADfSqvU1VYkR1VIyjWNjYH6Rmh3PXi5wYK-U5MZUe4ZvoEt1voYHLVJnUgBJonoWLZRTby5EU-_6wXrhFue41VjGZ32yVyohuojKk9d_dQJHQG9_f3Jq4P7mFcdHwRN9iuwtiSxY29utqe88PMOKkXmnBX5PJOKbftgxVGj_nDR4AH5k7"></script>
+<script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+<script src="/sites/mariasteen/files/js/js_Ls2HGSwCxQQkhAJYlPeD9tPZNpjU40Fb8fkmQ3YvwIw.js?scope=footer&amp;delta=4&amp;language=nl&amp;theme=mariasteen&amp;include=eJyFT1sOwjAMu1DVHmlKN7MF2mZqwnicnhVNYggQP3biOFFMR7p2SWhADfSqvU1VYkR1VIyjWNjYH6Rmh3PXi5wYK-U5MZUe4ZvoEt1voYHLVJnUgBJonoWLZRTby5EU-_6wXrhFue41VjGZ32yVyohuojKk9d_dQJHQG9_f3Jq4P7mFcdHwRN9iuwtiSxY29utqe88PMOKkXmnBX5PJOKbftgxVGj_nDR4AH5k7"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+<script src="/sites/mariasteen/files/js/js_KVe8dAaTrAxqb8THjYOQ14fvPWEcZuvRdUjPRJAFyV0.js?scope=footer&amp;delta=6&amp;language=nl&amp;theme=mariasteen&amp;include=eJyFT1sOwjAMu1DVHmlKN7MF2mZqwnicnhVNYggQP3biOFFMR7p2SWhADfSqvU1VYkR1VIyjWNjYH6Rmh3PXi5wYK-U5MZUe4ZvoEt1voYHLVJnUgBJonoWLZRTby5EU-_6wXrhFue41VjGZ32yVyohuojKk9d_dQJHQG9_f3Jq4P7mFcdHwRN9iuwtiSxY29utqe88PMOKkXmnBX5PJOKbftgxVGj_nDR4AH5k7"></script>
+
+        </body>
+</html>

@@ -24841,3 +24841,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.2); entities (+1 vzw_de_brug_mortsel); foi + draft gap_de_brug_nbb_pdf_assets_debt_pnl_loss_flip_bruto_gt_omzet_matrix_l5; rq_2186=done + rq_2187 open; loop_state ticks=2186; raw docs/doge/data/raw/tick2186/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2187 (AGB/FARO-if-YE2025 / AIESH-REW / Mirto-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2186 - 2026-08-26T08:00:00Z - rq_2186 Mariasteen (omzet JUMP 22.93m / pnl LOSS IMPROVED -222k / bruto>omzet / Medium)
+
+- Unit: **rq_2186** leftover dual after **rq_2185 Weerwerk**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (last balance 2024); AIESH/REW still YE2024-class. Took unused leftover **Mariasteen VZW** YE2025 (KBO **0407.079.207**; Koolskampstraat 24 Hooglede; **VZW** RSZ NACE **88.993** / **9 VE**). Do not redo Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR22932124** JUMP +8.4% vs YE2024 EUR21155147; bruto **EUR29770020** JUMP +5.25% (bruto≫omzet); pnl **EUR-222391** LOSS IMPROVED +39.4% vs YE2024 EUR-366959; equity **EUR27992743** DROP -1.29%; FTE **877.7** JUMP vs 871.5; neerlegging **30.05.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 9 VE. FOI via info@mariasteen.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.5); entities (+1 vzw_mariasteen_hooglede); foi + draft gap_mariasteen_nbb_pdf_assets_debt_pnl_loss_bruto_gt_omzet_equity_drop_matrix_l5; rq_2186=done + rq_2187 open; loop_state ticks=2186; raw docs/doge/data/raw/tick2186/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2187 (AGB/FARO-if-YE2025 / AIESH-REW / Blankedale-Kringwinkel Antwerpen-De Wroeter-or-unused IGS-DSO-WZC-MRS-HVZ).

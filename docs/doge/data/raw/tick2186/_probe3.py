@@ -47,8 +47,24 @@ def parse_kern(html):
     winst, equity, bruto, omzet = m.groups()
 
     def num(s):
-        s = s.replace(".", "").replace(",", ".").replace(" ", "")
-        return float(s) if s not in ("", "-") else None
+        s = (s or "").strip().replace(" ", "").replace("\xa0", "")
+        if s in ("", "-", "n/a", "N/A"):
+            return None
+        # EN: 1,841,558 or NL: 1.841.558 or mixed 1.841.558,50
+        if re.search(r",\d{2}$", s) and "." in s:
+            s = s.replace(".", "").replace(",", ".")
+        elif s.count(",") > 1:
+            s = s.replace(",", "")
+        elif s.count(".") > 1:
+            s = s.replace(".", "")
+        elif "," in s and "." not in s:
+            # could be 1841558,50 or 1,841,558 already handled
+            parts = s.split(",")
+            if len(parts) == 2 and len(parts[1]) == 2:
+                s = parts[0] + "." + parts[1]
+            else:
+                s = s.replace(",", "")
+        return float(s)
 
     fte_m = re.search(r'amountOfEmployees\s*=\s*"([^"]+)"', html)
     fte = None
