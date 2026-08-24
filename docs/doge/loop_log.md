@@ -26014,3 +26014,12 @@ Append-only. Each tick adds a short entry.
   - Pure annual waste top10 **stable** (GIP #1; fossil/cars/cheque/reporté #2–10).
 - Inventory: budgets 53695 · commitments 5990 · leaderboard 8111 · entities 2019 · sources 6510 · FOI ready 1941.
 - Next: rq_2281 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk). Next EVERY-10 **2290**.
+
+### 2026-08-27T12:20:00Z - tick 2280 - EVERY-10 + rq_2280 Atelier Alternatief Genk (bruto JUMP 4.11m / empty omzet / equity DROP -30.5% / LOSS NARROW / FTE 137 / Medium)
+
+- Unit: **rq_2280** EVERY-10 mandatory + leftover dual after **rq_2279 Ateliers de l'Avenir**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Aralea/Manupal/Posthoorn/De Ploeg/Vlotter/Buseloc still **YE2024**; Reset already mined@2225 (skipped). Took FREE Flemish maatwerk **Atelier Alternatief VZW** YE2025 (KBO **0465.227.440**; Lucien Londotstraat 3 Genk; **Actief** **9 VE**; NACE **88.993/88.999** Genk circular textile/linnenzorg). Do not redo Alternatief race / Reset / Ateliers Avenir / IN-Z / m-accent / AMAB stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR4105167** JUMP +3.35% vs YE2024 EUR3972247; pnl **EUR-123412** LOSS NARROW +51.22% vs YE2024 EUR-253001; equity **EUR201770** DROP -30.5%; FTE **137** (vs 134.3); neerlegging **30.06.2026**. Strong KBO Actief 9 VE VZW info@alternatiefvzw.be. Assets/debt Unknown. Medium.
+- EVERY-10: refreshed progress_every_10_ticks.md (layers A-E; inventory budgets 53699+/FOI ready ~1942) + doge_waste_top10_current.md (pure annual top10 stable GIP#1; residual 2271-2280 noted).
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.18); entities (+1 vzw_atelier_alternatief_genk); foi + draft gap_alternatief_nbb_pdf_assets_debt_empty_omzet_equity_drop_30pct_pnl_loss_narrow_matrix_l5; progress + waste top10; rq_2280=done + rq_2281 open; loop_state ticks=2280; raw docs/doge/data/raw/tick2280/.
+- FOI: **ready not sent** (human-gated).
+- EVERY-10 THIS TICK (**last every-10 was 2270**; next **2290**). Next: rq_2281 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
