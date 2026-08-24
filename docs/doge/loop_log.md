@@ -24691,3 +24691,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2174 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
 
+
+## Tick 2174 - 2026-08-26T04:00:00Z - rq_2174 ORPIMMO (equity JUMP 70.0m FLIP / pnl LOSS -28.7m / Medium)
+
+- Unit: **rq_2174** leftover dual after **rq_2173 Langerheide** (race: concurrent closed 2173 as Langerheide while this fire probed care/emeis). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Skipped Residentie Oudenburg NACE 68 RE hospitality; Pidpa already Strong-mined. Took unused leftover **ORPIMMO NV** YE2025 (KBO **0870.166.709**; Alsembergsesteenweg 1037 Ukkel; **NV** NACE **64.210** holdings / **1 VE**; kapitaal EUR77.7m; bestuurder **emeis Belgium 0887.690.451**; same zetel as mined Het Dorp). Deferred FREE **Senes WZC** 0666.821.451 (NACE 68 RE sibling). Do not redo Langerheide/Cur@-Z/Het Dorp/De Vlietoever/Abdij/Aaigem/Anima*/Zorg-Saam/emeis Belgium.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR811011** DROP -25.74% vs YE2024 EUR1092165; bruto **EUR217680** DROP; pnl **EUR-28702811** LOSS IMPROVED vs YE2024 EUR-56689064; equity **EUR69963602** JUMP FLIP vs YE2024 EUR-61333586; FTE **4.9**; neerlegging **08.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief NV + emeis board.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.6); entities (+1 nv_orpimmo); foi + draft gap_orpimmo_nbb_pdf_assets_debt_equity_jump_pnl_loss_emeis_matrix_l5; rq_2174=done + rq_2175 open; loop_state ticks=2174; raw docs/doge/data/raw/tick2174/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2175 (AGB/FARO-if-YE2025 / AIESH-REW / Senes-or-unused IGS-DSO-WZC-MRS-HVZ).
