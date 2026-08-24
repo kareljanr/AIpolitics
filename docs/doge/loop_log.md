@@ -24699,3 +24699,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.6); entities (+1 nv_orpimmo); foi + draft gap_orpimmo_nbb_pdf_assets_debt_equity_jump_pnl_loss_emeis_matrix_l5; rq_2174=done + rq_2175 open; loop_state ticks=2174; raw docs/doge/data/raw/tick2174/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2175 (AGB/FARO-if-YE2025 / AIESH-REW / Senes-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2175 - 2026-08-26T04:20:00Z - rq_2175 Senes WZC (omzet JUMP 1.19m / pnl LOSS FLIP -34k / equity DROP / Medium)
+
+- Unit: **rq_2175** leftover dual after **rq_2174 ORPIMMO**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took named deferred FREE leftover **Senes WZC BV** YE2025 (KBO **0666.821.451**; Alsembergsesteenweg 1037 Ukkel; **BV** NACE **68.201**/68.203 RE / **1 VE**; bestuurder **ORPIMMO 0870.166.709**). Do not redo Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever/Abdij/Aaigem/Anima*/Zorg-Saam/emeis Belgium.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1192600** JUMP +2.92% vs YE2024 EUR1158729; bruto **EUR1188602** JUMP +2.56%; pnl **EUR-33890** LOSS FLIP vs YE2024 EUR15306; equity **EUR6467829** DROP -4.46% vs YE2024 EUR6769776; FTE **0**; neerlegging **07.07.2026**. Assets/debt Unknown. Medium. Strong KBO Actief BV + Orpimmo board. FOI via hetdorp@emeis.com.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.9); entities (+1 bv_senes_wzc); foi + draft gap_senes_nbb_pdf_assets_debt_pnl_loss_flip_equity_drop_orpimmo_matrix_l5; rq_2175=done + rq_2176 open; loop_state ticks=2175; raw docs/doge/data/raw/tick2175/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2170**; next **2180**). Next: rq_2176 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).

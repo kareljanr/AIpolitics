@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T04:00:00Z,rq_2174,2174,no,tick2174 leftover ORPIMMO 0870.166.709 Medium (equity JUMP FLIP 69.96m from NEG -61.3m; pnl LOSS -28.70m IMPROVED; omzet DROP 811k; bruto 218k; FTE 4.9; emeis board; 1 VE NACE 64.210); AGB Bornem JR2024; FARO/AIESH/REW YE2024; Senes FREE deferred; next rq_2175; next every-10 2180; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T04:20:00Z,rq_2175,2175,no,tick2175 leftover SENES WZC 0666.821.451 Medium (omzet JUMP 1.19m; pnl LOSS FLIP -33.9k; equity DROP 6.47m; bruto 1.19m; FTE 0; Orpimmo board; 1 VE NACE 68.201); AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2176; next every-10 2180; continuous hole_fill

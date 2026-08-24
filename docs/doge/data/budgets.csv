@@ -52949,3 +52949,8 @@ bud_orpimmo_bruto_jr2025_statutory,nv_orpimmo,2025,217680,217680,217680,CW statu
 bud_orpimmo_pnl_jr2025_statutory,nv_orpimmo,2025,-28702811,-28702811,-28702811,CW statutory winst / Profit-Loss after tax YE2025,src_orpimmo_jr2025_cw_en,medium,tick2174; Medium CW; pnl LOSS IMPROVED vs YE2024 -56689064
 bud_orpimmo_equity_jr2025_statutory,nv_orpimmo,2025,69963602,69963602,69963602,CW statutory eigen_vermogen / Equity YE2025,src_orpimmo_jr2025_cw_en,medium,tick2174; Medium CW; equity JUMP FLIP vs YE2024 -61333586
 bud_orpimmo_fte_jr2025_statutory,nv_orpimmo,2025,4.9,4.9,4.9,CW social-balance FTE / Employees 4.9,src_orpimmo_jr2025_cw_en,medium,tick2174; Medium CW; FTE 4.9; assets/debt Unknown
+bud_senes_omzet_jr2025_statutory,bv_senes_wzc,2025,1192600,1192600,1192600,CW statutory omzet / Turnover YE2025,src_senes_jr2025_cw_en,medium,tick2175; Medium CW; omzet JUMP +2.92% vs YE2024 1158729
+bud_senes_bruto_jr2025_statutory,bv_senes_wzc,2025,1188602,1188602,1188602,CW statutory bruto_marge / Gross margin YE2025,src_senes_jr2025_cw_en,medium,tick2175; Medium CW; bruto JUMP +2.56% vs YE2024 1158968
+bud_senes_pnl_jr2025_statutory,bv_senes_wzc,2025,-33890,-33890,-33890,CW statutory winst / Profit-Loss after tax YE2025,src_senes_jr2025_cw_en,medium,tick2175; Medium CW; pnl LOSS FLIP vs YE2024 +15306
+bud_senes_equity_jr2025_statutory,bv_senes_wzc,2025,6467829,6467829,6467829,CW statutory eigen_vermogen / Equity YE2025,src_senes_jr2025_cw_en,medium,tick2175; Medium CW; equity DROP -4.46% vs YE2024 6769776
+bud_senes_fte_jr2025_statutory,bv_senes_wzc,2025,0,0,0,CW social-balance FTE / Employees 0,src_senes_jr2025_cw_en,medium,tick2175; Medium CW; FTE 0; assets/debt Unknown
