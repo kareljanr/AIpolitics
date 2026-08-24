@@ -24243,3 +24243,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 7.1); entities (+1 bv_restel_flats); foi + draft gap_restel_flats_nbb_pdf_assets_debt_omzet_jump_loss_narrow_matrix_l5; rq_2129=done + rq_2130 open (EVERY-10); loop_state ticks=2129; raw docs/doge/data/raw/tick2129/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2120**; next **2130** MUST refresh progress + waste top10). Next: rq_2130 EVERY-10 (AGB/FARO-if-YE2025 / AIESH-REW / L'Orchidee / unused IGS-DSO-WZC-MRS).
+
+## Tick 2130 - 2026-08-25T13:30:00Z - rq_2130 EVERY-10 Care-Support Houthalen (bruto JUMP 1.85m / pnl JUMP 1.09m / Medium)
+
+- Unit: **rq_2130** EVERY-10 + leftover dual after **rq_2129 MPC Sint-Franciscus**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Restel Flats still **YE2024**. Took unused leftover **Care-Support SRL** YE2025 (KBO **0827.850.260**; Weygaardstraat 26 Houthalen-Helchteren; **BV/SRL** NACE **88.101** / **2 VE**; thuiszorg). Do not redo MPC Sint-Franciscus/De Fakkel/Château Vert/SLG Wallonie/Famifamenne.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR1852254** JUMP +35%; pnl **EUR1091779** JUMP +31.25%; equity **EUR2995724** JUMP +57.34%; FTE **1**; neerlegging **05.02.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@care-support.be.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.5); entities (+1 bv_care_support_houthalen); foi + draft gap_care_support_nbb_pdf_assets_debt_omzet_empty_pnl_jump_matrix_l5; progress_every_10_ticks.md + doge_waste_top10_current.md refreshed; rq_2130=done + rq_2131 open; loop_state ticks=2130; raw docs/doge/data/raw/tick2130/.
+- FOI: **ready not sent** (human-gated).
+- **EVERY-10@2130** (last was 2120; **next 2140**). Pure annual top10 stable (GIP/fossil/cars/cheque). Next: rq_2131 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
