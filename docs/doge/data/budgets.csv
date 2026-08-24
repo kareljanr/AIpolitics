@@ -54067,3 +54067,8 @@ bud_gielsbos_bruto_jr2025_statutory,vzw_het_gielsbos_lille,2025,41720205,4172020
 bud_gielsbos_pnl_jr2025_statutory,vzw_het_gielsbos_lille,2025,1613061,1613061,1613061,CW statutory winst/verlies YE2025 JUMP,src_gielsbos_jr2025_cw_en,medium,tick2334; Medium CW; pnl +14.35% vs 1410671
 bud_gielsbos_equity_jr2025_statutory,vzw_het_gielsbos_lille,2025,38121725,38121725,38121725,CW statutory eigen_vermogen YE2025 JUMP,src_gielsbos_jr2025_cw_en,medium,tick2334; Medium CW; equity +4.04% vs 36640735
 bud_gielsbos_fte_jr2025_statutory,vzw_het_gielsbos_lille,2025,509.3,509.3,509.3,CW social-balance FTE 509.3,src_gielsbos_jr2025_cw_en,medium,tick2334; Medium CW; FTE 509.3 vs 510.7
+bud_ww_autisme_omzet_jr2025_statutory,vzw_wonen_werken_autisme_pajottegem,2025,2488539,2488539,2488539,CW statutory omzet YE2025 JUMP,src_ww_autisme_jr2025_cw_en,medium,tick2335; +32.25% vs 1881671
+bud_ww_autisme_bruto_jr2025_statutory,vzw_wonen_werken_autisme_pajottegem,2025,13441120,13441120,13441120,CW statutory bruto_marge YE2025 ~5.4x,src_ww_autisme_jr2025_cw_en,medium,tick2335; +28.04% vs 10497948
+bud_ww_autisme_pnl_jr2025_statutory,vzw_wonen_werken_autisme_pajottegem,2025,2326835,2326835,2326835,CW statutory winst/verlies YE2025 JUMP,src_ww_autisme_jr2025_cw_en,medium,tick2335; +113.75% vs 1088580
+bud_ww_autisme_equity_jr2025_statutory,vzw_wonen_werken_autisme_pajottegem,2025,14663706,14663706,14663706,CW statutory eigen_vermogen YE2025 JUMP,src_ww_autisme_jr2025_cw_en,medium,tick2335; +17.99% vs 12427489
+bud_ww_autisme_fte_jr2025_statutory,vzw_wonen_werken_autisme_pajottegem,2025,143.3,143.3,143.3,CW FTE 143.3,src_ww_autisme_jr2025_cw_en,medium,tick2335; FTE JUMP vs 126.5
