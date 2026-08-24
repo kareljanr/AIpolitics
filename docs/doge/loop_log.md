@@ -25919,3 +25919,21 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.15); entities (+1 vzw_atelier_85_florennes); foi + draft gap_atelier85_nbb_pdf_assets_debt_omzet_7_86m_bruto_gt_omzet_1_02x_eta_matrix_l5; rq_2274=done + rq_2275 open; loop_state ticks=2274; raw docs/doge/raw/tick2274/ + data/raw/tick2274/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2275 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Foes-if-YE2025 / unused ETA).
+
+### 2026-08-27T10:55:00Z - tick 2275 - rq_2275 Adapta/Travail-Vie-Bonheur Kelmis (bruto JUMP 1.94m / empty omzet / pnl LOSS FLIP / FTE 63.8 / Medium)
+
+- Unit: **rq_2275** leftover dual after **rq_2274 Atelier 85** (concurrent race claimed Atelier 85; this fire took next open). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco still **YE2024**; Groupe Foes still **YE2024**; Roseau Vert **cessation**. **Adapta unlocked YE2025** (was YE2024 stall) — took named FREE Ostbelgien ETA **Travail-Vie-Bonheur ASBL (Adapta)** YE2025 (KBO **0412.832.394**; Hochheid 2 Kelmis; **Actief** **1 VE**; NACE **88.993** DG/AViQ packaging-cleanroom-green). Do not redo Atelier85/La Gaume/Fournipac/Serre-Outil/Amis/Hautes/Village n1/Saupont/Axedis/Belair stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR1940340** JUMP +2.8% vs YE2024 EUR1887530; pnl **EUR-42542** LOSS FLIP -164.18% vs YE2024 EUR66285; equity **EUR1721192** DROP -1.93%; FTE **63.8** (+6.33% vs 60.0); neerlegging **30.07.2026**. Strong KBO Actief 1 VE ASBL. Assets/debt Unknown. Medium. FOI via info@adapta.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.30); entities (+1 vzw_adapta_travail_vie_bonheur_kelmis); foi + draft gap_adapta_nbb_pdf_assets_debt_empty_omzet_pnl_loss_flip_eta_matrix_l5; rq_2275=done + rq_2276 open; loop_state ticks=2275; raw docs/doge/raw/tick2275/ + data/raw/tick2275/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2276 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA Criquelion-if-YE2025).
+
+
+
+### 2026-08-27T10:55:00Z - tick 2275 - rq_2275 A.P.A.C. Manage (bruto DROP 3.15m / empty omzet / pnl DROP -66.87% / FTE 89.0 / Medium)
+
+- Unit: **rq_2275** leftover dual after **rq_2274 Atelier 85**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**. Took FREE Walloon ETA **A.P.A.C. ASBL** YE2025 (KBO **0456.685.007**; rue du Chenia 13/A Manage; **Actief** **1 VE**; NACE **88.993** AViQ paper/textile/packaging). Do not redo Atelier85/La Gaume/Fournipac/De Enter/Serre-Outil/Amis/Hautes stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR3145869** DROP -4.31% vs YE2024 EUR3287566; pnl **EUR43469** DROP -66.87% vs YE2024 EUR131226; equity **EUR2254927** JUMP +0.6%; FTE **89.0** (-4.3% vs 93.0); neerlegging **11.07.2026**. Strong KBO Actief 1 VE ASBL. Assets/debt Unknown. Medium. FOI via info@apac-belgium.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.70); entities (+1 vzw_apac_manage); foi + draft gap_apac_nbb_pdf_assets_debt_empty_omzet_bruto_3_15m_pnl_drop_67pct_eta_matrix_l5; rq_2275=done + rq_2276 open; loop_state ticks=2275; raw docs/doge/raw/tick2275/ + data/raw/tick2275/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2276 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Foes-if-YE2025 / unused ETA).
