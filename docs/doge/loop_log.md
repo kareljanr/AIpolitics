@@ -25872,3 +25872,13 @@ Append-only. Each tick adds a short entry.
 - Concurrent fire claimed **rq_2270 Amis des Aveugles** as EVERY-10 primary (pushed f0b01aac). Parallel Hautes Ardennes YE2025 fill (bruto **EUR12661084** ~**4.11x** / pnl DROP **-84.32%** / FTE **220.6** / Medium) already landed in same commit CSVs.
 - This reconcile: FOI draft gap_hautes_ardennes_... ready NOT sent; progress+top10 credit Amis primary + Hautes race fill; **rq_2271** retargeted after Amis (do not redo Hautes/Amis).
 - Next: rq_2271 (AGB/FARO-if-YE2025 / AIESH-REW / unused ETA-VAPH-WZC). Next EVERY-10 **2280**.
+
+
+
+### 2026-08-27T09:55:00Z - tick 2271 - rq_2271 La Serre-Outil Woluwe (omzet JUMP 3.11m / bruto~1.51x / pnl DROP -5.58% / FTE 102.6 / Medium)
+
+- Unit: **rq_2271** leftover dual after **rq_2270 Amis des Aveugles** (Hautes Ardennes also mined@2270 race). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Amis+Hautes **already mined**. Took FREE Brussels ETA **La Serre-Outil ASBL** YE2025 (KBO **0420.454.022**; Stokkelsesteenweg 377 Woluwe-Saint-Pierre; **Actief** **3 VE**; NACE **88.993** PHARE / jardins+jardinerie). Deferred Citeco/Groupe Foes still **YE2024**. Do not redo Amis/Hautes/Village n1/Trait/Ouvroir/APRE stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3110087** JUMP +7.34% vs YE2024 EUR2897300; bruto **EUR4704892** JUMP +8.17% (bruto÷omzet ~1.51x); pnl **EUR264629** DROP -5.58% vs YE2024 EUR280272; equity **EUR5191212** JUMP +5.09%; FTE **102.6** (+2.81% vs 99.8); neerlegging **23.05.2026**. Strong KBO Actief 3 VE ASBL. Assets/debt Unknown. Medium. FOI via info@laserreoutil.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 5.95); entities (+1 vzw_la_serre_outil_woluwe); foi + draft gap_serre_nbb_pdf_assets_debt_bruto_gt_omzet_1_51x_eta_matrix_l5; rq_2271=done + rq_2272 open; loop_state ticks=2271; raw docs/doge/raw/tick2271/ + data/raw/tick2271/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2272 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Foes-if-YE2025 / unused ETA).
