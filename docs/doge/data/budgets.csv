@@ -53774,3 +53774,13 @@ bud_op_maat_bruto_jr2025_statutory,vzw_op_maat_kuurne,2025,2347442,2347442,23474
 bud_op_maat_pnl_jr2025_statutory,vzw_op_maat_kuurne,2025,88925,88925,88925,CW statutory winst/verlies YE2025 JUMP,src_op_maat_jr2025_cw_en,medium,tick2290; Medium CW; pnl JUMP +29.3% vs YE2024 68775
 bud_op_maat_equity_jr2025_statutory,vzw_op_maat_kuurne,2025,914553,914553,914553,CW statutory eigen_vermogen YE2025 JUMP,src_op_maat_jr2025_cw_en,medium,tick2290; Medium CW; equity JUMP +10.77% vs YE2024 825628
 bud_op_maat_fte_jr2025_statutory,vzw_op_maat_kuurne,2025,50.5,50.5,50.5,CW social-balance FTE 50.5,src_op_maat_jr2025_cw_en,medium,tick2290; Medium CW; FTE 50.5 vs YE2024 46.7; assets/debt Unknown
+bud_buseloc_bruto_jr2025_statutory,vzw_buseloc_peer,2025,3172722,3172722,3172722,CW statutory bruto YE2025 (omzet unpublished),src_buseloc_jr2025_cw_en,medium,tick2290; bruto 3172722 JUMP +8.65% vs 2920061; empty omzet
+bud_buseloc_pnl_jr2025_statutory,vzw_buseloc_peer,2025,162664,162664,162664,CW statutory pnl YE2025 JUMP +369.67%,src_buseloc_jr2025_cw_en,medium,tick2290; pnl 162664 JUMP +369.67% vs 34634
+bud_buseloc_equity_jr2025_statutory,vzw_buseloc_peer,2025,3905271,3905271,3905271,CW statutory equity YE2025,src_buseloc_jr2025_cw_en,medium,tick2290; equity 3905271 JUMP +4.58% vs 3734256
+bud_buseloc_fte_jr2025_statutory,vzw_buseloc_peer,2025,83.4,83.4,83.4,CW FTE YE2025,src_buseloc_jr2025_cw_en,medium,tick2290; FTE 83.4 flat vs 83.3
+bud_buseloc_pnl_jr2024_statutory_cmp,vzw_buseloc_peer,2024,34634,34634,34634,CW pnl YE2024 comparative,src_buseloc_jr2025_cw_en,medium,tick2290; YE2024 pnl 34634 comparative (pre JUMP)
+bud_intro_schoonmaak_bruto_jr2025_statutory,vzw_groep_intro_schoonmaak,2025,888071,888071,888071,CW bruto YE2025 empty omzet envelope,src_intro_schoonmaak_jr2025_cw_en,medium,tick2291; bruto DROP -5.95% vs 944259
+bud_intro_schoonmaak_pnl_jr2025_statutory,vzw_groep_intro_schoonmaak,2025,-121456,-121456,-121456,CW pnl YE2025 LOSS FLIP,src_intro_schoonmaak_jr2025_cw_en,medium,tick2291; pnl LOSS FLIP < -1000% vs 11731
+bud_intro_schoonmaak_equity_jr2025_statutory,vzw_groep_intro_schoonmaak,2025,382077,382077,382077,CW equity YE2025 DROP,src_intro_schoonmaak_jr2025_cw_en,medium,tick2291; equity DROP -24.12% vs 503533
+bud_intro_schoonmaak_fte_jr2025_statutory,vzw_groep_intro_schoonmaak,2025,22.1,22.1,22.1,CW FTE 22.1,src_intro_schoonmaak_jr2025_cw_en,medium,tick2291; FTE JUMP 22.1 vs 21.3
+bud_intro_schoonmaak_pnl_jr2024_statutory_cmp,vzw_groep_intro_schoonmaak,2024,11731,11731,11731,CW pnl YE2024 cmp,src_intro_schoonmaak_jr2025_cw_en,medium,tick2291; YE2024 pnl 11731

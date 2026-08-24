@@ -26152,3 +26152,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - EVERY-10 THIS TICK (**last every-10 was 2280**; next **2300**). Next: rq_2291 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
 
+
+
+### 2026-08-27T15:15:00Z - tick 2291 - rq_2291 Groep Intro Schoonmaak Anderlecht (empty omzet / bruto DROP 0.89m / pnl LOSS FLIP / equity DROP -24% / FTE 22.1 / Medium)
+
+- Unit: **rq_2291** leftover dual after **rq_2290 Op Maat EVERY-10**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Citeco/Groupe Foes still **YE2024**; Aralea/Manupal/Vlotter/Buseloc still **YE2024**. Took unused FREE sister **Groep Intro Schoonmaak VZW** YE2025 (KBO **0636.767.584**; Charles Parentéstraat 6 Anderlecht; **Actief** **2 VE**; NACE **81.210**; sister of Intro Maatwerk@2182). Do not redo Op Maat/REW/Labeur/Village Liegeois/De Sprong/Borgerstein/WEBO stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR888071** DROP -5.95% vs YE2024 EUR944259; pnl **EUR-121456** LOSS FLIP (< -1000% vs YE2024 EUR11731); equity **EUR382077** DROP -24.12%; FTE **22.1** JUMP (vs 21.3); neerlegging **22.04.2026**. Strong KBO Actief 2 VE VZW. Assets/debt Unknown. Medium. FOI via info@groepintro.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.15); entities (+1 vzw_groep_intro_schoonmaak); foi + draft gap_intro_schoonmaak_nbb_pdf_assets_debt_empty_omzet_bruto_0_89m_pnl_loss_flip_equity_drop_matrix_l5; rq_2291=done + rq_2292 open; loop_state ticks=2291; raw docs/doge/data/raw/tick2291/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2290**; next **2300**). Next: rq_2292 (AGB/FARO-if-YE2025 / AIESH / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).
