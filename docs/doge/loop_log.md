@@ -26512,3 +26512,11 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN YE2025 - omzet **EUR1858609** JUMP +20.86%; bruto **EUR32694121** JUMP +2.88% (~**17.59x**); pnl **EUR719053** FLIP vs YE2024 LOSS; equity **EUR4170158** JUMP +22.76%; FTE **421.0** DROP; neerlegging **10.07.2026**. Medium. FOI via info@heder.be.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.6); entities (+1); foi + draft; rq_2320=done + rq_2321 open; EVERY-10 files.
 - FOI: **ready not sent**. **EVERY-10 @2320** (next **2330**). Next: rq_2321.
+
+### 2026-08-27T23:20:00Z - tick 2320 - EVERY-10 + rq_2320 Heder Ekeren (bruto JUMP 32.69m / ~17.59x omzet / pnl PROFIT FLIP / FTE 421 / Medium)
+
+- Unit: **rq_2320** EVERY-10 + leftover dual after **rq_2319 Kindervriend**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Aralea/Manupal/Vlotter/Gandae still **YE2024**. Took FREE Flemish VAPH MFC **Heder VZW** YE2025 (KBO **0538.767.692**; Herman Vosstraat 14 Ekeren; **Actief** **5 VE**; RSZ **87.201**). Do not redo Kindervriend/Homevil/Havenzate/Iris/Hejmen/M HKA stack.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR1858609** JUMP +20.86% vs YE2024 EUR1537768; bruto **EUR32694121** JUMP +2.88% (~**17.59x**); pnl **EUR719053** PROFIT FLIP vs YE2024 EUR-128406; equity **EUR4170158** JUMP +22.76%; FTE **421** DROP (vs 439.1); neerlegging **10.07.2026**. Strong KBO Actief 5 VE. Assets/debt Unknown. Medium. FOI via info@heder.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.7); entities (+1 vzw_heder_ekeren); foi + draft gap_heder_nbb_pdf_assets_debt_bruto_gt_omzet_17_59x_pnl_flip_vaph_matrix_l5; rq_2320=done + rq_2321 open; loop_state ticks=2320; **progress_every_10_ticks.md** + **doge_waste_top10_current.md** refreshed; raw docs/doge/data/raw/tick2320/.
+- FOI: **ready not sent** (human-gated).
+- EVERY-10@2320 done; next EVERY-10 **2330**. Next: rq_2321 (AGB/FARO-if-YE2025 / unused ETA-VAPH-WZC-maatwerk).
