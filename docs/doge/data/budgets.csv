@@ -54105,3 +54105,8 @@ bud_eyckerheyde_bruto_jr2025_statutory,vzw_huize_eyckerheyde_bornem,2025,9742289
 bud_eyckerheyde_pnl_jr2025_statutory,vzw_huize_eyckerheyde_bornem,2025,408164,408164,408164,CW statutory winst/verlies YE2025 JUMP,src_eyckerheyde_jr2025_cw_en,medium,tick2341; Medium CW; pnl +9.48% vs 372826
 bud_eyckerheyde_equity_jr2025_statutory,vzw_huize_eyckerheyde_bornem,2025,6020250,6020250,6020250,CW statutory eigen_vermogen YE2025 JUMP,src_eyckerheyde_jr2025_cw_en,medium,tick2341; Medium CW; equity +4.45% vs 5763939
 bud_eyckerheyde_fte_jr2025_statutory,vzw_huize_eyckerheyde_bornem,2025,121.9,121.9,121.9,CW social-balance FTE 121.9,src_eyckerheyde_jr2025_cw_en,medium,tick2341; Medium CW; FTE 121.9 vs 115.9
+bud_aurelia_omzet_jr2025_statutory,vzw_aurelia_kortrijk,2025,6280971,6280971,6280971,CW statutory omzet YE2025 JUMP,src_aurelia_jr2025_cw_en,medium,tick2342; +5.27% vs 5966375
+bud_aurelia_bruto_jr2025_statutory,vzw_aurelia_kortrijk,2025,6339122,6339122,6339122,CW statutory bruto_marge YE2025 ~1.01x,src_aurelia_jr2025_cw_en,medium,tick2342; +4.49% vs 6066864
+bud_aurelia_pnl_jr2025_statutory,vzw_aurelia_kortrijk,2025,142185,142185,142185,CW statutory winst/verlies YE2025 JUMP +95.71%,src_aurelia_jr2025_cw_en,medium,tick2342; JUMP vs 72650
+bud_aurelia_equity_jr2025_statutory,vzw_aurelia_kortrijk,2025,1291057,1291057,1291057,CW statutory eigen_vermogen YE2025 JUMP,src_aurelia_jr2025_cw_en,medium,tick2342; +12.38% vs 1148872
+bud_aurelia_fte_jr2025_statutory,vzw_aurelia_kortrijk,2025,81.6,81.6,81.6,CW FTE 81.6,src_aurelia_jr2025_cw_en,medium,tick2342; DROP vs 82.4

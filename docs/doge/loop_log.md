@@ -26755,3 +26755,10 @@ Append-only. Each tick adds a short entry.
 - Found (CW NL+EN YE2025): omzet **EUR1234247** DROP -3.08%; bruto **EUR9742289** JUMP +7.02% (~**7.89x**); pnl **EUR408164** JUMP +9.48%; equity **EUR6020250** JUMP +4.45%; FTE **121.9** JUMP; neerlegging **22.06.2026**. Strong KBO. Assets/debt Unknown. Medium.
 - Wrote: sources (+4); budgets (+5); commitments (+1); leaderboard (+1 pi 4.94); entities (+1 vzw_huize_eyckerheyde_bornem); foi + draft `gap_eyckerheyde_nbb_pdf_assets_debt_bruto_gt_omzet_7_89x_pnl_jump_vaph_matrix_l5`; rq_2341=done + rq_2342 open; loop_state ticks=2341.
 - FOI: **ready not sent**. NOT every-10 (next **2350**). Next: rq_2342.
+
+### 2026-08-24T18:45:00Z — tick 2342 EVERY-10 — rq_2342 Aurelia Kortrijk (omzet JUMP 6.28m / pnl JUMP +96% / FTE 81.6 / Medium)
+
+- Unit: **rq_2342** EVERY-10 + leftover dual after **Eyckerheyde@2341**. Prefer NON-stall AGB/FARO YE2024. Took FREE unlocked YE2025 **Aurelia VZW** (KBO **0878.745.863**; Budastraat 30, 8500 Kortrijk; **Actief** **2 VE**; RSZ **88.101**; info@aureliavzw.be). Took FREE unlocked YE2025 Aurelia (leftover dual).
+- Found: CW NL+EN YE2025 — omzet **EUR6280971** JUMP +5.27%; bruto **EUR6339122** JUMP +4.49% (~**1.01x**); pnl **EUR142185** JUMP +95.71%; equity **EUR1291057** JUMP +12.38%; FTE **81.6**; neerlegging **16.07.2026**. Strong KBO. Assets/debt Unknown. Medium.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 4.35); entities (+1); foi + draft gap_aurelia_nbb_pdf_assets_debt_omzet_6_28m_pnl_jump_home_care_matrix_l5; rq_2342=done + rq_2343 open; loop_state ticks=2342; **EVERY-10** progress + waste top10 refreshed; raw tick2342/.
+- FOI: **ready not sent**. Next EVERY-10 **2350**. Next: rq_2343.
