@@ -24788,3 +24788,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 vzw_groep_intro_maatwerk); foi + draft gap_groep_intro_maatwerk_nbb_pdf_assets_debt_bruto_gt_omzet_fte_drop_equity_jump_matrix_l5; rq_2182=done + rq_2183 open; loop_state ticks=2182; raw docs/doge/data/raw/tick2182/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2183 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
+## Tick 2183 - 2026-08-26T07:00:00Z - rq_2183 Wase Werkplaats (omzet JUMP 13.06m / bruto 28m ≫ omzet / pnl LOSS improving / Medium)
+
+- Unit: **rq_2183** leftover dual after **rq_2182 Groep INTRO**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Wase Werkplaats VZW** YE2025 (KBO **0406.769.993**; Kapelanielaan 20 Temse; **VZW** RSZ NACE **88.993** / **4 VE**). Do not redo Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever/Anima*/emeis.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR13059679** JUMP +7.58% vs YE2024 EUR12139158; bruto **EUR27984893** JUMP +7.68% (bruto≫omzet); pnl **EUR-465728** LOSS improving 68.1% vs YE2024 EUR-1459915; equity **EUR10625410** DROP -3.93%; FTE **761.6** JUMP vs 743.2; neerlegging **19.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 4 VE. FOI via boekhouding@wasewerkplaats.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.0); entities (+1 vzw_wase_werkplaats); foi + draft gap_wase_werkplaats_nbb_pdf_assets_debt_pnl_loss_bruto_gt_omzet_fte_jump_matrix_l5; rq_2183=done + rq_2184 open; loop_state ticks=2183; raw docs/doge/data/raw/tick2183/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2180**; next **2190**). Next: rq_2184 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS-HVZ).
+
