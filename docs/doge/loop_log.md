@@ -25785,3 +25785,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.00); entities (+1 sc_la_lorraine_arlon); foi + draft gap_lorraine_nbb_pdf_assets_debt_empty_omzet_pnl_drop_56pct_eta_matrix_l5; rq_2263=done + rq_2264 open; loop_state ticks=2263; raw docs/doge/raw/tick2263/ + data/raw/tick2263/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2260**; next **2270**). Next: rq_2264 (AGB/FARO-if-YE2025 / AIESH-REW / unused ETA-VAPH-WZC-maatwerk).
+
+
+
+### 2026-08-27T08:10:00Z - tick 2264 - rq_2264 Sipres Ghlin (omzet 2.54m / bruto~1.67x / pnl JUMP +2.16% / FTE 114.4 / Medium)
+
+- Unit: **rq_2264** leftover dual after **rq_2263 La Lorraine**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Relais Haute Sambre/APN still **YE2024**. **Sipres unlocked YE2025** (was YE2024 stall) — took Walloon ETA **Sipres ASBL** YE2025 (KBO **0423.643.540**; Rue Eva Dupont 11 Ghlin/Mons; **Actief** **2 VE**; NACE **88.993** AViQ / Province Hainaut). Deferred FREE **Stallbois** / **Brochage Renaitre** / **APRE** (all YE2025 live this tick). Do not redo La Lorraine/BW Eupen/AJR/Alteria stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2541600** JUMP +6.36% vs YE2024 EUR2389568; bruto **EUR4232586** JUMP +19.22% (bruto÷omzet ~1.67x); pnl **EUR145855** JUMP +2.16% vs YE2024 EUR142768; equity **EUR1562064** JUMP +10.3%; FTE **114.4** (+1.24% vs 113.0); neerlegging **17.07.2026**. Strong KBO Actief 2 VE ASBL. Assets/debt Unknown. Medium. FOI via info@sipres-services.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.05); entities (+1 vzw_sipres_ghlin); foi + draft gap_sipres_nbb_pdf_assets_debt_bruto_gt_omzet_1_67x_eta_matrix_l5; rq_2264=done + rq_2265 open; loop_state ticks=2264; raw docs/doge/raw/tick2264/ + data/raw/tick2264/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2260**; next **2270**). Next: rq_2265 (AGB/FARO-if-YE2025 / AIESH-REW / Stallbois-APRE-Renaitre YE2025).
