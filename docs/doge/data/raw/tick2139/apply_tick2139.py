@@ -7,24 +7,27 @@ UTC = "2026-08-25T16:20:00Z"
 TICK = 2139
 RQ = "rq_2139"
 NEXT_RQ = "rq_2140"
-ENTITY = "srl_maison_de_repos_en_famille_vaux"
-GAP = "gap_en_famille_vaux_nbb_pdf_assets_debt_omzet_empty_pnl_flip_loss_matrix_l5"
-COMM = "comm_en_famille_vaux_jr2025_statutory_mrs_pnl_flip_loss"
-LB = "lb_en_famille_vaux_bruto_jump_1_03m_pnl_flip_loss_jr2025"
-SRC_EN = "src_en_famille_vaux_jr2025_cw_en"
-KBO = "0466.114.791"
-KBO_DIGITS = "0466114791"
-BRUTO = "1033029"
-BRUTO_PRIOR = "988068"
-BRUTO_YOY = "+4.55%"
-PNL = "-19390"
-PNL_PRIOR = "9411"
-PNL_YOY = "FLIP_LOSS"
-EQUITY = "197533"
-EQUITY_PRIOR = "216923"
-EQUITY_YOY = "-8.94%"
-FTE = "12.9"
-FTE_PRIOR = "13.4"
+ENTITY = "vzw_zorgcampus_denderrust_aalst"
+GAP = "gap_denderrust_nbb_pdf_assets_debt_pnl_drop_omzet_jump_merger_dienstengroep_matrix_l5"
+COMM = "comm_denderrust_jr2025_statutory_wzc_vzw"
+LB = "lb_denderrust_omzet_11_14m_pnl_drop_bruto_12_10m_jr2025"
+SRC_EN = "src_denderrust_jr2025_cw_en"
+KBO = "0419.333.572"
+KBO_DIGITS = "0419333572"
+OMZET = "11135834"
+OMZET_PRIOR = "10742203"
+OMZET_YOY = "+3.66%"
+BRUTO = "12099041"
+BRUTO_PRIOR = "11424596"
+BRUTO_YOY = "+5.90%"
+PNL = "47586"
+PNL_PRIOR = "152817"
+PNL_YOY = "-68.86%"
+EQUITY = "8526706"
+EQUITY_PRIOR = "8482380"
+EQUITY_YOY = "+0.52%"
+FTE = "139.9"
+FTE_PRIOR = ""
 ROOT = Path(__file__).resolve().parents[3]
 DATA = ROOT / "data"
 
@@ -49,61 +52,71 @@ def update_rq():
             r["status"] = "done"
             r["entity_id"] = ENTITY
             r["title"] = (
-                "leftover dual — Maison De Repos En Famille Vaux YE2025 Medium "
-                "(bruto JUMP 1.03m / pnl FLIP LOSS)"
+                "leftover dual — Zorgcampus Denderrust Aalst YE2025 Medium "
+                "(omzet JUMP 11.14m / pnl DROP / bruto JUMP 12.10m)"
             )
             r["blocked_gap_id"] = GAP
             r["updated_utc"] = UTC
             r["notes"] = (
-                f"tick{TICK} En Famille Medium bruto JUMP 1.03m pnl FLIP LOSS -19k "
-                f"equity DROP 0.20m FTE 12.9 omzet empty; KBO Actief BV aanbestedende overheid "
-                f"1 VE Salvacourt; FOI ready; AGB Bornem JR2024; FARO/AIESH/REW YE2024; "
-                f"next {NEXT_RQ} EVERY-10; next every-10 after that 2150"
+                f"tick{TICK} Denderrust Medium omzet JUMP 11.14m ({OMZET_YOY}) "
+                f"bruto JUMP 12.10m ({BRUTO_YOY}) pnl DROP 48k ({PNL_YOY}) equity JUMP 8.53m "
+                f"({EQUITY_YOY}) FTE {FTE}; KBO Actief VZW 1 VE aanbestedende overheid; "
+                f"absorbed Dienstengroep 0409.698.009 17.12.2025; FOI ready; "
+                f"AGB Bornem JR2024; FARO/AIESH/REW YE2024; next {NEXT_RQ}; "
+                f"EVERY-10 MUST at 2140"
             )
             r["instructions"] = (
-                f"Completed leftover Maison De Repos En Famille YE2025 Medium CW after Prestige; "
+                f"Completed leftover Zorgcampus Denderrust YE2025 Medium CW after Residence Prestige; "
                 f"preferred AGB Bornem JR2024 / FARO YE2024 / AIESH/REW YE2024; "
-                f"live YE2025 Medium CW NL+EN+FR + Strong KBO {KBO} Actief; "
-                f"bruto JUMP {BRUTO} pnl FLIP LOSS {PNL} equity DROP {EQUITY} FTE {FTE}; FOI {GAP}"
+                f"live YE2025 Medium CW NL+EN+FR + Strong KBO {KBO}; "
+                f"omzet JUMP {OMZET} bruto JUMP {BRUTO} pnl DROP {PNL} equity JUMP {EQUITY} "
+                f"FTE {FTE}; FOI {GAP}"
             )
             found = True
             break
     if not found:
-        raise SystemExit(f"{RQ} open not found")
+        raise SystemExit(f"{RQ} open not found — race?")
     if not any(r.get("task_id") == NEXT_RQ for r in rows):
         rows.append(
             {
                 "task_id": NEXT_RQ,
                 "title": (
-                    "EVERY-10 + leftover dual hole-fill after En Famille — prefer "
+                    "EVERY-10 progress + leftover dual hole-fill after Denderrust — prefer "
                     "AGB/FARO-YE2025/AIESH-REW/unused IGS-DSO-WZC-MRS"
                 ),
                 "sprint": "hole_fill",
-                "priority": "9",
+                "priority": "8",
                 "status": "open",
                 "hierarchy_target": "L5",
                 "entity_id": "",
                 "instructions": (
-                    f"Tick {TICK + 1} EVERY-10 after Maison De Repos En Famille Vaux YE2025 Medium. "
-                    "MUST refresh progress_every_10_ticks.md + doge_waste_top10_current.md. "
-                    "Prefer leftover AGB/APB if JR2025 PDF live, else FARO if TRUE NBB YE2025, else AIESH/REW if YE2025, "
-                    "else unused water/DSO/IGS/HVZ/energy/hospital/WZC/psych/MRS/creche/disability/thuiszorg. "
-                    "Do NOT redo Maison De Repos En Famille Vaux-sur-Sûre, Residence Prestige Chaudfontaine, "
-                    "Les Corolles Tournai, l'Esplanade Ath, Residence Les Peupliers Seneffe, MRS Comte d'Egmont Chièvres, "
-                    "C.I.G.B. Menen / PC Menen, Maagd Der Armen / Ten Rozen Aalst, L'Orchidée Ittre, Care-Support, "
-                    "MPC Sint-Franciscus, Zorghome De Fakkel, Restel Flats, Le Château Vert, SLG Wallonie, Famifamenne, "
-                    "Residence Le Castel, R.S.W., Home Sebrechts, Unite Jolimont, t Buurthuis, Le Bosquet, Strebo, "
-                    "Entraide, La Charmille, Always Home, AREWAL, AGB Bornem, Armonea holding, emeis holding, "
-                    "La Moisson (absorbed), IPFBW, Aquiris, SPGE, IRE*, FANC, SCK CEN, EURIDICE, Hydria, Vivaqua, "
-                    "Belgoprocess, Laborelec, CILE, NIRAS, Bel V, Dijk92, Synergrid, AIEG, Synatom, Atrias, RESA, "
-                    "Enodia, Fluxys*, ETB, Elia, BNO, SWDE, BRUGEL, Seniors Care-Ion (YE2024-only)."
+                    f"Tick {TICK + 1} EVERY-10 MANDATORY: refresh progress_every_10_ticks.md "
+                    "(layers A-E of EUR 347.956 bn TE) + doge_waste_top10_current.md "
+                    "(top 10 by priority_index). Then leftover dual after Zorgcampus Denderrust "
+                    "Aalst YE2025 Medium (omzet JUMP / pnl DROP). Prefer leftover AGB/APB if JR2025 "
+                    "PDF live, else FARO if TRUE NBB YE2025, else AIESH/REW if YE2025, else unused "
+                    "water/DSO/IGS/HVZ/energy/hospital/WZC/psych/MRS/creche/disability/thuiszorg. "
+                    "Do NOT redo Zorgcampus Denderrust Aalst, Residence Prestige Chaudfontaine, "
+                    "Les Corolles Tournai, l'Esplanade Ath, Residence Les Peupliers Seneffe, "
+                    "MRS Comte d'Egmont / Residence Comte d'Egmont Chièvres, C.I.G.B. Menen / "
+                    "PC Menen / Huize Ter Walle, Maagd Der Armen / Ten Rozen Aalst, L'Orchidée Ittre, "
+                    "Care-Support, MPC Sint-Franciscus, Zorghome De Fakkel, Restel Flats, "
+                    "Le Château Vert, SLG Wallonie, Famifamenne, Residence Le Castel, R.S.W., "
+                    "Home Sebrechts, Unite Jolimont, t Buurthuis, Le Bosquet, Strebo, Entraide, "
+                    "La Charmille, Charmilles, Sittelles, Les Buissons, Residence 3, "
+                    "Elisabeth Aan Zee, XXe Aout, Ninove, Zilverlinde, Sint-Camillus, IDELUX*, "
+                    "INTRADEL, Korian*, SLG Operaties VL, SLG Vlaanderen VZW, Always Home, AREWAL, "
+                    "AGB Bornem, Armonea holding, emeis holding, Maria's Rustoord Moorslede, "
+                    "Heilig Hart Grimbergen, Veilige Have, Molenheide, Huize Sint-Jozef Ieper, "
+                    "PC Gent-Sleidinge, PC Sint-Hiëronymus, Prinsenhof, Akapella, Familiehof, "
+                    "La Moisson (absorbed), Denderrust Dienstengroep (absorbed)."
                 ),
                 "blocked_gap_id": "",
                 "created_utc": UTC,
                 "updated_utc": UTC,
                 "notes": (
-                    f"spawned after tick{TICK} En Famille; EVERY-10@2140 required; "
-                    "FARO/AIESH/REW still YE2024; next every-10 after 2150"
+                    f"spawned after tick{TICK} Denderrust; EVERY-10 MUST; "
+                    "FARO/AIESH/REW still YE2024"
                 ),
             }
         )
@@ -115,44 +128,45 @@ def update_rq():
 
 for s in [
     {
-        "source_id": "src_en_famille_vaux_jr2025_cw",
-        "title": "Companyweb NL Maison De Repos En Famille YE2025 statutory",
-        "url": f"https://www.companyweb.be/nl/{KBO_DIGITS}/maison-de-repos-en-famille",
+        "source_id": "src_denderrust_jr2025_cw",
+        "title": "Companyweb NL Zorgcampus Denderrust YE2025 statutory",
+        "url": f"https://www.companyweb.be/nl/{KBO_DIGITS}/zorgcampus-denderrust",
         "publisher": "Companyweb (NBB-derived)",
         "accessed_date": "2026-08-25",
         "source_class": "secondary_aggregator",
         "notes": (
-            f"tick{TICK}; YE2025 omzet unpublished bruto JUMP {BRUTO} ({BRUTO_YOY}) "
-            f"pnl FLIP LOSS {PNL} (vs YE2024 {PNL_PRIOR}) equity DROP {EQUITY} ({EQUITY_YOY}) FTE {FTE}; "
-            f"neerlegging 16.04.2026; assets/debt Unknown; raw docs/doge/data/raw/tick2139/enfamille_nl.html"
+            f"tick{TICK}; YE2025 omzet JUMP {OMZET} ({OMZET_YOY}) bruto JUMP {BRUTO} ({BRUTO_YOY}) "
+            f"pnl DROP {PNL} ({PNL_YOY} vs YE2024 {PNL_PRIOR}) equity JUMP {EQUITY} ({EQUITY_YOY}) "
+            f"FTE {FTE}; neerlegging 03.06.2026; assets/debt Unknown; "
+            "raw docs/doge/data/raw/tick2139/denderrust_cw_nl.html"
         ),
     },
     {
         "source_id": SRC_EN,
-        "title": "Companyweb EN Maison De Repos En Famille YE2025 statutory",
-        "url": f"https://www.companyweb.be/en/{KBO_DIGITS}/maison-de-repos-en-famille",
+        "title": "Companyweb EN Zorgcampus Denderrust YE2025 statutory",
+        "url": f"https://www.companyweb.be/en/{KBO_DIGITS}/zorgcampus-denderrust",
         "publisher": "Companyweb (NBB-derived)",
         "accessed_date": "2026-08-25",
         "source_class": "secondary_aggregator",
         "notes": (
-            f"tick{TICK}; EN mirror YE2025 Medium; filed 16-04-2026; Last balance sheet year 2025; "
-            f"Turnover unpublished; Gross margin {BRUTO}; Profit/Loss FLIP LOSS {PNL}; Equity {EQUITY}; "
-            f"FTE {FTE}; Principal activity MRPA nursing homes; "
-            f"raw docs/doge/data/raw/tick2139/enfamille_en.html"
+            f"tick{TICK}; EN mirror YE2025 Medium; filed 03-06-2026; Last balance sheet year 2025; "
+            f"Turnover {OMZET}; Gross margin {BRUTO}; Profit/Loss DROP {PNL}; Equity {EQUITY}; "
+            f"FTE {FTE}; Principal activity nursing homes / WZC; "
+            "raw docs/doge/data/raw/tick2139/denderrust_cw_en.html"
         ),
     },
     {
-        "source_id": "src_en_famille_vaux_jr2025_cw_fr",
-        "title": "Companyweb FR Maison De Repos En Famille YE2025 statutory",
-        "url": f"https://www.companyweb.be/fr/{KBO_DIGITS}/maison-de-repos-en-famille",
+        "source_id": "src_denderrust_jr2025_cw_fr",
+        "title": "Companyweb FR Zorgcampus Denderrust YE2025 statutory",
+        "url": f"https://www.companyweb.be/fr/{KBO_DIGITS}/zorgcampus-denderrust",
         "publisher": "Companyweb (NBB-derived)",
         "accessed_date": "2026-08-25",
         "source_class": "secondary_aggregator",
-        "notes": f"tick{TICK}; FR mirror YE2025 Medium; raw docs/doge/data/raw/tick2139/enfamille_fr.html",
+        "notes": f"tick{TICK}; FR mirror YE2025 Medium; raw docs/doge/data/raw/tick2139/denderrust_cw_fr.html",
     },
     {
-        "source_id": f"src_en_famille_vaux_kbo_{TICK}",
-        "title": f"KBO Maison De Repos En Famille {KBO} Actief Vaux-sur-Sûre",
+        "source_id": f"src_denderrust_kbo_{TICK}",
+        "title": f"KBO Zorgcampus Denderrust {KBO} Actief VZW Aalst aanbestedende overheid",
         "url": (
             "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html"
             f"?lang=nl&ondernemingsnummer={KBO_DIGITS}"
@@ -161,21 +175,21 @@ for s in [
         "accessed_date": "2026-08-25",
         "source_class": "official_register",
         "notes": (
-            f"tick{TICK}; Status Actief; Normale toestand; BV/SRL MAISON DE REPOS EN FAMILLE; "
-            "Salvacourt 11 6640 Vaux-sur-Sûre; 1 VE; NACE RSZ 87.301 ROB; "
-            "aanbestedende overheid sinds 25.05.1999; start 27.05.1999; bestuurder Chavez Anne-Frédérique"
+            f"tick{TICK}; Status Actief; VZW sinds 20.02.1979; Alfons De Cockstraat 12A 9310 Aalst; "
+            "1 VE; NACE 87.101 RVT / 87.301 ROB / 88.102; aanbestedende overheid sinds 18.01.2003; "
+            "RSZ-werkgever; absorbed Denderrust Dienstengroep 0409.698.009 since 17.12.2025"
         ),
     },
     {
-        "source_id": f"src_en_famille_vaux_site_{TICK}",
-        "title": "Maison De Repos En Famille site FOI info@residenceenfamille.be",
-        "url": "https://maisondereposenfamille.be/",
-        "publisher": "Maison De Repos En Famille SRL",
+        "source_id": f"src_denderrust_site_{TICK}",
+        "title": "Zorgcampus Denderrust site + contact FOI administratie@",
+        "url": "https://www.denderrust.be/contact/",
+        "publisher": "Zorgcampus Denderrust",
         "accessed_date": "2026-08-25",
         "source_class": "official_org",
         "notes": (
-            f"tick{TICK}; Salvacourt 11 6640 Vaux-sur-Sûre; FOI info@residenceenfamille.be; "
-            "tel 061 26 66 49; commercial name EN FAMILLE"
+            f"tick{TICK}; WZC Aalst campus; FOI administratie@denderrust.be "
+            "(Cloudflare-decoded from contact page); tel 053 60 60 40"
         ),
     },
 ]:
@@ -185,30 +199,30 @@ append_csv(
     DATA / "entities.csv",
     {
         "entity_id": ENTITY,
-        "name_nl": "Maison De Repos En Famille (Vaux-sur-Sûre / Salvacourt)",
-        "name_fr": "Maison De Repos En Famille (Vaux-sur-Sûre / Salvacourt)",
-        "name_en": "Maison De Repos En Famille (Vaux-sur-Sûre nursing home)",
+        "name_nl": "Zorgcampus Denderrust (WZC/RVT — VZW Aalst; aanbestedende overheid)",
+        "name_fr": "Zorgcampus Denderrust (MRS/MRPA — ASBL Alost; pouvoir adjudicateur)",
+        "name_en": "Zorgcampus Denderrust (nursing home campus — VZW Aalst; contracting authority)",
         "level": "other",
-        "parent_id": "sec_wallonia",
-        "community_language": "fr",
-        "website": "https://maisondereposenfamille.be/",
-        "foi_email": "info@residenceenfamille.be",
-        "foi_postal": "Salvacourt 11, 6640 Vaux-sur-Sûre",
+        "parent_id": "sec_flanders",
+        "community_language": "nl",
+        "website": "https://www.denderrust.be/",
+        "foi_email": "administratie@denderrust.be",
+        "foi_postal": "Alfons De Cockstraat 12A, 9310 Aalst",
         "notes": (
-            f"tick{TICK} YE2025 Medium CW NL+EN+FR + Strong KBO {KBO} Actief BV aanbestedende overheid; "
-            f"omzet unpublished bruto JUMP 1.03m ({BRUTO_YOY}) pnl FLIP LOSS -19k "
-            f"equity DROP 0.20m ({EQUITY_YOY}) FTE {FTE}; assets/debt Unknown; filed 16.04.2026; "
-            f"1 VE NACE 87.301; FOI {GAP}; preferred AGB Bornem JR2024; FARO/AIESH/REW YE2024; "
-            "DISTINCT Prestige / Corolles / Esplanade / Les Peupliers / Comte d'Egmont"
+            f"tick{TICK} leftover VL WZC after Residence Prestige; Medium CW YE2025; "
+            f"KBO {KBO}; omzet JUMP 11.14m pnl DROP 48k bruto JUMP 12.10m equity 8.53m FTE {FTE}; "
+            "aanbestedende overheid; absorbed Dienstengroep 0409.698.009 17.12.2025; "
+            "FOI ready; DISTINCT Prestige/Corolles/Esplanade/Peupliers/Comte d'Egmont/CIGB/Ten Rozen"
         ),
     },
 )
 
 for bid, amt, basis in [
-    ("bud_en_famille_vaux_bruto_jr2025_statutory", BRUTO, "CW YE2025 Brutomarge / Gross margin (omzet unpublished)"),
-    ("bud_en_famille_vaux_pnl_jr2025_statutory", PNL, "CW YE2025 Profit/Loss FLIP LOSS"),
-    ("bud_en_famille_vaux_equity_jr2025_statutory", EQUITY, "CW YE2025 Eigen vermogen / Equity DROP"),
-    ("bud_en_famille_vaux_fte_jr2025_statutory", FTE, "CW social-balance FTE / Employees"),
+    ("bud_denderrust_omzet_jr2025_statutory", OMZET, "CW YE2025 Omzet / Turnover"),
+    ("bud_denderrust_bruto_jr2025_statutory", BRUTO, "CW YE2025 Brutomarge / Gross margin"),
+    ("bud_denderrust_pnl_jr2025_statutory", PNL, "CW YE2025 Profit/Loss DROP"),
+    ("bud_denderrust_equity_jr2025_statutory", EQUITY, "CW YE2025 Eigen vermogen / Equity"),
+    ("bud_denderrust_fte_jr2025_statutory", FTE, "CW social-balance FTE / Employees"),
 ]:
     append_csv(
         DATA / "budgets.csv",
@@ -222,7 +236,10 @@ for bid, amt, basis in [
             "basis": basis,
             "source_id": SRC_EN,
             "confidence": "medium",
-            "notes": "tick2139; Medium CW; assets/debt Unknown pending NBB PDF; omzet unpublished",
+            "notes": (
+                "tick2139; Medium CW; assets/debt Unknown pending NBB PDF; "
+                "aanbestedende overheid VZW"
+            ),
         },
     )
 
@@ -230,79 +247,77 @@ append_csv(
     DATA / "commitments.csv",
     {
         "commitment_id": COMM,
-        "title": (
-            "Maison De Repos En Famille YE2025 leftover dual (bruto JUMP 1.03m / pnl FLIP LOSS)"
-        ),
+        "title": "Zorgcampus Denderrust YE2025 leftover dual (omzet 11.14m / pnl DROP / bruto 12.10m)",
         "entity_id": ENTITY,
-        "beneficiary": "MRS residents Vaux-sur-Sûre / Luxembourg province (Wallonie)",
-        "legal_basis": f"SRL maison de repos ROB/MRPA (KBO {KBO}; Actief; aanbestedende overheid; 1 VE)",
-        "decision_date": "2026-04-16",
+        "beneficiary": "WZC residents Aalst (Dendervallei / Vlaanderen)",
+        "legal_basis": f"VZW WZC/RVT ROB (KBO {KBO}); aanbestedende overheid; Bestuursdecreet",
+        "decision_date": "2026-06-03",
         "start_year": "2025",
         "end_year": "2025",
-        "total_envelope_eur": BRUTO,
+        "total_envelope_eur": OMZET,
         "cash_by_year": (
-            f'{{"2025_bruto":{BRUTO},"2025_omzet":"unpublished","2025_pnl":{PNL},'
-            f'"2025_equity":{EQUITY},"2025_fte":{FTE},"2024_bruto":{BRUTO_PRIOR},'
-            f'"2024_pnl":{PNL_PRIOR},"2024_equity":{EQUITY_PRIOR},"2024_fte":{FTE_PRIOR},"ve":1}}'
+            f'{{"2025_omzet":{OMZET},"2025_bruto":{BRUTO},"2025_pnl":{PNL},"2025_equity":{EQUITY},'
+            f'"2025_fte":{FTE},"2024_omzet":{OMZET_PRIOR},"2024_bruto":{BRUTO_PRIOR},'
+            f'"2024_pnl":{PNL_PRIOR},"2024_equity":{EQUITY_PRIOR}}}'
         ),
         "remaining_eur": "0",
-        "status": "active",
-        "evaluation_url": f"https://www.companyweb.be/en/{KBO_DIGITS}/maison-de-repos-en-famille",
-        "stated_goal": "Nursing home / maison de repos for elderly (MRPA/ROB) — familial model",
+        "status": "ended",
+        "evaluation_url": f"https://www.companyweb.be/en/{KBO_DIGITS}/zorgcampus-denderrust",
+        "stated_goal": "Residential care / WZC-RVT for elderly (Aalst campus)",
         "cut_option": (
-            "Publish NBB PDF assets/debt; disclose omzet/code70 + AViQ/INAMI vs resident-fee split; "
-            "explain pnl FLIP LOSS path; clarify aanbestedende overheid status"
+            "Publish NBB PDF assets/debt; explain pnl DROP vs omzet JUMP; disclose RIZIV/VL subsidy "
+            "vs resident-fee split; map Dienstengroep absorption impact"
         ),
         "source_id": SRC_EN,
         "confidence": "medium",
-        "hierarchy_path": "Wallonie>Luxembourg>VauxSurSure>EnFamille>JR2025_statutory_L5",
+        "hierarchy_path": "Vlaanderen>OostVlaanderen>Aalst>Denderrust>JR2025_statutory_L5",
         "notes": (
-            f"tick{TICK}; Medium CW; bruto primary envelope (omzet unpublished); assets/debt Unknown; "
+            f"tick{TICK}; Medium CW; omzet primary envelope; assets/debt Unknown; "
             "AGB Bornem JR2024; FARO/AIESH/REW YE2024; not TE-additive of 348bn; "
-            "DISTINCT Prestige / Corolles / Esplanade / Les Peupliers / Comte d'Egmont"
+            "DISTINCT Prestige/Corolles/Esplanade/Peupliers/Comte d'Egmont/CIGB/Ten Rozen"
         ),
     },
 )
 
-# pi ≈ 0.55*5.8 + 0.35*3.8 + 0.10*(11-3.0) = 3.19+1.33+0.80 = 5.32 → 5.3
+# pi ≈ 0.55*5.9 + 0.35*6.2 + 0.10*(11-3.0) = 3.245+2.17+0.80 = 6.215 → 6.2
 append_csv(
     DATA / "leaderboard.csv",
     {
         "item_id": LB,
         "name": (
-            "Maison De Repos En Famille bruto JUMP 1.03m / pnl FLIP LOSS -19k / omzet empty (YE2025)"
+            "Zorgcampus Denderrust omzet JUMP 11.14m / pnl DROP 48k / bruto JUMP 12.10m (YE2025)"
         ),
         "level": "L5",
-        "type": "mrs_srl",
-        "hierarchy_path": "Wallonie>Luxembourg>VauxSurSure>EnFamille>JR2025",
-        "annual_cost_eur": BRUTO,
-        "total_cost_eur": BRUTO,
+        "type": "wzc_vzw",
+        "hierarchy_path": "Vlaanderen>OostVlaanderen>Aalst>Denderrust>JR2025",
+        "annual_cost_eur": OMZET,
+        "total_cost_eur": OMZET,
         "tco_notes": (
-            f"CW YE2025 bruto {BRUTO} JUMP {BRUTO_YOY} (primary; omzet unpublished); "
-            f"pnl {PNL} FLIP LOSS from YE2024 PROFIT {PNL_PRIOR}; equity {EQUITY} DROP {EQUITY_YOY}; "
-            f"FTE {FTE}; assets/debt Unknown pending NBB PDF; KBO Actief BV aanbestedende overheid 1 VE"
+            f"CW YE2025 omzet {OMZET} JUMP {OMZET_YOY}; bruto {BRUTO} JUMP {BRUTO_YOY}; "
+            f"pnl {PNL} DROP {PNL_YOY} vs prior {PNL_PRIOR}; equity {EQUITY} JUMP {EQUITY_YOY}; "
+            f"FTE {FTE}; assets/debt Unknown pending NBB PDF; aanbestedende overheid; "
+            "Dienstengroep absorbed 17.12.2025"
         ),
         "confidence": "medium",
         "source_id": SRC_EN,
-        "beneficiaries": "MRS residents Vaux-sur-Sûre / Salvacourt",
-        "stated_goal": "Nursing home / maison de repos for elderly (MRPA)",
+        "beneficiaries": "WZC residents Aalst campus",
+        "stated_goal": "Residential care / WZC-RVT for elderly",
         "measured_outcome": (
-            f"bruto JUMP {BRUTO_YOY}; pnl FLIP LOSS; equity DROP {EQUITY_YOY}; "
-            f"FTE {FTE_PRIOR}→{FTE}; omzet unpublished"
+            f"omzet JUMP {OMZET_YOY}; bruto JUMP {BRUTO_YOY}; pnl DROP {PNL_YOY}; "
+            f"equity JUMP {EQUITY_YOY}; FTE {FTE}"
         ),
-        "absurdity_score": "5.8",
-        "cost_score": "3.8",
+        "absurdity_score": "5.9",
+        "cost_score": "6.2",
         "difficulty": "3.0",
-        "priority_index": "5.3",
+        "priority_index": "6.2",
         "cut_proposal": (
-            "FOI NBB PDF + omzet disclosure + AViQ/INAMI split; explain pnl FLIP LOSS; "
-            "clarify aanbestedende overheid vs private SRL"
+            "FOI NBB PDF + pnl-DROP vs omzet-JUMP path + RIZIV/VL split + Dienstengroep merger map"
         ),
         "status": "open",
         "struck_reason": "",
         "notes": (
             f"tick{TICK}; Medium CW; FOI {GAP}; FARO/AIESH/REW YE2024; "
-            "DISTINCT Prestige / Corolles / Esplanade / Les Peupliers / Comte d'Egmont"
+            "DISTINCT Prestige/Corolles/Esplanade/Peupliers/Comte d'Egmont/CIGB/Ten Rozen"
         ),
     },
 )
@@ -312,22 +327,22 @@ append_csv(
     {
         "gap_id": GAP,
         "hierarchy_path": (
-            "Wallonie>Luxembourg>VauxSurSure>EnFamille>NBB_PDF_assets_debt_omzet_empty_pnl_flip_loss"
+            "Vlaanderen>OostVlaanderen>Aalst>Denderrust>NBB_PDF_assets_debt_pnl_drop_omzet_jump_merger"
         ),
         "entity_id": ENTITY,
         "what_is_missing": (
-            "NBB PDF jaarrekening 2025 full (assets/debt LT-ST/cash); omzet/code70 unpublished; "
-            "AViQ/INAMI care vs resident fee split; pnl FLIP LOSS -19k path; aanbestedende overheid "
-            "status vs private SRL; bedden/FTE matrix"
+            "NBB PDF jaarrekening 2025 full (assets/debt LT-ST/cash); pnl DROP path vs omzet JUMP "
+            "11.14m; RIZIV/VL care vs resident fee split vs bruto 12.10m; Denderrust Dienstengroep "
+            "0409.698.009 absorption (17.12.2025) assets/debt/FTE impact"
         ),
         "why_it_matters": (
-            "Medium CW shows small Luxembourg MRS SRL (aanbestedende overheid) with bruto 1.03m JUMP "
-            "flipping to LOSS while omzet/assets/debt opaque — public-procurement / care-margin gap"
+            "Medium CW shows aanbestedende-overheid WZC with omzet JUMP to 11.14m while pnl DROP "
+            "−69% and assets/debt unknown — public-care opacity plus mid-year Dienstengroep merger"
         ),
         "priority": "8",
-        "recipient_body": "Maison De Repos En Famille SRL",
-        "recipient_email": "info@residenceenfamille.be",
-        "recipient_postal": "Salvacourt 11, 6640 Vaux-sur-Sûre",
+        "recipient_body": "Zorgcampus Denderrust VZW",
+        "recipient_email": "administratie@denderrust.be",
+        "recipient_postal": "Alfons De Cockstraat 12A, 9310 Aalst",
         "draft_letter_path": f"docs/doge/foi/drafts/{GAP}.md",
         "status": "ready",
         "date_ready": "2026-08-25",
@@ -339,7 +354,7 @@ append_csv(
         "linked_leaderboard_id": LB,
         "created_utc": UTC,
         "updated_utc": UTC,
-        "notes": f"tick{TICK}; human-send only; Medium CW; next EVERY-10 2140",
+        "notes": f"tick{TICK}; human-send only; Medium CW; EVERY-10 next at 2140",
     },
 )
 
@@ -358,10 +373,10 @@ with open(DATA / "loop_state.csv", "w", newline="", encoding="utf-8") as f:
             "ticks_completed": str(TICK),
             "paused": "no",
             "notes": (
-                f"tick{TICK} leftover Maison De Repos En Famille {KBO} Medium CW (bruto JUMP 1.03m "
-                f"pnl FLIP LOSS -19k equity DROP 0.20m FTE 12.9 omzet unpublished; Actief BV "
-                f"aanbestedende overheid 1 VE Salvacourt; assets/debt Unknown); AGB Bornem JR2024; "
-                f"FARO/AIESH/REW YE2024; next {NEXT_RQ} EVERY-10; next every-10 after 2150; continuous hole_fill"
+                f"tick{TICK} leftover Denderrust {KBO} Medium CW (omzet JUMP 11.14m bruto JUMP 12.10m "
+                f"pnl DROP 48k equity JUMP 8.53m FTE {FTE}; Actief VZW 1 VE aanbestedende overheid; "
+                f"Dienstengroep absorbed; assets/debt Unknown); AGB Bornem JR2024; FARO/AIESH/REW YE2024; "
+                f"next {NEXT_RQ}; EVERY-10 MUST 2140; continuous hole_fill"
             ),
         }
     )
@@ -371,14 +386,14 @@ update_rq()
 with open(ROOT / "loop_log.md", "a", encoding="utf-8") as f:
     f.write(
         f"""
-## Tick {TICK} - {UTC} - {RQ} Maison De Repos En Famille Vaux (bruto JUMP 1.03m / pnl FLIP LOSS -19k / Medium)
+## Tick {TICK} - {UTC} - {RQ} Zorgcampus Denderrust Aalst (omzet JUMP 11.14m / pnl DROP / bruto JUMP 12.10m / Medium)
 
-- Unit: **{RQ}** leftover dual after **rq_2138 Residence Prestige** (race: concurrent took Prestige as 2138). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; La Moisson absorbed blocked. Took unused leftover **Maison De Repos En Famille SRL** YE2025 (KBO **{KBO}**; Salvacourt 11 Vaux-sur-Sûre; **BV/SRL** NACE **87.301** / **1 VE**; **aanbestedende overheid**). Do not redo Prestige/Corolles/Esplanade/Les Peupliers/Comte d'Egmont/CIGB/Ten Rozen/L'Orchidée/La Moisson.
-- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR{BRUTO}** JUMP {BRUTO_YOY} vs YE2024 EUR{BRUTO_PRIOR}; pnl **EUR{PNL}** FLIP LOSS from YE2024 PROFIT EUR{PNL_PRIOR}; equity **EUR{EQUITY}** DROP {EQUITY_YOY}; FTE **{FTE}** vs {FTE_PRIOR}; neerlegging **16.04.2026**. KBO Strong Actief + aanbestedende overheid. Assets/debt Unknown. Medium. FOI via info@residenceenfamille.be.
-- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.3); entities (+1 {ENTITY}); foi + draft {GAP}; {RQ}=done + {NEXT_RQ} open EVERY-10; loop_state ticks={TICK}; raw docs/doge/data/raw/tick2139/.
+- Unit: **{RQ}** leftover dual after **rq_2138 Residence Prestige**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024** (CW last balance 2024 / filed 24-11-2025); AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Zorgcampus Denderrust VZW** YE2025 (KBO **{KBO}**; Alfons De Cockstraat 12A Aalst; **VZW** NACE **87.101/87.301/88.102** / **1 VE**; **aanbestedende overheid**; absorbed **Denderrust Dienstengroep 0409.698.009** 17.12.2025). Do not redo Residence Prestige/Les Corolles/l'Esplanade/Les Peupliers/Comte d'Egmont/CIGB Menen/Ten Rozen/L'Orchidée/Care-Support/Restel Flats/De Fakkel/Prinsenhof.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR{OMZET}** JUMP {OMZET_YOY} vs YE2024 EUR{OMZET_PRIOR}; bruto **EUR{BRUTO}** JUMP {BRUTO_YOY} vs YE2024 EUR{BRUTO_PRIOR}; pnl **EUR{PNL}** DROP {PNL_YOY} vs YE2024 EUR{PNL_PRIOR}; equity **EUR{EQUITY}** JUMP {EQUITY_YOY}; FTE **{FTE}**; neerlegging **03.06.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via administratie@denderrust.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.2); entities (+1 {ENTITY}); foi + draft {GAP}; {RQ}=done + {NEXT_RQ} open (EVERY-10); loop_state ticks={TICK}; raw docs/doge/data/raw/tick2139/.
 - FOI: **ready not sent** (human-gated).
-- NOT every-10 this tick (**next rq_2140=2140 EVERY-10** must refresh progress+top10). Next: {NEXT_RQ} (progress+top10 + AGB/FARO-if-YE2025 / AIESH-REW / unused).
+- NOT every-10 (**last every-10 was 2130**; next **2140 MUST** refresh progress + waste top10). Next: {NEXT_RQ} EVERY-10 then (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
 """
     )
 
-print("OK tick", TICK, ENTITY, "bruto", BRUTO, "pnl", PNL, "equity", EQUITY)
+print("OK tick", TICK, ENTITY, "omzet", OMZET, "bruto", BRUTO, "pnl", PNL, "equity", EQUITY)
