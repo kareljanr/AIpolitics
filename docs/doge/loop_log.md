@@ -26660,3 +26660,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.8); entities (+1 vzw_mivalti_tielt); foi + draft gap_mivalti_nbb_pdf_assets_debt_bruto_gt_omzet_6_82x_pnl_jump_vaph_matrix_l5; rq_2330=done + rq_2331 open; loop_state ticks=2330; raw docs/doge/data/raw/tick2330/; EVERY-10 progress+waste.
 - FOI: **ready not sent** (human-gated).
 - **EVERY-10 @ 2330** (last was 2320; next **2340**). Next: rq_2331.
+
+### 2026-08-28T01:25:00Z - tick 2332 - EVERY-10 + rq_2332 Alma Leuven (omzet JUMP 11.24m / pnl DROP -13% / Medium)
+
+- **EVERY-10:** refreshed progress_every_10_ticks.md + doge_waste_top10_current.md. Inventory budgets 54058+ / commitments 6067+ / leaderboard 8187+ / entities 2087+ / sources 6871+ / FOI ready ~2015.
+- Unit: **rq_2332** leftover dual after **Mivalti@2331**. Stalls AGB/FARO YE2024. Took FREE **Alma VZW** YE2025 (KBO **0403.547.912**; Stuvo path).
+- Found: CW YE2025 omzet **EUR11241472** (+3.76%); bruto **EUR6387062**; pnl **EUR976254** DROP -13.41%; equity **EUR4498163**; FTE **96.2**; filed **09.06.2026**. Medium.
+- Wrote: sources/budgets/commitments/leaderboard/entities/foi; rq_2332=done + rq_2333 open; ticks=2332; EVERY-10 progress+waste.
+- FOI ready not sent. NOT every-10 (last 2330; next **2340**). Next: rq_2333.

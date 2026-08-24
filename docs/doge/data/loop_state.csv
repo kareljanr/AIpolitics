@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-28T01:15:00Z,rq_2330,2330,no,tick2330 EVERY-10 + Den Brand 0422.073.526 Medium (omzet JUMP 1270740; bruto JUMP 7222348 ~5.68x; pnl DROP 226679; equity JUMP 5729856; FTE JUMP 89.4; 18 VE Mol VAPH); race also logged Mivalti@2330; AGB/FARO YE2024; next rq_2332; next EVERY-10 2340
+main,continuous,hole_fill,2026-08-28T01:25:00Z,rq_2332,2332,no,tick2332 leftover dual Alma 0403.547.912 Medium (omzet JUMP 11241472; bruto JUMP 6387062; pnl DROP 976254 -13.41%; equity JUMP 4498163; FTE JUMP 96.2; Leuven Stuvo path); after Mivalti@2331; AGB/FARO YE2024; next rq_2333; next EVERY-10 2340

@@ -54052,3 +54052,8 @@ bud_mivalti_bruto_jr2025_statutory,vzw_mivalti_tielt,2025,11487628,11487628,1148
 bud_mivalti_pnl_jr2025_statutory,vzw_mivalti_tielt,2025,470626,470626,470626,CW statutory winst/verlies YE2025 JUMP,src_mivalti_jr2025_cw_en,medium,tick2331; Medium CW; pnl +26.88% vs 370928
 bud_mivalti_equity_jr2025_statutory,vzw_mivalti_tielt,2025,8134829,8134829,8134829,CW statutory eigen_vermogen YE2025 JUMP,src_mivalti_jr2025_cw_en,medium,tick2331; Medium CW; equity +6.19% vs 7660758
 bud_mivalti_fte_jr2025_statutory,vzw_mivalti_tielt,2025,134.9,134.9,134.9,CW social-balance FTE 134.9,src_mivalti_jr2025_cw_en,medium,tick2331; Medium CW; FTE JUMP vs 133.1
+bud_alma_omzet_jr2025_statutory,vzw_alma_leuven,2025,11241472,11241472,11241472,CW omzet YE2025 primary,src_alma_jr2025_cw_en,medium,tick2332; +3.76%
+bud_alma_bruto_jr2025_statutory,vzw_alma_leuven,2025,6387062,6387062,6387062,CW bruto YE2025,src_alma_jr2025_cw_en,medium,tick2332; +9.47%
+bud_alma_pnl_jr2025_statutory,vzw_alma_leuven,2025,976254,976254,976254,CW pnl YE2025 DROP,src_alma_jr2025_cw_en,medium,tick2332; -13.41%
+bud_alma_equity_jr2025_statutory,vzw_alma_leuven,2025,4498163,4498163,4498163,CW equity YE2025,src_alma_jr2025_cw_en,medium,tick2332; +27.72%
+bud_alma_fte_jr2025_statutory,vzw_alma_leuven,2025,96.2,96.2,96.2,CW FTE YE2025,src_alma_jr2025_cw_en,medium,tick2332; vs 83.0

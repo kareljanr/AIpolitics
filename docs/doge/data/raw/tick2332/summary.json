@@ -1,0 +1,15 @@
+{
+  "tick": "2332",
+  "unit": "rq_2332",
+  "entity": "vzw_de_vier_notelaars_schoten",
+  "kbo": "0424.064.895",
+  "omzet": 500791,
+  "bruto": 2864452,
+  "pnl": -40024,
+  "equity": 4060369,
+  "fte": 32.9,
+  "ratio": 5.72,
+  "confidence": "medium",
+  "gap": "gap_vier_notelaars_nbb_pdf_assets_debt_bruto_gt_omzet_5_72x_pnl_loss_flip_vaph_matrix_l5",
+  "pi": 5.5
+}
