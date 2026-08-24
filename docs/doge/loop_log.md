@@ -24480,3 +24480,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2150**; next **2160**). Next: rq_2155 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
 
+## Tick 2158 - 2026-08-25T22:40:00Z - rq_2158 Seniorie de l'Epinette Comines (omzet 171k / pnl LOSS flip -1.33m / equity DROP -50% / Medium)
+
+- Unit: **rq_2158** leftover dual after **rq_2157 MRS Parc de Forest**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Skipped deferred opaque ZS. Took unused leftover **Seniorie de l'Epinette NV** YE2025 (KBO **0447.771.695**; Steenweg op Rijsel 36 Comines-Warneton; **NV** NACE **87.301** / **1 VE**; commercial **LA SERENITE**; emeis-path). Do not redo Parc de Forest/Le Hanois/Eycken Brug/Sint-Felix/Annuntiaten/Brabant wallon/Vesdre/Hainaut-Est/Val de Sambre/HEMECO/WAPI/Hesbaye/ZHC/Dinaphi/Care-Ion/Groep SF/De Foyer/Psychogeriatrisch/OLV Bornem/Veilige Have/Molenheide.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR171456** JUMP +1.95%; bruto **EUR180236** DROP -6.67%; pnl **EUR-1329357** LOSS FLIP from YE2024 PROFIT EUR217479; equity **EUR1320279** DROP -50.17%; FTE **50**; neerlegging **02.04.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via accueil.belgique@emeis.com (site tel 056/58 76 76). Branch-cession Sérénité context noted (no invented euros).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.55); entities (+1 nv_seniorie_epinette_comines); foi + draft gap_epinette_nbb_pdf_assets_debt_pnl_loss_flip_equity_drop_branch_cession_matrix_l5; rq_2158=done + rq_2159 open; loop_state ticks=2158; raw docs/doge/data/raw/tick2158/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2150**; next **2160**). Next: rq_2159 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros).
+
