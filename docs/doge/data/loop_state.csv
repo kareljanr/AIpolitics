@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-24T13:25:09Z,rq_2322,2322,no,tick2322 leftover dual Merlijn 0420.408.688 Medium (omzet DROP 153474; bruto JUMP 3680197 ~23.98x; pnl DROP 134838; equity JUMP 1529721; FTE JUMP 51.4); after Humival@2321; AGB/FARO YE2024; next rq_2323; next EVERY-10 2330; continuous hole_fill
+main,continuous,hole_fill,2026-08-27T23:55:00Z,rq_2323,2323,no,tick2323 leftover dual Dominiek Savio 0409.334.258 Medium (omzet JUMP 4970170; bruto JUMP 35185658 ~7.08x; pnl PROFIT FLIP 1045976; equity JUMP 30307987; FTE DROP 447.2; Hooglede VAPH); after L'entre D'eux@2322; AGB Bornem JR2024; FARO/AIESH YE2024; next rq_2324; next EVERY-10 2330; continuous hole_fill

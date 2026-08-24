@@ -26560,3 +26560,11 @@ Append-only. Each tick adds a short entry.
 - Found: Companyweb NL+EN+FR YE2025 - omzet **EUR153474** DROP -24.11%; bruto **EUR3680197** JUMP +13.2% (~**23.98x**); pnl **EUR134838** DROP -7.3%; equity **EUR1529721** JUMP +6.28%; FTE **51.4** JUMP; neerlegging **17.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@merlijnvzw.be.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.3); entities (+1); foi + draft gap_merlijn_nbb_pdf_assets_debt_bruto_gt_omzet_23_98x_omzet_drop_fte_jump_vaph_mfc_matrix_l5; rq_2322=done + rq_2323 open; loop_state ticks=2322.
 - FOI: **ready not sent**. NOT every-10 (next **2330**). Next: rq_2323.
+
+### 2026-08-27T23:55:00Z - tick 2323 - rq_2323 Dominiek Savio Hooglede (bruto JUMP 35.19m / ~7.08x omzet / pnl PROFIT FLIP / FTE DROP 447.2 / Medium)
+
+- Unit: **rq_2323** leftover dual after **L'entre D'eux@2322** (finish in_progress claim Dominiek Savio). Prefer NON-stall: AGB Bornem still **JR2024**; FARO/AIESH/Citeco/Aralea/Vlotter/Manupal/Gandae still **YE2024**. Took FREE Flemish VAPH **Dominiek Savio VZW** YE2025 (KBO **0409.334.258**; Koolskampstraat 24, 8830 Hooglede; **Actief**; minors motor disability; info@dominiek-savio.be). Do not redo L'entre D'eux/Humival/Heder/Kindervriend/Homevil stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR4970170** JUMP +5.2%; bruto **EUR35185658** JUMP +2.47% (~**7.08x**); pnl **EUR1045976** PROFIT FLIP (vs YE2024 LOSS EUR-45562); equity **EUR30307987** JUMP +1.81%; FTE **447.2** DROP (vs 450.5); neerlegging **30.05.2026**. Strong KBO Actief. Assets/debt Unknown. Medium. FOI via info@dominiek-savio.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.55); entities (+1 vzw_dominiek_savio_hooglede); foi + draft gap_dominiek_savio_nbb_pdf_assets_debt_bruto_gt_omzet_7_08x_pnl_profit_flip_fte_drop_vaph_matrix_l5; rq_2323=done + rq_2324 open; loop_state ticks=2323; raw docs/doge/data/raw/tick2323/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2320**; next **2330**). Next: rq_2324.
