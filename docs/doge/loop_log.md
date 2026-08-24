@@ -24159,3 +24159,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.8); entities (+1 asbl_unite_jolimont); foi + draft gap_unite_jolimont_nbb_pdf_assets_debt_winddown_bruto_drop_pnl_flip_matrix_l5; rq_2122=done + rq_2123 open; loop_state ticks=2122; raw docs/doge/data/raw/tick2122/; deduped duplicate rq_2122 open row.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2120**; next **2130**). Next: rq_2123 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+## Tick 2123 - 2026-08-25T11:10:00Z - rq_2123 Home Sebrechts Mechelen (omzet JUMP 34.82m / bruto DROP / FTE DROP / Medium)
+
+- Unit: **rq_2123** leftover dual after **rq_2122 Unite Jolimont**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Home Sebrechts NV** YE2025 (KBO **0442.694.142**; Stationsstraat 102 Mechelen; **NV/SA** NACE **87.101/87.301/87.302** / **6 VE**; Armonea path info@armonea.be). Do not redo Unite/'t Buurthuis/Le Bosquet/Strebo/Entraide/Armonea holding/RSW.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR34823710** JUMP +7.13%; bruto **EUR27145085** DROP -6.45%; pnl **EUR930462** JUMP +1.7%; equity **EUR4005858** JUMP +30.26%; FTE **462.9** DROP vs 495.6; neerlegging **11.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@armonea.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.9); entities (+1 nv_home_sebrechts); foi + draft gap_sebrechts_nbb_pdf_assets_debt_bruto_drop_fte_drop_matrix_l5; rq_2123=done + rq_2124 open; loop_state ticks=2123; raw docs/doge/data/raw/tick2123/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (last **2120**; next **2130**). Next: rq_2124 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
