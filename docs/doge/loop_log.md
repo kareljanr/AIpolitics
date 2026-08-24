@@ -24332,3 +24332,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.2); entities (+1 vzw_zorgcampus_denderrust_aalst); foi + draft gap_denderrust_nbb_pdf_assets_debt_pnl_drop_omzet_jump_merger_dienstengroep_matrix_l5; progress_every_10_ticks.md + doge_waste_top10_current.md refreshed; rq_2140=done + rq_2141 open; loop_state ticks=2140; raw docs/doge/data/raw/tick2139/ (shared with En Famille race).
 - FOI: **ready not sent** (human-gated).
 - **EVERY-10@2140** (last was 2130; **next 2150**). Pure annual top10 stable (GIP/fossil/cars/cheque). Next: rq_2141 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+## Tick 2141 - 2026-08-25T17:00:00Z - rq_2141 Denderrust Dienstengroep (omzet JUMP 0.63m / Stopgezet fusie campus / Medium)
+
+- Unit: **rq_2141** leftover dual after **rq_2140 Zorgcampus Denderrust EVERY-10**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Denderrust Dienstengroep ASBL** YE2025 (KBO **0409.698.009**; Alfons De Cockstraat 12 Aalst; **ASBL** NACE **87.302** / **0 VE**; Stopgezet **17.12.2025** Fusie door overneming → **Zorgcampus 0419.333.572**). Do not redo Zorgcampus Denderrust campus/En Famille/Prestige/Corolles/Esplanade.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR627905** JUMP +1.63%; bruto **EUR317497** DROP -2.01%; pnl **EUR82762** JUMP +1.50%; equity **EUR1098146** JUMP +8.15%; FTE **0**; neerlegging **04.06.2026**. KBO Strong Stopgezet + absorption. Assets/debt Unknown. Medium. FOI via administratie@denderrust.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.0); entities (+1 asbl_denderrust_dienstengroep); foi + draft gap_denderrust_dienstengroep_nbb_pdf_assets_debt_omzet_serviceflat_absorption_matrix_l5; rq_2141=done + rq_2142 open; loop_state ticks=2141; raw docs/doge/data/raw/tick2141/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2140**; next **2150**). Next: rq_2142 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
