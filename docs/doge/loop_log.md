@@ -24546,3 +24546,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2163 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
 
+## Tick 2163 - 2026-08-26T00:20:00Z - rq_2163 Residentie Ruggeveld (bruto JUMP 4.62m / omzet empty / pnl FLIP PROFIT / Medium)
+
+- Unit: **rq_2163** leftover dual after **rq_2162 Salvator / Boterlaarhof race**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Hof ter Lande YE2024 skipped. Took unused leftover **Residentie Ruggeveld BV** YE2025 (KBO **0473.694.748**; Ruggeveldlaan 55 Antwerpen; **BV** NACE **87.301** / **1 VE**; **De Zorgfamilie** sibling of Boterlaarhof). Do not redo Salvator/Boterlaarhof/WZND/Foyer De Lork/OLV Kempen/HERTOG JAN/Lindeboom/Epinette.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR4619469** JUMP +7.07%; pnl **EUR28022** FLIP PROFIT from YE2024 LOSS EUR-9209; equity **EUR282348** JUMP +11.02%; FTE **68.8**; neerlegging **13.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via vragen@dezorgfamilie.be.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.4); entities (+1 bv_residentie_ruggeveld_antwerpen); foi + draft gap_ruggeveld_nbb_pdf_assets_debt_omzet_empty_bruto_jump_matrix_l5; rq_2163=done + rq_2164 open; loop_state ticks=2163; raw docs/doge/data/raw/tick2163/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2164 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
