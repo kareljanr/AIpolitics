@@ -26806,3 +26806,10 @@ Append-only. Each tick adds a short entry.
 - Found: CW NL+EN+FR — omzet **EUR74103**; bruto **EUR5047619** (~**68.12x**); pnl **EUR156705** PROFIT FLIP; equity **EUR2593536**; FTE **61.4**; filed **2026-07-14**. Medium. Assets/debt Unknown.
 - Wrote: sources(+5) budgets(+5) commitments(+1) leaderboard(+1 pi 6.85) entities(+1) foi+draft; rq_2346=done + rq_2347 open; ticks=2345.
 - FOI: **ready not sent**. NOT every-10 (next **2350**). Next: rq_2347.
+
+### 2026-08-24T14:25:00Z - tick 2348 - rq_2348 Oostrem Herent (bruto JUMP 9.02m / ~5.56x omzet / pnl PROFIT FLIP / FTE JUMP 102.9 / Medium)
+
+- Unit: **rq_2348** after **Korenbloem@2347**. NON-stall AGB/FARO YE2024. FREE VAPH **Oostrem VZW** YE2025 (KBO **0409.806.786**; info@oostrem.be).
+- Found: CW NL+EN YE2025 omzet **EUR1622068**; bruto **EUR9015150** (~**5.56x**); pnl **EUR62715** PROFIT FLIP; equity **EUR6378433**; FTE **102.9**; filed **02.06.2026**. Medium.
+- Wrote: CSVs+FOI; rq_2348=done + rq_2349 open; ticks=2348.
+- FOI ready not sent. NOT every-10 (next **2350**). Next: rq_2349.

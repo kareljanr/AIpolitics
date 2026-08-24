@@ -6949,3 +6949,8 @@ src_staf_jr2025_cw_en,Companyweb EN Staf YE2025,https://www.companyweb.be/en/043
 src_staf_jr2025_cw_fr,Companyweb FR Staf YE2025,https://www.companyweb.be/fr/0431333660/staf,Companyweb (NBB-derived),2026-08-24,secondary_aggregator,tick2345; FR mirror
 src_staf_kbo_2345,KBO Staf 0431.333.660,https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0431333660,KBO FOD Economie,2026-08-24,official_register,"tick2345; Strong KBO Actief 4 VE RSZ 88.106; Prins-Regentplein 13, 3010 Leuven; info@wijzijnstaf.be"
 src_staf_site_2345,Staf FOI info@wijzijnstaf.be,https://www.wijzijnstaf.be,Staf VZW,2026-08-24,foi_contact,tick2345; info@wijzijnstaf.be
+src_oostrem_jr2025_cw_nl,Companyweb NL Oostrem YE2025,https://www.companyweb.be/nl/0409806786/oostrem,Companyweb,2026-08-24,commercial_registry_mirror,tick2348; Medium CW NL; omzet 1622068 bruto 9015150 pnl 62715 equity 6378433 FTE 102.9 filed 02.06.2026
+src_oostrem_jr2025_cw_en,Companyweb EN Oostrem YE2025,https://www.companyweb.be/en/0409806786/oostrem,Companyweb,2026-08-24,commercial_registry_mirror,tick2348; Medium CW EN; bruto~5.56x; pnl PROFIT FLIP
+src_oostrem_kbo,KBO Oostrem 0409.806.786,https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0409806786,KBO FOD Economie,2026-08-24,official_register,"tick2348; Strong KBO Actief VZW; RSZ 87.202; Oostremstraat 26, 3020 Herent"
+src_oostrem_site_contact,Oostrem FOI info@oostrem.be,https://www.oostrem.be,Oostrem VZW,2026-08-24,foi_contact,tick2348; info@oostrem.be; T 016 23 15 45
+src_oostrem_nbb_consult,NBB CBSO consult Oostrem,https://consult.cbso.nbb.be/consult-enterprise/0409806786,NBB,2026-08-24,official_register,tick2348; PDF pending FOI

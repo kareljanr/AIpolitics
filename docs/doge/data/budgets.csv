@@ -54133,3 +54133,8 @@ bud_staf_bruto_jr2025_statutory,vzw_staf_leuven,2025,5047619,5047619,5047619,CW 
 bud_staf_pnl_jr2025_statutory,vzw_staf_leuven,2025,156705,156705,156705,CW statutory winst/verlies YE2025 PROFIT FLIP,src_staf_jr2025_cw_en,medium,tick2345; FLIP vs -2708
 bud_staf_equity_jr2025_statutory,vzw_staf_leuven,2025,2593536,2593536,2593536,CW statutory eigen_vermogen YE2025 JUMP,src_staf_jr2025_cw_en,medium,tick2345; +6.43%
 bud_staf_fte_jr2025_statutory,vzw_staf_leuven,2025,61.4,61.4,61.4,CW FTE 61.4,src_staf_jr2025_cw_en,medium,tick2345; JUMP vs 58.7
+bud_oostrem_omzet_jr2025_statutory,vzw_oostrem_herent,2025,1622068,1622068,1622068,CW statutory omzet YE2025 JUMP +9.95%,src_oostrem_jr2025_cw_en,medium,tick2348; vs 1475344
+bud_oostrem_bruto_jr2025_statutory,vzw_oostrem_herent,2025,9015150,9015150,9015150,CW statutory bruto YE2025 ~5.56x omzet,src_oostrem_jr2025_cw_en,medium,tick2348; primary L5; vs 8042123
+bud_oostrem_pnl_jr2025_statutory,vzw_oostrem_herent,2025,62715,62715,62715,CW statutory pnl YE2025 PROFIT FLIP,src_oostrem_jr2025_cw_en,medium,tick2348; vs LOSS -399040
+bud_oostrem_equity_jr2025_statutory,vzw_oostrem_herent,2025,6378433,6378433,6378433,CW statutory equity YE2025 JUMP +1.42%,src_oostrem_jr2025_cw_en,medium,tick2348; vs 6289316
+bud_oostrem_fte_jr2025_statutory,vzw_oostrem_herent,2025,102.9,102.9,102.9,CW FTE JUMP 102.9,src_oostrem_jr2025_cw_en,medium,tick2348; vs 100.3
