@@ -24276,3 +24276,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.1); entities (+1 vzw_cigb_menen); foi + draft gap_cigb_menen_nbb_pdf_assets_debt_pnl_loss_flip_omzet_jump_matrix_l5; rq_2133=done + rq_2134 open; loop_state ticks=2133; raw docs/doge/data/raw/tick2133/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2130**; next **2140**). Next: rq_2134 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+## Tick 2134 - 2026-08-25T14:40:00Z - rq_2134 MRS Comte d'Egmont Chièvres (bruto JUMP 2.76m / LOSS widen -162k / thin equity / Medium)
+
+- Unit: **rq_2134** leftover dual after **rq_2133 C.I.G.B. Menen**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Maison de Repos Le Comte d'Egmont SA** YE2025 (KBO **0454.712.838**; Grand'Place 17 Chièvres; **NV/SA** NACE **MRPA** / **1 VE**; commercial name Résidence Comte d'Egmont). Do not redo CIGB Menen/Ten Rozen/L'Orchidée/Care-Support/Restel Flats/De Fakkel/SLG Wallonie/Famifamenne/MPC Sint-Franciscus/Armonea holding. Deferred live YE2025: Residence Prestige / Les Peupliers / l'Esplanade Ath.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR2759169** JUMP +10.03% vs YE2024 EUR2507548; pnl **EUR-162383** LOSS WIDEN -56.23% vs YE2024 EUR-103936; equity **EUR235121** DROP -40.85% thin; FTE **39** vs 36.5; neerlegging **01.08.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via jeanmarchendrick@skynet.be.
+- Wrote: sources (+5); budgets (+4); commitments (+1); leaderboard (+1 pi 5.5); entities (+1 nv_mrs_comte_degmont_chievres); foi + draft gap_comte_degmont_nbb_pdf_assets_debt_omzet_empty_loss_widen_thin_equity_matrix_l5; rq_2134=done + rq_2135 open; loop_state ticks=2134; raw docs/doge/data/raw/tick2134/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2130**; next **2140**). Next: rq_2135 (AGB/FARO-if-YE2025 / AIESH-REW / Prestige-Peupliers-Esplanade / unused IGS-DSO-WZC-MRS).
