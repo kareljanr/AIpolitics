@@ -54110,3 +54110,7 @@ bud_aurelia_bruto_jr2025_statutory,vzw_aurelia_kortrijk,2025,6339122,6339122,633
 bud_aurelia_pnl_jr2025_statutory,vzw_aurelia_kortrijk,2025,142185,142185,142185,CW statutory winst/verlies YE2025 JUMP +95.71%,src_aurelia_jr2025_cw_en,medium,tick2342; JUMP vs 72650
 bud_aurelia_equity_jr2025_statutory,vzw_aurelia_kortrijk,2025,1291057,1291057,1291057,CW statutory eigen_vermogen YE2025 JUMP,src_aurelia_jr2025_cw_en,medium,tick2342; +12.38% vs 1148872
 bud_aurelia_fte_jr2025_statutory,vzw_aurelia_kortrijk,2025,81.6,81.6,81.6,CW FTE 81.6,src_aurelia_jr2025_cw_en,medium,tick2342; DROP vs 82.4
+bud_perrekes_bruto_jr2025_statutory,vzw_huis_perrekes_geel,2025,4070474,4070474,4070474,CW statutory bruto_marge YE2025 JUMP empty-omzet,src_perrekes_jr2025_cw_en,medium,tick2343; bruto +7.7% vs 3779300; omzet empty
+bud_perrekes_pnl_jr2025_statutory,vzw_huis_perrekes_geel,2025,74757,74757,74757,CW statutory winst/verlies YE2025 JUMP,src_perrekes_jr2025_cw_en,medium,tick2343; pnl +435.66% vs 13956
+bud_perrekes_equity_jr2025_statutory,vzw_huis_perrekes_geel,2025,1701564,1701564,1701564,CW statutory eigen_vermogen YE2025 JUMP,src_perrekes_jr2025_cw_en,medium,tick2343; equity +3.09% vs 1650487
+bud_perrekes_fte_jr2025_statutory,vzw_huis_perrekes_geel,2025,55.1,55.1,55.1,CW social-balance FTE 55.1,src_perrekes_jr2025_cw_en,medium,tick2343; FTE JUMP vs 54.8

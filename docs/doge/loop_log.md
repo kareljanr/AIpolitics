@@ -26770,3 +26770,10 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources/budgets/commitments/leaderboard/entities/foi (prefilled); closed rq_2342=done + rq_2343 open; loop_state ticks=2342.
 - FOI: **ready not sent**. NOT every-10 (next **2350**). Next: rq_2343.
 
+
+### 2026-08-28T03:20:00Z - tick 2343 - rq_2343 Huis Perrekes Geel (empty omzet / bruto JUMP 4.07m / pnl JUMP +435.66% / FTE 55.1 / Medium)
+
+- Unit: **rq_2343** after closing stuck **Aurelia@2342**. Stalls AGB/FARO YE2024. Took FREE Flemish WZC **Huis Perrekes VZW** YE2025 (KBO **0444.947.611**; Zammelseweg 1, 2440 Geel; **Actief** **2 VE**; Aanbestedende; RSZ **87.301**; ellis.goolaerts@perrekes.be). Do not redo Aurelia/Eyckerheyde/Konekt/OZC/De Cirkel stack.
+- Found: CW NL+EN+FR — omzet **empty**; bruto **EUR4070474** JUMP +7.7%; pnl **EUR74757** JUMP +435.66%; equity **EUR1701564**; FTE **55.1**; neerlegging **19.06.2026**. Strong KBO. Assets/debt Unknown. Medium.
+- Wrote: sources(+5) budgets(+4) ents(+1) comm(+1) lb(+1 pi 5.15) foi(+1); closed rq_2342 Aurelia; rq_2343=done + rq_2344 open; ticks=2343.
+- FOI ready NOT sent. NOT every-10 (last **2340**; next **2350**). Next: rq_2344.
