@@ -25692,3 +25692,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.30); entities (+1 vzw_atelier_cambier_charleroi); foi + draft gap_cambier_nbb_pdf_assets_debt_omzet_drop_18pct_equity_jump_47pct_eta_matrix_l5; rq_2254=done + rq_2255 open; loop_state ticks=2254; raw docs/doge/raw/tick2254/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2250**; next **2260**). Next: rq_2255 (AGB/FARO-if-YE2025 / AIESH-REW / unused Corelap).
+
+
+## Tick 2255 - 2026-08-27T05:55:00Z - rq_2255 Corelap Mouscron (bruto 5.21m / ~2.01x / pnl DROP -13.94% / FTE 130 / Medium)
+
+- Unit: **rq_2255** leftover dual after **rq_2254 Cambier**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Relais Haute Sambre still **YE2024**. Took named FREE Walloon ETA **Corelap ASBL** YE2025 (KBO **0442.541.516**; Bergstraat 103 Mouscron; **Actief** **1 VE**; NACE **88.993** AViQ) — deferred from Cambier@2254. Do not redo Cambier/Gaillettes/Hunelle/Dauphins stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR2594128** DROP -4.12% vs YE2024 EUR2705695; bruto **EUR5208599** JUMP +0.26% (bruto≫omzet ~2.01x); pnl **EUR571199** DROP -13.94% vs YE2024 EUR663710; equity **EUR3905323** JUMP +16.81%; FTE **130**; neerlegging **18.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via eta@corelap.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.00); entities (+1 vzw_corelap_mouscron); foi + draft gap_corelap_nbb_pdf_assets_debt_bruto_gt_omzet_2_01x_pnl_drop_eta_matrix_l5; rq_2255=done + rq_2256 open; loop_state ticks=2255; raw docs/doge/raw/tick2255/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2250**; next **2260**). Next: rq_2256 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
