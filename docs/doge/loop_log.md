@@ -26536,3 +26536,11 @@ Append-only. Each tick adds a short entry.
 - Found: CW YE2025 omzet **EUR740845** JUMP +5.31%; bruto **EUR5780489** (~**7.8x**); pnl **EUR539105** JUMP +5.47%; equity **EUR6458105** JUMP +8.49%; FTE **64.6**; filed **12.06.2026**. Medium.
 - Wrote: CSVs + FOI gap_humival_nbb_pdf_assets_debt_bruto_gt_omzet_7_80x_pnl_jump_vaph_matrix_l5; rq_2321=done + rq_2322 open; ticks=2321.
 - FOI ready not sent. NOT every-10 (next **2330**). Next: rq_2322.
+
+
+### 2026-08-27T23:30:00Z - tick 2321 - rq_2321 Humival Lievegem (bruto JUMP 5.78m / ~7.8x omzet / pnl JUMP / FTE 64.6 / Medium)
+
+- Unit: **rq_2321** after **Heder EVERY-10@2320**. Stalls AGB/FARO/AIESH YE2024. Took FREE VAPH **Humival** YE2025 (KBO **0416.237.589**; 1 VE; RSZ **87.202**; info@humival.be).
+- Found: CW NL+EN+FR — omzet **EUR740845** JUMP +5.31%; bruto **EUR5780489** JUMP +9.08% (~7.8x); pnl **EUR539105** JUMP +5.47%; equity **EUR6458105**; FTE **64.6**; filed **12.06.2026**. Medium.
+- Wrote: CSVs + FOI gap_humival_nbb_pdf_assets_debt_bruto_gt_omzet_7_80x_pnl_jump_vaph_matrix_l5; rq_2321=done + rq_2322 open; ticks=2321.
+- FOI ready not sent. NOT every-10 (next **2330**).
