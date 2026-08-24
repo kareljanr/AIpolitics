@@ -25107,3 +25107,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2208 (AGB/FARO-if-YE2025 / AIESH-REW / Arcor-Noordheuvel-or-unused).
 
+
+## Tick 2208 - 2026-08-26T15:20:00Z - rq_2208 Arcor Ronse (bruto JUMP 4.06m / empty omzet / pnl JUMP +75% / equity DROP / Medium)
+
+- Unit: **rq_2208** leftover dual after **rq_2207 Kemphaan**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; REW still **YE2024**. Took named FREE leftover **Arcor VZW** YE2025 (KBO **0410.962.274**; Ninovestraat 106 Ronse; **Actief** **1 VE**; RSZ NACE **88.993**). Deferred FREE Noordheuvel YE2025; Odas still YE2024-only. Do not redo Kemphaan/Entiris/Oesterbank/Werkplus/Trianval/Ijsedal/De Kromme Boom/Aarova/Kaliber/MWP Pajottenland/De Winning/Atelier Groot Eiland/Groep Talent/BosKat/De Schakel/BWZ/Bewel/Forena/Kunnig/A-kwadraat/SW-WEB/Mivas/Demival/De Wroeter/Kringwinkel/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **empty/unpublished** (also YE2024); bruto **EUR4056616** JUMP +6.42% vs YE2024 EUR3811915; pnl **EUR44477** JUMP +75.2% vs YE2024 EUR25386; equity **EUR3633846** DROP -1.88%; FTE **116.3** DROP vs 119.6; neerlegging **20.05.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@arcor.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.90); entities (+1 vzw_arcor_ronse); foi + draft gap_arcor_nbb_pdf_assets_debt_empty_omzet_bruto_pnl_jump_equity_drop_matrix_l5; rq_2208=done + rq_2209 open; loop_state ticks=2208; raw docs/doge/data/raw/tick2208/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2200**; next **2210**). Next: rq_2209 (AGB/FARO-if-YE2025 / AIESH-REW / Noordheuvel-or-unused).
+
