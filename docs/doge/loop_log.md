@@ -25775,3 +25775,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.05); entities (+1 vzw_bw_eupen); foi + draft gap_bw_eupen_nbb_pdf_assets_debt_bruto_gt_omzet_2_05x_pnl_loss_narrow_eta_matrix_l5; rq_2262=done + rq_2263 open; loop_state ticks=2262; raw docs/doge/raw/tick2262/ + data/raw/tick2262/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2260**; next **2270**). Next: rq_2263 (AGB/FARO-if-YE2025 / AIESH-REW / unused La Lorraine YE2025).
+
+
+
+### 2026-08-27T07:55:00Z - tick 2263 - rq_2263 La Lorraine Services Arlon (bruto 5.47m / empty omzet / pnl DROP -56.01% / FTE 156.5 / Medium)
+
+- Unit: **rq_2263** leftover dual after **rq_2262 BW Eupen**. Prefer NON-stall live: AGB Bornem still **JR2024-only** (portal 404 this tick); FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Relais Haute Sambre/Sipres/APN/Stallbois still **YE2024**. Took deferred FREE Walloon ETA **La Lorraine Services SC** YE2025 (KBO **0412.131.719**; Weyler Zone artisanale 32A Arlon; **Actief** **2 VE**; NACE **88.993** AViQ). Do not redo BW Eupen/AJR/Alteria/Les Erables/Val du Geer/Nekto/Belair stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR5468069** DROP -0.24% vs YE2024 EUR5481366; pnl **EUR267299** DROP -56.01% vs YE2024 EUR607581; equity **EUR2808835** JUMP +10.0%; FTE **156.5** (+1.36% vs 154.4); neerlegging **23.07.2026**. Strong KBO Actief 2 VE SC. Assets/debt Unknown. Medium. FOI via commercial@lalorraine.org.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.00); entities (+1 sc_la_lorraine_arlon); foi + draft gap_lorraine_nbb_pdf_assets_debt_empty_omzet_pnl_drop_56pct_eta_matrix_l5; rq_2263=done + rq_2264 open; loop_state ticks=2263; raw docs/doge/raw/tick2263/ + data/raw/tick2263/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2260**; next **2270**). Next: rq_2264 (AGB/FARO-if-YE2025 / AIESH-REW / unused ETA-VAPH-WZC-maatwerk).
