@@ -26481,3 +26481,10 @@ Append-only. Each tick adds a short entry.
 - **Also:** pnl JUMP EUR281166 (+24.06%); equity EUR8380398; FTE 196.3; filed 02.07.2026; 14 VE RSZ 87.202.
 - **Writes:** entities/sources/budgets/commitments/leaderboard + FOI `gap_schoonderhage_nbb_pdf_assets_debt_bruto_gt_omzet_6_64x_vaph_matrix_l5` ready NOT sent.
 - **Next:** rq_2317 open; next EVERY-10 **2320**.
+
+### 2026-08-24T13:11:56Z - tick 2316 - rq_2316 Olo-Rotonde Brasschaat (bruto JUMP 66.85m / ~9.53x omzet / FTE JUMP 854.6 / Medium)
+
+- Unit: **rq_2316** leftover dual after **Havenzate@2315**. Prefer NON-stall: AGB/FARO still **YE2024**. Took unused FREE Flemish VAPH mega-group **Olo-Rotonde VZW** YE2025 (KBO **0406.677.745**; Miksebaan 264 B Brasschaat; **Actief**; NACE **87.202**; FTE **854.6**). Do not redo Havenzate/Iris/Hejmen/Domino/Willekom/Zewopa stack.
+- Found: Companyweb NL+EN YE2025 - omzet **EUR7014913** JUMP +8.67%; bruto **EUR66852480** JUMP +4.13% (~**9.53x**); pnl **EUR1458369** DROP -9.47%; equity **EUR52557823**; FTE **854.6**; neerlegging **19.06.2026**. Strong KBO. Assets/debt Unknown. Medium. FOI via info@olo-rotonde.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.55); entities (+1); foi + draft gap_olo_rotonde_nbb_pdf_assets_debt_bruto_gt_omzet_9_53x_pnl_drop_vaph_matrix_l5; rq_2316=done + rq_2317 open; loop_state ticks=2316.
+- FOI: **ready not sent**. NOT every-10 (next **2320**). Next: rq_2317.

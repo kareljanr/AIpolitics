@@ -53960,3 +53960,8 @@ bud_schoonderhage_pnl_jr2025_statutory,vzw_schoonderhage_ninove,2025,281166,2811
 bud_schoonderhage_equity_jr2025_statutory,vzw_schoonderhage_ninove,2025,8380398,8380398,8380398,CW equity YE2025,src_schoonderhage_jr2025_cw_en,medium,tick2317; +0.25% vs 8359600
 bud_schoonderhage_fte_jr2025_statutory,vzw_schoonderhage_ninove,2025,196.3,196.3,196.3,CW FTE 196.3,src_schoonderhage_jr2025_cw_en,medium,tick2317; vs 198.6
 bud_schoonderhage_bruto_jr2024_statutory_cmp,vzw_schoonderhage_ninove,2024,14860759,14860759,14860759,CW bruto YE2024 cmp,src_schoonderhage_jr2025_cw_en,medium,tick2317; cmp
+bud_olo_rotonde_bruto_jr2025_statutory,vzw_olo_rotonde_brasschaat,2025,66852480,66852480,66852480,CW statutory bruto YE2025 primary (~9.53x omzet),src_olo_rotonde_jr2025_cw_en,medium,tick2316; bruto 66852480 JUMP +4.13% vs 64201893
+bud_olo_rotonde_omzet_jr2025_statutory,vzw_olo_rotonde_brasschaat,2025,7014913,7014913,7014913,CW statutory omzet YE2025,src_olo_rotonde_jr2025_cw_en,medium,tick2316; omzet 7014913 JUMP +8.67% vs 6455332
+bud_olo_rotonde_pnl_jr2025_statutory,vzw_olo_rotonde_brasschaat,2025,1458369,1458369,1458369,CW statutory pnl YE2025 DROP,src_olo_rotonde_jr2025_cw_en,medium,tick2316; pnl 1458369 DROP -9.47% vs 1610841
+bud_olo_rotonde_equity_jr2025_statutory,vzw_olo_rotonde_brasschaat,2025,52557823,52557823,52557823,CW statutory equity YE2025,src_olo_rotonde_jr2025_cw_en,medium,tick2316; equity 52557823 JUMP +1.45% vs 51805076
+bud_olo_rotonde_fte_jr2025_statutory,vzw_olo_rotonde_brasschaat,2025,854.6,854.6,854.6,CW FTE YE2025,src_olo_rotonde_jr2025_cw_en,medium,tick2316; FTE 854.6 vs 834.0

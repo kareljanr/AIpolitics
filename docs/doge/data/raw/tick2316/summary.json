@@ -1,11 +1,15 @@
 {
   "tick": "2316",
   "unit": "rq_2316",
-  "entity": "vzw_ons_tehuis_brabant",
-  "omzet": 1820095,
-  "bruto": 10405932,
-  "pnl": 1089571,
-  "ratio": 5.72,
+  "entity": "vzw_olo_rotonde_brasschaat",
+  "kbo": "0406.677.745",
+  "omzet": 7014913,
+  "bruto": 66852480,
+  "pnl": 1458369,
+  "equity": 52557823,
+  "fte": 854.6,
+  "ratio": 9.53,
   "confidence": "medium",
-  "pi": 5.85
+  "gap": "gap_olo_rotonde_nbb_pdf_assets_debt_bruto_gt_omzet_9_53x_pnl_drop_vaph_matrix_l5",
+  "pi": 6.55
 }
