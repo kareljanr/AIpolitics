@@ -25224,3 +25224,16 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2210**; next **2220**). Next: rq_2219.
 
+
+
+### 2026-08-26T18:25:00Z - tick 2218 race note
+- Concurrent agent closed rq_2218 as **Veerkracht 4** YE2025 Medium (bruto JUMP 3.76m / empty omzet / pnl JUMP +72% / equity JUMP +20%) and committed first. This agent independently fetched the same CW/KBO euros and confirms the fill; duplicate log block removed. Next open head **rq_2219** (Opnieuw&Co / NBSW YE2025 free).
+
+## Tick 2219 - 2026-08-26T18:35:00Z - rq_2219 Opnieuw & Co Antwerpen (omzet JUMP 6.45m / pnl DROP -19% / bruto≫omzet ~1.43x / Medium)
+
+- Unit: **rq_2219** leftover dual after **rq_2218 Veerkracht 4 race**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took named FREE leftover **Opnieuw & Co VZW** YE2025 (KBO **0466.209.120**; Ullensstraat 26 Antwerpen; **Actief** **9 VE**; RSZ NACE **88.993** / BTW **47.792**). Deferred FREE NBSW YE2025. Do not redo Veerkracht4/Werkmmaat/Constructief/Deltagroep/Groep Maatwerk/OptimaT/Odas/Ecoso/Werkhuizen Min/ACG.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR6453147** JUMP +2.6% vs YE2024 EUR6289529; bruto **EUR9202255** JUMP +3.76% (~1.43x); pnl **EUR569440** DROP -19.39% vs YE2024 EUR706388; equity **EUR4718001** JUMP +17.45%; FTE **205.3**; neerlegging **09.07.2026**. Strong KBO Actief 9 VE. Assets/debt Unknown. Medium. FOI via info@opnieuwenco.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.90); entities (+1 vzw_opnieuw_co_antwerpen); foi + draft gap_opnieuw_co_nbb_pdf_assets_debt_pnl_drop_bruto_gt_omzet_9ve_matrix_l5; rq_2219=done + rq_2220 open; loop_state ticks=2219; raw docs/doge/data/raw/tick2219/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2210**; next **2220** mandatory). Next: rq_2220 (EVERY-10 + AGB/FARO-if-YE2025 / AIESH-REW / NBSW-or-unused).
+
