@@ -25583,3 +25583,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.30); entities (+1 vzw_apam_uccle); foi + draft gap_apam_nbb_pdf_assets_debt_bruto_gt_omzet_3_08x_pnl_profit_flip_eta_matrix_l5; rq_2243=done + rq_2244 open; loop_state ticks=2243; raw docs/doge/raw/tick2243/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2240**; next **2250**). Next: rq_2244 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
+
+
+## Tick 2244 - 2026-08-27T03:10:00Z - rq_2244 ETA La Lumière Liège (bruto 7.25m / bruto≫omzet ~2.37x / pnl LOSS DEEPEN / Medium)
+
+- Unit: **rq_2244** leftover dual after **rq_2243 APAM**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**. Took named FREE Liège ETA **La Lumière ASBL** YE2025 (KBO **0402.345.211**; Rue Sainte-Véronique 17 / Boulevard Louis Hillier 1 Liège; **Actief** **2 VE**; NACE **88.993** AViQ). Do not redo APAM/Jean Gielen/Le Perron/L'Atelier/Axedis/ETA123 stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3056352** JUMP +5.46% vs YE2024 EUR2898178; bruto **EUR7253203** JUMP +18.38% (bruto≫omzet ~2.37x); pnl **EUR-185782** LOSS DEEPEN vs YE2024 EUR-74020; equity **EUR7933506** DROP -2.31%; FTE **122.4** JUMP vs 118.5; neerlegging **24.06.2026**. Strong KBO Actief 2 VE. Assets/debt Unknown. Medium. FOI via eta@lalumiere.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.25); entities (+1 vzw_eta_la_lumiere_liege); foi + draft gap_la_lumiere_nbb_pdf_assets_debt_bruto_gt_omzet_2_37x_pnl_loss_deepen_eta_matrix_l5; rq_2244=done + rq_2245 open; loop_state ticks=2244; raw docs/doge/raw/tick2244/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2240**; next **2250**). Next: rq_2245 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
