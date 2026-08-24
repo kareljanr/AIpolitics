@@ -24168,3 +24168,10 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (last **2120**; next **2130**). Next: rq_2124 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
 
+## Tick 2124 - 2026-08-25T11:25:00Z - rq_2124 R.S.W. Residence Senior's Westland (omzet JUMP 312k / pnl FLIP LOSS -35k / equity DROP 5.12m / Medium)
+
+- Unit: **rq_2124** leftover dual after **rq_2123 Home Sebrechts** (race: concurrent agent took rq_2123 as Sebrechts; this tick recovers deferred RSW). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took deferred unused leftover **R.S.W. / Residence Senior's Westland** YE2025 (KBO **0459.540.765**; Alsembergsesteenweg 1037 Uccle; **NV/SA** NACE **68.201/87.301** / **1 VE**; same seat as emptied **'t Buurthuis**; Van Houtte/Guichard path). Do not redo Home Sebrechts/Unite Jolimont/'t Buurthuis/Le Bosquet/Strebo/Entraide/La Charmille/Charmilles/Sittelles/Buissons/Residence 3/Elisabeth Aan Zee/XXe Aout/Ninove/emeis holding.
+- Found: Companyweb NL+EN+FR YE2025 — omzet **EUR312212** JUMP +2.97% vs YE2024 EUR303195; bruto **EUR414736** JUMP +2.03%; pnl **EUR-34826** FLIP from YE2024 PROFIT EUR83337 (−141.79%); equity **EUR5120098** DROP −15.37% vs YE2024 EUR6049814; FTE **Medium-sized 0**; neerlegging **08.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via senior.westland@emeis.com.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.0); entities (+1 sa_rsw_residence_seniors_westland); foi + draft gap_rsw_nbb_pdf_assets_debt_pnl_flip_loss_equity_drop_matrix_l5; rq_2124=done + rq_2125 open; loop_state ticks=2124; raw docs/doge/data/raw/tick2124/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2120**; next **2130**). Next: rq_2125 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
