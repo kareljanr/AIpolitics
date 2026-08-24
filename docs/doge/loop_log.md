@@ -24923,3 +24923,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.8); entities (+1 vzw_sw_web_turnhout); foi + draft gap_sw_web_nbb_pdf_assets_debt_pnl_loss_deepen_equity_drop_bruto_gt_omzet_fte_jump_matrix_l5; rq_2193=done + rq_2194 open; loop_state ticks=2193; raw docs/doge/data/raw/tick2193/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2194 (AGB/FARO-if-YE2025 / AIESH-REW / BWZ-De Schakel-or-unused IGS-DSO-WZC-MRS-HVZ).
+
+
+## Tick 2194 - 2026-08-26T10:40:00Z - rq_2194 Forena (omzet JUMP 16.30m / FTE JUMP +26% / pnl DROP -32% / Medium)
+
+- Unit: **rq_2194** leftover dual after **rq_2193 A-kwadraat**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH/REW still YE2024-class. Took named FREE leftover **Forena VZW** YE2025 (KBO **0425.410.920**; Industrielaan 32 Menen; **VZW** RSZ NACE **88.993** / **2 VE**). Deferred FREE Kunnig. Do not redo A-kwadraat/Mivas/Demival/De Wroeter/Kringwinkel Antwerpen/Blankedale/Mirto/Mariasteen/De Brug/Weerwerk/InterWest/Westlandia/BWB/Wase/Groep INTRO/MAAAT/WAAK SW/Waak/Stijn/Stroom/Springplank/Creat CV/Farys Solar/Senes/Orpimmo/Langerheide/Cur@-Z/Het Dorp/De Vlietoever.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR16296866** JUMP +15.38% vs YE2024 EUR14125096; bruto **EUR27867647** JUMP +27.08% (bruto≫omzet); pnl **EUR649564** DROP -31.53% vs YE2024 EUR948653; equity **EUR20129222** JUMP +8.3%; FTE **708.7** JUMP vs 564.6 (+25.5%); neerlegging **06.05.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 2 VE. FOI via info@forena.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.5); entities (+1 vzw_forena_menen); foi + draft gap_forena_nbb_pdf_assets_debt_fte_jump_pnl_drop_bruto_gt_omzet_matrix_l5; rq_2194=done + rq_2195 open; loop_state ticks=2194; raw docs/doge/data/raw/tick2194/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2190**; next **2200**). Next: rq_2195 (AGB/FARO-if-YE2025 / AIESH-REW / Kunnig-or-unused IGS-DSO-WZC-MRS-HVZ).
