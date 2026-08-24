@@ -25330,3 +25330,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 7.00); entities (+1 vzw_vites_leuven); foi + draft gap_vites_nbb_pdf_assets_debt_bruto_gt_omzet_1_71x_pnl_drop_matrix_l5; rq_2226=done + rq_2227 open; loop_state ticks=2226; raw docs/doge/raw/tick2226/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2227 (AGB/FARO-if-YE2025 / AIESH-REW / Heropbeuring-ViTeSBE-DeOever-or-unused).
+
+
+## Tick 2226 - 2026-08-26T20:50:00Z - rq_2226 VITeS Leuven (omzet JUMP 14.04m / bruto≫omzet ~1.71x / pnl DROP -29.8% / FTE JUMP / Medium)
+
+- Unit: **rq_2226** leftover dual after **rq_2225 Reset Genk** (race closed Reset as 2225; this tick advanced). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW **404**; Heropbeuring **CW opaque**. Took named FREE leftover **VITeS VZW** YE2025 (KBO **0431.067.802**; Ijzerenmolenstraat 4 Leuven; **Actief** **14 VE**; RSZ NACE **88.993**). Deferred live FREE **Kringwinkel Midwest**. Do not redo Reset/Den Azalee/Kringwinkel West/Maasland/ZOV/NBSW/Opnieuw&Co/Manus/ACG.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR14044208** JUMP +8.39% vs YE2024 EUR12957216; bruto **EUR24007757** JUMP +6.62% (bruto≫omzet ~1.71x); pnl **EUR1067155** DROP -29.80% vs YE2024 EUR1520209; equity **EUR31241325** JUMP +3.43%; FTE **529.8** JUMP vs 507.4; neerlegging **03.07.2026**. Strong KBO Actief 14 VE. Assets/debt Unknown. Medium. FOI via info@vites.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.50); entities (+1 vzw_vites_leuven); foi + draft gap_vites_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_drop_30pct_fte_jump_matrix_l5; rq_2226=done + rq_2227 open; loop_state ticks=2226; raw docs/doge/raw/tick2226/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2227 (AGB/FARO-if-YE2025 / AIESH-REW / Midwest-or-unused).
