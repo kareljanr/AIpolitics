@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T17:10:00Z,rq_2214,2214,no,tick2214 leftover OptimaT/Huize Tordale 0429.649.325 Medium (omzet JUMP 11.92m; bruto 42.26m ≫ omzet ~3.54x; pnl JUMP 1.91m; equity JUMP 39.41m; FTE JUMP 788.8; 4 VE); AGB Bornem JR2024; FARO/REW YE2024; next rq_2215; next every-10 2220; continuous hole_fill
+main,continuous,hole_fill,2026-08-26T17:25:00Z,rq_2215,2215,no,tick2215 Groep Maatwerk 0421.292.675 Medium (omzet DROP 1.18m; bruto≫omzet ~1.39x 1.64m; pnl LOSS FLIP -17k; equity DROP 1.14m; FTE 17.9; 1 VE Tienen federatie); AGB Bornem JR2024; FARO/REW YE2024; OptimaT tick2214; next rq_2216; next every-10 2220; continuous hole_fill

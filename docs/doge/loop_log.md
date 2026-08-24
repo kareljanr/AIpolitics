@@ -25181,3 +25181,11 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2210**; next **2220**). Next: rq_2215 (AGB/FARO-if-YE2025 / AIESH-REW / Manus-Constructief-or-unused).
 
+
+## Tick 2215 - 2026-08-26T17:25:00Z - rq_2215 Groep Maatwerk (omzet DROP 1.18m / bruto≫omzet ~1.39x / pnl LOSS FLIP / Medium)
+
+- Unit: **rq_2215** leftover dual after **rq_2214 OptimaT**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; REW still **YE2024**. Took named FREE leftover **GROEP MAATWERK VZW** YE2025 (KBO **0421.292.675**; Goossensvest 34 Tienen; **Actief** **1 VE**; RSZ NACE **94.110** / BTW **88.993**) — previously deferred. Do not redo OptimaT/Odas/Ecoso/Werkhuizen MIN/ACG/Noordheuvel/Arcor/Kemphaan/Entiris/Oesterbank/Werkplus/Trianval/Ijsedal/Aarova/MWP/AGE stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR1179969** DROP -7.05% vs YE2024 EUR1269476; bruto **EUR1641848** DROP -2.49% (bruto≫omzet ~1.39x); pnl **EUR-16910** LOSS FLIP vs YE2024 EUR27829; equity **EUR1139690** DROP -1.46%; FTE **17.9**; neerlegging **15.05.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@groepmaatwerk.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.50); entities (+1 vzw_groep_maatwerk_tienen); foi + draft gap_groep_maatwerk_nbb_pdf_assets_debt_pnl_loss_flip_bruto_gt_omzet_matrix_l5; rq_2215=done + rq_2216 open; loop_state ticks=2215; raw docs/doge/data/raw/tick2215/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2210**; next **2220**). Next: rq_2216 (AGB/FARO-if-YE2025 / AIESH-REW / unused maatwerk-WZC-IGS).
