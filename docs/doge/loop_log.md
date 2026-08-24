@@ -25901,3 +25901,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.85); entities (+1 vzw_de_enter_brecht); foi + draft gap_enter_nbb_pdf_assets_debt_empty_omzet_bruto_4_09m_pnl_drop_64pct_matrix_l5; rq_2272=done + rq_2273 open; loop_state ticks=2272; raw docs/doge/raw/tick2272/ + data/raw/tick2272/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2273 (AGB/FARO-if-YE2025 / AIESH-REW / unused ETA-VAPH-WZC-maatwerk).
+
+### 2026-08-27T10:25:00Z - tick 2273 - rq_2273 Pépinières La Gaume Tintigny (omzet DROP 3.00m / bruto~0.54x JUMP / pnl LOSS NARROW / equity DROP -13.62% / FTE 86 / Medium)
+
+- Unit: **rq_2273** leftover dual after **rq_2272 Fournipac**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024** (0201.712.587); Citeco still **YE2024**; Groupe Foes still **YE2024**; Atelier 85 still **YE2024**; Heropbeuring still **CW opaque**. Took unused FREE Walloon ETA **Pépinières La Gaume SC** YE2025 (KBO **0417.548.673**; Rue des Saucettes Breuvanne 90 Tintigny; **Actief** **1 VE SC**; NACE **88.993** AViQ pépinière/espaces verts/éco-construction). Do not redo Fournipac/Serre-Outil/Amis/Hautes/Village n1/Trait/Ouvroir/APRE/Renaitre/Lorraine/Metalgroup stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3001950** DROP -4.74% vs YE2024 EUR3151432; bruto **EUR1607962** JUMP +10.19% (bruto÷omzet ~0.54x); pnl **EUR-280521** LOSS NARROW +36.24% vs YE2024 EUR-439942; equity **EUR1802275** DROP -13.62%; FTE **86** (+3.0% vs 83.5); neerlegging **12.05.2026**. Strong KBO Actief 1 VE SC. Assets/debt Unknown. Medium. FOI via info@pepiniereslagaume.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.05); entities (+1 sc_pepinieres_la_gaume_tintigny); foi + draft gap_la_gaume_nbb_pdf_assets_debt_equity_drop_14pct_pnl_loss_narrow_eta_matrix_l5; rq_2273=done + rq_2274 open; loop_state ticks=2273; raw docs/doge/raw/tick2273/ + data/raw/tick2273/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2270**; next **2280**). Next: rq_2274 (AGB/FARO-if-YE2025 / AIESH-REW / Citeco-Groupe Foes / unused ETA-VAPH-WZC-maatwerk).

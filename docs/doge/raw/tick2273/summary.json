@@ -1,0 +1,15 @@
+{
+  "tick": "2273",
+  "unit": "rq_2273",
+  "entity": "sc_pepinieres_la_gaume_tintigny",
+  "kbo": "0417.548.673",
+  "omzet": 3001950,
+  "bruto": 1607962,
+  "pnl": -280521,
+  "equity": 1802275,
+  "fte": 86.0,
+  "ratio_bruto_omzet": 0.54,
+  "confidence": "medium",
+  "gap": "gap_la_gaume_nbb_pdf_assets_debt_equity_drop_14pct_pnl_loss_narrow_eta_matrix_l5",
+  "next": "rq_2274"
+}
