@@ -24184,3 +24184,12 @@ Append-only. Each tick adds a short entry.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (last **2120**; next **2130**). Next: rq_2125 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
 
+
+
+## Tick 2125 - 2026-08-25T12:00:00Z - rq_2125 Famifamenne Mechelen (omzet JUMP 12.04m / FTE JUMP 66→122 / Medium)
+
+- Unit: **rq_2125** leftover dual after **rq_2124 Residence Le Castel + concurrent RSW**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took unused leftover **Famifamenne NV** YE2025 (KBO **0475.400.760**; Stationsstraat 102 Mechelen Armonea-seat; **NV/SA** NACE **87.301** / **2 VE**; bestuurder Remy Yves path). Do not redo Le Castel/RSW/Home Sebrechts/Unite Jolimont/'t Buurthuis/Le Bosquet/Strebo/Entraide/Armonea holding.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR12041781** JUMP +151.2% vs YE2024 EUR4793736; bruto **EUR8969927** JUMP +110.47%; pnl **EUR368075** JUMP +135.18%; equity **EUR1172453** JUMP +45.76%; FTE **122** JUMP vs 66; neerlegging **14.07.2026**. Assets/debt Unknown. Medium. Strong KBO. FOI via info@armonea.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.4); entities (+1 nv_famifamenne); foi + draft gap_famifamenne_nbb_pdf_assets_debt_omzet_jump_fte_jump_matrix_l5; rq_2125=done + rq_2126 open; loop_state ticks=2125; raw docs/doge/data/raw/tick2125/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2120**; next **2130**). Next: rq_2126 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
