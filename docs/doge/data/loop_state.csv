@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-08-26T00:20:00Z,rq_2163,2163,no,tick2163 race: WZC Sint-Bernardus De Panne 0432.582.485 Medium (omzet JUMP 8.49m; pnl DROP -50%; FTE 111.6) + concurrent Residentie Ruggeveld; AGB Bornem JR2024; FARO/AIESH/REW YE2024; next rq_2164; next every-10 2170
+main,continuous,hole_fill,2026-08-26T00:40:00Z,rq_2164,2164,no,tick2164 leftover Zorg-Saam ZKJ 0470.673.890 Medium (omzet JUMP 135.9m; pnl DROP -30.6%; equity 91.4m; FTE 1707; 16 VE aanbestedende overheid); AGB Bornem JR2024; FARO/AIESH/REW YE2024; Residentie Oudenburg skipped NACE 55/68; next rq_2165; next every-10 2170; continuous hole_fill

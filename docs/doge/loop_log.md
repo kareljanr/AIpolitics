@@ -24571,3 +24571,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.1); entities (+1); foi + draft; rq_2163=done (race with Ruggeveld) + rq_2164 open; loop_state ticks=2163; raw docs/doge/data/raw/tick2163/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2164 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS).
+
+
+## Tick 2164 - 2026-08-26T00:40:00Z - rq_2164 Zorg-Saam Zusters Kindsheid Jesu (omzet JUMP 135.9m / pnl DROP -30.6% / Medium)
+
+- Unit: **rq_2164** leftover dual after **rq_2163 Ruggeveld / Sint-Bernardus De Panne race**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Skipped Residentie Oudenburg 0450.755.634 (YE2025 omzet 12.9m but NACE **55/68** hospitality-RE, not care). Took unused leftover **Zorg-Saam Zusters Kindsheid Jesu VZW** YE2025 (KBO **0470.673.890**; Onze Lieve Vrouwstraat 23 Gent-Oostakker; **VZW** NACE **87.101/87.301** / **16 VE**; **aanbestedende overheid**). Do not redo Sint-Bernardus/Ruggeveld/Salvator/Boterlaarhof/WZND/Foyer De Lork Geel/OLV Kempen/De Medemens/Emmaus/Famifamenne.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR135893468** JUMP +3.30% vs YE2024 EUR131556260; bruto **EUR133937585** JUMP +2.88%; pnl **EUR2474247** DROP -30.6% vs YE2024 EUR3564566; equity **EUR91404701** JUMP +1.95%; FTE **1707**; neerlegging **23.06.2026**. Assets/debt Unknown. Medium. Strong KBO Actief VZW 16 VE. FOI via zorgsaam@zorg-saam.zkj.be (tel 09 235 28 12).
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.7); entities (+1 vzw_zorg_saam_zusters_kindsheid_jesu); foi + draft gap_zorg_saam_nbb_pdf_assets_debt_pnl_drop_matrix_l5; rq_2164=done + rq_2165 open; loop_state ticks=2164; raw docs/doge/data/raw/tick2164/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2160**; next **2170**). Next: rq_2165 (AGB/FARO-if-YE2025 / AIESH-REW / unused IGS-DSO-WZC-MRS live euros; optional Lork Hoeselt BV empty-omzet).
