@@ -24300,3 +24300,11 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.5); entities (+1 asbl_lesplanade_ath); foi + draft gap_esplanade_ath_nbb_pdf_assets_debt_pnl_loss_flip_merger_corolles_matrix_l5; rq_2136=done + rq_2137 open; loop_state ticks=2136; raw docs/doge/data/raw/tick2136/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2130**; next **2140**). Next: rq_2137 (AGB/FARO-if-YE2025 / AIESH-REW / Les Corolles / Prestige / unused IGS-DSO-WZC-MRS).
+
+## Tick 2137 - 2026-08-25T15:40:00Z - rq_2137 Les Corolles Tournai (omzet JUMP 9.74m / pnl JUMP +10% / overnemer Esplanade+Moisson / Medium)
+
+- Unit: **rq_2137** leftover dual after **rq_2136 l'Esplanade Ath**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**. Took preferred unused leftover **Les Corolles ASBL Tournai** YE2025 (KBO **0440.737.514**; Chaussée de Renaix 192 Tournai; **ASBL** NACE **87.301** / **5 VE**; Actief overnemer **Esplanade 0409.232.013** + **La Moisson 0434.384.014** sinds **31.03.2026**; Groupe La Verte Feuille). Do not redo Esplanade/Les Peupliers/Comte d'Egmont/CIGB Menen/Ten Rozen/L'Orchidée/Care-Support. Deferred live YE2025: Residence Prestige Chaudfontaine 0416.528.391.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR9741365** JUMP +3.79% vs YE2024 EUR9385583; bruto **EUR10263326** JUMP +4.58%; pnl **EUR467552** JUMP +10.11%; equity **EUR9934798** JUMP +3.34%; FTE **140.4**; neerlegging **07.07.2026**. KBO Strong Actief + absorption links. Assets/debt Unknown. Medium. FOI via info@vertefeuille.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 6.2); entities (+1 asbl_les_corolles_tournai); foi + draft gap_les_corolles_nbb_pdf_assets_debt_merger_absorption_esplanade_moisson_matrix_l5; rq_2137=done + rq_2138 open; loop_state ticks=2137; raw docs/doge/data/raw/tick2137/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2130**; next **2140**). Next: rq_2138 (AGB/FARO-if-YE2025 / AIESH-REW / Prestige / unused IGS-DSO-WZC-MRS).
