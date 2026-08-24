@@ -25339,3 +25339,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.50); entities (+1 vzw_vites_leuven); foi + draft gap_vites_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_drop_30pct_fte_jump_matrix_l5; rq_2226=done + rq_2227 open; loop_state ticks=2226; raw docs/doge/raw/tick2226/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2227 (AGB/FARO-if-YE2025 / AIESH-REW / Midwest-or-unused).
+
+
+## Tick 2227 - 2026-08-26T21:05:00Z - rq_2227 Kringwinkel Midwest (omzet JUMP 3.26m / bruto≫omzet ~1.64x / pnl LOSS FLIP -175k / equity DROP / Medium)
+
+- Unit: **rq_2227** leftover dual after **rq_2226 VITeS** (Reset@2225 + ViTeS@2226 races closed preferred stalls). Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; Heropbeuring **CW opaque**. Took deferred FREE leftover **De Kringwinkel Midden-West-Vlaanderen VZW** YE2025 (KBO **0456.349.366**; Noordlaan 77 Roeselare; **Actief** **9 VE**; RSZ NACE **88.993**). Do not redo VITeS/Reset/Den Azalee/Kringwinkel West/Maasland/ZOV/NBSW/Opnieuw&Co/Manus/ACG.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3256446** JUMP +12.51% vs YE2024 EUR2894433; bruto **EUR5340288** JUMP +6.82% (bruto≫omzet ~1.64x); pnl **EUR-174600** LOSS FLIP vs YE2024 profit EUR126222; equity **EUR4249386** DROP -3.95%; FTE **133.2** JUMP vs 122; neerlegging **15.06.2026**. Strong KBO Actief 9 VE. Assets/debt Unknown. Medium. FOI via info@dekringwinkelmidwest.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.40); entities (+1 vzw_kringwinkel_midwest); foi + draft gap_kringwinkel_midwest_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_loss_flip_equity_drop_matrix_l5; rq_2227=done + rq_2228 open; loop_state ticks=2227; raw docs/doge/raw/tick2227/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2220**; next **2230**). Next: rq_2228 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
