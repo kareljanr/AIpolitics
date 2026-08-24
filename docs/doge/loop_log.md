@@ -25438,3 +25438,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.30); entities (+1 vzw_le_rucher_leuze); foi + draft gap_le_rucher_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_loss_flip_eta_matrix_l5; rq_2233=done + rq_2234 open; loop_state ticks=2233; raw docs/doge/raw/tick2233/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2234 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
+
+
+## Tick 2234 - 2026-08-26T23:50:00Z - rq_2234 Ateliers de Tertre (omzet JUMP 10.00m / pnl DROP -97% / bruto≫omzet ~1.31x / Medium)
+
+- Unit: **rq_2234** leftover dual after **rq_2233 Le Rucher**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Gandae still **YE2024**. Took FREE unused Walloon ETA **ASBL Ateliers de Tertre** YE2025 (KBO **0407.799.084**; Rue Olivier Lhoir 97 Saint-Ghislain/Tertre; **Actief** **1 VE**; NACE **88.993**). Do not redo Le Rucher/Travie/SDB/De Vleugels/Kiemkracht stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR9998674** JUMP +13.27% vs YE2024 EUR8827596; bruto **EUR13109077** JUMP +6.85% (bruto≫omzet ~1.31x); pnl **EUR41123** DROP -97.23% vs YE2024 EUR1486084; equity **EUR9639449** DROP -0.42%; FTE **335.9** JUMP vs 327.8; neerlegging **16.06.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@etater.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.50); entities (+1 vzw_ateliers_de_tertre); foi + draft gap_ateliers_tertre_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_drop_97pct_eta_matrix_l5; rq_2234=done + rq_2235 open; loop_state ticks=2234; raw docs/doge/raw/tick2234/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2235 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
