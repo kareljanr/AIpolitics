@@ -25701,3 +25701,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.00); entities (+1 vzw_corelap_mouscron); foi + draft gap_corelap_nbb_pdf_assets_debt_bruto_gt_omzet_2_01x_pnl_drop_eta_matrix_l5; rq_2255=done + rq_2256 open; loop_state ticks=2255; raw docs/doge/raw/tick2255/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2250**; next **2260**). Next: rq_2256 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
+
+
+## Tick 2256 - 2026-08-27T06:10:00Z - rq_2256 Belair Marche-en-Famenne (bruto 3.80m / empty omzet / pnl DROP -72.92% / FTE 83.1 / Medium)
+
+- Unit: **rq_2256** leftover dual after **rq_2255 Corelap**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**; Relais Haute Sambre still **YE2024**. Took named FREE Walloon ETA **Belair ASBL** YE2025 (KBO **0473.806.396**; Aye Rue André Feher 8 Marche-en-Famenne; **Actief** **1 VE**; NACE **88.993** AViQ). Deferred FREE Nekto/Val du Geer/Les Erables. Do not redo Corelap/Cambier/Gaillettes/Hunelle stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **unpublished**; bruto **EUR3799268** JUMP +5.39% vs YE2024 EUR3604864; pnl **EUR30342** DROP -72.92% vs YE2024 EUR112047; equity **EUR1997569** JUMP +1.54%; FTE **83.1**; neerlegging **06.07.2026**. Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@belair-eta144.be.
+- Wrote: sources (+5); budgets (+5); commitments (+1); leaderboard (+1 pi 5.90); entities (+1 vzw_belair_marche); foi + draft gap_belair_nbb_pdf_assets_debt_empty_omzet_pnl_drop_73pct_eta_matrix_l5; rq_2256=done + rq_2257 open; loop_state ticks=2256; raw docs/doge/raw/tick2256/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2250**; next **2260**). Next: rq_2257 (AGB/FARO-if-YE2025 / AIESH-REW / unused Nekto).

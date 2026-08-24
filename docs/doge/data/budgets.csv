@@ -53512,3 +53512,8 @@ bud_corelap_pnl_jr2025_statutory,vzw_corelap_mouscron,2025,571199,571199,571199,
 bud_corelap_equity_jr2025_statutory,vzw_corelap_mouscron,2025,3905323,3905323,3905323,CW statutory eigen_vermogen YE2025,src_corelap_jr2025_cw_en,medium,tick2255; Medium CW; equity JUMP +16.81% vs YE2024 3343291
 bud_corelap_fte_jr2025_statutory,vzw_corelap_mouscron,2025,130.0,130.0,130.0,CW social-balance FTE 130,src_corelap_jr2025_cw_en,medium,tick2255; Medium CW; FTE 130; YE2024 FTE Unknown on CW page; assets/debt Unknown
 bud_corelap_omzet_jr2024_statutory_cmp,vzw_corelap_mouscron,2024,2705695,2705695,2705695,CW statutory omzet YE2024 comparative,src_corelap_jr2025_cw_en,medium,tick2255; YE2024 omzet 2705695 comparative (pre DROP)
+bud_belair_bruto_jr2025_statutory,vzw_belair_marche,2025,3799268,3799268,3799268,CW statutory bruto_marge YE2025,src_belair_jr2025_cw_en,medium,tick2256; Medium CW; bruto JUMP +5.39%; omzet empty (primary envelope)
+bud_belair_pnl_jr2025_statutory,vzw_belair_marche,2025,30342,30342,30342,CW statutory winst/verlies YE2025,src_belair_jr2025_cw_en,medium,tick2256; Medium CW; pnl DROP -72.92% vs YE2024 112047
+bud_belair_equity_jr2025_statutory,vzw_belair_marche,2025,1997569,1997569,1997569,CW statutory eigen_vermogen YE2025,src_belair_jr2025_cw_en,medium,tick2256; Medium CW; equity JUMP +1.54% vs YE2024 1967226
+bud_belair_fte_jr2025_statutory,vzw_belair_marche,2025,83.1,83.1,83.1,CW social-balance FTE 83.1,src_belair_jr2025_cw_en,medium,tick2256; Medium CW; FTE 83.1; YE2024 FTE Unknown on CW page; assets/debt Unknown
+bud_belair_pnl_jr2024_statutory_cmp,vzw_belair_marche,2024,112047,112047,112047,CW statutory winst YE2024 comparative,src_belair_jr2025_cw_en,medium,tick2256; YE2024 pnl 112047 comparative (pre DROP -73%)
