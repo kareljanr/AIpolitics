@@ -25510,3 +25510,12 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.20); entities (+1 vzw_metalgroup_eta_charleroi); foi + draft gap_metalgroup_nbb_pdf_assets_debt_bruto_gt_omzet_2_21x_pnl_drop_69pct_eta_matrix_l5; rq_2238=done + rq_2239 open; loop_state ticks=2238; raw docs/doge/raw/tick2238/.
 - FOI: **ready not sent** (human-gated).
 - NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2239 (AGB/FARO-if-NBB-YE2025 / AIESH-REW / unused).
+
+
+## Tick 2238 - 2026-08-27T01:30:00Z - rq_2238 Manufast-ABP Brussels (bruto 6.25m / bruto≫omzet ~1.87x / pnl LOSS FLIP / equity DROP -27% / Medium)
+
+- Unit: **rq_2238** leftover dual after **rq_2237 EntrAnam**. Prefer NON-stall live: AGB Bornem still **JR2024-only**; FARO still **YE2024**; AIESH still **YE2024**; REW still **YE2024**; Heropbeuring still **CW opaque**. Took FREE unused Brussels ETA **Manufast-ABP ASBL** YE2025 (KBO **0409.118.977**; Chaussée de Gand 1434 Berchem-Sainte-Agathe; **Actief** **1 VE**; NACE **88.993**). Do not redo EntrAnam/Enghien/Entra/Ateliers Tertre stack.
+- Found: Companyweb NL+EN+FR YE2025 - omzet **EUR3337881** JUMP +1.41% vs YE2024 EUR3291617; bruto **EUR6254925** JUMP +4.29% (bruto≫omzet ~1.87x); pnl **EUR-299652** LOSS FLIP vs YE2024 profit EUR949872; equity **EUR1363356** DROP -27.53%; FTE **234.0** DROP vs 248.0; neerlegging **16.07.2026**. Note YE2023 omzet ~7.94m / FTE 357.6 (structural shrink). Strong KBO Actief 1 VE. Assets/debt Unknown. Medium. FOI via info@manufast.be.
+- Wrote: sources (+5); budgets (+6); commitments (+1); leaderboard (+1 pi 6.30); entities (+1 vzw_manufast_abp_brussel); foi + draft gap_manufast_nbb_pdf_assets_debt_bruto_gt_omzet_pnl_loss_flip_eta_matrix_l5; rq_2238=done + rq_2239 open; loop_state ticks=2238; raw docs/doge/raw/tick2238/.
+- FOI: **ready not sent** (human-gated).
+- NOT every-10 (**last every-10 was 2230**; next **2240**). Next: rq_2239 (AGB/FARO-if-YE2025 / AIESH-REW / unused).
