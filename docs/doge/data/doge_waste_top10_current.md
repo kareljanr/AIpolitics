@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2380** (2026-08-24) · **8237** leaderboard rows  
+**As-of:** tick **2390** (2026-08-25) · **8247** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5
@@ -24,15 +24,16 @@
 | 9 | `lb_bcr_annexe2_reporte_wave` | BCR Annexe2 reporté wave systemic 2026 | **300.60 m** | 9.0 | 9.0 | 3 | **8.4** | Strong CoA wave: OAA consol reporté |
 | 10 | `lb_dual_cars_ssc_taxex` | Dual company car CO2 SSC under-collection vs taxex | **278.52 m** | 8.5 | 9.5 | 6 | **8.4** | Strong dual: SSC CO2 278m + cum gap |
 
-**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2371-2380:** **WZC Sint-Vincentius Zulte omzet 6.92m / 73 1.17m / pnl LOSS 0.36m / destin empty** (EVERY-10@2380 Strong PDF) · Floordam 9.63m / pnl DROP 71% · Heropbeuring 12.15m / pnl LOSS · NMSC 28.75m · MKL 45.61m · Pulderbos 16.89m · Inkendaal 43.55m · Sint-Lievenspoort 20.98m · CAR Bolt 2.10m / 1.95m kapitaalsubsidies · Helan HH 115m.
+**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2381-2390:** **LDSST bruto 591k / 73 179k / pnl PROFIT FLIP 99k / destin 59k** (EVERY-10@2390 Strong PDF) · BW Kohesi 1.29m / pnl JUMP 19k · REVA Kohesi 5.96m / pnl DROP 104k · Vijvens 14.42m / pnl LOSS FLIP 325k · H.Hart Oudenaarde 9.56m / pnl LOSS 60k · Sint-Vincentius Zulte 6.92m / pnl LOSS 0.36m · Floordam 9.63m / pnl DROP 71% · Helan HH 115m.
 
-**Change vs tick 2370:** pure annual top10 **stable** (recomputed from live leaderboard 8237 rows; pi>10 excluded; stocks Metro3/OWV filtered). **Major NEW residual 2371-2380:** WZC Sint-Vincentius Zulte EVERY-10 primary + leftover public CAR/hospital/WZC close-out (Impuls→Floordam). Not TE-additive of ~348bn.
+**Change vs tick 2380:** pure annual top10 **stable** (recomputed from live leaderboard 8247 rows; pi>10 excluded; stocks Metro3/OWV filtered). **Major NEW residual 2381-2390:** LDSST EVERY-10 primary + leftover public WZC/CAR/IBW/logopedie close-out (H.Hart→BW Kohesi). Not TE-additive of ~348bn.
 
 ### High-absurdity residual (not pure top10)
 
-- **WZC Sint-Vincentius Zulte** EVERY-10 primary omzet **EUR6.92m** / 73 **EUR1.17m** DROP / pnl LOSS **EUR0.36m** / destin 691 empty / fondsen 13 emptied **EUR672k** / cash JUMP **EUR0.25m +85%** / FTE **88.3** — Zulte Departement Zorg HCO 3762.
-- **Floordam** omzet **EUR9.63m** / 73 **EUR2.10m** DROP / pnl DROP **−71%** / kapitaalsubsidies **EUR3.89m**.
+- **LDSST** EVERY-10 primary bruto **EUR591k** JUMP +30% / 73 **EUR179k** DROP / omzet **EUR36k** commercial-only / pnl PROFIT FLIP **EUR99k** / destin 691 **EUR59k** / assets almost **2x** / FTE **6.9** — Hasselt leftover city_hasselt same-family Kohesi.
+- **Vijvens** omzet **EUR14.42m** / 73 **EUR3.00m** / pnl LOSS FLIP **EUR325k** / kapitaalsubsidies **EUR3.97m**.
+- **REVA Kohesi** omzet **EUR5.96m** / 73 **EUR1.86m** / pnl DROP **EUR104k** / destin **EUR54k**.
+- **H.Hart Oudenaarde** omzet **EUR9.56m** / 73 **EUR1.88m** / pnl LOSS **EUR60k** / kapitaalsubsidies **EUR1.63m**.
 - **MKL / RevArte** omzet **EUR45.61m** / 73 vs 733 gap **EUR4.14m** / kapitaalsubsidies **EUR14.95m**.
 - **Helan Huishoudhulp** omzet **EUR115.15m** / pnl JUMP +690% / FTE **2809**.
 - **Staf Leuven** bruto **EUR5.05m** / ~**68.12x** / pnl PROFIT FLIP.
-- **Adem** bruto **EUR16.86m** / ~**17.53x** / pnl LOSS JUMP.
