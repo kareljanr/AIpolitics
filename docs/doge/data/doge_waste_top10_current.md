@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2400** (2026-08-25) · **8257** leaderboard rows  
+**As-of:** tick **2410** (2026-08-25) · **8267** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5
@@ -24,16 +24,16 @@
 | 9 | `lb_bcr_annexe2_reporte_wave` | BCR Annexe2 reporté wave systemic 2026 | **300.60 m** | 9.0 | 9.0 | 3 | **8.4** | Strong CoA wave: OAA consol reporté |
 | 10 | `lb_dual_cars_ssc_taxex` | Dual company car CO2 SSC under-collection vs taxex | **278.52 m** | 8.5 | 9.5 | 6 | **8.4** | Strong dual: SSC CO2 278m + cum gap |
 
-**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2391-2400:** **ARC bruto 2.49m / omzet+73 empty / pnl JUMP 174k / destin DROP 170k** (EVERY-10@2400 Strong PDF) · Heuvelheem 15.17m / 73 12.22m / pnl FLIP 405k · CAR Halle Asse 2.34m / pnl JUMP 256k · ZWZ 10.69m / pnl DROP 45k · Zonnebloem 4.58m / pnl DROP 183k · CAR Houtland 4.93m / pnl FLIP 34k · LDSST 591k / pnl FLIP 99k · Helan HH 115m.
+**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2401-2410:** **Zonnestraal Junior 73 DROP 200k / omzet empty / bruto -88 / pnl LOSS 294** (EVERY-10@2410 Strong PDF) · Elfenbankje 2.19m / destin 0 · t Eekhoorntje 2.14m / destin 271k · 3Wplus 7.16m / pnl JUMP 551k · De Kade 60.22m / 73 51.29m · ARC 2.49m / destin DROP 170k · Heuvelheem 15.17m / pnl FLIP 405k · Helan HH 115m.
 
-**Change vs tick 2390:** pure annual top10 **stable** (recomputed from live leaderboard 8257 rows; pi>10 excluded; stocks Metro3/OWV filtered). **Major NEW residual 2391-2400:** ARC EVERY-10 primary + leftover public WZC/CAR/VAPH close-out (De Schans→Heuvelheem). Not TE-additive of ~348bn.
+**Change vs tick 2400:** pure annual top10 **stable** (recomputed from live leaderboard 8267 rows; pi>10 excluded; stocks Metro3/OWV filtered). **Major NEW residual 2401-2410:** Zonnestraal Junior EVERY-10 primary + leftover public CAR/CIK close-out (VERBINT→Elfenbankje). Not TE-additive of ~348bn.
 
 ### High-absurdity residual (not pure top10)
 
-- **ARC Antwerpen** EVERY-10 primary bruto **EUR2.49m** FLAT / omzet+73 empty / pnl JUMP **EUR174k** / destin 691 DROP **EUR170k** (was 880k) / cash JUMP **EUR780k** / FTE **30** — leftover city_antwerpen.
+- **Zonnestraal Junior** EVERY-10 primary 73 **EUR200083** DROP / omzet empty / bruto **EUR−88** / pnl LOSS **EUR294** / destin 691 empty / 20 VE vs assets **EUR13118** residual dual vs parent 0413.351.642 — leftover city_sint_niklaas.
+- **3Wplus Kinderopvang** bruto **EUR7.16m** / omzet+73 empty / pnl JUMP **EUR551k** / destin **EUR75k**.
+- **De Kade** opbr **EUR60.22m** / 73 **EUR51.29m** / pnl DROP **EUR8.x**.
+- **Elfenbankje** bruto **EUR2.19m** / omzet+73 empty / pnl DROP **EUR197k** / destin 0 (was 1.00m).
 - **Heuvelheem** opbr **EUR15.17m** / 73 **EUR12.22m** / pnl PROFIT FLIP **EUR405k** / cash DROP **EUR773k**.
 - **Vijvens** omzet **EUR14.42m** / 73 **EUR3.00m** / pnl LOSS FLIP **EUR325k** / kapitaalsubsidies **EUR3.97m**.
-- **ZWZ** omzet **EUR10.69m** / 73 **EUR1.97m** / pnl DROP **EUR45k** / debt JUMP **EUR20.1m**.
-- **MKL / RevArte** omzet **EUR45.61m** / 73 vs 733 gap **EUR4.14m** / kapitaalsubsidies **EUR14.95m**.
 - **Helan Huishoudhulp** omzet **EUR115.15m** / pnl JUMP +690% / FTE **2809**.
-- **Staf Leuven** bruto **EUR5.05m** / ~**68.12x** / pnl PROFIT FLIP.
