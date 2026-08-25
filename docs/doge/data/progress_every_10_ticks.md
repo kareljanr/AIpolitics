@@ -6,34 +6,34 @@
 
 ---
 
-## Snapshot at **tick 2420** (2026-08-25)
+## Snapshot at **tick 2430** (2026-08-25)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
-| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 2411-2420 continuum; AGB Bornem / FARO / AIESH still YE2024 stalls; **WZC De Ruyschaert unlocked YE2025@2420** |
-| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 2411-2420 residual dual L5 (not near-complete of 348bn):** KINDEROPVANG ZONNESTRAAL · Kinderopvang Turnhout · Bengelhof · Buitenschoolse Opvang Ieper · Kinderopvang Mariawende · Denderkind · BKO GENK-OOST · KOS · De Pagadder · EVERY-10 primary **WZC De Ruyschaert omzet JUMP 8.83m / 73 1.68m / opbr 11.21m / pnl FLIP 242k / destin 0** (Strong PDF) |
-| **E. FOI-ready gaps** | **~2104** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2156** |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 2421-2430 continuum; AGB Bornem / FARO / AIESH still YE2024 stalls; **Beregoed unlocked YE2025@2430** |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 2421-2430 residual dual L5 (not near-complete of 348bn):** Quattro · Wintershove · Huize Zonnelied · OLV Gasthuis Poperinge · WZC De Linde Wortegem-Petegem · Kindercentrum · KISME · Duinhuisjes · Windekind · EVERY-10 primary **Beregoed omzet JUMP 2.98m / 73 empty / pnl JUMP 177k / destin 177k** (Strong PDF) |
+| **E. FOI-ready gaps** | **~2114** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2166** |
 
-**Off-TE (do not mix into 348 bn):** federal taxex · company cars/cheque · **AGB/zorg/APB/EVA/IGS dual + WZC/HVZ/VAPH/maatwerk/CAR/logopedie/CIK shells** (**NEW 2411-2420** KINDEROPVANG ZONNESTRAAL · Kinderopvang Turnhout · Bengelhof · Buitenschoolse Opvang Ieper · Kinderopvang Mariawende · Denderkind · BKO GENK-OOST · KOS · De Pagadder · **WZC De Ruyschaert**) · Metro3 · OWV snowball · Hedera.
+**Off-TE (do not mix into 348 bn):** federal taxex · company cars/cheque · **AGB/zorg/APB/EVA/IGS dual + WZC/HVZ/VAPH/maatwerk/CAR/logopedie/CIK shells** (**NEW 2421-2430** Quattro · Wintershove · Huize Zonnelied · OLV Gasthuis Poperinge · WZC De Linde Wortegem-Petegem · Kindercentrum · KISME · Duinhuisjes · Windekind · **Beregoed**) · Metro3 · OWV snowball · Hedera.
 
-### Inventory (tick 2420)
+### Inventory (tick 2430)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | 54814 |
-| commitments.csv | 6157 |
-| leaderboard.csv | 8277 |
-| entities.csv | 2176 |
-| sources.csv | 7249 |
-| FOI ready | 2104 |
+| budgets.csv | 54914 |
+| commitments.csv | 6167 |
+| leaderboard.csv | 8287 |
+| entities.csv | 2186 |
+| sources.csv | 7289 |
+| FOI ready | 2114 |
 | FOI answered | 11 |
 | FOI partial | 28 |
-| FOI total rows | 2156 |
-| research_queue open | rq_2421 after WZC De Ruyschaert EVERY-10 (+ rq_116 deferred Q4) |
+| FOI total rows | 2166 |
+| research_queue open | rq_2431 after Beregoed EVERY-10 (+ rq_116 deferred Q4) |
 
-### What improved since tick 2410 / last file refresh 2410
+### What improved since tick 2420 / last file refresh 2420
 
-- **Residual dual (tick2411-2420):** leftover public CIK/WZC **KINDEROPVANG ZONNESTRAAL / Kinderopvang Turnhout / Bengelhof / Buitenschoolse Opvang Ieper / Kinderopvang Mariawende / Denderkind / BKO GENK-OOST / KOS / De Pagadder** · EVERY-10 primary **WZC De Ruyschaert** (omzet **8.83m** JUMP / 73 **1.68m** / opbr **11.21m** / pnl FLIP **242k** / destin 691 empty / 76A **344k** Marcade-GroenWest one-off / 1 VE Kloosterstraat 25 Marke / Strong official PDF 2026-00183610; leftover city_kortrijk; FOI ready). Named+unnamed Drongen CARs exhausted. Kohesi family CGG+REVA+BW+LDSST+De Schans exhausted. Vriendenkring 0436.787.139 stopgezet. CAR Antenne 3000 still CDN 403. Identity trap: Kloosterstraat 25 Marke ≠ Kloosterstraat 6 Drongen ≠ De Pagadder Kloosterstraat 18 Marke.
-- **Blocked still:** AGB Bornem JR2025 unpublished · FARO YE2024 (HEAD-only 2026-00010398 Last-Modified 21.01.2026) · AIESH YE2024 · Gandae/Aralea/Manupal/Vlotter YE2024 · Zeepreventorium YE2024 · De Bolster YE2024 · CAR Overleie YE2024 · CAR Antenne 3000 CDN 403 · AZ Sint-Maria 2026-00299006 CDN 403 · Quattro 0555.667.072 deposit not HEADed.
+- **Residual dual (tick2421-2430):** leftover public CIK/WZC **Quattro / Wintershove / Huize Zonnelied / OLV Gasthuis Poperinge / WZC De Linde Wortegem-Petegem / Kindercentrum / KISME / Duinhuisjes / Windekind** · EVERY-10 primary **Beregoed** (omzet **2.98m** JUMP / 73 empty / bruto **2.66m** / pnl JUMP **177k** / destin 691 **177k** / 76A **11k** / 3 VE Michel Thieryhof 10 Gent + De Bereboom + t Berenest Aalter / Strong official PDF 2026-00295160; leftover city_gent; FOI ready). Named+unnamed Drongen CARs exhausted. Kohesi family CGG+REVA+BW+LDSST+De Schans exhausted. Quattro WZC members exhausted except already-in-entities St Jozef Zonnebeke / Sint-Vincentius Avelgem. Vriendenkring 0436.787.139 stopgezet. t Bremhuisje 0445.265.533 stopgezet 07.10.1993. CAR Antenne 3000 still CDN 403. AZ Sint-Maria still CDN 403. Identity trap: Windekind 0431.806.386 ≠ Beregoed 0447.515.042 ≠ Elfenbankje 0417.638.151; De Bereboom / t Berenest = same KBO not separate city_aalter leftover.
+- **Blocked still:** AGB Bornem JR2025 unpublished · FARO YE2024 (HEAD-only 2026-00010398 Last-Modified 21.01.2026) · AIESH YE2024 · Gandae/Aralea/Manupal/Vlotter YE2024 · Zeepreventorium YE2024 · De Bolster YE2024 · CAR Overleie YE2024 · CAR Antenne 3000 CDN 403 · AZ Sint-Maria 2026-00299006 CDN 403 · CAR Noorderkempen scan · De Linde Ronse YE2024 · Kinderlach YE2024 · Jeugdhulp Don Bosco YE2024 · Vormingscentrum training not taken · Helan Kinderopvang Helan-HH-adjacent not taken.
