@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2490** (2026-08-25) · **8347** leaderboard rows  
+**As-of:** tick **2500** (2026-08-26) · **8357** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5
@@ -24,19 +24,20 @@
 | 9 | `lb_bcr_annexe2_reporte_wave` | BCR Annexe2 reporté wave systemic 2026 | **300.60 m** | 9.0 | 9.0 | 3 | **8.4** | Strong CoA wave: OAA consol reporté |
 | 10 | `lb_dual_cars_ssc_taxex` | Dual company car CO2 SSC under-collection vs taxex | **278.52 m** | 8.5 | 9.5 | 6 | **8.4** | Strong dual: SSC CO2 278m + cum gap |
 
-**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2481-2490:** **De Sperwer bruto JUMP 3.65m / omzet+73 empty VKT / pnl DROP 132k / destin 132k** (EVERY-10@2490 Strong PDF) · Alderande 3.74m / 73 JUMP 3.18m / pnl DROP 70k · De Kapoentjes 808k / cash JUMP 171k · De Zonnewende 10.71m / pnl DROP 849k · Huize De Veuster 4.16m / pnl FLIP 475k · Grijkoort Begeleid Werk 574k / pnl FLIP LOSS 28k · Grijkoort-Werkplaats 2.20m / pnl IMPROVED LOSS 63k · Nektari 35.76m / 73 JUMP 20.15m · Reva Ter Linde 1.53m / capex 2.88m · De Hagewinde 26.39m / pnl FLIP LOSS 550k.
+**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2491-2500:** **De Luifel 70/76A JUMP 1.78m / 73 JUMP 1.71m / pnl DROP 20k / cash JUMP 536k** (EVERY-10@2500 Strong PDF) · Ten Dries 9.39m / 73 JUMP 8.65m / pnl DROP 106k · Meredal 8.22m / 73 DROP 1.09m / pnl DROP 185k · Pegode 18.11m / 73 JUMP 15.32m / pnl JUMP 630k · Vierklaver 13.91m / 73 JUMP 11.51m / destin JUMP 350k · Trento 13.43m / 73 JUMP 3.05m / destin JUMP 230k · Avondzon 11.74m / 73 DROP 2.19m / pnl FLIP LOSS 54k · Doppa 2.54m / pnl FLIP LOSS 106k · 3WPLUS WERK 2.63m / pnl FLIP 49k · Hopperank 1.38m / 73 DROP 1.46m / pnl DROP 44k.
 
-**Change vs tick 2480:** pure annual top10 **stable** (recomputed from live leaderboard 8347 rows; pi>10 excluded; stocks Metro3/OWV filtered). **Major NEW residual 2481-2490:** De Sperwer EVERY-10 primary + leftover public VAPH/CAR/maatwerk/WZC/CIK close-out (Hagewinde→Alderande). Not TE-additive of ~348bn.
+**Change vs tick 2490:** pure annual top10 **stable** (recomputed from live leaderboard 8357 rows; pi>10 excluded; stocks Metro3/OWV filtered). **Major NEW residual 2491-2500:** De Luifel EVERY-10 primary + leftover public VAPH/maatwerk/WZC close-out (Hopperank→Ten Dries). Not TE-additive of ~348bn.
 
 ### High-absurdity residual (not pure top10)
 
-- **De Sperwer** EVERY-10 primary bruto **EUR3648803** JUMP / omzet+73 empty VKT / pnl DROP **EUR132424** / destin 691 **EUR132424** / 66A JUMP **EUR81914** vs prior pnl 244661 / 3 VE vs assets **EUR4103906** leftover city_lokeren maatwerk.
-- **Alderande** 70/76A JUMP **EUR3743789** / omzet commercial vs 73 JUMP **EUR3183043** / pnl DROP **EUR303348** / destin 691 **EUR303348** leftover city_lokeren VAPH.
-- **De Zonnewende** omzet JUMP **EUR10713499** / 73 **EUR2015382** / pnl DROP **EUR848516** / cash JUMP **EUR3558410** leftover city_tielt WZC.
-- **Huize De Veuster** 70/76A JUMP **EUR4162334** / omzet commercial vs 73 JUMP **EUR3327899** / pnl FLIP **EUR474611** leftover city_tremelo VAPH.
-- **De Hagewinde** 70/76A JUMP **EUR26389520** / omzet commercial vs 73 JUMP **EUR24730647** / pnl FLIP LOSS **EUR549643** / 66B **EUR1204372** leftover city_lokeren VAPH.
-- **Nektari** 70/76A JUMP **EUR35757169** / omzet commercial vs 73 JUMP **EUR20146273** / pnl DROP **EUR97311** / capex **EUR5339046** leftover city_puurs_sint_amands maatwerk.
-- **Grijkoort-Werkplaats** omzet JUMP **EUR2196591** / 73 JUMP **EUR2136864** / pnl IMPROVED LOSS **EUR63323** leftover city_ronse maatwerk.
-- **Reva Ter Linde** bruto JUMP **EUR1531992** / omzet+73 empty VKT / pnl DROP **EUR52313** / capex **EUR2880195** leftover city_bornem CAR.
-- **De Kapoentjes** bruto JUMP **EUR808125** / omzet+73 empty VKT / cash JUMP **EUR171212** leftover city_halle CIK.
-- **Begeleid Wonen Pajottenland** bruto **EUR3314484** JUMP / omzet+73 empty VKT / pnl DROP **EUR7364** leftover city_dilbeek VAPH (EVERY-10@2480).
+- **De Luifel** EVERY-10 primary 70/76A **EUR1782588** JUMP / 73 JUMP **EUR1711321** / pnl DROP **EUR19557** / cash JUMP **EUR535798** / 2 VE vs assets **EUR1561492** leftover city_tielt VAPH.
+- **Ten Dries** 70/76A JUMP **EUR9392001** / omzet commercial vs 73 JUMP **EUR8648576** / pnl DROP **EUR106116** leftover city_deinze VAPH/MFC.
+- **Meredal** omzet **EUR8219k-class** / 73 DROP / pnl DROP leftover city_erpe_mere WZC.
+- **Pegode** 70/76A JUMP **EUR18.11m-class** / 73 JUMP / pnl JUMP leftover city_kontich VAPH.
+- **Vierklaver** 70/76A JUMP **EUR13.91m-class** / 73 JUMP leftover city_deinze VAPH.
+- **Trento** omzet JUMP leftover city_hamme WZC.
+- **Avondzon** omzet JUMP / pnl FLIP LOSS leftover city_erpe_mere WZC.
+- **Doppa** bruto JUMP / pnl FLIP LOSS leftover city_zoersel VAPH.
+- **3WPLUS WERK** bruto JUMP / pnl FLIP leftover city_asse maatwerk.
+- **Hopperank** bruto JUMP / 73 DROP leftover city_asse VAPH.
+- **De Sperwer** EVERY-10@2490 bruto **EUR3648803** JUMP / omzet+73 empty VKT / pnl DROP **EUR132424** leftover city_lokeren maatwerk.
