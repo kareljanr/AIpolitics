@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2500** (2026-08-26) · **8357** leaderboard rows  
+**As-of:** tick **2510** (2026-08-27) · **8367** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5
@@ -24,20 +24,21 @@
 | 9 | `lb_bcr_annexe2_reporte_wave` | BCR Annexe2 reporté wave systemic 2026 | **300.60 m** | 9.0 | 9.0 | 3 | **8.4** | Strong CoA wave: OAA consol reporté |
 | 10 | `lb_dual_cars_ssc_taxex` | Dual company car CO2 SSC under-collection vs taxex | **278.52 m** | 8.5 | 9.5 | 6 | **8.4** | Strong dual: SSC CO2 278m + cum gap |
 
-**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2491-2500:** **De Luifel 70/76A JUMP 1.78m / 73 JUMP 1.71m / pnl DROP 20k / cash JUMP 536k** (EVERY-10@2500 Strong PDF) · Ten Dries 9.39m / 73 JUMP 8.65m / pnl DROP 106k · Meredal 8.22m / 73 DROP 1.09m / pnl DROP 185k · Pegode 18.11m / 73 JUMP 15.32m / pnl JUMP 630k · Vierklaver 13.91m / 73 JUMP 11.51m / destin JUMP 350k · Trento 13.43m / 73 JUMP 3.05m / destin JUMP 230k · Avondzon 11.74m / 73 DROP 2.19m / pnl FLIP LOSS 54k · Doppa 2.54m / pnl FLIP LOSS 106k · 3WPLUS WERK 2.63m / pnl FLIP 49k · Hopperank 1.38m / 73 DROP 1.46m / pnl DROP 44k.
+**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2501-2510:** **Den Diepen Boomgaard bruto JUMP 1.85m / omzet73 empty / pnl DEEPER LOSS 395k / cash DROP 81k** (EVERY-10@2510 Strong PDF) · Kribbe Kinderpret bruto JUMP 1.68m / omzet73 empty / cash JUMP 715k / pnl JUMP 164k · De Dagmoed bruto JUMP 3.93m / omzet73 empty / cash DROP 329k · Capelderij leftover city_buggenhout leftover VAPH · Fiola leftover city_wetteren leftover CIK · Sint-Lodewijk Wetteren leftover city_wetteren VAPH · Hunnegem leftover city_herzele WZC · Avalon leftover city_buggenhout VAPH · Sint-Jozef leftover city_wetteren CIK · SAMEN leftover city_tielt WZC.
 
-**Change vs tick 2490:** pure annual top10 **stable** (recomputed from live leaderboard 8357 rows; pi>10 excluded; stocks Metro3/OWV filtered). **Major NEW residual 2491-2500:** De Luifel EVERY-10 primary + leftover public VAPH/maatwerk/WZC close-out (Hopperank→Ten Dries). Not TE-additive of ~348bn.
+**Change vs tick 2500:** pure annual top10 **stable** (recomputed from live leaderboard 8367 rows; pi>10 excluded; stocks Metro3/OWV filtered). **Major NEW residual 2501-2510:** Den Diepen Boomgaard EVERY-10 primary + leftover public WZC/VAPH/CIK/maatwerk close-out (SAMEN→Kinderpret). Not TE-additive of ~348bn.
 
 ### High-absurdity residual (not pure top10)
 
-- **De Luifel** EVERY-10 primary 70/76A **EUR1782588** JUMP / 73 JUMP **EUR1711321** / pnl DROP **EUR19557** / cash JUMP **EUR535798** / 2 VE vs assets **EUR1561492** leftover city_tielt VAPH.
-- **Ten Dries** 70/76A JUMP **EUR9392001** / omzet commercial vs 73 JUMP **EUR8648576** / pnl DROP **EUR106116** leftover city_deinze VAPH/MFC.
-- **Meredal** omzet **EUR8219k-class** / 73 DROP / pnl DROP leftover city_erpe_mere WZC.
-- **Pegode** 70/76A JUMP **EUR18.11m-class** / 73 JUMP / pnl JUMP leftover city_kontich VAPH.
-- **Vierklaver** 70/76A JUMP **EUR13.91m-class** / 73 JUMP leftover city_deinze VAPH.
-- **Trento** omzet JUMP leftover city_hamme WZC.
-- **Avondzon** omzet JUMP / pnl FLIP LOSS leftover city_erpe_mere WZC.
-- **Doppa** bruto JUMP / pnl FLIP LOSS leftover city_zoersel VAPH.
-- **3WPLUS WERK** bruto JUMP / pnl FLIP leftover city_asse maatwerk.
-- **Hopperank** bruto JUMP / 73 DROP leftover city_asse VAPH.
-- **De Sperwer** EVERY-10@2490 bruto **EUR3648803** JUMP / omzet+73 empty VKT / pnl DROP **EUR132424** leftover city_lokeren maatwerk.
+- **Den Diepen Boomgaard** EVERY-10 primary bruto **EUR1847578** JUMP / omzet73 empty / pnl DEEPER LOSS **EUR395094** / cash DROP **EUR121016** / 1 VE vs assets **EUR4732148** leftover city_grimbergen leftover maatwerk.
+- **Kribbe Kinderpret** bruto JUMP **EUR1681501** / omzet73 empty / cash JUMP **EUR714672** / pnl JUMP **EUR163831** leftover city_asse leftover CIK.
+- **De Dagmoed** bruto JUMP **EUR3928555** / omzet73 empty / cash DROP **EUR397386** leftover city_geraardsbergen leftover maatwerk.
+- **De Luifel** EVERY-10@2500 70/76A **EUR1782588** JUMP / 73 JUMP **EUR1711321** / pnl DROP **EUR19557** leftover city_tielt VAPH.
+- **De Sperwer** EVERY-10@2490 bruto **EUR3648803** JUMP / omzet+73 empty VKT leftover city_lokeren maatwerk.
+- **Capelderij** leftover city_buggenhout leftover VAPH/MFC.
+- **Fiola** leftover city_wetteren leftover CIK.
+- **Sint-Lodewijk Wetteren** leftover city_wetteren VAPH.
+- **Hunnegem** leftover city_herzele WZC.
+- **Avalon** leftover city_buggenhout VAPH.
+- **SAMEN** leftover city_tielt WZC.
+
