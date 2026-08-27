@@ -28296,3 +28296,11 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB MIC-VZW native PDF deposit **2026-00317818** (34977 B / 8p; AV **28.06.2026**; header **22/07/2026**; CDN GET **200** 34977 OpenPDF 1.3.26 MD5 02fead2e68d2faa0370e1fe0ef97b547; NBB UUID 881dc344-860b-11f1-b284-3baacb2f7291) — bruto 9900 **EUR8964** DROP −32.90% (was 13360); omzet 70 **EUR17185** DROP −25.47% (was 23059); 73 **EUR2322** JUMP (was empty); 76A **EUR216** JUMP; bedrijfswinst 9901 **EUR2822** DROP −45.70%; pnl 9904 **EUR2750** DROP −46.39%; equity **EUR23262** JUMP +112.32%; assets **EUR39124** JUMP +209.97%; debt **EUR15863** JUMP +852.16%; cash **EUR12686** JUMP +189.44%; kapitaalsubsidies **EUR9556** JUMP from empty; 62 **EUR289** DROP −95.63%; 630 **EUR5580** JUMP; MVA **EUR19432** JUMP; capex **EUR21649**; FTE n/a MIC. Strong KBO + Strong PDF.
 - Wrote: sources +4; budgets +11; commitments +1; leaderboard +1; entities +1; FOI **gap_de_plek_rotselaar_vaph_matrix_bruto_drop_8964_omzet_drop_17185_73_jump_2322_cash_jump_12686_l5** prio7 ready + draft; raw PDF docs/doge/raw/tick2541/; rq_2541=done; spawn **rq_2542**; ticks=2541.
 - Next: **rq_2542** leftover dual (NOT every-10; next every-10 **2550**).
+
+## Tick 2542 — 2026-08-27T16:19:28Z — rq_2542 leftover dual Bindkracht Landen YE2025
+
+- Unit: **rq_2542** leftover dual after **De Plek@2541**. Prefer NON-stall leftover VAPH of leftover-mined AGB-only Flanders city with official YE2025 native PDF.
+- FIRST LOCK leftover city_landen leftover VAPH **Bindkracht 0537.681.589**. Unused + official KBO zetel Sonvalwijk 24 **3401 Landen** + native YE2025 PDF. Took FREE leftover Flemish **VZW Bindkracht** YE2025 (1 VE **2.379.889.654**; RSZ2025 **87.202**; FOI info@vzwbindkracht.be). MIC-VZW native 41725 B / 11p.
+- Found: deposit **2026-00108497** — bruto **EUR209021** DROP −20.29%; omzet70 **EUR8016** JUMP; 73 **EUR103185** DROP −56.60%; pnl **EUR167753** DROP; equity **EUR2241785** JUMP; assets **EUR2267762** JUMP; cash **EUR519524** DROP; Strong KBO + Strong PDF.
+- Wrote: sources +4; budgets +11; commitments +1; leaderboard +1; entities +1; FOI ready +1; rq_2542=done; spawn **rq_2543**; ticks=2542.
+- Next: **rq_2543** leftover dual (NOT every-10; next every-10 **2550**).
