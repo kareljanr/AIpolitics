@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2540** (2026-08-27) · **8396** leaderboard rows  
+**As-of:** tick **2550** (2026-08-27) · **8406** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5
@@ -24,19 +24,20 @@
 | 9 | `lb_bcr_annexe2_reporte_wave` | BCR Annexe2 reporté wave systemic 2026 | **300.60 m** | 9.0 | 9.0 | 3 | **8.4** | Strong CoA wave: OAA consol reporté |
 | 10 | `lb_dual_cars_ssc_taxex` | Dual company car CO2 SSC under-collection vs taxex | **278.52 m** | 8.5 | 9.5 | 6 | **8.4** | Strong dual: SSC CO2 278m + cum gap |
 
-**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2531-2540:** **Martine Van Camp Diest 70/76A JUMP 12.92m / 73 JUMP 10.99m / cash JUMP 1.24m** (EVERY-10@2540 Strong PDF) · NLOA leftover city_pelt leftover maatwerk · SBM leftover city_maasmechelen leftover maatwerk · t rad leftover city_oostkamp leftover maatwerk FOI · Ter Luchte leftover city_oostkamp leftover WZC · Annendael leftover city_diest leftover WZC · De Meerpaal leftover city_willebroek leftover VAPH · Sint-Jozef Deinze leftover city_deinze leftover WZC · Seniorplaza leftover city_willebroek leftover WZC · Capenberg leftover city_boechout leftover WZC · Consolata Zaventem leftover city_zaventem leftover WZC EVERY-10@2530.
+**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2541-2550:** **Wagenschot Nazareth-De Pinte 70/76A JUMP 14.53m / 73 JUMP 14.17m / 9901 FLIP PROFIT 272k / cash DROP 617k** (EVERY-10@2550 Strong PDF) · Nederheem leftover city_tongeren_borgloon leftover VAPH · OTL leftover city_herent leftover VAPH · Inspirant leftover city_koksijde leftover VAPH · Wiric leftover city_sint_truiden leftover VAPH · De Kompanie leftover city_mortsel leftover VAPH · Ritmica leftover city_hove leftover VAPH · Iona leftover city_nijlen leftover VAPH · Bindkracht leftover city_landen leftover VAPH · De Plek leftover city_rotselaar leftover VAPH · Martine Van Camp Diest leftover city_diest leftover VAPH EVERY-10@2540.
 
-**Change vs tick 2530:** pure annual top10 **stable** (recomputed from live leaderboard 8396 rows; pi>10 excluded; stocks Metro3/OWV filtered; top10_changed False). **Major NEW residual 2531-2540:** Martine Van Camp Diest EVERY-10 primary + leftover public WZC/VAPH/maatwerk close-out (Capenberg→NLOA). Not TE-additive of ~348bn.
+**Change vs tick 2540:** pure annual top10 **stable** (recomputed from live leaderboard 8406 rows; pi>10 excluded; stocks Metro3/OWV filtered; top10_changed False). **Major NEW residual 2541-2550:** Wagenschot Nazareth-De Pinte EVERY-10 primary + leftover public VAPH continuum (De Plek→Nederheem). Not TE-additive of ~348bn.
 
 ### High-absurdity residual (not pure top10)
 
-- **Martine Van Camp Diest** EVERY-10 primary 70/76A **EUR12918434** JUMP / 73 JUMP **EUR10986567** / cash JUMP **EUR1240159** / 9901 DROP **EUR708808** / 1 VE vs assets **EUR17282003** leftover city_diest leftover VAPH.
-- **NLOA** bruto JUMP **EUR2492647** / 9901 DROP **EUR204001** / cash JUMP **EUR831185** leftover city_pelt leftover maatwerk.
-- **SBM** bruto DROP **EUR2414981** / 9901 DROP **EUR142905** / cash JUMP **EUR1761744** leftover city_maasmechelen leftover maatwerk.
-- **Annendael** omzet70 JUMP **EUR36063571** / 73 JUMP **EUR5994527** / pnl FLIP **EUR−451172** leftover city_diest leftover WZC.
-- **De Meerpaal** bruto JUMP **EUR3496689** leftover city_willebroek leftover VAPH.
-- **Sint-Jozef Deinze** omzet70 JUMP **EUR9471817** leftover city_deinze leftover WZC.
-- **Seniorplaza** omzet70 JUMP **EUR5279368** leftover city_willebroek leftover WZC.
-- **Capenberg** omzet70 **EUR6320109** leftover city_boechout leftover WZC.
-- **Consolata Zaventem** EVERY-10@2530 omzet70 **EUR8969085** leftover city_zaventem leftover WZC.
-- **Ter Luchte** omzet70 JUMP **EUR6149223** leftover city_oostkamp leftover WZC.
+- **Wagenschot Nazareth-De Pinte** EVERY-10 primary 70/76A **EUR14532585** JUMP / 73 JUMP **EUR14167695** / 9901 FLIP PROFIT **EUR272407** / cash DROP **EUR832350** / 2 VE vs assets **EUR11120506** leftover city_nazareth_depinte leftover VAPH.
+- **Inspirant** envelope 70/76A JUMP **EUR28059008** / 73 JUMP **EUR25490225** leftover city_koksijde leftover VAPH.
+- **Wiric** envelope 70/76A JUMP **EUR8013377** leftover city_sint_truiden leftover VAPH.
+- **Ritmica** envelope 70/76A JUMP **EUR5420432** leftover city_hove leftover VAPH.
+- **Nederheem** envelope 70/76A JUMP **EUR3982274** leftover city_tongeren_borgloon leftover VAPH.
+- **Iona** bruto JUMP **EUR5573753** leftover city_nijlen leftover VAPH.
+- **De Kompanie** bruto JUMP **EUR1861911** leftover city_mortsel leftover VAPH.
+- **OTL Herent** bruto JUMP **EUR1131225** / 9901 FLIP LOSS leftover city_herent leftover VAPH.
+- **Martine Van Camp Diest** EVERY-10@2540 70/76A **EUR12918434** JUMP leftover city_diest leftover VAPH.
+- **Bindkracht** bruto DROP **EUR209021** leftover city_landen leftover VAPH.
+- **De Plek** bruto DROP **EUR8964** leftover city_rotselaar leftover VAPH.
