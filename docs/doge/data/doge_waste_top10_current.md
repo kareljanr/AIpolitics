@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2520** (2026-08-27) · **8377** leaderboard rows  
+**As-of:** tick **2530** (2026-08-27) · **8387** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5
@@ -24,20 +24,19 @@
 | 9 | `lb_bcr_annexe2_reporte_wave` | BCR Annexe2 reporté wave systemic 2026 | **300.60 m** | 9.0 | 9.0 | 3 | **8.4** | Strong CoA wave: OAA consol reporté |
 | 10 | `lb_dual_cars_ssc_taxex` | Dual company car CO2 SSC under-collection vs taxex | **278.52 m** | 8.5 | 9.5 | 6 | **8.4** | Strong dual: SSC CO2 278m + cum gap |
 
-**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2511-2520:** **Reva Tersig bruto DROP 3.12m / omzet73 empty / pnl FLIP 454k loss / cash DROP 163k** (EVERY-10@2520 Strong PDF) · Ter Kempen bruto JUMP 3.19m / omzet73 empty / pnl empty / cash DROP 55k leftover city_meerhout leftover WZC · De Schommel leftover city_scherpenheuvel_zichem leftover CIK · Huize Levensruimte leftover city_scherpenheuvel_zichem leftover VAPH · Huyze Honighsdries leftover city_scherpenheuvel_zichem leftover WZC · De Vlaspit leftover city_scherpenheuvel_zichem leftover maatwerk · Sint-Elisabeth leftover city_zottegem leftover CIK · De Hoop leftover city_zottegem leftover VAPH · De Bron leftover city_zottegem leftover WZC · Den Bogaet leftover city_grimbergen leftover WZC.
+**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2521-2530:** **Consolata Zaventem omzet JUMP 8.97m / 9901 FLIP 86k / pnl JUMP -109k / equity DROP 7.53m** (EVERY-10@2530 Strong PDF) · Consolata Putte omzet JUMP 5.61m / 73 DROP 885k / pnl DROP 219k leftover city_putte leftover WZC · Gerkenberg leftover city_bree leftover WZC · Talander leftover city_arendonk leftover VAPH · WZGA leftover city_arendonk leftover WZC · Het Laar leftover city_wingene leftover WZC · De Eglantier leftover city_bertem leftover VAPH · Sint-Bernardus leftover city_bertem leftover WZC · Aalmoezenier Cuypers leftover city_stabroek leftover WZC · Den Anker leftover city_wichelen leftover WZC · Reva Tersig leftover city_lebbeke leftover WZC.
 
-**Change vs tick 2510:** pure annual top10 **stable** (recomputed from live leaderboard 8377 rows; pi>10 excluded; stocks Metro3/OWV filtered; top10_changed False). **Major NEW residual 2511-2520:** Reva Tersig EVERY-10 primary + leftover public WZC/VAPH/CIK/maatwerk close-out (Den Bogaet→Ter Kempen). Not TE-additive of ~348bn.
+**Change vs tick 2520:** pure annual top10 **stable** (recomputed from live leaderboard 8387 rows; pi>10 excluded; stocks Metro3/OWV filtered; top10_changed False). **Major NEW residual 2521-2530:** Consolata Zaventem EVERY-10 primary + leftover public WZC/VAPH close-out (Den Anker→Consolata Putte). Not TE-additive of ~348bn.
 
 ### High-absurdity residual (not pure top10)
 
-- **Reva Tersig** EVERY-10 primary bruto **EUR3117153** DROP / omzet73 empty / pnl FLIP **EUR−454073** / cash DROP **EUR162617** / 1 VE vs assets **EUR2483710** leftover city_lebbeke leftover WZC.
-- **Ter Kempen** bruto JUMP **EUR3190771** / omzet73 empty / pnl empty / cash DROP **EUR55356** leftover city_meerhout leftover WZC.
-- **De Schommel** leftover city_scherpenheuvel_zichem leftover CIK.
-- **Huize Levensruimte** leftover city_scherpenheuvel_zichem leftover VAPH.
-- **Huyze Honighsdries** leftover city_scherpenheuvel_zichem leftover WZC.
-- **De Vlaspit** leftover city_scherpenheuvel_zichem leftover maatwerk.
-- **Den Diepen Boomgaard** EVERY-10@2510 bruto **EUR1847578** JUMP / omzet73 empty / pnl DEEPER LOSS **EUR395094** leftover city_grimbergen leftover maatwerk.
-- **Kribbe Kinderpret** leftover city_asse leftover CIK.
-- **De Dagmoed** leftover city_geraardsbergen leftover maatwerk.
-- **Den Bogaet** leftover city_grimbergen leftover WZC.
-
+- **Consolata Zaventem** EVERY-10 primary omzet70 **EUR8969085** JUMP / 9901 FLIP **EUR86348** / pnl JUMP **EUR−109012** / equity DROP **EUR7528775** / 1 VE vs assets **EUR20506369** leftover city_zaventem leftover WZC.
+- **Consolata Putte** omzet70 JUMP **EUR5613114** / 73 DROP **EUR885137** / pnl DROP **EUR218658** leftover city_putte leftover WZC.
+- **Gerkenberg** leftover city_bree leftover WZC.
+- **Talander** leftover city_arendonk leftover VAPH.
+- **WZGA** leftover city_arendonk leftover WZC.
+- **Het Laar** leftover city_wingene leftover WZC.
+- **De Eglantier** leftover city_bertem leftover VAPH.
+- **Sint-Bernardus Bertem** leftover city_bertem leftover WZC.
+- **Reva Tersig** EVERY-10@2520 bruto **EUR3117153** DROP / omzet73 empty / pnl FLIP **EUR−454073** leftover city_lebbeke leftover WZC.
+- **Ter Kempen** leftover city_meerhout leftover WZC.
