@@ -1,0 +1,13 @@
+aalter|9880|Aalter|Aalternatief|Sint-Maria-Aalterstraat 76|/organisaties/adressen/aalternatief-0
+aarschot|3200|Aarschot|Apojo|Langdorpsesteenweg 2|/organisaties/adressen/apojo
+berlaar|2590|Berlaar|Casa Di Colore|Legrellestraat 45|/organisaties/adressen/casa-di-colore-0
+herk_de_stad|3540|Schulen|De Beerbos|Beerbosstraat 14|/organisaties/adressen/de-beerbos-0
+kinrooi|3640|Kinrooi|Dino's groenezorg|Eygenweg 1|/organisaties/adressen/dinos-groenezorg-0
+zwevegem|8550|Zwevegem|Groep Ubuntu|Blokkestraat 29|/organisaties/adressen/groep-ubuntu
+herselt|2230|Herselt|Het Ollemanshoekje|Westerlosesteenweg 82|/organisaties/adressen/het-ollemanshoekje-0
+herk_de_stad|3540|Herk-De-Stad|Jessa Ziekenhuis - Campus St-Ursula Revalidatiecentrum|Diestsesteenweg 8|/organisaties/adressen/jessa-ziekenhuis-campus-st-ursula-revalidatiecentrum
+oud_turnhout|2360|Oud-Turnhout|Liereman groenezorg|Schuurhovenberg 43|/organisaties/adressen/liereman-groenezorg-0
+aalter|9910|Aalter|LiVia'S Zorgboerderij|Oude Brugseweg 1|/organisaties/adressen/livias-zorgboerderij-0
+temse|9140|Temse|Paard &amp; Insight|Molenstraat 100|/organisaties/adressen/paard-insight-0
+berlaar|2590|Berlaar|VillaVip Berlaar|Pastorijstraat 9|/organisaties/adressen/villavip-berlaar-0
+herselt|2230|Herselt|VZW Plus &amp; Co|Dries /|/organisaties/adressen/vzw-plus-co-0
