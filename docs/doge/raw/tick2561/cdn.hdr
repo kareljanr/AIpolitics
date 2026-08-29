@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Date: Sat, 29 Aug 2026 04:52:29 GMT
+Server: UploadServer
+Content-Type: application/pdf
+X-GUploader-UploadID: AJjja9Yrgk9JE9bbzLxrwDO35m1fPF6j1XKAD8s9GnKI_Js3_AIAyuBBpLZ48y0_fiZ0cqzWkvS2N5M
+Cache-Control: must-revalidate
+Expires: Sun, 29 Aug 2027 04:52:29 GMT
+Last-Modified: Sun, 07 Jun 2026 03:03:05 GMT
+ETag: "fbf19ae918b2628812847dd4867cde70"
+x-goog-generation: 1780801385857055
+x-goog-metageneration: 1
+x-goog-stored-content-encoding: identity
+x-goog-stored-content-length: 44840
+x-goog-hash: crc32c=yUOLiA==
+x-goog-hash: md5=+/Ga6RiyYogShH3UhnzecA==
+x-goog-storage-class: STANDARD
+Accept-Ranges: bytes
+Content-Length: 44840
+Connection: keep-alive
+
