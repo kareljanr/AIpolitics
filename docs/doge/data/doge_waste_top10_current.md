@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2550** (2026-08-27) · **8406** leaderboard rows  
+**As-of:** tick **2560** (2026-08-29) · **8416** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5
@@ -18,26 +18,21 @@
 | 3 | `lb_fed_fossil_accises_10_5bn` | Fossil accise rate gaps+exemptions 10.5bn 2022 | **10.54 bn** | 8 | 9.5 | 6 | **8.5** | Strong: 10536m of 13268m direct; gas pro |
 | 4 | `lb_company_cars_fpb` | Company cars TE package FPB ~4.7-5.2bn | **4.70 bn** | 8.5 | 9.5 | 7 | **8.5** | FPB 2025 strong: 4.7bn rising to 5.2bn |
 | 5 | `lb_exc_heatoil` | Excise preference: heating gas oil (low sulfur) | **1.84 bn** | 8 | 9.5 | 6 | **8.43** | FFS bench1 total 1836.4m 2024 (lowS) |
-| 6 | `lb_cheque_economy` | Cheque economy meal vouchers (para)fiscal + restricted | **1.07 bn** | 8.5 | 9.5 | 8 | **8.4** | CoA 2024 private parafiscal 1.07bn strong |
+| 6 | `lb_cheque_economy` | Cheque economy meal vouchers (para)fiscal + restricted scrip | **1.07 bn** | 8.5 | 9.5 | 8 | **8.4** | CoA 2024 private parafiscal 1.07bn strong |
 | 7 | `lb_co2_vs_ordinary_ssc_gap_1bn` | Company car CO2 vs ordinary SSC gap >1bn by 2026 | **1.00 bn** | 8.5 | 9.5 | 6 | **8.4** | Strong CoA: gap CO2 receipts vs ordinary |
 | 8 | `lb_oaa_consol_reporte_300_6m` | OAA+missions reporté solde shift +300.6m | **300.60 m** | 9.0 | 9.0 | 3 | **8.4** | Strong CoA: consol solde 34 to +300.6 |
 | 9 | `lb_bcr_annexe2_reporte_wave` | BCR Annexe2 reporté wave systemic 2026 | **300.60 m** | 9.0 | 9.0 | 3 | **8.4** | Strong CoA wave: OAA consol reporté |
 | 10 | `lb_dual_cars_ssc_taxex` | Dual company car CO2 SSC under-collection vs taxex | **278.52 m** | 8.5 | 9.5 | 6 | **8.4** | Strong dual: SSC CO2 278m + cum gap |
 
-**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2541-2550:** **Wagenschot Nazareth-De Pinte 70/76A JUMP 14.53m / 73 JUMP 14.17m / 9901 FLIP PROFIT 272k / cash DROP 617k** (EVERY-10@2550 Strong PDF) · Nederheem leftover city_tongeren_borgloon leftover VAPH · OTL leftover city_herent leftover VAPH · Inspirant leftover city_koksijde leftover VAPH · Wiric leftover city_sint_truiden leftover VAPH · De Kompanie leftover city_mortsel leftover VAPH · Ritmica leftover city_hove leftover VAPH · Iona leftover city_nijlen leftover VAPH · Bindkracht leftover city_landen leftover VAPH · De Plek leftover city_rotselaar leftover VAPH · Martine Van Camp Diest leftover city_diest leftover VAPH EVERY-10@2540.
+**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2551-2560:** **De Hoge Kouter Kortrijk 70/76A JUMP 6.95m / 73 JUMP 5.61m / 9901 JUMP 61k / cash JUMP 27k** (EVERY-10@2560 Strong PDF) · Duin en Polder leftover city_diksmuide leftover VAPH · Duizendschoon leftover city_as leftover VAPH · Arum leftover city_dilsen_stokkem leftover VAPH · Monsheide leftover city_peer leftover VAPH · VLOTTER leftover city_boom leftover maatwerk/thuiszorg dual · Kadodder leftover city_zoersel leftover VAPH · Intesa leftover city_tongeren_borgloon leftover VAPH · Christoforusgemeenschap leftover city_merelbeke_melle leftover VAPH · Ter Loke leftover city_vosselaar leftover VAPH · Wagenschot EVERY-10@2550.
 
-**Change vs tick 2540:** pure annual top10 **stable** (recomputed from live leaderboard 8406 rows; pi>10 excluded; stocks Metro3/OWV filtered; top10_changed False). **Major NEW residual 2541-2550:** Wagenschot Nazareth-De Pinte EVERY-10 primary + leftover public VAPH continuum (De Plek→Nederheem). Not TE-additive of ~348bn.
+**Change vs tick 2550:** pure annual top10 **stable** (recomputed from live leaderboard 8416 rows; pi>10 excluded; stocks Metro3/OWV filtered; top10_changed False). **Major NEW residual 2551-2560:** De Hoge Kouter Kortrijk EVERY-10 primary + leftover public VAPH continuum (Ter Loke→Duin en Polder). Not TE-additive of ~348bn.
 
 ### High-absurdity residual (not pure top10)
 
-- **Wagenschot Nazareth-De Pinte** EVERY-10 primary 70/76A **EUR14532585** JUMP / 73 JUMP **EUR14167695** / 9901 FLIP PROFIT **EUR272407** / cash DROP **EUR832350** / 2 VE vs assets **EUR11120506** leftover city_nazareth_depinte leftover VAPH.
-- **Inspirant** envelope 70/76A JUMP **EUR28059008** / 73 JUMP **EUR25490225** leftover city_koksijde leftover VAPH.
-- **Wiric** envelope 70/76A JUMP **EUR8013377** leftover city_sint_truiden leftover VAPH.
-- **Ritmica** envelope 70/76A JUMP **EUR5420432** leftover city_hove leftover VAPH.
-- **Nederheem** envelope 70/76A JUMP **EUR3982274** leftover city_tongeren_borgloon leftover VAPH.
-- **Iona** bruto JUMP **EUR5573753** leftover city_nijlen leftover VAPH.
-- **De Kompanie** bruto JUMP **EUR1861911** leftover city_mortsel leftover VAPH.
-- **OTL Herent** bruto JUMP **EUR1131225** / 9901 FLIP LOSS leftover city_herent leftover VAPH.
-- **Martine Van Camp Diest** EVERY-10@2540 70/76A **EUR12918434** JUMP leftover city_diest leftover VAPH.
-- **Bindkracht** bruto DROP **EUR209021** leftover city_landen leftover VAPH.
-- **De Plek** bruto DROP **EUR8964** leftover city_rotselaar leftover VAPH.
+- **De Hoge Kouter Kortrijk** EVERY-10 primary 70/76A **EUR6950020** JUMP / 73 JUMP **EUR6352334** / 9901 JUMP **EUR144981** / cash JUMP **EUR1369853** / 2 VE vs assets **EUR7742471** leftover city_kortrijk leftover VAPH.
+- **Monsheide Peer** envelope 70/76A JUMP **EUR6.36m** leftover city_peer leftover VAPH.
+- **VLOTTER Boom** envelope 70/76A JUMP **EUR7.50m** leftover city_boom leftover maatwerk/thuiszorg dual.
+- **Kadodder Zoersel** bruto JUMP **EUR4.09m** leftover city_zoersel leftover VAPH.
+- **Duin en Polder Diksmuide** bruto JUMP **EUR2.63m** leftover city_diksmuide leftover VAPH.
+- **Intesa / Christoforusgemeenschap / Ter Loke / Arum / Duizendschoon** residual dual 2551-2558 continuum leftover VAPH.
