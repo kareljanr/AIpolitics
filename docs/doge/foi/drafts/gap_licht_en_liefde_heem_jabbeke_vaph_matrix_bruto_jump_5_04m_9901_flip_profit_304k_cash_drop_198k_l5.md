@@ -1,0 +1,25 @@
+# FOI draft — Licht en Liefde Heem Jabbeke (bruto9900 JUMP 5.04m / 9901 FLIP PROFIT 304k / cash DROP 198k)
+
+**gap_id:** `gap_licht_en_liefde_heem_jabbeke_vaph_matrix_bruto_jump_5_04m_9901_flip_profit_304k_cash_drop_198k_l5`  
+**status:** ready (NOT sent)  
+**entity:** Licht en Liefde - Heem VZW — KBO **0422.359.279** (Actief; VZW; official zetel Oudenburgweg 45 8490 Jabbeke; **9 VE** **2.155.023.363** Licht en Liefde - Heem vzw Oudenburgweg 40 8490 Jabbeke since 11.07.2006 + **2.349.781.349** vlaamsoogpunt Kortrijk Lange Munteplein 1 8500 Kortrijk + **2.349.781.745** vlaamsoogpunt Antwerpen Durletstraat 43 2018 Antwerpen + **2.349.782.339** vlaamsoogpunt Gent Kortrijksesteenweg 304 9000 Gent + **2.349.783.131** vlaamsoogpunt Hasselt Kuringersteenweg 27 3500 Hasselt + **2.349.784.022** vlaamsoogpunt Pelt Meerveldstraat 5 3900 Overpelt + **2.349.784.517** vlaamsoogpunt Veltem Groenstraat 62 3020 Herent + **2.349.784.814** vlaamsoogpunt Brussel Kunstlaan 24 bus 21 1000 Brussel + **2.349.786.297** oogatelier Kortrijk Lange Munteplein 7 8500 Kortrijk; RSZ2025 **87.304** Instellingen met huisvesting voor volwassenen met een lichamelijke handicap; Werkgever RSZ; official VAPH adreslijst Licht en Liefde - Heem Vergunde Zorgaanbieder + Rechtstreeks toegankelijke hulp; leftover mined city_jabbeke leftover VAPH leftover-mined unused leftover type after city GE tick994 (no AGB child); FOI pieter.verstraete@lichtenliefde.be from official VAPH; internetadres www.huis45.be from official NBB PDF; leftover VAPH; NOT leftover-via-VE of a DIFFERENT leftover city as parent (vlaamsoogpunt VEs leftover-via-VE FROM leftover city_jabbeke); NOT leftover city GE Jabbeke **0207.528.629**; NOT leftover OCMW Jabbeke **0212.222.340**; NOT bestuurder Blindenzorg Licht en Liefde **0405.123.864**; NOT Armonea; NOT Korian; NOT Vulpia; NOT CuraCare; NOT OCMW; NOT commercial BV; NOT leftover convent)  
+**recipient:** Licht en Liefde - Heem VZW / Voorzitter Raad van Bestuur / dienst openbaarheid — pieter.verstraete@lichtenliefde.be — Oudenburgweg 45, 8490 Jabbeke  
+**sources:** official NBB WVV VKT-VZW native PDF deposit **2026-00084821** (61891 B / 19p; AV **24.03.2026**; header **22/04/2026**; CDN GET **200**; OpenPDF 1.3.26 CreationDate 2026-04-22 21:37:29 UTC MD5 ff42c747741311d79c66228cabac5879) + Strong KBO + official VAPH adreslijst
+
+## Onderwerp
+Openbaarheid van bestuur — VAPH / gemeente Jabbeke matrix achter Licht en Liefde - Heem VZW YE2025 (bruto 9900 JUMP 5.036.742 / 73 leeg / 9901 FLIP PROFIT 304.378 / cash DROP 1.786.273)
+
+## Geachte
+
+Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Licht en Liefde - Heem VZW** (KBO 0422.359.279; zetel Oudenburgweg 45, 8490 Jabbeke):
+
+1. De **VAPH-financieringmatrix** (en eventuele gemeentelijke toelagen) achter NBB VKT-VZW YE2025 code **9900** brutomarge **EUR 5.036.742** (JUMP +19,74% t.o.v. YE2024 **EUR 4.206.495**) terwijl omzet **70 leeg** is en code **73** lidgeld/schenkingen/legaten/subsidies **leeg** is en **76A leeg**. De VKT-enveloppe is bruto 9900 (niet 70/76A).
+2. Toelichting bij personeelskost **62 EUR 4.475.558** (JUMP +4,12% t.o.v. **EUR 4.298.538**) t.o.v. FTE **9087 = 61,2** (JUMP t.o.v. YE2024 59,5; sociale balans 100: 61,2 vs 59,5; 105 jaareinde 57,1) en de rol van VAPH-personeelsfinanciering.
+3. Waarom **bedrijfswinst 9901 FLIP PROFIT EUR 304.378** (was **EUR −322.328**) / pnl **9904 EUR 285.762** FLIP PROFIT (was **EUR −345.131**) terwijl **liquide middelen 54/58 DROP EUR 1.786.273** (−9,97% t.o.v. **EUR 1.984.176**; −EUR 197.903) en **geldbeleggingen 50/53 leeg**.
+4. Uitsplitsing van afschrijvingen **630 EUR 201.143** (DROP van **EUR 202.851**), andere bedrijfskosten **640/8 EUR 55.662** (was **EUR 27.434**), kapitaalsubsidies **15 leeg**, destin **691 leeg** / **791 leeg**, MVA **22/27 EUR 5.110.679**, gebouwen **22 EUR 5.025.475** (DROP van **EUR 5.203.813**), aanbouw **27 leeg**, capex aanschaffingen **8169 EUR 29.496**, schulden **17/49 EUR 4.338.386**, activa **20/58 EUR 8.230.249**, eigen vermogen **10/15 EUR 3.891.863**, en bevestiging dat **70 / 73 / 76A / 66A / 74** leeg/niet op formulier zijn zoals in de VKT-VZW-neerlegging (niet dienstig: VKT-VZW 6.6, 7, 8).
+5. Relatie tot Stad/OCMW Jabbeke (KBO GE **0207.528.629** / OCMW **0212.222.340**) en tot Blindenzorg Licht en Liefde (bestuurder **0405.123.864**; erfpacht Oudenburgweg 40) en tot de vlaamsoogpunt-vestigingen in Kortrijk, Antwerpen, Gent, Hasselt, Pelt, Herent en Brussel — bevestiging dat deze jaarrekening een eigen VZW-parent is met zetel in Jabbeke (niet leftover-via-VE van een andere leftover gemeente als parent) en dat er geen consolidatie / leftover-via-VE van een andere leftover gemeente als parent speelt.
+
+Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+
+Met vriendelijke groeten  
+Kareljan Raes  
