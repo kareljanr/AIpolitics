@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-11T22:41:57Z,rq_2571,2571,no,tick2571 leftover dual RECHECK HIT Nethedal Heist-op-den-Berg 0431.830.439 (was YE2024-only) Strong PDF deposit 2026-00512597 VKT-VZW 48231 B 12p 73 JUMP 1545813 9901 SWING 93845 leveranciers 1479782 handelsvorderingen 1389529 cash 930881; next rq_2572 leftover dual
+main,continuous,hole_fill,2026-10-11T22:44:36Z,rq_2572,2572,no,tick2572 leftover dual RECHECK HIT Levenslust Lennik 0448.484.151 (was YE2024-only) Strong PDF deposit 2026-00264472 VOL-VZW 357620 B 40p 733 13196338 9901 DROP 107622 9904 DROP 23101 cash DROP 1363388 aanbouw 1169121; recheck also found De Ark Moerkerke 0473.194.011 YE2025 2026-00372033; next rq_2573
