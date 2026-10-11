@@ -61,7 +61,7 @@ Become the **truth + DOGE** party: publish a permanent **Absurdity & Waste Leade
 **Next move (running):** hierarchical spending map + subsidy hunt + FOI queue for missing flows.
 
 - Strategy: [docs/06b-doge-discovery-strategy.md](docs/06b-doge-discovery-strategy.md)  
-- Loop: [docs/doge/LOOP.md](docs/doge/LOOP.md) · skill `/doge-loop`  
+- Loop: [docs/doge/LOOP.md](docs/doge/LOOP.md) · skill `/doge-loop` · GitHub Actions **DOGE loop** every 15 min (survives a powered-off PC)  
 - Queues: `docs/doge/data/research_queue.csv`, `foi_queue.csv`  
 - Agents draft openbaarheid letters; **humans send** them.
 

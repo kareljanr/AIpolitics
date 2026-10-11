@@ -4,11 +4,10 @@ Recurring agent protocol. Goal: **each tick leaves the dataset richer** until **
 
 ## Cadence
 
-- **Orchestration:** Grok **durable scheduled task** (interval-based; there is no native “start next when previous finishes”).  
-- **Target interval:** **60 seconds** (scheduler minimum). Prefer this over 15m while hole-filling.  
-- **Not 30s:** platform min is **60s**.  
-- **Overlap:** a tick often needs 2–15 min of tools. If the previous tick is still running, the next fire may start a **second concurrent agent** — accept for throughput, or raise interval to 2–3m if git thrash appears.  
-- **Tick time budget:** still stop after **one primary unit** (don’t thrash 15 fronts in one fire).  
+- **Always-on runner:** GitHub Actions workflow **DOGE loop** (`.github/workflows/doge-loop.yml`). One tick every 15 minutes. The next fire waits if the previous tick is still running. This is the runner that keeps going when the PC is off. It uses the Grok Build login in the `GROK_AUTH_JSON` secret, not API credits.
+- **Checkout limit:** Actions does **not** download `docs/doge/data/raw/` (~3.8 GB). Re-fetch the public PDF URL when a stored file is required.
+- **Local watcher (optional):** a Grok durable task can still fire every **60 seconds**. Do not run it at the same time as Actions. Two writers on `main` produce git thrash. Pause the local watcher while Actions is the runner.
+- **Tick time budget:** still stop after **one primary unit** (don’t thrash 15 fronts in one fire). Actions kills the job at 18 minutes.
 - Manual `/doge-loop` anytime is fine and does not wait for the timer.
 
 ## Anti-stuck (mandatory)
@@ -20,7 +19,7 @@ Agents and sessions hang. Treat that as normal; recover, do not idle.
 - **Hard wall ~12–15 min.** If PDF/OCR stalls: FOI-ready the gap, log, commit, exit. Partial primary fill beats a hung agent.
 - **Git thrash:** if `git pull`/`push` conflicts with a concurrent tick, rebase/retry once or leave commit local + log — do not spin.
 - **Huge CSVs:** do **not** load all of `research_queue.csv` into memory. Prefer `loop_state` next id, `rg`/line tools, or Python with raised `csv.field_size_limit` and early stop.
-- **Scheduler drop:** if user says `paused=no` or “continue/retry” and no watcher exists → recreate durable 60s task with `fire_immediately`. Never assume the old task id still lives.
+- **Scheduler drop:** if user says `paused=no` or “continue/retry” and the Actions workflow is not running, check GitHub → Actions → **DOGE loop**, or run it with `workflow_dispatch`. A local 60s task is only the fallback when Actions is off.
 - **Try again:** a failed tick is not pause. Next fire (or manual `/doge-loop`) picks the same open unit or the next highest open. Only human `paused=yes` / `stop` cancels the watcher.
 
 ## Pause rule (strict)
