@@ -25,6 +25,6 @@ grok --version
 grok \
   --cwd "$ROOT" \
   --permission-mode bypassPermissions \
-  --max-turns 24 \
+  --max-turns 48 \
   --output-format plain \
-  -p "You are running one DOGE Belgium research tick inside GitHub Actions. Follow .grok/skills/doge-loop/SKILL.md and docs/doge/LOOP.md exactly. Do one primary unit, then commit and push, then stop. Do not send FOI letters. Do not force-push. Do not start a second unit. The PDF archive docs/doge/data/raw is not in this checkout; if a stored PDF is required, fetch the public source URL instead. If paused=yes, stop without an empty commit. If git push conflicts, pull --rebase once and push once, then stop."
+  -p "You are running one DOGE Belgium research tick inside GitHub Actions. The rules are already here: one primary unit, sourced euros only, no invented numbers, do not send FOI letters, do not force-push, do not open a second unit. Do not read SKILL.md or LOOP.md. Read docs/doge/data/loop_state.csv and the single next queue row, do that unit, update the CSVs and loop_log.md, commit, push, and stop. The PDF archive docs/doge/data/raw is not in this checkout; fetch the public source URL if you need a document. If paused=yes, stop without an empty commit. If git push conflicts, pull --rebase once and push once, then stop."
