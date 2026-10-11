@@ -28595,3 +28595,12 @@ Append-only. Each tick adds a short entry.
 - EVERY-10: progress_every_10_ticks.md → snapshot tick 2570 (A 100% / B 100% / C ~99% / D ~74-88% generous band unchanged / E 2254 FOI ready, 2306 rows). doge_waste_top10_current.md → as-of 2570, 8426 rows; pure top10 **stable** (new 2561-2570 rows pi 5.30-6.00 ≪ 8.4 cut-off). Top 3: GIP 2.5bn monitor fail (8.7) · federal fossil direct 13.3bn (8.55) · fossil accises 10.5bn (8.5).
 - Data-quality note: foi_queue.csv has ~14 legacy rows with malformed status column (column shift); not touched this tick.
 - Next: **rq_2571 leftover dual** (incl. recheck of earlier 0-deposit / YE2024-only skips for new YE2025 deposits).
+
+
+## Tick 2571 — 2026-10-11T22:41:57Z — rq_2571 leftover dual Nethedal Heist-op-den-Berg YE2025 (recheck hit)
+
+- Recheck (NBB published-deposits API) of earlier skips: **Nethedal 0431.830.439 now has YE2025** (2026-00512597, deposited 11/09/2026) → LOCK. Still none: VillaVip 0671.845.160 (0), Aalternatief 0671.845.358 (0), Mok 0674.747.836 (0), OpWeg 0443.580.604 (YE2024 latest), Woonondersteuning Vlaanderen 0824.472.581 (YE2024 only). Not rechecked (no KBO in repo, time-box): Levenslust, De Ark Moerkerke, Wijzersterk, De Beukheuvel.
+- KBO: Actief since 10.12.1985; VZW; zetel Zwerfheide 2 2221 Heist-op-den-Berg (Booischot) since 30.01.2003; 1 VE; RSZ2025 88.993 beschutte en sociale werkplaatsen; 0 prior rows on KBO number (unused). Site: dagcentrum/werking + woning 12 bewoners (since 06/2023).
+- Found: official NBB VKT-VZW native PDF **2026-00512597** (48231 B / 12p; AV 30-06-2026; neergelegd 11/09/2026 = late vs 31-07 deadline; MD5 0869a218af09197ecaa54e3ca5e13e40; CDN staatsbladmonitor timed out → NBB broker PDF). 73 **EUR1545813** JUMP +6.92% (was 1445702); bruto 9900 **EUR1541831** JUMP +6.65%; omzet 70 275762; 62 **EUR1387957** DROP −2.29%; 630 56570 JUMP; 9901 **EUR93845** SWING (was −13561); 9904 **EUR93467** (was −12679); equity 1081460; assets 2821990; debt 1740529 (leveranciers **1479782** vs 60/61 365497; handelsvorderingen **1389529**); cash **EUR930881** JUMP +8.57%; capex 63254; FTE 21,4 (was 20,6).
+- Wrote: sources +3; budgets +11; commitments +1; leaderboard +1 pi 5.20; entities +1 (parent city_heist_op_den_berg); FOI **gap_nethedal_heist_op_den_berg_maatwerk_vaph_matrix_73_jump_1_55m_9901_swing_94k_trade_payables_1_48m_l5** prio7 ready (NOT sent) + draft; raw PDF+txt+KBO+deposits docs/doge/raw/tick2571/; rq_2571=done; spawn **rq_2572**; ticks=2571.
+- Next: **rq_2572 leftover dual** (NOT every-10; next every-10 2580).
