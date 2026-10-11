@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-11T22:44:36Z,rq_2572,2572,no,tick2572 leftover dual RECHECK HIT Levenslust Lennik 0448.484.151 (was YE2024-only) Strong PDF deposit 2026-00264472 VOL-VZW 357620 B 40p 733 13196338 9901 DROP 107622 9904 DROP 23101 cash DROP 1363388 aanbouw 1169121; recheck also found De Ark Moerkerke 0473.194.011 YE2025 2026-00372033; next rq_2573
+main,continuous,hole_fill,2026-10-11T22:46:30Z,rq_2573,2573,no,tick2573 leftover dual RECHECK HIT De Ark-Gemeenschap Moerkerke-Brugge Damme 0473.194.011 Strong PDF deposit 2026-00372033 VKT-VZW 50043 B 13p 9900 1533389 62 JUMP 1412280 9901 SWING -32867 9904 DROP 6290 debt JUMP 684710 cash JUMP 1038007; next rq_2574 hunt fresh
