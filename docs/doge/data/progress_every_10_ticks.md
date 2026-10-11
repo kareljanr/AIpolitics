@@ -6,34 +6,36 @@
 
 ---
 
-## Snapshot at **tick 2560** (2026-08-29)
+## Snapshot at **tick 2570** (2026-10-12; loop resumed after human pause 2026-08-29 → 2026-10-12)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
-| **C. L2 entity totals** | **~99%** (order of magnitude) | **+** residual dual 2551-2560 continuum; AGB Bornem / FARO / AIESH still YE2024 stalls; **De Hoge Kouter Kortrijk unlocked YE2025@2560 EVERY-10** |
-| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous) | **Gain 2551-2560 residual dual L5 (not near-complete of 348bn):** Ter Loke · Christoforusgemeenschap · Intesa · Kadodder · VLOTTER · Monsheide · Arum · Duizendschoon · Duin en Polder · EVERY-10 primary **De Hoge Kouter Kortrijk 70/76A JUMP 6.95m / 73 JUMP 5.61m / 9901 JUMP 61k / cash JUMP 27k** (Strong PDF) |
-| **E. FOI-ready gaps** | **~2244** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2296** |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2560; residual dual 2561-2570 is L5 depth, not new L2 mass; AGB Bornem / FARO / AIESH still YE2024 stalls (not rechecked this tick) |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2561-2570 residual dual L5 (not near-complete of 348bn):** Berkenhof · Licht en Liefde Heem · Kerckstede · De Berken · Duinhelm · Vondels · Oikonde · Emiliani · Hoito · EVERY-10 primary **Het Balanske Tielt-Winge 73 JUMP 1.61m / debt JUMP 2.31m / 9901 DROP 12k** (Strong official NBB PDF 2026-00206974) |
+| **E. FOI-ready gaps** | **2254** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2306** (status column has ~14 legacy malformed rows — data-quality debt, not touched) |
 
-**Off-TE (do not mix into 348 bn):** federal taxex · company cars/cheque · **AGB/zorg/APB/EVA/IGS dual + WZC/HVZ/VAPH/maatwerk/CAR/logopedie/CIK shells** (**NEW 2551-2560** Ter Loke · Christoforusgemeenschap · Intesa · Kadodder · VLOTTER · Monsheide · Arum · Duizendschoon · Duin en Polder · **De Hoge Kouter Kortrijk**) · Metro3 · OWV snowball · Hedera.
+**Off-TE (do not mix into 348 bn):** federal taxex · company cars/cheque · **AGB/zorg/APB/EVA/IGS dual + WZC/HVZ/VAPH/maatwerk/CAR/logopedie/CIK shells** (**NEW 2561-2570** Berkenhof · Licht en Liefde Heem · Kerckstede · De Berken · Duinhelm · Vondels · Oikonde · Emiliani · Hoito · **Het Balanske**) · Metro3 · OWV snowball · Hedera.
 
-### Inventory (tick 2560)
+### Inventory (tick 2570)
 
 | File | Rows (class) |
 |------|-------------:|
-| budgets.csv | 56330 |
-| commitments.csv | 6296 |
-| leaderboard.csv | 8416 |
-| entities.csv | 2316 |
-| sources.csv | 7809 |
-| FOI ready | 2244 |
+| budgets.csv | 56440 |
+| commitments.csv | 6306 |
+| leaderboard.csv | 8426 |
+| entities.csv | 2326 |
+| sources.csv | 7848 |
+| FOI ready | 2254 |
 | FOI answered | 11 |
 | FOI partial | 28 |
-| FOI total rows | 2296 |
-| research_queue open | rq_2561 after De Hoge Kouter Kortrijk EVERY-10 (+ rq_116 deferred Q4) |
+| FOI total rows | 2306 |
+| research_queue open | rq_2571 after Het Balanske Tielt-Winge EVERY-10 (+ rq_116 deferred Q4) |
 
-### What improved since tick 2550 / last file refresh 2550
+### What improved since tick 2560 / last file refresh 2560
 
-- **Residual dual (tick2551-2560):** leftover public VAPH **Ter Loke Vosselaar / Christoforusgemeenschap Merelbeke-Melle / Intesa Tongeren-Borgloon / Kadodder Zoersel / Monsheide Peer / Zorggroep Arum Dilsen-Stokkem / Duizendschoon As / Duin en Polder Diksmuide** · leftover maatwerk/thuiszorg dual **VLOTTER Boom** · EVERY-10 primary **De Hoge Kouter Kortrijk** (70/76A **6.95m** JUMP / 73 JUMP **5.61m** / 9901 JUMP **61k** / cash JUMP **27k** / 2 VE zetel Bad Godesberglaan 19 8500 Kortrijk + Olmenlaan 1 / Strong official PDF 2026-00156186; leftover city_kortrijk leftover VAPH leftover-mined city GE unused leftover type; FOI ready). Prefer-list city_zutendaal/olen/wuustwezel/wellen/ingelmunster/ichtegem/anzegem/harelbeke/lede/gavere/wemmel/opwijk/liedekerke stalled on groenezorg deferred / YE2024-only / 0 deposits / leftover-via-VE — FIRST LOCK De Hoge Kouter after prefer-list stall. Named+unnamed Drongen CARs stay OFF. leftover city_niel still unused (sports/culture only). Identity trap: De Hoge Kouter 0409.795.207 ≠ leftover Zonnebloem 0421.039.386 remine@2393 ≠ leftover CAR Accent 0413.208.122 ≠ leftover CAR Overleie 0454.250.505 ≠ leftover Ubuntu leftover-via-VE Kortrijk ≠ leftover city GE / OCMW Kortrijk.
-- **Blocked still:** AGB Bornem JR2025 unpublished · FARO YE2024 · AIESH YE2024 · prefer-list groenezorg deferred · VillaVip Familie Harelbeke 0 NBB deposits · Woonondersteuning Vlaanderen Gavere YE2024-only · HabitASS Ichtegem ouderinitiatief · leftover CIK HARD SKIP leftover CAR website wander HARD SKIP leftover KBO-activity HARD SKIP leftover city_bonheiden leftover hospital Imelda 403 leftover city_oud_heverlee leftover WZC De Kouter Korian · leftover Ubuntu leftover-via-VE Kortrijk · leftover groenezorg deferred · leftover 0-deposit Klavertje7/Toontjeshuis/Think/Mispelhoef/Witte Hoeve/Blend · leftover city_beringen 0 admin.
+- **Residual dual (tick2561-2570):** leftover public VAPH **Berkenhof Leopoldsburg / Licht en Liefde Heem Jabbeke / Kerckstede Staden / De Berken Overijse / Duinhelm Oostende / Vondels Ieper / Oikonde Mechelen / Emiliani Lokeren (70/76A 22.02m) / Hoito Tienen** · EVERY-10 primary **Het Balanske Tielt-Winge** (KBO 0448.595.801; VKT-VZW YE2025: 73 **1.61m** JUMP +11.4% / bruto 9900 **1.27m** / 62 **1.15m** JUMP +18.1% / 9901 DROP to **12k** / debt 17/49 JUMP **2.31m** (+193%; overige leningen 174/0 **1.64m** new) / aanbouw **1.36m** + capex **1.24m** = new Villa84 woonproject Diest (2nd VE since 23.01.2026) / cash **1.28m** / FTE 17,9; Strong official NBB PDF; FOI ready on subsidy split + lender terms).
+- **Pause note:** 2026-08-29 → 2026-10-12 human pause; no ticks in between. New YE2025 deposits may now exist for earlier 0-deposit / YE2024-only skips (VillaVip, Aalternatief, De Beukheuvel, OpWeg, Nethedal, Levenslust …) — recheck queued in rq_2571.
+- **Rejected this tick (fast):** Eyckenborgh Gooik 0434.019.372 (WZC / Gravenkasteel inrichtende macht, not VAPH) · Zwart Goor Merksplas (Klavier = Emmaüs 0411.515.075, zetel Mechelen, leftover-via-VE) · CDN staatsbladmonitor timeouts → official NBB broker PDF endpoint used.
+- **Blocked still:** AGB Bornem JR2025 unpublished · FARO YE2024 · AIESH YE2024 · Bethanië Genk SCAN/OCR · leftover groenezorg deferred · leftover-via-VE parents · city_kapellen / city_londerzeel / city_wortegem_petegem slugs MISSING.

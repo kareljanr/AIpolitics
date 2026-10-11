@@ -1,0 +1,19 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+from pathlib import Path
+import subprocess
+ROOT = Path("/workspace/AIpolitics")
+DATA = ROOT / "docs/doge/data"
+TS = subprocess.check_output(["date", "-u", "+%Y-%m-%dT%H:%M:%SZ"], text=True).strip()
+p = DATA / "loop_state.csv"
+notes = (
+    "tick1562 leftover public koepel Cultuurconnect residual; KBO 0629.858.909 official kbo-bce.fgov.be; live official NBB VOL-VZW deposit 2026-00072195 50p 655018; sourced euros assets 6483521 opbr 12751502 omzet 5026615 commercial-only 73 7718118 pers 5184352 vte 51 expl 1090651 LOSS pnl 1049404 LOSS cash DROP 5103622 60 8128810 onttrekking 2814680; FOI ready 73 Flanders/other split / 60 pass-through vs omzet / cash DROP / two-year LOSS continuity / AV notulen / beheersovereenkomst; leftover AGB/Bosgroep/Dijk92/IOED/remaining-HVZ still unpublished/inzage-only this tick so leftover public koepel with live official JR2025 euros taken; leftover FARO still JR2024 so leftover Cultuurconnect taken; leftover Dijk92 deposit 2026-00377886 still CDN 403; leftover Cultuur Noordrand 0740.822.256 unused leftover of mined Grimbergen but no NBB JR2025; leftover Zuidrand 0672.985.901 unused leftover of mined Mortsel/Kontich but no NBB JR2025; leftover IOED Zuid-Hageland 0680.814.294 unused leftover of mined Landen/Zoutleeuw/Geetbets/Kortenaken but no NBB JR2025; leftover FARO 0893.863.017 unused leftover public koepel but still JR2024; leftover VI.BE 0474.500.442 CDN 2026-00064426 live unused deferred; leftover OP-TIL 0712.776.586 unused not confirmed JR2025; leftover remaining HVZ still inzage-only; official 11-CAW vein remains fully exhausted; live-PDF CGG vein remains fully exhausted; NOT every-10 (next every-10 is 1570); NOT leftover publiq 1561 / leftover Socius 1560 / leftover Kunstensteunpunt 1559 / leftover meemoo 1558 / leftover VLHORA 1557 / leftover VLIR 1556 / leftover VLUHR 1555 / leftover VLEVA 1554 / leftover VVP 1553 / leftover VVSG 1552 / leftover Inagro 1551 / leftover CREMABRU 1550 / leftover INTRADURA 1549 / leftover Brandweerzone Oost OVL 1548 / leftover taken HVZ 1537-1547 / leftover Erfpunt 1536 / leftover 11-CAW 1525-1535 / leftover official-41 1464-1505; next rq_1563 leftover AGB/APB of mined cities if PDF live else leftover Bosgroep / leftover other IOED / leftover Dijk92 if CDN now 200 / leftover FARO if JR2025 now / leftover OP-TIL/VI.BE if unused live / leftover other HVZ if official JR2025 with euros now live / leftover other IGS; continuous hole_fill"
+)
+if "," in notes:
+    raise SystemExit("loop_state notes contain comma")
+p.write_text(
+    "state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes\n"
+    f"main,continuous,hole_fill,{TS},rq_1562,1562,no,{notes}\n",
+    encoding="utf-8",
+)
+print("loop_state 1562", TS)

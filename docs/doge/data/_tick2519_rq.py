@@ -1,0 +1,138 @@
+from pathlib import Path
+import csv
+from io import StringIO
+
+ROOT = Path("/workspace/AIpolitics")
+DATA = ROOT / "docs/doge/data"
+STAMP, DAY = (DATA / "_tick2519_stamp.txt").read_text().strip().splitlines()
+print("STAMP", STAMP)
+EID = "vzw_ter_kempen_meerhout"
+
+rq_path = DATA / "research_queue.csv"
+rq_raw = rq_path.read_bytes()
+if not rq_raw.endswith(b"\n"):
+    raise SystemExit("rq no LF")
+if b"\r\n" in rq_raw:
+    raise SystemExit("CRLF")
+if rq_raw.count(b"rq_2519,") != 1:
+    raise SystemExit(f"bad 2519 count {rq_raw.count(b'rq_2519,')}")
+if b"rq_2520," in rq_raw:
+    raise SystemExit("2520 exists")
+idx = rq_raw.rfind(b"rq_2519,")
+if idx < 0:
+    raise SystemExit("rq_2519 not found")
+
+notes_2519 = (
+    "Took unused leftover public leftover WZC Ter Kempen 0871.619.135 leftover mined city_meerhout. "
+    "Official NBB VKT-VZW YE2025 2026-00251692 native statutory 16p. Envelope bruto9900 JUMP 3190771 "
+    "(VKT because omzet70+73 empty; 76A empty); cash DROP 55356; pnl empty break-even; 9901 DROP 8203; "
+    "equity DROP 916229 (entirely kapitaalsubsidies); assets DROP 2457213; debt DROP 1532610; FTE DROP 40. "
+    "FIRST leftover unused + live official YE2025 after leftover-type hunt "
+    "(lock first valid hit leftover city_meerhout leftover WZC after leftover city_oosterzele leftover WZC Groep Sint-Franciscus 0412.763.704 remine@2142 zetel Brakel + leftover city_herselt leftover WZC Sint-Barbara 0422.152.314 remine@2019; leftover city_scherpenheuvel_zichem leftover types exhausted De Vlaspit@2515 / Honighsdries@2516 / Levensruimte@2517 / De Schommel@2518). "
+    "NOT leftover WZC De Berk OCMW Meerhout 0212.196.705. NOT leftover maatwerk De Sprong 0466.328.686 remine@2286. "
+    "NOT Groep Sint-Franciscus remine@2142. NOT Sint-Barbara remine@2019. NOT leftover-via-VE. "
+    "NOT Armonea commercial. NOT Vulpia commercial. NOT Korian commercial. NOT Zorg-Saam remine."
+)
+extra_2519 = (
+    "tick2519 leftover mined city_meerhout leftover WZC; Strong native PDF; 1 VE; prior-year identical; NOT every-10 (next every-10 2520); next rq_2520 leftover dual PLUS every-10"
+)
+notes_2520 = (
+    "Hunt ONE unused leftover public WZC / VAPH / CAR / hospital / maatwerk (or leftover CIK if a less-picked mined city still has unused ones) of a mined Flanders city that has a TRUE official YE2025 statutory native PDF. "
+    "THIS TICK IS EVERY-10: after leftover write refresh progress_every_10_ticks.md + doge_waste_top10_current.md from live CSVs. Next every-10 is 2530. "
+    "STOP leftover-note / loop_log KBO extractors. Targeted postcode + phonetic VZW (rechtsvormFonetic=017). "
+    "Confirm unused (0 real entity rows) + leftover of a mined parent + official KBO zetel (not VE-only) + official NBB YE2025 native PDF euros. "
+    "NOW leftover city_meerhout leftover WZC taken (Ter Kempen@2519; leftover WZC De Berk OCMW 0212.196.705 SKIP; leftover maatwerk De Sprong remine@2286 parent sec_flanders). leftover city_meerhout leftover VAPH/CAR/CIK still unused-looking. "
+    "NOW leftover city_oosterzele leftover WZC Groep Sint-Franciscus 0412.763.704 remine@2142 zetel Brakel SKIP (same KBO as De Zilverlinde / OLV Ter Veldbloemen). leftover city_herselt leftover WZC Sint-Barbara remine@2019. "
+    "NOW leftover city_scherpenheuvel_zichem leftover CIK taken (De Schommel@2518; 2 VE official zetel SZ; 1 VE Tienen is VE of SZ-seated parent; site Leuven not a KBO VE). leftover city_scherpenheuvel_zichem leftover VAPH taken (Huize Levensruimte@2517). leftover city_scherpenheuvel_zichem leftover WZC taken (Huyze Honighsdries@2516; leftover WZC Voortberg Armonea SKIP; leftover WZC OLV Ster der Zee still unused-looking likely OCMW). leftover city_scherpenheuvel_zichem leftover maatwerk taken (De Vlaspit@2515). leftover CAR none local. "
+    "NOW leftover city_zottegem leftover WZC taken (De Bron@2512). leftover city_zottegem leftover VAPH taken (De Hoop@2513). leftover city_zottegem leftover CIK taken (Sint-Elisabeth@2514). leftover city_zottegem leftover CAR Wegwijs 0408.203.021 remine parent sec_flanders. leftover maatwerk BWZ 0407.657.148 remine@2196 parent sec_flanders. leftover hospital AZ Zottegem remine tick2009/2018. "
+    "NOW leftover city_grimbergen leftover WZC taken (Den Bogaet@2511; leftover WZC Heilig Hart remine@2074 parent sec_flanders; leftover VAPH Havinet remine@2301; leftover maatwerk Den Diepen Boomgaard@2510; leftover CAR none local; leftover CIK Kribbekrabbel BV + FERM leftover-via-VE Leuven). "
+    "NOW leftover city_asse leftover CIK taken (Kribbe Kinderpret@2509; 3Wplus Kinderopvang@2407; Vijverbeek@2469; leftover VAPH Hopperank@2491; leftover maatwerk 3Wplus Werk@2492). "
+    "NOW leftover city_geraardsbergen leftover maatwerk taken (De Dagmoed@2508; leftover CAR Horizon@2395; leftover WZC OCMW/commercial/YE2023; leftover jeugdhulp Wonozo skip; leftover CIK no local leftover VZW). "
+    "NOW leftover city_buggenhout leftover VAPH taken (Avalon@2503 + Capelderij@2507; leftover WZC De Heymeulen 0420.669.303 still YE2024 HARD SKIP). leftover city_buggenhout leftover CAR Buggenhout leftover-via-VE Gent SKIP. "
+    "NOW leftover city_wetteren leftover CIK taken (Sint-Jozef@2502 + Fiola@2506; leftover VAPH Sint-Lodewijk@2505; leftover WZC Zorg-Saam remine leftover-via-VE Gent; leftover CAR/maatwerk Trianval remine). "
+    "NOW leftover city_herzele leftover WZC taken (Hunnegem@2504; leftover VAPH De Kanteling/VillaVip no JR; leftover CAR none local Kapelhof leftover-via-VE Drongen SKIP; leftover maatwerk no local VZW Kringwinkel ZOV leftover-via-VE). leftover CIK Bengeltjes/Klettekes BV skip. "
+    "leftover city_steenokkerzeel leftover WZC Floordam 0428.792.557 remine already entity vzw_floordam. leftover city_lebbeke leftover WZC Reva Tersig 0860.679.020 still unused-looking. leftover city_lennik leftover maatwerk Maatwerkbedrijf Pajottenland 0413.313.535 still unused-looking. leftover city_londerzeel slug MISSING. leftover city_wichelen leftover WZC Den Anker 0812.060.838 still unused-looking (skip if leftover-via-VE / remine). leftover city_wortegem_petegem slug MISSING. leftover city_wortegem_petegem leftover WZC De Linde 0425.773.085 still unused-looking (≠ De Linde Ronse 0778.279.401 YE2024 stall). "
+    "leftover city_bornem leftover WZC remine (OLV remine@2065; De Vlietoever BV skip; Eyckerheyde remine@2341; leftover CAR Ter Linde taken@2482). leftover VAPH still unused-looking maybe (Pegode leftover-via-VE; Weerklank 1022.178.377 founded 09.04.2025 no JR). "
+    "leftover city_puurs leftover WZC/VAPH exhausted (Sint-Pieter OCMW remine; Anemoon SLG/Korian remine; Sauvegarde CuraCare; Gravenkasteel Armonea; maatwerk Nektari taken). "
+    "leftover city_waregem leftover maatwerk remine (Werkplus@2204); leftover VAPH Ten Anker taken; leftover CIK Kindercentrum + t Zonnetje taken; AZ Waregem SCAN HARD SKIP. "
+    "leftover city_niel still unused (2845 VZW census sports/culture only; Lief & Leef BV skip — only take a real leftover care dual). "
+    "leftover city_erpe_mere VAPH/CAR/maatwerk/CIK still open/empty (WZC Avondzon + Meredal taken; Pamperbroekje leftover CIK BV unused not locked). "
+    "leftover city_mol leftover WZC remine/commercial/OCMW; leftover CIK Molleke 0448.186.520 YE2024 SKIP. leftover city_denderleeuw leftover WZC Armonea commercial; leftover CIK t Sas YE2024 SKIP. leftover city_mol/denderleeuw still zero leftover children parented under city_*. "
+    "HARD SKIP: Gravenkasteel group 0874.863.091 (Haacht De Klinckaert / Puurs Gravenkasteel / Asse Spanjeberg) group remine/commercial. All OCMW / Openbaar centrum / lokaal bestuur / Zorgbedrijf. Armonea / Korian / Vulpia / CuraCare / Emeis. leftover city_ronse leftover WZC De Linde 0778.279.401 still YE2024 stall. Ronse Hogerlucht / Maarkedal De Samaritaan = Werken Glorieux remine. Niel Maria Boodschap = De Medemens remine. Bornem OLV 0436.595.020 remine@2065. Herzele Ter Leen Eclips = Hunnegem remine@2504. Erpe-Mere Meredal remine@2498. Mol Witte Meren remine 1732. Zottegem Egmont OCMW; Geraardsbergen Denderoord OCMW / Baronie YE2023. "
+    "AZ Waregem 0405.460.592 unused leftover hospital YE2025 SCAN/OCR HARD SKIP do not invent euros. De Heymeulen leftover city_buggenhout WZC HARD SKIP. "
+    "Jules/i-mens 0416.603.716 zetel Gent leftover-via-VE / large chain SKIP. "
+    "De Bolster 0861.680.989 zetel Zwalm leftover-via-VE SKIP. "
+    "Stay OFF Kloosterstraat 6 Drongen. CAR Kapelhof / Ter Kouter / Buggenhout leftover-via-VE Gent SKIP. city_kapellen slug MISSING. KEERPUNT leftover-via-VE SKIP. VBJK leftover Gent training skip. "
+    "NOT Ter Kempen remine. NOT De Schommel remine. NOT Huize Levensruimte remine. NOT Huyze Honighsdries remine. NOT De Vlaspit remine. NOT Kinderdagverblijf Sint-Elisabeth remine. NOT De Hoop remine. NOT De Bron remine. NOT Den Bogaet remine. NOT Den Diepen Boomgaard remine. NOT Kribbe Kinderpret remine. "
+    "NOT leftover-via-VE. NOT KEERPUNT leftover-via-VE Gent. NOT CAR Buggenhout leftover-via-VE Gent. NOT Armonea commercial. NOT Vulpia commercial. NOT Korian commercial. NOT Evara remine. NOT Zorg-Saam remine."
+)
+extra_2520 = (
+    "spawned after tick2519 leftover city_meerhout leftover WZC; Ter Kempen taken leftover mined city_meerhout leftover WZC; leftover WZC De Berk OCMW SKIP; leftover maatwerk De Sprong remine@2286; leftover city_oosterzele leftover WZC Groep Sint-Franciscus remine@2142 zetel Brakel; leftover city_herselt leftover WZC Sint-Barbara remine@2019; leftover city_scherpenheuvel_zichem leftover types exhausted 2515-2518; leftover WZC OLV Ster der Zee still unused-looking likely OCMW; leftover WZC Voortberg Armonea SKIP; leftover CAR none local; leftover city_zottegem leftover WZC+VAPH+CIK taken; leftover city_zottegem leftover CAR Wegwijs remine; leftover maatwerk BWZ remine; leftover city_grimbergen leftover WZC+maatwerk taken; leftover city_asse leftover CIK taken; leftover city_geraardsbergen leftover maatwerk taken; leftover city_buggenhout leftover VAPH taken; leftover city_buggenhout WZC De Heymeulen still YE2024; leftover city_wetteren leftover CIK+VAPH taken leftover WZC/CAR/maatwerk remine; leftover city_niel still unused; leftover city_mol leftover CIK Molleke YE2024; leftover city_denderleeuw leftover CIK t Sas YE2024; leftover city_herzele leftover VAPH De Kanteling/VillaVip no JR leftover maatwerk leftover-via-VE; leftover city_erpe_mere VAPH/CAR/maatwerk/CIK still open; leftover city_steenokkerzeel leftover WZC Floordam remine; leftover city_lebbeke leftover WZC Reva Tersig unused-looking; leftover city_lennik leftover maatwerk Pajottenland unused-looking; leftover city_londerzeel slug MISSING; leftover city_wichelen leftover WZC Den Anker unused-looking; leftover city_wortegem_petegem slug MISSING leftover WZC De Linde unused-looking; leftover city_bornem leftover WZC remine leftover VAPH maybe unused; leftover city_puurs leftover WZC exhausted; leftover city_waregem leftover maatwerk remine; leftover city_schilde leftover WZC remine; leftover city_haacht leftover WZC remine; leftover city_pelt leftover maatwerk YE2024; AZ Waregem SCAN HARD SKIP; Jules/i-mens leftover-via-VE SKIP; De Bolster leftover-via-VE SKIP; Het Dak 0 NBB SKIP; THIS TICK IS EVERY-10 (refresh progress + waste top10 after leftover write; next every-10 2530)"
+)
+
+def rq_line(fields):
+    buf = StringIO()
+    w = csv.writer(buf, lineterminator="\n")
+    w.writerow(fields)
+    line = buf.getvalue()
+    n = len(next(csv.reader(StringIO(line))))
+    if n != 12:
+        raise SystemExit(f"rq fields {n} != 12 for {fields[0]}")
+    if not line.endswith("\n"):
+        raise SystemExit("rq line no LF")
+    if line.count("\n") != 1:
+        raise SystemExit("rq line extra NL")
+    return line.encode("utf-8")
+
+new_2519 = rq_line([
+    "rq_2519",
+    "leftover dual Ter Kempen YE2025",
+    "hole_fill",
+    "8",
+    "done",
+    "L5",
+    EID,
+    notes_2519,
+    "",
+    STAMP,
+    STAMP,
+    extra_2519,
+])
+new_2520 = rq_line([
+    "rq_2520",
+    "leftover public dual unused WZC/VAPH/CAR/hospital/maatwerk of mined Flanders city YE2025 EVERY-10",
+    "hole_fill",
+    "8",
+    "open",
+    "L5",
+    "",
+    notes_2520,
+    "",
+    STAMP,
+    STAMP,
+    extra_2520,
+])
+
+before = len(rq_raw)
+with rq_path.open("r+b") as f:
+    f.seek(idx)
+    f.truncate()
+    f.write(new_2519)
+    f.write(new_2520)
+after = rq_path.stat().st_size
+print("patched rq bytes", before, "->", after, "delta", after - before)
+chk = rq_path.read_bytes()
+print("n2519", chk.count(b"rq_2519,"), "n2520", chk.count(b"rq_2520,"))
+if chk[:idx] != rq_raw[:idx]:
+    raise SystemExit("prefix changed")
+print("prefix intact")
+
+state = DATA / "loop_state.csv"
+state.write_text(
+    "state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes\n"
+    f"main,continuous,hole_fill,{STAMP},rq_2519,2519,no,"
+    "tick2519 leftover dual Ter Kempen 0871.619.135 Strong native PDF (omzet70 empty VKT; 73 empty VKT; 76A empty; envelope bruto9900 JUMP 3190771; pnl empty break-even; 9901 DROP 8203; equity DROP 916229; assets DROP 2457213; debt DROP 1532610; FTE DROP 40; kapitaalsubsidies DROP 916229; destin691 empty; cash DROP 55356; 1 VE leftover city_meerhout leftover WZC); leftover mined city_meerhout leftover WZC; prior-year identical; NOT every-10 (next every-10 2520); FIRST leftover unused + live official YE2025 after leftover-type hunt (lock Ter Kempen first valid hit leftover city_meerhout leftover WZC after leftover city_oosterzele leftover WZC Groep Sint-Franciscus remine@2142 zetel Brakel + leftover city_herselt leftover WZC Sint-Barbara remine@2019; leftover city_scherpenheuvel_zichem leftover types exhausted De Vlaspit@2515 / Honighsdries@2516 / Levensruimte@2517 / De Schommel@2518; leftover WZC De Berk OCMW SKIP; leftover maatwerk De Sprong remine@2286); NOT Groep Sint-Franciscus remine@2142; NOT Sint-Barbara remine@2019; NOT De Sprong remine@2286; NOT leftover-via-VE; NOT Armonea commercial; NOT Vulpia commercial; NOT Korian commercial; NOT Evara remine; next rq_2520 leftover dual PLUS every-10\n",
+    encoding="utf-8",
+)
+print("loop_state ok")
+print("RQ STATE DONE")

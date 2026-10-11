@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+from pathlib import Path
+p = Path("/workspace/AIpolitics/docs/doge/data/loop_state.csv")
+text = p.read_text(encoding="utf-8")
+lines = text.splitlines()
+header = lines[0]
+row = "main,continuous,hole_fill,2026-08-19T07:10:00Z,rq_1405,1405,no,tick1405 AGB Tielt leftover AGB residual; KBO 0841.231.312; live JR2025 NBB WVV PDF; sourced euros assets 19953810 brutomarge 679356 debt 11899035 lease 9303045 pnl 321320 equity 5586840 cash 1132461 capex 388010 dividend 160660; FOI ready omzet empty / diensten unpublished / pers empty / lease 9.30m / commissaris unpublished; next rq_1406 residual dual L5 VL; continuous hole_fill"
+p.write_text(header + "\n" + row + "\n", encoding="utf-8")
+print("loop_state ok")

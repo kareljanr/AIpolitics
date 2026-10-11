@@ -1,0 +1,16 @@
+#!/usr/bin/env python3
+from pathlib import Path
+DATA = Path("/workspace/AIpolitics/docs/doge/data")
+STAMP = (DATA / "_tick2397_stamp.txt").read_text().strip().splitlines()[0]
+state_path = DATA / "loop_state.csv"
+hdr = "state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes\n"
+row = (
+    "main,continuous,hole_fill,"
+    f"{STAMP},rq_2397,2397,no,"
+    "tick2397 leftover dual Waas Revalidatiecentrum 0415.472.279 Strong native PDF (omzet70 empty VKT; 73 empty VKT; bruto9900 JUMP 1636836 CAR envelope; pnl DROP 3351; equity DROP 1550659; assets DROP 1801270; debt JUMP 250611; FTE 21.1; kapitaalsubsidies DROP 269052; destin691 empty; cash DROP 376211; geldbeleggingen DROP 425831; overige vorderingen 41 JUMP 140000; 1 VE RSZ2025 86.959); leftover city_lokeren after CAR Accent@2396; OFF Drongen OFF De Schans OFF LDSST OFF REVA Kohesi OFF CGG Kohesi OFF BW Kohesi OFF CAR De Hert OFF CAR De Klinker OFF Ascendere OFF CAR Roeselare OFF Vijvens OFF CAR DAT OFF H.Hart Oudenaarde OFF Sint-Vincentius Zulte OFF Floordam OFF Heropbeuring OFF NMSC OFF MKL OFF Pulderbos OFF Inkendaal OFF CAR Overleie OFF Houtland OFF Zonnebloem OFF ZWZ OFF Horizon OFF Accent OFF Ten Anker OFF Leieborg OFF m-accent Eeklo; AGB/FARO/Gandae YE2024; next rq_2398; next every-10 2400\n"
+)
+cur = state_path.read_text(encoding="utf-8")
+if not cur.startswith(hdr):
+    raise SystemExit("loop_state header mismatch")
+state_path.write_text(hdr + row, encoding="utf-8")
+print("wrote loop_state", STAMP)

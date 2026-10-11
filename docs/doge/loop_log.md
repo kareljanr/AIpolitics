@@ -28583,3 +28583,15 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +4; budgets +11; commitments +1; leaderboard +1 pi 5.50; entities +1; FOI **gap_hoito_tienen_vaph_matrix_70_76a_jump_2_87m_73_jump_2_79m_9901_jump_99k_l5** prio7 ready + draft; raw PDF docs/doge/raw/tick2569/; rq_2569=done; spawn **rq_2570 leftover dual PLUS every-10**; ticks=2569.
 - Next: **rq_2570 leftover dual PLUS every-10**.
 
+
+
+## Tick 2570 — 2026-10-11T22:38:02Z — rq_2570 leftover dual Het Balanske Tielt-Winge YE2025 PLUS every-10
+
+- Context: first tick after human resume (paused 2026-08-29 → resumed 2026-10-12 00:32 CEST).
+- Hunt (time-boxed): Eyckenborgh Gooik 0434.019.372 REJECT (WZC; Eyckenborch assistentiewoningen run by Gravenkasteel 0874.863.091, not VAPH). Zwart Goor Merksplas REJECT (Klavier = Emmaüs 0411.515.075, zetel Mechelen → leftover-via-VE). Het Balanske Tielt-Winge 0448.595.801 unused (0 rows on KBO number) → LOCK.
+- KBO: Actief since 05.11.1992; VZW; zetel Halensebaan 2 3390 Tielt-Winge; 2 VE (Tielt-Winge + Villa 84 Hasseltsestraat 84 Diest since 23.01.2026); RSZ2025 88.106 dagcentra volwassenen met mentale handicap.
+- Found: official NBB VKT-VZW native PDF **2026-00206974** (51107 B / 13p; AV 15-06-2026; neergelegd 23/06/2026; MD5 c9a5f896cbd4f7cf6d2865fdc1073aa4; CDN staatsbladmonitor hung → official NBB broker PDF). 73 **EUR1608109** JUMP +11.41% (was 1443428); bruto 9900 **EUR1273778** JUMP +14.41%; 62 **EUR1146505** JUMP +18.10%; 630 **EUR110947** flat; 9901 **EUR12273** DROP −58.68% (was 29700); 9904 **EUR36784** DROP −41.11% (was 62462); equity **EUR2557203** flat; assets **EUR4865692** JUMP +45.92%; debt 17/49 **EUR2308489** JUMP +193.11% (was 787577; overige leningen 174/0 **EUR1644111** vs 190614; >5j 1507092); aanbouw 27 **EUR1359758** (was 123824); capex 8169 **EUR1241939**; cash **EUR1282461** JUMP +28.35%; kapitaalsubsidies 1018667; FTE 17,9 (was 15,7).
+- Wrote: sources +3; budgets +11; commitments +1; leaderboard +1 pi 5.30; entities +1 (parent city_tielt_winge); FOI **gap_het_balanske_tielt_winge_vaph_matrix_73_jump_1_61m_debt_jump_2_31m_9901_drop_12k_l5** prio7 ready (NOT sent) + draft; raw PDF+txt+KBO docs/doge/raw/tick2570/; rq_2570=done; spawn **rq_2571**; ticks=2570.
+- EVERY-10: progress_every_10_ticks.md → snapshot tick 2570 (A 100% / B 100% / C ~99% / D ~74-88% generous band unchanged / E 2254 FOI ready, 2306 rows). doge_waste_top10_current.md → as-of 2570, 8426 rows; pure top10 **stable** (new 2561-2570 rows pi 5.30-6.00 ≪ 8.4 cut-off). Top 3: GIP 2.5bn monitor fail (8.7) · federal fossil direct 13.3bn (8.55) · fossil accises 10.5bn (8.5).
+- Data-quality note: foi_queue.csv has ~14 legacy rows with malformed status column (column shift); not touched this tick.
+- Next: **rq_2571 leftover dual** (incl. recheck of earlier 0-deposit / YE2024-only skips for new YE2025 deposits).

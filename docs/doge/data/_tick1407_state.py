@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+from pathlib import Path
+p = Path("/workspace/AIpolitics/docs/doge/data/loop_state.csv")
+text = p.read_text(encoding="utf-8")
+lines = text.splitlines()
+header = lines[0]
+row = "main,continuous,hole_fill,2026-08-19T07:45:00Z,rq_1407,1407,no,tick1407 AGB Patri leftover AGB residual; KBO 0635.564.190; live JR2025 NBB WVV PDF; sourced euros assets 9688747 brutomarge 574007 omzet empty diensten empty pers empty debt 4566935 recv 1565883 pnl 84930 equity 5017317 cash 380295 capex 127844 dividend 16986; FOI ready omzet empty / diensten unpublished / pers empty / ST recv 1.57m / commissaris unpublished; next rq_1408 residual dual L5 VL; continuous hole_fill"
+p.write_text(header + "\n" + row + "\n", encoding="utf-8")
+print("loop_state ok")

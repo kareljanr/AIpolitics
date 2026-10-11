@@ -1,0 +1,27 @@
+from pathlib import Path
+DATA=Path("/workspace/AIpolitics/docs/doge/data")
+STAMP,DAY=(DATA/"_tick2447_stamp.txt").read_text().strip().splitlines()
+rq_path=DATA/"research_queue.csv"
+rq_raw=rq_path.read_bytes()
+if not rq_raw.endswith(b"\n"): raise SystemExit("no LF")
+if b"\r\n" in rq_raw: raise SystemExit("CRLF")
+if rq_raw.count(b"rq_2447,")!=1: raise SystemExit("bad 2447 count")
+if b"rq_2448," in rq_raw: raise SystemExit("2448 exists")
+idx=rq_raw.rfind(b"rq_2447,")
+if idx<0: raise SystemExit("rq_2447 not found")
+new_2447=Path("/tmp/rq2447_done.txt").read_text(encoding="utf-8")
+new_2448=Path("/tmp/rq2448_open.txt").read_text(encoding="utf-8")
+if not new_2447.endswith("\n") or not new_2448.endswith("\n"): raise SystemExit("rows missing LF")
+if new_2447.count("\n")!=1 or new_2448.count("\n")!=1: raise SystemExit("bad newlines")
+before=len(rq_raw)
+with rq_path.open("r+b") as f:
+    f.seek(idx)
+    f.truncate()
+    f.write(new_2447.encode("utf-8"))
+    f.write(new_2448.encode("utf-8"))
+after=rq_path.stat().st_size
+print("patched rq bytes", before, "->", after, "delta", after-before)
+chk=rq_path.read_bytes()
+print("n2447", chk.count(b"rq_2447,"), "n2448", chk.count(b"rq_2448,"))
+if chk[:idx]!=rq_raw[:idx]: raise SystemExit("prefix changed")
+print("prefix intact")

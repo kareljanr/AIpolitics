@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2560** (2026-08-29) · **8416** leaderboard rows  
+**As-of:** tick **2570** (2026-10-12) · **8426** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5
@@ -24,15 +24,14 @@
 | 9 | `lb_bcr_annexe2_reporte_wave` | BCR Annexe2 reporté wave systemic 2026 | **300.60 m** | 9.0 | 9.0 | 3 | **8.4** | Strong CoA wave: OAA consol reporté |
 | 10 | `lb_dual_cars_ssc_taxex` | Dual company car CO2 SSC under-collection vs taxex | **278.52 m** | 8.5 | 9.5 | 6 | **8.4** | Strong dual: SSC CO2 278m + cum gap |
 
-**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2551-2560:** **De Hoge Kouter Kortrijk 70/76A JUMP 6.95m / 73 JUMP 5.61m / 9901 JUMP 61k / cash JUMP 27k** (EVERY-10@2560 Strong PDF) · Duin en Polder leftover city_diksmuide leftover VAPH · Duizendschoon leftover city_as leftover VAPH · Arum leftover city_dilsen_stokkem leftover VAPH · Monsheide leftover city_peer leftover VAPH · VLOTTER leftover city_boom leftover maatwerk/thuiszorg dual · Kadodder leftover city_zoersel leftover VAPH · Intesa leftover city_tongeren_borgloon leftover VAPH · Christoforusgemeenschap leftover city_merelbeke_melle leftover VAPH · Ter Loke leftover city_vosselaar leftover VAPH · Wagenschot EVERY-10@2550.
+**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2561-2570:** **Het Balanske Tielt-Winge 73 JUMP 1.61m / debt JUMP 2.31m / 9901 DROP 12k** (EVERY-10@2570 Strong PDF) · Hoito Tienen · Emiliani Lokeren · Oikonde Mechelen · Vondels Ieper · Duinhelm Oostende · De Berken Overijse · Kerckstede Staden · Licht en Liefde Heem Jabbeke · Berkenhof Leopoldsburg · De Hoge Kouter EVERY-10@2560.
 
-**Change vs tick 2550:** pure annual top10 **stable** (recomputed from live leaderboard 8416 rows; pi>10 excluded; stocks Metro3/OWV filtered; top10_changed False). **Major NEW residual 2551-2560:** De Hoge Kouter Kortrijk EVERY-10 primary + leftover public VAPH continuum (Ter Loke→Duin en Polder). Not TE-additive of ~348bn.
+**Change vs tick 2560:** pure annual top10 **stable** (10 new leaderboard rows 2561-2570 all pi 5.30-6.00, far below #10 cut-off 8.4; top10_changed False). Not TE-additive of ~348bn.
 
 ### High-absurdity residual (not pure top10)
 
-- **De Hoge Kouter Kortrijk** EVERY-10 primary 70/76A **EUR6950020** JUMP / 73 JUMP **EUR6352334** / 9901 JUMP **EUR144981** / cash JUMP **EUR1369853** / 2 VE vs assets **EUR7742471** leftover city_kortrijk leftover VAPH.
-- **Monsheide Peer** envelope 70/76A JUMP **EUR6.36m** leftover city_peer leftover VAPH.
-- **VLOTTER Boom** envelope 70/76A JUMP **EUR7.50m** leftover city_boom leftover maatwerk/thuiszorg dual.
-- **Kadodder Zoersel** bruto JUMP **EUR4.09m** leftover city_zoersel leftover VAPH.
-- **Duin en Polder Diksmuide** bruto JUMP **EUR2.63m** leftover city_diksmuide leftover VAPH.
-- **Intesa / Christoforusgemeenschap / Ter Loke / Arum / Duizendschoon** residual dual 2551-2558 continuum leftover VAPH.
+- **Emiliani Lokeren** envelope 70/76A JUMP **EUR22.02m** / 73 JUMP **EUR18.57m** / debt JUMP **EUR5.02m** leftover city_lokeren leftover VAPH (pi 6.00, highest of 2561-2570).
+- **Duinhelm Oostende** 70/76A JUMP **EUR12.61m** / 9901 JUMP **EUR887k** leftover city_oostende leftover VAPH.
+- **Kerckstede Staden** 70/76A JUMP **EUR12.04m** / cash DROP **EUR608k** leftover city_staden leftover VAPH.
+- **Het Balanske Tielt-Winge** EVERY-10 primary: debt **EUR787577 → EUR2308489** (+193%; new overige leningen **EUR1644111**) financing aanbouw **EUR1359758** (Villa84 Diest) while 9901 fell to **EUR12273**; 73 **EUR1608109**.
+- **Vondels Ieper** 70/76A JUMP **EUR10.49m** / cash DROP **EUR762k** leftover city_ieper leftover VAPH.

@@ -1,0 +1,16 @@
+#!/usr/bin/env python3
+from pathlib import Path
+DATA = Path("/workspace/AIpolitics/docs/doge/data")
+STAMP = (DATA / "_tick2396_stamp.txt").read_text().strip().splitlines()[0]
+state_path = DATA / "loop_state.csv"
+hdr = "state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes\n"
+row = (
+    "main,continuous,hole_fill,"
+    f"{STAMP},rq_2396,2396,no,"
+    "tick2396 leftover dual CAR Accent 0413.208.122 Strong native PDF (omzet70 empty VKT; 73 empty VKT; bruto9900 JUMP 1242740 CAR envelope; pnl LOSS NARROW -17304; equity DROP 1988694; assets DROP 2194549; debt JUMP 205855; FTE 14.1; kapitaalsubsidies DROP 411; destin691 empty; cash DROP 1320711; geldbeleggingen FLAT 725000; 1 VE RSZ2025 86.959); leftover city_kortrijk after CAR Horizon@2395; OFF Drongen OFF De Schans OFF LDSST OFF REVA Kohesi OFF CGG Kohesi OFF BW Kohesi OFF CAR De Hert OFF CAR De Klinker OFF Ascendere OFF CAR Roeselare OFF Vijvens OFF CAR DAT OFF H.Hart Oudenaarde OFF Sint-Vincentius Zulte OFF Floordam OFF Heropbeuring OFF NMSC OFF MKL OFF Pulderbos OFF Inkendaal OFF CAR Overleie OFF Houtland OFF Zonnebloem OFF ZWZ OFF Horizon OFF Ten Anker OFF Leieborg OFF m-accent Eeklo; AGB/FARO/Gandae YE2024; next rq_2397; next every-10 2400\n"
+)
+cur = state_path.read_text(encoding="utf-8")
+if not cur.startswith(hdr):
+    raise SystemExit("loop_state header mismatch")
+state_path.write_text(hdr + row, encoding="utf-8")
+print("wrote loop_state", STAMP)

@@ -1,0 +1,16 @@
+#!/usr/bin/env python3
+from pathlib import Path
+DATA = Path("/workspace/AIpolitics/docs/doge/data")
+STAMP = (DATA / "_tick2399_stamp.txt").read_text().strip().splitlines()[0]
+state_path = DATA / "loop_state.csv"
+hdr = "state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes\n"
+row = (
+    "main,continuous,hole_fill,"
+    f"{STAMP},rq_2399,2399,no,"
+    "tick2399 leftover dual Heuvelheem 0413.210.201 Strong native PDF (omzet70 JUMP 181042 commercial-only; 73 JUMP 12221891; opbr7076A JUMP 15172213 VAPH envelope; pnl PROFIT FLIP 404772; equity JUMP 7254780; assets JUMP 10879683; debt JUMP 3267730; FTE 152.3; kapitaalsubsidies DROP 942213; destin691 empty; cash DROP 772792; 8 VE RSZ2025 87.202); leftover city_kruisem@932 + leftover city_oudenaarde after Halle Asse@2398; OFF Drongen OFF De Schans OFF LDSST OFF REVA Kohesi OFF CGG Kohesi OFF BW Kohesi OFF CAR De Hert OFF CAR De Klinker OFF Ascendere OFF CAR Roeselare OFF Vijvens OFF CAR DAT OFF H.Hart Oudenaarde OFF Sint-Vincentius Zulte OFF Floordam OFF Heropbeuring OFF NMSC OFF MKL OFF Pulderbos OFF Inkendaal OFF CAR Overleie OFF Houtland OFF Zonnebloem OFF ZWZ OFF Horizon OFF Accent OFF Waas OFF Halle Asse OFF Ten Anker OFF Leieborg OFF m-accent Eeklo; AGB/FARO/Gandae YE2024; next rq_2400 EVERY-10 MUST refresh\n"
+)
+cur = state_path.read_text(encoding="utf-8")
+if not cur.startswith(hdr):
+    raise SystemExit("loop_state header mismatch")
+state_path.write_text(hdr + row, encoding="utf-8")
+print("wrote loop_state", STAMP)
