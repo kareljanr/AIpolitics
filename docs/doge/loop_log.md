@@ -31563,3 +31563,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@guides.be — general mailbox verified on official page https://www.guides.be/notre-structure.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_guides_catholiques_ixelles_vaph_matrix_9900_3_10m_9901_274k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2873/; rq_2873=done; spawn **rq_2874**; ticks=2873.
 - Next: **rq_2874 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2874 — 2026-10-12T16:39:11Z — rq_2874 leftover dual Famille d'accueil Odile Henri Bruxelles (Saint-Gilles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Famille d'accueil Odile Henri** → KBO 0419.023.469 had 0 prior entity rows.
+- KBO: Actief since 14 november 1978; VZW; zetel Bronstraat 65 1060 Sint-Gillis (bij-Brussel); 5 VE; 0 prior entity rows for 0419.023.469
+- Found: official NBB VKT-VZW native PDF **2026-00154679** (314407 B / 20p; AV 16-05-2026; neergelegd 10/06/2026; MD5 9a1450aa07f2fceaceae9f3abff75626). VKT-VZW 9900 **EUR2859199** (-1.86%); 62 **EUR2508475**; 9901 **EUR257820** (was -88804); 9904 269231; equity 1738197; cash 994157; FTE 33,3 (was 34,1).
+- FOI address: info@faoh.be — general mailbox verified on official page https://www.faoh.be/services (Brussels head office listed).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_faoh_saint_gilles_vaph_matrix_9900_2_86m_9901_258k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2874/; rq_2874=done; spawn **rq_2875**; ticks=2874.
+- Next: **rq_2875 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
