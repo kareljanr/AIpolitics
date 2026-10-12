@@ -28658,3 +28658,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00128224** (5240953 B / 50p; AV 19-05-2026; neergelegd 27/05/2026; MD5 1baf053691eda472028a515679438e65). VOL 70/76A **EUR25752446** (+9.50%); 733 **EUR22979320** (+10.08%); 62 **EUR21209053** (+10.88%); 9901 **EUR146908** (was 91027); 9904 **EUR132686**; equity 5319677; debt 6899216 (9061 public-guaranteed 1804417); cash 4753855 + beleggingen 1000000 (was 2000000); FTE 281,8 (was 271,6).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.70; entities +1 (parent city_antwerpen); FOI **gap_de_vijver_deurne_vaph_matrix_733_22_98m_70_76a_25_75m_62_jump_21_21m_l5** prio7 ready (NOT sent) + draft; raw docs/doge/raw/tick2577/; rq_2577=done; spawn **rq_2578**; ticks=2577.
 - Next: **rq_2578 leftover dual** — continue VAPH list scan (every-10 due at 2580).
+
+
+## Tick 2578 — 2026-10-12T07:22:03Z — rq_2578 leftover dual De Kerselaar Overijse YE2025 (local fallback runner)
+
+- Hunt: carried from 2576 scan (VAPH page 11): **De Kerselaar Overijse** — second VAPH dual of city_overijse (De Berken remine@2564 is a different VZW); KBO 0422.076.494 had 0 prior repo rows.
+- KBO: Actief Normale toestand since 15.05.1981; VZW; naam De Kerselaar since 25.05.2004; zetel Drogenberg 90 3090 Overijse since 01.10.1990; 1 VE; 13 functiehouders; 0 prior repo rows for 0422.076.494; Identity trap != leftover De Berken Overijse remine@2564 != leftover IJSEDAL Maatwerkbedrijf Overijse
+- Found: official NBB VOL-VZW native PDF **2026-00139555** (1984939 B / 44p; AV 01-06-2026; neergelegd 05/06/2026; MD5 a1ea3c1de5c7e75a144c018964c26203). VOL 70/76A **EUR7002870** (+4.10%); 733 **EUR5718858** (+5.13%); 62 **EUR5048006** (+7.57%); 9901 **EUR479876** DROP −24.10%; 9904 **EUR474017**; equity 9162882 (kapitaalsubsidies 1918591); debt 5790625 (9061 700857); cash **EUR1787709** JUMP +83.29% + beleggingen 1391248; FTE 66,2.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.10; entities +1 (parent city_overijse); FOI **gap_de_kerselaar_overijse_vaph_matrix_733_5_72m_9901_drop_480k_cash_jump_1_79m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2578/; rq_2578=done; spawn **rq_2579**; ticks=2578.
+- Next: **rq_2579 leftover dual** — continue VAPH list scan (every-10 due at 2580).
