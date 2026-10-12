@@ -33043,3 +33043,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@saamolimburg.be — general mailbox verified on official page https://www.saamolimburg.be/nl/contact (address Marktplein 9 bus 21 and KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_heusden_zolder); FOI **gap_saamo_limburg_vaph_matrix_9900_5_06m_9901_loss_109k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3021/; rq_3020=done; spawn **rq_3022**; ticks=3021.
 - Next: **rq_3022 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3022 — 2026-10-12T19:51:44Z — rq_3022 leftover dual Woonzorgnetwerk Spirit Jabbeke (Varsenare) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish multi-code 85.592/87.101/87.301/88.101/88.911/88.991/88.993/88.999, extended to ~190 further Flemish municipality postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Woonzorgnetwerk Spirit** → KBO 0716.915.518 had 0 prior entity rows.
+- KBO: Actief since 27 december 2018; VZW; zetel de Manlaan 50 bus c 8490 Jabbeke; 5 VE; 0 prior entity rows for 0716.915.518
+- Found: official NBB VOL-VZW native PDF **2026-00198815** (4573830 B / 54p; AV 24-06-2026; neergelegd 25/06/2026; MD5 382baa8f9abef98e18ae97f3b9b14624). VOL-VZW 733 **EUR4675616** (-4.11%); 62 **EUR21161279**; 9901 **EUR156950** (was 752027); 9904 50083; equity 22160088; cash 1474493; FTE 297,6 (was 298,6).
+- FOI address: info@wznspirit.be — general mailbox of the registered seat verified on official page https://www.wznspirit.be/Contact (de Manlaan 50c and KBO number shown there).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_jabbeke); FOI **gap_wzn_spirit_jabbeke_vaph_matrix_733_4_68m_9901_157k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3022/; rq_3022=done; spawn **rq_3023**; ticks=3022.
+- Next: **rq_3023 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
