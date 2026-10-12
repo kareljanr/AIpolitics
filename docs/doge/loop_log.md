@@ -34102,3 +34102,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@helmo.be — general mailbox verified on official contact page https://www.helmo.be/fr/contact (page shows the BCE number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_helmo_vaph_matrix_733_63_18m_9901_5188k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3126/; rq_3126=done; spawn **rq_3127**; ticks=3126.
 - Next: **rq_3127 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3127 — 2026-10-12T23:12:47Z — rq_3127 leftover dual Enseignement Libre Catholique Bastogne (ELCAB) Bastogne YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies (pouvoirs organisateurs, ASBL) and related free-education non-profits; KBO name search over school/PO names (legal form ASBL), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Enseignement Libre Catholique Bastogne (ELCAB)** → KBO 0423.503.582 had 0 prior entity rows.
+- KBO: Actief since 1 september 1982; VZW; zetel Place en Piconrue 6 6600 Bastogne; 10 VE; 0 prior entity rows for 0423.503.582
+- Found: official NBB VOL-VZW native PDF **2026-00104805** (554533 B / 44p; AV 21-04-2026; neergelegd 07/05/2026; MD5 c9de5c399065af2b559f57a7ce7635d6). VOL-VZW 733 **EUR27072530** (+1.87%); 62 **EUR24836179**; 9901 **EUR-146016** (was 130303); 9904 -141448; equity 7663053; cash 639961; FTE 24,6 (was 23,6).
+- FOI address: po@elcab.be — organising-body mailbox verified on official pages https://www.elcab.be/contact and the legal notice (mentions légales, which gives the BCE number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_elcab_bastogne_vaph_matrix_733_27_07m_9901_loss_146k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3127/; rq_3127=done; spawn **rq_3128**; ticks=3127.
+- Next: **rq_3128 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
