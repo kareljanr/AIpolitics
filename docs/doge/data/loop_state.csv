@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T21:14:46Z,rq_3073,3073,no,tick3073 leftover dual Le Logement Molenbeekois Molenbeek-Saint-Jean 0401.984.331 Strong PDF 2026-00321069 740 0.65m / 9901 loss 220k; next rq_3074 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T21:14:56Z,rq_3074,3074,no,tick3074 leftover dual Comensia Koekelberg 0403.302.046 Strong PDF 2026-00254006 740 0.60m / 9901 loss 84k; next rq_3075 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

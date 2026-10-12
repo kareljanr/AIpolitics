@@ -33572,3 +33572,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@llm.irisnet.be — general mailbox verified on the official SLRB-BGHM page for this SISP https://slrb-bghm.brussels/fr/sisp/le-logement-molenbeekois (no own website listed there).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_logement_molenbeekois_code740_split_740_0_65m_9901_loss_220k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3073/; rq_3073=done; spawn **rq_3074**; ticks=3073.
 - Next: **rq_3074 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3074 — 2026-10-12T21:14:56Z — rq_3074 leftover dual Comensia Koekelberg YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE SLRB-BGHM official list of the 16 Brussels public-service housing companies (SISP), https://slrb-bghm.brussels/fr/societes-immobilieres-de-service-public/toutes-les-sisp, plus a KBO NACE-BEL scan (38.110/38.210/36.000/49.310/68.201) for intercommunales and public companies; ranked by YE2025 NBB company-model code 740 (operating subsidies and compensatory amounts from public authorities); every candidate passed the name/alias/KBO/website dedup check: **Comensia** → KBO 0403.302.046 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1968; SC; zetel Jules Besmestraat 124 1081 Koekelberg; 16 VE; 0 prior entity rows for 0403.302.046
+- Found: official NBB VOL-SC native PDF **2026-00254006** (1083603 B / 92p; AV 26-05-2026; neergelegd 25/06/2026; MD5 87b6eeec0b506ec844d78f0d8fb6d9b5). VOL-SC 740 **EUR604034** (-0.45%); 62 **EUR10285268**; 9901 **EUR-83616** (was -429559); 9904 1168109; equity 91368802; cash 4973666; FTE 139,8 (was 134,3).
+- FOI address: info@comensia.be — general mailbox verified on official site https://comensia.be/ (header/footer contact block).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_comensia_code740_split_740_0_60m_9901_loss_84k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3074/; rq_3074=done; spawn **rq_3075**; ticks=3074.
+- Next: **rq_3075 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
