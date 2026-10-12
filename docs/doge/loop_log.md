@@ -33289,3 +33289,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@fros.be — general mailbox verified on official page https://fros.be/contact/ (head office Magdalenastraat 46A matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_fros_multisport_vaph_matrix_9900_1_89m_9901_loss_85k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3045/; rq_3045=done; spawn **rq_3046**; ticks=3045.
 - Next: **rq_3046 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3046 — 2026-10-12T20:23:13Z — rq_3046 leftover dual Economisch Huis Oostende Oostende YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (codes 93.191 sport federations, 93.121/93.199 sport, 84.130 public administration of economic affairs, 72.200 social-science research, 94.991 youth/adult associations; ~59 Flemish city and Brussels postcodes) plus rq_3030 leftovers, ranked by YE2025 NBB primary figure; candidates passed a name/alias/KBO/website dedup check against existing entities: **Economisch Huis Oostende** → KBO 0893.525.002 had 0 prior entity rows.
+- KBO: Actief since 12 november 2007; VZW; zetel Gistelsesteenweg 1 C bus .00.01 8400 Oostende; 3 VE; 0 prior entity rows for 0893.525.002
+- Found: official NBB VKT-VZW native PDF **2026-00192061** (331572 B / 24p; AV 04-06-2026; neergelegd 24/06/2026; MD5 aad4772f156f0d0c9a34fa99dc7c606b). VKT-VZW 9900 **EUR1679223** (+25.68%); 62 **EUR1266013**; 9901 **EUR186285** (was -99668); 9904 191368; equity 2289768; cash 2388814; FTE 14,8 (was 14,4).
+- FOI address: info@economischhuis.be — general mailbox verified on official page https://www.economischhuis.be/contact (KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oostende); FOI **gap_economisch_huis_oostende_vaph_matrix_9900_1_68m_9901_186k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3046/; rq_3046=done; spawn **rq_3047**; ticks=3046.
+- Next: **rq_3047 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
