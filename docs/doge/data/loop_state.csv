@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T16:41:16Z,every10_2880,2880,no,"tick2880 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2880 carried open; next remaining larger Brussels childcare/day-centre ASBLs and Flemish 88.10x VZWs, larger first (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T16:43:20Z,rq_2880,2881,no,tick2881 leftover dual Télé-Secours Bruxelles (Laeken) 0432.708.090 Strong PDF 2026-00434309 9900 3.77m / 9901 159k; next rq_2882 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

@@ -31633,3 +31633,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2880 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-2880 run locally as fallback.
 - Next: **rq_2880** — remaining fresh-scan hits (Service Social Juif, Espace Social Télé-Service, Centre d'aide aux personnes, Free Clinic, Les Petits Riens), larger first.
+
+
+## Tick 2881 — 2026-10-12T16:43:20Z — rq_2880 leftover dual Télé-Secours Bruxelles (Laeken) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Télé-Secours** → KBO 0432.708.090 had 0 prior entity rows.
+- KBO: Actief since 16 oktober 1987; VZW; zetel de Smet de Naeyerlaan 570 1020 Brussel; 1 VE; 0 prior entity rows for 0432.708.090
+- Found: official NBB VKT-VZW native PDF **2026-00434309** (52417 B / 14p; AV 18-06-2026; neergelegd 27/08/2026; MD5 1028c1ea5ac74c5ed2a2f95726756167). VKT-VZW 9900 **EUR3768664** (+13.41%); 62 **EUR2713812**; 9901 **EUR158677** (was 303986); 9904 136711; equity 3997214; cash 489514; FTE 49 (was 47).
+- FOI address: secretariat@tele-secours.be — general mailbox verified on official page https://www.tele-secours.be/contact/ (company number in its privacy charter).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_tele_secours_laeken_vaph_matrix_9900_3_77m_9901_159k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2881/; rq_2880=done; spawn **rq_2882**; ticks=2881.
+- Next: **rq_2882 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
