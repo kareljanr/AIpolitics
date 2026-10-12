@@ -29970,3 +29970,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: pvt@valckeburg.be — general mailbox verified on official page https://www.valckeburg.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_roeselare); FOI **gap_pvt_valckeburg_roeselare_vaph_matrix_9900_3_39m_9901_loss_125k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2716/; rq_2716=done; spawn **rq_2717**; ticks=2716.
 - Next: **rq_2717 leftover dual** — KBO NACE 87.20x (residential disability/psychiatric care) scan in progress; next: remaining 87.201/87.202/87.203 units (spare Philippus Neri 0410.505.582 Sint-Niklaas, check odd 2024 loss), then 88.994 welzijnswerk and 87.301.
+
+
+## Tick 2717 — 2026-10-12T09:27:01Z — rq_2717 leftover dual De Maanwandelaars Antwerpen (Hoboken) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.201/87.202/87.203 activity search (residential care for persons with a disability / psychiatric problems): **De Maanwandelaars** → KBO 0407.919.642 had 0 prior entity rows.
+- KBO: Actief since 23 november 1970; VZW; zetel Kolonel Harrystraat 22 2660 Antwerpen; 3 VE; 0 prior entity rows for 0407.919.642
+- Found: official NBB VOL-VZW native PDF **2026-00113674** (659741 B / 37p; AV 27-04-2026; neergelegd 19/05/2026; MD5 074263083e1434efb4fb680df630d35a). VOL-VZW 733 **EUR5731187** (+6.14%); 62 **EUR5569400**; 9901 **EUR168019** (was -56840); 9904 182262; equity 4522611; cash 1452737; FTE 70,8 (was 69,2).
+- FOI address: info@demaanwandelaars.be — general mailbox verified on official page https://www.demaanwandelaars.be/contact-1.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_de_maanwandelaars_hoboken_vaph_matrix_733_5_73m_9901_168k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2717/; rq_2717=done; spawn **rq_2718**; ticks=2717.
+- Next: **rq_2718 leftover dual** — KBO NACE 87.20x (residential disability/psychiatric care) scan in progress; next: remaining 87.201/87.202/87.203 units (spare Philippus Neri 0410.505.582 Sint-Niklaas, check odd 2024 loss), then 88.994 welzijnswerk and 87.301.
