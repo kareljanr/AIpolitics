@@ -30559,3 +30559,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: kdv@engelbewaardervzw.be — general mailbox verified on official page https://engelbewaardervzw.be/voorstelling-kinderdagverblijf/contact-kinderdagverblijf (childcare-centre mailbox of the VZW).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_izegem); FOI **gap_engelbewaarder_izegem_vaph_matrix_9900_4_07m_9901_687k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2774/; rq_2774=done; spawn **rq_2775**; ticks=2774.
 - Next: **rq_2775 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2775 — 2026-10-12T14:01:53Z — rq_2775 leftover dual 't Ballonneke Beveren (Melsele) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, West-/Oost-Vlaanderen and Leuven/Limburg postcodes: **'t Ballonneke** → KBO 0441.286.058 had 0 prior entity rows.
+- KBO: Actief since 23 augustus 1989; VZW; zetel Sint-Elisabethstraat(MEL) 64 9120 Beveren-Kruibeke-Zwijndrecht; 16 VE; 0 prior entity rows for 0441.286.058
+- Found: official NBB VKT-VZW native PDF **2026-00279618** (49545 B / 13p; AV 09-06-2026; neergelegd 10/07/2026; MD5 3a9d45a6f0ab28ea81d377b9f3c6fe6d). VKT-VZW 9900 **EUR3387696** (+1.05%); 62 **EUR3049286**; 9901 **EUR147499** (was 148959); 9904 157614; equity 2478174; cash 552302; FTE 52,4 (was 49,8).
+- FOI address: info@vzwballonneke.be — general mailbox verified on official page https://www.vzwballonneke.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bkz); FOI **gap_t_ballonneke_melsele_vaph_matrix_9900_3_39m_9901_147k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2775/; rq_2775=done; spawn **rq_2776**; ticks=2775.
+- Next: **rq_2776 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

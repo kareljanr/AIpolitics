@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T14:01:44Z,rq_2774,2774,no,tick2774 leftover dual Engelbewaarder Izegem 0463.288.133 Strong PDF 2026-00227517 9900 4.07m / 9901 687k; next rq_2775 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T14:01:53Z,rq_2775,2775,no,tick2775 leftover dual 't Ballonneke Beveren (Melsele) 0441.286.058 Strong PDF 2026-00279618 9900 3.39m / 9901 147k; next rq_2776 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
