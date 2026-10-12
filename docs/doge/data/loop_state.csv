@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T17:31:34Z,rq_2925,2925,no,tick2925 leftover dual Nottebohm Home Antwerpen 0422.519.231 Strong PDF 2026-00323206 70 turnover 5.75m / 9901 loss 34k; next rq_2926 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T17:31:46Z,rq_2926,2926,no,tick2926 leftover dual Wiegwijs Schaarbeek 0455.553.768 Strong PDF 2026-00192592 733 6.60m / 9901 loss 111k; next rq_2927 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

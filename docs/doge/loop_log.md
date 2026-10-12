@@ -32083,3 +32083,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@nottebohm.be — general mailbox verified on official page https://www.nottebohmwoonzorgcentrum.be/contact/ (address matches KBO).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_nottebohm_home_antwerpen_turnover_public_share_70_turnover_5_75m_9901_loss_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2925/; rq_2925=done; spawn **rq_2926**; ticks=2925.
 - Next: **rq_2926 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2926 — 2026-10-12T17:31:46Z — rq_2926 leftover dual Wiegwijs Schaarbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scans 2026-10-12 (Brussels 87.101-87.909 and 88.101-88.109 in 22 postcodes; earlier Flemish 87.x/88.10x and Brussels 88.99x scans), ranked by YE2025 NBB primary figure (733 subsidies, 9900 gross margin, or 70 turnover where 733 is empty): **Wiegwijs** → KBO 0455.553.768 had 0 prior entity rows.
+- KBO: Actief since 12 januari 1995; VZW; zetel Haachtsesteenweg 579 bus 40 1030 Schaarbeek; 7 VE; 0 prior entity rows for 0455.553.768
+- Found: official NBB VOL-VZW native PDF **2026-00192592** (960577 B / 50p; AV 09-06-2026; neergelegd 19/06/2026; MD5 26aa68c65927ff78940aaa8ce6eb7e2d). VOL-VZW 733 **EUR6602519** (+10.06%); 62 **EUR4091435**; 9901 **EUR-111010** (was -120405); 9904 -101537; equity 610627; cash 982127; FTE 61,8 (was 56,1).
+- FOI address: info@wiegwijs.be — general mailbox verified on official page https://www.wiegwijs.be/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_wiegwijs_schaarbeek_vaph_matrix_733_6_60m_9901_loss_111k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2926/; rq_2926=done; spawn **rq_2927**; ticks=2926.
+- Next: **rq_2927 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
