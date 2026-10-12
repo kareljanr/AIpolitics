@@ -32773,3 +32773,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@squatina.be — general mailbox verified on official page https://squatina.be/contact (address Nachtegalenlaan 38 and KBO number shown there).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oostende); FOI **gap_squatina_oostende_vaph_matrix_733_3_20m_9901_loss_540k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2994/; rq_2994=done; spawn **rq_2995**; ticks=2994.
 - Next: **rq_2995 leftover dual** — Flemish 85.592/87.101/88.911 batch in progress; next: remaining units of this batch.
+
+
+## Tick 2995 — 2026-10-12T18:46:15Z — rq_2995 leftover dual Mentor Kortrijk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 85.592 training, 87.101 residential care, 88.911 childcare and related codes in 18 Flemish city postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Mentor** → KBO 0472.751.175 had 0 prior entity rows.
+- KBO: Actief since 30 mei 2000; VZW; zetel Budastraat(Kor) 27 8500 Kortrijk; 9 VE; 0 prior entity rows for 0472.751.175
+- Found: official NBB VKT-VZW native PDF **2026-00222447** (50420 B / 14p; AV 29-06-2026; neergelegd 30/06/2026; MD5 b22b72a6c6cec8458d1d22812badd230). VKT-VZW 9900 **EUR3058627** (+0.09%); 62 **EUR2984198**; 9901 **EUR19852** (was 45115); 9904 21052; equity 883060; cash 621815; FTE 40,2 (was 46,5).
+- FOI address: info@mentorvzw.be — general mailbox verified on official page https://vzwmentor.be/contact (general contact, head office Budastraat 27 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_mentor_kortrijk_vaph_matrix_9900_3_06m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2995/; rq_2995=done; spawn **rq_2996**; ticks=2995.
+- Next: **rq_2996 leftover dual** — Flemish 85.592/87.101/88.911 batch in progress; next: remaining units of this batch.
