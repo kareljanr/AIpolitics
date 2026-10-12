@@ -29859,3 +29859,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@habbekrats.be — general mailbox verified on official homepage https://www.habbekrats.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_habbekrats_gent_vaph_matrix_9900_2_79m_9901_22k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2705/; rq_2705=done; spawn **rq_2706**; ticks=2705.
 - Next: **rq_2706 leftover dual** — KBO NACE 88.992 (integrale jeugdhulp zonder huisvesting) scan by postcode in progress; next: remaining 88.992 units, then other NACE 87/88 codes (87.202/87.203 residential, 88.994 welzijnswerk).
+
+
+## Tick 2706 — 2026-10-12T09:14:00Z — rq_2706 leftover dual Jongerenatelier Kortrijk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.992 activity search (Integrale jeugdhulp zonder huisvesting): **Jongerenatelier** → KBO 0457.522.076 had 0 prior entity rows.
+- KBO: Actief since 21 maart 1996; VZW; zetel Sint-Anna(Kor) 10 8500 Kortrijk; 6 VE; 0 prior entity rows for 0457.522.076
+- Found: official NBB VKT-VZW native PDF **2026-00109084** (49940 B / 13p; AV 21-04-2026; neergelegd 12/05/2026; MD5 2172f1a9010980d3d1c25ccbb2573df3). VKT-VZW 9900 **EUR833689** (-28.03%); 62 **EUR747754**; 9901 **EUR41239** (was 36765); 9904 39743; equity 618421; cash 515827; FTE 8,8 (was 10,9).
+- FOI address: info@jongerenatelier.be — general mailbox verified on official page https://jongerenatelier.be/contact.html.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_jongerenatelier_kortrijk_vaph_matrix_9900_0_83m_9901_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2706/; rq_2706=done; spawn **rq_2707**; ticks=2706.
+- Next: **rq_2707 leftover dual** — KBO NACE 88.992 (integrale jeugdhulp zonder huisvesting) scan by postcode in progress; next: remaining 88.992 units, then other NACE 87/88 codes (87.202/87.203 residential, 88.994 welzijnswerk).
