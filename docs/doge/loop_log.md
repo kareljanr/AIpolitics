@@ -32963,3 +32963,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kringwinkelhageland.be — general mailbox verified on the official Kringwinkel network page https://www.kringwinkel.be/centra/hageland (address Walstraat 2 and VAT BE0465914160 shown there).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_tienen); FOI **gap_kringwinkel_hageland_vaph_matrix_733_3_87m_9901_218k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3013/; rq_3013=done; spawn **rq_3014**; ticks=3013.
 - Next: **rq_3014 leftover dual** — Further-extended Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3014 — 2026-10-12T19:27:21Z — rq_3014 leftover dual De Groene Kans Diksmuide YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish multi-code 85.592/87.10x/87.30x/88.10x/88.911/88.991-88.999, extended to 30 further Flemish postcodes plus extra codes 88.991-88.994/88.102/87.20x/90-91 in the previous 22), unprocessed hits ranked by YE2025 NBB primary figure: **De Groene Kans** → KBO 0465.807.361 had 0 prior entity rows.
+- KBO: Actief since 13 januari 1999; VZW; zetel Ijzerdijk(DA) 45 8600 Diksmuide; 2 VE; 0 prior entity rows for 0465.807.361
+- Found: official NBB VKT-VZW native PDF **2026-00162386** (52495 B / 14p; AV 20-05-2026; neergelegd 12/06/2026; MD5 d6dedf48e9e712617fd2811da732a4da). VKT-VZW 9900 **EUR3387686** (-5.70%); 62 **EUR3121974**; 9901 **EUR117040** (was 428775); 9904 127884; equity 1830346; cash 287456; FTE 94,9 (was 89,4).
+- FOI address: info@degroenekans.be — general mailbox verified on official page https://degroenekans.be/contact/ (KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_diksmuide); FOI **gap_de_groene_kans_diksmuide_vaph_matrix_9900_3_39m_9901_117k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3014/; rq_3014=done; spawn **rq_3015**; ticks=3014.
+- Next: **rq_3015 leftover dual** — Further-extended Flemish multi-code batch in progress; next: remaining units of this batch.
