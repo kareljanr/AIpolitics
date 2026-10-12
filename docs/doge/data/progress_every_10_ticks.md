@@ -68,7 +68,7 @@
 
 ### What improved since tick 2890
 
-- **New source (tick2891-2899):** GrSA (Forest) · Centre de Prévention du Suicide (Ixelles) · ATD Quart Monde (Etterbeek) · Le Pélican (Koekelberg) · AccessAndGo-ABP (Woluwe-Saint-Pierre) · CAP-ITI (Forest) · Prospective Jeunesse (Ixelles) · Amos AMO (Schaerbeek) · atMOsphères AMO (Schaerbeek). Source: fresh KBO NACE-BEL activity scan (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure. The Flemish part returned almost only bodies already covered; all 9 new units are Brussels bodies. Eight used the French FOI template, one (PROFO) the Dutch Bestuursdecreet template.
+- **New source (tick2891-2899):** GrSA (Forest) · Centre de Prévention du Suicide (Ixelles) · ATD Quart Monde (Etterbeek) · Le Pélican (Koekelberg) · AccessAndGo-ABP (Woluwe-Saint-Pierre) · CAP-ITI (Forest) · Prospective Jeunesse (Ixelles) · Amos AMO (Schaerbeek) · atMOsphères AMO (Schaerbeek). Source: remaining hits from the tick-2871 fresh KBO NACE-BEL scan (Brussels 88.991-88.999), larger first; these were smaller units (EUR0.57m-1.27m) because the larger hits were already used. All nine used the French FOI template. (Source line corrected in tick 2911.)
 - **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION).
 - **Runner note:** 2576-2900 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
 - **Rejected 2891-2899 (fast, ~5 min cap):** FARES (contact page has only a form; mailboxes found only on third-party pages).
@@ -103,7 +103,7 @@
 
 ### What improved since tick 2880
 
-- **New source (tick2881-2889):** Télé-Secours (Laeken) · VAD (Schaarbeek) · SAAMO Brussel (Molenbeek) · Formation Insertion Jeunes (Saint-Gilles) · Service Social Juif (Saint-Gilles) · Mission Locale d'Anderlecht (Anderlecht) · Espace Social Télé-Service (Bruxelles) · Free Clinic (Ixelles) · Les Petits Riens (Ixelles). Source: fresh KBO NACE-BEL activity scan (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure. The Flemish part returned almost only bodies already covered; all 9 new units are Brussels bodies. Eight used the French FOI template, one (PROFO) the Dutch Bestuursdecreet template.
+- **New source (tick2881-2889):** Télé-Secours (Laeken) · VAD (Schaarbeek) · SAAMO Brussel (Molenbeek) · Formation Insertion Jeunes (Saint-Gilles) · Service Social Juif (Saint-Gilles) · Mission Locale d'Anderlecht (Anderlecht) · Espace Social Télé-Service (Bruxelles) · Free Clinic (Ixelles) · Les Petits Riens (Ixelles). Source: remaining hits from the tick-2871 fresh KBO NACE-BEL scan (Brussels 88.991-88.999), larger first. Seven used the French FOI template, two (VAD, SAAMO Brussel) the Dutch Bestuursdecreet template. (Source line corrected in tick 2911.)
 - **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION).
 - **Runner note:** 2576-2890 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
 - **Rejected 2881-2889 (fast, ~5 min cap):** FARES (contact page has only a form; mailboxes found only on third-party pages).

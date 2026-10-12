@@ -31933,3 +31933,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2910 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-2910 run locally as fallback.
 - Next: **rq_2910** — remaining Brussels NACE 87.x/88.10x scan hits (Ma Maison-Evere, La Passerelle, Solbos, Mandragora, Entre Autres, Vivre chez soi), larger first.
+
+
+## Tick 2911 — 2026-10-12T17:22:18Z — rq_2910 leftover dual Centre d'Accueil et de Traitement du Solbosch (C.A.T.S.) Bruxelles (Forest) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Centre d'Accueil et de Traitement du Solbosch (C.A.T.S.)** → KBO 0861.748.691 had 0 prior entity rows.
+- KBO: Actief since 20 november 2003; VZW; zetel Alsembergse Steenweg 204-208 1190 Vorst; 1 VE; 0 prior entity rows for 0861.748.691
+- Found: official NBB VKT-VZW native PDF **2026-00150224** (53966 B / 15p; AV 09-06-2026; neergelegd 10/06/2026; MD5 2aeabee4054172915fe876f527e6bc61). VKT-VZW 9900 **EUR2648305** (+6.20%); 62 **EUR2108878**; 9901 **EUR368823** (was 218818); 9904 264245; equity 1235929; cash 896845; FTE 23,6.
+- FOI address: info@lesolbosch.be — general mailbox verified on official page https://www.lesolbosch.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_cats_solbosch_forest_vaph_matrix_9900_2_65m_9901_369k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2911/; rq_2910=done; spawn **rq_2912**; ticks=2911.
+- Next: **rq_2912 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

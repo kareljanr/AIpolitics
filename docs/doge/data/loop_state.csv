@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T17:19:13Z,every10_2910,2910,no,"tick2910 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2910 carried open; next remaining larger Brussels childcare/day-centre ASBLs and Flemish 88.10x VZWs, larger first (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T17:22:18Z,rq_2910,2911,no,tick2911 leftover dual Centre d'Accueil et de Traitement du Solbosch (C.A.T.S.) Bruxelles (Forest) 0861.748.691 Strong PDF 2026-00150224 9900 2.65m / 9901 369k; next rq_2912 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
