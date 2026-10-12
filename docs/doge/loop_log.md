@@ -30792,3 +30792,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@wzc-hofterlande.be — general mailbox verified on official page https://www.wzc-hofterlande.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_vorselaar); FOI **gap_hof_ter_lande_vorselaar_vaph_matrix_9900_1_50m_9901_loss_220k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2797/; rq_2797=done; spawn **rq_2798**; ticks=2797.
 - Next: **rq_2798 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2798 — 2026-10-12T14:36:47Z — rq_2798 leftover dual Kinderdagverblijf 't Debberke Maasmechelen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301 (nursing homes) and 88.101 (home care) activity search, Antwerpen and Vlaams-Brabant postcodes, ranked by primary figure (plus two larger 88.911 childcare VZWs): **Kinderdagverblijf 't Debberke** → KBO 0445.281.072 had 0 prior entity rows.
+- KBO: Actief since 3 juli 1991; VZW; zetel Boudewijnlaan(M) 148 3630 Maasmechelen; 3 VE; 0 prior entity rows for 0445.281.072
+- Found: official NBB MIC-VZW native PDF **2026-00225210** (42549 B / 10p; AV 30-06-2026; neergelegd 30/06/2026; MD5 576f359f86a65f6c2b6544cd820fde2e). MIC-VZW 9900 **EUR1436588** (+4.80%); 62 **EUR1220398**; 9901 **EUR114388** (was 133779); 9904 122034; equity 1597064; cash 672956; FTE 19 (was 19,3).
+- FOI address: info@debberke.be — general mailbox verified on official page https://debberke.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_maasmechelen); FOI **gap_t_debberke_maasmechelen_vaph_matrix_9900_1_44m_9901_114k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2798/; rq_2798=done; spawn **rq_2799**; ticks=2798.
+- Next: **rq_2799 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
