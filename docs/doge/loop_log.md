@@ -33063,3 +33063,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@inter.vlaanderen — general mailbox verified on official page https://www.vlaanderen.be/inter/contact (registered seat Belgiëplein 1, legal name Toegankelijk Vlaanderen, private foundation, KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_hasselt); FOI **gap_inter_toegankelijk_vlaanderen_vaph_matrix_9900_3_57m_9901_loss_108k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3023/; rq_3023=done; spawn **rq_3024**; ticks=3023.
 - Next: **rq_3024 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3024 — 2026-10-12T19:52:05Z — rq_3024 leftover dual Plaatselijk Werkgelegenheidsagentschap van Midden-Brabant (Intradomus) Bertem YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish multi-code 85.592/87.101/87.301/88.101/88.911/88.991/88.993/88.999, extended to ~190 further Flemish municipality postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Plaatselijk Werkgelegenheidsagentschap van Midden-Brabant (Intradomus)** → KBO 0455.455.679 had 0 prior entity rows.
+- KBO: Actief since 29 juni 1995; VZW; zetel Tervuursesteenweg 159a 3060 Bertem; 1 VE; 0 prior entity rows for 0455.455.679
+- Found: official NBB VKT-VZW native PDF **2026-00063621** (44376 B / 12p; AV 09-03-2026; neergelegd 25/03/2026; MD5 f065a729f5c799271fe77d410f53a59b). VKT-VZW 9900 **EUR2403964** (+3.12%); 62 **EUR2421428**; 9901 **EUR-21386** (was 13205); 9904 -20995; equity 368090; cash 623566; FTE 64,3 (was 64,1).
+- FOI address: intradomus@pwa.be — general mailbox verified on official page https://www.pwa.be/nl/contact-1/contacteer-ons (address Tervuursesteenweg 159A matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bertem); FOI **gap_pwa_midden_brabant_vaph_matrix_9900_2_40m_9901_loss_21k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3024/; rq_3024=done; spawn **rq_3025**; ticks=3024.
+- Next: **rq_3025 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
