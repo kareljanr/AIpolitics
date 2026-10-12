@@ -33962,3 +33962,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@safsb.be — general mailbox verified on official contact page https://www.safsb.be/fr/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_safsb_frameries_vaph_matrix_733_14_22m_9901_444k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3112/; rq_3112=done; spawn **rq_3113**; ticks=3112.
 - Next: **rq_3113 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3113 — 2026-10-12T22:28:41Z — rq_3113 leftover dual Centrale de Services à Domicile de la Province de Namur - Réseau Solidaris (CSD Namur) Philippeville YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon home-help and family-help services (services d'aide aux familles et aînés, ASD, CSD; KBO name search over ~30 home-help names, filings ranked by NBB code 733 operating subsidies, largest first; Brussels Aide familiale and the large Flemish services already entities); every candidate passed the name/alias/KBO/website dedup check: **Centrale de Services à Domicile de la Province de Namur - Réseau Solidaris (CSD Namur)** → KBO 0443.258.524 had 0 prior entity rows.
+- KBO: Actief since 1 juni 1990; VZW; zetel Rue de France 35 5600 Philippeville; 5 VE; 0 prior entity rows for 0443.258.524
+- Found: official NBB VOL-VZW native PDF **2026-00197095** (1719658 B / 44p; AV 17-06-2026; neergelegd 22/06/2026; MD5 c37b5fb29631b08a9ea4071e70cf2940). VOL-VZW 733 **EUR9828593** (+2.26%); 62 **EUR12073141**; 9901 **EUR83623** (was 95874); 9904 80066; equity 31268; cash 949493; FTE 221,5 (was 227,7).
+- FOI address: csd.namur@solidaris.be — general mailbox verified on official contact page https://www.csdnamur.be/fr/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_csd_namur_vaph_matrix_733_9_83m_9901_84k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3113/; rq_3113=done; spawn **rq_3114**; ticks=3113.
+- Next: **rq_3114 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
