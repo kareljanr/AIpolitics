@@ -30326,3 +30326,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kikoen.be — general mailbox verified on official page https://www.kikoen.be/ouders/contacteer-kikoen.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_olen); FOI **gap_kikoen_olen_vaph_matrix_9900_3_44m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2751/; rq_2750=done; spawn **rq_2752**; ticks=2751.
 - Next: **rq_2752 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2752 — 2026-10-12T13:39:13Z — rq_2752 leftover dual Perspectief Oostende Oostende YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, plus KBO record of the Oostende projectvereniging Perspectief: **Perspectief Oostende** → KBO 0684.927.193 had 0 prior entity rows.
+- KBO: Actief since 1 november 2017; projectvereniging; zetel Stuiverstraat 401 8400 Oostende; 1 VE; 0 prior entity rows for 0684.927.193
+- Found: official NBB MIC-projectvereniging native PDF **2026-00442675** (48791 B / 13p; AV 25-03-2026; neergelegd 28/08/2026; MD5 bef97d79ef4478890de6e567fc84e3c2). MIC-projectvereniging 9900 **EUR341995** (-20.27%); 62 **EUR387843**; 9901 **EUR-98016** (was 32580); 9904 -98264; equity 556204; cash 482374; FTE 3,6 (was 3,6).
+- FOI address: info@wehelpengraag.be — general mailbox verified on official page https://www.wehelpengraag.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oostende); FOI **gap_perspectief_oostende_vaph_matrix_9900_0_34m_9901_loss_98k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2752/; rq_2752=done; spawn **rq_2753**; ticks=2752.
+- Next: **rq_2753 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
