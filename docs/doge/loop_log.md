@@ -30144,3 +30144,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@wgkantwerpen.be — general mailbox verified on official page https://www.witgelekruis.be/contacteer-ons (KBO number shown).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_herentals); FOI **gap_wgk_antwerpen_vaph_matrix_733_29_04m_9901_695k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2733/; rq_2733=done; spawn **rq_2734**; ticks=2733.
 - Next: **rq_2734 leftover dual** — Home-care / gezinszorg (NACE 88.101) and related units in progress; next: remaining units of this batch.
+
+
+## Tick 2734 — 2026-10-12T13:21:18Z — rq_2734 leftover dual Wit-Gele Kruis Vlaams-Brabant Lubbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101/88.991/87.302 activity search (home care for the elderly / ambulant addiction care / assistance flats) plus Wit-Gele Kruis provincial associations listed on witgelekruis.be: **Wit-Gele Kruis Vlaams-Brabant** → KBO 0458.516.129 had 0 prior entity rows.
+- KBO: Actief since 25 juni 1996; VZW; zetel Staatsbaan(LUB) 4A 3210 Lubbeek; 15 VE; 0 prior entity rows for 0458.516.129
+- Found: official NBB VOL-VZW native PDF **2026-00178397** (473242 B / 40p; AV 10-06-2026; neergelegd 12/06/2026; MD5 efc7cd4192fa2cf7921ae2fa5b8dac5a). VOL-VZW 733 **EUR16116388** (-6.36%); 62 **EUR40475497**; 9901 **EUR343937** (was 1157740); 9904 646630; equity 47156326; cash 13356254; FTE 473,8 (was 504,2).
+- FOI address: info@wgkvlb.be — general mailbox verified on official page https://www.witgelekruis.be/contacteer-ons (KBO number shown).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lubbeek); FOI **gap_wgk_vlaams_brabant_vaph_matrix_733_16_12m_9901_344k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2734/; rq_2734=done; spawn **rq_2735**; ticks=2734.
+- Next: **rq_2735 leftover dual** — Home-care / gezinszorg (NACE 88.101) and related units in progress; next: remaining units of this batch.
