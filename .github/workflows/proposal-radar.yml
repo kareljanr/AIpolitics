@@ -1,7 +1,8 @@
-# Daily Proposal Radar. Posts only new proposals and new ratings.
+# Daily Proposal Radar. Grok scores one open proposal, then Telegram posts new ratings.
 # Secrets (repo → Settings → Secrets → Actions):
+#   GROK_AUTH_JSON           Grok Build login
 #   TELEGRAM_BOT_TOKEN       same bot as the portfolio runner
-#   RADAR_TELEGRAM_CHAT_ID   politics chat or forum topic, not the bare finance group
+#   RADAR_TELEGRAM_CHAT_ID   DOGE Radar group
 #   RADAR_TELEGRAM_THREAD_ID optional topic id
 
 name: Proposal Radar
@@ -22,8 +23,9 @@ concurrency:
 jobs:
   digest:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 35
     env:
+      GROK_AUTH_JSON: ${{ secrets.GROK_AUTH_JSON }}
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.RADAR_TELEGRAM_CHAT_ID }}
       TELEGRAM_THREAD_ID: ${{ secrets.RADAR_TELEGRAM_THREAD_ID }}
@@ -46,8 +48,28 @@ jobs:
       - name: Dependencies
         run: pip install feedparser requests
 
+      - name: Cache Grok CLI
+        id: grok-cli
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.grok/bin
+            ~/.grok/downloads
+          key: grok-cli-linux-v1
+
+      - name: Install Grok CLI
+        if: steps.grok-cli.outputs.cache-hit != 'true'
+        run: curl -fsSL https://x.ai/cli/install.sh | bash
+
+      - name: Put grok on PATH
+        run: echo "$HOME/.grok/bin" >> "$GITHUB_PATH"
+
       - name: Harvest and refresh the new-ratings note
         run: python docs/proposal-radar/scripts/run_pipeline.py
+
+      - name: Rate one open proposal
+        continue-on-error: true
+        run: bash scripts/cloud-radar-tick.sh
 
       - name: Telegram
         run: python docs/proposal-radar/scripts/telegram_notify.py
@@ -56,22 +78,11 @@ jobs:
         run: |
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-          for path in \
-            docs/proposal-radar/data/ingest_queue.csv \
-            docs/proposal-radar/data/sources.csv \
-            docs/proposal-radar/data/digest_sent.csv \
-            docs/proposal-radar/public/weekly_latest.md \
-            docs/proposal-radar/public/leaderboard_clowns.md \
-            docs/proposal-radar/public/leaderboard_genius.md
-          do
-            if [[ -f "$path" ]]; then
-              git add -- "$path"
-            fi
-          done
+          git add -- docs/proposal-radar/analyses docs/proposal-radar/data docs/proposal-radar/public docs/proposal-radar/loop_log.md
           if git diff --cached --quiet; then
             echo "No radar files changed."
             exit 0
           fi
-          git commit -m "radar: record new proposals and what was already posted."
+          git commit -m "radar: score one proposal and record what was posted."
           git pull --rebase --autostash origin main
           git push origin HEAD

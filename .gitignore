@@ -4,6 +4,7 @@ Thumbs.db
 .env
 .env.*
 **/telegram.env
+.radar-unit.txt
 node_modules/
 
 # Editor
