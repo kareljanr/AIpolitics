@@ -34342,3 +34342,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3150 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3150 run locally as fallback.
 - Next: **rq_3150** — HE Galilée (code 733 EUR15.66m), Collège Saint-André Auvelais (EUR15.07m), KOMO Mechelen (EUR14.76m; Dutch voluntary draft), Collège Saint-Augustin Enghien (EUR14.40m), Collège Saint-Pierre Uccle (EUR13.16m), all mailboxes verified, after the dedup check.
+
+
+## Tick 3151 — 2026-10-12T23:46:24Z — rq_3150 leftover dual Haute Ecole Galilée Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Catholic school boards and university colleges (Flemish schoolbesturen VZW and FWB organising bodies / hautes écoles, ASBL); new KBO name search (legal form VZW/ASBL; words such as Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège Saint, Institut Saint), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Haute Ecole Galilée** → KBO 0458.880.274 had 0 prior entity rows.
+- KBO: Actief since 3 juli 1996; VZW; zetel Stoofstraat 58 1000 Brussel; 7 VE; 0 prior entity rows for 0458.880.274
+- Found: official NBB VOL-VZW native PDF **2026-00129908** (3241289 B / 53p; AV 27-05-2026; neergelegd 28/05/2026; MD5 46b56ac81f3062016944d1eb89e221b9). VOL-VZW 733 **EUR15661571** (+8.97%); 62 **EUR10970510**; 9901 **EUR11483117** (was 1286011); 9904 10619684; equity 24913539; cash 20962566; FTE 37,4 (was 36,4).
+- FOI address: info@galilee.be — general mailbox verified on official contact page https://www.galilee.be/contact-et-localisation.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_he_galilee_vaph_matrix_733_15_66m_9901_11483k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3151/; rq_3150=done; spawn **rq_3152**; ticks=3151.
+- Next: **rq_3152 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

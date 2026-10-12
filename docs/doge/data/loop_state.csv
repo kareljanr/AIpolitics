@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T23:45:52Z,every10_3150,3150,no,"tick3150 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3150 carried open; next HE Galilée, Saint-André Auvelais, KOMO, Saint-Augustin Enghien, Saint-Pierre Uccle, largest code 733 first, largest first (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T23:46:24Z,rq_3150,3151,no,tick3151 leftover dual Haute Ecole Galilée Bruxelles 0458.880.274 Strong PDF 2026-00129908 733 15.66m / 9901 11483k; next rq_3152 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
