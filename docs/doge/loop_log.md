@@ -32593,3 +32593,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@z33.be — general mailbox verified on official page https://www.z33.be/bezoek/praktische-info/ (address Bonnefantenstraat 1 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_hasselt); FOI **gap_z33_hasselt_vaph_matrix_9900_1_80m_9901_loss_124k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2976/; rq_2976=done; spawn **rq_2977**; ticks=2976.
 - Next: **rq_2977 leftover dual** — KANAL + Flemish culture batch in progress; next: remaining units of this batch.
+
+
+## Tick 2977 — 2026-10-12T18:28:01Z — rq_2977 leftover dual CAMPO Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish culture 90.111/90.120/90.130/90.311/91.210 in 18 Flemish city postcodes, plus leftover Brussels culture hits), unprocessed hits ranked by YE2025 NBB primary figure: **CAMPO** → KBO 0424.376.582 had 0 prior entity rows.
+- KBO: Actief since 2 december 1982; VZW; zetel Nieuwpoort 31-35 9000 Gent; 2 VE; 0 prior entity rows for 0424.376.582
+- Found: official NBB VKT-VZW native PDF **2026-00096680** (52471 B / 14p; AV 28-04-2026; neergelegd 30/04/2026; MD5 2f18fe89b3d79be54e4b7599a4b20337). VKT-VZW 9900 **EUR1707485** (-0.13%); 62 **EUR1445455**; 9901 **EUR168389** (was 134597); 9904 163719; equity 443832; cash 81451; FTE 17,9 (was 17,8).
+- FOI address: info@campo.nu — general mailbox verified on official page https://www.campo.nu/contact (address Nieuwpoort 31-35 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_campo_gent_vaph_matrix_9900_1_71m_9901_168k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2977/; rq_2977=done; spawn **rq_2978**; ticks=2977.
+- Next: **rq_2978 leftover dual** — KANAL + Flemish culture batch in progress; next: remaining units of this batch.

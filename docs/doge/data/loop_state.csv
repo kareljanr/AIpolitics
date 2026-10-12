@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T18:27:51Z,rq_2976,2976,no,tick2976 leftover dual Z33 Hasselt 0682.600.975 Strong PDF 2026-00102817 9900 1.80m / 9901 loss 124k; next rq_2977 KANAL + Flemish culture batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T18:28:01Z,rq_2977,2977,no,tick2977 leftover dual CAMPO Gent 0424.376.582 Strong PDF 2026-00096680 9900 1.71m / 9901 168k; next rq_2978 KANAL + Flemish culture batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
