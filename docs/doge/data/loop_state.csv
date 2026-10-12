@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T16:11:19Z,rq_2830,2831,no,"tick2831 leftover dual IKOO (Initiatieven voor Kortverblijf, Oppas en Opvang) Dendermonde 0449.514.133 Strong PDF 2026-00304156 9900 1.69m / 9901 75k; next rq_2832 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T16:11:33Z,rq_2832,2832,no,tick2832 leftover dual Comprendre et Parler Bruxelles (Woluwe-Saint-Lambert) 0408.181.443 Strong PDF 2026-00196720 9900 7.30m / 9901 53k; next rq_2833 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

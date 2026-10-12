@@ -31137,3 +31137,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_dendermonde); FOI **gap_ikoo_dendermonde_vaph_matrix_9900_1_69m_9901_75k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2831/; rq_2830=done; spawn **rq_2832**; ticks=2831.
 - Next: **rq_2832 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
 - Legal fix (tick 2831): verified on Justel (ejustice.just.fgov.be, numac 2004036026 and 2018032457) that the Flemish decree of 26 March 2004 on openbaarheid van bestuur was repealed as of 1 January 2019 by the Bestuursdecreet of 7 December 2018 (B.S. 19 December 2018), title II chapter 3 (art. II.26-II.51; scope II.28, request II.40, 20 calendar days II.43, appeal II.48). Updated docs/doge/foi-template-nl.md and the draft generator going forward. Existing drafts NOT rewritten: **234** of 2587 drafts in docs/doge/foi/drafts still cite the repealed 2004 decree and must be corrected by hand before sending.
+
+
+## Tick 2832 — 2026-10-12T16:11:33Z — rq_2832 leftover dual Comprendre et Parler Bruxelles (Woluwe-Saint-Lambert) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.102/88.103/88.911 activity searches (Flemish and Brussels-Capital postcodes), ranked by primary figure: **Comprendre et Parler** → KBO 0408.181.443 had 0 prior entity rows.
+- KBO: Actief since 14 juli 1966; VZW; zetel Oeverstraat 101 1200 Sint-Lambrechts-Woluwe; 5 VE; 0 prior entity rows for 0408.181.443
+- Found: official NBB VKT-VZW native PDF **2026-00196720** (47232 B / 12p; AV 19-05-2026; neergelegd 25/06/2026; MD5 b9f31076f89f9793bee4e964627648f4). VKT-VZW 9900 **EUR7298994** (-2.58%); 62 **EUR7168772**; 9901 **EUR53309** (was 50248); 9904 52437; equity 1994178; cash 2781133; FTE 89,3 (was 89,9).
+- FOI address: info@ccpasbl.be — general mailbox verified on official page https://ccpasbl.be/ (BCE shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_comprendre_et_parler_woluwe_vaph_matrix_9900_7_30m_9901_53k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2832/; rq_2832=done; spawn **rq_2833**; ticks=2832.
+- Next: **rq_2833 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
