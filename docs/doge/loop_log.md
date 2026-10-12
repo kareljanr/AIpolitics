@@ -33339,3 +33339,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3050 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3050 run locally as fallback.
 - Next: **rq_3050** — remaining hits below EUR1.49m (e.g. CRISP EUR1.49m) or a new code/public-body extension with larger recipients, largest first, after the dedup check.
+
+
+## Tick 3051 — 2026-10-12T20:30:16Z — rq_3050 leftover dual Eurocities Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (new codes 94.110 business, employers and public-authority associations, 94.120 professional bodies, 94.200 unions, 84.120 public administration of health/education/culture, 91.210; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure; every candidate passed the name/alias/KBO/website dedup check: **Eurocities** → KBO 0447.820.987 had 0 prior entity rows.
+- KBO: Actief since 11 mei 1992; VZW; zetel de Meeûssquare 1 1000 Brussel; 1 VE; 0 prior entity rows for 0447.820.987
+- Found: official NBB VOL-VZW native PDF **2026-00214406** (79753 B / 27p; AV 10-06-2026; neergelegd 29/06/2026; MD5 e104531f1217fd9c3390599b3281d45d). VOL-VZW 733 **EUR7149227** (-35.46%); 62 **EUR6194450**; 9901 **EUR-49619** (was -303746); 9904 21624; equity 2604756; cash 2868520; FTE 77 (was 81).
+- FOI address: info@eurocities.eu — general mailbox verified on official page https://eurocities.eu/privacy-policy/ (KBO number shown there).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_eurocities_brussel_vaph_matrix_733_7_15m_9901_loss_50k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3051/; rq_3050=done; spawn **rq_3052**; ticks=3051.
+- Next: **rq_3052 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

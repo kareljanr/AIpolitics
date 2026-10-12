@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T20:24:04Z,every10_3050,3050,no,"tick3050 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3050 carried open; next further Flemish postcodes/codes with larger recipients, largest first (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T20:30:16Z,rq_3050,3051,no,tick3051 leftover dual Eurocities Brussel 0447.820.987 Strong PDF 2026-00214406 733 7.15m / 9901 loss 50k; next rq_3052 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
