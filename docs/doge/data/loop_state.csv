@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T08:02:09Z,rq_2609,2609,no,"tick2609 leftover dual Westhoek Vrijetijd Anders - Metgezel Ieper 0439.200.459 Strong PDF 2026-00098421 9900 468k / 9901 23k; next rq_2610 continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T08:02:30Z,every10_2610,2610,no,tick2610 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2610 carried open; source VAPH non-VZA type lists (local fallback runner; Actions cron unreliable)

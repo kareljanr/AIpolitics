@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 2610** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2600; 2601-2609 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2601-2609 residual dual L5 (not near-complete of 348bn):** Huis in de Stad (Strong upgrade) · DOP Oost-Vlaanderen · DOP West-Vlaanderen · DOP Limburg · DOP Vlaams-Brabant en Brussel · KanNet · Bijstandsorganisatie Absoluut · Onafhankelijk Leven · WVA-Metgezel (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2290** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2342** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2601-2609** Huis in de Stad (Strong upgrade) · DOP Oost-Vlaanderen · DOP West-Vlaanderen · DOP Limburg · DOP Vlaams-Brabant en Brussel · KanNet · Bijstandsorganisatie Absoluut · Onafhankelijk Leven · WVA-Metgezel.
+
+### Inventory (tick 2610)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 56761 |
+| commitments.csv | 6342 |
+| leaderboard.csv | 8462 |
+| entities.csv | 2361 |
+| sources.csv | 7957 |
+| FOI ready | 2290 |
+| FOI total rows | 2342 |
+| research_queue open | rq_2610 (carried; source = VAPH non-VZA type lists tid:1397/1400/1406/1399/1398; next Ludentia, Oranje Vrije Tijd, VOC Opstap (micro), Alin/Zoom need Brussels parent) |
+
+### What improved since tick 2600
+
+- **New source (tick2601-2609):** Huis in de Stad (Strong upgrade) · DOP Oost-Vlaanderen · DOP West-Vlaanderen · DOP Limburg · DOP Vlaams-Brabant en Brussel · KanNet · Bijstandsorganisatie Absoluut · Onafhankelijk Leven · WVA-Metgezel. Source switch recorded in loop_log tick 2601: VAPH adreslijst type 1389 exhausted → Huis in de Stad Strong upgrade → VAPH non-VZA type lists (DOP tid:1397, bijstand tid:1400, gebruikersvereniging tid:1406, vrijetijdszorg tid:1399).
+- **Runner note:** 2576-2610 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2601-2609 (fast):** DOP Provincie Antwerpen (already in repo) · Fovig / Gezin en Handicap / Hersenletsel Liga (0 NBB deposits) · Dito (already in repo) · Alin (Sint-Joost) / Zoom (Schaarbeek) (no mined Brussels-commune parent) · Kompas Wondelgem / Integra Hasselt (already in repo, Strong) · VOC Opstap Roeselare (micro model) · Ampel (CGG-linked).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2600** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

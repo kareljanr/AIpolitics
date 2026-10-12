@@ -28949,3 +28949,14 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00098421** (61551 B / 19p; AV 31-03-2026; neergelegd 30/04/2026; MD5 7264a64a9394fbe81202876f66df9da3). VKT-VZW 9900 **EUR468093** (+0.89%); 62 **EUR436212**; 9901 **EUR22747** (was 73264); 9904 22881; equity 290400; cash 243904; FTE 9 (was 7,4).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.30; entities +1 (parent city_ieper); FOI **gap_wva_metgezel_ieper_vaph_matrix_9900_468k_9901_23k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2609/; rq_2609=done; spawn **rq_2610**; ticks=2609.
 - Next: **rq_2610 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2610 — 2026-10-12T08:02:30Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2290** of 2342 rows; inventory budgets 56761 · commitments 6342 · leaderboard 8462 · entities 2361 · sources 7957.
+- Top10: **stable** (2601-2609 added 9 leaderboard rows, max pi 5.00 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2601-2609: Huis in de Stad (Strong upgrade) · DOP Oost-Vlaanderen · DOP West-Vlaanderen · DOP Limburg · DOP Vlaams-Brabant en Brussel · KanNet · Bijstandsorganisatie Absoluut · Onafhankelijk Leven · WVA-Metgezel.
+- Hunt this tick: none (EVERY-10 used the tick); rq_2610 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2610 run locally as fallback.
+- Source choice (recorded): VAPH adreslijst type 1389 exhausted at tick 2600 → tick 2601 Huis in de Stad Strong upgrade → ticks 2602-2609 VAPH non-VZA type lists (DOP, bijstandsorganisaties, gebruikersverenigingen, vrijetijdszorg). Remaining after these: KBO NACE 87/88 lists.
+- Next: **rq_2610** — remaining VAPH vrijetijdszorg orgs (Ludentia, Oranje Vrije Tijd O-Vl/W-Vl, Hubbie/VINC need Brussels parent), then KBO NACE 87/88 lists.
