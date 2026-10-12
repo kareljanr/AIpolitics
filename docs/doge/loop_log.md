@@ -30255,3 +30255,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@thuiszorgderegenboog.be — general mailbox verified on official page https://www.thuiszorgderegenboog.be/contacteer-ons (KBO number shown).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bkz); FOI **gap_gezinszorg_de_regenboog_kruibeke_vaph_matrix_733_3_47m_9901_165k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2744/; rq_2744=done; spawn **rq_2745**; ticks=2744.
 - Next: **rq_2745 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2745 — 2026-10-12T13:30:09Z — rq_2745 leftover dual Kribbe Bethlehem Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101 (home care) and 88.911 (childcare) activity and name searches, plus Wit-Gele Kruis associations listed on witgelekruis.be: **Kribbe Bethlehem** → KBO 0434.406.778 had 0 prior entity rows.
+- KBO: Actief since 3 december 1987; VZW; zetel Lange Zavelstraat 62 2060 Antwerpen; 1 VE; 0 prior entity rows for 0434.406.778
+- Found: official NBB VKT-VZW native PDF **2026-00527832** (59515 B / 18p; AV 28-09-2026; neergelegd 28/09/2026; MD5 411702795aa0f60ec53ce64b96da37e9). VKT-VZW 9900 **EUR1022506** (+0.70%); 62 **EUR970499**; 9901 **EUR-281011** (was 54384); 9904 -298004; equity 906367; cash 36753; FTE 15,8 (was 15,5).
+- FOI address: contact@kribbe-bethlehem.be — general mailbox verified on official page https://www.kribbe-bethlehem.be/cox.php?p=contacteer-ons.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_kribbe_bethlehem_antwerpen_vaph_matrix_9900_1_02m_9901_loss_281k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2745/; rq_2745=done; spawn **rq_2746**; ticks=2745.
+- Next: **rq_2746 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
