@@ -33249,3 +33249,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@basketbal.vlaanderen — general mailbox verified on official page https://www.basketbal.vlaanderen/algemene-voorwaarden (KBO number and Ottergemsesteenweg Zuid 808 B bus 12 shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_basketbal_vlaanderen_vaph_matrix_9900_2_60m_9901_loss_203k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3041/; rq_3040=done; spawn **rq_3042**; ticks=3041.
 - Next: **rq_3042 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3042 — 2026-10-12T20:22:37Z — rq_3042 leftover dual Citoyenneté et Participation Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (codes 93.191 sport federations, 93.121/93.199 sport, 84.130 public administration of economic affairs, 72.200 social-science research, 94.991 youth/adult associations; ~59 Flemish city and Brussels postcodes) plus rq_3030 leftovers, ranked by YE2025 NBB primary figure; candidates passed a name/alias/KBO/website dedup check against existing entities: **Citoyenneté et Participation** → KBO 0409.117.690 had 0 prior entity rows.
+- KBO: Actief since 6 maart 1969; VZW; zetel Kunstlaan 50 1000 Brussel; 3 VE; 0 prior entity rows for 0409.117.690
+- Found: official NBB VKT-VZW native PDF **2026-00323668** (244073 B / 16p; AV 16-06-2026; neergelegd 21/07/2026; MD5 d387b45a093466ae41bc0c564729cda7). VKT-VZW 9900 **EUR2427987** (+12.14%); 62 **EUR2329314**; 9901 **EUR78719** (was 164927); 9904 90871; equity 660377; cash 375487; FTE n/a.
+- FOI address: info@citoyennete-participation.be — general mailbox verified on official page https://citoyennete-participation.be/ (KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_citoyennete_participation_vaph_matrix_9900_2_43m_9901_79k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3042/; rq_3042=done; spawn **rq_3043**; ticks=3042.
+- Next: **rq_3043 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
