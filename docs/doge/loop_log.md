@@ -29283,3 +29283,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00115031** (2981585 B / 42p; AV 07-05-2026; neergelegd 18/05/2026; MD5 81698d60cfae0ebdb18dce6a3bb08137). VOL-VZW 733 **EUR27595180** (+5.16%); 62 **EUR23274861**; 9901 **EUR571269** (was -987135); 9904 568490; equity 12510835; cash 1358631; FTE 323,6 (was 329,8).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_wommelgem); FOI **gap_kiosk_wommelgem_vaph_matrix_733_27_60m_9901_571k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2645/; rq_2645=done; spawn **rq_2646**; ticks=2645.
 - Next: **rq_2646 leftover dual** — continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists.
+
+
+## Tick 2646 — 2026-10-12T08:28:02Z — rq_2646 leftover dual Elegast Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OOOC contact list (april 2026): **Elegast** → KBO 0410.412.146 had 0 prior entity rows.
+- KBO: Actief since 12 mei 1956; VZW; zetel Belgielei 203, 2018 Antwerpen; 11 VE; 0 prior entity rows for 0410.412.146
+- Found: official NBB VOL-VZW native PDF **2026-00147478** (3172327 B / 53p; AV 08-06-2026; neergelegd 09/06/2026; MD5 8ea5c46612c298e15b5658a1a22fc0dc). VOL-VZW 733 **EUR15914241** (+3.59%); 62 **EUR14122222**; 9901 **EUR200093** (was 157010); 9904 169641; equity 11182594; cash 7542862; FTE 191,6 (was 200,8).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_elegast_antwerpen_vaph_matrix_733_15_91m_9901_200k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2646/; rq_2646=done; spawn **rq_2647**; ticks=2646.
+- Next: **rq_2647 leftover dual** — continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists.
