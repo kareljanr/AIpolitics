@@ -34312,3 +34312,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vinci.be — general mailbox verified on official legal-notice page https://www.vinci.be/fr/mentions-legales (page gives BCE 0459.279.954).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_woluwe_saint_lambert); FOI **gap_he_vinci_vaph_matrix_733_65_00m_9901_6865k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3147/; rq_3147=done; spawn **rq_3148**; ticks=3147.
 - Next: **rq_3148 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3148 — 2026-10-12T23:44:12Z — rq_3148 leftover dual Haute Ecole de Namur-Liège-Luxembourg (Hénallux) Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Catholic school boards and university colleges (Flemish schoolbesturen VZW and FWB organising bodies / hautes écoles, ASBL); new KBO name search (legal form VZW/ASBL; words such as Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège Saint, Institut Saint), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Haute Ecole de Namur-Liège-Luxembourg (Hénallux)** → KBO 0839.012.683 had 0 prior entity rows.
+- KBO: Actief since 5 september 2011; VZW; zetel Rue Saint-Donat(SS) 130 5002 Namur; 12 VE; 0 prior entity rows for 0839.012.683
+- Found: official NBB VOL-VZW native PDF **2026-00188784** (1546576 B / 51p; AV 10-06-2026; neergelegd 16/06/2026; MD5 a5bdd9d146f9f31ef0f97af5e3c78cc8). VOL-VZW 733 **EUR46030124** (+4.17%); 62 **EUR39337289**; 9901 **EUR2158224** (was 2982817); 9904 1900456; equity 32068887; cash 9230148; FTE 99 (was 85,7).
+- FOI address: info@henallux.be — general mailbox verified on official page https://www.henallux.be/services-generaux (Rue Saint-Donat 130, the ASBL KBO seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_henallux_vaph_matrix_733_46_03m_9901_2158k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3148/; rq_3148=done; spawn **rq_3149**; ticks=3148.
+- Next: **rq_3149 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
