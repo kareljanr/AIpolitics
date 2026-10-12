@@ -29960,3 +29960,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ondo.nu — general mailbox verified on official page https://www.ondo.nu/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_ondo_antwerpen_vaph_matrix_9900_3_79m_9901_261k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2715/; rq_2715=done; spawn **rq_2716**; ticks=2715.
 - Next: **rq_2716 leftover dual** — KBO NACE 87.20x (residential disability/psychiatric care) scan in progress; next: remaining 87.201/87.202/87.203 units (spare Philippus Neri 0410.505.582 Sint-Niklaas, check odd 2024 loss), then 88.994 welzijnswerk and 87.301.
+
+
+## Tick 2716 — 2026-10-12T09:26:53Z — rq_2716 leftover dual Samenwerkingsverband PVT Valckeburg Roeselare YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.201/87.202/87.203 activity search (residential care for persons with a disability / psychiatric problems): **Samenwerkingsverband PVT Valckeburg** → KBO 0474.918.235 had 0 prior entity rows.
+- KBO: Actief since 6 april 2001; VZW; zetel Kloosterstraat 7 8800 Roeselare; 1 VE; 0 prior entity rows for 0474.918.235
+- Found: official NBB VKT-VZW native PDF **2026-00215009** (52113 B / 13p; AV 13-05-2026; neergelegd 26/06/2026; MD5 0eb23d60d811f83d6cf8ce17d8fc73fd). VKT-VZW 9900 **EUR3387206** (-8.56%); 62 **EUR3183904**; 9901 **EUR-125005** (was -32679); 9904 -32062; equity 5683255; cash 281744; FTE 40,3 (was 44).
+- FOI address: pvt@valckeburg.be — general mailbox verified on official page https://www.valckeburg.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_roeselare); FOI **gap_pvt_valckeburg_roeselare_vaph_matrix_9900_3_39m_9901_loss_125k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2716/; rq_2716=done; spawn **rq_2717**; ticks=2716.
+- Next: **rq_2717 leftover dual** — KBO NACE 87.20x (residential disability/psychiatric care) scan in progress; next: remaining 87.201/87.202/87.203 units (spare Philippus Neri 0410.505.582 Sint-Niklaas, check odd 2024 loss), then 88.994 welzijnswerk and 87.301.
