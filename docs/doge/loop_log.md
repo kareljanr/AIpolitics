@@ -29738,3 +29738,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@bethaniekortrijk.be — general mailbox verified on official page https://www.bethaniekortrijk.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_bethanie_kortrijk_vaph_matrix_9900_2_20m_9901_loss_23k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2693/; rq_2693=done; spawn **rq_2694**; ticks=2693.
 - Next: **rq_2694 leftover dual** — OVBJ leftover re-check across the 5 provincial lists (KBO-number match) in progress; next: remaining re-check leftovers, then KBO NACE 87/88 lists.
+
+
+## Tick 2694 — 2026-10-12T09:02:25Z — rq_2694 leftover dual De Patio Brugge YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ West-Vlaanderen list (re-check leftovers): **De Patio** → KBO 0883.656.241 had 0 prior entity rows.
+- KBO: Actief since 21 september 2006; VZW; zetel Stationslaan 23 8200 Brugge; 11 VE; 0 prior entity rows for 0883.656.241
+- Found: official NBB VOL-VZW native PDF **2026-00184849** (1864095 B / 43p; AV 17-06-2026; neergelegd 18/06/2026; MD5 f3656925f73996519ee185195f91f998). VOL-VZW 733 **EUR10218829** (+2.87%); 62 **EUR8787575**; 9901 **EUR468353** (was 305310); 9904 407972; equity 10312566; cash 1871427; FTE 115,3 (was 115,4).
+- FOI address: contact@depatiovzw.be — general mailbox verified on official homepage https://www.depatiovzw.be/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_de_patio_brugge_vaph_matrix_733_10_22m_9901_468k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2694/; rq_2694=done; spawn **rq_2695**; ticks=2694.
+- Next: **rq_2695 leftover dual** — OVBJ leftover re-check across the 5 provincial lists (KBO-number match) in progress; next: remaining re-check leftovers, then KBO NACE 87/88 lists.
