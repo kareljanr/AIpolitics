@@ -29339,3 +29339,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00196521** (652234 B / 50p; AV 10-06-2026; neergelegd 23/06/2026; MD5 f580c576090c98dc916bec8e73459cab). VOL-VZW 733 **EUR10900179** (+2.90%); 62 **EUR9678071**; 9901 **EUR-1209** (was 423189); 9904 19104; equity 7764286; cash 249933; FTE 134 (was 123,2).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_duffel); FOI **gap_jeugdzorg_ter_elst_duffel_vaph_matrix_733_10_90m_9901_loss_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2651/; rq_2651=done; spawn **rq_2652**; ticks=2651.
 - Next: **rq_2652 leftover dual** — continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
+
+
+## Tick 2652 — 2026-10-12T08:32:35Z — rq_2652 leftover dual DVC De Triangel Lievegem YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien GES+ contact list (april 2026): **DVC De Triangel** → KBO 0861.275.173 had 0 prior entity rows.
+- KBO: Actief since 23 oktober 2003; VZW; zetel Molendreef 16, 9920 Lievegem; 2 VE; 0 prior entity rows for 0861.275.173
+- Found: official NBB VOL-VZW native PDF **2026-00209693** (607902 B / 45p; AV 10-06-2026; neergelegd 24/06/2026; MD5 4452093b2231305528dd2ddfd3f17825). VOL-VZW 733 **EUR32491239** (+6.16%); 62 **EUR29817007**; 9901 **EUR2367904** (was 2571046); 9904 2614770; equity 32229416; cash 4026923; FTE 391,2 (was 378,2).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lievegem); FOI **gap_dvc_de_triangel_lievegem_vaph_matrix_733_32_49m_9901_2_37m_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2652/; rq_2652=done; spawn **rq_2653**; ticks=2652.
+- Next: **rq_2653 leftover dual** — continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
