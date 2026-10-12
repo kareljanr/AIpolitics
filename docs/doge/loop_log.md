@@ -29523,3 +29523,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00340351** (316878 B / 23p; AV 11-03-2026; neergelegd 28/07/2026; MD5 533b5872ff35cb62d2577aaf9163e334). VKT-VZW 9900 **EUR2828170** (+5.22%); 62 **EUR2627443**; 9901 **EUR65312** (was 64360); 9904 61869; equity 1622797; cash 647155; FTE 35,6 (was 35).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_genk); FOI **gap_cas_genk_vaph_matrix_9900_2_83m_9901_65k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2671/; rq_2671=done; spawn **rq_2672**; ticks=2671.
 - Next: **rq_2672 leftover dual** — Opgroeien OVBJ Antwerpen leftovers done; next: OVBJ Vlaams-Brabant/Brussel (PDF needs re-parse), then KBO NACE 87/88 lists.
+
+
+## Tick 2672 — 2026-10-12T08:40:16Z — rq_2672 leftover dual YAR Vlaanderen Hasselt YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Limburg list (mei 2026): **YAR Vlaanderen** → KBO 0821.247.728 had 0 prior entity rows.
+- KBO: Actief since 9 december 2009; VZW; zetel Schippersstraat 13, 3500 Hasselt; 1 VE; 0 prior entity rows for 0821.247.728
+- Found: official NBB VKT-VZW native PDF **2026-00230113** (1296177 B / 17p; AV 28-05-2026; neergelegd 30/06/2026; MD5 e7dd75b47673a63c02d034b4e5843d0a). VKT-VZW 9900 **EUR2067262** (+22.43%); 62 **EUR1871003**; 9901 **EUR44807** (was -134217); 9904 55979; equity 1046030; cash 666803; FTE 22,5 (was 21,2).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_hasselt); FOI **gap_yar_vlaanderen_hasselt_vaph_matrix_9900_2_07m_9901_45k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2672/; rq_2672=done; spawn **rq_2673**; ticks=2672.
+- Next: **rq_2673 leftover dual** — Opgroeien OVBJ Antwerpen leftovers done; next: OVBJ Vlaams-Brabant/Brussel (PDF needs re-parse), then KBO NACE 87/88 lists.
