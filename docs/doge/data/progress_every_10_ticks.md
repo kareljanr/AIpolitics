@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2750** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2740; 2741-2749 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2741-2749 residual dual L5 (not near-complete of 348bn):** Wit-Gele Kruis Oost-Vlaanderen (Gent) · Ferm Thuiszorg (Leuven) · Federatie Wit-Gele Kruis (Brussel) · Gezinszorg De Regenboog (Kruibeke) · Kribbe Bethlehem (Antwerpen) · Kribbe Sint-Jacob (Leuven) · Het Toverhuis (Kessel-Lo) · Hebe Kenniscentrum Kinderopvang (Wilrijk) · Dagcentrum Kasteel (Turnhout) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2416** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2468** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2741-2749** Wit-Gele Kruis Oost-Vlaanderen (Gent) · Ferm Thuiszorg (Leuven) · Federatie Wit-Gele Kruis (Brussel) · Gezinszorg De Regenboog (Kruibeke) · Kribbe Bethlehem (Antwerpen) · Kribbe Sint-Jacob (Leuven) · Het Toverhuis (Kessel-Lo) · Hebe Kenniscentrum Kinderopvang (Wilrijk) · Dagcentrum Kasteel (Turnhout).
+
+### Inventory (tick 2750)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 57823 |
+| commitments.csv | 6468 |
+| leaderboard.csv | 8588 |
+| entities.csv | 2487 |
+| sources.csv | 8335 |
+| FOI ready | 2416 |
+| FOI total rows | 2468 |
+| research_queue open | rq_2750 (carried; next: more NACE 88.911 childcare and 88.101 home-care VZWs outside the main cities; Perspectief Oostende needs projectvereniging handling) |
+
+### What improved since tick 2740
+
+- **New source (tick2741-2749):** Wit-Gele Kruis Oost-Vlaanderen (Gent) · Ferm Thuiszorg (Leuven) · Federatie Wit-Gele Kruis (Brussel) · Gezinszorg De Regenboog (Kruibeke) · Kribbe Bethlehem (Antwerpen) · Kribbe Sint-Jacob (Leuven) · Het Toverhuis (Kessel-Lo) · Hebe Kenniscentrum Kinderopvang (Wilrijk) · Dagcentrum Kasteel (Turnhout). Source: Wit-Gele Kruis list (witgelekruis.be), KBO name search (gezinszorg) and KBO NACE-BEL 88.101/88.911/88.993 activity searches. WGK Oost-Vlaanderen: scanned NBB PDF, OCR unreliable, so all used figures were read from the rendered PDF pages (write.py now accepts the m05-f-p model).
+- **FOI addresses:** verified on opened official pages except **Ferm Thuiszorg** (thuiszorg@samenferm.be seen only on a third-party listing; samenferm.be is script-rendered; FOI row marked NEEDS VERIFICATION). Dagcentrum Kasteel uses its unit mailbox on theaterstap.be.
+- **Runner note:** 2576-2750 ran on the local fallback runner (Actions last ticked 2575), from the fresh clone /workspace/AIpolitics-loop since 2681; toolkit persistent at /workspace/AIpolitics-loop-tk. Do not run both at once.
+- **Rejected 2741-2749 (fast):** Perspectief Oostende (projectvereniging, not a VZW); Gezinszorg Ronse (only a named person's mailbox); Kinderdagverblijf De Ketjes (mailbox on site misspelt); Maan en Wolf (no own mailbox); Familiezorg, Familiezorg West-Vlaanderen (already in repo); Solidariteit voor het Gezin (no NBB deposits).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2740** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

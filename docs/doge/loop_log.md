@@ -30305,3 +30305,14 @@ Append-only. Each tick adds a short entry.
 - FOI address: dagcentrumkasteel@theaterstap.be — unit mailbox verified on official page https://www.theaterstap.be/nl/contact (KBO 0445.606.518 shown; general box info@theaterstap.be belongs to Theater Stap, a separate KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_turnhout); FOI **gap_dagcentrum_kasteel_turnhout_vaph_matrix_9900_0_79m_9901_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2749/; rq_2749=done; spawn **rq_2750**; ticks=2749.
 - Next: **rq_2750 leftover dual** — Batch done; next: more NACE 88.911 childcare VZWs and 88.101 home-care services outside the main cities; skipped: Perspectief Oostende (a projectvereniging, not a VZW; needs separate public-body handling), Gezinszorg Ronse (only a named person's mailbox), Kinderdagverblijf De Ketjes (mailbox on site misspelt), Maan en Wolf (no own mailbox), Familiezorg / Familiezorg West-Vlaanderen (already in repo).
+
+
+## Tick 2750 — 2026-10-12T13:31:15Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2416** of 2468 rows; inventory budgets 57823 · commitments 6468 · leaderboard 8588 · entities 2487 · sources 8335.
+- Top10: **stable** (2741-2749 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2741-2749: Wit-Gele Kruis Oost-Vlaanderen (Gent) · Ferm Thuiszorg (Leuven) · Federatie Wit-Gele Kruis (Brussel) · Gezinszorg De Regenboog (Kruibeke) · Kribbe Bethlehem (Antwerpen) · Kribbe Sint-Jacob (Leuven) · Het Toverhuis (Kessel-Lo) · Hebe Kenniscentrum Kinderopvang (Wilrijk) · Dagcentrum Kasteel (Turnhout).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2750 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2750 run locally as fallback.
+- Source choice (recorded): ticks 2741-2749 used the Wit-Gele Kruis list, KBO name search and NACE 88.101/88.911/88.993 searches; WGK Oost-Vlaanderen figures read visually from a scanned filing. FOI: general mailboxes only, each verified on an opened official page.
+- Next: **rq_2750** — more NACE 88.911 childcare and 88.101 home-care VZWs outside the main cities; Perspectief Oostende (projectvereniging) needs public-body handling.
