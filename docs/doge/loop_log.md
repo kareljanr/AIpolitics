@@ -33612,3 +33612,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@binhome.brussels — general mailbox verified on the official SLRB-BGHM page for this SISP https://slrb-bghm.brussels/fr/sisp/binhome (own site www.binhome.brussels listed there did not respond on 2026-10-12).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_binhome_code740_split_740_0_38m_9901_loss_286k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3077/; rq_3077=done; spawn **rq_3078**; ticks=3077.
 - Next: **rq_3078 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3078 — 2026-10-12T21:19:56Z — rq_3078 leftover dual Le Logis-Floréal Watermael-Boitsfort YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE SLRB-BGHM official list of the 16 Brussels public-service housing companies (SISP), https://slrb-bghm.brussels/fr/societes-immobilieres-de-service-public/toutes-les-sisp, plus a KBO NACE-BEL scan (38.110/38.210/36.000/49.310/68.201) for intercommunales and public companies; ranked by YE2025 NBB company-model code 740 (operating subsidies and compensatory amounts from public authorities); every candidate passed the name/alias/KBO/website dedup check: **Le Logis-Floréal** → KBO 0401.984.430 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1968; SC; zetel Georges Benoidtlaan 22 1170 Watermaal-Bosvoorde; 1 VE; 0 prior entity rows for 0401.984.430
+- Found: official NBB VOL-SC native PDF **2026-00233487** (2850893 B / 97p; AV 30-05-2026; neergelegd 01/07/2026; MD5 310771a0c0bb08ed43ca1b8f7d4a2416). VOL-SC 740 **EUR224456** (-12.31%); 62 **EUR6339162**; 9901 **EUR-910447** (was -1040564); 9904 328737; equity 59262992; cash 14432901; FTE 89,4 (was 91).
+- FOI address: info@lelogisfloreal.be — general mailbox verified on official contact page https://www.lelogisfloreal.be/contact/ (with siège social Avenue Georges Benoidt 22).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_logis_floreal_code740_split_740_0_22m_9901_loss_910k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3078/; rq_3078=done; spawn **rq_3079**; ticks=3078.
+- Next: **rq_3079 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

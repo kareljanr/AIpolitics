@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T21:19:45Z,rq_3077,3077,no,tick3077 leftover dual BinHôme Uccle 0403.357.573 Strong PDF 2026-00174145 740 0.38m / 9901 loss 286k; next rq_3078 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T21:19:56Z,rq_3078,3078,no,tick3078 leftover dual Le Logis-Floréal Watermael-Boitsfort 0401.984.430 Strong PDF 2026-00233487 740 0.22m / 9901 loss 910k; next rq_3079 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
