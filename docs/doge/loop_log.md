@@ -29200,3 +29200,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB MIC-VZW native PDF **2026-00362456** (41716 B / 9p; AV 18-05-2026; neergelegd 31/07/2026; MD5 1d561e44bfc61c62c461754e83020c44). MIC-VZW 9900 **EUR1595562** (+7512.60%); 62 **EUR0**; 9901 **EUR54963** (was -21525); 9904 58962; equity 762215; cash 903852; .
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kraainem); FOI **gap_cig_convento_kraainem_vaph_matrix_9900_1_60m_9901_55k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2636/; rq_2636=done; spawn **rq_2637**; ticks=2636.
 - Next: **rq_2637 leftover dual** — continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists.
+
+
+## Tick 2637 — 2026-10-12T08:22:39Z — rq_2637 leftover dual CIG Nestel Kortrijk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien CIG contact list (april 2026): **CIG Nestel** → KBO 0418.829.073 had 0 prior entity rows. General mailbox on cignestel.be is obfuscated and could not be verified; using the official Opgroeien CIG-list contact.
+- KBO: Actief since 22 augustus 1978; VZW; zetel Doorniksesteenweg 207 bus 1, 8500 Kortrijk; 1 VE; 0 prior entity rows for 0418.829.073
+- Found: official NBB VKT-VZW native PDF **2026-00059172** (55535 B / 17p; AV 10-03-2026; neergelegd 20/03/2026; MD5 7292a9b83c670a3c99c27dadc8cc3b0c). VKT-VZW 9900 **EUR2071618** (+3.87%); 62 **EUR1800591**; 9901 **EUR85376** (was -18406); 9904 68626; equity 3658059; cash 358104; FTE 23,3 (was 22,6).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_cig_nestel_kortrijk_vaph_matrix_9900_2_07m_9901_85k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2637/; rq_2637=done; spawn **rq_2638**; ticks=2637.
+- Next: **rq_2638 leftover dual** — continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists.
