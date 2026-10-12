@@ -34252,3 +34252,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: direction@isu-dour.be — direction mailbox verified on official school site https://www.isu-dour.be/acces/local/index.html (Rue du Roi Albert 10, the ASBL KBO seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_isu_dour_vaph_matrix_733_10_28m_9901_428k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3141/; rq_3140=done; spawn **rq_3142**; ticks=3141.
 - Next: **rq_3142 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3142 — 2026-10-12T23:21:49Z — rq_3142 leftover dual Centre Scolaire Don Bosco - Saint-Charles (Tournai) Tournai YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies (pouvoirs organisateurs, ASBL) and related free-education non-profits; KBO name search over school/PO names (legal form ASBL), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Centre Scolaire Don Bosco - Saint-Charles (Tournai)** → KBO 0430.572.805 had 0 prior entity rows.
+- KBO: Actief since 6 september 1985; VZW; zetel Boulevard Léopold(TOU) 63 7500 Tournai; 3 VE; 0 prior entity rows for 0430.572.805
+- Found: official NBB VOL-VZW native PDF **2026-00439713** (959473 B / 33p; AV 18-06-2026; neergelegd 28/08/2026; MD5 a62f4a400e94e649cfab1eeb9a414d42). VOL-VZW 733 **EUR9959008** (-0.33%); 62 **EUR9038989**; 9901 **EUR-84425** (was -37715); 9904 -76788; equity 3795729; cash 736460; FTE 5,7 (was 5,6).
+- FOI address: info@donbosco-tournai.be — general mailbox verified on official contact page https://donbosco-tournai.be/contact/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_tournai); FOI **gap_don_bosco_tournai_vaph_matrix_733_9_96m_9901_loss_84k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3142/; rq_3142=done; spawn **rq_3143**; ticks=3142.
+- Next: **rq_3143 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
