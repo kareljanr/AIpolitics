@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T14:16:47Z,rq_2783,2783,no,tick2783 leftover dual De Gavermeersen Deerlijk 0456.794.774 Strong PDF 2026-00168182 733 2.35m / 9901 1275k; next rq_2784 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T14:16:56Z,rq_2784,2784,no,tick2784 leftover dual Amphora Wingene 0833.161.902 Strong PDF 2026-00216483 733 2.21m / 9901 312k; next rq_2785 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

@@ -30650,3 +30650,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@degavermeersen.be — general mailbox verified on official page https://degavermeersen.be/contact/ (opened via web fetch; the box network could not reach the site).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_deerlijk); FOI **gap_de_gavermeersen_deerlijk_vaph_matrix_733_2_35m_9901_1275k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2783/; rq_2783=done; spawn **rq_2784**; ticks=2783.
 - Next: **rq_2784 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2784 — 2026-10-12T14:16:56Z — rq_2784 leftover dual Amphora Wingene YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301 (nursing homes) and 88.101 (home care) activity search, West-/Oost-Vlaanderen and Leuven/Limburg postcodes, ranked by primary figure: **Amphora** → KBO 0833.161.902 had 0 prior entity rows.
+- KBO: Actief since 14 januari 2011; VZW; zetel Sint-Amandsstraat 2 8750 Wingene; 2 VE; 0 prior entity rows for 0833.161.902
+- Found: official NBB VOL-VZW native PDF **2026-00216483** (1022710 B / 49p; AV 15-06-2026; neergelegd 25/06/2026; MD5 a4c2eb9bdfa3ee9449063c7c06dccda6). VOL-VZW 733 **EUR2214719** (+3.03%); 62 **EUR8716713**; 9901 **EUR311763** (was 505946); 9904 230357; equity 12887112; cash 3511385; FTE 133,8 (was 124,7).
+- FOI address: onthaal.wingene@gvo.be — general mailbox verified on official page https://www.amphora.gvo.be/nl/contact/ (reception mailbox).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_wingene); FOI **gap_amphora_wingene_vaph_matrix_733_2_21m_9901_312k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2784/; rq_2784=done; spawn **rq_2785**; ticks=2784.
+- Next: **rq_2785 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
