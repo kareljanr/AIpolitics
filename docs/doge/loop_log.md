@@ -30487,3 +30487,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@deblokkendoosoudenaarde.be — general mailbox verified on official page https://www.deblokkendoosoudenaarde.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oudenaarde); FOI **gap_de_blokkendoos_oudenaarde_vaph_matrix_9900_0_84m_9901_40k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2767/; rq_2767=done; spawn **rq_2768**; ticks=2767.
 - Next: **rq_2768 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2768 — 2026-10-12T13:48:36Z — rq_2768 leftover dual Poerderie Kortrijk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, Limburg / West- and Oost-Vlaanderen postcodes: **Poerderie** → KBO 0874.772.823 had 0 prior entity rows.
+- KBO: Actief since 30 juni 2005; VZW; zetel Wagenmakersstraat(Kor) 54 8500 Kortrijk; 5 VE; 0 prior entity rows for 0874.772.823
+- Found: official NBB VKT-VZW native PDF **2026-00217081** (58495 B / 17p; AV 25-06-2026; neergelegd 25/06/2026; MD5 29959b3fdec8f1f129696113553c3c9a). VKT-VZW 9900 **EUR5593891** (+11.42%); 62 **EUR5042971**; 9901 **EUR156344** (was 46305); 9904 109167; equity 3504752; cash 715594; FTE 115,1 (was 106,6).
+- FOI address: welkom@poerderie.be — general mailbox verified on official page https://poerderie.be/ (KBO number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_poerderie_kortrijk_vaph_matrix_9900_5_59m_9901_156k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2768/; rq_2768=done; spawn **rq_2769**; ticks=2768.
+- Next: **rq_2769 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
