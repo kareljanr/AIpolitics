@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 2680** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2670; 2671-2679 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2671-2679 residual dual L5 (not near-complete of 348bn):** CAS Genk · YAR Vlaanderen Hasselt · Jongerenwerking Pieter Simenon Lommel · Huize Sint-Vincentius Halen · Jeugdzorgcentrum Maaseik · Daidalos Houthalen-Helchteren · Cirkant Turnhout · Dageraad Schilde · De Touter Antwerpen (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2353** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2405** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2671-2679** CAS Genk · YAR Vlaanderen Hasselt · Jongerenwerking Pieter Simenon Lommel · Huize Sint-Vincentius Halen · Jeugdzorgcentrum Maaseik · Daidalos Houthalen-Helchteren · Cirkant Turnhout · Dageraad Schilde · De Touter Antwerpen.
+
+### Inventory (tick 2680)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 57294 |
+| commitments.csv | 6405 |
+| leaderboard.csv | 8525 |
+| entities.csv | 2424 |
+| sources.csv | 8146 |
+| FOI ready | 2353 |
+| FOI total rows | 2405 |
+| research_queue open | rq_2680 (carried; source = Opgroeien OVBJ provincial lists; next: OVBJ leftovers) |
+
+### What improved since tick 2670
+
+- **New source (tick2671-2679):** CAS Genk · YAR Vlaanderen Hasselt · Jongerenwerking Pieter Simenon Lommel · Huize Sint-Vincentius Halen · Jeugdzorgcentrum Maaseik · Daidalos Houthalen-Helchteren · Cirkant Turnhout · Dageraad Schilde · De Touter Antwerpen. Source: Opgroeien OVBJ Limburg list (finished) then OVBJ Antwerpen list (finished).
+- **Runner note:** 2576-2680 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2671-2679 (fast):** none new; OVBJ Vlaams-Brabant/Brussel PDF could not be parsed (not a valid PDF on download).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2670** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

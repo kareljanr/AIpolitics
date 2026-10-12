@@ -29595,3 +29595,14 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00106953** (61219 B / 19p; AV 02-04-2026; neergelegd 09/05/2026; MD5 54e01dae34b98946755ad0381b9da5e7). VKT-VZW 9900 **EUR5832841** (+2.70%); 62 **EUR5636356**; 9901 **EUR58103** (was 54399); 9904 36858; equity 1204740; cash 459878; FTE 78,4 (was 76,1).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_de_touter_antwerpen_vaph_matrix_9900_5_83m_9901_58k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2679/; rq_2679=done; spawn **rq_2680**; ticks=2679.
 - Next: **rq_2680 leftover dual** — Opgroeien OVBJ Antwerpen leftovers done; next: OVBJ Vlaams-Brabant/Brussel (PDF needs re-parse), then KBO NACE 87/88 lists.
+
+
+## Tick 2680 — 2026-10-12T08:41:39Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2353** of 2405 rows; inventory budgets 57294 · commitments 6405 · leaderboard 8525 · entities 2424 · sources 8146.
+- Top10: **stable** (2671-2679 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2671-2679: CAS Genk · YAR Vlaanderen Hasselt · Jongerenwerking Pieter Simenon Lommel · Huize Sint-Vincentius Halen · Jeugdzorgcentrum Maaseik · Daidalos Houthalen-Helchteren · Cirkant Turnhout · Dageraad Schilde · De Touter Antwerpen.
+- Hunt this tick: none (EVERY-10 used the tick); rq_2680 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2680 run locally as fallback.
+- Source choice (recorded): ticks 2671-2676 finished the Opgroeien OVBJ Limburg list; ticks 2677-2679 the OVBJ Antwerpen list (mei 2026). FOI: general mailboxes where published; named Opgroeien-list contacts for Huize Sint-Vincentius and Jeugdzorgcentrum.
+- Next: **rq_2680** — re-fetch OVBJ Vlaams-Brabant/Brussel list; IBIS (verify mailbox); then KBO NACE 87/88 lists.
