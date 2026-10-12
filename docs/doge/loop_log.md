@@ -33662,3 +33662,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@centrhabitat.be — general mailbox verified on official site https://www.centrhabitat.be/ (contact block with address).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_centr_habitat_code740_split_740_1_30m_9901_2040k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3082/; rq_3082=done; spawn **rq_3083**; ticks=3082.
 - Next: **rq_3083 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3083 — 2026-10-12T21:33:23Z — rq_3083 leftover dual La Maison Liégeoise Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Wallonia official list of the public-service housing companies (SLSP), interieur.wallonie.be 2026 transparency-report list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf), matched to KBO numbers, plus a completed nationwide KBO NACE-BEL 68.201 scan (step-10 postcodes 1000-9990, name-filtered for housing/intercommunale names); ranked by YE2025 NBB company-model code 740 (operating subsidies and compensatory amounts from public authorities); every candidate passed the name/alias/KBO/website dedup check: **La Maison Liégeoise** → KBO 0402.416.772 had 0 prior entity rows.
+- KBO: Actief since 15 januari 1921; SRL; zetel Parvis-des-Ecoliers 1 4020 Liège; 1 VE; 0 prior entity rows for 0402.416.772
+- Found: official NBB VOL-SRL native PDF **2026-00206420** (1647160 B / 106p; AV 17-06-2026; neergelegd 19/06/2026; MD5 765192df9634000ec6dea8cbc89c69ea). VOL-SRL 740 **EUR1104955** (-0.98%); 62 **EUR6449777**; 9901 **EUR-1321548** (was -1578106); 9904 -563139; equity 102241012; cash 18258267; FTE 74,3 (was 75,5).
+- FOI address: direction@maisonliegeoise.be — management (direction) mailbox listed on the official City of Liège page https://www.liege.be/mes-services/logement/copy_of_logements-sociaux (with KBO 0402.416.772); own contact page lists only service mailboxes.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_maison_liegeoise_code740_split_740_1_10m_9901_loss_1322k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3083/; rq_3083=done; spawn **rq_3084**; ticks=3083.
+- Next: **rq_3084 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
