@@ -34172,3 +34172,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: accueil@lindthout.be — reception mailbox verified on official page https://www.lindthout.be/copie-de-inscription.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_woluwe_saint_lambert); FOI **gap_sacre_coeur_lindthout_vaph_matrix_733_13_30m_9901_loss_56k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3133/; rq_3133=done; spawn **rq_3134**; ticks=3133.
 - Next: **rq_3134 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3134 — 2026-10-12T23:15:25Z — rq_3134 leftover dual Centre Scolaire Institut Notre-Dame Heusy Verviers YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies (pouvoirs organisateurs, ASBL) and related free-education non-profits; KBO name search over school/PO names (legal form ASBL), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Centre Scolaire Institut Notre-Dame Heusy** → KBO 0420.558.544 had 0 prior entity rows.
+- KBO: Actief since 15 april 1980; VZW; zetel Avenue Jean Tasté 80 4802 Verviers; 3 VE; 0 prior entity rows for 0420.558.544
+- Found: official NBB VOL-VZW native PDF **2026-00332357** (1783761 B / 35p; AV 30-06-2026; neergelegd 25/07/2026; MD5 8457aa65a4e552483bc90d50d80caa96). VOL-VZW 733 **EUR13070441** (-1.73%); 62 **EUR12074173**; 9901 **EUR207013** (was 149909); 9904 213573; equity 6143807; cash 1555109; FTE 16,2 (was 17,2).
+- FOI address: info@notredameheusy.net — general mailbox verified on official school site https://secondaire.notredameheusy.be/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_verviers); FOI **gap_ind_heusy_vaph_matrix_733_13_07m_9901_207k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3134/; rq_3134=done; spawn **rq_3135**; ticks=3134.
+- Next: **rq_3135 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
