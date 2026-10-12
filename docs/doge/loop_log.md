@@ -28731,3 +28731,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00227391** (52139 B / 14p; AV 18-06-2026; neergelegd 26/06/2026; MD5 99badcbe5a51bfbcb0df8a1e0e3aa321). VKT 9900 **EUR5300263** (+1.76%); 73 **EUR5488716**; 62 **EUR5142951** (−0.51%); 9901 **EUR−42921** (2nd loss); 9904 19391; equity 2246976; debt **EUR1662906** +35.98% (>1j 643008 was 123462); cash **EUR333634** DROP −70.04% + beleggingen 613589; FTE 63,1.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.80; entities +1 (parent city_antwerpen); FOI **gap_mobilant_borgerhout_vaph_matrix_73_5_49m_9901_loss_43k_cash_drop_334k_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2585/; rq_2585=done; spawn **rq_2586**; ticks=2585.
 - Next: **rq_2586 leftover dual** — continue VAPH list scan.
+
+
+## Tick 2586 — 2026-10-12T07:38:32Z — rq_2586 leftover dual Raakzaam Sint-Niklaas YE2025 (local fallback runner)
+
+- Hunt: VAPH adreslijst pages 40-47 scanned (background); Evara/Broeders van Liefde/Emmaüs VE skipped (Clara Fey, De Beweging, Ebergiste, Sint-Ferdinand, Styrka, Sint-Gregorius, Cirkant); Nursing Zorgcentrum Kortrijk = Woon en Zorg H. Hart 0413.595.330 already in repo; Resonans Zaventem 0435.109.138 latest deposit YE2024 skip; **Raakzaam Sint-Niklaas** → KBO 0415.298.669 had 0 prior repo rows.
+- KBO: Actief since 07.07.1975; VZW (new name Raakzaam per raakzaam.be 'onze nieuwe naam'); zetel Onze-Lieve-Vrouwplein 31 9100 Sint-Niklaas; 12 VE; 0 prior repo rows for 0415.298.669
+- Found: official NBB VOL-VZW native PDF **2026-00268952** (678572 B / 48p; AV 18-06-2026; neergelegd 08/07/2026; MD5 7a08fa45690a9bb8e7449ab2e6099d5e). VOL 70/76A **EUR17093358** (+2.00%); 733 **EUR14475675** (+2.54%); 62 **EUR14037561** (+8.70%); 9901 592568; 9904 693562; equity 9373874; debt **EUR13677008** JUMP +52.40% (>1j 8698902 was 4751465; 9061 907344); geldbeleggingen 4200000 (was 2880000); cash 1080486 (was 2434246); FTE 192,5.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.60; entities +1 (parent city_sint_niklaas); FOI **gap_raakzaam_sint_niklaas_vaph_matrix_733_14_48m_debt_jump_13_68m_beleggingen_4_2m_l5** prio7 ready (NOT sent) + draft; raw docs/doge/raw/tick2586/; rq_2586=done; spawn **rq_2587**; ticks=2586.
+- Next: **rq_2587 leftover dual** — continue VAPH list scan.
