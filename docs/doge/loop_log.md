@@ -32833,3 +32833,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3000 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3000 run locally as fallback.
 - Next: **rq_3000** — remaining Flemish 85.592/87.10x/88.911 hits (EMMA EUR2.50m, Philippus Neri EUR2.36m), then 88.99x leftovers, largest first; Rode Kruis-Vlaanderen only if a general head-office mailbox becomes verifiable.
+
+
+## Tick 3001 — 2026-10-12T19:01:26Z — rq_3000 leftover dual Vistha Sint-Truiden YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 85.592/87.101/87.301/87.302/88.101/88.109/88.911/88.999, extended to 22 more Flemish city postcodes, plus 88.99x leftovers), unprocessed hits ranked by YE2025 NBB primary figure: **Vistha** → KBO 0424.777.945 had 0 prior entity rows.
+- KBO: Actief since 14 april 1983; VZW; zetel Halmaalweg 19 3800 Sint-Truiden; 3 VE; 0 prior entity rows for 0424.777.945
+- Found: official NBB VOL-VZW native PDF **2026-00166901** (730045 B / 47p; AV 01-06-2026; neergelegd 17/06/2026; MD5 8e1bf73520adea2043c0021a56df4c8c). VOL-VZW 733 **EUR6189593** (+4.69%); 62 **EUR5759280**; 9901 **EUR247297** (was 423746); 9904 217843; equity 5873700; cash 952480; FTE 74,5 (was 73,6).
+- FOI address: beschutwonen.haspengouw@vistha.be — site mailbox of the registered seat (Vistha Haspengouw, Halmaalweg 19) verified on official page https://vistha.be/contact/; no info@ address on own site.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_sint_truiden); FOI **gap_vistha_sint_truiden_vaph_matrix_733_6_19m_9901_247k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3001/; rq_3000=done; spawn **rq_3002**; ticks=3001.
+- Next: **rq_3002 leftover dual** — Extended Flemish multi-code batch in progress; next: remaining units of this batch.
