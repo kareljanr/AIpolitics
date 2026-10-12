@@ -31431,3 +31431,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2860 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-2860 run locally as fallback.
 - Next: **rq_2860** — remaining Brussels ASBLs (Nokto, Les Bourgeons, LD3) and Flemish 88.10x VZWs, larger first.
+
+
+## Tick 2861 — 2026-10-12T16:29:15Z — rq_2860 leftover dual Les Jardins du 8ème Jour - Nokto Bruxelles (Neder-Over-Heembeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Les Jardins du 8ème Jour - Nokto** → KBO 0721.841.435 had 0 prior entity rows.
+- KBO: Actief since 5 maart 2019; VZW; zetel Beukenootjesstraat 228 1120 Brussel; 2 VE; 0 prior entity rows for 0721.841.435
+- Found: official NBB VKT-VZW native PDF **2026-00107302** (51274 B / 14p; AV 30-04-2026; neergelegd 11/05/2026; MD5 6ee3deeebd4e9286ef975dc15fdd80a5). VKT-VZW 9900 **EUR1158992** (+0.03%); 62 **EUR1116590**; 9901 **EUR12229** (was 100844); 9904 12614; equity 204905; cash 105732; FTE 16,7 (was 15,1).
+- FOI address: nokto@noktoasbl.be — general mailbox verified on official page https://noktoasbl.be/ (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_nokto_bruxelles_vaph_matrix_9900_1_16m_9901_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2861/; rq_2860=done; spawn **rq_2862**; ticks=2861.
+- Next: **rq_2862 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
