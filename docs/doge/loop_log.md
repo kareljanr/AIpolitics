@@ -29586,3 +29586,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00317363** (61069 B / 20p; AV 30-06-2026; neergelegd 20/07/2026; MD5 65cfd865c2fd5bbbaf2b4e367529e890). VOL-VZW 733 **EUR1316460** (+3.03%); 62 **EUR1107054**; 9901 **EUR15765** (was 31782); 9904 48489; equity 1640753; cash 770420; FTE 13 (was 13,7).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schilde); FOI **gap_dageraad_schilde_vaph_matrix_733_1_32m_9901_16k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2678/; rq_2678=done; spawn **rq_2679**; ticks=2678.
 - Next: **rq_2679 leftover dual** — Opgroeien OVBJ Antwerpen leftovers done; next: OVBJ Vlaams-Brabant/Brussel (PDF needs re-parse), then KBO NACE 87/88 lists.
+
+
+## Tick 2679 — 2026-10-12T08:41:23Z — rq_2679 leftover dual De Touter Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Antwerpen list (mei 2026): **De Touter** → KBO 0420.063.052 had 0 prior entity rows.
+- KBO: Actief since 28 december 1979; VZW; zetel Auwersstraat 48, 2600 Antwerpen; 5 VE; 0 prior entity rows for 0420.063.052
+- Found: official NBB VKT-VZW native PDF **2026-00106953** (61219 B / 19p; AV 02-04-2026; neergelegd 09/05/2026; MD5 54e01dae34b98946755ad0381b9da5e7). VKT-VZW 9900 **EUR5832841** (+2.70%); 62 **EUR5636356**; 9901 **EUR58103** (was 54399); 9904 36858; equity 1204740; cash 459878; FTE 78,4 (was 76,1).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_de_touter_antwerpen_vaph_matrix_9900_5_83m_9901_58k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2679/; rq_2679=done; spawn **rq_2680**; ticks=2679.
+- Next: **rq_2680 leftover dual** — Opgroeien OVBJ Antwerpen leftovers done; next: OVBJ Vlaams-Brabant/Brussel (PDF needs re-parse), then KBO NACE 87/88 lists.
