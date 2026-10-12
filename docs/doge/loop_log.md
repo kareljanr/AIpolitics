@@ -34472,3 +34472,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kdg.be — general mailbox verified on official contact page https://www.kdg.be/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_kdg_hogeschool_vaph_matrix_733_7_15m_9901_2757k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3163/; rq_3163=done; spawn **rq_3164**; ticks=3163.
 - Next: **rq_3164 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3164 — 2026-10-12T23:54:31Z — rq_3164 leftover dual Centre scolaire Godinne-Burnot (Yvoir) Yvoir YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Catholic school boards and university colleges (Flemish schoolbesturen VZW and FWB organising bodies / hautes écoles, ASBL); new KBO name search (legal form VZW/ASBL; words such as Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège Saint, Institut Saint), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Centre scolaire Godinne-Burnot (Yvoir)** → KBO 0411.614.649 had 0 prior entity rows.
+- KBO: Actief since 20 november 1971; VZW; zetel Carrefour-de-L'Europe, Godinne 3 5530 Yvoir; 3 VE; 0 prior entity rows for 0411.614.649
+- Found: official NBB VOL-VZW native PDF **2026-00352293** (397864 B / 36p; AV 30-06-2026; neergelegd 29/07/2026; MD5 8fe8ee1d4eb9f0244a9e7ecf8c9263cd). VOL-VZW 733 **EUR6935390** (+2.89%); 62 **EUR6242533**; 9901 **EUR-3655** (was -1525); 9904 -11953; equity 1960067; cash 213853; FTE 7,2 (was 7,4).
+- FOI address: info@godinne.be — general mailbox of the Godinne site verified on official school-group site https://www.godinne-burnot.be/ (Godinne is the ASBL KBO seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_godinne_burnot_vaph_matrix_733_6_94m_9901_loss_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3164/; rq_3164=done; spawn **rq_3165**; ticks=3164.
+- Next: **rq_3165 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
