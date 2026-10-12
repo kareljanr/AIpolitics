@@ -32403,3 +32403,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cobeff.be — general mailbox verified on official page https://www.cobeff.be/contact (address Rue Philomène 39 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_cobeff_schaerbeek_vaph_matrix_9900_1_57m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2957/; rq_2957=done; spawn **rq_2958**; ticks=2957.
 - Next: **rq_2958 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
+
+
+## Tick 2958 — 2026-10-12T18:02:52Z — rq_2958 leftover dual IDEE 53 Bruxelles (Anderlecht) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels 85.592 vocational training and 86.940 in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **IDEE 53** → KBO 0433.466.670 had 0 prior entity rows.
+- KBO: Actief since 10 maart 1987; VZW; zetel Scheikundigestraat 34/36 1070 Anderlecht; 2 VE; 0 prior entity rows for 0433.466.670
+- Found: official NBB VKT-VZW native PDF **2026-00253057** (49683 B / 12p; AV 11-06-2026; neergelegd 05/07/2026; MD5 1c1ac56d59fa0a36ecb03683efb5d8c3). VKT-VZW 9900 **EUR1503049** (+0.92%); 62 **EUR1432602**; 9901 **EUR32103** (was 36631); 9904 289; equity 624781; cash 258145; FTE 22,1 (was 22).
+- FOI address: ID53@idee53.be — general mailbox verified on official page https://www.idee53.be/ (address Rue du Chimiste 34-36 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_idee53_anderlecht_vaph_matrix_9900_1_50m_9901_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2958/; rq_2958=done; spawn **rq_2959**; ticks=2958.
+- Next: **rq_2959 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
