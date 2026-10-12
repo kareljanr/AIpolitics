@@ -34062,3 +34062,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: asd.tournai@fasd.be — office mailbox asd.tournai@fasd.be verified on official ASD Hainaut Picardie contact page https://hpic.aideetsoinsadomicile.be/contact/ (listed for the head office (siège social), Rue du Quesnoy 39); the page footer lists this ASBL's BCE number among the group members.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_asd_hainaut_picardie_code73_subsidy_split_73_contrib-gifts-legacies-subsidies-not-split_15_53m_9901_92k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3122/; rq_3122=done; spawn **rq_3123**; ticks=3122.
 - Next: **rq_3123 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3123 — 2026-10-12T22:58:32Z — rq_3123 leftover dual Aide et Soins à Domicile de l'Arrondissement de Verviers (ASD Verviers) Verviers YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon home-help and family-help services (services d'aide aux familles et aînés, ASD, CSD; KBO name search over ~30 home-help names, filings ranked by NBB code 733 operating subsidies, largest first; Brussels Aide familiale and the large Flemish services already entities); every candidate passed the name/alias/KBO/website dedup check: **Aide et Soins à Domicile de l'Arrondissement de Verviers (ASD Verviers)** → KBO 0449.513.143 had 0 prior entity rows.
+- KBO: Actief since 4 maart 1993; VZW; zetel Rue de Dison 175 4800 Verviers; 5 VE; 0 prior entity rows for 0449.513.143
+- Found: official NBB VOL-VZW native PDF **2026-00264359** (1011443 B / 66p; AV 22-06-2026; neergelegd 06/07/2026; MD5 a242dfdabe90a663b3d930d17433d3bf). VOL-VZW 73 contributions, gifts, legacies and subsidies, not split (NOT subsidies alone) **EUR14391075** (+2.64%); 62 **EUR20478767**; 9901 **EUR559796** (was 618179); 9904 574440; equity 6025494; cash 2572990; FTE 352,9 (was 358,8).
+- FOI address: asd-verviers@asd-verviers.be — general mailbox verified on official contact page https://verviers.aideetsoinsadomicile.be/contact/ (site footer gives BCE 449.513.143).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_verviers); FOI **gap_asd_verviers_code73_subsidy_split_73_contrib-gifts-legacies-subsidies-not-split_14_39m_9901_560k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3123/; rq_3123=done; spawn **rq_3124**; ticks=3123.
+- Next: **rq_3124 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
