@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T16:24:58Z,rq_2850,2851,no,tick2851 leftover dual Crèche Cardinal Mercier Bruxelles (Ixelles) 0419.562.513 Strong PDF 2026-00287430 9900 1.63m / 9901 42k; next rq_2852 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T16:25:07Z,rq_2852,2852,no,tick2852 leftover dual VEGA (Centre Orfea) Bruxelles (Etterbeek) 0849.557.375 Strong PDF 2026-00116780 9900 1.49m / 9901 22k; next rq_2853 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

@@ -31341,3 +31341,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@crechecardinalmercier.com — general mailbox verified on official page https://www.crechecardinalmercier.com/contact (company number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_creche_cardinal_mercier_ixelles_vaph_matrix_9900_1_63m_9901_42k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2851/; rq_2850=done; spawn **rq_2852**; ticks=2851.
 - Next: **rq_2852 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2852 — 2026-10-12T16:25:07Z — rq_2852 leftover dual VEGA (Centre Orfea) Bruxelles (Etterbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **VEGA (Centre Orfea)** → KBO 0849.557.375 had 0 prior entity rows.
+- KBO: Actief since 12 oktober 2012; VZW; zetel Veldlaan 129 bus a 1040 Etterbeek; 1 VE; 0 prior entity rows for 0849.557.375
+- Found: official NBB VKT-VZW native PDF **2026-00116780** (50969 B / 13p; AV 13-04-2026; neergelegd 21/05/2026; MD5 beb8fb21ad0603d21cff0c08fea87962). VKT-VZW 9900 **EUR1487023** (+1.07%); 62 **EUR1457113**; 9901 **EUR21860** (was -11083); 9904 21168; equity -84967; cash 72093; FTE 21,1 (was 21,6).
+- FOI address: direction@vega-asbl.be — role mailbox (no named person) verified on official page https://www.vega-asbl.com/nos-coordonnées.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_vega_orfea_etterbeek_vaph_matrix_9900_1_49m_9901_22k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2852/; rq_2852=done; spawn **rq_2853**; ticks=2852.
+- Next: **rq_2853 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
