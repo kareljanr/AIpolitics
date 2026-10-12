@@ -31085,3 +31085,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: espoir.joie@cej.be — general mailbox verified on official page https://www.cej.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_espoir_et_joie_ganshoren_vaph_matrix_9900_3_11m_9901_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2826/; rq_2826=done; spawn **rq_2827**; ticks=2826.
 - Next: **rq_2827 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2827 — 2026-10-12T15:31:52Z — rq_2827 leftover dual De Dauw Wortegem-Petegem (temporarily Ronse) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.201/87.202 (residential care for people with intellectual disability) activity searches, Flemish and Brussels-Capital postcodes, ranked by primary figure: **De Dauw** → KBO 0419.188.369 had 0 prior entity rows.
+- KBO: Actief since 29 november 1978; VZW; zetel Moregemplein (M.) 3 9790 Wortegem-Petegem; 1 VE; 0 prior entity rows for 0419.188.369
+- Found: official NBB VKT-VZW native PDF **2026-00259297** (55272 B / 16p; AV 15-06-2026; neergelegd 03/07/2026; MD5 991c33152d519ffeed92c86c42801a58). VKT-VZW 9900 **EUR2536380** (+2.67%); 62 **EUR2461650**; 9901 **EUR31784** (was 10725); 9904 2188; equity 1214277; cash 516902; FTE 29,6 (was 30,2).
+- FOI address: info@dedauw.org — general mailbox verified on official page https://dedauw.org/algemene-contactgegevens/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vlaanderen_gov); FOI **gap_de_dauw_wortegem_petegem_vaph_matrix_9900_2_54m_9901_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2827/; rq_2827=done; spawn **rq_2828**; ticks=2827.
+- Next: **rq_2828 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
