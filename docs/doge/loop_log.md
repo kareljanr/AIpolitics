@@ -31913,3 +31913,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@lenidmb.be — general mailbox verified on official page https://www.lenidmarcellebriard.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_nid_marcelle_briard_uccle_vaph_matrix_9900_1_82m_9901_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2908/; rq_2908=done; spawn **rq_2909**; ticks=2908.
 - Next: **rq_2909 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2909 — 2026-10-12T17:18:49Z — rq_2909 leftover dual DoucheFLUX Bruxelles (Anderlecht) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **DoucheFLUX** → KBO 0841.390.074 had 0 prior entity rows.
+- KBO: Actief since 29 november 2011; VZW; zetel Veeartsenstraat 84 1070 Anderlecht; 2 VE; 0 prior entity rows for 0841.390.074
+- Found: official NBB VKT-VZW native PDF **2026-00087437** (58845 B / 17p; AV 20-04-2026; neergelegd 23/04/2026; MD5 608dd1e9cada63ed07f9a69cae7523ff). VKT-VZW 9900 **EUR1591426** (+16.61%); 62 **EUR1341344**; 9901 **EUR154826** (was 21320); 9904 148169; equity 824771; cash 871564; FTE 20 (was 19,5).
+- FOI address: info@doucheflux.be — general mailbox verified on official page https://doucheflux.be/ (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_doucheflux_anderlecht_vaph_matrix_9900_1_59m_9901_155k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2909/; rq_2909=done; spawn **rq_2910**; ticks=2909.
+- Next: **rq_2910 leftover dual** — Batch done; next: remaining Brussels NACE 87.x/88.10x scan hits (Ma Maison-Evere, La Passerelle, Solbos, Mandragora, Entre Autres, Vivre chez soi, Initiatief Antonin Artaud), larger first; skipped this batch: Centre Arnaud Fraiteur (named-person mailboxes only), FARRA and L'Arche Bruxelles and Petites Soeurs des Pauvres (mailbox not on own site), Zusterkens der Armen (same).
