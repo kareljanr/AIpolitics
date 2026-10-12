@@ -21,7 +21,7 @@ Je vous demande dès lors une copie des documents et chiffres suivants concernan
 1. La ventilation de la **marge brute 2025 (code 9900) de 2.530.401 EUR** (2024 : **2.499.447 EUR**) entre subsides par pouvoir subsidiant (Iriscare / Commission communautaire commune, forfaits INAMI, Maribel social, autres), autres financements publics et recettes propres.
 2. Le **nombre de résidents, le taux d'occupation** en 2025 et le coût par journée d'hébergement.
 3. La décision d'agrément d'Iriscare et les décisions de financement applicables pour 2025.
-4. L'affectation du **bénéfice de l'exercice (10.993 EUR)** et la politique de réserves au regard des **liquidités de 332.331 EUR** (2024 : **298.480 EUR**).
+4. L'affectation **du bénéfice de l'exercice (10.993 EUR)** et la politique de réserves au regard des **liquidités de 332.331 EUR** (2024 : **298.480 EUR**).
 
 Une réponse par courriel est privilégiée. Ce courrier est un **projet** (status ready) et **n'a pas été envoyé**.
 

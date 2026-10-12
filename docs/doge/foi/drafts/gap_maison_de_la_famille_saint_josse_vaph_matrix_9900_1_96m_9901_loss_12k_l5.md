@@ -21,7 +21,7 @@ Je vous demande dès lors une copie des documents et chiffres suivants concernan
 1. La ventilation de la **marge brute 2025 (code 9900) de 1.964.974 EUR** (2024 : **1.967.719 EUR**) entre subsides par pouvoir subsidiant (Commission communautaire française, Commission communautaire commune / Iriscare, Région de Bruxelles-Capitale, Maribel social, commune, autres), autres financements publics et recettes propres.
 2. Le **nombre de bénéficiaires et d'heures d'aide prestées** en 2025, et le coût par heure prestée.
 3. Les décisions d'agrément et de subvention (contingent d'heures, emplois subventionnés) applicables pour 2025.
-4. L'affectation du **perte de l'exercice (-102.558 EUR)** et la politique de réserves au regard des **liquidités de 8.314 EUR** (2024 : **16.149 EUR**).
+4. L'affectation **de la perte de l'exercice (-102.558 EUR)** et la politique de réserves au regard des **liquidités de 8.314 EUR** (2024 : **16.149 EUR**).
 
 Une réponse par courriel est privilégiée. Ce courrier est un **projet** (status ready) et **n'a pas été envoyé**.
 

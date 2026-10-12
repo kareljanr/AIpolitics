@@ -31014,3 +31014,14 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@residencetrianon.be — general mailbox verified on official page https://www.residencetrianon.be/contact/ (opened via web fetch; COCOF-recognised service residence).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_le_cercle_trianon_woluwe_vaph_matrix_9900_0_68m_9901_39k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2819/; rq_2819=done; spawn **rq_2820**; ticks=2819.
 - Next: **rq_2820 leftover dual** — Batch done; next: remaining Brussels French-language ASBLs (Zusterkens der Armen 5.6m if a verifiable mailbox appears; Vivre chez Soi Watermael-Boitsfort 2.0m has no mailbox on its site) and more Flemish 87.xxx/88.1xx VZWs; skipped: Solidaritel (Solidaris mutual titres-services, regional-branch mailbox only), Vivre chez Soi (no mailbox on official page).
+
+
+## Tick 2820 — 2026-10-12T15:14:11Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2479** of 2531 rows; inventory budgets 58338 · commitments 6531 · leaderboard 8651 · entities 2550 · sources 8524.
+- Top10: **stable** (2811-2819 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2811-2819: Centre Familial de Bruxelles (Schaerbeek) · Aide familiale - Région bruxelloise (Ixelles) · Gammes (Saint-Gilles) · A Vos Côtés 1030 (Schaerbeek) · Les Trois Pommiers (Etterbeek) · Maison de la Famille (Saint-Josse) · Service d'Aide aux Seniors Bruxellois · La Bastide (Woluwe-Saint-Lambert) · Le Cercle Trianon (Woluwe-Saint-Lambert).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2820 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2820 run locally as fallback.
+- Source choice (recorded): ticks 2811-2819 used KBO NACE 88.101/87.30x/87.202 searches over Brussels postcodes ranked by size; French FOI drafts (new template). FOI: general mailboxes only, all verified on opened official pages. Also fixed French grammar ('de la perte'/'du bénéfice') in the nine 2811-2819 drafts.
+- Next: **rq_2820** — remaining Brussels French-language ASBLs with verifiable mailboxes (Zusterkens der Armen 5.6m pending a mailbox) and more Flemish 87.xxx/88.1xx VZWs.

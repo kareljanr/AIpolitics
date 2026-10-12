@@ -21,7 +21,7 @@ Je vous demande dès lors une copie des documents et chiffres suivants concernan
 1. La ventilation de la **marge brute 2025 (code 9900) de 1.790.548 EUR** (2024 : **1.655.409 EUR**) entre subsides par pouvoir subsidiant (Commission communautaire française (service PHARE), autres), autres financements publics et recettes propres.
 2. Le **nombre de résidants et de personnes accueillies en centre de jour** en 2025 et le coût par journée.
 3. Les décisions d'agrément et de subvention de la Commission communautaire française applicables pour 2025.
-4. L'affectation du **bénéfice de l'exercice (23.409 EUR)** et la politique de réserves au regard des **liquidités de 206.312 EUR** (2024 : **384.789 EUR**).
+4. L'affectation **du bénéfice de l'exercice (23.409 EUR)** et la politique de réserves au regard des **liquidités de 206.312 EUR** (2024 : **384.789 EUR**).
 
 Une réponse par courriel est privilégiée. Ce courrier est un **projet** (status ready) et **n'a pas été envoyé**.
 

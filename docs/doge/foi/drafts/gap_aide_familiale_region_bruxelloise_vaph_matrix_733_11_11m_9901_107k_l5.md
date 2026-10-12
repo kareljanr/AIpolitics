@@ -21,7 +21,7 @@ Je vous demande dès lors une copie des documents et chiffres suivants concernan
 1. La **ventilation par pouvoir subsidiant des subsides 2025 (code 733) de 11.114.467 EUR** (2024 : **10.430.868 EUR**) (Commission communautaire française, Commission communautaire commune / Iriscare, Région de Bruxelles-Capitale, Maribel social, commune, autres).
 2. Le **nombre de bénéficiaires et d'heures d'aide prestées** en 2025, et le coût par heure prestée.
 3. Les décisions d'agrément et de subvention (contingent d'heures, emplois subventionnés) applicables pour 2025.
-4. L'affectation du **bénéfice de l'exercice (107.578 EUR)** et la politique de réserves au regard des **liquidités de 150.351 EUR** (2024 : **199.825 EUR**).
+4. L'affectation **du bénéfice de l'exercice (107.578 EUR)** et la politique de réserves au regard des **liquidités de 150.351 EUR** (2024 : **199.825 EUR**).
 
 Une réponse par courriel est privilégiée. Ce courrier est un **projet** (status ready) et **n'a pas été envoyé**.
 

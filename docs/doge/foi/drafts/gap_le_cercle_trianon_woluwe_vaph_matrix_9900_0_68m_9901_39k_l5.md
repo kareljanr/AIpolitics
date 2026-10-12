@@ -21,7 +21,7 @@ Je vous demande dès lors une copie des documents et chiffres suivants concernan
 1. La ventilation de la **marge brute 2025 (code 9900) de 684.135 EUR** (2024 : **711.515 EUR**) entre subsides par pouvoir subsidiant (Commission communautaire française, autres), autres financements publics et recettes propres.
 2. Le **nombre de logements, le taux d'occupation** en 2025 et le coût par résident.
 3. La décision d'agrément de la Commission communautaire française et les éventuelles subventions pour 2025.
-4. L'affectation du **bénéfice de l'exercice (38.732 EUR)** et la politique de réserves au regard des **liquidités de 240.569 EUR** (2024 : **148.493 EUR**).
+4. L'affectation **du bénéfice de l'exercice (38.732 EUR)** et la politique de réserves au regard des **liquidités de 240.569 EUR** (2024 : **148.493 EUR**).
 
 Une réponse par courriel est privilégiée. Ce courrier est un **projet** (status ready) et **n'a pas été envoyé**.
 

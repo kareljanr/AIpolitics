@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2820** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2810; 2811-2819 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2811-2819 residual dual L5 (not near-complete of 348bn):** Centre Familial de Bruxelles (Schaerbeek) · Aide familiale - Région bruxelloise (Ixelles) · Gammes (Saint-Gilles) · A Vos Côtés 1030 (Schaerbeek) · Les Trois Pommiers (Etterbeek) · Maison de la Famille (Saint-Josse) · Service d'Aide aux Seniors Bruxellois · La Bastide (Woluwe-Saint-Lambert) · Le Cercle Trianon (Woluwe-Saint-Lambert) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2479** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2531** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2811-2819** Centre Familial de Bruxelles (Schaerbeek) · Aide familiale - Région bruxelloise (Ixelles) · Gammes (Saint-Gilles) · A Vos Côtés 1030 (Schaerbeek) · Les Trois Pommiers (Etterbeek) · Maison de la Famille (Saint-Josse) · Service d'Aide aux Seniors Bruxellois · La Bastide (Woluwe-Saint-Lambert) · Le Cercle Trianon (Woluwe-Saint-Lambert).
+
+### Inventory (tick 2820)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 58338 |
+| commitments.csv | 6531 |
+| leaderboard.csv | 8651 |
+| entities.csv | 2550 |
+| sources.csv | 8524 |
+| FOI ready | 2479 |
+| FOI total rows | 2531 |
+| research_queue open | rq_2820 (carried; next: remaining Brussels French-language ASBLs with verifiable mailboxes (Zusterkens der Armen 5.6m pending a mailbox) and more Flemish 87.xxx/88.1xx VZWs) |
+
+### What improved since tick 2810
+
+- **New source (tick2811-2819):** Centre Familial de Bruxelles (Schaerbeek) · Aide familiale - Région bruxelloise (Ixelles) · Gammes (Saint-Gilles) · A Vos Côtés 1030 (Schaerbeek) · Les Trois Pommiers (Etterbeek) · Maison de la Famille (Saint-Josse) · Service d'Aide aux Seniors Bruxellois · La Bastide (Woluwe-Saint-Lambert) · Le Cercle Trianon (Woluwe-Saint-Lambert). Source: KBO NACE-BEL 88.101/87.301/87.302/87.202 activity searches over Brussels-Capital postcodes ranked by primary figure (largest recipients first). **New French FOI variant** (docs/doge/foi-template-fr.md) citing the Brussels joint decree-ordinance of 16 May 2019 on administrative transparency (verified on Justel, ELI 2019012673): private ASBLs get a voluntary request pointing to arts. 17-21/25/27 for the subsidising authorities; the communal ASBL A Vos Côtés 1030 gets a formal request (art. 3, 5°; 20 working days, art. 20 §1).
+- **FOI addresses:** all 9 general mailboxes verified on opened official pages (no NEEDS VERIFICATION); Les Trois Pommiers, Maison de la Famille and Le Cercle Trianon via web fetch; SASB via the City of Brussels page. Centre Familial site footer shows a different BCE number (0409.588.791) than its privacy page and NBB filing (0408.599.731), noted in the FOI row.
+- **Runner note:** 2576-2820 ran on the local fallback runner (Actions last ticked 2575), from the fresh clone /workspace/AIpolitics-loop since 2681; toolkit persistent at /workspace/AIpolitics-loop-tk. Do not run both at once.
+- **Rejected 2811-2819 (fast):** Zusterkens der Armen / Petites Soeurs des Pauvres (only congregation mailbox via third-party pages); Vivre chez Soi Watermael-Boitsfort (no mailbox on official page); Solidaritel (Solidaris titres-services, regional branch mailbox only).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2810** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
