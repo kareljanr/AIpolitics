@@ -34122,3 +34122,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat.secondaire@sacrecoeurcharleroi.eu — school secretariat mailbox verified on official contact page https://www.cssccharleroi.be/contact (page shows the BCE number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_charleroi); FOI **gap_sacre_coeur_charleroi_vaph_matrix_733_19_37m_9901_189k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3128/; rq_3128=done; spawn **rq_3129**; ticks=3128.
 - Next: **rq_3129 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3129 — 2026-10-12T23:13:07Z — rq_3129 leftover dual EPFC - Association pour l'Enseignement de promotion et de formation continue Sint-Joost-ten-Node YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies (pouvoirs organisateurs, ASBL) and related free-education non-profits; KBO name search over school/PO names (legal form ASBL), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **EPFC - Association pour l'Enseignement de promotion et de formation continue** → KBO 0435.187.629 had 0 prior entity rows.
+- KBO: Actief since 30 maart 1988; VZW; zetel Sterrenkundelaan 19 1210 Sint-Joost-ten-Node; 1 VE; 0 prior entity rows for 0435.187.629
+- Found: official NBB VOL-VZW native PDF **2026-00230318** (3877278 B / 47p; AV 30-06-2026; neergelegd 01/07/2026; MD5 449d2b851181441bbe44022bc1963fa8). VOL-VZW 733 **EUR18796713** (+2.03%); 62 **EUR18002692**; 9901 **EUR66346** (was -48723); 9904 70575; equity 7971739; cash 344072; FTE 6,2 (was 6,4).
+- FOI address: info@epfc.eu — general mailbox verified on official contact page of my.epfc.eu; BCE number shown on epfc.eu.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_epfc_vaph_matrix_733_18_80m_9901_66k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3129/; rq_3129=done; spawn **rq_3130**; ticks=3129.
+- Next: **rq_3130 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
