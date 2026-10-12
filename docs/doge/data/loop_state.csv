@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T15:06:28Z,rq_2804,2804,no,tick2804 leftover dual Kinderdagverblijf Het Mezennestje Landen 0415.270.757 Strong PDF 2026-00232588 9900 0.83m / 9901 25k; next rq_2805 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T15:06:37Z,rq_2805,2805,no,tick2805 leftover dual Bricoteam Schaarbeek 0791.231.770 Strong PDF 2026-00131869 9900 0.79m / 9901 30k; next rq_2806 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

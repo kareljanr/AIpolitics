@@ -30863,3 +30863,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: mezennestje@skynet.be — general mailbox verified on official page https://www.hetmezennestje.be/index.html (also on the municipal page landen.be).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_landen); FOI **gap_het_mezennestje_landen_vaph_matrix_9900_0_83m_9901_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2804/; rq_2804=done; spawn **rq_2805**; ticks=2804.
 - Next: **rq_2805 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2805 — 2026-10-12T15:06:37Z — rq_2805 leftover dual Bricoteam Schaarbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301/87.302 (nursing homes, assistance flats) and 88.101 (home care) activity searches, Brussels and remaining Flemish postcodes, ranked by primary figure: **Bricoteam** → KBO 0791.231.770 had 0 prior entity rows.
+- KBO: Actief since 21 september 2022; VZW; zetel Gaucheretstraat 164 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0791.231.770
+- Found: official NBB MIC-VZW native PDF **2026-00131869** (2485416 B / 21p; AV 26-05-2026; neergelegd 02/06/2026; MD5 b1fdf4d632bd62296aa1e305a074f575). MIC-VZW 9900 **EUR785318** (+9.50%); 62 **EUR734221**; 9901 **EUR29973** (was 43873); 9904 30167; equity 149158; cash 236531; FTE 13 (was 12,5).
+- FOI address: info@bricoteam.brussels — general mailbox verified on official page https://bricoteam.brussels/nl/contact-nl/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_bricoteam_schaarbeek_vaph_matrix_9900_0_79m_9901_30k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2805/; rq_2805=done; spawn **rq_2806**; ticks=2805.
+- Next: **rq_2806 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
