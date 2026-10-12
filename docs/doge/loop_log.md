@@ -29667,3 +29667,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vzwradar.be — general mailbox verified on official page https://www.vzwradar.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ternat); FOI **gap_radar_ternat_vaph_matrix_9900_1_73m_9901_73k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2686/; rq_2686=done; spawn **rq_2687**; ticks=2686.
 - Next: **rq_2687 leftover dual** — Opgroeien OVBJ Vlaams-Brabant/Brussel list in progress; next: remaining OVBJ Vlaams-Brabant/Brussel units, then IBIS (verify mailbox), then KBO NACE 87/88 lists.
+
+
+## Tick 2687 — 2026-10-12T08:53:39Z — rq_2687 leftover dual Sporen Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Vlaams-Brabant/Brussel list (april 2026): **Sporen** → KBO 0410.290.006 had 0 prior entity rows.
+- KBO: Actief since 12 oktober 1964; VZW; zetel Geldenaaksebaan 428 3001 Leuven; 5 VE; 0 prior entity rows for 0410.290.006
+- Found: official NBB VOL-VZW native PDF **2026-00140780** (745464 B / 43p; AV 02-06-2026; neergelegd 04/06/2026; MD5 a4b18638b699d0df9149696fc51d745c). VOL-VZW 733 **EUR9463215** (+3.45%); 62 **EUR8348412**; 9901 **EUR15095** (was 84152); 9904 13864; equity 6205844; cash 1876453; FTE 113,5 (was 117,6).
+- FOI address: sporen@sporen.be — general mailbox verified on official page https://www.sporen.be/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_sporen_leuven_vaph_matrix_733_9_46m_9901_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2687/; rq_2687=done; spawn **rq_2688**; ticks=2687.
+- Next: **rq_2688 leftover dual** — Opgroeien OVBJ Vlaams-Brabant/Brussel list in progress; next: remaining OVBJ Vlaams-Brabant/Brussel units, then IBIS (verify mailbox), then KBO NACE 87/88 lists.
