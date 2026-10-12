@@ -32553,3 +32553,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kmska.be — general mailbox verified on official page https://kmska.be/nl/contact (written there as info(a)kmska.be; page shows the museum address Leopold de Waelplaats 1, KBO seat Plaatsnijdersstraat 2).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_kmska_antwerpen_vaph_matrix_733_13_56m_9901_640k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2972/; rq_2972=done; spawn **rq_2973**; ticks=2972.
 - Next: **rq_2973 leftover dual** — KANAL + Flemish culture batch in progress; next: remaining units of this batch.
+
+
+## Tick 2973 — 2026-10-12T18:27:21Z — rq_2973 leftover dual Concertgebouw Brugge Brugge YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish culture 90.111/90.120/90.130/90.311/91.210 in 18 Flemish city postcodes, plus leftover Brussels culture hits), unprocessed hits ranked by YE2025 NBB primary figure: **Concertgebouw Brugge** → KBO 0464.499.049 had 0 prior entity rows.
+- KBO: Actief since 11 november 1998; VZW; zetel 't Zand 34 8000 Brugge; 1 VE; 0 prior entity rows for 0464.499.049
+- Found: official NBB VOL-VZW native PDF **2026-00100200** (5364713 B / 54p; AV 30-04-2026; neergelegd 04/05/2026; MD5 a4e7e4d0bfd9bc2701494c24e2b2324d). VOL-VZW 733 **EUR7766693** (+2.04%); 62 **EUR5030695**; 9901 **EUR-53799** (was 224818); 9904 75948; equity 19615768; cash 102439; FTE 62,2 (was 62,8).
+- FOI address: info@concertgebouw.be — general mailbox verified on official page https://www.concertgebouw.be/nl/contact (address 't Zand 34 and KBO number shown there).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_concertgebouw_brugge_vaph_matrix_733_7_77m_9901_loss_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2973/; rq_2973=done; spawn **rq_2974**; ticks=2973.
+- Next: **rq_2974 leftover dual** — KANAL + Flemish culture batch in progress; next: remaining units of this batch.
