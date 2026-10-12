@@ -30376,3 +30376,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@het-pareltje.be — general mailbox verified on official municipal page https://www.westerlo.be/nl/onderwijs-en-kinderopvang/onthaalouders-en-kinderdagverblijven/kinderdagverblijf-het-pareltje.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_westerlo); FOI **gap_het_pareltje_westerlo_vaph_matrix_9900_0_92m_9901_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2756/; rq_2756=done; spawn **rq_2757**; ticks=2756.
 - Next: **rq_2757 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2757 — 2026-10-12T13:39:57Z — rq_2757 leftover dual De Knuffel Mortsel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, plus KBO record of the Oostende projectvereniging Perspectief: **De Knuffel** → KBO 0443.527.847 had 0 prior entity rows.
+- KBO: Actief since 18 oktober 1990; VZW; zetel Molenlei 2BIS 2640 Mortsel; 1 VE; 0 prior entity rows for 0443.527.847
+- Found: official NBB VKT-VZW native PDF **2026-00161304** (53234 B / 15p; AV 18-03-2026; neergelegd 12/06/2026; MD5 6384115b238118e0a4c8f6dab5fd9546). VKT-VZW 9900 **EUR1041058** (+4.47%); 62 **EUR895050**; 9901 **EUR103214** (was 67830); 9904 103531; equity 1100040; cash 178067; FTE 14,2 (was 13,8).
+- FOI address: deknuffel@busmail.net — NEEDS VERIFICATION: mailbox seen only in third-party/search snippets (kinderopvang-vinden.be, opendi.be); no official page with this address could be opened.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mortsel); FOI **gap_de_knuffel_mortsel_vaph_matrix_9900_1_04m_9901_103k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2757/; rq_2757=done; spawn **rq_2758**; ticks=2757.
+- Next: **rq_2758 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
