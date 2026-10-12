@@ -29980,3 +29980,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@demaanwandelaars.be — general mailbox verified on official page https://www.demaanwandelaars.be/contact-1.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_de_maanwandelaars_hoboken_vaph_matrix_733_5_73m_9901_168k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2717/; rq_2717=done; spawn **rq_2718**; ticks=2717.
 - Next: **rq_2718 leftover dual** — KBO NACE 87.20x (residential disability/psychiatric care) scan in progress; next: remaining 87.201/87.202/87.203 units (spare Philippus Neri 0410.505.582 Sint-Niklaas, check odd 2024 loss), then 88.994 welzijnswerk and 87.301.
+
+
+## Tick 2718 — 2026-10-12T09:27:10Z — rq_2718 leftover dual Leef Ranst YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.201/87.202/87.203 activity search (residential care for persons with a disability / psychiatric problems): **Leef** → KBO 0417.454.445 had 0 prior entity rows.
+- KBO: Actief since 9 november 1976; VZW; zetel Herentalsebaan 15 2520 Ranst; 2 VE; 0 prior entity rows for 0417.454.445
+- Found: official NBB VOL-VZW native PDF **2026-00202169** (3516593 B / 53p; AV 18-06-2026; neergelegd 24/06/2026; MD5 327965f7f1fa37e499290415db065883). VOL-VZW 733 **EUR4733329** (+2.70%); 62 **EUR4647725**; 9901 **EUR96762** (was 168894); 9904 91968; equity 7889848; cash 1522992; FTE 62,1 (was 61,2).
+- FOI address: info@leefvzw.be — general mailbox verified on official page https://www.leefvzw.be/contact (address confirmed).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ranst); FOI **gap_leef_ranst_vaph_matrix_733_4_73m_9901_97k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2718/; rq_2718=done; spawn **rq_2719**; ticks=2718.
+- Next: **rq_2719 leftover dual** — KBO NACE 87.20x (residential disability/psychiatric care) scan in progress; next: remaining 87.201/87.202/87.203 units (spare Philippus Neri 0410.505.582 Sint-Niklaas, check odd 2024 loss), then 88.994 welzijnswerk and 87.301.
