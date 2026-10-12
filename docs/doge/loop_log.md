@@ -30680,3 +30680,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@wzmoorslede.be — general mailbox verified on official page https://www.woonzorgmoorslede.be/contacteer-ons/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_moorslede); FOI **gap_maria_middelares_moorslede_vaph_matrix_733_1_64m_9901_336k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2786/; rq_2786=done; spawn **rq_2787**; ticks=2786.
 - Next: **rq_2787 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2787 — 2026-10-12T14:17:22Z — rq_2787 leftover dual Home Vogelzang Leuven (Heverlee) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301 (nursing homes) and 88.101 (home care) activity search, West-/Oost-Vlaanderen and Leuven/Limburg postcodes, ranked by primary figure: **Home Vogelzang** → KBO 0412.939.094 had 0 prior entity rows.
+- KBO: Actief since 15 januari 1973; VZW; zetel Tervuursesteenweg 290 3001 Leuven; 1 VE; 0 prior entity rows for 0412.939.094
+- Found: official NBB VOL-VZW native PDF **2026-00384267** (1669077 B / 48p; AV 19-06-2026; neergelegd 04/08/2026; MD5 ca25f37b2d92de45d5705ce0937d2edd). VOL-VZW 733 **EUR1500475** (-8.11%); 62 **EUR5684468**; 9901 **EUR32361** (was 3021742); 9904 -88033; equity 2747980; cash 36694; FTE 82,3 (was 87,1).
+- FOI address: info@homevogelzang.be — general mailbox verified on official page https://www.homevogelzang.be/contact-rusthuis-heverlee/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_home_vogelzang_heverlee_vaph_matrix_733_1_50m_9901_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2787/; rq_2787=done; spawn **rq_2788**; ticks=2787.
+- Next: **rq_2788 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
