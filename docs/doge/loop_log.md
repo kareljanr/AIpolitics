@@ -31943,3 +31943,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lesolbosch.be — general mailbox verified on official page https://www.lesolbosch.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_cats_solbosch_forest_vaph_matrix_9900_2_65m_9901_369k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2911/; rq_2910=done; spawn **rq_2912**; ticks=2911.
 - Next: **rq_2912 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2912 — 2026-10-12T17:22:32Z — rq_2912 leftover dual Mandragora Bruxelles (Ixelles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Mandragora** → KBO 0452.931.404 had 0 prior entity rows.
+- KBO: Actief since 5 juli 1994; VZW; zetel Opperstraat 73 1050 Elsene; 1 VE; 0 prior entity rows for 0452.931.404
+- Found: official NBB VKT-VZW native PDF **2026-00206520** (352879 B / 24p; AV 23-06-2026; neergelegd 25/06/2026; MD5 81db39adb881be26684a0a1cdc6ff1f7). VKT-VZW 9900 **EUR1646801** (+8.35%); 62 **EUR1369694**; 9901 **EUR142431** (was 103358); 9904 134628; equity 1722361; cash 586158; FTE 19 (was 19,6).
+- FOI address: info@mandragora.be — general mailbox verified on official page https://mandragora.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_mandragora_ixelles_vaph_matrix_9900_1_65m_9901_142k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2912/; rq_2912=done; spawn **rq_2913**; ticks=2912.
+- Next: **rq_2913 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
