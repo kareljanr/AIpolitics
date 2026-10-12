@@ -30275,3 +30275,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: kribbe@kribbesintjacob.be — general mailbox verified on official page https://www.kribbesintjacob.be/contact (KBO number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_kribbe_sint_jacob_leuven_vaph_matrix_9900_1_23m_9901_loss_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2746/; rq_2746=done; spawn **rq_2747**; ticks=2746.
 - Next: **rq_2747 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2747 — 2026-10-12T13:30:30Z — rq_2747 leftover dual Het Toverhuis Leuven (Kessel-Lo) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101 (home care) and 88.911 (childcare) activity and name searches, plus Wit-Gele Kruis associations listed on witgelekruis.be: **Het Toverhuis** → KBO 0835.228.396 had 0 prior entity rows.
+- KBO: Actief since 30 maart 2011; VZW; zetel Diestsesteenweg 554 3010 Leuven; 3 VE; 0 prior entity rows for 0835.228.396
+- Found: official NBB VKT-VZW native PDF **2026-00101963** (51737 B / 15p; AV 25-03-2026; neergelegd 30/04/2026; MD5 ec065834e61d627a69dff53fbda805dc). VKT-VZW 9900 **EUR741539** (+6.93%); 62 **EUR680727**; 9901 **EUR27920** (was 40615); 9904 26887; equity 279060; cash 58282; FTE 13,7 (was 12,3).
+- FOI address: info@toverhuis.be — general mailbox verified on official page https://www.toverhuis.be/contact/contact.html.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_toverhuis_leuven_vaph_matrix_9900_0_74m_9901_28k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2747/; rq_2747=done; spawn **rq_2748**; ticks=2747.
+- Next: **rq_2748 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
