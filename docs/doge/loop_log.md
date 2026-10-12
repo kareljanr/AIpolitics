@@ -31613,3 +31613,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@eqla.be — general mailbox verified on official page https://eqla.be/contact/ (company number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_eqla_woluwe_vaph_matrix_9900_3_13m_9901_loss_748k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2878/; rq_2878=done; spawn **rq_2879**; ticks=2878.
 - Next: **rq_2879 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2879 — 2026-10-12T16:40:53Z — rq_2879 leftover dual Ligue Braille Bruxelles (Saint-Gilles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Ligue Braille** → KBO 0402.992.834 had 0 prior entity rows.
+- KBO: Actief since 5 september 1922; VZW; zetel Engelandstraat 57 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0402.992.834
+- Found: official NBB VOL-VZW native PDF **2026-00152573** (2348978 B / 42p; AV 05-06-2026; neergelegd 11/06/2026; MD5 4b333df129ed10e44b19a5b8ed4fa38a). VOL-VZW 733 **EUR2926189** (+24.83%); 62 **EUR8601508**; 9901 **EUR-227040** (was -261055); 9904 5817; equity 10305274; cash 1990420; FTE 113,5 (was 116,9).
+- FOI address: info@braille.be — general mailbox verified on official page https://www.braille.be/fr/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_ligue_braille_saint_gilles_vaph_matrix_733_2_93m_9901_loss_227k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2879/; rq_2879=done; spawn **rq_2880**; ticks=2879.
+- Next: **rq_2880 leftover dual** — Batch done; next: remaining larger hits of the fresh scan (Brussels 88.999 triage, Groupement de Services d'Accompagnement, CATD, Missing Children Europe); the Flemish part of the scan returned almost only bodies already covered.
