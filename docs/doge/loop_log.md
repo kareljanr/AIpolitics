@@ -33193,3 +33193,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@wgcridderbuurt.be — general mailbox verified on official page https://www.wgcridderbuurt.be/contactgegevens (Predikherenstraat 80 shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_wgc_de_ridderbuurt_vaph_matrix_9900_3_42m_9901_124k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3036/; rq_3036=done; spawn **rq_3037**; ticks=3036.
 - Next: **rq_3037 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3037 — 2026-10-12T20:17:57Z — rq_3037 leftover dual Cycling Vlaanderen Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (new codes 93.191 sport federations, 93.121/93.199 sport, 84.130 public administration of economic affairs, 72.200 social-science research; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Cycling Vlaanderen** → KBO 0475.792.918 had 0 prior entity rows.
+- KBO: Actief since 3 juli 2001; VZW; zetel Strandlaan 3 9000 Gent; 6 VE; 0 prior entity rows for 0475.792.918
+- Found: official NBB VKT-VZW native PDF **2026-00068291** (283288 B / 27p; AV 30-03-2026; neergelegd 31/03/2026; MD5 b3259ca130d461ce399359f0452d9d93). VKT-VZW 9900 **EUR3027041** (+3.99%); 62 **EUR2299713**; 9901 **EUR-4528** (was -68591); 9904 104283; equity 1427099; cash 517494; FTE 22,5 (was 24).
+- FOI address: info@cycling.vlaanderen — general mailbox verified on official page https://cycling.vlaanderen/over-ons/contactformulier (Strandlaan 3 shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_cycling_vlaanderen_vaph_matrix_9900_3_03m_9901_loss_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3037/; rq_3037=done; spawn **rq_3038**; ticks=3037.
+- Next: **rq_3038 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
