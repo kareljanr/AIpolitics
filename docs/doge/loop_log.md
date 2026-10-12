@@ -32283,3 +32283,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mloc1080.be — general mailbox verified on official page https://www.mloc1080.be/wp/accompagnement/ (address matches KBO).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_mission_locale_molenbeek_vaph_matrix_733_4_81m_9901_45k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2945/; rq_2945=done; spawn **rq_2946**; ticks=2945.
 - Next: **rq_2946 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
+
+
+## Tick 2946 — 2026-10-12T17:56:15Z — rq_2946 leftover dual DUO for a JOB Bruxelles (Ixelles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels 85.592 vocational training and 86.940 in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **DUO for a JOB** → KBO 0501.488.911 had 0 prior entity rows.
+- KBO: Actief since 22 november 2012; VZW; zetel de Stassartstraat 48 bus 4 1050 Elsene; 5 VE; 0 prior entity rows for 0501.488.911
+- Found: official NBB VKT-VZW native PDF **2026-00147249** (339746 B / 47p; AV 12-05-2026; neergelegd 09/06/2026; MD5 c482b6cbed3ebb5d8032bd1cb55954dc). VKT-VZW 9900 **EUR4094519** (+12.62%); 62 **EUR4023043**; 9901 **EUR11582** (was -231836); 9904 6493; equity 451600; cash 554442; FTE 53,6 (was 54,7).
+- FOI address: brussels@duoforajob.be — general (Brussels office) mailbox verified on official page https://www.duoforajob.be/en/contact; registered office Rue de Stassart 48 per its own legal notice (matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_duo_for_a_job_vaph_matrix_9900_4_09m_9901_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2946/; rq_2946=done; spawn **rq_2947**; ticks=2946.
+- Next: **rq_2947 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
