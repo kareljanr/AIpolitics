@@ -28913,3 +28913,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00124137** (54636 B / 16p; AV 26-05-2026; neergelegd 28/05/2026; MD5 1d15cdc7e816ab5fff6568516ca101cf). VKT-VZW 9900 **EUR2086273** (+13.28%); 62 **EUR1883517**; 9901 **EUR189039** (was 161987); 9904 195887; equity 954223; cash 1151990; FTE 26,5 (was 24,3).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.10; entities +1 (parent city_lubbeek); FOI **gap_dop_vlaams_brabant_brussel_lubbeek_vaph_matrix_9900_2_09m_9901_189k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2605/; rq_2605=done; spawn **rq_2606**; ticks=2605.
 - Next: **rq_2606 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2606 — 2026-10-12T08:00:33Z — rq_2606 leftover dual KanNet Antwerpen YE2025 (local fallback runner)
+
+- Hunt: NEW CANDIDATE SOURCE VAPH adreslijst Gebruikersvereniging met loket (f[0]=tid:1406): **KanNet** → KBO 0413.132.601 had 0 prior entity rows. Source switch also covered VAPH tid:1406 (gebruikersverenigingen); skipped Fovig / Gezin en Handicap / Hersenletsel Liga (0 NBB deposits), Dito (already in repo).
+- KBO: Actief since 6 februari 1949; VZW; zetel Arthur Goemaerelei 66, 2018 Antwerpen; 10 VE; 0 prior entity rows for 0413.132.601
+- Found: official NBB VKT-VZW native PDF **2026-00104916** (53092 B / 15p; AV 28-03-2026; neergelegd 07/05/2026; MD5 bab841a600d0652156df43edfce887d1). VKT-VZW 9900 **EUR1968287** (+5.11%); 62 **EUR1740378**; 9901 **EUR7193** (was 93806); 9904 8690; equity 658435; cash 773192; FTE 25,3 (was 23,5).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.85; entities +1 (parent city_antwerpen); FOI **gap_kannet_antwerpen_vaph_matrix_9900_1_97m_9901_7k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2606/; rq_2606=done; spawn **rq_2607**; ticks=2606.
+- Next: **rq_2607 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
