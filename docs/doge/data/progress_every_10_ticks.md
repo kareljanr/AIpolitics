@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2770** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2760; 2761-2769 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2761-2769 residual dual L5 (not near-complete of 348bn):** André Dumont (Genk) · Karbonkeltje (Pelt) · Ter Duinen (Lommel) · De Speelberg (Kortrijk) · Auricula (Kortrijk) · De Egeltjes (Sint-Truiden) · De Blokkendoos (Oudenaarde) · Poerderie (Kortrijk) · Pietje Pek (Brugge) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2434** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2486** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2761-2769** André Dumont (Genk) · Karbonkeltje (Pelt) · Ter Duinen (Lommel) · De Speelberg (Kortrijk) · Auricula (Kortrijk) · De Egeltjes (Sint-Truiden) · De Blokkendoos (Oudenaarde) · Poerderie (Kortrijk) · Pietje Pek (Brugge).
+
+### Inventory (tick 2770)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 57968 |
+| commitments.csv | 6486 |
+| leaderboard.csv | 8606 |
+| entities.csv | 2505 |
+| sources.csv | 8389 |
+| FOI ready | 2434 |
+| FOI total rows | 2486 |
+| research_queue open | rq_2770 (carried; next: more NACE 88.911 childcare VZWs (West-Vlaanderen remainder) and 88.101 home-care services) |
+
+### What improved since tick 2760
+
+- **New source (tick2761-2769):** André Dumont (Genk) · Karbonkeltje (Pelt) · Ter Duinen (Lommel) · De Speelberg (Kortrijk) · Auricula (Kortrijk) · De Egeltjes (Sint-Truiden) · De Blokkendoos (Oudenaarde) · Poerderie (Kortrijk) · Pietje Pek (Brugge). Source: KBO NACE-BEL 88.911 activity search over Limburg and West-/Oost-Vlaanderen postcodes, triaged by NBB model (VKT/MIC with YE2025 filing).
+- **FOI addresses:** all 9 general mailboxes verified on opened official pages (new rule: candidates that would only get a NEEDS VERIFICATION address are skipped). Karbonkeltje's mailbox verified in the house rules PDF on its official site.
+- **Runner note:** 2576-2770 ran on the local fallback runner (Actions last ticked 2575), from the fresh clone /workspace/AIpolitics-loop since 2681; toolkit persistent at /workspace/AIpolitics-loop-tk. Do not run both at once.
+- **Rejected 2761-2769 (fast):** Goed Gemutst Genk (only a named person's mailbox); Maan en Wolf (no own mailbox); Engelbewaarder Izegem (official contact page did not show a mailbox when opened; deferred).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2760** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

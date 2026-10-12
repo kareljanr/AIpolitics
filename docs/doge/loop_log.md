@@ -30416,7 +30416,7 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2760 stays open (carried).
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2760 run locally as fallback.
 - Source choice (recorded): ticks 2751-2759 used the KBO NACE 88.911 search plus the Perspectief Oostende KBO record (projectvereniging, in scope as public body per igs_ precedent). FOI: general mailboxes; 2 marked NEEDS VERIFICATION (De Knuffel, Kabouterland).
-- Next: **rq_2760** — more NACE 88.911 childcare and 88.101 home-care VZWs outside the main cities; Perspectief Oostende (projectvereniging) needs public-body handling.
+- Next: **rq_2760** — more NACE 88.911 childcare and 88.101 home-care VZWs outside the main cities (Perspectief Oostende handled in tick 2752).
 
 
 ## Tick 2761 — 2026-10-12T13:47:35Z — rq_2760 leftover dual André Dumont Genk YE2025 (local fallback runner)
@@ -30507,3 +30507,15 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@pietjepek.be — general mailbox verified on official page https://www.pietjepek.be/nl/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_pietje_pek_brugge_vaph_matrix_9900_3_05m_9901_131k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2769/; rq_2769=done; spawn **rq_2770**; ticks=2769.
 - Next: **rq_2770 leftover dual** — Batch done; next: more NACE 88.911 childcare VZWs (West-Vlaanderen remainder: De kleine ark, Mezennestje, Wieltjeshove) and 88.101 home-care services; skipped: Goed Gemutst Genk (only a named person's mailbox), Maan en Wolf (no own mailbox), Engelbewaarder Izegem (official contact page did not render a mailbox; deferred).
+
+
+## Tick 2770 — 2026-10-12T13:49:14Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2434** of 2486 rows; inventory budgets 57968 · commitments 6486 · leaderboard 8606 · entities 2505 · sources 8389.
+- Top10: **stable** (2761-2769 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2761-2769: André Dumont (Genk) · Karbonkeltje (Pelt) · Ter Duinen (Lommel) · De Speelberg (Kortrijk) · Auricula (Kortrijk) · De Egeltjes (Sint-Truiden) · De Blokkendoos (Oudenaarde) · Poerderie (Kortrijk) · Pietje Pek (Brugge).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2770 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2770 run locally as fallback.
+- Source choice (recorded): ticks 2761-2769 used the KBO NACE 88.911 search (Limburg, West-/Oost-Vlaanderen). FOI: general mailboxes only, all verified on opened official pages; none NEEDS VERIFICATION.
+- Correction: the tick 2760 entry's "Next" line still said Perspectief Oostende needed public-body handling; it was handled in tick 2752 (igs_perspectief_oostende). Fixed in place.
+- Next: **rq_2770** — more NACE 88.911 childcare (West-Vlaanderen remainder) and 88.101 home-care VZWs.
