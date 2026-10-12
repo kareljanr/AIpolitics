@@ -28804,3 +28804,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00153864** (336315 B / 46p; AV 01-06-2026; neergelegd 11/06/2026; MD5 e82102a1f590a0e8cf41a3d6212785c3). VOL 70/76A **EUR12509405** (+12.67%); 733 **EUR12048146** (+13.27%); 62 **EUR10667530** (+13.34%); FTE **143,1** (was 125,2); 9901 **EUR250268** (was −97950); 9904 148737; equity 5833167 (kapitaalsubsidies 3509420); debt 5994614 (9061 **EUR2720267**); cash 1981263 + beleggingen 1000000.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.50; entities +1 (parent city_leuven); FOI **gap_mpc_terbank_leuven_vaph_matrix_733_jump_12_05m_fte_jump_143_9061_2_72m_l5** prio7 ready (NOT sent) + draft; raw docs/doge/raw/tick2593/; rq_2593=done; spawn **rq_2594**; ticks=2593.
 - Next: **rq_2594 leftover dual** — continue VAPH list scan.
+
+
+## Tick 2594 — 2026-10-12T07:42:29Z — rq_2594 leftover dual Tikvatenoe Antwerpen YE2025 (local fallback runner)
+
+- Hunt: carried from 2593 scan (VAPH page 53): **Tikvatenoe Antwerpen** → KBO 0432.625.641 had 0 prior repo rows.
+- KBO: Actief since 02.11.1986; VZW Tikvatenoe - The Nathan Gutwirth Institution; zetel Haringrodestraat 84 2018 Antwerpen since 10.09.1998; 2 VE; 0 prior repo rows for 0432.625.641; Identity trap != KOCA remine@2583 != De Vijver remine@2577 != Het Raster remine@2581 != Mobilant remine@2585 != Primavera remine@2588
+- Found: official NBB VOL-VZW native PDF **2026-00360969** (1560251 B / 41p; AV 27-07-2026; neergelegd 28/07/2026; MD5 2e0ecfa778c0ca873b67ad21d81b50b3). VOL 70/76A **EUR6505760** (+3.58%); 733 **EUR4906235** (+6.25%); 62 **EUR4564687** (+6.00%); 9901 **EUR339124** (+28.19%); 9904 **EUR660919** (+73.09%); equity 9207398; debt 2158318; geldbeleggingen **EUR4787798** + cash 731015; FTE 65,4.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.00; entities +1 (parent city_antwerpen); FOI **gap_tikvatenoe_antwerpen_vaph_matrix_733_4_91m_9904_jump_661k_beleggingen_4_79m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2594/; rq_2594=done; spawn **rq_2595**; ticks=2594.
+- Next: **rq_2595 leftover dual** — continue VAPH list scan.
