@@ -29292,3 +29292,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00147478** (3172327 B / 53p; AV 08-06-2026; neergelegd 09/06/2026; MD5 8ea5c46612c298e15b5658a1a22fc0dc). VOL-VZW 733 **EUR15914241** (+3.59%); 62 **EUR14122222**; 9901 **EUR200093** (was 157010); 9904 169641; equity 11182594; cash 7542862; FTE 191,6 (was 200,8).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_elegast_antwerpen_vaph_matrix_733_15_91m_9901_200k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2646/; rq_2646=done; spawn **rq_2647**; ticks=2646.
 - Next: **rq_2647 leftover dual** — continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists.
+
+
+## Tick 2647 — 2026-10-12T08:28:13Z — rq_2647 leftover dual XPLO Roeselare YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OOOC contact list (april 2026): **XPLO** → KBO 0791.661.342 had 0 prior entity rows.
+- KBO: Actief since 30 september 2022; VZW; zetel Blinde-Rodenbachstraat 23, 8800 Roeselare; 12 VE; 0 prior entity rows for 0791.661.342
+- Found: official NBB VOL-VZW native PDF **2026-00539210** (1470954 B / 48p; AV 18-06-2026; neergelegd 01/10/2026; MD5 796bf38eef75a9735c7fafc8facec1ed). VOL-VZW 733 **EUR24458126** (+4.04%); 62 **EUR20683073**; 9901 **EUR232856** (was 318963); 9904 337756; equity 16733525; cash 4376835; FTE 269 (was 264).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_roeselare); FOI **gap_xplo_roeselare_vaph_matrix_733_24_46m_9901_233k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2647/; rq_2647=done; spawn **rq_2648**; ticks=2647.
+- Next: **rq_2648 leftover dual** — continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists.

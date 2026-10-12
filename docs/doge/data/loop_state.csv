@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T08:28:02Z,rq_2646,2646,no,"tick2646 leftover dual Elegast Antwerpen 0410.412.146 Strong PDF 2026-00147478 733 15.91m / 9901 200k; next rq_2647 continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T08:28:13Z,rq_2647,2647,no,"tick2647 leftover dual XPLO Roeselare 0791.661.342 Strong PDF 2026-00539210 733 24.46m / 9901 233k; next rq_2648 continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists (local fallback runner; Actions cron unreliable)"
