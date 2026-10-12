@@ -33389,3 +33389,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@cer.be — general mailbox verified on official page https://www.cer.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cer_brussel_vaph_matrix_9900_2_00m_9901_248k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3055/; rq_3055=done; spawn **rq_3056**; ticks=3055.
 - Next: **rq_3056 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3056 — 2026-10-12T20:31:04Z — rq_3056 leftover dual Economische Raad voor Oost-Vlaanderen (Erov) Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (new codes 94.110 business, employers and public-authority associations, 94.120 professional bodies, 94.200 unions, 84.120 public administration of health/education/culture, 91.210; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure; every candidate passed the name/alias/KBO/website dedup check: **Economische Raad voor Oost-Vlaanderen (Erov)** → KBO 0410.436.890 had 0 prior entity rows.
+- KBO: Actief since 1 oktober 1964; VZW; zetel Charles de Kerchovelaan 189 9000 Gent; 1 VE; 0 prior entity rows for 0410.436.890
+- Found: official NBB VKT-VZW native PDF **2026-00153653** (3688444 B / 25p; AV 04-06-2026; neergelegd 10/06/2026; MD5 d28d2fdbf8e43408b070533a83ce2955). VKT-VZW 9900 **EUR1799755** (+6.97%); 62 **EUR1783124**; 9901 **EUR-54580** (was -249627); 9904 -49612; equity 2009802; cash 636240; FTE 22,9 (was 24,2).
+- FOI address: info@erov.be — general mailbox verified on official page https://www.erov.be/ (also listed on the provincial contact page).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_erov_gent_vaph_matrix_9900_1_80m_9901_loss_55k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3056/; rq_3056=done; spawn **rq_3057**; ticks=3056.
+- Next: **rq_3057 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
