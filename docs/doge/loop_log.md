@@ -29061,3 +29061,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00210177** (303358 B / 21p; AV 11-06-2026; neergelegd 26/06/2026; MD5 36785de66b81ba65af6471417e21b1af). VKT-VZW 9900 **EUR193841** (-24.44%); 62 **EUR77159**; 9901 **EUR-110363** (was -62861); 9904 -71857; equity 4111788; cash 59465; FTE 1,9 (was 1,7).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.45; entities +1 (parent city_mechelen); FOI **gap_clb_het_kompas_mechelen_vaph_matrix_9900_194k_9901_loss_110k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2621/; rq_2621=done; spawn **rq_2622**; ticks=2621.
 - Next: **rq_2622 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2622 — 2026-10-12T08:15:27Z — rq_2622 leftover dual CLB Noordwest-Brabant Asse YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Vrij CLB-netwerk / VAPH MDT list (tid:1393): **CLB Noordwest-Brabant** → KBO 0434.022.243 had 0 prior entity rows.
+- KBO: Actief since 1 juli 1987; VZW; zetel Mollestraat 59, 1730 Asse; 2 VE; 0 prior entity rows for 0434.022.243
+- Found: official NBB VKT-VZW native PDF **2026-00238229** (38497 B / 9p; AV 16-06-2026; neergelegd 25/06/2026; MD5 436a26566ddd1762007202de16e41f38). VKT-VZW 9900 **EUR290393** (+50.01%); 62 **EUR0**; 9901 **EUR218706** (was 119325); 9904 226607; equity 1315184; cash 1218541; .
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.45; entities +1 (parent city_asse); FOI **gap_clb_noordwest_brabant_asse_vaph_matrix_9900_290k_9901_219k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2622/; rq_2622=done; spawn **rq_2623**; ticks=2622.
+- Next: **rq_2623 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
