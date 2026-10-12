@@ -30599,3 +30599,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info.kinderrijk@telenet.be — general mailbox verified on official page https://kinderrijkvzw.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_kinderrijk_leuven_vaph_matrix_9900_2_45m_9901_326k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2778/; rq_2778=done; spawn **rq_2779**; ticks=2778.
 - Next: **rq_2779 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2779 — 2026-10-12T14:02:29Z — rq_2779 leftover dual Kinderdagverblijf Hertog Jan Kortenberg YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, West-/Oost-Vlaanderen and Leuven/Limburg postcodes: **Kinderdagverblijf Hertog Jan** → KBO 0442.000.690 had 0 prior entity rows.
+- KBO: Actief since 6 november 1989; VZW; zetel Kerkhoflaan 28 3070 Kortenberg; 1 VE; 0 prior entity rows for 0442.000.690
+- Found: official NBB VKT-VZW native PDF **2026-00390899** (47920 B / 13p; AV 21-05-2026; neergelegd 09/08/2026; MD5 bad1f97590311c5cb482bf5947df6b79). VKT-VZW 9900 **EUR1476057** (+10.82%); 62 **EUR1309884**; 9901 **EUR149546** (was 90264); 9904 154331; equity 617394; cash 198456; FTE 16,9 (was 16,5).
+- FOI address: directie@ockapoen.be — general mailbox verified on official page https://ockapoen.be/werking (role mailbox of the management, no named person).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortenberg); FOI **gap_kdv_hertog_jan_kortenberg_vaph_matrix_9900_1_48m_9901_150k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2779/; rq_2779=done; spawn **rq_2780**; ticks=2779.
+- Next: **rq_2780 leftover dual** — Batch done; next: more NACE 88.911 childcare VZWs (Leuven region remainder: Lutgardisschool Elsene, 't Debberke, Mezenestje, Kakelbont) and 88.101 home-care services; skipped: Mezennestje Torhout (no mailbox on official site), Kinderdagverblijf Bubbeltje Diksmuide (mailbox only on third-party listings), Mannetje Maan Destelbergen (only a named person's mailbox).
