@@ -30082,3 +30082,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: post@hsj-berchem.be — general mailbox verified on official page https://hsj-berchem.be/contact-opties/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_huis_sint_jozef_berchem_vaph_matrix_733_0_80m_9901_115k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2727/; rq_2727=done; spawn **rq_2728**; ticks=2727.
 - Next: **rq_2728 leftover dual** — KBO NACE 88.994 (general welfare work) and 87.301 (rest homes) scan in progress; next: remaining 88.994/87.301 units.
+
+
+## Tick 2728 — 2026-10-12T09:37:27Z — rq_2728 leftover dual Home Claire (Eau de Gand) Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.994/87.301 activity search (general welfare work without accommodation / residential care homes for the elderly): **Home Claire (Eau de Gand)** → KBO 0451.774.728 had 0 prior entity rows.
+- KBO: Actief since 28 december 1993; VZW; zetel Wolterslaan 48-50 9000 Gent; 2 VE; 0 prior entity rows for 0451.774.728
+- Found: official NBB VKT-VZW native PDF **2026-00523128** (52182 B / 14p; AV 30-06-2026; neergelegd 24/09/2026; MD5 cfe3d1c4e0b276288377213fc12166a1). VKT-VZW 9900 **EUR2923147** (+3.48%); 62 **EUR3027252**; 9901 **EUR-340113** (was -248240); 9904 -376012; equity -1335191; cash 26368; FTE 42,6 (was 41).
+- FOI address: eaudegand@curavi.be — location mailbox (now operated as Eau de Gand, Curavi group) verified on official page https://www.eaudegand.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_home_claire_gent_vaph_matrix_9900_2_92m_9901_loss_340k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2728/; rq_2728=done; spawn **rq_2729**; ticks=2728.
+- Next: **rq_2729 leftover dual** — KBO NACE 88.994 (general welfare work) and 87.301 (rest homes) scan in progress; next: remaining 88.994/87.301 units.
