@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T16:38:40Z,rq_2870,2871,no,tick2871 leftover dual Projet Lama (Centre médico-social pour toxicomanes) Bruxelles (Ixelles) 0422.077.979 Strong PDF 2026-00271776 9900 3.86m / 9901 39k; next rq_2872 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T16:38:54Z,rq_2872,2872,no,tick2872 leftover dual PROFO Brussel 0879.448.619 Strong PDF 2026-00335414 9900 3.46m / 9901 52k; next rq_2873 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

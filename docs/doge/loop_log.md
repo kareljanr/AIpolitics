@@ -31543,3 +31543,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_projet_lama_ixelles_vaph_matrix_9900_3_86m_9901_39k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2871/; rq_2870=done; spawn **rq_2872**; ticks=2871.
 - Next: **rq_2872 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
 - Wording fix (tick 2871): Ukkepuk VRT (tick 2867) is now described only as located at the VRT address (Auguste Reyerslaan 52); the inferred 'staff crèche' claim was removed from the top-10 notes and the entity note.
+
+
+## Tick 2872 — 2026-10-12T16:38:54Z — rq_2872 leftover dual PROFO Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **PROFO** → KBO 0879.448.619 had 0 prior entity rows.
+- KBO: Actief since 17 februari 2006; VZW; zetel Willebroekkaai 36 1000 Brussel; 12 VE; 0 prior entity rows for 0879.448.619
+- Found: official NBB VKT-VZW native PDF **2026-00335414** (57292 B / 17p; AV 16-06-2026; neergelegd 27/07/2026; MD5 21e48b1291c52116b912ca6a14d905a5). VKT-VZW 9900 **EUR3457125** (+2.08%); 62 **EUR3392814**; 9901 **EUR52079** (was -149322); 9904 52745; equity 1137954; cash 738027; FTE 50,9 (was 49,4).
+- FOI address: info@profo.be — general mailbox verified on official page https://www.profo.be/contact (company number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_profo_brussel_vaph_matrix_9900_3_46m_9901_52k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2872/; rq_2872=done; spawn **rq_2873**; ticks=2872.
+- Next: **rq_2873 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
