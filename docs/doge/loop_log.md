@@ -31893,3 +31893,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@villapilifs.be — general mailbox verified on official page https://www.villapilifs.be/ (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_villa_pilifs_neder_over_heembeek_vaph_matrix_9900_1_93m_9901_88k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2906/; rq_2906=done; spawn **rq_2907**; ticks=2906.
 - Next: **rq_2907 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2907 — 2026-10-12T17:18:30Z — rq_2907 leftover dual Messidor Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Messidor** → KBO 0447.635.105 had 0 prior entity rows.
+- KBO: Actief since 30 april 1992; VZW; zetel Gildenstraat 11 1000 Brussel; 1 VE; 0 prior entity rows for 0447.635.105
+- Found: official NBB VKT-VZW native PDF **2026-00230387** (51186 B / 13p; AV 03-06-2026; neergelegd 01/07/2026; MD5 6a459ced0e5a8acf81637b38942e0e69). VKT-VZW 9900 **EUR1869149** (-3.64%); 62 **EUR1603712**; 9901 **EUR79175** (was 194377); 9904 51994; equity 2282678; cash 141455; FTE 19,5 (was 18,1).
+- FOI address: administration@messidor-carrefour.be — general mailbox verified on official page https://messidor-carrefour.be/messidor/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_messidor_bruxelles_vaph_matrix_9900_1_87m_9901_79k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2907/; rq_2907=done; spawn **rq_2908**; ticks=2907.
+- Next: **rq_2908 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
