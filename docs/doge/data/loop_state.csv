@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T18:32:57Z,rq_2984,2984,no,tick2984 leftover dual Job & Co Gent (Sint-Amandsberg) 0440.802.543 Strong PDF 2026-00139271 9900 3.47m / 9901 93k; next rq_2985 Flemish 88.99x batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T18:33:08Z,rq_2985,2985,no,tick2985 leftover dual De Duinenwacht Oostende 0466.375.307 Strong PDF 2026-00124213 9900 3.11m / 9901 46k; next rq_2986 Flemish 88.99x batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

@@ -32673,3 +32673,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@jobenco.be — general mailbox verified on official page https://www.jobenco.be/contact (address Antwerpsesteenweg 573 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_job_en_co_gent_vaph_matrix_9900_3_47m_9901_93k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2984/; rq_2984=done; spawn **rq_2985**; ticks=2984.
 - Next: **rq_2985 leftover dual** — Flemish 88.99x batch in progress; next: remaining units of this batch.
+
+
+## Tick 2985 — 2026-10-12T18:33:08Z — rq_2985 leftover dual De Duinenwacht Oostende YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.991-88.999 social work / sheltered work in 18 Flemish city postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **De Duinenwacht** → KBO 0466.375.307 had 0 prior entity rows.
+- KBO: Actief since 15 maart 1999; VZW; zetel Karperstraat 8 8400 Oostende; 1 VE; 0 prior entity rows for 0466.375.307
+- Found: official NBB VKT-VZW native PDF **2026-00124213** (56089 B / 17p; AV 27-05-2026; neergelegd 28/05/2026; MD5 6f4593749e453a9412e55bb4ba0135cf). VKT-VZW 9900 **EUR3112306** (+9.66%); 62 **EUR2627561**; 9901 **EUR45555** (was 85906); 9904 1174; equity 1869308; cash 343430; FTE 62,4 (was 57,1).
+- FOI address: info@duinenwacht.be — general mailbox verified on official page https://www.duinenwacht.be/ (address Karperstraat 8 and KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oostende); FOI **gap_de_duinenwacht_oostende_vaph_matrix_9900_3_11m_9901_46k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2985/; rq_2985=done; spawn **rq_2986**; ticks=2985.
+- Next: **rq_2986 leftover dual** — Flemish 88.99x batch in progress; next: remaining units of this batch.
