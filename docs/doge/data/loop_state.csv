@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T20:22:37Z,rq_3042,3042,no,tick3042 leftover dual Citoyenneté et Participation Brussel 0409.117.690 Strong PDF 2026-00323668 9900 2.43m / 9901 79k; next rq_3043 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T20:22:46Z,rq_3043,3043,no,tick3043 leftover dual G-sport Vlaanderen Gent 0417.754.155 Strong PDF 2026-00078449 9900 2.16m / 9901 loss 8k; next rq_3044 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

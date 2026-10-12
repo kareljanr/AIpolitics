@@ -33259,3 +33259,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@citoyennete-participation.be — general mailbox verified on official page https://citoyennete-participation.be/ (KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_citoyennete_participation_vaph_matrix_9900_2_43m_9901_79k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3042/; rq_3042=done; spawn **rq_3043**; ticks=3042.
 - Next: **rq_3043 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3043 — 2026-10-12T20:22:46Z — rq_3043 leftover dual G-sport Vlaanderen Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (codes 93.191 sport federations, 93.121/93.199 sport, 84.130 public administration of economic affairs, 72.200 social-science research, 94.991 youth/adult associations; ~59 Flemish city and Brussels postcodes) plus rq_3030 leftovers, ranked by YE2025 NBB primary figure; candidates passed a name/alias/KBO/website dedup check against existing entities: **G-sport Vlaanderen** → KBO 0417.754.155 had 0 prior entity rows.
+- KBO: Actief since 22 december 1977; VZW; zetel Zuiderlaan 13 9000 Gent; 1 VE; 0 prior entity rows for 0417.754.155
+- Found: official NBB VKT-VZW native PDF **2026-00078449** (235724 B / 21p; AV 20-03-2026; neergelegd 10/04/2026; MD5 4d980d64a5fa50457e3010e739dcb834). VKT-VZW 9900 **EUR2162151** (+0.24%); 62 **EUR2084978**; 9901 **EUR-7540** (was 24424); 9904 16328; equity 1490759; cash 105845; FTE 25 (was 22,3).
+- FOI address: info@gsportvlaanderen.be — general mailbox verified on official page https://www.gsportvlaanderen.be/contact (KBO number and Zuiderlaan 13 shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_gsport_vlaanderen_vaph_matrix_9900_2_16m_9901_loss_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3043/; rq_3043=done; spawn **rq_3044**; ticks=3043.
+- Next: **rq_3044 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
