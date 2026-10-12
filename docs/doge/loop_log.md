@@ -31983,3 +31983,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@asbltimbervzw.be — general mailbox verified on official page https://www.asbltimbervzw.be/contactus (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_timber_woluwe_vaph_matrix_9900_0_97m_9901_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2915/; rq_2915=done; spawn **rq_2916**; ticks=2915.
 - Next: **rq_2916 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2916 — 2026-10-12T17:23:17Z — rq_2916 leftover dual Nausicaa Bruxelles (Uccle) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Nausicaa** → KBO 0458.355.484 had 0 prior entity rows.
+- KBO: Actief since 18 juni 1996; VZW; zetel Heldensquare 5 1180 Ukkel; 1 VE; 0 prior entity rows for 0458.355.484
+- Found: official NBB VKT-VZW native PDF **2026-00237980** (183827 B / 15p; AV 29-06-2026; neergelegd 30/06/2026; MD5 a9cceef517bd676b011690f60fb588e6). VKT-VZW 9900 **EUR868534** (-23.65%); 62 **EUR751476**; 9901 **EUR67243** (was 462053); 9904 96649; equity 3241007; cash 2526992; FTE 11 (was 10,6).
+- FOI address: info@ihpnausicaa.be — general mailbox verified on official page https://www.ihpnausicaa.be/ (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_nausicaa_uccle_vaph_matrix_9900_0_87m_9901_67k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2916/; rq_2916=done; spawn **rq_2917**; ticks=2916.
+- Next: **rq_2917 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
