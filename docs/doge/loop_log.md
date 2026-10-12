@@ -32743,3 +32743,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@coleurope.eu — general mailbox verified on official page https://www.coleurope.eu/about-college/contact-us (Bruges campus Dijver 11 matches KBO).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_europacollege_brugge_vaph_matrix_733_13_93m_9901_1785k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2991/; rq_2990=done; spawn **rq_2992**; ticks=2991.
 - Next: **rq_2992 leftover dual** — Flemish 85.592/87.101/88.911 batch in progress; next: remaining units of this batch.
+
+
+## Tick 2992 — 2026-10-12T18:45:45Z — rq_2992 leftover dual Les Etoiles Woon- en Zorgcentrum Oostende YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 85.592 training, 87.101 residential care, 88.911 childcare and related codes in 18 Flemish city postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Les Etoiles Woon- en Zorgcentrum** → KBO 0479.916.309 had 0 prior entity rows.
+- KBO: Actief since 12 februari 2003; VZW; zetel Assisiëlaan 4 8400 Oostende; 1 VE; 0 prior entity rows for 0479.916.309
+- Found: official NBB VKT-VZW native PDF **2026-00340882** (48130 B / 13p; AV 15-05-2026; neergelegd 28/07/2026; MD5 1a00a5e700c8007ecde083881337ca3e). VKT-VZW 9900 **EUR4223100** (+6.65%); 62 **EUR4127377**; 9901 **EUR32802** (was -221100); 9904 40339; equity 2519826; cash 753365; FTE 58,5 (was 61,2).
+- FOI address: les.etoiles@telenet.be — general mailbox verified on official page https://lesetoileswzc.be/contact/ (address Assisielaan 4 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oostende); FOI **gap_les_etoiles_oostende_vaph_matrix_9900_4_22m_9901_33k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2992/; rq_2992=done; spawn **rq_2993**; ticks=2992.
+- Next: **rq_2993 leftover dual** — Flemish 85.592/87.101/88.911 batch in progress; next: remaining units of this batch.
