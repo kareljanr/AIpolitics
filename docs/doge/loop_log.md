@@ -31381,3 +31381,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: equipe@lewolvendael.org — general team mailbox verified on official page https://www.lewolvendael.org/fr/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_wolvendael_uccle_vaph_matrix_9900_1_48m_9901_16k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2855/; rq_2855=done; spawn **rq_2856**; ticks=2855.
 - Next: **rq_2856 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2856 — 2026-10-12T16:25:44Z — rq_2856 leftover dual Rizome-BXL Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Rizome-BXL** → KBO 0410.398.981 had 0 prior entity rows.
+- KBO: Actief since 29 april 1936; VZW; zetel Anspachlaan 41 1000 Brussel; 1 VE; 0 prior entity rows for 0410.398.981
+- Found: official NBB MIC-VZW native PDF **2026-00125227** (44824 B / 10p; AV 25-03-2026; neergelegd 26/05/2026; MD5 53ab5b08cd6770fb9ef5e5fc0c6091de). MIC-VZW 9900 **EUR1276844** (+12.30%); 62 **EUR1267280**; 9901 **EUR5170** (was 20997); 9904 2344; equity 32757; cash 154075; FTE n/a.
+- FOI address: info@rizome-bxl.be — general mailbox verified on official page https://rizome-bxl.be/mission-de-lasbl/ (company number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_rizome_bxl_bruxelles_vaph_matrix_9900_1_28m_9901_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2856/; rq_2856=done; spawn **rq_2857**; ticks=2856.
+- Next: **rq_2857 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
