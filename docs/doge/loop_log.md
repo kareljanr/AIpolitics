@@ -33742,3 +33742,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3090 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3090 run locally as fallback.
 - Next: **rq_3090** — remaining Walloon SLSPs with code 740 (Mouscron EUR0.56m, Saint-Ghislain EUR0.52m, Sambre et Biesme EUR0.44m, ...), largest first, after the dedup check.
+
+
+## Tick 3091 — 2026-10-12T21:42:14Z — rq_3090 leftover dual Liège Zone 2 IILE-SRI (Intercommunale d'Incendie de Liège et Environs) Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon intercommunales (KBO name search over ~50 Walloon intercommunale names, filings ranked by NBB code 740 operating subsidies from public authorities; new: Liège Zone 2 IILE-SRI, ISBW, IMSTAM) plus remaining SLSPs from the official Wallonia SLSP list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf); largest code 740 first; every candidate passed the name/alias/KBO/website dedup check: **Liège Zone 2 IILE-SRI (Intercommunale d'Incendie de Liège et Environs)** → KBO 0248.929.120 had 0 prior entity rows.
+- KBO: Actief since 17 december 1992; SC; zetel Rue Ransonnet 5 4020 Liège Extra adresinfo: Caserne Ransonnet; 8 VE; 0 prior entity rows for 0248.929.120
+- Found: official NBB VOL-SC native PDF **2026-00242979** (2608227 B / 68p; AV 15-06-2026; neergelegd 01/07/2026; MD5 8f30029e659f4dd448dc23d2ddeab2d7). VOL-SC 740 **EUR13403080** (+0.01%); 62 **EUR68010211**; 9901 **EUR-62774627** (was -55173958); 9904 -63000965; equity 44261133; cash 3382977; FTE 574 (was 580).
+- FOI address: info@iile.be — general mailbox verified on official page https://www.iile-sri.be/contact-info (with Rue Ransonnet address).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_liege_zone2_iile_code740_split_740_13_40m_9901_loss_62775k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3091/; rq_3090=done; spawn **rq_3092**; ticks=3091.
+- Next: **rq_3092 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

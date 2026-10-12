@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T21:34:55Z,every10_3090,3090,no,"tick3090 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3090 carried open; next remaining Walloon SLSPs with code 740, largest first, largest first (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T21:42:14Z,rq_3090,3091,no,tick3091 leftover dual Liège Zone 2 IILE-SRI (Intercommunale d'Incendie de Liège et Environs) Liège 0248.929.120 Strong PDF 2026-00242979 740 13.40m / 9901 loss 62775k; next rq_3092 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
