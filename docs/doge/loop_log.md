@@ -29310,3 +29310,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00291268** (509575 B / 46p; AV 10-06-2026; neergelegd 09/07/2026; MD5 0c94275fd3671db8855654ce6ba15e82). VOL-VZW 733 **EUR7711950** (+5.45%); 62 **EUR6341019**; 9901 **EUR-57281** (was 284464); 9904 -95179; equity 6177033; cash 1118590; FTE 85,1 (was 80,4).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_zwalm); FOI **gap_amon_zwalm_vaph_matrix_733_7_71m_9901_loss_57k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2648/; rq_2648=done; spawn **rq_2649**; ticks=2648.
 - Next: **rq_2649 leftover dual** — continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists.
+
+
+## Tick 2649 — 2026-10-12T08:28:31Z — rq_2649 leftover dual OOOC t Pasrel Brussel (Schaarbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OOOC contact list (april 2026): **OOOC t Pasrel** → KBO 0448.072.494 had 0 prior entity rows. Last of the Opgroeien OOOC list; Brussels org attached to city_brussel (precedent CGG/CAW Brussel).
+- KBO: Actief since 4 mei 1992; VZW; zetel Emile Zolalaan 50, 1030 Schaarbeek; 4 VE; 0 prior entity rows for 0448.072.494
+- Found: official NBB VKT-VZW native PDF **2026-00134340** (54029 B / 15p; AV 18-05-2026; neergelegd 03/06/2026; MD5 b195402cf943be45d47e6d199c03e23c). VKT-VZW 9900 **EUR3957021** (+5.01%); 62 **EUR3850676**; 9901 **EUR-29671** (was 374022); 9904 -8770; equity 6146690; cash 2463771; FTE 50,6 (was 50,2).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_oooc_t_pasrel_schaarbeek_vaph_matrix_9900_3_96m_9901_loss_30k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2649/; rq_2649=done; spawn **rq_2650**; ticks=2649.
+- Next: **rq_2650 leftover dual** — continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists.
