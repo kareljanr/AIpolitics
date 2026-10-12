@@ -19,7 +19,7 @@ La présente demande vous est adressée **à titre volontaire**, dans un souci d
 Je vous demande dès lors une copie des documents et chiffres suivants concernant **Liège Zone 2 IILE-SRI (Intercommunale d'Incendie de Liège et Environs) SC** (BCE 0248.929.120) :
 
 1. La ventilation par pouvoir public des **subsides d'exploitation et montants compensatoires obtenus des pouvoirs publics 2025 (code 740) de 13.403.080 EUR** (2024 : **13.402.404 EUR**) (communes associées (dotations), État fédéral (dotation aux zones de secours), Province, autres).
-2. La **ventilation des contributions 2025 des communes associées** et la manière dont elles sont comptabilisées dans les comptes annuels (notamment au regard de la perte d'exploitation de l'exercice), ainsi que les principaux indicateurs d'activité 2025 (nombre d'interventions).
+2. La **ventilation des contributions 2025 des communes associées** et la rubrique des comptes annuels dans laquelle elles sont comptabilisées, ainsi que les principaux indicateurs d'activité 2025 (nombre d'interventions).
 3. Les décisions fixant les dotations communales et fédérales applicables pour 2025.
 4. L'affectation **de la perte de l'exercice (-63.000.965 EUR)** et la politique de réserves au regard des **liquidités de 3.382.977 EUR** (2024 : **3.394.450 EUR**).
 

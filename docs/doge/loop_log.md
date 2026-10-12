@@ -33842,3 +33842,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3100 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3100 run locally as fallback.
 - Next: **rq_3100** — Le Foyer de la Région de Fléron (EUR0.27m), Le Foyer Wavrien (EUR0.10m), and more Walloon/Brussels intercommunales or provincial bodies with code 740 not yet in entities, largest first, after the dedup check.
+
+
+## Tick 3101 — 2026-10-12T22:03:13Z — rq_3100 leftover dual IMAJE (Intercommunale des Modes d'Accueil pour Jeunes Enfants) Fernelmont YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon social, childcare and senior-care intercommunales (KBO name search over ~90 more Walloon, Brussels and Flemish intercommunale/association names, filings ranked by NBB code 740 operating subsidies from public authorities; new: IMAJE, Interseniors, IRSIA) plus remaining SLSPs from the official Wallonia SLSP list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf); largest code 740 first; every candidate passed the name/alias/KBO/website dedup check: **IMAJE (Intercommunale des Modes d'Accueil pour Jeunes Enfants)** → KBO 0242.214.146 had 0 prior entity rows.
+- KBO: Actief since 17 oktober 1990; SC; zetel Rue Albert-Ier, Nov. 9 5380 Fernelmont; 70 VE; 0 prior entity rows for 0242.214.146
+- Found: official NBB VOL-SC native PDF **2026-00384085** (1788323 B / 68p; AV 22-06-2026; neergelegd 05/08/2026; MD5 46f63a0cd8b6d810c21b842c5bee3d1d). VOL-SC 740 **EUR21303637** (+5.13%); 62 **EUR26243105**; 9901 **EUR-282194** (was -85960); 9904 -172259; equity 6692859; cash 2879246; FTE 596,7 (was 584,2).
+- FOI address: contact@imaje-interco.be — general mailbox verified on official page https://www.imaje-interco.be/contact/ (with Rue Albert 1er 9 address) and the Ville de Namur directory.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_imaje_code740_split_740_21_30m_9901_loss_282k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3101/; rq_3100=done; spawn **rq_3102**; ticks=3101.
+- Next: **rq_3102 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

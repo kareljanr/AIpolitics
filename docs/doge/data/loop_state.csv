@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T21:44:05Z,every10_3100,3100,no,"tick3100 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3100 carried open; next Fléron/Wavrien SLSPs and more code-740 intercommunales, largest first, largest first (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T22:03:13Z,rq_3100,3101,no,tick3101 leftover dual IMAJE (Intercommunale des Modes d'Accueil pour Jeunes Enfants) Fernelmont 0242.214.146 Strong PDF 2026-00384085 740 21.30m / 9901 loss 282k; next rq_3102 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

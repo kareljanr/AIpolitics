@@ -30,7 +30,7 @@
 
 ### High-absurdity residual (not pure top10)
 
-- **Liège Zone 2 IILE-SRI** (tick3091) fire and rescue intercommunale: operating loss **EUR62.77m** and loss for the year EUR63.00m, with code 740 public operating subsidies EUR13.40m (how municipal contributions are booked is asked in the FOI).
+- **Liège Zone 2 IILE-SRI** (tick3091) fire and rescue intercommunale: the filing shows code 740 public operating subsidies EUR13.40m, an operating result of EUR-62.77m and a result for the year of EUR-63.00m. Open question (FOI): where and how the member municipalities' contributions appear in the annual accounts; no conclusion is drawn from the operating result.
 - **L'Habitat du Pays Vert** (tick3098) operating loss **EUR1.20m** with code 740 public operating subsidies EUR346k.
 
 - **La Sambrienne** (tick3081) operating loss **EUR2.98m** despite code 740 public operating subsidies **EUR3.36m**.
