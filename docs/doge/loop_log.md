@@ -34482,3 +34482,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@godinne.be — general mailbox of the Godinne site verified on official school-group site https://www.godinne-burnot.be/ (Godinne is the ASBL KBO seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_godinne_burnot_vaph_matrix_733_6_94m_9901_loss_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3164/; rq_3164=done; spawn **rq_3165**; ticks=3164.
 - Next: **rq_3165 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3165 — 2026-10-12T23:54:41Z — rq_3165 leftover dual Comité organisateur de l'Institut Saint-Joseph (Florennes) Florennes YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Catholic school boards and university colleges (Flemish schoolbesturen VZW and FWB organising bodies / hautes écoles, ASBL); new KBO name search (legal form VZW/ASBL; words such as Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège Saint, Institut Saint), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Comité organisateur de l'Institut Saint-Joseph (Florennes)** → KBO 0409.939.420 had 0 prior entity rows.
+- KBO: Actief since 14 november 1968; VZW; zetel Rue des Récollets 7 bus B 5620 Florennes; 1 VE; 0 prior entity rows for 0409.939.420
+- Found: official NBB VOL-VZW native PDF **2026-00247143** (4501805 B / 46p; AV 19-06-2026; neergelegd 02/07/2026; MD5 55b359532a94dae65b360e8ed5496160). VOL-VZW 733 **EUR6243057** (-1.33%); 62 **EUR5581075**; 9901 **EUR88142** (was 525114); 9904 96603; equity 3867901; cash 458712; FTE 7,2 (was 6,3).
+- FOI address: direction@doaflorennes.be — direction mailbox verified on official legal-notice page https://ecoles-libres-florennes.be/mentions-legales/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_isj_florennes_vaph_matrix_733_6_24m_9901_88k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3165/; rq_3165=done; spawn **rq_3166**; ticks=3165.
+- Next: **rq_3166 leftover dual** — Batch done; next after the dedup check: Institut Saint-Berthuin Malonne (0409.295.062, code 733 EUR5.32m), then a fresh search (Flemish schoolbesturen via other name stems; abbreviated-model POs report code 9900, not 733); skipped for mailbox: Collège de la Lys (contact form only on own site), Collège Saint-Servais Namur (no mailbox readable on official site), Katholieke Hogeschool Vives Zuid (no general mailbox on the opened contact page), Sint-Jan Berchmansinstituut Puurs (no general mailbox readable on official pages).
