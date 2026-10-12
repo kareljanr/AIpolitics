@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T16:44:12Z,rq_2887,2887,no,tick2887 leftover dual Espace Social Télé-Service Bruxelles 0410.748.775 Strong PDF 2026-00093700 9900 2.08m / 9901 loss 53k; next rq_2888 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T16:44:21Z,rq_2888,2888,no,tick2888 leftover dual Free Clinic Bruxelles (Ixelles) 0412.433.904 Strong PDF 2026-00176134 9900 1.88m / 9901 175k; next rq_2889 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

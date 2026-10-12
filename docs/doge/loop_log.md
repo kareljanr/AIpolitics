@@ -31703,3 +31703,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: espacesocial@tele-service.be — general mailbox verified on official page https://espacesocial.be/contact/ (address shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_espace_social_tele_service_bruxelles_vaph_matrix_9900_2_08m_9901_loss_53k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2887/; rq_2887=done; spawn **rq_2888**; ticks=2887.
 - Next: **rq_2888 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2888 — 2026-10-12T16:44:21Z — rq_2888 leftover dual Free Clinic Bruxelles (Ixelles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Free Clinic** → KBO 0412.433.904 had 0 prior entity rows.
+- KBO: Actief since 15 juni 1972; VZW; zetel Waverse Steenweg 154-A 1050 Elsene; 1 VE; 0 prior entity rows for 0412.433.904
+- Found: official NBB VKT-VZW native PDF **2026-00176134** (50137 B / 12p; AV 16-06-2026; neergelegd 19/06/2026; MD5 200c580c21953998b7bd4a6a5449ff6b). VKT-VZW 9900 **EUR1876929** (+25.83%); 62 **EUR1760427**; 9901 **EUR175460** (was 22029); 9904 175448; equity 597871; cash 265516; FTE 0.
+- FOI address: info@freeclinic.be — general mailbox verified on official page https://www.freeclinic.be/ (company number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_free_clinic_ixelles_vaph_matrix_9900_1_88m_9901_175k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2888/; rq_2888=done; spawn **rq_2889**; ticks=2888.
+- Next: **rq_2889 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
