@@ -56,14 +56,22 @@ jobs:
         run: |
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-          git add -- \
+          for path in \
             docs/proposal-radar/data/ingest_queue.csv \
             docs/proposal-radar/data/sources.csv \
             docs/proposal-radar/data/digest_sent.csv \
             docs/proposal-radar/public/weekly_latest.md \
             docs/proposal-radar/public/leaderboard_clowns.md \
             docs/proposal-radar/public/leaderboard_genius.md
-          git diff --cached --quiet && exit 0
+          do
+            if [[ -f "$path" ]]; then
+              git add -- "$path"
+            fi
+          done
+          if git diff --cached --quiet; then
+            echo "No radar files changed."
+            exit 0
+          fi
           git commit -m "radar: record new proposals and what was already posted."
           git pull --rebase --autostash origin main
           git push origin HEAD
