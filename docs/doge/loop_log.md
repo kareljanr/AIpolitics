@@ -31481,3 +31481,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: admin.creche@erasme.ulb.ac.be — general crèche administration mailbox verified on official ONE page https://my.one.be/milieu-accueil/2146.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_anderlecht); FOI **gap_creche_erasme_anderlecht_vaph_matrix_9900_0_98m_9901_loss_225k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2865/; rq_2865=done; spawn **rq_2866**; ticks=2865.
 - Next: **rq_2866 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2866 — 2026-10-12T16:30:01Z — rq_2866 leftover dual Centre Sésame Bruxelles (Uccle) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Centre Sésame** → KBO 0452.677.818 had 0 prior entity rows.
+- KBO: Actief since 19 mei 1994; VZW; zetel Messidorlaan 16 1180 Ukkel; 1 VE; 0 prior entity rows for 0452.677.818
+- Found: official NBB VKT-VZW native PDF **2026-00270276** (429408 B / 23p; AV 22-06-2026; neergelegd 02/07/2026; MD5 631434822afbd1be7fcd5c70f2bead4b). VKT-VZW 9900 **EUR785643** (-7.94%); 62 **EUR762004**; 9901 **EUR-18784** (was 44090); 9904 -11292; equity 108218; cash 99855; FTE 11,6 (was 11,5).
+- FOI address: info@centresesame.be — general mailbox verified on official page https://www.centresesame.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_centre_sesame_uccle_vaph_matrix_9900_0_79m_9901_loss_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2866/; rq_2866=done; spawn **rq_2867**; ticks=2866.
+- Next: **rq_2867 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
