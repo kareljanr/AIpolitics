@@ -30396,3 +30396,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: kabouterland.lennik@skynet.be — NEEDS VERIFICATION: mailbox seen only in third-party/search snippets (desocialekaart.be/cylex snippets; note kabouterland.be belongs to a different Kabouterland in Brecht); no official page with this address could be opened.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lennik); FOI **gap_kabouterland_lennik_vaph_matrix_733_0_66m_9901_52k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2758/; rq_2758=done; spawn **rq_2759**; ticks=2758.
 - Next: **rq_2759 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2759 — 2026-10-12T13:40:15Z — rq_2759 leftover dual VZW Kinderopvang Hove YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, plus KBO record of the Oostende projectvereniging Perspectief: **VZW Kinderopvang** → KBO 0419.305.462 had 0 prior entity rows.
+- KBO: Actief since 31 januari 1979; VZW; zetel Vincent Bavaisstraat 23 2540 Hove; 1 VE; 0 prior entity rows for 0419.305.462
+- Found: official NBB VKT-VZW native PDF **2026-00162439** (47679 B / 12p; AV 01-06-2026; neergelegd 12/06/2026; MD5 cb75d16de48fe2c8e211e20b595a131a). VKT-VZW 9900 **EUR655063** (-4.12%); 62 **EUR672048**; 9901 **EUR-28771** (was -1966); 9904 -28924; equity 264729; cash 354722; FTE 10 (was 10,9).
+- FOI address: info@vzwkinderopvang.be — general mailbox verified on official page https://vzwkinderopvang.be/contact/ (KBO number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_hove); FOI **gap_kinderopvang_hove_vaph_matrix_9900_0_66m_9901_loss_29k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2759/; rq_2759=done; spawn **rq_2760**; ticks=2759.
+- Next: **rq_2760 leftover dual** — Batch done; next: more NACE 88.911 childcare VZWs and 88.101 home-care services outside the main cities; skipped: BABELU vzw Zaventem (no own general mailbox found; KBO seat shared with Babilou Belgium BV; only kinderopvang@babilou.com of the BV found), Kinderdagverblijf Wolkewietje Berlaar (no mailbox on its official site), 't Riemenhofje Heist-op-den-Berg (only a named person's mailbox).
