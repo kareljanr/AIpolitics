@@ -30529,3 +30529,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kleineark.be — general mailbox verified on official page https://www.kleineark.be/kinderdagverblijf/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_harelbeke); FOI **gap_de_kleine_ark_harelbeke_vaph_matrix_9900_1_42m_9901_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2771/; rq_2770=done; spawn **rq_2772**; ticks=2771.
 - Next: **rq_2772 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2772 — 2026-10-12T14:01:27Z — rq_2772 leftover dual Kinderdagopvang Wieltjeshove Menen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, West-/Oost-Vlaanderen and Leuven/Limburg postcodes: **Kinderdagopvang Wieltjeshove** → KBO 0429.705.149 had 0 prior entity rows.
+- KBO: Actief since 9 april 1984; VZW; zetel Binnenhof 51 8930 Menen; 2 VE; 0 prior entity rows for 0429.705.149
+- Found: official NBB VKT-VZW native PDF **2026-00177833** (44685 B / 11p; AV 16-06-2026; neergelegd 16/06/2026; MD5 43444f59bf2e42d619de4d7360dc6eac). VKT-VZW 9900 **EUR1641344** (-3.18%); 62 **EUR1325801**; 9901 **EUR236075** (was 397858); 9904 258753; equity 3950947; cash 2446276; FTE 22,4 (was 21,1).
+- FOI address: kdv@wieltjeshove.be — general mailbox verified on official page https://wieltjeshove.be/contact/ ("algemene informatie, ideeën en klachten"; KBO number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_menen); FOI **gap_wieltjeshove_menen_vaph_matrix_9900_1_64m_9901_236k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2772/; rq_2772=done; spawn **rq_2773**; ticks=2772.
+- Next: **rq_2773 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
