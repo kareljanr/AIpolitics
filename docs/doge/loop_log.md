@@ -34142,3 +34142,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3130 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3130 run locally as fallback.
 - Next: **rq_3130** — S2J / CEL Liège-Ouest (code 733 EUR16.90m), PO Collèges Saint-Etienne (EUR13.84m), Lindthout (EUR13.30m), INDH Heusy (EUR13.07m), SeGEC (EUR10.40m), all mailboxes verified, after the dedup check.
+
+
+## Tick 3131 — 2026-10-12T23:14:50Z — rq_3130 leftover dual Centre d'Enseignement Libre de Liège-Ouest (S2J) Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies (pouvoirs organisateurs, ASBL) and related free-education non-profits; KBO name search over school/PO names (legal form ASBL), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Centre d'Enseignement Libre de Liège-Ouest (S2J)** → KBO 0628.828.432 had 0 prior entity rows.
+- KBO: Actief since 23 april 2015; VZW; zetel Rue du Général-Bertrand 14 4000 Liège; 4 VE; 0 prior entity rows for 0628.828.432
+- Found: official NBB VOL-VZW native PDF **2026-00426866** (2096938 B / 39p; AV 09-06-2026; neergelegd 26/08/2026; MD5 50c35b7d9356be3aac66448b0b943b81). VOL-VZW 733 **EUR16903478** (+5.90%); 62 **EUR15430438**; 9901 **EUR-44422** (was -375100); 9904 -24090; equity 4531074; cash 496233; FTE 258,5 (was 265,5).
+- FOI address: info@s2j.eu — general mailbox verified on official contact page https://www.s2j.eu/contact-inscriptions/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_cel_liege_ouest_vaph_matrix_733_16_90m_9901_loss_44k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3131/; rq_3130=done; spawn **rq_3132**; ticks=3131.
+- Next: **rq_3132 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
