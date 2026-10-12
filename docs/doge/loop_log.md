@@ -32053,3 +32053,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@residenceportedehal.be — general mailbox verified on official page https://www.residenceportedehal.be/ (site of the Résidence Porte de Hal, which it states is administered by the Société Royale de Philanthropie).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_societe_royale_philanthropie_bruxelles_turnover_public_share_70_turnover_6_77m_9901_501k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2922/; rq_2922=done; spawn **rq_2923**; ticks=2922.
 - Next: **rq_2923 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2923 — 2026-10-12T17:31:09Z — rq_2923 leftover dual Woon- en zorgcentrum Sint-Jozef Evere YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scans 2026-10-12 (Brussels 87.101-87.909 and 88.101-88.109 in 22 postcodes; earlier Flemish 87.x/88.10x and Brussels 88.99x scans), ranked by YE2025 NBB primary figure (733 subsidies, 9900 gross margin, or 70 turnover where 733 is empty): **Woon- en zorgcentrum Sint-Jozef** → KBO 0430.266.462 had 0 prior entity rows.
+- KBO: Actief since 24 november 1984; VZW; zetel Marnestraat 89 1140 Evere; 2 VE; 0 prior entity rows for 0430.266.462
+- Found: official NBB VOL-VZW native PDF **2026-00436384** (717341 B / 41p; AV 23-07-2026; neergelegd 27/08/2026; MD5 d2e513d7f0ca36d979001afb731bdeab). VOL-VZW 70 turnover (NOT a subsidy amount) **EUR4850641** (-5.85%); 62 **EUR4211682**; 9901 **EUR-665325** (was -204799); 9904 -688456; equity 1901477; cash 49027; FTE 66,8 (was 65,7).
+- FOI address: info@sintjozef-evere.be — general mailbox verified on official page https://wzcclivia.be/ (site of WZC Clivia, which it states is part of vzw Sint-Jozef; address matches KBO).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_wzc_sint_jozef_evere_turnover_public_share_70_turnover_4_85m_9901_loss_665k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2923/; rq_2923=done; spawn **rq_2924**; ticks=2923.
+- Next: **rq_2924 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
