@@ -31055,3 +31055,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@creb-asbl.be — general mailbox verified on official page https://www.creb-asbl.be/contact/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_creb_woluwe_vaph_matrix_733_8_86m_9901_76k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2823/; rq_2823=done; spawn **rq_2824**; ticks=2823.
 - Next: **rq_2824 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2824 — 2026-10-12T15:31:26Z — rq_2824 leftover dual HAMA (Centres d'hébergement pour personnes adultes atteintes d'un handicap mental) Bruxelles (Ixelles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.201/87.202 (residential care for people with intellectual disability) activity searches, Flemish and Brussels-Capital postcodes, ranked by primary figure: **HAMA (Centres d'hébergement pour personnes adultes atteintes d'un handicap mental)** → KBO 0409.805.303 had 0 prior entity rows.
+- KBO: Actief since 14 oktober 1965; VZW; zetel Jules Lejeunestraat 46 1050 Elsene; 5 VE; 0 prior entity rows for 0409.805.303
+- Found: official NBB VKT-VZW native PDF **2026-00275053** (326878 B / 29p; AV 12-06-2026; neergelegd 08/07/2026; MD5 54f6e19f3c7d9a9a5699558bc38b921c). VKT-VZW 9900 **EUR6640413** (+5.74%); 62 **EUR6209637**; 9901 **EUR31567** (was -130801); 9904 69610; equity 3874659; cash 1763039; FTE 81,6 (was 81,6).
+- FOI address: directionadminh1h2@asblhama.be — general mailbox verified on official page https://asblhama.be/contact/ (functional administration mailbox of HAMA 1-2; the site lists no single general address, only per-centre management mailboxes).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ixelles); FOI **gap_hama_ixelles_vaph_matrix_9900_6_64m_9901_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2824/; rq_2824=done; spawn **rq_2825**; ticks=2824.
+- Next: **rq_2825 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
