@@ -34242,3 +34242,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3140 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3140 run locally as fallback.
 - Next: **rq_3140** — Sainte-Union Dour (code 733 EUR10.28m), Don Bosco Tournai (EUR9.96m), Don Bosco Woluwe (EUR9.40m), IND Beauraing (EUR8.24m), Sacré-Coeur Ganshoren (EUR7.44m), all mailboxes verified, after the dedup check.
+
+
+## Tick 3141 — 2026-10-12T23:21:39Z — rq_3140 leftover dual Institut d'Enseignement libre catholique de Dour (Institut La Sainte-Union) Dour YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies (pouvoirs organisateurs, ASBL) and related free-education non-profits; KBO name search over school/PO names (legal form ASBL), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Institut d'Enseignement libre catholique de Dour (Institut La Sainte-Union)** → KBO 0424.063.907 had 0 prior entity rows.
+- KBO: Actief since 18 augustus 1982; VZW; zetel Rue du Roi Albert 10 7370 Dour; 2 VE; 0 prior entity rows for 0424.063.907
+- Found: official NBB VOL-VZW native PDF **2026-00155326** (894158 B / 48p; AV 02-06-2026; neergelegd 12/06/2026; MD5 f23aa3f6f03b8f55e2e080c5085e7b46). VOL-VZW 733 **EUR10284600** (+7.09%); 62 **EUR9200627**; 9901 **EUR428140** (was 145938); 9904 416718; equity 7156143; cash 2909984; FTE 8,8 (was 8,1).
+- FOI address: direction@isu-dour.be — direction mailbox verified on official school site https://www.isu-dour.be/acces/local/index.html (Rue du Roi Albert 10, the ASBL KBO seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_isu_dour_vaph_matrix_733_10_28m_9901_428k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3141/; rq_3140=done; spawn **rq_3142**; ticks=3141.
+- Next: **rq_3142 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
