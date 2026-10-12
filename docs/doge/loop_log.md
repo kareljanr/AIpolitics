@@ -31095,3 +31095,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@dedauw.org — general mailbox verified on official page https://dedauw.org/algemene-contactgegevens/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vlaanderen_gov); FOI **gap_de_dauw_wortegem_petegem_vaph_matrix_9900_2_54m_9901_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2827/; rq_2827=done; spawn **rq_2828**; ticks=2827.
 - Next: **rq_2828 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2828 — 2026-10-12T15:32:01Z — rq_2828 leftover dual Centre d'hébergement Pierre Jurdant Bruxelles (Forest) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.201/87.202 (residential care for people with intellectual disability) activity searches, Flemish and Brussels-Capital postcodes, ranked by primary figure: **Centre d'hébergement Pierre Jurdant** → KBO 0408.325.458 had 0 prior entity rows.
+- KBO: Actief since 11 mei 1971; VZW; zetel Mozartlaan 84 1190 Vorst; 1 VE; 0 prior entity rows for 0408.325.458
+- Found: official NBB VKT-VZW native PDF **2026-00286745** (893347 B / 26p; AV 16-06-2026; neergelegd 10/07/2026; MD5 35fdbef380ddc544e622554001238f9e). VKT-VZW 9900 **EUR1425454** (+15.26%); 62 **EUR1365694**; 9901 **EUR16110** (was -6397); 9904 35597; equity 16958; cash 412; FTE 19,4 (was 17,7).
+- FOI address: secretariat@centrepierrejurdant.be — general mailbox verified on official page https://www.centrepierrejurdant.be/ (opened via web fetch; company number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_pierre_jurdant_forest_vaph_matrix_9900_1_43m_9901_16k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2828/; rq_2828=done; spawn **rq_2829**; ticks=2828.
+- Next: **rq_2829 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
