@@ -31240,3 +31240,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@hubbie.brussels — general mailbox verified on official page https://www.hubbie.brussels/nl/contacteer-ons (head office address matches KBO).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_hubbie_sint_gillis_vaph_matrix_733_7_83m_9901_151k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2841/; rq_2840=done; spawn **rq_2842**; ticks=2841.
 - Next: **rq_2842 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2842 — 2026-10-12T16:20:56Z — rq_2842 leftover dual Centre Educatif Permanent (CEP) Bruxelles (Watermael-Boitsfort) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Centre Educatif Permanent (CEP)** → KBO 0424.693.417 had 0 prior entity rows.
+- KBO: Actief since 11 april 1983; VZW; zetel Ottervangerstraat 63 1170 Watermaal-Bosvoorde; 1 VE; 0 prior entity rows for 0424.693.417
+- Found: official NBB VKT-VZW native PDF **2026-00211710** (1122556 B / 21p; AV 24-06-2026; neergelegd 29/06/2026; MD5 f9cc8fa04351eb5c276d03e89212f89b). VKT-VZW 9900 **EUR3420506** (+5.03%); 62 **EUR3365429**; 9901 **EUR-42** (was -113539); 9904 43418; equity 1086727; cash 257466; FTE 47,9 (was 47,2).
+- FOI address: info@cep-asbl.be — general mailbox verified on official page https://cep-asbl.be/ (company number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_cep_watermael_boitsfort_vaph_matrix_9900_3_42m_9901_loss_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2842/; rq_2842=done; spawn **rq_2843**; ticks=2842.
+- Next: **rq_2843 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
