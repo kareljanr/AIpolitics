@@ -34042,3 +34042,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3120 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3120 run locally as fallback.
 - Next: **rq_3120** — ASD Verviers (code 73 EUR14.39m), ASD Hainaut Picardie (code 73 EUR15.53m; general mailbox to verify), then abbreviated-model home-nursing VZWs (Croix Jaune et Blanche Mouscron-Comines, Wit-Gele Kruis van Brussel), after the dedup check.
+
+
+## Tick 3121 — 2026-10-12T22:58:08Z — rq_3120 leftover dual Aide et Soins à Domicile Croix Jaune et Blanche Tournai-Ath-Lessines-Enghien (CJB TALE) Tournai YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon home-help and family-help services (services d'aide aux familles et aînés, ASD, CSD; KBO name search over ~30 home-help names, filings ranked by NBB code 733 operating subsidies, largest first; Brussels Aide familiale and the large Flemish services already entities); every candidate passed the name/alias/KBO/website dedup check: **Aide et Soins à Domicile Croix Jaune et Blanche Tournai-Ath-Lessines-Enghien (CJB TALE)** → KBO 0465.074.814 had 0 prior entity rows.
+- KBO: Actief since 4 februari 1999; VZW; zetel Rue du Quesnoy(TOU) 39 7500 Tournai; 2 VE; 0 prior entity rows for 0465.074.814
+- Found: official NBB VOL-VZW native PDF **2026-00336443** (300171 B / 38p; AV 23-06-2026; neergelegd 27/07/2026; MD5 7822c42036b8b5c79f186daa90aa375e). VOL-VZW 733 **EUR2468503** (-2.41%); 62 **EUR6132221**; 9901 **EUR400645** (was 261938); 9904 400882; equity 1617965; cash 1651627; FTE 87,7 (was 86,8).
+- FOI address: asd.tournai@fasd.be — office mailbox asd.tournai@fasd.be verified on official ASD Hainaut Picardie contact page https://hpic.aideetsoinsadomicile.be/contact/ (listed for the Tournai head office, Rue du Quesnoy 39, which is also this ASBL KBO seat); the page footer lists this ASBL's BCE number among the group members.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_cjb_tale_vaph_matrix_733_2_47m_9901_401k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3121/; rq_3120=done; spawn **rq_3122**; ticks=3121.
+- Next: **rq_3122 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
