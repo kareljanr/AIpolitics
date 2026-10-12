@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 3110** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3100; 3101-3109 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3101-3109 residual dual L5 (not near-complete of 348bn):** IMAJE (Fernelmont) · Interseniors (Seraing) · IRSIA (Colfontaine) · Le Foyer de la Région de Fléron (Fléron) · Le Foyer Wavrien (Wavre) · ADMR (Namur) · ASD Namur (Namur) · CSD Mons-Wallonie picarde (Saint-Ghislain) · ASD Brabant wallon (Nivelles) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2738** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2792** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help code-733 shells incl. **NEW 3101-3109** IMAJE (Fernelmont) · Interseniors (Seraing) · IRSIA (Colfontaine) · Le Foyer de la Région de Fléron (Fléron) · Le Foyer Wavrien (Wavre) · ADMR (Namur) · ASD Namur (Namur) · CSD Mons-Wallonie picarde (Saint-Ghislain) · ASD Brabant wallon (Nivelles).
+
+### Inventory (tick 3110)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 60505 |
+| commitments.csv | 6792 |
+| leaderboard.csv | 8910 |
+| entities.csv | 2810 |
+| sources.csv | 9309 |
+| FOI ready | 2738 |
+| FOI total rows | 2792 |
+| research_queue open | rq_3110 (carried; next: SPAF, SAFSB, CSD Namur, SAFPA, CSD Brabant wallon home-help ASBLs, largest code 733 first) |
+
+### What improved since tick 3100
+
+- **New source (tick3101-3109):** IMAJE (Fernelmont) · Interseniors (Seraing) · IRSIA (Colfontaine) · Le Foyer de la Région de Fléron (Fléron) · Le Foyer Wavrien (Wavre) · ADMR (Namur) · ASD Namur (Namur) · CSD Mons-Wallonie picarde (Saint-Ghislain) · ASD Brabant wallon (Nivelles). KBO name searches over ~90 more intercommunale names found 3 new code-740 intercommunales (IMAJE EUR21.30m, Interseniors EUR6.31m, IRSIA EUR5.67m; Tibi, Sibelga, Vivalia and all Flemish ones already entities); the CPAS chapitre XII associations were tried and dropped (most file no NBB accounts; none with a usable code 740); then the user-approved Walloon home-help ASBLs, ranked by NBB code 733 subsidies, largest first (ADMR EUR52.92m, ASD Namur EUR20.87m, CSD Mons-Wallonie picarde EUR20.13m, ASD Brabant wallon EUR15.68m). All picks passed the dedup check.
+- **Toolkit:** write.py payroll (code 62) now reads only the labelled payroll line; an empty line gives "not in filing" (no fallback lookup); old bad values for CLB Noordwest-Brabant and CIG Convento fixed from the filings (commit 40e19b03). New profile for Walloon home-help ASBLs (voluntary FR request, no legal-basis claim). Liège Zone 2 IILE-SRI line and FOI q2 reworded neutrally (tick 3101).
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (own sites; Le Foyer Wavrien on the City of Wavre page); no NEEDS VERIFICATION.
+- **Runner note:** 2576-3110 ran on the local fallback runner; GitHub Actions DOGE loop run of 12 Oct failed at its Tick step (Grok CLI not signed in). Proposal-radar workflow still commits separately. Do not run both at once.
+- **Rejected 3101-3109 (fast, ~5 min cap):** Aide familiale Liège-Huy-Waremme (EUR17.59m code 733; mailbox on the ASD Liège site belongs to a sister entity with another KBO number), Le Foyer Jambois, Société de Logements de Mouscron, Le Home Ougréen (mailbox), Habitations Sociales de Saint-Nicolas (code 740 only in an appended budget table), hospitals (image-only filings), duplicates listed above.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3100** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

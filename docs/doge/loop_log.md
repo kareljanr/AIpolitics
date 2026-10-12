@@ -33932,3 +33932,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@asdbw.be — general mailbox verified on official contact page https://brabant.aideetsoinsadomicile.be/contact/ (site footer gives BCE 449.674.974).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_asd_brabant_wallon_vaph_matrix_733_15_68m_9901_loss_38k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3109/; rq_3109=done; spawn **rq_3110**; ticks=3109.
 - Next: **rq_3110 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3110 — 2026-10-12T22:27:47Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2738** of 2792 rows; inventory budgets 60505 · commitments 6792 · leaderboard 8910 · entities 2810 · sources 9309.
+- Top10: **stable** (3101-3109 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3101-3109: IMAJE (Fernelmont) · Interseniors (Seraing) · IRSIA (Colfontaine) · Le Foyer de la Région de Fléron (Fléron) · Le Foyer Wavrien (Wavre) · ADMR (Namur) · ASD Namur (Namur) · CSD Mons-Wallonie picarde (Saint-Ghislain) · ASD Brabant wallon (Nivelles).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3110 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3110 run locally as fallback.
+- Next: **rq_3110** — SPAF (EUR15.40m code 733), SAFSB (EUR14.22m), CSD Namur (EUR9.83m), SAFPA (EUR7.79m), CSD Brabant wallon (EUR5.96m), after the dedup check.
