@@ -29677,3 +29677,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: sporen@sporen.be — general mailbox verified on official page https://www.sporen.be/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_sporen_leuven_vaph_matrix_733_9_46m_9901_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2687/; rq_2687=done; spawn **rq_2688**; ticks=2687.
 - Next: **rq_2688 leftover dual** — Opgroeien OVBJ Vlaams-Brabant/Brussel list in progress; next: remaining OVBJ Vlaams-Brabant/Brussel units, then IBIS (verify mailbox), then KBO NACE 87/88 lists.
+
+
+## Tick 2688 — 2026-10-12T08:53:49Z — rq_2688 leftover dual Tonuso Anderlecht YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Vlaams-Brabant/Brussel list (april 2026): **Tonuso** → KBO 0449.971.815 had 0 prior entity rows.
+- KBO: Actief since 9 februari 1993; VZW; zetel Bergense Steenweg 534 1070 Anderlecht; 5 VE; 0 prior entity rows for 0449.971.815
+- Found: official NBB VOL-VZW native PDF **2026-00084983** (707314 B / 50p; AV 21-04-2026; neergelegd 22/04/2026; MD5 dac658ab2d1802bd8e0b1817289a64b2). VOL-VZW 733 **EUR9088317** (+14.77%); 62 **EUR7182304**; 9901 **EUR163473** (was 298763); 9904 138623; equity 6764425; cash 979387; FTE 100,3 (was 100,4).
+- FOI address: info@tonuso.be — general mailbox verified on official page https://www.tonuso.be/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_anderlecht); FOI **gap_tonuso_anderlecht_vaph_matrix_733_9_09m_9901_163k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2688/; rq_2688=done; spawn **rq_2689**; ticks=2688.
+- Next: **rq_2689 leftover dual** — Opgroeien OVBJ Vlaams-Brabant/Brussel list in progress; next: remaining OVBJ Vlaams-Brabant/Brussel units, then IBIS (verify mailbox), then KBO NACE 87/88 lists.
