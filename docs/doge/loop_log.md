@@ -31511,3 +31511,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sosviol.be — general mailbox verified on official page https://www.sosviol.be/nous-contacter/ (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_sos_viol_saint_gilles_vaph_matrix_9900_0_78m_9901_23k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2868/; rq_2868=done; spawn **rq_2869**; ticks=2868.
 - Next: **rq_2869 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2869 — 2026-10-12T16:30:28Z — rq_2869 leftover dual Het Lijsternest Watermaal-Bosvoorde YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Het Lijsternest** → KBO 0412.464.289 had 0 prior entity rows.
+- KBO: Actief since 6 juli 1972; VZW; zetel Alfred Solvaylaan 3 1170 Watermaal-Bosvoorde; 1 VE; 0 prior entity rows for 0412.464.289
+- Found: official NBB MIC-VZW native PDF **2026-00304032** (47372 B / 12p; AV 02-06-2026; neergelegd 16/07/2026; MD5 c2115874de593ff778f355c1e6822fb0). MIC-VZW 9900 **EUR757214** (+0.20%); 62 **EUR781467**; 9901 **EUR-25894** (was 83029); 9904 -25894; equity 127648; cash 155436; FTE n/a.
+- FOI address: info@tlijsternest.be — general mailbox verified on official page https://www.tlijsternest.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_lijsternest_watermaal_vaph_matrix_9900_0_76m_9901_loss_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2869/; rq_2869=done; spawn **rq_2870**; ticks=2869.
+- Next: **rq_2870 leftover dual** — Batch done; Brussels 87.x/88.x scan pool is now down to bodies under EUR0.8m; next: run a fresh larger-first scan (Flemish 88.10x/87.x or Brussels 88.99x) before continuing; skipped this batch: Les Bourgeons (only a Mons namesake site), LD3 (named-person mailboxes only), Kinderbegeleiding Vorst and Windekind (skynet mailboxes tied to named staff), Le Berceau (federation mailbox only), Alias (no mailbox on site), Relais Enfants-Parents (no mailbox on contact page), AccessAndGo-ABP (site error), Crèche Saint-Charles (gmail only).
