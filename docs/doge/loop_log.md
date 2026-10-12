@@ -34092,3 +34092,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: asd.mons@fasd.be — office mailbox asd.mons@fasd.be verified on official ASD Hainaut Picardie contact page https://hpic.aideetsoinsadomicile.be/contact/ (listed for the Mons office, Chaussée de Binche 101B, this ASBL KBO seat); the page footer lists this ASBL's BCE number among the group members.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_cjb_mons_borinage_vaph_matrix_9900_3_02m_9901_318k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3125/; rq_3125=done; spawn **rq_3126**; ticks=3125.
 - Next: **rq_3126 leftover dual** — Batch done; next: remaining home-help/home-nursing VZWs after the dedup check: i-mens Thuisverpleging (EUR24.77m code 733; needs a mailbox of its own), Wit-Gele Kruis van Brussel (code 9900 EUR2.33m; no own mailbox found), Thuisverpleging Hunnegem (only a personal mailbox); then a fresh Belgian public-funded source.
+
+
+## Tick 3126 — 2026-10-12T23:12:37Z — rq_3126 leftover dual Haute Ecole Libre Mosane (HELMo) Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies (pouvoirs organisateurs, ASBL) and related free-education non-profits; KBO name search over school/PO names (legal form ASBL), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Haute Ecole Libre Mosane (HELMo)** → KBO 0898.631.160 had 0 prior entity rows.
+- KBO: Actief since 18 juni 2008; VZW; zetel Mont Saint-Martin 45 4000 Liège; 12 VE; 0 prior entity rows for 0898.631.160
+- Found: official NBB VOL-VZW native PDF **2026-00217184** (1179193 B / 45p; AV 18-06-2026; neergelegd 24/06/2026; MD5 5b8c698e1a537017043935d65d7c7170). VOL-VZW 733 **EUR63178729** (+3.85%); 62 **EUR50349133**; 9901 **EUR5187750** (was 3624305); 9904 5276957; equity 42410017; cash 21362341; FTE 75,4 (was 74,3).
+- FOI address: info@helmo.be — general mailbox verified on official contact page https://www.helmo.be/fr/contact (page shows the BCE number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_helmo_vaph_matrix_733_63_18m_9901_5188k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3126/; rq_3126=done; spawn **rq_3127**; ticks=3126.
+- Next: **rq_3127 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
