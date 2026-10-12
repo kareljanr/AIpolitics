@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T17:17:43Z,rq_2902,2902,no,tick2902 leftover dual Huize Sint-Monika Brussel 0416.886.501 Strong PDF 2026-00337548 9900 4.95m / 9901 loss 291k; next rq_2903 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T17:17:52Z,rq_2903,2903,no,tick2903 leftover dual Centre d'Aide pour la Santé mentale en Milieu Urbain (CASMMU) Bruxelles (Schaerbeek) 0451.024.363 Strong PDF 2026-00550800 9900 2.61m / 9901 2k; next rq_2904 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

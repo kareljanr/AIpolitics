@@ -31853,3 +31853,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@huizesintmonika.be — general mailbox verified on official page https://huizesintmonika.be/nl/contacteer-ons (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_huize_sint_monika_brussel_vaph_matrix_9900_4_95m_9901_loss_291k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2902/; rq_2902=done; spawn **rq_2903**; ticks=2902.
 - Next: **rq_2903 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2903 — 2026-10-12T17:17:52Z — rq_2903 leftover dual Centre d'Aide pour la Santé mentale en Milieu Urbain (CASMMU) Bruxelles (Schaerbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Centre d'Aide pour la Santé mentale en Milieu Urbain (CASMMU)** → KBO 0451.024.363 had 0 prior entity rows.
+- KBO: Actief since 14 mei 1993; VZW; zetel Auguste Lambiottestraat 133 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0451.024.363
+- Found: official NBB VKT-VZW native PDF **2026-00550800** (473208 B / 23p; AV 25-09-2026; neergelegd 05/10/2026; MD5 2eb10d6795249a6e966c4c9ea3a1b6ab). VKT-VZW 9900 **EUR2606691** (-9.00%); 62 **EUR2478243**; 9901 **EUR2380** (was 439947); 9904 -86; equity 4103363; cash 2140546; FTE 31,7 (was 29,5).
+- FOI address: info@casmmu.be — general mailbox verified on official page https://www.casmmu.be/ (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_casmmu_schaerbeek_vaph_matrix_9900_2_61m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2903/; rq_2903=done; spawn **rq_2904**; ticks=2903.
+- Next: **rq_2904 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
