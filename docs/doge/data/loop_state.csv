@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T15:13:13Z,rq_2816,2816,no,tick2816 leftover dual Maison de la Famille Bruxelles (Saint-Josse-ten-Noode) 0472.850.056 Strong PDF 2026-00216101 9900 1.96m / 9901 loss 12k; next rq_2817 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T15:13:21Z,rq_2817,2817,no,tick2817 leftover dual Service d'Aide aux Seniors Bruxellois Bruxelles 0410.661.079 Strong PDF 2026-00508812 9900 1.86m / 9901 loss 333k; next rq_2818 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

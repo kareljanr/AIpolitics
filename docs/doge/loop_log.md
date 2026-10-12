@@ -30984,3 +30984,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@maisonfamille.be — general mailbox verified on official page http://www.maisonfamille.be/ (opened via web fetch; also on sjtn.brussels).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_maison_de_la_famille_saint_josse_vaph_matrix_9900_1_96m_9901_loss_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2816/; rq_2816=done; spawn **rq_2817**; ticks=2816.
 - Next: **rq_2817 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2817 — 2026-10-12T15:13:21Z — rq_2817 leftover dual Service d'Aide aux Seniors Bruxellois Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101/87.301/87.302/87.202 activity searches, Brussels-Capital postcodes (French-language ASBLs), ranked by primary figure: **Service d'Aide aux Seniors Bruxellois** → KBO 0410.661.079 had 0 prior entity rows.
+- KBO: Actief since 19 april 1962; VZW; zetel Grote Markt ZN 1000 Brussel Extra adresinfo: Stadhuis; 1 VE; 0 prior entity rows for 0410.661.079
+- Found: official NBB VKT-VZW native PDF **2026-00508812** (316744 B / 26p; AV 29-06-2026; neergelegd 01/09/2026; MD5 21f5b80f94f6b3b0943b560067ba7353). VKT-VZW 9900 **EUR1857855** (-4.40%); 62 **EUR2186439**; 9901 **EUR-332758** (was -163138); 9904 -333762; equity 213500; cash 571460; FTE 45,3 (was 44,9).
+- FOI address: info@aidefamiliale.be — general mailbox verified on official page https://www.bruxelles.be/aide-et-services-pour-seniors (City of Brussels page; KBO seat at the Hôtel de Ville — possible communal ASBL, not confirmed, so the voluntary-request wording is used).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_sasb_bruxelles_vaph_matrix_9900_1_86m_9901_loss_333k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2817/; rq_2817=done; spawn **rq_2818**; ticks=2817.
+- Next: **rq_2818 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
