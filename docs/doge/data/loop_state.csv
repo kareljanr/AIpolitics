@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T14:16:39Z,rq_2782,2782,no,tick2782 leftover dual Thuiszorg H. Hart Kortrijk 0833.759.837 Strong PDF 2026-00296790 9900 2.56m / 9901 166k; next rq_2783 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T14:16:47Z,rq_2783,2783,no,tick2783 leftover dual De Gavermeersen Deerlijk 0456.794.774 Strong PDF 2026-00168182 733 2.35m / 9901 1275k; next rq_2784 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

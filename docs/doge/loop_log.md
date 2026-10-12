@@ -30640,3 +30640,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: gezinszorg@h-hart.be — general mailbox verified on official page https://gezinszorghhart.be/contact/ (Kortrijk service office mailbox; KBO 0833.759.837 shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_thuiszorg_h_hart_kortrijk_vaph_matrix_9900_2_56m_9901_166k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2782/; rq_2782=done; spawn **rq_2783**; ticks=2782.
 - Next: **rq_2783 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2783 — 2026-10-12T14:16:47Z — rq_2783 leftover dual De Gavermeersen Deerlijk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301 (nursing homes) and 88.101 (home care) activity search, West-/Oost-Vlaanderen and Leuven/Limburg postcodes, ranked by primary figure: **De Gavermeersen** → KBO 0456.794.774 had 0 prior entity rows.
+- KBO: Actief since 8 juni 1995; VZW; zetel Dammeke 3 8540 Deerlijk; 1 VE; 0 prior entity rows for 0456.794.774
+- Found: official NBB VOL-VZW native PDF **2026-00168182** (1161896 B / 41p; AV 21-05-2026; neergelegd 17/06/2026; MD5 f9cf7240387ef5fb12c147673bd62711). VOL-VZW 733 **EUR2349761** (+8.35%); 62 **EUR9507759**; 9901 **EUR1274657** (was 921220); 9904 1349876; equity 28286576; cash 5133950; FTE 135,7 (was 139,9).
+- FOI address: info@degavermeersen.be — general mailbox verified on official page https://degavermeersen.be/contact/ (opened via web fetch; the box network could not reach the site).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_deerlijk); FOI **gap_de_gavermeersen_deerlijk_vaph_matrix_733_2_35m_9901_1275k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2783/; rq_2783=done; spawn **rq_2784**; ticks=2783.
+- Next: **rq_2784 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
