@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T21:42:56Z,rq_3095,3095,no,tick3095 leftover dual Sambre et Biesme Farciennes 0401.582.770 Strong PDF 2026-00256463 740 0.44m / 9901 344k; next rq_3096 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T21:43:06Z,rq_3096,3096,no,tick3096 leftover dual Société Régionale du Logement de Herstal Herstal 0404.426.652 Strong PDF 2026-00312160 740 0.39m / 9901 1373k; next rq_3097 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

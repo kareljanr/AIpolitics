@@ -1,0 +1,1 @@
+{"status": "Actief", "begin": "1 januari 1968", "rv": "Besloten Vennootschap", "addr": "Rue En Bois 270 4040 Herstal", "ve": "1"}

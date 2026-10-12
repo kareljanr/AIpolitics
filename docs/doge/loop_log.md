@@ -33792,3 +33792,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sambretbiesme.be — general mailbox verified on official contact page https://www.sambretbiesme.be/nous-contacter/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_sambre_et_biesme_code740_split_740_0_44m_9901_344k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3095/; rq_3095=done; spawn **rq_3096**; ticks=3095.
 - Next: **rq_3096 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3096 — 2026-10-12T21:43:06Z — rq_3096 leftover dual Société Régionale du Logement de Herstal Herstal YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon intercommunales (KBO name search over ~50 Walloon intercommunale names, filings ranked by NBB code 740 operating subsidies from public authorities; new: Liège Zone 2 IILE-SRI, ISBW, IMSTAM) plus remaining SLSPs from the official Wallonia SLSP list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf); largest code 740 first; every candidate passed the name/alias/KBO/website dedup check: **Société Régionale du Logement de Herstal** → KBO 0404.426.652 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1968; SRL; zetel Rue En Bois 270 4040 Herstal; 1 VE; 0 prior entity rows for 0404.426.652
+- Found: official NBB VOL-SRL native PDF **2026-00312160** (3090385 B / 102p; AV 26-06-2026; neergelegd 16/07/2026; MD5 bf78bd76894e29d545e9b905ea39194a). VOL-SRL 740 **EUR394047** (+15.85%); 62 **EUR3329726**; 9901 **EUR1372824** (was 1788175); 9904 1957189; equity 99307987; cash 21598214; FTE 38,6 (was 38,8).
+- FOI address: srl.info@srlherstal.be — general mailbox verified on official contact page https://srlherstal.be/fr/contactez-nous.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_srl_herstal_code740_split_740_0_39m_9901_1373k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3096/; rq_3096=done; spawn **rq_3097**; ticks=3096.
+- Next: **rq_3097 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
