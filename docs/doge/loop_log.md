@@ -32573,3 +32573,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ntgent.be — general mailbox verified on official page https://www.ntgent.be/nl/contact (address Sint-Baafsplein 17 matches KBO).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_ntgent_vaph_matrix_733_6_79m_9901_51k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2974/; rq_2974=done; spawn **rq_2975**; ticks=2974.
 - Next: **rq_2975 leftover dual** — KANAL + Flemish culture batch in progress; next: remaining units of this batch.
+
+
+## Tick 2975 — 2026-10-12T18:27:41Z — rq_2975 leftover dual HETPALEIS Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish culture 90.111/90.120/90.130/90.311/91.210 in 18 Flemish city postcodes, plus leftover Brussels culture hits), unprocessed hits ranked by YE2025 NBB primary figure: **HETPALEIS** → KBO 0462.144.919 had 0 prior entity rows.
+- KBO: Actief since 7 oktober 1997; SON; zetel Meistraat 2 2000 Antwerpen Extra adresinfo: Stadsschouwburg; 1 VE; 0 prior entity rows for 0462.144.919
+- Found: official NBB VKT-SON native PDF **2026-00089960** (441656 B / 25p; AV 24-03-2026; neergelegd 28/04/2026; MD5 96ac341421a62e9d9cbe3eca51206837). VKT-SON 9900 **EUR4640533** (+4.24%); 62 **EUR4928386**; 9901 **EUR-590230** (was -256066); 9904 -638139; equity 1666819; cash 413325; FTE 66,1 (was 62,7).
+- FOI address: info@hetpaleis.be — general mailbox verified on official page https://www.hetpaleis.be/contact (page shows Theaterplein; KBO seat Meistraat 2, Stadsschouwburg).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_hetpaleis_antwerpen_vaph_matrix_9900_4_64m_9901_loss_590k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2975/; rq_2975=done; spawn **rq_2976**; ticks=2975.
+- Next: **rq_2976 leftover dual** — KANAL + Flemish culture batch in progress; next: remaining units of this batch.
