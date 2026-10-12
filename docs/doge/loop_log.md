@@ -34292,3 +34292,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cscg.be — general mailbox verified on official contact page https://www.cscg-ecole.be/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_sacre_coeur_ganshoren_vaph_matrix_733_7_44m_9901_153k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3145/; rq_3145=done; spawn **rq_3146**; ticks=3145.
 - Next: **rq_3146 leftover dual** — Batch done; next: remaining FWB free-school POs by code 733 after the dedup check: Collège Saint-Michel (0449.420.992, EUR6.20m), Collège Saint-François d'Assise (0409.852.318, EUR6.13m); skipped for mailbox: Ecole professionnelle Asty-Moulin (no general mailbox on its official site), Sacré-Coeur de Jette and Collège Saint-Hubert (no mailbox readable on official pages).
+
+
+## Tick 3146 — 2026-10-12T23:43:51Z — rq_3146 leftover dual Haute École Louvain en Hainaut (HELHa) Mons YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Catholic school boards and university colleges (Flemish schoolbesturen VZW and FWB organising bodies / hautes écoles, ASBL); new KBO name search (legal form VZW/ASBL; words such as Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège Saint, Institut Saint), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Haute École Louvain en Hainaut (HELHa)** → KBO 0818.523.810 had 0 prior entity rows.
+- KBO: Actief since 15 september 2009; VZW; zetel Chaussée de Binche 159 7000 Mons; 15 VE; 0 prior entity rows for 0818.523.810
+- Found: official NBB VOL-VZW native PDF **2026-00258541** (1081363 B / 53p; AV 24-06-2026; neergelegd 03/07/2026; MD5 e2f47394378f2ff0335012e6da144b9b). VOL-VZW 733 **EUR72318553** (+2.92%); 62 **EUR62168395**; 9901 **EUR1746095** (was 3016003); 9904 978770; equity 43253505; cash 23394155; FTE 111,4 (was 78,5).
+- FOI address: info@helha.be — general mailbox verified on official page https://www.helha.be/administration-helha/ (listed for the registered office, Chaussée de Binche 159).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mons); FOI **gap_helha_vaph_matrix_733_72_32m_9901_1746k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3146/; rq_3146=done; spawn **rq_3147**; ticks=3146.
+- Next: **rq_3147 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
