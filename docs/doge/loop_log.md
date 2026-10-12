@@ -32073,3 +32073,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: dienstencheques@h-hart.be — general mailbox verified on official page https://www.h-hart.be/hulpaanhuis/index.asp?id=4 (listed as general mailbox of the service-voucher office at Budastraat 30; hhartservices.be shows company number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_h_hart_services_kortrijk_turnover_public_share_70_turnover_9_75m_9901_loss_207k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2924/; rq_2924=done; spawn **rq_2925**; ticks=2924.
 - Next: **rq_2925 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2925 — 2026-10-12T17:31:34Z — rq_2925 leftover dual Nottebohm Home Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scans 2026-10-12 (Brussels 87.101-87.909 and 88.101-88.109 in 22 postcodes; earlier Flemish 87.x/88.10x and Brussels 88.99x scans), ranked by YE2025 NBB primary figure (733 subsidies, 9900 gross margin, or 70 turnover where 733 is empty): **Nottebohm Home** → KBO 0422.519.231 had 0 prior entity rows.
+- KBO: Actief since 6 november 1981; VZW; zetel Biartstraat 2 2018 Antwerpen; 1 VE; 0 prior entity rows for 0422.519.231
+- Found: official NBB VOL-VZW native PDF **2026-00323206** (8698738 B / 48p; AV 26-06-2026; neergelegd 23/07/2026; MD5 1ffd0df8f6491b5f5e524895c34fc1c6). VOL-VZW 70 turnover (NOT a subsidy amount) **EUR5746418** (+4.28%); 62 **EUR4797608**; 9901 **EUR-33552** (was -59506); 9904 -3103; equity 3818136; cash 17438; FTE 69,1 (was 68,8).
+- FOI address: info@nottebohm.be — general mailbox verified on official page https://www.nottebohmwoonzorgcentrum.be/contact/ (address matches KBO).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_nottebohm_home_antwerpen_turnover_public_share_70_turnover_5_75m_9901_loss_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2925/; rq_2925=done; spawn **rq_2926**; ticks=2925.
+- Next: **rq_2926 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
