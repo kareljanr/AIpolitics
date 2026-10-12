@@ -17,7 +17,6 @@ import argparse
 import csv
 import html
 import os
-import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -115,82 +114,146 @@ def _e(s: str) -> str:
     return html.escape(s or "", quote=False)
 
 
-def build_digest() -> str:
+SENT_PATH = DATA / "digest_sent.csv"
+SENT_FIELDS = ("kind", "record_id", "stamp", "sent_utc")
+
+
+def _read_csv(path: Path) -> list[dict]:
+    if not path.exists():
+        return []
+    with path.open(encoding="utf-8", newline="") as handle:
+        return list(csv.DictReader(handle))
+
+
+def _sent_index(rows: list[dict]) -> dict[tuple[str, str], str]:
+    out: dict[tuple[str, str], str] = {}
+    for row in rows:
+        kind = (row.get("kind") or "").strip()
+        record_id = (row.get("record_id") or "").strip()
+        if kind and record_id:
+            out[(kind, record_id)] = (row.get("stamp") or "").strip()
+    return out
+
+
+def _load_sent() -> tuple[dict[tuple[str, str], str], bool]:
+    if not SENT_PATH.exists():
+        return {}, False
+    return _sent_index(_read_csv(SENT_PATH)), True
+
+
+def _write_sent(index: dict[tuple[str, str], str]) -> None:
+    SENT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    with SENT_PATH.open("w", encoding="utf-8", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=SENT_FIELDS)
+        writer.writeheader()
+        for (kind, record_id), stamp in sorted(index.items()):
+            writer.writerow(
+                {"kind": kind, "record_id": record_id, "stamp": stamp, "sent_utc": now}
+            )
+
+
+def _is_new(index: dict[tuple[str, str], str], kind: str, record_id: str, stamp: str) -> bool:
+    return index.get((kind, record_id)) != stamp
+
+
+def build_digest() -> tuple[str | None, dict[tuple[str, str], str]]:
+    """Return (message, sent-index to store).
+
+    Message is None when nothing new should be posted. The all-time clown and
+    genius boards stay in public/leaderboard_*.md and are not repeated here.
+    The first run treats every already-scored proposal as already announced.
+    """
+    sent, had_state = _load_sent()
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    proposals = [
+        row
+        for row in _read_csv(DATA / "proposals.csv")
+        if row.get("proposal_id") and (row.get("clownpoints") or "").strip()
+    ]
+    queued = [
+        row
+        for row in _read_csv(DATA / "ingest_queue.csv")
+        if (row.get("status") or "").strip().lower() == "open" and row.get("ingest_id")
+    ]
+
+    if not had_state:
+        for row in proposals:
+            sent[("scored", row["proposal_id"])] = (row.get("updated_utc") or "").strip()
+
+    new_scored = [
+        row
+        for row in proposals
+        if _is_new(sent, "scored", row["proposal_id"], (row.get("updated_utc") or "").strip())
+    ]
+    new_queued = [
+        row
+        for row in queued
+        if _is_new(sent, "queued", row["ingest_id"], (row.get("updated_utc") or row.get("created_utc") or "").strip())
+    ]
+    new_scored.sort(key=lambda row: row.get("updated_utc") or "", reverse=True)
+    new_queued.sort(key=lambda row: row.get("created_utc") or "", reverse=True)
+
+    for row in new_scored:
+        sent[("scored", row["proposal_id"])] = (row.get("updated_utc") or "").strip()
+    for row in new_queued:
+        stamp = (row.get("updated_utc") or row.get("created_utc") or "").strip()
+        sent[("queued", row["ingest_id"])] = stamp
+
+    if not new_scored and not new_queued:
+        return None, sent
+
     lines = [
-        f"🏛 <b>Proposal Radar</b> daily digest",
+        "🏛 <b>Proposal Radar</b> — new since last note",
         f"<i>{_e(now)}</i>",
         "",
     ]
-
-    # loop state
-    state_path = DATA / "loop_state.csv"
-    if state_path.exists():
-        with state_path.open(encoding="utf-8", newline="") as f:
-            st = list(csv.DictReader(f))
-        if st:
-            s = st[0]
+    if new_scored:
+        lines.append("<b>New ratings</b>")
+        for row in new_scored[:8]:
             lines.append(
-                f"Ticks: <b>{_e(s.get('ticks_completed',''))}</b> · "
-                f"Scored: <b>{_e(s.get('proposals_scored',''))}</b> · "
-                f"Last: <code>{_e(s.get('last_unit_id',''))}</code>"
+                f"• <b>{_e((row.get('title') or '')[:140])}</b>"
             )
-            lines.append(f"Mode: {_e(s.get('mode',''))} · paused={_e(s.get('paused',''))}")
-            lines.append("")
-
-    # top clowns / genius from proposals
-    prop_path = DATA / "proposals.csv"
-    if prop_path.exists():
-        with prop_path.open(encoding="utf-8", newline="") as f:
-            rows = [r for r in csv.DictReader(f) if r.get("proposal_id") and r.get("clownpoints")]
-        def fnum(x: str) -> float:
-            try:
-                return float(x)
-            except (TypeError, ValueError):
-                return float("-inf")
-
-        clowns = sorted(rows, key=lambda r: -fnum(r.get("clownpoints", "")))[:3]
-        genius = sorted(rows, key=lambda r: -fnum(r.get("genius_score", "")))[:3]
-
-        if clowns:
-            lines.append("<b>🤡 Top clowns</b>")
-            for r in clowns:
-                pain = r.get("pain_work_minutes") or "—"
-                lines.append(
-                    f"• {_e(r.get('title',''))[:80]} — "
-                    f"c{r.get('clownpoints')} g{r.get('genius_score')} · {pain} min"
+            lines.append(
+                f"  clown {_e(row.get('clownpoints') or '—')} · "
+                f"genius {_e(row.get('genius_score') or '—')} · "
+                f"index {_e(row.get('policy_index') or '—')} · "
+                f"{_e(row.get('score_confidence') or 'unscored')}"
+            )
+            summary = (row.get("summary_one_line") or "").strip()
+            if summary:
+                lines.append(f"  {_e(summary[:220])}")
+            who = " · ".join(
+                part
+                for part in (
+                    (row.get("actor_name") or "").strip(),
+                    (row.get("status") or "").strip(),
+                    (row.get("jurisdiction") or "").strip(),
                 )
-            lines.append("")
-        if genius:
-            lines.append("<b>💡 Top genius</b>")
-            for r in genius:
-                lines.append(
-                    f"• {_e(r.get('title',''))[:80]} — "
-                    f"g{r.get('genius_score')} c{r.get('clownpoints')}"
-                )
-            lines.append("")
-
-    # last log lines
-    log_path = RADAR / "loop_log.md"
-    if log_path.exists():
-        text = log_path.read_text(encoding="utf-8")
-        # last ## header block
-        parts = re.split(r"\n## ", text)
-        if len(parts) > 1:
-            last = parts[-1].strip()
-            snippet = last[:700]
-            lines.append("<b>Last tick log</b>")
-            lines.append(f"<pre>{_e(snippet)}</pre>")
-
-    lines.append("")
+                if part
+            )
+            if who:
+                lines.append(f"  {_e(who)}")
+        extra = len(new_scored) - 8
+        if extra > 0:
+            lines.append(f"… and {extra} more new ratings in the repo")
+        lines.append("")
+    if new_queued:
+        lines.append("<b>New, not scored yet</b>")
+        for row in new_queued[:8]:
+            lines.append(f"• {_e((row.get('title_hint') or '')[:160])}")
+        extra = len(new_queued) - 8
+        if extra > 0:
+            lines.append(f"… and {extra} more waiting in the queue")
+        lines.append("")
     lines.append(
-        f'<a href="https://github.com/kareljanr/AIpolitics/tree/main/docs/proposal-radar">'
-        f"repo/proposal-radar</a>"
+        '<a href="https://github.com/kareljanr/AIpolitics/blob/main/docs/proposal-radar/public/leaderboard_clowns.md">'
+        "All-time boards</a>"
     )
     msg = "\n".join(lines)
     if len(msg) > 3900:
         msg = msg[:3880] + "\n…"
-    return msg
+    return msg, sent
 
 
 def main() -> int:
@@ -231,12 +294,27 @@ Then:
         return 0
 
     token, chat, thread = load_telegram_config()
-    text = args.text.strip() if args.text else build_digest()
+    pending_sent: dict[tuple[str, str], str] | None = None
+    if args.text.strip():
+        text = args.text.strip()
+    else:
+        text, pending_sent = build_digest()
+        if text is None:
+            print("No new proposals or ratings. Not sending.")
+            if not args.dry_run and pending_sent is not None:
+                _write_sent(pending_sent)
+            return 0
+    if not args.dry_run and (not token or not chat):
+        print("Telegram chat is not configured. Not sending, and not marking these items as posted.")
+        print(text)
+        return 0
     try:
         send_message(token, chat, text, thread, dry_run=args.dry_run)
     except SystemExit as e:
         print(e, file=sys.stderr)
         return 2
+    if pending_sent is not None and not args.dry_run:
+        _write_sent(pending_sent)
     return 0
 
 

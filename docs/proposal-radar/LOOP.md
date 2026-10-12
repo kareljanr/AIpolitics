@@ -11,8 +11,9 @@ Sister of [`docs/doge/LOOP.md`](../doge/LOOP.md). Design: [`docs/09-proposal-rad
   - Each fire: RSS `run_pipeline.py` when possible → **one** LOOP unit → commit/push if dirty.  
   - Cancel/pause: set `loop_state.csv` `paused=yes` **and/or** delete scheduler id.  
   - Recreate: same interval `1d` + prompt in skill/LOOP if id lost.  
+- **Always-on:** GitHub Actions **Proposal Radar** (`.github/workflows/proposal-radar.yml`) once a day. RSS harvest, then Telegram only if there is a new proposal or a new rating.  
 - **Windows Task Scheduler (optional companion):** `AIpoliticsProposalRadarDaily`  
-  - Script: `scripts/run_daily_windows.ps1` — git pull + RSS + **Telegram digest** (politics chat only).  
+  - Script: `scripts/run_daily_windows.ps1` — git pull + RSS + **Telegram digest** (politics chat only). Pause it while Actions is the sender, or the same new item can go out twice.  
   - Register: `scripts/register-radar-task.ps1`. Agent tick via `-WithAgent` is optional (default off to avoid double-scoring with Grok durable).  
   - Telegram: reuse portfolio bot **token**; **separate** `TELEGRAM_CHAT_ID` (new group or forum topic). Never the bare finance chat.  
 - **Not 60s:** analysis is heavier than one DOGE budget line.  
@@ -109,10 +110,10 @@ One unit or ~25 min. Do not score a whole news day in one fire.
 
 When selected:
 
-1. Rank publishable rows by clownpoints / genius / policy_index.  
-2. Write `public/weekly_latest.md` + archive `public/weekly/YYYY-Www.md`.  
-3. Refresh `public/leaderboard_clowns.md` and `public/leaderboard_genius.md` (top 15).  
-4. Draft X thread bullets in weekly file (human posts).
+1. `public/weekly_latest.md` lists **proposals scored in the last 21 days** and open queue rows. It does not reprint the all-time top clowns and genius.  
+2. Archive `public/weekly/YYYY-Www.md` only when that recent list changed.  
+3. Refresh `public/leaderboard_clowns.md` and `public/leaderboard_genius.md` (all-time top 15). Those files are the hall of fame, not the daily note.  
+4. Telegram (`scripts/telegram_notify.py`) posts only proposals that are new or newly re-scored, with clown / genius / index. Unscored queue rows go out once as “not scored yet”. If nothing is new, it does not send.
 
 ## Modes
 

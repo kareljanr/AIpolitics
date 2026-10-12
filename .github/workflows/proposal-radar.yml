@@ -1,0 +1,69 @@
+# Daily Proposal Radar. Posts only new proposals and new ratings.
+# Secrets (repo → Settings → Secrets → Actions):
+#   TELEGRAM_BOT_TOKEN       same bot as the portfolio runner
+#   RADAR_TELEGRAM_CHAT_ID   politics chat or forum topic, not the bare finance group
+#   RADAR_TELEGRAM_THREAD_ID optional topic id
+
+name: Proposal Radar
+
+on:
+  schedule:
+    # 06:30 UTC ≈ 08:30 Amsterdam in summer, 07:30 in winter.
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: proposal-radar
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.RADAR_TELEGRAM_CHAT_ID }}
+      TELEGRAM_THREAD_ID: ${{ secrets.RADAR_TELEGRAM_THREAD_ID }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 50
+          persist-credentials: true
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /*
+            !/docs/doge/data/raw/
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dependencies
+        run: pip install feedparser requests
+
+      - name: Harvest and refresh the new-ratings note
+        run: python docs/proposal-radar/scripts/run_pipeline.py
+
+      - name: Telegram
+        run: python docs/proposal-radar/scripts/telegram_notify.py
+
+      - name: Commit new queue rows and the sent ledger
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add -- \
+            docs/proposal-radar/data/ingest_queue.csv \
+            docs/proposal-radar/data/sources.csv \
+            docs/proposal-radar/data/digest_sent.csv \
+            docs/proposal-radar/public/weekly_latest.md \
+            docs/proposal-radar/public/leaderboard_clowns.md \
+            docs/proposal-radar/public/leaderboard_genius.md
+          git diff --cached --quiet && exit 0
+          git commit -m "radar: record new proposals and what was already posted."
+          git pull --rebase --autostash origin main
+          git push origin HEAD

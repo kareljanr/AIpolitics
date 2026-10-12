@@ -98,53 +98,64 @@ def write_genius(rows: list[dict], path: Path) -> None:
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+def _recent(rows: list[dict], days: int = 21) -> list[dict]:
+    cutoff = datetime.now(timezone.utc).timestamp() - days * 86400
+    picked: list[dict] = []
+    for row in rows:
+        stamp = (row.get("updated_utc") or row.get("created_utc") or "").strip()
+        if not stamp:
+            continue
+        try:
+            seen = datetime.fromisoformat(stamp.replace("Z", "+00:00")).timestamp()
+        except ValueError:
+            continue
+        if seen >= cutoff:
+            picked.append(row)
+    picked.sort(key=lambda row: row.get("updated_utc") or "", reverse=True)
+    return picked
+
+
 def write_weekly(rows: list[dict], path: Path) -> None:
-    by_clown = sorted(rows, key=lambda r: -fnum(r.get("clownpoints")))[:5]
-    by_genius = sorted(rows, key=lambda r: -fnum(r.get("genius_score")))[:3]
-    mixed = [
-        r
-        for r in rows
-        if -2 <= fnum(r.get("policy_index")) <= 2 and fnum(r.get("genius_score")) >= 3
-    ][:3]
+    recent = _recent(rows)
+    ingest_path = RADAR / "data" / "ingest_queue.csv"
+    waiting: list[dict] = []
+    if ingest_path.exists():
+        with ingest_path.open(encoding="utf-8", newline="") as handle:
+            waiting = [
+                row
+                for row in csv.DictReader(handle)
+                if (row.get("status") or "").strip().lower() == "open"
+            ]
+    waiting.sort(key=lambda row: row.get("created_utc") or "", reverse=True)
 
     def bullet(r: dict) -> str:
-        pain = ""
-        if r.get("pain_tax_fte"):
-            wm = r.get("pain_work_minutes") or ""
-            pain = (
-                f" · **{r.get('pain_tax_fte')} Belasting-FTE** / "
-                f"{r.get('pain_net_years')} nettoloon-jaren / "
-                f"**{wm} werkminuten**/werknemer"
-            )
         return (
             f"- **{r.get('title')}** — clown {r.get('clownpoints')} / genius {r.get('genius_score')} "
-            f"(index {r.get('policy_index')}){pain} — {r.get('actor_name')} · {r.get('jurisdiction')} · "
-            f"{memo_link(r)}"
+            f"(index {r.get('policy_index')}, {r.get('score_confidence') or 'unscored'}) — "
+            f"{r.get('actor_name')} · {r.get('status')} · {r.get('jurisdiction')} · {memo_link(r)}"
         )
 
     lines = [
-        "# Clowns & Genius — weekly pack",
+        "# Proposal Radar — what is new",
         "",
-        f"Auto-generated {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}.",
-        f"Scored proposals in pack universe: **{len(rows)}**.",
+        "New and recently re-scored proposals. The all-time lists stay in "
+        "[leaderboard_clowns.md](leaderboard_clowns.md) and "
+        "[leaderboard_genius.md](leaderboard_genius.md).",
         "",
-        "## This week’s clowns",
+        f"Scored in the last 21 days: **{len(recent)}**. "
+        f"Still open in the queue: **{len(waiting)}**.",
+        "",
+        "## New ratings",
         "",
     ]
-    lines += [bullet(r) for r in by_clown] or ["*(none)*"]
-    lines += ["", "## This week’s solid / genius", ""]
-    lines += [bullet(r) for r in by_genius] or ["*(none)*"]
-    lines += ["", "## Mixed but fixable", ""]
-    lines += [bullet(r) for r in mixed] or ["*(none in mixed band)*"]
+    lines += [bullet(r) for r in recent] or ["No proposal was scored or re-scored in the last 21 days."]
+    lines += ["", "## In the queue, not scored yet", ""]
+    if waiting:
+        for row in waiting[:15]:
+            lines.append(f"- {row.get('title_hint')} ({row.get('created_utc','')[:10]})")
+    else:
+        lines.append("Queue is empty.")
     lines += [
-        "",
-        "## Draft X thread (human or auto-draft)",
-        "",
-        "1. Hook: same exam for every Belgian proposal",
-        "2. Top clown card (instrument + mechanism + score)",
-        "3. Top solid/genius card",
-        "4. Method: falsifier + confidence tags",
-        "5. Bridge to DOGE if money already exists",
         "",
         "## Method",
         "",
