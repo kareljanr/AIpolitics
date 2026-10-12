@@ -28931,3 +28931,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00104912** (48131 B / 12p; AV 25-02-2026; neergelegd 07/05/2026; MD5 351eb371205e3bf3cc8298c9bdb570c5). VKT-VZW 9900 **EUR2384370** (+6.06%); 62 **EUR2383363**; 9901 **EUR-51754** (was 124933); 9904 -45800; equity 552445; cash 757919; FTE 33 (was 29,6).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.85; entities +1 (parent city_antwerpen); FOI **gap_bijstandsorganisatie_absoluut_antwerpen_vaph_matrix_9900_2_38m_9901_loss_52k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2607/; rq_2607=done; spawn **rq_2608**; ticks=2607.
 - Next: **rq_2608 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2608 — 2026-10-12T08:00:50Z — rq_2608 leftover dual Onafhankelijk Leven Gent YE2025 (local fallback runner)
+
+- Hunt: NEW CANDIDATE SOURCE VAPH adreslijst Bijstandsorganisatie (f[0]=tid:1400): **Onafhankelijk Leven** → KBO 0435.047.275 had 0 prior entity rows. Skipped bijstandsorganisaties Alin (Sint-Joost-ten-Node) and Zoom (Schaarbeek): no mined Brussels-commune parent.
+- KBO: Actief since 12 december 1988; VZW; zetel Groot Begijnhof 31, 9040 Gent; 1 VE; 0 prior entity rows for 0435.047.275
+- Found: official NBB VKT-VZW native PDF **2026-00139548** (49671 B / 12p; AV 30-05-2026; neergelegd 05/06/2026; MD5 361641f311ad34f502e58c5920acc6eb). VKT-VZW 9900 **EUR3337840** (+13.58%); 62 **EUR3155395**; 9901 **EUR25989** (was -147113); 9904 22738; equity 138250; cash 384526; FTE 38,6 (was 36,8).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.85; entities +1 (parent city_gent); FOI **gap_onafhankelijk_leven_gent_vaph_matrix_9900_3_34m_9901_26k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2608/; rq_2608=done; spawn **rq_2609**; ticks=2608.
+- Next: **rq_2609 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
