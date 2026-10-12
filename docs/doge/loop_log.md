@@ -31823,3 +31823,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@atmospheres-amo.be — general mailbox verified on official page https://www.atmospheres-amo.be/contact (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_atmospheres_amo_schaerbeek_vaph_matrix_9900_0_57m_9901_109k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2899/; rq_2899=done; spawn **rq_2900**; ticks=2899.
 - Next: **rq_2900 leftover dual** — Batch done; next: remaining fresh-scan hits (ESCALE AMO, Synergie 14, Atouts Jeunes, La Gerbe AMO, Promo Jeunes AMO, amo Alhambra), larger first; skipped this batch: Le Pré-Texte (only a named-person mailbox), Centre L'Orée (no mailbox on its own site), BADJ and SAMARCANDE (no mailbox on official site), Les Alouettes (no official site found).
+
+
+## Tick 2900 — 2026-10-12T16:49:46Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2551** of 2603 rows; inventory budgets 58920 · commitments 6603 · leaderboard 8723 · entities 2622 · sources 8740.
+- Top10: **stable** (2891-2899 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2891-2899: GrSA (Forest) · Centre de Prévention du Suicide (Ixelles) · ATD Quart Monde (Etterbeek) · Le Pélican (Koekelberg) · AccessAndGo-ABP (Woluwe-Saint-Pierre) · CAP-ITI (Forest) · Prospective Jeunesse (Ixelles) · Amos AMO (Schaerbeek) · atMOsphères AMO (Schaerbeek).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2900 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-2900 run locally as fallback.
+- Next: **rq_2900** — remaining fresh-scan hits (ESCALE AMO, Synergie 14, Atouts Jeunes, La Gerbe AMO, Promo Jeunes AMO, amo Alhambra), larger first.
