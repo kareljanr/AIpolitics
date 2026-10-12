@@ -29920,3 +29920,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@covida.be — general mailbox verified on official page https://www.terengelen.be/contacteer.php; NOTE overlap: existing entity vzw_ter_engelen (KBO 0430.882.809, Lokeren care home, different organisation) also lists terengelen.be / info@covida.be - verify that row.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_genk); FOI **gap_covida_genk_vaph_matrix_733_57_99m_9901_1104k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2711/; rq_2710=done; spawn **rq_2712**; ticks=2711.
 - Next: **rq_2712 leftover dual** — KBO NACE 87.20x (residential disability/psychiatric care) scan in progress; next: remaining 87.201/87.202/87.203 units (spare Philippus Neri 0410.505.582 Sint-Niklaas, check odd 2024 loss), then 88.994 welzijnswerk and 87.301.
+
+
+## Tick 2712 — 2026-10-12T09:26:18Z — rq_2712 leftover dual Ubuntu Achtkanter Kortrijk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.201/87.202/87.203 activity search (residential care for persons with a disability / psychiatric problems): **Ubuntu Achtkanter** → KBO 0419.258.348 had 0 prior entity rows.
+- KBO: Actief since 4 januari 1979; VZW; zetel Sint-Denijseweg(Kor) 71 8500 Kortrijk; 23 VE; 0 prior entity rows for 0419.258.348
+- Found: official NBB VOL-VZW native PDF **2026-00189020** (1865242 B / 51p; AV 16-06-2026; neergelegd 22/06/2026; MD5 60ca7f0f4d71a22c1d92fba6c90248b7). VOL-VZW 733 **EUR27509657** (+5.94%); 62 **EUR26794380**; 9901 **EUR169709** (was 739789); 9904 290754; equity 19120417; cash 8603943; FTE 349,8 (was 347,6).
+- FOI address: info@groepubuntu.be — general group mailbox (Groep Ubuntu) verified on official page https://www.groepubuntu.be/nl.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_ubuntu_achtkanter_kortrijk_vaph_matrix_733_27_51m_9901_170k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2712/; rq_2712=done; spawn **rq_2713**; ticks=2712.
+- Next: **rq_2713 leftover dual** — KBO NACE 87.20x (residential disability/psychiatric care) scan in progress; next: remaining 87.201/87.202/87.203 units (spare Philippus Neri 0410.505.582 Sint-Niklaas, check odd 2024 loss), then 88.994 welzijnswerk and 87.301.
