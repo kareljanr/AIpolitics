@@ -29449,3 +29449,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00174792** (53494 B / 14p; AV 27-05-2026; neergelegd 18/06/2026; MD5 f3a921ec5a66fb504e95a8125380fbc6). VKT-VZW 9900 **EUR4300100** (+12.21%); 62 **EUR3970632**; 9901 **EUR125463** (was -40009); 9904 120302; equity 3842847; cash 212111; FTE 51,8 (was 50,1).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_nieuwland_brugge_vaph_matrix_9900_4_30m_9901_125k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2663/; rq_2663=done; spawn **rq_2664**; ticks=2663.
 - Next: **rq_2664 leftover dual** — continue Opgroeien OVBJ lists (leftovers: Daidalos, IBIS, CAS Genk, YAR, Pieter Simenon, Huize Sint-Vincentius Halen, Jeugdzorgcentrum Kinrooi), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
+
+
+## Tick 2664 — 2026-10-12T08:36:51Z — rq_2664 leftover dual De Loods Poperinge YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ West-Vlaanderen list (mei 2026): **De Loods** → KBO 0419.258.942 had 0 prior entity rows.
+- KBO: Actief since 20 februari 1979; VZW; zetel Burgemeester Sansenstraat 12, 8970 Poperinge; 1 VE; 0 prior entity rows for 0419.258.942
+- Found: official NBB VOL-VZW native PDF **2026-00317236** (690011 B / 43p; AV 28-04-2026; neergelegd 22/07/2026; MD5 976006ced1919f412e195bc4b017b06b). VOL-VZW 733 **EUR4927342** (+6.18%); 62 **EUR4049109**; 9901 **EUR331281** (was 300473); 9904 298049; equity 7240911; cash 778366; FTE 51 (was 52,9).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_poperinge); FOI **gap_de_loods_poperinge_vaph_matrix_733_4_93m_9901_331k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2664/; rq_2664=done; spawn **rq_2665**; ticks=2664.
+- Next: **rq_2665 leftover dual** — continue Opgroeien OVBJ lists (leftovers: Daidalos, IBIS, CAS Genk, YAR, Pieter Simenon, Huize Sint-Vincentius Halen, Jeugdzorgcentrum Kinrooi), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
