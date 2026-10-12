@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T08:37:37Z,rq_2669,2669,no,"tick2669 leftover dual Golfbreker Veurne 0445.674.022 Strong PDF 2026-00320641 9900 761k / 9901 87k; next rq_2670 continue Opgroeien OVBJ lists (leftovers: Daidalos, IBIS, CAS Genk, YAR, Pieter Simenon, Huize Sint-Vincentius Halen, Jeugdzorgcentrum Kinrooi), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88 (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T08:37:54Z,every10_2670,2670,no,tick2670 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2670 carried open; source Opgroeien OVBJ list (local fallback runner; Actions cron unreliable)

@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 2670** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2660; 2661-2669 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2661-2669 residual dual L5 (not near-complete of 348bn):** Binnenstad Brugge · Hof ter Welle Beveren · Nieuwland Brugge · De Loods Poperinge · Oranjehuis Kortrijk · Jongerenzorg Zuid-West-Vlaanderen Zwevegem · Mariahuis Alken · Ons Geluk Oostende · Golfbreker Veurne (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2344** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2396** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2661-2669** Binnenstad Brugge · Hof ter Welle Beveren · Nieuwland Brugge · De Loods Poperinge · Oranjehuis Kortrijk · Jongerenzorg Zuid-West-Vlaanderen Zwevegem · Mariahuis Alken · Ons Geluk Oostende · Golfbreker Veurne.
+
+### Inventory (tick 2670)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 57217 |
+| commitments.csv | 6396 |
+| leaderboard.csv | 8516 |
+| entities.csv | 2415 |
+| sources.csv | 8119 |
+| FOI ready | 2344 |
+| FOI total rows | 2396 |
+| research_queue open | rq_2670 (carried; source = Opgroeien OVBJ provincial lists; next: OVBJ leftovers) |
+
+### What improved since tick 2660
+
+- **New source (tick2661-2669):** Binnenstad Brugge · Hof ter Welle Beveren · Nieuwland Brugge · De Loods Poperinge · Oranjehuis Kortrijk · Jongerenzorg Zuid-West-Vlaanderen Zwevegem · Mariahuis Alken · Ons Geluk Oostende · Golfbreker Veurne. Source: Opgroeien OVBJ provincial lists (mei 2026; W-Vl / O-Vl / Limburg), continued.
+- **Runner note:** 2576-2670 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2661-2669 (fast):** Koninklijk Werk IBIS (mixed school + youth care; general mailbox unverified) · Daidalos (Opgroeien contact address truncated; parked) · OCMW / GO! entries (public).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2660** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

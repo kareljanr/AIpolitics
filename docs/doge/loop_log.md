@@ -29503,3 +29503,14 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB MIC-VZW native PDF **2026-00320641** (43714 B / 11p; AV 24-03-2026; neergelegd 23/07/2026; MD5 dd23dd8b5337d0bfe00c69293a3ced7d). MIC-VZW 9900 **EUR761363** (+3.97%); 62 **EUR661711**; 9901 **EUR86775** (was 83858); 9904 98310; equity 743177; cash 39430; .
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_veurne); FOI **gap_golfbreker_veurne_vaph_matrix_9900_761k_9901_87k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2669/; rq_2669=done; spawn **rq_2670**; ticks=2669.
 - Next: **rq_2670 leftover dual** — continue Opgroeien OVBJ lists (leftovers: Daidalos, IBIS, CAS Genk, YAR, Pieter Simenon, Huize Sint-Vincentius Halen, Jeugdzorgcentrum Kinrooi), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
+
+
+## Tick 2670 — 2026-10-12T08:37:54Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2344** of 2396 rows; inventory budgets 57217 · commitments 6396 · leaderboard 8516 · entities 2415 · sources 8119.
+- Top10: **stable** (2661-2669 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2661-2669: Binnenstad Brugge · Hof ter Welle Beveren · Nieuwland Brugge · De Loods Poperinge · Oranjehuis Kortrijk · Jongerenzorg Zuid-West-Vlaanderen Zwevegem · Mariahuis Alken · Ons Geluk Oostende · Golfbreker Veurne.
+- Hunt this tick: none (EVERY-10 used the tick); rq_2670 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2670 run locally as fallback.
+- Source choice (recorded): ticks 2661-2669 continued the Opgroeien OVBJ provincial lists (mei 2026). FOI: general mailboxes where published; role/unit mailboxes from the Opgroeien list for Jongerenzorg ZWVL (directie@) and Ons Geluk (Magnolia unit).
+- Next: **rq_2670** — OVBJ leftovers (Daidalos, CAS Genk, YAR Vlaanderen, Pieter Simenon, Huize Sint-Vincentius Halen, Jeugdzorgcentrum Kinrooi), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
