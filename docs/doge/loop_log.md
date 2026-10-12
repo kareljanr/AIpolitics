@@ -30102,3 +30102,14 @@ Append-only. Each tick adds a short entry.
 - FOI address: sociale.dienst@westerlinde.be — only mailbox published, a departmental (social service) box, verified on official Zorggroep H.Hart page https://h-hart.be/ouderen/index.asp?id=21; no general mailbox found.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_westerlinde_kortrijk_vaph_matrix_9900_7_29m_9901_240k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2729/; rq_2729=done; spawn **rq_2730**; ticks=2729.
 - Next: **rq_2730 leftover dual** — KBO NACE 88.994/87.301 scan done for main Flemish/Brussels postcodes; skipped: Philippus Neri 0410.505.582 (property VZW, 0 FTE, 2024 loss verified in filings but no general mailbox), GPN Seniorenzorg Waasland 0471.977.452 (no general mailbox), BRAVVO (VOL 733 empty), GSD-V (already gsd_vlaanderen), Huis Vandecruys (m81 model); next: Huis Vandecruys model check, Zusterkens der Armen Brussel (2024 loss / 2025 profit swing), NACE 88.991/88.993 scan.
+
+
+## Tick 2730 — 2026-10-12T09:37:57Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2398** of 2450 rows; inventory budgets 57672 · commitments 6450 · leaderboard 8570 · entities 2469 · sources 8281.
+- Top10: **stable** (2721-2729 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2721-2729: Tele-Onthaal (Brussel) · Centrum ter Preventie van Zelfdoding (Schaarbeek) · HOBO (Brussel) · PSC Open Huis (Antwerpen) · Partner in Assistentie zorg (Hasselt) · de Refuge (Gent) · Huis Sint-Jozef (Berchem) · Home Claire / Eau de Gand (Gent) · Westerlinde (Kortrijk/Roeselare).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2730 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2730 run locally as fallback.
+- Source choice (recorded): ticks 2721-2729 used the KBO NACE-BEL 88.994 and 87.301 activity search by postcode; vzw_ter_engelen FOI address fixed in tick 2721. FOI: general mailboxes only, each verified on an opened official page.
+- Next: **rq_2730** — Huis Vandecruys (m81 model), Zusterkens der Armen Brussel, then NACE 88.991/88.993; Pleegzorg West/Oost re-check.

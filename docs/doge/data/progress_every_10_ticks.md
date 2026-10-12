@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2730** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2720; 2721-2729 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2721-2729 residual dual L5 (not near-complete of 348bn):** Tele-Onthaal (Brussel) · Centrum ter Preventie van Zelfdoding (Schaarbeek) · HOBO (Brussel) · PSC Open Huis (Antwerpen) · Partner in Assistentie zorg (Hasselt) · de Refuge (Gent) · Huis Sint-Jozef (Berchem) · Home Claire / Eau de Gand (Gent) · Westerlinde (Kortrijk/Roeselare) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2398** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2450** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2721-2729** Tele-Onthaal (Brussel) · Centrum ter Preventie van Zelfdoding (Schaarbeek) · HOBO (Brussel) · PSC Open Huis (Antwerpen) · Partner in Assistentie zorg (Hasselt) · de Refuge (Gent) · Huis Sint-Jozef (Berchem) · Home Claire / Eau de Gand (Gent) · Westerlinde (Kortrijk/Roeselare).
+
+### Inventory (tick 2730)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 57672 |
+| commitments.csv | 6450 |
+| leaderboard.csv | 8570 |
+| entities.csv | 2469 |
+| sources.csv | 8281 |
+| FOI ready | 2398 |
+| FOI total rows | 2450 |
+| research_queue open | rq_2730 (carried; next: Huis Vandecruys model check, Zusterkens der Armen Brussel, NACE 88.991/88.993 scan) |
+
+### What improved since tick 2720
+
+- **New source (tick2721-2729):** Tele-Onthaal (Brussel) · Centrum ter Preventie van Zelfdoding (Schaarbeek) · HOBO (Brussel) · PSC Open Huis (Antwerpen) · Partner in Assistentie zorg (Hasselt) · de Refuge (Gent) · Huis Sint-Jozef (Berchem) · Home Claire / Eau de Gand (Gent) · Westerlinde (Kortrijk/Roeselare). Source: KBO NACE-BEL 88.994 (general welfare work without accommodation) and 87.301 (rest homes) activity search by postcode. New write.py text options so welfare/WZC FOI drafts no longer use youth-care wording.
+- **FOI addresses:** each verified on an opened official page; general mailboxes except Westerlinde (only a social-service mailbox published, flagged in its FOI note) and Eau de Gand (location mailbox). **Data fix tick 2721:** vzw_ter_engelen (Lokeren, KBO 0430.882.809) FOI address info@covida.be was wrong; now info@hofterengelen.be (verified on hofterengelen.be/contact).
+- **Runner note:** 2576-2730 ran on the local fallback runner (Actions last ticked 2575), from the fresh clone /workspace/AIpolitics-loop since 2681; toolkit persistent at /workspace/AIpolitics-loop-tk. Do not run both at once.
+- **Rejected 2721-2729 (fast):** Philippus Neri 0410.505.582 (property VZW, 0 FTE; the 2024 operating loss EUR20.99m is real per both the YE2024 and YE2025 filings: non-recurring operating costs EUR22.49m, nature not disclosed; no general mailbox); GPN Seniorenzorg Waasland (no general mailbox); BRAVVO (VOL, 733 empty); GSD-V (already gsd_vlaanderen); Huis Vandecruys (m81 model); De Lage Drempel (no YE2025 filing); Nottebohm Home (733 empty).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2720** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
