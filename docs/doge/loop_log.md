@@ -29849,3 +29849,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@pleegzorgvlaanderen.be — general mailbox verified on official page https://www.pleegzorgvlaanderen.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_pleegzorg_vlaanderen_vaph_matrix_9900_0_27m_9901_39k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2704/; rq_2704=done; spawn **rq_2705**; ticks=2704.
 - Next: **rq_2705 leftover dual** — KBO NACE 88.992 (integrale jeugdhulp zonder huisvesting) scan by postcode in progress; next: remaining 88.992 units, then other NACE 87/88 codes (87.202/87.203 residential, 88.994 welzijnswerk).
+
+
+## Tick 2705 — 2026-10-12T09:13:50Z — rq_2705 leftover dual Habbekrats Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.992 activity search (Integrale jeugdhulp zonder huisvesting): **Habbekrats** → KBO 0445.495.561 had 0 prior entity rows.
+- KBO: Actief since 7 november 1991; VZW; zetel Edward Anseeleplein 3 9000 Gent; 4 VE; 0 prior entity rows for 0445.495.561
+- Found: official NBB VKT-VZW native PDF **2026-00072865** (890012 B / 28p; AV 25-03-2026; neergelegd 03/04/2026; MD5 7cdbfbee52be8e8f89fafabb10f0ff29). VKT-VZW 9900 **EUR2788777** (-3.05%); 62 **EUR2359914**; 9901 **EUR21782** (was 59057); 9904 -25386; equity 501464; cash 100092; FTE 38 (was 40,6).
+- FOI address: info@habbekrats.be — general mailbox verified on official homepage https://www.habbekrats.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_habbekrats_gent_vaph_matrix_9900_2_79m_9901_22k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2705/; rq_2705=done; spawn **rq_2706**; ticks=2705.
+- Next: **rq_2706 leftover dual** — KBO NACE 88.992 (integrale jeugdhulp zonder huisvesting) scan by postcode in progress; next: remaining 88.992 units, then other NACE 87/88 codes (87.202/87.203 residential, 88.994 welzijnswerk).
