@@ -33872,3 +33872,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@irsia.be — general (secretariat) mailbox verified on official page https://www.irsia.be/notre-equipe/notre-equipe-administrative/ (address obfuscated in page source, decoded); Province of Hainaut directory https://websoc.hainaut.be/DI00033.htm lists info@irsia.be.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_irsia_code740_split_740_5_67m_9901_loss_38k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3103/; rq_3103=done; spawn **rq_3104**; ticks=3103.
 - Next: **rq_3104 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3104 — 2026-10-12T22:03:48Z — rq_3104 leftover dual Le Foyer de la Région de Fléron Fléron YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon social, childcare and senior-care intercommunales (KBO name search over ~90 more Walloon, Brussels and Flemish intercommunale/association names, filings ranked by NBB code 740 operating subsidies from public authorities; new: IMAJE, Interseniors, IRSIA) plus remaining SLSPs from the official Wallonia SLSP list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf); largest code 740 first; every candidate passed the name/alias/KBO/website dedup check: **Le Foyer de la Région de Fléron** → KBO 0403.886.026 had 0 prior entity rows.
+- KBO: Actief since 23 november 1922; SRL; zetel Rue François Lapierre 18 4620 Fléron; 1 VE; 0 prior entity rows for 0403.886.026
+- Found: official NBB VOL-SRL native PDF **2026-00248718** (1718175 B / 82p; AV 25-06-2026; neergelegd 29/06/2026; MD5 6be41526c4c32126aac381563f3c64ef). VOL-SRL 740 **EUR272759** (+118.50%); 62 **EUR3040625**; 9901 **EUR2062606** (was 41647); 9904 2589484; equity 83610924; cash 28848047; FTE 32,7 (was 34,1).
+- FOI address: info@foyerdefleron.be — general mailbox verified on official contact page https://www.foyerdefleron.be/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_foyer_fleron_code740_split_740_0_27m_9901_2063k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3104/; rq_3104=done; spawn **rq_3105**; ticks=3104.
+- Next: **rq_3105 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
