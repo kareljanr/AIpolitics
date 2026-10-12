@@ -34232,3 +34232,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: direction@saint-andre-charleroi.be — direction mailbox verified on official privacy page https://www.saint-andre-charleroi.be/politique-de-confidentialite/ (lists the establishment, Rue du Parc 6).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_charleroi); FOI **gap_saint_andre_charleroi_vaph_matrix_733_10_55m_9901_51k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3139/; rq_3139=done; spawn **rq_3140**; ticks=3139.
 - Next: **rq_3140 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3140 — 2026-10-12T23:21:11Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2765** of 2819 rows; inventory budgets 60746 · commitments 6819 · leaderboard 8937 · entities 2837 · sources 9390.
+- Top10: **stable** (3131-3139 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3131-3139: CEL Liège-Ouest / S2J (Liège) · PO Collèges Saint-Etienne et des Hayeffes (Court-Saint-Etienne) · Sacré-Coeur de Lindthout (Woluwe-Saint-Lambert) · INDH Heusy (Verviers) · SeGEC (Woluwe-Saint-Lambert) · ECD Braine-le-Comte (Braine-le-Comte) · Institut Notre-Dame (Fleurus) · Collège Saint-Vincent - Saint-François (Ixelles) · Institut Saint-André (Charleroi).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3140 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3140 run locally as fallback.
+- Next: **rq_3140** — Sainte-Union Dour (code 733 EUR10.28m), Don Bosco Tournai (EUR9.96m), Don Bosco Woluwe (EUR9.40m), IND Beauraing (EUR8.24m), Sacré-Coeur Ganshoren (EUR7.44m), all mailboxes verified, after the dedup check.
