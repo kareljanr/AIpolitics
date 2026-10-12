@@ -32543,3 +32543,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kanal.brussels — general mailbox verified on official page https://www.kanal.brussels/fr/contact (address not shown on that page; KBO seat Square Sainctelette 11-12).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_kanal_brussel_code73_subsidy_split_73_contrib-gifts-legacies-subsidies-not-split_20_59m_9901_3262k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2971/; rq_2970=done; spawn **rq_2972**; ticks=2971.
 - Next: **rq_2972 leftover dual** — KANAL + Flemish culture batch in progress; next: remaining units of this batch.
+
+
+## Tick 2972 — 2026-10-12T18:27:11Z — rq_2972 leftover dual Koninklijk Museum voor Schone Kunsten Antwerpen (KMSKA) Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish culture 90.111/90.120/90.130/90.311/91.210 in 18 Flemish city postcodes, plus leftover Brussels culture hits), unprocessed hits ranked by YE2025 NBB primary figure: **Koninklijk Museum voor Schone Kunsten Antwerpen (KMSKA)** → KBO 0725.891.877 had 0 prior entity rows.
+- KBO: Actief since 30 april 2019; VZW; zetel Plaatsnijdersstraat 2 2000 Antwerpen; 1 VE; 0 prior entity rows for 0725.891.877
+- Found: official NBB VOL-VZW native PDF **2026-00091277** (683889 B / 44p; AV 31-03-2026; neergelegd 27/04/2026; MD5 5bb5ea68d135b92e8ba076b9988efa2d). VOL-VZW 733 **EUR13559460** (+2.47%); 62 **EUR9043245**; 9901 **EUR639632** (was 1139776); 9904 636935; equity 13346817; cash None; FTE 121,9 (was 120,1).
+- FOI address: info@kmska.be — general mailbox verified on official page https://kmska.be/nl/contact (written there as info(a)kmska.be; page shows the museum address Leopold de Waelplaats 1, KBO seat Plaatsnijdersstraat 2).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_kmska_antwerpen_vaph_matrix_733_13_56m_9901_640k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2972/; rq_2972=done; spawn **rq_2973**; ticks=2972.
+- Next: **rq_2973 leftover dual** — KANAL + Flemish culture batch in progress; next: remaining units of this batch.
