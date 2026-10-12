@@ -30964,3 +30964,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@avoscotes1030.be — general mailbox verified on official page https://www.avoscotes1030.be/actualites.php (also on schaerbeek 1030.be; body calls itself asbl communale, COCOF-recognised).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_a_vos_cotes_1030_vaph_matrix_9900_3_53m_9901_loss_156k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2814/; rq_2814=done; spawn **rq_2815**; ticks=2814.
 - Next: **rq_2815 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2815 — 2026-10-12T15:13:04Z — rq_2815 leftover dual Les Trois Pommiers Bruxelles (Etterbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101/87.301/87.302/87.202 activity searches, Brussels-Capital postcodes (French-language ASBLs), ranked by primary figure: **Les Trois Pommiers** → KBO 0423.623.348 had 0 prior entity rows.
+- KBO: Actief since 27 augustus 1982; VZW; zetel Kazernenlaan 41 1040 Etterbeek; 1 VE; 0 prior entity rows for 0423.623.348
+- Found: official NBB VKT-VZW native PDF **2026-00154773** (54201 B / 15p; AV 06-05-2026; neergelegd 08/06/2026; MD5 1d77536d20556bc01b8d9def06828f72). VKT-VZW 9900 **EUR2530401** (+1.24%); 62 **EUR2245265**; 9901 **EUR8490** (was -22402); 9904 10993; equity 3759917; cash 332331; FTE 36,3 (was 33,7).
+- FOI address: contact@lestroispommiers.be — general mailbox verified on official page https://www.lestroispommiers.be/fr/les-accueils/maison-de-repos-mrpa/ (opened via web fetch; BCE shown; Iriscare agreement IRIS/MR-RH/017).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent iriscare); FOI **gap_les_trois_pommiers_etterbeek_vaph_matrix_9900_2_53m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2815/; rq_2815=done; spawn **rq_2816**; ticks=2815.
+- Next: **rq_2816 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
