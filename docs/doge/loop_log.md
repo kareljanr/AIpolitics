@@ -31075,3 +31075,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: administration@anaisasbl.be — general mailbox verified on official page https://anaisasbl.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_anais_schaerbeek_vaph_matrix_9900_5_31m_9901_55k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2825/; rq_2825=done; spawn **rq_2826**; ticks=2825.
 - Next: **rq_2826 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2826 — 2026-10-12T15:31:44Z — rq_2826 leftover dual Centre Espoir et Joie Bruxelles (Ganshoren) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.201/87.202 (residential care for people with intellectual disability) activity searches, Flemish and Brussels-Capital postcodes, ranked by primary figure: **Centre Espoir et Joie** → KBO 0417.535.807 had 0 prior entity rows.
+- KBO: Actief since 29 juni 1977; VZW; zetel Heidekenstraat 48 1083 Ganshoren; 1 VE; 0 prior entity rows for 0417.535.807
+- Found: official NBB VKT-VZW native PDF **2026-00203623** (44815 B / 12p; AV 18-06-2026; neergelegd 26/06/2026; MD5 30a3b317a5b8b2e8a96614cea784ffee). VKT-VZW 9900 **EUR3110780** (-1.16%); 62 **EUR2997778**; 9901 **EUR26306** (was 42881); 9904 10893; equity 249676; cash 266694; FTE 48,9 (was 49).
+- FOI address: espoir.joie@cej.be — general mailbox verified on official page https://www.cej.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_espoir_et_joie_ganshoren_vaph_matrix_9900_3_11m_9901_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2826/; rq_2826=done; spawn **rq_2827**; ticks=2826.
+- Next: **rq_2827 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
