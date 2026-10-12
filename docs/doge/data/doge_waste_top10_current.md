@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2590** (2026-10-12) · **8444** leaderboard rows  
+**As-of:** tick **2600** (2026-10-12) · **8453** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5
@@ -24,11 +24,15 @@
 | 9 | `lb_bcr_annexe2_reporte_wave` | BCR Annexe2 reporté wave systemic 2026 | **300.60 m** | 9.0 | 9.0 | 3 | **8.4** | Strong CoA wave: OAA consol reporté |
 | 10 | `lb_dual_cars_ssc_taxex` | Dual company car CO2 SSC under-collection vs taxex | **278.52 m** | 8.5 | 9.5 | 6 | **8.4** | Strong dual: SSC CO2 278m + cum gap |
 
-**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2581-2589:** Het Raster · Levedale · KOCA · Mariënstede · Mobilant · Raakzaam · Samenpunt · Primavera · Ter Muiden en t Veldzicht · **residual 2571-2579:** Nethedal · Levenslust · De Ark Moerkerke-Brugge · Klim · Mekanders · De Klaproos · De Vijver · De Kerselaar · De Karrekol · **residual 2561-2570:** **Het Balanske Tielt-Winge 73 JUMP 1.61m / debt JUMP 2.31m / 9901 DROP 12k** (EVERY-10@2570 Strong PDF) · Hoito Tienen · Emiliani Lokeren · Oikonde Mechelen · Vondels Ieper · Duinhelm Oostende · De Berken Overijse · Kerckstede Staden · Licht en Liefde Heem Jabbeke · Berkenhof Leopoldsburg · De Hoge Kouter EVERY-10@2560.
+**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2591-2599:** Start West-Vlaanderen · t Prieeltje · MPC Terbank · Tikvatenoe · Unie-K · Widar · Tanderuis · Zonnehoeve / Living+ · Ritmica Thuishaven · **residual 2581-2589:** Het Raster · Levedale · KOCA · Mariënstede · Mobilant · Raakzaam · Samenpunt · Primavera · Ter Muiden en t Veldzicht · **residual 2571-2579:** Nethedal · Levenslust · De Ark Moerkerke-Brugge · Klim · Mekanders · De Klaproos · De Vijver · De Kerselaar · De Karrekol · **residual 2561-2570:** **Het Balanske Tielt-Winge 73 JUMP 1.61m / debt JUMP 2.31m / 9901 DROP 12k** (EVERY-10@2570 Strong PDF) · Hoito Tienen · Emiliani Lokeren · Oikonde Mechelen · Vondels Ieper · Duinhelm Oostende · De Berken Overijse · Kerckstede Staden · Licht en Liefde Heem Jabbeke · Berkenhof Leopoldsburg · De Hoge Kouter EVERY-10@2560.
 
-**Change vs tick 2580:** pure annual top10 **stable** (9 new leaderboard rows 2581-2589 all pi ≤5.80, far below #10 cut-off 8.4; top10_changed False). Not TE-additive of ~348bn. (Tick 2590 run by local fallback runner while Actions cron unreliable.)
+**Change vs tick 2590:** pure annual top10 **stable** (9 new leaderboard rows 2591-2599 all pi ≤6.20, far below #10 cut-off 8.4; top10_changed False). Not TE-additive of ~348bn. (Tick 2600 run by local fallback runner while Actions cron unreliable.)
 
 ### High-absurdity residual (not pure top10)
+
+- **Unie-K Brugge** (tick2595) 733 subsidies **EUR38.33m** / 9901 **EUR3.16m** retained into bestemde fondsen while **EUR16.49m** debt is publicly guaranteed (9061) and **EUR12.70m** sits in beleggingen (pi 6.20, highest of 2591-2599).
+- **MPC Terbank Leuven** (tick2593) 733 **EUR12.05m** / 9061 public guarantee **EUR2.72m**.
+- **Zonnehoeve / Living+ Nazareth** (tick2598) 733 **EUR11.99m**; operating result swung from **EUR+868k** to **EUR-173k** while **EUR4.06m** sits in beleggingen + cash.
 
 - **KOCA Antwerpen** (tick2583) 733 subsidies **EUR20.94m** (90% of income) / 9901 doubled to **EUR1.21m** while FTE fell / kapitaalsubsidies **EUR14.82m** (pi 5.80, highest of 2581-2589).
 - **Raakzaam Sint-Niklaas** (tick2586) 733 **EUR14.48m** / debt JUMP **EUR13.68m** (+52%; 9061 public guarantee **EUR907k**) while **EUR4.2m** parked in beleggingen.

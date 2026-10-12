@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T07:52:01Z,rq_2599,2599,no,tick2599 leftover dual Ritmica Thuishaven Hove (site Mortsel) 0418.113.649 Strong PDF 2026-00228144 733 4.50m / 9901 120k; next rq_2600 continue VAPH list scan (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T07:52:36Z,every10_2600,2600,no,tick2600 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2600 carried open; VAPH adreslijst exhausted (page 62); next rq_2600 needs a new candidate source (local fallback runner; Actions cron unreliable)

@@ -28858,3 +28858,13 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00228144** (1306370 B / 41p; AV 17-06-2026; neergelegd 30/06/2026; MD5 b957c85e99a8883fb040639ef5abcbc4). VOL 70/76A **EUR5823118** (+6.48%); 733 **EUR4498239** (+5.41%); 62 **EUR4736482**; 9901 **EUR120194** (was 235727); 9904 111515; equity 4212443; 9061 **EUR197092**; beleggingen 744417 + cash 517187; FTE 64.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.50; entities +1 (parent city_hove); FOI **gap_ritmica_thuishaven_hove_vaph_matrix_733_4_50m_9901_120k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2599/; rq_2599=done; spawn **rq_2600**; ticks=2599.
 - Next: **rq_2600 leftover dual** — continue VAPH list scan.
+
+
+## Tick 2600 — 2026-10-12T07:52:36Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2281** of 2333 rows; inventory budgets 56688 · commitments 6333 · leaderboard 8453 · entities 2353 · sources 7930.
+- Top10: **stable** (2591-2599 added 9 leaderboard rows, max pi 6.20 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- Residual dual 2591-2599: Start West-Vlaanderen · t Prieeltje · MPC Terbank · Tikvatenoe · Unie-K · Widar · Tanderuis · Zonnehoeve / Living+ · Ritmica Thuishaven.
+- Hunt this tick: none (EVERY-10 used the tick); rq_2600 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2600 run locally as fallback.
+- Next: **rq_2600 leftover dual** — VAPH adreslijst scanned to its last page (62); pick a new candidate source (e.g. other VAPH organisation types or KBO NACE 87/88 lists).

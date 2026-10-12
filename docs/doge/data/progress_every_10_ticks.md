@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 2600** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2590; 2591-2599 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2591-2599 residual dual L5 (not near-complete of 348bn):** Start West-Vlaanderen · t Prieeltje · MPC Terbank · Tikvatenoe · Unie-K · Widar · Tanderuis · Zonnehoeve / Living+ · Ritmica Thuishaven (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2281** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2333** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2591-2599** Start West-Vlaanderen · t Prieeltje · MPC Terbank · Tikvatenoe · Unie-K · Widar · Tanderuis · Zonnehoeve / Living+ · Ritmica Thuishaven.
+
+### Inventory (tick 2600)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 56688 |
+| commitments.csv | 6333 |
+| leaderboard.csv | 8453 |
+| entities.csv | 2353 |
+| sources.csv | 7930 |
+| FOI ready | 2281 |
+| FOI total rows | 2333 |
+| research_queue open | rq_2600 (carried; VAPH adreslijst scanned to last page 62 — next: new candidate source) |
+
+### What improved since tick 2590
+
+- **Residual dual (tick2591-2599):** Start West-Vlaanderen · t Prieeltje · MPC Terbank · Tikvatenoe · Unie-K · Widar · Tanderuis · Zonnehoeve / Living+ · Ritmica Thuishaven. Largest: Unie-K Brugge 733 **EUR38.33m**; MPC Terbank Leuven 733 **EUR12.05m**; Zonnehoeve / Living+ Nazareth 733 **EUR11.99m**.
+- **Runner note:** 2576-2600 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2591-2599 (fast):** Voluntas Merksem (0 NBB deposits) · Komoo Leopoldsburg (founded 2025) · Woonondersteuning Vlaanderen Gavere (YE2024 latest; serviceflats) · Woon- en Zorgresidentie PURA Maarkedal (no mined parent city; VKT without subsidy split) · Vereniging Ons Huis Brugge (no KBO found; possibly Mintus-linked) · 't Weyerke (Stijn) · VillaVip sites · Bindkracht (already in repo). Note: Tanderuis parent set to city_merelbeke_melle (Melle merged 2025).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2590** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
