@@ -32653,3 +32653,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info.antwerpen@saamo.be — general mailbox verified on official page https://www.saamo.be/antwerpen/contact/ (address and KBO number shown there).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_saamo_antwerpen_vaph_matrix_733_5_18m_9901_loss_128k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2982/; rq_2982=done; spawn **rq_2983**; ticks=2982.
 - Next: **rq_2983 leftover dual** — Flemish 88.99x batch in progress; next: remaining units of this batch.
+
+
+## Tick 2983 — 2026-10-12T18:32:46Z — rq_2983 leftover dual Kringloopcentrum Kust (De Kringwinkel Kust) Oostende YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.991-88.999 social work / sheltered work in 18 Flemish city postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Kringloopcentrum Kust (De Kringwinkel Kust)** → KBO 0892.003.783 had 0 prior entity rows.
+- KBO: Actief since 10 september 2007; VZW; zetel Karperstraat 10 8400 Oostende; 9 VE; 0 prior entity rows for 0892.003.783
+- Found: official NBB VKT-VZW native PDF **2026-00200687** (245130 B / 27p; AV 17-06-2026; neergelegd 22/06/2026; MD5 47b34095d23e36cb02cf5022d99f9e42). VKT-VZW 9900 **EUR3489379** (+14.14%); 62 **EUR3136236**; 9901 **EUR193458** (was 223447); 9904 157495; equity 1109245; cash 162593; FTE 81,4 (was 70,5).
+- FOI address: info@kringwinkelkust.be — general mailbox verified on the official Kringwinkel network page https://www.kringwinkel.be/centra/kust (address and VAT number BE0892003783 shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oostende); FOI **gap_kringloopcentrum_kust_vaph_matrix_9900_3_49m_9901_193k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2983/; rq_2983=done; spawn **rq_2984**; ticks=2983.
+- Next: **rq_2984 leftover dual** — Flemish 88.99x batch in progress; next: remaining units of this batch.
