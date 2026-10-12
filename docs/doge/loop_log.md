@@ -28960,3 +28960,12 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2610 run locally as fallback.
 - Source choice (recorded): VAPH adreslijst type 1389 exhausted at tick 2600 → tick 2601 Huis in de Stad Strong upgrade → ticks 2602-2609 VAPH non-VZA type lists (DOP, bijstandsorganisaties, gebruikersverenigingen, vrijetijdszorg). Remaining after these: KBO NACE 87/88 lists.
 - Next: **rq_2610** — remaining VAPH vrijetijdszorg orgs (Ludentia, Oranje Vrije Tijd O-Vl/W-Vl, Hubbie/VINC need Brussels parent), then KBO NACE 87/88 lists.
+
+
+## Tick 2611 — 2026-10-12T08:10:44Z — rq_2611 leftover dual Jongerencentrum Cidar Kortenberg YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE VAPH adreslijst MDT (tid:1393): **Jongerencentrum Cidar** → KBO 0409.152.829 had 0 prior entity rows. New source: VAPH MDT list (tid:1393, 73 orgs) plus the Vrij CLB-netwerk. Skipped from MDT list: hospitals/UZ/mutualities; IGL Ter Heide, Het Veer, Don Bosco De Waai, Overleie, De Kade, Bethanie (already in repo); Sint-Oda (Stijn); De Poolster (VGC public); Sint-Gerardus (no NBB deposit); Klief (hospital S-model).
+- KBO: Actief since 28 februari 1967; VZW; zetel Marie Christinastraat 8, 3070 Kortenberg; 2 VE; 0 prior entity rows for 0409.152.829
+- Found: official NBB VKT-VZW native PDF **2026-00070985** (51610 B / 14p; AV 26-03-2026; neergelegd 02/04/2026; MD5 c5c0f81aafa9058e83e952670d4faf06). VKT-VZW 9900 **EUR4194690** (+26.73%); 62 **EUR3277406**; 9901 **EUR854073** (was 386170); 9904 855012; equity 2237719; cash 2215946; FTE 42,6 (was 40,9).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.75; entities +1 (parent city_kortenberg); FOI **gap_cidar_kortenberg_vaph_matrix_9900_4_19m_9901_854k_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2611/; rq_2611=done; spawn **rq_2612**; ticks=2611.
+- Next: **rq_2612 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
