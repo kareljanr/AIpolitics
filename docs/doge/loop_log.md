@@ -33942,3 +33942,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3110 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3110 run locally as fallback.
 - Next: **rq_3110** — SPAF (EUR15.40m code 733), SAFSB (EUR14.22m), CSD Namur (EUR9.83m), SAFPA (EUR7.79m), CSD Brabant wallon (EUR5.96m), after the dedup check.
+
+
+## Tick 3111 — 2026-10-12T22:28:21Z — rq_3110 leftover dual SPAF (Service Provincial d'Aide aux Familles) Anhée YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon home-help and family-help services (services d'aide aux familles et aînés, ASD, CSD; KBO name search over ~30 home-help names, filings ranked by NBB code 733 operating subsidies, largest first; Brussels Aide familiale and the large Flemish services already entities); every candidate passed the name/alias/KBO/website dedup check: **SPAF (Service Provincial d'Aide aux Familles)** → KBO 0410.333.358 had 0 prior entity rows.
+- KBO: Actief since 9 januari 1963; VZW; zetel Rue de Maredsous, Denée 10 5537 Anhée; 3 VE; 0 prior entity rows for 0410.333.358
+- Found: official NBB VOL-VZW native PDF **2026-00262049** (928569 B / 52p; AV 19-06-2026; neergelegd 07/07/2026; MD5 ab0b046a80d43b47f43145f4b4382488). VOL-VZW 733 **EUR15395210** (+4.42%); 62 **EUR16610509**; 9901 **EUR457446** (was -101942); 9904 528759; equity 5577254; cash 1045781; FTE 333,4 (was 331,1).
+- FOI address: info@spaf.be — general mailbox verified on official page https://www.spaf.be/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_spaf_anhee_vaph_matrix_733_15_40m_9901_457k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3111/; rq_3110=done; spawn **rq_3112**; ticks=3111.
+- Next: **rq_3112 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
