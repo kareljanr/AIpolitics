@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 2620** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2610; 2611-2619 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2611-2619 residual dual L5 (not near-complete of 348bn):** Cidar Kortenberg · Ter Wende-Espero Leuven · De Markgrave Antwerpen · Vrij CLB Limburg · Vrij CLB Regio Gent · Vrije CLB Westhoek-Houtland · CLB aan de Leie · Vrij CLB Anker · Vrij CLB De Havens (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2299** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2351** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2611-2619** Cidar Kortenberg · Ter Wende-Espero Leuven · De Markgrave Antwerpen · Vrij CLB Limburg · Vrij CLB Regio Gent · Vrije CLB Westhoek-Houtland · CLB aan de Leie · Vrij CLB Anker · Vrij CLB De Havens.
+
+### Inventory (tick 2620)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 56836 |
+| commitments.csv | 6351 |
+| leaderboard.csv | 8471 |
+| entities.csv | 2370 |
+| sources.csv | 7984 |
+| FOI ready | 2299 |
+| FOI total rows | 2351 |
+| research_queue open | rq_2620 (carried; source = VAPH MDT list tid:1393 + Vrij CLB-netwerk; next: remaining Vrij CLBs (Kempen, Halle, Mechelen…), then KBO NACE 87/88) |
+
+### What improved since tick 2610
+
+- **New source (tick2611-2619):** Cidar Kortenberg · Ter Wende-Espero Leuven · De Markgrave Antwerpen · Vrij CLB Limburg · Vrij CLB Regio Gent · Vrije CLB Westhoek-Houtland · CLB aan de Leie · Vrij CLB Anker · Vrij CLB De Havens. Source = VAPH MDT list (tid:1393) non-hospital VZWs + Vrij CLB-netwerk (CLBs are VAPH-recognised MDTs).
+- **Runner note:** 2576-2620 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2611-2619 (fast):** MDT-list hospitals/UZ/mutualities · IGL Ter Heide, Het Veer, Don Bosco De Waai, Overleie, De Kade, Bethanie, Oranje, Kompas, Integra (already in repo) · Sint-Oda (Stijn) · De Poolster (VGC public) · Sint-Gerardus (no NBB deposit) · Klief (hospital S-model) · Ludentia (OLO-Rotonde, in repo) · Vrij CLB Leuven / Antwerpen-Middengebied (tiny) · Vrij CLB Halle (unparseable).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2610** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

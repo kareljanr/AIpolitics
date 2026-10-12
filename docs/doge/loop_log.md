@@ -29041,3 +29041,14 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00196769** (1914196 B / 44p; AV 26-05-2026; neergelegd 25/06/2026; MD5 a7542a7f6550b71f3d75bd11df5c1455). VOL-VZW 733 **EUR1104357** (+8.76%); 62 **EUR84994**; 9901 **EUR-44835** (was -93512); 9904 -38169; equity 4272415; cash 922697; FTE 2,1 (was 1,9).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 3.45; entities +1 (parent city_brugge); FOI **gap_vrij_clb_de_havens_brugge_vaph_matrix_733_1_10m_9901_loss_45k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2619/; rq_2619=done; spawn **rq_2620**; ticks=2619.
 - Next: **rq_2620 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2620 — 2026-10-12T08:12:18Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2299** of 2351 rows; inventory budgets 56836 · commitments 6351 · leaderboard 8471 · entities 2370 · sources 7984.
+- Top10: **stable** (2611-2619 added 9 leaderboard rows, max pi 4.75 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2611-2619: Cidar Kortenberg · Ter Wende-Espero Leuven · De Markgrave Antwerpen · Vrij CLB Limburg · Vrij CLB Regio Gent · Vrije CLB Westhoek-Houtland · CLB aan de Leie · Vrij CLB Anker · Vrij CLB De Havens.
+- Hunt this tick: none (EVERY-10 used the tick); rq_2620 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2620 run locally as fallback.
+- Source choice (recorded): VAPH non-VZA type lists used up at 2609 → ticks 2611-2613 VAPH MDT list (tid:1393) non-hospital VZWs → ticks 2614-2619 Vrij CLB-netwerk (VAPH-recognised MDTs).
+- Next: **rq_2620** — remaining Vrij CLBs (Kempen, Mechelen, Noordwest-Brabant, Meetjesland…; Halle needs manual parse), then KBO NACE 87/88 lists.
