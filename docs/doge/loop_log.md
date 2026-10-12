@@ -33682,3 +33682,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lelogischatelettain.be — general mailbox verified on the Province of Hainaut official directory https://websoc.hainaut.be/DI01748.htm (with KBO 405.631.630).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_logis_chatelettain_code740_split_740_0_87m_9901_loss_617k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3084/; rq_3084=done; spawn **rq_3085**; ticks=3084.
 - Next: **rq_3085 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3085 — 2026-10-12T21:33:43Z — rq_3085 leftover dual La Maison des Hommes Flémalle YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Wallonia official list of the public-service housing companies (SLSP), interieur.wallonie.be 2026 transparency-report list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf), matched to KBO numbers, plus a completed nationwide KBO NACE-BEL 68.201 scan (step-10 postcodes 1000-9990, name-filtered for housing/intercommunale names); ranked by YE2025 NBB company-model code 740 (operating subsidies and compensatory amounts from public authorities); every candidate passed the name/alias/KBO/website dedup check: **La Maison des Hommes** → KBO 0403.964.715 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1968; SRL; zetel Grand Place 7 4400 Flémalle; 1 VE; 0 prior entity rows for 0403.964.715
+- Found: official NBB VOL-SRL native PDF **2026-00174873** (8460859 B / 126p; AV 18-06-2026; neergelegd 19/06/2026; MD5 4690d627dfeb4176ac7805b6e1561eba). VOL-SRL 740 **EUR844184** (-4.48%); 62 **EUR2751907**; 9901 **EUR2305691** (was 1977502); 9904 2480995; equity 63442732; cash 24870511; FTE 39,4 (was 39,7).
+- FOI address: info.mdh@lamaisondeshommes.be — general mailbox verified on official contact page https://lamaisondeshommes.be/contact/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_maison_des_hommes_code740_split_740_0_84m_9901_2306k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3085/; rq_3085=done; spawn **rq_3086**; ticks=3085.
+- Next: **rq_3086 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

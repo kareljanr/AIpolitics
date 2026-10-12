@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T21:33:33Z,rq_3084,3084,no,tick3084 leftover dual Le Logis Châtelettain Châtelet 0405.631.630 Strong PDF 2026-00324149 740 0.87m / 9901 loss 617k; next rq_3085 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T21:33:43Z,rq_3085,3085,no,tick3085 leftover dual La Maison des Hommes Flémalle 0403.964.715 Strong PDF 2026-00174873 740 0.84m / 9901 2306k; next rq_3086 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
