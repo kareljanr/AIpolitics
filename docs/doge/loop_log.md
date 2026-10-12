@@ -28987,3 +28987,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00302211** (1073471 B / 42p; AV 22-06-2026; neergelegd 15/07/2026; MD5 2504010ca8ee3f7d03044e1b270cba67). VOL-VZW 733 **EUR5399500** (+1.81%); 62 **EUR4863947**; 9901 **EUR299192** (was 228799); 9904 373472; equity 6880598; cash 2123666; FTE 63,4 (was 62,5).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.20; entities +1 (parent city_antwerpen); FOI **gap_de_markgrave_antwerpen_vaph_matrix_733_5_40m_9901_299k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2613/; rq_2613=done; spawn **rq_2614**; ticks=2613.
 - Next: **rq_2614 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2614 — 2026-10-12T08:11:11Z — rq_2614 leftover dual Vrij CLB Limburg Hasselt YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Vrij CLB-netwerk / VAPH MDT list (tid:1393): **Vrij CLB Limburg** → KBO 0410.537.751 had 0 prior entity rows. Skipped: Vrij CLB Leuven (micro, 9900 61k), VCLB Antwerpen-Middengebied (9900 38k).
+- KBO: Actief since 15 juli 1949; VZW; zetel Jan Palfijnlaan 2, 3500 Hasselt; 13 VE; 0 prior entity rows for 0410.537.751
+- Found: official NBB VKT-VZW native PDF **2026-00104801** (2651439 B / 31p; AV 31-03-2026; neergelegd 05/05/2026; MD5 293785855d810dd00e3442ba17bb8e25). VKT-VZW 9900 **EUR1129903** (-36.68%); 62 **EUR132572**; 9901 **EUR72706** (was 581793); 9904 28089; equity 5459396; cash 265958; FTE 4,3 (was 4,3).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.45; entities +1 (parent city_hasselt); FOI **gap_vrij_clb_limburg_hasselt_vaph_matrix_9900_1_13m_9901_73k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2614/; rq_2614=done; spawn **rq_2615**; ticks=2614.
+- Next: **rq_2615 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
