@@ -28940,3 +28940,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00139548** (49671 B / 12p; AV 30-05-2026; neergelegd 05/06/2026; MD5 361641f311ad34f502e58c5920acc6eb). VKT-VZW 9900 **EUR3337840** (+13.58%); 62 **EUR3155395**; 9901 **EUR25989** (was -147113); 9904 22738; equity 138250; cash 384526; FTE 38,6 (was 36,8).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.85; entities +1 (parent city_gent); FOI **gap_onafhankelijk_leven_gent_vaph_matrix_9900_3_34m_9901_26k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2608/; rq_2608=done; spawn **rq_2609**; ticks=2608.
 - Next: **rq_2609 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2609 — 2026-10-12T08:02:09Z — rq_2609 leftover dual Westhoek Vrijetijd Anders - Metgezel Ieper YE2025 (local fallback runner)
+
+- Hunt: NEW CANDIDATE SOURCE VAPH adreslijst Organisatie voor vrijetijdszorg (f[0]=tid:1399): **Westhoek Vrijetijd Anders - Metgezel** → KBO 0439.200.459 had 0 prior entity rows. Skipped: Kompas Wondelgem 0443.255.356 and Integra Hasselt 0469.813.065 (already in repo), VOC Opstap Roeselare (micro model), Ampel (CGG Prisma-linked).
+- KBO: Actief since 17 februari 1989; VZW; zetel Rijselstraat 98, 8900 Ieper; 1 VE; 0 prior entity rows for 0439.200.459
+- Found: official NBB VKT-VZW native PDF **2026-00098421** (61551 B / 19p; AV 31-03-2026; neergelegd 30/04/2026; MD5 7264a64a9394fbe81202876f66df9da3). VKT-VZW 9900 **EUR468093** (+0.89%); 62 **EUR436212**; 9901 **EUR22747** (was 73264); 9904 22881; equity 290400; cash 243904; FTE 9 (was 7,4).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.30; entities +1 (parent city_ieper); FOI **gap_wva_metgezel_ieper_vaph_matrix_9900_468k_9901_23k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2609/; rq_2609=done; spawn **rq_2610**; ticks=2609.
+- Next: **rq_2610 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
