@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T07:50:33Z,rq_2597,2597,no,tick2597 leftover dual Tanderuis Melle 0462.234.001 Strong PDF 2026-00186567 73 5.50m / cash 1.77m; next rq_2598 continue VAPH list scan (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T07:51:11Z,rq_2598,2598,no,tick2598 leftover dual Zonnehoeve / Living+ Nazareth-De Pinte 0432.064.625 Strong PDF 2026-00234961 733 11.99m / 9901 loss −173k; next rq_2599 continue VAPH list scan (local fallback runner; Actions cron unreliable)

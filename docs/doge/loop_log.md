@@ -28840,3 +28840,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00186567** (57288 B / 17p; AV 18-05-2026; neergelegd 23/06/2026; MD5 efda2623a2843bdf7a15e440d8ed4bbd). VKT 9900 **EUR5230121** (+7.27%); 73 **EUR5503721** (+7.39%); 62 **EUR4954652**; 9901 **EUR185626**; 9904 182412; equity 1981752; cash **EUR1772841**; FTE 62.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.40; entities +1 (parent city_melle); FOI **gap_tanderuis_melle_vaph_matrix_73_5_50m_cash_1_77m_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2597/; rq_2597=done; spawn **rq_2598**; ticks=2597.
 - Next: **rq_2598 leftover dual** — continue VAPH list scan.
+
+
+## Tick 2598 — 2026-10-12T07:51:11Z — rq_2598 leftover dual Zonnehoeve / Living+ Nazareth-De Pinte YE2025 (local fallback runner)
+
+- Hunt: VAPH adreslijst page 62 (background scan): **Zonnehoeve / Living+ Nazareth** → KBO 0432.064.625 had 0 prior entity rows.
+- KBO: Actief since 15.04.1986; VZW; zetel Zonnestraat 13 9810 Nazareth-De Pinte; 2 VE; 0 prior entity rows for 0432.064.625; Identity trap != Zonnehoeve Production maatwerkbedrijf 0432.166.276
+- Found: official NBB VOL-VZW native PDF **2026-00234961** (349106 B / 49p; AV 15-06-2026; neergelegd 30/06/2026; MD5 608dd6f0dedd47e05df97862ee37e49e). VOL 70/76A **EUR14456822** (+0.69%); 733 **EUR11989584**; 62 **EUR11285776** (+6.18%); 9901 **EUR-173320** (was 867747); 9904 -123068; equity 7007245; beleggingen 2020485 + cash 2035138; FTE 147,6.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.20; entities +1 (parent city_nazareth_depinte); FOI **gap_zonnehoeve_living_nazareth_vaph_matrix_733_11_99m_9901_loss_173k_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2598/; rq_2598=done; spawn **rq_2599**; ticks=2598.
+- Next: **rq_2599 leftover dual** — continue VAPH list scan.
