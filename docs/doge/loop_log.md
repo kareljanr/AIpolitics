@@ -33862,3 +33862,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@interseniors.be — general mailbox verified on official page https://interseniors.be/fr/contact/ (with Avenue du Centenaire 400 address).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_interseniors_code740_split_740_6_31m_9901_114k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3102/; rq_3102=done; spawn **rq_3103**; ticks=3102.
 - Next: **rq_3103 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3103 — 2026-10-12T22:03:37Z — rq_3103 leftover dual IRSIA (Intercommunale du Réseau Social d'Insertion et d'Accueil) Colfontaine YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon social, childcare and senior-care intercommunales (KBO name search over ~90 more Walloon, Brussels and Flemish intercommunale/association names, filings ranked by NBB code 740 operating subsidies from public authorities; new: IMAJE, Interseniors, IRSIA) plus remaining SLSPs from the official Wallonia SLSP list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf); largest code 740 first; every candidate passed the name/alias/KBO/website dedup check: **IRSIA (Intercommunale du Réseau Social d'Insertion et d'Accueil)** → KBO 0201.107.922 had 0 prior entity rows.
+- KBO: Actief since 13 mei 1955; SC; zetel Place de Pâturages 41 7340 Colfontaine; 12 VE; 0 prior entity rows for 0201.107.922
+- Found: official NBB VOL-SC native PDF **2026-00326759** (3128305 B / 84p; AV 30-06-2026; neergelegd 24/07/2026; MD5 100bdb9c78b6c3be5a4ba9010dc8e0b5). VOL-SC 740 **EUR5665566** (+6.36%); 62 **EUR5751312**; 9901 **EUR-38445** (was 82822); 9904 0; equity 2492502; cash 1431057; FTE 118,6 (was 118,4).
+- FOI address: secretariat@irsia.be — general (secretariat) mailbox verified on official page https://www.irsia.be/notre-equipe/notre-equipe-administrative/ (address obfuscated in page source, decoded); Province of Hainaut directory https://websoc.hainaut.be/DI00033.htm lists info@irsia.be.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_irsia_code740_split_740_5_67m_9901_loss_38k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3103/; rq_3103=done; spawn **rq_3104**; ticks=3103.
+- Next: **rq_3104 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
