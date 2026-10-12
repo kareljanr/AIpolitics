@@ -29375,3 +29375,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00122564** (1615471 B / 46p; AV 20-05-2026; neergelegd 27/05/2026; MD5 65d0b562a58b3fa44e7a3ba0b2a79e5d). VOL-VZW 733 **EUR8072719** (+3.91%); 62 **EUR7093516**; 9901 **EUR-14425** (was 261475); 9904 -13325; equity 7300971; cash 1083826; FTE 91 (was 89,8).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_alken); FOI **gap_de_wiekslag_alken_vaph_matrix_733_8_07m_9901_loss_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2655/; rq_2655=done; spawn **rq_2656**; ticks=2655.
 - Next: **rq_2656 leftover dual** — continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
+
+
+## Tick 2656 — 2026-10-12T08:33:11Z — rq_2656 leftover dual Steevliet Merelbeke-Melle YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Oost-Vlaanderen list (mei 2026): **Steevliet** → KBO 0414.311.546 had 0 prior entity rows.
+- KBO: Actief since 4 juli 1974; VZW; zetel Heusdenbaan 67, 9090 Merelbeke-Melle; 2 VE; 0 prior entity rows for 0414.311.546
+- Found: official NBB VOL-VZW native PDF **2026-00181180** (1753531 B / 45p; AV 15-06-2026; neergelegd 22/06/2026; MD5 cc3a4627cf3b9b48dfec7080c4fd2589). VOL-VZW 733 **EUR7143970** (-0.15%); 62 **EUR6003971**; 9901 **EUR-99011** (was 314334); 9904 -126991; equity 6919657; cash 901556; FTE 79,6 (was 76,4).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_merelbeke_melle); FOI **gap_steevliet_merelbeke_melle_vaph_matrix_733_7_14m_9901_loss_99k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2656/; rq_2656=done; spawn **rq_2657**; ticks=2656.
+- Next: **rq_2657 leftover dual** — continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
