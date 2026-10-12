@@ -31733,3 +31733,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2890 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-2890 run locally as fallback.
 - Next: **rq_2890** — remaining fresh-scan hits (Mission Locale Saint-Gilles, Centre d'aide aux personnes, Wolu-Services, Centre de Guidance d'Ixelles), larger first.
+
+
+## Tick 2891 — 2026-10-12T16:48:20Z — rq_2890 leftover dual Groupement de Services d'Accompagnement (GrSA) Bruxelles (Forest) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Groupement de Services d'Accompagnement (GrSA)** → KBO 0472.740.386 had 0 prior entity rows.
+- KBO: Actief since 28 december 1999; VZW; zetel Albertlaan 100 1190 Vorst; 4 VE; 0 prior entity rows for 0472.740.386
+- Found: official NBB VKT-VZW native PDF **2026-00394418** (47085 B / 12p; AV 08-06-2026; neergelegd 12/08/2026; MD5 8261f30924ea30d52b5dcf5e069e44ce). VKT-VZW 9900 **EUR1272476** (-3.79%); 62 **EUR1257737**; 9901 **EUR-10200** (was -245142); 9904 -10782; equity 585905; cash 776227; FTE n/a.
+- FOI address: infos@sonatine.be — general mailbox verified on official page https://grsa.be/contact (service mailbox of SAse La Sonatine at the KBO address).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_grsa_forest_vaph_matrix_9900_1_27m_9901_loss_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2891/; rq_2890=done; spawn **rq_2892**; ticks=2891.
+- Next: **rq_2892 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
