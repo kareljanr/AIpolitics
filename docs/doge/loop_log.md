@@ -31553,3 +31553,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@profo.be — general mailbox verified on official page https://www.profo.be/contact (company number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_profo_brussel_vaph_matrix_9900_3_46m_9901_52k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2872/; rq_2872=done; spawn **rq_2873**; ticks=2872.
 - Next: **rq_2873 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2873 — 2026-10-12T16:39:03Z — rq_2873 leftover dual Guides Catholiques de Belgique (Les Guides) Bruxelles (Ixelles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Guides Catholiques de Belgique (Les Guides)** → KBO 0407.750.980 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1949; VZW; zetel Paul Emile Jansonstraat 35 1050 Elsene; 2 VE; 0 prior entity rows for 0407.750.980
+- Found: official NBB VKT-VZW native PDF **2026-00168610** (68314 B / 21p; AV 17-05-2026; neergelegd 17/06/2026; MD5 1e83e20076c862e95383959958a5cbe8). VKT-VZW 9900 **EUR3095918** (+1.93%); 62 **EUR2605408**; 9901 **EUR274442** (was -48434); 9904 278287; equity 2111571; cash 1488669; FTE 37,3 (was 39,8).
+- FOI address: info@guides.be — general mailbox verified on official page https://www.guides.be/notre-structure.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_guides_catholiques_ixelles_vaph_matrix_9900_3_10m_9901_274k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2873/; rq_2873=done; spawn **rq_2874**; ticks=2873.
+- Next: **rq_2874 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
