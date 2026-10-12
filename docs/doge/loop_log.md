@@ -28969,3 +28969,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00070985** (51610 B / 14p; AV 26-03-2026; neergelegd 02/04/2026; MD5 c5c0f81aafa9058e83e952670d4faf06). VKT-VZW 9900 **EUR4194690** (+26.73%); 62 **EUR3277406**; 9901 **EUR854073** (was 386170); 9904 855012; equity 2237719; cash 2215946; FTE 42,6 (was 40,9).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.75; entities +1 (parent city_kortenberg); FOI **gap_cidar_kortenberg_vaph_matrix_9900_4_19m_9901_854k_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2611/; rq_2611=done; spawn **rq_2612**; ticks=2611.
 - Next: **rq_2612 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2612 — 2026-10-12T08:10:52Z — rq_2612 leftover dual Ter Wende - Espero Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE VAPH adreslijst MDT (tid:1393): **Ter Wende - Espero** → KBO 0414.766.456 had 0 prior entity rows.
+- KBO: Actief since 4 november 1974; VZW; zetel Mechelsevest 30, 3000 Leuven; 2 VE; 0 prior entity rows for 0414.766.456
+- Found: official NBB VOL-VZW native PDF **2026-00167913** (475023 B / 40p; AV 09-06-2026; neergelegd 17/06/2026; MD5 2aa51c8862477360947b38c24bca8883). VOL-VZW 733 **EUR5785771** (+2.17%); 62 **EUR5198826**; 9901 **EUR80790** (was 172776); 9904 59070; equity 3785844; cash 752451; FTE 71,8 (was 70,8).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.20; entities +1 (parent city_leuven); FOI **gap_ter_wende_espero_leuven_vaph_matrix_733_5_79m_9901_81k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2612/; rq_2612=done; spawn **rq_2613**; ticks=2612.
+- Next: **rq_2613 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
