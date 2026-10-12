@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T20:19:04Z,every10_3040,3040,no,"tick3040 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3040 carried open; next further Flemish postcodes/codes with larger recipients, largest first (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T20:22:24Z,rq_3040,3041,no,tick3041 leftover dual Basketbal Vlaanderen Gent 0476.060.855 Strong PDF 2026-00222852 9900 2.60m / 9901 loss 203k; next rq_3042 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

@@ -1,3 +1,5 @@
+> **SUPERSEDED (tick 3041): duplicate of existing entity `visitwallonia`. Merged into `gap_cgt_ra_staff_l5_2025`. Do not send.**
+
 # FOI draft — VISITWallonia (733 14.10m / 9901 43k)
 
 **gap_id:** `gap_visitwallonia_brussel_vaph_matrix_733_14_10m_9901_43k_l5`  

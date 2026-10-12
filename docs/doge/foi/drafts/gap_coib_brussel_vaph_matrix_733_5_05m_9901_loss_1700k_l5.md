@@ -1,3 +1,5 @@
+> **SUPERSEDED (tick 3041): duplicate of existing entity `boic`. Merged into `gap_boic_institutional_tco`. Do not send.**
+
 # FOI draft — Comité Olympique et Interfédéral Belge (733 5.05m / 9901 loss 1700k)
 
 **gap_id:** `gap_coib_brussel_vaph_matrix_733_5_05m_9901_loss_1700k_l5`  

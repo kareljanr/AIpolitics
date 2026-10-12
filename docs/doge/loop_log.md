@@ -33233,3 +33233,19 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3040 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3040 run locally as fallback.
 - Next: **rq_3040** — remaining new-code hits (Basketbal Vlaanderen EUR2.60m, G-sport Vlaanderen EUR2.16m, Vlaamse Zwemfederatie EUR2.03m), then rq_3030 leftovers (De Troef EUR1.61m, Bejaardenzorg KEI EUR1.53m, PCH Kindermishandeling EUR1.49m), largest first.
+
+## Tick 3041 — dedup merge (VISITWallonia, COIB)
+- Duplicates found after batch 3031-3039: `vzw_visitwallonia_brussel` (tick3031) duplicated existing `visitwallonia`; `vzw_coib_brussel` (tick3033) duplicated existing `boic`.
+- Merged: 18 budget rows, 2 commitment rows and 2 research-queue rows re-pointed to the existing ids (YE2025 filed figures and NBB sources kept); 2 duplicate entity rows and 2 duplicate leaderboard rows removed.
+- FOI: the two new drafts set to status `superseded` (not to be sent), merged into `gap_cgt_ra_staff_l5_2025` (VISITWallonia 2025 figures folded into its context) and `gap_boic_institutional_tco`; draft files marked SUPERSEDED.
+- New rule: name/alias/KBO/website dedup check (`dedup.py`) against existing entities before picking any candidate.
+
+
+## Tick 3041 — 2026-10-12T20:22:24Z — rq_3040 leftover dual Basketbal Vlaanderen Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (codes 93.191 sport federations, 93.121/93.199 sport, 84.130 public administration of economic affairs, 72.200 social-science research, 94.991 youth/adult associations; ~59 Flemish city and Brussels postcodes) plus rq_3030 leftovers, ranked by YE2025 NBB primary figure; candidates passed a name/alias/KBO/website dedup check against existing entities: **Basketbal Vlaanderen** → KBO 0476.060.855 had 0 prior entity rows.
+- KBO: Actief since 22 november 2001; VZW; zetel Ottergemsesteenweg-Zuid 808b bus 12 9000 Gent; 1 VE; 0 prior entity rows for 0476.060.855
+- Found: official NBB VKT-VZW native PDF **2026-00222852** (2350300 B / 21p; AV 25-04-2026; neergelegd 30/06/2026; MD5 03753357d5709a7bd8c0b57dfdb0b2ab). VKT-VZW 9900 **EUR2601551** (-13.54%); 62 **EUR2465028**; 9901 **EUR-202517** (was 247808); 9904 -158660; equity 3060162; cash 901009; FTE 26,8 (was 27,6).
+- FOI address: info@basketbal.vlaanderen — general mailbox verified on official page https://www.basketbal.vlaanderen/algemene-voorwaarden (KBO number and Ottergemsesteenweg Zuid 808 B bus 12 shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_basketbal_vlaanderen_vaph_matrix_9900_2_60m_9901_loss_203k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3041/; rq_3040=done; spawn **rq_3042**; ticks=3041.
+- Next: **rq_3042 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
