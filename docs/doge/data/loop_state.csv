@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T13:39:33Z,rq_2754,2754,no,tick2754 leftover dual Ons Peuterhuisje Zwijndrecht (Burcht) 0430.412.853 Strong PDF 2026-00121701 9900 1.53m / 9901 260k; next rq_2755 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T13:39:41Z,rq_2755,2755,no,tick2755 leftover dual De Vijfling Putte 0808.913.088 Strong PDF 2026-00113619 9900 1.34m / 9901 72k; next rq_2756 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

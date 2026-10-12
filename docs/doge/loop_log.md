@@ -30356,3 +30356,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kdvonspeuterhuisje.be — general mailbox verified on official page https://kdvonspeuterhuisje.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bkz); FOI **gap_ons_peuterhuisje_zwijndrecht_vaph_matrix_9900_1_53m_9901_260k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2754/; rq_2754=done; spawn **rq_2755**; ticks=2754.
 - Next: **rq_2755 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2755 — 2026-10-12T13:39:41Z — rq_2755 leftover dual De Vijfling Putte YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, plus KBO record of the Oostende projectvereniging Perspectief: **De Vijfling** → KBO 0808.913.088 had 0 prior entity rows.
+- KBO: Actief since 9 december 2008; VZW; zetel Mechelbaan 561 2580 Putte; 6 VE; 0 prior entity rows for 0808.913.088
+- Found: official NBB VKT-VZW native PDF **2026-00113619** (45191 B / 11p; AV 04-05-2026; neergelegd 19/05/2026; MD5 5a5164ef90c31640404067c88f4b8394). VKT-VZW 9900 **EUR1343261** (+5.36%); 62 **EUR1266592**; 9901 **EUR71781** (was 258580); 9904 71602; equity 539216; cash 708434; FTE 23 (was 20,3).
+- FOI address: devijfling@sgr5.be — general mailbox verified on official page https://www.devijfling.be/contacteer-ons/wie-is-wie-boa (KBO number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_putte); FOI **gap_de_vijfling_putte_vaph_matrix_9900_1_34m_9901_72k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2755/; rq_2755=done; spawn **rq_2756**; ticks=2755.
+- Next: **rq_2756 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
