@@ -32633,3 +32633,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2980 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-2980 run locally as fallback.
 - Next: **rq_2980** — another Flemish activity code with large recipients (largest first); VIERNULVIER / De Grote Post if their sites become verifiable.
+
+
+## Tick 2981 — 2026-10-12T18:32:24Z — rq_2980 leftover dual Emino Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.991-88.999 social work / sheltered work in 18 Flemish city postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Emino** → KBO 0682.510.212 had 0 prior entity rows.
+- KBO: Actief since 4 oktober 2017; VZW; zetel Kipdorpvest 50 2000 Antwerpen; 10 VE; 0 prior entity rows for 0682.510.212
+- Found: official NBB VOL-VZW native PDF **2026-00192269** (9230119 B / 47p; AV 17-06-2026; neergelegd 24/06/2026; MD5 0239de3d5917d58dfd6fa3acd87e8c03). VOL-VZW 733 **EUR16665435** (-1.28%); 62 **EUR15158578**; 9901 **EUR38374** (was 136669); 9904 61290; equity 6847448; cash 5290513; FTE 216,8 (was 223).
+- FOI address: info@emino.be — general mailbox verified on official page https://www.emino.be/contact (address Kipdorpvest 50 matches KBO).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_emino_antwerpen_vaph_matrix_733_16_67m_9901_38k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2981/; rq_2980=done; spawn **rq_2982**; ticks=2981.
+- Next: **rq_2982 leftover dual** — Flemish 88.99x batch in progress; next: remaining units of this batch.
