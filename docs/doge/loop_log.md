@@ -29155,3 +29155,12 @@ Append-only. Each tick adds a short entry.
 - Next: **rq_2632 leftover dual** — continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists.
 
 - tick2631 contact switch: KanNet FOI draft + foi_queue gap_kannet_antwerpen_vaph_matrix_9900_1_97m_9901_7k_l5 recipient ingrid.borre@kvg.be -> general mailbox info@kannet.be (verified on https://kannet.be/contact/). Ter Wende-Espero left on mattias.bouckaert@terwende-espero.org: no general mailbox verifiable on an official page (info@terwende-espero.org only seen in search snippets; terwende-espero.org unreachable; info@obc-espero.org belongs to OBC Espero unit site only). Drafts only, nothing sent.
+
+
+## Tick 2632 — 2026-10-12T08:21:54Z — rq_2632 leftover dual Koraal Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien CKG contact list (april 2026): **Koraal** → KBO 0408.499.464 had 0 prior entity rows.
+- KBO: Actief since 4 juli 1934; VZW; zetel Otto Veniusstraat 20, 2000 Antwerpen; 14 VE; 0 prior entity rows for 0408.499.464
+- Found: official NBB VOL-VZW native PDF **2026-00107964** (1092361 B / 39p; AV 06-05-2026; neergelegd 11/05/2026; MD5 7167473290cec63a7ad9aa88d5a425f2). VOL-VZW 733 **EUR8013008** (+8.86%); 62 **EUR7553808**; 9901 **EUR-81054** (was 274138); 9904 259559; equity 10987257; cash 38541; FTE 117,7 (was 112,5).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_koraal_antwerpen_vaph_matrix_733_8_01m_9901_loss_81k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2632/; rq_2632=done; spawn **rq_2633**; ticks=2632.
+- Next: **rq_2633 leftover dual** — continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists.
