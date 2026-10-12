@@ -33093,3 +33093,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@beschutwonenieper.be — general mailbox verified on official page https://www.beschutwonenieper.be/ (shown under the name vzw Beschut Wonen De Overweg).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ieper); FOI **gap_beschut_wonen_de_overweg_vaph_matrix_9900_2_22m_9901_83k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3026/; rq_3026=done; spawn **rq_3027**; ticks=3026.
 - Next: **rq_3027 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3027 — 2026-10-12T19:52:34Z — rq_3027 leftover dual West-Vlaams Opleidingscentrum voor Brandweer-, Reddings- en Ambulancediensten (WOBRA) Zedelgem YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish multi-code 85.592/87.101/87.301/88.101/88.911/88.991/88.993/88.999, extended to ~190 further Flemish municipality postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **West-Vlaams Opleidingscentrum voor Brandweer-, Reddings- en Ambulancediensten (WOBRA)** → KBO 0415.336.479 had 0 prior entity rows.
+- KBO: Actief since 10 mei 1975; VZW; zetel Diksmuidse Heirweg 6 8210 Zedelgem; 1 VE; 0 prior entity rows for 0415.336.479
+- Found: official NBB VKT-VZW native PDF **2026-00178060** (50884 B / 14p; AV 28-05-2026; neergelegd 18/06/2026; MD5 2dee05a79e1db48d74fd26dc3f26918d). VKT-VZW 9900 **EUR2186152** (-16.45%); 62 **EUR1990706**; 9901 **EUR227857** (was 456164); 9904 234556; equity 3867397; cash 2371305; FTE 32,2 (was 33).
+- FOI address: wobra@campuspov.be — general mailbox of WOBRA verified on official page https://campuspov.be/contact/ (address Diksmuidse Heirweg 6 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_zedelgem); FOI **gap_wobra_zedelgem_vaph_matrix_9900_2_19m_9901_228k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3027/; rq_3027=done; spawn **rq_3028**; ticks=3027.
+- Next: **rq_3028 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
