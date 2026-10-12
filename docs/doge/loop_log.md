@@ -28849,3 +28849,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00234961** (349106 B / 49p; AV 15-06-2026; neergelegd 30/06/2026; MD5 608dd6f0dedd47e05df97862ee37e49e). VOL 70/76A **EUR14456822** (+0.69%); 733 **EUR11989584**; 62 **EUR11285776** (+6.18%); 9901 **EUR-173320** (was 867747); 9904 -123068; equity 7007245; beleggingen 2020485 + cash 2035138; FTE 147,6.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.20; entities +1 (parent city_nazareth_depinte); FOI **gap_zonnehoeve_living_nazareth_vaph_matrix_733_11_99m_9901_loss_173k_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2598/; rq_2598=done; spawn **rq_2599**; ticks=2598.
 - Next: **rq_2599 leftover dual** — continue VAPH list scan.
+
+
+## Tick 2599 — 2026-10-12T07:52:01Z — rq_2599 leftover dual Ritmica Thuishaven Hove (site Mortsel) YE2025 (local fallback runner)
+
+- Hunt: VAPH adreslijst page 53 (background scan): **Thuishaven Ritmica** → KBO 0418.113.649 (zetel Hove) had 0 prior entity rows. Skipped: Woon- en Zorgresidentie PURA Maarkedal (no mined parent city; VKT without subsidy split).
+- KBO: Actief since 07.01.1978; VZW; zetel Wouwstraat 44 2540 Hove; 3 VE; 0 prior entity rows for 0418.113.649; Identity trap != vzw_ritmica_hove MPI Ritmica 0408.389.794 (separate VZW, minors)
+- Found: official NBB VOL-VZW native PDF **2026-00228144** (1306370 B / 41p; AV 17-06-2026; neergelegd 30/06/2026; MD5 b957c85e99a8883fb040639ef5abcbc4). VOL 70/76A **EUR5823118** (+6.48%); 733 **EUR4498239** (+5.41%); 62 **EUR4736482**; 9901 **EUR120194** (was 235727); 9904 111515; equity 4212443; 9061 **EUR197092**; beleggingen 744417 + cash 517187; FTE 64.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.50; entities +1 (parent city_hove); FOI **gap_ritmica_thuishaven_hove_vaph_matrix_733_4_50m_9901_120k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2599/; rq_2599=done; spawn **rq_2600**; ticks=2599.
+- Next: **rq_2600 leftover dual** — continue VAPH list scan.
