@@ -30235,3 +30235,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: thuiszorg@samenferm.be — NEEDS VERIFICATION: mailbox seen only on third-party listing kzitermee.be; official samenferm.be pages are script-rendered and could not be read; postal address Remylaan 4B 3018 Wijgmaal confirmed in KBO.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_ferm_thuiszorg_vaph_matrix_733_74_14m_9901_1204k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2742/; rq_2742=done; spawn **rq_2743**; ticks=2742.
 - Next: **rq_2743 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2743 — 2026-10-12T13:29:49Z — rq_2743 leftover dual Federatie van Wit-Gele Kruisverenigingen van Vlaanderen Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101 (home care) and 88.911 (childcare) activity and name searches, plus Wit-Gele Kruis associations listed on witgelekruis.be: **Federatie van Wit-Gele Kruisverenigingen van Vlaanderen** → KBO 0465.698.582 had 0 prior entity rows.
+- KBO: Actief since 17 december 1998; VZW; zetel Frontispiesstraat 8 bus 1.2 1000 Brussel; 1 VE; 0 prior entity rows for 0465.698.582
+- Found: official NBB VKT-VZW native PDF **2026-00187209** (320459 B / 25p; AV 19-06-2026; neergelegd 19/06/2026; MD5 d2a8259eb177c6d6d67b16a2b7fb00c1). VKT-VZW 9900 **EUR2787329** (+13.69%); 62 **EUR2538789**; 9901 **EUR62639** (was -15384); 9904 67499; equity 815441; cash 972039; FTE 22 (was 20,9).
+- FOI address: wgk@vlaanderen.wgk.be — general mailbox ("algemene vragen") verified on official page https://www.witgelekruis.be/contacteer-ons (KBO number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_wgk_federatie_vaph_matrix_9900_2_79m_9901_63k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2743/; rq_2743=done; spawn **rq_2744**; ticks=2743.
+- Next: **rq_2744 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
