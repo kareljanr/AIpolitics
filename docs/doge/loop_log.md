@@ -29005,3 +29005,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00210310** (1216954 B / 26p; AV 16-06-2026; neergelegd 25/06/2026; MD5 e69aa22c71419fe4cca916baaad2fb35). VKT-VZW 9900 **EUR589423** (+3.13%); 62 **EUR104577**; 9901 **EUR164515** (was 135819); 9904 151184; equity 2365997; cash 925937; FTE 2,5 (was 2,8).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.45; entities +1 (parent city_gent); FOI **gap_vrij_clb_regio_gent_vaph_matrix_9900_589k_9901_165k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2615/; rq_2615=done; spawn **rq_2616**; ticks=2615.
 - Next: **rq_2616 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2616 — 2026-10-12T08:11:29Z — rq_2616 leftover dual Vrije CLB Westhoek-Houtland Ieper YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Vrij CLB-netwerk / VAPH MDT list (tid:1393): **Vrije CLB Westhoek-Houtland** → KBO 0469.062.603 had 0 prior entity rows.
+- KBO: Actief since 2 september 1999; VZW; zetel Bukkersstraat 38, 8900 Ieper; 5 VE; 0 prior entity rows for 0469.062.603
+- Found: official NBB VKT-VZW native PDF **2026-00144729** (61016 B / 18p; AV 11-05-2026; neergelegd 04/06/2026; MD5 12b1bddf03ff3a16ec4e1aea8eefdd9a). VKT-VZW 9900 **EUR440727** (+15.87%); 62 **EUR102049**; 9901 **EUR102967** (was 85564); 9904 106269; equity 2846809; cash 738293; FTE 2,9 (was 3).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.45; entities +1 (parent city_ieper); FOI **gap_vrij_clb_westhoek_houtland_ieper_vaph_matrix_9900_441k_9901_103k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2616/; rq_2616=done; spawn **rq_2617**; ticks=2616.
+- Next: **rq_2617 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
