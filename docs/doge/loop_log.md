@@ -33772,3 +33772,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@imstam.be — general mailbox verified on official page https://www.imstam.be/contact and on the Province of Hainaut directory https://websoc.hainaut.be/DI05669.htm (with BCE 202.508.878).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_imstam_code740_split_740_0_77m_9901_396k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3093/; rq_3093=done; spawn **rq_3094**; ticks=3093.
 - Next: **rq_3094 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3094 — 2026-10-12T21:42:45Z — rq_3094 leftover dual Le Logis Saint-Ghislainois Saint-Ghislain YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon intercommunales (KBO name search over ~50 Walloon intercommunale names, filings ranked by NBB code 740 operating subsidies from public authorities; new: Liège Zone 2 IILE-SRI, ISBW, IMSTAM) plus remaining SLSPs from the official Wallonia SLSP list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf); largest code 740 first; every candidate passed the name/alias/KBO/website dedup check: **Le Logis Saint-Ghislainois** → KBO 0401.099.255 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1968; SRL; zetel Cité des Aubépines(SG) 5 7330 Saint-Ghislain; 2 VE; 0 prior entity rows for 0401.099.255
+- Found: official NBB VOL-SRL native PDF **2026-00232928** (6432008 B / 104p; AV 03-06-2026; neergelegd 30/06/2026; MD5 4dac1608695a2945cb30cae9dbf77a95). VOL-SRL 740 **EUR518704** (+5.41%); 62 **EUR3056333**; 9901 **EUR610157** (was 1019836); 9904 31857; equity 48987981; cash 13625386; FTE 41,1 (was 42,6).
+- FOI address: info@logis-sg.be — general mailbox verified on official contact page https://www.logis-sg.be/Contact.html.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_logis_saint_ghislainois_code740_split_740_0_52m_9901_610k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3094/; rq_3094=done; spawn **rq_3095**; ticks=3094.
+- Next: **rq_3095 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
