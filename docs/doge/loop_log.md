@@ -31903,3 +31903,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: administration@messidor-carrefour.be — general mailbox verified on official page https://messidor-carrefour.be/messidor/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_messidor_bruxelles_vaph_matrix_9900_1_87m_9901_79k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2907/; rq_2907=done; spawn **rq_2908**; ticks=2907.
 - Next: **rq_2908 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2908 — 2026-10-12T17:18:39Z — rq_2908 leftover dual Le Nid Marcelle Briard Bruxelles (Uccle) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Le Nid Marcelle Briard** → KBO 0408.657.733 had 0 prior entity rows.
+- KBO: Actief since 3 maart 1966; VZW; zetel Georges Lecointelaan 2 1180 Ukkel; 1 VE; 0 prior entity rows for 0408.657.733
+- Found: official NBB VKT-VZW native PDF **2026-00217134** (323467 B / 14p; AV 17-06-2026; neergelegd 26/06/2026; MD5 80bb71751eee08ac0cb383dafc2f9010). VKT-VZW 9900 **EUR1824204** (-6.62%); 62 **EUR1730969**; 9901 **EUR26466** (was 271024); 9904 29693; equity 863175; cash 1005980; FTE 23,3 (was 22,4).
+- FOI address: secretariat@lenidmb.be — general mailbox verified on official page https://www.lenidmarcellebriard.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_nid_marcelle_briard_uccle_vaph_matrix_9900_1_82m_9901_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2908/; rq_2908=done; spawn **rq_2909**; ticks=2908.
+- Next: **rq_2909 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
