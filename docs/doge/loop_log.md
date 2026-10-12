@@ -30477,3 +30477,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@egeltjes.be — general mailbox verified on official page https://egeltjes.be/contact (KBO number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_sint_truiden); FOI **gap_de_egeltjes_sint_truiden_vaph_matrix_9900_0_47m_9901_22k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2766/; rq_2766=done; spawn **rq_2767**; ticks=2766.
 - Next: **rq_2767 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2767 — 2026-10-12T13:48:27Z — rq_2767 leftover dual De Blokkendoos Oudenaarde YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, Limburg / West- and Oost-Vlaanderen postcodes: **De Blokkendoos** → KBO 0865.407.472 had 0 prior entity rows.
+- KBO: Actief since 24 mei 2004; VZW; zetel Galgestraat 4 9700 Oudenaarde; 1 VE; 0 prior entity rows for 0865.407.472
+- Found: official NBB VKT-VZW native PDF **2026-00107835** (57001 B / 17p; AV 21-04-2026; neergelegd 07/05/2026; MD5 908d554161ecf8ea345c858bc3436db5). VKT-VZW 9900 **EUR838382** (-2.21%); 62 **EUR754066**; 9901 **EUR40393** (was 94359); 9904 46879; equity 296904; cash 27422; FTE 12,7 (was 12,6).
+- FOI address: info@deblokkendoosoudenaarde.be — general mailbox verified on official page https://www.deblokkendoosoudenaarde.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oudenaarde); FOI **gap_de_blokkendoos_oudenaarde_vaph_matrix_9900_0_84m_9901_40k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2767/; rq_2767=done; spawn **rq_2768**; ticks=2767.
+- Next: **rq_2768 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

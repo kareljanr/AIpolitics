@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T13:48:18Z,rq_2766,2766,no,tick2766 leftover dual De Egeltjes Sint-Truiden 0841.876.955 Strong PDF 2026-00118100 9900 0.47m / 9901 22k; next rq_2767 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T13:48:27Z,rq_2767,2767,no,tick2767 leftover dual De Blokkendoos Oudenaarde 0865.407.472 Strong PDF 2026-00107835 9900 0.84m / 9901 40k; next rq_2768 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
