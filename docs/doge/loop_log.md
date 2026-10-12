@@ -31471,3 +31471,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: lachenillebleue@skynet.be — general crèche mailbox verified on official page https://www.lachenillebleue.be/reglement/ (company number shown; skynet domain).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_fjaril_molenbeek_vaph_matrix_9900_1_00m_9901_loss_45k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2864/; rq_2864=done; spawn **rq_2865**; ticks=2864.
 - Next: **rq_2865 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2865 — 2026-10-12T16:29:51Z — rq_2865 leftover dual Crèche de l'Hôpital Erasme Bruxelles (Anderlecht) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Crèche de l'Hôpital Erasme** → KBO 0419.030.003 had 0 prior entity rows.
+- KBO: Actief since 3 november 1978; VZW; zetel Lennikse Baan 808 1070 Anderlecht; 1 VE; 0 prior entity rows for 0419.030.003
+- Found: official NBB VKT-VZW native PDF **2026-00185018** (35912 B / 10p; AV 17-06-2026; neergelegd 17/06/2026; MD5 8122aaf73c7d6bdd7683069abf32755e). VKT-VZW 9900 **EUR979351** (n/a); 62 **EUR1146825**; 9901 **EUR-224613**; 9904 -211689; equity 544917; cash 14464; FTE 16.
+- FOI address: admin.creche@erasme.ulb.ac.be — general crèche administration mailbox verified on official ONE page https://my.one.be/milieu-accueil/2146.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_anderlecht); FOI **gap_creche_erasme_anderlecht_vaph_matrix_9900_0_98m_9901_loss_225k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2865/; rq_2865=done; spawn **rq_2866**; ticks=2865.
+- Next: **rq_2866 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
