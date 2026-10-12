@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T14:02:48Z,every10_2780,2780,no,tick2780 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2780 carried open; home-care/childcare batch done; next more 88.911/88.101 VZWs (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T14:16:30Z,rq_2780,2781,no,tick2781 leftover dual Residentie Hof ter Linden Evergem 0432.767.577 Strong PDF 2026-00155222 9900 3.15m / 9901 73k; next rq_2782 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

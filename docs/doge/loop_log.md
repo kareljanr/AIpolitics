@@ -30620,3 +30620,13 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2780 run locally as fallback.
 - Source choice (recorded): ticks 2771-2779 used the KBO NACE 88.911 search (West-/Oost-Vlaanderen, Leuven/Limburg). FOI: general mailboxes only, all verified on opened official pages; none NEEDS VERIFICATION.
 - Next: **rq_2780** — more NACE 88.911 childcare (Leuven-region remainder) and 88.101 home-care VZWs.
+
+
+## Tick 2781 — 2026-10-12T14:16:30Z — rq_2780 leftover dual Residentie Hof ter Linden Evergem YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301 (nursing homes) and 88.101 (home care) activity search, West-/Oost-Vlaanderen and Leuven/Limburg postcodes, ranked by primary figure: **Residentie Hof ter Linden** → KBO 0432.767.577 had 0 prior entity rows.
+- KBO: Actief since 1 november 1986; VZW; zetel Koestraat 47 9940 Evergem; 1 VE; 0 prior entity rows for 0432.767.577
+- Found: official NBB VKT-VZW native PDF **2026-00155222** (50217 B / 14p; AV 02-06-2026; neergelegd 12/06/2026; MD5 732f58a2c48b70ced625fc6fa954c790). VKT-VZW 9900 **EUR3150770** (+2.78%); 62 **EUR3060640**; 9901 **EUR73373** (was 132204); 9904 73410; equity 756909; cash 893427; FTE 50,9 (was 52,9).
+- FOI address: residentie@hofterlinden.be — general mailbox verified on official page https://www.hofterlinden.be/contact (also on the municipal page evergem.be/HofTerLinden).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_evergem); FOI **gap_hof_ter_linden_evergem_vaph_matrix_9900_3_15m_9901_73k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2781/; rq_2780=done; spawn **rq_2782**; ticks=2781.
+- Next: **rq_2782 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
