@@ -1,0 +1,987 @@
+2026-00249678       0729668543     2025    EUR    26.0.15       m04-f   30/06/2026   18                            A-ASBL 1
+
+
+
+
+                                 COMPTES ANNUELS ET AUTRES DOCUMENTS
+                                    À DÉPOSER EN VERTU DU CODE DES
+                                     SOCIÉTÉS ET DES ASSOCIATIONS
+
+
+
+DONNÉES D'IDENTIFICATION (à la date du dépôt)
+
+Dénomination :         TOUS ENSEMBLE HANDICAP
+Forme juridique :      Association sans but lucratif
+Adresse :   Avenue Van Bever                                                   N° : 26                  Boîte :
+Code postal :     1180                 Commune :        Uccle
+Pays :   Belgique
+Registre des personnes morales (RPM) - Tribunal de l'entreprise de             Bruxelles, francophone
+Adresse Internet :
+Adresse e-mail :
+
+
+
+                                                                        Numéro d'entreprise             0729.668.543
+
+
+
+Date du dépôt du document le plus récent mentionnant la date de publication des actes constitutif
+                                                                                                              10-09-2021
+et modificatif(s) des statuts
+
+
+
+COMPTES ANNUELS en                  EURO           approuvés par l’assemblée générale du          26-06-2026
+
+
+                et relatifs à l'exercice couvrant la période du         01-01-2025        au      31-12-2025
+
+
+                                      Exercice précédent du             01-01-2024        au      31-12-2024
+
+
+Les montants relatifs à l'exercice précédent sont identiques à ceux publiés antérieurement.
+
+
+
+Numéros des sections du document normalisé non déposées parce que sans objet :
+
+ A-ASBL 6.1.1, A-ASBL 6.1.3, A-ASBL 6.2, A-ASBL 6.5, A-ASBL 6.6, A-ASBL 8
+
+
+
+
+                                                                                                                    Page 1 of 18
+N°      0729668543                                                                                          A-ASBL 2
+
+
+                                LISTE DES ADMINISTRATEURS ET COMMISSAIRES
+
+
+
+
+LISTE DES ADMINISTRATEURS ET COMMISSAIRES
+
+LISTE COMPLÈTE des nom, prénoms, profession, domicile (adresse, numéro, code postal et commune) et fonction au sein de
+l'association ou de la fondation
+
+
+
+DE BORCHGRAVE D'ALTENA Amélie
+Avenue du Général de Gaule 32
+1050 Ixelles
+BELGIQUE
+Début de mandat : 2021-09-14           Fin de mandat :                         Administrateur
+
+
+DE BORCHGRAVE D’ALTENA François
+Avenue du Fort-Jaco 76
+1180 Uccle
+BELGIQUE
+Début de mandat : 2019-05-15           Fin de mandat :                         Administrateur
+
+
+DE BORCHGRAVE D'ALTENA Géraud
+Rue des Champs Elysées, 35
+1050 Ixelles
+BELGIQUE
+Début de mandat : 2019-05-15           Fin de mandat :                         Administrateur
+
+
+T'KINT DE ROODENBEKE Marie-Daphne
+Avenue Den Doorn 1
+1180 Uccle
+BELGIQUE
+Début de mandat : 2019-05-15           Fin de mandat :                         Administrateur
+
+
+VANKRIEKINGE Sophie
+Schuttersvest 68
+2800 Mechelen
+BELGIQUE
+Début de mandat : 2025-06-25           Fin de mandat : 2028-06-23              Administrateur
+
+
+LEGRAND Sébastien
+Avenue Latérale 25
+1180 Uccle
+BELGIQUE
+Début de mandat : 2025-06-25           Fin de mandat : 2028-06-23              Administrateur
+
+
+
+
+                                                                                                            Page 2 of 18
+N°      0729668543                                                                                          A-ASBL 3.1
+
+
+                                                   COMPTES ANNUELS
+
+
+
+BILAN APRÈS RÉPARTITION
+
+                                                            Ann.      Codes   Exercice              Exercice précédent
+
+ ACTIF
+                                                                     20
+ FRAIS D'ÉTABLISSEMENT
+ ACTIFS IMMOBILISÉS                                                  21/28           5.586.018                  3.803.312
+                                                             6.1.1   21
+ Immobilisations incorporelles
+
+ Immobilisations corporelles                                 6.1.2   22/27           5.586.018                  3.803.312
+     Terrains et constructions                                       22             5.313.161                  3.714.591
+     Installations, machines et outillage                            23                  101.021                  83.672
+     Mobilier et matériel roulant                                    24                  171.835                    5.049
+     Location-financement et droits similaires                       25
+
+     Autres immobilisations corporelles                              26
+
+     Immobilisations en cours et acomptes versés                     27
+
+                                                             6.1.3   28
+ Immobilisations financières
+
+ ACTIFS CIRCULANTS                                                   29/58               757.122                2.143.761
+                                                                     29
+ Créances à plus d'un an
+     Créances commerciales                                           290
+
+     Autres créances                                                 291
+
+                                                                     3
+ Stocks et commandes en cours d'exécution
+     Stocks                                                          30/36
+
+     Commandes en cours d'exécution                                  37
+
+ Créances à un an au plus                                            40/41               411.914                1.148.010
+     Créances commerciales                                           40                  411.914                 365.620
+     Autres créances                                                 41                       0                  782.390
+
+ Placements de trésorerie                                            50/53               228.916                  750.000
+
+ Valeurs disponibles                                                 54/58                 91.585                 238.337
+
+ Comptes de régularisation                                           490/1                 24.707                    7.414
+
+ TOTAL DE L'ACTIF                                                    20/58           6.343.140                  5.947.073
+
+
+
+
+                                                                                                               Page 3 of 18
+N°      0729668543                                                                                                             A-ASBL 3.2
+
+                                                                               Ann.      Codes   Exercice              Exercice précédent
+
+ PASSIF
+ FONDS SOCIAL                                                                           10/15           3.469.136                  3.237.817
+                                                                                  6.2   10
+ Fonds de l'association ou de la fondation
+                                                                                        12
+ Plus-values de réévaluation
+                                                                                  6.2   13
+ Fonds affectés et autres réserves
+
+ Bénéfice (Perte) reporté(e)                                         (+)/(-)            14              2.007.119                  1.737.817
+
+ Subsides en capital                                                                    15              1.462.017                  1.500.000
+                                                                                  6.2   16
+ PROVISIONS ET IMPÔTS DIFFÉRÉS
+                                                                                        160/5
+ Provisions pour risques et charges
+     Pensions et obligations similaires                                                 160
+
+     Charges fiscales                                                                   161
+
+     Grosses réparations et gros entretien                                              162
+
+     Obligations environnementales                                                      163
+
+     Autres risques et charges                                                          164/5
+
+ Provisions pour subsides et legs à rembourser et pour dons                             167
+ avec droit de reprise
+                                                                                        168
+ Impôts différés
+
+ DETTES                                                                                 17/49           2.874.004                  2.709.256
+
+ Dettes à plus d'un an                                                            6.3   17              2.023.683                  1.915.565
+     Dettes financières                                                                 170/4                87.399                             0
+       Etablissements de crédit, dettes de location-financement et                      172/3               87.399                          0
+       assimilées
+       Autres emprunts                                                                  174/0
+
+     Dettes commerciales                                                                175
+
+     Acomptes sur commandes                                                             176
+
+     Autres dettes                                                                      178/9          1.936.283                  1.915.565
+
+ Dettes à un an au plus                                                           6.3   42/48                850.321                 793.691
+     Dettes à plus d'un an échéant dans l'année                                         42                  578.369                 700.000
+     Dettes financières                                                                 43                     627                              0
+       Etablissements de crédit                                                         430/8                 627                           0
+       Autres emprunts                                                                  439
+
+     Dettes commerciales                                                                44                   91.140                  87.304
+       Fournisseurs                                                                     440/4               91.140                  87.304
+       Effets à payer                                                                   441
+
+     Acomptes sur commandes                                                             46
+
+     Dettes fiscales, salariales et sociales                                            45                  179.149                    5.351
+       Impôts                                                                           450/3                8.574                          0
+       Rémunérations et charges sociales                                                454/9          170.575                       5.351
+     Autres dettes                                                                      48                    1.036                    1.036
+                                                                                        492/3
+ Comptes de régularisation
+
+ TOTAL DU PASSIF                                                                        10/49           6.343.140                  5.947.073
+
+
+
+
+                                                                                                                                  Page 4 of 18
+N°      0729668543                                                                                                                    A-ASBL 4
+
+
+COMPTE DE RÉSULTATS
+
+                                                                                   Ann.      Codes   Exercice              Exercice précédent
+
+ Produits et charges d'exploitation
+     Marge brute d'exploitation                                          (+)/(-)            9900           1.911.095                    541.086
+        Dont: produits d'exploitation non récurrents                                        76A
+
+        Chiffre d'affaires                                                                  70
+
+        Cotisations, dons, legs et subsides                                                 73
+
+        Approvisionnements, marchandises, services et biens divers                          60/61
+
+     Rémunérations, charges sociales et pensions                         (+)/(-)            62             1.496.407                     44.699
+     Amortissements et réductions de valeur sur frais                                       630                 174.703                         487
+     d'établissement, sur immobilisations incorporelles et corporelles
+     Réductions de valeur sur stocks, sur commandes en cours             (+)/(-)            631/4
+     d'exécution et sur créances commerciales: dotations (reprises)
+     Provisions pour risques et charges: dotations (utilisations et      (+)/(-)            635/9
+     reprises)
+     Autres charges d'exploitation                                                          640/8                14.878                    4.855
+     Charges d'exploitation portées à l'actif au titre de frais de           (-)            649
+     restructuration
+     Charges d'exploitation non récurrentes                                                 66A
+
+ Bénéfice (Perte) d'exploitation                                         (+)/(-)            9901                225.108                  491.044
+
+ Produits financiers                                                                  6.4   75/76B                49.273                          0
+     Produits financiers récurrents                                                         75                   49.273                          0
+     Produits financiers non récurrents                                                     76B
+
+ Charges financières                                                                  6.4   65/66B                 5.045                        138
+     Charges financières récurrentes                                                        65                    5.045                         138
+     Charges financières non récurrentes                                                    66B
+
+ Bénéfice (Perte) de l'exercice avant impôts                             (+)/(-)            9903                269.336                  490.906
+                                                                                            780
+ Prélèvement sur les impôts différés
+                                                                                            680
+ Transfert aux impôts différés
+
+ Impôts sur le résultat                                                  (+)/(-)            67/77                    35                           0
+
+ Bénéfice (Perte) de l'exercice                                          (+)/(-)            9904                269.302                  490.906
+                                                                                            789
+ Prélèvement sur les réserves immunisées
+                                                                                            689
+ Transfert aux réserves immunisées
+
+ Bénéfice (Perte) de l'exercice à affecter                               (+)/(-)            9905                269.302                  490.906
+
+
+
+
+                                                                                                                                      Page 5 of 18
+N°      0729668543                                                                                                       A-ASBL 5
+
+
+AFFECTATIONS ET PRÉLÈVEMENTS
+
+                                                                                    Codes   Exercice           Exercice précédent
+
+ Bénéfice (Perte) à affecter                                             (+)/(-)   9906            2.007.119               1.737.817
+     Bénéfice (Perte) de l'exercice à affecter                           (+)/(-)   (9905)          269.302                  490.906
+     Bénéfice (Perte) reporté(e) de l'exercice précédent                 (+)/(-)   14P           1.737.817               1.246.911
+
+ Prélèvement sur les capitaux propres: fonds, fonds affectés et autres             791
+ réserves
+                                                                                   691
+ Affectation aux fonds affectés et autres réserves
+
+ Bénéfice (Perte) à reporter                                             (+)/(-)   (14)            2.007.119               1.737.817
+
+
+
+
+                                                                                                                          Page 6 of 18
+N°      0729668543                                                                                                     A-ASBL 6.1.2
+
+
+ANNEXE
+
+ETAT DES IMMOBILISATIONS
+
+                                                                                    Codes    Exercice             Exercice précédent
+
+ IMMOBILISATIONS CORPORELLES
+
+ Valeur d'acquisition au terme de l'exercice                                       8199P     XXXXXXXXXX                       3.803.863
+
+ Mutations de l'exercice
+     Acquisitions, y compris la production immobilisée                             8169           1.957.409
+     Cessions et désaffectations                                                   8179
+
+     Transferts d'une rubrique à une autre                               (+)/(-)   8189
+
+ Valeur d'acquisition au terme de l'exercice                                       8199             5.761.272
+
+ Plus-values au terme de l'exercice                                                8259P     XXXXXXXXXX
+
+ Mutations de l'exercice
+     Actées                                                                        8219
+
+     Acquises de tiers                                                             8229
+
+     Annulées                                                                      8239
+
+     Transférées d'une rubrique à une autre                              (+)/(-)   8249
+
+                                                                                   8259
+ Plus-values au terme de l'exercice
+ Amortissements et réductions de valeur au terme de l'exercice                     8329P     XXXXXXXXXX                                551
+
+ Mutations de l'exercice
+     Actés                                                                         8279             174.703
+     Repris                                                                        8289
+
+     Acquis de tiers                                                               8299
+
+     Annulés à la suite de cessions et désaffectations                             8309
+
+     Transférés d'une rubrique à une autre                               (+)/(-)   8319
+
+ Amortissements et réductions de valeur au terme de l'exercice                     8329                 175.254
+
+ VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE                                     (22/27)          5.586.018
+
+ DONT
+     Appartenant à l'association ou à la fondation en pleine propriété             8349
+
+
+
+
+                                                                                                                             Page 7 of 18
+N°      0729668543                                                                                                       A-ASBL 6.3
+
+
+ETAT DES DETTES
+
+                                                                                                              Codes   Exercice
+
+ VENTILATION DES DETTES À L'ORIGINE À PLUS D'UN AN, EN FONCTION DE LEUR DURÉE
+ RÉSIDUELLE
+ Total des dettes à plus d'un an échéant dans l'année                                                        (42)                578.369
+
+ Total des dettes ayant plus d'un an mais 5 ans au plus à courir                                             8912                 67.535
+
+ Total des dettes ayant plus de 5 ans à courir                                                               8913            1.956.148
+
+ DETTES GARANTIES (COMPRISES DANS LES RUBRIQUES 17 ET 42/48 DU PASSIF)
+ Dettes garanties par les pouvoirs publics belges
+     Dettes financières                                                                                      8921
+
+       Etablissements de crédit, dettes de location-financement et dettes assimilées                         891
+
+       Autres emprunts                                                                                       901
+
+     Dettes commerciales                                                                                     8981
+
+       Fournisseurs                                                                                          8991
+
+       Effets à payer                                                                                        9001
+
+     Acomptes sur commandes                                                                                  9011
+
+     Dettes salariales et sociales                                                                           9021
+
+     Autres dettes                                                                                           9051
+
+                                                                                                             9061
+ Total des dettes garanties par les pouvoirs publics belges
+
+ Dettes garanties par des sûretés réelles constituées ou irrévocablement promises sur les actifs de
+ l'association ou de la fondation
+     Dettes financières                                                                                      8922
+
+       Etablissements de crédit, dettes de location-financement et dettes assimilées                         892                    0
+       Autres emprunts                                                                                       902
+
+     Dettes commerciales                                                                                     8982
+
+       Fournisseurs                                                                                          8992
+
+       Effets à payer                                                                                        9002
+
+     Acomptes sur commandes                                                                                  9012
+
+     Dettes fiscales, salariales et sociales                                                                 9022
+
+       Impôts                                                                                                9032
+
+       Rémunérations et charges sociales                                                                     9042                   0
+     Autres dettes                                                                                           9052
+
+ Total des dettes garanties par des sûretés réelles constituées ou irrévocablement promises sur les actifs   9062
+ de l'association ou de la fondation
+
+
+
+
+                                                                                                                            Page 8 of 18
+N°      0729668543                                                                                            A-ASBL 6.4
+
+
+RÉSULTATS
+
+                                                                            Codes   Exercice          Exercice précédent
+
+ PERSONNEL
+ Travailleurs pour lesquels l'association ou la fondation a introduit une
+ déclaration DIMONA ou qui sont inscrits au registre général du personnel
+     Effectif moyen du personnel calculé en équivalents temps plein         9087               22,6                        0
+
+ PRODUITS ET CHARGES DE TAILLE OU D'INCIDENCE EXCEPTIONNELLE
+                                                                            76
+ Produits non récurrents
+     Produits d'exploitation non récurrents                                 (76A)
+
+     Produits financiers non récurrents                                     (76B)
+
+                                                                            66
+ Charges non récurrentes
+     Charges d'exploitation non récurrentes                                 (66A)
+
+     Charges financières non récurrentes                                    (66B)
+
+ RÉSULTATS FINANCIERS
+ Intérêts portés à l'actif                                                  6502                  0                        0
+
+
+
+
+                                                                                                                 Page 9 of 18
+N°        0729668543                                                                                                                                           A-ASBL 6.7
+
+
+BILAN SOCIAL
+
+
+
+
+Numéros des commissions paritaires dont dépend l'association ou la fondation:          3190
+
+
+
+
+TRAVAILLEURS POUR LESQUELS L'ASSOCIATION OU LA FONDATION A INTRODUIT UNE DÉCLARATION DIMONA OU QUI SONT
+INSCRITS AU REGISTRE GÉNÉRAL DU PERSONNEL
+
+
+
+
+                                                                                                                        3. Total (T) ou total en    3P. Total (T) ou total en
+                                                              1. Temps plein              2. Temps partiel             équivalents temps plein      équivalents temps plein
+                                                   Codes                                                                         (ETP)                       (ETP)
+Au cours de l'exercice et de                                    (exercice)                    (exercice)
+l'exercice précédent                                                                                                          (exercice)             (exercice précédent)
+Nombre moyen de travailleurs                      100                            6,9                            21,2                         22,6                           0
+Nombre d'heures effectivement prestées            101                         11.314                        24.370                         35.684                           0
+Frais de personnel                                102                        457.569                       859.770                     1.317.338
+
+
+
+
+                                                                                                                                                    3. Total en équivalents
+                                                                     Codes             1. Temps plein                   2. Temps partiel
+A la date de clôture de l'exercice                                                                                                                        temps plein
+Nombre de travailleurs                                              105                                     9                                28                          29,6
+
+Par type de contrat de travail
+     Contrat à durée indéterminée                                   110                                     7                                15                          17,9
+     Contrat à durée déterminée                                     111                                     2                                12                          10,9
+     Contrat pour l'exécution d'un travail nettement défini         112                                     0                                 0                             0
+     Contrat de remplacement                                        113                                     0                                 1                           0,8
+
+Par sexe et niveau d'études
+     Hommes                                                         120                                     1                                10                           8,4
+          de niveau primaire                                        1200                                    0                                 1                           0,8
+          de niveau secondaire                                      1201                                    1                                 3                           3,2
+          de niveau supérieur non universitaire                     1202                                    0                                 5                           4,1
+          de niveau universitaire                                   1203                                    0                                 1                           0,3
+     Femmes                                                         121                                     8                                18                          21,2
+          de niveau primaire                                        1210                                    0                                 2                           1,3
+          de niveau secondaire                                      1211                                    2                                 3                           4,2
+          de niveau supérieur non universitaire                     1212                                    6                                13                          15,7
+          de niveau universitaire                                   1213                                    0                                 0                             0
+
+Par catégorie professionnelle
+     Personnel de direction                                         130                                     0                                 0                             0
+     Employés                                                       134                                     2                                 4                           4,9
+     Ouvriers                                                       132                                     0                                 0                             0
+     Autres                                                         133                                     7                                24                          24,7
+
+
+
+
+                                                                                                                                                                Page 10 of 18
+N°        0729668543                                                                                                                              A-ASBL 6.7
+
+
+TABLEAU DES MOUVEMENTS DU PERSONNEL AU COURS DE L'EXERCICE
+
+
+
+
+                                                                                                                                        3. Total en équivalents
+                                                                              Codes   1. Temps plein           2. Temps partiel
+ENTRÉES                                                                                                                                       temps plein
+Nombre de travailleurs pour lesquels l'association ou la fondation a
+introduit une déclaration DIMONA ou qui ont été inscrits au registre
+général du personnel au cours de l'exercice                                   205                      5                           46                       32,8
+
+SORTIES
+Nombre de travailleurs dont la date de fin de contrat a été inscrite dans
+une déclaration DIMONA ou au registre général du personnel au cours
+de l'exercice                                                                 305                      0                           12                        5,8
+
+
+
+
+RENSEIGNEMENTS SUR LES FORMATIONS POUR LES TRAVAILLEURS AU COURS DE L'EXERCICE
+
+
+
+
+                                                                                       Codes               Hommes           Codes              Femmes
+
+Initiatives en matière de formation professionnelle continue à caractère
+formel à charge de l'employeur
+     Nombre de travailleurs concernés                                                  5801                            0   5811                               0
+     Nombre d'heures de formation suivies                                              5802                            0   5812                               0
+     Coût net pour l'association ou la fondation                                       5803                                5813
+          dont coût brut directement lié aux formations                                58031                               58131
+          dont cotisations payées et versements à des fonds collectifs                 58032                               58132
+          dont subventions et autres avantages financiers reçus (à déduire)            58033                               58133
+
+Initiatives en matière de formation professionnelle continue à caractère
+moins formel ou informel à charge de l'employeur
+     Nombre de travailleurs concernés                                                  5821                            0   5831                               0
+     Nombre d'heures de formation suivies                                              5822                            0   5832                               0
+     Coût net pour l'association ou la fondation                                       5823                                5833
+
+Initiatives en matière de formation professionnelle initiale à charge de
+l'employeur
+     Nombre de travailleurs concernés                                                  5841                            0   5851                               0
+     Nombre d'heures de formation suivies                                              5842                            0   5852                               0
+     Coût net pour l'association ou la fondation                                       5843                                5853
+
+
+
+
+                                                                                                                                                   Page 11 of 18
+N°      0729668543                                                                                                                           A-ASBL 6.8
+
+
+RÈGLES D'ÉVALUATION
+
+
+
+
+       I. Principes généraux
+
+     Les règles d'évaluation sont établies conformément à l'arrêté royal du 29 avril 2019 portant exécution du Code des sociétés et associations.
+
+     En vue d'assurer l'image fidèle, il a été dérogé aux règles d'évaluation prévues dans cet arrêté dans les cas exceptionnels suivants:
+     Néant
+
+     Ces dérogations se justifient comme suit:
+     Néant
+
+     Ces dérogations influencent de la façon suivante le patrimoine, la situation financière et le résultat avant impôts de l'entreprise:
+     Néant
+
+     Les règles d'évaluation n'ont pas été modifiées dans leur énoncé ou leur application par rapport à l'exercice précédent.
+
+
+     Le compte de résultats n'a pas été influencé de façon importante par des produits ou des charges imputables à un exercice antérieur.
+
+     Les chiffres de l'exercice ne sont pas comparables à ceux de l'exercice précédent en raison du fait suivant:
+     Néant
+
+     A défaut de critères objectifs, l'estimation des risques prévisibles, des pertes éventuelles et des dépréciations mentionnés ci-dessous, est
+     inévitablement aléatoire:
+     Néant
+
+     Autres informations requises pour que les comptes annuels donnent une image fidèle du patrimoine, de la situation financière ainsi que du résultat
+     de l'entreprise:
+     Néant
+
+     II. Règles particulières
+
+     Frais d'établissement:
+     Les frais d'établissement sont immédiatement pris en charge sauf les frais suivants qui sont portés à l'actif:
+     Néant
+
+     Frais de restructuration:
+     Au cours de l'exercice, des frais de restructuration n'ont pas été portés à l'actif.
+     Immobilisations incorporelles:
+     Le montant à l'actif des immobilisations incorporelles comprend 0,00 EUR de frais de recherche et de développement. La durée d'amortissement de
+     ces frais et du goodwill n'est pas supérieure à 5 ans.
+     Néant
+
+     Immobilisations corporelles:
+     Des immobilisations corporelles n'ont pas été réévaluées durant l'exercice.
+     Néant
+
+     Amortissements actés pendant l'exercice
+
+     Bâtiments industriels, administratifs ou commerciaux:
+       L - R 3,03% - 10,00% 3,03% - 10,00%
+
+     Installations, machines et outillage:
+       L - R 10,00% - 20,00% 10,00% - 20,00%
+
+     Matériel roulant:
+       L - R 20,00% - 20,00% 20,00% - 20,00%
+
+     Matériel de bureau et mobilier:
+       L - R 10,00% - 33,33% 10,00% - 33,33%
+
+     Immobilisations financières:
+     Des participations n'ont pas été réévaluées durant l'exercice.
+     Néant
+
+     Stocks:
+     Les stocks sont évalués à leur valeur d'acquisition calculée selon la méthode suivant ou à la valeur de marché si elle est inférieure.
+
+       - Approvisionnements (Non applicable)
+
+
+       - En cours de fabrication - produits finis (Non applicable)
+
+
+       - Biens et services (Non applicable)
+
+
+       - Immeubles destinés à la vente (Non applicable)
+
+
+     Fabrications:
+       - Le coût de revient des fabrications n'inclut pas les frais indirects de production.
+       - Le coût de revient des fabrications à plus d'un an n'inclut pas des charges financières afférentes aux capitaux empruntés pour les financer.
+
+     Commandes en cours d'exécution:
+     Les commandes en cours sont évaluées au coût de revient (completed contact méthode).
+
+     Dettes:
+     Le passif comporte pas des dettes à long terme, non productives d'intérêt ou assorties d'un taux d'intérêt anormalement faible.
+     Devises:
+     Les avoirs, dettes et engagements libellés en devises sont convertis en EUR sur les bases suivantes:
+     Néant
+
+     Les écarts de conversion des devises sont traités comme suit dans les comptes annuels:
+     Néant
+
+     Autres:
+     Néant
+
+
+
+
+                                                                                                                                              Page 12 of 18
+N°   0729668543                                                        A-ASBL 7
+
+
+                     AUTRES DOCUMENTS À DÉPOSER EN VERTU DU CODE DES
+                               SOCIÉTÉS ET DES ASSOCIATIONS
+
+
+
+RAPPORT DE GESTION
+
+
+
+
+                                                                       Page 13 of 18
+                RAPPORT DE GESTION DU CONSEIL D'ADMINISTRATION
+                  rédigé en vue de l’assemblée générale du 26 juin 2026
+
+Conformément à la loi et aux statuts, nous avons l’honneur de vous soumettre notre rapport
+de gestion pour l’exercice social clôturé au 31 décembre 2025.
+
+   1. Rapport d’activités de l’année 2025.
+
+L’année 2025 aura été marquée par l’ouverture du centre Tous Ensemble après un long
+processus pour l’obtention du permis d’urbanisme, la construction du bâtiment et l’agrément
+par Iriscare.
+
+Entre janvier et la mi-mars, la directrice et la coordinatrice du centre de jour – rejointes en
+février par la coordinatrice du centre d’hébergement – ont assuré le processus de recrutement
+de l’ensemble du personnel.
+
+Parallèlement, l’équipe de direction a poursuivi les rencontres avec les adultes souhaitant
+rejoindre le projet, tant pour le centre d’hébergement que pour le centre de jour.
+
+Au total, près de 50 adultes et leurs familles ont été rencontrés.
+
+À l’issue de ces rencontres, une sélection des personnes à accueillir a dû être opérée. Celle-
+ci s’est appuyée sur plusieurs critères, notamment :
+
+   •   L’urgence de la prise en charge au regard de la situation de vie ;
+
+   •   L’adéquation du profil avec l’agrément du centre (dont deux tiers de personnes en
+       situation de grande dépendance) ;
+
+   •   La situation sociale, avec une attention particulière portée aux personnes issues de
+       milieux socio-économiques défavorisés, notamment celles vivant avec des mères
+       isolées ;
+
+   •   L’adhésion de l’adulte et de sa famille à la philosophie du projet ;
+
+   •   La recherche d’une mixité en termes de genre, d’âge et de type de handicaps (besoins
+       d’accompagnement, modes de communication, mobilité, etc)
+
+Un travail d’analyse des besoins de chaque adulte rencontré a été mené par l’équipe de
+direction, en concertation avec le conseil d’administration, afin de constituer deux groupes
+cohérents (marchant et non marchant) pour le centre d’hébergement. Les mêmes principes
+ont été appliqués pour la sélection des bénéficiaires du centre de jour.
+
+À l’issue du processus de sélection, les familles des personnes retenues ont été informées et
+une liste d’attente a été mise en place pour les autres candidats.
+
+Il convient de souligner que l’offre de places d’accueil disponibles à Bruxelles reste nettement
+inférieure à la demande.
+________________________________________________________________________                      1
+        Asbl Tous Ensemble Handicap – avenue Van Bever 26 – 1180 Bruxelles
+                            RPM Bruxelles : 0729.668.543
+                    info@tousensemble.eu – www.tousensemble.eu
+
+
+                                                                                                   Page 14 of 18
+Le 21 mars 2025, l’agrément provisoire officiel a été obtenu de la part d’Iriscare, permettant
+l’ouverture du centre et l’accueil des résidents.
+
+L’ouverture du centre a été organisée de manière progressive afin de garantir un accueil de
+qualité et un accompagnement adapté aux besoins de chaque adulte.
+
+Le 24 mars 2025, l’appartement du niveau -1, qui accueille les personnes en chaise roulante,
+a ouvert ses portes avec l’accueil initial de 7 résidents. Le centre de jour a démarré en parallèle
+avec ces mêmes bénéficiaires. Ces personnes présentant des besoins particulièrement
+spécifiques, il a été jugé important de privilégier un démarrage dans un environnement calme
+et en petit groupe. À cette étape, l’équipe éducative était partiellement constituée, tout comme
+l’équipe technique.
+
+Le 14 avril 2025, six habitants de l’appartement situé au niveau +1, qui accueille les personnes
+plus autonomes (les « marchant »), ont rejoint le centre. Dans les semaines suivantes, la
+huitième résidente du niveau -1 ainsi que le septième résident du niveau +1 ont intégré la
+structure. À la mi-mai, les 15 chambres du centre d’hébergement étaient occupées.
+L’ensemble de l’équipe d’accompagnants de l’hébergement avait également rejoint la structure
+à cette période.
+
+Le 12 mai 2025, les bénéficiaires fréquentant exclusivement le centre de jour ont intégré le
+dispositif, permettant ainsi de compléter progressivement l’ouverture du service. L’équipe du
+centre de jour a, elle aussi, été renforcée progressivement au fil des différentes phases
+d’ouverture.
+
+Depuis la mi-mai 2025, l’ensemble des résidents, bénéficiaires et équipes participent
+pleinement à la vie et au développement du projet.
+
+Le conseil d’administration remercie vivement l’équipe de direction et les équipes pour le
+travail réalisé durant cette année pour permettre une bonne intégration des résidents. Nous
+remercions également ces derniers et leurs familles pour la confiance qu’ils nous ont accordée
+en rejoignant notre centre.
+
+Tout cela n’aurait pas été possible sans le soutien financier d’une part des généreux donateurs
+– privés ou fondations - et d’autre part des institutions publiques régionales bruxelloises. Nous
+les en remercions vivement.
+
+Les défis qui nous attendent pour 2026 restent cependant nombreux :
+
+   1) Finaliser l’agrément définitif auprès d’Iriscare, après l’obtention de l’agrément
+      provisoire,
+   2) Récolter des fonds pour un montant de 850.000 euros afin de finaliser l’ensemble des
+      travaux prévus, notamment la construction d’un pavillon le long de l’avenue Van Bever,
+      l’aménagement de la piscine thérapeutique en sous-sol et divers aménagements à la
+      villa.
+
+________________________________________________________________________                         2
+        Asbl Tous Ensemble Handicap – avenue Van Bever 26 – 1180 Bruxelles
+                            RPM Bruxelles : 0729.668.543
+                    info@tousensemble.eu – www.tousensemble.eu
+
+
+                                                                                                     Page 15 of 18
+La finalisation des travaux est essentielle dans le cadre de notre projet. Le pavillon est une
+solution au problème de manque d’inclusion car il permettra d’y organiser des activités avec
+des visiteurs extérieurs au centre, qui ainsi participent avec les résidents à des activités dans
+un cadre plus neutre et moins intrusif que dans le bâtiment de la résidence-même. La piscine
+thérapeutique quant à elle permettra d’offrir aux personnes moins valides une expérience de
+leur corps dans l’eau -pour certains le seul milieu dans lequel ils ont un ressenti complet de
+leur corps (et ainsi cela contribue à ralentir ou éviter les mauvaises évolutions physiologiques).
+
+
+   2. Commentaires sur les comptes annuels
+
+Le total des recettes s’est élevé à 599.811,22 € (contre 547.263,52 €), en légère hausse par
+rapport à l’exercice précédent. Ce montant représente les dons reçus au cours de l’exercice.
+Les autres produits d’exploitation d’un montant de 1.704.472,97 € (contre 54.531,16 €)
+représentent essentiellement le subside reçu d’Iriscare pour couvrir les frais de fonctionnement
+du centre sur une période de 9 mois.
+
+Les charges d’exploitations s’élèvent à 1.961.292,99 € (contre 110.750,84 €) et se rapportent
+principalement aux frais de personnel et au frais de fonctionnement de l’immeuble.
+
+Le résultat d’exploitation de l’association s’élève à 222.066,87 € (contre 491.043,84 €).
+
+Le résultat financier s’élèvent à 44.228,66 € (contre -137,82 €).
+
+Le bénéfice de l’exercice est de 266.261,01 € (contre 490.906 ,02 €).
+
+Le bilan, que nous soumettons à votre approbation, présente tant à l'actif qu'au passif un total
+des rubriques de 6.343.139,62 € (contre 5.947.072,96 €).
+
+L’augmentation du bilan au cours de l’exercice provient de la poursuite de la construction du
+centre, financée pour partie par le bénéfice de l’exercice ainsi que par des emprunts.
+
+Compte tenu du bénéfice reporté de 1.737.816,87 €, le résultat à affecter au terme de cet
+exercice s'élève à 2.007.118,70 €. Nous proposons d’affecter ce montant en bénéfice à
+reporter.
+
+Conformément à la loi et aux statuts, nous vous demandons d’approuver l’affectation proposée
+ainsi que les comptes annuels tels qu’ils vous sont présentés et de donner aux administrateurs
+décharge pour l’exercice 2025.
+
+
+   3. Description des principaux risques et incertitudes
+
+L'organe d'administration est d’avis que le rapport de gestion et les comptes annuels donnent
+une vue d’ensemble fidèle du développement et de la position de l'association.
+
+________________________________________________________________________                        3
+        Asbl Tous Ensemble Handicap – avenue Van Bever 26 – 1180 Bruxelles
+                            RPM Bruxelles : 0729.668.543
+                    info@tousensemble.eu – www.tousensemble.eu
+
+
+                                                                                                    Page 16 of 18
+Deux risques importants ont été identifiés pour l’année 2026. D’une part, l’impossibilité pour
+l’association de récolter les fonds nécessaires, au travers de dons ou d’un financement, pour
+la construction du pavillon dont le permis d’urbanisme arrive à échéance à la fin de l’année
+2026 et d’autre part la non-obtention de l’agrément définitif. L’organe d’administration est
+toutefois confiant sur l’issue positive de ces points, au regard de la capacité que l’équipe a
+démontrée par le passé dans la levée de fonds, et au regard aussi du fait que le passage par
+un agrément provisoire avant l’agrément définitif est la procédure habituelle d’Iriscare et que
+les rapports de l’administration sur le centre à date sont positifs - et il est donc d’avis qu’il n' y
+a pas d’autres risques significatifs et d’incertitudes propres à l'association
+
+    4. Données sur des événements importants survenus après la clôture de l’exercice
+
+Aucun événement important qui, par sa nature, pourrait influencer les comptes annuels
+clôturés au 31/12/2025 n’a eu lieu après la clôture de l’exercice.
+
+    5. Circonstances susceptibles d’avoir une influence notable sur le développement
+       de l'association, et qui pour autant ne sont pas de nature à porter gravement
+       préjudice à l'association
+
+Aucun événement important qui, par sa nature, pourrait influencer les comptes annuels
+clôturés au 31/12/2025 n’a eu lieu après la clôture de l’exercice.
+
+
+    6. Circonstances susceptibles d’avoir une influence notable sur le développement
+
+Néant.
+
+
+    7. Données concernant l’existence de succursales de l'association
+
+L'association ne dispose pas de succursales.
+
+
+    8. Modification/Confirmation des règles comptables
+
+Les règles comptables appliquées à la clôture des comptes annuels ont été complétées au
+cours de l’exercice. Suite à la réception provisoire du nouveau bâtiment, ce dernier fera l’objet
+d’un amortissement linéaire sur 33 ans. Des travaux de rénovation de la villa ont également
+été effectués au cours de l’exercice et feront l’objet d’un amortissement linéaire sur 10 ans.
+Les 2 véhicules acquis en début d’année feront l’objet d’un amortissement linéaire sur 5 ans.
+
+
+    9. Conflit d’intérêts
+
+Aucune opération au cours de l’exercice clôturé au 31/12/2025 n’a donné lieu à un conflit
+d’intérêts conformément aux articles 9:8 et suivants du CSA.
+
+
+
+________________________________________________________________________                            4
+        Asbl Tous Ensemble Handicap – avenue Van Bever 26 – 1180 Bruxelles
+                            RPM Bruxelles : 0729.668.543
+                    info@tousensemble.eu – www.tousensemble.eu
+
+
+                                                                                                        Page 17 of 18
+   10. Informations concernant l’utilisation d’instruments financiers par l'association
+       pour autant que cela soit pertinent pour l’évaluation de son actif, de son passif,
+       de sa situation financière et de ses résultats
+
+Néant
+
+
+
+Uccle, le 24 avril 2026.
+
+Le Conseil d'Administration
+
+
+
+
+François de BORCHGRAVE d’ALTENA                 Marie-Daphné t’KINT de ROODENBEKE
+Administrateur                                  Administrateur
+
+
+
+
+Amélie de BORCHGRAVE d'ALTENA                   Géraud de BORCHGRAVE d’ALTENA
+Administrateur                                  Administrateur
+
+
+
+
+Sophie VANKRIEKINGE                             Sébastien LEGRAND
+Administrateur                                  Administrateur
+
+
+
+
+________________________________________________________________________               5
+        Asbl Tous Ensemble Handicap – avenue Van Bever 26 – 1180 Bruxelles
+                            RPM Bruxelles : 0729.668.543
+                    info@tousensemble.eu – www.tousensemble.eu
+
+
+                                                                                            Page 18 of 18
+

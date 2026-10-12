@@ -31290,3 +31290,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lacleasbl.be — general mailbox verified on official page https://www.lacleasbl.be/mentions-légales (company number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_la_cle_schaerbeek_vaph_matrix_9900_1_91m_9901_loss_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2846/; rq_2846=done; spawn **rq_2847**; ticks=2846.
 - Next: **rq_2847 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2847 — 2026-10-12T16:21:40Z — rq_2847 leftover dual Tous Ensemble Handicap Bruxelles (Uccle) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Tous Ensemble Handicap** → KBO 0729.668.543 had 0 prior entity rows.
+- KBO: Actief since 2 juli 2019; VZW; zetel Van Beverlaan 26 1180 Ukkel; 1 VE; 0 prior entity rows for 0729.668.543
+- Found: official NBB VKT-VZW native PDF **2026-00249678** (287481 B / 18p; AV 26-06-2026; neergelegd 30/06/2026; MD5 8c728ececea0e551c78f608ea7482c3c). VKT-VZW 9900 **EUR1911095** (+253.20%); 62 **EUR1496407**; 9901 **EUR225108** (was 491044); 9904 269302; equity 3469136; cash 91585; FTE 22,6 (was 0).
+- FOI address: secretariat@tousensemble.eu — general mailbox verified on official page https://www.tousensemble.eu/contact (secretariat role mailbox).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_tous_ensemble_handicap_uccle_vaph_matrix_9900_1_91m_9901_225k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2847/; rq_2847=done; spawn **rq_2848**; ticks=2847.
+- Next: **rq_2848 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

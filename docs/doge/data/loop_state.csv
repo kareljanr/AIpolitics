@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T16:21:31Z,rq_2846,2846,no,tick2846 leftover dual La Clé Bruxelles (Schaerbeek) 0413.028.176 Strong PDF 2026-00197251 9900 1.91m / 9901 loss 10k; next rq_2847 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T16:21:40Z,rq_2847,2847,no,tick2847 leftover dual Tous Ensemble Handicap Bruxelles (Uccle) 0729.668.543 Strong PDF 2026-00249678 9900 1.91m / 9901 225k; next rq_2848 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
