@@ -32943,3 +32943,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@debiehal.be — general mailbox verified on official page https://www.debiehal.be/contact (address Stationsstraat 206 matches KBO).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lommel); FOI **gap_de_biehal_lommel_vaph_matrix_733_4_37m_9901_209k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3011/; rq_3010=done; spawn **rq_3012**; ticks=3011.
 - Next: **rq_3012 leftover dual** — Further-extended Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3012 — 2026-10-12T19:27:02Z — rq_3012 leftover dual Wonen en Werken Tewerkstelling Leuven (Heverlee) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish multi-code 85.592/87.10x/87.30x/88.10x/88.911/88.991-88.999, extended to 30 further Flemish postcodes plus extra codes 88.991-88.994/88.102/87.20x/90-91 in the previous 22), unprocessed hits ranked by YE2025 NBB primary figure: **Wonen en Werken Tewerkstelling** → KBO 0448.800.786 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1992; VZW; zetel Ijzerenmolenstraat 2 3001 Leuven; 3 VE; 0 prior entity rows for 0448.800.786
+- Found: official NBB VOL-VZW native PDF **2026-00213913** (309123 B / 48p; AV 23-06-2026; neergelegd 25/06/2026; MD5 6e6b85e56be9c2073ce6fccac5e22b26). VOL-VZW 733 **EUR4215572** (+4.59%); 62 **EUR6141594**; 9901 **EUR166664** (was 272758); 9904 154868; equity 3204275; cash 530827; FTE 174,6 (was 163,2).
+- FOI address: info@wenw.be — general mailbox verified on official page https://wonen-en-werken.be/nl/contact (address Ijzerenmolenstraat 2 matches KBO).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_wonen_en_werken_leuven_vaph_matrix_733_4_22m_9901_167k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3012/; rq_3012=done; spawn **rq_3013**; ticks=3012.
+- Next: **rq_3013 leftover dual** — Further-extended Flemish multi-code batch in progress; next: remaining units of this batch.
