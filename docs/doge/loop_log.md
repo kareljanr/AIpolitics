@@ -34442,3 +34442,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3160 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3160 run locally as fallback.
 - Next: **rq_3160** — Institut des Filles de Marie (code 733 EUR10.44m), Bonne-Espérance (EUR8.07m), KdG Hogeschool (EUR7.15m; Dutch voluntary draft), Godinne-Burnot (EUR6.94m), Saint-Joseph Florennes (EUR6.24m), all mailboxes verified, after the dedup check.
+
+
+## Tick 3161 — 2026-10-12T23:54:00Z — rq_3160 leftover dual Institut des Filles de Marie (Saint-Gilles) Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Catholic school boards and university colleges (Flemish schoolbesturen VZW and FWB organising bodies / hautes écoles, ASBL); new KBO name search (legal form VZW/ASBL; words such as Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège Saint, Institut Saint), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Institut des Filles de Marie (Saint-Gilles)** → KBO 0429.413.852 had 0 prior entity rows.
+- KBO: Actief since 1 februari 1984; VZW; zetel Théodore Verhaegenstraat 8 1060 Sint-Gillis (bij-Brussel); 2 VE; 0 prior entity rows for 0429.413.852
+- Found: official NBB VOL-VZW native PDF **2026-00334661** (89627 B / 31p; AV 18-06-2026; neergelegd 27/07/2026; MD5 853a1b2c30cc19d90252f6eee4426326). VOL-VZW 733 **EUR10435092** (+3.67%); 62 **EUR9557580**; 9901 **EUR-35174** (was 250528); 9904 -46098; equity 1433548; cash 1102642; FTE 13,3 (was 13,5).
+- FOI address: secretariat.direction@ifmsg.be — direction-secretariat mailbox verified on official contact page https://www.ifmsg.be/onglet-infos-pratiques/contact/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ifm_saint_gilles_vaph_matrix_733_10_44m_9901_loss_35k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3161/; rq_3160=done; spawn **rq_3162**; ticks=3161.
+- Next: **rq_3162 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
