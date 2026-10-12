@@ -29274,3 +29274,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00283089** (73321 B / 25p; AV 01-06-2026; neergelegd 09/07/2026; MD5 12f75b2ce46838f890a2bf709aa570e5). VOL-VZW 733 **EUR4541764** (+4.90%); 62 **EUR4095222**; 9901 **EUR90179** (was 281815); 9904 125619; equity 5087176; cash 466679; FTE 56 (was 53,4).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_beerse); FOI **gap_kruislink_beerse_vaph_matrix_733_4_54m_9901_90k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2644/; rq_2644=done; spawn **rq_2645**; ticks=2644.
 - Next: **rq_2645 leftover dual** — continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists.
+
+
+## Tick 2645 — 2026-10-12T08:27:53Z — rq_2645 leftover dual Kiosk Wommelgem YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OOOC contact list (april 2026): **Kiosk** → KBO 0460.964.388 had 0 prior entity rows.
+- KBO: Actief since 5 mei 1997; VZW; zetel t Serclaesdreef 34, 2160 Wommelgem; 20 VE; 0 prior entity rows for 0460.964.388
+- Found: official NBB VOL-VZW native PDF **2026-00115031** (2981585 B / 42p; AV 07-05-2026; neergelegd 18/05/2026; MD5 81698d60cfae0ebdb18dce6a3bb08137). VOL-VZW 733 **EUR27595180** (+5.16%); 62 **EUR23274861**; 9901 **EUR571269** (was -987135); 9904 568490; equity 12510835; cash 1358631; FTE 323,6 (was 329,8).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_wommelgem); FOI **gap_kiosk_wommelgem_vaph_matrix_733_27_60m_9901_571k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2645/; rq_2645=done; spawn **rq_2646**; ticks=2645.
+- Next: **rq_2646 leftover dual** — continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists.
