@@ -33359,3 +33359,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@agoria.be — general mailbox verified on official page https://portal.agoria.be/nl_BE/contactus (registered seat Ravensteinstraat 4 and KBO number shown on https://www.agoria.be/nl).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_agoria_brussel_vaph_matrix_733_5_36m_9901_39k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3052/; rq_3052=done; spawn **rq_3053**; ticks=3052.
 - Next: **rq_3053 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3053 — 2026-10-12T20:30:36Z — rq_3053 leftover dual Voka - Kamer van Koophandel Oost-Vlaanderen Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (new codes 94.110 business, employers and public-authority associations, 94.120 professional bodies, 94.200 unions, 84.120 public administration of health/education/culture, 91.210; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure; every candidate passed the name/alias/KBO/website dedup check: **Voka - Kamer van Koophandel Oost-Vlaanderen** → KBO 0407.604.688 had 0 prior entity rows.
+- KBO: Actief since 7 augustus 1937; VZW; zetel Lammerstraat 18 9000 Gent; 2 VE; 0 prior entity rows for 0407.604.688
+- Found: official NBB VKT-VZW native PDF **2026-00199466** (357180 B / 21p; AV 02-06-2026; neergelegd 23/06/2026; MD5 4d357a30629a8b179a201bbf88f0e948). VKT-VZW 9900 **EUR5049941** (-23.36%); 62 **EUR4344408**; 9901 **EUR232056** (was 1792259); 9904 322611; equity 14666847; cash 805005; FTE 47,9 (was 48,7).
+- FOI address: info.ov@voka.be — regional general mailbox verified on official page https://www.voka.be/contact (listed with KBO number 0407.604.688).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_voka_kvk_oost_vlaanderen_vaph_matrix_9900_5_05m_9901_232k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3053/; rq_3053=done; spawn **rq_3054**; ticks=3053.
+- Next: **rq_3054 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
