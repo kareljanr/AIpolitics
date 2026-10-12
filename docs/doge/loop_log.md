@@ -34372,3 +34372,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@komo.be — general mailbox verified on official site https://www.komo.be/ (page shows the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mechelen); FOI **gap_komo_vaph_matrix_733_14_76m_9901_2207k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3153/; rq_3153=done; spawn **rq_3154**; ticks=3153.
 - Next: **rq_3154 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3154 — 2026-10-12T23:46:57Z — rq_3154 leftover dual Collège Saint-Augustin (Enghien) Enghien YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Catholic school boards and university colleges (Flemish schoolbesturen VZW and FWB organising bodies / hautes écoles, ASBL); new KBO name search (legal form VZW/ASBL; words such as Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège Saint, Institut Saint), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Collège Saint-Augustin (Enghien)** → KBO 0409.260.123 had 0 prior entity rows.
+- KBO: Actief since 8 april 1936; VZW; zetel Aatsesteenweg 1 7850 Enghien; 7 VE; 0 prior entity rows for 0409.260.123
+- Found: official NBB VOL-VZW native PDF **2026-00197518** (2052174 B / 44p; AV 16-06-2026; neergelegd 25/06/2026; MD5 0dbf575f6a1ba5bd125cf1a370b73531). VOL-VZW 733 **EUR14398953** (-0.23%); 62 **EUR13159899**; 9901 **EUR-29239** (was -32349); 9904 168287; equity 13484399; cash 489032; FTE 15,7 (was 13,1).
+- FOI address: secretariat@csa-enghien.com — general secretariat mailbox verified on official contact page https://www.csaenghien.net/contacts.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_college_saint_augustin_enghien_vaph_matrix_733_14_40m_9901_loss_29k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3154/; rq_3154=done; spawn **rq_3155**; ticks=3154.
+- Next: **rq_3155 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
