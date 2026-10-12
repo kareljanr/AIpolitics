@@ -30710,3 +30710,14 @@ Append-only. Each tick adds a short entry.
 - FOI address: sintjozef.moorsele@gvo.be — general mailbox verified on official page https://www.sintjozef.gvo.be/nl/home/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_wevelgem); FOI **gap_sint_jozef_moorsele_vaph_matrix_733_1_05m_9901_456k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2789/; rq_2789=done; spawn **rq_2790**; ticks=2789.
 - Next: **rq_2790 leftover dual** — Batch done; next: more 87.301 nursing-home and 88.101 home-care VZWs ranked by size (other provinces), then childcare remainder; skipped: Philippus Neri group entities (no general mailbox, as before), Welzijnscampus Huize Sint Anna and H.Hart services (VOL filing with empty 733 line).
+
+
+## Tick 2790 — 2026-10-12T14:17:58Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2452** of 2504 rows; inventory budgets 58117 · commitments 6504 · leaderboard 8624 · entities 2523 · sources 8443.
+- Top10: **stable** (2781-2789 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2781-2789: Residentie Hof ter Linden (Evergem) · Thuiszorg H. Hart (Kortrijk) · De Gavermeersen (Deerlijk) · Amphora (Wingene) · Ennea Rustoord (Sint-Niklaas) · Maria Middelares (Moorslede) · Home Vogelzang (Heverlee) · Sint Anna (Bulskamp) · Sint Jozef (Moorsele).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2790 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2790 run locally as fallback.
+- Source choice (recorded): ticks 2781-2789 used KBO NACE 87.301/88.101 searches ranked by size (larger subsidy recipients first). FOI: general mailboxes only, all verified on opened official pages; none NEEDS VERIFICATION.
+- Next: **rq_2790** — more NACE 88.911 87.301 nursing-home and 88.101 home-care VZWs ranked by size (other provinces).

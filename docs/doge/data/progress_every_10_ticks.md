@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2790** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2780; 2781-2789 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2781-2789 residual dual L5 (not near-complete of 348bn):** Residentie Hof ter Linden (Evergem) · Thuiszorg H. Hart (Kortrijk) · De Gavermeersen (Deerlijk) · Amphora (Wingene) · Ennea Rustoord (Sint-Niklaas) · Maria Middelares (Moorslede) · Home Vogelzang (Heverlee) · Sint Anna (Bulskamp) · Sint Jozef (Moorsele) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2452** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2504** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2781-2789** Residentie Hof ter Linden (Evergem) · Thuiszorg H. Hart (Kortrijk) · De Gavermeersen (Deerlijk) · Amphora (Wingene) · Ennea Rustoord (Sint-Niklaas) · Maria Middelares (Moorslede) · Home Vogelzang (Heverlee) · Sint Anna (Bulskamp) · Sint Jozef (Moorsele).
+
+### Inventory (tick 2790)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 58117 |
+| commitments.csv | 6504 |
+| leaderboard.csv | 8624 |
+| entities.csv | 2523 |
+| sources.csv | 8443 |
+| FOI ready | 2452 |
+| FOI total rows | 2504 |
+| research_queue open | rq_2790 (carried; next: more 87.301 nursing-home and 88.101 home-care VZWs ranked by size, other provinces) |
+
+### What improved since tick 2780
+
+- **New source (tick2781-2789):** Residentie Hof ter Linden (Evergem) · Thuiszorg H. Hart (Kortrijk) · De Gavermeersen (Deerlijk) · Amphora (Wingene) · Ennea Rustoord (Sint-Niklaas) · Maria Middelares (Moorslede) · Home Vogelzang (Heverlee) · Sint Anna (Bulskamp) · Sint Jozef (Moorsele). Source: KBO NACE-BEL 87.301 and 88.101 activity searches over West-/Oost-Vlaanderen and Leuven/Limburg postcodes, ranked by primary figure to favour larger subsidy recipients over small childcare units (per LOOP.md priorities).
+- **FOI addresses:** all 9 general/reception mailboxes verified on opened official pages (no NEEDS VERIFICATION). De Gavermeersen's page was opened via web fetch because the box network could not reach it; Ennea's via the operator (Korian) site.
+- **Runner note:** 2576-2790 ran on the local fallback runner (Actions last ticked 2575), from the fresh clone /workspace/AIpolitics-loop since 2681; toolkit persistent at /workspace/AIpolitics-loop-tk. Do not run both at once.
+- **Rejected 2781-2789 (fast):** Philippus Neri group entities (no general mailbox, as before); Welzijnscampus Huize Sint Anna and H.Hart services (VOL filings with empty 733 line).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2780** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
