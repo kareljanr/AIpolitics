@@ -30245,3 +30245,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: wgk@vlaanderen.wgk.be — general mailbox ("algemene vragen") verified on official page https://www.witgelekruis.be/contacteer-ons (KBO number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_wgk_federatie_vaph_matrix_9900_2_79m_9901_63k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2743/; rq_2743=done; spawn **rq_2744**; ticks=2743.
 - Next: **rq_2744 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2744 — 2026-10-12T13:29:57Z — rq_2744 leftover dual Dienst voor Gezinszorg De Regenboog Kruibeke YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101 (home care) and 88.911 (childcare) activity and name searches, plus Wit-Gele Kruis associations listed on witgelekruis.be: **Dienst voor Gezinszorg De Regenboog** → KBO 0418.388.912 had 0 prior entity rows.
+- KBO: Actief since 30 maart 1978; VZW; zetel Burchtstraat 61 9150 Beveren-Kruibeke-Zwijndrecht; 1 VE; 0 prior entity rows for 0418.388.912
+- Found: official NBB VOL-VZW native PDF **2026-00237822** (319384 B / 33p; AV 27-05-2026; neergelegd 01/07/2026; MD5 2f26303d357d4b2727741b52eff78ee2). VOL-VZW 733 **EUR3474958** (+6.97%); 62 **EUR4366504**; 9901 **EUR164627** (was 175020); 9904 185167; equity 1814683; cash 817471; FTE 87,1 (was 90,3).
+- FOI address: info@thuiszorgderegenboog.be — general mailbox verified on official page https://www.thuiszorgderegenboog.be/contacteer-ons (KBO number shown).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bkz); FOI **gap_gezinszorg_de_regenboog_kruibeke_vaph_matrix_733_3_47m_9901_165k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2744/; rq_2744=done; spawn **rq_2745**; ticks=2744.
+- Next: **rq_2745 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
