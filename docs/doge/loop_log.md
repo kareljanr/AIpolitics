@@ -32793,3 +32793,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: onthaal.kortrijk@gvo.be — reception mailbox verified on official page https://www.sintvincentius.gvo.be/nl/contact/ (address Houtmarkt 33 matches KBO).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_sint_vincentius_kortrijk_vaph_matrix_733_2_51m_9901_440k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2996/; rq_2996=done; spawn **rq_2997**; ticks=2996.
 - Next: **rq_2997 leftover dual** — Flemish 85.592/87.101/88.911 batch in progress; next: remaining units of this batch.
+
+
+## Tick 2997 — 2026-10-12T18:46:38Z — rq_2997 leftover dual Sint-Monica Oostende YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 85.592 training, 87.101 residential care, 88.911 childcare and related codes in 18 Flemish city postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Sint-Monica** → KBO 0420.500.047 had 0 prior entity rows.
+- KBO: Actief since 23 januari 1980; VZW; zetel Ooievaarslaan 3 8400 Oostende; 3 VE; 0 prior entity rows for 0420.500.047
+- Found: official NBB VOL-VZW native PDF **2026-00194696** (817444 B / 57p; AV 17-06-2026; neergelegd 22/06/2026; MD5 bc9752fcaa4edc0db8646e32b83556f1). VOL-VZW 733 **EUR2497522** (+4.63%); 62 **EUR13385942**; 9901 **EUR896764** (was 617032); 9904 635005; equity 5374477; cash 310498; FTE 179,3 (was 173,7).
+- FOI address: info@st-monica-oostende.be — general mailbox verified on official page https://www.sintmonicaoostende.be/contact (address Ooievaarslaan 3 matches KBO).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oostende); FOI **gap_sint_monica_oostende_vaph_matrix_733_2_50m_9901_897k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2997/; rq_2997=done; spawn **rq_2998**; ticks=2997.
+- Next: **rq_2998 leftover dual** — Flemish 85.592/87.101/88.911 batch in progress; next: remaining units of this batch.

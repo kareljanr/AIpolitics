@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T18:46:28Z,rq_2996,2996,no,tick2996 leftover dual Sint Vincentius Kortrijk 0421.291.388 Strong PDF 2026-00227713 733 2.51m / 9901 440k; next rq_2997 Flemish 85.592/87.101/88.911 batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T18:46:38Z,rq_2997,2997,no,tick2997 leftover dual Sint-Monica Oostende 0420.500.047 Strong PDF 2026-00194696 733 2.50m / 9901 897k; next rq_2998 Flemish 85.592/87.101/88.911 batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
