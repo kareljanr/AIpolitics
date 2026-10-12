@@ -33319,3 +33319,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@detroef.be — general mailbox verified on official page https://detroef.be/contact/ (KBO number shown there).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oud_turnhout); FOI **gap_de_troef_oud_turnhout_vaph_matrix_733_1_61m_9901_loss_344k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3048/; rq_3048=done; spawn **rq_3049**; ticks=3048.
 - Next: **rq_3049 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3049 — 2026-10-12T20:23:41Z — rq_3049 leftover dual Vertrouwenscentrum Kindermishandeling Limburg Genk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (codes 93.191 sport federations, 93.121/93.199 sport, 84.130 public administration of economic affairs, 72.200 social-science research, 94.991 youth/adult associations; ~59 Flemish city and Brussels postcodes) plus rq_3030 leftovers, ranked by YE2025 NBB primary figure; candidates passed a name/alias/KBO/website dedup check against existing entities: **Vertrouwenscentrum Kindermishandeling Limburg** → KBO 0434.599.392 had 0 prior entity rows.
+- KBO: Actief since 4 juli 1987; VZW; zetel Welzijnscampus 19 bus 3 3600 Genk; 1 VE; 0 prior entity rows for 0434.599.392
+- Found: official NBB VKT-VZW native PDF **2026-00244724** (47711 B / 12p; AV 16-06-2026; neergelegd 27/06/2026; MD5 eebfcd1b70d74155691af74f7ba508b2). VKT-VZW 9900 **EUR1489512** (+4.67%); 62 **EUR1308147**; 9901 **EUR90694** (was 88078); 9904 100490; equity 2664295; cash 113886; FTE 16,1 (was 14,3).
+- FOI address: info@vklimburg.be — general mailbox verified on official page https://www.vertrouwenscentrum-kindermishandeling.be/limburg/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_genk); FOI **gap_vk_limburg_vaph_matrix_9900_1_49m_9901_91k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3049/; rq_3049=done; spawn **rq_3050**; ticks=3049.
+- Next: **rq_3050 leftover dual** — Batch done; next: remaining hits below EUR1.49m (e.g. CRISP EUR1.49m) or a new code/public-body extension, largest first, after the dedup check; skipped this batch: Fédération francophone de Gymnastique (no mailbox on its official contact page), Bejaardenzorg KEI (contact page shows another KBO number and no mailbox).
