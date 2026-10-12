@@ -28822,3 +28822,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00276159** (728012 B / 44p; AV 23-06-2026; neergelegd 02/07/2026; MD5 7c7e78307f8209d4173d24cc802b6b37). VOL 70/76A **EUR44013742** (+3.44%); 733 **EUR38325413** (+3.68%); 62 **EUR34576517** (+4.38%); 9901 **EUR3163435** (−7.65%); 9904 3080823 (bestemde fondsen +2954693); equity 49811366 (kapitaalsubsidies 23860064); debt 23350629 (9061 **EUR16487771**); geldbeleggingen 12701594 (was 16101594); FTE 448,6.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 6.20; entities +1 (parent city_brugge); FOI **gap_unie_k_brugge_vaph_matrix_733_38_33m_9901_3_16m_9061_16_49m_l5** prio7 ready (NOT sent) + draft; raw docs/doge/raw/tick2595/; rq_2595=done; spawn **rq_2596**; ticks=2595.
 - Next: **rq_2596 leftover dual** — continue VAPH list scan.
+
+
+## Tick 2596 — 2026-10-12T07:48:47Z — rq_2596 leftover dual Widar Merksplas YE2025 (local fallback runner)
+
+- Hunt: VAPH adreslijst page 61 (background scan): **Widar Merksplas** → KBO 0421.921.492 had 0 prior entity rows. Skipped: Voluntas Merksem (0 NBB deposits), Komoo Leopoldsburg (founded 2025), Woonondersteuning Vlaanderen (YE2024-only, serviceflats), Vereniging Ons Huis Brugge (no KBO found / Mintus-linked).
+- KBO: Actief since 05.04.1981; VZW; zetel Lipseinde 43 2330 Merksplas since 26.06.1992; 4 VE; RSZ NACE 87.202 (huisvesting volwassenen mentale handicap); 0 prior entity rows for 0421.921.492
+- Found: official NBB VOL-VZW native PDF **2026-00408539** (92021 B / 30p; AV 12-06-2026; neergelegd 20/08/2026; MD5 4c9bef8d4ce9c3e54224b44aa92b7850). VOL 70/76A **EUR4975882** (+1.33%); 733 **EUR3934583** (+8.35%); 62 **EUR3794590** (+4.93%); 9901 **EUR219429** (+78%); 9904 175508; equity 3603421; debt 1692148 (>1j **EUR942729**); cash 3073; FTE 55,1.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.60; entities +1 (parent city_merksplas); FOI **gap_widar_merksplas_vaph_matrix_733_3_93m_9901_219k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2596/; rq_2596=done; spawn **rq_2597**; ticks=2596.
+- Next: **rq_2597 leftover dual** — continue VAPH list scan.
