@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T08:54:28Z,every10_2690,2690,no,tick2690 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2690 carried open; source Opgroeien OVBJ Vlaams-Brabant/Brussel list finished; next IBIS then KBO NACE 87/88 (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T09:01:56Z,rq_2690,2691,no,"tick2691 leftover dual Koninklijk Werk IBIS Bredene 0410.392.548 Strong PDF 2026-00218699 9900 5.70m / 9901 116k; next rq_2692 OVBJ leftover re-check across the 5 provincial lists (KBO-number match) in progress; next: remaining re-check leftovers, then KBO NACE 87/88 lists (local fallback runner; Actions cron unreliable)"

@@ -29708,3 +29708,13 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2690 run locally as fallback; 2681+ from a fresh clone after the old local checkout was found reset.
 - Source choice (recorded): ticks 2681-2689 used the Opgroeien OVBJ Vlaams-Brabant/Brussel list (april 2026), now finished. FOI: only addresses verified on an opened official page; named contacts where no general mailbox is published.
 - Next: **rq_2690** — IBIS (verify mailbox on official page); then KBO NACE 87/88 lists.
+
+
+## Tick 2691 — 2026-10-12T09:01:56Z — rq_2690 leftover dual Koninklijk Werk IBIS Bredene YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ West-Vlaanderen list (re-check leftovers): **Koninklijk Werk IBIS** → KBO 0410.392.548 had 0 prior entity rows.
+- KBO: Actief since 27 juli 1927; VZW; zetel Prinses Elisabethlaan 1 8450 Bredene; 3 VE; 0 prior entity rows for 0410.392.548
+- Found: official NBB VKT-VZW native PDF **2026-00218699** (285808 B / 26p; AV 18-06-2026; neergelegd 29/06/2026; MD5 b23e328f21c95bf644606bc4497dd89b). VKT-VZW 9900 **EUR5704155** (+24.50%); 62 **EUR4879704**; 9901 **EUR116426** (was -27272); 9904 67907; equity 4656166; cash 828952; FTE 48,8 (was 42,2).
+- FOI address: info@ibiswerk.be — general mailbox verified on official homepage https://www.ibiswerk.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bredene); FOI **gap_ibis_bredene_vaph_matrix_9900_5_70m_9901_116k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2691/; rq_2690=done; spawn **rq_2692**; ticks=2691.
+- Next: **rq_2692 leftover dual** — OVBJ leftover re-check across the 5 provincial lists (KBO-number match) in progress; next: remaining re-check leftovers, then KBO NACE 87/88 lists.
