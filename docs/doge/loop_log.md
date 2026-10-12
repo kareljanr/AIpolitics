@@ -29568,3 +29568,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00061920** (48321 B / 12p; AV 18-03-2026; neergelegd 25/03/2026; MD5 fb7960ace221158145e99951789b112f). VKT-VZW 9900 **EUR3745597** (+2.71%); 62 **EUR3372494**; 9901 **EUR302605** (was 229594); 9904 306066; equity 2844310; cash 1990815; FTE 43 (was 42).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_houthalen_helchteren); FOI **gap_daidalos_houthalen_helchteren_vaph_matrix_9900_3_75m_9901_303k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2676/; rq_2676=done; spawn **rq_2677**; ticks=2676.
 - Next: **rq_2677 leftover dual** — Opgroeien OVBJ Antwerpen leftovers done; next: OVBJ Vlaams-Brabant/Brussel (PDF needs re-parse), then KBO NACE 87/88 lists.
+
+
+## Tick 2677 — 2026-10-12T08:41:04Z — rq_2677 leftover dual Cirkant Turnhout YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Antwerpen list (mei 2026): **Cirkant** → KBO 0423.592.268 had 0 prior entity rows. NEW: Opgroeien OVBJ Antwerpen list (3 VZWs) after Limburg.
+- KBO: Actief since 4 juli 1982; VZW; zetel Steenweg op Oosthoven 21, 2300 Turnhout; 7 VE; 0 prior entity rows for 0423.592.268
+- Found: official NBB VOL-VZW native PDF **2026-00118364** (9015407 B / 79p; AV 18-05-2026; neergelegd 20/05/2026; MD5 a0dce3ee0244d5fa489986a4dceb0090). VOL-VZW 733 **EUR10602823** (+5.26%); 62 **EUR8875302**; 9901 **EUR595696** (was 425804); 9904 650309; equity 10973229; cash 2959636; FTE 112,5 (was 114,1).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_turnhout); FOI **gap_cirkant_turnhout_vaph_matrix_733_10_60m_9901_596k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2677/; rq_2677=done; spawn **rq_2678**; ticks=2677.
+- Next: **rq_2678 leftover dual** — Opgroeien OVBJ Antwerpen leftovers done; next: OVBJ Vlaams-Brabant/Brussel (PDF needs re-parse), then KBO NACE 87/88 lists.
