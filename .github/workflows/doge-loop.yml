@@ -67,6 +67,15 @@ jobs:
         if: steps.gate.outputs.skip != 'true'
         run: echo "$HOME/.grok/bin" >> "$GITHUB_PATH"
 
+      - name: Restore Grok login
+        if: steps.gate.outputs.skip != 'true'
+        uses: actions/cache@v4
+        with:
+          path: ~/.grok/auth.json
+          key: grok-auth-${{ github.run_id }}
+          restore-keys: |
+            grok-auth-
+
       - name: Tick
         if: steps.gate.outputs.skip != 'true'
         run: bash scripts/cloud-doge-tick.sh

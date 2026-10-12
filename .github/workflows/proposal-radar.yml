@@ -64,6 +64,14 @@ jobs:
       - name: Put grok on PATH
         run: echo "$HOME/.grok/bin" >> "$GITHUB_PATH"
 
+      - name: Restore Grok login
+        uses: actions/cache@v4
+        with:
+          path: ~/.grok/auth.json
+          key: grok-auth-${{ github.run_id }}
+          restore-keys: |
+            grok-auth-
+
       - name: Harvest and refresh the new-ratings note
         run: python docs/proposal-radar/scripts/run_pipeline.py
 

@@ -6,11 +6,14 @@ ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$ROOT"
 
 mkdir -p "${HOME}/.grok"
-if [[ -z "${GROK_AUTH_JSON:-}" ]]; then
+if [[ -s "${HOME}/.grok/auth.json" ]]; then
+  echo "Using the saved Grok login."
+elif [[ -n "${GROK_AUTH_JSON:-}" ]]; then
+  printf '%s' "${GROK_AUTH_JSON}" > "${HOME}/.grok/auth.json"
+else
   echo "Missing GROK_AUTH_JSON." >&2
   exit 1
 fi
-printf '%s' "${GROK_AUTH_JSON}" > "${HOME}/.grok/auth.json"
 chmod 600 "${HOME}/.grok/auth.json"
 unset GROK_AUTH_JSON || true
 
