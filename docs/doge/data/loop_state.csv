@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T14:16:56Z,rq_2784,2784,no,tick2784 leftover dual Amphora Wingene 0833.161.902 Strong PDF 2026-00216483 733 2.21m / 9901 312k; next rq_2785 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T14:17:05Z,rq_2785,2785,no,tick2785 leftover dual Ennea Rustoord Sint-Niklaas 0449.049.919 Strong PDF 2026-00337217 9900 1.65m / 9901 loss 74k; next rq_2786 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

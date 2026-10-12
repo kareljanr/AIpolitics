@@ -30660,3 +30660,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: onthaal.wingene@gvo.be — general mailbox verified on official page https://www.amphora.gvo.be/nl/contact/ (reception mailbox).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_wingene); FOI **gap_amphora_wingene_vaph_matrix_733_2_21m_9901_312k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2784/; rq_2784=done; spawn **rq_2785**; ticks=2784.
 - Next: **rq_2785 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2785 — 2026-10-12T14:17:05Z — rq_2785 leftover dual Ennea Rustoord Sint-Niklaas YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301 (nursing homes) and 88.101 (home care) activity search, West-/Oost-Vlaanderen and Leuven/Limburg postcodes, ranked by primary figure: **Ennea Rustoord** → KBO 0449.049.919 had 0 prior entity rows.
+- KBO: Actief since 23 november 1992; VZW; zetel Lepelhoekstraat 17-19 9100 Sint-Niklaas; 1 VE; 0 prior entity rows for 0449.049.919
+- Found: official NBB VKT-VZW native PDF **2026-00337217** (259315 B / 27p; AV 30-06-2026; neergelegd 23/07/2026; MD5 0927b70d2b21a330c466bc98957ebede). VKT-VZW 9900 **EUR1652570** (+0.87%); 62 **EUR1665950**; 9901 **EUR-73879** (was -104653); 9904 -110886; equity -707490; cash 148109; FTE 24,3 (was 22,8).
+- FOI address: info@ennea.be — general mailbox verified on official page https://www.korian.be/woonzorgcentra/ennea/woonzorgcentrum-ennea/ (operator group site).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_sint_niklaas); FOI **gap_ennea_rustoord_sint_niklaas_vaph_matrix_9900_1_65m_9901_loss_74k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2785/; rq_2785=done; spawn **rq_2786**; ticks=2785.
+- Next: **rq_2786 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
