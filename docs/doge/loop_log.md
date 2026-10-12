@@ -31693,3 +31693,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@mlanderlecht.brussels — general mailbox verified on official page https://mla.brussels/contact/restez-en-contact-avec-nous.html (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_anderlecht); FOI **gap_mission_locale_anderlecht_vaph_matrix_9900_2_48m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2886/; rq_2886=done; spawn **rq_2887**; ticks=2886.
 - Next: **rq_2887 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2887 — 2026-10-12T16:44:12Z — rq_2887 leftover dual Espace Social Télé-Service Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Espace Social Télé-Service** → KBO 0410.748.775 had 0 prior entity rows.
+- KBO: Actief since 1 november 1961; VZW; zetel Slachthuislaan 28 1000 Brussel; 1 VE; 0 prior entity rows for 0410.748.775
+- Found: official NBB VKT-VZW native PDF **2026-00093700** (274505 B / 23p; AV 24-04-2026; neergelegd 29/04/2026; MD5 907d0f30d13506feb81816a517094b4f). VKT-VZW 9900 **EUR2081654** (+4.42%); 62 **EUR1957620**; 9901 **EUR-53004** (was -31702); 9904 -45666; equity 1086834; cash 135945; FTE 33,7 (was 34).
+- FOI address: espacesocial@tele-service.be — general mailbox verified on official page https://espacesocial.be/contact/ (address shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_espace_social_tele_service_bruxelles_vaph_matrix_9900_2_08m_9901_loss_53k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2887/; rq_2887=done; spawn **rq_2888**; ticks=2887.
+- Next: **rq_2888 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
