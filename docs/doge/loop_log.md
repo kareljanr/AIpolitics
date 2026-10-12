@@ -31713,3 +31713,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@freeclinic.be — general mailbox verified on official page https://www.freeclinic.be/ (company number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_free_clinic_ixelles_vaph_matrix_9900_1_88m_9901_175k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2888/; rq_2888=done; spawn **rq_2889**; ticks=2888.
 - Next: **rq_2889 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2889 — 2026-10-12T16:44:30Z — rq_2889 leftover dual Les Petits Riens - Spullenhulp Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Les Petits Riens - Spullenhulp** → KBO 0407.139.088 had 0 prior entity rows.
+- KBO: Actief since 18 juni 1937; VZW; zetel Amerikaanse straat 101 1050 Elsene; 26 VE; 0 prior entity rows for 0407.139.088
+- Found: official NBB VOL-VZW native PDF **2026-00276235** (583915 B / 53p; AV 07-05-2026; neergelegd 06/07/2026; MD5 211771e34206001f63dd9264fc3825ab). VOL-VZW 733 **EUR1862729** (+42.43%); 62 **EUR10701648**; 9901 **EUR167236** (was 189420); 9904 961; equity 15692801; cash 457815; FTE 241,7 (was 262,7).
+- FOI address: info@petitsriens.be — general mailbox verified on official page https://www.petitsriens.be/contact (company number shown).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_petits_riens_bruxelles_vaph_matrix_733_1_86m_9901_167k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2889/; rq_2889=done; spawn **rq_2890**; ticks=2889.
+- Next: **rq_2890 leftover dual** — Batch done; next: remaining fresh-scan hits (Les Petits Riens EUR1.86m mailbox verified; Mission Locale Saint-Gilles, Centre d'aide aux personnes, Wolu-Services, Centre de Guidance d'Ixelles), larger first; skipped this batch: FARES (contact page has only a form; mailboxes found only on third-party pages).
