@@ -29990,3 +29990,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@leefvzw.be — general mailbox verified on official page https://www.leefvzw.be/contact (address confirmed).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ranst); FOI **gap_leef_ranst_vaph_matrix_733_4_73m_9901_97k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2718/; rq_2718=done; spawn **rq_2719**; ticks=2718.
 - Next: **rq_2719 leftover dual** — KBO NACE 87.20x (residential disability/psychiatric care) scan in progress; next: remaining 87.201/87.202/87.203 units (spare Philippus Neri 0410.505.582 Sint-Niklaas, check odd 2024 loss), then 88.994 welzijnswerk and 87.301.
+
+
+## Tick 2719 — 2026-10-12T09:27:18Z — rq_2719 leftover dual Albe Kapellen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.201/87.202/87.203 activity search (residential care for persons with a disability / psychiatric problems): **Albe** → KBO 0420.943.376 had 0 prior entity rows.
+- KBO: Actief since 6 november 1980; VZW; zetel Lobelialaan 14 2950 Kapellen; 1 VE; 0 prior entity rows for 0420.943.376
+- Found: official NBB VOL-VZW native PDF **2026-00161098** (683676 B / 46p; AV 08-06-2026; neergelegd 15/06/2026; MD5 473c95ac2490dc868fbda5a955c0f44b). VOL-VZW 733 **EUR4628374** (+8.70%); 62 **EUR4264053**; 9901 **EUR464890** (was 518704); 9904 479553; equity 6112348; cash 1529242; FTE 54,4 (was 51,1).
+- FOI address: info@albevzw.be — general mailbox verified on official page https://www.albevzw.be/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent sec_flanders); FOI **gap_albe_kapellen_vaph_matrix_733_4_63m_9901_465k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2719/; rq_2719=done; spawn **rq_2720**; ticks=2719.
+- Next: **rq_2720 leftover dual** — KBO NACE 87.20x scan done for main Flemish postcodes (rest: no filing, no YE2025 filing or BV); next: Philippus Neri 0410.505.582 (verify odd 2024 loss), then NACE 88.994 welzijnswerk and 87.301.
