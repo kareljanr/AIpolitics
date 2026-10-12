@@ -29164,3 +29164,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00107964** (1092361 B / 39p; AV 06-05-2026; neergelegd 11/05/2026; MD5 7167473290cec63a7ad9aa88d5a425f2). VOL-VZW 733 **EUR8013008** (+8.86%); 62 **EUR7553808**; 9901 **EUR-81054** (was 274138); 9904 259559; equity 10987257; cash 38541; FTE 117,7 (was 112,5).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_koraal_antwerpen_vaph_matrix_733_8_01m_9901_loss_81k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2632/; rq_2632=done; spawn **rq_2633**; ticks=2632.
 - Next: **rq_2633 leftover dual** — continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists.
+
+
+## Tick 2633 — 2026-10-12T08:22:03Z — rq_2633 leftover dual i-mens Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien CKG contact list (april 2026): **i-mens** → KBO 0416.603.716 had 0 prior entity rows. Last entry of the Opgroeien CKG list.
+- KBO: Actief since 28 september 1976; VZW; zetel Tramstraat 61, 9052 Gent; 99 VE; 0 prior entity rows for 0416.603.716
+- Found: official NBB VOL-VZW native PDF **2026-00270103** (713932 B / 55p; AV 19-06-2026; neergelegd 06/07/2026; MD5 919fc3e251c5dab994b1cdbe18e7eb9a). VOL-VZW 733 **EUR305568760** (+4.09%); 62 **EUR351357125**; 9901 **EUR9325716** (was 5887614); 9904 11797375; equity 69212277; cash 8666422; .
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_i_mens_gent_vaph_matrix_733_305_57m_9901_9_33m_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2633/; rq_2633=done; spawn **rq_2634**; ticks=2633.
+- Next: **rq_2634 leftover dual** — continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists.
