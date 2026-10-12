@@ -1,0 +1,1049 @@
+2026-00438191      0882864801   2025   EUR   23.0.10    m08-f      25/08/2026   21                         MIC-VZW 1
+
+
+
+
+                           JAARREKENING EN ANDERE OVEREENKOMSTIG
+                             HET WETBOEK VAN VENNOOTSCHAPPEN EN
+                           VERENIGINGEN NEER TE LEGGEN DOCUMENTEN
+
+
+
+IDENTIFICATIEGEGEVENS (op datum van de neerlegging)
+
+Naam :               Eigen Kracht Centrale
+Rechtsvorm :         Vereniging zonder winstoogmerk
+Adres :     Gelbergenstraat                                                Nr : 48                Bus :
+Postnummer : 3471                  Gemeente :     Hoeleden
+Land :    België
+Rechtspersonenregister (RPR) - Ondernemingsrechtbank van          Leuven
+Internetadres :
+E-mailadres :
+
+
+
+                                                                Ondernemingsnummer             0882.864.801
+
+
+
+Datum van de neerlegging van het recentste stuk dat de datum van bekendmaking van de
+                                                                                                      22-05-2024
+oprichtingsakte en van de akte tot statutenwijziging vermeldt
+
+
+
+JAARREKENING in            EURO         goedgekeurd door de algemene vergadering van          27-05-2026
+
+
+    met betrekking tot het boekjaar dat de periode dekt van          01-01-2025      tot     31-12-2025
+
+
+                                        Vorig boekjaar van           01-01-2024      tot     31-12-2024
+
+
+De bedragen van het vorige boekjaar zijn identiek met die welke eerder openbaar werden gemaakt.
+
+
+
+Nummers van de secties van het standaardmodel die niet werden neergelegd omdat ze niet dienstig zijn :
+
+ MIC-VZW 6.1.1, MIC-VZW 6.1.3, MIC-VZW 6.2, MIC-VZW 6.3, MIC-VZW 8
+
+
+
+
+                                                                                                            Page 1 of 21
+N°      0882864801                                                                                                     MIC-VZW 2
+
+
+                                     LIJST VAN DE BESTUURDERS EN COMMISSARISSEN
+
+
+
+
+LIJST VAN DE BESTUURDERS EN COMMISSARISSEN
+
+VOLLEDIGE LIJST met naam, voornamen, beroep, woonplaats (adres, nummer, postnummer en gemeente) en functie in de vereniging
+of stichting
+
+
+
+De Deyn Johan
+Parklaan 57 6
+9300 Aalst
+BELGIË
+Begin van het mandaat : 2024-03-06         Einde van het mandaat : 2028-03-06     Bestuurder
+
+
+De Belder Monique
+De Romboutweg 21
+2930 Brasschaat
+BELGIË
+Begin van het mandaat : 2019-04-23         Einde van het mandaat : 2028-03-06     Bestuurder
+
+
+Noyen Nahid
+Fazantenlaan 31
+1653 Dworp
+BELGIË
+Begin van het mandaat : 2023-11-15         Einde van het mandaat : 2027-11-15     Bestuurder
+
+
+Van Damme Wilfired
+Admiraal de Boisotstraat 10
+2000 Antwerpen
+BELGIË
+Begin van het mandaat : 2016-02-08         Einde van het mandaat : 2028-03-06     Voorzitter van de Raad van Bestuur
+
+
+Verpoorten Yvonne
+Oude Baan 4
+3290 Diest
+BELGIË
+Begin van het mandaat : 2024-03-06         Einde van het mandaat : 2028-03-06     Bestuurder
+
+
+
+
+                                                                                                                        Page 2 of 21
+N°      0882864801                                                                              MIC-VZW 3.1
+
+
+                                              JAARREKENING
+
+
+
+BALANS NA WINSTVERDELING
+
+                                                      Toel.     Codes   Boekjaar             Vorig boekjaar
+
+ ACTIVA
+                                                               20
+ OPRICHTINGSKOSTEN
+ VASTE ACTIVA                                                  21/28                   522                     782
+                                                       6.1.1   21
+ Immateriële vaste activa
+
+ Materiële vaste activa                                6.1.2   22/27                   522                     782
+     Terreinen en gebouwen                                     22
+
+     Installaties, machines en uitrusting                      23                     522                     782
+     Meubilair en rollend materieel                            24
+
+     Leasing en soortgelijke rechten                           25
+
+     Overige materiële vaste activa                            26
+
+     Activa in aanbouw en vooruitbetalingen                    27
+
+                                                       6.1.3   28
+ Financiële vaste activa
+
+ VLOTTENDE ACTIVA                                              29/58               617.966               587.515
+                                                               29
+ Vorderingen op meer dan één jaar
+     Handelsvorderingen                                        290
+
+     Overige vorderingen                                       291
+
+                                                               3
+ Voorraden en bestellingen in uitvoering
+     Voorraden                                                 30/36
+
+     Bestellingen in uitvoering                                37
+
+ Vorderingen op ten hoogste één jaar                           40/41               168.768               137.580
+     Handelsvorderingen                                        40                  168.299              137.111
+     Overige vorderingen                                       41                     469                     469
+                                                               50/53
+ Geldbeleggingen
+
+ Liquide middelen                                              54/58               449.148               444.732
+
+ Overlopende rekeningen                                        490/1                    50                    5.203
+
+ TOTAAL VAN DE ACTIVA                                          20/58               618.488               588.297
+
+
+
+
+                                                                                                      Page 3 of 21
+N°      0882864801                                                                                                         MIC-VZW 3.2
+
+                                                                                 Toel.    Codes   Boekjaar              Vorig boekjaar
+
+ PASSIVA
+ EIGEN VERMOGEN                                                                          10/15                334.354               274.940
+                                                                                         10
+ Fondsen van de vereniging of stichting
+                                                                                         12
+ Herwaarderingsmeerwaarden
+
+ Bestemde fondsen en andere reserves                                                     13                   296.381               264.381
+
+ Overgedragen winst (verlies)                                          (+)/(-)           14                    37.973                    10.559
+                                                                                         15
+ Kapitaalsubsidies
+                                                                                         16
+ VOORZIENINGEN EN UITGESTELDE BELASTINGEN
+                                                                                         160/5
+ Voorzieningen voor risico's en kosten
+     Pensioenen en soortgelijke verplichtingen                                           160
+
+     Belastingen                                                                         161
+
+     Grote herstellings- en onderhoudswerken                                             162
+
+     Milieuverplichtingen                                                                163
+
+     Overige risico's en kosten                                                          164/5
+
+ Voorzieningen voor terug te betalen subsidies en legaten en                             167
+ voor schenkingen met terugnemingsrecht
+                                                                                         168
+ Uitgestelde belastingen
+
+ SCHULDEN                                                                                17/49                284.134               313.357
+                                                                                         17
+ Schulden op meer dan één jaar
+     Financiële schulden                                                                 170/4
+
+       Kredietinstellingen, leasingschulden en soortgelijke schulden                     172/3
+
+       Overige leningen                                                                  174/0
+
+     Handelsschulden                                                                     175
+
+     Vooruitbetalingen op bestellingen                                                   176
+
+     Overige schulden                                                                    178/9
+
+ Schulden op ten hoogste één jaar                                                        42/48                208.564               149.007
+     Schulden op meer dan één jaar die binnen het jaar vervallen                         42
+
+     Financiële schulden                                                                 43
+
+       Kredietinstellingen                                                               430/8
+
+       Overige leningen                                                                  439
+
+     Handelsschulden                                                                     44                  141.587               100.499
+       Leveranciers                                                                      440/4          141.587                  100.499
+       Te betalen wissels                                                                441
+
+     Vooruitbetalingen op bestellingen                                                   46
+
+     Schulden met betrekking tot belastingen, bezoldigingen en                           45                   66.977                 48.358
+     sociale lasten
+       Belastingen                                                                       450/3                   5                         5
+       Bezoldigingen en sociale lasten                                                   454/9               66.972                48.353
+     Overige schulden                                                                    48                                               150
+
+ Overlopende rekeningen                                                                  492/3                 75.570               164.350
+
+ TOTAAL VAN DE PASSIVA                                                                   10/49                618.488               588.297
+
+
+
+
+                                                                                                                                 Page 4 of 21
+N°      0882864801                                                                                                         MIC-VZW 4
+
+
+RESULTATENREKENING
+
+                                                                                        Codes    Boekjaar            Vorig boekjaar
+
+ Bedrijfsopbrengsten en bedrijfskosten
+     Brutomarge                                                               (+)/(-)   9900            641.575                 473.140
+       Waarvan: niet-recurrente bedrijfsopbrengsten                                     76A
+
+       Omzet                                                                            70
+
+       Lidgeld, schenkingen, legaten en subsidies                                       73
+
+       Handelsgoederen, grond- en hulpstoffen, diensten en diverse goederen             60/61
+
+     Bezoldigingen, sociale lasten en pensioenen                              (+)/(-)   62              583.002                 481.620
+     Afschrijvingen en waardeverminderingen op oprichtingskosten, op                    630                  260                       260
+     immateriële en materiële vaste activa
+     Waardeverminderingen op voorraden, op bestellingen in uitvoering en op   (+)/(-)   631/4
+     handelsvorderingen: toevoegingen (terugnemingen)
+     Voorzieningen voor risico's en kosten: toevoegingen (bestedingen en      (+)/(-)   635/9
+     terugnemingen)
+     Andere bedrijfskosten                                                              640/8
+
+     Als herstructureringskosten geactiveerde bedrijfskosten                      (-)   649
+
+     Niet-recurrente bedrijfskosten                                                     66A
+
+ Bedrijfswinst (Bedrijfsverlies)                                              (+)/(-)   9901                58.313                    -8.739
+
+ Financiële opbrengsten                                                                 75/76B               1.251                    1.013
+     Recurrente financiële opbrengsten                                                  75                  1.251                     1.013
+     Niet-recurrente financiële opbrengsten                                             76B
+
+ Financiële kosten                                                                      65/66B                150                       101
+     Recurrente financiële kosten                                                       65                   150                       101
+     Niet-recurrente financiële kosten                                                  66B
+
+ Winst (Verlies) van het boekjaar vóór belasting                              (+)/(-)   9903                59.414                    -7.827
+                                                                                        780
+ Onttrekking aan de uitgestelde belastingen
+                                                                                        680
+ Overboeking naar de uitgestelde belastingen
+                                                                              (+)/(-)   67/77
+ Belastingen op het resultaat
+
+ Winst (Verlies) van het boekjaar                                             (+)/(-)   9904                59.414                    -7.827
+                                                                                        789
+ Onttrekking aan de belastingvrije reserves
+                                                                                        689
+ Overboeking naar de belastingvrije reserves
+
+ Te bestemmen winst (verlies) van het boekjaar                                (+)/(-)   9905                59.414                    -7.827
+
+
+
+
+                                                                                                                              Page 5 of 21
+N°      0882864801                                                                                               MIC-VZW 5
+
+
+RESULTAATVERWERKING
+
+                                                                               Codes   Boekjaar            Vorig boekjaar
+
+ Te bestemmen winst (verlies)                                       (+)/(-)   9906                69.973                    48.559
+     Te bestemmen winst (verlies) van het boekjaar                  (+)/(-)   (9905)              59.414                -7.827
+     Overgedragen winst (verlies) van het vorige boekjaar           (+)/(-)   14P                 10.559               56.386
+
+ Onttrekking aan het eigen vermogen: fondsen, bestemde fondsen en             791                                           12.000
+ andere reserves
+
+ Toevoeging aan de bestemde fondsen en andere reserves                        691                 32.000                    50.000
+
+ Over te dragen winst (verlies)                                     (+)/(-)   (14)                37.973                    10.559
+
+
+
+
+                                                                                                                    Page 6 of 21
+N°      0882864801                                                                                           MIC-VZW 6.1.2
+
+
+TOELICHTING
+
+STAAT VAN DE VASTE ACTIVA
+
+                                                                                 Codes    Boekjaar           Vorig boekjaar
+
+ MATERIËLE VASTE ACTIVA
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8199P     XXXXXXXXXX                          3.976
+
+ Mutaties tijdens het boekjaar
+     Aanschaffingen, met inbegrip van de geproduceerde vaste activa             8169
+
+     Overdrachten en buitengebruikstellingen                                    8179
+
+     Overboekingen van een post naar een andere                       (+)/(-)   8189
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8199                 3.976
+
+ Meerwaarden per einde van het boekjaar                                         8259P     XXXXXXXXXX
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                                    8219
+
+     Verworven van derden                                                       8229
+
+     Afgeboekt                                                                  8239
+
+     Overgeboekt van een post naar een andere                         (+)/(-)   8249
+
+                                                                                8259
+ Meerwaarden per einde van het boekjaar
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8329P     XXXXXXXXXX                          3.194
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                                    8279                 260
+     Teruggenomen                                                               8289
+
+     Verworven van derden                                                       8299
+
+     Afgeboekt na overdrachten en buitengebruikstellingen                       8309
+
+     Overgeboekt van een post naar een andere                         (+)/(-)   8319
+
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8329                 3.454
+
+ NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR                                     (22/27)               522
+
+ WAARVAN
+     In volle eigendom van de vereniging of stichting                           8349
+
+
+
+
+                                                                                                                      Page 7 of 21
+N°        0882864801                                                                                                                                       MIC-VZW 6.4
+
+
+SOCIALE BALANS
+
+
+
+
+Nummers van de paritaire comités die voor de vereniging of stichting bevoegd zijn:
+
+
+
+
+WERKNEMERS WAARVOOR DE VERENIGING OF STICHTING EEN DIMONA-VERKLARING HEEFT INGEDIEND OF DIE ZIJN
+INGESCHREVEN IN HET ALGEMEEN PERSONEELSREGISTER
+
+
+
+
+                                                                                                                      3. Totaal (T) of totaal in 3P. Totaal (T) of totaal in
+                                                                1. Voltijds                 2. Deeltijds               voltijdse equivalenten     voltijdse equivalenten
+                                              Codes                                                                             (VTE)                      (VTE)
+Tijdens het boekjaar en het vorige                              (boekjaar)                   (boekjaar)
+boekjaar                                                                                                                     (boekjaar)               (vorig boekjaar)
+Gemiddeld aantal werknemers                   100                                    2                          7,3                          6,5                         6,2
+Aantal daadwerkelijk gepresteerde uren        101                               2.271                        6.932                         9.203                      4.234
+Personeelskosten                              102                             171.767                      331.290                       503.057                    230.522
+
+
+
+
+                                                                                                                                                   3. Totaal in voltijdse
+                                                                      Codes              1. Voltijds                      2. Deeltijds
+Op de afsluitingsdatum van het boekjaar                                                                                                                equivalenten
+Aantal werknemers                                                    105                                    2                                8                           7,2
+
+Volgens de aard van de arbeidsovereenkomst
+     Overeenkomst voor een onbepaalde tijd                           110                                    2                                5                              5
+     Overeenkomst voor een bepaalde tijd                             111                                                                     2                           1,6
+     Overeenkomst voor een duidelijk omschreven werk                 112
+     Vervangingsovereenkomst                                         113
+
+Volgens het geslacht en het studieniveau
+     Mannen                                                          120                                                                     1                           0,8
+          lager onderwijs                                            1200
+          secundair onderwijs                                        1201
+          hoger niet-universitair onderwijs                          1202                                                                    1                           0,8
+          universitair onderwijs                                     1203
+     Vrouwen                                                         121                                    2                                7                           6,4
+          lager onderwijs                                            1210
+          secundair onderwijs                                        1211                                   1                                2                           2,5
+          hoger niet-universitair onderwijs                          1212                                   1                                4                           3,3
+          universitair onderwijs                                     1213                                                                    1                           0,6
+
+Volgens de beroepscategorie
+     Directiepersoneel                                               130
+     Bedienden                                                       134                                    2                                8                           7,2
+     Arbeiders                                                       132
+     Andere                                                          133
+
+
+
+
+                                                                                                                                                               Page 8 of 21
+N°        0882864801                                                                                                                       MIC-VZW 6.4
+
+
+TABEL VAN HET PERSONEELSVERLOOP TIJDENS HET BOEKJAAR
+
+
+
+
+                                                                                                                                    3. Totaal in voltijdse
+                                                                             Codes    1. Voltijds            2. Deeltijds
+INGETREDEN                                                                                                                              equivalenten
+Aantal werknemers waarvoor de vereniging of stichting tijdens het
+boekjaar een DIMONA-verklaring heeft ingediend of die tijdens het
+boekjaar werden ingeschreven in het algemeen personeelsregister              205                                                3                        1,5
+
+UITGETREDEN
+Aantal werknemers met een in de DIMONA-verklaring aangegeven of
+een in het algemeen personeelsregister opgetekende datum waarop
+hun overeenkomst tijdens het boekjaar een einde nam                          305                                                2                            1
+
+
+
+
+INLICHTINGEN OVER DE OPLEIDINGEN VOOR DE WERKNEMERS TIJDENS HET BOEKJAAR
+
+
+
+
+                                                                                     Codes          Mannen              Codes             Vrouwen
+
+Totaal van de formele voortgezette beroepsopleidingsinitiatieven ten laste
+van de werkgever
+     Aantal betrokken werknemers                                                     5801                               5811
+     Aantal gevolgde opleidingsuren                                                  5802                               5812
+     Nettokosten voor de vereniging of stichting                                     5803                               5813
+          waarvan brutokosten rechtstreeks verbonden met de opleiding                58031                              58131
+          waarvan betaalde bijdragen en stortingen aan collectieve fondsen           58032                              58132
+          waarvan ontvangen tegemoetkomingen (in mindering)                          58033                              58133
+
+Totaal van de minder formele en informele voortgezette
+beroepsopleidingsinitiatieven ten laste van de werkgever
+     Aantal betrokken werknemers                                                     5821                               5831
+     Aantal gevolgde opleidingsuren                                                  5822                               5832
+     Nettokosten voor de vereniging of stichting                                     5823                               5833
+
+Totaal van de initiële beroepsopleidingsinitiatieven ten laste van de
+werkgever
+     Aantal betrokken werknemers                                                     5841                               5851
+     Aantal gevolgde opleidingsuren                                                  5842                               5852
+     Nettokosten voor de vereniging of stichting                                     5843                               5853
+
+
+
+
+                                                                                                                                                Page 9 of 21
+N°   0882864801     MIC-VZW 6.5
+
+
+WAARDERINGSREGELS
+
+
+
+
+                      Page 10 of 21
+Samenvatting van de waarderingsregels
+
+                                    Eigen Kracht Centrale Vzw
+
+                                        Gelbergenstraat 48
+
+                                           3471 Hoeleden
+
+                                       KBO nr 0882.864.801
+
+                                           RPR-te LEUVEN
+
+
+
+
+I. Algemene beginselen
+De waarderingsregels worden vastgesteld overeenkomstig de bepalingen van artikel 3:6. § 1 van het
+koninklijk besluit van 29 april 2019 tot uitvoering van het Wetboek van vennootschappen en
+verenigingen en artikel III.89, § 1 van het wetboek van Economisch recht.
+
+Ten behoeve van het getrouwe beeld, werd in de volgende uitzonderingsgevallen afgeweken van de
+bij dit besluit bepaalde waarderingsregels: NVT
+
+Deze afwijkingen worden als volgt verantwoord: NVT
+
+Deze afwijkingen beïnvloeden als volgt het vermogen, de financiële positie en het resultaat vóór
+belasting van de onderneming: NVT
+
+De waarderingsregels [werden] [werden niet] ten opzichte van het voorgaande boekjaar qua
+verwoording of toepassing gewijzigd;
+
+De resultatenrekening [wordt] [wordt niet] op belangrijke wijze beïnvloed door opbrengsten en
+kosten die aan een voorgaand boekjaar moeten worden toegerekend;
+
+De cijfers van het boekjaar zijn niet vergelijkbaar met die van het voorgaande boekjaar en wel om de
+volgende reden:
+
+[Voor de vergelijkbaarheid worden de cijfers van het voorgaande boekjaar op volgende punten
+aangepast: NVT
+
+Voor de vergelijking van de jaarrekeningen van beide boekjaren moet met volgende elementen
+rekening worden gehouden: NVT
+
+Bij gebrek aan objectieve beoordelingscriteria, is de waardering van de voorzienbare risico's,
+mogelijke verliezen en ontwaardingen waarvan hierna sprake, onvermijdelijk aleatoir: NVT
+
+Andere inlichtingen die noodzakelijk zijn opdat de jaarrekening een getrouw beeld zou geven van het
+vermogen, de financiële positie en het resultaat van de onderneming: NVT
+
+
+
+
+                                                                                                       Page 11 of 21
+II. Bijzondere regels
+Oprichtingskosten:
+De oprichtingskosten worden onmiddellijk ten laste genomen behoudens de volgende kosten die in
+het actief worden opgenomen: NVT
+
+
+
+Herstructureringskosten:
+De herstructureringskosten [werden] [werden niet] in het actief opgenomen in de loop van het
+boekjaar; zo ja, dan wordt hun opname in het actief als volgt verantwoord: NVT
+
+
+
+Immateriële vaste activa:
+Het bedrag in het actief van de immateriële vaste activa bevat EUR kosten voor onderzoek en
+ontwikkeling.
+
+De afschrijvingstermijn voor deze kosten en voor de goodwill [beloopt] [beloopt niet] meer dan 5
+jaar; zo ja, dan wordt hun herwaardering als volgt verantwoord: NVT
+
+
+
+Materiële vaste activa:
+In de loop van het boekjaar [werden] [werden geen] materiële vaste activa geherwaardeerd; zo ja,
+dan wordt hun herwaardering als volgt verantwoord: NVT
+
+Afschrijvingen geboekt tijdens het boekjaar:
+
+                                                    Basis             Afschrijvingspercentage
+                                   Methode
+                                                    NG (niet-geher-                   Bijkomende
+                                   L (Lineair)
+ Activa                                             waardeerd)        Hoofdsom        kosten
+                                   D (Degressief)
+                                                    G (geher-         Min - Max       Min - Max
+                                   A (Andere)
+                                                    waardeerd)
+ 1. Oprichtingskosten
+ 2. Immateriële vaste activa
+ 3. Industriële, administratieve
+ of commerciële gebouwen *
+ 4. Installaties, machines en
+                                          L               NG          20,00-20,00
+ uitrusting *
+ 5. Rollend materieel*
+ 6. Kantoormaterieel en
+ meubilair*
+ 7. Overige materiële vaste
+ activa*
+
+
+
+
+                                                                                                   Page 12 of 21
+* Met inbegrip van activa aangehouden in leasing; voor deze activa moet in voorkomend geval een
+afzonderlijke lijn worden opgemaakt.
+
+Overschot aan toegepaste, fiscaal aftrekbare, versnelde afschrijvingen ten opzichte van de
+economisch verantwoorde afschrijvingen: NVT
+
+    -   Bedrag voor het boekjaar: xxxxx EUR
+    -   Gecumuleerd bedrag voor de vaste activa verworven vanaf het boekjaar dat op 31 december
+        1983 begint: xxxxxx EUR
+
+
+
+Financiële vaste activa:
+In de loop van het boekjaar [werden] [werden geen] deelnemingen geherwaardeerd; zo ja, dan wordt
+deze herwaardering als volgt verantwoord: NVT
+
+
+
+Voorraden:
+De voorraden worden gewaardeerd tegen aanschaffingswaarde die, rekening houdend met de
+voorraadbewegingen volgens de (te vermelden) methode van de gewogen gemiddelde prijs, of FIFO
+of LIFO, of individualisering van de prijs wordt berekend, of tegen marktwaarde als die lager is: NVT
+
+1. Grond- en hulpstoffen:……..(in te vullen)
+
+2. Goederen in bewerking - gereed product:……..(in te vullen)
+
+3. Handelsgoederen : :…….. (in te vullen)
+
+4. Onroerende goederen bestemd voor verkoop:……..(in te vullen)
+
+5. Geproduceerde goederen:
+
+    -   De vervaardigingsprijs van de producten waarvan de productie meer dan één jaar beslaat,
+        [omvat] [omvat geen] financiële kosten verbonden aan de kapitalen ontleend om de
+        productie ervan te financieren.
+
+Bij het einde van het boekjaar, bedraagt de totale marktwaarde van de voorraden ongeveer % meer
+dan hun boekwaarde.
+
+(Deze inlichting is slechts vereist zo het verschil belangrijk is).
+
+    -   Bestellingen in uitvoering:
+
+De bestellingen in uitvoering worden gewaardeerd [xxxxxxxxxxxxxxxxxx] [tegen vervaardigingsprijs
+vermeerderd met een evenredig bedrag van het resultaat al naargelang de voortgang van het werk].
+
+In overeenstemming met de bepalingen van artikel 3:49, tweede lid van het KB 29 april 2019,
+vermeldt het bestuursorgaan de in de rekeningen 37 en 46 opgenomen bedragen vóór de vaststelling
+van het saldo.
+
+
+
+
+                                                                                                        Page 13 of 21
+Rekening 37 bedraagt €…… terwijl rekening 46 €……. bedraagt.
+
+
+
+Schulden:
+Het passief [bevat] [bevat geen] schulden op lange termijn, zonder rente of met een abnormaal lage
+rente; zo ja, dan wordt op deze schulden [een] [geen] disconto toegepast dat in het actief wordt
+opgenomen.
+
+
+
+Vreemde valuta:
+De omrekening in EUR van tegoeden, schulden en verbintenissen in vreemde valuta gebeurt op
+volgende grondslagen: NVT
+
+De resultaten uit de omrekening van vreemde valuta zijn als volgt in de jaarrekening verwerkt:……..(in
+te vullen)
+
+
+
+
+                                                                                                        Page 14 of 21
+N°   0882864801                                                    MIC-VZW 7
+
+
+                      ANDERE OVEREENKOMSTIG HET WETBOEK VAN
+                  VENNOOTSCHAPPEN EN VERENIGINGEN NEER TE LEGGEN
+                                   DOCUMENTEN
+
+
+
+JAARVERSLAG
+
+
+
+
+                                                                   Page 15 of 21
+Verslag van de Gewone Algemene Vergadering (GAV) en Buitengewone Algemene Vergadering (BAV) EK© 27
+mei 2026 – 6 pagina’s, achteraan gehandtekend ter goedkeuring door de voorzitter Wilfried Van Damme
+
+Deze vergaderingen waren live gepland in De Blauwput, vlak achter het station in Leuven. Maar vlak ervoor was
+er daar een bomalarm: er stopten geen treinen meer en de omgeving was beperkt toegankelijk. Daarom is er
+na snel telefonisch contact met de leden besloten om alles om 19:30 digitaal te laten doorgaan.
+
+1.   Welkom door de voorzitter a.i. Monique. Omdat Wilfried verontschuldigd was nam statutair Monique het
+     voorzitterschap over.
+
+2.   Vaststelling van het quorum voor de GAV en de BAV:
+     Aanwezigen:
+         o Aanwezig in de digitale AV’s (7 leden):
+                     i. Herwig Janssens                                   v. Nahid Noyen
+                    ii. Ian Willems                                      vi. Stijn Moons
+                   iii. Mattias Bouckaert                               vii. Suzan Langenberg
+                   iv. Monique De Belder
+         o Aanwezig door een digitale stem vooraf: (2)
+                     i. Elsie Callaert                                    ii. Wilfried Van Damme
+         o Afwezig maar vertegenwoordigd door een volmacht aan het bestuur (3):
+                     i. Johan De Deyn                                    iii. Yvonne Verpoorten
+                    ii. Noël Depester
+         o Verontschuldigd door overmacht op het laatste moment (geen volmacht of digitale stem) (2)
+                     i. Gaby Jennes                                       ii. Geertrui Windels
+         o Ontslag gegeven voor de vergadering (1)
+                     i. An Sprangers (per mail dd. 19 mei ‘26)
+         o Aanwezig zonder stemrecht:
+                     i. Mirjam Beyers (directie dagelijks bestuur)
+                    ii. Liesbeth Bouckaert (teamlid en verslagnemer)
+         Het quorum voor de GAV én de BAV werd dus behaald (12 leden op de 14)
+
+3.   Incheck en engagement
+     A. Monique is sinds 8 à 9 jaar actief binnen de Raad van Bestuur. Wat haar sterk aanspreekt binnen EK©
+         is het geloof in de kracht en veerkracht van mensen en de overtuiging dat mensen veel voor elkaar
+         kunnen betekenen. Ze benadrukt het belang van verbinding en het opnieuw vinden van kracht via het
+         eigen netwerk. Daarnaast waardeert ze de samenwerking binnen het team. De Europese meeting in
+         Drongen heeft haar enthousiasme voor EK© verder versterkt.
+     B. Herwig volgde eind 2009 de eerste opleiding en maakte toen ook zijn eerste conferentie mee. Die er-
+         varing blijft voor hem tot vandaag een belangrijke inspiratiebron. Momenteel neemt hij vooral een on-
+         dersteunende rol als supporter op, aangezien hij zijn activiteiten als EK-coördinator heeft afgebouwd.
+     C. Nahid maakt sinds drie jaar deel uit van de Raad van Bestuur. Zij startte met de opleiding en werd na-
+         dien actief als EK-coördinator. De missie van EK© en het vertrouwen in mensen vormen voor haar be-
+         langrijke motivaties. Daarnaast waardeert ze de warme contacten met vrijwilligers en de transparante,
+         eenvoudige en eerlijke manier van werken. Ze benadrukt ook het innovatieve karakter van EK©, onder
+         meer via initiatieven zoals stroomkringen, waardoor ze zelf blijft bijleren.
+     D. Mattias, directeur binnen de jeugdzorg, was betrokken bij de opstart van EK©. Hij benadrukt de kracht
+         van mensen die iets voor elkaar willen betekenen en ziet EK© als een laagdrempelig platform dat dit
+         op een fundamentele manier mogelijk maakt. Hij volgt de organisatie nog steeds op de voet en leest
+         jaarlijks het jaarverslag.
+     E. Suzan is via Mirjam sinds de opstart betrokken bij EK©. Vanuit haar achtergrond als filosoof benadrukt
+         zij het belang van vertrouwen in de veerkracht en creativiteit van burgers. Ze stelt vast dat maatschap-
+         pelijke tendensen dit vertrouwen soms onder druk zetten, terwijl EK© net vertrekt vanuit het geloof
+         dat burgers zelf oplossingen kunnen creëren. Ze spreekt haar bewondering uit voor wat de organisa-
+         tie in de voorbije 23 jaar heeft gerealiseerd.
+
+EK© Eigen Kracht Centrale v.z.w.                           1/6                                     0489 45 54 13
+secretariaat: Gelbergenstraat 48, 3471 Kortenaken   www.eigenkrachtcentrale.be        info@eigenkrachtcentrale.be
+
+
+
+                                                                                                                    Page 16 of 21
+     F.   Stijn geeft aan dat EK© een belangrijke invloed heeft gehad op zijn leven, onder meer doordat hij deel
+          uitmaakte van de staf. Het gedachtegoed van EK© sluit sterk aan bij zijn persoonlijke en professionele
+          waarden als maatschappelijk werker, met aandacht voor positivisme, burgerinitiatief en de overtuiging
+          dat verandering mogelijk is. Hij beschouwt EK© als een waardevolle tegenstem in de samenleving en
+          wil zich als vrijwilliger blijven inzetten vanuit zijn betrokkenheid en sympathie voor de organisatie.
+     G.   Mirjam benadrukt het belang van het recht van mensen om samen met hun netwerk na te denken
+          over oplossingen voor hun situatie. Volgens haar staat dit recht vandaag onder druk, wat haar moti-
+          veert om zich blijvend sterk in te zetten zodat EK© voor zoveel mogelijk mensen toegankelijk blijft.
+     H.   Ian maakte enkele jaren deel uit van de Raad van Bestuur. Hij kwam via zijn zus in contact met EK©
+          tijdens een ontmoetingsdag. Doorheen de jaren kreeg hij zicht op zowel de uitdagingen als de sterk-
+          tes van de organisatie. Omwille van tijdsgebrek stopte hij zijn engagement, maar hij wil zich op deze
+          manier inzetten om bij te dragen aan de maatschappelijke meerwaarde van EK©.
+     I.   Liesbeth geeft aan geraakt te zijn door de manier waarop binnen EK© met mensen wordt gesproken
+          en gewerkt, vanuit de overtuiging dat zij zelf eigenaar blijven van hun leven en keuzes. Volgens haar
+          kan deze houding veel in beweging brengen.
+
+4.   Goedkeuring van het vorige verslag)
+     o Het verslag wordt unaniem goedgekeurd.
+
+5.   Toelichting door het dagelijks bestuur bij het jaarverslag 2025
+     o De belangrijkste ontwikkelingen in 2025 uit het verslag geplukt:
+         85/100 trajecten – gemiddeld kortere trajecten - eerste 9 mantelzorgtrajecten – partner in EU-partner-
+         schappen voor mensen met lange afstand tot arbeidsmarkt – jongerenspel afgewerkt – eerste teambuil-
+         ding – eerste keuze van kwaliteitsparameters selecteren – opstellen van een 5-jarenplan.
+     o De eindbalans en het resultaat in cijfers, met het bestuursvoorstel om het resultaat toe te wijzen.
+          i. Vragen en feedback vanuit de AV
+             A. Mattias stelde een vraag bij de voorziene investering van 25.000 euro om EK© zichtbaarder te
+                maken en vroeg welke concrete visie hierachter schuilt.
+                 •    Mirjam lichtte toe dat Jo als zelfstandige een belangrijke rol opnam binnen communicatie
+                      en branding. Zo werkte zij onder meer aan de nieuwe website, illustraties rond EK©, een
+                      eigen visuele stijl en een communicatieplan voor sociale media zoals Facebook en Lin-
+                      kedIn. Daarnaast werd ingezet op promotie van opleidingen en vrijwilligerswerving. On-
+                      danks deze inspanningen blijft de organisatie vaak de reactie krijgen dat mensen het be-
+                      staan van EK© niet kennen. Er is nood aan een bredere zichtbaarheid, zowel om meer vrij-
+                      willigers en trajecten te bereiken als om sterker te communiceren richting overheid en
+                      beleidsmakers. Daarbij blijft het een uitdaging om de eenvoud van het EK©-model helder
+                      te vertalen naar verschillende doelgroepen.
+                 •    Verder werd toegelicht dat zowel Jo als Dieter het team hebben verlaten. Een groot deel
+                      van Dieters loon werd gefinancierd via Europese projecten, die ook bijkomende trajecten
+                      genereerden. De organisatie heeft echter beslist om hier geen personeel meer op in te
+                      zetten. Het Europese project loopt zes jaar en bevindt zich momenteel in het derde jaar.
+                      Door het ontbreken van beschikbare medewerkers en de beperkte haalbaarheid om
+                      nieuwe medewerkers voldoende in te werken, werd overwogen om uit het project te stap-
+                      pen. De partners wensen echter dat EK© betrokken blijft. Er wordt niet verwacht dat hier-
+                      uit nog bijkomende trajecten zullen voortkomen.
+             B. Vervolgvraag: De voorziene opdracht rond zichtbaarheid betreft een tijdelijke opdracht van tien
+                maanden en omvat een omvangrijk takenpakket.
+                 •    Daarbij wil EK© verder investeren in de website en in de ontwikkeling van een platform
+                      met chatmogelijkheden. Een deel van de voorziene middelen betreft dus eenmalige inves-
+                      teringen. Tegelijk werd aangegeven dat 25.000 euro beperkt is als men structureel perso-
+                      neel wenst aan te werven. Het wegvallen van de samenwerking met Jo, die als zelfstandige
+                      goedkoper was dan een werknemer in loondienst, compenseert dit gedeeltelijk.
+                 •    Monique vulde aan dat de vraag naar de bekendheid van EK© en het model later in de
+                      vergadering nog verder besproken zou worden.
+                 •    Stijn gaf aan de vraag relevant te vinden. Hij verwees naar de vorige overdracht, waarbij
+                      middelen specifiek werden ingezet voor trajecten buiten de reguliere werking, de zoge-
+                      naamde “proeftuinen”. Hij gaf aan nog geen duidelijk zicht te hebben op een concreet
+                      plan rond het reserveren en inzetten van middelen, hoewel hij de achterliggende redene-
+                      ring begrijpt.
+
+
+EK© Eigen Kracht Centrale v.z.w.                           2/6                                     0489 45 54 13
+secretariaat: Gelbergenstraat 48, 3471 Kortenaken   www.eigenkrachtcentrale.be        info@eigenkrachtcentrale.be
+
+
+                                                                                                                    Page 17 of 21
+                 •    Naar aanleiding van vragen over de “proeftuinen” werd verduidelijkt dat het onder meer
+                      gaat om trajecten waarbij mensen vaak zelf aanmelden.
+            C. Vervolgens werd de financiële stabiliteit van de organisatie besproken. Er werd gevraagd in
+                welke mate er zekerheid bestaat over de financiering voor de komende jaren en hoe stabiel de
+                financiële situatie momenteel is.
+                 •    Monique gaf aan te vermoeden dat er zekerheid is voor ongeveer anderhalf jaar werking.
+                      Zij benoemde dit tegelijk als een bezorgdheid en stelde voor dat Mirjam hierover bijko-
+                      mende toelichting zou bezorgen via een nota voor het verslag.
+                 •    Nahid gaf aan dat financiële zekerheid regelmatig besproken wordt binnen de Raad van
+                      Bestuur. Zij verwees naar de grote onduidelijkheid binnen het huidige subsidielandschap,
+                      waarbij verschillende vormen van subsidiëring herbekeken worden.
+                 •    Mattias bevestigde dat deze onzekerheid breder leeft binnen het jeugdhulplandschap. Hij
+                      gaf aan dat er momenteel voldoende reserves zijn om iets langer verder te werken met
+                      het huidige team.
+                 •    Ian merkte op dat een financiële zekerheid van anderhalf jaar een aanzienlijk ander per-
+                      spectief biedt dan een situatie waarin slechts drie tot zes maanden zekerheid bestaat.
+                 •    Stijn gaf aan dat deze financiële context het gesprek beïnvloedt. Indien EK© minder af-
+                      hankelijk wil worden van wisselend beleid, is dit volgens hem een belangrijk aandachts-
+                      punt. Hij benadrukte dat hij zich niet onmiddellijk zorgen maakt, maar dat de manoeu-
+                      vreerruimte van de organisatie beperkt blijft.
+                 •    Nahid vulde aan dat het belangrijk is om minder afhankelijk te worden van subsidies van-
+                      uit Opgroeien en bijkomende financieringsvormen te onderzoeken, bijvoorbeeld via pri-
+                      vate middelen. Tegelijk wees zij op de huidige onduidelijkheid binnen het Vlaamse beleids-
+                      kader.
+                 •    Suzan benoemde dit als een algemeen aandachtspunt waarop moeilijk proactief kan wor-
+                      den geanticipeerd. Zij stelde vast dat EK© momenteel al ingebed is binnen verschillende
+                      overheidscontexten en verwees naar de spreiding van financieringsbronnen binnen het
+                      meerjarenplan, bijvoorbeeld via mantelzorgprojecten. Volgens haar wordt het financieel
+                      beheer momenteel op een degelijke manier gevoerd.
+        ii. Goedkeuring van de jaarrekening en de toewijzing van het resultaat volgens het voorstel van het
+             bestuur.
+            A. Het resultaat wordt in een unanieme stemming toegewezen volgens onderstaand schema
+                (blauwe en groene kolommen rechts) deels aan specifieke reserves en deels overgedragen
+                naar volgend jaar.
+
+
+
+
+EK© Eigen Kracht Centrale v.z.w.                           3/6                                    0489 45 54 13
+secretariaat: Gelbergenstraat 48, 3471 Kortenaken   www.eigenkrachtcentrale.be       info@eigenkrachtcentrale.be
+
+
+
+                                                                                                                   Page 18 of 21
+6.   Toelichting door het dagelijks bestuur bij het voorstel van begroting en het beleidsplan 2026 (Mirjam
+     moest tijdens het vorige agendapunt onverwacht de vergadering verlaten door een noodoproep – Liesbeth
+     nam als teamlid de toelichting over.)
+         o Belangrijkste ontwikkelingen in 2026: De leden werden uitvoering geïnformeerd rond de 4
+               thema’s uit de meerjarenplanning: vrijwilligers, trajecten, organisatie en maatschappij.
+         o Vragen en feedback vanuit de AV
+              A. Mattias verwees naar het idee van een “DIY-kit” binnen het mantelzorgerproject als een inspi-
+                  rerend concept. Hij gaf aan dat dit mogelijk ook richting overheid een interessante piste kan
+                  zijn, onder meer vanuit het perspectief van preventie en kostenbesparing.
+              B. Daarbij stelde hij de vraag hoever de uitwerking hierin staat: è Liesbeth gaf aan dat de proef-
+                  versie op dit moment bijna klaar is.
+
+7.   Goedkeuringen en kwijting:
+     Bij iedere stemming werden de vooraf digitaal uitgebrachte stemmen meegeteld bij de aanwezige of ver-
+     tegenwoordigde stemmen. Alles hieronder werd met unanimiteit goedgekeurd.
+           o De beleidsnota met werkingsverslag van het bestuur over 2025:
+           o De jaarrekening 2025 (balans, resultaatrek., voorstel resultaatstoewijzing vanuit het bestuur)
+           o De begroting en het beleidsplan voor het volgende jaar
+           o De kwijting aan de bestuurders.
+
+8.   Start van de BAV met goedkeuring van het voorstel van statuutaanpassingen
+     Ook hier werden de vooraf digitaal uitgebrachte stemmen meegeteld bij de aanwezige of vertegenwoor-
+     digde stemmen. Volgens het wetboek en de statuten moet deze statuutswijziging goedgekeurd worden
+     met twee derden van de uitgebrachte stemmen, onthoudingen niet meegeteld!!
+          o Het voorstel vanuit het bestuur: In titel II wordt artikel 5 uitgebreid met een Art. 5 § 5. In artikel 7
+              wordt vooraan een zinsdeel toegevoegd in aanvulling van Art.5 § 5 en verder omwille van de con-
+              sistentie in de statuten de begrippen “het bestuursorgaan” hier vervangen door “de raad van bestuur”.
+              Artikel 5. De lidmaatschapsvereisten
+                   Art. 5 § 5. Jaarlijks dragen de op de ontmoetingsdag aanwezige EK©-vrijwilligers één persoon voor aan de raad van
+                   bestuur om toe te treden tot de algemene vergadering voor een termijn van twee jaar. De raad van bestuur, als be-
+                   stuursorgaan, bevestigt deze aanstelling op voorwaarde dat de kandidaat voldoet aan de eerder genoemde lidmaat-
+                   schapsvoorwaarden. Dit specifieke lidmaatschap eindigt automatisch na het verstrijken van de tweejarige termijn. Het
+                   staat het bestuursorgaan vrij om de betrokkene nadien opnieuw als gewoon lid te aanvaarden.
+               Artikel 7 Duur en einde van het lidmaatschap
+                   Art. 7 §1. Onverminderd de specifieke duurbepaling in artikel 5 §5, wordt het lidmaatschap aangegaan voor onbe-
+                   paalde duur. Het eindigt door uittreding, door uitsluiting of door het overlijden van het lid.
+                   Uittreding op vraag geschiedt door een schriftelijke kennisgeving (per brief of e-mail) gericht aan de voorzitter van de
+                   raad van bestuur. Uitsluiting kan op voorstel van de raad van bestuur of op verzoek van minstens een vijfde van alle
+                   leden, uitgesproken worden bij bijzonder besluit van een algemene vergadering waarop minstens twee derde van alle
+                   leden aanwezig of vertegenwoordigd zijn, en waarbij voor de beslissing twee derde van de stemmen van de aanwezige
+                   en van de leden die zij vertegenwoordigen is vereist.
+          o Toelichting bij dit voorstel bij afwezigheid van de directie (zie hoger onder pt.6) door Herwig: Hij
+              benadrukte de meerwaarde van het betrekken van vrijwilligers binnen de Algemene Vergadering,
+              ook wanneer zij geen stemrecht hebben. Daarnaast werd verduidelijkt dat de eventuele deel-
+              name van vrijwilligers in de tijd zal beperkt worden, bijvoorbeeld tot een termijn van twee jaar,
+              zodat een beurtrol mogelijk blijft.
+          o Goedkeuring. Na een korte bespreking werd dit alles unaniem goedgekeurd.
+
+9.   Inhoudelijk gesprek rond hoe meer zichtbaarheid als EK© bereiken, bij burgers, bij hulpverleners, bij zorg-
+     organisaties, bij overheden, … Een overzicht van de ingebrachte ideeën, aanbevelingen en denksporen:
+          A. Gebruik tussenpersonen:
+               a. Zet meer in op bekende figuren, podcasts en publieke stemmen die aansluiten bij het ge-
+                    dachtegoed van Eigen Kracht. Zoek o.m. naar auteurs, filosofen en maatschappelijke stemmen
+                    die actief bezig zijn met burgerbewegingen, burgerschap en veerkracht als bv. Alicja
+                    Gescinska, (filosofe, heel hard bezig met burgerbeweging) of David Van Reybrouck. Dit kan bij-
+                    dragen aan een groter maatschappelijk platform voor EK© en een positief tegengewicht bieden
+                    in een context waarin onder meer jeugdhulp en detentie sterk onder druk staan. Vergeet niet
+                    hoe belangrijk positieve, creatieve en toegankelijke communicatievormen, zoals podcasts, zijn.
+
+
+EK© Eigen Kracht Centrale v.z.w.                                      4/6                                              0489 45 54 13
+secretariaat: Gelbergenstraat 48, 3471 Kortenaken            www.eigenkrachtcentrale.be                   info@eigenkrachtcentrale.be
+
+
+                                                                                                                                              Page 19 of 21
+               b.    Denk na over een evt. inzet van ambassadeurs, influencers en mediafiguren om het verhaal
+                     van EK© toegankelijker te maken voor verschillende doelgroepen. (Bv. Nic Balthazar, Lieve
+                     Blancquaert, Dirk Dewachter, …). Laat authentieke communicatie steeds voorop staan en be-
+                     paald vooraf duidelijk het doelpubliek en de gewenste impact per communicatiekanaal. Sugges-
+                     ties varieerden van samenwerkingen met influencers en sociale media tot communicatie via tv-
+                     schermen in wachtzalen van
+                     artsenpraktijken en andere alternatieve kanalen.
+                c. Organisaties zoals Avansa lijken potentiële partners om een breder publiek te bereiken.
+          B.   Breng ons verhaal:
+                a. Gebruik de vele waardevolle praktijkverhalen die EK© al heeft, zoals de “vrijdagverhalen”.
+                     Werk die sterker uit tot artikels of andere communicatie formats.
+                b. Zet dus meer in op interviews, opiniestukken en bijdragen in media en vakpublicaties die
+                     een breed publiek bereiken rond respect voor mensenrechten en respectvolle omgang met
+                     diverse doelgroepen. Dat zijn fundamentele kenmerken van EK©. Daarbij werden onder meer
+                     tijdschriften, sociale media voor professionals en programma’s voor kinderen en jongeren ge-
+                     noemd als mogelijke kanalen om de visie van EK© breder bekend te maken (vb. Karrewiet).
+                c. Stel reflectievragen in nieuwsbrieven of andere communicatiekanalen. Bv. rond de vraag in
+                     welke situaties mensen zelf een EK© zouden overwegen.
+          C.   Zet werkvormen breder in:
+                a. Stel werkvormen uit de opleidingen, zoals inleefoefeningen, ook als zelfstandig pakket be-
+                     schikbaar. Cf. de DIY-kit. Dit zou mensen kunnen stimuleren om binnen hun eigen netwerk of
+                     vriendenkring kennis te maken met de methodiek van EK©.
+                b. Zet inleefoefeningen ook in op beurzen en publieke evenementen.
+                c. Koppel DIY-toepassingen aan belangrijke levensmomenten, zoals huwelijk, overlijden of an-
+                     dere overgangsmomenten. Dan staan mensen sowieso stil bij ondersteuning en keuzes in hun
+                     leven.
+          D.   Werk zo doelgericht mogelijk, evalueer tijdig:
+                a. Investeer gerichter in werkzame strategieën door systematisch de gebruikte communica-
+                     tie-initiatieven te evalueren. Bevraag dus o.a. bij nieuwe instroom of na trajecten expliciet hoe
+                     mensen EK© hebben leren kennen.
+                b. Doelgroepgerichte communicatie op basis van concrete persona’s en levenssituaties is be-
+                     langrijk. Communicatiekanalen en boodschappen moeten afgestemd zijn op specifieke doel-
+                     groepen om verspilling van middelen te vermijden. Voorbeelden hiervan zijn gerichte lokale ver-
+                     spreiding via OCMW’s, scholen of andere relevante partners.
+                c. Ook werd stilgestaan bij de samenwerking met externe partners en samenwerkingsverban-
+                     den. EK© staat binnen sommige samenwerkingen niet vanzelfsprekend bovenaan de agenda.
+                     Kan daar gerichtere communicatie niet bijdragen aan meer wederkerigheid en een beter weder-
+                     zijds begrip? Vanuit het team werd bevestigd dat dit thema al op de agenda staat en verder op-
+                     genomen zal worden binnen de regionale samenwerkingen.
+          E.   Kijk vooruit naar een omgeving waarin AI niet weg te denken is:
+                a. Omdat mensen vaker informatie verkrijgen via AI-toepassingen en digitale zoekkanalen
+                     moet EK© ook in deze context beter zichtbaar worden. In dat kader lopen gesprekken met
+                     Motion Mill om te onderzoeken hoe EK© gemakkelijker zichtbaar kan worden binnen chat- en
+                     AI-omgevingen.
+          F.   Vergeet het ruimere plaatje niet:
+                a. Vergeet niet het belang van thema’s zoals nabijheid, vertrouwen, burgerschap en het om-
+                     gaan met emoties in de praktijk. Hier ligt een belangrijke maatschappelijke rol voor EK©, als
+                     vorm van “intieme tegenkracht” gebaseerd op menselijke verbondenheid en vertrouwen in bur-
+                     gers.
+
+10. Eindronde en afsluiting.
+    •   Tijdens de afronding van de vergadering gaf Mathias aan al uit te kijken naar het volgende jaar. Hij
+        sprak zijn waardering uit voor de vele ideeën en initiatieven die tijdens de bijeenkomst naar voren
+        kwamen.
+
+
+EK© Eigen Kracht Centrale v.z.w.                            5/6                                        0489 45 54 13
+secretariaat: Gelbergenstraat 48, 3471 Kortenaken   www.eigenkrachtcentrale.be            info@eigenkrachtcentrale.be
+
+
+
+                                                                                                                         Page 20 of 21
+    •    Herwig gaf aan verrast te zijn door het grote aantal suggesties en voorstellen dat tijdens het overleg
+         werd aangereikt.
+    •    Nahid omschreef de vergadering als inspirerend en verwees naar de verschillende leer- en groeipun-
+         ten die uit de gesprekken naar voren kwamen.
+    •    Stijn benadrukte dat hij het steeds boeiend vindt om inzicht te krijgen in de interne processen en wer-
+         king van EK©.
+    •    Ian gaf aan het interessant te vinden dat de deelnemers vanuit uiteenlopende invalshoeken en ideeën
+         bijdragen aan het gesprek. Daarnaast sprak hij de hoop uit dat het goed gaat met Mirjam en haar ge-
+         zin.
+    •    Tot slot bedankte Monique alle aanwezigen voor hun flexibiliteit bij de omschakeling van een fysieke
+         naar een digitale vergadering. Zij waardeerde ook de constructieve manier waarop met de praktische
+         hindernissen en de afwezigheid van Mirjam werd omgegaan, waardoor de vergadering vlot kon verlo-
+         pen.
+
+
+
+GOEDGEKEURD ALS AUTHENTIEK VERSLAG
+
+17 JUNI 2026
+
+
+
+
+Wilfried Van Damme
+Voorzitter bestuur EK© vzw
+
+
+
+
+EK© Eigen Kracht Centrale v.z.w.                           6/6                                    0489 45 54 13
+secretariaat: Gelbergenstraat 48, 3471 Kortenaken   www.eigenkrachtcentrale.be       info@eigenkrachtcentrale.be
+
+
+                                                                                                                   Page 21 of 21
+

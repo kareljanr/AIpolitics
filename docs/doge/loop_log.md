@@ -29637,3 +29637,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: bram.de.wit@coconvilvoorde.be — named contact from official Opgroeien OVBJ list (opened); own website unreachable (HTTP 500) so no general mailbox could be verified.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_vilvoorde); FOI **gap_cocon_vilvoorde_vaph_matrix_9900_2_41m_9901_473k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2683/; rq_2683=done; spawn **rq_2684**; ticks=2683.
 - Next: **rq_2684 leftover dual** — Opgroeien OVBJ Vlaams-Brabant/Brussel list in progress; next: remaining OVBJ Vlaams-Brabant/Brussel units, then IBIS (verify mailbox), then KBO NACE 87/88 lists.
+
+
+## Tick 2684 — 2026-10-12T08:53:08Z — rq_2684 leftover dual Eigen Kracht Centrale Kortenaken YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Vlaams-Brabant/Brussel list (april 2026): **Eigen Kracht Centrale** → KBO 0882.864.801 had 0 prior entity rows.
+- KBO: Actief since 20 juni 2006; VZW; zetel Gelbergenstraat 48 3471 Kortenaken; 1 VE; 0 prior entity rows for 0882.864.801
+- Found: official NBB MIC-VZW native PDF **2026-00438191** (2307967 B / 21p; AV 27-05-2026; neergelegd 25/08/2026; MD5 26702fbc5b2bc294d17a90b56ae048e3). MIC-VZW 9900 **EUR641575** (+35.60%); 62 **EUR583002**; 9901 **EUR58313** (was -8739); 9904 59414; equity 334354; cash 449148; FTE 6,5 (was 6,2).
+- FOI address: info@eigenkrachtcentrale.be — general mailbox verified on official page https://www.eigenkrachtcentrale.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortenaken); FOI **gap_eigen_kracht_centrale_kortenaken_vaph_matrix_9900_0_64m_9901_58k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2684/; rq_2684=done; spawn **rq_2685**; ticks=2684.
+- Next: **rq_2685 leftover dual** — Opgroeien OVBJ Vlaams-Brabant/Brussel list in progress; next: remaining OVBJ Vlaams-Brabant/Brussel units, then IBIS (verify mailbox), then KBO NACE 87/88 lists.
