@@ -28886,3 +28886,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00298910** (48406 B / 13p; AV 24-06-2026; neergelegd 16/07/2026; MD5 0d468759c68c99c0840adc091aa0253b). VKT-VZW 9900 **EUR2034099** (-11.76%); 62 **EUR2013134**; 9901 **EUR5315** (was 127230); 9904 5386; equity 460718; cash 749900; FTE 29,9 (was 28,8).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.70; entities +1 (parent city_gent); FOI **gap_dop_oost_vlaanderen_gent_vaph_matrix_9900_2_03m_9901_5k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2602/; rq_2602=done; spawn **rq_2603**; ticks=2602.
 - Next: **rq_2603 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2603 — 2026-10-12T07:58:08Z — rq_2603 leftover dual Dienst Ondersteuningsplan West-Vlaanderen Hooglede YE2025 (local fallback runner)
+
+- Hunt: NEW CANDIDATE SOURCE VAPH adreslijst Dienst Ondersteuningsplan (f[0]=tid:1397): **Dienst Ondersteuningsplan West-Vlaanderen** → KBO 0843.601.080 had 0 prior entity rows.
+- KBO: Actief since 26 januari 2012; VZW; zetel Bruggesteenweg 356, 8830 Hooglede; 1 VE; 0 prior entity rows for 0843.601.080
+- Found: official NBB VKT-VZW native PDF **2026-00328105** (49583 B / 13p; AV 02-06-2026; neergelegd 24/07/2026; MD5 c0aa17bd20316d12f69862b023345980). VKT-VZW 9900 **EUR1613432** (+3.30%); 62 **EUR1566322**; 9901 **EUR36454** (was 29318); 9904 41834; equity 538990; cash 466645; FTE 20,9 (was 18,8).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.70; entities +1 (parent city_hooglede); FOI **gap_dop_west_vlaanderen_hooglede_vaph_matrix_9900_1_61m_9901_36k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2603/; rq_2603=done; spawn **rq_2604**; ticks=2603.
+- Next: **rq_2604 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
