@@ -33003,3 +33003,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@moderator.be — central-secretariat mailbox verified on official page https://moderator.be/contact/ (registered seat Diestsesteenweg 49 and KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_moderator_leuven_vaph_matrix_9900_2_43m_9901_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3017/; rq_3017=done; spawn **rq_3018**; ticks=3017.
 - Next: **rq_3018 leftover dual** — Further-extended Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3018 — 2026-10-12T19:27:59Z — rq_3018 leftover dual PIN Partners en Integratie Halle YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish multi-code 85.592/87.10x/87.30x/88.10x/88.911/88.991-88.999, extended to 30 further Flemish postcodes plus extra codes 88.991-88.994/88.102/87.20x/90-91 in the previous 22), unprocessed hits ranked by YE2025 NBB primary figure: **PIN Partners en Integratie** → KBO 0432.327.515 had 0 prior entity rows.
+- KBO: Actief since 23 maart 1986; VZW; zetel Kanaalbrugstraat 5 bus E 1500 Halle; 3 VE; 0 prior entity rows for 0432.327.515
+- Found: official NBB VKT-VZW native PDF **2026-00254798** (47719 B / 13p; AV 23-06-2026; neergelegd 06/07/2026; MD5 58b322a5b87f5493298d6b3286d53b8d). VKT-VZW 9900 **EUR2238089** (+9.53%); 62 **EUR2187214**; 9901 **EUR39306** (was 18658); 9904 38479; equity 384972; cash 319950; FTE 37,1 (was 34,7).
+- FOI address: info@vzwpin.be — general mailbox verified on official page https://www.pinvzw.be/maak-een-afspraak (Kanaalbrugstraat 5E and KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_halle); FOI **gap_pin_halle_vaph_matrix_9900_2_24m_9901_39k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3018/; rq_3018=done; spawn **rq_3019**; ticks=3018.
+- Next: **rq_3019 leftover dual** — Further-extended Flemish multi-code batch in progress; next: remaining units of this batch.
