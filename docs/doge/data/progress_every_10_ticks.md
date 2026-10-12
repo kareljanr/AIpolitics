@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2780** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2770; 2771-2779 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2771-2779 residual dual L5 (not near-complete of 348bn):** De kleine ark (Harelbeke) · Wieltjeshove (Menen) · Gaversloeberke (Harelbeke) · Engelbewaarder (Izegem) · 't Ballonneke (Melsele) · De Kinderkopjes (Assenede) · Dienst voor Opvanggezinnen Junior (Zele) · Kinderrijk (Heverlee) · Kinderdagverblijf Hertog Jan (Kortenberg) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2443** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2495** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2771-2779** De kleine ark (Harelbeke) · Wieltjeshove (Menen) · Gaversloeberke (Harelbeke) · Engelbewaarder (Izegem) · 't Ballonneke (Melsele) · De Kinderkopjes (Assenede) · Dienst voor Opvanggezinnen Junior (Zele) · Kinderrijk (Heverlee) · Kinderdagverblijf Hertog Jan (Kortenberg).
+
+### Inventory (tick 2780)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 58039 |
+| commitments.csv | 6495 |
+| leaderboard.csv | 8615 |
+| entities.csv | 2514 |
+| sources.csv | 8416 |
+| FOI ready | 2443 |
+| FOI total rows | 2495 |
+| research_queue open | rq_2780 (carried; next: more NACE 88.911 childcare VZWs (Leuven-region remainder) and 88.101 home-care services) |
+
+### What improved since tick 2770
+
+- **New source (tick2771-2779):** De kleine ark (Harelbeke) · Wieltjeshove (Menen) · Gaversloeberke (Harelbeke) · Engelbewaarder (Izegem) · 't Ballonneke (Melsele) · De Kinderkopjes (Assenede) · Dienst voor Opvanggezinnen Junior (Zele) · Kinderrijk (Heverlee) · Kinderdagverblijf Hertog Jan (Kortenberg). Source: KBO NACE-BEL 88.911 activity search over West-/Oost-Vlaanderen and Leuven/Limburg postcodes, triaged by NBB model (VKT/MIC with YE2025 filing).
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION). Gaversloeberke via the City of Harelbeke business directory; Junior via the oko-en-zo.be contact page; Hertog Jan uses the management role mailbox (no named person).
+- **Runner note:** 2576-2780 ran on the local fallback runner (Actions last ticked 2575), from the fresh clone /workspace/AIpolitics-loop since 2681; toolkit persistent at /workspace/AIpolitics-loop-tk. Do not run both at once.
+- **Rejected 2771-2779 (fast):** Mezennestje Torhout (no mailbox on official site); Kinderdagverblijf Bubbeltje Diksmuide (mailbox only on third-party listings); Mannetje Maan Destelbergen (only a named person's mailbox).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2770** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

@@ -30609,3 +30609,14 @@ Append-only. Each tick adds a short entry.
 - FOI address: directie@ockapoen.be — general mailbox verified on official page https://ockapoen.be/werking (role mailbox of the management, no named person).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortenberg); FOI **gap_kdv_hertog_jan_kortenberg_vaph_matrix_9900_1_48m_9901_150k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2779/; rq_2779=done; spawn **rq_2780**; ticks=2779.
 - Next: **rq_2780 leftover dual** — Batch done; next: more NACE 88.911 childcare VZWs (Leuven region remainder: Lutgardisschool Elsene, 't Debberke, Mezenestje, Kakelbont) and 88.101 home-care services; skipped: Mezennestje Torhout (no mailbox on official site), Kinderdagverblijf Bubbeltje Diksmuide (mailbox only on third-party listings), Mannetje Maan Destelbergen (only a named person's mailbox).
+
+
+## Tick 2780 — 2026-10-12T14:02:48Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2443** of 2495 rows; inventory budgets 58039 · commitments 6495 · leaderboard 8615 · entities 2514 · sources 8416.
+- Top10: **stable** (2771-2779 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2771-2779: De kleine ark (Harelbeke) · Wieltjeshove (Menen) · Gaversloeberke (Harelbeke) · Engelbewaarder (Izegem) · 't Ballonneke (Melsele) · De Kinderkopjes (Assenede) · Dienst voor Opvanggezinnen Junior (Zele) · Kinderrijk (Heverlee) · Kinderdagverblijf Hertog Jan (Kortenberg).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2780 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2780 run locally as fallback.
+- Source choice (recorded): ticks 2771-2779 used the KBO NACE 88.911 search (West-/Oost-Vlaanderen, Leuven/Limburg). FOI: general mailboxes only, all verified on opened official pages; none NEEDS VERIFICATION.
+- Next: **rq_2780** — more NACE 88.911 childcare (Leuven-region remainder) and 88.101 home-care VZWs.
