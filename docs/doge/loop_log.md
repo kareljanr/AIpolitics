@@ -34322,3 +34322,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@henallux.be — general mailbox verified on official page https://www.henallux.be/services-generaux (Rue Saint-Donat 130, the ASBL KBO seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_henallux_vaph_matrix_733_46_03m_9901_2158k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3148/; rq_3148=done; spawn **rq_3149**; ticks=3148.
 - Next: **rq_3149 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3149 — 2026-10-12T23:44:23Z — rq_3149 leftover dual Comité organisateur de l'Institut Saint-Luc (Saint-Gilles) Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Catholic school boards and university colleges (Flemish schoolbesturen VZW and FWB organising bodies / hautes écoles, ASBL); new KBO name search (legal form VZW/ASBL; words such as Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège Saint, Institut Saint), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Comité organisateur de l'Institut Saint-Luc (Saint-Gilles)** → KBO 0410.148.761 had 0 prior entity rows.
+- KBO: Actief since 17 december 1955; VZW; zetel Ierlandstraat 57 1060 Sint-Gillis (bij-Brussel); 5 VE; 0 prior entity rows for 0410.148.761
+- Found: official NBB VOL-VZW native PDF **2026-00266103** (657763 B / 49p; AV 24-06-2026; neergelegd 08/07/2026; MD5 2cafa9caaec934505288b91c3fa407b5). VOL-VZW 733 **EUR20043336** (+8.43%); 62 **EUR21743510**; 9901 **EUR520571** (was 1315688); 9904 577622; equity 14264481; cash 9578827; FTE 43,8 (was 34,9).
+- FOI address: info@islb.be — general mailbox verified on official contact page https://www.stluc-bruxelles-sec.be/Nous-contacter (Institut Saint-Luc, Rue d'Irlande 57, the ASBL KBO seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_institut_saint_luc_bruxelles_vaph_matrix_733_20_04m_9901_521k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3149/; rq_3149=done; spawn **rq_3150**; ticks=3149.
+- Next: **rq_3150 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
