@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2930** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2920; 2921-2929 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2921-2929 residual dual L5 (not near-complete of 348bn):** IRSA - Centre de Services (Uccle) · Société Royale de Philanthropie (Bruxelles) · WZC Sint-Jozef (Evere) · H.Hart Services (Kortrijk) · Nottebohm Home (Antwerpen) · Wiegwijs (Schaarbeek) · Centre Médical Enaden (Saint-Gilles) · Vulpia Bruxelles (Evere) · La Forestière (Ixelles) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2578** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2630** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2921-2929** IRSA - Centre de Services (Uccle) · Société Royale de Philanthropie (Bruxelles) · WZC Sint-Jozef (Evere) · H.Hart Services (Kortrijk) · Nottebohm Home (Antwerpen) · Wiegwijs (Schaarbeek) · Centre Médical Enaden (Saint-Gilles) · Vulpia Bruxelles (Evere) · La Forestière (Ixelles).
+
+### Inventory (tick 2930)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 59145 |
+| commitments.csv | 6630 |
+| leaderboard.csv | 8750 |
+| entities.csv | 2649 |
+| sources.csv | 8821 |
+| FOI ready | 2578 |
+| FOI total rows | 2630 |
+| research_queue open | rq_2930 (carried; next: remaining larger Brussels childcare/day-centre ASBLs and Flemish 88.10x VZWs, larger first) |
+
+### What improved since tick 2920
+
+- **New source (tick2921-2929):** IRSA - Centre de Services (Uccle) · Société Royale de Philanthropie (Bruxelles) · WZC Sint-Jozef (Evere) · H.Hart Services (Kortrijk) · Nottebohm Home (Antwerpen) · Wiegwijs (Schaarbeek) · Centre Médical Enaden (Saint-Gilles) · Vulpia Bruxelles (Evere) · La Forestière (Ixelles). **Toolkit extension (tick 2921):** VOL filings whose subsidy line (733) is empty are now processed on **turnover (code 70)**, labelled everywhere as turnover and explicitly NOT a subsidy or public-funding amount; their FOI drafts ask what share of turnover comes from public funding (gap ids use `turnover_public_share`). Six units use turnover mode (IRSA, Société Royale de Philanthropie, WZC Sint-Jozef, H.Hart Services, Nottebohm Home, La Forestière). Source: the existing KBO NACE-BEL scans (Brussels 87.x/88.10x; earlier Flemish 87.x/88.10x and Brussels 88.99x), larger first. Five French drafts, four Dutch drafts.
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION).
+- **Runner note:** 2576-2930 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2921-2929 (fast, ~5 min cap):** CBIS/CEBIM (EUR9.3m turnover; cebim.be has only a contact form), Anima Cura (EUR7.75m; mailbox only in statutes via a third-party mirror), Heureux Séjour (EUR5.92m; mailbox only on third-party pages), Groep Philippus Neri (named-person mailboxes only). Agentschap Integratie en Inburgering was not taken: already in entities.csv.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2920** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

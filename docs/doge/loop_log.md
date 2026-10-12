@@ -32123,3 +32123,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: laforestiere@forestiere.be — general mailbox verified on official page https://forestiere.be/contact/ (secretariat; address matches KBO).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_la_forestiere_ixelles_turnover_public_share_70_turnover_2_50m_9901_169k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2929/; rq_2929=done; spawn **rq_2930**; ticks=2929.
 - Next: **rq_2930 leftover dual** — Batch done; next: large unmined scan hits, larger first (Molenbeek Vivre Ensemble EUR7.9m, Tracé Brussel, Human Smile, CASABLANCO, Mission locales not yet covered); skipped this batch: CBIS/CEBIM (contact form only, no mailbox on cebim.be), Anima Cura (mailbox only in statutes via third-party mirror), Heureux Séjour (mailbox only on third-party pages), Groep Philippus Neri (named-person mailboxes only); turnover-mode (code 70) rows are NOT subsidy amounts.
+
+
+## Tick 2930 — 2026-10-12T17:32:47Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2578** of 2630 rows; inventory budgets 59145 · commitments 6630 · leaderboard 8750 · entities 2649 · sources 8821.
+- Top10: **stable** (2921-2929 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2921-2929: IRSA - Centre de Services (Uccle) · Société Royale de Philanthropie (Bruxelles) · WZC Sint-Jozef (Evere) · H.Hart Services (Kortrijk) · Nottebohm Home (Antwerpen) · Wiegwijs (Schaarbeek) · Centre Médical Enaden (Saint-Gilles) · Vulpia Bruxelles (Evere) · La Forestière (Ixelles).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2930 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-2930 run locally as fallback.
+- Next: **rq_2930** — large unmined scan hits, larger first (Molenbeek Vivre Ensemble EUR7.9m, Tracé Brussel, Human Smile, CASABLANCO, uncovered Missions locales).
