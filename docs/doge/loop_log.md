@@ -33439,3 +33439,16 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3060 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3060 run locally as fallback.
 - Next: **rq_3060** — remaining 94.1xx hits below EUR1.49m (e.g. European Travel Commission EUR1.34m) or another public-body code with larger recipients, largest first, after the dedup check.
+
+## Tick 3061 — CCBE weak-fit note
+- CCBE (tick3059) marked weak fit / low priority in foi_queue, leaderboard and its draft: funded mainly by member fees and EU grants, not Belgian public money. New steer: avoid European/international associations funded mainly by EU money or member fees; pick Belgian public-funded bodies only.
+
+
+## Tick 3061 — 2026-10-12T20:50:46Z — rq_3060 leftover dual Amsab-Instituut voor Sociale Geschiedenis Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Belgian publicly funded codes: 91.110/91.120 libraries and archives, 90.111/90.311/90.130 arts venues, 93.110/93.210 municipal sports facilities, 85.520 cultural education; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure; every candidate passed the name/alias/KBO/website dedup check: **Amsab-Instituut voor Sociale Geschiedenis** → KBO 0421.285.549 had 0 prior entity rows.
+- KBO: Actief since 26 februari 1981; VZW; zetel Bagattenstraat 174 9000 Gent; 1 VE; 0 prior entity rows for 0421.285.549
+- Found: official NBB VKT-VZW native PDF **2026-00078701** (326731 B / 21p; AV 19-03-2026; neergelegd 14/04/2026; MD5 94a779a4011e132a6e3e627d86689b10). VKT-VZW 9900 **EUR3283147** (-7.82%); 62 **EUR2878282**; 9901 **EUR-15431** (was 523332); 9904 -5202; equity 3619802; cash 1923934; FTE 31,2 (was 29,8).
+- FOI address: info@amsab.be — general mailbox verified on official page https://amsab.be/ (Bagattenstraat 174 shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_amsab_gent_vaph_matrix_9900_3_28m_9901_loss_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3061/; rq_3060=done; spawn **rq_3062**; ticks=3061.
+- Next: **rq_3062 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

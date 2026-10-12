@@ -1,3 +1,5 @@
+> **WEAK FIT (tick 3061): European association funded mainly by member fees and EU grants, not Belgian public money. Low priority; do not prioritise sending.**
+
 # FOI draft — Conseil des Barreaux Européens (CCBE) (9900 1.49m / 9901 69k)
 
 **gap_id:** `gap_ccbe_brussel_vaph_matrix_9900_1_49m_9901_69k_l5`  
