@@ -30873,3 +30873,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@bricoteam.brussels — general mailbox verified on official page https://bricoteam.brussels/nl/contact-nl/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_bricoteam_schaarbeek_vaph_matrix_9900_0_79m_9901_30k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2805/; rq_2805=done; spawn **rq_2806**; ticks=2805.
 - Next: **rq_2806 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2806 — 2026-10-12T15:06:47Z — rq_2806 leftover dual Seniorenresidentie Meulenberg Beveren Beveren YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301/87.302 (nursing homes, assistance flats) and 88.101 (home care) activity searches, Brussels and remaining Flemish postcodes, ranked by primary figure: **Seniorenresidentie Meulenberg Beveren** → KBO 0737.436.956 had 0 prior entity rows.
+- KBO: Actief since 6 november 2019; VZW; zetel Oude Zandstraat(BEV) 34 9120 Beveren-Kruibeke-Zwijndrecht; 1 VE; 0 prior entity rows for 0737.436.956
+- Found: official NBB VKT-VZW native PDF **2026-00176066** (765312 B / 20p; AV 26-05-2026; neergelegd 19/06/2026; MD5 52f4ae1a155dce1ddfbbb5b3b38f87d0). VKT-VZW 9900 **EUR617688** (+7.45%); 62 **EUR597506**; 9901 **EUR8499** (was -34453); 9904 8276; equity 104073; cash 141823; FTE 11,7 (was 13,1).
+- FOI address: info@meulenbergbeveren.be — general mailbox verified on official page https://www.meulenbergbeveren.be/contact/ (KBO number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bkz); FOI **gap_meulenberg_beveren_vaph_matrix_9900_0_62m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2806/; rq_2806=done; spawn **rq_2807**; ticks=2806.
+- Next: **rq_2807 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
