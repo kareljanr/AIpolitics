@@ -33582,3 +33582,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@comensia.be — general mailbox verified on official site https://comensia.be/ (header/footer contact block).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_comensia_code740_split_740_0_60m_9901_loss_84k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3074/; rq_3074=done; spawn **rq_3075**; ticks=3074.
 - Next: **rq_3075 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3075 — 2026-10-12T21:15:06Z — rq_3075 leftover dual Everecity Evere YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE SLRB-BGHM official list of the 16 Brussels public-service housing companies (SISP), https://slrb-bghm.brussels/fr/societes-immobilieres-de-service-public/toutes-les-sisp, plus a KBO NACE-BEL scan (38.110/38.210/36.000/49.310/68.201) for intercommunales and public companies; ranked by YE2025 NBB company-model code 740 (operating subsidies and compensatory amounts from public authorities); every candidate passed the name/alias/KBO/website dedup check: **Everecity** → KBO 0507.812.519 had 0 prior entity rows.
+- KBO: Actief since 30 december 2014; SC; zetel A. Vermeylenlaan 58/1 1140 Evere; 2 VE; 0 prior entity rows for 0507.812.519
+- Found: official NBB VOL-SC native PDF **2026-00243133** (1344019 B / 73p; AV 27-05-2026; neergelegd 01/07/2026; MD5 db4d2c4e201d53e8bb4fa47a1e128b17). VOL-SC 740 **EUR443141** (+8.29%); 62 **EUR7224272**; 9901 **EUR972781** (was -109692); 9904 71070; equity 75123537; cash 5716535; FTE 83 (was 85,2).
+- FOI address: everecity@everecity.brussels — general mailbox verified on official site https://www.everecity.brussels/nl/ (contact block).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_everecity_code740_split_740_0_44m_9901_973k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3075/; rq_3075=done; spawn **rq_3076**; ticks=3075.
+- Next: **rq_3076 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

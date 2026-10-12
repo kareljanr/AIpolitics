@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T21:14:56Z,rq_3074,3074,no,tick3074 leftover dual Comensia Koekelberg 0403.302.046 Strong PDF 2026-00254006 740 0.60m / 9901 loss 84k; next rq_3075 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T21:15:06Z,rq_3075,3075,no,tick3075 leftover dual Everecity Evere 0507.812.519 Strong PDF 2026-00243133 740 0.44m / 9901 973k; next rq_3076 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
