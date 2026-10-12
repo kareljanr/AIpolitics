@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2800** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2790; 2791-2799 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2791-2799 residual dual L5 (not near-complete of 348bn):** Gezinszorg Villers (Ekeren) · Helan Thuiszorg (Wilrijk) · De Kleine Kasteeltjes Brecht · Pajottenlands Centrum LEDA (Lennik) · De Kleine Kasteeltjes Tongeren · WoonZORG Wuustwezel (Amandina) · Hof ter Lande (Vorselaar) · 't Debberke (Maasmechelen) · De B'Engeltjes (Herent) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2461** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2513** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2791-2799** Gezinszorg Villers (Ekeren) · Helan Thuiszorg (Wilrijk) · De Kleine Kasteeltjes Brecht · Pajottenlands Centrum LEDA (Lennik) · De Kleine Kasteeltjes Tongeren · WoonZORG Wuustwezel (Amandina) · Hof ter Lande (Vorselaar) · 't Debberke (Maasmechelen) · De B'Engeltjes (Herent).
+
+### Inventory (tick 2800)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 58191 |
+| commitments.csv | 6513 |
+| leaderboard.csv | 8633 |
+| entities.csv | 2532 |
+| sources.csv | 8470 |
+| FOI ready | 2461 |
+| FOI total rows | 2513 |
+| research_queue open | rq_2800 (carried; next: more 87.301 nursing-home and 88.101 home-care VZWs ranked by size, Brussels/Limburg/remaining provinces) |
+
+### What improved since tick 2790
+
+- **New source (tick2791-2799):** Gezinszorg Villers (Ekeren) · Helan Thuiszorg (Wilrijk) · De Kleine Kasteeltjes Brecht · Pajottenlands Centrum LEDA (Lennik) · De Kleine Kasteeltjes Tongeren · WoonZORG Wuustwezel (Amandina) · Hof ter Lande (Vorselaar) · 't Debberke (Maasmechelen) · De B'Engeltjes (Herent). Source: KBO NACE-BEL 87.301 and 88.101 activity searches over Antwerpen and Vlaams-Brabant postcodes ranked by primary figure (larger recipients first), topped up with the two largest remaining 88.911 childcare VZWs with a verifiable mailbox. Tick 2791 also corrected the tick 2790 log typo.
+- **FOI addresses:** all 9 general mailboxes verified on opened official pages (no NEEDS VERIFICATION). Helan Thuiszorg via the official Helan brochure PDF; Pajottenlands Centrum via web fetch (box network could not reach the site); Kleine Kasteeltjes Brecht and Tongeren share one mailbox.
+- **Runner note:** 2576-2800 ran on the local fallback runner (Actions last ticked 2575), from the fresh clone /workspace/AIpolitics-loop since 2681; toolkit persistent at /workspace/AIpolitics-loop-tk. Do not run both at once.
+- **Rejected 2791-2799 (fast):** OTV Onafhankelijke Thuiszorg entities, Willebroek (otv.be could not be opened); Vulpia Premium Living (only the commercial group mailbox); Anima Cura and Sociaal Centrum (VOL filing with empty 733 line).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2790** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

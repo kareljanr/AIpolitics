@@ -30812,3 +30812,14 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kdvdebengeltjes.be — general mailbox verified on official page https://kdvdebengeltjes.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_herent); FOI **gap_de_bengeltjes_herent_vaph_matrix_9900_1_01m_9901_loss_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2799/; rq_2799=done; spawn **rq_2800**; ticks=2799.
 - Next: **rq_2800 leftover dual** — Batch done; next: more 87.301/88.101 VZWs ranked by size (Brussels, Limburg, remaining provinces); skipped: OTV Onafhankelijke Thuiszorg entities in Willebroek (otv.be could not be opened), Vulpia Premium Living (only the commercial group mailbox), Anima Cura and Sociaal Centrum (VOL filing with empty 733 line).
+
+
+## Tick 2800 — 2026-10-12T14:37:16Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2461** of 2513 rows; inventory budgets 58191 · commitments 6513 · leaderboard 8633 · entities 2532 · sources 8470.
+- Top10: **stable** (2791-2799 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2791-2799: Gezinszorg Villers (Ekeren) · Helan Thuiszorg (Wilrijk) · De Kleine Kasteeltjes Brecht · Pajottenlands Centrum LEDA (Lennik) · De Kleine Kasteeltjes Tongeren · WoonZORG Wuustwezel (Amandina) · Hof ter Lande (Vorselaar) · 't Debberke (Maasmechelen) · De B'Engeltjes (Herent).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2800 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2800 run locally as fallback.
+- Source choice (recorded): ticks 2791-2799 used KBO NACE 87.301/88.101 searches (Antwerpen, Vlaams-Brabant) ranked by size, plus two larger 88.911 childcare VZWs. FOI: general mailboxes only, all verified on opened official pages; none NEEDS VERIFICATION.
+- Next: **rq_2800** — more 87.301 nursing-home and 88.101 home-care VZWs ranked by size (Brussels, Limburg, remaining provinces).
