@@ -31187,3 +31187,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: bruxelles@article27.be — general mailbox verified on official page https://www.article27.be/ (company number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_article_27_bruxelles_vaph_matrix_9900_2_41m_9901_loss_39k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2836/; rq_2836=done; spawn **rq_2837**; ticks=2836.
 - Next: **rq_2837 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2837 — 2026-10-12T16:15:45Z — rq_2837 leftover dual Domaine des Enfants Les Cailloux Bruxelles (Uccle) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.102/88.103/88.911 activity searches (Flemish and Brussels-Capital postcodes), ranked by primary figure: **Domaine des Enfants Les Cailloux** → KBO 0409.319.016 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1948; VZW; zetel Winston Churchilllaan 159 1180 Ukkel; 1 VE; 0 prior entity rows for 0409.319.016
+- Found: official NBB VKT-VZW native PDF **2026-00225779** (200922 B / 22p; AV 16-06-2026; neergelegd 24/06/2026; MD5 a6ada29ec365898ad4fcaa5f41317580). VKT-VZW 9900 **EUR2190770** (-0.30%); 62 **EUR2124583**; 9901 **EUR2198** (was 34570); 9904 2774; equity 452187; cash 441871; FTE 31,2 (was 34,5).
+- FOI address: direction@lescailloux.be — role mailbox (no named person) verified on official page https://lescailloux.be/contact.html.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_les_cailloux_uccle_vaph_matrix_9900_2_19m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2837/; rq_2837=done; spawn **rq_2838**; ticks=2837.
+- Next: **rq_2838 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
