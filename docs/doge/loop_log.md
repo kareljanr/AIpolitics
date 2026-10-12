@@ -31673,3 +31673,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: fij@fij.be — general mailbox verified on official page https://www.fij.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_fij_saint_gilles_vaph_matrix_9900_2_58m_9901_297k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2884/; rq_2884=done; spawn **rq_2885**; ticks=2884.
 - Next: **rq_2885 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2885 — 2026-10-12T16:43:55Z — rq_2885 leftover dual Service Social Juif Bruxelles (Saint-Gilles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Service Social Juif** → KBO 0410.667.712 had 0 prior entity rows.
+- KBO: Actief since 18 mei 1961; VZW; zetel Ducpétiauxlaan 68 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0410.667.712
+- Found: official NBB VKT-VZW native PDF **2026-00211650** (54007 B / 16p; AV 22-06-2026; neergelegd 29/06/2026; MD5 0595629c25a47a040e537756d955ab02). VKT-VZW 9900 **EUR2480154** (-0.95%); 62 **EUR2494264**; 9901 **EUR19587** (was 70848); 9904 2695; equity 999311; cash 12313; FTE 37,3 (was 35,6).
+- FOI address: info@servicesocialjuif.be — general mailbox verified on official page https://www.servicesocialjuif.be/contact/ (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_service_social_juif_saint_gilles_vaph_matrix_9900_2_48m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2885/; rq_2885=done; spawn **rq_2886**; ticks=2885.
+- Next: **rq_2886 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
