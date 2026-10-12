@@ -31411,3 +31411,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@amisaladdin.be — general secretariat mailbox verified on official commune page https://www.1030.be/fr/directory-van-verenigingen-diensten/amis-daladdin-les.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_amis_aladdin_schaerbeek_vaph_matrix_9900_1_19m_9901_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2858/; rq_2858=done; spawn **rq_2859**; ticks=2858.
 - Next: **rq_2859 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2859 — 2026-10-12T16:26:41Z — rq_2859 leftover dual Seniors Service Anderlecht Bruxelles (Anderlecht) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Seniors Service Anderlecht** → KBO 0443.643.554 had 0 prior entity rows.
+- KBO: Actief since 4 april 1991; VZW; zetel Jean Van Lierdestraat 16 1070 Anderlecht; 1 VE; 0 prior entity rows for 0443.643.554
+- Found: official NBB MIC-VZW native PDF **2026-00397520** (44233 B / 10p; AV 30-06-2026; neergelegd 12/08/2026; MD5 aefcd5d54a737c1343c9ca62c62044ef). MIC-VZW 9900 **EUR1166642** (-6.19%); 62 **EUR1452460**; 9901 **EUR-329449** (was -4860); 9904 0; equity 149665; cash 4771; FTE n/a.
+- FOI address: info@ssa-anderlecht.be — general mailbox verified on official page https://ssa-anderlecht.be/contact-seniors-service-anderlecht-asbl/ (company number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_anderlecht); FOI **gap_seniors_service_anderlecht_vaph_matrix_9900_1_17m_9901_loss_329k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2859/; rq_2859=done; spawn **rq_2860**; ticks=2859.
+- Next: **rq_2860 leftover dual** — Batch done; next: remaining Brussels ASBLs from the 87.x/88.x scans (Les Bourgeons, Rêver pour devenir, Les Amis d'Aladdin, Seniors-Service Anderlecht) and Flemish 88.10x VZWs; skipped this batch: Le Nid Marcelle Briard (skynet mailbox only, no site), Les Coccinelles WSL (no site), KDV Sint-Karel (no official site), Crèche Royale Le Nid (no mailbox found), KDV De Lentebloempjes (site unreachable), Le Pré-Texte (named-person mailbox only), Solidaritel (no own mailbox), Onze Vriendjes (no mailbox found).
