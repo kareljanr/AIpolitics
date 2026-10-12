@@ -30174,3 +30174,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@gezinszorglier.be — general mailbox verified on official page https://gezinszorglier.be/privacybeleid/ (KBO number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lier); FOI **gap_gezinszorg_lier_vaph_matrix_9900_3_05m_9901_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2736/; rq_2736=done; spawn **rq_2737**; ticks=2736.
 - Next: **rq_2737 leftover dual** — Home-care / gezinszorg (NACE 88.101) and related units in progress; next: remaining units of this batch.
+
+
+## Tick 2737 — 2026-10-12T13:21:45Z — rq_2737 leftover dual M.S.O.C. Vlaams-Brabant Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101/88.991/87.302 activity search (home care for the elderly / ambulant addiction care / assistance flats) plus Wit-Gele Kruis provincial associations listed on witgelekruis.be: **M.S.O.C. Vlaams-Brabant** → KBO 0463.959.413 had 0 prior entity rows.
+- KBO: Actief since 19 mei 1998; VZW; zetel Maria-Theresiastraat 109 3000 Leuven; 4 VE; 0 prior entity rows for 0463.959.413
+- Found: official NBB VKT-VZW native PDF **2026-00145204** (55836 B / 16p; AV 08-05-2026; neergelegd 05/06/2026; MD5 22dd17488a235fade252a44f9e651a13). VKT-VZW 9900 **EUR2219623** (-4.48%); 62 **EUR2096302**; 9901 **EUR53554** (was 55581); 9904 99460; equity 1070853; cash 511618; FTE 24,2 (was 23,7).
+- FOI address: leuven@msocvlaamsbrabant.be — seat (Leuven centre) mailbox verified on official page https://www.msoc-vlaamsbrabant.be/onze-centra; no organisation-wide mailbox published.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_msoc_vlaams_brabant_vaph_matrix_9900_2_22m_9901_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2737/; rq_2737=done; spawn **rq_2738**; ticks=2737.
+- Next: **rq_2738 leftover dual** — Home-care / gezinszorg (NACE 88.101) and related units in progress; next: remaining units of this batch.
