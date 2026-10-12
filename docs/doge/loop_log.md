@@ -31663,3 +31663,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info.brussel@saamo.be — general mailbox verified on official page https://www.saamo.be/brussel/contact/ (company number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_saamo_brussel_molenbeek_vaph_matrix_9900_2_61m_9901_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2883/; rq_2883=done; spawn **rq_2884**; ticks=2883.
 - Next: **rq_2884 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2884 — 2026-10-12T16:43:46Z — rq_2884 leftover dual Formation Insertion Jeunes (FIJ) Bruxelles (Saint-Gilles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Formation Insertion Jeunes (FIJ)** → KBO 0430.411.665 had 0 prior entity rows.
+- KBO: Actief since 9 oktober 1984; VZW; zetel Franz Gailliardstraat 2 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0430.411.665
+- Found: official NBB VKT-VZW native PDF **2026-00219815** (409654 B / 21p; AV 17-06-2026; neergelegd 30/06/2026; MD5 3d8f899d360568151a64c77b8c03b53c). VKT-VZW 9900 **EUR2578987** (+12.80%); 62 **EUR2161899**; 9901 **EUR297108** (was 31371); 9904 292051; equity 542299; cash 411835; FTE 34 (was 35,7).
+- FOI address: fij@fij.be — general mailbox verified on official page https://www.fij.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_fij_saint_gilles_vaph_matrix_9900_2_58m_9901_297k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2884/; rq_2884=done; spawn **rq_2885**; ticks=2884.
+- Next: **rq_2885 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
