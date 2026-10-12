@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T20:23:13Z,rq_3046,3046,no,tick3046 leftover dual Economisch Huis Oostende Oostende 0893.525.002 Strong PDF 2026-00192061 9900 1.68m / 9901 186k; next rq_3047 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T20:23:22Z,rq_3047,3047,no,tick3047 leftover dual Atletiek Vlaanderen Brussel 0418.143.838 Strong PDF 2026-00299013 9900 1.61m / 9901 73k; next rq_3048 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
