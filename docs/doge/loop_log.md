@@ -29485,3 +29485,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00177470** (49923 B / 14p; AV 08-06-2026; neergelegd 19/06/2026; MD5 e0364be4f6afd17662753bb3698aa0bd). VKT-VZW 9900 **EUR1895203** (-1.05%); 62 **EUR1870799**; 9901 **EUR-37105** (was 142940); 9904 -24592; equity 1506630; cash 100583; FTE 23,4 (was 24,3).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_alken); FOI **gap_mariahuis_alken_vaph_matrix_9900_1_90m_9901_loss_37k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2667/; rq_2667=done; spawn **rq_2668**; ticks=2667.
 - Next: **rq_2668 leftover dual** — continue Opgroeien OVBJ lists (leftovers: Daidalos, IBIS, CAS Genk, YAR, Pieter Simenon, Huize Sint-Vincentius Halen, Jeugdzorgcentrum Kinrooi), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
+
+
+## Tick 2668 — 2026-10-12T08:37:28Z — rq_2668 leftover dual Ons Geluk Oostende YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ West-Vlaanderen list (mei 2026): **Ons Geluk** → KBO 0410.408.087 had 0 prior entity rows. Uses the unit mailbox from the official Opgroeien list (no verifiable general VZW mailbox).
+- KBO: Actief since 21 januari 1965; VZW; zetel Westlaan 37 bus 1, 8400 Oostende; 3 VE; 0 prior entity rows for 0410.408.087
+- Found: official NBB VKT-VZW native PDF **2026-00351940** (175244 B / 20p; AV 23-06-2026; neergelegd 23/07/2026; MD5 b700c80a8604b1889e95183f23ccdecf). VKT-VZW 9900 **EUR1654059** (+3.14%); 62 **EUR1737771**; 9901 **EUR-1220176** (was -1023987); 9904 -1205300; equity 3889678; cash 1426387; FTE 20,4 (was 19,9).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oostende); FOI **gap_ons_geluk_oostende_vaph_matrix_9900_1_65m_9901_loss_1_22m_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2668/; rq_2668=done; spawn **rq_2669**; ticks=2668.
+- Next: **rq_2669 leftover dual** — continue Opgroeien OVBJ lists (leftovers: Daidalos, IBIS, CAS Genk, YAR, Pieter Simenon, Huize Sint-Vincentius Halen, Jeugdzorgcentrum Kinrooi), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
