@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T17:36:09Z,rq_2932,2932,no,tick2932 leftover dual Mission Locale pour l'Emploi de Bruxelles-Ville Bruxelles 0445.088.557 Strong PDF 2026-00230675 733 5.68m / 9901 loss 5k; next rq_2933 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T17:36:18Z,rq_2933,2933,no,tick2933 leftover dual Familiehulp Goed Wonen Sint-Joost-ten-Node 0899.676.879 Strong PDF 2026-00306748 9900 5.07m / 9901 391k; next rq_2934 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

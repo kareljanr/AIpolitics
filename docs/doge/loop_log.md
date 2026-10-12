@@ -32153,3 +32153,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mlocbxl.irisnet.be — general mailbox verified on official page https://missionlocalebxlville.be/ (address matches KBO).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_mission_locale_bruxelles_ville_vaph_matrix_733_5_68m_9901_loss_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2932/; rq_2932=done; spawn **rq_2933**; ticks=2932.
 - Next: **rq_2933 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2933 — 2026-10-12T17:36:18Z — rq_2933 leftover dual Familiehulp Goed Wonen Sint-Joost-ten-Node YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE earlier KBO NACE-BEL activity scans 2026-10-12 (Brussels 88.991-88.999 and 87.x/88.10x in 22 postcodes; Flemish 87.x/88.10x), unprocessed hits ranked by YE2025 NBB primary figure: **Familiehulp Goed Wonen** → KBO 0899.676.879 had 0 prior entity rows.
+- KBO: Actief since 6 augustus 2008; VZW; zetel Koningsstraat 294 1210 Sint-Joost-ten-Node; 7 VE; 0 prior entity rows for 0899.676.879
+- Found: official NBB VKT-VZW native PDF **2026-00306748** (225570 B / 19p; AV 18-06-2026; neergelegd 14/07/2026; MD5 75e26600b42e16b9d7472d40ec040238). VKT-VZW 9900 **EUR5074198** (+50.21%); 62 **EUR4291934**; 9901 **EUR390841** (was -582451); 9904 405546; equity 2813390; cash 238756; FTE 97,3 (was 85,8).
+- FOI address: info@goed-wonen.be — general mailbox verified on official page https://www.familiehulp.be/aanbod/kwaliteitsvol-wonen/goed-wonen (head office; address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_familiehulp_goed_wonen_sint_joost_vaph_matrix_9900_5_07m_9901_391k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2933/; rq_2933=done; spawn **rq_2934**; ticks=2933.
+- Next: **rq_2934 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
