@@ -29657,3 +29657,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: david.lowyck@minor-ndako.be — named contact from official Opgroeien OVBJ list (opened); official contact page https://www.minor-ndako.be/contact offers only a web form and phone 0496 16 71 72, no general mailbox.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_anderlecht); FOI **gap_minor_ndako_anderlecht_vaph_matrix_733_11_95m_9901_153k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2685/; rq_2685=done; spawn **rq_2686**; ticks=2685.
 - Next: **rq_2686 leftover dual** — Opgroeien OVBJ Vlaams-Brabant/Brussel list in progress; next: remaining OVBJ Vlaams-Brabant/Brussel units, then IBIS (verify mailbox), then KBO NACE 87/88 lists.
+
+
+## Tick 2686 — 2026-10-12T08:53:30Z — rq_2686 leftover dual Radar Ternat YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Vlaams-Brabant/Brussel list (april 2026): **Radar** → KBO 0445.200.702 had 0 prior entity rows.
+- KBO: Actief since 12 februari 1991; VZW; zetel Statiestraat 8 1740 Ternat; 1 VE; 0 prior entity rows for 0445.200.702
+- Found: official NBB VKT-VZW native PDF **2026-00090277** (56437 B / 16p; AV 21-04-2026; neergelegd 28/04/2026; MD5 28414d72846ef4240069ca8970fc84f9). VKT-VZW 9900 **EUR1725796** (+16.61%); 62 **EUR1380136**; 9901 **EUR73054** (was 129401); 9904 83089; equity 989605; cash 1008091; FTE 19,7 (was 16,3).
+- FOI address: info@vzwradar.be — general mailbox verified on official page https://www.vzwradar.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ternat); FOI **gap_radar_ternat_vaph_matrix_9900_1_73m_9901_73k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2686/; rq_2686=done; spawn **rq_2687**; ticks=2686.
+- Next: **rq_2687 leftover dual** — Opgroeien OVBJ Vlaams-Brabant/Brussel list in progress; next: remaining OVBJ Vlaams-Brabant/Brussel units, then IBIS (verify mailbox), then KBO NACE 87/88 lists.
