@@ -33472,3 +33472,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@advn.be — general mailbox verified on official page https://advn.be/nl (KBO number and Lange Leemstraat 26 shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_advn_antwerpen_vaph_matrix_9900_1_76m_9901_92k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3063/; rq_3063=done; spawn **rq_3064**; ticks=3063.
 - Next: **rq_3064 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3064 — 2026-10-12T20:52:05Z — rq_3064 leftover dual Complexe sportif Poseidon Sint-Lambrechts-Woluwe YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Belgian publicly funded codes: 91.110/91.120 libraries and archives, 90.111/90.311/90.130 arts venues, 93.110/93.210 municipal sports facilities, 85.520 cultural education; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure; every candidate passed the name/alias/KBO/website dedup check: **Complexe sportif Poseidon** → KBO 0407.759.888 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1964; VZW; zetel Dapperenlaan 2 1200 Sint-Lambrechts-Woluwe; 1 VE; 0 prior entity rows for 0407.759.888
+- Found: official NBB VKT-VZW native PDF **2026-00357460** (50962 B / 14p; AV 08-06-2026; neergelegd 30/07/2026; MD5 ad88f415a5762ece379f3622bf62ebec). VKT-VZW 9900 **EUR1434885** (+2.30%); 62 **EUR1463043**; 9901 **EUR-61191** (was 26737); 9904 0; equity -310334; cash 155467; FTE 23,8 (was 24,6).
+- FOI address: poseidon@woluwe1200.be — facility mailbox verified on official municipal page https://www.woluwe1200.be/services/complexe-sportif-poseidon/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_woluwe_saint_lambert); FOI **gap_poseidon_woluwe_vaph_matrix_9900_1_43m_9901_loss_61k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3064/; rq_3064=done; spawn **rq_3065**; ticks=3064.
+- Next: **rq_3065 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
