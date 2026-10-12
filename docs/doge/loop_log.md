@@ -34192,3 +34192,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: segec@segec.be — general mailbox verified on official legal-notice page https://enseignement.catholique.be/mentions-legales/ (page gives BCE 0451.952.001).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_woluwe_saint_lambert); FOI **gap_segec_vaph_matrix_733_10_40m_9901_2093k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3135/; rq_3135=done; spawn **rq_3136**; ticks=3135.
 - Next: **rq_3136 leftover dual** — Batch done; next: remaining FWB free-school POs by code 733: ECD Braine-le-Comte (0409.458.081, EUR13.74m), Institut Notre-Dame Fleurus (0409.458.180, EUR11.97m); skipped for mailbox: Collège Saint-Guibert (only personal mailboxes), Saint-Hadelin Visé (no mailbox on official page), Sainte-Claire Verviers (mailbox not on own official page).
+
+
+## Tick 3136 — 2026-10-12T23:19:20Z — rq_3136 leftover dual Enseignement Catholique Diocésain de Braine-le-Comte Braine-le-Comte YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies (pouvoirs organisateurs, ASBL) and related free-education non-profits; KBO name search over school/PO names (legal form ASBL), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Enseignement Catholique Diocésain de Braine-le-Comte** → KBO 0409.458.081 had 0 prior entity rows.
+- KBO: Actief since 10 maart 1923; VZW; zetel Rue des Postes 101 7090 Braine-le-Comte; 6 VE; 0 prior entity rows for 0409.458.081
+- Found: official NBB VOL-VZW native PDF **2026-00168922** (3273824 B / 35p; AV 15-06-2026; neergelegd 16/06/2026; MD5 c2ddb543b190f8ca023db317f939a119). VOL-VZW 733 **EUR13744929** (+0.97%); 62 **EUR12523726**; 9901 **EUR148007** (was 77564); 9904 95736; equity 4480754; cash 265999; FTE 16,8 (was 18).
+- FOI address: contact@indbe.be — general mailbox of its Institut Notre-Dame de Bonne-Espérance (same address as this ASBL KBO seat, Rue des Postes 101) verified on the official school site https://www.indbe.be/; also listed in the Province of Hainaut directory https://websoc.hainaut.be/DI03707.htm.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_ecd_braine_le_comte_vaph_matrix_733_13_74m_9901_148k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3136/; rq_3136=done; spawn **rq_3137**; ticks=3136.
+- Next: **rq_3137 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
