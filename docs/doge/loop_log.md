@@ -30630,3 +30630,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: residentie@hofterlinden.be — general mailbox verified on official page https://www.hofterlinden.be/contact (also on the municipal page evergem.be/HofTerLinden).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_evergem); FOI **gap_hof_ter_linden_evergem_vaph_matrix_9900_3_15m_9901_73k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2781/; rq_2780=done; spawn **rq_2782**; ticks=2781.
 - Next: **rq_2782 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2782 — 2026-10-12T14:16:39Z — rq_2782 leftover dual Thuiszorg H. Hart Kortrijk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301 (nursing homes) and 88.101 (home care) activity search, West-/Oost-Vlaanderen and Leuven/Limburg postcodes, ranked by primary figure: **Thuiszorg H. Hart** → KBO 0833.759.837 had 0 prior entity rows.
+- KBO: Actief since 2 februari 2011; VZW; zetel Budastraat(Kor) 30 8500 Kortrijk; 1 VE; 0 prior entity rows for 0833.759.837
+- Found: official NBB VKT-VZW native PDF **2026-00296790** (46985 B / 11p; AV 17-06-2026; neergelegd 15/07/2026; MD5 e9dfecc59d45ce24964c8fdeeb7f44d3). VKT-VZW 9900 **EUR2555275** (-4.71%); 62 **EUR2385511**; 9901 **EUR166265** (was 386310); 9904 165895; equity 2383993; cash 893941; FTE 37,9 (was 35,8).
+- FOI address: gezinszorg@h-hart.be — general mailbox verified on official page https://gezinszorghhart.be/contact/ (Kortrijk service office mailbox; KBO 0833.759.837 shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_thuiszorg_h_hart_kortrijk_vaph_matrix_9900_2_56m_9901_166k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2782/; rq_2782=done; spawn **rq_2783**; ticks=2782.
+- Next: **rq_2783 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
