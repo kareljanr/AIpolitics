@@ -32293,3 +32293,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: brussels@duoforajob.be — general (Brussels office) mailbox verified on official page https://www.duoforajob.be/en/contact; registered office Rue de Stassart 48 per its own legal notice (matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_duo_for_a_job_vaph_matrix_9900_4_09m_9901_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2946/; rq_2946=done; spawn **rq_2947**; ticks=2946.
 - Next: **rq_2947 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
+
+
+## Tick 2947 — 2026-10-12T17:56:25Z — rq_2947 leftover dual Formation, Education, Culture (FEC) Bruxelles (Schaerbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels 85.592 vocational training and 86.940 in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Formation, Education, Culture (FEC)** → KBO 0420.806.190 had 0 prior entity rows.
+- KBO: Actief since 14 augustus 1980; VZW; zetel Haachtsesteenweg 579 1030 Schaarbeek; 10 VE; 0 prior entity rows for 0420.806.190
+- Found: official NBB VKT-VZW native PDF **2026-00243704** (189363 B / 23p; AV 25-06-2026; neergelegd 01/07/2026; MD5 3c391d95f8bbf0cf7382acc58203d50c). VKT-VZW 9900 **EUR3214766** (-3.04%); 62 **EUR2932120**; 9901 **EUR3479** (was 1476); 9904 0; equity 38303; cash 297937; FTE 30,8 (was 32,5).
+- FOI address: info@fecasbl.be — general mailbox verified on official page https://www.fecasbl.be/contact (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_fec_bruxelles_vaph_matrix_9900_3_21m_9901_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2947/; rq_2947=done; spawn **rq_2948**; ticks=2947.
+- Next: **rq_2948 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
