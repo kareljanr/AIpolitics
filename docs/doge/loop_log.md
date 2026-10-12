@@ -30032,3 +30032,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: cpz@preventiezelfdoding.be — general mailbox verified on official page https://www.preventiezelfdoding.be/over-ons (KBO number shown on page).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_cpz_schaarbeek_vaph_matrix_9900_1_56m_9901_loss_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2722/; rq_2722=done; spawn **rq_2723**; ticks=2722.
 - Next: **rq_2723 leftover dual** — KBO NACE 88.994 (general welfare work) and 87.301 (rest homes) scan in progress; next: remaining 88.994/87.301 units.
+
+
+## Tick 2723 — 2026-10-12T09:36:44Z — rq_2723 leftover dual HOBO Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.994/87.301 activity search (general welfare work without accommodation / residential care homes for the elderly): **HOBO** → KBO 0447.445.261 had 0 prior entity rows.
+- KBO: Actief since 11 februari 1992; VZW; zetel Kogelstraat 24 1000 Brussel; 3 VE; 0 prior entity rows for 0447.445.261
+- Found: official NBB VKT-VZW native PDF **2026-00213512** (47454 B / 13p; AV 10-04-2026; neergelegd 29/06/2026; MD5 ecc5ecc6057cc1264cd916494bf60eb7). VKT-VZW 9900 **EUR767912** (-13.23%); 62 **EUR768922**; 9901 **EUR-1011** (was 195); 9904 -1011; equity 36174; cash 155717; FTE 12 (was 13,4).
+- FOI address: contact@hobo.brussels — general mailbox verified on official page https://www.hobo.brussels/site/nl/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_hobo_brussel_vaph_matrix_9900_0_77m_9901_loss_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2723/; rq_2723=done; spawn **rq_2724**; ticks=2723.
+- Next: **rq_2724 leftover dual** — KBO NACE 88.994 (general welfare work) and 87.301 (rest homes) scan in progress; next: remaining 88.994/87.301 units.
