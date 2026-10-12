@@ -32923,3 +32923,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vkgent.be — general mailbox verified on official page https://www.vertrouwenscentrum-kindermishandeling.be/gent/ (address Brugsesteenweg 274 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_vk_oost_vlaanderen_vaph_matrix_9900_1_94m_9901_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3009/; rq_3009=done; spawn **rq_3010**; ticks=3009.
 - Next: **rq_3010 leftover dual** — Batch done; next: remaining extended-scan hits (JOBROAD EUR1.71m, PCH Kindermishandeling EUR1.49m) and other Flemish postcodes/codes, larger first; skipped this batch: Sodalis (social secretariat, out of scope), Cunina (international child-sponsorship NGO, not prioritised), Buurtwerk Posthof (own site unreachable), EMMA/Emanuela (no mailbox on own site), Philippus Neri (personal mailboxes only).
+
+
+## Tick 3010 — 2026-10-12T19:03:02Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2650** of 2702 rows; inventory budgets 59737 · commitments 6702 · leaderboard 8822 · entities 2721 · sources 9037.
+- Top10: **stable** (3001-3009 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3001-3009: Vistha (Sint-Truiden) · Stebo (Genk) · Acta (Brasschaat) · Synkroon (Aarschot) · BLM Begeleidingsdienst Limburgs Mijngebied (Genk) · STW (Antwerpen) · Autisme Vlaanderen (Gent) · Saamo Oost-Vlaanderen (Gent) · Kindermishandeling Oost-Vlaanderen (Gent).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3010 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3010 run locally as fallback.
+- Next: **rq_3010** — remaining extended-scan hits (JOBROAD EUR1.71m, PCH Kindermishandeling EUR1.49m) or further Flemish postcodes/codes with larger recipients, largest first.

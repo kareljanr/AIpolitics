@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 3010** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3000; 3001-3009 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3001-3009 residual dual L5 (not near-complete of 348bn):** Vistha (Sint-Truiden) · Stebo (Genk) · Acta (Brasschaat) · Synkroon (Aarschot) · BLM Begeleidingsdienst Limburgs Mijngebied (Genk) · STW (Antwerpen) · Autisme Vlaanderen (Gent) · Saamo Oost-Vlaanderen (Gent) · Kindermishandeling Oost-Vlaanderen (Gent) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2650** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2702** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 3001-3009** Vistha (Sint-Truiden) · Stebo (Genk) · Acta (Brasschaat) · Synkroon (Aarschot) · BLM Begeleidingsdienst Limburgs Mijngebied (Genk) · STW (Antwerpen) · Autisme Vlaanderen (Gent) · Saamo Oost-Vlaanderen (Gent) · Kindermishandeling Oost-Vlaanderen (Gent).
+
+### Inventory (tick 3010)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 59737 |
+| commitments.csv | 6702 |
+| leaderboard.csv | 8822 |
+| entities.csv | 2721 |
+| sources.csv | 9037 |
+| FOI ready | 2650 |
+| FOI total rows | 2702 |
+| research_queue open | rq_3010 (carried; next: another Flemish activity code, largest first) |
+
+### What improved since tick 3000
+
+- **New source (tick3001-3009):** Vistha (Sint-Truiden) · Stebo (Genk) · Acta (Brasschaat) · Synkroon (Aarschot) · BLM Begeleidingsdienst Limburgs Mijngebied (Genk) · STW (Antwerpen) · Autisme Vlaanderen (Gent) · Saamo Oost-Vlaanderen (Gent) · Kindermishandeling Oost-Vlaanderen (Gent). Source: the same multi-code KBO NACE-BEL scan (85.592, 87.101, 87.301, 87.302, 88.101, 88.109, 88.911, 88.999) EXTENDED to 22 more Flemish city postcodes (Roeselare, Genk, Sint-Truiden, Lier, Geel, Herentals, Mol, Dendermonde, Lokeren, Ieper, Waregem, Tienen, Halle, Aarschot, Tongeren, Beringen, Ninove, Eeklo, Oudenaarde, Brasschaat, Diest, Asse), ranked largest first; its top 5 usable hits (EUR6.19m-3.16m) beat the rq_3000 leftovers, then 88.99x leftovers filled the batch.
+- **Toolkit:** no change (code-73 mode not triggered this batch).
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION).
+- **Runner note:** 2576-3010 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 3001-3009 (fast, ~5 min cap):** Rode Kruis-Vlaanderen (kept skipped: mostly donations; no general mailbox), Sodalis (social secretariat, out of scope), Cunina (international child-sponsorship NGO, not prioritised), Buurtwerk Posthof (own site unreachable), EMMA/Emanuela (no mailbox on own site), Philippus Neri (personal mailboxes only).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3000** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
