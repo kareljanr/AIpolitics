@@ -34302,3 +34302,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@helha.be — general mailbox verified on official page https://www.helha.be/administration-helha/ (listed for the registered office, Chaussée de Binche 159).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mons); FOI **gap_helha_vaph_matrix_733_72_32m_9901_1746k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3146/; rq_3146=done; spawn **rq_3147**; ticks=3146.
 - Next: **rq_3147 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3147 — 2026-10-12T23:44:02Z — rq_3147 leftover dual Haute Ecole Léonard de Vinci (HE Vinci) Woluwe-Saint-Lambert YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Catholic school boards and university colleges (Flemish schoolbesturen VZW and FWB organising bodies / hautes écoles, ASBL); new KBO name search (legal form VZW/ASBL; words such as Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège Saint, Institut Saint), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Haute Ecole Léonard de Vinci (HE Vinci)** → KBO 0459.279.954 had 0 prior entity rows.
+- KBO: Actief since 17 januari 1996; VZW; zetel Almaplein 3 1200 Sint-Lambrechts-Woluwe; 12 VE; 0 prior entity rows for 0459.279.954
+- Found: official NBB VOL-VZW native PDF **2026-00258488** (3510054 B / 53p; AV 16-06-2026; neergelegd 03/07/2026; MD5 a16ffb9542e7987f9fccdaaa2e887b66). VOL-VZW 733 **EUR65000351** (+7.28%); 62 **EUR50613304**; 9901 **EUR6864614** (was 5933994); 9904 7247665; equity 81255096; cash 11585897; FTE 598,9 (was 569,6).
+- FOI address: info@vinci.be — general mailbox verified on official legal-notice page https://www.vinci.be/fr/mentions-legales (page gives BCE 0459.279.954).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_woluwe_saint_lambert); FOI **gap_he_vinci_vaph_matrix_733_65_00m_9901_6865k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3147/; rq_3147=done; spawn **rq_3148**; ticks=3147.
+- Next: **rq_3148 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
