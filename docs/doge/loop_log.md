@@ -28868,3 +28868,12 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2600 stays open (carried).
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2600 run locally as fallback.
 - Next: **rq_2600 leftover dual** — VAPH adreslijst scanned to its last page (62); pick a new candidate source (e.g. other VAPH organisation types or KBO NACE 87/88 lists).
+
+
+## Tick 2601 — 2026-10-12T07:54:32Z — rq_2601 leftover dual Huis in de Stad Tienen YE2025 (local fallback runner)
+
+- Hunt: NEW CANDIDATE SOURCE after VAPH adreslijst type=1389 (Vergunde Zorgaanbieder) was exhausted at page 62. Per LOOP.md priority (no in_progress rq; no FOI draft prio≥8; open rq_2600) the order is: (1) Strong-PDF upgrade of Huis in de Stad Tienen (official NBB 2026-00217681), then (2) VAPH adreslijst type=1387 (Rechtstreeks toegankelijke hulp, 201 orgs) filtered to non-VZA providers, then (3) KBO care-sector (NACE 87/88) lists. This tick: Huis in de Stad upgrade.
+- KBO: Actief since 02.02.1968; VZW; zetel Hamelendreef 60 3300 Tienen; existing entity vzw_huis_in_de_stad_tienen (tick2308 Medium) upgraded to Strong
+- Found: official NBB VOL-VZW native PDF **2026-00217681** (502910 B / 46p; AV 18-06-2026; neergelegd 25/06/2026; MD5 d689ce3874ef37eb7b71f3d719e11bac). VOL 70/76A **EUR11807629** (+3.82%); 733 **EUR9821855** (+4.12%); 62 **EUR9384197**; 9901 **EUR496498** (was 189747); 9904 589003 (matches tick2308 Medium); equity 9264665 (matches); geldbeleggingen 3679599 + cash 789519; FTE 122,2 (matches).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.00; entities +0 (existing entity upgraded Medium→Strong); FOI **gap_huis_in_de_stad_tienen_vaph_matrix_733_9_82m_9901_496k_beleg_3_68m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2601/; rq_2601=done; spawn **rq_2602**; ticks=2601.
+- Next: **rq_2602 leftover dual** — VAPH adreslijst type=1387 (RTH) non-VZA providers, then KBO NACE 87/88 lists.
