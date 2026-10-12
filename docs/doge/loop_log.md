@@ -29023,3 +29023,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00152330** (312060 B / 22p; AV 10-06-2026; neergelegd 11/06/2026; MD5 e2e0375f10aee5142870db505e3759d5). VKT-VZW 9900 **EUR363586** (-23.56%); 62 **EUR104271**; 9901 **EUR26795** (was 94217); 9904 40655; equity 4148284; cash 1706212; FTE 2,2 (was 3,6).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.45; entities +1 (parent city_kortrijk); FOI **gap_clb_aan_de_leie_kortrijk_vaph_matrix_9900_364k_9901_27k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2617/; rq_2617=done; spawn **rq_2618**; ticks=2617.
 - Next: **rq_2618 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2618 — 2026-10-12T08:11:46Z — rq_2618 leftover dual Vrij CLB Anker Sint-Niklaas YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Vrij CLB-netwerk / VAPH MDT list (tid:1393): **Vrij CLB Anker** → KBO 0468.451.404 had 0 prior entity rows.
+- KBO: Actief since 23 juni 1999; VZW; zetel Ankerstraat 63, 9100 Sint-Niklaas; 5 VE; 0 prior entity rows for 0468.451.404
+- Found: official NBB VKT-VZW native PDF **2026-00196109** (306449 B / 22p; AV 26-05-2026; neergelegd 24/06/2026; MD5 bd3b8c02234a69abd1d6c5b6fa241b77). VKT-VZW 9900 **EUR630182** (-1.11%); 62 **EUR242798**; 9901 **EUR83288** (was 93612); 9904 97794; equity 4441301; cash 734356; FTE 3,8 (was 3,6).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.45; entities +1 (parent city_sint_niklaas); FOI **gap_vrij_clb_anker_sint_niklaas_vaph_matrix_9900_630k_9901_83k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2618/; rq_2618=done; spawn **rq_2619**; ticks=2618.
+- Next: **rq_2619 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
