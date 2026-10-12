@@ -31583,3 +31583,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@mass-bxl.be — general mailbox verified on official page https://www.mass-bxl.be/contact (company number on site).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_mass_bruxelles_vaph_matrix_9900_2_04m_9901_loss_110k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2875/; rq_2875=done; spawn **rq_2876**; ticks=2875.
 - Next: **rq_2876 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2876 — 2026-10-12T16:39:29Z — rq_2876 leftover dual SOS enfants ULB - CHU Saint-Pierre Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **SOS enfants ULB - CHU Saint-Pierre** → KBO 0428.753.856 had 0 prior entity rows.
+- KBO: Actief since 30 januari 1984; VZW; zetel Hoogstraat 322 1000 Brussel Extra adresinfo: Hôpital Saint Pierre; 1 VE; 0 prior entity rows for 0428.753.856
+- Found: official NBB VKT-VZW native PDF **2026-00282511** (50422 B / 14p; AV 04-06-2026; neergelegd 04/07/2026; MD5 f07eb5cbeb127bcc7fce604d6adfde38). VKT-VZW 9900 **EUR1462115** (-18.16%); 62 **EUR1546476**; 9901 **EUR-84962** (was 65850); 9904 -84962; equity 319369; cash 501336; FTE n/a.
+- FOI address: sosulb@ulb.ac.be — general mailbox verified on official page https://sos-enfants.ulb.be/fr.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_sos_enfants_ulb_bruxelles_vaph_matrix_9900_1_46m_9901_loss_85k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2876/; rq_2876=done; spawn **rq_2877**; ticks=2876.
+- Next: **rq_2877 leftover dual** — Batch done; next: remaining larger hits of the fresh scan (Brussels 88.999 triage, Groupement de Services d'Accompagnement, CATD, Missing Children Europe); the Flemish part of the scan returned almost only bodies already covered.
