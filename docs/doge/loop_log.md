@@ -29052,3 +29052,12 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2620 run locally as fallback.
 - Source choice (recorded): VAPH non-VZA type lists used up at 2609 → ticks 2611-2613 VAPH MDT list (tid:1393) non-hospital VZWs → ticks 2614-2619 Vrij CLB-netwerk (VAPH-recognised MDTs).
 - Next: **rq_2620** — remaining Vrij CLBs (Kempen, Mechelen, Noordwest-Brabant, Meetjesland…; Halle needs manual parse), then KBO NACE 87/88 lists.
+
+
+## Tick 2621 — 2026-10-12T08:15:17Z — rq_2621 leftover dual CLB Het Kompas Mechelen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Vrij CLB-netwerk / VAPH MDT list (tid:1393): **CLB Het Kompas** → KBO 0407.878.664 had 0 prior entity rows. Continued Vrij CLB-netwerk. Skipped: Vrij CLB Kempen (run by school board vzw Verbint; no separate CLB KBO), Vrij CLB Netwerk koepel 0473.721.472 (Schaarbeek, no Brussels parent), VCLB West-Vlaanderen koepel 0410.539.731 (no NBB deposits).
+- KBO: Actief since 1 januari 1948; VZW; zetel Vijfhoek 1A, 2800 Mechelen; 3 VE; 0 prior entity rows for 0407.878.664
+- Found: official NBB VKT-VZW native PDF **2026-00210177** (303358 B / 21p; AV 11-06-2026; neergelegd 26/06/2026; MD5 36785de66b81ba65af6471417e21b1af). VKT-VZW 9900 **EUR193841** (-24.44%); 62 **EUR77159**; 9901 **EUR-110363** (was -62861); 9904 -71857; equity 4111788; cash 59465; FTE 1,9 (was 1,7).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.45; entities +1 (parent city_mechelen); FOI **gap_clb_het_kompas_mechelen_vaph_matrix_9900_194k_9901_loss_110k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2621/; rq_2621=done; spawn **rq_2622**; ticks=2621.
+- Next: **rq_2622 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
