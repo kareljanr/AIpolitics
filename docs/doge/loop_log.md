@@ -29532,3 +29532,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00230113** (1296177 B / 17p; AV 28-05-2026; neergelegd 30/06/2026; MD5 e7dd75b47673a63c02d034b4e5843d0a). VKT-VZW 9900 **EUR2067262** (+22.43%); 62 **EUR1871003**; 9901 **EUR44807** (was -134217); 9904 55979; equity 1046030; cash 666803; FTE 22,5 (was 21,2).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_hasselt); FOI **gap_yar_vlaanderen_hasselt_vaph_matrix_9900_2_07m_9901_45k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2672/; rq_2672=done; spawn **rq_2673**; ticks=2672.
 - Next: **rq_2673 leftover dual** — Opgroeien OVBJ Antwerpen leftovers done; next: OVBJ Vlaams-Brabant/Brussel (PDF needs re-parse), then KBO NACE 87/88 lists.
+
+
+## Tick 2673 — 2026-10-12T08:40:25Z — rq_2673 leftover dual Jongerenwerking Pieter Simenon Lommel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Limburg list (mei 2026): **Jongerenwerking Pieter Simenon** → KBO 0408.336.346 had 0 prior entity rows.
+- KBO: Actief since 19 mei 1971; VZW; zetel Martinus Van Gurplaan 45, 3920 Lommel; 6 VE; 0 prior entity rows for 0408.336.346
+- Found: official NBB VOL-VZW native PDF **2026-00071528** (5469607 B / 39p; AV 31-03-2026; neergelegd 01/04/2026; MD5 fc8805972d089dec33bf346793ca0911). VOL-VZW 733 **EUR6866088** (+6.73%); 62 **EUR5786006**; 9901 **EUR365609** (was 270941); 9904 376051; equity 9107894; cash 1279134; FTE 77,1 (was 77,8).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lommel); FOI **gap_pieter_simenon_lommel_vaph_matrix_733_6_87m_9901_366k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2673/; rq_2673=done; spawn **rq_2674**; ticks=2673.
+- Next: **rq_2674 leftover dual** — Opgroeien OVBJ Antwerpen leftovers done; next: OVBJ Vlaams-Brabant/Brussel (PDF needs re-parse), then KBO NACE 87/88 lists.
