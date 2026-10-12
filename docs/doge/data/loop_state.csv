@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T07:19:57Z,rq_2576,2576,no,tick2576 leftover dual De Klaproos Beveren-Kruibeke-Zwijndrecht 0457.606.804 Strong PDF 2026-00523785 9900 2.14m / 9901 DROP 99k / 62 JUMP 1.87m; next rq_2577 continue VAPH list scan (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T07:21:35Z,rq_2577,2577,no,tick2577 leftover dual De Vijver Antwerpen (Deurne) 0429.040.896 Strong PDF 2026-00128224 733 22.98m / 70/76A 25.75m / 62 JUMP 21.21m; next rq_2578 continue VAPH list scan (local fallback runner; Actions cron unreliable)

@@ -28649,3 +28649,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00523785** (49157 B / 13p; AV 16-09-2026; neergelegd 25/09/2026; MD5 0acd8a17d55e092696dcec6b99527a4e). VKT 9900 **EUR2144546** (+3.67%); 62 **EUR1867133** (+9.29%); 9901 **EUR98906** DROP (was 188768); 9904 **EUR97503** (was 197332); equity 3042188 (kapitaalsubsidies 135494); debt 1194964; cash 752895; FTE 24,9 (was 25,4).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.60; entities +1 (parent city_bkz); FOI **gap_de_klaproos_bkz_vaph_matrix_9900_2_14m_9901_drop_99k_62_jump_1_87m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2576/; rq_2576=done; spawn **rq_2577**; ticks=2576.
 - Next: **rq_2577 leftover dual** — continue VAPH list scan (every-10 due at 2580).
+
+
+## Tick 2577 — 2026-10-12T07:21:35Z — rq_2577 leftover dual De Vijver Antwerpen (Deurne) YE2025 (local fallback runner)
+
+- Hunt: VAPH adreslijst pages 15-19 scanned; Dienstencentrum Sint-Oda Pelt = Stijn skip; DVC Zevenbergen Ranst = Emmaus skip; Vleugels/Den Brand/Mozaiek/Dominiek Savio/Empa already in repo; **De Vijver Deurne** → KBO 0429.040.896 had 0 prior repo rows.
+- KBO: Actief Normale toestand since 20.11.1984; VZW; naam DE VIJVER since 16.10.2012; zetel Bosuil 138 2100 Antwerpen since 13.05.2014; 10 VE; 11 functiehouders; 0 prior repo rows for 0429.040.896; Identity trap != other 'Vijver' named entities in repo (WZC/school/park names)
+- Found: official NBB VOL-VZW native PDF **2026-00128224** (5240953 B / 50p; AV 19-05-2026; neergelegd 27/05/2026; MD5 1baf053691eda472028a515679438e65). VOL 70/76A **EUR25752446** (+9.50%); 733 **EUR22979320** (+10.08%); 62 **EUR21209053** (+10.88%); 9901 **EUR146908** (was 91027); 9904 **EUR132686**; equity 5319677; debt 6899216 (9061 public-guaranteed 1804417); cash 4753855 + beleggingen 1000000 (was 2000000); FTE 281,8 (was 271,6).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.70; entities +1 (parent city_antwerpen); FOI **gap_de_vijver_deurne_vaph_matrix_733_22_98m_70_76a_25_75m_62_jump_21_21m_l5** prio7 ready (NOT sent) + draft; raw docs/doge/raw/tick2577/; rq_2577=done; spawn **rq_2578**; ticks=2577.
+- Next: **rq_2578 leftover dual** — continue VAPH list scan (every-10 due at 2580).
