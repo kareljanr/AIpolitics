@@ -32423,3 +32423,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@aremis-asbl.org — general mailbox verified on official page https://www.aremis-asbl.org/contactez-nous/ (address Rue de la Consolation 83 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_aremis_schaerbeek_vaph_matrix_9900_1_38m_9901_205k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2959/; rq_2959=done; spawn **rq_2960**; ticks=2959.
 - Next: **rq_2960 leftover dual** — Batch done; next: remaining 85.592/86.940 scan hits below EUR1.5m (ARPAIJE EUR1.33m, Centrale Culturelle Bruxelloise EUR1.32m, Action Vivre Ensemble EUR1.32m, Médecine pour le Peuple Schaerbeek EUR1.26m, Sémiramis EUR1.25m), larger first, or a new activity code; skipped this batch: INOM and Vervolmakingscentrum voor lassers (sector-levy training funds, out of subsidy scope), CF2M and Wit-Gele Kruis van Brussel (mailbox only on third-party pages / none found), Continuing Care (mailbox masked on own site), Palliatief Netwerk Omega (site address differs from KBO), Egmont Institute (federal foundation; Brussels access-to-documents basis does not fit), ACV-CSC International (no own site found).
+
+
+## Tick 2960 — 2026-10-12T18:03:34Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2605** of 2657 rows; inventory budgets 59365 · commitments 6657 · leaderboard 8777 · entities 2676 · sources 8902.
+- Top10: **stable** (2951-2959 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2951-2959: ACV Innovatief (Schaerbeek) · COFTEN (Saint-Josse) · Horeca Forma Bruxelles (Anderlecht) · Le Piment (Molenbeek) · ERAP-GSOB (Ixelles) · Centre de Formation Bonnevie (Molenbeek) · COBEFF (Schaerbeek) · IDEE 53 (Anderlecht) · Arémis (Schaerbeek).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2960 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-2960 run locally as fallback.
+- Next: **rq_2960** — remaining 85.592/86.940 hits below EUR1.5m (ARPAIJE EUR1.33m, Centrale Culturelle Bruxelloise EUR1.32m, Action Vivre Ensemble EUR1.32m, Médecine pour le Peuple Schaerbeek EUR1.26m, Sémiramis EUR1.25m), or a new activity code.
