@@ -30467,3 +30467,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: kinderdagverblijf@auricula-overleie.be — general mailbox verified on official page https://auricula-overleie.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_auricula_kortrijk_vaph_matrix_9900_1_39m_9901_loss_38k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2765/; rq_2765=done; spawn **rq_2766**; ticks=2765.
 - Next: **rq_2766 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2766 — 2026-10-12T13:48:18Z — rq_2766 leftover dual De Egeltjes Sint-Truiden YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, Limburg / West- and Oost-Vlaanderen postcodes: **De Egeltjes** → KBO 0841.876.955 had 0 prior entity rows.
+- KBO: Actief since 9 juni 2011; VZW; zetel Kwadensteenweg 75 3800 Sint-Truiden; 1 VE; 0 prior entity rows for 0841.876.955
+- Found: official NBB MIC-VZW native PDF **2026-00118100** (45063 B / 11p; AV 23-04-2026; neergelegd 22/05/2026; MD5 3667b3182dfc07608e1b3ad48d300e75). MIC-VZW 9900 **EUR468945** (+9.38%); 62 **EUR407953**; 9901 **EUR21993** (was -757); 9904 19742; equity 129290; cash 33512; FTE n/a (social balance current-year columns empty) (was 6,5).
+- FOI address: info@egeltjes.be — general mailbox verified on official page https://egeltjes.be/contact (KBO number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_sint_truiden); FOI **gap_de_egeltjes_sint_truiden_vaph_matrix_9900_0_47m_9901_22k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2766/; rq_2766=done; spawn **rq_2767**; ticks=2766.
+- Next: **rq_2767 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
