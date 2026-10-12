@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T14:02:12Z,rq_2777,2777,no,tick2777 leftover dual Dienst voor Opvanggezinnen Junior Zele 0862.806.189 Strong PDF 2026-00193305 9900 0.05m / 9901 21k; next rq_2778 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T14:02:20Z,rq_2778,2778,no,tick2778 leftover dual Kinderrijk Leuven (Heverlee) 0411.097.183 Strong PDF 2026-00174950 9900 2.45m / 9901 326k; next rq_2779 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

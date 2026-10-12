@@ -30589,3 +30589,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: dogzele@skynet.be — general mailbox verified on official page https://www.oko-en-zo.be/contact (service mailbox listed under "Dienst voor opvanggezinnen, Rotstraat 20").
 - Wrote: sources +3; budgets +7; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_zele); FOI **gap_opvanggezinnen_junior_zele_vaph_matrix_9900_0_05m_9901_21k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2777/; rq_2777=done; spawn **rq_2778**; ticks=2777.
 - Next: **rq_2778 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2778 — 2026-10-12T14:02:20Z — rq_2778 leftover dual Kinderrijk Leuven (Heverlee) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, West-/Oost-Vlaanderen and Leuven/Limburg postcodes: **Kinderrijk** → KBO 0411.097.183 had 0 prior entity rows.
+- KBO: Actief since 27 augustus 1971; VZW; zetel Groenveldstraat 38 3001 Leuven; 1 VE; 0 prior entity rows for 0411.097.183
+- Found: official NBB VKT-VZW native PDF **2026-00174950** (56048 B / 16p; AV 31-05-2026; neergelegd 16/06/2026; MD5 8e181e4ee35f1beb9c3c82709f26282a). VKT-VZW 9900 **EUR2445787** (+5.38%); 62 **EUR1866563**; 9901 **EUR326088** (was 323079); 9904 341483; equity 5117804; cash 1156654; FTE 28,5 (was 28,3).
+- FOI address: info.kinderrijk@telenet.be — general mailbox verified on official page https://kinderrijkvzw.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_kinderrijk_leuven_vaph_matrix_9900_2_45m_9901_326k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2778/; rq_2778=done; spawn **rq_2779**; ticks=2778.
+- Next: **rq_2779 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
