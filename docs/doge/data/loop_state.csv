@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T07:48:47Z,rq_2596,2596,no,tick2596 leftover dual Widar Merksplas 0421.921.492 Strong PDF 2026-00408539 733 3.93m / 9901 219k; next rq_2597 continue VAPH list scan (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T07:50:33Z,rq_2597,2597,no,tick2597 leftover dual Tanderuis Melle 0462.234.001 Strong PDF 2026-00186567 73 5.50m / cash 1.77m; next rq_2598 continue VAPH list scan (local fallback runner; Actions cron unreliable)

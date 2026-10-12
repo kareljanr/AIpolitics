@@ -28831,3 +28831,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00408539** (92021 B / 30p; AV 12-06-2026; neergelegd 20/08/2026; MD5 4c9bef8d4ce9c3e54224b44aa92b7850). VOL 70/76A **EUR4975882** (+1.33%); 733 **EUR3934583** (+8.35%); 62 **EUR3794590** (+4.93%); 9901 **EUR219429** (+78%); 9904 175508; equity 3603421; debt 1692148 (>1j **EUR942729**); cash 3073; FTE 55,1.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.60; entities +1 (parent city_merksplas); FOI **gap_widar_merksplas_vaph_matrix_733_3_93m_9901_219k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2596/; rq_2596=done; spawn **rq_2597**; ticks=2596.
 - Next: **rq_2597 leftover dual** — continue VAPH list scan.
+
+
+## Tick 2597 — 2026-10-12T07:50:33Z — rq_2597 leftover dual Tanderuis Melle YE2025 (local fallback runner)
+
+- Hunt: VAPH adreslijst page 51 (background scan): **Tanderuis Melle** → KBO 0462.234.001 had 0 prior entity rows. Skipped: 't Weyerke (Stijn).
+- KBO: Actief since 19.11.1997; VZW; afkorting T.B.A.; zetel Brusselsesteenweg 375 bus A 9090 Melle; 1 VE; 0 prior entity rows for 0462.234.001
+- Found: official NBB VKT-VZW native PDF **2026-00186567** (57288 B / 17p; AV 18-05-2026; neergelegd 23/06/2026; MD5 efda2623a2843bdf7a15e440d8ed4bbd). VKT 9900 **EUR5230121** (+7.27%); 73 **EUR5503721** (+7.39%); 62 **EUR4954652**; 9901 **EUR185626**; 9904 182412; equity 1981752; cash **EUR1772841**; FTE 62.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.40; entities +1 (parent city_melle); FOI **gap_tanderuis_melle_vaph_matrix_73_5_50m_cash_1_77m_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2597/; rq_2597=done; spawn **rq_2598**; ticks=2597.
+- Next: **rq_2598 leftover dual** — continue VAPH list scan.
