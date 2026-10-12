@@ -33832,3 +33832,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lysco.be — general mailbox verified on official contact page https://lysco.be/contact/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_lysco_code740_split_740_0_27m_9901_loss_160k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3099/; rq_3099=done; spawn **rq_3100**; ticks=3099.
 - Next: **rq_3100 leftover dual** — Batch done; next: Le Foyer de la Région de Fléron (SLSP, EUR0.27m code 740), Le Foyer Wavrien (EUR0.10m), then more Walloon/Brussels intercommunales or provincial bodies with code 740 not yet in entities, largest first, after the dedup check; skipped this batch: Société de Logements de Mouscron (EUR0.56m; no mailbox on own site), Habitations Sociales de Saint-Nicolas (code 740 only in an appended budget table, not in the schema), Le Home Ougréen (only a sales mailbox found); duplicates: BEP, Intradel, ISoSL, IDETA, IDEA, Idelux Projets publics, Idelux Développement.
+
+
+## Tick 3100 — 2026-10-12T21:44:05Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2729** of 2783 rows; inventory budgets 60424 · commitments 6783 · leaderboard 8901 · entities 2801 · sources 9282.
+- Top10: **stable** (3091-3099 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3091-3099: Liège Zone 2 IILE-SRI (Liège) · ISBW (Rixensart) · IMSTAM (Tournai) · Le Logis Saint-Ghislainois (Saint-Ghislain) · Sambre et Biesme (Farciennes) · SRL Herstal (Herstal) · IPBW (Court-Saint-Etienne) · L'Habitat du Pays Vert (Ath) · Lysco (Comines-Warneton).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3100 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3100 run locally as fallback.
+- Next: **rq_3100** — Le Foyer de la Région de Fléron (EUR0.27m), Le Foyer Wavrien (EUR0.10m), and more Walloon/Brussels intercommunales or provincial bodies with code 740 not yet in entities, largest first, after the dedup check.

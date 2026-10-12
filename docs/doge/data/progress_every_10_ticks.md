@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 3100** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3090; 3091-3099 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3091-3099 residual dual L5 (not near-complete of 348bn):** Liège Zone 2 IILE-SRI (Liège) · ISBW (Rixensart) · IMSTAM (Tournai) · Le Logis Saint-Ghislainois (Saint-Ghislain) · Sambre et Biesme (Farciennes) · SRL Herstal (Herstal) · IPBW (Court-Saint-Etienne) · L'Habitat du Pays Vert (Ath) · Lysco (Comines-Warneton) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2729** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2783** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 shells incl. **NEW 3091-3099** Liège Zone 2 IILE-SRI (Liège) · ISBW (Rixensart) · IMSTAM (Tournai) · Le Logis Saint-Ghislainois (Saint-Ghislain) · Sambre et Biesme (Farciennes) · SRL Herstal (Herstal) · IPBW (Court-Saint-Etienne) · L'Habitat du Pays Vert (Ath) · Lysco (Comines-Warneton).
+
+### Inventory (tick 3100)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 60424 |
+| commitments.csv | 6783 |
+| leaderboard.csv | 8901 |
+| entities.csv | 2801 |
+| sources.csv | 9282 |
+| FOI ready | 2729 |
+| FOI total rows | 2783 |
+| research_queue open | rq_3100 (carried; next: Fléron/Wavrien SLSPs, more intercommunales with code 740, largest first) |
+
+### What improved since tick 3090
+
+- **New source (tick3091-3099):** Liège Zone 2 IILE-SRI (Liège) · ISBW (Rixensart) · IMSTAM (Tournai) · Le Logis Saint-Ghislainois (Saint-Ghislain) · Sambre et Biesme (Farciennes) · SRL Herstal (Herstal) · IPBW (Court-Saint-Etienne) · L'Habitat du Pays Vert (Ath) · Lysco (Comines-Warneton). Fresh source preferred: a KBO name search over ~50 Walloon intercommunale names, ranked by NBB code 740, found larger recipients than the remaining SLSPs; new ones taken largest first (Liège Zone 2 IILE-SRI EUR13.40m, ISBW EUR12.06m, IMSTAM EUR0.77m). Other code-740 intercommunales found were duplicates (BEP EUR16.35m, Intradel EUR9.85m, ISoSL EUR6.92m, Idelux Développement, IDETA, IDEA, Idelux Projets publics). Remaining ticks used rq_3090 SLSPs (official Wallonia list), largest code 740 first. All picks passed the dedup check.
+- **Toolkit:** no code change; new profile for intercommunales (voluntary FR request, no legal-basis claim).
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (own sites; IMSTAM also on the Province of Hainaut directory); no NEEDS VERIFICATION.
+- **Runner note:** 2576-3100 ran on the local fallback runner (Actions last ticked 2575; proposal-radar workflow still commits separately). Do not run both at once.
+- **Rejected 3091-3099 (fast, ~5 min cap):** Société de Logements de Mouscron (EUR0.56m; no mailbox on own site), Habitations Sociales de Saint-Nicolas (code 740 only in an appended budget table, not in the filing schema), Le Home Ougréen (only a sales mailbox found), duplicates listed above.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3090** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
