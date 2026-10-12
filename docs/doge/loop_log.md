@@ -31813,3 +31813,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@amos-amo.be — general mailbox verified on official page https://www.amos-amo.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_amos_amo_schaerbeek_vaph_matrix_9900_0_68m_9901_24k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2898/; rq_2898=done; spawn **rq_2899**; ticks=2898.
 - Next: **rq_2899 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2899 — 2026-10-12T16:49:29Z — rq_2899 leftover dual atMOsphères Bruxelles (Schaerbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **atMOsphères** → KBO 0460.138.108 had 0 prior entity rows.
+- KBO: Actief since 31 mei 1996; VZW; zetel Haachtsesteenweg 450 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0460.138.108
+- Found: official NBB MIC-VZW native PDF **2026-00293068** (40981 B / 10p; AV 30-06-2026; neergelegd 13/07/2026; MD5 b4c60d594a391a163abdd45cfd3b561b). MIC-VZW 9900 **EUR572308** (-5.08%); 62 **EUR425603**; 9901 **EUR109084** (was 97007); 9904 109039; equity 456031; cash 483233; FTE n/a.
+- FOI address: contact@atmospheres-amo.be — general mailbox verified on official page https://www.atmospheres-amo.be/contact (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_atmospheres_amo_schaerbeek_vaph_matrix_9900_0_57m_9901_109k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2899/; rq_2899=done; spawn **rq_2900**; ticks=2899.
+- Next: **rq_2900 leftover dual** — Batch done; next: remaining fresh-scan hits (ESCALE AMO, Synergie 14, Atouts Jeunes, La Gerbe AMO, Promo Jeunes AMO, amo Alhambra), larger first; skipped this batch: Le Pré-Texte (only a named-person mailbox), Centre L'Orée (no mailbox on its own site), BADJ and SAMARCANDE (no mailbox on official site), Les Alouettes (no official site found).
