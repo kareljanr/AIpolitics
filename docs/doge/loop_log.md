@@ -30052,3 +30052,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: openhuis@psc-antwerpen.be — general mailbox verified on official page https://psc-openhuis.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_psc_open_huis_antwerpen_vaph_matrix_9900_0_54m_9901_9k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2724/; rq_2724=done; spawn **rq_2725**; ticks=2724.
 - Next: **rq_2725 leftover dual** — KBO NACE 88.994 (general welfare work) and 87.301 (rest homes) scan in progress; next: remaining 88.994/87.301 units.
+
+
+## Tick 2725 — 2026-10-12T09:37:00Z — rq_2725 leftover dual Partner in Assistentie zorg Hasselt YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.994/87.301 activity search (general welfare work without accommodation / residential care homes for the elderly): **Partner in Assistentie zorg** → KBO 0443.468.459 had 0 prior entity rows.
+- KBO: Actief since 11 september 1990; VZW; zetel Kempische steenweg 293 bus 8 3500 Hasselt; 14 VE; 0 prior entity rows for 0443.468.459
+- Found: official NBB VOL-VZW native PDF **2026-00272560** (317521 B / 41p; AV 25-06-2026; neergelegd 09/07/2026; MD5 6c54821539bf564362680f6776001f0f). VOL-VZW 733 **EUR4405869** (+23.73%); 62 **EUR4496706**; 9901 **EUR793601** (was 82949); 9904 933737; equity 5179569; cash 1937793; FTE 56,3 (was 43,1).
+- FOI address: info@partnerinassistentie.be — general mailbox verified on official page https://partnerinassistentie.be/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_hasselt); FOI **gap_partner_in_assistentie_zorg_hasselt_vaph_matrix_733_4_41m_9901_794k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2725/; rq_2725=done; spawn **rq_2726**; ticks=2725.
+- Next: **rq_2726 leftover dual** — KBO NACE 88.994 (general welfare work) and 87.301 (rest homes) scan in progress; next: remaining 88.994/87.301 units.
