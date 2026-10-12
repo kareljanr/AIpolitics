@@ -32563,3 +32563,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@concertgebouw.be — general mailbox verified on official page https://www.concertgebouw.be/nl/contact (address 't Zand 34 and KBO number shown there).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_concertgebouw_brugge_vaph_matrix_733_7_77m_9901_loss_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2973/; rq_2973=done; spawn **rq_2974**; ticks=2973.
 - Next: **rq_2974 leftover dual** — KANAL + Flemish culture batch in progress; next: remaining units of this batch.
+
+
+## Tick 2974 — 2026-10-12T18:27:32Z — rq_2974 leftover dual NTGent Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish culture 90.111/90.120/90.130/90.311/91.210 in 18 Flemish city postcodes, plus leftover Brussels culture hits), unprocessed hits ranked by YE2025 NBB primary figure: **NTGent** → KBO 0410.353.154 had 0 prior entity rows.
+- KBO: Actief since 22 april 1965; SON; zetel Sint-Baafsplein 17 9000 Gent; 3 VE; 0 prior entity rows for 0410.353.154
+- Found: official NBB VOL-SON native PDF **2026-00087206** (727458 B / 53p; AV 31-03-2026; neergelegd 23/04/2026; MD5 2be1b0b90976290f92e73cadddd9b168). VOL-SON 733 **EUR6792188** (+1.21%); 62 **EUR5772659**; 9901 **EUR50654** (was 458930); 9904 -112357; equity 10669525; cash 101694; FTE 75,7 (was 82,7).
+- FOI address: info@ntgent.be — general mailbox verified on official page https://www.ntgent.be/nl/contact (address Sint-Baafsplein 17 matches KBO).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_ntgent_vaph_matrix_733_6_79m_9901_51k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2974/; rq_2974=done; spawn **rq_2975**; ticks=2974.
+- Next: **rq_2975 leftover dual** — KANAL + Flemish culture batch in progress; next: remaining units of this batch.

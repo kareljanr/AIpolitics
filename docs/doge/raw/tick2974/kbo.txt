@@ -1,0 +1,1 @@
+{"status": "Actief", "begin": "22 april 1965", "rv": "Stichting van openbaar nut", "addr": "Sint-Baafsplein 17 9000 Gent", "ve": "3"}
