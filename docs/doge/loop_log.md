@@ -32263,3 +32263,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@efp.be — general mailbox verified on official page https://www.efp.be/contact (address matches KBO).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_efp_bruxelles_vaph_matrix_733_15_08m_9901_94k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2943/; rq_2943=done; spawn **rq_2944**; ticks=2943.
 - Next: **rq_2944 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
+
+
+## Tick 2944 — 2026-10-12T17:55:56Z — rq_2944 leftover dual Centre d'Information et d'Education Populaire (CIEP) Bruxelles (Schaerbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels 85.592 vocational training and 86.940 in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Centre d'Information et d'Education Populaire (CIEP)** → KBO 0474.887.848 had 0 prior entity rows.
+- KBO: Actief since 27 maart 2001; VZW; zetel Haachtsesteenweg 579 1030 Schaarbeek; 13 VE; 0 prior entity rows for 0474.887.848
+- Found: official NBB VKT-VZW native PDF **2026-00476289** (52461 B / 13p; AV 18-06-2026; neergelegd 28/08/2026; MD5 b50fe89455bbef6b9875ac24bed7b64a). VKT-VZW 9900 **EUR5628461** (-1.09%); 62 **EUR5179901**; 9901 **EUR-184** (was 100684); 9904 477; equity 84354; cash 630343; FTE 62,1 (was 63,6).
+- FOI address: ciep.asbl@ciep.be — general mailbox verified on official CIEP brochure https://www.ciep.be/images/Formations/2026/maquette-brochure-ciep-formations-2026_WEB.pdf (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_ciep_bruxelles_vaph_matrix_9900_5_63m_9901_loss_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2944/; rq_2944=done; spawn **rq_2945**; ticks=2944.
+- Next: **rq_2945 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
