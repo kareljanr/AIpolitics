@@ -31521,3 +31521,14 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@tlijsternest.be — general mailbox verified on official page https://www.tlijsternest.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_lijsternest_watermaal_vaph_matrix_9900_0_76m_9901_loss_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2869/; rq_2869=done; spawn **rq_2870**; ticks=2869.
 - Next: **rq_2870 leftover dual** — Batch done; Brussels 87.x/88.x scan pool is now down to bodies under EUR0.8m; next: run a fresh larger-first scan (Flemish 88.10x/87.x or Brussels 88.99x) before continuing; skipped this batch: Les Bourgeons (only a Mons namesake site), LD3 (named-person mailboxes only), Kinderbegeleiding Vorst and Windekind (skynet mailboxes tied to named staff), Le Berceau (federation mailbox only), Alias (no mailbox on site), Relais Enfants-Parents (no mailbox on contact page), AccessAndGo-ABP (site error), Crèche Saint-Charles (gmail only).
+
+
+## Tick 2870 — 2026-10-12T16:31:02Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2524** of 2576 rows; inventory budgets 58702 · commitments 6576 · leaderboard 8696 · entities 2595 · sources 8659.
+- Top10: **stable** (2861-2869 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2861-2869: Les Jardins du 8ème Jour - Nokto (Neder-Over-Heembeek) · Réseau Coordination Enfance (Schaerbeek) · Crèche Sainte-Gertrude (Etterbeek) · Fjäril / De Blauwe Rups (Molenbeek) · Crèche de l'Hôpital Erasme (Anderlecht) · Centre Sésame (Uccle) · Ukkepuk VRT (Schaarbeek) · S.O.S. Viol (Saint-Gilles) · Het Lijsternest (Watermaal-Bosvoorde).
+- Correction: Erasme crèche entity note fixed (loss EUR225k is 2025, not 2024).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2870 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-2870 run locally as fallback.
+- Next: **rq_2870** — fresh larger-first scan (Flemish 88.10x/87.x or Brussels 88.99x); current Brussels pool is below EUR0.8m per body.

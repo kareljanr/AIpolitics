@@ -6,6 +6,43 @@
 
 ---
 
+## Snapshot at **tick 2870** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2860; 2861-2869 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2861-2869 residual dual L5 (not near-complete of 348bn):** Les Jardins du 8ème Jour - Nokto (Neder-Over-Heembeek) · Réseau Coordination Enfance (Schaerbeek) · Crèche Sainte-Gertrude (Etterbeek) · Fjäril / De Blauwe Rups (Molenbeek) · Crèche de l'Hôpital Erasme (Anderlecht) · Centre Sésame (Uccle) · Ukkepuk VRT (Schaarbeek) · S.O.S. Viol (Saint-Gilles) · Het Lijsternest (Watermaal-Bosvoorde) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2524** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2576** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2861-2869** Les Jardins du 8ème Jour - Nokto (Neder-Over-Heembeek) · Réseau Coordination Enfance (Schaerbeek) · Crèche Sainte-Gertrude (Etterbeek) · Fjäril / De Blauwe Rups (Molenbeek) · Crèche de l'Hôpital Erasme (Anderlecht) · Centre Sésame (Uccle) · Ukkepuk VRT (Schaarbeek) · S.O.S. Viol (Saint-Gilles) · Het Lijsternest (Watermaal-Bosvoorde).
+
+### Inventory (tick 2870)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 58702 |
+| commitments.csv | 6576 |
+| leaderboard.csv | 8696 |
+| entities.csv | 2595 |
+| sources.csv | 8659 |
+| FOI ready | 2524 |
+| FOI total rows | 2576 |
+| research_queue open | rq_2870 (carried; next: remaining larger Brussels childcare/day-centre ASBLs and Flemish 88.10x VZWs, larger first) |
+
+### What improved since tick 2860
+
+- **New source (tick2861-2869):** Les Jardins du 8ème Jour - Nokto (Neder-Over-Heembeek) · Réseau Coordination Enfance (Schaerbeek) · Crèche Sainte-Gertrude (Etterbeek) · Fjäril / De Blauwe Rups (Molenbeek) · Crèche de l'Hôpital Erasme (Anderlecht) · Centre Sésame (Uccle) · Ukkepuk VRT (Schaarbeek) · S.O.S. Viol (Saint-Gilles) · Het Lijsternest (Watermaal-Bosvoorde). Source: KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital) ranked by primary figure. Six bodies used the French FOI template, three (Fjäril, Ukkepuk VRT, Het Lijsternest) the Dutch Bestuursdecreet template.
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION); Sainte-Gertrude and Erasme via the official ONE pages, Ukkepuk VRT via the official VGC childcare portal, Fjäril via its own site (skynet domain).
+- **Correction:** the tick-2865 entity note for the Erasme crèche said "operating loss in 2024"; corrected to the filed figure (operating loss EUR225k in 2025).
+- **Runner note:** 2576-2870 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2861-2869 (fast, ~5 min cap):** Les Bourgeons (only a Mons namesake site), LD3 (named-person mailboxes only), Kinderbegeleiding Vorst and Windekind (skynet mailboxes tied to named staff), Le Berceau (federation mailbox only), Alias (no mailbox on site), Relais Enfants-Parents (no mailbox on contact page), AccessAndGo-ABP (site error), Crèche Saint-Charles (gmail only).
+- **Pool note:** the Brussels scan pool is now below EUR0.8m per body; a fresh larger-first scan is needed for the next batch.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2860** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
