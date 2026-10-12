@@ -33349,3 +33349,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@eurocities.eu — general mailbox verified on official page https://eurocities.eu/privacy-policy/ (KBO number shown there).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_eurocities_brussel_vaph_matrix_733_7_15m_9901_loss_50k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3051/; rq_3050=done; spawn **rq_3052**; ticks=3051.
 - Next: **rq_3052 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3052 — 2026-10-12T20:30:26Z — rq_3052 leftover dual Agoria Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (new codes 94.110 business, employers and public-authority associations, 94.120 professional bodies, 94.200 unions, 84.120 public administration of health/education/culture, 91.210; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure; every candidate passed the name/alias/KBO/website dedup check: **Agoria** → KBO 0406.605.390 had 0 prior entity rows.
+- KBO: Actief since 26 juni 1946; VZW; zetel Ravensteinstraat 4 1000 Brussel; 8 VE; 0 prior entity rows for 0406.605.390
+- Found: official NBB VOL-VZW native PDF **2026-00257897** (3741363 B / 64p; AV 28-05-2026; neergelegd 03/07/2026; MD5 d6f4377c6045bbcdb87bc154fc326ae9). VOL-VZW 733 **EUR5364323** (-4.33%); 62 **EUR23788026**; 9901 **EUR38662** (was -635507); 9904 5158383; equity 70560102; cash 4841079; FTE 180,7 (was 186,5).
+- FOI address: info@agoria.be — general mailbox verified on official page https://portal.agoria.be/nl_BE/contactus (registered seat Ravensteinstraat 4 and KBO number shown on https://www.agoria.be/nl).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_agoria_brussel_vaph_matrix_733_5_36m_9901_39k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3052/; rq_3052=done; spawn **rq_3053**; ticks=3052.
+- Next: **rq_3053 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
