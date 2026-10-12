@@ -33852,3 +33852,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@imaje-interco.be — general mailbox verified on official page https://www.imaje-interco.be/contact/ (with Rue Albert 1er 9 address) and the Ville de Namur directory.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_imaje_code740_split_740_21_30m_9901_loss_282k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3101/; rq_3100=done; spawn **rq_3102**; ticks=3101.
 - Next: **rq_3102 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3102 — 2026-10-12T22:03:26Z — rq_3102 leftover dual Interseniors (Intercommunale des Seniors des Communes de la Haute Meuse Liégeoise et de la Hesbaye) Seraing YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon social, childcare and senior-care intercommunales (KBO name search over ~90 more Walloon, Brussels and Flemish intercommunale/association names, filings ranked by NBB code 740 operating subsidies from public authorities; new: IMAJE, Interseniors, IRSIA) plus remaining SLSPs from the official Wallonia SLSP list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf); largest code 740 first; every candidate passed the name/alias/KBO/website dedup check: **Interseniors (Intercommunale des Seniors des Communes de la Haute Meuse Liégeoise et de la Hesbaye)** → KBO 0808.316.737 had 0 prior entity rows.
+- KBO: Actief since 10 december 2008; SC; zetel Avenue du Centenaire 400 4102 Seraing; 8 VE; 0 prior entity rows for 0808.316.737
+- Found: official NBB VOL-SC native PDF **2026-00244535** (1566353 B / 74p; AV 24-06-2026; neergelegd 26/06/2026; MD5 6144cc2a046ba4481df6a2a5058c3fc2). VOL-SC 740 **EUR6313416** (-1.46%); 62 **EUR26490861**; 9901 **EUR113636** (was -7958); 9904 164296; equity 16449370; cash 2495541; FTE 407 (was 388,8).
+- FOI address: info@interseniors.be — general mailbox verified on official page https://interseniors.be/fr/contact/ (with Avenue du Centenaire 400 address).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_interseniors_code740_split_740_6_31m_9901_114k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3102/; rq_3102=done; spawn **rq_3103**; ticks=3102.
+- Next: **rq_3103 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
