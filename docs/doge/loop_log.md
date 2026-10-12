@@ -30092,3 +30092,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: eaudegand@curavi.be — location mailbox (now operated as Eau de Gand, Curavi group) verified on official page https://www.eaudegand.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_home_claire_gent_vaph_matrix_9900_2_92m_9901_loss_340k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2728/; rq_2728=done; spawn **rq_2729**; ticks=2728.
 - Next: **rq_2729 leftover dual** — KBO NACE 88.994 (general welfare work) and 87.301 (rest homes) scan in progress; next: remaining 88.994/87.301 units.
+
+
+## Tick 2729 — 2026-10-12T09:37:35Z — rq_2729 leftover dual Westerlinde Kortrijk (seat) / Roeselare (WZC) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.994/87.301 activity search (general welfare work without accommodation / residential care homes for the elderly): **Westerlinde** → KBO 0559.901.321 had 0 prior entity rows.
+- KBO: Actief since 30 juni 2014; VZW; zetel Budastraat(Kor) 30 8500 Kortrijk; 2 VE; 0 prior entity rows for 0559.901.321
+- Found: official NBB VKT-VZW native PDF **2026-00296150** (53231 B / 15p; AV 17-06-2026; neergelegd 15/07/2026; MD5 4e288aebcee4c0c2b91a4c14a6320f88). VKT-VZW 9900 **EUR7287932** (+5.91%); 62 **EUR6945835**; 9901 **EUR240094** (was 18965); 9904 218832; equity 1724613; cash 535254; FTE 109,7 (was 105,3).
+- FOI address: sociale.dienst@westerlinde.be — only mailbox published, a departmental (social service) box, verified on official Zorggroep H.Hart page https://h-hart.be/ouderen/index.asp?id=21; no general mailbox found.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_westerlinde_kortrijk_vaph_matrix_9900_7_29m_9901_240k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2729/; rq_2729=done; spawn **rq_2730**; ticks=2729.
+- Next: **rq_2730 leftover dual** — KBO NACE 88.994/87.301 scan done for main Flemish/Brussels postcodes; skipped: Philippus Neri 0410.505.582 (property VZW, 0 FTE, 2024 loss verified in filings but no general mailbox), GPN Seniorenzorg Waasland 0471.977.452 (no general mailbox), BRAVVO (VOL 733 empty), GSD-V (already gsd_vlaanderen), Huis Vandecruys (m81 model); next: Huis Vandecruys model check, Zusterkens der Armen Brussel (2024 loss / 2025 profit swing), NACE 88.991/88.993 scan.
