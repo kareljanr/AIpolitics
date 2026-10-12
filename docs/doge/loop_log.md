@@ -34382,3 +34382,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@csa-enghien.com — general secretariat mailbox verified on official contact page https://www.csaenghien.net/contacts.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_college_saint_augustin_enghien_vaph_matrix_733_14_40m_9901_loss_29k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3154/; rq_3154=done; spawn **rq_3155**; ticks=3154.
 - Next: **rq_3155 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3155 — 2026-10-12T23:47:09Z — rq_3155 leftover dual Collège Saint-Pierre (Uccle) Uccle YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Catholic school boards and university colleges (Flemish schoolbesturen VZW and FWB organising bodies / hautes écoles, ASBL); new KBO name search (legal form VZW/ASBL; words such as Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège Saint, Institut Saint), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Collège Saint-Pierre (Uccle)** → KBO 0410.508.156 had 0 prior entity rows.
+- KBO: Actief since 25 juli 1963; VZW; zetel Coghenlaan 213 1180 Ukkel; 5 VE; 0 prior entity rows for 0410.508.156
+- Found: official NBB VOL-VZW native PDF **2026-00254860** (641291 B / 40p; AV 29-06-2026; neergelegd 06/07/2026; MD5 26e29fb3c0f7a84a78cad381a62409f6). VOL-VZW 733 **EUR13161870** (-5.41%); 62 **EUR12981300**; 9901 **EUR-26178** (was -10539); 9904 -30197; equity 1882674; cash 424765; FTE 22,2 (was 21,1).
+- FOI address: secretariat.direction@cspu.be — direction-secretariat mailbox verified on official page https://secondaire.cspu.be/informations-pratiques/personnes-ressources/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_college_saint_pierre_uccle_vaph_matrix_733_13_16m_9901_loss_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3155/; rq_3155=done; spawn **rq_3156**; ticks=3155.
+- Next: **rq_3156 leftover dual** — Batch done; next after the dedup check: College Notre-Dame de la Paix (0409.259.628, EUR12.94m), Collège de la Lys (0409.938.727, EUR11.56m), Communauté éducative du Collège Saint-Augustin (0414.921.953, EUR11.28m); skipped for mailbox: Haute Ecole ICHEC-ECAM-ISFSC (only constituent-school mailboxes), Katholiek Onderwijs Groot-Beveren and Katholiek Onderwijs Hamme (no general mailbox on an official page), Collège Cardinal Mercier (only primary-school mailbox).
