@@ -32393,3 +32393,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@bonnevie.be — general mailbox verified on official page https://www.centrebonnevie.be/fr/pour-joindre---notre-centre-de-formation-professionnelle (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_bonnevie_molenbeek_vaph_matrix_9900_1_60m_9901_loss_27k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2956/; rq_2956=done; spawn **rq_2957**; ticks=2956.
 - Next: **rq_2957 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
+
+
+## Tick 2957 — 2026-10-12T18:02:42Z — rq_2957 leftover dual Coordination Bruxelloise pour l'Emploi et la Formation des Femmes (COBEFF) Bruxelles (Schaerbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels 85.592 vocational training and 86.940 in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Coordination Bruxelloise pour l'Emploi et la Formation des Femmes (COBEFF)** → KBO 0447.443.974 had 0 prior entity rows.
+- KBO: Actief since 28 februari 1992; VZW; zetel Philomènestraat 39 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0447.443.974
+- Found: official NBB VKT-VZW native PDF **2026-00195399** (50322 B / 13p; AV 12-06-2026; neergelegd 23/06/2026; MD5 0b7997347f69f080be6e58bcbfc98690). VKT-VZW 9900 **EUR1568855** (+1.74%); 62 **EUR1476848**; 9901 **EUR5979** (was 9218); 9904 5754; equity 276217; cash 146645; FTE 23,5 (was 23,4).
+- FOI address: info@cobeff.be — general mailbox verified on official page https://www.cobeff.be/contact (address Rue Philomène 39 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_cobeff_schaerbeek_vaph_matrix_9900_1_57m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2957/; rq_2957=done; spawn **rq_2958**; ticks=2957.
+- Next: **rq_2958 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
