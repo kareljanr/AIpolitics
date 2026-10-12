@@ -28767,3 +28767,13 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00212003** (46122 B / 11p; AV 22-06-2026; neergelegd 29/06/2026; MD5 f61aeafe800681107cc407a85b27ef72). VKT 9900 **EUR3416562** (+4.60%); 62 **EUR3071872** (+7.68%); 9901 **EUR12534** DROP −87.99%; 9904 88408; equity 2068495; debt 576447; cash 751406; FTE 44,6.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.50; entities +1 (parent city_brugge); FOI **gap_ter_muiden_veldzicht_brugge_vaph_matrix_9900_3_42m_9901_drop_13k_62_jump_3_07m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2589/; rq_2589=done; spawn **rq_2590**; ticks=2589.
 - Next: **rq_2590 leftover dual** — continue VAPH list scan.
+
+
+## Tick 2590 — 2026-10-12T07:40:17Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2272** of 2324 rows; inventory budgets 56609 · commitments 6324 · leaderboard 8444 · entities 2344 · sources 7903.
+- Top10: **stable** (2581-2589 added 9 leaderboard rows, max pi 5.80 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- Residual dual 2581-2589: Het Raster · Levedale · KOCA · Mariënstede · Mobilant · Raakzaam · Samenpunt · Primavera · Ter Muiden en t Veldzicht.
+- Hunt this tick: none (EVERY-10 used the tick); rq_2590 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2590 run locally as fallback.
+- Next: **rq_2590 leftover dual** — VAPH list pages 52+ (Start West-Vlaanderen Roeselare, 't Prieeltje Tienen first).

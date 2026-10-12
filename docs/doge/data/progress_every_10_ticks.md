@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 2590** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2580; 2581-2589 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2581-2589 residual dual L5 (not near-complete of 348bn):** Het Raster · Levedale · KOCA · Mariënstede · Mobilant · Raakzaam · Samenpunt · Primavera · Ter Muiden en t Veldzicht (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2272** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2324** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2581-2589** Het Raster · Levedale · KOCA · Mariënstede · Mobilant · Raakzaam · Samenpunt · Primavera · Ter Muiden en t Veldzicht.
+
+### Inventory (tick 2590)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 56609 |
+| commitments.csv | 6324 |
+| leaderboard.csv | 8444 |
+| entities.csv | 2344 |
+| sources.csv | 7903 |
+| FOI ready | 2272 |
+| FOI total rows | 2324 |
+| research_queue open | rq_2590 (carried; VAPH list pages 52+ / Start West-Vlaanderen / 't Prieeltje) |
+
+### What improved since tick 2580
+
+- **Residual dual (tick2581-2589):** Het Raster · Levedale · KOCA · Mariënstede · Mobilant · Raakzaam · Samenpunt · Primavera · Ter Muiden en t Veldzicht. Largest: KOCA Antwerpen 733 **EUR20.94m**; Raakzaam Sint-Niklaas 733 **EUR14.48m**; Het Raster Antwerpen 733 **EUR9.96m**.
+- **Runner note:** 2576-2590 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2581-2589 (fast):** Resonans Zaventem (YE2024 latest) · Leefboerderij De Kanteling Herzele (YE2018) · MFC Odisam Deinze (0 deposits) · Madee / MFC Zonnebos (GO! public) · Huize Terloo / Clara Fey / De Beweging / Ebergiste / Sint-Ferdinand / Styrka / Sint-Gregorius / KI Woluwe (Evara/BvL VE) · 't Weyerke (Stijn) · already in repo: Huis in de Stad (Strong-PDF upgrade candidate 2026-00217681), IZW, OLO-Rotonde, MPC Sint-Franciscus, Woon en Zorg H. Hart.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2580** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
