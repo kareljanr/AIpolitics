@@ -31260,3 +31260,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@nidovzw.be — general mailbox verified on official page https://nidovzw.be/contact (company number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_nido_haren_vaph_matrix_9900_3_02m_9901_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2843/; rq_2843=done; spawn **rq_2844**; ticks=2843.
 - Next: **rq_2844 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2844 — 2026-10-12T16:21:14Z — rq_2844 leftover dual VIA (bureau d'accueil pour primo-arrivants) Bruxelles (Schaerbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **VIA (bureau d'accueil pour primo-arrivants)** → KBO 0632.613.412 had 0 prior entity rows.
+- KBO: Actief since 22 juni 2015; VZW; zetel Kesselsstraat 14 bus 8 1030 Schaarbeek; 3 VE; 0 prior entity rows for 0632.613.412
+- Found: official NBB VKT-VZW native PDF **2026-00232215** (52217 B / 13p; AV 30-06-2026; neergelegd 01/07/2026; MD5 6e104323507492798056c35e5a9d28e6). VKT-VZW 9900 **EUR2527728** (-2.97%); 62 **EUR2513661**; 9901 **EUR343** (was 94); 9904 2265; equity 14271; cash 1383; FTE 38,3 (was 39,6).
+- FOI address: info@via.brussels — general mailbox verified on official page https://www.via.brussels/schaerbeek/ (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_via_schaerbeek_vaph_matrix_9900_2_53m_9901_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2844/; rq_2844=done; spawn **rq_2845**; ticks=2844.
+- Next: **rq_2845 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
