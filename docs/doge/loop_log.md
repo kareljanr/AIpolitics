@@ -31401,3 +31401,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@helmetje.be — general mailbox verified on official commune page https://www.1030.be/nl/lieu-enfance/t-helmetje (own site unreachable).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_helmetje_schaarbeek_vaph_matrix_9900_1_21m_9901_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2857/; rq_2857=done; spawn **rq_2858**; ticks=2857.
 - Next: **rq_2858 leftover dual** — Batch done; next: remaining Brussels ASBLs from the 87.x/88.x scans (Les Bourgeons, Rêver pour devenir, Les Amis d'Aladdin, Seniors-Service Anderlecht) and Flemish 88.10x VZWs; skipped this batch: Le Nid Marcelle Briard (skynet mailbox only, no site), Les Coccinelles WSL (no site), KDV Sint-Karel (no official site), Crèche Royale Le Nid (no mailbox found), KDV De Lentebloempjes (site unreachable), Le Pré-Texte (named-person mailbox only), Solidaritel (no own mailbox), Onze Vriendjes (no mailbox found).
+
+
+## Tick 2858 — 2026-10-12T16:26:32Z — rq_2858 leftover dual Les Amis d'Aladdin Bruxelles (Schaerbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Les Amis d'Aladdin** → KBO 0461.234.010 had 0 prior entity rows.
+- KBO: Actief since 7 mei 1997; VZW; zetel Destouvellesstraat 18 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0461.234.010
+- Found: official NBB VKT-VZW native PDF **2026-00211565** (62098 B / 17p; AV 15-06-2026; neergelegd 29/06/2026; MD5 b1372d53d0cc43446b6120d51431f047). VKT-VZW 9900 **EUR1190488** (+20.56%); 62 **EUR1114962**; 9901 **EUR12111** (was 8902); 9904 12725; equity 203986; cash 168157; FTE 18,7 (was 16,3).
+- FOI address: secretariat@amisaladdin.be — general secretariat mailbox verified on official commune page https://www.1030.be/fr/directory-van-verenigingen-diensten/amis-daladdin-les.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_amis_aladdin_schaerbeek_vaph_matrix_9900_1_19m_9901_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2858/; rq_2858=done; spawn **rq_2859**; ticks=2858.
+- Next: **rq_2859 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
