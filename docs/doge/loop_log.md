@@ -31491,3 +31491,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@centresesame.be — general mailbox verified on official page https://www.centresesame.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_centre_sesame_uccle_vaph_matrix_9900_0_79m_9901_loss_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2866/; rq_2866=done; spawn **rq_2867**; ticks=2866.
 - Next: **rq_2867 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2867 — 2026-10-12T16:30:10Z — rq_2867 leftover dual Ukkepuk VRT Schaarbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Ukkepuk VRT** → KBO 0475.102.436 had 0 prior entity rows.
+- KBO: Actief since 5 maart 2001; VZW; zetel Auguste Reyerslaan 52 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0475.102.436
+- Found: official NBB VKT-VZW native PDF **2026-00326952** (418940 B / 18p; AV 25-06-2026; neergelegd 24/07/2026; MD5 6b85c5907e2b16d1797feb63e2f77efd). VKT-VZW 9900 **EUR786684** (-2.89%); 62 **EUR743206**; 9901 **EUR-33061** (was 36810); 9904 -29411; equity 1903782; cash 384177; FTE 10,7 (was 11,3).
+- FOI address: kinderdagverblijf.ukkepuk@vrt.be — general crèche mailbox verified on official VGC childcare portal https://kinderopvanginbrussel.be/nl/ukkepuk-vrt.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_ukkepuk_vrt_schaarbeek_vaph_matrix_9900_0_79m_9901_loss_33k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2867/; rq_2867=done; spawn **rq_2868**; ticks=2867.
+- Next: **rq_2868 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
