@@ -31280,3 +31280,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@setisbxl.be — general mailbox verified on official page https://www.setisbxl.be/ (address shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_setis_bxl_saint_gilles_vaph_matrix_9900_2_17m_9901_loss_72k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2845/; rq_2845=done; spawn **rq_2846**; ticks=2845.
 - Next: **rq_2846 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2846 — 2026-10-12T16:21:31Z — rq_2846 leftover dual La Clé Bruxelles (Schaerbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **La Clé** → KBO 0413.028.176 had 0 prior entity rows.
+- KBO: Actief since 15 februari 1973; VZW; zetel Louis Scutenairestraat 5 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0413.028.176
+- Found: official NBB VKT-VZW native PDF **2026-00197251** (328326 B / 18p; AV 22-06-2026; neergelegd 23/06/2026; MD5 fba81193117e55db8fb2d985a5f04e7d). VKT-VZW 9900 **EUR1914081** (+4.57%); 62 **EUR1846563**; 9901 **EUR-9957** (was -49679); 9904 68715; equity 1633942; cash 31068; FTE 28 (was 28,8).
+- FOI address: info@lacleasbl.be — general mailbox verified on official page https://www.lacleasbl.be/mentions-légales (company number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_la_cle_schaerbeek_vaph_matrix_9900_1_91m_9901_loss_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2846/; rq_2846=done; spawn **rq_2847**; ticks=2846.
+- Next: **rq_2847 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
