@@ -33309,3 +33309,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@atletiek.be — general mailbox verified on official page https://www.atletiek.be/organisatie/contacteer-ons (KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_atletiek_vlaanderen_vaph_matrix_9900_1_61m_9901_73k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3047/; rq_3047=done; spawn **rq_3048**; ticks=3047.
 - Next: **rq_3048 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3048 — 2026-10-12T20:23:31Z — rq_3048 leftover dual De Troef Oud-Turnhout YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (codes 93.191 sport federations, 93.121/93.199 sport, 84.130 public administration of economic affairs, 72.200 social-science research, 94.991 youth/adult associations; ~59 Flemish city and Brussels postcodes) plus rq_3030 leftovers, ranked by YE2025 NBB primary figure; candidates passed a name/alias/KBO/website dedup check against existing entities: **De Troef** → KBO 0469.045.082 had 0 prior entity rows.
+- KBO: Actief since 23 september 1999; VZW; zetel Beyntellus 8 2360 Oud-Turnhout; 3 VE; 0 prior entity rows for 0469.045.082
+- Found: official NBB VOL-VZW native PDF **2026-00533445** (346024 B / 45p; AV 30-09-2026; neergelegd 30/09/2026; MD5 a8bad1f1a872614d8c168070febea078). VOL-VZW 733 **EUR1606322** (-0.76%); 62 **EUR2889553**; 9901 **EUR-343521** (was 69753); 9904 -360134; equity 3322950; cash 282166; FTE 83,2 (was 81,1).
+- FOI address: info@detroef.be — general mailbox verified on official page https://detroef.be/contact/ (KBO number shown there).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oud_turnhout); FOI **gap_de_troef_oud_turnhout_vaph_matrix_733_1_61m_9901_loss_344k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3048/; rq_3048=done; spawn **rq_3049**; ticks=3048.
+- Next: **rq_3049 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
