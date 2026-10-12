@@ -32253,3 +32253,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: sireas@sireas.be — general mailbox verified on official page https://www.sireas.be/contact (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_sireas_brussel_vaph_matrix_9900_2_84m_9901_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2942/; rq_2942=done; spawn **rq_2943**; ticks=2942.
 - Next: **rq_2943 leftover dual** — Batch done; next: remaining larger scan hits (Mission Locale pour l'Emploi Etterbeek EUR3.72m, Fonds des Affections Respiratoires, SIREAS, Centre La Clairière re-check, ALTEO re-check), larger first; skipped this batch: Entraide et Fraternité (mailbox not visible on own contact page), SASLS (mailbox only on third-party pages), CM Service Patrimonium and IRRA (out of social-subsidy scope / not checked).
+
+
+## Tick 2943 — 2026-10-12T17:55:47Z — rq_2943 leftover dual Espace Formation PME (efp) Bruxelles (Uccle) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels 85.592 vocational training and 86.940 in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Espace Formation PME (efp)** → KBO 0475.782.822 had 0 prior entity rows.
+- KBO: Actief since 26 juni 2001; VZW; zetel Stallestraat 292b 1180 Ukkel; 1 VE; 0 prior entity rows for 0475.782.822
+- Found: official NBB VOL-VZW native PDF **2026-00265924** (762759 B / 45p; AV 22-06-2026; neergelegd 08/07/2026; MD5 7a63f4b98f42dbdf0015f1a7055bc727). VOL-VZW 733 **EUR15080771** (+5.69%); 62 **EUR9754449**; 9901 **EUR94256** (was 117791); 9904 50871; equity 2720987; cash 191525; FTE 229,7 (was 245,8).
+- FOI address: info@efp.be — general mailbox verified on official page https://www.efp.be/contact (address matches KBO).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_efp_bruxelles_vaph_matrix_733_15_08m_9901_94k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2943/; rq_2943=done; spawn **rq_2944**; ticks=2943.
+- Next: **rq_2944 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
