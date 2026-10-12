@@ -31793,3 +31793,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@capiti.be — general mailbox verified on official page https://www.capiti.be/contact (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_cap_iti_forest_vaph_matrix_9900_0_72m_9901_9k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2896/; rq_2896=done; spawn **rq_2897**; ticks=2896.
 - Next: **rq_2897 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2897 — 2026-10-12T16:49:12Z — rq_2897 leftover dual Prospective Jeunesse Bruxelles (Ixelles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Prospective Jeunesse** → KBO 0458.326.186 had 0 prior entity rows.
+- KBO: Actief since 18 juli 1996; VZW; zetel Elsense Steenweg 144 1050 Elsene; 2 VE; 0 prior entity rows for 0458.326.186
+- Found: official NBB MIC-VZW native PDF **2026-00333747** (49013 B / 14p; AV 09-06-2026; neergelegd 27/07/2026; MD5 5a118ad566148664257ae968965cff3e). MIC-VZW 9900 **EUR710717** (-3.89%); 62 **EUR680708**; 9901 **EUR2902** (was 4489); 9904 13133; equity 63616; cash 122439; FTE n/a.
+- FOI address: info@prospective-jeunesse.be — general mailbox verified on official page https://prospective-jeunesse.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_prospective_jeunesse_ixelles_vaph_matrix_9900_0_71m_9901_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2897/; rq_2897=done; spawn **rq_2898**; ticks=2897.
+- Next: **rq_2898 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
