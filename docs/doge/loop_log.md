@@ -33073,3 +33073,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: intradomus@pwa.be — general mailbox verified on official page https://www.pwa.be/nl/contact-1/contacteer-ons (address Tervuursesteenweg 159A matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bertem); FOI **gap_pwa_midden_brabant_vaph_matrix_9900_2_40m_9901_loss_21k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3024/; rq_3024=done; spawn **rq_3025**; ticks=3024.
 - Next: **rq_3025 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3025 — 2026-10-12T19:52:14Z — rq_3025 leftover dual West-Vlaamse Politieschool Zedelgem YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish multi-code 85.592/87.101/87.301/88.101/88.911/88.991/88.993/88.999, extended to ~190 further Flemish municipality postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **West-Vlaamse Politieschool** → KBO 0411.022.652 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1952; VZW; zetel Diksmuidse Heirweg 6 8210 Zedelgem; 1 VE; 0 prior entity rows for 0411.022.652
+- Found: official NBB VKT-VZW native PDF **2026-00115624** (50204 B / 13p; AV 18-05-2026; neergelegd 20/05/2026; MD5 270abebea4060c61626e42ccc2479bbe). VKT-VZW 9900 **EUR2245283** (+7.10%); 62 **EUR2190920**; 9901 **EUR6341** (was 4525); 9904 6306; equity 2280556; cash 1587520; FTE 25,8 (was 27,2).
+- FOI address: politieschool@campuspov.be — general mailbox of the police school verified on official page https://campuspov.be/contact/ (address Diksmuidse Heirweg 6 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_zedelgem); FOI **gap_west_vlaamse_politieschool_vaph_matrix_9900_2_25m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3025/; rq_3025=done; spawn **rq_3026**; ticks=3025.
+- Next: **rq_3026 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
