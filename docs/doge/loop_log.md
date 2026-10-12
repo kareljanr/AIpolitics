@@ -32613,3 +32613,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@decasino.be — general mailbox verified on official page https://www.decasino.be/contact (Stationsstraat address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_sint_niklaas); FOI **gap_de_casino_sint_niklaas_vaph_matrix_9900_0_93m_9901_loss_56k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2978/; rq_2978=done; spawn **rq_2979**; ticks=2978.
 - Next: **rq_2979 leftover dual** — KANAL + Flemish culture batch in progress; next: remaining units of this batch.
+
+
+## Tick 2979 — 2026-10-12T18:28:21Z — rq_2979 leftover dual Conseil de la Musique de la Communauté française Wallonie-Bruxelles Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish culture 90.111/90.120/90.130/90.311/91.210 in 18 Flemish city postcodes, plus leftover Brussels culture hits), unprocessed hits ranked by YE2025 NBB primary figure: **Conseil de la Musique de la Communauté française Wallonie-Bruxelles** → KBO 0421.724.920 had 0 prior entity rows.
+- KBO: Actief since 17 februari 1981; VZW; zetel Lebeaustraat 39 1000 Brussel; 1 VE; 0 prior entity rows for 0421.724.920
+- Found: official NBB VKT-VZW native PDF **2026-00136624** (1290632 B / 17p; AV 03-06-2026; neergelegd 03/06/2026; MD5 58b2107dea019e4d0af755546cb5ebe7). VKT-VZW 9900 **EUR883010** (+11.80%); 62 **EUR709736**; 9901 **EUR2978** (was 5484); 9904 2307; equity 115151; cash 430352; FTE 10,6 (was 9,8).
+- FOI address: info@conseildelamusique.be — general mailbox verified on official page https://www.conseildelamusique.be/75-contact (address Rue Lebeau 39 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_conseil_musique_bruxelles_vaph_matrix_9900_0_88m_9901_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2979/; rq_2979=done; spawn **rq_2980**; ticks=2979.
+- Next: **rq_2980 leftover dual** — Batch done; next: Flemish culture hits with unverifiable mailboxes (VIERNULVIER EUR6.10m, De Grote Post EUR2.17m: own sites redirect-loop for the fetcher), then another Flemish activity code (e.g. larger welfare/education codes not yet mined), largest first; Médiathèque Nouvelle retried once (site unreachable) and dropped.
