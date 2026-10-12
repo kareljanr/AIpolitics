@@ -29577,3 +29577,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00118364** (9015407 B / 79p; AV 18-05-2026; neergelegd 20/05/2026; MD5 a0dce3ee0244d5fa489986a4dceb0090). VOL-VZW 733 **EUR10602823** (+5.26%); 62 **EUR8875302**; 9901 **EUR595696** (was 425804); 9904 650309; equity 10973229; cash 2959636; FTE 112,5 (was 114,1).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_turnhout); FOI **gap_cirkant_turnhout_vaph_matrix_733_10_60m_9901_596k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2677/; rq_2677=done; spawn **rq_2678**; ticks=2677.
 - Next: **rq_2678 leftover dual** — Opgroeien OVBJ Antwerpen leftovers done; next: OVBJ Vlaams-Brabant/Brussel (PDF needs re-parse), then KBO NACE 87/88 lists.
+
+
+## Tick 2678 — 2026-10-12T08:41:14Z — rq_2678 leftover dual Dageraad Schilde YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Antwerpen list (mei 2026): **Dageraad** → KBO 0409.312.680 had 0 prior entity rows.
+- KBO: Actief since 19 juni 1970; VZW; zetel Thuysaerd 4, 2970 Schilde; 1 VE; 0 prior entity rows for 0409.312.680
+- Found: official NBB VOL-VZW native PDF **2026-00317363** (61069 B / 20p; AV 30-06-2026; neergelegd 20/07/2026; MD5 65cfd865c2fd5bbbaf2b4e367529e890). VOL-VZW 733 **EUR1316460** (+3.03%); 62 **EUR1107054**; 9901 **EUR15765** (was 31782); 9904 48489; equity 1640753; cash 770420; FTE 13 (was 13,7).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schilde); FOI **gap_dageraad_schilde_vaph_matrix_733_1_32m_9901_16k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2678/; rq_2678=done; spawn **rq_2679**; ticks=2678.
+- Next: **rq_2679 leftover dual** — Opgroeien OVBJ Antwerpen leftovers done; next: OVBJ Vlaams-Brabant/Brussel (PDF needs re-parse), then KBO NACE 87/88 lists.
