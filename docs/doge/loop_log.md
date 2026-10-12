@@ -29014,3 +29014,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00144729** (61016 B / 18p; AV 11-05-2026; neergelegd 04/06/2026; MD5 12b1bddf03ff3a16ec4e1aea8eefdd9a). VKT-VZW 9900 **EUR440727** (+15.87%); 62 **EUR102049**; 9901 **EUR102967** (was 85564); 9904 106269; equity 2846809; cash 738293; FTE 2,9 (was 3).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.45; entities +1 (parent city_ieper); FOI **gap_vrij_clb_westhoek_houtland_ieper_vaph_matrix_9900_441k_9901_103k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2616/; rq_2616=done; spawn **rq_2617**; ticks=2616.
 - Next: **rq_2617 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2617 — 2026-10-12T08:11:38Z — rq_2617 leftover dual Centra voor leerlingenbegeleiding aan de Leie Kortrijk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Vrij CLB-netwerk / VAPH MDT list (tid:1393): **Centra voor leerlingenbegeleiding aan de Leie** → KBO 0459.636.874 had 0 prior entity rows.
+- KBO: Actief since 5 november 1996; VZW; zetel Kasteelstraat 27, 8500 Kortrijk; 4 VE; 0 prior entity rows for 0459.636.874
+- Found: official NBB VKT-VZW native PDF **2026-00152330** (312060 B / 22p; AV 10-06-2026; neergelegd 11/06/2026; MD5 e2e0375f10aee5142870db505e3759d5). VKT-VZW 9900 **EUR363586** (-23.56%); 62 **EUR104271**; 9901 **EUR26795** (was 94217); 9904 40655; equity 4148284; cash 1706212; FTE 2,2 (was 3,6).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.45; entities +1 (parent city_kortrijk); FOI **gap_clb_aan_de_leie_kortrijk_vaph_matrix_9900_364k_9901_27k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2617/; rq_2617=done; spawn **rq_2618**; ticks=2617.
+- Next: **rq_2618 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
