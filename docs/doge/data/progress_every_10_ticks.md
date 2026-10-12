@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 3120** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3110; 3111-3119 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3111-3119 residual dual L5 (not near-complete of 348bn):** SPAF (Anhée) · SAFSB (Frameries) · CSD Namur (Philippeville) · SAFPA (Verviers) · CSD Brabant wallon (Tubize) · Aide familiale Liège-Huy-Waremme (Grâce-Hollogne) · Croix Jaune et Blanche Liège-Huy-Waremme (Grâce-Hollogne) · Vivadom (Eupen) · ASD Hainaut Oriental (Anderlues) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2747** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2801** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help code-733 shells incl. **NEW 3111-3119** SPAF (Anhée) · SAFSB (Frameries) · CSD Namur (Philippeville) · SAFPA (Verviers) · CSD Brabant wallon (Tubize) · Aide familiale Liège-Huy-Waremme (Grâce-Hollogne) · Croix Jaune et Blanche Liège-Huy-Waremme (Grâce-Hollogne) · Vivadom (Eupen) · ASD Hainaut Oriental (Anderlues).
+
+### Inventory (tick 3120)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 60586 |
+| commitments.csv | 6801 |
+| leaderboard.csv | 8919 |
+| entities.csv | 2819 |
+| sources.csv | 9336 |
+| FOI ready | 2747 |
+| FOI total rows | 2801 |
+| research_queue open | rq_3120 (carried; next: ASD Verviers, ASD Hainaut Picardie (code 73), then abbreviated-model home-nursing VZWs) |
+
+### What improved since tick 3110
+
+- **New source (tick3111-3119):** SPAF (Anhée) · SAFSB (Frameries) · CSD Namur (Philippeville) · SAFPA (Verviers) · CSD Brabant wallon (Tubize) · Aide familiale Liège-Huy-Waremme (Grâce-Hollogne) · Croix Jaune et Blanche Liège-Huy-Waremme (Grâce-Hollogne) · Vivadom (Eupen) · ASD Hainaut Oriental (Anderlues). Continued the Walloon home-help ASBLs (code 733, largest first), then home-nursing and FASD member services found via KBO name searches and the FASD member sites (BCE numbers read from the site footers). i-mens Thuisverpleging (EUR24.77m, distinct KBO 0430.909.335 from i-mens VZW) was not taken: no mailbox of its own verified. A NACE 88.1 KBO scan found no further large code-733 filers. All picks passed the dedup check.
+- **Toolkit:** write.py: optional Dutch voluntary (no Bestuursdecreet claim) FOI variant for private VZWs (nl_voluntary); payroll label also read in German filings.
+- **FOI addresses:** all 9 mailboxes verified on opened official pages; Aide familiale and Croix Jaune et Blanche Liège-Huy-Waremme use the general mailbox of their ASD umbrella (same seat; noted in each draft); Vivadom draft is in French with a note that a German version may be preferable.
+- **Runner note:** 2576-3120 ran on the local fallback runner; GitHub Actions DOGE loop still fails at its Tick step (Grok CLI not signed in). Do not run both at once.
+- **Rejected 3111-3119 (fast, ~5 min cap):** i-mens Thuisverpleging (mailbox), ASD Croix Jaune et Blanche Tournai-Ath (site belongs to merged ASD Hainaut Picardie), regional ASDs with code 733 empty handled as code 73 rows, duplicates (Familiezorg, Wit-Gele Kruis provincial VZWs, Centre Familial de Bruxelles, Thuiszorg Vleminckveld).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3110** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

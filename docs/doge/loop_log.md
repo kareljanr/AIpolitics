@@ -34032,3 +34032,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@asdho.be — general mailbox verified on official contact page https://hainaut.aideetsoinsadomicile.be/contact/ (site footer gives BCE 0465.077.485).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_asd_hainaut_oriental_code73_subsidy_split_73_contrib-gifts-legacies-subsidies-not-split_28_91m_9901_151k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3119/; rq_3119=done; spawn **rq_3120**; ticks=3119.
 - Next: **rq_3120 leftover dual** — Batch done; next: remaining home-help/home-nursing non-profits with code 733 not yet in entities, after the dedup check: Vivadom (Eupen, EUR4.91m; German-speaking, needs a DE/FR language check), i-mens Thuisverpleging (EUR24.77m; distinct KBO 0430.909.335 but no mailbox of its own verified: the i-mens site lists only group mailboxes), Croix Jaune et Blanche de Mouscron-Comines (abbreviated model, code 9900 only).
+
+
+## Tick 3120 — 2026-10-12T22:57:00Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2747** of 2801 rows; inventory budgets 60586 · commitments 6801 · leaderboard 8919 · entities 2819 · sources 9336.
+- Top10: **stable** (3111-3119 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3111-3119: SPAF (Anhée) · SAFSB (Frameries) · CSD Namur (Philippeville) · SAFPA (Verviers) · CSD Brabant wallon (Tubize) · Aide familiale Liège-Huy-Waremme (Grâce-Hollogne) · Croix Jaune et Blanche Liège-Huy-Waremme (Grâce-Hollogne) · Vivadom (Eupen) · ASD Hainaut Oriental (Anderlues).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3120 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3120 run locally as fallback.
+- Next: **rq_3120** — ASD Verviers (code 73 EUR14.39m), ASD Hainaut Picardie (code 73 EUR15.53m; general mailbox to verify), then abbreviated-model home-nursing VZWs (Croix Jaune et Blanche Mouscron-Comines, Wit-Gele Kruis van Brussel), after the dedup check.
