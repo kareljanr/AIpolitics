@@ -34402,3 +34402,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: accueil@cndp-erpent.be — reception mailbox verified on official contact page https://www.cndp-erpent.be/contacts.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_cndp_erpent_vaph_matrix_733_12_94m_9901_167k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3156/; rq_3156=done; spawn **rq_3157**; ticks=3156.
 - Next: **rq_3157 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3157 — 2026-10-12T23:51:42Z — rq_3157 leftover dual Communauté éducative du Collège Saint-Augustin (Gerpinnes) Gerpinnes YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Catholic school boards and university colleges (Flemish schoolbesturen VZW and FWB organising bodies / hautes écoles, ASBL); new KBO name search (legal form VZW/ASBL; words such as Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège Saint, Institut Saint), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Communauté éducative du Collège Saint-Augustin (Gerpinnes)** → KBO 0414.921.953 had 0 prior entity rows.
+- KBO: Actief since 13 december 1974; VZW; zetel Avenue Astrid(GER) 13 6280 Gerpinnes; 3 VE; 0 prior entity rows for 0414.921.953
+- Found: official NBB VOL-VZW native PDF **2026-00303488** (2218808 B / 40p; AV 22-06-2026; neergelegd 14/07/2026; MD5 6a71bc2e1f223d9268e562e40ec94454). VOL-VZW 733 **EUR11282655** (+4.39%); 62 **EUR10431103**; 9901 **EUR19398** (was 101305); 9904 38020; equity 8148588; cash 1322158; FTE 22,5 (was 19,8).
+- FOI address: secretariat_ger@st-augustin.be — secretariat mailbox verified on official school site https://www.st-augustin.be/ (Avenue Astrid 13, the ASBL KBO seat); distinct KBO from Collège Saint-Augustin Enghien (tick 3154).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_college_saint_augustin_gerpinnes_vaph_matrix_733_11_28m_9901_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3157/; rq_3157=done; spawn **rq_3158**; ticks=3157.
+- Next: **rq_3158 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
