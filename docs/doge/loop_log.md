@@ -29330,3 +29330,12 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2650 run locally as fallback.
 - Source choice (recorded): ticks 2641-2649 finished the Opgroeien OOOC contact list (april 2026). FOI addresses: general mailboxes where published (Luein, Elkeen, LIA, Kiosk, Elegast, XPLO, t Pasrel); role/named Opgroeien-list contacts for Amon (directie@) and Kruislink (none published).
 - Next: **rq_2650** — next Opgroeien jeugdhulp lists (e.g. begeleidingstehuizen / multifunctionele centra), VAPH vrijetijdszorg leftovers, then KBO NACE 87/88.
+
+
+## Tick 2651 — 2026-10-12T08:32:26Z — rq_2651 leftover dual Jeugdzorg Ter Elst Duffel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OBC contact list (april 2026): **Jeugdzorg Ter Elst** → KBO 0412.959.484 had 0 prior entity rows. NEW SOURCE Opgroeien OBC + GES+ lists after OOOC list exhausted. Skipped: Bethanie, De Kade, Don Bosco, OLO-Rotonde, Ter Wende-Espero, Dennenhof, MPI Oosterlo, Wagenschot, Hagewinde, Levenslust, Sint-Franciscus, Ter Bank, De Lovie, Tordale, Inspirant, Evara (already in repo); Stichting Delacroix (VOL filing leaves 733 empty).
+- KBO: Actief since 2 januari 1973; VZW; zetel Zandstraat 10, 2570 Duffel; 1 VE; 0 prior entity rows for 0412.959.484
+- Found: official NBB VOL-VZW native PDF **2026-00196521** (652234 B / 50p; AV 10-06-2026; neergelegd 23/06/2026; MD5 f580c576090c98dc916bec8e73459cab). VOL-VZW 733 **EUR10900179** (+2.90%); 62 **EUR9678071**; 9901 **EUR-1209** (was 423189); 9904 19104; equity 7764286; cash 249933; FTE 134 (was 123,2).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_duffel); FOI **gap_jeugdzorg_ter_elst_duffel_vaph_matrix_733_10_90m_9901_loss_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2651/; rq_2651=done; spawn **rq_2652**; ticks=2651.
+- Next: **rq_2652 leftover dual** — continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
