@@ -30853,3 +30853,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@umanis.be — general mailbox verified on official page https://umanis.be/contact/ (KBO number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_deinze); FOI **gap_umanis_deinze_vaph_matrix_9900_2_12m_9901_80k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2803/; rq_2803=done; spawn **rq_2804**; ticks=2803.
 - Next: **rq_2804 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2804 — 2026-10-12T15:06:28Z — rq_2804 leftover dual Kinderdagverblijf Het Mezennestje Landen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301/87.302 (nursing homes, assistance flats) and 88.101 (home care) activity searches, Brussels and remaining Flemish postcodes, ranked by primary figure: **Kinderdagverblijf Het Mezennestje** → KBO 0415.270.757 had 0 prior entity rows.
+- KBO: Actief since 23 juni 1975; VZW; zetel J. Ectorsstraat 51 3400 Landen; 1 VE; 0 prior entity rows for 0415.270.757
+- Found: official NBB VKT-VZW native PDF **2026-00232588** (49682 B / 15p; AV 22-06-2026; neergelegd 25/06/2026; MD5 a8b1f7afcda5ccfdbfa54e7842842957). VKT-VZW 9900 **EUR826107** (+2.33%); 62 **EUR783770**; 9901 **EUR24732** (was 15703); 9904 28199; equity 692613; cash 15908; FTE 10,3 (was 10,3).
+- FOI address: mezennestje@skynet.be — general mailbox verified on official page https://www.hetmezennestje.be/index.html (also on the municipal page landen.be).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_landen); FOI **gap_het_mezennestje_landen_vaph_matrix_9900_0_83m_9901_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2804/; rq_2804=done; spawn **rq_2805**; ticks=2804.
+- Next: **rq_2805 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
