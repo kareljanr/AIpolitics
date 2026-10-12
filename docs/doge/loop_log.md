@@ -32333,3 +32333,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2950 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-2950 run locally as fallback.
 - Next: **rq_2950** — remaining larger 85.592/86.940 scan hits (INOM EUR3.27m to check, COFTEN EUR2.49m, CF2M EUR2.46m, Wit-Gele Kruis van Brussel EUR2.33m, Horeca Forma Brussel EUR2.17m, Le Piment EUR1.98m), larger first.
+
+
+## Tick 2951 — 2026-10-12T18:01:46Z — rq_2950 leftover dual ACV Innovatief Brussel (Schaarbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels 85.592 vocational training and 86.940 in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **ACV Innovatief** → KBO 0420.807.576 had 0 prior entity rows.
+- KBO: Actief since 12 juni 1980; VZW; zetel Haachtsesteenweg 579 1030 Schaarbeek; 7 VE; 0 prior entity rows for 0420.807.576
+- Found: official NBB VKT-VZW native PDF **2026-00301381** (311554 B / 19p; AV 18-06-2026; neergelegd 10/07/2026; MD5 bf0064be2adc68ae0bfd77b6a77bdf18). VKT-VZW 9900 **EUR2644827** (-7.89%); 62 **EUR2447988**; 9901 **EUR166070** (was 272070); 9904 161357; equity 1011990; cash 1251065; FTE 27,8 (was 27).
+- FOI address: innovatief@acv-csc.be — general mailbox verified on official page https://www.hetacv.be/vzw-innovatief/contact (address Haachtsesteenweg 579 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_acv_innovatief_vaph_matrix_9900_2_64m_9901_166k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2951/; rq_2950=done; spawn **rq_2952**; ticks=2951.
+- Next: **rq_2952 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
