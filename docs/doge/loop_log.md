@@ -33113,3 +33113,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sitemariahuis.be — general mailbox verified on official page https://www.sitemariahuis.be/index.php/contact/ (site of Mariahuis Gavere).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gavere); FOI **gap_mariahuis_gavere_vaph_matrix_733_2_15m_9901_454k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3028/; rq_3028=done; spawn **rq_3029**; ticks=3028.
 - Next: **rq_3029 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3029 — 2026-10-12T19:52:51Z — rq_3029 leftover dual JobRoad Roeselare YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish multi-code 85.592/87.101/87.301/88.101/88.911/88.991/88.993/88.999, extended to ~190 further Flemish municipality postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **JobRoad** → KBO 0736.428.156 had 0 prior entity rows.
+- KBO: Actief since 15 oktober 2019; IVZW; zetel Beversesteenweg 576 8800 Roeselare; 4 VE; 0 prior entity rows for 0736.428.156
+- Found: official NBB VKT-IVZW native PDF **2026-00259823** (50395 B / 13p; AV 09-06-2026; neergelegd 06/07/2026; MD5 57006587d1eb443b6355f06e00eb6ccc). VKT-IVZW 9900 **EUR1706614** (+42.05%); 62 **EUR1505380**; 9901 **EUR142190** (was 7690); 9904 123506; equity 355241; cash 230869; FTE 21,8 (was 16,9).
+- FOI address: info@jobroad.be — general mailbox of the registered office verified on official page https://jobroad.be/en/contact/ (Beversesteenweg 576 and KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_roeselare); FOI **gap_jobroad_roeselare_vaph_matrix_9900_1_71m_9901_142k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3029/; rq_3029=done; spawn **rq_3030**; ticks=3029.
+- Next: **rq_3030 leftover dual** — Batch done; next: remaining hits (De Troef EUR1.61m, Bejaardenzorg KEI EUR1.53m, PCH Kindermishandeling EUR1.49m) or another code extension, larger first; skipped this batch: Blijvelde, Beschut Wonen Kempen and Mezennestje (own sites unreachable), Werkstroomm (contact page shows another KBO number), Ouderenzorg Zusters der Christelijke Scholen (only a group mailbox), Geneeskunde voor het Volk Zelzate (no mailbox on official page).
