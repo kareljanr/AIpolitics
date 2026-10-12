@@ -3,7 +3,7 @@
 **gap_id:** `gap_terengelen_opbr_8_06m_staff_5_88m_loss_0_48m_l5`  
 **status:** ready (NOT sent)  
 **entity:** Woonzorgcentrum Ter Engelen VZW — KBO **0430.882.809**  
-**recipient:** Woonzorgcentrum Ter Engelen VZW — info@covida.be — Polderstraat 4 9160 Lokeren  
+**recipient:** Woonzorgcentrum Ter Engelen VZW — info@hofterengelen.be — Polderstraat 4 9160 Lokeren  
 **sources:** [NBB YE2025 CDN 2026-00322588](http://cdn.staatsbladmonitor.be/2026pdf/2026-00322588.pdf)  
 **tick:** 1731 (NOT every-10; next every-10 is **1740**)
 
@@ -24,7 +24,7 @@ Aan: Woonzorgcentrum Ter Engelen VZW
 t.a.v. het Bestuursorgaan
 Polderstraat 4
 9160 Lokeren
-info@covida.be
+info@hofterengelen.be
 
 Betreft: Aanvraag openbaarheid van bestuur —
 jaarrekening 2025 Woonzorgcentrum Ter Engelen

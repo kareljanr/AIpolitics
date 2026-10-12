@@ -30113,3 +30113,14 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2730 run locally as fallback.
 - Source choice (recorded): ticks 2721-2729 used the KBO NACE-BEL 88.994 and 87.301 activity search by postcode; vzw_ter_engelen FOI address fixed in tick 2721. FOI: general mailboxes only, each verified on an opened official page.
 - Next: **rq_2730** — Huis Vandecruys (m81 model), Zusterkens der Armen Brussel, then NACE 88.991/88.993; Pleegzorg West/Oost re-check.
+
+
+## Tick 2731 — 2026-10-12T13:20:43Z — rq_2730 leftover dual Wit-Gele Kruis West-Vlaanderen Brugge YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101/88.991/87.302 activity search (home care for the elderly / ambulant addiction care / assistance flats) plus Wit-Gele Kruis provincial associations listed on witgelekruis.be: **Wit-Gele Kruis West-Vlaanderen** → KBO 0411.030.867 had 0 prior entity rows.
+- KBO: Actief since 23 januari 1964; VZW; zetel Annuntiatenstraat 47 8000 Brugge; 14 VE; 0 prior entity rows for 0411.030.867
+- Found: official NBB VOL-VZW native PDF **2026-00168063** (506558 B / 43p; AV 16-06-2026; neergelegd 17/06/2026; MD5 4348641025f06b7ad8288452b06f12aa). VOL-VZW 733 **EUR31083785** (+2.97%); 62 **EUR87844272**; 9901 **EUR-374654** (was 1131096); 9904 485457; equity 104862569; cash 8312269; FTE 987 (was 1.014,4).
+- FOI address: info@wgkwvl.be — general mailbox verified on official page https://www.witgelekruis.be/contacteer-ons (KBO number shown).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_wgk_west_vlaanderen_vaph_matrix_733_31_08m_9901_loss_375k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2731/; rq_2730=done; spawn **rq_2732**; ticks=2731.
+- Next: **rq_2732 leftover dual** — Home-care / gezinszorg (NACE 88.101) and related units in progress; next: remaining units of this batch.
+- Data fix (tick 2731): FOI row `gap_terengelen_opbr_8_06m_staff_5_88m_loss_0_48m_l5` recipient_email and its draft (`docs/doge/foi/drafts/gap_terengelen_opbr_8_06m_staff_5_88m_loss_0_48m_l5.md`, 2 occurrences) changed from `info@covida.be` to `info@hofterengelen.be` (verified on https://www.hofterengelen.be/contact/, KBO 0430.882.809), completing the tick-2721 entity fix. Surgical byte-level edits; draft still NOT sent.
