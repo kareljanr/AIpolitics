@@ -30386,3 +30386,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: deknuffel@busmail.net — NEEDS VERIFICATION: mailbox seen only in third-party/search snippets (kinderopvang-vinden.be, opendi.be); no official page with this address could be opened.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mortsel); FOI **gap_de_knuffel_mortsel_vaph_matrix_9900_1_04m_9901_103k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2757/; rq_2757=done; spawn **rq_2758**; ticks=2757.
 - Next: **rq_2758 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2758 — 2026-10-12T13:40:06Z — rq_2758 leftover dual Kabouterland Lennik YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, plus KBO record of the Oostende projectvereniging Perspectief: **Kabouterland** → KBO 0475.002.466 had 0 prior entity rows.
+- KBO: Actief since 21 juni 2001; VZW; zetel Joseph Van den Bosschestraat 8 1750 Lennik; 1 VE; 0 prior entity rows for 0475.002.466
+- Found: official NBB VOL-VZW native PDF **2026-00259911** (60913 B / 20p; AV 08-06-2026; neergelegd 06/07/2026; MD5 ed151b109e4abb397f4e6174e9a2b226). VOL-VZW 733 **EUR658902** (+0.09%); 62 **EUR656036**; 9901 **EUR51845** (was 38763); 9904 51621; equity 448029; cash 52065; FTE 10,5 (was 10,5).
+- FOI address: kabouterland.lennik@skynet.be — NEEDS VERIFICATION: mailbox seen only in third-party/search snippets (desocialekaart.be/cylex snippets; note kabouterland.be belongs to a different Kabouterland in Brecht); no official page with this address could be opened.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lennik); FOI **gap_kabouterland_lennik_vaph_matrix_733_0_66m_9901_52k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2758/; rq_2758=done; spawn **rq_2759**; ticks=2758.
+- Next: **rq_2759 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
