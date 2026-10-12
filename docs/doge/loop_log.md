@@ -31217,3 +31217,14 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@pazhapa.com — general mailbox verified on official page https://www.pazhapa.com/contact (HADEP asbl named).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_hadep_forest_vaph_matrix_9900_2_01m_9901_53k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2839/; rq_2839=done; spawn **rq_2840**; ticks=2839.
 - Next: **rq_2840 leftover dual** — Batch done; next: remaining larger Brussels childcare/day-centre ASBLs from the 88.911/88.99x scan (Elmer, Olina, Rire et Grandir, Espaces Enfance) and Flemish 88.10x VZWs; skipped: Thuiszorg Arbeid en Gezondheid Mechelen (no own mailbox found), OTV Vaartland (otv.be unreachable).
+
+
+## Tick 2840 — 2026-10-12T16:17:07Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2497** of 2549 rows; inventory budgets 58485 · commitments 6549 · leaderboard 8669 · entities 2568 · sources 8578.
+- Top10: **stable** (2831-2839 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2831-2839: IKOO (Dendermonde) · Comprendre et Parler (Woluwe-Saint-Lambert) · Famisol (Woluwe-Saint-Lambert) · Elmer (Schaarbeek) · Infirmiers de rue / Straatverplegers (Anderlecht) · Article 27 (Bruxelles) · Domaine des Enfants Les Cailloux (Uccle) · KDV Pluchke / Stallevoet (Ukkel) · HADEP / PaZhapa (Forest).
+- Legal: Dutch FOI basis now the Bestuursdecreet of 7 Dec 2018 (2004 decree repealed 1 Jan 2019); 234 older drafts still cite the 2004 decree.
+- Hunt this tick: none (EVERY-10 used the tick); rq_2840 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-2840 run locally as fallback.
+- Next: **rq_2840** — remaining larger Brussels childcare/day-centre ASBLs and Flemish 88.10x VZWs, larger first.

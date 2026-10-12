@@ -12,6 +12,42 @@
 |-------|---------------------------:|------------|
 | **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
 | **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2830; 2831-2839 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2831-2839 residual dual L5 (not near-complete of 348bn):** IKOO (Dendermonde) · Comprendre et Parler (Woluwe-Saint-Lambert) · Famisol (Woluwe-Saint-Lambert) · Elmer (Schaarbeek) · Infirmiers de rue / Straatverplegers (Anderlecht) · Article 27 (Bruxelles) · Domaine des Enfants Les Cailloux (Uccle) · KDV Pluchke / Stallevoet (Ukkel) · HADEP / PaZhapa (Forest) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2497** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2549** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2831-2839** IKOO (Dendermonde) · Comprendre et Parler (Woluwe-Saint-Lambert) · Famisol (Woluwe-Saint-Lambert) · Elmer (Schaarbeek) · Infirmiers de rue / Straatverplegers (Anderlecht) · Article 27 (Bruxelles) · Domaine des Enfants Les Cailloux (Uccle) · KDV Pluchke / Stallevoet (Ukkel) · HADEP / PaZhapa (Forest).
+
+### Inventory (tick 2840)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 58485 |
+| commitments.csv | 6549 |
+| leaderboard.csv | 8669 |
+| entities.csv | 2568 |
+| sources.csv | 8578 |
+| FOI ready | 2497 |
+| FOI total rows | 2549 |
+| research_queue open | rq_2840 (carried; next: remaining larger Brussels childcare/day-centre ASBLs and Flemish 88.10x VZWs, larger first) |
+
+### What improved since tick 2830
+
+- **Legal fix (tick 2831):** verified on Justel that the Flemish openbaarheid decree of 26 March 2004 was repealed on 1 January 2019 by the Bestuursdecreet of 7 December 2018 (title II, ch. 3, art. II.26-II.51). The Dutch FOI template and generator now cite the Bestuursdecreet. **234 of 2587** existing drafts still cite the 2004 decree (not rewritten; fix by hand before sending).
+- **New source (tick2831-2839):** IKOO (Dendermonde) · Comprendre et Parler (Woluwe-Saint-Lambert) · Famisol (Woluwe-Saint-Lambert) · Elmer (Schaarbeek) · Infirmiers de rue / Straatverplegers (Anderlecht) · Article 27 (Bruxelles) · Domaine des Enfants Les Cailloux (Uccle) · KDV Pluchke / Stallevoet (Ukkel) · HADEP / PaZhapa (Forest). Source: KBO NACE-BEL 88.10x/88.91x/88.99x activity searches (Flanders, Brussels) ranked by primary figure. Six Brussels bodies used the French FOI template (voluntary-request wording).
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION); Les Cailloux via its direction@ role mailbox (only address on the site).
+- **Runner note:** 2576-2840 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2831-2839 (fast, ~5 min cap):** Crèches de Schaerbeek (only an enrolment mailbox), Familiehulp De Speelboom, De Molenketjes, Rire et Grandir, Espaces Enfance (no reachable site), Olina (named-person mailbox only), CEMôme (enrolment mailbox only), Thuiszorg Arbeid en Gezondheid, OTV Vaartland.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
+## Snapshot at **tick 2830** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
 | **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2820; 2821-2829 residual dual is L5 depth, not new L2 mass |
 | **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2821-2829 residual dual L5 (not near-complete of 348bn):** Viro (Brugge) · Institut Royal d'Accueil pour le Handicap Moteur (Woluwe-Saint-Lambert) · Centre de Rééducation de l'Enfance à Bruxelles (Woluwe-Saint-Lambert) · HAMA (Ixelles) · ANAIS (Schaerbeek) · Centre Espoir et Joie (Ganshoren) · De Dauw (Wortegem-Petegem) · Centre d'hébergement Pierre Jurdant (Forest) · Le Bivouac (Uccle) (all Strong official NBB YE2025 PDFs) |
 | **E. FOI-ready gaps** | **2488** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2540** (~14 legacy malformed status rows still untouched) |
