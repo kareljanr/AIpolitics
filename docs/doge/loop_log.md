@@ -31126,3 +31126,14 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2830 run locally as fallback.
 - Source choice (recorded): ticks 2821-2829 used KBO NACE 87.201/87.202 searches (Flanders, Brussels) ranked by size. FOI: general/functional mailboxes only, all verified on opened official pages.
 - Next: **rq_2830** — more 87.20x/88.10x disability and mental-health providers (Flemish VAPH, Brussels COCOF/PHARE), larger first.
+
+
+## Tick 2831 — 2026-10-12T16:11:19Z — rq_2830 leftover dual IKOO (Initiatieven voor Kortverblijf, Oppas en Opvang) Dendermonde YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.102/88.103/88.911 activity searches (Flemish and Brussels-Capital postcodes), ranked by primary figure: **IKOO (Initiatieven voor Kortverblijf, Oppas en Opvang)** → KBO 0449.514.133 had 0 prior entity rows.
+- KBO: Actief since 10 december 1992; VZW; zetel Papiermolenstraat (DEN) 5 9200 Dendermonde; 3 VE; 0 prior entity rows for 0449.514.133
+- Found: official NBB VKT-VZW native PDF **2026-00304156** (367356 B / 26p; AV 18-06-2026; neergelegd 14/07/2026; MD5 88509a77eb5c42efa8fb42c1f3663be2). VKT-VZW 9900 **EUR1686840** (+2.63%); 62 **EUR1532388**; 9901 **EUR74637** (was 103835); 9904 86974; equity 2018874; cash 163325; FTE 27,5 (was 26,8).
+- FOI address: info@ikoo.be — general mailbox verified on official page https://www.ikoo.be/over_ons_voorstelling (company number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_dendermonde); FOI **gap_ikoo_dendermonde_vaph_matrix_9900_1_69m_9901_75k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2831/; rq_2830=done; spawn **rq_2832**; ticks=2831.
+- Next: **rq_2832 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+- Legal fix (tick 2831): verified on Justel (ejustice.just.fgov.be, numac 2004036026 and 2018032457) that the Flemish decree of 26 March 2004 on openbaarheid van bestuur was repealed as of 1 January 2019 by the Bestuursdecreet of 7 December 2018 (B.S. 19 December 2018), title II chapter 3 (art. II.26-II.51; scope II.28, request II.40, 20 calendar days II.43, appeal II.48). Updated docs/doge/foi-template-nl.md and the draft generator going forward. Existing drafts NOT rewritten: **234** of 2587 drafts in docs/doge/foi/drafts still cite the repealed 2004 decree and must be corrected by hand before sending.

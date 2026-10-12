@@ -5,6 +5,17 @@ Kopieer naar `foi/drafts/{gap_id}.md`, vul aan, zet `foi_queue.status` op `ready
 
 Pas de geadresseerde en de wettelijke verwijzing aan (federaal / Vlaams / lokaal verschillen in procedure en termijnen). Dit is **geen juridisch advies**.
 
+## Wettelijke basis Vlaanderen (geverifieerd op Justel, ejustice.just.fgov.be, tick 2831)
+
+- Het **decreet van 26 maart 2004 betreffende de openbaarheid van bestuur** is **opgeheven** sinds **1 januari 2019** (Justel 2004036026: "Opheffing: 1 januari 2019 — opgeheven door decreet van 07-12-2018"). **Niet meer citeren.**
+- Geldende regeling: **Bestuursdecreet van 7 december 2018** (B.S. 19 december 2018; in werking 1 januari 2019; Justel 2018032457), **titel II, hoofdstuk 3** (art. II.26–II.51).
+  - **Toepassingsgebied (art. II.28, § 1):** Vlaamse overheid, lokale overheden, **instellingen met een publieke taak** (wat hun publieke taak betreft; definitie art. I.3, 6°) en milieu-instanties. Een instelling die enkel aan het financieringscriterium voldoet (art. I.3, 6°, c), 1)) valt er alleen onder voor bestuursdocumenten over beslissingen die derden binden.
+  - **Aanvraag (art. II.40):** per brief, e-mail of webformulier; naam en **adres** van de aanvrager, identificatie van het document, **keuze inzage of afschrift**; geen belang aan te tonen.
+  - **Termijn (art. II.43–II.44):** beslissen en uitvoeren binnen **20 kalenderdagen**, verlengbaar tot 40.
+  - **Beroep (art. II.48):** bij de beroepsinstantie (art. III.90) binnen **30 kalenderdagen**.
+- Een private vzw die geen instelling met een publieke taak is, valt er niet onder: dan geldt de brief als **vrijwillig verzoek**, en de erkennings-/subsidiebesluiten worden opgevraagd bij de subsidiërende overheid.
+- Federaal: wet van 11 april 1994 (federale administratieve overheden). Brussel (Franstalig): zie `foi-template-fr.md`.
+
 ---
 
 ## Brief
@@ -26,8 +37,9 @@ Betreft: Verzoek om openbaarmaking van bestuursdocumenten — [korte titel dossi
 Geachte,
 
 Op grond van de toepasselijke regels inzake openbaarheid van bestuur
-(federaal: wet 11 april 1994 en aanvullende bepalingen waar van toepassing;
-Vlaams: Bestuursdecreet e.a.; lokaal: overeenkomstige regeling)
+(federaal: wet 11 april 1994; Vlaams en lokaal: Bestuursdecreet van
+7 december 2018, titel II, hoofdstuk 3 — niet meer het opgeheven decreet
+van 26 maart 2004)
 dien ik hierbij een verzoek in tot openbaarmaking / inzage / afschrift
 van de hieronder omschreven bestuursdocumenten.
 
