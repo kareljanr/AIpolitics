@@ -33462,3 +33462,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: sport@mounier.be — general mailbox verified on official page https://www.mounier.be/infos-pratiques/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_woluwe_saint_lambert); FOI **gap_mounier_woluwe_vaph_matrix_9900_2_74m_9901_1023k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3062/; rq_3062=done; spawn **rq_3063**; ticks=3062.
 - Next: **rq_3063 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3063 — 2026-10-12T20:51:56Z — rq_3063 leftover dual ADVN - Archief voor nationale bewegingen Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Belgian publicly funded codes: 91.110/91.120 libraries and archives, 90.111/90.311/90.130 arts venues, 93.110/93.210 municipal sports facilities, 85.520 cultural education; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure; every candidate passed the name/alias/KBO/website dedup check: **ADVN - Archief voor nationale bewegingen** → KBO 0431.020.884 had 0 prior entity rows.
+- KBO: Actief since 2 april 1986; VZW; zetel Lange Leemstraat 26 2018 Antwerpen; 1 VE; 0 prior entity rows for 0431.020.884
+- Found: official NBB VKT-VZW native PDF **2026-00064818** (45734 B / 12p; AV 27-03-2026; neergelegd 28/03/2026; MD5 65f871cd1b0934fa8fc1a3c189474a23). VKT-VZW 9900 **EUR1762002** (-0.81%); 62 **EUR1564039**; 9901 **EUR91754** (was 130183); 9904 90214; equity 1275832; cash 1016933; FTE 18,2 (was 17,8).
+- FOI address: info@advn.be — general mailbox verified on official page https://advn.be/nl (KBO number and Lange Leemstraat 26 shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_advn_antwerpen_vaph_matrix_9900_1_76m_9901_92k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3063/; rq_3063=done; spawn **rq_3064**; ticks=3063.
+- Next: **rq_3064 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
