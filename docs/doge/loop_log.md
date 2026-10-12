@@ -34262,3 +34262,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@donbosco-tournai.be — general mailbox verified on official contact page https://donbosco-tournai.be/contact/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_tournai); FOI **gap_don_bosco_tournai_vaph_matrix_733_9_96m_9901_loss_84k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3142/; rq_3142=done; spawn **rq_3143**; ticks=3142.
 - Next: **rq_3143 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3143 — 2026-10-12T23:22:00Z — rq_3143 leftover dual Centre Scolaire Don Bosco (Woluwe-Saint-Pierre) Woluwe-Saint-Pierre YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies (pouvoirs organisateurs, ASBL) and related free-education non-profits; KBO name search over school/PO names (legal form ASBL), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Centre Scolaire Don Bosco (Woluwe-Saint-Pierre)** → KBO 0436.401.218 had 0 prior entity rows.
+- KBO: Actief since 19 oktober 1988; VZW; zetel Guldendallaan 90 1150 Sint-Pieters-Woluwe; 1 VE; 0 prior entity rows for 0436.401.218
+- Found: official NBB VOL-VZW native PDF **2026-00543302** (4021459 B / 36p; AV 26-06-2026; neergelegd 01/10/2026; MD5 437e631d3910bcd4d9172fc79ed68768). VOL-VZW 733 **EUR9398770** (-4.79%); 62 **EUR8203214**; 9901 **EUR-303230** (was -100236); 9904 -337552; equity 3493478; cash 455867; FTE 2,9 (was 3).
+- FOI address: direction@idbbxl.com — direction mailbox verified on official contact page https://www.idbbxl.com/en-pratique/contact/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_don_bosco_woluwe_vaph_matrix_733_9_40m_9901_loss_303k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3143/; rq_3143=done; spawn **rq_3144**; ticks=3143.
+- Next: **rq_3144 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
