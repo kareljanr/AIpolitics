@@ -33812,3 +33812,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@ipbw.be — general mailbox (listed as Général) verified on official page https://ipbw.be/nous-contacter/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_ipbw_code740_split_740_0_35m_9901_192k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3097/; rq_3097=done; spawn **rq_3098**; ticks=3097.
 - Next: **rq_3098 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3098 — 2026-10-12T21:43:26Z — rq_3098 leftover dual L'Habitat du Pays Vert Ath YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon intercommunales (KBO name search over ~50 Walloon intercommunale names, filings ranked by NBB code 740 operating subsidies from public authorities; new: Liège Zone 2 IILE-SRI, ISBW, IMSTAM) plus remaining SLSPs from the official Wallonia SLSP list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf); largest code 740 first; every candidate passed the name/alias/KBO/website dedup check: **L'Habitat du Pays Vert** → KBO 0401.103.611 had 0 prior entity rows.
+- KBO: Actief since 20 mei 1922; SRL; zetel Rue du Rivage 11 7800 Ath; 1 VE; 0 prior entity rows for 0401.103.611
+- Found: official NBB VOL-SRL native PDF **2026-00204764** (1978844 B / 122p; AV 05-06-2026; neergelegd 22/06/2026; MD5 d5ca35cf344b266f9c7d74dde1a2037d). VOL-SRL 740 **EUR346203** (+3.11%); 62 **EUR2506199**; 9901 **EUR-1197455** (was -41472); 9904 -940699; equity 37377295; cash 4473740; FTE 34,2 (was 34).
+- FOI address: accueil@hdpv.be — general (reception) mailbox verified on official site https://hdpv.be/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_habitat_pays_vert_code740_split_740_0_35m_9901_loss_1197k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3098/; rq_3098=done; spawn **rq_3099**; ticks=3098.
+- Next: **rq_3099 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
