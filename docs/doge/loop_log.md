@@ -32313,3 +32313,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@convivial.be — general mailbox verified on official page https://www.convivial.be/en/contact/ (address Rue du Charroi 33-35 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_convivialites_forest_vaph_matrix_9900_3_14m_9901_161k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2948/; rq_2948=done; spawn **rq_2949**; ticks=2948.
 - Next: **rq_2949 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
+
+
+## Tick 2949 — 2026-10-12T17:56:44Z — rq_2949 leftover dual Wijkgezondheidscentrum De Brug - La Passerelle Brussel (Sint-Jans-Molenbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels 85.592 vocational training and 86.940 in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Wijkgezondheidscentrum De Brug - La Passerelle** → KBO 0472.950.125 had 0 prior entity rows.
+- KBO: Actief since 17 maart 2000; VZW; zetel Onafhankelijkheidstraat 144 1080 Sint-Jans-Molenbeek; 1 VE; 0 prior entity rows for 0472.950.125
+- Found: official NBB VKT-VZW native PDF **2026-00226377** (46488 B / 11p; AV 18-06-2026; neergelegd 30/06/2026; MD5 f1aaf00f4efe066c3aadc5a14f88020b). VKT-VZW 9900 **EUR2682426** (-6.05%); 62 **EUR2697336**; 9901 **EUR-148564** (was 113166); 9904 -120866; equity 3468524; cash 1047564; FTE 28,1 (was 26,9).
+- FOI address: onthaal@wgcdebrug.be — general mailbox verified on official page https://www.wgcdebrug.be/praktische-info/inschrijven-en-uitschrijven/ (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_wgc_de_brug_molenbeek_vaph_matrix_9900_2_68m_9901_loss_149k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2949/; rq_2949=done; spawn **rq_2950**; ticks=2949.
+- Next: **rq_2950 leftover dual** — Batch done; next: remaining larger 85.592/86.940 scan hits (INOM EUR3.27m to check, COFTEN EUR2.49m, CF2M EUR2.46m, Wit-Gele Kruis van Brussel EUR2.33m, Horeca Forma Brussel EUR2.17m, Le Piment EUR1.98m), larger first; skipped this batch: Fonds des Affections Respiratoires (only a webmaster mailbox on its own contact page).
