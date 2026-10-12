@@ -33512,3 +33512,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: onthaal@theaterarsenaal.be — reception mailbox verified on official page https://www.theaterarsenaal.be/nl/je-bezoek/contact (KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mechelen); FOI **gap_theater_arsenaal_mechelen_vaph_matrix_9900_1_18m_9901_loss_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3067/; rq_3067=done; spawn **rq_3068**; ticks=3067.
 - Next: **rq_3068 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3068 — 2026-10-12T20:52:43Z — rq_3068 leftover dual Kunst in Huis Kunstuitleen Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Belgian publicly funded codes: 91.110/91.120 libraries and archives, 90.111/90.311/90.130 arts venues, 93.110/93.210 municipal sports facilities, 85.520 cultural education; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure; every candidate passed the name/alias/KBO/website dedup check: **Kunst in Huis Kunstuitleen** → KBO 0418.464.730 had 0 prior entity rows.
+- KBO: Actief since 20 juli 1978; VZW; zetel Bloemenstraat 32 1000 Brussel; 7 VE; 0 prior entity rows for 0418.464.730
+- Found: official NBB VKT-VZW native PDF **2026-00206366** (55143 B / 14p; AV 27-05-2026; neergelegd 24/06/2026; MD5 45c5ad837ff32a467fc19e4a5556bf71). VKT-VZW 9900 **EUR981396** (+14.97%); 62 **EUR938361**; 9901 **EUR-19215** (was -80772); 9904 -3333; equity 310320; cash 491001; FTE 14,2 (was 15,1).
+- FOI address: info@kunstinhuis.be — general mailbox verified on official page https://www.kunstinhuis.be/contactus (KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_kunst_in_huis_vaph_matrix_9900_0_98m_9901_loss_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3068/; rq_3068=done; spawn **rq_3069**; ticks=3068.
+- Next: **rq_3069 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
