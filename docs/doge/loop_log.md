@@ -30285,3 +30285,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@toverhuis.be — general mailbox verified on official page https://www.toverhuis.be/contact/contact.html.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_toverhuis_leuven_vaph_matrix_9900_0_74m_9901_28k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2747/; rq_2747=done; spawn **rq_2748**; ticks=2747.
 - Next: **rq_2748 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2748 — 2026-10-12T13:30:40Z — rq_2748 leftover dual Hebe Kenniscentrum Kinderopvang Antwerpen (Wilrijk) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101 (home care) and 88.911 (childcare) activity and name searches, plus Wit-Gele Kruis associations listed on witgelekruis.be: **Hebe Kenniscentrum Kinderopvang** → KBO 0451.789.772 had 0 prior entity rows.
+- KBO: Actief since 14 december 1993; VZW; zetel Boomsesteenweg 5 2610 Antwerpen; 1 VE; 0 prior entity rows for 0451.789.772
+- Found: official NBB VKT-VZW native PDF **2026-00199812** (217484 B / 18p; AV 18-06-2026; neergelegd 23/06/2026; MD5 6575a7413b1b647e9e14e4e9f6ee54bc). VKT-VZW 9900 **EUR794065** (-7.01%); 62 **EUR800267**; 9901 **EUR-9190** (was 65754); 9904 649; equity 678412; cash 43599; FTE 11,1 (was 11,3).
+- FOI address: info@hebe-kenniscentrum.be — general mailbox verified on official page https://www.helan.be/hebe/ (Helan group site; address Boomsesteenweg 5 shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_hebe_kenniscentrum_kinderopvang_vaph_matrix_9900_0_79m_9901_loss_9k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2748/; rq_2748=done; spawn **rq_2749**; ticks=2748.
+- Next: **rq_2749 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
