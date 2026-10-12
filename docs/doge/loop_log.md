@@ -33013,3 +33013,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vzwpin.be — general mailbox verified on official page https://www.pinvzw.be/maak-een-afspraak (Kanaalbrugstraat 5E and KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_halle); FOI **gap_pin_halle_vaph_matrix_9900_2_24m_9901_39k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3018/; rq_3018=done; spawn **rq_3019**; ticks=3018.
 - Next: **rq_3019 leftover dual** — Further-extended Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3019 — 2026-10-12T19:28:08Z — rq_3019 leftover dual Samenspel Roeselare YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish multi-code 85.592/87.10x/87.30x/88.10x/88.911/88.991-88.999, extended to 30 further Flemish postcodes plus extra codes 88.991-88.994/88.102/87.20x/90-91 in the previous 22), unprocessed hits ranked by YE2025 NBB primary figure: **Samenspel** → KBO 0443.365.620 had 0 prior entity rows.
+- KBO: Actief since 27 juli 1990; VZW; zetel Wallenstraat 46-48 8800 Roeselare; 2 VE; 0 prior entity rows for 0443.365.620
+- Found: official NBB VKT-VZW native PDF **2026-00174722** (58355 B / 17p; AV 02-06-2026; neergelegd 18/06/2026; MD5 abcccc928204e2833ed8e0c9e291855a). VKT-VZW 9900 **EUR2224447** (+0.18%); 62 **EUR2058081**; 9901 **EUR60193** (was 240821); 9904 46920; equity 2151928; cash 640431; FTE 24,8 (was 24,8).
+- FOI address: info@samenspel.be — general mailbox verified on official page https://www.samenspel.be/contact/ (address Wallenstraat 46-48 and KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_roeselare); FOI **gap_samenspel_roeselare_vaph_matrix_9900_2_22m_9901_60k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3019/; rq_3019=done; spawn **rq_3020**; ticks=3019.
+- Next: **rq_3020 leftover dual** — Batch done; next: remaining further-extended hits (Beschut Wonen De Overweg EUR2.22m, Beschut Wonen Kempen EUR2.20m, Werkstroomm EUR2.10m), larger first; skipped this batch: Kinderdagverblijf Lutgardisschool Elsene (no general mailbox on own site), Babelu (Babilou group; mailbox not on own site), Geneeskunde voor het Volk Deurne (no mailbox on official page), Huize Vogelzang (own site unreachable).
