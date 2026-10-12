@@ -1,0 +1,29 @@
+# FOI draft — Eqla (9900 3.13m / 9901 loss 748k)
+
+**gap_id:** `gap_eqla_woluwe_vaph_matrix_9900_3_13m_9901_loss_748k_l5`  
+**status:** ready (NOT sent)  
+**language:** FR (Brussels French-language body; template `docs/doge/foi-template-fr.md`)  
+**entity:** Eqla ASBL — BCE/KBO **0406.570.550** (Actief; VZW; siège Woluwedal 34 bus 1 1200 Sint-Lambrechts-Woluwe; 5 UE)  
+**recipient:** Eqla ASBL / Président(e) du conseil d'administration — info@eqla.be — Boulevard de la Woluwe 34 bte 1, 1200 Woluwe-Saint-Lambert  
+**recipient note:** general mailbox verified on official page https://eqla.be/contact/ (company number shown)  
+**legal basis note:** Brussels joint decree-ordinance 16 May 2019 (Justel ELI 2019012673, verified on ejustice.just.fgov.be): art. 3 scope = administrative authorities (Region, COCOM, COCOF, communes, CPAS, communal ASBLs); a private ASBL is in principle outside scope, so the letter is a voluntary request and points to arts. 17-21/25/27 for the subsidising authorities  
+**sources:** official NBB VKT-VZW native PDF deposit **2026-00134444** (343372 B / 26p; AG 21-05-2026; déposé 03/06/2026; MD5 d2bbcf0f37e1a2c65ea3eb57767e7a31) + KBO + fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure
+
+## Objet
+Demande d'informations — subsides et comptes 2025 de Eqla ASBL
+
+## Madame, Monsieur,
+
+Le décret et ordonnance conjoints de la Région de Bruxelles-Capitale, la Commission communautaire commune et la Commission communautaire française du 16 mai 2019 relatifs à la publicité de l'administration dans les institutions bruxelloises (M.B. 7 juin 2019) s'applique aux autorités administratives énumérées à son article 3, dont celles qui dépendent de la Commission communautaire française et de la Commission communautaire commune ; une ASBL de droit privé n'en fait en principe pas partie. La présente demande vous est donc adressée **à titre volontaire**, dans un souci de transparence sur l'utilisation de moyens publics. Les décisions d'agrément et de subvention détenues par les pouvoirs subsidiants restent, elles, accessibles sur la base des articles 17 à 21 de ce texte (délai de 20 jours ouvrables, article 20, § 1er ; recours auprès de la Commission d'accès aux documents administratifs, articles 25 et 27) ; une demande parallèle pourra leur être adressée.
+
+Je vous demande dès lors une copie des documents et chiffres suivants concernant **Eqla ASBL** (BCE 0406.570.550) :
+
+1. La ventilation de la **marge brute 2025 (code 9900) de 3.128.243 EUR** (2024 : **4.236.820 EUR**) entre subsides par pouvoir subsidiant (Commission communautaire française (service PHARE) et/ou Iriscare (COCOM), autres), autres financements publics et recettes propres.
+2. Le **nombre de résidants et de personnes accueillies en centre de jour** en 2025 et le coût par journée.
+3. Les décisions d'agrément et de subvention de la Commission communautaire française applicables pour 2025.
+4. L'affectation **de la perte de l'exercice (-725.502 EUR)** et la politique de réserves au regard des **liquidités de 1.596.715 EUR** (2024 : **3.860.041 EUR**).
+
+Une réponse par courriel est privilégiée. Ce courrier est un **projet** (status ready) et **n'a pas été envoyé**.
+
+Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées.  
+Kareljan Raes

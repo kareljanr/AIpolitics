@@ -31603,3 +31603,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: bruxelles@accueil-familial.be — general Brussels-office mailbox verified on official page https://www.accueil-familial.be/nous-contacter.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_accueil_familial_woluwe_vaph_matrix_9900_4_47m_9901_28k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2877/; rq_2877=done; spawn **rq_2878**; ticks=2877.
 - Next: **rq_2878 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2878 — 2026-10-12T16:40:44Z — rq_2878 leftover dual Eqla Bruxelles (Woluwe-Saint-Lambert) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Eqla** → KBO 0406.570.550 had 0 prior entity rows.
+- KBO: Actief since 3 april 1925; VZW; zetel Woluwedal 34 bus 1 1200 Sint-Lambrechts-Woluwe; 5 VE; 0 prior entity rows for 0406.570.550
+- Found: official NBB VKT-VZW native PDF **2026-00134444** (343372 B / 26p; AV 21-05-2026; neergelegd 03/06/2026; MD5 d2bbcf0f37e1a2c65ea3eb57767e7a31). VKT-VZW 9900 **EUR3128243** (-26.17%); 62 **EUR3672540**; 9901 **EUR-747500** (was 228031); 9904 -725502; equity 6574932; cash 1596715; FTE 43,2 (was 48,4).
+- FOI address: info@eqla.be — general mailbox verified on official page https://eqla.be/contact/ (company number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_eqla_woluwe_vaph_matrix_9900_3_13m_9901_loss_748k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2878/; rq_2878=done; spawn **rq_2879**; ticks=2878.
+- Next: **rq_2879 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
