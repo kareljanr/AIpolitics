@@ -30883,3 +30883,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@meulenbergbeveren.be — general mailbox verified on official page https://www.meulenbergbeveren.be/contact/ (KBO number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bkz); FOI **gap_meulenberg_beveren_vaph_matrix_9900_0_62m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2806/; rq_2806=done; spawn **rq_2807**; ticks=2806.
 - Next: **rq_2807 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2807 — 2026-10-12T15:06:56Z — rq_2807 leftover dual Envía Waas Waasland YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301/87.302 (nursing homes, assistance flats) and 88.101 (home care) activity searches, Brussels and remaining Flemish postcodes, ranked by primary figure: **Envía Waas** → KBO 0877.036.782 had 0 prior entity rows.
+- KBO: Actief since 15 november 2005; VZW; zetel Koningsstraat 294 1210 Sint-Joost-ten-Node; 1 VE; 0 prior entity rows for 0877.036.782
+- Found: official NBB VKT-VZW native PDF **2026-00307236** (49584 B / 13p; AV 18-06-2026; neergelegd 14/07/2026; MD5 d38ea309259c7b3c949237bd7e501b7b). VKT-VZW 9900 **EUR550315** (+21.99%); 62 **EUR498358**; 9901 **EUR41027** (was 10914); 9904 40820; equity 135184; cash 77011; FTE 10,6 (was 7).
+- FOI address: info@enviawaas.be — general mailbox verified on official page https://envia.be/contact/ (Envía Waas section).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_sint_niklaas); FOI **gap_envia_waas_vaph_matrix_9900_0_55m_9901_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2807/; rq_2807=done; spawn **rq_2808**; ticks=2807.
+- Next: **rq_2808 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
