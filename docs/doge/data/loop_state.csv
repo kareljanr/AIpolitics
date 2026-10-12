@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T08:16:30Z,rq_2629,2629,no,"tick2629 leftover dual CKG Kinderland Antwerpen 0424.336.002 Strong PDF 2026-00120109 733 5.37m / 9901 17k; next rq_2630 continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T08:16:49Z,every10_2630,2630,no,tick2630 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2630 carried open; source Opgroeien CKG list (local fallback runner; Actions cron unreliable)

@@ -29133,3 +29133,14 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00120109** (488538 B / 31p; AV 30-04-2026; neergelegd 26/05/2026; MD5 1840f630b71ce448d9c9f95d70c51c83). VOL-VZW 733 **EUR5373144** (+4.98%); 62 **EUR4551671**; 9901 **EUR17099** (was 195881); 9904 4246; equity 4706438; cash 235240; FTE 59,7 (was 59,1).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_ckg_kinderland_antwerpen_vaph_matrix_733_5_37m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2629/; rq_2629=done; spawn **rq_2630**; ticks=2629.
 - Next: **rq_2630 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2630 — 2026-10-12T08:16:49Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2308** of 2360 rows; inventory budgets 56912 · commitments 6360 · leaderboard 8480 · entities 2379 · sources 8011.
+- Top10: **stable** (2621-2629 added 9 leaderboard rows, max pi 5.20 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2621-2629: CLB Het Kompas Mechelen · CLB Noordwest-Brabant Asse · Vrije CLB Archipel Deinze · Vrij CLB Brabant Oost Aarschot · CKG Kapoentje Oostende · CKG De Stap Genk · CKG Molenberg Bilzen-Hoeselt · CKG Lentekind · CKG Kinderland.
+- Hunt this tick: none (EVERY-10 used the tick); rq_2630 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2630 run locally as fallback.
+- Source choice (recorded): ticks 2621-2624 finished the Vrij CLB-netwerk; ticks 2625-2629 NEW SOURCE Opgroeien CKG contact list (april 2026). FOI addresses: general mailboxes preferred over named persons where findable.
+- Next: **rq_2630** — remaining CKGs (Sint-Clara Brugge, Den Boomgaard Lierde, Het Open Poortje Schilde, Koraal, i-mens), then other Opgroeien jeugdhulp lists.
