@@ -30700,3 +30700,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: st.anna.bulskamp@gvo.be — general mailbox verified on official page https://www.sintanna.gvo.be/nl/contact/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_veurne); FOI **gap_sint_anna_bulskamp_vaph_matrix_733_1_28m_9901_400k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2788/; rq_2788=done; spawn **rq_2789**; ticks=2788.
 - Next: **rq_2789 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2789 — 2026-10-12T14:17:40Z — rq_2789 leftover dual Sint Jozef Wevelgem (Moorsele) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301 (nursing homes) and 88.101 (home care) activity search, West-/Oost-Vlaanderen and Leuven/Limburg postcodes, ranked by primary figure: **Sint Jozef** → KBO 0426.278.574 had 0 prior entity rows.
+- KBO: Actief since 18 oktober 1984; VZW; zetel Sint-Maartensplein 15 8560 Wevelgem; 1 VE; 0 prior entity rows for 0426.278.574
+- Found: official NBB VOL-VZW native PDF **2026-00228586** (1796471 B / 50p; AV 15-06-2026; neergelegd 25/06/2026; MD5 379e97c85b0ea7d116d832df0fa9ca61). VOL-VZW 733 **EUR1049044** (-2.35%); 62 **EUR5446105**; 9901 **EUR455784** (was 330648); 9904 384081; equity 2738885; cash 1303642; FTE 81,9 (was 78,9).
+- FOI address: sintjozef.moorsele@gvo.be — general mailbox verified on official page https://www.sintjozef.gvo.be/nl/home/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_wevelgem); FOI **gap_sint_jozef_moorsele_vaph_matrix_733_1_05m_9901_456k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2789/; rq_2789=done; spawn **rq_2790**; ticks=2789.
+- Next: **rq_2790 leftover dual** — Batch done; next: more 87.301 nursing-home and 88.101 home-care VZWs ranked by size (other provinces), then childcare remainder; skipped: Philippus Neri group entities (no general mailbox, as before), Welzijnscampus Huize Sint Anna and H.Hart services (VOL filing with empty 733 line).
