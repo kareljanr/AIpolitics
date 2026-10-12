@@ -33692,3 +33692,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info.mdh@lamaisondeshommes.be — general mailbox verified on official contact page https://lamaisondeshommes.be/contact/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_maison_des_hommes_code740_split_740_0_84m_9901_2306k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3085/; rq_3085=done; spawn **rq_3086**; ticks=3085.
 - Next: **rq_3086 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3086 — 2026-10-12T21:33:53Z — rq_3086 leftover dual Le Logis Social de Liège Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Wallonia official list of the public-service housing companies (SLSP), interieur.wallonie.be 2026 transparency-report list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf), matched to KBO numbers, plus a completed nationwide KBO NACE-BEL 68.201 scan (step-10 postcodes 1000-9990, name-filtered for housing/intercommunale names); ranked by YE2025 NBB company-model code 740 (operating subsidies and compensatory amounts from public authorities); every candidate passed the name/alias/KBO/website dedup check: **Le Logis Social de Liège** → KBO 0403.900.278 had 0 prior entity rows.
+- KBO: Actief since 31 maart 1921; SRL; zetel Rue des Alisiers 12 4032 Liège; 1 VE; 0 prior entity rows for 0403.900.278
+- Found: official NBB VOL-SRL native PDF **2026-00287100** (716455 B / 69p; AV 19-06-2026; neergelegd 09/07/2026; MD5 4a4b90157ac4d16b77440d4fa92c7971). VOL-SRL 740 **EUR844142** (-13.52%); 62 **EUR5074741**; 9901 **EUR476922** (was 433206); 9904 1902420; equity 98914644; cash 14358574; FTE 79,5 (was 75,9).
+- FOI address: info@logissoc.be — general mailbox verified on official site https://www.logissocialdeliege.be/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_logis_social_liege_code740_split_740_0_84m_9901_477k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3086/; rq_3086=done; spawn **rq_3087**; ticks=3086.
+- Next: **rq_3087 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
