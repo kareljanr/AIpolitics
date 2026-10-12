@@ -33123,3 +33123,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@jobroad.be — general mailbox of the registered office verified on official page https://jobroad.be/en/contact/ (Beversesteenweg 576 and KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_roeselare); FOI **gap_jobroad_roeselare_vaph_matrix_9900_1_71m_9901_142k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3029/; rq_3029=done; spawn **rq_3030**; ticks=3029.
 - Next: **rq_3030 leftover dual** — Batch done; next: remaining hits (De Troef EUR1.61m, Bejaardenzorg KEI EUR1.53m, PCH Kindermishandeling EUR1.49m) or another code extension, larger first; skipped this batch: Blijvelde, Beschut Wonen Kempen and Mezennestje (own sites unreachable), Werkstroomm (contact page shows another KBO number), Ouderenzorg Zusters der Christelijke Scholen (only a group mailbox), Geneeskunde voor het Volk Zelzate (no mailbox on official page).
+
+
+## Tick 3030 — 2026-10-12T19:53:09Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2668** of 2720 rows; inventory budgets 59886 · commitments 6720 · leaderboard 8840 · entities 2739 · sources 9091.
+- Top10: **stable** (3021-3029 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3021-3029: SAAMO Limburg (Heusden-Zolder) · Woonzorgnetwerk Spirit (Jabbeke) · Toegankelijk Vlaanderen / Inter (Hasselt) · PWA Midden-Brabant (Bertem) · West-Vlaamse Politieschool (Zedelgem) · Beschut Wonen De Overweg (Ieper) · WOBRA (Zedelgem) · WZC Mariahuis (Gavere) · JobRoad (Roeselare).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3030 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3030 run locally as fallback.
+- Next: **rq_3030** — remaining municipality-scan hits (De Troef EUR1.61m, Bejaardenzorg KEI EUR1.53m, PCH Kindermishandeling EUR1.49m) or a new code extension with larger recipients, largest first.

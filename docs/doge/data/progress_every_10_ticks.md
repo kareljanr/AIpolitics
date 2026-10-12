@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 3030** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3020; 3021-3029 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3021-3029 residual dual L5 (not near-complete of 348bn):** SAAMO Limburg (Heusden-Zolder) · Woonzorgnetwerk Spirit (Jabbeke) · Toegankelijk Vlaanderen / Inter (Hasselt) · PWA Midden-Brabant (Bertem) · West-Vlaamse Politieschool (Zedelgem) · Beschut Wonen De Overweg (Ieper) · WOBRA (Zedelgem) · WZC Mariahuis (Gavere) · JobRoad (Roeselare) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2668** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2720** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 3021-3029** SAAMO Limburg (Heusden-Zolder) · Woonzorgnetwerk Spirit (Jabbeke) · Toegankelijk Vlaanderen / Inter (Hasselt) · PWA Midden-Brabant (Bertem) · West-Vlaamse Politieschool (Zedelgem) · Beschut Wonen De Overweg (Ieper) · WOBRA (Zedelgem) · WZC Mariahuis (Gavere) · JobRoad (Roeselare).
+
+### Inventory (tick 3030)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 59886 |
+| commitments.csv | 6720 |
+| leaderboard.csv | 8840 |
+| entities.csv | 2739 |
+| sources.csv | 9091 |
+| FOI ready | 2668 |
+| FOI total rows | 2720 |
+| research_queue open | rq_3030 (carried; next: another Flemish activity code, largest first) |
+
+### What improved since tick 3020
+
+- **New source (tick3021-3029):** SAAMO Limburg (Heusden-Zolder) · Woonzorgnetwerk Spirit (Jabbeke) · Toegankelijk Vlaanderen / Inter (Hasselt) · PWA Midden-Brabant (Bertem) · West-Vlaamse Politieschool (Zedelgem) · Beschut Wonen De Overweg (Ieper) · WOBRA (Zedelgem) · WZC Mariahuis (Gavere) · JobRoad (Roeselare). Source: the multi-code KBO NACE-BEL scan extended to municipality level: 8 codes (85.592, 87.101, 87.301, 88.101, 88.911, 88.991, 88.993, 88.999) over ~190 further Flemish municipality postcodes (1,524 non-company hits), ranked largest first. The top 5 usable hits (EUR5.06m-2.25m) beat the rq_3020 leftovers; Beschut Wonen De Overweg (rq_3020 leftover, EUR2.22m) slotted in by size; JobRoad (EUR1.71m, earlier extension) filled the last slot after higher candidates failed mailbox checks.
+- **Toolkit:** no change (code-73 mode not triggered this batch).
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION).
+- **Runner note:** 2576-3030 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 3021-3029 (fast, ~5 min cap):** Blijvelde (EUR2.56m), Beschut Wonen Kempen (EUR2.20m) and Mezennestje (EUR1.70m) (own sites unreachable), Werkstroomm (EUR2.10m; contact page shows a different KBO number), Ouderenzorg Zusters der Christelijke Scholen (EUR2.05m; only a group mailbox), Geneeskunde voor het Volk Zelzate (EUR2.05m; no mailbox on official page).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3020** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
