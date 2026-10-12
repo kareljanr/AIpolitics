@@ -31045,3 +31045,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: administration@irahm.be — general mailbox verified on official page https://www.irahm.be/wp-content/uploads/Projet-collectif-CH-2021.pdf (official PDF on irahm.be; states COCOF recognition; company number on irahm.be home page).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_irahm_woluwe_vaph_matrix_733_8_94m_9901_124k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2822/; rq_2822=done; spawn **rq_2823**; ticks=2822.
 - Next: **rq_2823 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2823 — 2026-10-12T15:31:17Z — rq_2823 leftover dual Centre de Rééducation de l'Enfance à Bruxelles Bruxelles (Woluwe-Saint-Lambert) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.201/87.202 (residential care for people with intellectual disability) activity searches, Flemish and Brussels-Capital postcodes, ranked by primary figure: **Centre de Rééducation de l'Enfance à Bruxelles** → KBO 0409.120.957 had 0 prior entity rows.
+- KBO: Actief since 15 juli 1966; VZW; zetel Veldkapellaan 40 1200 Sint-Lambrechts-Woluwe; 2 VE; 0 prior entity rows for 0409.120.957
+- Found: official NBB VOL-VZW native PDF **2026-00226912** (1148007 B / 50p; AV 26-06-2026; neergelegd 29/06/2026; MD5 428a5cbc71c02fb13596a3f3d6d72f1f). VOL-VZW 733 **EUR8863744** (+1.04%); 62 **EUR7614522**; 9901 **EUR75874** (was 356072); 9904 90616; equity 3864338; cash 1428294; FTE 109 (was 110,4).
+- FOI address: info@creb-asbl.be — general mailbox verified on official page https://www.creb-asbl.be/contact/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_creb_woluwe_vaph_matrix_733_8_86m_9901_76k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2823/; rq_2823=done; spawn **rq_2824**; ticks=2823.
+- Next: **rq_2824 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
