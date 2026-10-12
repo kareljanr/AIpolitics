@@ -29191,3 +29191,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00151961** (101524 B / 24p; AV 01-06-2026; neergelegd 05/06/2026; MD5 3410e355e4962d08037fe403f6c8c988). VKT-VZW 9900 **EUR4754982** (+4.36%); 62 **EUR4106433**; 9901 **EUR521150** (was 576747); 9904 439090; equity 6344419; cash 1444073; FTE 57,8 (was 52,6).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_cig_de_kiekenstraat_gent_vaph_matrix_9900_4_75m_9901_521k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2635/; rq_2635=done; spawn **rq_2636**; ticks=2635.
 - Next: **rq_2636 leftover dual** — continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists.
+
+
+## Tick 2636 — 2026-10-12T08:22:30Z — rq_2636 leftover dual CIG Convento Kraainem YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien CIG contact list (april 2026): **CIG Convento** → KBO 0805.516.704 had 0 prior entity rows.
+- KBO: Actief since 6 september 2023; VZW; zetel Hebronlaan 5 bus 9, 1950 Kraainem; 1 VE; 0 prior entity rows for 0805.516.704
+- Found: official NBB MIC-VZW native PDF **2026-00362456** (41716 B / 9p; AV 18-05-2026; neergelegd 31/07/2026; MD5 1d561e44bfc61c62c461754e83020c44). MIC-VZW 9900 **EUR1595562** (+7512.60%); 62 **EUR0**; 9901 **EUR54963** (was -21525); 9904 58962; equity 762215; cash 903852; .
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kraainem); FOI **gap_cig_convento_kraainem_vaph_matrix_9900_1_60m_9901_55k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2636/; rq_2636=done; spawn **rq_2637**; ticks=2636.
+- Next: **rq_2637 leftover dual** — continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists.
