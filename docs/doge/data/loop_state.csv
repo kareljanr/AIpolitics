@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T07:24:13Z,every10_2580,2580,no,tick2580 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2580 carried open (CJMIB YE2024-only stall); next rq_2580 continue VAPH list scan pages 20+ (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T07:27:05Z,rq_2580,2581,no,tick2581 leftover dual Het Raster Antwerpen (Kiel) 0476.639.588 Strong PDF 2026-00135075 733 9.96m / debt JUMP 3.21m / beleggingen 2.05m; next rq_2582 continue VAPH list scan (local fallback runner; Actions cron unreliable)

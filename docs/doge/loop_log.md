@@ -28686,3 +28686,12 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: CJMIB Antwerpen 0415.343.805 latest NBB deposit is YE2024 (2025-00264706) → skip; De Beerbos / De Beukheuvel / De Ark van Pollare are groenezorg → skip. rq_2580 stays open (carried).
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2580 run locally as fallback.
 - Next: **rq_2580 leftover dual** — VAPH list pages 20+ beyond 22.
+
+
+## Tick 2581 — 2026-10-12T07:27:05Z — rq_2581 leftover dual Het Raster Antwerpen (Kiel) YE2025 (local fallback runner)
+
+- Hunt: VAPH adreslijst pages 23-28 scanned; Huize Terloo Pepingen = Evara/Gregorius VE skip; Huis in de Stad Tienen already in repo (vzw_huis_in_de_stad_tienen tick2308, Medium CW; Strong-PDF upgrade candidate 2026-00217681 noted, not duplicated); HUBBIE Sint-Gillis (Brussels) deferred; groenezorg/ouderinitiatief skipped; **Het Raster Antwerpen** → KBO 0476.639.588 had 0 prior repo rows.
+- KBO: Actief Normale toestand since 18.12.2001; VZW; zetel Boomsesteenweg 510A 2020 Antwerpen; 4 VE; statutory purpose: kwaliteitsvol leven voor elke persoon met autisme; 0 prior repo rows for 0476.639.588; Identity trap != leftover De Vijver Deurne 0429.040.896 remine@2577
+- Found: official NBB VOL-VZW native PDF **2026-00135075** (1130034 B / 54p; AV 28-05-2026; neergelegd 03/06/2026; MD5 9900571cf458d6b74385f0ab1cc9bc64). VOL 70/76A **EUR10353946** (+8.36%); 733 **EUR9961472** (+8.44%); 62 **EUR9390067** (+8.80%); 9901 **EUR256644** (−6.84%); 9904 276415; equity 4169553; debt **EUR3209710** JUMP +37.17% (>1j 1354133 was 767492); geldbeleggingen **EUR2047525** (was 897525); cash 1076666 (was 2096581); FTE 109.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.30; entities +1 (parent city_antwerpen); FOI **gap_het_raster_antwerpen_vaph_matrix_733_9_96m_debt_jump_3_21m_beleggingen_2_05m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2581/; rq_2581=done; spawn **rq_2582**; ticks=2581.
+- Next: **rq_2582 leftover dual** — continue VAPH list scan.
