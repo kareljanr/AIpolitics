@@ -32233,3 +32233,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2940 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-2940 run locally as fallback.
 - Next: **rq_2940** — remaining larger scan hits (Mission Locale Etterbeek EUR3.72m, Fonds des Affections Respiratoires, SIREAS), larger first; scans nearly exhausted, a new source band will be needed soon.
+
+
+## Tick 2941 — 2026-10-12T17:39:25Z — rq_2940 leftover dual Mission Locale pour l'Emploi d'Etterbeek Bruxelles (Etterbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE earlier KBO NACE-BEL activity scans 2026-10-12 (Brussels 88.991-88.999 and 87.x/88.10x in 22 postcodes; Flemish 87.x/88.10x), unprocessed hits ranked by YE2025 NBB primary figure: **Mission Locale pour l'Emploi d'Etterbeek** → KBO 0445.156.655 had 0 prior entity rows.
+- KBO: Actief since 4 januari 1991; VZW; zetel Kazernenlaan 31 bus 2 1040 Etterbeek; 1 VE; 0 prior entity rows for 0445.156.655
+- Found: official NBB VKT-VZW native PDF **2026-00232597** (286177 B / 20p; AV 29-06-2026; neergelegd 01/07/2026; MD5 40f111fa6e34e6b7e4d08d1f2e62096f). VKT-VZW 9900 **EUR3723119** (-7.91%); 62 **EUR3652589**; 9901 **EUR1915** (was -163121); 9904 907; equity 221513; cash 170084; FTE 61,5 (was 59,1).
+- FOI address: secr@mlett.brussels — general mailbox verified on official page https://www.mlett.brussels/ (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_mission_locale_etterbeek_vaph_matrix_9900_3_72m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2941/; rq_2940=done; spawn **rq_2942**; ticks=2941.
+- Next: **rq_2942 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
