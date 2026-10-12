@@ -29879,3 +29879,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@jamvzw.be — general mailbox verified in the official J@M annual accounts PDF published on mechelen.be (https://www.mechelen.be/sites/default/files/jm/files/2026-06/Jaarrekening_2025.pdf); jamvzw.be itself shows no mailbox.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mechelen); FOI **gap_jam_mechelen_vaph_matrix_9900_1_50m_9901_loss_302k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2707/; rq_2707=done; spawn **rq_2708**; ticks=2707.
 - Next: **rq_2708 leftover dual** — KBO NACE 88.992 (integrale jeugdhulp zonder huisvesting) scan by postcode in progress; next: remaining 88.992 units, then other NACE 87/88 codes (87.202/87.203 residential, 88.994 welzijnswerk).
+
+
+## Tick 2708 — 2026-10-12T09:14:18Z — rq_2708 leftover dual Parcours Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.992 activity search (Integrale jeugdhulp zonder huisvesting): **Parcours** → KBO 0808.110.166 had 0 prior entity rows.
+- KBO: Actief since 1 december 2008; VZW; zetel Dok-Noord 4 E   bus 101 9000 Gent; 1 VE; 0 prior entity rows for 0808.110.166
+- Found: official NBB VKT-VZW native PDF **2026-00120100** (54933 B / 16p; AV 19-05-2026; neergelegd 26/05/2026; MD5 b63dc1502b03f992aa9d6ac8991097b8). VKT-VZW 9900 **EUR2520867** (+14.06%); 62 **EUR2251592**; 9901 **EUR32230** (was 142560); 9904 56170; equity 1533580; cash 610739; FTE 29,1 (was 26,3).
+- FOI address: info@vzwparcours.be — general mailbox verified on official page https://vzwparcours.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_parcours_gent_vaph_matrix_9900_2_52m_9901_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2708/; rq_2708=done; spawn **rq_2709**; ticks=2708.
+- Next: **rq_2709 leftover dual** — KBO NACE 88.992 (integrale jeugdhulp zonder huisvesting) scan by postcode in progress; next: remaining 88.992 units, then other NACE 87/88 codes (87.202/87.203 residential, 88.994 welzijnswerk).
