@@ -33712,3 +33712,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lelogistournaisien.be — general mailbox verified on the Province of Hainaut official directory https://websoc.hainaut.be/DI02664.htm.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_logis_tournaisien_code740_split_740_0_80m_9901_319k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3087/; rq_3087=done; spawn **rq_3088**; ticks=3087.
 - Next: **rq_3088 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3088 — 2026-10-12T21:34:14Z — rq_3088 leftover dual Le Confort Mosan Oupeye YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Wallonia official list of the public-service housing companies (SLSP), interieur.wallonie.be 2026 transparency-report list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf), matched to KBO numbers, plus a completed nationwide KBO NACE-BEL 68.201 scan (step-10 postcodes 1000-9990, name-filtered for housing/intercommunale names); ranked by YE2025 NBB company-model code 740 (operating subsidies and compensatory amounts from public authorities); every candidate passed the name/alias/KBO/website dedup check: **Le Confort Mosan** → KBO 0404.404.381 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1968; SRL; zetel Rue des Châtaigniers 34 4680 Oupeye; 1 VE; 0 prior entity rows for 0404.404.381
+- Found: official NBB VOL-SRL native PDF **2026-00178379** (2490280 B / 56p; AV 09-06-2026; neergelegd 18/06/2026; MD5 47c2340519db0c22e92488555fabd51e). VOL-SRL 740 **EUR643334** (+0.85%); 62 **EUR2561450**; 9901 **EUR1170254** (was 1069506); 9904 1224272; equity 61928336; cash 12769608; FTE 31,9 (was 33,3).
+- FOI address: info@confortmosan.be — general mailbox verified on official site https://www.confortmosan.be/ and https://confortmosan.be/les-services/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_confort_mosan_code740_split_740_0_64m_9901_1170k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3088/; rq_3088=done; spawn **rq_3089**; ticks=3088.
+- Next: **rq_3089 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
