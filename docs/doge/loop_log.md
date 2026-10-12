@@ -28978,3 +28978,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00167913** (475023 B / 40p; AV 09-06-2026; neergelegd 17/06/2026; MD5 2aa51c8862477360947b38c24bca8883). VOL-VZW 733 **EUR5785771** (+2.17%); 62 **EUR5198826**; 9901 **EUR80790** (was 172776); 9904 59070; equity 3785844; cash 752451; FTE 71,8 (was 70,8).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.20; entities +1 (parent city_leuven); FOI **gap_ter_wende_espero_leuven_vaph_matrix_733_5_79m_9901_81k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2612/; rq_2612=done; spawn **rq_2613**; ticks=2612.
 - Next: **rq_2613 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2613 — 2026-10-12T08:11:01Z — rq_2613 leftover dual De Markgrave Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE VAPH adreslijst MDT (tid:1393): **De Markgrave** → KBO 0409.714.637 had 0 prior entity rows.
+- KBO: Actief since 10 december 1959; VZW; zetel Markgravelei 20-22, 2018 Antwerpen; 2 VE; 0 prior entity rows for 0409.714.637
+- Found: official NBB VOL-VZW native PDF **2026-00302211** (1073471 B / 42p; AV 22-06-2026; neergelegd 15/07/2026; MD5 2504010ca8ee3f7d03044e1b270cba67). VOL-VZW 733 **EUR5399500** (+1.81%); 62 **EUR4863947**; 9901 **EUR299192** (was 228799); 9904 373472; equity 6880598; cash 2123666; FTE 63,4 (was 62,5).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.20; entities +1 (parent city_antwerpen); FOI **gap_de_markgrave_antwerpen_vaph_matrix_733_5_40m_9901_299k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2613/; rq_2613=done; spawn **rq_2614**; ticks=2613.
+- Next: **rq_2614 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
