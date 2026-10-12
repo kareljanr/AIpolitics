@@ -32843,3 +32843,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: beschutwonen.haspengouw@vistha.be — site mailbox of the registered seat (Vistha Haspengouw, Halmaalweg 19) verified on official page https://vistha.be/contact/; no info@ address on own site.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_sint_truiden); FOI **gap_vistha_sint_truiden_vaph_matrix_733_6_19m_9901_247k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3001/; rq_3000=done; spawn **rq_3002**; ticks=3001.
 - Next: **rq_3002 leftover dual** — Extended Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3002 — 2026-10-12T19:01:35Z — rq_3002 leftover dual Stebo Genk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 85.592/87.101/87.301/87.302/88.101/88.109/88.911/88.999, extended to 22 more Flemish city postcodes, plus 88.99x leftovers), unprocessed hits ranked by YE2025 NBB primary figure: **Stebo** → KBO 0434.031.448 had 0 prior entity rows.
+- KBO: Actief since 20 juni 1987; VZW; zetel Windekestraat 1 3600 Genk; 1 VE; 0 prior entity rows for 0434.031.448
+- Found: official NBB VKT-VZW native PDF **2026-00159911** (60548 B / 18p; AV 11-06-2026; neergelegd 15/06/2026; MD5 447150d84b978af9956be7146f82a060). VKT-VZW 9900 **EUR5593182** (+1.32%); 62 **EUR5379884**; 9901 **EUR47438** (was 81926); 9904 25584; equity 2434261; cash 884515; FTE 68,7 (was 69,8).
+- FOI address: info@stebo.be — general mailbox verified on official page https://stebo.be/particulieren/contact/ (homebase Windekestraat 1 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_genk); FOI **gap_stebo_genk_vaph_matrix_9900_5_59m_9901_47k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3002/; rq_3002=done; spawn **rq_3003**; ticks=3002.
+- Next: **rq_3003 leftover dual** — Extended Flemish multi-code batch in progress; next: remaining units of this batch.
