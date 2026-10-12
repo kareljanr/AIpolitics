@@ -29899,3 +29899,14 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vzwerat.be — general mailbox verified on official page https://www.vzwerat.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_erat_leuven_vaph_matrix_9900_0_27m_9901_loss_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2709/; rq_2709=done; spawn **rq_2710**; ticks=2709.
 - Next: **rq_2710 leftover dual** — KBO NACE 88.992 scan done for the main Flemish/Brussels postcodes (rest are micro BVs, sole traders or have no filing); next: other NACE 87/88 codes (87.202/87.203 residential, 88.994 welzijnswerk) and Pleegzorg West/Oost re-check.
+
+
+## Tick 2710 — 2026-10-12T09:15:03Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2380** of 2432 rows; inventory budgets 57519 · commitments 6432 · leaderboard 8552 · entities 2451 · sources 8227.
+- Top10: **stable** (2701-2709 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2701-2709: Pleegzorg Provincie Antwerpen (Mechelen) · Pleegzorg Vlaams-Brabant en Brussel (Leuven) · Pleegzorg Limburg (Genk) · Pleegzorg Vlaanderen (Leuven) · Habbekrats Gent · Jongerenatelier Kortrijk · J@M Mechelen · Parcours Gent · Erat Leuven.
+- Hunt this tick: none (EVERY-10 used the tick); rq_2710 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2710 run locally as fallback.
+- Source choice (recorded): ticks 2701-2709 used the KBO NACE-BEL 88.992 activity search by postcode (Pleegzorg services first, then youth-work/HCA units). FOI: general mailboxes only, each verified on an opened official page.
+- Next: **rq_2710** — other NACE 87/88 codes (87.202/87.203 residential, 88.994 welzijnswerk); Pleegzorg West/Oost re-check.

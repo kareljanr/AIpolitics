@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2710** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2700; 2701-2709 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2701-2709 residual dual L5 (not near-complete of 348bn):** Pleegzorg Provincie Antwerpen (Mechelen) · Pleegzorg Vlaams-Brabant en Brussel (Leuven) · Pleegzorg Limburg (Genk) · Pleegzorg Vlaanderen (Leuven) · Habbekrats Gent · Jongerenatelier Kortrijk · J@M Mechelen · Parcours Gent · Erat Leuven (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2380** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2432** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2701-2709** Pleegzorg Provincie Antwerpen (Mechelen) · Pleegzorg Vlaams-Brabant en Brussel (Leuven) · Pleegzorg Limburg (Genk) · Pleegzorg Vlaanderen (Leuven) · Habbekrats Gent · Jongerenatelier Kortrijk · J@M Mechelen · Parcours Gent · Erat Leuven.
+
+### Inventory (tick 2710)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 57519 |
+| commitments.csv | 6432 |
+| leaderboard.csv | 8552 |
+| entities.csv | 2451 |
+| sources.csv | 8227 |
+| FOI ready | 2380 |
+| FOI total rows | 2432 |
+| research_queue open | rq_2710 (carried; next: other NACE 87/88 codes 87.202/87.203, 88.994; Pleegzorg West/Oost re-check) |
+
+### What improved since tick 2700
+
+- **New source (tick2701-2709):** Pleegzorg Provincie Antwerpen (Mechelen) · Pleegzorg Vlaams-Brabant en Brussel (Leuven) · Pleegzorg Limburg (Genk) · Pleegzorg Vlaanderen (Leuven) · Habbekrats Gent · Jongerenatelier Kortrijk · J@M Mechelen · Parcours Gent · Erat Leuven. Source: KBO NACE-BEL 88.992 (integrale jeugdhulp zonder huisvesting) activity search by postcode (pre-2025 code 87.901 no longer valid in KBO).
+- **FOI addresses:** all nine general organisation mailboxes, each verified on an opened official page (J@M: info@jamvzw.be from its annual accounts published on mechelen.be; jamvzw.be shows no mailbox).
+- **Runner note:** 2576-2710 ran on the local fallback runner (Actions last ticked 2575), from the fresh clone /workspace/AIpolitics-loop since 2681; toolkit persistent at /workspace/AIpolitics-loop-tk. Do not run both at once.
+- **Rejected 2701-2709 (fast):** de mobil Leuven (tiny micro, shares Arktos address; contact mailbox is a live.be address); 't Pakhuus, Young Fenix, Yadelim Plus, Routes2Grow, Resett, Zwerfgoed (no NBB filing); Kwaito, RESET (micro BVs); De Kleine Vos (precedent skip); Brussels French-community AMO/ASBL hits out of scope.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2700** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
