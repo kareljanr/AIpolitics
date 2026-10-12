@@ -32533,3 +32533,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2970 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-2970 run locally as fallback.
 - Next: **rq_2970** — culture scan large hits exhausted; options: add a code-73 mode for KANAL (EUR20.59m), retry Médiathèque Nouvelle site, or scan a Flemish activity code for bigger hits.
+
+
+## Tick 2971 — 2026-10-12T18:27:01Z — rq_2970 leftover dual KANAL Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish culture 90.111/90.120/90.130/90.311/91.210 in 18 Flemish city postcodes, plus leftover Brussels culture hits), unprocessed hits ranked by YE2025 NBB primary figure: **KANAL** → KBO 0682.473.786 had 0 prior entity rows.
+- KBO: Actief since 3 oktober 2017; SON; zetel Sainctelettesquare 11-12 1000 Brussel; 3 VE; 0 prior entity rows for 0682.473.786
+- Found: official NBB VOL-SON native PDF **2026-00117419** (1036047 B / 66p; AV 04-05-2026; neergelegd 20/05/2026; MD5 7a53f2afa69548d4d2d2a819573135ee). VOL-SON 73 contributions, gifts, legacies and subsidies, not split (NOT subsidies alone) **EUR20590370** (+52.74%); 62 **EUR7619307**; 9901 **EUR3261750** (was 760119); 9904 3521075; equity 170220023; cash 3330511; FTE 81,9 (was 70,1).
+- FOI address: info@kanal.brussels — general mailbox verified on official page https://www.kanal.brussels/fr/contact (address not shown on that page; KBO seat Square Sainctelette 11-12).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_kanal_brussel_code73_subsidy_split_73_contrib-gifts-legacies-subsidies-not-split_20_59m_9901_3262k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2971/; rq_2970=done; spawn **rq_2972**; ticks=2971.
+- Next: **rq_2972 leftover dual** — KANAL + Flemish culture batch in progress; next: remaining units of this batch.

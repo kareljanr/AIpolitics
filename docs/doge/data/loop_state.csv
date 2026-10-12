@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T18:17:45Z,every10_2970,2970,no,"tick2970 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2970 carried open; next remaining larger Brussels 85.592/86.940 hits, larger first (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T18:27:01Z,rq_2970,2971,no,tick2971 leftover dual KANAL Bruxelles 0682.473.786 Strong PDF 2026-00117419 73 contrib-gifts-legacies-subsidies-not-split 20.59m / 9901 3262k; next rq_2972 KANAL + Flemish culture batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
