@@ -33592,3 +33592,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: everecity@everecity.brussels — general mailbox verified on official site https://www.everecity.brussels/nl/ (contact block).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_everecity_code740_split_740_0_44m_9901_973k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3075/; rq_3075=done; spawn **rq_3076**; ticks=3075.
 - Next: **rq_3076 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3076 — 2026-10-12T21:15:15Z — rq_3076 leftover dual Le Foyer Laekenois - De Lakense Haard Laeken YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE SLRB-BGHM official list of the 16 Brussels public-service housing companies (SISP), https://slrb-bghm.brussels/fr/societes-immobilieres-de-service-public/toutes-les-sisp, plus a KBO NACE-BEL scan (38.110/38.210/36.000/49.310/68.201) for intercommunales and public companies; ranked by YE2025 NBB company-model code 740 (operating subsidies and compensatory amounts from public authorities); every candidate passed the name/alias/KBO/website dedup check: **Le Foyer Laekenois - De Lakense Haard** → KBO 0403.357.672 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1968; SC; zetel Dikkebeuklaan 5A 1020 Brussel; 1 VE; 0 prior entity rows for 0403.357.672
+- Found: official NBB VOL-SC native PDF **2026-00091410** (802639 B / 85p; AV 23-04-2026; neergelegd 27/04/2026; MD5 3e1251a07750d8b3abc34f9af42ac5ed). VOL-SC 740 **EUR391337** (-76.97%); 62 **EUR7698122**; 9901 **EUR2544446** (was 2134438); 9904 4468475; equity 164710743; cash 60773260; FTE 76,9 (was 76,4).
+- FOI address: info@flh.brussels — general mailbox verified on official site https://www.foyerlaekenois.be/ (footer with address).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_foyer_laekenois_code740_split_740_0_39m_9901_2544k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3076/; rq_3076=done; spawn **rq_3077**; ticks=3076.
+- Next: **rq_3077 leftover dual** — Batch done; next: remaining Brussels SISPs below EUR0.2m code 740, then Flemish/Walloon public housing companies and intercommunales from the wider KBO scan, largest first, after the dedup check; skipped this batch: Le Logement Bruxellois (EUR10.60m code 740; only an online form and candidate/DPO mailboxes), Foyer Anderlechtois (EUR6.24m; mailboxes only as hidden form values), Le Foyer Schaerbeekois (no code 740 in the filing), Log'Iris (image-only PDF filing), hospitals (m140-f-p PDF filings, OCR text not reliable).
