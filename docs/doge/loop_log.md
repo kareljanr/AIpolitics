@@ -32493,3 +32493,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vivre-ensemble.be — general mailbox verified on official page https://vivre-ensemble.be/a-propos/equipe/nous-contacter/ (address Rue du Gouvernement Provisoire 32 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_action_vivre_ensemble_vaph_matrix_9900_1_32m_9901_172k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2966/; rq_2966=done; spawn **rq_2967**; ticks=2966.
 - Next: **rq_2967 leftover dual** — Brussels culture (90.x/91.x) + leftover training batch in progress; next: remaining units of this batch.
+
+
+## Tick 2967 — 2026-10-12T18:17:02Z — rq_2967 leftover dual Centre de Formation et de Production (CENFORGIL) Bruxelles (Saint-Gilles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels culture 90.111/90.120/90.130/90.311/91.110/91.210, plus leftover 85.592/86.940 hits, in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Centre de Formation et de Production (CENFORGIL)** → KBO 0458.462.877 had 0 prior entity rows.
+- KBO: Actief since 5 mei 1996; VZW; zetel de Mérodestraat 54 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0458.462.877
+- Found: official NBB VKT-VZW native PDF **2026-00335153** (50258 B / 13p; AV 05-06-2026; neergelegd 27/07/2026; MD5 356824ace97842d9b0d51e258c952959). VKT-VZW 9900 **EUR1243597** (+1.52%); 62 **EUR1155878**; 9901 **EUR-1113** (was 8044); 9904 -2318; equity 64618; cash 192959; FTE 16 (was 16).
+- FOI address: info@cenforgil.be — general mailbox verified on official page https://www.cenforgil.be/contact (address Rue de Mérode 54 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_cenforgil_saint_gilles_vaph_matrix_9900_1_24m_9901_loss_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2967/; rq_2967=done; spawn **rq_2968**; ticks=2967.
+- Next: **rq_2968 leftover dual** — Brussels culture (90.x/91.x) + leftover training batch in progress; next: remaining units of this batch.
