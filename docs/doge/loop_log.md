@@ -33902,3 +33902,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: coordination@admr.be — general-coordination mailbox verified on official page https://www.admr.be/fr/structure (with Route de Hannut 291 address).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_admr_wallonie_vaph_matrix_733_52_92m_9901_169k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3106/; rq_3106=done; spawn **rq_3107**; ticks=3106.
 - Next: **rq_3107 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3107 — 2026-10-12T22:25:48Z — rq_3107 leftover dual Aide et Soins à Domicile en Province de Namur (ASD Namur) Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon home-help and family-help services (services d'aide aux familles et aînés, ASD, CSD; KBO name search over ~30 home-help names, filings ranked by NBB code 733 operating subsidies, largest first; Brussels Aide familiale and the large Flemish services already entities); every candidate passed the name/alias/KBO/website dedup check: **Aide et Soins à Domicile en Province de Namur (ASD Namur)** → KBO 0410.333.160 had 0 prior entity rows.
+- KBO: Actief since 2 juli 1959; VZW; zetel Avenue de la Dame(JB) 93 5100 Namur; 4 VE; 0 prior entity rows for 0410.333.160
+- Found: official NBB VOL-VZW native PDF **2026-00231300** (479762 B / 44p; AV 22-06-2026; neergelegd 01/07/2026; MD5 3faf41f2822b3d0d99a8aeccd742e4d0). VOL-VZW 733 **EUR20866805** (+4.03%); 62 **EUR28411039**; 9901 **EUR429133** (was 7883); 9904 507774; equity 9094898; cash 1332387; FTE 493,5 (was 510,4).
+- FOI address: info@asd-namur.be — general mailbox verified on official page https://namur.aideetsoinsadomicile.be/contact/ (site footer gives BCE 410.333.160).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_asd_namur_vaph_matrix_733_20_87m_9901_429k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3107/; rq_3107=done; spawn **rq_3108**; ticks=3107.
+- Next: **rq_3108 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
