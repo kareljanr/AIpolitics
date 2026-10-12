@@ -29550,3 +29550,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00125057** (2295786 B / 46p; AV 26-05-2026; neergelegd 29/05/2026; MD5 31e9393ace2a21d992de19ce76d78c95). VOL-VZW 733 **EUR13199521** (+2.11%); 62 **EUR11393667**; 9901 **EUR-173996** (was 576531); 9904 -113791; equity 6762875; cash 1270475; FTE 147,5 (was 148).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_halen); FOI **gap_huize_sint_vincentius_halen_vaph_matrix_733_13_20m_9901_loss_174k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2674/; rq_2674=done; spawn **rq_2675**; ticks=2674.
 - Next: **rq_2675 leftover dual** — Opgroeien OVBJ Antwerpen leftovers done; next: OVBJ Vlaams-Brabant/Brussel (PDF needs re-parse), then KBO NACE 87/88 lists.
+
+
+## Tick 2675 — 2026-10-12T08:40:45Z — rq_2675 leftover dual Jeugdzorgcentrum Maaseik YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Limburg list (mei 2026): **Jeugdzorgcentrum** → KBO 0409.910.914 had 0 prior entity rows. No general mailbox published; using the official Opgroeien OVBJ-list contact.
+- KBO: Actief since 21 februari 1966; VZW; zetel Spoorwegstraat 22, 3680 Maaseik; 1 VE; 0 prior entity rows for 0409.910.914
+- Found: official NBB VOL-VZW native PDF **2026-00174919** (91559 B / 33p; AV 28-05-2026; neergelegd 16/06/2026; MD5 1cf835738e657c2650d48f4ed60f2e38). VOL-VZW 733 **EUR3652551** (+1.51%); 62 **EUR2984488**; 9901 **EUR148528** (was 216349); 9904 89650; equity 5846372; cash 989783; FTE 39 (was 39,6).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_maaseik); FOI **gap_jeugdzorgcentrum_maaseik_vaph_matrix_733_3_65m_9901_149k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2675/; rq_2675=done; spawn **rq_2676**; ticks=2675.
+- Next: **rq_2676 leftover dual** — Opgroeien OVBJ Antwerpen leftovers done; next: OVBJ Vlaams-Brabant/Brussel (PDF needs re-parse), then KBO NACE 87/88 lists.
