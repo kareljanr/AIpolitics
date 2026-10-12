@@ -32713,3 +32713,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info.provincieantwerpen@saamo.be — general mailbox verified on official page https://www.saamo.be/provincie-antwerpen/contact/ (KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mechelen); FOI **gap_saamo_provincie_antwerpen_vaph_matrix_9900_2_31m_9901_loss_79k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2988/; rq_2988=done; spawn **rq_2989**; ticks=2988.
 - Next: **rq_2989 leftover dual** — Flemish 88.99x batch in progress; next: remaining units of this batch.
+
+
+## Tick 2989 — 2026-10-12T18:33:50Z — rq_2989 leftover dual SAAMO Gent Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.991-88.999 social work / sheltered work in 18 Flemish city postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **SAAMO Gent** → KBO 0432.007.811 had 0 prior entity rows.
+- KBO: Actief since 13 november 1985; VZW; zetel Blaisantvest 70 9000 Gent; 1 VE; 0 prior entity rows for 0432.007.811
+- Found: official NBB VKT-VZW native PDF **2026-00088354** (175722 B / 24p; AV 20-04-2026; neergelegd 27/04/2026; MD5 20f3babf9b74bad95c3a64adb31ea58f). VKT-VZW 9900 **EUR2299447** (+0.26%); 62 **EUR2235150**; 9901 **EUR4305** (was -35135); 9904 7291; equity 672571; cash 520224; FTE 34 (was 36,2).
+- FOI address: gent@saamo.be — general mailbox verified on official page https://www.saamo.be/gent/contact/ (address Blaisantvest 70 and KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_saamo_gent_vaph_matrix_9900_2_30m_9901_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2989/; rq_2989=done; spawn **rq_2990**; ticks=2989.
+- Next: **rq_2990 leftover dual** — Batch done; next: remaining Flemish 88.99x hits (STW EUR2.02m, Buurtwerk Posthof EUR2.05m, VVA Vlaamse vereniging Autisme EUR2.00m, Saamo Oost-Vlaanderen EUR1.99m, VK Oost-Vlaanderen EUR1.94m), larger first; skipped this batch: Katholieke Hogeschool VIVES Zuid (mailbox obfuscated on own site), Con Brio (mailbox only on a sister-brand site), Rode Kruis-Vlaanderen (subsidies only EUR2.58m of a EUR61.8m code-73 total; separate review).
