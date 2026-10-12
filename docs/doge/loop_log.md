@@ -33033,3 +33033,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3020 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3020 run locally as fallback.
 - Next: **rq_3020** — remaining further-extended hits (Beschut Wonen De Overweg EUR2.22m, Beschut Wonen Kempen EUR2.20m, Werkstroomm EUR2.10m) or another postcode/code extension, largest first.
+
+
+## Tick 3021 — 2026-10-12T19:51:33Z — rq_3020 leftover dual SAAMO Limburg Heusden-Zolder YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish multi-code 85.592/87.101/87.301/88.101/88.911/88.991/88.993/88.999, extended to ~190 further Flemish municipality postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **SAAMO Limburg** → KBO 0431.005.840 had 0 prior entity rows.
+- KBO: Actief since 26 maart 1986; VZW; zetel Marktplein 9 bus 21 3550 Heusden-Zolder; 1 VE; 0 prior entity rows for 0431.005.840
+- Found: official NBB VKT-VZW native PDF **2026-00106018** (2908914 B / 24p; AV 27-04-2026; neergelegd 08/05/2026; MD5 d67dd4f46d0e21e9cd8d60fb785e46cf). VKT-VZW 9900 **EUR5062543** (-0.86%); 62 **EUR5086964**; 9901 **EUR-109285** (was -57110); 9904 -105235; equity 1044913; cash 716487; FTE 67,1 (was 66,4).
+- FOI address: info@saamolimburg.be — general mailbox verified on official page https://www.saamolimburg.be/nl/contact (address Marktplein 9 bus 21 and KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_heusden_zolder); FOI **gap_saamo_limburg_vaph_matrix_9900_5_06m_9901_loss_109k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3021/; rq_3020=done; spawn **rq_3022**; ticks=3021.
+- Next: **rq_3022 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

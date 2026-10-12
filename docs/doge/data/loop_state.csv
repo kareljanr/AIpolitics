@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T19:28:28Z,every10_3020,3020,no,"tick3020 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3020 carried open; next further Flemish postcodes/codes with larger recipients, largest first (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T19:51:33Z,rq_3020,3021,no,tick3021 leftover dual SAAMO Limburg Heusden-Zolder 0431.005.840 Strong PDF 2026-00106018 9900 5.06m / 9901 loss 109k; next rq_3022 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
