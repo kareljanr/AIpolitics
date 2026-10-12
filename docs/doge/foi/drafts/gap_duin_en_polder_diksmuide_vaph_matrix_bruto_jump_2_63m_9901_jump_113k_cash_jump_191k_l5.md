@@ -11,7 +11,7 @@ Openbaarheid van bestuur — VAPH / gemeente Diksmuide matrix achter Duin en Pol
 
 ## Geachte
 
-Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Duin en Polder VZW** (KBO 0416.840.672; zetel Generaal Baron Jacquesstraat 78, 8600 Diksmuide):
+Via deze brief vraag ik, op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Duin en Polder VZW** (KBO 0416.840.672; zetel Generaal Baron Jacquesstraat 78, 8600 Diksmuide):
 
 1. De **VAPH-financieringmatrix** (en eventuele gemeentelijke toelagen) achter NBB VKT-VZW YE2025 code **9900** brutomarge **EUR 2.633.434** (JUMP +11,28% t.o.v. YE2024 **EUR 2.366.514**) terwijl code **73** lidgeld/schenkingen/legaten/subsidies **leeg** is en omzet **70 leeg** — de VKT-enveloppe is bruto 9900 (niet 70/76A).
 2. Toelichting bij personeelskost **62 EUR 2.293.090** (JUMP +6,57% t.o.v. **EUR 2.151.753**) t.o.v. FTE **9087 = 31** (JUMP van 30) en de rol van VAPH-personeelsfinanciering.
@@ -19,7 +19,7 @@ Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende 
 4. Uitsplitsing van niet-recurrente bedrijfsopbrengsten **76A EUR 4.121** (van leeg), afschrijvingen **630 EUR 146.492** (DROP van **EUR 147.626**), andere bedrijfskosten **640/8 EUR 55.734**, kapitaalsubsidies **15 EUR 262.665** (DROP van **EUR 289.536**), destin **691 EUR 60.000** / **791 EUR 60.416**, MVA **22/27 EUR 1.877.252**, gebouwen **22 EUR 1.678.000**, aanbouw **27 EUR 8.910**, capex **8169 EUR 51.118**, en bevestiging dat **70 / 73 / 74 / 66A / geldbeleggingen 50/53** leeg/niet op formulier zijn zoals in de VKT-VZW-neerlegging (niet dienstig: VKT-VZW 6.1.1 6.1.3 6.2 6.3 6.5 6.6 7 8).
 5. Relatie tot **Kinderopvang De Hoeksteen VZW** (KBO 0765.439.866; remine@2405 leftover CIK van dezelfde leftover city_diksmuide) en tot Stad/OCMW Diksmuide — bevestiging dat deze jaarrekening een eigen VZW-parent is (niet leftover-via-VE van een andere leftover gemeente als parent) en dat er geen consolidatie / leftover-via-VE van een andere leftover gemeente als parent speelt.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes  

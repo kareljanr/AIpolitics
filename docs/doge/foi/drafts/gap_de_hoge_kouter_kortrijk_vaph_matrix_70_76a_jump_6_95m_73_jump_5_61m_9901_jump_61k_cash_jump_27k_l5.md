@@ -11,7 +11,7 @@ Openbaarheid van bestuur — VAPH / gemeente Kortrijk matrix achter De Hoge Kout
 
 ## Geachte
 
-Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **De Hoge Kouter Vergunde ZorgAanbieder VZW** (KBO 0409.795.207; zetel Bad Godesberglaan 19, 8500 Kortrijk):
+Via deze brief vraag ik, op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **De Hoge Kouter Vergunde ZorgAanbieder VZW** (KBO 0409.795.207; zetel Bad Godesberglaan 19, 8500 Kortrijk):
 
 1. De **VAPH-financieringmatrix** (en eventuele gemeentelijke toelagen) achter NBB VOL-VZW YE2025 code **70/76A** bedrijfsopbrengsten **EUR 6.950.020** (JUMP +8,86% t.o.v. YE2024 **EUR 6.384.272**) terwijl omzet **70 EUR 326.030** commercial-only is en code **73** lidgeld/schenkingen/legaten/subsidies **EUR 6.352.334** JUMP +9,70% (was **EUR 5.790.604**; waarvan **733 EUR 6.350.844** / **731 EUR 1.490**).
 2. Toelichting bij personeelskost **62 EUR 5.729.936** (JUMP +11,37% t.o.v. **EUR 5.144.852**) t.o.v. FTE **9087 = 74,9** (JUMP van 71) en de rol van VAPH-personeelsfinanciering.
@@ -19,7 +19,7 @@ Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende 
 4. Uitsplitsing van andere bedrijfsopbrengsten **74 EUR 265.949** (DROP van **EUR 286.704**), niet-recurrente bedrijfsopbrengsten **76A EUR 5.707**, afschrijvingen **630 EUR 351.972** (DROP van **EUR 378.674**), andere bedrijfskosten **640/8 EUR 22.118**, kapitaalsubsidies **15 EUR 1.521.707** (DROP van **EUR 1.595.849**), destin **691 leeg** / **791 EUR 24.000**, MVA **22/27 EUR 5.288.918**, gebouwen **22 EUR 4.900.764**, aanbouw **27 EUR 147.891**, geldbeleggingen **50/53 EUR 925.000**, capex aanschaffingen **EUR 174.068** (8161+8162+8163+8166), schulden **17/49 EUR 2.633.246** (DROP), activa **20/58 EUR 7.742.471** (DROP), en bevestiging dat **66A** in YE2025 leeg is (was **EUR 91.427**).
 5. Relatie tot **Zonnebloem VZW** (KBO 0421.039.386; remine@2393 leftover VAPH van dezelfde leftover city_kortrijk), **CAR Accent** (0413.208.122) / **CAR Overleie** (0454.250.505) en tot Stad/OCMW Kortrijk — bevestiging dat deze jaarrekening een eigen VZW-parent is (niet leftover-via-VE van een andere leftover gemeente als parent; niet leftover Ubuntu leftover-via-VE Kortrijk) en dat er geen consolidatie / leftover-via-VE van een andere leftover gemeente als parent speelt.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes  

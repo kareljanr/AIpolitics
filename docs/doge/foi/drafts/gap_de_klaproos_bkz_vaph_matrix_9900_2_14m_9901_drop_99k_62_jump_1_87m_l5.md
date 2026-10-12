@@ -11,7 +11,7 @@ Openbaarheid van bestuur — subsidiematrix en financiële toelichting De Klapro
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **De Klaproos VZW** (KBO 0457.606.804):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **De Klaproos VZW** (KBO 0457.606.804):
 
 1. De uitsplitsing van de **bedrijfsopbrengsten 2025** achter de brutomarge (9900) **EUR 2.144.546** (2024: **EUR 2.068.574**) per verstrekker (VAPH persoonsvolgende financiering / rechtstreeks toegankelijke hulp, Sociale Maribel, VIPA, gemeente Beveren-Kruibeke-Zwijndrecht, bijdragen gebruikers, andere).
 2. Toelichting bij de **bezoldigingen (62) EUR 1.867.133** (2024: **EUR 1.708.455**, +9,29 %) terwijl het gemiddeld personeelsbestand daalt van **25,4** naar **24,9 VTE**.
@@ -19,7 +19,7 @@ Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestu
 4. Kredietgever, looptijd, rente en eventuele overheidswaarborg van de **schulden op meer dan één jaar (17) EUR 642.250** (2024: **EUR 772.959**) en de financiering van de nieuwbouw in Kallo.
 5. Herkomst en voorwaarden van de **kapitaalsubsidies (15) EUR 135.494**.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

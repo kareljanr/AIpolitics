@@ -11,14 +11,14 @@ Openbaarheid van bestuur — subsidiematrix en financiële toelichting De Karrek
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **De Karrekol VZW** (KBO 0415.299.461):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **De Karrekol VZW** (KBO 0415.299.461):
 
 1. De uitsplitsing van de **bedrijfsopbrengsten 2025** achter de brutomarge (9900) **EUR 2.368.212** (2024: **EUR 2.299.103**) per verstrekker (VAPH persoonsvolgende financiering, Sociale Maribel, VIPA, stad Gent, bijdragen gebruikers, andere).
 2. Het reserve- en beleggingsbeleid achter het **eigen vermogen EUR 5.567.493** (2024: **EUR 5.372.203**) en de **geldbeleggingen (50/53) EUR 2.003.618** (2024: **EUR 1.800.173**), en de bestemming van de **winst van het boekjaar (9904) EUR 209.617**.
 3. Toelichting bij de **bezoldigingen (62) EUR 2.040.932** (2024: **EUR 1.918.414**, +6,39 %) versus **27 VTE** (2024: **26,6**).
 4. Herkomst en voorwaarden van de **kapitaalsubsidies (15) EUR 114.616**.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

@@ -11,7 +11,7 @@ Openbaarheid van bestuur — VAPH / gemeente Ieper matrix achter Vondels VZW YE2
 
 ## Geachte
 
-Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Vondels VZW** (KBO 0415.108.728; zetel Ter Waarde 45, 8900 Ieper):
+Via deze brief vraag ik, op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Vondels VZW** (KBO 0415.108.728; zetel Ter Waarde 45, 8900 Ieper):
 
 1. De **VAPH-financieringmatrix** (en eventuele gemeentelijke toelagen) achter NBB VOL-VZW YE2025 code **70/76A** bedrijfsopbrengsten **EUR 10.485.951** (JUMP +9,79% t.o.v. YE2024 **EUR 9.550.809**) met omzet **70 EUR 754.516** (JUMP van **EUR 672.096**; commercial-only vs large 73), code **73** lidgeld/schenkingen/legaten/subsidies **EUR 9.049.848** (JUMP +10,30% t.o.v. **EUR 8.204.497**; waarvan **733 subsidies EUR 9.049.848** / **731 leeg**), **74 EUR 606.055** (JUMP van **EUR 552.620**) en **76A EUR 75.533** (DROP van **EUR 121.597**).
 2. Toelichting bij personeelskost **62 EUR 7.983.439** (JUMP t.o.v. **EUR 7.214.906**) t.o.v. FTE **9087 = 104,9** (JUMP t.o.v. YE2024 95,4; 9086 jaareinde 126 vs 116) en de rol van VAPH-personeelsfinanciering.
@@ -19,7 +19,7 @@ Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende 
 4. Uitsplitsing van afschrijvingen **630 EUR 590.453** (JUMP van **EUR 588.086**), andere bedrijfskosten **640/8 EUR 126.947** (DROP van **EUR 129.761**), niet-recurrente bedrijfskosten **66A EUR 1.313** (was **EUR 130.611**), kapitaalsubsidies **15 EUR 1.465.384** (DROP van **EUR 1.545.165**), destin **691 EUR 567.853** (JUMP van **EUR 254.039**) / **791 leeg** (was **EUR 1.310.928**), MVA **22/27 EUR 6.099.664**, gebouwen **22 EUR 4.284.561**, aanbouw **27 EUR 3.699**, capex aanschaffingen **8161+8162+8163+8166 EUR 322.300**, schulden **17/49 EUR 3.467.795**, activa **20/58 EUR 10.723.136**, eigen vermogen **10/15 EUR 7.255.341**, en bevestiging niet-dienstige VOL-VZW-secties zoals in de neerlegging.
 5. Relatie tot Stad Ieper (KBO GE **0207.484.681**) / AGB Vauban (**0877.643.330**) / AGB Musea (**0759.387.858**) en tot CAR De Klinker (**0430.535.290**) / Huize Zonnelied (**0415.082.497**) / Wintershove (**0459.245.312**) — bevestiging dat deze jaarrekening een eigen VZW-parent is met zetel in Ieper (niet leftover-via-VE van een andere leftover gemeente als parent) en dat er geen consolidatie met die leftover Ieper-entiteiten speelt.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes  

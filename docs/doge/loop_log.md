@@ -31228,3 +31228,5 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2840 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-2840 run locally as fallback.
 - Next: **rq_2840** — remaining larger Brussels childcare/day-centre ASBLs and Flemish 88.10x VZWs, larger first.
+
+- Legal fix follow-up (2026-10-12T16:18:03Z): the 234 existing Dutch drafts that cited the repealed decree of 26 March 2004 as their legal basis now cite title II, chapter 3 of the Bestuursdecreet of 7 December 2018 (same wording as foi-template-nl.md). Only the legal-reference sentence and the deadline sentence changed ("wettelijke termijn" -> 20 calendar days art. II.43 §1, appeal art. II.48, requester address art. II.40 §2); 2 lines per file, nothing else. 0 drafts left with the old citation as their only basis.

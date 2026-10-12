@@ -11,7 +11,7 @@ Openbaarheid van bestuur — subsidiematrix en financiële toelichting Klim VZW 
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Klim VZW** (KBO 0422.719.961):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Klim VZW** (KBO 0422.719.961):
 
 1. De uitsplitsing van de **subsidies 2025 (733) EUR 8.290.949** (2024: **EUR 7.487.090**) per verstrekker (VAPH persoonsvolgende financiering / rechtstreeks toegankelijke hulp, andere Vlaamse of Brusselse overheden, gemeente Machelen, gemeente Dilbeek, andere).
 2. Toelichting bij het **bedrijfsverlies 2025 (9901) EUR -8.202** (2024: winst **EUR 165.986**) bij een stijging van de personeelskosten (62) naar **EUR 8.266.188** (2024: **EUR 7.421.323**; 106,8 VTE), inclusief de kost van interimkrachten.
@@ -19,7 +19,7 @@ Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestu
 4. De aard en tegenpartij van de **overige schulden (48) EUR 153.288** (2024: **EUR 2.712**).
 5. Welke kapitaalsubsidies (**EUR 2.087.526** op de balans) werden ontvangen, van welke overheid (bv. VIPA) en voor welke gebouwen, en het masterplan waarvoor het bouwfonds (bestemde fondsen) wordt aangelegd.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

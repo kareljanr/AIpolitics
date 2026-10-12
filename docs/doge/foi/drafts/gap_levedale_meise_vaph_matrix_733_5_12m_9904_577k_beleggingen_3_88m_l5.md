@@ -11,14 +11,14 @@ Openbaarheid van bestuur — subsidiematrix en financiële toelichting Levedale 
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Levedale VZW** (KBO 0414.693.707):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Levedale VZW** (KBO 0414.693.707):
 
 1. De uitsplitsing van de **subsidies 2025 (733) EUR 5.124.292** (2024: **EUR 4.878.315**, +5,04 %) per verstrekker (VAPH persoonsvolgende financiering / rechtstreeks toegankelijke hulp, Sociale Maribel, VIPA, en elk van de gemeentebesturen die statutair in het Bestuursorgaan vertegenwoordigd zijn).
 2. Welke gemeenten maken deel uit van het lokaal samenwerkingsverband, welke bijdragen (in geld of natura) leverden zij in 2025, en de notulen/statuten die hun vertegenwoordiging regelen.
 3. Het reserve- en beleggingsbeleid achter de **geldbeleggingen (50/53) EUR 3.875.024** (2024: **EUR 1.766.473**) en **liquide middelen EUR 1.165.989**, en de bestemming van de **winst van het boekjaar (9904) EUR 577.053**.
 4. Herkomst en voorwaarden van de **kapitaalsubsidies (15) EUR 1.887.522**.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

@@ -11,14 +11,14 @@ Openbaarheid van bestuur — subsidiematrix en financiële toelichting Unie-K VZ
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Unie-K VZW** (KBO 0431.124.022):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Unie-K VZW** (KBO 0431.124.022):
 
 1. De uitsplitsing van de **subsidies 2025 (733) EUR 38.325.413** (2024: **EUR 36.966.639**, +3,68 %) per verstrekker (VAPH persoonsvolgende financiering / rechtstreeks toegankelijke hulp, provincie West-Vlaanderen, Sociale Maribel, VIPA, gemeenten, andere).
 2. Welke overheidsinstelling de **schulden EUR 16.487.771** (code 9061) waarborgt, voor welke leningen, met looptijd en rente; en de huidige rol van de provincie West-Vlaanderen (vertegenwoordiging in het bestuur, eigendom van gebouwen, waarborgen).
 3. De bestemming en bestuursbeslissingen achter de **toevoeging aan de bestemde fondsen EUR 2.954.692,62** en het beleggingsbeleid achter **geldbeleggingen EUR 12.701.594** (2024: **EUR 16.101.594**).
 4. Herkomst en voorwaarden van de **kapitaalsubsidies (15) EUR 23.860.064**.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

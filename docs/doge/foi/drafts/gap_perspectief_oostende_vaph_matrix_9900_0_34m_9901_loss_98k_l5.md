@@ -12,14 +12,14 @@ Openbaarheid van bestuur — subsidiematrix en financiële toelichting Perspecti
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Perspectief Oostende projectvereniging** (KBO 0684.927.193):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Perspectief Oostende projectvereniging** (KBO 0684.927.193):
 
 1. De uitsplitsing van de **brutomarge 2025 (9900) EUR 341.995** (2024: **EUR 428.924**) naar subsidies per verstrekker (deelnemende gemeenten en OCMW's (o.a. Stad Oostende), Vlaamse overheid, andere), andere overheidsmiddelen en eigen inkomsten.
 2. De **bijdragen per deelnemende gemeente/OCMW** in 2025 en het aantal ondersteunde cliënten.
 3. De oprichtingsovereenkomst, het meerjarenplan en de jaarrekeningbesluiten van de raad van bestuur voor 2025.
 4. De bestemming van het **verlies van het boekjaar EUR -98.264** en het reservebeleid achter **liquide middelen EUR 482.374** (2024: **EUR 671.867**).
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

@@ -12,14 +12,14 @@ Openbaarheid van bestuur — subsidiematrix en financiële toelichting Servicere
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Serviceresidentie Parkhof VZW** (KBO 0899.791.893):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Serviceresidentie Parkhof VZW** (KBO 0899.791.893):
 
 1. De uitsplitsing van de **brutomarge 2025 (9900) EUR 2.380.733** (2024: **EUR 2.218.505**) naar subsidies per verstrekker (Vlaamse sociale bescherming / Departement Zorg (woonzorgcentra), VIPA, Sociale Maribel, gemeenten, andere), andere overheidsmiddelen en eigen inkomsten.
 2. Het **aantal bewoners en erkende plaatsen** in 2025, de bezettingsgraad en de dagprijs en kost per bewoner per dag.
 3. De erkenningsbesluiten en financieringsbeslissingen (Vlaamse sociale bescherming, VIPA) voor 2025.
 4. De bestemming van het **verlies van het boekjaar EUR -585.276** en het reservebeleid achter **liquide middelen EUR 14.979** (2024: **EUR 26.848**).
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

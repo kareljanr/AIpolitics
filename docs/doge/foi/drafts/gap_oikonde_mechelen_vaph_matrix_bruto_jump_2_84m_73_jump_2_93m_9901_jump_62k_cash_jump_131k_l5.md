@@ -11,7 +11,7 @@ Openbaarheid van bestuur — VAPH / gemeente Mechelen matrix achter Oikonde VZW 
 
 ## Geachte
 
-Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Oikonde VZW** (KBO 0414.341.933; zetel Colomastraat 36-38, 2800 Mechelen):
+Via deze brief vraag ik, op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Oikonde VZW** (KBO 0414.341.933; zetel Colomastraat 36-38, 2800 Mechelen):
 
 1. De **VAPH-financieringmatrix** (en eventuele gemeentelijke toelagen) achter NBB VKT-VZW YE2025 code **9900** brutomarge **EUR 2.839.493** (JUMP +9,53% t.o.v. YE2024 **EUR 2.592.486**) met omzet **70 EUR 17.651** (JUMP van **EUR 12.349**; commercial-only vs large 73), code **73** lidgeld/schenkingen/legaten/subsidies **EUR 2.931.036** (JUMP +9,32% t.o.v. **EUR 2.681.181**) en **76A leeg**.
 2. Toelichting bij personeelskost **62 EUR 2.696.720** (JUMP t.o.v. **EUR 2.486.379**) t.o.v. FTE **9087 = 32,4** (JUMP t.o.v. YE2024 31,5; 100 YE 32,4 vs 31,5; 105 YE 33,3) en de rol van VAPH-personeelsfinanciering.
@@ -19,7 +19,7 @@ Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende 
 4. Uitsplitsing van afschrijvingen **630 EUR 59.417** (JUMP van **EUR 58.170**), andere bedrijfskosten **640/8 EUR 21.761** (JUMP van **EUR 19.226**), niet-recurrente bedrijfskosten **66A leeg**, kapitaalsubsidies **15 EUR 20.983** (DROP van **EUR 26.411**), destin **691 EUR 60.857** (JUMP van **EUR 25.534**) / **791 leeg**, MVA **22/27 EUR 1.082.251**, gebouwen **22 EUR 583.308**, aanbouw **27 EUR 473.087** (JUMP van **EUR 136.056**), capex aanschaffingen **8169 EUR 371.907**, schulden **17/49 EUR 735.869**, activa **20/58 EUR 1.816.621**, eigen vermogen **10/15 EUR 1.080.752**, en bevestiging niet-dienstige VKT-VZW-secties 6.5 / 6.6 / 8 zoals in de neerlegging.
 5. Relatie tot Stad Mechelen (KBO GE **0207.499.430**) / AGB Energiepunt (**0843.922.170**) / AGB SAM (**0871.106.718**) / AGB MAC (**0546.688.337**) en tot Pardoes (**0417.400.205**) — bevestiging dat deze jaarrekening een eigen VZW-parent is met zetel in Mechelen (niet leftover-via-VE van een andere leftover gemeente als parent) en dat er geen consolidatie met die leftover Mechelen-entiteiten speelt.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes  

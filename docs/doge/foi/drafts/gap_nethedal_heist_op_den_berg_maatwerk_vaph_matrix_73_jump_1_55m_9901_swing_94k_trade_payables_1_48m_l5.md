@@ -11,14 +11,14 @@ Openbaarheid van bestuur — financieringsmatrix en balansposten Nethedal VZW YE
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Nethedal VZW** (KBO 0431.830.439):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Nethedal VZW** (KBO 0431.830.439):
 
 1. De uitsplitsing per verstrekker (Departement Werk en Sociale Economie / maatwerk, VAPH, gemeente Heist-op-den-Berg, provincie, giften) van code **73** lidgeld/schenkingen/legaten/subsidies **EUR 1.545.813** in 2025 (2024: **EUR 1.445.702**; +6,92%).
 2. De aard en de tegenpartijen van de **schulden aan leveranciers (440/4) EUR 1.479.782** (2024: **EUR 1.453.896**), terwijl de aankopen 60/61 in 2025 slechts **EUR 365.497** bedroegen, en van de **handelsvorderingen (40) EUR 1.389.529** (2024: **EUR 1.344.262**) bij een omzet (70) van **EUR 275.762**.
 3. Toelichting bij de omslag van de **bedrijfswinst (9901)** naar **EUR 93.845** (2024: **EUR -13.561**) bij personeelskosten **62 EUR 1.387.957** (2024: **EUR 1.420.436**; FTE 21,4 vs 20,6) en liquide middelen **EUR 930.881** (2024: **EUR 857.396**).
 4. De erkennings- en subsidiebeslissingen (maatwerk / VAPH) voor de woning met 12 bewoners in Heist-op-den-Berg (geopend juni 2023).
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

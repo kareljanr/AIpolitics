@@ -11,7 +11,7 @@ Openbaarheid van bestuur — VAPH / gemeente Peer matrix achter Monsheide VZW YE
 
 ## Geachte
 
-Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Monsheide VZW** (KBO 0419.081.867; zetel Monsheide 4, 3990 Peer):
+Via deze brief vraag ik, op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Monsheide VZW** (KBO 0419.081.867; zetel Monsheide 4, 3990 Peer):
 
 1. De **VAPH-financieringmatrix** (en eventuele gemeentelijke toelagen) achter NBB VOL-VZW YE2025 code **73** lidgeld/schenkingen/legaten/subsidies **EUR 5.281.699** (JUMP +10,00% t.o.v. YE2024 **EUR 4.801.399**; waarvan subsidies **733 EUR 5.273.599** JUMP +10,12% t.o.v. **EUR 4.788.719**; 73−733 gap **EUR 8.100** = schenkingen 731) en envelope **70/76A EUR 6.359.534** (JUMP +8,93% t.o.v. **EUR 5.838.281**).
 2. Toelichting bij **omzet 70 EUR 810.370** (JUMP +2,33%; commercial-only t.o.v. grote 73) en **andere bedrijfsopbrengsten 74 EUR 267.465** (JUMP +9,19%).
@@ -20,6 +20,6 @@ Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende 
 5. Bestemming **691 EUR 351.637** JUMP (was 165.253) en **kapitaalsubsidies 15 DROP EUR 147.793** (was 184.986) terwijl MVA **22/27 EUR 2.899.357** DROP, gebouwen **22 EUR 2.193.089** DROP, aanbouw **27 EUR 122.965** JUMP, capex ca. **EUR 139.328**.
 6. Bevestiging dat er geen consolidatie / leftover-via-VE van een andere leftover gemeente als parent speelt voor deze jaarrekening.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  

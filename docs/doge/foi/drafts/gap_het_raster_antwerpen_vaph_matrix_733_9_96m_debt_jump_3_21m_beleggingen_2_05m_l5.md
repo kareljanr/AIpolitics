@@ -11,14 +11,14 @@ Openbaarheid van bestuur — subsidiematrix en financiële toelichting Het Raste
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Het Raster VZW** (KBO 0476.639.588):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Het Raster VZW** (KBO 0476.639.588):
 
 1. De uitsplitsing van de **subsidies 2025 (733) EUR 9.961.472** (2024: **EUR 9.186.046**, +8,44 %) per verstrekker (VAPH persoonsvolgende financiering / rechtstreeks toegankelijke hulp, Sociale Maribel, VIPA, steden/gemeenten, andere), en per afdeling (Antwerpen / Vlaams-Brabant en Brussel).
 2. Kredietgever, doel, looptijd en voorwaarden van de **schulden op meer dan één jaar (17) EUR 1.354.133** (2024: **EUR 767.492**), en eventuele overheidswaarborg.
 3. Het beleggingsbeleid achter de stijging van de **geldbeleggingen (50/53)** naar **EUR 2.047.525** (2024: **EUR 897.525**) terwijl de **liquide middelen** dalen naar **EUR 1.076.666** (2024: **EUR 2.096.581**) en de schulden stijgen.
 4. Toelichting bij de **bezoldigingen (62) EUR 9.390.067** (+8,80 %) versus **109 VTE** (2024: **103,5**).
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

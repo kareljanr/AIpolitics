@@ -12,14 +12,14 @@ Openbaarheid van bestuur — subsidiematrix en financiële toelichting De Overbr
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **De Overbron VZW** (KBO 0450.181.156):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **De Overbron VZW** (KBO 0450.181.156):
 
 1. De **subsidiematrix 2025 (code 733) EUR 2.625.180** (2024: **EUR 2.397.138**) per verstrekker (Vlaamse Gemeenschapscommissie (VGC) / Vlaamse sociale bescherming, Departement Zorg, VIPA, Sociale Maribel, andere).
 2. Het **aantal bewoners en erkende plaatsen** in 2025, de bezettingsgraad en de dagprijs en kost per bewoner per dag.
 3. De erkenningsbesluiten en financieringsbeslissingen (Vlaamse sociale bescherming, VIPA) voor 2025.
 4. De bestemming van het **resultaat van het boekjaar EUR 180.196** en het reservebeleid achter **liquide middelen EUR 293.055** (2024: **EUR 345.220**).
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

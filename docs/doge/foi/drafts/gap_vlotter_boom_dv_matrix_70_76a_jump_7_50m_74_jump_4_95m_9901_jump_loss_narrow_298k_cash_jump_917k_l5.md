@@ -11,7 +11,7 @@ Openbaarheid van bestuur — publieke matrix achter VLOTTER YE2025 (70/76A JUMP 
 
 ## Geachte
 
-Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **VLOTTER** (KBO 0200.762.878; zetel Colonel Silvertopstraat 15, 2850 Boom):
+Via deze brief vraag ik, op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **VLOTTER** (KBO 0200.762.878; zetel Colonel Silvertopstraat 15, 2850 Boom):
 
 1. De **publieke financieringsmatrix** (Vlaamse maatwerk/thuiszorgtoelagen, gemeentelijke bijdragen van Aartselaar/Boom/Hemiksem/Niel/Rumst, en eventuele andere subsidies) achter NBB VOL-inb YE2025 envelope **70/76A EUR 7.498.740** (JUMP +5,61% t.o.v. YE2024 **EUR 7.100.145**) en code **74** andere bedrijfsopbrengsten **EUR 4.946.203** (JUMP +8,49%; waarvan exploitatiesubsidies **740 EUR 4.663.519**).
 2. Toelichting bij de **JUMP LOSS narrower** van bedrijfswinst **9901** van **−784.330** (YE2024) naar **−297.897** (YE2025) en pnl **9904 −277.551** (was **−753.303**), terwijl liquide middelen **54/58 JUMP** naar **EUR 4.373.528** (was **3.456.184**, +26,54%).
@@ -19,6 +19,6 @@ Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende 
 4. Waarom **73** leeg blijft terwijl subsidies in **74/740** zitten; kapitaalsubsidies **15 EUR 201.075** (DROP); cash JUMP +917k naast equity DROP naar **EUR 2.208.777**; MVA **22/27 EUR 2.227.394** DROP; gebouwen **22 EUR 2.117.863** DROP; capex aanschaffingen ca. **EUR 57.207**.
 5. Bevestiging van de relatie tot **Vlotter Maatwerk VZW 0841.843.796** (YE2024-only deposit 2025-00236826) en dat er geen leftover-via-VE van een andere leftover gemeente als parent speelt.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  

@@ -12,14 +12,14 @@ Openbaarheid van bestuur — subsidiematrix en financiële toelichting De Dauw V
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **De Dauw VZW** (KBO 0419.188.369):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **De Dauw VZW** (KBO 0419.188.369):
 
 1. De uitsplitsing van de **brutomarge 2025 (9900) EUR 2.536.380** (2024: **EUR 2.470.313**) naar subsidies per verstrekker (Vlaamse sociale bescherming (revalidatieovereenkomst), VAPH, Sociale Maribel, andere), andere overheidsmiddelen en eigen inkomsten.
 2. Het **aantal gebruikers en ondersteuningsdagen** in 2025 en de kost per dag.
 3. De erkennings- en subsidiebesluiten van het VAPH voor 2025.
 4. De bestemming van het **resultaat van het boekjaar EUR 2.188** en het reservebeleid achter **liquide middelen EUR 516.902** (2024: **EUR 451.228**).
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

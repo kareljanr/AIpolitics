@@ -11,7 +11,7 @@ Openbaarheid van bestuur — VAPH / gemeente Dilsen-Stokkem matrix achter Zorggr
 
 ## Geachte
 
-Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Zorggroep Arum VZW** (KBO 0410.169.547; zetel Stokkemerbaan 147, 3650 Dilsen-Stokkem):
+Via deze brief vraag ik, op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Zorggroep Arum VZW** (KBO 0410.169.547; zetel Stokkemerbaan 147, 3650 Dilsen-Stokkem):
 
 1. De **VAPH-financieringmatrix** (en eventuele gemeentelijke toelagen) achter NBB VOL-VZW YE2025 code **73** lidgeld/schenkingen/legaten/subsidies **EUR 18.892.480** (JUMP +3,68% t.o.v. YE2024 **EUR 18.222.277**; waarvan subsidies **733 EUR 18.876.759** JUMP +3,84% t.o.v. **EUR 18.178.733**; schenkingen/legaten **731 EUR 15.721** DROP van **EUR 43.544**) en envelope **70/76A EUR 22.307.281** (JUMP +1,46% t.o.v. **EUR 21.986.413**; 76A DROP **EUR 1.349** van **EUR 474.578**).
 2. Toelichting bij **omzet 70 EUR 2.974.056** (JUMP +3,80%; commercial-only t.o.v. grote 73) en **andere bedrijfsopbrengsten 74 EUR 439.396** (JUMP +3,56%).
@@ -20,6 +20,6 @@ Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende 
 5. Bestemming **691 EUR 6.100.000** en **kapitaalsubsidies 15 DROP EUR 4.592.282** (was **EUR 4.761.160**) terwijl MVA **22/27 EUR 10.778.447** DROP, gebouwen **22 EUR 9.050.451** DROP, aanbouw **27 EUR 193.879** JUMP, capex ca. **EUR 670.742**.
 6. Bevestiging dat Mané (VE 2.311.404.783 Schoolstraat(O) 32 3630 Maasmechelen) een eigen VE is van deze parent (niet leftover-via-VE van leftover city_maasmechelen als parent) en dat er geen consolidatie / leftover-via-VE van een andere leftover gemeente als parent speelt voor deze jaarrekening.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  

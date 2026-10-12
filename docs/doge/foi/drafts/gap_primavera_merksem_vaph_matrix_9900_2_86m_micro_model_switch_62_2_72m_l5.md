@@ -11,13 +11,13 @@ Openbaarheid van bestuur — subsidiematrix en financiële toelichting Primavera
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Primavera VZW** (KBO 0416.239.272):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Primavera VZW** (KBO 0416.239.272):
 
 1. De uitsplitsing van de **bedrijfsopbrengsten 2025** achter de brutomarge (9900) **EUR 2.862.389** (2024: **EUR 2.609.156**) per verstrekker (VAPH persoonsvolgende financiering / rechtstreeks toegankelijke hulp, Sociale Maribel, VIPA, stad Antwerpen, bijdragen gebruikers, andere).
 2. Het gemiddeld personeelsbestand (VTE) 2025 en de reden voor de overstap van het verkort naar het micro-model voor de jaarrekening 2025.
 3. Herkomst en voorwaarden van de **kapitaalsubsidies (15) EUR 220.501** en het beleggingsbeleid achter **geldbeleggingen EUR 891.612**.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

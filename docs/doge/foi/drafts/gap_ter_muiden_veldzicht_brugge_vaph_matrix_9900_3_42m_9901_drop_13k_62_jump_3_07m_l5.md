@@ -11,13 +11,13 @@ Openbaarheid van bestuur — subsidiematrix en financiële toelichting Ter Muide
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Ter Muiden en 't Veldzicht VZW** (KBO 0418.771.071):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Ter Muiden en 't Veldzicht VZW** (KBO 0418.771.071):
 
 1. De uitsplitsing van de **bedrijfsopbrengsten 2025** achter de brutomarge (9900) **EUR 3.416.562** (2024: **EUR 3.266.463**) per verstrekker (VAPH persoonsvolgende financiering / rechtstreeks toegankelijke hulp, Sociale Maribel, VIPA, gemeente Beernem, stad Brugge, andere).
 2. Toelichting bij de daling van de **bedrijfswinst (9901)** naar **EUR 12.534** (2024: **EUR 104.342**) terwijl de **bezoldigingen (62)** stijgen naar **EUR 3.071.872** (+7,68 %).
 3. De fusie- of inbrengovereenkomst met 't Veldzicht (naamswijziging en zetelverplaatsing naar Zuidervaartje 1, Brugge, sinds 19.12.2025): overgedragen activa, schulden, subsidies en VAPH-vergunningen.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

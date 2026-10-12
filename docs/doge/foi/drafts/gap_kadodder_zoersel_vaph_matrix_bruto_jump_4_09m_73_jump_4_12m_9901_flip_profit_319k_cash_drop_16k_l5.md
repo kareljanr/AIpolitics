@@ -11,7 +11,7 @@ Openbaarheid van bestuur — VAPH / gemeente Zoersel matrix achter Kadodder VZW 
 
 ## Geachte
 
-Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Kadodder VZW** (KBO 0434.504.174; zetel Oostmallebaan 50, 2980 Zoersel):
+Via deze brief vraag ik, op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Kadodder VZW** (KBO 0434.504.174; zetel Oostmallebaan 50, 2980 Zoersel):
 
 1. De **VAPH-financieringmatrix** (en eventuele gemeentelijke toelagen) achter NBB VKT-VZW YE2025 code **73** lidgeld/schenkingen/legaten/subsidies **EUR 4.122.472** (JUMP +16,04% t.o.v. YE2024 **EUR 3.552.767**) en bruto-marge **9900 EUR 4.085.529** (JUMP +16,70% t.o.v. **EUR 3.500.753**).
 2. Toelichting bij de **FLIP** van bedrijfswinst **9901** van **-73.751** (YE2024) naar **+318.864** (YE2025) en winst boekjaar **9904 +339.673** (was **-38.969**), terwijl liquide middelen **54/58** licht **DROP** naar **EUR 570.520** (was **586.543**).
@@ -19,6 +19,6 @@ Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende 
 4. Bestemming **691 EUR 16.984** en waarom **kapitaalsubsidies 15** leeg blijven terwijl MVA **22/27 EUR 530.285** en gebouwen **22 EUR 473.680** licht dalen; aanschaffingen/capex ca. **EUR 30.098**.
 5. Bevestiging dat er geen consolidatie / leftover-via-VE van een andere leftover gemeente als parent speelt voor deze jaarrekening.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  

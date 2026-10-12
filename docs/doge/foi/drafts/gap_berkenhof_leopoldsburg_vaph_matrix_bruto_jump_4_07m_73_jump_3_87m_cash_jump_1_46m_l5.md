@@ -11,7 +11,7 @@ Openbaarheid van bestuur — VAPH / gemeente Leopoldsburg matrix achter Berkenho
 
 ## Geachte
 
-Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Berkenhof VZW** (KBO 0416.638.358; zetel Beverlostraat 1, 3970 Leopoldsburg):
+Via deze brief vraag ik, op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Berkenhof VZW** (KBO 0416.638.358; zetel Beverlostraat 1, 3970 Leopoldsburg):
 
 1. De **VAPH-financieringmatrix** (en eventuele gemeentelijke toelagen) achter NBB VKT-VZW YE2025 code **9900** brutomarge **EUR 4.069.622** (JUMP +5,40% t.o.v. YE2024 **EUR 3.861.344**) terwijl omzet **70 EUR 383.108** commercial-only is (JUMP van **EUR 353.947**) en code **73** lidgeld/schenkingen/legaten/subsidies **EUR 3.868.269** JUMP +3,51% (was **EUR 3.737.262**). De VKT-enveloppe is bruto 9900 (niet 70/76A).
 2. Toelichting bij personeelskost **62 EUR 3.334.010** (JUMP +3,21% t.o.v. **EUR 3.230.358**) t.o.v. FTE **9087 = 43** (flat t.o.v. YE2024 43; sociale balans 100: 43 vs 42,6; 105 jaareinde 46,7) en de rol van VAPH-personeelsfinanciering.
@@ -19,7 +19,7 @@ Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende 
 4. Uitsplitsing van afschrijvingen **630 EUR 181.352** (JUMP van **EUR 136.915**), andere bedrijfskosten **640/8 EUR 37.738** (was **EUR 963**), kapitaalsubsidies **15 EUR 126.455** (DROP van **EUR 143.515**), destin **691 EUR 0** / **791 EUR 0**, MVA **22/27 EUR 2.295.192**, gebouwen **22 EUR 2.045.982** (JUMP van **EUR 1.590.426**), aanbouw **27 leeg** (was **EUR 446.623**), capex aanschaffingen **8169 EUR 280.759**, schulden **17/49 EUR 710.903**, activa **20/58 EUR 6.206.038**, eigen vermogen **10/15 EUR 5.495.135**, en bevestiging dat **76A / 66A / 74** leeg/niet op formulier zijn zoals in de VKT-VZW-neerlegging (niet dienstig: VKT-VZW 6.1.1 6.2 6.3 6.5 6.6 7 8).
 5. Relatie tot Stad/OCMW Leopoldsburg (KBO GE **0207.468.152** / OCMW **0212.193.537**) en tot de vestigingen in Lommel en Balen — bevestiging dat deze jaarrekening een eigen VZW-parent is met zetel in Leopoldsburg (niet leftover-via-VE van een andere leftover gemeente als parent) en dat er geen consolidatie / leftover-via-VE van een andere leftover gemeente als parent speelt.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes  

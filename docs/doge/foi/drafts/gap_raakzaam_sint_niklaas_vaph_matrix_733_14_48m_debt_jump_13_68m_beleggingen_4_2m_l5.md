@@ -11,7 +11,7 @@ Openbaarheid van bestuur — subsidiematrix en financiële toelichting Raakzaam 
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Raakzaam VZW** (KBO 0415.298.669):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Raakzaam VZW** (KBO 0415.298.669):
 
 1. De uitsplitsing van de **subsidies 2025 (733) EUR 14.475.675** (2024: **EUR 14.116.806**) per verstrekker (VAPH persoonsvolgende financiering / rechtstreeks toegankelijke hulp, Sociale Maribel, VIPA, stad Sint-Niklaas, andere).
 2. Het investeringsproject, de kredietgever(s), looptijd en rente achter de stijging van de **schulden op meer dan één jaar (17)** naar **EUR 8.698.902** (2024: **EUR 4.751.465**), en welke overheidsinstelling de **schulden EUR 907.344** (code 9061) waarborgt.
@@ -19,7 +19,7 @@ Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestu
 4. Toelichting bij de **bezoldigingen (62) EUR 14.037.561** (+8,70 %) versus **192,5 VTE** (2024: **183,8**).
 5. Herkomst en voorwaarden van de **kapitaalsubsidies (15) EUR 2.306.135** en eventuele VIPA-subsidie voor het lopende bouwproject.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

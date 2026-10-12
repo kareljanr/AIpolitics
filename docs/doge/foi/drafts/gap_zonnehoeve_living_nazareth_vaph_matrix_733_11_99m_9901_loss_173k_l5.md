@@ -11,14 +11,14 @@ Openbaarheid van bestuur — subsidiematrix en financiële toelichting Zonnehoev
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Zonnehoeve / Living+ VZW** (KBO 0432.064.625):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Zonnehoeve / Living+ VZW** (KBO 0432.064.625):
 
 1. De uitsplitsing van de **subsidies 2025 (733) EUR 11.989.584** (2024: **EUR 11.883.507**, +0,89 %) per verstrekker (VAPH persoonsvolgende financiering / rechtstreeks toegankelijke hulp, Sociale Maribel, VIPA, gemeenten, andere).
 2. De verklaring voor het **bedrijfsresultaat 2025 EUR -173.320** (2024: **EUR 867.747**) bij een stijging van de **bezoldigingen (62) naar EUR 11.285.776** (2024: **EUR 10.629.250**).
 3. Het beleggings- en reservebeleid achter **geldbeleggingen EUR 2.020.485** en **liquide middelen EUR 2.035.138**.
 4. Herkomst en voorwaarden van de **kapitaalsubsidies (15) EUR 1.014.583**.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

@@ -11,7 +11,7 @@ Openbaarheid van bestuur — VAPH / gemeente Oostende matrix achter Duinhelm VZW
 
 ## Geachte
 
-Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Duinhelm VZW** (KBO 0413.223.562; zetel Rietmusstraat 24, 8400 Oostende):
+Via deze brief vraag ik, op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Duinhelm VZW** (KBO 0413.223.562; zetel Rietmusstraat 24, 8400 Oostende):
 
 1. De **VAPH-financieringmatrix** (en eventuele gemeentelijke toelagen) achter NBB VOL-VZW YE2025 code **70/76A** bedrijfsopbrengsten **EUR 12.607.017** (JUMP +9,19% t.o.v. YE2024 **EUR 11.546.208**) met omzet **70 EUR 1.296.875** (JUMP van **EUR 1.249.232**), code **73** lidgeld/schenkingen/legaten/subsidies **EUR 10.583.537** (JUMP +11,28% t.o.v. **EUR 9.510.384**; waarvan **733 subsidies EUR 10.546.090** / **731 schenkingen EUR 36.923**), **74 EUR 654.956** (JUMP van **EUR 551.284**) en **76A EUR 71.649** (DROP van **EUR 235.308**).
 2. Toelichting bij personeelskost **62 EUR 9.458.561** (JUMP t.o.v. **EUR 8.541.018**) t.o.v. FTE **9087 = 128,8** (JUMP t.o.v. YE2024 122,8; 9086 jaareinde 147 vs 149) en de rol van VAPH-personeelsfinanciering.
@@ -19,7 +19,7 @@ Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende 
 4. Uitsplitsing van afschrijvingen **630 EUR 403.934** (DROP van **EUR 440.879**), andere bedrijfskosten **640/8 EUR 323.537** (DROP van **EUR 332.882**), niet-recurrente bedrijfskosten **66A EUR 30.087** (was **EUR 120**), kapitaalsubsidies **15 EUR 451.436** (DROP van **EUR 523.673**), destin **691 EUR 885.708** (DROP van **EUR 1.248.453**) / **791 leeg**, MVA **22/27 EUR 7.162.269**, gebouwen **22 EUR 5.774.103**, aanbouw **27 leeg**, capex aanschaffingen **8162+8163 EUR 207.752**, schulden **17/49 EUR 3.423.856**, activa **20/58 EUR 11.997.286**, eigen vermogen **10/15 EUR 7.995.963**, en bevestiging niet-dienstige VOL-VZW-secties zoals in de neerlegging.
 5. Relatie tot Stad Oostende (KBO GE **0207.436.775**) / AG-O (**0267.389.606**) en tot Ithaka VZW (**0448.387.646**) / De Bezaan (Kaaistraat 35) — bevestiging dat deze jaarrekening een eigen VZW-parent is met zetel in Oostende (niet leftover-via-VE van een andere leftover gemeente als parent) en dat er geen consolidatie met Ithaka speelt.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes  

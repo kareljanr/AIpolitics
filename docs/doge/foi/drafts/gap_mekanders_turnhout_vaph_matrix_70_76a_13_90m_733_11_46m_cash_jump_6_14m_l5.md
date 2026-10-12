@@ -11,7 +11,7 @@ Openbaarheid van bestuur — subsidiematrix en financiële toelichting Mekanders
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Mekanders VZW** (KBO 0431.176.975):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Mekanders VZW** (KBO 0431.176.975):
 
 1. De uitsplitsing van de **subsidies 2025 (733) EUR 11.456.564** (2024 restated: **EUR 793.415**) per verstrekker (VAPH persoonsvolgende financiering / rechtstreeks toegankelijke hulp / MFC, Sociale Maribel, VIPA, gemeente Turnhout, andere gemeenten van de vestigingen, andere).
 2. Toelichting bij de **herschikking bedrijfsopbrengsten**: omzet (70) **EUR 1.779.637** (2024 restated **EUR 11.840.608**) versus lidgeld/schenkingen/legaten/subsidies (73) **EUR 11.682.593** (2024 restated **EUR 876.894**), terwijl de envelope 70/76A **EUR 13.896.468** blijft (2024 restated **EUR 13.501.189**). Het jaarverslag stelt dat VAPH-afrekeningen 2024 en 2025 vanaf dit jaar in het resultaat zijn opgenomen; welke bedragen betreffen afrekeningen versus lopende toelagen?
@@ -20,7 +20,7 @@ Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestu
 5. Financiering (VIPA / andere overheden / eigen middelen / Belfius) van de **activa in aanbouw (27) EUR 738.750** (Goriën Dessel nieuwbouw en renovatie Beukenhof Turnhout volgens jaarverslag) en de overige MVA-aanschaffingen **EUR 191.659** (8162+8163).
 6. Identiteit van de verbonden entiteit achter de **vorderingen op verbonden entiteiten EUR 79.932** en **schulden EUR 14.400**.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

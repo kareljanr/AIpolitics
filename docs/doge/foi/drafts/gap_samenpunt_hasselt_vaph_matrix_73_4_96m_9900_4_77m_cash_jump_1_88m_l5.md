@@ -11,13 +11,13 @@ Openbaarheid van bestuur — subsidiematrix en financiële toelichting Samenpunt
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Samenpunt VZW** (KBO 0415.350.238):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Samenpunt VZW** (KBO 0415.350.238):
 
 1. De uitsplitsing van **lidgeld, schenkingen, legaten en subsidies 2025 (73) EUR 4.958.564** per verstrekker (VAPH persoonsvolgende financiering / rechtstreeks toegankelijke hulp, Sociale Maribel, stad Hasselt, andere) en het aandeel schenkingen.
 2. Het reservebeleid achter het **eigen vermogen EUR 2.256.931** (2024: **EUR 1.968.462**) en de verschuiving van **geldbeleggingen** (**EUR 466.661**, 2024: **EUR 1.185.168**) naar **liquide middelen EUR 1.877.652** (2024: **EUR 789.225**).
 3. Toelichting bij de **bezoldigingen (62) EUR 4.321.640** (+6,52 %) versus **55,7 VTE** (2024: **52,9**).
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

@@ -11,13 +11,13 @@ Openbaarheid van bestuur — subsidiematrix en financiële toelichting Start Wes
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Start West-Vlaanderen VZW** (KBO 0429.754.342):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **Start West-Vlaanderen VZW** (KBO 0429.754.342):
 
 1. De uitsplitsing van de **bedrijfsopbrengsten 2025** achter de brutomarge (9900) **EUR 2.897.846** (2024: **EUR 2.777.655**) per verstrekker (VAPH rechtstreeks toegankelijke hulp / persoonsvolgende financiering, Sociale Maribel, provincie, gemeenten, andere).
 2. Het aantal begeleide personen/gezinnen in 2025, het aantal aanmeldingen op de wachtlijst en de gemiddelde wachttijd.
 3. Toelichting bij het **bedrijfsverlies (9901) EUR −13.192** (2024: **EUR +8.798**) en de **bezoldigingen (62) EUR 2.820.181** (+5,21 %) bij **37 VTE**.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

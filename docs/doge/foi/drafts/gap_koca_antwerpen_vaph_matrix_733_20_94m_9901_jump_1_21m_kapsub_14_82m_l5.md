@@ -11,7 +11,7 @@ Openbaarheid van bestuur — subsidiematrix en financiële toelichting KOCA VZW 
 
 ## Geachte
 
-Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **KOCA VZW** (KBO 0410.006.132):
+Op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt (en, voor zover van toepassing, de subsidievoorwaarden van de verstrekkende overheden) vraag ik een kopie van / inzage in de volgende documenten en cijfers over **KOCA VZW** (KBO 0410.006.132):
 
 1. De uitsplitsing van de **subsidies 2025 (733) EUR 20.938.299** (2024: **EUR 20.295.118**, +3,17 %) per verstrekker (VAPH persoonsvolgende financiering / rechtstreeks toegankelijke hulp / MFC, Vlaamse overheid onderwijs, stad Antwerpen, Sociale Maribel, VIPA, andere).
 2. Toelichting bij de verdubbeling van de **bedrijfswinst (9901)** naar **EUR 1.211.866** (2024: **EUR 584.305**) terwijl het personeelsbestand daalt naar **241,8 VTE** (2024: **246,5**), en de bestemming van de **winst van het boekjaar (9904) EUR 1.171.454**.
@@ -19,7 +19,7 @@ Op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestu
 4. Het beleggingsbeleid achter de **geldbeleggingen (50/53) EUR 2.800.000** (2024: **EUR 1.000.000**).
 5. Kredietgever, looptijd en eventuele overheidswaarborg van de **schulden op meer dan één jaar (17) EUR 3.592.108**.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes

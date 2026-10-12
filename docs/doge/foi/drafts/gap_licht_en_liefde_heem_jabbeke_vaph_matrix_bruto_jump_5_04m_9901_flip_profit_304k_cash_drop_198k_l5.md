@@ -11,7 +11,7 @@ Openbaarheid van bestuur — VAPH / gemeente Jabbeke matrix achter Licht en Lief
 
 ## Geachte
 
-Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Licht en Liefde - Heem VZW** (KBO 0422.359.279; zetel Oudenburgweg 45, 8490 Jabbeke):
+Via deze brief vraag ik, op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Licht en Liefde - Heem VZW** (KBO 0422.359.279; zetel Oudenburgweg 45, 8490 Jabbeke):
 
 1. De **VAPH-financieringmatrix** (en eventuele gemeentelijke toelagen) achter NBB VKT-VZW YE2025 code **9900** brutomarge **EUR 5.036.742** (JUMP +19,74% t.o.v. YE2024 **EUR 4.206.495**) terwijl omzet **70 leeg** is en code **73** lidgeld/schenkingen/legaten/subsidies **leeg** is en **76A leeg**. De VKT-enveloppe is bruto 9900 (niet 70/76A).
 2. Toelichting bij personeelskost **62 EUR 4.475.558** (JUMP +4,12% t.o.v. **EUR 4.298.538**) t.o.v. FTE **9087 = 61,2** (JUMP t.o.v. YE2024 59,5; sociale balans 100: 61,2 vs 59,5; 105 jaareinde 57,1) en de rol van VAPH-personeelsfinanciering.
@@ -19,7 +19,7 @@ Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende 
 4. Uitsplitsing van afschrijvingen **630 EUR 201.143** (DROP van **EUR 202.851**), andere bedrijfskosten **640/8 EUR 55.662** (was **EUR 27.434**), kapitaalsubsidies **15 leeg**, destin **691 leeg** / **791 leeg**, MVA **22/27 EUR 5.110.679**, gebouwen **22 EUR 5.025.475** (DROP van **EUR 5.203.813**), aanbouw **27 leeg**, capex aanschaffingen **8169 EUR 29.496**, schulden **17/49 EUR 4.338.386**, activa **20/58 EUR 8.230.249**, eigen vermogen **10/15 EUR 3.891.863**, en bevestiging dat **70 / 73 / 76A / 66A / 74** leeg/niet op formulier zijn zoals in de VKT-VZW-neerlegging (niet dienstig: VKT-VZW 6.6, 7, 8).
 5. Relatie tot Stad/OCMW Jabbeke (KBO GE **0207.528.629** / OCMW **0212.222.340**) en tot Blindenzorg Licht en Liefde (bestuurder **0405.123.864**; erfpacht Oudenburgweg 40) en tot de vlaamsoogpunt-vestigingen in Kortrijk, Antwerpen, Gent, Hasselt, Pelt, Herent en Brussel — bevestiging dat deze jaarrekening een eigen VZW-parent is met zetel in Jabbeke (niet leftover-via-VE van een andere leftover gemeente als parent) en dat er geen consolidatie / leftover-via-VE van een andere leftover gemeente als parent speelt.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes  

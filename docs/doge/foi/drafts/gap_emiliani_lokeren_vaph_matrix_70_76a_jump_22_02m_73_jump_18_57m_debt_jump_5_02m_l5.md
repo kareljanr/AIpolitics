@@ -11,7 +11,7 @@ Openbaarheid van bestuur — VAPH / gemeente Lokeren matrix achter Emiliani VZW 
 
 ## Geachte
 
-Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Emiliani VZW** (KBO 0421.911.297; zetel Krekelstraat 17, 9160 Lokeren):
+Via deze brief vraag ik, op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Emiliani VZW** (KBO 0421.911.297; zetel Krekelstraat 17, 9160 Lokeren):
 
 1. De **VAPH-financieringmatrix** (en eventuele gemeentelijke toelagen) achter NBB VOL-VZW YE2025 code **70/76A** bedrijfsopbrengsten **EUR 22.024.421** (JUMP +4,40% t.o.v. YE2024 **EUR 21.096.366**) met omzet **70 EUR 3.093.895** (JUMP van **EUR 2.962.198**; commercial-only vs large 73), code **73** lidgeld/schenkingen/legaten/subsidies **EUR 18.573.150** (JUMP +4,67% t.o.v. **EUR 17.745.220**; waarvan **733 subsidies EUR 18.564.025** / **731 schenkingen EUR 9.125**), **74 EUR 357.376** en **76A leeg** (DROP van **EUR 31.766**).
 2. Toelichting bij personeelskost **62 EUR 17.964.578** (JUMP t.o.v. **EUR 17.155.250**) t.o.v. FTE **9087 = 229,2** (JUMP t.o.v. YE2024 227,4; 9086 jaareinde 302 vs 295; 100 YE 229,2 vs 227,4; 105 YE 233,6) en de rol van VAPH-personeelsfinanciering.
@@ -19,7 +19,7 @@ Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende 
 4. Uitsplitsing van afschrijvingen **630 EUR 443.281** (DROP van **EUR 484.558**), andere bedrijfskosten **640/8 EUR 84.146** (DROP van **EUR 136.684**), niet-recurrente bedrijfskosten **66A leeg**, kapitaalsubsidies **15 EUR 1.340.166** (DROP van **EUR 1.505.947**), destin **691 EUR 1.134.875** (was **EUR 1.212.652**) / **791 leeg**, MVA **22/27 EUR 10.983.299**, gebouwen **22 EUR 3.212.256**, geldbeleggingen **50/53 EUR 5.074.576**, eigen vermogen **10/15 EUR 12.390.807**, financiële schulden kredietinstellingen **173 EUR 4.009.802** (was **EUR 13.027**), en bevestiging niet-dienstige VOL-VZW-secties 6.1 / 6.2.2 / 6.2.3 / 6.2.4 / 6.3.4 / 6.3.5 / 6.4.2 / 6.5.1 / 6.5.2 / 6.16 zoals in de neerlegging.
 5. Relatie tot Stad Lokeren (KBO GE **0207.463.402**) / AGB Lokeren (**1031.996.262**) en tot leftover Hagewinde (**0861.262.010**) / Alderande (**0431.893.389**) / De Sperwer (**0415.344.892**) / CAR Waas (**0415.472.279**) / De Cirkel (**0470.413.079**) / Ter Engelen (**0430.882.809**) — bevestiging dat deze jaarrekening een eigen VZW-parent is met zetel in Lokeren (niet leftover-via-VE van een andere leftover gemeente als parent) en dat er geen consolidatie met die leftover Lokeren-entiteiten speelt.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
 Kareljan Raes  

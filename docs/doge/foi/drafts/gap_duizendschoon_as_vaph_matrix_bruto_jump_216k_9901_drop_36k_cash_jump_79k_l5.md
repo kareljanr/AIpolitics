@@ -11,7 +11,7 @@ Openbaarheid van bestuur — VAPH / gemeente As matrix achter Duizendschoon VZW 
 
 ## Geachte
 
-Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Duizendschoon VZW** (KBO 0683.687.177; zetel Bilzerweg 88, 3665 As):
+Via deze brief vraag ik, op grond van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 (B.S. 19 december 2018), dat sinds 1 januari 2019 het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur vervangt, inzage in / een kopie van de onderstaande documenten en cijferreeksen over **Duizendschoon VZW** (KBO 0683.687.177; zetel Bilzerweg 88, 3665 As):
 
 1. De **VAPH-financieringmatrix** (en eventuele gemeentelijke toelagen) achter NBB VKT-VZW YE2025 code **9900** brutomarge **EUR 215.719** (JUMP +12,79% t.o.v. YE2024 **EUR 191.250**) terwijl code **73** lidgeld/schenkingen/legaten/subsidies **leeg** is en omzet **70 EUR 8.261** (JUMP +2,75% t.o.v. **EUR 8.040**) slechts commercial-only is t.o.v. de bruto-enveloppe.
 2. Toelichting bij personeelskost **62 EUR 189.836** (JUMP +49,19% t.o.v. **EUR 127.243**) t.o.v. FTE **9087 = 1,6** (JUMP van 1,0; 105 jaareinde 0,8) en de rol van VAPH-personeelsfinanciering.
@@ -19,6 +19,6 @@ Via deze brief vraag ik, op grond van het decreet van 26 maart 2004 betreffende 
 4. Uitsplitsing van handelsgoederen/diensten **60/61 EUR 48.001** (DROP van **EUR 84.355**) en bevestiging dat **630 / 74 / 76A / kapitaalsubsidies 15 / MVA 22/27 / destin 691/791** leeg zijn zoals in de VKT-VZW-neerlegging (niet dienstig: VKT-VZW 6.1.1 6.1.2 6.1.3 6.2 6.3 6.5 6.6 7 8).
 5. Relatie tot **Labor Arbeidskansen VZW** (KBO 0432.385.616; zelfde zetel Bilzerweg 88; remine@2292 under sec_flanders) — bevestiging dat deze jaarrekening een eigen VZW-parent is (niet leftover-via-VE van een andere leftover gemeente als parent) en dat er geen consolidatie / leftover-via-VE van een andere leftover gemeente als parent speelt.
 
-Gelieve te antwoorden binnen de wettelijke termijn. Deze brief is een **concept** (status ready) en is **niet verzonden**.
+Gelieve te antwoorden binnen de termijn van twintig kalenderdagen (artikel II.43, § 1, Bestuursdecreet); tegen een weigering of het uitblijven van een beslissing staat beroep open bij de beroepsinstantie openbaarheid van bestuur (artikel II.48). De verzonden versie vermeldt het adres van de aanvrager (artikel II.40, § 2). Deze brief is een **concept** (status ready) en is **niet verzonden**.
 
 Met vriendelijke groeten  
