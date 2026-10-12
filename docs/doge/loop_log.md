@@ -32473,3 +32473,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lafonderie.be — general mailbox verified on official page https://www.lafonderie.be/contact (address Rue Ransfort 27 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_la_fonderie_molenbeek_vaph_matrix_9900_1_47m_9901_60k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2964/; rq_2964=done; spawn **rq_2965**; ticks=2964.
 - Next: **rq_2965 leftover dual** — Brussels culture (90.x/91.x) + leftover training batch in progress; next: remaining units of this batch.
+
+
+## Tick 2965 — 2026-10-12T18:16:44Z — rq_2965 leftover dual ARPAIJE - Association pour la Rémotivation, la Promotion et l'Aide à l'Insertion des Jeunes Bruxelles (Ixelles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels culture 90.111/90.120/90.130/90.311/91.110/91.210, plus leftover 85.592/86.940 hits, in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **ARPAIJE - Association pour la Rémotivation, la Promotion et l'Aide à l'Insertion des Jeunes** → KBO 0435.786.752 had 0 prior entity rows.
+- KBO: Actief since 20 oktober 1988; VZW; zetel Maria Malibranstraat 49 1050 Elsene; 2 VE; 0 prior entity rows for 0435.786.752
+- Found: official NBB VKT-VZW native PDF **2026-00340458** (51680 B / 13p; AV 28-05-2026; neergelegd 28/07/2026; MD5 d72b52df40fda653974ee2f2eb5de810). VKT-VZW 9900 **EUR1328762** (+8.92%); 62 **EUR1172676**; 9901 **EUR5786** (was 3824); 9904 2223; equity -23966; cash 57220; FTE 26,1 (was 25,7).
+- FOI address: contacter@arpaije.be — general mailbox verified on official page http://www.arpaije.be/contactez-nous/ (address Rue Malibran 49 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_arpaije_ixelles_vaph_matrix_9900_1_33m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2965/; rq_2965=done; spawn **rq_2966**; ticks=2965.
+- Next: **rq_2966 leftover dual** — Brussels culture (90.x/91.x) + leftover training batch in progress; next: remaining units of this batch.
