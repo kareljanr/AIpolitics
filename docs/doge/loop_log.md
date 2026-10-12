@@ -33429,3 +33429,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: ccbe@ccbe.eu — general mailbox verified on official page https://www.ccbe.eu/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ccbe_brussel_vaph_matrix_9900_1_49m_9901_69k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3059/; rq_3059=done; spawn **rq_3060**; ticks=3059.
 - Next: **rq_3060 leftover dual** — Batch done; next: remaining 94.1xx hits (e.g. Conseil des Barreaux Européens EUR1.49m) or another public-body code, largest first, after the dedup check; skipped this batch: Agentschap Integratie en Inburgering (EUR76.2m; duplicate of existing entity agii), Brulocalis (site blocked by a bot challenge, mailbox not verifiable), Eurochambres (mailbox obfuscated on its contact page), CRISP (no mailbox on its official contact page), SYLVA (trade union, out of scope), and private industry associations without public funding in their filing (ACI Europe, EFAMA, EUROFER, EHPA, Connect Europe, Accountancy Europe).
+
+
+## Tick 3060 — 2026-10-12T20:31:52Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2693** of 2747 rows; inventory budgets 60109 · commitments 6747 · leaderboard 8865 · entities 2764 · sources 9172.
+- Top10: **stable** (3051-3059 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3051-3059: Eurocities (Brussel) · Agoria (Brussel) · Voka KvK Oost-Vlaanderen (Gent) · CEMR (Brussel) · CER (Brussel) · Erov (Gent) · EuroHealthNet (Brussel) · Horeca Vlaanderen (Brussel) · CCBE (Brussel).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3060 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3060 run locally as fallback.
+- Next: **rq_3060** — remaining 94.1xx hits below EUR1.49m (e.g. European Travel Commission EUR1.34m) or another public-body code with larger recipients, largest first, after the dedup check.

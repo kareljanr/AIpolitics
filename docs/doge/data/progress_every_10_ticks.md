@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 3060** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3050; 3051-3059 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3051-3059 residual dual L5 (not near-complete of 348bn):** Eurocities (Brussel) · Agoria (Brussel) · Voka KvK Oost-Vlaanderen (Gent) · CEMR (Brussel) · CER (Brussel) · Erov (Gent) · EuroHealthNet (Brussel) · Horeca Vlaanderen (Brussel) · CCBE (Brussel) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2693** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2747** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 3051-3059** Eurocities (Brussel) · Agoria (Brussel) · Voka KvK Oost-Vlaanderen (Gent) · CEMR (Brussel) · CER (Brussel) · Erov (Gent) · EuroHealthNet (Brussel) · Horeca Vlaanderen (Brussel) · CCBE (Brussel).
+
+### Inventory (tick 3060)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 60109 |
+| commitments.csv | 6747 |
+| leaderboard.csv | 8865 |
+| entities.csv | 2764 |
+| sources.csv | 9172 |
+| FOI ready | 2693 |
+| FOI total rows | 2747 |
+| research_queue open | rq_3060 (carried; next: another Flemish activity code, largest first) |
+
+### What improved since tick 3050
+
+- **New source (tick3051-3059):** Eurocities (Brussel) · Agoria (Brussel) · Voka KvK Oost-Vlaanderen (Gent) · CEMR (Brussel) · CER (Brussel) · Erov (Gent) · EuroHealthNet (Brussel) · Horeca Vlaanderen (Brussel) · CCBE (Brussel). Source: a new public-body/association code extension: KBO NACE-BEL 94.110 (business, employers and public-authority associations), 94.120 (professional bodies), 94.200, 84.120 and 91.210 over the same 59 Flemish city and Brussels postcodes (527 unmined hits triaged), ranked largest first (EUR7.15m-1.49m). All picks passed the dedup check. Chosen over sub-EUR1.5m leftovers because it yielded 8 recipients above EUR1.5m.
+- **Toolkit:** dedup.py run on every pick (caught AgII); new funder profiles for EU-funded European networks, employers/business organisations and a provincial EVA; code-73 mode not triggered.
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION).
+- **Runner note:** 2576-3060 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 3051-3059 (fast, ~5 min cap):** Agentschap Integratie en Inburgering (EUR76.2m; dedup check: already existing entity agii), Brulocalis (EUR3.88m; site behind a bot challenge, mailbox not verifiable), Eurochambres (EUR3.78m; mailbox obfuscated), CRISP (EUR1.49m; no mailbox on its contact page), SYLVA (trade union, out of scope); private industry associations without public funding shown (ACI Europe, EFAMA, EUROFER, EHPA, Connect Europe, Accountancy Europe) left out of scope.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3050** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
