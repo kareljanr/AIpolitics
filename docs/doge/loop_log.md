@@ -29889,3 +29889,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vzwparcours.be — general mailbox verified on official page https://vzwparcours.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_parcours_gent_vaph_matrix_9900_2_52m_9901_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2708/; rq_2708=done; spawn **rq_2709**; ticks=2708.
 - Next: **rq_2709 leftover dual** — KBO NACE 88.992 (integrale jeugdhulp zonder huisvesting) scan by postcode in progress; next: remaining 88.992 units, then other NACE 87/88 codes (87.202/87.203 residential, 88.994 welzijnswerk).
+
+
+## Tick 2709 — 2026-10-12T09:14:27Z — rq_2709 leftover dual Erat Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.992 activity search (Integrale jeugdhulp zonder huisvesting): **Erat** → KBO 0725.741.627 had 0 prior entity rows.
+- KBO: Actief since 6 maart 2019; VZW; zetel Benedenplein 3 3010 Leuven; 1 VE; 0 prior entity rows for 0725.741.627
+- Found: official NBB MIC-VZW native PDF **2026-00057925** (45900 B / 11p; AV 12-03-2026; neergelegd 20/03/2026; MD5 794877166a5f1d7633163bb4ff8568f9). MIC-VZW 9900 **EUR265054** (-6.15%); 62 **EUR263109**; 9901 **EUR-1757** (was 39828); 9904 -1908; equity 169521; cash 100623; FTE 4,2 (was 4,3).
+- FOI address: info@vzwerat.be — general mailbox verified on official page https://www.vzwerat.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_erat_leuven_vaph_matrix_9900_0_27m_9901_loss_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2709/; rq_2709=done; spawn **rq_2710**; ticks=2709.
+- Next: **rq_2710 leftover dual** — KBO NACE 88.992 scan done for the main Flemish/Brussels postcodes (rest are micro BVs, sole traders or have no filing); next: other NACE 87/88 codes (87.202/87.203 residential, 88.994 welzijnswerk) and Pleegzorg West/Oost re-check.
