@@ -33502,3 +33502,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sport1030.brussels — general mailbox verified on official page https://sport1030.big-captain.com/web/be/page/nos-installations/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_sport1030_schaerbeek_vaph_matrix_9900_1_20m_9901_261k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3066/; rq_3066=done; spawn **rq_3067**; ticks=3066.
 - Next: **rq_3067 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3067 — 2026-10-12T20:52:34Z — rq_3067 leftover dual Theater Arsenaal ('t Arsenaal MMT) Mechelen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Belgian publicly funded codes: 91.110/91.120 libraries and archives, 90.111/90.311/90.130 arts venues, 93.110/93.210 municipal sports facilities, 85.520 cultural education; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure; every candidate passed the name/alias/KBO/website dedup check: **Theater Arsenaal ('t Arsenaal MMT)** → KBO 0406.580.745 had 0 prior entity rows.
+- KBO: Actief since 15 mei 1962; VZW; zetel Hanswijkstraat 63-65 2800 Mechelen; 1 VE; 0 prior entity rows for 0406.580.745
+- Found: official NBB MIC-VZW native PDF **2026-00402469** (48600 B / 12p; AV 20-04-2026; neergelegd 14/08/2026; MD5 f706fa07fab63ea9463bcc29f04d3d20). MIC-VZW 9900 **EUR1178395** (-1.99%); 62 **EUR1185315**; 9901 **EUR-40659** (was -619); 9904 -47193; equity 98447; cash 112900; FTE n/a.
+- FOI address: onthaal@theaterarsenaal.be — reception mailbox verified on official page https://www.theaterarsenaal.be/nl/je-bezoek/contact (KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mechelen); FOI **gap_theater_arsenaal_mechelen_vaph_matrix_9900_1_18m_9901_loss_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3067/; rq_3067=done; spawn **rq_3068**; ticks=3067.
+- Next: **rq_3068 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
