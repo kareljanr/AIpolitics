@@ -32213,3 +32213,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@casablanco.be — general mailbox verified on official page https://www.casablanco.be/contact (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_anderlecht); FOI **gap_casablanco_anderlecht_vaph_matrix_9900_3_13m_9901_75k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2938/; rq_2938=done; spawn **rq_2939**; ticks=2938.
 - Next: **rq_2939 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2939 — 2026-10-12T17:37:13Z — rq_2939 leftover dual Mission Locale d'Ixelles pour l'Emploi et la Formation Bruxelles (Ixelles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE earlier KBO NACE-BEL activity scans 2026-10-12 (Brussels 88.991-88.999 and 87.x/88.10x in 22 postcodes; Flemish 87.x/88.10x), unprocessed hits ranked by YE2025 NBB primary figure: **Mission Locale d'Ixelles pour l'Emploi et la Formation** → KBO 0445.145.866 had 0 prior entity rows.
+- KBO: Actief since 28 maart 1991; VZW; zetel Collegestraat 30 bus D 1050 Elsene; 1 VE; 0 prior entity rows for 0445.145.866
+- Found: official NBB VKT-VZW native PDF **2026-00283673** (70939 B / 22p; AV 17-06-2026; neergelegd 13/07/2026; MD5 de6543cc082a11927f06c8adaed6b56f). VKT-VZW 9900 **EUR3028467** (+4.36%); 62 **EUR2634056**; 9901 **EUR7569** (was 32437); 9904 6955; equity 266875; cash 357150; FTE 41,5 (was 41).
+- FOI address: info@mlxl.be — general mailbox verified on official page https://www.mlxl.be/contact/ (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ixelles); FOI **gap_mission_locale_ixelles_vaph_matrix_9900_3_03m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2939/; rq_2939=done; spawn **rq_2940**; ticks=2939.
+- Next: **rq_2940 leftover dual** — Batch done; next: remaining larger scan hits (Mission Locale pour l'Emploi Etterbeek EUR3.72m, Fonds des Affections Respiratoires, SIREAS, Centre La Clairière re-check, ALTEO re-check), larger first; skipped this batch: Entraide et Fraternité (mailbox not visible on own contact page), SASLS (mailbox only on third-party pages), CM Service Patrimonium and IRRA (out of social-subsidy scope / not checked).
