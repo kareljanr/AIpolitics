@@ -31723,3 +31723,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@petitsriens.be — general mailbox verified on official page https://www.petitsriens.be/contact (company number shown).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_petits_riens_bruxelles_vaph_matrix_733_1_86m_9901_167k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2889/; rq_2889=done; spawn **rq_2890**; ticks=2889.
 - Next: **rq_2890 leftover dual** — Batch done; next: remaining fresh-scan hits (Les Petits Riens EUR1.86m mailbox verified; Mission Locale Saint-Gilles, Centre d'aide aux personnes, Wolu-Services, Centre de Guidance d'Ixelles), larger first; skipped this batch: FARES (contact page has only a form; mailboxes found only on third-party pages).
+
+
+## Tick 2890 — 2026-10-12T16:45:00Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2542** of 2594 rows; inventory budgets 58848 · commitments 6594 · leaderboard 8714 · entities 2613 · sources 8713.
+- Top10: **stable** (2881-2889 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2881-2889: Télé-Secours (Laeken) · VAD (Schaarbeek) · SAAMO Brussel (Molenbeek) · Formation Insertion Jeunes (Saint-Gilles) · Service Social Juif (Saint-Gilles) · Mission Locale d'Anderlecht (Anderlecht) · Espace Social Télé-Service (Bruxelles) · Free Clinic (Ixelles) · Les Petits Riens (Ixelles).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2890 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-2890 run locally as fallback.
+- Next: **rq_2890** — remaining fresh-scan hits (Mission Locale Saint-Gilles, Centre d'aide aux personnes, Wolu-Services, Centre de Guidance d'Ixelles), larger first.
