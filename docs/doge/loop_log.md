@@ -29819,3 +29819,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@pleegzorgprovincieantwerpen.be — general mailbox verified on official page https://www.pleegzorg.be/antwerpen.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mechelen); FOI **gap_pleegzorg_provincie_antwerpen_vaph_matrix_733_49_83m_9901_1535k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2701/; rq_2700=done; spawn **rq_2702**; ticks=2701.
 - Next: **rq_2702 leftover dual** — KBO NACE 88.992 (integrale jeugdhulp zonder huisvesting) scan by postcode in progress; next: remaining 88.992 units, then other NACE 87/88 codes (87.202/87.203 residential, 88.994 welzijnswerk).
+
+
+## Tick 2702 — 2026-10-12T09:13:22Z — rq_2702 leftover dual Pleegzorg Vlaams-Brabant en Brussel Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.992 activity search (Integrale jeugdhulp zonder huisvesting): **Pleegzorg Vlaams-Brabant en Brussel** → KBO 0535.589.656 had 0 prior entity rows.
+- KBO: Actief since 27 maart 2013; VZW; zetel Brusselsesteenweg 9 3000 Leuven; 5 VE; 0 prior entity rows for 0535.589.656
+- Found: official NBB VOL-VZW native PDF **2026-00213989** (443407 B / 42p; AV 18-06-2026; neergelegd 29/06/2026; MD5 4a6f6e764d563c725f6b17082f630009). VOL-VZW 733 **EUR28709430** (+6.51%); 62 **EUR14999599**; 9901 **EUR1232226** (was 1396065); 9904 1214702; equity 13203971; cash 4625470; FTE 189,6 (was 178,5).
+- FOI address: info@pleegzorgvbb.be — general mailbox verified on official page https://www.pleegzorg.be/vlaams-brabant.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_pleegzorg_vlaams_brabant_brussel_vaph_matrix_733_28_71m_9901_1232k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2702/; rq_2702=done; spawn **rq_2703**; ticks=2702.
+- Next: **rq_2703 leftover dual** — KBO NACE 88.992 (integrale jeugdhulp zonder huisvesting) scan by postcode in progress; next: remaining 88.992 units, then other NACE 87/88 codes (87.202/87.203 residential, 88.994 welzijnswerk).
