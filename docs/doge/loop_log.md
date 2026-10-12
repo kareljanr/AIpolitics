@@ -29606,3 +29606,14 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2680 run locally as fallback.
 - Source choice (recorded): ticks 2671-2676 finished the Opgroeien OVBJ Limburg list; ticks 2677-2679 the OVBJ Antwerpen list (mei 2026). FOI: general mailboxes where published; named Opgroeien-list contacts for Huize Sint-Vincentius and Jeugdzorgcentrum.
 - Next: **rq_2680** — re-fetch OVBJ Vlaams-Brabant/Brussel list; IBIS (verify mailbox); then KBO NACE 87/88 lists.
+
+
+## Tick 2681 — 2026-10-12T08:52:16Z — rq_2680 leftover dual 't Spiegeltje Asse YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Vlaams-Brabant/Brussel list (april 2026): **'t Spiegeltje** → KBO 0424.553.459 had 0 prior entity rows.
+- KBO: Actief since 3 maart 1983; VZW; zetel Weversstraat 1 1730 Asse; 1 VE; 0 prior entity rows for 0424.553.459
+- Found: official NBB VKT-VZW native PDF **2026-00174965** (51577 B / 14p; AV 04-06-2026; neergelegd 16/06/2026; MD5 969144f20ccba3c39f885acc715ac7c4). VKT-VZW 9900 **EUR1892397** (+3.21%); 62 **EUR1550479**; 9901 **EUR136386** (was 142572); 9904 154148; equity 2978661; cash 136807; FTE 20,7 (was 20,8).
+- FOI address: geert.croes@tspiegeltje.be — named contact; no general mailbox published; verified on official page https://www.tspiegeltje.be/over-ons and Opgroeien list.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_asse); FOI **gap_t_spiegeltje_asse_vaph_matrix_9900_1_89m_9901_136k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2681/; rq_2680=done; spawn **rq_2682**; ticks=2681.
+- Next: **rq_2682 leftover dual** — Opgroeien OVBJ Vlaams-Brabant/Brussel list in progress; next: remaining OVBJ Vlaams-Brabant/Brussel units, then IBIS (verify mailbox), then KBO NACE 87/88 lists.
+- FOI fix (tick2681): Dageraad Schilde row gap_dageraad_schilde_vaph_matrix_733_1_32m_9901_16k_l5 — address dageraad@vzwkiosk.be (snippet-only at tick2678) now verified on official homepage https://dageraadvzw.be/; notes updated (surgical, 1 row).

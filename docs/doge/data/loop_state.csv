@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T08:41:39Z,every10_2680,2680,no,tick2680 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2680 carried open; source Opgroeien OVBJ list (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T08:52:16Z,rq_2680,2681,no,"tick2681 leftover dual 't Spiegeltje Asse 0424.553.459 Strong PDF 2026-00174965 9900 1.89m / 9901 136k; next rq_2682 Opgroeien OVBJ Vlaams-Brabant/Brussel list in progress; next: remaining OVBJ Vlaams-Brabant/Brussel units, then IBIS (verify mailbox), then KBO NACE 87/88 lists (local fallback runner; Actions cron unreliable)"
