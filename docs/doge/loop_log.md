@@ -28877,3 +28877,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00217681** (502910 B / 46p; AV 18-06-2026; neergelegd 25/06/2026; MD5 d689ce3874ef37eb7b71f3d719e11bac). VOL 70/76A **EUR11807629** (+3.82%); 733 **EUR9821855** (+4.12%); 62 **EUR9384197**; 9901 **EUR496498** (was 189747); 9904 589003 (matches tick2308 Medium); equity 9264665 (matches); geldbeleggingen 3679599 + cash 789519; FTE 122,2 (matches).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.00; entities +0 (existing entity upgraded Medium→Strong); FOI **gap_huis_in_de_stad_tienen_vaph_matrix_733_9_82m_9901_496k_beleg_3_68m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2601/; rq_2601=done; spawn **rq_2602**; ticks=2601.
 - Next: **rq_2602 leftover dual** — VAPH adreslijst type=1387 (RTH) non-VZA providers, then KBO NACE 87/88 lists.
+
+
+## Tick 2602 — 2026-10-12T07:57:59Z — rq_2602 leftover dual Dienst Ondersteuningsplan Oost-Vlaanderen Gent YE2025 (local fallback runner)
+
+- Hunt: NEW CANDIDATE SOURCE VAPH adreslijst Dienst Ondersteuningsplan (f[0]=tid:1397): **Dienst Ondersteuningsplan Oost-Vlaanderen** → KBO 0840.341.880 had 0 prior entity rows. Skipped: DOP Provincie Antwerpen 0836.745.160 (already in repo); Fovig / Gezin en Handicap / Hersenletsel Liga (0 NBB deposits).
+- KBO: Actief since 17 oktober 2011; VZW; zetel Proeftuinstraat 84A, 9000 Gent; 1 VE; 0 prior entity rows for 0840.341.880
+- Found: official NBB VKT-VZW native PDF **2026-00298910** (48406 B / 13p; AV 24-06-2026; neergelegd 16/07/2026; MD5 0d468759c68c99c0840adc091aa0253b). VKT-VZW 9900 **EUR2034099** (-11.76%); 62 **EUR2013134**; 9901 **EUR5315** (was 127230); 9904 5386; equity 460718; cash 749900; FTE 29,9 (was 28,8).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.70; entities +1 (parent city_gent); FOI **gap_dop_oost_vlaanderen_gent_vaph_matrix_9900_2_03m_9901_5k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2602/; rq_2602=done; spawn **rq_2603**; ticks=2602.
+- Next: **rq_2603 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.

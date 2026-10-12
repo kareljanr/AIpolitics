@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T07:54:32Z,rq_2600,2601,no,"tick2601 leftover dual Huis in de Stad Tienen 0407.637.748 Strong PDF 2026-00217681 733 9.82m / 9901 496k / beleggingen 3.68m; next rq_2602 VAPH adreslijst type=1387 (RTH) non-VZA providers, then KBO NACE 87/88 lists (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T07:57:59Z,rq_2602,2602,no,"tick2602 leftover dual Dienst Ondersteuningsplan Oost-Vlaanderen Gent 0840.341.880 Strong PDF 2026-00298910 9900 2.03m / 9901 5k; next rq_2603 continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists (local fallback runner; Actions cron unreliable)"
