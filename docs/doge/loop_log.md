@@ -29559,3 +29559,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00174919** (91559 B / 33p; AV 28-05-2026; neergelegd 16/06/2026; MD5 1cf835738e657c2650d48f4ed60f2e38). VOL-VZW 733 **EUR3652551** (+1.51%); 62 **EUR2984488**; 9901 **EUR148528** (was 216349); 9904 89650; equity 5846372; cash 989783; FTE 39 (was 39,6).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_maaseik); FOI **gap_jeugdzorgcentrum_maaseik_vaph_matrix_733_3_65m_9901_149k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2675/; rq_2675=done; spawn **rq_2676**; ticks=2675.
 - Next: **rq_2676 leftover dual** — Opgroeien OVBJ Antwerpen leftovers done; next: OVBJ Vlaams-Brabant/Brussel (PDF needs re-parse), then KBO NACE 87/88 lists.
+
+
+## Tick 2676 — 2026-10-12T08:40:54Z — rq_2676 leftover dual Daidalos Houthalen-Helchteren YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Limburg list (mei 2026): **Daidalos** → KBO 0444.449.347 had 0 prior entity rows. Parked at 2669 (truncated list address); general mailbox hoofdzetel@ now verified on daidalosvzw.be/contact.
+- KBO: Actief since 3 april 1991; VZW; zetel Gabrielle Petitstraat 5, 3530 Houthalen-Helchteren; 1 VE; 0 prior entity rows for 0444.449.347
+- Found: official NBB VKT-VZW native PDF **2026-00061920** (48321 B / 12p; AV 18-03-2026; neergelegd 25/03/2026; MD5 fb7960ace221158145e99951789b112f). VKT-VZW 9900 **EUR3745597** (+2.71%); 62 **EUR3372494**; 9901 **EUR302605** (was 229594); 9904 306066; equity 2844310; cash 1990815; FTE 43 (was 42).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_houthalen_helchteren); FOI **gap_daidalos_houthalen_helchteren_vaph_matrix_9900_3_75m_9901_303k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2676/; rq_2676=done; spawn **rq_2677**; ticks=2676.
+- Next: **rq_2677 leftover dual** — Opgroeien OVBJ Antwerpen leftovers done; next: OVBJ Vlaams-Brabant/Brussel (PDF needs re-parse), then KBO NACE 87/88 lists.
