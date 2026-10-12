@@ -30802,3 +30802,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@debberke.be — general mailbox verified on official page https://debberke.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_maasmechelen); FOI **gap_t_debberke_maasmechelen_vaph_matrix_9900_1_44m_9901_114k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2798/; rq_2798=done; spawn **rq_2799**; ticks=2798.
 - Next: **rq_2799 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2799 — 2026-10-12T14:36:56Z — rq_2799 leftover dual Kinderdagverblijf De B'Engeltjes Herent (Veltem-Beisem) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301 (nursing homes) and 88.101 (home care) activity search, Antwerpen and Vlaams-Brabant postcodes, ranked by primary figure (plus two larger 88.911 childcare VZWs): **Kinderdagverblijf De B'Engeltjes** → KBO 0439.702.285 had 0 prior entity rows.
+- KBO: Actief since 9 mei 1989; VZW; zetel Hollestraat 34 3020 Herent; 1 VE; 0 prior entity rows for 0439.702.285
+- Found: official NBB VKT-VZW native PDF **2026-00234402** (46258 B / 13p; AV 25-06-2026; neergelegd 30/06/2026; MD5 d560b6d12b2c7a5c42f54b71f4a21d19). VKT-VZW 9900 **EUR1013835** (+0.73%); 62 **EUR978594**; 9901 **EUR-10117** (was -5568); 9904 -10146; equity 282425; cash 159275; FTE 14 (was 13).
+- FOI address: info@kdvdebengeltjes.be — general mailbox verified on official page https://kdvdebengeltjes.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_herent); FOI **gap_de_bengeltjes_herent_vaph_matrix_9900_1_01m_9901_loss_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2799/; rq_2799=done; spawn **rq_2800**; ticks=2799.
+- Next: **rq_2800 leftover dual** — Batch done; next: more 87.301/88.101 VZWs ranked by size (Brussels, Limburg, remaining provinces); skipped: OTV Onafhankelijke Thuiszorg entities in Willebroek (otv.be could not be opened), Vulpia Premium Living (only the commercial group mailbox), Anima Cura and Sociaal Centrum (VOL filing with empty 733 line).
