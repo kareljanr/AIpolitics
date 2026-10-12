@@ -31351,3 +31351,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: direction@vega-asbl.be — role mailbox (no named person) verified on official page https://www.vega-asbl.com/nos-coordonnées.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_vega_orfea_etterbeek_vaph_matrix_9900_1_49m_9901_22k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2852/; rq_2852=done; spawn **rq_2853**; ticks=2852.
 - Next: **rq_2853 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2853 — 2026-10-12T16:25:17Z — rq_2853 leftover dual La Crèche Babymedia Bruxelles (Schaerbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **La Crèche Babymedia** → KBO 0828.043.864 had 0 prior entity rows.
+- KBO: Actief since 26 juli 2010; VZW; zetel Auguste Reyerslaan 52 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0828.043.864
+- Found: official NBB VKT-VZW native PDF **2026-00092681** (469077 B / 22p; AV 26-03-2026; neergelegd 27/04/2026; MD5 03b44db82f5cd9c8f845f53e13ee9348). VKT-VZW 9900 **EUR1671161** (+7.33%); 62 **EUR1371443**; 9901 **EUR105139** (was 144940); 9904 150871; equity 2999429; cash 764797; FTE 26,1 (was 24,8).
+- FOI address: creche@rtbf.be — general crèche mailbox verified on official pages https://my.one.be/milieu-accueil/2458 (ONE) and https://www.1030.be/fr/lieu-enfance/babymedia (commune).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_creche_babymedia_schaerbeek_vaph_matrix_9900_1_67m_9901_105k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2853/; rq_2853=done; spawn **rq_2854**; ticks=2853.
+- Next: **rq_2854 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
