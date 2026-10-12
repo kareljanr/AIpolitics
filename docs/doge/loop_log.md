@@ -32583,3 +32583,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@hetpaleis.be — general mailbox verified on official page https://www.hetpaleis.be/contact (page shows Theaterplein; KBO seat Meistraat 2, Stadsschouwburg).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_hetpaleis_antwerpen_vaph_matrix_9900_4_64m_9901_loss_590k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2975/; rq_2975=done; spawn **rq_2976**; ticks=2975.
 - Next: **rq_2976 leftover dual** — KANAL + Flemish culture batch in progress; next: remaining units of this batch.
+
+
+## Tick 2976 — 2026-10-12T18:27:51Z — rq_2976 leftover dual Z33 Hasselt YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish culture 90.111/90.120/90.130/90.311/91.210 in 18 Flemish city postcodes, plus leftover Brussels culture hits), unprocessed hits ranked by YE2025 NBB primary figure: **Z33** → KBO 0682.600.975 had 0 prior entity rows.
+- KBO: Actief since 5 oktober 2017; VZW; zetel Bonnefantenstraat 1 3500 Hasselt; 1 VE; 0 prior entity rows for 0682.600.975
+- Found: official NBB VKT-VZW native PDF **2026-00102817** (316049 B / 23p; AV 23-03-2026; neergelegd 28/04/2026; MD5 50d1ea750b73470fbb9a633896c4445d). VKT-VZW 9900 **EUR1800335** (+5.24%); 62 **EUR1771667**; 9901 **EUR-124139** (was -28097); 9904 -68871; equity 1412200; cash 262769; FTE 23,9 (was 20,8).
+- FOI address: info@z33.be — general mailbox verified on official page https://www.z33.be/bezoek/praktische-info/ (address Bonnefantenstraat 1 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_hasselt); FOI **gap_z33_hasselt_vaph_matrix_9900_1_80m_9901_loss_124k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2976/; rq_2976=done; spawn **rq_2977**; ticks=2976.
+- Next: **rq_2977 leftover dual** — KANAL + Flemish culture batch in progress; next: remaining units of this batch.

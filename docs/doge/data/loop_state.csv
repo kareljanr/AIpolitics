@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T18:27:41Z,rq_2975,2975,no,tick2975 leftover dual HETPALEIS Antwerpen 0462.144.919 Strong PDF 2026-00089960 9900 4.64m / 9901 loss 590k; next rq_2976 KANAL + Flemish culture batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T18:27:51Z,rq_2976,2976,no,tick2976 leftover dual Z33 Hasselt 0682.600.975 Strong PDF 2026-00102817 9900 1.80m / 9901 loss 124k; next rq_2977 KANAL + Flemish culture batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
