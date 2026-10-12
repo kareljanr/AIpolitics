@@ -31753,3 +31753,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: cps@preventionsuicide.be — general mailbox verified on official page https://www.preventionsuicide.be/fr/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_centre_prevention_suicide_ixelles_vaph_matrix_9900_1_00m_9901_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2892/; rq_2892=done; spawn **rq_2893**; ticks=2892.
 - Next: **rq_2893 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2893 — 2026-10-12T16:48:37Z — rq_2893 leftover dual ATD Quart Monde Belgique - ATD Vierde Wereld België Bruxelles (Etterbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **ATD Quart Monde Belgique - ATD Vierde Wereld België** → KBO 0408.429.089 had 0 prior entity rows.
+- KBO: Actief since 23 juni 1971; VZW; zetel Victor Jacobslaan 12-14 1040 Etterbeek; 1 VE; 0 prior entity rows for 0408.429.089
+- Found: official NBB VKT-VZW native PDF **2026-00109536** (52613 B / 14p; AV 25-04-2026; neergelegd 11/05/2026; MD5 ccd17673fcd0b18fc15664eb0148ba0a). VKT-VZW 9900 **EUR939222** (+8.29%); 62 **EUR564925**; 9901 **EUR-7216** (was 1704); 9904 -483; equity 103582; cash 64441; FTE 14,3 (was 11,3).
+- FOI address: contact@atd-quartmonde.be — general mailbox verified on official page https://www.atd-quartmonde.be/contact/ (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_atd_quart_monde_etterbeek_vaph_matrix_9900_0_94m_9901_loss_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2893/; rq_2893=done; spawn **rq_2894**; ticks=2893.
+- Next: **rq_2894 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
