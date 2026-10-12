@@ -32173,3 +32173,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mlstj.brussels — general mailbox verified on official page https://mlstj.brussels/contact/ (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_mission_locale_saint_josse_vaph_matrix_9900_4_84m_9901_92k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2934/; rq_2934=done; spawn **rq_2935**; ticks=2934.
 - Next: **rq_2935 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2935 — 2026-10-12T17:36:37Z — rq_2935 leftover dual Mission Locale pour l'Emploi de Forest Bruxelles (Forest) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE earlier KBO NACE-BEL activity scans 2026-10-12 (Brussels 88.991-88.999 and 87.x/88.10x in 22 postcodes; Flemish 87.x/88.10x), unprocessed hits ranked by YE2025 NBB primary figure: **Mission Locale pour l'Emploi de Forest** → KBO 0441.317.237 had 0 prior entity rows.
+- KBO: Actief since 22 juni 1989; VZW; zetel Brits Tweede Legerlaan 29 1190 Vorst; 1 VE; 0 prior entity rows for 0441.317.237
+- Found: official NBB VKT-VZW native PDF **2026-00218863** (592407 B / 22p; AV 19-06-2026; neergelegd 29/06/2026; MD5 753bbb66783c9500e3c5b9bf0115dd56). VKT-VZW 9900 **EUR4316079** (+6.00%); 62 **EUR4128847**; 9901 **EUR102256** (was 35558); 9904 104190; equity 400604; cash 1888597; FTE 69,8 (was 68,3).
+- FOI address: info@mlocforest.irisnet.be — general mailbox verified on official page https://mlforest.brussels/vers-lemploi/ (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_mission_locale_forest_vaph_matrix_9900_4_32m_9901_102k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2935/; rq_2935=done; spawn **rq_2936**; ticks=2935.
+- Next: **rq_2936 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
