@@ -33752,3 +33752,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@iile.be — general mailbox verified on official page https://www.iile-sri.be/contact-info (with Rue Ransonnet address).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_liege_zone2_iile_code740_split_740_13_40m_9901_loss_62775k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3091/; rq_3090=done; spawn **rq_3092**; ticks=3091.
 - Next: **rq_3092 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3092 — 2026-10-12T21:42:24Z — rq_3092 leftover dual ISBW (Intercommunale Sociale du Brabant wallon) Rixensart YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon intercommunales (KBO name search over ~50 Walloon intercommunale names, filings ranked by NBB code 740 operating subsidies from public authorities; new: Liège Zone 2 IILE-SRI, ISBW, IMSTAM) plus remaining SLSPs from the official Wallonia SLSP list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf); largest code 740 first; every candidate passed the name/alias/KBO/website dedup check: **ISBW (Intercommunale Sociale du Brabant wallon)** → KBO 0200.362.408 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1968; SC; zetel Rue du Cerf 200 1332 Rixensart; 29 VE; 0 prior entity rows for 0200.362.408
+- Found: official NBB VOL-SC native PDF **2026-00214804** (5979281 B / 72p; AV 24-06-2026; neergelegd 26/06/2026; MD5 432b6b3077552a523a7eb604aae23462). VOL-SC 740 **EUR12055917** (+4.36%); 62 **EUR12156479**; 9901 **EUR323757** (was 236327); 9904 338745; equity 2271414; cash 2111407; FTE 225,3 (was 228,8).
+- FOI address: info@isbw.be — general mailbox verified on official pages https://isbw.be/institution/nous-contacter/ and https://isbw.be/contactez-nous/ (with Rue du Cerf 200 address).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_isbw_code740_split_740_12_06m_9901_324k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3092/; rq_3092=done; spawn **rq_3093**; ticks=3092.
+- Next: **rq_3093 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
