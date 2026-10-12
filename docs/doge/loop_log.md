@@ -32363,3 +32363,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: formation.bruxelles@horecaformabru.be — general mailbox verified on official page https://horecaformabepro.be/fr/mentions-legales (registered office Rue de l'Agrafe 70 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_horeca_forma_brussel_vaph_matrix_9900_2_17m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2953/; rq_2953=done; spawn **rq_2954**; ticks=2953.
 - Next: **rq_2954 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
+
+
+## Tick 2954 — 2026-10-12T18:02:15Z — rq_2954 leftover dual Le Piment Bruxelles (Molenbeek-Saint-Jean) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels 85.592 vocational training and 86.940 in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Le Piment** → KBO 0418.608.745 had 0 prior entity rows.
+- KBO: Actief since 21 juni 1978; VZW; zetel Kolomstraat 56 1080 Sint-Jans-Molenbeek; 1 VE; 0 prior entity rows for 0418.608.745
+- Found: official NBB VKT-VZW native PDF **2026-00231944** (48412 B / 13p; AV 25-06-2026; neergelegd 01/07/2026; MD5 8a5a20f184fd8840c4364e00b60d00ae). VKT-VZW 9900 **EUR1982659** (+0.53%); 62 **EUR1884294**; 9901 **EUR29771** (was -14974); 9904 27735; equity 44000; cash 13930; FTE 29,1 (was 28).
+- FOI address: courrier@lepiment.org — general mailbox verified on official page https://www.lepiment.org/ (address Rue de la Colonne 56 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_le_piment_molenbeek_vaph_matrix_9900_1_98m_9901_30k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2954/; rq_2954=done; spawn **rq_2955**; ticks=2954.
+- Next: **rq_2955 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
