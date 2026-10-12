@@ -31683,3 +31683,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@servicesocialjuif.be — general mailbox verified on official page https://www.servicesocialjuif.be/contact/ (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_service_social_juif_saint_gilles_vaph_matrix_9900_2_48m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2885/; rq_2885=done; spawn **rq_2886**; ticks=2885.
 - Next: **rq_2886 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2886 — 2026-10-12T16:44:03Z — rq_2886 leftover dual Mission Locale d'Anderlecht pour l'Emploi, la Formation et le Développement Local Bruxelles (Anderlecht) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Mission Locale d'Anderlecht pour l'Emploi, la Formation et le Développement Local** → KBO 0441.269.430 had 0 prior entity rows.
+- KBO: Actief since 25 mei 1989; VZW; zetel Birminghamstraat 225 1070 Anderlecht; 1 VE; 0 prior entity rows for 0441.269.430
+- Found: official NBB VKT-VZW native PDF **2026-00207832** (396488 B / 26p; AV 25-06-2026; neergelegd 25/06/2026; MD5 626497e813d1ae3675c724f0f38f18a5). VKT-VZW 9900 **EUR2478535** (+2.37%); 62 **EUR2382327**; 9901 **EUR17119** (was -6475); 9904 16229; equity 426853; cash 587719; FTE 35,6 (was 34,1).
+- FOI address: secretariat@mlanderlecht.brussels — general mailbox verified on official page https://mla.brussels/contact/restez-en-contact-avec-nous.html (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_anderlecht); FOI **gap_mission_locale_anderlecht_vaph_matrix_9900_2_48m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2886/; rq_2886=done; spawn **rq_2887**; ticks=2886.
+- Next: **rq_2887 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
