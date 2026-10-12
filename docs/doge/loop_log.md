@@ -32323,3 +32323,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: onthaal@wgcdebrug.be — general mailbox verified on official page https://www.wgcdebrug.be/praktische-info/inschrijven-en-uitschrijven/ (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_wgc_de_brug_molenbeek_vaph_matrix_9900_2_68m_9901_loss_149k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2949/; rq_2949=done; spawn **rq_2950**; ticks=2949.
 - Next: **rq_2950 leftover dual** — Batch done; next: remaining larger 85.592/86.940 scan hits (INOM EUR3.27m to check, COFTEN EUR2.49m, CF2M EUR2.46m, Wit-Gele Kruis van Brussel EUR2.33m, Horeca Forma Brussel EUR2.17m, Le Piment EUR1.98m), larger first; skipped this batch: Fonds des Affections Respiratoires (only a webmaster mailbox on its own contact page).
+
+
+## Tick 2950 — 2026-10-12T17:57:19Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2596** of 2648 rows; inventory budgets 59293 · commitments 6648 · leaderboard 8768 · entities 2667 · sources 8875.
+- Top10: **stable** (2941-2949 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2941-2949: Mission Locale Etterbeek (Etterbeek) · SIREAS (Bruxelles) · Espace Formation PME (Uccle) · CIEP (Schaerbeek) · Mission Locale de Molenbeek (Molenbeek) · DUO for a JOB (Ixelles) · FEC (Schaerbeek) · Convivialités (Forest) · WGC De Brug - La Passerelle (Molenbeek).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2950 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-2950 run locally as fallback.
+- Next: **rq_2950** — remaining larger 85.592/86.940 scan hits (INOM EUR3.27m to check, COFTEN EUR2.49m, CF2M EUR2.46m, Wit-Gele Kruis van Brussel EUR2.33m, Horeca Forma Brussel EUR2.17m, Le Piment EUR1.98m), larger first.

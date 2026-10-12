@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2950** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2940; 2941-2949 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2941-2949 residual dual L5 (not near-complete of 348bn):** Mission Locale Etterbeek (Etterbeek) · SIREAS (Bruxelles) · Espace Formation PME (Uccle) · CIEP (Schaerbeek) · Mission Locale de Molenbeek (Molenbeek) · DUO for a JOB (Ixelles) · FEC (Schaerbeek) · Convivialités (Forest) · WGC De Brug - La Passerelle (Molenbeek) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2596** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2648** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2941-2949** Mission Locale Etterbeek (Etterbeek) · SIREAS (Bruxelles) · Espace Formation PME (Uccle) · CIEP (Schaerbeek) · Mission Locale de Molenbeek (Molenbeek) · DUO for a JOB (Ixelles) · FEC (Schaerbeek) · Convivialités (Forest) · WGC De Brug - La Passerelle (Molenbeek).
+
+### Inventory (tick 2950)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 59293 |
+| commitments.csv | 6648 |
+| leaderboard.csv | 8768 |
+| entities.csv | 2667 |
+| sources.csv | 8875 |
+| FOI ready | 2596 |
+| FOI total rows | 2648 |
+| research_queue open | rq_2950 (carried; next: remaining larger Brussels 85.592/86.940 hits: INOM, COFTEN, CF2M, Wit-Gele Kruis van Brussel, Horeca Forma Brussel, larger first) |
+
+### What improved since tick 2940
+
+- **New source (tick2941-2949):** Mission Locale Etterbeek (Etterbeek) · SIREAS (Bruxelles) · Espace Formation PME (Uccle) · CIEP (Schaerbeek) · Mission Locale de Molenbeek (Molenbeek) · DUO for a JOB (Ixelles) · FEC (Schaerbeek) · Convivialités (Forest) · WGC De Brug - La Passerelle (Molenbeek). Source: 2941-2942 finished the earlier Brussels 88.99x scan hits; 2943-2949 come from a NEW KBO NACE-BEL scan of Brussels 85.592 (vocational training, 1134 hits) and 86.940 (211 hits) in 22 postcodes, ranked by YE2025 NBB primary figure, larger first. Chosen because training/ISP and community-health ASBLs are large COCOF/Actiris/VGC-funded recipients not yet mined. Eight French drafts, one Dutch (WGC De Brug).
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION).
+- **Runner note:** 2576-2950 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2941-2949 (fast, ~5 min cap):** Fonds des Affections Respiratoires (FARES; only a webmaster mailbox on its own contact page).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2940** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
