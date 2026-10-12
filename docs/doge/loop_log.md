@@ -30164,3 +30164,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vleminckveld.be — general mailbox verified on official page https://www.thuiszorgvleminckveld.be/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_thuiszorg_vleminckveld_vaph_matrix_733_8_83m_9901_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2735/; rq_2735=done; spawn **rq_2736**; ticks=2735.
 - Next: **rq_2736 leftover dual** — Home-care / gezinszorg (NACE 88.101) and related units in progress; next: remaining units of this batch.
+
+
+## Tick 2736 — 2026-10-12T13:21:36Z — rq_2736 leftover dual Liers Centrum voor Gezinszorg Lier YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101/88.991/87.302 activity search (home care for the elderly / ambulant addiction care / assistance flats) plus Wit-Gele Kruis provincial associations listed on witgelekruis.be: **Liers Centrum voor Gezinszorg** → KBO 0410.102.340 had 0 prior entity rows.
+- KBO: Actief since 12 december 1968; VZW; zetel Berlarij 35-37 2500 Lier; 2 VE; 0 prior entity rows for 0410.102.340
+- Found: official NBB VKT-VZW native PDF **2026-00227673** (53392 B / 15p; AV 16-06-2026; neergelegd 29/06/2026; MD5 488f1f5f7249df536f930bb8a384b1ac). VKT-VZW 9900 **EUR3047370** (+7.40%); 62 **EUR2965835**; 9901 **EUR25709** (was -15162); 9904 13650; equity 1275370; cash 382201; FTE 62 (was 62,5).
+- FOI address: info@gezinszorglier.be — general mailbox verified on official page https://gezinszorglier.be/privacybeleid/ (KBO number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lier); FOI **gap_gezinszorg_lier_vaph_matrix_9900_3_05m_9901_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2736/; rq_2736=done; spawn **rq_2737**; ticks=2736.
+- Next: **rq_2737 leftover dual** — Home-care / gezinszorg (NACE 88.101) and related units in progress; next: remaining units of this batch.
