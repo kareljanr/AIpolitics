@@ -32913,3 +32913,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info.oost-vlaanderen@saamo.be — general mailbox verified on official page https://www.saamo.be/oost-vlaanderen/contact/ (KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_saamo_oost_vlaanderen_vaph_matrix_9900_1_99m_9901_loss_56k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3008/; rq_3008=done; spawn **rq_3009**; ticks=3008.
 - Next: **rq_3009 leftover dual** — Extended Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3009 — 2026-10-12T19:02:41Z — rq_3009 leftover dual Kindermishandeling Oost-Vlaanderen (Vertrouwenscentrum Kindermishandeling Gent) Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 85.592/87.101/87.301/87.302/88.101/88.109/88.911/88.999, extended to 22 more Flemish city postcodes, plus 88.99x leftovers), unprocessed hits ranked by YE2025 NBB primary figure: **Kindermishandeling Oost-Vlaanderen (Vertrouwenscentrum Kindermishandeling Gent)** → KBO 0434.136.762 had 0 prior entity rows.
+- KBO: Actief since 28 september 1987; VZW; zetel Brugsesteenweg 274 bus A 9000 Gent; 1 VE; 0 prior entity rows for 0434.136.762
+- Found: official NBB VKT-VZW native PDF **2026-00262195** (39871 B / 9p; AV 12-06-2026; neergelegd 07/07/2026; MD5 f29cc9086b6a7d71cc0101fdefd3b567). VKT-VZW 9900 **EUR1943195** (+7.60%); 62 **EUR1853067**; 9901 **EUR34359** (was 50839); 9904 33068; equity 1075534; cash 822415; FTE 18,4 (was 18,2).
+- FOI address: info@vkgent.be — general mailbox verified on official page https://www.vertrouwenscentrum-kindermishandeling.be/gent/ (address Brugsesteenweg 274 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_vk_oost_vlaanderen_vaph_matrix_9900_1_94m_9901_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3009/; rq_3009=done; spawn **rq_3010**; ticks=3009.
+- Next: **rq_3010 leftover dual** — Batch done; next: remaining extended-scan hits (JOBROAD EUR1.71m, PCH Kindermishandeling EUR1.49m) and other Flemish postcodes/codes, larger first; skipped this batch: Sodalis (social secretariat, out of scope), Cunina (international child-sponsorship NGO, not prioritised), Buurtwerk Posthof (own site unreachable), EMMA/Emanuela (no mailbox on own site), Philippus Neri (personal mailboxes only).
