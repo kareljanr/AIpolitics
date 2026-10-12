@@ -30022,3 +30022,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_tele_onthaal_vaph_matrix_9900_3_47m_9901_loss_580k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2721/; rq_2720=done; spawn **rq_2722**; ticks=2721.
 - Next: **rq_2722 leftover dual** — KBO NACE 88.994 (general welfare work) and 87.301 (rest homes) scan in progress; next: remaining 88.994/87.301 units.
 - Data fix (tick 2721): `vzw_ter_engelen` (WZC Ter Engelen Lokeren, KBO 0430.882.809) FOI address `info@covida.be` was wrong (Covida is the Genk VAPH provider KBO 0410.422.737, see tick 2711). Replaced website/foi_email with `https://www.hofterengelen.be` / `info@hofterengelen.be`, the general mailbox verified on the official page https://www.hofterengelen.be/contact/ (page shows KBO 0430.882.809). One-row surgical edit of entities.csv; its foi_queue row and draft still name info@covida.be (not edited).
+
+
+## Tick 2722 — 2026-10-12T09:36:36Z — rq_2722 leftover dual Centrum ter Preventie van Zelfdoding Schaarbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.994/87.301 activity search (general welfare work without accommodation / residential care homes for the elderly): **Centrum ter Preventie van Zelfdoding** → KBO 0419.335.552 had 0 prior entity rows.
+- KBO: Actief since 19 april 1979; VZW; zetel Vooruitgangstraat 323 bus 5 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0419.335.552
+- Found: official NBB VKT-VZW native PDF **2026-00075433** (37959 B / 10p; AV 19-03-2026; neergelegd 09/04/2026; MD5 174f18aff9aae1f7a0c930821f614851). VKT-VZW 9900 **EUR1558848** (+0.91%); 62 **EUR1556279**; 9901 **EUR-19620** (was 213323); 9904 -19073; equity 575789; cash 887060; FTE 18,2 (was 16,7).
+- FOI address: cpz@preventiezelfdoding.be — general mailbox verified on official page https://www.preventiezelfdoding.be/over-ons (KBO number shown on page).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_cpz_schaarbeek_vaph_matrix_9900_1_56m_9901_loss_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2722/; rq_2722=done; spawn **rq_2723**; ticks=2722.
+- Next: **rq_2723 leftover dual** — KBO NACE 88.994 (general welfare work) and 87.301 (rest homes) scan in progress; next: remaining 88.994/87.301 units.
