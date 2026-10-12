@@ -32803,3 +32803,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@st-monica-oostende.be — general mailbox verified on official page https://www.sintmonicaoostende.be/contact (address Ooievaarslaan 3 matches KBO).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oostende); FOI **gap_sint_monica_oostende_vaph_matrix_733_2_50m_9901_897k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2997/; rq_2997=done; spawn **rq_2998**; ticks=2997.
 - Next: **rq_2998 leftover dual** — Flemish 85.592/87.101/88.911 batch in progress; next: remaining units of this batch.
+
+
+## Tick 2998 — 2026-10-12T18:46:52Z — rq_2998 leftover dual Huize Sint-Elisabeth Turnhout YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 85.592 training, 87.101 residential care, 88.911 childcare and related codes in 18 Flemish city postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Huize Sint-Elisabeth** → KBO 0409.479.659 had 0 prior entity rows.
+- KBO: Actief since 5 april 1961; VZW; zetel Herentalsstraat 64 2300 Turnhout; 1 VE; 0 prior entity rows for 0409.479.659
+- Found: official NBB VKT-VZW native PDF **2026-00291749** (63498 B / 18p; AV 12-06-2026; neergelegd 14/07/2026; MD5 befcce7a16b3513d150f8008e854f15e). VKT-VZW 9900 **EUR2382413** (+8.35%); 62 **EUR1971863**; 9901 **EUR9808** (was -41201); 9904 -26255; equity 6326029; cash 208325; FTE 29,6 (was 29,6).
+- FOI address: post@sintelisabeth.be — general mailbox verified on official page https://www.sintelisabeth.be/contact (address Herentalsstraat 64 and KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_turnhout); FOI **gap_huize_sint_elisabeth_turnhout_vaph_matrix_9900_2_38m_9901_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2998/; rq_2998=done; spawn **rq_2999**; ticks=2998.
+- Next: **rq_2999 leftover dual** — Flemish 85.592/87.101/88.911 batch in progress; next: remaining units of this batch.
