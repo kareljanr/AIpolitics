@@ -30447,3 +30447,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kinderkribbe-terduinen.be — general mailbox verified on official page https://www.kinderkribbe-terduinen.be/voor-ouders/ (KBO number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lommel); FOI **gap_ter_duinen_lommel_vaph_matrix_9900_2_24m_9901_72k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2763/; rq_2763=done; spawn **rq_2764**; ticks=2763.
 - Next: **rq_2764 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2764 — 2026-10-12T13:48:01Z — rq_2764 leftover dual De Speelberg Kortrijk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, Limburg / West- and Oost-Vlaanderen postcodes: **De Speelberg** → KBO 0430.410.576 had 0 prior entity rows.
+- KBO: Actief since 6 december 1984; VZW; zetel Pater Damiaanstraat(Kor) 6 8500 Kortrijk; 3 VE; 0 prior entity rows for 0430.410.576
+- Found: official NBB VKT-VZW native PDF **2026-00151733** (47460 B / 12p; AV 02-06-2026; neergelegd 09/06/2026; MD5 5c9aeffe6765f593f33bd8122f25758e). VKT-VZW 9900 **EUR3300549** (+4.08%); 62 **EUR2754040**; 9901 **EUR253674** (was 414062); 9904 246365; equity 5117688; cash 1074309; FTE 49,3 (was 46,2).
+- FOI address: info@despeelbergvzw.be — general mailbox verified on official page https://www.despeelbergvzw.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_de_speelberg_kortrijk_vaph_matrix_9900_3_30m_9901_254k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2764/; rq_2764=done; spawn **rq_2765**; ticks=2764.
+- Next: **rq_2765 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
