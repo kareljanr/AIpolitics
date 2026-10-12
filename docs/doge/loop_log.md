@@ -29411,3 +29411,14 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00239601** (1066597 B / 19p; AV 15-06-2026; neergelegd 02/07/2026; MD5 6f2686de11c680063fb231297d84ac41). VKT-VZW 9900 **EUR1990350** (-6.43%); 62 **EUR1597027**; 9901 **EUR160077** (was 985176); 9904 159719; equity 1282773; cash 974710; FTE 20,7 (was 15,1).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_eeklo); FOI **gap_grienta_eeklo_vaph_matrix_9900_1_99m_9901_160k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2659/; rq_2659=done; spawn **rq_2660**; ticks=2659.
 - Next: **rq_2660 leftover dual** — continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
+
+
+## Tick 2660 — 2026-10-12T08:33:58Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2335** of 2387 rows; inventory budgets 57143 · commitments 6387 · leaderboard 8507 · entities 2406 · sources 8092.
+- Top10: **stable** (2651-2659 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2651-2659: Jeugdzorg Ter Elst Duffel · DVC De Triangel Lievegem · De Kantel Brugge · Blij Leven Lievegem · De Wiekslag Alken · Steevliet Merelbeke-Melle · Spoor 56 Hamme · De Walhoeve Vleteren · Grienta Eeklo.
+- Hunt this tick: none (EVERY-10 used the tick); rq_2660 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2660 run locally as fallback.
+- Source choice (recorded): ticks 2651-2652 NEW SOURCE Opgroeien OBC + GES+ lists (april 2026); ticks 2653-2659 NEW SOURCE Opgroeien OVBJ provincial lists (mei 2026). FOI: general mailboxes where published; named Opgroeien-list contacts for De Wiekslag and De Walhoeve (none published).
+- Next: **rq_2660** — OVBJ leftovers (Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.

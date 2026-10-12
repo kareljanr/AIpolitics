@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 2660** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2650; 2651-2659 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2651-2659 residual dual L5 (not near-complete of 348bn):** Jeugdzorg Ter Elst Duffel · DVC De Triangel Lievegem · De Kantel Brugge · Blij Leven Lievegem · De Wiekslag Alken · Steevliet Merelbeke-Melle · Spoor 56 Hamme · De Walhoeve Vleteren · Grienta Eeklo (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2335** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2387** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2651-2659** Jeugdzorg Ter Elst Duffel · DVC De Triangel Lievegem · De Kantel Brugge · Blij Leven Lievegem · De Wiekslag Alken · Steevliet Merelbeke-Melle · Spoor 56 Hamme · De Walhoeve Vleteren · Grienta Eeklo.
+
+### Inventory (tick 2660)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 57143 |
+| commitments.csv | 6387 |
+| leaderboard.csv | 8507 |
+| entities.csv | 2406 |
+| sources.csv | 8092 |
+| FOI ready | 2335 |
+| FOI total rows | 2387 |
+| research_queue open | rq_2660 (carried; source = Opgroeien OVBJ provincial lists; next: OVBJ leftovers) |
+
+### What improved since tick 2650
+
+- **New source (tick2651-2659):** Jeugdzorg Ter Elst Duffel · DVC De Triangel Lievegem · De Kantel Brugge · Blij Leven Lievegem · De Wiekslag Alken · Steevliet Merelbeke-Melle · Spoor 56 Hamme · De Walhoeve Vleteren · Grienta Eeklo. Sources: Opgroeien OBC + GES+ lists (finished), then Opgroeien OVBJ provincial lists (mei 2026; started with O-Vl / W-Vl / Limburg).
+- **Runner note:** 2576-2660 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2651-2659 (fast):** 16 OBC/GES+ providers already in repo · Stichting Delacroix (733 empty) · OVBJ entries run by OCMW / GO! scholengroepen (public, out of scope).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2650** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

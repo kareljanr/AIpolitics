@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T08:33:39Z,rq_2659,2659,no,"tick2659 leftover dual Grienta Eeklo 0802.480.208 Strong PDF 2026-00239601 9900 1.99m / 9901 160k; next rq_2660 continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88 (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T08:33:58Z,every10_2660,2660,no,tick2660 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2660 carried open; source Opgroeien OVBJ list (local fallback runner; Actions cron unreliable)
