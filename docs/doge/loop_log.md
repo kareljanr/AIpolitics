@@ -30062,3 +30062,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@partnerinassistentie.be — general mailbox verified on official page https://partnerinassistentie.be/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_hasselt); FOI **gap_partner_in_assistentie_zorg_hasselt_vaph_matrix_733_4_41m_9901_794k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2725/; rq_2725=done; spawn **rq_2726**; ticks=2725.
 - Next: **rq_2726 leftover dual** — KBO NACE 88.994 (general welfare work) and 87.301 (rest homes) scan in progress; next: remaining 88.994/87.301 units.
+
+
+## Tick 2726 — 2026-10-12T09:37:09Z — rq_2726 leftover dual de Refuge Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.994/87.301 activity search (general welfare work without accommodation / residential care homes for the elderly): **de Refuge** → KBO 0447.392.407 had 0 prior entity rows.
+- KBO: Actief since 19 februari 1992; VZW; zetel Coupure 275 9000 Gent Extra adresinfo: coupure links; 2 VE; 0 prior entity rows for 0447.392.407
+- Found: official NBB VOL-VZW native PDF **2026-00182372** (572636 B / 46p; AV 17-06-2026; neergelegd 22/06/2026; MD5 85294e33c2b8d321603f76300fce386d). VOL-VZW 733 **EUR2442518** (+4.88%); 62 **EUR11787703**; 9901 **EUR238259** (was 216605); 9904 142112; equity 18537489; cash 2295888; FTE 162,8 (was 160).
+- FOI address: info@derefuge.be — general mailbox verified on official pages https://www.derefuge.be/nl/over-ons/onze-erkenningen and /nl/privacy-policy (KBO number shown).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_de_refuge_gent_vaph_matrix_733_2_44m_9901_238k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2726/; rq_2726=done; spawn **rq_2727**; ticks=2726.
+- Next: **rq_2727 leftover dual** — KBO NACE 88.994 (general welfare work) and 87.301 (rest homes) scan in progress; next: remaining 88.994/87.301 units.
