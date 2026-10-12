@@ -29778,3 +29778,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: lions@lionshulp.be — general organisation mailbox verified on official homepage https://www.lionshulp.be/ (published there for applications; no separate info address).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_lionshulp_gent_vaph_matrix_9900_1_91m_9901_97k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2697/; rq_2697=done; spawn **rq_2698**; ticks=2697.
 - Next: **rq_2698 leftover dual** — OVBJ leftover re-check across the 5 provincial lists (KBO-number match) in progress; next: remaining re-check leftovers, then KBO NACE 87/88 lists.
+
+
+## Tick 2698 — 2026-10-12T09:03:03Z — rq_2698 leftover dual Martens-Sotteau Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Oost-Vlaanderen list (re-check leftovers): **Martens-Sotteau** → KBO 0408.203.516 had 0 prior entity rows.
+- KBO: Actief since 15 maart 1971; VZW; zetel Meerhoutstraat 49 9041 Gent; 3 VE; 0 prior entity rows for 0408.203.516
+- Found: official NBB VKT-VZW native PDF **2026-00232567** (54597 B / 15p; AV 02-06-2026; neergelegd 29/06/2026; MD5 f1046013776182dbe08c13894878b81e). VKT-VZW 9900 **EUR3733549** (+0.65%); 62 **EUR3674112**; 9901 **EUR-54067** (was 92519); 9904 -29659; equity 2382238; cash 208931; FTE 50,7 (was 49,7).
+- FOI address: post@martens-sotteau.be — general mailbox verified on official page https://www.martens-sotteau.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_martens_sotteau_gent_vaph_matrix_9900_3_73m_9901_loss_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2698/; rq_2698=done; spawn **rq_2699**; ticks=2698.
+- Next: **rq_2699 leftover dual** — OVBJ leftover re-check across the 5 provincial lists (KBO-number match) in progress; next: remaining re-check leftovers, then KBO NACE 87/88 lists.
