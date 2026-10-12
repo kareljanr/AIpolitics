@@ -32183,3 +32183,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mlocforest.irisnet.be — general mailbox verified on official page https://mlforest.brussels/vers-lemploi/ (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_mission_locale_forest_vaph_matrix_9900_4_32m_9901_102k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2935/; rq_2935=done; spawn **rq_2936**; ticks=2935.
 - Next: **rq_2936 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2936 — 2026-10-12T17:36:46Z — rq_2936 leftover dual Human Smile Bruxelles (Koekelberg) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE earlier KBO NACE-BEL activity scans 2026-10-12 (Brussels 88.991-88.999 and 87.x/88.10x in 22 postcodes; Flemish 87.x/88.10x), unprocessed hits ranked by YE2025 NBB primary figure: **Human Smile** → KBO 0630.944.616 had 0 prior entity rows.
+- KBO: Actief since 29 mei 2015; VZW; zetel Schmitzstraat 62 1081 Koekelberg; 1 VE; 0 prior entity rows for 0630.944.616
+- Found: official NBB VKT-VZW native PDF **2026-00432739** (49932 B / 13p; AV 27-06-2026; neergelegd 27/08/2026; MD5 3a87eb8df2b8b4f089a7952eeaec7718). VKT-VZW 9900 **EUR3490267** (-33.00%); 62 **EUR252034**; 9901 **EUR747470** (was 567361); 9904 740752; equity 4819214; cash 3457609; FTE 5,9 (was 4,5).
+- FOI address: info@humansmile.be — general mailbox verified on official page https://www.humansmile.be/ (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_human_smile_koekelberg_vaph_matrix_9900_3_49m_9901_747k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2936/; rq_2936=done; spawn **rq_2937**; ticks=2936.
+- Next: **rq_2937 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
