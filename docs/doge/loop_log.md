@@ -31883,3 +31883,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: centre@lesoiseauxbleus.be — general mailbox verified on official page https://www.lesoiseauxbleus.be/contact (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_oiseaux_bleus_etterbeek_vaph_matrix_9900_2_13m_9901_loss_23k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2905/; rq_2905=done; spawn **rq_2906**; ticks=2905.
 - Next: **rq_2906 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2906 — 2026-10-12T17:18:21Z — rq_2906 leftover dual ASBL Villa Pilifs Bruxelles (Neder-Over-Heembeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **ASBL Villa Pilifs** → KBO 0562.937.223 had 0 prior entity rows.
+- KBO: Actief since 24 september 2014; VZW; zetel Wimpelbergstraat 188 1120 Brussel; 1 VE; 0 prior entity rows for 0562.937.223
+- Found: official NBB VKT-VZW native PDF **2026-00386302** (45725 B / 11p; AV 24-06-2026; neergelegd 06/08/2026; MD5 de4185052c610dba491511e457024236). VKT-VZW 9900 **EUR1930570** (+1.97%); 62 **EUR1744731**; 9901 **EUR87955** (was 96112); 9904 88365; equity 2591141; cash 1057536; FTE 27,4 (was 26,5).
+- FOI address: info@villapilifs.be — general mailbox verified on official page https://www.villapilifs.be/ (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_villa_pilifs_neder_over_heembeek_vaph_matrix_9900_1_93m_9901_88k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2906/; rq_2906=done; spawn **rq_2907**; ticks=2906.
+- Next: **rq_2907 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
