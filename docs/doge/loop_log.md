@@ -30720,4 +30720,15 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2790 stays open (carried).
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2790 run locally as fallback.
 - Source choice (recorded): ticks 2781-2789 used KBO NACE 87.301/88.101 searches ranked by size (larger subsidy recipients first). FOI: general mailboxes only, all verified on opened official pages; none NEEDS VERIFICATION.
-- Next: **rq_2790** — more NACE 88.911 87.301 nursing-home and 88.101 home-care VZWs ranked by size (other provinces).
+- Next: **rq_2790** — more NACE 87.301 nursing-home and 88.101 home-care VZWs ranked by size (other provinces).
+
+
+## Tick 2791 — 2026-10-12T14:35:45Z — rq_2790 leftover dual Gezinszorg Villers Antwerpen (Ekeren) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301 (nursing homes) and 88.101 (home care) activity search, Antwerpen and Vlaams-Brabant postcodes, ranked by primary figure (plus two larger 88.911 childcare VZWs): **Gezinszorg Villers** → KBO 0413.259.788 had 0 prior entity rows.
+- KBO: Actief since 31 januari 1950; VZW; zetel Leerwijk 1 2180 Antwerpen; 14 VE; 0 prior entity rows for 0413.259.788
+- Found: official NBB VOL-VZW native PDF **2026-00523848** (1097657 B / 46p; AV 18-06-2026; neergelegd 25/09/2026; MD5 c4ae46b946c48876dcd20419604b2311). VOL-VZW 733 **EUR19468384** (-1.36%); 62 **EUR21684369**; 9901 **EUR25419** (was 148811); 9904 100962; equity 4706818; cash 1544218; FTE 411,2 (was 399,7).
+- FOI address: info@gezinszorgvillers.be — general mailbox verified on official page https://www.gezinszorgvillers.be/contacteer-ons (KBO number shown).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_gezinszorg_villers_ekeren_vaph_matrix_733_19_47m_9901_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2791/; rq_2790=done; spawn **rq_2792**; ticks=2791.
+- Next: **rq_2792 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+- Fix: corrected the tick 2790 log line "Next" (stray "NACE 88.911" before 87.301 removed).
