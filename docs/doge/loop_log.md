@@ -29348,3 +29348,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00209693** (607902 B / 45p; AV 10-06-2026; neergelegd 24/06/2026; MD5 4452093b2231305528dd2ddfd3f17825). VOL-VZW 733 **EUR32491239** (+6.16%); 62 **EUR29817007**; 9901 **EUR2367904** (was 2571046); 9904 2614770; equity 32229416; cash 4026923; FTE 391,2 (was 378,2).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lievegem); FOI **gap_dvc_de_triangel_lievegem_vaph_matrix_733_32_49m_9901_2_37m_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2652/; rq_2652=done; spawn **rq_2653**; ticks=2652.
 - Next: **rq_2653 leftover dual** — continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
+
+
+## Tick 2653 — 2026-10-12T08:32:44Z — rq_2653 leftover dual De Kantel Brugge YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ West-Vlaanderen list (mei 2026): **De Kantel** → KBO 0411.971.371 had 0 prior entity rows. NEW SOURCE Opgroeien OVBJ provincial lists (mei 2026) after OBC/GES+.
+- KBO: Actief since 12 november 1971; VZW; zetel Legeweg 201, 8200 Brugge; 1 VE; 0 prior entity rows for 0411.971.371
+- Found: official NBB VOL-VZW native PDF **2026-00147516** (544450 B / 39p; AV 04-06-2026; neergelegd 08/06/2026; MD5 c51bdacf7626af1d3d98f1864d7ffb8b). VOL-VZW 733 **EUR5507852** (+2.53%); 62 **EUR4605860**; 9901 **EUR146571** (was 64476); 9904 118874; equity 3965500; cash 155399; FTE 56,7 (was 55).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_de_kantel_brugge_vaph_matrix_733_5_51m_9901_147k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2653/; rq_2653=done; spawn **rq_2654**; ticks=2653.
+- Next: **rq_2654 leftover dual** — continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
