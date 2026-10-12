@@ -29809,3 +29809,13 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2700 run locally as fallback.
 - Source choice (recorded): ticks 2691-2699 used a KBO-number re-check of all five Opgroeien OVBJ provincial lists (IBIS first). Rejected: Kompani (733 empty), NOVA (no filing), GO! school groups. FOI: general mailboxes only, each verified on an opened official page.
 - Next: **rq_2700** — KBO NACE 87/88 lists.
+
+
+## Tick 2701 — 2026-10-12T09:13:12Z — rq_2700 leftover dual Pleegzorg Provincie Antwerpen Mechelen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.992 activity search (Integrale jeugdhulp zonder huisvesting): **Pleegzorg Provincie Antwerpen** → KBO 0537.963.780 had 0 prior entity rows.
+- KBO: Actief since 6 september 2013; VZW; zetel Zeutestraat 2 A 2800 Mechelen; 10 VE; 0 prior entity rows for 0537.963.780
+- Found: official NBB VOL-VZW native PDF **2026-00188625** (488666 B / 48p; AV 15-06-2026; neergelegd 23/06/2026; MD5 3ebcbb8302db29418f3b4b5887bcccd5). VOL-VZW 733 **EUR49828913** (+10.55%); 62 **EUR24289658**; 9901 **EUR1534704** (was 893475); 9904 1260131; equity 18786293; cash 7422198; FTE 333,2 (was 308,5).
+- FOI address: info@pleegzorgprovincieantwerpen.be — general mailbox verified on official page https://www.pleegzorg.be/antwerpen.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mechelen); FOI **gap_pleegzorg_provincie_antwerpen_vaph_matrix_733_49_83m_9901_1535k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2701/; rq_2700=done; spawn **rq_2702**; ticks=2701.
+- Next: **rq_2702 leftover dual** — KBO NACE 88.992 (integrale jeugdhulp zonder huisvesting) scan by postcode in progress; next: remaining 88.992 units, then other NACE 87/88 codes (87.202/87.203 residential, 88.994 welzijnswerk).
