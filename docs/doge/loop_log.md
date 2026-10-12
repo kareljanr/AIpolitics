@@ -32603,3 +32603,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@campo.nu — general mailbox verified on official page https://www.campo.nu/contact (address Nieuwpoort 31-35 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_campo_gent_vaph_matrix_9900_1_71m_9901_168k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2977/; rq_2977=done; spawn **rq_2978**; ticks=2977.
 - Next: **rq_2978 leftover dual** — KANAL + Flemish culture batch in progress; next: remaining units of this batch.
+
+
+## Tick 2978 — 2026-10-12T18:28:11Z — rq_2978 leftover dual De Casino Sint-Niklaas YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish culture 90.111/90.120/90.130/90.311/91.210 in 18 Flemish city postcodes, plus leftover Brussels culture hits), unprocessed hits ranked by YE2025 NBB primary figure: **De Casino** → KBO 0455.955.725 had 0 prior entity rows.
+- KBO: Actief since 17 februari 1995; VZW; zetel Stationsstraat 104 9100 Sint-Niklaas; 1 VE; 0 prior entity rows for 0455.955.725
+- Found: official NBB VKT-VZW native PDF **2026-00090294** (58271 B / 18p; AV 14-04-2026; neergelegd 23/04/2026; MD5 67ec70c9eb1c74f53e13e73eed78e724). VKT-VZW 9900 **EUR934820** (+15.26%); 62 **EUR775626**; 9901 **EUR-56339** (was -133028); 9904 12889; equity 742886; cash 490505; FTE 10,6 (was 12).
+- FOI address: info@decasino.be — general mailbox verified on official page https://www.decasino.be/contact (Stationsstraat address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_sint_niklaas); FOI **gap_de_casino_sint_niklaas_vaph_matrix_9900_0_93m_9901_loss_56k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2978/; rq_2978=done; spawn **rq_2979**; ticks=2978.
+- Next: **rq_2979 leftover dual** — KANAL + Flemish culture batch in progress; next: remaining units of this batch.

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T18:28:01Z,rq_2977,2977,no,tick2977 leftover dual CAMPO Gent 0424.376.582 Strong PDF 2026-00096680 9900 1.71m / 9901 168k; next rq_2978 KANAL + Flemish culture batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T18:28:11Z,rq_2978,2978,no,tick2978 leftover dual De Casino Sint-Niklaas 0455.955.725 Strong PDF 2026-00090294 9900 0.93m / 9901 loss 56k; next rq_2979 KANAL + Flemish culture batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
