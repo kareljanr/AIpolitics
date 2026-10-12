@@ -29440,3 +29440,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00129862** (357644 B / 25p; AV 18-05-2026; neergelegd 26/05/2026; MD5 599c14594aab634bb515091a0d362811). VKT-VZW 9900 **EUR4701070** (+0.35%); 62 **EUR4482540**; 9901 **EUR41472** (was 212096); 9904 36634; equity 2558740; cash 594662; FTE 54,6 (was 53,6).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bever); FOI **gap_hof_ter_welle_beveren_vaph_matrix_9900_4_70m_9901_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2662/; rq_2662=done; spawn **rq_2663**; ticks=2662.
 - Next: **rq_2663 leftover dual** — continue Opgroeien OVBJ lists (leftovers: Daidalos, IBIS, CAS Genk, YAR, Pieter Simenon, Huize Sint-Vincentius Halen, Jeugdzorgcentrum Kinrooi), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
+
+
+## Tick 2663 — 2026-10-12T08:36:42Z — rq_2663 leftover dual Nieuwland Brugge YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ West-Vlaanderen list (mei 2026): **Nieuwland** → KBO 0412.872.877 had 0 prior entity rows.
+- KBO: Actief since 4 oktober 1972; VZW; zetel Polderstraat 76, 8310 Brugge; 8 VE; 0 prior entity rows for 0412.872.877
+- Found: official NBB VKT-VZW native PDF **2026-00174792** (53494 B / 14p; AV 27-05-2026; neergelegd 18/06/2026; MD5 f3a921ec5a66fb504e95a8125380fbc6). VKT-VZW 9900 **EUR4300100** (+12.21%); 62 **EUR3970632**; 9901 **EUR125463** (was -40009); 9904 120302; equity 3842847; cash 212111; FTE 51,8 (was 50,1).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_nieuwland_brugge_vaph_matrix_9900_4_30m_9901_125k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2663/; rq_2663=done; spawn **rq_2664**; ticks=2663.
+- Next: **rq_2664 leftover dual** — continue Opgroeien OVBJ lists (leftovers: Daidalos, IBIS, CAS Genk, YAR, Pieter Simenon, Huize Sint-Vincentius Halen, Jeugdzorgcentrum Kinrooi), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
