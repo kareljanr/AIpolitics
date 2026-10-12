@@ -32863,3 +32863,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: acta.info@acta-vzw.be — general mailbox verified on official page https://acta-vzw.be/contact/ (Ruiterijschool 9 and VAT BE 445.281.270 shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brasschaat); FOI **gap_acta_brasschaat_vaph_matrix_9900_3_35m_9901_179k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3003/; rq_3003=done; spawn **rq_3004**; ticks=3003.
 - Next: **rq_3004 leftover dual** — Extended Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3004 — 2026-10-12T19:01:53Z — rq_3004 leftover dual Synkroon (Gespecialiseerde opleidings-, begeleidings- en bemiddelingsdienst) Aarschot YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 85.592/87.101/87.301/87.302/88.101/88.109/88.911/88.999, extended to 22 more Flemish city postcodes, plus 88.99x leftovers), unprocessed hits ranked by YE2025 NBB primary figure: **Synkroon (Gespecialiseerde opleidings-, begeleidings- en bemiddelingsdienst)** → KBO 0428.190.266 had 0 prior entity rows.
+- KBO: Actief since 29 november 1985; VZW; zetel Betekomsesteenweg 47 bus 3 3200 Aarschot; 5 VE; 0 prior entity rows for 0428.190.266
+- Found: official NBB VKT-VZW native PDF **2026-00213980** (49041 B / 14p; AV 23-06-2026; neergelegd 29/06/2026; MD5 bb94e08323a9b1a3361caad72d6cefb4). VKT-VZW 9900 **EUR3325637** (+8.95%); 62 **EUR3029639**; 9901 **EUR282395** (was 217871); 9904 282363; equity 3564667; cash 640808; FTE 35,6 (was 37,3).
+- FOI address: info@synkroon.be — general mailbox verified on official page https://synkroon.be/contact (head office Betekomsesteenweg 47 bus 3 and KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_aarschot); FOI **gap_synkroon_aarschot_vaph_matrix_9900_3_33m_9901_282k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3004/; rq_3004=done; spawn **rq_3005**; ticks=3004.
+- Next: **rq_3005 leftover dual** — Extended Flemish multi-code batch in progress; next: remaining units of this batch.
