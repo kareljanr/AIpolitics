@@ -29402,3 +29402,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00240540** (49746 B / 13p; AV 18-06-2026; neergelegd 02/07/2026; MD5 eb9746a29e52019dc2f3c0d8b9c47d44). VKT-VZW 9900 **EUR1878923** (+5.28%); 62 **EUR1650518**; 9901 **EUR66981** (was 8737); 9904 63704; equity 1528449; cash 132661; FTE 22,8 (was 22).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_vleteren); FOI **gap_de_walhoeve_vleteren_vaph_matrix_9900_1_88m_9901_67k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2658/; rq_2658=done; spawn **rq_2659**; ticks=2658.
 - Next: **rq_2659 leftover dual** — continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
+
+
+## Tick 2659 — 2026-10-12T08:33:39Z — rq_2659 leftover dual Grienta Eeklo YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Oost-Vlaanderen list (mei 2026): **Grienta** → KBO 0802.480.208 had 0 prior entity rows.
+- KBO: Actief since 7 juni 2023; VZW; zetel Zusters Philippus Neristraat 6, 9900 Eeklo; 1 VE; 0 prior entity rows for 0802.480.208
+- Found: official NBB VKT-VZW native PDF **2026-00239601** (1066597 B / 19p; AV 15-06-2026; neergelegd 02/07/2026; MD5 6f2686de11c680063fb231297d84ac41). VKT-VZW 9900 **EUR1990350** (-6.43%); 62 **EUR1597027**; 9901 **EUR160077** (was 985176); 9904 159719; equity 1282773; cash 974710; FTE 20,7 (was 15,1).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_eeklo); FOI **gap_grienta_eeklo_vaph_matrix_9900_1_99m_9901_160k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2659/; rq_2659=done; spawn **rq_2660**; ticks=2659.
+- Next: **rq_2660 leftover dual** — continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
