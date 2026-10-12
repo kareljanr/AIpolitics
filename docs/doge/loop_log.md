@@ -33452,3 +33452,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@amsab.be — general mailbox verified on official page https://amsab.be/ (Bagattenstraat 174 shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_amsab_gent_vaph_matrix_9900_3_28m_9901_loss_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3061/; rq_3060=done; spawn **rq_3062**; ticks=3061.
 - Next: **rq_3062 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3062 — 2026-10-12T20:50:59Z — rq_3062 leftover dual Centre sportif Mounier Sint-Lambrechts-Woluwe YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Belgian publicly funded codes: 91.110/91.120 libraries and archives, 90.111/90.311/90.130 arts venues, 93.110/93.210 municipal sports facilities, 85.520 cultural education; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure; every candidate passed the name/alias/KBO/website dedup check: **Centre sportif Mounier** → KBO 0421.770.549 had 0 prior entity rows.
+- KBO: Actief since 19 februari 1981; VZW; zetel Emmanuel Mounierlaan 87 1200 Sint-Lambrechts-Woluwe; 1 VE; 0 prior entity rows for 0421.770.549
+- Found: official NBB VKT-VZW native PDF **2026-00115092** (44262 B / 11p; AV 30-04-2026; neergelegd 20/05/2026; MD5 4feea84e3f5c205e448ff94d6d149ae6). VKT-VZW 9900 **EUR2743746** (+11.64%); 62 **EUR1254240**; 9901 **EUR1023322** (was 787064); 9904 1061297; equity 7952783; cash 3175812; FTE 15,8 (was 17,2).
+- FOI address: sport@mounier.be — general mailbox verified on official page https://www.mounier.be/infos-pratiques/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_woluwe_saint_lambert); FOI **gap_mounier_woluwe_vaph_matrix_9900_2_74m_9901_1023k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3062/; rq_3062=done; spawn **rq_3063**; ticks=3062.
+- Next: **rq_3063 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
