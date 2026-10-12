@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 3090** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3080; 3081-3089 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3081-3089 residual dual L5 (not near-complete of 348bn):** La Sambrienne (Charleroi) · Centr'Habitat (La Louvière) · La Maison Liégeoise (Liège) · Le Logis Châtelettain (Châtelet) · La Maison des Hommes (Flémalle) · Le Logis Social de Liège (Liège) · Le Logis Tournaisien (Tournai) · Le Confort Mosan (Oupeye) · La Ruche Chapelloise (Chapelle-lez-Herlaimont) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2720** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2774** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP code-740 shells incl. **NEW 3081-3089** La Sambrienne (Charleroi) · Centr'Habitat (La Louvière) · La Maison Liégeoise (Liège) · Le Logis Châtelettain (Châtelet) · La Maison des Hommes (Flémalle) · Le Logis Social de Liège (Liège) · Le Logis Tournaisien (Tournai) · Le Confort Mosan (Oupeye) · La Ruche Chapelloise (Chapelle-lez-Herlaimont).
+
+### Inventory (tick 3090)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 60343 |
+| commitments.csv | 6774 |
+| leaderboard.csv | 8892 |
+| entities.csv | 2792 |
+| sources.csv | 9255 |
+| FOI ready | 2720 |
+| FOI total rows | 2774 |
+| research_queue open | rq_3090 (carried; next: remaining Walloon SLSPs with code 740, largest first) |
+
+### What improved since tick 3080
+
+- **New source (tick3081-3089):** La Sambrienne (Charleroi) · Centr'Habitat (La Louvière) · La Maison Liégeoise (Liège) · Le Logis Châtelettain (Châtelet) · La Maison des Hommes (Flémalle) · Le Logis Social de Liège (Liège) · Le Logis Tournaisien (Tournai) · Le Confort Mosan (Oupeye) · La Ruche Chapelloise (Chapelle-lez-Herlaimont). Source: official Wallonia list of public-service housing companies (SLSP) (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf, 65 names matched to KBO numbers), ranked by NBB code 740, largest first (EUR3.36m-0.57m). The nationwide KBO 68.201 scan (step-10 postcodes 1000-9990) was completed and its housing/intercommunale-named hits triaged: no new public code-740 recipient (Flemish woonmaatschappijen are already entities, 46 rows; remaining hits are private). No code-740 intercommunale outside entities was found. Sub-EUR0.2m Brussels SISPs skipped as instructed. All picks passed the dedup check.
+- **Toolkit:** write.py draft language note now set per profile (Walloon vs Brussels); FR drafts for SLSPs are voluntary requests with no legal-basis claim.
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (own site, own official PDF, Province of Hainaut directory websoc.hainaut.be, or City of Liège page); no NEEDS VERIFICATION.
+- **Runner note:** 2576-3090 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 3081-3089 (fast, ~5 min cap):** Le Foyer Jambois (EUR0.58m; no mailbox on its own site, only the City of Namur switchboard); ~30 SLSPs report turnover (code 70) but no code 740, so they were not ranked as subsidy recipients.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3080** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

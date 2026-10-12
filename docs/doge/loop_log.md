@@ -33732,3 +33732,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@laruchechapelloise.be — general mailbox verified on official contact page https://www.laruchechapelloise.be/contact/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_ruche_chapelloise_code740_split_740_0_57m_9901_333k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3089/; rq_3089=done; spawn **rq_3090**; ticks=3089.
 - Next: **rq_3090 leftover dual** — Batch done; next: remaining Walloon SLSPs with code 740 (Mouscron EUR0.56m, Saint-Ghislain EUR0.52m, Sambre et Biesme EUR0.44m, Herstal, IPBW, ...) or SLSPs with turnover only (code 70, NOT a subsidy), largest first, after the dedup check; skipped this batch: Le Foyer Jambois (EUR0.58m; no mailbox on its own site, only the city switchboard on namur.be); Flemish woonmaatschappijen are already entities (46 rows).
+
+
+## Tick 3090 — 2026-10-12T21:34:55Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2720** of 2774 rows; inventory budgets 60343 · commitments 6774 · leaderboard 8892 · entities 2792 · sources 9255.
+- Top10: **stable** (3081-3089 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3081-3089: La Sambrienne (Charleroi) · Centr'Habitat (La Louvière) · La Maison Liégeoise (Liège) · Le Logis Châtelettain (Châtelet) · La Maison des Hommes (Flémalle) · Le Logis Social de Liège (Liège) · Le Logis Tournaisien (Tournai) · Le Confort Mosan (Oupeye) · La Ruche Chapelloise (Chapelle-lez-Herlaimont).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3090 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3090 run locally as fallback.
+- Next: **rq_3090** — remaining Walloon SLSPs with code 740 (Mouscron EUR0.56m, Saint-Ghislain EUR0.52m, Sambre et Biesme EUR0.44m, ...), largest first, after the dedup check.
