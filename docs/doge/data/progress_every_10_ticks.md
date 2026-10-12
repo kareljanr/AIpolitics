@@ -6,6 +6,43 @@
 
 ---
 
+## Snapshot at **tick 3080** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3070; 3071-3079 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3071-3079 residual dual L5 (not near-complete of 348bn):** L'Habitation Moderne (Woluwe-Saint-Lambert) · En Bord de Soignes (Auderghem) · Le Logement Molenbeekois (Molenbeek-Saint-Jean) · Comensia (Koekelberg) · Everecity (Evere) · Le Foyer Laekenois (Laeken) · BinHôme (Uccle) · Le Logis-Floréal (Watermael-Boitsfort) · Alliance Bruxelloise Coopérative (Woluwe-Saint-Lambert) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2711** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2765** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP code-740 shells incl. **NEW 3071-3079** L'Habitation Moderne (Woluwe-Saint-Lambert) · En Bord de Soignes (Auderghem) · Le Logement Molenbeekois (Molenbeek-Saint-Jean) · Comensia (Koekelberg) · Everecity (Evere) · Le Foyer Laekenois (Laeken) · BinHôme (Uccle) · Le Logis-Floréal (Watermael-Boitsfort) · Alliance Bruxelloise Coopérative (Woluwe-Saint-Lambert).
+
+### Inventory (tick 3080)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 60262 |
+| commitments.csv | 6765 |
+| leaderboard.csv | 8883 |
+| entities.csv | 2783 |
+| sources.csv | 9228 |
+| FOI ready | 2711 |
+| FOI total rows | 2765 |
+| research_queue open | rq_3080 (carried; next: remaining SISPs <EUR0.2m, Flemish/Walloon public housing and intercommunales, largest first) |
+
+### What improved since tick 3070
+
+- **New source (tick3071-3079):** L'Habitation Moderne (Woluwe-Saint-Lambert) · En Bord de Soignes (Auderghem) · Le Logement Molenbeekois (Molenbeek-Saint-Jean) · Comensia (Koekelberg) · Everecity (Evere) · Le Foyer Laekenois (Laeken) · BinHôme (Uccle) · Le Logis-Floréal (Watermael-Boitsfort) · Alliance Bruxelloise Coopérative (Woluwe-Saint-Lambert). Source: SLRB-BGHM official list of the 16 Brussels public-service housing companies (SISP) (https://slrb-bghm.brussels/fr/societes-immobilieres-de-service-public/toutes-les-sisp), ranked by NBB company-model code 740 (subsides d'exploitation et montants compensatoires obtenus des pouvoirs publics), largest first (EUR3.74m-0.22m). Chosen because a wider KBO scan of intercommunale/public-company codes (38.110/38.210/36.000/49.310/68.201/35.130/37.000, ~4,400 KBO numbers triaged so far; the nationwide 68.201 pass is still incomplete) showed the larger code-740 recipients (MIVB-STIB, De Watergroep, De Lijn, Farys, Pidpa, SWDE) already exist as entities (dedup), and most intercommunales book no code 740. All picks passed the dedup check.
+- **Parent row:** city_woluwe_saint_lambert added in tick 3071 (KBO 0207.389.859 + official site), parent of Mounier, Poseidon, L'Habitation Moderne and Alliance Bruxelloise Coopérative.
+- **Toolkit (local, backups write_bak_3070.py / triage_bak_3070.sh / ex_bak_3070.py):** write.py now (1) writes 'not in filing' when code 9904 (or another optional code) is missing, never a guessed value; (2) parses full company models (m82-f, m81-f, m02-f, m01-f) with exact labels: code 740 operating subsidies from public authorities as primary, else code 70 turnover labelled NOT a subsidy; abbreviated company models use 9900 gross margin; (3) rolls back appended CSV rows if a tick crashes. Tested on Farys, Fluvius Limburg and a filing with 9904 removed (dry run outside the repo). Hospital filings (m140-f-p) are PDF images or OCR text with garbled digits, so they are NOT parsed (no guessing).
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (own site or the official SLRB page for that SISP); no NEEDS VERIFICATION.
+- **Runner note:** 2576-3080 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 3071-3079 (fast, ~5 min cap):** Le Logement Bruxellois (EUR10.60m code 740; only online form and candidate/DPO mailboxes), Foyer Anderlechtois (EUR6.24m; mailboxes only as hidden form values), Bruxelles-Energie (EUR3.22m; only a visits mailbox and a form), Habitations de Bruxelles 1210 (EUR0.25m; no official page with a mailbox found), Le Foyer Schaerbeekois (no code 740 in the filing), Log'Iris (image-only PDF), Elia Asset and private waste/water firms (not public bodies), hospitals (m140-f-p not parseable), duplicates MIVB-STIB, De Watergroep, De Lijn, Farys, Pidpa, SWDE.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3070** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

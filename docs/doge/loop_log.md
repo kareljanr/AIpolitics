@@ -33632,3 +33632,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@abcoop.be — general mailbox verified on the official SLRB-BGHM page for this SISP https://slrb-bghm.brussels/fr/sisp/alliance-bruxelloise-cooperative.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_woluwe_saint_lambert); FOI **gap_alliance_bruxelloise_coop_code740_split_740_0_22m_9901_418k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3079/; rq_3079=done; spawn **rq_3080**; ticks=3079.
 - Next: **rq_3080 leftover dual** — Batch done; next: remaining Brussels SISPs below EUR0.2m code 740, then Flemish/Walloon public housing companies and intercommunales from the wider KBO scan, largest first, after the dedup check; skipped this batch: Le Logement Bruxellois (EUR10.60m code 740; only an online form and candidate/DPO mailboxes), Foyer Anderlechtois (EUR6.24m; mailboxes only as hidden form values), Le Foyer Schaerbeekois (no code 740 in the filing), Log'Iris (image-only PDF filing), hospitals (m140-f-p PDF filings, OCR text not reliable).
+
+
+## Tick 3080 — 2026-10-12T21:20:39Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2711** of 2765 rows; inventory budgets 60262 · commitments 6765 · leaderboard 8883 · entities 2783 · sources 9228.
+- Top10: **stable** (3071-3079 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3071-3079: L'Habitation Moderne (Woluwe-Saint-Lambert) · En Bord de Soignes (Auderghem) · Le Logement Molenbeekois (Molenbeek-Saint-Jean) · Comensia (Koekelberg) · Everecity (Evere) · Le Foyer Laekenois (Laeken) · BinHôme (Uccle) · Le Logis-Floréal (Watermael-Boitsfort) · Alliance Bruxelloise Coopérative (Woluwe-Saint-Lambert).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3080 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3080 run locally as fallback.
+- Next: **rq_3080** — remaining Brussels SISPs below EUR0.2m code 740, then Flemish/Walloon public housing companies and intercommunales (company model now parsed), largest first, after the dedup check.
