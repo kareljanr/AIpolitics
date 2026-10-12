@@ -33822,3 +33822,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: accueil@hdpv.be — general (reception) mailbox verified on official site https://hdpv.be/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_habitat_pays_vert_code740_split_740_0_35m_9901_loss_1197k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3098/; rq_3098=done; spawn **rq_3099**; ticks=3098.
 - Next: **rq_3099 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3099 — 2026-10-12T21:43:37Z — rq_3099 leftover dual Lysco Comines-Warneton YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon intercommunales (KBO name search over ~50 Walloon intercommunale names, filings ranked by NBB code 740 operating subsidies from public authorities; new: Liège Zone 2 IILE-SRI, ISBW, IMSTAM) plus remaining SLSPs from the official Wallonia SLSP list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf); largest code 740 first; every candidate passed the name/alias/KBO/website dedup check: **Lysco** → KBO 0435.413.697 had 0 prior entity rows.
+- KBO: Actief since 29 september 1988; SRL; zetel Schoonveldstraat(KOM) 2 7780 Comines-Warneton; 1 VE; 0 prior entity rows for 0435.413.697
+- Found: official NBB VOL-SRL native PDF **2026-00138854** (6070549 B / 65p; AV 05-06-2026; neergelegd 05/06/2026; MD5 7553cdb1ab6351dc5db42291844d5e58). VOL-SRL 740 **EUR273873** (-7.86%); 62 **EUR1618616**; 9901 **EUR-159647** (was 146512); 9904 -30569; equity 33288282; cash 6269885; FTE 18,6 (was 18,6).
+- FOI address: info@lysco.be — general mailbox verified on official contact page https://lysco.be/contact/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_lysco_code740_split_740_0_27m_9901_loss_160k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3099/; rq_3099=done; spawn **rq_3100**; ticks=3099.
+- Next: **rq_3100 leftover dual** — Batch done; next: Le Foyer de la Région de Fléron (SLSP, EUR0.27m code 740), Le Foyer Wavrien (EUR0.10m), then more Walloon/Brussels intercommunales or provincial bodies with code 740 not yet in entities, largest first, after the dedup check; skipped this batch: Société de Logements de Mouscron (EUR0.56m; no mailbox on own site), Habitations Sociales de Saint-Nicolas (code 740 only in an appended budget table, not in the schema), Le Home Ougréen (only a sales mailbox found); duplicates: BEP, Intradel, ISoSL, IDETA, IDEA, Idelux Projets publics, Idelux Développement.
