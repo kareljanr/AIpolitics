@@ -29209,3 +29209,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00059172** (55535 B / 17p; AV 10-03-2026; neergelegd 20/03/2026; MD5 7292a9b83c670a3c99c27dadc8cc3b0c). VKT-VZW 9900 **EUR2071618** (+3.87%); 62 **EUR1800591**; 9901 **EUR85376** (was -18406); 9904 68626; equity 3658059; cash 358104; FTE 23,3 (was 22,6).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_cig_nestel_kortrijk_vaph_matrix_9900_2_07m_9901_85k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2637/; rq_2637=done; spawn **rq_2638**; ticks=2637.
 - Next: **rq_2638 leftover dual** — continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists.
+
+
+## Tick 2638 — 2026-10-12T08:22:49Z — rq_2638 leftover dual OOOC Ter Heide Bonheiden YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OOOC contact list (april 2026): **OOOC Ter Heide** → KBO 0407.703.470 had 0 prior entity rows. NEW SOURCE Opgroeien OOOC list (17 OOOCs) after CIG list exhausted. Skipped: OOOC Glorieux (hospital group), Kompas/KiJoCo and Emmaus/De Patio units already in repo.
+- KBO: Actief since 17 december 1970; VZW; zetel Peulisbaan 39, 2820 Bonheiden; 1 VE; 0 prior entity rows for 0407.703.470
+- Found: official NBB VKT-VZW native PDF **2026-00135111** (488620 B / 22p; AV 28-05-2026; neergelegd 01/06/2026; MD5 0a8a2b534bde7cb493eceb6ceb9d1edf). VKT-VZW 9900 **EUR2500635** (-4.20%); 62 **EUR2435591**; 9901 **EUR-68014** (was 200542); 9904 -55547; equity 1938668; cash 1006187; FTE 30,9 (was 29,5).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bonheiden); FOI **gap_oooc_ter_heide_bonheiden_vaph_matrix_9900_2_50m_9901_loss_68k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2638/; rq_2638=done; spawn **rq_2639**; ticks=2638.
+- Next: **rq_2639 leftover dual** — continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists.
