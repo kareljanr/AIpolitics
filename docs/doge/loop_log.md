@@ -33892,3 +33892,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@foyerwavrien.be — general mailbox verified on the official Ville de Wavre page https://www.wavre.be/logements-sociaux (with Rue de Nivelles 39/15 address).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_foyer_wavrien_code740_split_740_0_10m_9901_300k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3105/; rq_3105=done; spawn **rq_3106**; ticks=3105.
 - Next: **rq_3106 leftover dual** — Batch done; next: no further new code-740 intercommunale found in the name searches (Tibi, Sibelga, Vivalia and the Flemish ones are already entities); remaining SLSPs skipped for mailbox: Le Foyer Jambois (only personal mailboxes on official pages), Société de Logements de Mouscron (no mailbox on own site or city page), Le Home Ougréen (sales mailbox only); Habitations Sociales de Saint-Nicolas (code 740 only in an appended budget table). Next source: a fresh Belgian public-funded list with code 740 recipients, after the dedup check.
+
+
+## Tick 3106 — 2026-10-12T22:25:38Z — rq_3106 leftover dual ADMR (Aide à Domicile en Milieu Rural) Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon home-help and family-help services (services d'aide aux familles et aînés, ASD, CSD; KBO name search over ~30 home-help names, filings ranked by NBB code 733 operating subsidies, largest first; Brussels Aide familiale and the large Flemish services already entities); every candidate passed the name/alias/KBO/website dedup check: **ADMR (Aide à Domicile en Milieu Rural)** → KBO 0410.660.980 had 0 prior entity rows.
+- KBO: Actief since 23 juni 1951; VZW; zetel Route de Hannut(BN) 291 5021 Namur; 7 VE; 0 prior entity rows for 0410.660.980
+- Found: official NBB VOL-VZW native PDF **2026-00306817** (2254990 B / 44p; AV 25-06-2026; neergelegd 15/07/2026; MD5 68c9c8f12aaae79f2c949834b615d337). VOL-VZW 733 **EUR52917462** (+5.06%); 62 **EUR56236791**; 9901 **EUR168534** (was 215231); 9904 286710; equity 16487443; cash 1264453; FTE 1.231 (was 1.196).
+- FOI address: coordination@admr.be — general-coordination mailbox verified on official page https://www.admr.be/fr/structure (with Route de Hannut 291 address).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_admr_wallonie_vaph_matrix_733_52_92m_9901_169k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3106/; rq_3106=done; spawn **rq_3107**; ticks=3106.
+- Next: **rq_3107 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
