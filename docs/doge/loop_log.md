@@ -31653,3 +31653,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: vad@vad.be — general mailbox verified on official page https://www.vad.be/contact (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_vad_schaarbeek_vaph_matrix_9900_3_25m_9901_loss_96k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2882/; rq_2882=done; spawn **rq_2883**; ticks=2882.
 - Next: **rq_2883 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2883 — 2026-10-12T16:43:37Z — rq_2883 leftover dual SAAMO Brussel Sint-Jans-Molenbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **SAAMO Brussel** → KBO 0428.708.227 had 0 prior entity rows.
+- KBO: Actief since 31 januari 1985; VZW; zetel Heyvaertstraat 140 bus B 1080 Sint-Jans-Molenbeek; 2 VE; 0 prior entity rows for 0428.708.227
+- Found: official NBB VKT-VZW native PDF **2026-00120328** (211314 B / 23p; AV 28-04-2026; neergelegd 22/05/2026; MD5 c753849f23e7f52b502a999e4d8b5e0a). VKT-VZW 9900 **EUR2605691** (+17.10%); 62 **EUR2164975**; 9901 **EUR4716** (was 63791); 9904 4621; equity 918210; cash 989822; FTE 25,9 (was 24,5).
+- FOI address: info.brussel@saamo.be — general mailbox verified on official page https://www.saamo.be/brussel/contact/ (company number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_saamo_brussel_molenbeek_vaph_matrix_9900_2_61m_9901_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2883/; rq_2883=done; spawn **rq_2884**; ticks=2883.
+- Next: **rq_2884 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
