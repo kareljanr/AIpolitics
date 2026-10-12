@@ -29541,3 +29541,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00071528** (5469607 B / 39p; AV 31-03-2026; neergelegd 01/04/2026; MD5 fc8805972d089dec33bf346793ca0911). VOL-VZW 733 **EUR6866088** (+6.73%); 62 **EUR5786006**; 9901 **EUR365609** (was 270941); 9904 376051; equity 9107894; cash 1279134; FTE 77,1 (was 77,8).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lommel); FOI **gap_pieter_simenon_lommel_vaph_matrix_733_6_87m_9901_366k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2673/; rq_2673=done; spawn **rq_2674**; ticks=2673.
 - Next: **rq_2674 leftover dual** — Opgroeien OVBJ Antwerpen leftovers done; next: OVBJ Vlaams-Brabant/Brussel (PDF needs re-parse), then KBO NACE 87/88 lists.
+
+
+## Tick 2674 — 2026-10-12T08:40:36Z — rq_2674 leftover dual Huize Sint-Vincentius Halen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Limburg list (mei 2026): **Huize Sint-Vincentius** → KBO 0418.480.764 had 0 prior entity rows. No general mailbox published; using the official Opgroeien OVBJ-list contact.
+- KBO: Actief since 9 maart 1978; VZW; zetel Dorpsstraat 72, 3545 Halen; 17 VE; 0 prior entity rows for 0418.480.764
+- Found: official NBB VOL-VZW native PDF **2026-00125057** (2295786 B / 46p; AV 26-05-2026; neergelegd 29/05/2026; MD5 31e9393ace2a21d992de19ce76d78c95). VOL-VZW 733 **EUR13199521** (+2.11%); 62 **EUR11393667**; 9901 **EUR-173996** (was 576531); 9904 -113791; equity 6762875; cash 1270475; FTE 147,5 (was 148).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_halen); FOI **gap_huize_sint_vincentius_halen_vaph_matrix_733_13_20m_9901_loss_174k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2674/; rq_2674=done; spawn **rq_2675**; ticks=2674.
+- Next: **rq_2675 leftover dual** — Opgroeien OVBJ Antwerpen leftovers done; next: OVBJ Vlaams-Brabant/Brussel (PDF needs re-parse), then KBO NACE 87/88 lists.
