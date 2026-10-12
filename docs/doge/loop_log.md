@@ -29173,3 +29173,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00270103** (713932 B / 55p; AV 19-06-2026; neergelegd 06/07/2026; MD5 919fc3e251c5dab994b1cdbe18e7eb9a). VOL-VZW 733 **EUR305568760** (+4.09%); 62 **EUR351357125**; 9901 **EUR9325716** (was 5887614); 9904 11797375; equity 69212277; cash 8666422; .
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_i_mens_gent_vaph_matrix_733_305_57m_9901_9_33m_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2633/; rq_2633=done; spawn **rq_2634**; ticks=2633.
 - Next: **rq_2634 leftover dual** — continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists.
+
+
+## Tick 2634 — 2026-10-12T08:22:12Z — rq_2634 leftover dual CIG De Zeshoek Lommel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien CIG contact list (april 2026): **CIG De Zeshoek** → KBO 0407.920.632 had 0 prior entity rows. NEW SOURCE Opgroeien CIG list (8 CIGs) after CKG list exhausted. Skipped: De Stobbe, Ter Loke/De Merode, De Wissel/De Shelter, Ten Anker (already in repo).
+- KBO: Actief since 15 december 1970; VZW; zetel Vlasstraat 51, 3920 Lommel; 1 VE; 0 prior entity rows for 0407.920.632
+- Found: official NBB VKT-VZW native PDF **2026-00173256** (47894 B / 12p; AV 11-06-2026; neergelegd 17/06/2026; MD5 5e6b5f6bea6878b12ba7dd02ccc9d42d). VKT-VZW 9900 **EUR1570543** (+0.65%); 62 **EUR1443901**; 9901 **EUR62231** (was 78409); 9904 71479; equity 1817593; cash 734415; FTE 18 (was 18,7).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lommel); FOI **gap_cig_de_zeshoek_lommel_vaph_matrix_9900_1_57m_9901_62k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2634/; rq_2634=done; spawn **rq_2635**; ticks=2634.
+- Next: **rq_2635 leftover dual** — continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists.
