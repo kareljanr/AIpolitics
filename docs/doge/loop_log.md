@@ -31461,3 +31461,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@crechestegertrude.be — general crèche mailbox verified on official ONE page https://my.one.be/milieu-accueil/2281.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_creche_sainte_gertrude_etterbeek_vaph_matrix_9900_1_03m_9901_loss_24k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2863/; rq_2863=done; spawn **rq_2864**; ticks=2863.
 - Next: **rq_2864 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2864 — 2026-10-12T16:29:43Z — rq_2864 leftover dual Fjäril (KDV De Blauwe Rups / La Chenille Bleue) Sint-Jans-Molenbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Fjäril (KDV De Blauwe Rups / La Chenille Bleue)** → KBO 0460.119.104 had 0 prior entity rows.
+- KBO: Actief since 1 juli 1996; VZW; zetel François Sebrechtslaan 47 1080 Sint-Jans-Molenbeek; 2 VE; 0 prior entity rows for 0460.119.104
+- Found: official NBB MIC-VZW native PDF **2026-00408794** (33581 B / 8p; AV 28-07-2026; neergelegd 20/08/2026; MD5 f1192f346117325f22e138f1454f7619). MIC-VZW 9900 **EUR995934** (n/a); 62 **EUR1008022**; 9901 **EUR-45470**; 9904 -46428; equity 319438; cash 33920; FTE n/a.
+- FOI address: lachenillebleue@skynet.be — general crèche mailbox verified on official page https://www.lachenillebleue.be/reglement/ (company number shown; skynet domain).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_fjaril_molenbeek_vaph_matrix_9900_1_00m_9901_loss_45k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2864/; rq_2864=done; spawn **rq_2865**; ticks=2864.
+- Next: **rq_2865 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

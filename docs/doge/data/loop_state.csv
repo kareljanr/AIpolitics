@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T16:29:34Z,rq_2863,2863,no,tick2863 leftover dual Crèche Sainte-Gertrude Bruxelles (Etterbeek) 0417.989.826 Strong PDF 2026-00221607 9900 1.03m / 9901 loss 24k; next rq_2864 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T16:29:43Z,rq_2864,2864,no,tick2864 leftover dual Fjäril (KDV De Blauwe Rups / La Chenille Bleue) Sint-Jans-Molenbeek 0460.119.104 Strong PDF 2026-00408794 9900 1.00m / 9901 loss 45k; next rq_2865 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
