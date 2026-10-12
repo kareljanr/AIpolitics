@@ -30549,3 +30549,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: gaversloeberke@skynet.be — general mailbox verified on official page https://www.harelbeke.be/bedrijvengids/gaversloeberke-vzw (official city of Harelbeke business directory).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_harelbeke); FOI **gap_gaversloeberke_harelbeke_vaph_matrix_9900_0_57m_9901_43k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2773/; rq_2773=done; spawn **rq_2774**; ticks=2773.
 - Next: **rq_2774 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2774 — 2026-10-12T14:01:44Z — rq_2774 leftover dual Engelbewaarder Izegem YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, West-/Oost-Vlaanderen and Leuven/Limburg postcodes: **Engelbewaarder** → KBO 0463.288.133 had 0 prior entity rows.
+- KBO: Actief since 14 mei 1998; VZW; zetel Ommegangstraat 41 8870 Izegem; 10 VE; 0 prior entity rows for 0463.288.133
+- Found: official NBB VKT-VZW native PDF **2026-00227517** (53407 B / 15p; AV 24-06-2026; neergelegd 29/06/2026; MD5 122942ceb19342237af1497a5203f987). VKT-VZW 9900 **EUR4073149** (+6.87%); 62 **EUR3094528**; 9901 **EUR686949** (was 639302); 9904 695938; equity 4981932; cash 266162; FTE 56,2 (was 49,4).
+- FOI address: kdv@engelbewaardervzw.be — general mailbox verified on official page https://engelbewaardervzw.be/voorstelling-kinderdagverblijf/contact-kinderdagverblijf (childcare-centre mailbox of the VZW).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_izegem); FOI **gap_engelbewaarder_izegem_vaph_matrix_9900_4_07m_9901_687k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2774/; rq_2774=done; spawn **rq_2775**; ticks=2774.
+- Next: **rq_2775 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
