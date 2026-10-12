@@ -30265,3 +30265,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@kribbe-bethlehem.be — general mailbox verified on official page https://www.kribbe-bethlehem.be/cox.php?p=contacteer-ons.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_kribbe_bethlehem_antwerpen_vaph_matrix_9900_1_02m_9901_loss_281k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2745/; rq_2745=done; spawn **rq_2746**; ticks=2745.
 - Next: **rq_2746 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2746 — 2026-10-12T13:30:17Z — rq_2746 leftover dual Kribbe Sint-Jacob Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101 (home care) and 88.911 (childcare) activity and name searches, plus Wit-Gele Kruis associations listed on witgelekruis.be: **Kribbe Sint-Jacob** → KBO 0407.416.430 had 0 prior entity rows.
+- KBO: Actief since 16 september 1970; VZW; zetel Vriesenhof 7A 3000 Leuven; 1 VE; 0 prior entity rows for 0407.416.430
+- Found: official NBB VKT-VZW native PDF **2026-00180054** (51595 B / 14p; AV 15-06-2026; neergelegd 22/06/2026; MD5 4bc6f4bba4ede873a16b5bdac8a410d1). VKT-VZW 9900 **EUR1231193** (+3.05%); 62 **EUR1249879**; 9901 **EUR-32387** (was -130906); 9904 -21993; equity 1062690; cash 171818; FTE 21,2 (was 19,4).
+- FOI address: kribbe@kribbesintjacob.be — general mailbox verified on official page https://www.kribbesintjacob.be/contact (KBO number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_kribbe_sint_jacob_leuven_vaph_matrix_9900_1_23m_9901_loss_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2746/; rq_2746=done; spawn **rq_2747**; ticks=2746.
+- Next: **rq_2747 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

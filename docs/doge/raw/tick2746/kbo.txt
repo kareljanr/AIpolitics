@@ -1,0 +1,1 @@
+{"status": "Actief", "begin": "16 september 1970", "rv": "Vereniging zonder winstoogmerk", "addr": "Vriesenhof 7A 3000 Leuven", "ve": "1"}
