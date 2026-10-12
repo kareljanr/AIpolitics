@@ -30954,3 +30954,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@gammesasbl.be — general mailbox verified on official page https://gammesasbl.be/fr_BE/contactus.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_gammes_saint_gilles_vaph_matrix_9900_3_73m_9901_62k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2813/; rq_2813=done; spawn **rq_2814**; ticks=2813.
 - Next: **rq_2814 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2814 — 2026-10-12T15:12:56Z — rq_2814 leftover dual A Vos Côtés 1030 Bruxelles (Schaerbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101/87.301/87.302/87.202 activity searches, Brussels-Capital postcodes (French-language ASBLs), ranked by primary figure: **A Vos Côtés 1030** → KBO 0410.629.011 had 0 prior entity rows.
+- KBO: Actief since 1 november 1958; VZW; zetel Leuvensesteenweg 467 bus 5 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0410.629.011
+- Found: official NBB VKT-VZW native PDF **2026-00157305** (49470 B / 13p; AV 18-05-2026; neergelegd 09/06/2026; MD5 b0f2c206a11c849c96cb00ee9279258f). VKT-VZW 9900 **EUR3526577** (-1.24%); 62 **EUR3673945**; 9901 **EUR-155516** (was 1067); 9904 -149179; equity 268984; cash 441274; FTE 84,8 (was 84,3).
+- FOI address: info@avoscotes1030.be — general mailbox verified on official page https://www.avoscotes1030.be/actualites.php (also on schaerbeek 1030.be; body calls itself asbl communale, COCOF-recognised).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_a_vos_cotes_1030_vaph_matrix_9900_3_53m_9901_loss_156k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2814/; rq_2814=done; spawn **rq_2815**; ticks=2814.
+- Next: **rq_2815 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

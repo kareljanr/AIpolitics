@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T15:12:45Z,rq_2813,2813,no,tick2813 leftover dual Gammes Bruxelles (Saint-Gilles) 0467.262.064 Strong PDF 2026-00185766 9900 3.73m / 9901 62k; next rq_2814 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T15:12:56Z,rq_2814,2814,no,tick2814 leftover dual A Vos Côtés 1030 Bruxelles (Schaerbeek) 0410.629.011 Strong PDF 2026-00157305 9900 3.53m / 9901 loss 156k; next rq_2815 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
