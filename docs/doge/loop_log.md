@@ -32883,3 +32883,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@blmgenk.be — general mailbox verified on official page https://blmgenk.be/contact/ (Oosterring 7C4 and VAT BE0435.914.040 shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_genk); FOI **gap_blm_genk_vaph_matrix_9900_3_16m_9901_36k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3005/; rq_3005=done; spawn **rq_3006**; ticks=3005.
 - Next: **rq_3006 leftover dual** — Extended Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3006 — 2026-10-12T19:02:12Z — rq_3006 leftover dual STW Antwerpen (Borgerhout) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 85.592/87.101/87.301/87.302/88.101/88.109/88.911/88.999, extended to 22 more Flemish city postcodes, plus 88.99x leftovers), unprocessed hits ranked by YE2025 NBB primary figure: **STW** → KBO 0432.766.884 had 0 prior entity rows.
+- KBO: Actief since 19 november 1986; VZW; zetel Kwekerijstraat 61 bus A 2140 Antwerpen; 1 VE; 0 prior entity rows for 0432.766.884
+- Found: official NBB VKT-VZW native PDF **2026-00128071** (176363 B / 16p; AV 11-05-2026; neergelegd 30/05/2026; MD5 24cb6aa53a5da598d8980d886d74fa43). VKT-VZW 9900 **EUR2022391** (+7.83%); 62 **EUR1907166**; 9901 **EUR-11546** (was -186498); 9904 682; equity 301075; cash 148408; FTE 29,6 (was 25,4).
+- FOI address: info@stw.be — general mailbox verified on official page https://stw.be/contact/ (Kwekerijstraat 61a matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_stw_borgerhout_vaph_matrix_9900_2_02m_9901_loss_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3006/; rq_3006=done; spawn **rq_3007**; ticks=3006.
+- Next: **rq_3007 leftover dual** — Extended Flemish multi-code batch in progress; next: remaining units of this batch.

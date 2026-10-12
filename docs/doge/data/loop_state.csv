@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T19:02:03Z,rq_3005,3005,no,tick3005 leftover dual Begeleidingsdienst Limburgs Mijngebied (BLM) Genk 0435.914.040 Strong PDF 2026-00296637 9900 3.16m / 9901 36k; next rq_3006 Extended Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T19:02:12Z,rq_3006,3006,no,tick3006 leftover dual STW Antwerpen (Borgerhout) 0432.766.884 Strong PDF 2026-00128071 9900 2.02m / 9901 loss 12k; next rq_3007 Extended Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
