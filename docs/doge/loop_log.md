@@ -31833,3 +31833,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2900 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-2900 run locally as fallback.
 - Next: **rq_2900** — remaining fresh-scan hits (ESCALE AMO, Synergie 14, Atouts Jeunes, La Gerbe AMO, Promo Jeunes AMO, amo Alhambra), larger first.
+
+
+## Tick 2901 — 2026-10-12T17:17:33Z — rq_2900 leftover dual Warlandis Jette YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Warlandis** → KBO 0462.564.195 had 0 prior entity rows.
+- KBO: Actief since 10 december 1997; VZW; zetel Odon Warlandlaan 209 1090 Jette; 1 VE; 0 prior entity rows for 0462.564.195
+- Found: official NBB VKT-VZW native PDF **2026-00103111** (506167 B / 25p; AV 02-04-2026; neergelegd 04/05/2026; MD5 64a1c07354504bcbc7a5a1e3cb904f36). VKT-VZW 9900 **EUR5759594** (+4.53%); 62 **EUR4221300**; 9901 **EUR701125** (was 676462); 9904 511205; equity 4273422; cash 2010658; FTE 64 (was 60,7).
+- FOI address: info@warlandis.be — general mailbox verified on official page https://www.warlandis.be/7/Contactgegevens (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_warlandis_jette_vaph_matrix_9900_5_76m_9901_701k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2901/; rq_2900=done; spawn **rq_2902**; ticks=2901.
+- Next: **rq_2902 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
