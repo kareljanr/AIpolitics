@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2740** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2730; 2731-2739 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2731-2739 residual dual L5 (not near-complete of 348bn):** Wit-Gele Kruis West-Vlaanderen (Brugge) · Wit-Gele Kruis Limburg (Genk) · Wit-Gele Kruis Antwerpen (Herentals) · Wit-Gele Kruis Vlaams-Brabant (Lubbeek) · Thuiszorg Vleminckveld (Antwerpen) · Liers Centrum voor Gezinszorg (Lier) · MSOC Vlaams-Brabant (Leuven) · Mariahof (Leuven) · Salvator Gezinszorg (Hasselt) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2407** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2459** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2731-2739** Wit-Gele Kruis West-Vlaanderen (Brugge) · Wit-Gele Kruis Limburg (Genk) · Wit-Gele Kruis Antwerpen (Herentals) · Wit-Gele Kruis Vlaams-Brabant (Lubbeek) · Thuiszorg Vleminckveld (Antwerpen) · Liers Centrum voor Gezinszorg (Lier) · MSOC Vlaams-Brabant (Leuven) · Mariahof (Leuven) · Salvator Gezinszorg (Hasselt).
+
+### Inventory (tick 2740)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 57749 |
+| commitments.csv | 6459 |
+| leaderboard.csv | 8579 |
+| entities.csv | 2478 |
+| sources.csv | 8308 |
+| FOI ready | 2407 |
+| FOI total rows | 2459 |
+| research_queue open | rq_2740 (carried; next: Wit-Gele Kruis Oost-Vlaanderen (scanned filing), WGK federation, Dagcentrum Kasteel, Perspectief Oostende) |
+
+### What improved since tick 2730
+
+- **New source (tick2731-2739):** Wit-Gele Kruis West-Vlaanderen (Brugge) · Wit-Gele Kruis Limburg (Genk) · Wit-Gele Kruis Antwerpen (Herentals) · Wit-Gele Kruis Vlaams-Brabant (Lubbeek) · Thuiszorg Vleminckveld (Antwerpen) · Liers Centrum voor Gezinszorg (Lier) · MSOC Vlaams-Brabant (Leuven) · Mariahof (Leuven) · Salvator Gezinszorg (Hasselt). Source: KBO NACE-BEL 88.101 (home care for the elderly), 88.991 (ambulant addiction care) and 87.302 (assistance flats) activity search by postcode, plus the provincial Wit-Gele Kruis associations listed with KBO numbers on witgelekruis.be/contacteer-ons.
+- **FOI addresses:** each verified on an opened official page; general mailboxes except MSOC Vlaams-Brabant (Leuven seat mailbox; no organisation-wide box published). **Data fix tick 2731:** Ter Engelen FOI row and draft now info@hofterengelen.be (completes the tick-2721 entity fix).
+- **Runner note:** 2576-2740 ran on the local fallback runner (Actions last ticked 2575), from the fresh clone /workspace/AIpolitics-loop since 2681; toolkit persistent at /workspace/AIpolitics-loop-tk. Do not run both at once.
+- **Rejected 2731-2739 (fast):** Huis Vandecruys (BV); Participo CM, Thuiszorg Arbeid en Gezondheid, Thuiszorg H.Hart (no verified mailbox); Zusterkens der Armen Brussel (official contact page could not be opened; its 2025 profit EUR5.14m comes from EUR7.66m non-recurring operating income per the filing); Sociaal Centrum Lier (733 empty); Gandae, In-Z (already in repo); De Lochting (financial year ends 31-03-2026); Wit-Gele Kruis Oost-Vlaanderen (scanned -p filing, deferred).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2730** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

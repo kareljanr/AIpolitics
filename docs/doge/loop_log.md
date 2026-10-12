@@ -30204,3 +30204,14 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@salvatorgezinszorg.be — general mailbox verified on official homepage https://www.salvatorgezinszorg.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_hasselt); FOI **gap_salvator_gezinszorg_hasselt_vaph_matrix_9900_0_82m_9901_113k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2739/; rq_2739=done; spawn **rq_2740**; ticks=2739.
 - Next: **rq_2740 leftover dual** — Home-care batch done; next: Wit-Gele Kruis Oost-Vlaanderen 0410.442.335 (filing is a scanned -p model, needs manual read) and the WGK federation 0465.698.582, Dagcentrum Kasteel Turnhout, Perspectief Oostende; skipped: Participo CM, Thuiszorg Arbeid en Gezondheid, Thuiszorg H.Hart (no verified mailbox), Zusterkens der Armen (official mailbox page not openable), Sociaal Centrum Lier (733 empty), Huis Vandecruys (BV).
+
+
+## Tick 2740 — 2026-10-12T13:22:25Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2407** of 2459 rows; inventory budgets 57749 · commitments 6459 · leaderboard 8579 · entities 2478 · sources 8308.
+- Top10: **stable** (2731-2739 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2731-2739: Wit-Gele Kruis West-Vlaanderen (Brugge) · Wit-Gele Kruis Limburg (Genk) · Wit-Gele Kruis Antwerpen (Herentals) · Wit-Gele Kruis Vlaams-Brabant (Lubbeek) · Thuiszorg Vleminckveld (Antwerpen) · Liers Centrum voor Gezinszorg (Lier) · MSOC Vlaams-Brabant (Leuven) · Mariahof (Leuven) · Salvator Gezinszorg (Hasselt).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2740 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2740 run locally as fallback.
+- Source choice (recorded): ticks 2731-2739 used KBO NACE 88.101/88.991/87.302 searches plus the Wit-Gele Kruis provincial list; Ter Engelen FOI row/draft fixed in tick 2731. FOI: general mailboxes only, each verified on an opened official page.
+- Next: **rq_2740** — Wit-Gele Kruis Oost-Vlaanderen 0410.442.335 (scanned filing), WGK federation 0465.698.582, Dagcentrum Kasteel Turnhout, Perspectief Oostende.
