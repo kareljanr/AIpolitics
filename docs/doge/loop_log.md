@@ -30994,3 +30994,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@aidefamiliale.be — general mailbox verified on official page https://www.bruxelles.be/aide-et-services-pour-seniors (City of Brussels page; KBO seat at the Hôtel de Ville — possible communal ASBL, not confirmed, so the voluntary-request wording is used).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_sasb_bruxelles_vaph_matrix_9900_1_86m_9901_loss_333k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2817/; rq_2817=done; spawn **rq_2818**; ticks=2817.
 - Next: **rq_2818 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2818 — 2026-10-12T15:13:30Z — rq_2818 leftover dual La Bastide - Assistance psychologique Bruxelles (Woluwe-Saint-Lambert) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101/87.301/87.302/87.202 activity searches, Brussels-Capital postcodes (French-language ASBLs), ranked by primary figure: **La Bastide - Assistance psychologique** → KBO 0412.672.345 had 0 prior entity rows.
+- KBO: Actief since 26 oktober 1972; VZW; zetel Campaniledoolgang 20 bus 200 1200 Sint-Lambrechts-Woluwe; 1 VE; 0 prior entity rows for 0412.672.345
+- Found: official NBB VKT-VZW native PDF **2026-00172901** (399302 B / 21p; AV 04-06-2026; neergelegd 18/06/2026; MD5 8f3312e2ee1afeff5703fe4d1405a220). VKT-VZW 9900 **EUR1790548** (+8.16%); 62 **EUR1728896**; 9901 **EUR7142** (was -15900); 9904 23409; equity 144764; cash 206312; FTE 24,3 (was 22,5).
+- FOI address: contact@la-bastide.be — general mailbox verified on official page https://la-bastide.be/contact/ (site states COCOF recognition).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_la_bastide_woluwe_vaph_matrix_9900_1_79m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2818/; rq_2818=done; spawn **rq_2819**; ticks=2818.
+- Next: **rq_2819 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
