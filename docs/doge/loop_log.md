@@ -32413,3 +32413,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: ID53@idee53.be — general mailbox verified on official page https://www.idee53.be/ (address Rue du Chimiste 34-36 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_idee53_anderlecht_vaph_matrix_9900_1_50m_9901_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2958/; rq_2958=done; spawn **rq_2959**; ticks=2958.
 - Next: **rq_2959 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
+
+
+## Tick 2959 — 2026-10-12T18:03:01Z — rq_2959 leftover dual Arémis Bruxelles (Schaerbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels 85.592 vocational training and 86.940 in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Arémis** → KBO 0435.948.583 had 0 prior entity rows.
+- KBO: Actief since 14 oktober 1988; VZW; zetel Trooststraat 83 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0435.948.583
+- Found: official NBB VKT-VZW native PDF **2026-00115824** (54971 B / 16p; AV 12-05-2026; neergelegd 19/05/2026; MD5 a69ead4b9fdb9fdd8edfc8a8a4ebbee1). VKT-VZW 9900 **EUR1380034** (+16.07%); 62 **EUR1086084**; 9901 **EUR204503** (was 5963); 9904 204934; equity -742775; cash 112404; FTE 10,9 (was 12,5).
+- FOI address: info@aremis-asbl.org — general mailbox verified on official page https://www.aremis-asbl.org/contactez-nous/ (address Rue de la Consolation 83 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_aremis_schaerbeek_vaph_matrix_9900_1_38m_9901_205k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2959/; rq_2959=done; spawn **rq_2960**; ticks=2959.
+- Next: **rq_2960 leftover dual** — Batch done; next: remaining 85.592/86.940 scan hits below EUR1.5m (ARPAIJE EUR1.33m, Centrale Culturelle Bruxelloise EUR1.32m, Action Vivre Ensemble EUR1.32m, Médecine pour le Peuple Schaerbeek EUR1.26m, Sémiramis EUR1.25m), larger first, or a new activity code; skipped this batch: INOM and Vervolmakingscentrum voor lassers (sector-levy training funds, out of subsidy scope), CF2M and Wit-Gele Kruis van Brussel (mailbox only on third-party pages / none found), Continuing Care (mailbox masked on own site), Palliatief Netwerk Omega (site address differs from KBO), Egmont Institute (federal foundation; Brussels access-to-documents basis does not fit), ACV-CSC International (no own site found).
