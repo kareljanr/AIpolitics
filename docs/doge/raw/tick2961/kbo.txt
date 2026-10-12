@@ -1,0 +1,1 @@
+{"status": "Actief", "begin": "19 september 1977", "rv": "Stichting van openbaar nut", "addr": "Arduinkaai 7 1000 Brussel", "ve": "1"}

@@ -32433,3 +32433,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2960 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-2960 run locally as fallback.
 - Next: **rq_2960** — remaining 85.592/86.940 hits below EUR1.5m (ARPAIJE EUR1.33m, Centrale Culturelle Bruxelloise EUR1.32m, Action Vivre Ensemble EUR1.32m, Médecine pour le Peuple Schaerbeek EUR1.26m, Sémiramis EUR1.25m), or a new activity code.
+
+
+## Tick 2961 — 2026-10-12T18:16:04Z — rq_2960 leftover dual Koninklijke Vlaamse Schouwburg (KVS) Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels culture 90.111/90.120/90.130/90.311/91.110/91.210, plus leftover 85.592/86.940 hits, in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Koninklijke Vlaamse Schouwburg (KVS)** → KBO 0417.534.817 had 0 prior entity rows.
+- KBO: Actief since 19 september 1977; SON; zetel Arduinkaai 7 1000 Brussel; 1 VE; 0 prior entity rows for 0417.534.817
+- Found: official NBB VOL-SON native PDF **2026-00159457** (1119957 B / 76p; AV 23-03-2026; neergelegd 11/06/2026; MD5 10c1741bfb49b3c74a532d935ab4c905). VOL-SON 733 **EUR6053706** (+0.00%); 62 **EUR4547233**; 9901 **EUR-166374** (was 357812); 9904 -185354; equity 1084600; cash 482272; FTE 58,1 (was 55,7).
+- FOI address: info@kvs.be — general mailbox verified on official page https://www.kvs.be/nl/contact (address Arduinkaai 7 matches KBO).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_kvs_brussel_vaph_matrix_733_6_05m_9901_loss_166k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2961/; rq_2960=done; spawn **rq_2962**; ticks=2961.
+- Next: **rq_2962 leftover dual** — Brussels culture (90.x/91.x) + leftover training batch in progress; next: remaining units of this batch.
