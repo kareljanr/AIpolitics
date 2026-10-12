@@ -32853,3 +32853,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@stebo.be — general mailbox verified on official page https://stebo.be/particulieren/contact/ (homebase Windekestraat 1 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_genk); FOI **gap_stebo_genk_vaph_matrix_9900_5_59m_9901_47k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3002/; rq_3002=done; spawn **rq_3003**; ticks=3002.
 - Next: **rq_3003 leftover dual** — Extended Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3003 — 2026-10-12T19:01:44Z — rq_3003 leftover dual Acta Brasschaat YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 85.592/87.101/87.301/87.302/88.101/88.109/88.911/88.999, extended to 22 more Flemish city postcodes, plus 88.99x leftovers), unprocessed hits ranked by YE2025 NBB primary figure: **Acta** → KBO 0445.281.270 had 0 prior entity rows.
+- KBO: Actief since 2 mei 1991; VZW; zetel Ruiterijschool 9 2930 Brasschaat; 1 VE; 0 prior entity rows for 0445.281.270
+- Found: official NBB VKT-VZW native PDF **2026-00071094** (51015 B / 14p; AV 30-03-2026; neergelegd 02/04/2026; MD5 03a40ce0aed0d43e3367c6cebd7b3d30). VKT-VZW 9900 **EUR3347460** (-5.36%); 62 **EUR2631773**; 9901 **EUR179226** (was 323314); 9904 153122; equity 8840706; cash 1365882; FTE 23,3 (was 24,9).
+- FOI address: acta.info@acta-vzw.be — general mailbox verified on official page https://acta-vzw.be/contact/ (Ruiterijschool 9 and VAT BE 445.281.270 shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brasschaat); FOI **gap_acta_brasschaat_vaph_matrix_9900_3_35m_9901_179k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3003/; rq_3003=done; spawn **rq_3004**; ticks=3003.
+- Next: **rq_3004 leftover dual** — Extended Flemish multi-code batch in progress; next: remaining units of this batch.
