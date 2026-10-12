@@ -32813,3 +32813,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: post@sintelisabeth.be — general mailbox verified on official page https://www.sintelisabeth.be/contact (address Herentalsstraat 64 and KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_turnhout); FOI **gap_huize_sint_elisabeth_turnhout_vaph_matrix_9900_2_38m_9901_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2998/; rq_2998=done; spawn **rq_2999**; ticks=2998.
 - Next: **rq_2999 leftover dual** — Flemish 85.592/87.101/88.911 batch in progress; next: remaining units of this batch.
+
+
+## Tick 2999 — 2026-10-12T18:47:02Z — rq_2999 leftover dual Kind Jezus Turnhout YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 85.592 training, 87.101 residential care, 88.911 childcare and related codes in 18 Flemish city postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Kind Jezus** → KBO 0414.118.536 had 0 prior entity rows.
+- KBO: Actief since 27 februari 1974; VZW; zetel Clarissendreef 7 2300 Turnhout; 2 VE; 0 prior entity rows for 0414.118.536
+- Found: official NBB VKT-VZW native PDF **2026-00291441** (49025 B / 13p; AV 12-06-2026; neergelegd 14/07/2026; MD5 06fbb2d20e2d60ffeb2ea8bef62c7ce8). VKT-VZW 9900 **EUR2309929** (+2.49%); 62 **EUR1964095**; 9901 **EUR98620** (was 182685); 9904 177542; equity 5353119; cash 240235; FTE 30,4 (was 30,9).
+- FOI address: post@kindjezus.be — general mailbox verified on official page https://www.kindjezus.be/contact/wie-is-wie (KBO number shown there; address Clarissendreef 7 on https://www.kindjezus.be/).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_turnhout); FOI **gap_kind_jezus_turnhout_vaph_matrix_9900_2_31m_9901_99k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2999/; rq_2999=done; spawn **rq_3000**; ticks=2999.
+- Next: **rq_3000 leftover dual** — Batch done; next: remaining Flemish 85.592/87.10x/88.911 hits (EMMA EUR2.50m, Philippus Neri EUR2.36m), then 88.99x leftovers (STW EUR2.02m, Buurtwerk Posthof EUR2.05m), larger first; skipped this batch: Rode Kruis-Vlaanderen (no general head-office mailbox on own site; site names KBO 0406.729.809), OZOS and Accuria (professional/secretariat bodies, out of scope), Groep Philippus Neri Waasland (personal mailboxes only), Emanuela (no mailbox on own site), Participo CM (site blocks fetch).
