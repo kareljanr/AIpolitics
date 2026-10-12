@@ -30690,3 +30690,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@homevogelzang.be — general mailbox verified on official page https://www.homevogelzang.be/contact-rusthuis-heverlee/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_home_vogelzang_heverlee_vaph_matrix_733_1_50m_9901_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2787/; rq_2787=done; spawn **rq_2788**; ticks=2787.
 - Next: **rq_2788 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2788 — 2026-10-12T14:17:31Z — rq_2788 leftover dual Sint Anna Veurne (Bulskamp) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301 (nursing homes) and 88.101 (home care) activity search, West-/Oost-Vlaanderen and Leuven/Limburg postcodes, ranked by primary figure: **Sint Anna** → KBO 0434.408.758 had 0 prior entity rows.
+- KBO: Actief since 8 december 1987; VZW; zetel Bulskampstraat 39 8630 Veurne; 1 VE; 0 prior entity rows for 0434.408.758
+- Found: official NBB VOL-VZW native PDF **2026-00229945** (1783689 B / 48p; AV 15-06-2026; neergelegd 25/06/2026; MD5 10e5b733f746e13b2207433652f0c0b6). VOL-VZW 733 **EUR1278976** (-4.75%); 62 **EUR5015456**; 9901 **EUR399616** (was 142177); 9904 402150; equity 5208095; cash 2152108; FTE 72,9 (was 76,8).
+- FOI address: st.anna.bulskamp@gvo.be — general mailbox verified on official page https://www.sintanna.gvo.be/nl/contact/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_veurne); FOI **gap_sint_anna_bulskamp_vaph_matrix_733_1_28m_9901_400k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2788/; rq_2788=done; spawn **rq_2789**; ticks=2788.
+- Next: **rq_2789 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
