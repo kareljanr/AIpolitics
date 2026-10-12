@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 3160** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3150; 3151-3159 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3151-3159 residual dual L5 (not near-complete of 348bn):** HE Galilée (Bruxelles) · Collège Saint-André (Auvelais) · KOMO (Mechelen) · Collège Saint-Augustin (Enghien) · Collège Saint-Pierre (Uccle) · Collège Notre-Dame de la Paix (Erpent) · Collège Saint-Augustin (Gerpinnes) · Collège technique Saint-Jean (Wavre) · Collège Notre-Dame des Trois-Vallées (Genval) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2783** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2837** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3151-3159** HE Galilée (Bruxelles) · Collège Saint-André (Auvelais) · KOMO (Mechelen) · Collège Saint-Augustin (Enghien) · Collège Saint-Pierre (Uccle) · Collège Notre-Dame de la Paix (Erpent) · Collège Saint-Augustin (Gerpinnes) · Collège technique Saint-Jean (Wavre) · Collège Notre-Dame des Trois-Vallées (Genval).
+
+### Inventory (tick 3160)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 60908 |
+| commitments.csv | 6837 |
+| leaderboard.csv | 8955 |
+| entities.csv | 2855 |
+| sources.csv | 9444 |
+| FOI ready | 2783 |
+| FOI total rows | 2837 |
+| research_queue open | rq_3160 (carried; next: Filles de Marie Saint-Gilles, Bonne-Espérance, KdG Hogeschool, Godinne-Burnot, Saint-Joseph Florennes; largest code 733 first) |
+
+### What improved since tick 3150
+
+- **New source (tick3151-3159):** HE Galilée (Bruxelles) · Collège Saint-André (Auvelais) · KOMO (Mechelen) · Collège Saint-Augustin (Enghien) · Collège Saint-Pierre (Uccle) · Collège Notre-Dame de la Paix (Erpent) · Collège Saint-Augustin (Gerpinnes) · Collège technique Saint-Jean (Wavre) · Collège Notre-Dame des Trois-Vallées (Genval). Continued the catholic school-board / university-college KBO name search (tick 3141+), ranked by NBB code 733 subsidies, largest first. All picks passed the dedup check (Saint-Augustin Gerpinnes: name-only hit on Saint-Augustin Enghien, distinct KBO).
+- **Toolkit:** data.py: Dutch voluntary hogeschool profile (nl_voluntary) for Flemish university colleges.
+- **FOI addresses:** all 9 mailboxes are general/role mailboxes verified on opened official pages.
+- **Runner note:** 2576-3160 ran on the local fallback runner; GitHub Actions DOGE loop: last run (#6, 2026-10-12 21:20 Brussels time) failed at its Tick step (Grok CLI not signed in); no newer run. Do not run both at once.
+- **Rejected 3151-3159 (fast, ~5 min cap):** Collège de la Lys (contact form only), Collège Saint-Servais Namur (no mailbox readable on official site), Katholieke Hogeschool Vives Zuid (no general mailbox on opened page), Sint-Jan Berchmansinstituut Puurs (no general mailbox readable).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3150** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

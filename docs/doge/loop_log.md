@@ -34432,3 +34432,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat.nda@cnd3v.be — secretariat mailbox verified on official page https://collegetroisvallees.be/notredamedesanges/inscription/ (Rue du Couvent 2, the ASBL KBO seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_cnd_trois_vallees_vaph_matrix_733_10_45m_9901_22k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3159/; rq_3159=done; spawn **rq_3160**; ticks=3159.
 - Next: **rq_3160 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3160 — 2026-10-12T23:53:30Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2783** of 2837 rows; inventory budgets 60908 · commitments 6837 · leaderboard 8955 · entities 2855 · sources 9444.
+- Top10: **stable** (3151-3159 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3151-3159: HE Galilée (Bruxelles) · Collège Saint-André (Auvelais) · KOMO (Mechelen) · Collège Saint-Augustin (Enghien) · Collège Saint-Pierre (Uccle) · Collège Notre-Dame de la Paix (Erpent) · Collège Saint-Augustin (Gerpinnes) · Collège technique Saint-Jean (Wavre) · Collège Notre-Dame des Trois-Vallées (Genval).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3160 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3160 run locally as fallback.
+- Next: **rq_3160** — Institut des Filles de Marie (code 733 EUR10.44m), Bonne-Espérance (EUR8.07m), KdG Hogeschool (EUR7.15m; Dutch voluntary draft), Godinne-Burnot (EUR6.94m), Saint-Joseph Florennes (EUR6.24m), all mailboxes verified, after the dedup check.
