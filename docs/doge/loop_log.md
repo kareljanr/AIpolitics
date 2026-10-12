@@ -28895,3 +28895,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00328105** (49583 B / 13p; AV 02-06-2026; neergelegd 24/07/2026; MD5 c0aa17bd20316d12f69862b023345980). VKT-VZW 9900 **EUR1613432** (+3.30%); 62 **EUR1566322**; 9901 **EUR36454** (was 29318); 9904 41834; equity 538990; cash 466645; FTE 20,9 (was 18,8).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.70; entities +1 (parent city_hooglede); FOI **gap_dop_west_vlaanderen_hooglede_vaph_matrix_9900_1_61m_9901_36k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2603/; rq_2603=done; spawn **rq_2604**; ticks=2603.
 - Next: **rq_2604 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2604 — 2026-10-12T07:58:17Z — rq_2604 leftover dual Dienst Ondersteuningsplan Limburg Hasselt YE2025 (local fallback runner)
+
+- Hunt: NEW CANDIDATE SOURCE VAPH adreslijst Dienst Ondersteuningsplan (f[0]=tid:1397): **Dienst Ondersteuningsplan Limburg** → KBO 0841.557.746 had 0 prior entity rows.
+- KBO: Actief since 30 november 2011; VZW; zetel Kempische Steenweg 293 bus 37, 3500 Hasselt; 1 VE; 0 prior entity rows for 0841.557.746
+- Found: official NBB VKT-VZW native PDF **2026-00536735** (45496 B / 11p; AV 15-06-2026; neergelegd 30/09/2026; MD5 067c625db51375e973f1c11e0ad1088c). VKT-VZW 9900 **EUR1420580** (+12.29%); 62 **EUR1406846**; 9901 **EUR-7411** (was 14877); 9904 -7906; equity 145052; cash 211500; FTE 20,2 (was 17,2).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.70; entities +1 (parent city_hasselt); FOI **gap_dop_limburg_hasselt_vaph_matrix_9900_1_42m_9901_loss_7k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2604/; rq_2604=done; spawn **rq_2605**; ticks=2604.
+- Next: **rq_2605 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
