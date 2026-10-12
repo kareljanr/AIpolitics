@@ -29768,3 +29768,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@jeugdzorg.be — general mailbox verified on official page https://www.jeugdzorg.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_nazareth_depinte); FOI **gap_jeugdzorg_nazareth_vaph_matrix_9900_4_00m_9901_255k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2696/; rq_2696=done; spawn **rq_2697**; ticks=2696.
 - Next: **rq_2697 leftover dual** — OVBJ leftover re-check across the 5 provincial lists (KBO-number match) in progress; next: remaining re-check leftovers, then KBO NACE 87/88 lists.
+
+
+## Tick 2697 — 2026-10-12T09:02:54Z — rq_2697 leftover dual Lionshulp Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Oost-Vlaanderen list (re-check leftovers): **Lionshulp** → KBO 0410.124.611 had 0 prior entity rows.
+- KBO: Actief since 11 januari 1962; VZW; zetel Golfweg 1 9000 Gent; 1 VE; 0 prior entity rows for 0410.124.611
+- Found: official NBB MIC-VZW native PDF **2026-00060823** (49675 B / 12p; AV 17-03-2026; neergelegd 24/03/2026; MD5 6829f1e8029bd5bc64a9ec2c1baee7c6). MIC-VZW 9900 **EUR1907936** (+6.64%); 62 **EUR1800941**; 9901 **EUR96762** (was -10703); 9904 98513; equity 652925; cash 153736; FTE 25 (was 25,4).
+- FOI address: lions@lionshulp.be — general organisation mailbox verified on official homepage https://www.lionshulp.be/ (published there for applications; no separate info address).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_lionshulp_gent_vaph_matrix_9900_1_91m_9901_97k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2697/; rq_2697=done; spawn **rq_2698**; ticks=2697.
+- Next: **rq_2698 leftover dual** — OVBJ leftover re-check across the 5 provincial lists (KBO-number match) in progress; next: remaining re-check leftovers, then KBO NACE 87/88 lists.
