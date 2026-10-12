@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T19:51:44Z,rq_3022,3022,no,tick3022 leftover dual Woonzorgnetwerk Spirit Jabbeke (Varsenare) 0716.915.518 Strong PDF 2026-00198815 733 4.68m / 9901 157k; next rq_3023 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T19:51:54Z,rq_3023,3023,no,tick3023 leftover dual Toegankelijk Vlaanderen (Inter) Hasselt 0550.914.072 Strong PDF 2026-00066635 9900 3.57m / 9901 loss 108k; next rq_3024 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

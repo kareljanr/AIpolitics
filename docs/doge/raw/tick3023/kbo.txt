@@ -1,0 +1,1 @@
+{"status": "Actief", "begin": "25 april 2014", "rv": "Private stichting", "addr": "Belgiëplein 1 3510 Hasselt", "ve": "1"}

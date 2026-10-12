@@ -33053,3 +33053,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@wznspirit.be — general mailbox of the registered seat verified on official page https://www.wznspirit.be/Contact (de Manlaan 50c and KBO number shown there).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_jabbeke); FOI **gap_wzn_spirit_jabbeke_vaph_matrix_733_4_68m_9901_157k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3022/; rq_3022=done; spawn **rq_3023**; ticks=3022.
 - Next: **rq_3023 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3023 — 2026-10-12T19:51:54Z — rq_3023 leftover dual Toegankelijk Vlaanderen (Inter) Hasselt YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish multi-code 85.592/87.101/87.301/88.101/88.911/88.991/88.993/88.999, extended to ~190 further Flemish municipality postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Toegankelijk Vlaanderen (Inter)** → KBO 0550.914.072 had 0 prior entity rows.
+- KBO: Actief since 25 april 2014; PS; zetel Belgiëplein 1 3510 Hasselt; 1 VE; 0 prior entity rows for 0550.914.072
+- Found: official NBB VKT-PS native PDF **2026-00066635** (217388 B / 22p; AV 23-03-2026; neergelegd 30/03/2026; MD5 8b07307b4d0b29a965da0508ee41613d). VKT-PS 9900 **EUR3569202** (+1.33%); 62 **EUR3652196**; 9901 **EUR-108077** (was -64045); 9904 -74232; equity 1986094; cash 1419468; FTE 39,5 (was 40,2).
+- FOI address: info@inter.vlaanderen — general mailbox verified on official page https://www.vlaanderen.be/inter/contact (registered seat Belgiëplein 1, legal name Toegankelijk Vlaanderen, private foundation, KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_hasselt); FOI **gap_inter_toegankelijk_vlaanderen_vaph_matrix_9900_3_57m_9901_loss_108k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3023/; rq_3023=done; spawn **rq_3024**; ticks=3023.
+- Next: **rq_3024 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
