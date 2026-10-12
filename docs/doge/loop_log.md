@@ -32443,3 +32443,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kvs.be — general mailbox verified on official page https://www.kvs.be/nl/contact (address Arduinkaai 7 matches KBO).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_kvs_brussel_vaph_matrix_733_6_05m_9901_loss_166k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2961/; rq_2960=done; spawn **rq_2962**; ticks=2961.
 - Next: **rq_2962 leftover dual** — Brussels culture (90.x/91.x) + leftover training batch in progress; next: remaining units of this batch.
+
+
+## Tick 2962 — 2026-10-12T18:16:14Z — rq_2962 leftover dual Centre Mondial de l'Automobile - Wereldautomobielcentrum (Autoworld) Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels culture 90.111/90.120/90.130/90.311/91.110/91.210, plus leftover 85.592/86.940 hits, in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Centre Mondial de l'Automobile - Wereldautomobielcentrum (Autoworld)** → KBO 0430.368.610 had 0 prior entity rows.
+- KBO: Actief since 20 december 1984; VZW; zetel Jubelpark 11 1000 Brussel; 1 VE; 0 prior entity rows for 0430.368.610
+- Found: official NBB VKT-VZW native PDF **2026-00109237** (60709 B / 17p; AV 07-05-2026; neergelegd 12/05/2026; MD5 b2b1fd54feb8eb5ddf5cbf036feb9ea6). VKT-VZW 9900 **EUR1698458** (+14.84%); 62 **EUR835383**; 9901 **EUR666736** (was 500058); 9904 669563; equity 2437006; cash 657437; FTE 14,5 (was 14,1).
+- FOI address: info@autoworld.be — general mailbox verified on official page https://www.autoworld.be/contact (address Jubelpark 11 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_autoworld_brussel_vaph_matrix_9900_1_70m_9901_667k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2962/; rq_2962=done; spawn **rq_2963**; ticks=2962.
+- Next: **rq_2963 leftover dual** — Brussels culture (90.x/91.x) + leftover training batch in progress; next: remaining units of this batch.
