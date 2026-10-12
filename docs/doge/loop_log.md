@@ -32463,3 +32463,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@aml-cfwb.be — main contact mailbox verified on official page https://aml-cfwb.be/infos-pratiques/contacts/ (registered office Bd de l'Empereur 4 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_aml_bruxelles_vaph_matrix_9900_1_66m_9901_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2963/; rq_2963=done; spawn **rq_2964**; ticks=2963.
 - Next: **rq_2964 leftover dual** — Brussels culture (90.x/91.x) + leftover training batch in progress; next: remaining units of this batch.
+
+
+## Tick 2964 — 2026-10-12T18:16:34Z — rq_2964 leftover dual La Fonderie Bruxelles (Molenbeek-Saint-Jean) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels culture 90.111/90.120/90.130/90.311/91.110/91.210, plus leftover 85.592/86.940 hits, in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **La Fonderie** → KBO 0425.593.042 had 0 prior entity rows.
+- KBO: Actief since 17 mei 1983; VZW; zetel Ransfortstraat 27 1080 Sint-Jans-Molenbeek; 2 VE; 0 prior entity rows for 0425.593.042
+- Found: official NBB VKT-VZW native PDF **2026-00379579** (55198 B / 15p; AV 13-07-2026; neergelegd 04/08/2026; MD5 016f82f19bd67a1c5f2dbe00b10804e3). VKT-VZW 9900 **EUR1465774** (+4.12%); 62 **EUR1377761**; 9901 **EUR60281** (was 19185); 9904 57339; equity 158991; cash 394448; FTE 34,8 (was 32).
+- FOI address: info@lafonderie.be — general mailbox verified on official page https://www.lafonderie.be/contact (address Rue Ransfort 27 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_la_fonderie_molenbeek_vaph_matrix_9900_1_47m_9901_60k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2964/; rq_2964=done; spawn **rq_2965**; ticks=2964.
+- Next: **rq_2965 leftover dual** — Brussels culture (90.x/91.x) + leftover training batch in progress; next: remaining units of this batch.
