@@ -31803,3 +31803,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@prospective-jeunesse.be — general mailbox verified on official page https://prospective-jeunesse.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_prospective_jeunesse_ixelles_vaph_matrix_9900_0_71m_9901_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2897/; rq_2897=done; spawn **rq_2898**; ticks=2897.
 - Next: **rq_2898 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2898 — 2026-10-12T16:49:21Z — rq_2898 leftover dual Amos - Action en Milieu ouvert à Schaerbeek Bruxelles (Schaerbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Amos - Action en Milieu ouvert à Schaerbeek** → KBO 0454.019.287 had 0 prior entity rows.
+- KBO: Actief since 30 oktober 1992; VZW; zetel L'Olivierstraat 90 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0454.019.287
+- Found: official NBB MIC-VZW native PDF **2026-00193526** (39783 B / 10p; AV 15-06-2026; neergelegd 24/06/2026; MD5 4093220f18d485a68eb76b48e641a92f). MIC-VZW 9900 **EUR680619** (+0.87%); 62 **EUR653038**; 9901 **EUR23707** (was 4812); 9904 27399; equity 101148; cash 255007; FTE n/a.
+- FOI address: info@amos-amo.be — general mailbox verified on official page https://www.amos-amo.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_amos_amo_schaerbeek_vaph_matrix_9900_0_68m_9901_24k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2898/; rq_2898=done; spawn **rq_2899**; ticks=2898.
+- Next: **rq_2899 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

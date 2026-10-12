@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T16:49:12Z,rq_2897,2897,no,tick2897 leftover dual Prospective Jeunesse Bruxelles (Ixelles) 0458.326.186 Strong PDF 2026-00333747 9900 0.71m / 9901 3k; next rq_2898 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T16:49:21Z,rq_2898,2898,no,tick2898 leftover dual Amos - Action en Milieu ouvert à Schaerbeek Bruxelles (Schaerbeek) 0454.019.287 Strong PDF 2026-00193526 9900 0.68m / 9901 24k; next rq_2899 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
