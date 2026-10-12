@@ -34052,3 +34052,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: asd.tournai@fasd.be — office mailbox asd.tournai@fasd.be verified on official ASD Hainaut Picardie contact page https://hpic.aideetsoinsadomicile.be/contact/ (listed for the Tournai head office, Rue du Quesnoy 39, which is also this ASBL KBO seat); the page footer lists this ASBL's BCE number among the group members.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_cjb_tale_vaph_matrix_733_2_47m_9901_401k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3121/; rq_3120=done; spawn **rq_3122**; ticks=3121.
 - Next: **rq_3122 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3122 — 2026-10-12T22:58:20Z — rq_3122 leftover dual Aide et Soins à Domicile Hainaut Picardie (ASD Hainaut Picardie) Tournai YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon home-help and family-help services (services d'aide aux familles et aînés, ASD, CSD; KBO name search over ~30 home-help names, filings ranked by NBB code 733 operating subsidies, largest first; Brussels Aide familiale and the large Flemish services already entities); every candidate passed the name/alias/KBO/website dedup check: **Aide et Soins à Domicile Hainaut Picardie (ASD Hainaut Picardie)** → KBO 0465.068.577 had 0 prior entity rows.
+- KBO: Actief since 10 september 1998; VZW; zetel Rue du Quesnoy(TOU) 39 7500 Tournai; 4 VE; 0 prior entity rows for 0465.068.577
+- Found: official NBB VOL-VZW native PDF **2026-00344394** (918397 B / 51p; AV 25-06-2026; neergelegd 27/07/2026; MD5 75a3758a19c168111989496fd45aef70). VOL-VZW 73 contributions, gifts, legacies and subsidies, not split (NOT subsidies alone) **EUR15529434** (+2.54%); 62 **EUR16043506**; 9901 **EUR92067** (was 704155); 9904 148495; equity 3475127; cash 3597848; FTE 369,9 (was 365,6).
+- FOI address: asd.tournai@fasd.be — office mailbox asd.tournai@fasd.be verified on official ASD Hainaut Picardie contact page https://hpic.aideetsoinsadomicile.be/contact/ (listed for the head office (siège social), Rue du Quesnoy 39); the page footer lists this ASBL's BCE number among the group members.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_asd_hainaut_picardie_code73_subsidy_split_73_contrib-gifts-legacies-subsidies-not-split_15_53m_9901_92k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3122/; rq_3122=done; spawn **rq_3123**; ticks=3122.
+- Next: **rq_3123 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
