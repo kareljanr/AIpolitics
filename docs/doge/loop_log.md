@@ -32893,3 +32893,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@stw.be — general mailbox verified on official page https://stw.be/contact/ (Kwekerijstraat 61a matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_stw_borgerhout_vaph_matrix_9900_2_02m_9901_loss_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3006/; rq_3006=done; spawn **rq_3007**; ticks=3006.
 - Next: **rq_3007 leftover dual** — Extended Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3007 — 2026-10-12T19:02:21Z — rq_3007 leftover dual Autisme Vlaanderen Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 85.592/87.101/87.301/87.302/88.101/88.109/88.911/88.999, extended to 22 more Flemish city postcodes, plus 88.99x leftovers), unprocessed hits ranked by YE2025 NBB primary figure: **Autisme Vlaanderen** → KBO 0424.419.639 had 0 prior entity rows.
+- KBO: Actief since 27 november 1982; VZW; zetel Groot Begijnhof 73 9040 Gent; 1 VE; 0 prior entity rows for 0424.419.639
+- Found: official NBB VKT-VZW native PDF **2026-00110856** (49235 B / 14p; AV 23-03-2026; neergelegd 13/05/2026; MD5 d75187d681ef2fce450ef625ee09e02c). VKT-VZW 9900 **EUR2000405** (+358.76%); 62 **EUR694388**; 9901 **EUR363423** (was -145444); 9904 337923; equity 1869262; cash 811590; FTE 9,7 (was 9).
+- FOI address: contact@autismevlaanderen.be — general mailbox verified on official page https://autismevlaanderen.be/ (address Groot Begijnhof 73 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_autisme_vlaanderen_vaph_matrix_9900_2_00m_9901_363k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3007/; rq_3007=done; spawn **rq_3008**; ticks=3007.
+- Next: **rq_3008 leftover dual** — Extended Flemish multi-code batch in progress; next: remaining units of this batch.
