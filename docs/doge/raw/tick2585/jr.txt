@@ -1,0 +1,727 @@
+2026-00227391      0429815809   2025   EUR   23.0.10    m04-f      26/06/2026   14                             VKT-VZW 1
+
+
+
+
+                           JAARREKENING EN ANDERE OVEREENKOMSTIG
+                             HET WETBOEK VAN VENNOOTSCHAPPEN EN
+                           VERENIGINGEN NEER TE LEGGEN DOCUMENTEN
+
+
+
+IDENTIFICATIEGEGEVENS (op datum van de neerlegging)
+
+Naam :               Mobilant vzw
+Rechtsvorm :         Vereniging zonder winstoogmerk
+Adres :     Plantin en Moretuslei                                         Nr : 155                  Bus :
+Postnummer : 2140                   Gemeente :    Borgerhout (Antwerpen)
+Land :    België
+Rechtspersonenregister (RPR) - Ondernemingsrechtbank van          Antwerpen, afdeling Antwerpen
+Internetadres :
+E-mailadres :      dinaelkadaoui@mobilant.be
+
+
+
+                                                                Ondernemingsnummer                 0429.815.809
+
+
+
+Datum van de neerlegging van het recentste stuk dat de datum van bekendmaking van de
+                                                                                                        06-06-1984
+oprichtingsakte en van de akte tot statutenwijziging vermeldt
+
+
+
+JAARREKENING in            EURO         goedgekeurd door de algemene vergadering van              18-06-2026
+
+
+    met betrekking tot het boekjaar dat de periode dekt van          01-01-2025      tot      31-12-2025
+
+
+                                        Vorig boekjaar van           01-01-2024      tot      31-12-2024
+
+
+De bedragen van het vorige boekjaar zijn identiek met die welke eerder openbaar werden gemaakt.
+
+
+
+Nummers van de secties van het standaardmodel die niet werden neergelegd omdat ze niet dienstig zijn :
+
+ VKT-VZW 6.2, VKT-VZW 6.5, VKT-VZW 6.6, VKT-VZW 7, VKT-VZW 8
+
+
+
+
+                                                                                                                Page 1 of 14
+N°      0429815809                                                                                             VKT-VZW 2
+
+
+                                     LIJST VAN DE BESTUURDERS EN COMMISSARISSEN
+
+
+
+
+LIJST VAN DE BESTUURDERS EN COMMISSARISSEN
+
+VOLLEDIGE LIJST met naam, voornamen, beroep, woonplaats (adres, nummer, postnummer en gemeente) en functie in de vereniging
+of stichting
+
+
+
+Decrick Annemie
+Bestuurder
+Pastoor Woutersstraat 20
+1850 Grimbergen
+BELGIË
+
+
+Offeciers Eric
+Voorzitter van de Raad van Bestuur
+Tulpenlaan 14
+2620 Hemiksem
+BELGIË
+
+
+Verlinden Heidi
+Bestuurder
+Boomsestraat 5
+2845 Niel
+BELGIË
+
+
+Van Loon Kathleen
+Bestuurder
+Troyentenhoflaan 78
+2600 Berchem (Antwerpen)
+BELGIË
+
+
+Mesdag Stefaan
+Bestuurder
+Heidelaan 27
+2547 Lint
+BELGIË
+
+
+Naert Steven
+Bestuurder
+Hoge Aardstraat 17
+2610 Wilrijk (Antwerpen)
+BELGIË
+
+
+De Smedt Ward
+Bestuurder
+Lysenstraat 11
+2600 Berchem (Antwerpen)
+BELGIË
+
+
+
+
+                                                                                                                 Page 2 of 14
+N°      0429815809                                                                               VKT-VZW 3.1
+
+
+                                              JAARREKENING
+
+
+
+BALANS NA WINSTVERDELING
+
+                                                      Toel.     Codes   Boekjaar              Vorig boekjaar
+
+ ACTIVA
+ OPRICHTINGSKOSTEN                                             20                        0                        0
+
+ VASTE ACTIVA                                                  21/28           2.461.824                1.316.028
+
+ Immateriële vaste activa                              6.1.1   21                  308.230                203.118
+
+ Materiële vaste activa                                6.1.2   22/27           2.145.699                1.105.900
+     Terreinen en gebouwen                                     22            2.042.760                   983.515
+     Installaties, machines en uitrusting                      23                   47.550                 53.262
+     Meubilair en rollend materieel                            24                   55.389                 69.123
+     Leasing en soortgelijke rechten                           25                                                0
+     Overige materiële vaste activa                            26                                                0
+     Activa in aanbouw en vooruitbetalingen                    27                                                0
+
+ Financiële vaste activa                               6.1.3   28                     7.895                    7.010
+
+ VLOTTENDE ACTIVA                                              29/58           1.513.058                2.199.487
+
+ Vorderingen op meer dan één jaar                              29                                                 0
+     Handelsvorderingen                                        290
+
+     Overige vorderingen                                       291
+
+                                                               3
+ Voorraden en bestellingen in uitvoering
+     Voorraden                                                 30/36                                             0
+     Bestellingen in uitvoering                                37                                                0
+
+ Vorderingen op ten hoogste één jaar                           40/41               547.210                300.419
+     Handelsvorderingen                                        40                  192.479                 84.775
+     Overige vorderingen                                       41                  354.731               215.644
+
+ Geldbeleggingen                                               50/53               613.589                624.764
+
+ Liquide middelen                                              54/58               333.634              1.113.577
+
+ Overlopende rekeningen                                        490/1                 18.625               160.727
+
+ TOTAAL VAN DE ACTIVA                                          20/58           3.974.882                3.515.515
+
+
+
+
+                                                                                                       Page 3 of 14
+N°      0429815809                                                                                                          VKT-VZW 3.2
+
+                                                                                 Toel.     Codes   Boekjaar              Vorig boekjaar
+
+ PASSIVA
+ EIGEN VERMOGEN                                                                           10/15           2.246.976                2.227.584
+
+ Fondsen van de vereniging of stichting                                             6.2   10                    78.223                    78.223
+
+ Herwaarderingsmeerwaarden                                                                12                        0                         0
+
+ Bestemde fondsen en andere reserves                                                6.2   13              1.285.738                1.291.805
+
+ Overgedragen winst (verlies)                                          (+)/(-)            14                  883.015                857.556
+
+ Kapitaalsubsidies                                                                        15                        0                         0
+
+ VOORZIENINGEN EN UITGESTELDE BELASTINGEN                                           6.2   16                   65.000                     65.000
+
+ Voorzieningen voor risico's en kosten                                                    160/5                 65.000                    65.000
+     Pensioenen en soortgelijke verplichtingen                                            160                                                0
+     Belastingen                                                                          161                                                0
+     Grote herstellings- en onderhoudswerken                                              162                  40.000                 20.000
+     Milieuverplichtingen                                                                 163                                                0
+     Overige risico's en kosten                                                           164/5                25.000                 45.000
+
+ Voorzieningen voor terug te betalen subsidies en legaten en                              167                                                 0
+ voor schenkingen met terugnemingsrecht
+
+ Uitgestelde belastingen                                                                  168                                                 0
+
+ SCHULDEN                                                                                 17/49           1.662.906                1.222.931
+
+ Schulden op meer dan één jaar                                                      6.3   17                  643.008                123.462
+     Financiële schulden                                                                  170/4               643.008               123.462
+       Kredietinstellingen, leasingschulden en soortgelijke schulden                      172/3          643.008                  123.462
+       Overige leningen                                                                   174/0
+
+     Handelsschulden                                                                      175                                                0
+     Vooruitbetalingen op bestellingen                                                    176                                                0
+     Overige schulden                                                                     178/9                                              0
+
+ Schulden op ten hoogste één jaar                                                   6.3   42/48           1.010.125                1.090.991
+     Schulden op meer dan één jaar die binnen het jaar vervallen                          42                   75.279                 43.576
+     Financiële schulden                                                                  43                       0                         0
+       Kredietinstellingen                                                                430/8
+
+       Overige leningen                                                                   439
+
+     Handelsschulden                                                                      44                  169.024               179.951
+       Leveranciers                                                                       440/4          169.024                  179.951
+       Te betalen wissels                                                                 441
+
+     Vooruitbetalingen op bestellingen                                                    46                                                 0
+     Schulden met betrekking tot belastingen, bezoldigingen en                            45                  764.744               866.361
+     sociale lasten
+       Belastingen                                                                        450/3          764.744                  162.385
+       Bezoldigingen en sociale lasten                                                    454/9                                   703.976
+     Overige schulden                                                                     48                    1.078                     1.103
+
+ Overlopende rekeningen                                                                   492/3                  9.773                     8.478
+
+ TOTAAL VAN DE PASSIVA                                                                    10/49           3.974.882                3.515.515
+
+
+
+
+                                                                                                                                  Page 4 of 14
+N°      0429815809                                                                                                           VKT-VZW 4
+
+
+RESULTATENREKENING
+
+                                                                              Toel.     Codes   Boekjaar               Vorig boekjaar
+
+ Bedrijfsopbrengsten en bedrijfskosten
+     Brutomarge                                                     (+)/(-)            9900          5.300.263                  5.208.576
+       Waarvan: niet-recurrente bedrijfsopbrengsten                                    76A                     0                          0
+       Omzet                                                                           70             127.969                   132.926
+       Lidgeld, schenkingen, legaten en subsidies                                      73           5.488.716                 5.381.761
+       Handelsgoederen, grond- en hulpstoffen, diensten en                             60/61          481.945                   379.150
+       diverse goederen
+     Bezoldigingen, sociale lasten en pensioenen                    (+)/(-)            62            5.142.951                  5.169.217
+     Afschrijvingen en waardeverminderingen op oprichtingskosten,                      630                 166.798                136.433
+     op immateriële en materiële vaste activa
+     Waardeverminderingen op voorraden, op bestellingen in
+     uitvoering en op handelsvorderingen: toevoegingen              (+)/(-)            631/4                       0                          0
+     (terugnemingen)
+     Voorzieningen voor risico's en kosten: toevoegingen            (+)/(-)            635/9                       0               -66.735
+     (bestedingen en terugnemingen)
+     Andere bedrijfskosten                                                             640/8                30.495                  26.176
+     Als herstructureringskosten geactiveerde bedrijfskosten            (-)            649
+
+     Niet-recurrente bedrijfskosten                                                    66A                   2.940                      3.894
+
+ Bedrijfswinst (Bedrijfsverlies)                                    (+)/(-)            9901                 -42.921                 -60.409
+
+ Financiële opbrengsten                                                          6.4   75/76B                74.041                     92.034
+     Recurrente financiële opbrengsten                                                 75                    5.400                      3.910
+     Niet-recurrente financiële opbrengsten                                            76B                  68.641                  88.124
+
+ Financiële kosten                                                               6.4   65/66B                11.729                      8.046
+     Recurrente financiële kosten                                                      65                   11.729                      8.046
+     Niet-recurrente financiële kosten                                                 66B                         0                          0
+
+ Winst (Verlies) van het boekjaar vóór belasting                    (+)/(-)            9903                  19.391                     23.579
+
+ Onttrekking aan de uitgestelde belastingen                                            780                         0                          0
+
+ Overboeking naar de uitgestelde belastingen                                           680                         0                          0
+
+ Belastingen op het resultaat                                       (+)/(-)            67/77                       0                          0
+
+ Winst (Verlies) van het boekjaar                                   (+)/(-)            9904                  19.391                     23.579
+
+ Onttrekking aan de belastingvrije reserves                                            789                         0                          0
+
+ Overboeking naar de belastingvrije reserves                                           689                         0                          0
+
+ Te bestemmen winst (verlies) van het boekjaar                      (+)/(-)            9905                  19.391                     23.579
+
+
+
+
+                                                                                                                                Page 5 of 14
+N°      0429815809                                                                                               VKT-VZW 5
+
+
+RESULTAATVERWERKING
+
+                                                                               Codes   Boekjaar             Vorig boekjaar
+
+ Te bestemmen winst (verlies)                                       (+)/(-)   9906                876.947             1.032.014
+     Te bestemmen winst (verlies) van het boekjaar                  (+)/(-)   (9905)              19.391                23.579
+     Overgedragen winst (verlies) van het vorige boekjaar           (+)/(-)   14P             857.556               1.008.435
+
+ Onttrekking aan het eigen vermogen: fondsen, bestemde fondsen en             791                   6.068                    0
+ andere reserves
+
+ Toevoeging aan de bestemde fondsen en andere reserves                        691                      0                174.458
+
+ Over te dragen winst (verlies)                                     (+)/(-)   (14)                883.015               857.556
+
+
+
+
+                                                                                                                     Page 6 of 14
+N°      0429815809                                                                                            VKT-VZW 6.1.1
+
+
+TOELICHTING
+
+STAAT VAN DE VASTE ACTIVA
+
+                                                                                 Codes   Boekjaar             Vorig boekjaar
+
+ IMMATERIËLE VASTE ACTIVA
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8059P    XXXXXXXXXX                       293.340
+
+ Mutaties tijdens het boekjaar
+     Aanschaffingen, met inbegrip van de geproduceerde vaste activa             8029            172.025
+     Overdrachten en buitengebruikstellingen                                    8039
+
+     Overboekingen van een post naar een andere                       (+)/(-)   8049
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8059                465.365
+
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8129P    XXXXXXXXXX                            90.222
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                                    8079                66.914
+     Teruggenomen                                                               8089
+
+     Verworven van derden                                                       8099
+
+     Afgeboekt na overdrachten en buitengebruikstellingen                       8109
+
+     Overgeboekt van een post naar een andere                         (+)/(-)   8119                    -1
+
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8129                157.135
+
+ NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR                                     (21)                308.230
+
+
+
+
+                                                                                                                       Page 7 of 14
+N°      0429815809                                                                                             VKT-VZW 6.1.2
+
+                                                                                 Codes    Boekjaar             Vorig boekjaar
+
+ MATERIËLE VASTE ACTIVA
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8199P     XXXXXXXXXX                     1.880.804
+
+ Mutaties tijdens het boekjaar
+     Aanschaffingen, met inbegrip van de geproduceerde vaste activa             8169           1.136.049
+     Overdrachten en buitengebruikstellingen                                    8179                     0
+     Overboekingen van een post naar een andere                       (+)/(-)   8189                     0
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8199            3.016.853
+
+ Meerwaarden per einde van het boekjaar                                         8259P     XXXXXXXXXX                            0
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                                    8219
+
+     Verworven van derden                                                       8229
+
+     Afgeboekt                                                                  8239
+
+     Overgeboekt van een post naar een andere                         (+)/(-)   8249
+
+                                                                                8259
+ Meerwaarden per einde van het boekjaar
+
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8329P     XXXXXXXXXX                       774.904
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                                    8279                 99.884
+     Teruggenomen                                                               8289
+
+     Verworven van derden                                                       8299
+
+     Afgeboekt na overdrachten en buitengebruikstellingen                       8309                  3.634
+     Overgeboekt van een post naar een andere                         (+)/(-)   8319
+
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8329                 871.154
+
+ NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR                                     (22/27)         2.145.699
+
+ WAARVAN
+     In volle eigendom van de vereniging of stichting                           8349
+
+
+
+
+                                                                                                                        Page 8 of 14
+N°      0429815809                                                                                VKT-VZW 6.1.3
+
+                                                                       Codes   Boekjaar           Vorig boekjaar
+
+ FINANCIËLE VASTE ACTIVA
+
+ Aanschaffingswaarde per einde van het boekjaar                       8395P    XXXXXXXXXX                          7.010
+
+ Mutaties tijdens het boekjaar
+     Aanschaffingen                                                   8365                885
+     Overdrachten en buitengebruikstellingen                          8375
+
+     Overboekingen van een post naar een andere             (+)/(-)   8385
+
+     Andere mutaties                                        (+)/(-)   8386
+
+ Aanschaffingswaarde per einde van het boekjaar                       8395                7.895
+
+ Meerwaarden per einde van het boekjaar                               8455P    XXXXXXXXXX
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                          8415
+
+     Verworven van derden                                             8425
+
+     Afgeboekt                                                        8435
+
+     Overgeboekt van een post naar een andere               (+)/(-)   8445
+
+                                                                      8455
+ Meerwaarden per einde van het boekjaar
+
+ Waardeverminderingen per einde van het boekjaar                      8525P    XXXXXXXXXX
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                          8475
+
+     Teruggenomen                                                     8485
+
+     Verworven van derden                                             8495
+
+     Afgeboekt na overdrachten en buitengebruikstellingen             8505
+
+     Overgeboekt van een post naar een andere               (+)/(-)   8515
+
+                                                                      8525
+ Waardeverminderingen per einde van het boekjaar
+
+ Niet-opgevraagde bedragen per einde van het boekjaar                 8555P    XXXXXXXXXX
+                                                            (+)/(-)   8545
+ Mutaties tijdens het boekjaar
+                                                                      8555
+ Niet-opgevraagde bedragen per einde van het boekjaar
+
+ NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR                           (28)                7.895
+
+
+
+
+                                                                                                           Page 9 of 14
+N°      0429815809                                                                                                VKT-VZW 6.3
+
+
+STAAT VAN DE SCHULDEN
+
+                                                                                                          Codes   Boekjaar
+
+ UITSPLITSING VAN DE SCHULDEN MET EEN OORSPRONKELIJKE LOOPTIJD VAN MEER DAN ÉÉN
+ JAAR, NAARGELANG HUN RESTERENDE LOOPTIJD
+ Totaal der schulden op meer dan één jaar die binnen het jaar vervallen                                  (42)                 75.279
+
+ Totaal der schulden met een resterende looptijd van meer dan één jaar doch hoogstens 5 jaar             8912                 79.887
+
+ Totaal der schulden met een resterende looptijd van meer dan 5 jaar                                     8913                563.121
+
+ GEWAARBORGDE SCHULDEN (BEGREPEN IN DE POSTEN 17 EN 42/48 VAN DE PASSIVA)
+ Door Belgische overheidsinstellingen gewaarborgde schulden
+     Financiële schulden                                                                                 8921
+
+       Kredietinstellingen, leasingschulden en soortgelijke schulden                                     891
+
+       Overige leningen                                                                                  901
+
+     Handelsschulden                                                                                     8981
+
+       Leveranciers                                                                                      8991
+
+       Te betalen wissels                                                                                9001
+
+     Vooruitbetalingen op bestellingen                                                                   9011
+
+     Schulden met betrekking tot bezoldigingen en sociale lasten                                         9021
+
+     Overige schulden                                                                                    9051
+
+                                                                                                         9061
+ Totaal van de door Belgische overheidsinstellingen gewaarborgde schulden
+
+ Schulden gewaarborgd door zakelijke zekerheden gesteld of onherroepelijk beloofd op activa van de
+ vereniging of stichting
+     Financiële schulden                                                                                 8922
+
+       Kredietinstellingen, leasingschulden en soortgelijke schulden                                     892
+
+       Overige leningen                                                                                  902
+
+     Handelsschulden                                                                                     8982
+
+       Leveranciers                                                                                      8992
+
+       Te betalen wissels                                                                                9002
+
+     Vooruitbetalingen op bestellingen                                                                   9012
+
+     Schulden met betrekking tot belastingen, bezoldigingen en sociale lasten                            9022
+
+       Belastingen                                                                                       9032
+
+       Bezoldigingen en sociale lasten                                                                   9042
+
+     Overige schulden                                                                                    9052
+
+ Totaal der schulden gewaarborgd door zakelijke zekerheden gesteld of onherroepelijk beloofd op activa   9062
+ van de vereniging of stichting
+
+
+
+
+                                                                                                                      Page 10 of 14
+N°      0429815809                                                                                           VKT-VZW 6.4
+
+
+RESULTATEN
+
+                                                                              Codes   Boekjaar             Vorig boekjaar
+
+ PERSONEEL
+ Werknemers waarvoor de vereniging of stichting een DIMONA-verklaring heeft
+ ingediend of die zijn ingeschreven in het algemeen personeelsregister
+     Gemiddeld personeelsbestand berekend in voltijdse equivalenten           9087                 63,1                      64,7
+
+ OPBRENGSTEN EN KOSTEN VAN UITZONDERLIJKE OMVANG OF
+ UITZONDERLIJKE MATE VAN VOORKOMEN
+ Niet-recurrente opbrengsten                                                  76                 68.641                     88.124
+     Niet-recurrente bedrijfsopbrengsten                                      (76A)                  0                         0
+     Niet-recurrente financiële opbrengsten                                   (76B)              68.641                88.124
+
+ Niet-recurrente kosten                                                       66                   2.940                     3.894
+     Niet-recurrente bedrijfskosten                                           (66A)               2.940                     3.894
+     Niet-recurrente financiële kosten                                        (66B)                  0                         0
+
+ FINANCIËLE RESULTATEN
+                                                                              6502
+ Geactiveerde interesten
+
+
+
+
+                                                                                                                  Page 11 of 14
+N°        0429815809                                                                                                                                        VKT-VZW 6.7
+
+
+SOCIALE BALANS
+
+
+
+
+Nummers van de paritaire comités die voor de vereniging of stichting bevoegd zijn:
+
+
+
+
+WERKNEMERS WAARVOOR DE VERENIGING OF STICHTING EEN DIMONA-VERKLARING HEEFT INGEDIEND OF DIE ZIJN
+INGESCHREVEN IN HET ALGEMEEN PERSONEELSREGISTER
+
+
+
+
+                                                                                                                      3. Totaal (T) of totaal in 3P. Totaal (T) of totaal in
+                                                                1. Voltijds                2. Deeltijds                voltijdse equivalenten     voltijdse equivalenten
+                                              Codes                                                                             (VTE)                      (VTE)
+Tijdens het boekjaar en het vorige                              (boekjaar)                  (boekjaar)
+boekjaar                                                                                                                     (boekjaar)                (vorig boekjaar)
+Gemiddeld aantal werknemers                   100                                26,5                          48,7                           63,1                        62,5
+Aantal daadwerkelijk gepresteerde uren        101                             38.988                      49.885                           88.873                      88.588
+Personeelskosten                              102                           2.196.523                 2.799.238                          4.995.761                   4.935.999
+
+
+
+
+                                                                                                                                                     3. Totaal in voltijdse
+                                                                      Codes             1. Voltijds                       2. Deeltijds
+Op de afsluitingsdatum van het boekjaar                                                                                                                  equivalenten
+Aantal werknemers                                                    105                                  26                                  47                          61,9
+
+Volgens de aard van de arbeidsovereenkomst
+     Overeenkomst voor een onbepaalde tijd                           110                                  26                                  47                          61,9
+     Overeenkomst voor een bepaalde tijd                             111                                  0                                    0                              0
+     Overeenkomst voor een duidelijk omschreven werk                 112                                  0                                    0                              0
+     Vervangingsovereenkomst                                         113                                  0                                    0                              0
+
+Volgens het geslacht en het studieniveau
+     Mannen                                                          120                                  6                                   10                              14
+          lager onderwijs                                            1200                                 0                                    1                           0,8
+          secundair onderwijs                                        1201                                 3                                    2                           4,4
+          hoger niet-universitair onderwijs                          1202                                 3                                    6                              8
+          universitair onderwijs                                     1203                                 0                                    1                           0,8
+     Vrouwen                                                         121                                  20                                  37                          47,9
+          lager onderwijs                                            1210                                 0                                    0                              0
+          secundair onderwijs                                        1211                                 2                                    5                           5,9
+          hoger niet-universitair onderwijs                          1212                                 17                                  28                          38,2
+          universitair onderwijs                                     1213                                 1                                    4                           3,8
+
+Volgens de beroepscategorie
+     Directiepersoneel                                               130                                  0                                    0                              0
+     Bedienden                                                       134                                  26                                  47                          61,9
+     Arbeiders                                                       132                                  0                                    0                              0
+     Andere                                                          133                                  0                                    0                              0
+
+
+
+
+                                                                                                                                                                Page 12 of 14
+N°        0429815809                                                                                                                            VKT-VZW 6.7
+
+
+TABEL VAN HET PERSONEELSVERLOOP TIJDENS HET BOEKJAAR
+
+
+
+
+                                                                                                                                         3. Totaal in voltijdse
+                                                                             Codes    1. Voltijds                2. Deeltijds
+INGETREDEN                                                                                                                                   equivalenten
+Aantal werknemers waarvoor de vereniging of stichting tijdens het
+boekjaar een DIMONA-verklaring heeft ingediend of die tijdens het
+boekjaar werden ingeschreven in het algemeen personeelsregister              205                    6                               17                       19,1
+
+UITGETREDEN
+Aantal werknemers met een in de DIMONA-verklaring aangegeven of
+een in het algemeen personeelsregister opgetekende datum waarop
+hun overeenkomst tijdens het boekjaar een einde nam                          305                    5                               23                       20,8
+
+
+
+
+INLICHTINGEN OVER DE OPLEIDINGEN VOOR DE WERKNEMERS TIJDENS HET BOEKJAAR
+
+
+
+
+                                                                                     Codes              Mannen              Codes              Vrouwen
+
+Totaal van de formele voortgezette beroepsopleidingsinitiatieven ten laste
+van de werkgever
+     Aantal betrokken werknemers                                                     5801                             11    5811                                  32
+     Aantal gevolgde opleidingsuren                                                  5802                          2.952    5812                            1.672
+     Nettokosten voor de vereniging of stichting                                     5803                         11.824    5813                           75.090
+          waarvan brutokosten rechtstreeks verbonden met de opleiding                58031                        10.433    58131                          70.849
+          waarvan betaalde bijdragen en stortingen aan collectieve fondsen           58032                         1.391    58132                           4.241
+          waarvan ontvangen tegemoetkomingen (in mindering)                          58033                             0    58133                                 0
+
+Totaal van de minder formele en informele voortgezette
+beroepsopleidingsinitiatieven ten laste van de werkgever
+     Aantal betrokken werknemers                                                     5821                              0    5831                                  4
+     Aantal gevolgde opleidingsuren                                                  5822                              0    5832                                  30
+     Nettokosten voor de vereniging of stichting                                     5823                              0    5833                              240
+
+Totaal van de initiële beroepsopleidingsinitiatieven ten laste van de
+werkgever
+     Aantal betrokken werknemers                                                     5841                              0    5851                                  0
+     Aantal gevolgde opleidingsuren                                                  5842                              0    5852                                  0
+     Nettokosten voor de vereniging of stichting                                     5843                              0    5853                                  0
+
+
+
+
+                                                                                                                                                    Page 13 of 14
+N°      0429815809                                     VKT-VZW 6.8
+
+
+WAARDERINGSREGELS
+
+
+
+
+     AFSCHRIJVINGEN
+     - 210100 Installatiekosten: 20%
+     - 211100 Licenties software: 20%
+     - 211200 Registratierechten: 33%
+     - 221110 Gebouwen: 33%
+     - 221120 Grote inrichtingswerken: 10%
+     - 221130 Grote onderhoudswerken: 10%
+     - 231010 Technische installaties: 10%
+     - 231020 Keuken- en sanitaire installaties: 20%
+     - 231030 Kantoorinstallaties: 20%
+     - 231040 Computerinstallaties op 4 kaar: 25%
+     - 231043 Computerinstallaties op 3 jaar: 33%
+     - 231050 Zaalinstallaties: 20%
+     - 231060 Randapparatuur Computer: 20%
+     - 241010 Kantoormeubilair: 10%
+     - 241020 Kantoormaterieel: 10%
+     - 241030 Onderhoudsmaterieel: 10%
+     - 241040 Rollend materieel: 20%
+
+
+
+
+                                                         Page 14 of 14
+

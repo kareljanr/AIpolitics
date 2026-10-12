@@ -28722,3 +28722,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00152415** (415899 B / 45p; AV 04-06-2026; neergelegd 10/06/2026; MD5 b08e1429b447dd1767cab74a94091e20). VOL 70/76A **EUR6950494** (+8.71%); 733 **EUR5430330** (+8.15%); 62 **EUR4800745** (+6.73%); 9901 **EUR610818** (+12.38%); 9904 **EUR648459** → bestemde fondsen **EUR5802151**; equity 7946023; debt 4624252 (>1j 3241667); geldbeleggingen 4200000 + cash 1511916; FTE 63.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.00; entities +1 (parent city_moorslede); FOI **gap_marienstede_moorslede_vaph_matrix_733_5_43m_bestemde_fondsen_5_80m_beleggingen_4_2m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2584/; rq_2584=done; spawn **rq_2585**; ticks=2584.
 - Next: **rq_2585 leftover dual** — continue VAPH list scan.
+
+
+## Tick 2585 — 2026-10-12T07:34:19Z — rq_2585 leftover dual Mobilant Antwerpen (Borgerhout) YE2025 (local fallback runner)
+
+- Hunt: carried from 2584 scan (VAPH page 37): **Mobilant Borgerhout** → KBO 0429.815.809 had 0 prior repo rows.
+- KBO: Actief since 06.06.1984; VZW; zetel Plantin en Moretuslei 155 2140 Antwerpen (Borgerhout); 9 VE; 0 prior repo rows for 0429.815.809; Identity trap != leftover De Vijver remine@2577 != leftover Het Raster remine@2581 != leftover KOCA remine@2583
+- Found: official NBB VKT-VZW native PDF **2026-00227391** (52139 B / 14p; AV 18-06-2026; neergelegd 26/06/2026; MD5 99badcbe5a51bfbcb0df8a1e0e3aa321). VKT 9900 **EUR5300263** (+1.76%); 73 **EUR5488716**; 62 **EUR5142951** (−0.51%); 9901 **EUR−42921** (2nd loss); 9904 19391; equity 2246976; debt **EUR1662906** +35.98% (>1j 643008 was 123462); cash **EUR333634** DROP −70.04% + beleggingen 613589; FTE 63,1.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.80; entities +1 (parent city_antwerpen); FOI **gap_mobilant_borgerhout_vaph_matrix_73_5_49m_9901_loss_43k_cash_drop_334k_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2585/; rq_2585=done; spawn **rq_2586**; ticks=2585.
+- Next: **rq_2586 leftover dual** — continue VAPH list scan.
