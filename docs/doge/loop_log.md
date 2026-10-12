@@ -33922,3 +33922,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: 315.csdmwp@solidaris.be — general mailbox verified on official contact page https://www.csdmonswalloniepicarde.be/fr/contact (with Rue du Coron 48 address).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_csd_mons_wallonie_picarde_vaph_matrix_733_20_13m_9901_89k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3108/; rq_3108=done; spawn **rq_3109**; ticks=3108.
 - Next: **rq_3109 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3109 — 2026-10-12T22:26:07Z — rq_3109 leftover dual Aide & Soins à Domicile en Brabant wallon (ASD Brabant wallon) Nivelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon home-help and family-help services (services d'aide aux familles et aînés, ASD, CSD; KBO name search over ~30 home-help names, filings ranked by NBB code 733 operating subsidies, largest first; Brussels Aide familiale and the large Flemish services already entities); every candidate passed the name/alias/KBO/website dedup check: **Aide & Soins à Domicile en Brabant wallon (ASD Brabant wallon)** → KBO 0449.674.974 had 0 prior entity rows.
+- KBO: Actief since 18 maart 1993; VZW; zetel Avenue Robert Schuman 72 1401 Nivelles; 3 VE; 0 prior entity rows for 0449.674.974
+- Found: official NBB VOL-VZW native PDF **2026-00275438** (11077533 B / 48p; AV 11-06-2026; neergelegd 08/07/2026; MD5 e7d61985709eab62e9669024f832bdad). VOL-VZW 733 **EUR15676449** (+6.59%); 62 **EUR20019406**; 9901 **EUR-37931** (was -619368); 9904 -62895; equity 4258998; cash 1286831; FTE 360,9 (was 365,8).
+- FOI address: contact@asdbw.be — general mailbox verified on official contact page https://brabant.aideetsoinsadomicile.be/contact/ (site footer gives BCE 449.674.974).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_asd_brabant_wallon_vaph_matrix_733_15_68m_9901_loss_38k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3109/; rq_3109=done; spawn **rq_3110**; ticks=3109.
+- Next: **rq_3110 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
