@@ -28667,3 +28667,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00139555** (1984939 B / 44p; AV 01-06-2026; neergelegd 05/06/2026; MD5 a1ea3c1de5c7e75a144c018964c26203). VOL 70/76A **EUR7002870** (+4.10%); 733 **EUR5718858** (+5.13%); 62 **EUR5048006** (+7.57%); 9901 **EUR479876** DROP −24.10%; 9904 **EUR474017**; equity 9162882 (kapitaalsubsidies 1918591); debt 5790625 (9061 700857); cash **EUR1787709** JUMP +83.29% + beleggingen 1391248; FTE 66,2.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.10; entities +1 (parent city_overijse); FOI **gap_de_kerselaar_overijse_vaph_matrix_733_5_72m_9901_drop_480k_cash_jump_1_79m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2578/; rq_2578=done; spawn **rq_2579**; ticks=2578.
 - Next: **rq_2579 leftover dual** — continue VAPH list scan (every-10 due at 2580).
+
+
+## Tick 2579 — 2026-10-12T07:22:34Z — rq_2579 leftover dual De Karrekol Gent (Drongen) YE2025 (local fallback runner)
+
+- Hunt: carried from 2576 scan (VAPH page 11): **De Karrekol Drongen** — KBO 0415.299.461 had 0 prior repo rows; pages 8/10/11/15-19 now exhausted of unlocked VAPH VZA candidates (rest = groenezorg/paarden/DOP/already-in-repo/Stijn/Emmaus VE).
+- KBO: Actief Normale toestand since 12.06.1975; VZW; naam De Karrekol since 26.04.2022; zetel Beekstraat 27 9031 Gent since 01.10.1990; 1 VE; 0 prior repo rows for 0415.299.461; NACE 87.304 instellingen met huisvesting voor volwassenen met een lichamelijke handicap (secondary source belscope; not used for euros)
+- Found: official NBB VKT-VZW native PDF **2026-00084753** (44270 B / 10p; AV 21-04-2026; neergelegd 22/04/2026; MD5 41e3e38fc8320787432efddc5aa0407e). VKT 9900 **EUR2368212** (+3.00%); 62 **EUR2040932** (+6.39%); 9901 **EUR204673** DROP −26.12%; 9904 **EUR209617**; equity **EUR5567493** (95% of assets); debt 279966; geldbeleggingen 2003618 + cash 105666; FTE 27.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.70; entities +1 (parent city_gent); FOI **gap_de_karrekol_drongen_gent_vaph_matrix_9900_2_37m_equity_5_57m_beleggingen_2_0m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2579/; rq_2579=done; spawn **rq_2580**; ticks=2579.
+- Next: **rq_2580 leftover dual** — continue VAPH list scan (every-10 due at 2580).
