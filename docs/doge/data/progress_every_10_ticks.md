@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 3130** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3120; 3121-3129 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3121-3129 residual dual L5 (not near-complete of 348bn):** CJB TALE (Tournai) · ASD Hainaut Picardie (Tournai) · ASD Verviers (Verviers) · CJB Mouscron-Comines (Mouscron) · CJB Mons-Borinage (Mons) · HELMo (Liège) · ELCAB (Bastogne) · Centre Scolaire du Sacré-Coeur (Charleroi) · EPFC (Sint-Joost-ten-Node) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2756** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2810** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3121-3129** CJB TALE (Tournai) · ASD Hainaut Picardie (Tournai) · ASD Verviers (Verviers) · CJB Mouscron-Comines (Mouscron) · CJB Mons-Borinage (Mons) · HELMo (Liège) · ELCAB (Bastogne) · Centre Scolaire du Sacré-Coeur (Charleroi) · EPFC (Sint-Joost-ten-Node).
+
+### Inventory (tick 3130)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 60665 |
+| commitments.csv | 6810 |
+| leaderboard.csv | 8928 |
+| entities.csv | 2828 |
+| sources.csv | 9363 |
+| FOI ready | 2756 |
+| FOI total rows | 2810 |
+| research_queue open | rq_3130 (carried; next: S2J Liège-Ouest, PO Collèges Saint-Etienne, Lindthout, INDH Heusy, SeGEC; largest code 733 first) |
+
+### What improved since tick 3120
+
+- **New source (tick3121-3129):** CJB TALE (Tournai) · ASD Hainaut Picardie (Tournai) · ASD Verviers (Verviers) · CJB Mouscron-Comines (Mouscron) · CJB Mons-Borinage (Mons) · HELMo (Liège) · ELCAB (Bastogne) · Centre Scolaire du Sacré-Coeur (Charleroi) · EPFC (Sint-Joost-ten-Node). Finished the FASD home-help/home-nursing ASBLs (3121-3125), then opened a fresh Belgian public-money source: FWB-subsidised free (catholic) school organising bodies (pouvoirs organisateurs, ASBL), found via KBO name searches (legal form ASBL) and ranked by NBB code 733 subsidies, largest first. All picks passed the dedup check.
+- **Toolkit:** data.py: new FR school profile (voluntary request, no legal-basis claim; funders FWB operating subsidies and subsidised staff salaries; output pupils and cost per pupil).
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (school/organising-body own sites; the 3121/3124/3125 drafts use FASD office mailboxes listed for their own seat, as disclosed).
+- **Runner note:** 2576-3130 ran on the local fallback runner; GitHub Actions DOGE loop still fails at its Tick step (Grok CLI not signed in). Do not run both at once.
+- **Rejected 3121-3129 (fast, ~5 min cap):** Collège Saint-Guibert (only personal mailboxes), Saint-Hadelin Visé (no mailbox on official page), Sainte-Claire Verviers (mailbox not found on its own official page).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3120** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

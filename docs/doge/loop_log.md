@@ -34132,3 +34132,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@epfc.eu — general mailbox verified on official contact page of my.epfc.eu; BCE number shown on epfc.eu.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_epfc_vaph_matrix_733_18_80m_9901_66k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3129/; rq_3129=done; spawn **rq_3130**; ticks=3129.
 - Next: **rq_3130 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3130 — 2026-10-12T23:14:23Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2756** of 2810 rows; inventory budgets 60665 · commitments 6810 · leaderboard 8928 · entities 2828 · sources 9363.
+- Top10: **stable** (3121-3129 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3121-3129: CJB TALE (Tournai) · ASD Hainaut Picardie (Tournai) · ASD Verviers (Verviers) · CJB Mouscron-Comines (Mouscron) · CJB Mons-Borinage (Mons) · HELMo (Liège) · ELCAB (Bastogne) · Centre Scolaire du Sacré-Coeur (Charleroi) · EPFC (Sint-Joost-ten-Node).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3130 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3130 run locally as fallback.
+- Next: **rq_3130** — S2J / CEL Liège-Ouest (code 733 EUR16.90m), PO Collèges Saint-Etienne (EUR13.84m), Lindthout (EUR13.30m), INDH Heusy (EUR13.07m), SeGEC (EUR10.40m), all mailboxes verified, after the dedup check.
