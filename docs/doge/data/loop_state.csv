@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T13:39:41Z,rq_2755,2755,no,tick2755 leftover dual De Vijfling Putte 0808.913.088 Strong PDF 2026-00113619 9900 1.34m / 9901 72k; next rq_2756 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T13:39:49Z,rq_2756,2756,no,tick2756 leftover dual Het Pareltje Westerlo 0883.325.451 Strong PDF 2026-00230474 9900 0.92m / 9901 15k; next rq_2757 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

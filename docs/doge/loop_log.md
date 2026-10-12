@@ -30366,3 +30366,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: devijfling@sgr5.be — general mailbox verified on official page https://www.devijfling.be/contacteer-ons/wie-is-wie-boa (KBO number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_putte); FOI **gap_de_vijfling_putte_vaph_matrix_9900_1_34m_9901_72k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2755/; rq_2755=done; spawn **rq_2756**; ticks=2755.
 - Next: **rq_2756 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2756 — 2026-10-12T13:39:49Z — rq_2756 leftover dual Het Pareltje Westerlo YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, plus KBO record of the Oostende projectvereniging Perspectief: **Het Pareltje** → KBO 0883.325.451 had 0 prior entity rows.
+- KBO: Actief since 5 september 2006; VZW; zetel Verlorenkost 22 bus 1 2260 Westerlo; 2 VE; 0 prior entity rows for 0883.325.451
+- Found: official NBB VKT-VZW native PDF **2026-00230474** (47030 B / 12p; AV 23-06-2026; neergelegd 01/07/2026; MD5 137e26dedbbfcd39ead73bdf5be3c7c8). VKT-VZW 9900 **EUR918001** (-3.07%); 62 **EUR825328**; 9901 **EUR15141** (was 24066); 9904 13846; equity 328579; cash 42517; FTE 14,2 (was 16).
+- FOI address: info@het-pareltje.be — general mailbox verified on official municipal page https://www.westerlo.be/nl/onderwijs-en-kinderopvang/onthaalouders-en-kinderdagverblijven/kinderdagverblijf-het-pareltje.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_westerlo); FOI **gap_het_pareltje_westerlo_vaph_matrix_9900_0_92m_9901_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2756/; rq_2756=done; spawn **rq_2757**; ticks=2756.
+- Next: **rq_2757 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
