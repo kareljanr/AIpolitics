@@ -1,4 +1,4 @@
-# Daily Proposal Radar. Grok scores one open proposal, then Telegram posts new ratings.
+# Proposal Radar three times a day. Each run scores up to three open proposals, then Telegram posts new ratings.
 # Secrets (repo → Settings → Secrets → Actions):
 #   GROK_AUTH_JSON           Grok Build login
 #   TELEGRAM_BOT_TOKEN       same bot as the portfolio runner
@@ -9,8 +9,8 @@ name: Proposal Radar
 
 on:
   schedule:
-    # 06:30 UTC ≈ 08:30 Amsterdam in summer, 07:30 in winter.
-    - cron: "30 6 * * *"
+    # 06:30, 12:30, and 18:30 UTC. Three runs a day, three ratings each.
+    - cron: "30 6,12,18 * * *"
   workflow_dispatch:
 
 permissions:
@@ -23,7 +23,7 @@ concurrency:
 jobs:
   digest:
     runs-on: ubuntu-latest
-    timeout-minutes: 35
+    timeout-minutes: 55
     env:
       GROK_AUTH_JSON: ${{ secrets.GROK_AUTH_JSON }}
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -75,9 +75,13 @@ jobs:
       - name: Harvest and refresh the new-ratings note
         run: python docs/proposal-radar/scripts/run_pipeline.py
 
-      - name: Rate one open proposal
+      - name: Rate up to three open proposals
         continue-on-error: true
-        run: bash scripts/cloud-radar-tick.sh
+        run: |
+          for pass in 1 2 3; do
+            echo "Rating pass ${pass}"
+            bash scripts/cloud-radar-tick.sh || echo "Pass ${pass} did not finish a score."
+          done
 
       - name: Telegram
         run: python docs/proposal-radar/scripts/telegram_notify.py

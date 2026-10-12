@@ -11,7 +11,7 @@ Sister of [`docs/doge/LOOP.md`](../doge/LOOP.md). Design: [`docs/09-proposal-rad
   - Each fire: RSS `run_pipeline.py` when possible → **one** LOOP unit → commit/push if dirty.  
   - Cancel/pause: set `loop_state.csv` `paused=yes` **and/or** delete scheduler id.  
   - Recreate: same interval `1d` + prompt in skill/LOOP if id lost.  
-- **Always-on:** GitHub Actions **Proposal Radar** (`.github/workflows/proposal-radar.yml`) once a day. RSS harvest, then Grok scores **one** open proposal, then Telegram posts that rating. The PC does not need to be on. Pause the old durable task `019fa3e112ab` so it does not score the same item.  
+- **Always-on:** GitHub Actions **Proposal Radar** (`.github/workflows/proposal-radar.yml`) at 06:30, 12:30, and 18:30 UTC. Each run scores up to **three** open proposals, then Telegram posts the new ratings. The PC does not need to be on. Pause the old durable task `019fa3e112ab` so it does not score the same item.  
 - **Windows Task Scheduler (optional companion):** `AIpoliticsProposalRadarDaily`  
   - Script: `scripts/run_daily_windows.ps1` — git pull + RSS + **Telegram digest** (politics chat only). Pause it while Actions is the sender, or the same new item can go out twice.  
   - Register: `scripts/register-radar-task.ps1`. Agent tick via `-WithAgent` is optional (default off to avoid double-scoring with Grok durable).  
