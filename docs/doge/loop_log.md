@@ -33782,3 +33782,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@logis-sg.be — general mailbox verified on official contact page https://www.logis-sg.be/Contact.html.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_logis_saint_ghislainois_code740_split_740_0_52m_9901_610k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3094/; rq_3094=done; spawn **rq_3095**; ticks=3094.
 - Next: **rq_3095 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3095 — 2026-10-12T21:42:56Z — rq_3095 leftover dual Sambre et Biesme Farciennes YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon intercommunales (KBO name search over ~50 Walloon intercommunale names, filings ranked by NBB code 740 operating subsidies from public authorities; new: Liège Zone 2 IILE-SRI, ISBW, IMSTAM) plus remaining SLSPs from the official Wallonia SLSP list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf); largest code 740 first; every candidate passed the name/alias/KBO/website dedup check: **Sambre et Biesme** → KBO 0401.582.770 had 0 prior entity rows.
+- KBO: Actief since 16 februari 1922; SRL; zetel Rue du Roton(FAR) 4 6240 Farciennes; 1 VE; 0 prior entity rows for 0401.582.770
+- Found: official NBB VOL-SRL native PDF **2026-00256463** (5562608 B / 112p; AV 18-06-2026; neergelegd 26/06/2026; MD5 eb61c549dca6411a8141e908f140f219). VOL-SRL 740 **EUR444026** (-8.65%); 62 **EUR3202889**; 9901 **EUR343563** (was 255968); 9904 -630412; equity 26026345; cash 10286358; FTE 39,3 (was 39,9).
+- FOI address: info@sambretbiesme.be — general mailbox verified on official contact page https://www.sambretbiesme.be/nous-contacter/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_sambre_et_biesme_code740_split_740_0_44m_9901_344k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3095/; rq_3095=done; spawn **rq_3096**; ticks=3095.
+- Next: **rq_3096 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
