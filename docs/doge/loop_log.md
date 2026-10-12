@@ -28695,3 +28695,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00135075** (1130034 B / 54p; AV 28-05-2026; neergelegd 03/06/2026; MD5 9900571cf458d6b74385f0ab1cc9bc64). VOL 70/76A **EUR10353946** (+8.36%); 733 **EUR9961472** (+8.44%); 62 **EUR9390067** (+8.80%); 9901 **EUR256644** (−6.84%); 9904 276415; equity 4169553; debt **EUR3209710** JUMP +37.17% (>1j 1354133 was 767492); geldbeleggingen **EUR2047525** (was 897525); cash 1076666 (was 2096581); FTE 109.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.30; entities +1 (parent city_antwerpen); FOI **gap_het_raster_antwerpen_vaph_matrix_733_9_96m_debt_jump_3_21m_beleggingen_2_05m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2581/; rq_2581=done; spawn **rq_2582**; ticks=2581.
 - Next: **rq_2582 leftover dual** — continue VAPH list scan.
+
+
+## Tick 2582 — 2026-10-12T07:30:10Z — rq_2582 leftover dual Levedale Meise (Wolvertem) YE2025 (local fallback runner)
+
+- Hunt: VAPH adreslijst pages 29-33 scanned (background); IZW Ridderstraat Leuven already in repo (vzw_izw_leuven); Kastor&Pollux Roeselare = SGR26 school-group VE skip; Koninklijk Instituut Woluwe = Evara skip; Leefboerderij De Kanteling Herzele latest deposit YE2018 skip; **Levedale Wolvertem** → KBO 0414.693.707 had 0 prior repo rows (an untracked pre-pause draft for Levedale existed on disk but was never committed; not reused).
+- KBO: Actief Normale toestand since 21.10.1974; VZW; zetel De Biest 10 1861 Meise; 1 VE; 0 prior repo rows for 0414.693.707; site: lokaal samenwerkingsverband met 5 gemeentebesturen statutair vertegenwoordigd in het Bestuursorgaan; locaties Wolvertem, Molendijk/Het Huis Merchtem, Ter Huffel Steenhuffel
+- Found: official NBB VOL-VZW native PDF **2026-00293283** (1883442 B / 43p; AV 26-05-2026; neergelegd 07/07/2026; MD5 95ff3aeda99b1b67f49f308e74dadbf0). VOL 70/76A **EUR6188080** (+3.28%); 733 **EUR5124292** (+5.04%); 62 **EUR4684016** (+3.94%); 9901 **EUR536504** (−7.87%); 9904 **EUR577053**; equity 7983449 (kapitaalsubsidies 1887522); debt 1048214; geldbeleggingen **EUR3875024** (was 1766473) + cash 1165989; FTE 61,9.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.00; entities +1 (parent city_meise); FOI **gap_levedale_meise_vaph_matrix_733_5_12m_9904_577k_beleggingen_3_88m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2582/; rq_2582=done; spawn **rq_2583**; ticks=2582.
+- Next: **rq_2583 leftover dual** — continue VAPH list scan.
