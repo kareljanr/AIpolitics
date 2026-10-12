@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T19:27:21Z,rq_3014,3014,no,tick3014 leftover dual De Groene Kans Diksmuide 0465.807.361 Strong PDF 2026-00162386 9900 3.39m / 9901 117k; next rq_3015 Further-extended Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T19:27:30Z,rq_3015,3015,no,tick3015 leftover dual Maatwerkbedrijf De Ploeg Sint-Truiden 0465.913.368 Strong PDF 2026-00477028 9900 3.11m / 9901 434k; next rq_3016 Further-extended Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

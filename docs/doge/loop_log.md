@@ -32973,3 +32973,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@degroenekans.be — general mailbox verified on official page https://degroenekans.be/contact/ (KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_diksmuide); FOI **gap_de_groene_kans_diksmuide_vaph_matrix_9900_3_39m_9901_117k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3014/; rq_3014=done; spawn **rq_3015**; ticks=3014.
 - Next: **rq_3015 leftover dual** — Further-extended Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3015 — 2026-10-12T19:27:30Z — rq_3015 leftover dual Maatwerkbedrijf De Ploeg Sint-Truiden YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish multi-code 85.592/87.10x/87.30x/88.10x/88.911/88.991-88.999, extended to 30 further Flemish postcodes plus extra codes 88.991-88.994/88.102/87.20x/90-91 in the previous 22), unprocessed hits ranked by YE2025 NBB primary figure: **Maatwerkbedrijf De Ploeg** → KBO 0465.913.368 had 0 prior entity rows.
+- KBO: Actief since 28 januari 1999; VZW; zetel Schurhoven 125 3800 Sint-Truiden; 1 VE; 0 prior entity rows for 0465.913.368
+- Found: official NBB VKT-VZW native PDF **2026-00477028** (50819 B / 14p; AV 08-06-2026; neergelegd 31/08/2026; MD5 9c4eadb9a93d595fc402dd1dd38a3830). VKT-VZW 9900 **EUR3105205** (+3.63%); 62 **EUR2467635**; 9901 **EUR433657** (was 461208); 9904 462153; equity 3502450; cash 2302531; FTE 67,3 (was 70,2).
+- FOI address: info@vzwdeploeg.be — general mailbox verified on official page https://www.vzwdeploeg.be/contact/ (KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_sint_truiden); FOI **gap_de_ploeg_sint_truiden_vaph_matrix_9900_3_11m_9901_434k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3015/; rq_3015=done; spawn **rq_3016**; ticks=3015.
+- Next: **rq_3016 leftover dual** — Further-extended Flemish multi-code batch in progress; next: remaining units of this batch.
