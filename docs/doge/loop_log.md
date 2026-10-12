@@ -28749,3 +28749,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00228214** (52543 B / 15p; AV 19-06-2026; neergelegd 29/06/2026; MD5 506a42a345462cdf987fb834599fe90e). VKT 9900 **EUR4768904** (+6.53%); 73 **EUR4958564**; 62 **EUR4321640** (+6.52%); 9901 **EUR274589** (−10.67%); 9904 288469; equity 2256931; debt 951559; cash **EUR1877652** (was 789225) + beleggingen 466661 (was 1185168); FTE 55,7.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.50; entities +1 (parent city_hasselt); FOI **gap_samenpunt_hasselt_vaph_matrix_73_4_96m_9900_4_77m_cash_jump_1_88m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2587/; rq_2587=done; spawn **rq_2588**; ticks=2587.
 - Next: **rq_2588 leftover dual** — continue VAPH list scan.
+
+
+## Tick 2588 — 2026-10-12T07:39:08Z — rq_2588 leftover dual Primavera Antwerpen (Merksem) YE2025 (local fallback runner)
+
+- Hunt: carried from 2586 scan (VAPH page 45): **Primavera Merksem** → KBO 0416.239.272 had 0 prior repo rows.
+- KBO: Actief since 31.05.1976; VZW; zetel Terlindenhofstraat 160 2170 Antwerpen since 01.10.1990; 1 VE; 0 prior repo rows for 0416.239.272; Identity trap != Primavera WZC/kinderdagverblijf names elsewhere
+- Found: official NBB MIC-VZW native PDF **2026-00139493** (44966 B / 11p micro model; AV 23-04-2026; neergelegd 05/06/2026; MD5 68fa3e4a010cd1787790693afbcd346c). MIC 9900 **EUR2862389** (+9.70%); 62 **EUR2724406** (+6.81%); 9901 **EUR32848** (was −45723); 9904 98628; equity 2247222 (kapitaalsubsidies 220501); debt 607723; beleggingen 891612 + cash 322776; micro model (no FTE).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.60; entities +1 (parent city_antwerpen); FOI **gap_primavera_merksem_vaph_matrix_9900_2_86m_micro_model_switch_62_2_72m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2588/; rq_2588=done; spawn **rq_2589**; ticks=2588.
+- Next: **rq_2589 leftover dual** — continue VAPH list scan.
