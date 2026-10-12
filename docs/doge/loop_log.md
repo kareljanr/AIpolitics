@@ -34352,3 +34352,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@galilee.be — general mailbox verified on official contact page https://www.galilee.be/contact-et-localisation.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_he_galilee_vaph_matrix_733_15_66m_9901_11483k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3151/; rq_3150=done; spawn **rq_3152**; ticks=3151.
 - Next: **rq_3152 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3152 — 2026-10-12T23:46:36Z — rq_3152 leftover dual Collège Saint-André (Auvelais) Sambreville YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Catholic school boards and university colleges (Flemish schoolbesturen VZW and FWB organising bodies / hautes écoles, ASBL); new KBO name search (legal form VZW/ASBL; words such as Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège Saint, Institut Saint), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Collège Saint-André (Auvelais)** → KBO 0409.260.024 had 0 prior entity rows.
+- KBO: Actief since 27 oktober 1966; VZW; zetel Rue des Auges(AUV) 22 5060 Sambreville; 3 VE; 0 prior entity rows for 0409.260.024
+- Found: official NBB VOL-VZW native PDF **2026-00195560** (271377 B / 31p; AV 18-06-2026; neergelegd 23/06/2026; MD5 8aa77ea9bbf811de2eaa3a8b8809e597). VOL-VZW 733 **EUR15074487** (+1.81%); 62 **EUR13544538**; 9901 **EUR463931** (was -111409); 9904 440688; equity 2699570; cash 629635; FTE 12,4 (was 12,7).
+- FOI address: info@csa.college — general mailbox verified on official page https://collegesaintandre.be/infos-pratiques/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_college_saint_andre_auvelais_vaph_matrix_733_15_07m_9901_464k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3152/; rq_3152=done; spawn **rq_3153**; ticks=3152.
+- Next: **rq_3153 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
