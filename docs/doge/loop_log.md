@@ -34112,3 +34112,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: po@elcab.be — organising-body mailbox verified on official pages https://www.elcab.be/contact and the legal notice (mentions légales, which gives the BCE number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_elcab_bastogne_vaph_matrix_733_27_07m_9901_loss_146k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3127/; rq_3127=done; spawn **rq_3128**; ticks=3127.
 - Next: **rq_3128 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3128 — 2026-10-12T23:12:58Z — rq_3128 leftover dual Centre Scolaire du Sacré-Coeur (Charleroi) Charleroi YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies (pouvoirs organisateurs, ASBL) and related free-education non-profits; KBO name search over school/PO names (legal form ASBL), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Centre Scolaire du Sacré-Coeur (Charleroi)** → KBO 0408.191.836 had 0 prior entity rows.
+- KBO: Actief since 15 maart 1971; VZW; zetel Boulevard Audent 58 6000 Charleroi; 3 VE; 0 prior entity rows for 0408.191.836
+- Found: official NBB VOL-VZW native PDF **2026-00159482** (1061568 B / 44p; AV 30-05-2026; neergelegd 15/06/2026; MD5 34fa9e6417643b46ba69eca388baf6f2). VOL-VZW 733 **EUR19365495** (+2.31%); 62 **EUR17971578**; 9901 **EUR189385** (was -277192); 9904 157603; equity 5154097; cash 957224; FTE 28 (was 27,4).
+- FOI address: secretariat.secondaire@sacrecoeurcharleroi.eu — school secretariat mailbox verified on official contact page https://www.cssccharleroi.be/contact (page shows the BCE number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_charleroi); FOI **gap_sacre_coeur_charleroi_vaph_matrix_733_19_37m_9901_189k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3128/; rq_3128=done; spawn **rq_3129**; ticks=3128.
+- Next: **rq_3129 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
