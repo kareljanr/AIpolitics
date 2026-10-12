@@ -34182,3 +34182,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@notredameheusy.net — general mailbox verified on official school site https://secondaire.notredameheusy.be/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_verviers); FOI **gap_ind_heusy_vaph_matrix_733_13_07m_9901_207k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3134/; rq_3134=done; spawn **rq_3135**; ticks=3134.
 - Next: **rq_3135 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3135 — 2026-10-12T23:15:35Z — rq_3135 leftover dual Secrétariat Général de l'Enseignement Catholique (SeGEC) Woluwe-Saint-Lambert YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies (pouvoirs organisateurs, ASBL) and related free-education non-profits; KBO name search over school/PO names (legal form ASBL), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Secrétariat Général de l'Enseignement Catholique (SeGEC)** → KBO 0451.952.001 had 0 prior entity rows.
+- KBO: Actief since 9 december 1993; VZW; zetel Emmanuel Mounierlaan 100 1200 Sint-Lambrechts-Woluwe; 3 VE; 0 prior entity rows for 0451.952.001
+- Found: official NBB VOL-VZW native PDF **2026-00185390** (725003 B / 54p; AV 11-06-2026; neergelegd 16/06/2026; MD5 9a17acde8ce2a285b6705e4785382b05). VOL-VZW 733 **EUR10400439** (-0.24%); 62 **EUR4203240**; 9901 **EUR2093046** (was 1210124); 9904 2447960; equity 32633072; cash 9378661; FTE 51,8 (was 66,8).
+- FOI address: segec@segec.be — general mailbox verified on official legal-notice page https://enseignement.catholique.be/mentions-legales/ (page gives BCE 0451.952.001).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_woluwe_saint_lambert); FOI **gap_segec_vaph_matrix_733_10_40m_9901_2093k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3135/; rq_3135=done; spawn **rq_3136**; ticks=3135.
+- Next: **rq_3136 leftover dual** — Batch done; next: remaining FWB free-school POs by code 733: ECD Braine-le-Comte (0409.458.081, EUR13.74m), Institut Notre-Dame Fleurus (0409.458.180, EUR11.97m); skipped for mailbox: Collège Saint-Guibert (only personal mailboxes), Saint-Hadelin Visé (no mailbox on official page), Sainte-Claire Verviers (mailbox not on own official page).
