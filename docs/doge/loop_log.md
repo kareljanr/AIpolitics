@@ -30124,3 +30124,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_wgk_west_vlaanderen_vaph_matrix_733_31_08m_9901_loss_375k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2731/; rq_2730=done; spawn **rq_2732**; ticks=2731.
 - Next: **rq_2732 leftover dual** — Home-care / gezinszorg (NACE 88.101) and related units in progress; next: remaining units of this batch.
 - Data fix (tick 2731): FOI row `gap_terengelen_opbr_8_06m_staff_5_88m_loss_0_48m_l5` recipient_email and its draft (`docs/doge/foi/drafts/gap_terengelen_opbr_8_06m_staff_5_88m_loss_0_48m_l5.md`, 2 occurrences) changed from `info@covida.be` to `info@hofterengelen.be` (verified on https://www.hofterengelen.be/contact/, KBO 0430.882.809), completing the tick-2721 entity fix. Surgical byte-level edits; draft still NOT sent.
+
+
+## Tick 2732 — 2026-10-12T13:21:01Z — rq_2732 leftover dual Wit-Gele Kruis van Limburg Genk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101/88.991/87.302 activity search (home care for the elderly / ambulant addiction care / assistance flats) plus Wit-Gele Kruis provincial associations listed on witgelekruis.be: **Wit-Gele Kruis van Limburg** → KBO 0410.120.651 had 0 prior entity rows.
+- KBO: Actief since 26 augustus 1964; VZW; zetel Welzijnscampus 25 3600 Genk; 22 VE; 0 prior entity rows for 0410.120.651
+- Found: official NBB VOL-VZW native PDF **2026-00218757** (477559 B / 44p; AV 01-06-2026; neergelegd 22/06/2026; MD5 0469b7c74b0571a6c9353df62882bfdf). VOL-VZW 733 **EUR42837869** (+1.05%); 62 **EUR107745829**; 9901 **EUR4400479** (was 6564530); 9904 4081637; equity 65172447; cash 7464836; FTE 1.298 (was 1.342,9).
+- FOI address: info@limburg.wgk.be — general mailbox verified on official page https://www.witgelekruis.be/contacteer-ons (KBO number shown).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_genk); FOI **gap_wgk_limburg_vaph_matrix_733_42_84m_9901_4400k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2732/; rq_2732=done; spawn **rq_2733**; ticks=2732.
+- Next: **rq_2733 leftover dual** — Home-care / gezinszorg (NACE 88.101) and related units in progress; next: remaining units of this batch.
