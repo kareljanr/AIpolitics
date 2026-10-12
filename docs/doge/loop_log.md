@@ -30903,3 +30903,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@thuisleven.be — general mailbox verified on official page https://www.thuisleven.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_arendonk); FOI **gap_thuis_leven_arendonk_vaph_matrix_9900_0_47m_9901_loss_93k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2808/; rq_2808=done; spawn **rq_2809**; ticks=2808.
 - Next: **rq_2809 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2809 — 2026-10-12T15:07:14Z — rq_2809 leftover dual Steunpunt Mantelzorg Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301/87.302 (nursing homes, assistance flats) and 88.101 (home care) activity searches, Brussels and remaining Flemish postcodes, ranked by primary figure: **Steunpunt Mantelzorg** → KBO 0467.323.828 had 0 prior entity rows.
+- KBO: Actief since 14 april 1999; VZW; zetel Sint-Jansstraat 30 1000 Brussel; 2 VE; 0 prior entity rows for 0467.323.828
+- Found: official NBB VKT-VZW native PDF **2026-00270557** (269580 B / 20p; AV 19-06-2026; neergelegd 06/07/2026; MD5 4d82646dbe06ca111e00cd06912c5f7f). VKT-VZW 9900 **EUR278250** (+23.69%); 62 **EUR162864**; 9901 **EUR115386** (was 50785); 9904 114723; equity 198614; cash 199613; FTE 1,7 (was 2,1).
+- FOI address: info@steunpuntmantelzorg.be — general mailbox verified on official page https://steunpuntmantelzorg.be/contact/ (KBO number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_steunpunt_mantelzorg_vaph_matrix_9900_0_28m_9901_115k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2809/; rq_2809=done; spawn **rq_2810**; ticks=2809.
+- Next: **rq_2810 leftover dual** — Batch done; next: Brussels French-language home-care ASBLs (Centre Familial de Bruxelles 13.1m, Aide familiale Region bruxelloise 11.1m, Gammes, A Vos Cotes) need a French FOI draft and the Brussels openbaarheid rules before they can be added; meanwhile more Flemish 87.xxx/88.1xx VZWs; skipped: Participo CM Vlaams-Brabant en Brussel (no general mailbox), Zusters van Liefde Kortrijk and Zusterkens der Armen (only group/congregation mailboxes), OTV entities (otv.be unreachable).
