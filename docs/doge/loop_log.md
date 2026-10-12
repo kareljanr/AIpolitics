@@ -32483,3 +32483,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contacter@arpaije.be — general mailbox verified on official page http://www.arpaije.be/contactez-nous/ (address Rue Malibran 49 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_arpaije_ixelles_vaph_matrix_9900_1_33m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2965/; rq_2965=done; spawn **rq_2966**; ticks=2965.
 - Next: **rq_2966 leftover dual** — Brussels culture (90.x/91.x) + leftover training batch in progress; next: remaining units of this batch.
+
+
+## Tick 2966 — 2026-10-12T18:16:53Z — rq_2966 leftover dual Action Vivre Ensemble Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels culture 90.111/90.120/90.130/90.311/91.110/91.210, plus leftover 85.592/86.940 hits, in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Action Vivre Ensemble** → KBO 0468.058.256 had 0 prior entity rows.
+- KBO: Actief since 16 juli 1999; VZW; zetel Voorlopig Bewindstraat 32 1000 Brussel; 5 VE; 0 prior entity rows for 0468.058.256
+- Found: official NBB VKT-VZW native PDF **2026-00222913** (60731 B / 18p; AV 20-06-2026; neergelegd 30/06/2026; MD5 ee2374b7a1618fb4ba73631908e497ed). VKT-VZW 9900 **EUR1316854** (+16.89%); 62 **EUR744841**; 9901 **EUR171934** (was -11058); 9904 171142; equity 1556873; cash 1313822; FTE 10,3 (was 9,3).
+- FOI address: info@vivre-ensemble.be — general mailbox verified on official page https://vivre-ensemble.be/a-propos/equipe/nous-contacter/ (address Rue du Gouvernement Provisoire 32 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_action_vivre_ensemble_vaph_matrix_9900_1_32m_9901_172k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2966/; rq_2966=done; spawn **rq_2967**; ticks=2966.
+- Next: **rq_2967 leftover dual** — Brussels culture (90.x/91.x) + leftover training batch in progress; next: remaining units of this batch.
