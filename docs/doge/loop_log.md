@@ -32983,3 +32983,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vzwdeploeg.be — general mailbox verified on official page https://www.vzwdeploeg.be/contact/ (KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_sint_truiden); FOI **gap_de_ploeg_sint_truiden_vaph_matrix_9900_3_11m_9901_434k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3015/; rq_3015=done; spawn **rq_3016**; ticks=3015.
 - Next: **rq_3016 leftover dual** — Further-extended Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3016 — 2026-10-12T19:27:39Z — rq_3016 leftover dual SAAMO Vlaams-Brabant Leuven (Kessel-Lo) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish multi-code 85.592/87.10x/87.30x/88.10x/88.911/88.991-88.999, extended to 30 further Flemish postcodes plus extra codes 88.991-88.994/88.102/87.20x/90-91 in the previous 22), unprocessed hits ranked by YE2025 NBB primary figure: **SAAMO Vlaams-Brabant** → KBO 0431.154.904 had 0 prior entity rows.
+- KBO: Actief since 17 september 1985; VZW; zetel Eénmeilaan 2 3010 Leuven; 4 VE; 0 prior entity rows for 0431.154.904
+- Found: official NBB VKT-VZW native PDF **2026-00099992** (2216674 B / 145p; AV 27-04-2026; neergelegd 04/05/2026; MD5 772d7542d17ac7e47cde63806b975eab). VKT-VZW 9900 **EUR2594335** (+0.25%); 62 **EUR2543741**; 9901 **EUR-62296** (was 24534); 9904 -39580; equity 1514370; cash 751984; FTE 35,3 (was 36,3).
+- FOI address: info.vlaams-brabant@saamo.be — general mailbox verified on official page https://www.saamo.be/vlaams-brabant/contact/ (KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_saamo_vlaams_brabant_vaph_matrix_9900_2_59m_9901_loss_62k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3016/; rq_3016=done; spawn **rq_3017**; ticks=3016.
+- Next: **rq_3017 leftover dual** — Further-extended Flemish multi-code batch in progress; next: remaining units of this batch.
