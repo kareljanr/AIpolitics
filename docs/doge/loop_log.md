@@ -30457,3 +30457,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@despeelbergvzw.be — general mailbox verified on official page https://www.despeelbergvzw.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_de_speelberg_kortrijk_vaph_matrix_9900_3_30m_9901_254k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2764/; rq_2764=done; spawn **rq_2765**; ticks=2764.
 - Next: **rq_2765 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2765 — 2026-10-12T13:48:10Z — rq_2765 leftover dual Auricula Kortrijk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, Limburg / West- and Oost-Vlaanderen postcodes: **Auricula** → KBO 0454.250.802 had 0 prior entity rows.
+- KBO: Actief since 1 december 1994; VZW; zetel Burgemeester Schinkelstraat(Kor) 20 8500 Kortrijk; 2 VE; 0 prior entity rows for 0454.250.802
+- Found: official NBB VKT-VZW native PDF **2026-00323521** (54580 B / 16p; AV 08-07-2026; neergelegd 23/07/2026; MD5 1690048b9035762839b37b733b068b73). VKT-VZW 9900 **EUR1386160** (+10.67%); 62 **EUR1276307**; 9901 **EUR-37714** (was -2218); 9904 -11317; equity 2005892; cash 57937; FTE 20,8 (was 20).
+- FOI address: kinderdagverblijf@auricula-overleie.be — general mailbox verified on official page https://auricula-overleie.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_auricula_kortrijk_vaph_matrix_9900_1_39m_9901_loss_38k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2765/; rq_2765=done; spawn **rq_2766**; ticks=2765.
+- Next: **rq_2766 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

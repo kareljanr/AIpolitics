@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T13:48:01Z,rq_2764,2764,no,tick2764 leftover dual De Speelberg Kortrijk 0430.410.576 Strong PDF 2026-00151733 9900 3.30m / 9901 254k; next rq_2765 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T13:48:10Z,rq_2765,2765,no,tick2765 leftover dual Auricula Kortrijk 0454.250.802 Strong PDF 2026-00323521 9900 1.39m / 9901 loss 38k; next rq_2766 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
