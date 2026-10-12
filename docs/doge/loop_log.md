@@ -34162,3 +34162,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: accueil.cse@csteh.be — reception mailbox verified on official contact page https://cste.be/cse/contact/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_po_colleges_saint_etienne_vaph_matrix_733_13_84m_9901_69k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3132/; rq_3132=done; spawn **rq_3133**; ticks=3132.
 - Next: **rq_3133 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3133 — 2026-10-12T23:15:13Z — rq_3133 leftover dual Centre scolaire du Sacré-Coeur de Lindthout Woluwe-Saint-Lambert YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies (pouvoirs organisateurs, ASBL) and related free-education non-profits; KBO name search over school/PO names (legal form ASBL), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Centre scolaire du Sacré-Coeur de Lindthout** → KBO 0414.213.853 had 0 prior entity rows.
+- KBO: Actief since 29 maart 1974; VZW; zetel Henri Dietrichlaan 20 1200 Sint-Lambrechts-Woluwe; 4 VE; 0 prior entity rows for 0414.213.853
+- Found: official NBB VOL-VZW native PDF **2026-00273563** (989283 B / 38p; AV 25-06-2026; neergelegd 09/07/2026; MD5 c2934bf11f30347c5a3f73f61e188b63). VOL-VZW 733 **EUR13295915** (+10.76%); 62 **EUR12174364**; 9901 **EUR-56322** (was -70956); 9904 157286; equity 3247548; cash 299631; FTE 10,9 (was 10,4).
+- FOI address: accueil@lindthout.be — reception mailbox verified on official page https://www.lindthout.be/copie-de-inscription.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_woluwe_saint_lambert); FOI **gap_sacre_coeur_lindthout_vaph_matrix_733_13_30m_9901_loss_56k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3133/; rq_3133=done; spawn **rq_3134**; ticks=3133.
+- Next: **rq_3134 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
