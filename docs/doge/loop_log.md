@@ -29647,3 +29647,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@eigenkrachtcentrale.be — general mailbox verified on official page https://www.eigenkrachtcentrale.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortenaken); FOI **gap_eigen_kracht_centrale_kortenaken_vaph_matrix_9900_0_64m_9901_58k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2684/; rq_2684=done; spawn **rq_2685**; ticks=2684.
 - Next: **rq_2685 leftover dual** — Opgroeien OVBJ Vlaams-Brabant/Brussel list in progress; next: remaining OVBJ Vlaams-Brabant/Brussel units, then IBIS (verify mailbox), then KBO NACE 87/88 lists.
+
+
+## Tick 2685 — 2026-10-12T08:53:21Z — rq_2685 leftover dual Minor-Ndako & Juna Anderlecht YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Vlaams-Brabant/Brussel list (april 2026): **Minor-Ndako & Juna** → KBO 0473.486.593 had 0 prior entity rows.
+- KBO: Actief since 21 december 2000; VZW; zetel Vogelenzangstraat 76 1070 Anderlecht; 9 VE; 0 prior entity rows for 0473.486.593
+- Found: official NBB VOL-VZW native PDF **2026-00391668** (2634312 B / 42p; AV 12-05-2026; neergelegd 10/08/2026; MD5 59eaef4fd2b9bac62a753cf24506cd8d). VOL-VZW 733 **EUR11950195** (+3.82%); 62 **EUR10128516**; 9901 **EUR153250** (was 18570); 9904 125453; equity 2782830; cash 1337357; FTE 137,4 (was 138,1).
+- FOI address: david.lowyck@minor-ndako.be — named contact from official Opgroeien OVBJ list (opened); official contact page https://www.minor-ndako.be/contact offers only a web form and phone 0496 16 71 72, no general mailbox.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_anderlecht); FOI **gap_minor_ndako_anderlecht_vaph_matrix_733_11_95m_9901_153k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2685/; rq_2685=done; spawn **rq_2686**; ticks=2685.
+- Next: **rq_2686 leftover dual** — Opgroeien OVBJ Vlaams-Brabant/Brussel list in progress; next: remaining OVBJ Vlaams-Brabant/Brussel units, then IBIS (verify mailbox), then KBO NACE 87/88 lists.
