@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T13:40:43Z,every10_2760,2760,no,tick2760 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2760 carried open; home-care/childcare batch done; next more 88.911/88.101 VZWs (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T13:47:35Z,rq_2760,2761,no,tick2761 leftover dual André Dumont Genk 0408.673.866 Strong PDF 2026-00127410 9900 2.51m / 9901 17k; next rq_2762 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

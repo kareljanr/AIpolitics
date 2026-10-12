@@ -30417,3 +30417,13 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2760 run locally as fallback.
 - Source choice (recorded): ticks 2751-2759 used the KBO NACE 88.911 search plus the Perspectief Oostende KBO record (projectvereniging, in scope as public body per igs_ precedent). FOI: general mailboxes; 2 marked NEEDS VERIFICATION (De Knuffel, Kabouterland).
 - Next: **rq_2760** — more NACE 88.911 childcare and 88.101 home-care VZWs outside the main cities; Perspectief Oostende (projectvereniging) needs public-body handling.
+
+
+## Tick 2761 — 2026-10-12T13:47:35Z — rq_2760 leftover dual André Dumont Genk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, Limburg / West- and Oost-Vlaanderen postcodes: **André Dumont** → KBO 0408.673.866 had 0 prior entity rows.
+- KBO: Actief since 31 oktober 1967; VZW; zetel Synaps Park 1920 3600 Genk; 2 VE; 0 prior entity rows for 0408.673.866
+- Found: official NBB VKT-VZW native PDF **2026-00127410** (47793 B / 14p; AV 27-04-2026; neergelegd 28/05/2026; MD5 7fe4f4a2b4c16789a59d5e6af8da63d9). VKT-VZW 9900 **EUR2505122** (+6.21%); 62 **EUR2311288**; 9901 **EUR16739** (was 135529); 9904 9713; equity 2025005; cash 536907; FTE 35,2 (was 33,7).
+- FOI address: info@kdvwombat.be — general mailbox verified on official page https://www.kdvwombat.be/vzw-andr%C3%A9-dumont.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_genk); FOI **gap_andre_dumont_genk_vaph_matrix_9900_2_51m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2761/; rq_2760=done; spawn **rq_2762**; ticks=2761.
+- Next: **rq_2762 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
