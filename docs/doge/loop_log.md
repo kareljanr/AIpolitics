@@ -33482,3 +33482,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: poseidon@woluwe1200.be — facility mailbox verified on official municipal page https://www.woluwe1200.be/services/complexe-sportif-poseidon/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_woluwe_saint_lambert); FOI **gap_poseidon_woluwe_vaph_matrix_9900_1_43m_9901_loss_61k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3064/; rq_3064=done; spawn **rq_3065**; ticks=3064.
 - Next: **rq_3065 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3065 — 2026-10-12T20:52:15Z — rq_3065 leftover dual Histories Schaarbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Belgian publicly funded codes: 91.110/91.120 libraries and archives, 90.111/90.311/90.130 arts venues, 93.110/93.210 municipal sports facilities, 85.520 cultural education; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure; every candidate passed the name/alias/KBO/website dedup check: **Histories** → KBO 0683.950.166 had 0 prior entity rows.
+- KBO: Actief since 26 oktober 2017; VZW; zetel Vooruitgangstraat 323 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0683.950.166
+- Found: official NBB MIC-VZW native PDF **2026-00131092** (45950 B / 11p; AV 28-03-2026; neergelegd 01/06/2026; MD5 074ce6f33b9b4f93cbf9b98de72b9768). MIC-VZW 9900 **EUR1247519** (+5.11%); 62 **EUR1222003**; 9901 **EUR25343** (was 96403); 9904 24983; equity 849358; cash 918180; FTE n/a.
+- FOI address: info@histories.be — general mailbox verified on official page https://histories.be/contact/ (KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_histories_brussel_vaph_matrix_9900_1_25m_9901_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3065/; rq_3065=done; spawn **rq_3066**; ticks=3065.
+- Next: **rq_3066 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
