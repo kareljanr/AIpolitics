@@ -31573,3 +31573,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@faoh.be — general mailbox verified on official page https://www.faoh.be/services (Brussels head office listed).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_faoh_saint_gilles_vaph_matrix_9900_2_86m_9901_258k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2874/; rq_2874=done; spawn **rq_2875**; ticks=2874.
 - Next: **rq_2875 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2875 — 2026-10-12T16:39:20Z — rq_2875 leftover dual MASS de Bruxelles (Maison d'accueil socio-sanitaire) Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **MASS de Bruxelles (Maison d'accueil socio-sanitaire)** → KBO 0465.703.136 had 0 prior entity rows.
+- KBO: Actief since 13 mei 1997; VZW; zetel Woeringenstraat 16-18 1000 Brussel; 1 VE; 0 prior entity rows for 0465.703.136
+- Found: official NBB VKT-VZW native PDF **2026-00319822** (309077 B / 19p; AV 25-06-2026; neergelegd 22/07/2026; MD5 4c64cb3da0d5591cb0e50a4e512611ad). VKT-VZW 9900 **EUR2036450** (+4.82%); 62 **EUR1996777**; 9901 **EUR-110095** (was 44530); 9904 9748; equity 2300933; cash 1676916; FTE 26,9 (was 24,6).
+- FOI address: contact@mass-bxl.be — general mailbox verified on official page https://www.mass-bxl.be/contact (company number on site).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_mass_bruxelles_vaph_matrix_9900_2_04m_9901_loss_110k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2875/; rq_2875=done; spawn **rq_2876**; ticks=2875.
+- Next: **rq_2876 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
