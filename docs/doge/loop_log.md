@@ -31300,3 +31300,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@tousensemble.eu — general mailbox verified on official page https://www.tousensemble.eu/contact (secretariat role mailbox).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_tous_ensemble_handicap_uccle_vaph_matrix_9900_1_91m_9901_225k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2847/; rq_2847=done; spawn **rq_2848**; ticks=2847.
 - Next: **rq_2848 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2848 — 2026-10-12T16:21:49Z — rq_2848 leftover dual Coupole Bruxelloise de l'Autisme Bruxelles (Jette) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Coupole Bruxelloise de l'Autisme** → KBO 0898.476.752 had 0 prior entity rows.
+- KBO: Actief since 11 juni 2008; VZW; zetel Esseghemstraat 41 1090 Jette; 2 VE; 0 prior entity rows for 0898.476.752
+- Found: official NBB VKT-VZW native PDF **2026-00217513** (474160 B / 25p; AV 10-06-2026; neergelegd 25/06/2026; MD5 b05e7cdd9c4fc5c7073aca4a39c59a87). VKT-VZW 9900 **EUR1909627** (+6.55%); 62 **EUR1884945**; 9901 **EUR-7854** (was -5392); 9904 7543; equity 2951119; cash 6444; FTE 30,1 (was 31,4).
+- FOI address: coupole.autisme@coupole.org — general mailbox verified on official page https://www.coupole.org/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_coupole_autisme_jette_vaph_matrix_9900_1_91m_9901_loss_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2848/; rq_2848=done; spawn **rq_2849**; ticks=2848.
+- Next: **rq_2849 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
