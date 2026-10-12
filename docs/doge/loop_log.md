@@ -32113,3 +32113,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vulpia.be — general mailbox verified on official page https://www.vulpia.be/contact (group general mailbox).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_vulpia_bruxelles_evere_vaph_matrix_733_1_40m_9901_loss_1840k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2928/; rq_2928=done; spawn **rq_2929**; ticks=2928.
 - Next: **rq_2929 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2929 — 2026-10-12T17:32:21Z — rq_2929 leftover dual La Forestière Bruxelles (Ixelles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scans 2026-10-12 (Brussels 87.101-87.909 and 88.101-88.109 in 22 postcodes; earlier Flemish 87.x/88.10x and Brussels 88.99x scans), ranked by YE2025 NBB primary figure (733 subsidies, 9900 gross margin, or 70 turnover where 733 is empty): **La Forestière** → KBO 0416.336.173 had 0 prior entity rows.
+- KBO: Actief since 6 juli 1976; VZW; zetel Zomerstraat 89 1050 Elsene; 2 VE; 0 prior entity rows for 0416.336.173
+- Found: official NBB VOL-VZW native PDF **2026-00336127** (683585 B / 37p; AV 09-06-2026; neergelegd 27/07/2026; MD5 35b4543c1eea07f23731ad751eca9ae4). VOL-VZW 70 turnover (NOT a subsidy amount) **EUR2502764** (+0.25%); 62 **EUR1933521**; 9901 **EUR168550** (was -86236); 9904 165636; equity 773611; cash 743334; FTE 31,8 (was 33,6).
+- FOI address: laforestiere@forestiere.be — general mailbox verified on official page https://forestiere.be/contact/ (secretariat; address matches KBO).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_la_forestiere_ixelles_turnover_public_share_70_turnover_2_50m_9901_169k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2929/; rq_2929=done; spawn **rq_2930**; ticks=2929.
+- Next: **rq_2930 leftover dual** — Batch done; next: large unmined scan hits, larger first (Molenbeek Vivre Ensemble EUR7.9m, Tracé Brussel, Human Smile, CASABLANCO, Mission locales not yet covered); skipped this batch: CBIS/CEBIM (contact form only, no mailbox on cebim.be), Anima Cura (mailbox only in statutes via third-party mirror), Heureux Séjour (mailbox only on third-party pages), Groep Philippus Neri (named-person mailboxes only); turnover-mode (code 70) rows are NOT subsidy amounts.
