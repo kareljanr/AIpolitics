@@ -30072,3 +30072,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@derefuge.be — general mailbox verified on official pages https://www.derefuge.be/nl/over-ons/onze-erkenningen and /nl/privacy-policy (KBO number shown).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_de_refuge_gent_vaph_matrix_733_2_44m_9901_238k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2726/; rq_2726=done; spawn **rq_2727**; ticks=2726.
 - Next: **rq_2727 leftover dual** — KBO NACE 88.994 (general welfare work) and 87.301 (rest homes) scan in progress; next: remaining 88.994/87.301 units.
+
+
+## Tick 2727 — 2026-10-12T09:37:18Z — rq_2727 leftover dual Huis Sint-Jozef Antwerpen (Berchem) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.994/87.301 activity search (general welfare work without accommodation / residential care homes for the elderly): **Huis Sint-Jozef** → KBO 0464.810.538 had 0 prior entity rows.
+- KBO: Actief since 3 september 1998; VZW; zetel Grotesteenweg 112 2600 Antwerpen; 1 VE; 0 prior entity rows for 0464.810.538
+- Found: official NBB VOL-VZW native PDF **2026-00210744** (2170610 B / 37p; AV 23-06-2026; neergelegd 29/06/2026; MD5 c7504d5197eb8da963b611640a00a390). VOL-VZW 733 **EUR798864** (-11.33%); 62 **EUR3761517**; 9901 **EUR115014** (was 114702); 9904 27778; equity 2672759; cash 610884; FTE 56,3 (was 59).
+- FOI address: post@hsj-berchem.be — general mailbox verified on official page https://hsj-berchem.be/contact-opties/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_huis_sint_jozef_berchem_vaph_matrix_733_0_80m_9901_115k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2727/; rq_2727=done; spawn **rq_2728**; ticks=2727.
+- Next: **rq_2728 leftover dual** — KBO NACE 88.994 (general welfare work) and 87.301 (rest homes) scan in progress; next: remaining 88.994/87.301 units.
