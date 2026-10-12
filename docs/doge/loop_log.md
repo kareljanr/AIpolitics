@@ -29514,3 +29514,12 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2670 run locally as fallback.
 - Source choice (recorded): ticks 2661-2669 continued the Opgroeien OVBJ provincial lists (mei 2026). FOI: general mailboxes where published; role/unit mailboxes from the Opgroeien list for Jongerenzorg ZWVL (directie@) and Ons Geluk (Magnolia unit).
 - Next: **rq_2670** — OVBJ leftovers (Daidalos, CAS Genk, YAR Vlaanderen, Pieter Simenon, Huize Sint-Vincentius Halen, Jeugdzorgcentrum Kinrooi), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
+
+
+## Tick 2671 — 2026-10-12T08:40:07Z — rq_2671 leftover dual CAS Genk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Limburg list (mei 2026): **CAS** → KBO 0410.536.167 had 0 prior entity rows. Continued Opgroeien OVBJ Limburg list.
+- KBO: Actief since 15 juni 1957; VZW; zetel Erfstraat 10, 3600 Genk; 1 VE; 0 prior entity rows for 0410.536.167
+- Found: official NBB VKT-VZW native PDF **2026-00340351** (316878 B / 23p; AV 11-03-2026; neergelegd 28/07/2026; MD5 533b5872ff35cb62d2577aaf9163e334). VKT-VZW 9900 **EUR2828170** (+5.22%); 62 **EUR2627443**; 9901 **EUR65312** (was 64360); 9904 61869; equity 1622797; cash 647155; FTE 35,6 (was 35).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_genk); FOI **gap_cas_genk_vaph_matrix_9900_2_83m_9901_65k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2671/; rq_2671=done; spawn **rq_2672**; ticks=2671.
+- Next: **rq_2672 leftover dual** — Opgroeien OVBJ Antwerpen leftovers done; next: OVBJ Vlaams-Brabant/Brussel (PDF needs re-parse), then KBO NACE 87/88 lists.
