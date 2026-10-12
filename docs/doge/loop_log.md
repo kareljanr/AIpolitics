@@ -31207,3 +31207,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@pluchke.be — general mailbox verified on official page https://pluchke.be/contact (VZW name shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_pluchke_ukkel_vaph_matrix_9900_2_18m_9901_loss_38k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2838/; rq_2838=done; spawn **rq_2839**; ticks=2838.
 - Next: **rq_2839 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2839 — 2026-10-12T16:16:16Z — rq_2839 leftover dual HADEP (Centre PaZhapa) Bruxelles (Forest) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.102/88.103/88.911 activity searches (Flemish and Brussels-Capital postcodes), ranked by primary figure: **HADEP (Centre PaZhapa)** → KBO 0409.749.675 had 0 prior entity rows.
+- KBO: Actief since 18 juli 1968; VZW; zetel Neerstalse Steenweg 265 1190 Vorst; 1 VE; 0 prior entity rows for 0409.749.675
+- Found: official NBB VKT-VZW native PDF **2026-00164030** (1001076 B / 23p; AV 11-06-2026; neergelegd 16/06/2026; MD5 4b4db10b3ed3c5baf4086fb6ae7142bd). VKT-VZW 9900 **EUR2013038** (+3.77%); 62 **EUR1922741**; 9901 **EUR52742** (was 21620); 9904 51459; equity 838664; cash 364226; FTE 27,4 (was 27,4).
+- FOI address: secretariat@pazhapa.com — general mailbox verified on official page https://www.pazhapa.com/contact (HADEP asbl named).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_hadep_forest_vaph_matrix_9900_2_01m_9901_53k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2839/; rq_2839=done; spawn **rq_2840**; ticks=2839.
+- Next: **rq_2840 leftover dual** — Batch done; next: remaining larger Brussels childcare/day-centre ASBLs from the 88.911/88.99x scan (Elmer, Olina, Rire et Grandir, Espaces Enfance) and Flemish 88.10x VZWs; skipped: Thuiszorg Arbeid en Gezondheid Mechelen (no own mailbox found), OTV Vaartland (otv.be unreachable).
