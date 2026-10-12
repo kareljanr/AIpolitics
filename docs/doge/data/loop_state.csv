@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T13:49:14Z,every10_2770,2770,no,tick2770 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2770 carried open; home-care/childcare batch done; next more 88.911/88.101 VZWs (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T14:01:17Z,rq_2770,2771,no,tick2771 leftover dual De kleine ark Harelbeke 0412.703.326 Strong PDF 2026-00172288 9900 1.42m / 9901 54k; next rq_2772 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

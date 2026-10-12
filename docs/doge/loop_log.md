@@ -30519,3 +30519,13 @@ Append-only. Each tick adds a short entry.
 - Source choice (recorded): ticks 2761-2769 used the KBO NACE 88.911 search (Limburg, West-/Oost-Vlaanderen). FOI: general mailboxes only, all verified on opened official pages; none NEEDS VERIFICATION.
 - Correction: the tick 2760 entry's "Next" line still said Perspectief Oostende needed public-body handling; it was handled in tick 2752 (igs_perspectief_oostende). Fixed in place.
 - Next: **rq_2770** — more NACE 88.911 childcare (West-Vlaanderen remainder) and 88.101 home-care VZWs.
+
+
+## Tick 2771 — 2026-10-12T14:01:17Z — rq_2770 leftover dual De kleine ark Harelbeke YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, West-/Oost-Vlaanderen and Leuven/Limburg postcodes: **De kleine ark** → KBO 0412.703.326 had 0 prior entity rows.
+- KBO: Actief since 10 oktober 1972; VZW; zetel Ballingenweg 23 8530 Harelbeke; 1 VE; 0 prior entity rows for 0412.703.326
+- Found: official NBB VKT-VZW native PDF **2026-00172288** (46985 B / 12p; AV 23-03-2026; neergelegd 18/06/2026; MD5 dc6756fd13a968e356ff4464fdcf86ce). VKT-VZW 9900 **EUR1417801** (+2.13%); 62 **EUR1283661**; 9901 **EUR53931** (was 36761); 9904 160448; equity 736959; cash 428222; FTE 23,9 (was 22,4).
+- FOI address: info@kleineark.be — general mailbox verified on official page https://www.kleineark.be/kinderdagverblijf/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_harelbeke); FOI **gap_de_kleine_ark_harelbeke_vaph_matrix_9900_1_42m_9901_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2771/; rq_2770=done; spawn **rq_2772**; ticks=2771.
+- Next: **rq_2772 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
