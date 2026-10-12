@@ -28740,3 +28740,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00268952** (678572 B / 48p; AV 18-06-2026; neergelegd 08/07/2026; MD5 7a08fa45690a9bb8e7449ab2e6099d5e). VOL 70/76A **EUR17093358** (+2.00%); 733 **EUR14475675** (+2.54%); 62 **EUR14037561** (+8.70%); 9901 592568; 9904 693562; equity 9373874; debt **EUR13677008** JUMP +52.40% (>1j 8698902 was 4751465; 9061 907344); geldbeleggingen 4200000 (was 2880000); cash 1080486 (was 2434246); FTE 192,5.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.60; entities +1 (parent city_sint_niklaas); FOI **gap_raakzaam_sint_niklaas_vaph_matrix_733_14_48m_debt_jump_13_68m_beleggingen_4_2m_l5** prio7 ready (NOT sent) + draft; raw docs/doge/raw/tick2586/; rq_2586=done; spawn **rq_2587**; ticks=2586.
 - Next: **rq_2587 leftover dual** — continue VAPH list scan.
+
+
+## Tick 2587 — 2026-10-12T07:38:50Z — rq_2587 leftover dual Samenpunt Hasselt YE2025 (local fallback runner)
+
+- Hunt: carried from 2586 scan (VAPH page 46): **Samenpunt Hasselt** → KBO 0415.350.238 had 0 prior repo rows.
+- KBO: Actief since 02.08.1975; VZW; zetel Harmoniestraat 1 3500 Hasselt since 01.01.2025; 1 VE; 0 prior repo rows for 0415.350.238
+- Found: official NBB VKT-VZW native PDF **2026-00228214** (52543 B / 15p; AV 19-06-2026; neergelegd 29/06/2026; MD5 506a42a345462cdf987fb834599fe90e). VKT 9900 **EUR4768904** (+6.53%); 73 **EUR4958564**; 62 **EUR4321640** (+6.52%); 9901 **EUR274589** (−10.67%); 9904 288469; equity 2256931; debt 951559; cash **EUR1877652** (was 789225) + beleggingen 466661 (was 1185168); FTE 55,7.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.50; entities +1 (parent city_hasselt); FOI **gap_samenpunt_hasselt_vaph_matrix_73_4_96m_9900_4_77m_cash_jump_1_88m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2587/; rq_2587=done; spawn **rq_2588**; ticks=2587.
+- Next: **rq_2588 leftover dual** — continue VAPH list scan.

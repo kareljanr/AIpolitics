@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T07:38:32Z,rq_2586,2586,no,tick2586 leftover dual Raakzaam Sint-Niklaas 0415.298.669 Strong PDF 2026-00268952 733 14.48m / debt JUMP 13.68m / beleggingen 4.20m; next rq_2587 continue VAPH list scan (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T07:38:50Z,rq_2587,2587,no,tick2587 leftover dual Samenpunt Hasselt 0415.350.238 Strong PDF 2026-00228214 73 4.96m / 9900 4.77m / cash JUMP 1.88m; next rq_2588 continue VAPH list scan (local fallback runner; Actions cron unreliable)
