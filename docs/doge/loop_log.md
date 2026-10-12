@@ -32043,3 +32043,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: reception.cds@irsa.be — general mailbox verified on official page https://www.irsa.be/contact (listed as "Réception / Autre demande").
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_irsa_centre_de_services_uccle_turnover_public_share_70_turnover_20_92m_9901_loss_504k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2921/; rq_2920=done; spawn **rq_2922**; ticks=2921.
 - Next: **rq_2922 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2922 — 2026-10-12T17:30:59Z — rq_2922 leftover dual Société Royale de Philanthropie Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scans 2026-10-12 (Brussels 87.101-87.909 and 88.101-88.109 in 22 postcodes; earlier Flemish 87.x/88.10x and Brussels 88.99x scans), ranked by YE2025 NBB primary figure (733 subsidies, 9900 gross margin, or 70 turnover where 733 is empty): **Société Royale de Philanthropie** → KBO 0822.658.186 had 0 prior entity rows.
+- KBO: Actief since 27 januari 2010; SON; zetel Zuidlaan 142 bus A 1000 Brussel; 1 VE; 0 prior entity rows for 0822.658.186
+- Found: official NBB VOL-SON native PDF **2026-00345539** (413487 B / 47p; AV 18-06-2026; neergelegd 29/07/2026; MD5 9912e062ba63c3bfed746c5feca87b80). VOL-SON 70 turnover (NOT a subsidy amount) **EUR6767342** (+10.38%); 62 **EUR5214302**; 9901 **EUR501178** (was -369424); 9904 511583; equity 29815393; cash 4384944; FTE 87,9 (was 95,5).
+- FOI address: info@residenceportedehal.be — general mailbox verified on official page https://www.residenceportedehal.be/ (site of the Résidence Porte de Hal, which it states is administered by the Société Royale de Philanthropie).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_societe_royale_philanthropie_bruxelles_turnover_public_share_70_turnover_6_77m_9901_501k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2922/; rq_2922=done; spawn **rq_2923**; ticks=2922.
+- Next: **rq_2923 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
