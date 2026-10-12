@@ -29788,3 +29788,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: post@martens-sotteau.be — general mailbox verified on official page https://www.martens-sotteau.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_martens_sotteau_gent_vaph_matrix_9900_3_73m_9901_loss_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2698/; rq_2698=done; spawn **rq_2699**; ticks=2698.
 - Next: **rq_2699 leftover dual** — OVBJ leftover re-check across the 5 provincial lists (KBO-number match) in progress; next: remaining re-check leftovers, then KBO NACE 87/88 lists.
+
+
+## Tick 2699 — 2026-10-12T09:03:13Z — rq_2699 leftover dual Alba Herent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Vlaams-Brabant/Brussel list (april 2026; re-check leftovers): **Alba** → KBO 0424.376.780 had 0 prior entity rows.
+- KBO: Actief since 17 maart 1983; VZW; zetel Brusselsesteenweg 78 3020 Herent; 3 VE; 0 prior entity rows for 0424.376.780
+- Found: official NBB VKT-VZW native PDF **2026-00180043** (54948 B / 15p; AV 11-06-2026; neergelegd 22/06/2026; MD5 55c158d310e6b30963d50c04be01a87b). VKT-VZW 9900 **EUR4278436** (+15.12%); 62 **EUR3942513**; 9901 **EUR234541** (was -167532); 9904 238999; equity 1440032; cash 446575; FTE 51,6 (was 50,1).
+- FOI address: alba@alba.be — general mailbox verified on official page https://www.alba.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_herent); FOI **gap_alba_herent_vaph_matrix_9900_4_28m_9901_235k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2699/; rq_2699=done; spawn **rq_2700**; ticks=2699.
+- Next: **rq_2700 leftover dual** — OVBJ leftover re-check finished (Kompani Koksijde skipped: VOL 733 empty; NOVA Kortrijk no filing yet; GO! school groups out of scope); next: KBO NACE 87/88 lists.
