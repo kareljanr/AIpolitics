@@ -33103,3 +33103,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: wobra@campuspov.be — general mailbox of WOBRA verified on official page https://campuspov.be/contact/ (address Diksmuidse Heirweg 6 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_zedelgem); FOI **gap_wobra_zedelgem_vaph_matrix_9900_2_19m_9901_228k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3027/; rq_3027=done; spawn **rq_3028**; ticks=3027.
 - Next: **rq_3028 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3028 — 2026-10-12T19:52:42Z — rq_3028 leftover dual Woon- en Zorgcentrum Mariahuis Gavere Gavere YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish multi-code 85.592/87.101/87.301/88.101/88.911/88.991/88.993/88.999, extended to ~190 further Flemish municipality postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Woon- en Zorgcentrum Mariahuis Gavere** → KBO 0448.318.855 had 0 prior entity rows.
+- KBO: Actief since 15 juni 1992; VZW; zetel Kloosterstraat 6 9890 Gavere; 2 VE; 0 prior entity rows for 0448.318.855
+- Found: official NBB VOL-VZW native PDF **2026-00192505** (646518 B / 44p; AV 18-06-2026; neergelegd 22/06/2026; MD5 c0f95a892140648c7768b5caa7d2bc2b). VOL-VZW 733 **EUR2151087** (-2.95%); 62 **EUR7463103**; 9901 **EUR453881** (was 708717); 9904 275350; equity 3951026; cash 692965; FTE 103,5 (was 106,8).
+- FOI address: info@sitemariahuis.be — general mailbox verified on official page https://www.sitemariahuis.be/index.php/contact/ (site of Mariahuis Gavere).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gavere); FOI **gap_mariahuis_gavere_vaph_matrix_733_2_15m_9901_454k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3028/; rq_3028=done; spawn **rq_3029**; ticks=3028.
+- Next: **rq_3029 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
