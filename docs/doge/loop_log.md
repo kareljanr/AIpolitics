@@ -32453,3 +32453,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@autoworld.be — general mailbox verified on official page https://www.autoworld.be/contact (address Jubelpark 11 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_autoworld_brussel_vaph_matrix_9900_1_70m_9901_667k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2962/; rq_2962=done; spawn **rq_2963**; ticks=2962.
 - Next: **rq_2963 leftover dual** — Brussels culture (90.x/91.x) + leftover training batch in progress; next: remaining units of this batch.
+
+
+## Tick 2963 — 2026-10-12T18:16:23Z — rq_2963 leftover dual Archives et Musée de la Littérature (AML) Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels culture 90.111/90.120/90.130/90.311/91.110/91.210, plus leftover 85.592/86.940 hits, in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Archives et Musée de la Littérature (AML)** → KBO 0410.316.037 had 0 prior entity rows.
+- KBO: Actief since 1 maart 1958; VZW; zetel Keizerslaan 4 1000 Brussel; 1 VE; 0 prior entity rows for 0410.316.037
+- Found: official NBB VKT-VZW native PDF **2026-00473996** (52055 B / 14p; AV 08-05-2026; neergelegd 31/08/2026; MD5 b414371a16a4d10db0285c2ef73ad388). VKT-VZW 9900 **EUR1662529** (+5.38%); 62 **EUR1514719**; 9901 **EUR25808** (was -7815); 9904 29798; equity 156834; cash 29684; FTE 16,7 (was 17,8).
+- FOI address: info@aml-cfwb.be — main contact mailbox verified on official page https://aml-cfwb.be/infos-pratiques/contacts/ (registered office Bd de l'Empereur 4 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_aml_bruxelles_vaph_matrix_9900_1_66m_9901_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2963/; rq_2963=done; spawn **rq_2964**; ticks=2963.
+- Next: **rq_2964 leftover dual** — Brussels culture (90.x/91.x) + leftover training batch in progress; next: remaining units of this batch.
