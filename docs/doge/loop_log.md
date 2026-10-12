@@ -30569,3 +30569,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vzwballonneke.be — general mailbox verified on official page https://www.vzwballonneke.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bkz); FOI **gap_t_ballonneke_melsele_vaph_matrix_9900_3_39m_9901_147k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2775/; rq_2775=done; spawn **rq_2776**; ticks=2775.
 - Next: **rq_2776 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2776 — 2026-10-12T14:02:03Z — rq_2776 leftover dual De Kinderkopjes Assenede YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, West-/Oost-Vlaanderen and Leuven/Limburg postcodes: **De Kinderkopjes** → KBO 0787.576.058 had 0 prior entity rows.
+- KBO: Actief since 23 juni 2022; VZW; zetel Leegstraat 17 bus C 9960 Assenede; 2 VE; 0 prior entity rows for 0787.576.058
+- Found: official NBB VKT-VZW native PDF **2026-00385381** (49075 B / 13p; AV 18-05-2026; neergelegd 06/08/2026; MD5 8e1a4fb2ef7087603965a16df4daae51). VKT-VZW 9900 **EUR934042** (+16.81%); 62 **EUR792834**; 9901 **EUR121863** (was 107158); 9904 126863; equity 256311; cash 225994; FTE 20,3 (was 16,1).
+- FOI address: info@dekinderkopjes.be — general mailbox verified on official page https://www.dekinderkopjes.be/blank-3 (KBO number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_assenede); FOI **gap_de_kinderkopjes_assenede_vaph_matrix_9900_0_93m_9901_122k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2776/; rq_2776=done; spawn **rq_2777**; ticks=2776.
+- Next: **rq_2777 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
