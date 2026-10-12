@@ -29431,3 +29431,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00159383** (1100833 B / 46p; AV 03-06-2026; neergelegd 11/06/2026; MD5 3b10d3a1b884862ae51a00fac510cd48). VOL-VZW 733 **EUR8595386** (+5.05%); 62 **EUR6947834**; 9901 **EUR307810** (was -47010); 9904 318555; equity 4106556; cash 1360793; FTE 84,9 (was 84,7).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_binnenstad_brugge_vaph_matrix_733_8_60m_9901_308k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2661/; rq_2661=done; spawn **rq_2662**; ticks=2661.
 - Next: **rq_2662 leftover dual** — continue Opgroeien OVBJ lists (leftovers: Daidalos, IBIS, CAS Genk, YAR, Pieter Simenon, Huize Sint-Vincentius Halen, Jeugdzorgcentrum Kinrooi), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
+
+
+## Tick 2662 — 2026-10-12T08:36:33Z — rq_2662 leftover dual Hof ter Welle Beveren-Kruibeke-Zwijndrecht YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Oost-Vlaanderen list (mei 2026): **Hof ter Welle** → KBO 0454.361.955 had 0 prior entity rows.
+- KBO: Actief since 27 september 1994; VZW; zetel Anna Piersdreef 1, 9120 Beveren-Kruibeke-Zwijndrecht; 2 VE; 0 prior entity rows for 0454.361.955
+- Found: official NBB VKT-VZW native PDF **2026-00129862** (357644 B / 25p; AV 18-05-2026; neergelegd 26/05/2026; MD5 599c14594aab634bb515091a0d362811). VKT-VZW 9900 **EUR4701070** (+0.35%); 62 **EUR4482540**; 9901 **EUR41472** (was 212096); 9904 36634; equity 2558740; cash 594662; FTE 54,6 (was 53,6).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bever); FOI **gap_hof_ter_welle_beveren_vaph_matrix_9900_4_70m_9901_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2662/; rq_2662=done; spawn **rq_2663**; ticks=2662.
+- Next: **rq_2663 leftover dual** — continue Opgroeien OVBJ lists (leftovers: Daidalos, IBIS, CAS Genk, YAR, Pieter Simenon, Huize Sint-Vincentius Halen, Jeugdzorgcentrum Kinrooi), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
