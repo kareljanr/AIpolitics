@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T08:33:58Z,every10_2660,2660,no,tick2660 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2660 carried open; source Opgroeien OVBJ list (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T08:36:23Z,rq_2660,2661,no,"tick2661 leftover dual Binnenstad Brugge 0454.348.691 Strong PDF 2026-00159383 733 8.60m / 9901 308k; next rq_2662 continue Opgroeien OVBJ lists (leftovers: Daidalos, IBIS, CAS Genk, YAR, Pieter Simenon, Huize Sint-Vincentius Halen, Jeugdzorgcentrum Kinrooi), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88 (local fallback runner; Actions cron unreliable)"

@@ -29422,3 +29422,12 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2660 run locally as fallback.
 - Source choice (recorded): ticks 2651-2652 NEW SOURCE Opgroeien OBC + GES+ lists (april 2026); ticks 2653-2659 NEW SOURCE Opgroeien OVBJ provincial lists (mei 2026). FOI: general mailboxes where published; named Opgroeien-list contacts for De Wiekslag and De Walhoeve (none published).
 - Next: **rq_2660** — OVBJ leftovers (Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
+
+
+## Tick 2661 — 2026-10-12T08:36:23Z — rq_2661 leftover dual Binnenstad Brugge YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ West-Vlaanderen list (mei 2026): **Binnenstad** → KBO 0454.348.691 had 0 prior entity rows. Continued Opgroeien OVBJ provincial lists.
+- KBO: Actief since 9 november 1994; VZW; zetel Wijngaardplein 1, 8000 Brugge; 3 VE; 0 prior entity rows for 0454.348.691
+- Found: official NBB VOL-VZW native PDF **2026-00159383** (1100833 B / 46p; AV 03-06-2026; neergelegd 11/06/2026; MD5 3b10d3a1b884862ae51a00fac510cd48). VOL-VZW 733 **EUR8595386** (+5.05%); 62 **EUR6947834**; 9901 **EUR307810** (was -47010); 9904 318555; equity 4106556; cash 1360793; FTE 84,9 (was 84,7).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_binnenstad_brugge_vaph_matrix_733_8_60m_9901_308k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2661/; rq_2661=done; spawn **rq_2662**; ticks=2661.
+- Next: **rq_2662 leftover dual** — continue Opgroeien OVBJ lists (leftovers: Daidalos, IBIS, CAS Genk, YAR, Pieter Simenon, Huize Sint-Vincentius Halen, Jeugdzorgcentrum Kinrooi), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
