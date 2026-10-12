@@ -3,7 +3,7 @@
 **gap_id:** `gap_kannet_antwerpen_vaph_matrix_9900_1_97m_9901_7k_l5`  
 **status:** ready (NOT sent)  
 **entity:** KanNet VZW — KBO **0413.132.601** (Actief; VZW; zetel Arthur Goemaerelei 66, 2018 Antwerpen; 10 VE)  
-**recipient:** KanNet VZW / Voorzitter Raad van Bestuur — ingrid.borre@kvg.be — Arthur Goemaerelei 66, 2018 Antwerpen  
+**recipient:** KanNet VZW (algemeen adres) — info@kannet.be — Arthur Goemaerelei 66, 2018 Antwerpen  
 **sources:** official NBB VKT-VZW native PDF deposit **2026-00104916** (53092 B / 15p; AV 28-03-2026; neergelegd 07/05/2026; MD5 bab841a600d0652156df43edfce887d1) + KBO + VAPH adreslijst
 
 ## Onderwerp

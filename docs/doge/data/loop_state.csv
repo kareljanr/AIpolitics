@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T08:16:49Z,every10_2630,2630,no,tick2630 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2630 carried open; source Opgroeien CKG list (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T08:21:44Z,rq_2630,2631,no,"tick2631 leftover dual CKG Sint-Clara Brugge 0447.771.103 Strong PDF 2026-00476151 9900 3.65m / 9901 115k; next rq_2632 continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists (local fallback runner; Actions cron unreliable)"

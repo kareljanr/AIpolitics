@@ -29144,3 +29144,14 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2630 run locally as fallback.
 - Source choice (recorded): ticks 2621-2624 finished the Vrij CLB-netwerk; ticks 2625-2629 NEW SOURCE Opgroeien CKG contact list (april 2026). FOI addresses: general mailboxes preferred over named persons where findable.
 - Next: **rq_2630** — remaining CKGs (Sint-Clara Brugge, Den Boomgaard Lierde, Het Open Poortje Schilde, Koraal, i-mens), then other Opgroeien jeugdhulp lists.
+
+
+## Tick 2631 — 2026-10-12T08:21:44Z — rq_2631 leftover dual CKG Sint-Clara Brugge YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien CKG contact list (april 2026): **CKG Sint-Clara** → KBO 0447.771.103 had 0 prior entity rows. Continued Opgroeien CKG list. Skipped: CKG Glorieux (run by hospital group vzw Werken Glorieux 0424.380.938, not a standalone CKG filing), CKG Zorgbedrijf Antwerpen (public OCMW-association), CKG Den Boomgaard Lierde 0429.897.961 (VOL filing leaves 733 empty), Het Open Poortje Schilde 0425.418.244 (VOL filing books 6.95m under 732 legaten, 733 empty; parked for manual review).
+- KBO: Actief since 12 maart 1992; VZW; zetel Garenmarkt 9, 8000 Brugge; 1 VE; 0 prior entity rows for 0447.771.103
+- Found: official NBB VKT-VZW native PDF **2026-00476151** (48978 B / 12p; AV 27-04-2026; neergelegd 26/08/2026; MD5 d0b2476bc492397a9c109a66108a799a). VKT-VZW 9900 **EUR3654991** (-0.51%); 62 **EUR3469219**; 9901 **EUR114955** (was 141859); 9904 124498; equity 1695683; cash 243108; FTE 47,3 (was 47,5).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_ckg_sint_clara_brugge_vaph_matrix_9900_3_65m_9901_115k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2631/; rq_2631=done; spawn **rq_2632**; ticks=2631.
+- Next: **rq_2632 leftover dual** — continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists.
+
+- tick2631 contact switch: KanNet FOI draft + foi_queue gap_kannet_antwerpen_vaph_matrix_9900_1_97m_9901_7k_l5 recipient ingrid.borre@kvg.be -> general mailbox info@kannet.be (verified on https://kannet.be/contact/). Ter Wende-Espero left on mattias.bouckaert@terwende-espero.org: no general mailbox verifiable on an official page (info@terwende-espero.org only seen in search snippets; terwende-espero.org unreachable; info@obc-espero.org belongs to OBC Espero unit site only). Drafts only, nothing sent.
