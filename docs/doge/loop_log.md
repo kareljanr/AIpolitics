@@ -30893,3 +30893,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@enviawaas.be — general mailbox verified on official page https://envia.be/contact/ (Envía Waas section).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_sint_niklaas); FOI **gap_envia_waas_vaph_matrix_9900_0_55m_9901_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2807/; rq_2807=done; spawn **rq_2808**; ticks=2807.
 - Next: **rq_2808 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2808 — 2026-10-12T15:07:05Z — rq_2808 leftover dual Thuis Leven Arendonk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301/87.302 (nursing homes, assistance flats) and 88.101 (home care) activity searches, Brussels and remaining Flemish postcodes, ranked by primary figure: **Thuis Leven** → KBO 0766.553.089 had 0 prior entity rows.
+- KBO: Actief since 9 april 2021; VZW; zetel Hoge Mauw 1510 2370 Arendonk; 3 VE; 0 prior entity rows for 0766.553.089
+- Found: official NBB VKT-VZW native PDF **2026-00134673** (52513 B / 15p; AV 04-05-2026; neergelegd 03/06/2026; MD5 1dfa51de860fc7eae95fcd1ddbc85a79). VKT-VZW 9900 **EUR468862** (-3.82%); 62 **EUR158890**; 9901 **EUR-93332** (was -51313); 9904 -449018; equity -1568486; cash 164223; FTE 1,8 (was 1,8).
+- FOI address: info@thuisleven.be — general mailbox verified on official page https://www.thuisleven.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_arendonk); FOI **gap_thuis_leven_arendonk_vaph_matrix_9900_0_47m_9901_loss_93k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2808/; rq_2808=done; spawn **rq_2809**; ticks=2808.
+- Next: **rq_2809 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
