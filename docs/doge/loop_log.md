@@ -31783,3 +31783,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@accessandgo-abp.be — general mailbox verified on official page https://accessandgo.be/ (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_accessandgo_woluwe_vaph_matrix_9900_0_77m_9901_loss_77k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2895/; rq_2895=done; spawn **rq_2896**; ticks=2895.
 - Next: **rq_2896 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2896 — 2026-10-12T16:49:03Z — rq_2896 leftover dual CAP-ITI (Centre d'Accueil Postpénitentiaire - Information - Traitement - Intervention) Bruxelles (Forest) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **CAP-ITI (Centre d'Accueil Postpénitentiaire - Information - Traitement - Intervention)** → KBO 0447.515.240 had 0 prior entity rows.
+- KBO: Actief since 18 februari 1992; VZW; zetel Albertlaan 29 1190 Vorst; 1 VE; 0 prior entity rows for 0447.515.240
+- Found: official NBB VKT-VZW native PDF **2026-00151325** (35686 B / 9p; AV 19-05-2026; neergelegd 09/06/2026; MD5 402b44809bddb229ddaecd047b27a8b2). VKT-VZW 9900 **EUR721463** (+7.04%); 62 **EUR694467**; 9901 **EUR9102** (was 8533); 9904 531; equity 99817; cash 4418; FTE 11 (was 11).
+- FOI address: info@capiti.be — general mailbox verified on official page https://www.capiti.be/contact (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_cap_iti_forest_vaph_matrix_9900_0_72m_9901_9k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2896/; rq_2896=done; spawn **rq_2897**; ticks=2896.
+- Next: **rq_2897 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
