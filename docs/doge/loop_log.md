@@ -32033,3 +32033,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2920 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-2920 run locally as fallback.
 - Next: **rq_2920** — large Brussels 87.x VOL filers once the toolkit handles empty 733 (IRSA, Coordination bruxelloise, Société Royale de Philanthropie, WZC Sint-Jozef), otherwise a new NACE band.
+
+
+## Tick 2921 — 2026-10-12T17:30:50Z — rq_2920 leftover dual IRSA - Centre de Services Bruxelles (Uccle) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scans 2026-10-12 (Brussels 87.101-87.909 and 88.101-88.109 in 22 postcodes; earlier Flemish 87.x/88.10x and Brussels 88.99x scans), ranked by YE2025 NBB primary figure (733 subsidies, 9900 gross margin, or 70 turnover where 733 is empty): **IRSA - Centre de Services** → KBO 0431.645.248 had 0 prior entity rows.
+- KBO: Actief since 15 juli 1985; VZW; zetel Waterloosesteenweg 1504 1180 Ukkel; 3 VE; 0 prior entity rows for 0431.645.248
+- Found: official NBB VOL-VZW native PDF **2026-00229153** (539314 B / 46p; AV 25-06-2026; neergelegd 29/06/2026; MD5 f043f69c0b2e99ce726e407aa9c933ca). VOL-VZW 70 turnover (NOT a subsidy amount) **EUR20919255** (+1.51%); 62 **EUR18577108**; 9901 **EUR-503957** (was -403847); 9904 -622954; equity 15410614; cash 426732; FTE 268 (was 273,7).
+- FOI address: reception.cds@irsa.be — general mailbox verified on official page https://www.irsa.be/contact (listed as "Réception / Autre demande").
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_irsa_centre_de_services_uccle_turnover_public_share_70_turnover_20_92m_9901_loss_504k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2921/; rq_2920=done; spawn **rq_2922**; ticks=2921.
+- Next: **rq_2922 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
