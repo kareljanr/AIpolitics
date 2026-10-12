@@ -33173,3 +33173,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@gymfed.be — general mailbox verified on official page https://www.gymfed.be/privacy (Zuiderlaan 13 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_gymfed_gent_vaph_matrix_9900_4_46m_9901_213k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3034/; rq_3034=done; spawn **rq_3035**; ticks=3034.
 - Next: **rq_3035 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3035 — 2026-10-12T20:17:39Z — rq_3035 leftover dual Tennis en Padel Vlaanderen Elsene YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (new codes 93.191 sport federations, 93.121/93.199 sport, 84.130 public administration of economic affairs, 72.200 social-science research; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Tennis en Padel Vlaanderen** → KBO 0419.730.381 had 0 prior entity rows.
+- KBO: Actief since 30 juni 1979; VZW; zetel Galerij van de Louizapoort 203 bus 3 1050 Elsene; 1 VE; 0 prior entity rows for 0419.730.381
+- Found: official NBB VKT-VZW native PDF **2026-00084672** (492606 B / 26p; AV 31-03-2026; neergelegd 21/04/2026; MD5 f20ddd606821a1fe6bf1854b2a4e292c). VKT-VZW 9900 **EUR3990754** (+9.95%); 62 **EUR3014167**; 9901 **EUR274377** (was 57231); 9904 366400; equity 7773859; cash 992520; FTE 28,7 (was 30,1).
+- FOI address: info@tennisenpadelvlaanderen.be — general mailbox verified on official page https://www.tennisenpadelvlaanderen.be/contact (KBO number and Louizapoortgalerij 203 bus 3 shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ixelles); FOI **gap_tennis_padel_vlaanderen_vaph_matrix_9900_3_99m_9901_274k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3035/; rq_3035=done; spawn **rq_3036**; ticks=3035.
+- Next: **rq_3036 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
