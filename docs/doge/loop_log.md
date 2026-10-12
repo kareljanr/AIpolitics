@@ -30934,3 +30934,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@centrefamilial.be — general mailbox verified on official page https://centrefamilial.be/declaration-de-confidentialite-2/ (states BCE 0408.599.731; site footer shows 0409.588.791, a different number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_centre_familial_bruxelles_vaph_matrix_733_13_07m_9901_loss_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2811/; rq_2810=done; spawn **rq_2812**; ticks=2811.
 - Next: **rq_2812 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2812 — 2026-10-12T15:12:36Z — rq_2812 leftover dual Aide familiale - Région bruxelloise Bruxelles (Ixelles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101/87.301/87.302/87.202 activity searches, Brussels-Capital postcodes (French-language ASBLs), ranked by primary figure: **Aide familiale - Région bruxelloise** → KBO 0415.862.952 had 0 prior entity rows.
+- KBO: Actief since 15 december 1975; VZW; zetel Maria Malibranstraat 53 1050 Elsene; 1 VE; 0 prior entity rows for 0415.862.952
+- Found: official NBB VOL-VZW native PDF **2026-00197290** (2264638 B / 56p; AV 24-06-2026; neergelegd 25/06/2026; MD5 6c4057393c59de0c5164e3c2ac520299). VOL-VZW 733 **EUR11114467** (+6.55%); 62 **EUR11298770**; 9901 **EUR106555** (was 77716); 9904 107578; equity 10321; cash 150351; FTE 218,2 (was 227).
+- FOI address: info.bxl@fasd.be — general mailbox verified on official page https://bruxelles.aideetsoinsadomicile.be/contact/ (ASD Bruxelles; page lists BCE 0415.862.952).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ixelles); FOI **gap_aide_familiale_region_bruxelloise_vaph_matrix_733_11_11m_9901_107k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2812/; rq_2812=done; spawn **rq_2813**; ticks=2812.
+- Next: **rq_2813 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

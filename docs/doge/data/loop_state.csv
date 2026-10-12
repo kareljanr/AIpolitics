@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T15:12:27Z,rq_2810,2811,no,tick2811 leftover dual Centre Familial de Bruxelles Bruxelles (Schaerbeek) 0408.599.731 Strong PDF 2026-00177457 733 13.07m / 9901 loss 14k; next rq_2812 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T15:12:36Z,rq_2812,2812,no,tick2812 leftover dual Aide familiale - Région bruxelloise Bruxelles (Ixelles) 0415.862.952 Strong PDF 2026-00197290 733 11.11m / 9901 107k; next rq_2813 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
