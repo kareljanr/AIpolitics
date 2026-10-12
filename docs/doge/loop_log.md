@@ -32703,3 +32703,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vkantwerpen.be — general mailbox verified on official page https://www.vertrouwenscentrum-kindermishandeling.be/antwerpen/ (address Prof. Claraplein 1 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_vk_antwerpen_vaph_matrix_9900_2_79m_9901_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2987/; rq_2987=done; spawn **rq_2988**; ticks=2987.
 - Next: **rq_2988 leftover dual** — Flemish 88.99x batch in progress; next: remaining units of this batch.
+
+
+## Tick 2988 — 2026-10-12T18:33:38Z — rq_2988 leftover dual SAAMO provincie Antwerpen Mechelen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.991-88.999 social work / sheltered work in 18 Flemish city postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **SAAMO provincie Antwerpen** → KBO 0432.767.973 had 0 prior entity rows.
+- KBO: Actief since 28 oktober 1986; VZW; zetel Van Benedenlaan 12 2800 Mechelen; 6 VE; 0 prior entity rows for 0432.767.973
+- Found: official NBB VKT-VZW native PDF **2026-00112187** (66148 B / 20p; AV 23-04-2026; neergelegd 18/05/2026; MD5 9c53bf36fa666e0fb72ddb2922c8a239). VKT-VZW 9900 **EUR2305601** (+8.09%); 62 **EUR2335493**; 9901 **EUR-78741** (was 77451); 9904 -75863; equity 490807; cash 476329; FTE 32,2 (was 29).
+- FOI address: info.provincieantwerpen@saamo.be — general mailbox verified on official page https://www.saamo.be/provincie-antwerpen/contact/ (KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mechelen); FOI **gap_saamo_provincie_antwerpen_vaph_matrix_9900_2_31m_9901_loss_79k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2988/; rq_2988=done; spawn **rq_2989**; ticks=2988.
+- Next: **rq_2989 leftover dual** — Flemish 88.99x batch in progress; next: remaining units of this batch.
