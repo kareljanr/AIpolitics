@@ -32763,3 +32763,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@webwerkt.be — general mailbox verified on official page https://webwerkt.be/wie-zijn-we/ (address Steenweg op Tielen 70 and KBO number shown there).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_turnhout); FOI **gap_werkervaringsbedrijven_turnhout_vaph_matrix_733_3_93m_9901_loss_322k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2993/; rq_2993=done; spawn **rq_2994**; ticks=2993.
 - Next: **rq_2994 leftover dual** — Flemish 85.592/87.101/88.911 batch in progress; next: remaining units of this batch.
+
+
+## Tick 2994 — 2026-10-12T18:46:05Z — rq_2994 leftover dual Squatina Oostende YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 85.592 training, 87.101 residential care, 88.911 childcare and related codes in 18 Flemish city postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Squatina** → KBO 0418.015.857 had 0 prior entity rows.
+- KBO: Actief since 29 december 1977; VZW; zetel Nachtegalenlaan 38 8400 Oostende; 4 VE; 0 prior entity rows for 0418.015.857
+- Found: official NBB VOL-VZW native PDF **2026-00136445** (583260 B / 50p; AV 03-06-2026; neergelegd 04/06/2026; MD5 5acab8ac677067f5457f23ad5027eca5). VOL-VZW 733 **EUR3200110** (-3.71%); 62 **EUR14703499**; 9901 **EUR-540158** (was -212058); 9904 -399044; equity 30915370; cash 1344712; FTE 201,1 (was 209,7).
+- FOI address: info@squatina.be — general mailbox verified on official page https://squatina.be/contact (address Nachtegalenlaan 38 and KBO number shown there).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oostende); FOI **gap_squatina_oostende_vaph_matrix_733_3_20m_9901_loss_540k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2994/; rq_2994=done; spawn **rq_2995**; ticks=2994.
+- Next: **rq_2995 leftover dual** — Flemish 85.592/87.101/88.911 batch in progress; next: remaining units of this batch.
