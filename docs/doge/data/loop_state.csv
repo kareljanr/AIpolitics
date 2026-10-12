@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T16:29:15Z,rq_2860,2861,no,tick2861 leftover dual Les Jardins du 8ème Jour - Nokto Bruxelles (Neder-Over-Heembeek) 0721.841.435 Strong PDF 2026-00107302 9900 1.16m / 9901 12k; next rq_2862 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T16:29:25Z,rq_2862,2862,no,tick2862 leftover dual Réseau Coordination Enfance Bruxelles (Schaerbeek) 0461.931.717 Strong PDF 2026-00276645 9900 1.07m / 9901 12k; next rq_2863 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

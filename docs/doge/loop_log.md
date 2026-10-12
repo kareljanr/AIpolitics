@@ -31441,3 +31441,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: nokto@noktoasbl.be — general mailbox verified on official page https://noktoasbl.be/ (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_nokto_bruxelles_vaph_matrix_9900_1_16m_9901_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2861/; rq_2860=done; spawn **rq_2862**; ticks=2861.
 - Next: **rq_2862 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2862 — 2026-10-12T16:29:25Z — rq_2862 leftover dual Réseau Coordination Enfance Bruxelles (Schaerbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Réseau Coordination Enfance** → KBO 0461.931.717 had 0 prior entity rows.
+- KBO: Actief since 16 september 1997; VZW; zetel Haachtsesteenweg 146 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0461.931.717
+- Found: official NBB VKT-VZW native PDF **2026-00276645** (61897 B / 18p; AV 18-06-2026; neergelegd 10/07/2026; MD5 ef1f52c103ab11206b41ac1b5653ee51). VKT-VZW 9900 **EUR1070309** (-4.65%); 62 **EUR839007**; 9901 **EUR12201** (was 4447); 9904 12317; equity 115779; cash 150087; FTE 13,9 (was 15).
+- FOI address: contact@rce-bruxelles.be — general mailbox verified on official page https://rce-bruxelles.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_rce_schaerbeek_vaph_matrix_9900_1_07m_9901_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2862/; rq_2862=done; spawn **rq_2863**; ticks=2862.
+- Next: **rq_2863 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
