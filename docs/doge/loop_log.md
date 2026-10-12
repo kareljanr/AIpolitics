@@ -32873,3 +32873,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@synkroon.be — general mailbox verified on official page https://synkroon.be/contact (head office Betekomsesteenweg 47 bus 3 and KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_aarschot); FOI **gap_synkroon_aarschot_vaph_matrix_9900_3_33m_9901_282k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3004/; rq_3004=done; spawn **rq_3005**; ticks=3004.
 - Next: **rq_3005 leftover dual** — Extended Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3005 — 2026-10-12T19:02:03Z — rq_3005 leftover dual Begeleidingsdienst Limburgs Mijngebied (BLM) Genk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 85.592/87.101/87.301/87.302/88.101/88.109/88.911/88.999, extended to 22 more Flemish city postcodes, plus 88.99x leftovers), unprocessed hits ranked by YE2025 NBB primary figure: **Begeleidingsdienst Limburgs Mijngebied (BLM)** → KBO 0435.914.040 had 0 prior entity rows.
+- KBO: Actief since 14 september 1988; VZW; zetel Oosterring 7C04 3600 Genk; 1 VE; 0 prior entity rows for 0435.914.040
+- Found: official NBB VKT-VZW native PDF **2026-00296637** (58008 B / 17p; AV 25-06-2026; neergelegd 10/07/2026; MD5 fb6b39d1da1b839970f0c9d6da7921dc). VKT-VZW 9900 **EUR3164137** (+10.08%); 62 **EUR2891969**; 9901 **EUR36401** (was 97169); 9904 -33348; equity 3099228; cash 1427003; FTE 57,8 (was 54,3).
+- FOI address: info@blmgenk.be — general mailbox verified on official page https://blmgenk.be/contact/ (Oosterring 7C4 and VAT BE0435.914.040 shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_genk); FOI **gap_blm_genk_vaph_matrix_9900_3_16m_9901_36k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3005/; rq_3005=done; spawn **rq_3006**; ticks=3005.
+- Next: **rq_3006 leftover dual** — Extended Flemish multi-code batch in progress; next: remaining units of this batch.
