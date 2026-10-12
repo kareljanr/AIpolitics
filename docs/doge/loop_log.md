@@ -32643,3 +32643,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@emino.be — general mailbox verified on official page https://www.emino.be/contact (address Kipdorpvest 50 matches KBO).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_emino_antwerpen_vaph_matrix_733_16_67m_9901_38k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2981/; rq_2980=done; spawn **rq_2982**; ticks=2981.
 - Next: **rq_2982 leftover dual** — Flemish 88.99x batch in progress; next: remaining units of this batch.
+
+
+## Tick 2982 — 2026-10-12T18:32:36Z — rq_2982 leftover dual SAAMO Antwerpen Antwerpen (Borgerhout) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.991-88.999 social work / sheltered work in 18 Flemish city postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **SAAMO Antwerpen** → KBO 0425.500.396 had 0 prior entity rows.
+- KBO: Actief since 27 juni 1983; VZW; zetel Turnhoutsebaan 130 bus 1 2140 Antwerpen; 2 VE; 0 prior entity rows for 0425.500.396
+- Found: official NBB VOL-VZW native PDF **2026-00100290** (437359 B / 43p; AV 27-04-2026; neergelegd 04/05/2026; MD5 fbb7aa57a7e6e03aecb0446df148a218). VOL-VZW 733 **EUR5181681** (-2.78%); 62 **EUR4655227**; 9901 **EUR-127854** (was -20689); 9904 -131205; equity 770748; cash 166619; FTE 60,3 (was 64,6).
+- FOI address: info.antwerpen@saamo.be — general mailbox verified on official page https://www.saamo.be/antwerpen/contact/ (address and KBO number shown there).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_saamo_antwerpen_vaph_matrix_733_5_18m_9901_loss_128k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2982/; rq_2982=done; spawn **rq_2983**; ticks=2982.
+- Next: **rq_2983 leftover dual** — Flemish 88.99x batch in progress; next: remaining units of this batch.

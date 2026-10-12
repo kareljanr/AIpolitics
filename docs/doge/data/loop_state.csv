@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T18:32:24Z,rq_2980,2981,no,tick2981 leftover dual Emino Antwerpen 0682.510.212 Strong PDF 2026-00192269 733 16.67m / 9901 38k; next rq_2982 Flemish 88.99x batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T18:32:36Z,rq_2982,2982,no,tick2982 leftover dual SAAMO Antwerpen Antwerpen (Borgerhout) 0425.500.396 Strong PDF 2026-00100290 733 5.18m / 9901 loss 128k; next rq_2983 Flemish 88.99x batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
