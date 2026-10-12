@@ -30225,3 +30225,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@wgkovl.be — general mailbox verified on official page https://www.witgelekruis.be/contacteer-ons (KBO number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_wgk_oost_vlaanderen_vaph_matrix_733_35_68m_9901_loss_206k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2741/; rq_2740=done; spawn **rq_2742**; ticks=2741.
 - Next: **rq_2742 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2742 — 2026-10-12T13:29:40Z — rq_2742 leftover dual Ferm Thuiszorg Leuven (Wijgmaal) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101 (home care) and 88.911 (childcare) activity and name searches, plus Wit-Gele Kruis associations listed on witgelekruis.be: **Ferm Thuiszorg** → KBO 0410.877.152 had 0 prior entity rows.
+- KBO: Actief since 28 augustus 1959; VZW; zetel Remylaan 4B 3018 Leuven; 30 VE; 0 prior entity rows for 0410.877.152
+- Found: official NBB VOL-VZW native PDF **2026-00226849** (1135367 B / 55p; AV 23-06-2026; neergelegd 26/06/2026; MD5 01b062373e9b8470ee94c0af7c1dae20). VOL-VZW 733 **EUR74142271** (+3.13%); 62 **EUR80903018**; 9901 **EUR1203978** (was 1187052); 9904 1862659; equity 30142484; cash 4816315; FTE 1.359,2 (was 1.349,8).
+- FOI address: thuiszorg@samenferm.be — NEEDS VERIFICATION: mailbox seen only on third-party listing kzitermee.be; official samenferm.be pages are script-rendered and could not be read; postal address Remylaan 4B 3018 Wijgmaal confirmed in KBO.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_ferm_thuiszorg_vaph_matrix_733_74_14m_9901_1204k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2742/; rq_2742=done; spawn **rq_2743**; ticks=2742.
+- Next: **rq_2743 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
