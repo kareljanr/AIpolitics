@@ -31250,3 +31250,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cep-asbl.be — general mailbox verified on official page https://cep-asbl.be/ (company number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_cep_watermael_boitsfort_vaph_matrix_9900_3_42m_9901_loss_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2842/; rq_2842=done; spawn **rq_2843**; ticks=2842.
 - Next: **rq_2843 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2843 — 2026-10-12T16:21:05Z — rq_2843 leftover dual Nido Brussel (Haren) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Nido** → KBO 0432.509.637 had 0 prior entity rows.
+- KBO: Actief since 27 maart 1986; VZW; zetel Verdunstraat 521 bus 2 1130 Brussel; 4 VE; 0 prior entity rows for 0432.509.637
+- Found: official NBB VKT-VZW native PDF **2026-00192562** (60099 B / 18p; AV 17-06-2026; neergelegd 22/06/2026; MD5 320633ca3bef2c16021eadda1bf325e4). VKT-VZW 9900 **EUR3021086** (+15.97%); 62 **EUR2785865**; 9901 **EUR14879** (was -8109); 9904 18049; equity 3239034; cash 424588; FTE 41,9 (was 38,9).
+- FOI address: info@nidovzw.be — general mailbox verified on official page https://nidovzw.be/contact (company number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_nido_haren_vaph_matrix_9900_3_02m_9901_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2843/; rq_2843=done; spawn **rq_2844**; ticks=2843.
+- Next: **rq_2844 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
