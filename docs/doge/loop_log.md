@@ -29930,3 +29930,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@groepubuntu.be — general group mailbox (Groep Ubuntu) verified on official page https://www.groepubuntu.be/nl.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_ubuntu_achtkanter_kortrijk_vaph_matrix_733_27_51m_9901_170k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2712/; rq_2712=done; spawn **rq_2713**; ticks=2712.
 - Next: **rq_2713 leftover dual** — KBO NACE 87.20x (residential disability/psychiatric care) scan in progress; next: remaining 87.201/87.202/87.203 units (spare Philippus Neri 0410.505.582 Sint-Niklaas, check odd 2024 loss), then 88.994 welzijnswerk and 87.301.
+
+
+## Tick 2713 — 2026-10-12T09:26:27Z — rq_2713 leftover dual KIDS (Koninklijk Instituut voor Doven en Spraakgestoorden) Hasselt YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.201/87.202/87.203 activity search (residential care for persons with a disability / psychiatric problems): **KIDS (Koninklijk Instituut voor Doven en Spraakgestoorden)** → KBO 0424.625.616 had 0 prior entity rows.
+- KBO: Actief since 18 februari 1982; VZW; zetel Borggravevijversstraat 9 3500 Hasselt; 12 VE; 0 prior entity rows for 0424.625.616
+- Found: official NBB VOL-VZW native PDF **2026-00549682** (1081190 B / 45p; AV 11-06-2026; neergelegd 07/10/2026; MD5 17b180884e82dff2c88d2e70580d3187). VOL-VZW 733 **EUR21812114** (+1.68%); 62 **EUR18401743**; 9901 **EUR15032** (was 842998); 9904 179151; equity 27297315; cash 1660068; FTE 254,7 (was 247).
+- FOI address: kids@kids.be — general mailbox verified on official page https://www.kids.be/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_hasselt); FOI **gap_kids_hasselt_vaph_matrix_733_21_81m_9901_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2713/; rq_2713=done; spawn **rq_2714**; ticks=2713.
+- Next: **rq_2714 leftover dual** — KBO NACE 87.20x (residential disability/psychiatric care) scan in progress; next: remaining 87.201/87.202/87.203 units (spare Philippus Neri 0410.505.582 Sint-Niklaas, check odd 2024 loss), then 88.994 welzijnswerk and 87.301.
