@@ -29088,3 +29088,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00151985** (52673 B / 15p; AV 05-05-2026; neergelegd 09/06/2026; MD5 4b8f688748eedfdc236bebef774abee9). VKT-VZW 9900 **EUR352802** (-5.29%); 62 **EUR213732**; 9901 **EUR2772** (was 59558); 9904 7879; equity 2214068; cash 433826; FTE 0,7 (was 0,8).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.45; entities +1 (parent city_aarschot); FOI **gap_vrij_clb_brabant_oost_aarschot_vaph_matrix_9900_353k_9901_3k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2624/; rq_2624=done; spawn **rq_2625**; ticks=2624.
 - Next: **rq_2625 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2625 — 2026-10-12T08:15:53Z — rq_2625 leftover dual CKG Kapoentje Oostende YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien CKG contact list (april 2026): **CKG Kapoentje** → KBO 0475.254.567 had 0 prior entity rows. NEW SOURCE Opgroeien CKG list (18 CKGs). Skipped: CKG Betlehem (Emmaus), Don Bosco / Hummeltjes / De Schommel (already in repo), De Kleine Vos (no 733 line in filing).
+- KBO: Actief since 4 mei 2001; VZW; zetel Louisastraat 5, 8400 Oostende; 1 VE; 0 prior entity rows for 0475.254.567
+- Found: official NBB VKT-VZW native PDF **2026-00096152** (56940 B / 17p; AV 02-04-2026; neergelegd 30/04/2026; MD5 7c257a3a34a1b549c8115ec9f4e839fa). VKT-VZW 9900 **EUR4234808** (+5.43%); 62 **EUR2586093**; 9901 **EUR1001746** (was 572275); 9904 1062436; equity 9385085; cash 2810631; FTE 36,7 (was 35,6).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 5.20; entities +1 (parent city_oostende); FOI **gap_ckg_kapoentje_oostende_vaph_matrix_9900_4_23m_9901_1_00m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2625/; rq_2625=done; spawn **rq_2626**; ticks=2625.
+- Next: **rq_2626 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
