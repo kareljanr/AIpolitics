@@ -32523,3 +32523,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@childrenmuseum.be — general mailbox verified on official page https://www.museedesenfants.be/contact (address Rue du Bourgmestre 15 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_kindermuseum_ixelles_vaph_matrix_9900_0_66m_9901_loss_45k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2969/; rq_2969=done; spawn **rq_2970**; ticks=2969.
 - Next: **rq_2970 leftover dual** — Batch done; next: culture scan nearly exhausted for large hits; KANAL (code 73 EUR20.59m but code 733 empty: needs a code-73 mode), Médiathèque Nouvelle (EUR13.17m; own site unreachable), Cinematek (federal foundation), then a Flemish activity-code scan for bigger hits.
+
+
+## Tick 2970 — 2026-10-12T18:17:45Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2614** of 2666 rows; inventory budgets 59438 · commitments 6666 · leaderboard 8786 · entities 2685 · sources 8929.
+- Top10: **stable** (2961-2969 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2961-2969: KVS (Brussel) · Autoworld (Bruxelles) · AML (Bruxelles) · La Fonderie (Molenbeek) · ARPAIJE (Ixelles) · Action Vivre Ensemble (Bruxelles) · CENFORGIL (Saint-Gilles) · La Bellone (Bruxelles) · Kindermuseum / Musée des Enfants (Ixelles).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2970 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-2970 run locally as fallback.
+- Next: **rq_2970** — culture scan large hits exhausted; options: add a code-73 mode for KANAL (EUR20.59m), retry Médiathèque Nouvelle site, or scan a Flemish activity code for bigger hits.
