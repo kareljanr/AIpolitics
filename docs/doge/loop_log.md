@@ -33133,3 +33133,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3030 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3030 run locally as fallback.
 - Next: **rq_3030** — remaining municipality-scan hits (De Troef EUR1.61m, Bejaardenzorg KEI EUR1.53m, PCH Kindermishandeling EUR1.49m) or a new code extension with larger recipients, largest first.
+
+
+## Tick 3031 — 2026-10-12T20:16:57Z — rq_3030 leftover dual VISITWallonia Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (new codes 93.191 sport federations, 93.121/93.199 sport, 84.130 public administration of economic affairs, 72.200 social-science research; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **VISITWallonia** → KBO 0888.366.085 had 0 prior entity rows.
+- KBO: Actief since 29 maart 2007; VZW; zetel Oud Korenhuis 27 bus 2ème étage 1000 Brussel; 1 VE; 0 prior entity rows for 0888.366.085
+- Found: official NBB VOL-VZW native PDF **2026-00200218** (1085927 B / 44p; AV 23-06-2026; neergelegd 24/06/2026; MD5 38649ee9150a1c147c35229549c1ac3c). VOL-VZW 733 **EUR14101083** (-14.45%); 62 **EUR7373551**; 9901 **EUR42591** (was -41769); 9904 33973; equity 524367; cash 923160; FTE 66,4 (was 67,2).
+- FOI address: info@visitwallonia.be — general mailbox verified on official page https://orc.visitwallonia.be/mentions-legales/ (KBO number 0888.366.085 and Vieille Halle aux Blés 27 seat shown there).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_visitwallonia_brussel_vaph_matrix_733_14_10m_9901_43k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3031/; rq_3030=done; spawn **rq_3032**; ticks=3031.
+- Next: **rq_3032 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

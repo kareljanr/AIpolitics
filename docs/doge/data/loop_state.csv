@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T19:53:09Z,every10_3030,3030,no,"tick3030 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3030 carried open; next further Flemish postcodes/codes with larger recipients, largest first (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T20:16:57Z,rq_3030,3031,no,tick3031 leftover dual VISITWallonia Brussel 0888.366.085 Strong PDF 2026-00200218 733 14.10m / 9901 43k; next rq_3032 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
