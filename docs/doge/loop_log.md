@@ -34212,3 +34212,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@indfleurus.net — general mailbox verified on official contact page https://indfleurus.net/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_ind_fleurus_vaph_matrix_733_11_97m_9901_loss_63k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3137/; rq_3137=done; spawn **rq_3138**; ticks=3137.
 - Next: **rq_3138 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3138 — 2026-10-12T23:19:42Z — rq_3138 leftover dual Collège Saint-Vincent - Saint-François (Ixelles) Ixelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies (pouvoirs organisateurs, ASBL) and related free-education non-profits; KBO name search over school/PO names (legal form ASBL), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Collège Saint-Vincent - Saint-François (Ixelles)** → KBO 0428.402.181 had 0 prior entity rows.
+- KBO: Actief since 31 december 1955; VZW; zetel Vleurgatse Steenweg 55 1050 Elsene; 2 VE; 0 prior entity rows for 0428.402.181
+- Found: official NBB VOL-VZW native PDF **2026-00316221** (721785 B / 39p; AV 23-06-2026; neergelegd 22/07/2026; MD5 af2c1c03a971c5d384295801ec6c3c2b). VOL-VZW 733 **EUR10927425** (+6.35%); 62 **EUR9681362**; 9901 **EUR534249** (was 274412); 9904 492438; equity 5837402; cash 1891704; FTE 183 (was 178).
+- FOI address: secretariat.direction@sv-sf.be — direction-secretariat mailbox verified on official contact page https://www.sv-sf.be/SVXL/?page_id=61; the site legal notice (mentions légales PDF) gives BCE 428.402.181.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ixelles); FOI **gap_college_sv_sf_vaph_matrix_733_10_93m_9901_534k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3138/; rq_3138=done; spawn **rq_3139**; ticks=3138.
+- Next: **rq_3139 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
