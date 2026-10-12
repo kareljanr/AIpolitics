@@ -30670,3 +30670,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ennea.be — general mailbox verified on official page https://www.korian.be/woonzorgcentra/ennea/woonzorgcentrum-ennea/ (operator group site).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_sint_niklaas); FOI **gap_ennea_rustoord_sint_niklaas_vaph_matrix_9900_1_65m_9901_loss_74k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2785/; rq_2785=done; spawn **rq_2786**; ticks=2785.
 - Next: **rq_2786 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2786 — 2026-10-12T14:17:13Z — rq_2786 leftover dual Maria Middelares Moorslede Moorslede YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301 (nursing homes) and 88.101 (home care) activity search, West-/Oost-Vlaanderen and Leuven/Limburg postcodes, ranked by primary figure: **Maria Middelares Moorslede** → KBO 0432.626.928 had 0 prior entity rows.
+- KBO: Actief since 17 november 1986; VZW; zetel Pater Lievensstraat 20 8890 Moorslede; 2 VE; 0 prior entity rows for 0432.626.928
+- Found: official NBB VOL-VZW native PDF **2026-00208186** (784334 B / 43p; AV 22-06-2026; neergelegd 25/06/2026; MD5 8bd94bcea756cb578cac0a8d1626dcec). VOL-VZW 733 **EUR1641283** (+0.17%); 62 **EUR6927647**; 9901 **EUR335774** (was 167941); 9904 320666; equity 19803208; cash 239108; FTE 98 (was 98,3).
+- FOI address: info@wzmoorslede.be — general mailbox verified on official page https://www.woonzorgmoorslede.be/contacteer-ons/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_moorslede); FOI **gap_maria_middelares_moorslede_vaph_matrix_733_1_64m_9901_336k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2786/; rq_2786=done; spawn **rq_2787**; ticks=2786.
+- Next: **rq_2787 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

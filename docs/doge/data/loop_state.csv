@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T14:17:05Z,rq_2785,2785,no,tick2785 leftover dual Ennea Rustoord Sint-Niklaas 0449.049.919 Strong PDF 2026-00337217 9900 1.65m / 9901 loss 74k; next rq_2786 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T14:17:13Z,rq_2786,2786,no,tick2786 leftover dual Maria Middelares Moorslede Moorslede 0432.626.928 Strong PDF 2026-00208186 733 1.64m / 9901 336k; next rq_2787 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
