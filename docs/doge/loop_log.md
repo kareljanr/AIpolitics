@@ -30346,3 +30346,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@clarashofke.be — general mailbox verified on official page https://clarashofke.be/contact-locatie.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_arendonk); FOI **gap_claras_hofke_arendonk_vaph_matrix_9900_2_02m_9901_124k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2753/; rq_2753=done; spawn **rq_2754**; ticks=2753.
 - Next: **rq_2754 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2754 — 2026-10-12T13:39:33Z — rq_2754 leftover dual Ons Peuterhuisje Zwijndrecht (Burcht) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, plus KBO record of the Oostende projectvereniging Perspectief: **Ons Peuterhuisje** → KBO 0430.412.853 had 0 prior entity rows.
+- KBO: Actief since 1 oktober 1984; VZW; zetel Idsteinlaan 14 2070 Beveren-Kruibeke-Zwijndrecht; 2 VE; 0 prior entity rows for 0430.412.853
+- Found: official NBB VKT-VZW native PDF **2026-00121701** (57053 B / 16p; AV 12-05-2026; neergelegd 27/05/2026; MD5 b470782e48af999f7a1cb14d54aa925f). VKT-VZW 9900 **EUR1527221** (-24.54%); 62 **EUR1205579**; 9901 **EUR260369** (was 822038); 9904 250486; equity 2231756; cash 1294010; FTE 19,6 (was 18,5).
+- FOI address: info@kdvonspeuterhuisje.be — general mailbox verified on official page https://kdvonspeuterhuisje.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bkz); FOI **gap_ons_peuterhuisje_zwijndrecht_vaph_matrix_9900_1_53m_9901_260k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2754/; rq_2754=done; spawn **rq_2755**; ticks=2754.
+- Next: **rq_2755 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
