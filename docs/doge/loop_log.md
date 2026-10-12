@@ -34392,3 +34392,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat.direction@cspu.be — direction-secretariat mailbox verified on official page https://secondaire.cspu.be/informations-pratiques/personnes-ressources/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_college_saint_pierre_uccle_vaph_matrix_733_13_16m_9901_loss_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3155/; rq_3155=done; spawn **rq_3156**; ticks=3155.
 - Next: **rq_3156 leftover dual** — Batch done; next after the dedup check: College Notre-Dame de la Paix (0409.259.628, EUR12.94m), Collège de la Lys (0409.938.727, EUR11.56m), Communauté éducative du Collège Saint-Augustin (0414.921.953, EUR11.28m); skipped for mailbox: Haute Ecole ICHEC-ECAM-ISFSC (only constituent-school mailboxes), Katholiek Onderwijs Groot-Beveren and Katholiek Onderwijs Hamme (no general mailbox on an official page), Collège Cardinal Mercier (only primary-school mailbox).
+
+
+## Tick 3156 — 2026-10-12T23:51:31Z — rq_3156 leftover dual Collège Notre-Dame de la Paix (Erpent) Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Catholic school boards and university colleges (Flemish schoolbesturen VZW and FWB organising bodies / hautes écoles, ASBL); new KBO name search (legal form VZW/ASBL; words such as Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège Saint, Institut Saint), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Collège Notre-Dame de la Paix (Erpent)** → KBO 0409.259.628 had 0 prior entity rows.
+- KBO: Actief since 16 mei 1922; VZW; zetel Place Notre-Dame de la Paix(EP) 1 5101 Namur; 4 VE; 0 prior entity rows for 0409.259.628
+- Found: official NBB VOL-VZW native PDF **2026-00185456** (2542966 B / 36p; AV 15-06-2026; neergelegd 18/06/2026; MD5 0d5ec59ef7feb4a94294bb6cdedb3675). VOL-VZW 733 **EUR12938205** (+3.61%); 62 **EUR11983992**; 9901 **EUR167308** (was -17299); 9904 203912; equity 2553363; cash 471728; FTE 18,1 (was 17,7).
+- FOI address: accueil@cndp-erpent.be — reception mailbox verified on official contact page https://www.cndp-erpent.be/contacts.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_cndp_erpent_vaph_matrix_733_12_94m_9901_167k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3156/; rq_3156=done; spawn **rq_3157**; ticks=3156.
+- Next: **rq_3157 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
