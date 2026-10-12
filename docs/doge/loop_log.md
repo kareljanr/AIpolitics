@@ -32953,3 +32953,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@wenw.be — general mailbox verified on official page https://wonen-en-werken.be/nl/contact (address Ijzerenmolenstraat 2 matches KBO).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_wonen_en_werken_leuven_vaph_matrix_733_4_22m_9901_167k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3012/; rq_3012=done; spawn **rq_3013**; ticks=3012.
 - Next: **rq_3013 leftover dual** — Further-extended Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3013 — 2026-10-12T19:27:12Z — rq_3013 leftover dual Kringwinkel Hageland Tienen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish multi-code 85.592/87.10x/87.30x/88.10x/88.911/88.991-88.999, extended to 30 further Flemish postcodes plus extra codes 88.991-88.994/88.102/87.20x/90-91 in the previous 22), unprocessed hits ranked by YE2025 NBB primary figure: **Kringwinkel Hageland** → KBO 0465.914.160 had 0 prior entity rows.
+- KBO: Actief since 26 januari 1999; VZW; zetel Walstraat 2 3300 Tienen; 9 VE; 0 prior entity rows for 0465.914.160
+- Found: official NBB VOL-VZW native PDF **2026-00305262** (376809 B / 31p; AV 16-06-2026; neergelegd 17/07/2026; MD5 b0823c95c6665bbbbfa48cb3110edc53). VOL-VZW 733 **EUR3865407** (+4.61%); 62 **EUR6983875**; 9901 **EUR217639** (was 153980); 9904 131306; equity 2278180; cash 1047085; FTE 183,5 (was 183,4).
+- FOI address: info@kringwinkelhageland.be — general mailbox verified on the official Kringwinkel network page https://www.kringwinkel.be/centra/hageland (address Walstraat 2 and VAT BE0465914160 shown there).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_tienen); FOI **gap_kringwinkel_hageland_vaph_matrix_733_3_87m_9901_218k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3013/; rq_3013=done; spawn **rq_3014**; ticks=3013.
+- Next: **rq_3014 leftover dual** — Further-extended Flemish multi-code batch in progress; next: remaining units of this batch.
