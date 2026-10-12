@@ -34272,3 +34272,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: direction@idbbxl.com — direction mailbox verified on official contact page https://www.idbbxl.com/en-pratique/contact/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_don_bosco_woluwe_vaph_matrix_733_9_40m_9901_loss_303k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3143/; rq_3143=done; spawn **rq_3144**; ticks=3143.
 - Next: **rq_3144 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3144 — 2026-10-12T23:22:14Z — rq_3144 leftover dual Comité organisateur de l'Institut Notre-Dame (Beauraing) Beauraing YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies (pouvoirs organisateurs, ASBL) and related free-education non-profits; KBO name search over school/PO names (legal form ASBL), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Comité organisateur de l'Institut Notre-Dame (Beauraing)** → KBO 0416.379.527 had 0 prior entity rows.
+- KBO: Actief since 14 november 1968; VZW; zetel Rue de Givet 21 5570 Beauraing; 2 VE; 0 prior entity rows for 0416.379.527
+- Found: official NBB VOL-VZW native PDF **2026-00194219** (9563799 B / 46p; AV 27-05-2026; neergelegd 24/06/2026; MD5 693592f15f98aa70dcd8158621e6e6d3). VOL-VZW 733 **EUR8237438** (+1.80%); 62 **EUR7371143**; 9901 **EUR120664** (was 140781); 9904 27071; equity 2776178; cash 274579; FTE 7,7 (was 7,2).
+- FOI address: secretariat@indbg.be — secretariat mailbox verified on official contact page https://www.indbg.be/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_ind_beauraing_vaph_matrix_733_8_24m_9901_121k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3144/; rq_3144=done; spawn **rq_3145**; ticks=3144.
+- Next: **rq_3145 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
