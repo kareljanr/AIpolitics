@@ -32373,3 +32373,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: courrier@lepiment.org — general mailbox verified on official page https://www.lepiment.org/ (address Rue de la Colonne 56 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_le_piment_molenbeek_vaph_matrix_9900_1_98m_9901_30k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2954/; rq_2954=done; spawn **rq_2955**; ticks=2954.
 - Next: **rq_2955 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
+
+
+## Tick 2955 — 2026-10-12T18:02:24Z — rq_2955 leftover dual Ecole régionale d'Administration publique / Gewestelijke School voor Openbaar Bestuur (ERAP-GSOB) Bruxelles (Ixelles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels 85.592 vocational training and 86.940 in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Ecole régionale d'Administration publique / Gewestelijke School voor Openbaar Bestuur (ERAP-GSOB)** → KBO 0452.113.733 had 0 prior entity rows.
+- KBO: Actief since 12 januari 1994; VZW; zetel Kapitein Crespelstraat 35-37 1050 Elsene; 1 VE; 0 prior entity rows for 0452.113.733
+- Found: official NBB VKT-VZW native PDF **2026-00173832** (51884 B / 13p; AV 08-06-2026; neergelegd 16/06/2026; MD5 6eff2ad4cfd9253d9324eeea1d2e345b). VKT-VZW 9900 **EUR1709265** (+12.32%); 62 **EUR1526967**; 9901 **EUR30123** (was 118313); 9904 41151; equity 1319908; cash 2126151; FTE 20,9 (was 21,1).
+- FOI address: info@erap-gsob.brussels — general mailbox verified on official page https://www.erap-gsob.brussels/fr/contact (address Rue Capitaine Crespel 35 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ixelles); FOI **gap_erap_gsob_vaph_matrix_9900_1_71m_9901_30k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2955/; rq_2955=done; spawn **rq_2956**; ticks=2955.
+- Next: **rq_2956 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
