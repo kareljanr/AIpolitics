@@ -33802,3 +33802,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: srl.info@srlherstal.be — general mailbox verified on official contact page https://srlherstal.be/fr/contactez-nous.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_srl_herstal_code740_split_740_0_39m_9901_1373k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3096/; rq_3096=done; spawn **rq_3097**; ticks=3096.
 - Next: **rq_3097 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3097 — 2026-10-12T21:43:17Z — rq_3097 leftover dual IPBW (Immobilière Publique du centre et de l'est du Brabant Wallon) Court-Saint-Etienne YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon intercommunales (KBO name search over ~50 Walloon intercommunale names, filings ranked by NBB code 740 operating subsidies from public authorities; new: Liège Zone 2 IILE-SRI, ISBW, IMSTAM) plus remaining SLSPs from the official Wallonia SLSP list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf); largest code 740 first; every candidate passed the name/alias/KBO/website dedup check: **IPBW (Immobilière Publique du centre et de l'est du Brabant Wallon)** → KBO 0400.361.956 had 0 prior entity rows.
+- KBO: Actief since 22 september 1921; SRL; zetel Avenue des Métallurgistes 7A bus 1 1490 Court-Saint-Etienne; 1 VE; 0 prior entity rows for 0400.361.956
+- Found: official NBB VOL-SRL native PDF **2026-00206430** (1434893 B / 97p; AV 15-06-2026; neergelegd 25/06/2026; MD5 9392b67d2fe51e3f236b995572817c1f). VOL-SRL 740 **EUR351117** (+3.35%); 62 **EUR3323686**; 9901 **EUR192469** (was 246503); 9904 -339307; equity 54705287; cash 13289691; FTE 35,9 (was 36,3).
+- FOI address: secretariat@ipbw.be — general mailbox (listed as Général) verified on official page https://ipbw.be/nous-contacter/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_ipbw_code740_split_740_0_35m_9901_192k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3097/; rq_3097=done; spawn **rq_3098**; ticks=3097.
+- Next: **rq_3098 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
