@@ -33203,3 +33203,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cycling.vlaanderen — general mailbox verified on official page https://cycling.vlaanderen/over-ons/contactformulier (Strandlaan 3 shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_cycling_vlaanderen_vaph_matrix_9900_3_03m_9901_loss_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3037/; rq_3037=done; spawn **rq_3038**; ticks=3037.
 - Next: **rq_3038 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3038 — 2026-10-12T20:18:06Z — rq_3038 leftover dual Volley Vlaanderen Vilvoorde YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (new codes 93.191 sport federations, 93.121/93.199 sport, 84.130 public administration of economic affairs, 72.200 social-science research; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Volley Vlaanderen** → KBO 0417.414.853 had 0 prior entity rows.
+- KBO: Actief since 18 juni 1977; VZW; zetel Beneluxlaan 22 1800 Vilvoorde; 1 VE; 0 prior entity rows for 0417.414.853
+- Found: official NBB VKT-VZW native PDF **2026-00072838** (66284 B / 21p; AV 24-03-2026; neergelegd 02/04/2026; MD5 ff94324feb1b8a269c9c5575ebdf4083). VKT-VZW 9900 **EUR2979929** (+96.62%); 62 **EUR1428303**; 9901 **EUR774441** (was -348118); 9904 732908; equity 1036348; cash 97412; FTE 16,6 (was 17).
+- FOI address: info@volleyvlaanderen.be — general mailbox verified on official page https://volleyvlaanderen.be/contact (KBO number and Beneluxlaan 22 shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_vilvoorde); FOI **gap_volley_vlaanderen_vaph_matrix_9900_2_98m_9901_774k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3038/; rq_3038=done; spawn **rq_3039**; ticks=3038.
+- Next: **rq_3039 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
