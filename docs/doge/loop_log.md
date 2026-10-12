@@ -33972,3 +33972,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: csd.namur@solidaris.be — general mailbox verified on official contact page https://www.csdnamur.be/fr/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_csd_namur_vaph_matrix_733_9_83m_9901_84k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3113/; rq_3113=done; spawn **rq_3114**; ticks=3113.
 - Next: **rq_3114 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3114 — 2026-10-12T22:28:51Z — rq_3114 leftover dual SAFPA (Service d'Aide aux Familles et aux Personnes Agées de la région verviétoise) Verviers YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon home-help and family-help services (services d'aide aux familles et aînés, ASD, CSD; KBO name search over ~30 home-help names, filings ranked by NBB code 733 operating subsidies, largest first; Brussels Aide familiale and the large Flemish services already entities); every candidate passed the name/alias/KBO/website dedup check: **SAFPA (Service d'Aide aux Familles et aux Personnes Agées de la région verviétoise)** → KBO 0410.661.277 had 0 prior entity rows.
+- KBO: Actief since 11 juni 1955; VZW; zetel Rue du Palais 86 bus 21 4800 Verviers; 1 VE; 0 prior entity rows for 0410.661.277
+- Found: official NBB VOL-VZW native PDF **2026-00194798** (4477290 B / 45p; AV 18-06-2026; neergelegd 23/06/2026; MD5 ed5f7d5b8c03bda12aa936a005190426). VOL-VZW 733 **EUR7787677** (+1.33%); 62 **EUR10388416**; 9901 **EUR2269** (was -207408); 9904 6470; equity 1685031; cash 2835660; FTE 200,1 (was 202,6).
+- FOI address: info@safpa.be — general mailbox verified on official contact page https://www.safpa.be/contact/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_verviers); FOI **gap_safpa_verviers_vaph_matrix_733_7_79m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3114/; rq_3114=done; spawn **rq_3115**; ticks=3114.
+- Next: **rq_3115 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
