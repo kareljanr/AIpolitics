@@ -32503,3 +32503,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cenforgil.be — general mailbox verified on official page https://www.cenforgil.be/contact (address Rue de Mérode 54 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_cenforgil_saint_gilles_vaph_matrix_9900_1_24m_9901_loss_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2967/; rq_2967=done; spawn **rq_2968**; ticks=2967.
 - Next: **rq_2968 leftover dual** — Brussels culture (90.x/91.x) + leftover training batch in progress; next: remaining units of this batch.
+
+
+## Tick 2968 — 2026-10-12T18:17:12Z — rq_2968 leftover dual Maison du Spectacle - La Bellone Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels culture 90.111/90.120/90.130/90.311/91.110/91.210, plus leftover 85.592/86.940 hits, in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Maison du Spectacle - La Bellone** → KBO 0424.271.664 had 0 prior entity rows.
+- KBO: Actief since 3 december 1982; VZW; zetel Vlaamsesteenweg 46 1000 Brussel; 1 VE; 0 prior entity rows for 0424.271.664
+- Found: official NBB VKT-VZW native PDF **2026-00221707** (53332 B / 14p; AV 25-06-2026; neergelegd 30/06/2026; MD5 87b933e52d4b771cc3461294836df6f4). VKT-VZW 9900 **EUR739342** (+4.51%); 62 **EUR668886**; 9901 **EUR56041** (was 21440); 9904 55897; equity 236112; cash 182440; FTE 9,7 (was 9,1).
+- FOI address: infos@bellone.be — general mailbox verified on official page https://www.bellone.be/ (address Rue de Flandre 46 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_la_bellone_bruxelles_vaph_matrix_9900_0_74m_9901_56k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2968/; rq_2968=done; spawn **rq_2969**; ticks=2968.
+- Next: **rq_2969 leftover dual** — Brussels culture (90.x/91.x) + leftover training batch in progress; next: remaining units of this batch.
