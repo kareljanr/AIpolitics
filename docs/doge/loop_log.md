@@ -31197,3 +31197,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: direction@lescailloux.be — role mailbox (no named person) verified on official page https://lescailloux.be/contact.html.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_les_cailloux_uccle_vaph_matrix_9900_2_19m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2837/; rq_2837=done; spawn **rq_2838**; ticks=2837.
 - Next: **rq_2838 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2838 — 2026-10-12T16:16:08Z — rq_2838 leftover dual Kindbegeleiding en gezinsondersteuning Stallevoet (KDV Pluchke) Ukkel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.102/88.103/88.911 activity searches (Flemish and Brussels-Capital postcodes), ranked by primary figure: **Kindbegeleiding en gezinsondersteuning Stallevoet (KDV Pluchke)** → KBO 0414.658.964 had 0 prior entity rows.
+- KBO: Actief since 28 november 1974; VZW; zetel Horzelstraat 28 1180 Ukkel; 2 VE; 0 prior entity rows for 0414.658.964
+- Found: official NBB VKT-VZW native PDF **2026-00299298** (48704 B / 13p; AV 16-06-2026; neergelegd 16/07/2026; MD5 ae194fa76a7ca7a864f0632c5673735f). VKT-VZW 9900 **EUR2177548** (+1.08%); 62 **EUR1987160**; 9901 **EUR-38482** (was 183883); 9904 -58124; equity 3663090; cash 487156; FTE 38,9 (was 35,8).
+- FOI address: contact@pluchke.be — general mailbox verified on official page https://pluchke.be/contact (VZW name shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_pluchke_ukkel_vaph_matrix_9900_2_18m_9901_loss_38k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2838/; rq_2838=done; spawn **rq_2839**; ticks=2838.
+- Next: **rq_2839 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
