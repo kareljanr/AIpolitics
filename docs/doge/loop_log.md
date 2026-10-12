@@ -29319,3 +29319,14 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00134340** (54029 B / 15p; AV 18-05-2026; neergelegd 03/06/2026; MD5 b195402cf943be45d47e6d199c03e23c). VKT-VZW 9900 **EUR3957021** (+5.01%); 62 **EUR3850676**; 9901 **EUR-29671** (was 374022); 9904 -8770; equity 6146690; cash 2463771; FTE 50,6 (was 50,2).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_oooc_t_pasrel_schaarbeek_vaph_matrix_9900_3_96m_9901_loss_30k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2649/; rq_2649=done; spawn **rq_2650**; ticks=2649.
 - Next: **rq_2650 leftover dual** — continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists.
+
+
+## Tick 2650 — 2026-10-12T08:28:52Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2326** of 2378 rows; inventory budgets 57064 · commitments 6378 · leaderboard 8498 · entities 2397 · sources 8065.
+- Top10: **stable** (2641-2649 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2641-2649: OOOC Luein Lochristi · OOOC Elkeen Lommel · LIA Waasmunster · Kruislink Beerse · Kiosk Wommelgem · Elegast Antwerpen · XPLO Roeselare · Amon Zwalm · OOOC t Pasrel Schaarbeek.
+- Hunt this tick: none (EVERY-10 used the tick); rq_2650 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2650 run locally as fallback.
+- Source choice (recorded): ticks 2641-2649 finished the Opgroeien OOOC contact list (april 2026). FOI addresses: general mailboxes where published (Luein, Elkeen, LIA, Kiosk, Elegast, XPLO, t Pasrel); role/named Opgroeien-list contacts for Amon (directie@) and Kruislink (none published).
+- Next: **rq_2650** — next Opgroeien jeugdhulp lists (e.g. begeleidingstehuizen / multifunctionele centra), VAPH vrijetijdszorg leftovers, then KBO NACE 87/88.

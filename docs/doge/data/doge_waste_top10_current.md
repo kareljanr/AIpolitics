@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2640** (2026-10-12) · **8489** leaderboard rows  
+**As-of:** tick **2650** (2026-10-12) · **8498** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5
@@ -26,9 +26,12 @@
 
 **Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2621-2629:** CLB Het Kompas Mechelen · CLB Noordwest-Brabant Asse · Vrije CLB Archipel Deinze · Vrij CLB Brabant Oost Aarschot · CKG Kapoentje Oostende · CKG De Stap Genk · CKG Molenberg Bilzen-Hoeselt · CKG Lentekind · CKG Kinderland · **residual 2611-2619:** Cidar Kortenberg · Ter Wende-Espero Leuven · De Markgrave Antwerpen · Vrij CLB Limburg · Vrij CLB Regio Gent · Vrije CLB Westhoek-Houtland · CLB aan de Leie · Vrij CLB Anker · Vrij CLB De Havens · **residual 2601-2609:** Huis in de Stad (Strong upgrade) · DOP Oost-Vlaanderen · DOP West-Vlaanderen · DOP Limburg · DOP Vlaams-Brabant en Brussel · KanNet · Bijstandsorganisatie Absoluut · Onafhankelijk Leven · WVA-Metgezel · **residual 2591-2599:** Start West-Vlaanderen · t Prieeltje · MPC Terbank · Tikvatenoe · Unie-K · Widar · Tanderuis · Zonnehoeve / Living+ · Ritmica Thuishaven · **residual 2581-2589:** Het Raster · Levedale · KOCA · Mariënstede · Mobilant · Raakzaam · Samenpunt · Primavera · Ter Muiden en t Veldzicht · **residual 2571-2579:** Nethedal · Levenslust · De Ark Moerkerke-Brugge · Klim · Mekanders · De Klaproos · De Vijver · De Kerselaar · De Karrekol · **residual 2561-2570:** **Het Balanske Tielt-Winge 73 JUMP 1.61m / debt JUMP 2.31m / 9901 DROP 12k** (EVERY-10@2570 Strong PDF) · Hoito Tienen · Emiliani Lokeren · Oikonde Mechelen · Vondels Ieper · Duinhelm Oostende · De Berken Overijse · Kerckstede Staden · Licht en Liefde Heem Jabbeke · Berkenhof Leopoldsburg · De Hoge Kouter EVERY-10@2560.
 
-**Change vs tick 2630:** pure annual top10 **stable** (9 new leaderboard rows 2631-2639 all pi ≤4.25, far below #10 cut-off 8.4; top10_changed False). Not TE-additive of ~348bn. (Tick 2640 run by local fallback runner while Actions cron unreliable.)
+**Change vs tick 2640:** pure annual top10 **stable** (9 new leaderboard rows 2641-2649 all pi ≤4.25, far below #10 cut-off 8.4; top10_changed False). Not TE-additive of ~348bn. (Tick 2650 run by local fallback runner while Actions cron unreliable.)
 
 ### High-absurdity residual (not pure top10)
+
+- **Kiosk Wommelgem** (tick2645) VOL subsidies (733) **EUR27.60m**, operating surplus **EUR571k**; subsidy split per OOOC/jeugdhulp module not visible.
+- **XPLO Roeselare** (tick2647) VOL subsidies **EUR24.46m** in a VZW founded 2022 (merger vehicle); per-module funding not visible.
 
 - **i-mens Gent** (tick2633) VOL subsidies (733) **EUR305.57m** on operating income **EUR447.03m**, operating surplus **EUR9.33m**; subsidy split per activity (gezinszorg, CKG, thuisverpleging) not visible.
 - **CIG De Kiekenstraat Gent** (tick2635) short-model margin **EUR4.75m** with operating surplus **EUR521k** (11%) and cash **EUR1.44m** on Opgroeien-funded family care.

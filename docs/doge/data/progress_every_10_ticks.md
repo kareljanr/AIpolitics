@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 2650** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2640; 2641-2649 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2641-2649 residual dual L5 (not near-complete of 348bn):** OOOC Luein Lochristi · OOOC Elkeen Lommel · LIA Waasmunster · Kruislink Beerse · Kiosk Wommelgem · Elegast Antwerpen · XPLO Roeselare · Amon Zwalm · OOOC t Pasrel Schaarbeek (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2326** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2378** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2641-2649** OOOC Luein Lochristi · OOOC Elkeen Lommel · LIA Waasmunster · Kruislink Beerse · Kiosk Wommelgem · Elegast Antwerpen · XPLO Roeselare · Amon Zwalm · OOOC t Pasrel Schaarbeek.
+
+### Inventory (tick 2650)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 57064 |
+| commitments.csv | 6378 |
+| leaderboard.csv | 8498 |
+| entities.csv | 2397 |
+| sources.csv | 8065 |
+| FOI ready | 2326 |
+| FOI total rows | 2378 |
+| research_queue open | rq_2650 (carried; Opgroeien OOOC list finished; next: other Opgroeien jeugdhulp lists, then KBO NACE 87/88) |
+
+### What improved since tick 2640
+
+- **New source (tick2641-2649):** OOOC Luein Lochristi · OOOC Elkeen Lommel · LIA Waasmunster · Kruislink Beerse · Kiosk Wommelgem · Elegast Antwerpen · XPLO Roeselare · Amon Zwalm · OOOC t Pasrel Schaarbeek. Source: Opgroeien OOOC list (april 2026), now finished.
+- **Runner note:** 2576-2650 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2641-2649 (fast):** Organisatie Broeders van Liefde (OOOC De Luwte; national umbrella, out of scope) · Emmaus / KiJoCo / De Patio units (already in repo).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2640** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
