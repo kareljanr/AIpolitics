@@ -29357,3 +29357,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00147516** (544450 B / 39p; AV 04-06-2026; neergelegd 08/06/2026; MD5 c51bdacf7626af1d3d98f1864d7ffb8b). VOL-VZW 733 **EUR5507852** (+2.53%); 62 **EUR4605860**; 9901 **EUR146571** (was 64476); 9904 118874; equity 3965500; cash 155399; FTE 56,7 (was 55).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_de_kantel_brugge_vaph_matrix_733_5_51m_9901_147k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2653/; rq_2653=done; spawn **rq_2654**; ticks=2653.
 - Next: **rq_2654 leftover dual** — continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
+
+
+## Tick 2654 — 2026-10-12T08:32:52Z — rq_2654 leftover dual Blij Leven Lievegem YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Oost-Vlaanderen list (mei 2026): **Blij Leven** → KBO 0412.932.562 had 0 prior entity rows.
+- KBO: Actief since 15 februari 1973; VZW; zetel Berg 8, 9950 Lievegem; 2 VE; 0 prior entity rows for 0412.932.562
+- Found: official NBB VOL-VZW native PDF **2026-00232722** (359331 B / 45p; AV 22-06-2026; neergelegd 25/06/2026; MD5 b7be2fed2da014c22c86c948fe0b6cba). VOL-VZW 733 **EUR7218491** (+3.33%); 62 **EUR6300204**; 9901 **EUR-40306** (was 44499); 9904 -45320; equity 3640279; cash 630460; FTE 78,5 (was 79).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lievegem); FOI **gap_blij_leven_lievegem_vaph_matrix_733_7_22m_9901_loss_40k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2654/; rq_2654=done; spawn **rq_2655**; ticks=2654.
+- Next: **rq_2655 leftover dual** — continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
