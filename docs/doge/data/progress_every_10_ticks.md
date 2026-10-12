@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 3020** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3010; 3011-3019 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3011-3019 residual dual L5 (not near-complete of 348bn):** de Biehal (Lommel) · Wonen en Werken Tewerkstelling (Leuven) · Kringwinkel Hageland (Tienen) · De Groene Kans (Diksmuide) · Maatwerkbedrijf De Ploeg (Sint-Truiden) · SAAMO Vlaams-Brabant (Leuven) · Moderator (Leuven) · PIN Partners en Integratie (Halle) · Samenspel (Roeselare) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2659** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2711** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 3011-3019** de Biehal (Lommel) · Wonen en Werken Tewerkstelling (Leuven) · Kringwinkel Hageland (Tienen) · De Groene Kans (Diksmuide) · Maatwerkbedrijf De Ploeg (Sint-Truiden) · SAAMO Vlaams-Brabant (Leuven) · Moderator (Leuven) · PIN Partners en Integratie (Halle) · Samenspel (Roeselare).
+
+### Inventory (tick 3020)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 59812 |
+| commitments.csv | 6711 |
+| leaderboard.csv | 8831 |
+| entities.csv | 2730 |
+| sources.csv | 9064 |
+| FOI ready | 2659 |
+| FOI total rows | 2711 |
+| research_queue open | rq_3020 (carried; next: another Flemish activity code, largest first) |
+
+### What improved since tick 3010
+
+- **New source (tick3011-3019):** de Biehal (Lommel) · Wonen en Werken Tewerkstelling (Leuven) · Kringwinkel Hageland (Tienen) · De Groene Kans (Diksmuide) · Maatwerkbedrijf De Ploeg (Sint-Truiden) · SAAMO Vlaams-Brabant (Leuven) · Moderator (Leuven) · PIN Partners en Integratie (Halle) · Samenspel (Roeselare). Source: the multi-code KBO NACE-BEL scan extended again: 12 codes (85.592, 87.101, 87.301, 87.302, 88.101, 88.109, 88.911, 88.991-88.994, 88.999) over 30 further Flemish postcodes, plus extra codes (88.991-88.994, 88.102, 87.201/87.202/87.205, 90.111, 90.120, 91.110) over the previous 22; ranked largest first. All 9 hits (EUR4.37m-2.22m) beat the rq_3010 leftovers (max EUR1.71m).
+- **Toolkit:** no change (code-73 mode not triggered this batch).
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION).
+- **Runner note:** 2576-3020 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 3011-3019 (fast, ~5 min cap):** Kinderdagverblijf Lutgardisschool Elsene (EUR5.41m; no general mailbox on own site), Babelu (EUR3.41m; Babilou group, mailbox not on own site), Geneeskunde voor het Volk Deurne (EUR2.72m; no mailbox on official page), Huize Vogelzang (EUR2.54m; own site unreachable).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3010** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

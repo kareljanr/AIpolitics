@@ -33023,3 +33023,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@samenspel.be — general mailbox verified on official page https://www.samenspel.be/contact/ (address Wallenstraat 46-48 and KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_roeselare); FOI **gap_samenspel_roeselare_vaph_matrix_9900_2_22m_9901_60k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3019/; rq_3019=done; spawn **rq_3020**; ticks=3019.
 - Next: **rq_3020 leftover dual** — Batch done; next: remaining further-extended hits (Beschut Wonen De Overweg EUR2.22m, Beschut Wonen Kempen EUR2.20m, Werkstroomm EUR2.10m), larger first; skipped this batch: Kinderdagverblijf Lutgardisschool Elsene (no general mailbox on own site), Babelu (Babilou group; mailbox not on own site), Geneeskunde voor het Volk Deurne (no mailbox on official page), Huize Vogelzang (own site unreachable).
+
+
+## Tick 3020 — 2026-10-12T19:28:28Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2659** of 2711 rows; inventory budgets 59812 · commitments 6711 · leaderboard 8831 · entities 2730 · sources 9064.
+- Top10: **stable** (3011-3019 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3011-3019: de Biehal (Lommel) · Wonen en Werken Tewerkstelling (Leuven) · Kringwinkel Hageland (Tienen) · De Groene Kans (Diksmuide) · Maatwerkbedrijf De Ploeg (Sint-Truiden) · SAAMO Vlaams-Brabant (Leuven) · Moderator (Leuven) · PIN Partners en Integratie (Halle) · Samenspel (Roeselare).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3020 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3020 run locally as fallback.
+- Next: **rq_3020** — remaining further-extended hits (Beschut Wonen De Overweg EUR2.22m, Beschut Wonen Kempen EUR2.20m, Werkstroomm EUR2.10m) or another postcode/code extension, largest first.
