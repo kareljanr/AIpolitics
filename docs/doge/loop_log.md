@@ -34222,3 +34222,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat.direction@sv-sf.be — direction-secretariat mailbox verified on official contact page https://www.sv-sf.be/SVXL/?page_id=61; the site legal notice (mentions légales PDF) gives BCE 428.402.181.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ixelles); FOI **gap_college_sv_sf_vaph_matrix_733_10_93m_9901_534k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3138/; rq_3138=done; spawn **rq_3139**; ticks=3138.
 - Next: **rq_3139 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3139 — 2026-10-12T23:19:52Z — rq_3139 leftover dual Institut Saint-André de Charleroi Charleroi YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies (pouvoirs organisateurs, ASBL) and related free-education non-profits; KBO name search over school/PO names (legal form ASBL), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Institut Saint-André de Charleroi** → KBO 0408.578.351 had 0 prior entity rows.
+- KBO: Actief since 29 december 1955; VZW; zetel Rue du Parc 6 6000 Charleroi; 3 VE; 0 prior entity rows for 0408.578.351
+- Found: official NBB VOL-VZW native PDF **2026-00302366** (1225197 B / 62p; AV 25-06-2026; neergelegd 17/07/2026; MD5 59c65d38be7e33171319f709462dfded). VOL-VZW 733 **EUR10546682** (+2.92%); 62 **EUR9621394**; 9901 **EUR51096** (was -60093); 9904 41385; equity 4423354; cash 1102673; FTE 15 (was 13,3).
+- FOI address: direction@saint-andre-charleroi.be — direction mailbox verified on official privacy page https://www.saint-andre-charleroi.be/politique-de-confidentialite/ (lists the establishment, Rue du Parc 6).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_charleroi); FOI **gap_saint_andre_charleroi_vaph_matrix_733_10_55m_9901_51k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3139/; rq_3139=done; spawn **rq_3140**; ticks=3139.
+- Next: **rq_3140 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
