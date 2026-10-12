@@ -29798,3 +29798,14 @@ Append-only. Each tick adds a short entry.
 - FOI address: alba@alba.be — general mailbox verified on official page https://www.alba.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_herent); FOI **gap_alba_herent_vaph_matrix_9900_4_28m_9901_235k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2699/; rq_2699=done; spawn **rq_2700**; ticks=2699.
 - Next: **rq_2700 leftover dual** — OVBJ leftover re-check finished (Kompani Koksijde skipped: VOL 733 empty; NOVA Kortrijk no filing yet; GO! school groups out of scope); next: KBO NACE 87/88 lists.
+
+
+## Tick 2700 — 2026-10-12T09:03:40Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2371** of 2423 rows; inventory budgets 57444 · commitments 6423 · leaderboard 8543 · entities 2442 · sources 8200.
+- Top10: **stable** (2691-2699 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2691-2699: Koninklijk Werk IBIS Bredene · Arcade Gistel · Begeleidingscentrum Bethanie Kortrijk · De Patio Brugge · De Cocon Gent · Jeugdzorg Nazareth-De Pinte · Lionshulp Gent · Martens-Sotteau Gent · Alba Herent.
+- Hunt this tick: none (EVERY-10 used the tick); rq_2700 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2700 run locally as fallback.
+- Source choice (recorded): ticks 2691-2699 used a KBO-number re-check of all five Opgroeien OVBJ provincial lists (IBIS first). Rejected: Kompani (733 empty), NOVA (no filing), GO! school groups. FOI: general mailboxes only, each verified on an opened official page.
+- Next: **rq_2700** — KBO NACE 87/88 lists.

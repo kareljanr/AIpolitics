@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2700** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2690; 2691-2699 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2691-2699 residual dual L5 (not near-complete of 348bn):** Koninklijk Werk IBIS Bredene · Arcade Gistel · Begeleidingscentrum Bethanie Kortrijk · De Patio Brugge · De Cocon Gent · Jeugdzorg Nazareth-De Pinte · Lionshulp Gent · Martens-Sotteau Gent · Alba Herent (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2371** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2423** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2691-2699** Koninklijk Werk IBIS Bredene · Arcade Gistel · Begeleidingscentrum Bethanie Kortrijk · De Patio Brugge · De Cocon Gent · Jeugdzorg Nazareth-De Pinte · Lionshulp Gent · Martens-Sotteau Gent · Alba Herent.
+
+### Inventory (tick 2700)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 57444 |
+| commitments.csv | 6423 |
+| leaderboard.csv | 8543 |
+| entities.csv | 2442 |
+| sources.csv | 8200 |
+| FOI ready | 2371 |
+| FOI total rows | 2423 |
+| research_queue open | rq_2700 (carried; OVBJ lists exhausted; next: KBO NACE 87/88 lists) |
+
+### What improved since tick 2690
+
+- **New source (tick2691-2699):** Koninklijk Werk IBIS Bredene · Arcade Gistel · Begeleidingscentrum Bethanie Kortrijk · De Patio Brugge · De Cocon Gent · Jeugdzorg Nazareth-De Pinte · Lionshulp Gent · Martens-Sotteau Gent · Alba Herent. Source: KBO-number re-check of all five Opgroeien OVBJ provincial lists. It found organisations that earlier name-matching had missed (IBIS was the queued lead).
+- **FOI addresses:** all nine are general organisation mailboxes verified on an opened official page (Lionshulp: lions@lionshulp.be, the only general address on its homepage).
+- **Runner note:** 2576-2700 ran on the local fallback runner (Actions last ticked 2575), from the fresh clone /workspace/AIpolitics-loop since 2681; toolkit now persistent at /workspace/AIpolitics-loop-tk. Do not run both at once.
+- **Rejected 2691-2699 (fast):** Kompani Koksijde (VOL 733 empty, skip rule); NOVA Kortrijk (KBO 2025, no filing yet); GO! scholengroepen Inspira/Xplora/Impact (school groups, out of scope); Evara (already in repo).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2690** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
