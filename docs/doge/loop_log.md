@@ -34422,3 +34422,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: college@ctsjw.be — general mailbox verified on official contact page https://www.ctsjw.be/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_ctsj_wavre_vaph_matrix_733_10_54m_9901_81k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3158/; rq_3158=done; spawn **rq_3159**; ticks=3158.
 - Next: **rq_3159 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3159 — 2026-10-12T23:52:05Z — rq_3159 leftover dual Collège Notre-Dame des Trois-Vallées (Genval) Rixensart YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Catholic school boards and university colleges (Flemish schoolbesturen VZW and FWB organising bodies / hautes écoles, ASBL); new KBO name search (legal form VZW/ASBL; words such as Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège Saint, Institut Saint), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Collège Notre-Dame des Trois-Vallées (Genval)** → KBO 0414.440.319 had 0 prior entity rows.
+- KBO: Actief since 17 juni 1974; VZW; zetel Rue du Couvent 2 1332 Rixensart; 3 VE; 0 prior entity rows for 0414.440.319
+- Found: official NBB VOL-VZW native PDF **2026-00271603** (559267 B / 30p; AV 26-06-2026; neergelegd 09/07/2026; MD5 be40c9289306614da385bbbb96211d7c). VOL-VZW 733 **EUR10446129** (+0.69%); 62 **EUR9242178**; 9901 **EUR21682** (was 67160); 9904 -17431; equity 4318444; cash 412784; FTE 9,7 (was 9,5).
+- FOI address: secretariat.nda@cnd3v.be — secretariat mailbox verified on official page https://collegetroisvallees.be/notredamedesanges/inscription/ (Rue du Couvent 2, the ASBL KBO seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_cnd_trois_vallees_vaph_matrix_733_10_45m_9901_22k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3159/; rq_3159=done; spawn **rq_3160**; ticks=3159.
+- Next: **rq_3160 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
