@@ -28922,3 +28922,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00104916** (53092 B / 15p; AV 28-03-2026; neergelegd 07/05/2026; MD5 bab841a600d0652156df43edfce887d1). VKT-VZW 9900 **EUR1968287** (+5.11%); 62 **EUR1740378**; 9901 **EUR7193** (was 93806); 9904 8690; equity 658435; cash 773192; FTE 25,3 (was 23,5).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.85; entities +1 (parent city_antwerpen); FOI **gap_kannet_antwerpen_vaph_matrix_9900_1_97m_9901_7k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2606/; rq_2606=done; spawn **rq_2607**; ticks=2606.
 - Next: **rq_2607 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2607 — 2026-10-12T08:00:42Z — rq_2607 leftover dual Bijstandsorganisatie Absoluut Antwerpen YE2025 (local fallback runner)
+
+- Hunt: NEW CANDIDATE SOURCE VAPH adreslijst Bijstandsorganisatie (f[0]=tid:1400): **Bijstandsorganisatie Absoluut** → KBO 0852.080.167 had 0 prior entity rows.
+- KBO: Actief since 6 februari 2001; VZW; zetel Arthur Goemaerelei 66, 2018 Antwerpen; 4 VE; 0 prior entity rows for 0852.080.167
+- Found: official NBB VKT-VZW native PDF **2026-00104912** (48131 B / 12p; AV 25-02-2026; neergelegd 07/05/2026; MD5 351eb371205e3bf3cc8298c9bdb570c5). VKT-VZW 9900 **EUR2384370** (+6.06%); 62 **EUR2383363**; 9901 **EUR-51754** (was 124933); 9904 -45800; equity 552445; cash 757919; FTE 33 (was 29,6).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.85; entities +1 (parent city_antwerpen); FOI **gap_bijstandsorganisatie_absoluut_antwerpen_vaph_matrix_9900_2_38m_9901_loss_52k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2607/; rq_2607=done; spawn **rq_2608**; ticks=2607.
+- Next: **rq_2608 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
