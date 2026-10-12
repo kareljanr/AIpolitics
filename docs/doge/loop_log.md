@@ -33492,3 +33492,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@histories.be — general mailbox verified on official page https://histories.be/contact/ (KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_histories_brussel_vaph_matrix_9900_1_25m_9901_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3065/; rq_3065=done; spawn **rq_3066**; ticks=3065.
 - Next: **rq_3066 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3066 — 2026-10-12T20:52:25Z — rq_3066 leftover dual Sport 10 30 Schaarbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Belgian publicly funded codes: 91.110/91.120 libraries and archives, 90.111/90.311/90.130 arts venues, 93.110/93.210 municipal sports facilities, 85.520 cultural education; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure; every candidate passed the name/alias/KBO/website dedup check: **Sport 10 30** → KBO 0419.334.562 had 0 prior entity rows.
+- KBO: Actief since 16 maart 1979; VZW; zetel Jerusalemstraat 56-58 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0419.334.562
+- Found: official NBB VKT-VZW native PDF **2026-00262426** (46450 B / 11p; AV 23-06-2026; neergelegd 07/07/2026; MD5 c989f2bb41650d10bf0efd6dd7abc47b). VKT-VZW 9900 **EUR1200156** (+115.54%); 62 **EUR894108**; 9901 **EUR260517** (was -426058); 9904 312321; equity 428158; cash 344384; FTE 16,5 (was 15,2).
+- FOI address: info@sport1030.brussels — general mailbox verified on official page https://sport1030.big-captain.com/web/be/page/nos-installations/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_sport1030_schaerbeek_vaph_matrix_9900_1_20m_9901_261k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3066/; rq_3066=done; spawn **rq_3067**; ticks=3066.
+- Next: **rq_3067 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
