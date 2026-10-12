@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2690** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2680; 2681-2689 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2681-2689 residual dual L5 (not near-complete of 348bn):** 't Spiegeltje Asse · Arktos Leuven · Cocon Vilvoorde · Eigen Kracht Centrale Kortenaken · Minor-Ndako & Juna Anderlecht · Radar Ternat · Sporen Leuven · Tonuso Anderlecht · Amber Bierbeek (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2362** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2414** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2681-2689** 't Spiegeltje Asse · Arktos Leuven · Cocon Vilvoorde · Eigen Kracht Centrale Kortenaken · Minor-Ndako & Juna Anderlecht · Radar Ternat · Sporen Leuven · Tonuso Anderlecht · Amber Bierbeek.
+
+### Inventory (tick 2690)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 57370 |
+| commitments.csv | 6414 |
+| leaderboard.csv | 8534 |
+| entities.csv | 2433 |
+| sources.csv | 8173 |
+| FOI ready | 2362 |
+| FOI total rows | 2414 |
+| research_queue open | rq_2690 (carried; OVBJ Vlaams-Brabant/Brussel list finished; next: IBIS (verify mailbox), then KBO NACE 87/88 lists) |
+
+### What improved since tick 2680
+
+- **New source (tick2681-2689):** 't Spiegeltje Asse · Arktos Leuven · Cocon Vilvoorde · Eigen Kracht Centrale Kortenaken · Minor-Ndako & Juna Anderlecht · Radar Ternat · Sporen Leuven · Tonuso Anderlecht · Amber Bierbeek. Source: Opgroeien OVBJ Vlaams-Brabant/Brussel list (april 2026; re-fetched as a valid PDF at contactgegevens-ovbj-vlaams-brabant-brussel.pdf). All OVBJ provincial lists now used.
+- **FOI addresses:** only addresses verified on an official page that could be opened. General mailboxes for Arktos, Eigen Kracht Centrale, Radar, Sporen, Tonuso, Amber. Named contacts (no general mailbox verifiable) for 't Spiegeltje (own site), Cocon (Opgroeien list; own site down) and Minor-Ndako (Opgroeien list; site has form only). Dageraad (tick2678) address now verified on dageraadvzw.be.
+- **Runner note:** 2576-2690 ran on the local fallback runner (Actions last ticked 2575). From 2681 the runner uses a fresh clone (/workspace/AIpolitics-loop) after the old checkout was found reset. Do not run both at once.
+- **Rejected 2681-2689 (fast):** CAW Brussel (already in repo); De Loper Anderlecht (no YE2025 deposit yet; latest YE2024); De Vogelzang Sint-Pieters-Woluwe (YE2025 near-dormant, 9900 negative; activity moved to Convento, already in repo); Adem, Alba, Cidar, MFC Combo, Monte Rosa, De Wissel, Huize Levenslust, Huize Levensruimte, Convento (already in repo).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2680** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

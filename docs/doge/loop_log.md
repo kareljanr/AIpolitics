@@ -29697,3 +29697,14 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ambervzw.be — general mailbox verified on official page https://www.ambervzw.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent sec_flanders); FOI **gap_amber_bierbeek_vaph_matrix_9900_1_71m_9901_85k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2689/; rq_2689=done; spawn **rq_2690**; ticks=2689.
 - Next: **rq_2690 leftover dual** — Opgroeien OVBJ Vlaams-Brabant/Brussel list finished (CAW Brussel + Adem/Alba/Cidar/Combo/Monte Rosa/De Wissel/Levenslust/Levensruimte/Convento already in repo; De Loper no YE2025 deposit; De Vogelzang wound down into Convento); next: IBIS (verify mailbox), then KBO NACE 87/88 lists.
+
+
+## Tick 2690 — 2026-10-12T08:54:28Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2362** of 2414 rows; inventory budgets 57370 · commitments 6414 · leaderboard 8534 · entities 2433 · sources 8173.
+- Top10: **stable** (2681-2689 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2681-2689: 't Spiegeltje Asse · Arktos Leuven · Cocon Vilvoorde · Eigen Kracht Centrale Kortenaken · Minor-Ndako & Juna Anderlecht · Radar Ternat · Sporen Leuven · Tonuso Anderlecht · Amber Bierbeek.
+- Hunt this tick: none (EVERY-10 used the tick); rq_2690 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2690 run locally as fallback; 2681+ from a fresh clone after the old local checkout was found reset.
+- Source choice (recorded): ticks 2681-2689 used the Opgroeien OVBJ Vlaams-Brabant/Brussel list (april 2026), now finished. FOI: only addresses verified on an opened official page; named contacts where no general mailbox is published.
+- Next: **rq_2690** — IBIS (verify mailbox on official page); then KBO NACE 87/88 lists.
