@@ -30215,3 +30215,13 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2740 run locally as fallback.
 - Source choice (recorded): ticks 2731-2739 used KBO NACE 88.101/88.991/87.302 searches plus the Wit-Gele Kruis provincial list; Ter Engelen FOI row/draft fixed in tick 2731. FOI: general mailboxes only, each verified on an opened official page.
 - Next: **rq_2740** — Wit-Gele Kruis Oost-Vlaanderen 0410.442.335 (scanned filing), WGK federation 0465.698.582, Dagcentrum Kasteel Turnhout, Perspectief Oostende.
+
+
+## Tick 2741 — 2026-10-12T13:29:30Z — rq_2740 leftover dual Wit-Gele Kruis van Oost-Vlaanderen Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101 (home care) and 88.911 (childcare) activity and name searches, plus Wit-Gele Kruis associations listed on witgelekruis.be: **Wit-Gele Kruis van Oost-Vlaanderen** → KBO 0410.442.335 had 0 prior entity rows.
+- KBO: Actief since 7 december 1967; VZW; zetel Jenny Tanghestraat 2 9050 Gent; 27 VE; 0 prior entity rows for 0410.442.335
+- Found: official NBB VOL-VZW native PDF **2026-00206693** (5475682 B / 54p; AV 11-06-2026; neergelegd 23/06/2026; MD5 ac7e219f83f98340607685b6c048437c). VOL-VZW 733 **EUR35684403** (+1.80%); 62 **EUR104533203**; 9901 **EUR-206463** (was -4125376); 9904 548100; equity 44748372; cash 5057322; FTE 1.206,7 (was 1.207,2).
+- FOI address: info@wgkovl.be — general mailbox verified on official page https://www.witgelekruis.be/contacteer-ons (KBO number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_wgk_oost_vlaanderen_vaph_matrix_733_35_68m_9901_loss_206k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2741/; rq_2740=done; spawn **rq_2742**; ticks=2741.
+- Next: **rq_2742 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

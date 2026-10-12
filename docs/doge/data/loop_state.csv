@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T13:22:25Z,every10_2740,2740,no,"tick2740 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2740 carried open; home-care batch done; next WGK Oost-Vlaanderen, WGK federation, Dagcentrum Kasteel, Perspectief (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T13:29:30Z,rq_2740,2741,no,tick2741 leftover dual Wit-Gele Kruis van Oost-Vlaanderen Gent 0410.442.335 Strong PDF 2026-00206693 733 35.68m / 9901 loss 206k; next rq_2742 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
