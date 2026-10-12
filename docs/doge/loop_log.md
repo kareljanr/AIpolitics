@@ -33982,3 +33982,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@safpa.be — general mailbox verified on official contact page https://www.safpa.be/contact/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_verviers); FOI **gap_safpa_verviers_vaph_matrix_733_7_79m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3114/; rq_3114=done; spawn **rq_3115**; ticks=3114.
 - Next: **rq_3115 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3115 — 2026-10-12T22:29:02Z — rq_3115 leftover dual La Centrale de Services à Domicile du Brabant wallon - Réseau Solidaris (CSD Brabant wallon) Tubize YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon home-help and family-help services (services d'aide aux familles et aînés, ASD, CSD; KBO name search over ~30 home-help names, filings ranked by NBB code 733 operating subsidies, largest first; Brussels Aide familiale and the large Flemish services already entities); every candidate passed the name/alias/KBO/website dedup check: **La Centrale de Services à Domicile du Brabant wallon - Réseau Solidaris (CSD Brabant wallon)** → KBO 0445.335.908 had 0 prior entity rows.
+- KBO: Actief since 18 juli 1991; VZW; zetel Chaussée de Mons 228 1480 Tubize; 2 VE; 0 prior entity rows for 0445.335.908
+- Found: official NBB VOL-VZW native PDF **2026-00306575** (967299 B / 38p; AV 24-06-2026; neergelegd 15/07/2026; MD5 780d616fee66553853cfd904b378aaa8). VOL-VZW 733 **EUR5964136** (n/a); 62 **EUR7008213**; 9901 **EUR434895** (was 186064); 9904 445899; equity 1665159; cash 420160; FTE 145,9 (was 144,9).
+- FOI address: csd.brwallon@solidaris.be — general mailbox verified on official contact page https://www.csdbrabantwallon.be/fr/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_csd_brabant_wallon_vaph_matrix_733_5_96m_9901_435k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3115/; rq_3115=done; spawn **rq_3116**; ticks=3115.
+- Next: **rq_3116 leftover dual** — Batch done; next: remaining Walloon home-help services after the dedup check: Aide et Soins à Domicile Croix Jaune et Blanche Tournai-Ath (EUR2.47m code 733; site mailboxes are of the merged ASD Hainaut Picardie, verify entity first), Aide familiale Liège-Huy-Waremme (EUR17.59m; skipped: the mailbox on the ASD Liège site belongs to a sister entity with another KBO number), i-mens Thuisverpleging (Flemish home nursing, EUR24.77m; needs an NL profile).
