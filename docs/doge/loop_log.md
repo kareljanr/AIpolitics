@@ -34462,3 +34462,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@cndbe.be — secretariat mailbox verified on official contact page https://college-bonne-esperance.be/contact.html.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_cnd_bonne_esperance_vaph_matrix_733_8_07m_9901_loss_49k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3162/; rq_3162=done; spawn **rq_3163**; ticks=3162.
 - Next: **rq_3163 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3163 — 2026-10-12T23:54:21Z — rq_3163 leftover dual Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen (KdG) Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Catholic school boards and university colleges (Flemish schoolbesturen VZW and FWB organising bodies / hautes écoles, ASBL); new KBO name search (legal form VZW/ASBL; words such as Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège Saint, Institut Saint), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen (KdG)** → KBO 0458.402.105 had 0 prior entity rows.
+- KBO: Actief since 20 december 1994; VZW; zetel Brusselstraat 45 2018 Antwerpen; 8 VE; 0 prior entity rows for 0458.402.105
+- Found: official NBB VOL-VZW native PDF **2026-00073527** (517088 B / 51p; AV 26-03-2026; neergelegd 31/03/2026; MD5 5214bacf664ee6dc050d2ca9e493df0f). VOL-VZW 733 **EUR7154968** (-0.23%); 62 **EUR97980722**; 9901 **EUR2757353** (was 1661304); 9904 3077195; equity 74161443; cash 12578966; FTE 245,6 (was 250,7).
+- FOI address: info@kdg.be — general mailbox verified on official contact page https://www.kdg.be/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_kdg_hogeschool_vaph_matrix_733_7_15m_9901_2757k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3163/; rq_3163=done; spawn **rq_3164**; ticks=3163.
+- Next: **rq_3164 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
