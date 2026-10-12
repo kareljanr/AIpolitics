@@ -30974,3 +30974,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@lestroispommiers.be — general mailbox verified on official page https://www.lestroispommiers.be/fr/les-accueils/maison-de-repos-mrpa/ (opened via web fetch; BCE shown; Iriscare agreement IRIS/MR-RH/017).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent iriscare); FOI **gap_les_trois_pommiers_etterbeek_vaph_matrix_9900_2_53m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2815/; rq_2815=done; spawn **rq_2816**; ticks=2815.
 - Next: **rq_2816 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2816 — 2026-10-12T15:13:13Z — rq_2816 leftover dual Maison de la Famille Bruxelles (Saint-Josse-ten-Noode) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101/87.301/87.302/87.202 activity searches, Brussels-Capital postcodes (French-language ASBLs), ranked by primary figure: **Maison de la Famille** → KBO 0472.850.056 had 0 prior entity rows.
+- KBO: Actief since 10 mei 2000; VZW; zetel de Liedekerkestraat 112 1210 Sint-Joost-ten-Node; 2 VE; 0 prior entity rows for 0472.850.056
+- Found: official NBB VKT-VZW native PDF **2026-00216101** (46196 B / 12p; AV 19-06-2026; neergelegd 29/06/2026; MD5 9c4d76cc1b15dc3c71dc9feb3ab98be3). VKT-VZW 9900 **EUR1964974** (-0.14%); 62 **EUR1964130**; 9901 **EUR-11750** (was 106062); 9904 -102558; equity -406399; cash 8314; FTE 35,8 (was 34,3).
+- FOI address: info@maisonfamille.be — general mailbox verified on official page http://www.maisonfamille.be/ (opened via web fetch; also on sjtn.brussels).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_maison_de_la_famille_saint_josse_vaph_matrix_9900_1_96m_9901_loss_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2816/; rq_2816=done; spawn **rq_2817**; ticks=2816.
+- Next: **rq_2817 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
