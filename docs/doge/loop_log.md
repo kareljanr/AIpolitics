@@ -33213,3 +33213,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@volleyvlaanderen.be — general mailbox verified on official page https://volleyvlaanderen.be/contact (KBO number and Beneluxlaan 22 shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_vilvoorde); FOI **gap_volley_vlaanderen_vaph_matrix_9900_2_98m_9901_774k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3038/; rq_3038=done; spawn **rq_3039**; ticks=3038.
 - Next: **rq_3039 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3039 — 2026-10-12T20:18:20Z — rq_3039 leftover dual Heyo Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (new codes 93.191 sport federations, 93.121/93.199 sport, 84.130 public administration of economic affairs, 72.200 social-science research; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Heyo** → KBO 0877.974.714 had 0 prior entity rows.
+- KBO: Actief since 6 december 2005; VZW; zetel Kortrijksesteenweg 302 9000 Gent; 2 VE; 0 prior entity rows for 0877.974.714
+- Found: official NBB VKT-VZW native PDF **2026-00078503** (54207 B / 15p; AV 24-03-2026; neergelegd 10/04/2026; MD5 a6b29689efc0a971b96e4655fb6cdd39). VKT-VZW 9900 **EUR2620360** (+15.63%); 62 **EUR2198648**; 9901 **EUR335231** (was 83851); 9904 361997; equity 966909; cash 871296; FTE 41,5 (was 36,7).
+- FOI address: info@heyo.be — general mailbox verified on official pages https://www.heyo.be/contact and https://www.heyo.be/algemene-voorwaarden (KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_heyo_gent_vaph_matrix_9900_2_62m_9901_335k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3039/; rq_3039=done; spawn **rq_3040**; ticks=3039.
+- Next: **rq_3040 leftover dual** — Batch done; next: remaining new-code hits (Basketbal Vlaanderen EUR2.60m, G-sport Vlaanderen EUR2.16m, Vlaamse Zwemfederatie EUR2.03m) then rq_3030 leftovers (De Troef EUR1.61m, Bejaardenzorg KEI EUR1.53m, PCH Kindermishandeling EUR1.49m); skipped this batch: Moev (general mailbox obfuscated on its official pages), Sportwerk Vlaanderen (contact form, only personal and DPO mailboxes), Belgian Hockey (no mailbox on its official contact page).
