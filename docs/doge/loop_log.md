@@ -29869,3 +29869,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@jongerenatelier.be — general mailbox verified on official page https://jongerenatelier.be/contact.html.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_jongerenatelier_kortrijk_vaph_matrix_9900_0_83m_9901_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2706/; rq_2706=done; spawn **rq_2707**; ticks=2706.
 - Next: **rq_2707 leftover dual** — KBO NACE 88.992 (integrale jeugdhulp zonder huisvesting) scan by postcode in progress; next: remaining 88.992 units, then other NACE 87/88 codes (87.202/87.203 residential, 88.994 welzijnswerk).
+
+
+## Tick 2707 — 2026-10-12T09:14:09Z — rq_2707 leftover dual Jeugd- en Jongerenwerk Mechelen (J@M) Mechelen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.992 activity search (Integrale jeugdhulp zonder huisvesting): **Jeugd- en Jongerenwerk Mechelen (J@M)** → KBO 0445.294.237 had 0 prior entity rows.
+- KBO: Actief since 30 april 1991; VZW; zetel Papenhofdreef 57 2800 Mechelen; 1 VE; 0 prior entity rows for 0445.294.237
+- Found: official NBB VKT-VZW native PDF **2026-00181862** (479083 B / 20p; AV 09-06-2026; neergelegd 22/06/2026; MD5 20a4bedf58160edc3a4a27ac67d29219). VKT-VZW 9900 **EUR1501896** (-3.36%); 62 **EUR1796397**; 9901 **EUR-302358** (was 30759); 9904 -304049; equity 48867; cash 115253; FTE 24,8 (was 25,3).
+- FOI address: info@jamvzw.be — general mailbox verified in the official J@M annual accounts PDF published on mechelen.be (https://www.mechelen.be/sites/default/files/jm/files/2026-06/Jaarrekening_2025.pdf); jamvzw.be itself shows no mailbox.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mechelen); FOI **gap_jam_mechelen_vaph_matrix_9900_1_50m_9901_loss_302k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2707/; rq_2707=done; spawn **rq_2708**; ticks=2707.
+- Next: **rq_2708 leftover dual** — KBO NACE 88.992 (integrale jeugdhulp zonder huisvesting) scan by postcode in progress; next: remaining 88.992 units, then other NACE 87/88 codes (87.202/87.203 residential, 88.994 welzijnswerk).
