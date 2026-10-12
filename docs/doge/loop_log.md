@@ -31105,3 +31105,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@centrepierrejurdant.be — general mailbox verified on official page https://www.centrepierrejurdant.be/ (opened via web fetch; company number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_pierre_jurdant_forest_vaph_matrix_9900_1_43m_9901_16k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2828/; rq_2828=done; spawn **rq_2829**; ticks=2828.
 - Next: **rq_2829 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2829 — 2026-10-12T15:32:10Z — rq_2829 leftover dual Le Bivouac Bruxelles (Uccle) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.201/87.202 (residential care for people with intellectual disability) activity searches, Flemish and Brussels-Capital postcodes, ranked by primary figure: **Le Bivouac** → KBO 0412.552.480 had 0 prior entity rows.
+- KBO: Actief since 1 juli 1972; VZW; zetel Heldensquare 5 1180 Ukkel; 2 VE; 0 prior entity rows for 0412.552.480
+- Found: official NBB VKT-VZW native PDF **2026-00239285** (193651 B / 19p; AV 29-06-2026; neergelegd 30/06/2026; MD5 5d6b58e7e05a98173b24ba9aa6a15e12). VKT-VZW 9900 **EUR887408** (+13.37%); 62 **EUR792599**; 9901 **EUR41463** (was -3017); 9904 46260; equity 3076752; cash 3191369; FTE 12 (was 11).
+- FOI address: info@lebivouac.be — general mailbox verified on official page https://www.lebivouac.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_le_bivouac_uccle_vaph_matrix_9900_0_89m_9901_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2829/; rq_2829=done; spawn **rq_2830**; ticks=2829.
+- Next: **rq_2830 leftover dual** — Batch done; next: more 87.20x/88.10x disability providers (Flemish VAPH and Brussels COCOF/PHARE), larger first; skipped: none with a verified mailbox among the larger hits; Dienstencentrum Sint Oda and BIJS not in the size-ranked triage (no usable YE2025 filing).
