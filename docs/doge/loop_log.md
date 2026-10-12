@@ -29718,3 +29718,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ibiswerk.be — general mailbox verified on official homepage https://www.ibiswerk.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bredene); FOI **gap_ibis_bredene_vaph_matrix_9900_5_70m_9901_116k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2691/; rq_2690=done; spawn **rq_2692**; ticks=2691.
 - Next: **rq_2692 leftover dual** — OVBJ leftover re-check across the 5 provincial lists (KBO-number match) in progress; next: remaining re-check leftovers, then KBO NACE 87/88 lists.
+
+
+## Tick 2692 — 2026-10-12T09:02:06Z — rq_2692 leftover dual Arcade Gistel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ West-Vlaanderen list (re-check leftovers): **Arcade** → KBO 0415.028.752 had 0 prior entity rows.
+- KBO: Actief since 26 februari 1975; VZW; zetel Callaertswalledreef 18 8470 Gistel; 4 VE; 0 prior entity rows for 0415.028.752
+- Found: official NBB VOL-VZW native PDF **2026-00291874** (1786458 B / 49p; AV 15-06-2026; neergelegd 09/07/2026; MD5 ff3a6e1a84db689df60183bb0f209dff). VOL-VZW 733 **EUR7982726** (+3.30%); 62 **EUR7247186**; 9901 **EUR-215962** (was 154915); 9904 -272175; equity 10692775; cash 590661; FTE 93,3 (was 92).
+- FOI address: info@arcadevzw.be — general mailbox verified on official page https://www.arcadevzw.be/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gistel); FOI **gap_arcade_gistel_vaph_matrix_733_7_98m_9901_loss_216k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2692/; rq_2692=done; spawn **rq_2693**; ticks=2692.
+- Next: **rq_2693 leftover dual** — OVBJ leftover re-check across the 5 provincial lists (KBO-number match) in progress; next: remaining re-check leftovers, then KBO NACE 87/88 lists.
