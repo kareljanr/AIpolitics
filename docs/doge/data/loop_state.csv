@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T13:39:13Z,rq_2752,2752,no,tick2752 leftover dual Perspectief Oostende Oostende 0684.927.193 Strong PDF 2026-00442675 9900 0.34m / 9901 loss 98k; next rq_2753 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T13:39:25Z,rq_2753,2753,no,tick2753 leftover dual Clara's Hofke Arendonk 0439.824.526 Strong PDF 2026-00342576 9900 2.02m / 9901 124k; next rq_2754 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

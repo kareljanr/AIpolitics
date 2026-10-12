@@ -30336,3 +30336,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@wehelpengraag.be — general mailbox verified on official page https://www.wehelpengraag.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oostende); FOI **gap_perspectief_oostende_vaph_matrix_9900_0_34m_9901_loss_98k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2752/; rq_2752=done; spawn **rq_2753**; ticks=2752.
 - Next: **rq_2753 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2753 — 2026-10-12T13:39:25Z — rq_2753 leftover dual Clara's Hofke Arendonk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, plus KBO record of the Oostende projectvereniging Perspectief: **Clara's Hofke** → KBO 0439.824.526 had 0 prior entity rows.
+- KBO: Actief since 13 april 1989; VZW; zetel Kloosterbaan 3 2370 Arendonk; 1 VE; 0 prior entity rows for 0439.824.526
+- Found: official NBB VKT-VZW native PDF **2026-00342576** (51669 B / 16p; AV 22-06-2026; neergelegd 24/07/2026; MD5 fd61ea174d2e8de62861ce21446da4b9). VKT-VZW 9900 **EUR2015264** (-0.36%); 62 **EUR1749070**; 9901 **EUR123760** (was 234103); 9904 195161; equity 2733346; cash 56241; FTE 26,2 (was 25).
+- FOI address: info@clarashofke.be — general mailbox verified on official page https://clarashofke.be/contact-locatie.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_arendonk); FOI **gap_claras_hofke_arendonk_vaph_matrix_9900_2_02m_9901_124k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2753/; rq_2753=done; spawn **rq_2754**; ticks=2753.
+- Next: **rq_2754 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
