@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T08:15:53Z,rq_2625,2625,no,"tick2625 leftover dual CKG Kapoentje Oostende 0475.254.567 Strong PDF 2026-00096152 9900 4.23m / 9901 1.00m; next rq_2626 continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T08:16:03Z,rq_2626,2626,no,"tick2626 leftover dual CKG De Stap Genk 0463.009.209 Strong PDF 2026-00151848 9900 2.68m / 9901 179k; next rq_2627 continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists (local fallback runner; Actions cron unreliable)"

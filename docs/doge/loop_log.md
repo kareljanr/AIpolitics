@@ -29097,3 +29097,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00096152** (56940 B / 17p; AV 02-04-2026; neergelegd 30/04/2026; MD5 7c257a3a34a1b549c8115ec9f4e839fa). VKT-VZW 9900 **EUR4234808** (+5.43%); 62 **EUR2586093**; 9901 **EUR1001746** (was 572275); 9904 1062436; equity 9385085; cash 2810631; FTE 36,7 (was 35,6).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 5.20; entities +1 (parent city_oostende); FOI **gap_ckg_kapoentje_oostende_vaph_matrix_9900_4_23m_9901_1_00m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2625/; rq_2625=done; spawn **rq_2626**; ticks=2625.
 - Next: **rq_2626 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2626 — 2026-10-12T08:16:03Z — rq_2626 leftover dual CKG De Stap Genk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien CKG contact list (april 2026): **CKG De Stap** → KBO 0463.009.209 had 0 prior entity rows.
+- KBO: Actief since 9 februari 1998; VZW; zetel Zevenbonderstraat 78, 3600 Genk; 1 VE; 0 prior entity rows for 0463.009.209
+- Found: official NBB VKT-VZW native PDF **2026-00151848** (43049 B / 12p; AV 26-05-2026; neergelegd 11/06/2026; MD5 279d6d7fbac495acc16917dc2b3c8d35). VKT-VZW 9900 **EUR2679605** (+3.97%); 62 **EUR2412705**; 9901 **EUR179406** (was 253452); 9904 181913; equity 2313546; cash 893964; FTE 29,7 (was 29,3).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_genk); FOI **gap_ckg_de_stap_genk_vaph_matrix_9900_2_68m_9901_179k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2626/; rq_2626=done; spawn **rq_2627**; ticks=2626.
+- Next: **rq_2627 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
