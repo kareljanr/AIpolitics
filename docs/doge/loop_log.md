@@ -30762,3 +30762,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@pajottenlandscentrum.be — general mailbox verified on official page http://www.pajottenlandscentrum.be/portal.php?afdeling=h&p=contact (opened via web fetch; the box network could not reach the site).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lennik); FOI **gap_pajottenlands_centrum_lennik_vaph_matrix_9900_3_32m_9901_loss_400k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2794/; rq_2794=done; spawn **rq_2795**; ticks=2794.
 - Next: **rq_2795 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2795 — 2026-10-12T14:36:21Z — rq_2795 leftover dual De Kleine Kasteeltjes Tongeren Tongeren YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301 (nursing homes) and 88.101 (home care) activity search, Antwerpen and Vlaams-Brabant postcodes, ranked by primary figure (plus two larger 88.911 childcare VZWs): **De Kleine Kasteeltjes Tongeren** → KBO 0546.642.213 had 0 prior entity rows.
+- KBO: Actief since 29 januari 2014; VZW; zetel Kleine Kasteeltjesweg 1 2960 Brecht; 1 VE; 0 prior entity rows for 0546.642.213
+- Found: official NBB VKT-VZW native PDF **2026-00414597** (47914 B / 13p; AV 30-06-2026; neergelegd 14/08/2026; MD5 ed74fddea0acb16451fc619fb40cdd8b). VKT-VZW 9900 **EUR2374054** (-5.98%); 62 **EUR2858743**; 9901 **EUR-688597** (was -403130); 9904 -714175; equity -2348147; cash 127570; FTE 42,2 (was 43,8).
+- FOI address: info@dekleinekasteeltjes.be — general mailbox verified on official page https://dekleinekasteeltjes.be/contact/ (shared mailbox for the Brecht and Tongeren sites).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_tongeren_borgloon); FOI **gap_kleine_kasteeltjes_tongeren_vaph_matrix_9900_2_37m_9901_loss_689k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2795/; rq_2795=done; spawn **rq_2796**; ticks=2795.
+- Next: **rq_2796 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

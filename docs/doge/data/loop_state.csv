@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T14:36:12Z,rq_2794,2794,no,tick2794 leftover dual Pajottenlands Centrum voor Gezins- en Bejaardenhulp LEDA Lennik 0430.828.468 Strong PDF 2026-00208115 9900 3.32m / 9901 loss 400k; next rq_2795 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T14:36:21Z,rq_2795,2795,no,tick2795 leftover dual De Kleine Kasteeltjes Tongeren Tongeren 0546.642.213 Strong PDF 2026-00414597 9900 2.37m / 9901 loss 689k; next rq_2796 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
