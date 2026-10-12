@@ -32013,3 +32013,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: tago@tagoasbl.be — general mailbox verified on official page https://tagoasbl.be/ (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_tago_neder_over_heembeek_vaph_matrix_9900_0_51m_9901_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2918/; rq_2918=done; spawn **rq_2919**; ticks=2918.
 - Next: **rq_2919 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2919 — 2026-10-12T17:23:44Z — rq_2919 leftover dual Huize Jan De Wachter Ganshoren YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Huize Jan De Wachter** → KBO 0451.562.021 had 0 prior entity rows.
+- KBO: Actief since 19 november 1993; VZW; zetel Broustinlaan 96 1083 Ganshoren; 3 VE; 0 prior entity rows for 0451.562.021
+- Found: official NBB VKT-VZW native PDF **2026-00213973** (43773 B / 12p; AV 22-05-2026; neergelegd 29/06/2026; MD5 e8ecd012ea0b3e0f75ae4532f0171e31). VKT-VZW 9900 **EUR386069** (+35.36%); 62 **EUR283763**; 9901 **EUR87384** (was -43894); 9904 88137; equity 278476; cash 187935; FTE 3,8 (was 5).
+- FOI address: info@hjdw.be — general mailbox verified on official page https://www.hjdw.be/ (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_huize_jan_de_wachter_ganshoren_vaph_matrix_9900_0_39m_9901_87k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2919/; rq_2919=done; spawn **rq_2920**; ticks=2919.
+- Next: **rq_2920 leftover dual** — Batch done; next: large Brussels 87.x VOL filers whose subsidy line (733) is empty and need turnover (70) handling in the toolkit (IRSA Centre de Services EUR20.9m, Coordination bruxelloise d'Institutions sociales EUR9.3m, Société Royale de Philanthropie EUR6.8m, WZC Sint-Jozef EUR4.9m, Heureux Séjour), then a new NACE band; skipped this batch: La Passerelle (no mailbox on own site), Entre Autres and HPB (mailbox not visible on own site), Juan-Luis Vives, Solidaritel, Festina Lente (no own site/mailbox), De Lariks (named person only), Primavera (mailbox only on third-party pages), Janniot (contact page not verifiable), Aides familiales Ganshoren (only the municipality mailbox).
