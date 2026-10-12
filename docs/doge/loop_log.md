@@ -31873,3 +31873,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@magnolia-jette.be — general mailbox verified on official page https://www.magnolia-jette.be/displaypage.aspx?lgs=nl&pid=8.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_magnolia_jette_vaph_matrix_733_2_26m_9901_903k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2904/; rq_2904=done; spawn **rq_2905**; ticks=2904.
 - Next: **rq_2905 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2905 — 2026-10-12T17:18:11Z — rq_2905 leftover dual Les Oiseaux Bleus Centre de Réadaptation Fonctionnelle Bruxelles (Etterbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Les Oiseaux Bleus Centre de Réadaptation Fonctionnelle** → KBO 0409.103.735 had 0 prior entity rows.
+- KBO: Actief since 19 september 1963; VZW; zetel Pater Eudore Devroyestraat 14 1040 Etterbeek; 1 VE; 0 prior entity rows for 0409.103.735
+- Found: official NBB VKT-VZW native PDF **2026-00301003** (49702 B / 13p; AV 18-06-2026; neergelegd 16/07/2026; MD5 e6f89916c8c4ffadd89d0a2d99d8eeb5). VKT-VZW 9900 **EUR2132707** (+1.88%); 62 **EUR1970964**; 9901 **EUR-22725** (was -43025); 9904 8902; equity 1674960; cash 285035; FTE 26,8 (was 27,8).
+- FOI address: centre@lesoiseauxbleus.be — general mailbox verified on official page https://www.lesoiseauxbleus.be/contact (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_oiseaux_bleus_etterbeek_vaph_matrix_9900_2_13m_9901_loss_23k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2905/; rq_2905=done; spawn **rq_2906**; ticks=2905.
+- Next: **rq_2906 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

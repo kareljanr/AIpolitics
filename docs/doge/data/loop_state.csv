@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T17:18:02Z,rq_2904,2904,no,tick2904 leftover dual Magnolia Bruxelles (Jette) 0414.197.918 Strong PDF 2026-00253826 733 2.26m / 9901 903k; next rq_2905 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T17:18:11Z,rq_2905,2905,no,tick2905 leftover dual Les Oiseaux Bleus Centre de Réadaptation Fonctionnelle Bruxelles (Etterbeek) 0409.103.735 Strong PDF 2026-00301003 9900 2.13m / 9901 loss 23k; next rq_2906 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
