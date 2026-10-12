@@ -30406,3 +30406,14 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vzwkinderopvang.be — general mailbox verified on official page https://vzwkinderopvang.be/contact/ (KBO number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_hove); FOI **gap_kinderopvang_hove_vaph_matrix_9900_0_66m_9901_loss_29k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2759/; rq_2759=done; spawn **rq_2760**; ticks=2759.
 - Next: **rq_2760 leftover dual** — Batch done; next: more NACE 88.911 childcare VZWs and 88.101 home-care services outside the main cities; skipped: BABELU vzw Zaventem (no own general mailbox found; KBO seat shared with Babilou Belgium BV; only kinderopvang@babilou.com of the BV found), Kinderdagverblijf Wolkewietje Berlaar (no mailbox on its official site), 't Riemenhofje Heist-op-den-Berg (only a named person's mailbox).
+
+
+## Tick 2760 — 2026-10-12T13:40:43Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2425** of 2477 rows; inventory budgets 57896 · commitments 6477 · leaderboard 8597 · entities 2496 · sources 8362.
+- Top10: **stable** (2751-2759 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2751-2759: KIKOEN (Olen) · Perspectief Oostende (projectvereniging, Oostende) · Clara's Hofke (Arendonk) · Ons Peuterhuisje (Zwijndrecht) · De Vijfling (Putte) · Het Pareltje (Westerlo) · De Knuffel (Mortsel) · Kabouterland (Lennik) · VZW Kinderopvang (Hove).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2760 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2760 run locally as fallback.
+- Source choice (recorded): ticks 2751-2759 used the KBO NACE 88.911 search plus the Perspectief Oostende KBO record (projectvereniging, in scope as public body per igs_ precedent). FOI: general mailboxes; 2 marked NEEDS VERIFICATION (De Knuffel, Kabouterland).
+- Next: **rq_2760** — more NACE 88.911 childcare and 88.101 home-care VZWs outside the main cities; Perspectief Oostende (projectvereniging) needs public-body handling.

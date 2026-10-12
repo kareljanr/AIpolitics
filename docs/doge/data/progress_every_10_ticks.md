@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2760** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2750; 2751-2759 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2751-2759 residual dual L5 (not near-complete of 348bn):** KIKOEN (Olen) · Perspectief Oostende (projectvereniging, Oostende) · Clara's Hofke (Arendonk) · Ons Peuterhuisje (Zwijndrecht) · De Vijfling (Putte) · Het Pareltje (Westerlo) · De Knuffel (Mortsel) · Kabouterland (Lennik) · VZW Kinderopvang (Hove) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2425** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2477** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2751-2759** KIKOEN (Olen) · Perspectief Oostende (projectvereniging, Oostende) · Clara's Hofke (Arendonk) · Ons Peuterhuisje (Zwijndrecht) · De Vijfling (Putte) · Het Pareltje (Westerlo) · De Knuffel (Mortsel) · Kabouterland (Lennik) · VZW Kinderopvang (Hove).
+
+### Inventory (tick 2760)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 57896 |
+| commitments.csv | 6477 |
+| leaderboard.csv | 8597 |
+| entities.csv | 2496 |
+| sources.csv | 8362 |
+| FOI ready | 2425 |
+| FOI total rows | 2477 |
+| research_queue open | rq_2760 (carried; next: more NACE 88.911 childcare and 88.101 home-care VZWs outside the main cities) |
+
+### What improved since tick 2750
+
+- **New source (tick2751-2759):** KIKOEN (Olen) · Perspectief Oostende (projectvereniging, Oostende) · Clara's Hofke (Arendonk) · Ons Peuterhuisje (Zwijndrecht) · De Vijfling (Putte) · Het Pareltje (Westerlo) · De Knuffel (Mortsel) · Kabouterland (Lennik) · VZW Kinderopvang (Hove). Source: KBO NACE-BEL 88.911 activity search (Antwerp/Vlaams-Brabant postcodes) triaged by NBB model, plus the KBO record of Perspectief Oostende. Perspectief is an intergemeentelijke projectvereniging, not a VZW: handled as a public body (igs_ entity, parent city_oostende), in scope per the 16 existing projectvereniging entities in the repo (LOOP.md has no rule excluding public bodies).
+- **FOI addresses:** verified on opened official pages except **De Knuffel** (deknuffel@busmail.net) and **Kabouterland Lennik** (kabouterland.lennik@skynet.be), seen only in third-party listings; FOI rows marked NEEDS VERIFICATION. Het Pareltje verified on westerlo.be.
+- **Runner note:** 2576-2760 ran on the local fallback runner (Actions last ticked 2575), from the fresh clone /workspace/AIpolitics-loop since 2681; toolkit persistent at /workspace/AIpolitics-loop-tk. Do not run both at once.
+- **Rejected 2751-2759 (fast):** BABELU Zaventem (no own mailbox; seat shared with Babilou Belgium BV); Kinderdagverblijf Wolkewietje Berlaar (no mailbox on its official site); 't Riemenhofje Heist-op-den-Berg (only a named person's mailbox).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2750** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
