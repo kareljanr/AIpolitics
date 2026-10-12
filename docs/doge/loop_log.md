@@ -29227,3 +29227,14 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00201982** (52673 B / 15p; AV 28-05-2026; neergelegd 26/06/2026; MD5 04c3d7a8ae94679418cf80dddccf69b1). VKT-VZW 9900 **EUR2168050** (+0.23%); 62 **EUR2130141**; 9901 **EUR-19807** (was 13217); 9904 -8872; equity 841495; cash 164698; FTE 26,5 (was 28,2).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_jabbeke); FOI **gap_oooc_de_zandberg_jabbeke_vaph_matrix_9900_2_17m_9901_loss_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2639/; rq_2639=done; spawn **rq_2640**; ticks=2639.
 - Next: **rq_2640 leftover dual** — continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists.
+
+
+## Tick 2640 — 2026-10-12T08:23:35Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2317** of 2369 rows; inventory budgets 56986 · commitments 6369 · leaderboard 8489 · entities 2388 · sources 8038.
+- Top10: **stable** (2631-2639 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2631-2639: CKG Sint-Clara Brugge · Koraal Antwerpen · i-mens Gent · CIG De Zeshoek Lommel · CIG De Kiekenstraat Gent · CIG Convento Kraainem · CIG Nestel Kortrijk · OOOC Ter Heide Bonheiden · OOOC De Zandberg Jabbeke.
+- Hunt this tick: none (EVERY-10 used the tick); rq_2640 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2640 run locally as fallback.
+- Source choice (recorded): ticks 2631-2633 finished the Opgroeien CKG list; ticks 2634-2637 NEW SOURCE Opgroeien CIG list (april 2026); ticks 2638-2639 NEW SOURCE Opgroeien OOOC list (april 2026). Contact switch tick2631: KanNet FOI -> info@kannet.be; Ter Wende-Espero kept (no verifiable general mailbox).
+- Next: **rq_2640** — remaining Opgroeien OOOCs (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), then VAPH vrijetijdszorg leftovers and KBO NACE 87/88.

@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 2640** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2630; 2631-2639 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2631-2639 residual dual L5 (not near-complete of 348bn):** CKG Sint-Clara Brugge · Koraal Antwerpen · i-mens Gent · CIG De Zeshoek Lommel · CIG De Kiekenstraat Gent · CIG Convento Kraainem · CIG Nestel Kortrijk · OOOC Ter Heide Bonheiden · OOOC De Zandberg Jabbeke (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2317** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2369** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2631-2639** CKG Sint-Clara Brugge · Koraal Antwerpen · i-mens Gent · CIG De Zeshoek Lommel · CIG De Kiekenstraat Gent · CIG Convento Kraainem · CIG Nestel Kortrijk · OOOC Ter Heide Bonheiden · OOOC De Zandberg Jabbeke.
+
+### Inventory (tick 2640)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 56986 |
+| commitments.csv | 6369 |
+| leaderboard.csv | 8489 |
+| entities.csv | 2388 |
+| sources.csv | 8038 |
+| FOI ready | 2317 |
+| FOI total rows | 2369 |
+| research_queue open | rq_2640 (carried; source = Opgroeien OOOC list; next: Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon) |
+
+### What improved since tick 2630
+
+- **New source (tick2631-2639):** CKG Sint-Clara Brugge · Koraal Antwerpen · i-mens Gent · CIG De Zeshoek Lommel · CIG De Kiekenstraat Gent · CIG Convento Kraainem · CIG Nestel Kortrijk · OOOC Ter Heide Bonheiden · OOOC De Zandberg Jabbeke. Sources: Opgroeien CKG list (finished), Opgroeien CIG list (finished), then Opgroeien OOOC list (17 orgs).
+- **Runner note:** 2576-2640 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2631-2639 (fast):** CKG Glorieux / OOOC Glorieux (hospital group vzw) · CKG Zorgbedrijf Antwerpen (public) · CKG Den Boomgaard (733 empty) · Het Open Poortje (subsidies booked as 732 legaten; parked) · CIG De Stobbe / Ter Loke / De Shelter / Ten Anker (already in repo).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2630** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
