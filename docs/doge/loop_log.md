@@ -31320,3 +31320,14 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lestropiquesasbl.be — general mailbox verified on official page https://lestropiquesasbl.be/ (address shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_les_tropiques_uccle_vaph_matrix_9900_1_64m_9901_29k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2849/; rq_2849=done; spawn **rq_2850**; ticks=2849.
 - Next: **rq_2850 leftover dual** — Batch done; next: remaining Brussels disability/childcare ASBLs (Le Nid Marcelle Briard, Les Coccinelles, Crèche Cardinal Mercier) and Flemish 88.10x VZWs; skipped this batch: L'Arche Bruxelles (only the federation mailbox), FARRA (no general mailbox on farra.be), Ma Maison-Evere (site blocked), Petites Soeurs des Pauvres (site unreachable), Participo (no own mailbox), La Passerelle (gmail only), KDV De Ketjes (mailbox domain differs from site domain), Crèches de Schaerbeek (enrolment mailbox only).
+
+
+## Tick 2850 — 2026-10-12T16:22:42Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2506** of 2558 rows; inventory budgets 58558 · commitments 6558 · leaderboard 8678 · entities 2577 · sources 8605.
+- Top10: **stable** (2841-2849 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2841-2849: Hubbie (Sint-Gillis) · Centre Educatif Permanent (Watermael-Boitsfort) · Nido (Haren) · VIA (Schaerbeek) · SeTIS bxl (Saint-Gilles) · La Clé (Schaerbeek) · Tous Ensemble Handicap (Uccle) · Coupole Bruxelloise de l'Autisme (Jette) · Les Tropiques (Uccle).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2850 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-2850 run locally as fallback.
+- Fix: tick-2840 snapshot heading in progress_every_10_ticks.md corrected from "tick 2830" to "tick 2840".
+- Next: **rq_2850** — remaining Brussels disability/childcare ASBLs and Flemish 88.10x VZWs, larger first.

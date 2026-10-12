@@ -6,7 +6,43 @@
 
 ---
 
-## Snapshot at **tick 2830** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+## Snapshot at **tick 2850** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2840; 2841-2849 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2841-2849 residual dual L5 (not near-complete of 348bn):** Hubbie (Sint-Gillis) · Centre Educatif Permanent (Watermael-Boitsfort) · Nido (Haren) · VIA (Schaerbeek) · SeTIS bxl (Saint-Gilles) · La Clé (Schaerbeek) · Tous Ensemble Handicap (Uccle) · Coupole Bruxelloise de l'Autisme (Jette) · Les Tropiques (Uccle) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2506** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2558** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2841-2849** Hubbie (Sint-Gillis) · Centre Educatif Permanent (Watermael-Boitsfort) · Nido (Haren) · VIA (Schaerbeek) · SeTIS bxl (Saint-Gilles) · La Clé (Schaerbeek) · Tous Ensemble Handicap (Uccle) · Coupole Bruxelloise de l'Autisme (Jette) · Les Tropiques (Uccle).
+
+### Inventory (tick 2850)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 58558 |
+| commitments.csv | 6558 |
+| leaderboard.csv | 8678 |
+| entities.csv | 2577 |
+| sources.csv | 8605 |
+| FOI ready | 2506 |
+| FOI total rows | 2558 |
+| research_queue open | rq_2850 (carried; next: remaining larger Brussels childcare/day-centre ASBLs and Flemish 88.10x VZWs, larger first) |
+
+### What improved since tick 2840
+
+- **Legal fix follow-up:** the 234 older Dutch drafts that cited the repealed 2004 decree now cite the Bestuursdecreet (separate commit 15442428; 2 lines per file). Also corrected the tick-2840 snapshot heading in this file (it was mislabelled tick 2830).
+- **New source (tick2841-2849):** Hubbie (Sint-Gillis) · Centre Educatif Permanent (Watermael-Boitsfort) · Nido (Haren) · VIA (Schaerbeek) · SeTIS bxl (Saint-Gilles) · La Clé (Schaerbeek) · Tous Ensemble Handicap (Uccle) · Coupole Bruxelloise de l'Autisme (Jette) · Les Tropiques (Uccle). Source: KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital) ranked by primary figure. Seven bodies used the French FOI template, two (Hubbie, Nido) the Dutch Bestuursdecreet template.
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION); Tous Ensemble via its secretariat role mailbox.
+- **Runner note:** 2576-2850 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2841-2849 (fast, ~5 min cap):** L'Arche Bruxelles (federation mailbox only), FARRA (no general mailbox on farra.be), Ma Maison-Evere (site blocked), Petites Soeurs des Pauvres (site unreachable), Participo (no own mailbox), La Passerelle (gmail only), KDV De Ketjes (mailbox domain differs from site), Crèches de Schaerbeek (enrolment mailbox only).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
+## Snapshot at **tick 2840** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|
