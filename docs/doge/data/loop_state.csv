@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T07:41:32Z,rq_2592,2592,no,tick2592 leftover dual 't Prieeltje Tienen 0426.007.667 Strong PDF 2026-00206862 733 971k / kapitaalsubsidies JUMP 1.11m / debt 1.03m; next rq_2593 continue VAPH list scan (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T07:42:20Z,rq_2593,2593,no,tick2593 leftover dual MPC Terbank Leuven (Heverlee) 0408.377.126 Strong PDF 2026-00153864 733 JUMP 12.05m / FTE JUMP 143 / public guarantee 2.72m; next rq_2594 continue VAPH list scan (local fallback runner; Actions cron unreliable)

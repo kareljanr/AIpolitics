@@ -28795,3 +28795,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00206862** (71292 B / 23p; AV 22-06-2026; neergelegd 23/06/2026; MD5 03c3511e7128ee72dd9f7330544c64bd). VOL 70/76A **EUR1077087** (−4.83%); 733 **EUR970918** (+1.82%); 62 858060; 9901 **EUR22165** (was 57027); 9904 17111; equity 1774154 (kapitaalsubsidies **EUR1105856** was 936676); debt 1027302 (>1j 853692); FTE 11,5.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 3.90; entities +1 (parent city_tienen); FOI **gap_t_prieeltje_tienen_vaph_matrix_733_971k_kapsub_jump_1_11m_debt_1_03m_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2592/; rq_2592=done; spawn **rq_2593**; ticks=2592.
 - Next: **rq_2593 leftover dual** — continue VAPH list scan.
+
+
+## Tick 2593 — 2026-10-12T07:42:20Z — rq_2593 leftover dual MPC Terbank Leuven (Heverlee) YE2025 (local fallback runner)
+
+- Hunt: VAPH adreslijst pages 52-53 scanned (background); Thuishaven Ritmica Mortsel already locked (2544); **MPC Terbank Heverlee** → KBO 0408.377.126 had 0 prior repo rows.
+- KBO: Actief since 30.04.1971; VZW Medisch-Pedagogisch Centrum Priorij Ter Bank; zetel Tervuursesteenweg 295 3001 Leuven since 01.10.1990; 2 VE (second VE Tervuursesteenweg 293 since 11.02.2026); 0 prior repo rows for 0408.377.126
+- Found: official NBB VOL-VZW native PDF **2026-00153864** (336315 B / 46p; AV 01-06-2026; neergelegd 11/06/2026; MD5 e82102a1f590a0e8cf41a3d6212785c3). VOL 70/76A **EUR12509405** (+12.67%); 733 **EUR12048146** (+13.27%); 62 **EUR10667530** (+13.34%); FTE **143,1** (was 125,2); 9901 **EUR250268** (was −97950); 9904 148737; equity 5833167 (kapitaalsubsidies 3509420); debt 5994614 (9061 **EUR2720267**); cash 1981263 + beleggingen 1000000.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.50; entities +1 (parent city_leuven); FOI **gap_mpc_terbank_leuven_vaph_matrix_733_jump_12_05m_fte_jump_143_9061_2_72m_l5** prio7 ready (NOT sent) + draft; raw docs/doge/raw/tick2593/; rq_2593=done; spawn **rq_2594**; ticks=2593.
+- Next: **rq_2594 leftover dual** — continue VAPH list scan.
