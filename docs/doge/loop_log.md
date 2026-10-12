@@ -32203,3 +32203,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@tracebrussel.be — general mailbox verified on official page https://www.tracebrussel.be/contact (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_trace_brussel_vaph_matrix_9900_3_37m_9901_30k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2937/; rq_2937=done; spawn **rq_2938**; ticks=2937.
 - Next: **rq_2938 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2938 — 2026-10-12T17:37:04Z — rq_2938 leftover dual CASABLANCO Bruxelles (Anderlecht) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE earlier KBO NACE-BEL activity scans 2026-10-12 (Brussels 88.991-88.999 and 87.x/88.10x in 22 postcodes; Flemish 87.x/88.10x), unprocessed hits ranked by YE2025 NBB primary figure: **CASABLANCO** → KBO 0470.145.835 had 0 prior entity rows.
+- KBO: Actief since 8 februari 2000; VZW; zetel François Malherbelaan 42 1070 Anderlecht; 1 VE; 0 prior entity rows for 0470.145.835
+- Found: official NBB VKT-VZW native PDF **2026-00232801** (56530 B / 16p; AV 12-06-2026; neergelegd 30/06/2026; MD5 dc7ca8190f70e328075db39f5790569d). VKT-VZW 9900 **EUR3128903** (+8.34%); 62 **EUR3009583**; 9901 **EUR74505** (was -59224); 9904 77205; equity 1021846; cash 529333; FTE 59,7 (was 61,9).
+- FOI address: info@casablanco.be — general mailbox verified on official page https://www.casablanco.be/contact (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_anderlecht); FOI **gap_casablanco_anderlecht_vaph_matrix_9900_3_13m_9901_75k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2938/; rq_2938=done; spawn **rq_2939**; ticks=2938.
+- Next: **rq_2939 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
