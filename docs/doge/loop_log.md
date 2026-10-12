@@ -29079,3 +29079,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00173452** (83849 B / 29p; AV 17-06-2026; neergelegd 18/06/2026; MD5 ed2f5dd0d40cd56b8a98efa27d481043). VOL-VZW 733 **EUR145845** (+36.66%); 62 **EUR23440**; 9901 **EUR19111** (was 95655); 9904 22046; equity 1904673; cash 599753; FTE 1 (was 1).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 3.45; entities +1 (parent city_deinze); FOI **gap_vrije_clb_archipel_deinze_vaph_matrix_733_146k_9901_19k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2623/; rq_2623=done; spawn **rq_2624**; ticks=2623.
 - Next: **rq_2624 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2624 — 2026-10-12T08:15:44Z — rq_2624 leftover dual Vrij CLB Brabant Oost Aarschot YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Vrij CLB-netwerk / VAPH MDT list (tid:1393): **Vrij CLB Brabant Oost** → KBO 0420.450.458 had 0 prior entity rows.
+- KBO: Actief since 27 december 1979; VZW; zetel Bekaflaan 63, 3200 Aarschot; 4 VE; 0 prior entity rows for 0420.450.458
+- Found: official NBB VKT-VZW native PDF **2026-00151985** (52673 B / 15p; AV 05-05-2026; neergelegd 09/06/2026; MD5 4b8f688748eedfdc236bebef774abee9). VKT-VZW 9900 **EUR352802** (-5.29%); 62 **EUR213732**; 9901 **EUR2772** (was 59558); 9904 7879; equity 2214068; cash 433826; FTE 0,7 (was 0,8).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.45; entities +1 (parent city_aarschot); FOI **gap_vrij_clb_brabant_oost_aarschot_vaph_matrix_9900_353k_9901_3k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2624/; rq_2624=done; spawn **rq_2625**; ticks=2624.
+- Next: **rq_2625 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
