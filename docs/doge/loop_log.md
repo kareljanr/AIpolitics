@@ -30000,3 +30000,14 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@albevzw.be — general mailbox verified on official page https://www.albevzw.be/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent sec_flanders); FOI **gap_albe_kapellen_vaph_matrix_733_4_63m_9901_465k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2719/; rq_2719=done; spawn **rq_2720**; ticks=2719.
 - Next: **rq_2720 leftover dual** — KBO NACE 87.20x scan done for main Flemish postcodes (rest: no filing, no YE2025 filing or BV); next: Philippus Neri 0410.505.582 (verify odd 2024 loss), then NACE 88.994 welzijnswerk and 87.301.
+
+
+## Tick 2720 — 2026-10-12T09:27:49Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2389** of 2441 rows; inventory budgets 57597 · commitments 6441 · leaderboard 8561 · entities 2460 · sources 8254.
+- Top10: **stable** (2711-2719 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2711-2719: Covida/Ter Engelen Tevona (Genk) · Ubuntu Achtkanter (Kortrijk) · KIDS (Hasselt) · Begeleidingscentrum autisme (Mechelen) · Ondo (Borgerhout) · PVT Valckeburg (Roeselare) · De Maanwandelaars (Hoboken) · Leef (Ranst) · Albe (Kapellen).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2720 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2720 run locally as fallback.
+- Source choice (recorded): ticks 2711-2719 used the KBO NACE-BEL 87.201/87.202/87.203 activity search by postcode (largest VAPH/psychiatric units first). FOI: general mailboxes only, each verified on an opened official page.
+- Next: **rq_2720** — Philippus Neri 0410.505.582 (verify odd 2024 loss), then NACE 88.994 welzijnswerk and 87.301; Pleegzorg West/Oost re-check.

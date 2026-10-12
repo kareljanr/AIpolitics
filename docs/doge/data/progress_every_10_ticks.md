@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2720** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2710; 2711-2719 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2711-2719 residual dual L5 (not near-complete of 348bn):** Covida/Ter Engelen Tevona (Genk) · Ubuntu Achtkanter (Kortrijk) · KIDS (Hasselt) · Begeleidingscentrum autisme (Mechelen) · Ondo (Borgerhout) · PVT Valckeburg (Roeselare) · De Maanwandelaars (Hoboken) · Leef (Ranst) · Albe (Kapellen) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2389** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2441** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2711-2719** Covida/Ter Engelen Tevona (Genk) · Ubuntu Achtkanter (Kortrijk) · KIDS (Hasselt) · Begeleidingscentrum autisme (Mechelen) · Ondo (Borgerhout) · PVT Valckeburg (Roeselare) · De Maanwandelaars (Hoboken) · Leef (Ranst) · Albe (Kapellen).
+
+### Inventory (tick 2720)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 57597 |
+| commitments.csv | 6441 |
+| leaderboard.csv | 8561 |
+| entities.csv | 2460 |
+| sources.csv | 8254 |
+| FOI ready | 2389 |
+| FOI total rows | 2441 |
+| research_queue open | rq_2720 (carried; next: Philippus Neri 0410.505.582, then NACE 88.994 welzijnswerk and 87.301) |
+
+### What improved since tick 2710
+
+- **New source (tick2711-2719):** Covida/Ter Engelen Tevona (Genk) · Ubuntu Achtkanter (Kortrijk) · KIDS (Hasselt) · Begeleidingscentrum autisme (Mechelen) · Ondo (Borgerhout) · PVT Valckeburg (Roeselare) · De Maanwandelaars (Hoboken) · Leef (Ranst) · Albe (Kapellen). Source: KBO NACE-BEL 87.201/87.202/87.203 (residential care for persons with a disability / psychiatric problems) activity search by postcode.
+- **FOI addresses:** all nine general organisation mailboxes, each verified on an opened official page (Ubuntu Achtkanter uses the Groep Ubuntu group mailbox; Covida's info@covida.be on terengelen.be is also used by existing entity vzw_ter_engelen, KBO 0430.882.809, a different Lokeren organisation; that row should be checked).
+- **Runner note:** 2576-2720 ran on the local fallback runner (Actions last ticked 2575), from the fresh clone /workspace/AIpolitics-loop since 2681; toolkit persistent at /workspace/AIpolitics-loop-tk. Do not run both at once.
+- **Rejected 2711-2719 (fast):** Ons Huis, Sint Oda, Escalante (no NBB filing); CJM Antwerpen (no YE2025 filing); Delacroix (precedent skip); De Kever (BV); VillaVip entities. Spare: Philippus Neri Sint-Niklaas (2024 operating loss 20.99m looks odd, verify first).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2710** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
