@@ -31953,3 +31953,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mandragora.be — general mailbox verified on official page https://mandragora.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_mandragora_ixelles_vaph_matrix_9900_1_65m_9901_142k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2912/; rq_2912=done; spawn **rq_2913**; ticks=2912.
 - Next: **rq_2913 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2913 — 2026-10-12T17:22:50Z — rq_2913 leftover dual Initiatief Antonin Artaud - Initiative Antonin Artaud Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Initiatief Antonin Artaud - Initiative Antonin Artaud** → KBO 0452.250.721 had 0 prior entity rows.
+- KBO: Actief since 17 november 1993; VZW; zetel Grootgodshuisstraat 10 1000 Brussel; 1 VE; 0 prior entity rows for 0452.250.721
+- Found: official NBB VKT-VZW native PDF **2026-00394073** (50056 B / 13p; AV 09-06-2026; neergelegd 12/08/2026; MD5 e006dd6d873b801c4bb5f74600203490). VKT-VZW 9900 **EUR1414554** (+6.17%); 62 **EUR1070257**; 9901 **EUR194636** (was 85979); 9904 185661; equity 2442381; cash 1089567; FTE 14,8 (was 13,2).
+- FOI address: ihp-bw@antoninartaud.be — general mailbox verified on official page https://initiatief-antoninartaud.be/fr/nous-contacter/ (company number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_antonin_artaud_bruxelles_vaph_matrix_9900_1_41m_9901_195k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2913/; rq_2913=done; spawn **rq_2914**; ticks=2913.
+- Next: **rq_2914 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

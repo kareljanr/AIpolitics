@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T17:22:32Z,rq_2912,2912,no,tick2912 leftover dual Mandragora Bruxelles (Ixelles) 0452.931.404 Strong PDF 2026-00206520 9900 1.65m / 9901 142k; next rq_2913 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T17:22:50Z,rq_2913,2913,no,tick2913 leftover dual Initiatief Antonin Artaud - Initiative Antonin Artaud Bruxelles 0452.250.721 Strong PDF 2026-00394073 9900 1.41m / 9901 195k; next rq_2914 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
