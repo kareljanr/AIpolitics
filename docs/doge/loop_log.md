@@ -30437,3 +30437,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: karbonkeltje@noorderhart.be — general mailbox verified on official page https://kdvkarbonkeltje.be/docs/huishoudelijk%20reglement%20-%20januari%202026.pdf (house rules on the official site).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_pelt); FOI **gap_karbonkeltje_pelt_vaph_matrix_9900_1_89m_9901_121k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2762/; rq_2762=done; spawn **rq_2763**; ticks=2762.
 - Next: **rq_2763 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2763 — 2026-10-12T13:47:52Z — rq_2763 leftover dual Kinderopvang Ter Duinen Lommel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, Limburg / West- and Oost-Vlaanderen postcodes: **Kinderopvang Ter Duinen** → KBO 0419.030.991 had 0 prior entity rows.
+- KBO: Actief since 26 juni 1978; VZW; zetel Duinenstraat 15 3920 Lommel; 1 VE; 0 prior entity rows for 0419.030.991
+- Found: official NBB VKT-VZW native PDF **2026-00116301** (47708 B / 12p; AV 20-05-2026; neergelegd 21/05/2026; MD5 f92eba339db7ca2712c69f852be6a192). VKT-VZW 9900 **EUR2237558** (-0.58%); 62 **EUR2091198**; 9901 **EUR71611** (was 145659); 9904 82935; equity 1955672; cash 1146252; FTE 37,6 (was 36,7).
+- FOI address: info@kinderkribbe-terduinen.be — general mailbox verified on official page https://www.kinderkribbe-terduinen.be/voor-ouders/ (KBO number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lommel); FOI **gap_ter_duinen_lommel_vaph_matrix_9900_2_24m_9901_72k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2763/; rq_2763=done; spawn **rq_2764**; ticks=2763.
+- Next: **rq_2764 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
