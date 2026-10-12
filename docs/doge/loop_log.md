@@ -32383,3 +32383,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@erap-gsob.brussels — general mailbox verified on official page https://www.erap-gsob.brussels/fr/contact (address Rue Capitaine Crespel 35 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ixelles); FOI **gap_erap_gsob_vaph_matrix_9900_1_71m_9901_30k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2955/; rq_2955=done; spawn **rq_2956**; ticks=2955.
 - Next: **rq_2956 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
+
+
+## Tick 2956 — 2026-10-12T18:02:33Z — rq_2956 leftover dual Centre de Formation Bonnevie Bruxelles (Molenbeek-Saint-Jean) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels 85.592 vocational training and 86.940 in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Centre de Formation Bonnevie** → KBO 0434.883.068 had 0 prior entity rows.
+- KBO: Actief since 25 april 1988; VZW; zetel Kolomstraat 54 1080 Sint-Jans-Molenbeek; 1 VE; 0 prior entity rows for 0434.883.068
+- Found: official NBB VKT-VZW native PDF **2026-00342783** (51312 B / 13p; AV 29-06-2026; neergelegd 28/07/2026; MD5 1013f687d47422e5f3c0e0477995182f). VKT-VZW 9900 **EUR1601828** (+6.77%); 62 **EUR1594151**; 9901 **EUR-26989** (was -320664); 9904 -33272; equity 427112; cash 75062; FTE 33,6 (was 32,8).
+- FOI address: info@bonnevie.be — general mailbox verified on official page https://www.centrebonnevie.be/fr/pour-joindre---notre-centre-de-formation-professionnelle (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_bonnevie_molenbeek_vaph_matrix_9900_1_60m_9901_loss_27k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2956/; rq_2956=done; spawn **rq_2957**; ticks=2956.
+- Next: **rq_2957 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
