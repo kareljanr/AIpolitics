@@ -32243,3 +32243,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secr@mlett.brussels — general mailbox verified on official page https://www.mlett.brussels/ (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_mission_locale_etterbeek_vaph_matrix_9900_3_72m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2941/; rq_2940=done; spawn **rq_2942**; ticks=2941.
 - Next: **rq_2942 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2942 — 2026-10-12T17:39:34Z — rq_2942 leftover dual Service International de Recherche, d'Education et d'Action Sociale (SIREAS) Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE earlier KBO NACE-BEL activity scans 2026-10-12 (Brussels 88.991-88.999 and 87.x/88.10x in 22 postcodes; Flemish 87.x/88.10x), unprocessed hits ranked by YE2025 NBB primary figure: **Service International de Recherche, d'Education et d'Action Sociale (SIREAS)** → KBO 0447.241.660 had 0 prior entity rows.
+- KBO: Actief since 18 november 1991; VZW; zetel Kogelstraat 26 1000 Brussel; 5 VE; 0 prior entity rows for 0447.241.660
+- Found: official NBB VKT-VZW native PDF **2026-00286479** (832180 B / 18p; AV 24-06-2026; neergelegd 07/07/2026; MD5 4c6ad21e2635b3e3e23cd5c8146da690). VKT-VZW 9900 **EUR2844420** (+3.58%); 62 **EUR2807873**; 9901 **EUR4012** (was 23149); 9904 2558; equity 366974; cash 194230; FTE 47 (was 46,6).
+- FOI address: sireas@sireas.be — general mailbox verified on official page https://www.sireas.be/contact (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_sireas_brussel_vaph_matrix_9900_2_84m_9901_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2942/; rq_2942=done; spawn **rq_2943**; ticks=2942.
+- Next: **rq_2943 leftover dual** — Batch done; next: remaining larger scan hits (Mission Locale pour l'Emploi Etterbeek EUR3.72m, Fonds des Affections Respiratoires, SIREAS, Centre La Clairière re-check, ALTEO re-check), larger first; skipped this batch: Entraide et Fraternité (mailbox not visible on own contact page), SASLS (mailbox only on third-party pages), CM Service Patrimonium and IRRA (out of social-subsidy scope / not checked).
