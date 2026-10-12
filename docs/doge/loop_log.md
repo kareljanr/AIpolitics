@@ -31035,3 +31035,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@virovzw.be — general mailbox verified on official page https://www.virovzw.be/contact (company number shown).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_viro_brugge_vaph_matrix_733_14_90m_9901_1325k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2821/; rq_2820=done; spawn **rq_2822**; ticks=2821.
 - Next: **rq_2822 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2822 — 2026-10-12T15:31:08Z — rq_2822 leftover dual Institut Royal d'Accueil pour le Handicap Moteur Bruxelles (Woluwe-Saint-Lambert) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.201/87.202 (residential care for people with intellectual disability) activity searches, Flemish and Brussels-Capital postcodes, ranked by primary figure: **Institut Royal d'Accueil pour le Handicap Moteur** → KBO 0408.034.161 had 0 prior entity rows.
+- KBO: Actief since 5 februari 1959; VZW; zetel Albert Dumontlaan 40 1200 Sint-Lambrechts-Woluwe; 2 VE; 0 prior entity rows for 0408.034.161
+- Found: official NBB VOL-VZW native PDF **2026-00200410** (468386 B / 37p; AV 19-06-2026; neergelegd 24/06/2026; MD5 b4cb78ae6e67d68ef7e59986c595fe6c). VOL-VZW 733 **EUR8941180** (+9.02%); 62 **EUR9506876**; 9901 **EUR123793** (was 361888); 9904 131421; equity 1257014; cash 91138; FTE 127,4 (was 121).
+- FOI address: administration@irahm.be — general mailbox verified on official page https://www.irahm.be/wp-content/uploads/Projet-collectif-CH-2021.pdf (official PDF on irahm.be; states COCOF recognition; company number on irahm.be home page).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_irahm_woluwe_vaph_matrix_733_8_94m_9901_124k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2822/; rq_2822=done; spawn **rq_2823**; ticks=2822.
+- Next: **rq_2823 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
