@@ -29218,3 +29218,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00135111** (488620 B / 22p; AV 28-05-2026; neergelegd 01/06/2026; MD5 0a8a2b534bde7cb493eceb6ceb9d1edf). VKT-VZW 9900 **EUR2500635** (-4.20%); 62 **EUR2435591**; 9901 **EUR-68014** (was 200542); 9904 -55547; equity 1938668; cash 1006187; FTE 30,9 (was 29,5).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bonheiden); FOI **gap_oooc_ter_heide_bonheiden_vaph_matrix_9900_2_50m_9901_loss_68k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2638/; rq_2638=done; spawn **rq_2639**; ticks=2638.
 - Next: **rq_2639 leftover dual** — continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists.
+
+
+## Tick 2639 — 2026-10-12T08:22:57Z — rq_2639 leftover dual OOOC De Zandberg Jabbeke YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OOOC contact list (april 2026): **OOOC De Zandberg** → KBO 0411.022.355 had 0 prior entity rows.
+- KBO: Actief since 28 februari 1969; VZW; zetel Zeeweg 36, 8490 Jabbeke; 1 VE; 0 prior entity rows for 0411.022.355
+- Found: official NBB VKT-VZW native PDF **2026-00201982** (52673 B / 15p; AV 28-05-2026; neergelegd 26/06/2026; MD5 04c3d7a8ae94679418cf80dddccf69b1). VKT-VZW 9900 **EUR2168050** (+0.23%); 62 **EUR2130141**; 9901 **EUR-19807** (was 13217); 9904 -8872; equity 841495; cash 164698; FTE 26,5 (was 28,2).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_jabbeke); FOI **gap_oooc_de_zandberg_jabbeke_vaph_matrix_9900_2_17m_9901_loss_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2639/; rq_2639=done; spawn **rq_2640**; ticks=2639.
+- Next: **rq_2640 leftover dual** — continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists.
