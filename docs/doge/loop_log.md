@@ -33762,3 +33762,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@isbw.be — general mailbox verified on official pages https://isbw.be/institution/nous-contacter/ and https://isbw.be/contactez-nous/ (with Rue du Cerf 200 address).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_isbw_code740_split_740_12_06m_9901_324k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3092/; rq_3092=done; spawn **rq_3093**; ticks=3092.
 - Next: **rq_3093 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3093 — 2026-10-12T21:42:35Z — rq_3093 leftover dual IMSTAM (Intercommunale d'Oeuvres médico-sociales des arrondissements de Tournai-Ath-Mouscron) Tournai YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon intercommunales (KBO name search over ~50 Walloon intercommunale names, filings ranked by NBB code 740 operating subsidies from public authorities; new: Liège Zone 2 IILE-SRI, ISBW, IMSTAM) plus remaining SLSPs from the official Wallonia SLSP list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf); largest code 740 first; every candidate passed the name/alias/KBO/website dedup check: **IMSTAM (Intercommunale d'Oeuvres médico-sociales des arrondissements de Tournai-Ath-Mouscron)** → KBO 0202.508.878 had 0 prior entity rows.
+- KBO: Actief since 25 juli 1958; SC; zetel Rue du Viaduc(TOU) 52 7500 Tournai; 2 VE; 0 prior entity rows for 0202.508.878
+- Found: official NBB VOL-SC native PDF **2026-00253883** (3717483 B / 98p; AV 23-06-2026; neergelegd 05/07/2026; MD5 4c92168b8b89c8ef9f42a6263df1994f). VOL-SC 740 **EUR774684** (-6.62%); 62 **EUR3212516**; 9901 **EUR395646** (was 35899); 9904 418772; equity 2108979; cash 1185371; FTE 47,3 (was 48).
+- FOI address: info@imstam.be — general mailbox verified on official page https://www.imstam.be/contact and on the Province of Hainaut directory https://websoc.hainaut.be/DI05669.htm (with BCE 202.508.878).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_imstam_code740_split_740_0_77m_9901_396k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3093/; rq_3093=done; spawn **rq_3094**; ticks=3093.
+- Next: **rq_3094 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
