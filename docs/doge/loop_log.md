@@ -34332,3 +34332,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@islb.be — general mailbox verified on official contact page https://www.stluc-bruxelles-sec.be/Nous-contacter (Institut Saint-Luc, Rue d'Irlande 57, the ASBL KBO seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_institut_saint_luc_bruxelles_vaph_matrix_733_20_04m_9901_521k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3149/; rq_3149=done; spawn **rq_3150**; ticks=3149.
 - Next: **rq_3150 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3150 — 2026-10-12T23:45:52Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2774** of 2828 rows; inventory budgets 60827 · commitments 6828 · leaderboard 8946 · entities 2846 · sources 9417.
+- Top10: **stable** (3141-3149 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3141-3149: Institut La Sainte-Union (Dour) · Don Bosco - Saint-Charles (Tournai) · Don Bosco (Woluwe-Saint-Pierre) · Institut Notre-Dame (Beauraing) · Collège du Sacré-Coeur (Ganshoren) · HELHa (Mons) · HE Léonard de Vinci (Woluwe-Saint-Lambert) · Hénallux (Namur) · Institut Saint-Luc (Saint-Gilles).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3150 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3150 run locally as fallback.
+- Next: **rq_3150** — HE Galilée (code 733 EUR15.66m), Collège Saint-André Auvelais (EUR15.07m), KOMO Mechelen (EUR14.76m; Dutch voluntary draft), Collège Saint-Augustin Enghien (EUR14.40m), Collège Saint-Pierre Uccle (EUR13.16m), all mailboxes verified, after the dedup check.

@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 3150** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3140; 3141-3149 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3141-3149 residual dual L5 (not near-complete of 348bn):** Institut La Sainte-Union (Dour) · Don Bosco - Saint-Charles (Tournai) · Don Bosco (Woluwe-Saint-Pierre) · Institut Notre-Dame (Beauraing) · Collège du Sacré-Coeur (Ganshoren) · HELHa (Mons) · HE Léonard de Vinci (Woluwe-Saint-Lambert) · Hénallux (Namur) · Institut Saint-Luc (Saint-Gilles) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2774** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2828** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3141-3149** Institut La Sainte-Union (Dour) · Don Bosco - Saint-Charles (Tournai) · Don Bosco (Woluwe-Saint-Pierre) · Institut Notre-Dame (Beauraing) · Collège du Sacré-Coeur (Ganshoren) · HELHa (Mons) · HE Léonard de Vinci (Woluwe-Saint-Lambert) · Hénallux (Namur) · Institut Saint-Luc (Saint-Gilles).
+
+### Inventory (tick 3150)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 60827 |
+| commitments.csv | 6828 |
+| leaderboard.csv | 8946 |
+| entities.csv | 2846 |
+| sources.csv | 9417 |
+| FOI ready | 2774 |
+| FOI total rows | 2828 |
+| research_queue open | rq_3150 (carried; next: HE Galilée, Collège Saint-André Auvelais, KOMO Mechelen, Collège Saint-Augustin Enghien, Collège Saint-Pierre Uccle; largest code 733 first) |
+
+### What improved since tick 3140
+
+- **New source (tick3141-3149):** Institut La Sainte-Union (Dour) · Don Bosco - Saint-Charles (Tournai) · Don Bosco (Woluwe-Saint-Pierre) · Institut Notre-Dame (Beauraing) · Collège du Sacré-Coeur (Ganshoren) · HELHa (Mons) · HE Léonard de Vinci (Woluwe-Saint-Lambert) · Hénallux (Namur) · Institut Saint-Luc (Saint-Gilles). Finished the first FWB school-PO list, then ran a new KBO name search (legal form VZW/ASBL; Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège/Institut Saint...; 409 new KBO numbers triaged) ranked by NBB code 733 subsidies, largest first. All picks passed the dedup check (name-only hits on the KOV umbrella and unrelated Saint-Luc/Thomas More entities checked by KBO: distinct).
+- **Toolkit:** data.py: hautes écoles profile (students, cost per student) and a Dutch voluntary school-board profile (nl_voluntary; no Bestuursdecreet claim) for Flemish schoolbesturen.
+- **FOI addresses:** all 9 mailboxes are general/role mailboxes verified on opened official pages.
+- **Runner note:** 2576-3150 ran on the local fallback runner; GitHub Actions DOGE loop: last run (#6, 2026-10-12 21:20 Brussels time) failed at its Tick step (Grok CLI not signed in); no newer run. Do not run both at once.
+- **Rejected 3141-3149 (fast, ~5 min cap):** Haute Ecole ICHEC-ECAM-ISFSC (only constituent-school mailboxes), Katholiek Onderwijs Groot-Beveren and Katholiek Onderwijs Hamme (no general mailbox on an official page), Collège Cardinal Mercier (only primary-school mailbox).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3140** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
