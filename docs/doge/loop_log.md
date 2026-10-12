@@ -30539,3 +30539,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: kdv@wieltjeshove.be — general mailbox verified on official page https://wieltjeshove.be/contact/ ("algemene informatie, ideeën en klachten"; KBO number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_menen); FOI **gap_wieltjeshove_menen_vaph_matrix_9900_1_64m_9901_236k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2772/; rq_2772=done; spawn **rq_2773**; ticks=2772.
 - Next: **rq_2773 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2773 — 2026-10-12T14:01:36Z — rq_2773 leftover dual Gaversloeberke Harelbeke YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, West-/Oost-Vlaanderen and Leuven/Limburg postcodes: **Gaversloeberke** → KBO 0871.650.611 had 0 prior entity rows.
+- KBO: Actief since 3 februari 2005; VZW; zetel Arendsstraat 62bis 8530 Harelbeke; 1 VE; 0 prior entity rows for 0871.650.611
+- Found: official NBB MIC-VZW native PDF **2026-00141037** (43214 B / 10p; AV 30-04-2026; neergelegd 04/06/2026; MD5 fe29d555d5f2635a49bda3471483e61a). MIC-VZW 9900 **EUR571492** (+3.33%); 62 **EUR519639**; 9901 **EUR42894** (was 58055); 9904 42897; equity 257780; cash 84987; FTE 9 (was 12).
+- FOI address: gaversloeberke@skynet.be — general mailbox verified on official page https://www.harelbeke.be/bedrijvengids/gaversloeberke-vzw (official city of Harelbeke business directory).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_harelbeke); FOI **gap_gaversloeberke_harelbeke_vaph_matrix_9900_0_57m_9901_43k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2773/; rq_2773=done; spawn **rq_2774**; ticks=2773.
+- Next: **rq_2774 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
