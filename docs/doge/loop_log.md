@@ -34152,3 +34152,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@s2j.eu — general mailbox verified on official contact page https://www.s2j.eu/contact-inscriptions/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_cel_liege_ouest_vaph_matrix_733_16_90m_9901_loss_44k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3131/; rq_3130=done; spawn **rq_3132**; ticks=3131.
 - Next: **rq_3132 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3132 — 2026-10-12T23:15:01Z — rq_3132 leftover dual Pouvoir Organisateur Collèges Saint-Etienne et des Hayeffes Court-Saint-Etienne YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies (pouvoirs organisateurs, ASBL) and related free-education non-profits; KBO name search over school/PO names (legal form ASBL), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Pouvoir Organisateur Collèges Saint-Etienne et des Hayeffes** → KBO 0409.511.630 had 0 prior entity rows.
+- KBO: Actief since 27 juni 1959; VZW; zetel Av des Prisonniers de Guerre 36 1490 Court-Saint-Etienne; 4 VE; 0 prior entity rows for 0409.511.630
+- Found: official NBB VOL-VZW native PDF **2026-00418529** (2820553 B / 31p; AV 02-06-2026; neergelegd 22/08/2026; MD5 002b0224ae9276c04e29807209612338). VOL-VZW 733 **EUR13844081** (+3.69%); 62 **EUR12384006**; 9901 **EUR68986** (was 93449); 9904 201; equity 2385437; cash 572257; FTE 11,5 (was 11).
+- FOI address: accueil.cse@csteh.be — reception mailbox verified on official contact page https://cste.be/cse/contact/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_po_colleges_saint_etienne_vaph_matrix_733_13_84m_9901_69k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3132/; rq_3132=done; spawn **rq_3133**; ticks=3132.
+- Next: **rq_3133 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
