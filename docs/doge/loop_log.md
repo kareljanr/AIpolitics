@@ -33542,3 +33542,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3070 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3070 run locally as fallback.
 - Next: **rq_3070** — remaining culture/sport-facility hits below EUR0.94m, or intercommunales / hospitals (company or hospital accounts models, which the toolkit does not parse yet), largest first, after the dedup check.
+
+
+## Tick 3071 — 2026-10-12T21:13:19Z — rq_3070 leftover dual L'Habitation Moderne - De Moderne Woning Woluwe-Saint-Lambert YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE SLRB-BGHM official list of the 16 Brussels public-service housing companies (SISP), https://slrb-bghm.brussels/fr/societes-immobilieres-de-service-public/toutes-les-sisp, plus a KBO NACE-BEL scan (38.110/38.210/36.000/49.310/68.201) for intercommunales and public companies; ranked by YE2025 NBB company-model code 740 (operating subsidies and compensatory amounts from public authorities); every candidate passed the name/alias/KBO/website dedup check: **L'Habitation Moderne - De Moderne Woning** → KBO 0401.967.505 had 0 prior entity rows.
+- KBO: Actief since 26 juni 1922; SC; zetel St-Lambertusberg 2 1200 Sint-Lambrechts-Woluwe; 1 VE; 0 prior entity rows for 0401.967.505
+- Found: official NBB VOL-SC native PDF **2026-00169790** (7474067 B / 79p; AV 27-05-2026; neergelegd 15/06/2026; MD5 44dff6b2b51bf82bbea388c393d099b6). VOL-SC 740 **EUR3737866** (+4.05%); 62 **EUR6172969**; 9901 **EUR-877450** (was -325295); 9904 -955043; equity 32660327; cash 3049371; FTE 72,8 (was 72,5).
+- FOI address: info@hmw.be — general mailbox verified on official contact page https://www.hmw.be/HM_WEB/FR/Contacts.awp (address Mont Saint-Lambert 2 shown there).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_woluwe_saint_lambert); FOI **gap_habitation_moderne_wsl_code740_split_740_3_74m_9901_loss_877k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3071/; rq_3070=done; spawn **rq_3072**; ticks=3071.
+- Next: **rq_3072 leftover dual** — Batch done; next: remaining Brussels SISPs below EUR0.2m code 740, then Flemish/Walloon public housing companies and intercommunales from the wider KBO scan, largest first, after the dedup check; skipped this batch: Le Logement Bruxellois (EUR10.60m code 740; only an online form and candidate/DPO mailboxes), Foyer Anderlechtois (EUR6.24m; mailboxes only as hidden form values), Le Foyer Schaerbeekois (no code 740 in the filing), Log'Iris (image-only PDF filing), hospitals (m140-f-p PDF filings, OCR text not reliable).
