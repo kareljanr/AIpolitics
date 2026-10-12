@@ -34012,3 +34012,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@asdliege.be — general mailbox of the ASD Liège-Huy-Waremme umbrella (an association of this ASBL, Aide familiale Liège-Huy-Waremme and the coordination centre), verified on official page https://liege.aideetsoinsadomicile.be/contact/ with the same Rue du Fort 7/2 seat; the site offers the home-nursing service.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_cjb_lhw_vaph_matrix_733_4_87m_9901_loss_85k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3117/; rq_3117=done; spawn **rq_3118**; ticks=3117.
 - Next: **rq_3118 leftover dual** — Batch done; next: remaining home-help/home-nursing non-profits with code 733 not yet in entities, after the dedup check: Vivadom (Eupen, EUR4.91m; German-speaking, needs a DE/FR language check), i-mens Thuisverpleging (EUR24.77m; distinct KBO 0430.909.335 but no mailbox of its own verified: the i-mens site lists only group mailboxes), Croix Jaune et Blanche de Mouscron-Comines (abbreviated model, code 9900 only).
+
+
+## Tick 3118 — 2026-10-12T22:55:27Z — rq_3118 leftover dual Vivadom (Aide et Soins à Domicile Eupen) Eupen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon home-help and family-help services (services d'aide aux familles et aînés, ASD, CSD; KBO name search over ~30 home-help names, filings ranked by NBB code 733 operating subsidies, largest first; Brussels Aide familiale and the large Flemish services already entities); every candidate passed the name/alias/KBO/website dedup check: **Vivadom (Aide et Soins à Domicile Eupen)** → KBO 0430.305.757 had 0 prior entity rows.
+- KBO: Actief since 2 juli 1984; VZW; zetel Industriestrasse 16 4700 Eupen; 1 VE; 0 prior entity rows for 0430.305.757
+- Found: official NBB VOL-VZW native PDF **2026-00119680** (734570 B / 56p; AV 27-04-2026; neergelegd 21/05/2026; MD5 6270e0e50169db9c501d2bacd8c30682). VOL-VZW 733 **EUR4910835** (-2.26%); 62 **EUR7674402**; 9901 **EUR-83941** (was 31555); 9904 -105737; equity 342449; cash 1245309; FTE 131,5 (was 132,6).
+- FOI address: info@viva-dom.be — general mailbox verified on official page https://eupen.aideetsoinsadomicile.be/ (footer with Industriestraße 16 address; site footer gives BCE 430.305.757).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_vivadom_eupen_vaph_matrix_733_4_91m_9901_loss_84k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3118/; rq_3118=done; spawn **rq_3119**; ticks=3118.
+- Next: **rq_3119 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
