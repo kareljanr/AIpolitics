@@ -31643,3 +31643,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@tele-secours.be — general mailbox verified on official page https://www.tele-secours.be/contact/ (company number in its privacy charter).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_tele_secours_laeken_vaph_matrix_9900_3_77m_9901_159k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2881/; rq_2880=done; spawn **rq_2882**; ticks=2881.
 - Next: **rq_2882 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2882 — 2026-10-12T16:43:29Z — rq_2882 leftover dual VAD (Vereniging voor Alcohol- en andere Drugproblemen) Schaarbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **VAD (Vereniging voor Alcohol- en andere Drugproblemen)** → KBO 0424.327.587 had 0 prior entity rows.
+- KBO: Actief since 1 oktober 1982; VZW; zetel Vanderlindenstraat 15 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0424.327.587
+- Found: official NBB VKT-VZW native PDF **2026-00184596** (156884 B / 25p; AV 19-06-2026; neergelegd 22/06/2026; MD5 a085ae20aca8e451211d0419e42b1ce3). VKT-VZW 9900 **EUR3245094** (+0.00%); 62 **EUR3322397**; 9901 **EUR-96339** (was -9133); 9904 -88324; equity 1793721; cash 1966938; FTE 39,3 (was 40,6).
+- FOI address: vad@vad.be — general mailbox verified on official page https://www.vad.be/contact (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_vad_schaarbeek_vaph_matrix_9900_3_25m_9901_loss_96k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2882/; rq_2882=done; spawn **rq_2883**; ticks=2882.
+- Next: **rq_2883 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

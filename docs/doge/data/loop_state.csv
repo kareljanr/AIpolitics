@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T16:43:20Z,rq_2880,2881,no,tick2881 leftover dual Télé-Secours Bruxelles (Laeken) 0432.708.090 Strong PDF 2026-00434309 9900 3.77m / 9901 159k; next rq_2882 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T16:43:29Z,rq_2882,2882,no,tick2882 leftover dual VAD (Vereniging voor Alcohol- en andere Drugproblemen) Schaarbeek 0424.327.587 Strong PDF 2026-00184596 9900 3.25m / 9901 loss 96k; next rq_2883 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
