@@ -31391,3 +31391,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@rizome-bxl.be — general mailbox verified on official page https://rizome-bxl.be/mission-de-lasbl/ (company number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_rizome_bxl_bruxelles_vaph_matrix_9900_1_28m_9901_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2856/; rq_2856=done; spawn **rq_2857**; ticks=2856.
 - Next: **rq_2857 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2857 — 2026-10-12T16:25:53Z — rq_2857 leftover dual Helmetje Schaarbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Helmetje** → KBO 0809.932.281 had 0 prior entity rows.
+- KBO: Actief since 19 februari 2009; VZW; zetel Dokter Elie Lambottestraat 130 1030 Schaarbeek; 2 VE; 0 prior entity rows for 0809.932.281
+- Found: official NBB VKT-VZW native PDF **2026-00515738** (47603 B / 12p; AV 19-06-2026; neergelegd 18/09/2026; MD5 c8344ffb237c1c5498b0931f4ec2b886). VKT-VZW 9900 **EUR1210298** (+8.54%); 62 **EUR1073486**; 9901 **EUR25315** (was -29582); 9904 101288; equity 996883; cash 622600; FTE 18,3 (was 18,1).
+- FOI address: info@helmetje.be — general mailbox verified on official commune page https://www.1030.be/nl/lieu-enfance/t-helmetje (own site unreachable).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_helmetje_schaarbeek_vaph_matrix_9900_1_21m_9901_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2857/; rq_2857=done; spawn **rq_2858**; ticks=2857.
+- Next: **rq_2858 leftover dual** — Batch done; next: remaining Brussels ASBLs from the 87.x/88.x scans (Les Bourgeons, Rêver pour devenir, Les Amis d'Aladdin, Seniors-Service Anderlecht) and Flemish 88.10x VZWs; skipped this batch: Le Nid Marcelle Briard (skynet mailbox only, no site), Les Coccinelles WSL (no site), KDV Sint-Karel (no official site), Crèche Royale Le Nid (no mailbox found), KDV De Lentebloempjes (site unreachable), Le Pré-Texte (named-person mailbox only), Solidaritel (no own mailbox), Onze Vriendjes (no mailbox found).
