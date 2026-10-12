@@ -34452,3 +34452,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat.direction@ifmsg.be — direction-secretariat mailbox verified on official contact page https://www.ifmsg.be/onglet-infos-pratiques/contact/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ifm_saint_gilles_vaph_matrix_733_10_44m_9901_loss_35k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3161/; rq_3160=done; spawn **rq_3162**; ticks=3161.
 - Next: **rq_3162 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3162 — 2026-10-12T23:54:10Z — rq_3162 leftover dual Collège Notre-Dame de Bonne-Espérance (Estinnes) Estinnes YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Catholic school boards and university colleges (Flemish schoolbesturen VZW and FWB organising bodies / hautes écoles, ASBL); new KBO name search (legal form VZW/ASBL; words such as Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège Saint, Institut Saint), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Collège Notre-Dame de Bonne-Espérance (Estinnes)** → KBO 0431.921.501 had 0 prior entity rows.
+- KBO: Actief since 16 juli 1986; VZW; zetel Rue Grégoire Jurion(VBR) 22 7120 Estinnes; 2 VE; 0 prior entity rows for 0431.921.501
+- Found: official NBB VOL-VZW native PDF **2026-00543072** (987406 B / 42p; AV 01-06-2026; neergelegd 02/10/2026; MD5 d8a7b0bd4b7a7f62c3e3382718d67f1c). VOL-VZW 733 **EUR8071538** (+1.46%); 62 **EUR7429738**; 9901 **EUR-49182** (was -135640); 9904 -22659; equity 2472031; cash 268487; FTE 14,5 (was 14,2).
+- FOI address: secretariat@cndbe.be — secretariat mailbox verified on official contact page https://college-bonne-esperance.be/contact.html.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_cnd_bonne_esperance_vaph_matrix_733_8_07m_9901_loss_49k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3162/; rq_3162=done; spawn **rq_3163**; ticks=3162.
+- Next: **rq_3163 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
