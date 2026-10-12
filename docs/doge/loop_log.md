@@ -32823,3 +32823,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: post@kindjezus.be — general mailbox verified on official page https://www.kindjezus.be/contact/wie-is-wie (KBO number shown there; address Clarissendreef 7 on https://www.kindjezus.be/).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_turnhout); FOI **gap_kind_jezus_turnhout_vaph_matrix_9900_2_31m_9901_99k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2999/; rq_2999=done; spawn **rq_3000**; ticks=2999.
 - Next: **rq_3000 leftover dual** — Batch done; next: remaining Flemish 85.592/87.10x/88.911 hits (EMMA EUR2.50m, Philippus Neri EUR2.36m), then 88.99x leftovers (STW EUR2.02m, Buurtwerk Posthof EUR2.05m), larger first; skipped this batch: Rode Kruis-Vlaanderen (no general head-office mailbox on own site; site names KBO 0406.729.809), OZOS and Accuria (professional/secretariat bodies, out of scope), Groep Philippus Neri Waasland (personal mailboxes only), Emanuela (no mailbox on own site), Participo CM (site blocks fetch).
+
+
+## Tick 3000 — 2026-10-12T18:47:27Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2641** of 2693 rows; inventory budgets 59664 · commitments 6693 · leaderboard 8813 · entities 2712 · sources 9010.
+- Top10: **stable** (2991-2999 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2991-2999: Europacollege / College of Europe (Brugge) · Les Etoiles Woon- en Zorgcentrum (Oostende) · Werkervaringsbedrijven WEB (Turnhout) · Squatina (Oostende) · Mentor (Kortrijk) · Sint Vincentius (Kortrijk) · Sint-Monica (Oostende) · Huize Sint-Elisabeth (Turnhout) · Kind Jezus (Turnhout).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3000 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3000 run locally as fallback.
+- Next: **rq_3000** — remaining Flemish 85.592/87.10x/88.911 hits (EMMA EUR2.50m, Philippus Neri EUR2.36m), then 88.99x leftovers, largest first; Rode Kruis-Vlaanderen only if a general head-office mailbox becomes verifiable.

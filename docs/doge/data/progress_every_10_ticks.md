@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 3000** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2990; 2991-2999 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2991-2999 residual dual L5 (not near-complete of 348bn):** Europacollege / College of Europe (Brugge) · Les Etoiles Woon- en Zorgcentrum (Oostende) · Werkervaringsbedrijven WEB (Turnhout) · Squatina (Oostende) · Mentor (Kortrijk) · Sint Vincentius (Kortrijk) · Sint-Monica (Oostende) · Huize Sint-Elisabeth (Turnhout) · Kind Jezus (Turnhout) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2641** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2693** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2991-2999** Europacollege / College of Europe (Brugge) · Les Etoiles Woon- en Zorgcentrum (Oostende) · Werkervaringsbedrijven WEB (Turnhout) · Squatina (Oostende) · Mentor (Kortrijk) · Sint Vincentius (Kortrijk) · Sint-Monica (Oostende) · Huize Sint-Elisabeth (Turnhout) · Kind Jezus (Turnhout).
+
+### Inventory (tick 3000)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 59664 |
+| commitments.csv | 6693 |
+| leaderboard.csv | 8813 |
+| entities.csv | 2712 |
+| sources.csv | 9010 |
+| FOI ready | 2641 |
+| FOI total rows | 2693 |
+| research_queue open | rq_3000 (carried; next: another Flemish activity code, largest first) |
+
+### What improved since tick 2990
+
+- **New source (tick2991-2999):** Europacollege / College of Europe (Brugge) · Les Etoiles Woon- en Zorgcentrum (Oostende) · Werkervaringsbedrijven WEB (Turnhout) · Squatina (Oostende) · Mentor (Kortrijk) · Sint Vincentius (Kortrijk) · Sint-Monica (Oostende) · Huize Sint-Elisabeth (Turnhout) · Kind Jezus (Turnhout). Source: NEW KBO NACE-BEL scan of Flemish codes 85.592 (training), 87.101 (residential care) and 88.911 (childcare), plus 87.301/87.302/88.101/88.102/88.109 (same 18 Flemish city postcodes), ranked by YE2025 NBB primary figure, largest first. Chosen because the top hits (College of Europe EUR13.9m, care homes, work-integration bodies) were larger than every remaining 88.99x leftover (max EUR2.05m usable).
+- **Toolkit:** no change (code-73 mode not triggered this batch).
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION).
+- **Runner note:** 2576-3000 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2991-2999 (fast, ~5 min cap):** Rode Kruis-Vlaanderen (requested for 2991; own contact page lists only provincial/local/department mailboxes, no general head-office mailbox, and names KBO 0406.729.809 not filer 1012.657.135; skipped as NEEDS VERIFICATION), OZOS and Accuria (pharmacist-service / social-secretariat bodies, out of scope), Groep Philippus Neri Waasland (personal mailboxes only), Emanuela (no mailbox on own site), Participo CM (site blocks fetch).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2990** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
