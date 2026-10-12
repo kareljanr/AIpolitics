@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T14:36:30Z,rq_2796,2796,no,tick2796 leftover dual WoonZORG Wuustwezel Wuustwezel (Gooreind) 0696.899.963 Strong PDF 2026-00205623 733 1.65m / 9901 635k; next rq_2797 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T14:36:39Z,rq_2797,2797,no,tick2797 leftover dual Hof ter Lande Vorselaar 0480.566.704 Strong PDF 2026-00540749 9900 1.50m / 9901 loss 220k; next rq_2798 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

@@ -30782,3 +30782,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: amandina@demedemens.be — general mailbox verified on official page https://www.demedemens.be/locaties/ouderenzorg/amandina (campus mailbox; Amandina belongs to the separate vzw WoonZORG Wuustwezel within De Medemens).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_wuustwezel); FOI **gap_woonzorg_wuustwezel_vaph_matrix_733_1_65m_9901_635k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2796/; rq_2796=done; spawn **rq_2797**; ticks=2796.
 - Next: **rq_2797 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2797 — 2026-10-12T14:36:39Z — rq_2797 leftover dual Hof ter Lande Vorselaar YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301 (nursing homes) and 88.101 (home care) activity search, Antwerpen and Vlaams-Brabant postcodes, ranked by primary figure (plus two larger 88.911 childcare VZWs): **Hof ter Lande** → KBO 0480.566.704 had 0 prior entity rows.
+- KBO: Actief since 27 februari 2003; VZW; zetel Riemenstraat 92 2290 Vorselaar; 1 VE; 0 prior entity rows for 0480.566.704
+- Found: official NBB VKT-VZW native PDF **2026-00540749** (50567 B / 14p; AV 30-06-2026; neergelegd 30/09/2026; MD5 41b9ccdf2c91e7453694fc5939ffcf71). VKT-VZW 9900 **EUR1495823** (+20.08%); 62 **EUR1471859**; 9901 **EUR-219713** (was -251546); 9904 -222956; equity 1288420; cash 907353; FTE 22,7 (was 20,9).
+- FOI address: info@wzc-hofterlande.be — general mailbox verified on official page https://www.wzc-hofterlande.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_vorselaar); FOI **gap_hof_ter_lande_vorselaar_vaph_matrix_9900_1_50m_9901_loss_220k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2797/; rq_2797=done; spawn **rq_2798**; ticks=2797.
+- Next: **rq_2798 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
