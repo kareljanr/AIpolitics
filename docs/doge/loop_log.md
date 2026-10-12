@@ -33269,3 +33269,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@gsportvlaanderen.be — general mailbox verified on official page https://www.gsportvlaanderen.be/contact (KBO number and Zuiderlaan 13 shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_gsport_vlaanderen_vaph_matrix_9900_2_16m_9901_loss_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3043/; rq_3043=done; spawn **rq_3044**; ticks=3043.
 - Next: **rq_3044 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3044 — 2026-10-12T20:22:55Z — rq_3044 leftover dual Vlaamse Zwemfederatie Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (codes 93.191 sport federations, 93.121/93.199 sport, 84.130 public administration of economic affairs, 72.200 social-science research, 94.991 youth/adult associations; ~59 Flemish city and Brussels postcodes) plus rq_3030 leftovers, ranked by YE2025 NBB primary figure; candidates passed a name/alias/KBO/website dedup check against existing entities: **Vlaamse Zwemfederatie** → KBO 0417.958.944 had 0 prior entity rows.
+- KBO: Actief since 17 december 1977; VZW; zetel Desguinlei 6 2018 Antwerpen; 2 VE; 0 prior entity rows for 0417.958.944
+- Found: official NBB VKT-VZW native PDF **2026-00090196** (56523 B / 16p; AV 28-03-2026; neergelegd 24/04/2026; MD5 d0af48bc1e0a55f9c1775c49250b8e38). VKT-VZW 9900 **EUR2034418** (+0.78%); 62 **EUR1607654**; 9901 **EUR285841** (was 456992); 9904 265977; equity 2044332; cash 807439; FTE 15,1 (was 13,7).
+- FOI address: info@zwemfed.be — general mailbox verified on official page https://www.zwemfed.be/contact (KBO number and Desguinlei 6 shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_vlaamse_zwemfederatie_vaph_matrix_9900_2_03m_9901_286k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3044/; rq_3044=done; spawn **rq_3045**; ticks=3044.
+- Next: **rq_3045 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
