@@ -33952,3 +33952,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@spaf.be — general mailbox verified on official page https://www.spaf.be/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_spaf_anhee_vaph_matrix_733_15_40m_9901_457k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3111/; rq_3110=done; spawn **rq_3112**; ticks=3111.
 - Next: **rq_3112 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3112 — 2026-10-12T22:28:30Z — rq_3112 leftover dual SAFSB (Service d'Aide aux Familles et Seniors du Borinage) Frameries YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon home-help and family-help services (services d'aide aux familles et aînés, ASD, CSD; KBO name search over ~30 home-help names, filings ranked by NBB code 733 operating subsidies, largest first; Brussels Aide familiale and the large Flemish services already entities); every candidate passed the name/alias/KBO/website dedup check: **SAFSB (Service d'Aide aux Familles et Seniors du Borinage)** → KBO 0410.482.917 had 0 prior entity rows.
+- KBO: Actief since 18 augustus 1960; VZW; zetel Rue Jacques Brel 8 7080 Frameries; 3 VE; 0 prior entity rows for 0410.482.917
+- Found: official NBB VOL-VZW native PDF **2026-00083206** (1125036 B / 69p; AV 03-04-2026; neergelegd 15/04/2026; MD5 eb7a8496ea6bae716f3b3493bdc95d9d). VOL-VZW 733 **EUR14215051** (+5.26%); 62 **EUR17001467**; 9901 **EUR443602** (was 123975); 9904 373171; equity 3191396; cash 1806643; FTE 316,3 (was 306).
+- FOI address: info@safsb.be — general mailbox verified on official contact page https://www.safsb.be/fr/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_safsb_frameries_vaph_matrix_733_14_22m_9901_444k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3112/; rq_3112=done; spawn **rq_3113**; ticks=3112.
+- Next: **rq_3113 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
