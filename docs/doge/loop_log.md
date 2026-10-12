@@ -29247,3 +29247,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB MIC-VZW native PDF **2026-00240914** (45790 B / 12p; AV 08-06-2026; neergelegd 02/07/2026; MD5 841df68b4133994b564161dccd7313fa). MIC-VZW 9900 **EUR2269196** (+6.46%); 62 **EUR2031150**; 9901 **EUR-82135** (was 86856); 9904 -78467; equity 886697; cash 500703; .
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lochristi); FOI **gap_oooc_luein_lochristi_vaph_matrix_9900_2_27m_9901_loss_82k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2641/; rq_2641=done; spawn **rq_2642**; ticks=2641.
 - Next: **rq_2642 leftover dual** — continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists.
+
+
+## Tick 2642 — 2026-10-12T08:27:25Z — rq_2642 leftover dual OOOC Elkeen Lommel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OOOC contact list (april 2026): **OOOC Elkeen** → KBO 0445.798.439 had 0 prior entity rows.
+- KBO: Actief since 22 oktober 1991; VZW; zetel Molsekiezel 17, 3920 Lommel; 2 VE; 0 prior entity rows for 0445.798.439
+- Found: official NBB VKT-VZW native PDF **2026-00180052** (50450 B / 14p; AV 09-06-2026; neergelegd 22/06/2026; MD5 23b15691c050af0cb2326ce73287ce74). VKT-VZW 9900 **EUR2840772** (+6.50%); 62 **EUR2721236**; 9901 **EUR16879** (was 109267); 9904 31229; equity 2920441; cash 1030240; FTE 33,1 (was 30,5).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lommel); FOI **gap_oooc_elkeen_lommel_vaph_matrix_9900_2_84m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2642/; rq_2642=done; spawn **rq_2643**; ticks=2642.
+- Next: **rq_2643 leftover dual** — continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists.
