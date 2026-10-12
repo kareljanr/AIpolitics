@@ -31843,3 +31843,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@warlandis.be — general mailbox verified on official page https://www.warlandis.be/7/Contactgegevens (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_warlandis_jette_vaph_matrix_9900_5_76m_9901_701k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2901/; rq_2900=done; spawn **rq_2902**; ticks=2901.
 - Next: **rq_2902 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2902 — 2026-10-12T17:17:43Z — rq_2902 leftover dual Huize Sint-Monika Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Huize Sint-Monika** → KBO 0416.886.501 had 0 prior entity rows.
+- KBO: Actief since 17 december 1976; VZW; zetel Blaesstraat 91 1000 Brussel; 1 VE; 0 prior entity rows for 0416.886.501
+- Found: official NBB VKT-VZW native PDF **2026-00337548** (307757 B / 20p; AV 08-07-2026; neergelegd 24/07/2026; MD5 07f7843dde5e231694d006fda95da8a9). VKT-VZW 9900 **EUR4953717** (+2.51%); 62 **EUR4906530**; 9901 **EUR-290776** (was -99708); 9904 -294975; equity 1449591; cash 256805; FTE 81,8 (was 80,2).
+- FOI address: info@huizesintmonika.be — general mailbox verified on official page https://huizesintmonika.be/nl/contacteer-ons (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_huize_sint_monika_brussel_vaph_matrix_9900_4_95m_9901_loss_291k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2902/; rq_2902=done; spawn **rq_2903**; ticks=2902.
+- Next: **rq_2903 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
