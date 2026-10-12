@@ -29494,3 +29494,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00351940** (175244 B / 20p; AV 23-06-2026; neergelegd 23/07/2026; MD5 b700c80a8604b1889e95183f23ccdecf). VKT-VZW 9900 **EUR1654059** (+3.14%); 62 **EUR1737771**; 9901 **EUR-1220176** (was -1023987); 9904 -1205300; equity 3889678; cash 1426387; FTE 20,4 (was 19,9).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oostende); FOI **gap_ons_geluk_oostende_vaph_matrix_9900_1_65m_9901_loss_1_22m_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2668/; rq_2668=done; spawn **rq_2669**; ticks=2668.
 - Next: **rq_2669 leftover dual** — continue Opgroeien OVBJ lists (leftovers: Daidalos, IBIS, CAS Genk, YAR, Pieter Simenon, Huize Sint-Vincentius Halen, Jeugdzorgcentrum Kinrooi), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
+
+
+## Tick 2669 — 2026-10-12T08:37:37Z — rq_2669 leftover dual Golfbreker Veurne YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ West-Vlaanderen list (mei 2026): **Golfbreker** → KBO 0445.674.022 had 0 prior entity rows.
+- KBO: Actief since 6 mei 1991; VZW; zetel Zuidburgweg 23 bus 101, 8630 Veurne; 1 VE; 0 prior entity rows for 0445.674.022
+- Found: official NBB MIC-VZW native PDF **2026-00320641** (43714 B / 11p; AV 24-03-2026; neergelegd 23/07/2026; MD5 dd23dd8b5337d0bfe00c69293a3ced7d). MIC-VZW 9900 **EUR761363** (+3.97%); 62 **EUR661711**; 9901 **EUR86775** (was 83858); 9904 98310; equity 743177; cash 39430; .
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_veurne); FOI **gap_golfbreker_veurne_vaph_matrix_9900_761k_9901_87k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2669/; rq_2669=done; spawn **rq_2670**; ticks=2669.
+- Next: **rq_2670 leftover dual** — continue Opgroeien OVBJ lists (leftovers: Daidalos, IBIS, CAS Genk, YAR, Pieter Simenon, Huize Sint-Vincentius Halen, Jeugdzorgcentrum Kinrooi), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
