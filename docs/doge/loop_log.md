@@ -31331,3 +31331,13 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575; 2576-2850 run locally as fallback.
 - Fix: tick-2840 snapshot heading in progress_every_10_ticks.md corrected from "tick 2830" to "tick 2840".
 - Next: **rq_2850** — remaining Brussels disability/childcare ASBLs and Flemish 88.10x VZWs, larger first.
+
+
+## Tick 2851 — 2026-10-12T16:24:58Z — rq_2850 leftover dual Crèche Cardinal Mercier Bruxelles (Ixelles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Crèche Cardinal Mercier** → KBO 0419.562.513 had 0 prior entity rows.
+- KBO: Actief since 22 mei 1979; VZW; zetel Opperstraat 48 1050 Elsene; 1 VE; 0 prior entity rows for 0419.562.513
+- Found: official NBB VKT-VZW native PDF **2026-00287430** (49000 B / 12p; AV 09-06-2026; neergelegd 10/07/2026; MD5 9aa098ce9ffcd1ea3d409c4bacca1723). VKT-VZW 9900 **EUR1634495** (-1.42%); 62 **EUR1546817**; 9901 **EUR42209** (was 68165); 9904 65774; equity 1707634; cash 115115; FTE 38,2 (was 36,9).
+- FOI address: info@crechecardinalmercier.com — general mailbox verified on official page https://www.crechecardinalmercier.com/contact (company number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_creche_cardinal_mercier_ixelles_vaph_matrix_9900_1_63m_9901_42k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2851/; rq_2850=done; spawn **rq_2852**; ticks=2851.
+- Next: **rq_2852 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
