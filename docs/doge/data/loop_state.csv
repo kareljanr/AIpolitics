@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T07:42:29Z,rq_2594,2594,no,tick2594 leftover dual Tikvatenoe Antwerpen 0432.625.641 Strong PDF 2026-00360969 733 4.91m / 9904 JUMP 661k / beleggingen 4.79m; next rq_2595 continue VAPH list scan (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T07:43:03Z,rq_2595,2595,no,tick2595 leftover dual Unie-K Brugge (Sint-Michiels) 0431.124.022 Strong PDF 2026-00276159 733 38.33m / 9901 3.16m / public guarantee 16.49m; next rq_2596 continue VAPH list scan (local fallback runner; Actions cron unreliable)

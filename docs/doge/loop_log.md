@@ -28813,3 +28813,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00360969** (1560251 B / 41p; AV 27-07-2026; neergelegd 28/07/2026; MD5 2e0ecfa778c0ca873b67ad21d81b50b3). VOL 70/76A **EUR6505760** (+3.58%); 733 **EUR4906235** (+6.25%); 62 **EUR4564687** (+6.00%); 9901 **EUR339124** (+28.19%); 9904 **EUR660919** (+73.09%); equity 9207398; debt 2158318; geldbeleggingen **EUR4787798** + cash 731015; FTE 65,4.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.00; entities +1 (parent city_antwerpen); FOI **gap_tikvatenoe_antwerpen_vaph_matrix_733_4_91m_9904_jump_661k_beleggingen_4_79m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2594/; rq_2594=done; spawn **rq_2595**; ticks=2594.
 - Next: **rq_2595 leftover dual** — continue VAPH list scan.
+
+
+## Tick 2595 — 2026-10-12T07:43:03Z — rq_2595 leftover dual Unie-K Brugge (Sint-Michiels) YE2025 (local fallback runner)
+
+- Hunt: VAPH adreslijst page 53 (background scan): **Unie-K Sint-Michiels** → KBO 0431.124.022 had 0 prior repo rows.
+- KBO: Actief since 02.04.1985; VZW; zetel Chartreuseweg 53 8200 Brugge since 26.03.1992; 4 VE; desocialekaart name 'UNIE-K - Provinciale voorzieningen voor personen met een beperking' (ex-provincial facilities; context only); 0 prior repo rows for 0431.124.022; Identity trap != leftover Ter Muiden en 't Veldzicht remine@2589
+- Found: official NBB VOL-VZW native PDF **2026-00276159** (728012 B / 44p; AV 23-06-2026; neergelegd 02/07/2026; MD5 7c7e78307f8209d4173d24cc802b6b37). VOL 70/76A **EUR44013742** (+3.44%); 733 **EUR38325413** (+3.68%); 62 **EUR34576517** (+4.38%); 9901 **EUR3163435** (−7.65%); 9904 3080823 (bestemde fondsen +2954693); equity 49811366 (kapitaalsubsidies 23860064); debt 23350629 (9061 **EUR16487771**); geldbeleggingen 12701594 (was 16101594); FTE 448,6.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 6.20; entities +1 (parent city_brugge); FOI **gap_unie_k_brugge_vaph_matrix_733_38_33m_9901_3_16m_9061_16_49m_l5** prio7 ready (NOT sent) + draft; raw docs/doge/raw/tick2595/; rq_2595=done; spawn **rq_2596**; ticks=2595.
+- Next: **rq_2596 leftover dual** — continue VAPH list scan.
