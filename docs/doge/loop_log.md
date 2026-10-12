@@ -31923,3 +31923,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@doucheflux.be — general mailbox verified on official page https://doucheflux.be/ (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_doucheflux_anderlecht_vaph_matrix_9900_1_59m_9901_155k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2909/; rq_2909=done; spawn **rq_2910**; ticks=2909.
 - Next: **rq_2910 leftover dual** — Batch done; next: remaining Brussels NACE 87.x/88.10x scan hits (Ma Maison-Evere, La Passerelle, Solbos, Mandragora, Entre Autres, Vivre chez soi, Initiatief Antonin Artaud), larger first; skipped this batch: Centre Arnaud Fraiteur (named-person mailboxes only), FARRA and L'Arche Bruxelles and Petites Soeurs des Pauvres (mailbox not on own site), Zusterkens der Armen (same).
+
+
+## Tick 2910 — 2026-10-12T17:19:13Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2560** of 2612 rows; inventory budgets 58993 · commitments 6612 · leaderboard 8732 · entities 2631 · sources 8767.
+- Top10: **stable** (2901-2909 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2901-2909: Warlandis (Jette) · Huize Sint-Monika (Brussel) · CASMMU (Schaerbeek) · Magnolia (Jette) · Les Oiseaux Bleus (Etterbeek) · Villa Pilifs (Neder-Over-Heembeek) · Messidor (Bruxelles) · Le Nid Marcelle Briard (Uccle) · DoucheFLUX (Anderlecht).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2910 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-2910 run locally as fallback.
+- Next: **rq_2910** — remaining Brussels NACE 87.x/88.10x scan hits (Ma Maison-Evere, La Passerelle, Solbos, Mandragora, Entre Autres, Vivre chez soi), larger first.

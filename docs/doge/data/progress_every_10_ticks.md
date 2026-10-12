@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2910** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2900; 2901-2909 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2901-2909 residual dual L5 (not near-complete of 348bn):** Warlandis (Jette) · Huize Sint-Monika (Brussel) · CASMMU (Schaerbeek) · Magnolia (Jette) · Les Oiseaux Bleus (Etterbeek) · Villa Pilifs (Neder-Over-Heembeek) · Messidor (Bruxelles) · Le Nid Marcelle Briard (Uccle) · DoucheFLUX (Anderlecht) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2560** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2612** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2901-2909** Warlandis (Jette) · Huize Sint-Monika (Brussel) · CASMMU (Schaerbeek) · Magnolia (Jette) · Les Oiseaux Bleus (Etterbeek) · Villa Pilifs (Neder-Over-Heembeek) · Messidor (Bruxelles) · Le Nid Marcelle Briard (Uccle) · DoucheFLUX (Anderlecht).
+
+### Inventory (tick 2910)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 58993 |
+| commitments.csv | 6612 |
+| leaderboard.csv | 8732 |
+| entities.csv | 2631 |
+| sources.csv | 8767 |
+| FOI ready | 2560 |
+| FOI total rows | 2612 |
+| research_queue open | rq_2910 (carried; next: remaining larger Brussels childcare/day-centre ASBLs and Flemish 88.10x VZWs, larger first) |
+
+### What improved since tick 2900
+
+- **New source (tick2901-2909):** Warlandis (Jette) · Huize Sint-Monika (Brussel) · CASMMU (Schaerbeek) · Magnolia (Jette) · Les Oiseaux Bleus (Etterbeek) · Villa Pilifs (Neder-Over-Heembeek) · Messidor (Bruxelles) · Le Nid Marcelle Briard (Uccle) · DoucheFLUX (Anderlecht). Source: new KBO NACE-BEL activity scan of a sector not yet mined in Brussels: residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109) in all 22 Brussels postcodes, ranked by YE2025 NBB primary figure (9900/733), VZW/ASBL models only. Chosen because the prior Brussels 88.99x list was down to <EUR0.6m units while this band yields EUR1.6m-5.8m units; LOOP.md hole-fill priority (dual structures).
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION).
+- **Runner note:** 2576-2910 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2901-2909 (fast, ~5 min cap):** FARES (contact page has only a form; mailboxes found only on third-party pages).
+- **Rejected 2901-2909 (fast, ~5 min cap):** Centre Arnaud Fraiteur (named-person mailboxes only), FARRA, L'Arche Bruxelles and Petites Soeurs des Pauvres / Zusterkens der Armen (general mailbox not on own site).
+
+---
+
 ## Snapshot at **tick 2900** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
