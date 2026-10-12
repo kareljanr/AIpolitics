@@ -29758,3 +29758,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@decocon.be — general mailbox verified on official page https://www.decocon.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_de_cocon_gent_vaph_matrix_9900_3_02m_9901_35k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2695/; rq_2695=done; spawn **rq_2696**; ticks=2695.
 - Next: **rq_2696 leftover dual** — OVBJ leftover re-check across the 5 provincial lists (KBO-number match) in progress; next: remaining re-check leftovers, then KBO NACE 87/88 lists.
+
+
+## Tick 2696 — 2026-10-12T09:02:44Z — rq_2696 leftover dual Jeugdzorg Nazareth-De Pinte YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Oost-Vlaanderen list (re-check leftovers): **Jeugdzorg** → KBO 0439.196.105 had 0 prior entity rows.
+- KBO: Actief since 4 december 1988; VZW; zetel Weefstraat 30 9810 Nazareth-De Pinte; 3 VE; 0 prior entity rows for 0439.196.105
+- Found: official NBB VKT-VZW native PDF **2026-00134358** (52516 B / 14p; AV 02-06-2026; neergelegd 03/06/2026; MD5 37f97b75b162b8472865f40561398475). VKT-VZW 9900 **EUR3999605** (+6.10%); 62 **EUR3574611**; 9901 **EUR254630** (was 48937); 9904 239272; equity 2032130; cash 979839; FTE 46,1 (was 45,1).
+- FOI address: info@jeugdzorg.be — general mailbox verified on official page https://www.jeugdzorg.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_nazareth_depinte); FOI **gap_jeugdzorg_nazareth_vaph_matrix_9900_4_00m_9901_255k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2696/; rq_2696=done; spawn **rq_2697**; ticks=2696.
+- Next: **rq_2697 leftover dual** — OVBJ leftover re-check across the 5 provincial lists (KBO-number match) in progress; next: remaining re-check leftovers, then KBO NACE 87/88 lists.
