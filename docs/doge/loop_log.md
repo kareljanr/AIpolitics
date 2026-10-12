@@ -32513,3 +32513,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: infos@bellone.be — general mailbox verified on official page https://www.bellone.be/ (address Rue de Flandre 46 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_la_bellone_bruxelles_vaph_matrix_9900_0_74m_9901_56k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2968/; rq_2968=done; spawn **rq_2969**; ticks=2968.
 - Next: **rq_2969 leftover dual** — Brussels culture (90.x/91.x) + leftover training batch in progress; next: remaining units of this batch.
+
+
+## Tick 2969 — 2026-10-12T18:17:22Z — rq_2969 leftover dual Het Kindermuseum / Le Musée des Enfants Bruxelles (Ixelles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels culture 90.111/90.120/90.130/90.311/91.110/91.210, plus leftover 85.592/86.940 hits, in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Het Kindermuseum / Le Musée des Enfants** → KBO 0415.481.484 had 0 prior entity rows.
+- KBO: Actief since 28 oktober 1975; VZW; zetel Burgemeestersstraat 15 1050 Elsene; 1 VE; 0 prior entity rows for 0415.481.484
+- Found: official NBB VKT-VZW native PDF **2026-00435565** (159991 B / 13p; AV 16-06-2026; neergelegd 27/08/2026; MD5 7acfc300217633d8424c663222b676e3). VKT-VZW 9900 **EUR658175** (-12.72%); 62 **EUR699674**; 9901 **EUR-45226** (was 109819); 9904 -45831; equity 778738; cash 142461; FTE 16 (was 15).
+- FOI address: info@childrenmuseum.be — general mailbox verified on official page https://www.museedesenfants.be/contact (address Rue du Bourgmestre 15 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_kindermuseum_ixelles_vaph_matrix_9900_0_66m_9901_loss_45k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2969/; rq_2969=done; spawn **rq_2970**; ticks=2969.
+- Next: **rq_2970 leftover dual** — Batch done; next: culture scan nearly exhausted for large hits; KANAL (code 73 EUR20.59m but code 733 empty: needs a code-73 mode), Médiathèque Nouvelle (EUR13.17m; own site unreachable), Cinematek (federal foundation), then a Flemish activity-code scan for bigger hits.
