@@ -29910,3 +29910,13 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2710 run locally as fallback.
 - Source choice (recorded): ticks 2701-2709 used the KBO NACE-BEL 88.992 activity search by postcode (Pleegzorg services first, then youth-work/HCA units). FOI: general mailboxes only, each verified on an opened official page.
 - Next: **rq_2710** — other NACE 87/88 codes (87.202/87.203 residential, 88.994 welzijnswerk); Pleegzorg West/Oost re-check.
+
+
+## Tick 2711 — 2026-10-12T09:26:09Z — rq_2710 leftover dual Covida (Koninklijk Ondersteuningscentrum Ter Engelen Tevona) Genk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.201/87.202/87.203 activity search (residential care for persons with a disability / psychiatric problems): **Covida (Koninklijk Ondersteuningscentrum Ter Engelen Tevona)** → KBO 0410.422.737 had 0 prior entity rows.
+- KBO: Actief since 12 september 1961; VZW; zetel Welzijnscampus 5   bus 31 3600 Genk; 47 VE; 0 prior entity rows for 0410.422.737
+- Found: official NBB VOL-VZW native PDF **2026-00199981** (1670795 B / 59p; AV 23-06-2026; neergelegd 25/06/2026; MD5 cc399ff636ff2c8c4c183198ed6ebe0d). VOL-VZW 733 **EUR57987717** (+3.64%); 62 **EUR54069447**; 9901 **EUR1103671** (was 992784); 9904 1010491; equity 43506699; cash 6434793; FTE 704,6 (was 692,2).
+- FOI address: info@covida.be — general mailbox verified on official page https://www.terengelen.be/contacteer.php; NOTE overlap: existing entity vzw_ter_engelen (KBO 0430.882.809, Lokeren care home, different organisation) also lists terengelen.be / info@covida.be - verify that row.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_genk); FOI **gap_covida_genk_vaph_matrix_733_57_99m_9901_1104k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2711/; rq_2710=done; spawn **rq_2712**; ticks=2711.
+- Next: **rq_2712 leftover dual** — KBO NACE 87.20x (residential disability/psychiatric care) scan in progress; next: remaining 87.201/87.202/87.203 units (spare Philippus Neri 0410.505.582 Sint-Niklaas, check odd 2024 loss), then 88.994 welzijnswerk and 87.301.
