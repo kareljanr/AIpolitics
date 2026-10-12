@@ -30944,3 +30944,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info.bxl@fasd.be — general mailbox verified on official page https://bruxelles.aideetsoinsadomicile.be/contact/ (ASD Bruxelles; page lists BCE 0415.862.952).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ixelles); FOI **gap_aide_familiale_region_bruxelloise_vaph_matrix_733_11_11m_9901_107k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2812/; rq_2812=done; spawn **rq_2813**; ticks=2812.
 - Next: **rq_2813 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2813 — 2026-10-12T15:12:45Z — rq_2813 leftover dual Gammes Bruxelles (Saint-Gilles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101/87.301/87.302/87.202 activity searches, Brussels-Capital postcodes (French-language ASBLs), ranked by primary figure: **Gammes** → KBO 0467.262.064 had 0 prior entity rows.
+- KBO: Actief since 19 februari 1999; VZW; zetel Charleroise Steenweg 123a bus 4 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0467.262.064
+- Found: official NBB VKT-VZW native PDF **2026-00185766** (8077711 B / 36p; AV 12-06-2026; neergelegd 23/06/2026; MD5 aa50774fb0b3383186655f263bf5a34c). VKT-VZW 9900 **EUR3733501** (-4.77%); 62 **EUR3569199**; 9901 **EUR61844** (was 5247); 9904 56125; equity 362756; cash 676065; FTE 84,2 (was 86,9).
+- FOI address: info@gammesasbl.be — general mailbox verified on official page https://gammesasbl.be/fr_BE/contactus.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_gammes_saint_gilles_vaph_matrix_9900_3_73m_9901_62k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2813/; rq_2813=done; spawn **rq_2814**; ticks=2813.
+- Next: **rq_2814 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
