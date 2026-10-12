@@ -32003,3 +32003,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@gripvzw.be — general mailbox verified on official page https://www.gripvzw.be/contact (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_grip_schaarbeek_vaph_matrix_9900_0_54m_9901_68k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2917/; rq_2917=done; spawn **rq_2918**; ticks=2917.
 - Next: **rq_2918 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2918 — 2026-10-12T17:23:36Z — rq_2918 leftover dual Les Jardins du 8ème Jour - Tago Bruxelles (Neder-Over-Heembeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Les Jardins du 8ème Jour - Tago** → KBO 0721.851.531 had 0 prior entity rows.
+- KBO: Actief since 5 maart 2019; VZW; zetel Beukenootjesstraat 228 1120 Brussel; 1 VE; 0 prior entity rows for 0721.851.531
+- Found: official NBB VKT-VZW native PDF **2026-00107303** (51250 B / 14p; AV 30-04-2026; neergelegd 11/05/2026; MD5 00abb6c372200127573756e3e6871322). VKT-VZW 9900 **EUR506518** (+0.80%); 62 **EUR493278**; 9901 **EUR2863** (was 5867); 9904 3006; equity 62206; cash 28245; FTE 7,3 (was 7,3).
+- FOI address: tago@tagoasbl.be — general mailbox verified on official page https://tagoasbl.be/ (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_tago_neder_over_heembeek_vaph_matrix_9900_0_51m_9901_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2918/; rq_2918=done; spawn **rq_2919**; ticks=2918.
+- Next: **rq_2919 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
