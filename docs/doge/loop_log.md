@@ -33912,3 +33912,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@asd-namur.be — general mailbox verified on official page https://namur.aideetsoinsadomicile.be/contact/ (site footer gives BCE 410.333.160).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_asd_namur_vaph_matrix_733_20_87m_9901_429k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3107/; rq_3107=done; spawn **rq_3108**; ticks=3107.
 - Next: **rq_3108 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3108 — 2026-10-12T22:25:57Z — rq_3108 leftover dual Centrale de Services à Domicile de Mons-Wallonie picarde (CSD Mons-Wallonie picarde) Saint-Ghislain YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon home-help and family-help services (services d'aide aux familles et aînés, ASD, CSD; KBO name search over ~30 home-help names, filings ranked by NBB code 733 operating subsidies, largest first; Brussels Aide familiale and the large Flemish services already entities); every candidate passed the name/alias/KBO/website dedup check: **Centrale de Services à Domicile de Mons-Wallonie picarde (CSD Mons-Wallonie picarde)** → KBO 0441.432.845 had 0 prior entity rows.
+- KBO: Actief since 25 januari 1990; VZW; zetel Rue du Coron(B) 48 7331 Saint-Ghislain; 6 VE; 0 prior entity rows for 0441.432.845
+- Found: official NBB VOL-VZW native PDF **2026-00199329** (1631817 B / 49p; AV 18-06-2026; neergelegd 24/06/2026; MD5 67120dfd919cf77ec7dc87a000529f98). VOL-VZW 733 **EUR20126443** (+5.58%); 62 **EUR25275040**; 9901 **EUR88583** (was 408901); 9904 137847; equity 1366418; cash 3600723; FTE 471,9 (was 472).
+- FOI address: 315.csdmwp@solidaris.be — general mailbox verified on official contact page https://www.csdmonswalloniepicarde.be/fr/contact (with Rue du Coron 48 address).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_csd_mons_wallonie_picarde_vaph_matrix_733_20_13m_9901_89k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3108/; rq_3108=done; spawn **rq_3109**; ticks=3108.
+- Next: **rq_3109 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
