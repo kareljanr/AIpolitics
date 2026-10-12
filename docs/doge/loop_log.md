@@ -33419,3 +33419,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@horeca.be — general mailbox verified on official page https://horecavlaanderen.be/contact (KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_horeca_vlaanderen_vaph_matrix_9900_1_58m_9901_loss_49k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3058/; rq_3058=done; spawn **rq_3059**; ticks=3058.
 - Next: **rq_3059 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3059 — 2026-10-12T20:31:32Z — rq_3059 leftover dual Conseil des Barreaux Européens (CCBE) Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (new codes 94.110 business, employers and public-authority associations, 94.120 professional bodies, 94.200 unions, 84.120 public administration of health/education/culture, 91.210; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure; every candidate passed the name/alias/KBO/website dedup check: **Conseil des Barreaux Européens (CCBE)** → KBO 0467.250.186 had 0 prior entity rows.
+- KBO: Actief since 15 juni 1999; IVZW; zetel Jozef II straat 40 bus B 1000 Brussel; 1 VE; 0 prior entity rows for 0467.250.186
+- Found: official NBB VKT-IVZW native PDF **2026-00280540** (63267 B / 19p; AV 29-05-2026; neergelegd 09/07/2026; MD5 a5c316eb68b7dc553c8b3c580e80387e). VKT-IVZW 9900 **EUR1493925** (+1.85%); 62 **EUR1236563**; 9901 **EUR69279** (was 23590); 9904 78035; equity 1914485; cash 340355; FTE 12,7 (was 13,3).
+- FOI address: ccbe@ccbe.eu — general mailbox verified on official page https://www.ccbe.eu/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ccbe_brussel_vaph_matrix_9900_1_49m_9901_69k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3059/; rq_3059=done; spawn **rq_3060**; ticks=3059.
+- Next: **rq_3060 leftover dual** — Batch done; next: remaining 94.1xx hits (e.g. Conseil des Barreaux Européens EUR1.49m) or another public-body code, largest first, after the dedup check; skipped this batch: Agentschap Integratie en Inburgering (EUR76.2m; duplicate of existing entity agii), Brulocalis (site blocked by a bot challenge, mailbox not verifiable), Eurochambres (mailbox obfuscated on its contact page), CRISP (no mailbox on its official contact page), SYLVA (trade union, out of scope), and private industry associations without public funding in their filing (ACI Europe, EFAMA, EUROFER, EHPA, Connect Europe, Accountancy Europe).
