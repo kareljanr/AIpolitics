@@ -31177,3 +31177,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@idr-sv.org — general mailbox verified on official page https://www.infirmiersderue.org/ (company number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_anderlecht); FOI **gap_infirmiers_de_rue_anderlecht_vaph_matrix_9900_3_94m_9901_loss_842k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2835/; rq_2835=done; spawn **rq_2836**; ticks=2835.
 - Next: **rq_2836 leftover dual** — Batch done; next: remaining larger Brussels childcare/day-centre ASBLs from the 88.911/88.99x scan (Elmer, Olina, Rire et Grandir, Espaces Enfance) and Flemish 88.10x VZWs; skipped: Thuiszorg Arbeid en Gezondheid Mechelen (no own mailbox found), OTV Vaartland (otv.be unreachable).
+
+
+## Tick 2836 — 2026-10-12T16:15:36Z — rq_2836 leftover dual Article 27 Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.102/88.103/88.911 activity searches (Flemish and Brussels-Capital postcodes), ranked by primary figure: **Article 27** → KBO 0469.754.271 had 0 prior entity rows.
+- KBO: Actief since 7 oktober 1999; VZW; zetel Zennestraat 81 1000 Brussel; 2 VE; 0 prior entity rows for 0469.754.271
+- Found: official NBB VKT-VZW native PDF **2026-00067479** (48644 B / 14p; AV 27-03-2026; neergelegd 31/03/2026; MD5 fd4bdd3ee118a9826de1104938999333). VKT-VZW 9900 **EUR2409801** (+2.16%); 62 **EUR2437415**; 9901 **EUR-38516** (was -49091); 9904 -37000; equity 353751; cash 333470; FTE 34,8 (was 34,7).
+- FOI address: bruxelles@article27.be — general mailbox verified on official page https://www.article27.be/ (company number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_article_27_bruxelles_vaph_matrix_9900_2_41m_9901_loss_39k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2836/; rq_2836=done; spawn **rq_2837**; ticks=2836.
+- Next: **rq_2837 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
