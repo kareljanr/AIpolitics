@@ -31361,3 +31361,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: creche@rtbf.be — general crèche mailbox verified on official pages https://my.one.be/milieu-accueil/2458 (ONE) and https://www.1030.be/fr/lieu-enfance/babymedia (commune).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_creche_babymedia_schaerbeek_vaph_matrix_9900_1_67m_9901_105k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2853/; rq_2853=done; spawn **rq_2854**; ticks=2853.
 - Next: **rq_2854 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2854 — 2026-10-12T16:25:26Z — rq_2854 leftover dual Citeco Bruxelles (Schaerbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Citeco** → KBO 0460.976.761 had 0 prior entity rows.
+- KBO: Actief since 22 mei 1997; VZW; zetel Albert de Latourstraat 75 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0460.976.761
+- Found: official NBB VKT-VZW native PDF **2026-00515607** (383903 B / 26p; AV 19-06-2026; neergelegd 16/09/2026; MD5 bb4dd789ffc936efed1387870835d6cd). VKT-VZW 9900 **EUR1493558** (+3.53%); 62 **EUR1366308**; 9901 **EUR-8809** (was -1677); 9904 -9570; equity 673752; cash 57984; FTE 38,7 (was 39,7).
+- FOI address: info@citeco.be — general mailbox verified on official page https://citeco.be/fr/ (VAT number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_citeco_schaerbeek_vaph_matrix_9900_1_49m_9901_loss_9k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2854/; rq_2854=done; spawn **rq_2855**; ticks=2854.
+- Next: **rq_2855 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
