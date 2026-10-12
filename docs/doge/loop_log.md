@@ -32273,3 +32273,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: ciep.asbl@ciep.be — general mailbox verified on official CIEP brochure https://www.ciep.be/images/Formations/2026/maquette-brochure-ciep-formations-2026_WEB.pdf (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_ciep_bruxelles_vaph_matrix_9900_5_63m_9901_loss_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2944/; rq_2944=done; spawn **rq_2945**; ticks=2944.
 - Next: **rq_2945 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
+
+
+## Tick 2945 — 2026-10-12T17:56:05Z — rq_2945 leftover dual Mission Locale de Molenbeek Bruxelles (Molenbeek-Saint-Jean) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels 85.592 vocational training and 86.940 in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Mission Locale de Molenbeek** → KBO 0453.729.772 had 0 prior entity rows.
+- KBO: Actief since 29 juni 1994; VZW; zetel Leopold II laan 101-103 1080 Sint-Jans-Molenbeek; 3 VE; 0 prior entity rows for 0453.729.772
+- Found: official NBB VOL-VZW native PDF **2026-00277452** (4824393 B / 37p; AV 26-06-2026; neergelegd 10/07/2026; MD5 5a1e47841dea1fc137f88a1697e53452). VOL-VZW 733 **EUR4810761** (n/a); 62 **EUR4591343**; 9901 **EUR44900** (was 14970); 9904 43216; equity 183753; cash 360941; FTE 85 (was 74).
+- FOI address: info@mloc1080.be — general mailbox verified on official page https://www.mloc1080.be/wp/accompagnement/ (address matches KBO).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_mission_locale_molenbeek_vaph_matrix_733_4_81m_9901_45k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2945/; rq_2945=done; spawn **rq_2946**; ticks=2945.
+- Next: **rq_2946 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
