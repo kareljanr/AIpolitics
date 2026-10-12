@@ -34022,3 +34022,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@viva-dom.be — general mailbox verified on official page https://eupen.aideetsoinsadomicile.be/ (footer with Industriestraße 16 address; site footer gives BCE 430.305.757).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_vivadom_eupen_vaph_matrix_733_4_91m_9901_loss_84k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3118/; rq_3118=done; spawn **rq_3119**; ticks=3118.
 - Next: **rq_3119 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3119 — 2026-10-12T22:55:37Z — rq_3119 leftover dual Aide & Soins à Domicile Hainaut Oriental (ASD Hainaut Oriental) Anderlues YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon home-help and family-help services (services d'aide aux familles et aînés, ASD, CSD; KBO name search over ~30 home-help names, filings ranked by NBB code 733 operating subsidies, largest first; Brussels Aide familiale and the large Flemish services already entities); every candidate passed the name/alias/KBO/website dedup check: **Aide & Soins à Domicile Hainaut Oriental (ASD Hainaut Oriental)** → KBO 0465.077.485 had 0 prior entity rows.
+- KBO: Actief since 22 oktober 1998; VZW; zetel Rue du Douaire 40/1 6150 Anderlues; 2 VE; 0 prior entity rows for 0465.077.485
+- Found: official NBB VOL-VZW native PDF **2026-00217605** (850857 B / 69p; AV 25-06-2026; neergelegd 26/06/2026; MD5 41adf7bdc7ba428aff24ef2c9537357c). VOL-VZW 73 contributions, gifts, legacies and subsidies, not split (NOT subsidies alone) **EUR28910157** (+3.38%); 62 **EUR36296633**; 9901 **EUR150889** (was 665882); 9904 73597; equity 2237161; cash 2306325; FTE 678,4 (was 667,8).
+- FOI address: info@asdho.be — general mailbox verified on official contact page https://hainaut.aideetsoinsadomicile.be/contact/ (site footer gives BCE 0465.077.485).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_asd_hainaut_oriental_code73_subsidy_split_73_contrib-gifts-legacies-subsidies-not-split_28_91m_9901_151k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3119/; rq_3119=done; spawn **rq_3120**; ticks=3119.
+- Next: **rq_3120 leftover dual** — Batch done; next: remaining home-help/home-nursing non-profits with code 733 not yet in entities, after the dedup check: Vivadom (Eupen, EUR4.91m; German-speaking, needs a DE/FR language check), i-mens Thuisverpleging (EUR24.77m; distinct KBO 0430.909.335 but no mailbox of its own verified: the i-mens site lists only group mailboxes), Croix Jaune et Blanche de Mouscron-Comines (abbreviated model, code 9900 only).
