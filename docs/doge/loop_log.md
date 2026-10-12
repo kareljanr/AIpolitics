@@ -33602,3 +33602,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@flh.brussels — general mailbox verified on official site https://www.foyerlaekenois.be/ (footer with address).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_foyer_laekenois_code740_split_740_0_39m_9901_2544k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3076/; rq_3076=done; spawn **rq_3077**; ticks=3076.
 - Next: **rq_3077 leftover dual** — Batch done; next: remaining Brussels SISPs below EUR0.2m code 740, then Flemish/Walloon public housing companies and intercommunales from the wider KBO scan, largest first, after the dedup check; skipped this batch: Le Logement Bruxellois (EUR10.60m code 740; only an online form and candidate/DPO mailboxes), Foyer Anderlechtois (EUR6.24m; mailboxes only as hidden form values), Le Foyer Schaerbeekois (no code 740 in the filing), Log'Iris (image-only PDF filing), hospitals (m140-f-p PDF filings, OCR text not reliable).
+
+
+## Tick 3077 — 2026-10-12T21:19:45Z — rq_3077 leftover dual BinHôme Uccle YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE SLRB-BGHM official list of the 16 Brussels public-service housing companies (SISP), https://slrb-bghm.brussels/fr/societes-immobilieres-de-service-public/toutes-les-sisp, plus a KBO NACE-BEL scan (38.110/38.210/36.000/49.310/68.201) for intercommunales and public companies; ranked by YE2025 NBB company-model code 740 (operating subsidies and compensatory amounts from public authorities); every candidate passed the name/alias/KBO/website dedup check: **BinHôme** → KBO 0403.357.573 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1906; SC; zetel Emile Clausstraat 63 1180 Ukkel; 1 VE; 0 prior entity rows for 0403.357.573
+- Found: official NBB VOL-SC native PDF **2026-00174145** (7643945 B / 104p; AV 11-06-2026; neergelegd 15/06/2026; MD5 72177e2e6712671a3be2baeb394b67c2). VOL-SC 740 **EUR382281** (-22.04%); 62 **EUR7076568**; 9901 **EUR-285579** (was -439726); 9904 921646; equity 54019215; cash 10633368; FTE 93,3 (was 85,1).
+- FOI address: info@binhome.brussels — general mailbox verified on the official SLRB-BGHM page for this SISP https://slrb-bghm.brussels/fr/sisp/binhome (own site www.binhome.brussels listed there did not respond on 2026-10-12).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_binhome_code740_split_740_0_38m_9901_loss_286k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3077/; rq_3077=done; spawn **rq_3078**; ticks=3077.
+- Next: **rq_3078 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
