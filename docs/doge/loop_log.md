@@ -31147,3 +31147,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ccpasbl.be — general mailbox verified on official page https://ccpasbl.be/ (BCE shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_comprendre_et_parler_woluwe_vaph_matrix_9900_7_30m_9901_53k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2832/; rq_2832=done; spawn **rq_2833**; ticks=2832.
 - Next: **rq_2833 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2833 — 2026-10-12T16:11:41Z — rq_2833 leftover dual Famisol - Familles solidaires Bruxelles (Woluwe-Saint-Lambert) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.102/88.103/88.911 activity searches (Flemish and Brussels-Capital postcodes), ranked by primary figure: **Famisol - Familles solidaires** → KBO 0458.328.265 had 0 prior entity rows.
+- KBO: Actief since 1 april 1996; VZW; zetel Martinus V-straat 22 1200 Sint-Lambrechts-Woluwe; 1 VE; 0 prior entity rows for 0458.328.265
+- Found: official NBB VKT-VZW native PDF **2026-00176910** (46413 B / 11p; AV 11-06-2026; neergelegd 19/06/2026; MD5 cf96f70f2d6fa3b849409bf82a94642c). VKT-VZW 9900 **EUR750074** (-1.81%); 62 **EUR736504**; 9901 **EUR-8238** (was 31107); 9904 4427; equity 221391; cash 185159; FTE 10,4 (was 9,6).
+- FOI address: info@famisol.be — general mailbox verified on official page https://famisol.be/contact (site states COCOF recognition).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_famisol_woluwe_vaph_matrix_9900_0_75m_9901_loss_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2833/; rq_2833=done; spawn **rq_2834**; ticks=2833.
+- Next: **rq_2834 leftover dual** — Batch done; next: remaining larger Brussels childcare/day-centre ASBLs from the 88.911/88.99x scan (Elmer, Olina, Rire et Grandir, Espaces Enfance) and Flemish 88.10x VZWs; skipped: Thuiszorg Arbeid en Gezondheid Mechelen (no own mailbox found), OTV Vaartland (otv.be unreachable).
