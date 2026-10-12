@@ -29124,3 +29124,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00108372** (218191 B / 32p; AV 30-04-2026; neergelegd 07/05/2026; MD5 2369143854bfb41b83d8b166d1daf742). VOL-VZW 733 **EUR4829674** (+3.94%); 62 **EUR3803727**; 9901 **EUR298284** (was 484575); 9904 363747; equity 3699490; cash 855700; FTE 49,1 (was 45,9).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_ckg_lentekind_antwerpen_vaph_matrix_733_4_83m_9901_298k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2628/; rq_2628=done; spawn **rq_2629**; ticks=2628.
 - Next: **rq_2629 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2629 — 2026-10-12T08:16:30Z — rq_2629 leftover dual CKG Kinderland Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien CKG contact list (april 2026): **CKG Kinderland** → KBO 0424.336.002 had 0 prior entity rows.
+- KBO: Actief since 30 november 1982; VZW; zetel Pothoekstraat 112 bus A, 2060 Antwerpen; 4 VE; 0 prior entity rows for 0424.336.002
+- Found: official NBB VOL-VZW native PDF **2026-00120109** (488538 B / 31p; AV 30-04-2026; neergelegd 26/05/2026; MD5 1840f630b71ce448d9c9f95d70c51c83). VOL-VZW 733 **EUR5373144** (+4.98%); 62 **EUR4551671**; 9901 **EUR17099** (was 195881); 9904 4246; equity 4706438; cash 235240; FTE 59,7 (was 59,1).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_ckg_kinderland_antwerpen_vaph_matrix_733_5_37m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2629/; rq_2629=done; spawn **rq_2630**; ticks=2629.
+- Next: **rq_2630 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
