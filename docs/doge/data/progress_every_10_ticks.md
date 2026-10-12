@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2810** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2800; 2801-2809 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2801-2809 residual dual L5 (not near-complete of 348bn):** De Overbron (Neder-Over-Heembeek) · Serviceresidentie Parkhof (Herent) · Umanis (Deinze) · Kinderdagverblijf Het Mezennestje (Landen) · Bricoteam (Schaarbeek) · Seniorenresidentie Meulenberg Beveren · Envía Waas · Thuis Leven (Arendonk) · Steunpunt Mantelzorg (Brussel) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2470** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2522** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2801-2809** De Overbron (Neder-Over-Heembeek) · Serviceresidentie Parkhof (Herent) · Umanis (Deinze) · Kinderdagverblijf Het Mezennestje (Landen) · Bricoteam (Schaarbeek) · Seniorenresidentie Meulenberg Beveren · Envía Waas · Thuis Leven (Arendonk) · Steunpunt Mantelzorg (Brussel).
+
+### Inventory (tick 2810)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 58264 |
+| commitments.csv | 6522 |
+| leaderboard.csv | 8642 |
+| entities.csv | 2541 |
+| sources.csv | 8497 |
+| FOI ready | 2470 |
+| FOI total rows | 2522 |
+| research_queue open | rq_2810 (carried; next: Brussels French-language home-care ASBLs (need French FOI draft; Centre Familial de Bruxelles 13.1m, Aide familiale 11.1m) and more Flemish 87.xxx/88.1xx VZWs) |
+
+### What improved since tick 2800
+
+- **New source (tick2801-2809):** De Overbron (Neder-Over-Heembeek) · Serviceresidentie Parkhof (Herent) · Umanis (Deinze) · Kinderdagverblijf Het Mezennestje (Landen) · Bricoteam (Schaarbeek) · Seniorenresidentie Meulenberg Beveren · Envía Waas · Thuis Leven (Arendonk) · Steunpunt Mantelzorg (Brussel). Source: KBO NACE-BEL 87.301/87.302 and 88.101 activity searches over Brussels and remaining Flemish postcodes ranked by primary figure (larger recipients first), topped up with one larger 88.911 childcare VZW.
+- **FOI addresses:** all 9 general mailboxes verified on opened official pages (no NEEDS VERIFICATION).
+- **Runner note:** 2576-2810 ran on the local fallback runner (Actions last ticked 2575), from the fresh clone /workspace/AIpolitics-loop since 2681; toolkit persistent at /workspace/AIpolitics-loop-tk. Do not run both at once.
+- **Rejected 2801-2809 (fast):** Participo CM Vlaams-Brabant en Brussel (no general mailbox); Zusters van Liefde Kortrijk (only H.Hart group mailbox); Zusterkens der Armen (congregation mailbox only); French-language Brussels ASBLs (deferred: Dutch FOI draft would not fit); OTV entities (otv.be unreachable).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2800** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

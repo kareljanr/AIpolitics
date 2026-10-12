@@ -30913,3 +30913,14 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@steunpuntmantelzorg.be — general mailbox verified on official page https://steunpuntmantelzorg.be/contact/ (KBO number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_steunpunt_mantelzorg_vaph_matrix_9900_0_28m_9901_115k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2809/; rq_2809=done; spawn **rq_2810**; ticks=2809.
 - Next: **rq_2810 leftover dual** — Batch done; next: Brussels French-language home-care ASBLs (Centre Familial de Bruxelles 13.1m, Aide familiale Region bruxelloise 11.1m, Gammes, A Vos Cotes) need a French FOI draft and the Brussels openbaarheid rules before they can be added; meanwhile more Flemish 87.xxx/88.1xx VZWs; skipped: Participo CM Vlaams-Brabant en Brussel (no general mailbox), Zusters van Liefde Kortrijk and Zusterkens der Armen (only group/congregation mailboxes), OTV entities (otv.be unreachable).
+
+
+## Tick 2810 — 2026-10-12T15:07:52Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2470** of 2522 rows; inventory budgets 58264 · commitments 6522 · leaderboard 8642 · entities 2541 · sources 8497.
+- Top10: **stable** (2801-2809 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2801-2809: De Overbron (Neder-Over-Heembeek) · Serviceresidentie Parkhof (Herent) · Umanis (Deinze) · Kinderdagverblijf Het Mezennestje (Landen) · Bricoteam (Schaarbeek) · Seniorenresidentie Meulenberg Beveren · Envía Waas · Thuis Leven (Arendonk) · Steunpunt Mantelzorg (Brussel).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2810 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2810 run locally as fallback.
+- Source choice (recorded): ticks 2801-2809 used KBO NACE 87.301/87.302/88.101 searches (Brussels, remaining Flemish postcodes) ranked by size, plus one larger 88.911 childcare VZW. FOI: general mailboxes only, all verified on opened official pages.
+- Next: **rq_2810** — Brussels French-language home-care ASBLs (need French FOI draft; Centre Familial de Bruxelles 13.1m, Aide familiale 11.1m) and more Flemish 87.xxx/88.1xx VZWs.
