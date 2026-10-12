@@ -32663,3 +32663,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kringwinkelkust.be — general mailbox verified on the official Kringwinkel network page https://www.kringwinkel.be/centra/kust (address and VAT number BE0892003783 shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oostende); FOI **gap_kringloopcentrum_kust_vaph_matrix_9900_3_49m_9901_193k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2983/; rq_2983=done; spawn **rq_2984**; ticks=2983.
 - Next: **rq_2984 leftover dual** — Flemish 88.99x batch in progress; next: remaining units of this batch.
+
+
+## Tick 2984 — 2026-10-12T18:32:57Z — rq_2984 leftover dual Job & Co Gent (Sint-Amandsberg) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.991-88.999 social work / sheltered work in 18 Flemish city postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Job & Co** → KBO 0440.802.543 had 0 prior entity rows.
+- KBO: Actief since 8 januari 1990; VZW; zetel Antwerpsesteenweg 573 9040 Gent; 5 VE; 0 prior entity rows for 0440.802.543
+- Found: official NBB VKT-VZW native PDF **2026-00139271** (764745 B / 32p; AV 01-06-2026; neergelegd 04/06/2026; MD5 2a4cb14f0bde488534bb00f1c4be74ac). VKT-VZW 9900 **EUR3465601** (+4.58%); 62 **EUR3175254**; 9901 **EUR92542** (was -1072654); 9904 86987; equity 889200; cash 346792; FTE 44,7 (was 53).
+- FOI address: info@jobenco.be — general mailbox verified on official page https://www.jobenco.be/contact (address Antwerpsesteenweg 573 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_job_en_co_gent_vaph_matrix_9900_3_47m_9901_93k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2984/; rq_2984=done; spawn **rq_2985**; ticks=2984.
+- Next: **rq_2985 leftover dual** — Flemish 88.99x batch in progress; next: remaining units of this batch.
