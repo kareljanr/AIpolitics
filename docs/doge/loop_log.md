@@ -34282,3 +34282,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@indbg.be — secretariat mailbox verified on official contact page https://www.indbg.be/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_ind_beauraing_vaph_matrix_733_8_24m_9901_121k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3144/; rq_3144=done; spawn **rq_3145**; ticks=3144.
 - Next: **rq_3145 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3145 — 2026-10-12T23:22:25Z — rq_3145 leftover dual Collège du Sacré-Coeur (Ganshoren) Ganshoren YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies (pouvoirs organisateurs, ASBL) and related free-education non-profits; KBO name search over school/PO names (legal form ASBL), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Collège du Sacré-Coeur (Ganshoren)** → KBO 0413.553.956 had 0 prior entity rows.
+- KBO: Actief since 31 augustus 1973; VZW; zetel Louis Delhovestraat 65 1083 Ganshoren; 2 VE; 0 prior entity rows for 0413.553.956
+- Found: official NBB VOL-VZW native PDF **2026-00076349** (406252 B / 34p; AV 07-04-2026; neergelegd 10/04/2026; MD5 00bf267212bc8356a0b6beda51090698). VOL-VZW 733 **EUR7437337** (-0.64%); 62 **EUR6556934**; 9901 **EUR153011** (was 150261); 9904 174605; equity 3726670; cash 1939308; FTE 127,3 (was 126,5).
+- FOI address: info@cscg.be — general mailbox verified on official contact page https://www.cscg-ecole.be/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_sacre_coeur_ganshoren_vaph_matrix_733_7_44m_9901_153k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3145/; rq_3145=done; spawn **rq_3146**; ticks=3145.
+- Next: **rq_3146 leftover dual** — Batch done; next: remaining FWB free-school POs by code 733 after the dedup check: Collège Saint-Michel (0449.420.992, EUR6.20m), Collège Saint-François d'Assise (0409.852.318, EUR6.13m); skipped for mailbox: Ecole professionnelle Asty-Moulin (no general mailbox on its official site), Sacré-Coeur de Jette and Collège Saint-Hubert (no mailbox readable on official pages).
