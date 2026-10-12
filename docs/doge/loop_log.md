@@ -29032,3 +29032,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00196109** (306449 B / 22p; AV 26-05-2026; neergelegd 24/06/2026; MD5 bd3b8c02234a69abd1d6c5b6fa241b77). VKT-VZW 9900 **EUR630182** (-1.11%); 62 **EUR242798**; 9901 **EUR83288** (was 93612); 9904 97794; equity 4441301; cash 734356; FTE 3,8 (was 3,6).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.45; entities +1 (parent city_sint_niklaas); FOI **gap_vrij_clb_anker_sint_niklaas_vaph_matrix_9900_630k_9901_83k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2618/; rq_2618=done; spawn **rq_2619**; ticks=2618.
 - Next: **rq_2619 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2619 — 2026-10-12T08:11:55Z — rq_2619 leftover dual Vrij CLB De Havens Brugge YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Vrij CLB-netwerk / VAPH MDT list (tid:1393): **Vrij CLB De Havens** → KBO 0410.541.117 had 0 prior entity rows. Skipped: Vrij CLB Halle 0410.542.008 (VKT without parseable bruto margin).
+- KBO: Actief since 31 maart 1960; VZW; zetel Sint-Maartensbilk 2, 8000 Brugge; 4 VE; 0 prior entity rows for 0410.541.117
+- Found: official NBB VOL-VZW native PDF **2026-00196769** (1914196 B / 44p; AV 26-05-2026; neergelegd 25/06/2026; MD5 a7542a7f6550b71f3d75bd11df5c1455). VOL-VZW 733 **EUR1104357** (+8.76%); 62 **EUR84994**; 9901 **EUR-44835** (was -93512); 9904 -38169; equity 4272415; cash 922697; FTE 2,1 (was 1,9).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 3.45; entities +1 (parent city_brugge); FOI **gap_vrij_clb_de_havens_brugge_vaph_matrix_733_1_10m_9901_loss_45k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2619/; rq_2619=done; spawn **rq_2620**; ticks=2619.
+- Next: **rq_2620 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
