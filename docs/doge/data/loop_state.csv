@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T19:52:14Z,rq_3025,3025,no,tick3025 leftover dual West-Vlaamse Politieschool Zedelgem 0411.022.652 Strong PDF 2026-00115624 9900 2.25m / 9901 6k; next rq_3026 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T19:52:24Z,rq_3026,3026,no,tick3026 leftover dual Beschut Wonen De Overweg Ieper 0448.683.891 Strong PDF 2026-00199289 9900 2.22m / 9901 83k; next rq_3027 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

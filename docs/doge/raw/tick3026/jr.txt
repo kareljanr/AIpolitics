@@ -1,0 +1,2392 @@
+2026-00199289      0448683891   2025   EUR   23.0.10      m04-f      19/06/2026   87                          VKT-VZW 1
+
+
+
+
+                           JAARREKENING EN ANDERE OVEREENKOMSTIG
+                             HET WETBOEK VAN VENNOOTSCHAPPEN EN
+                           VERENIGINGEN NEER TE LEGGEN DOCUMENTEN
+
+
+
+IDENTIFICATIEGEGEVENS (op datum van de neerlegging)
+
+Naam :               BESCHUT WONEN DE OVERWEG
+Rechtsvorm :         Vereniging zonder winstoogmerk
+Adres :     Poperingseweg                                                   Nr : 71A                Bus :
+Postnummer : 8900                  Gemeente :     Ieper
+Land :    België
+Rechtspersonenregister (RPR) - Ondernemingsrechtbank van            Gent, afdeling Ieper
+Internetadres :    www.beschutwonenieper.be
+E-mailadres :      ives.merlevede@beschutwonenieper.be
+
+
+
+                                                                  Ondernemingsnummer              0448.683.891
+
+
+
+Datum van de neerlegging van het recentste stuk dat de datum van bekendmaking van de
+                                                                                                        04-01-2026
+oprichtingsakte en van de akte tot statutenwijziging vermeldt
+
+
+
+JAARREKENING in            EURO         goedgekeurd door de algemene vergadering van             26-05-2026
+
+
+    met betrekking tot het boekjaar dat de periode dekt van            01-01-2025          tot   31-12-2025
+
+
+                                        Vorig boekjaar van             01-01-2024          tot   31-12-2024
+
+
+De bedragen van het vorige boekjaar zijn identiek met die welke eerder openbaar werden gemaakt.
+
+
+
+Nummers van de secties van het standaardmodel die niet werden neergelegd omdat ze niet dienstig zijn :
+
+ VKT-VZW 6.6, VKT-VZW 8
+
+
+
+
+                                                                                                               Page 1 of 87
+N°      0448683891                                                                                             VKT-VZW 2
+
+
+                                LIJST VAN DE BESTUURDERS EN COMMISSARISSEN
+
+
+
+
+LIJST VAN DE BESTUURDERS EN COMMISSARISSEN
+
+VOLLEDIGE LIJST met naam, voornamen, beroep, woonplaats (adres, nummer, postnummer en gemeente) en functie in de vereniging
+of stichting
+
+
+
+VALLAEYS Bart
+Werf 54
+8970 Poperinge
+BELGIË
+
+
+ROOM Caty
+WEDUWESTRAAT 1
+8902 Zillebeke
+BELGIË
+
+
+VANHAECKE Joost
+Jules Lagaelaan 22
+8800 Roeselare
+BELGIË
+
+
+LUST Lieven
+Wijngaardstraat 28
+8800 Roeselare
+BELGIË
+
+
+CROMBEZ Lynn
+Brugseweg 221
+8900 Ieper
+BELGIË
+
+
+VANHAVERBEKE Patrick
+Ter Olmen 162
+8900 Ieper
+BELGIË
+
+
+PILLEN Peter
+SINT-OMERLAAN 7
+BELGIË
+
+
+LAPORTE Wim
+Witte Mereldreef 23
+8200 Sint-Andries
+BELGIË
+
+
+
+
+                                                                                                                 Page 2 of 87
+N°      0448683891                                                                               VKT-VZW 3.1
+
+
+                                              JAARREKENING
+
+
+
+BALANS NA WINSTVERDELING
+
+                                                      Toel.     Codes   Boekjaar              Vorig boekjaar
+
+ ACTIVA
+ OPRICHTINGSKOSTEN                                             20                     4.955
+
+ VASTE ACTIVA                                                  21/28           1.464.591                1.527.917
+
+ Immateriële vaste activa                              6.1.1   21                     1.708
+
+ Materiële vaste activa                                6.1.2   22/27           1.452.680                1.516.347
+     Terreinen en gebouwen                                     22            1.301.420                 1.365.374
+     Installaties, machines en uitrusting                      23
+
+     Meubilair en rollend materieel                            24                   95.496                 89.189
+     Leasing en soortgelijke rechten                           25                   55.764                 61.340
+     Overige materiële vaste activa                            26
+
+     Activa in aanbouw en vooruitbetalingen                    27                                               444
+
+ Financiële vaste activa                               6.1.3   28                    10.203                    11.570
+
+ VLOTTENDE ACTIVA                                              29/58           1.102.152                1.001.088
+
+ Vorderingen op meer dan één jaar                              29                        0
+     Handelsvorderingen                                        290                      0
+     Overige vorderingen                                       291
+
+                                                               3
+ Voorraden en bestellingen in uitvoering
+     Voorraden                                                 30/36
+
+     Bestellingen in uitvoering                                37
+
+ Vorderingen op ten hoogste één jaar                           40/41               601.190                530.717
+     Handelsvorderingen                                        40                  471.567               412.790
+     Overige vorderingen                                       41                  129.623               117.927
+
+ Geldbeleggingen                                               50/53                    25                        25
+
+ Liquide middelen                                              54/58               444.666                451.477
+
+ Overlopende rekeningen                                        490/1                 56.271                    18.869
+
+ TOTAAL VAN DE ACTIVA                                          20/58           2.571.698                2.529.005
+
+
+
+
+                                                                                                       Page 3 of 87
+N°      0448683891                                                                                                          VKT-VZW 3.2
+
+                                                                                 Toel.     Codes   Boekjaar              Vorig boekjaar
+
+ PASSIVA
+ EIGEN VERMOGEN                                                                           10/15           1.893.356                1.816.727
+
+ Fondsen van de vereniging of stichting                                             6.2   10                    94.646                    94.646
+                                                                                          12
+ Herwaarderingsmeerwaarden
+
+ Bestemde fondsen en andere reserves                                                6.2   13              1.320.800                1.333.200
+
+ Overgedragen winst (verlies)                                          (+)/(-)            14                   398.857               305.219
+
+ Kapitaalsubsidies                                                                        15                    79.053                    83.662
+
+ VOORZIENINGEN EN UITGESTELDE BELASTINGEN                                           6.2   16                    51.844                    54.254
+
+ Voorzieningen voor risico's en kosten                                                    160/5                 51.844                    54.254
+     Pensioenen en soortgelijke verplichtingen                                            160                                                0
+     Belastingen                                                                          161
+
+     Grote herstellings- en onderhoudswerken                                              162
+
+     Milieuverplichtingen                                                                 163
+
+     Overige risico's en kosten                                                           164/5                51.844                 54.254
+
+ Voorzieningen voor terug te betalen subsidies en legaten en                              167
+ voor schenkingen met terugnemingsrecht
+                                                                                          168
+ Uitgestelde belastingen
+
+ SCHULDEN                                                                                 17/49                626.498               658.024
+
+ Schulden op meer dan één jaar                                                      6.3   17                   151.430               188.756
+     Financiële schulden                                                                  170/4               151.430               188.756
+       Kredietinstellingen, leasingschulden en soortgelijke schulden                      172/3          151.430                  188.756
+       Overige leningen                                                                   174/0
+
+     Handelsschulden                                                                      175
+
+     Vooruitbetalingen op bestellingen                                                    176
+
+     Overige schulden                                                                     178/9
+
+ Schulden op ten hoogste één jaar                                                   6.3   42/48                450.730               444.844
+     Schulden op meer dan één jaar die binnen het jaar vervallen                          42                   37.327                 37.212
+     Financiële schulden                                                                  43
+
+       Kredietinstellingen                                                                430/8
+
+       Overige leningen                                                                   439
+
+     Handelsschulden                                                                      44                   42.655                 73.125
+       Leveranciers                                                                       440/4               42.655                73.125
+       Te betalen wissels                                                                 441
+
+     Vooruitbetalingen op bestellingen                                                    46
+
+     Schulden met betrekking tot belastingen, bezoldigingen en                            45                  304.771               304.167
+     sociale lasten
+       Belastingen                                                                        450/3               48.633                45.883
+       Bezoldigingen en sociale lasten                                                    454/9          256.138                  258.284
+     Overige schulden                                                                     48                   65.977                 30.340
+
+ Overlopende rekeningen                                                                   492/3                 24.338                    24.424
+
+ TOTAAL VAN DE PASSIVA                                                                    10/49           2.571.698                2.529.005
+
+
+
+
+                                                                                                                                  Page 4 of 87
+N°      0448683891                                                                                                          VKT-VZW 4
+
+
+RESULTATENREKENING
+
+                                                                              Toel.     Codes   Boekjaar              Vorig boekjaar
+
+ Bedrijfsopbrengsten en bedrijfskosten
+     Brutomarge                                                     (+)/(-)            9900          2.219.699                 2.203.244
+       Waarvan: niet-recurrente bedrijfsopbrengsten                                    76A                 1.242
+       Omzet                                                                           70           1.771.659                1.874.645
+       Lidgeld, schenkingen, legaten en subsidies                                      73                  4.710                  4.596
+       Handelsgoederen, grond- en hulpstoffen, diensten en                             60/61          303.430                  297.858
+       diverse goederen
+     Bezoldigingen, sociale lasten en pensioenen                    (+)/(-)            62            1.918.087                 1.865.712
+     Afschrijvingen en waardeverminderingen op oprichtingskosten,                      630                 122.498               123.080
+     op immateriële en materiële vaste activa
+     Waardeverminderingen op voorraden, op bestellingen in
+     uitvoering en op handelsvorderingen: toevoegingen              (+)/(-)            631/4
+     (terugnemingen)
+     Voorzieningen voor risico's en kosten: toevoegingen            (+)/(-)            635/9                -2.410                 -2.831
+     (bestedingen en terugnemingen)
+     Andere bedrijfskosten                                                             640/8                98.797                 88.382
+     Als herstructureringskosten geactiveerde bedrijfskosten            (-)            649
+
+     Niet-recurrente bedrijfskosten                                                    66A                                              693
+
+ Bedrijfswinst (Bedrijfsverlies)                                    (+)/(-)            9901                  82.727               128.208
+
+ Financiële opbrengsten                                                          6.4   75/76B                 4.435                    2.582
+     Recurrente financiële opbrengsten                                                 75                    4.435                     2.582
+     Niet-recurrente financiële opbrengsten                                            76B
+
+ Financiële kosten                                                               6.4   65/66B                 5.924                    7.121
+     Recurrente financiële kosten                                                      65                    5.924                     7.121
+     Niet-recurrente financiële kosten                                                 66B
+
+ Winst (Verlies) van het boekjaar vóór belasting                    (+)/(-)            9903                  81.238               123.669
+                                                                                       780
+ Onttrekking aan de uitgestelde belastingen
+                                                                                       680
+ Overboeking naar de uitgestelde belastingen
+                                                                    (+)/(-)            67/77
+ Belastingen op het resultaat
+
+ Winst (Verlies) van het boekjaar                                   (+)/(-)            9904                  81.238               123.669
+                                                                                       789
+ Onttrekking aan de belastingvrije reserves
+                                                                                       689
+ Overboeking naar de belastingvrije reserves
+
+ Te bestemmen winst (verlies) van het boekjaar                      (+)/(-)            9905                  81.238               123.669
+
+
+
+
+                                                                                                                               Page 5 of 87
+N°      0448683891                                                                                               VKT-VZW 5
+
+
+RESULTAATVERWERKING
+
+                                                                               Codes   Boekjaar             Vorig boekjaar
+
+ Te bestemmen winst (verlies)                                       (+)/(-)   9906                386.457               439.819
+     Te bestemmen winst (verlies) van het boekjaar                  (+)/(-)   (9905)              81.238               123.669
+     Overgedragen winst (verlies) van het vorige boekjaar           (+)/(-)   14P             305.219                  316.150
+
+ Onttrekking aan het eigen vermogen: fondsen, bestemde fondsen en             791                  12.400                    12.400
+ andere reserves
+
+ Toevoeging aan de bestemde fondsen en andere reserves                        691                                       147.000
+
+ Over te dragen winst (verlies)                                     (+)/(-)   (14)                398.857               305.219
+
+
+
+
+                                                                                                                     Page 6 of 87
+N°      0448683891                                                                                           VKT-VZW 6.1.1
+
+
+TOELICHTING
+
+STAAT VAN DE VASTE ACTIVA
+
+                                                                                 Codes   Boekjaar            Vorig boekjaar
+
+ IMMATERIËLE VASTE ACTIVA
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8059P    XXXXXXXXXX                           12.447
+
+ Mutaties tijdens het boekjaar
+     Aanschaffingen, met inbegrip van de geproduceerde vaste activa             8029                1.708
+     Overdrachten en buitengebruikstellingen                                    8039
+
+     Overboekingen van een post naar een andere                       (+)/(-)   8049
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8059                14.155
+
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8129P    XXXXXXXXXX                           12.447
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                                    8079                   0
+     Teruggenomen                                                               8089
+
+     Verworven van derden                                                       8099
+
+     Afgeboekt na overdrachten en buitengebruikstellingen                       8109
+
+     Overgeboekt van een post naar een andere                         (+)/(-)   8119
+
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8129                12.447
+
+ NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR                                     (21)                 1.708
+
+
+
+
+                                                                                                                      Page 7 of 87
+N°      0448683891                                                                                            VKT-VZW 6.1.2
+
+                                                                                 Codes    Boekjaar            Vorig boekjaar
+
+ MATERIËLE VASTE ACTIVA
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8199P     XXXXXXXXXX                    4.519.887
+
+ Mutaties tijdens het boekjaar
+     Aanschaffingen, met inbegrip van de geproduceerde vaste activa             8169                 58.634
+     Overdrachten en buitengebruikstellingen                                    8179
+
+     Overboekingen van een post naar een andere                       (+)/(-)   8189                 -1.111
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8199            4.577.410
+
+ Meerwaarden per einde van het boekjaar                                         8259P     XXXXXXXXXX
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                                    8219
+
+     Verworven van derden                                                       8229
+
+     Afgeboekt                                                                  8239
+
+     Overgeboekt van een post naar een andere                         (+)/(-)   8249
+
+                                                                                8259
+ Meerwaarden per einde van het boekjaar
+
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8329P     XXXXXXXXXX                    3.003.540
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                                    8279             122.498
+     Teruggenomen                                                               8289
+
+     Verworven van derden                                                       8299
+
+     Afgeboekt na overdrachten en buitengebruikstellingen                       8309                  1.308
+     Overgeboekt van een post naar een andere                         (+)/(-)   8319
+
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8329            3.124.730
+
+ NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR                                     (22/27)         1.452.680
+
+ WAARVAN
+     In volle eigendom van de vereniging of stichting                           8349
+
+
+
+
+                                                                                                                       Page 8 of 87
+N°      0448683891                                                                                 VKT-VZW 6.1.3
+
+                                                                       Codes   Boekjaar            Vorig boekjaar
+
+ FINANCIËLE VASTE ACTIVA
+
+ Aanschaffingswaarde per einde van het boekjaar                       8395P    XXXXXXXXXX                           11.570
+
+ Mutaties tijdens het boekjaar
+     Aanschaffingen                                                   8365
+
+     Overdrachten en buitengebruikstellingen                          8375                1.367
+     Overboekingen van een post naar een andere             (+)/(-)   8385
+
+     Andere mutaties                                        (+)/(-)   8386
+
+ Aanschaffingswaarde per einde van het boekjaar                       8395                10.203
+
+ Meerwaarden per einde van het boekjaar                               8455P    XXXXXXXXXX
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                          8415
+
+     Verworven van derden                                             8425
+
+     Afgeboekt                                                        8435
+
+     Overgeboekt van een post naar een andere               (+)/(-)   8445
+
+                                                                      8455
+ Meerwaarden per einde van het boekjaar
+
+ Waardeverminderingen per einde van het boekjaar                      8525P    XXXXXXXXXX
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                          8475
+
+     Teruggenomen                                                     8485
+
+     Verworven van derden                                             8495
+
+     Afgeboekt na overdrachten en buitengebruikstellingen             8505
+
+     Overgeboekt van een post naar een andere               (+)/(-)   8515
+
+                                                                      8525
+ Waardeverminderingen per einde van het boekjaar
+
+ Niet-opgevraagde bedragen per einde van het boekjaar                 8555P    XXXXXXXXXX
+                                                            (+)/(-)   8545
+ Mutaties tijdens het boekjaar
+                                                                      8555
+ Niet-opgevraagde bedragen per einde van het boekjaar
+
+ NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR                           (28)                10.203
+
+
+
+
+                                                                                                            Page 9 of 87
+N°      0448683891                                                                                                                     VKT-VZW 6.2
+
+
+STAAT VAN DE FONDSEN, BESTEMDE FONDSEN EN VOORZIENINGEN
+
+
+                                                                                                           Boekjaar                 Vorig boekjaar
+ FONDSEN
+     Beginvermogen                                                                                                    50.025                         50.025
+     Permanente financiering                                                                                          44.621                         44.621
+
+
+                                                                                                                                       Bedragen
+     Wijzigingen tijdens het boekjaar
+
+
+
+
+ BESTEMDE FONDSEN
+
+ Waarderingsregels gekozen om de bestemde bedragen te bepalen (post 13 van de passiva)
+     De bestemde fondsen zijn nominaal gewaardeerd en worden gevormd vanuit de resultaatbestemming; ze kunnen aangelegd worden om algemeen omschreven
+     risico's of projecten te dekken. In 2004 werd een bedrag van 372.000 EUR gereserveerd omwille van de meer kost van de nieuwe bureelruimte. Er werd
+     beslist om vanaf 2008 tot en met 2037 jaarlijks een bedrag van 12.400 EUR te ontrekken. De RvB dd. 13/06/2017 besliste om vanaf boekjaar 2016 een
+     bestemd fonds te starten m.b.t. sociaal passief. Dit kan in verschillende fasses opgebouwd worden tot een maximaal bedrag gelijk aan de loonlast
+     van 1 jaar. Het bestuursorgaan dd. 27/06/2024 besliste om éénmalig een bestemd fonds aan te leggen voor het bedrag van 240.000 EUR , dit om
+     investeringen duurzaamheid aan de verschillende woningen te kunnen uitvoeren.
+
+
+                                                                                                                                       Boekjaar
+
+ VOORZIENINGEN
+
+ Uitsplitsing van de post 167 ("Voorzieningen voor terug te betalen subsidies en legaten en voor schenkingen met
+ terugnemingsrecht") van de passiva indien daaronder een belangrijk bedrag voorkomt
+
+
+
+
+                                                                                                                                           Page 10 of 87
+N°      0448683891                                                                                                VKT-VZW 6.3
+
+
+STAAT VAN DE SCHULDEN
+
+                                                                                                          Codes   Boekjaar
+
+ UITSPLITSING VAN DE SCHULDEN MET EEN OORSPRONKELIJKE LOOPTIJD VAN MEER DAN ÉÉN
+ JAAR, NAARGELANG HUN RESTERENDE LOOPTIJD
+ Totaal der schulden op meer dan één jaar die binnen het jaar vervallen                                  (42)                 37.327
+
+ Totaal der schulden met een resterende looptijd van meer dan één jaar doch hoogstens 5 jaar             8912                103.307
+
+ Totaal der schulden met een resterende looptijd van meer dan 5 jaar                                     8913                 48.123
+
+ GEWAARBORGDE SCHULDEN (BEGREPEN IN DE POSTEN 17 EN 42/48 VAN DE PASSIVA)
+ Door Belgische overheidsinstellingen gewaarborgde schulden
+     Financiële schulden                                                                                 8921            110.122
+       Kredietinstellingen, leasingschulden en soortgelijke schulden                                     891            110.122
+       Overige leningen                                                                                  901
+
+     Handelsschulden                                                                                     8981
+
+       Leveranciers                                                                                      8991
+
+       Te betalen wissels                                                                                9001
+
+     Vooruitbetalingen op bestellingen                                                                   9011
+
+     Schulden met betrekking tot bezoldigingen en sociale lasten                                         9021
+
+     Overige schulden                                                                                    9051
+
+ Totaal van de door Belgische overheidsinstellingen gewaarborgde schulden                                9061                110.122
+
+ Schulden gewaarborgd door zakelijke zekerheden gesteld of onherroepelijk beloofd op activa van de
+ vereniging of stichting
+     Financiële schulden                                                                                 8922
+
+       Kredietinstellingen, leasingschulden en soortgelijke schulden                                     892
+
+       Overige leningen                                                                                  902
+
+     Handelsschulden                                                                                     8982
+
+       Leveranciers                                                                                      8992
+
+       Te betalen wissels                                                                                9002
+
+     Vooruitbetalingen op bestellingen                                                                   9012
+
+     Schulden met betrekking tot belastingen, bezoldigingen en sociale lasten                            9022
+
+       Belastingen                                                                                       9032
+
+       Bezoldigingen en sociale lasten                                                                   9042
+
+     Overige schulden                                                                                    9052
+
+ Totaal der schulden gewaarborgd door zakelijke zekerheden gesteld of onherroepelijk beloofd op activa   9062
+ van de vereniging of stichting
+
+
+
+
+                                                                                                                      Page 11 of 87
+N°      0448683891                                                                                         VKT-VZW 6.4
+
+
+RESULTATEN
+
+                                                                              Codes   Boekjaar           Vorig boekjaar
+
+ PERSONEEL
+ Werknemers waarvoor de vereniging of stichting een DIMONA-verklaring heeft
+ ingediend of die zijn ingeschreven in het algemeen personeelsregister
+     Gemiddeld personeelsbestand berekend in voltijdse equivalenten           9087                23,5                    23,4
+
+ OPBRENGSTEN EN KOSTEN VAN UITZONDERLIJKE OMVANG OF
+ UITZONDERLIJKE MATE VAN VOORKOMEN
+ Niet-recurrente opbrengsten                                                  76                 1.242
+     Niet-recurrente bedrijfsopbrengsten                                      (76A)              1.242
+     Niet-recurrente financiële opbrengsten                                   (76B)
+
+ Niet-recurrente kosten                                                       66                                           693
+     Niet-recurrente bedrijfskosten                                           (66A)                                       693
+     Niet-recurrente financiële kosten                                        (66B)
+
+ FINANCIËLE RESULTATEN
+                                                                              6502
+ Geactiveerde interesten
+
+
+
+
+                                                                                                                Page 12 of 87
+N°      0448683891                                                                                                      VKT-VZW 6.5
+
+
+NIET IN DE BALANS OPGENOMEN RECHTEN EN VERPLICHTINGEN
+
+                                                                                                                Codes   Boekjaar
+
+ DOOR DE VERENIGING OF STICHTING GESTELDE OF ONHERROEPELIJK BELOOFDE PERSOONLIJKE                               9149
+ ZEKERHEDEN ALS WAARBORG VOOR SCHULDEN OF VERPLICHTINGEN VAN DERDEN
+ Waarvan
+     Door de vereniging of stichting geëndosseerde handelseffecten in omloop                                    9150
+
+ ZAKELIJKE ZEKERHEDEN
+ Zakelijke zekerheden die door de vereniging of stichting op haar eigen activa werden gesteld of
+ onherroepelijk beloofd als waarborg voor schulden en verplichtingen van de vereniging of stichting
+     Hypotheken
+       Boekwaarde van de bezwaarde activa                                                                       91611         685.652
+       Bedrag van de inschrijving                                                                               91621         940.635
+       Voor de onherroepelijke mandaten tot hypothekeren, het bedrag waarvoor de volmachthebber krachtens het   91631              0
+       mandaat inschrijving mag nemen
+     Pand op het handelsfonds
+       Maximumbedrag waarvoor de schuld is gewaarborgd en waarvoor registratie plaatsvindt                      91711
+
+       Voor de onherroepelijke mandaten tot verpanding van het handelsfonds, het bedrag waarvoor de             91721
+       volmachthebber krachtens het mandaat tot registratie mag overgaan
+     Pand op andere activa of onherroepelijke mandaten tot verpanding van andere activa
+       Boekwaarde van de bezwaarde activa                                                                       91811
+
+       Maximumbedrag waarvoor de schuld is gewaarborgd                                                          91821
+
+     Gestelde of onherroepelijk beloofde zekerheden op nog te verwerven activa
+       Bedrag van de betrokken activa                                                                           91911
+
+       Maximumbedrag waarvoor de schuld is gewaarborgd                                                          91921
+
+     Voorrecht van de verkoper
+       Boekwaarde van het verkochte goed                                                                        92011
+
+       Bedrag van de niet-betaalde prijs                                                                        92021
+
+
+
+
+                                                                                                                            Page 13 of 87
+N°      0448683891                                                                                                      VKT-VZW 6.5
+
+                                                                                                                Codes   Boekjaar
+
+ Zakelijke zekerheden die door de vereniging of stichting op haar eigen activa werden gesteld of
+ onherroepelijk beloofd als waarborg voor schulden en verplichtingen van derden
+     Hypotheken
+       Boekwaarde van de bezwaarde activa                                                                       91612
+
+       Bedrag van de inschrijving                                                                               91622
+
+       Voor de onherroepelijke mandaten tot hypothekeren, het bedrag waarvoor de volmachthebber krachtens het   91632
+       mandaat inschrijving mag nemen
+     Pand op het handelsfonds
+       Maximumbedrag waarvoor de schuld is gewaarborgd en waarvoor registratie plaatsvindt                      91712
+
+       Voor de onherroepelijke mandaten tot verpanding van het handelsfonds, het bedrag waarvoor de             91722
+       volmachthebber krachtens het mandaat tot registratie mag overgaan
+     Pand op andere activa of onherroepelijke mandaten tot verpanding van andere activa
+       Boekwaarde van de bezwaarde activa                                                                       91812
+
+       Maximumbedrag waarvoor de schuld is gewaarborgd                                                          91822
+
+     Gestelde of onherroepelijk beloofde zekerheden op nog te verwerven activa
+       Bedrag van de betrokken activa                                                                           91912
+
+       Maximumbedrag waarvoor de schuld is gewaarborgd                                                          91922
+
+     Voorrecht van de verkoper
+       Boekwaarde van het verkochte goed                                                                        92012
+
+       Bedrag van de niet-betaalde prijs                                                                        92022
+
+
+
+                                                                                                                        Boekjaar
+
+BEDRAG, AARD EN VORM VAN BELANGRIJKE HANGENDE GESCHILLEN EN ANDERE BELANGRIJKE
+VERPLICHTINGEN
+
+
+
+
+REGELING INZAKE HET AANVULLEND RUST- OF OVERLEVINGSPENSIOEN TEN BEHOEVE VAN DE PERSONEELS- OF
+DIRECTIELEDEN
+
+Beknopte beschrijving
+
+Genomen maatregelen om de daaruit voortvloeiende kosten te dekken
+
+
+
+
+                                                                                                                            Page 14 of 87
+N°    0448683891                                                                                                      VKT-VZW 6.5
+
+                                                                                                              Codes   Boekjaar
+
+ PENSIOENEN DIE DOOR DE VERENIGING OF STICHTING ZELF WORDEN GEDRAGEN
+                                                                                                             9220
+ Geschat bedrag van de verplichtingen die voortvloeien uit reeds gepresteerd werk
+   Basis en wijze waarop dit bedrag wordt berekend
+
+
+
+                                                                                                                      Boekjaar
+
+AARD EN ZAKELIJK DOEL VAN BUITENBALANS REGELINGEN
+
+Mits de risico's of voordelen die uit dergelijke regelingen voortvloeien van enige betekenis zijn en voor zover de
+openbaarmaking van dergelijke risico's of voordelen noodzakelijk is voor de beoordeling van de financiële positie
+van de vereniging of stichting
+
+
+
+
+                                                                                                                      Boekjaar
+
+ANDERE NIET IN DE BALANS OPGENOMEN RECHTEN EN VERPLICHTINGEN (met inbegrip van deze die niet
+kunnen worden becijferd)
+
+
+
+
+                                                                                                                          Page 15 of 87
+N°        0448683891                                                                                                                                           VKT-VZW 6.7
+
+
+SOCIALE BALANS
+
+
+
+
+Nummers van de paritaire comités die voor de vereniging of stichting bevoegd zijn:      330
+
+
+
+
+WERKNEMERS WAARVOOR DE VERENIGING OF STICHTING EEN DIMONA-VERKLARING HEEFT INGEDIEND OF DIE ZIJN
+INGESCHREVEN IN HET ALGEMEEN PERSONEELSREGISTER
+
+
+
+
+                                                                                                                         3. Totaal (T) of totaal in 3P. Totaal (T) of totaal in
+                                                                1. Voltijds                   2. Deeltijds                voltijdse equivalenten     voltijdse equivalenten
+                                              Codes                                                                                (VTE)                      (VTE)
+Tijdens het boekjaar en het vorige                              (boekjaar)                    (boekjaar)
+boekjaar                                                                                                                        (boekjaar)                (vorig boekjaar)
+Gemiddeld aantal werknemers                   100                                11,7                             18,8                           23,5                        23,4
+Aantal daadwerkelijk gepresteerde uren        101                             17.190                          16.566                          33.756                      34.239
+Personeelskosten                              102                           1.041.046                        877.041                        1.918.087                   1.865.711
+
+
+
+
+                                                                                                                                                        3. Totaal in voltijdse
+                                                                      Codes               1. Voltijds                        2. Deeltijds
+Op de afsluitingsdatum van het boekjaar                                                                                                                     equivalenten
+Aantal werknemers                                                    105                                     12                                  19                              23
+
+Volgens de aard van de arbeidsovereenkomst
+     Overeenkomst voor een onbepaalde tijd                           110                                     11                                  16                          21,5
+     Overeenkomst voor een bepaalde tijd                             111                                      1                                   3                           1,5
+     Overeenkomst voor een duidelijk omschreven werk                 112
+     Vervangingsovereenkomst                                         113
+
+Volgens het geslacht en het studieniveau
+     Mannen                                                          120                                      7                                   3                           8,4
+          lager onderwijs                                            1200
+          secundair onderwijs                                        1201                                     1                                   2                              2
+          hoger niet-universitair onderwijs                          1202                                     5                                   1                           5,4
+          universitair onderwijs                                     1203                                     1                                                                  1
+     Vrouwen                                                         121                                      5                                  16                          14,6
+          lager onderwijs                                            1210
+          secundair onderwijs                                        1211                                                                         5                           2,6
+          hoger niet-universitair onderwijs                          1212                                     4                                  11                              11
+          universitair onderwijs                                     1213                                     1                                   0                              1
+
+Volgens de beroepscategorie
+     Directiepersoneel                                               130
+     Bedienden                                                       134                                     12                                  15                          21,7
+     Arbeiders                                                       132                                                                          4                           1,3
+     Andere                                                          133
+
+
+
+
+                                                                                                                                                                   Page 16 of 87
+N°        0448683891                                                                                                                           VKT-VZW 6.7
+
+
+TABEL VAN HET PERSONEELSVERLOOP TIJDENS HET BOEKJAAR
+
+
+
+
+                                                                                                                                        3. Totaal in voltijdse
+                                                                             Codes    1. Voltijds                2. Deeltijds
+INGETREDEN                                                                                                                                  equivalenten
+Aantal werknemers waarvoor de vereniging of stichting tijdens het
+boekjaar een DIMONA-verklaring heeft ingediend of die tijdens het
+boekjaar werden ingeschreven in het algemeen personeelsregister              205                    3                               5                            5
+
+UITGETREDEN
+Aantal werknemers met een in de DIMONA-verklaring aangegeven of
+een in het algemeen personeelsregister opgetekende datum waarop
+hun overeenkomst tijdens het boekjaar een einde nam                          305                    3                               5                        6,8
+
+
+
+
+INLICHTINGEN OVER DE OPLEIDINGEN VOOR DE WERKNEMERS TIJDENS HET BOEKJAAR
+
+
+
+
+                                                                                     Codes              Mannen              Codes             Vrouwen
+
+Totaal van de formele voortgezette beroepsopleidingsinitiatieven ten laste
+van de werkgever
+     Aantal betrokken werknemers                                                     5801                              2    5811                                 6
+     Aantal gevolgde opleidingsuren                                                  5802                             11    5812                             105
+     Nettokosten voor de vereniging of stichting                                     5803                            451    5813                           7.034
+          waarvan brutokosten rechtstreeks verbonden met de opleiding                58031                           451    58131                          7.034
+          waarvan betaalde bijdragen en stortingen aan collectieve fondsen           58032                                  58132
+          waarvan ontvangen tegemoetkomingen (in mindering)                          58033                                  58133
+
+Totaal van de minder formele en informele voortgezette
+beroepsopleidingsinitiatieven ten laste van de werkgever
+     Aantal betrokken werknemers                                                     5821                                   5831
+     Aantal gevolgde opleidingsuren                                                  5822                                   5832
+     Nettokosten voor de vereniging of stichting                                     5823                                   5833
+
+Totaal van de initiële beroepsopleidingsinitiatieven ten laste van de
+werkgever
+     Aantal betrokken werknemers                                                     5841                                   5851
+     Aantal gevolgde opleidingsuren                                                  5842                                   5852
+     Nettokosten voor de vereniging of stichting                                     5843                                   5853
+
+
+
+
+                                                                                                                                                   Page 17 of 87
+N°   0448683891     VKT-VZW 6.8
+
+
+WAARDERINGSREGELS
+
+
+
+
+                      Page 18 of 87
+N°      0448683891                                                                                                                   VKT-VZW 6.8
+
+     WAARDERINGSREGELS
+     BINNEN DE VZW BESCHUT WONEN DE OVERWEG
+     Goedgekeurd na bespreking op RvB BW dd. 13/6/2017
+     Beslissingen:
+     In overeenstemming met de Wet betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder
+     winstoogmerk en de
+     stichtingen waarin gemeld wordt dat grote tot zeer grote vzw's de boekhouding dienen te volgen overeenkomstig de bepalingen
+     van de wet met
+     betrekking tot de boekhouding van de ondernemingen, besluit de raad van bestuur de waarderingsregels (zoals bepaald in het KB
+     , als volgt
+     vast te leggen :
+     1. WAARDERINGEN
+     Oprichtingskosten:
+     De oprichtingskosten worden gewaardeerd tegen hun aanschaffingsprijs.
+     Immateriële vaste activa:
+     De immateriële vaste activa verworven van derden worden gewaardeerd tegen hun aanschaffingsprijs.
+     Materiële vaste activa:
+     De materiële vaste activa worden gewaardeerd tegen hun aanschaffingsprijs of vervaardigingprijs.
+     Financiële vaste activa en vorderingen:
+     Deelnemingen, aandelen en vastrentende effecten (niet van toepassing)
+     ----------------------------------------------------------
+     Deze activa worden gewaardeerd tegen:
+     a) Deelnemingen en aandelen :
+     de aanschaffingswaarde
+     b) Vastrentende effecten :
+     de aanschaffingswaarde
+     Vorderingen (op meer dan één jaar - op ten hoogste één jaar)
+     ----------------------------------------------------------------------
+     De vorderingen uitgedrukt in euro worden geboekt tegen hun nominale waarde op de datum van afsluiting van het boekjaar.
+     Bij de boeking van een vordering (of schuld) voor haar nominale waarde, worden in voorkomend geval in de overlopende
+     rekeningen van het actief
+     geboekt en pro rata temporis in resultaat genomen op grond van de samengestelde intresten :
+     - de rente die bij overeenkomst in de nominale waarde van de vordering of schuld begrepen is;
+     - het disconto op vorderingen of schulden die pas na verloop van een jaar terug betaalbaar zijn (of betaald moeten worden),
+     indien het gaat om
+     een renteloze vordering (of schuld) of een vordering (of schuld) met een abnormaal lage rente.
+     Bij vorderingen of schulden die in termijnen worden betaald en waarvan de rente of het lastenpercentage gedurende de gehele
+     contractduur wordt
+     toegepast op het oorspronkelijke bedrag van de financiering of van de lening, worden de respectieve bedragen van de gelopen
+     rente en het
+     lastenpercentage die in resultaat moeten worden genomen en van de niet gelopen rente en het lastenpercentage die moeten
+     worden overgedragen
+     naar een volgend boekjaar, bepaald door toepassing van de reële rente op het bij het begin van elke periode uitstaande saldo
+     .
+     Voorraden: (niet van toepassing)
+     Indien van toepassing worden de voorraden van goederen gewaardeerd aan aanschaffingswaarde. De aanschaffingswaarde wordt hier
+     uitgedrukt door
+     de aanschaffingsprijs, nl. de aankoopprijs vermeerderd met bijkomende kosten (b.v. vervoer, niet-terugbetaalbare belastingen,
+     …).
+     Wanneer de marktwaarde lager is dan de aanschaffingsprijs, dan wordt gewaardeerd aan marktwaarde.
+     Als waarderingstechniek wordt gekozen voor de F.I.F.O.-techniek (first in, first out). Op die manier is de eindvoorraad
+     gewaardeerd tegen de
+     recentste prijzen.
+     Liquide middelen:
+     De liquide middelen worden geboekt tegen hun nominale waarde.
+     Geldbeleggingen:
+     Het principe van de aanschaffingswaarde moet toegepast worden, d.i. de nominale geldwaarde van de beschikbare gelden of
+     waarden. Bovendien
+     moet elk bestanddeel van het vermogen afzonderlijk gewaardeerd worden.
+     Bij verwerving geldt voor effecten de aanschaffingsprijs. De bijkomende kosten van aanwerving (courtage, taksen) moeten niet
+     bij de
+     aankoopprijs gevoegd worden. Zij mogen rechtstreeks ten laste van het resultaat van het boekjaar geboekt worden.
+     Bij verkoop van de geldbelegging gebeurt de afboeking van de aankoopwaarde volgens de LIFO methode. De eraan verbonden kosten
+     evenals de meerof
+     minwaarde worden verwerkt in de resultatenrekening."
+     Schulden:
+     De schulden worden gewaardeerd tegen hun nominale waarde.
+     Fondsen van de vereniging (passiefzijde balans – klasse 10):
+     In voorkomend geval worden de fondsen gewaardeerd tegen hun nominale waarde.
+     Bestemde fondsen:
+     De bestemde fondsen zijn nominaal gewaardeerd en worden gevormd vanuit de resultaatbestemming; ze kunnen aangelegd worden om
+     algemeen
+     omschreven risico's of projecten te dekken.
+     In 2004 werd een bedrag van 372.000 EUR gereserveerd omwille van de meer kost van de nieuwe bureelruimte. Er werd beslist om
+     vanaf 2008 tot en
+     met 2037 jaarlijks een bedrag van 12.400 EUR te onttrekken.
+     De RvB d.d. 13/6/2017 besliste om vanaf boekjaar 2016 een bestemd fonds te starten m.b.t. sociaal passief. Dit kan in
+     verschillende fases
+     opgebouwd worden tot een maximaal bedrag gelijk aan de loonkost van 1 jaar.
+     Kapitaalsubsidies:
+     Onder deze post worden de subsidies opgenomen die van overheidswege, of andere, werden verkregen met het oog op investeringen
+     in vaste activa,
+     die met eigen middelen gefinancierd worden. De kapitaalsubsidies worden gewaardeerd aan nominale waarde.
+     De subsidies worden geleidelijk afgeboekt via overboeking naar de andere bedrijfsopbrengsten (code 736), volgens hetzelfde
+     ritme als de
+     afschrijving van de vaste activa voor de verwerving waarvan ze werden verkregen, of in voorkomend geval ten belope van het
+     saldo bij
+     realisatie of buitengebruikstelling van de betrokken activa.
+     Krijgt men achteraf – d.i. nadat men de investering reeds uitgevoerd heeft – de subsidie, dan moet men in de boekingen alles
+     regulariseren
+     juist alsof de subsidie vanaf de startdatum van de investering zou ontvangen zijn.
+     De kapitaalsubsidies die niet afhankelijk zijn van een investering in vaste activa worden bij de verkrijging in de
+     resultatenrekening geboekt.
+     2. AFSCHRIJVINGEN
+     Algemeen
+     In principe is het eerste jaar van afschrijving het boekjaar na de investering.
+     Oprichtingskosten:
+     De oprichtingskosten worden slechts op het actief geboekt voor zover ze niet ten laste worden genomen gedurende het boekjaar
+     waarin ze werden
+     besteed.
+     • Oprichtings- en aanloopkosten: afschrijving op 3 jaar lineair.
+     • Intercalaire intresten: afschrijving op 10 jaar lineair.
+     Immateriële vaste activa:
+     De immateriële vaste activa wordt afgeschreven op 3 jaar lineair.
+     Materiële vaste activa:
+     De materiële vaste activa worden als volgt afgeschreven :
+     • Terreinen: niet
+     • Gebouwen: lineair op 33 jaar
+     • Eerste inrichting gebouwen: lineair op 33 jaar
+     • Combinatie van groot onderhoud en structurele aanpassingen: lineair op 20 jaar
+     • Groot onderhoud: lineair op 10 jaar
+     • Medisch materiaal: lineair op 5 jaar
+     • Meubilair: lineair op 10 jaar
+     • Materiaal: lineair op 10 jaar
+     • Rollend materiaal: lineair op 5 jaar
+     • Mat./Meub. Informatica: lineair op 5 jaar
+     - Ingevolge hun technische ontaarding of wegens wijziging van de economische of technologische omstandigheden, of
+     overeenkomstig de fiscale
+     bepalingen ter zake, kunnen versnelde afschrijvingen toegepast worden.
+     - De buiten gebruik gestelde of niet meer duurzaam tot de activiteit van de vereniging bijdragende materiële vaste activa
+     geven aanleiding tot
+     een uitzonderlijke afschrijving opdat de waardering ervan zou overeenstemmen met hun waarschijnlijke realisatiewaarde.
+     Leasing en soortgelijke rechten:
+     De gebruiksrechten betreffende materiële vaste activa waarover de vereniging beschikt op grond van leasing of gelijkaardige
+     overeenkomsten,
+     worden onder de activa opgenomen voor het gedeelte van volgens de overeenkomst te storten termijnen, dat strekt tot de
+     wedersamenstelling van
+     de kapitaalwaarde van het goed waarop de overeenkomst betrekking heeft.
+
+                                                                                                                                       Page 19 of 87
+N°      0448683891                                                                                                                  VKT-VZW 6.8
+
+     De overeenkomstige verplichtingen aan de passiefzijde worden ieder jaar gewaardeerd ten belope van het gedeelte der in de
+     volgende boekjaren
+     te storten termijnen dat strekt tot de wedersamenstelling, van de kapitaalwaarde van het goed waarop de overeenkomst
+     betrekking heeft.
+     3. WAARDEVERMINDERINGEN
+     Financiële vaste activa en vorderingen:
+     Deelnemingen, aandelen en vastrentende effecten(niet van toepassing)
+     --------------------------------------------------------------------------------------
+     - Waardeverminderingen worden toegepast in geval van een duurzame minderwaarde of ontwaarding, verantwoord door de toestand,
+     de rendabiliteit
+     of de vooruitzichten van de betrokken vennootschap.
+     - Op vorderingen en vastrentende effecten, die in de financiële vaste activa zijn opgenomen, worden waardeverminderingen
+     toegepast zo er, voor
+     een gedeelte of het geheel van de vordering, onzekerheid bestaat over de betaling op de vervaldag.
+     Vorderingen op meer dan één jaar - op ten hoogste één jaar
+     ---------------------------------------------------------------------
+     - Deze vorderingen geven aanleiding tot waardeverminderingen indien er, voor een gedeelte of het geheel van de vordering,
+     onzekerheid bestaat
+     over hun betaling op de vervaldag.
+     - Op deze vorderingen worden waardeverminderingen toegepast wanneer hun realisatiewaarde lager ligt dan hun nominale waarde
+     of hun boekwaarde
+     vastgesteld.
+     Voorraden (niet van toepassing):
+     Indien van toepassing worden voor goederen bij derden aangekocht (grondstoffen, hulpstoffen, handelsgoederen en onroerende
+     goederen bestemd
+     voor verkoop) een waarde correctie geboekt om rekening te houden met specifieke kenmerken van het goed (veroudering, schade,
+     …).
+     Geldbeleggingen:
+     Wanneer op de datum van de jaarafsluiting de realisatiewaarde voor het betrokken actief lager is dan de aanschaffingswaarde,
+     of nominale
+     waarde, moet worden overgegaan tot het boeken van waardeverminderingen.
+     Voorheen geboekte waardeverminderingen worden tegen geboekt in de mate dat ze hoger zijn dan wat vereist is volgens een
+     actuele beoordeling.
+     Aanvullende waardeverminderingen worden geboekt om rekening te houden met de risico's inherent aan de aard van de
+     geldbeleggingen.
+     4. TERUGNEMING VAN WAARDEVERMINDERINGEN
+     actuele beoordeling van de minderwaarden waarvoor ze werden gevormd.
+     5. HERWAARDERINGEN
+     Materiële en financiële vaste activa (uitsluitend deelnemingen en aandelen):
+     Deze vaste activa worden geherwaardeerd indien hun waarde, bepaald in functie van hun nut voor de vereniging, op vaststaande
+     en duurzame wijze
+     uitstijgt boven hun boekwaarde.
+     6. VOORZIENINGEN VOOR RISICO'S EN KOSTEN
+     - Deze voorzieningen worden, indien nodig, gevormd om waarschijnlijke of zekere verliezen of kosten te dekken, waarvan het
+     bedrag echter niet
+     vaststaat.
+     Voorbeelden zijn
+     • provisie voor (brug)pensioenen
+     • provisie voor toekomstige loonlasten: de forfaitaire financiering van het begeleidingspersoneel genereert voor een jonge
+     personeelsequipe
+     een budgettair overschot; terwijl dit budget bij een ouder wordende personeelsequipe dit budget onvoldoende zal worden zodat
+     op dat ogenblik
+     de vroeger aangelegde provisie aangesproken zal moeten worden (BW De Overweg gaat uit van een gemiddelde baremieke
+     anciënniteit van 14 jaar).
+     - De voorzieningen voor risico's en kosten worden teruggenomen in de mate waarin ze op het einde van het boekjaar hoger zijn
+     dan vereist
+     volgens een actuele beoordeling van de risico's en kosten waarvoor ze werden gevormd.
+     7. SCHENKINGEN EN LEGATEN IN NATURA
+     - De vereniging waardeert de goederen die haar worden geschonken of nagelaten en die ze voor haar activiteit bestemt en de
+     goederen die
+     kosteloos tot haar beschikking worden gesteld en die ze tegen betaling mag uitbaten, tegen hun marktwaarde of, bij
+     ontstentenis, tegen hun
+     gebruikswaarde.
+     - Indien van toepassing waardeert de vereniging de overige goederen die haar worden geschonken of nagelaten alsmede de
+     diensten die vrijwillig
+     ten bate van de vereniging worden gepresteerd en die bestemd zijn om te worden gerealiseerd, op hun waarschijnlijke
+     realisatiewaarde op het
+     ogenblik van het opmaken van de inventaris of op hun realisatiewaarde indien deze plaatsvindt vóór de inventaris.
+
+
+
+
+                                                                                                                                      Page 20 of 87
+N°   0448683891                                                    VKT-VZW 7
+
+
+                      ANDERE OVEREENKOMSTIG HET WETBOEK VAN
+                  VENNOOTSCHAPPEN EN VERENIGINGEN NEER TE LEGGEN
+                                   DOCUMENTEN
+
+
+
+JAARVERSLAG
+
+
+
+
+                                                                   Page 21 of 87
+JAARVERSLAG
+2025
+
+  VZW BESCHUT WONEN DE OVERWEG – POPERINGSEWEG 71A – 8900 IEPER
+
+
+
+                                                                  Page 22 of 87
+                                                                INHOUDSOPGAVE
+DEEL 1: ORGANISATIE .............................................................................................................................. 1
+   1.1          Erkenning vzw Beschut Wonen De Overweg ......................................................................... 1
+   1.2          Bestuur Algemene Vergadering............................................................................................. 1
+       Leden Rechtspersonen..................................................................................................................... 1
+       Leden Fysieke Personen ................................................................................................................... 1
+       Bestuursorgaan ................................................................................................................................ 1
+   1.3          Personeel ................................................................................................................................ 2
+       Personeelsoverzicht 2025 ................................................................................................................ 2
+       Personeelswijzigingen 2025 ............................................................................................................. 2
+   1.4          Infrastructuur ......................................................................................................................... 3
+       Situering ........................................................................................................................................... 3
+       Infrastructuurwerken in 2025 .......................................................................................................... 4
+DEEL 2: BEWONERS PROCESSEN EN DEMOGRAFIE ................................................................................ 5
+   2.1 Algemeen ....................................................................................................................................... 5
+   2.2 Processen binnen de woonbegeleiding ......................................................................................... 5
+       Bezettingscijfers en leegstand per woonvorm ................................................................................ 5
+       Starters ............................................................................................................................................. 6
+       Intake en wachtlijst .......................................................................................................................... 7
+       Wachttijden...................................................................................................................................... 8
+       Uitstroom ......................................................................................................................................... 9
+   2.3 Begeleiding op eigen adres .......................................................................................................... 11
+   2.4 Incidenten en permanentie ......................................................................................................... 12
+       Incidenten ...................................................................................................................................... 12
+       Permanentie................................................................................................................................... 12
+   2.5 Demografie .................................................................................................................................. 13
+       Het profiel van de bewoner in Beschut Wonen............................................................................. 13
+DEEL 3: INHOUDELIJKE WERKING .......................................................................................................... 19
+   3.1 Inleiding........................................................................................................................................ 19
+   3.2 Inhoudelijke thema’s ................................................................................................................... 19
+   3.3 De buddywerking ......................................................................................................................... 20
+
+
+
+
+                                                                                                                                                                  Page 23 of 87
+DEEL 4: PSYCHIATRISCHE ZORG THUIS.................................................................................................. 22
+   4.1 Inleiding.................................................................................................................................................................... 22
+   4.2 Demografie ............................................................................................................................................................. 22
+   4.3 Instroom................................................................................................................................................................... 24
+       Verwijzers....................................................................................................................................... 24
+       Doelstelling van PZ Heilig Hart ....................................................................................................... 25
+       Periode van aanmelding tot eerste interventie ............................................................................. 26
+
+
+
+DEEL 5: FINANCIEEL VERSLAG EN BEGROTING ......................................................................................27
+   5.1 Balans en resultatenrekening .....................................................................................................28
+   5.2 Analyse jaarrekening...................................................................................................................33
+        5.2.1. Duiding van de balans .........................................................................................................33
+        5.2.2. Financiële analyse en resultaatanalyse ...............................................................................34
+        5.2.3. Resultaten per kostenplaats................................................................................................35
+        5.2.4. Resultaten tegenover vorig boekjaar ..................................................................................38
+        5.2.5. Resultaat en bezetting per huis...........................................................................................41
+        5.2.6. Opbrengsten dagprijs en verblijfsvergoeding .....................................................................42
+        5.2.7. Personeelskosten ................................................................................................................43
+        5.2.8. Toestand leningen ...............................................................................................................44
+        5.2.9. Financiële – en ratioanalyse ................................................................................................46
+        5.2.10. Cash flow ...........................................................................................................................49
+        5.2.11. Interpretatie ......................................................................................................................50
+   5.3 Afschrijvingen en investeringen.................................................................................................51
+   5.4 Inhaalbedragen ............................................................................................................................57
+   5.5 Exploitatiebegroting 2025 ...........................................................................................................58
+   5.6 Investeringsbegroting 2025 .........................................................................................................60
+   5.7 Toelichting jaarrekening ..............................................................................................................61
+        5.7.1. Staat van de oprichtingskosten en de immateriële en financiële vaste activa ...................61
+        5.7.2. Staat van de materiële vaste activa ....................................................................................62
+        5.7.3. Schulden m.b.t. belastingen, bezoldigingen en sociale lasten ............................................63
+
+
+
+
+                                                                                                                                                                                          Page 24 of 87
+DEEL 1: ORGANISATIE
+
+1.1 Erkenning vzw Beschut Wonen De Overweg
+De erkenning van de organisatie loopt ten einde op 31/12/2027.
+
+1.2 Bestuur
+
+Algemene Vergadering
+De algemene vergadering vergaderde in 2025 1 keer en bestaat uit volgende leden:
+
+Leden Rechtspersonen
+Naam                      Rechtsvorm    Adres Zetel              Vaste Vertegenwoordiger
+CGG Largo                 VZW           Jules Lagaelaan 21       Dhr. Lieven Lust
+                                        8800 Roeselare
+Gezondheidszorg           VZW           Koning Albert I Laan 8   Mevr. Cathy Room
+Bermhertigheid Jesu                     8200 Brugge
+
+Leden Fysieke Personen
+Mevr. Lynn Crombez                                Dhr. Joost Vanhaecke
+Dhr. Wim Laporte                                  Dhr. Bart Vallaeys
+Dhr. Patrick Vanhaverbeke                         Dhr. Peter Pillen
+Dhr. Herman Roose                                 Mevr. Katrien Desomer
+Zr. Mieke Kerkhof                                 Dhr. Lieven Lust
+
+Bestuursorgaan
+Het bestuursorgaan vergaderde in 2025 3 keer en bestaat uit volgende leden:
+
+Mevr. Cathy Room, voorzitter                      Dhr. Bart Vallaeys
+Dhr. Wim Laporte, ondervoorzitter                 Dhr. Peter Pillen
+Dhr. Patrick Vanhaverbeke, secretaris             Dhr. Joost Vanhaecke
+Mevr. Lynn Crombez                                Dhr. Lieven Lust
+
+De mandaten van de leden van het bestuursorgaan gelden tot 30/08/2027.
+
+
+
+
+VZW BESCHUT WONEN DE OVERWEG              JAARVERSLAG 2025                                 1
+
+                                                                                               Page 25 of 87
+1.3 Personeel
+Personeelsoverzicht 2025
+                        Gemiddelde                                 VTE
+                        Coördinator                                     1
+                        Teamverantwoordelijke                           1
+                        Woonbegeleiding                               7,27
+                             Norm                                 7,18
+                             Andere Via 6                         0,09
+                        Stuurkracht/Trefpunt                          6,81
+                             Norm                                 3,44
+                             Andere                               3,16
+                             Jobstudent/Flexi-job                 0,21
+                        Psychiatrische Zorg Thuis *                   3,39
+                             Norm                                 2,50
+                             ELP                                  0,89
+                        Administratie                                 1,50
+                        Logistiek (schoonmaak-technische dienst)      0,96
+                        TOTAAL 2025                                21,93 VTE
+
+PZT heeft 1,5 VTE begeleiders waarvan 1 VTE gedetacheerd is aan het mobiel team acuut. Er is een
+0,8 VTE psycholoog in het kader van ELP aanvullende opdrachten, deze werd tijdelijk uitgebreid tot 1
+VTE tot eind 2025.
+
+
+Personeelswijzigingen 2025
+                                     Uit Dienst
+Lin Himpe: 13/06/2025
+Christiane Müller: 30/09/2025 (pensioen)
+Kristina Kimpe: 10/09/2025 (pensioen)
+                                         In Dienst
+Emma Desmyter: nieuwe woonbegeleider vanaf 1/9/2025
+Martine Handschoewerker: nieuwe activiteitenbegeleider vanaf 3/9/2025
+Siel Pieters: jobstudent woonbegeleider 1 maand juli 2025
+Annemie Soetaert: nieuwe activiteitenbegeleider 13/01/2026
+                                        Wijzigingen
+Anne-Sophie Ryon: uitbreiding ELP van 4/5 naar voltijds vanaf 1/10/2025
+Sylvianne Roetynck: voltijds vanaf 1/10/2025
+Steven Logie: werkhervatting 14/04/2025
+Sofie Lesage: tijdelijke uitbreiding 1/11/2025 – 25/01/2026
+
+
+
+
+VZW BESCHUT WONEN DE OVERWEG               JAARVERSLAG 2025                                       2
+
+                                                                                                       Page 26 of 87
+1.4 Infrastructuur
+Situering
+Beschut Wonen De Overweg is erkend voor 77 plaatsen en beschikt over drie grote categorieën van
+woonvormen:
+ - Groepswoning: een woning voor maximaal 5 bewoners. De bewoner beschikt over een eigen
+   kamer van minimaal 12m² voorzien van een wastafel. Andere faciliteiten worden gedeeld met de
+   medebewoners.
+ - Studio: Dit is de term die officieel gehanteerd wordt door de wetgever. In realiteit wordt
+   minimaal een één-slaapkamer-appartement voorzien. De minimale afmeting voor een studio
+   bedraagt 15m², doch de studio’s van Beschut Wonen zijn steeds ruimer.
+ - Individueel wonen: Het betreft apart gelegen woonentiteiten, gehuurd bij een sociale
+   huisvestingsmaatschappij buiten het sociale stelsel of in eigendom van Beschut Wonen. Beschut
+   Wonen biedt binnen de erkenning 3 ruime twee-slaapkamer-appartementen aan in Poperinge, 2
+   eenpersoonswoningen in de duurzame wijk De Vloei in Ieper. Sinds eind 2019 zijn in dezelfde
+   duurzame wijk, de Vloei, 4 nieuwbouwappartementen in gebruik genomen.
+ - BEA: Begeleiding op eigen adres. De bewoner is eigenaar of huurt zelf een woning/appartement.
+
+Adres                             Totaal #       Kamer in      Studio/Individueel   Statuut
+                                  plaatsen     groepswoning         Wonen
+Poperingseweg 71                      6              3                 3            Erfpacht
+Dikkebusseweg 4                       4              3                 1            Eigendom
+Onze-Lieve-Vrouwestraat 12            6              4                 2            Eigendom
+Korte Meersstraat 14                  4              4                 0            Eigendom
+Haiglaan 100                          4              4                 0            Eigendom
+Dikkebusseweg 23                      4              4                 0            Eigendom
+Elverdingestraat 24                   5              5                 0            Eigendom
+Dehaernestraat 12                     5              4                 1            Eigendom
+Diksmuidestraat 61                    7              4                 3            Eigendom
+Capronstraat 5                        4              4                 0            Eigendom
+Poperingseweg 15                      1              0                 1            Eigendom
+Poperingseweg 17                      1              0                 1            Eigendom
+Maltastraat 3                         5              0                 5            Eigendom
+Aurorastraat 1 GLVB                   1              0                 1            Huur
+Poperingseweg 67 (DGH)                5              5                 0            Huur
+Faunastraat 38B                       1              0                 1            Huur
+G. Vramboutplein (Poperinge)          3              0                 3            Huur
+Poperingseweg 6                       4              4                 0            Huur
+Florastraat 2 GLV + 1V                4              0                 4            Huur
+Meenseweg 7/2A                        1              0                 1            BEA
+Capronstraat 24                       1              0                 1            BEA
+Waterkasteelstraat 25                 1              0                 1            BEA
+Totaal aantal plaatsen               77             48                 29
+
+Eigendom                             50
+Erfpacht                              6
+Huur                                 18
+Eigen adres bewoner                   3
+
+
+
+VZW BESCHUT WONEN DE OVERWEG              JAARVERSLAG 2025                                     3
+
+                                                                                                   Page 27 of 87
+Infrastructuurwerken in 2025
+
+Naast noodzakelijke verfraaiingswerken aan enkele huizen, was op infrastructureel vlak de installatie
+van de nieuwe telefonie en het proces om zonne-energie in de woningen in eigendom aan te bieden
+de grootste innovatie in 2025.
+
+Nadat een EPC werd bepaald voor alle woningen, besliste het bestuursorgaan om in een eerste fase
+alle woningen in eigendom te voorzien van zowel zonnepanelen als een thuisbatterij. De
+operationele uitrol gebeurt in het voorjaar 2026.
+
+De telefonie en de telefooncentrale waren aan verandering toe. In samenspraak met de
+bouwcoördinator en het hoofd van de technische dienst van het PZ Heilig Hart werd geopteerd om
+niet meer te werken met een fysieke telefooncentrale, maar om voor elke begeleider een werk-
+smartphone te voorzien en alle telecommunicatie te laten lopen via de microsoft teams app. Het
+systeem werd uitgerold vanaf de zomer van 2025. Er wordt momenteel nog procesmatig gewerkt
+om alle operationele problemen die er nog zijn te verhelpen. Het belangrijktse – de 24uurs
+permanentie – is evenwel steeds gegarandeerd.
+
+Ten slotte werd ook geinvesteerd in de geluidsakkoestiek van het onthaal van de organisatie, middels
+geluidsdempende panelen.
+
+
+
+
+VZW BESCHUT WONEN DE OVERWEG               JAARVERSLAG 2025                                        4
+
+                                                                                                        Page 28 of 87
+DEEL 2: BEWONERS PROCESSEN EN DEMOGRAFIE
+2.1 Algemeen
+Doorheen het jaar werden er in totaal 83 bewoners begeleid binnen de erkenning. Daarnaast werden
+er doorheen het jaar ook gemiddeld 15 bewoners begeleid op eigen adres buiten de erkenning. Op
+deze groep bewoners wordt uitvoerig ingegaan in rubriek 2.3.
+
+2.2 Processen binnen de woonbegeleiding
+In dit deel worden de processen binnen de begeleiding beschreven en worden cijfers besproken van
+opnames, intakes, wachttijden, uitstroom en bezetting.
+
+Bezettingscijfers en leegstand per woonvorm
+
+Bezetting
+In het kader van de optimale opvolging van de bezetting houden we binnen beschut wonen op twee
+manieren de bezettingscijfers bij, met name op basis van gefactureerde ligdagen aan de zorgkassen
+en op basis van betaalde huur.
+
+Het bezettingscijfer in ligdagen ligt steeds lager dan de bezetting op basis van betaalde huur, gezien
+bij tijdelijke opname in het ziekenhuis de huur doorloopt, terwijl er geen ligdagen gefactureerd
+kunnen worden. Voor het bezettingscijfer in ligdagen streven we minimaal 92% bezetting na, voor de
+bezetting op basis van betaalde huur 95%.
+
+
+                                          Evolutie bezetting
+                         100,00
+
+
+                                  96,00
+                          95,00
+                                                                            95,20
+            percentage
+
+
+
+
+                                                  92,32
+                          90,00
+                                                                 90,88                    91,26
+
+                                                                            88,39
+                          85,00      86,13                       86,36
+                                                  85,28
+
+                                                                                          82,57
+                          80,00
+                                     2021         2022           2023       2024          2025
+        Bezettings-% huur            96,00        92,32          90,88      95,20         91,26
+        Bezettings-% ligdagen        86,13        85,28          86,36      88,39         82,57
+
+
+
+
+VZW BESCHUT WONEN DE OVERWEG                  JAARVERSLAG 2025                                      5
+
+                                                                                                        Page 29 of 87
+Een daling van de bezetting zowel op vlak van ligdagen als op basis van betaalde huur deed zich voor
+in 2025. Zoals steeds spelen hier meerdere factoren in mee. Waar de bezetting op basis van
+betaalde huur in 2024 opnieuw de vooropgestelde minimumnorm haalde, zagen we een grote
+uitstroom vanaf maart 2025. Dit kon niet onmiddellijk gecompenseerd worden. De instroom
+gebeurde pas in het najaar. Enkele goedgekeurde kandidaten haakten af na toewijzing van een
+woning, voor enkele kandidaten was er geen passend aanbod en ten slotte was de situatie in de
+Elverdingestraat 24 problematisch met een zeer lange leegstand tot gevolg. Bovendien dienden 7
+van de 10 nieuwe bewoners te starten in het doorgangshuis, waardoor de open plaatsen in
+groepswoningen niet direct ingevuld werden.
+
+Leegstand
+Onderstaand schema geeft aan hoe lang een woonvorm gemiddeld leegstaat (geen huur) tussen een
+vertrekkende en startende bewoner in 2025. In de effectieve duur spelen meerdere factoren een
+rol:
+     - Aantal kandidaten op het moment van het vrijkomen van de woning.
+     - Geschikte kandidaat voor de woonvorm (matching, vraag bewoner).
+     - Inloopperiode van de nieuwe bewoner.
+     - Hoe noodzakelijk is het om werken uit te voeren tussen twee bewoners door?
+
+                       2025           2024           2023          2022            2021
+
+Groepswoning         220 dagen     203 dagen      217 dagen     126 dagen      51 dagen
+                       (n=13)        (n=13)         (n=9)         (n=12)        (n=12)
+Studio               78 dagen      202 dagen      192 dagen     49 dagen       19 dagen
+                        (n=7)         (n=2)         (n=4)          (n=5)         (n=5)
+
+Er was - in tegenstelling tot vorige jaren - een toename van de vraag naar groepswoningen, de welke
+zich nog niet uit in bovenstaande cijfers. Een bijkomende duiding moet daarvoor worden gemaakt
+naar het huis Elverdingsestraat 24 dat quasi een jaar vrij stond. In deze woning was er uitstroom van
+bewoners mede door het zeer dysfunctionele (vanuit psychiatrische pathologie) gedrag van 1
+bewoner. Het maakte het tevens quasi onmogelijk om hier een nieuwe bewoner te laten starten.
+Voor de bewoner in kwestie werd jammer genoeg pas laat op het jaar een blijvend alternatief
+gevonden. Dit leidde tot een langere leegstand van de woning. Pas eind 2025 konden opnieuw
+nieuwe bewoners starten. Ook de huizen Poperingseweg 6 en Poperingseweg 71 hebben een zeer
+specifiek publiek, die toewijzing van een nieuwe bewoner danig kunnen bemoeilijken als een plaats
+vrij komt.
+
+Positief is de daling in de leegstand van de studio’s, die vlugger konden in gebruik worden genomen
+na uitstroom. Vaak gaat het om interne mutaties van bewoners die starten in een studio na een
+verblijf in een groepswoning. Er was globaal minder vraag naar studio’s dan naar groepswoningen in
+2025.
+
+Starters
+                                          2025         2024       2023        2022        2021
+      Vanuit het PZ Heilig Hart             9            8          8          11          10
+      Vanuit andere voorzieningen           1            0          1           1           2
+                                           10            8          9          12          12
+                        Overzicht van het aantal nieuw gestarte bewoners in 2025
+
+
+
+VZW BESCHUT WONEN DE OVERWEG                 JAARVERSLAG 2025                                      6
+
+                                                                                                       Page 30 of 87
+In 2025 startten 10 nieuwe bewoners in Beschut Wonen. Er stonden er 4 op de wachtlijst van 2024
+en 6 op de wachtlijst van 2025. 7 nieuwe bewoners startten in het doorgangshuis, 2 in een
+groepswoning en 1 in een studio. Daarnaast werd nadat een begeleiding op eigen adres gestopt is
+één nieuwe opgestart. Op die manier worden er naast de 77 erkende bewoners nog 15 bewoners
+begeleid op eigen adres.
+
+Intake en wachtlijst
+De eerste stap in de intakeprocedure is voor de meeste kandidaten het vrijblijvende
+kennismakingsgesprek. Nadien kunnen kandidaten bij interesse ook de intakeformulieren
+meenemen.
+
+Eenmaal de intake-formulieren ingevuld, wordt de kandidaat uitgenodigd voor een gesprek met de
+coördinerend psychiater en een gesprek met een woonbegeleider en de teamverantwoordelijke. In
+dit gesprek wordt dieper ingegaan op bepaalde aspecten van het intakeformulier.                 De
+verantwoordelijken voor de intake maken een verslag en advies rond al dan niet goedkeuring op en
+bespreken dit met het volledige team. Vanaf eind 2024 wordt gewerkt met een beslissingsteam. Dit
+wordt toegelicht in het inhoudelijk gedeelte. De kandidaat wordt na definitieve beslissing zo vlug
+mogelijk persoonlijk op de hoogte gebracht.
+
+Beschut Wonen streeft er naar dat het proces van het indienen van de ingevulde intakeformulieren
+tot mededeling over goedkeuring maximaal 1 maand duurt. Meerdere factoren, zoals bijvoorbeeld
+het vinden van een passende afspraak met de psychiater of de psychische gezondheidstoestand van
+de kandidaat, kunnen ertoe leiden dat deze periode langer duurt.
+
+Hieronder wordt een overzicht gegeven van het aantal kennismakingsgesprekken, intakes en
+beslissingen in het afgelopen jaar.
+
+                                                         2025 2024 2023 2022 2021
+             Kennismakingsgesprekken                      37   33   38   34   36
+             Doorverwijzende instantie
+             Psychiatrisch ziekenhuis                     23     15     27     23   25
+             Andere voorzieningen                         14     18     11     11   11
+             Intakeprocedure gestart                      23     11     21     18   25
+             Intakeprocedure nog lopend                    1      1      2      4    5
+             Intakeprocedure stopgezet                     1      3      3      3    2
+             Beslissingen                                 22      9     17     11   18
+             Negatieve beslissing of uitgesteld            6      0      4      2    5
+             Positieve beslissing                         16      9     16      9   13
+                           Overzicht kennismakingen, intakes en beslissingen
+
+Het aantal kennismakingsgesprekken is opnieuw op hetzelfde niveau als voor 2024, waarbij de
+proportie vanuit het PZ Heilig Hart stijgt. Zoals in de afgelopen jaren zijn de andere voorzieningen
+een hele waaier aan diensten. Vaak zijn zij zoekend naar de juiste begeleidingsvorm en wordt de
+intakeprocedure niet gestart. In 2 op 3 gevallen leidt het tot een starten van de procedure en in
+2025 quasi evenveel ook tot een beslissing. Negatieve beslissingen moeten zich vooral situeren in
+aanvragen waarbij er judiciële, administratief-financiële problemen zijn of onvoldoende stabiliteit
+met gebrek aan motivatie om zich te laten behandelen. Tijdens de intakeprocedure wordt ook aan de
+kandidaat naar zijn geprefereerde woonvorm gevraagd en ook de achterliggende motivatie hiervoor.
+
+
+VZW BESCHUT WONEN DE OVERWEG               JAARVERSLAG 2025                                       7
+
+                                                                                                      Page 31 of 87
+Het team van Beschut Wonen kan – weliswaar in overleg met de kandidaat en zijn verwijzer – het
+voorstel doen van een andere woonvorm. Zo wordt bijvoorbeeld regelmatig eerst een verblijf in het
+doorgangshuis voorgesteld bij kandidaten waarvan verwacht wordt dat zij op het ogenblik van de
+goedkeuring nog onvoldoende stabiel of gemotiveerd zullen zijn. Bij kandidaten die nog over een
+eigen woonst beschikken en geen huisvesting wensen bij Beschut Wonen is het moeilijk tot quasi
+onmogelijk om eerst het doorgangshuis voor te stellen.
+
+Na goedkeuring wordt de bewoner op de wachtlijst gezet voor de toegewezen woonvorm. Er kan
+enkel een indicatie gegeven worden van de vermoedelijke wachttijd aan de kandidaat. Beschut
+Wonen voorziet evenwel in de mogelijkheid dat de goedgekeurde kandidaat op regelmatige basis
+geïnformeerd wordt of zelf kan binnenlopen op het aanloopadres om meer te weten over zijn plaats
+en evolutie ervan op de wachtlijst.
+
+In het toewijzen van een woonvorm, meer bepaald van een groepswoning, wordt in eerste instantie
+steeds gekeken naar de chronologie, doch kan het team beslissen om de chronologie over te slaan.
+De enige reden om dit te doen is om een zo goed mogelijke ‘match’ te realiseren tussen de nieuwe
+kandidaat en de reeds aanwezige bewoners van een huis. Om de match te bepalen wordt in de
+intake gepeild naar de wensen van de kandidaat. Met dit matching-principe wordt vermeden dat
+iemand die bijvoorbeeld sterk de nood uit naar een woning met veel sociaal contact terecht komt in
+een bewonersgroep die zeer weinig cohesie vertoont.
+
+Hieronder wordt aangegeven hoeveel kandidaten op de wachtlijst stonden op 31/12 van het
+afgelopen jaar per woonvorm. Het betreft een momentopname van een dynamisch gegeven, die de
+wachtlijst is en mogen hier ook geen grote conclusies aan worden gekoppeld.
+
+             Externe wachtlijst                                                  7
+                                               Doorgangshuis                         2
+                                               Groepswoning                      1
+                                               Studio                            2
+                                               Individueel wonen (BEA)           2
+             Interne wachtlijst                                                  0
+                                               Studio                            0
+                                               Individueel wonen (BEA)           0
+             Totale wachtlijst                                7
+                                  Verdeling wachtlijst op 31/12/2025
+
+Wachttijden
+De wachttijden worden op 2 verschillende manieren gemeten, met name de wachttijd tot het eerste
+aanbod en de totale wachttijd bij start van een kandidaat.
+
+Wachttijd tot eerste aanbod
+
+Een eerste meting geeft aan hoe vlug Beschut Wonen een aanbod kan doen aan de kandidaat, dat zo
+goed mogelijk overeenstemt met zijn wensen: dit is de wachttijd tot het eerste aanbod. Hier worden
+enkel de factoren gemeten inherent aan beschut wonen die de wachttijd bepalen, zoals tijd tot een
+woning vrijkomt, tijd nodig voor het herschilderen van de kamer/studio. Wanneer de bewoner of zijn
+verwijzer dit aanbod weigert omwille van de bijvoorbeeld nog aanwezige psychiatrische instabiliteit
+of financiële problemen, dan stopt deze wachttijd. De gemiddelde wachttijd betreft hier alle gestarte
+
+
+
+VZW BESCHUT WONEN DE OVERWEG               JAARVERSLAG 2025                                        8
+
+                                                                                                       Page 32 of 87
+bewoners, en dus ook deze die op eigen adres startten of in een niet erkende plaats. Voor 2025 gaat
+het in totaal om 11 nieuwe bewoners.
+
+                          2025                 2024            2023          2022          2021
+      Doorgangshuis       154 (n=6)            79 (n=4)        18 (n=5)      158 (n=4)     149 (n=4)
+      Groepswoning        39 (n= 3)            1 (n=1)         22 (n=2)      81 (n=5)      86 (n=7)
+      Studio              6 (n=1)              238 (n=3)       26 (n=3)      192 (n=3)     154 (n=1)
+      Individueel   wonen 42 (n=1)             76 (n=4)        125 (n=5)     7 (n=2)       -
+      (eigen adres)
+      GEMIDDELDE          99                   111             56            134           116
+
+Sinds 2019 wordt actief ingezet om de wachttijd tot eerste aanbod te verlagen. Dit gebeurt onder
+andere door een meer objectieve en strenge selectie van wie start in het doorgangshuis, een
+verlaging van de verblijfsduur in het doorgangshuis tot 1 jaar en tussentijdse evaluaties om te
+vermijden dat kandidaten op het moment van start onnodig starten in het doorgangshuis. Evenwel
+zien we in 2025 dat de meeste kandidaten effectief het doorgangshuis behoefden om te kunnen
+starten. Als daarenboven rekening gehouden wordt met de geschetste situatie in groepswoning
+Elverdingestraat , dan is er voor het eerst sinds 2022 opnieuw een bottleneck in het doorgangshuis
+waardoor de wachttijden opliepen, evenwel nog steeds binnen de vooropgestelde indicator van 180
+dagen.
+
+De gemiddelde wachttijd tot eerste aanbod bij groepswoning was laag, ook bij de starter in de studio
+was dit het gevolg.
+
+Effectieve wachttijd
+
+De effectieve wachttijd is de tijd van goedkeuring tot effectieve start in een woning. Naast de
+wachttijd tot het eerste aanbod, houdt dit ook kandidaat-gebonden redenen in. Deze redenen
+kunnen zeer uiteenlopend zijn en gaan van psychische instabiliteit, financieel-administratieve
+redenen tot twijfel over het al dan niet kiezen voor Beschut Wonen.
+
+Hieronder worden de effectieve wachttijden gegeven van de 11 bewoners die startten in 2025.
+
+                             2025         2024         2023            2022          2021
+Doorgangshuis              199 (n=6)    118 (n=4)    82 (n=5)        242 (n=4)     203 (n=4)
+Groepswoning               97 (n=3)     34 (n=1)     106 (n=2)       132 (n=5)     136 (n=7)
+Studio                     48 (n=1)     360 (n=3)    191 (n=3)       238 (n=3)     154 (n=1)
+Individueel   wonen        108 (n=1)    106 (n=4)    159 (n=5)        7 (n=2)          -
+(eigen adres)
+TOTAAL                         149         167          132                195           159
+
+                               Effectieve wachttijd per woonvorm in dagen
+
+Uitstroom
+Gedurende het verblijf van de bewoner wordt op regelmatige basis door de individuele begeleider
+stilgestaan bij de verdere doelstelling op vlak van huisvesting van de bewoner. Hierbij wordt ook
+stilgestaan of de bewoner zich nog als doel stelt om de stap naar zelfstandig wonen te zetten, al dan
+niet begeleid door het mobiel team. De stap naar zelfstandig wonen kan niet door elke bewoner
+gezet worden. Voor sommigen is beschut wonen, vaak met heel wat extra ondersteunende diensten,
+
+
+VZW BESCHUT WONEN DE OVERWEG                JAARVERSLAG 2025                                           9
+
+                                                                                                           Page 33 of 87
+zoals huishoudhulp, thuisverpleging het hoogst haalbare. Bij anderen ontstaat doorheen de tijd de
+wens en later zelfs het concrete doel om zelfstandig te wonen. Dit proces – dat afhankelijk van de
+bewoner – vaak een langere tijd in beslag neemt, wordt steeds actief begeleid door de toegewezen
+begeleider.
+
+Bewoners op een wachtlijst
+
+Wanneer bewoners zich tot doel stellen om na beschut wonen zelfstandig te wonen bij een sociale
+huisvestingsmaatschappij of om op termijn naar een woonzorgcentrum te gaan, dan wordt hier
+vroegtijdig al een aanvraag voor gedaan. In het kader van een vroegtijdige zorgplanning wordt bij de
+bejaarde en beginnend hulpbehoevende bewoners in samenspraak ook tijdig een aanvraag gedaan
+voor een woonzorgcentrum.
+
+                                                         2025     2024    2023     2022       2021
+         Bewoners      ingeschreven voor                   3        9       5        7         13
+         woonmaatschappij
+         Bewoners ingeschreven voor een                    0        3       1          0        3
+         woonzorgcentrum
+
+Momenteel zijn 3 mensen nog ingeschreven voor sociale huisvesting. De daling is te verklaren vanuit
+de gekende lange wachttijd enerzijds en anderzijds ook met het profiel van het grootste deel van de
+huidige populatie, voor wie uitstroom naar een zelfstandige woonvorm al dan niet met begeleiding
+geen evidentie meer is. Beschut Wonen kan – binnen een groter afsprakenkader gesitueerd – geen
+beroep meer doen op de bijzondere doelgroepenlijst. Evenwel zal dit naar uitstroom weinig invloed
+hebben, gezien de quasi even lange wachttijd op deze lijst.
+
+Intermediair ontslag in 2025
+
+Doorheen hun verblijf in Beschut Wonen worden bewoners af en toe heropgenomen in ofwel het
+psychiatrisch ziekenhuis of behoeven ze een opname omwille van een somatische reden in een
+algemeen ziekenhuis. Hieronder worden deze 2 types van intermediair ontslag besproken.
+
+Tijdelijk ontslag naar Psychiatrisch Ziekenhuis
+
+                                        2025          2024         2023         2022          2021
+        Aantal ontslagen                 38            24           27           29            37
+        Aantal bewoners                  18            19           18           17            21
+                               Intermediair ontslag psychiatrisch ziekenhuis
+
+Het aantal bewoners dat door het jaar intermediair werd opgenomen bleef stabiel, maar het aantal
+opnames in het PZ Heilig Hart was merkelijk hoger in 2025. Het cijfer geeft de instabiliteit en grote
+kwetsbaarheid weer van een niet wezenlijk deel van de begeleide bewoners.
+
+Tijdelijk ontslag naar Algemeen Ziekenhuis
+
+                                          2025        2024        2023     2022        2021
+               Aantal ontslagen            22          17          10       13          13
+               Aantal bewoners             15          15          10       11           9
+                                Intermediair ontslag algemeen ziekenhuis
+
+
+
+
+VZW BESCHUT WONEN DE OVERWEG                   JAARVERSLAG 2025                                      10
+
+                                                                                                          Page 34 of 87
+Het aantal bewegingen naar het Algemeen Ziekenhuis stijgt verder. Het betreft een kwetsbare
+groep, waarbij een kleine 30% meer dan 60 jaar is en waar, bij heel wat mensen diverse lichamelijke
+pathologieën ontstaan, vaak van chronische aard.
+
+Definitief ontslag in 2025
+
+                                         2025        2024       2023     2022   2021
+             Zelfstandig / Familie         4           2          5        8      4
+             Begeleiding op eigen adres    2           -          -        -      3
+             Mobiel Team Langdurig         1           1          -        1      -
+             Ontslag naar PZ Heilig Hart   0           1          1        4      3
+             Andere voorziening (PVT)      3           1          -        1      4
+             Overlijden                    -           2          -        1      1
+             TOTAAL                       10           7          6       15     15
+                                       Definitief ontslag in 2025
+
+Er was een definitief ontslag bij 10 bewoners in 2025. Voor 4 bewoners is dit naar zelfstandig wonen,
+bij 2 werd begeleiding op eigen adres opgestart en bij 1 iemand het mobiel team langdurige zorg.
+Drie bewoners kozen ervoor om naar het Psychiatrisch Verzorgingstehuis te gaan.
+
+2.3 Begeleiding op eigen adres
+                               2025   2024        2023      2022       2021
+Aanmeldingen                     3      5           5         3          1
+Nieuwe starters                  3      7           5         3          2
+Uitstroom                        1      7           0         4          1
+
+Beschut Wonen is erkend voor 77 plaatsen. Omdat er ook een nood bestaat voor wonen op eigen
+adres, al dan niet volgend op een verblijf in Beschut Wonen, besliste het Bestuursorgaan om
+bovenop de 77 erkende plaatsen met huisvesting, 15 plaatsen op eigen adres te voorzien. Deze 15
+plaatsen zijn tijdelijk uitgebreid met 3 erkende plaatsen, door de afstoting van de woning
+Elverdingestraat 24. In 2025 startten drie nieuwe begeleidingen op, telkens ging het om een externe
+aanmelding. Bij 1 bewoner kon de begeleiding succesvol afgerond worden.
+
+Er worden 2 vormen aangeboden. Een eerste is begeleiding op eigen adres (BEA). Inhoudelijk is dit
+hetzelfde als een begeleiding waarbij ook een woning aangeboden wordt. Voor bewoners op eigen
+adres die geen gebruik maken van het plus-aanbod van Beschut Wonen en die maximaal 1 keer om
+de 2 weken een contactmoment hebben met de begeleider, bestaat de formule watchful waiting. In
+deze groep is het blijvend minimale contact noodzakelijk om te kunnen blijven zelfstandig
+functioneren. Er kan dynamisch geswitcht worden tussen de beide formules in functie van noden
+van de bewoner.
+
+Ten slotte blijft ook nazorg bestaan. Nazorg is een formule van maximaal 2 periodes van 3 maand
+met laagfrequent contact tussen de uitgestroomde bewoner en de woonbegeleider om de overgang
+van beschut naar zelfstandig wonen rimpelloos te laten verlopen. In 2025 werden 2 bewoners na
+uitstroom een paar maanden verder begeleid via nazorg.
+
+
+
+
+VZW BESCHUT WONEN DE OVERWEG                 JAARVERSLAG 2025                                     11
+
+                                                                                                       Page 35 of 87
+2.4 Incidenten en permanentie
+Incidenten
+                         2025 2024 2023 2022 2021
+Aanvraag       Gedwongen   1    0    1    2    1
+Opname of verlenging
+Onrustwekkende             0    0    0    0    0
+verdwijning
+Grensoverschrijdend        1    3    2    1    1
+gedrag
+Ernstige suïcidepoging     1    0    1    2    1
+Geslaagde suïcide          0    1    0    0    0
+Brandstichting             0    0    0    0    0
+Druggebruik in de woning   0    0    0    2    1
+Andere                     0    1    0    0    1
+TOTAAL                     3    5    4    7    5
+
+Het aantal incidenten blijft gelukkig relatief laag en          stabiel. 1 maal was er ernstig
+grensoverschrijdend gedrag, met name ernstige verbale agressie naar zowel medebewoners als
+begeleiding. Bij een bewoner diende een gedwongen opname aangevraagd te worden. Verder was
+er een ernstige suïcidepoging die gelukkig geen fatale afloop kende.
+
+Permanentie
+De woonbegeleiding is op weekdagen aanwezig tot 18u30 en op vrijdag tot 17u. Tijdens de avond,
+nacht, weekends en feestdagen is een begeleider evenwel steeds bereikbaar en kan desgevallend
+vlug ter plekke aanwezig zijn. We zien bij startende bewoners, die vaak komen uit een residentiële
+setting met 24uurs aanwezigheid, een hogere frequentie van contact opnemen met de permanentie.
+Vaak gaat het hier dan over kleine problemen en vooral ook niet-dringende problemen. Deze
+worden dan besproken met de bewoner. Naarmate de verblijfsduur toeneemt, zien we evenwel een
+afname van het opbellen van de permanentie voor eerder banale redenen.
+
+                                                   2025 2024 2023 2022 2021
+               Telefoongesprekken inkomend         237 325 205 281 288
+               Telefoongesprekken uitgaand          49   25  102   65  129
+               Ter plaatse gaan                     13    9    9   10    2
+                                Gebruik van de permanentie in 2025
+
+Na het hoge aantal oproepen in 2024 was er een daling analoog aan de jaren voor 2025. Het dient
+hierbij te worden gezegd, dat de 2 personen die in 2024 verantwoordelijk waren voor ongeveer een
+derde, uitstroomden. Er werd 13 keer ter plaatse gegaan. De nuance bij het hogere aantal moet
+worden gemaakt, dat 6 van de 13 interventies gebeurden door een begeleider die enkele straten van
+beschut wonen woont en vlug ter plaatse gaat. Van de 13 interventies ter plekke, ging het 2 keer om
+een val in huis van een bewoner en 1 keer iemand met ernstige tandpijn. De andere interventies zijn
+praktisch van aard (zich buitensluiten, een sleutel kwijt zijn, …)
+
+
+
+
+VZW BESCHUT WONEN DE OVERWEG              JAARVERSLAG 2025                                      12
+
+                                                                                                     Page 36 of 87
+2.5 Demografie
+Het profiel van de bewoner in Beschut Wonen
+In dit deel wordt aan de hand van cijfers een beeld geschetst van de bewonersgroep die doorheen
+het jaar werd begeleid in de organisatie.
+
+Gender
+
+                                Verdeling Man/Vrouw
+      80%
+      70%
+      60%
+      50%
+      40%
+      30%
+      20%
+      10%
+         0%
+                   2021             2022               2023             2024       2025
+      man          72%              68%                    69%          70%        67%
+      vrouw        28%              32%                    31%          30%        33%
+
+Proportionele verdeling man/vrouw in de populatie
+
+Traditioneel ligt het aantal mannen in beschut wonen hoger dan het aantal vrouwen. Doorheen de
+jaren blijft dit onevenwicht stabiel. Dit onevenwicht en het feit dat er hierdoor toch een aantal
+groepswoningen hoofdzakelijk bevolkt worden door mannen, maakt dat het toewijzen van een
+geschikte woning aan een vrouwelijke kandidaat soms moeilijker kan verlopen.
+
+                                                    2025         2024      2023   2022         2021
+< 20 jaar                                            0%           0%        0%     0%           0%
+21 - 30 jaar                                         4%           4%        5%     8%           8%
+31 - 40 jaar                                        19%          18%       19%    19%          17%
+41 - 50 jaar                                        17%          21%       27%    27%          23%
+51 - 60 jaar                                        23%          25%       24%    24%          28%
+61 - 70 jaar                                        31%          26%       18%    15%          16%
+71 - 80 jaar                                         6%           5%        5%     5%           7%
+> 80 jaar                                            0%           1%        1%     1%           1%
+                                  Leeftijdsverdeling bewoners in 2025
+
+
+
+
+VZW BESCHUT WONEN DE OVERWEG                JAARVERSLAG 2025                                  13
+
+                                                                                                   Page 37 of 87
+                     Leeftijdsverdeling bewoners 2025
+                           71 - 80 jaar    > 80 jaar
+                                                        21 - 30 jaar
+                                5%            1%
+                                                             4%
+
+
+                                                                                        < 20 jaar
+
+                                                       31 - 40 jaar                     21 - 30 jaar
+                                                           18%                          31 - 40 jaar
+                          61 - 70 jaar                                                  41 - 50 jaar
+                              26%
+                                                        41 - 50 jaar                    51 - 60 jaar
+                                                            21%
+                                                                                        61 - 70 jaar
+                                              51 - 60 jaar                              71 - 80 jaar
+                                                  25%
+                                                                                        > 80 jaar
+
+
+
+
+De globale leeftijdsverdeling is analoog aan 2024, waarbij de helft van de bewoners tussen de 50 en
+70 jaar is. De gemiddelde leeftijd van de starters bedroeg 53 jaar, de jongste starter was 32 en de
+oudste                                                                                          71.
+
+Gezinssituatie
+
+                                          Gezinssituatie
+                    80%
+                    70%
+                    60%
+                    50%
+                    40%
+                    30%
+                    20%
+                    10%
+                     0%
+                                  2021            2022                 2023     2024     2025
+     Gehuwd                        1%              2%                  1%        0%       0%
+     Ongehuwd                     66%             61%                  60%      58%       60%
+     Weduwe/Weduwnaar              2%              1%                  1%        3%       4%
+     Gescheiden                   30%             36%                  37%      40%       36%
+
+
+                                            Burgerlijke stand van de totale populatie
+
+
+
+
+VZW BESCHUT WONEN DE OVERWEG                    JAARVERSLAG 2025                                       14
+
+                                                                                                            Page 38 of 87
+De populatie in Beschut Wonen bestaat voornamelijk uit alleenstaanden. Ook de verdeling blijft gelijk
+aan de vorige jaren. Enkele bewoners zijn gehuwd doch feitelijk gescheiden. Ongeveer 64% van de
+bewoners heeft geen kinderen.
+
+Psychiatrische problematiek
+
+In principe kunnen personen met elke psychiatrische problematiek terecht in Beschut Wonen. De
+enige uitzondering hierop is een primaire verslaving aan illegale drugs, daarnaast is er ook een
+exclusie voor kandidaten met een uitsluitend sociale problematiek of uitsluitend mentale beperking.
+
+
+                               Psychiatrische problematiek
+                               60%
+                               50%
+                               40%
+                               30%
+                               20%
+                               10%
+                               0%
+                                      2021           2022          2023      2024         2025
+      Psychotische stoornis            49%           52%           41%       40%          39%
+      Stemmingsstoornis                31%           28%           37%       35%          35%
+      Afhankelijkheid van middelen     19%           20%           22%       24%          25%
+
+
+Globaal blijft de verdeling tussen de groepen quasi gelijk. Voor wat betreft de groep mensen met
+een stemmingsstoornis, gaat het hier om een heterogene groep: mensen die na een korte
+hospitalisatie beschut wonen als een tussenstation zien, maar ook hier zijn heel wat mensen die
+afkomstig zijn vanuit een vaak jarenlang verblijf in het ziekenhuis en bij wie beschut wonen het
+hoogst haalbare is. In de groep van mensen met een middelenafhankelijkheid gaat het vaak om
+mensen die in Beschut Wonen verblijven omwille van de gevolgen van het gebruik. Bij hen is vaak de
+geheugenproblematiek sterk uitgesproken. Binnen het rehabilitatief werken in Beschut Wonen staat
+veel meer dan de diagnose ook steeds het toestandsbeeld en de krachten en valkuilen voorop.
+Vanzelfsprekend zijn er ook heel wat bewoners met een multiple problematiek, terwijl in dit
+overzicht vertrokken wordt vanuit de primaire pathologie.
+
+Verblijfsduur populatie
+
+                                      2025          2024        2023      2022       2021
+    <6 maand                          8%            6%          9%        5%         8%
+    6-12 maand                        5%            4%          6%        10%        7%
+    1-2 jaar                          8%            11%         10%       12%        2%
+    2-5 jaar                          24%           23%         22%       18%        24%
+    5-10 jaar                         16%           21%         21%       31%        34%
+    10-15 jaar                        24%           20%         18%       12%        11%
+    >15 jaar                          15%           15%         14%       12%        13%
+                                      100%          100%        100%      100%       100%
+                                     Verdeling verblijfsduur in 2025
+
+
+
+VZW BESCHUT WONEN DE OVERWEG                 JAARVERSLAG 2025                                     15
+
+                                                                                                        Page 39 of 87
+De gemiddelde verblijfsduur van de populatie blijft analoog aan de vorige jaren. De grootste
+proporties betreft bewoners die tussen de 2 en 5 jaar en de 10 tot 15 jaar verblijven in Beschut
+Wonen. Ongeveer 1 op de 5 bewoners verblijft op 31/12/2025 minder dan 2 jaar in Beschut Wonen.
+
+
+
+                      Evolutie Verblijfsduur bij ontslag
+             100%
+              90%
+              80%
+              70%
+
+              60%
+              50%
+
+              40%
+              30%
+
+              20%
+              10%
+
+                0%
+                           2021           2022            2023           2024           2025
+              > 10 jr     26,67%          0,00%           0,00%          14,29%        10,00%
+              5-10 jr     20,00%          46,67%         16,67%          0,00%         20,00%
+              2-5 jr      26,67%          20,00%         33,33%          57,14%        50,00%
+              1-2 jr      6,67%           20,00%          0,00%          14,29%        10,00%
+              <1 jr       20,00%          13,33%         50,00%          14,29%        10,00%
+
+
+
+
+De helft van de bewoners die uitstroomden verbleef tussen de 2 en 5 jaar in beschut wonen. In de
+categorie mensen die uitstroomden naar zelfstandig wonen ging het – met uitzondering van 1
+bewoner die 8 jaar woonde in de organisatie – om mensen die minder dan 5 jaar verbleven, om meer
+specifiek te zijn zelfs onder de 3 jaar. Gemiddeld was de verblijfsduur bij ontslag in 2025 4,3 jaar.
+
+                        Gemiddelde verblijfsduur bij ontslag
+                                  8,00
+                                                  6,71
+                                  6,00
+                                                                                             5,4
+                                                                  4,70                                   4,3
+                                  4,00
+
+                                  2,00                                          1,84
+
+                                  0,00
+                                           2021           2022           2023          2024        2025
+           Gemiddelde verblijfsduur bij
+                                           6,71            4,70          1,84          5,4         4,3
+                    ontslag
+
+
+
+VZW BESCHUT WONEN DE OVERWEG                      JAARVERSLAG 2025                                             16
+
+                                                                                                                    Page 40 of 87
+Dagbesteding
+Samen met de bewoner wordt gestreefd naar het vinden van een passende en gewenste
+dagbesteding. In aanvang van een verblijf is de belangrijkste dagbesteding vaak dagtherapie. Met
+als uitgangspunt de wens en de doelstellingen van de bewoner wordt dan gezocht naar een zinvolle
+dagbesteding. Hieronder wordt de verdeling van de belangrijkste vormen van dagbesteding
+gegeven. Om dit te bepalen wordt die activiteit genomen die in frequentie het meest voorkomt in
+het weekprogramma van de bewoner.
+
+Primaire dagbesteding (Hoofdactiviteit)         2025            2024       2023      2022       2021
+Arbeidszorg (Stuurkracht/Sowepo)                 17%             21%        17%       13%        16%
+Dienstencentrum / Dagverzorging                  16%             18%        19%       11%        13%
+Tewerkstelling (regulier/sociaal)                8%              8%         8%        12%        12%
+Dagtherapie                                      19%             10%        17%       19%        18%
+Huishouden                                       11%             11%        14%       11%        14%
+Andere (Hedera, volledige hospitalisatie)        7%              9%         0%        10%        11%
+Activiteitencentrum                              8%              6%         10%       10%        5%
+Vrijwilligerswerk                                13%             15%        14%       12%        10%
+Opleiding / scholing                             0%              3%         1%        2%         1%
+Nabehandeling/Andere                             0%              0%         0%        1%         0%
+                                               100,00%         100,00%    100,00%   100,00%    100,00%
+
+De bewonersgroep is op veel vlakken zeer heterogeen en dat uit zich ook logischerwijs in de
+hoofdvorm van dagbesteding. De bewonersgroep verandert ook jaarlijks met in- en uitstroom en zo
+ook het beeld van de primaire dagbesteding. Voor 1 op 4 bewoners is tewerkstelling de belangrijkste
+vorm van dagbesteding. Voor ongeveer 1 op de 5 bewoners is daghospitalisatie noodzakelijk en het
+hoofdbestanddeel van hun weekprogramma.
+
+     Arbeid                                 2025       2024        2023      2022     2021
+     Reguliere tewerkstelling                 2          2           2         2        4
+     Maatwerk                                 5          4           4         6        6
+     Arbeidszorgcentrum Stuurkracht 2        17         16          16        13       11
+     Arbeidszorgcentrum andere                1          1           1         1        2
+     Zorgboer                                 5          5           4         3        3
+     Vrijwilligerswerk                       14         16          15        15       15
+
+Het aantal bewoners in een reguliere of maatwerk tewerkstelling bleef gelijk. Arbeidszorg kan in
+een traject aangeboden worden met of zonder focus op doorstroom. In de groep van Beschut
+Wonen zien we dat voor de meesten arbeidszorg de hoogst haalbare vorm van arbeid is, waarbij de
+focus dus niet primair ligt op doorstroom. 17 bewoners werkten doorheen het jaar in Stuurkracht 2,
+iets hoger dan de voorbije jaren.
+
+        Activiteiten- / Dienstencentra             2025 2024 2023 2022 2021 2020
+        Activiteiten en ontmoeting Trefpunt 4       26   24   26   19   17   17
+        Dienstencentrum                              5    7   10   11    7    8
+        Dagverzorgingscentrum                       10   12   12    9   11    8
+
+Voor sommige bewoners zijn deze voorzieningen de hoofdactiviteit, voor anderen een bescheiden
+
+
+VZW BESCHUT WONEN DE OVERWEG                JAARVERSLAG 2025                                    17
+
+                                                                                                      Page 41 of 87
+deel van het weekprogramma. Het is vooral belangrijk dat bewoners naar een voor hen passend
+activiteitencentrum kunnen gaan. Voor mensen met een langdurige problematiek is Trefpunt 4 het
+belangrijkste centrum, waarbij het aantal leden vanuit Beschut Wonen nog iets toenam. Het
+dagverzorgingscentrum is een belangrijke partner voor oudere bewoners die al een zekere zorggraad
+hebben, omdat de focus er naast het recreatieve en ontmoeting tussen leeftijdsgenoten, ook ligt op
+verzorging.
+
+       Vorming/Educatie                         2025      2024        2023     2022   2021
+       Basiseducatie                              0         0           0        0      0
+       Beroepsopleiding                           0         3           0        0      3
+       Diverse vormingen                          5         4           4        5      3
+
+Binnen de bewonersgroep volgde in 2025 niemand een beroepsopleiding of scholing. De diverse
+vormingen die gevolgd worden situeren zich binnen de kunstacademie.
+
+       Vrijetijdsaanbod             2025          2024        2023           2022      2021
+       Vrijetijdsaanbod Beschut
+                                     64            59            52           41        23
+       Wonen
+       UitPAS
+       (Vrijetijdsactiviteiten        0             -            -            -          -
+       cultuur/sport)
+       Inloophuis                     8             -            -            -          -
+       Reizen / Daguitstappen
+                                     29            21            29           30        24
+       (zelfstandig)
+       Reizen / Daguitstappen
+                                     15            16            7            12        3
+       (organisatie)
+       Lid van club/vereniging        6             -            -            -          -
+
+Het vrijetijdsaanbod van Beschut Wonen (maandelijkse weekendactiviteit, minivoetbal en
+maandelijkse omnisport) blijft voor de bewoners heel belangrijk en we zien ook een verdere stijging
+van het aantal bewoners dat eraan deelneemt. De reizen en daguitstappen en maandelijkse
+activiteiten zijn voor veel bewoners omwille van hun psychische en hun financiële toestand vaak de
+enige mogelijkheid om iets dergelijks te kunnen beleven. Een belangrijke factor in het succes is dat
+de inhoud van de maandelijkse activiteit en de daguitstappen volledig bepaald wordt door de
+bewoners zelf tijdens het bewonersoverleg. We merken dat heel wat activiteiten vaak opnieuw
+gekozen worden (bowling, bioscoop en iets eten) en telkens ook evenveel succes hebben. Daarnaast
+worden bewoners ook steeds gestimuleerd om zelf ook activiteiten te doen, los van Beschut Wonen.
+Een nieuwe rubriek is ook het aantal bewoners dat deelneemt aan activiteiten in het inloophuis, dat
+een belangrijke en laagdrempelige aanvulling vormt op het bestaande aanbod.
+
+
+
+
+VZW BESCHUT WONEN DE OVERWEG               JAARVERSLAG 2025                                      18
+
+                                                                                                       Page 42 of 87
+DEEL 3: INHOUDELIJKE WERKING
+
+3.1 Inleiding
+In dit deel wordt een beknopte evaluatie gemaakt van hoe in 2025 werd verder gewerkt aan
+inhoudelijke thema’s.
+
+3.2 Inhoudelijke thema’s
+
+Patrimonium
+
+De organisatie zet in op duurzaamheid. Nadat in 2025 een EPC-score werd opgemaakt voor elke
+woning in eigen beheer, volgde een analyse door de interne werkgroep, die enkele aanbevelingen
+formuleerde naar het Bestuursorgaan. Er werd beslist om elke woning te voorzien van zonnepanelen
+en een huisbatterij van 5 KWh. De plaatsing hiervan zal gebeuren in het voorjaar 2026. Daarnaast
+zal worden geïnvesteerd in het isoleren van vrije zijgevels met minerale wol. Ten slotte zal bij de
+eerste CV ketel die dient vervangen te worden een grondige studie en kostprijsevaluatie gemaakt
+worden of de geleidelijke transitie kan gemaakt worden naar warmtepompen in de woningen.
+
+Intakeprocedure
+
+Er is tevredenheid over de vernieuwde vragenlijst voor kandidaten, deze wordt als
+gebruiksvriendelijker ervaren en tevens zijn ook de antwoorden kwalitatiever, wat belangrijk is voor
+het intake-team. Het werken met een beperkt intake-team zorgt voor dynamiek en wordt door alle
+medewerkers als positief ervaren.
+
+Seksualiteit en intimiteit
+
+Het thema seksualiteit en intimiteit komt meer naar voor in de begeleiding. We ervaren evenwel dat
+er nood is aan vorming hier ook, om hier gerichter begeleiding en advies in te kunnen geven. Na
+enkele korte vormingsmomenten zal begin 2026 het hele team een gerichte vorming krijgen door de
+vzw Aditi.
+
+
+
+
+VZW BESCHUT WONEN DE OVERWEG              JAARVERSLAG 2025                                       19
+
+                                                                                                       Page 43 of 87
+3.3 De buddywerking
+
+De buddywerking wil bijdragen aan het doorbreken van het sociale isolement van psychiatrische
+patiënten. Concreet wordt een buddy gekoppeld aan een persoon met een psychische
+kwetsbaarheid. De invulling van deze contacten wordt bepaald door de persoon en zijn buddy.
+Beschut Wonen engageert zich om voor de regio 3 uur per week te investeren in de buddywerking.
+Dit behelst het coördineren van het hele intakeproces van zowel deelnemer als buddy, het proberen
+te komen tot een match en de ondersteuning van de lopende buddy trajecten. Iedereen, dus zowel
+eigen bewoners als andere zorgvragers, kan zich aanmelden.
+
+Op vandaag zijn geen van de bewoners van beschut wonen opgenomen in het buddy traject.
+
+In 2025 zijn er 2 nieuwe aanmeldingen geweest met de vraag naar een buddy, 6 minder dan in 2024.
+Er meldde zich 1 nieuwe kandidaat buddy aan. Dit lage getal is een gegeven doorheen alle regio’s.
+Er zijn wel 2 wachtende buddy’s die op vandaag nog niet konden gematcht worden.
+
+De totale wachtlijst voor een buddy bedraagt eind 2025 47 deelnemers (45 in 2024). In de totale
+regio (dit is zowel de regio van het netwerk kwadraat, alsook de regio Kortrijk-Menen) zijn er 170
+wachtenden op een buddy.
+
+In 2025 werden opnieuw geen nieuwe duo’s gevormd, en er zijn in totaal nog 4 buddy’s actief in onze
+regio, met een totaal van 23 in de hierboven beschreven regio.
+De grote vraag naar een buddy en het kleine aanbod aan vrijwilligers zorgt voor een groot
+onevenwicht en een lange wachttijd. De geijkte procedure is bovendien complex en van vrij lange
+duur.
+
+
+
+
+VZW BESCHUT WONEN DE OVERWEG              JAARVERSLAG 2025                                      20
+
+                                                                                                     Page 44 of 87
+DEEL 4: PSYCHIATRISCHE ZORG THUIS
+4.1 Inleiding
+
+Psychiatrische Zorg Thuis is en blijft een ruim gekend en zeer laagdrempelig deel van het ruimere
+netwerk GGZ in de regio met een geheel eigen opdracht. Binnen PZT worden 2 principes
+vooropgesteld in de werking naar doorverwijzers en zorgvragers :
+
+    -   Indien je niet weet tot wie je wenden, bel dan naar PZ Heilig Hart
+    -   PZT is een baken van eenvoud in de vaak complexe omgeving van de hulpverlening.
+
+Met het laatste principe bedoelen we dat iedereen kan aanmelden, dat er geen criteria gehanteerd
+worden, geen vragenlijsten en er dus ook geen wachtlijsten zijn bij PZT. Er werken 2,5 VTE
+medewerkers in Psychiatrische Zorg Thuis, waarvan 1 VTE gedetacheerd is naar het mobiel team.
+
+Vanaf oktober 2023 kwam een uitbreiding van het aanbod door de opstart van een
+eerstelijnspsycholoog voor andere opdrachten in de eerste lijn via netwerken en lokale
+multidisciplinaire samenwerkingsverbanden. Dit wordt verder toegelicht in 4.4.
+
+4.2 Demografie
+
+In 2025 waren er 285 aanmeldingen, een lichte stijging en een verdubbeling sinds 2022. In dit hoge
+cijfer zijn ook de aanmeldingen inbegrepen die al dan niet rechtstreeks voortvloeien uit de opdracht
+van de eerstelijnspsychologische functie voor andere opdrachten, gezien dit sterk in het verlengde
+van de reguliere opdracht ligt. Concreet waren dit 38 adviesvragen in 2025.
+
+                               2021                169
+                               2022                142
+                               2023                244
+                               2024                281
+                               2025                285
+                                       Aanmeldingen per jaar
+
+
+
+
+VZW BESCHUT WONEN DE OVERWEG              JAARVERSLAG 2025                                       21
+
+                                                                                                       Page 45 of 87
+We constateren dat de verhouding op vlak van aantal aanmeldingen tussen gemeenten grotendeels
+gelijk zijn gebleven in vergelijking met vorige jaren. Procentueel daalt het aantal aanmeldingen uit
+Langemark-Poelkapelle en Poperinge.
+
+
+
+
+De voorbije jaren werd verder ingezet op het bekendmaken van het ggz aanbod en specifiek ook van
+het aanbod als aanspreekpunt in verschillende gemeenten. We hadden verwacht dat dit meer tot
+nivellering zou leiden, wat het evenwel niet doet. Er zijn grote verschillen per gemeente. Deze
+cijfers werden voorgelegd aan Professor Bruffaerts die een datatraject leidt binnen het netwerk
+Kwadraat. Hij zei dat het streven naar nivellering dient te worden vergeten. Er zijn te veel variabelen
+die dit kunnen beïnvloeden en vaak niet beheersbaar zijn. Zo lijkt het hem logisch dat het hoogste
+aantal aanmeldingen zich situeert in de grootste stad waar tevens het grootste aanbod aan GGZ
+voorzieningen is.. Verder is de hier gehanteerde dataset, met name 285, te klein om vergelijkingen
+te maken. Het cijfer is wel zinvol om per gemeente de evolutie te bekijken.
+
+4.3 Instroom
+Verwijzers
+Psychiatrische Zorg Thuis fungeert als aanspreekpunt. Doorheen de jaren is het een gekende
+organisatie geworden voor alle partners en vooral vanuit de eerste lijn. Dit vertaalt zich dan ook
+jaarlijks in de cijfers, die instaan voor zo’n 75% van de aanmeldingen. Hieronder wordt dieper
+ingegaan welke de voornaamste verwijzers binnen de GGZ en de eerste lijn zijn.
+
+
+
+
+VZW BESCHUT WONEN DE OVERWEG               JAARVERSLAG 2025                                         22
+
+                                                                                                         Page 46 of 87
+                                             2025       2024      2023       2022    2021
+       Aanmelding vanuit de GGZ               74         81        62         38      43
+       Aanmelding    vanuit   andere          211        200       182       104     126
+       sectoren
+       Totaal                                285        281       244        142     169
+                               Aanmeldingen vanuit GGZ en andere sectoren
+
+Aanmelding vanuit de GGZ
+
+De doorverwijzingen vanuit het mobiel team acuut en vanuit het Psychiatrisch Ziekenhuis, de
+psychiater en de Psychiatrische Afdeling Algemeen Ziekenhuis (PAAZ) blijven status quo. In deze
+laatste groep betreft het merendeel hiervan nog steeds de PAAZ, die een korte opnameduur kent en
+waarbij vaak na de opname nog verdere probleemverkenning en toeleiding nodig is. De belangrijkste
+aanmelders in de groep ambulant zijn vooral de eerstelijnspsychologen uit de regio. De ELP binnen
+PZT is tevens aanspreekpersoon voor hen en onderhoudt jaarlijks contact.
+
+
+                                                 2025     2024        2023   2022    2021
+       Mobiel Team Acute Zorg                     12       11          13      6      14
+       Mobiel Team Langdurige Zorg                 3        2           1      0       1
+       Psych. Ziekenhuis/ Psychiater/PAAZ         24       27          24     12      13
+       Ambulant                                   35       41          24     20      15
+                     Totaal                       74       81          62     38      43
+                                   Aanmeldingen vanuit de GGZ in 2025
+
+Aanmelding vanuit andere sectoren
+
+Zo’n 30% van de aanmeldingen vanuit andere sectoren komt traditioneel uit de waaier van
+eerstelijnsdiensten (huisarts, dienst welzijn, CAW). Met deze diensten is de band ook het meest
+uitgesproken, gezien het vooral gaat om de partners van het Adviserend en Ondersteunend Team.
+Voor de resterende aanmeldingen valt op dat veel cliënten zelf (of hun omgeving) de stap zetten. De
+groep andere bevat een ruime waaier aan diensten die sporadisch doorverwijzen en stegen
+opmerkelijk, mede gefaciliteerd door de aanwezigheid van de ELP psycholoog in meerdere
+vindplaatsen in verschillende gemeentes. Binnen deze groep zijn de woonmaatschappijen met 25
+aanmeldingen de grootste.
+
+                                  2025          2024           2023          2022           2021
+Eerstelijnsdiensten                66            56             69            46             61
+Huisarts                           16            12              7             4             12
+Dienst Welzijn                     35            24             37            15             25
+CAW                                15            20             25            27             24
+Cliënt zelf / Familie              36            36             27            17             22
+Jeugdzorg                          22            26             18            14             13
+VAPH-sector                         7             3              0             5              1
+Justitie                           13             8              0             0              0
+Algemeen Ziekenhuis                 0             5              1             2              1
+Andere diensten                    67            66             67            20             28
+Totaal                            211           200            182           104             126
+
+
+
+
+VZW BESCHUT WONEN DE OVERWEG                JAARVERSLAG 2025                                       23
+
+                                                                                                        Page 47 of 87
+Reden van aanmelding
+
+De redenen van aanmelding zijn zeer gevarieerd. Daarbij komt ook dat – gezien heel wat mensen nog
+niet in contact gekomen zijn met andere GGZ-actoren – er vaak nog geen diagnose is. Meer zelfs,
+vaak gebeurt een aanmelding vanuit een multi-problem-situatie waarbij er initieel slechts een zwak
+vermoeden is van psychiatrische pathologie. We hebben de indruk dat de aanmeldingsklachten
+complexer zijn geworden, wat ook het hoge aantal van multi-problem casussen verklaart. Aangezien
+PZT zich ruim profileert moet in onderstaande tabel van aanmeldingen ruimer gerubriceerd worden
+dan de klassieke psychiatrische ziektebeelden.
+
+                                        2025       2024       2023     2022       2021
+             Stemming/Angst              40        28%        31%       37%       44%
+             Persoonlijkheid             4%         9%         8%       10%       12%
+             Psychose                    9%         5%         5%       8,5%      10%
+             Middelen                   12%        23%        20%       14%       17%
+             Multiproblem               30%        32%        32%       13%        4%
+             Ontwikkeling                1%          0         0%        7%        5%
+             Andere/onbekend             4%         3%         4%      10,5%       8%
+                                        100%       100%       100%     100%       100%
+
+
+
+Doelstelling van PZT
+
+De werking richt zich zowel tot de cliënt als tot zijn omgeving en netwerk. Hoe we interveniëren per
+casus is dus sterk wisselend en afhankelijk van het probleem van aanmelding. Daarenboven zal
+gedurende een begeleiding ook de opdracht vaak wijzigen. Zo kan een initiële vraag tot
+ondersteuning van het netwerk leiden tot verdere exploratie bij de cliënt of zelfs toeleiding naar
+zorg. Het rubriceren van wat PZT doet bij een cliënt of zijn netwerk is vaak ook enigszins artificieel.
+Zo zal een proces van toeleiding naar de gepaste zorg al vaak starten nog voor de exploratie afgerond
+is en komt daarbij ook nog het aspect motiveren. Opvallend is ook dat het proces bij een cliënt
+regelmatig discontinu is. Zo kan er na een eerste contact, enige tijd overgaan vooraleer de cliënt
+verdere exploratie wil, of kan na het geven van advies de cliënt het proces afbreken en uitstellen om
+dan later opnieuw contact te nemen met PZTin functie van toeleiding of motivering.
+
+                                                     2025     2024    2023     2022   2021
+
+          Exploratie                                  142     159     138      68        87
+          Toeleiden naar zorg                         73      63      88       52        67
+          Adviserend gesprek                          169     141     84       26        21
+          Ondersteuning professioneel netwerk         107     82      52       37        57
+          Ondersteuning familie                       36      29      21       14        11
+
+Het exploreren van de aanmeldingsvraag, alsook het adviseren vormen logisch de hoofdmoot van
+het werk. Exploratie kan zeer kort zijn en beperkt worden tot 1 interventie, maar kan ook de vorm
+van een proces aannemen. Dit geldt evenzeer voor de meeste van de andere doelstellingen. De rol
+van PZT is daarom ook niet kwantificeerbaar naar aantal interventies per cliënt.
+
+
+
+
+VZW BESCHUT WONEN DE OVERWEG               JAARVERSLAG 2025                                         24
+
+                                                                                                          Page 48 of 87
+Periode van aanmelding tot eerste interventie
+Gezien PZT geen acute aanmeldingen behandelt, wordt gestreefd naar een eerste contact na
+aanmelding binnen de 14 dagen. Dit eerste contact is meestal telefonisch, maar kan ook al een
+huisbezoek zijn. In 98% van de aanmeldingen slaagt het team hierin en zelfs in 92% binnen de week.
+
+Aanmelding – 1ste interventie
+                  2025        2024          2023            2022       2021
+< 1 week           263         257          198             111         118
+1 – 2 weken         19         18            38              19         44
+2 – 3 weken         3           3             5               5          5
+> 3 weken           0           3             3               7          2
+Totaal             285         281          244             142         169
+
+
+
+
+VZW BESCHUT WONEN DE OVERWEG             JAARVERSLAG 2025                                      25
+
+                                                                                                     Page 49 of 87
+Page 50 of 87
+Page 51 of 87
+Page 52 of 87
+Page 53 of 87
+Page 54 of 87
+Page 55 of 87
+Page 56 of 87
+Page 57 of 87
+Page 58 of 87
+Page 59 of 87
+Page 60 of 87
+Page 61 of 87
+Page 62 of 87
+Page 63 of 87
+Page 64 of 87
+Page 65 of 87
+Page 66 of 87
+Page 67 of 87
+Page 68 of 87
+Page 69 of 87
+Page 70 of 87
+Page 71 of 87
+Page 72 of 87
+Page 73 of 87
+Page 74 of 87
+Page 75 of 87
+Page 76 of 87
+Page 77 of 87
+Page 78 of 87
+Page 79 of 87
+Page 80 of 87
+Page 81 of 87
+Page 82 of 87
+Page 83 of 87
+Page 84 of 87
+Page 85 of 87
+Page 86 of 87
+Page 87 of 87
+

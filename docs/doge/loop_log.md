@@ -33083,3 +33083,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: politieschool@campuspov.be — general mailbox of the police school verified on official page https://campuspov.be/contact/ (address Diksmuidse Heirweg 6 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_zedelgem); FOI **gap_west_vlaamse_politieschool_vaph_matrix_9900_2_25m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3025/; rq_3025=done; spawn **rq_3026**; ticks=3025.
 - Next: **rq_3026 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3026 — 2026-10-12T19:52:24Z — rq_3026 leftover dual Beschut Wonen De Overweg Ieper YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish multi-code 85.592/87.101/87.301/88.101/88.911/88.991/88.993/88.999, extended to ~190 further Flemish municipality postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Beschut Wonen De Overweg** → KBO 0448.683.891 had 0 prior entity rows.
+- KBO: Actief since 1 september 1992; VZW; zetel Poperingseweg 71A 8900 Ieper; 1 VE; 0 prior entity rows for 0448.683.891
+- Found: official NBB VKT-VZW native PDF **2026-00199289** (10535774 B / 87p; AV 26-05-2026; neergelegd 19/06/2026; MD5 4570a7522a6926951a947bd62ade1475). VKT-VZW 9900 **EUR2219699** (+0.75%); 62 **EUR1918087**; 9901 **EUR82727** (was 128208); 9904 81238; equity 1893356; cash 444666; FTE 23,5 (was 23,4).
+- FOI address: info@beschutwonenieper.be — general mailbox verified on official page https://www.beschutwonenieper.be/ (shown under the name vzw Beschut Wonen De Overweg).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ieper); FOI **gap_beschut_wonen_de_overweg_vaph_matrix_9900_2_22m_9901_83k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3026/; rq_3026=done; spawn **rq_3027**; ticks=3026.
+- Next: **rq_3027 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
