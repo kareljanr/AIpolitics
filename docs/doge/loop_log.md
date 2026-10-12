@@ -30295,3 +30295,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@hebe-kenniscentrum.be — general mailbox verified on official page https://www.helan.be/hebe/ (Helan group site; address Boomsesteenweg 5 shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_hebe_kenniscentrum_kinderopvang_vaph_matrix_9900_0_79m_9901_loss_9k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2748/; rq_2748=done; spawn **rq_2749**; ticks=2748.
 - Next: **rq_2749 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2749 — 2026-10-12T13:30:48Z — rq_2749 leftover dual Dagcentrum Kasteel Turnhout YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101 (home care) and 88.911 (childcare) activity and name searches, plus Wit-Gele Kruis associations listed on witgelekruis.be: **Dagcentrum Kasteel** → KBO 0445.606.518 had 0 prior entity rows.
+- KBO: Actief since 11 september 1991; VZW; zetel Brugstraat 55 2300 Turnhout; 1 VE; 0 prior entity rows for 0445.606.518
+- Found: official NBB VKT-VZW native PDF **2026-00154147** (45203 B / 13p; AV 18-05-2026; neergelegd 10/06/2026; MD5 9574eebde1d0f01be9efa5e62176b9ac). VKT-VZW 9900 **EUR787756** (+3.50%); 62 **EUR715561**; 9901 **EUR24767** (was 52102); 9904 28396; equity 632451; cash 525010; FTE 10,1 (was 9,6).
+- FOI address: dagcentrumkasteel@theaterstap.be — unit mailbox verified on official page https://www.theaterstap.be/nl/contact (KBO 0445.606.518 shown; general box info@theaterstap.be belongs to Theater Stap, a separate KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_turnhout); FOI **gap_dagcentrum_kasteel_turnhout_vaph_matrix_9900_0_79m_9901_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2749/; rq_2749=done; spawn **rq_2750**; ticks=2749.
+- Next: **rq_2750 leftover dual** — Batch done; next: more NACE 88.911 childcare VZWs and 88.101 home-care services outside the main cities; skipped: Perspectief Oostende (a projectvereniging, not a VZW; needs separate public-body handling), Gezinszorg Ronse (only a named person's mailbox), Kinderdagverblijf De Ketjes (mailbox on site misspelt), Maan en Wolf (no own mailbox), Familiezorg / Familiezorg West-Vlaanderen (already in repo).
