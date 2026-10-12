@@ -33183,3 +33183,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@tennisenpadelvlaanderen.be — general mailbox verified on official page https://www.tennisenpadelvlaanderen.be/contact (KBO number and Louizapoortgalerij 203 bus 3 shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ixelles); FOI **gap_tennis_padel_vlaanderen_vaph_matrix_9900_3_99m_9901_274k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3035/; rq_3035=done; spawn **rq_3036**; ticks=3035.
 - Next: **rq_3036 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3036 — 2026-10-12T20:17:49Z — rq_3036 leftover dual Wijkgezondheidscentrum De Ridderbuurt Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (new codes 93.191 sport federations, 93.121/93.199 sport, 84.130 public administration of economic affairs, 72.200 social-science research; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Wijkgezondheidscentrum De Ridderbuurt** → KBO 0456.109.737 had 0 prior entity rows.
+- KBO: Actief since 6 juni 1995; VZW; zetel Ierse-Predikherenstraat 80 3000 Leuven; 2 VE; 0 prior entity rows for 0456.109.737
+- Found: official NBB VKT-VZW native PDF **2026-00180127** (54699 B / 15p; AV 04-06-2026; neergelegd 22/06/2026; MD5 0e52ff2b9b921bc0fc3da99e8e03c18f). VKT-VZW 9900 **EUR3421751** (+5.77%); 62 **EUR3180209**; 9901 **EUR123524** (was 264577); 9904 113658; equity 2593337; cash 285033; FTE 34,4 (was 32,1).
+- FOI address: info@wgcridderbuurt.be — general mailbox verified on official page https://www.wgcridderbuurt.be/contactgegevens (Predikherenstraat 80 shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_wgc_de_ridderbuurt_vaph_matrix_9900_3_42m_9901_124k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3036/; rq_3036=done; spawn **rq_3037**; ticks=3036.
+- Next: **rq_3037 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
