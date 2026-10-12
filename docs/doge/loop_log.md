@@ -29617,3 +29617,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_asse); FOI **gap_t_spiegeltje_asse_vaph_matrix_9900_1_89m_9901_136k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2681/; rq_2680=done; spawn **rq_2682**; ticks=2681.
 - Next: **rq_2682 leftover dual** — Opgroeien OVBJ Vlaams-Brabant/Brussel list in progress; next: remaining OVBJ Vlaams-Brabant/Brussel units, then IBIS (verify mailbox), then KBO NACE 87/88 lists.
 - FOI fix (tick2681): Dageraad Schilde row gap_dageraad_schilde_vaph_matrix_733_1_32m_9901_16k_l5 — address dageraad@vzwkiosk.be (snippet-only at tick2678) now verified on official homepage https://dageraadvzw.be/; notes updated (surgical, 1 row).
+
+
+## Tick 2682 — 2026-10-12T08:52:48Z — rq_2682 leftover dual Arktos Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Vlaams-Brabant/Brussel list (april 2026): **Arktos** → KBO 0410.346.721 had 0 prior entity rows.
+- KBO: Actief since 19 september 1963; VZW; zetel Valkerijgang 26 3000 Leuven; 39 VE; 0 prior entity rows for 0410.346.721
+- Found: official NBB VOL-VZW native PDF **2026-00079492** (3146864 B / 45p; AV 24-03-2026; neergelegd 10/04/2026; MD5 93d01994ae05da60d154292aaf5726cd). VOL-VZW 733 **EUR17953652** (+4.93%); 62 **EUR16137865**; 9901 **EUR-60517** (was 175581); 9904 -20948; equity 4443903; cash 5385994; FTE 246,3 (was 237).
+- FOI address: info@arktos.be — general mailbox verified on official page https://www.arktos.be/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_arktos_leuven_vaph_matrix_733_17_95m_9901_loss_61k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2682/; rq_2682=done; spawn **rq_2683**; ticks=2682.
+- Next: **rq_2683 leftover dual** — Opgroeien OVBJ Vlaams-Brabant/Brussel list in progress; next: remaining OVBJ Vlaams-Brabant/Brussel units, then IBIS (verify mailbox), then KBO NACE 87/88 lists.
