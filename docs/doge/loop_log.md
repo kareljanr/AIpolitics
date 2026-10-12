@@ -32023,3 +32023,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@hjdw.be — general mailbox verified on official page https://www.hjdw.be/ (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_huize_jan_de_wachter_ganshoren_vaph_matrix_9900_0_39m_9901_87k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2919/; rq_2919=done; spawn **rq_2920**; ticks=2919.
 - Next: **rq_2920 leftover dual** — Batch done; next: large Brussels 87.x VOL filers whose subsidy line (733) is empty and need turnover (70) handling in the toolkit (IRSA Centre de Services EUR20.9m, Coordination bruxelloise d'Institutions sociales EUR9.3m, Société Royale de Philanthropie EUR6.8m, WZC Sint-Jozef EUR4.9m, Heureux Séjour), then a new NACE band; skipped this batch: La Passerelle (no mailbox on own site), Entre Autres and HPB (mailbox not visible on own site), Juan-Luis Vives, Solidaritel, Festina Lente (no own site/mailbox), De Lariks (named person only), Primavera (mailbox only on third-party pages), Janniot (contact page not verifiable), Aides familiales Ganshoren (only the municipality mailbox).
+
+
+## Tick 2920 — 2026-10-12T17:24:17Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2569** of 2621 rows; inventory budgets 59065 · commitments 6621 · leaderboard 8741 · entities 2640 · sources 8794.
+- Top10: **stable** (2911-2919 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2911-2919: C.A.T.S. Le Solbosch (Forest) · Mandragora (Ixelles) · Initiative Antonin Artaud (Bruxelles) · LD3 (Brussel) · Timber (Woluwe-Saint-Pierre) · Nausicaa (Uccle) · GRIP (Schaarbeek) · Tago (Neder-Over-Heembeek) · Huize Jan De Wachter (Ganshoren).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2920 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-2920 run locally as fallback.
+- Next: **rq_2920** — large Brussels 87.x VOL filers once the toolkit handles empty 733 (IRSA, Coordination bruxelloise, Société Royale de Philanthropie, WZC Sint-Jozef), otherwise a new NACE band.
