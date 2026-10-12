@@ -32683,3 +32683,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@duinenwacht.be — general mailbox verified on official page https://www.duinenwacht.be/ (address Karperstraat 8 and KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oostende); FOI **gap_de_duinenwacht_oostende_vaph_matrix_9900_3_11m_9901_46k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2985/; rq_2985=done; spawn **rq_2986**; ticks=2985.
 - Next: **rq_2986 leftover dual** — Flemish 88.99x batch in progress; next: remaining units of this batch.
+
+
+## Tick 2986 — 2026-10-12T18:33:18Z — rq_2986 leftover dual Het Vlaamse Kruis Mechelen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.991-88.999 social work / sheltered work in 18 Flemish city postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Het Vlaamse Kruis** → KBO 0410.937.827 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1927; VZW; zetel Antwerpsesteenweg 261 2800 Mechelen; 5 VE; 0 prior entity rows for 0410.937.827
+- Found: official NBB VKT-VZW native PDF **2026-00076039** (144092 B / 21p; AV 24-03-2026; neergelegd 09/04/2026; MD5 659622215fc3c7565ec0a9cd5b821161). VKT-VZW 9900 **EUR2991882** (+47.11%); 62 **EUR1977827**; 9901 **EUR132738** (was -591749); 9904 301570; equity 1769522; cash 1290273; FTE 26,5 (was 28).
+- FOI address: hz@hvk.be — head-office mailbox verified on official page https://www.hvk.be/contact/ (address Antwerpsesteenweg 261/3 and KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mechelen); FOI **gap_het_vlaamse_kruis_vaph_matrix_9900_2_99m_9901_133k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2986/; rq_2986=done; spawn **rq_2987**; ticks=2986.
+- Next: **rq_2987 leftover dual** — Flemish 88.99x batch in progress; next: remaining units of this batch.
