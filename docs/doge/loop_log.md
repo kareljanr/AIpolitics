@@ -29728,3 +29728,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@arcadevzw.be — general mailbox verified on official page https://www.arcadevzw.be/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gistel); FOI **gap_arcade_gistel_vaph_matrix_733_7_98m_9901_loss_216k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2692/; rq_2692=done; spawn **rq_2693**; ticks=2692.
 - Next: **rq_2693 leftover dual** — OVBJ leftover re-check across the 5 provincial lists (KBO-number match) in progress; next: remaining re-check leftovers, then KBO NACE 87/88 lists.
+
+
+## Tick 2693 — 2026-10-12T09:02:16Z — rq_2693 leftover dual Begeleidingscentrum Bethanie Kortrijk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ West-Vlaanderen list (re-check leftovers): **Begeleidingscentrum Bethanie** → KBO 0408.710.587 had 0 prior entity rows.
+- KBO: Actief since 29 oktober 1927; VZW; zetel Zandstraat(Kor) 26 8500 Kortrijk; 1 VE; 0 prior entity rows for 0408.710.587
+- Found: official NBB VKT-VZW native PDF **2026-00134427** (57278 B / 15p; AV 22-04-2026; neergelegd 03/06/2026; MD5 aa61016e35621d610679ba467ae4d61d). VKT-VZW 9900 **EUR2198920** (+2.95%); 62 **EUR2064937**; 9901 **EUR-23197** (was 36538); 9904 61209; equity 3510895; cash 751790; FTE 25,6 (was 24,1).
+- FOI address: info@bethaniekortrijk.be — general mailbox verified on official page https://www.bethaniekortrijk.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_bethanie_kortrijk_vaph_matrix_9900_2_20m_9901_loss_23k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2693/; rq_2693=done; spawn **rq_2694**; ticks=2693.
+- Next: **rq_2694 leftover dual** — OVBJ leftover re-check across the 5 provincial lists (KBO-number match) in progress; next: remaining re-check leftovers, then KBO NACE 87/88 lists.
