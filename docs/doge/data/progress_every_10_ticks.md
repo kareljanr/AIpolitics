@@ -6,6 +6,43 @@
 
 ---
 
+## Snapshot at **tick 3070** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3060; 3061-3069 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3061-3069 residual dual L5 (not near-complete of 348bn):** Amsab-ISG (Gent) · Centre sportif Mounier (Woluwe-Saint-Lambert) · ADVN (Antwerpen) · Complexe sportif Poseidon (Woluwe-Saint-Lambert) · Histories (Schaarbeek) · Sport 10 30 (Schaarbeek) · Theater Arsenaal (Mechelen) · Kunst in Huis (Brussel) · Ecole de Cirque de Bruxelles (Brussel) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2702** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2756** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 3061-3069** Amsab-ISG (Gent) · Centre sportif Mounier (Woluwe-Saint-Lambert) · ADVN (Antwerpen) · Complexe sportif Poseidon (Woluwe-Saint-Lambert) · Histories (Schaarbeek) · Sport 10 30 (Schaarbeek) · Theater Arsenaal (Mechelen) · Kunst in Huis (Brussel) · Ecole de Cirque de Bruxelles (Brussel).
+
+### Inventory (tick 3070)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 60181 |
+| commitments.csv | 6756 |
+| leaderboard.csv | 8874 |
+| entities.csv | 2773 |
+| sources.csv | 9199 |
+| FOI ready | 2702 |
+| FOI total rows | 2756 |
+| research_queue open | rq_3070 (carried; next: another Flemish activity code, largest first) |
+
+### What improved since tick 3060
+
+- **New source (tick3061-3069):** Amsab-ISG (Gent) · Centre sportif Mounier (Woluwe-Saint-Lambert) · ADVN (Antwerpen) · Complexe sportif Poseidon (Woluwe-Saint-Lambert) · Histories (Schaarbeek) · Sport 10 30 (Schaarbeek) · Theater Arsenaal (Mechelen) · Kunst in Huis (Brussel) · Ecole de Cirque de Bruxelles (Brussel). Source: Belgian publicly funded codes per the steer (no European/international associations): KBO NACE-BEL 91.110/91.120 (libraries, archives), 90.111/90.311/90.130 (arts venues), 93.110/93.210 (municipal sports facilities) and 85.520 (cultural education) over the 59 Flemish city and Brussels postcodes (~3,400 hits triaged), ranked largest first (EUR3.28m-0.94m). The 84.x public-administration codes were also scanned but almost all hits are public-law bodies without NBB filings. All picks passed the dedup check.
+- **Toolkit:** dedup.py on every pick (caught Filmarchief); new funder profiles for cultural archives, arts organisations and municipal sports-facility VZWs/ASBLs; known gap: write.py fails when code 9904 is missing (Waregem Sport skipped).
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION).
+- **Runner note:** 2576-3070 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 3061-3069 (fast, ~5 min cap):** Kunstencentrum VIERNULVIER (EUR6.10m) and De Spil (EUR2.78m) (official sites redirect and could not be opened for mailbox verification), Koninklijk Belgisch Filmarchief (EUR5.22m; duplicate of existing entity cinematek), Bains de Bruxelles (EUR3.64m; only per-pool mailboxes), Waregem Sport (EUR2.22m; code 9904 not extractable from the filing), Triton Evere (site unreachable), Bibliothèques Sans Frontières (no mailbox on opened pages), Brake-Out (only umbrella mailbox), Roma Foundation for Europe, GZA foundation and Agentschap Integratie en Inburgering (not in scope / duplicate).
+- **CCBE (tick3059):** marked weak fit, low priority, do not prioritise sending (tick 3061).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3060** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

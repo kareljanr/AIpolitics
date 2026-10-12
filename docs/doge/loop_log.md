@@ -33532,3 +33532,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ecbru.be — general mailbox verified on official page https://www.ecbru.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ecole_cirque_bruxelles_vaph_matrix_9900_0_94m_9901_40k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3069/; rq_3069=done; spawn **rq_3070**; ticks=3069.
 - Next: **rq_3070 leftover dual** — Batch done; next: remaining culture/sport-facility hits below EUR0.98m or a new Belgian public-body source (e.g. intercommunales, which file company-model accounts the toolkit does not parse yet), largest first, after the dedup check; skipped this batch: Waregem Sport (NBB code 9904 not extractable from the filing), Brake-Out (only the umbrella organisation's mailbox), Kunstencentrum VIERNULVIER (EUR6.10m) and De Spil (EUR2.78m) (official sites redirect and could not be opened for mailbox verification), Koninklijk Belgisch Filmarchief (duplicate of existing entity cinematek), Bains de Bruxelles (only per-pool mailboxes), Triton Evere (site unreachable), Bibliothèques Sans Frontières (no mailbox on opened pages), Roma Foundation for Europe and GZA foundation (not Belgian public-money bodies).
+
+
+## Tick 3070 — 2026-10-12T20:53:13Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2702** of 2756 rows; inventory budgets 60181 · commitments 6756 · leaderboard 8874 · entities 2773 · sources 9199.
+- Top10: **stable** (3061-3069 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3061-3069: Amsab-ISG (Gent) · Centre sportif Mounier (Woluwe-Saint-Lambert) · ADVN (Antwerpen) · Complexe sportif Poseidon (Woluwe-Saint-Lambert) · Histories (Schaarbeek) · Sport 10 30 (Schaarbeek) · Theater Arsenaal (Mechelen) · Kunst in Huis (Brussel) · Ecole de Cirque de Bruxelles (Brussel).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3070 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3070 run locally as fallback.
+- Next: **rq_3070** — remaining culture/sport-facility hits below EUR0.94m, or intercommunales / hospitals (company or hospital accounts models, which the toolkit does not parse yet), largest first, after the dedup check.
