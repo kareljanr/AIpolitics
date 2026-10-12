@@ -31593,3 +31593,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: sosulb@ulb.ac.be — general mailbox verified on official page https://sos-enfants.ulb.be/fr.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_sos_enfants_ulb_bruxelles_vaph_matrix_9900_1_46m_9901_loss_85k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2876/; rq_2876=done; spawn **rq_2877**; ticks=2876.
 - Next: **rq_2877 leftover dual** — Batch done; next: remaining larger hits of the fresh scan (Brussels 88.999 triage, Groupement de Services d'Accompagnement, CATD, Missing Children Europe); the Flemish part of the scan returned almost only bodies already covered.
+
+
+## Tick 2877 — 2026-10-12T16:40:34Z — rq_2877 leftover dual L'Accueil familial (SAAF) Bruxelles (Woluwe-Saint-Lambert) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **L'Accueil familial (SAAF)** → KBO 0409.393.052 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1954; VZW; zetel Paul Hymanslaan 87 bus 1 1200 Sint-Lambrechts-Woluwe; 7 VE; 0 prior entity rows for 0409.393.052
+- Found: official NBB VKT-VZW native PDF **2026-00148598** (54510 B / 15p; AV 20-05-2026; neergelegd 08/06/2026; MD5 89b3871e3f20d076fb3015e9da74ff06). VKT-VZW 9900 **EUR4473593** (+7.10%); 62 **EUR4336409**; 9901 **EUR28104** (was -31083); 9904 20731; equity 2278634; cash 876857; FTE 63,1 (was 58,3).
+- FOI address: bruxelles@accueil-familial.be — general Brussels-office mailbox verified on official page https://www.accueil-familial.be/nous-contacter.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_accueil_familial_woluwe_vaph_matrix_9900_4_47m_9901_28k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2877/; rq_2877=done; spawn **rq_2878**; ticks=2877.
+- Next: **rq_2878 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
