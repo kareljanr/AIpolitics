@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T15:07:52Z,every10_2810,2810,no,tick2810 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2810 carried open; Brussels/remaining-Flemish care batch done; next French-language Brussels ASBLs (French draft needed) and more Flemish 87.xxx/88.1xx VZWs (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T15:12:27Z,rq_2810,2811,no,tick2811 leftover dual Centre Familial de Bruxelles Bruxelles (Schaerbeek) 0408.599.731 Strong PDF 2026-00177457 733 13.07m / 9901 loss 14k; next rq_2812 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

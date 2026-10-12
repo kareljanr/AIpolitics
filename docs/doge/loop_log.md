@@ -30924,3 +30924,13 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2810 run locally as fallback.
 - Source choice (recorded): ticks 2801-2809 used KBO NACE 87.301/87.302/88.101 searches (Brussels, remaining Flemish postcodes) ranked by size, plus one larger 88.911 childcare VZW. FOI: general mailboxes only, all verified on opened official pages.
 - Next: **rq_2810** — Brussels French-language home-care ASBLs (need French FOI draft; Centre Familial de Bruxelles 13.1m, Aide familiale 11.1m) and more Flemish 87.xxx/88.1xx VZWs.
+
+
+## Tick 2811 — 2026-10-12T15:12:27Z — rq_2810 leftover dual Centre Familial de Bruxelles Bruxelles (Schaerbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101/87.301/87.302/87.202 activity searches, Brussels-Capital postcodes (French-language ASBLs), ranked by primary figure: **Centre Familial de Bruxelles** → KBO 0408.599.731 had 0 prior entity rows.
+- KBO: Actief since 4 april 1959; VZW; zetel Solvayplein 4 bus 3 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0408.599.731
+- Found: official NBB VOL-VZW native PDF **2026-00177457** (951320 B / 33p; AV 15-06-2026; neergelegd 18/06/2026; MD5 3c5db0748b3b03edc1ab7aca245971ac). VOL-VZW 733 **EUR13066780** (+11.85%); 62 **EUR15119581**; 9901 **EUR-13734** (was 1104798); 9904 73611; equity 1664631; cash 446442; FTE 322,9 (was 314,8).
+- FOI address: info@centrefamilial.be — general mailbox verified on official page https://centrefamilial.be/declaration-de-confidentialite-2/ (states BCE 0408.599.731; site footer shows 0409.588.791, a different number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_centre_familial_bruxelles_vaph_matrix_733_13_07m_9901_loss_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2811/; rq_2810=done; spawn **rq_2812**; ticks=2811.
+- Next: **rq_2812 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
