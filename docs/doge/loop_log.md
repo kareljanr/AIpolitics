@@ -31025,3 +31025,13 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2820 run locally as fallback.
 - Source choice (recorded): ticks 2811-2819 used KBO NACE 88.101/87.30x/87.202 searches over Brussels postcodes ranked by size; French FOI drafts (new template). FOI: general mailboxes only, all verified on opened official pages. Also fixed French grammar ('de la perte'/'du bénéfice') in the nine 2811-2819 drafts.
 - Next: **rq_2820** — remaining Brussels French-language ASBLs with verifiable mailboxes (Zusterkens der Armen 5.6m pending a mailbox) and more Flemish 87.xxx/88.1xx VZWs.
+
+
+## Tick 2821 — 2026-10-12T15:30:58Z — rq_2820 leftover dual Viro Brugge YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.201/87.202 (residential care for people with intellectual disability) activity searches, Flemish and Brussels-Capital postcodes, ranked by primary figure: **Viro** → KBO 0691.714.918 had 0 prior entity rows.
+- KBO: Actief since 5 maart 2018; VZW; zetel Koning Albert I-laan 188 8200 Brugge; 11 VE; 0 prior entity rows for 0691.714.918
+- Found: official NBB VOL-VZW native PDF **2026-00302467** (3108163 B / 50p; AV 15-06-2026; neergelegd 13/07/2026; MD5 3605567f12043873b22f2a693651c332). VOL-VZW 733 **EUR14903959** (+10.70%); 62 **EUR13529600**; 9901 **EUR1324606** (was 1526853); 9904 1307135; equity 15149792; cash 452095; FTE 175,3 (was 167,3).
+- FOI address: info@virovzw.be — general mailbox verified on official page https://www.virovzw.be/contact (company number shown).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_viro_brugge_vaph_matrix_733_14_90m_9901_1325k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2821/; rq_2820=done; spawn **rq_2822**; ticks=2821.
+- Next: **rq_2822 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
