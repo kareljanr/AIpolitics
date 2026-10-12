@@ -31973,3 +31973,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: anker@ld3.be — general mailbox verified on official page https://ld3.be/maatschappelijke-zetel/ (registered-office page; address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_ld3_brussel_vaph_matrix_9900_1_11m_9901_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2914/; rq_2914=done; spawn **rq_2915**; ticks=2914.
 - Next: **rq_2915 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2915 — 2026-10-12T17:23:08Z — rq_2915 leftover dual Timber Bruxelles (Woluwe-Saint-Pierre) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Timber** → KBO 0449.274.504 had 0 prior entity rows.
+- KBO: Actief since 26 september 1992; VZW; zetel Edmond Parmentierlaan 19 1150 Sint-Pieters-Woluwe; 1 VE; 0 prior entity rows for 0449.274.504
+- Found: official NBB VKT-VZW native PDF **2026-00087667** (49979 B / 13p; AV 23-04-2026; neergelegd 26/04/2026; MD5 45be4be8e7482d3b0a0f1c6e99f7bdf0). VKT-VZW 9900 **EUR971396** (+1.95%); 62 **EUR897815**; 9901 **EUR40736** (was 33255); 9904 42737; equity 759054; cash 418141; FTE 12,2 (was 12,2).
+- FOI address: contact@asbltimbervzw.be — general mailbox verified on official page https://www.asbltimbervzw.be/contactus (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_timber_woluwe_vaph_matrix_9900_0_97m_9901_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2915/; rq_2915=done; spawn **rq_2916**; ticks=2915.
+- Next: **rq_2916 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
