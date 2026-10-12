@@ -29182,3 +29182,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00173256** (47894 B / 12p; AV 11-06-2026; neergelegd 17/06/2026; MD5 5e6b5f6bea6878b12ba7dd02ccc9d42d). VKT-VZW 9900 **EUR1570543** (+0.65%); 62 **EUR1443901**; 9901 **EUR62231** (was 78409); 9904 71479; equity 1817593; cash 734415; FTE 18 (was 18,7).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lommel); FOI **gap_cig_de_zeshoek_lommel_vaph_matrix_9900_1_57m_9901_62k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2634/; rq_2634=done; spawn **rq_2635**; ticks=2634.
 - Next: **rq_2635 leftover dual** — continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists.
+
+
+## Tick 2635 — 2026-10-12T08:22:21Z — rq_2635 leftover dual CIG De Kiekenstraat Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien CIG contact list (april 2026): **CIG De Kiekenstraat** → KBO 0412.474.583 had 0 prior entity rows.
+- KBO: Actief since 13 juli 1972; VZW; zetel Kiekenstraat 4, 9000 Gent; 1 VE; 0 prior entity rows for 0412.474.583
+- Found: official NBB VKT-VZW native PDF **2026-00151961** (101524 B / 24p; AV 01-06-2026; neergelegd 05/06/2026; MD5 3410e355e4962d08037fe403f6c8c988). VKT-VZW 9900 **EUR4754982** (+4.36%); 62 **EUR4106433**; 9901 **EUR521150** (was 576747); 9904 439090; equity 6344419; cash 1444073; FTE 57,8 (was 52,6).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_cig_de_kiekenstraat_gent_vaph_matrix_9900_4_75m_9901_521k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2635/; rq_2635=done; spawn **rq_2636**; ticks=2635.
+- Next: **rq_2636 leftover dual** — continue Opgroeien OOOC list (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), remaining VAPH vrijetijdszorg (Ludentia, Oranje), then KBO NACE 87/88 lists.
