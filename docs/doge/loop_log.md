@@ -30316,3 +30316,13 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2750 run locally as fallback.
 - Source choice (recorded): ticks 2741-2749 used the Wit-Gele Kruis list, KBO name search and NACE 88.101/88.911/88.993 searches; WGK Oost-Vlaanderen figures read visually from a scanned filing. FOI: general mailboxes only, each verified on an opened official page.
 - Next: **rq_2750** — more NACE 88.911 childcare and 88.101 home-care VZWs outside the main cities; Perspectief Oostende (projectvereniging) needs public-body handling.
+
+
+## Tick 2751 — 2026-10-12T13:38:45Z — rq_2750 leftover dual KIKOEN Olen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, plus KBO record of the Oostende projectvereniging Perspectief: **KIKOEN** → KBO 0448.477.916 had 0 prior entity rows.
+- KBO: Actief since 3 juli 1992; VZW; zetel Boerenkrijglaan 51 bus b 2250 Olen; 27 VE; 0 prior entity rows for 0448.477.916
+- Found: official NBB VKT-VZW native PDF **2026-00221217** (51952 B / 14p; AV 23-06-2026; neergelegd 30/06/2026; MD5 c9b66d8f5c3fa33b6974a27e0efa6763). VKT-VZW 9900 **EUR3443904** (-0.12%); 62 **EUR3414012**; 9901 **EUR716** (was 1290); 9904 0; equity 98958; cash 468430; FTE 52,3 (was 56,2).
+- FOI address: info@kikoen.be — general mailbox verified on official page https://www.kikoen.be/ouders/contacteer-kikoen.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_olen); FOI **gap_kikoen_olen_vaph_matrix_9900_3_44m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2751/; rq_2750=done; spawn **rq_2752**; ticks=2751.
+- Next: **rq_2752 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

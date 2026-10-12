@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T13:31:15Z,every10_2750,2750,no,tick2750 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2750 carried open; home-care/childcare batch done; next more 88.911/88.101 VZWs (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T13:38:45Z,rq_2750,2751,no,tick2751 leftover dual KIKOEN Olen 0448.477.916 Strong PDF 2026-00221217 9900 3.44m / 9901 1k; next rq_2752 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
