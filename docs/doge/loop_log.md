@@ -28758,3 +28758,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB MIC-VZW native PDF **2026-00139493** (44966 B / 11p micro model; AV 23-04-2026; neergelegd 05/06/2026; MD5 68fa3e4a010cd1787790693afbcd346c). MIC 9900 **EUR2862389** (+9.70%); 62 **EUR2724406** (+6.81%); 9901 **EUR32848** (was −45723); 9904 98628; equity 2247222 (kapitaalsubsidies 220501); debt 607723; beleggingen 891612 + cash 322776; micro model (no FTE).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.60; entities +1 (parent city_antwerpen); FOI **gap_primavera_merksem_vaph_matrix_9900_2_86m_micro_model_switch_62_2_72m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2588/; rq_2588=done; spawn **rq_2589**; ticks=2588.
 - Next: **rq_2589 leftover dual** — continue VAPH list scan.
+
+
+## Tick 2589 — 2026-10-12T07:39:52Z — rq_2589 leftover dual Ter Muiden en 't Veldzicht Brugge (Assebroek) / Beernem YE2025 (local fallback runner)
+
+- Hunt: VAPH adreslijst pages 48-51 scanned (background); OLO-Rotonde Brasschaat 0406.677.745 + MPC Sint-Franciscus Roosdaal 0415.850.084 already in repo; 't Weyerke = Stijn VE skip; **Ter Muiden en 't Veldzicht** → KBO 0418.771.071 had 0 prior repo rows (Start West-Vlaanderen Roeselare, 't Prieeltje Tienen still to check).
+- KBO: Actief since 29.06.1978; VZW; naam TER MUIDEN en 't VELDZICHT since 19.12.2025; zetel Zuidervaartje 1 8310 Brugge since 19.12.2025 (was Meulestraat 6 Beernem per VAPH list); 7 VE; 0 prior repo rows for 0418.771.071
+- Found: official NBB VKT-VZW native PDF **2026-00212003** (46122 B / 11p; AV 22-06-2026; neergelegd 29/06/2026; MD5 f61aeafe800681107cc407a85b27ef72). VKT 9900 **EUR3416562** (+4.60%); 62 **EUR3071872** (+7.68%); 9901 **EUR12534** DROP −87.99%; 9904 88408; equity 2068495; debt 576447; cash 751406; FTE 44,6.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.50; entities +1 (parent city_brugge); FOI **gap_ter_muiden_veldzicht_brugge_vaph_matrix_9900_3_42m_9901_drop_13k_62_jump_3_07m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2589/; rq_2589=done; spawn **rq_2590**; ticks=2589.
+- Next: **rq_2590 leftover dual** — continue VAPH list scan.
