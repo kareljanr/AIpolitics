@@ -30579,3 +30579,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@dekinderkopjes.be — general mailbox verified on official page https://www.dekinderkopjes.be/blank-3 (KBO number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_assenede); FOI **gap_de_kinderkopjes_assenede_vaph_matrix_9900_0_93m_9901_122k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2776/; rq_2776=done; spawn **rq_2777**; ticks=2776.
 - Next: **rq_2777 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2777 — 2026-10-12T14:02:12Z — rq_2777 leftover dual Dienst voor Opvanggezinnen Junior Zele YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, West-/Oost-Vlaanderen and Leuven/Limburg postcodes: **Dienst voor Opvanggezinnen Junior** → KBO 0862.806.189 had 0 prior entity rows.
+- KBO: Actief since 20 januari 2004; VZW; zetel Rotstraat 20 9240 Zele; 4 VE; 0 prior entity rows for 0862.806.189
+- Found: official NBB MIC-VZW native PDF **2026-00193305** (44083 B / 11p; AV 17-06-2026; neergelegd 24/06/2026; MD5 78a6b668290aa0eb6f8df7761811bab9). MIC-VZW 9900 **EUR46850** (+5.31%); 62 **EURNone**; 9901 **EUR20643** (was 19666); 9904 17544; equity 194430; cash 36032; FTE 0 (was 0).
+- FOI address: dogzele@skynet.be — general mailbox verified on official page https://www.oko-en-zo.be/contact (service mailbox listed under "Dienst voor opvanggezinnen, Rotstraat 20").
+- Wrote: sources +3; budgets +7; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_zele); FOI **gap_opvanggezinnen_junior_zele_vaph_matrix_9900_0_05m_9901_21k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2777/; rq_2777=done; spawn **rq_2778**; ticks=2777.
+- Next: **rq_2778 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

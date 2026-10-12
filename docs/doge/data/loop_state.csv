@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T14:02:03Z,rq_2776,2776,no,tick2776 leftover dual De Kinderkopjes Assenede 0787.576.058 Strong PDF 2026-00385381 9900 0.93m / 9901 122k; next rq_2777 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T14:02:12Z,rq_2777,2777,no,tick2777 leftover dual Dienst voor Opvanggezinnen Junior Zele 0862.806.189 Strong PDF 2026-00193305 9900 0.05m / 9901 21k; next rq_2778 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
