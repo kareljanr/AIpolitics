@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T21:33:02Z,rq_3080,3081,no,tick3081 leftover dual La Sambrienne Charleroi 0401.661.459 Strong PDF 2026-00200269 740 3.36m / 9901 loss 2983k; next rq_3082 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T21:33:13Z,rq_3082,3082,no,tick3082 leftover dual Centr'Habitat La Louvière 0401.763.211 Strong PDF 2026-00282673 740 1.30m / 9901 2040k; next rq_3083 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

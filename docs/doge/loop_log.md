@@ -33652,3 +33652,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lasambrienne.be — general mailbox verified in the official application form PDF on lasambrienne.be (https://www.lasambrienne.be/data/media/document/DLSCAN%20Formulaire%20location%20SOCIAL%20%284%29.pdf, with KBO 0401.661.459) and on the Province of Hainaut directory https://websoc.hainaut.be/DI05742.htm.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_la_sambrienne_code740_split_740_3_36m_9901_loss_2983k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3081/; rq_3080=done; spawn **rq_3082**; ticks=3081.
 - Next: **rq_3082 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3082 — 2026-10-12T21:33:13Z — rq_3082 leftover dual Centr'Habitat La Louvière YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Wallonia official list of the public-service housing companies (SLSP), interieur.wallonie.be 2026 transparency-report list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf), matched to KBO numbers, plus a completed nationwide KBO NACE-BEL 68.201 scan (step-10 postcodes 1000-9990, name-filtered for housing/intercommunale names); ranked by YE2025 NBB company-model code 740 (operating subsidies and compensatory amounts from public authorities); every candidate passed the name/alias/KBO/website dedup check: **Centr'Habitat** → KBO 0401.763.211 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1921; SRL; zetel Rue Edouard Anseele(L.L) 48 7100 La Louvière; 1 VE; 0 prior entity rows for 0401.763.211
+- Found: official NBB VOL-SRL native PDF **2026-00282673** (2305140 B / 84p; AV 19-06-2026; neergelegd 07/07/2026; MD5 28d42e290444587f239c263fe3545778). VOL-SRL 740 **EUR1297586** (-15.12%); 62 **EUR7370957**; 9901 **EUR2039634** (was 3309019); 9904 2995768; equity 188354048; cash 32913410; FTE 78,6 (was 77,5).
+- FOI address: info@centrhabitat.be — general mailbox verified on official site https://www.centrhabitat.be/ (contact block with address).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_centr_habitat_code740_split_740_1_30m_9901_2040k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3082/; rq_3082=done; spawn **rq_3083**; ticks=3082.
+- Next: **rq_3083 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
