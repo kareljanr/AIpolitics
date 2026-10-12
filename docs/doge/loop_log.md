@@ -32623,3 +32623,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@conseildelamusique.be — general mailbox verified on official page https://www.conseildelamusique.be/75-contact (address Rue Lebeau 39 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_conseil_musique_bruxelles_vaph_matrix_9900_0_88m_9901_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2979/; rq_2979=done; spawn **rq_2980**; ticks=2979.
 - Next: **rq_2980 leftover dual** — Batch done; next: Flemish culture hits with unverifiable mailboxes (VIERNULVIER EUR6.10m, De Grote Post EUR2.17m: own sites redirect-loop for the fetcher), then another Flemish activity code (e.g. larger welfare/education codes not yet mined), largest first; Médiathèque Nouvelle retried once (site unreachable) and dropped.
+
+
+## Tick 2980 — 2026-10-12T18:28:46Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2623** of 2675 rows; inventory budgets 59513 · commitments 6675 · leaderboard 8795 · entities 2694 · sources 8956.
+- Top10: **stable** (2971-2979 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2971-2979: KANAL (Bruxelles) · KMSKA (Antwerpen) · Concertgebouw Brugge (Brugge) · NTGent (Gent) · HETPALEIS (Antwerpen) · Z33 (Hasselt) · CAMPO (Gent) · De Casino (Sint-Niklaas) · Conseil de la Musique (Bruxelles).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2980 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-2980 run locally as fallback.
+- Next: **rq_2980** — another Flemish activity code with large recipients (largest first); VIERNULVIER / De Grote Post if their sites become verifiable.

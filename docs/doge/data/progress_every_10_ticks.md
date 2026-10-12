@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 2980** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2970; 2971-2979 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2971-2979 residual dual L5 (not near-complete of 348bn):** KANAL (Bruxelles) · KMSKA (Antwerpen) · Concertgebouw Brugge (Brugge) · NTGent (Gent) · HETPALEIS (Antwerpen) · Z33 (Hasselt) · CAMPO (Gent) · De Casino (Sint-Niklaas) · Conseil de la Musique (Bruxelles) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2623** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2675** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2971-2979** KANAL (Bruxelles) · KMSKA (Antwerpen) · Concertgebouw Brugge (Brugge) · NTGent (Gent) · HETPALEIS (Antwerpen) · Z33 (Hasselt) · CAMPO (Gent) · De Casino (Sint-Niklaas) · Conseil de la Musique (Bruxelles).
+
+### Inventory (tick 2980)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 59513 |
+| commitments.csv | 6675 |
+| leaderboard.csv | 8795 |
+| entities.csv | 2694 |
+| sources.csv | 8956 |
+| FOI ready | 2623 |
+| FOI total rows | 2675 |
+| research_queue open | rq_2980 (carried; next: another Flemish activity code, largest first) |
+
+### What improved since tick 2970
+
+- **New source (tick2971-2979):** KANAL (Bruxelles) · KMSKA (Antwerpen) · Concertgebouw Brugge (Brugge) · NTGent (Gent) · HETPALEIS (Antwerpen) · Z33 (Hasselt) · CAMPO (Gent) · De Casino (Sint-Niklaas) · Conseil de la Musique (Bruxelles). Source: KANAL (Brussels culture scan, first row in the new code-73 mode) and a NEW KBO NACE-BEL scan of Flemish culture codes (90.111, 90.120, 90.130, 90.311, 91.210; 18 Flemish city postcodes, 1022 non-company hits), ranked by YE2025 NBB primary figure, largest first. Chosen because Flemish arts institutions are large Kunstendecreet/city-funded recipients not yet mined.
+- **Toolkit (tick 2971):** new code-73 mode: when code 733 is empty but code 73 is filled, the row uses code 73 labelled 'contributions, gifts, legacies and subsidies, not split' (never subsidies alone) and the FOI asks for the split between subsidies per funder and contributions/gifts/legacies.
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION).
+- **Runner note:** 2576-2980 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2971-2979 (fast, ~5 min cap):** Médiathèque Nouvelle (retried once; own site unreachable), VIERNULVIER and De Grote Post (own sites redirect-loop for the fetcher; mailbox not verifiable), 't Arsenaal, Monty, Minard, Fakkelteater, Kunsthal Gent (no general mailbox on own pages), The Phoebus Foundation (private foundation).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2970** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
