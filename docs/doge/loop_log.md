@@ -31270,3 +31270,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@via.brussels — general mailbox verified on official page https://www.via.brussels/schaerbeek/ (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_via_schaerbeek_vaph_matrix_9900_2_53m_9901_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2844/; rq_2844=done; spawn **rq_2845**; ticks=2844.
 - Next: **rq_2845 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2845 — 2026-10-12T16:21:22Z — rq_2845 leftover dual SeTIS bxl (Service de Traduction et d'Interprétariat en milieu Social bruxellois) Bruxelles (Saint-Gilles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **SeTIS bxl (Service de Traduction et d'Interprétariat en milieu Social bruxellois)** → KBO 0819.836.773 had 0 prior entity rows.
+- KBO: Actief since 19 oktober 2009; VZW; zetel Emile Feronstraat 153 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0819.836.773
+- Found: official NBB VKT-VZW native PDF **2026-00180230** (524878 B / 28p; AV 12-06-2026; neergelegd 16/06/2026; MD5 ded42e08bbb0ac8db0f5ae47bfe44861). VKT-VZW 9900 **EUR2167537** (-5.70%); 62 **EUR2178466**; 9901 **EUR-71726** (was -208967); 9904 -85870; equity 105058; cash 14; FTE 44 (was 48).
+- FOI address: info@setisbxl.be — general mailbox verified on official page https://www.setisbxl.be/ (address shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_setis_bxl_saint_gilles_vaph_matrix_9900_2_17m_9901_loss_72k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2845/; rq_2845=done; spawn **rq_2846**; ticks=2845.
+- Next: **rq_2846 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
