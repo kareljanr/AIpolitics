@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2860** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2850; 2851-2859 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2851-2859 residual dual L5 (not near-complete of 348bn):** Crèche Cardinal Mercier (Ixelles) · VEGA / Centre Orfea (Etterbeek) · La Crèche Babymedia (Schaerbeek) · Citeco (Schaerbeek) · Wolvendael (Uccle) · Rizome-BXL (Bruxelles) · Helmetje (Schaarbeek) · Les Amis d'Aladdin (Schaerbeek) · Seniors Service Anderlecht (Anderlecht) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2515** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2567** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2851-2859** Crèche Cardinal Mercier (Ixelles) · VEGA / Centre Orfea (Etterbeek) · La Crèche Babymedia (Schaerbeek) · Citeco (Schaerbeek) · Wolvendael (Uccle) · Rizome-BXL (Bruxelles) · Helmetje (Schaarbeek) · Les Amis d'Aladdin (Schaerbeek) · Seniors Service Anderlecht (Anderlecht).
+
+### Inventory (tick 2860)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 58630 |
+| commitments.csv | 6567 |
+| leaderboard.csv | 8687 |
+| entities.csv | 2586 |
+| sources.csv | 8632 |
+| FOI ready | 2515 |
+| FOI total rows | 2567 |
+| research_queue open | rq_2860 (carried; next: remaining larger Brussels childcare/day-centre ASBLs and Flemish 88.10x VZWs, larger first) |
+
+### What improved since tick 2850
+
+- **New source (tick2851-2859):** Crèche Cardinal Mercier (Ixelles) · VEGA / Centre Orfea (Etterbeek) · La Crèche Babymedia (Schaerbeek) · Citeco (Schaerbeek) · Wolvendael (Uccle) · Rizome-BXL (Bruxelles) · Helmetje (Schaarbeek) · Les Amis d'Aladdin (Schaerbeek) · Seniors Service Anderlecht (Anderlecht). Source: KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital) ranked by primary figure. Eight bodies used the French FOI template, one (Helmetje) the Dutch Bestuursdecreet template.
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION); Babymedia, Helmetje and Les Amis d'Aladdin via the official Schaerbeek commune pages (Babymedia also on ONE); VEGA via its direction@ role mailbox.
+- **Runner note:** 2576-2860 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2851-2859 (fast, ~5 min cap):** Le Nid Marcelle Briard (skynet mailbox only, no site), Les Coccinelles WSL (no site), KDV Sint-Karel (no official site), Crèche Royale Le Nid (no mailbox found), KDV De Lentebloempjes (site unreachable), Le Pré-Texte (named-person mailbox only), Solidaritel (no own mailbox), Onze Vriendjes (no mailbox found), Rêver pour devenir (gmail only).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2850** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

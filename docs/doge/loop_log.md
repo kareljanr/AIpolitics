@@ -31421,3 +31421,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ssa-anderlecht.be — general mailbox verified on official page https://ssa-anderlecht.be/contact-seniors-service-anderlecht-asbl/ (company number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_anderlecht); FOI **gap_seniors_service_anderlecht_vaph_matrix_9900_1_17m_9901_loss_329k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2859/; rq_2859=done; spawn **rq_2860**; ticks=2859.
 - Next: **rq_2860 leftover dual** — Batch done; next: remaining Brussels ASBLs from the 87.x/88.x scans (Les Bourgeons, Rêver pour devenir, Les Amis d'Aladdin, Seniors-Service Anderlecht) and Flemish 88.10x VZWs; skipped this batch: Le Nid Marcelle Briard (skynet mailbox only, no site), Les Coccinelles WSL (no site), KDV Sint-Karel (no official site), Crèche Royale Le Nid (no mailbox found), KDV De Lentebloempjes (site unreachable), Le Pré-Texte (named-person mailbox only), Solidaritel (no own mailbox), Onze Vriendjes (no mailbox found).
+
+
+## Tick 2860 — 2026-10-12T16:27:02Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2515** of 2567 rows; inventory budgets 58630 · commitments 6567 · leaderboard 8687 · entities 2586 · sources 8632.
+- Top10: **stable** (2851-2859 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2851-2859: Crèche Cardinal Mercier (Ixelles) · VEGA / Centre Orfea (Etterbeek) · La Crèche Babymedia (Schaerbeek) · Citeco (Schaerbeek) · Wolvendael (Uccle) · Rizome-BXL (Bruxelles) · Helmetje (Schaarbeek) · Les Amis d'Aladdin (Schaerbeek) · Seniors Service Anderlecht (Anderlecht).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2860 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-2860 run locally as fallback.
+- Next: **rq_2860** — remaining Brussels ASBLs (Nokto, Les Bourgeons, LD3) and Flemish 88.10x VZWs, larger first.
