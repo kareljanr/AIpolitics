@@ -32193,3 +32193,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@humansmile.be — general mailbox verified on official page https://www.humansmile.be/ (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_human_smile_koekelberg_vaph_matrix_9900_3_49m_9901_747k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2936/; rq_2936=done; spawn **rq_2937**; ticks=2936.
 - Next: **rq_2937 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2937 — 2026-10-12T17:36:55Z — rq_2937 leftover dual Tracé Brussel Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE earlier KBO NACE-BEL activity scans 2026-10-12 (Brussels 88.991-88.999 and 87.x/88.10x in 22 postcodes; Flemish 87.x/88.10x), unprocessed hits ranked by YE2025 NBB primary figure: **Tracé Brussel** → KBO 0881.506.108 had 0 prior entity rows.
+- KBO: Actief since 24 mei 2006; VZW; zetel Prinsenstraat 8-10 1000 Brussel; 3 VE; 0 prior entity rows for 0881.506.108
+- Found: official NBB VKT-VZW native PDF **2026-00180046** (53718 B / 15p; AV 08-06-2026; neergelegd 22/06/2026; MD5 0a21bcf69df068cbbf34767f7ec6abe7). VKT-VZW 9900 **EUR3367661** (-0.79%); 62 **EUR3266211**; 9901 **EUR29807** (was 3687); 9904 28267; equity 354625; cash 495739; FTE 41,9 (was 46,8).
+- FOI address: info@tracebrussel.be — general mailbox verified on official page https://www.tracebrussel.be/contact (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_trace_brussel_vaph_matrix_9900_3_37m_9901_30k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2937/; rq_2937=done; spawn **rq_2938**; ticks=2937.
+- Next: **rq_2938 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
