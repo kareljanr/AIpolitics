@@ -29393,3 +29393,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00232877** (656858 B / 44p; AV 10-06-2026; neergelegd 30/06/2026; MD5 0b8e55ee5d24255fb4a7051478dd2069). VOL-VZW 733 **EUR8266090** (+3.97%); 62 **EUR6889748**; 9901 **EUR159133** (was -219237); 9904 175333; equity 9774446; cash 739749; FTE 90,9 (was 93,2).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_hamme); FOI **gap_spoor_56_hamme_vaph_matrix_733_8_27m_9901_159k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2657/; rq_2657=done; spawn **rq_2658**; ticks=2657.
 - Next: **rq_2658 leftover dual** — continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
+
+
+## Tick 2658 — 2026-10-12T08:33:30Z — rq_2658 leftover dual De Walhoeve Vleteren YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ West-Vlaanderen list (mei 2026): **De Walhoeve** → KBO 0419.631.797 had 0 prior entity rows. No general mailbox found; using the official Opgroeien OVBJ-list contact.
+- KBO: Actief since 25 oktober 1977; VZW; zetel Eikhoekstraat 65, 8640 Vleteren; 3 VE; 0 prior entity rows for 0419.631.797
+- Found: official NBB VKT-VZW native PDF **2026-00240540** (49746 B / 13p; AV 18-06-2026; neergelegd 02/07/2026; MD5 eb9746a29e52019dc2f3c0d8b9c47d44). VKT-VZW 9900 **EUR1878923** (+5.28%); 62 **EUR1650518**; 9901 **EUR66981** (was 8737); 9904 63704; equity 1528449; cash 132661; FTE 22,8 (was 22).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_vleteren); FOI **gap_de_walhoeve_vleteren_vaph_matrix_9900_1_88m_9901_67k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2658/; rq_2658=done; spawn **rq_2659**; ticks=2658.
+- Next: **rq_2659 leftover dual** — continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
