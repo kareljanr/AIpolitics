@@ -32693,3 +32693,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: hz@hvk.be — head-office mailbox verified on official page https://www.hvk.be/contact/ (address Antwerpsesteenweg 261/3 and KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mechelen); FOI **gap_het_vlaamse_kruis_vaph_matrix_9900_2_99m_9901_133k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2986/; rq_2986=done; spawn **rq_2987**; ticks=2986.
 - Next: **rq_2987 leftover dual** — Flemish 88.99x batch in progress; next: remaining units of this batch.
+
+
+## Tick 2987 — 2026-10-12T18:33:27Z — rq_2987 leftover dual Vertrouwenscentrum Kindermishandeling Antwerpen Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.991-88.999 social work / sheltered work in 18 Flemish city postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Vertrouwenscentrum Kindermishandeling Antwerpen** → KBO 0435.740.628 had 0 prior entity rows.
+- KBO: Actief since 10 maart 1988; VZW; zetel Professor Claraplein 1 2018 Antwerpen; 1 VE; 0 prior entity rows for 0435.740.628
+- Found: official NBB MIC-VZW native PDF **2026-00134011** (138641 B / 12p; AV 21-05-2026; neergelegd 02/06/2026; MD5 2002deaf7a5185df0d755af001463184). MIC-VZW 9900 **EUR2789584** (-2.82%); 62 **EUR2726263**; 9901 **EUR34182** (was 254411); 9904 30777; equity 1971949; cash 686685; FTE n/a.
+- FOI address: info@vkantwerpen.be — general mailbox verified on official page https://www.vertrouwenscentrum-kindermishandeling.be/antwerpen/ (address Prof. Claraplein 1 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_vk_antwerpen_vaph_matrix_9900_2_79m_9901_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2987/; rq_2987=done; spawn **rq_2988**; ticks=2987.
+- Next: **rq_2988 leftover dual** — Flemish 88.99x batch in progress; next: remaining units of this batch.

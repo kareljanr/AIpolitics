@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T18:33:18Z,rq_2986,2986,no,tick2986 leftover dual Het Vlaamse Kruis Mechelen 0410.937.827 Strong PDF 2026-00076039 9900 2.99m / 9901 133k; next rq_2987 Flemish 88.99x batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T18:33:27Z,rq_2987,2987,no,tick2987 leftover dual Vertrouwenscentrum Kindermishandeling Antwerpen Antwerpen 0435.740.628 Strong PDF 2026-00134011 9900 2.79m / 9901 34k; next rq_2988 Flemish 88.99x batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
