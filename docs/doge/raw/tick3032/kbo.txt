@@ -1,0 +1,1 @@
+{"status": "Actief", "begin": "1 januari 1995", "rv": "Vereniging zonder winstoogmerk", "addr": "Geldenaaksebaan 335 3001 Leuven", "ve": "7"}

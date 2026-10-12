@@ -33143,3 +33143,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@visitwallonia.be — general mailbox verified on official page https://orc.visitwallonia.be/mentions-legales/ (KBO number 0888.366.085 and Vieille Halle aux Blés 27 seat shown there).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_visitwallonia_brussel_vaph_matrix_733_14_10m_9901_43k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3031/; rq_3030=done; spawn **rq_3032**; ticks=3031.
 - Next: **rq_3032 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3032 — 2026-10-12T20:17:10Z — rq_3032 leftover dual UC Leuven Leuven (Heverlee) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (new codes 93.191 sport federations, 93.121/93.199 sport, 84.130 public administration of economic affairs, 72.200 social-science research; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **UC Leuven** → KBO 0455.645.523 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1995; VZW; zetel Geldenaaksebaan 335 3001 Leuven; 7 VE; 0 prior entity rows for 0455.645.523
+- Found: official NBB VOL-VZW native PDF **2026-00068867** (4494687 B / 51p; AV 26-03-2026; neergelegd 30/03/2026; MD5 652a9a4956a9a8ebd8daedfd4b9ba07c). VOL-VZW 733 **EUR6276820** (-3.41%); 62 **EUR73339229**; 9901 **EUR433214** (was 1359928); 9904 1258307; equity 62859873; cash 2927451; FTE 174,9 (was 186,1).
+- FOI address: leuven@ucll.be — general mailbox verified on official page https://www.ucll.be/nl/contact (KBO number and Geldenaaksebaan 335 seat shown on https://www.ucll.be/en/privacystatement).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_uc_leuven_vaph_matrix_733_6_28m_9901_433k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3032/; rq_3032=done; spawn **rq_3033**; ticks=3032.
+- Next: **rq_3033 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
