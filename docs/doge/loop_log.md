@@ -29687,3 +29687,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@tonuso.be — general mailbox verified on official page https://www.tonuso.be/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_anderlecht); FOI **gap_tonuso_anderlecht_vaph_matrix_733_9_09m_9901_163k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2688/; rq_2688=done; spawn **rq_2689**; ticks=2688.
 - Next: **rq_2689 leftover dual** — Opgroeien OVBJ Vlaams-Brabant/Brussel list in progress; next: remaining OVBJ Vlaams-Brabant/Brussel units, then IBIS (verify mailbox), then KBO NACE 87/88 lists.
+
+
+## Tick 2689 — 2026-10-12T08:53:58Z — rq_2689 leftover dual Amber Bierbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Vlaams-Brabant/Brussel list (april 2026): **Amber** → KBO 0425.451.205 had 0 prior entity rows.
+- KBO: Actief since 15 juni 1983; VZW; zetel Tiensesteenweg 88 3360 Bierbeek; 1 VE; 0 prior entity rows for 0425.451.205
+- Found: official NBB VKT-VZW native PDF **2026-00134351** (55289 B / 15p; AV 28-05-2026; neergelegd 03/06/2026; MD5 648e249eaad39d298596f5f08e8132e5). VKT-VZW 9900 **EUR1707089** (+3.13%); 62 **EUR1483187**; 9901 **EUR85177** (was 101446); 9904 81118; equity 1535826; cash 527295; FTE 21,4 (was 18,9).
+- FOI address: info@ambervzw.be — general mailbox verified on official page https://www.ambervzw.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent sec_flanders); FOI **gap_amber_bierbeek_vaph_matrix_9900_1_71m_9901_85k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2689/; rq_2689=done; spawn **rq_2690**; ticks=2689.
+- Next: **rq_2690 leftover dual** — Opgroeien OVBJ Vlaams-Brabant/Brussel list finished (CAW Brussel + Adem/Alba/Cidar/Combo/Monte Rosa/De Wissel/Levenslust/Levensruimte/Convento already in repo; De Loper no YE2025 deposit; De Vogelzang wound down into Convento); next: IBIS (verify mailbox), then KBO NACE 87/88 lists.
