@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 2990** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2980; 2981-2989 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2981-2989 residual dual L5 (not near-complete of 348bn):** Emino (Antwerpen) · SAAMO Antwerpen (Antwerpen) · Kringloopcentrum Kust (Oostende) · Job & Co (Brugge) · De Duinenwacht (Brugge) · Het Vlaamse Kruis (Mechelen) · Vertrouwenscentrum Kindermishandeling Antwerpen (Antwerpen) · SAAMO provincie Antwerpen (Antwerpen) · SAAMO Gent (Gent) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2632** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2684** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2981-2989** Emino (Antwerpen) · SAAMO Antwerpen (Antwerpen) · Kringloopcentrum Kust (Oostende) · Job & Co (Brugge) · De Duinenwacht (Brugge) · Het Vlaamse Kruis (Mechelen) · Vertrouwenscentrum Kindermishandeling Antwerpen (Antwerpen) · SAAMO provincie Antwerpen (Antwerpen) · SAAMO Gent (Gent).
+
+### Inventory (tick 2990)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 59587 |
+| commitments.csv | 6684 |
+| leaderboard.csv | 8804 |
+| entities.csv | 2703 |
+| sources.csv | 8983 |
+| FOI ready | 2632 |
+| FOI total rows | 2684 |
+| research_queue open | rq_2990 (carried; next: another Flemish activity code, largest first) |
+
+### What improved since tick 2980
+
+- **New source (tick2981-2989):** Emino (Antwerpen) · SAAMO Antwerpen (Antwerpen) · Kringloopcentrum Kust (Oostende) · Job & Co (Brugge) · De Duinenwacht (Brugge) · Het Vlaamse Kruis (Mechelen) · Vertrouwenscentrum Kindermishandeling Antwerpen (Antwerpen) · SAAMO provincie Antwerpen (Antwerpen) · SAAMO Gent (Gent). Source: NEW KBO NACE-BEL scan of Flemish social-work / sheltered-work codes 88.991-88.999 (18 Flemish city postcodes, 275 non-company hits), ranked by YE2025 NBB primary figure, largest first. Chosen because these VZWs are large VAPH/VDAB/Opgroeien-funded recipients not yet mined.
+- **Toolkit:** no change (code-73 mode not triggered this batch).
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION).
+- **Runner note:** 2576-2990 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2981-2989 (fast, ~5 min cap):** Vives Zuid (mailbox obfuscated), Con Brio (mailbox only on sister brand Compaan site), Rode Kruis-Vlaanderen (733 EUR2.58m vs code 73 EUR61.8m; needs separate review).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2980** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

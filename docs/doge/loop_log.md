@@ -32723,3 +32723,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: gent@saamo.be — general mailbox verified on official page https://www.saamo.be/gent/contact/ (address Blaisantvest 70 and KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_saamo_gent_vaph_matrix_9900_2_30m_9901_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2989/; rq_2989=done; spawn **rq_2990**; ticks=2989.
 - Next: **rq_2990 leftover dual** — Batch done; next: remaining Flemish 88.99x hits (STW EUR2.02m, Buurtwerk Posthof EUR2.05m, VVA Vlaamse vereniging Autisme EUR2.00m, Saamo Oost-Vlaanderen EUR1.99m, VK Oost-Vlaanderen EUR1.94m), larger first; skipped this batch: Katholieke Hogeschool VIVES Zuid (mailbox obfuscated on own site), Con Brio (mailbox only on a sister-brand site), Rode Kruis-Vlaanderen (subsidies only EUR2.58m of a EUR61.8m code-73 total; separate review).
+
+
+## Tick 2990 — 2026-10-12T18:34:16Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2632** of 2684 rows; inventory budgets 59587 · commitments 6684 · leaderboard 8804 · entities 2703 · sources 8983.
+- Top10: **stable** (2981-2989 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2981-2989: Emino (Antwerpen) · SAAMO Antwerpen (Antwerpen) · Kringloopcentrum Kust (Oostende) · Job & Co (Brugge) · De Duinenwacht (Brugge) · Het Vlaamse Kruis (Mechelen) · Vertrouwenscentrum Kindermishandeling Antwerpen (Antwerpen) · SAAMO provincie Antwerpen (Antwerpen) · SAAMO Gent (Gent).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2990 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-2990 run locally as fallback.
+- Next: **rq_2990** — remaining Flemish 88.99x hits below EUR2.3m, or another Flemish activity code with larger recipients (largest first); Rode Kruis-Vlaanderen code-73 review.
