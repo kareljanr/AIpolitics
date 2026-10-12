@@ -32303,3 +32303,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@fecasbl.be — general mailbox verified on official page https://www.fecasbl.be/contact (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_fec_bruxelles_vaph_matrix_9900_3_21m_9901_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2947/; rq_2947=done; spawn **rq_2948**; ticks=2947.
 - Next: **rq_2948 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
+
+
+## Tick 2948 — 2026-10-12T17:56:34Z — rq_2948 leftover dual Convivialités Bruxelles (Forest) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels 85.592 vocational training and 86.940 in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Convivialités** → KBO 0480.577.986 had 0 prior entity rows.
+- KBO: Actief since 4 november 2002; VZW; zetel Gerijstraat 33 1190 Vorst Extra adresinfo: 35; 2 VE; 0 prior entity rows for 0480.577.986
+- Found: official NBB VKT-VZW native PDF **2026-00196103** (691936 B / 27p; AV 16-06-2026; neergelegd 23/06/2026; MD5 e7179823be53b5b691977bca8fbac76a). VKT-VZW 9900 **EUR3143493** (+13.77%); 62 **EUR2660867**; 9901 **EUR161441** (was 9868); 9904 153289; equity 251828; cash 820002; FTE 44,9 (was 42,1).
+- FOI address: info@convivial.be — general mailbox verified on official page https://www.convivial.be/en/contact/ (address Rue du Charroi 33-35 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_convivialites_forest_vaph_matrix_9900_3_14m_9901_161k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2948/; rq_2948=done; spawn **rq_2949**; ticks=2948.
+- Next: **rq_2949 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
