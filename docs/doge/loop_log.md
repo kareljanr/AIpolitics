@@ -28676,3 +28676,13 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00084753** (44270 B / 10p; AV 21-04-2026; neergelegd 22/04/2026; MD5 41e3e38fc8320787432efddc5aa0407e). VKT 9900 **EUR2368212** (+3.00%); 62 **EUR2040932** (+6.39%); 9901 **EUR204673** DROP −26.12%; 9904 **EUR209617**; equity **EUR5567493** (95% of assets); debt 279966; geldbeleggingen 2003618 + cash 105666; FTE 27.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.70; entities +1 (parent city_gent); FOI **gap_de_karrekol_drongen_gent_vaph_matrix_9900_2_37m_equity_5_57m_beleggingen_2_0m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2579/; rq_2579=done; spawn **rq_2580**; ticks=2579.
 - Next: **rq_2580 leftover dual** — continue VAPH list scan (every-10 due at 2580).
+
+
+## Tick 2580 — 2026-10-12T07:24:13Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2263** of 2315 rows; inventory budgets 56532 · commitments 6315 · leaderboard 8435 · entities 2335 · sources 7876.
+- Top10: **stable** (2571-2579 added 9 leaderboard rows, max pi 5.70 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- Residual dual 2571-2579: Nethedal · Levenslust · De Ark Moerkerke-Brugge · Klim · Mekanders · De Klaproos · De Vijver · De Kerselaar · De Karrekol.
+- Hunt this tick: CJMIB Antwerpen 0415.343.805 latest NBB deposit is YE2024 (2025-00264706) → skip; De Beerbos / De Beukheuvel / De Ark van Pollare are groenezorg → skip. rq_2580 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2580 run locally as fallback.
+- Next: **rq_2580 leftover dual** — VAPH list pages 20+ beyond 22.

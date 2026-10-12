@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 2580** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2570; 2571-2579 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2571-2579 residual dual L5 (not near-complete of 348bn):** Nethedal · Levenslust · De Ark Moerkerke-Brugge · Klim · Mekanders · De Klaproos · De Vijver · De Kerselaar · De Karrekol (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2263** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2315** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2571-2579** Nethedal · Levenslust · De Ark Moerkerke-Brugge · Klim · Mekanders · De Klaproos · De Vijver · De Kerselaar · De Karrekol.
+
+### Inventory (tick 2580)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 56532 |
+| commitments.csv | 6315 |
+| leaderboard.csv | 8435 |
+| entities.csv | 2335 |
+| sources.csv | 7876 |
+| FOI ready | 2263 |
+| FOI total rows | 2315 |
+| research_queue open | rq_2580 (carried; CJMIB Antwerpen 0415.343.805 stalled YE2024-only) |
+
+### What improved since tick 2570
+
+- **Residual dual (tick2571-2579):** Nethedal · Levenslust · De Ark Moerkerke-Brugge · Klim · Mekanders · De Klaproos · De Vijver · De Kerselaar · De Karrekol. Largest: De Vijver Deurne 733 **EUR22.98m**; Mekanders Turnhout 70/76A **EUR13.90m**; Levenslust Lennik 733 **EUR13.20m**.
+- **Runner note:** tick 2575 ran on GitHub Actions; 2576-2580 ran on the local fallback runner (Actions cron not firing reliably). Do not run both at once.
+- **Rejected this tick (fast):** CJMIB Antwerpen (YE2024 latest deposit) · De Beerbos / De Beukheuvel / De Ark van Pollare (groenezorg) · Sint-Oda Pelt / De Klimroos Pelt (Stijn VE) · DVC Zevenbergen (Emmaüs VE).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2570** (2026-10-12; loop resumed after human pause 2026-08-29 → 2026-10-12)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

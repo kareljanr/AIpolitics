@@ -1,6 +1,6 @@
 # DOGE waste ranking — current top 10
 
-**As-of:** tick **2570** (2026-10-12) · **8426** leaderboard rows  
+**As-of:** tick **2580** (2026-10-12) · **8435** leaderboard rows  
 **Sort:** `priority_index` desc (then annual €); **stocks / multi-decade finance with annual € = full stock filtered off pure top10**; **corrupt scoring anomalies with pi>10 excluded**  
 **Formula:** `0.55·cost_score + 0.35·absurdity + 0.10·(10−difficulty)`  
 **cost_score bands (from annual €):** <1m→1.5 · <10m→3.5 · <100m→5.5 · <1bn→7.5 · ≥1bn→9.5
@@ -24,11 +24,15 @@
 | 9 | `lb_bcr_annexe2_reporte_wave` | BCR Annexe2 reporté wave systemic 2026 | **300.60 m** | 9.0 | 9.0 | 3 | **8.4** | Strong CoA wave: OAA consol reporté |
 | 10 | `lb_dual_cars_ssc_taxex` | Dual company car CO2 SSC under-collection vs taxex | **278.52 m** | 8.5 | 9.5 | 6 | **8.4** | Strong dual: SSC CO2 278m + cum gap |
 
-**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2561-2570:** **Het Balanske Tielt-Winge 73 JUMP 1.61m / debt JUMP 2.31m / 9901 DROP 12k** (EVERY-10@2570 Strong PDF) · Hoito Tienen · Emiliani Lokeren · Oikonde Mechelen · Vondels Ieper · Duinhelm Oostende · De Berken Overijse · Kerckstede Staden · Licht en Liefde Heem Jabbeke · Berkenhof Leopoldsburg · De Hoge Kouter EVERY-10@2560.
+**Stock filter (off pure annual top10):** Metro3 · OWV snowball **€27bn** · Hedera · VL/WAL/FWB/BCR debt · SAFE loans · **NEW residual 2571-2579:** Nethedal · Levenslust · De Ark Moerkerke-Brugge · Klim · Mekanders · De Klaproos · De Vijver · De Kerselaar · De Karrekol · **residual 2561-2570:** **Het Balanske Tielt-Winge 73 JUMP 1.61m / debt JUMP 2.31m / 9901 DROP 12k** (EVERY-10@2570 Strong PDF) · Hoito Tienen · Emiliani Lokeren · Oikonde Mechelen · Vondels Ieper · Duinhelm Oostende · De Berken Overijse · Kerckstede Staden · Licht en Liefde Heem Jabbeke · Berkenhof Leopoldsburg · De Hoge Kouter EVERY-10@2560.
 
-**Change vs tick 2560:** pure annual top10 **stable** (10 new leaderboard rows 2561-2570 all pi 5.30-6.00, far below #10 cut-off 8.4; top10_changed False). Not TE-additive of ~348bn.
+**Change vs tick 2570:** pure annual top10 **stable** (9 new leaderboard rows 2571-2579 all pi ≤5.70, far below #10 cut-off 8.4; top10_changed False). Not TE-additive of ~348bn. (Tick 2580 run by local fallback runner while Actions cron unreliable.)
 
 ### High-absurdity residual (not pure top10)
+
+- **De Vijver Deurne-Antwerpen** (tick2577) 733 subsidies **EUR22.98m** (89% of 70/76A **EUR25.75m**) / 62 JUMP **EUR21.21m** (+10.9% vs FTE +3.8%) / public-guaranteed debt 9061 **EUR1.80m** (pi 5.70, highest of 2571-2579).
+- **Mekanders Turnhout** (tick2575) 70/76A **EUR13.90m** / cash JUMP **EUR6.14m** after emptying **EUR5.36m** termijnrekeningen.
+- **De Karrekol Drongen** (tick2579) equity **EUR5.57m** = 95% of balance sheet + beleggingen **EUR2.0m** on a **EUR2.37m** bruto envelope.
 
 - **Emiliani Lokeren** envelope 70/76A JUMP **EUR22.02m** / 73 JUMP **EUR18.57m** / debt JUMP **EUR5.02m** leftover city_lokeren leftover VAPH (pi 6.00, highest of 2561-2570).
 - **Duinhelm Oostende** 70/76A JUMP **EUR12.61m** / 9901 JUMP **EUR887k** leftover city_oostende leftover VAPH.
