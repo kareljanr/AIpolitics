@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T20:17:10Z,rq_3032,3032,no,tick3032 leftover dual UC Leuven Leuven (Heverlee) 0455.645.523 Strong PDF 2026-00068867 733 6.28m / 9901 433k; next rq_3033 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T20:17:20Z,rq_3033,3033,no,tick3033 leftover dual Comité Olympique et Interfédéral Belge Brussel (Laken) 0408.141.059 Strong PDF 2026-00223457 733 5.05m / 9901 loss 1700k; next rq_3034 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

@@ -33153,3 +33153,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: leuven@ucll.be — general mailbox verified on official page https://www.ucll.be/nl/contact (KBO number and Geldenaaksebaan 335 seat shown on https://www.ucll.be/en/privacystatement).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_uc_leuven_vaph_matrix_733_6_28m_9901_433k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3032/; rq_3032=done; spawn **rq_3033**; ticks=3032.
 - Next: **rq_3033 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3033 — 2026-10-12T20:17:20Z — rq_3033 leftover dual Comité Olympique et Interfédéral Belge Brussel (Laken) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (new codes 93.191 sport federations, 93.121/93.199 sport, 84.130 public administration of economic affairs, 72.200 social-science research; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Comité Olympique et Interfédéral Belge** → KBO 0408.141.059 had 0 prior entity rows.
+- KBO: Actief since 19 juli 1962; VZW; zetel Esplanade 1 bus PO 78 1020 Brussel; 1 VE; 0 prior entity rows for 0408.141.059
+- Found: official NBB VOL-VZW native PDF **2026-00223457** (2353095 B / 46p; AV 04-06-2026; neergelegd 30/06/2026; MD5 b0bc7d95811b6c2854e7e418d64edc21). VOL-VZW 733 **EUR5053520** (-58.51%); 62 **EUR2323689**; 9901 **EUR-1700297** (was 1966502); 9904 -1519792; equity 14619179; cash 1949462; FTE 26,5 (was 31,1).
+- FOI address: info@olympic.be — general mailbox verified on official page https://www.teambelgium.be/fr/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_coib_brussel_vaph_matrix_733_5_05m_9901_loss_1700k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3033/; rq_3033=done; spawn **rq_3034**; ticks=3033.
+- Next: **rq_3034 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
