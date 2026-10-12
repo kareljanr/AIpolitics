@@ -32733,3 +32733,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2990 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-2990 run locally as fallback.
 - Next: **rq_2990** — remaining Flemish 88.99x hits below EUR2.3m, or another Flemish activity code with larger recipients (largest first); Rode Kruis-Vlaanderen code-73 review.
+
+
+## Tick 2991 — 2026-10-12T18:45:34Z — rq_2990 leftover dual Europacollege (College of Europe) Brugge YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 85.592 training, 87.101 residential care, 88.911 childcare and related codes in 18 Flemish city postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Europacollege (College of Europe)** → KBO 0409.518.855 had 0 prior entity rows.
+- KBO: Actief since 22 juli 1950; SON; zetel Dijver 11 8000 Brugge Extra adresinfo: HUIS ARENDS; 11 VE; 0 prior entity rows for 0409.518.855
+- Found: official NBB VOL-SON native PDF **2026-00125106** (727459 B / 49p; AV 28-05-2026; neergelegd 29/05/2026; MD5 1125e071b3cc09dfa01c62101c1fc606). VOL-SON 733 **EUR13925319** (+35.74%); 62 **EUR12304453**; 9901 **EUR1784709** (was 575409); 9904 1781864; equity 14009612; cash 2530947; FTE 150,7 (was 142,7).
+- FOI address: info@coleurope.eu — general mailbox verified on official page https://www.coleurope.eu/about-college/contact-us (Bruges campus Dijver 11 matches KBO).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_europacollege_brugge_vaph_matrix_733_13_93m_9901_1785k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2991/; rq_2990=done; spawn **rq_2992**; ticks=2991.
+- Next: **rq_2992 leftover dual** — Flemish 85.592/87.101/88.911 batch in progress; next: remaining units of this batch.

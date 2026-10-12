@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T18:34:16Z,every10_2990,2990,no,"tick2990 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2990 carried open; next remaining larger Flemish 88.99x hits, largest first (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T18:45:34Z,rq_2990,2991,no,tick2991 leftover dual Europacollege (College of Europe) Brugge 0409.518.855 Strong PDF 2026-00125106 733 13.93m / 9901 1785k; next rq_2992 Flemish 85.592/87.101/88.911 batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
