@@ -29384,3 +29384,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00181180** (1753531 B / 45p; AV 15-06-2026; neergelegd 22/06/2026; MD5 cc3a4627cf3b9b48dfec7080c4fd2589). VOL-VZW 733 **EUR7143970** (-0.15%); 62 **EUR6003971**; 9901 **EUR-99011** (was 314334); 9904 -126991; equity 6919657; cash 901556; FTE 79,6 (was 76,4).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_merelbeke_melle); FOI **gap_steevliet_merelbeke_melle_vaph_matrix_733_7_14m_9901_loss_99k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2656/; rq_2656=done; spawn **rq_2657**; ticks=2656.
 - Next: **rq_2657 leftover dual** — continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
+
+
+## Tick 2657 — 2026-10-12T08:33:21Z — rq_2657 leftover dual Spoor 56 Hamme YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Oost-Vlaanderen list (mei 2026): **Spoor 56** → KBO 0420.851.326 had 0 prior entity rows.
+- KBO: Actief since 23 april 1980; VZW; zetel Jagerstraat 32, 9220 Hamme; 3 VE; 0 prior entity rows for 0420.851.326
+- Found: official NBB VOL-VZW native PDF **2026-00232877** (656858 B / 44p; AV 10-06-2026; neergelegd 30/06/2026; MD5 0b8e55ee5d24255fb4a7051478dd2069). VOL-VZW 733 **EUR8266090** (+3.97%); 62 **EUR6889748**; 9901 **EUR159133** (was -219237); 9904 175333; equity 9774446; cash 739749; FTE 90,9 (was 93,2).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_hamme); FOI **gap_spoor_56_hamme_vaph_matrix_733_8_27m_9901_159k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2657/; rq_2657=done; spawn **rq_2658**; ticks=2657.
+- Next: **rq_2658 leftover dual** — continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
