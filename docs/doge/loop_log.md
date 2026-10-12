@@ -29627,3 +29627,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@arktos.be — general mailbox verified on official page https://www.arktos.be/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_arktos_leuven_vaph_matrix_733_17_95m_9901_loss_61k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2682/; rq_2682=done; spawn **rq_2683**; ticks=2682.
 - Next: **rq_2683 leftover dual** — Opgroeien OVBJ Vlaams-Brabant/Brussel list in progress; next: remaining OVBJ Vlaams-Brabant/Brussel units, then IBIS (verify mailbox), then KBO NACE 87/88 lists.
+
+
+## Tick 2683 — 2026-10-12T08:52:58Z — rq_2683 leftover dual Cocon Vilvoorde YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Vlaams-Brabant/Brussel list (april 2026): **Cocon** → KBO 0462.675.152 had 0 prior entity rows.
+- KBO: Actief since 5 november 1997; VZW; zetel Geldersstraat (Frans) 21 1800 Vilvoorde; 1 VE; 0 prior entity rows for 0462.675.152
+- Found: official NBB VKT-VZW native PDF **2026-00180053** (50152 B / 14p; AV 19-05-2026; neergelegd 22/06/2026; MD5 cd9a6330fd70450f1b9fe0bb88a1c4bc). VKT-VZW 9900 **EUR2410399** (+27.15%); 62 **EUR1879926**; 9901 **EUR473475** (was 123927); 9904 476086; equity 2811965; cash 2173270; FTE 24,5 (was 23,7).
+- FOI address: bram.de.wit@coconvilvoorde.be — named contact from official Opgroeien OVBJ list (opened); own website unreachable (HTTP 500) so no general mailbox could be verified.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_vilvoorde); FOI **gap_cocon_vilvoorde_vaph_matrix_9900_2_41m_9901_473k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2683/; rq_2683=done; spawn **rq_2684**; ticks=2683.
+- Next: **rq_2684 leftover dual** — Opgroeien OVBJ Vlaams-Brabant/Brussel list in progress; next: remaining OVBJ Vlaams-Brabant/Brussel units, then IBIS (verify mailbox), then KBO NACE 87/88 lists.
