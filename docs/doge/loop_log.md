@@ -33722,3 +33722,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@confortmosan.be — general mailbox verified on official site https://www.confortmosan.be/ and https://confortmosan.be/les-services/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_confort_mosan_code740_split_740_0_64m_9901_1170k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3088/; rq_3088=done; spawn **rq_3089**; ticks=3088.
 - Next: **rq_3089 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3089 — 2026-10-12T21:34:24Z — rq_3089 leftover dual La Ruche Chapelloise Chapelle-lez-Herlaimont YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Wallonia official list of the public-service housing companies (SLSP), interieur.wallonie.be 2026 transparency-report list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf), matched to KBO numbers, plus a completed nationwide KBO NACE-BEL 68.201 scan (step-10 postcodes 1000-9990, name-filtered for housing/intercommunale names); ranked by YE2025 NBB company-model code 740 (operating subsidies and compensatory amounts from public authorities); every candidate passed the name/alias/KBO/website dedup check: **La Ruche Chapelloise** → KBO 0401.733.418 had 0 prior entity rows.
+- KBO: Actief since 11 maart 1923; SRL; zetel Rue de Piéton 2 7160 Chapelle-lez-Herlaimont; 1 VE; 0 prior entity rows for 0401.733.418
+- Found: official NBB VOL-SRL native PDF **2026-00141138** (5109536 B / 87p; AV 28-05-2026; neergelegd 02/06/2026; MD5 c14f04206504df42ba385d098c9cb8c7). VOL-SRL 740 **EUR565117** (-13.92%); 62 **EUR2445412**; 9901 **EUR333171** (was 364551); 9904 341594; equity 62650393; cash 9482248; FTE 37,4 (was 40).
+- FOI address: info@laruchechapelloise.be — general mailbox verified on official contact page https://www.laruchechapelloise.be/contact/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_ruche_chapelloise_code740_split_740_0_57m_9901_333k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3089/; rq_3089=done; spawn **rq_3090**; ticks=3089.
+- Next: **rq_3090 leftover dual** — Batch done; next: remaining Walloon SLSPs with code 740 (Mouscron EUR0.56m, Saint-Ghislain EUR0.52m, Sambre et Biesme EUR0.44m, Herstal, IPBW, ...) or SLSPs with turnover only (code 70, NOT a subsidy), largest first, after the dedup check; skipped this batch: Le Foyer Jambois (EUR0.58m; no mailbox on its own site, only the city switchboard on namur.be); Flemish woonmaatschappijen are already entities (46 rows).
