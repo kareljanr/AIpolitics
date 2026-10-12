@@ -33399,3 +33399,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@erov.be — general mailbox verified on official page https://www.erov.be/ (also listed on the provincial contact page).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_erov_gent_vaph_matrix_9900_1_80m_9901_loss_55k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3056/; rq_3056=done; spawn **rq_3057**; ticks=3056.
 - Next: **rq_3057 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3057 — 2026-10-12T20:31:14Z — rq_3057 leftover dual EuroHealthNet Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (new codes 94.110 business, employers and public-authority associations, 94.120 professional bodies, 94.200 unions, 84.120 public administration of health/education/culture, 91.210; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure; every candidate passed the name/alias/KBO/website dedup check: **EuroHealthNet** → KBO 0479.553.647 had 0 prior entity rows.
+- KBO: Actief since 7 februari 2003; VZW; zetel Koningsstraat 146 1000 Brussel; 1 VE; 0 prior entity rows for 0479.553.647
+- Found: official NBB VKT-VZW native PDF **2026-00148872** (52980 B / 14p; AV 03-06-2026; neergelegd 09/06/2026; MD5 2613429d0578350e91115a692b83899f). VKT-VZW 9900 **EUR1661309** (+7.03%); 62 **EUR1616101**; 9901 **EUR17222** (was 36642); 9904 33018; equity 1077384; cash 2091501; FTE 20,3 (was 20).
+- FOI address: info@eurohealthnet.eu — general mailbox verified on official page https://eurohealthnet.eu/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_eurohealthnet_brussel_vaph_matrix_9900_1_66m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3057/; rq_3057=done; spawn **rq_3058**; ticks=3057.
+- Next: **rq_3058 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
