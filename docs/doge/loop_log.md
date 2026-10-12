@@ -29748,3 +29748,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@depatiovzw.be — general mailbox verified on official homepage https://www.depatiovzw.be/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_de_patio_brugge_vaph_matrix_733_10_22m_9901_468k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2694/; rq_2694=done; spawn **rq_2695**; ticks=2694.
 - Next: **rq_2695 leftover dual** — OVBJ leftover re-check across the 5 provincial lists (KBO-number match) in progress; next: remaining re-check leftovers, then KBO NACE 87/88 lists.
+
+
+## Tick 2695 — 2026-10-12T09:02:35Z — rq_2695 leftover dual De Cocon, jeugdhulp aan huis Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Oost-Vlaanderen list (re-check leftovers): **De Cocon, jeugdhulp aan huis** → KBO 0445.261.573 had 0 prior entity rows.
+- KBO: Actief since 17 oktober 1991; VZW; zetel Ham 133 9000 Gent; 2 VE; 0 prior entity rows for 0445.261.573
+- Found: official NBB VKT-VZW native PDF **2026-00064215** (52867 B / 14p; AV 18-03-2026; neergelegd 27/03/2026; MD5 3590dee5b8a3aa6316e42c2f9787ab7a). VKT-VZW 9900 **EUR3016515** (+4.01%); 62 **EUR2898230**; 9901 **EUR34646** (was 57153); 9904 41184; equity 1428798; cash 910826; FTE 37,8 (was 36,6).
+- FOI address: info@decocon.be — general mailbox verified on official page https://www.decocon.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_de_cocon_gent_vaph_matrix_9900_3_02m_9901_35k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2695/; rq_2695=done; spawn **rq_2696**; ticks=2695.
+- Next: **rq_2696 leftover dual** — OVBJ leftover re-check across the 5 provincial lists (KBO-number match) in progress; next: remaining re-check leftovers, then KBO NACE 87/88 lists.
