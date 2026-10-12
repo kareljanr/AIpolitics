@@ -33672,3 +33672,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: direction@maisonliegeoise.be — management (direction) mailbox listed on the official City of Liège page https://www.liege.be/mes-services/logement/copy_of_logements-sociaux (with KBO 0402.416.772); own contact page lists only service mailboxes.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_maison_liegeoise_code740_split_740_1_10m_9901_loss_1322k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3083/; rq_3083=done; spawn **rq_3084**; ticks=3083.
 - Next: **rq_3084 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3084 — 2026-10-12T21:33:33Z — rq_3084 leftover dual Le Logis Châtelettain Châtelet YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Wallonia official list of the public-service housing companies (SLSP), interieur.wallonie.be 2026 transparency-report list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf), matched to KBO numbers, plus a completed nationwide KBO NACE-BEL 68.201 scan (step-10 postcodes 1000-9990, name-filtered for housing/intercommunale names); ranked by YE2025 NBB company-model code 740 (operating subsidies and compensatory amounts from public authorities); every candidate passed the name/alias/KBO/website dedup check: **Le Logis Châtelettain** → KBO 0405.631.630 had 0 prior entity rows.
+- KBO: Actief since 23 oktober 1922; SRL; zetel Rue des Lorrains 198 bus A 6200 Châtelet; 1 VE; 0 prior entity rows for 0405.631.630
+- Found: official NBB VOL-SRL native PDF **2026-00324149** (3177297 B / 63p; AV 18-06-2026; neergelegd 19/07/2026; MD5 d87b62f79a5064d2bbaa5534144e0096). VOL-SRL 740 **EUR867195** (+8.70%); 62 **EUR4025067**; 9901 **EUR-616687** (was -644573); 9904 -1073913; equity 44939283; cash 9143759; FTE 57,3 (was 56,2).
+- FOI address: info@lelogischatelettain.be — general mailbox verified on the Province of Hainaut official directory https://websoc.hainaut.be/DI01748.htm (with KBO 405.631.630).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_logis_chatelettain_code740_split_740_0_87m_9901_loss_617k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3084/; rq_3084=done; spawn **rq_3085**; ticks=3084.
+- Next: **rq_3085 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
