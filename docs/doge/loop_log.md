@@ -29115,3 +29115,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00135857** (811853 B / 50p; AV 01-06-2026; neergelegd 02/06/2026; MD5 9e00d5ebce3ae99ab8c0ecc668da65dc). VOL-VZW 733 **EUR5939620** (+2.74%); 62 **EUR5108889**; 9901 **EUR-87074** (was 235060); 9904 -90404; equity 5989913; cash 283886; FTE 67 (was 66,6).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bilzen_hoeselt); FOI **gap_ckg_molenberg_bilzen_vaph_matrix_733_5_94m_9901_loss_87k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2627/; rq_2627=done; spawn **rq_2628**; ticks=2627.
 - Next: **rq_2628 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2628 — 2026-10-12T08:16:21Z — rq_2628 leftover dual CKG Lentekind Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien CKG contact list (april 2026): **CKG Lentekind** → KBO 0424.336.101 had 0 prior entity rows.
+- KBO: Actief since 30 november 1982; VZW; zetel Pothoekstraat 112A, 2060 Antwerpen; 2 VE; 0 prior entity rows for 0424.336.101
+- Found: official NBB VOL-VZW native PDF **2026-00108372** (218191 B / 32p; AV 30-04-2026; neergelegd 07/05/2026; MD5 2369143854bfb41b83d8b166d1daf742). VOL-VZW 733 **EUR4829674** (+3.94%); 62 **EUR3803727**; 9901 **EUR298284** (was 484575); 9904 363747; equity 3699490; cash 855700; FTE 49,1 (was 45,9).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_ckg_lentekind_antwerpen_vaph_matrix_733_4_83m_9901_298k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2628/; rq_2628=done; spawn **rq_2629**; ticks=2628.
+- Next: **rq_2629 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.

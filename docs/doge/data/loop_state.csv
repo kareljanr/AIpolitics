@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T08:16:12Z,rq_2627,2627,no,"tick2627 leftover dual CKG Molenberg Bilzen-Hoeselt 0871.620.620 Strong PDF 2026-00135857 733 5.94m / 9901 loss −87k; next rq_2628 continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T08:16:21Z,rq_2628,2628,no,"tick2628 leftover dual CKG Lentekind Antwerpen 0424.336.101 Strong PDF 2026-00108372 733 4.83m / 9901 298k; next rq_2629 continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists (local fallback runner; Actions cron unreliable)"
