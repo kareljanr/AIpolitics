@@ -32353,3 +32353,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@coften.be — general mailbox verified on official page https://www.coften.be/contact (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_coften_saint_josse_vaph_matrix_9900_2_49m_9901_35k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2952/; rq_2952=done; spawn **rq_2953**; ticks=2952.
 - Next: **rq_2953 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
+
+
+## Tick 2953 — 2026-10-12T18:02:05Z — rq_2953 leftover dual Horeca Forma Bruxelles / Horeca Forma Brussel Bruxelles (Anderlecht) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels 85.592 vocational training and 86.940 in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Horeca Forma Bruxelles / Horeca Forma Brussel** → KBO 0861.439.578 had 0 prior entity rows.
+- KBO: Actief since 3 november 2003; VZW; zetel Gespstraat 70 1070 Anderlecht; 1 VE; 0 prior entity rows for 0861.439.578
+- Found: official NBB VKT-VZW native PDF **2026-00259523** (387811 B / 20p; AV 25-06-2026; neergelegd 01/07/2026; MD5 e86cfdecadc31b20b54c0fb088c189b4). VKT-VZW 9900 **EUR2169158** (+7.00%); 62 **EUR1955609**; 9901 **EUR1608** (was -17130); 9904 0; equity 3429021; cash 416356; FTE 20,8 (was 19,2).
+- FOI address: formation.bruxelles@horecaformabru.be — general mailbox verified on official page https://horecaformabepro.be/fr/mentions-legales (registered office Rue de l'Agrafe 70 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_horeca_forma_brussel_vaph_matrix_9900_2_17m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2953/; rq_2953=done; spawn **rq_2954**; ticks=2953.
+- Next: **rq_2954 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
