@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T16:25:26Z,rq_2854,2854,no,tick2854 leftover dual Citeco Bruxelles (Schaerbeek) 0460.976.761 Strong PDF 2026-00515607 9900 1.49m / 9901 loss 9k; next rq_2855 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T16:25:35Z,rq_2855,2855,no,tick2855 leftover dual Wolvendael Bruxelles (Uccle) 0441.425.620 Strong PDF 2026-00210362 9900 1.48m / 9901 16k; next rq_2856 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

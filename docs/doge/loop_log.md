@@ -31371,3 +31371,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@citeco.be — general mailbox verified on official page https://citeco.be/fr/ (VAT number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_citeco_schaerbeek_vaph_matrix_9900_1_49m_9901_loss_9k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2854/; rq_2854=done; spawn **rq_2855**; ticks=2854.
 - Next: **rq_2855 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2855 — 2026-10-12T16:25:35Z — rq_2855 leftover dual Wolvendael Bruxelles (Uccle) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Wolvendael** → KBO 0441.425.620 had 0 prior entity rows.
+- KBO: Actief since 23 september 1989; VZW; zetel Evenaarsstraat 24 1180 Ukkel; 1 VE; 0 prior entity rows for 0441.425.620
+- Found: official NBB VKT-VZW native PDF **2026-00210362** (50589 B / 13p; AV 01-06-2026; neergelegd 29/06/2026; MD5 9040cdbe6b83479e89d4d7097fed2fed). VKT-VZW 9900 **EUR1478797** (-7.72%); 62 **EUR1374301**; 9901 **EUR16380** (was 81821); 9904 13831; equity 1111941; cash 566146; FTE 16,7 (was 15,3).
+- FOI address: equipe@lewolvendael.org — general team mailbox verified on official page https://www.lewolvendael.org/fr/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_wolvendael_uccle_vaph_matrix_9900_1_48m_9901_16k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2855/; rq_2855=done; spawn **rq_2856**; ticks=2855.
+- Next: **rq_2856 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
