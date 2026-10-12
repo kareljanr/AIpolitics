@@ -31065,3 +31065,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: directionadminh1h2@asblhama.be — general mailbox verified on official page https://asblhama.be/contact/ (functional administration mailbox of HAMA 1-2; the site lists no single general address, only per-centre management mailboxes).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ixelles); FOI **gap_hama_ixelles_vaph_matrix_9900_6_64m_9901_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2824/; rq_2824=done; spawn **rq_2825**; ticks=2824.
 - Next: **rq_2825 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2825 — 2026-10-12T15:31:35Z — rq_2825 leftover dual ANAIS (Association nationale d'aide à l'inclusion sociale) Bruxelles (Schaerbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.201/87.202 (residential care for people with intellectual disability) activity searches, Flemish and Brussels-Capital postcodes, ranked by primary figure: **ANAIS (Association nationale d'aide à l'inclusion sociale)** → KBO 0408.227.468 had 0 prior entity rows.
+- KBO: Actief since 1 maart 1971; VZW; zetel Maarschalk Fochlaan 11 1030 Schaarbeek; 5 VE; 0 prior entity rows for 0408.227.468
+- Found: official NBB VKT-VZW native PDF **2026-00279058** (447044 B / 22p; AV 23-06-2026; neergelegd 10/07/2026; MD5 08cb665520e760f44ee1049eeb34b705). VKT-VZW 9900 **EUR5310150** (-0.24%); 62 **EUR5085269**; 9901 **EUR55427** (was 187709); 9904 45678; equity 2370881; cash 1208935; FTE 72,2 (was 71,3).
+- FOI address: administration@anaisasbl.be — general mailbox verified on official page https://anaisasbl.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_anais_schaerbeek_vaph_matrix_9900_5_31m_9901_55k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2825/; rq_2825=done; spawn **rq_2826**; ticks=2825.
+- Next: **rq_2826 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
