@@ -30497,3 +30497,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: welkom@poerderie.be — general mailbox verified on official page https://poerderie.be/ (KBO number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_poerderie_kortrijk_vaph_matrix_9900_5_59m_9901_156k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2768/; rq_2768=done; spawn **rq_2769**; ticks=2768.
 - Next: **rq_2769 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2769 — 2026-10-12T13:48:44Z — rq_2769 leftover dual Pietje Pek Brugge YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, Limburg / West- and Oost-Vlaanderen postcodes: **Pietje Pek** → KBO 0462.950.712 had 0 prior entity rows.
+- KBO: Actief since 19 december 1997; VZW; zetel Katelijnestraat 115 8000 Brugge; 4 VE; 0 prior entity rows for 0462.950.712
+- Found: official NBB VKT-VZW native PDF **2026-00196635** (53381 B / 15p; AV 25-06-2026; neergelegd 25/06/2026; MD5 b1b7280b41b3c6b7e26c480a255be6b9). VKT-VZW 9900 **EUR3053495** (+10.47%); 62 **EUR2702615**; 9901 **EUR131077** (was 192055); 9904 70710; equity 2093427; cash 182893; FTE 44,2 (was 40,4).
+- FOI address: info@pietjepek.be — general mailbox verified on official page https://www.pietjepek.be/nl/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_pietje_pek_brugge_vaph_matrix_9900_3_05m_9901_131k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2769/; rq_2769=done; spawn **rq_2770**; ticks=2769.
+- Next: **rq_2770 leftover dual** — Batch done; next: more NACE 88.911 childcare VZWs (West-Vlaanderen remainder: De kleine ark, Mezennestje, Wieltjeshove) and 88.101 home-care services; skipped: Goed Gemutst Genk (only a named person's mailbox), Maan en Wolf (no own mailbox), Engelbewaarder Izegem (official contact page did not render a mailbox; deferred).
