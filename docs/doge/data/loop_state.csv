@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T17:31:46Z,rq_2926,2926,no,tick2926 leftover dual Wiegwijs Schaarbeek 0455.553.768 Strong PDF 2026-00192592 733 6.60m / 9901 loss 111k; next rq_2927 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T17:31:58Z,rq_2927,2927,no,tick2927 leftover dual Centre Médical Enaden Bruxelles (Saint-Gilles) 0423.474.680 Strong PDF 2026-00219398 9900 6.45m / 9901 457k; next rq_2928 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

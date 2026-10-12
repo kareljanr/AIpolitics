@@ -32093,3 +32093,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@wiegwijs.be — general mailbox verified on official page https://www.wiegwijs.be/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_wiegwijs_schaarbeek_vaph_matrix_733_6_60m_9901_loss_111k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2926/; rq_2926=done; spawn **rq_2927**; ticks=2926.
 - Next: **rq_2927 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2927 — 2026-10-12T17:31:58Z — rq_2927 leftover dual Centre Médical Enaden Bruxelles (Saint-Gilles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scans 2026-10-12 (Brussels 87.101-87.909 and 88.101-88.109 in 22 postcodes; earlier Flemish 87.x/88.10x and Brussels 88.99x scans), ranked by YE2025 NBB primary figure (733 subsidies, 9900 gross margin, or 70 turnover where 733 is empty): **Centre Médical Enaden** → KBO 0423.474.680 had 0 prior entity rows.
+- KBO: Actief since 3 juni 1982; VZW; zetel Sint-Bernardusstraat 114 1060 Sint-Gillis (bij-Brussel); 4 VE; 0 prior entity rows for 0423.474.680
+- Found: official NBB VKT-VZW native PDF **2026-00219398** (503813 B / 25p; AV 19-06-2026; neergelegd 29/06/2026; MD5 e35216594514d29055a2c1123f7bb722). VKT-VZW 9900 **EUR6445308** (+3.77%); 62 **EUR5963021**; 9901 **EUR456968** (was 57424); 9904 419811; equity 2627724; cash 1590268; FTE 66,3 (was 64,5).
+- FOI address: centre.medical.enaden@enaden.be — general mailbox verified on official page https://www.enaden.be/contact (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_centre_medical_enaden_saint_gilles_vaph_matrix_9900_6_45m_9901_457k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2927/; rq_2927=done; spawn **rq_2928**; ticks=2927.
+- Next: **rq_2928 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
