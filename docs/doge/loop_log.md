@@ -32223,3 +32223,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mlxl.be — general mailbox verified on official page https://www.mlxl.be/contact/ (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ixelles); FOI **gap_mission_locale_ixelles_vaph_matrix_9900_3_03m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2939/; rq_2939=done; spawn **rq_2940**; ticks=2939.
 - Next: **rq_2940 leftover dual** — Batch done; next: remaining larger scan hits (Mission Locale pour l'Emploi Etterbeek EUR3.72m, Fonds des Affections Respiratoires, SIREAS, Centre La Clairière re-check, ALTEO re-check), larger first; skipped this batch: Entraide et Fraternité (mailbox not visible on own contact page), SASLS (mailbox only on third-party pages), CM Service Patrimonium and IRRA (out of social-subsidy scope / not checked).
+
+
+## Tick 2940 — 2026-10-12T17:37:29Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2587** of 2639 rows; inventory budgets 59219 · commitments 6639 · leaderboard 8759 · entities 2658 · sources 8848.
+- Top10: **stable** (2931-2939 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2931-2939: MOVE - Molenbeek Vivre Ensemble (Molenbeek) · Mission Locale Bruxelles-Ville (Bruxelles) · Familiehulp Goed Wonen (Sint-Joost) · Mission Locale Saint-Josse (Saint-Josse) · Mission Locale Forest (Forest) · Human Smile (Koekelberg) · Tracé Brussel (Brussel) · CASABLANCO (Anderlecht) · Mission Locale d'Ixelles (Ixelles).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2940 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-2940 run locally as fallback.
+- Next: **rq_2940** — remaining larger scan hits (Mission Locale Etterbeek EUR3.72m, Fonds des Affections Respiratoires, SIREAS), larger first; scans nearly exhausted, a new source band will be needed soon.

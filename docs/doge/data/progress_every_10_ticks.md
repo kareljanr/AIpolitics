@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 2940** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2930; 2931-2939 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2931-2939 residual dual L5 (not near-complete of 348bn):** MOVE - Molenbeek Vivre Ensemble (Molenbeek) · Mission Locale Bruxelles-Ville (Bruxelles) · Familiehulp Goed Wonen (Sint-Joost) · Mission Locale Saint-Josse (Saint-Josse) · Mission Locale Forest (Forest) · Human Smile (Koekelberg) · Tracé Brussel (Brussel) · CASABLANCO (Anderlecht) · Mission Locale d'Ixelles (Ixelles) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2587** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2639** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2931-2939** MOVE - Molenbeek Vivre Ensemble (Molenbeek) · Mission Locale Bruxelles-Ville (Bruxelles) · Familiehulp Goed Wonen (Sint-Joost) · Mission Locale Saint-Josse (Saint-Josse) · Mission Locale Forest (Forest) · Human Smile (Koekelberg) · Tracé Brussel (Brussel) · CASABLANCO (Anderlecht) · Mission Locale d'Ixelles (Ixelles).
+
+### Inventory (tick 2940)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 59219 |
+| commitments.csv | 6639 |
+| leaderboard.csv | 8759 |
+| entities.csv | 2658 |
+| sources.csv | 8848 |
+| FOI ready | 2587 |
+| FOI total rows | 2639 |
+| research_queue open | rq_2940 (carried; next: remaining larger Brussels childcare/day-centre ASBLs and Flemish 88.10x VZWs, larger first) |
+
+### What improved since tick 2930
+
+- **New source (tick2931-2939):** MOVE - Molenbeek Vivre Ensemble (Molenbeek) · Mission Locale Bruxelles-Ville (Bruxelles) · Familiehulp Goed Wonen (Sint-Joost) · Mission Locale Saint-Josse (Saint-Josse) · Mission Locale Forest (Forest) · Human Smile (Koekelberg) · Tracé Brussel (Brussel) · CASABLANCO (Anderlecht) · Mission Locale d'Ixelles (Ixelles). Source: unprocessed larger hits from the earlier KBO NACE-BEL scans (mainly Brussels 88.99x), larger first. Seven French drafts, two Dutch (Familiehulp Goed Wonen, Tracé Brussel).
+- **Correction (tick 2931):** source text for ticks 2901-2919 (36 sources rows, 18 loop_log lines, 18 FOI drafts) now names the Brussels 87.x/88.10x scan instead of the older scan.
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION).
+- **Runner note:** 2576-2940 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2931-2939 (fast, ~5 min cap):** Entraide et Fraternité (mailbox not visible on own contact page), SASLS (mailbox only on third-party pages).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2930** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
