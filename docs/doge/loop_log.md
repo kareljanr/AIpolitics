@@ -29301,3 +29301,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00539210** (1470954 B / 48p; AV 18-06-2026; neergelegd 01/10/2026; MD5 796bf38eef75a9735c7fafc8facec1ed). VOL-VZW 733 **EUR24458126** (+4.04%); 62 **EUR20683073**; 9901 **EUR232856** (was 318963); 9904 337756; equity 16733525; cash 4376835; FTE 269 (was 264).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_roeselare); FOI **gap_xplo_roeselare_vaph_matrix_733_24_46m_9901_233k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2647/; rq_2647=done; spawn **rq_2648**; ticks=2647.
 - Next: **rq_2648 leftover dual** — continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists.
+
+
+## Tick 2648 — 2026-10-12T08:28:22Z — rq_2648 leftover dual Amon Zwalm YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OOOC contact list (april 2026): **Amon** → KBO 0542.976.306 had 0 prior entity rows. Uses the role mailbox directie@ from the official Opgroeien OOOC list (no info@ published).
+- KBO: Actief since 13 december 2013; VZW; zetel Kloosterstraat 3, 9630 Zwalm; 8 VE; 0 prior entity rows for 0542.976.306
+- Found: official NBB VOL-VZW native PDF **2026-00291268** (509575 B / 46p; AV 10-06-2026; neergelegd 09/07/2026; MD5 0c94275fd3671db8855654ce6ba15e82). VOL-VZW 733 **EUR7711950** (+5.45%); 62 **EUR6341019**; 9901 **EUR-57281** (was 284464); 9904 -95179; equity 6177033; cash 1118590; FTE 85,1 (was 80,4).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_zwalm); FOI **gap_amon_zwalm_vaph_matrix_733_7_71m_9901_loss_57k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2648/; rq_2648=done; spawn **rq_2649**; ticks=2648.
+- Next: **rq_2649 leftover dual** — continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists.
