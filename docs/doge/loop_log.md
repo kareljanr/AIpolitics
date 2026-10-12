@@ -30154,3 +30154,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@wgkvlb.be — general mailbox verified on official page https://www.witgelekruis.be/contacteer-ons (KBO number shown).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lubbeek); FOI **gap_wgk_vlaams_brabant_vaph_matrix_733_16_12m_9901_344k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2734/; rq_2734=done; spawn **rq_2735**; ticks=2734.
 - Next: **rq_2735 leftover dual** — Home-care / gezinszorg (NACE 88.101) and related units in progress; next: remaining units of this batch.
+
+
+## Tick 2735 — 2026-10-12T13:21:27Z — rq_2735 leftover dual Thuiszorg Vleminckveld Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101/88.991/87.302 activity search (home care for the elderly / ambulant addiction care / assistance flats) plus Wit-Gele Kruis provincial associations listed on witgelekruis.be: **Thuiszorg Vleminckveld** → KBO 0410.677.907 had 0 prior entity rows.
+- KBO: Actief since 26 april 1951; VZW; zetel Vleminckveld 28 2000 Antwerpen; 1 VE; 0 prior entity rows for 0410.677.907
+- Found: official NBB VOL-VZW native PDF **2026-00142752** (103411 B / 37p; AV 05-06-2026; neergelegd 08/06/2026; MD5 b2120802cbe93fef47e839464b8f0719). VOL-VZW 733 **EUR8832443** (+4.14%); 62 **EUR9385176**; 9901 **EUR26488** (was 159408); 9904 50942; equity 4614981; cash 1960945; FTE 175,8 (was 174,1).
+- FOI address: info@vleminckveld.be — general mailbox verified on official page https://www.thuiszorgvleminckveld.be/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_thuiszorg_vleminckveld_vaph_matrix_733_8_83m_9901_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2735/; rq_2735=done; spawn **rq_2736**; ticks=2735.
+- Next: **rq_2736 leftover dual** — Home-care / gezinszorg (NACE 88.101) and related units in progress; next: remaining units of this batch.
