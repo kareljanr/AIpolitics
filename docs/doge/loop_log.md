@@ -34412,3 +34412,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat_ger@st-augustin.be — secretariat mailbox verified on official school site https://www.st-augustin.be/ (Avenue Astrid 13, the ASBL KBO seat); distinct KBO from Collège Saint-Augustin Enghien (tick 3154).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_college_saint_augustin_gerpinnes_vaph_matrix_733_11_28m_9901_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3157/; rq_3157=done; spawn **rq_3158**; ticks=3157.
 - Next: **rq_3158 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3158 — 2026-10-12T23:51:54Z — rq_3158 leftover dual Pouvoir organisateur du Collège technique Saint-Jean (Wavre) Wavre YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Catholic school boards and university colleges (Flemish schoolbesturen VZW and FWB organising bodies / hautes écoles, ASBL); new KBO name search (legal form VZW/ASBL; words such as Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège Saint, Institut Saint), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Pouvoir organisateur du Collège technique Saint-Jean (Wavre)** → KBO 0419.192.626 had 0 prior entity rows.
+- KBO: Actief since 11 december 1978; VZW; zetel Rue du Pont-Saint-Jean 48 1300 Wavre; 3 VE; 0 prior entity rows for 0419.192.626
+- Found: official NBB VOL-VZW native PDF **2026-00109380** (795001 B / 40p; AV 21-04-2026; neergelegd 12/05/2026; MD5 91b7754a0bcbe1adf787f4d7f7066b06). VOL-VZW 733 **EUR10543150** (+2.27%); 62 **EUR9615557**; 9901 **EUR80896** (was 45730); 9904 52484; equity 2149547; cash 195029; FTE 1 (was 2).
+- FOI address: college@ctsjw.be — general mailbox verified on official contact page https://www.ctsjw.be/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_ctsj_wavre_vaph_matrix_733_10_54m_9901_81k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3158/; rq_3158=done; spawn **rq_3159**; ticks=3158.
+- Next: **rq_3159 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
