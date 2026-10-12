@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T16:17:07Z,every10_2840,2840,no,"tick2840 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2840 carried open; next remaining larger Brussels childcare/day-centre ASBLs and Flemish 88.10x VZWs, larger first (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T16:20:47Z,rq_2840,2841,no,tick2841 leftover dual Hubbie Sint-Gillis 0431.333.858 Strong PDF 2026-00192512 733 7.83m / 9901 151k; next rq_2842 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

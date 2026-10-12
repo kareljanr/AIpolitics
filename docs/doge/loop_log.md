@@ -31230,3 +31230,13 @@ Append-only. Each tick adds a short entry.
 - Next: **rq_2840** — remaining larger Brussels childcare/day-centre ASBLs and Flemish 88.10x VZWs, larger first.
 
 - Legal fix follow-up (2026-10-12T16:18:03Z): the 234 existing Dutch drafts that cited the repealed decree of 26 March 2004 as their legal basis now cite title II, chapter 3 of the Bestuursdecreet of 7 December 2018 (same wording as foi-template-nl.md). Only the legal-reference sentence and the deadline sentence changed ("wettelijke termijn" -> 20 calendar days art. II.43 §1, appeal art. II.48, requester address art. II.40 §2); 2 lines per file, nothing else. 0 drafts left with the old citation as their only basis.
+
+
+## Tick 2841 — 2026-10-12T16:20:47Z — rq_2840 leftover dual Hubbie Sint-Gillis YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Hubbie** → KBO 0431.333.858 had 0 prior entity rows.
+- KBO: Actief since 11 september 1985; VZW; zetel Jean Robiestraat 29 1060 Sint-Gillis (bij-Brussel); 6 VE; 0 prior entity rows for 0431.333.858
+- Found: official NBB VOL-VZW native PDF **2026-00192512** (1885511 B / 45p; AV 15-06-2026; neergelegd 22/06/2026; MD5 fc6fa0d09ef65aa342cca009dcf7a01f). VOL-VZW 733 **EUR7831311** (+2.48%); 62 **EUR7238340**; 9901 **EUR151001** (was 227035); 9904 118656; equity 7077168; cash 1613669; FTE 105,5 (was 103,2).
+- FOI address: info@hubbie.brussels — general mailbox verified on official page https://www.hubbie.brussels/nl/contacteer-ons (head office address matches KBO).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_hubbie_sint_gillis_vaph_matrix_733_7_83m_9901_151k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2841/; rq_2840=done; spawn **rq_2842**; ticks=2841.
+- Next: **rq_2842 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
