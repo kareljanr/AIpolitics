@@ -32993,3 +32993,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info.vlaams-brabant@saamo.be — general mailbox verified on official page https://www.saamo.be/vlaams-brabant/contact/ (KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_saamo_vlaams_brabant_vaph_matrix_9900_2_59m_9901_loss_62k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3016/; rq_3016=done; spawn **rq_3017**; ticks=3016.
 - Next: **rq_3017 leftover dual** — Further-extended Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3017 — 2026-10-12T19:27:49Z — rq_3017 leftover dual Moderator, Forum voor herstelrecht en bemiddeling Leuven (Kessel-Lo) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish multi-code 85.592/87.10x/87.30x/88.10x/88.911/88.991-88.999, extended to 30 further Flemish postcodes plus extra codes 88.991-88.994/88.102/87.20x/90-91 in the previous 22), unprocessed hits ranked by YE2025 NBB primary figure: **Moderator, Forum voor herstelrecht en bemiddeling** → KBO 0464.883.980 had 0 prior entity rows.
+- KBO: Actief since 28 oktober 1998; VZW; zetel Diestsesteenweg 49 3010 Leuven; 1 VE; 0 prior entity rows for 0464.883.980
+- Found: official NBB VKT-VZW native PDF **2026-00106964** (331513 B / 20p; AV 19-03-2026; neergelegd 09/05/2026; MD5 b7c6fee36851c0e86fe8b2de22700672). VKT-VZW 9900 **EUR2433056** (+4.43%); 62 **EUR2380356**; 9901 **EUR41255** (was -47060); 9904 50663; equity 864589; cash 507308; FTE 26,2 (was 26,3).
+- FOI address: info@moderator.be — central-secretariat mailbox verified on official page https://moderator.be/contact/ (registered seat Diestsesteenweg 49 and KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_moderator_leuven_vaph_matrix_9900_2_43m_9901_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3017/; rq_3017=done; spawn **rq_3018**; ticks=3017.
+- Next: **rq_3018 leftover dual** — Further-extended Flemish multi-code batch in progress; next: remaining units of this batch.
