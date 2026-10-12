@@ -29950,3 +29950,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@begeleidingscentrum-autisme.be — general mailbox verified on official page https://www.begeleidingscentrum-autisme.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mechelen); FOI **gap_bc_autisme_mechelen_vaph_matrix_9900_6_11m_9901_315k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2714/; rq_2714=done; spawn **rq_2715**; ticks=2714.
 - Next: **rq_2715 leftover dual** — KBO NACE 87.20x (residential disability/psychiatric care) scan in progress; next: remaining 87.201/87.202/87.203 units (spare Philippus Neri 0410.505.582 Sint-Niklaas, check odd 2024 loss), then 88.994 welzijnswerk and 87.301.
+
+
+## Tick 2715 — 2026-10-12T09:26:45Z — rq_2715 leftover dual Ondo Antwerpen (Borgerhout) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.201/87.202/87.203 activity search (residential care for persons with a disability / psychiatric problems): **Ondo** → KBO 0435.425.872 had 0 prior entity rows.
+- KBO: Actief since 8 juni 1988; VZW; zetel Helmstraat 109   bus 16 2140 Antwerpen; 1 VE; 0 prior entity rows for 0435.425.872
+- Found: official NBB VKT-VZW native PDF **2026-00180055** (48717 B / 13p; AV 04-06-2026; neergelegd 22/06/2026; MD5 1a7fbdcadeb7c1deecaac82b179f93a8). VKT-VZW 9900 **EUR3794750** (+27.58%); 62 **EUR3472123**; 9901 **EUR261499** (was -54554); 9904 271940; equity 2524342; cash 440377; FTE 48,5 (was 44,6).
+- FOI address: info@ondo.nu — general mailbox verified on official page https://www.ondo.nu/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_ondo_antwerpen_vaph_matrix_9900_3_79m_9901_261k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2715/; rq_2715=done; spawn **rq_2716**; ticks=2715.
+- Next: **rq_2716 leftover dual** — KBO NACE 87.20x (residential disability/psychiatric care) scan in progress; next: remaining 87.201/87.202/87.203 units (spare Philippus Neri 0410.505.582 Sint-Niklaas, check odd 2024 loss), then 88.994 welzijnswerk and 87.301.
