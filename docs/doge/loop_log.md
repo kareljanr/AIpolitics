@@ -31773,3 +31773,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@lepelican-asbl.be — general mailbox verified on official page https://www.lepelican-asbl.be/contact (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_le_pelican_koekelberg_vaph_matrix_9900_0_88m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2894/; rq_2894=done; spawn **rq_2895**; ticks=2894.
 - Next: **rq_2895 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2895 — 2026-10-12T16:48:54Z — rq_2895 leftover dual AccessAndGo-ABP Bruxelles (Woluwe-Saint-Pierre) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **AccessAndGo-ABP** → KBO 0407.574.303 had 0 prior entity rows.
+- KBO: Actief since 11 juni 1964; VZW; zetel Oranjebloesemstraat 1 bus 213 1150 Sint-Pieters-Woluwe; 1 VE; 0 prior entity rows for 0407.574.303
+- Found: official NBB VKT-VZW native PDF **2026-00371496** (83356 B / 15p; AV 18-06-2026; neergelegd 28/07/2026; MD5 1c5c4a980dc42d2670f4e0ace367cd1e). VKT-VZW 9900 **EUR772675** (-6.88%); 62 **EUR840025**; 9901 **EUR-76877** (was 36426); 9904 -67939; equity 1478318; cash 189686; FTE 11,9 (was 12,6).
+- FOI address: info@accessandgo-abp.be — general mailbox verified on official page https://accessandgo.be/ (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_accessandgo_woluwe_vaph_matrix_9900_0_77m_9901_loss_77k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2895/; rq_2895=done; spawn **rq_2896**; ticks=2895.
+- Next: **rq_2896 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
