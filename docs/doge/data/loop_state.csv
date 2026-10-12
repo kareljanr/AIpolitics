@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T08:27:34Z,rq_2643,2643,no,"tick2643 leftover dual LIA Waasmunster 0446.107.156 Strong PDF 2026-00260101 733 9.42m / 9901 loss −127k; next rq_2644 continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T08:27:44Z,rq_2644,2644,no,"tick2644 leftover dual Kruislink Beerse 0412.113.111 Strong PDF 2026-00283089 733 4.54m / 9901 90k; next rq_2645 continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists (local fallback runner; Actions cron unreliable)"

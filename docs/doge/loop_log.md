@@ -29265,3 +29265,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00260101** (3012012 B / 45p; AV 29-06-2026; neergelegd 03/07/2026; MD5 6205851b0290fd1f7a09e3a838c1f07a). VOL-VZW 733 **EUR9417532** (+5.18%); 62 **EUR7757749**; 9901 **EUR-127149** (was 253876); 9904 -138656; equity 2893787; cash 848413; FTE 96,2 (was 96,2).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_waasmunster); FOI **gap_lia_waasmunster_vaph_matrix_733_9_42m_9901_loss_127k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2643/; rq_2643=done; spawn **rq_2644**; ticks=2643.
 - Next: **rq_2644 leftover dual** — continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists.
+
+
+## Tick 2644 — 2026-10-12T08:27:44Z — rq_2644 leftover dual Kruislink Beerse YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OOOC contact list (april 2026): **Kruislink** → KBO 0412.113.111 had 0 prior entity rows. No general mailbox published on kruislink.be; using the official Opgroeien OOOC-list contact.
+- KBO: Actief since 22 maart 1972; VZW; zetel Bisschopslaan 82, 2340 Beerse; 4 VE; 0 prior entity rows for 0412.113.111
+- Found: official NBB VOL-VZW native PDF **2026-00283089** (73321 B / 25p; AV 01-06-2026; neergelegd 09/07/2026; MD5 12f75b2ce46838f890a2bf709aa570e5). VOL-VZW 733 **EUR4541764** (+4.90%); 62 **EUR4095222**; 9901 **EUR90179** (was 281815); 9904 125619; equity 5087176; cash 466679; FTE 56 (was 53,4).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_beerse); FOI **gap_kruislink_beerse_vaph_matrix_733_4_54m_9901_90k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2644/; rq_2644=done; spawn **rq_2645**; ticks=2644.
+- Next: **rq_2645 leftover dual** — continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists.
