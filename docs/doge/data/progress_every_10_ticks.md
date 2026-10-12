@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 3040** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3030; 3031-3039 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3031-3039 residual dual L5 (not near-complete of 348bn):** VISITWallonia (Brussel) · UC Leuven (Heverlee) · COIB (Brussel) · Gymfed (Gent) · Tennis en Padel Vlaanderen (Elsene) · WGC De Ridderbuurt (Leuven) · Cycling Vlaanderen (Gent) · Volley Vlaanderen (Vilvoorde) · Heyo (Gent) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2677** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2729** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 3031-3039** VISITWallonia (Brussel) · UC Leuven (Heverlee) · COIB (Brussel) · Gymfed (Gent) · Tennis en Padel Vlaanderen (Elsene) · WGC De Ridderbuurt (Leuven) · Cycling Vlaanderen (Gent) · Volley Vlaanderen (Vilvoorde) · Heyo (Gent).
+
+### Inventory (tick 3040)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 59961 |
+| commitments.csv | 6729 |
+| leaderboard.csv | 8849 |
+| entities.csv | 2748 |
+| sources.csv | 9118 |
+| FOI ready | 2677 |
+| FOI total rows | 2729 |
+| research_queue open | rq_3040 (carried; next: another Flemish activity code, largest first) |
+
+### What improved since tick 3030
+
+- **New source (tick3031-3039):** VISITWallonia (Brussel) · UC Leuven (Heverlee) · COIB (Brussel) · Gymfed (Gent) · Tennis en Padel Vlaanderen (Elsene) · WGC De Ridderbuurt (Leuven) · Cycling Vlaanderen (Gent) · Volley Vlaanderen (Vilvoorde) · Heyo (Gent). Source: a new, previously unscanned set of KBO NACE-BEL codes: 93.191 (sports federations), 93.121/93.199 (sport), 84.130 (public administration of economic affairs) and 72.200 (social-science research), over 59 Flemish city and Brussels postcodes, ranked largest first (EUR14.10m-2.62m), all larger than the rq_3030 leftovers (max EUR1.61m), so no leftover fill was needed. Caveat: VISITWallonia and COIB already existed as budget-level entities (visitwallonia, boic); the new rows add the YE2025 filing figure at L5 depth.
+- **Toolkit:** new funder profiles for sports federations (Sport Vlaanderen), university college, community health centre, youth work, Walloon tourism promotion and the Olympic committee; code-73 mode not triggered.
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION).
+- **Runner note:** 2576-3040 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 3031-3039 (fast, ~5 min cap):** Moev (EUR6.69m; general mailbox obfuscated on its official pages), Sportwerk Vlaanderen (EUR5.29m; contact form plus personal and DPO mailboxes only), Belgian Hockey (EUR2.88m; no mailbox on its official contact page).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3030** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

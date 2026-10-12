@@ -33223,3 +33223,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@heyo.be — general mailbox verified on official pages https://www.heyo.be/contact and https://www.heyo.be/algemene-voorwaarden (KBO number shown there).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_heyo_gent_vaph_matrix_9900_2_62m_9901_335k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3039/; rq_3039=done; spawn **rq_3040**; ticks=3039.
 - Next: **rq_3040 leftover dual** — Batch done; next: remaining new-code hits (Basketbal Vlaanderen EUR2.60m, G-sport Vlaanderen EUR2.16m, Vlaamse Zwemfederatie EUR2.03m) then rq_3030 leftovers (De Troef EUR1.61m, Bejaardenzorg KEI EUR1.53m, PCH Kindermishandeling EUR1.49m); skipped this batch: Moev (general mailbox obfuscated on its official pages), Sportwerk Vlaanderen (contact form, only personal and DPO mailboxes), Belgian Hockey (no mailbox on its official contact page).
+
+
+## Tick 3040 — 2026-10-12T20:19:04Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2677** of 2729 rows; inventory budgets 59961 · commitments 6729 · leaderboard 8849 · entities 2748 · sources 9118.
+- Top10: **stable** (3031-3039 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3031-3039: VISITWallonia (Brussel) · UC Leuven (Heverlee) · COIB (Brussel) · Gymfed (Gent) · Tennis en Padel Vlaanderen (Elsene) · WGC De Ridderbuurt (Leuven) · Cycling Vlaanderen (Gent) · Volley Vlaanderen (Vilvoorde) · Heyo (Gent).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3040 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3040 run locally as fallback.
+- Next: **rq_3040** — remaining new-code hits (Basketbal Vlaanderen EUR2.60m, G-sport Vlaanderen EUR2.16m, Vlaamse Zwemfederatie EUR2.03m), then rq_3030 leftovers (De Troef EUR1.61m, Bejaardenzorg KEI EUR1.53m, PCH Kindermishandeling EUR1.49m), largest first.
