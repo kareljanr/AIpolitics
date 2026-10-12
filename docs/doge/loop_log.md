@@ -29366,3 +29366,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00232722** (359331 B / 45p; AV 22-06-2026; neergelegd 25/06/2026; MD5 b7be2fed2da014c22c86c948fe0b6cba). VOL-VZW 733 **EUR7218491** (+3.33%); 62 **EUR6300204**; 9901 **EUR-40306** (was 44499); 9904 -45320; equity 3640279; cash 630460; FTE 78,5 (was 79).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lievegem); FOI **gap_blij_leven_lievegem_vaph_matrix_733_7_22m_9901_loss_40k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2654/; rq_2654=done; spawn **rq_2655**; ticks=2654.
 - Next: **rq_2655 leftover dual** — continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
+
+
+## Tick 2655 — 2026-10-12T08:33:01Z — rq_2655 leftover dual De Wiekslag Alken YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ Limburg list (mei 2026): **De Wiekslag** → KBO 0421.199.932 had 0 prior entity rows. No general mailbox published; using the official Opgroeien OVBJ-list contact.
+- KBO: Actief since 3 september 1980; VZW; zetel Wetzerstraat 14 bus 1, 3570 Alken; 9 VE; 0 prior entity rows for 0421.199.932
+- Found: official NBB VOL-VZW native PDF **2026-00122564** (1615471 B / 46p; AV 20-05-2026; neergelegd 27/05/2026; MD5 65d0b562a58b3fa44e7a3ba0b2a79e5d). VOL-VZW 733 **EUR8072719** (+3.91%); 62 **EUR7093516**; 9901 **EUR-14425** (was 261475); 9904 -13325; equity 7300971; cash 1083826; FTE 91 (was 89,8).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_alken); FOI **gap_de_wiekslag_alken_vaph_matrix_733_8_07m_9901_loss_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2655/; rq_2655=done; spawn **rq_2656**; ticks=2655.
+- Next: **rq_2656 leftover dual** — continue Opgroeien OVBJ provincial lists (O-Vl / W-Vl / Limburg leftovers: Binnenstad, Oranjehuis, Golfbreker, Daidalos, Hof ter Welle, Ons Geluk, Nieuwland, De Loods), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
