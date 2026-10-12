@@ -32143,3 +32143,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@move.brussels — general mailbox verified on official page https://move.brussels/nous-contacter/ (address matches KBO).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_move_molenbeek_vaph_matrix_733_7_90m_9901_424k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2931/; rq_2930=done; spawn **rq_2932**; ticks=2931.
 - Next: **rq_2932 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2932 — 2026-10-12T17:36:09Z — rq_2932 leftover dual Mission Locale pour l'Emploi de Bruxelles-Ville Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE earlier KBO NACE-BEL activity scans 2026-10-12 (Brussels 88.991-88.999 and 87.x/88.10x in 22 postcodes; Flemish 87.x/88.10x), unprocessed hits ranked by YE2025 NBB primary figure: **Mission Locale pour l'Emploi de Bruxelles-Ville** → KBO 0445.088.557 had 0 prior entity rows.
+- KBO: Actief since 7 februari 1991; VZW; zetel Antwerpselaan 26 1000 Brussel; 1 VE; 0 prior entity rows for 0445.088.557
+- Found: official NBB VOL-VZW native PDF **2026-00230675** (1047900 B / 51p; AV 26-06-2026; neergelegd 29/06/2026; MD5 340ecf9a7bb9e6aa6f10591237222da9). VOL-VZW 733 **EUR5678277** (-0.17%); 62 **EUR5108769**; 9901 **EUR-4941** (was -18164); 9904 -73; equity 676919; cash 771809; FTE 93,2 (was 93).
+- FOI address: info@mlocbxl.irisnet.be — general mailbox verified on official page https://missionlocalebxlville.be/ (address matches KBO).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_mission_locale_bruxelles_ville_vaph_matrix_733_5_68m_9901_loss_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2932/; rq_2932=done; spawn **rq_2933**; ticks=2932.
+- Next: **rq_2933 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
