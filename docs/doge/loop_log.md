@@ -31004,3 +31004,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@la-bastide.be — general mailbox verified on official page https://la-bastide.be/contact/ (site states COCOF recognition).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_la_bastide_woluwe_vaph_matrix_9900_1_79m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2818/; rq_2818=done; spawn **rq_2819**; ticks=2818.
 - Next: **rq_2819 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2819 — 2026-10-12T15:13:41Z — rq_2819 leftover dual Le Cercle Trianon Bruxelles (Woluwe-Saint-Lambert) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101/87.301/87.302/87.202 activity searches, Brussels-Capital postcodes (French-language ASBLs), ranked by primary figure: **Le Cercle Trianon** → KBO 0455.922.665 had 0 prior entity rows.
+- KBO: Actief since 25 maart 1995; VZW; zetel St-Lambrechts-Woluwelaan 71 1200 Sint-Lambrechts-Woluwe; 1 VE; 0 prior entity rows for 0455.922.665
+- Found: official NBB VKT-VZW native PDF **2026-00352593** (52217 B / 14p; AV 20-07-2026; neergelegd 29/07/2026; MD5 468920670ba6e7018ed0c656b99066e8). VKT-VZW 9900 **EUR684135** (-3.85%); 62 **EUR620999**; 9901 **EUR39085** (was 99528); 9904 38732; equity 89369; cash 240569; FTE 13,8 (was 14).
+- FOI address: info@residencetrianon.be — general mailbox verified on official page https://www.residencetrianon.be/contact/ (opened via web fetch; COCOF-recognised service residence).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_le_cercle_trianon_woluwe_vaph_matrix_9900_0_68m_9901_39k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2819/; rq_2819=done; spawn **rq_2820**; ticks=2819.
+- Next: **rq_2820 leftover dual** — Batch done; next: remaining Brussels French-language ASBLs (Zusterkens der Armen 5.6m if a verifiable mailbox appears; Vivre chez Soi Watermael-Boitsfort 2.0m has no mailbox on its site) and more Flemish 87.xxx/88.1xx VZWs; skipped: Solidaritel (Solidaris mutual titres-services, regional-branch mailbox only), Vivre chez Soi (no mailbox on official page).
