@@ -30184,3 +30184,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: leuven@msocvlaamsbrabant.be — seat (Leuven centre) mailbox verified on official page https://www.msoc-vlaamsbrabant.be/onze-centra; no organisation-wide mailbox published.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_msoc_vlaams_brabant_vaph_matrix_9900_2_22m_9901_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2737/; rq_2737=done; spawn **rq_2738**; ticks=2737.
 - Next: **rq_2738 leftover dual** — Home-care / gezinszorg (NACE 88.101) and related units in progress; next: remaining units of this batch.
+
+
+## Tick 2738 — 2026-10-12T13:21:54Z — rq_2738 leftover dual Mariahof Leuven Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101/88.991/87.302 activity search (home care for the elderly / ambulant addiction care / assistance flats) plus Wit-Gele Kruis provincial associations listed on witgelekruis.be: **Mariahof Leuven** → KBO 0657.943.971 had 0 prior entity rows.
+- KBO: Actief since 1 juli 2016; VZW; zetel Charles Deberiotstraat 12 3000 Leuven; 1 VE; 0 prior entity rows for 0657.943.971
+- Found: official NBB VKT-VZW native PDF **2026-00063925** (41648 B / 11p; AV 27-03-2026; neergelegd 27/03/2026; MD5 d6321b8af6070d0394c6884fc645c5b2). VKT-VZW 9900 **EUR1080580** (+11.44%); 62 **EUR423253**; 9901 **EUR273653** (was 200213); 9904 257868; equity 858828; cash 112134; FTE 6,2 (was 6,2).
+- FOI address: info@mariahof.be — general mailbox verified on official page https://www.mariahof.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_mariahof_leuven_vaph_matrix_9900_1_08m_9901_274k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2738/; rq_2738=done; spawn **rq_2739**; ticks=2738.
+- Next: **rq_2739 leftover dual** — Home-care / gezinszorg (NACE 88.101) and related units in progress; next: remaining units of this batch.

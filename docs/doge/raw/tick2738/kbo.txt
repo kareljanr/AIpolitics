@@ -1,0 +1,1 @@
+{"status": "Actief", "begin": "1 juli 2016", "rv": "Vereniging zonder winstoogmerk", "addr": "Charles Deberiotstraat 12 3000 Leuven", "ve": "1"}
