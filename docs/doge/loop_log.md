@@ -31451,3 +31451,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@rce-bruxelles.be — general mailbox verified on official page https://rce-bruxelles.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_rce_schaerbeek_vaph_matrix_9900_1_07m_9901_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2862/; rq_2862=done; spawn **rq_2863**; ticks=2862.
 - Next: **rq_2863 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2863 — 2026-10-12T16:29:34Z — rq_2863 leftover dual Crèche Sainte-Gertrude Bruxelles (Etterbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Crèche Sainte-Gertrude** → KBO 0417.989.826 had 0 prior entity rows.
+- KBO: Actief since 23 december 1977; VZW; zetel Félix Hapstraat 16 1040 Etterbeek; 1 VE; 0 prior entity rows for 0417.989.826
+- Found: official NBB MIC-VZW native PDF **2026-00221607** (44130 B / 10p; AV 18-06-2026; neergelegd 25/06/2026; MD5 01534de9c7a7973cc420a472a3adf8ad). MIC-VZW 9900 **EUR1028947** (+16.28%); 62 **EUR966918**; 9901 **EUR-24216** (was -102131); 9904 -20297; equity 286784; cash 304113; FTE n/a.
+- FOI address: info@crechestegertrude.be — general crèche mailbox verified on official ONE page https://my.one.be/milieu-accueil/2281.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_creche_sainte_gertrude_etterbeek_vaph_matrix_9900_1_03m_9901_loss_24k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2863/; rq_2863=done; spawn **rq_2864**; ticks=2863.
+- Next: **rq_2864 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

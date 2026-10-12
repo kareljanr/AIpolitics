@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T16:29:25Z,rq_2862,2862,no,tick2862 leftover dual Réseau Coordination Enfance Bruxelles (Schaerbeek) 0461.931.717 Strong PDF 2026-00276645 9900 1.07m / 9901 12k; next rq_2863 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T16:29:34Z,rq_2863,2863,no,tick2863 leftover dual Crèche Sainte-Gertrude Bruxelles (Etterbeek) 0417.989.826 Strong PDF 2026-00221607 9900 1.03m / 9901 loss 24k; next rq_2864 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
