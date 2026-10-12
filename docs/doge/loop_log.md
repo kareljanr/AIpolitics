@@ -31743,3 +31743,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: infos@sonatine.be — general mailbox verified on official page https://grsa.be/contact (service mailbox of SAse La Sonatine at the KBO address).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_grsa_forest_vaph_matrix_9900_1_27m_9901_loss_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2891/; rq_2890=done; spawn **rq_2892**; ticks=2891.
 - Next: **rq_2892 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2892 — 2026-10-12T16:48:29Z — rq_2892 leftover dual Centre de Prévention du Suicide Bruxelles (Ixelles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Centre de Prévention du Suicide** → KBO 0408.100.279 had 0 prior entity rows.
+- KBO: Actief since 15 november 1970; VZW; zetel Gachardstraat 88 1050 Elsene; 1 VE; 0 prior entity rows for 0408.100.279
+- Found: official NBB MIC-VZW native PDF **2026-00453554** (36751 B / 10p; AV 25-06-2026; neergelegd 30/08/2026; MD5 a79facd16c9e1b5e2d0cf8288aade5a7). MIC-VZW 9900 **EUR997955** (+7.88%); 62 **EUR910211**; 9901 **EUR26413** (was 23368); 9904 20569; equity 558706; cash 408092; FTE n/a.
+- FOI address: cps@preventionsuicide.be — general mailbox verified on official page https://www.preventionsuicide.be/fr/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_centre_prevention_suicide_ixelles_vaph_matrix_9900_1_00m_9901_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2892/; rq_2892=done; spawn **rq_2893**; ticks=2892.
+- Next: **rq_2893 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

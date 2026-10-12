@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T16:48:20Z,rq_2890,2891,no,tick2891 leftover dual Groupement de Services d'Accompagnement (GrSA) Bruxelles (Forest) 0472.740.386 Strong PDF 2026-00394418 9900 1.27m / 9901 loss 10k; next rq_2892 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T16:48:29Z,rq_2892,2892,no,tick2892 leftover dual Centre de Prévention du Suicide Bruxelles (Ixelles) 0408.100.279 Strong PDF 2026-00453554 9900 1.00m / 9901 26k; next rq_2893 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
