@@ -31623,3 +31623,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@braille.be — general mailbox verified on official page https://www.braille.be/fr/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_ligue_braille_saint_gilles_vaph_matrix_733_2_93m_9901_loss_227k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2879/; rq_2879=done; spawn **rq_2880**; ticks=2879.
 - Next: **rq_2880 leftover dual** — Batch done; next: remaining larger hits of the fresh scan (Brussels 88.999 triage, Groupement de Services d'Accompagnement, CATD, Missing Children Europe); the Flemish part of the scan returned almost only bodies already covered.
+
+
+## Tick 2880 — 2026-10-12T16:41:16Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2533** of 2585 rows; inventory budgets 58775 · commitments 6585 · leaderboard 8705 · entities 2604 · sources 8686.
+- Top10: **stable** (2871-2879 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2871-2879: Projet Lama (Ixelles) · PROFO (Brussel) · Guides Catholiques de Belgique (Ixelles) · Famille d'accueil Odile Henri (Saint-Gilles) · MASS de Bruxelles (Bruxelles) · SOS enfants ULB - CHU Saint-Pierre (Bruxelles) · L'Accueil familial (Woluwe-Saint-Lambert) · Eqla (Woluwe-Saint-Lambert) · Ligue Braille (Saint-Gilles).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2880 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-2880 run locally as fallback.
+- Next: **rq_2880** — remaining fresh-scan hits (Service Social Juif, Espace Social Télé-Service, Centre d'aide aux personnes, Free Clinic, Les Petits Riens), larger first.

@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 2880** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2870; 2871-2879 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2871-2879 residual dual L5 (not near-complete of 348bn):** Projet Lama (Ixelles) · PROFO (Brussel) · Guides Catholiques de Belgique (Ixelles) · Famille d'accueil Odile Henri (Saint-Gilles) · MASS de Bruxelles (Bruxelles) · SOS enfants ULB - CHU Saint-Pierre (Bruxelles) · L'Accueil familial (Woluwe-Saint-Lambert) · Eqla (Woluwe-Saint-Lambert) · Ligue Braille (Saint-Gilles) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2533** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2585** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2871-2879** Projet Lama (Ixelles) · PROFO (Brussel) · Guides Catholiques de Belgique (Ixelles) · Famille d'accueil Odile Henri (Saint-Gilles) · MASS de Bruxelles (Bruxelles) · SOS enfants ULB - CHU Saint-Pierre (Bruxelles) · L'Accueil familial (Woluwe-Saint-Lambert) · Eqla (Woluwe-Saint-Lambert) · Ligue Braille (Saint-Gilles).
+
+### Inventory (tick 2880)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 58775 |
+| commitments.csv | 6585 |
+| leaderboard.csv | 8705 |
+| entities.csv | 2604 |
+| sources.csv | 8686 |
+| FOI ready | 2533 |
+| FOI total rows | 2585 |
+| research_queue open | rq_2880 (carried; next: remaining larger Brussels childcare/day-centre ASBLs and Flemish 88.10x VZWs, larger first) |
+
+### What improved since tick 2870
+
+- **New source (tick2871-2879):** Projet Lama (Ixelles) · PROFO (Brussel) · Guides Catholiques de Belgique (Ixelles) · Famille d'accueil Odile Henri (Saint-Gilles) · MASS de Bruxelles (Bruxelles) · SOS enfants ULB - CHU Saint-Pierre (Bruxelles) · L'Accueil familial (Woluwe-Saint-Lambert) · Eqla (Woluwe-Saint-Lambert) · Ligue Braille (Saint-Gilles). Source: fresh KBO NACE-BEL activity scan (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure. The Flemish part returned almost only bodies already covered; all 9 new units are Brussels bodies. Eight used the French FOI template, one (PROFO) the Dutch Bestuursdecreet template.
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION).
+- **Wording fix (tick 2871):** Ukkepuk VRT is now described only as located at the VRT address; the inferred staff-crèche claim was removed.
+- **Runner note:** 2576-2880 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 2871-2879 (fast, ~5 min cap):** Centre La Clairière (EUR14.2m; no mailbox on site), Groupement d'Entraide sociale La Famille (EUR6.9m; named-person/school mailboxes only), ALTEO (EUR6.7m; contact page blocked/empty).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2870** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
