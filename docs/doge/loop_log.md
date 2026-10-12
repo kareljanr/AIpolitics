@@ -31115,3 +31115,14 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lebivouac.be — general mailbox verified on official page https://www.lebivouac.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_le_bivouac_uccle_vaph_matrix_9900_0_89m_9901_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2829/; rq_2829=done; spawn **rq_2830**; ticks=2829.
 - Next: **rq_2830 leftover dual** — Batch done; next: more 87.20x/88.10x disability providers (Flemish VAPH and Brussels COCOF/PHARE), larger first; skipped: none with a verified mailbox among the larger hits; Dienstencentrum Sint Oda and BIJS not in the size-ranked triage (no usable YE2025 filing).
+
+
+## Tick 2830 — 2026-10-12T15:32:35Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2488** of 2540 rows; inventory budgets 58413 · commitments 6540 · leaderboard 8660 · entities 2559 · sources 8551.
+- Top10: **stable** (2821-2829 added 9 leaderboard rows, max pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 2821-2829: Viro (Brugge) · Institut Royal d'Accueil pour le Handicap Moteur (Woluwe-Saint-Lambert) · Centre de Rééducation de l'Enfance à Bruxelles (Woluwe-Saint-Lambert) · HAMA (Ixelles) · ANAIS (Schaerbeek) · Centre Espoir et Joie (Ganshoren) · De Dauw (Wortegem-Petegem) · Centre d'hébergement Pierre Jurdant (Forest) · Le Bivouac (Uccle).
+- Hunt this tick: none (EVERY-10 used the tick); rq_2830 stays open (carried).
+- Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2830 run locally as fallback.
+- Source choice (recorded): ticks 2821-2829 used KBO NACE 87.201/87.202 searches (Flanders, Brussels) ranked by size. FOI: general/functional mailboxes only, all verified on opened official pages.
+- Next: **rq_2830** — more 87.20x/88.10x disability and mental-health providers (Flemish VAPH, Brussels COCOF/PHARE), larger first.

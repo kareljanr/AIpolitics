@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 2830** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 2820; 2821-2829 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 2821-2829 residual dual L5 (not near-complete of 348bn):** Viro (Brugge) · Institut Royal d'Accueil pour le Handicap Moteur (Woluwe-Saint-Lambert) · Centre de Rééducation de l'Enfance à Bruxelles (Woluwe-Saint-Lambert) · HAMA (Ixelles) · ANAIS (Schaerbeek) · Centre Espoir et Joie (Ganshoren) · De Dauw (Wortegem-Petegem) · Centre d'hébergement Pierre Jurdant (Forest) · Le Bivouac (Uccle) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2488** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2540** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 2821-2829** Viro (Brugge) · Institut Royal d'Accueil pour le Handicap Moteur (Woluwe-Saint-Lambert) · Centre de Rééducation de l'Enfance à Bruxelles (Woluwe-Saint-Lambert) · HAMA (Ixelles) · ANAIS (Schaerbeek) · Centre Espoir et Joie (Ganshoren) · De Dauw (Wortegem-Petegem) · Centre d'hébergement Pierre Jurdant (Forest) · Le Bivouac (Uccle).
+
+### Inventory (tick 2830)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 58413 |
+| commitments.csv | 6540 |
+| leaderboard.csv | 8660 |
+| entities.csv | 2559 |
+| sources.csv | 8551 |
+| FOI ready | 2488 |
+| FOI total rows | 2540 |
+| research_queue open | rq_2830 (carried; next: more 87.20x/88.10x disability and mental-health providers (Flemish VAPH, Brussels COCOF/PHARE), larger first) |
+
+### What improved since tick 2820
+
+- **New source (tick2821-2829):** Viro (Brugge) · Institut Royal d'Accueil pour le Handicap Moteur (Woluwe-Saint-Lambert) · Centre de Rééducation de l'Enfance à Bruxelles (Woluwe-Saint-Lambert) · HAMA (Ixelles) · ANAIS (Schaerbeek) · Centre Espoir et Joie (Ganshoren) · De Dauw (Wortegem-Petegem) · Centre d'hébergement Pierre Jurdant (Forest) · Le Bivouac (Uccle). Source: KBO NACE-BEL 87.201/87.202 activity searches (Flemish and Brussels-Capital postcodes) ranked by primary figure (largest first). Seven Brussels bodies used the French FOI template (voluntary-request wording; none is a communal ASBL).
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION); IRAHM via an official PDF on irahm.be; Pierre Jurdant via web fetch; HAMA via its functional administration mailbox (the site lists no single general address).
+- **Runner note:** 2576-2830 ran on the local fallback runner (Actions last ticked 2575), from the fresh clone /workspace/AIpolitics-loop since 2681; toolkit persistent at /workspace/AIpolitics-loop-tk. Do not run both at once.
+- **Rejected 2821-2829 (fast):** none of the larger hits rejected; Dienstencentrum Sint Oda (Pelt), BIJS (Sint-Niklaas) and Plus & Co (Herselt) did not reach the size-ranked triage (no usable YE2025 filing).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 2820** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
