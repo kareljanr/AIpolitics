@@ -29467,3 +29467,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00162070** (49767 B / 13p; AV 11-05-2026; neergelegd 10/06/2026; MD5 179183ffff741de9ab6f281cbf27108e). VKT-VZW 9900 **EUR8647407** (+3.58%); 62 **EUR7611856**; 9901 **EUR471404** (was 624022); 9904 485073; equity 5820818; cash 3326429; FTE 113,7 (was 109,1).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_oranjehuis_kortrijk_vaph_matrix_9900_8_65m_9901_471k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2665/; rq_2665=done; spawn **rq_2666**; ticks=2665.
 - Next: **rq_2666 leftover dual** — continue Opgroeien OVBJ lists (leftovers: Daidalos, IBIS, CAS Genk, YAR, Pieter Simenon, Huize Sint-Vincentius Halen, Jeugdzorgcentrum Kinrooi), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
+
+
+## Tick 2666 — 2026-10-12T08:37:09Z — rq_2666 leftover dual Jongerenzorg Zuid-West-Vlaanderen Zwevegem YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OVBJ West-Vlaanderen list (mei 2026): **Jongerenzorg Zuid-West-Vlaanderen** → KBO 0413.774.977 had 0 prior entity rows. Uses role mailbox directie@ from the Opgroeien list (site publishes only personal-name pattern).
+- KBO: Actief since 15 november 1973; VZW; zetel Driesstraat 6, 8554 Zwevegem; 2 VE; 0 prior entity rows for 0413.774.977
+- Found: official NBB VKT-VZW native PDF **2026-00120124** (672841 B / 24p; AV 20-05-2026; neergelegd 26/05/2026; MD5 a7b15a360e92384b9b145b48cb73d701). VKT-VZW 9900 **EUR3576244** (-2.51%); 62 **EUR3206256**; 9901 **EUR116936** (was 220342); 9904 94369; equity 5527621; cash 71864; FTE 41,6 (was 40,2).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_zwevegem); FOI **gap_jongerenzorg_zwvl_zwevegem_vaph_matrix_9900_3_58m_9901_117k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2666/; rq_2666=done; spawn **rq_2667**; ticks=2666.
+- Next: **rq_2667 leftover dual** — continue Opgroeien OVBJ lists (leftovers: Daidalos, IBIS, CAS Genk, YAR, Pieter Simenon, Huize Sint-Vincentius Halen, Jeugdzorgcentrum Kinrooi), then OVBJ Antwerpen / Vlaams-Brabant, then KBO NACE 87/88.
