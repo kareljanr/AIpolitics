@@ -30833,3 +30833,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@deoverbron.be — general mailbox verified on official page https://www.deoverbron.be/bereikbaarheid/ ("algemene vragen").
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_de_overbron_neder_over_heembeek_vaph_matrix_733_2_63m_9901_128k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2801/; rq_2800=done; spawn **rq_2802**; ticks=2801.
 - Next: **rq_2802 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2802 — 2026-10-12T15:06:11Z — rq_2802 leftover dual Serviceresidentie Parkhof Herent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301/87.302 (nursing homes, assistance flats) and 88.101 (home care) activity searches, Brussels and remaining Flemish postcodes, ranked by primary figure: **Serviceresidentie Parkhof** → KBO 0899.791.893 had 0 prior entity rows.
+- KBO: Actief since 9 juli 2008; VZW; zetel Persilstraat 50 3020 Herent; 1 VE; 0 prior entity rows for 0899.791.893
+- Found: official NBB VKT-VZW native PDF **2026-00393964** (48860 B / 14p; AV 30-06-2026; neergelegd 12/08/2026; MD5 a6cd8825a5345fc1ac2b32ca6d7a868c). VKT-VZW 9900 **EUR2380733** (+7.31%); 62 **EUR360026**; 9901 **EUR172894** (was -416); 9904 -585276; equity -11190950; cash 14979; FTE 3,9 (was 4,6).
+- FOI address: info@parkhof.be — general mailbox verified on official page https://www.parkhof.be/contact/ (also on the municipal page herent.be).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_herent); FOI **gap_parkhof_herent_vaph_matrix_9900_2_38m_9901_173k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2802/; rq_2802=done; spawn **rq_2803**; ticks=2802.
+- Next: **rq_2803 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
