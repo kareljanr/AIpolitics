@@ -33369,3 +33369,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info.ov@voka.be — regional general mailbox verified on official page https://www.voka.be/contact (listed with KBO number 0407.604.688).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_voka_kvk_oost_vlaanderen_vaph_matrix_9900_5_05m_9901_232k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3053/; rq_3053=done; spawn **rq_3054**; ticks=3053.
 - Next: **rq_3054 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3054 — 2026-10-12T20:30:45Z — rq_3054 leftover dual Conseil des Communes et Régions d'Europe (CEMR) Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (new codes 94.110 business, employers and public-authority associations, 94.120 professional bodies, 94.200 unions, 84.120 public administration of health/education/culture, 91.210; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure; every candidate passed the name/alias/KBO/website dedup check: **Conseil des Communes et Régions d'Europe (CEMR)** → KBO 0544.372.611 had 0 prior entity rows.
+- KBO: Actief since 14 januari 2014; IVZW; zetel de Meeûssquare 1 1000 Brussel; 1 VE; 0 prior entity rows for 0544.372.611
+- Found: official NBB VOL-IVZW native PDF **2026-00181067** (224866 B / 36p; AV 04-06-2026; neergelegd 22/06/2026; MD5 781aade1c33b77d3a7efeef4b8752ab1). VOL-IVZW 733 **EUR2554088** (+4.05%); 62 **EUR3138046**; 9901 **EUR-65091** (was -167370); 9904 -55104; equity 1016437; cash 1034979; FTE 34,5 (was 30,4).
+- FOI address: info@ccre-cemr.org — general mailbox verified on official page https://ccre-cemr.org/contact.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cemr_brussel_vaph_matrix_733_2_55m_9901_loss_65k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3054/; rq_3054=done; spawn **rq_3055**; ticks=3054.
+- Next: **rq_3055 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
