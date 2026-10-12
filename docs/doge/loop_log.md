@@ -30042,3 +30042,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@hobo.brussels — general mailbox verified on official page https://www.hobo.brussels/site/nl/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_hobo_brussel_vaph_matrix_9900_0_77m_9901_loss_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2723/; rq_2723=done; spawn **rq_2724**; ticks=2723.
 - Next: **rq_2724 leftover dual** — KBO NACE 88.994 (general welfare work) and 87.301 (rest homes) scan in progress; next: remaining 88.994/87.301 units.
+
+
+## Tick 2724 — 2026-10-12T09:36:52Z — rq_2724 leftover dual Protestants Sociaal Centrum Open Huis Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.994/87.301 activity search (general welfare work without accommodation / residential care homes for the elderly): **Protestants Sociaal Centrum Open Huis** → KBO 0880.331.616 had 0 prior entity rows.
+- KBO: Actief since 28 maart 2006; VZW; zetel Oudesteenweg 13 bus GLV 2060 Antwerpen; 1 VE; 0 prior entity rows for 0880.331.616
+- Found: official NBB VKT-VZW native PDF **2026-00185112** (49254 B / 13p; AV 20-05-2026; neergelegd 17/06/2026; MD5 b9b999e0e56f100f71efab1245c0958d). VKT-VZW 9900 **EUR537980** (+30.27%); 62 **EUR469701**; 9901 **EUR8625** (was 2736); 9904 8883; equity 23856; cash 85923; FTE 5,9 (was 5,3).
+- FOI address: openhuis@psc-antwerpen.be — general mailbox verified on official page https://psc-openhuis.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_psc_open_huis_antwerpen_vaph_matrix_9900_0_54m_9901_9k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2724/; rq_2724=done; spawn **rq_2725**; ticks=2724.
+- Next: **rq_2725 leftover dual** — KBO NACE 88.994 (general welfare work) and 87.301 (rest homes) scan in progress; next: remaining 88.994/87.301 units.
