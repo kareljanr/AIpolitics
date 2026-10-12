@@ -31863,3 +31863,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@casmmu.be — general mailbox verified on official page https://www.casmmu.be/ (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_casmmu_schaerbeek_vaph_matrix_9900_2_61m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2903/; rq_2903=done; spawn **rq_2904**; ticks=2903.
 - Next: **rq_2904 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2904 — 2026-10-12T17:18:02Z — rq_2904 leftover dual Magnolia Bruxelles (Jette) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Magnolia** → KBO 0414.197.918 had 0 prior entity rows.
+- KBO: Actief since 12 maart 1974; VZW; zetel Leopold I straat 314 1090 Jette; 1 VE; 0 prior entity rows for 0414.197.918
+- Found: official NBB VOL-VZW native PDF **2026-00253826** (1508146 B / 42p; AV 24-06-2026; neergelegd 01/07/2026; MD5 d3c4addca0ac3344eacaf471eec56a3e). VOL-VZW 733 **EUR2255016** (-8.51%); 62 **EUR8240290**; 9901 **EUR902586** (was -76354); 9904 853909; equity 2730466; cash 718617; FTE 132,4 (was 132,4).
+- FOI address: info@magnolia-jette.be — general mailbox verified on official page https://www.magnolia-jette.be/displaypage.aspx?lgs=nl&pid=8.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_magnolia_jette_vaph_matrix_733_2_26m_9901_903k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2904/; rq_2904=done; spawn **rq_2905**; ticks=2904.
+- Next: **rq_2905 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
