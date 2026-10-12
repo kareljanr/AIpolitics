@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T19:03:02Z,every10_3010,3010,no,"tick3010 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3010 carried open; next further Flemish postcodes/codes with larger recipients, largest first (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T19:26:51Z,rq_3010,3011,no,tick3011 leftover dual de Biehal Lommel 0465.822.803 Strong PDF 2026-00080367 733 4.37m / 9901 209k; next rq_3012 Further-extended Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

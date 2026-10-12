@@ -32933,3 +32933,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3010 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3010 run locally as fallback.
 - Next: **rq_3010** — remaining extended-scan hits (JOBROAD EUR1.71m, PCH Kindermishandeling EUR1.49m) or further Flemish postcodes/codes with larger recipients, largest first.
+
+
+## Tick 3011 — 2026-10-12T19:26:51Z — rq_3010 leftover dual de Biehal Lommel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish multi-code 85.592/87.10x/87.30x/88.10x/88.911/88.991-88.999, extended to 30 further Flemish postcodes plus extra codes 88.991-88.994/88.102/87.20x/90-91 in the previous 22), unprocessed hits ranked by YE2025 NBB primary figure: **de Biehal** → KBO 0465.822.803 had 0 prior entity rows.
+- KBO: Actief since 14 januari 1999; VZW; zetel Stationsstraat 206 3920 Lommel; 14 VE; 0 prior entity rows for 0465.822.803
+- Found: official NBB VOL-VZW native PDF **2026-00080367** (1477848 B / 46p; AV 24-03-2026; neergelegd 13/04/2026; MD5 03eec49bb009f3c7625e92c5c493d0d2). VOL-VZW 733 **EUR4369731** (+5.22%); 62 **EUR7390730**; 9901 **EUR208706** (was -129968); 9904 157133; equity 1480381; cash 586341; FTE 186,2 (was 190,5).
+- FOI address: info@debiehal.be — general mailbox verified on official page https://www.debiehal.be/contact (address Stationsstraat 206 matches KBO).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lommel); FOI **gap_de_biehal_lommel_vaph_matrix_733_4_37m_9901_209k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3011/; rq_3010=done; spawn **rq_3012**; ticks=3011.
+- Next: **rq_3012 leftover dual** — Further-extended Flemish multi-code batch in progress; next: remaining units of this batch.
