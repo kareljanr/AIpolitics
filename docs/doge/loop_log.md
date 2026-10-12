@@ -30011,3 +30011,14 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2720 run locally as fallback.
 - Source choice (recorded): ticks 2711-2719 used the KBO NACE-BEL 87.201/87.202/87.203 activity search by postcode (largest VAPH/psychiatric units first). FOI: general mailboxes only, each verified on an opened official page.
 - Next: **rq_2720** — Philippus Neri 0410.505.582 (verify odd 2024 loss), then NACE 88.994 welzijnswerk and 87.301; Pleegzorg West/Oost re-check.
+
+
+## Tick 2721 — 2026-10-12T09:36:19Z — rq_2720 leftover dual Tele-Onthaal Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.994/87.301 activity search (general welfare work without accommodation / residential care homes for the elderly): **Tele-Onthaal** → KBO 0408.655.555 had 0 prior entity rows.
+- KBO: Actief since 23 december 1965; VZW; zetel Arteveldestraat 43 bus 5 1000 Brussel; 6 VE; 0 prior entity rows for 0408.655.555
+- Found: official NBB VKT-VZW native PDF **2026-00106952** (54647 B / 17p; AV 04-04-2026; neergelegd 09/05/2026; MD5 71d5a2011931cd6bf23a582c9b63dbe0). VKT-VZW 9900 **EUR3465422** (n/a); 62 **EUR3908953**; 9901 **EUR-579596**; 9904 -550330; equity 2327286; cash 1634542; FTE 38,2.
+- FOI address: info@tele-onthaal.be — general mailbox verified on official page https://tele-onthaal.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_tele_onthaal_vaph_matrix_9900_3_47m_9901_loss_580k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2721/; rq_2720=done; spawn **rq_2722**; ticks=2721.
+- Next: **rq_2722 leftover dual** — KBO NACE 88.994 (general welfare work) and 87.301 (rest homes) scan in progress; next: remaining 88.994/87.301 units.
+- Data fix (tick 2721): `vzw_ter_engelen` (WZC Ter Engelen Lokeren, KBO 0430.882.809) FOI address `info@covida.be` was wrong (Covida is the Genk VAPH provider KBO 0410.422.737, see tick 2711). Replaced website/foi_email with `https://www.hofterengelen.be` / `info@hofterengelen.be`, the general mailbox verified on the official page https://www.hofterengelen.be/contact/ (page shows KBO 0430.882.809). One-row surgical edit of entities.csv; its foi_queue row and draft still name info@covida.be (not edited).
