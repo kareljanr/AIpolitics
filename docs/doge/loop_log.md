@@ -30732,3 +30732,13 @@ Append-only. Each tick adds a short entry.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_gezinszorg_villers_ekeren_vaph_matrix_733_19_47m_9901_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2791/; rq_2790=done; spawn **rq_2792**; ticks=2791.
 - Next: **rq_2792 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
 - Fix: corrected the tick 2790 log line "Next" (stray "NACE 88.911" before 87.301 removed).
+
+
+## Tick 2792 — 2026-10-12T14:35:54Z — rq_2792 leftover dual Helan Thuiszorg Antwerpen (Wilrijk) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301 (nursing homes) and 88.101 (home care) activity search, Antwerpen and Vlaams-Brabant postcodes, ranked by primary figure (plus two larger 88.911 childcare VZWs): **Helan Thuiszorg** → KBO 0749.571.854 had 0 prior entity rows.
+- KBO: Actief since 30 juni 2020; VZW; zetel Boomsesteenweg 5 2610 Antwerpen; 2 VE; 0 prior entity rows for 0749.571.854
+- Found: official NBB VKT-VZW native PDF **2026-00199880** (217972 B / 22p; AV 18-06-2026; neergelegd 24/06/2026; MD5 1969a69e0dc31e69d13cd996e0fd4386). VKT-VZW 9900 **EUR10211181** (+8.60%); 62 **EUR10335551**; 9901 **EUR-188437** (was -38330); 9904 -172370; equity 2095223; cash 1609314; FTE 167,9 (was 168,8).
+- FOI address: thuiszorg@helan.be — general mailbox verified on official page https://mijn.helan.be/ajax/documentPreview.html?filename=Onthaalbrochure-TZ.pdf&id=3622 (official Helan brochure: "Algemeen e-mailadres Helan Thuiszorg vzw"; KBO listed on helan.be juridische entiteiten).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_helan_thuiszorg_vaph_matrix_9900_10_21m_9901_loss_188k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2792/; rq_2792=done; spawn **rq_2793**; ticks=2792.
+- Next: **rq_2793 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
