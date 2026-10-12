@@ -30134,3 +30134,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@limburg.wgk.be — general mailbox verified on official page https://www.witgelekruis.be/contacteer-ons (KBO number shown).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_genk); FOI **gap_wgk_limburg_vaph_matrix_733_42_84m_9901_4400k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2732/; rq_2732=done; spawn **rq_2733**; ticks=2732.
 - Next: **rq_2733 leftover dual** — Home-care / gezinszorg (NACE 88.101) and related units in progress; next: remaining units of this batch.
+
+
+## Tick 2733 — 2026-10-12T13:21:10Z — rq_2733 leftover dual Wit-Gele Kruis van Antwerpen Herentals YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101/88.991/87.302 activity search (home care for the elderly / ambulant addiction care / assistance flats) plus Wit-Gele Kruis provincial associations listed on witgelekruis.be: **Wit-Gele Kruis van Antwerpen** → KBO 0407.672.687 had 0 prior entity rows.
+- KBO: Actief since 22 oktober 1970; VZW; zetel Nonnenstraat(HRT) 12 bus 1 2200 Herentals; 15 VE; 0 prior entity rows for 0407.672.687
+- Found: official NBB VOL-VZW native PDF **2026-00157388** (569805 B / 55p; AV 26-05-2026; neergelegd 10/06/2026; MD5 94a7ee0a07d1ee2e8e436de36f32d878). VOL-VZW 733 **EUR29037732** (+6.59%); 62 **EUR74012634**; 9901 **EUR695490** (was 1165750); 9904 790878; equity 28174168; cash 5410696; FTE 824,2 (was 824,1).
+- FOI address: info@wgkantwerpen.be — general mailbox verified on official page https://www.witgelekruis.be/contacteer-ons (KBO number shown).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_herentals); FOI **gap_wgk_antwerpen_vaph_matrix_733_29_04m_9901_695k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2733/; rq_2733=done; spawn **rq_2734**; ticks=2733.
+- Next: **rq_2734 leftover dual** — Home-care / gezinszorg (NACE 88.101) and related units in progress; next: remaining units of this batch.
