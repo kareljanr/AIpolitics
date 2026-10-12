@@ -32753,3 +32753,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: les.etoiles@telenet.be — general mailbox verified on official page https://lesetoileswzc.be/contact/ (address Assisielaan 4 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_oostende); FOI **gap_les_etoiles_oostende_vaph_matrix_9900_4_22m_9901_33k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2992/; rq_2992=done; spawn **rq_2993**; ticks=2992.
 - Next: **rq_2993 leftover dual** — Flemish 85.592/87.101/88.911 batch in progress; next: remaining units of this batch.
+
+
+## Tick 2993 — 2026-10-12T18:45:55Z — rq_2993 leftover dual Werkervaringsbedrijven (WEB) Turnhout YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 85.592 training, 87.101 residential care, 88.911 childcare and related codes in 18 Flemish city postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Werkervaringsbedrijven (WEB)** → KBO 0447.364.394 had 0 prior entity rows.
+- KBO: Actief since 7 februari 1992; VZW; zetel Steenweg op Tielen 70 2300 Turnhout; 6 VE; 0 prior entity rows for 0447.364.394
+- Found: official NBB VOL-VZW native PDF **2026-00220495** (108071 B / 40p; AV 24-06-2026; neergelegd 30/06/2026; MD5 4bf29e8f0915aa56d79bb846e2fe3a71). VOL-VZW 733 **EUR3934535** (+12.99%); 62 **EUR7543557**; 9901 **EUR-321986** (was -512103); 9904 -329339; equity 824627; cash 811079; FTE 113,6 (was 106,7).
+- FOI address: info@webwerkt.be — general mailbox verified on official page https://webwerkt.be/wie-zijn-we/ (address Steenweg op Tielen 70 and KBO number shown there).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_turnhout); FOI **gap_werkervaringsbedrijven_turnhout_vaph_matrix_733_3_93m_9901_loss_322k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2993/; rq_2993=done; spawn **rq_2994**; ticks=2993.
+- Next: **rq_2994 leftover dual** — Flemish 85.592/87.101/88.911 batch in progress; next: remaining units of this batch.
