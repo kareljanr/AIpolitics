@@ -29940,3 +29940,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: kids@kids.be — general mailbox verified on official page https://www.kids.be/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_hasselt); FOI **gap_kids_hasselt_vaph_matrix_733_21_81m_9901_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2713/; rq_2713=done; spawn **rq_2714**; ticks=2713.
 - Next: **rq_2714 leftover dual** — KBO NACE 87.20x (residential disability/psychiatric care) scan in progress; next: remaining 87.201/87.202/87.203 units (spare Philippus Neri 0410.505.582 Sint-Niklaas, check odd 2024 loss), then 88.994 welzijnswerk and 87.301.
+
+
+## Tick 2714 — 2026-10-12T09:26:37Z — rq_2714 leftover dual Begeleidingscentrum voor personen met autisme Mechelen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.201/87.202/87.203 activity search (residential care for persons with a disability / psychiatric problems): **Begeleidingscentrum voor personen met autisme** → KBO 0420.501.334 had 0 prior entity rows.
+- KBO: Actief since 15 september 1979; VZW; zetel Leuvensesteenweg 212 2800 Mechelen; 10 VE; 0 prior entity rows for 0420.501.334
+- Found: official NBB VKT-VZW native PDF **2026-00137762** (56111 B / 16p; AV 19-05-2026; neergelegd 04/06/2026; MD5 a1902220f1285285a666be2471048ee9). VKT-VZW 9900 **EUR6106173** (+8.39%); 62 **EUR5298030**; 9901 **EUR315424** (was 371806); 9904 300790; equity 3159460; cash 1976576; FTE 75,4 (was 68,5).
+- FOI address: info@begeleidingscentrum-autisme.be — general mailbox verified on official page https://www.begeleidingscentrum-autisme.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mechelen); FOI **gap_bc_autisme_mechelen_vaph_matrix_9900_6_11m_9901_315k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2714/; rq_2714=done; spawn **rq_2715**; ticks=2714.
+- Next: **rq_2715 leftover dual** — KBO NACE 87.20x (residential disability/psychiatric care) scan in progress; next: remaining 87.201/87.202/87.203 units (spare Philippus Neri 0410.505.582 Sint-Niklaas, check odd 2024 loss), then 88.994 welzijnswerk and 87.301.
