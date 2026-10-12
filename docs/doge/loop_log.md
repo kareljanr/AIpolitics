@@ -28786,3 +28786,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00346367** (58692 B / 18p; AV 21-05-2026; neergelegd 28/07/2026; MD5 421b13b53e2bca1f0ee1441fafbddaed). VKT 9900 **EUR2897846** (+4.33%); 62 **EUR2820181** (+5.21%); 9901 **EUR−13192** (was +8798); 9904 −5717; equity 1172545; debt 576996; cash 518507 + beleggingen 252189; FTE 37.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.40; entities +1 (parent city_roeselare); FOI **gap_start_west_vlaanderen_roeselare_vaph_matrix_9900_2_90m_9901_loss_13k_62_2_82m_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2591/; rq_2591=done; spawn **rq_2592**; ticks=2591.
 - Next: **rq_2592 leftover dual** — continue VAPH list scan.
+
+
+## Tick 2592 — 2026-10-12T07:41:32Z — rq_2592 leftover dual 't Prieeltje Tienen YE2025 (local fallback runner)
+
+- Hunt: carried from 2589 scan (VAPH page 51): **'t Prieeltje Tienen** → KBO 0426.007.667 had 0 prior repo rows.
+- KBO: Actief since 06.10.1983; VZW; zetel Delportestraat 2 3300 Tienen since 15.12.2004; 1 VE; statuten 12.09.2023 doel: opvang/verblijf kinderen met een beperking; 0 prior repo rows for 0426.007.667; Identity trap != leftover Hoito Tienen 0429.766.220 remine@2569 != Huis in de Stad Tienen 0407.637.748
+- Found: official NBB VOL-VZW native PDF **2026-00206862** (71292 B / 23p; AV 22-06-2026; neergelegd 23/06/2026; MD5 03c3511e7128ee72dd9f7330544c64bd). VOL 70/76A **EUR1077087** (−4.83%); 733 **EUR970918** (+1.82%); 62 858060; 9901 **EUR22165** (was 57027); 9904 17111; equity 1774154 (kapitaalsubsidies **EUR1105856** was 936676); debt 1027302 (>1j 853692); FTE 11,5.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 3.90; entities +1 (parent city_tienen); FOI **gap_t_prieeltje_tienen_vaph_matrix_733_971k_kapsub_jump_1_11m_debt_1_03m_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2592/; rq_2592=done; spawn **rq_2593**; ticks=2592.
+- Next: **rq_2593 leftover dual** — continue VAPH list scan.

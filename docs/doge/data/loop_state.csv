@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T07:41:23Z,rq_2590,2591,no,tick2591 leftover dual Start West-Vlaanderen Roeselare 0429.754.342 Strong PDF 2026-00346367 9900 2.90m / 9901 LOSS 13k / 62 2.82m; next rq_2592 continue VAPH list scan (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T07:41:32Z,rq_2592,2592,no,tick2592 leftover dual 't Prieeltje Tienen 0426.007.667 Strong PDF 2026-00206862 733 971k / kapitaalsubsidies JUMP 1.11m / debt 1.03m; next rq_2593 continue VAPH list scan (local fallback runner; Actions cron unreliable)
