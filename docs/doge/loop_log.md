@@ -31501,3 +31501,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: kinderdagverblijf.ukkepuk@vrt.be — general crèche mailbox verified on official VGC childcare portal https://kinderopvanginbrussel.be/nl/ukkepuk-vrt.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_ukkepuk_vrt_schaarbeek_vaph_matrix_9900_0_79m_9901_loss_33k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2867/; rq_2867=done; spawn **rq_2868**; ticks=2867.
 - Next: **rq_2868 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2868 — 2026-10-12T16:30:19Z — rq_2868 leftover dual S.O.S. Viol Bruxelles (Saint-Gilles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **S.O.S. Viol** → KBO 0420.669.105 had 0 prior entity rows.
+- KBO: Actief since 10 juli 1980; VZW; zetel Coenraetsstraat 23 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0420.669.105
+- Found: official NBB VKT-VZW native PDF **2026-00082156** (47425 B / 11p; AV 20-03-2026; neergelegd 19/04/2026; MD5 f1d6238c7ecc6461c7e8dc2b3131e0a7). VKT-VZW 9900 **EUR778922** (+3.39%); 62 **EUR755716**; 9901 **EUR23206** (was 530); 9904 22659; equity 148001; cash 203335; FTE 9,7 (was 10).
+- FOI address: info@sosviol.be — general mailbox verified on official page https://www.sosviol.be/nous-contacter/ (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_sos_viol_saint_gilles_vaph_matrix_9900_0_78m_9901_23k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2868/; rq_2868=done; spawn **rq_2869**; ticks=2868.
+- Next: **rq_2869 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
