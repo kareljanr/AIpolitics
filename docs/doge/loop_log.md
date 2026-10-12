@@ -32103,3 +32103,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: centre.medical.enaden@enaden.be — general mailbox verified on official page https://www.enaden.be/contact (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_centre_medical_enaden_saint_gilles_vaph_matrix_9900_6_45m_9901_457k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2927/; rq_2927=done; spawn **rq_2928**; ticks=2927.
 - Next: **rq_2928 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2928 — 2026-10-12T17:32:11Z — rq_2928 leftover dual Vulpia Bruxelles - Brussel Bruxelles (Evere) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scans 2026-10-12 (Brussels 87.101-87.909 and 88.101-88.109 in 22 postcodes; earlier Flemish 87.x/88.10x and Brussels 88.99x scans), ranked by YE2025 NBB primary figure (733 subsidies, 9900 gross margin, or 70 turnover where 733 is empty): **Vulpia Bruxelles - Brussel** → KBO 0638.941.671 had 0 prior entity rows.
+- KBO: Actief since 29 september 2015; VZW; zetel Goede Herderstraat 40 1140 Evere; 4 VE; 0 prior entity rows for 0638.941.671
+- Found: official NBB VOL-VZW native PDF **2026-00318633** (346265 B / 44p; AV 30-06-2026; neergelegd 22/07/2026; MD5 d0a0ea72f8453eb4d7c9056235ef3eb9). VOL-VZW 733 **EUR1402322** (-0.38%); 62 **EUR7294837**; 9901 **EUR-1839668** (was -1062796); 9904 -1935978; equity -14387810; cash 290260; FTE 124,9 (was 117,4).
+- FOI address: info@vulpia.be — general mailbox verified on official page https://www.vulpia.be/contact (group general mailbox).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_vulpia_bruxelles_evere_vaph_matrix_733_1_40m_9901_loss_1840k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2928/; rq_2928=done; spawn **rq_2929**; ticks=2928.
+- Next: **rq_2929 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
