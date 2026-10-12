@@ -28777,3 +28777,12 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2590 stays open (carried).
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2590 run locally as fallback.
 - Next: **rq_2590 leftover dual** — VAPH list pages 52+ (Start West-Vlaanderen Roeselare, 't Prieeltje Tienen first).
+
+
+## Tick 2591 — 2026-10-12T07:41:23Z — rq_2591 leftover dual Start West-Vlaanderen Roeselare YE2025 (local fallback runner)
+
+- Hunt: VAPH adreslijst page 49 candidate carried from 2589: **Start West-Vlaanderen Roeselare** → KBO 0429.754.342 had 0 prior repo rows; background scan of pages 52-69 started.
+- KBO: Actief since 10.04.1984; VZW (Start West-Vlaanderen - Begeleiding van personen met een verstandelijke beperking en hun gezin); zetel Beversesteenweg 255 Bis 8800 Roeselare since 05.12.2017; 2 VE; 0 prior repo rows for 0429.754.342
+- Found: official NBB VKT-VZW native PDF **2026-00346367** (58692 B / 18p; AV 21-05-2026; neergelegd 28/07/2026; MD5 421b13b53e2bca1f0ee1441fafbddaed). VKT 9900 **EUR2897846** (+4.33%); 62 **EUR2820181** (+5.21%); 9901 **EUR−13192** (was +8798); 9904 −5717; equity 1172545; debt 576996; cash 518507 + beleggingen 252189; FTE 37.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.40; entities +1 (parent city_roeselare); FOI **gap_start_west_vlaanderen_roeselare_vaph_matrix_9900_2_90m_9901_loss_13k_62_2_82m_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2591/; rq_2591=done; spawn **rq_2592**; ticks=2591.
+- Next: **rq_2592 leftover dual** — continue VAPH list scan.

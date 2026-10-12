@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T07:40:17Z,every10_2590,2590,no,"tick2590 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2590 carried open; next rq_2590 VAPH list pages 52+ (Start West-Vlaanderen Roeselare, t Prieeltje Tienen) (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T07:41:23Z,rq_2590,2591,no,tick2591 leftover dual Start West-Vlaanderen Roeselare 0429.754.342 Strong PDF 2026-00346367 9900 2.90m / 9901 LOSS 13k / 62 2.82m; next rq_2592 continue VAPH list scan (local fallback runner; Actions cron unreliable)
