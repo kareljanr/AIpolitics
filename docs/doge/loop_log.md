@@ -32343,3 +32343,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: innovatief@acv-csc.be — general mailbox verified on official page https://www.hetacv.be/vzw-innovatief/contact (address Haachtsesteenweg 579 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_acv_innovatief_vaph_matrix_9900_2_64m_9901_166k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2951/; rq_2950=done; spawn **rq_2952**; ticks=2951.
 - Next: **rq_2952 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
+
+
+## Tick 2952 — 2026-10-12T18:01:56Z — rq_2952 leftover dual Centre d'Orientation et de Formation aux Technologies Nouvelles (COFTEN) Bruxelles (Saint-Josse-ten-Noode) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Brussels 85.592 vocational training and 86.940 in 22 postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Centre d'Orientation et de Formation aux Technologies Nouvelles (COFTEN)** → KBO 0434.438.155 had 0 prior entity rows.
+- KBO: Actief since 1 juni 1987; VZW; zetel Overvloedstraat 40 1210 Sint-Joost-ten-Node; 4 VE; 0 prior entity rows for 0434.438.155
+- Found: official NBB VKT-VZW native PDF **2026-00167582** (55584 B / 14p; AV 04-06-2026; neergelegd 17/06/2026; MD5 a73c73dc669e4779c15f12049cffaa79). VKT-VZW 9900 **EUR2491376** (+7.78%); 62 **EUR2221822**; 9901 **EUR35210** (was -19239); 9904 31213; equity 438571; cash 38539; FTE 36,1 (was 36,4).
+- FOI address: contact@coften.be — general mailbox verified on official page https://www.coften.be/contact (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_coften_saint_josse_vaph_matrix_9900_2_49m_9901_35k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2952/; rq_2952=done; spawn **rq_2953**; ticks=2952.
+- Next: **rq_2953 leftover dual** — Brussels 85.592/86.940 training-and-health batch in progress; next: remaining units of this batch.
