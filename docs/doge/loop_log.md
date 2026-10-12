@@ -33882,3 +33882,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@foyerdefleron.be — general mailbox verified on official contact page https://www.foyerdefleron.be/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_foyer_fleron_code740_split_740_0_27m_9901_2063k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3104/; rq_3104=done; spawn **rq_3105**; ticks=3104.
 - Next: **rq_3105 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3105 — 2026-10-12T22:03:58Z — rq_3105 leftover dual Le Foyer Wavrien Wavre YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon social, childcare and senior-care intercommunales (KBO name search over ~90 more Walloon, Brussels and Flemish intercommunale/association names, filings ranked by NBB code 740 operating subsidies from public authorities; new: IMAJE, Interseniors, IRSIA) plus remaining SLSPs from the official Wallonia SLSP list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf); largest code 740 first; every candidate passed the name/alias/KBO/website dedup check: **Le Foyer Wavrien** → KBO 0400.361.659 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1968; SRL; zetel Rue de Nivelles 39 bus 15 1300 Wavre; 1 VE; 0 prior entity rows for 0400.361.659
+- Found: official NBB VOL-SRL native PDF **2026-00164787** (1741060 B / 62p; AV 29-05-2026; neergelegd 08/06/2026; MD5 6fd82919f18d6dd7e8e6459401304c06). VOL-SRL 740 **EUR102965** (+0.33%); 62 **EUR1018750**; 9901 **EUR300330** (was 1072476); 9904 302883; equity 22145981; cash 5077249; FTE 11,9 (was 12,3).
+- FOI address: info@foyerwavrien.be — general mailbox verified on the official Ville de Wavre page https://www.wavre.be/logements-sociaux (with Rue de Nivelles 39/15 address).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_foyer_wavrien_code740_split_740_0_10m_9901_300k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3105/; rq_3105=done; spawn **rq_3106**; ticks=3105.
+- Next: **rq_3106 leftover dual** — Batch done; next: no further new code-740 intercommunale found in the name searches (Tibi, Sibelga, Vivalia and the Flemish ones are already entities); remaining SLSPs skipped for mailbox: Le Foyer Jambois (only personal mailboxes on official pages), Société de Logements de Mouscron (no mailbox on own site or city page), Le Home Ougréen (sales mailbox only); Habitations Sociales de Saint-Nicolas (code 740 only in an appended budget table). Next source: a fresh Belgian public-funded list with code 740 recipients, after the dedup check.
