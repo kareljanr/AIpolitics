@@ -30843,3 +30843,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@parkhof.be — general mailbox verified on official page https://www.parkhof.be/contact/ (also on the municipal page herent.be).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_herent); FOI **gap_parkhof_herent_vaph_matrix_9900_2_38m_9901_173k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2802/; rq_2802=done; spawn **rq_2803**; ticks=2802.
 - Next: **rq_2803 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2803 — 2026-10-12T15:06:19Z — rq_2803 leftover dual Umanis Deinze YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301/87.302 (nursing homes, assistance flats) and 88.101 (home care) activity searches, Brussels and remaining Flemish postcodes, ranked by primary figure: **Umanis** → KBO 0541.402.926 had 0 prior entity rows.
+- KBO: Actief since 23 oktober 2013; VZW; zetel Vinktstraat 1A 9800 Deinze; 16 VE; 0 prior entity rows for 0541.402.926
+- Found: official NBB VKT-VZW native PDF **2026-00480908** (50593 B / 14p; AV 21-08-2026; neergelegd 31/08/2026; MD5 4dc34c91aceae417238a624cd4faddeb). VKT-VZW 9900 **EUR2124430** (-1.84%); 62 **EUR1993741**; 9901 **EUR80183** (was 262911); 9904 110321; equity 459920; cash 199969; FTE 32,2 (was 29,4).
+- FOI address: info@umanis.be — general mailbox verified on official page https://umanis.be/contact/ (KBO number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_deinze); FOI **gap_umanis_deinze_vaph_matrix_9900_2_12m_9901_80k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2803/; rq_2803=done; spawn **rq_2804**; ticks=2803.
+- Next: **rq_2804 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

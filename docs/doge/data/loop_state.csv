@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T15:06:11Z,rq_2802,2802,no,tick2802 leftover dual Serviceresidentie Parkhof Herent 0899.791.893 Strong PDF 2026-00393964 9900 2.38m / 9901 173k; next rq_2803 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T15:06:19Z,rq_2803,2803,no,tick2803 leftover dual Umanis Deinze 0541.402.926 Strong PDF 2026-00480908 9900 2.12m / 9901 80k; next rq_2804 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
