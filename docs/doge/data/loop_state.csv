@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T16:48:37Z,rq_2893,2893,no,tick2893 leftover dual ATD Quart Monde Belgique - ATD Vierde Wereld België Bruxelles (Etterbeek) 0408.429.089 Strong PDF 2026-00109536 9900 0.94m / 9901 loss 7k; next rq_2894 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T16:48:45Z,rq_2894,2894,no,tick2894 leftover dual Le Pélican Bruxelles (Koekelberg) 0425.494.260 Strong PDF 2026-00213010 9900 0.88m / 9901 1k; next rq_2895 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

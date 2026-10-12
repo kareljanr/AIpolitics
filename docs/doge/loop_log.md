@@ -31763,3 +31763,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@atd-quartmonde.be — general mailbox verified on official page https://www.atd-quartmonde.be/contact/ (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_atd_quart_monde_etterbeek_vaph_matrix_9900_0_94m_9901_loss_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2893/; rq_2893=done; spawn **rq_2894**; ticks=2893.
 - Next: **rq_2894 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2894 — 2026-10-12T16:48:45Z — rq_2894 leftover dual Le Pélican Bruxelles (Koekelberg) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Le Pélican** → KBO 0425.494.260 had 0 prior entity rows.
+- KBO: Actief since 20 mei 1983; VZW; zetel Vanderborghtstraat 20 1081 Koekelberg; 1 VE; 0 prior entity rows for 0425.494.260
+- Found: official NBB VKT-VZW native PDF **2026-00213010** (46580 B / 13p; AV 23-06-2026; neergelegd 29/06/2026; MD5 d2e495ecbe1bf4822d7d30c4dbe56209). VKT-VZW 9900 **EUR875084** (+9.16%); 62 **EUR872660**; 9901 **EUR1204** (was -10188); 9904 1375; equity 4763; cash 55599; FTE 10,6.
+- FOI address: contact@lepelican-asbl.be — general mailbox verified on official page https://www.lepelican-asbl.be/contact (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_le_pelican_koekelberg_vaph_matrix_9900_0_88m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2894/; rq_2894=done; spawn **rq_2895**; ticks=2894.
+- Next: **rq_2895 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
