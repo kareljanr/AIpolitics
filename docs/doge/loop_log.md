@@ -31310,3 +31310,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: coupole.autisme@coupole.org — general mailbox verified on official page https://www.coupole.org/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_coupole_autisme_jette_vaph_matrix_9900_1_91m_9901_loss_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2848/; rq_2848=done; spawn **rq_2849**; ticks=2848.
 - Next: **rq_2849 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2849 — 2026-10-12T16:21:59Z — rq_2849 leftover dual Les Tropiques Bruxelles (Uccle) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.x/88.x activity searches (Brussels-Capital postcodes), ranked by primary figure: **Les Tropiques** → KBO 0442.191.920 had 0 prior entity rows.
+- KBO: Actief since 5 december 1989; VZW; zetel Evenaarsstraat 18 1180 Ukkel; 1 VE; 0 prior entity rows for 0442.191.920
+- Found: official NBB VKT-VZW native PDF **2026-00186487** (41235 B / 10p; AV 09-06-2026; neergelegd 23/06/2026; MD5 3cfcadd1c4c7a46092418c11e4b28b97). VKT-VZW 9900 **EUR1642270** (+0.94%); 62 **EUR1565131**; 9901 **EUR28621** (was 64706); 9904 32042; equity 506640; cash 511479; FTE n/a.
+- FOI address: info@lestropiquesasbl.be — general mailbox verified on official page https://lestropiquesasbl.be/ (address shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_les_tropiques_uccle_vaph_matrix_9900_1_64m_9901_29k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2849/; rq_2849=done; spawn **rq_2850**; ticks=2849.
+- Next: **rq_2850 leftover dual** — Batch done; next: remaining Brussels disability/childcare ASBLs (Le Nid Marcelle Briard, Les Coccinelles, Crèche Cardinal Mercier) and Flemish 88.10x VZWs; skipped this batch: L'Arche Bruxelles (only the federation mailbox), FARRA (no general mailbox on farra.be), Ma Maison-Evere (site blocked), Petites Soeurs des Pauvres (site unreachable), Participo (no own mailbox), La Passerelle (gmail only), KDV De Ketjes (mailbox domain differs from site domain), Crèches de Schaerbeek (enrolment mailbox only).
