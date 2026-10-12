@@ -31963,3 +31963,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: ihp-bw@antoninartaud.be — general mailbox verified on official page https://initiatief-antoninartaud.be/fr/nous-contacter/ (company number shown).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_antonin_artaud_bruxelles_vaph_matrix_9900_1_41m_9901_195k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2913/; rq_2913=done; spawn **rq_2914**; ticks=2913.
 - Next: **rq_2914 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2914 — 2026-10-12T17:22:59Z — rq_2914 leftover dual LD3 Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **LD3** → KBO 0449.403.374 had 0 prior entity rows.
+- KBO: Actief since 21 januari 1993; VZW; zetel Marcqstraat 25 1000 Brussel; 3 VE; 0 prior entity rows for 0449.403.374
+- Found: official NBB VKT-VZW native PDF **2026-00131867** (569306 B / 33p; AV 26-05-2026; neergelegd 02/06/2026; MD5 e5038ff61d2b2580372e1694f56a9c68). VKT-VZW 9900 **EUR1113861** (+19.50%); 62 **EUR947669**; 9901 **EUR3527** (was -77186); 9904 2746; equity 3739901; cash 255589; FTE 15,4 (was 16,6).
+- FOI address: anker@ld3.be — general mailbox verified on official page https://ld3.be/maatschappelijke-zetel/ (registered-office page; address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_ld3_brussel_vaph_matrix_9900_1_11m_9901_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2914/; rq_2914=done; spawn **rq_2915**; ticks=2914.
+- Next: **rq_2915 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
