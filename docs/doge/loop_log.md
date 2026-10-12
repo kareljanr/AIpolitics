@@ -30823,3 +30823,13 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2800 run locally as fallback.
 - Source choice (recorded): ticks 2791-2799 used KBO NACE 87.301/88.101 searches (Antwerpen, Vlaams-Brabant) ranked by size, plus two larger 88.911 childcare VZWs. FOI: general mailboxes only, all verified on opened official pages; none NEEDS VERIFICATION.
 - Next: **rq_2800** — more 87.301 nursing-home and 88.101 home-care VZWs ranked by size (Brussels, Limburg, remaining provinces).
+
+
+## Tick 2801 — 2026-10-12T15:06:01Z — rq_2800 leftover dual De Overbron Brussel (Neder-Over-Heembeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301/87.302 (nursing homes, assistance flats) and 88.101 (home care) activity searches, Brussels and remaining Flemish postcodes, ranked by primary figure: **De Overbron** → KBO 0450.181.156 had 0 prior entity rows.
+- KBO: Actief since 9 april 1993; VZW; zetel Oorlogskruisenlaan 202 1120 Brussel; 1 VE; 0 prior entity rows for 0450.181.156
+- Found: official NBB VOL-VZW native PDF **2026-00266269** (466293 B / 31p; AV 10-06-2026; neergelegd 07/07/2026; MD5 5fb93b03049cc16d3c73e7c2b49fed20). VOL-VZW 733 **EUR2625180** (+9.51%); 62 **EUR3077343**; 9901 **EUR127952** (was 132763); 9904 180196; equity 6456556; cash 293055; FTE 44,6 (was 41).
+- FOI address: info@deoverbron.be — general mailbox verified on official page https://www.deoverbron.be/bereikbaarheid/ ("algemene vragen").
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_de_overbron_neder_over_heembeek_vaph_matrix_733_2_63m_9901_128k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2801/; rq_2800=done; spawn **rq_2802**; ticks=2801.
+- Next: **rq_2802 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
