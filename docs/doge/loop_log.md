@@ -34362,3 +34362,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@csa.college — general mailbox verified on official page https://collegesaintandre.be/infos-pratiques/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_college_saint_andre_auvelais_vaph_matrix_733_15_07m_9901_464k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3152/; rq_3152=done; spawn **rq_3153**; ticks=3152.
 - Next: **rq_3153 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3153 — 2026-10-12T23:46:46Z — rq_3153 leftover dual Katholiek Onderwijs Mechelen en Omgeving (KOMO) Mechelen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Catholic school boards and university colleges (Flemish schoolbesturen VZW and FWB organising bodies / hautes écoles, ASBL); new KBO name search (legal form VZW/ASBL; words such as Katholiek Onderwijs, Scholengroep, KOBA, Hogeschool, Haute Ecole, Collège Saint, Institut Saint), filings ranked by NBB code 733 subsidies, largest first; every candidate passed the name/alias/KBO/website dedup check: **Katholiek Onderwijs Mechelen en Omgeving (KOMO)** → KBO 0870.585.094 had 0 prior entity rows.
+- KBO: Actief since 15 december 2004; VZW; zetel Molenbergstraat 4 2800 Mechelen; 42 VE; 0 prior entity rows for 0870.585.094
+- Found: official NBB VOL-VZW native PDF **2026-00228362** (624184 B / 51p; AV 23-06-2026; neergelegd 29/06/2026; MD5 716c51674d06bda3e6befc428f44a787). VOL-VZW 733 **EUR14762056** (-7.85%); 62 **EUR3866647**; 9901 **EUR2206541** (was 2254182); 9904 1664248; equity 66906624; cash 5247098; FTE 68,8 (was 68,8).
+- FOI address: info@komo.be — general mailbox verified on official site https://www.komo.be/ (page shows the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mechelen); FOI **gap_komo_vaph_matrix_733_14_76m_9901_2207k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3153/; rq_3153=done; spawn **rq_3154**; ticks=3153.
+- Next: **rq_3154 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
