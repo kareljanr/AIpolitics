@@ -31,7 +31,7 @@
 ### High-absurdity residual (not pure top10)
 
 - **Crèche de l'Hôpital Erasme** (tick2865) gross margin **EUR0.98m** against staff costs of EUR1.15m: operating **loss EUR225k** (first comparable year in the dataset).
-- **Ukkepuk VRT** (tick2867) and **La Crèche Babymedia** (tick2853) are the staff crèches at the VRT/RTBF Reyers site (Dutch- and French-language).
+- **Ukkepuk VRT** (tick2867) is located at the VRT address (Auguste Reyerslaan 52); **La Crèche Babymedia** (tick2853) gives priority to RTBF staff (per its ONE and Schaerbeek listings).
 
 - **Seniors Service Anderlecht** (tick2859) gross margin **EUR1.17m** (-6.2%) against staff costs of EUR1.45m (+17.4%): operating **loss EUR329k** (2024: loss EUR5k).
 - **La Crèche Babymedia** (tick2853), the crèche at the RTBF site with priority for RTBF staff: gross margin **EUR1.67m**, operating surplus EUR105k.

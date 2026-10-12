@@ -31532,3 +31532,14 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2870 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-2870 run locally as fallback.
 - Next: **rq_2870** — fresh larger-first scan (Flemish 88.10x/87.x or Brussels 88.99x); current Brussels pool is below EUR0.8m per body.
+
+
+## Tick 2871 — 2026-10-12T16:38:40Z — rq_2870 leftover dual Projet Lama (Centre médico-social pour toxicomanes) Bruxelles (Ixelles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Projet Lama (Centre médico-social pour toxicomanes)** → KBO 0422.077.979 had 0 prior entity rows.
+- KBO: Actief since 10 augustus 1981; VZW; zetel Amerikaanse straat 211-213 1050 Elsene; 6 VE; 0 prior entity rows for 0422.077.979
+- Found: official NBB VKT-VZW native PDF **2026-00271776** (52076 B / 14p; AV 25-06-2026; neergelegd 09/07/2026; MD5 dfc4df1864404200c6b449cae185ab6e). VKT-VZW 9900 **EUR3860617** (+12.10%); 62 **EUR3750678**; 9901 **EUR38717** (was -11900); 9904 37857; equity 331628; cash 574351; FTE 48,7 (was 44,8).
+- FOI address: administration@projetlama.be — general mailbox verified on official page https://www.projetlama.be/ (company number shown).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_projet_lama_ixelles_vaph_matrix_9900_3_86m_9901_39k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2871/; rq_2870=done; spawn **rq_2872**; ticks=2871.
+- Next: **rq_2872 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+- Wording fix (tick 2871): Ukkepuk VRT (tick 2867) is now described only as located at the VRT address (Auguste Reyerslaan 52); the inferred 'staff crèche' claim was removed from the top-10 notes and the entity note.
