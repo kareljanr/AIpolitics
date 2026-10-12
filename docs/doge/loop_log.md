@@ -34072,3 +34072,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: asd-verviers@asd-verviers.be — general mailbox verified on official contact page https://verviers.aideetsoinsadomicile.be/contact/ (site footer gives BCE 449.513.143).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_verviers); FOI **gap_asd_verviers_code73_subsidy_split_73_contrib-gifts-legacies-subsidies-not-split_14_39m_9901_560k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3123/; rq_3123=done; spawn **rq_3124**; ticks=3123.
 - Next: **rq_3124 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3124 — 2026-10-12T22:58:43Z — rq_3124 leftover dual Croix Jaune et Blanche de Mouscron-Comines Mouscron YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon home-help and family-help services (services d'aide aux familles et aînés, ASD, CSD; KBO name search over ~30 home-help names, filings ranked by NBB code 733 operating subsidies, largest first; Brussels Aide familiale and the large Flemish services already entities); every candidate passed the name/alias/KBO/website dedup check: **Croix Jaune et Blanche de Mouscron-Comines** → KBO 0465.214.770 had 0 prior entity rows.
+- KBO: Actief since 15 september 1998; VZW; zetel Sint Jozefstraat 8 7700 Mouscron; 1 VE; 0 prior entity rows for 0465.214.770
+- Found: official NBB VKT-VZW native PDF **2026-00336554** (326179 B / 24p; AV 25-06-2026; neergelegd 27/07/2026; MD5 b5a3d88ddf684b55da59ea2d2781f125). VKT-VZW 9900 **EUR4119948** (-0.77%); 62 **EUR3940890**; 9901 **EUR124250** (was 163162); 9904 123560; equity 249183; cash 483530; FTE 56,3 (was 56,8).
+- FOI address: asd.mouscron@fasd.be — office mailbox asd.mouscron@fasd.be verified on official ASD Hainaut Picardie contact page https://hpic.aideetsoinsadomicile.be/contact/ (listed for the Mouscron office, Rue Saint-Joseph 8, this ASBL KBO seat; also on the Province of Hainaut directory https://websoc.hainaut.be/DI06756.htm); the page footer lists this ASBL's BCE number among the group members.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_cjb_mouscron_comines_vaph_matrix_9900_4_12m_9901_124k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3124/; rq_3124=done; spawn **rq_3125**; ticks=3124.
+- Next: **rq_3125 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
