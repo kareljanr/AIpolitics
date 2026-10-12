@@ -29839,3 +29839,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@pleegzorglimburg.be — general mailbox verified on official page https://www.pleegzorg.be/limburg.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_genk); FOI **gap_pleegzorg_limburg_vaph_matrix_733_24_10m_9901_loss_264k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2703/; rq_2703=done; spawn **rq_2704**; ticks=2703.
 - Next: **rq_2704 leftover dual** — KBO NACE 88.992 (integrale jeugdhulp zonder huisvesting) scan by postcode in progress; next: remaining 88.992 units, then other NACE 87/88 codes (87.202/87.203 residential, 88.994 welzijnswerk).
+
+
+## Tick 2704 — 2026-10-12T09:13:41Z — rq_2704 leftover dual Pleegzorg Vlaanderen Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.992 activity search (Integrale jeugdhulp zonder huisvesting): **Pleegzorg Vlaanderen** → KBO 0537.432.161 had 0 prior entity rows.
+- KBO: Actief since 21 juni 2013; VZW; zetel Tervuursevest 242c 3000 Leuven; 1 VE; 0 prior entity rows for 0537.432.161
+- Found: official NBB MIC-VZW native PDF **2026-00262454** (34019 B / 9p; AV 18-06-2026; neergelegd 07/07/2026; MD5 5946fa0bbbb80f8e5bc5554285b171e8). MIC-VZW 9900 **EUR271990** (+12.11%); 62 **EUR230443**; 9901 **EUR38907** (was 85998); 9904 40783; equity 385128; cash 371168; FTE n/a (micro model, no social balance).
+- FOI address: info@pleegzorgvlaanderen.be — general mailbox verified on official page https://www.pleegzorgvlaanderen.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_pleegzorg_vlaanderen_vaph_matrix_9900_0_27m_9901_39k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2704/; rq_2704=done; spawn **rq_2705**; ticks=2704.
+- Next: **rq_2705 leftover dual** — KBO NACE 88.992 (integrale jeugdhulp zonder huisvesting) scan by postcode in progress; next: remaining 88.992 units, then other NACE 87/88 codes (87.202/87.203 residential, 88.994 welzijnswerk).
