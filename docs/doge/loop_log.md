@@ -29238,3 +29238,12 @@ Append-only. Each tick adds a short entry.
 - Runner: Actions last ticked 2575 (04:41 Brussels); 2576-2640 run locally as fallback.
 - Source choice (recorded): ticks 2631-2633 finished the Opgroeien CKG list; ticks 2634-2637 NEW SOURCE Opgroeien CIG list (april 2026); ticks 2638-2639 NEW SOURCE Opgroeien OOOC list (april 2026). Contact switch tick2631: KanNet FOI -> info@kannet.be; Ter Wende-Espero kept (no verifiable general mailbox).
 - Next: **rq_2640** — remaining Opgroeien OOOCs (Luein, Elkeen, LIA, Kruislink, Kiosk, t Pasrel, Elegast, XPLO, Amon), then VAPH vrijetijdszorg leftovers and KBO NACE 87/88.
+
+
+## Tick 2641 — 2026-10-12T08:27:16Z — rq_2641 leftover dual OOOC Luein Lochristi YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Opgroeien OOOC contact list (april 2026): **OOOC Luein** → KBO 0408.103.348 had 0 prior entity rows. Continued Opgroeien OOOC list.
+- KBO: Actief since 27 januari 1971; VZW; zetel Dorp-Oost 101, 9080 Lochristi; 1 VE; 0 prior entity rows for 0408.103.348
+- Found: official NBB MIC-VZW native PDF **2026-00240914** (45790 B / 12p; AV 08-06-2026; neergelegd 02/07/2026; MD5 841df68b4133994b564161dccd7313fa). MIC-VZW 9900 **EUR2269196** (+6.46%); 62 **EUR2031150**; 9901 **EUR-82135** (was 86856); 9904 -78467; equity 886697; cash 500703; .
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lochristi); FOI **gap_oooc_luein_lochristi_vaph_matrix_9900_2_27m_9901_loss_82k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2641/; rq_2641=done; spawn **rq_2642**; ticks=2641.
+- Next: **rq_2642 leftover dual** — continue with remaining Opgroeien jeugdhulp lists, VAPH vrijetijdszorg leftovers, then KBO NACE 87/88 lists.

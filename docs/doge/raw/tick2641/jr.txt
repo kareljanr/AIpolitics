@@ -1,0 +1,613 @@
+2026-00240914      0408103348     2025   EUR   26.0.15    m08-f      02/07/2026   12                         MIC-VZW 1
+
+
+
+
+                           JAARREKENING EN ANDERE OVEREENKOMSTIG
+                             HET WETBOEK VAN VENNOOTSCHAPPEN EN
+                           VERENIGINGEN NEER TE LEGGEN DOCUMENTEN
+
+
+
+IDENTIFICATIEGEGEVENS (op datum van de neerlegging)
+
+Naam :               Onthaal-, Oriëntatie- en Observatiecentrum Luein
+Rechtsvorm :         Vereniging zonder winstoogmerk
+Adres :     Dorp-Oost                                                       Nr : 101               Bus :
+Postnummer : 9080                    Gemeente :     Lochristi
+Land :    België
+Rechtspersonenregister (RPR) - Ondernemingsrechtbank van            Gent, afdeling Gent
+Internetadres :    www.luein.be
+E-mailadres :      noel.vanlooy@luein.be
+
+
+
+                                                                  Ondernemingsnummer             0408.103.348
+
+
+
+Datum van de neerlegging van het recentste stuk dat de datum van bekendmaking van de
+                                                                                                       11-03-1971
+oprichtingsakte en van de akte tot statutenwijziging vermeldt
+
+
+
+JAARREKENING in            EURO           goedgekeurd door de algemene vergadering van          08-06-2026
+
+
+    met betrekking tot het boekjaar dat de periode dekt van            01-01-2025         tot   31-12-2025
+
+
+                                          Vorig boekjaar van           01-01-2024         tot   31-12-2024
+
+
+De bedragen van het vorige boekjaar zijn identiek met die welke eerder openbaar werden gemaakt.
+
+
+
+Nummers van de secties van het standaardmodel die niet werden neergelegd omdat ze niet dienstig zijn :
+
+ MIC-VZW 6.2, MIC-VZW 6.3, MIC-VZW 7, MIC-VZW 8
+
+
+
+
+                                                                                                              Page 1 of 12
+N°      0408103348                                                                                             MIC-VZW 2
+
+
+                                LIJST VAN DE BESTUURDERS EN COMMISSARISSEN
+
+
+
+
+LIJST VAN DE BESTUURDERS EN COMMISSARISSEN
+
+VOLLEDIGE LIJST met naam, voornamen, beroep, woonplaats (adres, nummer, postnummer en gemeente) en functie in de vereniging
+of stichting
+
+
+
+CALLENS DIETER
+Dorp-Oost 101
+9080 Lochristi
+BELGIË
+
+
+DE SCHEPPER HILDE
+Dorp-Oost 101
+9080 Lochristi
+BELGIË
+
+
+DE CONINCK LINDA
+Dorp-Oost 101
+9080 Lochristi
+BELGIË
+
+
+WAES LODE
+Dorp-Oost 101
+9080 Lochristi
+BELGIË
+
+
+VAN DEN BOSSCHE MARTINE
+Dorp-Oost 101
+9080 Lochristi
+BELGIË
+
+
+VERLEYSEN MIEKEN
+Dorp-Oost 101
+9080 Lochristi
+BELGIË
+
+
+DE GROOTE SARA
+Dorp-Oost 101
+9080 Lochristi
+BELGIË
+
+
+
+
+                                                                                                                 Page 2 of 12
+N°      0408103348                                                                               MIC-VZW 3.1
+
+
+                                              JAARREKENING
+
+
+
+BALANS NA WINSTVERDELING
+
+                                                      Toel.     Codes   Boekjaar              Vorig boekjaar
+
+ ACTIVA
+ OPRICHTINGSKOSTEN                                             20                        0                         0
+
+ VASTE ACTIVA                                                  21/28               532.590                521.942
+
+ Immateriële vaste activa                              6.1.1   21                        0                         0
+
+ Materiële vaste activa                                6.1.2   22/27               532.590                521.942
+     Terreinen en gebouwen                                     22                  493.463               490.026
+     Installaties, machines en uitrusting                      23                    7.183                     6.771
+     Meubilair en rollend materieel                            24                   31.944                 25.145
+     Leasing en soortgelijke rechten                           25                       0                         0
+     Overige materiële vaste activa                            26                       0                         0
+     Activa in aanbouw en vooruitbetalingen                    27                       0                         0
+
+ Financiële vaste activa                               6.1.3   28                        0                         0
+
+ VLOTTENDE ACTIVA                                              29/58               993.619                885.580
+
+ Vorderingen op meer dan één jaar                              29                        0                         0
+     Handelsvorderingen                                        290                      0                         0
+     Overige vorderingen                                       291                      0                         0
+
+ Voorraden en bestellingen in uitvoering                       3                         0                         0
+     Voorraden                                                 30/36                    0                         0
+     Bestellingen in uitvoering                                37                       0                         0
+
+ Vorderingen op ten hoogste één jaar                           40/41               268.786                217.835
+     Handelsvorderingen                                        40                       0                         0
+     Overige vorderingen                                       41                  268.786               217.835
+
+ Geldbeleggingen                                               50/53               200.224                197.752
+
+ Liquide middelen                                              54/58               500.703                445.280
+
+ Overlopende rekeningen                                        490/1                 23.906                    24.713
+
+ TOTAAL VAN DE ACTIVA                                          20/58           1.526.209                1.407.522
+
+
+
+
+                                                                                                       Page 3 of 12
+N°      0408103348                                                                                                           MIC-VZW 3.2
+
+                                                                                 Toel.    Codes   Boekjaar                Vorig boekjaar
+
+ PASSIVA
+ EIGEN VERMOGEN                                                                          10/15                886.697               1.089.295
+
+ Fondsen van de vereniging of stichting                                                  10                   165.840                 165.840
+
+ Herwaarderingsmeerwaarden                                                               12                           0                          0
+
+ Bestemde fondsen en andere reserves                                                     13                   409.994                 536.508
+
+ Overgedragen winst (verlies)                                          (+)/(-)           14                     6.360                      63.246
+
+ Kapitaalsubsidies                                                                       15                   304.503                 323.701
+
+ VOORZIENINGEN EN UITGESTELDE BELASTINGEN                                                16                   371.911                            0
+
+ Voorzieningen voor risico's en kosten                                                   160/5                371.911                            0
+     Pensioenen en soortgelijke verplichtingen                                           160                          0                          0
+     Belastingen                                                                         161                          0                          0
+     Grote herstellings- en onderhoudswerken                                             162                 371.911                             0
+     Milieuverplichtingen                                                                163                          0                          0
+     Overige risico's en kosten                                                          164/5                        0                          0
+
+ Voorzieningen voor terug te betalen subsidies en legaten en                             167                          0                          0
+ voor schenkingen met terugnemingsrecht
+
+ Uitgestelde belastingen                                                                 168                          0                          0
+
+ SCHULDEN                                                                                17/49                267.601                 318.227
+
+ Schulden op meer dan één jaar                                                           17                           0                          0
+     Financiële schulden                                                                 170/4                        0                          0
+       Kredietinstellingen, leasingschulden en soortgelijke schulden                     172/3                   0                           0
+       Overige leningen                                                                  174/0                   0                           0
+     Handelsschulden                                                                     175                          0                          0
+     Vooruitbetalingen op bestellingen                                                   176                          0                          0
+     Overige schulden                                                                    178/9                        0                          0
+
+ Schulden op ten hoogste één jaar                                                        42/48                260.597                 316.339
+     Schulden op meer dan één jaar die binnen het jaar vervallen                         42                           0                          0
+     Financiële schulden                                                                 43                           0                          0
+       Kredietinstellingen                                                               430/8                   0                           0
+       Overige leningen                                                                  439                     0                           0
+     Handelsschulden                                                                     44                   17.191                       6.471
+       Leveranciers                                                                      440/4               17.191                   6.471
+       Te betalen wissels                                                                441                     0                           0
+     Vooruitbetalingen op bestellingen                                                   46                           0                          0
+     Schulden met betrekking tot belastingen, bezoldigingen en                           45                  243.406                 309.868
+     sociale lasten
+       Belastingen                                                                       450/3               22.162                  30.472
+       Bezoldigingen en sociale lasten                                                   454/9          221.244                    279.396
+     Overige schulden                                                                    48                           0                          0
+
+ Overlopende rekeningen                                                                  492/3                  7.004                       1.888
+
+ TOTAAL VAN DE PASSIVA                                                                   10/49           1.526.209                  1.407.522
+
+
+
+
+                                                                                                                                   Page 4 of 12
+N°      0408103348                                                                                                          MIC-VZW 4
+
+
+RESULTATENREKENING
+
+                                                                                        Codes    Boekjaar             Vorig boekjaar
+
+ Bedrijfsopbrengsten en bedrijfskosten
+     Brutomarge                                                               (+)/(-)   9900          2.269.196               2.131.521
+       Waarvan: niet-recurrente bedrijfsopbrengsten                                     76A
+
+       Omzet                                                                            70
+
+       Lidgeld, schenkingen, legaten en subsidies                                       73          2.429.133               2.282.404
+       Handelsgoederen, grond- en hulpstoffen, diensten en diverse goederen             60/61          175.078                 170.462
+     Bezoldigingen, sociale lasten en pensioenen                              (+)/(-)   62            2.031.150               1.997.183
+     Afschrijvingen en waardeverminderingen op oprichtingskosten, op                    630                 43.235                40.208
+     immateriële en materiële vaste activa
+     Waardeverminderingen op voorraden, op bestellingen in uitvoering en op   (+)/(-)   631/4                    0                        0
+     handelsvorderingen: toevoegingen (terugnemingen)
+     Voorzieningen voor risico's en kosten: toevoegingen (bestedingen en      (+)/(-)   635/9           266.977                           0
+     terugnemingen)
+     Andere bedrijfskosten                                                              640/8                9.969                     7.274
+     Als herstructureringskosten geactiveerde bedrijfskosten                      (-)   649
+
+     Niet-recurrente bedrijfskosten                                                     66A                      0                        0
+
+ Bedrijfswinst (Bedrijfsverlies)                                              (+)/(-)   9901                -82.135                    86.856
+
+ Financiële opbrengsten                                                                 75/76B                3.919                     1.149
+     Recurrente financiële opbrengsten                                                  75                   3.919                     1.149
+     Niet-recurrente financiële opbrengsten                                             76B                      0                        0
+
+ Financiële kosten                                                                      65/66B                 251                       217
+     Recurrente financiële kosten                                                       65                    251                       217
+     Niet-recurrente financiële kosten                                                  66B
+
+ Winst (Verlies) van het boekjaar vóór belasting                              (+)/(-)   9903                -78.467                    87.788
+                                                                                        780
+ Onttrekking aan de uitgestelde belastingen
+                                                                                        680
+ Overboeking naar de uitgestelde belastingen
+                                                                              (+)/(-)   67/77
+ Belastingen op het resultaat
+
+ Winst (Verlies) van het boekjaar                                             (+)/(-)   9904                -78.467                    87.788
+                                                                                        789
+ Onttrekking aan de belastingvrije reserves
+                                                                                        689
+ Overboeking naar de belastingvrije reserves
+
+ Te bestemmen winst (verlies) van het boekjaar                                (+)/(-)   9905                -78.467                    87.788
+
+
+
+
+                                                                                                                               Page 5 of 12
+N°      0408103348                                                                                                 MIC-VZW 5
+
+
+RESULTAATVERWERKING
+
+                                                                               Codes   Boekjaar              Vorig boekjaar
+
+ Te bestemmen winst (verlies)                                       (+)/(-)   9906                 -15.221               250.070
+     Te bestemmen winst (verlies) van het boekjaar                  (+)/(-)   (9905)              -78.467                87.788
+     Overgedragen winst (verlies) van het vorige boekjaar           (+)/(-)   14P                 63.246                162.282
+
+ Onttrekking aan het eigen vermogen: fondsen, bestemde fondsen en             791                 129.813                      8.746
+ andere reserves
+
+ Toevoeging aan de bestemde fondsen en andere reserves                        691                 108.232                195.570
+
+ Over te dragen winst (verlies)                                     (+)/(-)   (14)                  6.360                     63.246
+
+
+
+
+                                                                                                                      Page 6 of 12
+N°      0408103348                                                                                      MIC-VZW 6.1.1
+
+
+TOELICHTING
+
+STAAT VAN DE VASTE ACTIVA
+
+                                                                                 Codes   Boekjaar       Vorig boekjaar
+
+ IMMATERIËLE VASTE ACTIVA
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8059P    XXXXXXXXXX                      0
+
+ Mutaties tijdens het boekjaar
+     Aanschaffingen, met inbegrip van de geproduceerde vaste activa             8029
+
+     Overdrachten en buitengebruikstellingen                                    8039
+
+     Overboekingen van een post naar een andere                       (+)/(-)   8049
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8059                0
+
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8129P    XXXXXXXXXX
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                                    8079
+
+     Teruggenomen                                                               8089
+
+     Verworven van derden                                                       8099
+
+     Afgeboekt na overdrachten en buitengebruikstellingen                       8109
+
+     Overgeboekt van een post naar een andere                         (+)/(-)   8119
+
+                                                                                8129
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar
+
+ NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR                                     (21)                0
+
+
+
+
+                                                                                                                 Page 7 of 12
+N°      0408103348                                                                                             MIC-VZW 6.1.2
+
+                                                                                 Codes    Boekjaar             Vorig boekjaar
+
+ MATERIËLE VASTE ACTIVA
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8199P     XXXXXXXXXX                       848.598
+
+ Mutaties tijdens het boekjaar
+     Aanschaffingen, met inbegrip van de geproduceerde vaste activa             8169                 53.883
+     Overdrachten en buitengebruikstellingen                                    8179
+
+     Overboekingen van een post naar een andere                       (+)/(-)   8189                 -6.387
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8199                 896.094
+
+ Meerwaarden per einde van het boekjaar                                         8259P     XXXXXXXXXX
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                                    8219
+
+     Verworven van derden                                                       8229
+
+     Afgeboekt                                                                  8239
+
+     Overgeboekt van een post naar een andere                         (+)/(-)   8249
+
+                                                                                8259
+ Meerwaarden per einde van het boekjaar
+
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8329P     XXXXXXXXXX                       326.656
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                                    8279                 43.235
+     Teruggenomen                                                               8289
+
+     Verworven van derden                                                       8299
+
+     Afgeboekt na overdrachten en buitengebruikstellingen                       8309
+
+     Overgeboekt van een post naar een andere                         (+)/(-)   8319                 -6.387
+
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8329                 363.504
+
+ NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR                                     (22/27)              532.590
+
+ WAARVAN
+     In volle eigendom van de vereniging of stichting                           8349                 39.128
+
+
+
+
+                                                                                                                        Page 8 of 12
+N°      0408103348                                                                            MIC-VZW 6.1.3
+
+                                                                       Codes   Boekjaar       Vorig boekjaar
+
+ FINANCIËLE VASTE ACTIVA
+
+ Aanschaffingswaarde per einde van het boekjaar                       8395P    XXXXXXXXXX
+
+ Mutaties tijdens het boekjaar
+     Aanschaffingen                                                   8365
+
+     Overdrachten en buitengebruikstellingen                          8375
+
+     Overboekingen van een post naar een andere             (+)/(-)   8385
+
+     Andere mutaties                                        (+)/(-)   8386
+
+                                                                      8395
+ Aanschaffingswaarde per einde van het boekjaar
+
+ Meerwaarden per einde van het boekjaar                               8455P    XXXXXXXXXX
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                          8415
+
+     Verworven van derden                                             8425
+
+     Afgeboekt                                                        8435
+
+     Overgeboekt van een post naar een andere               (+)/(-)   8445
+
+                                                                      8455
+ Meerwaarden per einde van het boekjaar
+
+ Waardeverminderingen per einde van het boekjaar                      8525P    XXXXXXXXXX
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                          8475
+
+     Teruggenomen                                                     8485
+
+     Verworven van derden                                             8495
+
+     Afgeboekt na overdrachten en buitengebruikstellingen             8505
+
+     Overgeboekt van een post naar een andere               (+)/(-)   8515
+
+                                                                      8525
+ Waardeverminderingen per einde van het boekjaar
+
+ Niet-opgevraagde bedragen per einde van het boekjaar                 8555P    XXXXXXXXXX
+                                                            (+)/(-)   8545
+ Mutaties tijdens het boekjaar
+                                                                      8555
+ Niet-opgevraagde bedragen per einde van het boekjaar
+
+ NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR                           (28)                0
+
+
+
+
+                                                                                                       Page 9 of 12
+N°        0408103348                                                                                                                                       MIC-VZW 6.4
+
+
+SOCIALE BALANS
+
+
+
+
+Nummers van de paritaire comités die voor de vereniging of stichting bevoegd zijn:
+
+
+
+
+WERKNEMERS WAARVOOR DE VERENIGING OF STICHTING EEN DIMONA-VERKLARING HEEFT INGEDIEND OF DIE ZIJN
+INGESCHREVEN IN HET ALGEMEEN PERSONEELSREGISTER
+
+
+
+
+                                                                                                                     3. Totaal (T) of totaal in 3P. Totaal (T) of totaal in
+                                                                1. Voltijds                2. Deeltijds               voltijdse equivalenten     voltijdse equivalenten
+                                              Codes                                                                            (VTE)                      (VTE)
+Tijdens het boekjaar en het vorige                              (boekjaar)                  (boekjaar)
+boekjaar                                                                                                                    (boekjaar)                (vorig boekjaar)
+Gemiddeld aantal werknemers                   100                                 5,9                         23,8                           24,9                        26,6
+Aantal daadwerkelijk gepresteerde uren        101                               7.759                     27.164                          34.923                      35.790
+Personeelskosten                              102                             486.678                 1.523.943                         2.010.621                   1.979.583
+
+
+
+
+                                                                                                                                                    3. Totaal in voltijdse
+                                                                      Codes             1. Voltijds                      2. Deeltijds
+Op de afsluitingsdatum van het boekjaar                                                                                                                 equivalenten
+Aantal werknemers                                                    105                                  6                                  24                          25,3
+
+Volgens de aard van de arbeidsovereenkomst
+     Overeenkomst voor een onbepaalde tijd                           110                                  6                                  22                          23,7
+     Overeenkomst voor een bepaalde tijd                             111                                  0                                   1                           0,8
+     Overeenkomst voor een duidelijk omschreven werk                 112                                  0                                   0                              0
+     Vervangingsovereenkomst                                         113                                  0                                   1                           0,8
+
+Volgens het geslacht en het studieniveau
+     Mannen                                                          120                                  3                                   3                           5,4
+          lager onderwijs                                            1200                                 0                                   0                              0
+          secundair onderwijs                                        1201                                 0                                   1                           0,8
+          hoger niet-universitair onderwijs                          1202                                 2                                   2                           3,6
+          universitair onderwijs                                     1203                                 1                                   0                              1
+     Vrouwen                                                         121                                  3                                  21                          19,9
+          lager onderwijs                                            1210                                 0                                   0                              0
+          secundair onderwijs                                        1211                                 1                                   6                           5,7
+          hoger niet-universitair onderwijs                          1212                                 1                                  12                          10,6
+          universitair onderwijs                                     1213                                 1                                   3                           3,6
+
+Volgens de beroepscategorie
+     Directiepersoneel                                               130                                  1                                   0                              1
+     Bedienden                                                       134                                  5                                  24                          24,3
+     Arbeiders                                                       132                                  0                                   0                              0
+     Andere                                                          133                                  0                                   0                              0
+
+
+
+
+                                                                                                                                                               Page 10 of 12
+N°        0408103348                                                                                                                            MIC-VZW 6.4
+
+
+TABEL VAN HET PERSONEELSVERLOOP TIJDENS HET BOEKJAAR
+
+
+
+
+                                                                                                                                         3. Totaal in voltijdse
+                                                                             Codes    1. Voltijds                2. Deeltijds
+INGETREDEN                                                                                                                                   equivalenten
+Aantal werknemers waarvoor de vereniging of stichting tijdens het
+boekjaar een DIMONA-verklaring heeft ingediend of die tijdens het
+boekjaar werden ingeschreven in het algemeen personeelsregister              205                    1                               11                        9,2
+
+UITGETREDEN
+Aantal werknemers met een in de DIMONA-verklaring aangegeven of
+een in het algemeen personeelsregister opgetekende datum waarop
+hun overeenkomst tijdens het boekjaar een einde nam                          305                    1                               12                        8,5
+
+
+
+
+INLICHTINGEN OVER DE OPLEIDINGEN VOOR DE WERKNEMERS TIJDENS HET BOEKJAAR
+
+
+
+
+                                                                                     Codes              Mannen              Codes              Vrouwen
+
+Totaal van de formele voortgezette beroepsopleidingsinitiatieven ten laste
+van de werkgever
+     Aantal betrokken werknemers                                                     5801                              4    5811                                  19
+     Aantal gevolgde opleidingsuren                                                  5802                             72    5812                              584
+     Nettokosten voor de vereniging of stichting                                     5803                          4.944    5813                           31.315
+          waarvan brutokosten rechtstreeks verbonden met de opleiding                58031                         4.944    58131                          31.315
+          waarvan betaalde bijdragen en stortingen aan collectieve fondsen           58032                                  58132
+          waarvan ontvangen tegemoetkomingen (in mindering)                          58033                                  58133
+
+Totaal van de minder formele en informele voortgezette
+beroepsopleidingsinitiatieven ten laste van de werkgever
+     Aantal betrokken werknemers                                                     5821                              4    5831                                  18
+     Aantal gevolgde opleidingsuren                                                  5822                             36    5832                              200
+     Nettokosten voor de vereniging of stichting                                     5823                          2.472    5833                           10.937
+
+Totaal van de initiële beroepsopleidingsinitiatieven ten laste van de
+werkgever
+     Aantal betrokken werknemers                                                     5841                                   5851
+     Aantal gevolgde opleidingsuren                                                  5842                                   5852
+     Nettokosten voor de vereniging of stichting                                     5843                                   5853
+
+
+
+
+                                                                                                                                                    Page 11 of 12
+N°      0408103348                                                      MIC-VZW 6.5
+
+
+WAARDERINGSREGELS
+
+
+
+
+     Materiële vaste activa
+     Vanaf 2006 worden de volgende afschrijvingsperiode toegepast;
+     Gebouwen 33 jaar
+     Onroerende goederen door bestemming 20 jaar
+     Meubilair, machines en materiaal 10 jaar
+     Rollend materieel 5 jaar
+     Computermateriaal 3 jaar
+     Erfpachtregeling wordt vanaf 2011 verwerkt als een huurcontract.
+     Scholenfonds is verplaatst naar de post geldbeleggingen.
+
+
+
+
+                                                                          Page 12 of 12
+
