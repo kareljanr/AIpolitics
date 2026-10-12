@@ -30752,3 +30752,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@dekleinekasteeltjes.be — general mailbox verified on official page https://dekleinekasteeltjes.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brecht); FOI **gap_kleine_kasteeltjes_brecht_vaph_matrix_9900_4_37m_9901_loss_178k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2793/; rq_2793=done; spawn **rq_2794**; ticks=2793.
 - Next: **rq_2794 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2794 — 2026-10-12T14:36:12Z — rq_2794 leftover dual Pajottenlands Centrum voor Gezins- en Bejaardenhulp LEDA Lennik YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301 (nursing homes) and 88.101 (home care) activity search, Antwerpen and Vlaams-Brabant postcodes, ranked by primary figure (plus two larger 88.911 childcare VZWs): **Pajottenlands Centrum voor Gezins- en Bejaardenhulp LEDA** → KBO 0430.828.468 had 0 prior entity rows.
+- KBO: Actief since 8 mei 1981; VZW; zetel Albert Vanderkelenstraat 7 1750 Lennik; 1 VE; 0 prior entity rows for 0430.828.468
+- Found: official NBB MIC-VZW native PDF **2026-00208115** (157888 B / 12p; AV 19-06-2026; neergelegd 28/06/2026; MD5 0c258b8f7127426f13a257a9747dba54). MIC-VZW 9900 **EUR3322496** (-16.51%); 62 **EUR3526333**; 9901 **EUR-399975** (was -4293); 9904 -400404; equity -1359726; cash 1793; FTE 79,5 (was 82,9).
+- FOI address: info@pajottenlandscentrum.be — general mailbox verified on official page http://www.pajottenlandscentrum.be/portal.php?afdeling=h&p=contact (opened via web fetch; the box network could not reach the site).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_lennik); FOI **gap_pajottenlands_centrum_lennik_vaph_matrix_9900_3_32m_9901_loss_400k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2794/; rq_2794=done; spawn **rq_2795**; ticks=2794.
+- Next: **rq_2795 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
