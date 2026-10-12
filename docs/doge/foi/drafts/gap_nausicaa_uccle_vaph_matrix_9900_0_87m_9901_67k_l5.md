@@ -7,7 +7,7 @@
 **recipient:** Nausicaa ASBL / Président(e) du conseil d'administration — info@ihpnausicaa.be — Square des Héros 5, 1180 Uccle  
 **recipient note:** general mailbox verified on official page https://www.ihpnausicaa.be/ (address matches KBO)  
 **legal basis note:** Brussels joint decree-ordinance 16 May 2019 (Justel ELI 2019012673, verified on ejustice.just.fgov.be): art. 3 scope = administrative authorities (Region, COCOM, COCOF, communes, CPAS, communal ASBLs); a private ASBL is in principle outside scope, so the letter is a voluntary request and points to arts. 17-21/25/27 for the subsidising authorities  
-**sources:** official NBB VKT-VZW native PDF deposit **2026-00237980** (183827 B / 15p; AG 29-06-2026; déposé 30/06/2026; MD5 a9cceef517bd676b011690f60fb588e6) + KBO + fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure
+**sources:** official NBB VKT-VZW native PDF deposit **2026-00237980** (183827 B / 15p; AG 29-06-2026; déposé 30/06/2026; MD5 a9cceef517bd676b011690f60fb588e6) + KBO + KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931)
 
 ## Objet
 Demande d'informations — subsides et comptes 2025 de Nausicaa ASBL

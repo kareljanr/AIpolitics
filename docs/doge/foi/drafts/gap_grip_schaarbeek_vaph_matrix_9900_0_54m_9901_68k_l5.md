@@ -6,7 +6,7 @@
 **recipient:** GRIP - Gelijke Rechten voor Iedere Persoon met een handicap VZW / Voorzitter Raad van Bestuur — info@gripvzw.be — Vooruitgangstraat 323 bus 3, 1030 Schaarbeek  
 **recipient note:** general mailbox verified on official page https://www.gripvzw.be/contact (address matches KBO)  
 **legal basis note:** Bestuursdecreet 7 Dec 2018, title II ch. 3 (Justel 2018032457, verified tick 2831); the 26 March 2004 decree was repealed on 1 Jan 2019  
-**sources:** official NBB MIC-VZW native PDF deposit **2026-00078342** (46088 B / 11p; AV 17-03-2026; neergelegd 13/04/2026; MD5 fa67b826da68bc0d908399f56c451101) + KBO + fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure
+**sources:** official NBB MIC-VZW native PDF deposit **2026-00078342** (46088 B / 11p; AV 17-03-2026; neergelegd 13/04/2026; MD5 fa67b826da68bc0d908399f56c451101) + KBO + KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931)
 
 ## Onderwerp
 Openbaarheid van bestuur — subsidiematrix en financiële toelichting GRIP - Gelijke Rechten voor Iedere Persoon met een handicap VZW YE2025

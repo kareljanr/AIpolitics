@@ -7,7 +7,7 @@
 **recipient:** Centre d'Accueil et de Traitement du Solbosch (C.A.T.S.) ASBL / Président(e) du conseil d'administration — info@lesolbosch.be — Chaussée d'Alsemberg 204-208, 1190 Forest  
 **recipient note:** general mailbox verified on official page https://www.lesolbosch.be/  
 **legal basis note:** Brussels joint decree-ordinance 16 May 2019 (Justel ELI 2019012673, verified on ejustice.just.fgov.be): art. 3 scope = administrative authorities (Region, COCOM, COCOF, communes, CPAS, communal ASBLs); a private ASBL is in principle outside scope, so the letter is a voluntary request and points to arts. 17-21/25/27 for the subsidising authorities  
-**sources:** official NBB VKT-VZW native PDF deposit **2026-00150224** (53966 B / 15p; AG 09-06-2026; déposé 10/06/2026; MD5 2aeabee4054172915fe876f527e6bc61) + KBO + fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure
+**sources:** official NBB VKT-VZW native PDF deposit **2026-00150224** (53966 B / 15p; AG 09-06-2026; déposé 10/06/2026; MD5 2aeabee4054172915fe876f527e6bc61) + KBO + KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931)
 
 ## Objet
 Demande d'informations — subsides et comptes 2025 de Centre d'Accueil et de Traitement du Solbosch (C.A.T.S.) ASBL

@@ -7,7 +7,7 @@
 **recipient:** Centre d'Aide pour la Santé mentale en Milieu Urbain (CASMMU) ASBL / Président(e) du conseil d'administration — info@casmmu.be — Rue Auguste Lambiotte 133, 1030 Schaerbeek  
 **recipient note:** general mailbox verified on official page https://www.casmmu.be/ (address matches KBO)  
 **legal basis note:** Brussels joint decree-ordinance 16 May 2019 (Justel ELI 2019012673, verified on ejustice.just.fgov.be): art. 3 scope = administrative authorities (Region, COCOM, COCOF, communes, CPAS, communal ASBLs); a private ASBL is in principle outside scope, so the letter is a voluntary request and points to arts. 17-21/25/27 for the subsidising authorities  
-**sources:** official NBB VKT-VZW native PDF deposit **2026-00550800** (473208 B / 23p; AG 25-09-2026; déposé 05/10/2026; MD5 2eb10d6795249a6e966c4c9ea3a1b6ab) + KBO + fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure
+**sources:** official NBB VKT-VZW native PDF deposit **2026-00550800** (473208 B / 23p; AG 25-09-2026; déposé 05/10/2026; MD5 2eb10d6795249a6e966c4c9ea3a1b6ab) + KBO + KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931)
 
 ## Objet
 Demande d'informations — subsides et comptes 2025 de Centre d'Aide pour la Santé mentale en Milieu Urbain (CASMMU) ASBL

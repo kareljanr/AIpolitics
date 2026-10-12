@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T17:32:47Z,every10_2930,2930,no,"tick2930 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_2930 carried open; next remaining larger Brussels childcare/day-centre ASBLs and Flemish 88.10x VZWs, larger first (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-12T17:35:54Z,rq_2930,2931,no,tick2931 leftover dual MOVE - Molenbeek Vivre Ensemble Bruxelles (Molenbeek-Saint-Jean) 0449.487.409 Strong PDF 2026-00181348 733 7.90m / 9901 424k; next rq_2932 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

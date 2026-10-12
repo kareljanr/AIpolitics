@@ -6,7 +6,7 @@
 **recipient:** Warlandis VZW / Voorzitter Raad van Bestuur — info@warlandis.be — Odon Warlandlaan 209, 1090 Jette  
 **recipient note:** general mailbox verified on official page https://www.warlandis.be/7/Contactgegevens (address matches KBO)  
 **legal basis note:** Bestuursdecreet 7 Dec 2018, title II ch. 3 (Justel 2018032457, verified tick 2831); the 26 March 2004 decree was repealed on 1 Jan 2019  
-**sources:** official NBB VKT-VZW native PDF deposit **2026-00103111** (506167 B / 25p; AV 02-04-2026; neergelegd 04/05/2026; MD5 64a1c07354504bcbc7a5a1e3cb904f36) + KBO + fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure
+**sources:** official NBB VKT-VZW native PDF deposit **2026-00103111** (506167 B / 25p; AV 02-04-2026; neergelegd 04/05/2026; MD5 64a1c07354504bcbc7a5a1e3cb904f36) + KBO + KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931)
 
 ## Onderwerp
 Openbaarheid van bestuur — subsidiematrix en financiële toelichting Warlandis VZW YE2025

@@ -6,7 +6,7 @@
 **recipient:** LD3 VZW / Voorzitter Raad van Bestuur — anker@ld3.be — Marcqstraat 25, 1000 Brussel  
 **recipient note:** general mailbox verified on official page https://ld3.be/maatschappelijke-zetel/ (registered-office page; address matches KBO)  
 **legal basis note:** Bestuursdecreet 7 Dec 2018, title II ch. 3 (Justel 2018032457, verified tick 2831); the 26 March 2004 decree was repealed on 1 Jan 2019  
-**sources:** official NBB VKT-VZW native PDF deposit **2026-00131867** (569306 B / 33p; AV 26-05-2026; neergelegd 02/06/2026; MD5 e5038ff61d2b2580372e1694f56a9c68) + KBO + fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure
+**sources:** official NBB VKT-VZW native PDF deposit **2026-00131867** (569306 B / 33p; AV 26-05-2026; neergelegd 02/06/2026; MD5 e5038ff61d2b2580372e1694f56a9c68) + KBO + KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931)
 
 ## Onderwerp
 Openbaarheid van bestuur — subsidiematrix en financiële toelichting LD3 VZW YE2025

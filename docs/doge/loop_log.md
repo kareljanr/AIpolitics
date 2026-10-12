@@ -31837,7 +31837,7 @@ Append-only. Each tick adds a short entry.
 
 ## Tick 2901 — 2026-10-12T17:17:33Z — rq_2900 leftover dual Warlandis Jette YE2025 (local fallback runner)
 
-- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Warlandis** → KBO 0462.564.195 had 0 prior entity rows.
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931): **Warlandis** → KBO 0462.564.195 had 0 prior entity rows.
 - KBO: Actief since 10 december 1997; VZW; zetel Odon Warlandlaan 209 1090 Jette; 1 VE; 0 prior entity rows for 0462.564.195
 - Found: official NBB VKT-VZW native PDF **2026-00103111** (506167 B / 25p; AV 02-04-2026; neergelegd 04/05/2026; MD5 64a1c07354504bcbc7a5a1e3cb904f36). VKT-VZW 9900 **EUR5759594** (+4.53%); 62 **EUR4221300**; 9901 **EUR701125** (was 676462); 9904 511205; equity 4273422; cash 2010658; FTE 64 (was 60,7).
 - FOI address: info@warlandis.be — general mailbox verified on official page https://www.warlandis.be/7/Contactgegevens (address matches KBO).
@@ -31847,7 +31847,7 @@ Append-only. Each tick adds a short entry.
 
 ## Tick 2902 — 2026-10-12T17:17:43Z — rq_2902 leftover dual Huize Sint-Monika Brussel YE2025 (local fallback runner)
 
-- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Huize Sint-Monika** → KBO 0416.886.501 had 0 prior entity rows.
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931): **Huize Sint-Monika** → KBO 0416.886.501 had 0 prior entity rows.
 - KBO: Actief since 17 december 1976; VZW; zetel Blaesstraat 91 1000 Brussel; 1 VE; 0 prior entity rows for 0416.886.501
 - Found: official NBB VKT-VZW native PDF **2026-00337548** (307757 B / 20p; AV 08-07-2026; neergelegd 24/07/2026; MD5 07f7843dde5e231694d006fda95da8a9). VKT-VZW 9900 **EUR4953717** (+2.51%); 62 **EUR4906530**; 9901 **EUR-290776** (was -99708); 9904 -294975; equity 1449591; cash 256805; FTE 81,8 (was 80,2).
 - FOI address: info@huizesintmonika.be — general mailbox verified on official page https://huizesintmonika.be/nl/contacteer-ons (address matches KBO).
@@ -31857,7 +31857,7 @@ Append-only. Each tick adds a short entry.
 
 ## Tick 2903 — 2026-10-12T17:17:52Z — rq_2903 leftover dual Centre d'Aide pour la Santé mentale en Milieu Urbain (CASMMU) Bruxelles (Schaerbeek) YE2025 (local fallback runner)
 
-- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Centre d'Aide pour la Santé mentale en Milieu Urbain (CASMMU)** → KBO 0451.024.363 had 0 prior entity rows.
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931): **Centre d'Aide pour la Santé mentale en Milieu Urbain (CASMMU)** → KBO 0451.024.363 had 0 prior entity rows.
 - KBO: Actief since 14 mei 1993; VZW; zetel Auguste Lambiottestraat 133 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0451.024.363
 - Found: official NBB VKT-VZW native PDF **2026-00550800** (473208 B / 23p; AV 25-09-2026; neergelegd 05/10/2026; MD5 2eb10d6795249a6e966c4c9ea3a1b6ab). VKT-VZW 9900 **EUR2606691** (-9.00%); 62 **EUR2478243**; 9901 **EUR2380** (was 439947); 9904 -86; equity 4103363; cash 2140546; FTE 31,7 (was 29,5).
 - FOI address: info@casmmu.be — general mailbox verified on official page https://www.casmmu.be/ (address matches KBO).
@@ -31867,7 +31867,7 @@ Append-only. Each tick adds a short entry.
 
 ## Tick 2904 — 2026-10-12T17:18:02Z — rq_2904 leftover dual Magnolia Bruxelles (Jette) YE2025 (local fallback runner)
 
-- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Magnolia** → KBO 0414.197.918 had 0 prior entity rows.
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931): **Magnolia** → KBO 0414.197.918 had 0 prior entity rows.
 - KBO: Actief since 12 maart 1974; VZW; zetel Leopold I straat 314 1090 Jette; 1 VE; 0 prior entity rows for 0414.197.918
 - Found: official NBB VOL-VZW native PDF **2026-00253826** (1508146 B / 42p; AV 24-06-2026; neergelegd 01/07/2026; MD5 d3c4addca0ac3344eacaf471eec56a3e). VOL-VZW 733 **EUR2255016** (-8.51%); 62 **EUR8240290**; 9901 **EUR902586** (was -76354); 9904 853909; equity 2730466; cash 718617; FTE 132,4 (was 132,4).
 - FOI address: info@magnolia-jette.be — general mailbox verified on official page https://www.magnolia-jette.be/displaypage.aspx?lgs=nl&pid=8.
@@ -31877,7 +31877,7 @@ Append-only. Each tick adds a short entry.
 
 ## Tick 2905 — 2026-10-12T17:18:11Z — rq_2905 leftover dual Les Oiseaux Bleus Centre de Réadaptation Fonctionnelle Bruxelles (Etterbeek) YE2025 (local fallback runner)
 
-- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Les Oiseaux Bleus Centre de Réadaptation Fonctionnelle** → KBO 0409.103.735 had 0 prior entity rows.
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931): **Les Oiseaux Bleus Centre de Réadaptation Fonctionnelle** → KBO 0409.103.735 had 0 prior entity rows.
 - KBO: Actief since 19 september 1963; VZW; zetel Pater Eudore Devroyestraat 14 1040 Etterbeek; 1 VE; 0 prior entity rows for 0409.103.735
 - Found: official NBB VKT-VZW native PDF **2026-00301003** (49702 B / 13p; AV 18-06-2026; neergelegd 16/07/2026; MD5 e6f89916c8c4ffadd89d0a2d99d8eeb5). VKT-VZW 9900 **EUR2132707** (+1.88%); 62 **EUR1970964**; 9901 **EUR-22725** (was -43025); 9904 8902; equity 1674960; cash 285035; FTE 26,8 (was 27,8).
 - FOI address: centre@lesoiseauxbleus.be — general mailbox verified on official page https://www.lesoiseauxbleus.be/contact (address matches KBO).
@@ -31887,7 +31887,7 @@ Append-only. Each tick adds a short entry.
 
 ## Tick 2906 — 2026-10-12T17:18:21Z — rq_2906 leftover dual ASBL Villa Pilifs Bruxelles (Neder-Over-Heembeek) YE2025 (local fallback runner)
 
-- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **ASBL Villa Pilifs** → KBO 0562.937.223 had 0 prior entity rows.
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931): **ASBL Villa Pilifs** → KBO 0562.937.223 had 0 prior entity rows.
 - KBO: Actief since 24 september 2014; VZW; zetel Wimpelbergstraat 188 1120 Brussel; 1 VE; 0 prior entity rows for 0562.937.223
 - Found: official NBB VKT-VZW native PDF **2026-00386302** (45725 B / 11p; AV 24-06-2026; neergelegd 06/08/2026; MD5 de4185052c610dba491511e457024236). VKT-VZW 9900 **EUR1930570** (+1.97%); 62 **EUR1744731**; 9901 **EUR87955** (was 96112); 9904 88365; equity 2591141; cash 1057536; FTE 27,4 (was 26,5).
 - FOI address: info@villapilifs.be — general mailbox verified on official page https://www.villapilifs.be/ (address matches KBO).
@@ -31897,7 +31897,7 @@ Append-only. Each tick adds a short entry.
 
 ## Tick 2907 — 2026-10-12T17:18:30Z — rq_2907 leftover dual Messidor Bruxelles YE2025 (local fallback runner)
 
-- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Messidor** → KBO 0447.635.105 had 0 prior entity rows.
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931): **Messidor** → KBO 0447.635.105 had 0 prior entity rows.
 - KBO: Actief since 30 april 1992; VZW; zetel Gildenstraat 11 1000 Brussel; 1 VE; 0 prior entity rows for 0447.635.105
 - Found: official NBB VKT-VZW native PDF **2026-00230387** (51186 B / 13p; AV 03-06-2026; neergelegd 01/07/2026; MD5 6a459ced0e5a8acf81637b38942e0e69). VKT-VZW 9900 **EUR1869149** (-3.64%); 62 **EUR1603712**; 9901 **EUR79175** (was 194377); 9904 51994; equity 2282678; cash 141455; FTE 19,5 (was 18,1).
 - FOI address: administration@messidor-carrefour.be — general mailbox verified on official page https://messidor-carrefour.be/messidor/.
@@ -31907,7 +31907,7 @@ Append-only. Each tick adds a short entry.
 
 ## Tick 2908 — 2026-10-12T17:18:39Z — rq_2908 leftover dual Le Nid Marcelle Briard Bruxelles (Uccle) YE2025 (local fallback runner)
 
-- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Le Nid Marcelle Briard** → KBO 0408.657.733 had 0 prior entity rows.
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931): **Le Nid Marcelle Briard** → KBO 0408.657.733 had 0 prior entity rows.
 - KBO: Actief since 3 maart 1966; VZW; zetel Georges Lecointelaan 2 1180 Ukkel; 1 VE; 0 prior entity rows for 0408.657.733
 - Found: official NBB VKT-VZW native PDF **2026-00217134** (323467 B / 14p; AV 17-06-2026; neergelegd 26/06/2026; MD5 80bb71751eee08ac0cb383dafc2f9010). VKT-VZW 9900 **EUR1824204** (-6.62%); 62 **EUR1730969**; 9901 **EUR26466** (was 271024); 9904 29693; equity 863175; cash 1005980; FTE 23,3 (was 22,4).
 - FOI address: secretariat@lenidmb.be — general mailbox verified on official page https://www.lenidmarcellebriard.be/.
@@ -31917,7 +31917,7 @@ Append-only. Each tick adds a short entry.
 
 ## Tick 2909 — 2026-10-12T17:18:49Z — rq_2909 leftover dual DoucheFLUX Bruxelles (Anderlecht) YE2025 (local fallback runner)
 
-- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **DoucheFLUX** → KBO 0841.390.074 had 0 prior entity rows.
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931): **DoucheFLUX** → KBO 0841.390.074 had 0 prior entity rows.
 - KBO: Actief since 29 november 2011; VZW; zetel Veeartsenstraat 84 1070 Anderlecht; 2 VE; 0 prior entity rows for 0841.390.074
 - Found: official NBB VKT-VZW native PDF **2026-00087437** (58845 B / 17p; AV 20-04-2026; neergelegd 23/04/2026; MD5 608dd1e9cada63ed07f9a69cae7523ff). VKT-VZW 9900 **EUR1591426** (+16.61%); 62 **EUR1341344**; 9901 **EUR154826** (was 21320); 9904 148169; equity 824771; cash 871564; FTE 20 (was 19,5).
 - FOI address: info@doucheflux.be — general mailbox verified on official page https://doucheflux.be/ (address matches KBO).
@@ -31937,7 +31937,7 @@ Append-only. Each tick adds a short entry.
 
 ## Tick 2911 — 2026-10-12T17:22:18Z — rq_2910 leftover dual Centre d'Accueil et de Traitement du Solbosch (C.A.T.S.) Bruxelles (Forest) YE2025 (local fallback runner)
 
-- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Centre d'Accueil et de Traitement du Solbosch (C.A.T.S.)** → KBO 0861.748.691 had 0 prior entity rows.
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931): **Centre d'Accueil et de Traitement du Solbosch (C.A.T.S.)** → KBO 0861.748.691 had 0 prior entity rows.
 - KBO: Actief since 20 november 2003; VZW; zetel Alsembergse Steenweg 204-208 1190 Vorst; 1 VE; 0 prior entity rows for 0861.748.691
 - Found: official NBB VKT-VZW native PDF **2026-00150224** (53966 B / 15p; AV 09-06-2026; neergelegd 10/06/2026; MD5 2aeabee4054172915fe876f527e6bc61). VKT-VZW 9900 **EUR2648305** (+6.20%); 62 **EUR2108878**; 9901 **EUR368823** (was 218818); 9904 264245; equity 1235929; cash 896845; FTE 23,6.
 - FOI address: info@lesolbosch.be — general mailbox verified on official page https://www.lesolbosch.be/.
@@ -31947,7 +31947,7 @@ Append-only. Each tick adds a short entry.
 
 ## Tick 2912 — 2026-10-12T17:22:32Z — rq_2912 leftover dual Mandragora Bruxelles (Ixelles) YE2025 (local fallback runner)
 
-- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Mandragora** → KBO 0452.931.404 had 0 prior entity rows.
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931): **Mandragora** → KBO 0452.931.404 had 0 prior entity rows.
 - KBO: Actief since 5 juli 1994; VZW; zetel Opperstraat 73 1050 Elsene; 1 VE; 0 prior entity rows for 0452.931.404
 - Found: official NBB VKT-VZW native PDF **2026-00206520** (352879 B / 24p; AV 23-06-2026; neergelegd 25/06/2026; MD5 81db39adb881be26684a0a1cdc6ff1f7). VKT-VZW 9900 **EUR1646801** (+8.35%); 62 **EUR1369694**; 9901 **EUR142431** (was 103358); 9904 134628; equity 1722361; cash 586158; FTE 19 (was 19,6).
 - FOI address: info@mandragora.be — general mailbox verified on official page https://mandragora.be/contact.
@@ -31957,7 +31957,7 @@ Append-only. Each tick adds a short entry.
 
 ## Tick 2913 — 2026-10-12T17:22:50Z — rq_2913 leftover dual Initiatief Antonin Artaud - Initiative Antonin Artaud Bruxelles YE2025 (local fallback runner)
 
-- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Initiatief Antonin Artaud - Initiative Antonin Artaud** → KBO 0452.250.721 had 0 prior entity rows.
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931): **Initiatief Antonin Artaud - Initiative Antonin Artaud** → KBO 0452.250.721 had 0 prior entity rows.
 - KBO: Actief since 17 november 1993; VZW; zetel Grootgodshuisstraat 10 1000 Brussel; 1 VE; 0 prior entity rows for 0452.250.721
 - Found: official NBB VKT-VZW native PDF **2026-00394073** (50056 B / 13p; AV 09-06-2026; neergelegd 12/08/2026; MD5 e006dd6d873b801c4bb5f74600203490). VKT-VZW 9900 **EUR1414554** (+6.17%); 62 **EUR1070257**; 9901 **EUR194636** (was 85979); 9904 185661; equity 2442381; cash 1089567; FTE 14,8 (was 13,2).
 - FOI address: ihp-bw@antoninartaud.be — general mailbox verified on official page https://initiatief-antoninartaud.be/fr/nous-contacter/ (company number shown).
@@ -31967,7 +31967,7 @@ Append-only. Each tick adds a short entry.
 
 ## Tick 2914 — 2026-10-12T17:22:59Z — rq_2914 leftover dual LD3 Brussel YE2025 (local fallback runner)
 
-- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **LD3** → KBO 0449.403.374 had 0 prior entity rows.
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931): **LD3** → KBO 0449.403.374 had 0 prior entity rows.
 - KBO: Actief since 21 januari 1993; VZW; zetel Marcqstraat 25 1000 Brussel; 3 VE; 0 prior entity rows for 0449.403.374
 - Found: official NBB VKT-VZW native PDF **2026-00131867** (569306 B / 33p; AV 26-05-2026; neergelegd 02/06/2026; MD5 e5038ff61d2b2580372e1694f56a9c68). VKT-VZW 9900 **EUR1113861** (+19.50%); 62 **EUR947669**; 9901 **EUR3527** (was -77186); 9904 2746; equity 3739901; cash 255589; FTE 15,4 (was 16,6).
 - FOI address: anker@ld3.be — general mailbox verified on official page https://ld3.be/maatschappelijke-zetel/ (registered-office page; address matches KBO).
@@ -31977,7 +31977,7 @@ Append-only. Each tick adds a short entry.
 
 ## Tick 2915 — 2026-10-12T17:23:08Z — rq_2915 leftover dual Timber Bruxelles (Woluwe-Saint-Pierre) YE2025 (local fallback runner)
 
-- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Timber** → KBO 0449.274.504 had 0 prior entity rows.
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931): **Timber** → KBO 0449.274.504 had 0 prior entity rows.
 - KBO: Actief since 26 september 1992; VZW; zetel Edmond Parmentierlaan 19 1150 Sint-Pieters-Woluwe; 1 VE; 0 prior entity rows for 0449.274.504
 - Found: official NBB VKT-VZW native PDF **2026-00087667** (49979 B / 13p; AV 23-04-2026; neergelegd 26/04/2026; MD5 45be4be8e7482d3b0a0f1c6e99f7bdf0). VKT-VZW 9900 **EUR971396** (+1.95%); 62 **EUR897815**; 9901 **EUR40736** (was 33255); 9904 42737; equity 759054; cash 418141; FTE 12,2 (was 12,2).
 - FOI address: contact@asbltimbervzw.be — general mailbox verified on official page https://www.asbltimbervzw.be/contactus (address matches KBO).
@@ -31987,7 +31987,7 @@ Append-only. Each tick adds a short entry.
 
 ## Tick 2916 — 2026-10-12T17:23:17Z — rq_2916 leftover dual Nausicaa Bruxelles (Uccle) YE2025 (local fallback runner)
 
-- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Nausicaa** → KBO 0458.355.484 had 0 prior entity rows.
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931): **Nausicaa** → KBO 0458.355.484 had 0 prior entity rows.
 - KBO: Actief since 18 juni 1996; VZW; zetel Heldensquare 5 1180 Ukkel; 1 VE; 0 prior entity rows for 0458.355.484
 - Found: official NBB VKT-VZW native PDF **2026-00237980** (183827 B / 15p; AV 29-06-2026; neergelegd 30/06/2026; MD5 a9cceef517bd676b011690f60fb588e6). VKT-VZW 9900 **EUR868534** (-23.65%); 62 **EUR751476**; 9901 **EUR67243** (was 462053); 9904 96649; equity 3241007; cash 2526992; FTE 11 (was 10,6).
 - FOI address: info@ihpnausicaa.be — general mailbox verified on official page https://www.ihpnausicaa.be/ (address matches KBO).
@@ -31997,7 +31997,7 @@ Append-only. Each tick adds a short entry.
 
 ## Tick 2917 — 2026-10-12T17:23:26Z — rq_2917 leftover dual GRIP - Gelijke Rechten voor Iedere Persoon met een handicap Schaarbeek YE2025 (local fallback runner)
 
-- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **GRIP - Gelijke Rechten voor Iedere Persoon met een handicap** → KBO 0474.368.206 had 0 prior entity rows.
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931): **GRIP - Gelijke Rechten voor Iedere Persoon met een handicap** → KBO 0474.368.206 had 0 prior entity rows.
 - KBO: Actief since 14 december 2000; VZW; zetel Vooruitgangstraat 323 bus 3 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0474.368.206
 - Found: official NBB MIC-VZW native PDF **2026-00078342** (46088 B / 11p; AV 17-03-2026; neergelegd 13/04/2026; MD5 fa67b826da68bc0d908399f56c451101). MIC-VZW 9900 **EUR541490** (+42.24%); 62 **EUR468561**; 9901 **EUR68464** (was 40085); 9904 68607; equity 257336; cash 219762; FTE n/a.
 - FOI address: info@gripvzw.be — general mailbox verified on official page https://www.gripvzw.be/contact (address matches KBO).
@@ -32007,7 +32007,7 @@ Append-only. Each tick adds a short entry.
 
 ## Tick 2918 — 2026-10-12T17:23:36Z — rq_2918 leftover dual Les Jardins du 8ème Jour - Tago Bruxelles (Neder-Over-Heembeek) YE2025 (local fallback runner)
 
-- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Les Jardins du 8ème Jour - Tago** → KBO 0721.851.531 had 0 prior entity rows.
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931): **Les Jardins du 8ème Jour - Tago** → KBO 0721.851.531 had 0 prior entity rows.
 - KBO: Actief since 5 maart 2019; VZW; zetel Beukenootjesstraat 228 1120 Brussel; 1 VE; 0 prior entity rows for 0721.851.531
 - Found: official NBB VKT-VZW native PDF **2026-00107303** (51250 B / 14p; AV 30-04-2026; neergelegd 11/05/2026; MD5 00abb6c372200127573756e3e6871322). VKT-VZW 9900 **EUR506518** (+0.80%); 62 **EUR493278**; 9901 **EUR2863** (was 5867); 9904 3006; equity 62206; cash 28245; FTE 7,3 (was 7,3).
 - FOI address: tago@tagoasbl.be — general mailbox verified on official page https://tagoasbl.be/ (address matches KBO).
@@ -32017,7 +32017,7 @@ Append-only. Each tick adds a short entry.
 
 ## Tick 2919 — 2026-10-12T17:23:44Z — rq_2919 leftover dual Huize Jan De Wachter Ganshoren YE2025 (local fallback runner)
 
-- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **Huize Jan De Wachter** → KBO 0451.562.021 had 0 prior entity rows.
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 of Brussels residential care and social work for older/disabled people (87.101-87.909 and 88.101-88.109 in 22 Brussels postcodes), ranked by YE2025 NBB primary figure (source text corrected in tick 2931): **Huize Jan De Wachter** → KBO 0451.562.021 had 0 prior entity rows.
 - KBO: Actief since 19 november 1993; VZW; zetel Broustinlaan 96 1083 Ganshoren; 3 VE; 0 prior entity rows for 0451.562.021
 - Found: official NBB VKT-VZW native PDF **2026-00213973** (43773 B / 12p; AV 22-05-2026; neergelegd 29/06/2026; MD5 e8ecd012ea0b3e0f75ae4532f0171e31). VKT-VZW 9900 **EUR386069** (+35.36%); 62 **EUR283763**; 9901 **EUR87384** (was -43894); 9904 88137; equity 278476; cash 187935; FTE 3,8 (was 5).
 - FOI address: info@hjdw.be — general mailbox verified on official page https://www.hjdw.be/ (address matches KBO).
@@ -32133,3 +32133,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_2930 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-2930 run locally as fallback.
 - Next: **rq_2930** — large unmined scan hits, larger first (Molenbeek Vivre Ensemble EUR7.9m, Tracé Brussel, Human Smile, CASABLANCO, uncovered Missions locales).
+
+
+## Tick 2931 — 2026-10-12T17:35:54Z — rq_2930 leftover dual MOVE - Molenbeek Vivre Ensemble Bruxelles (Molenbeek-Saint-Jean) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE earlier KBO NACE-BEL activity scans 2026-10-12 (Brussels 88.991-88.999 and 87.x/88.10x in 22 postcodes; Flemish 87.x/88.10x), unprocessed hits ranked by YE2025 NBB primary figure: **MOVE - Molenbeek Vivre Ensemble** → KBO 0449.487.409 had 0 prior entity rows.
+- KBO: Actief since 18 december 1992; VZW; zetel Graaf van Vlaanderenstraat 15 1080 Sint-Jans-Molenbeek; 15 VE; 0 prior entity rows for 0449.487.409
+- Found: official NBB VOL-VZW native PDF **2026-00181348** (494033 B / 47p; AV 18-06-2026; neergelegd 22/06/2026; MD5 7c031b5a93fea1c2a15ac2085f250d83). VOL-VZW 733 **EUR7904092** (-1.62%); 62 **EUR6922211**; 9901 **EUR423812** (was -161786); 9904 409306; equity 167569; cash 936640; FTE 120 (was 119).
+- FOI address: info@move.brussels — general mailbox verified on official page https://move.brussels/nous-contacter/ (address matches KBO).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_move_molenbeek_vaph_matrix_733_7_90m_9901_424k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2931/; rq_2930=done; spawn **rq_2932**; ticks=2931.
+- Next: **rq_2932 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
