@@ -33702,3 +33702,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@logissoc.be — general mailbox verified on official site https://www.logissocialdeliege.be/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_logis_social_liege_code740_split_740_0_84m_9901_477k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3086/; rq_3086=done; spawn **rq_3087**; ticks=3086.
 - Next: **rq_3087 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3087 — 2026-10-12T21:34:04Z — rq_3087 leftover dual Le Logis Tournaisien Tournai YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Wallonia official list of the public-service housing companies (SLSP), interieur.wallonie.be 2026 transparency-report list (https://interieur.wallonie.be/files/documents/institutionnel/2026_rapport_transparence_slsp.pdf), matched to KBO numbers, plus a completed nationwide KBO NACE-BEL 68.201 scan (step-10 postcodes 1000-9990, name-filtered for housing/intercommunale names); ranked by YE2025 NBB company-model code 740 (operating subsidies and compensatory amounts from public authorities); every candidate passed the name/alias/KBO/website dedup check: **Le Logis Tournaisien** → KBO 0402.504.468 had 0 prior entity rows.
+- KBO: Actief since 29 april 1922; SRL; zetel Avenue des Bouleaux(TOU) 75B 7500 Tournai; 1 VE; 0 prior entity rows for 0402.504.468
+- Found: official NBB VOL-SRL native PDF **2026-00136100** (10070972 B / 165p; AV 29-05-2026; neergelegd 01/06/2026; MD5 b5a39cf060ad73e6ea54056abfd058fd). VOL-SRL 740 **EUR801938** (+55.53%); 62 **EUR4220417**; 9901 **EUR318601** (was -46194); 9904 354807; equity 88415541; cash 14793500; FTE 61,2 (was 60,6).
+- FOI address: info@lelogistournaisien.be — general mailbox verified on the Province of Hainaut official directory https://websoc.hainaut.be/DI02664.htm.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent swl); FOI **gap_logis_tournaisien_code740_split_740_0_80m_9901_319k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3087/; rq_3087=done; spawn **rq_3088**; ticks=3087.
+- Next: **rq_3088 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

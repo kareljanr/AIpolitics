@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T21:33:53Z,rq_3086,3086,no,tick3086 leftover dual Le Logis Social de Liège Liège 0403.900.278 Strong PDF 2026-00287100 740 0.84m / 9901 477k; next rq_3087 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T21:34:04Z,rq_3087,3087,no,tick3087 leftover dual Le Logis Tournaisien Tournai 0402.504.468 Strong PDF 2026-00136100 740 0.80m / 9901 319k; next rq_3088 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
