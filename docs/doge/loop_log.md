@@ -33163,3 +33163,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@olympic.be — general mailbox verified on official page https://www.teambelgium.be/fr/contact.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_coib_brussel_vaph_matrix_733_5_05m_9901_loss_1700k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3033/; rq_3033=done; spawn **rq_3034**; ticks=3033.
 - Next: **rq_3034 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3034 — 2026-10-12T20:17:30Z — rq_3034 leftover dual Gymnastiekfederatie Vlaanderen (Gymfed) Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (new codes 93.191 sport federations, 93.121/93.199 sport, 84.130 public administration of economic affairs, 72.200 social-science research; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure: **Gymnastiekfederatie Vlaanderen (Gymfed)** → KBO 0417.540.656 had 0 prior entity rows.
+- KBO: Actief since 7 augustus 1977; VZW; zetel Zuiderlaan 13 9000 Gent; 1 VE; 0 prior entity rows for 0417.540.656
+- Found: official NBB VKT-VZW native PDF **2026-00140653** (5020366 B / 36p; AV 23-04-2026; neergelegd 29/05/2026; MD5 bdb68b7ab8ff8a61e21d9561aac73152). VKT-VZW 9900 **EUR4459676** (-1.37%); 62 **EUR3535288**; 9901 **EUR212674** (was 35673); 9904 148938; equity 2156434; cash 1486520; FTE 42,8 (was 45,4).
+- FOI address: info@gymfed.be — general mailbox verified on official page https://www.gymfed.be/privacy (Zuiderlaan 13 matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_gymfed_gent_vaph_matrix_9900_4_46m_9901_213k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3034/; rq_3034=done; spawn **rq_3035**; ticks=3034.
+- Next: **rq_3035 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
