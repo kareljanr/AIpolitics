@@ -32063,3 +32063,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sintjozef-evere.be — general mailbox verified on official page https://wzcclivia.be/ (site of WZC Clivia, which it states is part of vzw Sint-Jozef; address matches KBO).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_wzc_sint_jozef_evere_turnover_public_share_70_turnover_4_85m_9901_loss_665k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2923/; rq_2923=done; spawn **rq_2924**; ticks=2923.
 - Next: **rq_2924 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2924 — 2026-10-12T17:31:24Z — rq_2924 leftover dual H.Hart Services Kortrijk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scans 2026-10-12 (Brussels 87.101-87.909 and 88.101-88.109 in 22 postcodes; earlier Flemish 87.x/88.10x and Brussels 88.99x scans), ranked by YE2025 NBB primary figure (733 subsidies, 9900 gross margin, or 70 turnover where 733 is empty): **H.Hart Services** → KBO 0897.041.350 had 0 prior entity rows.
+- KBO: Actief since 3 april 2008; VZW; zetel Budastraat(Kor) 30 8500 Kortrijk; 6 VE; 0 prior entity rows for 0897.041.350
+- Found: official NBB VOL-VZW native PDF **2026-00296017** (483102 B / 34p; AV 17-06-2026; neergelegd 15/07/2026; MD5 bf9c96cb860170d128b58e4eb3fcbda2). VOL-VZW 70 turnover (NOT a subsidy amount) **EUR9748638** (+0.64%); 62 **EUR9185337**; 9901 **EUR-207269** (was 26974); 9904 -208471; equity 524987; cash 892511; FTE 295,9 (was 313,1).
+- FOI address: dienstencheques@h-hart.be — general mailbox verified on official page https://www.h-hart.be/hulpaanhuis/index.asp?id=4 (listed as general mailbox of the service-voucher office at Budastraat 30; hhartservices.be shows company number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_kortrijk); FOI **gap_h_hart_services_kortrijk_turnover_public_share_70_turnover_9_75m_9901_loss_207k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2924/; rq_2924=done; spawn **rq_2925**; ticks=2924.
+- Next: **rq_2925 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
