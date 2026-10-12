@@ -31993,3 +31993,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ihpnausicaa.be — general mailbox verified on official page https://www.ihpnausicaa.be/ (address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_nausicaa_uccle_vaph_matrix_9900_0_87m_9901_67k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2916/; rq_2916=done; spawn **rq_2917**; ticks=2916.
 - Next: **rq_2917 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2917 — 2026-10-12T17:23:26Z — rq_2917 leftover dual GRIP - Gelijke Rechten voor Iedere Persoon met een handicap Schaarbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE fresh KBO NACE-BEL activity scan 2026-10-12 (Flemish 88.101/88.102/87.201-87.203/87.301 in 21 large-city postcodes; Brussels 88.991-88.999 in 22 postcodes), ranked by primary figure: **GRIP - Gelijke Rechten voor Iedere Persoon met een handicap** → KBO 0474.368.206 had 0 prior entity rows.
+- KBO: Actief since 14 december 2000; VZW; zetel Vooruitgangstraat 323 bus 3 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0474.368.206
+- Found: official NBB MIC-VZW native PDF **2026-00078342** (46088 B / 11p; AV 17-03-2026; neergelegd 13/04/2026; MD5 fa67b826da68bc0d908399f56c451101). MIC-VZW 9900 **EUR541490** (+42.24%); 62 **EUR468561**; 9901 **EUR68464** (was 40085); 9904 68607; equity 257336; cash 219762; FTE n/a.
+- FOI address: info@gripvzw.be — general mailbox verified on official page https://www.gripvzw.be/contact (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_grip_schaarbeek_vaph_matrix_9900_0_54m_9901_68k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2917/; rq_2917=done; spawn **rq_2918**; ticks=2917.
+- Next: **rq_2918 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.

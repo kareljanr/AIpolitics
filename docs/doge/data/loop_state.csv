@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T17:23:17Z,rq_2916,2916,no,tick2916 leftover dual Nausicaa Bruxelles (Uccle) 0458.355.484 Strong PDF 2026-00237980 9900 0.87m / 9901 67k; next rq_2917 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T17:23:26Z,rq_2917,2917,no,tick2917 leftover dual GRIP - Gelijke Rechten voor Iedere Persoon met een handicap Schaarbeek 0474.368.206 Strong PDF 2026-00078342 9900 0.54m / 9901 68k; next rq_2918 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
