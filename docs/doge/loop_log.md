@@ -28704,3 +28704,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00293283** (1883442 B / 43p; AV 26-05-2026; neergelegd 07/07/2026; MD5 95ff3aeda99b1b67f49f308e74dadbf0). VOL 70/76A **EUR6188080** (+3.28%); 733 **EUR5124292** (+5.04%); 62 **EUR4684016** (+3.94%); 9901 **EUR536504** (−7.87%); 9904 **EUR577053**; equity 7983449 (kapitaalsubsidies 1887522); debt 1048214; geldbeleggingen **EUR3875024** (was 1766473) + cash 1165989; FTE 61,9.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.00; entities +1 (parent city_meise); FOI **gap_levedale_meise_vaph_matrix_733_5_12m_9904_577k_beleggingen_3_88m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2582/; rq_2582=done; spawn **rq_2583**; ticks=2582.
 - Next: **rq_2583 leftover dual** — continue VAPH list scan.
+
+
+## Tick 2583 — 2026-10-12T07:30:33Z — rq_2583 leftover dual KOCA Antwerpen (Zuid) YE2025 (local fallback runner)
+
+- Hunt: carried from 2582 scan (VAPH page 32): **KOCA Antwerpen** → KBO 0410.006.132 had 0 prior repo rows.
+- KBO: Actief Normale toestand since 29.06.1922; VZW Koninklijk Orthopedagogisch Centrum Antwerpen; zetel Van Schoonbekestraat 131 2018 Antwerpen; 17 VE (Antwerpen-Zuid campussen Emmaus/Jonghelinckshof/Paleisstraat/Zuidschool + De Klinkaard Boom); 0 prior repo rows for 0410.006.132; stad Antwerpen ebesluit 2024 terugvordering investeringsondersteuning EUR33221,37 aan KOCA (context only); Identity trap != Emmaus vzw (campus name only) != leftover De Vijver 0429.040.896 remine@2577 != leftover Het Raster 0476.639.588 remine@2581
+- Found: official NBB VOL-VZW native PDF **2026-00208990** (504108 B / 46p; AV 11-06-2026; neergelegd 24/06/2026; MD5 cb0b723d0aa39e282c47fddd494fd0fe). VOL 70/76A **EUR23385736** (+6.36%); 733 **EUR20938299** (+3.17%); 62 **EUR16939739** (+2.46%); 9901 **EUR1211866** JUMP +107.40%; 9904 **EUR1171454**; equity 30242088 (kapitaalsubsidies **EUR14816530**); debt 8506777; geldbeleggingen 2800000 (was 1000000); FTE 241,8 (was 246,5).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.80; entities +1 (parent city_antwerpen); FOI **gap_koca_antwerpen_vaph_matrix_733_20_94m_9901_jump_1_21m_kapsub_14_82m_l5** prio7 ready (NOT sent) + draft; raw docs/doge/raw/tick2583/; rq_2583=done; spawn **rq_2584**; ticks=2583.
+- Next: **rq_2584 leftover dual** — continue VAPH list scan.

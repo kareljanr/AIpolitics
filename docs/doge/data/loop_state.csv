@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T07:30:10Z,rq_2582,2582,no,tick2582 leftover dual Levedale Meise (Wolvertem) 0414.693.707 Strong PDF 2026-00293283 733 5.12m / 9904 577k / beleggingen 3.88m; next rq_2583 continue VAPH list scan (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T07:30:33Z,rq_2583,2583,no,tick2583 leftover dual KOCA Antwerpen (Zuid) 0410.006.132 Strong PDF 2026-00208990 733 20.94m / 9901 JUMP 1.21m / kapitaalsubsidies 14.82m; next rq_2584 continue VAPH list scan (local fallback runner; Actions cron unreliable)
