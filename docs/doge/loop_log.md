@@ -30742,3 +30742,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: thuiszorg@helan.be — general mailbox verified on official page https://mijn.helan.be/ajax/documentPreview.html?filename=Onthaalbrochure-TZ.pdf&id=3622 (official Helan brochure: "Algemeen e-mailadres Helan Thuiszorg vzw"; KBO listed on helan.be juridische entiteiten).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_helan_thuiszorg_vaph_matrix_9900_10_21m_9901_loss_188k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2792/; rq_2792=done; spawn **rq_2793**; ticks=2792.
 - Next: **rq_2793 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2793 — 2026-10-12T14:36:03Z — rq_2793 leftover dual De Kleine Kasteeltjes Brecht Brecht YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301 (nursing homes) and 88.101 (home care) activity search, Antwerpen and Vlaams-Brabant postcodes, ranked by primary figure (plus two larger 88.911 childcare VZWs): **De Kleine Kasteeltjes Brecht** → KBO 0444.448.357 had 0 prior entity rows.
+- KBO: Actief since 25 maart 1991; VZW; zetel Kleine Kasteeltjesweg 1 2960 Brecht; 1 VE; 0 prior entity rows for 0444.448.357
+- Found: official NBB VKT-VZW native PDF **2026-00414543** (47877 B / 13p; AV 30-06-2026; neergelegd 14/08/2026; MD5 2d592dbe232f0210eec3e0178ba512f0). VKT-VZW 9900 **EUR4371568** (-9.02%); 62 **EUR4067845**; 9901 **EUR-177557** (was 580330); 9904 -230801; equity 2428302; cash 66067; FTE 60,4 (was 61,4).
+- FOI address: info@dekleinekasteeltjes.be — general mailbox verified on official page https://dekleinekasteeltjes.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brecht); FOI **gap_kleine_kasteeltjes_brecht_vaph_matrix_9900_4_37m_9901_loss_178k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2793/; rq_2793=done; spawn **rq_2794**; ticks=2793.
+- Next: **rq_2794 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
