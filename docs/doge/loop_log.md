@@ -33409,3 +33409,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@eurohealthnet.eu — general mailbox verified on official page https://eurohealthnet.eu/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_eurohealthnet_brussel_vaph_matrix_9900_1_66m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3057/; rq_3057=done; spawn **rq_3058**; ticks=3057.
 - Next: **rq_3058 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3058 — 2026-10-12T20:31:23Z — rq_3058 leftover dual Horeca Vlaanderen Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (new codes 94.110 business, employers and public-authority associations, 94.120 professional bodies, 94.200 unions, 84.120 public administration of health/education/culture, 91.210; ~59 Flemish city and Brussels postcodes), unprocessed hits ranked by YE2025 NBB primary figure; every candidate passed the name/alias/KBO/website dedup check: **Horeca Vlaanderen** → KBO 0416.456.929 had 0 prior entity rows.
+- KBO: Actief since 28 oktober 1976; VZW; zetel Anspachlaan 111 bus 4 1000 Brussel; 1 VE; 0 prior entity rows for 0416.456.929
+- Found: official NBB VKT-VZW native PDF **2026-00106557** (51904 B / 14p; AV 29-04-2026; neergelegd 08/05/2026; MD5 94735f3888a254f74419f0ba5743f2ba). VKT-VZW 9900 **EUR1579389** (+15.80%); 62 **EUR1548901**; 9901 **EUR-48532** (was -435813); 9904 -45126; equity 2033229; cash 2241118; FTE 14,6 (was 14,8).
+- FOI address: info@horeca.be — general mailbox verified on official page https://horecavlaanderen.be/contact (KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_horeca_vlaanderen_vaph_matrix_9900_1_58m_9901_loss_49k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3058/; rq_3058=done; spawn **rq_3059**; ticks=3058.
+- Next: **rq_3059 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
