@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T14:36:21Z,rq_2795,2795,no,tick2795 leftover dual De Kleine Kasteeltjes Tongeren Tongeren 0546.642.213 Strong PDF 2026-00414597 9900 2.37m / 9901 loss 689k; next rq_2796 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T14:36:30Z,rq_2796,2796,no,tick2796 leftover dual WoonZORG Wuustwezel Wuustwezel (Gooreind) 0696.899.963 Strong PDF 2026-00205623 733 1.65m / 9901 635k; next rq_2797 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

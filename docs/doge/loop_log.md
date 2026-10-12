@@ -30772,3 +30772,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@dekleinekasteeltjes.be — general mailbox verified on official page https://dekleinekasteeltjes.be/contact/ (shared mailbox for the Brecht and Tongeren sites).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_tongeren_borgloon); FOI **gap_kleine_kasteeltjes_tongeren_vaph_matrix_9900_2_37m_9901_loss_689k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2795/; rq_2795=done; spawn **rq_2796**; ticks=2795.
 - Next: **rq_2796 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2796 — 2026-10-12T14:36:30Z — rq_2796 leftover dual WoonZORG Wuustwezel Wuustwezel (Gooreind) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 87.301 (nursing homes) and 88.101 (home care) activity search, Antwerpen and Vlaams-Brabant postcodes, ranked by primary figure (plus two larger 88.911 childcare VZWs): **WoonZORG Wuustwezel** → KBO 0696.899.963 had 0 prior entity rows.
+- KBO: Actief since 30 mei 2018; VZW; zetel Bredabaan (Gooreind) 737 2990 Wuustwezel; 1 VE; 0 prior entity rows for 0696.899.963
+- Found: official NBB VOL-VZW native PDF **2026-00205623** (2379461 B / 55p; AV 23-06-2026; neergelegd 25/06/2026; MD5 e42457fb9e5a18268fa75df805a59d68). VOL-VZW 733 **EUR1647036** (+0.89%); 62 **EUR6967602**; 9901 **EUR634816** (was 889165); 9904 620836; equity 6662102; cash 3356669; FTE 105,9 (was 103,4).
+- FOI address: amandina@demedemens.be — general mailbox verified on official page https://www.demedemens.be/locaties/ouderenzorg/amandina (campus mailbox; Amandina belongs to the separate vzw WoonZORG Wuustwezel within De Medemens).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_wuustwezel); FOI **gap_woonzorg_wuustwezel_vaph_matrix_733_1_65m_9901_635k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2796/; rq_2796=done; spawn **rq_2797**; ticks=2796.
+- Next: **rq_2797 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
