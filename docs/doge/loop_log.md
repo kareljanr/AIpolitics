@@ -28713,3 +28713,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VOL-VZW native PDF **2026-00208990** (504108 B / 46p; AV 11-06-2026; neergelegd 24/06/2026; MD5 cb0b723d0aa39e282c47fddd494fd0fe). VOL 70/76A **EUR23385736** (+6.36%); 733 **EUR20938299** (+3.17%); 62 **EUR16939739** (+2.46%); 9901 **EUR1211866** JUMP +107.40%; 9904 **EUR1171454**; equity 30242088 (kapitaalsubsidies **EUR14816530**); debt 8506777; geldbeleggingen 2800000 (was 1000000); FTE 241,8 (was 246,5).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.80; entities +1 (parent city_antwerpen); FOI **gap_koca_antwerpen_vaph_matrix_733_20_94m_9901_jump_1_21m_kapsub_14_82m_l5** prio7 ready (NOT sent) + draft; raw docs/doge/raw/tick2583/; rq_2583=done; spawn **rq_2584**; ticks=2583.
 - Next: **rq_2584 leftover dual** — continue VAPH list scan.
+
+
+## Tick 2584 — 2026-10-12T07:34:00Z — rq_2584 leftover dual Mariënstede Moorslede (Dadizele) YE2025 (local fallback runner)
+
+- Hunt: VAPH adreslijst pages 34-39 scanned (background); Madee Beerse / MFC Zonnebos Schilde = GO! onderwijs (public, no VZW) skip; MFC Odisam Deinze 0267.384.062 0 NBB deposits skip; Monnikenheide = Emmaüs VE skip; Muylenberg/Mok/Nektari already handled; **Mariënstede Dadizele** → KBO 0431.110.857 had 0 prior repo rows.
+- KBO: Actief since 02.05.1985; VZW; zetel Remi-Dewittestraat 6 8890 Moorslede (Dadizele); 2 VE; 0 prior repo rows for 0431.110.857
+- Found: official NBB VOL-VZW native PDF **2026-00152415** (415899 B / 45p; AV 04-06-2026; neergelegd 10/06/2026; MD5 b08e1429b447dd1767cab74a94091e20). VOL 70/76A **EUR6950494** (+8.71%); 733 **EUR5430330** (+8.15%); 62 **EUR4800745** (+6.73%); 9901 **EUR610818** (+12.38%); 9904 **EUR648459** → bestemde fondsen **EUR5802151**; equity 7946023; debt 4624252 (>1j 3241667); geldbeleggingen 4200000 + cash 1511916; FTE 63.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 5.00; entities +1 (parent city_moorslede); FOI **gap_marienstede_moorslede_vaph_matrix_733_5_43m_bestemde_fondsen_5_80m_beleggingen_4_2m_l5** prio6 ready (NOT sent) + draft; raw docs/doge/raw/tick2584/; rq_2584=done; spawn **rq_2585**; ticks=2584.
+- Next: **rq_2585 leftover dual** — continue VAPH list scan.
