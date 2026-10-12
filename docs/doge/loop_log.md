@@ -32163,3 +32163,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@goed-wonen.be — general mailbox verified on official page https://www.familiehulp.be/aanbod/kwaliteitsvol-wonen/goed-wonen (head office; address matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent vgc); FOI **gap_familiehulp_goed_wonen_sint_joost_vaph_matrix_9900_5_07m_9901_391k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2933/; rq_2933=done; spawn **rq_2934**; ticks=2933.
 - Next: **rq_2934 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2934 — 2026-10-12T17:36:27Z — rq_2934 leftover dual Mission Locale pour l'Emploi de Saint-Josse-ten-Noode Bruxelles (Saint-Josse-ten-Noode) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE earlier KBO NACE-BEL activity scans 2026-10-12 (Brussels 88.991-88.999 and 87.x/88.10x in 22 postcodes; Flemish 87.x/88.10x), unprocessed hits ranked by YE2025 NBB primary figure: **Mission Locale pour l'Emploi de Saint-Josse-ten-Noode** → KBO 0444.984.728 had 0 prior entity rows.
+- KBO: Actief since 30 juli 1990; VZW; zetel Uniestraat 31 1210 Sint-Joost-ten-Node; 2 VE; 0 prior entity rows for 0444.984.728
+- Found: official NBB VKT-VZW native PDF **2026-00246202** (364753 B / 24p; AV 08-06-2026; neergelegd 03/07/2026; MD5 f57a489fcdb2665facb0739e4955b851). VKT-VZW 9900 **EUR4843719** (-4.03%); 62 **EUR4514443**; 9901 **EUR92190** (was 23481); 9904 81083; equity -238255; cash 310211; FTE 95 (was 94,8).
+- FOI address: info@mlstj.brussels — general mailbox verified on official page https://mlstj.brussels/contact/ (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_mission_locale_saint_josse_vaph_matrix_9900_4_84m_9901_92k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2934/; rq_2934=done; spawn **rq_2935**; ticks=2934.
+- Next: **rq_2935 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
