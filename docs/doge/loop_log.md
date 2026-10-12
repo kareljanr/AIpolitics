@@ -30194,3 +30194,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mariahof.be — general mailbox verified on official page https://www.mariahof.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_mariahof_leuven_vaph_matrix_9900_1_08m_9901_274k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2738/; rq_2738=done; spawn **rq_2739**; ticks=2738.
 - Next: **rq_2739 leftover dual** — Home-care / gezinszorg (NACE 88.101) and related units in progress; next: remaining units of this batch.
+
+
+## Tick 2739 — 2026-10-12T13:22:02Z — rq_2739 leftover dual Salvator Gezinszorg Hasselt YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.101/88.991/87.302 activity search (home care for the elderly / ambulant addiction care / assistance flats) plus Wit-Gele Kruis provincial associations listed on witgelekruis.be: **Salvator Gezinszorg** → KBO 0789.940.977 had 0 prior entity rows.
+- KBO: Actief since 24 augustus 2022; VZW; zetel Ekkelgaarden 17 3500 Hasselt; 1 VE; 0 prior entity rows for 0789.940.977
+- Found: official NBB VKT-VZW native PDF **2026-00258691** (44888 B / 12p; AV 18-06-2026; neergelegd 03/07/2026; MD5 b06066874b47eccd7cc2f5a101bc3eee). VKT-VZW 9900 **EUR823489** (+37.61%); 62 **EUR702370**; 9901 **EUR112511** (was -22375); 9904 99237; equity -107978; cash 193839; FTE 10,9 (was 10,7).
+- FOI address: info@salvatorgezinszorg.be — general mailbox verified on official homepage https://www.salvatorgezinszorg.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_hasselt); FOI **gap_salvator_gezinszorg_hasselt_vaph_matrix_9900_0_82m_9901_113k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2739/; rq_2739=done; spawn **rq_2740**; ticks=2739.
+- Next: **rq_2740 leftover dual** — Home-care batch done; next: Wit-Gele Kruis Oost-Vlaanderen 0410.442.335 (filing is a scanned -p model, needs manual read) and the WGK federation 0465.698.582, Dagcentrum Kasteel Turnhout, Perspectief Oostende; skipped: Participo CM, Thuiszorg Arbeid en Gezondheid, Thuiszorg H.Hart (no verified mailbox), Zusterkens der Armen (official mailbox page not openable), Sociaal Centrum Lier (733 empty), Huis Vandecruys (BV).
