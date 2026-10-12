@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-12T13:47:35Z,rq_2760,2761,no,tick2761 leftover dual André Dumont Genk 0408.673.866 Strong PDF 2026-00127410 9900 2.51m / 9901 17k; next rq_2762 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-12T13:47:43Z,rq_2762,2762,no,tick2762 leftover dual Kinderdagverblijf Karbonkeltje Pelt (Overpelt) 0411.972.658 Strong PDF 2026-00151717 9900 1.89m / 9901 121k; next rq_2763 Home-care / childcare batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

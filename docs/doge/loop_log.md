@@ -30427,3 +30427,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kdvwombat.be — general mailbox verified on official page https://www.kdvwombat.be/vzw-andr%C3%A9-dumont.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_genk); FOI **gap_andre_dumont_genk_vaph_matrix_9900_2_51m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2761/; rq_2760=done; spawn **rq_2762**; ticks=2761.
 - Next: **rq_2762 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
+
+
+## Tick 2762 — 2026-10-12T13:47:43Z — rq_2762 leftover dual Kinderdagverblijf Karbonkeltje Pelt (Overpelt) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.911 (childcare) activity search, Limburg / West- and Oost-Vlaanderen postcodes: **Kinderdagverblijf Karbonkeltje** → KBO 0411.972.658 had 0 prior entity rows.
+- KBO: Actief since 31 december 1971; VZW; zetel Maesensveld 3 3900 Pelt; 1 VE; 0 prior entity rows for 0411.972.658
+- Found: official NBB VKT-VZW native PDF **2026-00151717** (56437 B / 17p; AV 09-06-2026; neergelegd 11/06/2026; MD5 adb91a92f5cb27bb1fde11c71a935f88). VKT-VZW 9900 **EUR1890783** (+0.84%); 62 **EUR1656558**; 9901 **EUR121175** (was 120533); 9904 127437; equity 2672031; cash 14857; FTE 30 (was 30,4).
+- FOI address: karbonkeltje@noorderhart.be — general mailbox verified on official page https://kdvkarbonkeltje.be/docs/huishoudelijk%20reglement%20-%20januari%202026.pdf (house rules on the official site).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_pelt); FOI **gap_karbonkeltje_pelt_vaph_matrix_9900_1_89m_9901_121k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2762/; rq_2762=done; spawn **rq_2763**; ticks=2762.
+- Next: **rq_2763 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
