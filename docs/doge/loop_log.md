@@ -32903,3 +32903,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@autismevlaanderen.be — general mailbox verified on official page https://autismevlaanderen.be/ (address Groot Begijnhof 73 matches KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_autisme_vlaanderen_vaph_matrix_9900_2_00m_9901_363k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3007/; rq_3007=done; spawn **rq_3008**; ticks=3007.
 - Next: **rq_3008 leftover dual** — Extended Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3008 — 2026-10-12T19:02:32Z — rq_3008 leftover dual Saamo Oost-Vlaanderen Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL activity scan 2026-10-12 (Flemish 85.592/87.101/87.301/87.302/88.101/88.109/88.911/88.999, extended to 22 more Flemish city postcodes, plus 88.99x leftovers), unprocessed hits ranked by YE2025 NBB primary figure: **Saamo Oost-Vlaanderen** → KBO 0431.411.656 had 0 prior entity rows.
+- KBO: Actief since 17 januari 1985; VZW; zetel Nieuwebosstraat 3 9000 Gent; 3 VE; 0 prior entity rows for 0431.411.656
+- Found: official NBB VKT-VZW native PDF **2026-00086650** (205986 B / 20p; AV 22-04-2026; neergelegd 24/04/2026; MD5 e7ac94f37620127bf77357382e522575). VKT-VZW 9900 **EUR1994694** (-2.84%); 62 **EUR2044805**; 9901 **EUR-55835** (was -84729); 9904 -52720; equity 576246; cash 1473805; FTE 28,1 (was 29,7).
+- FOI address: info.oost-vlaanderen@saamo.be — general mailbox verified on official page https://www.saamo.be/oost-vlaanderen/contact/ (KBO number shown there).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_saamo_oost_vlaanderen_vaph_matrix_9900_1_99m_9901_loss_56k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3008/; rq_3008=done; spawn **rq_3009**; ticks=3008.
+- Next: **rq_3009 leftover dual** — Extended Flemish multi-code batch in progress; next: remaining units of this batch.
