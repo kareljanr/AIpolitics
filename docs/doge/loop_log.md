@@ -28996,3 +28996,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00104801** (2651439 B / 31p; AV 31-03-2026; neergelegd 05/05/2026; MD5 293785855d810dd00e3442ba17bb8e25). VKT-VZW 9900 **EUR1129903** (-36.68%); 62 **EUR132572**; 9901 **EUR72706** (was 581793); 9904 28089; equity 5459396; cash 265958; FTE 4,3 (was 4,3).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.45; entities +1 (parent city_hasselt); FOI **gap_vrij_clb_limburg_hasselt_vaph_matrix_9900_1_13m_9901_73k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2614/; rq_2614=done; spawn **rq_2615**; ticks=2614.
 - Next: **rq_2615 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2615 — 2026-10-12T08:11:20Z — rq_2615 leftover dual Vrij CLB Regio Gent Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Vrij CLB-netwerk / VAPH MDT list (tid:1393): **Vrij CLB Regio Gent** → KBO 0410.059.679 had 0 prior entity rows.
+- KBO: Actief since 3 september 1959; VZW; zetel Halvemaanstraat 96, 9040 Gent; 1 VE; 0 prior entity rows for 0410.059.679
+- Found: official NBB VKT-VZW native PDF **2026-00210310** (1216954 B / 26p; AV 16-06-2026; neergelegd 25/06/2026; MD5 e69aa22c71419fe4cca916baaad2fb35). VKT-VZW 9900 **EUR589423** (+3.13%); 62 **EUR104577**; 9901 **EUR164515** (was 135819); 9904 151184; equity 2365997; cash 925937; FTE 2,5 (was 2,8).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.45; entities +1 (parent city_gent); FOI **gap_vrij_clb_regio_gent_vaph_matrix_9900_589k_9901_165k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2615/; rq_2615=done; spawn **rq_2616**; ticks=2615.
+- Next: **rq_2616 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
