@@ -33329,3 +33329,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vklimburg.be — general mailbox verified on official page https://www.vertrouwenscentrum-kindermishandeling.be/limburg/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_genk); FOI **gap_vk_limburg_vaph_matrix_9900_1_49m_9901_91k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3049/; rq_3049=done; spawn **rq_3050**; ticks=3049.
 - Next: **rq_3050 leftover dual** — Batch done; next: remaining hits below EUR1.49m (e.g. CRISP EUR1.49m) or a new code/public-body extension, largest first, after the dedup check; skipped this batch: Fédération francophone de Gymnastique (no mailbox on its official contact page), Bejaardenzorg KEI (contact page shows another KBO number and no mailbox).
+
+
+## Tick 3050 — 2026-10-12T20:24:04Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2684** of 2738 rows; inventory budgets 60034 · commitments 6738 · leaderboard 8856 · entities 2755 · sources 9145.
+- Top10: **stable** (3041-3049 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3041-3049: Basketbal Vlaanderen (Gent) · Citoyenneté et Participation (Brussel) · G-sport Vlaanderen (Gent) · Vlaamse Zwemfederatie (Antwerpen) · FROS Multisport Vlaanderen (Antwerpen) · Economisch Huis Oostende (Oostende) · Atletiek Vlaanderen (Brussel) · De Troef (Oud-Turnhout) · VK Limburg (Genk).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3050 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3050 run locally as fallback.
+- Next: **rq_3050** — remaining hits below EUR1.49m (e.g. CRISP EUR1.49m) or a new code/public-body extension with larger recipients, largest first, after the dedup check.

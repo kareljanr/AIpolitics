@@ -6,6 +6,43 @@
 
 ---
 
+## Snapshot at **tick 3050** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3040; 3041-3049 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3041-3049 residual dual L5 (not near-complete of 348bn):** Basketbal Vlaanderen (Gent) · Citoyenneté et Participation (Brussel) · G-sport Vlaanderen (Gent) · Vlaamse Zwemfederatie (Antwerpen) · FROS Multisport Vlaanderen (Antwerpen) · Economisch Huis Oostende (Oostende) · Atletiek Vlaanderen (Brussel) · De Troef (Oud-Turnhout) · VK Limburg (Genk) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2684** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2738** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells incl. **NEW 3041-3049** Basketbal Vlaanderen (Gent) · Citoyenneté et Participation (Brussel) · G-sport Vlaanderen (Gent) · Vlaamse Zwemfederatie (Antwerpen) · FROS Multisport Vlaanderen (Antwerpen) · Economisch Huis Oostende (Oostende) · Atletiek Vlaanderen (Brussel) · De Troef (Oud-Turnhout) · VK Limburg (Genk).
+
+### Inventory (tick 3050)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 60034 |
+| commitments.csv | 6738 |
+| leaderboard.csv | 8856 |
+| entities.csv | 2755 |
+| sources.csv | 9145 |
+| FOI ready | 2684 |
+| FOI total rows | 2738 |
+| research_queue open | rq_3050 (carried; next: another Flemish activity code, largest first) |
+
+### What improved since tick 3040
+
+- **New source (tick3041-3049):** Basketbal Vlaanderen (Gent) · Citoyenneté et Participation (Brussel) · G-sport Vlaanderen (Gent) · Vlaamse Zwemfederatie (Antwerpen) · FROS Multisport Vlaanderen (Antwerpen) · Economisch Huis Oostende (Oostende) · Atletiek Vlaanderen (Brussel) · De Troef (Oud-Turnhout) · VK Limburg (Genk). Source: remaining hits of the new-code KBO NACE-BEL scan (93.191 sport federations, 93.199, 84.130, 94.991; EUR2.60m-1.68m) taken largest first, then rq_3030 leftovers by size (De Troef EUR1.61m, VK Limburg EUR1.49m). Every candidate passed the new name/alias/KBO/website dedup check (dedup.py) against existing entities before it was picked.
+- **Toolkit:** new dedup.py (name/alias/KBO/website check against entities.csv) run before every pick; new funder profiles for a city economic-development agency and an FWB adult-education ASBL; code-73 mode not triggered.
+- **FOI addresses:** all 9 mailboxes verified on opened official pages (no NEEDS VERIFICATION).
+- **Runner note:** 2576-3050 ran on the local fallback runner (Actions last ticked 2575). Do not run both at once.
+- **Rejected 3041-3049 (fast, ~5 min cap):** Fédération francophone de Gymnastique (EUR1.96m; no mailbox on its official contact page), Bejaardenzorg KEI (EUR1.53m; contact page shows another KBO number and no mailbox), Egmont Institute (EUR1.71m; federal foundation, skipped earlier).
+- **Dedup merge (tick 3041):** VISITWallonia (tick3031) and COIB (tick3033) merged into existing entities visitwallonia and boic: 18 budget, 2 commitment and 2 research-queue rows re-pointed (2025 filed figures and NBB sources kept); 2 duplicate entity rows and 2 leaderboard rows removed; the 2 new FOI drafts set to superseded (merged into gap_cgt_ra_staff_l5_2025 and gap_boic_institutional_tco).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3040** (2026-10-12; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
