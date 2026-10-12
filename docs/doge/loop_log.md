@@ -28904,3 +28904,12 @@ Append-only. Each tick adds a short entry.
 - Found: official NBB VKT-VZW native PDF **2026-00536735** (45496 B / 11p; AV 15-06-2026; neergelegd 30/09/2026; MD5 067c625db51375e973f1c11e0ad1088c). VKT-VZW 9900 **EUR1420580** (+12.29%); 62 **EUR1406846**; 9901 **EUR-7411** (was 14877); 9904 -7906; equity 145052; cash 211500; FTE 20,2 (was 17,2).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 3.70; entities +1 (parent city_hasselt); FOI **gap_dop_limburg_hasselt_vaph_matrix_9900_1_42m_9901_loss_7k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2604/; rq_2604=done; spawn **rq_2605**; ticks=2604.
 - Next: **rq_2605 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
+
+
+## Tick 2605 — 2026-10-12T07:58:26Z — rq_2605 leftover dual Dienst Ondersteuningsplan Vlaams-Brabant en Brussel Lubbeek YE2025 (local fallback runner)
+
+- Hunt: NEW CANDIDATE SOURCE VAPH adreslijst Dienst Ondersteuningsplan (f[0]=tid:1397): **Dienst Ondersteuningsplan Vlaams-Brabant en Brussel** → KBO 0844.104.688 had 0 prior entity rows.
+- KBO: Actief since 15 december 2011; VZW; zetel Binkomstraat 2, 3210 Lubbeek (werking Platte Lostraat 541, 3010 Leuven); 3 VE; 0 prior entity rows for 0844.104.688
+- Found: official NBB VKT-VZW native PDF **2026-00124137** (54636 B / 16p; AV 26-05-2026; neergelegd 28/05/2026; MD5 1d15cdc7e816ab5fff6568516ca101cf). VKT-VZW 9900 **EUR2086273** (+13.28%); 62 **EUR1883517**; 9901 **EUR189039** (was 161987); 9904 195887; equity 954223; cash 1151990; FTE 26,5 (was 24,3).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.10; entities +1 (parent city_lubbeek); FOI **gap_dop_vlaams_brabant_brussel_lubbeek_vaph_matrix_9900_2_09m_9901_189k_l5** prio4 ready (NOT sent) + draft; raw docs/doge/raw/tick2605/; rq_2605=done; spawn **rq_2606**; ticks=2605.
+- Next: **rq_2606 leftover dual** — continue VAPH non-VZA type lists (DOP / gebruikersverenigingen), then KBO NACE 87/88 lists.
