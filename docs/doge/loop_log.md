@@ -31157,3 +31157,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@famisol.be — general mailbox verified on official page https://famisol.be/contact (site states COCOF recognition).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent cocof); FOI **gap_famisol_woluwe_vaph_matrix_9900_0_75m_9901_loss_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2833/; rq_2833=done; spawn **rq_2834**; ticks=2833.
 - Next: **rq_2834 leftover dual** — Batch done; next: remaining larger Brussels childcare/day-centre ASBLs from the 88.911/88.99x scan (Elmer, Olina, Rire et Grandir, Espaces Enfance) and Flemish 88.10x VZWs; skipped: Thuiszorg Arbeid en Gezondheid Mechelen (no own mailbox found), OTV Vaartland (otv.be unreachable).
+
+
+## Tick 2834 — 2026-10-12T16:13:51Z — rq_2834 leftover dual Elmer Schaarbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO NACE-BEL 88.102/88.103/88.911 activity searches (Flemish and Brussels-Capital postcodes), ranked by primary figure: **Elmer** → KBO 0474.896.558 had 0 prior entity rows.
+- KBO: Actief since 10 april 2001; VZW; zetel Vooruitgangstraat 317 1030 Schaarbeek; 5 VE; 0 prior entity rows for 0474.896.558
+- Found: official NBB VKT-VZW native PDF **2026-00086445** (473805 B / 27p; AV 26-03-2026; neergelegd 24/04/2026; MD5 aa4c6c4b479e003a84dd92c88136fc52). VKT-VZW 9900 **EUR5368436** (+8.86%); 62 **EUR5117690**; 9901 **EUR3711** (was 17334); 9904 422; equity 2953393; cash 507850; FTE 104,3 (was 95,4).
+- FOI address: info@elmer.be — general mailbox verified on official page https://www.elmer.be/contact (address matches KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_elmer_schaarbeek_vaph_matrix_9900_5_37m_9901_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick2834/; rq_2834=done; spawn **rq_2835**; ticks=2834.
+- Next: **rq_2835 leftover dual** — Home-care / childcare batch in progress; next: remaining units of this batch.
