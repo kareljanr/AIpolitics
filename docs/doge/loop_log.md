@@ -34834,3 +34834,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: direction@scj-secondaire.be — general/role mailbox of the school of the same name run by this organising body, listed on the SeGEC school directory page https://enseignement.catholique.be/etablissements/centre-scolaire-du-sacre-coeur/ which names this ASBL as pouvoir organisateur (opened 13 Oct 2026).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_sacre_coeur_jette_vaph_matrix_733_10_50m_9901_112k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3199/; rq_3199=done; spawn **rq_3200**; ticks=3199.
 - Next: **rq_3200 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3200 — 2026-10-13T01:34:10Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2818** of 2873 rows; inventory budgets 61220 · commitments 6873 · leaderboard 8991 · entities 2891 · sources 9552.
+- Top10: **stable** (3191-3199 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3191-3199: Institut Saint-Jean-Baptiste Wavre · Notre-Dame de Jupille · HE ICHEC-ECAM-ISFSC · ESD Chênée · ESD Saint-Roch Theux · Collège Saint-Louis Liège · Collège de la Lys Comines · Reumonjoie/Clair-Val Namur · CS Sacré-Coeur Jette.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3200 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3200 run locally as fallback.
+- Next: **rq_3200** — Collège Saint-Hubert Boitsfort (code 733 EUR9.35m), Lire et Ecrire Bruxelles (EUR7.74m), Collège Saint-Michel Gosselies (EUR6.20m), Saint-Berthuin Malonne (EUR5.32m), Institut Saint-Michel Verviers (EUR3.54m), mailboxes verified on SeGEC/official pages, after the dedup check.

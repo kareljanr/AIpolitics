@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 3200** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3190; 3191-3199 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3191-3199 residual dual L5 (not near-complete of 348bn):** Institut Saint-Jean-Baptiste Wavre · Notre-Dame de Jupille · HE ICHEC-ECAM-ISFSC · ESD Chênée · ESD Saint-Roch Theux · Collège Saint-Louis Liège · Collège de la Lys Comines · Reumonjoie/Clair-Val Namur · CS Sacré-Coeur Jette (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2818** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2873** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3191-3199** Institut Saint-Jean-Baptiste Wavre · Notre-Dame de Jupille · HE ICHEC-ECAM-ISFSC · ESD Chênée · ESD Saint-Roch Theux · Collège Saint-Louis Liège · Collège de la Lys Comines · Reumonjoie/Clair-Val Namur · CS Sacré-Coeur Jette.
+
+### Inventory (tick 3200)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 61220 |
+| commitments.csv | 6873 |
+| leaderboard.csv | 8991 |
+| entities.csv | 2891 |
+| sources.csv | 9552 |
+| FOI ready | 2818 |
+| FOI total rows | 2873 |
+| research_queue open | rq_3200 (carried; next: Collège Saint-Hubert Boitsfort, Lire et Ecrire Bruxelles, Collège Saint-Michel Gosselies, Saint-Berthuin Malonne, Institut Saint-Michel Verviers; largest code 733 first) |
+
+### What improved since tick 3190
+
+- **New source (tick3191-3199):** Institut Saint-Jean-Baptiste Wavre · Notre-Dame de Jupille · HE ICHEC-ECAM-ISFSC · ESD Chênée · ESD Saint-Roch Theux · Collège Saint-Louis Liège · Collège de la Lys Comines · Reumonjoie/Clair-Val Namur · CS Sacré-Coeur Jette. FWB free-school organising bodies, largest first; from 3197 strictly code 733 rows first (9900/73 rows after). Mailboxes: @sec.cfwb.be from the SeGEC directory (3191-3192), a general/role mailbox of the school of the same name on its official site or SeGEC page (3194-3199).
+- **Correction (tick 3196):** tick 3193 HE ICHEC-ECAM-ISFSC keeps its figure rows; its FOI row/draft recipient is now NEEDS VERIFICATION (status partial) because info@ichec.be belongs to member school ICHEC, not the organising body. FOI ready therefore +8 not +9.
+- **Runner note:** 2576-3200 ran on the local fallback runner; GitHub Actions DOGE loop status not re-checked this batch (GitHub CLI on the box not signed in); last known run failed at its Tick step (Grok CLI not signed in). Do not run both at once.
+- **Rejected 3191-3199 (fast, ~5 min cap):** Cardinal Mercier, KO Groot-Beveren, Saint-Guibert, KO Hamme, Saint-Hadelin Visé, Sainte-Claire Verviers, IES Borinage (only @adm.cfwb.be or no qualifying mailbox); Ecole professionnelle / Asty-Moulin and Collège Saint-Servais (personal address only / script-rendered); De Speelboom (site-level mailboxes only); Vives Zuid, Sint-Jan Berchmans (script-rendered); Saint-François Tubize (personal address only).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3190** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
