@@ -40270,3 +40270,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@arbeidskansen.be — general mailbox verified on the official site https://www.arbeidskansen.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_arbeidskansen_as_vaph_matrix_9900_1_87m_9901_1066k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3743/; rq_3743=done; spawn **rq_3744**; ticks=3743.
 - Next: **rq_3744 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3744 — 2026-10-13T19:17:50Z — rq_3744 leftover dual Foyer Molenbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Foyer** → KBO 0430.640.012 had 0 prior entity rows.
+- KBO: Actief since 27 maart 1986; VZW; zetel Werkhuizenstraat 25 1080 Sint-Jans-Molenbeek; 1 VE; 0 prior entity rows for 0430.640.012
+- Found: official NBB VKT-VZW native PDF **2026-00105517** (1248542 B / 21p; AV 30-04-2026; neergelegd 07/05/2026; MD5 5fa95366b7f85c2378858ea9203a4f2d). VKT-VZW 9900 **EUR1588151** (-6.42%); 62 **EUR1532693**; 9901 **EUR5588** (was 10063); 9904 5474; equity 98877; cash 390920; FTE 28,7 (was 31,8).
+- FOI address: secretariaat@foyer.be — role mailbox verified on the official site https://www.foyer.be/contact-3/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_foyer_molenbeek_vaph_matrix_9900_1_59m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3744/; rq_3744=done; spawn **rq_3745**; ticks=3744.
+- Next: **rq_3745 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

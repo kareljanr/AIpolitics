@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T19:17:41Z,rq_3743,3743,no,tick3743 leftover dual Arbeidskansen As 0880.249.957 Strong PDF 2026-00235727 9900 1.87m / 9901 1066k; next rq_3744 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T19:17:50Z,rq_3744,3744,no,tick3744 leftover dual Foyer Molenbeek 0430.640.012 Strong PDF 2026-00105517 9900 1.59m / 9901 6k; next rq_3745 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
