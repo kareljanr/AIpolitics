@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3530** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3520; 3521-3529 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3521-3529 residual dual L5 (not near-complete of 348bn):** Adoptiehuis · Mosaïque - Service d’Intervention Jeunes-Familles · De RuimteVaart · Centre de Santé du Miroir · Aide Enfants-Familles Brabant wallon (SOS Enfants BW) · Solidarités Plurielles de l’Entre-Sambre-et-Meuse · AMO Color’Ados · Relais Enfants-Parents · Schaerbeek Action Emploi (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3114** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3169** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3521-3529** Adoptiehuis · Mosaïque - Service d’Intervention Jeunes-Familles · De RuimteVaart · Centre de Santé du Miroir · Aide Enfants-Familles Brabant wallon (SOS Enfants BW) · Solidarités Plurielles de l’Entre-Sambre-et-Meuse · AMO Color’Ados · Relais Enfants-Parents · Schaerbeek Action Emploi.
+
+### Inventory (tick 3530)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 63633 |
+| commitments.csv | 7169 |
+| leaderboard.csv | 9287 |
+| entities.csv | 3187 |
+| sources.csv | 10440 |
+| FOI ready | 3114 |
+| FOI total rows | 3169 |
+| research_queue open | rq_3530 (carried; next: CFIP, Service d’Interprétation des Sourds de Wallonie, Mediaraven, Association pour le Droit des Etrangers, Tumult (code 9900 leftovers from the rebuilt NBB pool; old-code scan complete; NACE-BEL 2025 scan 110 of 400 pages finished; triage of all 3493 earlier keys complete + all 313 new keys from the 2025 scan, no code 733 rows); largest first) |
+
+### What improved since tick 3520
+
+- **New source (tick3521-3529):** Adoptiehuis · Mosaïque - Service d’Intervention Jeunes-Familles · De RuimteVaart · Centre de Santé du Miroir · Aide Enfants-Familles Brabant wallon (SOS Enfants BW) · Solidarités Plurielles de l’Entre-Sambre-et-Meuse · AMO Color’Ados · Relais Enfants-Parents · Schaerbeek Action Emploi. All nine are code 9900 leftovers (NOT subsidy amounts), largest first; the code 733 pool from all earlier scans is used up (Médiathèque Nouvelle retried, site still unreachable). Scan status at tick 3530: the old-code scan is complete (85 runnable pages; 77 with results, 8 confirmed empty). The NACE-BEL 2025 replacement scan (covering the 355 pages whose 17 old NACE codes return HTTP 404 on KBO) has 110 of 400 pages finished, 12 jobs in parallel. Triage is complete for all 3493 earlier scan keys (1278 with a 2025 filing) and for all 313 new non-profit keys from the 2025-code pages; no code 733 rows found. The code 9900 candidate list was used up at tick 3529, so the NBB pool was rebuilt from the local cache (2115 rows, no new code 733 filers). EU-level and international bodies, umbrella bodies and federations, bodies without an own-domain general mailbox, address mismatches and duplicates excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3530 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3520** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

@@ -38130,3 +38130,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sae1030.be — general mailbox verified on the official site https://www.sae1030.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_schaerbeek_action_emploi_vaph_matrix_9900_0_73m_9901_9k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3529/; rq_3529=done; spawn **rq_3530**; ticks=3529.
 - Next: **rq_3530 leftover dual** — Batch done (3526-3535); code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (remaining 82.300 / 93.29x pages and the 20 NACE-BEL 2025 replacement codes still scanning), then further code 9900 leftovers from the cached NBB pool, largest first..
+
+
+## Tick 3530 — 2026-10-13T12:22:55Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3114** of 3169 rows; inventory budgets 63633 · commitments 7169 · leaderboard 9287 · entities 3187 · sources 10440.
+- Top10: **stable** (3521-3529 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3521-3529: Adoptiehuis · Mosaïque - Service d’Intervention Jeunes-Familles · De RuimteVaart · Centre de Santé du Miroir · Aide Enfants-Familles Brabant wallon (SOS Enfants BW) · Solidarités Plurielles de l’Entre-Sambre-et-Meuse · AMO Color’Ados · Relais Enfants-Parents · Schaerbeek Action Emploi.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3530 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3530 run locally as fallback.
+- Next: **rq_3530** — code 9900 (NOT subsidy amounts): CFIP (EUR0.723m), Service d’Interprétation des Sourds de Wallonie (EUR0.707m), Mediaraven (EUR0.696m), Association pour le Droit des Etrangers (EUR0.684m), Tumult (EUR0.682m); mailboxes verified on official sites, after the dedup check. Scans: old codes complete; NACE-BEL 2025 codes 110/400 pages; triage of all scan keys complete so far.
