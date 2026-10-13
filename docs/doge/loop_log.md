@@ -38340,3 +38340,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3550 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3550 run locally as fallback.
 - Next: **rq_3550** — code 9900 (NOT subsidy amounts): Université des Femmes (EUR0.627m), Infor Famille Liège (EUR0.613m), Ligue Alzheimer (EUR0.612m), De Bonte Beestenboel (EUR0.603m), Hippopassion (EUR0.602m); mailboxes verified on official sites, after the dedup check. Scans: old codes complete; NACE-BEL 2025 codes 191/400 pages; triage of all scan keys complete so far.
+
+
+## Tick 3551 — 2026-10-13T12:51:58Z — rq_3550 leftover dual Université des Femmes Saint-Josse-ten-Noode YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Université des Femmes** → KBO 0423.647.597 had 0 prior entity rows.
+- KBO: Actief since 9 september 1982; VZW; zetel Middaglijnstraat 10 1210 Sint-Joost-ten-Node; 1 VE; 0 prior entity rows for 0423.647.597
+- Found: official NBB VKT-VZW native PDF **2026-00271957** (403305 B / 23p; AV 11-06-2026; neergelegd 09/07/2026; MD5 fc3c955194d3aff13e81be8cb50e9a5c). VKT-VZW 9900 **EUR626796** (-10.39%); 62 **EUR509511**; 9901 **EUR104016** (was 53300); 9904 95863; equity 279831; cash 203389; FTE 8 (was 9,7).
+- FOI address: info@universitedesfemmes.be — general mailbox verified on the official site https://universitedesfemmes.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_universite_des_femmes_bxl_vaph_matrix_9900_0_63m_9901_104k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3551/; rq_3550=done; spawn **rq_3552**; ticks=3551.
+- Next: **rq_3552 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
