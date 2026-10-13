@@ -37690,3 +37690,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: permanence@agricall.be — role mailbox verified on the official site https://www.agricall.be/mention-legale/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_agricall_wallonie_gembloux_vaph_matrix_9900_1_38m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3485/; rq_3485=done; spawn **rq_3486**; ticks=3485.
 - Next: **rq_3486 leftover dual** — Batch done; code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (22 pages of 82.300 / 93.29x restarted; 17 NACE codes need NACE-BEL 2025 equivalents), then further code 9900 leftovers from the cached NBB pool, largest first..
+
+
+## Tick 3486 — 2026-10-13T11:43:57Z — rq_3486 leftover dual La Porte Verte - Snijboontje Molenbeek-Saint-Jean YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **La Porte Verte - Snijboontje** → KBO 0423.573.066 had 0 prior entity rows.
+- KBO: Actief since 17 juni 1982; VZW; zetel Jubelfeestlaan 124 1080 Sint-Jans-Molenbeek; 4 VE; 0 prior entity rows for 0423.573.066
+- Found: official NBB VKT-VZW native PDF **2026-00385887** (50327 B / 12p; AV 16-06-2026; neergelegd 05/08/2026; MD5 e6cd11211edbd458022cfbdeec152f42). VKT-VZW 9900 **EUR1329628** (+2.28%); 62 **EUR1225335**; 9901 **EUR-34367** (was -135669); 9904 -38241; equity -120621; cash 81551; FTE 22,6 (was 24).
+- FOI address: info@porteverte.be — general mailbox verified on the official site https://www.porteverte-snijboontje.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_la_porte_verte_molenbeek_vaph_matrix_9900_1_33m_9901_loss_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3486/; rq_3486=done; spawn **rq_3487**; ticks=3486.
+- Next: **rq_3487 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
