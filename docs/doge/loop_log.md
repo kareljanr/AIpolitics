@@ -40900,3 +40900,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@compaan.be — general mailbox verified on the official site https://www.compaan.be/privacy-en-cookiebeleid/cookiebeleid/, which names Con Brio vzw with this KBO number at the KBO registered seat (Compaan is its trade name).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_con_brio_compaan_gent_vaph_matrix_9900_2_79m_9901_loss_90k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3806/; rq_3806=done; spawn **rq_3807**; ticks=3806.
 - Next: **rq_3807 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3807 — 2026-10-13T22:21:11Z — rq_3807 leftover dual Victor Roeselare YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Victor** → KBO 0894.111.455 had 0 prior entity rows.
+- KBO: Actief since 13 november 2007; VZW; zetel Iepersestraat 110 8800 Roeselare; 1 VE; 0 prior entity rows for 0894.111.455
+- Found: official NBB VKT-VZW native PDF **2026-00175665** (58934 B / 18p; AV 02-06-2026; neergelegd 19/06/2026; MD5 0c18c36cb9707827ae56c51e875b47c5). VKT-VZW 9900 **EUR2684824** (+4.12%); 62 **EUR2460441**; 9901 **EUR91156** (was 93294); 9904 85784; equity 1846231; cash 824532; FTE 32,9 (was 30,7).
+- FOI address: info@vzwvictor.be — general mailbox verified on the official site https://www.vzwvictor.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_victor_roeselare_vaph_matrix_9900_2_68m_9901_91k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3807/; rq_3807=done; spawn **rq_3808**; ticks=3807.
+- Next: **rq_3808 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

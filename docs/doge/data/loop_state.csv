@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T22:21:02Z,rq_3806,3806,no,tick3806 leftover dual Con Brio (Compaan) Gent 0462.277.947 Strong PDF 2026-00461213 9900 2.79m / 9901 loss 90k; next rq_3807 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T22:21:11Z,rq_3807,3807,no,tick3807 leftover dual Victor Roeselare 0894.111.455 Strong PDF 2026-00175665 9900 2.68m / 9901 91k; next rq_3808 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
