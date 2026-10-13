@@ -40800,3 +40800,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@brusselsphilharmonic.be — general mailbox verified on the official site https://www.brusselsphilharmonic.be/nl/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_brussels_philharmonic_vaph_matrix_733_10_94m_9901_295k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3796/; rq_3796=done; spawn **rq_3797**; ticks=3796.
 - Next: **rq_3797 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3797 — 2026-10-13T22:11:20Z — rq_3797 leftover dual Algemene Dienst voor Jeugdtoerisme (De Hoge Rielen) Kasterlee YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Algemene Dienst voor Jeugdtoerisme (De Hoge Rielen)** → KBO 0417.120.289 had 0 prior entity rows.
+- KBO: Actief since 18 februari 1977; VZW; zetel Molenstraat 62 2460 Kasterlee Extra adresinfo: DE HOGE RIELEN; 3 VE; 0 prior entity rows for 0417.120.289
+- Found: official NBB VKT-VZW native PDF **2026-00066931** (46876 B / 11p; AV 20-03-2026; neergelegd 27/03/2026; MD5 9461ff340adfe76224abba02a267d07f). VKT-VZW 9900 **EUR4867626** (-8.40%); 62 **EUR5161990**; 9901 **EUR-830295** (was -467353); 9904 -774711; equity 497824; cash 1025312; FTE 89,9 (was 92,1).
+- FOI address: info@dehogerielen.be — general mailbox verified on the official site https://www.dehogerielen.be/nl/contact (same address as the KBO registered seat); De Hoge Rielen is the domain named in the KBO extra address info.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_adj_de_hoge_rielen_vaph_matrix_9900_4_87m_9901_loss_830k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3797/; rq_3797=done; spawn **rq_3798**; ticks=3797.
+- Next: **rq_3798 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
