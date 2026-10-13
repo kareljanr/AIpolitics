@@ -37640,3 +37640,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3480 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3480 run locally as fallback.
 - Next: **rq_3480** — code 9900 (NOT subsidy amounts): Info-Sourds de Bruxelles (EUR1.44m), HERW!N (EUR1.42m), Mentor-Escale (EUR1.41m), Vlaamse Parkinson Liga (EUR1.40m), Agricall Wallonie (EUR1.38m); mailboxes verified on official sites, after the dedup check. New-family scan: 22 pages restarted; 17 of 22 NACE codes return 404 on KBO and need their NACE-BEL 2025 equivalents.
+
+
+## Tick 3481 — 2026-10-13T11:34:41Z — rq_3480 leftover dual Info-Sourds de Bruxelles Forest YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Info-Sourds de Bruxelles** → KBO 0458.968.168 had 0 prior entity rows.
+- KBO: Actief since 9 juni 1996; VZW; zetel Brugmannlaan 76 1190 Vorst; 1 VE; 0 prior entity rows for 0458.968.168
+- Found: official NBB VKT-VZW native PDF **2026-00270643** (52249 B / 15p; AV 09-06-2026; neergelegd 07/07/2026; MD5 c682d1e169371dca0cd22c68738c1e43). VKT-VZW 9900 **EUR1441719** (+2.20%); 62 **EUR1392733**; 9901 **EUR6968** (was 7623); 9904 8266; equity 68067; cash 151958; FTE 22,9 (was 21,3).
+- FOI address: direction@infosourds.be — general mailbox named in the body's statutes, verified on the official site https://www.infosourds.be/contacts-dinfo-sourds (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_info_sourds_bruxelles_vaph_matrix_9900_1_44m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3481/; rq_3480=done; spawn **rq_3482**; ticks=3481.
+- Next: **rq_3482 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
