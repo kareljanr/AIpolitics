@@ -39180,3 +39180,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@clif.be — general mailbox verified on the official site https://www.clif.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_clif_liege_vaph_matrix_9900_0_65m_9901_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3634/; rq_3634=done; spawn **rq_3635**; ticks=3634.
 - Next: **rq_3635 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3635 — 2026-10-13T15:58:56Z — rq_3635 leftover dual Vogelbescherming Vlaanderen Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Vogelbescherming Vlaanderen** → KBO 0478.895.037 had 0 prior entity rows.
+- KBO: Actief since 28 juni 2002; VZW; zetel Cadixstraat 39 2000 Antwerpen; 1 VE; 0 prior entity rows for 0478.895.037
+- Found: official NBB VKT-VZW native PDF **2026-00120349** (45881 B / 13p; AV 13-04-2026; neergelegd 26/05/2026; MD5 382af95b7b72ebe631e96afa2f0925fc). VKT-VZW 9900 **EUR634530** (+68.30%); 62 **EUR789233**; 9901 **EUR-227890** (was -342921); 9904 -232387; equity 1650887; cash 214548; FTE 0 (was 0).
+- FOI address: info@vogelbescherming.be — general mailbox verified on the official site https://www.vogelbescherming.be/contact (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_vogelbescherming_vlaanderen_antwerpen_vaph_matrix_9900_0_63m_9901_loss_228k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3635/; rq_3635=done; spawn **rq_3636**; ticks=3635.
+- Next: **rq_3636 leftover dual** — Batch done (3626-3635); one code 733 filer (Stichting tegen Kanker) then code 9900 rows from the bounded KBO scan (NACE-BEL 2025 codes 85510, 85520, 88992, 93199, 94920, 94991, 94999) (Médiathèque Nouvelle still unreachable). Next (old-code and NACE-BEL 2025 scans complete, all keys triaged; EPHEC-Galilée not used: no general mailbox on its own site), then further code 9900 leftovers from the rebuilt pool, largest first..
