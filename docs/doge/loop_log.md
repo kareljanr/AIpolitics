@@ -35024,3 +35024,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@v3-manupal.be — general mailbox verified on the official site https://www.v3-manupal.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_v3_manupal_ciney_vaph_matrix_733_3_32m_9901_1641k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3218/; rq_3218=done; spawn **rq_3219**; ticks=3218.
 - Next: **rq_3219 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3219 — 2026-10-13T02:11:21Z — rq_3219 leftover dual Les Services de l'APEM-T21 (Verviers) Verviers YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon sheltered workshops (ETA) and AVIQ disability services from a KBO activity-code scan (NACE 88.993, all Walloon/Brussels postcodes); code 733 rows first, then code 9900, largest first: **Les Services de l'APEM-T21 (Verviers)** → KBO 0431.952.579 had 0 prior entity rows.
+- KBO: Actief since 12 maart 1986; VZW; zetel Rue Victor Close 41 4800 Verviers; 6 VE; 0 prior entity rows for 0431.952.579
+- Found: official NBB MIC-VZW native PDF **2026-00440524** (542396 B / 14p; AV 28-05-2026; neergelegd 28/08/2026; MD5 c3f88eeceab2641c0dbce9d0ade3d1e4). MIC-VZW 9900 **EUR5108730** (+6.91%); 62 **EUR4492761**; 9901 **EUR35446** (was 21961); 9904 134762; equity 567117; cash 360520; FTE n/a.
+- FOI address: services@apemt21.org — general mailbox verified on the official site https://www.apemt21.org/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_verviers); FOI **gap_apem_t21_verviers_vaph_matrix_9900_5_11m_9901_35k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3219/; rq_3219=done; spawn **rq_3220**; ticks=3219.
+- Next: **rq_3220 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
