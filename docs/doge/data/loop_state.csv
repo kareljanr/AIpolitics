@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T11:09:38Z,rq_3460,3461,no,tick3461 leftover dual Article 23 Liège 0479.622.537 Strong PDF 2026-00225470 9900 1.97m / 9901 19k; next rq_3462 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T11:09:51Z,rq_3462,3462,no,tick3462 leftover dual Phénix Namur 0454.810.927 Strong PDF 2026-00227134 9900 1.92m / 9901 89k; next rq_3463 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

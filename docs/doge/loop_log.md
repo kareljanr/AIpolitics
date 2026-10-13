@@ -37450,3 +37450,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@article23.eu — general mailbox verified on the official site https://www.article23.eu/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_article_23_liege_vaph_matrix_9900_1_97m_9901_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3461/; rq_3460=done; spawn **rq_3462**; ticks=3461.
 - Next: **rq_3462 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3462 — 2026-10-13T11:09:51Z — rq_3462 leftover dual Phénix Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Phénix** → KBO 0454.810.927 had 0 prior entity rows.
+- KBO: Actief since 15 december 1994; VZW; zetel Chaussée de Dinant 19-21 5000 Namur; 1 VE; 0 prior entity rows for 0454.810.927
+- Found: official NBB VKT-VZW native PDF **2026-00227134** (1210018 B / 24p; AV 22-06-2026; neergelegd 30/06/2026; MD5 63029e3390e60280d53d40eab6eb8471). VKT-VZW 9900 **EUR1918206** (-1.17%); 62 **EUR1744359**; 9901 **EUR88526** (was 62465); 9904 171163; equity 1870640; cash 359144; FTE 24,1 (was 25,2).
+- FOI address: info@asblphenix.be — general mailbox verified on the official site https://www.asblphenix.be/contact/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_phenix_namur_vaph_matrix_9900_1_92m_9901_89k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3462/; rq_3462=done; spawn **rq_3463**; ticks=3462.
+- Next: **rq_3463 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
