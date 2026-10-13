@@ -37910,3 +37910,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@ergasia.be — general mailbox verified on the official site https://ergasia.be/disclaimer (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_ergasia_stekene_vaph_matrix_9900_0_93m_9901_112k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3507/; rq_3507=done; spawn **rq_3508**; ticks=3507.
 - Next: **rq_3508 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3508 — 2026-10-13T12:02:09Z — rq_3508 leftover dual Lhiving Saint-Josse-ten-Noode YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Lhiving** → KBO 0462.280.719 had 0 prior entity rows.
+- KBO: Actief since 15 december 1997; VZW; zetel Poolstraat 2 1210 Sint-Joost-ten-Node; 1 VE; 0 prior entity rows for 0462.280.719
+- Found: official NBB VKT-VZW native PDF **2026-00207809** (57073 B / 15p; AV 24-06-2026; neergelegd 27/06/2026; MD5 cd31b93c8f734bbf3b653c3d8220a500). VKT-VZW 9900 **EUR928549** (-1.95%); 62 **EUR924730**; 9901 **EUR-42932** (was -4093); 9904 -33650; equity 165417; cash 89530; FTE 11,6 (was 11,7).
+- FOI address: info@lhiving.be — general mailbox verified on the official site https://www.lhiving.be/nl/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_lhiving_sint_joost_vaph_matrix_9900_0_93m_9901_loss_43k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3508/; rq_3508=done; spawn **rq_3509**; ticks=3508.
+- Next: **rq_3509 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
