@@ -40310,3 +40310,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@csp-psc.be — general mailbox verified on the official site https://csp-psc.be/fr/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_centre_social_protestant_ixelles_vaph_matrix_9900_1_25m_9901_loss_92k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3747/; rq_3747=done; spawn **rq_3748**; ticks=3747.
 - Next: **rq_3748 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3748 — 2026-10-13T19:18:27Z — rq_3748 leftover dual De Welvaartkapoen Molenbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **De Welvaartkapoen** → KBO 0469.520.679 had 0 prior entity rows.
+- KBO: Actief since 18 mei 1999; VZW; zetel Begijnenstraat 65 1080 Sint-Jans-Molenbeek; 2 VE; 0 prior entity rows for 0469.520.679
+- Found: official NBB VKT-VZW native PDF **2026-00158004** (48974 B / 13p; AV 26-05-2026; neergelegd 11/06/2026; MD5 03fe03c5ec7e040d22b04634d9968064). VKT-VZW 9900 **EUR1194127** (-1.68%); 62 **EUR1149730**; 9901 **EUR-31798** (was 25290); 9904 7216; equity 280372; cash 11354; FTE 24,9 (was 25,6).
+- FOI address: dienstencentrum@dewelvaartkapoen.be — role mailbox verified on the official site https://dewelvaartkapoen.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_de_welvaartkapoen_molenbeek_vaph_matrix_9900_1_19m_9901_loss_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3748/; rq_3748=done; spawn **rq_3749**; ticks=3748.
+- Next: **rq_3749 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
