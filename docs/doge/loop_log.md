@@ -40730,3 +40730,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: administratie@torekevzw.be — role mailbox (administration) verified on the official site https://torekevzw.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_toreke_gent_vaph_matrix_9900_0_43m_9901_77k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3789/; rq_3789=done; spawn **rq_3790**; ticks=3789.
 - Next: **rq_3790 leftover dual** — Partial batch (3783-3789); recipients found in the Gent and Brugge open-data subsidy lists already in data/raw (gent_subs_full.json, brugge_subs_full.json), amounts from the NBB 2025 filings (code 9900, NOT subsidy amounts); VIERNULVIER and De Korrelatie skipped (no general mailbox on own site), Stadmakers site unreachable, De Overmolen HTTP 500. Next: remaining Gent/Brugge list recipients..
+
+
+## Tick 3790 — 2026-10-13T22:02:17Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3347** of 3403 rows; inventory budgets 65512 · commitments 7403 · leaderboard 9521 · entities 3421 · sources 11142.
+- Top10: **stable** (3781-3789 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3781-3789: das Kunst · Ouderspunt · Cactus Muziekcentrum · Anima Eterna · Democrazy · Victoria Deluxe · Uilenspel · Gents MilieuFront · Toreke.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3790 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3790 run locally as fallback.
+- Next: **rq_3790** — no candidate queued: check the remaining Gent/Brugge subsidy-list recipients, verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.

@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3790** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3780; 3781-3789 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3781-3789 residual dual L5 (not near-complete of 348bn):** das Kunst · Ouderspunt · Cactus Muziekcentrum · Anima Eterna · Democrazy · Victoria Deluxe · Uilenspel · Gents MilieuFront · Toreke (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3347** drafts ready | Human send only; answered **11**; partial **29**; total FOI rows **3403** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3781-3789** das Kunst · Ouderspunt · Cactus Muziekcentrum · Anima Eterna · Democrazy · Victoria Deluxe · Uilenspel · Gents MilieuFront · Toreke.
+
+### Inventory (tick 3790)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 65512 |
+| commitments.csv | 7403 |
+| leaderboard.csv | 9521 |
+| entities.csv | 3421 |
+| sources.csv | 11142 |
+| FOI ready | 3347 |
+| FOI total rows | 3403 |
+| research_queue open | rq_3790 (carried; next: none queued (check remaining Gent/Brugge subsidy-list recipients)) |
+
+### What improved since tick 3780
+
+- **New source (tick3781-3789):** das Kunst · Ouderspunt · Cactus Muziekcentrum · Anima Eterna · Democrazy · Victoria Deluxe · Uilenspel · Gents MilieuFront · Toreke. Code 9900 rows (NOT subsidy amounts) for recipients in the published Gent and Brugge subsidy lists (data/raw/gent_subs_full.json, data/raw/brugge_subs_full.json) not yet in the data, largest first; no usable code 733 figure (VIERNULVIER has code 733 but no general mailbox on its own site). Mailboxes fetched directly from each body’s own site; KBO address checked with kb.py. Rejected: personal mailboxes, sites without a general mailbox (De Korrelatie, Open Plaats, LOD, MOOOV). Stadmakers site unreachable; De Overmolen site HTTP 500.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3790 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked 2026-10-13: no new DOGE tick commits (radar only). Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3780** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
