@@ -35484,3 +35484,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cricharleroi.be — general mailbox verified on the official site https://www.cricharleroi.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_charleroi); FOI **gap_cric_charleroi_vaph_matrix_9900_2_21m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3264/; rq_3264=done; spawn **rq_3265**; ticks=3264.
 - Next: **rq_3265 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3265 — 2026-10-13T03:30:06Z — rq_3265 leftover dual Canopea (ex Inter-Environnement Wallonie) Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used: NACE 88.999 over Walloon and Flemish postcodes (2,181 legal persons not yet in the repo, 773 with a 2025-12 filing), plus NACE 88.101 and 85.599 (partial); code 733 rows first, then code 9900, largest first: **Canopea (ex Inter-Environnement Wallonie)** → KBO 0414.894.140 had 0 prior entity rows.
+- KBO: Actief since 20 december 1974; VZW; zetel Boulevard Ernest Mélot 5 bus 12 5000 Namur; 1 VE; 0 prior entity rows for 0414.894.140
+- Found: official NBB VKT-VZW native PDF **2026-00212900** (264907 B / 20p; AV 11-06-2026; neergelegd 29/06/2026; MD5 9b84285995e48887f590ceae66c88b30). VKT-VZW 9900 **EUR2198203** (-10.62%); 62 **EUR1977349**; 9901 **EUR155975** (was 308547); 9904 154228; equity 782824; cash 859496; FTE 24 (was 28).
+- FOI address: info@canopea.be — general mailbox verified on the official site https://www.canopea.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_canopea_namur_vaph_matrix_9900_2_20m_9901_156k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3265/; rq_3265=done; spawn **rq_3266**; ticks=3265.
+- Next: **rq_3266 leftover dual** — Batch done; skipped (5-min cap / mailbox rule): Service social des Services du Gouvernement wallon (733 EUR11.19m; no mailbox on its own site), Vives Zuid / Vives Noord (733 EUR7.15m / EUR1.82m; only the shared hogeschool mailbox, umbrella stretch), TERRE (733 EUR3.18m; site lists another KBO), Rode Kruis-Vlaanderen (already in repo), ARC Titres-services (group mailbox only), Stichting tegen Kanker (only regional mailboxes), Onafhankelijke Thuiszorg Verenigingen (group brand mailbox), ISOCELE (service mailboxes only), IDEF Sambreville (no site found); NACE 85.599 triage stopped early (mostly small/companies).
