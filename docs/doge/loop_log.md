@@ -38200,3 +38200,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: tolkaanvraag@cabvlaanderen.be — official e-mail address stated in the statutes page https://www.cabvlaanderen.be/statuten/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_cab_doven_destelbergen_vaph_matrix_9900_0_68m_9901_loss_53k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3536/; rq_3536=done; spawn **rq_3537**; ticks=3536.
 - Next: **rq_3537 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3537 — 2026-10-13T12:28:23Z — rq_3537 leftover dual Netwerk Palliatieve Zorg De Mantel Roeselare YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Netwerk Palliatieve Zorg De Mantel** → KBO 0456.523.075 had 0 prior entity rows.
+- KBO: Actief since 7 juni 1995; VZW; zetel Brugsesteenweg 90 8800 Roeselare; 1 VE; 0 prior entity rows for 0456.523.075
+- Found: official NBB VKT-VZW native PDF **2026-00128279** (38728 B / 9p; AV 13-05-2026; neergelegd 27/05/2026; MD5 b1201ad1b9084a1abb6acc2fc65999ae). VKT-VZW 9900 **EUR679131** (+3.06%); 62 **EUR700273**; 9901 **EUR-28453** (was -15052); 9904 -12680; equity 1332759; cash 336076; FTE 7,7 (was 6,3).
+- FOI address: info@demantel.net — general mailbox verified on the official site https://demantel.net/content/netwerk-palliatieve-zorg-de-mantel (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_de_mantel_roeselare_vaph_matrix_9900_0_68m_9901_loss_28k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3537/; rq_3537=done; spawn **rq_3538**; ticks=3537.
+- Next: **rq_3538 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
