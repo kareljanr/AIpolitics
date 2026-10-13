@@ -34512,3 +34512,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@implaprovidence.be — secretariat mailbox verified on official site https://www.implaprovidence.be/index.php (page shows the BCE number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_imp_la_providence_etalle_vaph_matrix_9900_6_21m_9901_1225k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3167/; rq_3167=done; spawn **rq_3168**; ticks=3167.
 - Next: **rq_3168 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3168 — 2026-10-13T00:37:15Z — rq_3168 leftover dual Centre d'Orientation et de Formation (COF, Amay) Amay YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon/Brussels training, literacy and disability-service non-profits plus remaining university colleges (CISP/OISP training centres, Lire et Ecrire network, AVIQ medico-pedagogical institutes, Flemish hogescholen VZW); fresh KBO name searches (legal form ASBL/VZW; words such as Université/Universiteit, Hogeschool, Enseignement spécialisé/Buitengewoon onderwijs, Médico-pédagogique, CISP, Lire et Ecrire, Mission régionale, Centre de formation), filings ranked by NBB code 733 subsidies (full model) or code 9900 gross margin (abbreviated model), largest first; every candidate passed the name/alias/KBO/website dedup check: **Centre d'Orientation et de Formation (COF, Amay)** → KBO 0451.480.758 had 0 prior entity rows.
+- KBO: Actief since 25 oktober 1993; VZW; zetel Rue du Parc Industriel 6 4540 Amay; 1 VE; 0 prior entity rows for 0451.480.758
+- Found: official NBB VKT-VZW native PDF **2026-00204293** (193083 B / 23p; AV 22-06-2026; neergelegd 26/06/2026; MD5 49ade3667ae663ae336f8e6faec82944). VKT-VZW 9900 **EUR4825767** (+0.77%); 62 **EUR4543872**; 9901 **EUR125750** (was 127281); 9904 135679; equity -401241; cash 440864; FTE 71,5 (was 79,5).
+- FOI address: info@cof.be — general mailbox verified on official contact page https://www.cof.be/contact/ (page shows the BCE number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_cof_amay_vaph_matrix_9900_4_83m_9901_126k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3168/; rq_3168=done; spawn **rq_3169**; ticks=3168.
+- Next: **rq_3169 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
