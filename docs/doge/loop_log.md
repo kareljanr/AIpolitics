@@ -39600,3 +39600,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@trixonline.be — general mailbox verified on the official site https://www.trixonline.be/nl/contact (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_trx_trix_borgerhout_vaph_matrix_9900_1_64m_9901_loss_82k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3676/; rq_3676=done; spawn **rq_3677**; ticks=3676.
 - Next: **rq_3677 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3677 — 2026-10-13T16:37:14Z — rq_3677 leftover dual Centre d'Information et d'Aide aux Jeunes (CIAJ AMO) Seraing YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre d'Information et d'Aide aux Jeunes (CIAJ AMO)** → KBO 0419.630.017 had 0 prior entity rows.
+- KBO: Actief since 23 augustus 1979; VZW; zetel Place Communale 1 4100 Seraing; 1 VE; 0 prior entity rows for 0419.630.017
+- Found: official NBB VKT-VZW native PDF **2026-00490923** (45772 B / 12p; AV 20-05-2026; neergelegd 02/09/2026; MD5 53b4da1e50e536bd37084d93f43a55a4). VKT-VZW 9900 **EUR1069369** (+1.61%); 62 **EUR975823**; 9901 **EUR-1966** (was 4113); 9904 105; equity 87027; cash 295199; FTE 15,2 (was 16,4).
+- FOI address: info@ciaj-amo.be — general mailbox verified on the official site https://ciaj-amo.be/mentions-legales/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_ciaj_amo_seraing_vaph_matrix_9900_1_07m_9901_loss_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3677/; rq_3677=done; spawn **rq_3678**; ticks=3677.
+- Next: **rq_3678 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
