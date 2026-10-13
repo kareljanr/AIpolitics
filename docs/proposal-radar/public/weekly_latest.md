@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **29**.
+Scored in the last 21 days: **0**. Still open in the queue: **34**.
 
 ## New ratings
 
@@ -10,6 +10,11 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- 480.000 mensen trokken dinsdag de straat op in Frankrijk tegen besparingen in het onderwijs, aldus de vakbonden (2026-10-13)
+- Staking in gesloten centra gaat verder: “Minister biedt oplossingen, maar niets op korte termijn” (2026-10-13)
+- Gennez schept duidelijkheid over budget voor mensen met een handicap (2026-10-13)
+- “Een noodrem tegen bureaucratie”: De Wever, Meloni en Merz willen investeringen in energie, AI en defensie sneller door Europese regels loodsen (2026-10-13)
+- Vlaamse regering pauzeert investering van 318 miljoen euro in vergroeningsprojecten ArcelorMittal (2026-10-13)
 - N-VA-voorzitter Van Peel: “Wat wij niet zullen aanvaarden, is dat we een begroting maken zoals in Wallonië of Brussel” (2026-10-13)
 - Opnieuw tot 200.000 betogers verwacht in Frankrijk, ook Zweedse activiste Greta Thunberg protesteert mee (2026-10-13)
 - ‘België betaalt een hoge prijs voor begrotingsgetalm regering-De Wever’ (2026-10-13)
@@ -20,11 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - ‘Meer geld, minder resultaat: Kafka in de kinderopvang’ (2026-10-12)
 - Mediaminister Van Achter sluit onderhandelingen over VRT-besparingen uit: "Iedereen zal steentje moeten bijdragen" (2026-10-12)
 - Gent houdt vast aan evenement van 1 miljoen euro in 2029: "Kan belangrijke meerwaarde betekenen" (2026-10-12)
-- Sushizaak in Borgerhout moet maand dicht nadat alle 9 ramen werden ingegooid (2026-10-12)
-- Opnieuw protest aan Brusselse scholen tegen hervormingen in het Franstalig onderwijs (2026-10-12)
-- België telt nu meer mensen met een leefloon dan werklozen (2026-10-12)
-- Stakingsdag bij openbare diensten: hier kan je hinder verwachten (2026-10-12)
-- Drie op de vier 55-plussers weten te weinig over erven: geldexperten geven hun belangrijkste adviezen. “Onwetendheid kan je tienduizenden euro kosten” (2026-10-12)
 
 ## Method
 
