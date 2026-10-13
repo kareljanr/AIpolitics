@@ -39940,3 +39940,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3710 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3710 run locally as fallback.
 - Next: **rq_3710** — code 9900 (NOT subsidy amounts): SOS Burn-out Belgique (EUR0.79m, micro), Le Signe (EUR0.56m, micro), SDJ Province de Luxembourg (EUR0.53m, micro), Options (EUR0.52m, micro), Canal J (EUR0.52m, micro); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scan nscan8.
+
+
+## Tick 3711 — 2026-10-13T17:18:10Z — rq_3710 leftover dual SOS Burn-out Belgique Gembloux YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **SOS Burn-out Belgique** → KBO 0782.499.493 had 0 prior entity rows.
+- KBO: Actief since 22 februari 2022; VZW; zetel Grand'Rue 36 5030 Gembloux; 2 VE; 0 prior entity rows for 0782.499.493
+- Found: official NBB MIC-VZW native PDF **2026-00481429** (33157 B / 8p; AV 13-05-2026; neergelegd 28/08/2026; MD5 9e1cc07dc79b4298fb981a5401af7b40). MIC-VZW 9900 **EUR790894** (n/a); 62 **EUR766519**; 9901 **EUR17087**; 9904 18661; equity 98432; cash 98369; FTE n/a.
+- FOI address: secretariat@sosburnout.be — secretariat mailbox verified on the official site https://sosburnout.be/contact (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_sos_burn_out_belgique_gembloux_vaph_matrix_9900_0_79m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3711/; rq_3710=done; spawn **rq_3712**; ticks=3711.
+- Next: **rq_3712 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
