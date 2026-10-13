@@ -37350,3 +37350,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ccdinant.be — general mailbox verified on the official site https://www.ccdinant.be/contact (same address as the filed seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_centre_culturel_dinant_vaph_matrix_9900_2_16m_9901_125k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3451/; rq_3450=done; spawn **rq_3452**; ticks=3451.
 - Next: **rq_3452 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3452 — 2026-10-13T11:00:25Z — rq_3452 leftover dual Crechendo Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Crechendo** → KBO 0895.074.725 had 0 prior entity rows.
+- KBO: Actief since 16 januari 2008; VZW; zetel Ten Eekhovelei 305/307 2100 Antwerpen; 2 VE; 0 prior entity rows for 0895.074.725
+- Found: official NBB VKT-VZW native PDF **2026-00305927** (45879 B / 12p; AV 29-06-2026; neergelegd 17/07/2026; MD5 4a0db15323a03d660422d466977eed76). VKT-VZW 9900 **EUR1273959** (+2.38%); 62 **EUR1128547**; 9901 **EUR94003** (was 155385); 9904 88344; equity 832698; cash 555889; FTE 18 (was 18,6).
+- FOI address: contact@crechendovzw.be — general mailbox verified on the official site https://crechendovzw.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_crechendo_antwerpen_vaph_matrix_9900_1_27m_9901_94k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3452/; rq_3452=done; spawn **rq_3453**; ticks=3452.
+- Next: **rq_3453 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
