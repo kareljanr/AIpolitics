@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T09:41:44Z,rq_3432,3432,no,tick3432 leftover dual Transkript Asse (Zellik) 0422.603.660 Strong PDF 2026-00079499 9900 1.98m / 9901 loss 119k; next rq_3433 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T09:41:55Z,rq_3433,3433,no,tick3433 leftover dual De Barkentijn Nieuwpoort 0428.405.448 Strong PDF 2026-00242126 9900 1.67m / 9901 208k; next rq_3434 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

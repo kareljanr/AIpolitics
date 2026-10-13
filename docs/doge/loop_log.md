@@ -37160,3 +37160,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@transkript.be — general mailbox verified on the official site https://transkript.be/disclaimer/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_transkript_zellik_vaph_matrix_9900_1_98m_9901_loss_119k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3432/; rq_3432=done; spawn **rq_3433**; ticks=3432.
 - Next: **rq_3433 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3433 — 2026-10-13T09:41:55Z — rq_3433 leftover dual De Barkentijn Nieuwpoort YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **De Barkentijn** → KBO 0428.405.448 had 0 prior entity rows.
+- KBO: Actief since 28 april 1984; VZW; zetel Albert I laan 126 8620 Nieuwpoort; 1 VE; 0 prior entity rows for 0428.405.448
+- Found: official NBB VKT-VZW native PDF **2026-00242126** (199067 B / 26p; AV 17-06-2026; neergelegd 02/07/2026; MD5 f34cb3fb2869b1587cb57544be19ec76). VKT-VZW 9900 **EUR1673557** (+10.31%); 62 **EUR1112288**; 9901 **EUR208388** (was 119226); 9904 226265; equity 6003308; cash 1065944; FTE 24,2 (was 22,7).
+- FOI address: info@debarkentijn.be — general mailbox verified on the official site https://www.debarkentijn.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_de_barkentijn_nieuwpoort_vaph_matrix_9900_1_67m_9901_208k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3433/; rq_3433=done; spawn **rq_3434**; ticks=3433.
+- Next: **rq_3434 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
