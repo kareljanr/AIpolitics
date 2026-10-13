@@ -38770,3 +38770,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@pony-paradise-brussels.be — general mailbox verified on the official site https://pony-paradise-brussels.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_pony_paradise_anderlecht_vaph_matrix_9900_0_32m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3593/; rq_3593=done; spawn **rq_3594**; ticks=3593.
 - Next: **rq_3594 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3594 — 2026-10-13T15:26:28Z — rq_3594 leftover dual Terre de Sens Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Terre de Sens** → KBO 0407.570.838 had 0 prior entity rows.
+- KBO: Actief since 11 december 1940; VZW; zetel Rue du Séminaire 6 5000 Namur; 1 VE; 0 prior entity rows for 0407.570.838
+- Found: official NBB VKT-VZW native PDF **2026-00111719** (31394 B / 9p; AV 18-03-2026; neergelegd 13/05/2026; MD5 900d0ce85d8e3cb4be684667a43d1f46). VKT-VZW 9900 **EUR303242** (+11.50%); 62 **EUR262189**; 9901 **EUR5441** (was -25215); 9904 15196; equity 1453994; cash 234847; FTE 3,9 (was 3,9).
+- FOI address: contact@terredesens.be — general mailbox verified on the official site https://www.terredesens.be/index.php/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_terre_de_sens_namur_vaph_matrix_9900_0_30m_9901_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3594/; rq_3594=done; spawn **rq_3595**; ticks=3594.
+- Next: **rq_3595 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
