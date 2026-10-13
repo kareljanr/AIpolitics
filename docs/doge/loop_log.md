@@ -35114,3 +35114,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@bmeo.be — general mailbox verified on the official site https://www.brusselsmajorevents.be/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_brussels_major_events_vaph_matrix_733_0_06m_9901_loss_162k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3227/; rq_3227=done; spawn **rq_3228**; ticks=3227.
 - Next: **rq_3228 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3228 — 2026-10-13T02:24:52Z — rq_3228 leftover dual Entreprendre.Brucity Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Largest recipients in the official City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025) not yet in the repo, cross-checked with the NBB filing: **Entreprendre.Brucity** → KBO 0543.320.061 had 0 prior entity rows.
+- KBO: Actief since 16 december 2013; VZW; zetel Arenbergstraat 44 1000 Brussel; 1 VE; 0 prior entity rows for 0543.320.061
+- Found: official NBB VKT-VZW native PDF **2026-00283602** (450297 B / 19p; AV 30-06-2026; neergelegd 06/07/2026; MD5 632281ada1b2f3f810eb932acf86114d). VKT-VZW 9900 **EUR624584** (+7.47%); 62 **EUR621451**; 9901 **EUR71** (was 1566); 9904 261; equity 82591; cash 194030; FTE 7,2 (was 6,8).
+- FOI address: info@entreprendrebruxelles.be — general mailbox verified on the official site https://www.entreprendrebruxelles.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_entreprendre_brucity_vaph_matrix_9900_0_62m_9901_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3228/; rq_3228=done; spawn **rq_3229**; ticks=3228.
+- Next: **rq_3229 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

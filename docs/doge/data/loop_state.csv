@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T02:24:40Z,rq_3227,3227,no,tick3227 leftover dual Brussels Major Events (BME) Bruxelles 0843.724.212 Strong PDF 2026-00283488 733 0.06m / 9901 loss 162k; next rq_3228 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T02:24:52Z,rq_3228,3228,no,tick3228 leftover dual Entreprendre.Brucity Bruxelles 0543.320.061 Strong PDF 2026-00283602 9900 0.62m / 9901 0k; next rq_3229 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
