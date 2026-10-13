@@ -37000,3 +37000,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lespetitspasdelabotte.be — general mailbox verified on the official site https://lespetitspasdelabotte.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_petits_pas_de_la_botte_rance_vaph_matrix_9900_1_87m_9901_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3416/; rq_3416=done; spawn **rq_3417**; ticks=3416.
 - Next: **rq_3417 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3417 — 2026-10-13T09:27:35Z — rq_3417 leftover dual Centre Indigo La Louvière YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre Indigo** → KBO 0410.238.734 had 0 prior entity rows.
+- KBO: Actief since 24 oktober 1968; VZW; zetel Rue Sylvain Guyaux(L.L) 62 7100 La Louvière; 2 VE; 0 prior entity rows for 0410.238.734
+- Found: official NBB VKT-VZW native PDF **2026-00521936** (48022 B / 12p; AV 21-05-2026; neergelegd 24/09/2026; MD5 f26383d4c115811075ac5819c61ba405). VKT-VZW 9900 **EUR1739903** (+8.38%); 62 **EUR1560135**; 9901 **EUR149935** (was 15753); 9904 148735; equity 519465; cash 659463; FTE 24,2 (was 22,9).
+- FOI address: info@centreindigo.org — general mailbox verified on the official site https://www.centreindigo.org/portfolio-item/centrededocumentation/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_centre_indigo_la_louviere_vaph_matrix_9900_1_74m_9901_150k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3417/; rq_3417=done; spawn **rq_3418**; ticks=3417.
+- Next: **rq_3418 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
