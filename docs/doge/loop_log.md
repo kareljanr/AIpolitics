@@ -37210,3 +37210,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: gibbis@gibbis.be — general mailbox verified on the official site https://gibbis.be/nl/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_gibbis_bruxelles_vaph_matrix_9900_1_77m_9901_loss_64k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3437/; rq_3437=done; spawn **rq_3438**; ticks=3437.
 - Next: **rq_3438 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3438 — 2026-10-13T10:09:39Z — rq_3438 leftover dual Crèche Royale Le Nid Ixelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Crèche Royale Le Nid** → KBO 0409.307.138 had 0 prior entity rows.
+- KBO: Actief since 26 januari 1922; VZW; zetel Neststraat 11 1050 Elsene; 1 VE; 0 prior entity rows for 0409.307.138
+- Found: official NBB VKT-VZW native PDF **2026-00516253** (36083 B / 9p; AV 15-07-2026; neergelegd 18/09/2026; MD5 3e4756063dd8687ac2c8d50852faea3e). VKT-VZW 9900 **EUR1487719** (+8.41%); 62 **EUR1427877**; 9901 **EUR30975** (was -11098); 9904 43600; equity 667121; cash 172448; FTE 33.
+- FOI address: direction@creche-lenid.be — management role mailbox verified on the official site https://creche-lenid.be/documents/accueil.pdf (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_creche_royale_le_nid_ixelles_vaph_matrix_9900_1_49m_9901_31k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3438/; rq_3438=done; spawn **rq_3439**; ticks=3438.
+- Next: **rq_3439 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
