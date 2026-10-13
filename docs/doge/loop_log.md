@@ -35014,3 +35014,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: direction@mutien.be — general mailbox verified on the official site https://mutien.be/lasbl/coordonnees/ (which lists the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_mutien_marie_florennes_vaph_matrix_733_4_47m_9901_119k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3217/; rq_3217=done; spawn **rq_3218**; ticks=3217.
 - Next: **rq_3218 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3218 — 2026-10-13T02:10:53Z — rq_3218 leftover dual V3-Manupal (ex Village n°3, Ciney) Ciney (Achêne) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon sheltered workshops (ETA) and AVIQ disability services from a KBO activity-code scan (NACE 88.993, all Walloon/Brussels postcodes); code 733 rows first, then code 9900, largest first: **V3-Manupal (ex Village n°3, Ciney)** → KBO 0407.763.749 had 0 prior entity rows.
+- KBO: Actief since 12 oktober 1965; VZW; zetel Rue du Parc Industriel d'Achêne 33 5590 Ciney; 1 VE; 0 prior entity rows for 0407.763.749
+- Found: official NBB VOL-VZW native PDF **2026-00491858** (2373122 B / 43p; AV 27-03-2026; neergelegd 02/09/2026; MD5 7084b20c873dbd9c0e174c4ad4f6a841). VOL-VZW 733 **EUR3318807** (+7.50%); 62 **EUR7013361**; 9901 **EUR1640528** (was 800277); 9904 1684424; equity 18237021; cash 1939199; FTE 153,2 (was 154,8).
+- FOI address: info@v3-manupal.be — general mailbox verified on the official site https://www.v3-manupal.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_v3_manupal_ciney_vaph_matrix_733_3_32m_9901_1641k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3218/; rq_3218=done; spawn **rq_3219**; ticks=3218.
+- Next: **rq_3219 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
