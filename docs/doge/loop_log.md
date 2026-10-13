@@ -38670,3 +38670,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@fermedelahulotte.be — general mailbox verified on the official site https://fermedelahulotte.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_ferme_hulotte_wavre_vaph_matrix_9900_0_42m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3583/; rq_3583=done; spawn **rq_3584**; ticks=3583.
 - Next: **rq_3584 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3584 — 2026-10-13T15:19:19Z — rq_3584 leftover dual De Speelvogels Ranst YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **De Speelvogels** → KBO 0589.953.802 had 0 prior entity rows.
+- KBO: Actief since 30 januari 2015; VZW; zetel Profeetstraat 97 bus B 2520 Ranst; 1 VE; 0 prior entity rows for 0589.953.802
+- Found: official NBB VKT-VZW native PDF **2026-00052847** (46250 B / 12p; AV 31-01-2026; neergelegd 11/03/2026; MD5 229a8469f441ae823499bc9e0ad14356). VKT-VZW 9900 **EUR407412** (+66.69%); 62 **EUR310275**; 9901 **EUR78415** (was 7853); 9904 78408; equity 151093; cash 122884; FTE 6,1.
+- FOI address: vragen@de-speelvogels.be — general questions mailbox verified on the official site https://www.de-speelvogels.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_de_speelvogels_ranst_vaph_matrix_9900_0_41m_9901_78k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3584/; rq_3584=done; spawn **rq_3585**; ticks=3584.
+- Next: **rq_3585 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

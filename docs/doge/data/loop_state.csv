@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T15:19:10Z,rq_3583,3583,no,tick3583 leftover dual La Ferme de la Hulotte Wavre 0474.311.390 Strong PDF 2026-00545307 9900 0.42m / 9901 2k; next rq_3584 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T15:19:19Z,rq_3584,3584,no,tick3584 leftover dual De Speelvogels Ranst 0589.953.802 Strong PDF 2026-00052847 9900 0.41m / 9901 78k; next rq_3585 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
