@@ -38940,3 +38940,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3610 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3610 run locally as fallback.
 - Next: **rq_3610** — code 9900 (NOT subsidy amounts): CBAI (EUR2.37m), Mpact (EUR1.38m), Créahm Région wallonne (EUR1.29m), Solidarcité (EUR0.99m), Brussels Ouderenplatform (EUR0.91m); mailboxes verified on official sites, after the dedup check. Source: new bounded KBO scan of NACE-BEL 2025 codes (7 codes finished); triage continues.
+
+
+## Tick 3611 — 2026-10-13T15:47:12Z — rq_3610 leftover dual Centre Bruxellois d'Action Interculturelle (CBAI) Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre Bruxellois d'Action Interculturelle (CBAI)** → KBO 0421.019.095 had 0 prior entity rows.
+- KBO: Actief since 26 november 1979; VZW; zetel Stalingradlaan 24 1000 Brussel; 1 VE; 0 prior entity rows for 0421.019.095
+- Found: official NBB VKT-VZW native PDF **2026-00227953** (51977 B / 14p; AV 23-06-2026; neergelegd 26/06/2026; MD5 388013cb7e35bc3ebf0cfb59bd63c923). VKT-VZW 9900 **EUR2370671** (+2.22%); 62 **EUR2315439**; 9901 **EUR18165** (was 12449); 9904 17006; equity 384266; cash 208208; FTE 31,6 (was 31,4).
+- FOI address: info@cbai.be — general mailbox verified on the official site https://www.cbai.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cbai_bruxelles_vaph_matrix_9900_2_37m_9901_18k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3611/; rq_3610=done; spawn **rq_3612**; ticks=3611.
+- Next: **rq_3612 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
