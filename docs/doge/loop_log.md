@@ -37680,3 +37680,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@parkinsonliga.be — general mailbox verified on the official site https://www.parkinsonliga.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_vlaamse_parkinson_liga_leuven_vaph_matrix_9900_1_40m_9901_317k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3484/; rq_3484=done; spawn **rq_3485**; ticks=3484.
 - Next: **rq_3485 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3485 — 2026-10-13T11:35:17Z — rq_3485 leftover dual Agricall Wallonie Gembloux YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Agricall Wallonie** → KBO 0873.384.139 had 0 prior entity rows.
+- KBO: Actief since 21 april 2005; VZW; zetel Chaussée de Charleroi 40 bus 1 5030 Gembloux; 1 VE; 0 prior entity rows for 0873.384.139
+- Found: official NBB VKT-VZW native PDF **2026-00196746** (49313 B / 13p; AV 22-06-2026; neergelegd 25/06/2026; MD5 aa1b4670dc19905ab66ea02f34170b7a). VKT-VZW 9900 **EUR1376628** (+12.25%); 62 **EUR1368414**; 9901 **EUR6772** (was 3034); 9904 3; equity 9502; cash 41802; FTE 15,4 (was 15,5).
+- FOI address: permanence@agricall.be — role mailbox verified on the official site https://www.agricall.be/mention-legale/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_agricall_wallonie_gembloux_vaph_matrix_9900_1_38m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3485/; rq_3485=done; spawn **rq_3486**; ticks=3485.
+- Next: **rq_3486 leftover dual** — Batch done; code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (22 pages of 82.300 / 93.29x restarted; 17 NACE codes need NACE-BEL 2025 equivalents), then further code 9900 leftovers from the cached NBB pool, largest first..
