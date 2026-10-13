@@ -36660,3 +36660,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: communication@clustertweed.be — communication mailbox verified on the official site https://www.clustertweed.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_cluster_tweed_liege_vaph_matrix_9900_0_92m_9901_67k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3382/; rq_3382=done; spawn **rq_3383**; ticks=3382.
 - Next: **rq_3383 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3383 — 2026-10-13T08:05:02Z — rq_3383 leftover dual Société scientifique de médecine générale (SSMG) Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Société scientifique de médecine générale (SSMG)** → KBO 0410.639.602 had 0 prior entity rows.
+- KBO: Actief since 31 oktober 1968; VZW; zetel Zwitserlandstraat 8 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0410.639.602
+- Found: official NBB VKT-VZW native PDF **2026-00391020** (68885 B / 18p; AV 28-03-2026; neergelegd 06/08/2026; MD5 87cb6175b393575bd2a29be120bd2505). VKT-VZW 9900 **EUR893465** (+10.53%); 62 **EUR640055**; 9901 **EUR188654** (was 15377); 9904 199185; equity 3111931; cash 875425; FTE 9,7 (was 9,3).
+- FOI address: ssmg@ssmg.be — general mailbox verified on the official site https://www.ssmg.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ssmg_bruxelles_vaph_matrix_9900_0_89m_9901_189k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3383/; rq_3383=done; spawn **rq_3384**; ticks=3383.
+- Next: **rq_3384 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
