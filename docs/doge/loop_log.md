@@ -36650,3 +36650,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@fleurservicesocial.be — general mailbox verified on the official site https://fleurservicesocial.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_fleur_service_social_liege_vaph_matrix_9900_0_96m_9901_23k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3381/; rq_3380=done; spawn **rq_3382**; ticks=3381.
 - Next: **rq_3382 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3382 — 2026-10-13T08:04:52Z — rq_3382 leftover dual Cluster TWEED (Technologie Wallonne Energie - Environnement et Développement durable) Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Cluster TWEED (Technologie Wallonne Energie - Environnement et Développement durable)** → KBO 0896.051.752 had 0 prior entity rows.
+- KBO: Actief since 27 februari 2008; VZW; zetel Clos Chanmurly 13 4000 Liège; 1 VE; 0 prior entity rows for 0896.051.752
+- Found: official NBB VKT-VZW native PDF **2026-00152382** (43095 B / 10p; AV 31-03-2026; neergelegd 11/06/2026; MD5 07c5cd0336c7734c9a8dc53670de77e7). VKT-VZW 9900 **EUR920500** (+2.60%); 62 **EUR842099**; 9901 **EUR66603** (was 79014); 9904 67333; equity 462456; cash 410557; FTE 9 (was 8,8).
+- FOI address: communication@clustertweed.be — communication mailbox verified on the official site https://www.clustertweed.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_cluster_tweed_liege_vaph_matrix_9900_0_92m_9901_67k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3382/; rq_3382=done; spawn **rq_3383**; ticks=3382.
+- Next: **rq_3383 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
