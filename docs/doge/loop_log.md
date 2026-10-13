@@ -35680,3 +35680,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: etc@abbayedestavelot.be — general mailbox verified on the official site https://abbayedestavelot.be/contact/ (mailbox of the operating ASBL named on that page).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_espaces_tourisme_culture_stavelot_vaph_matrix_9900_1_32m_9901_30k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3284/; rq_3284=done; spawn **rq_3285**; ticks=3284.
 - Next: **rq_3285 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3285 — 2026-10-13T04:46:41Z — rq_3285 leftover dual Latitude 50 - Pôle des arts du cirque et de la rue (Marchin) Marchin YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used over Walloon, Brussels and Flemish postcodes: NACE 90.311 (arts venues) and 88.102 (635 legal persons not yet in the repo), NACE 90.111 and 91.210 (2,445), NACE 93.110 and 85.520 (4,272; mostly companies and small clubs, no code 733 row); code 733 rows first, then code 9900, largest first: **Latitude 50 - Pôle des arts du cirque et de la rue (Marchin)** → KBO 0890.885.315 had 0 prior entity rows.
+- KBO: Actief since 17 juli 2007; VZW; zetel Grand-Marchin 3 4570 Marchin; 1 VE; 0 prior entity rows for 0890.885.315
+- Found: official NBB VKT-VZW native PDF **2026-00084534** (51223 B / 16p; AV 28-03-2026; neergelegd 22/04/2026; MD5 05cc3b65dca6c4ddeee3b194fe6b41d2). VKT-VZW 9900 **EUR903415** (+20.98%); 62 **EUR753493**; 9901 **EUR44125** (was 53404); 9904 28818; equity 486661; cash 532096; FTE 10,6 (was 10,2).
+- FOI address: info@latitude50.be — general mailbox verified on the official site https://www.latitude50.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_latitude_50_marchin_vaph_matrix_9900_0_90m_9901_44k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3285/; rq_3285=done; spawn **rq_3286**; ticks=3285.
+- Next: **rq_3286 leftover dual** — Batch done; skipped (5-min cap / mailbox rule): Orchestre Philharmonique Royal de Liège (733 EUR12.74m; contact form only), Fondation Folon (site not readable from the box), Bois du Cazier (only personal / accounting / booking mailboxes), ASCL Ganshoren (only commune mailbox), Créahm (shop mailbox only), Sporta-centrum Tongerlo (only federation mailbox), Le Forum Liège, Chudoscnik Sunergia and Pierre de Lune (no mailbox shown), Bellenblaaz (personal mailboxes only); Roma Foundation and Rinkven golf club (private). Next: remaining 9900 rows of these scans, then other unscanned codes/regions.
