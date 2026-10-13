@@ -40510,3 +40510,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mjeveil.be — general mailbox verified on the official site https://www.mjeveil.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_mj_eveil_ransart_vaph_matrix_9900_0_44m_9901_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3767/; rq_3767=done; spawn **rq_3768**; ticks=3767.
 - Next: **rq_3768 leftover dual** — Partial batch (3762-3767); code 9900 rows from nscan16/17 and new code 94991, largest first; no code 733 filer found; Recht-Op and ZOPP skipped (no verifiable general mailbox on own domain); Médiathèque Nouvelle still unreachable. Next: finish the 86xxx/85xxx/88919 scan..
+
+
+## Tick 3768 — 2026-10-13T20:27:44Z — rq_3768 leftover dual Maison de la Formation (WaPi) Tournai YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Maison de la Formation (WaPi)** → KBO 0445.775.574 had 0 prior entity rows.
+- KBO: Actief since 28 maart 1991; VZW; zetel Rue du Follet(K) 10 bus 211 7540 Tournai; 1 VE; 0 prior entity rows for 0445.775.574
+- Found: official NBB VKT-VZW native PDF **2026-00228060** (58442 B / 17p; AV 18-06-2026; neergelegd 30/06/2026; MD5 ac6d22aaa775027a4a54f4eb96a50691). VKT-VZW 9900 **EUR649878** (-5.28%); 62 **EUR502495**; 9901 **EUR58620** (was 124709); 9904 54598; equity 711383; cash 411981; FTE 6,4 (was 6,1).
+- FOI address: info@maison-formation-wapi.be — general mailbox shown on the official site https://maison-formation-wapi.be/ (contact block; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_maison_formation_wapi_tournai_vaph_matrix_9900_0_65m_9901_59k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3768/; rq_3768=done; spawn **rq_3769**; ticks=3768.
+- Next: **rq_3769 leftover dual** — Partial batch (3762-3768); code 9900 rows from nscan16/17/18 (incl. new codes 94991, 85599), largest first; no code 733 filer found; Recht-Op, ZOPP, Virvolti skipped (no verifiable own-domain general mailbox), Service Familial de Charleroi skipped (no code 733 amount); Médiathèque Nouvelle still unreachable. Candidates dry; next: new scan..
