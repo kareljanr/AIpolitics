@@ -38210,3 +38210,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@demantel.net — general mailbox verified on the official site https://demantel.net/content/netwerk-palliatieve-zorg-de-mantel (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_de_mantel_roeselare_vaph_matrix_9900_0_68m_9901_loss_28k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3537/; rq_3537=done; spawn **rq_3538**; ticks=3537.
 - Next: **rq_3538 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3538 — 2026-10-13T12:28:32Z — rq_3538 leftover dual StampMedia Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **StampMedia** → KBO 0861.276.064 had 0 prior entity rows.
+- KBO: Actief since 23 oktober 2003; VZW; zetel De Coninckplein 26 2060 Antwerpen; 1 VE; 0 prior entity rows for 0861.276.064
+- Found: official NBB VKT-VZW native PDF **2026-00460696** (43016 B / 12p; AV 17-03-2026; neergelegd 31/08/2026; MD5 30c6908f71e7ee03106c8a1fe952030f). VKT-VZW 9900 **EUR672631** (+3.76%); 62 **EUR637914**; 9901 **EUR24033** (was 45463); 9904 24064; equity 309710; cash 328300; FTE 9,6 (was 8,4).
+- FOI address: info@stampmedia.be — general mailbox verified on the official site https://stampmedia.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_stampmedia_antwerpen_vaph_matrix_9900_0_67m_9901_24k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3538/; rq_3538=done; spawn **rq_3539**; ticks=3538.
+- Next: **rq_3539 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
