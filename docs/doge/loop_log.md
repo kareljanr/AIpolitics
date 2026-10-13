@@ -38250,3 +38250,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kinderhuiskakelbont.be — general mailbox verified on the official site https://www.kinderhuiskakelbont.be/praktisch (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_kakelbont_herent_vaph_matrix_9900_0_66m_9901_85k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3541/; rq_3540=done; spawn **rq_3542**; ticks=3541.
 - Next: **rq_3542 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3542 — 2026-10-13T12:36:25Z — rq_3542 leftover dual Villa Basta Hasselt YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Villa Basta** → KBO 0475.784.604 had 0 prior entity rows.
+- KBO: Actief since 15 mei 2001; VZW; zetel Vissersstraat 2E 3500 Hasselt; 1 VE; 0 prior entity rows for 0475.784.604
+- Found: official NBB VKT-VZW native PDF **2026-00396594** (45127 B / 12p; AV 23-03-2026; neergelegd 13/08/2026; MD5 9e4e2681018c5947dbd7d0bb6eadd6af). VKT-VZW 9900 **EUR653963** (+26.81%); 62 **EUR606264**; 9901 **EUR34301** (was -133900); 9904 34558; equity 608267; cash 474639; FTE 9,7 (was 9,6).
+- FOI address: info@villabasta.be — general mailbox verified on the official site https://villabasta.be/contacteer-ons/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_villa_basta_hasselt_vaph_matrix_9900_0_65m_9901_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3542/; rq_3542=done; spawn **rq_3543**; ticks=3542.
+- Next: **rq_3543 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
