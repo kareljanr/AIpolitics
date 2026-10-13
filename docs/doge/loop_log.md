@@ -40290,3 +40290,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat.adultes@cgxl.be — role mailbox verified on the official site https://www.cgxl.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_centre_de_guidance_ixelles_vaph_matrix_9900_1_58m_9901_98k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3745/; rq_3745=done; spawn **rq_3746**; ticks=3745.
 - Next: **rq_3746 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3746 — 2026-10-13T19:18:09Z — rq_3746 leftover dual L'Entre-Temps Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **L'Entre-Temps** → KBO 0478.230.190 had 0 prior entity rows.
+- KBO: Actief since 29 mei 2002; VZW; zetel Ducpétiauxlaan 132 1060 Sint-Gillis (bij-Brussel); 2 VE; 0 prior entity rows for 0478.230.190
+- Found: official NBB VKT-VZW native PDF **2026-00471007** (415810 B / 22p; AV 29-06-2026; neergelegd 31/08/2026; MD5 600f768727dfbc85c02edd1755de7b94). VKT-VZW 9900 **EUR1423236** (+1.80%); 62 **EUR1372871**; 9901 **EUR-8020** (was 20633); 9904 -6500; equity 149905; cash 387336; FTE 18,9 (was 17,9).
+- FOI address: contact@lentretemps.be — general mailbox verified on the official site https://www.lentretemps.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_entre_temps_saint_gilles_vaph_matrix_9900_1_42m_9901_loss_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3746/; rq_3746=done; spawn **rq_3747**; ticks=3746.
+- Next: **rq_3747 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
