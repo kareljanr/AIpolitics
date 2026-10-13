@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T22:55:34Z,every10_3850,3850,no,tick3850 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3700 carried open; next: none queued (check remaining nscan22 leftovers)
+main,continuous,hole_fill,2026-10-13T22:57:09Z,rq_3850,3851,no,tick3851 leftover dual GLUON Brussel 0887.643.436 Strong PDF 2026-00402261 9900 0.45m / 9901 34k; next rq_3852 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

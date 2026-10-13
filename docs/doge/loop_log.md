@@ -41340,3 +41340,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3850 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3850 run locally as fallback.
 - Next: **rq_3850** — no candidate queued: continue the Flemish Subsidieregister candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
+
+
+## Tick 3851 — 2026-10-13T22:57:09Z — rq_3850 leftover dual GLUON Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **GLUON** → KBO 0887.643.436 had 0 prior entity rows.
+- KBO: Actief since 2 maart 2007; VZW; zetel Slachthuisstraat 4-6 1000 Brussel; 1 VE; 0 prior entity rows for 0887.643.436
+- Found: official NBB MIC-VZW native PDF **2026-00402261** (43770 B / 10p; AV 20-06-2026; neergelegd 17/08/2026; MD5 b1f9213970f5bcf45c6d4b6aba3bb432). MIC-VZW 9900 **EUR449509** (-36.49%); 62 **EUR380402**; 9901 **EUR34062** (was 226083); 9904 5561; equity 841041; cash 799753; FTE n/a.
+- FOI address: info@gluon.be — general mailbox verified on the official site https://www.gluon.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent sec_flanders); FOI **gap_gluon_brussel_vaph_matrix_9900_0_45m_9901_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3851/; rq_3850=done; spawn **rq_3852**; ticks=3851.
+- Next: **rq_3852 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
