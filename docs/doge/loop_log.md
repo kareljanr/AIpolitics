@@ -38430,3 +38430,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lesilex.be — general mailbox verified on the official site https://www.lesilex.be/mentions-legales (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_le_silex_wsl_vaph_matrix_9900_0_59m_9901_loss_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3559/; rq_3559=done; spawn **rq_3560**; ticks=3559.
 - Next: **rq_3560 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3560 — 2026-10-13T14:15:14Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3141** of 3196 rows; inventory budgets 63851 · commitments 7196 · leaderboard 9314 · entities 3214 · sources 10521.
+- Top10: **stable** (3551-3559 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3551-3559: Université des Femmes · Infor Famille Liège · Ligue Alzheimer · De Bonte Beestenboel · Hippopassion · Institut d’Enseignement des Arts, Techniques, Sciences et Artisanats (IATA) · Maison médicale Globule · L’Ambulatoire - Forest · Le Silex.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3560 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3560 run locally as fallback.
+- Next: **rq_3560** — code 9900 (NOT subsidy amounts): Âgo (EUR0.594m), Centre Séverine (EUR0.587m), Centre Familial Belgo-Immigré (EUR0.580m), La Trace (EUR0.578m), Addictions (EUR0.571m); mailboxes verified on official sites, after the dedup check. Scans: old codes complete; NACE-BEL 2025 codes 394/400 pages; triage of all scan keys complete so far (EPHEC-Galilée code 733 pending mailbox check).

@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3560** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3550; 3551-3559 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3551-3559 residual dual L5 (not near-complete of 348bn):** Université des Femmes · Infor Famille Liège · Ligue Alzheimer · De Bonte Beestenboel · Hippopassion · Institut d’Enseignement des Arts, Techniques, Sciences et Artisanats (IATA) · Maison médicale Globule · L’Ambulatoire - Forest · Le Silex (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3141** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3196** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3551-3559** Université des Femmes · Infor Famille Liège · Ligue Alzheimer · De Bonte Beestenboel · Hippopassion · Institut d’Enseignement des Arts, Techniques, Sciences et Artisanats (IATA) · Maison médicale Globule · L’Ambulatoire - Forest · Le Silex.
+
+### Inventory (tick 3560)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 63851 |
+| commitments.csv | 7196 |
+| leaderboard.csv | 9314 |
+| entities.csv | 3214 |
+| sources.csv | 10521 |
+| FOI ready | 3141 |
+| FOI total rows | 3196 |
+| research_queue open | rq_3560 (carried; next: Âgo, Centre Séverine, Centre Familial Belgo-Immigré, La Trace, Addictions (code 9900 leftovers from the rebuilt NBB pool; old-code scan complete; NACE-BEL 2025 scan 394 of 400 pages finished; triage of all 3493 earlier keys complete + all 555 new keys from the 2025 scan: code 733 rows de Rand (3546) and IATA Namur (3556) used, EPHEC-Galilée pending mailbox check); largest first) |
+
+### What improved since tick 3550
+
+- **New source (tick3551-3559):** Université des Femmes · Infor Famille Liège · Ligue Alzheimer · De Bonte Beestenboel · Hippopassion · Institut d’Enseignement des Arts, Techniques, Sciences et Artisanats (IATA) · Maison médicale Globule · L’Ambulatoire - Forest · Le Silex. IATA Namur is a code 733 row (subsidies EUR15.77m, funder not verified) found by triage of the NACE-BEL 2025 scan; the other eight are code 9900 leftovers (NOT subsidy amounts), largest first; the code 733 pool from all earlier scans is used up (Médiathèque Nouvelle retried, site still unreachable). Scan status at tick 3560: the old-code scan is complete (85 runnable pages; 77 with results, 8 confirmed empty). The NACE-BEL 2025 replacement scan (covering the 355 pages whose 17 old NACE codes return HTTP 404 on KBO) has 394 of 400 pages finished, 12 jobs in parallel. Triage is complete for all 3493 earlier scan keys (1278 with a 2025 filing) and for all 555 new non-profit keys from the 2025-code pages; code 733 rows found: vzw de Rand (used 3546), IATA Namur (used 3556), EPHEC-Galilée (pending mailbox check). Code 9900 picks come from the NBB pool rebuilt from the local cache (2115 rows, no code 733 filers). EU-level and international bodies, umbrella bodies and federations, bodies without an own-domain general mailbox, address mismatches and duplicates excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3560 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3550** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
