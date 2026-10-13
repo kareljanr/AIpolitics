@@ -40030,3 +40030,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@hvfe.be — general mailbox verified on the official site https://hvfe.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_hvfe_montignies_vaph_matrix_9900_0_61m_9901_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3719/; rq_3719=done; spawn **rq_3720**; ticks=3719.
 - Next: **rq_3720 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3720 — 2026-10-13T17:28:52Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3285** of 3340 rows; inventory budgets 65007 · commitments 7340 · leaderboard 9458 · entities 3358 · sources 10953.
+- Top10: **stable** (3711-3719 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3711-3719: SOS Burn-out Belgique · Le Signe (AMO) · SDJ Province de Luxembourg · Options (AMO Oxyjeunes) · Canal J (AMO) · Bon Pied Bon Oeil · Solidarités Nouvelles · Espace (SAPSE) · HVFE.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3720 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3720 run locally as fallback.
+- Next: **rq_3720** — code 9900 (NOT subsidy amounts): Edelweiss (EUR0.57m, micro), Bouworde (EUR0.36m), Atelier Circuler (EUR0.30m, micro), E.V.A.-Centrum (EUR0.25m, micro), Missing You (EUR0.24m, micro); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scans nscan9/nscan8.
