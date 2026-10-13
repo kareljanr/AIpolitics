@@ -37980,3 +37980,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sosenfantsnamur.be — general mailbox verified on the official site https://sosenfantsnamur.be/nous-contacter.html (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_sos_enfants_namur_vaph_matrix_9900_0_89m_9901_16k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3514/; rq_3514=done; spawn **rq_3515**; ticks=3514.
 - Next: **rq_3515 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3515 — 2026-10-13T12:06:17Z — rq_3515 leftover dual Maison Médicale Horizons Anderlecht YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Maison Médicale Horizons** → KBO 0891.912.624 had 0 prior entity rows.
+- KBO: Actief since 7 september 2007; VZW; zetel Vaandelstraat 5 1070 Anderlecht; 1 VE; 0 prior entity rows for 0891.912.624
+- Found: official NBB VKT-VZW native PDF **2026-00278209** (53624 B / 15p; AV 18-06-2026; neergelegd 10/07/2026; MD5 f792ed64515d081fb111b8225b945854). VKT-VZW 9900 **EUR886775** (+11.53%); 62 **EUR754406**; 9901 **EUR94551** (was 65099); 9904 91513; equity 992511; cash 93727; FTE 9,5 (was 9,7).
+- FOI address: info@mmhorizons.be — general mailbox verified on the official site https://www.mmhorizons.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_mm_horizons_anderlecht_vaph_matrix_9900_0_89m_9901_95k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3515/; rq_3515=done; spawn **rq_3516**; ticks=3515.
+- Next: **rq_3516 leftover dual** — Batch done (3506-3515); code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (remaining 82.300 / 93.29x pages and the 20 NACE-BEL 2025 replacement codes still scanning), then further code 9900 leftovers from the cached NBB pool, largest first..
