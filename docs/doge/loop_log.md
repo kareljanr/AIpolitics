@@ -39430,3 +39430,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@espace28.be — general mailbox verified on the official site https://espace28.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_espace_28_verviers_vaph_matrix_9900_0_70m_9901_49k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3659/; rq_3659=done; spawn **rq_3660**; ticks=3659.
 - Next: **rq_3660 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3660 — 2026-10-13T16:23:25Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3231** of 3286 rows; inventory budgets 64574 · commitments 7286 · leaderboard 9404 · entities 3304 · sources 10791.
+- Top10: **stable** (3651-3659 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3651-3659: Internationaal Comité · MIREV · Boulot · Les Marmots · Dynamo AMO · Royal Racing Club de Bruxelles · Inser’action · Transition · Espace 28.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3660 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3660 run locally as fallback.
+- Next: **rq_3660** — code 9900 (NOT subsidy amounts): Centre d’Entraide de Jette (EUR0.69m), Le CRIC (EUR0.59m), Dierenasiel Genk (EUR0.56m), Citadelle (EUR0.54m, micro), VOC Opstap (EUR0.48m, micro); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scan nscan4.

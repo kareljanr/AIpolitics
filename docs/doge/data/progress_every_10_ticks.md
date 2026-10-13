@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3660** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3650; 3651-3659 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3651-3659 residual dual L5 (not near-complete of 348bn):** Internationaal Comité · MIREV · Boulot · Les Marmots · Dynamo AMO · Royal Racing Club de Bruxelles · Inser’action · Transition · Espace 28 (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3231** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3286** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3651-3659** Internationaal Comité · MIREV · Boulot · Les Marmots · Dynamo AMO · Royal Racing Club de Bruxelles · Inser’action · Transition · Espace 28.
+
+### Inventory (tick 3660)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 64574 |
+| commitments.csv | 7286 |
+| leaderboard.csv | 9404 |
+| entities.csv | 3304 |
+| sources.csv | 10791 |
+| FOI ready | 3231 |
+| FOI total rows | 3286 |
+| research_queue open | rq_3660 (carried; next: Centre d’Entraide de Jette, Le CRIC, Dierenasiel Genk, Citadelle, VOC Opstap (code 9900 rows from the bounded KBO scan nscan4); largest first) |
+
+### What improved since tick 3650
+
+- **New source (tick3651-3659):** Internationaal Comité · MIREV · Boulot · Les Marmots · Dynamo AMO · Royal Racing Club de Bruxelles · Inser’action · Transition · Espace 28. All code 9900 rows (NOT subsidy amounts) from the bounded KBO scan nscan4 (NACE-BEL 2025 codes 72200, 85600, 93110, 87909, 88101, 88991, 88999, 94999), largest first; no usable code 733 amount found. Mailboxes verified on each body's own site; rejected: ISP or mismatched-domain mailboxes, sites without a general mailbox, site address differing from the KBO seat, federations and international bodies. Médiathèque Nouvelle still unreachable (HTTP 000).
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3660 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked at start of batch 3656-3665: no github-actions DOGE tick commits. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3650** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
