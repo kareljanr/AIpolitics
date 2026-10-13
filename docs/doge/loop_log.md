@@ -36110,3 +36110,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: onthaal@wingerdbloei.be — reception mailbox verified on the official site https://wingerdbloei.be/adressen-en-contactgegevens/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_wingerdbloei_antwerpen_vaph_matrix_733_13_79m_9901_loss_376k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3327/; rq_3327=done; spawn **rq_3328**; ticks=3327.
 - Next: **rq_3328 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3328 — 2026-10-13T06:07:22Z — rq_3328 leftover dual La Cité Joyeuse - Le Foyer des Orphelins Molenbeek-Saint-Jean YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **La Cité Joyeuse - Le Foyer des Orphelins** → KBO 0407.963.093 had 0 prior entity rows.
+- KBO: Actief since 13 augustus 1921; VZW; zetel Kindvriendelijk Huisstraat 2 1080 Sint-Jans-Molenbeek; 2 VE; 0 prior entity rows for 0407.963.093
+- Found: official NBB VOL-VZW native PDF **2026-00549150** (487387 B / 42p; AV 23-09-2026; neergelegd 05/10/2026; MD5 1e013069d81ad76692deab43f6750d44). VOL-VZW 733 **EUR11566462** (-2.19%); 62 **EUR10777328**; 9901 **EUR-446259** (was -413429); 9904 473316; equity 3532458; cash 644040; FTE 155 (was 157,6).
+- FOI address: secretariat@lacitejoyeuse.be — secretariat mailbox verified on the official site https://www.lacitejoyeuse.be/services-supports/ (contact page gives the KBO registered seat address).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cite_joyeuse_molenbeek_vaph_matrix_733_11_57m_9901_loss_446k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3328/; rq_3328=done; spawn **rq_3329**; ticks=3328.
+- Next: **rq_3329 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
