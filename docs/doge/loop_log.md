@@ -38640,3 +38640,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3580 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3580 run locally as fallback.
 - Next: **rq_3580** — code 9900 (NOT subsidy amounts): Art Basics for Children (EUR0.443m), De Sluis Leerwerkplaats (EUR0.438m), La Ferme de la Hulotte (EUR0.416m), De Speelvogels (EUR0.407m), ArmenTeKort / Kanzo (EUR0.377m); mailboxes verified on official sites, after the dedup check. Scans: old codes and NACE-BEL 2025 codes complete (400/400 pages); all keys triaged.
+
+
+## Tick 3581 — 2026-10-13T15:18:51Z — rq_3580 leftover dual Art Basics for Children (ABC) Schaerbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Art Basics for Children (ABC)** → KBO 0460.204.424 had 0 prior entity rows.
+- KBO: Actief since 20 december 1996; VZW; zetel Gaucheretplein 13 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0460.204.424
+- Found: official NBB VKT-VZW native PDF **2026-00198248** (54627 B / 17p; AV 23-03-2026; neergelegd 25/06/2026; MD5 e58154564ba17b82abf4f9410b3e7672). VKT-VZW 9900 **EUR443062** (-14.68%); 62 **EUR382868**; 9901 **EUR-2215** (was 5077); 9904 -3795; equity 647888; cash 187732; FTE 5,8 (was 6,9).
+- FOI address: mail@abc-web.be — general mailbox verified on the official site https://www.abc-web.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_abc_schaerbeek_vaph_matrix_9900_0_44m_9901_loss_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3581/; rq_3580=done; spawn **rq_3582**; ticks=3581.
+- Next: **rq_3582 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
