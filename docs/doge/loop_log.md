@@ -39760,3 +39760,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@rondpunt.be — general mailbox verified on the official site https://www.rondpunt.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_rondpunt_berchem_vaph_matrix_9900_0_32m_9901_loss_28k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3692/; rq_3692=done; spawn **rq_3693**; ticks=3692.
 - Next: **rq_3693 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3693 — 2026-10-13T16:49:44Z — rq_3693 leftover dual Betonne Jeugd Deurne YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Betonne Jeugd** → KBO 0461.500.858 had 0 prior entity rows.
+- KBO: Actief since 8 juli 1997; VZW; zetel Ten Eekhovelei 73-75 2100 Antwerpen; 2 VE; 0 prior entity rows for 0461.500.858
+- Found: official NBB MIC-VZW native PDF **2026-00114347** (44762 B / 10p; AV 30-04-2026; neergelegd 19/05/2026; MD5 6db8588c5fea157bf9d05658daf5cc0e). MIC-VZW 9900 **EUR312586** (-7.20%); 62 **EUR322983**; 9901 **EUR-11028** (was 10077); 9904 -11357; equity 1301; cash 35292; FTE n/a.
+- FOI address: info@betonnejeugd.org — general mailbox verified on the official site https://www.betonnejeugd.org/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_betonne_jeugd_deurne_vaph_matrix_9900_0_31m_9901_loss_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3693/; rq_3693=done; spawn **rq_3694**; ticks=3693.
+- Next: **rq_3694 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
