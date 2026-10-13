@@ -35244,3 +35244,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3240 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3240 run locally as fallback.
 - Next: **rq_3240** — City of Brussels 2025 register: Les Nouveaux Disparus (EUR80,000), GC Nekkersdal (EUR76,775), MET-X (EUR74,500), Beursschouwburg (EUR67,000), Kunstenfestivaldesarts (EUR60,000); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3241 — 2026-10-13T02:33:55Z — rq_3240 leftover dual Les Nouveaux Disparus Saint-Josse-ten-Noode YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Largest recipients in the official City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025) not yet in the repo, cross-checked with the NBB filing: **Les Nouveaux Disparus** → KBO 0456.569.397 had 0 prior entity rows.
+- KBO: Actief since 10 mei 1995; VZW; zetel de Liedekerkestraat 9 1210 Sint-Joost-ten-Node; 2 VE; 0 prior entity rows for 0456.569.397
+- Found: official NBB MIC-VZW native PDF **2026-00271964** (126541 B / 13p; AV 15-06-2026; neergelegd 09/07/2026; MD5 f25c93c1b6e50b207359ee1ae314b3cd). MIC-VZW 9900 **EUR704540** (+1.21%); 62 **EUR606353**; 9901 **EUR-10648** (was -72355); 9904 573; equity 12988; cash 73913; FTE n/a.
+- FOI address: info@lesnouveauxdisparus.com — general mailbox verified on the official site https://www.lesnouveauxdisparus.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_les_nouveaux_disparus_vaph_matrix_9900_0_70m_9901_loss_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3241/; rq_3240=done; spawn **rq_3242**; ticks=3241.
+- Next: **rq_3242 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
