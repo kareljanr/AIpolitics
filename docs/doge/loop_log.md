@@ -36150,3 +36150,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@stfranziskus.be — general mailbox verified on the official site https://seniorenzentrum.mystrikingly.com/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_st_franziskus_eupen_vaph_matrix_733_2_87m_9901_loss_215k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3331/; rq_3330=done; spawn **rq_3332**; ticks=3331.
 - Next: **rq_3332 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3332 — 2026-10-13T06:08:32Z — rq_3332 leftover dual Les Jours Paisibles Saint-Ghislain (Baudour) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Les Jours Paisibles** → KBO 0429.751.768 had 0 prior entity rows.
+- KBO: Actief since 1 augustus 1985; VZW; zetel Rue Louis Caty(B) 140 7331 Saint-Ghislain; 1 VE; 0 prior entity rows for 0429.751.768
+- Found: official NBB VOL-VZW native PDF **2026-00205367** (1767089 B / 50p; AV 18-06-2026; neergelegd 24/06/2026; MD5 b51d3b7d2e519baaf1a5ed33fff534bd). VOL-VZW 733 **EUR2499446** (+6.56%); 62 **EUR5809823**; 9901 **EUR288591** (was 344533); 9904 84533; equity 10757359; cash 129548; FTE 95,4 (was 104,6).
+- FOI address: info@lesjourspaisibles.be — general mailbox verified on the official site https://www.lesjourspaisibles.be/contact/ (which lists the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_jours_paisibles_saint_ghislain_vaph_matrix_733_2_50m_9901_289k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3332/; rq_3332=done; spawn **rq_3333**; ticks=3332.
+- Next: **rq_3333 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
