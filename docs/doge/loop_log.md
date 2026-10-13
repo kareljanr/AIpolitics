@@ -36280,3 +36280,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@hsf-asbl.be — general mailbox verified on the official site https://www.hsf-asbl.be/fr/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_home_saint_francois_baelen_vaph_matrix_9900_4_98m_9901_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3344/; rq_3344=done; spawn **rq_3345**; ticks=3344.
 - Next: **rq_3345 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3345 — 2026-10-13T06:18:25Z — rq_3345 leftover dual PSC Elsene (Psychiatrisch Centrum Elsene) Elsene YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **PSC Elsene (Psychiatrisch Centrum Elsene)** → KBO 0418.282.014 had 0 prior entity rows.
+- KBO: Actief since 28 februari 1978; VZW; zetel Gewijde-Boomstraat 102 1050 Elsene; 1 VE; 0 prior entity rows for 0418.282.014
+- Found: official NBB VKT-VZW native PDF **2026-00227545** (429196 B / 27p; AV 23-06-2026; neergelegd 25/06/2026; MD5 986b797b1080e220395d2e4d852b3912). VKT-VZW 9900 **EUR4445432** (+3.04%); 62 **EUR3941959**; 9901 **EUR-95815** (was 6339); 9904 -10461; equity 4165089; cash 702421; FTE 45,2 (was 47,2).
+- FOI address: info@psc-elsene.be — general mailbox verified on the official site https://www.psc-elsene.be/ (contact page gives the KBO registered seat address).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ixelles); FOI **gap_psc_elsene_vaph_matrix_9900_4_45m_9901_loss_96k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3345/; rq_3345=done; spawn **rq_3346**; ticks=3345.
+- Next: **rq_3346 leftover dual** — Batch done; the NACE 87.xxx code 733 rows are used up (remaining: Maison Heureuse, no general mailbox; Myosotis, Blijvelde and Petites Soeurs des Pauvres, sites unreachable). Next: a fresh 733 scan of other care / para-public codes, then code 9900 largest first. Skipped (5-min cap / mailbox rule): KiJoCo (no mailbox on its own site), L’Equipe (site shows another KBO number), Agentschap Integratie en Inburgering (already in repo), Héliades (group site), Jardins de Scailmont, Libre-Parcours and Les Gentianes (no mailbox), Wijgmaalbroek (commercial group site), Maison Notre-Dame des Anges and Siloé (sites unreachable)..
