@@ -38650,3 +38650,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: mail@abc-web.be — general mailbox verified on the official site https://www.abc-web.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_abc_schaerbeek_vaph_matrix_9900_0_44m_9901_loss_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3581/; rq_3580=done; spawn **rq_3582**; ticks=3581.
 - Next: **rq_3582 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3582 — 2026-10-13T15:19:01Z — rq_3582 leftover dual De Sluis Leerwerkplaats Genk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **De Sluis Leerwerkplaats** → KBO 0441.330.105 had 0 prior entity rows.
+- KBO: Actief since 16 november 1989; VZW; zetel Halmstraat 4 3600 Genk; 1 VE; 0 prior entity rows for 0441.330.105
+- Found: official NBB VKT-VZW native PDF **2026-00216239** (58081 B / 18p; AV 15-06-2026; neergelegd 29/06/2026; MD5 a62a9dda2532fe4cac342a8e8227c8b9). VKT-VZW 9900 **EUR438376** (-1.92%); 62 **EUR468155**; 9901 **EUR-50442** (was -40184); 9904 -55926; equity 238370; cash 32549; FTE 8,8 (was 8,6).
+- FOI address: info@vzwdesluis.be — general mailbox verified on the official site https://www.vzwdesluis.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_de_sluis_genk_vaph_matrix_9900_0_44m_9901_loss_50k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3582/; rq_3582=done; spawn **rq_3583**; ticks=3582.
+- Next: **rq_3583 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
