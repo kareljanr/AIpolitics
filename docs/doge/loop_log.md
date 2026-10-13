@@ -40490,3 +40490,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@secteur42.be — general mailbox verified on the official site https://secteur42.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_secteur_42_lodelinsart_vaph_matrix_9900_0_49m_9901_loss_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3765/; rq_3765=done; spawn **rq_3766**; ticks=3765.
 - Next: **rq_3766 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3766 — 2026-10-13T19:49:48Z — rq_3766 leftover dual Parler pour le dire (AMO) Dour YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Parler pour le dire (AMO)** → KBO 0460.071.691 had 0 prior entity rows.
+- KBO: Actief since 16 december 1996; VZW; zetel Rue Emile Cornez 48 7370 Dour; 1 VE; 0 prior entity rows for 0460.071.691
+- Found: official NBB MIC-VZW native PDF **2026-00296403** (37384 B / 9p; AV 09-06-2026; neergelegd 13/07/2026; MD5 2dae6e715b38301a217eeed3fcbfd422). MIC-VZW 9900 **EUR456172** (+1.44%); 62 **EUR455372**; 9901 **EUR368** (was 83); 9904 316; equity 22420; cash 161956; FTE n/a.
+- FOI address: info@parlerpourledire.be — general mailbox verified on the official site https://www.parlerpourledire.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_parler_pour_le_dire_dour_vaph_matrix_9900_0_46m_9901_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3766/; rq_3766=done; spawn **rq_3767**; ticks=3766.
+- Next: **rq_3767 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
