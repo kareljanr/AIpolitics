@@ -39900,3 +39900,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariatpeda@espaces.be — secretariat mailbox verified on the official site https://espaces.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_espaces_ciney_vaph_matrix_9900_1_53m_9901_24k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3706/; rq_3706=done; spawn **rq_3707**; ticks=3706.
 - Next: **rq_3707 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3707 — 2026-10-13T17:16:07Z — rq_3707 leftover dual Sporty Creactief Kessel-Lo YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Sporty Creactief** → KBO 0875.385.903 had 0 prior entity rows.
+- KBO: Actief since 10 juni 2005; VZW; zetel Ernest Solvaystraat 2 3010 Leuven; 1 VE; 0 prior entity rows for 0875.385.903
+- Found: official NBB VKT-VZW native PDF **2026-00093039** (48927 B / 13p; AV 27-04-2026; neergelegd 29/04/2026; MD5 6cee20a316de09d005a96ff4a7efa466). VKT-VZW 9900 **EUR1082515** (-0.92%); 62 **EUR1035506**; 9901 **EUR-19061** (was 47668); 9904 -11800; equity 363873; cash 18231; FTE 41 (was 42,6).
+- FOI address: info@sporty.be — general mailbox verified on the official site https://sporty.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_sporty_creactief_leuven_vaph_matrix_9900_1_08m_9901_loss_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3707/; rq_3707=done; spawn **rq_3708**; ticks=3707.
+- Next: **rq_3708 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
