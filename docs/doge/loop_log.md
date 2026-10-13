@@ -35610,3 +35610,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@operaliege.be — general mailbox verified on the official site https://www.operaliege.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_opera_royal_de_wallonie_liege_vaph_matrix_733_20_51m_9901_375k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3277/; rq_3276=done; spawn **rq_3278**; ticks=3277.
 - Next: **rq_3278 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3278 — 2026-10-13T04:44:38Z — rq_3278 leftover dual Ancienne Belgique (AB) Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used over Walloon, Brussels and Flemish postcodes: NACE 90.311 (arts venues) and 88.102 (635 legal persons not yet in the repo), NACE 90.111 and 91.210 (2,445), NACE 93.110 and 85.520 (4,272; mostly companies and small clubs, no code 733 row); code 733 rows first, then code 9900, largest first: **Ancienne Belgique (AB)** → KBO 0430.973.770 had 0 prior entity rows.
+- KBO: Actief since 17 juni 1985; VZW; zetel Anspachlaan 110 1000 Brussel; 4 VE; 0 prior entity rows for 0430.973.770
+- Found: official NBB VOL-VZW native PDF **2026-00174894** (871055 B / 41p; AV 02-06-2026; neergelegd 16/06/2026; MD5 f814213df15824f411b25694d0a9df39). VOL-VZW 733 **EUR4210466** (-3.01%); 62 **EUR5335388**; 9901 **EUR-209782** (was 104320); 9904 -190814; equity 1620381; cash 4083962; FTE 70,5 (was 68).
+- FOI address: info@abconcerts.be — general mailbox verified on the official site https://www.abconcerts.be/nl/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ancienne_belgique_brussel_vaph_matrix_733_4_21m_9901_loss_210k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3278/; rq_3278=done; spawn **rq_3279**; ticks=3278.
+- Next: **rq_3279 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
