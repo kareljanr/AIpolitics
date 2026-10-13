@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T02:24:52Z,rq_3228,3228,no,tick3228 leftover dual Entreprendre.Brucity Bruxelles 0543.320.061 Strong PDF 2026-00283602 9900 0.62m / 9901 0k; next rq_3229 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T02:25:05Z,rq_3229,3229,no,tick3229 leftover dual Bruxelles Laïque Bruxelles 0419.597.551 Strong PDF 2026-00130144 9900 1.37m / 9901 17k; next rq_3230 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

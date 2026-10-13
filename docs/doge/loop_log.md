@@ -35124,3 +35124,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@entreprendrebruxelles.be — general mailbox verified on the official site https://www.entreprendrebruxelles.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_entreprendre_brucity_vaph_matrix_9900_0_62m_9901_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3228/; rq_3228=done; spawn **rq_3229**; ticks=3228.
 - Next: **rq_3229 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3229 — 2026-10-13T02:25:05Z — rq_3229 leftover dual Bruxelles Laïque Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Largest recipients in the official City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025) not yet in the repo, cross-checked with the NBB filing: **Bruxelles Laïque** → KBO 0419.597.551 had 0 prior entity rows.
+- KBO: Actief since 19 mei 1979; VZW; zetel Stalingradlaan 18-20 1000 Brussel; 1 VE; 0 prior entity rows for 0419.597.551
+- Found: official NBB VKT-VZW native PDF **2026-00130144** (1661070 B / 21p; AV 11-03-2026; neergelegd 01/06/2026; MD5 34f05a3d32f675b218068d186ac03fe3). VKT-VZW 9900 **EUR1372999** (+24.87%); 62 **EUR1009321**; 9901 **EUR17074** (was 24787); 9904 10157; equity 4360474; cash 1793411; FTE 19,2 (was 18,1).
+- FOI address: bruxelles.laique@laicite.be — general mailbox verified on the official site https://www.bxllaique.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_bruxelles_laique_vaph_matrix_9900_1_37m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3229/; rq_3229=done; spawn **rq_3230**; ticks=3229.
+- Next: **rq_3230 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
