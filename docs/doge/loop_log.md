@@ -34894,3 +34894,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: direction_gt@saintmichelverviers.be — general/role mailbox of the school of the same name run by this organising body, listed on the SeGEC school directory page https://enseignement.catholique.be/etablissements/institut-saint-michel-2/ which names this ASBL as pouvoir organisateur (opened 13 Oct 2026).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_institut_saint_michel_verviers_vaph_matrix_733_3_54m_9901_9k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3205/; rq_3205=done; spawn **rq_3206**; ticks=3205.
 - Next: **rq_3206 leftover dual** — Batch done; skipped for mailbox (5-min cap / no qualifying mailbox): Cardinal Mercier, KO Groot-Beveren, Saint-Guibert, KO Hamme, Saint-Hadelin Visé, Sainte-Claire Verviers, IES Borinage (FWB @adm.cfwb.be only), Ecole professionnelle / Asty-Moulin, Collège Saint-Servais (personal address only), De Speelboom (site-level mailboxes only), Vives Zuid, Sint-Jan Berchmans (script-rendered), Collège Saint-François Tubize (personal address only); next: Odisee, Ursulinen O.L.V.-Waver after a mailbox check.
+
+
+## Tick 3206 — 2026-10-13T01:43:19Z — rq_3206 leftover dual Feux-Follets Institut psychiatrique pour enfants (Fleurus) Fleurus (Wangenies) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Mental-health, youth-care and social-economy non-profits (Walloon/Brussels services de santé mentale and habitations protégées, Flemish jeugdhulp / sociale werkplaats VZWs) from a fresh KBO name search; code 733 rows first (none qualified), then largest code 9900: **Feux-Follets Institut psychiatrique pour enfants (Fleurus)** → KBO 0418.827.192 had 0 prior entity rows.
+- KBO: Actief since 23 november 1978; VZW; zetel Place Quinet(WAN) 27 bus 1 6220 Fleurus; 1 VE; 0 prior entity rows for 0418.827.192
+- Found: official NBB VKT-VZW native PDF **2026-00126917** (265720 B / 21p; AV 26-05-2026; neergelegd 27/05/2026; MD5 0ac4b2807b583827c2967cdf50637d8f). VKT-VZW 9900 **EUR4452488** (+1.85%); 62 **EUR3823531**; 9901 **EUR109581** (was 312657); 9904 51762; equity 6106275; cash 3376185; FTE 47,2 (was 47,4).
+- FOI address: secretariat@feux-follets.be — general mailbox verified on the official site https://www.feux-follets.be/professionnel.htm.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_feux_follets_fleurus_vaph_matrix_9900_4_45m_9901_110k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3206/; rq_3206=done; spawn **rq_3207**; ticks=3206.
+- Next: **rq_3207 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
