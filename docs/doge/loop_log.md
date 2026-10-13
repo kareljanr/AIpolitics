@@ -40150,3 +40150,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@crecheprincesseastrid.be — general mailbox verified on the official site http://crecheprincesseastrid.be/contacts/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_creche_princesse_astrid_liege_vaph_matrix_9900_0_62m_9901_76k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3731/; rq_3730=done; spawn **rq_3732**; ticks=3731.
 - Next: **rq_3732 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3732 — 2026-10-13T18:07:52Z — rq_3732 leftover dual Ferme du Parc Maximilien Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Ferme du Parc Maximilien** → KBO 0446.485.159 had 0 prior entity rows.
+- KBO: Actief since 1 augustus 1991; VZW; zetel Schipperijkaai 2 1000 Brussel; 1 VE; 0 prior entity rows for 0446.485.159
+- Found: official NBB MIC-VZW native PDF **2026-00196708** (40700 B / 10p; AV 26-05-2026; neergelegd 19/06/2026; MD5 bc846bdbe0ed40c2c37c857551233b30). MIC-VZW 9900 **EUR520841** (-7.85%); 62 **EUR478993**; 9901 **EUR-4126** (was -41557); 9904 -4662; equity 108411; cash 63764; FTE n/a.
+- FOI address: info@lafermeduparcmaximilien.be — general mailbox verified on the official site https://www.lafermeduparcmaximilien.be/contactus (Quai du Batelage 2 = KBO registered seat Schipperijkaai 2).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ferme_du_parc_maximilien_brussel_vaph_matrix_9900_0_52m_9901_loss_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3732/; rq_3732=done; spawn **rq_3733**; ticks=3732.
+- Next: **rq_3733 leftover dual** — Batch done (3726-3732); code 9900 rows from bounded KBO scan nscan10 (85599/88911), largest first; code 733 filers found were rejected (commune seat, ISP mailboxes, unverifiable own domain); Médiathèque Nouvelle still unreachable. Next: a new bounded scan..
