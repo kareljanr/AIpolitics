@@ -40120,3 +40120,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lqpe.be — general mailbox verified on the official site https://www.lqpe.org/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_liens_de_quartier_petite_enfance_schaerbeek_vaph_matrix_9900_0_68m_9901_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3728/; rq_3728=done; spawn **rq_3729**; ticks=3728.
 - Next: **rq_3729 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3729 — 2026-10-13T18:05:19Z — rq_3729 leftover dual La Crèche au Fil de l'Eau Tournai YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **La Crèche au Fil de l'Eau** → KBO 0461.895.687 had 0 prior entity rows.
+- KBO: Actief since 24 september 1997; VZW; zetel Quai Donat Casterman(TOU) 73 7500 Tournai; 1 VE; 0 prior entity rows for 0461.895.687
+- Found: official NBB MIC-VZW native PDF **2026-00486831** (43359 B / 10p; AV 30-06-2026; neergelegd 29/08/2026; MD5 30659eda4f0673626b682e347ace16dc). MIC-VZW 9900 **EUR653034** (+2.18%); 62 **EUR660436**; 9901 **EUR-15491** (was -1665); 9904 -16035; equity 136274; cash 58684; FTE n/a.
+- FOI address: info@lacrecheaufildeleau.be — general mailbox verified on the official site https://www.lacrecheaufildeleau.be/ (site shows the same KBO number and registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_creche_au_fil_de_leau_tournai_vaph_matrix_9900_0_65m_9901_loss_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3729/; rq_3729=done; spawn **rq_3730**; ticks=3729.
+- Next: **rq_3730 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
