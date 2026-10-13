@@ -38460,3 +38460,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@planning-severine.org — general mailbox verified on the official site https://www.planning-severine.org/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_centre_severine_anderlecht_vaph_matrix_9900_0_59m_9901_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3562/; rq_3562=done; spawn **rq_3563**; ticks=3562.
 - Next: **rq_3563 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3563 — 2026-10-13T14:15:39Z — rq_3563 leftover dual Centre Familial Belgo-Immigré (CFBI) Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre Familial Belgo-Immigré (CFBI)** → KBO 0470.084.269 had 0 prior entity rows.
+- KBO: Actief since 5 november 1999; VZW; zetel Dethystraat 58 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0470.084.269
+- Found: official NBB VKT-VZW native PDF **2026-00192171** (51055 B / 13p; AV 19-06-2026; neergelegd 24/06/2026; MD5 548dfd4bb3331388241997f0e2fd36f2). VKT-VZW 9900 **EUR579525** (+0.83%); 62 **EUR583427**; 9901 **EUR-4135** (was -716); 9904 -4520; equity -7619; cash 33718; FTE 9,4 (was 9,4).
+- FOI address: info@cfbi.be — general mailbox verified on the official site https://www.cfbi.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cfbi_saint_gilles_vaph_matrix_9900_0_58m_9901_loss_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3563/; rq_3563=done; spawn **rq_3564**; ticks=3563.
+- Next: **rq_3564 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
