@@ -35364,3 +35364,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@diogenes.brussels — general mailbox verified on the official site https://www.diogenes.brussels/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_diogenes_brussels_vaph_matrix_9900_2_31m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3252/; rq_3252=done; spawn **rq_3253**; ticks=3252.
 - Next: **rq_3253 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3253 — 2026-10-13T02:46:06Z — rq_3253 leftover dual Mission Locale pour l'emploi de Saint-Gilles Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Large Brussels social-work non-profits from a KBO activity-code scan (NACE 88.999, all Brussels postcodes; 523 legal persons not yet in the repo), chosen after the City of Brussels 2025 register tail became small; code 733 rows first, then code 9900, largest first: **Mission Locale pour l'emploi de Saint-Gilles** → KBO 0435.194.458 had 0 prior entity rows.
+- KBO: Actief since 29 februari 1988; VZW; zetel Waterlose Steenweg 255 1060 Sint-Gillis (bij-Brussel); 3 VE; 0 prior entity rows for 0435.194.458
+- Found: official NBB VKT-VZW native PDF **2026-00439454** (54285 B / 15p; AV 19-06-2026; neergelegd 28/08/2026; MD5 eca16289d3df9ec5b8ec5f2b608cafe8). VKT-VZW 9900 **EUR2218009** (+6.22%); 62 **EUR2107814**; 9901 **EUR2423** (was 59375); 9904 3115; equity 580073; cash 732278; FTE 33,5 (was 32,2).
+- FOI address: contact@mlsg.be — general mailbox verified on the official site https://mlsg.be/pages/contact.html.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_mission_locale_saint_gilles_vaph_matrix_9900_2_22m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3253/; rq_3253=done; spawn **rq_3254**; ticks=3253.
+- Next: **rq_3254 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
