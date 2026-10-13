@@ -40610,3 +40610,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: hello@shedidit.be — general mailbox verified on the official site https://www.shedidit.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_shedidit_berchem_vaph_matrix_9900_0_69m_9901_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3777/; rq_3777=done; spawn **rq_3778**; ticks=3777.
 - Next: **rq_3778 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3778 — 2026-10-13T21:22:48Z — rq_3778 leftover dual Koning Kevin Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Koning Kevin** → KBO 0418.712.277 had 0 prior entity rows.
+- KBO: Actief since 12 oktober 1978; VZW; zetel Kapellekensweg 2 3010 Leuven; 1 VE; 0 prior entity rows for 0418.712.277
+- Found: official NBB VKT-VZW native PDF **2026-00078345** (51971 B / 15p; AV 28-03-2026; neergelegd 13/04/2026; MD5 bc74c8ba45fa0ab8d8c893419ba7017c). VKT-VZW 9900 **EUR682880** (-3.53%); 62 **EUR641504**; 9901 **EUR21774** (was -1718); 9904 30529; equity 414502; cash 326716; FTE 9,5 (was 10,2).
+- FOI address: info@koningkevin.be — general mailbox verified on the official site https://www.koningkevin.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_koning_kevin_leuven_vaph_matrix_9900_0_68m_9901_22k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3778/; rq_3778=done; spawn **rq_3779**; ticks=3778.
+- Next: **rq_3779 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
