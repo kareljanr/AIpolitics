@@ -38920,3 +38920,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@dbroej.be — general mailbox verified on the official site https://dbroej.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_dbroej_molenbeek_vaph_matrix_9900_4_05m_9901_loss_136k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3608/; rq_3608=done; spawn **rq_3609**; ticks=3608.
 - Next: **rq_3609 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3609 — 2026-10-13T15:45:30Z — rq_3609 leftover dual Africalia Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Africalia** → KBO 0474.198.059 had 0 prior entity rows.
+- KBO: Actief since 4 december 2000; VZW; zetel Congresstraat 13 1000 Brussel; 1 VE; 0 prior entity rows for 0474.198.059
+- Found: official NBB VKT-VZW native PDF **2026-00274142** (425330 B / 19p; AV 22-06-2026; neergelegd 09/07/2026; MD5 460598b19086728c9b8d7a16dd15f576). VKT-VZW 9900 **EUR2936740** (+76.03%); 62 **EUR617872**; 9901 **EUR20361** (was 10115); 9904 3477; equity 298240; cash 1345790; FTE 9,7 (was 8,5).
+- FOI address: africalia@africalia.be — general mailbox verified on the official site https://www.africalia.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_africalia_bruxelles_vaph_matrix_9900_2_94m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3609/; rq_3609=done; spawn **rq_3610**; ticks=3609.
+- Next: **rq_3610 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
