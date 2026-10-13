@@ -37280,3 +37280,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cego.be — general mailbox verified on the official site https://www.cego.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_cego_leuven_vaph_matrix_9900_0_62m_9901_22k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3444/; rq_3444=done; spawn **rq_3445**; ticks=3444.
 - Next: **rq_3445 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3445 — 2026-10-13T10:13:23Z — rq_3445 leftover dual Talbot House Poperinge YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Talbot House** → KBO 0410.521.222 had 0 prior entity rows.
+- KBO: Actief since 5 april 1930; VZW; zetel Gasthuisstraat 43 8970 Poperinge; 1 VE; 0 prior entity rows for 0410.521.222
+- Found: official NBB VKT-VZW native PDF **2026-00156723** (53436 B / 14p; AV 30-05-2026; neergelegd 12/06/2026; MD5 1ba20d61e13e7ff92a034ca3a8942f4d). VKT-VZW 9900 **EUR518387** (+14.84%); 62 **EUR418328**; 9901 **EUR4373** (was -124665); 9904 13044; equity 487639; cash 121916; FTE 6,2 (was 6,7).
+- FOI address: info@talbothouse.be — general mailbox verified on the official site https://www.talbothouse.be/nl/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_talbot_house_poperinge_vaph_matrix_9900_0_52m_9901_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3445/; rq_3445=done; spawn **rq_3446**; ticks=3445.
+- Next: **rq_3446 leftover dual** — Batch done; the completed 88.91x / 94.xxx / 55.20x / 58.1x / 59.1x scan gave no further code 733 rows, so these are code 9900 leftovers. Next: Médiathèque Nouvelle (code 733, site still unreachable), triage of the fresh 22-family scan (85.4x / 90.0x / 91.0x / 93.29x and others; still running) for code 733 filers, then SONEFA / Crèches de Schaerbeek (code 733, no own-site mailbox yet)..
