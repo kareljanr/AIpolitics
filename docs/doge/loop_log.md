@@ -37170,3 +37170,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@debarkentijn.be — general mailbox verified on the official site https://www.debarkentijn.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_de_barkentijn_nieuwpoort_vaph_matrix_9900_1_67m_9901_208k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3433/; rq_3433=done; spawn **rq_3434**; ticks=3433.
 - Next: **rq_3434 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3434 — 2026-10-13T09:42:07Z — rq_3434 leftover dual dOT Schaerbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **dOT** → KBO 0794.443.658 had 0 prior entity rows.
+- KBO:  since ; VZW; zetel ;  VE; 0 prior entity rows for 0794.443.658
+- Found: official NBB VKT-VZW native PDF **2026-00169320** (52847 B / 14p; AV 12-06-2026; neergelegd 17/06/2026; MD5 d3037dbcf5f2a39f9423320d22741867). VKT-VZW 9900 **EUR1465215** (+5.76%); 62 **EUR1348677**; 9901 **EUR105939** (was -80844); 9904 110479; equity 529320; cash 530337; FTE 18,3 (was 20,4).
+- FOI address: dot.administratie@dotvzw.be — administration role mailbox verified on the official site https://dotvzw.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_dot_vzw_schaerbeek_vaph_matrix_9900_1_47m_9901_106k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3434/; rq_3434=done; spawn **rq_3435**; ticks=3434.
+- Next: **rq_3435 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
