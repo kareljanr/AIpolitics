@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T08:48:45Z,rq_3397,3397,no,tick3397 leftover dual Mentes Mechelen 0716.787.834 Strong PDF 2026-00061729 9900 10.58m / 9901 loss 119k; next rq_3398 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T08:48:57Z,rq_3398,3398,no,tick3398 leftover dual Archipel Ixelles 0416.289.158 Strong PDF 2026-00217862 9900 6.52m / 9901 28k; next rq_3399 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

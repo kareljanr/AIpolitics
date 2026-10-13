@@ -36810,3 +36810,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: infopunt@mentesvzw.be — information-point mailbox verified on the official site https://www.mentesvzw.be/contacteer-ons/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_mentes_mechelen_vaph_matrix_9900_10_58m_9901_loss_119k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3397/; rq_3397=done; spawn **rq_3398**; ticks=3397.
 - Next: **rq_3398 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3398 — 2026-10-13T08:48:57Z — rq_3398 leftover dual Archipel Ixelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Archipel** → KBO 0416.289.158 had 0 prior entity rows.
+- KBO: Actief since 9 juni 1976; VZW; zetel Lakenweversstraat 25 1050 Elsene; 33 VE; 0 prior entity rows for 0416.289.158
+- Found: official NBB VKT-VZW native PDF **2026-00217862** (1314943 B / 32p; AV 12-06-2026; neergelegd 25/06/2026; MD5 38028e030b74aa0fe446ee4f52670f19). VKT-VZW 9900 **EUR6515490** (+5.80%); 62 **EUR6418307**; 9901 **EUR28483** (was 13209); 9904 31558; equity 1130610; cash 1239826; FTE 94,6 (was 93,2).
+- FOI address: info@archipel.be — general mailbox verified on the official site https://archipel.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_archipel_ixelles_vaph_matrix_9900_6_52m_9901_28k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3398/; rq_3398=done; spawn **rq_3399**; ticks=3398.
+- Next: **rq_3399 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
