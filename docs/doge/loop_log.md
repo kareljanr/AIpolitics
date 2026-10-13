@@ -39580,3 +39580,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@dynamautes.be — general mailbox verified on the official site https://www.dynamautes.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_dynamautes_forest_vaph_matrix_9900_0_32m_9901_loss_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3674/; rq_3674=done; spawn **rq_3675**; ticks=3674.
 - Next: **rq_3675 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3675 — 2026-10-13T16:35:14Z — rq_3675 leftover dual Interm'Aide Verviers YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Interm'Aide** → KBO 0886.533.082 had 0 prior entity rows.
+- KBO: Actief since 18 januari 2007; VZW; zetel Rue de la Banque 10 4800 Verviers; 1 VE; 0 prior entity rows for 0886.533.082
+- Found: official NBB MIC-VZW native PDF **2026-00238084** (37985 B / 9p; AV 21-05-2026; neergelegd 30/06/2026; MD5 25e58a528247f8ae1e8f522eb23aaf91). MIC-VZW 9900 **EUR312927** (+3.31%); 62 **EUR302195**; 9901 **EUR2879** (was 6560); 9904 3331; equity 33718; cash 80328; FTE n/a.
+- FOI address: secretariat@intermaide.be — secretariat mailbox verified on the official site https://intermaide.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_intermaide_verviers_vaph_matrix_9900_0_31m_9901_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3675/; rq_3675=done; spawn **rq_3676**; ticks=3675.
+- Next: **rq_3676 leftover dual** — Batch done (3666-3675); code 9900 rows from bounded KBO scans nscan5 (NACE-BEL 2025 88101, 88991, 88999, 94999 on 23 further postcodes) and nscan4 leftovers, largest first; the one code 733 filer found (Centre La Clairière) has no general mailbox on its own site (Médiathèque Nouvelle still unreachable). Next: further code 9900 rows from nscan5, largest first..
