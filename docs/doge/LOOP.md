@@ -45,6 +45,7 @@ Do **not** claim L5 near-complete of €348 bn. Taxex/FFS sit **off** the TE pie
 | File | Role |
 |------|------|
 | `data/research_queue.csv` | What to investigate next |
+| `data/archive/research_queue_done_*.csv` | Completed (`done`) research_queue rows, archived by id range (same header, each < 45 MB); not read by the loop |
 | `data/foi_queue.csv` | Missing info → letters |
 | `data/leaderboard.csv` | Public waste ranking |
 | `data/commitments.csv` | Multi-year money |
