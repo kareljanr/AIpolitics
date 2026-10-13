@@ -40040,3 +40040,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3720 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3720 run locally as fallback.
 - Next: **rq_3720** — code 9900 (NOT subsidy amounts): Edelweiss (EUR0.57m, micro), Bouworde (EUR0.36m), Atelier Circuler (EUR0.30m, micro), E.V.A.-Centrum (EUR0.25m, micro), Missing You (EUR0.24m, micro); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scans nscan9/nscan8.
+
+
+## Tick 3721 — 2026-10-13T17:28:58Z — rq_3720 leftover dual Edelweiss Houdeng-Goegnies YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Edelweiss** → KBO 0440.645.759 had 0 prior entity rows.
+- KBO: Actief since 16 mei 1989; VZW; zetel Chaussée Paul Houtart(H-G) 219 7110 La Louvière; 1 VE; 0 prior entity rows for 0440.645.759
+- Found: official NBB MIC-VZW native PDF **2026-00124394** (905840 B / 18p; AV 22-05-2026; neergelegd 28/05/2026; MD5 f8ada24d77d9efb15cf547b82c1971e1). MIC-VZW 9900 **EUR571508** (-0.64%); 62 **EUR512614**; 9901 **EUR14849** (was 49865); 9904 18183; equity 298666; cash 283254; FTE n/a.
+- FOI address: contact@edelweissasbl.be — general mailbox verified on the official site https://edelweissasbl.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_edelweiss_la_louviere_vaph_matrix_9900_0_57m_9901_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3721/; rq_3720=done; spawn **rq_3722**; ticks=3721.
+- Next: **rq_3722 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

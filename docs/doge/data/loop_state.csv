@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T17:28:52Z,every10_3720,3720,no,"tick3720 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3700 carried open; next Edelweiss, Bouworde, Atelier Circuler, E.V.A.-Centrum, Missing You (code 9900, nscan9)"
+main,continuous,hole_fill,2026-10-13T17:28:58Z,rq_3720,3721,no,tick3721 leftover dual Edelweiss Houdeng-Goegnies 0440.645.759 Strong PDF 2026-00124394 9900 0.57m / 9901 15k; next rq_3722 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
