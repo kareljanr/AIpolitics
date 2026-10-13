@@ -38500,3 +38500,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@domeinpolderwind.be — general mailbox verified on the official site https://www.domeinpolderwind.be/wettelijke-vermeldingen (which lists the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_rode_kruishotel_zuienkerke_vaph_matrix_733_0_52m_9901_18k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3566/; rq_3566=done; spawn **rq_3567**; ticks=3566.
 - Next: **rq_3567 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3567 — 2026-10-13T15:08:08Z — rq_3567 leftover dual Centre de Planning Familial et de Consultations d'Uccle Uccle YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre de Planning Familial et de Consultations d'Uccle** → KBO 0409.145.505 had 0 prior entity rows.
+- KBO: Actief since 18 februari 1969; VZW; zetel Stallestraat 24 1180 Ukkel; 1 VE; 0 prior entity rows for 0409.145.505
+- Found: official NBB VKT-VZW native PDF **2026-00473614** (780873 B / 12p; AV 19-05-2026; neergelegd 31/08/2026; MD5 945a7277d39858ea051bab77eb37a6e9). VKT-VZW 9900 **EUR563107** (-3.55%); 62 **EUR530822**; 9901 **EUR7597** (was -3282); 9904 4906; equity 159986; cash 116982; FTE 8 (was 8).
+- FOI address: administration@planninguccle.be — administrative role mailbox verified on the official site https://www.planninguccle.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_planning_uccle_vaph_matrix_9900_0_56m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3567/; rq_3567=done; spawn **rq_3568**; ticks=3567.
+- Next: **rq_3568 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
