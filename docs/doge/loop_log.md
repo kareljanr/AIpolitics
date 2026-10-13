@@ -35094,3 +35094,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@lesgrillons.be — general mailbox verified on the official site https://www.lesgrillons.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_les_grillons_chaudfontaine_vaph_matrix_9900_1_43m_9901_loss_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3225/; rq_3225=done; spawn **rq_3226**; ticks=3225.
 - Next: **rq_3226 leftover dual** — Batch done; skipped for mailbox (5-min cap): Emeraude Nivelles (EUR3.34m, Wix page, mailbox not readable), La Boulaie Chimay (EUR2.48m, no official site found), CEJIEL Liège (EUR1.60m, mailbox not on fetched page); Flemish care scan (NACE 88.103 / 87.203, Flemish postcodes) found no large new 733 filer; next: Le Pré-Texte Uccle, Les Bleuets, Le Bailou after a mailbox check.
+
+
+## Tick 3226 — 2026-10-13T02:24:27Z — rq_3226 leftover dual Bravvo (Bruxelles) Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Largest recipients in the official City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025) not yet in the repo, cross-checked with the NBB filing: **Bravvo (Bruxelles)** → KBO 0862.382.755 had 0 prior entity rows.
+- KBO: Actief since 24 december 2003; VZW; zetel Hallenstraat 4 1000 Brussel; 1 VE; 0 prior entity rows for 0862.382.755
+- Found: official NBB VOL-VZW native PDF **2026-00257750** (6616048 B / 52p; AV 04-06-2026; neergelegd 03/07/2026; MD5 6be8c556366f390aad4915a461b28e25). VOL-VZW 73 contributions, gifts, legacies and subsidies, not split (NOT subsidies alone) **EUR19950646** (+0.81%); 62 **EUR17289641**; 9901 **EUR753621** (was 151229); 9904 772569; equity 1360932; cash 2187188; FTE 286 (was 295).
+- FOI address: infoprevention@brucity.be — general mailbox verified on the official site https://bravvo.bruxelles.be/avis (prevention-service mailbox of this ASBL).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_bravvo_bruxelles_code73_subsidy_split_73_contrib-gifts-legacies-subsidies-not-split_19_95m_9901_754k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3226/; rq_3226=done; spawn **rq_3227**; ticks=3226.
+- Next: **rq_3227 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
