@@ -37120,3 +37120,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@media-animation.be — general mailbox verified on the official site https://media-animation.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_media_animation_bruxelles_vaph_matrix_9900_3_06m_9901_194k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3428/; rq_3428=done; spawn **rq_3429**; ticks=3428.
 - Next: **rq_3429 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3429 — 2026-10-13T09:40:05Z — rq_3429 leftover dual Centre d'Action Laïque Ixelles (Campus Plaine ULB) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre d'Action Laïque** → KBO 0409.110.069 had 0 prior entity rows.
+- KBO: Actief since 29 maart 1969; VZW; zetel Campus Plaine ULB CP 236 1050 Elsene Extra adresinfo: CAM; 1 VE; 0 prior entity rows for 0409.110.069
+- Found: official NBB VKT-VZW native PDF **2026-00135466** (1525593 B / 27p; AV 28-03-2026; neergelegd 01/06/2026; MD5 1d1a1f572bf0a99cd70ae346c9707d7d). VKT-VZW 9900 **EUR2325524** (+5.66%); 62 **EUR1308536**; 9901 **EUR6675** (was 1614); 9904 -3859; equity 1886001; cash 824952; FTE 16,1 (was 16,8).
+- FOI address: info@laicite.be — general mailbox verified on the official site https://www.laicite.be/contact/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_centre_d_action_laique_vaph_matrix_9900_2_33m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3429/; rq_3429=done; spawn **rq_3430**; ticks=3429.
+- Next: **rq_3430 leftover dual** — Batch done; the finished scan pages gave no further usable code 733 rows (Vlaamse Jeugdherbergen code 733 line blank), so all nine are code 9900 leftovers. Next: Médiathèque Nouvelle (code 733, site still unreachable), the still-running 88.91x / 94.xxx / 55.20x / 52.2x / 59.1x / 58.1x scan pages, then SONEFA / Crèches de Schaerbeek (code 733, no own-site mailbox yet)..
