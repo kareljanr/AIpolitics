@@ -39230,3 +39230,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@demaakbaremens.org — general mailbox verified on the official site https://www.demaakbaremens.org/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_de_maakbare_mens_antwerpen_vaph_matrix_9900_0_58m_9901_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3639/; rq_3639=done; spawn **rq_3640**; ticks=3639.
 - Next: **rq_3640 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3640 — 2026-10-13T16:04:16Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3213** of 3268 rows; inventory budgets 64430 · commitments 7268 · leaderboard 9386 · entities 3286 · sources 10737.
+- Top10: **stable** (3631-3639 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3631-3639: Digital for Youth.be · Trage Wegen · Karavaan · CLIF · Vogelbescherming Vlaanderen · Kaléidos · Le Choix · Banlieues · De Maakbare Mens.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3640 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3640 run locally as fallback.
+- Next: **rq_3640** — code 9900 (NOT subsidy amounts): CMGV (EUR0.57m), AJILE (EUR0.56m), Kind en Samenleving (EUR0.53m), Poëziecentrum (EUR0.52m), Le Fil (EUR0.51m); mailboxes verified on official sites, after the dedup check. Then a new bounded KBO scan.
