@@ -40910,3 +40910,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vzwvictor.be — general mailbox verified on the official site https://www.vzwvictor.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_victor_roeselare_vaph_matrix_9900_2_68m_9901_91k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3807/; rq_3807=done; spawn **rq_3808**; ticks=3807.
 - Next: **rq_3808 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3808 — 2026-10-13T22:21:20Z — rq_3808 leftover dual Museum Dr. Guislain Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Museum Dr. Guislain** → KBO 0893.866.084 had 0 prior entity rows.
+- KBO: Actief since 30 november 2007; VZW; zetel Jozef Guislainstraat 43 9000 Gent; 1 VE; 0 prior entity rows for 0893.866.084
+- Found: official NBB VKT-VZW native PDF **2026-00346217** (53378 B / 14p; AV 16-03-2026; neergelegd 29/07/2026; MD5 f867bdbdf82acecc7f77b5ec6e0f446b). VKT-VZW 9900 **EUR1573102** (-3.89%); 62 **EUR1403267**; 9901 **EUR75910** (was 87829); 9904 54358; equity 572110; cash 40942; FTE 19,1 (was 20,6).
+- FOI address: info@museumdrguislain.be — general mailbox verified on the official site https://www.museumdrguislain.be/nl/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_museum_dr_guislain_gent_vaph_matrix_9900_1_57m_9901_76k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3808/; rq_3808=done; spawn **rq_3809**; ticks=3808.
+- Next: **rq_3809 leftover dual** — Partial batch (3805-3808); recipients from the Flemish Subsidieregister 2025_V01 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; file kept outside the repo), non-profit filers not yet in the data ranked by toegekend; amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest verstrekker cited per row. Skipped: Kazou and S-PLUS (mutualite-linked), De Vormers (trade-union training body), Bellenblaaz, Rosas, Solidariteit Antwerpen and Mirabello (no general mailbox or no address on own site), 4veld (mailbox on group domain), Flagey and Kind in Nood (site unreachable). Next: remaining Subsidieregister candidates (/workspace/subreg/cands.tsv)..
