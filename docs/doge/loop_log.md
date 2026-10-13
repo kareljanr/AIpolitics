@@ -37510,3 +37510,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@asblletraversier.be — general mailbox verified on the official site https://www.asblletraversier.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_le_traversier_braine_l_alleud_vaph_matrix_9900_1_88m_9901_22k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3467/; rq_3467=done; spawn **rq_3468**; ticks=3467.
 - Next: **rq_3468 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3468 — 2026-10-13T11:16:14Z — rq_3468 leftover dual Uit de Marge Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Uit de Marge** → KBO 0434.994.718 had 0 prior entity rows.
+- KBO: Actief since 23 januari 1987; VZW; zetel Gitschotellei 119 2600 Antwerpen; 1 VE; 0 prior entity rows for 0434.994.718
+- Found: official NBB VKT-VZW native PDF **2026-00172261** (482229 B / 17p; AV 26-03-2026; neergelegd 18/06/2026; MD5 f89cee067e6255ae3040ff822134ca6c). VKT-VZW 9900 **EUR1685934** (-21.11%); 62 **EUR1870146**; 9901 **EUR-227204** (was 303238); 9904 -236636; equity 904755; cash 1050866; FTE 25,1 (was 26,7).
+- FOI address: info@uitdemarge.be — general mailbox verified on the official site https://www.uitdemarge.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_uit_de_marge_antwerpen_vaph_matrix_9900_1_69m_9901_loss_227k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3468/; rq_3468=done; spawn **rq_3469**; ticks=3468.
+- Next: **rq_3469 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

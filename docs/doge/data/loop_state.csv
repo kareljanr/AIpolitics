@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T11:16:02Z,rq_3467,3467,no,tick3467 leftover dual Le Traversier Braine-l'Alleud 0881.698.623 Strong PDF 2026-00250139 9900 1.88m / 9901 22k; next rq_3468 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T11:16:14Z,rq_3468,3468,no,tick3468 leftover dual Uit de Marge Antwerpen 0434.994.718 Strong PDF 2026-00172261 9900 1.69m / 9901 loss 227k; next rq_3469 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
