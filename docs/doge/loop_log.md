@@ -39030,3 +39030,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@compagniecordial.be — general mailbox verified on the official site https://www.compagniecordial.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_compagnie_cordial_gent_vaph_matrix_9900_1_13m_9901_116k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3619/; rq_3619=done; spawn **rq_3620**; ticks=3619.
 - Next: **rq_3620 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3620 — 2026-10-13T15:52:11Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3195** of 3250 rows; inventory budgets 64285 · commitments 7250 · leaderboard 9368 · entities 3268 · sources 10683.
+- Top10: **stable** (3611-3619 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3611-3619: CBAI · Mpact · Créahm Région wallonne · Solidarcité · Brussels Ouderenplatform · Ombudsfin · APEDAF · Atout Projet · Compagnie Cordial.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3620 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3620 run locally as fallback.
+- Next: **rq_3620** — code 9900 (NOT subsidy amounts): De Schoolbrug (EUR1.12m), BioForum (EUR0.98m), Badje (EUR0.87m), Bond zonder Naam Sociaal Cultureel Werk (EUR0.82m), Make-A-Wish Belgium-Vlaanderen (EUR0.80m); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scan of 7 NACE-BEL 2025 codes (finished, triaged).
