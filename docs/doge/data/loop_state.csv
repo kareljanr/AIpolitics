@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T12:14:40Z,rq_3520,3521,no,tick3521 leftover dual Adoptiehuis Antwerpen 0420.405.225 Strong PDF 2026-00395597 9900 0.81m / 9901 loss 37k; next rq_3522 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T12:14:50Z,rq_3522,3522,no,tick3522 leftover dual Mosaïque - Service d'Intervention Jeunes-Familles Visé 0479.405.672 Strong PDF 2026-00237697 9900 0.81m / 9901 loss 0k; next rq_3523 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

@@ -38050,3 +38050,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@adoptiehuis.be — general mailbox verified on the official site https://adoptiehuis.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_adoptiehuis_antwerpen_vaph_matrix_9900_0_81m_9901_loss_37k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3521/; rq_3520=done; spawn **rq_3522**; ticks=3521.
 - Next: **rq_3522 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3522 — 2026-10-13T12:14:50Z — rq_3522 leftover dual Mosaïque - Service d'Intervention Jeunes-Familles Visé YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Mosaïque - Service d'Intervention Jeunes-Familles** → KBO 0479.405.672 had 0 prior entity rows.
+- KBO: Actief since 28 oktober 2002; VZW; zetel Avenue Franklin Roosevelt(VIS) 22 4600 Visé; 1 VE; 0 prior entity rows for 0479.405.672
+- Found: official NBB VKT-VZW native PDF **2026-00237697** (41808 B / 11p; AV 12-06-2026; neergelegd 30/06/2026; MD5 825c07c2ce104c043a226ea15f6c7bae). VKT-VZW 9900 **EUR810461** (-2.07%); 62 **EUR810011**; 9901 **EUR-197** (was 2095); 9904 2082; equity 10229; cash 710395; FTE 10,2.
+- FOI address: info@mosaiqueasbl.be — general mailbox verified on the official site https://www.mosaiqueasbl.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_mosaique_vise_vaph_matrix_9900_0_81m_9901_loss_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3522/; rq_3522=done; spawn **rq_3523**; ticks=3522.
+- Next: **rq_3523 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
