@@ -39290,3 +39290,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: equipe@lefil-asbl.be — general mailbox verified on the official site https://www.lefil-asbl.be/contact (Boulevard du Régent 28 = KBO seat Regentlaan 28).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_le_fil_bruxelles_vaph_matrix_9900_0_51m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3645/; rq_3645=done; spawn **rq_3646**; ticks=3645.
 - Next: **rq_3646 leftover dual** — Batch done (3636-3645); code 9900 rows from the bounded KBO scan (nscan3), largest first (Médiathèque Nouvelle still unreachable). Next: new bounded KBO scan of further codes/postcodes, code 733 first, then code 9900 largest first..
+
+
+## Tick 3646 — 2026-10-13T16:18:53Z — rq_3646 leftover dual Centre familial de Verviers Verviers YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre familial de Verviers** → KBO 0410.897.146 had 0 prior entity rows.
+- KBO: Actief since 11 juli 1959; VZW; zetel Place Général Jacques 4 4800 Verviers; 1 VE; 0 prior entity rows for 0410.897.146
+- Found: official NBB VKT-VZW native PDF **2026-00117913** (47833 B / 12p; AV 23-04-2026; neergelegd 18/05/2026; MD5 fe48e0ce6f74fc9502c3647143076fa3). VKT-VZW 9900 **EUR2696773** (+9.59%); 62 **EUR2715691**; 9901 **EUR-44482** (was -167275); 9904 -33212; equity 578030; cash 297100; FTE 46,9 (was 47,1).
+- FOI address: info@cfverviers.be — general mailbox verified on the official site https://cfverviers.be/2018/12/21/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_centre_familial_verviers_vaph_matrix_9900_2_70m_9901_loss_44k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3646/; rq_3646=done; spawn **rq_3647**; ticks=3646.
+- Next: **rq_3647 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
