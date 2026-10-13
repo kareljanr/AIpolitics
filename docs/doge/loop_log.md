@@ -36950,3 +36950,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vzwjong.be — general mailbox verified on the official site https://www.vzwjong.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_vzw_jong_gent_vaph_matrix_9900_4_62m_9901_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3411/; rq_3410=done; spawn **rq_3412**; ticks=3411.
 - Next: **rq_3412 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3412 — 2026-10-13T09:18:52Z — rq_3412 leftover dual Lejo Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Lejo** → KBO 0420.358.606 had 0 prior entity rows.
+- KBO: Actief since 18 december 1979; VZW; zetel Antwerpsesteenweg 701 9040 Gent; 5 VE; 0 prior entity rows for 0420.358.606
+- Found: official NBB VKT-VZW native PDF **2026-00076988** (50862 B / 13p; AV 26-03-2026; neergelegd 10/04/2026; MD5 db04bc5a13fe7b76ca82d49b8afde9bd). VKT-VZW 9900 **EUR4173022** (+15.21%); 62 **EUR4149177**; 9901 **EUR-9133** (was 66927); 9904 -10037; equity 1117162; cash 828497; FTE 59,9 (was 54).
+- FOI address: info@lejo.be — general mailbox verified on the official site https://www.lejo.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_lejo_gent_vaph_matrix_9900_4_17m_9901_loss_9k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3412/; rq_3412=done; spawn **rq_3413**; ticks=3412.
+- Next: **rq_3413 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
