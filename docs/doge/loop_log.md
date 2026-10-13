@@ -34572,3 +34572,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: liege.huy.waremme@lire-et-ecrire.be — regional office mailbox verified on official network contact page https://lire-et-ecrire.be/spip.php?page=contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_lee_liege_huy_waremme_vaph_matrix_9900_1_81m_9901_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3173/; rq_3173=done; spawn **rq_3174**; ticks=3173.
 - Next: **rq_3174 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3174 — 2026-10-13T00:39:46Z — rq_3174 leftover dual Lire et Ecrire Namur Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon/Brussels training, literacy and disability-service non-profits plus remaining university colleges (CISP/OISP training centres, Lire et Ecrire network, AVIQ medico-pedagogical institutes, Flemish hogescholen VZW); fresh KBO name searches (legal form ASBL/VZW; words such as Université/Universiteit, Hogeschool, Enseignement spécialisé/Buitengewoon onderwijs, Médico-pédagogique, CISP, Lire et Ecrire, Mission régionale, Centre de formation), filings ranked by NBB code 733 subsidies (full model) or code 9900 gross margin (abbreviated model), largest first; every candidate passed the name/alias/KBO/website dedup check: **Lire et Ecrire Namur** → KBO 0438.334.189 had 0 prior entity rows.
+- KBO: Actief since 22 december 1988; VZW; zetel Rue des Rèlîs Namurwès(NR) 1 5000 Namur; 1 VE; 0 prior entity rows for 0438.334.189
+- Found: official NBB VKT-VZW native PDF **2026-00271606** (521231 B / 32p; AV 19-06-2026; neergelegd 06/07/2026; MD5 bbf95ff631ced056ea830de1a483a3d2). VKT-VZW 9900 **EUR1234405** (-9.50%); 62 **EUR1192542**; 9901 **EUR172** (was 16110); 9904 34; equity 188653; cash 167729; FTE 17 (was 18,3).
+- FOI address: namur@lire-et-ecrire.be — regional office mailbox verified on official network contact page https://lire-et-ecrire.be/spip.php?page=contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_lee_namur_vaph_matrix_9900_1_23m_9901_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3174/; rq_3174=done; spawn **rq_3175**; ticks=3174.
+- Next: **rq_3175 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

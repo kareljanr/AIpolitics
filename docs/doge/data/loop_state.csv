@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T00:39:35Z,rq_3173,3173,no,tick3173 leftover dual Lire et Ecrire Liège-Huy-Waremme Liège 0438.385.461 Strong PDF 2026-00170417 9900 1.81m / 9901 5k; next rq_3174 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T00:39:46Z,rq_3174,3174,no,tick3174 leftover dual Lire et Ecrire Namur Namur 0438.334.189 Strong PDF 2026-00271606 9900 1.23m / 9901 0k; next rq_3175 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
