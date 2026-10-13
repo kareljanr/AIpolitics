@@ -39690,3 +39690,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@amo-noh.net — general mailbox verified on the official site https://amo-noh.net/?page_id=14 (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_amo_de_noh_neder_over_heembeek_vaph_matrix_9900_0_52m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3685/; rq_3685=done; spawn **rq_3686**; ticks=3685.
 - Next: **rq_3686 leftover dual** — Batch done (3676-3685); code 9900 rows from bounded KBO scan nscan5, largest first; no qualifying code 733 filer (Médiathèque Nouvelle still unreachable). Next: further code 9900 rows from nscan5, largest first, or a new bounded scan..
+
+
+## Tick 3686 — 2026-10-13T16:47:48Z — rq_3686 leftover dual Iles de Paix Huy YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Iles de Paix** → KBO 0408.908.151 had 0 prior entity rows.
+- KBO: Actief since 14 januari 1965; VZW; zetel Rue du Marché 37 4500 Huy; 2 VE; 0 prior entity rows for 0408.908.151
+- Found: official NBB VOL-VZW native PDF **2026-00181072** (2616523 B / 47p; AV 20-06-2026; neergelegd 22/06/2026; MD5 dbf350df2a4320bfbd56181d8d777bd2). VOL-VZW 733 **EUR4089945** (+0.07%); 62 **EUR2743888**; 9901 **EUR-311800** (was 275323); 9904 -246433; equity 11175742; cash 2640121; FTE 75 (was 79).
+- FOI address: info@ilesdepaix.org — general mailbox verified on the official site https://www.ilesdepaix.org/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_iles_de_paix_huy_vaph_matrix_733_4_09m_9901_loss_312k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3686/; rq_3686=done; spawn **rq_3687**; ticks=3686.
+- Next: **rq_3687 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
