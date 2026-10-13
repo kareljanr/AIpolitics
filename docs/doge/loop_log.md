@@ -35184,3 +35184,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@mad.brussels — general mailbox verified on the official site https://mad.brussels/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_mad_brussels_vaph_matrix_9900_1_07m_9901_48k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3234/; rq_3234=done; spawn **rq_3235**; ticks=3234.
 - Next: **rq_3235 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3235 — 2026-10-13T02:27:23Z — rq_3235 leftover dual Ecole de Sports de l'ULB (ULB Sports) Ixelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Largest recipients in the official City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025) not yet in the repo, cross-checked with the NBB filing: **Ecole de Sports de l'ULB (ULB Sports)** → KBO 0439.471.366 had 0 prior entity rows.
+- KBO: Actief since 17 november 1988; VZW; zetel Franklin Rooseveltlaan 50 1050 Brussel; 2 VE; 0 prior entity rows for 0439.471.366
+- Found: official NBB VKT-VZW native PDF **2026-00095971** (44903 B / 13p; AV 31-03-2026; neergelegd 30/04/2026; MD5 5935291947119c7585985326b4955b13). VKT-VZW 9900 **EUR1449406** (-3.53%); 62 **EUR1275885**; 9901 **EUR143335** (was 2385); 9904 144346; equity 845032; cash 571260; FTE 19,7 (was 22,1).
+- FOI address: ulbsports@ulb.be — general mailbox verified on the official site https://www.ulbsports.eu/contactsinfos.aspx.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ecole_sports_ulb_vaph_matrix_9900_1_45m_9901_143k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3235/; rq_3235=done; spawn **rq_3236**; ticks=3235.
+- Next: **rq_3236 leftover dual** — Batch done; skipped: Police zone and CPAS Brussels (no NBB filing), Association Hospitalière entities and Bains de Bruxelles / Bruxelles enseignement (no verified general mailbox), Brufête (umbrella city mailbox), BME-Expositions/Cuisines Bruxelloises/Transit/Brigittines (no 2025-12 filing), Théâtre du Parc (June year end), Prosport/Peymey/Montagne magique/Amis HUDERF (mailbox not verifiable in 5 min); Flemish subsidy register and FWB cadastre unreachable from the runner; next: ASH 0443.559.917, Espace Magh, Musée Juif, BAPA BXL after a mailbox check.
