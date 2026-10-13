@@ -36480,3 +36480,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: cresam@cresam.be — general mailbox verified on the official site https://www.cresam.be/contact/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_cresam_namur_vaph_matrix_9900_1_43m_9901_loss_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3364/; rq_3364=done; spawn **rq_3365**; ticks=3364.
 - Next: **rq_3365 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3365 — 2026-10-13T07:04:36Z — rq_3365 leftover dual Réseau des médias de proximité Namur (Erpent) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.120 / 94.110 / 91.xxx / 93.1xx / 49.390 / 81.300 / 01.610 / 02.400 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Réseau des médias de proximité** → KBO 0419.404.937 had 0 prior entity rows.
+- KBO: Actief since 26 februari 1979; VZW; zetel Pl. des Jardins de Baseilles(EP) 19 bus 15 5101 Namur; 1 VE; 0 prior entity rows for 0419.404.937
+- Found: official NBB VKT-VZW native PDF **2026-00162610** (396581 B / 29p; AV 21-05-2026; neergelegd 09/06/2026; MD5 b8b66124626ec23512940d15a332640b). VKT-VZW 9900 **EUR1302206** (-5.05%); 62 **EUR893077**; 9901 **EUR52312** (was 21676); 9904 45321; equity 969074; cash 248906; FTE 10,4 (was 11,1).
+- FOI address: info@rmdp.be — general mailbox verified on the official site https://www.mediasdeproximite.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_rmdp_namur_vaph_matrix_9900_1_30m_9901_52k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3365/; rq_3365=done; spawn **rq_3366**; ticks=3365.
+- Next: **rq_3366 leftover dual** — Batch done; the 94/91/93/49/81/01-02 scans gave two new code 733 rows (Santhea, Fost Plus); the rest are code 9900 fallbacks from professional bodies. Next: Médiathèque Nouvelle (code 733, site unreachable this batch), then remaining 9900 leftovers largest first..
