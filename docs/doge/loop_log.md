@@ -36200,3 +36200,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@meunyckenhof.be — general mailbox verified on the official site https://meunyckenhof.be/nl/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_koekelare); FOI **gap_zorggroep_houtland_koekelare_vaph_matrix_733_1_09m_9901_93k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3336/; rq_3336=done; spawn **rq_3337**; ticks=3336.
 - Next: **rq_3337 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3337 — 2026-10-13T06:17:02Z — rq_3337 leftover dual Marienheim Raeren Raeren YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Marienheim Raeren** → KBO 0410.549.233 had 0 prior entity rows.
+- KBO: Actief since 29 maart 1924; VZW; zetel Spitalstrasse 60 4730 Raeren; 1 VE; 0 prior entity rows for 0410.549.233
+- Found: official NBB VOL-VZW native PDF **2026-00232641** (911220 B / 48p; AV 25-06-2026; neergelegd 01/07/2026; MD5 bbddf3d5bb4fb170a8ce3aedde4d3222). VOL-VZW 733 **EUR424089** (+0.03%); 62 **EUR8123114**; 9901 **EUR687834** (was 499077); 9904 764530; equity 11683417; cash 1387143; FTE 120,9 (was 119,8).
+- FOI address: info@marienheim.be — general mailbox verified on the official site https://www.marienheim.be/allgemeines/impressum (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_marienheim_raeren_vaph_matrix_733_0_42m_9901_688k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3337/; rq_3337=done; spawn **rq_3338**; ticks=3337.
+- Next: **rq_3338 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
