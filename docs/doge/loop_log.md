@@ -38710,3 +38710,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@hannibalvakanties.be — general mailbox verified on the official site https://hannibalvakanties.be/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_hannibalvakanties_antwerpen_vaph_matrix_9900_0_39m_9901_18k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3587/; rq_3587=done; spawn **rq_3588**; ticks=3587.
 - Next: **rq_3588 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3588 — 2026-10-13T15:24:04Z — rq_3588 leftover dual I Solisti del Vento Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **I Solisti del Vento** → KBO 0458.503.063 had 0 prior entity rows.
+- KBO: Actief since 13 mei 1996; VZW; zetel Jan Van Rijswijcklaan 155 2018 Antwerpen; 1 VE; 0 prior entity rows for 0458.503.063
+- Found: official NBB VKT-VZW native PDF **2026-00113840** (47268 B / 12p; AV 28-04-2026; neergelegd 19/05/2026; MD5 e43b5f436328d3d54093deb4b20af9b1). VKT-VZW 9900 **EUR381479** (-12.37%); 62 **EUR389246**; 9901 **EUR-11194** (was 23762); 9904 -11230; equity 82907; cash 56469; FTE 4 (was 6,7).
+- FOI address: info@isolisti.be — general mailbox verified on the official site https://www.isolisti.be/en/about-us (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_i_solisti_del_vento_antwerpen_vaph_matrix_9900_0_38m_9901_loss_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3588/; rq_3588=done; spawn **rq_3589**; ticks=3588.
+- Next: **rq_3589 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
