@@ -37950,3 +37950,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@amojeunest.be — general mailbox verified on the official site https://www.amojeunest.be/amo/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_amo_jeunest_jodoigne_vaph_matrix_9900_0_92m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3511/; rq_3510=done; spawn **rq_3512**; ticks=3511.
 - Next: **rq_3512 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3512 — 2026-10-13T12:05:51Z — rq_3512 leftover dual Inter-Actions Hannut YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Inter-Actions** → KBO 0439.785.330 had 0 prior entity rows.
+- KBO: Actief since 8 juni 1989; VZW; zetel Rue de Tirlemont 52 bus 1 4280 Hannut; 1 VE; 0 prior entity rows for 0439.785.330
+- Found: official NBB VKT-VZW native PDF **2026-00202600** (62765 B / 12p; AV 16-06-2026; neergelegd 19/06/2026; MD5 b214f17acf4f114fec72b0bc89cc4293). VKT-VZW 9900 **EUR919897** (-9.74%); 62 **EUR943569**; 9901 **EUR-53599** (was -6092); 9904 -51188; equity 149451; cash 384469; FTE 11,8 (was 12,3).
+- FOI address: info@interactionsasbl.be — general mailbox verified on the official site https://www.interactionsasbl.be/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_inter_actions_hannut_vaph_matrix_9900_0_92m_9901_loss_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3512/; rq_3512=done; spawn **rq_3513**; ticks=3512.
+- Next: **rq_3513 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
