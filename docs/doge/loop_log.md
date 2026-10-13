@@ -40770,3 +40770,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mobar.eu — general mailbox verified on the official site https://www.mobar.eu/nl/diensten/aangepast-rolstoelvervoer/aangepast-vervoer-regio-gent (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_mobar_gent_vaph_matrix_9900_0_41m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3793/; rq_3793=done; spawn **rq_3794**; ticks=3793.
 - Next: **rq_3794 leftover dual** — Partial batch (3783-3793); recipients found in the Gent and Brugge open-data subsidy lists already in data/raw (gent_subs_full.json, brugge_subs_full.json), amounts from the NBB 2025 filings (code 9900, NOT subsidy amounts); VIERNULVIER and De Korrelatie skipped (no general mailbox on own site), Stadmakers site unreachable, De Overmolen HTTP 500. Next: remaining Gent/Brugge list recipients..
+
+
+## Tick 3794 — 2026-10-13T22:05:07Z — rq_3794 leftover dual Symfonieorkest Vlaanderen Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Symfonieorkest Vlaanderen** → KBO 0411.022.553 had 0 prior entity rows.
+- KBO: Actief since 15 december 1960; VZW; zetel Bijlokekaai 3 9000 Gent; 1 VE; 0 prior entity rows for 0411.022.553
+- Found: official NBB VKT-VZW native PDF **2026-00494881** (52269 B / 14p; AV 06-05-2026; neergelegd 28/08/2026; MD5 172a0f26db53b76badbae169f1a7ee0e). VKT-VZW 9900 **EUR1584258** (+8.03%); 62 **EUR1504509**; 9901 **EUR45829** (was 108303); 9904 -30301; equity 190763; cash 313684; FTE 15,7 (was 9).
+- FOI address: info@symfonieorkest.be — general mailbox verified on the official site https://www.symfonieorkest.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_symfonieorkest_vlaanderen_gent_vaph_matrix_9900_1_58m_9901_46k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3794/; rq_3794=done; spawn **rq_3795**; ticks=3794.
+- Next: **rq_3795 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
