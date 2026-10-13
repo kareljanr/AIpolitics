@@ -39400,3 +39400,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@royalracing1891.be — secretariat mailbox verified on the official site https://www.royalracing1891.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_royal_racing_club_bruxelles_uccle_vaph_matrix_9900_0_79m_9901_42k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3656/; rq_3656=done; spawn **rq_3657**; ticks=3656.
 - Next: **rq_3657 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3657 — 2026-10-13T16:22:41Z — rq_3657 leftover dual Inser'action Saint-Josse-ten-Noode YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Inser'action** → KBO 0443.874.869 had 0 prior entity rows.
+- KBO: Actief since 17 januari 1991; VZW; zetel Sint-Franciscusstraat 48 1210 Sint-Joost-ten-Node; 1 VE; 0 prior entity rows for 0443.874.869
+- Found: official NBB MIC-VZW native PDF **2026-00225744** (38631 B / 9p; AV 12-06-2026; neergelegd 30/06/2026; MD5 279396fad23dae53f64e95af33cc155c). MIC-VZW 9900 **EUR750479** (+12.36%); 62 **EUR723720**; 9901 **EUR21305** (was 777); 9904 80754; equity 186607; cash 269670; FTE n/a.
+- FOI address: info@inseraction.be — general mailbox verified on the official site https://inseraction.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_inseraction_saint_josse_vaph_matrix_9900_0_75m_9901_21k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3657/; rq_3657=done; spawn **rq_3658**; ticks=3657.
+- Next: **rq_3658 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
