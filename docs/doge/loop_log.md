@@ -36080,3 +36080,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@centredemichamps.be — general mailbox verified on the official site https://www.centredemichamps.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_centre_michamps_bastogne_vaph_matrix_9900_1_36m_9901_216k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3324/; rq_3324=done; spawn **rq_3325**; ticks=3324.
 - Next: **rq_3325 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3325 — 2026-10-13T05:46:48Z — rq_3325 leftover dual Centre Vidéo de Bruxelles Schaerbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.101 / 72.109 (research) and 85.591 / 85.593 (education) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first; EU-level bodies excluded: **Centre Vidéo de Bruxelles** → KBO 0429.300.422 had 0 prior entity rows.
+- KBO: Actief since 18 januari 1984; VZW; zetel Poststraat 111 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0429.300.422
+- Found: official NBB VKT-VZW native PDF **2026-00115829** (52133 B / 14p; AV 14-04-2026; neergelegd 18/05/2026; MD5 0c34766f289852ba76b1a21be4867d86). VKT-VZW 9900 **EUR1243088** (+10.78%); 62 **EUR1268198**; 9901 **EUR-10107** (was 15369); 9904 -10656; equity 329944; cash 428051; FTE 16,3.
+- FOI address: info@cvb.be — general mailbox verified on the official site https://www.cvb.be/ (official site of this ASBL).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_centre_video_bruxelles_vaph_matrix_9900_1_24m_9901_loss_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3325/; rq_3325=done; spawn **rq_3326**; ticks=3325.
+- Next: **rq_3326 leftover dual** — Batch done; next: further unscanned codes (86/87 care, 84.xxx para-public, 90.xxx Flanders, German-speaking Community), code 733 rows first, then largest first. Skipped (5-min cap / mailbox rule): CRIBC and Praktijkpunt Landbouw (their sites show another KBO number), CER Groupe (group page with several KBO numbers), Certech (no mailbox), Ecole royale militaire (no general mailbox), CRM (site unreachable)..
