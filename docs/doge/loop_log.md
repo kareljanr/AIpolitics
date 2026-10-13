@@ -35494,3 +35494,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@canopea.be — general mailbox verified on the official site https://www.canopea.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_canopea_namur_vaph_matrix_9900_2_20m_9901_156k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3265/; rq_3265=done; spawn **rq_3266**; ticks=3265.
 - Next: **rq_3266 leftover dual** — Batch done; skipped (5-min cap / mailbox rule): Service social des Services du Gouvernement wallon (733 EUR11.19m; no mailbox on its own site), Vives Zuid / Vives Noord (733 EUR7.15m / EUR1.82m; only the shared hogeschool mailbox, umbrella stretch), TERRE (733 EUR3.18m; site lists another KBO), Rode Kruis-Vlaanderen (already in repo), ARC Titres-services (group mailbox only), Stichting tegen Kanker (only regional mailboxes), Onafhankelijke Thuiszorg Verenigingen (group brand mailbox), ISOCELE (service mailboxes only), IDEF Sambreville (no site found); NACE 85.599 triage stopped early (mostly small/companies).
+
+
+## Tick 3266 — 2026-10-13T04:04:10Z — rq_3266 leftover dual Centre Régional de la Petite Enfance (CRPE, Verviers) Verviers YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used: NACE 88.911 / 88.991 (childcare and day-care without accommodation) over Walloon, Brussels and Flemish postcodes (912 legal persons not yet in the repo, 418 triaged), plus remaining NACE 88.999 / 88.101 / 85.599 rows; code 733 rows first, then code 9900, largest first: **Centre Régional de la Petite Enfance (CRPE, Verviers)** → KBO 0415.608.673 had 0 prior entity rows.
+- KBO: Actief since 29 oktober 1975; VZW; zetel Rue des Martyrs 44 4800 Verviers; 5 VE; 0 prior entity rows for 0415.608.673
+- Found: official NBB VKT-VZW native PDF **2026-00441868** (55224 B / 15p; AV 17-06-2026; neergelegd 28/08/2026; MD5 eb8211bb87b4ed7a19cbe24c575314df). VKT-VZW 9900 **EUR6591131** (+3.77%); 62 **EUR6260743**; 9901 **EUR255854** (was 96315); 9904 270146; equity 1249574; cash 1402772; FTE 163,7 (was 130,9).
+- FOI address: info@crpe.be — general mailbox verified on the official site https://www.crpe.be/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_verviers); FOI **gap_crpe_verviers_vaph_matrix_9900_6_59m_9901_256k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3266/; rq_3266=done; spawn **rq_3267**; ticks=3266.
+- Next: **rq_3267 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
