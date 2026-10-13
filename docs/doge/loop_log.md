@@ -35670,3 +35670,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: mpc.info@museephoto.be — general mailbox verified on the official site https://www.museephoto.be/fr/informations-pratiques/Contact-fr.html.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_charleroi); FOI **gap_musee_photographie_charleroi_vaph_matrix_9900_1_81m_9901_loss_75k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3283/; rq_3283=done; spawn **rq_3284**; ticks=3283.
 - Next: **rq_3284 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3284 — 2026-10-13T04:46:35Z — rq_3284 leftover dual Espaces Tourisme & Culture (Abbaye de Stavelot) Stavelot YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used over Walloon, Brussels and Flemish postcodes: NACE 90.311 (arts venues) and 88.102 (635 legal persons not yet in the repo), NACE 90.111 and 91.210 (2,445), NACE 93.110 and 85.520 (4,272; mostly companies and small clubs, no code 733 row); code 733 rows first, then code 9900, largest first: **Espaces Tourisme & Culture (Abbaye de Stavelot)** → KBO 0467.748.648 had 0 prior entity rows.
+- KBO: Actief since 10 juni 1999; VZW; zetel Cour de l'Hôtel de ville 1 4970 Stavelot; 1 VE; 0 prior entity rows for 0467.748.648
+- Found: official NBB VKT-VZW native PDF **2026-00155661** (1147411 B / 20p; AV 09-06-2026; neergelegd 12/06/2026; MD5 86579f8813dd7ba14ee17a4e4f76323c). VKT-VZW 9900 **EUR1320672** (+1.46%); 62 **EUR1266120**; 9901 **EUR30127** (was 39834); 9904 29442; equity 560498; cash 556243; FTE 19,8 (was 20,2).
+- FOI address: etc@abbayedestavelot.be — general mailbox verified on the official site https://abbayedestavelot.be/contact/ (mailbox of the operating ASBL named on that page).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_espaces_tourisme_culture_stavelot_vaph_matrix_9900_1_32m_9901_30k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3284/; rq_3284=done; spawn **rq_3285**; ticks=3284.
+- Next: **rq_3285 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
