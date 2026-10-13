@@ -35700,3 +35700,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@scoutsengidsenvlaanderen.be — general mailbox verified on the official site https://scoutsengidsenvlaanderen.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_scouts_en_gidsen_vlaanderen_vaph_matrix_733_2_85m_9901_601k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3286/; rq_3286=done; spawn **rq_3287**; ticks=3286.
 - Next: **rq_3287 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3287 — 2026-10-13T04:57:48Z — rq_3287 leftover dual Les Scouts - Fédération des Scouts Baden-Powell de Belgique Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scan NACE 94.991 / 94.992 (other membership organisations) over Walloon, Brussels and Flemish postcodes (974 legal persons not yet in the repo); code 733 rows first, then code 9900, largest first: **Les Scouts - Fédération des Scouts Baden-Powell de Belgique** → KBO 0409.580.916 had 0 prior entity rows.
+- KBO: Actief since 20 juli 1932; VZW; zetel Dublinstraat 21 1050 Elsene; 4 VE; 0 prior entity rows for 0409.580.916
+- Found: official NBB VKT-VZW native PDF **2026-00187791** (399633 B / 29p; AV 23-05-2026; neergelegd 23/06/2026; MD5 a6ae33b3cd272a069b8c903ef2ca3f48). VKT-VZW 9900 **EUR5324230** (+6.68%); 62 **EUR3502027**; 9901 **EUR907721** (was 442010); 9904 753655; equity 4903104; cash 2715187; FTE 48,6 (was 48,2).
+- FOI address: lesscouts@lesscouts.be — general mailbox verified on the official site https://www.lesscouts.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_les_scouts_federation_vaph_matrix_9900_5_32m_9901_908k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3287/; rq_3287=done; spawn **rq_3288**; ticks=3287.
+- Next: **rq_3288 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
