@@ -40550,3 +40550,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@capitalbelgium.be — general mailbox verified on the official site https://www.capitalbelgium.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_capital_brussel_vaph_matrix_9900_0_50m_9901_159k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3771/; rq_3770=done; spawn **rq_3772**; ticks=3771.
 - Next: **rq_3772 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3772 — 2026-10-13T21:00:59Z — rq_3772 leftover dual Bij Ons - Chez Nous Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Bij Ons - Chez Nous** → KBO 0462.780.664 had 0 prior entity rows.
+- KBO: Actief since 16 januari 1998; VZW; zetel Kartuizersstraat 60 1000 Brussel; 1 VE; 0 prior entity rows for 0462.780.664
+- Found: official NBB MIC-VZW native PDF **2026-00139310** (38754 B / 9p; AV 26-05-2026; neergelegd 05/06/2026; MD5 819b513dfd21cc234b749ddd2902a321). MIC-VZW 9900 **EUR451709** (+10.48%); 62 **EUR338992**; 9901 **EUR89471** (was 48943); 9904 90784; equity 772283; cash 259981; FTE n/a.
+- FOI address: info@cheznousbijons.be — general mailbox verified on the official site https://cheznousbijons.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_bij_ons_chez_nous_brussel_vaph_matrix_9900_0_45m_9901_89k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3772/; rq_3772=done; spawn **rq_3773**; ticks=3772.
+- Next: **rq_3773 leftover dual** — Partial batch (3771-3772); code 9900 rows from bounded KBO scan nscan20 (Brussels/Liège/Limburg/Luxembourg postcodes not scanned before), largest first; no usable code 733 filer (Agentschap Integratie en Inburgering is a government agency; UNICEF, ALTEO, Latitude Jeunes, ESN, European Youth Forum excluded); De Overmolen skipped (site down, no mailbox fetched directly), Aimer Jeunes skipped (Skynet). Candidates dry; next: new scan..
