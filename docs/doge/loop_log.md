@@ -39140,3 +39140,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3630 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3630 run locally as fallback.
 - Next: **rq_3630** — code 9900 (NOT subsidy amounts): Digital for Youth.be (EUR0.71m), Trage Wegen (EUR0.66m), Karavaan (EUR0.66m), CLIF (EUR0.65m), Vogelbescherming Vlaanderen (EUR0.63m); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scan of 7 NACE-BEL 2025 codes (finished, triaged).
+
+
+## Tick 3631 — 2026-10-13T15:58:17Z — rq_3630 leftover dual Digital for Youth.be Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Digital for Youth.be** → KBO 0731.761.169 had 0 prior entity rows.
+- KBO: Actief since 31 juli 2019; VZW; zetel Engels Plein 35 bus 102 3000 Leuven; 1 VE; 0 prior entity rows for 0731.761.169
+- Found: official NBB MIC-VZW native PDF **2026-00317828** (41823 B / 10p; AV 24-06-2026; neergelegd 22/07/2026; MD5 75b89c98e1456f1a75e039a40441a803). MIC-VZW 9900 **EUR709503** (+52.74%); 62 **EUR306141**; 9901 **EUR398788** (was 163514); 9904 404807; equity 1017503; cash 954224; FTE n/a.
+- FOI address: info@digitalforyouth.be — general mailbox verified on the official site https://www.digitalforyouth.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_digital_for_youth_leuven_vaph_matrix_9900_0_71m_9901_399k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3631/; rq_3630=done; spawn **rq_3632**; ticks=3631.
+- Next: **rq_3632 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
