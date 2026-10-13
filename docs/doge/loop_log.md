@@ -37020,3 +37020,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@tajo.be — general mailbox verified on the official site https://tajo.be/faq/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_tajo_gent_vaph_matrix_9900_1_50m_9901_49k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3418/; rq_3418=done; spawn **rq_3419**; ticks=3418.
 - Next: **rq_3419 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3419 — 2026-10-13T09:27:58Z — rq_3419 leftover dual Stichting Brandwonden - Fondation des brûlés Affligem YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Stichting Brandwonden - Fondation des brûlés** → KBO 0428.886.389 had 0 prior entity rows.
+- KBO: Actief since 23 mei 1986; VZW; zetel J.B. Callebautstraat 27 bus A 1790 Affligem; 1 VE; 0 prior entity rows for 0428.886.389
+- Found: official NBB VKT-VZW native PDF **2026-00390044** (55460 B / 16p; AV 08-06-2026; neergelegd 10/08/2026; MD5 07c1023a793fdb87d5edc681ce950b30). VKT-VZW 9900 **EUR1278461** (+253.04%); 62 **EUR294611**; 9901 **EUR-166340** (was 3254); 9904 -170559; equity 498210; cash 497989; FTE 6,8 (was 5,8).
+- FOI address: info@burnsfoundation.be — general mailbox verified on the official site https://www.brulures.be/qui-sommes-nous/nous-contacter (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_stichting_brandwonden_vaph_matrix_9900_1_28m_9901_loss_166k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3419/; rq_3419=done; spawn **rq_3420**; ticks=3419.
+- Next: **rq_3420 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
