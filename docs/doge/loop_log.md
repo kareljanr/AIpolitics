@@ -37220,3 +37220,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: direction@creche-lenid.be — management role mailbox verified on the official site https://creche-lenid.be/documents/accueil.pdf (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_creche_royale_le_nid_ixelles_vaph_matrix_9900_1_49m_9901_31k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3438/; rq_3438=done; spawn **rq_3439**; ticks=3438.
 - Next: **rq_3439 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3439 — 2026-10-13T10:09:50Z — rq_3439 leftover dual Forêt.Nature Marche-en-Famenne YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Forêt.Nature** → KBO 0433.416.982 had 0 prior entity rows.
+- KBO: Actief since 13 februari 1987; VZW; zetel Marche,Rue de la Plaine 9 6900 Marche-en-Famenne; 2 VE; 0 prior entity rows for 0433.416.982
+- Found: official NBB VKT-VZW native PDF **2026-00284374** (39230 B / 9p; AV 11-06-2026; neergelegd 13/07/2026; MD5 8b258f30564c5b4450bb2f39acf15120). VKT-VZW 9900 **EUR972514** (-23.86%); 62 **EUR954343**; 9901 **EUR8004** (was 158297); 9904 5861; equity 670180; cash 757952; FTE 8,7 (was 12,4).
+- FOI address: info@foretnature.be — general mailbox verified on the official site https://www.foretnature.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_foret_nature_marche_vaph_matrix_9900_0_97m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3439/; rq_3439=done; spawn **rq_3440**; ticks=3439.
+- Next: **rq_3440 leftover dual** — Batch done; newly finished 59.1x / 58.1x / 94.xxx scan pages gave one usable code 733 row (Les Grignoux); the rest are code 9900 leftovers. Next: Médiathèque Nouvelle (code 733, site still unreachable), the 23 still-running scan pages, then SONEFA / Crèches de Schaerbeek (code 733, no own-site mailbox yet)..
