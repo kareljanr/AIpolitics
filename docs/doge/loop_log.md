@@ -37360,3 +37360,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@crechendovzw.be — general mailbox verified on the official site https://crechendovzw.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_crechendo_antwerpen_vaph_matrix_9900_1_27m_9901_94k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3452/; rq_3452=done; spawn **rq_3453**; ticks=3452.
 - Next: **rq_3453 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3453 — 2026-10-13T11:00:36Z — rq_3453 leftover dual Fédération des Maisons de Jeunes (FMJ) Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Fédération des Maisons de Jeunes (FMJ)** → KBO 0409.551.618 had 0 prior entity rows.
+- KBO: Actief since 1 oktober 1955; VZW; zetel Rue Aux-Chevaux 8 4000 Liège; 3 VE; 0 prior entity rows for 0409.551.618
+- Found: official NBB VKT-VZW native PDF **2026-00512055** (63599 B / 21p; AV 29-06-2026; neergelegd 14/09/2026; MD5 04f4b45725245ab001477ee50c99d852). VKT-VZW 9900 **EUR1231299** (-4.06%); 62 **EUR1222612**; 9901 **EUR-18583** (was 45237); 9904 -19088; equity 627288; cash 607558; FTE 17 (was 16,8).
+- FOI address: fmj@fmjbf.org — general mailbox verified on the official site https://fmjbf.org/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_fmj_liege_vaph_matrix_9900_1_23m_9901_loss_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3453/; rq_3453=done; spawn **rq_3454**; ticks=3453.
+- Next: **rq_3454 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
