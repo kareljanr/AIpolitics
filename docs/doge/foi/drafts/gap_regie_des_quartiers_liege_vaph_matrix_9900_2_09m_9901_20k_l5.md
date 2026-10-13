@@ -4,7 +4,7 @@
 **status:** ready (NOT sent)  
 **language:** FR (Walloon French-language body; template `docs/doge/foi-template-fr.md`)  
 **entity:** Régie des Quartiers de Liège ASBL — BCE/KBO **0874.748.671** (Actief; VZW; siège Place du Marché 2 4000 Liège; 1 UE)  
-**recipient:** Régie des Quartiers de Liège ASBL / Président(e) du conseil d'administration — info@rqliege.be — Rue Hocheporte 2, 4000 Liège  
+**recipient:** Régie des Quartiers de Liège ASBL / Président(e) du conseil d'administration — info@rqliege.be — Place du Marché 2, 4000 Liège (KBO registered seat; the official City of Liège page gives Rue Hocheporte 2, 4000 Liège)  
 **recipient note:** general mailbox shown on the official City of Liège page https://www.liege.be/mes-services/logement/la-regie-des-quartiers-de-liege-a-s-b-l (no own site found)  
 **legal basis note:** voluntary request; no legal-basis claim made for this private-law ASBL; the subsidising authorities hold the decisions  
 **sources:** official NBB VKT-VZW native PDF deposit **2026-00153044** (385333 B / 20p; AG 02-06-2026; déposé 11/06/2026; MD5 8e4d451e76cfa404e674e1e91ebb06fe) + KBO + KBO activity-code scans not yet used: NACE 88.911 / 88.991 (childcare and day-care without accommodation) over Walloon, Brussels and Flemish postcodes (912 legal persons not yet in the repo, 418 triaged), plus remaining NACE 88.999 / 88.101 / 85.599 rows; code 733 rows first, then code 9900, largest first

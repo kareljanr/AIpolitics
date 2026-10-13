@@ -35594,3 +35594,9 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@rqliege.be — general mailbox shown on the official City of Liège page https://www.liege.be/mes-services/logement/la-regie-des-quartiers-de-liege-a-s-b-l (no own site found).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_regie_des_quartiers_liege_vaph_matrix_9900_2_09m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3275/; rq_3275=done; spawn **rq_3276**; ticks=3275.
 - Next: **rq_3276 leftover dual** — Batch done; skipped (5-min cap / mailbox rule): Crèches de Schaerbeek (733 EUR13.29m; only commune/personal mailboxes), Association Notre-Dame Namur (733 EUR9.32m; no site found), Kinderdagverblijf Lutgardisschool Elsene (733 EUR5.41m; only group/school mailboxes), Kinderdagverblijf Sint-Karel (733 EUR1.51m; site unreachable), Les Arsouilles (site shows another KBO), Olina (personal mailbox only), CAPE and CEMôme (inscription mailboxes only), Rire et Grandir (no own-domain mailbox on an official page), Espaces Enfance (no mailbox on its site), Babelu (commercial group); De Speelboom already queued. Next: remaining NACE 88.911/88.991 9900 rows, then unscanned codes/regions.
+
+
+## Tick 3276 — 2026-10-13T04:07:11Z — correction Régie des Quartiers de Liège (local fallback runner)
+
+- Change: FOI draft gap_regie_des_quartiers_liege_vaph_matrix_9900_2_09m_9901_20k_l5 (and its foi_queue / entities rows) now addressed to the KBO registered seat **Place du Marché 2, 4000 Liège**; the address on the official City of Liège page (Rue Hocheporte 2, 4000 Liège) is noted. Mailbox unchanged (info@rqliege.be). Draft still NOT sent.
+- Next: **rq_3276** carried open.
