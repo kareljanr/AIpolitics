@@ -35514,3 +35514,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@demolenketjes.brussels — general mailbox verified on the official site https://www.demolenketjes.be/contactpage/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_de_molenketjes_molenbeek_vaph_matrix_9900_5_53m_9901_693k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3267/; rq_3267=done; spawn **rq_3268**; ticks=3267.
 - Next: **rq_3268 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3268 — 2026-10-13T04:04:26Z — rq_3268 leftover dual Centre de la Petite Enfance de Nivelles (CPEN) Nivelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used: NACE 88.911 / 88.991 (childcare and day-care without accommodation) over Walloon, Brussels and Flemish postcodes (912 legal persons not yet in the repo, 418 triaged), plus remaining NACE 88.999 / 88.101 / 85.599 rows; code 733 rows first, then code 9900, largest first: **Centre de la Petite Enfance de Nivelles (CPEN)** → KBO 0471.323.394 had 0 prior entity rows.
+- KBO: Actief since 20 december 1999; VZW; zetel Boulevard de La Dodaine 1 1400 Nivelles; 6 VE; 0 prior entity rows for 0471.323.394
+- Found: official NBB VKT-VZW native PDF **2026-00408170** (47748 B / 12p; AV 22-06-2026; neergelegd 20/08/2026; MD5 6260994285bbf3d39e18953ab81f5db5). VKT-VZW 9900 **EUR5467023** (+20.54%); 62 **EUR5128389**; 9901 **EUR98303** (was -145982); 9904 282035; equity 2019383; cash 1029683; FTE 93,5 (was 82,9).
+- FOI address: info@cpen.be — general mailbox verified on the official site https://www.cpen.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_cpen_nivelles_vaph_matrix_9900_5_47m_9901_98k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3268/; rq_3268=done; spawn **rq_3269**; ticks=3268.
+- Next: **rq_3269 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
