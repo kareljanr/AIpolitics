@@ -38820,3 +38820,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@observatoireintegration.be — general mailbox verified on the official site https://observatoireintegration.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_observatoire_integration_namur_vaph_matrix_9900_0_25m_9901_loss_44k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3598/; rq_3598=done; spawn **rq_3599**; ticks=3598.
 - Next: **rq_3599 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3599 — 2026-10-13T15:32:23Z — rq_3599 leftover dual Vlaams Instituut voor Bio-Ecologisch Bouwen en Wonen (VIBE) Borgerhout (Antwerpen) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Vlaams Instituut voor Bio-Ecologisch Bouwen en Wonen (VIBE)** → KBO 0422.018.294 had 0 prior entity rows.
+- KBO: Actief since 23 maart 1981; VZW; zetel Turnhoutsebaan 139a 2140 Antwerpen; 1 VE; 0 prior entity rows for 0422.018.294
+- Found: official NBB VKT-VZW native PDF **2026-00172608** (49288 B / 13p; AV 18-05-2026; neergelegd 09/06/2026; MD5 2dc6750ade0b3f8f3ece3cf80281501f). VKT-VZW 9900 **EUR234893** (-28.80%); 62 **EUR288712**; 9901 **EUR-53828** (was 2749); 9904 -55352; equity 55869; cash 22320; FTE 3,5 (was 3,5).
+- FOI address: info@vibe.be — general mailbox verified on the official site https://www.vibe.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_vibe_borgerhout_vaph_matrix_9900_0_23m_9901_loss_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3599/; rq_3599=done; spawn **rq_3600**; ticks=3599.
+- Next: **rq_3600 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
