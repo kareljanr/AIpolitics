@@ -35294,3 +35294,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kfda.be — general mailbox verified on the official site https://www.kfda.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_kunstenfestivaldesarts_vaph_matrix_9900_1_28m_9901_80k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3245/; rq_3245=done; spawn **rq_3246**; ticks=3245.
 - Next: **rq_3246 leftover dual** — Batch done; skipped: Association de Solidarité pour l'Habitat / SoHab (EUR180,450; only service mailboxes, no general mailbox opened on the official site within 5 min), Onderwijs Brussel, Bal National, Ride Your Future, BBNF, Sablon Quartier, Primerose, Ommegang, Jazz Projects, Amis des Bibliothèques, Coeurs de Bois, Un Soir Un Grain (no 2025-12 filing found), Golazo Sports (commercial company), Centre d'entreprises Dansaert (non-standard model); opendata.brussels.be carries only City of Brussels subsidy registers (2019-2025); next: Energie commune, Zig Zag, Kaaitheater after a filing/mailbox check.
+
+
+## Tick 3246 — 2026-10-13T02:44:11Z — rq_3246 leftover dual Gemeenschappelijke Sociale Dienst Lokale Besturen (GSD-V) Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Large Brussels social-work non-profits from a KBO activity-code scan (NACE 88.999, all Brussels postcodes; 523 legal persons not yet in the repo), chosen after the City of Brussels 2025 register tail became small; code 733 rows first, then code 9900, largest first: **Gemeenschappelijke Sociale Dienst Lokale Besturen (GSD-V)** → KBO 0811.018.582 had 0 prior entity rows.
+- KBO: Actief since 8 april 2009; VZW; zetel Bischoffsheimlaan 1-8 1000 Brussel; 1 VE; 0 prior entity rows for 0811.018.582
+- Found: official NBB VOL-VZW native PDF **2026-00246095** (515284 B / 62p; AV 24-06-2026; neergelegd 03/07/2026; MD5 1110de724b68ca663a63598d6bd471a2). VOL-VZW 733 **EUR83559563** (-4.35%); 62 **EUR1344498**; 9901 **EUR749951** (was 1087920); 9904 940280; equity 8925010; cash 15424375; FTE 11,4 (was 12).
+- FOI address: info@gsd-v.be — general mailbox verified on the official site https://www.gsd-v.be/contact (same Bischoffsheimlaan seat as the KBO record).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_gsd_lokale_besturen_vaph_matrix_733_83_56m_9901_750k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3246/; rq_3246=done; spawn **rq_3247**; ticks=3246.
+- Next: **rq_3247 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
