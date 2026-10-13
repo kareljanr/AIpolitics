@@ -39980,3 +39980,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: direction@oxyjeunesverviers.be — direction mailbox verified on the official site https://oxyjeunesverviers.be/a-propos/ (names the ASBL Options; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_options_oxyjeunes_verviers_vaph_matrix_9900_0_52m_9901_loss_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3714/; rq_3714=done; spawn **rq_3715**; ticks=3714.
 - Next: **rq_3715 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3715 — 2026-10-13T17:18:45Z — rq_3715 leftover dual Canal J (AMO) Tournai YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Canal J (AMO)** → KBO 0443.224.276 had 0 prior entity rows.
+- KBO: Actief since 31 mei 1990; VZW; zetel Rue d'Espinoy(TOU) 4 7500 Tournai; 1 VE; 0 prior entity rows for 0443.224.276
+- Found: official NBB MIC-VZW native PDF **2026-00184434** (37812 B / 9p; AV 26-05-2026; neergelegd 17/06/2026; MD5 e8749c2b08770ab7c48d65158fbbf560). MIC-VZW 9900 **EUR516979** (-2.34%); 62 **EUR515122**; 9901 **EUR-339** (was 3218); 9904 19; equity 25736; cash 154126; FTE n/a.
+- FOI address: info@canalj.be — general mailbox verified on the official site https://canalj.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_canal_j_tournai_vaph_matrix_9900_0_52m_9901_loss_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3715/; rq_3715=done; spawn **rq_3716**; ticks=3715.
+- Next: **rq_3716 leftover dual** — Batch done (3706-3715); code 9900 rows from bounded KBO scan nscan8, largest first; no qualifying code 733 filer (Médiathèque Nouvelle still unreachable). Next: remaining nscan8 rows or a new bounded scan..
