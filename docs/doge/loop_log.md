@@ -35374,3 +35374,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@mlsg.be — general mailbox verified on the official site https://mlsg.be/pages/contact.html.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_mission_locale_saint_gilles_vaph_matrix_9900_2_22m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3253/; rq_3253=done; spawn **rq_3254**; ticks=3253.
 - Next: **rq_3254 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3254 — 2026-10-13T02:46:12Z — rq_3254 leftover dual Modus Vivendi Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Large Brussels social-work non-profits from a KBO activity-code scan (NACE 88.999, all Brussels postcodes; 523 legal persons not yet in the repo), chosen after the City of Brussels 2025 register tail became small; code 733 rows first, then code 9900, largest first: **Modus Vivendi** → KBO 0451.739.193 had 0 prior entity rows.
+- KBO: Actief since 2 oktober 1993; VZW; zetel Jourdanstraat 151 1060 Sint-Gillis (bij-Brussel); 4 VE; 0 prior entity rows for 0451.739.193
+- Found: official NBB VKT-VZW native PDF **2026-00252508** (361852 B / 29p; AV 16-06-2026; neergelegd 03/07/2026; MD5 cf5cb5274c21ed04ed23dcfc6b3cc6b0). VKT-VZW 9900 **EUR2037056** (+3.51%); 62 **EUR1984277**; 9901 **EUR17616** (was 32527); 9904 16716; equity 121701; cash 200990; FTE n/a.
+- FOI address: modus@modusvivendi-be.org — general mailbox verified on the official site https://www.modusvivendi-be.org/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_modus_vivendi_vaph_matrix_9900_2_04m_9901_18k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3254/; rq_3254=done; spawn **rq_3255**; ticks=3254.
+- Next: **rq_3255 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
