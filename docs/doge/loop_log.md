@@ -35474,3 +35474,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: bureau@rwlp.be — general mailbox verified on the official site https://www.rwlp.be/index.php/contact (office mailbox).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_rwlp_namur_vaph_matrix_9900_2_44m_9901_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3263/; rq_3263=done; spawn **rq_3264**; ticks=3263.
 - Next: **rq_3264 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3264 — 2026-10-13T03:30:00Z — rq_3264 leftover dual CRIC - Centre régional d'intégration de Charleroi Charleroi YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used: NACE 88.999 over Walloon and Flemish postcodes (2,181 legal persons not yet in the repo, 773 with a 2025-12 filing), plus NACE 88.101 and 85.599 (partial); code 733 rows first, then code 9900, largest first: **CRIC - Centre régional d'intégration de Charleroi** → KBO 0461.384.458 had 0 prior entity rows.
+- KBO: Actief since 18 september 1997; VZW; zetel Rue Hanoteau 23 6060 Charleroi; 1 VE; 0 prior entity rows for 0461.384.458
+- Found: official NBB VKT-VZW native PDF **2026-00151849** (938207 B / 24p; AV 09-06-2026; neergelegd 11/06/2026; MD5 bad27aa4dfecf0e606ec3b63223f0f03). VKT-VZW 9900 **EUR2211589** (+2.94%); 62 **EUR2174014**; 9901 **EUR2242** (was -25700); 9904 9971; equity 295721; cash 436333; FTE 32 (was 32,3).
+- FOI address: info@cricharleroi.be — general mailbox verified on the official site https://www.cricharleroi.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_charleroi); FOI **gap_cric_charleroi_vaph_matrix_9900_2_21m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3264/; rq_3264=done; spawn **rq_3265**; ticks=3264.
+- Next: **rq_3265 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
