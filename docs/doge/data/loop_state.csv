@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T16:23:25Z,every10_3660,3660,no,"tick3660 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3660 carried open; next Centre d’Entraide de Jette, Le CRIC, Dierenasiel Genk, Citadelle, VOC Opstap (code 9900, nscan4)"
+main,continuous,hole_fill,2026-10-13T16:23:31Z,rq_3660,3661,no,tick3661 leftover dual Centre d'Entraide de Jette Jette 0411.633.554 Strong PDF 2026-00196820 9900 0.69m / 9901 loss 28k; next rq_3662 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

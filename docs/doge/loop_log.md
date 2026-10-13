@@ -39440,3 +39440,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3660 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3660 run locally as fallback.
 - Next: **rq_3660** — code 9900 (NOT subsidy amounts): Centre d’Entraide de Jette (EUR0.69m), Le CRIC (EUR0.59m), Dierenasiel Genk (EUR0.56m), Citadelle (EUR0.54m, micro), VOC Opstap (EUR0.48m, micro); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scan nscan4.
+
+
+## Tick 3661 — 2026-10-13T16:23:31Z — rq_3660 leftover dual Centre d'Entraide de Jette Jette YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre d'Entraide de Jette** → KBO 0411.633.554 had 0 prior entity rows.
+- KBO: Actief since 16 september 1971; VZW; zetel Henri Werriestraat 11 1090 Jette; 5 VE; 0 prior entity rows for 0411.633.554
+- Found: official NBB VKT-VZW native PDF **2026-00196820** (46894 B / 11p; AV 06-06-2026; neergelegd 25/06/2026; MD5 515368dc7049c0c69b6585b14dc440e1). VKT-VZW 9900 **EUR692009** (+9.41%); 62 **EUR715665**; 9901 **EUR-27539** (was -14061); 9904 -28147; equity 202821; cash 167456; FTE n/a.
+- FOI address: secretariat@cejette.be — secretariat mailbox verified on the official site https://www.cejette.be/qui-sommes-nous/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_centre_entraide_jette_vaph_matrix_9900_0_69m_9901_loss_28k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3661/; rq_3660=done; spawn **rq_3662**; ticks=3661.
+- Next: **rq_3662 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
