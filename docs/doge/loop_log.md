@@ -36300,3 +36300,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: acisbelgique@acis-asbl.be — general mailbox verified on the official site https://www.acis-asbl.be/siege-social/ (which lists the KBO number and the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_acis_namur_vaph_matrix_733_227_60m_9901_4392k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3346/; rq_3346=done; spawn **rq_3347**; ticks=3346.
 - Next: **rq_3347 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3347 — 2026-10-13T06:34:33Z — rq_3347 leftover dual Les Glycines (Tamines) Sambreville (Tamines) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Les Glycines (Tamines)** → KBO 0890.505.926 had 0 prior entity rows.
+- KBO: Actief since 2 juli 2007; VZW; zetel Rue Saint Martin(TAM) 66 5060 Sambreville; 1 VE; 0 prior entity rows for 0890.505.926
+- Found: official NBB VKT-VZW native PDF **2026-00487674** (43139 B / 10p; AV 30-06-2026; neergelegd 31/08/2026; MD5 b7db4c876786f27c13064f9674103aa8). VKT-VZW 9900 **EUR4093573** (-0.95%); 62 **EUR4001192**; 9901 **EUR20416** (was 23390); 9904 19388; equity -537227; cash 168526; FTE 62 (was 60,4).
+- FOI address: glycines.secretariat@hotmail.com — secretariat mailbox verified on the official site https://www.mrslesglycines.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_les_glycines_sambreville_vaph_matrix_9900_4_09m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3347/; rq_3347=done; spawn **rq_3348**; ticks=3347.
+- Next: **rq_3348 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
