@@ -40350,3 +40350,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: cemo@cemoasbl.be — general mailbox verified on the official site https://www.cemoasbl.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cemo_saint_gilles_vaph_matrix_9900_1_01m_9901_9k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3751/; rq_3750=done; spawn **rq_3752**; ticks=3751.
 - Next: **rq_3752 leftover dual** — Batch done (3742-3751); code 9900 rows from bounded KBO scan nscan14 (88999/85520/88101/87101 on Brussels, Limburg and Luxembourg postcodes), largest first; no code 733 filer found; Médiathèque Nouvelle still unreachable. Next: a new bounded scan..
+
+
+## Tick 3752 — 2026-10-13T19:23:16Z — rq_3752 leftover dual Les Vraies Richesses Anderlecht YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Les Vraies Richesses** → KBO 0418.310.916 had 0 prior entity rows.
+- KBO: Actief since 2 maart 1978; VZW; zetel Processiestraat 24 1070 Anderlecht; 1 VE; 0 prior entity rows for 0418.310.916
+- Found: official NBB VKT-VZW native PDF **2026-00202212** (347651 B / 18p; AV 11-06-2026; neergelegd 22/06/2026; MD5 c426c1bdaf9eaa2b36f4a97b045aacd7). VKT-VZW 9900 **EUR825585** (-1.86%); 62 **EUR756680**; 9901 **EUR34589** (was 33908); 9904 34460; equity 576284; cash 167674; FTE 11,4 (was 10,8).
+- FOI address: info@lesvr.be — general mailbox verified on the official site https://lesvr.be/contact-1 (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_les_vraies_richesses_anderlecht_vaph_matrix_9900_0_83m_9901_35k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3752/; rq_3752=done; spawn **rq_3753**; ticks=3752.
+- Next: **rq_3753 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
