@@ -1,0 +1,801 @@
+2026-00367145       0461136911     2025    EUR    23.0.10     m04-f   30/07/2026   14                            A-ASBL 1
+
+
+
+
+                                 COMPTES ANNUELS ET AUTRES DOCUMENTS
+                                    À DÉPOSER EN VERTU DU CODE DES
+                                     SOCIÉTÉS ET DES ASSOCIATIONS
+
+
+
+DONNÉES D'IDENTIFICATION (à la date du dépôt)
+
+Dénomination :         Proximité santé
+Forme juridique :      Association sans but lucratif
+Adresse :   Maria Malibran                                                   N° : 49                  Boîte :
+Code postal :     1050                 Commune :        Ixelles
+Pays :   Belgique
+Registre des personnes morales (RPM) - Tribunal de l'entreprise de           Bruxelles, francophone
+Adresse Internet :
+Adresse e-mail :
+
+
+
+                                                                      Numéro d'entreprise             0461.136.911
+
+
+
+Date du dépôt du document le plus récent mentionnant la date de publication des actes constitutif
+                                                                                                            20-06-2018
+et modificatif(s) des statuts
+
+
+
+COMPTES ANNUELS en                  EURO           approuvés par l’assemblée générale du        17-06-2026
+
+
+                et relatifs à l'exercice couvrant la période du       01-01-2025        au      31-12-2025
+
+
+                                      Exercice précédent du           01-01-2024        au      31-12-2024
+
+
+Les montants relatifs à l'exercice précédent sont identiques à ceux publiés antérieurement.
+
+
+
+Numéros des sections du document normalisé non déposées parce que sans objet :
+
+ A-ASBL 6.2, A-ASBL 6.5, A-ASBL 6.6, A-ASBL 7, A-ASBL 8
+
+
+
+
+                                                                                                                  Page 1 of 14
+N°      0461136911                                                                                          A-ASBL 2
+
+
+                                LISTE DES ADMINISTRATEURS ET COMMISSAIRES
+
+
+
+
+LISTE DES ADMINISTRATEURS ET COMMISSAIRES
+
+LISTE COMPLÈTE des nom, prénoms, profession, domicile (adresse, numéro, code postal et commune) et fonction au sein de
+l'association ou de la fondation
+
+
+
+Georgemans Arnaud
+Rue des Ecoles 9
+1330 Rixensart
+BELGIQUE
+Début de mandat :                      Fin de mandat :                         Administrateur
+
+
+Franckx Christine
+Rue Général Caplaumont 37
+1040 Etterbeek
+BELGIQUE
+Début de mandat :                      Fin de mandat :                         Administrateur
+
+
+Dujardin Pascal
+Chaussée de Bondael 168
+1050 Ixelles
+BELGIQUE
+Début de mandat :                      Fin de mandat :                         Administrateur
+
+
+Stelandre Patrick
+Rue Maria Malibran 49
+1050 Ixelles
+BELGIQUE
+Début de mandat :                      Fin de mandat :                         Administrateur
+
+
+Beugnies Quentin
+Rue Maria Malibran 49
+1050 Ixelles
+BELGIQUE
+Début de mandat :                      Fin de mandat :                         Administrateur
+
+
+
+
+                                                                                                            Page 2 of 14
+N°      0461136911                                                                                          A-ASBL 3.1
+
+
+                                                   COMPTES ANNUELS
+
+
+
+BILAN APRÈS RÉPARTITION
+
+                                                            Ann.      Codes   Exercice              Exercice précédent
+
+ ACTIF
+                                                                     20
+ FRAIS D'ÉTABLISSEMENT
+ ACTIFS IMMOBILISÉS                                                  21/28               333.509                  367.346
+
+ Immobilisations incorporelles                               6.1.1   21                     9.461                   15.042
+
+ Immobilisations corporelles                                 6.1.2   22/27               321.851                  343.422
+     Terrains et constructions                                       22
+
+     Installations, machines et outillage                            23                   28.500                  30.707
+     Mobilier et matériel roulant                                    24                  176.296                 188.451
+     Location-financement et droits similaires                       25
+
+     Autres immobilisations corporelles                              26                  117.055                 124.265
+     Immobilisations en cours et acomptes versés                     27
+
+ Immobilisations financières                                 6.1.3   28                     2.197                    8.882
+
+ ACTIFS CIRCULANTS                                                   29/58               911.363                  831.143
+                                                                     29
+ Créances à plus d'un an
+     Créances commerciales                                           290
+
+     Autres créances                                                 291
+
+ Stocks et commandes en cours d'exécution                            3                     83.288                   84.647
+     Stocks                                                          30/36                83.288                  84.647
+     Commandes en cours d'exécution                                  37
+
+ Créances à un an au plus                                            40/41               245.562                  185.539
+     Créances commerciales                                           40                  115.613                 111.893
+     Autres créances                                                 41                  129.949                  73.647
+                                                                     50/53
+ Placements de trésorerie
+
+ Valeurs disponibles                                                 54/58               552.341                  540.860
+
+ Comptes de régularisation                                           490/1                 30.172                   20.096
+
+ TOTAL DE L'ACTIF                                                    20/58           1.244.873                  1.198.488
+
+
+
+
+                                                                                                               Page 3 of 14
+N°      0461136911                                                                                                             A-ASBL 3.2
+
+                                                                               Ann.      Codes   Exercice              Exercice précédent
+
+ PASSIF
+ FONDS SOCIAL                                                                           10/15                682.636                 625.444
+
+ Fonds de l'association ou de la fondation                                        6.2   10                    32.283                   32.283
+                                                                                        12
+ Plus-values de réévaluation
+                                                                                  6.2   13
+ Fonds affectés et autres réserves
+
+ Bénéfice (Perte) reporté(e)                                         (+)/(-)            14                   594.937                 534.828
+
+ Subsides en capital                                                                    15                    55.417                   58.333
+
+ PROVISIONS ET IMPÔTS DIFFÉRÉS                                                    6.2   16                   110.377                 110.377
+
+ Provisions pour risques et charges                                                     160/5                110.377                 110.377
+     Pensions et obligations similaires                                                 160
+
+     Charges fiscales                                                                   161
+
+     Grosses réparations et gros entretien                                              162                  32.400                  32.400
+     Obligations environnementales                                                      163
+
+     Autres risques et charges                                                          164/5                77.977                  77.977
+
+ Provisions pour subsides et legs à rembourser et pour dons                             167
+ avec droit de reprise
+                                                                                        168
+ Impôts différés
+
+ DETTES                                                                                 17/49                451.860                 462.668
+
+ Dettes à plus d'un an                                                            6.3   17                   117.567                 166.974
+     Dettes financières                                                                 170/4                80.604                 108.010
+       Etablissements de crédit, dettes de location-financement et                      172/3               80.604                108.010
+       assimilées
+       Autres emprunts                                                                  174/0
+
+     Dettes commerciales                                                                175
+
+     Acomptes sur commandes                                                             176
+
+     Autres dettes                                                                      178/9                36.964                  58.964
+
+ Dettes à un an au plus                                                           6.3   42/48                328.372                 292.317
+     Dettes à plus d'un an échéant dans l'année                                         42                   49.406                  51.919
+     Dettes financières                                                                 43
+
+       Etablissements de crédit                                                         430/8
+
+       Autres emprunts                                                                  439
+
+     Dettes commerciales                                                                44                   10.855                  40.720
+       Fournisseurs                                                                     440/4               10.855                  40.720
+       Effets à payer                                                                   441
+
+     Acomptes sur commandes                                                             46
+
+     Dettes fiscales, salariales et sociales                                            45                  184.537                 139.664
+       Impôts                                                                           450/3               22.381                  19.563
+       Rémunérations et charges sociales                                                454/9          162.156                    120.102
+     Autres dettes                                                                      48                   83.574                  60.013
+
+ Comptes de régularisation                                                              492/3                  5.920                    3.378
+
+ TOTAL DU PASSIF                                                                        10/49           1.244.873                  1.198.488
+
+
+
+
+                                                                                                                                  Page 4 of 14
+N°      0461136911                                                                                                                    A-ASBL 4
+
+
+COMPTE DE RÉSULTATS
+
+                                                                                   Ann.      Codes   Exercice              Exercice précédent
+
+ Produits et charges d'exploitation
+     Marge brute d'exploitation                                          (+)/(-)            9900           1.204.340                  1.316.149
+        Dont: produits d'exploitation non récurrents                                        76A                 10.341                  13.549
+        Chiffre d'affaires                                                                  70
+
+        Cotisations, dons, legs et subsides                                                 73
+
+        Approvisionnements, marchandises, services et biens divers                          60/61
+
+     Rémunérations, charges sociales et pensions                         (+)/(-)            62                  998.823                 998.720
+     Amortissements et réductions de valeur sur frais                                       630                 127.610                 106.186
+     d'établissement, sur immobilisations incorporelles et corporelles
+     Réductions de valeur sur stocks, sur commandes en cours             (+)/(-)            631/4                 4.335                    4.128
+     d'exécution et sur créances commerciales: dotations (reprises)
+     Provisions pour risques et charges: dotations (utilisations et      (+)/(-)            635/9
+     reprises)
+     Autres charges d'exploitation                                                          640/8                11.692                  39.669
+     Charges d'exploitation portées à l'actif au titre de frais de           (-)            649
+     restructuration
+     Charges d'exploitation non récurrentes                                                 66A                   6.271                    1.635
+
+ Bénéfice (Perte) d'exploitation                                         (+)/(-)            9901                  55.609                 165.812
+
+ Produits financiers                                                                  6.4   75/76B                 7.732                    6.553
+     Produits financiers récurrents                                                         75                    7.732                    6.553
+     Produits financiers non récurrents                                                     76B
+
+ Charges financières                                                                  6.4   65/66B                 2.459                    3.030
+     Charges financières récurrentes                                                        65                    2.459                    3.030
+     Charges financières non récurrentes                                                    66B
+
+ Bénéfice (Perte) de l'exercice avant impôts                             (+)/(-)            9903                  60.881                 169.334
+                                                                                            780
+ Prélèvement sur les impôts différés
+                                                                                            680
+ Transfert aux impôts différés
+
+ Impôts sur le résultat                                                  (+)/(-)            67/77                   772                         602
+
+ Bénéfice (Perte) de l'exercice                                          (+)/(-)            9904                  60.109                 168.732
+                                                                                            789
+ Prélèvement sur les réserves immunisées
+                                                                                            689
+ Transfert aux réserves immunisées
+
+ Bénéfice (Perte) de l'exercice à affecter                               (+)/(-)            9905                  60.109                 168.732
+
+
+
+
+                                                                                                                                      Page 5 of 14
+N°      0461136911                                                                                                         A-ASBL 5
+
+
+AFFECTATIONS ET PRÉLÈVEMENTS
+
+                                                                                    Codes   Exercice             Exercice précédent
+
+ Bénéfice (Perte) à affecter                                             (+)/(-)   9906                594.937                 534.828
+     Bénéfice (Perte) de l'exercice à affecter                           (+)/(-)   (9905)              60.109                 168.732
+     Bénéfice (Perte) reporté(e) de l'exercice précédent                 (+)/(-)   14P             534.828                    366.096
+
+ Prélèvement sur les capitaux propres: fonds, fonds affectés et autres             791
+ réserves
+                                                                                   691
+ Affectation aux fonds affectés et autres réserves
+
+ Bénéfice (Perte) à reporter                                             (+)/(-)   (14)                594.937                 534.828
+
+
+
+
+                                                                                                                            Page 6 of 14
+N°      0461136911                                                                                           A-ASBL 6.1.1
+
+
+ANNEXE
+
+ETAT DES IMMOBILISATIONS
+
+                                                                            Codes   Exercice            Exercice précédent
+
+ IMMOBILISATIONS INCORPORELLES
+
+ Valeur d'acquisition au terme de l'exercice                               8059P    XXXXXXXXXX                         55.368
+
+ Mutations de l'exercice
+     Acquisitions, y compris la production immobilisée                     8029
+
+     Cessions et désaffectations                                           8039
+
+     Transferts d'une rubrique à une autre                       (+)/(-)   8049
+
+ Valeur d'acquisition au terme de l'exercice                               8059                55.368
+
+ Amortissements et réductions de valeur au terme de l'exercice             8129P    XXXXXXXXXX                         40.326
+
+ Mutations de l'exercice
+     Actés                                                                 8079                5.581
+     Repris                                                                8089
+
+     Acquis de tiers                                                       8099
+
+     Annulés à la suite de cessions et désaffectations                     8109
+
+     Transférés d'une rubrique à une autre                       (+)/(-)   8119
+
+ Amortissements et réductions de valeur au terme de l'exercice             8129                45.907
+
+ VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE                             (21)                 9.461
+
+
+
+
+                                                                                                                   Page 7 of 14
+N°      0461136911                                                                                                     A-ASBL 6.1.2
+
+                                                                                    Codes    Exercice             Exercice précédent
+
+ IMMOBILISATIONS CORPORELLES
+
+ Valeur d'acquisition au terme de l'exercice                                       8199P     XXXXXXXXXX                       1.042.254
+
+ Mutations de l'exercice
+     Acquisitions, y compris la production immobilisée                             8169             100.584
+     Cessions et désaffectations                                                   8179                 98.330
+     Transferts d'une rubrique à une autre                               (+)/(-)   8189
+
+ Valeur d'acquisition au terme de l'exercice                                       8199             1.044.507
+
+ Plus-values au terme de l'exercice                                                8259P     XXXXXXXXXX
+
+ Mutations de l'exercice
+     Actées                                                                        8219
+
+     Acquises de tiers                                                             8229
+
+     Annulées                                                                      8239
+
+     Transférées d'une rubrique à une autre                              (+)/(-)   8249
+
+                                                                                   8259
+ Plus-values au terme de l'exercice
+
+ Amortissements et réductions de valeur au terme de l'exercice                     8329P     XXXXXXXXXX                         698.832
+
+ Mutations de l'exercice
+     Actés                                                                         8279             122.155
+     Repris                                                                        8289
+
+     Acquis de tiers                                                               8299
+
+     Annulés à la suite de cessions et désaffectations                             8309                 98.330
+     Transférés d'une rubrique à une autre                               (+)/(-)   8319
+
+ Amortissements et réductions de valeur au terme de l'exercice                     8329                 722.656
+
+ VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE                                     (22/27)              321.851
+
+ DONT
+     Appartenant à l'association ou à la fondation en pleine propriété             8349
+
+
+
+
+                                                                                                                             Page 8 of 14
+N°      0461136911                                                                            A-ASBL 6.1.3
+
+                                                              Codes   Exercice           Exercice précédent
+
+ IMMOBILISATIONS FINANCIÈRES
+
+ Valeur d'acquisition au terme de l'exercice                 8395P    XXXXXXXXXX                          8.882
+
+ Mutations de l'exercice
+     Acquisitions                                            8365
+
+     Cessions et retraits                                    8375                6.685
+     Transferts d'une rubrique à une autre         (+)/(-)   8385
+
+     Autres mutations                              (+)/(-)   8386
+
+ Valeur d'acquisition au terme de l'exercice                 8395                2.197
+
+ Plus-values au terme de l'exercice                          8455P    XXXXXXXXXX
+
+ Mutations de l'exercice
+     Actées                                                  8415
+
+     Acquises de tiers                                       8425
+
+     Annulées                                                8435
+
+     Transférées d'une rubrique à une autre        (+)/(-)   8445
+
+                                                             8455
+ Plus-values au terme de l'exercice
+
+ Réductions de valeur au terme de l'exercice                 8525P    XXXXXXXXXX
+
+ Mutations de l'exercice
+     Actées                                                  8475
+
+     Reprises                                                8485
+
+     Acquises de tiers                                       8495
+
+     Annulées à la suite de cessions et retraits             8505
+
+     Transférées d'une rubrique à une autre        (+)/(-)   8515
+
+                                                             8525
+ Réductions de valeur au terme de l'exercice
+
+ Montants non appelés au terme de l'exercice                 8555P    XXXXXXXXXX
+                                                   (+)/(-)   8545
+ Mutations de l'exercice
+                                                             8555
+ Montants non appelés au terme de l'exercice
+
+ VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE               (28)                2.197
+
+
+
+
+                                                                                                    Page 9 of 14
+N°      0461136911                                                                                                       A-ASBL 6.3
+
+
+ETAT DES DETTES
+
+                                                                                                              Codes   Exercice
+
+ VENTILATION DES DETTES À L'ORIGINE À PLUS D'UN AN, EN FONCTION DE LEUR DURÉE
+ RÉSIDUELLE
+ Total des dettes à plus d'un an échéant dans l'année                                                        (42)                 49.406
+
+ Total des dettes ayant plus d'un an mais 5 ans au plus à courir                                             8912                117.567
+                                                                                                             8913
+ Total des dettes ayant plus de 5 ans à courir
+
+ DETTES GARANTIES (COMPRISES DANS LES RUBRIQUES 17 ET 42/48 DU PASSIF)
+ Dettes garanties par les pouvoirs publics belges
+     Dettes financières                                                                                      8921
+
+       Etablissements de crédit, dettes de location-financement et dettes assimilées                         891
+
+       Autres emprunts                                                                                       901
+
+     Dettes commerciales                                                                                     8981
+
+       Fournisseurs                                                                                          8991
+
+       Effets à payer                                                                                        9001
+
+     Acomptes sur commandes                                                                                  9011
+
+     Dettes salariales et sociales                                                                           9021
+
+     Autres dettes                                                                                           9051
+
+                                                                                                             9061
+ Total des dettes garanties par les pouvoirs publics belges
+
+ Dettes garanties par des sûretés réelles constituées ou irrévocablement promises sur les actifs de
+ l'association ou de la fondation
+     Dettes financières                                                                                      8922
+
+       Etablissements de crédit, dettes de location-financement et dettes assimilées                         892
+
+       Autres emprunts                                                                                       902
+
+     Dettes commerciales                                                                                     8982
+
+       Fournisseurs                                                                                          8992
+
+       Effets à payer                                                                                        9002
+
+     Acomptes sur commandes                                                                                  9012
+
+     Dettes fiscales, salariales et sociales                                                                 9022
+
+       Impôts                                                                                                9032
+
+       Rémunérations et charges sociales                                                                     9042
+
+     Autres dettes                                                                                           9052
+
+ Total des dettes garanties par des sûretés réelles constituées ou irrévocablement promises sur les actifs   9062
+ de l'association ou de la fondation
+
+
+
+
+                                                                                                                          Page 10 of 14
+N°      0461136911                                                                                               A-ASBL 6.4
+
+
+RÉSULTATS
+
+                                                                            Codes   Exercice             Exercice précédent
+
+ PERSONNEL
+ Travailleurs pour lesquels l'association ou la fondation a introduit une
+ déclaration DIMONA ou qui sont inscrits au registre général du personnel
+     Effectif moyen du personnel calculé en équivalents temps plein         9087                 21,1                     20,4
+
+ PRODUITS ET CHARGES DE TAILLE OU D'INCIDENCE EXCEPTIONNELLE
+ Produits non récurrents                                                    76                 10.341                   13.549
+     Produits d'exploitation non récurrents                                 (76A)              10.341                  13.549
+     Produits financiers non récurrents                                     (76B)
+
+ Charges non récurrentes                                                    66                   6.271                    1.635
+     Charges d'exploitation non récurrentes                                 (66A)               6.271                    1.635
+     Charges financières non récurrentes                                    (66B)
+
+ RÉSULTATS FINANCIERS
+ Intérêts portés à l'actif                                                  6502                 2.117                    2.660
+
+
+
+
+                                                                                                                  Page 11 of 14
+N°        0461136911                                                                                                                                        A-ASBL 6.7
+
+
+BILAN SOCIAL
+
+
+
+
+Numéros des commissions paritaires dont dépend l'association ou la fondation:
+
+
+
+
+TRAVAILLEURS POUR LESQUELS L'ASSOCIATION OU LA FONDATION A INTRODUIT UNE DÉCLARATION DIMONA OU QUI SONT
+INSCRITS AU REGISTRE GÉNÉRAL DU PERSONNEL
+
+
+
+
+                                                                                                                     3. Total (T) ou total en    3P. Total (T) ou total en
+                                                              1. Temps plein             2. Temps partiel           équivalents temps plein      équivalents temps plein
+                                                   Codes                                                                      (ETP)                       (ETP)
+Au cours de l'exercice et de                                    (exercice)                  (exercice)
+l'exercice précédent                                                                                                       (exercice)             (exercice précédent)
+Nombre moyen de travailleurs                      100                           21                            0,2                         21,1                        20,4
+Nombre d'heures effectivement prestées            101                        32.134                           154                       32.288                      32.969
+Frais de personnel                                102                                                                                887.163                       998.720
+
+
+
+
+                                                                                                                                                 3. Total en équivalents
+                                                                     Codes            1. Temps plein                 2. Temps partiel
+A la date de clôture de l'exercice                                                                                                                     temps plein
+Nombre de travailleurs                                              105                                  22                                                            22
+
+Par type de contrat de travail
+     Contrat à durée indéterminée                                   110                                  13                                                            13
+     Contrat à durée déterminée                                     111                                  9                                                               9
+     Contrat pour l'exécution d'un travail nettement défini         112
+     Contrat de remplacement                                        113
+
+Par sexe et niveau d'études
+     Hommes                                                         120                                  14                                                            14
+          de niveau primaire                                        1200
+          de niveau secondaire                                      1201                                 11                                                            11
+          de niveau supérieur non universitaire                     1202                                 2                                                               2
+          de niveau universitaire                                   1203                                 1                                                               1
+     Femmes                                                         121                                  8                                                               8
+          de niveau primaire                                        1210                                 1                                                               1
+          de niveau secondaire                                      1211                                 6                                                               6
+          de niveau supérieur non universitaire                     1212                                 1                                                               1
+          de niveau universitaire                                   1213
+
+Par catégorie professionnelle
+     Personnel de direction                                         130
+     Employés                                                       134                                  18                                                            18
+     Ouvriers                                                       132                                  4                                                               4
+     Autres                                                         133
+
+
+
+
+                                                                                                                                                             Page 12 of 14
+N°        0461136911                                                                                                                      A-ASBL 6.7
+
+
+TABLEAU DES MOUVEMENTS DU PERSONNEL AU COURS DE L'EXERCICE
+
+
+
+
+                                                                                                                                3. Total en équivalents
+                                                                              Codes   1. Temps plein       2. Temps partiel
+ENTRÉES                                                                                                                               temps plein
+Nombre de travailleurs pour lesquels l'association ou la fondation a
+introduit une déclaration DIMONA ou qui ont été inscrits au registre
+général du personnel au cours de l'exercice                                   205
+
+SORTIES
+Nombre de travailleurs dont la date de fin de contrat a été inscrite dans
+une déclaration DIMONA ou au registre général du personnel au cours
+de l'exercice                                                                 305
+
+
+
+
+RENSEIGNEMENTS SUR LES FORMATIONS POUR LES TRAVAILLEURS AU COURS DE L'EXERCICE
+
+
+
+
+                                                                                       Codes           Hommes           Codes          Femmes
+
+Initiatives en matière de formation professionnelle continue à caractère
+formel à charge de l'employeur
+     Nombre de travailleurs concernés                                                  5801                            5811
+     Nombre d'heures de formation suivies                                              5802                            5812
+     Coût net pour l'association ou la fondation                                       5803                            5813
+          dont coût brut directement lié aux formations                                58031                           58131
+          dont cotisations payées et versements à des fonds collectifs                 58032                           58132
+          dont subventions et autres avantages financiers reçus (à déduire)            58033                           58133
+
+Initiatives en matière de formation professionnelle continue à caractère
+moins formel ou informel à charge de l'employeur
+     Nombre de travailleurs concernés                                                  5821                            5831
+     Nombre d'heures de formation suivies                                              5822                            5832
+     Coût net pour l'association ou la fondation                                       5823                            5833
+
+Initiatives en matière de formation professionnelle initiale à charge de
+l'employeur
+     Nombre de travailleurs concernés                                                  5841                            5851
+     Nombre d'heures de formation suivies                                              5842                            5852
+     Coût net pour l'association ou la fondation                                       5843                            5853
+
+
+
+
+                                                                                                                                           Page 13 of 14
+N°      0461136911                                                                                                                        A-ASBL 6.8
+
+
+RÈGLES D'ÉVALUATION
+
+
+
+
+     RÈGLES D'ÉVALUATION
+     REGLES GENERALES D'EVALUATION
+     Pour tout ce que la loi prévoit impérativement, il sera fait application des principes généraux figurant dans le code des sociétés et dans
+     son arrêté royal d'exécution, dont il est superflu de reproduire ici le texte.
+     Pour les matières que la loi règle supplétivement et dans les cas où elle laisse le choix à l'entreprise, l'administrateur a déterminé les
+     règles particulières d'évaluation mentionnées ci-après. Conformément aux dispositions légales en vigueur, il ne pourra être dérogé aux
+     présentes règles d'évaluation qu'après décision expresse des mandataires.
+     Dans la mesure où les mandataires jugent que les cas d'évaluation non expressément prévus dans les présentes règles ne présentent
+     pas une importance suffisante à nécessiter une décision additionnelle ou modificative, ceux-ci seront réglés par des méthodes similaires
+     à celles qui figurent ci-après, sans qu'il en soit fait mention spéciale dans le livre des inventaires et dans le résumé des règles
+     d'évaluation accompagnant les comptes annuels.
+     ACTIF
+     1.1.Frais d'établissement et frais de restructuration
+     Les frais suivants sont portés à l'actif :
+     -Frais d'augmentation de capital
+     -Frais de restructuration.
+     Ces frais sont amortis au taux annuel de 100 %.
+     1.2.Immobilisations incorporelles
+     Les immobilisations incorporelles sont portées à l'actif du bilan à leur prix d'acquisition, y compris les frais accessoires, ou à leur coût de
+     revient ou à leur valeur d'apport.
+     Les taux d'amortissements pratiqués sont de 10 à 20% au prorata temporis.
+     1.3.Immobilisations corporelles
+     Les immobilisations corporelles sont portées à l'actif du bilan à leur prix d'acquisition, y compris les frais accessoires, ou à leur coût de
+     revient ou à leur valeur d'apport.
+     Les amortissements sont pratiqués selon la méthode linéaire au prorata temporis, aux taux fiscalement admis, sur base de la durée de
+     vie probable, soit:
+     1.Terrains et constructions :de 0% à 100 %
+     2.Mobilier et Matériel de bureau :20%
+     3.Matériel roulant :25%
+     Les immobilisations réalisées par l'entreprise pour elle-même sont valorisées à leur coût de revient. Celui-ci s'obtient en ajoutant au prix
+     d'acquisition des matières premières, des matières consommables et des fournitures, les coûts de fabrication directement imputables à
+     ces actifs (y inclus le coût de la main d'œuvre).
+     1.4.Immobilisations financières
+     Les immobilisations financières sont portées à l'actif du bilan à leur prix d'acquisition, hors frais accessoires, et compte tenu des montants
+     restant éventuellement à libérer et corrections de valeurs y afférentes.
+     Les montants non appelés sur participations et sur actions et parts sont mentionnés distinctement dans l'annexe.
+     A la fin de chaque exercice social, une évaluation individuelle de chaque titre est effectuée de façon à refléter, de manière aussi
+     satisfaisante que possible, la situation, la rentabilité ou les perspectives de la société concernée.
+     La méthode d'évaluation est choisie objectivement en tenant compte de la nature et des caractéristiques du titre. Elle peut être basée sur
+     l'un ou l'autre des critères traditionnellement utilisés pour de telles appréciations ou bien sur la moyenne, pondérée de manière
+     appropriée, de plusieurs d'entre eux. La méthode d'évaluation retenue pour un titre, est employée systématiquement d'exercice à
+     exercice, sauf si l'évolution des circonstances conduit à retenir une autre méthode. En ce cas, si le changement a des conséquences
+     significatives, une mention spéciale en est faite dans l'annexe.
+     Lorsque cette évaluation fait paraître, par rapport à la valeur comptable, une dépréciation durable, les titres font l'objet d'une réduction de
+     valeur égale à la partie durable de la moins-value observée. Une reprise de réduction de valeur est effectuée lorsqu'une plus-value
+     durable est observée sur les titres qui auraient fait l'objet antérieurement de réduction de valeur.
+     Les créances sont comptabilisées à leur valeur nominale. Elles font l'objet de réduction de valeur si leur remboursement à l'échéance est
+     en tout ou en partie incertain ou compromis.
+
+     1.5.Stocks et commandes en cours d'exécution
+     1.5.1.Stocks
+     1.5.1.1.Valorisation
+     Les marchandises (stock magasin) sont comptabilisées à leur prix d'acquisition.
+     1.5.1.2.Réductions de valeur
+     Pour les approvisionnements, matières consommables, fournitures et les marchandises, des réductions de valeur sont actées lorsque la
+     valeur de marché est inférieure au prix d'acquisition définis ci-dessus.
+     De plus les stocks en magasin (marchandises) font l'objet de réduction de valeur pour tenir compte de la vétusté de certains de ceux-ci.
+     Les coefficients d'abattement appliqués varient suivant la nature du bien concerné.
+     1.5.1.3.Commandes en cours d'exécution
+     Les commandes en cours d'exécution sont évaluées à leur coût de revient majoré, compte tenu du degré d'avancement des travaux des
+     fabrications ou des prestations, de l'excédent du prix stipulé au contrat par rapport au coût de revient lorsque cet excédent est devenu
+     raisonnablement certain.
+     1.6.Créances à plus d'un an et créances à un an au plus
+     Les créances sont comptabilisées à la valeur nominale.
+     Les créances font l'objet de réduction de valeur si leur remboursement à l'échéance est, en tout ou en partie, incertain ou compromis.
+     Les règles d'évaluation en devises leur sont applicables.
+     1.7.Placements de trésorerie - valeurs disponibles
+     Les placements de trésorerie sont portés à l'actif du bilan à leur valeur d'acquisition, frais accessoires inclus.
+     Si leur valeur de réalisation à la date de clôture est inférieure à leur valeur comptable, ils font l'objet de réduction de valeur.
+     Les valeurs disponibles sont évaluées à leur valeur nominale. .
+     Les règles d'évaluation en devises sont applicables à ces deux rubriques.
+     1.8.Comptes de régularisation
+     Les charges, exposées pendant l'exercice, imputables en tout ou en partie à un exercice ultérieur, sont inscrites dans les comptes de
+     régularisation (charges à reporter) à concurrence de la quote-part relative à l'exercice ultérieur.
+     Les revenus ou fractions de revenus, dont la perception n'aura lieu qu'au cours d'un ou plusieurs exercices suivants, mais qui sont à
+     rattacher à l'exercice en cause, sont comptabilisés pour le montant de la quote-part afférente à l'exercice en cause (produits acquis).
+     PASSIF
+     1.9.Provisions pour risques et charges
+     A la clôture de chaque exercice, le Conseil d'administration, statuant avec prudence, sincérité et bonne foi, examine les provisions à
+     constituer pour couvrir tous les risques prévus, charges ou pertes éventuelles nées au cours de l'exercice et/ou des exercices antérieurs.
+     Les provisions afférentes aux exercices antérieurs sont régulièrement revues et reprises en résultats si elles sont devenues sans objet.
+     1.10.Dettes à plus d'un an et dettes échéant dans l'année
+     Ces dettes sont comptabilisées à leur valeur nominale.
+     Les règles d'évaluation en devises leur sont applicables.
+
+     1.11.Comptes de régularisation
+     Les charges qui seront enregistrés au cours d'un exercice ultérieur mais dont une fraction de celles-ci est imputable à l'exercice, sont
+     inscrites dans les comptes de régularisation (charges à imputer) à concurrence de la quote-part relative à l'exercice.
+     Les produits, encaissés pendant l'exercice, relatifs en tout ou en partie à un exercice ultérieur, sont inscrits dans les comptes de
+     régularisation (produits à reporter) à concurrence de la quote-part relative à l'exercice ultérieur.
+     1.12.Principes généraux applicables à l'évaluation des actifs et passifs libellés en devises
+     Les éléments monétaires du bilan libellés en devise étrangère sont convertis en Euro sur base des règles suivantes :
+     1.12.1.En cours d'exercice
+     En cours d'exercice, les opérations en devises sont converties en euros par application au cours du jour.
+     1.12.2.En fin d'exercice
+     A la date de clôture du bilan, les éléments monétaires du bilan libellés en devises sont convertis au taux moyen du mois de clôture.
+     *Un écart de conversion est enregistré sur les éléments d'actif et sur les éléments de passif.
+     Seul l'écart net négatif est acté en charges financières au compte "écarts de convention".
+
+
+
+
+                                                                                                                                           Page 14 of 14
+

@@ -35910,3 +35910,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@badje.be — general mailbox verified on the official site https://badje.be/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_badje_saint_gilles_vaph_matrix_9900_1_23m_9901_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3307/; rq_3307=done; spawn **rq_3308**; ticks=3307.
 - Next: **rq_3308 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3308 — 2026-10-13T05:17:49Z — rq_3308 leftover dual Proximité Santé Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.991 / 94.992 / 94.999 / 88.109 (1,750 legal persons not yet in the repo) and NACE 88.992 / 88.994 (401) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first; EU-level bodies excluded: **Proximité Santé** → KBO 0461.136.911 had 0 prior entity rows.
+- KBO: Actief since 12 maart 1997; VZW; zetel Boondaalse Steenweg 168 1050 Elsene; 1 VE; 0 prior entity rows for 0461.136.911
+- Found: official NBB VKT-VZW native PDF **2026-00367145** (53658 B / 14p; AV 17-06-2026; neergelegd 30/07/2026; MD5 b466a1460cdf8d646fe43482fcf2460e). VKT-VZW 9900 **EUR1204340** (-8.50%); 62 **EUR998823**; 9901 **EUR55609** (was 165812); 9904 60109; equity 682636; cash 552341; FTE 21,1 (was 20,4).
+- FOI address: info@proximitesante.be — general mailbox verified on the official site https://www.proximitesante.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_proximite_sante_ixelles_vaph_matrix_9900_1_20m_9901_56k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3308/; rq_3308=done; spawn **rq_3309**; ticks=3308.
+- Next: **rq_3309 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
