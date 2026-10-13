@@ -35324,3 +35324,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@irara.org — general mailbox verified on the official site https://www.irara.org/contact/.
 - Wrote: sources +3; budgets +7; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_irara_vaph_matrix_9900_5_92m_9901_4009k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3248/; rq_3248=done; spawn **rq_3249**; ticks=3248.
 - Next: **rq_3249 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3249 — 2026-10-13T02:44:27Z — rq_3249 leftover dual Entraide et Fraternité Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Large Brussels social-work non-profits from a KBO activity-code scan (NACE 88.999, all Brussels postcodes; 523 legal persons not yet in the repo), chosen after the City of Brussels 2025 register tail became small; code 733 rows first, then code 9900, largest first: **Entraide et Fraternité** → KBO 0418.015.461 had 0 prior entity rows.
+- KBO: Actief since 25 november 1977; VZW; zetel Voorlopig Bewindstraat 32 1000 Brussel; 5 VE; 0 prior entity rows for 0418.015.461
+- Found: official NBB VKT-VZW native PDF **2026-00222883** (59194 B / 17p; AV 20-06-2026; neergelegd 30/06/2026; MD5 4c6f3174cc3805d9cf30616dcaa29e05). VKT-VZW 9900 **EUR4566856** (-8.30%); 62 **EUR1978521**; 9901 **EUR330083** (was 475517); 9904 312391; equity 2060580; cash 1554356; FTE 24,7 (was 26,1).
+- FOI address: info@entraide.be — general mailbox verified on the official site https://entraide.be/infos/a-propos-de-ce-site/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_entraide_et_fraternite_vaph_matrix_9900_4_57m_9901_330k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3249/; rq_3249=done; spawn **rq_3250**; ticks=3249.
+- Next: **rq_3250 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
