@@ -34742,3 +34742,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3190 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3190 run locally as fallback.
 - Next: **rq_3190** — Institut Saint-Jean-Baptiste Wavre (code 9900 EUR6.85m), Notre-Dame de Jupille (code 9900 EUR6.35m), @sec.cfwb.be mailboxes from the SeGEC directory, after the dedup check; then small leftovers.
+
+
+## Tick 3191 — 2026-10-13T01:11:50Z — rq_3190 leftover dual Comité organisateur de l'Institut Saint-Jean-Baptiste (Wavre) Wavre YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB special-needs and secondary-school organising bodies (ASBL) whose school mailbox (@sec.cfwb.be) is listed on the SeGEC school directory (enseignement.catholique.be, crawled 13 Oct 2026, 1,789 school pages) and matched to the KBO by name; largest code 733 first: **Comité organisateur de l'Institut Saint-Jean-Baptiste (Wavre)** → KBO 0409.889.336 had 0 prior entity rows.
+- KBO: Actief since 14 november 1968; VZW; zetel Rue de Bruxelles 45 1300 Wavre; 2 VE; 0 prior entity rows for 0409.889.336
+- Found: official NBB VKT-VZW native PDF **2026-00528998** (50784 B / 13p; AV 24-06-2026; neergelegd 29/09/2026; MD5 e585810421221939f57fddebeff97f41). VKT-VZW 9900 **EUR6853103** (+40.99%); 62 **EUR6708053**; 9901 **EUR-33366** (was -5161); 9904 -34555; equity 1568474; cash 283869; FTE n/a.
+- FOI address: isjb.wavre@sec.cfwb.be — FWB-issued school mailbox (isjb.wavre@sec.cfwb.be) of Institut Saint-Jean-Baptiste (Wavre), a school run by this organising body, as listed on the SeGEC school directory https://enseignement.catholique.be/etablissements/institut-saint-jean-baptiste/ (the page names this ASBL as pouvoir organisateur); per user decision of 13 Oct 2026 an @sec.cfwb.be school address on the SeGEC/enseignement.be directory counts; not a mailbox of the ASBL's board itself.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_isjb_wavre_vaph_matrix_9900_6_85m_9901_loss_33k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3191/; rq_3190=done; spawn **rq_3192**; ticks=3191.
+- Next: **rq_3192 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
