@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T21:59:12Z,rq_3784,3784,no,tick3784 leftover dual Anima Eterna Brugge 0450.929.145 Strong PDF 2026-00123914 9900 0.73m / 9901 377k; next rq_3785 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T21:59:20Z,rq_3785,3785,no,tick3785 leftover dual Democrazy Gent 0422.076.791 Strong PDF 2026-00139875 9900 0.66m / 9901 44k; next rq_3786 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

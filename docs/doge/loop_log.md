@@ -40680,3 +40680,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@animaeterna.be — general mailbox verified on the official site https://animaeterna.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_anima_eterna_brugge_vaph_matrix_9900_0_73m_9901_377k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3784/; rq_3784=done; spawn **rq_3785**; ticks=3784.
 - Next: **rq_3785 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3785 — 2026-10-13T21:59:20Z — rq_3785 leftover dual Democrazy Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Democrazy** → KBO 0422.076.791 had 0 prior entity rows.
+- KBO: Actief since 5 juni 1981; VZW; zetel Schepenenvijverstraat 4 bus /001 9000 Gent; 1 VE; 0 prior entity rows for 0422.076.791
+- Found: official NBB VKT-VZW native PDF **2026-00139875** (51401 B / 14p; AV 07-05-2026; neergelegd 05/06/2026; MD5 b814035509cd47c0619df4fdf8e5b87f). VKT-VZW 9900 **EUR664883** (+20.78%); 62 **EUR574652**; 9901 **EUR44203** (was 6819); 9904 44964; equity 423764; cash 635838; FTE 8,4 (was 7,7).
+- FOI address: contact@democrazy.be — general mailbox verified on the official site https://www.democrazy.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_democrazy_gent_vaph_matrix_9900_0_66m_9901_44k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3785/; rq_3785=done; spawn **rq_3786**; ticks=3785.
+- Next: **rq_3786 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
