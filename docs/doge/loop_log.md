@@ -36400,3 +36400,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@santhea.be — general mailbox verified on the official site https://www.santhea.be/contact/ (the site privacy page lists the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_santhea_brussel_vaph_matrix_733_0_57m_9901_52k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3356/; rq_3356=done; spawn **rq_3357**; ticks=3356.
 - Next: **rq_3357 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3357 — 2026-10-13T07:02:39Z — rq_3357 leftover dual Fost Plus Evere YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.120 / 94.110 / 91.xxx / 93.1xx / 49.390 / 81.300 / 01.610 / 02.400 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Fost Plus** → KBO 0447.550.872 had 0 prior entity rows.
+- KBO: Actief since 18 april 1992; VZW; zetel Olympiadenlaan 2 1140 Evere; 1 VE; 0 prior entity rows for 0447.550.872
+- Found: official NBB VOL-VZW native PDF **2026-00244514** (532239 B / 45p; AV 25-06-2026; neergelegd 30/06/2026; MD5 2923339235abb316cf8bfea194a0d649). VOL-VZW 733 **EUR66641** (+66.60%); 62 **EUR8220908**; 9901 **EUR41000799** (was -5793384); 9904 41645341; equity 96078820; cash 74685661; FTE 64 (was 59,5).
+- FOI address: fostplus@fostplus.be — general mailbox verified on the official site https://www.fostplus.be/fr/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_fost_plus_evere_vaph_matrix_733_0_07m_9901_41001k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3357/; rq_3357=done; spawn **rq_3358**; ticks=3357.
+- Next: **rq_3358 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
