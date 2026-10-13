@@ -36610,3 +36610,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: mmsp@mmsp.be — general mailbox verified on the official site https://mmsp.be/privacy-policy/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_mm_sante_plurielle_vaph_matrix_9900_1_72m_9901_157k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3377/; rq_3377=done; spawn **rq_3378**; ticks=3377.
 - Next: **rq_3378 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3378 — 2026-10-13T08:03:44Z — rq_3378 leftover dual Maison médicale La Brèche Châtelineau YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Maison médicale La Brèche** → KBO 0445.853.768 had 0 prior entity rows.
+- KBO: Actief since 6 november 1991; VZW; zetel Ruelle Choumaque 21 6200 Châtelet; 1 VE; 0 prior entity rows for 0445.853.768
+- Found: official NBB VKT-VZW native PDF **2026-00340588** (51108 B / 14p; AV 25-04-2026; neergelegd 28/07/2026; MD5 90209c1e90e0804c440e7c004435e45f). VKT-VZW 9900 **EUR1543016** (+4.25%); 62 **EUR1457903**; 9901 **EUR-6850** (was 131752); 9904 -11955; equity 1893920; cash 1082936; FTE 14,8 (was 13,1).
+- FOI address: contact@mmlabreche.be — general mailbox verified on the official site https://www.mmlabreche.be/contacts/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_mm_la_breche_chatelet_vaph_matrix_9900_1_54m_9901_loss_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3378/; rq_3378=done; spawn **rq_3379**; ticks=3378.
+- Next: **rq_3379 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
