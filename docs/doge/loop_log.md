@@ -35630,3 +35630,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kazernedossin.eu — general mailbox verified on the official site https://kazernedossin.eu/praktisch/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mechelen); FOI **gap_kazerne_dossin_mechelen_vaph_matrix_9900_4_39m_9901_2368k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3279/; rq_3279=done; spawn **rq_3280**; ticks=3279.
 - Next: **rq_3280 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3280 — 2026-10-13T04:46:13Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2889** of 2944 rows; inventory budgets 61804 · commitments 6944 · leaderboard 9062 · entities 2962 · sources 9765.
+- Top10: **stable** (3271-3279 added 8 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3271-3279: La Maison de Musti · Crèche Petit à Petit Huy · SDPA Namur · Cunina · Régie des Quartiers de Liège · Opéra Royal de Wallonie-Liège · Ancienne Belgique · Kazerne Dossin.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3280 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3280 run locally as fallback.
+- Next: **rq_3280** — new NACE scans (code 9900, NOT subsidy amounts): Kaaitheater (EUR2.69m), Allo Candy (EUR2.30m), Musée de la Photographie (EUR1.81m), Espaces Tourisme & Culture Stavelot (EUR1.32m), Latitude 50 (EUR0.90m); mailboxes verified on official sites, after the dedup check.

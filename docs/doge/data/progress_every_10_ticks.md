@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3280** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3270; 3271-3279 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3271-3279 residual dual L5 (not near-complete of 348bn):** La Maison de Musti · Crèche Petit à Petit Huy · SDPA Namur · Cunina · Régie des Quartiers de Liège · Opéra Royal de Wallonie-Liège · Ancienne Belgique · Kazerne Dossin (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2889** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2944** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3271-3279** La Maison de Musti · Crèche Petit à Petit Huy · SDPA Namur · Cunina · Régie des Quartiers de Liège · Opéra Royal de Wallonie-Liège · Ancienne Belgique · Kazerne Dossin.
+
+### Inventory (tick 3280)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 61804 |
+| commitments.csv | 6944 |
+| leaderboard.csv | 9062 |
+| entities.csv | 2962 |
+| sources.csv | 9765 |
+| FOI ready | 2889 |
+| FOI total rows | 2944 |
+| research_queue open | rq_3280 (carried; next: Kaaitheater, Allo Candy, Musée de la Photographie Charleroi, Espaces Tourisme & Culture Stavelot, Latitude 50 (new NACE scans, code 9900); largest first) |
+
+### What improved since tick 3270
+
+- **New source (tick3271-3279):** La Maison de Musti · Crèche Petit à Petit Huy · SDPA Namur · Cunina · Régie des Quartiers de Liège · Opéra Royal de Wallonie-Liège · Ancienne Belgique · Kazerne Dossin. 3271-3275 finished the NACE 88.911/88.991 9900 picks; 3276 corrected the Régie des Quartiers de Liège draft address to the KBO registered seat (city-page address noted). 3277+ uses new activity-code scans over Walloon, Brussels and Flemish postcodes: NACE 90.311 (arts venues) and 88.102 (635 legal persons not yet in the repo), 90.111 and 91.210 (2,445), 93.110 and 85.520 (4,272; mostly companies/small clubs, no code 733 row). Code 733 rows first (Opéra Royal de Wallonie, Ancienne Belgique), then code 9900.
+- **FOI addresses:** general mailboxes verified on each body's own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3280 ran on the local fallback runner; GitHub Actions status not re-checked (GitHub CLI on the box not signed in). Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3270** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
