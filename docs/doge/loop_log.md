@@ -34934,3 +34934,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@stappenvzw.be — general mailbox verified on the official site https://stappenvzw.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_stappen_gent_vaph_matrix_9900_2_48m_9901_loss_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3209/; rq_3209=done; spawn **rq_3210**; ticks=3209.
 - Next: **rq_3210 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3210 — 2026-10-13T01:46:24Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2827** of 2882 rows; inventory budgets 61297 · commitments 6882 · leaderboard 9000 · entities 2900 · sources 9579.
+- Top10: **stable** (3201-3209 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3201-3209: Collège Saint-Hubert Boitsfort · Lire et Ecrire Bruxelles · Collège Saint-Michel Gosselies · Saint-Berthuin Malonne · Institut Saint-Michel Verviers · Feux-Follets Fleurus · SSM Verviers · HP Le Relais Tournai · Begeleidingscentrum Stappen Gent.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3210 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3210 run locally as fallback.
+- Next: **rq_3210** — SSM Forest-Uccle-Watermael (code 9900 EUR2.25m), SMES-B (EUR1.95m), Delta Tienen (EUR1.60m), SSM Le Méridien (EUR1.54m), VK Vlaams-Brabant (EUR1.49m); mailboxes verified on official sites, after the dedup check.

@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 3210** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3200; 3201-3209 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3201-3209 residual dual L5 (not near-complete of 348bn):** Collège Saint-Hubert Boitsfort · Lire et Ecrire Bruxelles · Collège Saint-Michel Gosselies · Saint-Berthuin Malonne · Institut Saint-Michel Verviers · Feux-Follets Fleurus · SSM Verviers · HP Le Relais Tournai · Begeleidingscentrum Stappen Gent (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2827** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2882** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3201-3209** Collège Saint-Hubert Boitsfort · Lire et Ecrire Bruxelles · Collège Saint-Michel Gosselies · Saint-Berthuin Malonne · Institut Saint-Michel Verviers · Feux-Follets Fleurus · SSM Verviers · HP Le Relais Tournai · Begeleidingscentrum Stappen Gent.
+
+### Inventory (tick 3210)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 61297 |
+| commitments.csv | 6882 |
+| leaderboard.csv | 9000 |
+| entities.csv | 2900 |
+| sources.csv | 9579 |
+| FOI ready | 2827 |
+| FOI total rows | 2882 |
+| research_queue open | rq_3210 (carried; next: SSM Forest-Uccle-Watermael, SMES-B, Delta sociale werkplaats Tienen, SSM Le Méridien, VK Vlaams-Brabant; largest first) |
+
+### What improved since tick 3200
+
+- **New source (tick3201-3209):** Collège Saint-Hubert Boitsfort · Lire et Ecrire Bruxelles · Collège Saint-Michel Gosselies · Saint-Berthuin Malonne · Institut Saint-Michel Verviers · Feux-Follets Fleurus · SSM Verviers · HP Le Relais Tournai · Begeleidingscentrum Stappen Gent. 3201-3205 finished the FWB school list (code 733). 3206+ is a fresh KBO name search (youth care / aide à la jeunesse, mental health / santé mentale, habitations protégées, sheltered / social workplaces): 293 new VZW/ASBL numbers triaged; the only qualifying code 733 row (Groep Philippus Neri GGZ, EUR0.11m) had no verifiable general mailbox, so the batch runs on code 9900 (gross margin, NOT subsidy amounts), largest first.
+- **FOI addresses:** general mailboxes verified on each body's own official site (Dutch drafts: voluntary profile, no Bestuursdecreet claim).
+- **Runner note:** 2576-3210 ran on the local fallback runner; GitHub Actions status not re-checked (GitHub CLI on the box not signed in); last known run failed at its Tick step (Grok CLI not signed in). Do not run both at once.
+- **Rejected 3201-3209 (fast, ~5 min cap):** Groep Philippus Neri GGZ, De Speelboom, SSM-ULB (EUR4.50m), Beschut Wonen Noolim / Brugge-Oostende-Westkust / Kempen: no general mailbox verifiable on an official page.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3200** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
