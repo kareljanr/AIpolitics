@@ -39970,3 +39970,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: luxembourg@sdj.be — office mailbox verified on the official SDJ site https://www.sdj.be/presentation/arlon/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_sdj_province_luxembourg_arlon_vaph_matrix_9900_0_53m_9901_loss_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3713/; rq_3713=done; spawn **rq_3714**; ticks=3713.
 - Next: **rq_3714 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3714 — 2026-10-13T17:18:37Z — rq_3714 leftover dual Options (AMO Oxyjeunes) Verviers YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Options (AMO Oxyjeunes)** → KBO 0447.547.409 had 0 prior entity rows.
+- KBO: Actief since 27 april 1992; VZW; zetel Rue des Martyrs 37 4800 Verviers; 1 VE; 0 prior entity rows for 0447.547.409
+- Found: official NBB MIC-VZW native PDF **2026-00177096** (38366 B / 9p; AV 15-06-2026; neergelegd 15/06/2026; MD5 98e6fb605f058284e2a13c1755972a21). MIC-VZW 9900 **EUR524098** (+3.97%); 62 **EUR519215**; 9901 **EUR-431** (was 61979); 9904 101; equity 62878; cash 440486; FTE n/a.
+- FOI address: direction@oxyjeunesverviers.be — direction mailbox verified on the official site https://oxyjeunesverviers.be/a-propos/ (names the ASBL Options; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_options_oxyjeunes_verviers_vaph_matrix_9900_0_52m_9901_loss_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3714/; rq_3714=done; spawn **rq_3715**; ticks=3714.
+- Next: **rq_3715 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
