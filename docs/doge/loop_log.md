@@ -34844,3 +34844,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3200 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3200 run locally as fallback.
 - Next: **rq_3200** — Collège Saint-Hubert Boitsfort (code 733 EUR9.35m), Lire et Ecrire Bruxelles (EUR7.74m), Collège Saint-Michel Gosselies (EUR6.20m), Saint-Berthuin Malonne (EUR5.32m), Institut Saint-Michel Verviers (EUR3.54m), mailboxes verified on SeGEC/official pages, after the dedup check.
+
+
+## Tick 3201 — 2026-10-13T01:34:39Z — rq_3200 leftover dual Collège Saint-Hubert (Watermael-Boitsfort) Watermael-Boitsfort YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies and literacy ASBLs (ASBL) whose general/role mailbox is listed on the SeGEC school directory or an official site, matched to the KBO; largest code 733 first: **Collège Saint-Hubert (Watermael-Boitsfort)** → KBO 0409.817.080 had 0 prior entity rows.
+- KBO: Actief since 17 juni 1963; VZW; zetel Charle-Albertlaan 9 1170 Watermaal-Bosvoorde; 3 VE; 0 prior entity rows for 0409.817.080
+- Found: official NBB VOL-VZW native PDF **2026-00086749** (281757 B / 37p; AV 15-04-2026; neergelegd 22/04/2026; MD5 7c74bcc32860395468e8c3e483cfa959). VOL-VZW 733 **EUR9347977** (+3.83%); 62 **EUR8328461**; 9901 **EUR74792** (was 64402); 9904 58716; equity 1274077; cash 1351100; FTE 150,1 (was 141,6).
+- FOI address: info@collegesaint-hubert.be — general/role mailbox of the school of the same name run by this organising body, listed on the SeGEC school directory page https://enseignement.catholique.be/etablissements/college-saint-hubert/ which names this ASBL as pouvoir organisateur (opened 13 Oct 2026).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_college_saint_hubert_boitsfort_vaph_matrix_733_9_35m_9901_75k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3201/; rq_3200=done; spawn **rq_3202**; ticks=3201.
+- Next: **rq_3202 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
