@@ -35334,3 +35334,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@entraide.be — general mailbox verified on the official site https://entraide.be/infos/a-propos-de-ce-site/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_entraide_et_fraternite_vaph_matrix_9900_4_57m_9901_330k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3249/; rq_3249=done; spawn **rq_3250**; ticks=3249.
 - Next: **rq_3250 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3250 — 2026-10-13T02:45:52Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2863** of 2918 rows; inventory budgets 61591 · commitments 6918 · leaderboard 9036 · entities 2936 · sources 9687.
+- Top10: **stable** (3241-3249 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3241-3249: Les Nouveaux Disparus · GC Nekkersdal · MET-X · Beursschouwburg · Kunstenfestivaldesarts · GSD-V (Gemeenschappelijke Sociale Dienst Lokale Besturen) · CAP-CAW Brabantia · IRARA · Entraide et Fraternité.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3250 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3250 run locally as fallback.
+- Next: **rq_3250** — NACE 88.999 Brussels scan (code 9900, NOT subsidy amounts): SASLS-DMBSH (EUR4.13m), Diogenes (EUR2.31m), Mission Locale Saint-Gilles (EUR2.22m), Modus Vivendi (EUR2.04m), SOS Jeunes (EUR1.92m); mailboxes verified on official sites, after the dedup check.
