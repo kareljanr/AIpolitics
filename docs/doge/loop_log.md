@@ -38980,3 +38980,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: coordination@solidarcite.be — coordination (role) mailbox verified on the official site https://www.solidarcite.be/nous-contacter/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_solidarcite_anderlecht_vaph_matrix_9900_0_99m_9901_58k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3614/; rq_3614=done; spawn **rq_3615**; ticks=3614.
 - Next: **rq_3615 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3615 — 2026-10-13T15:47:48Z — rq_3615 leftover dual Brussels Ouderenplatform Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Brussels Ouderenplatform** → KBO 0434.390.942 had 0 prior entity rows.
+- KBO: Actief since 24 november 1987; VZW; zetel Zaterdagplein 6 1000 Brussel; 1 VE; 0 prior entity rows for 0434.390.942
+- Found: official NBB VKT-VZW native PDF **2026-00082305** (57673 B / 17p; AV 25-03-2026; neergelegd 18/04/2026; MD5 784c7ed3c77232eb5603336c4c9d521c). VKT-VZW 9900 **EUR913637** (+3.07%); 62 **EUR813601**; 9901 **EUR35311** (was -80673); 9904 19126; equity 966727; cash 295319; FTE 11,5 (was 12,7).
+- FOI address: info@bop.brussels — general mailbox verified on the official site https://www.bop.brussels/nl/page/8/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_brussels_ouderenplatform_vaph_matrix_9900_0_91m_9901_35k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3615/; rq_3615=done; spawn **rq_3616**; ticks=3615.
+- Next: **rq_3616 leftover dual** — Batch done (3606-3615); one code 733 filer (COTA) then code 9900 rows from the new bounded KBO scan (NACE-BEL 2025 codes 85510, 85520, 88992, 93199, 94920, 94991, 94999) (Médiathèque Nouvelle still unreachable). Next (old-code and NACE-BEL 2025 scans complete, all keys triaged; EPHEC-Galilée not used: no general mailbox on its own site), then further code 9900 leftovers from the rebuilt pool, largest first..
