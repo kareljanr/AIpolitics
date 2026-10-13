@@ -40650,3 +40650,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@daskunst.be — general mailbox verified on the official site https://www.daskunst.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_das_kunst_gent_vaph_matrix_9900_0_52m_9901_loss_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3781/; rq_3780=done; spawn **rq_3782**; ticks=3781.
 - Next: **rq_3782 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3782 — 2026-10-13T21:24:27Z — rq_3782 leftover dual Ouderspunt Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Ouderspunt** → KBO 0642.997.756 had 0 prior entity rows.
+- KBO: Actief since 18 november 2015; VZW; zetel Auwersstraat 48 2600 Antwerpen; 1 VE; 0 prior entity rows for 0642.997.756
+- Found: official NBB MIC-VZW native PDF **2026-00061741** (36847 B / 8p; AV 18-03-2026; neergelegd 25/03/2026; MD5 e3a8b1610115e685efc10fe29d5d545a). MIC-VZW 9900 **EUR412549** (+1.91%); 62 **EUR410743**; 9901 **EUR1787** (was 44413); 9904 2672; equity 290298; cash 346384; FTE n/a.
+- FOI address: info@ouderspunt.be — general mailbox verified on the official site https://www.ouderspunt.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_ouderspunt_berchem_vaph_matrix_9900_0_41m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3782/; rq_3782=done; spawn **rq_3783**; ticks=3782.
+- Next: **rq_3783 leftover dual** — Partial batch (3781-3782); code 9900 rows from nscan22 leftovers, largest first; no code 733 filer; AIMER à LLN and Vagevuur skipped (no mailbox fetched from own site). Next: new bounded scan..
