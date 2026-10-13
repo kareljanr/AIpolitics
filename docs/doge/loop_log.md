@@ -41010,3 +41010,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@peepingtom.be — general mailbox verified on the official site https://www.peepingtom.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_peeping_tom_brussel_vaph_matrix_9900_1_33m_9901_134k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3817/; rq_3817=done; spawn **rq_3818**; ticks=3817.
 - Next: **rq_3818 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3818 — 2026-10-13T22:28:22Z — rq_3818 leftover dual vzw Durme Lokeren YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **vzw Durme** → KBO 0409.336.931 had 0 prior entity rows.
+- KBO: Actief since 27 januari 1969; VZW; zetel Molsbergenstraat 1 9160 Lokeren; 1 VE; 0 prior entity rows for 0409.336.931
+- Found: official NBB VKT-VZW native PDF **2026-00108725** (44430 B / 12p; AV 21-04-2026; neergelegd 11/05/2026; MD5 f8ef64d48d21d19161e8c1accf5cf6a9). VKT-VZW 9900 **EUR875733** (-39.62%); 62 **EUR725917**; 9901 **EUR96192** (was 739742); 9904 90867; equity 7882284; cash 665776; FTE 11,1 (was 10,9).
+- FOI address: info@vzwdurme.be — general mailbox verified on the official site https://www.vzwdurme.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_vzw_durme_lokeren_vaph_matrix_9900_0_88m_9901_96k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3818/; rq_3818=done; spawn **rq_3819**; ticks=3818.
+- Next: **rq_3819 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
