@@ -37780,3 +37780,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@amopassages.be — role mailbox verified on the official site https://www.amopassages.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_passages_amo_namur_vaph_matrix_9900_1_13m_9901_47k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3494/; rq_3494=done; spawn **rq_3495**; ticks=3494.
 - Next: **rq_3495 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3495 — 2026-10-13T11:48:07Z — rq_3495 leftover dual Education-Environnement Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Education-Environnement** → KBO 0416.033.097 had 0 prior entity rows.
+- KBO: Actief since 15 maart 1976; VZW; zetel Rue Fusch 3 4000 Liège; 1 VE; 0 prior entity rows for 0416.033.097
+- Found: official NBB VKT-VZW native PDF **2026-00193070** (51691 B / 13p; AV 11-06-2026; neergelegd 24/06/2026; MD5 9b58519d8aa43ecfaab3b9a33f7aba1c). VKT-VZW 9900 **EUR1096013** (-0.25%); 62 **EUR1122533**; 9901 **EUR-38419** (was 36629); 9904 -26659; equity 612521; cash 821812; FTE 15,5 (was 13,6).
+- FOI address: info@education-environnement.be — general mailbox verified on the official site https://www.education-environnement.be/ contact page (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_education_environnement_liege_vaph_matrix_9900_1_10m_9901_loss_38k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3495/; rq_3495=done; spawn **rq_3496**; ticks=3495.
+- Next: **rq_3496 leftover dual** — Batch done (3486-3495); code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (remaining 82.300 / 93.29x pages and the 20 NACE-BEL 2025 replacement codes still scanning), then further code 9900 leftovers from the cached NBB pool, largest first..
