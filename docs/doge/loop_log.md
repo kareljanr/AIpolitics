@@ -38400,3 +38400,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: iata@iata.be — general (accueil) mailbox shown on the official site https://www.iata.be/contact (same address as the KBO registered seat, Rue de la Montagne 43A).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_iata_namur_vaph_matrix_733_15_77m_9901_loss_265k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3556/; rq_3556=done; spawn **rq_3557**; ticks=3556.
 - Next: **rq_3557 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3557 — 2026-10-13T14:11:05Z — rq_3557 leftover dual Maison médicale Globule Schaerbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Maison médicale Globule** → KBO 0896.023.939 had 0 prior entity rows.
+- KBO: Actief since 24 februari 2008; VZW; zetel Blauweregenlaan 11 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0896.023.939
+- Found: official NBB VKT-VZW native PDF **2026-00278224** (45132 B / 12p; AV 22-04-2026; neergelegd 10/07/2026; MD5 feb00aa2a5d5177c948b5e0a8dc973a1). VKT-VZW 9900 **EUR602837** (+6.45%); 62 **EUR496368**; 9901 **EUR84943** (was 97338); 9904 89068; equity 860499; cash 749158; FTE 6,5 (was 6,3).
+- FOI address: info@mmglobule.be — general mailbox shown on the official site https://mmglobule.be/contact.html (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_mm_globule_schaerbeek_vaph_matrix_9900_0_60m_9901_85k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3557/; rq_3557=done; spawn **rq_3558**; ticks=3557.
+- Next: **rq_3558 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
