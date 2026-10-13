@@ -37200,3 +37200,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@centredesante.be — general mailbox verified on the official site https://centredesante.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_centre_de_sante_vise_vaph_matrix_9900_1_80m_9901_loss_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3436/; rq_3436=done; spawn **rq_3437**; ticks=3436.
 - Next: **rq_3437 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3437 — 2026-10-13T10:09:26Z — rq_3437 leftover dual GIBBIS (Gezondheidsinstellingen Brussel / Bruxelles Institutions de Santé) Auderghem YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **GIBBIS (Gezondheidsinstellingen Brussel / Bruxelles Institutions de Santé)** → KBO 0554.785.857 had 0 prior entity rows.
+- KBO: Actief since 26 juni 2014; VZW; zetel Herrmann-Debrouxlaan 54 1160 Oudergem; 1 VE; 0 prior entity rows for 0554.785.857
+- Found: official NBB VKT-VZW native PDF **2026-00218080** (379761 B / 22p; AV 17-06-2026; neergelegd 22/06/2026; MD5 559cb8d614f190d6b8239772588d7f44). VKT-VZW 9900 **EUR1768891** (-12.95%); 62 **EUR1745213**; 9901 **EUR-64254** (was 226098); 9904 2578; equity 3595227; cash 217023; FTE 14,8 (was 18,1).
+- FOI address: gibbis@gibbis.be — general mailbox verified on the official site https://gibbis.be/nl/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_gibbis_bruxelles_vaph_matrix_9900_1_77m_9901_loss_64k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3437/; rq_3437=done; spawn **rq_3438**; ticks=3437.
+- Next: **rq_3438 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
