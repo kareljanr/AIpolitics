@@ -35650,3 +35650,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kaaitheater.be — general mailbox verified on the official site https://www.kaaitheater.be/nl/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_kaaitheater_brussel_vaph_matrix_9900_2_69m_9901_320k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3281/; rq_3280=done; spawn **rq_3282**; ticks=3281.
 - Next: **rq_3282 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3282 — 2026-10-13T04:46:24Z — rq_3282 leftover dual Allo Candy (Gosselies) Charleroi (Gosselies) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used over Walloon, Brussels and Flemish postcodes: NACE 90.311 (arts venues) and 88.102 (635 legal persons not yet in the repo), NACE 90.111 and 91.210 (2,445), NACE 93.110 and 85.520 (4,272; mostly companies and small clubs, no code 733 row); code 733 rows first, then code 9900, largest first: **Allo Candy (Gosselies)** → KBO 0436.526.625 had 0 prior entity rows.
+- KBO: Actief since 25 november 1988; VZW; zetel Rue Louis Breguet 9 6041 Charleroi; 1 VE; 0 prior entity rows for 0436.526.625
+- Found: official NBB VKT-VZW native PDF **2026-00198498** (101959 B / 18p; AV 29-05-2026; neergelegd 23/06/2026; MD5 6b1843f5e214a15b29bf46c8d34bbce4). VKT-VZW 9900 **EUR2299141** (-2.02%); 62 **EUR2111749**; 9901 **EUR182315** (was -23910); 9904 177187; equity 336714; cash 564636; FTE n/a.
+- FOI address: secretariat@allocandy.be — secretariat mailbox verified on the official site https://www.allocandy.be/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_charleroi); FOI **gap_allo_candy_charleroi_vaph_matrix_9900_2_30m_9901_182k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3282/; rq_3282=done; spawn **rq_3283**; ticks=3282.
+- Next: **rq_3283 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
