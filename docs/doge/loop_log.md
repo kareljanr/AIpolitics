@@ -34944,3 +34944,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3210 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3210 run locally as fallback.
 - Next: **rq_3210** — SSM Forest-Uccle-Watermael (code 9900 EUR2.25m), SMES-B (EUR1.95m), Delta Tienen (EUR1.60m), SSM Le Méridien (EUR1.54m), VK Vlaams-Brabant (EUR1.49m); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3211 — 2026-10-13T01:46:53Z — rq_3210 leftover dual Services de Santé mentale sectorisés de Forest - Uccle - Watermael-Boitsfort Uccle YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Mental-health, youth-care and social-economy non-profits (Walloon/Brussels services de santé mentale and habitations protégées, Flemish jeugdhulp / sociale werkplaats VZWs) from a fresh KBO name search; code 733 rows first (none qualified), then largest code 9900: **Services de Santé mentale sectorisés de Forest - Uccle - Watermael-Boitsfort** → KBO 0418.835.112 had 0 prior entity rows.
+- KBO: Actief since 24 april 1978; VZW; zetel De Frélaan 9 1180 Ukkel; 3 VE; 0 prior entity rows for 0418.835.112
+- Found: official NBB VKT-VZW native PDF **2026-00518880** (49746 B / 13p; AV 29-06-2026; neergelegd 17/09/2026; MD5 3e323031dd13c0ad789ec87f7c15a5b1). VKT-VZW 9900 **EUR2249744** (+6.01%); 62 **EUR2184364**; 9901 **EUR20301** (was 7392); 9904 45384; equity 379212; cash 398899; FTE 24,8 (was 23,8).
+- FOI address: coordination.ucclewb@ssmucclewb.be — general mailbox verified on the official site https://servicedesantementale-uccle-boitsfort.be/contacts/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ssm_forest_uccle_wb_vaph_matrix_9900_2_25m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3211/; rq_3210=done; spawn **rq_3212**; ticks=3211.
+- Next: **rq_3212 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
