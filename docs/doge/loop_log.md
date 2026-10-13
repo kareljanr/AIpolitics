@@ -36270,3 +36270,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@amarrage.be — general mailbox verified on the official site https://amarrage.be/contact/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_amarrage_ottignies_vaph_matrix_9900_5_25m_9901_loss_111k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3343/; rq_3343=done; spawn **rq_3344**; ticks=3343.
 - Next: **rq_3344 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3344 — 2026-10-13T06:18:19Z — rq_3344 leftover dual Home Saint-François (Baelen) Baelen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Home Saint-François (Baelen)** → KBO 0413.296.808 had 0 prior entity rows.
+- KBO: Actief since 12 juni 1973; VZW; zetel Allée St François(BLN) 1 4837 Baelen; 2 VE; 0 prior entity rows for 0413.296.808
+- Found: official NBB VKT-VZW native PDF **2026-00211437** (50293 B / 13p; AV 25-06-2026; neergelegd 29/06/2026; MD5 2c3590b9b0cfb453aaacbb474438f2a7). VKT-VZW 9900 **EUR4984656** (+12.22%); 62 **EUR4899712**; 9901 **EUR14012** (was -32980); 9904 33107; equity 512884; cash 1364473; FTE 67,7 (was 64,8).
+- FOI address: info@hsf-asbl.be — general mailbox verified on the official site https://www.hsf-asbl.be/fr/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_home_saint_francois_baelen_vaph_matrix_9900_4_98m_9901_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3344/; rq_3344=done; spawn **rq_3345**; ticks=3344.
+- Next: **rq_3345 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
