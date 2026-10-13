@@ -37110,3 +37110,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cjt.be — general mailbox verified on the official site https://www.cjt.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_centrum_voor_jeugdtoerisme_vaph_matrix_9900_3_43m_9901_loss_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3427/; rq_3427=done; spawn **rq_3428**; ticks=3427.
 - Next: **rq_3428 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3428 — 2026-10-13T09:39:48Z — rq_3428 leftover dual Service Média-Animation Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Service Média-Animation** → KBO 0412.506.950 had 0 prior entity rows.
+- KBO: Actief since 26 juni 1972; VZW; zetel Raketstraat 62 1130 Brussel; 5 VE; 0 prior entity rows for 0412.506.950
+- Found: official NBB VKT-VZW native PDF **2026-00183169** (56121 B / 14p; AV 10-06-2026; neergelegd 22/06/2026; MD5 264581b0497a98edb4abff974da3d7ad). VKT-VZW 9900 **EUR3055674** (-1.04%); 62 **EUR2630695**; 9901 **EUR193699** (was 102180); 9904 189632; equity 587325; cash 817562; FTE 42,9 (was 46).
+- FOI address: info@media-animation.be — general mailbox verified on the official site https://media-animation.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_media_animation_bruxelles_vaph_matrix_9900_3_06m_9901_194k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3428/; rq_3428=done; spawn **rq_3429**; ticks=3428.
+- Next: **rq_3429 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
