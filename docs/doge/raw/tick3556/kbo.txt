@@ -1,0 +1,1 @@
+{"status": "Actief", "begin": "10 september 1960", "rv": "Vereniging zonder winstoogmerk", "addr": "Rue de la Montagne 43 bus A 5000 Namur", "ve": "2"}

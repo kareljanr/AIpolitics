@@ -38390,3 +38390,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@hippopassion.be — general mailbox verified on the official site https://hippopassion.be/contact-3/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_hippopassion_tinlot_vaph_matrix_9900_0_60m_9901_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3555/; rq_3555=done; spawn **rq_3556**; ticks=3555.
 - Next: **rq_3556 leftover dual** — Batch done (3546-3555); one code 733 row (vzw de Rand, from the NACE-BEL 2025 scan triage) then code 9900 leftovers (Médiathèque Nouvelle still unreachable). Next: triage of new NACE-BEL 2025 scan keys for code 733 filers (old-code scan complete; NACE-BEL 2025 scan still running), then further code 9900 leftovers from the rebuilt pool, largest first..
+
+
+## Tick 3556 — 2026-10-13T14:10:55Z — rq_3556 leftover dual Institut d'Enseignement des Arts, Techniques, Sciences et Artisanats (IATA) Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Institut d'Enseignement des Arts, Techniques, Sciences et Artisanats (IATA)** → KBO 0407.214.413 had 0 prior entity rows.
+- KBO: Actief since 10 september 1960; VZW; zetel Rue de la Montagne 43 bus A 5000 Namur; 2 VE; 0 prior entity rows for 0407.214.413
+- Found: official NBB VOL-VZW native PDF **2026-00285827** (1070578 B / 38p; AV 10-06-2026; neergelegd 12/07/2026; MD5 f61708e6ac65876da805e19183e88080). VOL-VZW 733 **EUR15765420** (+2.45%); 62 **EUR14123724**; 9901 **EUR-264631** (was -442674); 9904 -344303; equity 3237540; cash 939802; FTE 17 (was 15,3).
+- FOI address: iata@iata.be — general (accueil) mailbox shown on the official site https://www.iata.be/contact (same address as the KBO registered seat, Rue de la Montagne 43A).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_iata_namur_vaph_matrix_733_15_77m_9901_loss_265k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3556/; rq_3556=done; spawn **rq_3557**; ticks=3556.
+- Next: **rq_3557 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
