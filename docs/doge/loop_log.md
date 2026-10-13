@@ -37800,3 +37800,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@smaj.be — general mailbox verified on the official site https://www.smaj.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_smaj_marche_vaph_matrix_9900_1_10m_9901_29k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3496/; rq_3496=done; spawn **rq_3497**; ticks=3496.
 - Next: **rq_3497 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3497 — 2026-10-13T11:52:42Z — rq_3497 leftover dual Crisishulp aan Huis West-Vlaanderen Harelbeke YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Crisishulp aan Huis West-Vlaanderen** → KBO 0891.472.956 had 0 prior entity rows.
+- KBO: Actief since 17 augustus 2007; VZW; zetel Julius Sabbestraat 40 8530 Harelbeke; 3 VE; 0 prior entity rows for 0891.472.956
+- Found: official NBB VKT-VZW native PDF **2026-00248175** (52086 B / 16p; AV 04-06-2026; neergelegd 03/07/2026; MD5 8f68bf665882d3fc022f39ebf5f28273). VKT-VZW 9900 **EUR1086611** (+4.62%); 62 **EUR1015436**; 9901 **EUR16117** (was -24359); 9904 15299; equity 397659; cash 250790; FTE 13,9 (was 14,7).
+- FOI address: info@cahwestvlaanderen.be — general mailbox verified on the official site https://cahwestvlaanderen.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_crisishulp_aan_huis_wvl_harelbeke_vaph_matrix_9900_1_09m_9901_16k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3497/; rq_3497=done; spawn **rq_3498**; ticks=3497.
+- Next: **rq_3498 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
