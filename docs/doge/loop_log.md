@@ -40850,3 +40850,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@despiegel.org — general mailbox verified on the official site https://despiegel.org/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_de_spiegel_leuven_vaph_matrix_9900_4_97m_9901_50k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3801/; rq_3800=done; spawn **rq_3802**; ticks=3801.
 - Next: **rq_3802 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3802 — 2026-10-13T22:14:26Z — rq_3802 leftover dual CKG Don Bosco Kortrijk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **CKG Don Bosco** → KBO 0877.733.105 had 0 prior entity rows.
+- KBO: Actief since 6 december 2005; VZW; zetel Sint-Anna(Kor) 41 8500 Kortrijk; 3 VE; 0 prior entity rows for 0877.733.105
+- Found: official NBB VKT-VZW native PDF **2026-00163743** (48183 B / 11p; AV 12-06-2026; neergelegd 16/06/2026; MD5 4c6b88b2594c7ddcb7e292492f49f74e). VKT-VZW 9900 **EUR3908057** (+1.49%); 62 **EUR3623336**; 9901 **EUR105859** (was 56029); 9904 128925; equity 4366756; cash 385053; FTE 45,2 (was 43,1).
+- FOI address: ckgdonbosco@ckgdonbosco.be — general mailbox verified on the official site https://www.ckgdonbosco.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_ckg_don_bosco_kortrijk_vaph_matrix_9900_3_91m_9901_106k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3802/; rq_3802=done; spawn **rq_3803**; ticks=3802.
+- Next: **rq_3803 leftover dual** — Partial batch (3796-3798); recipients from the Flemish Subsidieregister 2025_V01 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; file kept outside the repo), non-profits not yet in the data ranked by toegekend; amounts from the NBB 2025 filings (code 733 for full-model filers, otherwise code 9900, NOT a subsidy amount), register figure cited per verstrekker; Skipped: KMDA and Limburgs Landschap (no verifiable own-domain mailbox), ADIC (Gmail), De Steiger (site belongs to another org). Next: remaining Subsidieregister candidates (/workspace/subreg/cands.tsv)..
