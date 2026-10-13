@@ -38850,3 +38850,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: javva@javva.org — general mailbox verified on the official site https://javva.org/nous-contacter/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_javva_saint_gilles_vaph_matrix_9900_0_23m_9901_loss_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3601/; rq_3600=done; spawn **rq_3602**; ticks=3601.
 - Next: **rq_3602 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3602 — 2026-10-13T15:34:10Z — rq_3602 leftover dual Walter werkt (Werkplaats Walter) Anderlecht YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Walter werkt (Werkplaats Walter)** → KBO 0875.606.528 had 0 prior entity rows.
+- KBO: Actief since 18 augustus 2005; VZW; zetel Van Lintstraat 47 1070 Anderlecht; 1 VE; 0 prior entity rows for 0875.606.528
+- Found: official NBB VKT-VZW native PDF **2026-00496677** (56168 B / 17p; AV 30-06-2026; neergelegd 31/08/2026; MD5 86fab86a6eea25d6bc267a2577dc77c1). VKT-VZW 9900 **EUR173267** (+18.88%); 62 **EUR104236**; 9901 **EUR18598** (was 42049); 9904 -15039; equity 64984; cash 28737; FTE 1,4 (was 1,3).
+- FOI address: info@werkplaatswalter.be — general mailbox verified on the official site https://werkplaatswalter.be/privacy-overeenkomst/ (which lists the KBO number; site gives Van Lintstraat 43-45, KBO registered seat Van Lintstraat 47).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_walter_werkt_anderlecht_vaph_matrix_9900_0_17m_9901_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3602/; rq_3602=done; spawn **rq_3603**; ticks=3602.
+- Next: **rq_3603 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
