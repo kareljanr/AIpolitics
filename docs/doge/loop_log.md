@@ -35394,3 +35394,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@sosjeunes.be — general mailbox verified on the official site https://www.sosjeunes.be/contact (general contact mailbox).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_sos_jeunes_quartier_libre_vaph_matrix_9900_1_92m_9901_loss_63k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3255/; rq_3255=done; spawn **rq_3256**; ticks=3255.
 - Next: **rq_3256 leftover dual** — Batch done; skipped (5-min cap / mailbox rule): Agentschap Integratie en Inburgering (733 EUR76.2m; contact form only), Caritas-Hulpbetoon (EUR58.6m code 9900; KBO differs from Caritas International, no own mailbox found), Centre La Clairière (733 EUR14.2m; only service/personal mailboxes), Altéo (EUR6.7m; no mailbox on its own site), La Famille Koekelberg (EUR6.9m; mailbox only on third-party pages), FARES (no mailbox on fetched page); City of Brussels 2025 register still open: Werk Centrale de l'emploi (EUR485,000), Brulocalis (EUR338,909), Ferme du Parc Maximilien (EUR261,400).
+
+
+## Tick 3256 — 2026-10-13T03:27:51Z — rq_3256 leftover dual Fondation rurale de Wallonie Gembloux (Isnes) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used: NACE 88.999 over Walloon and Flemish postcodes (2,181 legal persons not yet in the repo, 773 with a 2025-12 filing), plus NACE 88.101 and 85.599 (partial); code 733 rows first, then code 9900, largest first: **Fondation rurale de Wallonie** → KBO 0415.861.170 had 0 prior entity rows.
+- KBO: Actief since 9 maart 1976; VZW; zetel Rue Camille Hubert,Isnes 5 5032 Gembloux; 10 VE; 0 prior entity rows for 0415.861.170
+- Found: official NBB VOL-VZW native PDF **2026-00176451** (844241 B / 42p; AV 18-05-2026; neergelegd 19/06/2026; MD5 7634cd98508e466a19b972dab86bcbbe). VOL-VZW 733 **EUR7955411** (-4.46%); 62 **EUR7167753**; 9901 **EUR-66092** (was -17087); 9904 -57063; equity 3822839; cash 523798; FTE 84,1 (was 93,9).
+- FOI address: contact@frw.be — general mailbox verified on the official site https://www.frw.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_fondation_rurale_wallonie_vaph_matrix_733_7_96m_9901_loss_66k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3256/; rq_3256=done; spawn **rq_3257**; ticks=3256.
+- Next: **rq_3257 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
