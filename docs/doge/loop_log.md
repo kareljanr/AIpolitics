@@ -37860,3 +37860,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@technicity.brussels — general mailbox verified on the official site https://www.technicity.brussels/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_technicity_anderlecht_vaph_matrix_9900_1_04m_9901_340k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3502/; rq_3502=done; spawn **rq_3503**; ticks=3502.
 - Next: **rq_3503 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3503 — 2026-10-13T11:56:26Z — rq_3503 leftover dual Woodwize Anderlecht YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Woodwize** → KBO 0438.431.981 had 0 prior entity rows.
+- KBO: Actief since 15 oktober 1988; VZW; zetel Hof ter Vleestdreef 3 1070 Anderlecht; 1 VE; 0 prior entity rows for 0438.431.981
+- Found: official NBB VKT-VZW native PDF **2026-00344157** (217894 B / 19p; AV 04-06-2026; neergelegd 27/07/2026; MD5 5ed916f5313122670f43b0eed2df69ed). VKT-VZW 9900 **EUR1033621** (n/a); 62 **EUR1324506**; 9901 **EUR-393815**; 9904 -397218; equity 1660816; cash 341412; FTE 13,5.
+- FOI address: info@woodwize.be — general mailbox verified on the official site https://www.woodwize.be/nl/contact.asp (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_woodwize_anderlecht_vaph_matrix_9900_1_03m_9901_loss_394k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3503/; rq_3503=done; spawn **rq_3504**; ticks=3503.
+- Next: **rq_3504 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
