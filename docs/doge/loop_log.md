@@ -38020,3 +38020,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@amotempo.be — general mailbox verified on the official site https://www.amotempo.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_amo_tempo_nivelles_vaph_matrix_9900_0_82m_9901_loss_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3518/; rq_3518=done; spawn **rq_3519**; ticks=3518.
 - Next: **rq_3519 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3519 — 2026-10-13T12:11:40Z — rq_3519 leftover dual Atrium 57, Centre culturel de Gembloux Gembloux YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Atrium 57, Centre culturel de Gembloux** → KBO 0420.065.626 had 0 prior entity rows.
+- KBO: Actief since 28 december 1979; VZW; zetel Rue du Moulin 57 5030 Gembloux; 1 VE; 0 prior entity rows for 0420.065.626
+- Found: official NBB VKT-VZW native PDF **2026-00138185** (47386 B / 12p; AV 27-05-2026; neergelegd 03/06/2026; MD5 e8d3bc3e1241c5c7f939dc4c49e279c8). VKT-VZW 9900 **EUR814124** (+9.03%); 62 **EUR757691**; 9901 **EUR24621** (was 2872); 9904 24520; equity 139778; cash 241205; FTE 11,4 (was 10,8).
+- FOI address: administration@atrium57.be — role mailbox verified on the official site https://atrium57.be/mentions-legales/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_atrium57_gembloux_vaph_matrix_9900_0_81m_9901_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3519/; rq_3519=done; spawn **rq_3520**; ticks=3519.
+- Next: **rq_3520 leftover dual** — Batch done (3516-3525); code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (remaining 82.300 / 93.29x pages and the 20 NACE-BEL 2025 replacement codes still scanning), then further code 9900 leftovers from the cached NBB pool, largest first..
