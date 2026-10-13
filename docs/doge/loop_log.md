@@ -37630,3 +37630,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: azimut@azimut-entreprendre.be — general mailbox verified on the official site https://www.azimut-entreprendre.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_azimut_entreprendre_charleroi_vaph_matrix_9900_1_46m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3479/; rq_3479=done; spawn **rq_3480**; ticks=3479.
 - Next: **rq_3480 leftover dual** — Batch done; code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: Info-Sourds de Bruxelles, HERW!N, Mentor-Escale, Vlaamse Parkinson Liga, Agricall Wallonie (code 9900), and triage of the fresh 22-family scan for code 733 filers as pages finish..
+
+
+## Tick 3480 — 2026-10-13T11:33:55Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3069** of 3124 rows; inventory budgets 63273 · commitments 7124 · leaderboard 9242 · entities 3142 · sources 10305.
+- Top10: **stable** (3471-3479 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3471-3479: Aide et Reclassement · Médiante · Maison de Quartier d’Helmet · Reliance · Atlantis · MIREC · Revivre chez soi · Alternatives Familiales · Azimut Entreprendre.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3480 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3480 run locally as fallback.
+- Next: **rq_3480** — code 9900 (NOT subsidy amounts): Info-Sourds de Bruxelles (EUR1.44m), HERW!N (EUR1.42m), Mentor-Escale (EUR1.41m), Vlaamse Parkinson Liga (EUR1.40m), Agricall Wallonie (EUR1.38m); mailboxes verified on official sites, after the dedup check. New-family scan: 22 pages restarted; 17 of 22 NACE codes return 404 on KBO and need their NACE-BEL 2025 equivalents.

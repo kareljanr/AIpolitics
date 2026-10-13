@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3480** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3470; 3471-3479 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3471-3479 residual dual L5 (not near-complete of 348bn):** Aide et Reclassement · Médiante · Maison de Quartier d’Helmet · Reliance · Atlantis · MIREC · Revivre chez soi · Alternatives Familiales · Azimut Entreprendre (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3069** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3124** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3471-3479** Aide et Reclassement · Médiante · Maison de Quartier d’Helmet · Reliance · Atlantis · MIREC · Revivre chez soi · Alternatives Familiales · Azimut Entreprendre.
+
+### Inventory (tick 3480)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 63273 |
+| commitments.csv | 7124 |
+| leaderboard.csv | 9242 |
+| entities.csv | 3142 |
+| sources.csv | 10305 |
+| FOI ready | 3069 |
+| FOI total rows | 3124 |
+| research_queue open | rq_3480 (carried; next: Info-Sourds de Bruxelles, HERW!N, Mentor-Escale, Vlaamse Parkinson Liga, Agricall Wallonie (code 9900 leftovers; new-family scan: 63 of 440 pages finished, 22 restarted, 355 pages blocked because 17 of the 22 NACE codes return 404 on KBO Public Search; no code 733 rows yet); largest first) |
+
+### What improved since tick 3470
+
+- **New source (tick3471-3479):** Aide et Reclassement · Médiante · Maison de Quartier d’Helmet · Reliance · Atlantis · MIREC · Revivre chez soi · Alternatives Familiales · Azimut Entreprendre. All nine are code 9900 leftovers (NOT subsidy amounts), largest first within each group; the code 733 pool from all earlier scans is used up (Médiathèque Nouvelle retried, site still unreachable). MIREC (EUR4.64m) came from triage of the new-family scan keys. Scan status: the 22-family scan had stalled (all scan processes had died, and the scanner had no request timeout). At tick 3480, 63 of its 440 pages had finished. Seventeen of the 22 NACE codes (all of 85.4x, 85.52x, 85.6, 86.909, 90.0x, 91.0x and 74.909) now return HTTP 404 on KBO Public Search, so their 355 pages cannot run with these codes. The 22 unfinished pages of the three codes that still work (82.300, 93.291, 93.299) were restarted with a 40-second request timeout and 10 jobs in parallel. Triage of the scan keys was restarted after a runner reset; no code 733 rows found so far. EU-level and international bodies and duplicates excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3480 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3470** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
