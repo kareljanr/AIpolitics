@@ -39620,3 +39620,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@amotransit.be — general mailbox verified on the official site https://amotransit.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_transit_amo_la_louviere_vaph_matrix_9900_0_76m_9901_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3678/; rq_3678=done; spawn **rq_3679**; ticks=3678.
 - Next: **rq_3679 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3679 — 2026-10-13T16:37:30Z — rq_3679 leftover dual L'Alternative (SAPSE) Châtelet YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **L'Alternative (SAPSE)** → KBO 0431.147.479 had 0 prior entity rows.
+- KBO: Actief since 19 augustus 1985; VZW; zetel Rue de Namur 59/61 6200 Châtelet; 1 VE; 0 prior entity rows for 0431.147.479
+- Found: official NBB MIC-VZW native PDF **2026-00194084** (34897 B / 8p; AV 22-06-2026; neergelegd 24/06/2026; MD5 7d888a757eee558a31cf06c20023c1a8). MIC-VZW 9900 **EUR661012** (+8.94%); 62 **EUR636705**; 9901 **EUR8124** (was -7652); 9904 7338; equity 74916; cash 501391; FTE n/a.
+- FOI address: secretariat@sapse-lalternative.be — secretariat mailbox verified on the official site https://www.sapse-lalternative.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_l_alternative_chatelet_vaph_matrix_9900_0_66m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3679/; rq_3679=done; spawn **rq_3680**; ticks=3679.
+- Next: **rq_3680 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

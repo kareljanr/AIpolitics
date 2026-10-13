@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T16:37:22Z,rq_3678,3678,no,tick3678 leftover dual Transit (AMO) La Louvière 0461.991.105 Strong PDF 2026-00165150 9900 0.76m / 9901 32k; next rq_3679 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T16:37:30Z,rq_3679,3679,no,tick3679 leftover dual L'Alternative (SAPSE) Châtelet 0431.147.479 Strong PDF 2026-00194084 9900 0.66m / 9901 8k; next rq_3680 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
