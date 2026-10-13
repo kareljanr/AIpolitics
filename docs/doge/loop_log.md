@@ -36190,3 +36190,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: onthaal@mariatroostveurne.be — reception mailbox verified on the official site https://www.mariatroostveurne.be/contact/contacteer-maria-troost-veurne (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_veurne); FOI **gap_maria_troost_veurne_vaph_matrix_733_0_90m_9901_673k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3335/; rq_3335=done; spawn **rq_3336**; ticks=3335.
 - Next: **rq_3336 leftover dual** — Batch done; next: remaining code 733 rows from the NACE 87.xxx scan (Seniorenheim Marienheim Raeren, KiJoCo Zutendaal, Myosotis Tournai), largest first. Skipped (5-min cap / mailbox rule): Maison Heureuse Liège (no general mailbox on its own site), KEI Koksijde (site shows another KBO number), Kathleos (no mailbox on site), Home Béthanie / Prévoyance Evangélique (personal mailbox only), Heuverveld (group mailbox), Philippus Neri (already in repo), Blijvelde and Myosotis (sites unreachable)..
+
+
+## Tick 3336 — 2026-10-13T06:16:54Z — rq_3336 leftover dual Zorggroep Houtland (WZC Meunyckenhof) Koekelare YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Zorggroep Houtland (WZC Meunyckenhof)** → KBO 0423.539.711 had 0 prior entity rows.
+- KBO: Actief since 22 juli 1982; VZW; zetel Meunyckenplein 2 8680 Koekelare; 1 VE; 0 prior entity rows for 0423.539.711
+- Found: official NBB VOL-VZW native PDF **2026-00179125** (1717600 B / 42p; AV 21-05-2026; neergelegd 20/06/2026; MD5 d7b8056335987fb500d8bb80f9e2226c). VOL-VZW 733 **EUR1090453** (-6.87%); 62 **EUR7026085**; 9901 **EUR93391** (was 161565); 9904 111840; equity 4303336; cash 1337298; FTE 97,8 (was 103,1).
+- FOI address: info@meunyckenhof.be — general mailbox verified on the official site https://meunyckenhof.be/nl/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_koekelare); FOI **gap_zorggroep_houtland_koekelare_vaph_matrix_733_1_09m_9901_93k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3336/; rq_3336=done; spawn **rq_3337**; ticks=3336.
+- Next: **rq_3337 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
