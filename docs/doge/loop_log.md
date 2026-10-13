@@ -35004,3 +35004,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@asblsaintmichel.be — general mailbox verified on the official site https://www.asblsaintmichel.be/contact (which names this ASBL and its KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_saint_michel_spa_vaph_matrix_733_7_91m_9901_loss_1533k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3216/; rq_3216=done; spawn **rq_3217**; ticks=3216.
 - Next: **rq_3217 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3217 — 2026-10-13T02:10:24Z — rq_3217 leftover dual Centre Mutien-Marie (Florennes) Florennes YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon sheltered workshops (ETA) and AVIQ disability services from a KBO activity-code scan (NACE 88.993, all Walloon/Brussels postcodes); code 733 rows first, then code 9900, largest first: **Centre Mutien-Marie (Florennes)** → KBO 0418.528.175 had 0 prior entity rows.
+- KBO: Actief since 9 mei 1978; VZW; zetel Place des Combattants 1 5620 Florennes; 6 VE; 0 prior entity rows for 0418.528.175
+- Found: official NBB VOL-VZW native PDF **2026-00244117** (876752 B / 50p; AV 25-06-2026; neergelegd 29/06/2026; MD5 e926e2aa3cf0dd12da463777b6477c29). VOL-VZW 733 **EUR4471876** (+7.81%); 62 **EUR4049348**; 9901 **EUR118897** (was -27575); 9904 198500; equity 4610643; cash 1709125; FTE 67 (was 68,1).
+- FOI address: direction@mutien.be — general mailbox verified on the official site https://mutien.be/lasbl/coordonnees/ (which lists the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_mutien_marie_florennes_vaph_matrix_733_4_47m_9901_119k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3217/; rq_3217=done; spawn **rq_3218**; ticks=3217.
+- Next: **rq_3218 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

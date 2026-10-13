@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T02:09:55Z,rq_3216,3216,no,tick3216 leftover dual ASBL Saint-Michel (Spa) Spa 0406.618.654 Strong PDF 2026-00264081 733 7.91m / 9901 loss 1533k; next rq_3217 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T02:10:24Z,rq_3217,3217,no,tick3217 leftover dual Centre Mutien-Marie (Florennes) Florennes 0418.528.175 Strong PDF 2026-00244117 733 4.47m / 9901 119k; next rq_3218 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
