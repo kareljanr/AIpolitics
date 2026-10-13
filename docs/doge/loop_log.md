@@ -40000,3 +40000,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@bonpiedbonoeil.be — general mailbox verified on the official site https://www.bonpiedbonoeil.be/ (KBO registered seat Rue du Luxembourg 1, 4280 Hannut).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_bon_pied_bon_oeil_hannut_vaph_matrix_9900_0_93m_9901_loss_57k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3716/; rq_3716=done; spawn **rq_3717**; ticks=3716.
 - Next: **rq_3717 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3717 — 2026-10-13T17:27:51Z — rq_3717 leftover dual Solidarités Nouvelles Gilly YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Solidarités Nouvelles** → KBO 0408.018.622 had 0 prior entity rows.
+- KBO: Actief since 1 september 1966; VZW; zetel Rue du Sart-Culpart 9 6060 Charleroi; 2 VE; 0 prior entity rows for 0408.018.622
+- Found: official NBB VKT-VZW native PDF **2026-00303589** (607194 B / 18p; AV 11-06-2026; neergelegd 17/07/2026; MD5 6484378285e4d9afe61084570a2c485c). VKT-VZW 9900 **EUR927140** (+8.40%); 62 **EUR824671**; 9901 **EUR3984** (was 21786); 9904 0; equity 342207; cash 381783; FTE 14 (was 12,9).
+- FOI address: secretariat@solidaritesnouvelles.org — secretariat mailbox verified on the official site https://www.solidaritesnouvelles.org/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_solidarites_nouvelles_charleroi_vaph_matrix_9900_0_93m_9901_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3717/; rq_3717=done; spawn **rq_3718**; ticks=3717.
+- Next: **rq_3718 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
