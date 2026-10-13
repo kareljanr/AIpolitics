@@ -35074,3 +35074,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@etaapn.be — general mailbox verified on the official site https://www.etaapn.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_eta_apn_nivelles_vaph_matrix_9900_1_67m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3223/; rq_3223=done; spawn **rq_3224**; ticks=3223.
 - Next: **rq_3224 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3224 — 2026-10-13T02:14:39Z — rq_3224 leftover dual La Sève (Herve) Herve (Xhendelesse) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon sheltered workshops (ETA) and AVIQ disability services from a KBO activity-code scan (NACE 88.993, all Walloon/Brussels postcodes); code 733 rows first, then code 9900, largest first: **La Sève (Herve)** → KBO 0415.610.752 had 0 prior entity rows.
+- KBO: Actief since 28 oktober 1975; VZW; zetel Rue des deux Tilleuls 45 4652 Herve; 1 VE; 0 prior entity rows for 0415.610.752
+- Found: official NBB VKT-VZW native PDF **2026-00333001** (848381 B / 18p; AV 25-06-2026; neergelegd 23/07/2026; MD5 6c2fb4045989929efa2af32122731466). VKT-VZW 9900 **EUR1549007** (+10.16%); 62 **EUR1398990**; 9901 **EUR22511** (was -36274); 9904 54349; equity 1023386; cash 683102; FTE 21,7 (was 18,7).
+- FOI address: secretariat@asbllaseve.be — general mailbox verified on the official site https://asbllaseve.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_la_seve_herve_vaph_matrix_9900_1_55m_9901_23k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3224/; rq_3224=done; spawn **rq_3225**; ticks=3224.
+- Next: **rq_3225 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
