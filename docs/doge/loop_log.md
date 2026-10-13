@@ -40530,3 +40530,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@aid-soleilmont.be — general mailbox verified on the official site https://www.aid-soleilmont.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_aid_soleilmont_charleroi_vaph_matrix_9900_0_91m_9901_22k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3769/; rq_3769=done; spawn **rq_3770**; ticks=3769.
 - Next: **rq_3770 leftover dual** — Partial batch (3762-3769); code 9900 rows from nscan16/17/18 (incl. new codes 94991, 85599 incl. AID Soleilmont), largest first; no code 733 filer found; Recht-Op, ZOPP, Virvolti skipped (no verifiable own-domain general mailbox), Service Familial de Charleroi skipped (no code 733 amount); Médiathèque Nouvelle still unreachable. Candidates dry; next: new scan..
+
+
+## Tick 3770 — 2026-10-13T20:40:55Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3329** of 3385 rows; inventory budgets 65368 · commitments 7385 · leaderboard 9503 · entities 3403 · sources 11088.
+- Top10: **stable** (3761-3769 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3761-3769: Stormkop · Formation Encadrement Espace Social (F.E.E.S.) · Service d’accrochage scolaire de Mons · Atelier/M · Secteur 42 · Parler pour le dire · Centre de Loisirs Actifs L’Eveil · Maison de la Formation (WaPi) · AID Soleilmont.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3770 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3770 run locally as fallback.
+- Next: **rq_3770** — no candidate queued: nscan16-18 exhausted; run a new bounded KBO scan (new codes or regions) and verify mailboxes on each body’s own page, after the dedup check.

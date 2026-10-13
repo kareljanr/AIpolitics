@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3770** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3760; 3761-3769 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3761-3769 residual dual L5 (not near-complete of 348bn):** Stormkop · Formation Encadrement Espace Social (F.E.E.S.) · Service d’accrochage scolaire de Mons · Atelier/M · Secteur 42 · Parler pour le dire · Centre de Loisirs Actifs L’Eveil · Maison de la Formation (WaPi) · AID Soleilmont (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3329** drafts ready | Human send only; answered **11**; partial **29**; total FOI rows **3385** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3761-3769** Stormkop · Formation Encadrement Espace Social (F.E.E.S.) · Service d’accrochage scolaire de Mons · Atelier/M · Secteur 42 · Parler pour le dire · Centre de Loisirs Actifs L’Eveil · Maison de la Formation (WaPi) · AID Soleilmont.
+
+### Inventory (tick 3770)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 65368 |
+| commitments.csv | 7385 |
+| leaderboard.csv | 9503 |
+| entities.csv | 3403 |
+| sources.csv | 11088 |
+| FOI ready | 3329 |
+| FOI total rows | 3385 |
+| research_queue open | rq_3770 (carried; next: none queued (candidates dry after nscan16-18); next: new bounded scan) |
+
+### What improved since tick 3760
+
+- **New source (tick3761-3769):** Stormkop · Formation Encadrement Espace Social (F.E.E.S.) · Service d’accrochage scolaire de Mons · Atelier/M · Secteur 42 · Parler pour le dire · Centre de Loisirs Actifs L’Eveil · Maison de la Formation (WaPi) · AID Soleilmont. Code 9900 rows (NOT subsidy amounts) from nscan15 leftovers and bounded KBO scans nscan16-18 (88999/85520/88101/87101 on Hainaut, Namur rural and Flanders postcodes; new codes 94991 and 85599; 86xxx, 85590 and 88919 gave no usable rows; fresh cookie per code), largest first; no usable code 733 filer. Mailboxes verified on each body’s own site. Rejected: Gmail or Skynet mailboxes, personal or branch-only mailboxes, mutualité-linked bodies, mailbox domains not shown to be the same org, and filings without a code 733 amount. Médiathèque Nouvelle still unreachable (HTTP 000).
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3770 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked 2026-10-13: no new DOGE tick commits (radar only). Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3760** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
