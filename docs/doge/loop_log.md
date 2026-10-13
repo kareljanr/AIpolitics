@@ -36170,3 +36170,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@saint-thomas.be — general mailbox verified on the official site https://www.saint-thomas.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_saint_thomas_villeneuve_profondeville_vaph_matrix_733_2_04m_9901_186k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3333/; rq_3333=done; spawn **rq_3334**; ticks=3333.
 - Next: **rq_3334 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3334 — 2026-10-13T06:08:45Z — rq_3334 leftover dual Woon- en zorgnetwerk OLV Ter Westroze Staden (Westrozebeke) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Woon- en zorgnetwerk OLV Ter Westroze** → KBO 0473.065.535 had 0 prior entity rows.
+- KBO: Actief since 26 oktober 2000; VZW; zetel Dorpsstraat(WRB) 67 8840 Staden; 1 VE; 0 prior entity rows for 0473.065.535
+- Found: official NBB VOL-VZW native PDF **2026-00157987** (519222 B / 48p; AV 26-05-2026; neergelegd 05/06/2026; MD5 ea4dd40a3a55a0cce20abf16aba7f5df). VOL-VZW 733 **EUR922847** (+3.25%); 62 **EUR4464438**; 9901 **EUR-125877** (was -13430); 9904 -126305; equity 3852702; cash 69702; FTE 66 (was 61).
+- FOI address: administratie@terwestroze.be — administration mailbox verified on the official site https://www.terwestroze.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_staden); FOI **gap_olv_ter_westroze_staden_vaph_matrix_733_0_92m_9901_loss_126k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3334/; rq_3334=done; spawn **rq_3335**; ticks=3334.
+- Next: **rq_3335 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
