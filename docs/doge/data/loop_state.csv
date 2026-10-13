@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T12:05:51Z,rq_3512,3512,no,tick3512 leftover dual Inter-Actions Hannut 0439.785.330 Strong PDF 2026-00202600 9900 0.92m / 9901 loss 54k; next rq_3513 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T12:06:00Z,rq_3513,3513,no,tick3513 leftover dual Jeunes Schaerbeekois au Travail (JST) Schaerbeek 0459.263.425 Strong PDF 2026-00220994 9900 0.89m / 9901 loss 3k; next rq_3514 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

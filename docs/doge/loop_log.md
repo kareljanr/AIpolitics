@@ -37960,3 +37960,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@interactionsasbl.be — general mailbox verified on the official site https://www.interactionsasbl.be/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_inter_actions_hannut_vaph_matrix_9900_0_92m_9901_loss_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3512/; rq_3512=done; spawn **rq_3513**; ticks=3512.
 - Next: **rq_3513 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3513 — 2026-10-13T12:06:00Z — rq_3513 leftover dual Jeunes Schaerbeekois au Travail (JST) Schaerbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Jeunes Schaerbeekois au Travail (JST)** → KBO 0459.263.425 had 0 prior entity rows.
+- KBO: Actief since 8 oktober 1996; VZW; zetel Masuistraat 186 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0459.263.425
+- Found: official NBB VKT-VZW native PDF **2026-00220994** (227428 B / 21p; AV 25-06-2026; neergelegd 30/06/2026; MD5 a0c595ab180b87fe2f9aa0f159a37c6d). VKT-VZW 9900 **EUR894722** (+6.63%); 62 **EUR861991**; 9901 **EUR-2750** (was 26651); 9904 -4417; equity 62774; cash 87869; FTE 12,9 (was 12,4).
+- FOI address: contact@jst1030.be — general mailbox verified on the official site https://www.jst1030.be/?page_id=53 (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_jst_schaerbeek_vaph_matrix_9900_0_89m_9901_loss_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3513/; rq_3513=done; spawn **rq_3514**; ticks=3513.
+- Next: **rq_3514 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
