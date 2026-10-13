@@ -38570,3 +38570,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@archiefpunt.be — general mailbox verified on the official site https://archiefpunt.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_archiefpunt_gent_vaph_matrix_9900_0_50m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3573/; rq_3573=done; spawn **rq_3574**; ticks=3573.
 - Next: **rq_3574 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3574 — 2026-10-13T15:11:51Z — rq_3574 leftover dual Fakkeltheater Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Fakkeltheater** → KBO 0407.723.365 had 0 prior entity rows.
+- KBO: Actief since 7 juli 1959; VZW; zetel Reyndersstraat 7 2000 Antwerpen; 2 VE; 0 prior entity rows for 0407.723.365
+- Found: official NBB VKT-VZW native PDF **2026-00183770** (50764 B / 14p; AV 02-06-2026; neergelegd 22/06/2026; MD5 67d934c4fa787cd03b1fb47cb8bcfb0f). VKT-VZW 9900 **EUR498891** (+26.38%); 62 **EUR442460**; 9901 **EUR10641** (was 2391); 9904 5381; equity 2590; cash 5; FTE 8,2 (was 6,9).
+- FOI address: info@fakkeltheater.be — general mailbox verified on the official site https://www.fakkeltheater.be/contact/ (theatre at Reyndersstraat 7, the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_fakkeltheater_antwerpen_vaph_matrix_9900_0_50m_9901_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3574/; rq_3574=done; spawn **rq_3575**; ticks=3574.
+- Next: **rq_3575 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
