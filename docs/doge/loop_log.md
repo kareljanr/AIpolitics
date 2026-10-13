@@ -39890,3 +39890,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mondialewerken.be — general mailbox verified on the official site https://mondialewerken.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_mondiale_werken_lier_vaph_matrix_9900_0_39m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3705/; rq_3705=done; spawn **rq_3706**; ticks=3705.
 - Next: **rq_3706 leftover dual** — Batch done (3696-3705); code 9900 rows from bounded KBO scan nscan7, largest first; no qualifying code 733 filer (Médiathèque Nouvelle still unreachable). Next: remaining nscan7 rows or a new bounded scan..
+
+
+## Tick 3706 — 2026-10-13T17:15:58Z — rq_3706 leftover dual Espaces (CISP) Ciney YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Espaces (CISP)** → KBO 0429.229.552 had 0 prior entity rows.
+- KBO: Actief since 11 maart 1986; VZW; zetel Lienne 7 5590 Ciney Extra adresinfo: ZONING DE LIENNE; 1 VE; 0 prior entity rows for 0429.229.552
+- Found: official NBB VKT-VZW native PDF **2026-00306429** (54505 B / 16p; AV 18-06-2026; neergelegd 17/07/2026; MD5 f632c1d806d8a77bd6c06256cbd13eac). VKT-VZW 9900 **EUR1532555** (-1.66%); 62 **EUR1384162**; 9901 **EUR23815** (was 201437); 9904 26427; equity 864102; cash 176853; FTE 24,2 (was 21,4).
+- FOI address: secretariatpeda@espaces.be — secretariat mailbox verified on the official site https://espaces.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_espaces_ciney_vaph_matrix_9900_1_53m_9901_24k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3706/; rq_3706=done; spawn **rq_3707**; ticks=3706.
+- Next: **rq_3707 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
