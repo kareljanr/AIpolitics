@@ -36620,3 +36620,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@mmlabreche.be — general mailbox verified on the official site https://www.mmlabreche.be/contacts/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_mm_la_breche_chatelet_vaph_matrix_9900_1_54m_9901_loss_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3378/; rq_3378=done; spawn **rq_3379**; ticks=3378.
 - Next: **rq_3379 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3379 — 2026-10-13T08:03:54Z — rq_3379 leftover dual Le Hublot (Centre de formation professionnelle) Saint-Servais (Namur) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Le Hublot (Centre de formation professionnelle)** → KBO 0421.446.291 had 0 prior entity rows.
+- KBO: Actief since 16 april 1981; VZW; zetel Rue de Gembloux(SS) 500 5002 Namur; 1 VE; 0 prior entity rows for 0421.446.291
+- Found: official NBB VKT-VZW native PDF **2026-00378616** (41442 B / 14p; AV 28-05-2026; neergelegd 04/08/2026; MD5 5b2ed481899a212b2660f3dcab37cb82). VKT-VZW 9900 **EUR1022053** (+0.60%); 62 **EUR963927**; 9901 **EUR33419** (was 8860); 9904 33087; equity 74882; cash 88938; FTE 12 (was 12).
+- FOI address: secretariat@lehublot.be — secretariat mailbox verified on the official site https://www.lehublot.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_le_hublot_namur_vaph_matrix_9900_1_02m_9901_33k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3379/; rq_3379=done; spawn **rq_3380**; ticks=3379.
+- Next: **rq_3380 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
