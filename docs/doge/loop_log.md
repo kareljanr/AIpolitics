@@ -35800,3 +35800,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vsf-belgium.org — general mailbox verified on the official site https://vsf-belgium.org/contact/ (which lists the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_veterinaires_sans_frontieres_belgique_vaph_matrix_733_9_34m_9901_loss_167k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3296/; rq_3296=done; spawn **rq_3297**; ticks=3296.
 - Next: **rq_3297 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3297 — 2026-10-13T05:06:22Z — rq_3297 leftover dual Société Royale Protectrice des Animaux - Veeweyde Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.991 / 94.992 (974 legal persons not yet in the repo) and NACE 94.999 / 88.109 (776) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first: **Société Royale Protectrice des Animaux - Veeweyde** → KBO 0408.490.457 had 0 prior entity rows.
+- KBO: Actief since 1 december 1923; VZW; zetel Itterbeekse Laan 600 1070 Anderlecht; 2 VE; 0 prior entity rows for 0408.490.457
+- Found: official NBB VKT-VZW native PDF **2026-00129820** (604030 B / 27p; AV 28-05-2026; neergelegd 28/05/2026; MD5 267deead9c056d72f0738d0351ad7f61). VKT-VZW 9900 **EUR5265162** (+181.71%); 62 **EUR1681268**; 9901 **EUR792996** (was -1832807); 9904 1759699; equity 31442046; cash 1576402; FTE 34,9 (was 36,1).
+- FOI address: info@veeweyde.be — general mailbox verified on the official site https://www.veeweyde.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_veeweyde_srpa_vaph_matrix_9900_5_27m_9901_793k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3297/; rq_3297=done; spawn **rq_3298**; ticks=3297.
+- Next: **rq_3298 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
