@@ -37140,3 +37140,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3430 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3430 run locally as fallback.
 - Next: **rq_3430** — code 9900 (NOT subsidy amounts): Boukè (EUR3.26m), Transkript (EUR1.98m), De Barkentijn (EUR1.67m), dOT (EUR1.47m), Caméra-etc (EUR0.78m); mailboxes verified on official sites, after the dedup check. New-family scan: 321 of 344 resumed pages finished, 23 still running.
+
+
+## Tick 3431 — 2026-10-13T09:41:32Z — rq_3430 leftover dual Boukè (Canal C) Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Boukè (Canal C)** → KBO 0441.005.550 had 0 prior entity rows.
+- KBO:  since ; VZW; zetel ;  VE; 0 prior entity rows for 0441.005.550
+- Found: official NBB VKT-VZW native PDF **2026-00269896** (495985 B / 23p; AV 25-06-2026; neergelegd 07/07/2026; MD5 5f67b080c911e6ef5adbbc441d4f7e7c). VKT-VZW 9900 **EUR3259936** (+2.18%); 62 **EUR2823475**; 9901 **EUR11478** (was -99656); 9904 8978; equity 627534; cash 468513; FTE 38,7 (was 40,5).
+- FOI address: info@bouke.media — general mailbox verified on the official site https://www.bouke.media/mentions-legales (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_bouke_namur_vaph_matrix_9900_3_26m_9901_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3431/; rq_3430=done; spawn **rq_3432**; ticks=3431.
+- Next: **rq_3432 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
