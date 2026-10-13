@@ -36380,3 +36380,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@huize-vogelzang.be — general mailbox verified on the official site https://www.huize-vogelzang.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_huize_vogelzang_brugge_vaph_matrix_9900_2_54m_9901_137k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3354/; rq_3354=done; spawn **rq_3355**; ticks=3354.
 - Next: **rq_3355 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3355 — 2026-10-13T06:35:53Z — rq_3355 leftover dual Palliatieve Hulpverlening Antwerpen (PHA) Antwerpen (Wilrijk) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Palliatieve Hulpverlening Antwerpen (PHA)** → KBO 0447.398.246 had 0 prior entity rows.
+- KBO: Actief since 11 maart 1992; VZW; zetel Doornstraat 331 2610 Antwerpen Extra adresinfo: AB¨P GOUVERNEUR KINSBERGENCENTRUM; 1 VE; 0 prior entity rows for 0447.398.246
+- Found: official NBB VKT-VZW native PDF **2026-00291111** (45673 B / 12p; AV 19-03-2026; neergelegd 14/07/2026; MD5 c5f3ba98618e8f806288353c8e50de71). VKT-VZW 9900 **EUR1839711** (+1.18%); 62 **EUR1694290**; 9901 **EUR52399** (was 157367); 9904 59318; equity 767450; cash 468850; FTE 16,9 (was 15,8).
+- FOI address: pha@uantwerpen.be — general mailbox verified on the official site https://pha.be/contact/ (which lists the KBO number; the mailbox is hosted on a university domain).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_pha_antwerpen_vaph_matrix_9900_1_84m_9901_52k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3355/; rq_3355=done; spawn **rq_3356**; ticks=3355.
+- Next: **rq_3356 leftover dual** — Batch done; the 86/87/84.1xx scans gave one more code 733 row (ACIS); the rest are code 9900 fallbacks. Next: further code 733 scans (other NACE families), then remaining 9900 leftovers largest first. Skipped (5-min cap / mailbox rule): Point Virgule, Renouveau de Saint-Joseph, Foyers Sainte-Marie, Tamaris, Chanmurly, La Fermette, Résidence de Boiron (no general mailbox verifiable on own site), De Stek and Wit-Gele Kruis Brussel (group sites), Dreiland-Jugendhilfe (joint site with a German company), La Goudinière (site shows another number), Maison d’Accueil Prince Albert, Le Creuset, Sûr Abri (sites unreachable), Valisana and others (code 733 not filled)..
