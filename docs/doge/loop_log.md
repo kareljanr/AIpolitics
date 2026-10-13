@@ -40320,3 +40320,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: dienstencentrum@dewelvaartkapoen.be — role mailbox verified on the official site https://dewelvaartkapoen.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_de_welvaartkapoen_molenbeek_vaph_matrix_9900_1_19m_9901_loss_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3748/; rq_3748=done; spawn **rq_3749**; ticks=3748.
 - Next: **rq_3749 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3749 — 2026-10-13T19:18:35Z — rq_3749 leftover dual Parcours d'Accueil Ixelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Parcours d'Accueil** → KBO 0413.806.948 had 0 prior entity rows.
+- KBO: Actief since 10 december 1973; VZW; zetel de Henninstraat 101 1050 Elsene; 1 VE; 0 prior entity rows for 0413.806.948
+- Found: official NBB VKT-VZW native PDF **2026-00206732** (41969 B / 10p; AV 16-06-2026; neergelegd 25/06/2026; MD5 6bb9a8be4e922cdedc304958e04425bd). VKT-VZW 9900 **EUR1032117** (-4.99%); 62 **EUR982640**; 9901 **EUR19821** (was 105007); 9904 18720; equity 628657; cash 633095; FTE 10,5 (was 10,6).
+- FOI address: service@parcoursdaccueil.be — role mailbox verified on the official site https://www.parcoursdaccueil.be/nous-contacter/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_parcours_d_accueil_ixelles_vaph_matrix_9900_1_03m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3749/; rq_3749=done; spawn **rq_3750**; ticks=3749.
+- Next: **rq_3750 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
