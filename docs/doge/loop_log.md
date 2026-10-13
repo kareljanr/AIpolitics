@@ -36690,3 +36690,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: pibo@pibo.be — general mailbox verified on the official site https://www.pibo.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_pibo_tongeren_vaph_matrix_9900_0_83m_9901_320k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3385/; rq_3385=done; spawn **rq_3386**; ticks=3385.
 - Next: **rq_3386 leftover dual** — Batch done; the completed 68.204 / 70.100 scans gave one code 733 row (Herita); the rest are code 9900 leftovers. Next: Médiathèque Nouvelle (code 733, site still unreachable), then new NACE families for code 733 filers..
+
+
+## Tick 3386 — 2026-10-13T08:21:50Z — rq_3386 leftover dual Les Sentiers Woluwe-Saint-Pierre YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Les Sentiers** → KBO 0409.487.280 had 0 prior entity rows.
+- KBO: Actief since 24 november 1966; VZW; zetel Emmanuel Mertensstraat 44-46 1150 Sint-Pieters-Woluwe; 3 VE; 0 prior entity rows for 0409.487.280
+- Found: official NBB VKT-VZW native PDF **2026-00259575** (3698972 B / 26p; AV 23-06-2026; neergelegd 30/06/2026; MD5 c19eb120a0a6f40edc15a7e11af484e9). VKT-VZW 9900 **EUR2878290** (+2.88%); 62 **EUR2748397**; 9901 **EUR31439** (was -28280); 9904 36702; equity 1204852; cash 159470; FTE 36,6 (was 35,7).
+- FOI address: sentiers@lessentiers.be — general mailbox verified on the official site http://www.lessentiers.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_les_sentiers_woluwe_vaph_matrix_9900_2_88m_9901_31k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3386/; rq_3386=done; spawn **rq_3387**; ticks=3386.
+- Next: **rq_3387 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
