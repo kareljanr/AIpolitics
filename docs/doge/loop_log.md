@@ -36970,3 +36970,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kaleo-asbl.be — general mailbox verified on the official site https://www.kaleo-asbl.be/nl/contacteer-ons/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_kaleo_bruxelles_vaph_matrix_9900_3_97m_9901_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3413/; rq_3413=done; spawn **rq_3414**; ticks=3413.
 - Next: **rq_3414 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3414 — 2026-10-13T09:19:15Z — rq_3414 leftover dual Espace du Marais ou Sleep Well Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Espace du Marais ou Sleep Well** → KBO 0416.752.283 had 0 prior entity rows.
+- KBO: Actief since 27 januari 1977; VZW; zetel Dambordstraat 23 1000 Brussel; 1 VE; 0 prior entity rows for 0416.752.283
+- Found: official NBB VKT-VZW native PDF **2026-00155182** (357891 B / 27p; AV 02-06-2026; neergelegd 11/06/2026; MD5 d580db0d05db929227ef130759208de3). VKT-VZW 9900 **EUR1719391** (-19.85%); 62 **EUR1547100**; 9901 **EUR120999** (was 61480); 9904 112730; equity 522393; cash 1263879; FTE 25 (was 24,7).
+- FOI address: info@sleepwell.be — general mailbox verified on the official site https://www.sleepwell.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_sleep_well_bruxelles_vaph_matrix_9900_1_72m_9901_121k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3414/; rq_3414=done; spawn **rq_3415**; ticks=3414.
+- Next: **rq_3415 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
