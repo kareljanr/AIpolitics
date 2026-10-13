@@ -34984,3 +34984,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@ssmlemeridien.be — general mailbox verified on the official site https://ssmlemeridien.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ssm_le_meridien_vaph_matrix_9900_1_54m_9901_97k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3214/; rq_3214=done; spawn **rq_3215**; ticks=3214.
 - Next: **rq_3215 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3215 — 2026-10-13T01:48:58Z — rq_3215 leftover dual Vertrouwenscentrum Kindermishandeling Vlaams-Brabant (Leuven) Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Mental-health, youth-care and social-economy non-profits (Walloon/Brussels services de santé mentale and habitations protégées, Flemish jeugdhulp / sociale werkplaats VZWs) from a fresh KBO name search; code 733 rows first (none qualified), then largest code 9900: **Vertrouwenscentrum Kindermishandeling Vlaams-Brabant (Leuven)** → KBO 0435.244.839 had 0 prior entity rows.
+- KBO: Actief since 21 december 1987; VZW; zetel Herestraat 49 3000 Leuven; 1 VE; 0 prior entity rows for 0435.244.839
+- Found: official NBB VKT-VZW native PDF **2026-00190142** (43631 B / 11p; AV 08-06-2026; neergelegd 18/06/2026; MD5 8197912692b34589de9bfeed2083f534). VKT-VZW 9900 **EUR1487404** (-17.49%); 62 **EUR1404329**; 9901 **EUR-10881** (was 339245); 9904 -10829; equity 1544463; cash 1007361; FTE 17,4 (was 18,8).
+- FOI address: info@vkvlaamsbrabant.be — general mailbox verified on the official site https://www.vertrouwenscentrum-kindermishandeling.be/leuven/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_vk_vlaams_brabant_vaph_matrix_9900_1_49m_9901_loss_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3215/; rq_3215=done; spawn **rq_3216**; ticks=3215.
+- Next: **rq_3216 leftover dual** — Batch done; skipped for mailbox (5-min cap): Groep Philippus Neri GGZ (only 733 row, EUR0.11m; no general mailbox), De Speelboom (site-level mailboxes only), SSM-ULB (EUR4.50m; address not on fetched official page), Beschut Wonen Noolim, Brugge-Oostende-Westkust, Kempen (script-rendered / not verifiable); next: L Adret, Antonin Artaud, SSM Saint-Gilles, CRSM after a mailbox check.

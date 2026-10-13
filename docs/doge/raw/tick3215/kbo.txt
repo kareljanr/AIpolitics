@@ -1,0 +1,1 @@
+{"status": "Actief", "begin": "21 december 1987", "rv": "Vereniging zonder winstoogmerk", "addr": "Herestraat 49 3000 Leuven", "ve": "1"}
