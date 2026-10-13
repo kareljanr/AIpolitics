@@ -1,11 +1,11 @@
 # FOI draft — Haute Ecole ICHEC - ECAM - ISFSC (733 27.94m / 9901 1418k)
 
 **gap_id:** `gap_he_ichec_ecam_isfsc_vaph_matrix_733_27_94m_9901_1418k_l5`  
-**status:** ready (NOT sent)  
+**status:** partial — recipient NEEDS VERIFICATION (NOT sent)  
 **language:** FR (Walloon French-language body; template `docs/doge/foi-template-fr.md`)  
 **entity:** Haute Ecole ICHEC - ECAM - ISFSC ASBL — BCE/KBO **0459.634.993** (Actief; VZW; siège Brand Whitlocklaan 6 1150 Sint-Pieters-Woluwe; 4 UE)  
-**recipient:** Haute Ecole ICHEC - ECAM - ISFSC ASBL / Président(e) du conseil d'administration — info@ichec.be — Boulevard Brand Whitlock 6, 1150 Woluwe-Saint-Pierre  
-**recipient note:** general mailbox of ICHEC (a component school of this haute école) verified on its official contact page https://www.ichec.be/fr/contact (the site names the haute école ICHEC-ECAM-ISFSC); not a mailbox of the ASBL board itself  
+**recipient:** Haute Ecole ICHEC - ECAM - ISFSC ASBL / Président(e) du conseil d'administration — NEEDS VERIFICATION — Boulevard Brand Whitlock 6, 1150 Woluwe-Saint-Pierre  
+**recipient note:** NEEDS VERIFICATION (corrected tick 3196): info@ichec.be is the general mailbox of member school ICHEC, not a mailbox of the organising body Haute Ecole ICHEC - ECAM - ISFSC ASBL; no organising-body mailbox verified on an official page; postal address Boulevard Brand Whitlock 6, 1150 Woluwe-Saint-Pierre (KBO)  
 **legal basis note:** voluntary request; no legal-basis claim made for this private-law ASBL; the subsidising authority (Fédération Wallonie-Bruxelles) holds the decisions  
 **sources:** official NBB VOL-VZW native PDF deposit **2026-00280257** (2002663 B / 51p; AG 23-06-2026; déposé 09/07/2026; MD5 0ff7f983f338ff75927233f2916025e5) + KBO + FWB special-needs and secondary-school organising bodies (ASBL) whose school mailbox (@sec.cfwb.be) is listed on the SeGEC school directory (enseignement.catholique.be, crawled 13 Oct 2026, 1,789 school pages) and matched to the KBO by name; largest code 733 first
 

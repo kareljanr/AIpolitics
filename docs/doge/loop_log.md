@@ -34792,3 +34792,15 @@ Append-only. Each tick adds a short entry.
 - FOI address: theux@saint-roch.be — general mailbox of Institut Saint-Roch (Theux), a school run by this organising body, verified on its official site https://www.saint-roch.be/; the SeGEC directory https://enseignement.catholique.be/etablissements/institut-saint-roch-3/ names this ASBL as pouvoir organisateur and lists the same address.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_esd_saint_roch_theux_vaph_matrix_9900_9_44m_9901_120k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3195/; rq_3195=done; spawn **rq_3196**; ticks=3195.
 - Next: **rq_3196 leftover dual** — Batch done; still skipped for mailbox (5-min cap): Collège Cardinal Mercier (EUR23.74m), KO Groot-Beveren (EUR24.67m), Saint-Guibert (EUR19.79m), Saint-Hadelin Visé (EUR18.05m), Sainte-Claire Verviers (EUR17.05m), IES Borinage (EUR15.10m), Saint Jean-Baptiste de la Salle Namur (EUR23.62m) - no @sec.cfwb.be on SeGEC and no general mailbox found on an opened official page; next: small leftovers (Collège Saint-Louis Liège, Sacré-Coeur Jette, Collège Saint-Hubert) after a mailbox check.
+
+- tick 3196 correction: tick 3193 Haute Ecole ICHEC-ECAM-ISFSC FOI row/draft recipient set to NEEDS VERIFICATION (status partial); info@ichec.be is a member-school mailbox, not the organising body's; budget/commitment/leaderboard figure rows kept unchanged.
+
+
+## Tick 3196 — 2026-10-13T01:31:18Z — rq_3196 leftover dual Collège Saint-Louis Liège Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies and literacy ASBLs (ASBL) whose general/role mailbox is listed on the SeGEC school directory or an official site, matched to the KBO; largest code 733 first: **Collège Saint-Louis Liège** → KBO 0451.817.882 had 0 prior entity rows.
+- KBO: Actief since 21 december 1993; VZW; zetel Rue Alfred-Magis 20 4020 Liège; 3 VE; 0 prior entity rows for 0451.817.882
+- Found: official NBB VKT-VZW native PDF **2026-00124976** (1011560 B / 18p; AV 07-04-2026; neergelegd 20/05/2026; MD5 cac1cf838bb1fe04dc6c394e68f5de44). VKT-VZW 9900 **EUR9586200** (+5.04%); 62 **EUR8989371**; 9901 **EUR99892** (was 123258); 9904 82666; equity 2814360; cash 658627; FTE 11,7 (was 11,8).
+- FOI address: info@collegesaintlouis.be — general mailbox verified on the official school site https://www.collegesaintlouis.be/ (Collège Saint-Louis, the school of the same name run by this organising body).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_csl_liege_vaph_matrix_9900_9_59m_9901_100k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3196/; rq_3196=done; spawn **rq_3197**; ticks=3196.
+- Next: **rq_3197 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
