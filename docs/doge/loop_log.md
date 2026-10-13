@@ -35760,3 +35760,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@gsara.be — general mailbox verified on the official site https://www.gsara.be/contact/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_gsara_vaph_matrix_9900_3_34m_9901_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3292/; rq_3292=done; spawn **rq_3293**; ticks=3292.
 - Next: **rq_3293 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3293 — 2026-10-13T04:59:59Z — rq_3293 leftover dual LUSS - Ligue des Usagers des Services de Santé Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scan NACE 94.991 / 94.992 (other membership organisations) over Walloon, Brussels and Flemish postcodes (974 legal persons not yet in the repo); code 733 rows first, then code 9900, largest first: **LUSS - Ligue des Usagers des Services de Santé** → KBO 0467.127.551 had 0 prior entity rows.
+- KBO: Actief since 23 februari 1999; VZW; zetel Avenue Sergent Vrithoff 123 5000 Namur; 5 VE; 0 prior entity rows for 0467.127.551
+- Found: official NBB VKT-VZW native PDF **2026-00169973** (55920 B / 15p; AV 22-05-2026; neergelegd 16/06/2026; MD5 0aa3b3d4532d9553a4c1e2a9ff04e73f). VKT-VZW 9900 **EUR1942859** (+38.78%); 62 **EUR1497645**; 9901 **EUR410366** (was 8667); 9904 409001; equity 614547; cash 572366; FTE 19,9 (was 18,8).
+- FOI address: luss@luss.be — general mailbox verified on the official site https://www.luss.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_luss_namur_vaph_matrix_9900_1_94m_9901_410k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3293/; rq_3293=done; spawn **rq_3294**; ticks=3293.
+- Next: **rq_3294 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

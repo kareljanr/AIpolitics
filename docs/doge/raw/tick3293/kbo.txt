@@ -1,0 +1,1 @@
+{"status": "Actief", "begin": "23 februari 1999", "rv": "Vereniging zonder winstoogmerk", "addr": "Avenue Sergent Vrithoff 123 5000 Namur", "ve": "5"}
