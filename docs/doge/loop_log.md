@@ -35730,3 +35730,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ocarina.be — general mailbox verified on the official site https://www.ocarina.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ocarina_jeunesse_vaph_matrix_9900_4_31m_9901_28k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3289/; rq_3289=done; spawn **rq_3290**; ticks=3289.
 - Next: **rq_3290 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3290 — 2026-10-13T04:59:40Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2898** of 2953 rows; inventory budgets 61877 · commitments 6953 · leaderboard 9071 · entities 2971 · sources 9792.
+- Top10: **stable** (3271-3279 added 8 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3281-3289: Kaaitheater · Allo Candy · Musée de la Photographie Charleroi · Espaces Tourisme & Culture Stavelot · Latitude 50 · Scouts en Gidsen Vlaanderen · Les Scouts · Vie Féminine · Ocarina.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3290 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3290 run locally as fallback.
+- Next: **rq_3290** — NACE 94.991/94.992 scan (code 9900, NOT subsidy amounts): PAC (EUR3.36m), GSARA (EUR3.34m), LUSS (EUR1.94m), GAMS Belgique (EUR1.80m), Relie-F (EUR1.77m); mailboxes verified on official sites, after the dedup check.
