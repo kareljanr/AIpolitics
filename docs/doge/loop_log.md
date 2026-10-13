@@ -38810,3 +38810,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@emancipe.be — general mailbox verified on the official site https://www.emancipe.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_emancipe_bruxelles_vaph_matrix_9900_0_25m_9901_42k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3597/; rq_3597=done; spawn **rq_3598**; ticks=3597.
 - Next: **rq_3598 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3598 — 2026-10-13T15:32:15Z — rq_3598 leftover dual Observatoire wallon de l'Intégration Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Observatoire wallon de l'Intégration** → KBO 0463.756.505 had 0 prior entity rows.
+- KBO: Actief since 13 maart 1998; VZW; zetel Place Gustave Falmagne 5 5000 Namur; 1 VE; 0 prior entity rows for 0463.756.505
+- Found: official NBB VKT-VZW native PDF **2026-00476091** (57738 B / 18p; AV 16-06-2026; neergelegd 27/08/2026; MD5 ce0a595ee85740770e2b58bf763e20e4). VKT-VZW 9900 **EUR245023** (-24.68%); 62 **EUR262900**; 9901 **EUR-44427** (was -4990); 9904 -26850; equity 180608; cash 458907; FTE 3,7 (was 3,3).
+- FOI address: info@observatoireintegration.be — general mailbox verified on the official site https://observatoireintegration.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_observatoire_integration_namur_vaph_matrix_9900_0_25m_9901_loss_44k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3598/; rq_3598=done; spawn **rq_3599**; ticks=3598.
+- Next: **rq_3599 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
