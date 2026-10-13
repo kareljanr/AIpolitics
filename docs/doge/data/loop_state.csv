@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T15:50:38Z,rq_3618,3618,no,tick3618 leftover dual Atout Projet Saint-Gilles 0452.636.939 Strong PDF 2026-00157302 9900 1.16m / 9901 3k; next rq_3619 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T15:50:47Z,rq_3619,3619,no,tick3619 leftover dual Compagnie Cordial Gent 0676.724.656 Strong PDF 2026-00107598 9900 1.13m / 9901 116k; next rq_3620 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

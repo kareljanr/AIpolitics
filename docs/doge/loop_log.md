@@ -39020,3 +39020,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: atoutprojet@atoutprojet.be — general mailbox verified on the official site https://www.atoutprojet.be/blank-4 (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_atout_projet_saint_gilles_vaph_matrix_9900_1_16m_9901_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3618/; rq_3618=done; spawn **rq_3619**; ticks=3618.
 - Next: **rq_3619 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3619 — 2026-10-13T15:50:47Z — rq_3619 leftover dual Compagnie Cordial Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Compagnie Cordial** → KBO 0676.724.656 had 0 prior entity rows.
+- KBO: Actief since 1 juni 2017; VZW; zetel Kammerstraat 19 9000 Gent; 2 VE; 0 prior entity rows for 0676.724.656
+- Found: official NBB VKT-VZW native PDF **2026-00107598** (42632 B / 11p; AV 19-03-2026; neergelegd 11/05/2026; MD5 e9146c74687970b191172393b7c68f78). VKT-VZW 9900 **EUR1127127** (+14.99%); 62 **EUR1007926**; 9901 **EUR115651** (was 21057); 9904 114601; equity 275817; cash 275717; FTE 17 (was 13,9).
+- FOI address: info@compagniecordial.be — general mailbox verified on the official site https://www.compagniecordial.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_compagnie_cordial_gent_vaph_matrix_9900_1_13m_9901_116k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3619/; rq_3619=done; spawn **rq_3620**; ticks=3619.
+- Next: **rq_3620 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
