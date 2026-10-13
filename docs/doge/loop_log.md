@@ -40480,3 +40480,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@atelierm.be — general mailbox verified on the official site https://atelierm.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_atelier_m_monceau_vaph_matrix_9900_0_50m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3764/; rq_3764=done; spawn **rq_3765**; ticks=3764.
 - Next: **rq_3765 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3765 — 2026-10-13T19:49:39Z — rq_3765 leftover dual Secteur 42 (maison de jeunes) Charleroi YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Secteur 42 (maison de jeunes)** → KBO 0429.354.266 had 0 prior entity rows.
+- KBO: Actief since 3 mei 1985; VZW; zetel Rue Albert Delwarte 34 6042 Charleroi; 1 VE; 0 prior entity rows for 0429.354.266
+- Found: official NBB VKT-VZW native PDF **2026-00231291** (53357 B / 14p; AV 03-06-2026; neergelegd 01/07/2026; MD5 5aab3eb2eb68a145aee53b75649d0fa4). VKT-VZW 9900 **EUR489177** (-15.72%); 62 **EUR470732**; 9901 **EUR-5381** (was -646); 9904 1808; equity 10918; cash 61153; FTE 9,8 (was 10).
+- FOI address: info@secteur42.be — general mailbox verified on the official site https://secteur42.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_secteur_42_lodelinsart_vaph_matrix_9900_0_49m_9901_loss_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3765/; rq_3765=done; spawn **rq_3766**; ticks=3765.
+- Next: **rq_3766 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
