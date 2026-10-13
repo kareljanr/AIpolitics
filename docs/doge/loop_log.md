@@ -35414,3 +35414,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: liege@adtp.be — general mailbox verified on the official site https://www.adtp.be/contact/ (mailbox of the registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_accueil_des_tout_petits_liege_vaph_matrix_733_7_00m_9901_loss_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3257/; rq_3257=done; spawn **rq_3258**; ticks=3257.
 - Next: **rq_3258 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3258 — 2026-10-13T03:28:03Z — rq_3258 leftover dual Mère Joséphine (Blégny) Blégny YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used: NACE 88.999 over Walloon and Flemish postcodes (2,181 legal persons not yet in the repo, 773 with a 2025-12 filing), plus NACE 88.101 and 85.599 (partial); code 733 rows first, then code 9900, largest first: **Mère Joséphine (Blégny)** → KBO 0453.754.023 had 0 prior entity rows.
+- KBO: Actief since 3 september 1994; VZW; zetel Rue de la Station 25 bus A 4670 Blégny; 1 VE; 0 prior entity rows for 0453.754.023
+- Found: official NBB VOL-VZW native PDF **2026-00180855** (2004008 B / 43p; AV 19-06-2026; neergelegd 22/06/2026; MD5 478928d5798f6ffa88b13f9c5aa21377). VOL-VZW 733 **EUR1990205** (+6.28%); 62 **EUR6613542**; 9901 **EUR207554** (was 368929); 9904 82752; equity 3814806; cash 563528; FTE 109,6 (was 101,9).
+- FOI address: accueil@merejosephine.be — general mailbox verified on the official site https://www.merejosephine.be/ (which lists the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_mere_josephine_blegny_vaph_matrix_733_1_99m_9901_208k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3258/; rq_3258=done; spawn **rq_3259**; ticks=3258.
+- Next: **rq_3259 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
