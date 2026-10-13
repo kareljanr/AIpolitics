@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T06:35:41Z,rq_3353,3353,no,tick3353 leftover dual La Pommeraie Gesves (Faulx-les-Tombes) 0414.034.206 Strong PDF 2026-00248311 9900 2.67m / 9901 loss 10k; next rq_3354 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T06:35:47Z,rq_3354,3354,no,tick3354 leftover dual Huize Vogelzang Brugge (Sint-Michiels) 0644.861.839 Strong PDF 2026-00080148 9900 2.54m / 9901 137k; next rq_3355 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

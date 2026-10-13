@@ -36370,3 +36370,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@pommeraie.be — general mailbox verified on the official site https://www.pommeraie.be/nous-contacter/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_la_pommeraie_gesves_vaph_matrix_9900_2_67m_9901_loss_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3353/; rq_3353=done; spawn **rq_3354**; ticks=3353.
 - Next: **rq_3354 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3354 — 2026-10-13T06:35:47Z — rq_3354 leftover dual Huize Vogelzang Brugge (Sint-Michiels) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Huize Vogelzang** → KBO 0644.861.839 had 0 prior entity rows.
+- KBO: Actief since 23 december 2015; VZW; zetel Wittemolenstraat 85 8200 Brugge; 1 VE; 0 prior entity rows for 0644.861.839
+- Found: official NBB VKT-VZW native PDF **2026-00080148** (261975 B / 19p; AV 01-04-2026; neergelegd 10/04/2026; MD5 4f19963df0a85af593eeee30cf9de09c). VKT-VZW 9900 **EUR2538057** (+4.41%); 62 **EUR2083554**; 9901 **EUR136602** (was 38839); 9904 143107; equity 6162064; cash 427386; FTE 32 (was 33).
+- FOI address: info@huize-vogelzang.be — general mailbox verified on the official site https://www.huize-vogelzang.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brugge); FOI **gap_huize_vogelzang_brugge_vaph_matrix_9900_2_54m_9901_137k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3354/; rq_3354=done; spawn **rq_3355**; ticks=3354.
+- Next: **rq_3355 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
