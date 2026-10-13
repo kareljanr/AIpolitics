@@ -34994,3 +34994,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vkvlaamsbrabant.be — general mailbox verified on the official site https://www.vertrouwenscentrum-kindermishandeling.be/leuven/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_vk_vlaams_brabant_vaph_matrix_9900_1_49m_9901_loss_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3215/; rq_3215=done; spawn **rq_3216**; ticks=3215.
 - Next: **rq_3216 leftover dual** — Batch done; skipped for mailbox (5-min cap): Groep Philippus Neri GGZ (only 733 row, EUR0.11m; no general mailbox), De Speelboom (site-level mailboxes only), SSM-ULB (EUR4.50m; address not on fetched official page), Beschut Wonen Noolim, Brugge-Oostende-Westkust, Kempen (script-rendered / not verifiable); next: L Adret, Antonin Artaud, SSM Saint-Gilles, CRSM after a mailbox check.
+
+
+## Tick 3216 — 2026-10-13T02:09:55Z — rq_3216 leftover dual ASBL Saint-Michel (Spa) Spa YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon sheltered workshops (ETA) and AVIQ disability services from a KBO activity-code scan (NACE 88.993, all Walloon/Brussels postcodes); code 733 rows first, then code 9900, largest first: **ASBL Saint-Michel (Spa)** → KBO 0406.618.654 had 0 prior entity rows.
+- KBO: Actief since 13 juni 1969; VZW; zetel Rue Albin Body 55 4900 Spa; 4 VE; 0 prior entity rows for 0406.618.654
+- Found: official NBB VOL-VZW native PDF **2026-00264081** (694899 B / 41p; AV 30-06-2026; neergelegd 06/07/2026; MD5 1aad404317b753c34c01639863f34722). VOL-VZW 733 **EUR7912651** (-5.52%); 62 **EUR7892201**; 9901 **EUR-1532836** (was -393057); 9904 -1463209; equity 2646337; cash 922781; FTE 106 (was 105).
+- FOI address: info@asblsaintmichel.be — general mailbox verified on the official site https://www.asblsaintmichel.be/contact (which names this ASBL and its KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_saint_michel_spa_vaph_matrix_733_7_91m_9901_loss_1533k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3216/; rq_3216=done; spawn **rq_3217**; ticks=3216.
+- Next: **rq_3217 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
