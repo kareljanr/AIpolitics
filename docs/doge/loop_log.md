@@ -37030,3 +37030,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@burnsfoundation.be — general mailbox verified on the official site https://www.brulures.be/qui-sommes-nous/nous-contacter (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_stichting_brandwonden_vaph_matrix_9900_1_28m_9901_loss_166k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3419/; rq_3419=done; spawn **rq_3420**; ticks=3419.
 - Next: **rq_3420 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3420 — 2026-10-13T09:28:46Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3015** of 3070 rows; inventory budgets 62840 · commitments 7070 · leaderboard 9188 · entities 3088 · sources 10143.
+- Top10: **stable** (3411-3419 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3411-3419: vzw JONG · Lejo · Kaleo · Sleep Well · ROJM · Les Petits Pas de la Botte · Centre Indigo · TAJO · Stichting Brandwonden.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3420 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3420 run locally as fallback.
+- Next: **rq_3420** — code 9900 (NOT subsidy amounts): OXYJeunes (EUR1.20m), Kavka (EUR1.11m), Habitat et Participation (EUR1.05m), Compagnons Bâtisseurs (EUR0.99m), Dranoeter (EUR0.68m); mailboxes verified on official sites, after the dedup check. New-family scan still running (about 150 of 344 resumed pages done).
