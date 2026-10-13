@@ -36570,3 +36570,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@crisp.be — secretariat mailbox verified on the official site https://www.crisp.be/fr/1049-equipe-de-recherche (the contact page lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_crisp_bruxelles_vaph_matrix_9900_1_49m_9901_121k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3373/; rq_3373=done; spawn **rq_3374**; ticks=3373.
 - Next: **rq_3374 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3374 — 2026-10-13T07:31:30Z — rq_3374 leftover dual Epicuris Ans YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Epicuris** → KBO 0867.271.753 had 0 prior entity rows.
+- KBO: Actief since 16 september 2004; VZW; zetel Rue du Parc 50 4432 Ans; 1 VE; 0 prior entity rows for 0867.271.753
+- Found: official NBB VKT-VZW native PDF **2026-00149661** (485358 B / 25p; AV 10-06-2026; neergelegd 10/06/2026; MD5 b11c42b47bff514935a91f673da523d4). VKT-VZW 9900 **EUR1136374** (-26.16%); 62 **EUR1166824**; 9901 **EUR-289528** (was 377245); 9904 -286064; equity 2941083; cash 4324944; FTE 12,6 (was 13,4).
+- FOI address: info@epicuris.be — general mailbox verified on the official site https://www.epicuris.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_epicuris_ans_vaph_matrix_9900_1_14m_9901_loss_290k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3374/; rq_3374=done; spawn **rq_3375**; ticks=3374.
+- Next: **rq_3375 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
