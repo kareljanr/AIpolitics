@@ -36940,3 +36940,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3410 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3410 run locally as fallback.
 - Next: **rq_3410** — code 9900 (NOT subsidy amounts): vzw JONG (EUR4.62m), Lejo (EUR4.17m), Kaleo (EUR3.97m), Sleep Well (EUR1.72m), ROJM (EUR1.32m); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3411 — 2026-10-13T09:18:40Z — rq_3410 leftover dual vzw JONG (Jeugdwelzijnswerk Ondersteuningsnetwerk Gent) Gent (Sint-Amandsberg) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **vzw JONG (Jeugdwelzijnswerk Ondersteuningsnetwerk Gent)** → KBO 0479.041.428 had 0 prior entity rows.
+- KBO: Actief since 7 november 2002; VZW; zetel Antwerpsesteenweg 195 9040 Gent; 18 VE; 0 prior entity rows for 0479.041.428
+- Found: official NBB VKT-VZW native PDF **2026-00091060** (334607 B / 26p; AV 24-03-2026; neergelegd 24/04/2026; MD5 c86e3a6aaa8e8bffee61fec065e4954f). VKT-VZW 9900 **EUR4622843** (-1.31%); 62 **EUR4643920**; 9901 **EUR9596** (was 29395); 9904 29218; equity 1099200; cash 767597; FTE 71,6 (was 71,6).
+- FOI address: info@vzwjong.be — general mailbox verified on the official site https://www.vzwjong.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_vzw_jong_gent_vaph_matrix_9900_4_62m_9901_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3411/; rq_3410=done; spawn **rq_3412**; ticks=3411.
+- Next: **rq_3412 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
