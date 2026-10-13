@@ -38180,3 +38180,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@adde.be — general mailbox verified on the official site https://www.adde.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_adde_bruxelles_vaph_matrix_9900_0_68m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3534/; rq_3534=done; spawn **rq_3535**; ticks=3534.
 - Next: **rq_3535 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3535 — 2026-10-13T12:23:49Z — rq_3535 leftover dual Tumult Mechelen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Tumult** → KBO 0412.588.609 had 0 prior entity rows.
+- KBO: Actief since 11 juli 1972; VZW; zetel Stationsstraat 61 2800 Mechelen; 1 VE; 0 prior entity rows for 0412.588.609
+- Found: official NBB VKT-VZW native PDF **2026-00071037** (54846 B / 14p; AV 23-03-2026; neergelegd 02/04/2026; MD5 1e9782f9e737bd4f8892b0b42d270601). VKT-VZW 9900 **EUR682240** (-18.48%); 62 **EUR685659**; 9901 **EUR-55609** (was 22850); 9904 -72504; equity 641018; cash 356596; FTE 10,6 (was 11).
+- FOI address: info@tumult.be — general mailbox verified on the official site https://tumult.be/ (obfuscated; site lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_tumult_mechelen_vaph_matrix_9900_0_68m_9901_loss_56k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3535/; rq_3535=done; spawn **rq_3536**; ticks=3535.
+- Next: **rq_3536 leftover dual** — Batch done (3526-3535); code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (remaining 82.300 / 93.29x pages and the 20 NACE-BEL 2025 replacement codes still scanning), then further code 9900 leftovers from the cached NBB pool, largest first..
