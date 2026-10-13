@@ -37310,3 +37310,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cias.be — general mailbox verified on the official site https://www.cias.be/contact (legal notice lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_cias_nivelles_vaph_matrix_9900_4_44m_9901_993k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3447/; rq_3447=done; spawn **rq_3448**; ticks=3447.
 - Next: **rq_3448 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3448 — 2026-10-13T10:44:43Z — rq_3448 leftover dual Aide et Service à Domicile Enghien et environs (ASDE) Enghien YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Aide et Service à Domicile Enghien et environs (ASDE)** → KBO 0409.490.745 had 0 prior entity rows.
+- KBO: Actief since 27 oktober 1951; VZW; zetel Koningin Astridlaan(E) 18D bus 5 7850 Enghien; 1 VE; 0 prior entity rows for 0409.490.745
+- Found: official NBB VKT-VZW native PDF **2026-00321042** (46068 B / 12p; AV 04-06-2026; neergelegd 23/07/2026; MD5 1873b103d812e52178145777e2003a3a). VKT-VZW 9900 **EUR3154016** (+12.34%); 62 **EUR3077467**; 9901 **EUR50086** (was 15661); 9904 61498; equity 1167417; cash 536069; FTE 66,3 (was 64,9).
+- FOI address: info@asde.be — general mailbox verified on the official site https://www.asde.be/contact-aide-famille/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_asde_enghien_vaph_matrix_9900_3_15m_9901_50k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3448/; rq_3448=done; spawn **rq_3449**; ticks=3448.
+- Next: **rq_3449 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
