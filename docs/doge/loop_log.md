@@ -38630,3 +38630,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: equipe@braserotournai.be — general (team) mailbox verified on the official site https://braserotournai.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_brasero_tournai_vaph_matrix_9900_0_45m_9901_loss_13k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3579/; rq_3579=done; spawn **rq_3580**; ticks=3579.
 - Next: **rq_3580 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3580 — 2026-10-13T15:18:45Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3159** of 3214 rows; inventory budgets 63996 · commitments 7214 · leaderboard 9332 · entities 3232 · sources 10575.
+- Top10: **stable** (3571-3579 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3571-3579: Mobile School · De Landgenoten · Archiefpunt · Fakkeltheater · TRILL · Little Star Village · RéCI-Bruxelles · Theater FroeFroe · Braséro - Accueil de Jour.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3580 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3580 run locally as fallback.
+- Next: **rq_3580** — code 9900 (NOT subsidy amounts): Art Basics for Children (EUR0.443m), De Sluis Leerwerkplaats (EUR0.438m), La Ferme de la Hulotte (EUR0.416m), De Speelvogels (EUR0.407m), ArmenTeKort / Kanzo (EUR0.377m); mailboxes verified on official sites, after the dedup check. Scans: old codes and NACE-BEL 2025 codes complete (400/400 pages); all keys triaged.

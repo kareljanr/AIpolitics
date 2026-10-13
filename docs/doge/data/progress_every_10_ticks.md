@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3580** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3570; 3571-3579 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3571-3579 residual dual L5 (not near-complete of 348bn):** Mobile School · De Landgenoten · Archiefpunt · Fakkeltheater · TRILL · Little Star Village · RéCI-Bruxelles · Theater FroeFroe · Braséro - Accueil de Jour (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3159** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3214** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3571-3579** Mobile School · De Landgenoten · Archiefpunt · Fakkeltheater · TRILL · Little Star Village · RéCI-Bruxelles · Theater FroeFroe · Braséro - Accueil de Jour.
+
+### Inventory (tick 3580)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 63996 |
+| commitments.csv | 7214 |
+| leaderboard.csv | 9332 |
+| entities.csv | 3232 |
+| sources.csv | 10575 |
+| FOI ready | 3159 |
+| FOI total rows | 3214 |
+| research_queue open | rq_3580 (carried; next: Art Basics for Children, De Sluis Leerwerkplaats, La Ferme de la Hulotte, De Speelvogels, ArmenTeKort (Kanzo) (code 9900 leftovers from the rebuilt NBB pool; old-code and NACE-BEL 2025 scans complete (400 of 400 pages); all 3493 earlier + 563 new keys triaged; no unused code 733 filer with a qualifying mailbox); largest first) |
+
+### What improved since tick 3570
+
+- **New source (tick3571-3579):** Mobile School · De Landgenoten · Archiefpunt · Fakkeltheater · TRILL · Little Star Village · RéCI-Bruxelles · Theater FroeFroe · Braséro - Accueil de Jour. All nine are code 9900 leftovers (NOT subsidy amounts), largest first; the code 733 pool from all earlier scans is used up (Médiathèque Nouvelle retried, site still unreachable). Scan status at tick 3580: the old-code scan is complete (85 runnable pages; 77 with results, 8 confirmed empty). The NACE-BEL 2025 replacement scan (covering the 355 pages whose 17 old NACE codes return HTTP 404 on KBO) is complete (400 of 400 pages), 12 jobs in parallel. Triage is complete for all 3493 earlier scan keys (1278 with a 2025 filing) and for all 563 new non-profit keys from the 2025-code pages; code 733 rows found: vzw de Rand (used 3546), IATA Namur (used 3556), EPHEC-Galilée (skipped: no general mailbox on its own site); pool code 733 filer Marienheim Raeren is already in the data. Code 9900 picks come from the NBB pool rebuilt from the local cache (2115 rows, no code 733 filers). EU-level and international bodies, umbrella bodies and federations, bodies without an own-domain general mailbox, address mismatches and duplicates excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3580 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3570** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
