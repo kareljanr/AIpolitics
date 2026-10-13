@@ -41170,3 +41170,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lusvzw.be — general mailbox verified on the official site https://www.lusvzw.be/ (same address and KBO number as the registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_lus_antwerpen_vaph_matrix_9900_0_45m_9901_loss_175k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3833/; rq_3833=done; spawn **rq_3834**; ticks=3833.
 - Next: **rq_3834 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3834 — 2026-10-13T22:41:08Z — rq_3834 leftover dual Begijnhof Sinte-Elisabeth te Sint-Amandsberg (Groot Begijnhof) Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Begijnhof Sinte-Elisabeth te Sint-Amandsberg (Groot Begijnhof)** → KBO 0409.479.560 had 0 prior entity rows.
+- KBO: Actief since 16 februari 1924; VZW; zetel Groot Begijnhof 67 9040 Gent; 1 VE; 0 prior entity rows for 0409.479.560
+- Found: official NBB VKT-VZW native PDF **2026-00135601** (57851 B / 17p; AV 29-04-2026; neergelegd 29/05/2026; MD5 d77037ba05fa09f6b0129d069ce86ef0). VKT-VZW 9900 **EUR822832** (-1.14%); 62 **EUR239308**; 9901 **EUR116696** (was 87002); 9904 89458; equity 6544050; cash 138424; FTE 3,9 (was 3,4).
+- FOI address: info@grootbegijnhof.be — general mailbox verified on the official site https://grootbegijnhof.wixsite.com/home/contact-1 (same address as the KBO registered seat; site names the vzw and its KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_groot_begijnhof_sint_amandsberg_vaph_matrix_9900_0_82m_9901_117k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3834/; rq_3834=done; spawn **rq_3835**; ticks=3834.
+- Next: **rq_3835 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

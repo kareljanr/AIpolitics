@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T22:40:59Z,rq_3833,3833,no,tick3833 leftover dual Lus Antwerpen 0464.497.069 Strong PDF 2026-00159434 9900 0.45m / 9901 loss 175k; next rq_3834 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T22:41:08Z,rq_3834,3834,no,tick3834 leftover dual Begijnhof Sinte-Elisabeth te Sint-Amandsberg (Groot Begijnhof) Gent 0409.479.560 Strong PDF 2026-00135601 9900 0.82m / 9901 117k; next rq_3835 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
