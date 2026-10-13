@@ -39930,3 +39930,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lequinquet.be — general mailbox verified on the official site https://www.lequinquet.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_le_quinquet_soignies_vaph_matrix_9900_0_98m_9901_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3709/; rq_3709=done; spawn **rq_3710**; ticks=3709.
 - Next: **rq_3710 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3710 — 2026-10-13T17:18:04Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3276** of 3331 rows; inventory budgets 64935 · commitments 7331 · leaderboard 9449 · entities 3349 · sources 10926.
+- Top10: **stable** (3701-3709 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3701-3709: Mensen voor Mensen · Planning familial Arlon · SVAG · WVCB · Mondiale Werken Regio Lier · Espaces · Sporty Creactief · Les Bruyères · Le Quinquet.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3710 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3710 run locally as fallback.
+- Next: **rq_3710** — code 9900 (NOT subsidy amounts): SOS Burn-out Belgique (EUR0.79m, micro), Le Signe (EUR0.56m, micro), SDJ Province de Luxembourg (EUR0.53m, micro), Options (EUR0.52m, micro), Canal J (EUR0.52m, micro); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scan nscan8.

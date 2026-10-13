@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3710** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3700; 3701-3709 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3701-3709 residual dual L5 (not near-complete of 348bn):** Mensen voor Mensen · Planning familial Arlon · SVAG · WVCB · Mondiale Werken Regio Lier · Espaces · Sporty Creactief · Les Bruyères · Le Quinquet (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3276** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3331** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3701-3709** Mensen voor Mensen · Planning familial Arlon · SVAG · WVCB · Mondiale Werken Regio Lier · Espaces · Sporty Creactief · Les Bruyères · Le Quinquet.
+
+### Inventory (tick 3710)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 64935 |
+| commitments.csv | 7331 |
+| leaderboard.csv | 9449 |
+| entities.csv | 3349 |
+| sources.csv | 10926 |
+| FOI ready | 3276 |
+| FOI total rows | 3331 |
+| research_queue open | rq_3710 (carried; next: SOS Burn-out Belgique, Le Signe (AMO), SDJ Province de Luxembourg, Options (AMO Oxyjeunes), Canal J (AMO) (code 9900 rows from bounded KBO scan nscan8); largest first) |
+
+### What improved since tick 3700
+
+- **New source (tick3701-3709):** Mensen voor Mensen · Planning familial Arlon · SVAG · WVCB · Mondiale Werken Regio Lier · Espaces · Sporty Creactief · Les Bruyères · Le Quinquet. All code 9900 rows (NOT subsidy amounts) from bounded KBO scans nscan7 and nscan8 (nscan8: 30 new postcodes, NACE 88101/88991/88992/88999/94999, plus 88992 on the nscan7 postcodes), largest first; no code 733 filer found. Mailboxes verified on each body’s own site; rejected: mutualité, ISP, Gmail, Hotmail or mismatched-domain mailboxes, umbrella or directory sites, address mismatches and unverifiable sites. Médiathèque Nouvelle still unreachable (HTTP 000).
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3710 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked at start of batch 3706-3715: no github-actions DOGE tick commits (radar commits excluded). Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3700** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
