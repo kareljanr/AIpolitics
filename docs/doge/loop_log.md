@@ -39080,3 +39080,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: welkom@bzn.be — general mailbox verified on the official site https://www.bzn.be/nl/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_bond_zonder_naam_scw_antwerpen_vaph_matrix_9900_0_82m_9901_loss_213k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3624/; rq_3624=done; spawn **rq_3625**; ticks=3624.
 - Next: **rq_3625 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3625 — 2026-10-13T15:52:51Z — rq_3625 leftover dual Make-A-Wish Belgium-Vlaanderen Mechelen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Make-A-Wish Belgium-Vlaanderen** → KBO 0441.375.140 had 0 prior entity rows.
+- KBO: Actief since 11 november 1989; VZW; zetel Gentsesteenweg 3/002 2800 Mechelen; 1 VE; 0 prior entity rows for 0441.375.140
+- Found: official NBB VKT-VZW native PDF **2026-00512481** (836843 B / 28p; AV 06-06-2026; neergelegd 14/09/2026; MD5 e670064e30af0be8837066c3dd55c640). VKT-VZW 9900 **EUR795290** (+33.64%); 62 **EUR226656**; 9901 **EUR537962** (was 348104); 9904 536113; equity 5293687; cash 1388989; FTE 3,1 (was 2,8).
+- FOI address: secretariaat@makeawish.be — secretariat (role) mailbox verified on the official site https://www.makeawish.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_make_a_wish_vlaanderen_mechelen_vaph_matrix_9900_0_80m_9901_538k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3625/; rq_3625=done; spawn **rq_3626**; ticks=3625.
+- Next: **rq_3626 leftover dual** — Batch done (3616-3625); code 9900 rows from the new bounded KBO scan (no further usable code 733 filer) (NACE-BEL 2025 codes 85510, 85520, 88992, 93199, 94920, 94991, 94999) (Médiathèque Nouvelle still unreachable). Next (old-code and NACE-BEL 2025 scans complete, all keys triaged; EPHEC-Galilée not used: no general mailbox on its own site), then further code 9900 leftovers from the rebuilt pool, largest first..
