@@ -39590,3 +39590,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@intermaide.be — secretariat mailbox verified on the official site https://intermaide.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_intermaide_verviers_vaph_matrix_9900_0_31m_9901_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3675/; rq_3675=done; spawn **rq_3676**; ticks=3675.
 - Next: **rq_3676 leftover dual** — Batch done (3666-3675); code 9900 rows from bounded KBO scans nscan5 (NACE-BEL 2025 88101, 88991, 88999, 94999 on 23 further postcodes) and nscan4 leftovers, largest first; the one code 733 filer found (Centre La Clairière) has no general mailbox on its own site (Médiathèque Nouvelle still unreachable). Next: further code 9900 rows from nscan5, largest first..
+
+
+## Tick 3676 — 2026-10-13T16:37:04Z — rq_3676 leftover dual TRX (Trix) Borgerhout YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **TRX (Trix)** → KBO 0863.995.034 had 0 prior entity rows.
+- KBO: Actief since 11 maart 2004; VZW; zetel Noordersingel 28 2140 Antwerpen; 1 VE; 0 prior entity rows for 0863.995.034
+- Found: official NBB VKT-VZW native PDF **2026-00087141** (53044 B / 15p; AV 30-03-2026; neergelegd 24/04/2026; MD5 f1e4a3234837b09000ee1d64a0d1150b). VKT-VZW 9900 **EUR1638107** (-16.92%); 62 **EUR1537664**; 9901 **EUR-81718** (was 461552); 9904 -106411; equity 977993; cash 1394808; FTE 20,6 (was 21,3).
+- FOI address: info@trixonline.be — general mailbox verified on the official site https://www.trixonline.be/nl/contact (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_trx_trix_borgerhout_vaph_matrix_9900_1_64m_9901_loss_82k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3676/; rq_3676=done; spawn **rq_3677**; ticks=3676.
+- Next: **rq_3677 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
