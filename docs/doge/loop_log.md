@@ -37300,3 +37300,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@huisnederlandsbrussel.be — general mailbox verified on the official site https://www.huisnederlandsbrussel.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_huis_van_het_nederlands_brussel_vaph_matrix_9900_4_65m_9901_loss_56k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3446/; rq_3446=done; spawn **rq_3447**; ticks=3446.
 - Next: **rq_3447 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3447 — 2026-10-13T10:44:30Z — rq_3447 leftover dual Centre d'Initiatives et d'Actions Santé (CIAS) Nivelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre d'Initiatives et d'Actions Santé (CIAS)** → KBO 0443.423.325 had 0 prior entity rows.
+- KBO: Actief since 21 september 1990; VZW; zetel Avenue Robert Schuman 51 bus B42 1400 Nivelles; 5 VE; 0 prior entity rows for 0443.423.325
+- Found: official NBB VKT-VZW native PDF **2026-00305674** (284038 B / 23p; AV 24-06-2026; neergelegd 09/07/2026; MD5 26f6bed90e1c904b40e1cee237e4382c). VKT-VZW 9900 **EUR4441971** (+22.76%); 62 **EUR3053600**; 9901 **EUR992653** (was 611885); 9904 1103099; equity 5922504; cash 196902; FTE 37,9 (was 35,6).
+- FOI address: info@cias.be — general mailbox verified on the official site https://www.cias.be/contact (legal notice lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_cias_nivelles_vaph_matrix_9900_4_44m_9901_993k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3447/; rq_3447=done; spawn **rq_3448**; ticks=3447.
+- Next: **rq_3448 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

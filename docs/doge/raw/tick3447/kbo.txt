@@ -1,0 +1,1 @@
+{"status": "Actief", "begin": "21 september 1990", "rv": "Vereniging zonder winstoogmerk", "addr": "Avenue Robert Schuman 51 bus B42 1400 Nivelles", "ve": "5"}
