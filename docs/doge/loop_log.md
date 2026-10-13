@@ -36540,3 +36540,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3370 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3370 run locally as fallback.
 - Next: **rq_3370** — code 9900 (NOT subsidy amounts): Egmont Institute (EUR1.71m), Praktijkpunt Landbouw Vlaams-Brabant (EUR1.61m), CRISP (EUR1.49m), Epicuris (EUR1.14m), Pour la Solidarité (EUR1.03m); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3371 — 2026-10-13T07:31:09Z — rq_3370 leftover dual Egmont - Institut royal des relations internationales Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Egmont - Institut royal des relations internationales** → KBO 0408.370.295 had 0 prior entity rows.
+- KBO: Actief since 25 februari 1947; VZW; zetel Karmelietenstraat 24a 1000 Brussel; 1 VE; 0 prior entity rows for 0408.370.295
+- Found: official NBB VKT-VZW native PDF **2026-00098684** (57781 B / 17p; AV 30-03-2026; neergelegd 29/04/2026; MD5 d5dac41f172beca6f399702e9a171e0e). VKT-VZW 9900 **EUR1709629** (-7.37%); 62 **EUR1737598**; 9901 **EUR-34141** (was -162106); 9904 -34933; equity 327876; cash 933588; FTE 24,3 (was 25).
+- FOI address: info@egmontinstitute.be — general mailbox verified on the official site https://www.egmontinstitute.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_egmont_institute_vaph_matrix_9900_1_71m_9901_loss_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3371/; rq_3370=done; spawn **rq_3372**; ticks=3371.
+- Next: **rq_3372 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
