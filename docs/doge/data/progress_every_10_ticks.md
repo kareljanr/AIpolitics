@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3780** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3770; 3771-3779 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3771-3779 residual dual L5 (not near-complete of 348bn):** Capital · Bij Ons - Chez Nous · Kras Jeugdwerk · Aditi · De Kraamvogel · APIDES · #SheDIDIT · Koning Kevin · Jonge Helden (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3338** drafts ready | Human send only; answered **11**; partial **29**; total FOI rows **3394** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3771-3779** Capital · Bij Ons - Chez Nous · Kras Jeugdwerk · Aditi · De Kraamvogel · APIDES · #SheDIDIT · Koning Kevin · Jonge Helden.
+
+### Inventory (tick 3780)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 65440 |
+| commitments.csv | 7394 |
+| leaderboard.csv | 9512 |
+| entities.csv | 3412 |
+| sources.csv | 11115 |
+| FOI ready | 3338 |
+| FOI total rows | 3394 |
+| research_queue open | rq_3780 (carried; next: none queued (check remaining nscan22 leftovers)) |
+
+### What improved since tick 3770
+
+- **New source (tick3771-3779):** Capital · Bij Ons - Chez Nous · Kras Jeugdwerk · Aditi · De Kraamvogel · APIDES · #SheDIDIT · Koning Kevin · Jonge Helden. Code 9900 rows (NOT subsidy amounts) from bounded KBO scans nscan20 and nscan22 (88999/85520/94991/87101 on Brussels, Antwerp, Flemish and Walloon Brabant postcodes not scanned before; fresh cookie per code), largest first; no usable code 733 filer (Agentschap Integratie en Inburgering and Rode Kruis-Vlaanderen excluded as government or national bodies). Mailboxes fetched directly from each body’s own site; KBO address checked with kb.py. Rejected: address or KBO mismatches, Skynet mailboxes, OCMW or mutualité-linked bodies, federations and international bodies, sites without a mailbox. De Overmolen site still HTTP 500; Médiathèque Nouvelle not retried this batch.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3780 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked 2026-10-13: no new DOGE tick commits (radar only). Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3770** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

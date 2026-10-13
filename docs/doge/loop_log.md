@@ -40630,3 +40630,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@jongehelden.be — general mailbox verified on the official site https://jongehelden.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_jonge_helden_leuven_vaph_matrix_9900_0_46m_9901_loss_18k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3779/; rq_3779=done; spawn **rq_3780**; ticks=3779.
 - Next: **rq_3780 leftover dual** — Batch done (3771-3779); code 9900 rows from bounded KBO scans nscan20/nscan22 (Brussels, Antwerp, Flemish and Walloon Brabant postcodes not scanned before), largest first; no usable code 733 filer; skipped: Werkstroomm, Payoke, Lampeke, Collectif des Femmes (address or KBO mismatch), MetSmaak (OCMW association), AAFU and VINC (no mailbox on own site), De Overmolen (site HTTP 500). Next: remaining nscan22 leftovers or a new scan..
+
+
+## Tick 3780 — 2026-10-13T21:23:56Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3338** of 3394 rows; inventory budgets 65440 · commitments 7394 · leaderboard 9512 · entities 3412 · sources 11115.
+- Top10: **stable** (3771-3779 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3771-3779: Capital · Bij Ons - Chez Nous · Kras Jeugdwerk · Aditi · De Kraamvogel · APIDES · #SheDIDIT · Koning Kevin · Jonge Helden.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3780 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3780 run locally as fallback.
+- Next: **rq_3780** — no candidate queued: check the remaining nscan22 leftovers, verifying each mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
