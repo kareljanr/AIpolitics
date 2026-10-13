@@ -38600,3 +38600,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@littleballvillage.be — general mailbox verified on the official site https://www.littleballvillage.be/nl/contact (site cookie statement lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_little_star_village_waregem_vaph_matrix_9900_0_47m_9901_281k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3576/; rq_3576=done; spawn **rq_3577**; ticks=3576.
 - Next: **rq_3577 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3577 — 2026-10-13T15:15:42Z — rq_3577 leftover dual RéCI-Bruxelles Schaerbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **RéCI-Bruxelles** → KBO 0455.030.166 had 0 prior entity rows.
+- KBO: Actief since 21 december 1994; VZW; zetel Edouard Fiersstraat 1 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0455.030.166
+- Found: official NBB VKT-VZW native PDF **2026-00312406** (42233 B / 10p; AV 02-06-2026; neergelegd 17/07/2026; MD5 c50e954d636d915c57fba4c9f1446416). VKT-VZW 9900 **EUR471208** (+1.50%); 62 **EUR480350**; 9901 **EUR-10411** (was 5372); 9904 -4168; equity 72561; cash 138863; FTE 8,3 (was 9).
+- FOI address: info@reci-bruxelles.be — general (team) mailbox verified on the official site https://www.reci-bruxelles.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_reci_bruxelles_schaerbeek_vaph_matrix_9900_0_47m_9901_loss_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3577/; rq_3577=done; spawn **rq_3578**; ticks=3577.
+- Next: **rq_3578 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
