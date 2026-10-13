@@ -39450,3 +39450,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@cejette.be — secretariat mailbox verified on the official site https://www.cejette.be/qui-sommes-nous/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_centre_entraide_jette_vaph_matrix_9900_0_69m_9901_loss_28k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3661/; rq_3660=done; spawn **rq_3662**; ticks=3661.
 - Next: **rq_3662 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3662 — 2026-10-13T16:23:40Z — rq_3662 leftover dual Le Comité de Réinsertion par Interventions Coordonnées (Le CRIC) Tournai YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Le Comité de Réinsertion par Interventions Coordonnées (Le CRIC)** → KBO 0431.180.836 had 0 prior entity rows.
+- KBO: Actief since 22 april 1986; VZW; zetel Boulevard Delwart(TOU) 12 7500 Tournai; 1 VE; 0 prior entity rows for 0431.180.836
+- Found: official NBB VKT-VZW native PDF **2026-00206603** (151116 B / 13p; AV 18-05-2026; neergelegd 25/06/2026; MD5 30be4dad481327bd483d24aebc0b3f1f). VKT-VZW 9900 **EUR592964** (+1.60%); 62 **EUR560092**; 9901 **EUR30648** (was 22927); 9904 30347; equity 33190; cash 137315; FTE 6,7 (was 6,8).
+- FOI address: info@lecric-coe.be — general mailbox verified on the official site https://lecric-coe.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_le_cric_tournai_vaph_matrix_9900_0_59m_9901_31k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3662/; rq_3662=done; spawn **rq_3663**; ticks=3662.
+- Next: **rq_3663 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
