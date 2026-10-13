@@ -37040,3 +37040,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3420 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3420 run locally as fallback.
 - Next: **rq_3420** — code 9900 (NOT subsidy amounts): OXYJeunes (EUR1.20m), Kavka (EUR1.11m), Habitat et Participation (EUR1.05m), Compagnons Bâtisseurs (EUR0.99m), Dranoeter (EUR0.68m); mailboxes verified on official sites, after the dedup check. New-family scan still running (about 150 of 344 resumed pages done).
+
+
+## Tick 3421 — 2026-10-13T09:28:56Z — rq_3420 leftover dual OXYJeunes Farciennes YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **OXYJeunes** → KBO 0455.700.060 had 0 prior entity rows.
+- KBO: Actief since 12 april 1995; VZW; zetel Rue Albert 1er(FAR) 89 6240 Farciennes; 2 VE; 0 prior entity rows for 0455.700.060
+- Found: official NBB VKT-VZW native PDF **2026-00116120** (44492 B / 11p; AV 27-04-2026; neergelegd 21/05/2026; MD5 b2e6e4f33cd81cd71e98e46dc212dfe5). VKT-VZW 9900 **EUR1198619** (+10.01%); 62 **EUR1152838**; 9901 **EUR19355** (was -616734); 9904 18809; equity 239555; cash 104265; FTE 18,9 (was 18,7).
+- FOI address: info@oxyjeunes.be — general mailbox verified on the official site https://www.oxyjeunes.be/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_oxyjeunes_farciennes_vaph_matrix_9900_1_20m_9901_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3421/; rq_3420=done; spawn **rq_3422**; ticks=3421.
+- Next: **rq_3422 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
