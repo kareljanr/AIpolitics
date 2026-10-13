@@ -1,0 +1,1 @@
+{"status": "Actief", "begin": "3 oktober 1970", "rv": "Vereniging zonder winstoogmerk", "addr": "Vaartkom 4 3000 Leuven", "ve": "1"}

@@ -38580,3 +38580,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@fakkeltheater.be — general mailbox verified on the official site https://www.fakkeltheater.be/contact/ (theatre at Reyndersstraat 7, the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_fakkeltheater_antwerpen_vaph_matrix_9900_0_50m_9901_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3574/; rq_3574=done; spawn **rq_3575**; ticks=3574.
 - Next: **rq_3575 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3575 — 2026-10-13T15:12:01Z — rq_3575 leftover dual TRILL Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **TRILL** → KBO 0407.671.105 had 0 prior entity rows.
+- KBO: Actief since 3 oktober 1970; VZW; zetel Vaartkom 4 3000 Leuven; 1 VE; 0 prior entity rows for 0407.671.105
+- Found: official NBB VKT-VZW native PDF **2026-00071001** (51243 B / 14p; AV 25-03-2026; neergelegd 02/04/2026; MD5 836ab3aa2f2ebea3bea80bf8b8f06a79). VKT-VZW 9900 **EUR485744** (+3.62%); 62 **EUR479421**; 9901 **EUR2184** (was 113); 9904 4082; equity 333336; cash 313939; FTE 7,8 (was 7,9).
+- FOI address: info@trill.be — general mailbox verified on the official site https://www.trill.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_trill_leuven_vaph_matrix_9900_0_49m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3575/; rq_3575=done; spawn **rq_3576**; ticks=3575.
+- Next: **rq_3576 leftover dual** — Batch done (3566-3575); one code 733 row (Rode Kruishotel, from the NBB pool) then code 9900 leftovers (Médiathèque Nouvelle still unreachable). Next: EPHEC-Galilée (code 733) if a general mailbox on its own site is found (old-code and NACE-BEL 2025 scans complete, all keys triaged), then further code 9900 leftovers from the rebuilt pool, largest first..
