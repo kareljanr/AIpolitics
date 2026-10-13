@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T17:28:01Z,rq_3718,3718,no,tick3718 leftover dual Espace (SAPSE) Ottignies 0430.766.013 Strong PDF 2026-00241092 9900 0.68m / 9901 loss 0k; next rq_3719 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T17:28:09Z,rq_3719,3719,no,tick3719 leftover dual Handicap Visuel Formation Emploi (HVFE) Montignies-sur-Sambre 0433.417.279 Strong PDF 2026-00263450 9900 0.61m / 9901 12k; next rq_3720 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

@@ -40020,3 +40020,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@espaceasbl.be — general mailbox verified on the official site https://www.espaceasbl.be/contacts/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_espace_ottignies_vaph_matrix_9900_0_68m_9901_loss_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3718/; rq_3718=done; spawn **rq_3719**; ticks=3718.
 - Next: **rq_3719 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3719 — 2026-10-13T17:28:09Z — rq_3719 leftover dual Handicap Visuel Formation Emploi (HVFE) Montignies-sur-Sambre YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Handicap Visuel Formation Emploi (HVFE)** → KBO 0433.417.279 had 0 prior entity rows.
+- KBO: Actief since 12 februari 1987; VZW; zetel Chaussée de Charleroi 1 bus A 6061 Charleroi; 1 VE; 0 prior entity rows for 0433.417.279
+- Found: official NBB MIC-VZW native PDF **2026-00263450** (42065 B / 11p; AV 06-06-2026; neergelegd 07/07/2026; MD5 6f991a6a31257b4bcb5c6d35f4cc0f38). MIC-VZW 9900 **EUR608359** (+2.39%); 62 **EUR547627**; 9901 **EUR12292** (was -1831); 9904 28378; equity 665412; cash 327483; FTE n/a.
+- FOI address: info@hvfe.be — general mailbox verified on the official site https://hvfe.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_hvfe_montignies_vaph_matrix_9900_0_61m_9901_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3719/; rq_3719=done; spawn **rq_3720**; ticks=3719.
+- Next: **rq_3720 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
