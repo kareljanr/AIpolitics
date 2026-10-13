@@ -36780,3 +36780,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: infos@ventdebout.be — general mailbox verified on the official site https://www.ventdebout.be/a-propos (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_vent_debout_liege_vaph_matrix_9900_1_60m_9901_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3394/; rq_3394=done; spawn **rq_3395**; ticks=3394.
 - Next: **rq_3395 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3395 — 2026-10-13T08:23:55Z — rq_3395 leftover dual de Vlinderkens Edegem YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **de Vlinderkens** → KBO 0410.424.519 had 0 prior entity rows.
+- KBO: Actief since 8 maart 1958; VZW; zetel Buizegemlei 116 2650 Edegem; 1 VE; 0 prior entity rows for 0410.424.519
+- Found: official NBB VKT-VZW native PDF **2026-00122683** (56883 B / 16p; AV 26-05-2026; neergelegd 27/05/2026; MD5 5b667a39667e419cd90cf1b48cc1a078). VKT-VZW 9900 **EUR1566661** (+1.71%); 62 **EUR1461180**; 9901 **EUR19200** (was 162201); 9904 14420; equity 2950686; cash 932143; FTE 19,2 (was 17,9).
+- FOI address: Administratie@devlinderkens.be — administration mailbox verified on the official site https://devlinderkens.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_de_vlinderkens_edegem_vaph_matrix_9900_1_57m_9901_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3395/; rq_3395=done; spawn **rq_3396**; ticks=3395.
+- Next: **rq_3396 leftover dual** — Batch done; the completed 68.204 / 70.100 triage gave no further code 733 rows; all nine are code 9900 care leftovers. Next: Médiathèque Nouvelle (code 733, site still unreachable), then new NACE families for code 733 filers..
