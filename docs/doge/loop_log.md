@@ -35620,3 +35620,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@abconcerts.be — general mailbox verified on the official site https://www.abconcerts.be/nl/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ancienne_belgique_brussel_vaph_matrix_733_4_21m_9901_loss_210k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3278/; rq_3278=done; spawn **rq_3279**; ticks=3278.
 - Next: **rq_3279 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3279 — 2026-10-13T04:44:43Z — rq_3279 leftover dual Kazerne Dossin: Memoriaal, Museum en Documentatiecentrum Mechelen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used over Walloon, Brussels and Flemish postcodes: NACE 90.311 (arts venues) and 88.102 (635 legal persons not yet in the repo), NACE 90.111 and 91.210 (2,445), NACE 93.110 and 85.520 (4,272; mostly companies and small clubs, no code 733 row); code 733 rows first, then code 9900, largest first: **Kazerne Dossin: Memoriaal, Museum en Documentatiecentrum** → KBO 0807.452.744 had 0 prior entity rows.
+- KBO: Actief since 29 oktober 2008; VZW; zetel Goswin de Stassartstraat 153 2800 Mechelen; 1 VE; 0 prior entity rows for 0807.452.744
+- Found: official NBB VKT-VZW native PDF **2026-00090768** (55190 B / 15p; AV 20-04-2026; neergelegd 28/04/2026; MD5 ea49586e2a7d207b52b1aee2c1add65d). VKT-VZW 9900 **EUR4391353** (+102.35%); 62 **EUR1889187**; 9901 **EUR2368217** (was -55739); 9904 2616861; equity 3092427; cash 1006912; FTE 22,9 (was 24,6).
+- FOI address: info@kazernedossin.eu — general mailbox verified on the official site https://kazernedossin.eu/praktisch/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mechelen); FOI **gap_kazerne_dossin_mechelen_vaph_matrix_9900_4_39m_9901_2368k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3279/; rq_3279=done; spawn **rq_3280**; ticks=3279.
+- Next: **rq_3280 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
