@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T09:18:52Z,rq_3412,3412,no,tick3412 leftover dual Lejo Gent 0420.358.606 Strong PDF 2026-00076988 9900 4.17m / 9901 loss 9k; next rq_3413 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T09:19:03Z,rq_3413,3413,no,tick3413 leftover dual Kaleo Bruxelles 0401.214.467 Strong PDF 2026-00129794 9900 3.97m / 9901 26k; next rq_3414 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

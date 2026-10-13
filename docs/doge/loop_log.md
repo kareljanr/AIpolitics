@@ -36960,3 +36960,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lejo.be — general mailbox verified on the official site https://www.lejo.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_lejo_gent_vaph_matrix_9900_4_17m_9901_loss_9k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3412/; rq_3412=done; spawn **rq_3413**; ticks=3412.
 - Next: **rq_3413 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3413 — 2026-10-13T09:19:03Z — rq_3413 leftover dual Kaleo Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Kaleo** → KBO 0401.214.467 had 0 prior entity rows.
+- KBO: Actief since 15 mei 1937; VZW; zetel Van Orleystraat 4 1000 Brussel; 9 VE; 0 prior entity rows for 0401.214.467
+- Found: official NBB VKT-VZW native PDF **2026-00129794** (1118078 B / 29p; AV 18-05-2026; neergelegd 28/05/2026; MD5 6903e6127d39c5b6368686602cbd55b7). VKT-VZW 9900 **EUR3974126** (+10.46%); 62 **EUR2704024**; 9901 **EUR25810** (was 43619); 9904 66009; equity 5564193; cash 922777; FTE 44,6 (was 48).
+- FOI address: info@kaleo-asbl.be — general mailbox verified on the official site https://www.kaleo-asbl.be/nl/contacteer-ons/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_kaleo_bruxelles_vaph_matrix_9900_3_97m_9901_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3413/; rq_3413=done; spawn **rq_3414**; ticks=3413.
+- Next: **rq_3414 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
