@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3450** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3440; 3441-3449 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3441-3449 residual dual L5 (not near-complete of 348bn):** MOBILESEM · FOS Open Scouting · Maison de la poésie d’Amay · CEGO · Talbot House · Huis van het Nederlands Brussel · CIAS · ASDE Enghien · GATAM (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3042** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3097** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3441-3449** MOBILESEM · FOS Open Scouting · Maison de la poésie d’Amay · CEGO · Talbot House · Huis van het Nederlands Brussel · CIAS · ASDE Enghien · GATAM.
+
+### Inventory (tick 3450)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 63057 |
+| commitments.csv | 7097 |
+| leaderboard.csv | 9215 |
+| entities.csv | 3115 |
+| sources.csv | 10224 |
+| FOI ready | 3042 |
+| FOI total rows | 3097 |
+| research_queue open | rq_3450 (carried; next: Centre culturel de Dinant, Crechendo, FMJ, Convivence, Atelier Graphoui (code 9900 leftovers; fresh scan of 22 new NACE families 61 of 440 pages finished, no code 733 rows yet); largest first) |
+
+### What improved since tick 3440
+
+- **New source (tick3441-3449):** MOBILESEM · FOS Open Scouting · Maison de la poésie d’Amay · CEGO · Talbot House · Huis van het Nederlands Brussel · CIAS · ASDE Enghien · GATAM. All nine are code 9900 leftovers (NOT subsidy amounts), largest first within each group; the code 733 pool from all earlier scans is used up (Médiathèque Nouvelle retried, site still unreachable). Scan status: the fresh scan of 22 not-yet-scanned NACE families (85.4x, 85.5x, 85.6, 90.0x, 91.0x, 93.29x, 86.909, 82.300, 74.909) is still running; at tick 3450, 61 of its 440 pages had finished (85.51x, 85.53x, 93.29x and 82.300; the tick-3440 note of about 80 finished pages was too high). Triage of the finished pages is partly done and has found no code 733 rows so far. EU-level and international bodies and duplicates excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3450 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3440** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

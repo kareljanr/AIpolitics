@@ -37330,3 +37330,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@gatam.org — general mailbox verified on the official site https://www.gatam.org/contact (which lists the KBO number; same address as the filed seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_gatam_antwerpen_vaph_matrix_9900_3_12m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3449/; rq_3449=done; spawn **rq_3450**; ticks=3449.
 - Next: **rq_3450 leftover dual** — Batch done; code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: Centre culturel de Dinant, Crechendo, FMJ, Convivence, Atelier Graphoui (code 9900), and triage of the fresh 22-family scan for code 733 filers as pages finish..
+
+
+## Tick 3450 — 2026-10-13T10:59:52Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3042** of 3097 rows; inventory budgets 63057 · commitments 7097 · leaderboard 9215 · entities 3115 · sources 10224.
+- Top10: **stable** (3441-3449 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3441-3449: MOBILESEM · FOS Open Scouting · Maison de la poésie d’Amay · CEGO · Talbot House · Huis van het Nederlands Brussel · CIAS · ASDE Enghien · GATAM.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3450 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3450 run locally as fallback.
+- Next: **rq_3450** — code 9900 (NOT subsidy amounts): Centre culturel de Dinant (EUR2.16m), Crechendo (EUR1.27m), FMJ (EUR1.23m), Convivence (EUR1.03m), Atelier Graphoui (EUR0.40m); mailboxes verified on official sites, after the dedup check. Fresh scan of 22 new NACE families still running (61 of 440 pages done; no code 733 rows yet).
