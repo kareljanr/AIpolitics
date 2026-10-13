@@ -37720,3 +37720,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@claj.be — general mailbox verified on the official site https://www.claj.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_claj_liege_vaph_matrix_9900_1_32m_9901_141k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3488/; rq_3488=done; spawn **rq_3489**; ticks=3488.
 - Next: **rq_3489 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3489 — 2026-10-13T11:44:23Z — rq_3489 leftover dual Antenne Tournesol Jette YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Antenne Tournesol** → KBO 0478.369.950 had 0 prior entity rows.
+- KBO: Actief since 26 september 2002; VZW; zetel Henri Werriestraat 69 1090 Jette; 1 VE; 0 prior entity rows for 0478.369.950
+- Found: official NBB VKT-VZW native PDF **2026-00098925** (52734 B / 15p; AV 21-04-2026; neergelegd 01/05/2026; MD5 795e591b3fcb5a9b9f2ff251bbe9df0d). VKT-VZW 9900 **EUR1300350** (+8.76%); 62 **EUR1230353**; 9901 **EUR41262** (was -13049); 9904 35645; equity 643967; cash 515673; FTE 12 (was 12,1).
+- FOI address: info@antennetournesol.be — general mailbox verified on the official site https://www.antennetournesol.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_antenne_tournesol_jette_vaph_matrix_9900_1_30m_9901_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3489/; rq_3489=done; spawn **rq_3490**; ticks=3489.
+- Next: **rq_3490 leftover dual** — Batch done (3486-3495); code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (remaining 82.300 / 93.29x pages and the 20 NACE-BEL 2025 replacement codes still scanning), then further code 9900 leftovers from the cached NBB pool, largest first..
