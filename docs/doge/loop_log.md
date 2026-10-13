@@ -40690,3 +40690,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@democrazy.be — general mailbox verified on the official site https://www.democrazy.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_democrazy_gent_vaph_matrix_9900_0_66m_9901_44k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3785/; rq_3785=done; spawn **rq_3786**; ticks=3785.
 - Next: **rq_3786 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3786 — 2026-10-13T21:59:29Z — rq_3786 leftover dual Victoria Deluxe Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Victoria Deluxe** → KBO 0863.774.805 had 0 prior entity rows.
+- KBO: Actief since 2 maart 2004; VZW; zetel Dok-Noord 4F bus 102 9000 Gent; 1 VE; 0 prior entity rows for 0863.774.805
+- Found: official NBB MIC-VZW native PDF **2026-00110858** (41774 B / 10p; AV 11-05-2026; neergelegd 13/05/2026; MD5 61439225312948738d4d9476d48655d9). MIC-VZW 9900 **EUR500955** (+7.17%); 62 **EUR448265**; 9901 **EUR45782** (was -18831); 9904 44025; equity 281767; cash 256154; FTE n/a.
+- FOI address: info@victoriadeluxe.be — general mailbox verified on the official site https://www.victoriadeluxe.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_victoria_deluxe_gent_vaph_matrix_9900_0_50m_9901_46k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3786/; rq_3786=done; spawn **rq_3787**; ticks=3786.
+- Next: **rq_3787 leftover dual** — Partial batch (3783-3786); recipients found in the Gent and Brugge open-data subsidy lists already in data/raw (gent_subs_full.json, brugge_subs_full.json), amounts from the NBB 2025 filings (code 9900, NOT subsidy amounts); VIERNULVIER and De Korrelatie skipped (no general mailbox on own site), Stadmakers site unreachable, De Overmolen HTTP 500. Next: remaining Gent/Brugge list recipients..
