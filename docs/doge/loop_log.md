@@ -35384,3 +35384,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: modus@modusvivendi-be.org — general mailbox verified on the official site https://www.modusvivendi-be.org/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_modus_vivendi_vaph_matrix_9900_2_04m_9901_18k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3254/; rq_3254=done; spawn **rq_3255**; ticks=3254.
 - Next: **rq_3255 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3255 — 2026-10-13T02:46:17Z — rq_3255 leftover dual SOS Jeunes - Quartier Libre Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Large Brussels social-work non-profits from a KBO activity-code scan (NACE 88.999, all Brussels postcodes; 523 legal persons not yet in the repo), chosen after the City of Brussels 2025 register tail became small; code 733 rows first, then code 9900, largest first: **SOS Jeunes - Quartier Libre** → KBO 0458.325.889 had 0 prior entity rows.
+- KBO: Actief since 18 juli 1996; VZW; zetel Mercelisstraat 27 1050 Elsene; 1 VE; 0 prior entity rows for 0458.325.889
+- Found: official NBB VKT-VZW native PDF **2026-00259235** (539792 B / 18p; AV 18-06-2026; neergelegd 29/06/2026; MD5 f3717c34be72626024b130e6ebb00a51). VKT-VZW 9900 **EUR1918028** (-0.01%); 62 **EUR1873027**; 9901 **EUR-63228** (was 4986); 9904 -58944; equity 72266; cash 101956; FTE 30 (was 30,4).
+- FOI address: contact@sosjeunes.be — general mailbox verified on the official site https://www.sosjeunes.be/contact (general contact mailbox).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_sos_jeunes_quartier_libre_vaph_matrix_9900_1_92m_9901_loss_63k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3255/; rq_3255=done; spawn **rq_3256**; ticks=3255.
+- Next: **rq_3256 leftover dual** — Batch done; skipped (5-min cap / mailbox rule): Agentschap Integratie en Inburgering (733 EUR76.2m; contact form only), Caritas-Hulpbetoon (EUR58.6m code 9900; KBO differs from Caritas International, no own mailbox found), Centre La Clairière (733 EUR14.2m; only service/personal mailboxes), Altéo (EUR6.7m; no mailbox on its own site), La Famille Koekelberg (EUR6.9m; mailbox only on third-party pages), FARES (no mailbox on fetched page); City of Brussels 2025 register still open: Werk Centrale de l'emploi (EUR485,000), Brulocalis (EUR338,909), Ferme du Parc Maximilien (EUR261,400).
