@@ -40190,3 +40190,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sesame-ist.be — general mailbox verified on the official site https://www.service-accompagnement.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_integration_sociale_et_travail_arlon_vaph_matrix_9900_0_95m_9901_260k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3735/; rq_3735=done; spawn **rq_3736**; ticks=3735.
 - Next: **rq_3736 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3736 — 2026-10-13T18:42:53Z — rq_3736 leftover dual A.V.J. Namur Vedrin YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **A.V.J. Namur** → KBO 0439.194.323 had 0 prior entity rows.
+- KBO: Actief since 27 februari 1989; VZW; zetel Rue des Broux(VD) 25 5020 Namur; 1 VE; 0 prior entity rows for 0439.194.323
+- Found: official NBB VKT-VZW native PDF **2026-00416450** (48404 B / 13p; AV 01-06-2026; neergelegd 24/08/2026; MD5 8b3476af80f06937796476ee82efb6ea). VKT-VZW 9900 **EUR915307** (+2.99%); 62 **EUR1032772**; 9901 **EUR-163897** (was -130309); 9904 -129557; equity 66644; cash 358322; FTE 20,9 (was 17,2).
+- FOI address: coordination@avj-namur.be — general mailbox verified on the official site https://www.avj-namur.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_avj_namur_vaph_matrix_9900_0_92m_9901_loss_164k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3736/; rq_3736=done; spawn **rq_3737**; ticks=3736.
+- Next: **rq_3737 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T18:42:44Z,rq_3735,3735,no,tick3735 leftover dual Intégration Sociale et Travail (Sésame) Arlon 0407.845.012 Strong PDF 2026-00491068 9900 0.95m / 9901 260k; next rq_3736 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T18:42:53Z,rq_3736,3736,no,tick3736 leftover dual A.V.J. Namur Vedrin 0439.194.323 Strong PDF 2026-00416450 9900 0.92m / 9901 loss 164k; next rq_3737 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
