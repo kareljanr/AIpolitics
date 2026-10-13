@@ -35044,3 +35044,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3220 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3220 run locally as fallback.
 - Next: **rq_3220** — Le CHAF (code 9900 EUR3.86m), La Thiérache (EUR2.15m), APN Nivelles (EUR1.67m), La Sève (EUR1.55m), Les Grillons (EUR1.43m); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3221 — 2026-10-13T02:13:10Z — rq_3220 leftover dual Le CHAF - Centre pour personnes handicapées adultes de Farciennes Farciennes YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon sheltered workshops (ETA) and AVIQ disability services from a KBO activity-code scan (NACE 88.993, all Walloon/Brussels postcodes); code 733 rows first, then code 9900, largest first: **Le CHAF - Centre pour personnes handicapées adultes de Farciennes** → KBO 0435.402.613 had 0 prior entity rows.
+- KBO: Actief since 30 mei 1988; VZW; zetel Rue Jules Maltaux(FAR) 62 bus B 6240 Farciennes; 1 VE; 0 prior entity rows for 0435.402.613
+- Found: official NBB VKT-VZW native PDF **2026-00174327** (1053282 B / 29p; AV 15-06-2026; neergelegd 17/06/2026; MD5 70677053714bf95d755ee81104d4737d). VKT-VZW 9900 **EUR3858324** (+13.54%); 62 **EUR3041868**; 9901 **EUR140438** (was -42996); 9904 137954; equity 542397; cash 488188; FTE 48,4 (was 48,8).
+- FOI address: direction.generale@le-chaf.be — general mailbox verified on the official site https://le-chaf.be/index.php/direction-generale/ (role mailbox of the general management).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_charleroi); FOI **gap_le_chaf_farciennes_vaph_matrix_9900_3_86m_9901_140k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3221/; rq_3220=done; spawn **rq_3222**; ticks=3221.
+- Next: **rq_3222 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
