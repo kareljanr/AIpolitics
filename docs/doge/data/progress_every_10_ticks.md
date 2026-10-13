@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3410** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3400; 3401-3409 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3401-3409 residual dual L5 (not near-complete of 348bn):** CAPE · La Babillarde · CEMôme · Jeunesses Musicales · Scouts et Guides Pluralistes · Les Auberges de Jeunesse · Armée du Salut (Oeuvres Sociales) · Abbaye de Maredsous · CEPAG (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3006** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3061** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3401-3409** CAPE · La Babillarde · CEMôme · Jeunesses Musicales · Scouts et Guides Pluralistes · Les Auberges de Jeunesse · Armée du Salut (Oeuvres Sociales) · Abbaye de Maredsous · CEPAG.
+
+### Inventory (tick 3410)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 62768 |
+| commitments.csv | 7061 |
+| leaderboard.csv | 9179 |
+| entities.csv | 3079 |
+| sources.csv | 10116 |
+| FOI ready | 3006 |
+| FOI total rows | 3061 |
+| research_queue open | rq_3410 (carried; next: vzw JONG, Lejo, Kaleo, Sleep Well, ROJM (code 9900 leftovers of the completed new-family scans); largest first) |
+
+### What improved since tick 3400
+
+- **New source (tick3401-3409):** CAPE · La Babillarde · CEMôme · Jeunesses Musicales · Scouts et Guides Pluralistes · Les Auberges de Jeunesse · Armée du Salut (Oeuvres Sociales) · Abbaye de Maredsous · CEPAG. 3401-3405 are 9900 leftovers of the new 88.91x / 94.xxx scans; 3406-3408 are code 733 filers from the remaining scan pages (55.20x youth hostels, 94.9x), 3409 a 9900 leftover, 733 first then largest first. EU-level bodies and duplicates excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3410 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3400** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

@@ -36930,3 +36930,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: cepag@cepag.be — general mailbox verified on the official site https://www.cepag.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_cepag_namur_vaph_matrix_9900_8_27m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3409/; rq_3409=done; spawn **rq_3410**; ticks=3409.
 - Next: **rq_3410 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3410 — 2026-10-13T09:18:02Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3006** of 3061 rows; inventory budgets 62768 · commitments 7061 · leaderboard 9179 · entities 3079 · sources 10116.
+- Top10: **stable** (3401-3409 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3401-3409: CAPE · La Babillarde · CEMôme · Jeunesses Musicales · Scouts et Guides Pluralistes · Les Auberges de Jeunesse · Armée du Salut (Oeuvres Sociales) · Abbaye de Maredsous · CEPAG.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3410 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3410 run locally as fallback.
+- Next: **rq_3410** — code 9900 (NOT subsidy amounts): vzw JONG (EUR4.62m), Lejo (EUR4.17m), Kaleo (EUR3.97m), Sleep Well (EUR1.72m), ROJM (EUR1.32m); mailboxes verified on official sites, after the dedup check.
