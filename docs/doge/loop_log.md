@@ -39770,3 +39770,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@betonnejeugd.org — general mailbox verified on the official site https://www.betonnejeugd.org/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_betonne_jeugd_deurne_vaph_matrix_9900_0_31m_9901_loss_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3693/; rq_3693=done; spawn **rq_3694**; ticks=3693.
 - Next: **rq_3694 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3694 — 2026-10-13T16:49:53Z — rq_3694 leftover dual Imp’ACT La Louvière YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Imp’ACT** → KBO 0686.899.560 had 0 prior entity rows.
+- KBO: Actief since 28 december 2017; VZW; zetel Rue Ernest Milcamps(L.L) 26 bus 1 7100 La Louvière; 2 VE; 0 prior entity rows for 0686.899.560
+- Found: official NBB MIC-VZW native PDF **2026-00178576** (48765 B / 12p; AV 20-05-2026; neergelegd 18/06/2026; MD5 700c8df16759b516b63480e7d154ca74). MIC-VZW 9900 **EUR307487** (-3.26%); 62 **EUR293514**; 9901 **EUR13625** (was 11956); 9904 13589; equity -23441; cash 60112; FTE n/a.
+- FOI address: projets@impact-asbl.be — general projects mailbox verified on the official site https://www.impact-asbl.be/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_impact_la_louviere_vaph_matrix_9900_0_31m_9901_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3694/; rq_3694=done; spawn **rq_3695**; ticks=3694.
+- Next: **rq_3695 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
