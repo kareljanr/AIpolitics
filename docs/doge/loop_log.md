@@ -37940,3 +37940,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3510 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3510 run locally as fallback.
 - Next: **rq_3510** — code 9900 (NOT subsidy amounts): AMO Jeun’Est (EUR0.920m), Inter-Actions (EUR0.920m), Jeunes Schaerbeekois au Travail (EUR0.895m), SOS Enfants Namur (EUR0.894m), Maison Médicale Horizons (EUR0.887m); mailboxes verified on official sites, after the dedup check. Scans continue: old codes 4 re-run pages left, NACE-BEL 2025 codes 60/400 pages.
+
+
+## Tick 3511 — 2026-10-13T12:05:41Z — rq_3510 leftover dual AMO Jeun'Est Jodoigne YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **AMO Jeun'Est** → KBO 0445.272.362 had 0 prior entity rows.
+- KBO: Actief since 30 maart 1991; VZW; zetel Place du Major Boine(Jod.) 3 1370 Jodoigne; 1 VE; 0 prior entity rows for 0445.272.362
+- Found: official NBB VKT-VZW native PDF **2026-00395068** (42664 B / 11p; AV 11-06-2026; neergelegd 11/08/2026; MD5 15030a27b99cf8f297c80c02f62daaf6). VKT-VZW 9900 **EUR920332** (+2.44%); 62 **EUR890409**; 9901 **EUR6053** (was 18362); 9904 567; equity 111693; cash 309919; FTE 11,2 (was 11,3).
+- FOI address: info@amojeunest.be — general mailbox verified on the official site https://www.amojeunest.be/amo/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_amo_jeunest_jodoigne_vaph_matrix_9900_0_92m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3511/; rq_3510=done; spawn **rq_3512**; ticks=3511.
+- Next: **rq_3512 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
