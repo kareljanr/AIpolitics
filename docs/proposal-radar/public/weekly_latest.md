@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **34**.
+Scored in the last 21 days: **0**. Still open in the queue: **35**.
 
 ## New ratings
 
@@ -10,6 +10,7 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- 161.500 mensen trokken dinsdag de straat op in Frankrijk tegen besparingen in het onderwijs (2026-10-13)
 - 480.000 mensen trokken dinsdag de straat op in Frankrijk tegen besparingen in het onderwijs, aldus de vakbonden (2026-10-13)
 - Staking in gesloten centra gaat verder: “Minister biedt oplossingen, maar niets op korte termijn” (2026-10-13)
 - Gennez schept duidelijkheid over budget voor mensen met een handicap (2026-10-13)
@@ -24,7 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Isolde Van den Eynde: “Dubbel zoveel schuld per Waal als per Vlaming en toch marge voor cadeaus” (2026-10-12)
 - ‘Meer geld, minder resultaat: Kafka in de kinderopvang’ (2026-10-12)
 - Mediaminister Van Achter sluit onderhandelingen over VRT-besparingen uit: "Iedereen zal steentje moeten bijdragen" (2026-10-12)
-- Gent houdt vast aan evenement van 1 miljoen euro in 2029: "Kan belangrijke meerwaarde betekenen" (2026-10-12)
 
 ## Method
 
