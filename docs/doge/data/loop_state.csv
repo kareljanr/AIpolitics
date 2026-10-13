@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T00:39:14Z,rq_3170,3171,no,tick3171 leftover dual LUCA School of Arts Schaarbeek 0456.758.944 Strong PDF 2026-00086305 733 2.83m / 9901 1331k; next rq_3172 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T00:39:25Z,rq_3172,3172,no,tick3172 leftover dual Lire et Ecrire Luxembourg Libramont-Chevigny 0434.407.570 Strong PDF 2026-00228351 9900 2.08m / 9901 7k; next rq_3173 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

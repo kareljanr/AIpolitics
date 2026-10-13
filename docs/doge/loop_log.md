@@ -34552,3 +34552,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@luca-arts.be — general mailbox verified on official contact page https://info.luca-arts.be/en/node/100 (page shows the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_luca_school_of_arts_vaph_matrix_733_2_83m_9901_1331k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3171/; rq_3170=done; spawn **rq_3172**; ticks=3171.
 - Next: **rq_3172 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3172 — 2026-10-13T00:39:25Z — rq_3172 leftover dual Lire et Ecrire Luxembourg Libramont-Chevigny YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon/Brussels training, literacy and disability-service non-profits plus remaining university colleges (CISP/OISP training centres, Lire et Ecrire network, AVIQ medico-pedagogical institutes, Flemish hogescholen VZW); fresh KBO name searches (legal form ASBL/VZW; words such as Université/Universiteit, Hogeschool, Enseignement spécialisé/Buitengewoon onderwijs, Médico-pédagogique, CISP, Lire et Ecrire, Mission régionale, Centre de formation), filings ranked by NBB code 733 subsidies (full model) or code 9900 gross margin (abbreviated model), largest first; every candidate passed the name/alias/KBO/website dedup check: **Lire et Ecrire Luxembourg** → KBO 0434.407.570 had 0 prior entity rows.
+- KBO: Actief since 9 november 1987; VZW; zetel Libramont,Rue du Village 1A bus B 6800 Libramont-Chevigny; 1 VE; 0 prior entity rows for 0434.407.570
+- Found: official NBB VKT-VZW native PDF **2026-00228351** (527762 B / 33p; AV 19-06-2026; neergelegd 29/06/2026; MD5 f65990891fba3b45bbd1f13a125e8ff7). VKT-VZW 9900 **EUR2081980** (-4.91%); 62 **EUR2045798**; 9901 **EUR7237** (was 17133); 9904 1157; equity 259445; cash 235089; FTE 26,2 (was 27,4).
+- FOI address: luxembourg@lire-et-ecrire.be — regional office mailbox verified on official contact page https://lire-et-ecrire.be/contact-lee-luxembourg.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_lee_luxembourg_vaph_matrix_9900_2_08m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3172/; rq_3172=done; spawn **rq_3173**; ticks=3172.
+- Next: **rq_3173 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
