@@ -35750,3 +35750,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@pac-g.be — general mailbox verified on the official site https://www.pac-g.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_presence_action_culturelles_vaph_matrix_9900_3_36m_9901_loss_18k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3291/; rq_3290=done; spawn **rq_3292**; ticks=3291.
 - Next: **rq_3292 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3292 — 2026-10-13T04:59:52Z — rq_3292 leftover dual GSARA - Groupe socialiste d'action et de réflexion sur l'audiovisuel Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scan NACE 94.991 / 94.992 (other membership organisations) over Walloon, Brussels and Flemish postcodes (974 legal persons not yet in the repo); code 733 rows first, then code 9900, largest first: **GSARA - Groupe socialiste d'action et de réflexion sur l'audiovisuel** → KBO 0418.141.759 had 0 prior entity rows.
+- KBO: Actief since 6 april 1978; VZW; zetel Hamerstraat 26 1210 Sint-Joost-ten-Node; 8 VE; 0 prior entity rows for 0418.141.759
+- Found: official NBB VKT-VZW native PDF **2026-00155521** (1594106 B / 25p; AV 28-05-2026; neergelegd 12/06/2026; MD5 3feec21f44cde14eaa0aab61ffa35ce0). VKT-VZW 9900 **EUR3337936** (+1.17%); 62 **EUR3254249**; 9901 **EUR3642** (was -11778); 9904 510; equity 235462; cash 331438; FTE 44,1 (was 44).
+- FOI address: info@gsara.be — general mailbox verified on the official site https://www.gsara.be/contact/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_gsara_vaph_matrix_9900_3_34m_9901_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3292/; rq_3292=done; spawn **rq_3293**; ticks=3292.
+- Next: **rq_3293 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
