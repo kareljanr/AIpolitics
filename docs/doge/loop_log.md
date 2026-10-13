@@ -38720,3 +38720,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@isolisti.be — general mailbox verified on the official site https://www.isolisti.be/en/about-us (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_i_solisti_del_vento_antwerpen_vaph_matrix_9900_0_38m_9901_loss_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3588/; rq_3588=done; spawn **rq_3589**; ticks=3588.
 - Next: **rq_3589 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3589 — 2026-10-13T15:24:13Z — rq_3589 leftover dual Château de Modave Modave YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Château de Modave** → KBO 0446.106.760 had 0 prior entity rows.
+- KBO: Actief since 17 juli 1991; VZW; zetel Rue du Parc 4 4577 Modave; 1 VE; 0 prior entity rows for 0446.106.760
+- Found: official NBB VKT-VZW native PDF **2026-00276682** (47702 B / 12p; AV 26-06-2026; neergelegd 09/07/2026; MD5 e6bdb55077226a2883258ada8ce55c55). VKT-VZW 9900 **EUR374553** (-0.89%); 62 **EUR352934**; 9901 **EUR10744** (was 15201); 9904 9665; equity None; cash 12689; FTE 6 (was 6).
+- FOI address: info@modave-castle.be — general mailbox verified on the official site https://www.modave-castle.be/infos_pratiques (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +7; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_chateau_de_modave_vaph_matrix_9900_0_37m_9901_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3589/; rq_3589=done; spawn **rq_3590**; ticks=3589.
+- Next: **rq_3590 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

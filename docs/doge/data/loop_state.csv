@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T15:24:04Z,rq_3588,3588,no,tick3588 leftover dual I Solisti del Vento Antwerpen 0458.503.063 Strong PDF 2026-00113840 9900 0.38m / 9901 loss 11k; next rq_3589 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T15:24:13Z,rq_3589,3589,no,tick3589 leftover dual Château de Modave Modave 0446.106.760 Strong PDF 2026-00276682 9900 0.37m / 9901 11k; next rq_3590 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
