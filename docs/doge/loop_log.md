@@ -39780,3 +39780,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: projets@impact-asbl.be — general projects mailbox verified on the official site https://www.impact-asbl.be/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_impact_la_louviere_vaph_matrix_9900_0_31m_9901_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3694/; rq_3694=done; spawn **rq_3695**; ticks=3694.
 - Next: **rq_3695 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3695 — 2026-10-13T16:50:02Z — rq_3695 leftover dual Timotheus Schoten YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Timotheus** → KBO 0439.296.568 had 0 prior entity rows.
+- KBO: Actief since 1 december 1988; VZW; zetel Plantijnlei 16 2900 Schoten; 1 VE; 0 prior entity rows for 0439.296.568
+- Found: official NBB VKT-VZW native PDF **2026-00321369** (1251405 B / 16p; AV 27-03-2026; neergelegd 23/07/2026; MD5 de9aef8d0cff818a5ba605f9fbe6f1ab). VKT-VZW 9900 **EUR133641** (+54.04%); 62 **EUR72258**; 9901 **EUR53509** (was 6646); 9904 50891; equity 564166; cash 456844; FTE 1,2 (was 1,1).
+- FOI address: info@timotheus.org — general mailbox verified on the official site https://www.timotheus.org/contact/waar-vind-je-ons (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_timotheus_schoten_vaph_matrix_9900_0_13m_9901_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3695/; rq_3695=done; spawn **rq_3696**; ticks=3695.
+- Next: **rq_3696 leftover dual** — Batch done (3686-3695); one code 733 filer first, then code 9900 rows from bounded KBO scans nscan5/nscan6, largest first (Médiathèque Nouvelle still unreachable). Next: remaining nscan6 rows or a new bounded scan..
