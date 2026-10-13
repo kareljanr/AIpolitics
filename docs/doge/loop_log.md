@@ -35174,3 +35174,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: jeunesse.asbl@brucity.be — general mailbox verified on the official site (contact page of jeunesseabruxelles.be, opened via fetch; ASBL mailbox).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_jeunesse_a_bruxelles_vaph_matrix_9900_0_85m_9901_loss_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3233/; rq_3233=done; spawn **rq_3234**; ticks=3233.
 - Next: **rq_3234 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3234 — 2026-10-13T02:27:12Z — rq_3234 leftover dual MAD - Centre Bruxellois de la Mode et du Design Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Largest recipients in the official City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025) not yet in the repo, cross-checked with the NBB filing: **MAD - Centre Bruxellois de la Mode et du Design** → KBO 0831.792.420 had 0 prior entity rows.
+- KBO: Actief since 10 december 2010; VZW; zetel Nieuwe Graanmarkt 10 1000 Brussel; 1 VE; 0 prior entity rows for 0831.792.420
+- Found: official NBB VKT-VZW native PDF **2026-00401954** (48951 B / 14p; AV 20-05-2026; neergelegd 17/08/2026; MD5 063dbdbb655b4893472c9e4203577708). VKT-VZW 9900 **EUR1065136** (-5.83%); 62 **EUR1011290**; 9901 **EUR47682** (was 79); 9904 47500; equity 50268; cash 226165; FTE 12,7 (was 14,5).
+- FOI address: contact@mad.brussels — general mailbox verified on the official site https://mad.brussels/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_mad_brussels_vaph_matrix_9900_1_07m_9901_48k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3234/; rq_3234=done; spawn **rq_3235**; ticks=3234.
+- Next: **rq_3235 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
