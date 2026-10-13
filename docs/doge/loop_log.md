@@ -34562,3 +34562,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: luxembourg@lire-et-ecrire.be — regional office mailbox verified on official contact page https://lire-et-ecrire.be/contact-lee-luxembourg.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_lee_luxembourg_vaph_matrix_9900_2_08m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3172/; rq_3172=done; spawn **rq_3173**; ticks=3172.
 - Next: **rq_3173 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3173 — 2026-10-13T00:39:35Z — rq_3173 leftover dual Lire et Ecrire Liège-Huy-Waremme Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon/Brussels training, literacy and disability-service non-profits plus remaining university colleges (CISP/OISP training centres, Lire et Ecrire network, AVIQ medico-pedagogical institutes, Flemish hogescholen VZW); fresh KBO name searches (legal form ASBL/VZW; words such as Université/Universiteit, Hogeschool, Enseignement spécialisé/Buitengewoon onderwijs, Médico-pédagogique, CISP, Lire et Ecrire, Mission régionale, Centre de formation), filings ranked by NBB code 733 subsidies (full model) or code 9900 gross margin (abbreviated model), largest first; every candidate passed the name/alias/KBO/website dedup check: **Lire et Ecrire Liège-Huy-Waremme** → KBO 0438.385.461 had 0 prior entity rows.
+- KBO: Actief since 25 november 1988; VZW; zetel Rue Wiertz 37 B 4000 Liège; 3 VE; 0 prior entity rows for 0438.385.461
+- Found: official NBB VKT-VZW native PDF **2026-00170417** (7774403 B / 46p; AV 09-06-2026; neergelegd 18/06/2026; MD5 adfb2324d95d57e8f0cc42d935683781). VKT-VZW 9900 **EUR1812084** (-10.66%); 62 **EUR1711277**; 9901 **EUR4703** (was 421); 9904 181; equity 129268; cash 133129; FTE 24,5 (was 28).
+- FOI address: liege.huy.waremme@lire-et-ecrire.be — regional office mailbox verified on official network contact page https://lire-et-ecrire.be/spip.php?page=contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_lee_liege_huy_waremme_vaph_matrix_9900_1_81m_9901_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3173/; rq_3173=done; spawn **rq_3174**; ticks=3173.
+- Next: **rq_3174 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
