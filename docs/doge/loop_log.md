@@ -38220,3 +38220,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@stampmedia.be — general mailbox verified on the official site https://stampmedia.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_stampmedia_antwerpen_vaph_matrix_9900_0_67m_9901_24k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3538/; rq_3538=done; spawn **rq_3539**; ticks=3538.
 - Next: **rq_3539 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3539 — 2026-10-13T12:28:41Z — rq_3539 leftover dual Garance Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Garance** → KBO 0472.880.245 had 0 prior entity rows.
+- KBO: Actief since 9 augustus 2000; VZW; zetel Koningsstraat 55 1000 Brussel; 1 VE; 0 prior entity rows for 0472.880.245
+- Found: official NBB VKT-VZW native PDF **2026-00298952** (101080 B / 16p; AV 24-06-2026; neergelegd 16/07/2026; MD5 a932e9b87e757dc00abf402f4a3ae82e). VKT-VZW 9900 **EUR664248** (-0.73%); 62 **EUR599865**; 9901 **EUR7752** (was -28937); 9904 6596; equity 399782; cash 507635; FTE 11,6 (was 10).
+- FOI address: info@garance.be — general mailbox shown on the official site https://www.garance.be/activites-dans-les-ecoles/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_garance_bxl_vaph_matrix_9900_0_66m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3539/; rq_3539=done; spawn **rq_3540**; ticks=3539.
+- Next: **rq_3540 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

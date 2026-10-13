@@ -1,0 +1,1 @@
+{"status": "Actief", "begin": "9 augustus 2000", "rv": "Vereniging zonder winstoogmerk", "addr": "Koningsstraat 55 1000 Brussel", "ve": "1"}
