@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T02:33:55Z,rq_3240,3241,no,tick3241 leftover dual Les Nouveaux Disparus Saint-Josse-ten-Noode 0456.569.397 Strong PDF 2026-00271964 9900 0.70m / 9901 loss 11k; next rq_3242 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T02:34:07Z,rq_3242,3242,no,tick3242 leftover dual Gemeenschapscentrum Nekkersdal Laken 0448.108.821 Strong PDF 2026-00074861 9900 0.60m / 9901 7k; next rq_3243 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

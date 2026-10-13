@@ -35254,3 +35254,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lesnouveauxdisparus.com — general mailbox verified on the official site https://www.lesnouveauxdisparus.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_les_nouveaux_disparus_vaph_matrix_9900_0_70m_9901_loss_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3241/; rq_3240=done; spawn **rq_3242**; ticks=3241.
 - Next: **rq_3242 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3242 — 2026-10-13T02:34:07Z — rq_3242 leftover dual Gemeenschapscentrum Nekkersdal Laken YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Largest recipients in the official City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025) not yet in the repo, cross-checked with the NBB filing: **Gemeenschapscentrum Nekkersdal** → KBO 0448.108.821 had 0 prior entity rows.
+- KBO: Actief since 19 mei 1992; VZW; zetel Emile Bockstaellaan 107 1020 Brussel; 1 VE; 0 prior entity rows for 0448.108.821
+- Found: official NBB VKT-VZW native PDF **2026-00074861** (41098 B / 10p; AV 25-03-2026; neergelegd 31/03/2026; MD5 71e7dd0c0da4a7daf3296ea9a7a7c30c). VKT-VZW 9900 **EUR595583** (-0.42%); 62 **EUR579544**; 9901 **EUR7442** (was -5315); 9904 8120; equity 407866; cash 232729; FTE 10,9 (was 9,5).
+- FOI address: info@nekkersdal.be — general mailbox verified on the official site https://www.nekkersdal.be/en/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_gc_nekkersdal_vaph_matrix_9900_0_60m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3242/; rq_3242=done; spawn **rq_3243**; ticks=3242.
+- Next: **rq_3243 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
