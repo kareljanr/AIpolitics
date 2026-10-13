@@ -37440,3 +37440,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3460 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3460 run locally as fallback.
 - Next: **rq_3460** — code 9900 (NOT subsidy amounts): Article 23 (EUR1.97m), Phénix (EUR1.92m), RaCYNes (EUR1.81m), Bednet (EUR1.81m), Ulysse (EUR1.75m); mailboxes verified on official sites, after the dedup check. Fresh scan of 22 new NACE families still running (63 of 440 pages done; no code 733 rows yet).
+
+
+## Tick 3461 — 2026-10-13T11:09:38Z — rq_3460 leftover dual Article 23 Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Article 23** → KBO 0479.622.537 had 0 prior entity rows.
+- KBO: Actief since 13 december 2002; VZW; zetel Chaussée des Prés 44 4020 Liège; 3 VE; 0 prior entity rows for 0479.622.537
+- Found: official NBB VKT-VZW native PDF **2026-00225470** (501187 B / 18p; AV 12-06-2026; neergelegd 30/06/2026; MD5 a0bbd597f339eed2d1b183d9753fed60). VKT-VZW 9900 **EUR1969328** (+22.99%); 62 **EUR1915294**; 9901 **EUR18648** (was -79932); 9904 17295; equity 72754; cash 69461; FTE 30,9 (was 30,2).
+- FOI address: info@article23.eu — general mailbox verified on the official site https://www.article23.eu/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_article_23_liege_vaph_matrix_9900_1_97m_9901_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3461/; rq_3460=done; spawn **rq_3462**; ticks=3461.
+- Next: **rq_3462 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
