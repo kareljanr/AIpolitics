@@ -38090,3 +38090,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sosenfantsbw.be — general mailbox verified on the official site https://www.sosenfantsbw.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_aide_enfants_familles_bw_genappe_vaph_matrix_9900_0_79m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3525/; rq_3525=done; spawn **rq_3526**; ticks=3525.
 - Next: **rq_3526 leftover dual** — Batch done (3516-3525); code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (remaining 82.300 / 93.29x pages and the 20 NACE-BEL 2025 replacement codes still scanning), then further code 9900 leftovers from the cached NBB pool, largest first..
+
+
+## Tick 3526 — 2026-10-13T12:19:47Z — rq_3526 leftover dual Solidarités Plurielles de l'Entre-Sambre-et-Meuse Couvin YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Solidarités Plurielles de l'Entre-Sambre-et-Meuse** → KBO 0435.282.847 had 0 prior entity rows.
+- KBO: Actief since 15 maart 1988; VZW; zetel Boulevard du Fort, Mar. 52 5660 Couvin; 4 VE; 0 prior entity rows for 0435.282.847
+- Found: official NBB VKT-VZW native PDF **2026-00300259** (42396 B / 11p; AV 15-06-2026; neergelegd 16/07/2026; MD5 fef1664164f966634d3b150f768b28d8). VKT-VZW 9900 **EUR786328** (+13.72%); 62 **EUR483112**; 9901 **EUR118852** (was 44685); 9904 116030; equity 1451528; cash 722114; FTE 8,1.
+- FOI address: coordination@solidaritesplurielles.be — role (coordination) mailbox verified on the official site https://solidaritesplurielles.be/association/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_solidarites_plurielles_couvin_vaph_matrix_9900_0_79m_9901_119k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3526/; rq_3526=done; spawn **rq_3527**; ticks=3526.
+- Next: **rq_3527 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
