@@ -36440,3 +36440,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3360 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3360 run locally as fallback.
 - Next: **rq_3360** — code 9900 (NOT subsidy amounts): KAVA (EUR3.56m), Febelauto (EUR2.55m), debelux chamber (EUR1.81m), CRéSaM (EUR1.43m), Réseau des médias de proximité (EUR1.30m); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3361 — 2026-10-13T07:04:13Z — rq_3360 leftover dual Koninklijke Apothekersvereniging van Antwerpen (KAVA) Antwerpen (Berchem) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.120 / 94.110 / 91.xxx / 93.1xx / 49.390 / 81.300 / 01.610 / 02.400 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Koninklijke Apothekersvereniging van Antwerpen (KAVA)** → KBO 0502.056.855 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1920; VZW; zetel Lange Leemstraat 187 2018 Antwerpen; 2 VE; 0 prior entity rows for 0502.056.855
+- Found: official NBB VKT-VZW native PDF **2026-00140756** (489279 B / 17p; AV 18-03-2026; neergelegd 04/06/2026; MD5 8a8dbf9c40cfb32f6a33092d3e460baa). VKT-VZW 9900 **EUR3560726** (+6.48%); 62 **EUR2538969**; 9901 **EUR-108252** (was -457293); 9904 300828; equity 20497136; cash 14795352; FTE 26,8 (was 28).
+- FOI address: secretariaat@kava.be — secretariat mailbox verified on the official site https://www.kava.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_kava_antwerpen_vaph_matrix_9900_3_56m_9901_loss_108k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3361/; rq_3360=done; spawn **rq_3362**; ticks=3361.
+- Next: **rq_3362 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
