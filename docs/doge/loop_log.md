@@ -37740,3 +37740,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3490 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3490 run locally as fallback.
 - Next: **rq_3490** — code 9900 (NOT subsidy amounts): Heidehuis (EUR1.27m), Centre de psycho-oncologie (EUR1.21m), Zinnema (EUR1.14m), Passages AMO (EUR1.13m), Education-Environnement (EUR1.10m); mailboxes verified on official sites, after the dedup check. Scans continue: old codes 77/440 pages, NACE-BEL 2025 codes 12/400 pages.
+
+
+## Tick 3491 — 2026-10-13T11:47:32Z — rq_3490 leftover dual Heidehuis Brugge YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Heidehuis** → KBO 0434.135.970 had 0 prior entity rows.
+- KBO: Actief since 30 juni 1987; VZW; zetel Fazantendreef 11 8200 Brugge; 1 VE; 0 prior entity rows for 0434.135.970
+- Found: official NBB VKT-VZW native PDF **2026-00153470** (56597 B / 16p; AV 24-03-2026; neergelegd 11/06/2026; MD5 9ba961a45afcfec1297ac799d4f13160). VKT-VZW 9900 **EUR1272067** (+16.14%); 62 **EUR1134877**; 9901 **EUR41038** (was -100700); 9904 38601; equity 1371514; cash 1113965; FTE 10,2 (was 9,7).
+- FOI address: info@heidehuis.be — general mailbox verified on the official site https://www.heidehuis.be/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_heidehuis_brugge_vaph_matrix_9900_1_27m_9901_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3491/; rq_3490=done; spawn **rq_3492**; ticks=3491.
+- Next: **rq_3492 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
