@@ -38880,3 +38880,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@macnamur.be — general mailbox verified on the official site https://macnamur.be/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_maison_arc_en_ciel_namur_vaph_matrix_9900_0_13m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3604/; rq_3604=done; spawn **rq_3605**; ticks=3604.
 - Next: **rq_3605 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3605 — 2026-10-13T15:34:37Z — rq_3605 leftover dual Havenwereld Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Havenwereld** → KBO 1005.409.354 had 0 prior entity rows.
+- KBO: Actief since 30 januari 2024; VZW; zetel Koningin Elisabethlei 22 2018 Antwerpen; 2 VE; 0 prior entity rows for 1005.409.354
+- Found: official NBB VKT-VZW native PDF **2026-00158823** (460496 B / 27p; AV 13-05-2026; neergelegd 11/06/2026; MD5 15506b81d770fc5349b7f1630899b987). VKT-VZW 9900 **EUR112395** (+665.57%); 62 **EUR193704**; 9901 **EUR-86705** (was -19873); 9904 -86914; equity 1782550; cash 496592; FTE 2,3 (was 0).
+- FOI address: info@havenwereld.be — general mailbox verified on the official site https://www.havenwereld.be/contact/ (terms page lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_havenwereld_antwerpen_vaph_matrix_9900_0_11m_9901_loss_87k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3605/; rq_3605=done; spawn **rq_3606**; ticks=3605.
+- Next: **rq_3606 leftover dual** — Batch done (3596-3605); one code 733 filer (Gandae) then code 9900 leftovers (Médiathèque Nouvelle still unreachable). Next (old-code and NACE-BEL 2025 scans complete, all keys triaged; EPHEC-Galilée not used: no general mailbox on its own site), then further code 9900 leftovers from the rebuilt pool, largest first..
