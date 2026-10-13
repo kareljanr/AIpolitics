@@ -36060,3 +36060,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@becetel.be — general mailbox verified on the official site https://www.becetel.be/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_merelbeke_melle); FOI **gap_becetel_merelbeke_vaph_matrix_9900_2_04m_9901_715k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3322/; rq_3322=done; spawn **rq_3323**; ticks=3322.
 - Next: **rq_3323 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3323 — 2026-10-13T05:46:37Z — rq_3323 leftover dual De Rode Antraciet Leuven (Heverlee) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.101 / 72.109 (research) and 85.591 / 85.593 (education) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first; EU-level bodies excluded: **De Rode Antraciet** → KBO 0862.261.407 had 0 prior entity rows.
+- KBO: Actief since 18 december 2003; VZW; zetel Geldenaaksebaan 277 3001 Leuven; 1 VE; 0 prior entity rows for 0862.261.407
+- Found: official NBB VKT-VZW native PDF **2026-00117933** (47216 B / 12p; AV 18-03-2026; neergelegd 22/05/2026; MD5 bdf6a0409182aec66cf588bcc63dad8f). VKT-VZW 9900 **EUR1955158** (+6.36%); 62 **EUR1914726**; 9901 **EUR22695** (was -85266); 9904 34319; equity 1241757; cash 1325934; FTE 23,8 (was 24,8).
+- FOI address: info@derodeantraciet.be — general mailbox verified on the official site https://www.derodeantraciet.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_rode_antraciet_leuven_vaph_matrix_9900_1_96m_9901_23k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3323/; rq_3323=done; spawn **rq_3324**; ticks=3323.
+- Next: **rq_3324 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
