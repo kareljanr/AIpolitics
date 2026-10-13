@@ -39810,3 +39810,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@convivial.be — head-office general mailbox verified on the official site https://www.convivial.be/nl/neem-contact-op-met/ (site publishes the annual accounts with the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_convivium_convivial_forest_vaph_matrix_9900_1_88m_9901_63k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3697/; rq_3697=done; spawn **rq_3698**; ticks=3697.
 - Next: **rq_3698 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3698 — 2026-10-13T17:07:26Z — rq_3698 leftover dual Centre Régional de Verviers pour l’Intégration (CRVI) Verviers YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre Régional de Verviers pour l’Intégration (CRVI)** → KBO 0461.206.690 had 0 prior entity rows.
+- KBO: Actief since 12 maart 1997; VZW; zetel Rue de Rome 17 bus 1 4800 Verviers; 1 VE; 0 prior entity rows for 0461.206.690
+- Found: official NBB VKT-VZW native PDF **2026-00266827** (55782 B / 16p; AV 10-06-2026; neergelegd 08/07/2026; MD5 e244acdacd11478166d1c00dc5873b05). VKT-VZW 9900 **EUR1822953** (+5.19%); 62 **EUR1793862**; 9901 **EUR5306** (was 3489); 9904 1995; equity 49469; cash 3511; FTE 26,7 (was 28,2).
+- FOI address: perso@crvi.be — general mailbox verified on the official site https://crvi.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_crvi_verviers_vaph_matrix_9900_1_82m_9901_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3698/; rq_3698=done; spawn **rq_3699**; ticks=3698.
+- Next: **rq_3699 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

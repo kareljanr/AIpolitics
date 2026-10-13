@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T17:07:18Z,rq_3697,3697,no,tick3697 leftover dual Convivium (Convivial) Forest 0458.219.783 Strong PDF 2026-00196123 9900 1.88m / 9901 63k; next rq_3698 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T17:07:26Z,rq_3698,3698,no,tick3698 leftover dual Centre Régional de Verviers pour l’Intégration (CRVI) Verviers 0461.206.690 Strong PDF 2026-00266827 9900 1.82m / 9901 5k; next rq_3699 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
