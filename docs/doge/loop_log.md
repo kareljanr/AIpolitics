@@ -39800,3 +39800,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: batiform@isocele.be — seat/Batiform service mailbox verified on the official site https://isocele.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_isocele_verviers_vaph_matrix_9900_2_36m_9901_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3696/; rq_3696=done; spawn **rq_3697**; ticks=3696.
 - Next: **rq_3697 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3697 — 2026-10-13T17:07:18Z — rq_3697 leftover dual Convivium (Convivial) Forest YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Convivium (Convivial)** → KBO 0458.219.783 had 0 prior entity rows.
+- KBO: Actief since 10 april 1996; VZW; zetel Gerijstraat 33-35 1190 Vorst; 1 VE; 0 prior entity rows for 0458.219.783
+- Found: official NBB VKT-VZW native PDF **2026-00196123** (341827 B / 21p; AV 16-06-2026; neergelegd 23/06/2026; MD5 532b0822a7c4cee6d91e26fa004d62e5). VKT-VZW 9900 **EUR1879153** (+5.10%); 62 **EUR1666817**; 9901 **EUR62608** (was 78034); 9904 59434; equity 612354; cash 780914; FTE 28,4 (was 26,6).
+- FOI address: info@convivial.be — head-office general mailbox verified on the official site https://www.convivial.be/nl/neem-contact-op-met/ (site publishes the annual accounts with the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_convivium_convivial_forest_vaph_matrix_9900_1_88m_9901_63k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3697/; rq_3697=done; spawn **rq_3698**; ticks=3697.
+- Next: **rq_3698 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

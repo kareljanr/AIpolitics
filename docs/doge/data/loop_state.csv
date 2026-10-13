@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T17:07:09Z,rq_3696,3696,no,tick3696 leftover dual ISOCELE (I.SO.C.E.L.E) Verviers 0424.845.152 Strong PDF 2026-00410369 9900 2.36m / 9901 41k; next rq_3697 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T17:07:18Z,rq_3697,3697,no,tick3697 leftover dual Convivium (Convivial) Forest 0458.219.783 Strong PDF 2026-00196123 9900 1.88m / 9901 63k; next rq_3698 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
