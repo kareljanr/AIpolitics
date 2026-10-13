@@ -38540,3 +38540,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3570 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3570 run locally as fallback.
 - Next: **rq_3570** — code 9900 (NOT subsidy amounts): Mobile School (EUR0.511m), De Landgenoten (EUR0.510m), Archiefpunt (EUR0.499m), Fakkeltheater (EUR0.499m), TRILL (EUR0.486m); mailboxes verified on official sites, after the dedup check. Scans: old codes and NACE-BEL 2025 codes complete (400/400 pages); all keys triaged (EPHEC-Galilée code 733 skipped: no general mailbox on its own site).
+
+
+## Tick 3571 — 2026-10-13T15:11:20Z — rq_3570 leftover dual Mobile School Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Mobile School** → KBO 0478.688.664 had 0 prior entity rows.
+- KBO: Actief since 30 augustus 2002; VZW; zetel Brabançonnestraat 25 3000 Leuven; 1 VE; 0 prior entity rows for 0478.688.664
+- Found: official NBB VKT-VZW native PDF **2026-00387189** (146479 B / 19p; AV 16-06-2026; neergelegd 07/08/2026; MD5 85d7f8824dd7e6aa59beb8f235a544ed). VKT-VZW 9900 **EUR510572** (-11.02%); 62 **EUR520274**; 9901 **EUR-28708** (was 46173); 9904 -36373; equity 154481; cash 111984; FTE 6,4 (was 6,4).
+- FOI address: info@mobileschool.org — general mailbox verified on the official site https://www.mobileschool.org/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_mobile_school_leuven_vaph_matrix_9900_0_51m_9901_loss_29k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3571/; rq_3570=done; spawn **rq_3572**; ticks=3571.
+- Next: **rq_3572 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
