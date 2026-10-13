@@ -314,3 +314,13 @@ Litigation steelman real; secret mutual wipe + triple IF no + 2039 lock is fisca
 4. ing_e48f01c225 — De Wever+21 EU migration letter
 
 Scheduler 019fa3e112ab still daily.
+## 2026-10-13T23:10:25Z — tick 9 — analyse prop_2026_de_wever_btw_hervorming
+- Scored ing_3db59e7ee9 as prop_2026_de_wever_btw_hervorming (federal VAT reform; Belgium; press-only).
+- Scores: clown 4.0, genius 5.2, policy_index +1.2, recommendation amend, score_confidence weak, publish_ok needs_human.
+- Pain left blank: Nieuwsblad €4.5bn is a gross yield partly pledged to tax cuts and investment, so it is not a labour-tax FTE basis; recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=9, proposals_scored=18, last_unit_id=prop_2026_de_wever_btw_hervorming, paused=no. No commit.
+## 2026-10-13T23:23:57Z — tick 10 — analyse prop_2026_vrt_extra_besparing
+- Scored ing_fbdeaeca8e as prop_2026_vrt_extra_besparing (Flanders VRT extra saving; Belgium; press-only).
+- Scores: clown 3.5, genius 5.4, policy_index +1.9, recommendation amend, score_confidence weak, publish_ok needs_human.
+- Pain: 2029 annual range €7m–€10m, midpoint −€8.5m saving; Belasting-FTE −438.1; recompute_pain.py run.
+- loop_state: mode=analyse, ticks_completed=10, proposals_scored=19, last_unit_id=prop_2026_vrt_extra_besparing, paused=no. No commit.

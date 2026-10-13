@@ -1,2 +1,2 @@
 state_id,mode,last_tick_utc,last_unit_id,ticks_completed,proposals_scored,paused,notes
-main,analyse,2026-08-02T14:30:00Z,prop_2026_de_ridder_egis_luchthaven_dading,8,17,no,tick 8 scored De Ridder Egis airport dading; daily scheduler 019fa3e112ab
+main,analyse,2026-10-13T23:23:57Z,prop_2026_vrt_extra_besparing,10,19,no,tick 10 scored Van Achter VRT extra saving; press-only weak; pain on 7-10m midpoint; no commit
