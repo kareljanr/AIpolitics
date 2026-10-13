@@ -37010,3 +37010,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@centreindigo.org — general mailbox verified on the official site https://www.centreindigo.org/portfolio-item/centrededocumentation/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_centre_indigo_la_louviere_vaph_matrix_9900_1_74m_9901_150k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3417/; rq_3417=done; spawn **rq_3418**; ticks=3417.
 - Next: **rq_3418 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3418 — 2026-10-13T09:27:46Z — rq_3418 leftover dual TAJO (Talentatelier voor jongeren) Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **TAJO (Talentatelier voor jongeren)** → KBO 0701.661.673 had 0 prior entity rows.
+- KBO:  since ; VZW; zetel ;  VE; 0 prior entity rows for 0701.661.673
+- Found: official NBB VKT-VZW native PDF **2026-00426244** (197249 B / 20p; AV 05-05-2026; neergelegd 26/08/2026; MD5 f0fc649a19d78346457f5a28c132579c). VKT-VZW 9900 **EUR1502612** (+23.33%); 62 **EUR1451640**; 9901 **EUR48849** (was 166671); 9904 48821; equity 762736; cash 913922; FTE 21,2 (was 16,8).
+- FOI address: info@tajo.be — general mailbox verified on the official site https://tajo.be/faq/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_tajo_gent_vaph_matrix_9900_1_50m_9901_49k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3418/; rq_3418=done; spawn **rq_3419**; ticks=3418.
+- Next: **rq_3419 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
