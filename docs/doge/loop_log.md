@@ -36450,3 +36450,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariaat@kava.be — secretariat mailbox verified on the official site https://www.kava.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_kava_antwerpen_vaph_matrix_9900_3_56m_9901_loss_108k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3361/; rq_3360=done; spawn **rq_3362**; ticks=3361.
 - Next: **rq_3362 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3362 — 2026-10-13T07:04:20Z — rq_3362 leftover dual Febelauto Sint-Lambrechts-Woluwe YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.120 / 94.110 / 91.xxx / 93.1xx / 49.390 / 81.300 / 01.610 / 02.400 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Febelauto** → KBO 0467.971.055 had 0 prior entity rows.
+- KBO: Actief since 15 juni 1999; VZW; zetel Woluwedal 46 bus 13 1200 Sint-Lambrechts-Woluwe; 1 VE; 0 prior entity rows for 0467.971.055
+- Found: official NBB VKT-VZW native PDF **2026-00550957** (422155 B / 22p; AV 11-06-2026; neergelegd 08/10/2026; MD5 fb61b03c99a466a6381302964d72e968). VKT-VZW 9900 **EUR2553414** (-10.37%); 62 **EUR786387**; 9901 **EUR1177167** (was 1829631); 9904 1132779; equity 4357766; cash 2468350; FTE 6,3 (was 5,7).
+- FOI address: info@febelauto.be — general mailbox verified on the official site https://www.febelauto.be/fr/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_febelauto_woluwe_vaph_matrix_9900_2_55m_9901_1177k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3362/; rq_3362=done; spawn **rq_3363**; ticks=3362.
+- Next: **rq_3363 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
