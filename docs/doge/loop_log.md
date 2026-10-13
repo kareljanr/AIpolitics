@@ -35214,3 +35214,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mjb-jmb.org — general mailbox verified on the official site https://www.mjb-jmb.org/fr/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_musee_juif_belgique_vaph_matrix_9900_0_78m_9901_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3237/; rq_3237=done; spawn **rq_3238**; ticks=3237.
 - Next: **rq_3238 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3238 — 2026-10-13T02:32:05Z — rq_3238 leftover dual BAPA BXL (bureau d'accueil des primo-arrivants) Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Largest recipients in the official City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025) not yet in the repo, cross-checked with the NBB filing: **BAPA BXL (bureau d'accueil des primo-arrivants)** → KBO 0633.894.307 had 0 prior entity rows.
+- KBO: Actief since 16 juli 2015; VZW; zetel Hallenstraat 4 1000 Brussel Extra adresinfo: hôtel de ville; 1 VE; 0 prior entity rows for 0633.894.307
+- Found: official NBB VKT-VZW native PDF **2026-00492229** (54427 B / 15p; AV 01-06-2026; neergelegd 02/09/2026; MD5 a8269df3b355f5fa52abc4580d9f376c). VKT-VZW 9900 **EUR1430318** (+6.47%); 62 **EUR1391889**; 9901 **EUR168** (was 16528); 9904 0; equity 28612; cash 1080723; FTE 24,6 (was 23,7).
+- FOI address: info.bapabxl@brucity.be — general mailbox verified on the official site https://www.bapabxl.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_bapa_bxl_vaph_matrix_9900_1_43m_9901_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3238/; rq_3238=done; spawn **rq_3239**; ticks=3238.
+- Next: **rq_3239 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
