@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T14:11:15Z,rq_3558,3558,no,tick3558 leftover dual L'Ambulatoire - Forest Forest 0456.686.490 Strong PDF 2026-00169859 9900 0.60m / 9901 3k; next rq_3559 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T14:11:24Z,rq_3559,3559,no,tick3559 leftover dual Le Silex Woluwe-Saint-Lambert 0413.784.677 Strong PDF 2026-00188578 9900 0.59m / 9901 loss 20k; next rq_3560 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

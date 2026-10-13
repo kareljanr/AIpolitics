@@ -38420,3 +38420,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ambuforest.be — general mailbox verified on the official site https://www.ambuforest.be/contact/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ambulatoire_forest_vaph_matrix_9900_0_60m_9901_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3558/; rq_3558=done; spawn **rq_3559**; ticks=3558.
 - Next: **rq_3559 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3559 — 2026-10-13T14:11:24Z — rq_3559 leftover dual Le Silex Woluwe-Saint-Lambert YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Le Silex** → KBO 0413.784.677 had 0 prior entity rows.
+- KBO: Actief since 9 december 1973; VZW; zetel Vootstraat 82-86 1200 Sint-Lambrechts-Woluwe; 1 VE; 0 prior entity rows for 0413.784.677
+- Found: official NBB VKT-VZW native PDF **2026-00188578** (48578 B / 12p; AV 18-06-2026; neergelegd 23/06/2026; MD5 c3744141b37f510d6dc35a5b47a0804e). VKT-VZW 9900 **EUR594303** (+4.96%); 62 **EUR552297**; 9901 **EUR-20474** (was 9377); 9904 3818; equity 228517; cash 616554; FTE 10,9 (was 10,2).
+- FOI address: info@lesilex.be — general mailbox verified on the official site https://www.lesilex.be/mentions-legales (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_le_silex_wsl_vaph_matrix_9900_0_59m_9901_loss_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3559/; rq_3559=done; spawn **rq_3560**; ticks=3559.
+- Next: **rq_3560 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
