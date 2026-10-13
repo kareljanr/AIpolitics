@@ -36630,3 +36630,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@lehublot.be — secretariat mailbox verified on the official site https://www.lehublot.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_le_hublot_namur_vaph_matrix_9900_1_02m_9901_33k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3379/; rq_3379=done; spawn **rq_3380**; ticks=3379.
 - Next: **rq_3380 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3380 — 2026-10-13T08:04:34Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2979** of 3034 rows; inventory budgets 62548 · commitments 7034 · leaderboard 9152 · entities 3052 · sources 10035.
+- Top10: **stable** (3371-3379 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3371-3379: Egmont Institute · Praktijkpunt Landbouw Vlaams-Brabant · CRISP · Epicuris · Pour la Solidarité · Herita · Maison médicale Santé Plurielle · Maison médicale La Brèche · Le Hublot.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3380 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3380 run locally as fallback.
+- Next: **rq_3380** — code 9900 (NOT subsidy amounts): Fleur Service social (EUR0.96m), Cluster TWEED (EUR0.92m), SSMG (EUR0.89m), Chudoscnik Sunergia (EUR0.85m), PIBO (EUR0.83m); mailboxes verified on official sites, after the dedup check.
