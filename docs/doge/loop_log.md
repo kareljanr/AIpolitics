@@ -39300,3 +39300,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cfverviers.be — general mailbox verified on the official site https://cfverviers.be/2018/12/21/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_centre_familial_verviers_vaph_matrix_9900_2_70m_9901_loss_44k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3646/; rq_3646=done; spawn **rq_3647**; ticks=3646.
 - Next: **rq_3647 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3647 — 2026-10-13T16:19:01Z — rq_3647 leftover dual Centre d'Organisation et d'Animation de Loisirs Actifs (COALA) Wavre YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre d'Organisation et d'Animation de Loisirs Actifs (COALA)** → KBO 0435.075.583 had 0 prior entity rows.
+- KBO: Actief since 26 maart 1988; VZW; zetel Rue du Rivage 10 1300 Wavre; 11 VE; 0 prior entity rows for 0435.075.583
+- Found: official NBB VKT-VZW native PDF **2026-00543472** (334147 B / 19p; AV 21-06-2026; neergelegd 29/09/2026; MD5 701d3d883eb09cdb6b15e7651d6ea810). VKT-VZW 9900 **EUR1680985** (+2.06%); 62 **EUR1471146**; 9901 **EUR133666** (was 14862); 9904 126083; equity 561727; cash 326659; FTE 23,2 (was 25,5).
+- FOI address: info@coala.be — general mailbox verified on the official site https://coala.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_coala_wavre_vaph_matrix_9900_1_68m_9901_134k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3647/; rq_3647=done; spawn **rq_3648**; ticks=3647.
+- Next: **rq_3648 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
