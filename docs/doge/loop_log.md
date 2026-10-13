@@ -40390,3 +40390,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cbps.be — general mailbox verified on the official site https://www.cbps.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cbps_saint_gilles_vaph_matrix_9900_0_65m_9901_70k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3755/; rq_3755=done; spawn **rq_3756**; ticks=3755.
 - Next: **rq_3756 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3756 — 2026-10-13T19:23:51Z — rq_3756 leftover dual Mentor Jeunes Ixelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Mentor Jeunes** → KBO 0820.594.759 had 0 prior entity rows.
+- KBO: Actief since 17 november 2009; VZW; zetel Kroonlaan 269 1050 Elsene; 1 VE; 0 prior entity rows for 0820.594.759
+- Found: official NBB MIC-VZW native PDF **2026-00124855** (49164 B / 11p; AV 11-05-2026; neergelegd 27/05/2026; MD5 a91597290b9277133c23b12935586dc9). MIC-VZW 9900 **EUR630384** (-10.37%); 62 **EUR593681**; 9901 **EUR26854** (was 41486); 9904 27641; equity 119832; cash 320587; FTE n/a.
+- FOI address: info@mentorjeunes.be — general mailbox verified on the official site https://www.mentorjeunes.be/mentions-legales/ (site shows the same KBO number) (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_mentor_jeunes_ixelles_vaph_matrix_9900_0_63m_9901_27k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3756/; rq_3756=done; spawn **rq_3757**; ticks=3756.
+- Next: **rq_3757 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
