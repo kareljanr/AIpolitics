@@ -35950,3 +35950,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sos-enfants-liege.be — general mailbox verified on the official site http://sos-enfants-liege.be/index.php/emploi (the home page gives the KBO registered seat address).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_sos_enfants_liege_vaph_matrix_9900_1_12m_9901_16k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3311/; rq_3310=done; spawn **rq_3312**; ticks=3311.
 - Next: **rq_3312 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3312 — 2026-10-13T05:19:45Z — rq_3312 leftover dual Jeunesses Scientifiques de Belgique Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.991 / 94.992 / 94.999 / 88.109 (1,750 legal persons not yet in the repo) and NACE 88.992 / 88.994 (401) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first; EU-level bodies excluded: **Jeunesses Scientifiques de Belgique** → KBO 0415.328.561 had 0 prior entity rows.
+- KBO: Actief since 25 juni 1975; VZW; zetel Zijlaan 17 1180 Ukkel; 4 VE; 0 prior entity rows for 0415.328.561
+- Found: official NBB VKT-VZW native PDF **2026-00161023** (49125 B / 12p; AV 08-04-2026; neergelegd 07/06/2026; MD5 8afdb2764d76035709f0d6ff36d629e5). VKT-VZW 9900 **EUR1100662** (+7.11%); 62 **EUR898487**; 9901 **EUR-25151** (was -8384); 9904 -25980; equity 1544375; cash 310660; FTE 12 (was 12).
+- FOI address: info@jsb.be — general mailbox verified on the official site https://www.jsb.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_jeunesses_scientifiques_belgique_vaph_matrix_9900_1_10m_9901_loss_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3312/; rq_3312=done; spawn **rq_3313**; ticks=3312.
+- Next: **rq_3313 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
