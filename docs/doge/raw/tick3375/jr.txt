@@ -1,0 +1,1040 @@
+2026-00201535       0478654319     2025    EUR    26.0.15     m04-f    26/06/2026   19                            A-ASBL 1
+
+
+
+
+                                 COMPTES ANNUELS ET AUTRES DOCUMENTS
+                                    À DÉPOSER EN VERTU DU CODE DES
+                                     SOCIÉTÉS ET DES ASSOCIATIONS
+
+
+
+DONNÉES D'IDENTIFICATION (à la date du dépôt)
+
+Dénomination :         POUR LA SOLIDARITE
+Forme juridique :      Association sans but lucratif
+Adresse :   Rue Coenraets 66 B                                                N° : 66B                 Boîte :
+Code postal :     1060                 Commune :        Saint-Gilles
+Pays :   Belgique
+Registre des personnes morales (RPM) - Tribunal de l'entreprise de            Bruxelles, francophone
+Adresse Internet :
+Adresse e-mail :
+
+
+
+                                                                       Numéro d'entreprise             0478.654.319
+
+
+
+Date du dépôt du document le plus récent mentionnant la date de publication des actes constitutif
+                                                                                                             31-03-2023
+et modificatif(s) des statuts
+
+
+
+COMPTES ANNUELS en                  EURO           approuvés par l’assemblée générale du         25-06-2026
+
+
+                et relatifs à l'exercice couvrant la période du        01-01-2025        au      31-12-2025
+
+
+                                      Exercice précédent du            01-01-2024        au      31-12-2024
+
+
+Les montants relatifs à l'exercice précédent sont identiques à ceux publiés antérieurement.
+
+
+
+Numéros des sections du document normalisé non déposées parce que sans objet :
+
+ A-ASBL 6.5, A-ASBL 6.7, A-ASBL 7
+
+
+
+
+                                                                                                                   Page 1 of 19
+N°      0478654319                                                                                          A-ASBL 2
+
+
+                                                LISTE DES ADMINISTRATEURS ET COMMISSAIRES
+
+
+
+
+LISTE DES ADMINISTRATEURS ET COMMISSAIRES
+
+LISTE COMPLÈTE des nom, prénoms, profession, domicile (adresse, numéro, code postal et commune) et fonction au sein de
+l'association ou de la fondation
+
+
+
+KEMAJOU FRANCOISE
+RUE CROISETTE 54
+1470 Baisy-Thy
+BELGIQUE
+Début de mandat : 2023-01-23                         Fin de mandat : 2026-01-23    Administrateur
+
+
+KAKUDJI NKULU JEAN-CLAUDE
+Rue Coenraets 66
+1060 Saint-Gilles
+BELGIQUE
+Début de mandat : 2025-06-25                         Fin de mandat : 2028-06-25    Administrateur
+
+
+SCHOEMANN PIERRE
+AVENUE DES COMBATTANTS 90
+1332 Genval
+BELGIQUE
+Début de mandat : 2023-01-23                         Fin de mandat : 2026-01-23    Administrateur
+
+
+GRACEFFA SANDRINO
+Avenue des Sept Bonniers 89
+1190 Forest
+BELGIQUE
+Début de mandat : 2023-01-23                         Fin de mandat : 2026-01-23    Administrateur
+
+
+RSM InterAudit (B00091)
+0436391122
+Lozenberg 18
+1930 Zaventem
+BELGIQUE
+Début de mandat : 2025-06-25                         Fin de mandat : 2028-06-30    Commissaire
+
+Représenté directement ou indirectement par :
+
+        LAPERAL LUIS (B00792)
+        Réviseur d'entreprises
+        Rue du Bois Bosquet 55
+        1331 Rosières
+        BELGIQUE
+
+
+
+
+                                                                                                            Page 2 of 19
+N°      0478654319                                                                                          A-ASBL 3.1
+
+
+                                                   COMPTES ANNUELS
+
+
+
+BILAN APRÈS RÉPARTITION
+
+                                                            Ann.      Codes   Exercice              Exercice précédent
+
+ ACTIF
+                                                                     20
+ FRAIS D'ÉTABLISSEMENT
+ ACTIFS IMMOBILISÉS                                                  21/28                44.011                    51.692
+
+ Immobilisations incorporelles                               6.1.1   21                    12.517                    9.463
+
+ Immobilisations corporelles                                 6.1.2   22/27                 30.410                   41.145
+     Terrains et constructions                                       22
+
+     Installations, machines et outillage                            23                   24.278                  28.368
+     Mobilier et matériel roulant                                    24                    6.132                  12.776
+     Location-financement et droits similaires                       25
+
+     Autres immobilisations corporelles                              26
+
+     Immobilisations en cours et acomptes versés                     27
+
+ Immobilisations financières                                 6.1.3   28                     1.085                    1.085
+
+ ACTIFS CIRCULANTS                                                   29/58           1.213.846                  1.110.294
+                                                                     29
+ Créances à plus d'un an
+     Créances commerciales                                           290
+
+     Autres créances                                                 291
+
+                                                                     3
+ Stocks et commandes en cours d'exécution
+     Stocks                                                          30/36
+
+     Commandes en cours d'exécution                                  37
+
+ Créances à un an au plus                                            40/41               945.308                  767.228
+     Créances commerciales                                           40                   29.596                  68.963
+     Autres créances                                                 41                  915.711                 698.265
+                                                                     50/53
+ Placements de trésorerie
+
+ Valeurs disponibles                                                 54/58               263.840                  336.064
+
+ Comptes de régularisation                                           490/1                  4.699                    7.002
+
+ TOTAL DE L'ACTIF                                                    20/58           1.257.857                  1.161.986
+
+
+
+
+                                                                                                               Page 3 of 19
+N°      0478654319                                                                                                             A-ASBL 3.2
+
+                                                                               Ann.      Codes   Exercice              Exercice précédent
+
+ PASSIF
+ FONDS SOCIAL                                                                           10/15                305.990                 274.030
+
+ Fonds de l'association ou de la fondation                                        6.2   10                    50.483                   50.483
+                                                                                        12
+ Plus-values de réévaluation
+
+ Fonds affectés et autres réserves                                                6.2   13                    99.500                   99.500
+
+ Bénéfice (Perte) reporté(e)                                         (+)/(-)            14                   156.008                 124.047
+                                                                                        15
+ Subsides en capital
+
+ PROVISIONS ET IMPÔTS DIFFÉRÉS                                                    6.2   16                    54.000                   49.102
+
+ Provisions pour risques et charges                                                     160/5                 54.000                   49.102
+     Pensions et obligations similaires                                                 160
+
+     Charges fiscales                                                                   161
+
+     Grosses réparations et gros entretien                                              162
+
+     Obligations environnementales                                                      163
+
+     Autres risques et charges                                                          164/5                54.000                  49.102
+
+ Provisions pour subsides et legs à rembourser et pour dons                             167
+ avec droit de reprise
+                                                                                        168
+ Impôts différés
+
+ DETTES                                                                                 17/49                897.867                 838.854
+
+ Dettes à plus d'un an                                                            6.3   17                     2.086                    2.086
+     Dettes financières                                                                 170/4
+
+       Etablissements de crédit, dettes de location-financement et                      172/3
+       assimilées
+       Autres emprunts                                                                  174/0
+
+     Dettes commerciales                                                                175
+
+     Acomptes sur commandes                                                             176
+
+     Autres dettes                                                                      178/9                 2.086                    2.086
+
+ Dettes à un an au plus                                                           6.3   42/48                176.153                 135.700
+     Dettes à plus d'un an échéant dans l'année                                         42
+
+     Dettes financières                                                                 43
+
+       Etablissements de crédit                                                         430/8
+
+       Autres emprunts                                                                  439
+
+     Dettes commerciales                                                                44                   21.637                  22.708
+       Fournisseurs                                                                     440/4               21.637                  22.708
+       Effets à payer                                                                   441
+
+     Acomptes sur commandes                                                             46
+
+     Dettes fiscales, salariales et sociales                                            45                  130.643                  93.145
+       Impôts                                                                           450/3               14.113                   1.587
+       Rémunérations et charges sociales                                                454/9          116.530                      91.558
+     Autres dettes                                                                      48                   23.873                  19.846
+
+ Comptes de régularisation                                                              492/3                719.628                 701.069
+
+ TOTAL DU PASSIF                                                                        10/49           1.257.857                  1.161.986
+
+
+
+
+                                                                                                                                  Page 4 of 19
+N°      0478654319                                                                                                                    A-ASBL 4
+
+
+COMPTE DE RÉSULTATS
+
+                                                                                   Ann.      Codes   Exercice              Exercice précédent
+
+ Produits et charges d'exploitation
+     Marge brute d'exploitation                                          (+)/(-)            9900           1.031.392                  1.183.002
+        Dont: produits d'exploitation non récurrents                                        76A                 36.773                  18.762
+        Chiffre d'affaires                                                                  70             155.611                    182.481
+        Cotisations, dons, legs et subsides                                                 73           1.099.488                  1.268.574
+        Approvisionnements, marchandises, services et biens divers                          60/61          266.963                    298.663
+     Rémunérations, charges sociales et pensions                         (+)/(-)            62             1.007.104                  1.044.571
+     Amortissements et réductions de valeur sur frais                                       630                  19.358                  16.967
+     d'établissement, sur immobilisations incorporelles et corporelles
+     Réductions de valeur sur stocks, sur commandes en cours             (+)/(-)            631/4               -50.000                  50.000
+     d'exécution et sur créances commerciales: dotations (reprises)
+     Provisions pour risques et charges: dotations (utilisations et      (+)/(-)            635/9                 4.898                  -25.883
+     reprises)
+     Autres charges d'exploitation                                                          640/8                 8.384                         433
+     Charges d'exploitation portées à l'actif au titre de frais de           (-)            649
+     restructuration
+     Charges d'exploitation non récurrentes                                                 66A                  10.226                         68
+
+ Bénéfice (Perte) d'exploitation                                         (+)/(-)            9901                  31.423                   96.845
+
+ Produits financiers                                                                  6.4   75/76B                 1.305                        604
+     Produits financiers récurrents                                                         75                    1.305                         604
+     Produits financiers non récurrents                                                     76B
+
+ Charges financières                                                                  6.4   65/66B                  504                         699
+     Charges financières récurrentes                                                        65                     504                          699
+     Charges financières non récurrentes                                                    66B
+
+ Bénéfice (Perte) de l'exercice avant impôts                             (+)/(-)            9903                  32.225                   96.750
+                                                                                            780
+ Prélèvement sur les impôts différés
+                                                                                            680
+ Transfert aux impôts différés
+
+ Impôts sur le résultat                                                  (+)/(-)            67/77                   265                         101
+
+ Bénéfice (Perte) de l'exercice                                          (+)/(-)            9904                  31.960                   96.648
+                                                                                            789
+ Prélèvement sur les réserves immunisées
+                                                                                            689
+ Transfert aux réserves immunisées
+
+ Bénéfice (Perte) de l'exercice à affecter                               (+)/(-)            9905                  31.960                   96.648
+
+
+
+
+                                                                                                                                      Page 5 of 19
+N°      0478654319                                                                                                         A-ASBL 5
+
+
+AFFECTATIONS ET PRÉLÈVEMENTS
+
+                                                                                    Codes   Exercice             Exercice précédent
+
+ Bénéfice (Perte) à affecter                                             (+)/(-)   9906                156.008                 124.047
+     Bénéfice (Perte) de l'exercice à affecter                           (+)/(-)   (9905)              31.960                  96.648
+     Bénéfice (Perte) reporté(e) de l'exercice précédent                 (+)/(-)   14P             124.047                     27.399
+
+ Prélèvement sur les capitaux propres: fonds, fonds affectés et autres             791
+ réserves
+                                                                                   691
+ Affectation aux fonds affectés et autres réserves
+
+ Bénéfice (Perte) à reporter                                             (+)/(-)   (14)                156.008                 124.047
+
+
+
+
+                                                                                                                            Page 6 of 19
+N°      0478654319                                                                                            A-ASBL 6.1.1
+
+
+ANNEXE
+
+ETAT DES IMMOBILISATIONS
+
+                                                                            Codes   Exercice             Exercice précédent
+
+ IMMOBILISATIONS INCORPORELLES
+
+ Valeur d'acquisition au terme de l'exercice                               8059P    XXXXXXXXXX                          90.608
+
+ Mutations de l'exercice
+     Acquisitions, y compris la production immobilisée                     8029                11.677
+     Cessions et désaffectations                                           8039
+
+     Transferts d'une rubrique à une autre                       (+)/(-)   8049
+
+ Valeur d'acquisition au terme de l'exercice                               8059                102.285
+
+ Amortissements et réductions de valeur au terme de l'exercice             8129P    XXXXXXXXXX                          81.146
+
+ Mutations de l'exercice
+     Actés                                                                 8079                 8.622
+     Repris                                                                8089
+
+     Acquis de tiers                                                       8099
+
+     Annulés à la suite de cessions et désaffectations                     8109
+
+     Transférés d'une rubrique à une autre                       (+)/(-)   8119
+
+ Amortissements et réductions de valeur au terme de l'exercice             8129                 89.768
+
+ VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE                             (21)                 12.517
+
+
+
+
+                                                                                                                    Page 7 of 19
+N°      0478654319                                                                                                     A-ASBL 6.1.2
+
+                                                                                    Codes    Exercice             Exercice précédent
+
+ IMMOBILISATIONS CORPORELLES
+
+ Valeur d'acquisition au terme de l'exercice                                       8199P     XXXXXXXXXX                         198.139
+
+ Mutations de l'exercice
+     Acquisitions, y compris la production immobilisée                             8169
+
+     Cessions et désaffectations                                                   8179
+
+     Transferts d'une rubrique à une autre                               (+)/(-)   8189
+
+ Valeur d'acquisition au terme de l'exercice                                       8199                 198.139
+
+ Plus-values au terme de l'exercice                                                8259P     XXXXXXXXXX
+
+ Mutations de l'exercice
+     Actées                                                                        8219
+
+     Acquises de tiers                                                             8229
+
+     Annulées                                                                      8239
+
+     Transférées d'une rubrique à une autre                              (+)/(-)   8249
+
+                                                                                   8259
+ Plus-values au terme de l'exercice
+
+ Amortissements et réductions de valeur au terme de l'exercice                     8329P     XXXXXXXXXX                         156.994
+
+ Mutations de l'exercice
+     Actés                                                                         8279                 10.735
+     Repris                                                                        8289
+
+     Acquis de tiers                                                               8299
+
+     Annulés à la suite de cessions et désaffectations                             8309
+
+     Transférés d'une rubrique à une autre                               (+)/(-)   8319
+
+ Amortissements et réductions de valeur au terme de l'exercice                     8329                 167.729
+
+ VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE                                     (22/27)               30.410
+
+ DONT
+     Appartenant à l'association ou à la fondation en pleine propriété             8349                 30.410
+
+
+
+
+                                                                                                                             Page 8 of 19
+N°      0478654319                                                                            A-ASBL 6.1.3
+
+                                                              Codes   Exercice           Exercice précédent
+
+ IMMOBILISATIONS FINANCIÈRES
+
+ Valeur d'acquisition au terme de l'exercice                 8395P    XXXXXXXXXX                          1.085
+
+ Mutations de l'exercice
+     Acquisitions                                            8365
+
+     Cessions et retraits                                    8375
+
+     Transferts d'une rubrique à une autre         (+)/(-)   8385
+
+     Autres mutations                              (+)/(-)   8386
+
+ Valeur d'acquisition au terme de l'exercice                 8395                1.085
+
+ Plus-values au terme de l'exercice                          8455P    XXXXXXXXXX
+
+ Mutations de l'exercice
+     Actées                                                  8415
+
+     Acquises de tiers                                       8425
+
+     Annulées                                                8435
+
+     Transférées d'une rubrique à une autre        (+)/(-)   8445
+
+                                                             8455
+ Plus-values au terme de l'exercice
+
+ Réductions de valeur au terme de l'exercice                 8525P    XXXXXXXXXX
+
+ Mutations de l'exercice
+     Actées                                                  8475
+
+     Reprises                                                8485
+
+     Acquises de tiers                                       8495
+
+     Annulées à la suite de cessions et retraits             8505
+
+     Transférées d'une rubrique à une autre        (+)/(-)   8515
+
+                                                             8525
+ Réductions de valeur au terme de l'exercice
+
+ Montants non appelés au terme de l'exercice                 8555P    XXXXXXXXXX
+                                                   (+)/(-)   8545
+ Mutations de l'exercice
+                                                             8555
+ Montants non appelés au terme de l'exercice
+
+ VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE               (28)                1.085
+
+
+
+
+                                                                                                    Page 9 of 19
+N°      0478654319                                                                                                              A-ASBL 6.2
+
+
+ETAT DES FONDS, FONDS AFFECTÉS ET PROVISIONS
+
+
+                                                                                                    Exercice            Exercice précédent
+ FONDS
+     Patrimoine de départ
+     Moyens permanents                                                                                         50.483                   50.483
+
+
+                                                                                                                             Montants
+     Modifications au cours de l'exercice
+
+
+
+
+ FONDS AFFECTÉS
+
+ Règles d'évaluation adoptées pour la détermination des montants affectés (rubrique 13 du passif)
+
+
+                                                                                                                             Exercice
+
+ PROVISIONS
+
+ Ventilation de la rubrique 167 du passif ("Provisions pour subsides et legs à rembourser et pour dons avec droit de
+ reprise") si celle-ci représente un montant important
+
+
+
+
+                                                                                                                                 Page 10 of 19
+N°      0478654319                                                                                                       A-ASBL 6.3
+
+
+ETAT DES DETTES
+
+                                                                                                              Codes   Exercice
+
+ VENTILATION DES DETTES À L'ORIGINE À PLUS D'UN AN, EN FONCTION DE LEUR DURÉE
+ RÉSIDUELLE
+                                                                                                             (42)
+ Total des dettes à plus d'un an échéant dans l'année
+                                                                                                             8912
+ Total des dettes ayant plus d'un an mais 5 ans au plus à courir
+
+ Total des dettes ayant plus de 5 ans à courir                                                               8913                2.086
+
+ DETTES GARANTIES (COMPRISES DANS LES RUBRIQUES 17 ET 42/48 DU PASSIF)
+ Dettes garanties par les pouvoirs publics belges
+     Dettes financières                                                                                      8921
+
+       Etablissements de crédit, dettes de location-financement et dettes assimilées                         891
+
+       Autres emprunts                                                                                       901
+
+     Dettes commerciales                                                                                     8981
+
+       Fournisseurs                                                                                          8991
+
+       Effets à payer                                                                                        9001
+
+     Acomptes sur commandes                                                                                  9011
+
+     Dettes salariales et sociales                                                                           9021
+
+     Autres dettes                                                                                           9051
+
+                                                                                                             9061
+ Total des dettes garanties par les pouvoirs publics belges
+
+ Dettes garanties par des sûretés réelles constituées ou irrévocablement promises sur les actifs de
+ l'association ou de la fondation
+     Dettes financières                                                                                      8922
+
+       Etablissements de crédit, dettes de location-financement et dettes assimilées                         892
+
+       Autres emprunts                                                                                       902
+
+     Dettes commerciales                                                                                     8982
+
+       Fournisseurs                                                                                          8992
+
+       Effets à payer                                                                                        9002
+
+     Acomptes sur commandes                                                                                  9012
+
+     Dettes fiscales, salariales et sociales                                                                 9022
+
+       Impôts                                                                                                9032
+
+       Rémunérations et charges sociales                                                                     9042
+
+     Autres dettes                                                                                           9052
+
+ Total des dettes garanties par des sûretés réelles constituées ou irrévocablement promises sur les actifs   9062
+ de l'association ou de la fondation
+
+
+
+
+                                                                                                                          Page 11 of 19
+N°      0478654319                                                                                              A-ASBL 6.4
+
+
+RÉSULTATS
+
+                                                                            Codes   Exercice            Exercice précédent
+
+ PERSONNEL
+ Travailleurs pour lesquels l'association ou la fondation a introduit une
+ déclaration DIMONA ou qui sont inscrits au registre général du personnel
+     Effectif moyen du personnel calculé en équivalents temps plein         9087                 14,3                    15,4
+
+ PRODUITS ET CHARGES DE TAILLE OU D'INCIDENCE EXCEPTIONNELLE
+ Produits non récurrents                                                    76                 36.773                  18.762
+     Produits d'exploitation non récurrents                                 (76A)              36.773                 18.762
+     Produits financiers non récurrents                                     (76B)
+
+ Charges non récurrentes                                                    66                 10.226                        68
+     Charges d'exploitation non récurrentes                                 (66A)              10.226                        68
+     Charges financières non récurrentes                                    (66B)
+
+ RÉSULTATS FINANCIERS
+                                                                            6502
+ Intérêts portés à l'actif
+
+
+
+
+                                                                                                                 Page 12 of 19
+N°      0478654319                                                                                                          A-ASBL 6.6
+
+
+RELATIONS AVEC LES ENTITÉS LIÉES, LES SOCIÉTÉS ASSOCIÉES, LES ADMINISTRATEURS ET LES
+COMMISSAIRES
+
+                                                                                                                 Codes   Exercice
+
+ ENTITÉS LIÉES OU SOCIÉTÉS ASSOCIÉES
+                                                                                                                 9294
+ Garanties constituées en leur faveur
+                                                                                                                 9295
+ Autres engagements significatifs souscrits en leur faveur
+
+ LES ADMINISTRATEURS ET LES PERSONNES PHYSIQUES OU MORALES QUI CONTRÔLENT
+ DIRECTEMENT OU INDIRECTEMENT L'ASSOCIATION OU LA FONDATION SANS ÊTRE LIÉES À CELLE-CI
+ OU LES AUTRES ENTITÉS CONTRÔLÉES DIRECTEMENT OU INDIRECTEMENT PAR CES PERSONNES
+                                                                                                                 9500
+ Créances sur les personnes précitées
+   Conditions principales des créances, taux d'intérêt, durée, montants éventuellement remboursés, annulés ou
+   auxquels il a été renoncé
+
+
+                                                                                                                 9501
+ Garanties constituées en leur faveur
+                                                                                                                 9502
+ Autres engagements significatifs souscrits en leur faveur
+
+
+                                                                                                                         Exercice
+
+ LE(S) COMMISSAIRE(S) ET LES PERSONNES AVEC LESQUELLES IL EST LIÉ (ILS SONT LIÉS)
+
+     Les emoluments du commiassaire sont TVA comprise de                                                                            9.148
+
+
+                                                                                                                         Exercice
+
+ TRANSACTIONS AVEC DES PARTIES LIÉES EFFECTUÉES DANS DES CONDITIONS AUTRES QUE CELLES
+ DU MARCHÉ
+
+ Les transactions qui sont contractées directement ou indirectement entre l'association ou la fondation et les
+ membres des organes de direction, de surveillance ou d'administration
+
+
+
+
+                                                                                                                             Page 13 of 19
+N°      0478654319                                                                                                                        A-ASBL 6.8
+
+
+RÈGLES D'ÉVALUATION
+
+
+
+
+     1. FRAIS D'ETABLISSEMENT
+
+     Les frais d'établissement sont :
+     1. pris en charge au moment où ils sont engagés,
+     2. amortis au taux de 20 % (minimum 20 %)
+
+     2. IMMOBILISATIONS INCORPORELLES
+
+     Elles sont valorisées à leur prix d'acquisition.
+
+     - UTILISATION LIMITEE DANS LE TEMPS (EXEMPLE : FRAIS DE RECHERCHES ET DE MISES AU POINT,
+     CONCESSION, BREVETS, LICENCES, GOODWILL ET PLUS-VALUE D'APPORT).
+
+     Celles-ci font l'objet d'amortissement linéaires aux taux qui sont les suivants : 20 %
+
+     - UTILISATION NON LIMITEE DANS LE TEMPS : EXEMPLE : GOODWILL, PLUS-VALUE D'APPORT, ETC).
+
+     Des réductions de valeur sont appliquées en cas de dépréciation durable
+
+     3. IMMOBILISATIONS CORPORELLES
+
+     Elles sont évaluées à leur valeur d'acquisition, de revient, ou d'apport, y compris les frais
+     accessoires, conformément aux articles 3:13 à 3:14; les amortissements aux articles 3:23 à 3:26 et
+     les plus values
+     aux articles 3:34 à 3:35 selon l'arrêté royal du 29/04/2019 portant exécution du code des sociétés
+     et associations,
+
+     - UTILISATION LIMITEE DANS LE TEMPS
+
+     Les immobilisations corporelles à utilisation limitée dans le temps font l'objet d'amortissements :
+     - linéaires
+     - dégressifs
+     aux taux suivants :
+     Immeubles industriels : 5,00 % linéaire
+     Immeubles : 3,33% linéaire
+     Grosses installations : 10,00 % linéaire
+     Machines et outillage : entre 25,00 et 33,00 % linéaire
+     Mobilier et matériel de bureau : entre 20,00 et 25,00 % linéaire
+     Matériel informatique : 33 % linéaire
+     Matériel roulant neuf : 20 % linéaire
+     Aménagement des locaux : suivant le durée du bail et le temps restant à courrir
+     Les immobilisations en cours (exemple : constructions), sont amorties à partir de l'exercice au
+     cours duquel elles sont achevées.
+     Les immobilisations corporelles désaffectées ou qui ont cessé d'être affectées durablement à
+     l'activité de l'entreprise, font l'objet
+     d'amortissements exceptionnels pour en aligner l'évaluation sur leur valeur probable de
+     réalisation.
+
+     - UTILISATION NON LIMITEE DANS LE TEMPS
+
+     les terrains font l'objet de réductions de valeur en cas de moins-value ou de dépréciations
+     durables.
+
+     4. IMMOBILISATIONS FINANCIERES
+
+     Les participations et créances sont inscrites à leur prix d'acquisition déduction faite des
+     montants non appelés. Toutefois, une évaluation
+     individuelle de chaque participation est établie en tenant compte de différents critères tels que
+     la situation, la rentabilité et les
+     perspectives de la société dont une participation est détenue.
+     Les créances et les cautionnements sont inscrits à leur valeur nominale.
+     Les moins-values constatées sur les immobilisations financières font l'objet de réductions de
+     valeur.
+
+     5. CREANCES A PLUS D'UN AN ET A UN AN AU PLUS
+
+     Les créances sont reprises à leur valeur nominale.
+     Les créances font l'objet de réductions de valeur si des risques de non-récupération, de moinsvalue
+     ou de dépréciations probables existent.
+
+     En ce qui concerne les créances sur pouvoirs subsidiant, on ne porte en créance et en produit que
+     la partie des subsides réellement engagée et non la totalité des conventions, la contrepartie étant reportée en compte 73
+
+     6. PLACEMENTS DE TRESORERIE ET VALEURS DISPONIBLES
+
+     Les composants de ces rubriques sont repris à leur valeur nominale.
+     Les placements de trésorerie et les valeurs disponibles font l'objet de réductions de valeur.
+
+     7. FONDS AFFECTES POUR PASSIF SOCIAL
+
+     Ce fond se constitue uniquement sur les bénéfices.
+     Il se constitue lorsqu'il y a risque de licenciement du personnel dû à une insécurité provenant des
+     pouvoirs subsidiants.
+     Il ne peut en aucun cas dépasser la valeur estimée du coût de préavis de l'ensemble du personnel à
+     la date de clôture.
+     Le calcul de la dotation au fond est le suivant : non déterminé à ce jour
+
+     8. AUTRES FONDS AFFECTES
+
+     Ce fond se constitue uniquement sur les bénéfices et peut être constitué pour couvrir soit des
+     investissements ou soit des projets.
+     L'évaluation est de la compétence de l'assemblée générale sur proposition du Conseil
+     d'administration
+
+     9. PLUS-VALUES DE REEVALUATION
+
+     Les plus-values de réévaluation sont traitées en conformité à l'arrêté royal d'exécution du Code des sociétés et associations.
+
+     10. SUBSIDES REÇUS EN CAPITAL
+
+     Les subsides en capital sont repris pour les montants reçus. Des réductions échelonnées sont
+     déduites au rythme de la prise en charge desamortissements afférents aux immobilisations pour l'acquisition desquelles lesdits subsides ont été
+     obtenus, et le cas échéant, à concurrence du solde, en cas de réalisation ou de mise hors service de ces immobilisations.
+
+     11. PROVISIONS POUR RISQUES ET CHARGES
+
+     Les provisions pour risques et charges sont individualisées et tiennent compte des risques
+     prévisibles.
+
+     Elles font l'objet de reprises dans la mesure où elles excèdent, en fin d'exercice, une
+     appréciation actuelle des risques et charges, en considération desquelles elles ont été constituées.
+
+     12. DETTES A PLUS D'UN AN ET A UN AN AU PLUS
+
+     Les emprunts et les dettes sont évalués à leur valeur nominale. Elles sont majorées, le cas
+     échéant, des intérêts de retard ou d'autrespénalités dues.
+
+                                                                                                                                           Page 14 of 19
+N°   0478654319                                                         A-ASBL 8
+
+
+                      AUTRES DOCUMENTS À DÉPOSER EN VERTU DU CODE DES
+                                SOCIÉTÉS ET DES ASSOCIATIONS
+
+
+
+RAPPORT DES COMMISSAIRES
+
+
+
+
+                                                                        Page 15 of 19
+POUR LA SOLIDARITÉ ASBL
+Rapport du commissaire
+31 décembre 2025
+
+
+
+
+THE POWER OF BEING UNDERSTOOD
+AUDIT | TAX | CONSULTING
+
+
+
+
+                                Page 16 of 19
+                                       POUR LA SOLIDARITÉ ASBL
+
+
+    RAPPORT DU COMMISSAIRE À L’ASSEMBLÉE GÉNÉRALE DES MEMBRES DE L’ASSOCIATION POUR
+                          L’EXERCICE CLOS LE 31 DÉCEMBRE 2025
+
+                                                                    (COMPTES ANNUELS)
+
+
+Dans le cadre du contrôle légal des comptes annuels                                           À notre avis, ces comptes annuels donnent une
+de l’ASBL Pour La Solidarité (l’« Association »),                                             image fidèle du patrimoine et de la situation
+nous vous présentons notre rapport du commissaire.                                            financière de l’Association au 31 décembre 2025,
+Celui-ci inclut notre rapport sur les comptes annuels                                         ainsi que de ses résultats pour l’exercice clos à cette
+ainsi que les autres obligations légales et                                                   date, conformément au référentiel comptable
+réglementaires. Le tout constitue un ensemble et est                                          applicable en Belgique.
+inséparable.
+                                                                                              Fondement de l’opinion sans réserve
+Ce rapport du commissaire fait suite à notre rapport
+de carence établi le 15 juin 2026, qui vous a été                                             Nous avons effectué notre audit selon les Normes
+adressé, en l’absence des documents nécessaires                                               internationales d’audit (ISA) telles qu’applicables en
+pour nous permettre d’établir notre rapport dans les                                          Belgique. Les responsabilités qui nous incombent en
+délais requis.                                                                                vertu de ces normes sont plus amplement décrites
+                                                                                              dans la section « Responsabilités du commissaire
+Nous avons été nommés en tant que commissaire                                                 relatives à l’audit des comptes annuels » du présent
+par l’assemblée générale des membres du 25 juin                                               rapport. Nous nous sommes conformés à toutes les
+2025, conformément à la proposition de l’organe                                               exigences déontologiques qui s’appliquent à l’audit
+d’administration. Notre mandat de commissaire vient                                           des comptes annuels en Belgique, en ce compris
+à échéance à la date de l’assemblée générale des                                              celles concernant l’indépendance.
+membres délibérant sur les comptes annuels
+clôturés au 31 décembre 2027. Nous avons exercé                                               Nous avons obtenu de l’organe d’administration et
+le contrôle légal des comptes annuels de l’ASBL                                               des préposés de l’Association, les explications et
+Pour la Solidarité durant sept exercices consécutifs.                                         informations requises pour notre audit.
+
+                                                                                              Nous estimons que les éléments probants que nous
+RAPPORT SUR LES COMPTES ANNUELS                                                               avons recueillis sont suffisants et appropriés pour
+                                                                                              fonder notre opinion.
+Opinion sans réserve
+                                                                                              Autre point – Contrôle d’éligibilité
+Nous avons procédé au contrôle légal des comptes
+annuels de l’Association, comprenant le bilan au 31                                           L’association reçoit des subsides auxquels des
+décembre 2025, ainsi que le compte de résultats                                               conditions sont liées. Tous les subsides n’ont pas
+pour l’exercice clos à cette date et l’annexe, dont le                                        encore été soumis à des contrôles par les autorités
+total du bilan s’élève à € 1.257.857,27 et dont le                                            compétentes.
+compte de résultats se solde par un résultat positif
+de l’exercice de € 31.960,10.
+
+AUDIT | TAX | CONSULTING
+
+RSM Belgium is a member of the RSM network and trades as RSM. RSM is the trading name used by the members of the RSM Network. Each member of the RSM network is
+an independent accounting and consulting firm which practices in his own right. The RSM network is not itself a separate legal entity in any jurisdiction.
+
+RSM InterAudit SRL - Réviseurs d'entreprises - Siège social : Lozenberg 18 b1 – B 1932 Zaventem
+audit@rsmbelgium.be - TVA BE 0436.391.122 - RPM Bruxelles
+
+Member of RSM Belgium - Toelen Cats Dupont Koevoets group - Offices in Aalst, Antwerp, Liège, Charleroi, Mons and Zaventem
+
+
+
+                                                                                                                                                              Page 17 of 19
+Responsabilités de l’organe d’administration               Dans le cadre d’un audit réalisé conformément aux
+relatives à l’établissement des comptes annuels            normes ISA et tout au long de celui-ci, nous
+                                                           exerçons notre jugement professionnel et faisons
+L’organe d’administration est responsable de               preuve d’esprit critique. En outre :
+l'établissement des comptes annuels donnant une
+image fidèle conformément au référentiel comptable             nous identifions et évaluons les risques que les
+applicable en Belgique, ainsi que du contrôle interne          comptes annuels comportent des anomalies
+qu’il estime nécessaire à l’établissement de comptes           significatives, que celles-ci proviennent de
+annuels      ne    comportant      pas   d’anomalies           fraudes ou résultent d’erreurs, définissons et
+significatives, que celles-ci proviennent de fraudes           mettons en œuvre des procédures d’audit en
+ou résultent d’erreurs.                                        réponse à ces risques, et recueillons des
+                                                               éléments probants suffisants et appropriés pour
+Lors de l’établissement des comptes annuels, il                fonder notre opinion. Le risque de non-détection
+incombe à l’organe d’administration d’évaluer la               d’une anomalie significative provenant d’une
+capacité de l’Association à poursuivre son                     fraude est plus élevé que celui d’une anomalie
+exploitation, de fournir, le cas échéant, des                  significative résultant d’une erreur, car la fraude
+informations relatives à la continuité d’exploitation et       peut impliquer la collusion, la falsification, les
+d’appliquer le principe comptable de continuité                omissions volontaires, les fausses déclarations
+d’exploitation, sauf si l’organe d’administration a            ou le contournement du contrôle interne;
+l’intention de mettre l’Association en liquidation ou de
+                                                               nous prenons connaissance du contrôle interne
+cesser ses activités ou s’il ne peut envisager une
+                                                               pertinent pour l’audit afin de définir des
+autre solution alternative réaliste.
+                                                               procédures d’audit appropriées en la
+                                                               circonstance, mais non dans le but d’exprimer
+Responsabilités du commissaire relatives à
+                                                               une opinion sur l’efficacité du contrôle interne
+l’audit des comptes annuels
+                                                               de l’Association;
+Nos objectifs sont d’obtenir l’assurance raisonnable           nous apprécions le caractère approprié des
+que les comptes annuels pris dans leur ensemble ne             méthodes comptables retenues et le caractère
+comportent pas d’anomalies significatives, que                 raisonnable des estimations comptables faites
+celles-ci proviennent de fraudes ou résultent                  par l’organe d’administration, de même que des
+d’erreurs, et d’émettre un rapport du commissaire              informations les concernant fournies par ce
+contenant notre opinion. L’assurance raisonnable               dernier;
+correspond à un niveau élevé d’assurance, qui ne
+                                                               nous concluons quant au caractère approprié
+garantit toutefois pas qu’un audit réalisé
+                                                               de l’application par l’organe d’administration du
+conformément aux normes ISA permettra de
+                                                               principe comptable de continuité d’exploitation
+toujours détecter toute anomalie significative
+                                                               et, selon les éléments probants recueillis, quant
+existante. Les anomalies peuvent provenir de
+                                                               à l’existence ou non d’une incertitude
+fraudes ou résulter d’erreurs et sont considérées
+                                                               significative liée à des événements ou
+comme significatives lorsqu'il est raisonnable de
+                                                               situations susceptibles de jeter un doute
+s'attendre à ce que, prises individuellement ou en
+                                                               important sur la capacité de l’Association à
+cumulé, elles puissent influencer les décisions
+                                                               poursuivre son exploitation. Si nous concluons
+économiques que les utilisateurs des comptes
+                                                               à l’existence d’une incertitude significative,
+annuels prennent en se fondant sur ceux-ci.
+                                                               nous sommes tenus d’attirer l’attention des
+                                                               lecteurs de notre rapport du commissaire sur
+Lors de l’exécution de notre contrôle, nous
+                                                               les informations fournies dans les comptes
+respectons le cadre légal, réglementaire et normatif
+                                                               annuels au sujet de cette incertitude ou, si ces
+qui s’applique à l’audit des comptes annuels en
+                                                               informations ne sont pas adéquates, d’exprimer
+Belgique. L’étendue du contrôle légal des comptes
+                                                               une opinion modifiée. Nos conclusions
+ne comprend pas d’assurance quant à la viabilité
+                                                               s’appuient sur les éléments probants recueillis
+future de l’Association ni quant à l’efficience ou
+                                                               jusqu’à la date de notre rapport du
+l’efficacité avec laquelle l’organe d’administration a
+                                                               commissaire. Cependant, des situations ou
+mené ou mènera les affaires de l’Association. Nos
+                                                               événements       futurs    pourraient   conduire
+responsabilités relatives à l’application par l’organe
+                                                               l’Association à cesser son exploitation;
+d’administration du principe comptable de continuité
+d’exploitation sont décrites ci-après.
+
+                                                                                                     2|Page
+                                                                                                          Page 18 of 19
+     nous apprécions la présentation d’ensemble, la               du non-respect du délai de communication
+     structure et le contenu des comptes annuels et               des pièces au Commissaire ainsi que du
+     évaluons si les comptes annuels reflètent les                délai statutaire de convocation des
+     opérations et événements sous-jacents d'une                  membres de l’Assemblée prévu à l’article 16
+     manière telle qu'ils en donnent une image                    de vos status.
+     fidèle.
+                                                                  de l’absence de publication de la nomination
+Nous communiquons à l’organe d’administration                     du commissaire aux annexes du moniteur
+notamment l’étendue des travaux d'audit et le                     belge.
+calendrier de réalisation prévus, ainsi que les
+constatations importantes relevées lors de notre
+                                                           Zaventem, le 25 juin 2026
+audit, y compris toute faiblesse significative dans le
+contrôle interne.
+
+AUTRES   OBLIGATIONS                LÉGALES         ET
+RÉGLEMENTAIRES
+                                                           RSM INTERAUDIT SRL
+                                                           COMMISSAIRE
+Responsabilités de l’organe d’administration
+                                                           REPRÉSENTÉE PAR
+L’organe d’administration est responsable du
+                                                                            Numériquement signé par Luis Laperal
+                                                                            DN : cn=Luis Laperal gn=Luis Laperal c=BE Belgium
+
+
+
+respect des dispositions légales et réglementaires
+                                                           Luis Laperal     l=BE Belgium o=RSM e=l.laperal@rsmbelgium.be
+                                                                            Raison : J'accepte les conditions définies par
+                                                                            l'apposition de ma signature dans ce document
+                                                                            Emplacement :
+                                                                            Date : 2026-06-25 11:59+02:00
+
+
+applicables à la tenue de la comptabilité, ainsi que
+                                                           LUIS LAPERAL
+du Code des sociétés et des associations, et des
+                                                           ASSOCIÉ
+statuts de l’Association.
+
+Responsabilités du commissaire
+
+Dans le cadre de notre mission et conformément à
+la norme belge complémentaire (version révisée
+2023) aux normes internationales d’audit (ISA)
+applicables en Belgique, notre responsabilité est de
+vérifier, dans leurs aspects significatifs le respect de
+certaines dispositions du Code des sociétés et des
+associations et des statuts, ainsi que de faire rapport
+sur ces éléments.
+
+Mention relative à l’indépendance
+
+     Notre cabinet de révision n’a pas effectué de
+     missions incompatibles avec le contrôle légal
+     des comptes annuels et est resté indépendant
+     vis-à-vis de l’Association au cours de notre
+     mandat.
+
+
+Autres mentions
+
+     Sans préjudice d’aspects formels d’importance
+     mineure,    la    comptabilité    est   tenue
+     conformément aux dispositions légales et
+     réglementaires applicables en Belgique.
+     Nous n’avons pas à vous signaler d’opération
+     conclue ou de décision prise en violation des
+     statuts ou du Code des sociétés et des
+     associations, à l’exception :
+
+
+                                                                                                                                3|Page
+                                                                                                                                  Page 19 of 19
+

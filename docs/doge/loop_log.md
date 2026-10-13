@@ -36580,3 +36580,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@epicuris.be — general mailbox verified on the official site https://www.epicuris.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_epicuris_ans_vaph_matrix_9900_1_14m_9901_loss_290k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3374/; rq_3374=done; spawn **rq_3375**; ticks=3374.
 - Next: **rq_3375 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3375 — 2026-10-13T07:31:37Z — rq_3375 leftover dual Pour la Solidarité Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Pour la Solidarité** → KBO 0478.654.319 had 0 prior entity rows.
+- KBO: Actief since 26 september 2002; VZW; zetel Coenraetsstraat 66 1060 Sint-Gillis (bij-Brussel); 2 VE; 0 prior entity rows for 0478.654.319
+- Found: official NBB VKT-VZW native PDF **2026-00201535** (352409 B / 19p; AV 25-06-2026; neergelegd 26/06/2026; MD5 a31fc90b6741e9bbd2e1b0bd334a69a2). VKT-VZW 9900 **EUR1031392** (-12.82%); 62 **EUR1007104**; 9901 **EUR31423** (was 96845); 9904 31960; equity 305990; cash 263840; FTE 14,3 (was 15,4).
+- FOI address: communication@pourlasolidarite.eu — communication mailbox verified on the official site https://www.pourlasolidarite.eu/fr/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_pour_la_solidarite_vaph_matrix_9900_1_03m_9901_31k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3375/; rq_3375=done; spawn **rq_3376**; ticks=3375.
+- Next: **rq_3376 leftover dual** — Batch done; the 72/70/68/85/36-39 scans gave three code 733 rows (CRM, Ecole royale militaire, Terre); the rest are code 9900 fallbacks. Next: Médiathèque Nouvelle (code 733, site still unreachable), then remaining 9900 leftovers largest first..
