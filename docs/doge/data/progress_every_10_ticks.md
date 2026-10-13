@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3630** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3620; 3621-3629 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3621-3629 residual dual L5 (not near-complete of 348bn):** De Schoolbrug · BioForum · Badje · Bond zonder Naam Sociaal Cultureel Werk · Make-A-Wish Belgium-Vlaanderen · Stichting tegen Kanker · Ons Erfdeel · Debateville · Maison wallonne de la Pêche (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3204** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3259** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3621-3629** De Schoolbrug · BioForum · Badje · Bond zonder Naam Sociaal Cultureel Werk · Make-A-Wish Belgium-Vlaanderen · Stichting tegen Kanker · Ons Erfdeel · Debateville · Maison wallonne de la Pêche.
+
+### Inventory (tick 3630)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 64358 |
+| commitments.csv | 7259 |
+| leaderboard.csv | 9377 |
+| entities.csv | 3277 |
+| sources.csv | 10710 |
+| FOI ready | 3204 |
+| FOI total rows | 3259 |
+| research_queue open | rq_3630 (carried; next: Digital for Youth.be, Trage Wegen, Karavaan, CLIF, Vogelbescherming Vlaanderen (code 9900 rows from the bounded KBO scan of 7 NACE-BEL 2025 codes; scan and triage finished); largest first) |
+
+### What improved since tick 3620
+
+- **New source (tick3621-3629):** De Schoolbrug · BioForum · Badje · Bond zonder Naam Sociaal Cultureel Werk · Make-A-Wish Belgium-Vlaanderen · Stichting tegen Kanker · Ons Erfdeel · Debateville · Maison wallonne de la Pêche. Stichting tegen Kanker is a code 733 filer from the bounded KBO scan of NACE-BEL 2025 codes 85510, 85520, 88992, 93199, 94920, 94991, 94999 (funder not verified; Brussels office mailbox, the site gives no general one); the other eight are code 9900 rows (NOT subsidy amounts) from the same scan, largest first. Scan and triage finished; other code 733 filers found there were excluded (Kazou: CM mailbox; Rode Kruis-Vlaanderen: already in the data; Unitas, Sportwerk Vlaanderen: political or umbrella profile; international and EU-level bodies). Scan status at tick 3630: the old-code scan is complete (85 runnable pages; 77 with results, 8 confirmed empty). The NACE-BEL 2025 replacement scan (covering the 355 pages whose 17 old NACE codes return HTTP 404 on KBO) is complete (400 of 400 pages), 12 jobs in parallel. Triage is complete for all 3493 earlier scan keys (1278 with a 2025 filing) and for all 563 new non-profit keys from the 2025-code pages; code 733 rows found: vzw de Rand (used 3546), IATA Namur (used 3556), EPHEC-Galilée (skipped: no general mailbox on its own site); pool code 733 filer Marienheim Raeren is already in the data. Code 9900 picks come from the NBB pool rebuilt from the local cache (2115 rows, exhausted at tick 3605). EU-level and international bodies, umbrella bodies and federations, bodies without an own-domain general mailbox, address mismatches and duplicates excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3630 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3620** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

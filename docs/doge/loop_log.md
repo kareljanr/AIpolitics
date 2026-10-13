@@ -39130,3 +39130,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@maisondelapeche.be — general mailbox verified on the official site https://www.maisondelapeche.be/fr/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_maison_wallonne_peche_namur_vaph_matrix_9900_0_72m_9901_loss_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3629/; rq_3629=done; spawn **rq_3630**; ticks=3629.
 - Next: **rq_3630 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3630 — 2026-10-13T15:58:12Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3204** of 3259 rows; inventory budgets 64358 · commitments 7259 · leaderboard 9377 · entities 3277 · sources 10710.
+- Top10: **stable** (3621-3629 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3621-3629: De Schoolbrug · BioForum · Badje · Bond zonder Naam Sociaal Cultureel Werk · Make-A-Wish Belgium-Vlaanderen · Stichting tegen Kanker · Ons Erfdeel · Debateville · Maison wallonne de la Pêche.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3630 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3630 run locally as fallback.
+- Next: **rq_3630** — code 9900 (NOT subsidy amounts): Digital for Youth.be (EUR0.71m), Trage Wegen (EUR0.66m), Karavaan (EUR0.66m), CLIF (EUR0.65m), Vogelbescherming Vlaanderen (EUR0.63m); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scan of 7 NACE-BEL 2025 codes (finished, triaged).
