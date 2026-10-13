@@ -39350,3 +39350,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@icvzw.be — general mailbox verified on the official site https://icvzw.be/privacyverklaring (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_internationaal_comite_genk_vaph_matrix_9900_1_34m_9901_59k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3651/; rq_3650=done; spawn **rq_3652**; ticks=3651.
 - Next: **rq_3652 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3652 — 2026-10-13T16:20:07Z — rq_3652 leftover dual Mission régionale pour l'Insertion et l'Emploi pour Verviers (MIREV) Verviers YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Mission régionale pour l'Insertion et l'Emploi pour Verviers (MIREV)** → KBO 0453.054.930 had 0 prior entity rows.
+- KBO: Actief since 19 oktober 1993; VZW; zetel Rue Saint-Remacle 22 4800 Verviers; 1 VE; 0 prior entity rows for 0453.054.930
+- Found: official NBB VKT-VZW native PDF **2026-00136838** (70929 B / 19p; AV 08-05-2026; neergelegd 03/06/2026; MD5 8bd96ba79792b1aed7806b5c93bb5332). VKT-VZW 9900 **EUR1150089** (+1.23%); 62 **EUR1137161**; 9901 **EUR1581** (was -724); 9904 5260; equity 65226; cash 109259; FTE 16,4 (was 17,5).
+- FOI address: info@mirev.be — general mailbox verified on the official site https://mirev.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_mirev_verviers_vaph_matrix_9900_1_15m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3652/; rq_3652=done; spawn **rq_3653**; ticks=3652.
+- Next: **rq_3653 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
