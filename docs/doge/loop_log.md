@@ -35424,3 +35424,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: accueil@merejosephine.be — general mailbox verified on the official site https://www.merejosephine.be/ (which lists the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_mere_josephine_blegny_vaph_matrix_733_1_99m_9901_208k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3258/; rq_3258=done; spawn **rq_3259**; ticks=3258.
 - Next: **rq_3259 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3259 — 2026-10-13T03:28:10Z — rq_3259 leftover dual Fondation SUSA (Mons) Mons YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used: NACE 88.999 over Walloon and Flemish postcodes (2,181 legal persons not yet in the repo, 773 with a 2025-12 filing), plus NACE 88.101 and 85.599 (partial); code 733 rows first, then code 9900, largest first: **Fondation SUSA (Mons)** → KBO 0897.062.532 had 0 prior entity rows.
+- KBO: Actief since 11 februari 2008; VZW; zetel Rue Brisselot 11 7000 Mons; 1 VE; 0 prior entity rows for 0897.062.532
+- Found: official NBB VKT-VZW native PDF **2026-00152119** (491191 B / 26p; AV 18-05-2026; neergelegd 11/06/2026; MD5 930fee3520d823003567ad31d992ca48). VKT-VZW 9900 **EUR6928460** (+4.93%); 62 **EUR6529736**; 9901 **EUR101569** (was 179321); 9904 58215; equity 1277544; cash 447671; FTE 99,1 (was 96).
+- FOI address: info@susa.be — general mailbox verified on the official site https://www.susa.be/projets/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mons); FOI **gap_fondation_susa_mons_vaph_matrix_9900_6_93m_9901_102k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3259/; rq_3259=done; spawn **rq_3260**; ticks=3259.
+- Next: **rq_3260 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

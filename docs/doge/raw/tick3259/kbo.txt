@@ -1,0 +1,1 @@
+{"status": "Actief", "begin": "11 februari 2008", "rv": "Stichting van openbaar nut", "addr": "Rue Brisselot 11 7000 Mons", "ve": "1"}
