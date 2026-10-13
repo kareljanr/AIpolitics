@@ -41160,3 +41160,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@verburght.be — general mailbox verified on the official site https://verburght.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_verburght_deinze_vaph_matrix_9900_2_91m_9901_132k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3832/; rq_3832=done; spawn **rq_3833**; ticks=3832.
 - Next: **rq_3833 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3833 — 2026-10-13T22:40:59Z — rq_3833 leftover dual Lus Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Lus** → KBO 0464.497.069 had 0 prior entity rows.
+- KBO: Actief since 2 juni 1998; VZW; zetel Sint-Jacobsmarkt 43 2000 Antwerpen; 1 VE; 0 prior entity rows for 0464.497.069
+- Found: official NBB MIC-VZW native PDF **2026-00159434** (41859 B / 11p; AV 20-05-2026; neergelegd 11/06/2026; MD5 7ab0baae2724ed5877861634750dce3b). MIC-VZW 9900 **EUR451454** (-16.18%); 62 **EUR624588**; 9901 **EUR-174877** (was -42887); 9904 -170373; equity 547213; cash 109980; FTE n/a.
+- FOI address: info@lusvzw.be — general mailbox verified on the official site https://www.lusvzw.be/ (same address and KBO number as the registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_lus_antwerpen_vaph_matrix_9900_0_45m_9901_loss_175k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3833/; rq_3833=done; spawn **rq_3834**; ticks=3833.
+- Next: **rq_3834 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
