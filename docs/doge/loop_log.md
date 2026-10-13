@@ -38510,3 +38510,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: administration@planninguccle.be — administrative role mailbox verified on the official site https://www.planninguccle.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_planning_uccle_vaph_matrix_9900_0_56m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3567/; rq_3567=done; spawn **rq_3568**; ticks=3567.
 - Next: **rq_3568 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3568 — 2026-10-13T15:08:17Z — rq_3568 leftover dual Centre d'Information des Jeunes du Luxembourg (Infor Jeunes Luxembourg) Arlon YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre d'Information des Jeunes du Luxembourg (Infor Jeunes Luxembourg)** → KBO 0418.309.035 had 0 prior entity rows.
+- KBO: Actief since 25 februari 1978; VZW; zetel Rue des Faubourgs 17 6700 Arlon; 1 VE; 0 prior entity rows for 0418.309.035
+- Found: official NBB VKT-VZW native PDF **2026-00170500** (45915 B / 11p; AV 09-06-2026; neergelegd 12/06/2026; MD5 e5e5bff8ee14e8768275f71ec7532047). VKT-VZW 9900 **EUR531345** (-0.97%); 62 **EUR469243**; 9901 **EUR42584** (was 47421); 9904 40947; equity 327345; cash 227069; FTE 7 (was 7).
+- FOI address: arlon@inforjeunesluxembourg.be — Arlon office mailbox verified on the official site https://inforjeunesluxembourg.be/fr/contact_6/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_infor_jeunes_luxembourg_arlon_vaph_matrix_9900_0_53m_9901_43k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3568/; rq_3568=done; spawn **rq_3569**; ticks=3568.
+- Next: **rq_3569 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
