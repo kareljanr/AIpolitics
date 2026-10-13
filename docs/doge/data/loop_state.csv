@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T19:25:19Z,rq_3759,3759,no,tick3759 leftover dual Werk in Tremelo Tremelo 0460.423.762 Strong PDF 2026-00067962 9900 1.23m / 9901 loss 21k; next rq_3760 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T19:26:03Z,every10_3760,3760,no,"tick3760 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3700 carried open; next Stormkop (code 9900, nscan15)"

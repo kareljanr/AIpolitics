@@ -40430,3 +40430,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@wit-tremelo.be — general mailbox verified on the official site https://wit-tremelo.be/contact.html (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_werk_in_tremelo_vaph_matrix_9900_1_23m_9901_loss_21k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3759/; rq_3759=done; spawn **rq_3760**; ticks=3759.
 - Next: **rq_3760 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3760 — 2026-10-13T19:26:03Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3320** of 3376 rows; inventory budgets 65296 · commitments 7376 · leaderboard 9494 · entities 3394 · sources 11061.
+- Top10: **stable** (3751-3759 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3751-3759: CEMO · Les Vraies Richesses · Les Ateliers du Midi · Résad · Centre Bruxellois de Promotion de la Santé · Mentor Jeunes · Parents d'Enfants Victimes de la Route - SAVE · Accueil et Familles · Werk in Tremelo.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3760 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3760 run locally as fallback.
+- Next: **rq_3760** — code 9900 (NOT subsidy amounts): Stormkop (EUR0.65m, micro); mailbox verified on the official site, after the dedup check. Source: bounded KBO scan nscan15.
