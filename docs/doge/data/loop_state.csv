@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T02:32:05Z,rq_3238,3238,no,tick3238 leftover dual BAPA BXL (bureau d'accueil des primo-arrivants) Bruxelles 0633.894.307 Strong PDF 2026-00492229 9900 1.43m / 9901 0k; next rq_3239 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T02:32:15Z,rq_3239,3239,no,tick3239 leftover dual Globe Aroma Brussel 0852.034.241 Strong PDF 2026-00105195 9900 0.47m / 9901 6k; next rq_3240 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

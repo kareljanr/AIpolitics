@@ -35224,3 +35224,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info.bapabxl@brucity.be — general mailbox verified on the official site https://www.bapabxl.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_bapa_bxl_vaph_matrix_9900_1_43m_9901_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3238/; rq_3238=done; spawn **rq_3239**; ticks=3238.
 - Next: **rq_3239 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3239 — 2026-10-13T02:32:15Z — rq_3239 leftover dual Globe Aroma Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Largest recipients in the official City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025) not yet in the repo, cross-checked with the NBB filing: **Globe Aroma** → KBO 0852.034.241 had 0 prior entity rows.
+- KBO: Actief since 19 augustus 2002; VZW; zetel Moutstraat 26 1000 Brussel; 1 VE; 0 prior entity rows for 0852.034.241
+- Found: official NBB VKT-VZW native PDF **2026-00105195** (52767 B / 13p; AV 01-04-2026; neergelegd 30/04/2026; MD5 bd3a5670408ac2db75e8ec415648a923). VKT-VZW 9900 **EUR468697** (+7.83%); 62 **EUR434272**; 9901 **EUR5998** (was -6601); 9904 3549; equity 642027; cash 352342; FTE 6,1 (was 5,7).
+- FOI address: info@globearoma.be — general mailbox verified on the official site https://www.globearoma.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_globe_aroma_vaph_matrix_9900_0_47m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3239/; rq_3239=done; spawn **rq_3240**; ticks=3239.
+- Next: **rq_3240 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
