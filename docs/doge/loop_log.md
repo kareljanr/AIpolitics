@@ -38990,3 +38990,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@bop.brussels — general mailbox verified on the official site https://www.bop.brussels/nl/page/8/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_brussels_ouderenplatform_vaph_matrix_9900_0_91m_9901_35k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3615/; rq_3615=done; spawn **rq_3616**; ticks=3615.
 - Next: **rq_3616 leftover dual** — Batch done (3606-3615); one code 733 filer (COTA) then code 9900 rows from the new bounded KBO scan (NACE-BEL 2025 codes 85510, 85520, 88992, 93199, 94920, 94991, 94999) (Médiathèque Nouvelle still unreachable). Next (old-code and NACE-BEL 2025 scans complete, all keys triaged; EPHEC-Galilée not used: no general mailbox on its own site), then further code 9900 leftovers from the rebuilt pool, largest first..
+
+
+## Tick 3616 — 2026-10-13T15:50:20Z — rq_3616 leftover dual Service de médiation en matière financière (Ombudsfin) Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Service de médiation en matière financière (Ombudsfin)** → KBO 0633.551.936 had 0 prior entity rows.
+- KBO: Actief since 6 juli 2015; VZW; zetel Koning Albert II-laan 8 1000 Brussel Extra adresinfo: North Gate II; 1 VE; 0 prior entity rows for 0633.551.936
+- Found: official NBB VKT-VZW native PDF **2026-00257032** (712577 B / 19p; AV 23-06-2026; neergelegd 03/07/2026; MD5 04b5d41c2376f38ea06146205735d6fc). VKT-VZW 9900 **EUR1504542** (+12.26%); 62 **EUR1504520**; 9901 **EUR-10349** (was 58515); 9904 -4349; equity 801878; cash 729818; FTE 11,8 (was 10,1).
+- FOI address: ombudsman@ombudsfin.be — service (role) mailbox verified on the official site https://www.ombudsfin.be/fr/contact (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ombudsfin_bruxelles_vaph_matrix_9900_1_50m_9901_loss_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3616/; rq_3616=done; spawn **rq_3617**; ticks=3616.
+- Next: **rq_3617 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
