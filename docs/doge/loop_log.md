@@ -34914,3 +34914,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ssmverviers.be — general mailbox verified on the official site https://www.ssmverviers.be/contacts.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_verviers); FOI **gap_ssm_verviers_vaph_matrix_9900_2_69m_9901_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3207/; rq_3207=done; spawn **rq_3208**; ticks=3207.
 - Next: **rq_3208 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3208 — 2026-10-13T01:44:25Z — rq_3208 leftover dual Les Habitations protégées du Hainaut - Le Relais (Tournai) Tournai YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Mental-health, youth-care and social-economy non-profits (Walloon/Brussels services de santé mentale and habitations protégées, Flemish jeugdhulp / sociale werkplaats VZWs) from a fresh KBO name search; code 733 rows first (none qualified), then largest code 9900: **Les Habitations protégées du Hainaut - Le Relais (Tournai)** → KBO 0461.993.875 had 0 prior entity rows.
+- KBO: Actief since 14 mei 1997; VZW; zetel Avenue de Maire(TOU) 22 7500 Tournai; 3 VE; 0 prior entity rows for 0461.993.875
+- Found: official NBB VKT-VZW native PDF **2026-00337510** (45928 B / 13p; AV 16-06-2026; neergelegd 24/07/2026; MD5 862529b3dc42067496139831dba5f9df). VKT-VZW 9900 **EUR2515834** (-0.10%); 62 **EUR2159084**; 9901 **EUR239067** (was 376571); 9904 148169; equity 1129099; cash 118019; FTE 29,5 (was 29).
+- FOI address: info@hplerelais.be — general mailbox verified on the official site https://hplerelais.be/mentions-legales/ (which names this ASBL and its KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_tournai); FOI **gap_hp_le_relais_tournai_vaph_matrix_9900_2_52m_9901_239k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3208/; rq_3208=done; spawn **rq_3209**; ticks=3208.
+- Next: **rq_3209 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
