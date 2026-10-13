@@ -38660,3 +38660,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vzwdesluis.be — general mailbox verified on the official site https://www.vzwdesluis.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_de_sluis_genk_vaph_matrix_9900_0_44m_9901_loss_50k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3582/; rq_3582=done; spawn **rq_3583**; ticks=3582.
 - Next: **rq_3583 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3583 — 2026-10-13T15:19:10Z — rq_3583 leftover dual La Ferme de la Hulotte Wavre YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **La Ferme de la Hulotte** → KBO 0474.311.390 had 0 prior entity rows.
+- KBO: Actief since 27 januari 2001; VZW; zetel Chaussée de Bruxelles 400 1300 Wavre; 1 VE; 0 prior entity rows for 0474.311.390
+- Found: official NBB VKT-VZW native PDF **2026-00545307** (49728 B / 12p; AV 28-09-2026; neergelegd 03/10/2026; MD5 b175ca106e124c1d659346cd0ede3318). VKT-VZW 9900 **EUR415904** (+4.47%); 62 **EUR412329**; 9901 **EUR1625** (was -9824); 9904 1433; equity -3187; cash 11158; FTE 13,5 (was 13,4).
+- FOI address: info@fermedelahulotte.be — general mailbox verified on the official site https://fermedelahulotte.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_ferme_hulotte_wavre_vaph_matrix_9900_0_42m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3583/; rq_3583=done; spawn **rq_3584**; ticks=3583.
+- Next: **rq_3584 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

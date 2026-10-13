@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T15:19:01Z,rq_3582,3582,no,tick3582 leftover dual De Sluis Leerwerkplaats Genk 0441.330.105 Strong PDF 2026-00216239 9900 0.44m / 9901 loss 50k; next rq_3583 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T15:19:10Z,rq_3583,3583,no,tick3583 leftover dual La Ferme de la Hulotte Wavre 0474.311.390 Strong PDF 2026-00545307 9900 0.42m / 9901 2k; next rq_3584 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
