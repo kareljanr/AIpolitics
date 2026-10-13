@@ -39490,3 +39490,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vocopstap.be — general mailbox verified on the official site https://www.vocopstap.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_voc_opstap_roeselare_vaph_matrix_9900_0_48m_9901_49k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3665/; rq_3665=done; spawn **rq_3666**; ticks=3665.
 - Next: **rq_3666 leftover dual** — Batch done (3656-3665); code 9900 rows from the bounded KBO scan nscan4, largest first; no usable code 733 amount (Médiathèque Nouvelle still unreachable). Next: further code 9900 rows from nscan4, largest first..
+
+
+## Tick 3666 — 2026-10-13T16:33:38Z — rq_3666 leftover dual Humanipédie Koekelberg YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Humanipédie** → KBO 0603.982.376 had 0 prior entity rows.
+- KBO: Actief since 16 maart 2015; VZW; zetel Basilieklaan 379 bus 19 1081 Koekelberg; 1 VE; 0 prior entity rows for 0603.982.376
+- Found: official NBB VKT-VZW native PDF **2026-00262729** (36754 B / 8p; AV 19-06-2026; neergelegd 07/07/2026; MD5 2a4ee0fa2304f86df78c0a7cf658b5a3). VKT-VZW 9900 **EUR2117128** (+3.42%); 62 **EUR121565**; 9901 **EUR167441** (was -8480); 9904 167225; equity 710929; cash 733557; FTE 2 (was 2).
+- FOI address: info@humanipedie.be — general mailbox verified on the official site https://humanipedie.be/termes-et-conditions (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_humanipedie_koekelberg_vaph_matrix_9900_2_12m_9901_167k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3666/; rq_3666=done; spawn **rq_3667**; ticks=3666.
+- Next: **rq_3667 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
