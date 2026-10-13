@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T18:07:34Z,every10_3730,3730,no,"tick3730 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3700 carried open; next Crèche Princesse Astrid, Ferme du Parc Maximilien (code 9900, nscan10)"
+main,continuous,hole_fill,2026-10-13T18:07:44Z,rq_3730,3731,no,tick3731 leftover dual Crèche Princesse Astrid Liège 0466.640.274 Strong PDF 2026-00160375 9900 0.62m / 9901 76k; next rq_3732 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

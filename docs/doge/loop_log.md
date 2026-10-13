@@ -40140,3 +40140,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3730 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3730 run locally as fallback.
 - Next: **rq_3730** — code 9900 (NOT subsidy amounts): Crèche Princesse Astrid (EUR0.62m, micro), Ferme du Parc Maximilien (EUR0.52m, micro); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scan nscan10.
+
+
+## Tick 3731 — 2026-10-13T18:07:44Z — rq_3730 leftover dual Crèche Princesse Astrid Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Crèche Princesse Astrid** → KBO 0466.640.274 had 0 prior entity rows.
+- KBO: Actief since 19 maart 1999; VZW; zetel Rue des Wallons 69 4000 Liège; 1 VE; 0 prior entity rows for 0466.640.274
+- Found: official NBB MIC-VZW native PDF **2026-00160375** (36215 B / 7p; AV 11-06-2026; neergelegd 15/06/2026; MD5 9b070798a8ea6c065e7d7161573e48bb). MIC-VZW 9900 **EUR622202** (+3.18%); 62 **EUR531551**; 9901 **EUR75700** (was 68413); 9904 76019; equity 275093; cash 272308; FTE n/a.
+- FOI address: info@crecheprincesseastrid.be — general mailbox verified on the official site http://crecheprincesseastrid.be/contacts/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_creche_princesse_astrid_liege_vaph_matrix_9900_0_62m_9901_76k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3731/; rq_3730=done; spawn **rq_3732**; ticks=3731.
+- Next: **rq_3732 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
