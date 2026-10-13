@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T16:33:55Z,rq_3668,3668,no,tick3668 leftover dual Wallopoly Jambes 0809.158.162 Strong PDF 2026-00249076 9900 1.35m / 9901 5k; next rq_3669 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T16:34:04Z,rq_3669,3669,no,tick3669 leftover dual Mission régionale Huy-Waremme (MIRHW) Waremme 0452.666.633 Strong PDF 2026-00377143 9900 1.31m / 9901 1k; next rq_3670 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

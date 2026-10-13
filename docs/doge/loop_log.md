@@ -39520,3 +39520,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@wallopoly.be — general mailbox verified on the official site https://wallopoly.be/nous-contacter/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_wallopoly_jambes_vaph_matrix_9900_1_35m_9901_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3668/; rq_3668=done; spawn **rq_3669**; ticks=3668.
 - Next: **rq_3669 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3669 — 2026-10-13T16:34:04Z — rq_3669 leftover dual Mission régionale Huy-Waremme (MIRHW) Waremme YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Mission régionale Huy-Waremme (MIRHW)** → KBO 0452.666.633 had 0 prior entity rows.
+- KBO: Actief since 29 maart 1994; VZW; zetel Rue Ernest Malvoz 20 4300 Waremme; 1 VE; 0 prior entity rows for 0452.666.633
+- Found: official NBB VKT-VZW native PDF **2026-00377143** (76074 B / 22p; AV 24-06-2026; neergelegd 30/07/2026; MD5 10980029b7174dca90adce2095b1d8f6). VKT-VZW 9900 **EUR1312021** (+8.34%); 62 **EUR1303286**; 9901 **EUR1143** (was -84830); 9904 262; equity 22971; cash 90503; FTE 19,7 (was 18,7).
+- FOI address: info@mirhw.be — general mailbox verified on the official site https://mirhw.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_mission_regionale_huy_waremme_vaph_matrix_9900_1_31m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3669/; rq_3669=done; spawn **rq_3670**; ticks=3669.
+- Next: **rq_3670 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
