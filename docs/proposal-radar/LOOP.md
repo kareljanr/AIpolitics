@@ -113,7 +113,7 @@ When selected:
 1. `public/weekly_latest.md` lists **proposals scored in the last 21 days** and open queue rows. It does not reprint the all-time top clowns and genius.  
 2. Archive `public/weekly/YYYY-Www.md` only when that recent list changed.  
 3. Refresh `public/leaderboard_clowns.md` and `public/leaderboard_genius.md` (all-time top 15). Those files are the hall of fame, not the daily note.  
-4. Telegram (`scripts/telegram_notify.py`) posts only proposals that are new or newly re-scored, with clown / genius / index. Unscored queue rows go out once as “not scored yet”. If nothing is new, it does not send.
+4. Telegram (`scripts/telegram_notify.py`) posts only proposals that are new or newly re-scored, with clown / genius / index. Unscored queue rows are not posted. If nothing is newly rated, it does not send.
 
 ## Modes
 

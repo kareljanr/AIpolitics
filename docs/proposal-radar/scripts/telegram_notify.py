@@ -157,103 +157,78 @@ def _is_new(index: dict[tuple[str, str], str], kind: str, record_id: str, stamp:
     return index.get((kind, record_id)) != stamp
 
 
-def build_digest() -> tuple[str | None, dict[tuple[str, str], str]]:
-    """Return (message, sent-index to store).
+def _rating_block(row: dict) -> str:
+    lines = [f"• <b>{_e((row.get('title') or '')[:140])}</b>"]
+    lines.append(
+        f"  clown {_e(row.get('clownpoints') or '—')} · "
+        f"genius {_e(row.get('genius_score') or '—')} · "
+        f"index {_e(row.get('policy_index') or '—')} · "
+        f"{_e(row.get('score_confidence') or 'unscored')}"
+    )
+    summary = (row.get("summary_one_line") or "").strip()
+    if summary:
+        lines.append(f"  {_e(summary[:220])}")
+    who = " · ".join(
+        part
+        for part in (
+            (row.get("actor_name") or "").strip(),
+            (row.get("status") or "").strip(),
+            (row.get("jurisdiction") or "").strip(),
+        )
+        if part
+    )
+    if who:
+        lines.append(f"  {_e(who)}")
+    return "\n".join(lines)
 
-    Message is None when nothing new should be posted. The all-time clown and
-    genius boards stay in public/leaderboard_*.md and are not repeated here.
-    The first run treats every already-scored proposal as already announced.
+
+def build_digest() -> tuple[list[str], dict[tuple[str, str], str]]:
+    """Return (messages, sent-index to store).
+
+    Messages are empty when no new rating should be posted. Unscored queue
+    rows stay in the repo and are not sent. The all-time boards stay in
+    public/leaderboard_*.md.
     """
-    sent, had_state = _load_sent()
+    sent, _had_state = _load_sent()
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     proposals = [
         row
         for row in _read_csv(DATA / "proposals.csv")
         if row.get("proposal_id") and (row.get("clownpoints") or "").strip()
     ]
-    queued = [
-        row
-        for row in _read_csv(DATA / "ingest_queue.csv")
-        if (row.get("status") or "").strip().lower() == "open" and row.get("ingest_id")
-    ]
-
-    if not had_state:
-        for row in proposals:
-            sent[("scored", row["proposal_id"])] = (row.get("updated_utc") or "").strip()
-
     new_scored = [
         row
         for row in proposals
         if _is_new(sent, "scored", row["proposal_id"], (row.get("updated_utc") or "").strip())
     ]
-    new_queued = [
-        row
-        for row in queued
-        if _is_new(sent, "queued", row["ingest_id"], (row.get("updated_utc") or row.get("created_utc") or "").strip())
-    ]
     new_scored.sort(key=lambda row: row.get("updated_utc") or "", reverse=True)
-    new_queued.sort(key=lambda row: row.get("created_utc") or "", reverse=True)
+    if not new_scored:
+        return [], sent
 
     for row in new_scored:
         sent[("scored", row["proposal_id"])] = (row.get("updated_utc") or "").strip()
-    for row in new_queued:
-        stamp = (row.get("updated_utc") or row.get("created_utc") or "").strip()
-        sent[("queued", row["ingest_id"])] = stamp
 
-    if not new_scored and not new_queued:
-        return None, sent
-
-    lines = [
-        "🏛 <b>Proposal Radar</b> — new since last note",
-        f"<i>{_e(now)}</i>",
-        "",
-    ]
-    if new_scored:
-        lines.append("<b>New ratings</b>")
-        for row in new_scored[:8]:
-            lines.append(
-                f"• <b>{_e((row.get('title') or '')[:140])}</b>"
-            )
-            lines.append(
-                f"  clown {_e(row.get('clownpoints') or '—')} · "
-                f"genius {_e(row.get('genius_score') or '—')} · "
-                f"index {_e(row.get('policy_index') or '—')} · "
-                f"{_e(row.get('score_confidence') or 'unscored')}"
-            )
-            summary = (row.get("summary_one_line") or "").strip()
-            if summary:
-                lines.append(f"  {_e(summary[:220])}")
-            who = " · ".join(
-                part
-                for part in (
-                    (row.get("actor_name") or "").strip(),
-                    (row.get("status") or "").strip(),
-                    (row.get("jurisdiction") or "").strip(),
-                )
-                if part
-            )
-            if who:
-                lines.append(f"  {_e(who)}")
-        extra = len(new_scored) - 8
-        if extra > 0:
-            lines.append(f"… and {extra} more new ratings in the repo")
-        lines.append("")
-    if new_queued:
-        lines.append("<b>New, not scored yet</b>")
-        for row in new_queued[:8]:
-            lines.append(f"• {_e((row.get('title_hint') or '')[:160])}")
-        extra = len(new_queued) - 8
-        if extra > 0:
-            lines.append(f"… and {extra} more waiting in the queue")
-        lines.append("")
-    lines.append(
+    footer = (
         '<a href="https://github.com/kareljanr/AIpolitics/blob/main/docs/proposal-radar/public/leaderboard_clowns.md">'
         "All-time boards</a>"
     )
-    msg = "\n".join(lines)
-    if len(msg) > 3900:
-        msg = msg[:3880] + "\n…"
-    return msg, sent
+    header = f"🏛 <b>Proposal Radar</b> — new ratings\n<i>{_e(now)}</i>"
+    messages: list[str] = []
+    chunk: list[str] = []
+
+    def _flush() -> None:
+        if not chunk:
+            return
+        messages.append(header + "\n\n" + "\n\n".join(chunk) + "\n\n" + footer)
+        chunk.clear()
+
+    for block in (_rating_block(row) for row in new_scored):
+        trial = header + "\n\n" + "\n\n".join(chunk + [block]) + "\n\n" + footer
+        if chunk and len(trial) > 3900:
+            _flush()
+        chunk.append(block)
+    _flush()
+    return messages, sent
 
 
 def main() -> int:
@@ -296,20 +271,21 @@ Then:
     token, chat, thread = load_telegram_config()
     pending_sent: dict[tuple[str, str], str] | None = None
     if args.text.strip():
-        text = args.text.strip()
+        texts = [args.text.strip()]
     else:
-        text, pending_sent = build_digest()
-        if text is None:
-            print("No new proposals or ratings. Not sending.")
+        texts, pending_sent = build_digest()
+        if not texts:
+            print("No new ratings. Not sending.")
             if not args.dry_run and pending_sent is not None:
                 _write_sent(pending_sent)
             return 0
     if not args.dry_run and (not token or not chat):
         print("Telegram chat is not configured. Not sending, and not marking these items as posted.")
-        print(text)
+        print("\n\n".join(texts))
         return 0
     try:
-        send_message(token, chat, text, thread, dry_run=args.dry_run)
+        for text in texts:
+            send_message(token, chat, text, thread, dry_run=args.dry_run)
     except SystemExit as e:
         print(e, file=sys.stderr)
         return 2
