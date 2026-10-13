@@ -41110,3 +41110,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@pamele.be — general mailbox verified on the official site https://www.pamele.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_pamele_kortrijk_vaph_matrix_9900_4_10m_9901_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3827/; rq_3827=done; spawn **rq_3828**; ticks=3827.
 - Next: **rq_3828 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3828 — 2026-10-13T22:34:57Z — rq_3828 leftover dual Pimento Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Pimento** → KBO 0894.421.261 had 0 prior entity rows.
+- KBO: Actief since 12 december 2007; VZW; zetel Kipdorp 30 2000 Antwerpen; 1 VE; 0 prior entity rows for 0894.421.261
+- Found: official NBB VKT-VZW native PDF **2026-00260702** (50763 B / 14p; AV 10-03-2026; neergelegd 06/07/2026; MD5 33b0ecbbecf8627ab7a0fe39ae08c6e2). VKT-VZW 9900 **EUR1202157** (+3.30%); 62 **EUR1301371**; 9901 **EUR-101954** (was -87585); 9904 54339; equity 61771; cash 92282; FTE 18,4 (was 19,9).
+- FOI address: info@pimento.be — general mailbox verified on the official site https://www.pimento.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_pimento_antwerpen_vaph_matrix_9900_1_20m_9901_loss_102k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3828/; rq_3828=done; spawn **rq_3829**; ticks=3828.
+- Next: **rq_3829 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

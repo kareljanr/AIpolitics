@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T22:34:49Z,rq_3827,3827,no,tick3827 leftover dual Pamele Kortrijk 0851.825.987 Strong PDF 2026-00275172 9900 4.10m / 9901 19k; next rq_3828 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T22:34:57Z,rq_3828,3828,no,tick3828 leftover dual Pimento Antwerpen 0894.421.261 Strong PDF 2026-00260702 9900 1.20m / 9901 loss 102k; next rq_3829 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
