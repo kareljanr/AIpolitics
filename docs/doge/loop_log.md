@@ -38300,3 +38300,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@derand.be — general mailbox verified on the official site https://www.derand.be/nl/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_de_rand_wemmel_vaph_matrix_733_10_07m_9901_loss_213k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3546/; rq_3546=done; spawn **rq_3547**; ticks=3546.
 - Next: **rq_3547 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3547 — 2026-10-13T12:41:46Z — rq_3547 leftover dual Minard Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Minard** → KBO 0451.772.550 had 0 prior entity rows.
+- KBO: Actief since 17 december 1993; VZW; zetel Korianderstraat 13 9000 Gent; 1 VE; 0 prior entity rows for 0451.772.550
+- Found: official NBB VKT-VZW native PDF **2026-00181250** (51002 B / 14p; AV 10-06-2026; neergelegd 22/06/2026; MD5 c1c68818d0eefff5cc7de52ae64cc7b3). VKT-VZW 9900 **EUR645162** (+4.12%); 62 **EUR591994**; 9901 **EUR1921** (was 13988); 9904 4804; equity 385824; cash 489586; FTE 16,6 (was 14,9).
+- FOI address: info@minard.be — general mailbox verified on the official site https://minard.be/contacteer/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_minard_gent_vaph_matrix_9900_0_65m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3547/; rq_3547=done; spawn **rq_3548**; ticks=3547.
+- Next: **rq_3548 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
