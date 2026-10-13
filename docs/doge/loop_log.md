@@ -38830,3 +38830,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vibe.be — general mailbox verified on the official site https://www.vibe.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_vibe_borgerhout_vaph_matrix_9900_0_23m_9901_loss_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3599/; rq_3599=done; spawn **rq_3600**; ticks=3599.
 - Next: **rq_3600 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3600 — 2026-10-13T15:33:55Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3177** of 3232 rows; inventory budgets 64140 · commitments 7232 · leaderboard 9350 · entities 3250 · sources 10629.
+- Top10: **stable** (3591-3599 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3591-3599: Thebe · Onthaalcentrum Foyer · Pony Paradise · Terre de Sens · Jeunes et Nature · Gandae - Welzijn & Werk op Maat · Emancipe · Observatoire wallon de l'Intégration · VIBE.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3600 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3600 run locally as fallback.
+- Next: **rq_3600** — code 9900 (NOT subsidy amounts): JAVVA (EUR0.227m), Walter werkt (EUR0.173m), Avanco Adventure (EUR0.137m), Maison Arc-en-Ciel de Namur (EUR0.129m), Havenwereld (EUR0.112m); mailboxes verified on official sites, after the dedup check. Scans: old codes and NACE-BEL 2025 codes complete (400/400 pages); all keys triaged.
