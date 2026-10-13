@@ -37050,3 +37050,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@oxyjeunes.be — general mailbox verified on the official site https://www.oxyjeunes.be/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_oxyjeunes_farciennes_vaph_matrix_9900_1_20m_9901_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3421/; rq_3420=done; spawn **rq_3422**; ticks=3421.
 - Next: **rq_3422 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3422 — 2026-10-13T09:29:07Z — rq_3422 leftover dual Kavka Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Kavka** → KBO 0866.254.540 had 0 prior entity rows.
+- KBO: Actief since 9 juli 2004; VZW; zetel Oudaan 14 2000 Antwerpen; 2 VE; 0 prior entity rows for 0866.254.540
+- Found: official NBB VKT-VZW native PDF **2026-00192419** (61175 B / 18p; AV 22-06-2026; neergelegd 24/06/2026; MD5 4953e913e9693472fe5d31ef614ccc8e). VKT-VZW 9900 **EUR1107219** (+5.30%); 62 **EUR980288**; 9901 **EUR28970** (was 50512); 9904 17546; equity 456470; cash 571221; FTE 16,7 (was 15,6).
+- FOI address: info@kavka.be — general mailbox verified on the official site https://kavka.be/praktisch/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_kavka_antwerpen_vaph_matrix_9900_1_11m_9901_29k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3422/; rq_3422=done; spawn **rq_3423**; ticks=3422.
+- Next: **rq_3423 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
