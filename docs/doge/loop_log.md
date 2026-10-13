@@ -39390,3 +39390,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@dynamoamo.be — general mailbox verified on the official site https://www.dynamoamo.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_dynamo_amo_forest_vaph_matrix_9900_0_84m_9901_loss_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3655/; rq_3655=done; spawn **rq_3656**; ticks=3655.
 - Next: **rq_3656 leftover dual** — Batch done (3646-3655); code 9900 rows from a new bounded KBO scan (NACE-BEL 2025 codes 72200, 85600, 93110 on the earlier 23 postcodes; 87909, 88101, 88991, 88999, 94999 on 15 new postcodes), largest first; no usable code 733 amount found (Médiathèque Nouvelle still unreachable). Next: further code 9900 rows from that scan, largest first..
+
+
+## Tick 3656 — 2026-10-13T16:22:32Z — rq_3656 leftover dual Royal Racing Club de Bruxelles Uccle YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Royal Racing Club de Bruxelles** → KBO 0882.410.483 had 0 prior entity rows.
+- KBO: Actief since 10 juli 2006; VZW; zetel Eikenlaan 125 1180 Ukkel; 1 VE; 0 prior entity rows for 0882.410.483
+- Found: official NBB VKT-VZW native PDF **2026-00289028** (51163 B / 13p; AV 12-06-2026; neergelegd 14/07/2026; MD5 6740c82ef59d704f4a97101246c0de5d). VKT-VZW 9900 **EUR793018** (-13.83%); 62 **EUR634247**; 9901 **EUR42230** (was 132553); 9904 16657; equity -136555; cash 32206; FTE 17,8 (was 22).
+- FOI address: info@royalracing1891.be — secretariat mailbox verified on the official site https://www.royalracing1891.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_royal_racing_club_bruxelles_uccle_vaph_matrix_9900_0_79m_9901_42k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3656/; rq_3656=done; spawn **rq_3657**; ticks=3656.
+- Next: **rq_3657 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
