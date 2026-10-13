@@ -39250,3 +39250,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cmgv.be — general mailbox verified on the official site https://www.cmgv.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_cmgv_namur_vaph_matrix_9900_0_57m_9901_loss_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3641/; rq_3640=done; spawn **rq_3642**; ticks=3641.
 - Next: **rq_3642 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3642 — 2026-10-13T16:04:33Z — rq_3642 leftover dual AJILE Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **AJILE** → KBO 0413.103.501 had 0 prior entity rows.
+- KBO: Actief since 14 februari 1973; VZW; zetel Staatsbladsstraat 14 1000 Brussel; 4 VE; 0 prior entity rows for 0413.103.501
+- Found: official NBB MIC-VZW native PDF **2026-00276339** (335483 B / 17p; AV 09-06-2026; neergelegd 07/07/2026; MD5 0f4ab7aff723fb0b908489ca602272f0). MIC-VZW 9900 **EUR556888** (+4.92%); 62 **EUR522158**; 9901 **EUR29044** (was 18234); 9904 28964; equity 218648; cash 347138; FTE n/a.
+- FOI address: secretariat@ajile.org — role mailbox verified on the official site https://www.ajile.org/ (legal notice lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ajile_bruxelles_vaph_matrix_9900_0_56m_9901_29k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3642/; rq_3642=done; spawn **rq_3643**; ticks=3642.
+- Next: **rq_3643 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
