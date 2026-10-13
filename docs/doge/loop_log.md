@@ -36050,3 +36050,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@fix.be — general mailbox verified on the official site https://fix.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_anderlecht); FOI **gap_fix_anderlecht_vaph_matrix_9900_4_83m_9901_253k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3321/; rq_3320=done; spawn **rq_3322**; ticks=3321.
 - Next: **rq_3322 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3322 — 2026-10-13T05:46:30Z — rq_3322 leftover dual Becetel - Belgisch Centrum voor Technologisch Onderzoek van Leidingen Merelbeke-Melle YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.101 / 72.109 (research) and 85.591 / 85.593 (education) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first; EU-level bodies excluded: **Becetel - Belgisch Centrum voor Technologisch Onderzoek van Leidingen** → KBO 0406.633.106 had 0 prior entity rows.
+- KBO: Actief since 12 oktober 1957; VZW; zetel Gontrode Heirweg 292 9090 Merelbeke-Melle; 1 VE; 0 prior entity rows for 0406.633.106
+- Found: official NBB VKT-VZW native PDF **2026-00484987** (49873 B / 13p; AV 04-06-2026; neergelegd 28/08/2026; MD5 5aa17fb88fa2ad967490f34a82febd7d). VKT-VZW 9900 **EUR2038109** (-5.51%); 62 **EUR1148885**; 9901 **EUR715184** (was 932320); 9904 311553; equity 4218808; cash 2288747; FTE 12,6 (was 12).
+- FOI address: info@becetel.be — general mailbox verified on the official site https://www.becetel.be/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_merelbeke_melle); FOI **gap_becetel_merelbeke_vaph_matrix_9900_2_04m_9901_715k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3322/; rq_3322=done; spawn **rq_3323**; ticks=3322.
+- Next: **rq_3323 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
