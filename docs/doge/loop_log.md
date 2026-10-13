@@ -37570,3 +37570,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mqh.be — general mailbox verified on the official site https://www.mqh.be/rgpd/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_maison_de_quartier_helmet_vaph_matrix_9900_1_55m_9901_loss_73k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3473/; rq_3473=done; spawn **rq_3474**; ticks=3473.
 - Next: **rq_3474 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3474 — 2026-10-13T11:20:04Z — rq_3474 leftover dual Reliance La Louvière YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Reliance** → KBO 0459.991.816 had 0 prior entity rows.
+- KBO: Actief since 28 oktober 1996; VZW; zetel Rue de la Loi(L.L) 30 7100 La Louvière; 1 VE; 0 prior entity rows for 0459.991.816
+- Found: official NBB VKT-VZW native PDF **2026-00336467** (50404 B / 13p; AV 09-04-2026; neergelegd 27/07/2026; MD5 dbb41a2c3ac66abbdf264925983c0f34). VKT-VZW 9900 **EUR1464548** (-7.11%); 62 **EUR1355682**; 9901 **EUR294125** (was 167296); 9904 306136; equity 1418622; cash 468807; FTE 16,4 (was 15,7).
+- FOI address: info@relianceasbl.be — general mailbox verified on the official site https://www.relianceasbl.be/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_reliance_la_louviere_vaph_matrix_9900_1_46m_9901_294k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3474/; rq_3474=done; spawn **rq_3475**; ticks=3474.
+- Next: **rq_3475 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
