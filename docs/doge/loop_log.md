@@ -37100,3 +37100,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@grignoux.be — general mailbox verified on the official site https://www.grignoux.be/fr/nous-contacter (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_les_grignoux_liege_vaph_matrix_733_5_31m_9901_loss_657k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3426/; rq_3426=done; spawn **rq_3427**; ticks=3426.
 - Next: **rq_3427 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3427 — 2026-10-13T09:39:36Z — rq_3427 leftover dual Centrum voor Jeugdtoerisme (CJT) Merelbeke YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centrum voor Jeugdtoerisme (CJT)** → KBO 0409.153.027 had 0 prior entity rows.
+- KBO: Actief since 18 februari 1960; VZW; zetel Bergstraat 16 9820 Merelbeke-Melle; 11 VE; 0 prior entity rows for 0409.153.027
+- Found: official NBB VKT-VZW native PDF **2026-00088495** (1302110 B / 21p; AV 25-03-2026; neergelegd 24/04/2026; MD5 282af97c08863e7b9668e850ebe06dfd). VKT-VZW 9900 **EUR3426058** (+7.67%); 62 **EUR2528557**; 9901 **EUR-53935** (was -2217); 9904 88035; equity 8800947; cash 1103114; FTE 37,9 (was 36,7).
+- FOI address: info@cjt.be — general mailbox verified on the official site https://www.cjt.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_centrum_voor_jeugdtoerisme_vaph_matrix_9900_3_43m_9901_loss_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3427/; rq_3427=done; spawn **rq_3428**; ticks=3427.
+- Next: **rq_3428 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
