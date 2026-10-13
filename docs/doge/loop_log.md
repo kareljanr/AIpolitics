@@ -38910,3 +38910,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@jes.be — general mailbox verified on the official site https://www.jes.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_jes_molenbeek_vaph_matrix_9900_6_75m_9901_loss_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3607/; rq_3607=done; spawn **rq_3608**; ticks=3607.
 - Next: **rq_3608 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3608 — 2026-10-13T15:45:21Z — rq_3608 leftover dual D'Broej Sint-Jans-Molenbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **D'Broej** → KBO 0807.407.808 had 0 prior entity rows.
+- KBO: Actief since 28 oktober 2008; VZW; zetel Vermicellifabriekstraat 10 1080 Sint-Jans-Molenbeek; 1 VE; 0 prior entity rows for 0807.407.808
+- Found: official NBB VKT-VZW native PDF **2026-00316361** (51123 B / 13p; AV 19-05-2026; neergelegd 22/07/2026; MD5 577ab0e9a16d23d14bf0d81db8d257fd). VKT-VZW 9900 **EUR4045516** (+3.92%); 62 **EUR4086772**; 9901 **EUR-136430** (was -37359); 9904 -137563; equity 1512287; cash 609805; FTE 67,3 (was 69,2).
+- FOI address: info@dbroej.be — general mailbox verified on the official site https://dbroej.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_dbroej_molenbeek_vaph_matrix_9900_4_05m_9901_loss_136k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3608/; rq_3608=done; spawn **rq_3609**; ticks=3608.
+- Next: **rq_3609 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
