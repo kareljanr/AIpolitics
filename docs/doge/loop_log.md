@@ -40240,3 +40240,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3740 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3740 run locally as fallback.
 - Next: **rq_3740** — code 9900 (NOT subsidy amounts): Outside Jongerenvakantie (EUR0.95m); mailbox verified on the official site, after the dedup check. Source: bounded KBO scan nscan13.
+
+
+## Tick 3741 — 2026-10-13T19:05:20Z — rq_3740 leftover dual Outside Jongerenvakantie Poperinge YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Outside Jongerenvakantie** → KBO 0835.708.547 had 0 prior entity rows.
+- KBO: Actief since 21 april 2011; VZW; zetel Westouterseweg 3 8970 Poperinge; 1 VE; 0 prior entity rows for 0835.708.547
+- Found: official NBB VKT-VZW native PDF **2026-00079315** (54832 B / 15p; AV 30-03-2026; neergelegd 14/04/2026; MD5 050e33c42707eca3ce20c9eaea0643f4). VKT-VZW 9900 **EUR954028** (+8.05%); 62 **EUR845776**; 9901 **EUR30876** (was 13783); 9904 30483; equity 41280; cash 119098; FTE 9,8 (was 10).
+- FOI address: info@outside.be — general mailbox verified on the official site https://outsidejongerenvakanties.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_outside_jongerenvakantie_poperinge_vaph_matrix_9900_0_95m_9901_31k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3741/; rq_3740=done; spawn **rq_3742**; ticks=3741.
+- Next: **rq_3742 leftover dual** — Batch done (3739-3741); code 733 row first, then code 9900, from bounded KBO scan nscan13, largest first; many rows rejected (Gmail/ISP mailboxes, unreachable sites); candidates ran dry; Médiathèque Nouvelle still unreachable. Next: a new bounded scan..
