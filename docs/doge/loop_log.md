@@ -36560,3 +36560,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@praktijkpuntlandbouw.be — general mailbox verified on the official site https://praktijkpuntlandbouw.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_praktijkpunt_landbouw_vb_vaph_matrix_9900_1_61m_9901_loss_219k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3372/; rq_3372=done; spawn **rq_3373**; ticks=3372.
 - Next: **rq_3373 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3373 — 2026-10-13T07:31:24Z — rq_3373 leftover dual CRISP - Centre de recherche et d'information socio-politiques Saint-Josse-ten-Noode YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **CRISP - Centre de recherche et d'information socio-politiques** → KBO 0408.141.158 had 0 prior entity rows.
+- KBO: Actief since 9 augustus 1962; VZW; zetel Queteletplein 1A 1210 Sint-Joost-ten-Node; 1 VE; 0 prior entity rows for 0408.141.158
+- Found: official NBB VKT-VZW native PDF **2026-00104858** (48179 B / 13p; AV 21-04-2026; neergelegd 07/05/2026; MD5 60e6e73d2b328a02ed6a83f02a9c405c). VKT-VZW 9900 **EUR1489000** (+1.09%); 62 **EUR1445437**; 9901 **EUR120809** (was 71576); 9904 -2616; equity 1071237; cash 213066; FTE 14,9 (was 15,6).
+- FOI address: info@crisp.be — secretariat mailbox verified on the official site https://www.crisp.be/fr/1049-equipe-de-recherche (the contact page lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_crisp_bruxelles_vaph_matrix_9900_1_49m_9901_121k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3373/; rq_3373=done; spawn **rq_3374**; ticks=3373.
+- Next: **rq_3374 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
