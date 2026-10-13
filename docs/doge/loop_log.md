@@ -38780,3 +38780,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@terredesens.be — general mailbox verified on the official site https://www.terredesens.be/index.php/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_terre_de_sens_namur_vaph_matrix_9900_0_30m_9901_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3594/; rq_3594=done; spawn **rq_3595**; ticks=3594.
 - Next: **rq_3595 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3595 — 2026-10-13T15:26:37Z — rq_3595 leftover dual Jeunes et Nature Saint-Servais (Namur) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Jeunes et Nature** → KBO 0418.585.484 had 0 prior entity rows.
+- KBO: Actief since 5 juni 1978; VZW; zetel Rue Nanon(SS) 98 5002 Namur; 2 VE; 0 prior entity rows for 0418.585.484
+- Found: official NBB VKT-VZW native PDF **2026-00072693** (56667 B / 16p; AV 21-03-2026; neergelegd 06/04/2026; MD5 74d469a3e5e9947bcd81e0026a3c6612). VKT-VZW 9900 **EUR278275** (-2.22%); 62 **EUR198017**; 9901 **EUR34890** (was 26343); 9904 34855; equity 338036; cash 217162; FTE 4 (was 3,9).
+- FOI address: info@jeunesetnature.be — general mailbox verified on the official site https://www.jeunesetnature.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_jeunes_et_nature_saint_servais_vaph_matrix_9900_0_28m_9901_35k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3595/; rq_3595=done; spawn **rq_3596**; ticks=3595.
+- Next: **rq_3596 leftover dual** — Batch done (3586-3595); code 9900 leftovers (no new code 733 filer: Marienheim Raeren already in the data) (Médiathèque Nouvelle still unreachable). Next (old-code and NACE-BEL 2025 scans complete, all keys triaged; EPHEC-Galilée not used: no general mailbox on its own site), then further code 9900 leftovers from the rebuilt pool, largest first..
