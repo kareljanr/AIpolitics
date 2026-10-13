@@ -36750,3 +36750,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cerfs-volants.be — general mailbox verified on the official site https://cerfs-volants.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cerfs_volants_schaerbeek_vaph_matrix_9900_1_87m_9901_loss_31k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3391/; rq_3390=done; spawn **rq_3392**; ticks=3391.
 - Next: **rq_3392 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3392 — 2026-10-13T08:23:24Z — rq_3392 leftover dual Le Vieux Moulin Fauvillers (Strainchamps) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Le Vieux Moulin** → KBO 0442.266.649 had 0 prior entity rows.
+- KBO: Actief since 20 december 1989; VZW; zetel Rue des Vennes,Strainchamps 1 6637 Fauvillers; 2 VE; 0 prior entity rows for 0442.266.649
+- Found: official NBB VKT-VZW native PDF **2026-00528668** (39015 B / 9p; AV 07-09-2026; neergelegd 25/09/2026; MD5 7a7fd5830d1530daecdf8eabc0195f09). VKT-VZW 9900 **EUR1627530** (+40.51%); 62 **EUR1462796**; 9901 **EUR106532** (was 80242); 9904 111659; equity 913691; cash 1736487; FTE n/a.
+- FOI address: levieuxmoulin@levm.be — general mailbox verified on the official site https://le-vieux-moulin.be/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_le_vieux_moulin_fauvillers_vaph_matrix_9900_1_63m_9901_107k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3392/; rq_3392=done; spawn **rq_3393**; ticks=3392.
+- Next: **rq_3393 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
