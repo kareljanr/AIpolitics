@@ -36710,3 +36710,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: asbl@lechanmurly.be — general mailbox verified on the official site https://lechanmurly.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_le_chanmurly_liege_vaph_matrix_9900_2_80m_9901_loss_66k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3387/; rq_3387=done; spawn **rq_3388**; ticks=3387.
 - Next: **rq_3388 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3388 — 2026-10-13T08:22:15Z — rq_3388 leftover dual Dreiland-Jugendhilfe Raeren (Hauset) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Dreiland-Jugendhilfe** → KBO 0505.752.060 had 0 prior entity rows.
+- KBO: Actief since 27 november 2014; VZW; zetel Aachener Strasse 196 4730 Raeren; 7 VE; 0 prior entity rows for 0505.752.060
+- Found: official NBB VKT-VZW native PDF **2026-00158997** (48212 B / 12p; AV 05-05-2026; neergelegd 15/06/2026; MD5 953d1434587da633fb2fadcfb56f428c). VKT-VZW 9900 **EUR2740308** (+5.10%); 62 **EUR2621657**; 9901 **EUR63319** (was 334198); 9904 64458; equity 575980; cash 617742; FTE 40,8 (was 33,1).
+- FOI address: contact@dreiland-jugendhilfe.com — general mailbox verified on the official site https://www.dreiland-jugendhilfe.com/ (lists the Belgian VoG at the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_dreiland_jugendhilfe_raeren_vaph_matrix_9900_2_74m_9901_63k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3388/; rq_3388=done; spawn **rq_3389**; ticks=3388.
+- Next: **rq_3389 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
