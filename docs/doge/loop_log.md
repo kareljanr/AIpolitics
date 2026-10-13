@@ -37880,3 +37880,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@le-forum.org — general mailbox verified on the official site https://www.le-forum.org/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_le_forum_saint_gilles_vaph_matrix_9900_1_01m_9901_72k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3504/; rq_3504=done; spawn **rq_3505**; ticks=3504.
 - Next: **rq_3505 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3505 — 2026-10-13T11:56:44Z — rq_3505 leftover dual Wijkhuis Chambéry Etterbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Wijkhuis Chambéry** → KBO 0460.236.987 had 0 prior entity rows.
+- KBO: Actief since 20 november 1996; VZW; zetel Chambérystraat 24 1040 Etterbeek; 1 VE; 0 prior entity rows for 0460.236.987
+- Found: official NBB VKT-VZW native PDF **2026-00094536** (1492693 B / 29p; AV 24-03-2026; neergelegd 30/04/2026; MD5 994f72778c2611fc842cd49f9cf24967). VKT-VZW 9900 **EUR997121** (-2.71%); 62 **EUR965354**; 9901 **EUR-32905** (was -26656); 9904 -34474; equity 666098; cash 263821; FTE 18,9 (was 18,4).
+- FOI address: dc@chambery.be — general (service-centre) mailbox verified on the official site https://www.chambery.be/contact/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_wijkhuis_chambery_etterbeek_vaph_matrix_9900_1_00m_9901_loss_33k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3505/; rq_3505=done; spawn **rq_3506**; ticks=3505.
+- Next: **rq_3506 leftover dual** — Batch done (3496-3505); code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (remaining 82.300 / 93.29x pages and the 20 NACE-BEL 2025 replacement codes still scanning), then further code 9900 leftovers from the cached NBB pool, largest first..
