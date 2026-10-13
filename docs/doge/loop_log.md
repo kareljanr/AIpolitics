@@ -35850,3 +35850,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ms-vlaanderen.be — general mailbox verified on the official site https://ms-vlaanderen.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_ms_liga_vlaanderen_vaph_matrix_9900_1_74m_9901_82k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3301/; rq_3300=done; spawn **rq_3302**; ticks=3301.
 - Next: **rq_3302 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3302 — 2026-10-13T05:08:04Z — rq_3302 leftover dual Bataljong Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.991 / 94.992 (974 legal persons not yet in the repo) and NACE 94.999 / 88.109 (776) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first: **Bataljong** → KBO 0420.095.617 had 0 prior entity rows.
+- KBO: Actief since 28 december 1979; VZW; zetel Ossenmarkt 3 2000 Antwerpen; 1 VE; 0 prior entity rows for 0420.095.617
+- Found: official NBB VKT-VZW native PDF **2026-00523819** (52365 B / 15p; AV 26-03-2026; neergelegd 22/09/2026; MD5 b395eb0641b94ed5a5d039a7fab1f5d2). VKT-VZW 9900 **EUR1681836** (+3.67%); 62 **EUR1589473**; 9901 **EUR54122** (was -28929); 9904 54579; equity 413099; cash 420152; FTE 20,4 (was 21,6).
+- FOI address: info@bataljong.be — general mailbox verified on the official site https://www.bataljong.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_bataljong_antwerpen_vaph_matrix_9900_1_68m_9901_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3302/; rq_3302=done; spawn **rq_3303**; ticks=3302.
+- Next: **rq_3303 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
