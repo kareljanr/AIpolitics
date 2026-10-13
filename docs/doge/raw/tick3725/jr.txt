@@ -1,0 +1,571 @@
+2026-00082511      0892290924   2025   EUR   25.0.11    m08-f      20/04/2026   11                         MIC-VZW 1
+
+
+
+
+                           JAARREKENING EN ANDERE OVEREENKOMSTIG
+                             HET WETBOEK VAN VENNOOTSCHAPPEN EN
+                           VERENIGINGEN NEER TE LEGGEN DOCUMENTEN
+
+
+
+IDENTIFICATIEGEGEVENS (op datum van de neerlegging)
+
+Naam :               Missing You
+Rechtsvorm :         Vereniging zonder winstoogmerk
+Adres :     Groot Begijnhof                                               Nr : 85                 Bus :
+Postnummer : 9040                  Gemeente :     Sint-Amandsberg
+Land :    België
+Rechtspersonenregister (RPR) - Ondernemingsrechtbank van          Gent, afdeling Gent
+Internetadres :
+E-mailadres :
+
+
+
+                                                                Ondernemingsnummer             0892.290.924
+
+
+
+Datum van de neerlegging van het recentste stuk dat de datum van bekendmaking van de
+                                                                                                      13-07-2023
+oprichtingsakte en van de akte tot statutenwijziging vermeldt
+
+
+
+JAARREKENING in            EURO         goedgekeurd door de algemene vergadering van          26-03-2026
+
+
+    met betrekking tot het boekjaar dat de periode dekt van          01-01-2025         tot   31-12-2025
+
+
+                                        Vorig boekjaar van           01-01-2024         tot   31-12-2024
+
+
+De bedragen van het vorige boekjaar zijn identiek met die welke eerder openbaar werden gemaakt.
+
+
+
+Nummers van de secties van het standaardmodel die niet werden neergelegd omdat ze niet dienstig zijn :
+
+ MIC-VZW 6.2, MIC-VZW 6.3, MIC-VZW 6.4, MIC-VZW 8
+
+
+
+
+                                                                                                            Page 1 of 11
+N°      0892290924                                                                                                      MIC-VZW 2
+
+
+                                LIJST VAN DE BESTUURDERS EN COMMISSARISSEN
+
+
+
+
+LIJST VAN DE BESTUURDERS EN COMMISSARISSEN
+
+VOLLEDIGE LIJST met naam, voornamen, beroep, woonplaats (adres, nummer, postnummer en gemeente) en functie in de vereniging
+of stichting
+
+
+
+Carton Catherine
+Klei 206
+1745 Opwijk
+BELGIË
+Begin van het mandaat :                  Einde van het mandaat :                  Bestuurder
+
+
+Demey Greet
+Toekomststraat 64
+8310 Sint-Kruis
+BELGIË
+Begin van het mandaat :                  Einde van het mandaat :                  Bestuurder
+
+
+Hespel Laurine
+Dikkelindestraat 93
+9032 Wondelgem
+BELGIË
+Begin van het mandaat :                  Einde van het mandaat :                  Voorzitter van de Raad van Bestuur
+
+
+De Boitselier Maarten
+Sint-Hubertusstraat 61
+2600 Berchem (Antwerpen)
+BELGIË
+Begin van het mandaat :                  Einde van het mandaat :                  Ondervoorzitter van de Raad van Bestuur
+
+
+Bergez Michaël
+Geerdegemvaart 162
+2800 Mechelen
+BELGIË
+Begin van het mandaat :                  Einde van het mandaat :                  Penningmeester
+
+
+Declercq Sibille
+Kriekerijstraat 2
+9040 Sint-Amandsberg
+BELGIË
+Begin van het mandaat :                  Einde van het mandaat :                  Bestuurder
+
+
+Notteboom Stacey
+Oscar Declercqstraat 66
+9750 Kruishoutem
+BELGIË
+Begin van het mandaat :                  Einde van het mandaat :                  Bestuurder
+
+
+
+
+                                                                                                                            Page 2 of 11
+N°      0892290924                                                                              MIC-VZW 3.1
+
+
+                                              JAARREKENING
+
+
+
+BALANS NA WINSTVERDELING
+
+                                                      Toel.     Codes   Boekjaar             Vorig boekjaar
+
+ ACTIVA
+                                                               20
+ OPRICHTINGSKOSTEN
+ VASTE ACTIVA                                                  21/28                43.650                     2.404
+
+ Immateriële vaste activa                              6.1.1   21                   40.688
+
+ Materiële vaste activa                                6.1.2   22/27                 1.962                      801
+     Terreinen en gebouwen                                     22
+
+     Installaties, machines en uitrusting                      23                   1.194                      801
+     Meubilair en rollend materieel                            24                    769
+     Leasing en soortgelijke rechten                           25
+
+     Overige materiële vaste activa                            26
+
+     Activa in aanbouw en vooruitbetalingen                    27
+
+ Financiële vaste activa                               6.1.3   28                    1.000                     1.603
+
+ VLOTTENDE ACTIVA                                              29/58                72.696               160.483
+                                                               29
+ Vorderingen op meer dan één jaar
+     Handelsvorderingen                                        290
+
+     Overige vorderingen                                       291
+
+ Voorraden en bestellingen in uitvoering                       3                     1.632                     7.621
+     Voorraden                                                 30/36                1.632                     7.621
+     Bestellingen in uitvoering                                37
+
+ Vorderingen op ten hoogste één jaar                           40/41                11.612                    36.235
+     Handelsvorderingen                                        40                   1.323                     5.328
+     Overige vorderingen                                       41                  10.289                 30.907
+                                                               50/53
+ Geldbeleggingen
+
+ Liquide middelen                                              54/58                56.969               108.863
+
+ Overlopende rekeningen                                        490/1                 2.483                     7.763
+
+ TOTAAL VAN DE ACTIVA                                          20/58               116.347               162.886
+
+
+
+
+                                                                                                      Page 3 of 11
+N°      0892290924                                                                                                         MIC-VZW 3.2
+
+                                                                                 Toel.    Codes   Boekjaar              Vorig boekjaar
+
+ PASSIVA
+ EIGEN VERMOGEN                                                                          10/15                 47.491               121.311
+                                                                                         10
+ Fondsen van de vereniging of stichting
+                                                                                         12
+ Herwaarderingsmeerwaarden
+                                                                                         13
+ Bestemde fondsen en andere reserves
+
+ Overgedragen winst (verlies)                                          (+)/(-)           14                    47.491               121.311
+                                                                                         15
+ Kapitaalsubsidies
+                                                                                         16
+ VOORZIENINGEN EN UITGESTELDE BELASTINGEN
+                                                                                         160/5
+ Voorzieningen voor risico's en kosten
+     Pensioenen en soortgelijke verplichtingen                                           160
+
+     Belastingen                                                                         161
+
+     Grote herstellings- en onderhoudswerken                                             162
+
+     Milieuverplichtingen                                                                163
+
+     Overige risico's en kosten                                                          164/5
+
+ Voorzieningen voor terug te betalen subsidies en legaten en                             167
+ voor schenkingen met terugnemingsrecht
+                                                                                         168
+ Uitgestelde belastingen
+
+ SCHULDEN                                                                                17/49                 68.856                    41.576
+                                                                                         17
+ Schulden op meer dan één jaar
+     Financiële schulden                                                                 170/4
+
+       Kredietinstellingen, leasingschulden en soortgelijke schulden                     172/3
+
+       Overige leningen                                                                  174/0
+
+     Handelsschulden                                                                     175
+
+     Vooruitbetalingen op bestellingen                                                   176
+
+     Overige schulden                                                                    178/9
+
+ Schulden op ten hoogste één jaar                                                        42/48                 66.482                    40.861
+     Schulden op meer dan één jaar die binnen het jaar vervallen                         42
+
+     Financiële schulden                                                                 43
+
+       Kredietinstellingen                                                               430/8
+
+       Overige leningen                                                                  439
+
+     Handelsschulden                                                                     44                   18.040                     1.627
+       Leveranciers                                                                      440/4               18.040                 1.627
+       Te betalen wissels                                                                441
+
+     Vooruitbetalingen op bestellingen                                                   46
+
+     Schulden met betrekking tot belastingen, bezoldigingen en                           45                   48.441                 39.234
+     sociale lasten
+       Belastingen                                                                       450/3                2.854                 2.731
+       Bezoldigingen en sociale lasten                                                   454/9               45.587                36.502
+     Overige schulden                                                                    48
+
+ Overlopende rekeningen                                                                  492/3                  2.374                      715
+
+ TOTAAL VAN DE PASSIVA                                                                   10/49                116.347               162.886
+
+
+
+
+                                                                                                                                 Page 4 of 11
+N°      0892290924                                                                                                          MIC-VZW 4
+
+
+RESULTATENREKENING
+
+                                                                                        Codes    Boekjaar             Vorig boekjaar
+
+ Bedrijfsopbrengsten en bedrijfskosten
+     Brutomarge                                                               (+)/(-)   9900            241.168                  235.165
+       Waarvan: niet-recurrente bedrijfsopbrengsten                                     76A
+
+       Omzet                                                                            70              20.528                  14.843
+       Lidgeld, schenkingen, legaten en subsidies                                       73             324.658                 299.195
+       Handelsgoederen, grond- en hulpstoffen, diensten en diverse goederen             60/61          107.031                  79.500
+     Bezoldigingen, sociale lasten en pensioenen                              (+)/(-)   62              310.546                  239.142
+     Afschrijvingen en waardeverminderingen op oprichtingskosten, op                    630                 2.866                       553
+     immateriële en materiële vaste activa
+     Waardeverminderingen op voorraden, op bestellingen in uitvoering en op   (+)/(-)   631/4
+     handelsvorderingen: toevoegingen (terugnemingen)
+     Voorzieningen voor risico's en kosten: toevoegingen (bestedingen en      (+)/(-)   635/9
+     terugnemingen)
+     Andere bedrijfskosten                                                              640/8                 823                       334
+     Als herstructureringskosten geactiveerde bedrijfskosten                      (-)   649
+
+     Niet-recurrente bedrijfskosten                                                     66A                   753
+
+ Bedrijfswinst (Bedrijfsverlies)                                              (+)/(-)   9901                -73.820                    -4.864
+
+ Financiële opbrengsten                                                                 75/76B                 196                     1.109
+     Recurrente financiële opbrengsten                                                  75                    196                      1.109
+     Niet-recurrente financiële opbrengsten                                             76B
+
+ Financiële kosten                                                                      65/66B                 196                       220
+     Recurrente financiële kosten                                                       65                    196                       220
+     Niet-recurrente financiële kosten                                                  66B
+
+ Winst (Verlies) van het boekjaar vóór belasting                              (+)/(-)   9903                -73.820                    -3.974
+                                                                                        780
+ Onttrekking aan de uitgestelde belastingen
+                                                                                        680
+ Overboeking naar de uitgestelde belastingen
+                                                                              (+)/(-)   67/77
+ Belastingen op het resultaat
+
+ Winst (Verlies) van het boekjaar                                             (+)/(-)   9904                -73.820                    -3.974
+                                                                                        789
+ Onttrekking aan de belastingvrije reserves
+                                                                                        689
+ Overboeking naar de belastingvrije reserves
+
+ Te bestemmen winst (verlies) van het boekjaar                                (+)/(-)   9905                -73.820                    -3.974
+
+
+
+
+                                                                                                                               Page 5 of 11
+N°      0892290924                                                                                                MIC-VZW 5
+
+
+RESULTAATVERWERKING
+
+                                                                               Codes   Boekjaar             Vorig boekjaar
+
+ Te bestemmen winst (verlies)                                       (+)/(-)   9906                 47.491               121.311
+     Te bestemmen winst (verlies) van het boekjaar                  (+)/(-)   (9905)              -73.820                -3.974
+     Overgedragen winst (verlies) van het vorige boekjaar           (+)/(-)   14P             121.311                  125.285
+
+ Onttrekking aan het eigen vermogen: fondsen, bestemde fondsen en             791
+ andere reserves
+                                                                              691
+ Toevoeging aan de bestemde fondsen en andere reserves
+
+ Over te dragen winst (verlies)                                     (+)/(-)   (14)                 47.491               121.311
+
+
+
+
+                                                                                                                     Page 6 of 11
+N°      0892290924                                                                                            MIC-VZW 6.1.1
+
+
+TOELICHTING
+
+STAAT VAN DE VASTE ACTIVA
+
+                                                                                 Codes   Boekjaar             Vorig boekjaar
+
+ IMMATERIËLE VASTE ACTIVA
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8059P    XXXXXXXXXX                            2.403
+
+ Mutaties tijdens het boekjaar
+     Aanschaffingen, met inbegrip van de geproduceerde vaste activa             8029                42.842
+     Overdrachten en buitengebruikstellingen                                    8039
+
+     Overboekingen van een post naar een andere                       (+)/(-)   8049
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8059                45.245
+
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8129P    XXXXXXXXXX                            2.403
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                                    8079                 2.153
+     Teruggenomen                                                               8089
+
+     Verworven van derden                                                       8099
+
+     Afgeboekt na overdrachten en buitengebruikstellingen                       8109
+
+     Overgeboekt van een post naar een andere                         (+)/(-)   8119
+
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8129                  4.557
+
+ NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR                                     (21)                40.688
+
+
+
+
+                                                                                                                       Page 7 of 11
+N°      0892290924                                                                                           MIC-VZW 6.1.2
+
+                                                                                 Codes    Boekjaar           Vorig boekjaar
+
+ MATERIËLE VASTE ACTIVA
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8199P     XXXXXXXXXX                          5.440
+
+ Mutaties tijdens het boekjaar
+     Aanschaffingen, met inbegrip van de geproduceerde vaste activa             8169                 1.874
+     Overdrachten en buitengebruikstellingen                                    8179
+
+     Overboekingen van een post naar een andere                       (+)/(-)   8189
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8199                 7.314
+
+ Meerwaarden per einde van het boekjaar                                         8259P     XXXXXXXXXX
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                                    8219
+
+     Verworven van derden                                                       8229
+
+     Afgeboekt                                                                  8239
+
+     Overgeboekt van een post naar een andere                         (+)/(-)   8249
+
+                                                                                8259
+ Meerwaarden per einde van het boekjaar
+
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8329P     XXXXXXXXXX                          4.640
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                                    8279                  712
+     Teruggenomen                                                               8289
+
+     Verworven van derden                                                       8299
+
+     Afgeboekt na overdrachten en buitengebruikstellingen                       8309
+
+     Overgeboekt van een post naar een andere                         (+)/(-)   8319
+
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8329                 5.352
+
+ NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR                                     (22/27)              1.962
+
+ WAARVAN
+     In volle eigendom van de vereniging of stichting                           8349                 1.962
+
+
+
+
+                                                                                                                      Page 8 of 11
+N°      0892290924                                                                                MIC-VZW 6.1.3
+
+                                                                       Codes   Boekjaar           Vorig boekjaar
+
+ FINANCIËLE VASTE ACTIVA
+
+ Aanschaffingswaarde per einde van het boekjaar                       8395P    XXXXXXXXXX                          1.603
+
+ Mutaties tijdens het boekjaar
+     Aanschaffingen                                                   8365
+
+     Overdrachten en buitengebruikstellingen                          8375
+
+     Overboekingen van een post naar een andere             (+)/(-)   8385
+
+     Andere mutaties                                        (+)/(-)   8386
+
+ Aanschaffingswaarde per einde van het boekjaar                       8395                1.603
+
+ Meerwaarden per einde van het boekjaar                               8455P    XXXXXXXXXX
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                          8415
+
+     Verworven van derden                                             8425
+
+     Afgeboekt                                                        8435
+
+     Overgeboekt van een post naar een andere               (+)/(-)   8445
+
+                                                                      8455
+ Meerwaarden per einde van het boekjaar
+
+ Waardeverminderingen per einde van het boekjaar                      8525P    XXXXXXXXXX
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                          8475
+
+     Teruggenomen                                                     8485
+
+     Verworven van derden                                             8495
+
+     Afgeboekt na overdrachten en buitengebruikstellingen             8505
+
+     Overgeboekt van een post naar een andere               (+)/(-)   8515
+
+                                                                      8525
+ Waardeverminderingen per einde van het boekjaar
+
+ Niet-opgevraagde bedragen per einde van het boekjaar                 8555P    XXXXXXXXXX
+
+ Mutaties tijdens het boekjaar                              (+)/(-)   8545                 603
+
+ Niet-opgevraagde bedragen per einde van het boekjaar                 8555                 603
+
+ NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR                           (28)                1.000
+
+
+
+
+                                                                                                           Page 9 of 11
+N°      0892290924                                                                                         MIC-VZW 6.5
+
+
+WAARDERINGSREGELS
+
+
+
+
+     De waarderingsregels worden opgesteld door de Raad van Bestuur van de vereniging en beantwoorden
+     aan de eisen van voorzichtigheid, oprechtheid en goede trouw. Er wordt rekening gehouden met de
+     beginselen van continuïteit, voorzichtigheid, bestendigheid, individuele waardering, en toekenning
+     van kosten en opbrengsten aan het jaar waarop deze betrekking hebben. De regels worden jaar na jaar
+     bestendig en stelselmatig toegepast. Zij hangen niet af van het resultaat van het boekjaar.
+     Afwijkingen worden in de toelichting van de jaarrekening vermeld en toegelicht.
+
+     Waarderingsregels afschrijvingen:
+
+     - algemeen: uitgangspunt van de waardering is de aanschaffingswaarde. Elk actiefbestanddeel wordt
+     gewaardeerd tegen aanschaffingswaarde en voor dat bedrag in de balans opgenomen onder aftrek van de
+     geboekte afschrijvingen, behalve indien de toepassing van deze waarderingsregel niet leidt tot een
+     waar en getrouw beeld, in welk geval hier kan worden van afgeweken. Onder aanschaffingswaarde wordt
+     verstaan aanschaffingsprijs, dewelke naast aankoopprijs ook bijkomende kosten kan bevatten, zoals
+     vervoerskosten, registratierechten, installatiekosten enz... Indien de aanschaffingswaarde niet
+     bekend is, vb. in geval van een gift in natura, dan wordt het goed geboekt tegen marktwaarde. Er
+     kan tot herwaardering van bepaalde vaste activa worden overgegaan indien de waarde van het actief
+     op vaststaande en duurzame wijze boven de boekwaarde uitstijgt. Indien een actief vaststaand en
+     duurzaam onder de boekwaarde belandt, dan mag worden overgegaan tot aanvullende of uitzonderlijke
+     afschrijving of tot waardevermindering.
+
+     - er wordt tot activering overgegaan vanaf een aankoopwaarde van 500 EUR. Indien verschillende
+     onderdelen van een groter geheel elk een kleinere waarde hebben dan 500 EUR, maar samen meer waarde
+     hebben dan dit grensbedrag, dan mogen zij gebundeld en op deze wijze alsnog geactiveerd worden (vb.
+     inrichting van een bureau met tafels, stoelen en kasten; aankoop van scherm, pc, printer en scanner
+     die samen één werkstation vormen enz...).
+
+     - ontwikkelkosten worden afgeschreven op 5 jaar
+     - IT wordt afgeschreven op 3 jaar
+     - installaties, machines en uitrusting op 5 jaar
+     - meubilair op 10 jaar
+
+     - alle afschrijvingen gebeuren lineair en op jaarbasis
+     - kapitaalsubsidies worden opgenomen in de opbrengsten tegen dezelfde snelheid als de investeringen
+     worden afgeschreven waaraan ze gelinkt zijn
+
+     Waarderingsregels vorderingen:
+
+     - op vorderingen worden waardeverminderingen toegepast, zo er voor het geheel of een gedeelte van
+     de vordering onzekerheid bestaat over de betaling hiervan op vervaldag. Op deze vorderingen mogen
+     eveneens waardeverminderingen worden toegepast wanneer hun realisatiewaarde op datum van de
+     jaarafsluiting lager is dan hun boekwaarde. Concreet worden bij het afsluiten van het boekjaar de
+     openstaande klantenfacturen en vorderingen op hun betaalbaarheid bekeken.
+
+     De waarderingsregels werden niet gewijzigd ten opzichte van het vorige boekjaar.
+
+
+
+
+                                                                                                             Page 10 of 11
+N°      0892290924                                                                  MIC-VZW 7
+
+
+                                       ANDERE OVEREENKOMSTIG HET WETBOEK VAN
+                                   VENNOOTSCHAPPEN EN VERENIGINGEN NEER TE LEGGEN
+                                                    DOCUMENTEN
+
+
+
+JAARVERSLAG
+
+
+
+
+     Micro vzw - niet van toepassing
+
+
+
+
+                                                                                    Page 11 of 11
+

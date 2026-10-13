@@ -40080,3 +40080,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@evacentrum.be — general mailbox verified on the official site https://evacentrum.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_eva_centrum_ekeren_vaph_matrix_9900_0_25m_9901_loss_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3724/; rq_3724=done; spawn **rq_3725**; ticks=3724.
 - Next: **rq_3725 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3725 — 2026-10-13T17:29:33Z — rq_3725 leftover dual Missing You Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Missing You** → KBO 0892.290.924 had 0 prior entity rows.
+- KBO: Actief since 12 september 2007; VZW; zetel Groot Begijnhof 85 9040 Gent; 1 VE; 0 prior entity rows for 0892.290.924
+- Found: official NBB MIC-VZW native PDF **2026-00082511** (43142 B / 11p; AV 26-03-2026; neergelegd 20/04/2026; MD5 bd5e62a2c0a1d01f734386aeaf363047). MIC-VZW 9900 **EUR241168** (+2.55%); 62 **EUR310546**; 9901 **EUR-73820** (was -4864); 9904 -73820; equity 47491; cash 56969; FTE n/a.
+- FOI address: info@missingyou.be — general mailbox verified on the official site https://missingyou.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_missing_you_gent_vaph_matrix_9900_0_24m_9901_loss_74k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3725/; rq_3725=done; spawn **rq_3726**; ticks=3725.
+- Next: **rq_3726 leftover dual** — Batch done (3716-3725); code 9900 rows from bounded KBO scan nscan9 (plus one nscan8 row), largest first; no qualifying code 733 filer (Médiathèque Nouvelle still unreachable). Next: a new bounded scan..
