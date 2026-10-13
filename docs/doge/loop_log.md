@@ -35890,3 +35890,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@arc-en-ciel.be — general mailbox verified on the official site https://www.arc-en-ciel.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_arc_en_ciel_watermael_vaph_matrix_9900_1_32m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3305/; rq_3305=done; spawn **rq_3306**; ticks=3305.
 - Next: **rq_3306 leftover dual** — Batch done; skipped (5-min cap / mailbox rule): Mediante (address not shown on its contact page), Solentra (only hospital-domain mailboxes), Belgische Federatie van Voedselbanken (no mailbox on its contact page), Brandwonden, FMJ and Financité (no mailbox found), EU-level bodies (European Cyclists Federation, Seas At Risk, European Social Network, Protection International), I.M. (no figure). Next: remaining 94.99x / 88.109 9900 rows, then other unscanned codes/regions.
+
+
+## Tick 3306 — 2026-10-13T05:17:38Z — rq_3306 leftover dual CIRÉ - Coordination et Initiatives pour Réfugiés et Étrangers Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.991 / 94.992 / 94.999 / 88.109 (1,750 legal persons not yet in the repo) and NACE 88.992 / 88.994 (401) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first; EU-level bodies excluded: **CIRÉ - Coordination et Initiatives pour Réfugiés et Étrangers** → KBO 0409.131.251 had 0 prior entity rows.
+- KBO: Actief since 21 december 1953; VZW; zetel Visvijverstraat 80-82 1050 Elsene; 1 VE; 0 prior entity rows for 0409.131.251
+- Found: official NBB VKT-VZW native PDF **2026-00181124** (150338 B / 19p; AV 21-05-2026; neergelegd 22/06/2026; MD5 9a907e9a3838f90a9725a23bf5b01e5c). VKT-VZW 9900 **EUR2361188** (+9.11%); 62 **EUR2268943**; 9901 **EUR30698** (was -33624); 9904 37397; equity 888937; cash 1134477; FTE 37 (was 37).
+- FOI address: cire@cire.be — general mailbox verified on the official site https://www.cire.be/contact/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cire_ixelles_vaph_matrix_9900_2_36m_9901_31k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3306/; rq_3306=done; spawn **rq_3307**; ticks=3306.
+- Next: **rq_3307 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
