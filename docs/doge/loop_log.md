@@ -38040,3 +38040,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3520 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3520 run locally as fallback.
 - Next: **rq_3520** — code 9900 (NOT subsidy amounts): Adoptiehuis (EUR0.813m), Mosaïque (EUR0.810m), De RuimteVaart (EUR0.792m), Centre de Santé du Miroir (EUR0.791m), Aide Enfants-Familles Brabant wallon (EUR0.790m); mailboxes verified on official sites, after the dedup check. Scans: old codes complete; NACE-BEL 2025 codes 85/400 pages.
+
+
+## Tick 3521 — 2026-10-13T12:14:40Z — rq_3520 leftover dual Adoptiehuis Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Adoptiehuis** → KBO 0420.405.225 had 0 prior entity rows.
+- KBO: Actief since 3 december 1979; VZW; zetel Osystraat 39 2060 Antwerpen; 1 VE; 0 prior entity rows for 0420.405.225
+- Found: official NBB VKT-VZW native PDF **2026-00395597** (49475 B / 13p; AV 27-04-2026; neergelegd 12/08/2026; MD5 739901c0b374c084f31b416e16f82bb3). VKT-VZW 9900 **EUR813336** (-2.50%); 62 **EUR845923**; 9901 **EUR-36766** (was 23395); 9904 -36061; equity 371846; cash 413632; FTE 10,7 (was 10,6).
+- FOI address: info@adoptiehuis.be — general mailbox verified on the official site https://adoptiehuis.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_adoptiehuis_antwerpen_vaph_matrix_9900_0_81m_9901_loss_37k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3521/; rq_3520=done; spawn **rq_3522**; ticks=3521.
+- Next: **rq_3522 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
