@@ -38410,3 +38410,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mmglobule.be — general mailbox shown on the official site https://mmglobule.be/contact.html (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_mm_globule_schaerbeek_vaph_matrix_9900_0_60m_9901_85k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3557/; rq_3557=done; spawn **rq_3558**; ticks=3557.
 - Next: **rq_3558 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3558 — 2026-10-13T14:11:15Z — rq_3558 leftover dual L'Ambulatoire - Forest Forest YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **L'Ambulatoire - Forest** → KBO 0456.686.490 had 0 prior entity rows.
+- KBO: Actief since 30 augustus 1995; VZW; zetel Alsembergse Steenweg 208 1190 Vorst; 1 VE; 0 prior entity rows for 0456.686.490
+- Found: official NBB VKT-VZW native PDF **2026-00169859** (52518 B / 15p; AV 09-06-2026; neergelegd 11/06/2026; MD5 4879020f7b6544c413ecec407072a697). VKT-VZW 9900 **EUR599270** (-0.12%); 62 **EUR584948**; 9901 **EUR2511** (was 6881); 9904 1761; equity 104668; cash 99959; FTE 8,3 (was 9,2).
+- FOI address: info@ambuforest.be — general mailbox verified on the official site https://www.ambuforest.be/contact/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ambulatoire_forest_vaph_matrix_9900_0_60m_9901_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3558/; rq_3558=done; spawn **rq_3559**; ticks=3558.
+- Next: **rq_3559 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
