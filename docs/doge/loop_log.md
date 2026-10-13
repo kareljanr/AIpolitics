@@ -36500,3 +36500,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: bdservices@crmgroup.be — role mailbox verified on the official site https://crmgroup.be/fr/contact/.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_crm_metallurgie_vaph_matrix_733_12_57m_9901_loss_76k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3366/; rq_3366=done; spawn **rq_3367**; ticks=3366.
 - Next: **rq_3367 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3367 — 2026-10-13T07:30:07Z — rq_3367 leftover dual Ecole royale militaire / Koninklijke Militaire School Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Ecole royale militaire / Koninklijke Militaire School** → KBO 0209.460.513 had 0 prior entity rows.
+- KBO: Actief since 1 januari 2004; VZW; zetel Renaissancelaan 30 1000 Brussel; 0 VE; 0 prior entity rows for 0209.460.513
+- Found: official NBB VOL-VZW native PDF **2026-00063965** (98597 B / 31p; AV 26-02-2026; neergelegd 27/03/2026; MD5 d03a50383a48e201e61f7ac540d480de). VOL-VZW 733 **EUR9758801** (+19.53%); 62 **EUR16332612**; 9901 **EUR-1130870** (was -1529808); 9904 -924739; equity 9897528; cash 12067119; FTE 188,4 (was 143,1).
+- FOI address: infoRMA@mil.be — general mailbox verified on the official site https://rma.ac.be/fr/Contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent mod_defensie); FOI **gap_ecole_royale_militaire_vaph_matrix_733_9_76m_9901_loss_1131k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3367/; rq_3367=done; spawn **rq_3368**; ticks=3367.
+- Next: **rq_3368 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
