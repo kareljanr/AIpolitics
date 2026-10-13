@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3540** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3530; 3531-3539 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3531-3539 residual dual L5 (not near-complete of 348bn):** CFIP · Service d’Interprétation des Sourds de Wallonie · Mediaraven · Association pour le Droit des Etrangers · Tumult · Vlaams Communicatie-Assistentie-Bureau voor Doven (CAB) · Netwerk Palliatieve Zorg De Mantel · StampMedia · Garance (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3123** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3178** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3531-3539** CFIP · Service d’Interprétation des Sourds de Wallonie · Mediaraven · Association pour le Droit des Etrangers · Tumult · Vlaams Communicatie-Assistentie-Bureau voor Doven (CAB) · Netwerk Palliatieve Zorg De Mantel · StampMedia · Garance.
+
+### Inventory (tick 3540)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 63705 |
+| commitments.csv | 7178 |
+| leaderboard.csv | 9296 |
+| entities.csv | 3196 |
+| sources.csv | 10467 |
+| FOI ready | 3123 |
+| FOI total rows | 3178 |
+| research_queue open | rq_3540 (carried; next: Kinderhuis Kakelbont, Villa Basta, Gekkoo, AMO Plan J, Samarcande AMO (code 9900 leftovers from the rebuilt NBB pool; old-code scan complete; NACE-BEL 2025 scan 150 of 400 pages finished; triage of all 3493 earlier keys complete + all 343 new keys from the 2025 scan, no code 733 rows); largest first) |
+
+### What improved since tick 3530
+
+- **New source (tick3531-3539):** CFIP · Service d’Interprétation des Sourds de Wallonie · Mediaraven · Association pour le Droit des Etrangers · Tumult · Vlaams Communicatie-Assistentie-Bureau voor Doven (CAB) · Netwerk Palliatieve Zorg De Mantel · StampMedia · Garance. All nine are code 9900 leftovers (NOT subsidy amounts), largest first; the code 733 pool from all earlier scans is used up (Médiathèque Nouvelle retried, site still unreachable). Scan status at tick 3540: the old-code scan is complete (85 runnable pages; 77 with results, 8 confirmed empty). The NACE-BEL 2025 replacement scan (covering the 355 pages whose 17 old NACE codes return HTTP 404 on KBO) has 150 of 400 pages finished, 12 jobs in parallel. Triage is complete for all 3493 earlier scan keys (1278 with a 2025 filing) and for all 343 new non-profit keys from the 2025-code pages; no code 733 rows found. Code 9900 picks come from the NBB pool rebuilt from the local cache (2115 rows, no code 733 filers). Tumult (tick 3535) description and funder label corrected at tick 3536 to what a source confirms (KBO NACE 94.991 youth work; funder not verified). EU-level and international bodies, umbrella bodies and federations, bodies without an own-domain general mailbox, address mismatches and duplicates excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3540 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3530** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

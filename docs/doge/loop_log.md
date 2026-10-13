@@ -38230,3 +38230,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@garance.be — general mailbox shown on the official site https://www.garance.be/activites-dans-les-ecoles/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_garance_bxl_vaph_matrix_9900_0_66m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3539/; rq_3539=done; spawn **rq_3540**; ticks=3539.
 - Next: **rq_3540 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3540 — 2026-10-13T12:36:06Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3123** of 3178 rows; inventory budgets 63705 · commitments 7178 · leaderboard 9296 · entities 3196 · sources 10467.
+- Top10: **stable** (3531-3539 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3531-3539: CFIP · Service d’Interprétation des Sourds de Wallonie · Mediaraven · Association pour le Droit des Etrangers · Tumult · Vlaams Communicatie-Assistentie-Bureau voor Doven (CAB) · Netwerk Palliatieve Zorg De Mantel · StampMedia · Garance.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3540 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3540 run locally as fallback.
+- Next: **rq_3540** — code 9900 (NOT subsidy amounts): Kinderhuis Kakelbont (EUR0.662m), Villa Basta (EUR0.654m), Gekkoo (EUR0.654m), AMO Plan J (EUR0.651m), Samarcande AMO (EUR0.647m); mailboxes verified on official sites, after the dedup check. Scans: old codes complete; NACE-BEL 2025 codes 150/400 pages; triage of all scan keys complete so far, no code 733 rows.
