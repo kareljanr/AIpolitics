@@ -35194,3 +35194,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: ulbsports@ulb.be — general mailbox verified on the official site https://www.ulbsports.eu/contactsinfos.aspx.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ecole_sports_ulb_vaph_matrix_9900_1_45m_9901_143k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3235/; rq_3235=done; spawn **rq_3236**; ticks=3235.
 - Next: **rq_3236 leftover dual** — Batch done; skipped: Police zone and CPAS Brussels (no NBB filing), Association Hospitalière entities and Bains de Bruxelles / Bruxelles enseignement (no verified general mailbox), Brufête (umbrella city mailbox), BME-Expositions/Cuisines Bruxelloises/Transit/Brigittines (no 2025-12 filing), Théâtre du Parc (June year end), Prosport/Peymey/Montagne magique/Amis HUDERF (mailbox not verifiable in 5 min); Flemish subsidy register and FWB cadastre unreachable from the runner; next: ASH 0443.559.917, Espace Magh, Musée Juif, BAPA BXL after a mailbox check.
+
+
+## Tick 3236 — 2026-10-13T02:31:42Z — rq_3236 leftover dual Centre culturel maghrébin - Espace Magh Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Largest recipients in the official City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025) not yet in the repo, cross-checked with the NBB filing: **Centre culturel maghrébin - Espace Magh** → KBO 0870.899.058 had 0 prior entity rows.
+- KBO: Actief since 30 december 2004; VZW; zetel Priemstraat 17 1000 Brussel; 1 VE; 0 prior entity rows for 0870.899.058
+- Found: official NBB VKT-VZW native PDF **2026-00282174** (49860 B / 14p; AV 10-07-2026; neergelegd 10/07/2026; MD5 29b42eae199b8336ff3c81dfb57f32bd). VKT-VZW 9900 **EUR779265** (+70.07%); 62 **EUR559285**; 9901 **EUR207692** (was -130576); 9904 205187; equity -48620; cash 63019; FTE 102,6 (was 8,5).
+- FOI address: info@espacemagh.be — general mailbox shown on the official Fédération Wallonie-Bruxelles page https://prof.cfwb.be/avantage/entree-gratuite-avec-un-groupe-scolaire (the body's own site needs JavaScript and could not be read); source disclosed.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_espace_magh_vaph_matrix_9900_0_78m_9901_208k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3236/; rq_3236=done; spawn **rq_3237**; ticks=3236.
+- Next: **rq_3237 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
