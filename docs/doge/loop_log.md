@@ -40930,3 +40930,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@rodea.be — general mailbox verified on the official site https://www.rodea.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_rodea_sint_genesius_rode_vaph_matrix_9900_3_81m_9901_244k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3809/; rq_3809=done; spawn **rq_3810**; ticks=3809.
 - Next: **rq_3810 leftover dual** — Partial batch (3805-3809); recipients from the Flemish Subsidieregister 2025_V01 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; file kept outside the repo), non-profit filers not yet in the data ranked by toegekend; amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest verstrekker cited per row. Skipped: Kazou and S-PLUS (mutualite-linked), De Vormers (trade-union training body), Bellenblaaz, Rosas, Solidariteit Antwerpen and Mirabello (no general mailbox or no address on own site), 4veld (mailbox on group domain), Flagey and Kind in Nood (site unreachable, retried once), Zeplin (branch mailbox only), KAAP (filing unparsed). Next: remaining Subsidieregister candidates (/workspace/subreg/cands.tsv)..
+
+
+## Tick 3810 — 2026-10-13T22:23:35Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3365** of 3421 rows; inventory budgets 65658 · commitments 7421 · leaderboard 9539 · entities 3439 · sources 11196.
+- Top10: **stable** (3801-3809 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3801-3809: De Spiegel · CKG Don Bosco · Sense Operations · Kunstencentrum De Studio - Villanella · Rebelle · Con Brio (Compaan) · Victor · Museum Dr. Guislain · Rodea.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3810 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3810 run locally as fallback.
+- Next: **rq_3810** — no candidate queued: continue the Flemish Subsidieregister candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
