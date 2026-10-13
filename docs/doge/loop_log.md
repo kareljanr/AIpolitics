@@ -35234,3 +35234,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@globearoma.be — general mailbox verified on the official site https://www.globearoma.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_globe_aroma_vaph_matrix_9900_0_47m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3239/; rq_3239=done; spawn **rq_3240**; ticks=3239.
 - Next: **rq_3240 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3240 — 2026-10-13T02:33:45Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2854** of 2909 rows; inventory budgets 61518 · commitments 6909 · leaderboard 9027 · entities 2927 · sources 9660.
+- Top10: **stable** (3231-3239 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3231-3239: Centre culturel Bruxelles Nord · Les Riches-Claires · Jeunesse à Bruxelles · MAD Brussels · Ecole de Sports de l'ULB · Espace Magh · Musée Juif de Belgique · BAPA BXL · Globe Aroma.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3240 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3240 run locally as fallback.
+- Next: **rq_3240** — City of Brussels 2025 register: Les Nouveaux Disparus (EUR80,000), GC Nekkersdal (EUR76,775), MET-X (EUR74,500), Beursschouwburg (EUR67,000), Kunstenfestivaldesarts (EUR60,000); mailboxes verified on official sites, after the dedup check.
