@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T22:54:18Z,rq_3846,3846,no,tick3846 leftover dual De Transformisten Elsene 0472.436.916 Strong PDF 2026-00325977 9900 0.33m / 9901 6k; next rq_3847 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T22:54:27Z,rq_3847,3847,no,tick3847 leftover dual Growfunding Brussel 0657.921.306 Strong PDF 2026-00317801 9900 0.54m / 9901 loss 61k; next rq_3848 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

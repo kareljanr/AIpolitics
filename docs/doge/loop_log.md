@@ -41300,3 +41300,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@detransformisten.be — general mailbox verified on the official site https://www.detransformisten.be/contact (same address and KBO number as the registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent sec_flanders); FOI **gap_de_transformisten_elsene_vaph_matrix_9900_0_33m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3846/; rq_3846=done; spawn **rq_3847**; ticks=3846.
 - Next: **rq_3847 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3847 — 2026-10-13T22:54:27Z — rq_3847 leftover dual Growfunding Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Growfunding** → KBO 0657.921.306 had 0 prior entity rows.
+- KBO: Actief since 1 juli 2016; VZW; zetel Olivetenhof 2 1000 Brussel; 1 VE; 0 prior entity rows for 0657.921.306
+- Found: official NBB VKT-VZW native PDF **2026-00317801** (43173 B / 11p; AV 26-03-2026; neergelegd 22/07/2026; MD5 72eef904ca288f6300d2d4b28d6dce44). VKT-VZW 9900 **EUR542611** (+1.74%); 62 **EUR472708**; 9901 **EUR-61427** (was -34438); 9904 -45971; equity 425236; cash 118025; FTE 6,6 (was 7,4).
+- FOI address: info@growfunding.be — general mailbox verified on the official site https://www.growfunding.be/nl/contact (same address and KBO number as the registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent sec_flanders); FOI **gap_growfunding_brussel_vaph_matrix_9900_0_54m_9901_loss_61k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3847/; rq_3847=done; spawn **rq_3848**; ticks=3847.
+- Next: **rq_3848 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
