@@ -40570,3 +40570,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@krasjeugdwerk.be — general mailbox verified on the official site https://www.krasjeugdwerk.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_kras_jeugdwerk_borgerhout_vaph_matrix_9900_4_01m_9901_27k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3773/; rq_3773=done; spawn **rq_3774**; ticks=3773.
 - Next: **rq_3774 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3774 — 2026-10-13T21:18:22Z — rq_3774 leftover dual Aditi Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Aditi** → KBO 0807.821.641 had 0 prior entity rows.
+- KBO: Actief since 22 september 2008; VZW; zetel Franklin Rooseveltplaats 12 bus 7 2060 Antwerpen; 1 VE; 0 prior entity rows for 0807.821.641
+- Found: official NBB MIC-VZW native PDF **2026-00159585** (32110 B / 6p; AV 28-05-2026; neergelegd 15/06/2026; MD5 ba64b3c7d5b8e8725a100433232fa3fb). MIC-VZW 9900 **EUR562995** (+7.03%); 62 **EUR533843**; 9901 **EUR19429** (was -21519); 9904 19403; equity 182201; cash 202526; FTE n/a.
+- FOI address: info@aditivzw.be — general mailbox verified on the official site https://www.aditivzw.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_aditi_antwerpen_vaph_matrix_9900_0_56m_9901_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3774/; rq_3774=done; spawn **rq_3775**; ticks=3774.
+- Next: **rq_3775 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
