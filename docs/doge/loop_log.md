@@ -35970,3 +35970,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@linxplus.be — general mailbox verified on the official site https://www.linxplus.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_linx_plus_brussel_vaph_matrix_9900_0_96m_9901_61k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3313/; rq_3313=done; spawn **rq_3314**; ticks=3313.
 - Next: **rq_3314 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3314 — 2026-10-13T05:19:56Z — rq_3314 leftover dual Familles d'Accueil (Verviers) Verviers YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.991 / 94.992 / 94.999 / 88.109 (1,750 legal persons not yet in the repo) and NACE 88.992 / 88.994 (401) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first; EU-level bodies excluded: **Familles d'Accueil (Verviers)** → KBO 0429.647.939 had 0 prior entity rows.
+- KBO: Actief since 27 maart 1984; VZW; zetel Rue de Bruxelles 35C 4800 Verviers; 1 VE; 0 prior entity rows for 0429.647.939
+- Found: official NBB VKT-VZW native PDF **2026-00116515** (39492 B / 9p; AV 23-04-2026; neergelegd 21/05/2026; MD5 8e1f7eb31982c9f3e72c8fc798e09c30). VKT-VZW 9900 **EUR829590** (+5.32%); 62 **EUR790974**; 9901 **EUR14542** (was -6027); 9904 14959; equity 230631; cash 199619; FTE 9,2 (was 9,2).
+- FOI address: secretariat@famillesaccueil.be — secretariat mailbox verified on the official site https://www.famillesaccueil.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_verviers); FOI **gap_familles_accueil_verviers_vaph_matrix_9900_0_83m_9901_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3314/; rq_3314=done; spawn **rq_3315**; ticks=3314.
+- Next: **rq_3315 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
