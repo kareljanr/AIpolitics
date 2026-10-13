@@ -38520,3 +38520,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: arlon@inforjeunesluxembourg.be — Arlon office mailbox verified on the official site https://inforjeunesluxembourg.be/fr/contact_6/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_infor_jeunes_luxembourg_arlon_vaph_matrix_9900_0_53m_9901_43k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3568/; rq_3568=done; spawn **rq_3569**; ticks=3568.
 - Next: **rq_3569 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3569 — 2026-10-13T15:08:27Z — rq_3569 leftover dual Maison Médicale Perspective Anderlecht YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Maison Médicale Perspective** → KBO 0808.816.979 had 0 prior entity rows.
+- KBO: Actief since 14 augustus 2008; VZW; zetel Alex. Pierrardstraat 3 1070 Anderlecht; 1 VE; 0 prior entity rows for 0808.816.979
+- Found: official NBB VKT-VZW native PDF **2026-00441915** (44852 B / 12p; AV 23-04-2026; neergelegd 28/08/2026; MD5 4d88dc17fe80c87ebc96df8b0db6a26b). VKT-VZW 9900 **EUR515607** (+21.08%); 62 **EUR495575**; 9901 **EUR-6338** (was -66182); 9904 -5363; equity 962163; cash 480077; FTE 5,7 (was 5,8).
+- FOI address: info@mmperspective.be — general mailbox verified on the official site https://mmperspective.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_mm_perspective_anderlecht_vaph_matrix_9900_0_52m_9901_loss_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3569/; rq_3569=done; spawn **rq_3570**; ticks=3569.
+- Next: **rq_3570 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
