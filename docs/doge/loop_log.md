@@ -38930,3 +38930,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: africalia@africalia.be — general mailbox verified on the official site https://www.africalia.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_africalia_bruxelles_vaph_matrix_9900_2_94m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3609/; rq_3609=done; spawn **rq_3610**; ticks=3609.
 - Next: **rq_3610 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3610 — 2026-10-13T15:47:06Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3186** of 3241 rows; inventory budgets 64213 · commitments 7241 · leaderboard 9359 · entities 3259 · sources 10656.
+- Top10: **stable** (3601-3609 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3601-3609: JAVVA · Walter werkt · Avanco Adventure · Maison Arc-en-Ciel de Namur · Havenwereld · COTA · JES · D'Broej · Africalia.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3610 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3610 run locally as fallback.
+- Next: **rq_3610** — code 9900 (NOT subsidy amounts): CBAI (EUR2.37m), Mpact (EUR1.38m), Créahm Région wallonne (EUR1.29m), Solidarcité (EUR0.99m), Brussels Ouderenplatform (EUR0.91m); mailboxes verified on official sites, after the dedup check. Source: new bounded KBO scan of NACE-BEL 2025 codes (7 codes finished); triage continues.
