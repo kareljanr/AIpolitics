@@ -40180,3 +40180,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@jacinthes.be — general mailbox verified on the official site https://www.jacinthes.site/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_les_jacinthes_braine_le_chateau_vaph_matrix_9900_1_26m_9901_loss_128k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3734/; rq_3734=done; spawn **rq_3735**; ticks=3734.
 - Next: **rq_3735 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3735 — 2026-10-13T18:42:44Z — rq_3735 leftover dual Intégration Sociale et Travail (Sésame) Arlon YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Intégration Sociale et Travail (Sésame)** → KBO 0407.845.012 had 0 prior entity rows.
+- KBO: Actief since 19 december 1967; VZW; zetel Rue de la Moselle 7-9 6700 Arlon; 9 VE; 0 prior entity rows for 0407.845.012
+- Found: official NBB MIC-VZW native PDF **2026-00491068** (52057 B / 13p; AV 22-05-2026; neergelegd 02/09/2026; MD5 e1b39c0b46fdbe156a51edcc526c5ada). MIC-VZW 9900 **EUR952924** (+26.55%); 62 **EUR658145**; 9901 **EUR259636** (was 61699); 9904 259718; equity 415161; cash 645707; FTE n/a.
+- FOI address: info@sesame-ist.be — general mailbox verified on the official site https://www.service-accompagnement.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_integration_sociale_et_travail_arlon_vaph_matrix_9900_0_95m_9901_260k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3735/; rq_3735=done; spawn **rq_3736**; ticks=3735.
+- Next: **rq_3736 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
