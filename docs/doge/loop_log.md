@@ -39370,3 +39370,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@boulotasbl.be — role mailbox verified on the official site https://boulotasbl.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_boulot_laeken_vaph_matrix_9900_1_11m_9901_39k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3653/; rq_3653=done; spawn **rq_3654**; ticks=3653.
 - Next: **rq_3654 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3654 — 2026-10-13T16:20:25Z — rq_3654 leftover dual Les Marmots Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Les Marmots** → KBO 0442.353.058 had 0 prior entity rows.
+- KBO: Actief since 28 februari 1990; VZW; zetel Rue Douffet 82 4020 Liège; 1 VE; 0 prior entity rows for 0442.353.058
+- Found: official NBB MIC-VZW native PDF **2026-00272370** (458719 B / 16p; AV 08-04-2026; neergelegd 09/07/2026; MD5 3360d0cd34d486bd8fa58a26c044eef4). MIC-VZW 9900 **EUR1008291** (+2.48%); 62 **EUR934354**; 9901 **EUR-26406** (was 4838); 9904 -2929; equity 473986; cash 25898; FTE n/a.
+- FOI address: contact@marmots.be — general mailbox verified on the official site https://www.marmots.be/contactus (the site lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_les_marmots_liege_vaph_matrix_9900_1_01m_9901_loss_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3654/; rq_3654=done; spawn **rq_3655**; ticks=3654.
+- Next: **rq_3655 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
