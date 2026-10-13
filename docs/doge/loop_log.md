@@ -37520,3 +37520,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@uitdemarge.be — general mailbox verified on the official site https://www.uitdemarge.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_uit_de_marge_antwerpen_vaph_matrix_9900_1_69m_9901_loss_227k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3468/; rq_3468=done; spawn **rq_3469**; ticks=3468.
 - Next: **rq_3469 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3469 — 2026-10-13T11:16:27Z — rq_3469 leftover dual WIELS Forest YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **WIELS** → KBO 0478.422.608 had 0 prior entity rows.
+- KBO: Actief since 8 juli 2002; VZW; zetel Van Volxemlaan 354 1190 Vorst; 1 VE; 0 prior entity rows for 0478.422.608
+- Found: official NBB VKT-VZW native PDF **2026-00128936** (521821 B / 26p; AV 11-05-2026; neergelegd 01/06/2026; MD5 9d608a9db3145382198c3bf741b2fdb5). VKT-VZW 9900 **EUR1611702** (-18.50%); 62 **EUR1265928**; 9901 **EUR-255032** (was -33758); 9904 -290755; equity -463319; cash 365236; FTE 21,8 (was 23).
+- FOI address: welcome@wiels.org — general mailbox verified on the official site https://www.wiels.org/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_wiels_vorst_vaph_matrix_9900_1_61m_9901_loss_255k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3469/; rq_3469=done; spawn **rq_3470**; ticks=3469.
+- Next: **rq_3470 leftover dual** — Batch done; code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: Aide et Reclassement, Médiante, Maison de Quartier d’Helmet, Reliance, Atlantis (code 9900), and triage of the fresh 22-family scan for code 733 filers as pages finish..
