@@ -35564,3 +35564,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@petitapetit.group — general mailbox verified on the official site https://www.huy.be/petit-a-petit/accueil (the ASBL site, which gives the same registered seat as KBO).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_creche_petit_a_petit_huy_vaph_matrix_9900_3_12m_9901_38k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3272/; rq_3272=done; spawn **rq_3273**; ticks=3272.
 - Next: **rq_3273 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3273 — 2026-10-13T04:06:05Z — rq_3273 leftover dual Stations de Plein Air Madeleine Melot (SDPA Namur) Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used: NACE 88.911 / 88.991 (childcare and day-care without accommodation) over Walloon, Brussels and Flemish postcodes (912 legal persons not yet in the repo, 418 triaged), plus remaining NACE 88.999 / 88.101 / 85.599 rows; code 733 rows first, then code 9900, largest first: **Stations de Plein Air Madeleine Melot (SDPA Namur)** → KBO 0410.333.655 had 0 prior entity rows.
+- KBO: Actief since 4 augustus 1937; VZW; zetel Avenue Baron Fallon(NR) 34 5000 Namur; 3 VE; 0 prior entity rows for 0410.333.655
+- Found: official NBB VKT-VZW native PDF **2026-00133062** (507588 B / 19p; AV 18-05-2026; neergelegd 29/05/2026; MD5 0809338288e3ca46cb97b3089a8e2035). VKT-VZW 9900 **EUR2819217** (-6.51%); 62 **EUR2623534**; 9901 **EUR-29076** (was 67306); 9904 -10218; equity 2309277; cash 1191727; FTE 39 (was 39).
+- FOI address: info@sdpa.be — general mailbox verified on the official site https://www.sdpa-namur.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_stations_plein_air_melot_namur_vaph_matrix_9900_2_82m_9901_loss_29k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3273/; rq_3273=done; spawn **rq_3274**; ticks=3273.
+- Next: **rq_3274 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
