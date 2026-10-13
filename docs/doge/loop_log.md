@@ -35034,3 +35034,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: services@apemt21.org — general mailbox verified on the official site https://www.apemt21.org/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_verviers); FOI **gap_apem_t21_verviers_vaph_matrix_9900_5_11m_9901_35k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3219/; rq_3219=done; spawn **rq_3220**; ticks=3219.
 - Next: **rq_3220 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3220 — 2026-10-13T02:12:42Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2836** of 2891 rows; inventory budgets 61372 · commitments 6891 · leaderboard 9009 · entities 2909 · sources 9606.
+- Top10: **stable** (3211-3219 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3211-3219: SSM Forest-Uccle-Watermael · SMES-B · Delta Tienen · SSM Le Méridien · VK Vlaams-Brabant · ASBL Saint-Michel Spa · Centre Mutien-Marie Florennes · V3-Manupal Ciney · Services de l'APEM-T21 Verviers.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3220 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3220 run locally as fallback.
+- Next: **rq_3220** — Le CHAF (code 9900 EUR3.86m), La Thiérache (EUR2.15m), APN Nivelles (EUR1.67m), La Sève (EUR1.55m), Les Grillons (EUR1.43m); mailboxes verified on official sites, after the dedup check.

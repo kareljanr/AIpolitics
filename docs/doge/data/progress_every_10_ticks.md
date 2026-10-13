@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 3220** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3210; 3211-3219 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3211-3219 residual dual L5 (not near-complete of 348bn):** SSM Forest-Uccle-Watermael · SMES-B · Delta Tienen · SSM Le Méridien · VK Vlaams-Brabant · ASBL Saint-Michel Spa · Centre Mutien-Marie Florennes · V3-Manupal Ciney · Services de l'APEM-T21 Verviers (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2836** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2891** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3211-3219** SSM Forest-Uccle-Watermael · SMES-B · Delta Tienen · SSM Le Méridien · VK Vlaams-Brabant · ASBL Saint-Michel Spa · Centre Mutien-Marie Florennes · V3-Manupal Ciney · Services de l'APEM-T21 Verviers.
+
+### Inventory (tick 3220)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 61372 |
+| commitments.csv | 6891 |
+| leaderboard.csv | 9009 |
+| entities.csv | 2909 |
+| sources.csv | 9606 |
+| FOI ready | 2836 |
+| FOI total rows | 2891 |
+| research_queue open | rq_3220 (carried; next: Le CHAF Farciennes, ETA La Thiérache, ETA APN Nivelles, La Sève Herve, Les Grillons Chaudfontaine (code 9900); largest first) |
+
+### What improved since tick 3210
+
+- **New source (tick3211-3219):** SSM Forest-Uccle-Watermael · SMES-B · Delta Tienen · SSM Le Méridien · VK Vlaams-Brabant · ASBL Saint-Michel Spa · Centre Mutien-Marie Florennes · V3-Manupal Ciney · Services de l'APEM-T21 Verviers. 3211-3215 finished the mental-health / youth-care list (code 9900). 3216+ comes from a KBO activity-code scan: NACE 88.993 (sheltered and social workplaces) over every Walloon and Brussels postcode (103 legal persons, 40 not yet in the repo), plus NACE 88.103 / 87.203 over Flemish postcodes (27 new, none with a large code 733 filing). Code 733 rows first (Saint-Michel Spa, Mutien-Marie, V3-Manupal), then code 9900.
+- **FOI addresses:** general or role mailboxes verified on each body's own official site.
+- **Runner note:** 2576-3220 ran on the local fallback runner; GitHub Actions status not re-checked (GitHub CLI on the box not signed in). Do not run both at once.
+- **Rejected 3211-3219 (fast, ~5 min cap):** Emeraude Nivelles (EUR3.34m, Wix page), La Boulaie Chimay (EUR2.48m, no official site found), CEJIEL Liège (EUR1.60m): no general mailbox verifiable on an official page.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3210** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
