@@ -39170,3 +39170,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@karavaan.be — general mailbox verified on the official site https://www.karavaan.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_karavaan_mechelen_vaph_matrix_9900_0_66m_9901_24k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3633/; rq_3633=done; spawn **rq_3634**; ticks=3633.
 - Next: **rq_3634 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3634 — 2026-10-13T15:58:47Z — rq_3634 leftover dual Centre Liégeois d'Intervention Familiale (CLIF) Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre Liégeois d'Intervention Familiale (CLIF)** → KBO 0429.864.012 had 0 prior entity rows.
+- KBO: Actief since 24 april 1984; VZW; zetel Rue du Plan-Incliné 107 4000 Liège; 1 VE; 0 prior entity rows for 0429.864.012
+- Found: official NBB MIC-VZW native PDF **2026-00301857** (35645 B / 8p; AV 20-05-2026; neergelegd 13/07/2026; MD5 a7e19a62e7c3fb27b2d6cd999b5903c7). MIC-VZW 9900 **EUR649647** (+4.44%); 62 **EUR619901**; 9901 **EUR14179** (was 6499); 9904 11549; equity 106854; cash 325694; FTE n/a.
+- FOI address: info@clif.be — general mailbox verified on the official site https://www.clif.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_clif_liege_vaph_matrix_9900_0_65m_9901_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3634/; rq_3634=done; spawn **rq_3635**; ticks=3634.
+- Next: **rq_3635 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
