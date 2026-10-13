@@ -38270,3 +38270,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@gekkoo.be — general mailbox verified on the official site https://gekkoo.be/gekkoo/contact (privacy statement on the site lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_gekkoo_antwerpen_vaph_matrix_9900_0_65m_9901_loss_340k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3543/; rq_3543=done; spawn **rq_3544**; ticks=3543.
 - Next: **rq_3544 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3544 — 2026-10-13T12:36:43Z — rq_3544 leftover dual AMO Plan J (Action en Milieu Ouvert) Tubize YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **AMO Plan J (Action en Milieu Ouvert)** → KBO 0456.483.879 had 0 prior entity rows.
+- KBO: Actief since 14 juli 1995; VZW; zetel Rue Ferrer 24 1480 Tubize; 1 VE; 0 prior entity rows for 0456.483.879
+- Found: official NBB VKT-VZW native PDF **2026-00394411** (44361 B / 10p; AV 26-05-2026; neergelegd 12/08/2026; MD5 4387bdd31146e331225724d57bb5b243). VKT-VZW 9900 **EUR650581** (+14.73%); 62 **EUR593982**; 9901 **EUR49370** (was 11151); 9904 53772; equity 303100; cash 315431; FTE n/a.
+- FOI address: info@planj.be — general mailbox verified on the official site https://www.planj.be/l-equipe (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_amo_plan_j_tubize_vaph_matrix_9900_0_65m_9901_49k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3544/; rq_3544=done; spawn **rq_3545**; ticks=3544.
+- Next: **rq_3545 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
