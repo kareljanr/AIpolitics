@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 3170** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3160; 3161-3169 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3161-3169 residual dual L5 (not near-complete of 348bn):** Institut des Filles de Marie (Saint-Gilles) · Collège Notre-Dame de Bonne-Espérance (Estinnes) · KdG Hogeschool (Antwerpen) · Godinne-Burnot (Yvoir) · Institut Saint-Joseph (Florennes) · FUNOC (Charleroi) · IMP La Providence (Etalle) · COF (Amay) · Lire et Ecrire Communauté française (Anderlecht) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2792** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2846** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3161-3169** Institut des Filles de Marie (Saint-Gilles) · Collège Notre-Dame de Bonne-Espérance (Estinnes) · KdG Hogeschool (Antwerpen) · Godinne-Burnot (Yvoir) · Institut Saint-Joseph (Florennes) · FUNOC (Charleroi) · IMP La Providence (Etalle) · COF (Amay) · Lire et Ecrire Communauté française (Anderlecht).
+
+### Inventory (tick 3170)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 60986 |
+| commitments.csv | 6846 |
+| leaderboard.csv | 8964 |
+| entities.csv | 2864 |
+| sources.csv | 9471 |
+| FOI ready | 2792 |
+| FOI total rows | 2846 |
+| research_queue open | rq_3170 (carried; next: LUCA School of Arts, Lire et Ecrire Luxembourg, Liège-Huy-Waremme, Namur, Charleroi Sud Hainaut; largest first) |
+
+### What improved since tick 3160
+
+- **New source (tick3161-3169):** Institut des Filles de Marie (Saint-Gilles) · Collège Notre-Dame de Bonne-Espérance (Estinnes) · KdG Hogeschool (Antwerpen) · Godinne-Burnot (Yvoir) · Institut Saint-Joseph (Florennes) · FUNOC (Charleroi) · IMP La Providence (Etalle) · COF (Amay) · Lire et Ecrire Communauté française (Anderlecht). Finished the catholic school-PO list, then ran fresh KBO name searches (ASBL/VZW: Université/Universiteit, Hogeschool, Enseignement spécialisé/Buitengewoon onderwijs, Médico-pédagogique, CISP, Lire et Ecrire, Mission régionale, Centre de formation; ~570 new KBO numbers triaged). Few large full-model filers remain; abbreviated-model rows are labelled code 9900 gross margin (not a subsidy amount). All picks passed the dedup check.
+- **Toolkit:** data.py: FR voluntary profiles for CISP training centres, Lire et Ecrire literacy ASBLs and AVIQ medico-pedagogical institutes.
+- **FOI addresses:** all 9 mailboxes are general/role mailboxes verified on opened official pages.
+- **Runner note:** 2576-3170 ran on the local fallback runner; GitHub Actions DOGE loop: last run (#6, 2026-10-12 21:20 Brussels time) failed at its Tick step (Grok CLI not signed in); no newer run. Do not run both at once.
+- **Rejected 3161-3169 (fast, ~5 min cap):** special-needs school POs IES Tournai (EUR23.50m), Les Castors Ans (EUR20.03m), IES Borinage (EUR15.10m), Reumonjoie Malonne (EUR11.29m) - no own general mailbox readable on official pages; Odisee, Centres spécialisés du Hainaut, CF2M, MIREWAPI (same).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3160** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

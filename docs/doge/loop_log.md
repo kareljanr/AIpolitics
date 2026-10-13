@@ -34532,3 +34532,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: lire-et-ecrire@lire-et-ecrire.be — general mailbox verified on official contact page https://lire-et-ecrire.be/Contacts-Lire-et-Ecrire-Communaute-francaise.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_anderlecht); FOI **gap_lee_communaute_francaise_vaph_matrix_9900_3_96m_9901_loss_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3169/; rq_3169=done; spawn **rq_3170**; ticks=3169.
 - Next: **rq_3170 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3170 — 2026-10-13T00:38:46Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2792** of 2846 rows; inventory budgets 60986 · commitments 6846 · leaderboard 8964 · entities 2864 · sources 9471.
+- Top10: **stable** (3161-3169 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3161-3169: Institut des Filles de Marie (Saint-Gilles) · Collège Notre-Dame de Bonne-Espérance (Estinnes) · KdG Hogeschool (Antwerpen) · Godinne-Burnot (Yvoir) · Institut Saint-Joseph (Florennes) · FUNOC (Charleroi) · IMP La Providence (Etalle) · COF (Amay) · Lire et Ecrire Communauté française (Anderlecht).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3170 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3170 run locally as fallback.
+- Next: **rq_3170** — LUCA School of Arts (code 733 EUR2.83m; Dutch voluntary draft), Lire et Ecrire Luxembourg (code 9900 EUR2.08m), Liège-Huy-Waremme (EUR1.81m), Namur (EUR1.23m), Charleroi Sud Hainaut (EUR1.12m), all mailboxes verified, after the dedup check.
