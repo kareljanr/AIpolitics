@@ -38080,3 +38080,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: equipe@centresantemiroir.be — general (team) mailbox verified on the official site https://www.centresantemiroir.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_centre_sante_miroir_bruxelles_vaph_matrix_9900_0_79m_9901_loss_64k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3524/; rq_3524=done; spawn **rq_3525**; ticks=3524.
 - Next: **rq_3525 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3525 — 2026-10-13T12:15:16Z — rq_3525 leftover dual Aide Enfants-Familles Brabant wallon (SOS Enfants BW) Genappe YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Aide Enfants-Familles Brabant wallon (SOS Enfants BW)** → KBO 0871.178.378 had 0 prior entity rows.
+- KBO: Actief since 13 januari 2005; VZW; zetel Chaussée de Charleroi 4 1471 Genappe; 1 VE; 0 prior entity rows for 0871.178.378
+- Found: official NBB VKT-VZW native PDF **2026-00389945** (52025 B / 14p; AV 18-06-2026; neergelegd 10/08/2026; MD5 896475c7ea64f4f2a96b5292e980f06a). VKT-VZW 9900 **EUR790022** (+9.68%); 62 **EUR760728**; 9901 **EUR2462** (was -29732); 9904 -3379; equity -2160; cash 82132; FTE 10,5 (was 9,3).
+- FOI address: info@sosenfantsbw.be — general mailbox verified on the official site https://www.sosenfantsbw.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_aide_enfants_familles_bw_genappe_vaph_matrix_9900_0_79m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3525/; rq_3525=done; spawn **rq_3526**; ticks=3525.
+- Next: **rq_3526 leftover dual** — Batch done (3516-3525); code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (remaining 82.300 / 93.29x pages and the 20 NACE-BEL 2025 replacement codes still scanning), then further code 9900 leftovers from the cached NBB pool, largest first..
