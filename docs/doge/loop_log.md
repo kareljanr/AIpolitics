@@ -40380,3 +40380,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: resad.asbl@resad.be — general mailbox verified on the official site https://resad.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_resad_ixelles_vaph_matrix_9900_0_69m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3754/; rq_3754=done; spawn **rq_3755**; ticks=3754.
 - Next: **rq_3755 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3755 — 2026-10-13T19:23:42Z — rq_3755 leftover dual Centre Bruxellois de Promotion de la Santé Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre Bruxellois de Promotion de la Santé** → KBO 0463.656.238 had 0 prior entity rows.
+- KBO: Actief since 24 april 1998; VZW; zetel Jourdanstraat 151 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0463.656.238
+- Found: official NBB VKT-VZW native PDF **2026-00276961** (315420 B / 23p; AV 05-06-2026; neergelegd 08/07/2026; MD5 5c03941ffe3e68ad56762723b6e4c503). VKT-VZW 9900 **EUR648632** (n/a); 62 **EUR577012**; 9901 **EUR70201** (was 0); 9904 70031; equity 140388; cash 118608; FTE 7,2.
+- FOI address: info@cbps.be — general mailbox verified on the official site https://www.cbps.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cbps_saint_gilles_vaph_matrix_9900_0_65m_9901_70k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3755/; rq_3755=done; spawn **rq_3756**; ticks=3755.
+- Next: **rq_3756 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
