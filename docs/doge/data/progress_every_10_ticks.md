@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3430** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3420; 3421-3429 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3421-3429 residual dual L5 (not near-complete of 348bn):** OXYJeunes · Kavka · Habitat et Participation · Compagnons Bâtisseurs · Dranoeter · Les Grignoux · Centrum voor Jeugdtoerisme · Service Média-Animation · Centre d'Action Laïque (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3024** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3079** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3421-3429** OXYJeunes · Kavka · Habitat et Participation · Compagnons Bâtisseurs · Dranoeter · Les Grignoux · Centrum voor Jeugdtoerisme · Service Média-Animation · Centre d'Action Laïque.
+
+### Inventory (tick 3430)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 62913 |
+| commitments.csv | 7079 |
+| leaderboard.csv | 9197 |
+| entities.csv | 3097 |
+| sources.csv | 10170 |
+| FOI ready | 3024 |
+| FOI total rows | 3079 |
+| research_queue open | rq_3430 (carried; next: Boukè, Transkript, De Barkentijn, dOT, Caméra-etc (code 9900 leftovers; new-family scan 321 of 344 resumed pages finished, 23 still running); largest first) |
+
+### What improved since tick 3420
+
+- **New source (tick3421-3429):** OXYJeunes · Kavka · Habitat et Participation · Compagnons Bâtisseurs · Dranoeter · Les Grignoux · Centrum voor Jeugdtoerisme · Service Média-Animation · Centre d'Action Laïque. 3421-3425 are code 9900 leftovers; 3426-3429 come from newly finished 59.1x (film/audiovisual), 58.1x (publishing) and 94.xxx scan pages: 3426 is a code 733 filer, 3427-3429 are code 9900 leftovers (NOT subsidy amounts), largest first. Scan status: the new-family scan is NOT complete — 321 of the 344 resumed pages had finished at tick 3430 and 23 were still running. EU-level and international bodies and duplicates excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3430 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3420** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

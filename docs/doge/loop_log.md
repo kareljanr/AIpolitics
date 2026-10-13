@@ -37130,3 +37130,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@laicite.be — general mailbox verified on the official site https://www.laicite.be/contact/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_centre_d_action_laique_vaph_matrix_9900_2_33m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3429/; rq_3429=done; spawn **rq_3430**; ticks=3429.
 - Next: **rq_3430 leftover dual** — Batch done; the finished scan pages gave no further usable code 733 rows (Vlaamse Jeugdherbergen code 733 line blank), so all nine are code 9900 leftovers. Next: Médiathèque Nouvelle (code 733, site still unreachable), the still-running 88.91x / 94.xxx / 55.20x / 52.2x / 59.1x / 58.1x scan pages, then SONEFA / Crèches de Schaerbeek (code 733, no own-site mailbox yet)..
+
+
+## Tick 3430 — 2026-10-13T09:41:24Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3024** of 3079 rows; inventory budgets 62913 · commitments 7079 · leaderboard 9197 · entities 3097 · sources 10170.
+- Top10: **stable** (3421-3429 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3421-3429: OXYJeunes · Kavka · Habitat et Participation · Compagnons Bâtisseurs · Dranoeter · Les Grignoux · Centrum voor Jeugdtoerisme · Service Média-Animation · Centre d'Action Laïque.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3430 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3430 run locally as fallback.
+- Next: **rq_3430** — code 9900 (NOT subsidy amounts): Boukè (EUR3.26m), Transkript (EUR1.98m), De Barkentijn (EUR1.67m), dOT (EUR1.47m), Caméra-etc (EUR0.78m); mailboxes verified on official sites, after the dedup check. New-family scan: 321 of 344 resumed pages finished, 23 still running.
