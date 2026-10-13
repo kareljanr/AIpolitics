@@ -37340,3 +37340,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3450 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3450 run locally as fallback.
 - Next: **rq_3450** — code 9900 (NOT subsidy amounts): Centre culturel de Dinant (EUR2.16m), Crechendo (EUR1.27m), FMJ (EUR1.23m), Convivence (EUR1.03m), Atelier Graphoui (EUR0.40m); mailboxes verified on official sites, after the dedup check. Fresh scan of 22 new NACE families still running (61 of 440 pages done; no code 733 rows yet).
+
+
+## Tick 3451 — 2026-10-13T11:00:13Z — rq_3450 leftover dual Centre culturel de Dinant Dinant YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre culturel de Dinant** → KBO 0412.587.916 had 0 prior entity rows.
+- KBO:  since ; VZW; zetel ;  VE; 0 prior entity rows for 0412.587.916
+- Found: official NBB VKT-VZW native PDF **2026-00255402** (558475 B / 31p; AV 11-06-2026; neergelegd 06/07/2026; MD5 0d354898a873f39c4b43deed7aa6a0e0). VKT-VZW 9900 **EUR2157966** (+1.56%); 62 **EUR1941268**; 9901 **EUR125040** (was 120811); 9904 116006; equity 712373; cash 408052; FTE 25,8 (was 25,7).
+- FOI address: info@ccdinant.be — general mailbox verified on the official site https://www.ccdinant.be/contact (same address as the filed seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_centre_culturel_dinant_vaph_matrix_9900_2_16m_9901_125k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3451/; rq_3450=done; spawn **rq_3452**; ticks=3451.
+- Next: **rq_3452 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
