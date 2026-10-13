@@ -39070,3 +39070,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@badje.be — general mailbox verified on the official site https://www.badje.be/a-propos-de-badje/contacts/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_badje_saint_gilles_vaph_matrix_9900_0_87m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3623/; rq_3623=done; spawn **rq_3624**; ticks=3623.
 - Next: **rq_3624 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3624 — 2026-10-13T15:52:42Z — rq_3624 leftover dual Bond zonder Naam Sociaal Cultureel Werk Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Bond zonder Naam Sociaal Cultureel Werk** → KBO 0469.514.642 had 0 prior entity rows.
+- KBO: Actief since 15 september 1999; VZW; zetel Lange Leemstraat 372D 2018 Antwerpen; 1 VE; 0 prior entity rows for 0469.514.642
+- Found: official NBB VKT-VZW native PDF **2026-00065816** (58705 B / 17p; AV 24-03-2026; neergelegd 25/03/2026; MD5 d7d83094d722516fbbc9ed0debd8e268). VKT-VZW 9900 **EUR819376** (-21.00%); 62 **EUR980060**; 9901 **EUR-212566** (was 52230); 9904 -168333; equity 3442711; cash 2300069; FTE 10,7 (was 9,9).
+- FOI address: welkom@bzn.be — general mailbox verified on the official site https://www.bzn.be/nl/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_bond_zonder_naam_scw_antwerpen_vaph_matrix_9900_0_82m_9901_loss_213k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3624/; rq_3624=done; spawn **rq_3625**; ticks=3624.
+- Next: **rq_3625 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
