@@ -36550,3 +36550,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@egmontinstitute.be — general mailbox verified on the official site https://www.egmontinstitute.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_egmont_institute_vaph_matrix_9900_1_71m_9901_loss_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3371/; rq_3370=done; spawn **rq_3372**; ticks=3371.
 - Next: **rq_3372 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3372 — 2026-10-13T07:31:16Z — rq_3372 leftover dual Praktijkpunt Landbouw Vlaams-Brabant Herent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Praktijkpunt Landbouw Vlaams-Brabant** → KBO 0413.845.055 had 0 prior entity rows.
+- KBO: Actief since 4 december 1973; VZW; zetel Blauwe Stap 25 3020 Herent; 1 VE; 0 prior entity rows for 0413.845.055
+- Found: official NBB VKT-VZW native PDF **2026-00092266** (3573575 B / 27p; AV 27-04-2026; neergelegd 29/04/2026; MD5 c1a926f8fede12543c26b9d589dd3913). VKT-VZW 9900 **EUR1607000** (-3.51%); 62 **EUR1609011**; 9901 **EUR-219238** (was -29634); 9904 -38951; equity 4610719; cash 1826537; FTE 22,9 (was 21,8).
+- FOI address: info@praktijkpuntlandbouw.be — general mailbox verified on the official site https://praktijkpuntlandbouw.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_praktijkpunt_landbouw_vb_vaph_matrix_9900_1_61m_9901_loss_219k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3372/; rq_3372=done; spawn **rq_3373**; ticks=3372.
+- Next: **rq_3373 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
