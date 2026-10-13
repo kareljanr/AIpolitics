@@ -35940,3 +35940,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3310 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3310 run locally as fallback.
 - Next: **rq_3310** — NACE 94.99x / 88.99x scans (code 9900, NOT subsidy amounts): SOS Enfants Liège (EUR1.12m), Jeunesses Scientifiques (EUR1.10m), Linx+ (EUR0.96m), Familles d'Accueil Verviers (EUR0.83m), Opération Faim et Froid (EUR0.80m); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3311 — 2026-10-13T05:19:39Z — rq_3310 leftover dual SOS Enfants - Aide et Prévention (Liège) Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.991 / 94.992 / 94.999 / 88.109 (1,750 legal persons not yet in the repo) and NACE 88.992 / 88.994 (401) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first; EU-level bodies excluded: **SOS Enfants - Aide et Prévention (Liège)** → KBO 0443.419.266 had 0 prior entity rows.
+- KBO: Actief since 26 september 1990; VZW; zetel Rue de la Liberté 56 4020 Liège; 1 VE; 0 prior entity rows for 0443.419.266
+- Found: official NBB VKT-VZW native PDF **2026-00305413** (67563 B / 18p; AV 02-06-2026; neergelegd 17/07/2026; MD5 4f98d8b82c45797c7eebdb406675796f). VKT-VZW 9900 **EUR1115851** (+7.84%); 62 **EUR1090699**; 9901 **EUR15899** (was 36488); 9904 17993; equity 214035; cash 217672; FTE 14,8.
+- FOI address: info@sos-enfants-liege.be — general mailbox verified on the official site http://sos-enfants-liege.be/index.php/emploi (the home page gives the KBO registered seat address).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_sos_enfants_liege_vaph_matrix_9900_1_12m_9901_16k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3311/; rq_3310=done; spawn **rq_3312**; ticks=3311.
+- Next: **rq_3312 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
