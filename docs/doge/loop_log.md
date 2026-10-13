@@ -40170,3 +40170,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@circomedie.be — general mailbox verified on the official site https://www.circomedie.be/contact.php (site shows the same KBO number and registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_circomedie_fleurus_vaph_matrix_9900_0_73m_9901_78k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3733/; rq_3733=done; spawn **rq_3734**; ticks=3733.
 - Next: **rq_3734 leftover dual** — Batch done (3733); code 9900 row from bounded KBO scan nscan11 (88101/87xxx/85xxx), largest first; no code 733 filer found; candidates ran dry; Médiathèque Nouvelle still unreachable. Next: a new bounded scan..
+
+
+## Tick 3734 — 2026-10-13T18:42:34Z — rq_3734 leftover dual Les Jacinthes Wauthier-Braine YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Les Jacinthes** → KBO 0419.663.867 had 0 prior entity rows.
+- KBO: Actief since 3 juli 1979; VZW; zetel Chemin de Colipain(W-B) 11 1440 Braine-le-Château; 1 VE; 0 prior entity rows for 0419.663.867
+- Found: official NBB VKT-VZW native PDF **2026-00122070** (566509 B / 15p; AV 14-04-2026; neergelegd 27/05/2026; MD5 77699250f75cbe69501181e169b7eccb). VKT-VZW 9900 **EUR1261146** (+4.79%); 62 **EUR1247929**; 9901 **EUR-128201** (was 27540); 9904 -31047; equity 2831453; cash 153027; FTE 18 (was 16,7).
+- FOI address: contact@jacinthes.be — general mailbox verified on the official site https://www.jacinthes.site/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_les_jacinthes_braine_le_chateau_vaph_matrix_9900_1_26m_9901_loss_128k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3734/; rq_3734=done; spawn **rq_3735**; ticks=3734.
+- Next: **rq_3735 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
