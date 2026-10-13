@@ -39330,3 +39330,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@promemploi.be — general mailbox verified on the official site http://www.promemploi.be/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_promemploi_arlon_vaph_matrix_9900_1_54m_9901_loss_94k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3649/; rq_3649=done; spawn **rq_3650**; ticks=3649.
 - Next: **rq_3650 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3650 — 2026-10-13T16:19:54Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3222** of 3277 rows; inventory budgets 64502 · commitments 7277 · leaderboard 9395 · entities 3295 · sources 10764.
+- Top10: **stable** (3641-3649 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3641-3649: CMGV · AJILE · Kind en Samenleving · Poëziecentrum · Le Fil · Centre familial de Verviers · COALA · alin · Promemploi.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3650 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3650 run locally as fallback.
+- Next: **rq_3650** — code 9900 (NOT subsidy amounts): Internationaal Comité (EUR1.34m), MIREV (EUR1.15m), Boulot (EUR1.11m), Les Marmots (EUR1.01m, micro filing), Dynamo AMO (EUR0.84m); mailboxes verified on official sites, after the dedup check. Source: new bounded KBO scan (nscan4).

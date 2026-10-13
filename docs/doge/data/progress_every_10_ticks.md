@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3650** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3640; 3641-3649 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3641-3649 residual dual L5 (not near-complete of 348bn):** CMGV · AJILE · Kind en Samenleving · Poëziecentrum · Le Fil · Centre familial de Verviers · COALA · alin · Promemploi (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3222** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3277** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3641-3649** CMGV · AJILE · Kind en Samenleving · Poëziecentrum · Le Fil · Centre familial de Verviers · COALA · alin · Promemploi.
+
+### Inventory (tick 3650)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 64502 |
+| commitments.csv | 7277 |
+| leaderboard.csv | 9395 |
+| entities.csv | 3295 |
+| sources.csv | 10764 |
+| FOI ready | 3222 |
+| FOI total rows | 3277 |
+| research_queue open | rq_3650 (carried; next: Internationaal Comité, MIREV, Boulot, Les Marmots, Dynamo AMO (code 9900 rows from the new bounded KBO scan nscan4); largest first) |
+
+### What improved since tick 3640
+
+- **New source (tick3641-3649):** CMGV · AJILE · Kind en Samenleving · Poëziecentrum · Le Fil · Centre familial de Verviers · COALA · alin · Promemploi. All code 9900 rows (NOT subsidy amounts), largest first: the first five close out the earlier bounded scan; the last four come from a new bounded KBO scan (NACE-BEL 2025 codes 72200, 85600, 93110 on the earlier 23 postcodes; 87909, 88101, 88991, 88999, 94999 on 15 new postcodes). The new scan found no usable code 733 amount. Mailboxes verified on each body's own site; rejected: ISP, umbrella-domain, mutualité or mismatched-domain mailboxes, international bodies and one duplicate (Convivium). Médiathèque Nouvelle still unreachable (HTTP 000).
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3650 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked at start of batch 3646-3655: no github-actions DOGE tick commits. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3640** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
