@@ -38860,3 +38860,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@werkplaatswalter.be — general mailbox verified on the official site https://werkplaatswalter.be/privacy-overeenkomst/ (which lists the KBO number; site gives Van Lintstraat 43-45, KBO registered seat Van Lintstraat 47).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_walter_werkt_anderlecht_vaph_matrix_9900_0_17m_9901_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3602/; rq_3602=done; spawn **rq_3603**; ticks=3602.
 - Next: **rq_3603 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3603 — 2026-10-13T15:34:19Z — rq_3603 leftover dual Avanco Adventure Aalbeke (Kortrijk) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Avanco Adventure** → KBO 0824.153.768 had 0 prior entity rows.
+- KBO: Actief since 9 maart 2010; VZW; zetel Brumierstraat(Aal) 6 8511 Kortrijk; 1 VE; 0 prior entity rows for 0824.153.768
+- Found: official NBB VKT-VZW native PDF **2026-00548422** (45026 B / 12p; AV 26-06-2026; neergelegd 04/10/2026; MD5 66914f022b77d5123d88c5c01ac0e7ff). VKT-VZW 9900 **EUR136900** (-53.75%); 62 **EUR164513**; 9901 **EUR-58319** (was 117147); 9904 -61194; equity 501376; cash 532842; FTE 3,1 (was 3,1).
+- FOI address: info@avanco.eu — general mailbox verified on the official site https://www.avanco.eu/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_avanco_adventure_aalbeke_vaph_matrix_9900_0_14m_9901_loss_58k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3603/; rq_3603=done; spawn **rq_3604**; ticks=3603.
+- Next: **rq_3604 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
