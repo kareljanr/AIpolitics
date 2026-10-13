@@ -38440,3 +38440,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3560 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3560 run locally as fallback.
 - Next: **rq_3560** — code 9900 (NOT subsidy amounts): Âgo (EUR0.594m), Centre Séverine (EUR0.587m), Centre Familial Belgo-Immigré (EUR0.580m), La Trace (EUR0.578m), Addictions (EUR0.571m); mailboxes verified on official sites, after the dedup check. Scans: old codes complete; NACE-BEL 2025 codes 394/400 pages; triage of all scan keys complete so far (EPHEC-Galilée code 733 pending mailbox check).
+
+
+## Tick 3561 — 2026-10-13T14:15:20Z — rq_3560 leftover dual Âgo Ixelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Âgo** → KBO 0413.720.836 had 0 prior entity rows.
+- KBO: Actief since 9 oktober 1973; VZW; zetel Livornostraat 25 1050 Elsene; 7 VE; 0 prior entity rows for 0413.720.836
+- Found: official NBB VKT-VZW native PDF **2026-00206755** (457504 B / 29p; AV 18-06-2026; neergelegd 19/06/2026; MD5 893bc8bcfbaa2c833cf16f580bb613d1). VKT-VZW 9900 **EUR593924** (+21.39%); 62 **EUR552422**; 9901 **EUR-12446** (was -86490); 9904 -10843; equity 297036; cash 358138; FTE 7 (was 6,8).
+- FOI address: info@ago-asbl.be — general mailbox verified on the official site https://www.ago-asbl.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ago_ixelles_vaph_matrix_9900_0_59m_9901_loss_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3561/; rq_3560=done; spawn **rq_3562**; ticks=3561.
+- Next: **rq_3562 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
