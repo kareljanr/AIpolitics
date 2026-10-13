@@ -40100,3 +40100,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@amonsoli.be — general mailbox verified on the official site https://www.amonsoli.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_amonsoli_verviers_vaph_matrix_9900_0_78m_9901_loss_98k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3726/; rq_3726=done; spawn **rq_3727**; ticks=3726.
 - Next: **rq_3727 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3727 — 2026-10-13T18:04:51Z — rq_3727 leftover dual Amarant Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Amarant** → KBO 0410.631.187 had 0 prior entity rows.
+- KBO: Actief since 19 december 1963; VZW; zetel Zebrastraat 30 bus 001 9000 Gent; 1 VE; 0 prior entity rows for 0410.631.187
+- Found: official NBB VKT-VZW native PDF **2026-00076868** (51623 B / 14p; AV 16-03-2026; neergelegd 10/04/2026; MD5 c0b86ce1cbf5aab0e9a5787509e8ca83). VKT-VZW 9900 **EUR686502** (+18.17%); 62 **EUR571908**; 9901 **EUR45284** (was -18665); 9904 46463; equity 356602; cash 456438; FTE 7,3 (was 8,1).
+- FOI address: info@amarant.be — general mailbox verified on the official site https://www.amarant.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_amarant_gent_vaph_matrix_9900_0_69m_9901_45k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3727/; rq_3727=done; spawn **rq_3728**; ticks=3727.
+- Next: **rq_3728 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
