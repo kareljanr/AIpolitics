@@ -39340,3 +39340,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3650 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3650 run locally as fallback.
 - Next: **rq_3650** — code 9900 (NOT subsidy amounts): Internationaal Comité (EUR1.34m), MIREV (EUR1.15m), Boulot (EUR1.11m), Les Marmots (EUR1.01m, micro filing), Dynamo AMO (EUR0.84m); mailboxes verified on official sites, after the dedup check. Source: new bounded KBO scan (nscan4).
+
+
+## Tick 3651 — 2026-10-13T16:19:59Z — rq_3650 leftover dual Internationaal Comité Genk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Internationaal Comité** → KBO 0439.485.818 had 0 prior entity rows.
+- KBO: Actief since 6 maart 1989; VZW; zetel Centrumlaan 11 bus 7 3600 Genk; 6 VE; 0 prior entity rows for 0439.485.818
+- Found: official NBB VKT-VZW native PDF **2026-00102643** (51147 B / 14p; AV 21-03-2026; neergelegd 30/04/2026; MD5 ef787b8c5adcf39b00a6b70a4619f1a0). VKT-VZW 9900 **EUR1336804** (-2.69%); 62 **EUR1223618**; 9901 **EUR59372** (was 38956); 9904 57597; equity 578229; cash 248658; FTE 17,8 (was 19,7).
+- FOI address: info@icvzw.be — general mailbox verified on the official site https://icvzw.be/privacyverklaring (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_internationaal_comite_genk_vaph_matrix_9900_1_34m_9901_59k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3651/; rq_3650=done; spawn **rq_3652**; ticks=3651.
+- Next: **rq_3652 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
