@@ -38960,3 +38960,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mpact.be — general mailbox verified on the official site https://www.mpact.be/contact (the site's offices page lists the KBO number; KBO registered seat Koningin Maria Hendrikaplein 65B).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_mpact_gent_vaph_matrix_9900_1_38m_9901_24k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3612/; rq_3612=done; spawn **rq_3613**; ticks=3612.
 - Next: **rq_3613 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3613 — 2026-10-13T15:47:30Z — rq_3613 leftover dual Créahm Région wallonne Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Créahm Région wallonne** → KBO 0422.087.679 had 0 prior entity rows.
+- KBO: Actief since 15 september 1981; VZW; zetel Rue de la Brasserie 5 4000 Liège; 2 VE; 0 prior entity rows for 0422.087.679
+- Found: official NBB VKT-VZW native PDF **2026-00278812** (57560 B / 16p; AV 06-06-2026; neergelegd 09/07/2026; MD5 a48e0ef3e523a20e3230415b3d8ce7fe). VKT-VZW 9900 **EUR1294966** (+6.54%); 62 **EUR1228036**; 9901 **EUR39841** (was -33030); 9904 29479; equity 586565; cash 195025; FTE 20,1 (was 21,8).
+- FOI address: info@creahm.be — general mailbox verified on the official site https://creahm.be/fr/contact (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_creahm_liege_vaph_matrix_9900_1_29m_9901_40k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3613/; rq_3613=done; spawn **rq_3614**; ticks=3613.
+- Next: **rq_3614 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
