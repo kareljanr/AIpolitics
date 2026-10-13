@@ -37760,3 +37760,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@psycho-oncologie.be — role mailbox verified on the official site https://www.psycho-oncologie.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_psycho_oncologie_bruxelles_vaph_matrix_9900_1_21m_9901_loss_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3492/; rq_3492=done; spawn **rq_3493**; ticks=3492.
 - Next: **rq_3493 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3493 — 2026-10-13T11:47:50Z — rq_3493 leftover dual Vlaams Huis voor Amateurkunsten in Brussel (Zinnema) Anderlecht YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Vlaams Huis voor Amateurkunsten in Brussel (Zinnema)** → KBO 0445.092.616 had 0 prior entity rows.
+- KBO: Actief since 24 april 1991; VZW; zetel Veeweidestraat 24-26 1070 Anderlecht; 1 VE; 0 prior entity rows for 0445.092.616
+- Found: official NBB VKT-VZW native PDF **2026-00068506** (50363 B / 13p; AV 23-03-2026; neergelegd 31/03/2026; MD5 eb56d0e2d973bbecaca7a5c19f6e10c8). VKT-VZW 9900 **EUR1137736** (+5.85%); 62 **EUR1158338**; 9901 **EUR-45183** (was -47181); 9904 -58808; equity 476461; cash 423390; FTE 16,6 (was 15,5).
+- FOI address: info@zinnema.be — general mailbox verified on the official site https://www.zinnema.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_zinnema_anderlecht_vaph_matrix_9900_1_14m_9901_loss_45k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3493/; rq_3493=done; spawn **rq_3494**; ticks=3493.
+- Next: **rq_3494 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
