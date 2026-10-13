@@ -38800,3 +38800,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@gandae.be — general mailbox verified on the official site https://www.gandae.be/contact (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_gandae_gent_vaph_matrix_733_0_13m_9901_658k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3596/; rq_3596=done; spawn **rq_3597**; ticks=3596.
 - Next: **rq_3597 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3597 — 2026-10-13T15:32:06Z — rq_3597 leftover dual Emancipe Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Emancipe** → KBO 0409.117.789 had 0 prior entity rows.
+- KBO: Actief since 15 mei 1969; VZW; zetel Lutherstraat 52 1000 Brussel; 1 VE; 0 prior entity rows for 0409.117.789
+- Found: official NBB VKT-VZW native PDF **2026-00360656** (36968 B / 8p; AV 18-05-2026; neergelegd 29/07/2026; MD5 e9277863ae9811c9ff300823a01f57e6). VKT-VZW 9900 **EUR247893** (-4.62%); 62 **EUR199550**; 9901 **EUR41739** (was -8351); 9904 40706; equity 277788; cash 289866; FTE 3,6 (was 3,6).
+- FOI address: info@emancipe.be — general mailbox verified on the official site https://www.emancipe.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_emancipe_bruxelles_vaph_matrix_9900_0_25m_9901_42k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3597/; rq_3597=done; spawn **rq_3598**; ticks=3597.
+- Next: **rq_3598 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
