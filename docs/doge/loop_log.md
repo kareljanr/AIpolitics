@@ -37290,3 +37290,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@talbothouse.be — general mailbox verified on the official site https://www.talbothouse.be/nl/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_talbot_house_poperinge_vaph_matrix_9900_0_52m_9901_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3445/; rq_3445=done; spawn **rq_3446**; ticks=3445.
 - Next: **rq_3446 leftover dual** — Batch done; the completed 88.91x / 94.xxx / 55.20x / 58.1x / 59.1x scan gave no further code 733 rows, so these are code 9900 leftovers. Next: Médiathèque Nouvelle (code 733, site still unreachable), triage of the fresh 22-family scan (85.4x / 90.0x / 91.0x / 93.29x and others; still running) for code 733 filers, then SONEFA / Crèches de Schaerbeek (code 733, no own-site mailbox yet)..
+
+
+## Tick 3446 — 2026-10-13T10:44:16Z — rq_3446 leftover dual Huis van het Nederlands Brussel Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Huis van het Nederlands Brussel** → KBO 0862.910.119 had 0 prior entity rows.
+- KBO: Actief since 23 januari 2004; VZW; zetel Philippe de Champagnestraat 23 1000 Brussel; 1 VE; 0 prior entity rows for 0862.910.119
+- Found: official NBB VKT-VZW native PDF **2026-00432649** (45042 B / 12p; AV 24-03-2026; neergelegd 27/08/2026; MD5 0808d8864d172f23e8c01b579175de45). VKT-VZW 9900 **EUR4649331** (+0.81%); 62 **EUR4594139**; 9901 **EUR-56014** (was -47832); 9904 -64566; equity 503934; cash 561472; FTE 57,2 (was 59,6).
+- FOI address: info@huisnederlandsbrussel.be — general mailbox verified on the official site https://www.huisnederlandsbrussel.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_huis_van_het_nederlands_brussel_vaph_matrix_9900_4_65m_9901_loss_56k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3446/; rq_3446=done; spawn **rq_3447**; ticks=3446.
+- Next: **rq_3447 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
