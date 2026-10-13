@@ -39110,3 +39110,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: hallo@de-lage-landen.com — general mailbox verified on the official site https://www.de-lage-landen.com/privacybeleid/ (privacy page names Ons Erfdeel vzw; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_ons_erfdeel_gent_vaph_matrix_9900_0_79m_9901_238k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3627/; rq_3627=done; spawn **rq_3628**; ticks=3627.
 - Next: **rq_3628 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3628 — 2026-10-13T15:56:29Z — rq_3628 leftover dual Debateville Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Debateville** → KBO 0744.538.148 had 0 prior entity rows.
+- KBO: Actief since 27 februari 2020; VZW; zetel Vooruitgangstraat 76 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0744.538.148
+- Found: official NBB MIC-VZW native PDF **2026-00079730** (41984 B / 9p; AV 17-03-2026; neergelegd 15/04/2026; MD5 ff23f44e16fb55d6d811644f46c62e56). MIC-VZW 9900 **EUR780462** (-18.67%); 62 **EUR497194**; 9901 **EUR283269** (was 556001); 9904 302959; equity 1644464; cash 291657; FTE n/a.
+- FOI address: info@debateville.org — general mailbox verified on the official site https://debateville.org/contact/ (the site FAQ lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_debateville_brussel_vaph_matrix_9900_0_78m_9901_283k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3628/; rq_3628=done; spawn **rq_3629**; ticks=3628.
+- Next: **rq_3629 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
