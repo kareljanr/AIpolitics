@@ -40520,3 +40520,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@maison-formation-wapi.be — general mailbox shown on the official site https://maison-formation-wapi.be/ (contact block; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_maison_formation_wapi_tournai_vaph_matrix_9900_0_65m_9901_59k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3768/; rq_3768=done; spawn **rq_3769**; ticks=3768.
 - Next: **rq_3769 leftover dual** — Partial batch (3762-3768); code 9900 rows from nscan16/17/18 (incl. new codes 94991, 85599), largest first; no code 733 filer found; Recht-Op, ZOPP, Virvolti skipped (no verifiable own-domain general mailbox), Service Familial de Charleroi skipped (no code 733 amount); Médiathèque Nouvelle still unreachable. Candidates dry; next: new scan..
+
+
+## Tick 3769 — 2026-10-13T20:39:56Z — rq_3769 leftover dual AID Soleilmont Charleroi YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **AID Soleilmont** → KBO 0458.085.666 had 0 prior entity rows.
+- KBO: Actief since 27 maart 1996; VZW; zetel Rue de Monceau Fontaine 42 bus 8 6031 Charleroi; 1 VE; 0 prior entity rows for 0458.085.666
+- Found: official NBB VKT-VZW native PDF **2026-00269788** (52466 B / 15p; AV 23-06-2026; neergelegd 07/07/2026; MD5 1d44a1406c245ca46382c6eac18e2947). VKT-VZW 9900 **EUR906489** (+1.79%); 62 **EUR840760**; 9901 **EUR22428** (was 69992); 9904 12027; equity 191832; cash 94222; FTE 14 (was 14).
+- FOI address: info@aid-soleilmont.be — general mailbox verified on the official site https://www.aid-soleilmont.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_aid_soleilmont_charleroi_vaph_matrix_9900_0_91m_9901_22k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3769/; rq_3769=done; spawn **rq_3770**; ticks=3769.
+- Next: **rq_3770 leftover dual** — Partial batch (3762-3769); code 9900 rows from nscan16/17/18 (incl. new codes 94991, 85599 incl. AID Soleilmont), largest first; no code 733 filer found; Recht-Op, ZOPP, Virvolti skipped (no verifiable own-domain general mailbox), Service Familial de Charleroi skipped (no code 733 amount); Médiathèque Nouvelle still unreachable. Candidates dry; next: new scan..
