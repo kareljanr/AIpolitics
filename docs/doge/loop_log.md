@@ -40110,3 +40110,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@amarant.be — general mailbox verified on the official site https://www.amarant.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_amarant_gent_vaph_matrix_9900_0_69m_9901_45k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3727/; rq_3727=done; spawn **rq_3728**; ticks=3727.
 - Next: **rq_3728 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3728 — 2026-10-13T18:05:02Z — rq_3728 leftover dual Liens de Quartier Petite Enfance Schaerbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Liens de Quartier Petite Enfance** → KBO 0473.965.754 had 0 prior entity rows.
+- KBO: Actief since 17 november 2000; VZW; zetel Prinses Elisabethlaan 61 1030 Schaarbeek; 2 VE; 0 prior entity rows for 0473.965.754
+- Found: official NBB VKT-VZW native PDF **2026-00212867** (60426 B / 17p; AV 24-06-2026; neergelegd 29/06/2026; MD5 c2497002557cb5d81f2970a7019baf05). VKT-VZW 9900 **EUR683677** (+4.71%); 62 **EUR666767**; 9901 **EUR3210** (was 64); 9904 3153; equity 102046; cash 109110; FTE 15,3 (was 15,5).
+- FOI address: info@lqpe.be — general mailbox verified on the official site https://www.lqpe.org/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_liens_de_quartier_petite_enfance_schaerbeek_vaph_matrix_9900_0_68m_9901_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3728/; rq_3728=done; spawn **rq_3729**; ticks=3728.
+- Next: **rq_3729 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
