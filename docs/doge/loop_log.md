@@ -41440,3 +41440,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3860 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3860 run locally as fallback.
 - Next: **rq_3860** — no candidate queued: continue the Flemish Subsidieregister candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
+
+
+## Tick 3861 — 2026-10-13T23:10:28Z — rq_3860 leftover dual Madam Fortuna Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Madam Fortuna** → KBO 0473.216.181 had 0 prior entity rows.
+- KBO: Actief since 12 oktober 2000; VZW; zetel Sergeyselsstraat 20 2140 Antwerpen; 1 VE; 0 prior entity rows for 0473.216.181
+- Found: official NBB VKT-VZW native PDF **2026-00133296** (47456 B / 12p; AV 18-05-2026; neergelegd 01/06/2026; MD5 52601dc14e00d601eaa645520e934335). VKT-VZW 9900 **EUR183866** (+5.75%); 62 **EUR154024**; 9901 **EUR21917** (was 68495); 9904 15904; equity 48194; cash 94170; FTE 1,8 (was 1).
+- FOI address: info@madamfortuna.be — general mailbox verified on the official site https://madamfortuna.be/contact (same address and KBO number as the registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_madam_fortuna_borgerhout_vaph_matrix_9900_0_18m_9901_22k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3861/; rq_3860=done; spawn **rq_3862**; ticks=3861.
+- Next: **rq_3862 leftover dual** — Partial batch (3861); recipients from the Flemish Subsidieregister 2025_V01 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; file kept outside the repo), non-profit filers not yet in the data (dedup by KBO and name), ranked by toegekend; amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest verstrekker cited per row. Correction in this commit: the tick3824 Kannet+ FOI row is set to not_ready (umbrella rule; Kannet+ is a Flanders-wide network with regional branches and duplicates entity vzw_kannet_antwerpen from tick2606); row kept. Skipped: AFS (international), Journalismfund Europe and ISF International Daycare (international), Verso (federation), DC-pwa (public), Compagnie Cecilia, Zomer van Antwerpen, Eastman and Cachet (no reachable own site or no general mailbox), Eos Wetenschap (no address on own site). Next: remaining Subsidieregister candidates (/workspace/subreg/cands.tsv)..
