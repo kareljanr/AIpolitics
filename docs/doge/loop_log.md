@@ -38160,3 +38160,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sisw.be — general mailbox verified on the official site https://www.sisw.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_sisw_namur_vaph_matrix_9900_0_71m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3532/; rq_3532=done; spawn **rq_3533**; ticks=3532.
 - Next: **rq_3533 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3533 — 2026-10-13T12:23:32Z — rq_3533 leftover dual Mediaraven Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Mediaraven** → KBO 0460.204.325 had 0 prior entity rows.
+- KBO: Actief since 7 januari 1997; VZW; zetel Smidsestraat 130 9000 Gent; 1 VE; 0 prior entity rows for 0460.204.325
+- Found: official NBB VKT-VZW native PDF **2026-00110423** (45692 B / 12p; AV 19-03-2026; neergelegd 13/05/2026; MD5 48e5299fab1706b8a4da1c92d84e05a1). VKT-VZW 9900 **EUR695614** (-14.08%); 62 **EUR638684**; 9901 **EUR46064** (was 10306); 9904 43306; equity 73847; cash 104619; FTE 8,9 (was 11,4).
+- FOI address: info@mediaraven.be — general mailbox verified on the official site https://mediaraven.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_mediaraven_gent_vaph_matrix_9900_0_70m_9901_46k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3533/; rq_3533=done; spawn **rq_3534**; ticks=3533.
+- Next: **rq_3534 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
