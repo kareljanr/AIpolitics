@@ -39570,3 +39570,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@multijobs.be — general mailbox verified on the official site https://multijobs.be/nl/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_multijobs_neder_over_heembeek_vaph_matrix_9900_1_05m_9901_217k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3673/; rq_3673=done; spawn **rq_3674**; ticks=3673.
 - Next: **rq_3674 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3674 — 2026-10-13T16:35:05Z — rq_3674 leftover dual Dynam'Autes Forest YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Dynam'Autes** → KBO 0696.652.515 had 0 prior entity rows.
+- KBO: Actief since 21 mei 2018; VZW; zetel Onderlinge Bijstandstraat 34 1190 Vorst; 1 VE; 0 prior entity rows for 0696.652.515
+- Found: official NBB MIC-VZW native PDF **2026-00168484** (43508 B / 11p; AV 05-06-2026; neergelegd 17/06/2026; MD5 fc49bdd7bed3c67213f481d5e43606c1). MIC-VZW 9900 **EUR320303** (+6.68%); 62 **EUR324900**; 9901 **EUR-5457** (was 9325); 9904 -5069; equity 61049; cash 88066; FTE n/a.
+- FOI address: info@dynamautes.be — general mailbox verified on the official site https://www.dynamautes.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_dynamautes_forest_vaph_matrix_9900_0_32m_9901_loss_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3674/; rq_3674=done; spawn **rq_3675**; ticks=3674.
+- Next: **rq_3675 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
