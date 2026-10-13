@@ -36070,3 +36070,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@derodeantraciet.be — general mailbox verified on the official site https://www.derodeantraciet.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_leuven); FOI **gap_rode_antraciet_leuven_vaph_matrix_9900_1_96m_9901_23k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3323/; rq_3323=done; spawn **rq_3324**; ticks=3323.
 - Next: **rq_3324 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3324 — 2026-10-13T05:46:42Z — rq_3324 leftover dual Centre agri-environnemental de Michamps Bastogne (Michamps) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.101 / 72.109 (research) and 85.591 / 85.593 (education) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first; EU-level bodies excluded: **Centre agri-environnemental de Michamps** → KBO 0443.590.403 had 0 prior entity rows.
+- KBO: Actief since 1 november 1990; VZW; zetel Horritine 3 6600 Bastogne; 1 VE; 0 prior entity rows for 0443.590.403
+- Found: official NBB VKT-VZW native PDF **2026-00109047** (168878 B / 17p; AV 03-04-2026; neergelegd 12/05/2026; MD5 7fc13decaa35d22c60a71e491df581eb). VKT-VZW 9900 **EUR1356752** (+4.48%); 62 **EUR1035657**; 9901 **EUR216138** (was 17558); 9904 254680; equity 1219633; cash 665333; FTE 14,7 (was 16,6).
+- FOI address: info@centredemichamps.be — general mailbox verified on the official site https://www.centredemichamps.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_centre_michamps_bastogne_vaph_matrix_9900_1_36m_9901_216k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3324/; rq_3324=done; spawn **rq_3325**; ticks=3324.
+- Next: **rq_3325 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
