@@ -37970,3 +37970,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@jst1030.be — general mailbox verified on the official site https://www.jst1030.be/?page_id=53 (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_jst_schaerbeek_vaph_matrix_9900_0_89m_9901_loss_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3513/; rq_3513=done; spawn **rq_3514**; ticks=3513.
 - Next: **rq_3514 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3514 — 2026-10-13T12:06:08Z — rq_3514 leftover dual SOS Enfants Namur Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **SOS Enfants Namur** → KBO 0431.809.752 had 0 prior entity rows.
+- KBO: Actief since 4 oktober 1985; VZW; zetel Chaussée de Waterloo(SS) 340 5002 Namur; 1 VE; 0 prior entity rows for 0431.809.752
+- Found: official NBB VKT-VZW native PDF **2026-00261206** (55174 B / 16p; AV 04-06-2026; neergelegd 07/07/2026; MD5 f042ed1c2e9813e9571e020ae64d9096). VKT-VZW 9900 **EUR893936** (+6.08%); 62 **EUR851344**; 9901 **EUR16261** (was -3147); 9904 9695; equity 171245; cash 233911; FTE 10,3 (was 10).
+- FOI address: info@sosenfantsnamur.be — general mailbox verified on the official site https://sosenfantsnamur.be/nous-contacter.html (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_sos_enfants_namur_vaph_matrix_9900_0_89m_9901_16k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3514/; rq_3514=done; spawn **rq_3515**; ticks=3514.
+- Next: **rq_3515 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
