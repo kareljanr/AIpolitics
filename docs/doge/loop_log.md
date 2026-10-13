@@ -38560,3 +38560,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@delandgenoten.be — general mailbox verified on the official site https://www.delandgenoten.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_de_landgenoten_antwerpen_vaph_matrix_9900_0_51m_9901_219k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3572/; rq_3572=done; spawn **rq_3573**; ticks=3572.
 - Next: **rq_3573 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3573 — 2026-10-13T15:11:41Z — rq_3573 leftover dual Archiefpunt Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Archiefpunt** → KBO 0806.019.421 had 0 prior entity rows.
+- KBO: Actief since 28 augustus 2008; VZW; zetel Bagattenstraat 174 9000 Gent; 1 VE; 0 prior entity rows for 0806.019.421
+- Found: official NBB VKT-VZW native PDF **2026-00406512** (48875 B / 13p; AV 26-03-2026; neergelegd 17/08/2026; MD5 0844f69826bebccc02c149cdc79fd09d). VKT-VZW 9900 **EUR499200** (+14.46%); 62 **EUR465096**; 9901 **EUR19647** (was 100095); 9904 19628; equity 328188; cash 404466; FTE 6,2 (was 0).
+- FOI address: info@archiefpunt.be — general mailbox verified on the official site https://archiefpunt.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_archiefpunt_gent_vaph_matrix_9900_0_50m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3573/; rq_3573=done; spawn **rq_3574**; ticks=3573.
+- Next: **rq_3574 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
