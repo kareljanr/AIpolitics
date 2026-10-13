@@ -34732,3 +34732,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: isa.tournai@sec.cfwb.be — FWB-issued school mailbox (isa.tournai@sec.cfwb.be) of Institut Saint-André (Ramegnies-Chin), a school run by this organising body, as listed on the SeGEC school directory https://enseignement.catholique.be/etablissements/institut-saint-andre-3/ (the page names this ASBL as pouvoir organisateur); per user decision of 13 Oct 2026 an @sec.cfwb.be school address on the SeGEC/enseignement.be directory counts; not a mailbox of the ASBL's board itself.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_isa_ramegnies_chin_vaph_matrix_733_7_01m_9901_487k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3189/; rq_3189=done; spawn **rq_3190**; ticks=3189.
 - Next: **rq_3190 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3190 — 2026-10-13T01:11:15Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2810** of 2864 rows; inventory budgets 61143 · commitments 6864 · leaderboard 8982 · entities 2882 · sources 9525.
+- Top10: **stable** (3181-3189 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3181-3189: Centre scolaire Saint-Michel (Etterbeek) · Collège Jean XXIII (Woluwe-Saint-Pierre) · CE Saint-Joseph Chimay · Institut Sainte-Marie Fontaine-l'Evêque · CS Saint-Remacle Stavelot · AELC Châtelet · Communauté scolaire Sainte-Marie Namur · CS Saint-Joseph - Notre-Dame Jumet · Institut Saint-André Ramegnies-Chin.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3190 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3190 run locally as fallback.
+- Next: **rq_3190** — Institut Saint-Jean-Baptiste Wavre (code 9900 EUR6.85m), Notre-Dame de Jupille (code 9900 EUR6.35m), @sec.cfwb.be mailboxes from the SeGEC directory, after the dedup check; then small leftovers.

@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 3190** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3180; 3181-3189 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3181-3189 residual dual L5 (not near-complete of 348bn):** Centre scolaire Saint-Michel (Etterbeek) · Collège Jean XXIII (Woluwe-Saint-Pierre) · CE Saint-Joseph Chimay · Institut Sainte-Marie Fontaine-l'Evêque · CS Saint-Remacle Stavelot · AELC Châtelet · Communauté scolaire Sainte-Marie Namur · CS Saint-Joseph - Notre-Dame Jumet · Institut Saint-André Ramegnies-Chin (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2810** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2864** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3181-3189** Centre scolaire Saint-Michel (Etterbeek) · Collège Jean XXIII (Woluwe-Saint-Pierre) · CE Saint-Joseph Chimay · Institut Sainte-Marie Fontaine-l'Evêque · CS Saint-Remacle Stavelot · AELC Châtelet · Communauté scolaire Sainte-Marie Namur · CS Saint-Joseph - Notre-Dame Jumet · Institut Saint-André Ramegnies-Chin.
+
+### Inventory (tick 3190)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 61143 |
+| commitments.csv | 6864 |
+| leaderboard.csv | 8982 |
+| entities.csv | 2882 |
+| sources.csv | 9525 |
+| FOI ready | 2810 |
+| FOI total rows | 2864 |
+| research_queue open | rq_3190 (carried; next: Institut Saint-Jean-Baptiste Wavre, Notre-Dame de Jupille, then small leftovers; largest first) |
+
+### What improved since tick 3180
+
+- **New source (tick3181-3189):** Centre scolaire Saint-Michel (Etterbeek) · Collège Jean XXIII (Woluwe-Saint-Pierre) · CE Saint-Joseph Chimay · Institut Sainte-Marie Fontaine-l'Evêque · CS Saint-Remacle Stavelot · AELC Châtelet · Communauté scolaire Sainte-Marie Namur · CS Saint-Joseph - Notre-Dame Jumet · Institut Saint-André Ramegnies-Chin. Continued the SeGEC-directory list (organising bodies with an @sec.cfwb.be school mailbox, matched to KBO by name and address); AELC's financial year ends 31 July 2025 (labelled YE2025); Sainte-Marie Namur uses code 9900 (short model, NOT a subsidy amount); Jumet has no 733 line, so code 73 (contributions, gifts, legacies and subsidies, not split) is used and labelled as such.
+- **FOI addresses:** 3181-3189 @sec.cfwb.be school mailboxes from the SeGEC directory, disclosed in each draft's recipient note.
+- **Runner note:** 2576-3190 ran on the local fallback runner; GitHub Actions DOGE loop: last run (#6, 2026-10-12 21:20 Brussels time) failed at its Tick step (Grok CLI not signed in); no newer run. Do not run both at once.
+- **Rejected 3181-3189 (fast, ~5 min cap):** Sacré-Coeur Charleroi, Notre-Dame de la Paix Erpent, Saint-André Charleroi, Institut libre catholique Dour, Saint-Joseph Florennes: already in entities (dedup); Saint Jean-Baptiste de la Salle Namur (EUR23.62m): no @sec.cfwb.be match on SeGEC; Enseignement catholique de Fléron, Aumôniers du Travail, plateau de Herve, EPSIS: no 2025 NBB filing.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3180** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
