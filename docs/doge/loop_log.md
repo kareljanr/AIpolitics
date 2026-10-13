@@ -39420,3 +39420,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: transition@transitionasbl.be — general mailbox verified on the official site https://transitionasbl.be/pour-nous-contacter/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_transition_forest_vaph_matrix_9900_0_73m_9901_loss_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3658/; rq_3658=done; spawn **rq_3659**; ticks=3658.
 - Next: **rq_3659 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3659 — 2026-10-13T16:22:59Z — rq_3659 leftover dual Espace 28 Verviers YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Espace 28** → KBO 0862.282.389 had 0 prior entity rows.
+- KBO: Actief since 19 december 2003; VZW; zetel Rue de la Colline 18 4800 Verviers; 1 VE; 0 prior entity rows for 0862.282.389
+- Found: official NBB VKT-VZW native PDF **2026-00466071** (45293 B / 12p; AV 22-06-2026; neergelegd 31/08/2026; MD5 efd16515147dc230b622f9f3b228f77f). VKT-VZW 9900 **EUR696522** (+14.53%); 62 **EUR644965**; 9901 **EUR48963** (was -9100); 9904 48570; equity 205561; cash 178836; FTE 10,1 (was 9,2).
+- FOI address: info@espace28.be — general mailbox verified on the official site https://espace28.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_espace_28_verviers_vaph_matrix_9900_0_70m_9901_49k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3659/; rq_3659=done; spawn **rq_3660**; ticks=3659.
+- Next: **rq_3660 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
