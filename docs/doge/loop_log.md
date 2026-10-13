@@ -37810,3 +37810,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cahwestvlaanderen.be — general mailbox verified on the official site https://cahwestvlaanderen.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_crisishulp_aan_huis_wvl_harelbeke_vaph_matrix_9900_1_09m_9901_16k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3497/; rq_3497=done; spawn **rq_3498**; ticks=3497.
 - Next: **rq_3498 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3498 — 2026-10-13T11:52:50Z — rq_3498 leftover dual Centre Régional d'Intégration du Brabant wallon (CRIBW) Nivelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre Régional d'Intégration du Brabant wallon (CRIBW)** → KBO 0476.724.613 had 0 prior entity rows.
+- KBO: Actief since 28 februari 2002; VZW; zetel Rue Henri-Pauwels 2 1400 Nivelles; 1 VE; 0 prior entity rows for 0476.724.613
+- Found: official NBB VKT-VZW native PDF **2026-00109160** (51432 B / 14p; AV 14-04-2026; neergelegd 12/05/2026; MD5 ccc5a73e517e1b6355e7ac29e06392e1). VKT-VZW 9900 **EUR1070204** (+18.83%); 62 **EUR973420**; 9901 **EUR94434** (was -475); 9904 94068; equity 61475; cash 362429; FTE 14,2 (was 15,7).
+- FOI address: info@cribw.be — general mailbox verified on the official site https://www.cribw.be/mentions-legales/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_cribw_nivelles_vaph_matrix_9900_1_07m_9901_94k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3498/; rq_3498=done; spawn **rq_3499**; ticks=3498.
+- Next: **rq_3499 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
