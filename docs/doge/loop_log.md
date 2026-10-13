@@ -36210,3 +36210,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@marienheim.be — general mailbox verified on the official site https://www.marienheim.be/allgemeines/impressum (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_marienheim_raeren_vaph_matrix_733_0_42m_9901_688k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3337/; rq_3337=done; spawn **rq_3338**; ticks=3337.
 - Next: **rq_3338 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3338 — 2026-10-13T06:17:08Z — rq_3338 leftover dual Sint-Barbara (WZC Beversthuis) Bilzen-Hoeselt (Beverst) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Sint-Barbara (WZC Beversthuis)** → KBO 0408.590.922 had 0 prior entity rows.
+- KBO: Actief since 27 november 1957; VZW; zetel Blindestraat 16 3740 Bilzen-Hoeselt; 2 VE; 0 prior entity rows for 0408.590.922
+- Found: official NBB VOL-VZW native PDF **2026-00258497** (623987 B / 49p; AV 17-06-2026; neergelegd 03/07/2026; MD5 49ee85ba65a6c6db0f1009bac577cd1b). VOL-VZW 733 **EUR217333** (+0.00%); 62 **EUR9656292**; 9901 **EUR-73028** (was 594802); 9904 -458025; equity 13205729; cash 661200; FTE 142,7 (was 120,5).
+- FOI address: info@beversthuis.be — general mailbox verified on the official site https://www.vzwsintbarbara.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bilzen_hoeselt); FOI **gap_sint_barbara_bilzen_vaph_matrix_733_0_22m_9901_loss_73k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3338/; rq_3338=done; spawn **rq_3339**; ticks=3338.
+- Next: **rq_3339 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
