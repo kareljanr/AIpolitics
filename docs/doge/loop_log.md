@@ -35900,3 +35900,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: cire@cire.be — general mailbox verified on the official site https://www.cire.be/contact/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cire_ixelles_vaph_matrix_9900_2_36m_9901_31k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3306/; rq_3306=done; spawn **rq_3307**; ticks=3306.
 - Next: **rq_3307 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3307 — 2026-10-13T05:17:44Z — rq_3307 leftover dual Badje - Bruxelles Accueil et Développement pour la Jeunesse et l'Enfance Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.991 / 94.992 / 94.999 / 88.109 (1,750 legal persons not yet in the repo) and NACE 88.992 / 88.994 (401) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first; EU-level bodies excluded: **Badje - Bruxelles Accueil et Développement pour la Jeunesse et l'Enfance** → KBO 0466.609.986 had 0 prior entity rows.
+- KBO: Actief since 4 januari 1999; VZW; zetel Emile Feronstraat 153 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0466.609.986
+- Found: official NBB VKT-VZW native PDF **2026-00533818** (60340 B / 18p; AV 17-06-2026; neergelegd 30/09/2026; MD5 7393c4d944438e58674a05002aad1cbf). VKT-VZW 9900 **EUR1231191** (+4.50%); 62 **EUR1215837**; 9901 **EUR10850** (was 3429); 9904 10696; equity 205192; cash 134250; FTE 17,6 (was 19,4).
+- FOI address: info@badje.be — general mailbox verified on the official site https://badje.be/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_badje_saint_gilles_vaph_matrix_9900_1_23m_9901_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3307/; rq_3307=done; spawn **rq_3308**; ticks=3307.
+- Next: **rq_3308 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
