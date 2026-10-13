@@ -36980,3 +36980,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sleepwell.be — general mailbox verified on the official site https://www.sleepwell.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_sleep_well_bruxelles_vaph_matrix_9900_1_72m_9901_121k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3414/; rq_3414=done; spawn **rq_3415**; ticks=3414.
 - Next: **rq_3415 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3415 — 2026-10-13T09:19:28Z — rq_3415 leftover dual Regionaal Open Jeugdcentrum Mechelen (ROJM) Mechelen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Regionaal Open Jeugdcentrum Mechelen (ROJM)** → KBO 0422.938.311 had 0 prior entity rows.
+- KBO: Actief since 22 april 1982; VZW; zetel Battelsesteenweg 50 bus A 2800 Mechelen; 2 VE; 0 prior entity rows for 0422.938.311
+- Found: official NBB VKT-VZW native PDF **2026-00107053** (119614 B / 22p; AV 27-04-2026; neergelegd 10/05/2026; MD5 3dc59e42502578e6322c65e5a9e6ef0d). VKT-VZW 9900 **EUR1323321** (-16.10%); 62 **EUR1335717**; 9901 **EUR-66510** (was 85900); 9904 -68580; equity -5608; cash 21906; FTE 20,9 (was 22,1).
+- FOI address: communicatie@rojm.be — communication role mailbox verified on the official site https://www.rojm.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_rojm_mechelen_vaph_matrix_9900_1_32m_9901_loss_67k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3415/; rq_3415=done; spawn **rq_3416**; ticks=3415.
+- Next: **rq_3416 leftover dual** — Batch done; the resumed new-family scan gave three usable code 733 rows (Auberges de Jeunesse, Armée du Salut, Maredsous); the rest are code 9900 leftovers. Next: Médiathèque Nouvelle (code 733, site still unreachable), finish the remaining 88.91x / 94.xxx / 55.20x / 52.2x / 59.1x / 58.1x scan pages, then SONEFA / Crèches de Schaerbeek (code 733, no own-site mailbox yet)..
