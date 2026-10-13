@@ -40090,3 +40090,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@missingyou.be — general mailbox verified on the official site https://missingyou.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_missing_you_gent_vaph_matrix_9900_0_24m_9901_loss_74k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3725/; rq_3725=done; spawn **rq_3726**; ticks=3725.
 - Next: **rq_3726 leftover dual** — Batch done (3716-3725); code 9900 rows from bounded KBO scan nscan9 (plus one nscan8 row), largest first; no qualifying code 733 filer (Médiathèque Nouvelle still unreachable). Next: a new bounded scan..
+
+
+## Tick 3726 — 2026-10-13T18:04:41Z — rq_3726 leftover dual Action Mondiale pour la Solidarité (Amonsoli) Verviers YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Action Mondiale pour la Solidarité (Amonsoli)** → KBO 0534.511.768 had 0 prior entity rows.
+- KBO: Actief since 16 mei 2013; VZW; zetel Rue aux Laines 22 4800 Verviers; 4 VE; 0 prior entity rows for 0534.511.768
+- Found: official NBB VKT-VZW native PDF **2026-00350513** (1953734 B / 22p; AV 27-06-2026; neergelegd 28/07/2026; MD5 8b55d210cf25161be10b94e01f8e8b32). VKT-VZW 9900 **EUR783327** (-15.03%); 62 **EUR568704**; 9901 **EUR-97849** (was -206468); 9904 -63182; equity 489591; cash 263526; FTE 11,9 (was 15,9).
+- FOI address: info@amonsoli.be — general mailbox verified on the official site https://www.amonsoli.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_amonsoli_verviers_vaph_matrix_9900_0_78m_9901_loss_98k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3726/; rq_3726=done; spawn **rq_3727**; ticks=3726.
+- Next: **rq_3727 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
