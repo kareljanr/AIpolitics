@@ -40160,3 +40160,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lafermeduparcmaximilien.be — general mailbox verified on the official site https://www.lafermeduparcmaximilien.be/contactus (Quai du Batelage 2 = KBO registered seat Schipperijkaai 2).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ferme_du_parc_maximilien_brussel_vaph_matrix_9900_0_52m_9901_loss_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3732/; rq_3732=done; spawn **rq_3733**; ticks=3732.
 - Next: **rq_3733 leftover dual** — Batch done (3726-3732); code 9900 rows from bounded KBO scan nscan10 (85599/88911), largest first; code 733 filers found were rejected (commune seat, ISP mailboxes, unverifiable own domain); Médiathèque Nouvelle still unreachable. Next: a new bounded scan..
+
+
+## Tick 3733 — 2026-10-13T18:35:00Z — rq_3733 leftover dual Circomédie Fleurus YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Circomédie** → KBO 0475.514.883 had 0 prior entity rows.
+- KBO: Actief since 6 augustus 2000; VZW; zetel Ruelle de l'Abbaye(FL) 251 6220 Fleurus; 1 VE; 0 prior entity rows for 0475.514.883
+- Found: official NBB VKT-VZW native PDF **2026-00377526** (53250 B / 14p; AV 23-03-2026; neergelegd 30/07/2026; MD5 5364fd11d56b98e9a482000ad18ae5ed). VKT-VZW 9900 **EUR726825** (+24.34%); 62 **EUR516258**; 9901 **EUR78489** (was -6821); 9904 65537; equity 612721; cash 180260; FTE 9,9 (was 9,4).
+- FOI address: contact@circomedie.be — general mailbox verified on the official site https://www.circomedie.be/contact.php (site shows the same KBO number and registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_circomedie_fleurus_vaph_matrix_9900_0_73m_9901_78k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3733/; rq_3733=done; spawn **rq_3734**; ticks=3733.
+- Next: **rq_3734 leftover dual** — Batch done (3733); code 9900 row from bounded KBO scan nscan11 (88101/87xxx/85xxx), largest first; no code 733 filer found; candidates ran dry; Médiathèque Nouvelle still unreachable. Next: a new bounded scan..
