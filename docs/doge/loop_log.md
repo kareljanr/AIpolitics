@@ -34804,3 +34804,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@collegesaintlouis.be — general mailbox verified on the official school site https://www.collegesaintlouis.be/ (Collège Saint-Louis, the school of the same name run by this organising body).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_csl_liege_vaph_matrix_9900_9_59m_9901_100k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3196/; rq_3196=done; spawn **rq_3197**; ticks=3196.
 - Next: **rq_3197 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3197 — 2026-10-13T01:31:57Z — rq_3197 leftover dual Collège de la Lys (Comines) Comines-Warneton YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies and literacy ASBLs (ASBL) whose general/role mailbox is listed on the SeGEC school directory or an official site, matched to the KBO; largest code 733 first: **Collège de la Lys (Comines)** → KBO 0409.938.727 had 0 prior entity rows.
+- KBO: Actief since 20 juli 1961; VZW; zetel Romeinsestraat(KOM) 40 7780 Comines-Warneton; 6 VE; 0 prior entity rows for 0409.938.727
+- Found: official NBB VOL-VZW native PDF **2026-00201705** (1897469 B / 39p; AV 25-06-2026; neergelegd 26/06/2026; MD5 901271b6cc8857aed8d7cc6b672a7e22). VOL-VZW 733 **EUR11559892** (-3.24%); 62 **EUR10695569**; 9901 **EUR182728** (was 59582); 9904 162050; equity 3339920; cash 742105; FTE 11,6 (was 11,5).
+- FOI address: info@cdlys.be — general/role mailbox of the school of the same name run by this organising body, listed on the SeGEC school directory page https://enseignement.catholique.be/etablissements/college-de-la-lys-2/ which names this ASBL as pouvoir organisateur (opened 13 Oct 2026).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_college_de_la_lys_vaph_matrix_733_11_56m_9901_183k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3197/; rq_3197=done; spawn **rq_3198**; ticks=3197.
+- Next: **rq_3198 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
