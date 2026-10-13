@@ -38280,3 +38280,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@planj.be — general mailbox verified on the official site https://www.planj.be/l-equipe (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_amo_plan_j_tubize_vaph_matrix_9900_0_65m_9901_49k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3544/; rq_3544=done; spawn **rq_3545**; ticks=3544.
 - Next: **rq_3545 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3545 — 2026-10-13T12:36:52Z — rq_3545 leftover dual Samarcande AMO Etterbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Samarcande AMO** → KBO 0432.951.382 had 0 prior entity rows.
+- KBO: Actief since 7 maart 1986; VZW; zetel de Theuxstraat 51 1040 Etterbeek; 1 VE; 0 prior entity rows for 0432.951.382
+- Found: official NBB VKT-VZW native PDF **2026-00212766** (51590 B / 13p; AV 04-06-2026; neergelegd 29/06/2026; MD5 4547d07a7451ff6ccd4e56f51ac1f270). VKT-VZW 9900 **EUR646860** (-1.64%); 62 **EUR636374**; 9901 **EUR6437** (was -3429); 9904 7023; equity 111150; cash 170616; FTE 8,9 (was 9,9).
+- FOI address: info@samarcande.be — general mailbox verified on the official site https://samarcande.be/spip.php?article36 (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_samarcande_etterbeek_vaph_matrix_9900_0_65m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3545/; rq_3545=done; spawn **rq_3546**; ticks=3545.
+- Next: **rq_3546 leftover dual** — Batch done (3536-3545); code 9900 leftovers (no code 733 rows found; Médiathèque Nouvelle still unreachable). Next: triage of new NACE-BEL 2025 scan keys for code 733 filers (old-code scan complete; NACE-BEL 2025 scan still running), then further code 9900 leftovers from the rebuilt pool, largest first..
