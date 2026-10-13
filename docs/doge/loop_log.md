@@ -35284,3 +35284,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: hello@beursschouwburg.be — general mailbox verified on the official site https://www.beursschouwburg.be/en/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_beursschouwburg_vaph_matrix_9900_1_76m_9901_250k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3244/; rq_3244=done; spawn **rq_3245**; ticks=3244.
 - Next: **rq_3245 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3245 — 2026-10-13T02:34:41Z — rq_3245 leftover dual Kunstenfestivaldesarts Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Largest recipients in the official City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025) not yet in the repo, cross-checked with the NBB filing: **Kunstenfestivaldesarts** → KBO 0446.277.303 had 0 prior entity rows.
+- KBO: Actief since 27 december 1991; VZW; zetel Handelskaai 18 bus 4 1000 Brussel; 1 VE; 0 prior entity rows for 0446.277.303
+- Found: official NBB VKT-VZW native PDF **2026-00464793** (52646 B / 13p; AV 23-03-2026; neergelegd 28/08/2026; MD5 fe796b16b9554500e4b768b65efecf5e). VKT-VZW 9900 **EUR1276712** (+4.24%); 62 **EUR1238690**; 9901 **EUR79988** (was -61723); 9904 68615; equity 354283; cash 203977; FTE 17,2 (was 17,1).
+- FOI address: info@kfda.be — general mailbox verified on the official site https://www.kfda.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_kunstenfestivaldesarts_vaph_matrix_9900_1_28m_9901_80k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3245/; rq_3245=done; spawn **rq_3246**; ticks=3245.
+- Next: **rq_3246 leftover dual** — Batch done; skipped: Association de Solidarité pour l'Habitat / SoHab (EUR180,450; only service mailboxes, no general mailbox opened on the official site within 5 min), Onderwijs Brussel, Bal National, Ride Your Future, BBNF, Sablon Quartier, Primerose, Ommegang, Jazz Projects, Amis des Bibliothèques, Coeurs de Bois, Un Soir Un Grain (no 2025-12 filing found), Golazo Sports (commercial company), Centre d'entreprises Dansaert (non-standard model); opendata.brussels.be carries only City of Brussels subsidy registers (2019-2025); next: Energie commune, Zig Zag, Kaaitheater after a filing/mailbox check.
