@@ -36850,3 +36850,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: inscription@cape-asbl.be — enrolment role mailbox verified on the official site https://cape-asbl.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_cape_nivelles_vaph_matrix_9900_4_56m_9901_74k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3401/; rq_3400=done; spawn **rq_3402**; ticks=3401.
 - Next: **rq_3402 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3402 — 2026-10-13T08:50:51Z — rq_3402 leftover dual La Babillarde A DO MI SI'L Ath YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **La Babillarde A DO MI SI'L** → KBO 0421.346.719 had 0 prior entity rows.
+- KBO: Actief since 26 maart 1981; VZW; zetel Rue des Hauts-degrés 24 7800 Ath; 2 VE; 0 prior entity rows for 0421.346.719
+- Found: official NBB VKT-VZW native PDF **2026-00274032** (51672 B / 14p; AV 30-06-2026; neergelegd 09/07/2026; MD5 95218203b411a8eeb36d6e4eb2a42407). VKT-VZW 9900 **EUR3548792** (n/a); 62 **EUR3321527**; 9901 **EUR107989**; 9904 105657; equity 514140; cash 984087; FTE 63,5.
+- FOI address: secretariatbabillarde@lababillarde.be — secretariat mailbox verified on the official site https://lababillarde.be/contact/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_la_babillarde_ath_vaph_matrix_9900_3_55m_9901_108k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3402/; rq_3402=done; spawn **rq_3403**; ticks=3402.
+- Next: **rq_3403 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

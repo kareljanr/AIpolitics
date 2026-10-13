@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T08:50:40Z,rq_3400,3401,no,tick3401 leftover dual Centre d'Accueil pour l'Enfant (CAPE) Nivelles 0424.693.219 Strong PDF 2026-00109159 9900 4.56m / 9901 74k; next rq_3402 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T08:50:51Z,rq_3402,3402,no,tick3402 leftover dual La Babillarde A DO MI SI'L Ath 0421.346.719 Strong PDF 2026-00274032 9900 3.55m / 9901 108k; next rq_3403 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
