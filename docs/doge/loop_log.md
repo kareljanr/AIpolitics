@@ -37270,3 +37270,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@maisondelapoesie.com — general mailbox verified on the official site https://www.maisondelapoesie.com/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_maison_de_la_poesie_amay_vaph_matrix_9900_0_63m_9901_38k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3443/; rq_3443=done; spawn **rq_3444**; ticks=3443.
 - Next: **rq_3444 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3444 — 2026-10-13T10:13:12Z — rq_3444 leftover dual Centrum voor Ervaringsgericht Onderwijs (CEGO) Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centrum voor Ervaringsgericht Onderwijs (CEGO)** → KBO 0421.083.235 had 0 prior entity rows.
+- KBO: Actief since 30 oktober 1980; VZW; zetel Schapenstraat 34 3000 Leuven; 1 VE; 0 prior entity rows for 0421.083.235
+- Found: official NBB VKT-VZW native PDF **2026-00262465** (43589 B / 11p; AV 08-06-2026; neergelegd 07/07/2026; MD5 59a8c88a949e88cf3d49b34726e927f8). VKT-VZW 9900 **EUR621791** (-48.18%); 62 **EUR585854**; 9901 **EUR22277** (was 182829); 9904 21550; equity 371185; cash 297969; FTE 15,2 (was 14,3).
+- FOI address: info@cego.be — general mailbox verified on the official site https://www.cego.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_cego_leuven_vaph_matrix_9900_0_62m_9901_22k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3444/; rq_3444=done; spawn **rq_3445**; ticks=3444.
+- Next: **rq_3445 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
