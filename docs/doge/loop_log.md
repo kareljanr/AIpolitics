@@ -36230,3 +36230,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: administratif@iscyvoir-asbl.be — administration mailbox verified on the official site https://iscyvoir.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_sacre_coeur_yvoir_vaph_matrix_9900_8_02m_9901_61k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3339/; rq_3339=done; spawn **rq_3340**; ticks=3339.
 - Next: **rq_3340 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3340 — 2026-10-13T06:17:55Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2943** of 2998 rows; inventory budgets 62253 · commitments 6998 · leaderboard 9116 · entities 3016 · sources 9927.
+- Top10: **stable** (3331-3339 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3331-3339: St. Franziskus Eupen · Les Jours Paisibles · Saint-Thomas de Villeneuve · OLV Ter Westroze · Maria Troost Veurne · Zorggroep Houtland · Marienheim Raeren · Sint-Barbara · Institut du Sacré-Coeur Yvoir.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3340 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3340 run locally as fallback.
+- Next: **rq_3340** — NACE 87.xxx scan (code 9900, NOT subsidy amounts): Sainte Adeline (EUR6.26m), Notre Abri (EUR5.70m), Amarrage (EUR5.25m), Home Saint-François Baelen (EUR4.98m), PSC Elsene (EUR4.45m); mailboxes verified on official sites, after the dedup check.

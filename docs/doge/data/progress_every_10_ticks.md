@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3340** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3330; 3331-3339 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3331-3339 residual dual L5 (not near-complete of 348bn):** St. Franziskus Eupen · Les Jours Paisibles · Saint-Thomas de Villeneuve · OLV Ter Westroze · Maria Troost Veurne · Zorggroep Houtland · Marienheim Raeren · Sint-Barbara · Institut du Sacré-Coeur Yvoir (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2943** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2998** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3331-3339** St. Franziskus Eupen · Les Jours Paisibles · Saint-Thomas de Villeneuve · OLV Ter Westroze · Maria Troost Veurne · Zorggroep Houtland · Marienheim Raeren · Sint-Barbara · Institut du Sacré-Coeur Yvoir.
+
+### Inventory (tick 3340)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 62253 |
+| commitments.csv | 6998 |
+| leaderboard.csv | 9116 |
+| entities.csv | 3016 |
+| sources.csv | 9927 |
+| FOI ready | 2943 |
+| FOI total rows | 2998 |
+| research_queue open | rq_3340 (carried; next: Sainte Adeline, Notre Abri, Amarrage, Home Saint-François Baelen, PSC Elsene (NACE 87.xxx scan, code 9900); largest first) |
+
+### What improved since tick 3330
+
+- **New source (tick3331-3339):** St. Franziskus Eupen · Les Jours Paisibles · Saint-Thomas de Villeneuve · OLV Ter Westroze · Maria Troost Veurne · Zorggroep Houtland · Marienheim Raeren · Sint-Barbara · Institut du Sacré-Coeur Yvoir. All from the NACE 87.xxx / 86.xxx / 84.1xx scans over Walloon, Brussels, Flemish and German-speaking postcodes: code 733 rows first (used up at 3338), then code 9900, largest first. EU-level bodies excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3340 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3330** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
