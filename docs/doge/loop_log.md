@@ -38380,3 +38380,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@debontebeestenboel.be — general mailbox verified on the official site https://www.debontebeestenboel.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_bonte_beestenboel_wortel_vaph_matrix_9900_0_60m_9901_72k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3554/; rq_3554=done; spawn **rq_3555**; ticks=3554.
 - Next: **rq_3555 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3555 — 2026-10-13T12:52:35Z — rq_3555 leftover dual Hippopassion Tinlot YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Hippopassion** → KBO 0460.670.915 had 0 prior entity rows.
+- KBO: Actief since 10 december 1996; VZW; zetel Rue du Joli Bois 10 4557 Tinlot; 1 VE; 0 prior entity rows for 0460.670.915
+- Found: official NBB VKT-VZW native PDF **2026-00109297** (48039 B / 12p; AV 15-04-2026; neergelegd 12/05/2026; MD5 ef8b54070cd712648287ba8a99a29d31). VKT-VZW 9900 **EUR602258** (n/a); 62 **EUR578437**; 9901 **EUR480**; 9904 895; equity 255789; cash 235129; FTE 11.
+- FOI address: info@hippopassion.be — general mailbox verified on the official site https://hippopassion.be/contact-3/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_hippopassion_tinlot_vaph_matrix_9900_0_60m_9901_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3555/; rq_3555=done; spawn **rq_3556**; ticks=3555.
+- Next: **rq_3556 leftover dual** — Batch done (3546-3555); one code 733 row (vzw de Rand, from the NACE-BEL 2025 scan triage) then code 9900 leftovers (Médiathèque Nouvelle still unreachable). Next: triage of new NACE-BEL 2025 scan keys for code 733 filers (old-code scan complete; NACE-BEL 2025 scan still running), then further code 9900 leftovers from the rebuilt pool, largest first..
