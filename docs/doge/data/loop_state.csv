@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T08:22:15Z,rq_3388,3388,no,tick3388 leftover dual Dreiland-Jugendhilfe Raeren (Hauset) 0505.752.060 Strong PDF 2026-00158997 9900 2.74m / 9901 63k; next rq_3389 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T08:22:24Z,rq_3389,3389,no,tick3389 leftover dual La Résidence Emile Rolland Mons 0434.596.919 Strong PDF 2026-00258335 9900 1.92m / 9901 1k; next rq_3390 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

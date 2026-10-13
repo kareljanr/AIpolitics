@@ -36720,3 +36720,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@dreiland-jugendhilfe.com — general mailbox verified on the official site https://www.dreiland-jugendhilfe.com/ (lists the Belgian VoG at the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_dreiland_jugendhilfe_raeren_vaph_matrix_9900_2_74m_9901_63k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3388/; rq_3388=done; spawn **rq_3389**; ticks=3388.
 - Next: **rq_3389 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3389 — 2026-10-13T08:22:24Z — rq_3389 leftover dual La Résidence Emile Rolland Mons YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **La Résidence Emile Rolland** → KBO 0434.596.919 had 0 prior entity rows.
+- KBO: Actief since 6 januari 1988; VZW; zetel Rue de Nimy 130 7000 Mons; 1 VE; 0 prior entity rows for 0434.596.919
+- Found: official NBB VKT-VZW native PDF **2026-00258335** (51273 B / 14p; AV 12-06-2026; neergelegd 06/07/2026; MD5 2eb930d26643461cd0e64cc02735fab6). VKT-VZW 9900 **EUR1915832** (+7.68%); 62 **EUR1886135**; 9901 **EUR982** (was 11519); 9904 11449; equity 462961; cash 773701; FTE 27 (was 26,3).
+- FOI address: administration@residencerolland.be — administration mailbox verified on the official site https://residence-emilerolland.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_residence_emile_rolland_mons_vaph_matrix_9900_1_92m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3389/; rq_3389=done; spawn **rq_3390**; ticks=3389.
+- Next: **rq_3390 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
