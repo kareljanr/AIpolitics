@@ -40300,3 +40300,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@lentretemps.be — general mailbox verified on the official site https://www.lentretemps.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_entre_temps_saint_gilles_vaph_matrix_9900_1_42m_9901_loss_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3746/; rq_3746=done; spawn **rq_3747**; ticks=3746.
 - Next: **rq_3747 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3747 — 2026-10-13T19:18:18Z — rq_3747 leftover dual Centre Social Protestant - Protestants Sociaal Centrum Ixelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre Social Protestant - Protestants Sociaal Centrum** → KBO 0409.148.374 had 0 prior entity rows.
+- KBO: Actief since 13 maart 1957; VZW; zetel Cansstraat 12 1050 Elsene; 1 VE; 0 prior entity rows for 0409.148.374
+- Found: official NBB VKT-VZW native PDF **2026-00278432** (44631 B / 12p; AV 21-05-2026; neergelegd 10/07/2026; MD5 f1736e0d772bb4e72a4d532e8c736256). VKT-VZW 9900 **EUR1245981** (-0.31%); 62 **EUR1293357**; 9901 **EUR-91642** (was -42303); 9904 -91905; equity 329067; cash 164823; FTE 22,3 (was 21,8).
+- FOI address: info@csp-psc.be — general mailbox verified on the official site https://csp-psc.be/fr/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_centre_social_protestant_ixelles_vaph_matrix_9900_1_25m_9901_loss_92k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3747/; rq_3747=done; spawn **rq_3748**; ticks=3747.
+- Next: **rq_3748 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
