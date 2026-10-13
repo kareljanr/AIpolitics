@@ -36100,3 +36100,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@acsol.be — general mailbox verified on the official site https://www.pepupsrl.be/contact/ (the ACSOL site, which lists the KBO number and the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_acsol_namur_vaph_matrix_733_15_75m_9901_525k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3326/; rq_3326=done; spawn **rq_3327**; ticks=3326.
 - Next: **rq_3327 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3327 — 2026-10-13T06:07:16Z — rq_3327 leftover dual Vereniging tot Jeugdbescherming Wingerdbloei Antwerpen (Deurne) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Vereniging tot Jeugdbescherming Wingerdbloei** → KBO 0410.878.241 had 0 prior entity rows.
+- KBO: Actief since 1 februari 1953; VZW; zetel Waterbaan 153 2100 Antwerpen; 1 VE; 0 prior entity rows for 0410.878.241
+- Found: official NBB VOL-VZW native PDF **2026-00119553** (1368628 B / 43p; AV 27-04-2026; neergelegd 21/05/2026; MD5 c2617111b695c6daf25e1422a2797d9b). VOL-VZW 733 **EUR13790898** (+3.42%); 62 **EUR12075626**; 9901 **EUR-375836** (was 95346); 9904 -364906; equity 6913698; cash 446706; FTE 155,5 (was 152,5).
+- FOI address: onthaal@wingerdbloei.be — reception mailbox verified on the official site https://wingerdbloei.be/adressen-en-contactgegevens/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_wingerdbloei_antwerpen_vaph_matrix_733_13_79m_9901_loss_376k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3327/; rq_3327=done; spawn **rq_3328**; ticks=3327.
+- Next: **rq_3328 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
