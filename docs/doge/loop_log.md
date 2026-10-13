@@ -41310,3 +41310,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@growfunding.be — general mailbox verified on the official site https://www.growfunding.be/nl/contact (same address and KBO number as the registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent sec_flanders); FOI **gap_growfunding_brussel_vaph_matrix_9900_0_54m_9901_loss_61k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3847/; rq_3847=done; spawn **rq_3848**; ticks=3847.
 - Next: **rq_3848 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3848 — 2026-10-13T22:54:35Z — rq_3848 leftover dual Globelink Anderlecht YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Globelink** → KBO 0469.394.678 had 0 prior entity rows.
+- KBO: Actief since 22 juni 1999; VZW; zetel Onderwijsstraat 126 bus B 1070 Anderlecht; 1 VE; 0 prior entity rows for 0469.394.678
+- Found: official NBB MIC-VZW native PDF **2026-00076986** (40263 B / 9p; AV 12-03-2026; neergelegd 10/04/2026; MD5 87af3d016a159722db23a84a74abdb77). MIC-VZW 9900 **EUR464376** (-5.44%); 62 **EUR454398**; 9901 **EUR7868** (was 8678); 9904 8108; equity 214568; cash 123878; FTE n/a.
+- FOI address: globelink@globelink.be — general mailbox verified on the official site https://www.globelink.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent sec_flanders); FOI **gap_globelink_anderlecht_vaph_matrix_9900_0_46m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3848/; rq_3848=done; spawn **rq_3849**; ticks=3848.
+- Next: **rq_3849 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
