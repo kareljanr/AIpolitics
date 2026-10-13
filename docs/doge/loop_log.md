@@ -39050,3 +39050,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@deschoolbrug.be — general mailbox verified on the official site https://www.deschoolbrug.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_de_schoolbrug_antwerpen_vaph_matrix_9900_1_12m_9901_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3621/; rq_3620=done; spawn **rq_3622**; ticks=3621.
 - Next: **rq_3622 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3622 — 2026-10-13T15:52:25Z — rq_3622 leftover dual BioForum Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **BioForum** → KBO 0474.259.229 had 0 prior entity rows.
+- KBO: Actief since 7 december 2000; VZW; zetel Regine Beerplein 1 bus E305 2018 Antwerpen; 1 VE; 0 prior entity rows for 0474.259.229
+- Found: official NBB VKT-VZW native PDF **2026-00093042** (45843 B / 14p; AV 26-03-2026; neergelegd 29/04/2026; MD5 17b9c6238f3adb376a9ae385a11e02ed). VKT-VZW 9900 **EUR977508** (+8.77%); 62 **EUR959741**; 9901 **EUR-676** (was -37795); 9904 576; equity 283184; cash 238207; FTE 11,2 (was 10,5).
+- FOI address: info@bioforum.be — general mailbox verified on the official site https://www.bioforum.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_bioforum_antwerpen_vaph_matrix_9900_0_98m_9901_loss_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3622/; rq_3622=done; spawn **rq_3623**; ticks=3622.
+- Next: **rq_3623 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

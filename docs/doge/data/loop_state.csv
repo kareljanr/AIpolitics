@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T15:52:16Z,rq_3620,3621,no,tick3621 leftover dual De Schoolbrug Antwerpen 0479.689.447 Strong PDF 2026-00121332 9900 1.12m / 9901 0k; next rq_3622 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T15:52:25Z,rq_3622,3622,no,tick3622 leftover dual BioForum Antwerpen 0474.259.229 Strong PDF 2026-00093042 9900 0.98m / 9901 loss 1k; next rq_3623 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
