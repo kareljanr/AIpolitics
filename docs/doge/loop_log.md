@@ -37070,3 +37070,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@habitat-participation.be — general mailbox verified on the official site https://habitat-participation.be/contacts/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_habitat_et_participation_lln_vaph_matrix_9900_1_05m_9901_31k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3423/; rq_3423=done; spawn **rq_3424**; ticks=3423.
 - Next: **rq_3424 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3424 — 2026-10-13T09:29:30Z — rq_3424 leftover dual Association des Compagnons Bâtisseurs Marche-en-Famenne YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Association des Compagnons Bâtisseurs** → KBO 0417.535.411 had 0 prior entity rows.
+- KBO: Actief since 29 juli 1977; VZW; zetel Marche, Place du Roi Albert 9 6900 Marche-en-Famenne; 4 VE; 0 prior entity rows for 0417.535.411
+- Found: official NBB VKT-VZW native PDF **2026-00335146** (53080 B / 16p; AV 11-04-2026; neergelegd 27/07/2026; MD5 4d61d8fb80ef02971d0311847b3e7d6b). VKT-VZW 9900 **EUR989281** (-2.19%); 62 **EUR748375**; 9901 **EUR39739** (was 27594); 9904 29118; equity 419330; cash 198029; FTE 10 (was 10).
+- FOI address: administration@compagnonsbatisseurs.be — administration role mailbox verified on the official site https://www.compagnonsbatisseurs.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_compagnons_batisseurs_marche_vaph_matrix_9900_0_99m_9901_40k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3424/; rq_3424=done; spawn **rq_3425**; ticks=3424.
+- Next: **rq_3425 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
