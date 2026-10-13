@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T16:04:16Z,every10_3640,3640,no,"tick3640 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3640 carried open; next CMGV, AJILE, Kind en Samenleving, Poëziecentrum, Le Fil (code 9900), then a new bounded KBO scan"
+main,continuous,hole_fill,2026-10-13T16:04:25Z,rq_3640,3641,no,tick3641 leftover dual Centre de Médiation des Gens du Voyage et des Roms (CMGV) Namur 0861.684.850 Strong PDF 2026-00410125 9900 0.57m / 9901 loss 5k; next rq_3642 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

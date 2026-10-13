@@ -39240,3 +39240,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3640 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3640 run locally as fallback.
 - Next: **rq_3640** — code 9900 (NOT subsidy amounts): CMGV (EUR0.57m), AJILE (EUR0.56m), Kind en Samenleving (EUR0.53m), Poëziecentrum (EUR0.52m), Le Fil (EUR0.51m); mailboxes verified on official sites, after the dedup check. Then a new bounded KBO scan.
+
+
+## Tick 3641 — 2026-10-13T16:04:25Z — rq_3640 leftover dual Centre de Médiation des Gens du Voyage et des Roms (CMGV) Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre de Médiation des Gens du Voyage et des Roms (CMGV)** → KBO 0861.684.850 had 0 prior entity rows.
+- KBO: Actief since 18 november 2003; VZW; zetel Rue Borgnet 12 5000 Namur; 1 VE; 0 prior entity rows for 0861.684.850
+- Found: official NBB MIC-VZW native PDF **2026-00410125** (51943 B / 14p; AV 04-06-2026; neergelegd 20/08/2026; MD5 cd2da588787f09ab371025efd2c6e356). MIC-VZW 9900 **EUR568779** (+5.68%); 62 **EUR528855**; 9901 **EUR-4507** (was 4815); 9904 -6024; equity 111705; cash 109807; FTE n/a.
+- FOI address: info@cmgv.be — general mailbox verified on the official site https://www.cmgv.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_cmgv_namur_vaph_matrix_9900_0_57m_9901_loss_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3641/; rq_3640=done; spawn **rq_3642**; ticks=3641.
+- Next: **rq_3642 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
