@@ -39040,3 +39040,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3620 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3620 run locally as fallback.
 - Next: **rq_3620** — code 9900 (NOT subsidy amounts): De Schoolbrug (EUR1.12m), BioForum (EUR0.98m), Badje (EUR0.87m), Bond zonder Naam Sociaal Cultureel Werk (EUR0.82m), Make-A-Wish Belgium-Vlaanderen (EUR0.80m); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scan of 7 NACE-BEL 2025 codes (finished, triaged).
+
+
+## Tick 3621 — 2026-10-13T15:52:16Z — rq_3620 leftover dual De Schoolbrug Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **De Schoolbrug** → KBO 0479.689.447 had 0 prior entity rows.
+- KBO: Actief since 28 februari 2003; VZW; zetel Congresstraat 59 2060 Antwerpen; 1 VE; 0 prior entity rows for 0479.689.447
+- Found: official NBB VKT-VZW native PDF **2026-00121332** (48815 B / 13p; AV 29-04-2026; neergelegd 22/05/2026; MD5 d86f9a6a041268cfb456361556c44aa3). VKT-VZW 9900 **EUR1122158** (-2.40%); 62 **EUR1115502**; 9901 **EUR20** (was 299); 9904 844; equity 49291; cash 178479; FTE 13,8 (was 15,1).
+- FOI address: info@deschoolbrug.be — general mailbox verified on the official site https://www.deschoolbrug.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_de_schoolbrug_antwerpen_vaph_matrix_9900_1_12m_9901_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3621/; rq_3620=done; spawn **rq_3622**; ticks=3621.
+- Next: **rq_3622 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
