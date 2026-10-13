@@ -39740,3 +39740,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3690 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3690 run locally as fallback.
 - Next: **rq_3690** — code 9900 (NOT subsidy amounts): Mille Lieux de Vie (EUR0.45m, micro), Rondpunt (EUR0.32m, micro), Betonne Jeugd (EUR0.31m, micro), Imp’ACT (EUR0.31m, micro), Timotheus (EUR0.13m); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scans nscan6/nscan5.
+
+
+## Tick 3691 — 2026-10-13T16:49:25Z — rq_3690 leftover dual Mille Lieux de Vie (AMO) Huy YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Mille Lieux de Vie (AMO)** → KBO 0450.433.752 had 0 prior entity rows.
+- KBO: Actief since 30 juni 1993; VZW; zetel Rue de l'Harmonie 3 4500 Huy; 1 VE; 0 prior entity rows for 0450.433.752
+- Found: official NBB MIC-VZW native PDF **2026-00234306** (36210 B / 9p; AV 10-06-2026; neergelegd 29/06/2026; MD5 c78f89115f3f1a92c0372554d6598543). MIC-VZW 9900 **EUR453406** (+3.32%); 62 **EUR440315**; 9901 **EUR5804** (was 7333); 9904 3968; equity 155932; cash 323125; FTE n/a.
+- FOI address: team@amo-millelieuxdevie.be — team mailbox verified on the official site https://amo-millelieuxdevie.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_mille_lieux_de_vie_huy_vaph_matrix_9900_0_45m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3691/; rq_3690=done; spawn **rq_3692**; ticks=3691.
+- Next: **rq_3692 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
