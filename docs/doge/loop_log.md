@@ -37590,3 +37590,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: office@atlantis-vzw.com — general mailbox verified on the official site https://www.atlantis-vzw.com/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_atlantis_sint_truiden_vaph_matrix_9900_1_45m_9901_214k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3475/; rq_3475=done; spawn **rq_3476**; ticks=3475.
 - Next: **rq_3476 leftover dual** — Batch done; code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the fresh 22-family scan for code 733 filers as pages finish, then further code 9900 leftovers from the cached NBB pool, largest first..
+
+
+## Tick 3476 — 2026-10-13T11:28:35Z — rq_3476 leftover dual Mission régionale pour l'Insertion et l'Emploi de Charleroi (MIREC) Charleroi YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Mission régionale pour l'Insertion et l'Emploi de Charleroi (MIREC)** → KBO 0443.875.958 had 0 prior entity rows.
+- KBO: Actief since 18 januari 1991; VZW; zetel Route de Trazegnies 41 6031 Charleroi; 1 VE; 0 prior entity rows for 0443.875.958
+- Found: official NBB VKT-VZW native PDF **2026-00128874** (454927 B / 32p; AV 29-05-2026; neergelegd 01/06/2026; MD5 f491be9698230d686a0f9fd7898250e8). VKT-VZW 9900 **EUR4644927** (+1.70%); 62 **EUR4587012**; 9901 **EUR19588** (was 56640); 9904 2731; equity 620863; cash 592142; FTE 61,8 (was 63).
+- FOI address: contact@mirec.net — general mailbox verified on the official site https://www.mirec.net/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_mirec_charleroi_vaph_matrix_9900_4_64m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3476/; rq_3476=done; spawn **rq_3477**; ticks=3476.
+- Next: **rq_3477 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
