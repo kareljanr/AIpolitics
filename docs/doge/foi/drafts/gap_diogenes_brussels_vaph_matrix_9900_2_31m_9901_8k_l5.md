@@ -1,0 +1,29 @@
+# FOI draft — Diogenes (street work Brussels) (9900 2.31m / 9901 8k)
+
+**gap_id:** `gap_diogenes_brussels_vaph_matrix_9900_2_31m_9901_8k_l5`  
+**status:** ready (NOT sent)  
+**language:** FR (Walloon French-language body; template `docs/doge/foi-template-fr.md`)  
+**entity:** Diogenes (street work Brussels) ASBL — BCE/KBO **0460.376.648** (Actief; VZW; siège Ninoofseplein 10 1000 Brussel; 1 UE)  
+**recipient:** Diogenes (street work Brussels) ASBL / Président(e) du conseil d'administration — info@diogenes.brussels — Place de Ninove 10, 1000 Bruxelles  
+**recipient note:** general mailbox verified on the official site https://www.diogenes.brussels/  
+**legal basis note:** voluntary request; no legal-basis claim made for this private-law ASBL; the subsidising authorities hold the decisions  
+**sources:** official NBB VKT-VZW native PDF deposit **2026-00213510** (46586 B / 11p; AG 24-03-2026; déposé 29/06/2026; MD5 85baa6b7b856fa252322090a42f6817e) + KBO + Large Brussels social-work non-profits from a KBO activity-code scan (NACE 88.999, all Brussels postcodes; 523 legal persons not yet in the repo), chosen after the City of Brussels 2025 register tail became small; code 733 rows first, then code 9900, largest first
+
+## Objet
+Demande d'informations — subsides et comptes 2025 de Diogenes (street work Brussels) ASBL
+
+## Madame, Monsieur,
+
+La présente demande vous est adressée **à titre volontaire**, dans un souci de transparence sur l'utilisation de moyens publics par une ASBL agréée et subventionnée. Elle ne préjuge pas de la question de savoir si un régime légal de publicité de l'administration vous est applicable (une ASBL de droit privé n'en relève en principe pas). Une demande parallèle pourra être adressée aux pouvoirs subsidiants pour les décisions qu'ils détiennent.
+
+Je vous demande dès lors une copie des documents et chiffres suivants concernant **Diogenes (street work Brussels) ASBL** (BCE 0460.376.648) :
+
+1. La ventilation de la **marge brute 2025 (code 9900) de 2.314.508 EUR** (2024 : **2.345.209 EUR**) entre subsides par pouvoir subsidiant (pouvoirs publics (régionaux, communautaires, fédéraux et/ou européens selon le cas ; non ventilés dans les comptes), autres), autres financements publics et recettes propres.
+2. Le **nombre de personnes accompagnées et d'activités réalisées** en 2025, et le coût par personne accompagnée.
+3. Les décisions d'agrément, conventions et arrêtés de subvention applicables pour 2025, par pouvoir subsidiant.
+4. L'affectation **du bénéfice de l'exercice (8.696 EUR)** et la politique de réserves au regard des **liquidités de 419.055 EUR** (2024 : **627.175 EUR**).
+
+Une réponse par courriel est privilégiée. Ce courrier est un **projet** (status ready) et **n'a pas été envoyé**.
+
+Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées.  
+Kareljan Raes

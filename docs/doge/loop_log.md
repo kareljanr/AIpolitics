@@ -35354,3 +35354,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sasls.irisnet.be — general mailbox verified on the official site https://sasls-dmbsh.be/nous-contacter/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_sasls_dmbsh_vaph_matrix_9900_4_13m_9901_loss_235k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3251/; rq_3250=done; spawn **rq_3252**; ticks=3251.
 - Next: **rq_3252 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3252 — 2026-10-13T02:46:01Z — rq_3252 leftover dual Diogenes (street work Brussels) Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Large Brussels social-work non-profits from a KBO activity-code scan (NACE 88.999, all Brussels postcodes; 523 legal persons not yet in the repo), chosen after the City of Brussels 2025 register tail became small; code 733 rows first, then code 9900, largest first: **Diogenes (street work Brussels)** → KBO 0460.376.648 had 0 prior entity rows.
+- KBO: Actief since 10 januari 1997; VZW; zetel Ninoofseplein 10 1000 Brussel; 1 VE; 0 prior entity rows for 0460.376.648
+- Found: official NBB VKT-VZW native PDF **2026-00213510** (46586 B / 11p; AV 24-03-2026; neergelegd 29/06/2026; MD5 85baa6b7b856fa252322090a42f6817e). VKT-VZW 9900 **EUR2314508** (-1.31%); 62 **EUR2292580**; 9901 **EUR7999** (was 65322); 9904 8696; equity 205319; cash 419055; FTE 36,3 (was 35).
+- FOI address: info@diogenes.brussels — general mailbox verified on the official site https://www.diogenes.brussels/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_diogenes_brussels_vaph_matrix_9900_2_31m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3252/; rq_3252=done; spawn **rq_3253**; ticks=3252.
+- Next: **rq_3253 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
