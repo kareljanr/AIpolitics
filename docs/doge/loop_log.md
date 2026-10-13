@@ -37550,3 +37550,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@aideetreclassement.be — general mailbox verified on the official site https://aideetreclassement.be/secretariat-contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_aide_et_reclassement_huy_vaph_matrix_9900_1_57m_9901_loss_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3471/; rq_3470=done; spawn **rq_3472**; ticks=3471.
 - Next: **rq_3472 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3472 — 2026-10-13T11:19:40Z — rq_3472 leftover dual Médiante Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Médiante** → KBO 0473.168.473 had 0 prior entity rows.
+- KBO: Actief since 18 juli 2000; VZW; zetel Avenue Comte de Smet de Nayer 1 bus 16 5000 Namur; 1 VE; 0 prior entity rows for 0473.168.473
+- Found: official NBB VKT-VZW native PDF **2026-00243003** (43606 B / 11p; AV 27-05-2026; neergelegd 30/06/2026; MD5 fccf440410fe5bba3eea078b3fffedd5). VKT-VZW 9900 **EUR1545526** (+9.45%); 62 **EUR1555888**; 9901 **EUR-13899** (was -25697); 9904 -12785; equity 142050; cash 342655; FTE 17,6 (was 17,6).
+- FOI address: secretariat@mediante.be — role (secretariat) mailbox verified on the official site https://www.mediante.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_mediante_namur_vaph_matrix_9900_1_55m_9901_loss_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3472/; rq_3472=done; spawn **rq_3473**; ticks=3472.
+- Next: **rq_3473 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
