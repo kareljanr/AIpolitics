@@ -38550,3 +38550,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mobileschool.org — general mailbox verified on the official site https://www.mobileschool.org/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_mobile_school_leuven_vaph_matrix_9900_0_51m_9901_loss_29k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3571/; rq_3570=done; spawn **rq_3572**; ticks=3571.
 - Next: **rq_3572 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3572 — 2026-10-13T15:11:31Z — rq_3572 leftover dual De Landgenoten Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **De Landgenoten** → KBO 0567.777.028 had 0 prior entity rows.
+- KBO: Actief since 23 oktober 2014; VZW; zetel Regine Beerplein 1 bus E305 2018 Antwerpen; 1 VE; 0 prior entity rows for 0567.777.028
+- Found: official NBB VKT-VZW native PDF **2026-00112893** (56835 B / 16p; AV 18-04-2026; neergelegd 18/05/2026; MD5 73cab97f5ab0989d8c2310b41101e724). VKT-VZW 9900 **EUR509850** (+44.45%); 62 **EUR282205**; 9901 **EUR218865** (was 199614); 9904 222688; equity 4109546; cash 751594; FTE 3,7 (was 2,1).
+- FOI address: contact@delandgenoten.be — general mailbox verified on the official site https://www.delandgenoten.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_de_landgenoten_antwerpen_vaph_matrix_9900_0_51m_9901_219k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3572/; rq_3572=done; spawn **rq_3573**; ticks=3572.
+- Next: **rq_3573 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
