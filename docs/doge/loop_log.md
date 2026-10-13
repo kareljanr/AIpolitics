@@ -36840,3 +36840,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3400 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3400 run locally as fallback.
 - Next: **rq_3400** — code 9900 (NOT subsidy amounts): CAPE (EUR4.56m), La Babillarde (EUR3.55m), CEMôme (EUR3.25m), Jeunesses Musicales (EUR2.21m), Scouts et Guides Pluralistes (EUR1.90m); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3401 — 2026-10-13T08:50:40Z — rq_3400 leftover dual Centre d'Accueil pour l'Enfant (CAPE) Nivelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre d'Accueil pour l'Enfant (CAPE)** → KBO 0424.693.219 had 0 prior entity rows.
+- KBO: Actief since 29 september 1983; VZW; zetel Rue Coquerne 6 1400 Nivelles; 55 VE; 0 prior entity rows for 0424.693.219
+- Found: official NBB VKT-VZW native PDF **2026-00109159** (53132 B / 14p; AV 14-04-2026; neergelegd 12/05/2026; MD5 78dded2c43f7b819a46f9e081ef62d42). VKT-VZW 9900 **EUR4559089** (+3.69%); 62 **EUR4529081**; 9901 **EUR74232** (was 102256); 9904 90107; equity 793227; cash 276616; FTE 93,7 (was 89,3).
+- FOI address: inscription@cape-asbl.be — enrolment role mailbox verified on the official site https://cape-asbl.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_cape_nivelles_vaph_matrix_9900_4_56m_9901_74k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3401/; rq_3400=done; spawn **rq_3402**; ticks=3401.
+- Next: **rq_3402 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
