@@ -37580,3 +37580,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@relianceasbl.be — general mailbox verified on the official site https://www.relianceasbl.be/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_reliance_la_louviere_vaph_matrix_9900_1_46m_9901_294k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3474/; rq_3474=done; spawn **rq_3475**; ticks=3474.
 - Next: **rq_3475 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3475 — 2026-10-13T11:20:14Z — rq_3475 leftover dual Atlantis Sint-Truiden YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Atlantis** → KBO 0426.431.103 had 0 prior entity rows.
+- KBO: Actief since 19 november 1983; VZW; zetel Schepen Dejonghstraat 43 3800 Sint-Truiden; 1 VE; 0 prior entity rows for 0426.431.103
+- Found: official NBB VKT-VZW native PDF **2026-00549537** (41692 B / 15p; AV 12-06-2026; neergelegd 30/09/2026; MD5 f5592921acc3d0256329564b1e9effc7). VKT-VZW 9900 **EUR1447022** (+30.41%); 62 **EUR996435**; 9901 **EUR214079** (was 66660); 9904 194512; equity 1723831; cash 223055; FTE 0 (was 0).
+- FOI address: office@atlantis-vzw.com — general mailbox verified on the official site https://www.atlantis-vzw.com/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_atlantis_sint_truiden_vaph_matrix_9900_1_45m_9901_214k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3475/; rq_3475=done; spawn **rq_3476**; ticks=3475.
+- Next: **rq_3476 leftover dual** — Batch done; code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the fresh 22-family scan for code 733 filers as pages finish, then further code 9900 leftovers from the cached NBB pool, largest first..
