@@ -37530,3 +37530,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: welcome@wiels.org — general mailbox verified on the official site https://www.wiels.org/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_wiels_vorst_vaph_matrix_9900_1_61m_9901_loss_255k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3469/; rq_3469=done; spawn **rq_3470**; ticks=3469.
 - Next: **rq_3470 leftover dual** — Batch done; code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: Aide et Reclassement, Médiante, Maison de Quartier d’Helmet, Reliance, Atlantis (code 9900), and triage of the fresh 22-family scan for code 733 filers as pages finish..
+
+
+## Tick 3470 — 2026-10-13T11:19:17Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3060** of 3115 rows; inventory budgets 63201 · commitments 7115 · leaderboard 9233 · entities 3133 · sources 10278.
+- Top10: **stable** (3461-3469 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3461-3469: Article 23 · Phénix · RaCYNes · Bednet · Ulysse · SOS-Hilfe · Le Traversier · Uit de Marge · WIELS.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3470 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3470 run locally as fallback.
+- Next: **rq_3470** — code 9900 (NOT subsidy amounts): Aide et Reclassement (EUR1.57m), Médiante (EUR1.55m), Maison de Quartier d’Helmet (EUR1.55m), Reliance (EUR1.46m), Atlantis (EUR1.45m); mailboxes verified on official sites, after the dedup check. Fresh scan of 22 new NACE families still running (63 of 440 pages done; no code 733 rows yet).

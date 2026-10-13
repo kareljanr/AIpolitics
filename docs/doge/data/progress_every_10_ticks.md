@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3470** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3460; 3461-3469 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3461-3469 residual dual L5 (not near-complete of 348bn):** Article 23 · Phénix · RaCYNes · Bednet · Ulysse · SOS-Hilfe · Le Traversier · Uit de Marge · WIELS (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3060** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3115** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3461-3469** Article 23 · Phénix · RaCYNes · Bednet · Ulysse · SOS-Hilfe · Le Traversier · Uit de Marge · WIELS.
+
+### Inventory (tick 3470)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 63201 |
+| commitments.csv | 7115 |
+| leaderboard.csv | 9233 |
+| entities.csv | 3133 |
+| sources.csv | 10278 |
+| FOI ready | 3060 |
+| FOI total rows | 3115 |
+| research_queue open | rq_3470 (carried; next: Aide et Reclassement, Médiante, Maison de Quartier d’Helmet, Reliance, Atlantis (code 9900 leftovers; fresh scan of 22 new NACE families 63 of 440 pages finished, no code 733 rows yet); largest first) |
+
+### What improved since tick 3460
+
+- **New source (tick3461-3469):** Article 23 · Phénix · RaCYNes · Bednet · Ulysse · SOS-Hilfe · Le Traversier · Uit de Marge · WIELS. All nine are code 9900 leftovers (NOT subsidy amounts), largest first within each group; the code 733 pool from all earlier scans is used up (Médiathèque Nouvelle retried, site still unreachable). Scan status: the fresh scan of 22 not-yet-scanned NACE families (85.4x, 85.5x, 85.6, 90.0x, 91.0x, 93.29x, 86.909, 82.300, 74.909) is still running but made no progress this batch; at tick 3470, 63 of its 440 pages had finished (85.51x, 85.53x, 93.29x and 82.300). Triage of the keys from those pages is still running (about 870 of 2,306 keys checked) and has found no code 733 rows so far. EU-level and international bodies and duplicates excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3470 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3460** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
