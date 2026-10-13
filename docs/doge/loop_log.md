@@ -34522,3 +34522,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cof.be — general mailbox verified on official contact page https://www.cof.be/contact/ (page shows the BCE number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_cof_amay_vaph_matrix_9900_4_83m_9901_126k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3168/; rq_3168=done; spawn **rq_3169**; ticks=3168.
 - Next: **rq_3169 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3169 — 2026-10-13T00:37:25Z — rq_3169 leftover dual Lire et Ecrire Communauté française Anderlecht YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon/Brussels training, literacy and disability-service non-profits plus remaining university colleges (CISP/OISP training centres, Lire et Ecrire network, AVIQ medico-pedagogical institutes, Flemish hogescholen VZW); fresh KBO name searches (legal form ASBL/VZW; words such as Université/Universiteit, Hogeschool, Enseignement spécialisé/Buitengewoon onderwijs, Médico-pédagogique, CISP, Lire et Ecrire, Mission régionale, Centre de formation), filings ranked by NBB code 733 subsidies (full model) or code 9900 gross margin (abbreviated model), largest first; every candidate passed the name/alias/KBO/website dedup check: **Lire et Ecrire Communauté française** → KBO 0442.236.559 had 0 prior entity rows.
+- KBO: Actief since 24 november 1989; VZW; zetel Veeartsenstraat 42 1070 Anderlecht; 1 VE; 0 prior entity rows for 0442.236.559
+- Found: official NBB VKT-VZW native PDF **2026-00298955** (526118 B / 32p; AV 26-06-2026; neergelegd 16/07/2026; MD5 1f0d040b390a0cb5917d1dcd750724bd). VKT-VZW 9900 **EUR3960683** (+7.31%); 62 **EUR1025813**; 9901 **EUR-1816** (was 65196); 9904 93; equity 459416; cash 315852; FTE 12,8 (was 11,6).
+- FOI address: lire-et-ecrire@lire-et-ecrire.be — general mailbox verified on official contact page https://lire-et-ecrire.be/Contacts-Lire-et-Ecrire-Communaute-francaise.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_anderlecht); FOI **gap_lee_communaute_francaise_vaph_matrix_9900_3_96m_9901_loss_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3169/; rq_3169=done; spawn **rq_3170**; ticks=3169.
+- Next: **rq_3170 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
