@@ -40880,3 +40880,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@destudio.com — general mailbox verified on the official site https://www.destudio.com/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_de_studio_villanella_antwerpen_vaph_matrix_9900_1_76m_9901_loss_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3804/; rq_3804=done; spawn **rq_3805**; ticks=3804.
 - Next: **rq_3805 leftover dual** — Partial batch (3796-3798); recipients from the Flemish Subsidieregister 2025_V01 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; file kept outside the repo), non-profits not yet in the data ranked by toegekend; amounts from the NBB 2025 filings (code 733 for full-model filers, otherwise code 9900, NOT a subsidy amount), register figure cited per verstrekker; Skipped: BABELU (Babilou group-run childcare), Team Bedrijfstrajecten (VLAIO front office, public body), Solidariteit Antwerpen, Rosas and Kunstencentrum Nona (no general mailbox on own site), Buurtwerk ’t Lampeke (site address differs from KBO), Wijgmaalbroek (group-run). Next: remaining Subsidieregister candidates (/workspace/subreg/cands.tsv)..
+
+
+## Tick 3805 — 2026-10-13T22:20:53Z — rq_3805 leftover dual Rebelle Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Rebelle** → KBO 0412.830.713 had 0 prior entity rows.
+- KBO: Actief since 4 september 1972; VZW; zetel Sint-Jansstraat 32 1000 Brussel; 24 VE; 0 prior entity rows for 0412.830.713
+- Found: official NBB VKT-VZW native PDF **2026-00076008** (422252 B / 21p; AV 17-03-2026; neergelegd 08/04/2026; MD5 24ebf9f1c2318f95b7ede844950c33e2). VKT-VZW 9900 **EUR3528019** (+4.26%); 62 **EUR3413806**; 9901 **EUR15405** (was 243499); 9904 14946; equity 568175; cash 524341; FTE 49,1 (was 44,5).
+- FOI address: info@rebelle-vzw.be — general mailbox verified on the official site https://www.rebelle-vzw.be/rebelle-contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_rebelle_brussel_vaph_matrix_9900_3_53m_9901_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3805/; rq_3805=done; spawn **rq_3806**; ticks=3805.
+- Next: **rq_3806 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
