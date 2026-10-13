@@ -38950,3 +38950,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cbai.be — general mailbox verified on the official site https://www.cbai.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cbai_bruxelles_vaph_matrix_9900_2_37m_9901_18k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3611/; rq_3610=done; spawn **rq_3612**; ticks=3611.
 - Next: **rq_3612 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3612 — 2026-10-13T15:47:21Z — rq_3612 leftover dual Mpact Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Mpact** → KBO 0415.131.393 had 0 prior entity rows.
+- KBO: Actief since 27 maart 1975; VZW; zetel Koningin Maria Hendrikaplein 65 bus B 9000 Gent; 2 VE; 0 prior entity rows for 0415.131.393
+- Found: official NBB VKT-VZW native PDF **2026-00132472** (58532 B / 18p; AV 23-04-2026; neergelegd 02/06/2026; MD5 21abfee639c54b8baa2872e2474d30cd). VKT-VZW 9900 **EUR1376277** (-25.42%); 62 **EUR1189560**; 9901 **EUR24142** (was 57492); 9904 20012; equity 557633; cash 520449; FTE 16,9 (was 23,7).
+- FOI address: info@mpact.be — general mailbox verified on the official site https://www.mpact.be/contact (the site's offices page lists the KBO number; KBO registered seat Koningin Maria Hendrikaplein 65B).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_mpact_gent_vaph_matrix_9900_1_38m_9901_24k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3612/; rq_3612=done; spawn **rq_3613**; ticks=3612.
+- Next: **rq_3613 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
