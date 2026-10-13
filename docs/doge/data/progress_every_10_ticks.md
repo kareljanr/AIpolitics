@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3690** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3680; 3681-3689 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3681-3689 residual dual L5 (not near-complete of 348bn):** L’Échelle · De Kei · Opvangcentrum voor Vogels en Wilde Dieren Oostende · De Keerkring · AMO de NOH · Iles de Paix · ROTS · Accueil et Solidarité · ’t Werkhuys (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3258** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3313** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3681-3689** L’Échelle · De Kei · Opvangcentrum voor Vogels en Wilde Dieren Oostende · De Keerkring · AMO de NOH · Iles de Paix · ROTS · Accueil et Solidarité · ’t Werkhuys.
+
+### Inventory (tick 3690)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 64791 |
+| commitments.csv | 7313 |
+| leaderboard.csv | 9431 |
+| entities.csv | 3331 |
+| sources.csv | 10872 |
+| FOI ready | 3258 |
+| FOI total rows | 3313 |
+| research_queue open | rq_3690 (carried; next: Mille Lieux de Vie, Rondpunt, Betonne Jeugd, Imp’ACT, Timotheus (code 9900 rows from bounded KBO scans nscan6/nscan5); largest first) |
+
+### What improved since tick 3680
+
+- **New source (tick3681-3689):** L’Échelle · De Kei · Opvangcentrum voor Vogels en Wilde Dieren Oostende · De Keerkring · AMO de NOH · Iles de Paix · ROTS · Accueil et Solidarité · ’t Werkhuys. Iles de Paix is a code 733 filer (subsidies, funder not verified); the rest are code 9900 rows (NOT subsidy amounts) from bounded KBO scans nscan5 and nscan6, largest first. Mailboxes verified on each body’s own site; rejected: ISP, personal or mismatched-domain mailboxes, contact-form-only sites, KBO mismatches, directory or umbrella sites, federations and OCMW bodies. Médiathèque Nouvelle still unreachable (HTTP 000).
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3690 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked at start of batch 3686-3695: no github-actions DOGE tick commits. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3680** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

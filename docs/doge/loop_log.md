@@ -39730,3 +39730,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@werkhuys.be — general mailbox verified on the official site https://www.werkhuys.be/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_t_werkhuys_borgerhout_vaph_matrix_9900_0_51m_9901_60k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3689/; rq_3689=done; spawn **rq_3690**; ticks=3689.
 - Next: **rq_3690 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3690 — 2026-10-13T16:49:17Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3258** of 3313 rows; inventory budgets 64791 · commitments 7313 · leaderboard 9431 · entities 3331 · sources 10872.
+- Top10: **stable** (3681-3689 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3681-3689: L’Échelle · De Kei · Opvangcentrum voor Vogels en Wilde Dieren Oostende · De Keerkring · AMO de NOH · Iles de Paix · ROTS · Accueil et Solidarité · ’t Werkhuys.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3690 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3690 run locally as fallback.
+- Next: **rq_3690** — code 9900 (NOT subsidy amounts): Mille Lieux de Vie (EUR0.45m, micro), Rondpunt (EUR0.32m, micro), Betonne Jeugd (EUR0.31m, micro), Imp’ACT (EUR0.31m, micro), Timotheus (EUR0.13m); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scans nscan6/nscan5.
