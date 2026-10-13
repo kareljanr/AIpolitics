@@ -38120,3 +38120,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@relaisenfantsparents.be — general mailbox verified on the official site https://www.relaisenfantsparents.be/mentions-legales-et-vie-privee (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_relais_enfants_parents_sjtn_vaph_matrix_9900_0_76m_9901_16k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3528/; rq_3528=done; spawn **rq_3529**; ticks=3528.
 - Next: **rq_3529 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3529 — 2026-10-13T12:20:14Z — rq_3529 leftover dual Schaerbeek Action Emploi Schaerbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Schaerbeek Action Emploi** → KBO 0873.240.718 had 0 prior entity rows.
+- KBO: Actief since 18 april 2005; VZW; zetel Masuistraat 186 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0873.240.718
+- Found: official NBB VKT-VZW native PDF **2026-00220967** (228242 B / 21p; AV 25-06-2026; neergelegd 30/06/2026; MD5 793c49ac7c7bc6ab1358dfe9deef3e4b). VKT-VZW 9900 **EUR731532** (+5.66%); 62 **EUR699603**; 9901 **EUR9440** (was 12091); 9904 8819; equity 85302; cash 197502; FTE 15,5 (was 15).
+- FOI address: info@sae1030.be — general mailbox verified on the official site https://www.sae1030.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_schaerbeek_action_emploi_vaph_matrix_9900_0_73m_9901_9k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3529/; rq_3529=done; spawn **rq_3530**; ticks=3529.
+- Next: **rq_3530 leftover dual** — Batch done (3526-3535); code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (remaining 82.300 / 93.29x pages and the 20 NACE-BEL 2025 replacement codes still scanning), then further code 9900 leftovers from the cached NBB pool, largest first..
