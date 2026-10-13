@@ -39680,3 +39680,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@keerkring.be — general mailbox verified on the official site https://keerkring.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_keerkring_sint_niklaas_vaph_matrix_9900_0_58m_9901_loss_29k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3684/; rq_3684=done; spawn **rq_3685**; ticks=3684.
 - Next: **rq_3685 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3685 — 2026-10-13T16:38:36Z — rq_3685 leftover dual AMO de NOH Neder-Over-Heembeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **AMO de NOH** → KBO 0430.945.759 had 0 prior entity rows.
+- KBO: Actief since 29 mei 1985; VZW; zetel Heembeeksestraat 240-242 1120 Brussel; 1 VE; 0 prior entity rows for 0430.945.759
+- Found: official NBB MIC-VZW native PDF **2026-00226765** (40078 B / 10p; AV 17-06-2026; neergelegd 30/06/2026; MD5 f90dd807c4715be02e3522e64cf268cd). MIC-VZW 9900 **EUR516699** (+3.40%); 62 **EUR510232**; 9901 **EUR1881** (was 260); 9904 1973; equity 117457; cash 156651; FTE n/a.
+- FOI address: contact@amo-noh.net — general mailbox verified on the official site https://amo-noh.net/?page_id=14 (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_amo_de_noh_neder_over_heembeek_vaph_matrix_9900_0_52m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3685/; rq_3685=done; spawn **rq_3686**; ticks=3685.
+- Next: **rq_3686 leftover dual** — Batch done (3676-3685); code 9900 rows from bounded KBO scan nscan5, largest first; no qualifying code 733 filer (Médiathèque Nouvelle still unreachable). Next: further code 9900 rows from nscan5, largest first, or a new bounded scan..
