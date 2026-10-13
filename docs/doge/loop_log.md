@@ -34642,3 +34642,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3180 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3180 run locally as fallback.
 - Next: **rq_3180** — Centre scolaire Saint-Michel Etterbeek (code 733 EUR14.22m), Collège Jean XXIII (EUR12.25m), Saint-Joseph Chimay (EUR11.60m), Sainte-Marie Fontaine-l'Evêque (EUR9.79m), Saint-Remacle Stavelot (EUR8.16m), @sec.cfwb.be mailboxes from the SeGEC directory, after the dedup check.
+
+
+## Tick 3181 — 2026-10-13T00:52:44Z — rq_3180 leftover dual Centre Scolaire Saint-Michel (Etterbeek) Etterbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB special-needs and secondary-school organising bodies (ASBL) whose school mailbox (@sec.cfwb.be) is listed on the SeGEC school directory (enseignement.catholique.be, crawled 13 Oct 2026, 1,789 school pages) and matched to the KBO by name; largest code 733 first: **Centre Scolaire Saint-Michel (Etterbeek)** → KBO 0408.159.172 had 0 prior entity rows.
+- KBO: Actief since 3 maart 1971; VZW; zetel Sint-Michielslaan 26 1040 Etterbeek; 5 VE; 0 prior entity rows for 0408.159.172
+- Found: official NBB VOL-VZW native PDF **2026-00498166** (742871 B / 47p; AV 04-06-2026; neergelegd 31/08/2026; MD5 74d9305035bd5f08e15b61e5e3f8bc1f). VOL-VZW 733 **EUR14221782** (-0.46%); 62 **EUR13330688**; 9901 **EUR62833** (was 329829); 9904 0; equity 3520590; cash 1634560; FTE 21,9 (was 22,7).
+- FOI address: cstmichel.bxl@sec.cfwb.be — FWB-issued school mailbox (cstmichel.bxl@sec.cfwb.be) of Centre scolaire Saint-Michel (Etterbeek), a school run by this organising body, as listed on the SeGEC school directory https://enseignement.catholique.be/etablissements/centre-scolaire-saint-michel/ (the page names this ASBL as pouvoir organisateur); per user decision of 13 Oct 2026 an @sec.cfwb.be school address on the SeGEC/enseignement.be directory counts; not a mailbox of the ASBL's board itself.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cs_saint_michel_etterbeek_vaph_matrix_733_14_22m_9901_63k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3181/; rq_3180=done; spawn **rq_3182**; ticks=3181.
+- Next: **rq_3182 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
