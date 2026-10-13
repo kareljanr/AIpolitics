@@ -40200,3 +40200,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: coordination@avj-namur.be — general mailbox verified on the official site https://www.avj-namur.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_avj_namur_vaph_matrix_9900_0_92m_9901_loss_164k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3736/; rq_3736=done; spawn **rq_3737**; ticks=3736.
 - Next: **rq_3737 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3737 — 2026-10-13T18:43:02Z — rq_3737 leftover dual CRILUX (Centre régional d'intégration de la province de Luxembourg) Libramont-Chevigny YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **CRILUX (Centre régional d'intégration de la province de Luxembourg)** → KBO 0548.909.142 had 0 prior entity rows.
+- KBO: Actief since 26 maart 2014; VZW; zetel Libramont,Avenue de Houffalize 44 6800 Libramont-Chevigny; 1 VE; 0 prior entity rows for 0548.909.142
+- Found: official NBB MIC-VZW native PDF **2026-00186396** (54677 B / 13p; AV 20-05-2026; neergelegd 23/06/2026; MD5 9cd9e7ec5383ea24e40c9a6cc4862f0b). MIC-VZW 9900 **EUR905419** (-3.23%); 62 **EUR884733**; 9901 **EUR18343** (was 13059); 9904 19438; equity 102360; cash 243796; FTE n/a.
+- FOI address: info@crilux.be — general mailbox verified on the official site https://www.crilux.be/contacts/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_crilux_libramont_vaph_matrix_9900_0_91m_9901_18k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3737/; rq_3737=done; spawn **rq_3738**; ticks=3737.
+- Next: **rq_3738 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
