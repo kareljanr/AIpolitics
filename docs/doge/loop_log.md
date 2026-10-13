@@ -36530,3 +36530,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@tracimat.be — general mailbox verified on the official site https://www.tracimat.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_tracimat_brussel_vaph_matrix_9900_1_83m_9901_397k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3369/; rq_3369=done; spawn **rq_3370**; ticks=3369.
 - Next: **rq_3370 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3370 — 2026-10-13T07:31:06Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2970** of 3025 rows; inventory budgets 62475 · commitments 7025 · leaderboard 9143 · entities 3043 · sources 10008.
+- Top10: **stable** (3361-3369 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3361-3369: KAVA · Febelauto · debelux chamber · CRéSaM · Réseau des médias de proximité · CRM Group · Ecole royale militaire · Terre asbl · Tracimat.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3370 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3370 run locally as fallback.
+- Next: **rq_3370** — code 9900 (NOT subsidy amounts): Egmont Institute (EUR1.71m), Praktijkpunt Landbouw Vlaams-Brabant (EUR1.61m), CRISP (EUR1.49m), Epicuris (EUR1.14m), Pour la Solidarité (EUR1.03m); mailboxes verified on official sites, after the dedup check.

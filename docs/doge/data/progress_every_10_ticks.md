@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3370** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3360; 3361-3369 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3361-3369 residual dual L5 (not near-complete of 348bn):** KAVA · Febelauto · debelux chamber · CRéSaM · Réseau des médias de proximité · CRM Group · Ecole royale militaire · Terre asbl · Tracimat (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2970** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3025** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3361-3369** KAVA · Febelauto · debelux chamber · CRéSaM · Réseau des médias de proximité · CRM Group · Ecole royale militaire · Terre asbl · Tracimat.
+
+### Inventory (tick 3370)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 62475 |
+| commitments.csv | 7025 |
+| leaderboard.csv | 9143 |
+| entities.csv | 3043 |
+| sources.csv | 10008 |
+| FOI ready | 2970 |
+| FOI total rows | 3025 |
+| research_queue open | rq_3370 (carried; next: Egmont Institute, Praktijkpunt Landbouw Vlaams-Brabant, CRISP, Epicuris, Pour la Solidarité (NACE 72.xxx / 70.100 scans, code 9900); largest first) |
+
+### What improved since tick 3360
+
+- **New source (tick3361-3369):** KAVA · Febelauto · debelux chamber · CRéSaM · Réseau des médias de proximité · CRM Group · Ecole royale militaire · Terre asbl · Tracimat. 3361-3365 from the NACE 94.xxx scan (code 9900); 3366-3369 from new scans of NACE 72.101 / 72.109 / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000: code 733 rows first (CRM Group, Ecole royale militaire, Terre asbl), then code 9900, largest first. EU-level bodies excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3370 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3360** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
