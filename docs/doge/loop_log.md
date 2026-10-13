@@ -35740,3 +35740,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3290 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3290 run locally as fallback.
 - Next: **rq_3290** — NACE 94.991/94.992 scan (code 9900, NOT subsidy amounts): PAC (EUR3.36m), GSARA (EUR3.34m), LUSS (EUR1.94m), GAMS Belgique (EUR1.80m), Relie-F (EUR1.77m); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3291 — 2026-10-13T04:59:46Z — rq_3290 leftover dual Présence et Action Culturelles (PAC) Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scan NACE 94.991 / 94.992 (other membership organisations) over Walloon, Brussels and Flemish postcodes (974 legal persons not yet in the repo); code 733 rows first, then code 9900, largest first: **Présence et Action Culturelles (PAC)** → KBO 0446.019.163 had 0 prior entity rows.
+- KBO: Actief since 28 juni 1991; VZW; zetel Lambert Crickxstraat 5 1070 Anderlecht; 15 VE; 0 prior entity rows for 0446.019.163
+- Found: official NBB VKT-VZW native PDF **2026-00175310** (49348 B / 12p; AV 15-06-2026; neergelegd 19/06/2026; MD5 4653f5abf6996823dc7fd70f974a83ed). VKT-VZW 9900 **EUR3359389** (+3.91%); 62 **EUR3020320**; 9901 **EUR-17657** (was 2919); 9904 -13473; equity 76555; cash 808433; FTE 45,9 (was 46,7).
+- FOI address: info@pac-g.be — general mailbox verified on the official site https://www.pac-g.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_presence_action_culturelles_vaph_matrix_9900_3_36m_9901_loss_18k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3291/; rq_3290=done; spawn **rq_3292**; ticks=3291.
+- Next: **rq_3292 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
