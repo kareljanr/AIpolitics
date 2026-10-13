@@ -40760,3 +40760,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@deviezegasten.org — general mailbox verified on the official site https://www.deviezegasten.org/nl/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_vieze_gasten_gent_vaph_matrix_9900_0_55m_9901_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3792/; rq_3792=done; spawn **rq_3793**; ticks=3792.
 - Next: **rq_3793 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3793 — 2026-10-13T22:03:23Z — rq_3793 leftover dual Mobar (Mobiliteits Advies bij Rolstoelvervoer) Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Mobar (Mobiliteits Advies bij Rolstoelvervoer)** → KBO 0870.940.036 had 0 prior entity rows.
+- KBO: Actief since 31 december 2004; VZW; zetel Ottergemsesteenweg-Zuid 680 9000 Gent; 1 VE; 0 prior entity rows for 0870.940.036
+- Found: official NBB MIC-VZW native PDF **2026-00176922** (43106 B / 11p; AV 08-06-2026; neergelegd 19/06/2026; MD5 c075388a3d98412f173d66fd26104269). MIC-VZW 9900 **EUR408111** (+22.67%); 62 **EUR396168**; 9901 **EUR8351** (was 27703); 9904 14973; equity 790595; cash 184639; FTE n/a.
+- FOI address: info@mobar.eu — general mailbox verified on the official site https://www.mobar.eu/nl/diensten/aangepast-rolstoelvervoer/aangepast-vervoer-regio-gent (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_mobar_gent_vaph_matrix_9900_0_41m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3793/; rq_3793=done; spawn **rq_3794**; ticks=3793.
+- Next: **rq_3794 leftover dual** — Partial batch (3783-3793); recipients found in the Gent and Brugge open-data subsidy lists already in data/raw (gent_subs_full.json, brugge_subs_full.json), amounts from the NBB 2025 filings (code 9900, NOT subsidy amounts); VIERNULVIER and De Korrelatie skipped (no general mailbox on own site), Stadmakers site unreachable, De Overmolen HTTP 500. Next: remaining Gent/Brugge list recipients..
